@@ -1,0 +1,157 @@
+---
+title: "Biallelic Mismatch Repair Deficiency (BMMRD) Syndrome"
+category: disease-script
+tags: [bmmrd, cmmrd, mismatch-repair, hereditary-crc, colorectal-cancer, brain-tumor, lymphoma, pediatric-cancer, genetic-testing, mmr, cafe-au-lait, pms2, msh6, mlh1, msh2]
+created: 2026-05-24
+updated: 2026-05-24
+sources: [usmstf-2017-bmmrd]
+---
+
+## Assessment
+
+### Establishing the Diagnosis
+
+Biallelic mismatch repair deficiency (BMMRD) syndrome — also called constitutional mismatch repair deficiency (CMMRD) syndrome (OMIM 276300) — is a rare autosomal-recessive cancer predisposition syndrome caused by biallelic (homozygous or compound heterozygous) germline loss-of-function mutations in one of the four DNA mismatch repair (MMR) genes: **MLH1**, **MSH2**, **MSH6**, or **PMS2** [[usmstf-2017-bmmrd]].
+
+Unlike [[lynch-syndrome]], which is caused by monoallelic MMR mutations and requires a somatic second hit for tumor development, BMMRD results in complete absence of DNA-MMR activity in all tissues from birth. This produces one of the most virulent cancer predisposition syndromes known, with tumors arising predominantly in childhood and adolescence.
+
+**BMMRD occurs in 25% of offspring when both parents carry a pathogenic mutation in the same MMR gene** — i.e., both parents have Lynch syndrome. Because PMS2 heterozygous mutations carry low penetrance, most parents are clinically unaffected, and family cancer history is frequently negative [[usmstf-2017-bmmrd]].
+
+**PMS2 biallelic mutations are the most common cause**, complicated by 20 PMS2 pseudogenes in the human genome that can obscure true mutations on standard sequencing. MSH6 biallelic mutations are also over-represented compared to LS.
+
+**Clinical clues to suspect BMMRD** [[usmstf-2017-bmmrd]]:
+- Child or young adult with a Lynch syndrome-type cancer (CRC, small bowel, ureter, endometrial, etc.)
+- Child or young adult with colonic adenomatous polyposis not explained by FAP or MAP
+- Any child or young adult with cancer plus: parental consanguinity, café-au-lait macules, or features mimicking neurofibromatosis type 1 (NF1) not explained by confirmed NF1 germline mutation
+- Any cancer with abnormal MMR protein IHC in normal AND tumor tissue (see Diagnostics)
+- History of brain cancer, lymphoma, or leukemia without prior radiation
+- Any child or adult with a hypermutated tumor
+
+### Severity Assessment
+
+BMMRD is characterized by three major tumor domains, all with childhood onset [[usmstf-2017-bmmrd]]:
+
+**Gastrointestinal tumors**
+
+| Tumor | Estimated penetrance | Median age at diagnosis (range), years |
+|---|---|---|
+| Colorectal adenomas | >90% | 9 (6–15) |
+| Small-bowel adenomas | 50% | 12 (10–20) |
+| Colorectal cancer | 70% | 16 (8–48) |
+| Small-bowel cancer | 10% | 28 (11–42) |
+
+**Brain tumors**
+
+| Tumor | Estimated penetrance | Median age at diagnosis (range), years |
+|---|---|---|
+| High-grade brain tumors (glioblastoma, medulloblastoma, PNET) | 70% | 9 (2–40) |
+| Low-grade brain tumors | Unknown | Unknown |
+
+**Hematologic malignancies**
+
+| Tumor | Estimated penetrance | Median age at diagnosis (range), years |
+|---|---|---|
+| Lymphoma (predominantly T-cell non-Hodgkin) | 20–40% | 5 (0.4–30) |
+| Leukemia | 10–40% | 8 (2–21) |
+
+**Other tumors** (each <10% penetrance; age range 1–35 years): endometrial cancer (age 19–44), urinary tract cancer (age 10–22), hepatic adenomas, neuroblastoma, Wilms tumor, rhabdomyosarcoma, osteosarcoma, melanoma, pilomatricoma.
+
+The rate of adenoma-to-cancer progression in BMMRD is the most rapid of any inherited colorectal cancer syndrome. Left-sided CRC predominates (in contrast to the right-sided predominance in LS). Synchronous and metachronous GI cancers are frequent: 20% of patients present with multiple synchronous CRCs; in one registry, half of patients followed developed metachronous GI cancers.
+
+### Classification / Typing
+
+BMMRD is classified by the causative gene (all autosomal recessive):
+- **PMS2**: most common BMMRD genotype; low heterozygous penetrance means parents are often undiagnosed LS carriers; 20 pseudogenes complicate molecular testing
+- **MSH6**: second most common in BMMRD; later-onset LS in heterozygous parents
+- **MLH1**: rarer in BMMRD; early and severe phenotype; homozygous MLH1 mutations may be embryonic lethal in some contexts
+- **MSH2**: rarest in BMMRD; potentially embryonic lethal in homozygous state
+
+---
+
+## Differential Diagnosis
+
+- **[[lynch-syndrome]]** — monoallelic MMR mutation; autosomal dominant; CRC onset in adulthood (median 27–60 years depending on gene); no café-au-lait macules; no childhood brain tumors or hematologic malignancies; IHC shows MMR protein loss in tumor but expression preserved in normal tissue
+- **[[familial-adenomatous-polyposis]]** — APC germline mutation; colonic polyposis (≥100 adenomas); extracolonic manifestations (CHRPE, desmoids, osteomas); no brain tumors or leukemias; IHC shows normal MMR protein expression
+- **[[mutyh-associated-polyposis]]** — biallelic MUTYH mutation; autosomal recessive; 20–99 adenomas; onset 4th–5th decade; no brain tumors or leukemias
+- **Neurofibromatosis type 1 (NF1)** — NF1 gene mutation; café-au-lait macules and neurofibromas; Lisch nodules; no colonic polyposis or MSI; somatic NF1 mutations in BMMRD tumors (due to absent MMR activity) can produce NF1-like stigmata and lead to misdiagnosis
+- **Lynch-like syndrome** — somatic biallelic MMR inactivation in tumor only; no germline mutation; no childhood onset; no systemic MMR deficiency
+- **Sporadic MMR-deficient CRC** — somatic MLH1 methylation ± BRAF V600E; adult onset; no germline mutation; no family history pattern
+
+---
+
+## Diagnostics
+
+### Key Diagnostic Challenge: MMR IHC Interpretation
+In BMMRD, **all tissues lack MMR protein expression**, unlike in LS where MMR protein is lost only in tumor tissue. This means:
+- Standard tumor IHC will show MMR protein loss — but this pattern alone cannot distinguish BMMRD from LS
+- The **diagnostic clue is MMR protein loss in normal (non-neoplastic) tissue** alongside tumor tissue — a pattern not seen in LS
+- Standard MSI testing may be **falsely negative** in BMMRD because the hypermutated phenotype is so extreme (POLE/POLD1 mutations generate ultra-hypermutation with frameshift patterns distinct from classic MSI)
+
+### Germline Testing
+- Sequencing and deletion/duplication analysis of all four MMR genes (MLH1, MSH2, MSH6, PMS2) — biallelic mutations must be confirmed (both alleles affected)
+- PMS2 testing requires specialized assays designed to distinguish true PMS2 from its 20 pseudogenes
+- Variants of unknown significance (VUS) are common in MMR genes — functional assays (lymphocyte tolerance to methylating agents, mutation signatures) may be needed
+- Parental testing confirms both parents are obligate heterozygous LS carriers
+
+### Tumor Molecular Features
+- **Ultra-hypermutation**: BMMRD tumors often acquire somatic POLE/POLD1 mutations → extremely high mutational burden
+- **MSI**: may be absent or atypical on standard PCR-based MSI testing
+- **IHC**: MMR protein absent in tumor AND normal tissue (key distinction from LS)
+- Driver genes: TGFβR2 and ACVR2A commonly mutated (single base-pair deletions at mononucleotide repeats leading to frameshift mutations in coding exons)
+
+### Other Tests
+- **CBC with differential**: hematologic malignancy screening (q6 months from age 1)
+- **Brain MRI**: high-grade glioma screening (q6 months from age 2)
+- **Upper endoscopy and video capsule endoscopy (VCE)**: small-bowel cancer surveillance (annually from age 8); hemoglobin monitoring every 6 months
+- **Urinalysis**: urinary tract cancer (annually from age 10); MRI an alternative
+- **TVUS + pelvic exam + endometrial sampling**: endometrial cancer (annually from age 20)
+
+---
+
+## Therapeutics
+
+### Surveillance Protocol
+
+All surveillance recommendations are **weak, low to very low quality evidence** given absence of controlled trials [[usmstf-2017-bmmrd]]:
+
+| Intervention | Recommendation | Alternative |
+|---|---|---|
+| Colonoscopy | Annually beginning at age 6; every 6 months once polyps identified | — |
+| Upper endoscopy + VCE | Annually beginning at age 8 | — |
+| Brain MRI | Every 6 months beginning at age 2 | Head ultrasound until fontanel fusion |
+| CBC | Every 6 months beginning at age 1 | Abdominal ultrasound q6 months (European Consortium) |
+| Pelvic exam + endometrial sampling | Annually beginning at age 20 (women) | — |
+| Urinalysis | Annually beginning at age 10 | MRI |
+| Total-body MRI | Uncertain; not yet recommended | — |
+| Hepatic adenoma surveillance | Not recommended | — |
+
+### Surgical Management of Colorectal Neoplasia
+
+- **Total or subtotal colectomy with ileorectal anastomosis (IRA)**: preferred approach for CRC or colonic polyps with high-grade dysplasia, or when polyp burden is too great for endoscopic control [[usmstf-2017-bmmrd]]
+- **Proctocolectomy with ileal pouch-anal anastomosis (IPAA)**: may be necessary for rectal cancer
+- **Close rectal surveillance every 6–12 months** after IRA is essential given the high rate of metachronous rectal cancer
+- Small-bowel resection is treatment of choice for small-bowel cancers amenable to resection; survival is favorable for localized tumors
+
+### Chemoprevention
+
+- **Aspirin**: LS data (CAPP2 trial) demonstrated >60% CRC incidence reduction with 600 mg/day for ≥2 years; extrapolation to BMMRD is biologically plausible but untested; a controlled prevention trial in BMMRD has been proposed [[usmstf-2017-bmmrd]]
+- No established chemoprevention regimen specific to BMMRD at this time
+
+### Immunotherapy Considerations
+
+- BMMRD tumors are ultra-hypermutated, making them potential candidates for immune checkpoint inhibition
+- **Pembrolizumab** (anti-PD-1): approved for MSI-H/dMMR tumors; showed 78% clinical improvement in patients with MSI CRC; not yet formally evaluated in BMMRD
+- Note: BMMRD tumors may not be identified as MSI-H by standard testing — alternative molecular characterization (e.g., tumor mutational burden, IHC) may be needed to establish immunotherapy eligibility
+- Frameshift peptide vaccination (explored in LS) has not yet been applied to BMMRD
+
+### Genetic Counseling
+
+- Both parents of a BMMRD proband are obligate LS carriers — they should follow LS surveillance guidelines regardless of personal cancer history [[usmstf-2017-bmmrd]]
+- Siblings of the proband are at risk for BMMRD (25%), LS (50%), or carrier only (25%) — germline testing determines surveillance protocol
+- Small family sizes, parental consanguinity, and low-penetrance heterozygous mutations (especially PMS2) may make the syndrome appear sporadic
+- Prenatal and preimplantation genetic diagnosis options should be discussed given the severity of the syndrome
+- Genetic counselors can identify additional at-risk relatives (grandparents, aunts, uncles, cousins) who may carry monoallelic LS mutations
+
+---
+
+*See also: [[lynch-syndrome]] | [[familial-adenomatous-polyposis]] | [[mutyh-associated-polyposis]] | [[colorectal-cancer]] | [[juvenile-polyposis-syndrome]] | [[colonoscopy]]*

@@ -1,0 +1,245 @@
+---
+title: "Acute Diarrhea"
+category: diagnostic-schema
+tags: [diarrhea, infectious-diarrhea, travelers-diarrhea, gastroenteritis, acute, dysentery, loperamide, antibiotic, prevention]
+created: 2026-05-19
+updated: 2026-05-19
+sources: [acg-2016-acute-diarrhea]
+---
+
+## Definition / Scope
+
+Acute diarrhea is defined as an increase in stool frequency or looseness above the individual's baseline, lasting **<14 days**. A commonly used operational definition is passage of **≥3 unformed stools in 24 hours** plus at least one enteric symptom (nausea, vomiting, abdominal pain/cramps, tenesmus, fecal urgency, or moderate-to-severe flatulence). [[acg-2016-acute-diarrhea]]
+
+- **Persistent diarrhea:** 14–30 days
+- **Chronic diarrhea:** >30 days
+
+### Severity Classification (ACG 2016)
+| Grade | Definition |
+|---|---|
+| Mild | No change in activities |
+| Moderate | Forced change in activities due to illness |
+| Severe | Total disability due to diarrhea |
+
+### Stool Character Classification
+- **Watery diarrhea** — suggests noninflammatory, secretory, or osmotic etiology; typically viral or toxin-mediated bacterial (ETEC, EPEC, EAEC)
+- **Dysenteric diarrhea** — passage of grossly bloody stools; suggests invasive/inflammatory bacterial pathogen (Shigella, Campylobacter, STEC, Salmonella, Entamoeba)
+
+---
+
+## Differential Diagnosis
+
+### Infectious Etiologies
+
+#### Viral (most common overall; ~60–80% of community-acquired cases)
+- [[norovirus]] — most common cause of epidemic gastroenteritis in the US; low inoculum; foodborne and person-to-person
+- [[rotavirus]] — most common cause of severe infantile diarrhea globally; adults may get mild illness
+- Adenovirus (enteric serotypes 40/41)
+
+#### Bacterial
+- [[enterotoxigenic-e-coli]] (ETEC) — most common cause of traveler's diarrhea worldwide; watery diarrhea; heat-labile/heat-stable toxins
+- [[campylobacter-infection]] — most common bacterial cause of diarrhea in developed countries; febrile, may be bloody; fluoroquinolone resistance high in Southeast Asia/India
+- [[salmonella-infection]] — non-typhoidal; febrile, may be bloody; prolonged carriage; antibiotic use may extend carriage
+- [[shigellosis]] — dysenteric; very low inoculum (10–200 organisms); azithromycin first-line (ampicillin/TMP-SMX resistance common; *S. sonnei* azithromycin resistance emerging)
+- Enterohemorrhagic *E. coli* / STEC (O157:H7 and others) — bloody diarrhea; **do NOT treat with antibiotics** (risk of HUS)
+- Enteroaggregative *E. coli* (EAEC) — persistent watery diarrhea in travelers
+- *Vibrio cholerae* — cholera; profuse watery ("rice-water") diarrhea; in travelers to endemic areas
+- *Yersinia enterocolitica* — mesenteric adenitis, pseudoappendicitis syndrome
+- *Aeromonas*, *Plesiomonas*
+
+#### Parasitic
+- [[giardiasis]] — most common intestinal parasite in the US; watery/malabsorptive; often persistent; lakes, streams, travel
+- [[cryptosporidiosis]] — watery diarrhea; immunosuppressed at highest risk; oocysts resist chlorine
+- [[entamoeba-histolytica-infection]] — amebic dysentery; bloody diarrhea; liver abscess risk; distinguish from non-pathogenic *E. dispar*
+- *Cyclospora cayetanensis* — persistent watery diarrhea; food-associated outbreaks (berries, fresh produce)
+- *Cystoisospora belli* — immunosuppressed hosts
+- *Enterocytozoon bieneusi* (microsporidiosis) — immunosuppressed
+
+### Non-infectious Mimics
+- [[clostridioides-difficile]] — postantibiotic; healthcare-associated; always test if recent antibiotics (covered by separate ACG guideline [[acg-2021-cdiff]])
+- [[irritable-bowel-syndrome]] — particularly postinfectious IBS ([[postinfectious-ibs]]) — onset after acute gastroenteritis; Rome IV/V criteria
+- Inflammatory bowel disease ([[crohns-disease]], [[ulcerative-colitis]]) — flare or new diagnosis
+- Microscopic colitis — watery, non-bloody; older women; NSAIDs/PPIs/SSRIs
+- Celiac disease ([[celiac-disease]]) — malabsorptive; persistent
+- Medication-induced diarrhea (antibiotics, metformin, colchicine)
+- Ischemic colitis — sudden onset bloody diarrhea; elderly with vascular disease
+
+---
+
+## Diagnostic Algorithm
+
+The ACG 2016 management algorithm (Figure 1) stratifies by stool character, illness severity, travel association, fever, and duration. [[acg-2016-acute-diarrhea]]
+
+### Step 1: All Cases — Oral Hydration
+All patients: hydrate with fluids and salt (water, juices, sports drinks, soups, saltine crackers, broiled/baked foods). Balanced ORS preferred for the elderly with severe diarrhea or any traveler with cholera-like watery diarrhea.
+
+### Step 2: Stool Character Branch
+
+#### A. Watery Diarrhea
+
+**Mild illness:**
+- Hydration only; may use loperamide 4 mg initially to control stooling.
+- No antibiotics, no diagnostic workup required for most cases.
+
+**Moderate-to-severe illness, travel-associated:**
+- Empiric antibiotic therapy (see Therapeutics — Table 4).
+- Loperamide adjunct recommended.
+
+**Moderate-to-severe illness, non-travel-associated:**
+- Low/no fever (≤100°F):
+  - Duration <72 h: consider ≤48 h loperamide therapy
+  - Duration ≥72 h: consider microbiologic assessment
+- Fever ≥101°F: consider microbiologic assessment
+
+#### B. Dysenteric Diarrhea (grossly bloody stools)
+
+**No or low-grade fever (≤100°F):**
+- Microbiologic assessment, then antimicrobial agent directed to cause for all pathogens **except STEC** (no antibiotics for STEC).
+
+**Severe illness with fever ≥101°F, non-travel-associated:**
+- Consider microbiologic assessment.
+
+**Severe illness with fever ≥101°F, travel-associated (single case, not outbreak):**
+- Empiric azithromycin 1,000 mg single dose OR 500 mg once daily × 3 days (Recommendation 9, Strong/High).
+
+### Step 3: Persistent Symptoms (14–30 days)
+- Work up by stool culture and/or culture-independent molecular diagnostic assessment.
+- Treat with antimicrobial agent directed to identified cause.
+- Serological and clinical lab testing not routinely recommended (Recommendation 11, Strong/VLow).
+- Endoscopic evaluation not recommended if stool workup is negative (Recommendation 12, Strong/VLow).
+- Consider colonoscopy if: weight loss, blood in stool despite negative workup, suspicion for IBD or microscopic colitis (diagnostic yield 7–32% in persistent/chronic diarrhea).
+- Differential at 14–30 days: celiac disease, [[crohns-disease]], eosinophilic gastroenteritis, Whipple's disease, [[irritable-bowel-syndrome]] (postinfectious).
+
+---
+
+## Key Tests
+
+### When to Test (ACG 2016 Indications)
+Testing is NOT required for most uncomplicated acute watery diarrhea. Recommended in:
+- Dysentery (grossly bloody stools)
+- Moderate-to-severe illness (especially non-travel-associated with fever ≥101°F or duration ≥72 h)
+- Symptoms lasting >7 days
+- High-risk of spreading to others (food handler, healthcare worker, daycare)
+- Known or suspected outbreak (Recommendation 1, Strong/Low)
+
+Antibiotic sensitivity testing is NOT recommended routinely for individual patient management (Recommendation 4, Strong/VLow).
+
+### Diagnostic Methods
+
+#### Traditional (Culture-Based)
+- **Stool bacterial culture:** Differential media for *Salmonella*, *Shigella*, *Campylobacter*, STEC; results in 48–72 h; detects only cultured targets; required for public health subtyping.
+- **Stool microscopy ± special stains/immunofluorescence:** For *Giardia*, *Cryptosporidium*, *E. histolytica*, *Cyclospora*; labor-intensive; requires expertise.
+- **Stool antigen tests:** *Giardia* EIA, *Cryptosporidium* EIA; more sensitive than microscopy for those organisms.
+- **Stool toxin EIA:** For STEC (Shiga toxin); use to screen before culture; do not use antibiotics if STEC positive.
+
+#### Culture-Independent (Molecular)
+- FDA-approved multiplex molecular panels simultaneously identify bacterial, viral, and parasitic pathogens in hours:
+  - **BioFire FilmArray GI Panel:** 22 targets (bacteria + virus + parasite), results in 1–2 h — most comprehensive
+  - **Luminex xTAG GPP:** 15 targets, results in <5 h
+  - **Nanosphere Verigene EP:** 6 bacterial targets, 2 h
+  - **BD MAX EBP / Hologic ProGastro SSCS:** 4 bacterial targets
+- Molecular testing has higher diagnostic yield than culture; faster; limitation: cannot forward isolates for public health surveillance; may detect non-viable organisms or asymptomatic carriage.
+- Recommendation: use culture-independent methods as adjunct to traditional methods when available (Recommendation 3, Strong/Low).
+
+#### Fecal Biomarkers
+- Fecal leukocytes / stool lactoferrin: not reliable predictors of positive culture; not recommended as primary screening tool.
+
+#### Endoscopy
+- Role in **persistent diarrhea** (>14–30 days) when stool workup negative; not for acute phase unless specific clinical indication.
+- Lower endoscopy (colonoscopy or sigmoidoscopy) preferred over upper endoscopy for most persistent diarrhea workup.
+- Mucosal biopsies recommended even when endoscopic appearance is normal (to detect microscopic colitis, eosinophilic gastroenteritis).
+
+---
+
+## Therapeutics
+
+### Oral Rehydration
+- Most healthy adults: water + electrolytes from salty soups, fruit juices, sports drinks, crackers sufficient.
+- **Balanced ORS** (WHO formulation: 60–75 mEq/L Na, 75–90 mmol/L glucose): for the elderly with severe diarrhea and for any traveler with cholera-like watery diarrhea (Recommendation 5, Strong/Moderate).
+
+### Antimotility Agents
+- **Loperamide:** Initial dose 4 mg orally, then 2 mg after each loose stool, max 8 mg/day (OTC) or 16 mg/day (with antibiotic for TD). Do not use for >48 h in self-treatment. Adjunct with antibiotics for TD shortens illness duration (Recommendation 8, Strong/Moderate).
+  - Use with caution in proven bacterial inflammatory colitis (theoretical toxic megacolon risk, though rare).
+  - **Do not use for STEC infection.**
+
+### Bismuth Subsalicylate (BSS)
+- Acute diarrhea (treatment): 30 mL (525 mg) liquid or two 262.5 mg tablets every 30–60 min, max 8 doses/24 h. Reduces stool passage rate (Recommendation 7, Strong/High).
+- Chemoprophylaxis: 2 tablets four times daily (2.1 g/day) at meals and bedtime; ≥60% protection; up to 2 weeks only (Recommendation 16, Strong/High).
+- Contraindications: aspirin allergy/sensitivity, IBD, HIV (bismuth encephalopathy risk from excessive absorption).
+- Harmless black stools and tongue expected.
+
+### Probiotics / Prebiotics
+- **Treatment:** Not recommended for acute diarrhea in adults, except postantibiotic-associated illness (Recommendation 6, Strong/Moderate).
+- **Prevention:** Not recommended for TD (Recommendation 17, Conditional/Low).
+
+### Antibiotics
+
+**Indications:**
+- Traveler's diarrhea (moderate-to-severe) (Recommendation 9, Strong/High).
+- Dysentery with fever ≥101°F in travelers (empiric azithromycin).
+- Specific parasitic etiologies (see below).
+- Community-acquired diarrhea: generally **not indicated** — most is viral (Recommendation 10, Strong/VLow).
+
+**Antibiotic Regimens for TD (Table 4):**
+
+| Antibiotic | Dose | Duration | Notes |
+|---|---|---|---|
+| Levofloxacin | 500 mg PO | Single dose or 3-day course | — |
+| Ciprofloxacin | 750 mg PO OR 500 mg PO | Single dose OR 3-day course | — |
+| Ofloxacin | 400 mg PO | Single dose or 3-day course | — |
+| **Azithromycin** | 1,000 mg PO OR 500 mg PO | Single dose OR 3-day course | **First-line in SE Asia/India**; preferred for dysentery/febrile diarrhea; active vs. FQ-resistant *Campylobacter* |
+| Rifaximin | 200 mg PO TID | 3 days | Non-absorbable; NOT for invasive pathogens (*Campylobacter*, *Salmonella*, *Shigella*) |
+
+- Single-dose therapy as effective as 3-day for noninvasive TD pathogens; if not resolved in 24 h, complete 3-day course.
+- Combination loperamide + antibiotic superior to antibiotic alone for TD.
+- **STEC: NO antibiotics** (increases HUS risk).
+
+**Antibiotic Chemoprophylaxis (Travelers):**
+- Rifaximin: 67% protective efficacy (pooled RR 0.33); NNT ≈ 4.5; most evidence for South and SE Asia.
+- Fluoroquinolones: ~88% protective efficacy; resistance and side effect concerns (tendinopathy, CDI risk).
+- Indication: high-risk travelers for short-term use only (Recommendation 18, Strong/High).
+
+**Parasite-Specific Antibiotic Therapy:**
+- [[giardiasis]]: metronidazole 250 mg TID × 5–7 days, OR tinidazole 2 g single dose, OR nitazoxanide 500 mg BID × 3 days
+- [[entamoeba-histolytica-infection]]: metronidazole 500–750 mg TID × 7–10 days, OR tinidazole 2 g QD × 3 days
+- [[cryptosporidiosis]]: nitazoxanide 500 mg BID × 3 days (immunocompetent)
+- *Cyclospora/Cystoisospora*: trimethoprim/sulfamethoxazole DS BID × 7–10 days
+- *Enterocytozoon bieneusi*: albendazole 400 mg BID, OR iodoquinol
+- *Dientamoeba fragilis*: iodoquinol
+
+---
+
+## Red Flags / Alarm Features
+
+The following features should prompt microbiologic assessment, consideration of empiric antibiotics, and/or urgent evaluation:
+
+- **Grossly bloody stools (dysentery)** — evaluate for invasive bacterial pathogen; rule out STEC before antibiotics
+- **Fever ≥101°F** — suggests bacterial or invasive etiology
+- **Severe dehydration** — total disability, orthostatic hypotension, inability to maintain oral fluids
+- **Duration ≥72 h without improvement** — consider microbiologic assessment
+- **Persistent symptoms 14–30 days** — full stool workup; consider colonoscopy if negative
+- **Immunocompromised host** (HIV, transplant, immunosuppressive therapy) — lower threshold for workup and treatment; [[cryptosporidiosis]] and [[entamoeba-histolytica-infection]] are particular concerns
+- **Elderly patients** — higher risk of dehydration and complications; balanced ORS preferred
+- **High-risk occupations** (food handler, healthcare worker, daycare) — microbiologic assessment and public health reporting required
+- **Outbreak setting** — requires culture-based assessment for public health subtyping (Recommendation 1, Strong/Low)
+- **Suspected STEC** (bloody diarrhea, outbreak setting, hamburger exposure, hemolytic uremic syndrome signs: thrombocytopenia, microangiopathic hemolytic anemia, renal failure) — **NO antibiotics**, arrange culture with Shiga toxin testing, nephrology consultation
+
+---
+
+## Postinfectious Complications
+
+- **[[postinfectious-ibs]]:** Recognized sequela of acute infectious gastroenteritis / TD. Up to 10–15% of patients with bacterial TD develop chronic IBS-like symptoms. Diagnosed by Rome IV/V criteria; no specific biomarker. See [[irritable-bowel-syndrome]] and [[disorders-of-gut-brain-interaction]]. [[acg-2016-acute-diarrhea]]
+- **Reactive arthritis:** Especially after *Salmonella*, *Shigella*, *Campylobacter*, *Yersinia*.
+- **Hemolytic uremic syndrome (HUS):** After STEC O157:H7 (and other STEC); triad of microangiopathic hemolytic anemia, thrombocytopenia, acute kidney injury. Antibiotic use increases HUS risk.
+- **Guillain-Barré syndrome:** After *Campylobacter jejuni* infection (molecular mimicry).
+- **Colonization by resistant organisms:** Antibiotic self-treatment of TD increases risk of colonization by extended-spectrum β-lactamase-producing Enterobacteriaceae and carbapenemase-producing Enterobacteriaceae.
+
+---
+
+## Cross-References
+- [[clostridioides-difficile]] — always consider if recent antibiotics; fluoroquinolone use for TD is a CDI risk factor
+- [[fever-returning-traveler]] — overlapping differential; specific empiric TD management for febrile returning traveler
+- [[irritable-bowel-syndrome]] — postinfectious IBS is a recognized chronic sequela
+- [[crohns-disease]] — in differential for persistent/chronic diarrhea; colonoscopy may be diagnostic
+- [[celiac-disease]] — in differential for persistent/chronic diarrhea with malabsorption
+- [[disorders-of-gut-brain-interaction]] — Rome V framework for postinfectious IBS classification

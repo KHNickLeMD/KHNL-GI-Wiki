@@ -1,0 +1,84 @@
+---
+title: "ACG 2025: Preventive Care in Inflammatory Bowel Disease"
+category: source
+tags: [ibd, crohns-disease, ulcerative-colitis, preventive-care, vaccinations, cancer-surveillance, osteoporosis, depression, anxiety]
+created: 2026-05-15
+updated: 2026-05-15
+sources: []
+---
+
+## Bibliographic Info
+- **Authors:** Francis A. Farraye, Gil Y. Melmed, Gary R. Lichtenstein, Edward L. Barnes, Berkeley N. Limketkai, Freddy Caldera, Sunanda Kane
+- **Year:** 2025
+- **Journal:** American Journal of Gastroenterology, 120:1447–1473
+- **DOI:** https://doi.org/10.14309/ajg.0000000000003541
+- **Type:** ACG Clinical Guideline Update (GRADE methodology)
+
+## Summary
+
+This ACG guideline updates preventive care recommendations for adult patients with IBD, recognizing that gastroenterologists function as de facto primary care providers for many of their IBD patients. The central premise is that >70% of IBD patients will at some time be on immune-modifying therapy, dramatically elevating the risk of vaccine-preventable infections and other preventable harms.
+
+The guideline covers six domains: (1) vaccinations (principles, specific vaccines), (2) cervical cancer screening, (3) melanoma and NMSC screening, (4) osteoporosis screening, (5) smoking cessation, and (6) depression and anxiety screening. It uses GRADE for formal recommendations and a separate "Key Concepts" table for expert consensus statements not subject to GRADE.
+
+A major practical theme is shared responsibility: the gastroenterology team should not assume primary care is managing vaccines and cancer screening, but should actively verify, document, and administer these interventions at GI visits — including administering vaccines in the gastroenterology office when possible. Quality improvement initiatives using vaccination checklists have shown significant improvements in uptake rates.
+
+Vaccine immunogenicity is blunted by anti-TNF therapy (especially in combination with thiopurines or methotrexate), less so by non-TNF biologics (vedolizumab, ustekinumab) and not definitively established for newer agents (IL-23 inhibitors, S1P modulators, JAK inhibitors). Despite blunted responses, vaccines should be administered regardless of timing within the treatment cycle.
+
+## Key Findings / Claims
+
+### Vaccinations — Formal Recommendations (GRADE)
+1. **Pneumococcal vaccine:** IBD ≥50 with no prior pneumo vax → PCV20 or PCV21 (Strong, low evidence)
+2. **Pneumococcal vaccine:** IBD 19–49 on immune-modifying therapy, no prior vax → PCV20 or PCV21 (Conditional, very low)
+3. **Pneumococcal revaccination:** Previously vaccinated IBD, age 19–64 on IMT or ≥65 → follow CDC guidance for additional PCV20/PCV21 (Strong, low)
+4. **Herpes zoster vaccine:** All adults ≥50 with IBD → 2-dose recombinant HZ vaccine (RZV; Shingrix) (Conditional, low)
+5. **Herpes zoster vaccine:** Adults ≥19 with IBD on or planning immune-modifying therapy → 2-dose RZV (Conditional, very low)
+6. **COVID-19:** Vaccination per national guidelines (Conditional, very low)
+7. **Rotavirus:** Live rotavirus may be offered to children with in-utero biologic exposure (Conditional, very low)
+
+### Vaccinations — Key Concepts (Table 2, not GRADE)
+- No live vaccines (live attenuated influenza, MMR, dengue, yellow fever) if on immune-modifying therapy
+- Vaccinate before starting immune-modifying therapy when possible
+- Annual influenza vaccine for all IBD patients; patients on IMT and household contacts should receive non-live trivalent inactivated influenza (not live inhaled)
+- RSV vaccine: all IBD ≥75; IBD 50–74 with chronic medical conditions or high-risk features
+- Evaluate varicella immunity before IMT; if non-immune, vaccinate before starting IMT when possible; serologic testing not recommended in previously vaccinated (high false-negative rate)
+- Household contacts of IMT patients can receive live vaccines with precautions
+- Tdap, HAV, HPV, and meningococcus per ACIP recommendations
+- Hepatitis B vaccination if not immune
+
+### Cancer Screening
+8. **Cervical cancer (Recommendation 8):** Women with IBD on immune-modifying therapy → annual Pap within 1 year of sexual activity onset; if <30, continue annually for 3 consecutive years before transitioning to q3y (Conditional, very low)
+9. **Melanoma (Recommendation 9):** Annual melanoma screening for all IBD patients (CD and UC) independent of biologic therapy (Conditional, very low)
+10. **NMSC (Recommendation 10):** Annual NMSC screening for IBD patients on 6-MP, AZA, MTX, JAK inhibitors, or S1P receptor modulators — particularly >50 (Conditional, very low)
+  - Thiopurine NMSC risk: RR 1.88 (95% CI 1.48–2.38); incidence rate ratio increases from 1.6 in year 1 to 3.6 in year 5
+  - Methotrexate: linked to NMSC in inflammatory arthritis (4.6-fold increase); uncertain in IBD specifically
+  - JAK inhibitors: elevated malignancy risk vs. anti-TNF in RA patients >50 (lung, NMSC, lymphoma); IBD-specific data limited
+  - Vedolizumab: no malignancy signal
+  - Anti-TNF: no significant melanoma association on current meta-analysis data
+
+### Osteoporosis
+11. **Osteoporosis (Recommendation 11):** Adults with IBD and conventional BMD risk factors → DEXA at time of diagnosis and periodically (Conditional, very low)
+  - IBD overall fracture risk: RR 1.38 (95% CI 1.11–1.73); vertebral fracture RR 2.26 (95% CI 1.04–4.90)
+  - Corticosteroids: 30–50% fracture risk with long-term use; doses as low as 2.5 mg/day prednisone increase spinal fracture risk; risk decreases 3–6 months after discontinuation
+  - High-dose corticosteroids >7.5 mg/day → 5-fold higher spine/hip fracture risk
+
+### Mental Health
+12. **Smoking cessation (Recommendation 12):** Counsel all IBD patients who smoke to quit (Strong, low)
+- **Depression/anxiety (Key Concept 11):** Screen at baseline and annually; refer if positive
+  - Anxiety present in 32.1% of IBD vs. 10.4% of general population
+  - Depression present in 25.2% of IBD vs. 17.9% controls
+  - CD patients 20% more likely than UC to report anxiety and depression
+  - Active IBD: >2× more likely to have anxiety, 3× more likely to have depression vs. IBD in remission
+  - CBT and acceptance/commitment therapy: variable but generally positive effects; pharmacologic antidepressants (SNRIs) effective for depressive and somatic symptoms
+
+## Relevance to Wiki
+- Creates: [[ibd-preventive-care]] concept page covering the full health maintenance framework
+- Updates: [[crohns-disease]] — add preventive care section linking to concept page
+- Updates: [[ulcerative-colitis]] — add preventive care section linking to concept page
+- Touches: [[chronic-hepatitis-b]] — hepatitis B vaccination in IBD patients on IMT
+- Touches: [[colonoscopy]] — CRC surveillance already covered; this guideline explicitly excludes dysplasia surveillance from scope
+
+## Contradictions / Open Questions
+- Cervical cancer screening recommendation differs from standard (every 3 years for women 21–29) — guideline argues immune-modifying therapy confers higher-risk HPV-related cancer risk warranting annual screening for the first 3 years in patients <30
+- Melanoma and anti-TNF: multiple meta-analyses show no statistically significant association, but guideline still recommends annual screening independent of biologic therapy — more conservative than data suggest
+- Immunogenicity of PCV20/PCV21 in IBD populations: studies to date primarily evaluated PCV13 and PPSV23; newer conjugated vaccines not yet specifically studied in IBD
+- No data on whether newer agents (IL-23 inhibitors: guselkumab, mirikizumab, risankizumab; S1P modulators: ozanimod, etrasimod; upadacitinib) affect vaccine response in IBD

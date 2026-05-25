@@ -1,0 +1,145 @@
+---
+title: "Laryngopharyngeal Symptoms (LPS) and Laryngopharyngeal Reflux Disease (LPRD)"
+category: diagnostic-schema
+tags: [lpr, lprd, laryngopharyngeal-reflux, gerd, extraesophageal-reflux, cough, dysphonia, throat-clearing, ph-impedance, foregut]
+created: 2026-05-15
+updated: 2026-05-15
+sources: [san-diego-2025-lprd]
+---
+
+## Definition / Scope
+
+**Laryngopharyngeal symptoms (LPS)** are chronic (≥8 weeks) and frequent (≥2×/week) throat and upper airway symptoms that have potential to be induced by retrograde flow of gastric content to the upper esophagus, pharynx, and larynx. LPS is a symptomatic descriptor — it does not implicate reflux as the etiology.
+
+**Laryngopharyngeal reflux disease (LPRD)** is the diagnosis given when a patient has LPS AND objective evidence supporting a relationship between symptoms and gastroesophageal reflux.
+
+**Critical distinction:** LPS ≠ LPRD. Approximately 60% of patients historically diagnosed with "LPR" have normal ambulatory reflux monitoring on objective evaluation. Only ~35% of LPS patients have objective LPRD when formally tested.
+
+**Recognized LPS** (San Diego Consensus, ≥80% agreement):
+- Cough (89%), regurgitation (89%), throat pain/sore throat (89%), throat clearing (86%), excess throat phlegm (82%), hoarseness/voice change (80%)
+- Globus: approaches but did not meet threshold; warrants evaluation and is often a negative predictor of reflux physiology
+- NOT recognized as LPS: tongue burning, nasal burning, post-nasal drip, halitosis, belching, dysphagia
+
+---
+
+## Differential Diagnosis
+
+LPS can be caused by multiple mechanisms — reflux is one of several:
+
+**Reflux-mediated:**
+- LPRD (direct laryngeal/pharyngeal acid/pepsin exposure)
+- Micro-aspiration of refluxate
+
+**Non-reflux causes (must be excluded by laryngoscopy):**
+- Vocal fold lesions (polyps, nodules, cysts, papilloma)
+- Keratosis, pre-malignant dysplasia, laryngeal malignancy
+- Muscle tension dysphonia (glottic closure abnormality)
+- Vocal process granuloma (more often phonotrauma than reflux)
+- Inducible laryngeal obstruction / paradoxical vocal fold movement
+- Allergy-related laryngeal inflammation
+- Post-nasal drip (allergic/non-allergic rhinitis)
+
+**Neurogenic / behavioral mechanisms:**
+- Laryngeal hyperresponsiveness (laryngoresponsive phenotype)
+- Laryngeal hypervigilance / symptom-specific anxiety
+- Vagal hypersensitivity (especially in chronic cough)
+
+**Other systemic:**
+- ACE inhibitor-induced cough
+- Asthma / eosinophilic airway disease
+- Pulmonary causes of chronic cough
+- Thyroid disease, neck mass compression
+
+---
+
+## Diagnostic Algorithm
+
+### Step 1: Laryngoscopy
+- **Mandatory** to exclude non-reflux laryngeal pathology (malignancy, vocal fold lesions, vascular lesions)
+- If hoarseness is not explained by white-light flexible laryngoscopy → add **videostroboscopy** to assess vibratory parameters (symmetry, amplitude, mucosal wave, glottic closure)
+- Do NOT use Reflux Finding Score (RFS) or Reflux Sign Assessment (RSA) to diagnose LPRD — suboptimal specificity
+- After laryngoscopy:
+
+### Step 2: Assess for Concurrent Esophageal Reflux Symptoms
+
+**Bifurcation point:** The algorithm differs based on whether heartburn, regurgitation, or esophageal chest pain are present alongside LPS.
+
+#### Branch A: LPS + Concurrent Esophageal Reflux Symptoms
+1. **Empiric trial:** PPI BID × 3 months + alginate therapy (4×/day: after meals + bedtime) + lifestyle modification
+   - Lifestyle: weight loss, upright posture 2–3h post-meals, head of bed elevation, left lateral sleep, avoid triggers
+2. **If responsive:** Confirms LPRD contribution; consider long-term management with objective testing before permanent therapy
+3. **If unresponsive:** Proceed to esophageal evaluation (EGD + ambulatory reflux monitoring)
+
+#### Branch B: Isolated LPS (No Esophageal Symptoms)
+1. **Do NOT** initiate empiric acid suppression — pre-test probability of GERD is low
+2. Proceed directly to **esophageal evaluation**
+
+### Step 3: Esophageal Evaluation
+
+**Upper GI endoscopy (EGD):**
+- Conclusive GERD evidence: LA grade B, C, D esophagitis or biopsy-proven Barrett's esophagus
+- Adjunctive evidence: hiatal hernia, disrupted EGJ
+- Up to 47% of LPS patients have erosive findings and/or hiatal hernia on EGD
+- Transnasal esophagoscopy (TNE): acceptable alternative if performed by trained provider
+- If endoscopy is non-diagnostic for GERD → proceed to ambulatory reflux monitoring
+
+**Ambulatory reflux monitoring (reference standard for LPRD):**
+- Perform OFF acid suppression in patients with unproven GERD
+- Required before invasive (endoscopic or surgical) anti-reflux management
+
+| Modality | Best Use | Key Metrics | Limitations |
+|---|---|---|---|
+| 24h pH-impedance (esp. HEMII-pH) | Isolated LPS; detecting proximal/pharyngeal reflux; understanding mechanism | Hypopharyngeal events, proximal reflux, weakly-acidic episodes | Single-day snapshot; does not capture day-to-day variability |
+| 96h wireless pH monitoring | LPS with esophageal symptoms; prior to invasive treatment; ruling out GERD | AET >6.0% = proven GERD; AET <4.0% on all 4 days = physiologic → predicts PPI failure | No pharyngeal/proximal data; no baseline impedance |
+| Oropharyngeal pH (Restech) | Not recommended as standalone | — | Poor specificity; cannot detect non-acidic reflux |
+
+**AET thresholds:** >6.0% = proven GERD; <4.0% = physiologic; 4.0–6.0% = indeterminate (consider symptoms, impedance)
+
+### Step 4: Address Laryngeal Hyperresponsiveness / Hypervigilance
+- Even in confirmed LPRD, laryngeal hyperresponsiveness and hypervigilance frequently co-exist and drive symptom persistence
+- Use the **Laryngeal Cognitive Affective Tool (LCAT)** to identify candidates
+- These components do not respond to anti-reflux therapy alone — require behavioral intervention
+
+---
+
+## Key Tests
+
+| Test | Purpose |
+|---|---|
+| Laryngoscopy ± videostroboscopy | Rule out non-reflux laryngeal pathology; mandatory first step |
+| EGD (off acid suppression if possible) | Diagnose GERD evidence (LA B–D, Barrett's, hiatal hernia) |
+| 96h wireless pH monitoring | Best for ruling GERD in/out; guides anti-reflux therapy decisions |
+| 24h pH-impedance / HEMII-pH | Detect proximal and non-acidic reflux events; best for isolated LPS mechanism |
+| LCAT questionnaire | Identify laryngeal hypervigilance/anxiety for behavioral therapy referral |
+| RSI / RSS | Track symptom severity over time (NOT for diagnosis) |
+| Spirometry / chest CT | Rule out pulmonary causes of chronic cough if clinically indicated |
+
+---
+
+## Red Flags / Alarm Features
+
+- Hoarseness lasting >4–6 weeks, especially in smoker or >50 years → urgent laryngoscopy to exclude malignancy
+- Dysphagia, odynophagia, weight loss → EGD to exclude esophageal cancer/stricture
+- Hemoptysis → pulmonary evaluation
+- Rapidly progressive stridor or airway compromise → emergent evaluation
+- Failure of LPS to respond to any therapy → revisit laryngoscopy and consider malignancy, autoimmune disease, or neurologic etiology
+
+---
+
+## Treatment Framework
+
+### Anti-reflux Therapy
+- Indicated only when LPRD is confirmed (objective testing) or when esophageal symptoms are present
+- BID PPI × 3 months ± alginate therapy (first-line trial)
+- PCABs (potassium-competitive acid blockers): emerging alternative to PPI for acid suppression
+- Do not escalate to invasive (endoscopic or surgical) anti-reflux management without objective GERD confirmation
+
+### Behavioral Therapy
+- **Laryngeal Recalibration Therapy (LRT):** voice-specialized SLP; combines voice therapy, heart rate variability biofeedback, acceptance/commitment therapy
+- **Cognitive behavioral therapy (CBT):** health psychologist with upper GI/laryngeal specialization; for persistent hypervigilance/anxiety not responding to LRT
+- Effective in LPS with and without confirmed LPRD
+
+### Neuromodulators
+- **Gabapentin/pregabalin:** best evidence for chronic cough via vagal hypersensitivity
+- **TCAs:** caution — anticholinergic side effects may worsen LPS (dry mouth, reduced mucosal clearance)
+- **SSRIs/SNRIs:** consider when concomitant anxiety or depression is present

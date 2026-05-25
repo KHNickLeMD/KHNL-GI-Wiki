@@ -1,0 +1,109 @@
+---
+title: "Hepatic Cysts"
+category: disease-script
+tags: [hepatic-cysts, liver, hpb, focal-liver-lesion, simple-cyst, complex-cyst, polycystic-liver]
+created: 2026-05-07
+updated: 2026-05-07
+sources: [acg-2024-focal-liver-lesions]
+---
+
+# Hepatic Cysts
+
+---
+
+## Assessment
+
+### Establishing the Diagnosis
+
+**Hepatic cysts:** fluid-filled lesions of the liver; most are simple (benign, congenital) and require no intervention. Complex cysts require further characterization to exclude cystic neoplasms or infection.
+
+**Classification:**
+
+| Type | Key Features | Malignant Potential |
+|---|---|---|
+| **Simple hepatic cyst** | Thin-walled; anechoic; no septa/nodules/solid components; no internal debris | None |
+| **Hemorrhagic cyst** | Prior bleed into simple cyst; internal echoes; blood products on MRI | None (distinguish from neoplasm) |
+| **Polycystic liver disease** | Multiple cysts; associated with ADPKD or isolated; large number/size | None (but significant morbidity) |
+| **Hydatid cyst** | Echinococcus; may have daughter cysts, membrane; travel/exposure history | None (infectious) |
+| **Biliary cystadenoma** | Complex cyst with septa and mural nodularity; predominantly women | Low but present → can transform to cystadenocarcinoma |
+| **Biliary cystadenocarcinoma** | Malignant; invasive features; mural solid component | Malignant |
+| **Caroli disease** | Congenital biliary ductal ectasia; communicates with bile ducts | Cholangiocarcinoma risk |
+
+**Simple hepatic cyst — prevalence:**
+- 2–7% of general population
+- More common with increasing age
+- Congenital: likely due to aberrant bile duct development; do not communicate with bile ducts
+
+---
+
+## Differential Diagnosis
+
+**For a cystic liver lesion:**
+- **Pyogenic liver abscess** — fever, elevated WBC, right-sided pleuritic pain; internal debris/air; travel history or recent biliary intervention; amoebic abscess (tropical exposure, elevated serology)
+- **HCC with necrosis** — in cirrhotic background; LI-RADS features; solid areas
+- **Mucinous cystic neoplasm (MCN)** — middle-aged women; cystic + solid components; does not communicate with bile ducts; ovarian-type stroma on histology
+- **Intraductal papillary mucinous neoplasm (IPMN) — biliary type** (BT-IPMN): communicates with bile duct; ductal dilation on MRCP
+- **Metastasis (cystic)** — neuroendocrine tumor, GI stromal tumor; known primary malignancy
+
+---
+
+## Diagnostics
+
+### Imaging Approach
+
+**Ultrasound (first-line):**
+- **Simple cyst:** anechoic, thin-walled, no internal septations or nodularity, posterior acoustic enhancement
+- Findings requiring further workup: internal echoes, thick walls, septations, mural nodules, solid components
+
+**MRI (preferred for complex cysts)** [[acg-2024-focal-liver-lesions]]:
+- Simple cyst: T1 hypointense, T2 markedly hyperintense ("bright"), no enhancement
+- Hemorrhagic cyst: T1 variable (hyperintense if subacute hemorrhage); T2 signal variable
+- Complex cyst: evaluate septation thickness, mural nodularity, solid components, enhancement
+
+**CT with contrast:**
+- Adequate for characterizing large, clearly benign cysts
+- Inferior to MRI for wall/septation characterization
+
+**MRCP:**
+- If communication with bile ducts suspected (Caroli disease, biliary cystadenoma vs. biliary IPMN)
+
+**FNA / aspiration:**
+- Not routinely indicated for simple cysts
+- Consider for: suspected hydatid (serology first), suspected infection, atypical features where histology would change management (caution: risk of tract seeding if mucinous neoplasm)
+
+---
+
+## Therapeutics
+
+### Simple Hepatic Cysts
+
+**Asymptomatic, characteristic imaging:**
+- **No intervention and no follow-up required** [[acg-2024-focal-liver-lesions]]
+- Reassure patient; simple cysts have no malignant potential
+
+**Symptomatic large cysts** (abdominal pain, pressure, early satiety):
+- **Aspiration-sclerotherapy:** first-line; US-guided aspiration + ethanol or tetracycline sclerotherapy; high recurrence with aspiration alone; sclerotherapy reduces recurrence to ~20%
+- **Laparoscopic fenestration (unroofing):** definitive; low recurrence; preferred for large cysts with prior recurrence or inaccessible to US-guided aspiration
+- Open surgical fenestration: reserved for laparoscopically inaccessible lesions
+
+### Polycystic Liver Disease
+
+- Associated with autosomal dominant polycystic kidney disease (ADPKD) in ~80% of cases; or isolated autosomal dominant polycystic liver disease (ADPLD)
+- Symptoms from mass effect: abdominal pain, early satiety, dyspnea (diaphragm compression)
+- **Somatostatin analogues** (octreotide LAR, lanreotide): reduce liver volume by ~5–10%; indicated for symptomatic polycystic liver disease
+- **mTOR inhibitors** (sirolimus, everolimus): modest effect; mainly for concurrent polycystic kidney disease
+- **Cyst aspiration/fenestration:** for dominant symptomatic cysts
+- **Liver resection ± liver transplantation:** for extreme cases with massive hepatomegaly and quality-of-life impairment
+
+### Complex Cysts / Cystic Neoplasms
+
+- Biliary cystadenoma: surgical resection — high recurrence with drainage alone; risk of malignant transformation
+- Biliary cystadenocarcinoma: surgical resection
+- Hydatid cyst (echinococcosis): albendazole therapy + PAIR (puncture-aspiration-injection-reaspiration) or surgical resection; avoid spillage of contents (anaphylaxis)
+
+---
+
+## See Also
+- [[acg-2024-focal-liver-lesions]]
+- [[hepatocellular-adenoma]]
+- [[focal-nodular-hyperplasia]]

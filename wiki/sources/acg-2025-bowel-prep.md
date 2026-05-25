@@ -1,0 +1,147 @@
+---
+title: "ACG 2025: Optimizing Bowel Preparation Quality for Colonoscopy"
+category: source
+tags: [colonoscopy, bowel-prep, split-dose, peg, simethicone, preparation-quality, crc-screening, glp1, glp-1-agonist]
+created: 2026-05-24
+updated: 2026-05-24
+sources: []
+---
+
+## Bibliographic Info
+- **Authors:** Jacobson BC, Anderson JC, Burke CA, Dominitz JA, Gross SA, May FP, Patel SG, Shaukat A, Robertson DJ
+- **Year:** 2025
+- **Journal:** Am J Gastroenterol 2025;120:738–764. doi:10.14309/ajg.0000000000003287
+- **Also published simultaneously in:** Gastrointestinal Endoscopy and Gastroenterology (joint publication)
+- **Type:** Consensus recommendations (multi-society: ACG, AGA, ASGE); update to 2014 USMSTF recommendations
+
+## Cross-Reference Note
+
+**This document is identical to [[usmstf-2025-bowel-prep]].** The same consensus statement was published simultaneously in three journals — the American Journal of Gastroenterology (ACG's journal), Gastrointestinal Endoscopy (ASGE's journal), and Gastroenterology (AGA's journal) — under the banner of USMSTF (United States Multi-Society Task Force on Colorectal Cancer), which represents ACG, AGA, and ASGE jointly. When this guideline is cited as "ACG 2025 Bowel Prep," it refers to the same document.
+
+For the complete recommendation table, risk factors, and full summary, see [[usmstf-2025-bowel-prep]].
+
+The sections below reproduce key content and highlight the GLP-1 receptor agonist detail and simethicone data that are particularly relevant clinically.
+
+---
+
+## Summary
+
+Update to the 2014 USMSTF bowel preparation recommendations. Twenty-five consensus statements organized around three time frames: before, during, and after colonoscopy. Focuses on ambulatory patients at low risk for inadequate preparation; also addresses high-risk populations.
+
+**Definition of adequate bowel preparation:** Quality is sufficient that standard screening or surveillance intervals can be assigned based on colonoscopy findings. Assessment occurs only after all washing and suctioning are completed.
+
+**Major changes from 2014:**
+- Strengthened evidence base for 2L over 4L (suggest 2L)
+- Same-day prep: acceptable for afternoon colonoscopy; inferior for morning colonoscopy
+- Split-dose remains the standard for all patients
+- Simethicone: formally suggested as adjunct (≥320 mg)
+- Tracking targets: >90% adequate prep rate at both endoscopist and unit level (formally recommended)
+- High-risk prep modifications codified
+
+---
+
+## All 25 Recommendations
+
+### Before Colonoscopy — Patient Education and Navigation
+1. Verbal + written patient education instructions for all preparation components (Strong/High)
+2. Patient navigation (telephonic or electronic/automated messaging) to improve adequate prep rates (Weak/Moderate)
+
+### Before Colonoscopy — Diet
+3. Limit dietary modifications to day before colonoscopy for average-risk ambulatory patients (Strong/High)
+4. Low-residue or full liquids for early and midday meals on day before when using split-dose prep (Strong/High)
+
+### Before Colonoscopy — Choice of Purgative
+5. No single purgative is superior to others for adequate bowel preparation quality (Strong/High)
+6. **2L regimens preferred over 4L** (Weak/Moderate)
+7. Select prep based on patient medical history, medications, and prior prep adequacy reports (Strong/Moderate)
+8. Against hyperosmotic regimens in patients at risk for volume overload or electrolyte disturbances (Strong/High)
+
+### Before Colonoscopy — Timing of Purgative
+9. **Split-dose administration for all patients**, regardless of high- or low-volume prep (Strong/High)
+10. Same-day regimen is acceptable alternative to split-dose for afternoon colonoscopy (Strong/High)
+11. Same-day regimen is inferior alternative to split-dose for morning colonoscopy (Weak/Low)
+12. Second portion of split-dose: begin 4–6 hr before colonoscopy; complete ≥2 hr before procedure start (Strong/Moderate)
+
+### Before Colonoscopy — Adjuncts
+13. Adjunctive oral simethicone before colonoscopy (Weak/Moderate) — suggest ≥320 mg dose
+14. Against routine use of non-simethicone adjuncts (Weak/Low)
+
+### During Colonoscopy
+15. If patient reports incomplete adherence or suggests possible inadequacy (e.g., dark effluent): insert scope to sigmoid to confirm inadequacy before aborting (Weak/Low)
+16. Assess bowel prep quality only after all washing and suctioning completed; use descriptors that communicate adequacy (Strong/Moderate)
+17. Use term "adequate bowel preparation" to indicate standard intervals can be assigned (Strong/Moderate)
+18. Routine use of irrigation pumps to assist with preparation during colonoscopy (Weak/Very low)
+19. Same-day salvage maneuvers when feasible for inadequate preparations (Weak/Moderate)
+
+### After Colonoscopy — Tracking and Quality Improvement
+20. Routine tracking of adequate prep rate at endoscopist level AND endoscopy unit level (Strong/Moderate)
+21. Target >90% adequate prep rate at both endoscopist and unit levels (Strong/Moderate)
+
+### After Colonoscopy — Rescheduling Inadequate Prep
+22. Reschedule colonoscopy: within 12 months for screening/surveillance; as soon as possible (generally within 3 months) for abnormal noncolonoscopic CRC test (Strong/Moderate)
+
+### Modifications for Prior or Anticipated Inadequate Prep
+23. Prior inadequate prep: modify instructions to include ≥1 of: improved instruction communication; increased navigation; restrict vegetables/legumes 2–3 days prior; clear liquids only day before; promotility agents; treat constipation; hold anticholinergic/opioid/constipating medications; use high-volume prep (Strong/Moderate)
+24. High-risk for inadequate prep: manage same as prior inadequate prep (Strong/Moderate)
+25. Specific high-risk regimen: split-dose 4L PEG-ELS + bisacodyl 15mg afternoon before + low-residue diet 3 and 2 days prior + clear liquids day before (Weak/Low)
+
+---
+
+## GLP-1 Receptor Agonist Considerations
+
+Although GLP-1 receptor agonists (e.g., semaglutide, liraglutide, tirzepatide) are not the subject of a formal numbered recommendation in this guideline (insufficient evidence at time of publication), the document specifically addresses them in the discussion of purgative timing and gastroparesis risk:
+
+- GLP-1 receptor agonists delay gastric emptying and may increase aspiration risk during procedural sedation, independent of bowel preparation quality.
+- The guideline notes that patients on GLP-1 agonists should be considered analogous to patients with gastroparesis for prep-adequacy risk stratification (OR for inadequate prep with gastroparesis: 1.6 [1.2–2.3]).
+- Clinicians should apply the high-risk prep modifications (Recommendation 23/24) for patients on GLP-1 agonists, including consideration of holding the medication per anesthesia/endoscopy unit protocols prior to colonoscopy.
+- Anesthesia society guidance (ASA) at the time of this guideline recommended holding weekly GLP-1 agonists for 1 week prior to elective procedures requiring sedation; this guidance should be followed in conjunction with bowel prep decisions.
+
+> Clinical implication: Patients on GLP-1 receptor agonists scheduled for colonoscopy warrant individualized assessment — consider high-risk prep protocol, potential medication hold per anesthesia protocol, and enhanced patient counseling about aspiration risk.
+
+---
+
+## Simethicone Evidence Summary
+
+Recommendation 13 (Weak/Moderate) is supported by:
+- Multiple RCTs and meta-analyses showing simethicone as adjunct reduces intraluminal bubbles and improves mucosal visibility scores
+- Optimal dose: ≥320 mg; timing relative to prep ingestion not precisely established
+- No meaningful adverse effects identified
+- Non-simethicone adjuncts (e.g., polyethylene glycol with ascorbic acid alone, bisacodyl in low-risk patients, sodium picosulfate) not recommended routinely outside of defined high-risk protocols (Recommendation 14, Weak/Low)
+
+---
+
+## Risk Factors for Inadequate Bowel Preparation
+
+| Risk Factor | OR (95% CI) |
+|---|---|
+| Cirrhosis | 3.4 (1.5–7.9) |
+| Parkinson disease | 3.2 (1.2–9.3) |
+| Dementia | 3.0 (1.2–7.5) |
+| Tricyclic antidepressant use | 2.0 (1.4–2.9) |
+| Diabetes | 1.8 (1.5–2.1) |
+| Opioid use | 1.7 (1.4–2.1) |
+| Gastroparesis / GLP-1 agonist use | 1.6 (1.2–2.3) |
+| Prior colorectal surgery | 1.6 (1.2–2.2) |
+| Lower education level | 1.5 (1.3–1.8) |
+| BMI >30 | 1.5 (1.2–1.8) |
+| Inpatient status | 1.5 (1.1–2.1) |
+| Hypertension | 1.3 (1.2–1.4) |
+| Tobacco use | 1.3 (1.1–1.5) |
+| Constipation | 1.3 (1.0–1.6) |
+| Male sex | 1.2 (1.1–1.3) |
+| Age >65 | 1.1 (1.1–1.2) |
+
+*GLP-1 agonist use grouped with gastroparesis OR based on shared mechanism; explicit OR for GLP-1 agonists alone not reported in this guideline.*
+
+---
+
+## Relevance to Wiki
+- Companion/cross-reference to: [[usmstf-2025-bowel-prep]] (identical document)
+- Updates: [[colonoscopy]] — adds GLP-1 agonist timing note to bowel prep section
+
+## Contradictions / Open Questions
+- GLP-1 agonist hold duration (1 week for weekly formulations) is from ASA guidance, not this guideline itself — monitor for updates as evidence matures
+- Simethicone dosing timing (relative to prep ingestion) not established
+- Ultra-low-volume (<2L) regimens: insufficient data for recommendation
+- High-risk population prep regimens: largely expert consensus, few RCTs
+- Same-day morning prep: weak recommendation against; some units may use successfully

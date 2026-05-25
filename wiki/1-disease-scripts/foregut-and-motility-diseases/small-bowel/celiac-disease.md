@@ -1,0 +1,289 @@
+---
+title: "Celiac Disease"
+category: disease-script
+tags: [celiac-disease, gluten, malabsorption, small-bowel, ttg, marsh, foregut]
+created: 2026-05-15
+updated: 2026-05-15
+sources: [acg-2022-celiac]
+---
+
+# Celiac Disease
+
+A permanent immune-mediated enteropathy triggered by gluten (proteins in wheat, barley, and rye) in genetically susceptible individuals (HLA-DQ2/DQ8). Affects ~1% of the US population. Characterized by small bowel villous injury, crypt hyperplasia, and intraepithelial lymphocytosis, with a wide spectrum of GI and extra-intestinal manifestations.
+
+---
+
+## Assessment
+
+### Establishing the Diagnosis
+
+**Who to test (case finding — not mass screening):**
+
+Classical GI indications:
+- Chronic diarrhea ± weight loss, steatorrhea, symptomatic malabsorption
+- Unexplained iron deficiency anemia
+- Postprandial bloating and gas
+
+Non-classical / extra-intestinal indications:
+- Unexplained elevated transaminases (gluten-dependent hypertransaminasemia)
+- Metabolic bone disease / early osteoporosis
+- Dermatitis herpetiformis
+- Peripheral neuropathy, ataxia, epilepsy
+- Oral aphthous ulcers
+- Amenorrhea, infertility (male or female)
+- "Brain fog," chronic fatigue
+- Growth failure (children)
+
+At-risk groups:
+- First-degree relatives of confirmed CD patients (test even if asymptomatic; risk ~10–20% in siblings)
+- Type 1 diabetes mellitus (CD prevalence 3–10%; screen if any suggestive symptoms; obtain duodenal biopsies opportunistically at upper endoscopy)
+- Down syndrome, Turner syndrome
+- Irritable bowel syndrome-type presentation (rule out CD)
+
+**Serology (must be on a gluten-containing diet):**
+
+| Test | Use |
+|------|-----|
+| TTG-IgA + total IgA | First-line in all patients; check total IgA to rule out IgA deficiency |
+| DGP-IgG or TTG-IgG | Use when IgA-deficient (selective IgA deficiency voids IgA-based tests) |
+| EMA-IgA | High specificity; used as confirmatory test in pediatric nonbiopsy algorithm |
+| HLA-DQ2/DQ8 | Not required for routine diagnosis; use to rule out CD (negative = CD excluded), resolve serology-histology discordance, or guide gluten challenge in patients already on GFD |
+
+- TTG-IgA sensitivity 63–93%, specificity 96–100% across labs
+- Negative TTG-IgA has high negative predictive value when pretest probability is low-moderate
+- If pretest probability is high, proceed to EGD with biopsy regardless of serology (seronegative CD exists)
+- Testing must be performed on a gluten-containing diet; if already on GFD, HLA testing is the preferred initial step
+
+**Upper endoscopy with duodenal biopsy — standard diagnostic approach:**
+
+Biopsy protocol (ACG 2022 — strong recommendation):
+- 1–2 biopsies from the **duodenal bulb** (9-o'clock or 12-o'clock position)
+- ≥4 biopsies from the **postbulbar (distal) duodenum**
+- Total: ≥6 specimens in separate labeled jars
+- Rationale: Histological abnormalities are patchy. ≥4 specimens increase new CD diagnosis yield from 0.7% to 1.8% (P<0.0001). Bulb biopsies catch 9–13% of cases with atrophy limited to the bulb.
+- See [[upper-endoscopy]] for biopsy technique
+
+**Nonbiopsy diagnosis in children (conditional — ESPGHAN 2020 / ACG 2022):**
+- TTG-IgA >10× upper limit of normal (confirmed with positive EMA in a second blood sample)
+- Family must agree with no-biopsy strategy
+- HLA testing no longer required as a prerequisite
+- Not standard in the US; biopsy remains preferred where feasible
+
+**Nonbiopsy "likely CD" in adults:**
+- Reserved for symptomatic adults unable or unwilling to undergo endoscopy
+- Requires TTG-IgA ≥10× ULN + confirmatory EMA in second sample
+- Regarded as "likely CD" rather than definitive diagnosis; biopsy is preferred whenever possible
+
+### Severity Assessment (Marsh Classification)
+
+| Grade | Histologic Features | Clinical Significance |
+|-------|--------------------|-----------------------|
+| Marsh I (lymphocytic duodenosis) | ≥25 intraepithelial lymphocytes (IELs) per 100 epithelial cells; normal villi; no crypt hyperplasia | Not specific for CD — seen in H. pylori, NSAIDs, SIBO, nonceliac wheat sensitivity, autoimmune disorders. Workup for CD is indicated; GFD may be considered if CD antibodies elevated (especially EMA) |
+| Marsh II | IEL ≥25 + crypt hyperplasia; no villous atrophy | Intermediate; GFD may be considered with positive CD serology |
+| Marsh IIIA | Partial villous atrophy | Diagnostic of CD with appropriate serology/context |
+| Marsh IIIB | Subtotal villous atrophy | Diagnostic |
+| Marsh IIIC | Total villous atrophy | Diagnostic; higher severity; higher complication risk |
+
+Simplified Corazza classification is an alternative grading system (Grade A = no atrophy with IEL ≥25; Grade B1 = partial atrophy; Grade B2 = total atrophy).
+
+Note: Persistent intraepithelial lymphocytosis (Marsh I) may persist in 56% of treated CD patients with otherwise normal villous architecture; oat consumption is the only associated factor identified.
+
+### Classification / Typing
+
+**Presentation phenotypes:**
+- **Classical CD:** Malabsorptive symptoms — diarrhea, steatorrhea, weight loss, bloating; more common in children
+- **Non-classical CD:** Non-malabsorptive or extra-intestinal manifestations dominant (anemia, elevated transaminases, neuropathy, infertility, bone disease); may have no GI symptoms
+- **Asymptomatic (silent) CD:** Detected by screening/case finding; villous atrophy present without symptoms; patients frequently report improved well-being after starting GFD
+
+**Response categories after GFD:**
+- **Responsive CD:** Symptoms and serology improve within weeks to months; mucosal healing typically takes ~3 years in adults
+- **Nonresponsive CD (NRCD):** Persistent or recurrent symptoms/signs/lab abnormalities despite 6–12 months of GFD
+- **Refractory CD (RCD):** Persistent villous atrophy with malabsorptive symptoms despite strict GFD >12 months with no other cause; <1% of CD patients; poor prognosis
+
+**Refractory CD subtypes:**
+- **RCD Type 1:** Polyclonal T-cell infiltrate (normal IEL immunophenotype — CD3+/CD8+ cells); heterogeneous etiology including inadvertent gluten exposure; better prognosis
+- **RCD Type 2:** Clonal T-cell infiltrate (aberrant IELs: CD3+/CD8−, with clonal TCR gene rearrangement by PCR or flow cytometry); frequent precursor to enteropathy-associated T-cell lymphoma (EATL); poor prognosis
+
+---
+
+## Differential Diagnosis
+
+**For villous atrophy on duodenal biopsy (seronegative enteropathy):**
+- Autoimmune enteropathy
+- Tropical sprue
+- Small intestinal bacterial overgrowth (SIBO)
+- Hypogammaglobulinemia / common variable immune deficiency (CVID)
+- Collagenous sprue
+- Eosinophilic enteritis
+- Crohn's disease (duodenal)
+- Peptic duodenitis
+- Medication-induced (olmesartan enteropathy, mycophenolate)
+
+**For CD-like symptoms without villous atrophy:**
+- [[disorders-of-gut-brain-interaction]] — IBS, functional dyspepsia
+- Food intolerances (lactose, fructose, FODMAPs)
+- SIBO
+- Eosinophilic enteritis
+- Crohn's disease
+- Microscopic colitis
+
+**For Marsh I (lymphocytic duodenosis only):**
+- H. pylori infection
+- NSAIDs
+- SIBO
+- Nonceliac wheat/gluten sensitivity
+- Systemic autoimmune disorders (rheumatoid arthritis, lupus, thyroid disease)
+
+**Serological considerations:**
+- Isolated DGP-IgG elevation: Low positive predictive value; not incorporated into standard diagnostic algorithms
+- Positive serology with normal biopsy: Consider timing (early disease, GFD already started), inadequate biopsy sampling, or alternative diagnosis
+- See [[atrophic-gastritis]] for differential of gastric atrophy coexisting with duodenal findings
+
+---
+
+## Diagnostics
+
+### Serologic Testing Algorithm
+
+1. Order **TTG-IgA + total IgA** simultaneously (patient on gluten-containing diet)
+2. If TTG-IgA elevated → proceed to [[upper-endoscopy]] with duodenal biopsy
+3. If total IgA deficient → order **DGP-IgG or TTG-IgG**
+4. If pretest probability high despite negative serology → proceed to EGD with biopsy anyway
+5. If already on GFD → HLA-DQ2/DQ8 testing; if negative, CD is excluded; if positive, consider gluten challenge before biopsy
+
+**Serology for children <2 years (IgA-sufficient):**
+- TTG-IgA alone is the preferred test (performs as well or better than DGP-IgG in this age group)
+- DGP-IgG or TTG-IgG when IgA-deficient
+
+### Duodenal Biopsy
+
+- Protocol: 1–2 bulb biopsies (9 or 12 o'clock position) + ≥4 distal duodenum biopsies
+- Submit as separate labeled specimens; one bite per pass recommended for orientation
+- Histopathologist should apply Marsh or Corazza grading
+- EGD with biopsy is also useful to identify alternative causes of malabsorption (CVID, autoimmune enteropathy, eosinophilic enteritis, Crohn's disease, collagenous sprue)
+
+### HLA Typing (HLA-DQ2 / DQ8)
+
+- Not required in standard diagnostic workup
+- Useful when:
+  - Serology-histology discordance
+  - Patient already on GFD before evaluation (negative HLA rules out CD; positive HLA justifies gluten challenge)
+  - Family members being evaluated for risk stratification
+
+### Monitoring Labs at Diagnosis
+
+- CBC, ferritin, iron studies
+- Vitamin A, D, E, B12; folic acid; copper; zinc
+- ALT/AST
+- Bone density (DXA) — especially for adults with longstanding or undiagnosed disease
+
+---
+
+## Therapeutics
+
+### Gluten-Free Diet (GFD)
+
+- **Strict, lifelong GFD is the only proven treatment for CD** (strong recommendation)
+- Eliminate all wheat, barley, and rye; oats may be included (see below)
+- Symptoms typically improve within days to weeks (diarrhea improved in ~80% within 60 days)
+- Mucosal healing in adults takes a median of ~3 years; in children, >95% heal within 2 years
+- Refer to dietitian with GFD expertise at diagnosis — mandatory; follow-up visits as needed
+
+**Oats in GFD:**
+- **Gluten-free oats are recommended** for most patients (strong/moderate evidence)
+- Gluten-free oats (e.g., Avena sativa varieties "Irina," "Potenza") are safe for the majority
+- Small subset may react to the oat protein avenin (immune reaction, IEL increase, or worsening symptoms)
+- Monitor for oat tolerance after introduction (symptoms, serology); monitoring intervals not yet standardized
+- Heterogeneity in oat tolerance may reflect differences in oat variety and harvesting contamination
+
+**Not recommended:**
+- Gluten detection devices (Nima sensor, etc.) for routine monitoring — insufficient evidence of benefit; significant false-positive and false-negative rates
+- Probiotics — insufficient evidence; some marketed probiotics contain detectable gluten
+
+### Monitoring After Diagnosis
+
+**Clinical follow-up schedule:**
+- Visits at 3, 6, and 12 months after diagnosis; then every 6–12 months
+- Goals: symptom control, GFD adherence reinforcement, preventive care, surveillance for complications and comorbid autoimmune disease
+
+**Serologic monitoring:**
+- TTG-IgA (or DGP-IgG if IgA-deficient) — trend toward normalization confirms adherence
+- Poor correlation between serology normalization and mucosal healing; serologic remission does not confirm histologic healing
+- Positive serology at 12 months → likely ongoing gluten ingestion → reassess diet with expert dietitian
+
+**Follow-up biopsy:**
+- EGD with biopsy indicated when: lack of clinical response or relapse of symptoms despite GFD
+- Consider repeat biopsy in asymptomatic adults after ~2 years of GFD to assess mucosal healing (conditional recommendation, shared decision-making required)
+- Follow-up biopsy in asymptomatic children not routinely recommended
+- Persistent villous atrophy (no mucosal healing) associated with:
+  - Lymphoproliferative malignancy risk (HR 2.81)
+  - Hip fracture risk (HR 1.67)
+  - Progression to RCD
+
+### Preventive Care
+
+**Pneumococcal vaccination:**
+- Recommended for all patients with CD (conditional/low evidence)
+- Rationale: ~1/3 of CD patients have functional hyposplenism; ~2-fold increased pneumococcal infection risk
+- Follow CDC vaccination schedule:
+  - Adults with functional asplenia: PCV15 → PPSV23 at ≥1 year later, OR PCV20 alone
+  - Complex scenarios: consult vaccination clinic or infectious disease specialist
+
+**Nutritional repletion:**
+- Correct micronutrient deficiencies identified at baseline (iron, folate, B12, vitamins D/A/E, copper, zinc)
+- Normal growth and development are achievable goals on GFD in children
+
+### Nonresponsive CD (NRCD) Workup
+
+Define: persistent symptoms/signs/labs after 6–12 months of GFD. Systematic stepwise evaluation:
+
+1. **Confirm diagnosis** — review original serology and biopsy; consider HLA testing if not done
+2. **Assess GFD adherence** — expert dietitian interview (most common cause = inadvertent gluten exposure); check serology
+3. **Rule out alternative/coexisting conditions:**
+   - Lactose intolerance, fructose intolerance, FODMAP sensitivity
+   - Exocrine pancreatic insufficiency
+   - SIBO
+   - Microscopic colitis
+   - Functional GI disorder ([[disorders-of-gut-brain-interaction]])
+4. **Repeat EGD with biopsy** if the above is unrevealing (to assess mucosal healing and rule out RCD)
+
+### Refractory CD (RCD)
+
+**Definition:** Villous atrophy + malabsorption despite strict GFD >12 months, with no other cause (including overt lymphoma ruled out)
+
+**Workup:**
+- Repeat EGD with biopsies
+- Immunohistochemistry (CD3, CD8) + flow cytometry or T-cell receptor PCR for clonality
+  - RCD Type 1: polyclonal → better prognosis
+  - RCD Type 2: clonal (CD3+/CD8−) → precursor to EATL → poor prognosis
+
+**Treatment — RCD Type 1:**
+- Strict elemental diet (eliminate nearly all processed foods)
+- Open-capsule budesonide
+- Prednisone
+- Immunomodulators (azathioprine, 6-MP)
+- Mesalamine, biologics
+- (No placebo-controlled trial data for any agent)
+
+**Treatment — RCD Type 2:**
+- Open-capsule budesonide
+- Cladribine
+- Autologous stem-cell transplantation
+- Parenteral nutritional support (often required)
+- Monitor closely for EATL development
+
+### Complications
+
+| Complication | Notes |
+|--------------|-------|
+| Enteropathy-associated T-cell lymphoma (EATL) | Rare; associated with RCD Type 2; poor prognosis |
+| Ulcerative jejunitis | Rare; may coexist with or precede EATL; presents with abdominal pain, obstruction, bleeding |
+| Osteoporosis / fracture | Correctable with GFD + calcium/vitamin D; DXA recommended |
+| Iron deficiency anemia | Usually resolves on GFD |
+| Hyposplenism | Functional; predisposes to pneumococcal infection; vaccination critical |
+| Hypertransaminasemia | Gluten-dependent; typically normalizes on GFD |
+| Infertility / adverse pregnancy outcomes | May improve on GFD |
+
+---
+
+*Sources: [[acg-2022-celiac]]*

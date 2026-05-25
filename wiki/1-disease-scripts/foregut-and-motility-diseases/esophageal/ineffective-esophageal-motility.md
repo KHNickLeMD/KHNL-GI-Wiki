@@ -1,0 +1,47 @@
+---
+title: "Ineffective Esophageal Motility"
+category: disease-script
+tags: [iem, motility, esophageal, dysphagia, gerd, chicago-classification]
+created: 2026-05-16
+updated: 2026-05-16
+sources: []
+---
+
+*Stub — to be expanded. Chicago Classification v4.0 criteria revised significantly — see [[chicago-classification-v4]]. Related: [[distal-esophageal-spasm]], [[hypercontractile-esophagus]].*
+
+## Assessment
+
+### Establishing the Diagnosis
+
+IEM is defined by **Chicago Classification v4.0** on [[high-resolution-manometry]]:
+- **≥70% ineffective swallows** (DCI <450 mmHg·s·cm), OR
+- **≥50% failed swallows** (DCI <100 mmHg·s·cm)
+
+**Chicago v4.0 revision:** Fragmented peristalsis was **eliminated** as a standalone disorder and absorbed into IEM. The thresholds above replaced the prior v3.0 criteria (>50% ineffective).
+
+**Clinical significance:** IEM is a minor motility disorder; most patients have mild or no symptoms. Clinical significance is primarily in:
+- Pre-anti-reflux surgery evaluation — impaired peristaltic reserve raises dysphagia risk post-wrap
+- Dysphagia workup when other causes excluded
+- Systemic disease associations (scleroderma, CREST syndrome can cause severe IEM → absent contractility)
+
+---
+
+## Differential Diagnosis
+
+- Absent contractility — severe form; all swallows failed; see [[achalasia]] (differentiate by IRP)
+- [[gerd]] — IEM often co-exists with GERD; reflux can impair peristalsis
+- Scleroderma/systemic sclerosis — IEM with very low LES pressure pattern
+
+---
+
+## Diagnostics
+
+- **HRM:** Chicago v4.0 criteria — see [[high-resolution-manometry]]
+- **FLIP panometry:** See [[flip-panometry]]; Hypocontractility pattern
+- Rule out obstruction and achalasia before labeling as IEM
+
+---
+
+## Therapeutics
+
+*Stub — largely symptomatic; address underlying GERD; prokinetics lack evidence for IEM; weight-based dietary modifications; surgical caution pre-ARS.*
