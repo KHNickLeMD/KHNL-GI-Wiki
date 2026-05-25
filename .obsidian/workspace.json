@@ -11,14 +11,10 @@
             "id": "56b3e6121ea7e481",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wiki/1-disease-scripts/colorectal-diseases/mutyh-associated-polyposis.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "mutyh-associated-polyposis"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -164,8 +160,19 @@
               "icon": "lucide-list",
               "title": "Outline of gastric-premalignant-conditions"
             }
+          },
+          {
+            "id": "0f934266afa5cce3",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -180,13 +187,22 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "56b3e6121ea7e481",
   "lastOpenFiles": [
-    "wiki/log.md",
+    "index.html",
+    "CLAUDE.md",
+    "Untitled.canvas",
+    "2026-05-24.md",
+    "Untitled.base",
+    "Untitled 1.base",
+    "Untitled 2.base",
+    "Welcome.md",
     "wiki/1-disease-scripts/colorectal-diseases/mutyh-associated-polyposis.md",
+    "wiki/log.md",
     "wiki/1-disease-scripts/foregut-and-motility-diseases/gastric/hereditary-diffuse-gastric-cancer.md",
     "wiki/1-disease-scripts/colorectal-diseases/serrated-polyposis-syndrome.md",
     "wiki/1-disease-scripts/colorectal-diseases/cowden-syndrome.md",
@@ -207,19 +223,12 @@
     "wiki/1-disease-scripts/foregut-and-motility-diseases/esophageal/barretts-esophagus.md",
     "wiki/5-meds/prucalopride.md",
     "wiki/5-meds/plecanatide.md",
-    "wiki/5-meds/linaclotide.md",
-    "wiki/4-advanced-gi-procedures/foregut-and-motility-procedures/anorectal-manometry.md",
-    "wiki/1-disease-scripts/foregut-and-motility-diseases/gastric/peptic-ulcer-disease.md",
-    "wiki/1-disease-scripts/colorectal-diseases/familial-adenomatous-polyposis.md",
     "wiki/sources/acg-2021-gerd.md.tmp.96368.0b9ec2786733",
     "wiki/1-disease-scripts/foregut-and-motility-diseases/small-bowel",
     "wiki/meds",
     "wiki/diagnostic-schemas",
     "wiki/concepts",
     "wiki/disease-scripts/foregut-and-motility-diseases/ge-junction",
-    "raw/GI Guidelines/ACG/ACG 2025 Preventive Care in IBD.pdf",
-    "raw/GI RCTs",
-    "raw/GI Guidelines/SAGES/SAGES 2021 Surgical Treatment of Gastroesophageal Reflux GERD.pdf",
-    "raw/GI Guidelines/ACG/USMSTF 2021 Update Age to Start and Stop Colorectal Cancer Screening.pdf"
+    "raw/GI Guidelines/ACG/ACG 2025 Preventive Care in IBD.pdf"
   ]
 }
