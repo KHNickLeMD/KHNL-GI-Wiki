@@ -1,7 +1,7 @@
 ---
 title: "Wiki Index"
 category: index
-updated: 2026-05-24
+updated: 2026-05-25
 ---
 
 # KHNL GI Encyclopedia — Master Index
@@ -33,7 +33,7 @@ updated: 2026-05-24
 
 #### Gastric
 - [[atrophic-gastritis]] — Atrophic gastritis: ADDT — HpAG vs. AIG etiology, OLGA/OLGIM staging, Sydney protocol, pernicious anemia, type I gastric NETs, surveillance intervals (1 source)
-- [[wiki/1-disease-scripts/foregut-and-motility-diseases/gastric/gastroparesis]] — Gastroparesis: ADDT — 4-hour scintigraphy (>10% retention), GCSI, prokinetics (metoclopramide/domperidone/erythromycin), G-POEM preferred pyloric intervention, EndoFLIP for pyloric DI, no botox/GES/nortriptyline (1 source)
+- [[gastroparesis]] — Gastroparesis: ADDT — 4-hour scintigraphy (>10% retention), GCSI, prokinetics (metoclopramide/domperidone/erythromycin), G-POEM preferred pyloric intervention, EndoFLIP for pyloric DI, no botox/GES/nortriptyline (1 source)
 - [[gastric-intestinal-metaplasia]] — GIM: ADDT — Correa cascade, H. pylori test-and-treat (32% GC RR reduction), against routine surveillance (AGA 2020) vs. q3y surveillance (ACG 2025/ESGE) for high-risk; incomplete-type/extensive GIM/family history = high risk (1 source)
 
 #### Gastric (continued)
@@ -80,7 +80,7 @@ updated: 2026-05-24
 
 ### Hepatopancreaticobiliary Diseases
 - [[drug-induced-liver-injury]] — Idiosyncratic DILI: ADDT — diagnosis of exclusion, R-value classification (hepatocellular/cholestatic/mixed), RUCAM causality, Hy's law ~10% mortality, NAC for early DILI-ALF (Strong/Low), against rechallenge, HDS second most common cause, ICI hepatotoxicity overview (1 source)
-- [[alcohol-associated-liver-disease]] — ALD spectrum: AH clinical diagnosis, MDF/MELD severity, prednisolone + Lille score, NAC, baclofen for AUD, early liver transplantation (1 source)
+- [[alcohol-associated-liver-disease]] — ALD spectrum: AH clinical diagnosis, MDF/MELD severity, prednisolone + Lille score, NAC, baclofen for AUD, early LT; post-LT monitoring (AUDIT-C/PEth, naltrexone/acamprosate; no disulfiram); fixed abstinence intervals NOT listing exclusion criteria per AASLD/AST 2025 (2 sources)
 - [[acute-pancreatitis]] — 2-of-3 diagnosis, Revised Atlanta severity, LR fluids, early enteral nutrition, ERCP indications, necrotizing AP step-up approach (1 source)
 - [[hepatocellular-adenoma]] — 4 molecular subtypes; resect if >5cm/male/beta-catenin/pre-pregnancy; gadoxetate MRI; OCP discontinuation (1 source)
 - [[focal-nodular-hyperplasia]] — No malignant potential; gadoxetate uptake in hepatobiliary phase (key vs. HCA); no follow-up once confirmed (1 source)
@@ -88,11 +88,11 @@ updated: 2026-05-24
 - [[hepatic-cysts]] — Simple cysts: benign, no follow-up; complex cysts → MRI; polycystic liver disease: somatostatin analogues (1 source)
 - [[nutrition-in-liver-disease]] — Malnutrition/nutrition in liver disease: cirrhosis assessment, HE protein strategy, BCAAs, late evening snacks, vitamin E (MASH) (1 source)
 - [[chronic-hepatitis-b]] — CHB: 5 phases (immune-tolerant/active/inactive/indeterminate/HBsAg-loss); ETV/TDF/TAF; treat immune-tolerant >40 or ≥F2; treat indeterminate via SDM; continue NA until HBsAg loss; expanded HCC surveillance for HDV/HIV co-infection and post-HBsAg loss (1 source)
-- [[acute-liver-failure]] — ALF: ADDT — O'Grady classification, INR/encephalopathy criteria, NAC for non-APAP early coma, CRRT for ammonia, no routine coagulopathy correction, no prophylactic antibiotics, KCC/MELD transplant criteria (1 source)
+- [[acute-liver-failure]] — ALF: ADDT — O'Grady classification, INR/encephalopathy criteria, NAC for non-APAP early coma, CRRT for ammonia, no routine coagulopathy correction, no prophylactic antibiotics, KCC/MELD transplant criteria; ALL ALF → urgent LT center referral before formal criteria met per AASLD/AST 2025 (2 sources)
 - [[aki-in-cirrhosis]] — AKI in Cirrhosis/HRS-AKI: ADDT — ICA-AKI staging, HRS-AKI vs. ATN distinction, FEUrea preferred over FENa, terlipressin dosing/contraindications, RRT as bridge to transplant only, MELD paradox (1 source)
 - [[chronic-pancreatitis]] — Chronic pancreatitis: ADDT — Mechanistic vs. clinicopathologic definition; CT/MRI first-line then EUS/sMRCP/histology; TIGAR-O v2.0; M-ANNHEIM scoring; PRSS1/SPINK1/CFTR/CTRC genetics; surgery > endoscopy for obstructive CP (Cahen RCT); PERT for EPI only (not pain); antioxidants/celiac plexus block; alcohol + smoking cessation (Strong); no routine cancer screening (1 source)
-- [[autoimmune-hepatitis]] — AIH: simplified score (ANA/SMA/IgG/histology), type 1 vs. 2, distinction from DILI, prednisolone ± azathioprine, budesonide alternative (stub)
-- [[hepatocellular-carcinoma]] — HCC: LI-RADS non-invasive diagnosis, BCLC staging, surveillance criteria (cirrhosis/HBV/HDV co-infection), resection/ablation/TACE/systemic (stub)
+- [[autoimmune-hepatitis]] — AIH: ADDT — simplified score (ANA/SMA/anti-LKM1/IgG/histology), type 1 vs. 2, budesonide contraindicated in cirrhosis/acute severe AIH, MMF preferred second-line over TAC, acute severe AIH/ALF → LT, withdrawal after ≥2y remission (50–87% relapse), AIH-PBC/PSC overlap (Paris criteria), anti-SLA=never withdraw, post-LT recurrence 36–68% at 5y (3 sources)
+- [[hepatocellular-carcinoma]] — HCC: LI-RADS non-invasive diagnosis, BCLC staging, surveillance, adjuvant therapy (atezo+bev contraindicated post-resection/ablation per AASLD 2025 Guidance 32R; IMbrave050 second-interim non-significant), recurrence management, post-LT IS (mTOR for within-Milan), LT candidacy (Milan/AFP thresholds) (3 sources)
 - [[immune-checkpoint-inhibitor-hepatitis]] — ICI hepatitis: onset 4–12 weeks, withhold ICI + steroids ± MMF by grade, ipilimumab combinations highest rate (stub)
 - [[spontaneous-bacterial-peritonitis]] — SBP: ADDT — PMN ≥250/mm³ threshold, culture-negative SBP, bacterascites distinction, cefotaxime community vs. pip-tazo nosocomial, albumin 1.5+1.0 g/kg mandatory, ciprofloxacin prophylaxis (norfloxacin unavailable in US) (1 source)
 - [[primary-sclerosing-cholangitis]] — PSC: ADDT — MRCP-preferred dx, IgG4 + AMA testing, no medical Rx (UDCA >28 mg/kg/d harmful), dominant stricture ERCP + FISH, CCA surveillance, annual chromoendoscopy in PSC-IBD, LT at MELD >14 (1 source)
@@ -100,10 +100,10 @@ updated: 2026-05-24
 - [[hereditary-hemochromatosis]] — HH: ADDT — HFE C282Y homozygote most common (Types 1–4), TS+SF algorithm, HFE genotyping, liver biopsy if SF >1000 or LFT↑, phlebotomy to SF <50, HCC surveillance post-cirrhosis (1 source)
 - [[wilson-disease]] — Wilson disease: ATP7B, ceruloplasmin screening, confirmatory testing (24h urine copper/liver biopsy/slit-lamp), K-F rings, DDx (stub)
 - [[primary-biliary-cholangitis]] — PBC: AMA >95% sensitivity, cholestatic pattern, UDCA treatment, surveillance vs. PSC and AIH (stub)
-- [[nafld-masld]] — NAFLD/MASLD: updated nomenclature (NAFLD→MASLD, NASH→MASH, cardiometabolic criteria), diagnosis of exclusion, resmetirom FDA 2024 (stub)
-- [[liver-transplantation]] — Liver transplantation: ADDT — IS monitoring (tacrolimus targets), IS minimization, metabolic complications (CKD/PTDM/HTN/dyslipidemia/bone), oncologic surveillance, recurrent disease (HBV/HCV/PBC/PSC/AIH/ALD/NAFLD), reproductive health (1 source)
+- [[nafld-masld]] — NAFLD/MASLD: nomenclature (NAFLD→MASLD/NASH→MASH), NIT staging (FIB-4 → VCTE/MRE/ELF), resmetirom FDA 2024, semaglutide FDA Aug 2025 (ESSENCE trial, GLP-1RA), post-LT recurrence management (2 sources)
+- [[liver-transplantation]] — Liver transplantation: candidate evaluation (MELD ≥12 referral, contraindications, cardiac/pulmonary/psychosocial workup, HCC/CCA criteria, ALD no fixed abstinence exclusion); graft complications (machine perfusion, vascular/biliary complications, TCMR/PCR/AMR, IS trough targets 2025, no protocol biopsy Rec 34, mTOR for HCC/CKD); non-graft complications (CMV pre-emptive PCR, hydrophilic statins, GLP-1RA post-LT, cancer surveillance, bone/reproductive health); IS minimization (4 sources)
 - [[hepatitis-c-in-pregnancy]] — HCV in pregnancy: vertical transmission, no DAA in pregnancy, universal screening, breastfeeding safety (stub)
-- [[portal-vein-thrombosis]] — PVT/MVT: ADDT — noncirrhotic (thrombophilia workup: JAK2/FVL/APLS) vs. cirrhotic PVT, anticoagulate all acute symptomatic noncirrhotic + complete/extending cirrhotic PVT (Strong/Low), LMWH/VKA/DOAC, NSBBs + AC for variceal prophylaxis, TIPS for recanalization, cirrhosis rebalanced hemostasis (no prophylactic FFP/platelets) (1 source)
+- [[portal-vein-thrombosis]] — PVT/MVT: ADDT — noncirrhotic (thrombophilia workup: JAK2/FVL/APLS) vs. cirrhotic PVT, anticoagulate all acute symptomatic noncirrhotic + complete/extending cirrhotic PVT (Strong/Low), LMWH/VKA/DOAC, NSBBs + AC for variceal prophylaxis, TIPS for recanalization; Yerdel grade IV PVT = relative (not absolute) LT contraindication per AASLD/AST 2025 (2 sources)
 - [[budd-chiari-syndrome]] — Budd-Chiari: ADDT — hepatic venous outflow obstruction, MPN/JAK2 most common etiology (40–50%), caudate hypertrophy, stepwise management (AC → angioplasty → TIPS → LT), HCC surveillance q6mo regardless of fibrosis, comprehensive thrombophilia workup mandatory (1 source)
 - [[hereditary-hemorrhagic-telangiectasia]] — HHT (Osler-Weber-Rendu): stub — hepatic LVMs in 32–73%, bevacizumab for refractory LVMs at specialized centers, no routine LVM screening (1 source)
 
@@ -158,8 +158,9 @@ updated: 2026-05-24
 - [[plecanatide]] — GC-C agonist (uroguanylin analog); IBS-C 3/6 mg, CIC 3 mg (stub)
 - [[prucalopride]] — Selective 5-HT4 agonist; CIC 2 mg daily; no CV signal (stub)
 - [[rifaximin]] — Rifaximin: non-absorbable antibiotic; SIBO 550 mg TID × 14d; IMO + neomycin combination; IBS-D 550 mg TID × 14d; hepatic encephalopathy secondary prophylaxis (stub)
-- [[tacrolimus]] — Tacrolimus (FK506): CNI calcineurin inhibitor, post-transplant IS backbone, trough 5–10 → 4–7 ng/mL, nephrotoxicity/PTDM/neurotoxicity (stub)
-- [[calcineurin-inhibitors]] — CNI drug class: tacrolimus + cyclosporine, mechanism (IL-2 suppression), shared toxicities, drug interactions (stub)
+- [[semaglutide]] — GLP-1 RA (Wegovy/Ozempic/Rybelsus); FDA-approved Aug 2025 for MASH; ESSENCE trial efficacy; NIT-based candidacy (VCTE/MRE/ELF cutoffs); full safety table (10 domains); cardiometabolic benefit (SELECT/FLOW/STEP trials); concomitant resmetirom use (1 source)
+- [[tacrolimus]] — Tacrolimus (FK506): CNI backbone post-LT; 2025 trough targets (mo1: 7–10, mo2–12: 4–8, mo12+: 4 ng/mL); XR equivalence (Rec 31); mTOR for HCC/CKD; Paxlovid DDI; nephrotoxicity/PTDM/neurotoxicity; special populations (1 source)
+- [[calcineurin-inhibitors]] — CNI drug class: TAC vs. CSA comparison; basiliximab induction (Rec 25, Strong); ATG contraindicated (Rec 26, Strong); steroid minimization; IS minimization ladder (dose↓→MMF→mTOR→ACEi→kidney Tx); CSA DDIs (sofosbuvir/glecaprevir/voxilaprevir) (1 source)
 
 ---
 
@@ -188,7 +189,9 @@ updated: 2026-05-24
 - [[angioectasia]] — Angioectasia: most common SBB cause, AVM dilations, association with aortic stenosis (Heyde's), endoscopic treatment (argon plasma coagulation) (stub)
 - [[heydes-syndrome]] — Heyde's syndrome: aortic stenosis + angioectasia + acquired vWF deficiency, LVAD parallel, AVR resolves coagulopathy (stub)
 - [[post-transplant-lymphoproliferative-disorder]] — PTLD: EBV-driven lymphoproliferation post-transplant IS, IS reduction first-line, rituximab (stub)
-- [[operational-tolerance]] — Operational tolerance: IS-free allograft acceptance, rare but reproducible, research target for IS minimization (stub)
+- [[antibody-mediated-rejection-liver-transplant]] — AMR in liver transplant: Banff 2022 criteria (C4d + DSA + histology + graft dysfunction); treatment (plasmapheresis/IVIG/rituximab/bortezomib); open questions (1 source)
+- [[hepatopulmonary-syndrome-portopulmonary-hypertension]] — HPS and POPH: bubble echocardiography screening; RHC indications; POPH mPAP ≥45 mmHg + PVR >3 WU = LT contraindication; candidacy thresholds (1 source)
+- [[operational-tolerance]] — Operational tolerance: IS-free allograft acceptance; ~7%/year increase in meta-analysis (n=620); biopsy pre-withdrawal; AASLD 2025 Rec 36 against routine withdrawal (Strong, Level 4) (1 source)
 - [[nutrition-in-hospitalized-patients]] — Nutrition in hospitalized patients: EN preferred over PN when gut functional, NRS-2002/NUTRIC risk scoring, avoid albumin/prealbumin as nutrition markers, EN within 24–48h for high-risk, permissive underfeeding in early ARDS/obesity, no GRV monitoring, PN deferred 7–10d in low-risk if EN not feasible, EOL autonomy governs nutrition (1 source)
 - [[cirrhosis-hemostasis]] — Hemostasis in cirrhosis: rebalanced hemostasis concept, INR/platelet count poor predictors of bleeding, no prophylactic FFP/platelets before routine procedures, TEG/ROTEM preferred for transfusion guidance, PVT paradox in cirrhosis (1 source)
 
@@ -253,6 +256,12 @@ updated: 2026-05-24
 - [[acg-2020-esophageal-physiologic-testing]] — ACG 2020: Clinical Use of Esophageal Physiologic Testing — Yadlapati et al. Am J Gastroenterol 2020;115:1412–1428 — 16 GRADE recommendations; symptom-based routing (obstructive/reflux/extraesophageal); empiric PPI test performance; FLIP; rumination and supragastric belching
 - [[acg-2019-hereditary-hemochromatosis]] — ACG 2019: Hereditary Hemochromatosis — Crownover, Covey. Am J Gastroenterol 2019;114:1202–1218 — 10 GRADE recommendations; TS+SF algorithm; HFE genotyping; phlebotomy protocol; HCC surveillance; chelation agents
 - [[acg-2015-hereditary-gi-cancer]] — ACG 2015: Genetic Testing and Management of Hereditary GI Cancer Syndromes — Syngal et al. Am J Gastroenterol 2015;110:223–262 — 25 recommendations; Lynch, FAP/MAP, Peutz-Jeghers, Juvenile Polyposis, Cowden, SPS, HDGC, hereditary pancreatic cancer
+- [[aasld-2025-hcc-critical-update]] — AASLD 2025 Critical Update: Adjuvant/Neoadjuvant Therapy After HCC Resection/Ablation (Taddei et al. Hepatology 2025) — Guidance Statement 32 Revised (Strong, Level 1): atezo+bev adjuvant contraindicated; IMbrave050 second interim negative; active surveillance standard
+- [[aasld-2025-semaglutide-mash]] — AASLD 2025 Practice Guidance: Semaglutide for MASH — 20 guidance statements; FDA-approved Aug 2025; ESSENCE trial; NIT candidacy framework (VCTE/MRE/ELF cutoffs); safety table (10 domains)
+- [[aasld-ast-2025-liver-transplant-candidate-evaluation]] — AASLD/AST 2025 Practice Guideline: Liver Transplantation Candidate Evaluation — 59 recommendations; referral criteria (MELD ≥12, decompensation, ACLF, ALF, HCC, CCA); multidisciplinary workup; ALD fixed abstinence interval NOT a listing exclusion; HPS/POPH candidacy thresholds
+- [[aasld-ast-2025-liver-transplant-graft-complications]] — AASLD/AST 2025 Practice Guideline: Liver Transplant Graft Complications — 57 recommendations; machine perfusion; vascular/biliary complications; TCMR/PCR/AMR; 2025 IS trough targets; no protocol biopsy (Rec 34); ATG contraindicated (Rec 26); mTOR for HCC within Milan
+- [[aasld-ast-2025-liver-transplant-non-graft-complications]] — AASLD/AST 2025 Consensus: LT Non-Graft Complications — 70 recommendations; wellness/nutrition; bone (DEXA at 6mo); vaccination (no live vaccines); CMV (pre-emptive PCR preferred; maribavir for resistant); cancer surveillance (2.45× SIR; NHL SIR ~10); PTLD EBV PCR not recommended; hydrophilic statins (pravastatin/rosuvastatin); GLP-1RA for obesity/ASCVD-T2DM; bariatric surgery post-LT
+- [[aasld-2020-autoimmune-hepatitis]] — AASLD 2020 Practice Guideline: Autoimmune Hepatitis — Mack et al. Hepatology 2020 — 5 GRADE recommendations + extensive guidance; budesonide+AZA vs. prednisone+AZA first-line; MMF preferred second-line; ≥2y remission before withdrawal; 50–87% relapse; overlap syndromes (Paris criteria AIH-PBC); anti-SLA=never withdraw; TPMT before AZA; HCC surveillance in cirrhosis
 - [[aasld-2012-liver-transplant-long-term]] — AASLD 2012: Long-Term Management of the Successful Adult Liver Transplant Recipient — Lucey et al. Liver Transpl 2013;19:3–26 — 93 recommendations; IS monitoring/minimization; metabolic complications; oncologic surveillance; recurrent disease
 - [[acg-2015-small-bowel-bleeding]] — ACG 2015: Diagnosis and Management of Small Bowel Bleeding — Gerson et al. Am J Gastroenterol 2015;110:1265–1287 — 31 recommendations; SBB terminology; VCE/DAE algorithms; angioectasia treatment
 - [[acg-2016-liver-disease-pregnancy]] — ACG 2016: Liver Disease and Pregnancy — Tran, Lavezo, Higa et al. Am J Gastroenterol 2016;111:176–194 — 36 recommendations; HG/IHCP/HELLP/AFLP/preeclampsia; viral hepatitis in pregnancy; chronic liver disease management
@@ -277,4 +286,4 @@ updated: 2026-05-24
 
 ---
 
-*Total: 74 sources | 73 disease scripts | 13 diagnostic schemas | 2 general procedures | 9 advanced procedures | 8 meds | 0 anatomy | 22 concepts | 1 synthesis*
+*Total: 80 sources | 73 disease scripts | 13 diagnostic schemas | 2 general procedures | 9 advanced procedures | 9 meds | 0 anatomy | 24 concepts | 1 synthesis*

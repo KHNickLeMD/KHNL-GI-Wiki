@@ -6,6 +6,71 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-05-25] lint | Extra high-effort lint pass
+
+**Hygiene fixes:**
+- `index.md` — tacrolimus trough targets corrected (was 8–12/5–10/3–7, correct 2025 values: mo1 7–10, mo2–12 4–8, mo12+ 4 ng/mL)
+- `index.md` — malformed gastroparesis wiki-link fixed (`[[wiki/1-disease-scripts/.../gastroparesis]]` → `[[gastroparesis]]`)
+- 4× `.DS_Store` files deleted from vault root and raw/ subdirectories
+
+**Cross-links added:**
+- `autoimmune-hepatitis.md` — `[[wilson-disease]]`, `[[primary-biliary-cholangitis]]`
+- `semaglutide.md` — `[[gastroparesis]]` (contraindication)
+- `hepatopulmonary-syndrome-portopulmonary-hypertension.md` — `[[budd-chiari-syndrome]]`
+- `antibody-mediated-rejection-liver-transplant.md` — `[[post-transplant-lymphoproliferative-disorder]]`
+- `hepatocellular-carcinoma.md` — `[[immune-checkpoint-inhibitor-hepatitis]]`, `[[post-transplant-lymphoproliferative-disorder]]`
+
+**Uningested files ingested (2):**
+- `aasld-2020-autoimmune-hepatitis` — AASLD 2020 AIH Practice Guideline (Mack et al. Hepatology 2020); `autoimmune-hepatitis.md` fully expanded from stub to ADDT with type 1/2 comparison, treatment withdrawal criteria, overlap syndromes, HCC surveillance
+- `aasld-ast-2025-liver-transplant-non-graft-complications` — AASLD/AST 2025 LT Non-Graft Complications (70 recs); `liver-transplantation.md` Part III added (CMV pre-emptive strategy, maribavir for resistance, hydrophilic statins, GLP-1RA post-LT, cancer SIR table, bone/reproductive health, PTLD surveillance)
+
+**Index updates:** 78 → 80 sources; liver-transplantation now 4 sources; autoimmune-hepatitis stub upgraded
+
+**Issues for user triage (priority order):**
+1. `wilson-disease.md` stub — AASLD 2022 Wilson Disease guideline available in raw/
+2. `primary-biliary-cholangitis.md` stub — AASLD 2018 + 2021 PBC guidelines available in raw/
+3. `variceal-upper-gi-bleeding.md` stub — AASLD 2023 Portal Hypertension/Varices guideline available in raw/
+4. ACLF: no wiki page exists — AASLD 2024 ACLF guideline available in raw/
+5. HCV/DAA: no wiki page exists — AASLD/IDSA 2023 HCV guideline available in raw/
+6. Hepatic encephalopathy: no standalone concept page — referenced across multiple pages
+7. HCC `hepatocellular-carcinoma.md` — BCLC staging, sorafenib/lenvatinib dosing remain stubs
+
+---
+
+## [2026-05-25] ingest | 4-guideline parallel ingest (AASLD 2025 HCC Critical Update, AASLD 2025 Semaglutide MASH, AASLD/AST 2025 LT Candidate Evaluation, AASLD/AST 2025 LT Graft Complications)
+
+**Sources ingested (4):**
+- `aasld-2025-hcc-critical-update` — AASLD 2025 Critical Update: Guidance Statement 32 Revised (Level 1, Strong) — atezo+bev adjuvant therapy explicitly contraindicated after HCC resection/ablation; IMbrave050 second interim analysis non-significant (RFS HR=0.90); active surveillance remains standard of care
+- `aasld-2025-semaglutide-mash` — AASLD 2025 Practice Guidance: Semaglutide for MASH — 20 guidance statements; FDA approval Aug 2025; ESSENCE trial data; NIT candidacy (VCTE/MRE/ELF cutoffs); prior source stub language ("not yet approved") corrected
+- `aasld-ast-2025-liver-transplant-candidate-evaluation` — AASLD/AST 2025 Guideline: LT Candidate Evaluation — 59 recommendations; referral criteria; multidisciplinary workup framework; ALD fixed abstinence interval explicitly NOT a listing exclusion criterion (conflicts with pre-2025 practice); HPS/POPH candidacy thresholds
+- `aasld-ast-2025-liver-transplant-graft-complications` — AASLD/AST 2025 Guideline: LT Graft Complications — 57 recommendations; machine perfusion (NMP/HMP); vascular/biliary complication ladders; TCMR/PCR/AMR management; 2025 TAC trough targets (supersede 2012); protocol biopsy no longer recommended (Rec 34); ATG induction contraindicated (Rec 26); mTOR for HCC within-Milan (Rec 32–33)
+
+**New entity pages created:**
+- `5-meds/semaglutide.md` — full medication page (GLP-1RA mechanism, MASH indication, ESSENCE trial, NIT candidacy table, dosing/monitoring, safety table, cardiometabolic benefit, resmetirom comparison)
+- `7-concepts/antibody-mediated-rejection-liver-transplant.md` — Banff 2022 diagnostic criteria, management ladder
+- `7-concepts/hepatopulmonary-syndrome-portopulmonary-hypertension.md` — definitions, screening, candidacy thresholds for LT
+
+**Updated entity pages:**
+- `1-disease-scripts/hepatopancreaticobiliary-diseases/hepatocellular-carcinoma.md` — adjuvant therapy post-resection/ablation (atezo+bev contraindicated), recurrence algorithm, LT candidacy (Milan/AFP), post-LT IS (mTOR sirolimus for within-Milan)
+- `1-disease-scripts/hepatopancreaticobiliary-diseases/nafld-masld.md` — semaglutide approval + NIT staging framework; post-LT MASLD section added
+- `1-disease-scripts/hepatopancreaticobiliary-diseases/liver-transplantation.md` — major expansion: pre-transplant candidate evaluation (Part I) + graft complications (2025 trough targets, vascular/biliary tables, rejection management)
+- `1-disease-scripts/hepatopancreaticobiliary-diseases/alcohol-associated-liver-disease.md` — post-LT ALD monitoring; fixed abstinence interval NOT exclusion criteria
+- `1-disease-scripts/hepatopancreaticobiliary-diseases/acute-liver-failure.md` — urgent LT center referral expanded (AASLD/AST Recs 3–4)
+- `1-disease-scripts/hepatopancreaticobiliary-diseases/portal-vein-thrombosis.md` — Yerdel grade IV PVT = relative (not absolute) LT contraindication
+- `5-meds/tacrolimus.md` — 2025 trough targets, XR equivalence, full side effect profile, drug interactions (Paxlovid)
+- `5-meds/calcineurin-inhibitors.md` — TAC vs CSA table, basiliximab/ATG induction evidence, IS minimization ladder, CSA DDIs
+- `7-concepts/operational-tolerance.md` — meta-analysis data, pre-withdrawal biopsy, Rec 36 (against routine withdrawal)
+
+**Key conflicts resolved:**
+- Protocol liver biopsy now NOT recommended (Rec 34 Strong, Level 4) — supersedes 2012 AASLD q1y/5y approach
+- ATG induction now explicitly contraindicated (Rec 26) — supersedes older use
+- Steroid-free IS cannot be routinely recommended (Rec 28) — TAC trough targets now more granular and lower than 2012 values
+- Adjuvant atezo+bev post-resection/ablation now contraindicated (Guidance 32 Revised) — corrects earlier positive IMbrave050 first interim
+
+**Index updates:** 74 → 78 sources; 8 → 9 meds (semaglutide); 22 → 24 concepts (AMR-LT, HPS/POPH)
+
+---
+
 ## [2026-05-24] ingest | 4-guideline parallel ingest (ACG 2025 Bowel Prep, ASGE 2020 Endoscopic Removal, USMSTF 2016 FIT Screening, USMSTF 2017 BMMRD)
 
 **Sources ingested (4):**

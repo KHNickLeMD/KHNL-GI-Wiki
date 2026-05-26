@@ -1,10 +1,10 @@
 ---
 title: "Alcohol-Associated Liver Disease"
 category: disease-script
-tags: [ald, alcoholic-hepatitis, cirrhosis, liver, hpb, aud, corticosteroids, liver-transplant, lille-score, meld]
+tags: [ald, alcoholic-hepatitis, cirrhosis, liver, hpb, aud, corticosteroids, liver-transplant, lille-score, meld, transplant-candidate-evaluation, post-transplant, recurrence, naltrexone, acamprosate]
 created: 2026-05-07
-updated: 2026-05-07
-sources: [acg-2024-ald, acg-2017-liver-chemistries]
+updated: 2026-05-25
+sources: [acg-2024-ald, acg-2017-liver-chemistries, aasld-ast-2025-liver-transplant-candidate-evaluation, aasld-ast-2025-liver-transplant-graft-complications]
 ---
 
 # Alcohol-Associated Liver Disease
@@ -166,9 +166,16 @@ All ALD patients should receive AUD treatment [[acg-2024-ald]]:
 
 ### 6. Liver Transplantation
 
-**Conventional approach:**
-- 6-month documented abstinence (increasingly viewed as arbitrary)
-- Psychosocial evaluation: insight, social support, treatment engagement
+**2025 AASLD/AST Guideline Update on ALD Transplant Evaluation** ([[aasld-ast-2025-liver-transplant-candidate-evaluation]], Recs 37–39):
+- Patients with ALD and indications for LT should be referred **early**, before decompensation, to allow psychosocial assessment and addiction treatment goal establishment (Strong, Level 3)
+- **Fixed abstinence interval (e.g., 6 months) should NOT be a listing exclusion criterion**, especially when liver disease severity prevents achieving a longer sobriety period (Strong, Level 3)
+- Ongoing monitoring for alcohol cessation should be performed in listed patients (Strong, Level 3)
+- Patients should be referred to addiction rehabilitation; "to merely achieve a predetermined interval of abstinence without addressing addiction does not therapeutically address the addiction" (2025 guideline language)
+- Post-LT contracting for alcohol treatment and counseling may be considered for patients too sick for pre-LT rehabilitation
+
+**Psychosocial evaluation:**
+- Insight into alcohol problem, commitment to post-transplant abstinence, strong social support remain key components — these are assessed through the psychosocial evaluation, not by a fixed time threshold
+- Ongoing alcohol use on the waitlist typically leads to delisting
 
 **Early Liver Transplantation (ELT) for AH** [[acg-2024-ald]]:
 - Supported for selected severe AH non-responders to steroids
@@ -183,9 +190,35 @@ All ALD patients should receive AUD treatment [[acg-2024-ald]]:
 
 ---
 
+## Post-Liver-Transplant ALD Management
+
+Per [[aasld-ast-2025-liver-transplant-graft-complications]] (recommendations for recurrent ALD post-LT):
+
+**Monitoring:**
+- Sustained alcohol use screening with validated tools (e.g., AUDIT-C) at every post-LT visit
+- Phosphatidylethanol (PEth) testing for objective alcohol biomarker monitoring
+- Urine/blood alcohol levels in high-risk patients
+
+**Behavioral and Addiction Therapy:**
+- Referral to addiction medicine or structured addiction treatment program
+- Continued psychosocial support; involvement of social work and psychiatry
+- Tobacco cessation counseling (associated with cardiovascular mortality and aerodigestive cancer)
+
+**Pharmacotherapy for AUD post-LT:**
+- Naltrexone (NAL): opioid antagonist; reduces craving and alcohol consumption; use with caution if hepatic impairment (LFTs must be monitored)
+- Acamprosate (NAC): GABA modulator; reduces alcohol cravings; renal dosing; no hepatotoxicity risk
+- Disulfiram: generally avoided post-LT due to hepatotoxicity risk and compliance issues
+- Pharmacotherapy should be combined with behavioral therapy
+
+**Re-transplantation:**
+- Re-LT for alcohol relapse with graft failure is controversial; considered selectively at experienced centers with strong psychosocial evaluation
+- Increasingly accepted when supported by addiction medicine evaluation demonstrating durable sobriety and insight
+
+---
+
 ## See Also
 - [[acg-2024-ald]]
+- [[liver-transplantation]] — post-LT ALD management, surgical considerations, IS
 - [[acute-pancreatitis]] (pancreatitis common in heavy alcohol users)
-- [[abnormal-liver-chemistries]] (AST:ALT ratio ≥2:1 as diagnostic clue; alcohol consumption thresholds)
 - [[nafld-masld]] (can coexist with ALD; dual contributors to liver injury)
 - [[hereditary-hemochromatosis]] (ferritin elevated in ALD — must distinguish true iron overload)

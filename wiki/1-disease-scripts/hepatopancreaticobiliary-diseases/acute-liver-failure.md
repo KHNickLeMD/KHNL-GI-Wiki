@@ -1,10 +1,10 @@
 ---
 title: "Acute Liver Failure"
 category: disease-script
-tags: [acute-liver-failure, alf, liver, hepatology, transplant]
+tags: [acute-liver-failure, alf, liver, hepatology, transplant, liver-transplant-referral]
 created: 2026-05-15
-updated: 2026-05-15
-sources: [acg-2023-alf, acg-2016-liver-disease-pregnancy]
+updated: 2026-05-25
+sources: [acg-2023-alf, acg-2016-liver-disease-pregnancy, aasld-ast-2025-liver-transplant-candidate-evaluation]
 ---
 
 ## Assessment
@@ -21,9 +21,11 @@ sources: [acg-2023-alf, acg-2016-liver-disease-pregnancy]
 
 **Key early actions:**
 - Refer immediately to hepatology/gastroenterology
-- Communicate early with a liver transplant center
+- **Refer ALL ALF patients to a liver transplant center for urgent evaluation** — referral should happen in the first few hours of presentation, prior to meeting formal ALF criteria, as disease progression may prevent safe transfer ([[aasld-ast-2025-liver-transplant-candidate-evaluation]], Recs 3–4, Strong, Level 2 and Level 5)
+- Transplant centers must be able to respond promptly to transfer requests (Strong, Level 5)
+- Only one-third of ALF patients ultimately require LT; one-third recover; but timely assessment is critical
 - Grade 2 HE → transfer to ICU
-- Any encephalopathy → consider active LT evaluation
+- Any encephalopathy → active LT evaluation
 
 ### Severity Assessment
 
