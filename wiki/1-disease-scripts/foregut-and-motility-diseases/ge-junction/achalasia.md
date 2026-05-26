@@ -4,10 +4,34 @@ category: disease-script
 tags: [achalasia, esophageal-motility, dysphagia, hrm, poem, heller-myotomy, pneumatic-dilation, foregut, ge-junction]
 created: 2026-05-15
 updated: 2026-05-15
-sources: [acg-2020-achalasia]
+sources: ["[[acg-2020-achalasia]]"]
 ---
 
 # Achalasia
+
+## Contents
+- [[#Assessment]]
+  - [[#Establishing the Diagnosis]]
+  - [[#Classification / Typing (Chicago Classification — clinically essential)]]
+- [[#Differential Diagnosis]]
+- [[#Diagnostics]]
+  - [[#HRM (High-Resolution Manometry)]]
+  - [[#Timed Barium Esophagram (TBE)]]
+  - [[#Upper Endoscopy]]
+  - [[#FLIP (Functional Lumen Imaging Probe)]]
+  - [[#Eckardt Score (ES)]]
+- [[#Therapeutics]]
+  - [[#Treatment Algorithm]]
+  - [[#Pneumatic Dilation (PD)]]
+  - [[#Laparoscopic Heller Myotomy (LHM)]]
+  - [[#Per-Oral Endoscopic Myotomy (POEM)]]
+  - [[#Botulinum Toxin Injection]]
+  - [[#Pharmacotherapy]]
+  - [[#Esophagectomy]]
+  - [[#Post-Therapy Monitoring and Retreatment]]
+  - [[#Cancer Surveillance]]
+
+---
 
 Esophageal motility disorder characterized by **aberrant peristalsis and insufficient LES relaxation** due to selective loss of inhibitory neurons in the myenteric plexus. Excitatory neurons (ACh) are preserved; inhibitory neurons (VIP, NO) are lost → unopposed cholinergic activity → failure of LES relaxation and aperistalsis. Incurable; all treatments are palliative.
 
@@ -98,38 +122,27 @@ Symptom score: dysphagia + regurgitation + chest pain + weight loss (each 0–3)
 
 ### Treatment Algorithm
 
-```
-Suspected achalasia
-        ↓
-Upper endoscopy → rule out pseudoachalasia
-        ↓
-HRM + Timed Barium Esophagram → confirm diagnosis + subtype
-        ↓
-    ┌───────────────────────────────────────────────────────┐
-    │              Can undergo definitive therapy?           │
-    └───────────────────────────────────────────────────────┘
-           YES                              NO
-            ↓                               ↓
-    Classify subtype              Botulinum toxin injection
-                                  ± smooth muscle relaxants
-    Type I / II                   Type III
-        ↓                           ↓
- PD or LHM or POEM           POEM (preferred)
- (equivalent efficacy)        or tailored LHM
-                              (POEM 93% vs LHM 71%)
+![[achalasia-2020-treatment-algorithm-15.png]]
+*Figure 8 — Diagnostic and treatment algorithm for achalasia. FLIP: functional lumen imaging probe; HRM: high-resolution manometry; PPI: proton pump inhibitor. ([[acg-2020-achalasia]])*
 
- Note for Type I/II:
- • Young men (<45y): start PD at 3.5 cm or use LHM/POEM
- • All others: graded PD (3.0 → 3.5 → 4.0 cm)
- • LHM: always add fundoplication (Dor or Toupet)
- • POEM: higher GERD risk — lifelong PPI, screen for BE
-
-        ↓
-Post-therapy: follow with TBE ± endoscopy
-        ↓
-Recurrent symptoms → PD (safe post-LHM and post-POEM)
-Failed PD + POEM → LHM if incomplete myotomy
-Failed all + megaesophagus → esophagectomy (high-volume center)
+```mermaid
+flowchart TD
+    A["Symptoms of dysphagia\n± chest pain / regurgitation"] --> B["Upper endoscopy\nRule out pseudoachalasia\n& mechanical obstruction"]
+    B --> C["HRM + Timed Barium Esophagram\nConfirm diagnosis & subtype\n(FLIP if equivocal)"]
+    C --> D{"Fit for\ndefinitive therapy?"}
+    D -->|No| E["Botulinum toxin 100 U\n± calcium channel blockers\n± nitrates"]
+    D -->|Yes| F{"Chicago Classification\nsubtype"}
+    F -->|"Type I / II"| G{"Age <45\nand male?"}
+    G -->|Yes| H["Start PD 3.5 cm\nor LHM + fundoplication\nor POEM"]
+    G -->|No| I["Graded PD 3.0→3.5→4.0 cm\nor LHM + Dor/Toupet\nor POEM"]
+    F -->|"Type III"| J["POEM preferred\n93% vs 71% LHM\n(tailored long myotomy)"]
+    H & I & J --> K["Post-therapy TBE ± endoscopy\nEckardt Score"]
+    K --> L{"Recurrent\nsymptoms?"}
+    L -->|PD/LHM failed| M["POEM → 94% success\nor PD post-POEM"]
+    L -->|All failed + megaesophagus| N["Esophagectomy\nhigh-volume center only"]
+    style J fill:#2d5a8a,color:#fff
+    style E fill:#6b4a2a,color:#fff
+    style N fill:#4a4a4a,color:#fff
 ```
 
 ### Pneumatic Dilation (PD)

@@ -4,8 +4,38 @@ category: disease-script
 tags: [liver-transplant, liver-transplantation, immunosuppression, tacrolimus, calcineurin-inhibitor, ckd, metabolic-syndrome, rejection, tcmr, pcr, amr, biliary-stricture, vascular-complications, machine-perfusion, dcd, ldlt, ead, hbv, hcv, pbc, psc, autoimmune-hepatitis, hcc, masld, ald, de-novo-malignancy, post-transplant, bone-health, vaccination, cmv, cancer-surveillance, glp-1, bariatric-surgery, aasld]
 created: 2026-05-19
 updated: 2026-05-25
-sources: [aasld-2012-liver-transplant-long-term, aasld-ast-2025-liver-transplant-graft-complications, aasld-ast-2025-liver-transplant-candidate-evaluation, aasld-ast-2025-liver-transplant-non-graft-complications]
+sources: ["[[aasld-2012-liver-transplant-long-term]]", "[[aasld-ast-2025-liver-transplant-graft-complications]]", "[[aasld-ast-2025-liver-transplant-candidate-evaluation]]", "[[aasld-ast-2025-liver-transplant-non-graft-complications]]"]
 ---
+
+## Contents
+- [[#PART I — PRE-TRANSPLANT CANDIDATE EVALUATION]]
+  - [[#Referral Criteria]]
+  - [[#Multidisciplinary Evaluation Framework]]
+  - [[#Cardiac Evaluation]]
+  - [[#Pulmonary Evaluation]]
+  - [[#Infection Screening]]
+  - [[#Malignancy Screening]]
+  - [[#Nutritional and Physical Function Assessment]]
+  - [[#Psychosocial and Substance Use Evaluation]]
+  - [[#Contraindications to Liver Transplantation]]
+  - [[#Living Donor Liver Transplantation (LDLT)]]
+  - [[#Multiorgan Transplantation]]
+- [[#PART II — GRAFT COMPLICATIONS]]
+  - [[#Surgical Considerations]]
+  - [[#Machine Perfusion]]
+  - [[#Early Allograft Dysfunction (EAD)]]
+  - [[#Vascular Complications]]
+  - [[#Biliary Complications]]
+  - [[#Rejection]]
+  - [[#Immunosuppression]]
+- [[#PART III — NON-GRAFT COMPLICATIONS]]
+  - [[#Wellness and Nutrition]]
+  - [[#Bone Health]]
+  - [[#Vaccination]]
+  - [[#Reproductive Health]]
+  - [[#Infections]]
+  - [[#Oncologic Surveillance]]
+  - [[#Metabolic Syndrome and Cardiovascular Risk]]
 
 ---
 

@@ -4,7 +4,22 @@ category: disease-script
 tags: [hcc, hepatocellular, liver, cancer, hpb, surveillance, cirrhosis, hbv, adjuvant, immunotherapy, liver-transplant, milan-criteria, afp, downstaging, mtor-inhibitor, sirolimus, everolimus]
 created: 2026-05-16
 updated: 2026-05-25
-sources: [aasld-2025-hcc-critical-update, aasld-ast-2025-liver-transplant-candidate-evaluation, aasld-ast-2025-liver-transplant-graft-complications]
+sources: ["[[aasld-2025-hcc-critical-update]]", "[[aasld-ast-2025-liver-transplant-candidate-evaluation]]", "[[aasld-ast-2025-liver-transplant-graft-complications]]"]
+---
+
+## Contents
+- [[#Assessment]]
+  - [[#Establishing the Diagnosis]]
+  - [[#Severity Assessment]]
+  - [[#HCC Surveillance]]
+- [[#Differential Diagnosis]]
+- [[#Diagnostics]]
+- [[#Therapeutics]]
+  - [[#Liver Transplantation for HCC]]
+  - [[#(Neo)Adjuvant Therapy After Resection or Local Ablation]]
+  - [[#Management of Recurrence After Resection or Local Ablation]]
+  - [[#Post-Transplant Immunosuppression for HCC Recipients]]
+
 ---
 
 *Partially expanded. Lectures available: HCC_By_Dr_Kemichian.md, HCC_by_Kali_Zhou.md, Disparities_in_HCC_Care.md (raw/GI Lectures+Chalk Talks/). Referenced in [[chronic-hepatitis-b]] (expanded HCC surveillance criteria), [[alcohol-associated-liver-disease]], and [[hereditary-hemochromatosis]] (HCC accounts for ~45% of cirrhosis-related HH deaths; SF >2,000 ng/mL = high risk; surveillance continues after iron depletion).*
@@ -23,7 +38,25 @@ HCC is the most common primary liver cancer; arises predominantly in the setting
 
 ### Severity Assessment
 
-*Stub — BCLC 0/A (very early/early, resection/ablation candidates), B (intermediate, TACE), C (advanced, systemic therapy), D (terminal).*
+**Barcelona Clinic Liver Cancer (BCLC) staging** drives all treatment decisions:
+
+```mermaid
+flowchart TD
+    A[HCC Diagnosis] --> B{Performance status\n& liver function}
+    B -->|PS 0, Child-Pugh A/B\nNo portal hypertension| C{Tumor burden}
+    C -->|Single ≤2 cm| D["**BCLC 0 — Very Early**\nResection or ablation\n(RFA/MWA)"]
+    C -->|Single any size\nOR ≤3 nodules ≤3 cm\nwithin Milan criteria| E["**BCLC A — Early**\nResection · Ablation · LT\n(Milan: single ≤5 cm or ≤3 lesions ≤3 cm)"]
+    C -->|Multinodular\nbeyond Milan| F["**BCLC B — Intermediate**\ncTACE or Y-90"]
+    B -->|PS 1–2, vascular invasion\nor extrahepatic spread| G["**BCLC C — Advanced**\nAtezo + bev (1st line)\nSorafenib / lenvatinib (alt)"]
+    B -->|PS 3–4 or\nChild-Pugh C| H["**BCLC D — Terminal**\nBest supportive care"]
+    style D fill:#2d6a2d,color:#fff
+    style E fill:#2d6a2d,color:#fff
+    style F fill:#8a6200,color:#fff
+    style G fill:#8a2200,color:#fff
+    style H fill:#4a4a4a,color:#fff
+```
+
+*Note: Adjuvant/neoadjuvant systemic therapy after resection or ablation is NOT recommended — see Therapeutics below.*
 
 ---
 
@@ -105,6 +138,9 @@ Per [[aasld-ast-2025-liver-transplant-candidate-evaluation]] (Recs 5–8):
 ### Management of Recurrence After Resection or Local Ablation
 
 Per the AASLD 2025 revised Figure 11, post-resection/ablation recurrence is managed by recurrence pattern:
+
+![[hcc-2025-recurrence-algorithm-2.png]]
+*Figure 11 (Revised) — Management of HCC recurrence after complete response to resection or local ablation. ([[aasld-2025-hcc-critical-update]])*
 
 | Recurrence Pattern | Recommended Approach |
 |---|---|

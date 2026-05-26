@@ -4,7 +4,21 @@ category: med
 tags: [semaglutide, wegovy, ozempic, glp-1, glp1-ra, mash, masld, obesity, diabetes, t2dm, cardiovascular, ckd, weight-loss, essence-trial, select-trial, step-trials, hpb]
 created: 2026-05-25
 updated: 2026-05-25
-sources: [aasld-2025-semaglutide-mash]
+sources: ["[[aasld-2025-semaglutide-mash]]"]
+---
+
+## Contents
+- [[#Overview]]
+- [[#Mechanism of Action]]
+- [[#GI Indication — MASH with Moderate-to-Advanced Fibrosis]]
+  - [[#FDA Approval and Evidence Base]]
+  - [[#Patient Selection (AASLD 2025 Guidance)]]
+  - [[#Contraindications (MASH Indication)]]
+  - [[#Dosing]]
+  - [[#Monitoring and Safety]]
+- [[#Broader Cardiometabolic Benefits]]
+- [[#Concomitant Use]]
+
 ---
 
 ## Overview
@@ -48,7 +62,26 @@ Semaglutide (Wegovy, 2.4 mg/week SC) received **accelerated FDA approval in Augu
 
 **Liver biopsy is NOT routinely required** for semaglutide candidacy. NIT-based approach is preferred. [[aasld-2025-semaglutide-mash]]
 
-**Sequential NIT strategy:**
+**Sequential NIT strategy — flowchart:**
+
+```mermaid
+flowchart TD
+    A["[[nafld-masld|MASLD/MASH]] suspected\nMetabolic risk factors + elevated ALT"] --> B{"FIB-4\n(age × AST / [plt × √ALT])"}
+    B -->|"< 1.3"| C["Advanced fibrosis excluded\n(99% NPV)\nReassess in 1–2 years"]
+    B -->|"≥ 1.3"| D["Second-line NIT"]
+    D --> E{"Imaging or\nblood-based NIT"}
+    E -->|"VCTE LSM 8–15 kPa\nMRE 3.1–4.4 kPa\nELF 9.2–10.5"| F["✓ Candidate\nF2–F3 confirmed"]
+    E -->|"VCTE 15–20 kPa\nMRE 4.4–5.0 kPa\nELF 10.5–11.3"| G{"Exclude cirrhosis:\nno nodular liver\nno portal HTN signs\nplatelets ≥150k"}
+    G -->|"Cirrhosis excluded"| F
+    G -->|"Cirrhosis likely"| H["✗ Not approved\nManage as cirrhosis\n(see [[nafld-masld]])"]
+    E -->|"VCTE >20 kPa\nMRE >5.0 kPa\nELF >11.3"| H
+    F --> I["Initiate Wegovy 2.4 mg SC weekly\nwith standard titration\nAssess response at 72 weeks"]
+    style F fill:#2d6a2d,color:#fff
+    style H fill:#8a2200,color:#fff
+    style C fill:#4a4a4a,color:#fff
+```
+
+**Sequential NIT strategy — cutoffs:**
 1. Calculate FIB-4 (age × AST / [platelet × √ALT])
    - FIB-4 <1.3 → rules out advanced fibrosis in 99% of primary care patients; do not use alone as rule-in for candidacy
    - FIB-4 ≥1.3 → proceed to second-line NIT
@@ -82,6 +115,9 @@ For VCTE 15–20 kPa, MRE 4.4–5 kPa, or ELF 10.5–11.3: individualized treatm
 - Combination use with resmetirom at 2.4 mg/week has not been formally studied
 
 ### Monitoring and Safety
+
+![[semaglutide-2025-safety-monitoring-table-08.png]]
+*Table 3 — Key safety considerations and monitoring for semaglutide (Wegovy). ([[aasld-2025-semaglutide-mash]])*
 
 **Pre-treatment baseline:** [[aasld-2025-semaglutide-mash]]
 - Screen for active suicidal ideation
