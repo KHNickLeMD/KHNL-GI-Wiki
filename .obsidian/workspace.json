@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
-                "mode": "preview",
+                "file": "wiki/overview.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "overview"
             }
           }
         ]
@@ -197,6 +197,8 @@
   },
   "active": "56b3e6121ea7e481",
   "lastOpenFiles": [
+    "Welcome.md",
+    "README.md",
     "CLAUDE.md",
     "wiki/overview.md",
     "https:/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@github.com/KHNickLeMD/KHNL-GI-Wiki.git",
@@ -234,7 +236,6 @@
     "raw/GI Guidelines/AASLD/AASLD 2021 Vascular Disorders Portal Vein Thrombosis.pdf",
     "raw/GI Guidelines/AASLD/AASLD 2025 Semaglutide MASH Update.pdf",
     "Untitled.canvas",
-    "2026-05-24.md",
-    "Welcome.md"
+    "2026-05-24.md"
   ]
 }
