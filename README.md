@@ -16,29 +16,49 @@ The result is a compounding, evidence-linked reference that grows with each new 
 
 ## Page Types
 
-### 🔵 Disease Scripts
-Per-disease clinical summaries in ADDT format: **Assessment** (establishing diagnosis, severity, classification), **Differential Diagnosis**, **Diagnostics** (labs, imaging, endoscopy), and **Therapeutics**. One page per disease entity.
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:12px;margin:16px 0;">
 
-### 🟣 Diagnostic Schemas
-Pages for undifferentiated clinical syndromes that are not a single diagnosis — e.g. "upper GI bleeding" or "abnormal liver chemistries." Cover differential diagnosis and stepwise diagnostic algorithms.
+<div style="background:var(--surface);border:1px solid var(--border);border-radius:10px;padding:14px 16px;">
+<div style="display:flex;align-items:center;gap:8px;font-weight:600;font-size:13px;margin-bottom:6px;">📋 Disease Scripts</div>
+<div style="font-size:13px;color:var(--text-muted);line-height:1.5;">Per-disease clinical summaries in ADDT format: Assessment (establishing diagnosis, severity, classification), Differential Diagnosis, Diagnostics (labs, imaging, endoscopy), and Therapeutics. One page per disease entity.</div>
+</div>
 
-### 🟢 General Procedures
-Procedures routinely performed by general GI physicians, such as upper endoscopy and colonoscopy. Cover indications, technique, quality metrics, and complications.
+<div style="background:var(--surface);border:1px solid var(--border);border-radius:10px;padding:14px 16px;">
+<div style="display:flex;align-items:center;gap:8px;font-weight:600;font-size:13px;margin-bottom:6px;">🔍 Diagnostic Schemas</div>
+<div style="font-size:13px;color:var(--text-muted);line-height:1.5;">Pages for undifferentiated clinical syndromes that are not a single diagnosis — e.g. "upper GI bleeding" or "abnormal liver chemistries." Cover differential diagnosis and stepwise diagnostic algorithms.</div>
+</div>
 
-### 🔬 Advanced Procedures
-Specialized GI procedures requiring additional training — ERCP, EUS, POEM, high-resolution manometry, anorectal manometry, and others. Cover technique, indications, and interpretation.
+<div style="background:var(--surface);border:1px solid var(--border);border-radius:10px;padding:14px 16px;">
+<div style="display:flex;align-items:center;gap:8px;font-weight:600;font-size:13px;margin-bottom:6px;">🔭 General Procedures</div>
+<div style="font-size:13px;color:var(--text-muted);line-height:1.5;">Procedures routinely performed by general GI physicians, such as upper endoscopy and colonoscopy. Cover indications, technique, quality metrics, and complications.</div>
+</div>
 
-### 💊 Medications
-Drug classes and specific agents used in GI and hepatology. Cover mechanism of action, dosing, monitoring parameters, adverse effects, and key clinical data.
+<div style="background:var(--surface);border:1px solid var(--border);border-radius:10px;padding:14px 16px;">
+<div style="display:flex;align-items:center;gap:8px;font-weight:600;font-size:13px;margin-bottom:6px;">🔬 Advanced Procedures</div>
+<div style="font-size:13px;color:var(--text-muted);line-height:1.5;">Specialized GI procedures requiring additional training — ERCP, EUS, POEM, high-resolution manometry, anorectal manometry, and others. Cover technique, indications, and interpretation.</div>
+</div>
 
-### 💡 Concepts
-Pathophysiology, mechanisms, classification systems, and clinical frameworks that underpin multiple disease pages — e.g. Chicago Classification v4.0, colorectal cancer screening, ambulatory reflux monitoring.
+<div style="background:var(--surface);border:1px solid var(--border);border-radius:10px;padding:14px 16px;">
+<div style="display:flex;align-items:center;gap:8px;font-weight:600;font-size:13px;margin-bottom:6px;">💊 Medications</div>
+<div style="font-size:13px;color:var(--text-muted);line-height:1.5;">Drug classes and specific agents used in GI and hepatology. Cover mechanism of action, dosing, monitoring parameters, adverse effects, and key clinical data.</div>
+</div>
 
-### 📚 Sources
-One summary page per ingested guideline, RCT, review, or consensus statement. Includes full verbatim GRADE recommendations for guidelines, key findings, and links to all entity pages updated.
+<div style="background:var(--surface);border:1px solid var(--border);border-radius:10px;padding:14px 16px;">
+<div style="display:flex;align-items:center;gap:8px;font-weight:600;font-size:13px;margin-bottom:6px;">💡 Concepts</div>
+<div style="font-size:13px;color:var(--text-muted);line-height:1.5;">Pathophysiology, mechanisms, classification systems, and clinical frameworks that underpin multiple disease pages — e.g. Chicago Classification v4.0, colorectal cancer screening, ambulatory reflux monitoring.</div>
+</div>
 
-### 🧪 Syntheses
-Wiki-generated comparison and analysis pages that synthesize content across multiple disease or treatment pages — e.g. comparing biologics in UC, or IBD vs. IBS workup.
+<div style="background:var(--surface);border:1px solid var(--border);border-radius:10px;padding:14px 16px;">
+<div style="display:flex;align-items:center;gap:8px;font-weight:600;font-size:13px;margin-bottom:6px;">📚 Sources</div>
+<div style="font-size:13px;color:var(--text-muted);line-height:1.5;">One summary page per ingested guideline, RCT, review, or consensus statement. Includes full verbatim GRADE recommendations for guidelines, key findings, and links to all entity pages updated.</div>
+</div>
+
+<div style="background:var(--surface);border:1px solid var(--border);border-radius:10px;padding:14px 16px;">
+<div style="display:flex;align-items:center;gap:8px;font-weight:600;font-size:13px;margin-bottom:6px;">🧪 Syntheses</div>
+<div style="font-size:13px;color:var(--text-muted);line-height:1.5;">Wiki-generated comparison and analysis pages that synthesize content across multiple disease or treatment pages — e.g. comparing biologics in UC, or IBD vs. IBS workup.</div>
+</div>
+
+</div>
 
 ### ⚠️ Stubs
 Pages that have been created (because a wiki-link references them, or a source mentions the topic) but whose content has not yet been fully written. Stub pages are flagged visually in the website with a yellow warning banner. They are placeholders that will be expanded when a relevant source is ingested or when the topic is manually developed. A stub contains at minimum a title and frontmatter so the wiki-link graph is connected.
@@ -85,6 +105,17 @@ Each node represents one wiki page. Edges represent `[[wiki-links]]` — when a 
 - Color-coded nodes by section with a legend
 
 The graph runs a continuous physics simulation — repulsion forces push nodes apart, link attraction pulls connected nodes together, and a center gravity keeps the layout visible. No external libraries are required.
+
+---
+
+## Navigation Tips
+
+- Click any **section name** in the sidebar to open its table of contents
+- Click the **›** chevron to expand a section dropdown and browse individual pages
+- Click **[[wiki-links]]** within any page to navigate to related pages
+- Click the **📚 N sources** badge on any page to see which sources back it
+- Use the **search bar** for full-text search across all pages
+- Click any **#tag** to search for related pages
 
 ---
 

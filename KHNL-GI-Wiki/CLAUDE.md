@@ -160,6 +160,7 @@ Triggered when the user provides a new source (article, guideline, chapter, pape
 6. Update `wiki/overview.md` if the source changes the big picture
 7. Update `wiki/index.md` — add the new source page and any new entity/concept pages
 8. Append to `wiki/log.md`
+9. The website (`#KHNL GI Wiki/index.html`) fetches `wiki/index.md` and `README.md` live from GitHub — no HTML rebuild needed unless the HTML itself changes
 
 **Guidelines — recommendation capture (required):** When the source is a guideline, clinical practice update, or consensus statement, the source page **must** include a complete verbatim or near-verbatim list of every named recommendation, guidance statement, or GRADE/evidence-rated statement. Do not summarize or abbreviate — preserve the full text of each statement, its evidence grade/strength, and its number or label as given in the source. Entity pages updated by the guideline must likewise incorporate all relevant recommendations, not just highlights.
 
@@ -223,6 +224,8 @@ Triggered by user request ("lint the wiki", "health check").
 - Run lints at **extra high effort**. Never default to a lower effort level.
 
 **Output:** A structured lint report describing what was fixed + what remains for user triage.
+
+**After every lint or ingest that modifies `wiki/index.md` or any wiki page:** copy the updated `index.html` from `#KHNL GI Wiki/index.html` — the website automatically fetches `wiki/index.md` and `README.md` live from GitHub, so no rebuild of the HTML is needed. However, if the HTML file itself requires changes (new icons, layout fixes, etc.), apply them directly to `#KHNL GI Wiki/index.html`.
 
 ---
 
