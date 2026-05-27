@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/1-disease-scripts/foregut-and-motility-diseases/ge-junction/achalasia.md",
-                "mode": "source",
+                "file": "Welcome.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "achalasia"
+              "title": "Welcome"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hepatocellular carcinom",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,13 +74,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3a2924688e34cbd7",
@@ -199,6 +197,15 @@
   },
   "active": "56b3e6121ea7e481",
   "lastOpenFiles": [
+    "CLAUDE.md",
+    "wiki/overview.md",
+    "https:/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@github.com/KHNickLeMD/KHNL-GI-Wiki.git",
+    "https:/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@github.com/KHNickLeMD",
+    "https:/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@github.com",
+    "https:",
+    "wiki/log.md",
+    "wiki/index.md",
+    "wiki/1-disease-scripts/foregut-and-motility-diseases/ge-junction/achalasia.md",
     "wiki/1-disease-scripts/hepatopancreaticobiliary-diseases/hepatocellular-carcinoma.md",
     "wiki/1-disease-scripts/hepatopancreaticobiliary-diseases/hepatocellular-adenoma.md",
     "raw/assets/achalasia-2020-treatment-algorithm-15.png",
@@ -226,18 +233,8 @@
     "raw/GI Guidelines/AASLD/AASLD IDSA 2011 Hepatitis C Update.pdf",
     "raw/GI Guidelines/AASLD/AASLD 2021 Vascular Disorders Portal Vein Thrombosis.pdf",
     "raw/GI Guidelines/AASLD/AASLD 2025 Semaglutide MASH Update.pdf",
-    "raw/GI Guidelines/AASLD/AASLD 2024 Resmetirom MASLD Update.pdf",
-    "raw/GI Guidelines/AASLD/AASLD 2021 Reproductive Health Liver Disease.pdf",
-    "raw/GI Guidelines/AASLD/AASLD 2021 Primary Biliary Cholangitis Update.pdf",
-    "raw/GI Guidelines/AASLD/AASLD 2018 Primary Biliary Cholangitis.pdf",
-    "CLAUDE.md",
     "Untitled.canvas",
     "2026-05-24.md",
-    "Welcome.md",
-    "wiki/1-disease-scripts/colorectal-diseases/mutyh-associated-polyposis.md",
-    "wiki/log.md",
-    "wiki/1-disease-scripts/foregut-and-motility-diseases/gastric/hereditary-diffuse-gastric-cancer.md",
-    "wiki/1-disease-scripts/colorectal-diseases/serrated-polyposis-syndrome.md",
-    "wiki/1-disease-scripts/colorectal-diseases/cowden-syndrome.md"
+    "Welcome.md"
   ]
 }
