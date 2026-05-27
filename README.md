@@ -1,6 +1,8 @@
-# KHNL GI Encyclopedia
+# KHNL GI Wiki
 
 An AI-assisted clinical reference wiki for gastroenterology and hepatology, built in Obsidian and published via GitHub Pages.
+
+This encyclopedia covers clinical gastroenterology and hepatology, with emphasis on diagnosis and management of GI diseases, endoscopic procedures and interpretation, GI pharmacology (mechanisms, dosing, monitoring, adverse effects), pathophysiology and disease mechanisms, and evidence quality and guideline concordance (ACG, AGA, ECCO, BSG).
 
 ---
 
@@ -63,11 +65,6 @@ The result is a compounding, evidence-linked reference that grows with each new 
 ### ⚠️ Stubs
 Pages that have been created (because a wiki-link references them, or a source mentions the topic) but whose content has not yet been fully written. Stub pages are flagged visually in the website with a yellow warning banner. They are placeholders that will be expanded when a relevant source is ingested or when the topic is manually developed. A stub contains at minimum a title and frontmatter so the wiki-link graph is connected.
 
----
-
-## Scope
-
-This encyclopedia covers clinical gastroenterology and hepatology, with emphasis on diagnosis and management of GI diseases, endoscopic procedures and interpretation, GI pharmacology (mechanisms, dosing, monitoring, adverse effects), pathophysiology and disease mechanisms, and evidence quality and guideline concordance (ACG, AGA, ECCO, BSG).
 
 ---
 

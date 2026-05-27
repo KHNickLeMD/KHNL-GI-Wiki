@@ -594,9 +594,9 @@
   .stat-label { font-size: 10px; opacity: 0.65; margin-top: 4px; text-transform: uppercase; letter-spacing: 0.05em; }
 
   .home-cards { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin-bottom: 20px; }
-  .home-card { background: var(--surface); border: 1px solid var(--border); border-radius: 10px; padding: 18px; box-shadow: var(--shadow); }
-  .home-card h3 { font-size: 12px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.06em; color: var(--text-muted); margin-bottom: 12px; }
-  .home-card-list { list-style: none; }
+  .home-card { background: var(--surface); border: 1px solid var(--border); border-radius: 10px; padding: 18px; box-shadow: var(--shadow); display: flex; flex-direction: column; max-height: 340px; }
+  .home-card h3 { font-size: 12px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.06em; color: var(--text-muted); margin-bottom: 12px; flex-shrink: 0; }
+  .home-card-list { list-style: none; overflow-y: auto; flex: 1; scrollbar-width: thin; scrollbar-color: var(--border) transparent; }
   .home-card-list li { display: flex; align-items: center; gap: 8px; padding: 4px 0; border-bottom: 1px solid var(--border); font-size: 13px; }
   .home-card-list li:last-child { border-bottom: none; }
   .home-card-list a { color: var(--accent); cursor: pointer; text-decoration: none; }
@@ -1538,7 +1538,6 @@ function _showIndexFallback(el) {
     </div>`;
   }).join('');
 
-  const el = document.getElementById('toc-view');
   el.style.display = 'block';
   el.innerHTML = `<div style="max-width:860px;margin:0 auto;padding:0 0 40px;">
     <h1 style="font-size:22px;font-weight:700;margin-bottom:4px;">Master Index</h1>
@@ -1872,19 +1871,23 @@ function renderMd(text) {
       i++;
       html += `<pre><code>${escHtml(cLines.join('\n'))}</code></pre>\n`; continue;
     }
-    // Raw HTML block (pass-through) — collect until open tags are all closed
+    // Raw HTML block (pass-through) — depth-counting so nested tags work correctly
     if (line.trimStart().startsWith('<') && !line.trimStart().startsWith('</')) {
-      const rawLines = [];
-      let depth = 0;
-      while (i < lines.length) {
-        const l = lines[i];
-        rawLines.push(l); i++;
-        // Count opening and self-closing tags
-        const opens = (l.match(/<[a-zA-Z][^/>]*(?<!\/)*>/g) || []).length;
-        const selfClose = (l.match(/<[^>]+\/>/g) || []).length;
-        const closes = (l.match(/<\/[a-zA-Z][^>]*>/g) || []).length;
-        depth += opens - selfClose - closes;
-        if (depth <= 0 && rawLines.length > 0) break;
+      const tagMatch = line.trimStart().match(/^<([a-zA-Z][a-zA-Z0-9]*)/);
+      const rawLines = [line]; i++;
+      if (tagMatch) {
+        const tag = tagMatch[1];
+        const openRe = new RegExp('<' + tag + '[\\s>]', 'g');
+        const closeRe = new RegExp('</' + tag + '>', 'g');
+        // Count opens in first line (already 1), subtract closes
+        let depth = (line.match(openRe) || []).length - (line.match(closeRe) || []).length;
+        while (i < lines.length && depth > 0) {
+          const ln = lines[i];
+          rawLines.push(ln);
+          depth += (ln.match(openRe) || []).length;
+          depth -= (ln.match(closeRe) || []).length;
+          i++;
+        }
       }
       html += rawLines.join('\n') + '\n'; continue;
     }
