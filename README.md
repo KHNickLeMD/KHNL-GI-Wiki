@@ -68,23 +68,6 @@ Pages that have been created (because a wiki-link references them, or a source m
 
 ---
 
-## Structure
-
-| Folder | Contents |
-|---|---|
-| `1-disease-scripts` | Per-disease clinical summaries (foregut, HPB, colorectal, IBD) |
-| `2-diagnostic-schemas` | Symptom- and sign-based diagnostic frameworks |
-| `3-general-gi-procedures` | Endoscopy, colonoscopy, and procedural notes |
-| `4-advanced-gi-procedures` | ERCP, EUS, POEM, manometry, and specialized procedures |
-| `5-meds` | Drug class and agent pages |
-| `6-anatomy` | GI tract anatomy and histology |
-| `7-concepts` | Cross-cutting concepts and clinical frameworks |
-| `sources` | One page per ingested guideline, RCT, or review |
-| `syntheses` | Wiki-generated cross-cutting analyses |
-
-
----
-
 ## Graph View
 
 The website includes a **Graph View** — an interactive force-directed network visualization of the entire wiki, accessible from the left sidebar.
