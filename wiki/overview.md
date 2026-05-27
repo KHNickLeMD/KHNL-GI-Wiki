@@ -7,7 +7,7 @@ updated: 2026-05-07
 sources: []
 ---
 
-# KHNL GI Encyclopedia — Overvieww
+# KHNL GI Encyclopedia — Overview
 
 > High-level synthesis of the field. Updated as new sources are ingested. This is the evolving thesis of the wiki.
 
