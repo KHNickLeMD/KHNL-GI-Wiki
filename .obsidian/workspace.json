@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "overview"
             }
+          },
+          {
+            "id": "86b4358bca2709d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KHNL GI Wiki/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@github.com/KHNickLeMD/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -195,16 +210,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "56b3e6121ea7e481",
+  "active": "86b4358bca2709d8",
   "lastOpenFiles": [
+    "wiki/overview.md",
+    "KHNL GI Wiki/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@github.com/KHNickLeMD/Untitled.md",
     "Welcome.md",
     "README.md",
     "CLAUDE.md",
-    "wiki/overview.md",
     "https:/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@github.com/KHNickLeMD/KHNL-GI-Wiki.git",
-    "https:/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@github.com/KHNickLeMD",
-    "https:/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@github.com",
-    "https:",
+    "KHNL GI Wiki/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@github.com/KHNickLeMD",
+    "KHNL GI Wiki/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@github.com",
+    "KHNL GI Wiki",
     "wiki/log.md",
     "wiki/index.md",
     "wiki/1-disease-scripts/foregut-and-motility-diseases/ge-junction/achalasia.md",
@@ -235,7 +251,6 @@
     "raw/GI Guidelines/AASLD/AASLD IDSA 2011 Hepatitis C Update.pdf",
     "raw/GI Guidelines/AASLD/AASLD 2021 Vascular Disorders Portal Vein Thrombosis.pdf",
     "raw/GI Guidelines/AASLD/AASLD 2025 Semaglutide MASH Update.pdf",
-    "Untitled.canvas",
-    "2026-05-24.md"
+    "Untitled.canvas"
   ]
 }
