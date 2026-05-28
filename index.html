@@ -2505,8 +2505,10 @@ function closeSidebar() {
   document.getElementById('sidebar-overlay').classList.remove('active');
 }
 // Close sidebar on nav action on mobile
+// NOTE: We must wrap navigateTo without using a duplicate function declaration,
+// because function declarations are hoisted and would shadow the original.
 const _origNavigateTo = navigateTo;
-function navigateTo(slug) { if (window.innerWidth <= 768) closeSidebar(); _origNavigateTo(slug); }
+navigateTo = function(slug) { if (window.innerWidth <= 768) closeSidebar(); _origNavigateTo(slug); };
 const _origShowOverview = showOverview;
 document.addEventListener('DOMContentLoaded', () => {
   document.querySelectorAll('.nav-top-item').forEach(el => {
