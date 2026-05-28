@@ -4,78 +4,96 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>KHNL GI Wiki</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Source+Serif+4:opsz,wght@8..60,400;8..60,500;8..60,600;8..60,700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
 <style>
   *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
   :root {
-    --bg: #f4f7f4;
+    --bg: #f3f5f1;
     --surface: #ffffff;
-    --sidebar-bg: #0d1f12;
-    --sidebar-text: #a8c4a8;
-    --sidebar-muted: #567056;
-    --sidebar-active: #e8f5e8;
-    --sidebar-active-bg: #1a4a1a;
-    --sidebar-hover: rgba(255,255,255,0.06);
-    --accent: #2d7a2d;
-    --accent-light: #e8f5e8;
-    --text: #1a2a1a;
-    --text-muted: #4a6a4a;
-    --border: #d0e4d0;
-    --tag-bg: #e8f5e8;
-    --tag-text: #1a5c1a;
-    --table-head: #f0f7f0;
-    --code-bg: #f0f7f0;
-    --blockquote-border: #2d7a2d;
-    --blockquote-bg: #f0f7f0;
-    --stub-bg: #fff8ed;
-    --stub-border: #f59e0b;
-    --shadow: 0 1px 3px rgba(0,0,0,0.08);
-    --shadow-md: 0 4px 12px rgba(0,0,0,0.1);
+    --sidebar-bg: #0e1d14;
+    --sidebar-bg-grad: linear-gradient(180deg, #102218 0%, #0b1a11 100%);
+    --sidebar-text: #a3bba7;
+    --sidebar-muted: #5e7765;
+    --sidebar-active: #e6f0e6;
+    --sidebar-active-bg: rgba(122, 184, 130, 0.10);
+    --sidebar-hover: rgba(255,255,255,0.05);
+    --sidebar-border: rgba(255,255,255,0.06);
+    --accent: #2f6b3f;
+    --accent-rail: #7ab882;
+    --accent-light: #e8f1ea;
+    --text: #1b2a1e;
+    --text-muted: #5a6f60;
+    --text-faint: #8a9b8e;
+    --border: #dde5dc;
+    --border-soft: #e8eee6;
+    --tag-bg: #e8f1ea;
+    --tag-text: #1f5230;
+    --table-head: #f5f8f4;
+    --code-bg: #f4f7f3;
+    --blockquote-border: #2f6b3f;
+    --blockquote-bg: #eef4ed;
+    --stub-bg: #fbf2e3;
+    --stub-border: #b5722a;
+    --shadow: 0 1px 2px rgba(20,40,25,0.05), 0 1px 1px rgba(20,40,25,0.04);
+    --shadow-md: 0 4px 14px rgba(20,40,25,0.08);
+    --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
+    --font-serif: 'Source Serif 4', Georgia, 'Times New Roman', serif;
+    --font-mono: 'JetBrains Mono', 'SF Mono', 'Fira Code', Menlo, monospace;
   }
 
   [data-theme="dark"] {
-    --bg: #0a120a;
-    --surface: #111911;
-    --sidebar-bg: #070e07;
-    --sidebar-text: #6a946a;
-    --sidebar-muted: #3a5a3a;
-    --sidebar-active: #c8e8c8;
-    --sidebar-active-bg: #142814;
+    --bg: #0b130c;
+    --surface: #111a12;
+    --sidebar-bg: #060d08;
+    --sidebar-bg-grad: linear-gradient(180deg, #081209 0%, #050a06 100%);
+    --sidebar-text: #6e8c73;
+    --sidebar-muted: #3e5a42;
+    --sidebar-active: #c8e4cc;
+    --sidebar-active-bg: rgba(122, 184, 130, 0.12);
     --sidebar-hover: rgba(255,255,255,0.04);
-    --accent: #4caf4c;
-    --accent-light: #142814;
-    --text: #c8e8c8;
-    --text-muted: #6a946a;
-    --border: #1e3a1e;
-    --tag-bg: #142814;
-    --tag-text: #6adf6a;
-    --table-head: #111911;
-    --code-bg: #111911;
-    --blockquote-border: #4caf4c;
-    --blockquote-bg: #142814;
-    --stub-bg: #1f1a0d;
-    --stub-border: #d97706;
+    --sidebar-border: rgba(255,255,255,0.05);
+    --accent: #5fa86a;
+    --accent-rail: #7ab882;
+    --accent-light: #142c18;
+    --text: #d0e4d2;
+    --text-muted: #7a8f7e;
+    --text-faint: #506054;
+    --border: #1c2c1f;
+    --border-soft: #16241a;
+    --tag-bg: #142c18;
+    --tag-text: #7ad086;
+    --table-head: #0e1810;
+    --code-bg: #0e1810;
+    --blockquote-border: #5fa86a;
+    --blockquote-bg: #122218;
+    --stub-bg: #1c160a;
+    --stub-border: #b5722a;
     --shadow: 0 1px 3px rgba(0,0,0,0.4);
-    --shadow-md: 0 4px 12px rgba(0,0,0,0.5);
+    --shadow-md: 0 4px 14px rgba(0,0,0,0.5);
   }
 
   body {
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
+    font-family: var(--font-sans);
     background: var(--bg);
     color: var(--text);
     display: flex;
     height: 100vh;
     overflow: hidden;
-    font-size: 15px;
+    font-size: 14.5px;
     line-height: 1.6;
     transition: background 0.2s, color 0.2s;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
   }
 
   /* ── Sidebar ── */
   #sidebar {
     width: 260px;
     min-width: 260px;
-    background: var(--sidebar-bg);
+    background: var(--sidebar-bg-grad);
     display: flex;
     flex-direction: column;
     height: 100vh;
@@ -83,29 +101,46 @@
   }
 
   #sidebar-header {
-    padding: 16px 14px 12px;
-    border-bottom: 1px solid rgba(255,255,255,0.06);
+    padding: 18px 16px 14px;
+    border-bottom: 1px solid var(--sidebar-border);
   }
 
   #sidebar-logo {
     display: flex;
     align-items: center;
-    gap: 8px;
-    margin-bottom: 3px;
+    gap: 10px;
+    margin-bottom: 0;
+  }
+
+  #sidebar-logo-mark {
+    width: 28px;
+    height: 28px;
+    border-radius: 6px;
+    background: var(--accent);
+    color: #fff;
+    font-family: var(--font-serif);
+    font-weight: 600;
+    font-size: 14px;
+    letter-spacing: -0.02em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
   }
 
   #sidebar-title {
-    font-size: 14px;
-    font-weight: 700;
-    letter-spacing: 0.04em;
+    font-size: 13px;
+    font-weight: 600;
+    letter-spacing: -0.005em;
     color: var(--sidebar-active);
   }
 
   #sidebar-subtitle {
     font-size: 10px;
     color: var(--sidebar-muted);
-    letter-spacing: 0.05em;
+    letter-spacing: 0.06em;
     text-transform: uppercase;
+    margin-top: 1px;
   }
 
   #search-box {
@@ -115,14 +150,29 @@
 
   #search-input {
     width: 100%;
-    background: rgba(255,255,255,0.06);
+    background: rgba(255,255,255,0.05);
     border: 1px solid rgba(255,255,255,0.08);
     border-radius: 6px;
-    padding: 6px 10px 6px 28px;
+    padding: 7px 36px 7px 30px;
     color: var(--sidebar-active);
     font-size: 12px;
     outline: none;
     transition: border 0.15s;
+    font-family: var(--font-sans);
+  }
+
+  .search-kbd {
+    position: absolute;
+    right: 8px;
+    top: 50%;
+    transform: translateY(-50%);
+    font-family: var(--font-mono);
+    font-size: 9.5px;
+    color: var(--sidebar-muted);
+    border: 1px solid rgba(255,255,255,0.1);
+    border-radius: 3px;
+    padding: 1px 5px;
+    pointer-events: none;
   }
   #search-input::placeholder { color: var(--sidebar-muted); }
   #search-input:focus { border-color: var(--accent); }
@@ -290,17 +340,17 @@
   #topbar {
     background: var(--surface);
     border-bottom: 1px solid var(--border);
-    padding: 0 24px;
-    height: 46px;
+    padding: 0 28px;
+    height: 48px;
     display: flex;
     align-items: center;
-    gap: 12px;
-    box-shadow: var(--shadow);
+    gap: 14px;
+    box-shadow: none;
     flex-shrink: 0;
   }
 
   #breadcrumb {
-    font-size: 13px;
+    font-size: 12.5px;
     color: var(--text-muted);
     display: flex;
     align-items: center;
@@ -312,6 +362,14 @@
   .bc-sep { opacity: 0.4; }
   .bc-item { white-space: nowrap; }
   .bc-item.current { color: var(--text); font-weight: 500; }
+  .bc-item:not(.current) { transition: color 0.15s; cursor: pointer; }
+  .bc-item:not(.current):hover { color: var(--accent); }
+
+  #breadcrumb {
+    font-size: 12.5px;
+    color: var(--text-muted);
+    display: none; /* hidden — declared above */
+  }
 
   #page-meta-top {
     display: flex;
@@ -321,36 +379,72 @@
   }
 
   .meta-badge {
-    font-size: 11px;
+    font-size: 10px;
     font-weight: 600;
-    padding: 2px 8px;
-    border-radius: 12px;
+    padding: 2px 7px;
+    border-radius: 3px;
     background: var(--tag-bg);
     color: var(--tag-text);
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    line-height: 1.5;
   }
-  .meta-date { font-size: 11px; color: var(--text-muted); }
+  .meta-date { font-size: 11.5px; color: var(--text-faint); font-family: var(--font-mono); }
+
+  /* Status badge variants */
+  .status-badge {
+    font-size: 10px;
+    font-weight: 600;
+    padding: 2px 7px;
+    border-radius: 3px;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    line-height: 1.5;
+    white-space: nowrap;
+  }
+  .status-reviewed { background: var(--accent-light); color: var(--accent); }
+  .status-draft    { background: #eef0ec; color: #6a7a6e; }
+  .status-stub     { background: var(--stub-bg); color: var(--stub-border); }
+  [data-theme="dark"] .status-draft { background: #1a201c; color: #8a9b8e; }
 
   #content-area {
     flex: 1;
     overflow-y: auto;
-    padding: 32px 40px 48px;
+    padding: 36px 48px 56px;
     scrollbar-width: thin;
     scrollbar-color: var(--border) transparent;
   }
   #content-area::-webkit-scrollbar { width: 6px; }
   #content-area::-webkit-scrollbar-thumb { background: var(--border); border-radius: 3px; }
 
+  /* When showing an article, switch content-area to a two-column layout
+     (article column + right-rail TOC). The page-view itself controls
+     the inner grid. */
+  #content-area.with-rail { padding: 0; }
+
   /* ── Content ── */
-  #page-content-wrap { max-width: 860px; margin: 0 auto; }
+  #page-content-wrap { max-width: 720px; margin: 0 auto; }
 
   #page-title {
-    font-size: 26px;
-    font-weight: 700;
+    font-family: var(--font-serif);
+    font-size: 40px;
+    font-weight: 600;
     color: var(--text);
     margin-bottom: 10px;
-    letter-spacing: -0.02em;
-    line-height: 1.3;
+    letter-spacing: -0.025em;
+    line-height: 1.12;
   }
+
+  #page-kicker {
+    font-size: 10.5px;
+    color: var(--text-muted);
+    font-weight: 600;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+    display: none;
+  }
+  #page-kicker.active { display: block; }
 
   #page-tags {
     display: flex;
@@ -364,7 +458,7 @@
     font-size: 11px;
     font-weight: 500;
     padding: 2px 8px;
-    border-radius: 12px;
+    border-radius: 3px;
     background: var(--tag-bg);
     color: var(--tag-text);
     cursor: pointer;
@@ -412,20 +506,21 @@
   .page-divider { height: 1px; background: var(--border); margin: 6px 0 24px; }
 
   /* Markdown */
-  .md-body h1 { font-size: 22px; font-weight: 700; margin: 28px 0 12px; color: var(--text); letter-spacing: -0.01em; }
-  .md-body h2 { font-size: 18px; font-weight: 600; margin: 26px 0 10px; color: var(--text); padding-bottom: 6px; border-bottom: 1px solid var(--border); }
-  .md-body h3 { font-size: 15px; font-weight: 600; margin: 20px 0 8px; color: var(--text); }
-  .md-body h4 { font-size: 13px; font-weight: 600; margin: 16px 0 6px; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.04em; }
+  .md-body { font-size: 14.5px; line-height: 1.72; color: var(--text); }
+  .md-body h1 { font-family: var(--font-serif); font-size: 26px; font-weight: 600; margin: 30px 0 12px; color: var(--text); letter-spacing: -0.02em; line-height: 1.2; }
+  .md-body h2 { font-family: var(--font-serif); font-size: 22px; font-weight: 600; margin: 28px 0 12px; color: var(--text); padding-bottom: 0; border-bottom: none; letter-spacing: -0.015em; line-height: 1.25; }
+  .md-body h3 { font-family: var(--font-sans); font-size: 15px; font-weight: 600; margin: 22px 0 8px; color: var(--text); letter-spacing: -0.005em; }
+  .md-body h4 { font-family: var(--font-sans); font-size: 11.5px; font-weight: 600; margin: 18px 0 6px; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.06em; }
   .md-body p { margin: 0 0 14px; color: var(--text); }
   .md-body ul, .md-body ol { margin: 0 0 14px 20px; }
   .md-body li { margin-bottom: 4px; }
   .md-body li p { margin: 0; }
   .md-body strong { font-weight: 600; }
   .md-body em { font-style: italic; }
-  .md-body hr { border: none; border-top: 1px solid var(--border); margin: 20px 0; }
+  .md-body hr { border: none; border-top: 1px solid var(--border); margin: 24px 0; }
 
   .md-body code {
-    font-family: 'SF Mono', 'Fira Code', monospace;
+    font-family: var(--font-mono);
     font-size: 12.5px;
     background: var(--code-bg);
     border: 1px solid var(--border);
@@ -440,19 +535,19 @@
     border-left: 3px solid var(--blockquote-border);
     background: var(--blockquote-bg);
     padding: 10px 16px;
-    margin: 0 0 14px;
+    margin: 0 0 16px;
     border-radius: 0 6px 6px 0;
   }
-  .md-body blockquote p { margin: 0; color: var(--text-muted); font-style: italic; }
+  .md-body blockquote p { margin: 0; color: var(--text); font-style: italic; }
 
-  .md-body .table-wrap { overflow-x: auto; margin: 0 0 20px; border-radius: 8px; border: 1px solid var(--border); box-shadow: var(--shadow); }
+  .md-body .table-wrap { overflow-x: auto; margin: 0 0 20px; border-radius: 8px; border: 1px solid var(--border); box-shadow: none; }
   .md-body table { width: 100%; border-collapse: collapse; font-size: 13.5px; }
-  .md-body th { background: var(--table-head); font-weight: 600; text-align: left; padding: 9px 14px; color: var(--text); border-bottom: 1px solid var(--border); white-space: nowrap; }
-  .md-body td { padding: 8px 14px; border-bottom: 1px solid var(--border); vertical-align: top; color: var(--text); }
+  .md-body th { background: var(--table-head); font-weight: 600; text-align: left; padding: 9px 14px; color: var(--text); border-bottom: 1px solid var(--border); white-space: nowrap; font-size: 11.5px; letter-spacing: 0.03em; text-transform: uppercase; }
+  .md-body td { padding: 9px 14px; border-bottom: 1px solid var(--border-soft); vertical-align: top; color: var(--text); }
   .md-body tr:last-child td { border-bottom: none; }
   .md-body tr:hover td { background: var(--table-head); }
 
-  .wiki-link { color: var(--accent); text-decoration: none; border-bottom: 1px solid rgba(45,122,45,0.3); cursor: pointer; transition: border-color 0.15s; }
+  .wiki-link { color: var(--accent); text-decoration: none; border-bottom: 1px solid rgba(47,107,63,0.35); cursor: pointer; transition: border-color 0.15s; }
   .wiki-link:hover { border-color: var(--accent); }
   .wiki-link.missing { color: var(--text-muted); border-bottom-style: dashed; }
 
@@ -471,17 +566,18 @@
   [data-theme="dark"] .stub-notice { color: #fbbf24; }
 
   /* ── TOC / Landing pages ── */
-  .toc-page { max-width: 860px; margin: 0 auto; }
+  .toc-page { max-width: 880px; margin: 0 auto; }
   .toc-hero {
-    background: linear-gradient(135deg, #0d1f12 0%, #1a4a1a 100%);
-    border-radius: 12px;
-    padding: 28px 32px;
-    margin-bottom: 24px;
-    color: white;
+    background: #0e1d14;
+    border-radius: 10px;
+    padding: 28px 32px 26px;
+    margin-bottom: 26px;
+    color: #e6f0e6;
+    border: 1px solid #0a1610;
   }
   [data-theme="dark"] .toc-hero { border: 1px solid var(--border); }
-  .toc-hero h1 { font-size: 22px; font-weight: 700; margin-bottom: 4px; }
-  .toc-hero p { font-size: 13px; opacity: 0.7; }
+  .toc-hero h1 { font-family: var(--font-serif); font-size: 26px; font-weight: 600; margin-bottom: 6px; letter-spacing: -0.02em; line-height: 1.15; }
+  .toc-hero p { font-size: 13.5px; opacity: 0.72; line-height: 1.55; }
 
   .toc-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 10px; margin-bottom: 20px; }
   .toc-card {
@@ -492,9 +588,9 @@
     cursor: pointer;
     transition: border-color 0.15s, box-shadow 0.15s;
   }
-  .toc-card:hover { border-color: var(--accent); box-shadow: 0 2px 8px rgba(45,122,45,0.15); }
-  .toc-card-title { font-size: 13px; font-weight: 600; color: var(--text); margin-bottom: 3px; }
-  .toc-card-meta { font-size: 11px; color: var(--text-muted); }
+  .toc-card:hover { border-color: var(--accent); box-shadow: 0 2px 8px rgba(47,107,63,0.12); }
+  .toc-card-title { font-size: 13px; font-weight: 600; color: var(--text); margin-bottom: 3px; letter-spacing: -0.005em; }
+  .toc-card-meta { font-size: 11px; color: var(--text-faint); }
 
   .toc-section-header {
     font-size: 11px;
@@ -576,32 +672,122 @@
   }
 
   /* ── Home / Overview ── */
-  .home-wrap { max-width: 860px; margin: 0 auto; }
+  .home-wrap { max-width: 880px; margin: 0 auto; }
   .home-hero {
-    background: linear-gradient(135deg, #0d1f12 0%, #1a4a1a 100%);
-    border-radius: 12px;
-    padding: 32px 36px;
-    margin-bottom: 24px;
-    color: white;
+    background: #0e1d14;
+    border-radius: 10px;
+    padding: 28px 32px 26px;
+    margin-bottom: 26px;
+    color: #e6f0e6;
+    border: 1px solid #0a1610;
+    position: relative;
+    overflow: hidden;
   }
   [data-theme="dark"] .home-hero { border: 1px solid var(--border); }
-  .home-hero h1 { font-size: 22px; font-weight: 700; margin-bottom: 6px; }
-  .home-hero p { font-size: 13px; opacity: 0.75; margin-bottom: 20px; line-height: 1.6; }
+  .home-hero-row {
+    display: flex;
+    align-items: baseline;
+    gap: 14px;
+    margin-bottom: 6px;
+  }
+  .home-hero h1 {
+    font-family: var(--font-serif);
+    font-size: 28px;
+    font-weight: 600;
+    letter-spacing: -0.025em;
+    line-height: 1.1;
+    margin: 0;
+  }
+  .home-hero-kicker {
+    font-size: 10.5px;
+    color: var(--accent-rail);
+    font-weight: 600;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+  }
+  .home-hero p {
+    font-size: 13.5px;
+    opacity: 0.78;
+    margin: 0 0 22px;
+    line-height: 1.6;
+    max-width: 640px;
+  }
+  .home-hero p a { color: var(--accent-rail); border-bottom: 1px solid rgba(122,184,130,0.4); text-decoration: none; }
 
-  .stats-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 12px; }
-  .stat-card { background: rgba(255,255,255,0.1); border-radius: 8px; padding: 12px 14px; text-align: center; }
-  .stat-number { font-size: 26px; font-weight: 700; line-height: 1; }
-  .stat-label { font-size: 10px; opacity: 0.65; margin-top: 4px; text-transform: uppercase; letter-spacing: 0.05em; }
+  .stats-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; }
+  .stat-card {
+    background: rgba(255,255,255,0.05);
+    border: 1px solid rgba(255,255,255,0.06);
+    border-radius: 7px;
+    padding: 12px 14px;
+    text-align: left;
+  }
+  .stat-number {
+    font-family: var(--font-serif);
+    font-size: 28px;
+    font-weight: 600;
+    line-height: 1;
+    letter-spacing: -0.02em;
+  }
+  .stat-label {
+    font-size: 10px;
+    opacity: 0.62;
+    margin-top: 6px;
+    text-transform: uppercase;
+    letter-spacing: 0.07em;
+    font-weight: 500;
+  }
 
-  .home-cards { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin-bottom: 20px; }
-  .home-card { background: var(--surface); border: 1px solid var(--border); border-radius: 10px; padding: 18px; box-shadow: var(--shadow); display: flex; flex-direction: column; max-height: 340px; }
-  .home-card h3 { font-size: 12px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.06em; color: var(--text-muted); margin-bottom: 12px; flex-shrink: 0; }
-  .home-card-list { list-style: none; overflow-y: auto; flex: 1; scrollbar-width: thin; scrollbar-color: var(--border) transparent; }
-  .home-card-list li { display: flex; align-items: center; gap: 8px; padding: 4px 0; border-bottom: 1px solid var(--border); font-size: 13px; }
+  .home-cards { display: grid; grid-template-columns: 1fr 1fr; gap: 18px; margin-bottom: 20px; }
+  .home-card { background: var(--surface); border: 1px solid var(--border); border-radius: 8px; padding: 0; box-shadow: none; display: flex; flex-direction: column; max-height: 360px; }
+  .home-card h3 { font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.08em; color: var(--text-muted); margin: 0; flex-shrink: 0; padding: 13px 16px 10px; border-bottom: 1px solid var(--border-soft); display: flex; align-items: center; gap: 8px; }
+  .home-card h3 .hc-count { margin-left: auto; font-size: 10.5px; font-weight: 500; color: var(--text-faint); letter-spacing: 0; text-transform: none; font-family: var(--font-mono); }
+  .home-card-list { list-style: none; overflow-y: auto; flex: 1; scrollbar-width: thin; scrollbar-color: var(--border) transparent; margin: 0; padding: 0; }
+  .home-card-list li { display: flex; align-items: center; gap: 10px; padding: 8px 16px; border-bottom: 1px solid var(--border-soft); font-size: 13px; }
   .home-card-list li:last-child { border-bottom: none; }
-  .home-card-list a { color: var(--accent); cursor: pointer; text-decoration: none; }
-  .home-card-list a:hover { text-decoration: underline; }
-  .hcl-count { margin-left: auto; font-size: 10px; color: var(--text-muted); background: var(--code-bg); padding: 1px 6px; border-radius: 8px; border: 1px solid var(--border); flex-shrink: 0; }
+  .home-card-list a { color: var(--text); cursor: pointer; text-decoration: none; flex: 1; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; transition: color 0.15s; }
+  .home-card-list a:hover { color: var(--accent); }
+  .hcl-count { margin-left: auto; font-size: 10.5px; color: var(--text-faint); font-family: var(--font-mono); flex-shrink: 0; }
+
+  /* ── Section grid on Home ── */
+  .home-sections-row {
+    display: flex; align-items: baseline; justify-content: space-between;
+    margin-bottom: 10px;
+  }
+  .home-sections-title {
+    font-size: 11px; font-weight: 700; letter-spacing: 0.08em;
+    text-transform: uppercase; color: var(--text-muted);
+  }
+  .home-sections-link {
+    font-size: 11.5px; color: var(--accent); cursor: pointer; text-decoration: none;
+    transition: opacity 0.15s;
+  }
+  .home-sections-link:hover { opacity: 0.75; }
+  .home-sections-grid {
+    display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; margin-bottom: 26px;
+  }
+  .home-section-card {
+    background: var(--surface); border: 1px solid var(--border);
+    border-radius: 8px; padding: 12px 14px;
+    display: flex; flex-direction: column; gap: 4px;
+    cursor: pointer; transition: border-color 0.15s, box-shadow 0.15s;
+  }
+  .home-section-card:hover { border-color: var(--accent); box-shadow: 0 2px 8px rgba(47,107,63,0.10); }
+  .home-section-card-top {
+    display: flex; align-items: center; gap: 8px;
+  }
+  .home-section-card-title {
+    font-size: 13px; font-weight: 600; color: var(--text); letter-spacing: -0.005em;
+  }
+  .home-section-card-dot {
+    width: 6px; height: 6px; border-radius: 50%; background: var(--accent); flex-shrink: 0;
+  }
+  .home-section-card-count {
+    margin-left: auto; font-size: 11px; color: var(--text-faint); font-family: var(--font-mono);
+  }
+  .home-section-card-desc {
+    font-size: 11.5px; color: var(--text-muted); line-height: 1.45;
+  }
 
   /* ── About page ── */
   .about-wrap { max-width: 800px; margin: 0 auto; }
@@ -755,6 +941,100 @@
   .gsp-group-del { background: none; border: none; color: #666; cursor: pointer; font-size: 14px; padding: 0; }
   .gsp-group-del:hover { color: #ef4444; }
 
+  /* ── Article right-rail TOC ── */
+  #page-view.with-rail {
+    display: grid;
+    grid-template-columns: 1fr 220px;
+    gap: 8px;
+    align-items: start;
+    max-width: 1080px;
+    margin: 0 auto;
+    padding: 36px 48px 56px;
+  }
+  #page-view.with-rail #page-content-wrap {
+    max-width: 720px;
+    margin: 0;
+    min-width: 0;
+  }
+  #page-toc {
+    display: none;
+    position: sticky;
+    top: 12px;
+    align-self: start;
+    padding-left: 20px;
+    border-left: 1px solid var(--border-soft);
+    margin-top: 4px;
+    max-height: calc(100vh - 100px);
+    overflow-y: auto;
+    scrollbar-width: thin;
+    scrollbar-color: var(--border) transparent;
+  }
+  #page-view.with-rail #page-toc { display: block; }
+  #page-toc::-webkit-scrollbar { width: 4px; }
+  #page-toc::-webkit-scrollbar-thumb { background: var(--border); border-radius: 2px; }
+
+  .pt-label {
+    font-size: 10.5px;
+    font-weight: 700;
+    color: var(--text-muted);
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    margin-bottom: 12px;
+  }
+  .pt-list { display: flex; flex-direction: column; gap: 1px; }
+  .pt-item {
+    font-size: 12px;
+    padding: 4px 0 4px 12px;
+    color: var(--text);
+    font-weight: 500;
+    border-left: 2px solid transparent;
+    margin-left: -2px;
+    cursor: pointer;
+    line-height: 1.4;
+    transition: color 0.15s;
+  }
+  .pt-item.sub { padding-left: 24px; font-weight: 400; color: var(--text-muted); font-size: 11.5px; }
+  .pt-item:hover { color: var(--accent); }
+  .pt-item.active { color: var(--accent); border-left-color: var(--accent); font-weight: 600; }
+  .pt-item.sub.active { font-weight: 500; }
+
+  /* Article header refinements */
+  #page-header-wrap {
+    margin-bottom: 22px;
+  }
+  #page-tagline {
+    font-family: var(--font-serif);
+    font-style: italic;
+    font-size: 16px;
+    color: var(--text-muted);
+    line-height: 1.5;
+    margin: 4px 0 12px;
+    letter-spacing: -0.005em;
+  }
+  .page-meta-row {
+    display: flex; align-items: center; gap: 10px; flex-wrap: wrap;
+    font-size: 12px; color: var(--text-muted);
+    padding-bottom: 16px;
+    border-bottom: 1px solid var(--border-soft);
+    margin-bottom: 24px;
+  }
+  .page-meta-sep { width: 1px; height: 12px; background: var(--border); }
+  .page-meta-byline { font-family: var(--font-serif); font-style: italic; color: var(--text-muted); }
+
+  /* Key-point callout (used in markdown via blockquote with class) */
+  .md-body .keypoint {
+    display: flex; gap: 14px; align-items: flex-start;
+    border-left: 3px solid var(--accent);
+    background: var(--accent-light);
+    padding: 12px 16px;
+    border-radius: 0 6px 6px 0;
+    margin: 0 0 18px;
+  }
+  .md-body .keypoint-label {
+    font-size: 10px; font-weight: 700; color: var(--accent);
+    letter-spacing: 0.06em; text-transform: uppercase; flex-shrink: 0; padding-top: 2px;
+  }
+
   @media (max-width: 768px) {
     #sidebar-toggle { display: flex; }
     #sidebar {
@@ -771,9 +1051,17 @@
     #main { margin-left: 0 !important; }
     #topbar { padding-left: 52px; }
     #content-area { padding: 20px 16px 40px; }
+    #page-view.with-rail {
+      display: block;
+      padding: 0;
+      max-width: 100%;
+    }
+    #page-toc { display: none !important; }
     .stats-grid { grid-template-columns: repeat(2,1fr); }
     .home-cards { grid-template-columns: 1fr; }
+    .home-sections-grid { grid-template-columns: 1fr; }
     .toc-grid { grid-template-columns: 1fr; }
+    #page-title { font-size: 30px; }
   }
 </style>
 </head>
@@ -786,7 +1074,7 @@
 <nav id="sidebar">
   <div id="sidebar-header">
     <div id="sidebar-logo">
-      <span style="font-size:20px">🧠</span>
+      <div id="sidebar-logo-mark">K</div>
       <div>
         <div id="sidebar-title">KHNL GI Wiki</div>
         <div id="sidebar-subtitle">Gastroenterology &amp; Hepatology</div>
@@ -795,8 +1083,9 @@
   </div>
 
   <div id="search-box">
-    <span class="search-icon">🔍</span>
-    <input type="text" id="search-input" placeholder="Search pages, topics..." autocomplete="off">
+    <span class="search-icon">⌕</span>
+    <input type="text" id="search-input" placeholder="Search pages, topics…" autocomplete="off">
+    <span class="search-kbd">⌘K</span>
   </div>
 
   <div id="nav-tree">
@@ -938,14 +1227,23 @@
     </div>
     <div id="page-view" style="display:none">
       <div id="page-content-wrap">
-        <h1 id="page-title"></h1>
-        <div id="page-tags"></div>
+        <div id="page-header-wrap">
+          <div id="page-kicker"></div>
+          <h1 id="page-title"></h1>
+          <div id="page-tagline"></div>
+          <div class="page-meta-row">
+            <div id="page-tags"></div>
+          </div>
+        </div>
         <div id="source-popup-wrap" style="margin-bottom:16px;display:none">
           <div class="source-list-popup" id="source-popup"></div>
         </div>
-        <div class="page-divider"></div>
         <div id="page-body" class="md-body"></div>
       </div>
+      <aside id="page-toc">
+        <div class="pt-label">On this page</div>
+        <div class="pt-list" id="pt-list"></div>
+      </aside>
     </div>
   </div>
 </div>
@@ -1175,6 +1473,11 @@ function hideAllViews() {
   ['overview-view','about-view','toc-view','graph-view','page-view'].forEach(id => {
     document.getElementById(id).style.display = 'none';
   });
+  // Clear the article two-column rail layout when leaving page view
+  const pv = document.getElementById('page-view');
+  if (pv) pv.classList.remove('with-rail');
+  const ca = document.getElementById('content-area');
+  if (ca) { ca.classList.remove('with-rail'); ca.onscroll = null; }
   if (graphSim && currentView !== 'graph') graphSim.stop();
 }
 
@@ -1192,10 +1495,10 @@ function buildNavTree() {
 
   // Top items
   const topItems = [
-    { label: '🏠 Home', key: 'overview', action: () => showOverview() },
+    { label: '🏠 Overview', key: 'overview', action: () => showOverview() },
     { label: '📖 About This Wiki', key: 'about', action: () => showAbout() },
-    { label: '📑 Index', key: 'index', action: () => showIndex() },
-    { label: '🕸️ Graph View', key: 'graph', action: () => showGraphView() },
+    { label: '📑 Master Index', key: 'index', action: () => showIndex() },
+    { label: '🌐 Graph view', key: 'graph', action: () => showGraphView() },
   ];
 
   for (const item of topItems) {
@@ -1358,7 +1661,7 @@ function showOverview() {
   hideAllViews();
   currentView = 'overview';
   updateActiveNav('overview');
-  document.getElementById('breadcrumb').innerHTML = '<span class="bc-item current">Home</span>';
+  document.getElementById('breadcrumb').innerHTML = '<span class="bc-item current">Overview</span>';
   document.getElementById('page-meta-top').innerHTML = '';
 
   const cats = {};
@@ -1367,39 +1670,119 @@ function showOverview() {
   const diseaseCount = cats['disease-script']||0;
   const sourceCount = cats['source']||0;
   const procCount = (cats['general-procedure']||0)+(cats['advanced-procedure']||0);
-  const conceptCount = (cats['concept']||0)+(cats['med']||0);
+  const schemaCount = Object.values(wikiData).filter(p => p.section === '2-diagnostic-schemas').length;
 
+  // Recent sources — sort by updated/created desc
   const sources = Object.values(wikiData).filter(p=>p.category==='source')
-    .sort((a,b)=>(b.updated||b.created||'').localeCompare(a.updated||a.created||'')).slice(0,8);
+    .sort((a,b)=>(b.updated||b.created||'').localeCompare(a.updated||a.created||'')).slice(0,6);
 
-  const sectionItems = SECTION_ORDER.filter(s=>Object.values(wikiData).some(p=>p.section===s))
+  // Recent pages — any non-source page sorted by updated desc
+  const recentPages = Object.values(wikiData)
+    .filter(p => p.category !== 'source' && (p.updated || p.created))
+    .sort((a,b)=>(b.updated||b.created||'').localeCompare(a.updated||a.created||''))
+    .slice(0,6);
+
+  // Detect society/journal prefix for a source title (e.g. "ACG", "AASLD")
+  const orgFromTitle = (t) => {
+    if (!t) return '';
+    const m = t.match(/^([A-Z]{2,8}(?:\/[A-Z]{2,8})?)\b/);
+    return m ? m[1] : '';
+  };
+  const stripOrg = (t, org) => org && t.startsWith(org) ? t.slice(org.length).replace(/^[:\s—-]+/, '').trim() : t;
+  const yearFromMeta = (p) => {
+    const s = (p.updated || p.created || '').toString();
+    const m = s.match(/\b(19|20)\d{2}\b/);
+    return m ? m[0] : '';
+  };
+
+  const sectionCards = SECTION_ORDER.filter(s=>Object.values(wikiData).some(p=>p.section===s))
     .map(sec => {
       const meta = SECTION_META[sec]||{};
       const cnt = Object.values(wikiData).filter(p=>p.section===sec).length;
-      return `<li><a onclick="showTOC('${sec}')">${meta.icon||''} ${meta.label||sec}</a><span class="hcl-count">${cnt}</span></li>`;
+      const desc = meta.desc || '';
+      return `<div class="home-section-card" onclick="showTOC('${sec}')">
+        <div class="home-section-card-top">
+          <span style="font-size:14px;line-height:1;flex-shrink:0;">${meta.icon||''}</span>
+          <span class="home-section-card-title">${meta.label||sec}</span>
+          <span class="home-section-card-count">${cnt}</span>
+        </div>
+        <div class="home-section-card-desc">${desc}</div>
+      </div>`;
     }).join('');
 
+  // Status badge from a page's body content (mirrors the stub-detection logic)
+  const statusFor = (p) => {
+    if (!p.body) return null;
+    const body = p.body.trim();
+    if (body.startsWith('*Stub') || body.toLowerCase().includes('stub — to be expanded')) return 'stub';
+    return 'reviewed';
+  };
+
+  const recentPagesHtml = recentPages.length
+    ? recentPages.map(p => {
+        const secMeta = SECTION_META[p.section] || {};
+        const status = statusFor(p);
+        const badge = status === 'stub'
+          ? '<span class="status-badge status-stub">Stub</span>'
+          : '<span class="status-badge status-reviewed">Reviewed</span>';
+        return `<li style="cursor:pointer;" onclick="navigateTo('${p.slug}')">
+          <div style="flex:1;min-width:0;">
+            <div style="font-size:13px;color:var(--text);font-weight:500;margin-bottom:1px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">${p.title}</div>
+            <div style="font-size:11px;color:var(--text-faint);">${secMeta.label || p.section || ''}</div>
+          </div>
+          ${badge}
+          <span style="font-size:11px;color:var(--text-faint);min-width:48px;text-align:right;flex-shrink:0;">${p.updated || ''}</span>
+        </li>`;
+      }).join('')
+    : '<li style="color:var(--text-muted);font-size:12px;padding:14px 16px;">No recent updates yet.</li>';
+
   const sourceItems = sources.length
-    ? sources.map(s=>`<li style="flex-wrap:nowrap;"><a onclick="navigateTo('${s.slug}')" style="color:var(--accent);cursor:pointer;text-decoration:none;flex:1;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">${s.title}</a>${s.updated ? `<span style="font-size:10px;color:var(--text-muted);margin-left:8px;white-space:nowrap;flex-shrink:0;">${s.updated}</span>` : ''}</li>`).join('')
-    : '<li style="color:var(--text-muted);font-size:12px;">No sources ingested yet</li>';
+    ? sources.map(s => {
+        const org = orgFromTitle(s.title);
+        const year = yearFromMeta(s);
+        const display = stripOrg(s.title, org);
+        return `<li style="cursor:pointer;" onclick="navigateTo('${s.slug}')">
+          ${org ? `<span style="font-size:9.5px;font-weight:700;letter-spacing:0.04em;color:var(--accent);background:var(--accent-light);padding:2px 6px;border-radius:3px;font-family:var(--font-mono);min-width:52px;text-align:center;flex-shrink:0;">${org}</span>` : ''}
+          ${year ? `<span style="font-size:11px;color:var(--text-faint);font-family:var(--font-mono);flex-shrink:0;min-width:32px;">${year}</span>` : ''}
+          <span style="flex:1;min-width:0;font-size:12.5px;color:var(--text);overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">${display}</span>
+          ${s.updated ? `<span style="font-size:11px;color:var(--text-faint);flex-shrink:0;">${s.updated}</span>` : ''}
+        </li>`;
+      }).join('')
+    : '<li style="color:var(--text-muted);font-size:12px;padding:14px 16px;">No sources ingested yet.</li>';
 
   const el = document.getElementById('overview-view');
   el.style.display = 'block';
   el.innerHTML = `
     <div class="home-wrap">
       <div class="home-hero">
-        <h1>🧠 KHNL GI Wiki</h1>
-        <p>A compounding wiki of gastroenterology &amp; hepatology guidelines and evidence, developed by Khanh Hoang Nicholas Le and maintained with Obsidian + Claude AI.</p>
+        <div class="home-hero-row">
+          <h1>KHNL GI Wiki</h1>
+          <span class="home-hero-kicker">Compounding reference</span>
+        </div>
+        <p>A working wiki of gastroenterology &amp; hepatology guidelines and evidence by <a>Khanh Hoang Nicholas Le, MD</a><br>— curated by hand, synced from Obsidian, organized by Claude.</p>
         <div class="stats-grid">
-          <div class="stat-card"><div class="stat-number">${total}</div><div class="stat-label">Total Pages</div></div>
-          <div class="stat-card"><div class="stat-number">${diseaseCount}</div><div class="stat-label">Disease Scripts</div></div>
+          <div class="stat-card"><div class="stat-number">${total}</div><div class="stat-label">Pages</div></div>
+          <div class="stat-card"><div class="stat-number">${diseaseCount + procCount}</div><div class="stat-label">Disease Scripts + Procedures</div></div>
+          <div class="stat-card"><div class="stat-number">${schemaCount}</div><div class="stat-label">Diagnostic Schemas</div></div>
           <div class="stat-card"><div class="stat-number">${sourceCount}</div><div class="stat-label">Sources</div></div>
-          <div class="stat-card"><div class="stat-number">${procCount+conceptCount}</div><div class="stat-label">Procedures &amp; Concepts</div></div>
         </div>
       </div>
+
+      <div class="home-sections-row">
+        <div class="home-sections-title">Browse by section</div>
+        <a class="home-sections-link" onclick="showIndex()">Master Index →</a>
+      </div>
+      <div class="home-sections-grid">${sectionCards}</div>
+
       <div class="home-cards">
-        <div class="home-card"><h3>📂 Browse by Section</h3><ul class="home-card-list">${sectionItems}</ul></div>
-        <div class="home-card"><h3>📚 Recent Sources</h3><ul class="home-card-list">${sourceItems}</ul></div>
+        <div class="home-card">
+          <h3>Recent pages <span class="hc-count">${recentPages.length} of ${total - sourceCount}</span></h3>
+          <ul class="home-card-list">${recentPagesHtml}</ul>
+        </div>
+        <div class="home-card">
+          <h3>Recent sources <span class="hc-count">${sources.length} of ${sourceCount}</span></h3>
+          <ul class="home-card-list">${sourceItems}</ul>
+        </div>
       </div>
     </div>`;
 }
@@ -1457,7 +1840,7 @@ function showIndex() {
   hideAllViews();
   currentView = 'index';
   updateActiveNav('index');
-  document.getElementById('breadcrumb').innerHTML = '<span class="bc-item current">📑 Index</span>';
+  document.getElementById('breadcrumb').innerHTML = '<span class="bc-item current">📑 Master Index</span>';
   document.getElementById('page-meta-top').innerHTML = `<span class="meta-badge">${Object.keys(wikiData).length} pages</span>`;
 
   const el = document.getElementById('toc-view');
@@ -1729,20 +2112,39 @@ function navigateTo(slug) {
   const secLabel = secMeta.label || page.section || '';
   const subLabel = page.subsection ? (SUBSECTION_LABELS[page.subsection] || page.subsection) : '';
   let bcHtml = '';
-  if (secLabel) bcHtml += `<span class="bc-item" style="cursor:pointer;color:var(--accent);" onclick="showTOC('${page.section}')">${secMeta.icon||''} ${secLabel}</span>`;
+  if (secLabel) bcHtml += `<span class="bc-item" style="cursor:pointer;" onclick="showTOC('${page.section}')">${secMeta.icon||''} ${secLabel}</span>`;
   if (subLabel) bcHtml += `<span class="bc-sep">›</span><span class="bc-item">${subLabel}</span>`;
   bcHtml += `<span class="bc-sep">›</span><span class="bc-item current">${page.title}</span>`;
   document.getElementById('breadcrumb').innerHTML = bcHtml;
 
-  // Meta top
-  const cat = CATS[page.category] || {};
+  // Detect status from body (must run before topbar meta)
+  const isStub = page.body.trim().startsWith('*Stub') || page.body.trim().toLowerCase().includes('stub — to be expanded');
+
+  // Topbar status + date
   let metaHtml = '';
-  if (cat.label) metaHtml += `<span class="meta-badge">${cat.label}</span>`;
+  metaHtml += isStub
+    ? '<span class="status-badge status-stub">Stub</span>'
+    : '<span class="status-badge status-reviewed">Reviewed</span>';
   if (page.updated) metaHtml += `<span class="meta-date">Updated ${page.updated}</span>`;
   document.getElementById('page-meta-top').innerHTML = metaHtml;
 
-  document.getElementById('page-view').style.display = 'block';
+  // Show the page view and enable two-column layout (article + right-rail TOC)
+  const pageView = document.getElementById('page-view');
+  pageView.style.display = '';
+  pageView.classList.add('with-rail');
+  document.getElementById('content-area').classList.add('with-rail');
+
+  // Kicker (section · subsection) + title
+  const kicker = document.getElementById('page-kicker');
+  const kickerText = [secLabel, subLabel].filter(Boolean).join(' · ');
+  if (kickerText) { kicker.textContent = kickerText; kicker.classList.add('active'); }
+  else            { kicker.textContent = ''; kicker.classList.remove('active'); }
   document.getElementById('page-title').textContent = page.title;
+
+  // Tagline — pull the first short paragraph if it reads as a definition; else clear
+  const taglineEl = document.getElementById('page-tagline');
+  taglineEl.textContent = '';
+  // (Optional future: extract a one-liner from the body's first <p>.)
 
   // Tags + expandable sources
   const tagsEl = document.getElementById('page-tags');
@@ -1774,7 +2176,6 @@ function navigateTo(slug) {
   tagsEl.innerHTML = tagsHtml;
 
   // Body — strip stub text from body since we show the notice separately
-  const isStub = page.body.trim().startsWith('*Stub') || page.body.trim().toLowerCase().includes('stub — to be expanded');
   let cleanBody = page.body;
   if (isStub) {
     // Remove the stub line from rendered body to avoid duplication
@@ -1784,9 +2185,71 @@ function navigateTo(slug) {
   let bodyHtml = '';
   if (isStub) bodyHtml += `<div class="stub-notice">⚠️ Stub page — content to be expanded.</div>`;
   bodyHtml += renderMd(cleanBody);
-  document.getElementById('page-body').innerHTML = bodyHtml;
+  const bodyEl = document.getElementById('page-body');
+  bodyEl.innerHTML = bodyHtml;
+
+  // Build the right-rail TOC from h2/h3 headings inside the rendered body
+  buildPageTOC(bodyEl);
 
   document.getElementById('content-area').scrollTop = 0;
+}
+
+// Generate the right-rail "On this page" TOC from h2/h3 headings inside the
+// rendered article body. Each heading is assigned a slug-id; the rail's items
+// scroll-link to those ids and update active state on scroll.
+function buildPageTOC(bodyEl) {
+  const ptList = document.getElementById('pt-list');
+  if (!ptList) return;
+  ptList.innerHTML = '';
+
+  const headings = bodyEl.querySelectorAll('h2, h3');
+  if (headings.length < 2) {
+    // Not worth a rail; hide it for this page
+    document.getElementById('page-view').classList.remove('with-rail');
+    document.getElementById('content-area').classList.remove('with-rail');
+    return;
+  }
+
+  const seen = {};
+  const items = [];
+  headings.forEach(h => {
+    let id = (h.textContent || '').toLowerCase()
+      .replace(/[^\w\s-]/g,'').trim().replace(/\s+/g,'-').slice(0, 60);
+    if (!id) id = 'h-' + items.length;
+    if (seen[id]) { seen[id]++; id = id + '-' + seen[id]; } else { seen[id] = 1; }
+    h.id = id;
+    items.push({ id, label: h.textContent || '', sub: h.tagName === 'H3' });
+  });
+
+  const contentArea = document.getElementById('content-area');
+  items.forEach(it => {
+    const el = document.createElement('div');
+    el.className = 'pt-item' + (it.sub ? ' sub' : '');
+    el.dataset.target = it.id;
+    el.textContent = it.label;
+    el.onclick = () => {
+      const target = document.getElementById(it.id);
+      if (!target) return;
+      const top = target.getBoundingClientRect().top - contentArea.getBoundingClientRect().top + contentArea.scrollTop - 12;
+      contentArea.scrollTo({ top, behavior: 'smooth' });
+    };
+    ptList.appendChild(el);
+  });
+
+  // Scroll-spy: highlight active section
+  const onScroll = () => {
+    const fold = contentArea.scrollTop + 80;
+    let activeId = items[0] && items[0].id;
+    items.forEach(it => {
+      const t = document.getElementById(it.id);
+      if (t && (t.offsetTop - contentArea.offsetTop) <= fold) activeId = it.id;
+    });
+    ptList.querySelectorAll('.pt-item').forEach(el => {
+      el.classList.toggle('active', el.dataset.target === activeId);
+    });
+  };
+  contentArea.onscroll = onScroll;
+  onScroll();
 }
 
 function toggleSourcePopup(slug) {
@@ -2052,7 +2515,7 @@ function showGraphView() {
   hideAllViews();
   currentView = 'graph';
   updateActiveNav('graph');
-  document.getElementById('breadcrumb').innerHTML = '<span class="bc-item current">🕸️ Graph View</span>';
+  document.getElementById('breadcrumb').innerHTML = '<span class="bc-item current">🌐 Graph view</span>';
   document.getElementById('page-meta-top').innerHTML =
     `<span class="meta-badge">${Object.keys(wikiData).length} nodes</span>`;
 
