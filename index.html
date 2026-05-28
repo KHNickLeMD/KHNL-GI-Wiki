@@ -741,6 +741,8 @@
   .home-cards { display: grid; grid-template-columns: 1fr 2fr; gap: 18px; margin-bottom: 20px; min-width: 0; }
   .home-card { background: var(--surface); border: 1px solid var(--border); border-radius: 8px; padding: 0; box-shadow: none; display: flex; flex-direction: column; height: 304px; min-width: 0; overflow: hidden; }
   .hc-pagination { display: flex; align-items: center; justify-content: flex-end; gap: 6px; padding: 6px 12px; border-top: 1px solid var(--border-soft); flex-shrink: 0; }
+  .hc-pagination .hc-count { margin-right: auto; }
+  .hc-col-label { font-size: 10px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.06em; color: var(--text-faint); }
   .hc-pg-btn { background: none; border: 1px solid var(--border); border-radius: 4px; padding: 2px 8px; cursor: pointer; color: var(--text-muted); font-size: 13px; line-height: 1.4; transition: color 0.15s, border-color 0.15s; }
   .hc-pg-btn:hover:not(:disabled) { color: var(--accent); border-color: var(--accent); }
   .hc-pg-btn:disabled { opacity: 0.3; cursor: default; }
@@ -1752,6 +1754,7 @@ function showOverview() {
     const pages = Math.ceil(total / size);
     const pg = Math.floor(current / size) + 1;
     return `<div class="hc-pagination">
+      <span class="hc-count" id="pg-${id}-count">${Math.min(current + size, total)} of ${total}</span>
       <button class="hc-pg-btn" onclick="cardPage('${id}',-1)" ${current === 0 ? 'disabled' : ''}>&#8592;</button>
       <span class="hc-pg-info">${pg} / ${pages || 1}</span>
       <button class="hc-pg-btn" onclick="cardPage('${id}',1)" ${current + size >= total ? 'disabled' : ''}>&#8594;</button>
@@ -1784,12 +1787,12 @@ function showOverview() {
 
       <div class="home-cards">
         <div class="home-card">
-          <h3>Recently updated wikis <span class="hc-count" id="pg-pages-count">${Math.min(recentPages.length, PAGE_SIZE)} of ${recentPages.length}</span></h3>
+          <h3>Recently updated wikis <span class="hc-col-label" style="margin-left:auto;">Last Updated</span></h3>
           <ul class="home-card-list" id="pg-pages-list">${renderPageItems(recentPages, 0)}</ul>
           ${paginationBar('pages', 0, recentPages.length, PAGE_SIZE)}
         </div>
         <div class="home-card">
-          <h3>Recently ingested sources <span class="hc-count" id="pg-sources-count">${Math.min(sources.length, PAGE_SIZE)} of ${sources.length}</span></h3>
+          <h3>Recently ingested sources <span class="hc-col-label" style="margin-left:auto;">Journal</span><span class="hc-col-label" style="min-width:64px;text-align:right;">Last Updated</span></h3>
           <ul class="home-card-list" id="pg-sources-list">${renderSourceItems(sources, 0)}</ul>
           ${paginationBar('sources', 0, sources.length, PAGE_SIZE)}
         </div>
@@ -1813,14 +1816,13 @@ function showOverview() {
     const next = Math.max(0, Math.min(_cardState[id] + dir * PAGE_SIZE, data.length - 1));
     _cardState[id] = next - (next % PAGE_SIZE);
     const listEl = document.getElementById(`pg-${id}-list`);
-    const countEl = document.getElementById(`pg-${id}-count`);
     listEl.innerHTML = id === 'pages' ? renderPageItems(data, _cardState[id]) : renderSourceItems(data, _cardState[id]);
-    countEl.textContent = `${Math.min(_cardState[id] + PAGE_SIZE, data.length)} of ${data.length}`;
-    // Rebuild pagination bar
+    // Rebuild pagination bar (count lives here now)
     const pg = Math.floor(_cardState[id] / PAGE_SIZE) + 1;
     const pages = Math.ceil(data.length / PAGE_SIZE);
     listEl.parentElement.querySelector('.hc-pagination').innerHTML =
-      `<button class="hc-pg-btn" onclick="cardPage('${id}',-1)" ${_cardState[id] === 0 ? 'disabled' : ''}>&#8592;</button>
+      `<span class="hc-count" id="pg-${id}-count">${Math.min(_cardState[id] + PAGE_SIZE, data.length)} of ${data.length}</span>
+       <button class="hc-pg-btn" onclick="cardPage('${id}',-1)" ${_cardState[id] === 0 ? 'disabled' : ''}>&#8592;</button>
        <span class="hc-pg-info">${pg} / ${pages || 1}</span>
        <button class="hc-pg-btn" onclick="cardPage('${id}',1)" ${_cardState[id] + PAGE_SIZE >= data.length ? 'disabled' : ''}>&#8594;</button>`;
   };
