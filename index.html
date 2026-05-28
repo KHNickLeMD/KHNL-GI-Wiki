@@ -738,12 +738,17 @@
     font-weight: 500;
   }
 
-  .home-cards { display: grid; grid-template-columns: 1fr 1fr; gap: 18px; margin-bottom: 20px; }
-  .home-card { background: var(--surface); border: 1px solid var(--border); border-radius: 8px; padding: 0; box-shadow: none; display: flex; flex-direction: column; max-height: 360px; }
+  .home-cards { display: grid; grid-template-columns: 1fr 2fr; gap: 18px; margin-bottom: 20px; min-width: 0; }
+  .home-card { background: var(--surface); border: 1px solid var(--border); border-radius: 8px; padding: 0; box-shadow: none; display: flex; flex-direction: column; height: 304px; min-width: 0; overflow: hidden; }
+  .hc-pagination { display: flex; align-items: center; justify-content: flex-end; gap: 6px; padding: 6px 12px; border-top: 1px solid var(--border-soft); flex-shrink: 0; }
+  .hc-pg-btn { background: none; border: 1px solid var(--border); border-radius: 4px; padding: 2px 8px; cursor: pointer; color: var(--text-muted); font-size: 13px; line-height: 1.4; transition: color 0.15s, border-color 0.15s; }
+  .hc-pg-btn:hover:not(:disabled) { color: var(--accent); border-color: var(--accent); }
+  .hc-pg-btn:disabled { opacity: 0.3; cursor: default; }
+  .hc-pg-info { font-size: 11px; color: var(--text-faint); font-family: var(--font-mono); min-width: 32px; text-align: center; }
   .home-card h3 { font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.08em; color: var(--text-muted); margin: 0; flex-shrink: 0; padding: 13px 16px 10px; border-bottom: 1px solid var(--border-soft); display: flex; align-items: center; gap: 8px; }
   .home-card h3 .hc-count { margin-left: auto; font-size: 10.5px; font-weight: 500; color: var(--text-faint); letter-spacing: 0; text-transform: none; font-family: var(--font-mono); }
-  .home-card-list { list-style: none; overflow-y: auto; flex: 1; scrollbar-width: thin; scrollbar-color: var(--border) transparent; margin: 0; padding: 0; }
-  .home-card-list li { display: flex; align-items: center; gap: 10px; padding: 8px 16px; border-bottom: 1px solid var(--border-soft); font-size: 13px; }
+  .home-card-list { list-style: none; overflow: hidden; flex: 1; margin: 0; padding: 0; }
+  .home-card-list li { display: flex; align-items: center; gap: 10px; padding: 8px 16px; border-bottom: 1px solid var(--border-soft); font-size: 13px; min-width: 0; overflow: hidden; }
   .home-card-list li:last-child { border-bottom: none; }
   .home-card-list a { color: var(--text); cursor: pointer; text-decoration: none; flex: 1; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; transition: color 0.15s; }
   .home-card-list a:hover { color: var(--accent); }
@@ -1256,7 +1261,8 @@
 const CONFIG_KEY = 'khnl_gi_config';
 const THEME_KEY = 'khnl_gi_theme';
 
-let config = JSON.parse(localStorage.getItem(CONFIG_KEY) || 'null');
+const DEFAULT_CONFIG = { username: 'KHNickLeMD', repo: 'KHNL-GI-Wiki', path: 'KHNL-GI-Wiki/wiki', branch: 'main' };
+let config = JSON.parse(localStorage.getItem(CONFIG_KEY) || 'null') || DEFAULT_CONFIG;
 let wikiData = {};
 let currentView = null; // 'overview' | 'about' | 'index' | 'toc:KEY' | 'page:SLUG'
 let graphSim = null;
@@ -1672,15 +1678,23 @@ function showOverview() {
   const procCount = (cats['general-procedure']||0)+(cats['advanced-procedure']||0);
   const schemaCount = Object.values(wikiData).filter(p => p.section === '2-diagnostic-schemas').length;
 
+  // Helper: filter to last month, fallback to 6 most recent
+  const oneMonthAgo = (() => { const d = new Date(); d.setMonth(d.getMonth()-1); return d.toISOString().slice(0,10); })();
+  const recentFilter = (arr) => {
+    const inMonth = arr.filter(p => (p.updated||p.created||'') >= oneMonthAgo);
+    return inMonth.length ? inMonth : arr.slice(0,6);
+  };
+
   // Recent sources — sort by updated/created desc
-  const sources = Object.values(wikiData).filter(p=>p.category==='source')
-    .sort((a,b)=>(b.updated||b.created||'').localeCompare(a.updated||a.created||'')).slice(0,6);
+  const allSources = Object.values(wikiData).filter(p=>p.category==='source')
+    .sort((a,b)=>(b.updated||b.created||'').localeCompare(a.updated||a.created||''));
+  const sources = recentFilter(allSources);
 
   // Recent pages — any non-source page sorted by updated desc
-  const recentPages = Object.values(wikiData)
+  const allRecentPages = Object.values(wikiData)
     .filter(p => p.category !== 'source' && (p.updated || p.created))
-    .sort((a,b)=>(b.updated||b.created||'').localeCompare(a.updated||a.created||''))
-    .slice(0,6);
+    .sort((a,b)=>(b.updated||b.created||'').localeCompare(a.updated||a.created||''));
+  const recentPages = recentFilter(allRecentPages);
 
   // Detect society/journal prefix for a source title (e.g. "ACG", "AASLD")
   const orgFromTitle = (t) => {
@@ -1689,11 +1703,6 @@ function showOverview() {
     return m ? m[1] : '';
   };
   const stripOrg = (t, org) => org && t.startsWith(org) ? t.slice(org.length).replace(/^[:\s—-]+/, '').trim() : t;
-  const yearFromMeta = (p) => {
-    const s = (p.updated || p.created || '').toString();
-    const m = s.match(/\b(19|20)\d{2}\b/);
-    return m ? m[0] : '';
-  };
 
   const sectionCards = SECTION_ORDER.filter(s=>Object.values(wikiData).some(p=>p.section===s))
     .map(sec => {
@@ -1718,37 +1727,36 @@ function showOverview() {
     return 'reviewed';
   };
 
-  const recentPagesHtml = recentPages.length
-    ? recentPages.map(p => {
-        const secMeta = SECTION_META[p.section] || {};
-        const status = statusFor(p);
-        const badge = status === 'stub'
-          ? '<span class="status-badge status-stub">Stub</span>'
-          : '<span class="status-badge status-reviewed">Reviewed</span>';
-        return `<li style="cursor:pointer;" onclick="navigateTo('${p.slug}')">
-          <div style="flex:1;min-width:0;">
-            <div style="font-size:13px;color:var(--text);font-weight:500;margin-bottom:1px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">${p.title}</div>
-            <div style="font-size:11px;color:var(--text-faint);">${secMeta.label || p.section || ''}</div>
-          </div>
-          ${badge}
-          <span style="font-size:11px;color:var(--text-faint);min-width:48px;text-align:right;flex-shrink:0;">${p.updated || ''}</span>
-        </li>`;
-      }).join('')
-    : '<li style="color:var(--text-muted);font-size:12px;padding:14px 16px;">No recent updates yet.</li>';
+  const PAGE_SIZE = 6;
 
-  const sourceItems = sources.length
-    ? sources.map(s => {
-        const org = orgFromTitle(s.title);
-        const year = yearFromMeta(s);
-        const display = stripOrg(s.title, org);
-        return `<li style="cursor:pointer;" onclick="navigateTo('${s.slug}')">
-          ${org ? `<span style="font-size:9.5px;font-weight:700;letter-spacing:0.04em;color:var(--accent);background:var(--accent-light);padding:2px 6px;border-radius:3px;font-family:var(--font-mono);min-width:52px;text-align:center;flex-shrink:0;">${org}</span>` : ''}
-          ${year ? `<span style="font-size:11px;color:var(--text-faint);font-family:var(--font-mono);flex-shrink:0;min-width:32px;">${year}</span>` : ''}
-          <span style="flex:1;min-width:0;font-size:12.5px;color:var(--text);overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">${display}</span>
-          ${s.updated ? `<span style="font-size:11px;color:var(--text-faint);flex-shrink:0;">${s.updated}</span>` : ''}
-        </li>`;
-      }).join('')
-    : '<li style="color:var(--text-muted);font-size:12px;padding:14px 16px;">No sources ingested yet.</li>';
+  const renderPageItems = (pages, start) =>
+    pages.slice(start, start + PAGE_SIZE).map(p =>
+      `<li data-nav-slug="${p.slug}" style="cursor:pointer;">
+        <span style="flex:1;min-width:0;font-size:13px;color:var(--accent);font-weight:500;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;text-decoration:underline;text-underline-offset:2px;">${p.title}</span>
+        <span style="font-size:11px;color:var(--text-faint);min-width:48px;text-align:right;flex-shrink:0;">${p.updated || ''}</span>
+      </li>`
+    ).join('') || '<li style="color:var(--text-muted);font-size:12px;padding:14px 16px;">No recent updates yet.</li>';
+
+  const renderSourceItems = (srcs, start) =>
+    srcs.slice(start, start + PAGE_SIZE).map(s => {
+      const org = orgFromTitle(s.title);
+      const display = stripOrg(s.title, org);
+      return `<li data-nav-slug="${s.slug}" style="cursor:pointer;">
+        <span style="flex:1;min-width:0;font-size:12.5px;color:var(--accent);overflow:hidden;text-overflow:ellipsis;white-space:nowrap;text-decoration:underline;text-underline-offset:2px;">${display}</span>
+        ${org ? `<span style="font-size:9.5px;font-weight:700;letter-spacing:0.04em;color:var(--accent);background:var(--accent-light);padding:2px 6px;border-radius:3px;font-family:var(--font-mono);min-width:52px;text-align:center;flex-shrink:0;">${org}</span>` : ''}
+        ${s.updated ? `<span style="font-size:11px;color:var(--text-faint);flex-shrink:0;">${s.updated}</span>` : ''}
+      </li>`;
+    }).join('') || '<li style="color:var(--text-muted);font-size:12px;padding:14px 16px;">No sources ingested yet.</li>';
+
+  const paginationBar = (id, current, total, size) => {
+    const pages = Math.ceil(total / size);
+    const pg = Math.floor(current / size) + 1;
+    return `<div class="hc-pagination">
+      <button class="hc-pg-btn" onclick="cardPage('${id}',-1)" ${current === 0 ? 'disabled' : ''}>&#8592;</button>
+      <span class="hc-pg-info">${pg} / ${pages || 1}</span>
+      <button class="hc-pg-btn" onclick="cardPage('${id}',1)" ${current + size >= total ? 'disabled' : ''}>&#8594;</button>
+    </div>`;
+  };
 
   const el = document.getElementById('overview-view');
   el.style.display = 'block';
@@ -1776,15 +1784,46 @@ function showOverview() {
 
       <div class="home-cards">
         <div class="home-card">
-          <h3>Recent pages <span class="hc-count">${recentPages.length} of ${total - sourceCount}</span></h3>
-          <ul class="home-card-list">${recentPagesHtml}</ul>
+          <h3>Recently updated wikis <span class="hc-count" id="pg-pages-count">${Math.min(recentPages.length, PAGE_SIZE)} of ${recentPages.length}</span></h3>
+          <ul class="home-card-list" id="pg-pages-list">${renderPageItems(recentPages, 0)}</ul>
+          ${paginationBar('pages', 0, recentPages.length, PAGE_SIZE)}
         </div>
         <div class="home-card">
-          <h3>Recent sources <span class="hc-count">${sources.length} of ${sourceCount}</span></h3>
-          <ul class="home-card-list">${sourceItems}</ul>
+          <h3>Recently ingested sources <span class="hc-count" id="pg-sources-count">${Math.min(sources.length, PAGE_SIZE)} of ${sources.length}</span></h3>
+          <ul class="home-card-list" id="pg-sources-list">${renderSourceItems(sources, 0)}</ul>
+          ${paginationBar('sources', 0, sources.length, PAGE_SIZE)}
         </div>
       </div>
     </div>`;
+
+  // Delegated click handler for nav slugs (works after re-renders too)
+  ['pg-pages-list','pg-sources-list'].forEach(listId => {
+    const listEl = document.getElementById(listId);
+    if (listEl) listEl.addEventListener('click', e => {
+      const li = e.target.closest('[data-nav-slug]');
+      if (li) navigateTo(li.dataset.navSlug);
+    });
+  });
+
+  // Pagination state & handler — attached after innerHTML set
+  const _cardState = { pages: 0, sources: 0 };
+  const _cardData  = { pages: recentPages, sources: sources };
+  window.cardPage = (id, dir) => {
+    const data = _cardData[id];
+    const next = Math.max(0, Math.min(_cardState[id] + dir * PAGE_SIZE, data.length - 1));
+    _cardState[id] = next - (next % PAGE_SIZE);
+    const listEl = document.getElementById(`pg-${id}-list`);
+    const countEl = document.getElementById(`pg-${id}-count`);
+    listEl.innerHTML = id === 'pages' ? renderPageItems(data, _cardState[id]) : renderSourceItems(data, _cardState[id]);
+    countEl.textContent = `${Math.min(_cardState[id] + PAGE_SIZE, data.length)} of ${data.length}`;
+    // Rebuild pagination bar
+    const pg = Math.floor(_cardState[id] / PAGE_SIZE) + 1;
+    const pages = Math.ceil(data.length / PAGE_SIZE);
+    listEl.parentElement.querySelector('.hc-pagination').innerHTML =
+      `<button class="hc-pg-btn" onclick="cardPage('${id}',-1)" ${_cardState[id] === 0 ? 'disabled' : ''}>&#8592;</button>
+       <span class="hc-pg-info">${pg} / ${pages || 1}</span>
+       <button class="hc-pg-btn" onclick="cardPage('${id}',1)" ${_cardState[id] + PAGE_SIZE >= data.length ? 'disabled' : ''}>&#8594;</button>`;
+  };
 }
 
 // ── About ──
