@@ -262,3 +262,5 @@ Post-LT: patients can be listed for high-priority kidney transplantation alone i
 - [[chronic-hepatitis-b]] — intrinsic renal disease (membranoproliferative GN) may mimic HRS
 - [[acute-liver-failure]] — distinct from HRS-AKI but shares vasoconstrictor-mediated renal dysfunction pathways
 - [[nutrition-in-liver-disease]] — malnutrition and hypoalbuminemia relevant to oncotic properties of albumin therapy
+- [[portal-hypertension]] — CSPH and splanchnic vasodilation are the hemodynamic basis of HRS-AKI
+- [[acute-on-chronic-liver-failure]] — AKI is the most common extrahepatic organ failure in ACLF; terlipressin contraindicated in ACLF-3

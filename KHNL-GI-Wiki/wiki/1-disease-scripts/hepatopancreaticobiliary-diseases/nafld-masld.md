@@ -204,3 +204,7 @@ Per [[aasld-ast-2025-liver-transplant-graft-complications]] (recurrent MASLD pos
 
 **Re-transplantation:**
 - Re-LT may be required for recurrent MASLD progressing to allograft failure; MASLD-associated recirrhosis becoming an increasingly common re-LT indication
+
+---
+
+*Cross-references: [[alcohol-associated-liver-disease]], [[hepatocellular-carcinoma]], [[liver-transplantation]], [[semaglutide]], [[portal-hypertension]] (MASLD-cirrhosis shares all portal-hypertensive complications), [[acute-on-chronic-liver-failure]] (MASLD/MASH cirrhosis is an increasingly recognized substrate for ACLF)*

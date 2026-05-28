@@ -6,6 +6,47 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-05-28] lint | Extra high-effort lint pass + HE ingest
+
+**Hygiene fixes (auto-corrected):**
+- Deleted 5 `.DS_Store` files: vault root, wiki/, raw/, wiki/1-disease-scripts/, raw/GI Guidelines/
+- `wiki/index.md` footer count corrected: was `85 sources | 77 disease scripts | 25 concepts` → now `85 sources | 76 disease scripts | 26 concepts` (sources correctly reflects 84 files + 1 new = 85 after HE ingest; disease scripts reconciled to 76 actual files; concepts +1 for new HE page)
+- `wiki/index.md` updated: field `updated:` 2026-05-25 → 2026-05-28
+
+**New page created:**
+- `7-concepts/hepatic-encephalopathy.md` — created as stub during lint (gap flagged by previous lint, referenced heavily by ACLF and portal-hypertension pages), then immediately upgraded to full concept page via AASLD/EASL 2014 HE guideline ingest
+
+**YAML frontmatter verified:**
+- All 4 new disease scripts from today's parallel ingest (`hepatitis-c.md`, `portal-hypertension.md`, `acute-on-chronic-liver-failure.md`, `direct-acting-antivirals.md`): correct category, tags, created/updated dates, sources fields — all verified correct
+- All 4 new source pages: correct category: source, created 2026-05-28 — verified correct
+- `variceal-upper-gi-bleeding.md`: `aasld-2023-portal-hypertension` correctly in sources list — confirmed
+
+**Cross-links added:**
+- `aki-in-cirrhosis.md` — added `[[portal-hypertension]]` and `[[acute-on-chronic-liver-failure]]`
+- `alcohol-associated-liver-disease.md` — added `[[portal-hypertension]]` and `[[acute-on-chronic-liver-failure]]`
+- `nafld-masld.md` — added `[[portal-hypertension]]` and `[[acute-on-chronic-liver-failure]]`
+- `chronic-hepatitis-b.md` — added `[[hepatitis-c]]` (HBV/HCV coinfection context) plus `[[portal-hypertension]]`, `[[acute-on-chronic-liver-failure]]`
+- `rifaximin.md` — added `[[hepatic-encephalopathy]]` with sourced content from new AASLD/EASL 2014 guideline
+
+**Confirmed cross-links already present in new pages:**
+- `hepatitis-c.md` → `[[portal-hypertension]]`, `[[chronic-hepatitis-b]]`, `[[liver-transplantation]]`, `[[hepatocellular-carcinoma]]` — all confirmed present in cross-references footer
+- `portal-hypertension.md` → `[[variceal-upper-gi-bleeding]]`, `[[ascites]]`, `[[spontaneous-bacterial-peritonitis]]`, `[[aki-in-cirrhosis]]`, `[[hepatic-encephalopathy]]`, `[[hepatopulmonary-syndrome-portopulmonary-hypertension]]` — all confirmed present
+- `acute-on-chronic-liver-failure.md` → `[[aki-in-cirrhosis]]`, `[[hepatic-encephalopathy]]`, `[[spontaneous-bacterial-peritonitis]]`, `[[liver-transplantation]]` — all confirmed present
+
+**Uningested file ingested (1 of max 2):**
+- `aasld-easl-2014-hepatic-encephalopathy` — AASLD/EASL 2014 Practice Guideline: Hepatic Encephalopathy in Chronic Liver Disease (Vilstrup et al. Hepatology 2014;60:715–735). 33 recommendations; 4-axis classification system; WHC/GCS grading; ammonia has no diagnostic/staging/prognostic value (Rec 9); lactulose first-line (Rec 19); rifaximin add-on after 2nd episode (Rec 26); protein restriction never indicated (1.2–1.5 g/kg/day, Rec 31); late-night snack (Rec 32); post-TIPS HE: no prophylaxis benefit (Rec 27); recurrent intractable OHE = LT indication (Rec 13). Expands `hepatic-encephalopathy.md` from stub to full concept page.
+
+**Index updates:** 84 → 85 sources (+1 HE guideline); concepts 25 → 26 (+1 hepatic-encephalopathy)
+
+**Issues for user triage (priority order):**
+1. `primary-biliary-cholangitis.md` is still a stub — AASLD 2018 PBC guideline (635 KB) and AASLD 2021 PBC update (117 KB) both available in raw/; second high-priority ingest available for next lint pass
+2. `hepatocellular-carcinoma.md` — BCLC staging detail and sorafenib/lenvatinib dosing remain stubs; AASLD 2023 HCC Prevention/Diagnosis/Treatment (raw/AASLD/) is large and available
+3. `alcohol-associated-liver-disease.md` — AASLD 2020 ALD guideline not yet ingested (distinct from ACG 2024 ALD already ingested); available in raw/
+4. `AASLD 2022 PSC` (raw/GI Guidelines/AASLD/) — distinct from ACG 2015 PSC already ingested; would expand `primary-sclerosing-cholangitis.md`
+5. `AASLD 2021 Malnutrition Frailty Sarcopenia Cirrhosis.pdf` — no cirrhosis malnutrition/frailty page exists; would fill gap referenced by ACLF page
+
+---
+
 ## [2026-05-28] ingest | 4-guideline parallel ingest (AASLD 2022 Wilson Disease, AASLD 2023 Portal Hypertension, AASLD 2024 ACLF, AASLD-IDSA 2023 HCV)
 
 **Sources ingested (4):**

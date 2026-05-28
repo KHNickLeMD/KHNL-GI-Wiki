@@ -194,3 +194,7 @@ Triple/quadruple co-infections: follow surveillance criteria for the co-infectio
 For viremic HBsAg+ persons not meeting disease-specific treatment criteria but in high-risk scenarios (unprotected sex, IDU, susceptible household contacts, healthcare workers performing SHEA category III procedures): shared decision-making approach for antivirals.
 
 Goal: HBV DNA <lower limit of quantification. HBV not transmitted by casual contact, shared meals, or hugging — avoid stigmatizing practices.
+
+---
+
+*Cross-references: [[hepatitis-c]] (HBV/HCV coinfection — treat HCV first with DAAs; HBV reactivation risk with HCV therapy if HBsAg+; require prophylactic NA), [[hepatocellular-carcinoma]], [[portal-hypertension]], [[acute-on-chronic-liver-failure]], [[liver-transplantation]], [[aki-in-cirrhosis]], [[liver-disease-in-pregnancy]]*

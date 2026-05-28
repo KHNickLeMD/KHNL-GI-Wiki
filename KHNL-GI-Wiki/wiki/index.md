@@ -1,7 +1,7 @@
 ---
 title: "Wiki Index"
 category: index
-updated: 2026-05-25
+updated: 2026-05-28
 ---
 
 # KHNL GI Encyclopedia — Master Index
@@ -160,7 +160,7 @@ updated: 2026-05-25
 - [[linaclotide]] — GC-C agonist; IBS-C 290 µg, CIC 145 µg; diarrhea-limiting (stub)
 - [[plecanatide]] — GC-C agonist (uroguanylin analog); IBS-C 3/6 mg, CIC 3 mg (stub)
 - [[prucalopride]] — Selective 5-HT4 agonist; CIC 2 mg daily; no CV signal (stub)
-- [[rifaximin]] — Rifaximin: non-absorbable antibiotic; SIBO 550 mg TID × 14d; IMO + neomycin combination; IBS-D 550 mg TID × 14d; hepatic encephalopathy secondary prophylaxis (stub)
+- [[rifaximin]] — Rifaximin: non-absorbable antibiotic; SIBO 550 mg TID × 14d; IMO + neomycin combination; IBS-D 550 mg TID × 14d; HE secondary prophylaxis add-on to lactulose after ≥2 episodes (Rec 26, Grade I, A, 1; NEJM 2010 RCT); NOT monotherapy; NOT for post-TIPS HE (2 sources)
 - [[semaglutide]] — GLP-1 RA (Wegovy/Ozempic/Rybelsus); FDA-approved Aug 2025 for MASH; ESSENCE trial efficacy; NIT-based candidacy (VCTE/MRE/ELF cutoffs); full safety table (10 domains); cardiometabolic benefit (SELECT/FLOW/STEP trials); concomitant resmetirom use (1 source)
 - [[tacrolimus]] — Tacrolimus (FK506): CNI backbone post-LT; 2025 trough targets (mo1: 7–10, mo2–12: 4–8, mo12+: 4 ng/mL); XR equivalence (Rec 31); mTOR for HCC/CKD; Paxlovid DDI; nephrotoxicity/PTDM/neurotoxicity; special populations (1 source)
 - [[calcineurin-inhibitors]] — CNI drug class: TAC vs. CSA comparison; basiliximab induction (Rec 25, Strong); ATG contraindicated (Rec 26, Strong); steroid minimization; IS minimization ladder (dose↓→MMF→mTOR→ACEi→kidney Tx); CSA DDIs (sofosbuvir/glecaprevir/voxilaprevir) (1 source)
@@ -198,6 +198,7 @@ updated: 2026-05-25
 - [[direct-acting-antivirals]] — DAA drug classes (NS3/4A + NS5A + NS5B); pangenotypic regimens (G/P, SOF/VEL); DDI table (cyclosporine); decompensated cirrhosis contraindications; see [[hepatitis-c]] for treatment tables (1 source)
 - [[nutrition-in-hospitalized-patients]] — Nutrition in hospitalized patients: EN preferred over PN when gut functional, NRS-2002/NUTRIC risk scoring, avoid albumin/prealbumin as nutrition markers, EN within 24–48h for high-risk, permissive underfeeding in early ARDS/obesity, no GRV monitoring, PN deferred 7–10d in low-risk if EN not feasible, EOL autonomy governs nutrition (1 source)
 - [[cirrhosis-hemostasis]] — Hemostasis in cirrhosis: rebalanced hemostasis concept, INR/platelet count poor predictors of bleeding, no prophylactic FFP/platelets before routine procedures, TEG/ROTEM preferred for transfusion guidance, PVT paradox in cirrhosis (1 source)
+- [[hepatic-encephalopathy]] — HE: 4-axis classification (type A/B/C, WHC severity, time course, precipitants); OHE = diagnosis of exclusion; ammonia alone has NO diagnostic/staging/prognostic value (Rec 9); lactulose first-line (Rec 19); rifaximin add-on after 2nd episode (Rec 26); protein restriction never indicated (1.2–1.5 g/kg/day); late-night snack (Rec 32); 33 recommendations (AASLD/EASL 2014) (1 source)
 
 ---
 
@@ -286,6 +287,7 @@ updated: 2026-05-25
 - [[aasld-2023-portal-hypertension]] — AASLD 2023 Practice Guidance: Portal Hypertension and Varices in Cirrhosis — Kaplan et al. Hepatology 2024;79:1180–1211 — 58 guidance statements; cACLD/CSPH noninvasive staging (Rule of Five); carvedilol preferred NSBB; preemptive TIPS criteria (CTP B>7 active bleeding or CTP C 10–13); no FFP/platelets based on INR/platelet; secondary prophylaxis NSBB + EVL; gastric/ectopic varices
 - [[aasld-2024-aclf]] — AASLD 2024 Practice Guidance: Acute-on-Chronic Liver Failure — Karvellas, Bajaj et al. Hepatology 2024;79:1463–1502 — 51 guidance statements; minimum ACLF definition; NACSELD/EASL-CLIF/APASL definitions; organ-specific management; terlipressin contraindicated in ACLF-3; protein restriction never indicated; LT candidacy (trajectory over single score); futility threshold; palliative care mandatory
 - [[aasld-idsa-2023-hcv]] — AASLD-IDSA 2023 Hepatitis C Guidance Update — Bhattacharya et al. Clin Infect Dis 2023; doi:10.1093/cid/ciad319 — G/P 8 wk for compensated cirrhosis (EXPEDITION-8); simplified algorithm includes HIV coinfected; incomplete adherence algorithm; retreatment (MAGELLAN-3 G/P+SOF+RBV 96%); viremic donor organs; pediatric ≥3 years treatment
+- [[aasld-easl-2014-hepatic-encephalopathy]] — AASLD/EASL 2014 Practice Guideline: Hepatic Encephalopathy in Chronic Liver Disease — Vilstrup et al. Hepatology 2014;60:715–735 — 33 recommendations; 4-axis classification; WHC/GCS grading; ammonia no diagnostic value (Rec 9); lactulose first-line (Rec 19); rifaximin add-on after 2nd episode (Rec 26); protein restriction opposed (1.2–1.5 g/kg/day); late-night snack (Rec 32); post-TIPS HE: no prophylaxis benefit; recurrent intractable OHE = LT indication
 
 ---
 
@@ -294,4 +296,4 @@ updated: 2026-05-25
 
 ---
 
-*Total: 85 sources | 77 disease scripts | 13 diagnostic schemas | 2 general procedures | 9 advanced procedures | 9 meds | 0 anatomy | 25 concepts | 1 synthesis*
+*Total: 85 sources | 76 disease scripts | 13 diagnostic schemas | 2 general procedures | 9 advanced procedures | 9 meds | 0 anatomy | 26 concepts | 1 synthesis*

@@ -222,3 +222,5 @@ Per [[aasld-ast-2025-liver-transplant-graft-complications]] (recommendations for
 - [[acute-pancreatitis]] (pancreatitis common in heavy alcohol users)
 - [[nafld-masld]] (can coexist with ALD; dual contributors to liver injury)
 - [[hereditary-hemochromatosis]] (ferritin elevated in ALD — must distinguish true iron overload)
+- [[portal-hypertension]] — ALD is the leading cause of cirrhotic PH in Western countries; NSBB/EVL for variceal prophylaxis
+- [[acute-on-chronic-liver-failure]] — ALD/AH is among the most common precipitants of ACLF; organ-by-organ ICU management per AASLD 2024
