@@ -6,6 +6,28 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-05-28] ingest | 4-guideline parallel ingest (AASLD 2022 Wilson Disease, AASLD 2023 Portal Hypertension, AASLD 2024 ACLF, AASLD-IDSA 2023 HCV)
+
+**Sources ingested (4):**
+- `aasld-2022-wilson-disease` — AASLD 2022 Practice Guidance on Wilson Disease (Schilsky, Roberts et al. Hepatology 2025;82:E41–E90); 38 guidance statements; Leipzig score table; NWI prognostic scoring; treatment monitoring targets (Table 10); trientine tetrahydrochloride (FDA 2022); decompensated cirrhosis combination protocol; ALF→immediate LT; HCC surveillance; pregnancy guidance
+- `aasld-2023-portal-hypertension` — AASLD 2023 Practice Guidance: Portal Hypertension and Varices (Kaplan et al. Hepatology 2024;79:1180–1211); 58 guidance statements; cACLD/CSPH staging (Rule of Five); carvedilol as preferred NSBB (6.25–12.5 mg/day); preemptive TIPS (CTP B>7 active bleeding or CTP C 10–13, within 72h); no FFP/platelets by INR/platelet targets; secondary prophylaxis NSBB + EVL; gastric/ectopic varices management
+- `aasld-2024-aclf` — AASLD 2024 Practice Guidance: ACLF (Karvellas, Bajaj et al. Hepatology 2024;79:1463–1502); 51 guidance statements; minimum ACLF definition; NACSELD/EASL-CLIF/APASL comparison; terlipressin contraindicated in ACLF-3 (CONFIRM trial respiratory failure signal); protein restriction never indicated; LT candidacy (trajectory-based); futility thresholds (CLIF-C>70/lactate>9); palliative care mandatory
+- `aasld-idsa-2023-hcv` — AASLD-IDSA 2023 HCV Guidance Update (Bhattacharya et al. Clin Infect Dis 2023; doi:10.1093/cid/ciad319); G/P 8 wk now approved for compensated cirrhosis (EXPEDITION-8); simplified algorithm includes HIV coinfected; incomplete adherence algorithm (new); retreatment MAGELLAN-3 (G/P+SOF+RBV 96% SVR); viremic donor organs → DAA within first week; pediatric treatment ≥3 years
+
+**New entity pages created:**
+- `portal-hypertension.md` — full ADDT (new page; cACLD, CSPH, NSBB, primary/secondary prophylaxis, AVH management, gastric/ectopic varices, PHG, special situations)
+- `acute-on-chronic-liver-failure.md` — full ADDT (new page; all 51 guidance statements integrated into organ-by-organ ICU management framework)
+- `hepatitis-c.md` — full ADDT (new page; universal screening, simplified algorithm, decompensated regimens, retreatment, post-SVR care, key populations)
+- `direct-acting-antivirals.md` — concept stub (new)
+
+**Entity pages expanded/updated:**
+- `wilson-disease.md` — expanded from stub to full ADDT: Leipzig score, NWI, complete diagnostics, all drug dosing, monitoring targets, combination therapy for decompensated cirrhosis, ALF biochemical criteria, Korman criteria, HCC surveillance, pregnancy, neuropsychiatric management
+- `variceal-upper-gi-bleeding.md` — major update: AASLD 2023 GS 25–39 incorporated; no FFP/platelets mandate; preemptive TIPS criteria; NSBB timing at vasoactive discontinuation; no routine PPI; secondary prophylaxis protocol; gastric varices added
+
+**Index updates:** 80 → 85 sources (+5); disease scripts 73 → 77 (+4); concepts 24 → 25 (+1)
+
+---
+
 ## [2026-05-25] lint | Extra high-effort lint pass
 
 **Hygiene fixes:**

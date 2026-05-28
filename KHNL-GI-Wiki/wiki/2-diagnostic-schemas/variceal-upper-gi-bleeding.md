@@ -1,17 +1,17 @@
 ---
 title: "Variceal Upper GI Bleeding"
 category: diagnostic-schema
-tags: [cirrhosis, portal-hypertension, variceal-bleeding, upper-gi-bleeding, hemostasis, antibiotic-prophylaxis]
+tags: [cirrhosis, portal-hypertension, variceal-bleeding, upper-gi-bleeding, hemostasis, antibiotic-prophylaxis, TIPS, EVL, carvedilol, NSBB, gastric-varices, preemptive-TIPS]
 created: 2026-05-15
-updated: 2026-05-15
-sources: [albhaisi-2025-prophylactic-antibiotics-cirrhosis]
+updated: 2026-05-28
+sources: [albhaisi-2025-prophylactic-antibiotics-cirrhosis, aasld-2023-portal-hypertension]
 ---
 
 ## Definition / Scope
 
-Variceal upper GI bleeding (UGIB) refers to hemorrhage from esophageal or gastric varices in the setting of portal hypertension, most commonly due to cirrhosis. It is a life-threatening emergency with 6-week mortality of approximately 15–20%. Varices form when portal pressure gradient (HVPG) exceeds 10–12 mmHg; bleeding risk rises sharply above 12 mmHg.
+Acute variceal hemorrhage (AVH) refers to hemorrhage from esophageal or gastric varices in the setting of portal hypertension (PH), most commonly due to cirrhosis. It is a life-threatening emergency with 6-week mortality of approximately 15–20%. Varices form when HVPG exceeds 10–12 mmHg; bleeding risk rises sharply above 12 mmHg; HVPG >20 mmHg at index bleed = high-risk for treatment failure.
 
-Distinct from non-variceal UGIB (peptic ulcer, Mallory-Weiss, Dieulafoy) in management priorities: vasoactive agents, antibiotic prophylaxis, and early TIPS consideration are specific to variceal hemorrhage.
+Distinct from non-variceal UGIB (peptic ulcer, Mallory-Weiss, Dieulafoy) in management priorities: vasoactive agents, antibiotic prophylaxis, and early TIPS consideration are specific to variceal hemorrhage. See [[portal-hypertension]] for PH staging (cACLD/CSPH), surveillance decisions, and primary prophylaxis.
 
 ## Differential Diagnosis
 
@@ -25,17 +25,45 @@ In a cirrhotic patient with UGIB, consider:
 
 ## Diagnostic Algorithm
 
-1. **Resuscitation first**: Large-bore IV access × 2; crystalloid; transfuse pRBCs to Hgb ~7–8 g/dL (restrictive strategy shown to improve survival in cirrhosis); avoid over-resuscitation (worsens portal pressure)
-2. **Risk stratify**:
-   - Child-Pugh and MELD scores predict 6-week mortality
-   - HVPG >20 mmHg at index bleed → high-risk for treatment failure; consider early TIPS
-3. **Start vasoactive agent immediately** (before endoscopy): octreotide (50 mcg IV bolus → 50 mcg/hr infusion) or terlipressin (where available); continue for 3–5 days
-4. **Antibiotic prophylaxis**: See section below
-5. **Endoscopy within 12 hours** of presentation (after hemodynamic stabilization):
-   - Esophageal varices → band ligation (EVL) preferred over sclerotherapy
-   - Gastric varices (fundal) → cyanoacrylate glue injection or refer for BRTO/TIPS
-6. **Refractory/rebleed**: Early TIPS (within 72 hours) if Child-Pugh B with active bleeding at endoscopy, or Child-Pugh C (score 10–13); reduces rebleed and may improve survival in high-risk patients
-7. **Secondary prophylaxis**: Non-selective beta-blocker (propranolol/nadolol/carvedilol) + repeat EVL until varices obliterated
+**Immediate (before endoscopy) — steps 1–4 must occur in parallel, not sequentially:**
+
+1. **Resuscitation**: Large-bore IV access × 2; airway assessment (intubate if GCS altered/aspiration risk before endoscopy). Transfuse pRBCs to target Hgb **~7 g/dL** — restrictive strategy proven superior in cirrhosis (Villa RCT). **No FFP and no platelet transfusions** based on INR or platelet count targets — no evidence of benefit; FFP may cause harm (AASLD 2023 GS 29) [[aasld-2023-portal-hypertension]].
+
+2. **Start vasoactive therapy immediately** (GS 25): do not wait for endoscopy.
+   - **Octreotide:** 50 mcg IV bolus → 25–50 mcg/hr infusion × 2–5 days
+   - **Somatostatin:** 250 mcg IV bolus → 250–500 mcg/hr × 2–5 days
+   - **Terlipressin** (not FDA approved in US): 2 mg IV q4–6h × 24–48h, then 1 mg q4–6h × 2–5 days
+   - Continue vasoactive therapy if PH bleeding confirmed on endoscopy (GS 26)
+
+3. **Start IV antibiotics immediately** (GS 27): **Ceftriaxone 1 g IV q24h up to 5 days** (preferred; especially in Child-Pugh C or high-resistance settings). Norfloxacin 400 mg PO BID × 7 days (alternative in low-resistance, Child-Pugh A/B). De-escalate once bleeding controlled and no active infection. (See antibiotic section below for duration controversy.)
+
+4. **Risk stratify** using Child-Pugh and MELD:
+   - HVPG >20 mmHg at index bleed → high-risk for treatment failure
+   - CTP class B score >7 with active bleeding at EGD → preemptive TIPS candidate
+   - CTP class C score 10–13 → preemptive TIPS candidate
+
+5. **Endoscopy within 12 hours** of presentation (GS 30):
+   - IV erythromycin 125–250 mg × 30–120 min before EGD improves visualization
+   - **Esophageal varices → EVL** (band ligation; GS 31); preferred over sclerotherapy
+   - **Gastric/fundal varices (GOV2/IGV1)** → ECI (cyanoacrylate), TIPS, or BRTO as first-line options (GS 45); do NOT band
+   - Obtain cross-sectional CT imaging in gastric/ectopic variceal bleed to define collateral anatomy (GS 44)
+   - **Uncontrolled bleeding** → covered esophageal stent or balloon tamponade as bridge to TIPS (GS 34)
+
+6. **Preemptive TIPS** (GS 32) — within **72 hours, ideally within 24 hours** of index EGD:
+   - **Indications:** CTP class B score >7 with active bleeding on endoscopy, OR CTP class C score 10–13
+   - If TIPS not locally available → transfer to capable center
+   - PREVENT and TRANSJIP-1 trials: preemptive TIPS significantly improves bleeding control and survival vs. standard pharmacologic + endoscopic therapy
+
+7. **Post-endoscopy care** (patients NOT receiving preemptive TIPS):
+   - Start **NSBB** (carvedilol 6.25 mg daily → 12.5 mg/day) at **discontinuation of vasoactive therapy** (GS 33)
+   - **Discontinue PPI** once AVH confirmed as the bleeding source (unless other indication; GS 37)
+   - Start **enteral nutrition** once AVH episode controlled; variceal bands do NOT contraindicate NG tube placement (GS 36)
+
+8. **Salvage/Rescue TIPS** (GS 35): Uncontrolled AVH despite vasoactive + EVL ("salvage") or rebleed ("rescue")
+
+9. **Secondary prophylaxis** (GS 38–39):
+   - Patients who did NOT receive preemptive TIPS: **NSBB + EVL** (repeat EVL every 2–4 weeks until obliteration)
+   - TIPS as secondary prophylaxis only when additional TIPS indication exists (e.g., refractory ascites; GS 39)
 
 ## Antibiotic Prophylaxis
 

@@ -9,7 +9,7 @@ sources: []
 
 # KHNL GI Encyclopedia — Overview
 
-For the full description of this wiki — scope, structure, therapeutic landscape, key frameworks, and evidence sources — see the **[README](../../../README.md)** at the root of the repository.
+For the full description of this wiki — scope, structure, therapeutic landscape, key frameworks, and evidence sources — see the **[README](README.md)** at the root of the repository.
 
 ---
 
