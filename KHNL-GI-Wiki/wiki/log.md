@@ -6,6 +6,83 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-05-28] ingest | AASLD 2023 Practice Guidance: Prevention, Diagnosis, and Treatment of HCC
+
+**Source:** Singal AG, Llovet JM, Yarchoan M, Mehta N, Heimbach JK, Dawson LA, et al. AASLD Practice Guidance on Prevention, Diagnosis, and Treatment of Hepatocellular Carcinoma. Hepatology 2023;78:1922–1965. DOI: 10.1097/HEP.0000000000000466
+
+**Pages created:**
+- `wiki/sources/aasld-2023-hcc.md` — complete verbatim capture of all 50 guidance statements with evidence levels and recommendation strengths; surveillance populations (Table 1); recall algorithm (Figure 5); LI-RADS CT/MRI criteria (Figure 6–8); BCLC 2022 staging table (Figure 9); surgical algorithm (Figure 10); recurrence algorithm (Figure 11); LT criteria tables (Tables 3–4); TACE/TARE-unsuitability/refractoriness criteria (Tables 5–6); systemic therapy Phase III trial efficacy data (Tables 7–8)
+
+**Pages updated:**
+- `wiki/1-disease-scripts/hepatopancreaticobiliary-diseases/hepatocellular-carcinoma.md` — major comprehensive update: complete HCC surveillance table (Table 1: cirrhosis ≥1%/yr, non-cirrhotic HBV ≥0.2%/yr, PAGE-B ≥10); full recall algorithm per US Vis score and AFP; BCLC 2022 full staging table with treatment options and expected survival per stage; LI-RADS complete category definitions with CT/MRI criteria (LR-1 to LR-TIV) and IHC markers; locoregional therapy ladder (resection→ablation→TACE→systemic) with TACE and TARE unsuitability/refractoriness criteria; systemic therapy dosing for all agents (atezo+bev, durvalumab+tremelimumab, sorafenib 400 mg BID, lenvatinib 12/8 mg QD weight-based, regorafenib, cabozantinib, ramucirumab, pembrolizumab); treatment sequencing algorithm; LT candidacy (Milan, UCSF, Up-to-Seven, Extended Toronto, Kyoto, UNOS-DS exact criteria; AFP thresholds; RETREAT score); GS 49 (no ICI post-LT); ACP guidance; adjuvant section confirmed consistent with [[aasld-2025-hcc-critical-update]] (atezo+bev contraindicated, GS 32 Revised, Strong Level 1)
+- `wiki/index.md` — HCC entry description expanded; aasld-2023-hcc added to Sources; total 89 → 90 sources
+
+**Key gaps filled over prior HCC page:**
+- BCLC 2022 staging detail (fills gap noted in task brief)
+- Sorafenib and lenvatinib dosing (fills gap noted in task brief)
+- Complete surveillance criteria table with HCC incidence rates by population
+- LI-RADS management algorithm by category
+- TACE/TARE unsuitability and refractoriness criteria
+- Weight-based lenvatinib dosing (12 mg ≥60 kg; 8 mg <60 kg)
+- Pre-atezo+bev EGD requirement and variceal management
+- GS 49: ICIs absolutely contraindicated post-LT; sorafenib/lenvatinib only
+- T1 HCC wait-and-not-ablate algorithm
+- RETREAT post-LT recurrence scoring
+- Adjuvant GS 32 original text preserved with superseded notice per 2025 update
+
+---
+
+## [2026-05-28] ingest | AASLD 2020 Alcohol-Associated Liver Disease
+
+**Source ingested:**
+- `wiki/sources/aasld-2020-ald.md` — AASLD 2019/2020 Practice Guidance: Diagnosis and Treatment of Alcohol-Associated Liver Diseases (Crabb, Im, Szabo, Mellinger, Lucey. Hepatology 2020;71:306–333). 22 guidance statements. Key content: definite/probable/possible AH consensus classification (with confounding-factor criteria); MDF ≥32 as primary corticosteroid threshold; MELD ≥20 prompts steroid consideration; prednisolone 40 mg × 28 days supported by Mathurin IPD meta-analysis (11 RCTs, n=2,111; HR 0.64, 36% risk reduction at 28 days) and STOPAH post hoc analysis; IV NAC combination "of potential benefit" (30-day improvement per Nguyen-Khac RCT and network meta-analysis of 22 RCTs); pentoxifylline explicitly abandoned (GS-19); AKI with creatinine >2.5 mg/dL = relative contraindication; GIB is NOT an absolute contraindication (prednisolone can be initiated ~5 days post-GIB); Lille score at day 7 guides continuation/cessation; early LT for severe AH non-responders endorsed (GS-22); no fixed abstinence interval for LT listing (GS-21); baclofen/acamprosate preferred AUD pharmacotherapy in ALD; PEth preferred alcohol biomarker (not affected by liver disease); PNPLA3/TM6SF2/MBOAT7 risk genes; HSD17B13 protective variant. This guideline is distinct from ACG 2024 ALD (already ingested): AASLD 2020 provides deeper AH-specific scoring, detailed steroid evidence base, STOPAH data, formal pentoxifylline abandonment, explicit GI bleeding guidance, early LT evidence summary, and comprehensive alcohol biomarker table.
+
+**Pages updated:**
+- `wiki/1-disease-scripts/hepatopancreaticobiliary-diseases/alcohol-associated-liver-disease.md` — expanded significantly. Added: AASLD 2020 three-category AH classification (definite/probable/possible) with confounding-factor criteria; natural history progression rates; revised severity section with ABIC/GAHS scores and Lille/MELD combination data; corticosteroid evidence base (STOPAH, Mathurin IPD meta-analysis) with specific GIB and AKI guidance; NAC classified per AASLD 2020 evidence tier; pentoxifylline abandonment section; expanded AUD pharmacotherapy table with 5 agents and ALD-specific hepatotoxicity data; comprehensive alcohol biomarker section (PEth/EtG/EtS/CDT performance table); AKI in AH management subsection; genetic susceptibility subsection (PNPLA3/TM6SF2/MBOAT7/HSD17B13); expanded early LT section with Mathurin + Lee multicenter survival data and SALT score; 6-month rule critique; cross-links to [[aki-in-cirrhosis]] and [[hepatic-encephalopathy]] added. Sources expanded from 2 to 5.
+- `wiki/index.md` — ALD entry updated to 5 sources description; new source entry added; total updated to 89 sources.
+
+## [2026-05-28] ingest | AASLD 2022 Practice Guidance: PSC and Cholangiocarcinoma
+
+**Source:** AASLD Practice Guidance on Primary Sclerosing Cholangitis and Cholangiocarcinoma. Bowlus CL, Arrivé L, Bergquist A, et al. Hepatology. 2023;77:659–702. DOI: 10.1002/hep.32771
+
+**Pages created:**
+- `wiki/sources/aasld-2022-psc.md` — complete verbatim capture of all 53 guidance statements; full diagnostic, surveillance, management, and CCA sections
+
+**Pages updated:**
+- `wiki/1-disease-scripts/hepatopancreaticobiliary-diseases/primary-sclerosing-cholangitis.md` — major comprehensive update; added AASLD 2022 as third source
+- `wiki/index.md` — PSC entry description updated; aasld-2022-psc added to Sources section; total count incremented to 88 sources
+
+**Key contributions (AASLD 2022 vs prior ACG 2015):**
+- Diagnostic: 3D MRI/MRCP formalized (T1w+T2w+contrast, 1.5T, 1-mm slices); ERCP explicitly contraindicated for diagnosis (GS 3)
+- New stricture terminology: dominant (ERCP-based ≤1.5 mm CBD / ≤1 mm hepatic duct) vs. high-grade (>75% reduction on MRI) vs. relevant stricture (clinically defined with symptoms)
+- Fibrosis staging: LS by TE or MRE replaces liver biopsy (GS 9–10); TE cutoffs 9.6 kPa = F3, 14.4 kPa = F4
+- Prognostic tools: Amsterdam-Oxford, UK-PSC, PRESTo, SCOPE models with calculator URLs (Table 3)
+- UDCA nuance: ≥28 mg/kg/d remains contraindicated; 13–23 mg/kg/d conditionally acceptable if persistent ALP/GGT and trial ineligible (GS 12); oral vancomycin insufficient evidence (GS 13)
+- CCA surveillance: annual MRI/MRCP ± CA 19-9 (not US alone); not recommended <18y or small-duct PSC (GS 18); FISH for all relevant strictures at ERCP (GS 19); Figure 5 stricture management algorithm embedded
+- CRC surveillance: HD colonoscopy q1–2y from age 15 in PSC-IBD (GS 22); chromoendoscopy when only SD available
+- Gallbladder: polyps ≤8 mm → US q6mo; >8 mm → cholecystectomy (GS 20)
+- LT: MELD exception criteria (recurrent cholangitis; CCA protocol); rPSC 10–37% with diagnostic criteria; Roux-en-Y preferred biliary reconstruction (GS 30–31)
+- Nutrition/bone: vitamin dosing tables; DEXA q2–3y; bisphosphonate algorithm by variceal status (GS 28–29)
+- New: comprehensive CCA management (iCCA/pCCA/dCCA); Mayo neoadjuvant LT protocol for pCCA ≤3 cm; gem/cis first-line; FOLFOX second-line; NGS at diagnosis; FGFR inhibitors (GS 32–53)
+
+---
+
+## [2026-05-28] ingest | AASLD 2018 + 2021 Primary Biliary Cholangitis guidelines
+
+**Sources ingested:**
+- `wiki/sources/aasld-2018-pbc.md` — AASLD 2018 Practice Guidance: Primary Biliary Cholangitis (Lindor et al. Hepatology 2019;69:394–419). 21 guidance statements covering diagnosis, UDCA, OCA, fibrates, pruritus management, sicca syndrome, bone disease, hyperlipidemia, portal hypertension, HCC surveillance, liver transplantation, recurrent PBC post-LT, and PBC-AIH overlap (Paris criteria).
+- `wiki/sources/aasld-2021-pbc.md` — AASLD 2021 Practice Guidance Update: PBC (Lindor et al. Hepatology 2022;75:1012–1013). Focused 2-statement revision: OCA contraindicated in advanced cirrhosis (prior/current decompensation or portal hypertension) per May 2021 FDA warning; fibrates discouraged in decompensated liver disease; careful monitoring for all cirrhotics on OCA.
+
+**Pages updated:**
+- `wiki/1-disease-scripts/hepatopancreaticobiliary-diseases/primary-biliary-cholangitis.md` — expanded from stub to full ADDT page incorporating both guidelines. Covers: diagnostic criteria (2-of-3), AMA/AMA-negative PBC (sp100/gp210/anti-kelch-like 12), histologic staging (Ludwig I–IV), GLOBE/UK-PBC prognostic scores, 8 biochemical response criteria table (Paris I/II, Rotterdam, Toronto, Barcelona, Rochester), UDCA 13–15 mg/kg/day, OCA 5→10 mg/day (POISE trial data, 2021 contraindication update), fibrates (bezafibrate BEZURSO trial, fenofibrate), pruritus stepwise ladder (resins→rifampicin→naltrexone→sertraline), fatigue (no effective Rx; NOT an LT indication), sicca syndrome management, bone disease (alendronate), hyperlipidemia (statins safe), portal hypertension in PBC (including precirrhotic NRH), HCC surveillance criteria, LT indications (MELD >14), recurrent PBC post-LT (20–50% at 10–20 years), PBC-AIH overlap (Paris criteria), pregnancy management, family screening.
+- `wiki/index.md` — PBC entry updated from stub to full ADDT description; 2 new source entries added; total updated to 87 sources.
+
+**Key clinical points:**
+- OCA contraindication was tightened in 2021: now "advanced cirrhosis" (prior/current decompensation or portal hypertension) is broader than the prior Child-Pugh B/C threshold — thrombocytopenia alone qualifies
+- Fatigue in PBC is NOT an LT indication; pruritus IS
+- Bezafibrate (BEZURSO trial) achieves 67% ALP normalization vs. 0% placebo but is unavailable in US; fenofibrate is the available off-label alternative
+- PBC-AIH overlap requires Paris criteria (ALT >5× ULN and/or IgG ≥2× ULN/anti-SMA and/or interface hepatitis on biopsy) — not merely ANA/SMA positivity alone
+
 ## [2026-05-28] lint | Extra high-effort lint pass + HE ingest
 
 **Hygiene fixes (auto-corrected):**

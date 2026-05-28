@@ -1,60 +1,99 @@
 ---
 title: "Hepatocellular Carcinoma"
 category: disease-script
-tags: [hcc, hepatocellular, liver, cancer, hpb, surveillance, cirrhosis, hbv, adjuvant, immunotherapy, liver-transplant, milan-criteria, afp, downstaging, mtor-inhibitor, sirolimus, everolimus]
+tags: [hcc, hepatocellular, liver, cancer, hpb, surveillance, cirrhosis, hbv, adjuvant, immunotherapy, liver-transplant, milan-criteria, afp, downstaging, mtor-inhibitor, sirolimus, everolimus, bclc, sorafenib, lenvatinib, atezolizumab, bevacizumab, tace, tare, ablation, resection, li-rads, locoregional]
 created: 2026-05-16
-updated: 2026-05-25
-sources: ["[[aasld-2025-hcc-critical-update]]", "[[aasld-ast-2025-liver-transplant-candidate-evaluation]]", "[[aasld-ast-2025-liver-transplant-graft-complications]]"]
+updated: 2026-05-28
+sources: ["[[aasld-2023-hcc]]", "[[aasld-2025-hcc-critical-update]]", "[[aasld-ast-2025-liver-transplant-candidate-evaluation]]", "[[aasld-ast-2025-liver-transplant-graft-complications]]"]
 ---
 
 ## Contents
 - [[#Assessment]]
   - [[#Establishing the Diagnosis]]
-  - [[#Severity Assessment]]
   - [[#HCC Surveillance]]
+  - [[#Severity Assessment — BCLC Staging]]
 - [[#Differential Diagnosis]]
 - [[#Diagnostics]]
+  - [[#LI-RADS Diagnostic Framework]]
+  - [[#Surveillance Recall Algorithm]]
+  - [[#Diagnostic Biomarkers]]
 - [[#Therapeutics]]
+  - [[#Multidisciplinary Care]]
+  - [[#Surgical Resection]]
+  - [[#Local Ablative Therapy]]
+  - [[#Locoregional Therapy — TACE and TARE]]
+  - [[#Systemic Therapy — Advanced HCC]]
   - [[#Liver Transplantation for HCC]]
   - [[#(Neo)Adjuvant Therapy After Resection or Local Ablation]]
   - [[#Management of Recurrence After Resection or Local Ablation]]
   - [[#Post-Transplant Immunosuppression for HCC Recipients]]
+  - [[#Advance Care Planning]]
 
 ---
 
-*Partially expanded. Lectures available: HCC_By_Dr_Kemichian.md, HCC_by_Kali_Zhou.md, Disparities_in_HCC_Care.md (raw/GI Lectures+Chalk Talks/). Referenced in [[chronic-hepatitis-b]] (expanded HCC surveillance criteria), [[alcohol-associated-liver-disease]], and [[hereditary-hemochromatosis]] (HCC accounts for ~45% of cirrhosis-related HH deaths; SF >2,000 ng/mL = high risk; surveillance continues after iron depletion).*
+*Lectures available: HCC_By_Dr_Kemichian.md, HCC_by_Kali_Zhou.md, Disparities_in_HCC_Care.md (raw/GI Lectures+Chalk Talks/). Referenced in [[chronic-hepatitis-b]] (expanded HCC surveillance criteria), [[alcohol-associated-liver-disease]], and [[hereditary-hemochromatosis]] (HCC accounts for ~45% of cirrhosis-related HH deaths; SF >2,000 ng/mL = high risk).*
+
+---
 
 ## Assessment
 
 ### Establishing the Diagnosis
 
-HCC is the most common primary liver cancer; arises predominantly in the setting of cirrhosis or chronic HBV infection.
+HCC is the most common primary liver cancer (75–86% of all primary liver cancers); 6th most common cancer worldwide; 3rd leading cause of cancer-related death. Arises predominantly in the setting of cirrhosis (~80% of HCC) or chronic HBV infection. Annual HCC incidence in Child-Pugh A–B cirrhosis: ~2% per year. [[aasld-2023-hcc]]
 
-**Non-invasive diagnosis (LI-RADS criteria):** In patients with cirrhosis or chronic HBV, imaging features on contrast-enhanced CT or MRI (arterial hyperenhancement + washout ± capsule) allow diagnosis without biopsy for lesions ≥1 cm.
+**Risk factors:** HBV (especially without vaccination/antiviral treatment), HCV (even post-SVR with cirrhosis), alcohol-associated cirrhosis (5-fold increased risk), NAFLD/NASH (fastest growing cause of HCC in LT candidates), tobacco, obesity/metabolic syndrome, aflatoxin B1 (with HBV). Racial and ethnic disparities exist with disproportionate burden in American Indian, Hispanic, and Black individuals.
 
-**LI-RADS categories:** LR-1 (definitely benign) → LR-5 (definitely HCC) → LR-M (probably/possibly malignant) → LR-TIV (tumor-in-vein).
+**Non-invasive diagnosis:** In patients with cirrhosis or chronic HBV, imaging features on contrast-enhanced CT or MRI (arterial hyperenhancement [APHE] + washout ± capsule) allow diagnosis without biopsy for lesions ≥1 cm. Outside of cirrhosis or at-risk HBV, pathological confirmation is required. [[aasld-2023-hcc]]
 
-*Stub — Barcelona Clinic Liver Cancer (BCLC) staging, Child-Pugh/MELD/ALBI scoring, AFP/AFP-L3/DCP biomarkers.*
+---
 
-### Severity Assessment
+### HCC Surveillance
 
-**Barcelona Clinic Liver Cancer (BCLC) staging** drives all treatment decisions:
+**Target populations for HCC surveillance (Table 1, [[aasld-2023-hcc]]):**
 
-```mermaid
-flowchart TD
-    A[HCC Diagnosis] --> B{Performance status\n& liver function}
-    B -->|PS 0, Child-Pugh A/B\nNo portal hypertension| C{Tumor burden}
-    C -->|Single ≤2 cm| D["**BCLC 0 — Very Early**\nResection or ablation\n(RFA/MWA)"]
-    C -->|Single any size\nOR ≤3 nodules ≤3 cm\nwithin Milan criteria| E["**BCLC A — Early**\nResection · Ablation · LT\n(Milan: single ≤5 cm or ≤3 lesions ≤3 cm)"]
-    C -->|Multinodular\nbeyond Milan| F["**BCLC B — Intermediate**\ncTACE or Y-90"]
-    B -->|PS 1–2, vascular invasion\nor extrahepatic spread| G["**BCLC C — Advanced**\nAtezo + bev (1st line)\nSorafenib / lenvatinib (alt)"]
-    B -->|PS 3–4 or\nChild-Pugh C| H["**BCLC D — Terminal**\nBest supportive care"]
-    style D fill:#2d6a2d,color:#fff
-    style E fill:#2d6a2d,color:#fff
-    style F fill:#8a6200,color:#fff
-    style G fill:#8a2200,color:#fff
-    style H fill:#4a4a4a,color:#fff
-```
+| Population | Annual HCC Incidence | Surveillance |
+|---|---|---|
+| **Child-Pugh A–B cirrhosis, any etiology** (HBV, HCV viremic or post-SVR, alcohol-associated, NAFLD/NASH, other) | ≥1.0%/year | US + AFP every 6 months |
+| **Child-Pugh C cirrhosis, transplant candidate** | ≥1.0%/year | US + AFP every 6 months |
+| Child-Pugh C cirrhosis, NOT LT candidate | — | No surveillance |
+| **Non-cirrhotic chronic HBV:** Male from endemic country, age >40 | ≥0.2%/year | US + AFP every 6 months |
+| **Non-cirrhotic chronic HBV:** Female from endemic country, age >50 | ≥0.2%/year | US + AFP every 6 months |
+| **Non-cirrhotic chronic HBV:** Person from Africa (earlier onset — median age 46) | ≥0.2%/year | US + AFP every 6 months |
+| **Non-cirrhotic chronic HBV:** Family history of HCC | ≥0.2%/year | US + AFP every 6 months |
+| **Non-cirrhotic chronic HBV:** PAGE-B score ≥10 | ≥0.2%/year | US + AFP every 6 months |
+| HCV post-SVR with advanced fibrosis (no cirrhosis) | <0.2%/year | Not routinely recommended |
+| Non-cirrhotic NAFLD | <0.2%/year | Not routinely recommended |
+| Life-limiting comorbidities (life expectancy <1–2 years, not LT-remediable) | — | No surveillance |
+
+**Expanded HBV surveillance criteria** (per [[chronic-hepatitis-b]], [[aasld-idsa-2025-chb-treatment]]):
+- HBV/HDV co-infection: all adults
+- HBV/HIV co-infection: men ≥18, women ≥40
+- Post-HBsAg loss in high-risk subgroups: continue surveillance per guidelines
+
+**Recommended surveillance test:** Ultrasound + AFP at semiannual (~every 6 months) intervals. This combination achieves sensitivity of 63% for early-stage HCC vs. 53% for US alone. AFP cutoff of 20 ng/mL most common threshold. CT or MRI-based surveillance not recommended routinely (Level 5, Weak); may consider MRI in patients with obesity, alcohol/NASH cirrhosis, or CTP B/C where US is suboptimal. [[aasld-2023-hcc]]
+
+Surveillance is associated with improved survival (pooled HR 0.67, 95% CI 0.61–0.72 across 12 cohort studies; Figure 3). Benefits include earlier detection, curative treatment receipt, and improved survival. Surveillance harms (~10% of patients with cirrhosis experience false-positives, most mild).
+
+---
+
+### Severity Assessment — BCLC Staging
+
+**Barcelona Clinic Liver Cancer (BCLC) 2022 Staging System** is the AASLD-recommended staging system; incorporates tumor burden, liver function (MELD, Child-Pugh, ALBI), performance status (ECOG PS), and biomarkers including AFP. [[aasld-2023-hcc]]
+
+| Stage | Prognosis Basis | Tumor Characterization | 1st Treatment Option | Expected Survival |
+|---|---|---|---|---|
+| **Very early (0)** | Single ≤2 cm; preserved liver function; PS 0 | LT candidate status; if not LT candidate → portal pressure/bilirubin | Ablation (if CSPH/bilirubin↑) or **Resection** (if normal portal pressure/bilirubin) | >5 years |
+| **Early (A)** | Single or ≤3 nodules each ≤3 cm; preserved liver function; PS 0 | Single lesion (consider LT if CSPH/bilirubin↑; resect if not); ≤3 nodules (consider LT for extended criteria patients) | **Resection**, **Ablation**, or **Transplant** | >5 years |
+| **Intermediate (B)** | Multinodular; preserved liver function; PS 0 | Well-defined nodules, preserved portal flow → TACE; diffuse/infiltrative/bilobar → likely TACE-unsuitable → consider systemic | **TACE** (or TARE as alternative) | >2.5 years |
+| **Advanced (C)** | Portal invasion and/or extrahepatic spread; PS 1–2 | — | **Atezo+bev** or **durvalumab+tremelimumab** (1st line); if ICI-contraindicated: sorafenib or lenvatinib | >2 years |
+| **Terminal (D)** | Any tumor burden; end-stage liver function; PS 3–4 | — | Best supportive care (BSC) | ~3 months |
+
+**Second-line systemic therapy:**
+- Post-atezo+bev: sorafenib or lenvatinib (preferred); or cabozantinib, regorafenib, ipilimumab+nivolumab
+- Post-durvalumab+tremelimumab: sorafenib or lenvatinib (preferred, as naïve to anti-angiogenic)
+- Post-sorafenib: regorafenib, cabozantinib, or ramucirumab (AFP ≥400 ng/mL); or pembrolizumab / ipilimumab+nivolumab
+- Third line: cabozantinib
+- Enroll in clinical trials at any line
 
 *Note: Adjuvant/neoadjuvant systemic therapy after resection or ablation is NOT recommended — see Therapeutics below.*
 
@@ -62,91 +101,317 @@ flowchart TD
 
 ## Differential Diagnosis
 
-- Cholangiocarcinoma (intrahepatic) — typically hypovascular; may require biopsy
-- [[hepatocellular-adenoma]] — no washout, gadoxetate hepatobiliary phase uptake
-- [[focal-nodular-hyperplasia]] — central scar, gadoxetate uptake
-- Metastasis — multiple lesions, known primary; portal venous enhancement pattern
-- Hemangioma — see [[hepatic-hemangioma]]; T2 bright, centripetal fill
+- Cholangiocarcinoma (intrahepatic) — typically hypovascular; may require biopsy; LR-M on LI-RADS
+- [[hepatocellular-adenoma]] — no washout; gadoxetate hepatobiliary phase uptake; β-catenin subtype rare malignant transformation
+- [[focal-nodular-hyperplasia]] — central scar; gadoxetate uptake; LR-1 or LR-2
+- [[hepatic-hemangioma]] — T2 bright, centripetal fill-in; no APHE
+- Metastasis — multiple lesions; known primary; portal venous enhancement pattern; LI-RADS not applicable
+- Dysplastic nodules — iso/hypovascular; precursor lesion; LR-3 or LR-4
+- Biliary cysts — see [[hepatic-cysts]]
 
 ---
 
 ## Diagnostics
 
-*Stub — contrast-enhanced CT (triphasic), gadoxetate-enhanced MRI (preferred), AFP/DCP, liver biopsy for indeterminate lesions, EUS-FNA for hilar nodes if staging needed.*
+### LI-RADS Diagnostic Framework
 
-### HCC Surveillance
+**LI-RADS applicability (Figure 7, [[aasld-2023-hcc]]):**
+- Apply LI-RADS in: cirrhosis (any etiology, except pure vascular/cardiogenic — biopsy those); chronic HBV with intermediate/high HCC risk (PAGE-B ≥10); history of prior HCC
+- Do NOT apply LI-RADS in: non-cirrhotic patients without HBV; cardiogenic or vascular etiologies of cirrhosis (insufficient LI-RADS validation)
+- LI-RADS not validated in non-cirrhotic HBV with PAGE-B ≤9 — biopsy recommended for those
 
-Surveillance is recommended for patients at sufficient HCC risk. See expanded criteria in [[chronic-hepatitis-b]] (AASLD/IDSA 2025):
+**LI-RADS categories and management:**
 
-| Population | Surveillance |
-|---|---|
-| Cirrhosis (any etiology, including [[hereditary-hemochromatosis]]) | US ± AFP q6 months; continue after iron depletion |
-| Chronic HBV without cirrhosis: Asian males ≥40, Asian females ≥50, African/North American Blacks ≥20, family history HCC | US ± AFP q6 months |
-| HBV/HDV co-infection | Yes — all adults |
-| HBV/HIV co-infection | Men ≥18, women ≥40 |
-| Post-HBsAg loss (high-risk subgroups) | Continue per [[chronic-hepatitis-b]] criteria |
+| Category | HCC Probability | Management |
+|---|---|---|
+| **LR-1** (Definitely benign) | 0% | Return to US-based surveillance in 6 months |
+| **LR-2** (Probably benign) | Low | Return to US-based surveillance in 6 months |
+| **LR-3** (Intermediate) | 20–40% | Repeat/alternative diagnostic imaging in 3–6 months; return to US surveillance if prolonged stability |
+| **LR-4** (Probably HCC) | 60–70% | Multidisciplinary discussion; repeat imaging in ≤3 months OR immediate biopsy; biopsy preferred if diagnosis will impact management |
+| **LR-5** (Definitely HCC) | ~95% | HCC confirmed; multidisciplinary discussion for tailored workup; biopsy optional (for MDM confirmation or molecular analysis) |
+| **LR-M** (Probably/possibly malignant, not HCC-specific) | ~35% HCC; 93–100% malignant on sampling but only 29–44% HCC | Biopsy required — rim APHE suggests non-HCC malignancy |
+| **LR-TIV** (Tumor in vein) | Lower HCC probability than LR-5; biopsy recommended | Multidisciplinary discussion |
+
+**LI-RADS CT/MRI major features for LR-5 designation:**
+- **Arterial phase hyperenhancement (APHE)** — required for LR-5 (except threshold growth)
+- **Nonperipheral washout** — additional major feature
+- **Enhancing capsule** — additional major feature
+- **Threshold growth** (≥50% increase in ≤6 months) — additional major feature
+
+*LR-5 criteria by size:*
+- **≥20 mm:** APHE + any 1 additional major feature
+- **10–19 mm:** APHE + washout OR APHE + 2 additional major features
+
+**Imaging modality:** MRI sensitivity 82%, specificity 92% vs. CT sensitivity 66%, specificity 91% — both equally recommended. CEUS second-line when MRI/CT unavailable, inconclusive, or contraindicated. Extracellular and hepatobiliary MRI contrast agents equally recommended. [[aasld-2023-hcc]]
+
+**Pathological diagnosis (IHC markers for HCC):** Positive staining in ≥2 of 4 markers is highly specific: Glypican-3 (GPC3), glutamine synthetase, HSP70, clathrin heavy chain. Additional: K19 and EpCAM (progenitor cell features); CD34 (neovascularization).
+
+---
+
+### Surveillance Recall Algorithm
+
+**Recall algorithm based on US visualization and AFP (Figure 5, [[aasld-2023-hcc]]):**
+
+1. **Vis score A, no lesion, AFP normal** → Repeat US at 6 months
+2. **Vis score B or lesion <1 cm on US, AFP normal** → US in 3–6 months
+   - Stable on ≥2 exams → return to semiannual surveillance
+   - Growth → diagnostic multiphasic MRI or CT
+3. **Vis score C (limited visualization; no lesion or <1 cm)** → Screening contrast-enhanced MRI or multiphasic CT (repeat US can be considered)
+4. **Lesion ≥1 cm on US** → Diagnostic contrast-enhanced multiphasic MRI or CT
+5. **AFP ≥20 ng/mL (even without lesion on US)** → Diagnostic contrast-enhanced multiphasic MRI or CT
+6. **Rising AFP on 2 consecutive tests or doubling** → Diagnostic multiphasic MRI or CT
+
+If no lesion found but AFP significantly elevated (≥200 ng/mL) without explanation: alternative CT/MRI modality ± chest/pelvic CT. If still negative, consider PET CT.
+
+---
+
+### Diagnostic Biomarkers
+
+- **AFP:** Diagnostic threshold of 400 ng/mL no longer recommended for HCC diagnosis (>40% of HCC have normal AFP; elevated in intrahepatic CCA, gastric cancer, germ cell tumors). AFP is used for surveillance recall (threshold ≥20 ng/mL) and transplant eligibility (must be <1000 ng/mL; if ever ≥1000, must fall to <500 ng/mL with LRT). AFP ≥400 ng/mL = eligibility criterion for ramucirumab. [[aasld-2023-hcc]]
+- **AFP-L3 (Lens culinaris lectin subfraction):** FDA-approved for risk stratification (not HCC diagnosis); sensitivity 62%, specificity 90%; insufficient alone for early HCC detection.
+- **DCP (Des-gamma carboxyprothrombin / PIVKA-II):** FDA-approved for risk stratification (not diagnosis); sensitivity 40%, specificity 81%.
+- **GALAD score** (Gender, Age, AFP-L3%, AFP, DCP): sensitivity 54–72%, specificity 90%; Phase 3 HEDS study validation data available; not yet recommended for routine practice.
+- **Liquid biopsy / ctDNA:** Investigational; insufficient data to recommend for routine clinical use.
+- **AFP alone or liquid biopsy are NOT recommended for HCC diagnosis** (Level 3, Weak Recommendation). [[aasld-2023-hcc]]
 
 ---
 
 ## Therapeutics
 
-*Stub — BCLC-stage-driven algorithm: resection (BCLC 0/A, preserved liver function), ablation (RFA/MWA ≤3 cm), liver transplantation (Milan criteria), TACE (BCLC B), systemic therapy (atezolizumab+bevacizumab first-line for advanced disease, sorafenib alternative), palliative care. Note: ICI-based regimens carry hepatotoxicity risk — see [[immune-checkpoint-inhibitor-hepatitis]].*
+### Multidisciplinary Care
+
+All patients with HCC should be discussed and managed in a multidisciplinary care setting (**GS 27, Level 3, Strong Recommendation**). MDT tumor board changes imaging interpretation in 18.4%, histological interpretation in 10.9%, and management plans in 41.7% of patients. Core disciplines: hepatology, radiology, pathology, interventional radiology, transplant and hepatobiliary surgery, medical/radiation/surgical oncology. [[aasld-2023-hcc]]
+
+---
+
+### Surgical Resection
+
+**Patient selection (GS 28–29, [[aasld-2023-hcc]]):**
+- **Non-cirrhotic HCC:** Surgical resection is the treatment of choice (**Level 2, Strong Recommendation**). 5-year survival >70%; postoperative mortality <3%.
+- **Cirrhotic HCC (BCLC 0/A):** Resection is treatment of choice for limited tumor burden, well-compensated cirrhosis **without clinically significant portal hypertension (CSPH)**, and adequate future liver remnant (FLR) (**Level 2, Strong Recommendation**).
+  - CSPH defined as HVPG ≥10 mmHg; clinical surrogates: varices, splenomegaly, platelets <100 × 10⁹/L, hepatic venous pressure gradient >10 mmHg
+  - Adequate FLR: typically **>30%** in absence of cirrhosis; **>40%** in cirrhotic patients
+  - Assessment of FLR: contrast-enhanced CT or MRI volumetry; if FLR inadequate → portal vein embolization to augment contralateral hepatic lobe
+
+**Extended resection indications (beyond BCLC 0/A):**
+- Data support surgical resection in select multinodular HCC beyond Milan at high-volume centers (meta-analysis of 18 studies: HR 0.56, 95% CI 0.35–0.90 vs. TACE in BCLC B)
+- Multifocal HCC and resection with PVTT: controversial; supported by Asian data for selected patients (Vp1/Vp2 segmental thrombus); perform only at high-volume centers with MDT discussion
+
+**Minimally invasive surgery (GS 30, Level 3, Weak):** Laparoscopic/robotic hepatectomy may enhance recovery in selected patients; permits surgery in patients with mild portal hypertension for minor liver resection; major hepatectomy via MIS only at high-volume, experienced centers.
+
+**Postoperative surveillance (GS 31, Level 3, Strong):** Contrast-enhanced multiphasic CT or MRI every 3–6 months for all patients; AASLD recommends indefinite surveillance (optimal duration unknown).
+
+---
+
+### Local Ablative Therapy
+
+**GS 38–40, [[aasld-2023-hcc]]:**
+- **Solitary tumors ≤5 cm, ineligible for/declining surgery:** Treat with curative intent using local ablative therapies (**Level 1, Strong Recommendation**).
+- **Early-stage HCC ≤3 cm, ineligible for/declining surgery:** Thermal ablation (RFA or microwave ablation) is treatment of choice (**Level 1, Strong Recommendation**).
+  - Ablation yields OS/RFS of 76%/~46% at 3 years for unifocal HCC ≤3 cm.
+  - RFA vs. resection: equivalent for tumors <2 cm; resection has superior survival for tumors >2 cm.
+  - No advantage of one thermal ablation modality over another (RFA vs. MWA — MWA less susceptible to heat sink effects near large vessels).
+- **HCC >3 cm, BCLC A, not surgical candidate:** Targeted radioembolization (radiation segmentectomy/TARE-Y90) or EBRT as alternatives (**Level 3, Strong Recommendation**).
+  - HCC adjacent to large vessels, diaphragm, heart, or central bile ducts: EBRT or radiation segmentectomy preferred over thermal ablation.
+  - Ablation for HCC >3 cm: lower ORR, higher recurrence, worse OS than smaller tumors.
+
+**EBRT/SBRT:** Delivered in ≤5 fractions; avoid in patients with significant liver dysfunction (CTP ≥8, uncontrolled ascites, uncontrolled HE); avoid for tumors adjacent to stomach/bowel (ulceration risk).
+
+**Post-ablation response assessment:** Multiphasic CT or contrast-enhanced MRI approximately 6 weeks after treatment. CEUS can be used after ablation to assess for residual viable disease and enable retreatment.
+
+---
+
+### Locoregional Therapy — TACE and TARE
+
+**TACE (Transarterial Chemoembolization):**
+- **GS 41:** Patients with BCLC Stage B HCC should be treated with TACE (**Level 1, Strong Recommendation**). [[aasld-2023-hcc]]
+- ORR: 52.5% (95% CI 43.6–61.5%); median OS 19.4 months (systematic review, 101 studies).
+- Conventional TACE (c-TACE/lipiodol-based) and drug-eluting bead TACE (DEB-TACE) have similar efficacy and safety; no one approach consistently superior.
+- **GS 43:** Perform in selective/segmental fashion (not lobar) to minimize hepatic dysfunction (**Level 5, Strong Recommendation**).
+- **GS 44:** Do not combine systemic therapy with transarterial therapies for BCLC B HCC outside of clinical trial (**Level 2, Strong Recommendation**). Phase II/III RCTs examining TACE+immunotherapy are ongoing.
+- **GS 45:** Switch to systemic therapy in patients with intermediate HCC unsuitable for or refractory to TACE (**Level 3, Strong Recommendation**).
+
+**TACE unsuitability factors:**
+| Domain | Factor |
+|---|---|
+| Tumor size | Beyond UNOS-DS criteria |
+| Tumor appearance | Multinodular, bilobar, >50% liver involvement; infiltrative/nodular with poorly defined margins |
+| Tumor marker | Marked AFP elevation (risk of metastatic spread/poor response) |
+| PVTT | Large vessel involvement: main PVTT/Vp4 or hepatic vein thrombus |
+| Liver function | ALBI 2–3 especially if tumor exceeds segmental treatment zone; deteriorating liver function over time |
+
+**TACE/TARE-refractory criteria:**
+- Lack of objective response: >50% definite viable disease after 2 TACE treatments or 1 TARE treatment
+- Development of new HCC within treatment zone after 2 consecutive TACE
+- No AFP improvement after 2 consecutive TACE or 1 TARE
+- Stage migration: new vascular invasion or extrahepatic metastases
+
+**TARE / Y90 Radioembolization:**
+- **GS 42:** TARE is an alternative to TACE in BCLC B HCC (**Level 3, Strong Recommendation**).
+- FDA-approved 2021 (LEGACY study): ORR 88.3% (mRECIST best response); durable response ≥6 months in 76.1%; solitary HCC up to 8 cm in CTP-A cirrhosis.
+- Y90 preferred for solitary lesions ≤8 cm, subcapsular tumors, and tumors near critical structures; also effective as bridging therapy to LT.
+- TRACE phase II trial (Y90 glass microspheres vs. DEB-TACE): improved TTP (17.1 vs. 9.5 months) and OS (median 30.2 vs. 15.6 months) with TARE.
+- Personalized dosimetry goal >205 Gy to targeted area: superior response rates (DOSISPHERE-01).
+
+**Y90 unsuitability factors:**
+- Lung shunt >25 Gy in single treatment or >30 Gy cumulative
+- Non-target infusion including gastric/duodenal branches not correctable
+- PVTT: large vessel main PVTT/Vp4 or hepatic vein thrombus; inability to deliver boosted dose in PVTT on ⁹⁹ᵐTc scan
+- Liver function: ALBI 2–3 if tumor exceeds segmental zone; deteriorating liver function
+
+**Radiological assessment of response (Figure 14):**
+- After TACE: multiphasic CT or MRI ~6 weeks post-treatment
+- After TARE or EBRT: imaging ~12 weeks post-treatment
+- mRECIST is the standard tool for locoregional therapy response; RECIST 1.1 used for systemic therapy
+- TACE-complete response confirmed at 3 months: repeat imaging in 3 months
+- TACE-partial response or stable disease: retreat; if >50% residual disease → TACE refractory → assess for systemic therapy
+- Progressive disease with new intrahepatic HCC: assess for systemic therapy; with vascular invasion/distant spread: assess systemic therapy
+
+---
+
+### Systemic Therapy — Advanced HCC
+
+**Indication:** BCLC Stage C (portal invasion, extrahepatic spread, or PS 1–2) or BCLC B patients with TACE-contraindication, TACE unsuitability, or TACE/TARE refractoriness. Child-Turcotte-Pugh A preferred; selected CTP B patients may be considered. [[aasld-2023-hcc]]
+
+**Contraindications to ICI-based regimens:**
+- Active moderate-to-severe autoimmune disease
+- Post-liver transplant (graft loss and death risk — GS 49, Level 4, Strong) → use sorafenib or lenvatinib
+- Recent GI/esophageal bleed within 6 months and high-risk stigmata → prefer durvalumab+tremelimumab or sorafenib/lenvatinib
+
+**Pre-treatment requirement for atezo+bev:** EGD to assess for high-risk variceal/GI bleed stigmata (GS 46a-i, Level 5, Strong). Patients with large varices: at least one variceal band ligation session prior to initiation; carvedilol may be considered as alternative variceal management.
+
+---
+
+#### First-Line Systemic Therapy Dosing
+
+| Drug | Dose | Key Trial | Median OS | Notes |
+|---|---|---|---|---|
+| **Atezolizumab + Bevacizumab** | Atezo 1200 mg IV q3w + Bev 15 mg/kg IV q3w | IMbrave150 | 19.2 vs. 13.4 mo (HR 0.66) | Preferred 1st line (CTP A); EGD required pre-treatment; bevacizumab AEs: proteinuria, hypertension, GI bleed |
+| **Durvalumab + Tremelimumab** (STRIDE) | Durvalumab 1500 mg IV + tremelimumab 300 mg IV (single priming dose), then durvalumab 1500 mg IV q4w | HIMALAYA | 16.4 vs. 13.8 mo (HR 0.78) | Preferred 1st line, particularly with high GI bleed risk or anti-VEGF contraindication; 36-mo OS rate 30.7% vs. 20.2% |
+| **Sorafenib** | 400 mg orally twice daily; reduce to 400 mg once daily or 400 mg every other day for toxicity | SHARP | 10.7 vs. 7.9 mo | Standard for CTP A if ICI-contraindicated (GS 46b, Level 1, Strong); CTP B (GS 47, Level 3, Weak); post-LT recurrence |
+| **Lenvatinib** | **≥60 kg: 12 mg orally once daily; <60 kg: 8 mg orally once daily** | REFLECT | 13.6 vs. 12.3 mo (non-inferior) | Standard for CTP A if ICI-contraindicated (GS 46b, Level 1, Strong); CTP B (GS 47, Level 3, Weak); post-LT recurrence; hypothyroidism monitoring required |
+| **Durvalumab (monotherapy)** | 1500 mg IV q4w | HIMALAYA (durvalumab arm) | 16.6 vs. 13.8 mo (HR 0.86, non-inferior) | CTP A patients unable to receive combination therapy |
+
+**First-line adverse event profiles:**
+- **Atezo+bev:** Hypertension (30%), fatigue (20%), proteinuria (20%), AST increase (20%), pruritus (20%), diarrhea (19%)
+- **Durvalumab+tremelimumab:** Diarrhea (27%), pruritus (23%), rash (22%), decreased appetite (17%), fatigue (17%); serious irAEs: 12.6%
+- **Sorafenib:** PPE (hand-foot skin reaction, 48%), diarrhea (49%), hypertension (24%), decreased appetite (24%), fatigue (19%), AST increase (17%)
+- **Lenvatinib:** Hypertension (42%), weight decrease (31%), diarrhea (39%), decreased appetite (34%), fatigue (30%), PPE (27%), hypothyroidism (16%), proteinuria (25%)
+
+---
+
+#### Second-Line and Beyond Systemic Therapy Dosing
+
+| Drug | Dose | Key Trial | Median OS | Indication/Eligibility |
+|---|---|---|---|---|
+| **Regorafenib** | 160 mg orally once daily × 21 days on, 7 days off | RESORCE | 10.6 vs. 7.8 mo (HR 0.63) | Post-sorafenib 2nd line; must have tolerated sorafenib (≥400 mg/day ≥20 of last 28 days) |
+| **Cabozantinib** | 60 mg orally once daily | CELESTIAL | 10.2 vs. 8.0 mo (HR 0.76) | 2nd or 3rd line post-sorafenib; only Phase III data evaluating 3rd-line treatment |
+| **Ramucirumab** | 8 mg/kg IV every 2 weeks | REACH-2 | 8.5 vs. 7.3 mo (HR 0.71) | Post-sorafenib, AFP ≥400 ng/mL only |
+| **Pembrolizumab** | 200 mg IV every 3 weeks | KEYNOTE-240/-394 | 13.9 vs. 10.6 mo (Phase III, OS HR 0.78 trended but primary endpoint missed in KEYNOTE-240) | 2nd line; no prior anti-PD1/PD-L1 exposure; FDA accelerated approval |
+| **Nivolumab + Ipilimumab** | Nivo 1 mg/kg + Ipi 3 mg/kg IV q3w × 4 doses, then nivo 240 mg IV q2w | CheckMate 040 (Phase II) | 22.8 mo (median; single arm) | 2nd line post-sorafenib; ORR 32%; 53% serious treatment-related AEs; under Phase III investigation |
+| **Sorafenib or Lenvatinib** | (see above) | — | — | 2nd line after atezo+bev or durvalumab+tremelimumab (preferred if not eligible for clinical trials); 1st-line after post-LT recurrence |
+
+**Treatment sequencing algorithm (Figure 16, [[aasld-2023-hcc]]):**
+1. **Contraindication to ICIs?** (autoimmune disease, post-LT) → Sorafenib or lenvatinib (1st line) → nivo+ipi or pembrolizumab (2nd line)
+2. **No ICI contraindication: high GI/esophageal bleed risk?** → Durvalumab+tremelimumab (1st line) → sorafenib or lenvatinib (2nd line; naïve to anti-angiogenic)
+3. **No ICI contraindication, no high bleed risk** → Atezo+bev (1st line; after EGD) → regorafenib/cabozantinib/ramucirumab (2nd line)
+
+Post-LT patients: NEVER use ICI-based therapy (graft loss/death risk); use sorafenib or lenvatinib only.
+
+---
 
 ### Liver Transplantation for HCC
 
-Per [[aasld-ast-2025-liver-transplant-candidate-evaluation]] (Recs 5–8):
+**Standard eligibility (GS 33, [[aasld-ast-2025-liver-transplant-candidate-evaluation]]):**
+- LT is the treatment of choice for transplant-eligible patients with early-stage HCC with CSPH and/or decompensated cirrhosis (**Strong, Level 2**)
+- **Milan criteria** (single lesion ≤5 cm OR ≤3 lesions each ≤3 cm; no macrovascular invasion; no extrahepatic spread) — standard for listing (**Strong, Level 2**)
+- Post-LT survival: median 10 years; ~10% recurrence incidence vs. 50–60% with resection/ablation
 
-**Eligibility:**
-- All patients with HCC **without extrahepatic metastases** should be evaluated for LT (Strong, Level 1)
-- **Milan criteria** (single lesion ≤5 cm or ≤3 lesions each ≤3 cm, no macrovascular invasion, no extrahepatic spread) remain the standard for transplant listing (Strong, Level 2)
-- HCC beyond Milan: reserve for patients demonstrating **favorable tumor biology**; downstaging to within Milan criteria using locoregional therapy is acceptable (Strong, Level 2)
+**AFP eligibility thresholds (per [[aasld-ast-2025-liver-transplant-candidate-evaluation]]):**
+- AFP must be **<1000 ng/mL** at time of transplantation
+- If AFP was ever ≥1000 ng/mL, must fall to **<500 ng/mL** (using locoregional HCC therapy) before proceeding
 
-**Pre-transplant imaging workup** (Strong, Level 2):
-- Multiphasic contrast-enhanced abdominal CT or MRI — interpreted at a transplant center
-- Staging CT chest to rule out thoracic metastases
-- Abdominal imaging from community settings should be re-reviewed at a UNOS transplant center
+**Expanded criteria (Table 3, [[aasld-2023-hcc]]):**
 
-**AFP requirements** (Strong, Level 2):
-- AFP must be **<1000 ng/mL** prior to transplantation
-- If AFP was ever >1000 ng/mL, it must be brought down to **<500 ng/mL** (using locoregional HCC therapy) prior to proceeding
+| Criteria | Definition | Post-LT Survival |
+|---|---|---|
+| **UCSF** | 1 tumor ≤6.5 cm OR 2–3 tumors each ≤4.5 cm with total volume ≤8 cm | 81% 5-year |
+| **Total tumor volume <115 cm³** | Sum of volume for each tumor ≤115 cm³ | 75% 4-year |
+| **Up-to-seven** | Diameter of largest tumor (cm) + number of tumors ≤7 | 71% 5-year |
+| **Extended Toronto** | Biopsy demonstrating well-to-moderate differentiation; ECOG PS 0–1 | 68% 5-year |
+| **Kyoto** | ≤10 tumors; each ≤5 cm max diameter; DCP ≤400 mAU/mL | 65% 5-year |
+
+**UNOS Downstaging Criteria (UNOS-DS, Table 4, [[aasld-2023-hcc]]):**
+*Inclusion criteria (must meet one):*
+- Single lesion 5.1–8 cm
+- 2–3 lesions each ≤5 cm with sum of maximal tumor diameters ≤8 cm
+- 4–5 lesions each ≤3 cm with sum of maximal tumor diameters ≤8 cm
+- AND absence of vascular invasion or extrahepatic disease
+
+*Successful downstaging criteria:* Residual tumor size within Milan criteria (1 lesion ≤5 cm, 2–3 lesions ≤3 cm); only viable tumor counted (necrosis excluded); AFP >1000 must fall to <500 ng/mL.
+
+*Downstaging failure/exclusion from LT:*
+1. Progression beyond inclusion criteria
+2. Tumor invasion of a major hepatic vessel
+3. Lymph node involvement or extrahepatic spread
+4. Infiltrative growth pattern
+5. Persistent AFP >500 ng/mL (if prior AFP ≥1000 ng/mL)
+
+*Timing:* Minimum 3-month disease stability observation period after successful downstaging; per UNOS policy, remain within Milan criteria for 6 months before MELD exception.
+
+**Pre-transplant workup (Strong, Level 2, [[aasld-ast-2025-liver-transplant-candidate-evaluation]]):**
+- Multiphasic contrast-enhanced abdominal CT or MRI — reviewed at transplant center
+- Staging CT chest to exclude thoracic metastases
+- Re-review of community imaging at UNOS transplant center
 
 **Waitlist management:**
-- Serial abdominal staging every 3 months while awaiting transplant; CT chest staging every 6–12 months
-- 6-month observation period on waitlist required before MELD exception for HCC (per UNOS); exception: patients with complete response after T1 or T2 HCC following surgery or locoregional therapy who recur within 6–60 months may receive MELD exception without the 6-month wait (NLRB review)
-- Bridging locoregional therapies (TACE, RFA, SBRT) maintain patients within transplantation criteria and assess tumor biology
+- Serial abdominal staging every 3 months while awaiting LT; CT chest every 6–12 months
+- 6-month observation period before MELD exception (exception: T1/T2 HCC recurrence within 6–60 months post-curative therapy → no 6-month wait required, NLRB review)
+- Bridging LRT (TACE, RFA, SBRT, TARE): maintain within LT criteria and assess tumor biology; no one modality recommended over another; systemic therapy bridging does not preclude eligibility but is not routinely recommended
+- ICIs prior to LT: discontinue at least **3 months** before LT
 
-**Portal vein tumor invasion (PVTT):**
-- Transplantation may be feasible after complete resolution of thrombus with locoregional or systemic treatment; insufficient data to recommend routinely; evaluate case-by-case
+**Living donor LT (LDLT):** Increasing use in US; LDLT + HCC provides improved survival vs. deceased donor LT on intention-to-treat basis (reduced waitlist dropout); suitable for patients beyond standard criteria on case-by-case basis.
 
-**Patients with extrahepatic HCC:** Not candidates for LT
+**T1 HCC management (Figure 13, [[aasld-2023-hcc]]):**
+- T1 HCC (single LI-RADS 5 lesion <2 cm): LT candidate status → if yes: wait-and-not-ablate (monitor with multiphase CT/MRI abdomen + AFP every 2–3 months until T2 criteria); if AFP >100–500 ng/mL or not LT candidate → immediate ablation
+- Ablation-first for T1 HCC in patients with decompensated cirrhosis requiring LT but not yet criteria for MELD exception, to slow tumor progression; immediate LRT if AFP significantly elevated
+
+**Post-transplant surveillance (GS 37, Level 2, Strong):** Multiphasic contrast-enhanced abdominal CT or MRI + chest CT scan. Optimal timing uncertain; risk stratification scores (RETREAT) may guide intervals. Lung ~40% and liver ~33% are most common recurrence sites. [[aasld-2023-hcc]]
+
+**RETREAT score** (post-LT recurrence risk): incorporates AFP at LT, vascular invasion, sum of viable tumor diameter and number of tumors on explant. RETREAT 0 = <3% 5-year recurrence; RETREAT ≥5 = 75% 5-year recurrence.
+
+---
 
 ### (Neo)Adjuvant Therapy After Resection or Local Ablation
 
-**Standard of care: active surveillance.** As of 2025, there are no FDA-approved adjuvant or neoadjuvant systemic therapies for HCC. Surveillance for recurrence is the current standard of care after resection or local ablation with the intention of cure — including in patients with high risk of recurrence. [[aasld-2025-hcc-critical-update]]
+**Standard of care: active surveillance.** As of 2025, there are no FDA-approved adjuvant or neoadjuvant systemic therapies for HCC. Active surveillance is the current standard of care after resection or local ablation with the intention of cure — including in patients with high risk of recurrence. [[aasld-2025-hcc-critical-update]]
 
-**AASLD advises against adjuvant and neoadjuvant systemic therapy** (Guidance Statement 32, Revised; Level 1, Strong Recommendation). This recommendation is based on:
+**AASLD advises AGAINST adjuvant and neoadjuvant systemic therapy** (Guidance Statement 32 Revised; Level 1, Strong Recommendation, [[aasld-2025-hcc-critical-update]]). This recommendation is based on:
 
-- **IMbrave050 (phase III RCT):** Adjuvant atezolizumab+bevacizumab vs. active surveillance in high-risk HCC after resection/ablation. At the first interim analysis (median follow-up 17.4 months), a positive RFS result was reported (HR=0.72, 95% CI: 0.56–0.93; 12-month RFS 78% vs. 65%). However, at the second interim analysis (median follow-up 35.1 months), this benefit was **not sustained** (HR=0.90, 95% CI: 0.72–1.12). Overall survival remained non-significant and immature (OS HR=1.26, 95% CI: 0.85–1.87; >80% alive at 2 years in both arms). The risk/benefit ratio does not support adjuvant use.
-- **STORM trial (adjuvant sorafenib):** No improvement in RFS versus placebo (HR=0.94, 95% CI: 0.78–1.13).
-- **Preoperative TACE** in patients with large resectable HCC does not improve RFS and may increase risk of interval tumor progression, precluding surgical resectability.
-- **HCV eradication** with direct-acting antivirals does not increase HCC recurrence risk and improves survival — this is appropriate co-management but is not a tumor-directed adjuvant strategy.
+- **IMbrave050 (phase III RCT):** Adjuvant atezolizumab+bevacizumab vs. active surveillance in high-risk HCC after resection/ablation (high-risk = tumor size >5 cm, >3 tumors, microvascular or macrovascular invasion, poor tumor differentiation). At the **first interim analysis** (median f/u 17.4 months): positive RFS result (HR=0.72, 95% CI 0.56–0.93; 12-month RFS 78% vs. 65%). At the **second interim analysis** (median f/u 35.1 months): benefit **not sustained** (HR=0.90, 95% CI 0.72–1.12). OS remained non-significant and immature (HR=1.26, 95% CI 0.85–1.87; >80% alive at 2 years in both arms). Risk/benefit does not support adjuvant use. [[aasld-2025-hcc-critical-update]]
+- **STORM trial (adjuvant sorafenib):** No improvement in RFS vs. placebo (HR=0.94, 95% CI 0.78–1.13). [[aasld-2023-hcc]]
+- **Preoperative TACE** in patients with large resectable HCC: does not improve RFS; may increase risk of interval tumor progression precluding surgical resectability. [[aasld-2023-hcc]]
+- **HCV eradication** with DAAs: does not increase HCC recurrence risk and improves survival — appropriate co-management but is not a tumor-directed adjuvant strategy. [[aasld-2023-hcc]]
 
-**Neoadjuvant systemic therapy:** Early-phase proof-of-principle studies are promising (neoadjuvant cabozantinib+nivolumab achieved margin-negative resection in 80% and major pathologic response in 42% of 15 patients; nivolumab±ipilimumab yielded 30% major pathologic response in 20 resected patients), but current data do not support routine neoadjuvant use. Phase II–III RCTs are ongoing.
+**Neoadjuvant systemic therapy:** Early-phase proof-of-principle data exist (neoadjuvant cabozantinib+nivolumab: margin-negative resection in 80%, major pathologic response in 42% of 15 patients; nivolumab ± ipilimumab: 30% major pathologic response in 20 resected patients) but do not support routine use. Phase II–III RCTs ongoing. [[aasld-2023-hcc]]
 
-**Ongoing adjuvant trials** (results pending): KEYNOTE-937 (pembrolizumab), CheckMate-9DX (nivolumab), EMERALD-2 (durvalumab+bevacizumab), camrelizumab+apatinib. (Neo)adjuvant therapies should be considered only in the context of a clinical trial.
+**Ongoing adjuvant trials** (results pending): KEYNOTE-937 (pembrolizumab), CheckMate-9DX (nivolumab), EMERALD-2 (durvalumab+bevacizumab), camrelizumab+apatinib. (Neo)adjuvant therapies should be offered only in the context of a clinical trial.
+
+---
 
 ### Management of Recurrence After Resection or Local Ablation
 
-Per the AASLD 2025 revised Figure 11, post-resection/ablation recurrence is managed by recurrence pattern:
-
-![[hcc-2025-recurrence-algorithm-2.png]]
-*Figure 11 (Revised) — Management of HCC recurrence after complete response to resection or local ablation. ([[aasld-2025-hcc-critical-update]])*
+Per the AASLD 2025 revised Figure 11 ([[aasld-2025-hcc-critical-update]]), post-resection/ablation recurrence is managed by recurrence pattern:
 
 | Recurrence Pattern | Recommended Approach |
 |---|---|
-| Within Milan Criteria | Salvage liver transplantation (for eligible patients) |
-| Liver-localized beyond Milan, within downstaging criteria | Liver-directed therapy; consider liver transplantation if successfully downstaged |
+| Within Milan criteria | Salvage liver transplantation (for eligible patients) |
+| Liver-localized beyond Milan, within downstaging criteria | Liver-directed therapy (TACE/TARE/ablation); consider LT if successfully downstaged |
 | Vascular invasion, extrahepatic spread, or TACE-unsuitable disease | First-line systemic therapy |
+
+**Recurrence during or shortly after adjuvant therapy** (now moot given GS 32 reversal): would have been treated as atezolizumab+bevacizumab failure → alternative systemic therapy options. For late recurrence (>6 months after stopping therapy): first-line systemic therapy including possible atezo+bev. [[aasld-2023-hcc]]
+
+---
 
 ### Post-Transplant Immunosuppression for HCC Recipients
 
@@ -156,13 +421,40 @@ Per [[aasld-ast-2025-liver-transplant-graft-complications]] (Rec 32, Weak, Level
 
 Key evidence:
 - Meta-analysis of 17 observational studies + 6 RCTs: mTOR inhibitor-based IS reduces HCC recurrence overall (RR 0.67, 95% CI 0.56–0.82) and improves 3-year RFS in within-Milan cases (RR 1.13, 95% CI 1.03–1.23)
-- **Sirolimus (SRL)**: 2 mg/day after month 1; trough 4–10 ng/mL; SRL-based IS has stronger RFS and overall survival signal than EVL at 1, 3, and 5 years
-- **Everolimus (EVL)**: 1 mg BID after month 1; trough 3–8 ng/mL; pooled 1-year and 3-year RFS comparable to CNI-based therapy; less compelling data than SRL
-- **Caution**: Sirolimus carries FDA black box warning for hepatic artery thrombosis — no increased HAT risk in meta-analysis (3 studies, n=849); EVL shows no increased HAT risk
+- **Sirolimus (SRL):** 2 mg/day after month 1; trough 4–10 ng/mL; stronger RFS and OS signal than EVL at 1, 3, and 5 years. FDA black box warning for hepatic artery thrombosis (HAT); no increased HAT risk in meta-analysis (3 studies, n=849).
+- **Everolimus (EVL):** 1 mg BID after month 1; trough 3–8 ng/mL; pooled 1-year and 3-year RFS comparable to CNI-based therapy; less compelling data than SRL; no increased HAT risk.
+- Phase III SiLVER trial: failed to demonstrate overall benefit of sirolimus in improving long-term RFS beyond 5 years after LT; within-Milan subgroup had improved RFS with mTOR IS.
 - No significant benefit for HCC outside Milan criteria (RR 0.95, 95% CI 0.83–1.1 for 3-year RFS)
-- mTOR inhibitors may also mitigate CNI nephrotoxicity in HCC recipients (see [[liver-transplantation]] Rec 33)
+- mTOR inhibitors may also mitigate CNI nephrotoxicity in HCC recipients (see [[liver-transplantation]])
 
-**HCC surveillance post-LT**:
-- CT or MRI every 6–12 months; AFP as adjunct; risk of recurrence persists, especially beyond Milan criteria ([[aasld-2012-liver-transplant-long-term]], Rec 42–43)
-- mTOR inhibitors (sirolimus/everolimus) may be used in HCC LT recipients to reduce recurrence risk while also mitigating CNI nephrotoxicity — see [[liver-transplantation]]
-- Oncologic surveillance per non-graft complications guidelines; [[post-transplant-lymphoproliferative-disorder]] risk elevated with intensified IS
+**Calcineurin inhibitors** (tacrolimus/cyclosporine) are associated with increased HCC recurrence — consider early IS minimization and mTOR-based switch after month 1.
+
+**HCC surveillance post-LT:** CT or MRI every 6–12 months; AFP as adjunct; risk of recurrence persists especially beyond Milan criteria. RETREAT score stratifies recurrence risk. See [[liver-transplantation]] for IS trough targets. See [[post-transplant-lymphoproliferative-disorder]] for NHL risk with intensified IS.
+
+---
+
+### Advance Care Planning
+
+Per [[aasld-2023-hcc]] (GS 50, Level 5, Weak):
+
+Advance care planning (ACP) should be offered to all patients receiving palliative-intent therapy or best supportive care for HCC, regardless of transplant eligibility. ACP should be offered early for patients with large tumor burden or BCLC D disease. HCC treatment cascade is unpredictable, making early goals-of-care discussion critical. See [[aasld-2024-aclf]] and [[portal-hypertension]] for ACP guidance in decompensated cirrhosis context.
+
+---
+
+## Cross-References
+- [[liver-transplantation]] — candidate evaluation, IS trough targets, non-graft complications, mTOR role
+- [[portal-hypertension]] — CSPH assessment, HVPG ≥10 mmHg as surgical contraindication
+- [[chronic-hepatitis-b]] — expanded HCC surveillance criteria, PAGE-B score, post-HBsAg loss surveillance
+- [[hepatitis-c]] — post-SVR HCC surveillance, DAA therapy and HCC recurrence
+- [[alcohol-associated-liver-disease]] — ALD as HCC risk factor; early LT context
+- [[nafld-masld]] — fastest-growing cause of HCC in LT candidates; non-cirrhotic NAFLD HCC
+- [[hereditary-hemochromatosis]] — HCC accounts for ~45% of HH cirrhosis-related deaths; SF >2000 = high risk
+- [[wilson-disease]] — HCC surveillance in WD cirrhosis
+- [[autoimmune-hepatitis]] — HCC surveillance in AIH cirrhosis
+- [[immune-checkpoint-inhibitor-hepatitis]] — ICI hepatotoxicity relevant to advanced HCC systemic therapy
+- [[hepatocellular-adenoma]] — DDx; β-catenin subtype malignant potential
+- [[focal-nodular-hyperplasia]] — DDx; gadoxetate uptake differentiates from HCC
+- [[hepatic-hemangioma]] — DDx; T2 bright, centripetal fill
+- [[hepatic-cysts]] — DDx
+- [[budd-chiari-syndrome]] — HCC surveillance q6mo regardless of fibrosis stage
+- [[post-transplant-lymphoproliferative-disorder]] — risk with intensified IS post-LT
