@@ -89,12 +89,42 @@
     text-rendering: optimizeLegibility;
   }
 
+  /* ── Sidebar collapse (desktop) ── */
+  body.sidebar-collapsed #sidebar { width: 0; min-width: 0; overflow: hidden; }
+  body.sidebar-collapsed #sidebar-collapse-btn { left: 8px; }
+  #sidebar-collapse-btn {
+    position: fixed; top: 12px; left: 268px; z-index: 120;
+    background: var(--surface); border: 1px solid var(--border);
+    border-radius: 6px; width: 26px; height: 26px;
+    display: flex; align-items: center; justify-content: center;
+    cursor: pointer; color: var(--text-muted); font-size: 13px;
+    transition: left 0.25s, color 0.15s, background 0.15s;
+    box-shadow: var(--shadow);
+  }
+  #sidebar-collapse-btn:hover { color: var(--accent); background: var(--accent-light); }
+
+  /* ── TOC (right rail) collapse ── */
+  #toc-collapse-btn {
+    display: none;
+    background: var(--surface); border: 1px solid var(--border);
+    border-radius: 6px; width: 26px; height: 26px;
+    align-items: center; justify-content: center;
+    cursor: pointer; color: var(--text-muted); font-size: 13px;
+    transition: color 0.15s, background 0.15s;
+    box-shadow: var(--shadow); flex-shrink: 0;
+  }
+  #toc-collapse-btn:hover { color: var(--accent); background: var(--accent-light); }
+  body.with-rail #toc-collapse-btn { display: flex; }
+  body.toc-collapsed #page-toc { display: none !important; }
+  body.toc-collapsed #page-view.with-rail { grid-template-columns: 1fr; }
+
   /* ── Sidebar ── */
   #sidebar {
     width: 260px;
     min-width: 260px;
     background: var(--sidebar-bg-grad);
     display: flex;
+    transition: width 0.25s, min-width 0.25s;
     flex-direction: column;
     height: 100vh;
     overflow: hidden;
@@ -349,6 +379,41 @@
     flex-shrink: 0;
   }
 
+  #nav-buttons {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    flex-shrink: 0;
+  }
+  #back-btn, #forward-btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 28px;
+    height: 28px;
+    border-radius: 6px;
+    border: 1px solid var(--border);
+    background: var(--surface);
+    color: var(--text-muted);
+    cursor: pointer;
+    font-size: 14px;
+    line-height: 1;
+    padding: 0;
+    flex-shrink: 0;
+    transition: background 0.15s, color 0.15s, border-color 0.15s, opacity 0.15s;
+  }
+  #back-btn:hover:not(:disabled),
+  #forward-btn:hover:not(:disabled) {
+    background: var(--accent-light);
+    color: var(--accent);
+    border-color: var(--accent);
+  }
+  #back-btn:disabled, #forward-btn:disabled {
+    opacity: 0.35;
+    cursor: default;
+  }
+  #back-btn svg, #forward-btn svg { width: 14px; height: 14px; }
+
   #breadcrumb {
     font-size: 12.5px;
     color: var(--text-muted);
@@ -362,14 +427,14 @@
   .bc-sep { opacity: 0.4; }
   .bc-item { white-space: nowrap; }
   .bc-item.current { color: var(--text); font-weight: 500; }
-  .bc-item:not(.current) { transition: color 0.15s; cursor: pointer; }
-  .bc-item:not(.current):hover { color: var(--accent); }
-
-  #breadcrumb {
-    font-size: 12.5px;
-    color: var(--text-muted);
-    display: none; /* hidden — declared above */
+  .bc-item:not(.current) {
+    transition: color 0.15s;
+    cursor: pointer;
+    text-decoration: underline;
+    text-underline-offset: 2px;
+    text-decoration-color: rgba(0,0,0,0.15);
   }
+  .bc-item:not(.current):hover { color: var(--accent); text-decoration-color: var(--accent); }
 
   #page-meta-top {
     display: flex;
@@ -1044,6 +1109,8 @@
 
   @media (max-width: 768px) {
     #sidebar-toggle { display: flex; }
+    #sidebar-collapse-btn { display: none; }
+    #toc-collapse-btn { display: none !important; }
     #sidebar {
       position: fixed;
       left: 0; top: 0; bottom: 0;
@@ -1076,6 +1143,7 @@
 
 <div id="sidebar-overlay" onclick="closeSidebar()"></div>
 <button id="sidebar-toggle" onclick="toggleSidebar()" aria-label="Toggle navigation">☰</button>
+<button id="sidebar-collapse-btn" onclick="toggleSidebarCollapse()" title="Toggle sidebar">‹</button>
 
 <!-- ══════════════ SIDEBAR ══════════════ -->
 <nav id="sidebar">
@@ -1111,8 +1179,21 @@
 <!-- ══════════════ MAIN ══════════════ -->
 <div id="main">
   <div id="topbar">
+    <div id="nav-buttons">
+      <button id="back-btn" type="button" title="Back" aria-label="Back" onclick="goBack()" disabled>
+        <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+          <polyline points="10,3 5,8 10,13"></polyline>
+        </svg>
+      </button>
+      <button id="forward-btn" type="button" title="Forward" aria-label="Forward" onclick="goForward()" disabled>
+        <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+          <polyline points="6,3 11,8 6,13"></polyline>
+        </svg>
+      </button>
+    </div>
     <div id="breadcrumb"><span class="bc-item current">Home</span></div>
     <div id="page-meta-top"></div>
+    <button id="toc-collapse-btn" onclick="toggleTocCollapse()" title="Toggle outline">›</button>
   </div>
 
   <div id="content-area">
@@ -1266,9 +1347,59 @@ const THEME_KEY = 'khnl_gi_theme';
 const DEFAULT_CONFIG = { username: 'KHNickLeMD', repo: 'KHNL-GI-Wiki', path: 'KHNL-GI-Wiki/wiki', branch: 'main' };
 let config = JSON.parse(localStorage.getItem(CONFIG_KEY) || 'null') || DEFAULT_CONFIG;
 let wikiData = {};
-let currentView = null; // 'overview' | 'about' | 'index' | 'toc:KEY' | 'page:SLUG'
+let currentView = null; // 'overview' | 'about' | 'index' | 'toc:KEY' | 'page:SLUG' | 'graph'
 let graphSim = null;
 let isDark = localStorage.getItem(THEME_KEY) === 'dark';
+
+// ── Navigation history (browser-style back/forward) ──
+// backStack holds views we can go back to (oldest at index 0).
+// fwdStack holds views we can go forward to (most-recent at top).
+// A normal navigation pushes the *previous* view onto backStack and clears fwdStack.
+// goBack() pops backStack → routes there, and pushes the prior currentView onto fwdStack.
+// goForward() pops fwdStack → routes there, and pushes the prior currentView onto backStack.
+let backStack = [];
+let fwdStack  = [];
+let _navMode  = null; // null | 'back' | 'forward' — set while routing through history
+function pushHistory(view) {
+  if (_navMode) return; // suppress during back/forward routing
+  if (!view) return;
+  if (backStack.length && backStack[backStack.length - 1] === view) return;
+  backStack.push(view);
+  if (backStack.length > 200) backStack.shift();
+  fwdStack = []; // new branch clears the forward history
+  updateNavBtns();
+}
+function updateNavBtns() {
+  const b = document.getElementById('back-btn');
+  const f = document.getElementById('forward-btn');
+  if (b) b.disabled = backStack.length === 0;
+  if (f) f.disabled = fwdStack.length === 0;
+}
+function goBack() {
+  if (!backStack.length) return;
+  const target = backStack.pop();
+  if (currentView) fwdStack.push(currentView);
+  _navMode = 'back';
+  try { routeToView(target); } finally { _navMode = null; }
+  updateNavBtns();
+}
+function goForward() {
+  if (!fwdStack.length) return;
+  const target = fwdStack.pop();
+  if (currentView) backStack.push(currentView);
+  _navMode = 'forward';
+  try { routeToView(target); } finally { _navMode = null; }
+  updateNavBtns();
+}
+function routeToView(view) {
+  if (!view) return;
+  if (view === 'overview')      return showOverview();
+  if (view === 'about')         return showAbout();
+  if (view === 'index')         return showIndex();
+  if (view === 'graph')         return showGraphView();
+  if (view.startsWith('toc:'))  return showTOC(view.slice(4));
+  if (view.startsWith('page:')) return navigateTo(view.slice(5));
+}
 
 const CATS = {
   'disease-script':    { label: 'Disease Script',     dot: 'cat-disease-script' },
@@ -1486,6 +1617,7 @@ function hideAllViews() {
   if (pv) pv.classList.remove('with-rail');
   const ca = document.getElementById('content-area');
   if (ca) { ca.classList.remove('with-rail'); ca.onscroll = null; }
+  document.body.classList.remove('with-rail');
   if (graphSim && currentView !== 'graph') graphSim.stop();
 }
 
@@ -1666,6 +1798,7 @@ function updateActiveNav(key) {
 
 // ── Home ──
 function showOverview() {
+  if (currentView !== 'overview') pushHistory(currentView);
   hideAllViews();
   currentView = 'overview';
   updateActiveNav('overview');
@@ -1770,7 +1903,7 @@ function showOverview() {
           <h1>KHNL GI Wiki</h1>
           <span class="home-hero-kicker">Compounding reference</span>
         </div>
-        <p>A working wiki of gastroenterology &amp; hepatology guidelines and evidence by <a style="white-space:nowrap;">Khanh Hoang Nicholas Le, MD, MS</a> — resources curated by me, synced from Obsidian, and organized by Claude.</p>
+        <p>A working wiki of gastroenterology &amp; hepatology guidelines and evidence by <a style="white-space:nowrap;">Khanh Hoang Nicholas Le, MD, MS</a><br>Resources curated by me, synced from Obsidian, and organized by Claude.</p>
         <div class="stats-grid">
           <div class="stat-card"><div class="stat-number">${total}</div><div class="stat-label">Pages</div></div>
           <div class="stat-card"><div class="stat-number">${diseaseCount + procCount}</div><div class="stat-label">Disease Scripts + Procedures</div></div>
@@ -1830,6 +1963,7 @@ function showOverview() {
 
 // ── About ──
 function showAbout() {
+  if (currentView !== 'about') pushHistory(currentView);
   hideAllViews();
   currentView = 'about';
   updateActiveNav('about');
@@ -1878,6 +2012,7 @@ function showAbout() {
 
 // ── TOC ──
 function showIndex() {
+  if (currentView !== 'index') pushHistory(currentView);
   hideAllViews();
   currentView = 'index';
   updateActiveNav('index');
@@ -1972,6 +2107,7 @@ function _showIndexFallback(el) {
 // End _showIndexFallback
 
 function showTOC(secKey) {
+  if (currentView !== 'toc:' + secKey) pushHistory(currentView);
   hideAllViews();
   currentView = 'toc:' + secKey;
   updateActiveNav('toc:' + secKey);
@@ -1979,7 +2115,10 @@ function showTOC(secKey) {
   const meta = SECTION_META[secKey] || { icon: '', label: secKey, desc: '' };
   const pages = Object.values(wikiData).filter(p => p.section === secKey);
 
-  document.getElementById('breadcrumb').innerHTML = `<span class="bc-item current">${meta.icon} ${meta.label}</span>`;
+  document.getElementById('breadcrumb').innerHTML =
+    `<span class="bc-item" onclick="showOverview()">Home</span>` +
+    `<span class="bc-sep">›</span>` +
+    `<span class="bc-item current">${meta.icon} ${meta.label}</span>`;
   document.getElementById('page-meta-top').innerHTML = `<span class="meta-badge">${pages.length} pages</span>`;
 
   // Special handling for Sources — group by society
@@ -2144,16 +2283,17 @@ function navigateTo(slug) {
   }
   if (!page) { showMissingPage(slug); return; }
 
+  if (currentView !== 'page:' + slug) pushHistory(currentView);
   hideAllViews();
   currentView = 'page:' + slug;
   updateActiveNav('page:' + slug);
 
-  // Breadcrumb
+  // Breadcrumb: Home › Section › Subsection › Page Title
   const secMeta = SECTION_META[page.section] || {};
   const secLabel = secMeta.label || page.section || '';
   const subLabel = page.subsection ? (SUBSECTION_LABELS[page.subsection] || page.subsection) : '';
-  let bcHtml = '';
-  if (secLabel) bcHtml += `<span class="bc-item" style="cursor:pointer;" onclick="showTOC('${page.section}')">${secMeta.icon||''} ${secLabel}</span>`;
+  let bcHtml = `<span class="bc-item" onclick="showOverview()">Home</span>`;
+  if (secLabel) bcHtml += `<span class="bc-sep">›</span><span class="bc-item" onclick="showTOC('${page.section}')">${secMeta.icon||''} ${secLabel}</span>`;
   if (subLabel) bcHtml += `<span class="bc-sep">›</span><span class="bc-item">${subLabel}</span>`;
   bcHtml += `<span class="bc-sep">›</span><span class="bc-item current">${page.title}</span>`;
   document.getElementById('breadcrumb').innerHTML = bcHtml;
@@ -2161,11 +2301,9 @@ function navigateTo(slug) {
   // Detect status from body (must run before topbar meta)
   const isStub = page.body.trim().startsWith('*Stub') || page.body.trim().toLowerCase().includes('stub — to be expanded');
 
-  // Topbar status + date
+  // Topbar status + date (Updated date shown on the right; Reviewed badge removed)
   let metaHtml = '';
-  metaHtml += isStub
-    ? '<span class="status-badge status-stub">Stub</span>'
-    : '<span class="status-badge status-reviewed">Reviewed</span>';
+  if (isStub) metaHtml += '<span class="status-badge status-stub">Stub</span>';
   if (page.updated) metaHtml += `<span class="meta-date">Updated ${page.updated}</span>`;
   document.getElementById('page-meta-top').innerHTML = metaHtml;
 
@@ -2174,6 +2312,7 @@ function navigateTo(slug) {
   pageView.style.display = '';
   pageView.classList.add('with-rail');
   document.getElementById('content-area').classList.add('with-rail');
+  document.body.classList.add('with-rail');
 
   // Kicker (section · subsection) + title
   const kicker = document.getElementById('page-kicker');
@@ -2248,6 +2387,7 @@ function buildPageTOC(bodyEl) {
     // Not worth a rail; hide it for this page
     document.getElementById('page-view').classList.remove('with-rail');
     document.getElementById('content-area').classList.remove('with-rail');
+    document.body.classList.remove('with-rail');
     return;
   }
 
@@ -2313,7 +2453,10 @@ function showMissingPage(slug) {
   document.getElementById('page-title').textContent = slug.replace(/-/g,' ').replace(/\b\w/g,c=>c.toUpperCase());
   document.getElementById('page-tags').innerHTML = '';
   document.getElementById('source-popup-wrap').style.display = 'none';
-  document.getElementById('breadcrumb').innerHTML = `<span class="bc-item current">${slug}</span>`;
+  document.getElementById('breadcrumb').innerHTML =
+    `<span class="bc-item" onclick="showOverview()">Home</span>` +
+    `<span class="bc-sep">›</span>` +
+    `<span class="bc-item current">${slug}</span>`;
   document.getElementById('page-meta-top').innerHTML = '';
   document.getElementById('page-body').innerHTML = `<div class="error-banner">This page (<code>${slug}</code>) doesn't exist in the wiki yet. Create it in Obsidian and it will appear after your next push to GitHub.</div>`;
 }
@@ -2495,6 +2638,22 @@ function clearSearch() {
 function escRegex(str) { return str.replace(/[.*+?^${}()|[\]\\]/g,'\\$&'); }
 function searchTag(tag) { searchInput.value = tag; searchInput.dispatchEvent(new Event('input')); }
 
+// ── Sidebar collapse (desktop) ──
+function toggleSidebarCollapse() {
+  const collapsed = document.body.classList.toggle('sidebar-collapsed');
+  const btn = document.getElementById('sidebar-collapse-btn');
+  btn.textContent = collapsed ? '›' : '‹';
+  btn.title = collapsed ? 'Expand sidebar' : 'Collapse sidebar';
+}
+
+// ── TOC (right rail) collapse ──
+function toggleTocCollapse() {
+  const collapsed = document.body.classList.toggle('toc-collapsed');
+  const btn = document.getElementById('toc-collapse-btn');
+  btn.textContent = collapsed ? '‹' : '›';
+  btn.title = collapsed ? 'Show outline' : 'Hide outline';
+}
+
 // ── Sidebar collapse (mobile) ──
 function toggleSidebar() {
   const sb = document.getElementById('sidebar');
@@ -2555,6 +2714,7 @@ let gState = {
 
 // ── Entry point ──────────────────────────────────────────
 function showGraphView() {
+  if (currentView !== 'graph') pushHistory(currentView);
   hideAllViews();
   currentView = 'graph';
   updateActiveNav('graph');
