@@ -3,7 +3,7 @@ title: "Genetic Evaluation and Management of Lynch Syndrome: A Practice Guidelin
 category: source
 tags: [lynch-syndrome, mmr, msi, hnpcc, hereditary-crc, endometrial-cancer, colorectal-cancer, genetic-testing, acg, usmstf]
 created: 2026-05-21
-updated: 2026-05-21
+updated: 2026-05-28
 sources: []
 ---
 
@@ -38,23 +38,6 @@ Surveillance with colonoscopy every 1–2 years beginning at age 20–25 in conf
 - CAPP2 RCT (n=727): aspirin 600 mg/day reduced all LS-associated cancers by 35% (HR 0.65; P=0.05); CRC alone did not reach significance
 - After prophylactic proctocolectomy with IRA: metachronous CRC 0–3.4% vs. 16–41% after segmental resection at 10–20 years
 - Retrospective prophylactic gynecologic surgery data: 0% endometrial cancer in surgical group vs. 33% in nonsurgical group at mean follow-up
-
----
-
-## Relevance to Wiki
-
-- Updates and cross-references [[lynch-syndrome]] (adds 2014 USMSTF-specific cancer risk tables, surveillance recommendations from Tables 10 and 12, NCI evidence levels, aspirin CAPP2 data, genetic counseling framework)
-- Cross-references [[colorectal-cancer]], [[colorectal-cancer-screening]], [[colonoscopy]], [[familial-adenomatous-polyposis]]
-- Earlier than and complemented by [[acg-2015-hereditary-gi-cancer]] for LS-specific content
-
----
-
-## Contradictions / Open Questions
-
-- Aspirin evidence is based on CAPP2 (600 mg/day); optimal dose and duration unknown (CAPP3 ongoing at time of publication)
-- Urinary tract surveillance efficacy uncertain; urine cytology has only 29% sensitivity — annual urinalysis recommended conditionally
-- Transvaginal US for endometrial surveillance adds limited yield over endometrial sampling alone
-- Risk estimates vary significantly by family history, ethnicity, and specific mutation type within each gene
 
 ---
 
@@ -94,3 +77,20 @@ Surveillance with colonoscopy every 1–2 years beginning at age 20–25 in conf
 | All genetic testing should occur within the context of pre- and post-test genetic counseling | Strong | Level III, GRADE Moderate |
 | All at-risk first-degree relatives should be offered mutation-specific testing once a pathogenic variant is identified in the proband | Strong | Level III, GRADE Moderate |
 | A 14-component informed consent framework (including GINA protections, VUS implications, psychological impact, data privacy) should be applied | Strong | Level IV, GRADE Moderate |
+
+## Relevance to Wiki
+
+- Updates and cross-references [[lynch-syndrome]] (adds 2014 USMSTF-specific cancer risk tables, surveillance recommendations from Tables 10 and 12, NCI evidence levels, aspirin CAPP2 data, genetic counseling framework)
+- Cross-references [[colorectal-cancer]], [[colorectal-cancer-screening]], [[colonoscopy]], [[familial-adenomatous-polyposis]]
+- Earlier than and complemented by [[acg-2015-hereditary-gi-cancer]] for LS-specific content
+
+---
+
+## Contradictions / Open Questions
+
+- Aspirin evidence is based on CAPP2 (600 mg/day); optimal dose and duration unknown (CAPP3 ongoing at time of publication)
+- Urinary tract surveillance efficacy uncertain; urine cytology has only 29% sensitivity — annual urinalysis recommended conditionally
+- Transvaginal US for endometrial surveillance adds limited yield over endometrial sampling alone
+- Risk estimates vary significantly by family history, ethnicity, and specific mutation type within each gene
+
+---

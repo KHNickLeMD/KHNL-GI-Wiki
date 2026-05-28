@@ -3,7 +3,7 @@ title: "Chicago Classification v4.0: Esophageal Motility Disorders"
 category: source
 tags: [manometry, hrm, esophageal-motility, chicago-classification, achalasia, dysphagia, foregut]
 created: 2026-05-16
-updated: 2026-05-16
+updated: 2026-05-28
 sources: []
 ---
 
@@ -54,6 +54,23 @@ Protocol standardization includes supine and upright swallow series, multiple ra
 - LES-CD separation: used to characterize hiatal hernia on HRM
 
 **Key paradigm shift:** EGJOO is always manometrically inconclusive; clinical significance requires TBE or FLIP correlation plus symptoms. This prevents over-treatment of manometric artifacts.
+
+## Recommendations
+
+| Recommendation | Strength | Evidence Quality |
+|---|---|---|
+| **HRM Protocol** | | |
+| A standardized HRM protocol (supine + upright wet swallows + MRS + RDC) must be completed before applying CC v4.0 diagnostic criteria | Consensus Statement | — |
+| Manufacturer-specific IRP thresholds must be used: Medtronic ≤15 mmHg (supine), ≤12 mmHg (upright); Laborie ≤22 mmHg (supine), ≤15 mmHg (upright) | Consensus Statement | — |
+| **Disorders of EGJ Outflow** | | |
+| Achalasia Types I, II, and III should be classified by IRP elevation combined with the pattern of esophageal pressurization or premature contractions per CC v4.0 criteria | Consensus Statement | — |
+| EGJOO diagnosed on HRM alone should be classified as "manometrically inconclusive"; clinical significance requires supportive symptoms plus positive TBE or FLIP | Consensus Statement | — |
+| **Disorders of Peristalsis** | | |
+| IEM should be diagnosed when >70% of swallows are ineffective (failed or weak) OR ≥50% are failed; fragmented peristalsis is no longer a standalone disorder and should be classified within IEM | Consensus Statement | — |
+| DES requires ≥20% premature contractions (DL <4.5 s) with DCI >450 mmHg·s·cm and normal IRP | Consensus Statement | — |
+| Hypercontractile esophagus (jackhammer) requires ≥20% swallows with DCI >8,000 mmHg·s·cm after EGJ obstruction is excluded | Consensus Statement | — |
+| **Ancillary Testing** | | |
+| TBE and/or FLIP panometry should be used to confirm clinical significance of EGJOO before treatment decisions are made | Consensus Statement | — |
 
 ## Relevance to Wiki
 - Core reference for [[chicago-classification-v4]] (concept page)

@@ -3,7 +3,7 @@ title: "AASLD/AST 2012: Long-Term Management of the Successful Adult Liver Trans
 category: source
 tags: [liver-transplant, immunosuppression, post-transplant, aasld, guidelines]
 created: 2026-05-19
-updated: 2026-05-19
+updated: 2026-05-28
 sources: []
 ---
 
@@ -266,6 +266,38 @@ The guideline reflects the pre-direct-acting-antiviral (DAA) era for HCV treatme
 
 ### Late Surgical Complications
 93. LT recipients with an incisional hernia should be instructed to recognize incarcerated hernias and advised to seek immediate medical assistance (grade 1, level B).
+
+## Recommendations
+
+| Recommendation | Strength | Evidence Quality |
+|---|---|---|
+| **Monitoring** | | |
+| Frequency of liver test monitoring should be individualized by time from LT, complications, stability, and underlying cause | Strong | High |
+| Liver histology required when parenchymal injury is suspected; biopsy before rejection treatment classified by Banff criteria | Strong | High |
+| **Immunosuppression** | | |
+| Review each patient's IS regimen at least every 6 months; modify to minimize long-term toxicities | Strong | Moderate |
+| Complete IS withdrawal achievable in a small minority only; should occur with select patients under close supervision | Conditional | Low |
+| **Bone Health** | | |
+| Calcium 1000–1200 mg/day and vitamin D supplementation; bisphosphonate (alendronate 70 mg/week) for T-score <−2.5 or atraumatic fractures | Strong | High |
+| **Chronic Kidney Disease** | | |
+| CNI reduction/withdrawal is appropriate response to development of CKD in LT recipients | Strong | High |
+| Kidney transplantation is optimal therapy for ESRD post-LT (44–60% reduction in mortality vs. dialysis) | Strong | High |
+| **Metabolic Complications** | | |
+| HbA1c target <7.0%; ACEi/ARB first-line for HTN with DM/CKD/proteinuria (target BP 130/80); statins for LDL >100 mg/dL | Strong | Moderate |
+| **Oncology** | | |
+| Annual dermatology follow-up for all LT recipients; sirolimus-based IS for HCC recipients (started several weeks after LT) | Strong | High / Moderate |
+| PSC+IBD: annual colonoscopy with biopsies; HCC surveillance imaging every 6–12 months for recurrent allograft cirrhosis | Strong | Moderate |
+| **Reproductive Health** | | |
+| Delay pregnancy ≥1 year post-LT; tacrolimus monotherapy is ideal IS in pregnancy; avoid mycophenolate and sirolimus (teratogenic) | Strong | Moderate |
+| **Infections** | | |
+| PCP prophylaxis with TMP-SMX for ≥6–12 months post-LT; CMV high-risk (D+/R−) prophylaxis with ganciclovir/valganciclovir ×3 months | Strong | High |
+| All LT recipients: annual influenza vaccine; avoid all live vaccines post-transplant | Strong | Moderate |
+| **Viral Hepatitis** | | |
+| HBIG + nucleos(t)ide analogue combination prevents HBV recurrence in ≥90%; lifelong antivirals for recurrent HBV | Strong | Moderate |
+| **Recurrent Liver Diseases** | | |
+| AIH: maintain long-term low-dose corticosteroids in addition to standard IS | Conditional | Moderate |
+| ALD: encourage abstinence; therapy/counseling if relapse; smoking cessation | Strong | Moderate |
+| NAFLD: liver biopsy to confirm; general measures to avoid weight gain and control HTN and DM | Strong | Moderate |
 
 ## Relevance to Wiki
 - Creates new page: [[liver-transplantation]] — full post-LT management disease script

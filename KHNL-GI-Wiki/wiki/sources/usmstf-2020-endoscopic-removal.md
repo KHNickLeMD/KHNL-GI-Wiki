@@ -3,7 +3,7 @@ title: "USMSTF 2020: Endoscopic Removal of Colorectal Lesions"
 category: source
 tags: [colonoscopy, polypectomy, emr, esd, colorectal, crc-prevention, advanced-polypectomy]
 created: 2026-05-07
-updated: 2026-05-07
+updated: 2026-05-28
 sources: []
 ---
 
@@ -68,6 +68,44 @@ Comprehensive consensus on optimal techniques for endoscopic removal of colorect
 - Endoscopy should be first-line for all benign colorectal lesions before surgery referral
 - Refer to advanced polypectomy endoscopist (not surgery) when unable to remove confidently
 - Document resection method (cold snare, hot snare, EMR) in procedure report
+
+## Recommendations
+
+| Recommendation | Strength | Evidence Quality |
+|---|---|---|
+| **Lesion Assessment** | | |
+| Document location, size (mm), and Paris classification for all colorectal lesions >=10 mm | Strong | High |
+| Photo-document all colorectal lesions >=10 mm before removal; suggest photo of post-resection defect | Strong | Moderate |
+| NICE type 3 or Kudo type V (VN/VI) = deep submucosal invasion: cold biopsy + tattoo + surgical referral for non-pedunculated lesions; polypectomy for pedunculated lesions | Strong | Moderate |
+| Develop proficiency in NBI or electronic chromoendoscopy for optical diagnosis | Weak | Low |
+| Consider non-lifting sign as marker of submucosal invasion or submucosal fibrosis | Weak | Moderate |
+| **Resection by Lesion Size and Type** | | |
+| Use cold snare polypectomy as preferred method for diminutive colorectal polyps (<=5 mm) | Strong | High |
+| Do not use cold forceps polypectomy for polyps >2 mm | Strong | Moderate |
+| Do not use hot biopsy forceps for any colorectal polypectomy | Strong | Moderate |
+| Use cold snare polypectomy for small (6-9 mm) colorectal polyps | Strong | Moderate |
+| For non-pedunculated 10-19 mm: cold or hot snare +/- injection acceptable; prefer EMR for non-polypoid/serrated/LST lesions | Weak | Low |
+| For non-pedunculated lesions >=20 mm: use EMR by experienced endoscopist before surgical referral | Strong | Moderate |
+| For pedunculated polyps with head >=10 mm: use hot snare resection | Strong | Moderate |
+| Use prophylactic ligation before hot snare resection of pedunculated polyps with head >=20 mm or stalk >=5 mm | Weak | Moderate |
+| **EMR Technique** | | |
+| Use viscous submucosal injectant for inject-and-cut EMR of lesions >=20 mm | Strong | Moderate |
+| Add indigo carmine or methylene blue to injectant for visualization | Weak | Low |
+| Do not use tattoo as submucosal injectant | Strong | High |
+| Use adjuvant thermal ablation of EMR margins after complete visual resection | Strong | Moderate |
+| Do not ablate visible residual tissue; residual tissue must be resected | Strong | Moderate |
+| Use prophylactic clip closure of EMR defects >=20 mm in the right colon | Weak | Moderate |
+| **ESD and Advanced Resection** | | |
+| Colorectal ESD for selected indications: lesions >=20 mm with suspected superficial SMI, submucosal fibrosis, local recurrent early carcinoma, colitis-associated dysplasia | Weak | Low |
+| **Marking and Tattoo** | | |
+| Use sterile carbon particle suspension for marking lesions needing future localization | Strong | High |
+| Place tattoo 3-5 cm distal to lesion; do not inject at or near the lesion | Strong | Moderate |
+| **Post-EMR Surveillance** | | |
+| Surveillance colonoscopy after piecemeal EMR >=20 mm: 6 months, then 1 year, then 3 years | Strong | Moderate |
+| At surveillance: use enhanced imaging (chromoendoscopy or NBI) + targeted biopsies at scar site | Strong | Moderate |
+| **Quality** | | |
+| Use endoscopy as first-line treatment for all benign colorectal lesions before surgical referral | Strong | High |
+| Refer to advanced polypectomy endoscopist (not surgery) when local removal not feasible | Strong | Moderate |
 
 ## Relevance to Wiki
 - Informs [[polypectomy-emr]] (advanced colorectal procedures)

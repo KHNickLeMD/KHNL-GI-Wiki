@@ -3,7 +3,7 @@ title: "ACG 2020: Diagnosis and Management of Achalasia"
 category: source
 tags: [achalasia, esophageal-motility, hrm, poem, heller-myotomy, pneumatic-dilation, ge-junction, foregut]
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-05-28
 sources: []
 ---
 
@@ -62,6 +62,26 @@ Treatment is entirely palliative. Three definitive therapies — pneumatic dilat
 - Adenocarcinoma also increased (21.23 cases/100,000 patient-years) but lower
 - >400 endoscopies needed to detect one cancer; poor survival once detected
 - Do NOT recommend routine surveillance (Strong; Low)
+
+## Recommendations
+
+| Recommendation | Strength | Evidence Quality |
+|---|---|---|
+| **Diagnosis** | | |
+| HRM (esophageal pressure topography) recommended over conventional line-tracing manometry for esophageal motility disorders | Strong | High |
+| Always perform upper endoscopy to exclude pseudoachalasia before HRM | Summary Statement | — |
+| Patients with GERD not responding to PPI: evaluate for achalasia | Strong | Very Low |
+| Timed barium esophagram (TBE) as best predictor of long-term treatment success post-dilation; use to define treatment failure rather than ES or HRM alone | Strong | Very Low |
+| **Definitive Treatment** | | |
+| PD (serial 3.0→3.5→4.0 cm), LHM + fundoplication, or POEM are all acceptable for Type I/II achalasia (equivalent outcomes) | Strong | Moderate–High |
+| Type III achalasia: POEM preferred over LHM due to longer myotomy requirements (POEM success 93% vs. LHM 71%) | Strong | Moderate |
+| POEM carries significantly higher GERD risk vs. LHM with fundoplication (abnormal pH monitoring 39% POEM vs. 8–9% post-LHM with fundoplication) | Summary Statement | — |
+| PD after failed LHM: safe and effective (89% success) | Strong | Moderate |
+| POEM after failed PD/LHM: 94–95.7% success | Strong | Low |
+| **Pharmacotherapy / Botulinum Toxin** | | |
+| Botulinum toxin injection reserved for patients unfit for definitive therapy (40.6% efficacy at 12 months) | Summary Statement | — |
+| **Cancer Surveillance** | | |
+| Routine endoscopic surveillance for SCC is NOT recommended despite 28× elevated risk | Strong | Low |
 
 ## Relevance to Wiki
 - **Creates:** [[achalasia]] disease script in `wiki/disease-scripts/foregut-and-motility-diseases/ge-junction/`

@@ -3,7 +3,7 @@ title: "Disorders of Gut–Brain Interaction and the Rome V Process"
 category: source
 tags: [DGBI, IBS, functional-gi, rome-criteria, biopsychosocial, brain-gut-axis, motility]
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-05-28
 sources: []
 ---
 
@@ -72,6 +72,25 @@ A key clinical innovation is the introduction of Rome Clinical Criteria — a re
 **Gallbladder/SOD:**
 - Dysfunctional gallbladder disorder: cholescintigraphy no longer required for diagnosis; typical biliary pain sufficient as predictor of surgical response; watchful waiting preferred over immediate cholecystectomy
 - Sphincter manometry dropped from biliary and pancreatic SOD criteria (poor sensitivity/reproducibility)
+
+## Recommendations
+
+| Recommendation | Strength | Evidence Quality |
+|---|---|---|
+| **Nomenclature and Diagnosis** | | |
+| "Disorders of gut–brain interaction" (DGBI) should replace "functional gastrointestinal disorder" in clinical practice and documentation | Consensus Statement | — |
+| Rome V diagnostic criteria should be applied for research; Rome Clinical Criteria (reduced frequency threshold, 8-week duration) are appropriate for clinical practice | Consensus Statement | — |
+| **IBS Diagnosis** | | |
+| IBS diagnosis requires recurrent abdominal pain or discomfort ≥3 days/month in the last 3 months associated with altered bowel habits; continuous pain suggests CAPS rather than IBS | Consensus Statement | — |
+| IBS severity (mild/moderate/severe) should guide treatment intensity; FBDSI and IBS-SSS are validated instruments for severity classification | Consensus Statement | — |
+| **Anorectal Disorders** | | |
+| Dyssynergic defecation requires only 1 of 3 abnormal tests (balloon expulsion, manometry, or imaging); EMG is no longer a required criterion | Consensus Statement | — |
+| Fecal incontinence requires ≥2 episodes to meet the diagnostic threshold | Consensus Statement | — |
+| **Gallbladder/SOD** | | |
+| Cholescintigraphy (HIDA) is no longer required for the diagnosis of dysfunctional gallbladder disorder; watchful waiting is preferred over immediate cholecystectomy | Consensus Statement | — |
+| Sphincter manometry should not be used as a diagnostic criterion for biliary or pancreatic SOD given poor sensitivity and reproducibility | Consensus Statement | — |
+| **Biopsychosocial Model** | | |
+| Management of DGBI should integrate gut-directed therapies with psychosocial assessment and treatment targeting the brain–gut axis | Consensus Statement | — |
 
 ## Relevance to Wiki
 

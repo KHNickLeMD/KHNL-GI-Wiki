@@ -3,7 +3,7 @@ title: "ACG 2021 Colorectal Cancer Screening Guidelines"
 category: source
 tags: [crc, colorectal-cancer, screening, colonoscopy, fit, colorectal]
 created: 2026-05-16
-updated: 2026-05-16
+updated: 2026-05-28
 sources: []
 ---
 
@@ -58,6 +58,34 @@ The guideline recommends initiating CRC screening at age 45 for average-risk adu
 - ACG added aspirin recommendations; USMSTF did not
 - Both recommend age 45 start; ACG is conditional, ACS is strong
 - Both favor colonoscopy and FIT as preferred modalities
+
+## Recommendations
+
+| Recommendation | Strength | Evidence Quality |
+|---|---|---|
+| **Screening Age** | | |
+| Screen all average-risk adults ages 50–75 | Strong | Moderate |
+| Screen average-risk adults ages 45–49 (shared decision-making) | Conditional | Very Low |
+| Individualize screening for ages 75–85 based on health, history, and preferences | Summary Statement | — |
+| Stop routine screening after age 85 | Summary Statement | — |
+| **Preferred Modalities** | | |
+| Colonoscopy every 10 years (preferred structural test) | Strong | Moderate |
+| Annual FIT (preferred non-invasive test) | Strong | Moderate |
+| **Alternative Modalities** | | |
+| Multi-target stool DNA (Cologuard) every 3 years | Conditional | Low |
+| Flexible sigmoidoscopy every 5–10 years | Conditional | Low |
+| CT colonography every 5 years | Conditional | Low |
+| Colon capsule every 5 years | Conditional | Very Low |
+| Against Septin-9 blood test | Conditional | Very Low |
+| **Quality Indicators** | | |
+| Cecal intubation rate (CIR) ≥90% overall, ≥95% for screening | Strong | Low |
+| Withdrawal time ≥6 minutes | Strong | Low |
+| Adenoma detection rate (ADR) ≥25% overall | Strong | Low |
+| **Family History Risk Stratification** | | |
+| Colonoscopy at age 40 or 10 years before youngest FDR (1 FDR <60 or ≥2 FDRs); repeat every 5 years | Strong | Moderate |
+| Begin average-risk screening at age 40 (1 FDR ≥60); every 5 years initially | Conditional | Low |
+| **Chemoprevention** | | |
+| Low-dose aspirin for CRC prevention in adults 50–69 with ≥10% 10-year CVD risk (does not substitute for screening) | Conditional | Low |
 
 ## Relevance to Wiki
 - Creates [[colorectal-cancer-screening]] concept page

@@ -3,7 +3,7 @@ title: "ACG/ASGE 2025: Quality Indicators for Upper GI Endoscopy (EGD)"
 category: source
 tags: [egq, upper-endoscopy, quality-indicators, barrett-esophagus, ugib, peptic-ulcer, gpmc, celiac, quality-improvement]
 created: 2026-05-07
-updated: 2026-05-07
+updated: 2026-05-28
 sources: []
 ---
 
@@ -70,6 +70,44 @@ Key new or updated indicators: EREFS score documentation for EoE; GPMC biopsy (S
 - PPI-responsive EoE is now classified as EoE; EREFS documentation required whenever EoE is suspected or known
 - GPMC: Sydney protocol biopsies + HDWLE/virtual chromoendoscopy + surveillance plan documentation — all now quality standards
 - Complete IM eradication within 18 months of EET is the outcome benchmark for BE with dysplasia/IMC
+
+## Recommendations
+
+| Recommendation | Strength | Evidence Quality |
+|---|---|---|
+| **Preprocedure** | | |
+| Perform EGD only for documented appropriate indication (target >95%) | Strong | Low |
+| Perform EGD within 24 hours for admitted or observed patients with UGIB (target >80%) | Strong | Low |
+| **Intraprocedure — Documentation** | | |
+| Perform systematic photodocumentation of all standard anatomic stations (target >90%) | — | — |
+| Document LA classification for erosive esophagitis (target >98%) | Strong | Low |
+| Document SCJ, GEJ, and diaphragmatic hiatus location in suspected columnar metaplasia (target >95%) | Strong | Low |
+| Document ≥1 cm of endoscopically evident columnar mucosa when biopsying for Barrett's esophagus (target >95%) | Strong | Low |
+| Use Prague criteria for suspected or confirmed Barrett's esophagus (target >95%) | Strong | Low |
+| Document EREFS score when EoE is suspected or established (target >95%) | — | Low |
+| Document peptic ulcer stigmata (active bleeding, NBVV, adherent clot, flat spot, clean base) (target >98%) | Strong | High |
+| **Intraprocedure — Biopsy and Treatment** | | |
+| Obtain ≥6 biopsies from ≥2 esophageal levels for dysphagia without endoscopic etiology (target >90%) | — | Moderate |
+| Use HDWLE + dye-based or virtual chromoendoscopy for Barrett's esophagus surveillance (target >90%) | Strong | Moderate |
+| Perform systematic 4-quadrant biopsies every 2 cm throughout Barrett's segment during known BE surveillance (target >90%) | Strong | Low |
+| Biopsy or resect visible lesions in Barrett's esophagus separately from systematic biopsies (target >90%) | — | — |
+| Provide endoscopic treatment for actively bleeding ulcers or NBVV (target >90%) | Strong | High |
+| Use second treatment modality when epinephrine injection is used for bleeding/NBVV (target >98%) | Strong | High |
+| Document primary hemostasis achievement in attempted hemostasis of nonvariceal UGIB (target >90%) | — | Moderate |
+| Biopsy gastric ulcer or plan follow-up to exclude malignancy (target >80%) | — | Low |
+| Perform systematic gastric biopsy (Sydney protocol) in known GPMC, high-risk GC, or suspected GPMC patients (target >90%) | — | Low |
+| Use HDWLE + virtual chromoendoscopy in GPMC/high-risk GC/suspected GPMC patients (target >90%) | — | Low |
+| Biopsy or resect non-fundic gland gastric polyps >10 mm (target >80%) | — | Low |
+| Obtain ≥4 duodenal biopsies including 1 from bulb in suspected celiac disease (target >98%) | Strong | Low |
+| **Postprocedure** | | |
+| Recommend repeat EGD after acid suppression for LA grade C/D erosive esophagitis (target >90%) | — | Moderate |
+| Recommend PPI for patients undergoing dilation for peptic esophageal strictures (target >98%) | — | Moderate |
+| Recommend nondysplastic BE surveillance no sooner than 3 years (target >80%) | — | Low |
+| Target complete eradication of intestinal metaplasia within 18 months of initial endoscopic treatment for BE with dysplasia/intramucosal carcinoma (target >75%) | Strong | Low |
+| Administer high-dose PPI after successful hemostatic therapy of bleeding ulcer (target >95%) | Strong | High |
+| Document H. pylori testing plan in GPMC, PUD, and other H. pylori–associated conditions (target >95%) | — | Low |
+| Document H. pylori treatment and eradication assessment plan in endoscopically diagnosed H. pylori (target >95%) | — | Moderate |
+| Document GPMC surveillance plan in patients with known GPMC (target >90%) | — | Low |
 
 ## Relevance to Wiki
 - Creates: `wiki/3-general-gi-procedures/upper-endoscopy.md`

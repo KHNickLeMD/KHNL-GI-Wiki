@@ -3,7 +3,7 @@ title: "ACG Clinical Guideline: Liver Disease and Pregnancy (2016)"
 category: source
 tags: [pregnancy, liver-disease, ihcp, aflp, hellp, hyperemesis-gravidarum, hepatitis-b, hepatitis-c, autoimmune-hepatitis, pbc, wilsons-disease, cirrhosis, liver-transplantation, hpb]
 created: 2026-05-19
-updated: 2026-05-19
+updated: 2026-05-28
 sources: []
 ---
 
@@ -143,6 +143,34 @@ The guideline covers perinatal transmission prevention for chronic HBV (antivira
 - **Liver transplant recipients:** Higher rates of preterm birth, LBW, cesarean section, and hypertension; acute rejection risk elevated if pregnancy <6 months post-transplant; recommend waiting ≥1–2 years; continue all immunosuppression except mycophenolic acid (teratogenic — congenital malformations + embryo-fetal toxicity).
 
 ---
+
+## Recommendations
+
+| Recommendation | Strength | Evidence Quality |
+|---|---|---|
+| **Imaging and Endoscopy** | | |
+| Ultrasound is safe and preferred first-line imaging in pregnancy; MRI without gadolinium acceptable in 2nd/3rd trimester | Strong | Low |
+| Endoscopy is safe in pregnancy but should be deferred to 2nd trimester if possible; meperidine and propofol acceptable for sedation | Strong | Low–Moderate |
+| ERCP when indicated for biliary pancreatitis, choledocholithiasis, or cholangitis; minimize fetal fluoroscopy exposure | Strong | Low |
+| Symptomatic cholecystitis: early laparoscopic cholecystectomy | Strong | Low |
+| **Pregnancy-Specific Liver Diseases** | | |
+| IHCP: UDCA 10–15 mg/kg for symptomatic improvement; early delivery at 37 weeks | Strong | Moderate–Very Low |
+| HELLP: prompt delivery especially after 34 weeks; platelet transfusion to 40,000–50,000 cells/µl pre-delivery if cesarean likely | Strong/Conditional | Very Low |
+| AFLP: prompt delivery mandatory; expectant management is NOT appropriate; LCHAD molecular testing for mother and infant | Strong/Conditional | Very Low–Moderate |
+| Severe preeclampsia with hepatic involvement: deliver promptly after 36 weeks | Strong | Very Low |
+| **Hepatitis B** | | |
+| Active–passive immunoprophylaxis (HBIG + HBV vaccination series) for all infants born to HBV-infected mothers | Strong | Low |
+| TDF or telbivudine in 3rd trimester for viral load >200,000 IU/mL to reduce perinatal transmission | Strong | Low |
+| Elective C-section should NOT be performed in HBV-positive mothers to prevent fetal infection | Strong | Very Low |
+| **Hepatitis C** | | |
+| Hepatitis C therapy should NOT be offered during pregnancy | Strong | Very Low |
+| Elective C-section should NOT be performed in HCV-positive mothers to prevent fetal infection | Strong | Very Low |
+| **Chronic Liver Diseases** | | |
+| AIH: continue corticosteroids ± AZA throughout pregnancy | Strong | Very Low |
+| PBC: continue UDCA during pregnancy | Strong | Very Low |
+| Wilson's disease: continue chelation with dose reduction if possible; zinc is an option | Strong | Very Low |
+| Pregnant women with portal hypertension: EGD for varices screening in 2nd trimester; large varices treated with beta-blockers and/or band ligation | Strong/Conditional | Low–Very Low |
+| Post-LT: continue all immunosuppression except mycophenolic acid (teratogenic) | Strong | Moderate |
 
 ## Relevance to Wiki
 

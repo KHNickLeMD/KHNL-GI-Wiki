@@ -3,7 +3,7 @@ title: "Lyon Consensus 2.0 (2024): Evidence-Based Diagnosis of GERD"
 category: source
 tags: [gerd, reflux, ph-monitoring, impedance, diagnosis, lyon-consensus]
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-05-28
 sources: []
 ---
 
@@ -86,6 +86,26 @@ Key structural innovation: the framework now stratifies patients into **unproven
 - HRM rules out achalasia spectrum disorders in PPI non-responders
 - Abnormal EGJ morphology (hiatus hernia), compromised EGJ barrier, oesophageal hypomotility (Chicago Classification 4.0) remain supportive but cannot diagnose GERD
 - Chicago Classification updated from v3.0 to v4.0
+
+## Recommendations
+
+| Recommendation | Strength | Evidence Quality |
+|---|---|---|
+| **GERD Diagnosis Framework** | | |
+| Actionable GERD requires conclusive evidence on endoscopy (LA grade B–D, Barrett's, peptic stricture) and/or abnormal ambulatory reflux monitoring plus compatible troublesome symptoms; PPI response alone is insufficient for diagnosis | Consensus Statement | — |
+| Patients should be classified as "unproven GERD" (no prior conclusive evidence; test off therapy) or "proven GERD with persisting symptoms" (test on optimised therapy with pH-impedance) before selecting the monitoring modality | Consensus Statement | — |
+| **Endoscopy** | | |
+| LA grade B oesophagitis should now be classified as conclusive evidence of GERD (upgraded from borderline in Lyon 1.0) | Consensus Statement | — |
+| LA grade A oesophagitis remains borderline; endoscopy in unproven GERD should be performed 2–4 weeks after PPI discontinuation to maximise diagnostic yield | Consensus Statement | — |
+| **Ambulatory Reflux Monitoring — Unproven GERD** | | |
+| Prolonged wireless pH monitoring (48–96h; 96h preferred) is the preferred test for unproven GERD with typical symptoms | Consensus Statement | — |
+| pH-impedance monitoring off therapy is preferred when typical symptoms co-occur with excessive belching, rumination, or pulmonary symptoms | Consensus Statement | — |
+| AET <4.0% on all study days plus negative reflux-symptom association effectively excludes GERD; AET >6.0% on ≥2 days is diagnostic | Consensus Statement | — |
+| **Ambulatory Reflux Monitoring — Proven GERD** | | |
+| pH-impedance monitoring on optimised antisecretory therapy is the only modality able to identify refractory reflux and should be used in proven GERD with persisting symptoms | Consensus Statement | — |
+| AET >4% AND >80 reflux episodes/day on optimised therapy predicts 85% symptomatic benefit from antireflux surgery or MSA | Consensus Statement | — |
+| **Retired Criteria** | | |
+| PSPW index, routine oesophageal biopsy, endoscopy-based mucosal impedance, and LA grade B as "borderline" are retired as diagnostic criteria | Consensus Statement | — |
 
 ## Relevance to Wiki
 

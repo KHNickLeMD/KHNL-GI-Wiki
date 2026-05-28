@@ -3,7 +3,7 @@ title: "ACG 2020: Clinical Use of Esophageal Physiologic Testing"
 category: source
 tags: [esophageal, hrm, manometry, reflux-testing, ambulatory-monitoring, flip, barium, gerd, dysphagia, atypical-symptoms, extraesophageal, rumination, belching]
 created: 2026-05-19
-updated: 2026-05-19
+updated: 2026-05-28
 sources: []
 ---
 
@@ -69,6 +69,27 @@ The guideline predates Lyon Consensus 2.0 (2024) and the Padova Consensus (2025)
 - FLIP not intended to replace HRM for characterization of motor disorders
 
 ---
+
+## Recommendations
+
+| Recommendation | Strength | Evidence Quality |
+|---|---|---|
+| **General Principle** | | |
+| EGD should precede physiologic testing; no test should be ordered without a clear clinical hypothesis | Summary Statement | — |
+| **Obstructive Symptoms** | | |
+| HRM over conventional line-tracing manometry for evaluation of esophageal motility disorders | Strong | Moderate |
+| Supplementary/provocative maneuvers (MRS, RDC, solid test meal) to improve HRM diagnostic yield | Conditional | Low |
+| FLIP to complement HRM for borderline findings or when catheter placement fails | Conditional | Low |
+| Barium tablet included in barium esophagram during obstructive symptom evaluation | Conditional | Very Low |
+| **Typical Reflux Symptoms** | | |
+| Ambulatory reflux monitoring recommended over GERD questionnaires, PPI trial, or endoscopy alone for conclusive GERD diagnosis | Summary Statement | — |
+| Unproven GERD: ambulatory monitoring off PPI (wireless pH for infrequent symptoms; pH-impedance if supragastric belching or rumination suspected) | Summary Statement | — |
+| Proven GERD with persisting symptoms: pH-impedance monitoring on PPI (only modality to assess ongoing reflux burden on therapy) | Summary Statement | — |
+| HRM before antireflux surgery: excludes motor disorders (achalasia found in 3% before planned fundoplication) and assesses peristaltic reserve | Summary Statement | — |
+| **Extraesophageal / Atypical Symptoms** | | |
+| Ambulatory reflux monitoring (pH impedance off acid suppression) over laryngoscopy for establishing extraesophageal reflux diagnosis | Strong | Low |
+| Upfront ambulatory reflux monitoring off PPI over empiric PPI trial for extraesophageal symptoms without concurrent typical reflux symptoms | Conditional | Very Low |
+| HRIM with postprandial monitoring is the diagnostic standard for rumination syndrome | Summary Statement | — |
 
 ## Relevance to Wiki
 

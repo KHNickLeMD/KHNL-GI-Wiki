@@ -3,7 +3,7 @@ title: "ACG 2022: Diagnosis and Management of Celiac Disease"
 category: source
 tags: [celiac-disease, gluten, malabsorption, small-bowel, ttg, marsh]
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-05-28
 sources: []
 ---
 
@@ -60,6 +60,24 @@ Celiac disease (CD) affects ~1% of the US population and is defined as a permane
 - **Pneumococcal risk:** ~1/3 of CD patients have subclinical functional hyposplenism (pitted red cell counting). CD is associated with ~2-fold increased risk of pneumococcal infection.
 
 - **Oats:** Gluten-free oats are safe for most; a small subset react to avenin. Finnish pure oats (Avena sativa "Irina" and "Potenza") have been validated as safe in children.
+
+## Recommendations
+
+| Recommendation | Strength | Evidence Quality |
+|---|---|---|
+| **Diagnosis** | | |
+| EGD with multiple duodenal biopsies (1–2 bulb + ≥4 distal) as standard for confirmation in adults | Strong | Moderate |
+| Nonbiopsy approach (TTG-IgA >10× ULN + confirmatory EMA) acceptable in children; may apply to symptomatic adults unable to undergo endoscopy | Conditional | Moderate |
+| Case finding (targeted testing in symptomatic or high-risk individuals); NOT mass population screening | Strong | Low |
+| TTG-IgA preferred test in IgA-sufficient children <2 years; DGP-IgG or TTG-IgG in IgA-deficient children | Strong | Moderate |
+| **Treatment Goals** | | |
+| Mucosal (histologic) healing is the preferred endpoint of GFD therapy beyond clinical and serological remission | Conditional | Low |
+| **Dietary Management** | | |
+| Gluten-free oats recommended for most patients with CD | Strong | Moderate |
+| Routine use of gluten detection devices is not recommended | Conditional | Low |
+| Insufficient evidence to recommend probiotics for or against in CD | — | Very Low |
+| **Preventive Care** | | |
+| Pneumococcal vaccination in patients with CD due to increased risk from functional hyposplenism | Conditional | Low |
 
 ## Relevance to Wiki
 

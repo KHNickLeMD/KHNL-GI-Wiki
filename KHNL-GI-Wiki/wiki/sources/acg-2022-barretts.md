@@ -3,7 +3,7 @@ title: "ACG 2022: Diagnosis and Management of Barrett's Esophagus"
 category: source
 tags: [barretts-esophagus, esophageal, dysplasia, eet, rfa, surveillance]
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-05-28
 sources: []
 ---
 
@@ -70,6 +70,33 @@ Comprehensive evidence-based guideline covering diagnosis, screening, surveillan
 - p53 IHC: OR 4–17 for progression; sensitivity 62%, specificity 80% (overexpression); insufficient for routine recommendation due to methodologic limitations.
 - TissueCypher: 15-biomarker tissue systems pathology assay; sensitivity/specificity for HGD/EAC within 5 yr: 30%/95% in NDBE. No routine recommendation.
 - WATS-3D: Abrasive cytology brush with 3D AI analysis; adds 2% absolute increase in dysplasia detection vs forceps biopsy alone; no recommendation pending chromoendoscopy-plus-WATS-3D data.
+
+## Recommendations
+
+| Recommendation | Strength | Evidence Quality |
+|---|---|---|
+| **Diagnosis** | | |
+| Barrett's esophagus requires intestinal metaplasia (goblet cells) in the tubular esophagus | Conditional | Very Low |
+| At least 8 biopsies at screening; Seattle protocol (4-quadrant biopsies every 2 cm) for segments >4 cm | Strong | Low |
+| All dysplasia (any grade) must be confirmed by a second GI pathologist | Strong | Low |
+| **Screening** | | |
+| Single screening endoscopy for patients with chronic GERD plus ≥3 additional risk factors | Conditional | Very Low |
+| Nonendoscopic capsule sponge device + biomarker (e.g., Cytosponge-TFF3) is an acceptable alternative screening modality | Conditional | Very Low |
+| No repeat endoscopic screening after a negative index examination | Conditional | Low |
+| **Surveillance** | | |
+| White light endoscopy AND chromoendoscopy at every surveillance examination | Strong | Moderate |
+| NDBE <3 cm: EGD every 5 years | Strong | Moderate |
+| NDBE ≥3 cm: EGD every 3 years | Strong | Moderate |
+| Cease surveillance when patient is no longer a candidate for EET or has <5-year life expectancy | Strong | Low |
+| **Medical Therapy** | | |
+| PPI at least once daily for all BE patients without contraindications | Conditional | Very Low |
+| Antireflux surgery is NOT recommended as antineoplastic therapy in BE | Conditional | Low |
+| **Endoscopic Therapy (EET)** | | |
+| EET over esophagectomy for HGD or intramucosal cancer (IMC) | Strong | Moderate |
+| EET for confirmed LGD | Conditional | Moderate |
+| Endoscopic resection (ER) of any visible lesion before ablation | Conditional | Very Low |
+| EET at high-volume centers | Conditional | Very Low |
+| Mandatory post-CEIM surveillance (structured intervals by pretreatment histology) | Strong | Moderate |
 
 ## Relevance to Wiki
 

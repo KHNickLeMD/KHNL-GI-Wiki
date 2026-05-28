@@ -3,7 +3,7 @@ title: "ACG Clinical Guideline: Nutrition Therapy in the Adult Hospitalized Pati
 category: source
 tags: [nutrition, enteral-nutrition, parenteral-nutrition, icu, hospitalized-patient, malnutrition, acg]
 created: 2026-05-21
-updated: 2026-05-21
+updated: 2026-05-28
 sources: []
 ---
 
@@ -41,21 +41,6 @@ The guideline provides guidance on enteral access, volume targets, protein dosin
 - Supplemental PN (added to EN) should be deferred until EN provides <60% of goal for ≥7–10 days
 - End-of-life nutrition: no clinical evidence that artificial nutrition improves quality of life or survival in most EOL situations; patient/family autonomy guides decision-making
 - Semi-elemental and elemental formulas: reserved for documented malabsorption; not routinely superior to polymeric formulas
-
----
-
-## Relevance to Wiki
-
-- Creates new concept page: [[nutrition-in-hospitalized-patients]]
-- Cross-references with [[acute-pancreatitis]] (EN preferred in AP), [[inflammatory-bowel-disease]], and [[nutrition-in-liver-disease]]
-
----
-
-## Contradictions / Open Questions
-
-- Optimal caloric target in ICU remains controversial (permissive underfeeding vs. full feeding in late phase)
-- GRV threshold for intervention and the decision to stop vs. continue EN during high GRV remains variable in practice
-- Role of immune-modulating formulas (glutamine, arginine, omega-3) remains uncertain outside specific settings
 
 ---
 
@@ -101,3 +86,18 @@ The guideline provides guidance on enteral access, volume targets, protein dosin
 | Nutrition decisions at end of life should be guided by patient autonomy and expressed patient preferences | Conditional | Very Low |
 | Clinicians are not obligated to initiate or continue artificial nutrition support in patients at end of life when it is not desired | Conditional | Very Low |
 | Prognosis and goals of care should guide nutrition decisions; withholding/withdrawing nutrition is ethically equivalent | Conditional | Very Low |
+
+## Relevance to Wiki
+
+- Creates new concept page: [[nutrition-in-hospitalized-patients]]
+- Cross-references with [[acute-pancreatitis]] (EN preferred in AP), [[inflammatory-bowel-disease]], and [[nutrition-in-liver-disease]]
+
+---
+
+## Contradictions / Open Questions
+
+- Optimal caloric target in ICU remains controversial (permissive underfeeding vs. full feeding in late phase)
+- GRV threshold for intervention and the decision to stop vs. continue EN during high GRV remains variable in practice
+- Role of immune-modulating formulas (glutamine, arginine, omega-3) remains uncertain outside specific settings
+
+---

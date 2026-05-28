@@ -3,7 +3,7 @@ title: "USMSTF 2015: Colonoscopy Surveillance after Colorectal Cancer Resection"
 category: source
 tags: [crc, colonoscopy, surveillance, colorectal-cancer, post-resection, metachronous, rectal-cancer, eus, ctc, fit, lynch-syndrome, serrated-polyposis-syndrome]
 created: 2026-05-19
-updated: 2026-05-19
+updated: 2026-05-28
 sources: []
 ---
 
@@ -97,6 +97,23 @@ A "high-quality" colonoscopy is defined throughout as: complete to cecum/anastom
 - **FACS RCT (2014):** Intensive CT + CEA associated with higher rate of curative-intent resection of recurrences but not improved survival vs. minimal follow-up.
 
 ---
+
+## Recommendations
+
+| Recommendation | Strength | Evidence Quality |
+|---|---|---|
+| **Perioperative Clearing** | | |
+| Patients with CRC should undergo high-quality perioperative clearing colonoscopy before surgery, or within 3-6 months after surgery in the case of obstructive CRC | Strong | Low |
+| **First Postoperative Surveillance** | | |
+| Perform first surveillance colonoscopy 1 year after surgery (or 1 year after clearing perioperative colonoscopy) for patients who underwent curative resection of colon or rectal cancer | Strong | Low |
+| **Subsequent Surveillance Intervals** | | |
+| After the 1-year colonoscopy: next colonoscopy at 3 years (4 years after surgery), then 5 years (9 years after surgery), then every 5 years until benefit outweighed by diminishing life expectancy | Strong | Low |
+| **Rectal Cancer Local Surveillance** | | |
+| For rectal cancer patients without standard TME, after transanal local excision, or without neoadjuvant chemoradiation: perform local surveillance with flexible sigmoidoscopy or EUS every 3-6 months for the first 2-3 years after surgery | Weak | Low |
+| **CT Colonography for Obstructive CRC** | | |
+| For obstructive CRC precluding complete colonoscopy: use CT colonography as best alternative to exclude synchronous neoplasms; double-contrast barium enema is acceptable if CTC unavailable | Strong | Moderate |
+| **Fecal Tests** | | |
+| Insufficient evidence to recommend routine use of FIT or fecal DNA for surveillance after CRC resection | Summary Statement | Insufficient evidence |
 
 ## Relevance to Wiki
 

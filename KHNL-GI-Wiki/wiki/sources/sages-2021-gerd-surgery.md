@@ -3,7 +3,7 @@ title: "SAGES 2021 Guidelines for Surgical Treatment of Gastroesophageal Reflux 
 category: source
 tags: [gerd, antireflux-surgery, fundoplication, laparoscopic, robotic, foregut, surgical]
 created: 2026-05-16
-updated: 2026-05-16
+updated: 2026-05-28
 sources: []
 ---
 
@@ -59,6 +59,26 @@ This guideline should be read alongside [[acg-2021-gerd]] (comprehensive GERD ma
 - All recommendations conditional; most evidence low or very low certainty
 - Major limitations: high risk of bias, small sample sizes, lack of blinding, heterogeneous surgical techniques
 - Robotic instruments not currently sized for small children (feasibility limitation)
+
+## Recommendations
+
+| Recommendation | Strength | Evidence Quality |
+|---|---|---|
+| **Surgery vs. Medical Management** | | |
+| Surgical fundoplication is suggested over continued long-term medical management in adults with confirmed chronic or refractory GERD | Conditional | Very Low |
+| **Surgical Approach** | | |
+| Either robotic or laparoscopic fundoplication may be performed based on shared decision-making; outcomes are equivalent overall | Conditional | Low (adults); Very Low (children) |
+| Robotic fundoplication may be preferred for patients prioritizing long-term PPI elimination when institutional expertise is available | Conditional | Low |
+| Laparoscopic fundoplication may be preferred for patients prioritizing short-term symptom control or lower reoperation risk | Conditional | Low |
+| **Wrap Type** | | |
+| Either partial or complete (Nissen) fundoplication may be performed based on patient values in patients without large hiatal hernia | Conditional | Low |
+| Complete fundoplication is preferred for patients prioritizing long-term reflux control (5.1% better at >5 years) and accepting higher dysphagia risk | Conditional | Low |
+| Partial fundoplication is preferred for patients prioritizing dysphagia minimization (7.4% less long-term dysphagia at >5 years) | Conditional | Low |
+| **Short Gastric Vessel Division** | | |
+| Either division or preservation of short gastric vessels is acceptable; division is necessary only when tension-free wrap cannot otherwise be achieved | Conditional | Very Low |
+| Patients should be counseled that vessel division may improve long-term symptom control but is associated with more gas-bloat symptoms at 10–20 years | Conditional | Very Low |
+| **Pediatric Dissection** | | |
+| Minimal dissection (without violation of phrenoesophageal membrane) is preferred during pediatric fundoplication in patients without large hiatal hernia | Conditional | Moderate |
 
 ## Relevance to Wiki
 - Primary source for [[antireflux-surgery]] advanced procedure page

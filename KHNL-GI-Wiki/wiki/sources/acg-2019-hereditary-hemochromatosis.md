@@ -3,7 +3,7 @@ title: "ACG 2019: Hereditary Hemochromatosis"
 category: source
 tags: [hemochromatosis, iron-overload, hfe, phlebotomy, liver, hpb, genetics, ferritin, transferrin-saturation]
 created: 2026-05-19
-updated: 2026-05-19
+updated: 2026-05-28
 sources: []
 ---
 
@@ -71,6 +71,28 @@ Treatment is dominated by therapeutic phlebotomy — removing approximately 500 
 - Complications that do improve: liver fibrosis (mild-moderate), cardiomyopathy (partial), skin pigmentation, fatigue
 
 ---
+
+## Recommendations
+
+| Recommendation | Strength | Evidence Quality |
+|---|---|---|
+| **Screening** | | |
+| Selective screening of first-degree relatives of HH patients is recommended; general population screening is NOT recommended | Strong | Moderate |
+| H63D and S65C mutations alone (without C282Y co-mutation) do NOT confer increased risk of pathologic iron overload — do not pursue diagnostically | Conditional | Very Low |
+| **Diagnostic Evaluation** | | |
+| Transferrin saturation ≥45% as preferred initial screening test; if TS ≥45%, proceed to HFE genotyping | Summary Statement | — |
+| SF <1,000 ng/mL in C282Y homozygotes with normal liver enzymes → liver biopsy NOT indicated (advanced fibrosis risk <2%) | Summary Statement | — |
+| SF >1,000 ng/mL → liver biopsy recommended for fibrosis staging | Summary Statement | — |
+| MRI T2* (non-contrast) endorsed for non-invasive hepatic iron concentration in non-C282Y patients when biopsy not otherwise indicated | Conditional | Low |
+| Against additional non-HFE genetic testing in patients with iron overload who are C282Y/H63D negative | Conditional | Very Low |
+| **Treatment** | | |
+| Therapeutic phlebotomy (~500 mL/week) first-line for C282Y homozygotes and C282Y/H63D compound heterozygotes; target ferritin 50–100 ng/mL | Strong | Moderate |
+| Iron chelation NOT recommended as first-line therapy; reserved for phlebotomy-intolerant or -contraindicated patients | Strong | Low |
+| PPIs reduce phlebotomy burden but are NOT recommended as primary HH treatment | Strong | Low |
+| Liver transplantation indicated for decompensated cirrhosis or HCC | Strong | Low |
+| **HCC Surveillance** | | |
+| Standard US ± AFP every 6 months for HH patients with cirrhosis; continue even after iron depletion | Summary Statement | — |
+| Against routine HCC surveillance in HH with stage 3 fibrosis or less | Conditional | Very Low |
 
 ## Relevance to Wiki
 

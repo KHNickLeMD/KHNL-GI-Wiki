@@ -3,7 +3,7 @@ title: "ACG 2020: Small Intestinal Bacterial Overgrowth"
 category: source
 tags: [sibo, imo, small-bowel, breath-testing, rifaximin, ibs, motility, microbiome]
 created: 2026-05-19
-updated: 2026-05-19
+updated: 2026-05-28
 sources: []
 ---
 
@@ -158,6 +158,24 @@ Treatment is centered on antibiotics — rifaximin being the best studied non-ab
 **CH₄-positive primary outcome:** improvement in constipation severity (CSBM/week increase >1) AND normalization of CH₄ (no CH₄ ≥10 ppm within 90 minutes)
 
 ---
+
+## Recommendations
+
+| Recommendation | Strength | Evidence Quality |
+|---|---|---|
+| **Diagnosis** | | |
+| Glucose hydrogen or lactulose hydrogen breath tests for diagnosis of SIBO in patients with IBS | Conditional | Very Low |
+| Glucose or lactulose hydrogen breath tests for SIBO in symptomatic patients with suspected motility disorders | Conditional | Very Low |
+| Glucose or lactulose hydrogen breath tests in symptomatic patients with previous luminal abdominal surgery | Conditional | Very Low |
+| Methane breath testing (glucose or lactulose) to diagnose IMO in symptomatic patients with constipation | Conditional | Very Low |
+| Do NOT test for SIBO using breath tests in asymptomatic patients on PPIs | Conditional | Very Low |
+| **Treatment** | | |
+| Antibiotics in symptomatic patients with SIBO to eradicate overgrowth and resolve symptoms | Conditional | Low |
+| Rifaximin 550 mg TID is the best-studied non-absorbable antibiotic (61–78% efficacy); IMO combination (rifaximin + neomycin) most effective for methane-positive patients | Summary Statement | — |
+| Probiotics are NOT recommended for SIBO treatment (no consistent evidence; may cause D-lactic acidosis) | Summary Statement | — |
+| FMT has no current basis for use in SIBO treatment | Summary Statement | — |
+| **Prevention** | | |
+| Focus on treating the underlying cause of SIBO as the primary mode of prevention | Summary Statement | — |
 
 ## Relevance to Wiki
 - Creates: [[small-intestinal-bacterial-overgrowth]] (new disease script, small-bowel subfolder)

@@ -3,7 +3,7 @@ title: "ACG 2023: Management of Patients With Acute Lower Gastrointestinal Bleed
 category: source
 tags: [lower-gi-bleeding, lgib, colonoscopy, hemorrhage, diverticular]
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-05-28
 sources: []
 ---
 
@@ -167,6 +167,33 @@ Key departure from the 2016 guideline: the panel now recommends **against urgent
 - Discontinuing anticoagulation after diverticular hemorrhage associated with HR 1.93 for ischemic stroke at median 115 days
 
 ---
+
+## Recommendations
+
+| Recommendation | Strength | Evidence Quality |
+|---|---|---|
+| **Resuscitation and Transfusion** | | |
+| Restrictive transfusion threshold Hgb 7 g/dL for hemodynamically stable LGIB | Strong | Moderate |
+| Threshold of 8 g/dL reasonable for preexisting cardiovascular disease | Conditional | Low |
+| **Anticoagulation Reversal** | | |
+| 4-factor PCC preferred over FFP for life-threatening LGIB with VKA supratherapeutic INR | Strong | Moderate |
+| Idarucizumab for dabigatran reversal; andexanet alfa for apixaban and rivaroxaban reversal | Conditional | Low |
+| **Antifibrinolytics** | | |
+| Tranexamic acid NOT recommended for LGIB | Strong | Moderate |
+| **Colonoscopy** | | |
+| Colonoscopy recommended for most hospitalized LGIB patients | Strong | Moderate |
+| Nonemergent inpatient colonoscopy (not urgent <24 hours) for most LGIB patients | Strong | Moderate |
+| **CTA** | | |
+| CTA as first-line test for hemodynamically significant ongoing hematochezia | Conditional | Moderate |
+| Prompt referral to IR for transcatheter arteriography + possible embolization after positive CTA | Strong | Moderate |
+| **Endoscopic Treatment** | | |
+| Through-the-scope clips, endoscopic band ligation, or coagulation for diverticular hemorrhage | Strong | Low |
+| APC as effective first-line therapy for colonic angioectasias | Conditional | Low |
+| **Antithrombotic Management After Discharge** | | |
+| Discontinue nonaspirin NSAIDs permanently after diverticular hemorrhage | Strong | Low |
+| For secondary cardiovascular prevention: continue aspirin despite increased rebleeding risk | Conditional | Low |
+| Re-evaluate risks/benefits of P2Y12 inhibitors in multidisciplinary setting | Strong | Low |
+| Resume anticoagulation after LGIB cessation (within 7 days); reduces thromboembolism and mortality | Strong | Moderate |
 
 ## Relevance to Wiki
 

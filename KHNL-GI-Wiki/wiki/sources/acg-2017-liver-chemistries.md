@@ -3,7 +3,7 @@ title: "ACG 2017: Evaluation of Abnormal Liver Chemistries"
 category: source
 tags: [liver-chemistries, liver-tests, alt, ast, alkaline-phosphatase, bilirubin, hepatocellular, cholestatic, nafld, viral-hepatitis, hemochromatosis, wilson-disease, autoimmune-hepatitis, pbc, psc, dili, hpb]
 created: 2026-05-19
-updated: 2026-05-19
+updated: 2026-05-28
 sources: []
 ---
 
@@ -90,6 +90,27 @@ The guideline systematically reviews the diagnostic evaluation of the major spec
 ### Acute Hepatitis / High-Urgency Presentations
 - Acute hepatitis with elevated prothrombin time and/or encephalopathy → **immediate referral to liver specialist** (Strong/Very Low)
 - Fulminant hepatic failure = rapid development of severe liver injury with prolonged PT and hepatic encephalopathy **without previous liver disease** → immediate evaluation regardless of ALT level
+
+## Recommendations
+
+| Recommendation | Strength | Evidence Quality |
+|---|---|---|
+| **ALT/AST Elevation — Tiered Evaluation** | | |
+| Borderline/mild AST/ALT (<5× ULN): comprehensive history, PE, CBC, LFTs, HBsAg, HBcAb, HCV Ab ± PCR, iron panel, abdominal US; repeat at 3 months if negative | Summary Statement | — |
+| Moderate AST/ALT (5–15× ULN): add HAV IgM, HBcAb IgM, ceruloplasmin, ANA, SMA, ultrasound; urgent liver consultation if signs of ALF | Summary Statement | — |
+| Severe/massive AST/ALT (>15× ULN): add HSV/EBV/CMV, anti-LKM, urine tox, Doppler US; consider NAC if acetaminophen ingestion | Summary Statement | — |
+| Acute hepatitis with elevated PT and/or encephalopathy: immediate referral to liver specialist | Strong | Very Low |
+| **Alkaline Phosphatase** | | |
+| Confirm hepatic origin with GGT; if hepatic origin: RUQ ultrasound; if no ductal dilatation: check AMA, ANA, SMA for PBC/PSC/AIH | Summary Statement | — |
+| Isolated ALP >2× ULN with negative evaluation: consider liver biopsy after 6 months observation | Summary Statement | — |
+| **Bilirubin** | | |
+| Fractionate bilirubin into conjugated and unconjugated; elevated unconjugated with normal transaminases and ALP → Gilbert syndrome (presumptive, no further workup needed if <4 mg/dL) | Summary Statement | — |
+| **Disease-Specific Evaluation** | | |
+| Transferrin saturation ≥45% as preferred initial screening for hereditary hemochromatosis; confirm with HFE genotyping | Summary Statement | — |
+| Ceruloplasmin screening in patients <55 years with persistent elevated AST/ALT (Wilson's disease); confirm with 24h urine copper and slit-lamp | Summary Statement | — |
+| ANA + ASMA + IgG + biopsy required for autoimmune hepatitis diagnosis; histologic confirmation mandatory | Summary Statement | — |
+| AMA positive → evaluate for PBC; MRCP preferred for PSC diagnosis | Summary Statement | — |
+| Liver biopsy when serologic testing and imaging fail to establish diagnosis, or to stage a condition | Strong | Very Low |
 
 ## Relevance to Wiki
 

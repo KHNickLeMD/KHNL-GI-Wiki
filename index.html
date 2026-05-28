@@ -1831,13 +1831,42 @@ function showOverview() {
     .sort((a,b)=>(b.updated||b.created||'').localeCompare(a.updated||a.created||''));
   const recentPages = recentFilter(allRecentPages);
 
-  // Detect society/journal prefix for a source title (e.g. "ACG", "AASLD")
+  // Detect society/journal prefix for a source title (e.g. "ACG", "AASLD", "AASLD/AST")
   const orgFromTitle = (t) => {
     if (!t) return '';
-    const m = t.match(/^([A-Z]{2,8}(?:\/[A-Z]{2,8})?)\b/);
+    const m = t.match(/^([A-Z]{2,8}(?:[\/\s][A-Z]{2,8})?)\b/);
     return m ? m[1] : '';
   };
   const stripOrg = (t, org) => org && t.startsWith(org) ? t.slice(org.length).replace(/^[:\s—-]+/, '').trim() : t;
+
+  // Pull the publication year from a source slug (slug convention is
+  // <author>-<year>-<short-title>, e.g. "aasld-2025-hcc-critical-update").
+  const yearFromSlug = (slug) => {
+    if (!slug) return '';
+    const m = slug.match(/\b((?:19|20)\d{2})\b/);
+    return m ? m[1] : '';
+  };
+  // Clean a source title for display: strip leading org tokens, strip any
+  // embedded year that appears at the start or in trailing parens, so we
+  // don't end up with duplication when we prepend the year ourselves.
+  const cleanSourceTitle = (title) => {
+    if (!title) return '';
+    let t = title.trim();
+    // Iteratively strip leading uppercase org tokens (handles "AASLD",
+    // "AASLD/AST", and "AASLD AST" forms).
+    for (let i = 0; i < 4; i++) {
+      const m = t.match(/^([A-Z]{2,8})(?:\s*\/\s*[A-Z]{2,8})?\b\s*/);
+      if (!m) break;
+      t = t.slice(m[0].length);
+    }
+    // Strip leading year + optional separator
+    t = t.replace(/^(?:19|20)\d{2}\s*[:\-—]?\s*/, '');
+    // Strip trailing "(YYYY)"
+    t = t.replace(/\s*\((?:19|20)\d{2}\)\s*$/, '');
+    // Strip stray leading punctuation
+    t = t.replace(/^[:\-—\s]+/, '');
+    return t.trim();
+  };
 
   const sectionCards = SECTION_ORDER.filter(s=>Object.values(wikiData).some(p=>p.section===s))
     .map(sec => {
@@ -1868,18 +1897,21 @@ function showOverview() {
     pages.slice(start, start + PAGE_SIZE).map(p =>
       `<li data-nav-slug="${p.slug}" style="cursor:pointer;">
         <span style="flex:1;min-width:0;font-size:13px;color:var(--accent);font-weight:500;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;text-decoration:underline;text-underline-offset:2px;">${p.title}</span>
-        <span style="font-size:11px;color:var(--text-faint);min-width:48px;text-align:right;flex-shrink:0;">${p.updated || ''}</span>
+        <span style="font-size:11px;color:var(--text-faint);width:80px;text-align:right;flex-shrink:0;font-family:var(--font-mono);">${p.updated || ''}</span>
       </li>`
     ).join('') || '<li style="color:var(--text-muted);font-size:12px;padding:14px 16px;">No recent updates yet.</li>';
 
   const renderSourceItems = (srcs, start) =>
     srcs.slice(start, start + PAGE_SIZE).map(s => {
       const org = orgFromTitle(s.title);
-      const display = stripOrg(s.title, org);
+      const cleaned = cleanSourceTitle(s.title);
+      const year = yearFromSlug(s.slug);
+      const display = year ? `${year} ${cleaned}` : cleaned;
+      const ingested = s.created || s.updated || '';
       return `<li data-nav-slug="${s.slug}" style="cursor:pointer;">
         <span style="flex:1;min-width:0;font-size:12.5px;color:var(--accent);overflow:hidden;text-overflow:ellipsis;white-space:nowrap;text-decoration:underline;text-underline-offset:2px;">${display}</span>
-        ${org ? `<span style="font-size:9.5px;font-weight:700;letter-spacing:0.04em;color:var(--accent);background:var(--accent-light);padding:2px 6px;border-radius:3px;font-family:var(--font-mono);min-width:52px;text-align:center;flex-shrink:0;">${org}</span>` : ''}
-        ${s.updated ? `<span style="font-size:11px;color:var(--text-faint);flex-shrink:0;">${s.updated}</span>` : ''}
+        ${org ? `<span style="font-size:9.5px;font-weight:700;letter-spacing:0.04em;color:var(--accent);background:var(--accent-light);padding:2px 6px;border-radius:3px;font-family:var(--font-mono);min-width:52px;text-align:center;flex-shrink:0;">${org}</span>` : '<span style="min-width:52px;flex-shrink:0;"></span>'}
+        <span style="font-size:11px;color:var(--text-faint);width:80px;text-align:right;flex-shrink:0;font-family:var(--font-mono);">${ingested}</span>
       </li>`;
     }).join('') || '<li style="color:var(--text-muted);font-size:12px;padding:14px 16px;">No sources ingested yet.</li>';
 
@@ -1920,12 +1952,12 @@ function showOverview() {
 
       <div class="home-cards">
         <div class="home-card">
-          <h3>Recently updated wikis <span class="hc-col-label" style="margin-left:auto;">Last Updated</span></h3>
+          <h3>Recently updated wikis <span class="hc-col-label" style="margin-left:auto;width:80px;text-align:right;white-space:nowrap;">Last Updated</span></h3>
           <ul class="home-card-list" id="pg-pages-list">${renderPageItems(recentPages, 0)}</ul>
           ${paginationBar('pages', 0, recentPages.length, PAGE_SIZE)}
         </div>
         <div class="home-card">
-          <h3>Recently ingested sources <span class="hc-col-label" style="margin-left:auto;">Journal</span><span class="hc-col-label" style="min-width:64px;text-align:right;">Last Updated</span></h3>
+          <h3>Recently ingested sources <span class="hc-col-label" style="margin-left:auto;min-width:52px;text-align:center;white-space:nowrap;">Journal</span><span class="hc-col-label" style="width:80px;text-align:right;white-space:nowrap;">Date Ingested</span></h3>
           <ul class="home-card-list" id="pg-sources-list">${renderSourceItems(sources, 0)}</ul>
           ${paginationBar('sources', 0, sources.length, PAGE_SIZE)}
         </div>

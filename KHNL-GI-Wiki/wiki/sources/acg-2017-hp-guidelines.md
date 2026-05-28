@@ -3,7 +3,7 @@ title: "ACG Clinical Guideline: Treatment of Helicobacter pylori Infection (2017
 category: source
 tags: [h-pylori, eradication, guideline, acg, antibiotics, bismuth, clarithromycin-resistance]
 created: 2026-05-07
-updated: 2026-05-07
+updated: 2026-05-28
 sources: []
 ---
 
@@ -71,6 +71,24 @@ The guideline also endorses **[[test-and-treat]]** as the preferred strategy for
 - Idiopathic thrombocytopenic purpura (ITP)
 
 ---
+
+## Recommendations
+
+| Recommendation | Strength | Evidence Quality |
+|---|---|---|
+| **Regimen Selection** | | |
+| Bismuth quadruple therapy (BQT: PPI BID + bismuth subsalicylate 525 mg QID + metronidazole 250 mg QID + tetracycline 500 mg QID ×10–14 days) as preferred first-line where clarithromycin resistance >15% | Strong | Moderate |
+| Concomitant quadruple therapy (PPI + clarithromycin 500 mg BID + amoxicillin 1 g BID + metronidazole 500 mg BID ×10–14 days) as alternative first-line | Strong | Moderate |
+| Clarithromycin-based triple therapy ONLY where clarithromycin resistance <15% AND metronidazole resistance <40% | Strong | Moderate |
+| 14-day duration consistently outperforms 7–10 days; 10 days acceptable for BQT | Strong | Moderate |
+| **Post-Treatment Testing** | | |
+| Always confirm eradication with UBT or SAT ≥4 weeks after therapy and ≥2 weeks after stopping PPI; serology is NOT appropriate for post-treatment testing | Strong | Moderate |
+| **Test-and-Treat Strategy** | | |
+| Test-and-treat (non-invasive UBT or SAT) preferred for uninvestigated dyspepsia, age <55, no alarm features, H. pylori prevalence >10% | Strong | Moderate |
+| **Salvage Therapy** | | |
+| Prior clarithromycin exposure → use BQT or levofloxacin-based triple therapy for salvage | Strong | Low |
+| Prior BQT → use levofloxacin-based or rifabutin-based triple therapy | Conditional | Low |
+| Culture and susceptibility testing before third-line therapy | Strong | Low |
 
 ## Relevance to Wiki
 

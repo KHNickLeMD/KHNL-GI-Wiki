@@ -3,7 +3,7 @@ title: "ACG Clinical Guideline: Management of Acute Pancreatitis (2024)"
 category: source
 tags: [pancreatitis, acute-pancreatitis, hpb, gallstone-pancreatitis, necrotizing-pancreatitis, fluid-resuscitation, ercp]
 created: 2026-05-07
-updated: 2026-05-07
+updated: 2026-05-28
 sources: []
 ---
 
@@ -79,6 +79,39 @@ ERCP is indicated in acute gallstone pancreatitis only with concurrent cholangit
 - Mild AP: cholecystectomy before discharge (same admission)
 - Severe/moderately severe AP: delay cholecystectomy 6 weeks after recovery
 - If unfit for surgery: ERCP with sphincterotomy reduces recurrence risk
+
+## Recommendations
+
+| Recommendation | Strength | Evidence Quality |
+|---|---|---|
+| **Diagnosis** | | |
+| Diagnose AP using 2 of 3 criteria: typical pain, lipase/amylase >3× ULN, characteristic imaging | Strong | Moderate |
+| Lipase preferred over amylase as biomarker | Strong | Moderate |
+| CT indicated if diagnosis uncertain or no clinical improvement at 48–72 hours | Conditional | Low |
+| **Fluid Resuscitation** | | |
+| Lactated Ringer's preferred over normal saline | Strong | Moderate |
+| Goal-directed resuscitation (250–500 mL/hr); reassess every 6 hours | Strong | Moderate |
+| Limit aggressive hydration to first 24–48 hours | Strong | Moderate |
+| **Nutrition** | | |
+| Early oral/enteral feeding within 24–48 hours (soft low-fat diet) | Strong | Moderate |
+| Nasogastric feeding equivalent to nasojejunal in most patients if oral not tolerated | Conditional | Low |
+| TPN only if enteral route not possible >5–7 days | Strong | Moderate |
+| **Antibiotics** | | |
+| Antibiotics NOT routine for sterile necrosis | Strong | Moderate |
+| Antibiotics for confirmed or strongly suspected infected pancreatic necrosis | Strong | Moderate |
+| **ERCP in Gallstone Pancreatitis** | | |
+| Emergent ERCP within 24 hours for cholangitis + AP | Strong | Moderate |
+| ERCP within 72 hours for CBD obstruction without cholangitis | Conditional | Low |
+| ERCP NOT recommended for mild gallstone AP without cholangitis or obstruction | Strong | Moderate |
+| ERCP NOT recommended for predicted severe AP without biliary obstruction | Strong | Moderate |
+| **Necrotizing Pancreatitis** | | |
+| Step-up approach: antibiotics → drainage → necrosectomy | Strong | Moderate |
+| Delay intervention ≥4 weeks to allow walled-off necrosis to mature | Strong | Moderate |
+| Endoscopic necrosectomy via LAMS preferred over open surgical necrosectomy | Strong | Moderate |
+| **Cholecystectomy Timing** | | |
+| Cholecystectomy before discharge (same admission) for mild AP | Strong | Moderate |
+| Delay cholecystectomy 6 weeks after recovery for severe/moderately severe AP | Conditional | Low |
+| ERCP with sphincterotomy for patients unfit for surgery to reduce recurrence risk | Conditional | Low |
 
 ## Relevance to Wiki
 

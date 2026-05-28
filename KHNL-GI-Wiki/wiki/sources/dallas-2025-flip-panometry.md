@@ -3,7 +3,7 @@ title: "Dallas Consensus on the Classification of Esophageal Motility Abnormalit
 category: source
 tags: [FLIP, panometry, esophageal-motility, EGJ, achalasia, EGJOO, functional-lumen-imaging, foregut]
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-05-28
 sources: []
 ---
 
@@ -86,6 +86,24 @@ Key clinical applications are established by large evidence bases: a Normal FLIP
 - Pressure threshold added: 60 mL pressure <40 mmHg = Diminished CR; ≥40 mmHg = Disordered CR
 - Max diameter threshold for NEO raised to ≥16 mm (from ≥12 mm in some prior formulations)
 - RAC now defined explicitly: ≥6 consecutive antegrade contractions at 6±3 per minute
+
+## Recommendations
+
+| Recommendation | Strength | Evidence Quality |
+|---|---|---|
+| **FLIP Protocol** | | |
+| The standard FLIP protocol uses a 16-cm EndoFLIP catheter with stepwise inflation to 50 → 60 → 70 mL (≥30 seconds each); EGJ-DI is calculated as the median of 3 measurements at 60 mL (omitting first 5 seconds) | Consensus Statement | — |
+| At least 2 impedance sensors must be positioned below the crural diaphragm at all distension volumes | Consensus Statement | — |
+| **EGJ Opening Classification** | | |
+| EGJ-DI <2 mm²/mmHg AND max diameter <12 mm at 70 mL = Reduced EGJ Opening (REO); EGJ-DI ≥2 mm²/mmHg AND max diameter ≥16 mm = Non-Reduced EGJ Opening (NEO); values between thresholds = Inconclusive | Consensus Statement | — |
+| **Clinical Interpretation** | | |
+| A Normal FLIP pattern (NEO + Normal CR) has NPV >90% for major esophageal motor disorders and effectively excludes achalasia | Consensus Statement | — |
+| Non-spastic Obstruction (REO + Absent/Diminished CR) should be managed equivalently to manometric EGJOO given 92% correspondence | Consensus Statement | — |
+| Obstruction with Normal CR (REO + Normal CR) suggests mechanical obstruction (tight wrap, ring, web) rather than a primary motor disorder | Consensus Statement | — |
+| FLIP may be performed at the time of endoscopy when sedation is already planned, offering a practical advantage over HRM in appropriate patients | Consensus Statement | — |
+| **Spastic Patterns** | | |
+| Spastic classifications (Possible Spasm, Spastic Obstruction) correlate with spastic HRM patterns but require clinical correlation; PPV <75% in spastic domains limits independent diagnostic utility | Consensus Statement | — |
+| Repetitive retrograde contractions (RRC) should no longer be used as a criterion for spastic CR (removed in v2.0) | Consensus Statement | — |
 
 ## Relevance to Wiki
 

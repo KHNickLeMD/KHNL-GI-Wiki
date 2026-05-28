@@ -3,7 +3,7 @@ title: "ACG 2025: Malnutrition and Nutritional Recommendations in Liver Disease"
 category: source
 tags: [liver, cirrhosis, malnutrition, sarcopenia, hepatic-encephalopathy, bcaa, vitamin-e, mash, coffee, nutrition]
 created: 2026-05-07
-updated: 2026-05-07
+updated: 2026-05-28
 sources: []
 ---
 
@@ -56,6 +56,27 @@ Key practical recommendations: small frequent meals + nighttime snack (7–10 PM
 - ALD/AAH: detailed dietary assessment; ensure adequate nutritional intake
 - MASH: lifestyle modification (diet + exercise) → decreases adverse clinical outcomes; independent of fibrosis severity
 - Free water restriction when Na <126 mEq/L in cirrhosis with fluid retention (ascites/edema)
+
+## Recommendations
+
+| Recommendation | Strength | Evidence Quality |
+|---|---|---|
+| **Hospitalized Cirrhosis** | | |
+| Early oral/enteral nutrition supplementation in hospitalized cirrhosis patients | Conditional | Low |
+| Nutritional supplementation therapy in cirrhosis or alcohol-associated hepatitis | Conditional | Very Low |
+| **Steatotic Liver Disease** | | |
+| Natural vitamin E 800 IU/day in MASH without cirrhosis | Conditional | Low |
+| **Coffee** | | |
+| Coffee ≥2 cups/day in chronic liver disease to reduce hepatic fibrosis progression or HCC development | Conditional | Low |
+| **Sodium Restriction** | | |
+| No recommendation for or against strict sodium restriction in cirrhosis with ascites on diuretics | Insufficient evidence | — |
+| **Hepatic Encephalopathy — Protein** | | |
+| Do NOT restrict dietary protein in decompensated cirrhosis with hepatic encephalopathy | Conditional | Very Low |
+| Use vegetable-source protein diet in cirrhosis with HE requiring nutritional supplementation | Conditional | Low |
+| **Hepatic Encephalopathy — BCAAs** | | |
+| Use BCAAs + standard of care (lactulose + rifaximin) in cirrhosis with hepatic encephalopathy | Strong | Moderate |
+| **Late Evening Snacks** | | |
+| Counsel cirrhosis patients on late evening snacks to improve BMI, lean muscle mass, and reduce ascites and HE risk | Strong | Moderate |
 
 ## Relevance to Wiki
 - Creates: `wiki/disease-scripts/hepatopancreaticobiliary-diseases/nutrition-in-liver-disease.md`

@@ -3,7 +3,7 @@ title: "ACG 2025: Ulcerative Colitis in Adults (Guideline Update)"
 category: source
 tags: [uc, ulcerative-colitis, ibd, 5-asa, biologics, vedolizumab, infliximab, ustekinumab, guselkumab, mirikizumab, risankizumab, tofacitinib, upadacitinib, ozanimod, etrasimod, asuc]
 created: 2026-05-07
-updated: 2026-05-07
+updated: 2026-05-28
 sources: []
 ---
 
@@ -163,6 +163,71 @@ Comprehensive update of ACG UC guideline. Major additions vs 2019: S1P modulator
 - **S1P modulators (ozanimod, etrasimod):** new class; oral; cardiac screening required; no anti-TNF requirement
 - **JAK inhibitors safety context:** ORAL Surveillance data from RA patients; boxed warning; reserve for anti-TNF failures or those who cannot use biologics per FDA; use clinical judgment
 - Biosimilars (IFX, ADA, UST) are equivalent; switching is acceptable
+
+## Recommendations
+
+| Recommendation | Strength | Evidence Quality |
+|---|---|---|
+| **Diagnosis/Assessment** | | |
+| Perform stool testing to rule out C. difficile in suspected UC | Strong | Very Low |
+| Do not use serologic antibody testing to establish or rule out UC diagnosis | Strong | Very Low |
+| Do not use serologic antibody testing to determine prognosis | Strong | Very Low |
+| **Treatment Goals** | | |
+| Treat to endoscopic improvement (MES 0–1) to increase steroid-free remission and prevent hospitalization/surgery | Strong | Moderate |
+| Use fecal calprotectin to assess response, evaluate relapse, and during maintenance | Strong | Moderate |
+| **Mild-Moderate UC — Induction** | | |
+| Use rectal 5-ASA 1 g/day for mildly-moderately active proctitis induction | Strong | Moderate |
+| Use tacrolimus suppository or beclomethasone suppository for proctitis not responsive to topical 5-ASA | Conditional | Low |
+| Use topical corticosteroids for proctitis or left-sided colitis | Conditional | Very Low |
+| Prefer rectal 5-ASA enemas ≥1 g/day over rectal steroids for proctitis/left-sided colitis induction | Strong | Moderate |
+| Use combined rectal 5-ASA + oral 5-ASA ≥2 g/day vs oral alone for left-sided colitis induction | Conditional | Low |
+| Use budesonide MMX 9 mg/day for left-sided UC intolerant/nonresponsive to oral + rectal 5-ASA | Strong | Moderate |
+| Use oral 5-ASA ≥2 g/day for mildly-moderately active extensive colitis induction | Strong | Moderate |
+| Use oral systemic corticosteroids for UC failing 5-ASA therapy | Strong | Low |
+| Do not change to alternate 5-ASA formulation; consider alternative class | Conditional | Low |
+| Add budesonide MMX 9 mg/day for mild-moderate UC not responding to 5-ASA | Strong | Moderate |
+| **Mild-Moderate UC — Maintenance** | | |
+| Use rectal 5-ASA 1 g/day for maintenance in mildly active proctitis | Strong | Moderate |
+| Use oral 5-ASA ≥1.5 g/day for maintenance in left-sided or extensive UC | Strong | Moderate |
+| Do not use systemic, budesonide MMX, or topical corticosteroids for maintenance | Strong | Moderate |
+| **Moderate-Severe UC — Induction** | | |
+| Use oral budesonide MMX for moderately active UC | Strong | Moderate |
+| Use oral systemic corticosteroids for moderate-severe UC induction | Strong | Low |
+| Do not use thiopurine or methotrexate monotherapy for induction | Strong | Low |
+| Use S1P receptor modulators ozanimod and etrasimod for induction | Strong | Moderate |
+| Use ustekinumab for induction | Strong | Moderate |
+| Use IL-23p19 inhibitors guselkumab, mirikizumab, or risankizumab for induction | Strong | Moderate |
+| Use vedolizumab for induction | Strong | Moderate |
+| Use infliximab for induction | Strong | High |
+| Use adalimumab or golimumab for induction | Strong | Moderate |
+| Use tofacitinib for induction | Strong | Moderate |
+| Use upadacitinib for induction | Strong | High |
+| Do not add 5-ASA for clinical efficacy when using advanced therapies | Conditional | Very Low |
+| Use combination infliximab + thiopurine when infliximab is used for induction | Strong | Moderate |
+| **Moderate-Severe UC — Maintenance** | | |
+| Do not use concomitant 5-ASA with anti-TNF maintenance | Conditional | Low |
+| Do not use systemic corticosteroids for maintenance | Strong | Moderate |
+| Use thiopurines for maintenance after steroid induction | Conditional | Low |
+| Do not use methotrexate for maintenance | Conditional | Low |
+| Continue ozanimod or etrasimod for maintenance | Strong | Moderate |
+| Continue ustekinumab for maintenance | Strong | Moderate |
+| Continue guselkumab, mirikizumab, or risankizumab for maintenance | Strong | Moderate |
+| Continue vedolizumab IV or SC for maintenance | Strong | Moderate |
+| Continue adalimumab, golimumab, or infliximab IV or SC for maintenance | Strong | Moderate |
+| Continue tofacitinib or upadacitinib for maintenance | Strong | Moderate |
+| **Drug Positioning** | | |
+| Measure serum drug levels + antidrug antibodies in loss of response to anti-TNF | Conditional | Very Low |
+| Prefer vedolizumab over adalimumab for induction + maintenance | Strong | Moderate |
+| **ASUC** | | |
+| Perform C. difficile testing in ASUC | Strong | Moderate |
+| Use pharmacologic DVT prophylaxis in ASUC | Strong | Low |
+| Do not use routine broad-spectrum antibiotics in ASUC | Strong | Low |
+| Do not use total parenteral nutrition for bowel rest in ASUC | Conditional | Very Low |
+| Use IV methylprednisolone 60 mg/day OR hydrocortisone 100 mg TID/QID for ASUC | Strong | Low |
+| Use rescue therapy with infliximab or cyclosporine by day 3 if failing IVCS | Strong | Moderate |
+| Continue infliximab for maintenance after ASUC remission with infliximab | Strong | Moderate |
+| Use thiopurines for maintenance after cyclosporine-induced remission | Conditional | Low |
+| Use vedolizumab for maintenance after cyclosporine-induced remission | Conditional | Very Low |
 
 ## Relevance to Wiki
 - Primary source for [[ulcerative-colitis]] disease script

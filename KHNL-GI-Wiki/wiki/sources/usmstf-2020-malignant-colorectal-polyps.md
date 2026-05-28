@@ -3,7 +3,7 @@ title: "USMSTF 2020: Endoscopic Recognition and Management Strategies for Malign
 category: source
 tags: [malignant-polyp, submucosal-invasion, colorectal-cancer, polypectomy, emr, haggitt, kikuchi, histology, lymph-node-metastasis, tumor-budding]
 created: 2026-05-19
-updated: 2026-05-19
+updated: 2026-05-28
 sources: []
 ---
 
@@ -196,6 +196,26 @@ Deep submucosal invasion (≥1 mm, "SM2/SM3") carries a 10–18% risk of residua
 > **Weak recommendation; Low-quality evidence**
 
 ---
+
+## Recommendations
+
+| Recommendation | Strength | Evidence Quality |
+|---|---|---|
+| **Endoscopic Recognition of Deep Submucosal Invasion** | | |
+| Consider lesions with NICE type 3 or Kudo type V (VN or VI) to have deep submucosal invasion | Strong | High |
+| Biopsy, tattoo, and refer to surgery non-pedunculated lesions with deep SMI features; perform polypectomy for pedunculated polyps with deep SMI features | Weak | Low |
+| **En Bloc Resection** | | |
+| LST-NG morphology with sessile shape or depression, and LST-G with dominant nodule predict higher risk of submucosally invasive cancer | Weak | Moderate |
+| Consider en bloc endoscopic resection for high-risk LST lesions when feasible; at minimum resect the nodular area of LST-G en bloc | Weak | Low |
+| Resect all pedunculated polyps en bloc, even if large | Weak | Low |
+| **Specimen Handling** | | |
+| Handle specimens with features of submucosally invasive cancer in ways that optimize orientation and pathologic assessment (pin to corkboard, mark margins, formalin fixation) | Weak | Low |
+| **Histologic Risk Criteria for Pedunculated Malignant Polyps** | | |
+| Consider pedunculated malignant polyps at high risk of residual/recurrent cancer if they have: poor tumor differentiation, lymphovascular invasion, or tumor within 1 mm of resection margin | Strong | Moderate |
+| **Pathology Reporting** | | |
+| Pathology report should include per CAP template: histologic type, grade of differentiation, tumor extension/invasion, margin status, and presence/absence of lymphovascular invasion; include tumor budding and specimen integrity when possible | Weak | Low |
+| **Multidisciplinary Communication** | | |
+| Establish methods of communication among gastroenterologist, pathologist, oncologist, surgeon, and patient for management of malignant polyps | Weak | Low |
 
 ## Relevance to Wiki
 

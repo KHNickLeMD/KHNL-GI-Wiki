@@ -3,7 +3,7 @@ title: "ACG 2021 Clinical Guideline: Diagnosis and Management of GERD"
 category: source
 tags: [gerd, reflux, esophageal, ppi, barrett, antireflux-surgery, tif, msa, extraesophageal]
 created: 2026-05-16
-updated: 2026-05-16
+updated: 2026-05-28
 sources: []
 ---
 
@@ -66,6 +66,33 @@ A key contribution is the comprehensive treatment of extraesophageal GERD manife
 **Long-Term PPI Safety (addressed comprehensively):**
 - Reviewed associations with CKD, dementia, fractures, Mg/B12/iron deficiency, C. diff, enteric infections, pneumonia, cardiovascular events, gastric cancer — most associations are low quality/confounded
 - Recommends using lowest effective dose; periodic reassessment of need; not withholding when indicated for confirmed GERD
+
+## Recommendations
+
+| Recommendation | Strength | Evidence Quality |
+|---|---|---|
+| **Diagnosis** | | |
+| 8-week empiric PPI trial for typical GERD symptoms (heartburn/regurgitation) | Strong | Moderate |
+| Attempt PPI discontinuation if symptoms resolve on empiric trial | Conditional | Low |
+| Reflux monitoring off PPI for patients with unclear GERD diagnosis | Strong | Low |
+| Endoscopy for alarm symptoms or multiple Barrett's risk factors | Strong | Low |
+| **Medical Management** | | |
+| PPI over H2RA for healing erosive esophagitis | Strong | High |
+| PPI over H2RA for long-term maintenance of erosive esophagitis | Strong | Moderate |
+| Take PPI 30–60 minutes before meals for optimal efficacy | Strong | Moderate |
+| Indefinite maintenance PPI for LA grade C/D esophagitis | Strong | Moderate |
+| On-demand PPI for non-erosive reflux disease (NERD) | Conditional | Low |
+| No prokinetics without documented gastroparesis | Strong | Low |
+| No sucralfate except in pregnancy | Strong | Low |
+| **Extraesophageal Manifestations** | | |
+| Evaluate for non-GERD causes before attributing laryngeal/throat symptoms to GERD | Strong | Moderate |
+| Reflux monitoring before PPI trial for isolated LPR, chronic cough, or asthma without typical GERD | Strong | Moderate |
+| BID PPI for 8–12 weeks if both typical AND extraesophageal GERD symptoms present | Conditional | Low |
+| **Surgical and Procedural Therapy** | | |
+| Antireflux surgery for LA grade C/D, large hiatal hernia, troublesome regurgitation | Strong | Moderate |
+| Magnetic sphincter augmentation (MSA/LINX) as alternative to fundoplication for regurgitation-predominant GERD | Strong | Moderate |
+| Roux-en-Y gastric bypass (RYGB) for obese GERD patients | Conditional | Low |
+| TIF for heartburn/regurgitation without LA grade C/D erosive esophagitis and hiatal hernia ≤2 cm | Conditional | Low |
 
 ## Relevance to Wiki
 - Primary update source for [[gerd]] disease script (adds: empiric PPI trial, extraesophageal management, refractory GERD workup, MSA, TIF criteria, PPI safety data)

@@ -3,7 +3,7 @@ title: "ACG/ASGE 2025: Quality Indicators for EUS"
 category: source
 tags: [eus, endoscopic-ultrasound, quality-indicators, fna, fnb, pancreatobiliary, eus-guided-drainage, quality-improvement]
 created: 2026-05-07
-updated: 2026-05-07
+updated: 2026-05-28
 sources: []
 ---
 
@@ -63,6 +63,35 @@ New indicators in this iteration: EUS-guided liver biopsy diagnostic adequacy (�
 - **Rectal EUS-FNA/FNB:** ~15% infection risk (perirectal abscess) despite prophylactic antibiotics
 - **Therapeutic EUS dominance:** >50% of accepted EUS indications are now therapeutic; competency should be objectively assessed
 - **EUS-guided liver biopsy:** ≥85% diagnostic adequacy is the benchmark; clinically significant bleeding <5%
+
+## Recommendations
+
+| Recommendation | Strength | Evidence Quality |
+|---|---|---|
+| **Preprocedure** | | |
+| Perform EUS only for documented appropriate indication (target >90%) | Strong | Low |
+| Document informed consent including EUS-specific risks (target >98%) | — | — |
+| Administer prophylactic antibiotics for appropriate indications (target >98%) | Strong | Moderate |
+| EUS performed or supervised by a fully trained, credentialed endosonographer (target >98%) | — | — |
+| **Intraprocedure — Diagnostic EUS** | | |
+| Document visualization of relevant structures based on indication (target >98%) | — | — |
+| Stage luminal GI cancers using AJCC/UICC TNM system (target >98%) | — | — |
+| Document echogenicity and wall layer of origin for subepithelial masses (target >98%) | — | — |
+| Achieve diagnostically adequate EUS-guided liver biopsy (target ≥85%) | Strong | Moderate |
+| Identify pancreatic masses ≥10 mm with EUS (target ≥90%) | — | Low |
+| Document measurements, vascular/LN involvement, liver metastases, and ascites for pancreatic masses (target ≥90%) | — | — |
+| Obtain diagnostic specimen by EUS-guided sampling of malignant pancreatic mass (target ≥87%) | Strong | Low |
+| **Intraprocedure — Therapeutic EUS** | | |
+| Achieve technical success in EUS-guided pancreatic fluid collection drainage (target ≥92%) | Strong | Moderate |
+| Achieve technical success in EUS-guided gallbladder drainage (target >90%) | — | Moderate |
+| Achieve technical success in EUS-guided biliary drainage (target ≥85%) | Strong | Moderate |
+| Achieve technical success in EUS-guided gastroenterostomy (target ≥85%) | — | Low |
+| Achieve technical success in EUS-directed transgastric ERCP (EDGE) (target ≥92%) | Strong | Low |
+| **Postprocedure** | | |
+| Create a complete procedure report (target >98%) | — | — |
+| Document adverse event incidence after diagnostic and interventional EUS (target >98%) | — | — |
+| Maintain adverse event rates after diagnostic EUS below thresholds (<0.5% perforation; <1% infection; <1% acute pancreatitis; <1% bleeding; <5% bleeding after liver biopsy) | Strong | Low |
+| Maintain adverse event rates after interventional EUS below thresholds (<10% pancreatic fluid collection drainage; <20% EUS-GBD; <25% EUS-BD; <15% EUS-GE and EDGE) | — | Low |
 
 ## Relevance to Wiki
 - Creates: `wiki/4-advanced-gi-procedures/hepatobiliary-procedures/endoscopic-ultrasound.md`

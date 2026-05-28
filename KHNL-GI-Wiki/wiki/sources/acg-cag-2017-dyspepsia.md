@@ -3,7 +3,7 @@ title: "ACG/CAG 2017: Management of Dyspepsia"
 category: source
 tags: [dyspepsia, functional-dyspepsia, h-pylori, ppi, foregut, guideline, acg, cag]
 created: 2026-05-19
-updated: 2026-05-19
+updated: 2026-05-28
 sources: []
 ---
 
@@ -56,6 +56,28 @@ Joint ACG/CAG guideline on dyspepsia management with 14 GRADE-graded statements.
 ### Long-term PPI
 - Guideline reviewed associations with hip fracture, CAP, C. difficile, electrolyte disturbance, dementia → mostly residual confounding; benefit-harm balance favors continued use when indicated.
 - Stop PPI if not providing benefit; reassess every 6–12 months consistent with FDA guidance.
+
+## Recommendations
+
+| Recommendation | Strength | Evidence Quality |
+|---|---|---|
+| **Uninvestigated Dyspepsia — Initial Workup** | | |
+| Patients ≥60 with uninvestigated dyspepsia: perform endoscopy to exclude upper GI neoplasia | Conditional | Very Low |
+| Do not routinely scope patients <60 for alarm features alone (low PPV for upper GI cancer) | Conditional | Moderate |
+| Patients <60: perform non-invasive H. pylori test-and-treat | Strong | High |
+| Patients <60 H. pylori-negative or symptomatic post-eradication: use empiric PPI therapy | Strong | High |
+| **Uninvestigated Dyspepsia — Second Line** | | |
+| Patients <60 failing PPI/H. pylori-eradication: use prokinetic therapy | Conditional | Very Low |
+| Patients <60 failing PPI/H. pylori-eradication: use TCA | Conditional | Low |
+| **Functional Dyspepsia** | | |
+| FD + H. pylori-positive: perform eradication therapy (NNT 12.5) | Strong | High |
+| FD H. pylori-negative or symptomatic post-eradication: use PPI (NNT 10) | Strong | Moderate |
+| FD failing PPI/H. pylori-eradication: use TCA (NNT 6) | Conditional | Moderate |
+| FD failing PPI/TCA: use prokinetic therapy | Conditional | Very Low |
+| FD failing drug therapy: use psychological therapy (CBT or other; NNT 3) | Conditional | Very Low |
+| Do not routinely recommend complementary/alternative medicine for FD | Conditional | Very Low |
+| Do not routinely perform motility studies in FD | Conditional | Very Low |
+| Consider motility studies in selected FD patients where gastroparesis is strongly suspected | Conditional | Very Low |
 
 ## Relevance to Wiki
 - Primary source for [[dyspepsia]] diagnostic schema.

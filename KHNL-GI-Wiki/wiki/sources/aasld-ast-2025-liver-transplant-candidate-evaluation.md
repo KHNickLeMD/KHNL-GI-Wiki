@@ -3,7 +3,7 @@ title: "AASLD AST 2025: Practice Guideline on Adult Liver Transplantation — Ca
 category: source
 tags: [liver-transplant, liver-transplantation, candidate-evaluation, meld, hcc, cholangiocarcinoma, alf, aclf, cardiac, pulmonary, hepatopulmonary-syndrome, portopulmonary-hypertension, nutrition, frailty, psychosocial, aasld, ast, 2025]
 created: 2026-05-25
-updated: 2026-05-25
+updated: 2026-05-28
 sources: []
 ---
 
@@ -55,25 +55,6 @@ The guideline emphasizes equity and access, noting that patients with ALD, Afric
 - LDLT: educate all patients about LDLT option; adequate GRWR ≥0.8% is important; caution with MELD >30
 - Neuroendocrine tumors: eligible with strict selection; HEHE: consider LT evaluation; colorectal liver metastases: may be considered within strict eligibility
 - Multiorgan transplant: evaluate via multidisciplinary consensus between organ-specific teams
-
-## Relevance to Wiki
-
-- Updates [[liver-transplantation]] — the existing page covers post-transplant management (aasld-2012); this guideline adds a new **pre-transplant candidate evaluation** section to that page
-- Updates [[hepatocellular-carcinoma]] — transplant selection criteria (Milan, AFP thresholds, downstaging), staging workup requirements
-- Updates [[acute-liver-failure]] — urgent referral recommendations
-- Updates [[alcohol-associated-liver-disease]] — ALD-specific transplant evaluation (early referral, no fixed abstinence requirement, MAT acceptance)
-- Updates [[portal-vein-thrombosis]] — Yerdel grade IV PVT as relative contraindication to isolated LT
-- Touches [[hepatopulmonary-syndrome-portopulmonary-hypertension]] — stub needed
-- Touches [[primary-sclerosing-cholangitis]], [[primary-biliary-cholangitis]], [[autoimmune-hepatitis]] — transplant indications confirmed
-
-## Contradictions / Open Questions
-
-- **Alcohol abstinence interval**: The 2012 AASLD long-term management guideline predates the shift in ALD transplant policy. The 2013 guidance (referenced in this document) recommended 6-month abstinence as a criterion; this 2025 guideline explicitly states that length of abstinence should NOT be a listing criterion. Wiki entity pages updated accordingly.
-- **MELD threshold for referral**: This guideline sets MELD ≥12 as a reasonable threshold; earlier guidance set ≥15. The 2025 guidance is now reflected in entity pages.
-- **Coronary artery evaluation**: The 2012 post-transplant guideline did not detail pre-transplant cardiac workup; this 2025 guideline provides specific risk-stratified algorithms and endorses CCTA as preferred noninvasive coronary testing.
-- **Open questions (Table 7)**: community health-based evaluation processes; quality-of-life metrics in candidate selection; immunotherapy impact on HCC downstaging; optimal BMI criteria in era of advanced bariatric management; bisphosphonate effects on bone health outside primary biliary cholangitis.
-
----
 
 ## Recommendations
 
@@ -138,3 +119,22 @@ The guideline emphasizes equity and access, noting that patients with ALD, Afric
 | 57. All multiorgan transplants should be evaluated and listed as a consensus between organ-specific multidisciplinary teams. | Strong | Level 5 |
 | 58. Multiorgan transplant for patients with congenital heart disease and patients requiring multivisceral transplantation may be best conducted at centers with established protocols and providers with prior experience. | Weak | Level 5 |
 | 59. Preparation for multiorgan transplants should include detailed preoperative, perioperative, and postoperative planning with clear communication and delineation of responsibilities. | Strong | Level 4 |
+
+## Relevance to Wiki
+
+- Updates [[liver-transplantation]] — the existing page covers post-transplant management (aasld-2012); this guideline adds a new **pre-transplant candidate evaluation** section to that page
+- Updates [[hepatocellular-carcinoma]] — transplant selection criteria (Milan, AFP thresholds, downstaging), staging workup requirements
+- Updates [[acute-liver-failure]] — urgent referral recommendations
+- Updates [[alcohol-associated-liver-disease]] — ALD-specific transplant evaluation (early referral, no fixed abstinence requirement, MAT acceptance)
+- Updates [[portal-vein-thrombosis]] — Yerdel grade IV PVT as relative contraindication to isolated LT
+- Touches [[hepatopulmonary-syndrome-portopulmonary-hypertension]] — stub needed
+- Touches [[primary-sclerosing-cholangitis]], [[primary-biliary-cholangitis]], [[autoimmune-hepatitis]] — transplant indications confirmed
+
+## Contradictions / Open Questions
+
+- **Alcohol abstinence interval**: The 2012 AASLD long-term management guideline predates the shift in ALD transplant policy. The 2013 guidance (referenced in this document) recommended 6-month abstinence as a criterion; this 2025 guideline explicitly states that length of abstinence should NOT be a listing criterion. Wiki entity pages updated accordingly.
+- **MELD threshold for referral**: This guideline sets MELD ≥12 as a reasonable threshold; earlier guidance set ≥15. The 2025 guidance is now reflected in entity pages.
+- **Coronary artery evaluation**: The 2012 post-transplant guideline did not detail pre-transplant cardiac workup; this 2025 guideline provides specific risk-stratified algorithms and endorses CCTA as preferred noninvasive coronary testing.
+- **Open questions (Table 7)**: community health-based evaluation processes; quality-of-life metrics in candidate selection; immunotherapy impact on HCC downstaging; optimal BMI criteria in era of advanced bariatric management; bisphosphonate effects on bone health outside primary biliary cholangitis.
+
+---

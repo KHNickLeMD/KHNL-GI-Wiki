@@ -3,7 +3,7 @@ title: "USMSTF 2016 — Recommendations on Fecal Immunochemical Testing to Scree
 category: source
 tags: [crc, colorectal-cancer, screening, fit, fecal-immunochemical-test, fobt, colonoscopy, colorectal]
 created: 2026-05-24
-updated: 2026-05-24
+updated: 2026-05-28
 sources: []
 ---
 
@@ -151,6 +151,27 @@ Participation rates tend to remain stable across multiple rounds (>60% in progra
 - Adenoma detection rate (ADR) on colonoscopy following positive FIT: **>45% in men, >35% in women** (using a hemoglobin threshold of ≤20 µg/g)
 
 ---
+
+## Recommendations
+
+| Recommendation | Strength | Evidence Quality |
+|---|---|---|
+| **FIT Over gFOBT** | | |
+| Use FIT rather than gFOBT for CRC screening | Strong | High |
+| **Test Selection** | | |
+| Use quantitative FITs over qualitative FITs | Weak | Low |
+| Use FIT with lower threshold cut-off (<=20 mcg/g) to define a positive test | Weak | Low |
+| Use a one-sample annual FIT screening approach | Weak | Low |
+| **Positive FIT Follow-Up** | | |
+| When screening FIT is positive, colonoscopy is the recommended test for subsequent evaluation | Strong | Moderate |
+| A positive FIT and a negative colonoscopy should not prompt upper GI evaluation in the absence of UGI symptoms | Weak | Very Low |
+| Patients with a positive FIT and a recent colonoscopy (before due for repeat) should generally be offered repeat colonoscopy | Weak | Low |
+| **Logistics** | | |
+| Patients do not need to adjust diet or medications to complete a FIT | Strong | Moderate |
+| Use spontaneously passed stool specimens (not in-office DRE samples) for FIT screening programs | Weak | Very Low |
+| Programs using FIT need not adjust distribution or mailing based on ambient temperature | Weak | Low |
+| **Program Quality** | | |
+| FIT screening programs should establish quality assurance practices to monitor key quality metrics (completion rate >=60%, lab failure rate <5%, colonoscopy completion rate >=80%, ADR >45% men/>35% women) | Weak | Very Low |
 
 ## Relevance to Wiki
 

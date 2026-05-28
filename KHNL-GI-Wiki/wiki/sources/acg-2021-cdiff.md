@@ -3,7 +3,7 @@ title: "ACG 2021: Prevention, Diagnosis, and Treatment of Clostridioides diffici
 category: source
 tags: [cdiff, clostridioides-difficile, colitis, vancomycin, fidaxomicin, fmt]
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-05-28
 sources: []
 ---
 
@@ -81,6 +81,41 @@ Comprehensive ACG guideline (23 GRADE recommendations + 8 key concept statements
 - IBD: test all IBD patients with acute flare + diarrhea; use two-step algorithm (colonization common); vancomycin 125 mg QID × minimum 14 days; do not hold immunosuppression — continue and escalate if no improvement after 3 days; FMT for rCDI in IBD
 - Pregnancy/lactation: vancomycin first-line; metronidazole frequent treatment failures; FMT avoid during pregnancy
 - Immunocompromised: vancomycin or fidaxomicin first-line
+
+## Recommendations
+
+| Recommendation | Strength | Evidence Quality |
+|---|---|---|
+| **Diagnosis** | | |
+| Use two-step testing algorithm (NAAT or GDH, then toxin EIA) for CDI diagnosis | Strong | Moderate |
+| Do NOT test asymptomatic patients or perform test-of-cure after treatment | Strong | Moderate |
+| **Treatment — Non-Severe Initial CDI** | | |
+| Vancomycin 125 mg PO QID × 10 days | Strong | Moderate |
+| Fidaxomicin 200 mg PO BID × 10 days | Strong | Moderate |
+| **Treatment — Severe Initial CDI** | | |
+| Vancomycin 125 mg PO QID × 10 days | Strong | Moderate |
+| Fidaxomicin 200 mg PO BID × 10 days | Conditional | Moderate |
+| Do NOT use metronidazole for severe CDI | Strong | Moderate |
+| **Treatment — Fulminant CDI** | | |
+| Vancomycin 500 mg PO q6h for first 48–72 hours | Strong | Low |
+| Add IV metronidazole 500 mg q8h if ileus impairs oral delivery | Conditional | Low |
+| Add vancomycin enemas 500 mg q6h if ileus present | Conditional | Low |
+| **First Recurrent CDI** | | |
+| Tapering/pulsed-dose vancomycin for first recurrence | Strong | Very Low |
+| Fidaxomicin if initial course was vancomycin or metronidazole | Conditional | Moderate |
+| Do NOT use metronidazole for recurrent CDI | Strong | Low |
+| **Prevention of Further Recurrence** | | |
+| FMT for second or further CDI recurrence | Strong | Moderate |
+| FMT by colonoscopy or oral capsules (preferred delivery routes) | Strong | Moderate |
+| FMT by enema if other routes unavailable | Conditional | Low |
+| Suppressive oral vancomycin 125 mg daily for patients not FMT candidates | Conditional | Very Low |
+| Oral vancomycin prophylaxis during subsequent antibiotics in high-risk patients | Conditional | Very Low |
+| Bezlotoxumab for high-risk recurrence patients (avoid in CHF) | Conditional | Moderate |
+| **Probiotics** | | |
+| Against probiotics for primary CDI prevention | Conditional | Moderate |
+| Against probiotics for secondary CDI prevention | Strong | Very Low |
+| **PPIs** | | |
+| Do NOT routinely discontinue PPIs in CDI patients with appropriate indication | Strong | Low |
 
 ## Relevance to Wiki
 

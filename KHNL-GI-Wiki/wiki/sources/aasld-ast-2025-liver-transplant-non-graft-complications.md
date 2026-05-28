@@ -3,7 +3,7 @@ title: "AASLD/AST Consensus Recommendations on Non-Graft Complications of Liver 
 category: source
 tags: [liver-transplant, post-transplant, bone-health, vaccination, cmv, ptld, cancer-surveillance, metabolic-syndrome, cardiovascular, obesity, glp-1, bariatric-surgery, hypertension, dyslipidemia, diabetes, pregnancy, infection]
 created: 2026-05-25
-updated: 2026-05-25
+updated: 2026-05-28
 sources: []
 ---
 
@@ -193,6 +193,37 @@ CMV disease remains the most clinically significant opportunistic infection; pre
 - Serial EBV PCR for PTLD NOT recommended (Rec 52, Weak, Level 3)
 
 ---
+
+## Recommendations
+
+| Recommendation | Strength | Evidence Quality |
+|---|---|---|
+| **Wellness / Nutrition** | | |
+| Avoid grapefruit/Seville oranges (CYP3A4 inhibition, CNI DDI); avoid untreated water sources and raw/undercooked meats | Strong | 4 |
+| 150–300 min/week moderate aerobic exercise OR 75–150 min/week vigorous aerobic exercise plus strength training ≥2 days/week | Strong | 4 |
+| Complete alcohol avoidance regardless of original LT indication; annual depression screening | Strong | 4 |
+| **Bone Health** | | |
+| DEXA scan at 6 months post-LT; repeat every 1–2 years if osteopenia/osteoporosis; target 25-OH-D ≥30 ng/mL | Strong | 4 |
+| Bisphosphonate therapy for T-score ≤−2.5 or FRAX criteria | Strong | 4 |
+| **Vaccination** | | |
+| No live vaccines post-LT; follow ACIP/CDC immunocompromised schedules; travel medicine consultation ≥6–8 weeks before international travel | Strong | 4 |
+| **Reproductive Health** | | |
+| Delay pregnancy ≥1 year post-LT; MPA is teratogenic — stop ≥6 weeks pre-conception (women) or ≥90 days (men); CNIs and AZA+steroids acceptable in pregnancy | Strong | 4 |
+| **Infections** | | |
+| PCP prophylaxis (TMP-SMX) ≥6 months post-LT; TB prophylaxis with INH+B6 or rifampin 4 months for LTBI | Strong | 4 |
+| Pre-emptive CMV monitoring (weekly PCR ×100 days) preferred strategy; D+/R− pairs: valganciclovir prophylaxis 3–6 months | Strong | 2 |
+| Refractory/resistant CMV: maribavir 400 mg BID | Strong | 2 |
+| **Oncologic Surveillance** | | |
+| Annual skin examination by dermatologist; colonoscopy every 5 years (average risk); annually for PSC+IBD | Strong | 3–4 |
+| Smoking cessation counseling and pharmacotherapy | Strong | 4 |
+| **Diabetes Mellitus** | | |
+| Metformin first-line for post-transplant T2DM without high CV risk; GLP-1 RA and/or SGLT2 inhibitor first-line for T2DM with high ASCVD/HF/CKD risk | Strong | 2 |
+| **Hypertension / Dyslipidemia** | | |
+| Hydrophilic statins (pravastatin, rosuvastatin) first-line for hyperlipidemia — avoid CYP3A4-substrate statins (simvastatin, atorvastatin) | Strong | 2 |
+| Amlodipine or felodipine as preferred CCBs (minimal CYP3A4 interaction vs. diltiazem/verapamil) | Strong | 3 |
+| **Obesity** | | |
+| GLP-1 receptor agonist for LT recipients unable to achieve adequate weight loss with lifestyle modification | Conditional | 3 |
+| Bariatric surgery only after medical management failure AND ≥1–2 years post-LT stability | Conditional/Strong | 3–4 |
 
 ## Relevance to Wiki
 

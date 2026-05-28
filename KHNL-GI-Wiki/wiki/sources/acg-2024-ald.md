@@ -3,7 +3,7 @@ title: "ACG Clinical Guideline: Alcohol-Associated Liver Disease (2024)"
 category: source
 tags: [ald, alcoholic-hepatitis, cirrhosis, liver, hpb, aud, corticosteroids, liver-transplant]
 created: 2026-05-07
-updated: 2026-05-07
+updated: 2026-05-28
 sources: []
 ---
 
@@ -42,6 +42,29 @@ Early liver transplantation (ELT) without requiring 6 months of abstinence is in
   - Early liver transplantation (ELT): supported for selected severe AH non-responders — first presentation, strong social support, no other organ failure precluding transplant, commitment to abstinence post-transplant
 - **Nutritional support:** malnutrition common in severe AH; enteral nutrition preferred; high-protein diet
 - **Contraindications to steroids:** active infection (including SBP, sepsis), active GI bleeding, HBV coinfection (risk of reactivation), acute kidney injury (relative)
+
+## Recommendations
+
+| Recommendation | Strength | Evidence Quality |
+|---|---|---|
+| **Diagnosis and Severity** | | |
+| Clinical diagnosis of AH (jaundice within 60 days of heavy use, AST/ALT ratio >1.5, elevated bilirubin and INR); biopsy not required if criteria met | Strong | Moderate |
+| Stratify severity with MELD (≥20 = severe) or Maddrey Discriminant Function (≥32 = severe) | Strong | Moderate |
+| **Treatment — Severe AH** | | |
+| Prednisolone 40 mg/day × 28 days for severe AH (no active infection, GI bleeding, AKI, HBV, or bilirubin <3) | Strong | Moderate |
+| Assess Lille score at day 7; discontinue steroids if ≥0.45 (non-response) | Strong | Moderate |
+| IV NAC added to prednisolone in first 5–7 days to reduce infections and improve 30-day survival | Conditional | Low |
+| Against pentoxifylline (no benefit in RCTs) | Strong | Moderate |
+| **Alcohol Use Disorder Treatment** | | |
+| All ALD patients should receive AUD intervention | Strong | Moderate |
+| Baclofen as safest pharmacotherapy in patients with cirrhosis | Conditional | Low |
+| Avoid naltrexone in active hepatic insufficiency | Strong | Low |
+| Acamprosate safe in liver disease (avoid in renal failure) | Conditional | Low |
+| **Liver Transplantation** | | |
+| Early liver transplantation (ELT) may be considered for selected severe AH non-responders — first presentation, strong social support, commitment to abstinence | Conditional | Low |
+| Standard LT evaluation for ALD patients meeting transplant criteria | Strong | Moderate |
+| **Nutritional Support** | | |
+| Enteral nutrition preferred; high-protein diet for severe AH with malnutrition | Strong | Moderate |
 
 ## Relevance to Wiki
 

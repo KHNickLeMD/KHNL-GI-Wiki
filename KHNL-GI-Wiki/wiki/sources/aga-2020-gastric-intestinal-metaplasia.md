@@ -3,7 +3,7 @@ title: "AGA 2020 Clinical Practice Update: Management of Gastric Intestinal Meta
 category: source
 tags: [gastric-intestinal-metaplasia, gim, gastric-cancer, h-pylori, surveillance, foregut, gastric]
 created: 2026-05-16
-updated: 2026-05-16
+updated: 2026-05-28
 sources: []
 ---
 
@@ -46,6 +46,19 @@ The single highest-quality recommendation is test-and-treat for H. pylori in all
 - Racial/ethnic minorities (Hispanic, Asian, African American)
 - Immigrants from high-incidence GC regions (East Asia, Eastern Europe, South America)
 - OLGA/OLGIM staging III/IV if performed
+
+## Recommendations
+
+| Recommendation | Strength | Evidence Quality |
+|---|---|---|
+| **H. pylori Testing and Treatment** | | |
+| Test and treat H. pylori in all patients with gastric intestinal metaplasia | Strong | Moderate |
+| **Endoscopic Surveillance** | | |
+| Do not perform routine endoscopic surveillance for all patients with GIM | Conditional | Very Low |
+| Use shared decision-making for surveillance in patients with high-risk GIM features (incomplete-type, extensive, family history, racial/ethnic minority, immigrants from high-incidence regions) | Summary Statement | — |
+| **Short-Interval Repeat Endoscopy** | | |
+| Do not perform routine repeat endoscopy at <1 year for GIM risk stratification | Conditional | Very Low |
+| Use shared decision-making for patients with high-risk stigmata on index endoscopy | Summary Statement | — |
 
 ## Relevance to Wiki
 - Creates [[gastric-intestinal-metaplasia]] disease script

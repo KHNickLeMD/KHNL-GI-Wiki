@@ -3,7 +3,7 @@ title: "USMSTF 2020: Recommendations for Follow-Up After Colonoscopy and Polypec
 category: source
 tags: [colonoscopy, polypectomy, surveillance, adenoma, serrated-polyp, crc-screening, post-polypectomy]
 created: 2026-05-07
-updated: 2026-05-07
+updated: 2026-05-28
 sources: []
 ---
 
@@ -80,6 +80,35 @@ Based on findings at baseline AND first surveillance:
 - **Advanced adenoma:** ≥10mm OR tubulovillous/villous OR HGD
 - **High-risk adenoma:** Advanced neoplasia OR ≥3 adenomas
 - **High-quality exam:** Complete to cecum, adequate prep, adequate ADR, complete polypectomy
+
+## Recommendations
+
+| Recommendation | Strength | Evidence Quality |
+|---|---|---|
+| **Colonoscopy Quality Requirements** | | |
+| All surveillance intervals assume high-quality colonoscopy: complete to cecum, adequate prep detecting polyps >5 mm, colonoscopist ADR >=30% (men) or >=20% (women), complete polypectomy | Summary Statement | — |
+| **Normal Colonoscopy** | | |
+| Normal colonoscopy: next surveillance in 10 years | Summary Statement | — |
+| **Adenoma Surveillance** | | |
+| 1-2 tubular adenomas <10 mm: next surveillance in 7-10 years | Summary Statement | — |
+| 3-4 tubular adenomas <10 mm: next surveillance in 3-5 years (favor 5 years) | Summary Statement | — |
+| 5-10 tubular adenomas <10 mm: next surveillance in 3 years | Summary Statement | — |
+| Any adenoma >=10 mm: next surveillance in 3 years | Summary Statement | — |
+| Tubulovillous or villous histology: next surveillance in 3 years | Summary Statement | — |
+| High-grade dysplasia: next surveillance in 3 years | Summary Statement | — |
+| >10 adenomas on single exam: next surveillance in 1 year + consider genetic testing | Summary Statement | — |
+| Piecemeal resection of adenoma >=20 mm: next surveillance in 6 months | Summary Statement | — |
+| **Serrated Polyp Surveillance** | | |
+| Hyperplastic polyps <=20 in rectum/sigmoid <10 mm: next surveillance in 10 years | Summary Statement | — |
+| Hyperplastic polyps proximal to sigmoid <10 mm: next surveillance in 10 years | Summary Statement | — |
+| 1-2 SSPs <10 mm: next surveillance in 5-10 years | Summary Statement | — |
+| 3-4 SSPs <10 mm: next surveillance in 3-5 years | Summary Statement | — |
+| 5-10 SSPs <10 mm: next surveillance in 3 years | Summary Statement | — |
+| SSP >=10 mm: next surveillance in 3 years | Summary Statement | — |
+| SSP with dysplasia: next surveillance in 3 years | Summary Statement | — |
+| HP >=10 mm: next surveillance in 3-5 years | Summary Statement | — |
+| Traditional serrated adenoma (TSA): next surveillance in 3 years | Summary Statement | — |
+| Piecemeal resection of SSP >=20 mm: next surveillance in 6 months | Summary Statement | — |
 
 ## Relevance to Wiki
 - Primary source for [[colonoscopy]] post-polypectomy surveillance tables

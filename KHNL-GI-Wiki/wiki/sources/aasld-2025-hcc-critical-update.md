@@ -3,7 +3,7 @@ title: "AASLD 2025 Critical Update: Practice Guidance on Prevention, Diagnosis, 
 category: source
 tags: [hcc, hepatocellular-carcinoma, adjuvant, neoadjuvant, immunotherapy, atezolizumab, bevacizumab, imbrave050, resection, ablation, aasld]
 created: 2026-05-25
-updated: 2026-05-25
+updated: 2026-05-28
 sources: []
 ---
 
@@ -38,6 +38,18 @@ The update also provides methodological context: the reversal from positive to n
 - (Neo)adjuvant therapies should only be used in the context of a clinical trial.
 - Recurrence management post-resection/ablation follows BCLC-stage-guided approach: within-Milan recurrence → salvage liver transplantation; liver-localized recurrence beyond Milan within downstaging criteria → liver-directed therapy ± consideration of transplant; vascular invasion/extrahepatic spread/TACE-unsuitable → first-line systemic therapy.
 
+## Recommendations
+
+| Recommendation | Strength | Evidence Quality |
+|---|---|---|
+| **Guidance Statement 32 (Revised)**: AASLD advises against the use of adjuvant and neoadjuvant systemic therapies in patients undergoing liver resection/local ablation. | Strong Recommendation | Level 1 |
+| Current data do not support the use of neoadjuvant systemic therapies in patients with HCC undergoing surgical resection. | (Contextual statement, no explicit grade assigned) | — |
+| Surveillance remains the current standard of care for management after resection/local ablation with the intention of cure. | (Contextual statement, reaffirmed from 2023 guidance) | — |
+| (Neo)adjuvant therapies should be considered only in the context of a clinical trial. | (Contextual conclusion statement) | — |
+| Patients with postsurgical recurrence within Milan Criteria: salvage liver transplantation recommended for eligible patients. | (Contextual management statement) | — |
+| Patients with liver-localized recurrence beyond Milan Criteria: treat with liver-directed therapy, with consideration of liver transplantation in those successfully downstaged. | (Contextual management statement) | — |
+| Patients with vascular invasion, extrahepatic spread, or TACE-unsuitable disease: should be considered for systemic therapy. | (Contextual management statement) | — |
+
 ## Relevance to Wiki
 
 - **[[hepatocellular-carcinoma]]**: Therapeutics section significantly updated — adjuvant atezolizumab+bevacizumab is no longer recommended; active surveillance is standard of care post-resection/ablation. Recurrence algorithm (Figure 11 Revised) incorporated.
@@ -52,15 +64,3 @@ The update also provides methodological context: the reversal from positive to n
 - **OS immaturity**: The question of whether adjuvant immunotherapy ultimately affects overall survival in HCC remains unanswered.
 
 ---
-
-## Recommendations
-
-| Recommendation | Strength | Evidence Quality |
-|---|---|---|
-| **Guidance Statement 32 (Revised)**: AASLD advises against the use of adjuvant and neoadjuvant systemic therapies in patients undergoing liver resection/local ablation. | Strong Recommendation | Level 1 |
-| Current data do not support the use of neoadjuvant systemic therapies in patients with HCC undergoing surgical resection. | (Contextual statement, no explicit grade assigned) | — |
-| Surveillance remains the current standard of care for management after resection/local ablation with the intention of cure. | (Contextual statement, reaffirmed from 2023 guidance) | — |
-| (Neo)adjuvant therapies should be considered only in the context of a clinical trial. | (Contextual conclusion statement) | — |
-| Patients with postsurgical recurrence within Milan Criteria: salvage liver transplantation recommended for eligible patients. | (Contextual management statement) | — |
-| Patients with liver-localized recurrence beyond Milan Criteria: treat with liver-directed therapy, with consideration of liver transplantation in those successfully downstaged. | (Contextual management statement) | — |
-| Patients with vascular invasion, extrahepatic spread, or TACE-unsuitable disease: should be considered for systemic therapy. | (Contextual management statement) | — |

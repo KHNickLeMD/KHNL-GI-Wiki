@@ -3,7 +3,7 @@ title: "ACG 2023: Acute Liver Failure"
 category: source
 tags: [acute-liver-failure, alf, liver, hepatology]
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-05-28
 sources: []
 ---
 
@@ -107,6 +107,35 @@ Top causes: acetaminophen (APAP) toxicity, idiosyncratic DILI (antimicrobials, C
 - Clichy criteria (Factor V, age, HE grade 3–4): lower sensitivity, not widely used in US
 - Status 1A listing for transplant; 1-year post-LT survival ~79–84%; LDLT and ABO-I grafts acceptable in centers with experience when DDLT unavailable
 - Brain death = only absolute contraindication to LT; multiorgan dysfunction, sepsis, ARDS, cancer = relative contraindications
+
+## Recommendations
+
+| Recommendation | Strength | Evidence Quality |
+|---|---|---|
+| **Hemodynamics and Vasopressors** | | |
+| Norepinephrine as vasopressor of choice for hemodynamic instability in ALF | Strong | Moderate |
+| Add vasopressin if norepinephrine is insufficient | Conditional | Low |
+| **Renal Replacement Therapy** | | |
+| CRRT preferred over intermittent hemodialysis for AKI in ALF | Strong | Moderate |
+| Early CRRT for grade 2+ encephalopathy to lower ammonia (even without AKI) | Conditional | Low |
+| **Coagulopathy** | | |
+| Do NOT routinely correct coagulopathy (FFP, platelets, cryoprecipitate) without active bleeding or high-risk procedure | Strong | Moderate |
+| Viscoelastic testing (rotational thromboelastometry/thromboelastography) preferred over INR for bleeding assessment | Conditional | Low |
+| **Infection** | | |
+| No routine prophylactic antimicrobials in ALF | Strong | Moderate |
+| **Etiology-Specific Treatments** | | |
+| IV NAC for APAP overdose (standard or extended protocol) | Strong | High |
+| IV NAC for non-APAP ALF in early coma grade I–II (improves transplant-free survival) | Conditional | Low |
+| Entecavir or tenofovir for HBV reactivation as cause of ALF | Strong | Moderate |
+| IV acyclovir empirically for HSV/VZV-associated ALF with grade 2 HE and suggestive features | Conditional | Low |
+| IV silibinin dihemisuccinate for mushroom poisoning | Conditional | Low |
+| Plasmapheresis/continuous hemofiltration as bridge for Wilson disease ALF; definitive = liver transplant | Conditional | Low |
+| IV corticosteroids for AIH-related ALF with early LT evaluation | Conditional | Low |
+| Prompt fetal delivery for HELLP/AFLP | Strong | Moderate |
+| IV heparin for Budd-Chiari syndrome; TIPS if anticoagulation fails | Conditional | Low |
+| **Prognostic Scoring and Transplant** | | |
+| Use both KCC and MELD for prognostication (KCC higher specificity; MELD higher sensitivity) | Strong | Moderate |
+| Status 1A listing for liver transplant in ALF meeting criteria | Strong | Moderate |
 
 ## Relevance to Wiki
 

@@ -3,7 +3,7 @@ title: "Padova Consensus: High-Resolution Manometry Before and After Antireflux 
 category: source
 tags: [HRM, antireflux-surgery, fundoplication, GERD, esophageal-manometry, EGJ, foregut, Padova-classification]
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-05-28
 sources: []
 ---
 
@@ -84,6 +84,25 @@ Post-operatively, the consensus clarifies that HRM interpretation after fundopli
 - If post-ARS HRM shows 100% failed peristalsis: compare to pre-operative HRM
 - Pre-operative failed peristalsis = pre-existing condition; not surgery-related
 - If pre-operative HRM was normal: suspect pseudoachalasia (progressive motor failure secondary to obstruction) or missed achalasia (achalasia diagnosis missed pre-ARS)
+
+## Recommendations
+
+| Recommendation | Strength | Evidence Quality |
+|---|---|---|
+| **Pre-ARS HRM** | | |
+| HRM is essential before antireflux surgery to exclude achalasia spectrum disorders; ~3% of patients presenting with GERD symptoms and referred for ARS have achalasia | Consensus Statement | — |
+| EGJOO identified on pre-operative HRM must be addressed before proceeding to ARS | Consensus Statement | — |
+| Hypercontractile esophagus (jackhammer pattern) is not an absolute contraindication to ARS when objective GERD evidence is present and PPI response is partial | Consensus Statement | — |
+| DES with obstructive symptoms warrants caution and consideration of non-surgical alternatives before ARS; DES without obstructive symptoms with objective GERD may proceed to ARS | Consensus Statement | — |
+| EGJ barrier should be assessed using LES end-expiratory pressure, LES baseline pressure, EGJ-CI, and LES–crural diaphragm separation | Consensus Statement | — |
+| **Post-ARS HRM** | | |
+| HRM has a diagnostic role in patients with unsuccessful fundoplication; no single manometric finding mandates reoperation | Consensus Statement | — |
+| Post-ARS IRP <15 mmHg (Medtronic system) is the upper limit of normal; higher IRP values are expected after fundoplication compared to surgery-naive patients | Consensus Statement | — |
+| Post-fundoplication outflow obstruction (PFOO) requires simultaneous presence of elevated IBP and elevated IRP; either alone is insufficient for diagnosis | Consensus Statement | — |
+| New dysphagia with normal endoscopy after ARS should prompt evaluation with TBE and FLIP to clarify etiology before revision | Consensus Statement | — |
+| **Padova Classification** | | |
+| The Padova Classification two-step algorithm (anatomic assessment → physiologic assessment) should be applied to interpret post-ARS HRM and distinguish disrupted/herniated wrap, intrathoracic wrap, slipped wrap, PFOO, and absent contractility patterns | Consensus Statement | — |
+| If post-ARS HRM shows 100% failed peristalsis, comparison with pre-operative HRM is required to distinguish pre-existing absent contractility from pseudoachalasia or missed achalasia | Consensus Statement | — |
 
 ## Relevance to Wiki
 

@@ -3,7 +3,7 @@ title: "ACG 2023: Diagnosis and Management of Gastrointestinal Subepithelial Les
 category: source
 tags: [subepithelial-lesion, gist, leiomyoma, carcinoid, eus, endoscopy]
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-05-28
 sources: []
 ---
 
@@ -82,6 +82,29 @@ Key management principle: Size thresholds and location govern resection decision
 - KC6: Type 2 gNET endoscopic resection acceptable for debulking or bleeding; EMR vs. ESD depends on local expertise
 
 ---
+
+## Recommendations
+
+| Recommendation | Strength | Evidence Quality |
+|---|---|---|
+| **Diagnosis** | | |
+| EUS preferred over endoscopy or cross-sectional CT/MRI for nonlipomatous SEL | Conditional | Very Low |
+| No preference between echoendoscope types (forward- vs. oblique-viewing) | Strong | Low |
+| Bite-on-bite biopsy not suggested before EUS | Conditional | Very Low |
+| EUS with tissue acquisition (FNA or FNB) for solid nonlipomatous SEL to improve diagnostic accuracy | Conditional | Very Low |
+| EUS-FNB alone or EUS-FNA with ROSE preferred over EUS-FNA without ROSE | Conditional | Low |
+| Unroofing technique (MIAB or submucosal tunnel biopsy) when EUS-FNA/FNB is nondiagnostic | Conditional | Low |
+| **Treatment — Esophageal and GEJ Lesions** | | |
+| STER or surgical resection for muscularis propria-layer SEL of esophagus and GEJ | Conditional | Very Low |
+| **Treatment — GIST** | | |
+| Gastric GIST <2 cm: surveillance or resection both acceptable (insufficient evidence for preference) | — | — |
+| Gastric GIST >2 cm: resect | Conditional | Low |
+| All nongastric GIST: resect | Conditional | Low |
+| **Treatment — Gastric NETs** | | |
+| Type 1 gastric NETs: EMR or ESD both acceptable | Conditional | Very Low |
+| Type 3 gastric NETs (small, low-grade, <1 cm): ESD preferred over EMR | Conditional | Very Low |
+| **Treatment — Rectal NETs** | | |
+| Rectal NETs <1 cm: no preference between EMR and ESD | Conditional | Very Low |
 
 ## Relevance to Wiki
 

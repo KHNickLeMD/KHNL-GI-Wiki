@@ -3,7 +3,7 @@ title: "ACG 2020: Chronic Pancreatitis"
 category: source
 tags: [chronic-pancreatitis, pancreas, guideline, acg, hpb]
 created: 2026-05-19
-updated: 2026-05-19
+updated: 2026-05-28
 sources: []
 ---
 
@@ -59,6 +59,28 @@ Clinicopathologic algorithm: Suspicion → CT/MRI → EUS → s-MRCP → histolo
 
 ### Severity scoring
 M-ANNHEIM severity index: A (Minor 0–5), B (Increased 6–10), C (Advanced 11–15), D (Marked 16–20), E (Exacerbated >20) — combines pain, pain control, surgical intervention, EPI, endocrine insufficiency, and Cambridge imaging morphology.
+
+## Recommendations
+
+| Recommendation | Strength | Evidence Quality |
+|---|---|---|
+| **Diagnosis** | | |
+| CT or MRI first-line for CP diagnosis; EUS only if cross-sectional imaging is non-diagnostic | Strong | Low |
+| Secretin-MRCP (s-MRCP) when CT/MRI/EUS are not confirmatory but clinical suspicion remains high | Conditional | Low |
+| Histology is gold standard in high-risk patients with strong clinical/functional evidence but inconclusive imaging | Conditional | Very Low |
+| **Etiology** | | |
+| Genetic testing (PRSS1, SPINK1, CFTR, CTRC, CASR, CLDN2, CPA1, CEL) when etiology is unclear, especially in younger patients (<35 years) | Strong | Low |
+| **Natural History** | | |
+| Alcohol cessation for all CP patients | Strong | Very Low |
+| Smoking cessation for all CP patients | Strong | Very Low |
+| **Pain Management** | | |
+| Surgical drainage preferred over endoscopic therapy for obstructive CP when endoscopic first-line fails | Strong | Moderate |
+| Antioxidant therapy (selenium, ascorbic acid, β-carotene, α-tocopherol, methionine) for modest pain benefit | Conditional | Moderate |
+| PERT is NOT suggested for pain control in CP | Conditional | Low |
+| Celiac plexus block for refractory CP pain | Conditional | Very Low |
+| **Exocrine Pancreatic Insufficiency** | | |
+| PERT (40,000–50,000 USP lipase units/meal) for CP with EPI to prevent complications of malnutrition | Conditional | Low |
+| Periodic assessment for malnutrition, osteoporosis (DEXA), fat-soluble vitamin deficiency (A, D, E, K), and B12/zinc/magnesium | Summary Statement | — |
 
 ## Relevance to Wiki
 - Primary source for [[chronic-pancreatitis]] disease script.

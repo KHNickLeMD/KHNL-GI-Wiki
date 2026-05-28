@@ -3,7 +3,7 @@ title: "ACG Clinical Guideline: Disorders of the Hepatic and Mesenteric Circulat
 category: source
 tags: [portal-vein-thrombosis, pvt, mvt, budd-chiari, mesenteric-ischemia, hht, anticoagulation, cirrhosis, coagulopathy, acg]
 created: 2026-05-21
-updated: 2026-05-21
+updated: 2026-05-28
 sources: []
 ---
 
@@ -39,26 +39,6 @@ Budd-Chiari syndrome management follows a stepwise algorithm: anticoagulation â†
 - HHT prevalence: 1:5,000â€“1:8,000; hepatic vascular malformations in 32â€“73%; symptomatic liver disease rare (1â€“8%)
 - Mesenteric artery aneurysm/pseudoaneurysm: SMA aneurysms most common (60%); risk of rupture higher with size >2 cm
 - TIPS significantly improves recanalization of acute PVT in cirrhosis and is a key bridge in BCS
-
----
-
-## Relevance to Wiki
-
-- Creates new disease script: [[portal-vein-thrombosis]]
-- Creates new disease script: [[budd-chiari-syndrome]]
-- Creates stub: [[hereditary-hemorrhagic-telangiectasia]]
-- Creates stub: [[mesenteric-artery-aneurysm]]
-- Creates concept page: [[cirrhosis-hemostasis]]
-- Cross-references: [[spontaneous-bacterial-peritonitis]], [[aki-in-cirrhosis]], [[hepatocellular-carcinoma]], [[acute-liver-failure]]
-
----
-
-## Contradictions / Open Questions
-
-- Whether all patients with noncirrhotic chronic PVT should receive anticoagulation remains debated; guideline reserves for thrombophilia, progression, or bowel ischemia
-- DOAC safety in cirrhosis (particularly Child-Pugh B/C) is not established; most trial data with LMWH and VKA
-- Optimal duration of anticoagulation in cirrhotic PVT post-transplant is unknown
-- Role of TIPS vs. anticoagulation alone in acute PVT in cirrhosis requires prospective trials
 
 ---
 
@@ -100,3 +80,23 @@ Budd-Chiari syndrome management follows a stepwise algorithm: anticoagulation â†
 | Standard medical therapy (diuretics, rate control, high-output heart failure management) is first-line for symptomatic hepatic LVMs | Conditional | Low |
 | Bevacizumab is suggested for HHT patients with symptomatic hepatic LVMs who fail standard medical therapy; should be administered at specialized HHT centers | Conditional | Low |
 | Liver transplantation can be considered in refractory HHT liver disease with severe, intractable symptoms | Conditional | Very Low |
+
+## Relevance to Wiki
+
+- Creates new disease script: [[portal-vein-thrombosis]]
+- Creates new disease script: [[budd-chiari-syndrome]]
+- Creates stub: [[hereditary-hemorrhagic-telangiectasia]]
+- Creates stub: [[mesenteric-artery-aneurysm]]
+- Creates concept page: [[cirrhosis-hemostasis]]
+- Cross-references: [[spontaneous-bacterial-peritonitis]], [[aki-in-cirrhosis]], [[hepatocellular-carcinoma]], [[acute-liver-failure]]
+
+---
+
+## Contradictions / Open Questions
+
+- Whether all patients with noncirrhotic chronic PVT should receive anticoagulation remains debated; guideline reserves for thrombophilia, progression, or bowel ischemia
+- DOAC safety in cirrhosis (particularly Child-Pugh B/C) is not established; most trial data with LMWH and VKA
+- Optimal duration of anticoagulation in cirrhotic PVT post-transplant is unknown
+- Role of TIPS vs. anticoagulation alone in acute PVT in cirrhosis requires prospective trials
+
+---

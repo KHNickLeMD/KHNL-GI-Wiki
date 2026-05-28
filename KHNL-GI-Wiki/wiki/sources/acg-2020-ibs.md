@@ -3,7 +3,7 @@ title: "ACG 2020 Clinical Guideline: Management of Irritable Bowel Syndrome"
 category: source
 tags: [ibs, dgbi, fodmap, rifaximin, linaclotide, plecanatide, lubiprostone, alosetron, eluxadoline, tca, gut-directed-psychotherapy]
 created: 2026-05-19
-updated: 2026-05-19
+updated: 2026-05-28
 sources: []
 ---
 
@@ -51,6 +51,34 @@ First ACG clinical guideline for IBS using GRADE. 25 statements (9 diagnostic, 1
 - **TCAs** for global symptoms (Strong/Moderate; doses in Table 7: amitriptyline 50–100 mg, desipramine 25–100 mg, nortriptyline 25–75 mg)
 - **Gut-directed psychotherapy** (CBT, hypnotherapy, mindfulness) (Conditional/VLow)
 - **Strong AGAINST FMT** for IBS (Strong/VLow)
+
+## Recommendations
+
+| Recommendation | Strength | Evidence Quality |
+|---|---|---|
+| **Diagnosis** | | |
+| Positive diagnostic strategy using Rome IV criteria rather than diagnosis of exclusion | Strong | High |
+| Serologic celiac testing in IBS-D (OR 4.48 for biopsy-proven CD) | Strong | Moderate |
+| Fecal calprotectin or lactoferrin + CRP in IBS-D to exclude IBD | Strong | Moderate–Very Low |
+| Against routine stool pathogen testing; against routine colonoscopy <45 years without alarm features | Conditional | Low |
+| **IBS-C** | | |
+| GC-C agonists (linaclotide 290 µg, plecanatide 3 or 6 mg) for global IBS-C symptoms | Strong | High |
+| Chloride channel activator (lubiprostone) for global IBS-C | Strong | Moderate |
+| Tegaserod 6 mg BID in women <65 with ≤1 CV risk factor failing secretagogues | Strong | Low |
+| PEG is NOT recommended for global IBS-C (improves stool consistency only, not pain/global symptoms) | Conditional | Low |
+| **IBS-D** | | |
+| Rifaximin 550 mg TID ×14 days for global IBS-D; retreatment up to 2× allowed | Strong | Moderate |
+| Alosetron for women with severe IBS-D failing conventional therapy (REMS required for ischemic colitis risk) | Conditional | Low |
+| Eluxadoline 100 mg BID for IBS-D; contraindicated post-cholecystectomy (pancreatitis risk) | Conditional | Moderate |
+| Bile-acid sequestrants are NOT recommended for global IBS-D | Conditional | Very Low |
+| **Cross-Subtype** | | |
+| Soluble fiber (psyllium), NOT insoluble fiber (bran) | Strong | Moderate |
+| TCAs for global symptoms (amitriptyline, desipramine, nortriptyline) | Strong | Moderate |
+| Peppermint oil for global symptoms | Conditional | Low |
+| Gut-directed psychotherapy (CBT, hypnotherapy, mindfulness) for global symptoms | Conditional | Very Low |
+| Antispasmodics are NOT recommended for global IBS symptoms | Conditional | Low |
+| FMT is strongly NOT recommended for IBS | Strong | Very Low |
+| Probiotics are NOT recommended for IBS | Conditional | Very Low |
 
 ## Relevance to Wiki
 

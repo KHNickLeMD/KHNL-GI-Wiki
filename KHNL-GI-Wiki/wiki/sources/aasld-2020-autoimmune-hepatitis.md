@@ -3,7 +3,7 @@ title: "AASLD Practice Guidance on Autoimmune Hepatitis (2020)"
 category: source
 tags: [aih, autoimmune-hepatitis, immunosuppression, azathioprine, budesonide, mycophenolate-mofetil, tacrolimus, overlap-syndrome, pbc, psc, pregnancy, liver-transplant]
 created: 2026-05-25
-updated: 2026-05-25
+updated: 2026-05-28
 sources: []
 ---
 
@@ -127,6 +127,25 @@ Practical point: DIAIH may be indistinguishable from idiopathic AIH; drug exposu
 - Quality of life impaired by glucocorticoid side effects and chronicity of disease monitoring
 
 ---
+
+## Recommendations
+
+| Recommendation | Strength | Evidence Quality |
+|---|---|---|
+| **First-Line Therapy** | | |
+| Budesonide (3 mg TID) + AZA OR prednisone/prednisolone + AZA are equally acceptable first-line therapies in AIH without cirrhosis or acute severe presentation | Conditional | Low |
+| Do NOT use budesonide in cirrhosis or acute severe AIH (INR 1.5–<2.0 without HE) — portal-systemic shunting eliminates its first-pass advantage | Conditional | Very Low |
+| **Second-Line Therapy** | | |
+| MMF or TAC for treatment failure, incomplete response, or drug intolerance | Conditional | Low |
+| MMF preferred over TAC as initial second-line therapy (superior ease of use and side-effect profile) | Conditional | Very Low |
+| **Post-Liver Transplant** | | |
+| Gradual glucocorticoid withdrawal per center-specific protocol after liver transplantation | Conditional | Very Low |
+| **Treatment Withdrawal** | | |
+| Withdrawal may be attempted only after ≥2 years of sustained biochemical remission (normal AST, ALT, IgG); liver biopsy preferred prior to withdrawal in children | Summary Statement | — |
+| Do not attempt IS withdrawal in Type 2 AIH (anti-LKM1+) or anti-SLA/LP-positive patients | Summary Statement | — |
+| **Acute Severe AIH / ALF** | | |
+| Acute severe AIH (jaundice + INR 1.5–<2, no HE): initiate prednisone trial; if no improvement at 1–2 weeks, evaluate for liver transplantation | Summary Statement | — |
+| AIH-related ALF (INR ≥2 + encephalopathy): evaluate directly for liver transplantation without delay | Summary Statement | — |
 
 ## Relevance to Wiki
 

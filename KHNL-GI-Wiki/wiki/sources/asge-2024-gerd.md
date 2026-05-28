@@ -3,7 +3,7 @@ title: "ASGE 2024: Diagnosis and Management of GERD"
 category: source
 tags: [gerd, reflux, esophageal, asge]
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-05-28
 sources: []
 ---
 
@@ -86,6 +86,29 @@ Desai M, Ruan W, Thosani NC, et al. American Society for Gastrointestinal Endosc
 - MUSE: serious AE rates 3.5–13.9% (empyema, hemorrhage, perforation) — not recommended over TIF 2.0
 - ARMS: clinical response 80.1%; dysphagia/stricture 11.4% — RCT underway
 - Investigational use only; ongoing RCTs expected to provide future guidance
+
+## Recommendations
+
+| Recommendation | Strength | Evidence Quality |
+|---|---|---|
+| **Endoscopy Indications** | | |
+| Perform upper endoscopy for alarm symptoms (dysphagia, odynophagia, weight loss, GI bleeding, persistent vomiting, unexplained iron deficiency anemia) | Strong | Moderate |
+| Consider endoscopy for Barrett's esophagus risk factors (family Hx BE/EAC; GERD + age >50, male sex, white race, smoking, or obesity) | Conditional | Low |
+| Post-sleeve gastrectomy: perform endoscopy if symptomatic; consider asymptomatic screening at 3 years then every 5 years | Conditional | Very Low |
+| Post-POEM: perform endoscopy if symptomatic GERD; consider periodic endoscopy even if asymptomatic | Conditional | Very Low |
+| **High-Quality Endoscopy Reporting** | | |
+| Document and photo-document: LA classification for erosive esophagitis, Prague C&M for Barrett's, GEJ landmarks, hiatal hernia size, Hill grade, fundoplication if present | Strong | Very Low |
+| **Lifestyle Modifications** | | |
+| Recommend weight loss, smoking cessation, head of bed elevation, and avoiding meals within 3 hours of bedtime | Strong | Low |
+| **PPI Therapy** | | |
+| Use PPIs at lowest dose for shortest duration while discussing long-term management | Strong | Moderate |
+| Consider testing CYP2C19 polymorphism in suboptimal PPI responders | Conditional | Very Low |
+| **TIF 2.0 (Transoral Incisionless Fundoplication)** | | |
+| Evaluate for TIF 2.0 in confirmed GERD with hiatal hernia <=2 cm and Hill grade I or II in patients with chronic GERD >=6 months, long-term PPI use, refractory GERD, regurgitation-predominant GERD, or preference to avoid long-term PPI | Conditional | Low |
+| **cTIF (Combined TIF + Hiatal Hernia Repair)** | | |
+| Evaluate for cTIF in multidisciplinary review for confirmed GERD with hiatal hernia >2 cm and Hill grade III or IV | Conditional | Very Low |
+| **Stretta (Radiofrequency Energy)** | | |
+| Stretta can be considered for confirmed GERD with hiatal hernia <2 cm and Hill grade I or II when TIF and surgical fundoplication are not available or feasible | Best Practice Advice | — |
 
 ## Relevance to Wiki
 

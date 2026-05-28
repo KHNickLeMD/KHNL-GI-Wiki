@@ -3,7 +3,7 @@ title: "AGA 2022: Diagnosis and Management of AKI in Cirrhosis"
 category: source
 tags: [aki, cirrhosis, hrs, hepatorenal-syndrome, albumin, terlipressin]
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-05-28
 sources: []
 ---
 
@@ -109,6 +109,29 @@ HRS-AKI diagnostic criteria (current):
 - Treat HRS-AKI pharmacologically before LT — may improve post-LT outcomes
 - MELD paradox: successful treatment lowers SCr, reducing MELD-Na score and transplant priority
 - Simultaneous liver-kidney transplant criteria (OPTN/UNOS 2017): dialysis dependence OR GFR ≤25 mL/min for ≥6 consecutive weeks
+
+## Recommendations
+
+| Recommendation | Strength | Evidence Quality |
+|---|---|---|
+| **Diagnosis** | | |
+| Diagnose AKI using KDIGO criteria: SCr rise >=0.3 mg/dL within 48h OR >=50% increase from baseline within 7 days OR urine output <0.5 mL/kg/h for >6 hours | Best Practice Advice | — |
+| Use FEUrea <28.16% (rather than FENa) to differentiate HRS from non-HRS AKI in cirrhosis | Best Practice Advice | — |
+| **Prevention** | | |
+| Avoid NSAIDs, excessive diuretics, and nonselective beta-blockers; use albumin with large-volume paracentesis; provide antibiotic prophylaxis with GI bleeding and SBP | Best Practice Advice | — |
+| **Initial Management** | | |
+| Hold diuretics and NSBBs; treat precipitating cause; replace fluid losses; if SCr doubles from baseline, give albumin 1 g/kg/d for 2 days | Best Practice Advice | — |
+| **HRS-AKI Treatment — Vasoconstrictors** | | |
+| If SCr remains >2x baseline after initial measures: start vasoconstrictors + albumin (1 g/kg IV on day 1, then 20-40 g/day for up to 14 days) | Best Practice Advice | — |
+| Use terlipressin 1 mg IV q4-6h; escalate to 2 mg q4-6h if SCr does not decrease >=25% by day 3 (contraindicated if SCr >=5 mg/dL or O2 sat <90%) | Best Practice Advice | — |
+| Use midodrine 7.5 mg TID (titrate to 12.5 mg TID) + octreotide 100 mcg TID (titrate to 200 mcg TID) if terlipressin unavailable and ICU not available | Best Practice Advice | — |
+| Use norepinephrine 0.5 mcg/h IV (increase by 0.5 mcg/h q4h to max 3 mcg/h) in ICU when terlipressin unavailable | Best Practice Advice | — |
+| **Renal Replacement Therapy** | | |
+| Use RRT in ATN; use RRT in HRS-AKI only as bridge to liver transplantation (not in non-transplant candidates) | Best Practice Advice | — |
+| Prefer continuous RRT over intermittent RRT for hemodynamic stability | Best Practice Advice | — |
+| **Liver Transplantation** | | |
+| Treat HRS-AKI pharmacologically before liver transplantation to optimize post-transplant outcomes | Best Practice Advice | — |
+| Apply simultaneous liver-kidney transplant criteria (dialysis dependence OR GFR <=25 mL/min for >=6 consecutive weeks) per OPTN/UNOS 2017 | Best Practice Advice | — |
 
 ## Relevance to Wiki
 

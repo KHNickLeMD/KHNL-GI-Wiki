@@ -3,7 +3,7 @@ title: "San Diego Consensus (2025): Laryngopharyngeal Symptoms and Laryngopharyn
 category: source
 tags: [lpr, lprd, laryngopharyngeal-reflux, gerd, extraesophageal-reflux, esophageal-physiology, ph-impedance, foregut]
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-05-28
 sources: []
 ---
 
@@ -89,6 +89,26 @@ The document is organized into six domains: definition/terminology, initial diag
 - RSS (Reflux Symptom Score): higher specificity/sensitivity for proximal reflux burden; not yet definitively diagnostic
 - GERD-specific PROs (GERDQ, GERD-HRQL): suboptimal diagnostic yield for LPS/LPRD
 - Risk stratification tools (HAS-BEER, COuGH RefluX): promising but require further validation before adoption in consensus algorithm
+
+## Recommendations
+
+| Recommendation | Strength | Evidence Quality |
+|---|---|---|
+| **Terminology and Diagnosis** | | |
+| "Laryngopharyngeal symptoms" (LPS) should be used as a symptomatic descriptor; "laryngopharyngeal reflux disease" (LPRD) should be reserved for patients with LPS plus objective evidence of GERD | Consensus Statement | — |
+| Laryngoscopy is necessary in LPS evaluation to exclude malignancy and non-reflux laryngeal pathology; it cannot diagnose LPRD | Consensus Statement | — |
+| Reflux Finding Score (RFS) and Reflux Sign Assessment (RSA) should NOT be used to diagnose LPRD due to suboptimal specificity | Consensus Statement | — |
+| **Initial Management by Symptom Profile** | | |
+| LPS with concurrent esophageal reflux symptoms: trial of PPI BID × 3 months ± alginate + lifestyle modification; if unresponsive, proceed to EGD and ambulatory reflux monitoring | Consensus Statement | — |
+| Isolated LPS without esophageal symptoms: do NOT initiate empiric acid suppression; proceed directly to esophageal evaluation (EGD + ambulatory reflux monitoring) | Consensus Statement | — |
+| **Reflux Monitoring** | | |
+| Ambulatory reflux monitoring is the reference standard for LPRD diagnosis and is required before invasive anti-reflux management | Consensus Statement | — |
+| 96h wireless pH monitoring is preferred over 24h pH-impedance for diagnosing pathologic GERD in LPS (50% vs. 27% diagnostic yield); perform off acid suppression in unproven GERD | Consensus Statement | — |
+| AET <4.0% on all 4 days of a 96h wireless study predicts 10× higher odds of PPI discontinuation | Consensus Statement | — |
+| Oropharyngeal pH monitoring (Restech) should NOT be used as a standalone diagnostic tool for LPRD | Consensus Statement | — |
+| **Behavioral and Neuromodulatory Therapy** | | |
+| Laryngeal hyperresponsiveness and hypervigilance should be assessed in all LPS patients using the LCAT; Laryngeal Recalibration Therapy (LRT) via SLP is the first-line behavioral intervention | Consensus Statement | — |
+| Gabapentin/pregabalin provides best evidence for chronic cough via vagal hypersensitivity; TCAs should be used with caution due to anticholinergic effects | Consensus Statement | — |
 
 ## Relevance to Wiki
 - Creates: [[laryngopharyngeal-symptoms]] (new diagnostic schema page)

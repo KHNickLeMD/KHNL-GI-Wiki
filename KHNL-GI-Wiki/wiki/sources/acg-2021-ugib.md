@@ -3,7 +3,7 @@ title: "ACG 2021: Upper Gastrointestinal and Ulcer Bleeding"
 category: source
 tags: [ugib, peptic-ulcer, gi-bleeding, endoscopy, forrest, glasgow-blatchford]
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-05-28
 sources: []
 ---
 
@@ -101,6 +101,34 @@ UGIB accounts for over half a million hospitalizations annually in the U.S. and 
   - Choice between TAE and surgery may be influenced by patient comorbidities, hemodynamic status, and local institutional expertise
 
 ---
+
+## Recommendations
+
+| Recommendation | Strength | Evidence Quality |
+|---|---|---|
+| **Risk Stratification** | | |
+| Glasgow-Blatchford Score (GBS) 0–1: safe outpatient discharge | Strong | Moderate |
+| **Resuscitation** | | |
+| Restrictive transfusion threshold: Hgb 7 g/dL for hemodynamically stable UGIB | Strong | Moderate |
+| Threshold of 8 g/dL reasonable for preexisting cardiovascular disease | Conditional | Low |
+| **Pre-Endoscopic Management** | | |
+| Erythromycin 250 mg IV 20–90 minutes before endoscopy to improve visualization | Conditional | Low |
+| **Endoscopy Timing** | | |
+| Endoscopy within 24 hours of presentation for all hospitalized UGIB patients | Conditional | Very Low |
+| **Endoscopic Therapy** | | |
+| Endoscopic therapy for active spurting/oozing and nonbleeding visible vessel | Strong | Moderate |
+| Bipolar electrocoagulation or heater probe for ulcer hemostasis | Strong | Moderate |
+| Absolute ethanol injection for ulcer hemostasis | Strong | Moderate |
+| Through-the-scope clips for ulcer hemostasis | Conditional | Low |
+| Hemostatic powder TC-325 | Conditional | Very Low |
+| Over-the-scope clips for recurrent bleeding only | Conditional | Low |
+| Against epinephrine injection alone (must combine with second modality) | Strong | Moderate |
+| **Post-Endoscopic PPI Therapy** | | |
+| High-dose PPI for 3 days after successful endoscopic hemostasis | Strong | Moderate |
+| Twice-daily oral PPI from days 4–14 after index endoscopy for high-risk patients (Rockall ≥6) | Conditional | Low |
+| **Recurrent and Failed Endoscopic Therapy** | | |
+| Repeat endoscopy and endoscopic therapy for recurrent bleeding | Conditional | Low |
+| Transcatheter arterial embolization (TAE) preferred over surgery for failed endoscopic therapy | Conditional | Very Low |
 
 ## Relevance to Wiki
 

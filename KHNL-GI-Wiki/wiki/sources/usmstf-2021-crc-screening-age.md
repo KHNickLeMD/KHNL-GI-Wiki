@@ -3,7 +3,7 @@ title: "USMSTF 2021: Updates on Age to Start and Stop CRC Screening"
 category: source
 tags: [crc-screening, colorectal-cancer, colonoscopy, fit, early-onset-crc, screening-age]
 created: 2026-05-07
-updated: 2026-05-07
+updated: 2026-05-28
 sources: []
 ---
 
@@ -62,6 +62,21 @@ Focused update on when to start and stop average-risk CRC screening. Driven by r
 - Age 76–85: shared decision-making (prior screening, life expectancy, CRC risk, preference)
 - Age >85: do not screen; mortality risk from comorbidities and procedure adverse events outweighs benefit
 - Data from 2021 simulation: women without prior screening + no comorbidities may benefit from FIT up to age 90; men/women with severe comorbidities: no benefit after age 66
+
+## Recommendations
+
+| Recommendation | Strength | Evidence Quality |
+|---|---|---|
+| **Screening Age — Start** | | |
+| Offer average-risk CRC screening starting at age 45-49 | Weak | Low |
+| Offer CRC screening to average-risk adults aged 50 and older who have not yet been screened | Strong | High |
+| **Screening Age — Stop** | | |
+| For adults age 75 with up-to-date screening: consider stopping if prior screens have been negative | Weak | — |
+| For adults age 76-85: individualize decision based on prior screening history, life expectancy, comorbidities, and preference | Summary Statement | — |
+| Do not screen adults age >85 | Strong | — |
+| **Preferred Screening Tests (unchanged from 2017)** | | |
+| Tier 1 preferred tests: colonoscopy every 10 years or annual FIT | Summary Statement | — |
+| Acceptable alternatives: flexible sigmoidoscopy q5-10y, CT colonography q5y, FIT-fecal DNA q3y, capsule colonoscopy q5y | Summary Statement | — |
 
 ## Relevance to Wiki
 - Primary source for screening age recommendations in [[colonoscopy]]

@@ -3,7 +3,7 @@ title: "ACG 2018: Diagnosis and Management of Pancreatic Cysts"
 category: source
 tags: [pancreatic-cysts, ipmn, mcn, serous-cystadenoma, pseudocyst, spn, pancreas, eus-fna, mrcp, surveillance]
 created: 2026-05-19
-updated: 2026-05-19
+updated: 2026-05-28
 sources: []
 ---
 
@@ -151,6 +151,26 @@ Surveillance intervals by cyst size (Figure 2):
 - High-grade dysplasia or pancreatic cancer
 
 ---
+
+## Recommendations
+
+| Recommendation | Strength | Evidence Quality |
+|---|---|---|
+| **Diagnosis** | | |
+| MRI/MRCP is first-choice imaging (no radiation, better MPD delineation); pancreatic protocol CT or EUS acceptable alternatives when MRI is contraindicated | Conditional | Very Low |
+| Patients not medically fit for surgery should NOT undergo further evaluation of incidentally found pancreatic cysts regardless of size | Strong | Low |
+| Asymptomatic pseudocysts or classic serous cystadenomas do not require treatment or further evaluation | Conditional | Low |
+| EUS-FNA with cyst fluid CEA when diagnosis is unclear and results would alter management; cytology when imaging alone insufficient to warrant surgery | Conditional | Very Low |
+| **Surveillance** | | |
+| Surveillance offered to surgically fit candidates with presumed IPMNs or MCNs | Conditional | Very Low |
+| Size-based surveillance intervals: <1 cm → MRI q2y; 1–2 cm → MRI q1y; 2–3 cm → MRI or EUS q6–12 months; >3 cm → multidisciplinary referral + MRI alternating with EUS q6 months | Conditional | Very Low |
+| High-risk features warranting EUS±FNA and/or multidisciplinary referral: jaundice, acute pancreatitis from cyst, elevated CA 19-9, mural nodule, MPD >5 mm, cyst ≥3 cm, rapid growth ≥3 mm/year, cytology showing HGD or cancer | Strong | Very Low |
+| Rapid cyst size increase (>3 mm/year) or new-onset diabetes: short-interval MRI or EUS±FNA | Conditional | Very Low |
+| Solid-pseudopapillary neoplasm: multidisciplinary referral for surgical resection | Strong | Low |
+| Surveillance should be discontinued if a patient is no longer a surgical candidate | Strong | Very Low |
+| **Post-Surgical Surveillance** | | |
+| Resected SCA, pseudocyst, or other benign cysts: no follow-up required; resected MCNs without cancer: no postoperative surveillance | Strong | Very Low–Low |
+| All resected IPMNs require postoperative surveillance; SPN patients followed yearly for ≥5 years | Strong/Conditional | Very Low |
 
 ## Relevance to Wiki
 

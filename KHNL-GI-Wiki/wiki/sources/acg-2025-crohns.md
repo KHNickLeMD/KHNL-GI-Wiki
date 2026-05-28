@@ -3,7 +3,7 @@ title: "ACG 2025: Management of Crohn's Disease in Adults"
 category: source
 tags: [crohns, ibd, biologics, anti-tnf, vedolizumab, ustekinumab, risankizumab, guselkumab, mirikizumab, upadacitinib, perianal-fistula, postoperative-cd]
 created: 2026-05-07
-updated: 2026-05-07
+updated: 2026-05-28
 sources: []
 ---
 
@@ -136,6 +136,53 @@ Comprehensive update of the ACG Crohn's disease guideline. Major additions vs pr
 - Start at 8 years if >30% colonic involvement
 - PSC: start at diagnosis regardless of extent
 - Risk factors: disease duration, extent, PSC, family history, severity of inflammation
+
+## Recommendations
+
+| Recommendation | Strength | Evidence Quality |
+|---|---|---|
+| **Diagnosis** | | |
+| Use fecal calprotectin (cutoff >50–100 mg/g) to differentiate inflammatory from noninflammatory colonic disease | Strong | Moderate |
+| Perform routine CRC surveillance for Crohn's colitis | Strong | Moderate |
+| **Treatment Approach** | | |
+| Do not require failure of conventional therapy before initiating advanced therapy | Conditional | Low |
+| **Mild to Moderate Disease** | | |
+| Do not use oral mesalamine for induction or maintenance in CD | Strong | Moderate |
+| Use budesonide CIR 9 mg/day for induction in mildly/moderately active ileocecal CD | Strong | Moderate |
+| Do not use budesonide for maintenance of remission in ileocecal CD | Strong | Low |
+| **Moderate to Severe Disease — Induction** | | |
+| Use oral corticosteroids for short-term induction in moderate-severe CD | Strong | Low |
+| Do not use AZA/6-MP for induction in moderate-severe CD | Strong | Moderate |
+| Use AZA/6-MP for maintenance after steroid induction | Conditional | Low |
+| Test TPMT before initiating AZA or 6-MP | Strong | Low |
+| Use methotrexate ≤25 mg SQ/IM weekly for maintenance after steroid induction | Conditional | Moderate |
+| Use anti-TNF (infliximab IV, adalimumab SQ, certolizumab SQ) for induction + maintenance in moderate-severe CD | Strong | Moderate |
+| Use combination infliximab + thiopurine over monotherapy in biologic-naive CD | Strong | Moderate |
+| Use SC infliximab for maintenance after IV induction response | Strong | Moderate |
+| Use IV vedolizumab for induction + maintenance in moderate-severe CD | Strong | Moderate |
+| Use SC vedolizumab for maintenance after 2 IV induction doses | Strong | Moderate |
+| Use ustekinumab for induction + maintenance in moderate-severe CD | Strong | Moderate |
+| Use risankizumab for induction + maintenance in moderate-severe CD | Strong | Moderate |
+| Prefer risankizumab over ustekinumab in anti-TNF-experienced moderate-severe CD | Conditional | Low |
+| Use mirikizumab for induction + maintenance in moderate-severe CD | Strong | Moderate |
+| Use IV guselkumab induction → SC guselkumab maintenance in moderate-severe CD | Strong | Moderate |
+| Use SQ guselkumab for induction + maintenance in moderate-severe CD | Strong | Moderate |
+| Use upadacitinib for induction + maintenance in moderate-severe CD with prior anti-TNF exposure | Strong | Moderate |
+| **Fistulizing CD** | | |
+| Use infliximab for induction of perianal fistulizing CD | Strong | Moderate |
+| Use adalimumab for induction of perianal fistulizing CD | Conditional | Low |
+| Use antibiotics + infliximab or adalimumab for perianal fistulizing CD | Conditional | Very Low |
+| Use vedolizumab for induction of perianal fistulizing CD | Conditional | Very Low |
+| Use ustekinumab for induction of perianal fistulizing CD | Conditional | Very Low |
+| Use upadacitinib for induction of perianal fistulizing CD | Conditional | Very Low |
+| **Postoperative CD** | | |
+| Perform postoperative ileoscopy 6–12 months after resection | Conditional | Moderate |
+| Use observation over immediate therapy for low postoperative risk patients | Conditional | Very Low |
+| Use metronidazole 1–2 g/day after small intestinal resection to prevent recurrence | Conditional | Low |
+| Use anti-TNF for high-risk postoperative CD to prevent endoscopic recurrence | Strong | Moderate |
+| Use vedolizumab for high-risk postoperative CD prevention | Conditional | Low |
+| **Surgery** | | |
+| For intra-abdominal abscess >2 cm: use antibiotics + drainage; hold immunosuppression until drained | Conditional | Low |
 
 ## Relevance to Wiki
 - Primary source for [[crohns-disease]] disease script

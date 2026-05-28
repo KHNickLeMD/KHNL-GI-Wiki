@@ -3,7 +3,7 @@ title: "ACG Clinical Guideline: Focal Liver Lesions (2024)"
 category: source
 tags: [liver, focal-liver-lesion, hca, fnh, hemangioma, hepatic-cysts, hcc, li-rads, hpb]
 created: 2026-05-07
-updated: 2026-05-07
+updated: 2026-05-28
 sources: []
 ---
 
@@ -68,6 +68,32 @@ Hepatocellular adenoma (HCA) carries the highest management stakes: it has four 
 - Cirrhosis (any etiology): 6-month liver ultrasound ± AFP
 - LI-RADS classification: LR-1 (definitely benign) to LR-5 (definitely HCC); LR-M (probably/possibly malignant, not HCC-specific)
 - LR-5 criteria: ≥1 cm nodule with arterial phase hyperenhancement (APHE) + washout appearance ± capsule ± threshold growth
+
+## Recommendations
+
+| Recommendation | Strength | Evidence Quality |
+|---|---|---|
+| **Imaging Approach** | | |
+| MRI with hepatobiliary contrast agent (gadoxetate) preferred for FLL characterization when CT/US is indeterminate | Strong | Moderate |
+| CEUS as valid alternative to MRI for FLL characterization | Conditional | Moderate |
+| **Hemangioma** | | |
+| <3 cm, asymptomatic, characteristic imaging: no follow-up needed | Strong | Moderate |
+| 3–10 cm or atypical imaging: follow-up ultrasound at 6–12 months | Conditional | Low |
+| Resection or embolization for symptomatic giant hemangiomas | Conditional | Low |
+| **Focal Nodular Hyperplasia (FNH)** | | |
+| No follow-up needed once FNH is definitively characterized | Strong | Moderate |
+| Resect only if symptomatic | Conditional | Low |
+| **Hepatocellular Adenoma (HCA)** | | |
+| Discontinue OCP and repeat MRI in 6 months after HCA diagnosis | Strong | Moderate |
+| Resect if >5 cm (all subtypes), male patient, beta-catenin subtype, or pregnancy-related growth | Strong | Moderate |
+| Surveillance with MRI q6–12 months for ≤5 cm, female, non–beta-catenin HCA | Conditional | Low |
+| Avoid pregnancy while HCA >5 cm | Strong | Moderate |
+| **Hepatic Cysts** | | |
+| Simple cysts: no follow-up needed | Strong | Moderate |
+| Complex cysts (septa, mural nodularity): MRI characterization to exclude cystic neoplasm | Strong | Moderate |
+| Aspiration-sclerotherapy or laparoscopic fenestration for symptomatic large simple cysts | Conditional | Low |
+| **HCC Surveillance** | | |
+| 6-month liver ultrasound ± AFP for all patients with cirrhosis | Strong | Moderate |
 
 ## Relevance to Wiki
 

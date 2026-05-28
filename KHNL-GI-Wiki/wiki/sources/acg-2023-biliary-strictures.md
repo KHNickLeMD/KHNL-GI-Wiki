@@ -3,7 +3,7 @@ title: "ACG 2023: Diagnosis and Management of Biliary Strictures"
 category: source
 tags: [biliary-stricture, ercp, eus, cholangioscopy, hepatobiliary]
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-05-28
 sources: []
 ---
 
@@ -77,6 +77,31 @@ Key organizational principle: extrahepatic strictures are substantially more ame
 ### EUS-Guided Biliary Access After Failed ERCP (Rec 11)
 - **Rec 11 (Conditional, Very Low):** If ERCP fails or is impossible, prefer **EUS-guided biliary drainage over PTBD** based on fewer adverse events. Technical success ~90%; adverse event rate 15–20% (meta-analyses of 500–1,500 cases). Requires substantial endoscopist experience.
 - Repeat ERCP by same or different provider on a subsequent day is successful in the large majority of cases and represents a reasonable first alternative in non-urgent situations.
+
+## Recommendations
+
+| Recommendation | Strength | Evidence Quality |
+|---|---|---|
+| **Diagnosis — Extrahepatic Stricture** | | |
+| EUS-FNA/B preferred over ERCP-based tissue sampling for extrahepatic strictures due to apparent/suspected pancreatic mass | Strong | Moderate |
+| Prefer EUS-FNB (core needle) or EUS-FNA + ROSE over FNA alone | Conditional | Very Low |
+| **Diagnosis — Perihilar Stricture** | | |
+| Avoid EUS-FNA/B or percutaneous biopsy of primary lesion in suspected perihilar cholangiocarcinoma (seeding risk) | Strong | Low |
+| Use multimodality intraductal sampling (not brush cytology alone) at index ERCP for suspected malignant perihilar stricture | Strong | Low |
+| **Drainage — Benign Extrahepatic Stricture** | | |
+| Prefer fcSEMS over multiple plastic stents (MPS) to reduce number of procedures | Conditional | Low |
+| **Drainage — Malignant Extrahepatic Stricture** | | |
+| Avoid routine preoperative biliary drainage in resectable pancreatic cancer or cholangiocarcinoma | Conditional | Low |
+| Use SEMS over plastic stent for unresectable or borderline resectable malignant extrahepatic stricture | Strong | Moderate |
+| Insufficient evidence to recommend uSEMS vs fcSEMS for unresectable malignant extrahepatic stricture | — | — |
+| **Drainage — Perihilar Stricture** | | |
+| Insufficient evidence to recommend ERCP vs PTBD for drainage of malignant perihilar stricture | — | — |
+| Drain >50% of nonatrophic liver volume (volumetric sectorial goal) | Strong | Low |
+| Insufficient evidence to recommend plastic stent vs uSEMS for malignant perihilar stricture | — | — |
+| **Endobiliary Ablation** | | |
+| PDT or RFA plus plastic stent over plastic stent alone for unresectable malignant perihilar cholangiocarcinoma | Conditional | Low |
+| **EUS-Guided Biliary Access** | | |
+| EUS-guided biliary drainage preferred over PTBD when ERCP fails or is impossible | Conditional | Very Low |
 
 ## Relevance to Wiki
 

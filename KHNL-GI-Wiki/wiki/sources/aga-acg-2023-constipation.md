@@ -3,7 +3,7 @@ title: "AGA-ACG 2023 Pharmacologic Management of Chronic Idiopathic Constipation
 category: source
 tags: [constipation, cic, laxatives, secretagogues, prokinetics, colorectal]
 created: 2026-05-16
-updated: 2026-05-16
+updated: 2026-05-28
 sources: []
 ---
 
@@ -42,6 +42,26 @@ Monthly cost comparisons were explicitly incorporated into recommendations as a 
 - Lubiprostone: ~$374; Linaclotide: ~$523; Plecanatide: ~$526; Prucalopride: ~$563
 
 **Excluded from guideline:** IBS-C (covered by separate guidelines), opioid-induced constipation, constipation in pregnancy, constipation from malignancy
+
+## Recommendations
+
+| Recommendation | Strength | Evidence Quality |
+|---|---|---|
+| **OTC Osmotic Laxatives** | | |
+| Use PEG (polyethylene glycol) 17 g daily as first-line OTC osmotic laxative for CIC | Strong | Moderate |
+| Use magnesium oxide 400-500 mg for CIC (avoid in renal insufficiency) | Conditional | Low |
+| Use lactulose 15 g daily for CIC (positioned behind PEG due to tolerability) | Conditional | Very Low |
+| **OTC Stimulant Laxatives** | | |
+| Use bisacodyl or sodium picosulfate 5 mg daily for CIC | Strong | Moderate |
+| Use senna 8.6-17.2 mg daily for CIC | Conditional | Low |
+| **OTC Fiber** | | |
+| Use psyllium fiber for CIC (psyllium superior to other fiber types; start low and titrate) | Conditional | Low |
+| **Prescription Secretagogues** | | |
+| Use linaclotide 72 mcg or 145 mcg daily when OTC agents fail (first choice among secretagogues) | Strong | Moderate |
+| Use plecanatide 3 mg daily when OTC agents fail | Strong | Low |
+| Use lubiprostone 24 mcg BID when OTC agents fail | Conditional | Low |
+| **Prescription Prokinetics** | | |
+| Use prucalopride 1-2 mg daily when OTC agents fail | Strong | Low |
 
 ## Relevance to Wiki
 - Creates [[chronic-idiopathic-constipation]] disease script

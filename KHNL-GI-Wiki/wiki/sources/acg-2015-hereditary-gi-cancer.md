@@ -3,7 +3,7 @@ title: "ACG 2015: Genetic Testing and Management of Hereditary Gastrointestinal 
 category: source
 tags: [hereditary-cancer, lynch-syndrome, fap, peutz-jeghers, juvenile-polyposis, cowden, serrated-polyposis, hereditary-pancreatic-cancer, hereditary-gastric-cancer, genetic-testing, colorectal-cancer, familial-cancer]
 created: 2026-05-19
-updated: 2026-05-19
+updated: 2026-05-28
 sources: []
 ---
 
@@ -113,6 +113,32 @@ The hamartomatous syndromes (PJS, JPS, Cowden) each receive dedicated guidance o
 - Next-generation sequencing (multi-gene panels) now available; 6–52 genes per panel; longer turnaround time but lower cost
 - Informed consent standards outlined (Table 14): 14 components including implications of positive/negative results, variant of uncertain significance (VUS) risk, genetic discrimination protections (GINA), confidentiality
 - PREMM1,2,6 computational model recommended for LS risk prediction (≥5% threshold for referral)
+
+## Recommendations
+
+| Recommendation | Strength | Evidence Quality |
+|---|---|---|
+| **Lynch Syndrome** | | |
+| Universal MMR testing (IHC ± MSI) for all newly diagnosed CRCs; BRAF V600E or MLH1 methylation testing when MLH1 is lost | Strong | Moderate |
+| Colonoscopy every 1–2 years from age 20–25 (MLH1/MSH2) or 25–30 (MSH6/PMS2) in confirmed LS carriers | Strong | Moderate |
+| Colectomy with IRA preferred for LS-associated colon cancer | Conditional | Moderate |
+| Annual endometrial biopsy + TVUS from age 30–35; hysterectomy + BSO offered after childbearing | Conditional | Low–Very Low |
+| EGD + gastric biopsy at age 30–35; ongoing q3–5y if family history of gastric/duodenal cancer | Conditional | Very Low |
+| **FAP / AFAP / MAP** | | |
+| Annual sigmoidoscopy/colonoscopy from puberty (FAP); colonoscopy from age 18–20 (AFAP/MAP) | Strong | Moderate |
+| Surgical indications: cancer/suspicion, adenomas >6 mm, rapid increase in number, HGD, inability to survey colon | Strong | Low |
+| Duodenal surveillance by EGD with side-viewing instrument starting age 25–30; Spigelman staging determines frequency | Strong | Very Low |
+| Annual thyroid US from late teenage years | Conditional | Low |
+| **Peutz-Jeghers Syndrome** | | |
+| Colonoscopy + EGD + video capsule endoscopy starting age 8; pancreatic surveillance (MRCP/EUS) starting age 30 q1–2y | Summary Statement | — |
+| **Juvenile Polyposis Syndrome** | | |
+| Colonoscopy + EGD annually from age 12–15; colectomy if polyps uncontrolled | Conditional | Very Low–Low |
+| **Hereditary Diffuse Gastric Cancer (CDH1)** | | |
+| Prophylactic gastrectomy after age 20 (>80% lifetime risk by age 80) | Conditional | Low |
+| **Hereditary Pancreatic Cancer** | | |
+| Pancreatic surveillance with EUS ± MRI/MRCP starting age 50 (or 10 years before earliest family cancer) in high-risk mutation carriers | Conditional | Very Low |
+| **Serrated Polyposis Syndrome** | | |
+| Colonoscopy q1–3y with removal of all polyps >5 mm; colectomy if polyps uncontrolled or cancer develops | Conditional | Low |
 
 ## Relevance to Wiki
 - Expands [[lynch-syndrome]] from stub to full ADDT with cumulative risk tables, gene-specific surveillance timing, surgical options, aspirin data

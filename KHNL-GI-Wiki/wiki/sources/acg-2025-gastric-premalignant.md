@@ -3,7 +3,7 @@ title: "ACG 2025: Diagnosis and Management of Gastric Premalignant Conditions"
 category: source
 tags: [gastric, gpmc, gim, atrophic-gastritis, dysplasia, gastric-cancer, h-pylori, esd, surveillance, autoimmune-gastritis]
 created: 2026-05-07
-updated: 2026-05-07
+updated: 2026-05-28
 sources: []
 ---
 
@@ -92,6 +92,41 @@ Key conclusions: routine GC/GPMC screening in the general US population is not r
 | 20 | Endoscopic resection of ALL gastric adenomas regardless of size; surgical referral if not amenable to ER | Conditional/Low |
 | 21 | Hyperplastic polyps >10mm: insufficient evidence for universal endoscopic resection (individualized approach; consider resection/biopsy + 12-month surveillance) | No recommendation |
 | 22 | All GEP except fundic gland polyps: obtain systematic Sydney protocol biopsies from surrounding flat mucosa (high prevalence of GPMC, H. pylori, AIG in these patients) | Conditional/Very low |
+
+## Recommendations
+
+| Recommendation | Strength | Evidence Quality |
+|---|---|---|
+| **GC Screening** | | |
+| Do not perform routine EGD screening for GC/GPMC in the general US population | Conditional | Very Low |
+| Insufficient evidence to recommend opportunistic screening in high-risk groups (immigration, race/ethnicity) | No recommendation | — |
+| **Noninvasive Diagnosis** | | |
+| Do not use noninvasive biomarkers for GPMC/GC screening or surveillance in the US | Conditional | Very Low |
+| **Endoscopic Diagnosis** | | |
+| Perform high-quality endoscopic evaluation: HDWLE + mucosal cleansing + CO₂ insufflation + photodocumentation + adequate gastric inspection time | Strong | Low |
+| Use HDWLE + image-enhanced endoscopy (NBI, blue laser imaging) for gastric examination | Conditional | Low |
+| **Histologic Diagnosis** | | |
+| Use updated Sydney biopsy protocol with antrum/incisura in one container, corpus in another; targeted biopsies in additional containers | Conditional | Low |
+| Report GIM histological subtype (complete, incomplete, mixed) for risk stratification | Conditional | Low |
+| Report anatomic extent (limited vs extensive) and severity of atrophy/GIM per compartment | Conditional | Very Low |
+| **Surveillance** | | |
+| High-risk GIM: perform surveillance every 3 years (high risk = incomplete GIM OR corpus extension OR ≥1 of: family Hx GC, foreign-born from high-GC country, high-risk race) | Conditional | Very Low |
+| Severe GIM or AG in antrum or corpus: perform surveillance every 3 years | Conditional | Very Low |
+| Low-risk GIM or mild AG: do not perform surveillance | Conditional | Very Low |
+| **Endoscopic Management of Dysplasia** | | |
+| Perform endoscopic resection for dysplasia (IND/LGD/HGD) with visible margins | Conditional | Low |
+| For dysplasia without visible margins: perform repeat EGD with HDWLE + IEE by experienced endoscopist | Conditional | Low |
+| Refer to high-volume center with expertise in gastric neoplasia for endoscopic resection (especially ESD) | Strong | Low |
+| Perform endoscopic surveillance after complete resection (HDWLE + IEE + systematic and targeted biopsies) | Strong | Low |
+| **Nonendoscopic Management** | | |
+| Test and eradicate H. pylori in all GPMC patients and resected early GC | Strong | Moderate |
+| Do not use aspirin, NSAIDs, COX-2 inhibitors, or antioxidants for GC chemoprevention | Conditional | Very Low |
+| **Autoimmune Gastritis** | | |
+| In AIG: assess for H. pylori with nonserological test; eradicate if positive; confirm eradication | Strong | Low |
+| Insufficient evidence for formal AIG surveillance; individualized surveillance may be considered given increased risk of type 1 NETs | Conditional | Low |
+| **Gastric Epithelial Polyps** | | |
+| Perform endoscopic resection of ALL gastric adenomas regardless of size; refer to surgery if not amenable to ER | Conditional | Low |
+| For all GEP except fundic gland polyps: obtain systematic Sydney protocol biopsies from surrounding flat mucosa | Conditional | Very Low |
 
 ## Relevance to Wiki
 - Creates: `wiki/disease-scripts/foregut-and-motility-diseases/gastric/gastric-premalignant-conditions.md`

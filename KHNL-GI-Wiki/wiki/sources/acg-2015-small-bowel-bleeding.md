@@ -3,7 +3,7 @@ title: "ACG 2015: Diagnosis and Management of Small Bowel Bleeding"
 category: source
 tags: [small-bowel, gi-bleeding, capsule-endoscopy, deep-enteroscopy, obscure-gi-bleeding, mid-gi-bleeding, angioectasia, vce, dbe]
 created: 2026-05-19
-updated: 2026-05-19
+updated: 2026-05-28
 sources: []
 ---
 
@@ -124,6 +124,27 @@ Therapeutically, endoscopic hemostasis (argon plasma coagulation preferred) is f
 - Surgical therapy: generally last resort; right hemicolectomy historically for right-sided diverticulosis; modern approach combines IOE + angiographic localization + intraoperative tattooing.
 
 ---
+
+## Recommendations
+
+| Recommendation | Strength | Evidence Quality |
+|---|---|---|
+| **Diagnostic Approach** | | |
+| VCE as first-line small bowel evaluation after upper and lower GI sources (including second-look endoscopy) are excluded | Strong | Moderate |
+| VCE should be performed before deep enteroscopy to increase diagnostic yield; initial deep enteroscopy acceptable for massive hemorrhage or VCE contraindication | Strong | High |
+| Any method of deep enteroscopy acceptable when endoscopic evaluation and therapy is required (similar diagnostic yields) | Strong | High |
+| Barium studies should NOT be performed in the evaluation of small bowel bleeding | Strong | High |
+| CTE preferred over MRI and over conventional CT of the abdomen for suspected SBB with negative VCE | Strong | Low |
+| CTE should precede VCE in established IBD, prior radiation, prior small bowel surgery, or suspected stenosis | Strong | Very Low |
+| Conventional angiography emergently for hemodynamically unstable patients with acute overt massive GI bleeding | Strong | Low |
+| Multiphasic CT (CTA) for hemodynamically stable patients with evidence of active bleeding | Strong | Low |
+| Meckel's scan in younger patients with ongoing overt bleeding and normal capsule endoscopy and enterography | Conditional | Very Low |
+| **Treatment** | | |
+| Endoscopic therapy (APC preferred) when a bleeding source is found with significant ongoing anemia or active bleeding | Strong | Low |
+| Conservative management with oral or IV iron when no source found; repeat workup if bleeding persists | Strong | Very Low |
+| Medical treatment with iron, somatostatin analogs, or antiangiogenic therapy (thalidomide) for recurrent/refractory bleeding | Strong | Moderate |
+| Aortic valve replacement for Heyde's syndrome (aortic stenosis + angioectasia) with ongoing bleeding | Conditional | Moderate |
+| Surgical intervention aided by presurgical tattooing of the lesion; IOE available at time of surgery | Strong/Conditional | Low |
 
 ## Relevance to Wiki
 

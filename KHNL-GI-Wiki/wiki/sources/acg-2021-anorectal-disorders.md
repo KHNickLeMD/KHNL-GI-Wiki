@@ -3,7 +3,7 @@ title: "ACG 2021 Clinical Guidelines: Management of Benign Anorectal Disorders"
 category: source
 tags: [anorectal, hemorrhoids, anal-fissure, fecal-incontinence, defecation-disorder, proctalgia, colorectal, pelvic-floor]
 created: 2026-05-16
-updated: 2026-05-16
+updated: 2026-05-28
 sources: []
 ---
 
@@ -74,6 +74,32 @@ A unifying theme is the primacy of conservative management (dietary modification
   - End stoma: Conditional — last resort for severe FI; significant quality-of-life improvement
   - Dynamic graciloplasty: NOT recommended — significant morbidity and mortality
   - SECCA (radiofrequency): limited long-term data; not recommended routinely
+
+## Recommendations
+
+| Recommendation | Strength | Evidence Quality |
+|---|---|---|
+| **Defecation Disorders** | | |
+| Anorectal biofeedback (4–6 sessions) for dyssynergic defecation | Strong | Moderate |
+| **Proctalgia Syndromes** | | |
+| Biofeedback for levator ani syndrome (chronic proctalgia) | Strong | Very Low |
+| Galvanic stimulation if biofeedback unavailable (levator syndrome) | Conditional | Very Low |
+| **Hemorrhoids** | | |
+| Rubber band ligation (RBL) for Grade I–III internal hemorrhoids | Strong | Moderate |
+| Infrared coagulation (IRC) for Grade I–II internal hemorrhoids | Strong | Moderate |
+| Doppler-guided hemorrhoidal artery ligation (DGHAL) for Grade III | Conditional | Very Low |
+| Excision or incision of acutely thrombosed external hemorrhoid within 4 days | Strong | Low |
+| **Anal Fissures** | | |
+| Topical calcium channel blocker (diltiazem 2% or nifedipine) as first-line for chronic fissure | Strong | Low |
+| Botulinum toxin A injection for CCB failure or as alternative | Conditional | Low |
+| Lateral internal sphincterotomy (LIS) for chronic fissures failing nonsurgical treatment | Strong | High |
+| **Fecal Incontinence** | | |
+| Antidiarrheal drugs (loperamide, diphenoxylate + atropine) for fecal incontinence | Strong | Low |
+| Biofeedback (pelvic floor rehabilitation) for fecal incontinence not controlled with conservative measures | Strong | Moderate |
+| Injectable bulking agents for conservative/biofeedback failures | Conditional | Low |
+| Sacral nerve stimulation (SNS) for moderate-severe FI failing conservative measures | Strong | Low |
+| Anal sphincteroplasty for acute sphincter injuries | Conditional | Low |
+| End stoma as last resort for severe FI | Conditional | — |
 
 ## Relevance to Wiki
 - Creates [[hemorrhoids]], [[anal-fissure]], [[fecal-incontinence]], [[defecation-disorders]], and [[proctalgia-syndromes]] disease scripts

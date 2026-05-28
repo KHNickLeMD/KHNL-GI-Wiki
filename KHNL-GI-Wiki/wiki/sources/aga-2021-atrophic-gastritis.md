@@ -3,7 +3,7 @@ title: "AGA 2021: Diagnosis and Management of Atrophic Gastritis"
 category: source
 tags: [atrophic-gastritis, gastric-premalignant-conditions, h-pylori, correa-cascade, gastric-cancer, autoimmune-gastritis, pernicious-anemia, neuroendocrine-tumors]
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-05-28
 sources: []
 ---
 
@@ -80,6 +80,31 @@ The management section addresses H. pylori test-and-treat as foundational for al
 ### Autoimmune Comorbidities (BPA 12)
 - AIG strongly associated with autoimmune thyroid disease (up to 1/3 of autoimmune thyroid patients have AIG)
 - Screen all AIG patients for autoimmune thyroid disease; consider T1DM and Addison's disease
+
+## Recommendations
+
+| Recommendation | Strength | Evidence Quality |
+|---|---|---|
+| **Histopathology and Diagnosis** | | |
+| Document AG extent and severity explicitly; recognize that intestinal metaplasia on biopsy almost invariably implies underlying AG | Best Practice Advice | — |
+| Use OLGA and OLGIM staging systems for risk stratification; Stages III/IV = significantly elevated gastric cancer risk | Best Practice Advice | — |
+| **Endoscopic Evaluation** | | |
+| Use HD-WLE with NBI (near-focus) for enhanced detection of IM and dysplasia | Best Practice Advice | — |
+| Use 5-biopsy updated Sydney Protocol with separately labeled jars: antrum lesser curve, antrum greater curve, incisura, corpus lesser curve, corpus greater curve | Best Practice Advice | — |
+| **H. pylori Management** | | |
+| Test and treat H. pylori in all AG patients regardless of etiology; confirm eradication with non-serologic testing | Best Practice Advice | — |
+| **Surveillance** | | |
+| Perform endoscopic surveillance every 3 years for advanced AG (OLGA/OLGIM stages III/IV) | Best Practice Advice | — |
+| Perform individualized surveillance in autoimmune gastritis (ESGE recommends every 3-5 years) | Best Practice Advice | — |
+| Perform upper endoscopy within 6 months of new pernicious anemia diagnosis | Best Practice Advice | — |
+| **Type I Gastric NETs** | | |
+| NETs <1 cm: endoscopic resection + surveillance every 1-2 years | Best Practice Advice | — |
+| NETs 1-2 cm: consider EUS for staging | Best Practice Advice | — |
+| NETs >2 cm, submucosal invasion, or LN metastasis: surgical resection | Best Practice Advice | — |
+| **Micronutrient Deficiencies** | | |
+| Evaluate all AG patients for iron and vitamin B-12 deficiency | Best Practice Advice | — |
+| **Autoimmune Comorbidities** | | |
+| Screen all AIG patients for autoimmune thyroid disease; consider T1DM and Addison's disease | Best Practice Advice | — |
 
 ## Relevance to Wiki
 - Creates: [[atrophic-gastritis]] (new disease script page)

@@ -3,7 +3,7 @@ title: "AASLD/IDSA 2025 Practice Guideline on Treatment of Chronic Hepatitis B"
 category: source
 tags: [hepatitis-b, HBV, antiviral, pregnancy, HCC-surveillance, nucleoside-analogues, immune-tolerant, indeterminate, functional-cure]
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-05-28
 sources: []
 ---
 
@@ -78,6 +78,29 @@ This guideline is intended as a focused update — the 2018 guidance remains app
 - Avoid ETV: pregnancy; prior lamivudine exposure (resistance risk); HIV unless suppressed on ART
 - Avoid ETV in pregnancy → switch to TDF/TAF
 - ALT thresholds: normal defined as M <35 U/L, F <25 U/L (stricter than older ULN)
+
+## Recommendations
+
+| Recommendation | Strength | Evidence Quality |
+|---|---|---|
+| **MTCT Prevention (PICO 1)** | | |
+| Initiate TDF or TAF at gestational week 28 for HBV DNA >200,000 IU/mL to prevent mother-to-child transmission | Strong | Moderate |
+| Breastfeeding is safe on TDF or TAF; avoid ETV in pregnancy | Strong | Moderate |
+| **Horizontal Transmission Prevention (PICO 2)** | | |
+| For viremic HBsAg+ persons in high-risk scenarios (unprotected sex, IDU, susceptible household contacts): shared decision-making approach for antivirals | Conditional | Very Low |
+| **Immune-Tolerant Phase (PICO 3)** | | |
+| Suggest treatment for immune-tolerant patients aged ≥40 years OR with ≥F2 fibrosis on biopsy/non-invasive testing | Conditional | Very Low |
+| For age <40 without fibrosis: shared decision-making considering HCC family history, adherence, transmission risk | Conditional | Very Low |
+| **HBeAg-Negative Indeterminate Phase (PICO 4)** | | |
+| Offer antivirals via shared decision-making in HBeAg-negative indeterminate-phase CHB; reassess at every visit | Conditional | Very Low |
+| **NA Discontinuation (PICO 5)** | | |
+| Suggest NOT withdrawing NA therapy until HBsAg loss (functional cure) — diverges from EASL 2025 and APASL | Conditional | Very Low |
+| If patient insists on stopping: all criteria required (no cirrhosis; HBV DNA undetectable ≥2 years; qHBsAg <100 IU/mL; no HIV/HDV co-infection; committed monitoring) | Conditional | Very Low |
+| **HCC Surveillance (PICO 6)** | | |
+| Continue HCC surveillance post-HBsAg loss for cirrhosis, family Hx HCC, men >40 at loss, women >50 at loss | Conditional | Very Low |
+| HBV/HDV co-infection: surveillance for all adults regardless of cirrhosis status | Conditional | Very Low |
+| HBV/HIV: surveillance for men ≥18 years, women ≥40 years | Conditional | Very Low |
+| All surveillance: US + AFP every 6 months per 2023 AASLD HCC Guidance | Summary Statement | — |
 
 ## Relevance to Wiki
 

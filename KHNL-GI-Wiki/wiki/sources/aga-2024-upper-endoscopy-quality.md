@@ -3,7 +3,7 @@ title: "AGA 2024: Quality Indicators for Upper GI Endoscopy"
 category: source
 tags: [egd, quality, upper-endoscopy, aga]
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-05-28
 sources: []
 ---
 
@@ -76,6 +76,36 @@ The document provides specific biopsy protocol tables for eosinophilic esophagit
 - Document management recommendations based on endoscopic findings
 - If recommendations contingent on histopathology (H. pylori, Barrett's, gastric intestinal metaplasia), document that guidance will be provided after results
 - Document surveillance indication and appropriate intervals; implement recall system for surveillance-due patients
+
+## Recommendations
+
+| Recommendation | Strength | Evidence Quality |
+|---|---|---|
+| **Preprocedure** | | |
+| Perform EGD only for appropriate indications; assess indication quality before each procedure | Best Practice Advice | — |
+| Review GLP-1 receptor agonist use before EGD; follow ASA guidance to hold 1 dose before elective procedure due to delayed gastric emptying | Best Practice Advice | — |
+| **Mucosal Visualization** | | |
+| Use simethicone (0.5% concentration via working channel, not waterjet) to improve mucosal visualization; may add N-acetylcysteine | Best Practice Advice | — |
+| **Imaging Technology** | | |
+| Use high-definition white-light endoscopy (HD-WLE) as standard; ensure all system components are HD-compatible | Best Practice Advice | — |
+| Use image enhancement technologies (NBI, LCI, i-Scan) for Barrett's esophagus and gastric intestinal metaplasia evaluation | Best Practice Advice | — |
+| **Inspection Time** | | |
+| Target total EGD duration >7 minutes to improve detection of Barrett's esophagus, GIM, and upper GI cancer | Best Practice Advice | — |
+| For Barrett's esophagus surveillance: target >1 min/cm of Barrett's segment inspection time | Best Practice Advice | — |
+| **Photodocumentation** | | |
+| Document minimum required anatomic stations: lower esophagus/cardia with SCJ and GEJ, GEJ/fundus in retroflexion, body and antrum, incisura in retroflexion, distal duodenum | Best Practice Advice | — |
+| Use more rigorous photodocumentation for Barrett's esophagus, GIM, or endoscopic treatment cases | Best Practice Advice | — |
+| **Standardized Terminology** | | |
+| Use LA classification for erosive esophagitis, Prague C&M for Barrett's, Forrest for bleeding ulcers, Paris for superficial neoplastic lesions | Best Practice Advice | — |
+| **Biopsy Protocols** | | |
+| EoE: obtain >=6 biopsies from distal and mid/proximal esophagus | Best Practice Advice | — |
+| Barrett's esophagus: use Seattle protocol (4-quadrant biopsies every 1-2 cm + targeted biopsies); >=8 biopsies significantly improves yield | Best Practice Advice | — |
+| Dyspepsia/H. pylori: obtain 5 biopsies from greater and lesser curve of body, incisura, and antrum in >=2 jars | Best Practice Advice | — |
+| Gastric preneoplasia: obtain >=5 biopsies per updated Sydney System in >=2 jars; request histologic subtyping of GIM | Best Practice Advice | — |
+| Celiac disease: obtain >=4 biopsies from postbulbar duodenum + 1-2 from bulb in separate container | Best Practice Advice | — |
+| Iron-deficiency anemia: perform serologic testing first; duodenal biopsy only if positive serology | Best Practice Advice | — |
+| **Postprocedure** | | |
+| Document management recommendations and surveillance indication with appropriate intervals; implement recall system for surveillance-due patients | Best Practice Advice | — |
 
 ## Relevance to Wiki
 

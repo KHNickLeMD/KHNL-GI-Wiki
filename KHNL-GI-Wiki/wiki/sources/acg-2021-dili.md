@@ -3,7 +3,7 @@ title: "ACG 2021 Clinical Guideline: Diagnosis and Management of Idiosyncratic D
 category: source
 tags: [dili, drug-induced-liver-injury, hds, hepatotoxicity, liver, hpb, ici, immune-checkpoint]
 created: 2026-05-16
-updated: 2026-05-16
+updated: 2026-05-28
 sources: []
 ---
 
@@ -77,6 +77,30 @@ The guideline covers: diagnostic evaluation by injury pattern (R-value), causali
 - High suspicion required; exclude common CLD flare triggers first: Strong/Low
 - Risk-benefit assessment for hepatotoxic drugs in CLD: Conditional/Low
 - Monitor liver biochemistries at 4–6 week intervals, especially first 6 months of new hepatotoxic agent: Conditional/Very Low
+
+## Recommendations
+
+| Recommendation | Strength | Evidence Quality |
+|---|---|---|
+| **Diagnosis** | | |
+| Perform thorough medication/HDS history and exclude competing etiologies systematically | Strong | Low |
+| Liver biopsy if AIH remains competitive and immunosuppressive therapy is contemplated | Strong | Low |
+| Liver biopsy if ALT not fallen >50% at 30–60 days (hepatocellular) or Alk P not fallen >50% at 180 days (cholestatic) | Conditional | Low |
+| Liver biopsy before rechallenge with implicated agent | Conditional | Low |
+| Liver biopsy if biochemistries persist beyond 180 days (chronic DILI concern) | Conditional | Low |
+| **Treatment** | | |
+| Stop offending agent promptly when liver biochemistries are rising rapidly | Strong | Low |
+| NAC for early-stage (coma grade I–II) ALF from idiosyncratic DILI | Conditional | Low |
+| Against NAC in pediatric DILI-ALF | Conditional | Low |
+| Strongly against rechallenge if initial injury was severe (>5× ULN ALT, Hy's law, or jaundice) | Strong | Low |
+| **HDS-Induced Liver Injury** | | |
+| Encourage patients to report all HDS use | Strong | Low |
+| Stop all HDS in suspected HDS-hepatotoxicity | Strong | Low |
+| Liver transplant evaluation for HDS-induced ALF and severe cholestatic injury | Strong | Low |
+| **DILI in Chronic Liver Disease** | | |
+| Maintain high suspicion; exclude common CLD flare triggers first | Strong | Low |
+| Risk-benefit assessment for hepatotoxic drugs in patients with CLD | Conditional | Low |
+| Monitor liver biochemistries at 4–6 week intervals, especially first 6 months of new hepatotoxic agent | Conditional | Very Low |
 
 ## Relevance to Wiki
 - Creates [[drug-induced-liver-injury]] disease script

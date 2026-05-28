@@ -3,7 +3,7 @@ title: "ACG 2015 Clinical Guideline: Primary Sclerosing Cholangitis"
 category: source
 tags: [psc, cholestasis, biliary, ibd, cholangiocarcinoma, liver-transplant]
 created: 2026-05-19
-updated: 2026-05-19
+updated: 2026-05-28
 sources: []
 ---
 
@@ -59,6 +59,30 @@ First ACG clinical guideline for primary sclerosing cholangitis (PSC), a chronic
 - Bone disease: DEXA at diagnosis then every 2–4 years (Conditional/Moderate); alendronate improves BMD
 - Fat-soluble vitamins A, D, E should be assessed in advanced/jaundiced patients
 - Screen for varices if platelets <150 (Conditional/VLow); pre-cirrhotic portal HTN possible from nodular regenerative hyperplasia
+
+## Recommendations
+
+| Recommendation | Strength | Evidence Quality |
+|---|---|---|
+| **Diagnosis** | | |
+| MRCP preferred over ERCP for initial diagnosis of PSC | Strong | Moderate |
+| Liver biopsy not required for typical large-duct PSC; recommended for suspected small-duct PSC or AIH overlap | Conditional | Low |
+| Test all patients once for elevated IgG4 to exclude IgG4-associated cholangitis | Conditional | Moderate |
+| **Medical Treatment** | | |
+| UDCA >28 mg/kg/day should NOT be used in PSC (associated with worse outcomes) | Strong | High |
+| **Endoscopic Management** | | |
+| ERCP with balloon dilation for symptomatic dominant strictures; obtain cytology + biopsy + FISH to exclude cholangiocarcinoma | Strong | Low |
+| Antibiotic prophylaxis before ERCP in PSC patients | Conditional | Low |
+| Routine stenting after dilation not required; short-term stenting for severe strictures acceptable | Conditional | Low |
+| **Malignancy Surveillance** | | |
+| Annual surveillance with US or MRI + serum CA 19-9 every 6–12 months for cholangiocarcinoma | Conditional | Very Low |
+| Cholecystectomy for gallbladder polyps >8 mm (high malignancy risk) | Conditional | Very Low |
+| **Liver Transplant** | | |
+| Liver transplantation preferred over medical/surgical drainage in decompensated PSC; refer when MELD >14 | Strong | Moderate |
+| **PSC and IBD** | | |
+| Annual colonoscopy with chromoendoscopy/biopsies beginning at PSC diagnosis (4–5× elevated CRC risk vs. IBD without PSC) | Conditional | Moderate |
+| **Bone Health** | | |
+| DEXA scan at diagnosis then every 2–4 years; alendronate for osteoporosis | Conditional | Moderate |
 
 ## Relevance to Wiki
 

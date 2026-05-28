@@ -3,7 +3,7 @@ title: "ACG 2025: Preventive Care in Inflammatory Bowel Disease"
 category: source
 tags: [ibd, crohns-disease, ulcerative-colitis, preventive-care, vaccinations, cancer-surveillance, osteoporosis, depression, anxiety]
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-05-28
 sources: []
 ---
 
@@ -69,6 +69,32 @@ Vaccine immunogenicity is blunted by anti-TNF therapy (especially in combination
   - CD patients 20% more likely than UC to report anxiety and depression
   - Active IBD: >2× more likely to have anxiety, 3× more likely to have depression vs. IBD in remission
   - CBT and acceptance/commitment therapy: variable but generally positive effects; pharmacologic antidepressants (SNRIs) effective for depressive and somatic symptoms
+
+## Recommendations
+
+| Recommendation | Strength | Evidence Quality |
+|---|---|---|
+| **Pneumococcal Vaccination** | | |
+| IBD patients ≥50 with no prior pneumococcal vaccination: administer PCV20 or PCV21 | Strong | Low |
+| IBD patients aged 19–49 on immune-modifying therapy with no prior vaccination: administer PCV20 or PCV21 | Conditional | Very Low |
+| Previously vaccinated IBD patients aged 19–64 on immune-modifying therapy, or ≥65: follow CDC guidance for additional PCV20/PCV21 | Strong | Low |
+| **Herpes Zoster Vaccination** | | |
+| All adults ≥50 with IBD: administer 2-dose recombinant herpes zoster vaccine (RZV; Shingrix) | Conditional | Low |
+| Adults ≥19 with IBD on or planning immune-modifying therapy: administer 2-dose RZV | Conditional | Very Low |
+| **COVID-19 Vaccination** | | |
+| Vaccinate IBD patients against COVID-19 per national guidelines | Conditional | Very Low |
+| **Rotavirus Vaccination** | | |
+| Live rotavirus vaccine may be offered to children with in-utero biologic exposure | Conditional | Very Low |
+| **Cancer Screening — Cervical Cancer** | | |
+| Women with IBD on immune-modifying therapy: annual Pap within 1 year of sexual activity onset; if <30, continue annually for 3 consecutive years before transitioning to q3y | Conditional | Very Low |
+| **Cancer Screening — Melanoma** | | |
+| Annual melanoma screening for all IBD patients independent of biologic therapy | Conditional | Very Low |
+| **Cancer Screening — Non-Melanoma Skin Cancer** | | |
+| Annual NMSC screening for IBD patients on 6-MP, AZA, MTX, JAK inhibitors, or S1P receptor modulators (especially >50) | Conditional | Very Low |
+| **Osteoporosis** | | |
+| Adults with IBD and conventional BMD risk factors: perform DEXA at time of diagnosis and periodically | Conditional | Very Low |
+| **Mental Health** | | |
+| Counsel all IBD patients who smoke to quit | Strong | Low |
 
 ## Relevance to Wiki
 - Creates: [[ibd-preventive-care]] concept page covering the full health maintenance framework

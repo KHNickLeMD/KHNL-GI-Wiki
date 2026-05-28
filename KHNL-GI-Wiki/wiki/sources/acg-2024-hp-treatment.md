@@ -3,7 +3,7 @@ title: "ACG Clinical Guideline: Treatment of Helicobacter pylori Infection (2024
 category: source
 tags: [h-pylori, eradication, bqt, vonoprazan, pcab, clarithromycin-resistance, antibiotics, gastric, foregut]
 created: 2026-05-07
-updated: 2026-05-07
+updated: 2026-05-28
 sources: []
 ---
 
@@ -69,6 +69,28 @@ Susceptibility-guided therapy is strongly advocated before using clarithromycin-
 **Test-and-treat:**
 - Maintained as strategy for uninvestigated dyspepsia (<55 years, no alarm features): non-invasive testing then treat if positive
 - All patients with PUD, gastric MALT lymphoma, after endoscopic resection of early gastric cancer: test and treat
+
+## Recommendations
+
+| Recommendation | Strength | Evidence Quality |
+|---|---|---|
+| **First-Line Therapy** | | |
+| Bismuth quadruple therapy (BQT): PPI bid + bismuth subsalicylate 525 mg qid + metronidazole 500 mg qid + tetracycline 500 mg qid × 14 days | Strong | Moderate |
+| Vonoprazan dual therapy: vonoprazan 20 mg bid + amoxicillin 1 g bid × 14 days | Strong | Moderate |
+| Vonoprazan triple therapy: vonoprazan 20 mg bid + amoxicillin 1 g bid + clarithromycin 500 mg bid × 14 days | Strong | Moderate |
+| Concomitant quadruple therapy: PPI bid + amoxicillin 1 g bid + clarithromycin 500 mg bid + metronidazole 500 mg bid × 14 days | Conditional | Moderate |
+| Rifabutin triple therapy: PPI bid + rifabutin 150 mg bid + amoxicillin 1 g bid × 14 days (when other regimens contraindicated) | Conditional | Low |
+| Against clarithromycin triple therapy as empiric first-line therapy (CLR resistance >15% nationally) | Strong | Moderate |
+| Against levofloxacin-based regimens without confirmed levofloxacin susceptibility | Strong | Moderate |
+| **Susceptibility Testing** | | |
+| Susceptibility testing strongly recommended before using clarithromycin- or levofloxacin-based regimens | Strong | Moderate |
+| **Post-Treatment Confirmation** | | |
+| Confirm eradication in all patients using UBT or stool antigen test | Strong | Moderate |
+| Test ≥4 weeks after completing antibiotics and ≥2 weeks after stopping PPI/PCAB | Strong | Moderate |
+| Serology NOT appropriate for eradication confirmation | Strong | Moderate |
+| **Test-and-Treat Strategy** | | |
+| Test-and-treat strategy maintained for uninvestigated dyspepsia (<55 years, no alarm features) | Strong | Moderate |
+| All patients with PUD, gastric MALT lymphoma, or after endoscopic resection of early gastric cancer: test and treat | Strong | High |
 
 ## Relevance to Wiki
 

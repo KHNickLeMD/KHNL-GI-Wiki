@@ -3,7 +3,7 @@ title: "ACG 2016: Diagnosis, Treatment, and Prevention of Acute Diarrheal Infect
 category: source
 tags: [diarrhea, infectious-diarrhea, travelers-diarrhea, gastroenteritis, antibiotic, loperamide, bismuth, prevention, public-health]
 created: 2026-05-19
-updated: 2026-05-19
+updated: 2026-05-28
 sources: []
 ---
 
@@ -181,6 +181,27 @@ The prevention section addresses traveler-focused strategies: bismuth subsalicyl
 - **Probiotics/prebiotics for prevention:** Not recommended (inconsistent efficacy data); evidence base limited to prospective studies in travelers, not community-acquired setting.
 
 ---
+
+## Recommendations
+
+| Recommendation | Strength | Evidence Quality |
+|---|---|---|
+| **Diagnosis** | | |
+| Stool diagnostic studies in dysentery, moderate-to-severe disease, and symptoms lasting >7 days; FDA-approved culture-independent methods recommended as adjunct or replacement for traditional cultures | Strong | Low–Very Low |
+| Antibiotic sensitivity testing for acute diarrheal infection is NOT recommended | Strong | Very Low |
+| **Treatment** | | |
+| Balanced electrolyte oral rehydration for elderly with severe diarrhea or cholera-like watery diarrhea | Strong | Moderate |
+| Bismuth subsalicylate (BSS) to control stool passage rate in mild to moderate illness | Strong | High |
+| In patients receiving antibiotics for traveler's diarrhea, adjunctive loperamide decreases duration and increases cure rate | Strong | Moderate |
+| Empiric antimicrobials NOT recommended for routine community-acquired diarrhea (predominantly viral); reserve for traveler's diarrhea where bacterial pathogen likelihood is high | Strong | High–Very Low |
+| Probiotics/prebiotics are NOT recommended for treatment of acute diarrhea in adults (except post-antibiotic illness) | Strong | Moderate |
+| **Traveler's Diarrhea (TD) — Preferred Regimens** | | |
+| Levofloxacin 500 mg or ciprofloxacin 750 mg single dose, or azithromycin 1,000 mg single dose (preferred for Southeast Asia/India due to FQ-resistant Campylobacter) | Strong | High |
+| Rifaximin 200 mg TID ×3 days for non-invasive TD (do NOT use if Campylobacter/Salmonella/Shigella suspected) | Strong | High |
+| Do NOT treat STEC with antibiotics (risk of HUS) | Summary Statement | — |
+| **Prevention** | | |
+| Bismuth subsalicylate chemoprophylaxis for travelers without contraindications (moderate efficacy, ≥60% protection); antibiotic chemoprophylaxis for high-risk short-term travelers (moderate-to-good efficacy, ~67–88% protective) | Strong | High |
+| Probiotics, prebiotics, and synbiotics for TD prevention are NOT recommended | Conditional | Low |
 
 ## Relevance to Wiki
 - Creates new diagnostic schema: [[acute-diarrhea]] — primary entity page for this syndrome

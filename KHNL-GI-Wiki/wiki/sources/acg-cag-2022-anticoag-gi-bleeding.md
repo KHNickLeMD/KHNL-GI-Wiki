@@ -3,7 +3,7 @@ title: "ACG/CAG 2022: Management of Anticoagulants and Antiplatelets During Acut
 category: source
 tags: [anticoagulation, antiplatelets, gi-bleeding, periendoscopic, doac, warfarin, bridging]
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-05-28
 sources: []
 ---
 
@@ -97,6 +97,36 @@ This joint ACG/CAG guideline addresses two clinical contexts: (1) management of 
 - Continue for elective procedures (secondary prevention)
 - Consider interruption only for highest-risk procedures (ESD, biliary/pancreatic sphincterotomy, ampullectomy, POEM, RFA) where bleeding risk is particularly high
 - Primary prevention ASA: stop before higher-risk procedures
+
+## Recommendations
+
+| Recommendation | Strength | Evidence Quality |
+|---|---|---|
+| **Acute GI Bleeding — VKA (Warfarin) Reversal** | | |
+| Do not use FFP for warfarin reversal in acute GI bleeding | Conditional | Very Low |
+| No recommendation for or against PCC vs. placebo in warfarin-related GI bleeding | No recommendation | Insufficient evidence |
+| Prefer PCC over FFP if reversal agent is used | Conditional | Very Low |
+| Do not use vitamin K in the acute GI bleeding setting | Conditional | Very Low |
+| **Acute GI Bleeding — DOAC Reversal** | | |
+| Do not use idarucizumab for dabigatran-related GI bleeding (routine use) | Conditional | Very Low |
+| Do not use andexanet alfa for rivaroxaban/apixaban-related GI bleeding (routine use) | Conditional | Very Low |
+| Do not use 4-factor PCC for DOAC-related GI bleeding (routine use) | Conditional | Very Low |
+| **Acute GI Bleeding — Antiplatelet Management** | | |
+| Do not transfuse platelets for antiplatelet-related GI bleeding | Conditional | Very Low |
+| Do not hold cardiac ASA (secondary prevention) during GI bleeding | Conditional | Low |
+| If ASA is held, resume on the day hemostasis is endoscopically confirmed | Conditional | Low |
+| **Periendoscopic — Warfarin** | | |
+| Continue warfarin rather than temporarily interrupt for most elective endoscopic procedures | Conditional | Low |
+| If warfarin interrupted: no bridging except in mechanical heart valve patients | Conditional | Low |
+| **Periendoscopic — DOAC** | | |
+| Temporarily interrupt DOACs rather than continue for elective endoscopic procedures | Conditional | Low |
+| **Periendoscopic — Antiplatelet** | | |
+| Interrupt P2Y12 inhibitor while continuing ASA in dual antiplatelet therapy (DAPT) patients | Conditional | Very Low |
+| No recommendation for or against interruption of single-agent P2Y12 inhibitor monotherapy | No recommendation | Insufficient evidence |
+| Continue ASA monotherapy (secondary prevention) for elective endoscopic procedures | Conditional | Low |
+| No recommendation on timing of resumption for warfarin after elective endoscopy | No recommendation | Insufficient evidence |
+| No recommendation on timing of resumption for DOAC after elective endoscopy | No recommendation | Insufficient evidence |
+| No recommendation on timing of resumption for P2Y12 inhibitor after elective endoscopy | No recommendation | Insufficient evidence |
 
 ## Relevance to Wiki
 

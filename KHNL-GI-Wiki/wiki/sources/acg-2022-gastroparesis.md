@@ -3,7 +3,7 @@ title: "ACG 2022: Gastroparesis"
 category: source
 tags: [gastroparesis, gastric-motility, prokinetics, g-poem, gastric-emptying]
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-05-28
 sources: []
 ---
 
@@ -146,6 +146,36 @@ For management, the guideline underscores the limited FDA-approved pharmacothera
 - Stepwise escalation: oral nutrition → jejunostomy → parenteral nutrition
 - PEG-J (percutaneous endoscopic gastrostomy with jejunal extension) associated with fewer symptoms than other enteral routes in advanced cases
 - Long-term parenteral nutrition: 68% survival at 15 years; oral intake + PN associated with higher survival
+
+## Recommendations
+
+| Recommendation | Strength | Evidence Quality |
+|---|---|---|
+| **Diagnosis** | | |
+| Scintigraphic gastric emptying (SGE) with solid meal ≥3 hours (ideally 4 hours) as standard diagnostic test | Strong | Moderate |
+| Radiopaque markers (ROM) NOT suggested for GP diagnosis | Conditional | Very Low |
+| Wireless motility capsule (WMC) may be used as alternative to SGE | Conditional | Low |
+| ¹³C-spirulina breath test is a reliable alternative test for GP | Conditional | Low |
+| **Management — Dietary and General** | | |
+| Optimal glucose control in diabetic GP to reduce future GP aggravation | Conditional | Low |
+| Small particle, low-fat diet for symptom relief and enhanced gastric emptying | Conditional | Low |
+| **Pharmacotherapy** | | |
+| Pharmacologic treatment for idiopathic and diabetic GP | Conditional | Low |
+| Metoclopramide over no treatment for refractory symptoms (duration <12 weeks; avoid age ≥65) | Conditional | Low |
+| Domperidone (where approved) for symptom management | Conditional | Low |
+| 5-HT4 agonists over no treatment to improve gastric emptying | Conditional | Low |
+| Antiemetic agents for symptom control (do NOT improve GE) | Conditional | Low |
+| Central neuromodulators NOT recommended | Strong | Moderate |
+| Ghrelin agonists NOT supported | Strong | Moderate |
+| Haloperidol NOT supported for GP treatment | Conditional | Low |
+| **Interventional Therapy** | | |
+| Gastric electrical stimulation (GES) may be considered (humanitarian use device) | Conditional | Low |
+| Intrapyloric botulinum toxin NOT recommended (negative RCTs) | Strong | Moderate |
+| G-POEM (pyloromyotomy) over no treatment for medically refractory GP | Conditional | Low |
+| EndoFLIP may characterize pyloric function and predict G-POEM outcomes | Conditional | Very Low |
+| **Other** | | |
+| Acupuncture may benefit diabetic GP specifically; not other etiologies | Conditional | Very Low |
+| Herbal therapies (Rikkunshito, STW5/Iberogast) NOT recommended | Conditional | Low |
 
 ## Relevance to Wiki
 
