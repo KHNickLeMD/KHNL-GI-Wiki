@@ -1,7 +1,15 @@
 ---
-title: "Atrophic Gastritis"
+title: Atrophic Gastritis
 category: disease-script
-tags: [atrophic-gastritis, gastric-premalignant-conditions, h-pylori, autoimmune-gastritis, pernicious-anemia, correa-cascade, gastric-cancer, neuroendocrine-tumor]
+tags:
+  - atrophic-gastritis
+  - gastric-premalignant-conditions
+  - h-pylori
+  - autoimmune-gastritis
+  - pernicious-anemia
+  - correa-cascade
+  - gastric-cancer
+  - neuroendocrine-tumor
 created: 2026-05-15
 updated: 2026-05-15
 sources:
