@@ -138,6 +138,39 @@ sources: []
 
 ---
 
+## Website Rendering Conventions
+
+The wiki is published through `#KHNL GI Wiki/index.html`, which renders pages with a built-in Markdown engine (not Obsidian). Author every page so it renders correctly **both** in Obsidian and on the website. Follow these rules on all new and edited pages:
+
+### Page Contents / table of contents
+- Build it as a nested bullet list of heading-anchor links: `[[#Section Heading]]`.
+- Indent subsections by **exactly 2 spaces** per level — the website nests them automatically and strips the leading `#` from the displayed label.
+- The anchor must match the heading text verbatim (including punctuation); the renderer slugifies it the same way the right-rail outline does.
+
+```markdown
+## Contents
+- [[#Assessment]]
+  - [[#Establishing the Diagnosis]]
+- [[#Diagnostics]]
+  - [[#HRM (High-Resolution Manometry)]]
+```
+
+Do **not** write the table of contents as flat top-level bullets, and never hand-type the `#` into the visible label.
+
+### Mermaid diagrams
+- Inside node labels, use `<br/>` for line breaks. **Never use `\n`** — the website and GitHub render `\n` as the literal characters, not a line break.
+- Keep labels in double quotes when they contain spaces, `<`, `>`, `±`, `/`, or parentheses.
+
+```mermaid
+flowchart TD
+    A["Symptoms of dysphagia<br/>± chest pain"] --> B["Upper endoscopy"]
+```
+
+### Images
+- Embed figures with `![[filename.png]]`. The image file must live in `raw/assets/` — the website resolves embeds from that folder. Standard `![alt](url)` Markdown images also render.
+
+---
+
 ## Operations
 
 ### 1. INGEST

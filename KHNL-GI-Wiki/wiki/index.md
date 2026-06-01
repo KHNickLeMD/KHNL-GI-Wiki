@@ -1,7 +1,7 @@
 ---
 title: "Wiki Index"
 category: index
-updated: 2026-05-28
+updated: 2026-05-31
 ---
 
 # KHNL GI Encyclopedia — Master Index
@@ -100,7 +100,7 @@ updated: 2026-05-28
 - [[hereditary-hemochromatosis]] — HH: ADDT — HFE C282Y homozygote most common (Types 1–4), TS+SF algorithm, HFE genotyping, liver biopsy if SF >1000 or LFT↑, phlebotomy to SF <50, HCC surveillance post-cirrhosis (1 source)
 - [[wilson-disease]] — Wilson disease: ADDT — ATP7B, Leipzig score (≥4 = WD highly likely), NWI prognosis, KF rings, ceruloplasmin/24h urine copper/liver biopsy, chelation (D-penicillamine/trientine-THA), zinc, monitoring targets, decompensated cirrhosis combination therapy, ALF→immediate LT, HCC surveillance, pregnancy (reduce chelator dose; zinc safe) (3 sources)
 - [[primary-biliary-cholangitis]] — PBC: ADDT — AMA 95% sensitivity; 2-of-3 diagnostic criteria; AMA-negative PBC (sp100/gp210); UDCA 13–15 mg/kg/day; biochemical response criteria (Paris I/II, Rotterdam, Toronto, Barcelona) at 12 months; OCA 5→10 mg/day second-line (contraindicated in advanced cirrhosis per 2021 FDA warning); fibrates off-label second-line (bezafibrate/fenofibrate); pruritus ladder (resins→rifampicin→naltrexone→sertraline); Paris criteria for PBC-AIH overlap; GLOBE/UK-PBC prognostic scores; HCC surveillance; LT at MELD >14; recurrent PBC post-LT (20–50% at 10–20 years) (2 sources)
-- [[nafld-masld]] — NAFLD/MASLD: nomenclature (NAFLD→MASLD/NASH→MASH), NIT staging (FIB-4 → VCTE/MRE/ELF), resmetirom FDA 2024, semaglutide FDA Aug 2025 (ESSENCE trial, GLP-1RA), post-LT recurrence management (2 sources)
+- [[nafld-masld]] — NAFLD/MASLD: SLD nomenclature + 5-item CMRF criteria + MetALD ranges (Delphi 2023); 29 AASLD guidance statements; two-tier NIT pathway (FIB-4 rule-out <1.3 / rule-in >2.67, age caveats → VCTE/MRE/ELF) with diagnostic vs F2–F3 candidacy thresholds; blood-NIT confounders + "rule-out not rule-in"; statins safe (GS 1); weight-loss dose-response; bariatric; resmetirom FDA 2024 (THR-β, dosing/DDI/futility); semaglutide FDA Aug 2025 (ESSENCE); pioglitazone/vitamin E; post-LT recurrence (7 sources)
 - [[liver-transplantation]] — Liver transplantation: candidate evaluation (MELD ≥12 referral, contraindications, cardiac/pulmonary/psychosocial workup, HCC/CCA criteria, ALD no fixed abstinence exclusion); graft complications (machine perfusion, vascular/biliary complications, TCMR/PCR/AMR, IS trough targets 2025, no protocol biopsy Rec 34, mTOR for HCC/CKD); non-graft complications (CMV pre-emptive PCR, hydrophilic statins, GLP-1RA post-LT, cancer surveillance, bone/reproductive health); IS minimization (4 sources)
 - [[hepatitis-c]] — Hepatitis C: ADDT — universal screening (adults ≥18/all pregnancies), simplified algorithm (G/P 8wk or SOF/VEL 12wk pangenotypic), decompensated cirrhosis regimens (SOF/VEL ± RBV; NS3/4A contraindicated), retreatment (SOF/VEL/VOX), incomplete adherence algorithm, post-transplant DAA, HIV/HCV coinfection, post-SVR HCC surveillance (1 source)
 - [[hepatitis-c-in-pregnancy]] — HCV in pregnancy: vertical transmission, universal screening, case-by-case DAA consideration, breastfeeding (stub — see [[hepatitis-c]] for full treatment context)
@@ -162,6 +162,7 @@ updated: 2026-05-28
 - [[prucalopride]] — Selective 5-HT4 agonist; CIC 2 mg daily; no CV signal (stub)
 - [[rifaximin]] — Rifaximin: non-absorbable antibiotic; SIBO 550 mg TID × 14d; IMO + neomycin combination; IBS-D 550 mg TID × 14d; HE secondary prophylaxis add-on to lactulose after ≥2 episodes (Rec 26, Grade I, A, 1; NEJM 2010 RCT); NOT monotherapy; NOT for post-TIPS HE (2 sources)
 - [[semaglutide]] — GLP-1 RA (Wegovy/Ozempic/Rybelsus); FDA-approved Aug 2025 for MASH; ESSENCE trial efficacy; NIT-based candidacy (VCTE/MRE/ELF cutoffs); full safety table (10 domains); cardiometabolic benefit (SELECT/FLOW/STEP trials); concomitant resmetirom use (1 source)
+- [[resmetirom]] — THR-β agonist (Rezdiffra); first FDA-approved MASH F2–F3 drug (Mar 2024); MAESTRO-NASH; dosing 100/80 mg + CYP2C8/statin DDI; thyroid/gallstone pretreatment; 12-mo futility (VCTE ≥25%/MRE ≥20%/MRI-PDFF <30%) (2 sources)
 - [[tacrolimus]] — Tacrolimus (FK506): CNI backbone post-LT; 2025 trough targets (mo1: 7–10, mo2–12: 4–8, mo12+: 4 ng/mL); XR equivalence (Rec 31); mTOR for HCC/CKD; Paxlovid DDI; nephrotoxicity/PTDM/neurotoxicity; special populations (1 source)
 - [[calcineurin-inhibitors]] — CNI drug class: TAC vs. CSA comparison; basiliximab induction (Rec 25, Strong); ATG contraindicated (Rec 26, Strong); steroid minimization; IS minimization ladder (dose↓→MMF→mTOR→ACEi→kidney Tx); CSA DDIs (sofosbuvir/glecaprevir/voxilaprevir) (1 source)
 
@@ -198,11 +199,16 @@ updated: 2026-05-28
 - [[direct-acting-antivirals]] — DAA drug classes (NS3/4A + NS5A + NS5B); pangenotypic regimens (G/P, SOF/VEL); DDI table (cyclosporine); decompensated cirrhosis contraindications; see [[hepatitis-c]] for treatment tables (1 source)
 - [[nutrition-in-hospitalized-patients]] — Nutrition in hospitalized patients: EN preferred over PN when gut functional, NRS-2002/NUTRIC risk scoring, avoid albumin/prealbumin as nutrition markers, EN within 24–48h for high-risk, permissive underfeeding in early ARDS/obesity, no GRV monitoring, PN deferred 7–10d in low-risk if EN not feasible, EOL autonomy governs nutrition (1 source)
 - [[cirrhosis-hemostasis]] — Hemostasis in cirrhosis: rebalanced hemostasis concept, INR/platelet count poor predictors of bleeding, no prophylactic FFP/platelets before routine procedures, TEG/ROTEM preferred for transfusion guidance, PVT paradox in cirrhosis (1 source)
+- [[noninvasive-liver-disease-assessment]] — NILDA: blood (FIB-4/NFS/ELF) + imaging (VCTE/MRE/MRI-PDFF) tools for fibrosis/steatosis; two-tier FIB-4→VCTE/MRE/ELF pathway; rule-out > rule-in; ELF ≥11.3 prognostic; against blood steatosis indices & serial monitoring; hub for MASLD/portal-HTN/cholestatic staging (3 sources)
 - [[hepatic-encephalopathy]] — HE: 4-axis classification (type A/B/C, WHC severity, time course, precipitants); OHE = diagnosis of exclusion; ammonia alone has NO diagnostic/staging/prognostic value (Rec 9); lactulose first-line (Rec 19); rifaximin add-on after 2nd episode (Rec 26); protein restriction never indicated (1.2–1.5 g/kg/day); late-night snack (Rec 32); 33 recommendations (AASLD/EASL 2014) (1 source)
 
 ---
 
 ## Sources
+- [[aasld-2023-nafld]] — AASLD 2023 Practice Guidance: Clinical Assessment and Management of NAFLD — Rinella, Neuschwander-Tetri, Siddiqui et al. Hepatology 2023;77:1797–1835 — 29 guidance statements; at-risk NASH = ≥F2; FIB-4 two-tier pathway (Table 5 cut-points); statins safe (GS 1–2); alcohol ≥F2 abstinence (GS 7); weight-loss dose-response (3–5/7–10/>10%); Mediterranean diet, coffee ≥3 cups; bariatric (GS 22); pioglitazone/vitamin E/semaglutide positioning (GS 23–28, no antifibrotic benefit); ALT/MRI-PDFF surrogates (GS 29)
+- [[aasld-2023-masld-nomenclature]] — MASLD: Update and Impact of New Nomenclature on AASLD NAFLD Guidance — Kanwal, Neuschwander-Tetri, Loomba, Rinella. Hepatology 2024;79:1212–1219 — SLD/MASLD/MASL/MASH/MetALD schema; 5-item CMRF criteria with thresholds; MetALD alcohol ranges (20–50♀/30–60♂ g/d); >99% NAFLD↔MASLD overlap → all NAFLD guidance applies; dual pathology; cryptogenic SLD
+- [[aasld-2024-resmetirom]] — Resmetirom Therapy for MASLD: Oct 2024 AASLD Guidance Update — Chen, Morgan, Rotman et al. Hepatology 2025;81:312–320 — THR-β agonist; first FDA-approved MASH F2–F3 drug (Mar 2024); MAESTRO-NASH 26–30% MASH resolution; candidacy VCTE 8–15/MRE 3.1–4.4 kPa; dosing 100/80 mg + CYP2C8/statin DDI; thyroid/gallstone pretreatment; 12-mo efficacy/futility (VCTE ≥25%/MRE ≥20%; MRI-PDFF <30% = futility)
+- [[aasld-2024-nilda-blood]] — AASLD 2024 Practice Guideline: Blood-Based NILDA of Hepatic Fibrosis and Steatosis — Sterling, Patel, Duarte-Rojo et al. Hepatology 2024 — 6 PICOs / 10 statements (GRADE); FIB-4 rule-out <1.3 (alt ≥1.45) / rule-in >2.67 (alt ≥3.25); NFS −1.455/0.676; ELF highest DOR (~21.5), ≥11.3 prognostic; FIB-4→ELF cuts referrals 80%; against blood steatosis indices; against blood NILDA for serial monitoring; confounders (splenectomy/inflammation/CKD)
 - [[chicago-v4-2021-esophageal-dysmotility]] — Chicago Classification v4.0 (2021): Diagnosis of Esophageal Motility Disorders — Yadlapati et al. Neurogastroenterol Motil 2021
 - [[aga-acg-2023-constipation]] — AGA-ACG 2023: Pharmacologic Management of Chronic Idiopathic Constipation — Chang, Chey, Imdad et al. Am J Gastroenterol 2023
 - [[acg-2021-gerd]] — ACG 2021: Diagnosis and Management of GERD — Katz, Dunbar, Schnoll-Sussman et al. Am J Gastroenterol 2022;117:27–56
@@ -301,4 +307,4 @@ updated: 2026-05-28
 
 ---
 
-*Total: 90 sources | 76 disease scripts | 13 diagnostic schemas | 2 general procedures | 9 advanced procedures | 9 meds | 0 anatomy | 26 concepts | 1 synthesis*
+*Total: 94 sources | 76 disease scripts | 13 diagnostic schemas | 2 general procedures | 9 advanced procedures | 10 meds | 0 anatomy | 27 concepts | 1 synthesis*

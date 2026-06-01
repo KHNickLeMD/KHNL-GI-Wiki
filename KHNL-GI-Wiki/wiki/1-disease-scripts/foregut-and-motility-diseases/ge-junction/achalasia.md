@@ -127,19 +127,19 @@ Symptom score: dysphagia + regurgitation + chest pain + weight loss (each 0–3)
 
 ```mermaid
 flowchart TD
-    A["Symptoms of dysphagia\n± chest pain / regurgitation"] --> B["Upper endoscopy\nRule out pseudoachalasia\n& mechanical obstruction"]
-    B --> C["HRM + Timed Barium Esophagram\nConfirm diagnosis & subtype\n(FLIP if equivocal)"]
-    C --> D{"Fit for\ndefinitive therapy?"}
-    D -->|No| E["Botulinum toxin 100 U\n± calcium channel blockers\n± nitrates"]
-    D -->|Yes| F{"Chicago Classification\nsubtype"}
-    F -->|"Type I / II"| G{"Age <45\nand male?"}
-    G -->|Yes| H["Start PD 3.5 cm\nor LHM + fundoplication\nor POEM"]
-    G -->|No| I["Graded PD 3.0→3.5→4.0 cm\nor LHM + Dor/Toupet\nor POEM"]
-    F -->|"Type III"| J["POEM preferred\n93% vs 71% LHM\n(tailored long myotomy)"]
-    H & I & J --> K["Post-therapy TBE ± endoscopy\nEckardt Score"]
-    K --> L{"Recurrent\nsymptoms?"}
-    L -->|PD/LHM failed| M["POEM → 94% success\nor PD post-POEM"]
-    L -->|All failed + megaesophagus| N["Esophagectomy\nhigh-volume center only"]
+    A["Symptoms of dysphagia<br/>± chest pain / regurgitation"] --> B["Upper endoscopy<br/>Rule out pseudoachalasia<br/>& mechanical obstruction"]
+    B --> C["HRM + Timed Barium Esophagram<br/>Confirm diagnosis & subtype<br/>(FLIP if equivocal)"]
+    C --> D{"Fit for<br/>definitive therapy?"}
+    D -->|No| E["Botulinum toxin 100 U<br/>± calcium channel blockers<br/>± nitrates"]
+    D -->|Yes| F{"Chicago Classification<br/>subtype"}
+    F -->|"Type I / II"| G{"Age <45<br/>and male?"}
+    G -->|Yes| H["Start PD 3.5 cm<br/>or LHM + fundoplication<br/>or POEM"]
+    G -->|No| I["Graded PD 3.0→3.5→4.0 cm<br/>or LHM + Dor/Toupet<br/>or POEM"]
+    F -->|"Type III"| J["POEM preferred<br/>93% vs 71% LHM<br/>(tailored long myotomy)"]
+    H & I & J --> K["Post-therapy TBE ± endoscopy<br/>Eckardt Score"]
+    K --> L{"Recurrent<br/>symptoms?"}
+    L -->|PD/LHM failed| M["POEM → 94% success<br/>or PD post-POEM"]
+    L -->|All failed + megaesophagus| N["Esophagectomy<br/>high-volume center only"]
     style J fill:#2d5a8a,color:#fff
     style E fill:#6b4a2a,color:#fff
     style N fill:#4a4a4a,color:#fff

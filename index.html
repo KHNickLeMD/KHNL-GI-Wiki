@@ -7,6 +7,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Source+Serif+4:opsz,wght@8..60,400;8..60,500;8..60,600;8..60,700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
 <style>
   *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
@@ -92,28 +93,30 @@
   /* ── Sidebar collapse (desktop) ── */
   body.sidebar-collapsed #sidebar { width: 0; min-width: 0; overflow: hidden; }
   body.sidebar-collapsed #sidebar-collapse-btn { left: 8px; }
+  /* Obsidian-style panel toggle, always visible at the top-right of the sidebar */
   #sidebar-collapse-btn {
-    position: fixed; top: 12px; left: 268px; z-index: 120;
-    background: var(--surface); border: 1px solid var(--border);
-    border-radius: 6px; width: 26px; height: 26px;
+    position: fixed; top: 10px; left: 222px; z-index: 120;
+    background: transparent; border: 1px solid transparent;
+    border-radius: 7px; width: 30px; height: 30px;
     display: flex; align-items: center; justify-content: center;
-    cursor: pointer; color: var(--text-muted); font-size: 13px;
+    cursor: pointer; color: var(--text-muted);
     transition: left 0.25s, color 0.15s, background 0.15s;
-    box-shadow: var(--shadow);
   }
   #sidebar-collapse-btn:hover { color: var(--accent); background: var(--accent-light); }
 
-  /* ── TOC (right rail) collapse ── */
+  /* ── TOC (right rail) collapse — Obsidian-style, fixed (JS aligns it to the rail) ── */
   #toc-collapse-btn {
     display: none;
-    background: var(--surface); border: 1px solid var(--border);
-    border-radius: 6px; width: 26px; height: 26px;
+    position: fixed; top: 10px; right: 14px; z-index: 120;
+    background: transparent; border: 1px solid transparent;
+    border-radius: 7px; width: 30px; height: 30px;
     align-items: center; justify-content: center;
-    cursor: pointer; color: var(--text-muted); font-size: 13px;
+    cursor: pointer; color: var(--text-muted);
     transition: color 0.15s, background 0.15s;
-    box-shadow: var(--shadow); flex-shrink: 0;
+    flex-shrink: 0;
   }
   #toc-collapse-btn:hover { color: var(--accent); background: var(--accent-light); }
+  #sidebar-collapse-btn.is-collapsed, #toc-collapse-btn.is-collapsed { color: var(--text-faint); }
   body.with-rail #toc-collapse-btn { display: flex; }
   body.toc-collapsed #page-toc { display: none !important; }
   body.toc-collapsed #page-view.with-rail { grid-template-columns: 1fr; }
@@ -1143,7 +1146,13 @@
 
 <div id="sidebar-overlay" onclick="closeSidebar()"></div>
 <button id="sidebar-toggle" onclick="toggleSidebar()" aria-label="Toggle navigation">☰</button>
-<button id="sidebar-collapse-btn" onclick="toggleSidebarCollapse()" title="Toggle sidebar">‹</button>
+<button id="sidebar-collapse-btn" onclick="toggleSidebarCollapse()" title="Collapse sidebar" aria-label="Toggle sidebar">
+  <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round" aria-hidden="true">
+    <rect x="3" y="4" width="18" height="16" rx="2.5"></rect>
+    <line x1="9.5" y1="4" x2="9.5" y2="20"></line>
+    <rect x="4" y="5" width="4.5" height="14" rx="1.3" fill="currentColor" opacity="0.3" stroke="none"></rect>
+  </svg>
+</button>
 
 <!-- ══════════════ SIDEBAR ══════════════ -->
 <nav id="sidebar">
@@ -1193,7 +1202,13 @@
     </div>
     <div id="breadcrumb"><span class="bc-item current">Home</span></div>
     <div id="page-meta-top"></div>
-    <button id="toc-collapse-btn" onclick="toggleTocCollapse()" title="Toggle outline">›</button>
+    <button id="toc-collapse-btn" onclick="toggleTocCollapse()" title="Hide outline" aria-label="Toggle outline">
+      <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round" aria-hidden="true">
+        <rect x="3" y="4" width="18" height="16" rx="2.5"></rect>
+        <line x1="14.5" y1="4" x2="14.5" y2="20"></line>
+        <rect x="15.5" y="5" width="4.5" height="14" rx="1.3" fill="currentColor" opacity="0.3" stroke="none"></rect>
+      </svg>
+    </button>
   </div>
 
   <div id="content-area">
@@ -2007,14 +2022,19 @@ function showAbout() {
   const el = document.getElementById('about-view');
   el.style.display = 'block';
 
-  // Fetch README.md from GitHub and render it as the About page
+  // Fetch README.md from GitHub and render it as the About page.
+  // README sits beside the wiki content folder, so derive its dir from config.path
+  // (e.g. path "KHNL-GI-Wiki/wiki" → README at "KHNL-GI-Wiki/README.md").
   if (config) {
-    const readmeUrl = rawUrl('README.md');
+    const wikiPath = (config.path || 'wiki').replace(/\/$/, '');
+    const baseDir = wikiPath.includes('/') ? wikiPath.replace(/\/[^/]+$/, '') : '';
+    const readmeUrl = rawUrl((baseDir ? baseDir + '/' : '') + 'README.md');
     el.innerHTML = '<div class="about-wrap" style="color:var(--text-muted);padding:40px 0;text-align:center">Loading README…</div>';
     fetch(readmeUrl)
       .then(r => { if (!r.ok) throw new Error('HTTP ' + r.status); return r.text(); })
       .then(md => {
-        el.innerHTML = '<div class="about-wrap md-body">' + renderMd(md) + '</div>';
+        el.innerHTML = '<div class="about-wrap md-body">' + renderMd(stripFrontmatter(md)) + '</div>';
+        initMermaid();
         // Wire wiki-links inside the rendered README
         el.querySelectorAll('a[href]').forEach(a => {
           const href = a.getAttribute('href');
@@ -2066,8 +2086,9 @@ function showIndex() {
       .then(r => { if (!r.ok) throw new Error('HTTP ' + r.status); return r.text(); })
       .then(md => {
         // Render the markdown, wiring [[slug]] links to navigateTo
-        const rendered = renderMd(md);
+        const rendered = renderMd(stripFrontmatter(md));
         el.innerHTML = `<div class="md-body" style="max-width:860px;margin:0 auto;padding:0 0 40px;">${rendered}</div>`;
+        initMermaid();
         // Wire wiki-links: [[slug]] rendered as <a href="slug">
         el.querySelectorAll('a[href]').forEach(a => {
           const href = a.getAttribute('href');
@@ -2404,6 +2425,8 @@ function navigateTo(slug) {
 
   // Build the right-rail TOC from h2/h3 headings inside the rendered body
   buildPageTOC(bodyEl);
+  initMermaid();
+  positionTocBtn();
 
   document.getElementById('content-area').scrollTop = 0;
 }
@@ -2547,10 +2570,16 @@ function renderMd(text) {
     }
     // Code block
     if (line.startsWith('```')) {
+      const lang = line.slice(3).trim().toLowerCase();
       const cLines = []; i++;
       while (i < lines.length && !lines[i].startsWith('```')) { cLines.push(lines[i]); i++; }
       i++;
-      html += `<pre><code>${escHtml(cLines.join('\n'))}</code></pre>\n`; continue;
+      if (lang === 'mermaid') {
+        html += `<pre class="mermaid">${escHtml(cLines.join('\n'))}</pre>\n`;
+      } else {
+        html += `<pre><code>${escHtml(cLines.join('\n'))}</code></pre>\n`;
+      }
+      continue;
     }
     // Raw HTML block (pass-through) — depth-counting so nested tags work correctly
     if (line.trimStart().startsWith('<') && !line.trimStart().startsWith('</')) {
@@ -2594,10 +2623,28 @@ function renderTable(lines) {
   return `<div class="table-wrap"><table><thead><tr>${thHtml}</tr></thead><tbody>${trHtml}</tbody></table></div>\n`;
 }
 
-function renderList(lines, ordered) {
-  const tag = ordered ? 'ol' : 'ul';
-  const items = lines.map(l => `<li>${inlineRender(l.replace(/^\s*[-*+]\s+/,'').replace(/^\s*\d+\.\s+/,''))}</li>`).join('');
-  return `<${tag}>${items}</${tag}>\n`;
+function renderList(lines) {
+  // Indentation-aware: builds nested <ul>/<ol> from leading whitespace.
+  const parsed = lines.map(l => {
+    const m = l.match(/^(\s*)(?:([-*+])|(\d+)\.)\s+([\s\S]*)$/);
+    if (!m) return { indent: 0, ordered: false, content: l.trim() };
+    return { indent: m[1].replace(/\t/g, '  ').length, ordered: !!m[3], content: m[4] };
+  });
+  let idx = 0;
+  function build() {
+    const baseIndent = parsed[idx].indent;
+    const tag = parsed[idx].ordered ? 'ol' : 'ul';
+    let html = `<${tag}>`;
+    while (idx < parsed.length && parsed[idx].indent === baseIndent) {
+      const cur = parsed[idx];
+      idx++;
+      let li = `<li>${inlineRender(cur.content)}`;
+      if (idx < parsed.length && parsed[idx].indent > baseIndent) li += build();
+      html += li + '</li>';
+    }
+    return html + `</${tag}>`;
+  }
+  return (parsed.length ? build() : '') + '\n';
 }
 
 function inlineRender(text) {
@@ -2607,9 +2654,31 @@ function inlineRender(text) {
   out = out.replace(/\*\*(.*?)\*\*/g,'<strong>$1</strong>');
   out = out.replace(/\*(.*?)\*/g,'<em>$1</em>');
   out = out.replace(/`([^`]+)`/g,'<code>$1</code>');
-  out = out.replace(/\[\[([^\]|]+)(?:\|([^\]]+))?\]\]/g, (match, slug, text) => {
-    const display = text || slug;
-    const ns = slug.toLowerCase().replace(/\s+/g,'-');
+  const imgStyle = 'max-width:100%;height:auto;border-radius:8px;margin:8px 0;display:block;';
+  // Obsidian image embed: ![[file.png]] (optional |size) — resolved from raw/assets
+  out = out.replace(/!\[\[([^\]|]+?)(?:\|[^\]]*)?\]\]/g, (m, fname) => {
+    const f = fname.trim();
+    let src = f;
+    if (!/^https?:\/\//.test(f)) { try { src = rawUrl('raw/assets/' + f); } catch (e) { src = f; } }
+    return `<img src="${src}" alt="${escHtml(f)}" loading="lazy" style="${imgStyle}">`;
+  });
+  // Standard markdown image: ![alt](url)
+  out = out.replace(/!\[([^\]]*)\]\(([^)]+)\)/g, `<img src="$2" alt="$1" loading="lazy" style="${imgStyle}">`);
+  out = out.replace(/\[\[([^\]|]+)(?:\|([^\]]+))?\]\]/g, (match, target, label) => {
+    target = target.trim();
+    // Heading anchor link: [[#Heading]] (same page) or [[page#Heading]]
+    if (target.includes('#')) {
+      const hashIdx = target.indexOf('#');
+      const pagePart = target.slice(0, hashIdx).trim();
+      const heading = target.slice(hashIdx + 1).trim();
+      const anchorId = heading.toLowerCase().replace(/[^\w\s-]/g,'').trim().replace(/\s+/g,'-').slice(0,60);
+      const display = label || heading || pagePart;
+      if (!pagePart) return `<a class="wiki-link" onclick="scrollToAnchor('${anchorId}')">${escHtml(display)}</a>`;
+      const np = pagePart.toLowerCase().replace(/\s+/g,'-');
+      return `<a class="wiki-link" onclick="navigateTo('${np}')">${escHtml(display)}</a>`;
+    }
+    const display = label || target;
+    const ns = target.toLowerCase().replace(/\s+/g,'-');
     const exists = wikiData[ns] || Object.keys(wikiData).some(k=>k.toLowerCase()===ns.toLowerCase());
     return `<a class="wiki-link${exists?'':' missing'}" onclick="navigateTo('${ns}')">${escHtml(display)}</a>`;
   });
@@ -2619,6 +2688,37 @@ function inlineRender(text) {
 
 function escHtml(str) {
   return str.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+}
+
+// Strip a leading YAML frontmatter block (--- … ---) from raw markdown
+function stripFrontmatter(md) {
+  return (md || '').replace(/^﻿?\s*---\s*\n[\s\S]*?\n---[ \t]*\n?/, '');
+}
+
+// Smooth-scroll to a heading anchor within the article body (used by [[#Heading]] links)
+function scrollToAnchor(id) {
+  const ca = document.getElementById('content-area');
+  const t = document.getElementById(id);
+  if (!t || !ca) return;
+  const top = t.getBoundingClientRect().top - ca.getBoundingClientRect().top + ca.scrollTop - 12;
+  ca.scrollTo({ top, behavior: 'smooth' });
+}
+
+// Render any unprocessed ```mermaid blocks. Polls until the mermaid library loads,
+// initialises it once, then runs it on demand after each markdown injection.
+function initMermaid() {
+  if (window.mermaid) {
+    if (!window._mmInit) {
+      try {
+        const dark = document.documentElement.getAttribute('data-theme') === 'dark';
+        window.mermaid.initialize({ startOnLoad: false, theme: dark ? 'dark' : 'neutral', securityLevel: 'loose' });
+      } catch (e) {}
+      window._mmInit = true;
+    }
+    try { window.mermaid.run({ querySelector: '.mermaid:not([data-processed])' }); } catch (e) { console.warn('mermaid', e); }
+  } else {
+    setTimeout(initMermaid, 200);
+  }
 }
 
 // ══════════════════════════════════════
@@ -2676,7 +2776,7 @@ function searchTag(tag) { searchInput.value = tag; searchInput.dispatchEvent(new
 function toggleSidebarCollapse() {
   const collapsed = document.body.classList.toggle('sidebar-collapsed');
   const btn = document.getElementById('sidebar-collapse-btn');
-  btn.textContent = collapsed ? '›' : '‹';
+  btn.classList.toggle('is-collapsed', collapsed);
   btn.title = collapsed ? 'Expand sidebar' : 'Collapse sidebar';
 }
 
@@ -2684,9 +2784,28 @@ function toggleSidebarCollapse() {
 function toggleTocCollapse() {
   const collapsed = document.body.classList.toggle('toc-collapsed');
   const btn = document.getElementById('toc-collapse-btn');
-  btn.textContent = collapsed ? '‹' : '›';
+  btn.classList.toggle('is-collapsed', collapsed);
   btn.title = collapsed ? 'Show outline' : 'Hide outline';
+  positionTocBtn();
 }
+
+// Align the outline toggle to the top-left of the right rail (or park it at the
+// window's top-right when the rail is collapsed/absent so it stays reachable).
+function positionTocBtn() {
+  const btn = document.getElementById('toc-collapse-btn');
+  if (!btn) return;
+  const rail = document.getElementById('page-toc');
+  const onPage = document.body.classList.contains('with-rail');
+  if (onPage && rail && !document.body.classList.contains('toc-collapsed')) {
+    const r = rail.getBoundingClientRect();
+    btn.style.left = Math.max(8, r.left - btn.offsetWidth - 8) + 'px';
+    btn.style.right = 'auto';
+  } else {
+    btn.style.left = 'auto';
+    btn.style.right = '14px';
+  }
+}
+window.addEventListener('resize', positionTocBtn);
 
 // ── Sidebar collapse (mobile) ──
 function toggleSidebar() {

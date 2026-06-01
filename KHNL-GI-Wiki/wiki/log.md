@@ -6,6 +6,22 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-05-31] ingest | AASLD MASLD/MASH cluster (4 sources): NAFLD Guidance, Nomenclature, Resmetirom, Blood-Based NILDA
+
+**Sources created (4):**
+- `wiki/sources/aasld-2023-nafld.md` — AASLD 2023 Practice Guidance on Clinical Assessment and Management of NAFLD (Rinella et al. Hepatology 2023;77:1797–1835). All 29 guidance statements verbatim; Table 5 NIT cut-points (steatosis/at-risk NASH/advanced fibrosis/cirrhosis); Table 6 medications; treatment detail (weight-loss dose-response, Mediterranean diet, coffee, bariatric, pioglitazone/vitamin E/semaglutide).
+- `wiki/sources/aasld-2023-masld-nomenclature.md` — Kanwal et al. Hepatology 2024;79:1212–1219. SLD/MASLD/MASL/MASH/MetALD schema; full 5-item CMRF criteria with thresholds; MetALD alcohol ranges; >99% NAFLD↔MASLD overlap; Table 1 key points verbatim.
+- `wiki/sources/aasld-2024-resmetirom.md` — Chen et al. Hepatology 2025;81:312–320. All practice recommendations verbatim (patient selection, pretreatment, monitoring, efficacy/futility); MAESTRO-NASH efficacy; dosing + CYP2C8/statin DDIs; thyroid/SHBG/gallstone considerations; response thresholds (VCTE ≥25%, MRE ≥20%, MRI-PDFF <30% futility).
+- `wiki/sources/aasld-2024-nilda-blood.md` — Sterling et al. Hepatology 2024 (blood-based NILDA; created via parallel subagent). 6 PICOs / 10 GRADE statements verbatim; FIB-4 / NFS / ELF diagnostic cut-points; confounders; against blood steatosis indices and serial monitoring.
+
+**Pages updated:**
+- `wiki/1-disease-scripts/hepatopancreaticobiliary-diseases/nafld-masld.md` — major sourcing overhaul: nomenclature section now cites primary Delphi/Guidance sources with full SLD schema + 5 CMRF criteria + MetALD gram ranges; rebuilt NIT section with the two-tier FIB-4→VCTE/MRE/ELF diagnostic pathway (rule-in/rule-out + cirrhosis cut-points + age caveats), blood-NIT confounders, and a separate F2–F3 pharmacotherapy-candidacy table; resmetirom section fully fleshed out (dosing/DDI/pretreatment/monitoring/futility); added AASLD guidance-statement attributions (GS 1–29) across lifestyle/pharmacotherapy/bariatric/statin sections. Sources frontmatter expanded 3 → 7.
+- `wiki/index.md` — nafld-masld entry rewritten (2 → 7 sources); 4 new source entries added; total 90 → 94 sources; updated date 2026-05-31.
+
+**Note:** Applied user's standing preference to ingest in parallel — the blood-based NILDA source was read + drafted by a subagent concurrently while the other 3 source pages were written; the shared `nafld-masld.md` entity page was consolidated in a single pass to avoid write conflicts.
+
+---
+
 ## [2026-05-28] ingest | AASLD 2023 Practice Guidance: Prevention, Diagnosis, and Treatment of HCC
 
 **Source:** Singal AG, Llovet JM, Yarchoan M, Mehta N, Heimbach JK, Dawson LA, et al. AASLD Practice Guidance on Prevention, Diagnosis, and Treatment of Hepatocellular Carcinoma. Hepatology 2023;78:1922–1965. DOI: 10.1097/HEP.0000000000000466

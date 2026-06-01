@@ -66,16 +66,16 @@ Semaglutide (Wegovy, 2.4 mg/week SC) received **accelerated FDA approval in Augu
 
 ```mermaid
 flowchart TD
-    A["[[nafld-masld|MASLD/MASH]] suspected\nMetabolic risk factors + elevated ALT"] --> B{"FIB-4\n(age × AST / [plt × √ALT])"}
-    B -->|"< 1.3"| C["Advanced fibrosis excluded\n(99% NPV)\nReassess in 1–2 years"]
+    A["[[nafld-masld|MASLD/MASH]] suspected<br/>Metabolic risk factors + elevated ALT"] --> B{"FIB-4<br/>(age × AST / [plt × √ALT])"}
+    B -->|"< 1.3"| C["Advanced fibrosis excluded<br/>(99% NPV)<br/>Reassess in 1–2 years"]
     B -->|"≥ 1.3"| D["Second-line NIT"]
-    D --> E{"Imaging or\nblood-based NIT"}
-    E -->|"VCTE LSM 8–15 kPa\nMRE 3.1–4.4 kPa\nELF 9.2–10.5"| F["✓ Candidate\nF2–F3 confirmed"]
-    E -->|"VCTE 15–20 kPa\nMRE 4.4–5.0 kPa\nELF 10.5–11.3"| G{"Exclude cirrhosis:\nno nodular liver\nno portal HTN signs\nplatelets ≥150k"}
+    D --> E{"Imaging or<br/>blood-based NIT"}
+    E -->|"VCTE LSM 8–15 kPa<br/>MRE 3.1–4.4 kPa<br/>ELF 9.2–10.5"| F["✓ Candidate<br/>F2–F3 confirmed"]
+    E -->|"VCTE 15–20 kPa<br/>MRE 4.4–5.0 kPa<br/>ELF 10.5–11.3"| G{"Exclude cirrhosis:<br/>no nodular liver<br/>no portal HTN signs<br/>platelets ≥150k"}
     G -->|"Cirrhosis excluded"| F
-    G -->|"Cirrhosis likely"| H["✗ Not approved\nManage as cirrhosis\n(see [[nafld-masld]])"]
-    E -->|"VCTE >20 kPa\nMRE >5.0 kPa\nELF >11.3"| H
-    F --> I["Initiate Wegovy 2.4 mg SC weekly\nwith standard titration\nAssess response at 72 weeks"]
+    G -->|"Cirrhosis likely"| H["✗ Not approved<br/>Manage as cirrhosis<br/>(see [[nafld-masld]])"]
+    E -->|"VCTE >20 kPa<br/>MRE >5.0 kPa<br/>ELF >11.3"| H
+    F --> I["Initiate Wegovy 2.4 mg SC weekly<br/>with standard titration<br/>Assess response at 72 weeks"]
     style F fill:#2d6a2d,color:#fff
     style H fill:#8a2200,color:#fff
     style C fill:#4a4a4a,color:#fff
