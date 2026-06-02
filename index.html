@@ -2821,8 +2821,8 @@ function ensureSemantic() {
   SEM.promise = (async () => {
     // Load the prebuilt index first (cheap, ~2.5MB). If missing, bail out.
     const [metaRes, b64Res] = await Promise.all([
-      fetch('search/chunks.json'),
-      fetch('search/embeddings.b64')
+      fetch('website_files/search/chunks.json'),
+      fetch('website_files/search/embeddings.b64')
     ]);
     if (!metaRes.ok || !b64Res.ok) throw new Error('embeddings not built yet');
     const meta = await metaRes.json();

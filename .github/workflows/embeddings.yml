@@ -6,7 +6,7 @@ on:
     branches: [main]
     paths:
       - 'KHNL-GI-Wiki/wiki/**/*.md'
-      - 'scripts/build-embeddings.mjs'
+      - 'website_files/scripts/build-embeddings.mjs'
 
 jobs:
   rebuild:
@@ -23,15 +23,19 @@ jobs:
         with:
           node-version: '20'
           cache: 'npm'
+          cache-dependency-path: website_files/package-lock.json
 
+      # Runs inside website_files so node_modules is created there, not at the repo root.
       - name: Install dependencies
         run: npm install
+        working-directory: website_files
 
       - name: Build embeddings
         run: npm run build-embeddings
+        working-directory: website_files
 
       - name: Commit updated embeddings
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: 'chore: rebuild search embeddings [skip ci]'
-          file_pattern: 'search/chunks.json search/embeddings.b64'
+          file_pattern: 'website_files/search/chunks.json website_files/search/embeddings.b64'

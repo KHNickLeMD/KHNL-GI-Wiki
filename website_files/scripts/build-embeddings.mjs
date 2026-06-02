@@ -20,9 +20,12 @@ import path from 'path';
 import { fileURLToPath } from 'url';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
-const REPO_ROOT  = path.join(__dirname, '..');
-const WIKI_DIR   = path.join(REPO_ROOT, 'KHNL-GI-Wiki', 'wiki');
-const OUT_DIR    = path.join(REPO_ROOT, 'search');
+// Script lives at <repo>/website_files/scripts/ — wiki content is at the repo
+// root, generated embeddings stay beside this script under "website_files".
+const PROJECT_DIR = path.join(__dirname, '..');         // <repo>/website_files
+const REPO_ROOT   = path.join(PROJECT_DIR, '..');        // <repo> root
+const WIKI_DIR    = path.join(REPO_ROOT, 'KHNL-GI-Wiki', 'wiki');
+const OUT_DIR     = path.join(PROJECT_DIR, 'search');
 const MODEL      = 'Xenova/all-MiniLM-L6-v2';
 const CHUNK_WORDS   = 250;  // target words per chunk
 const OVERLAP_WORDS = 40;   // overlap between consecutive chunks
