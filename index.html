@@ -594,6 +594,13 @@
   .md-body h3 { font-family: var(--font-sans); font-size: 15px; font-weight: 600; margin: 22px 0 8px; color: var(--text); letter-spacing: -0.005em; }
   .md-body h4 { font-family: var(--font-sans); font-size: 11.5px; font-weight: 600; margin: 18px 0 6px; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.06em; }
   .md-body p { margin: 0 0 14px; color: var(--text); }
+  /* Mermaid diagrams: force the label text to the same sans font Mermaid uses to
+     size its boxes, overriding the wiki's serif body font so text isn't clipped. */
+  .md-body .mermaid { font-family: "Trebuchet MS","Segoe UI",Helvetica,Arial,sans-serif; line-height: normal; text-align: center; }
+  .md-body .mermaid svg { max-width: 100%; height: auto; }
+  .md-body .mermaid .nodeLabel, .md-body .mermaid .edgeLabel,
+  .md-body .mermaid foreignObject div, .md-body .mermaid span,
+  .md-body .mermaid p { font-family: "Trebuchet MS","Segoe UI",Helvetica,Arial,sans-serif !important; white-space: normal !important; margin: 0; }
   .md-body ul, .md-body ol { margin: 0 0 14px 20px; }
   .md-body li { margin-bottom: 4px; }
   .md-body li p { margin: 0; }
@@ -1478,7 +1485,6 @@ const SUBSECTION_META = {
   'foregut-and-motility-diseases':    { icon: ORGAN_ICONS.esophagus,      label: 'Foregut & Motility' },
   'hepatopancreaticobiliary-diseases':{ icon: ORGAN_ICONS.hepatopancreaticobiliary, label: 'Hepatopancreaticobiliary' },
   'esophageal':                       { icon: ORGAN_ICONS.esophagus,      label: 'Esophageal' },
-  'ge-junction':                      { icon: ORGAN_ICONS.geJunction,     label: 'GE Junction' },
   'gastric':                          { icon: ORGAN_ICONS.stomach,        label: 'Gastric' },
   'small-bowel':                      { icon: ORGAN_ICONS.smallBowel,     label: 'Small Bowel' },
   'ibd':                              { icon: ORGAN_ICONS.largeIntestine, label: 'IBD' },
@@ -1493,7 +1499,6 @@ const SUBSECTION_LABELS = {
   'foregut-and-motility-diseases': 'Foregut & Motility',
   'hepatopancreaticobiliary-diseases': 'Hepatopancreaticobiliary',
   'esophageal': 'Esophageal',
-  'ge-junction': 'GE Junction',
   'gastric': 'Gastric',
   'small-bowel': 'Small Bowel',
   'ibd': 'IBD',
@@ -2674,7 +2679,15 @@ function inlineRender(text) {
   out = out.replace(/!\[\[([^\]|]+?)(?:\|[^\]]*)?\]\]/g, (m, fname) => {
     const f = fname.trim();
     let src = f;
-    if (!/^https?:\/\//.test(f)) { try { src = rawUrl('raw/assets/' + f); } catch (e) { src = f; } }
+    if (!/^https?:\/\//.test(f)) {
+      try {
+        // Assets live beside the wiki folder (e.g. config.path "KHNL-GI-Wiki/wiki"
+        // → assets at "KHNL-GI-Wiki/raw/assets"), so resolve from the wiki's parent dir.
+        const wp = (config.path || 'wiki').replace(/\/$/, '');
+        const baseDir = wp.includes('/') ? wp.replace(/\/[^/]+$/, '') : '';
+        src = rawUrl((baseDir ? baseDir + '/' : '') + 'raw/assets/' + encodeURIComponent(f));
+      } catch (e) { src = f; }
+    }
     return `<img src="${src}" alt="${escHtml(f)}" loading="lazy" style="${imgStyle}">`;
   });
   // Standard markdown image: ![alt](url)
@@ -2726,7 +2739,15 @@ function initMermaid() {
     if (!window._mmInit) {
       try {
         const dark = document.documentElement.getAttribute('data-theme') === 'dark';
-        window.mermaid.initialize({ startOnLoad: false, theme: dark ? 'dark' : 'neutral', securityLevel: 'loose' });
+        window.mermaid.initialize({
+          startOnLoad: false,
+          theme: dark ? 'dark' : 'neutral',
+          securityLevel: 'loose',
+          // Pin a font so Mermaid measures box sizes with the SAME font it renders
+          // with — otherwise the page's serif label font overflows the boxes.
+          fontFamily: '"Trebuchet MS", "Segoe UI", Helvetica, Arial, sans-serif',
+          flowchart: { htmlLabels: true, useMaxWidth: true, padding: 10 }
+        });
       } catch (e) {}
       window._mmInit = true;
     }

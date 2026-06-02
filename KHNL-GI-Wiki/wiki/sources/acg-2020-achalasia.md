@@ -1,7 +1,7 @@
 ---
 title: "ACG 2020: Diagnosis and Management of Achalasia"
 category: source
-tags: [achalasia, esophageal-motility, hrm, poem, heller-myotomy, pneumatic-dilation, ge-junction, foregut]
+tags: [achalasia, esophageal-motility, hrm, poem, heller-myotomy, pneumatic-dilation, foregut]
 created: 2026-05-15
 updated: 2026-05-28
 sources: []

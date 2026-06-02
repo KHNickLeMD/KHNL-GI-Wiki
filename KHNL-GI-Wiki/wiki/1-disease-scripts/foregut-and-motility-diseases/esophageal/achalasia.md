@@ -1,7 +1,7 @@
 ---
 title: "Achalasia"
 category: disease-script
-tags: [achalasia, esophageal-motility, dysphagia, hrm, poem, heller-myotomy, pneumatic-dilation, foregut, ge-junction]
+tags: [achalasia, esophageal-motility, dysphagia, hrm, poem, heller-myotomy, pneumatic-dilation, foregut]
 created: 2026-05-15
 updated: 2026-05-15
 sources: ["[[acg-2020-achalasia]]"]
