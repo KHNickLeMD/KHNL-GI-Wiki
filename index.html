@@ -92,22 +92,33 @@
 
   /* ── Sidebar collapse (desktop) ── */
   body.sidebar-collapsed #sidebar { width: 0; min-width: 0; overflow: hidden; }
-  /* Obsidian-style panel toggle, always visible at the top-right of the sidebar */
+  /* Obsidian-style panel toggle, always visible at the top-right of the sidebar.
+     Fixed positioning keeps it out of the sidebar's overflow:hidden clip, so it
+     stays visible after the sidebar collapses (where it parks at the far left). */
   #sidebar-collapse-btn {
-    position: absolute; top: 8px; right: 8px; z-index: 120;
+    position: fixed; top: 10px; left: 222px; z-index: 200;
+    /* Expanded: sits over the dark-green sidebar — stay transparent so it blends in */
     background: transparent; border: 1px solid transparent;
     border-radius: 7px; width: 30px; height: 30px;
     display: flex; align-items: center; justify-content: center;
-    cursor: pointer; color: var(--text-muted);
-    transition: color 0.15s, background 0.15s;
+    cursor: pointer; color: var(--sidebar-text);
+    transition: left 0.25s, color 0.15s, background 0.15s;
   }
-  #sidebar-collapse-btn:hover { color: var(--accent); background: var(--accent-light); }
+  #sidebar-collapse-btn:hover { color: #fff; background: rgba(255,255,255,0.08); }
+  /* Collapsed: parks over the light topbar — switch to the light chip style */
+  body.sidebar-collapsed #sidebar-collapse-btn {
+    left: 8px; right: auto;
+    background: var(--surface); border-color: var(--border);
+    color: var(--text-muted); box-shadow: var(--shadow);
+  }
+  body.sidebar-collapsed #sidebar-collapse-btn:hover { color: var(--accent); background: var(--accent-light); }
+  body.sidebar-collapsed #topbar { padding-left: 52px; }
 
   /* ── TOC (right rail) collapse — Obsidian-style, fixed (JS aligns it to the rail) ── */
   #toc-collapse-btn {
     display: none;
-    position: fixed; top: 10px; right: 14px; z-index: 120;
-    background: transparent; border: 1px solid transparent;
+    position: fixed; top: 10px; right: 14px; z-index: 200;
+    background: var(--surface); border: 1px solid transparent;
     border-radius: 7px; width: 30px; height: 30px;
     align-items: center; justify-content: center;
     cursor: pointer; color: var(--text-muted);
@@ -117,6 +128,9 @@
   #toc-collapse-btn:hover { color: var(--accent); background: var(--accent-light); }
   #sidebar-collapse-btn.is-collapsed, #toc-collapse-btn.is-collapsed { color: var(--text-faint); }
   body.with-rail #toc-collapse-btn { display: flex; }
+  /* When the outline is collapsed the toggle parks at the top-right over the
+     topbar — pad the topbar so it never overlaps the "Updated …" meta text. */
+  body.with-rail.toc-collapsed #topbar { padding-right: 52px; }
   body.toc-collapsed #page-toc { display: none !important; }
   body.toc-collapsed #page-view.with-rail { grid-template-columns: 1fr; }
 
@@ -2729,39 +2743,135 @@ const searchInput = document.getElementById('search-input');
 const searchResultsEl = document.getElementById('search-results');
 const navTreeNormal = document.getElementById('nav-tree-normal');
 
+let _searchSeq = 0;  // guards async concept results against stale (outdated) queries
+
+// Warm up the concept-search model the first time the box is focused, so the
+// first query feels instant. Safe to call repeatedly — it inits only once.
+searchInput.addEventListener('focus', () => { ensureSemantic(); });
+
 searchInput.addEventListener('input', () => {
-  const q = searchInput.value.trim().toLowerCase();
+  const raw = searchInput.value.trim();
+  const q = raw.toLowerCase();
+  const seq = ++_searchSeq;
   if (!q) { searchResultsEl.classList.remove('active'); navTreeNormal.classList.remove('hidden'); return; }
   searchResultsEl.classList.add('active');
   navTreeNormal.classList.add('hidden');
-  runSearch(q);
+  // 1) Instant keyword results — always shown, no waiting on any model.
+  renderSearchResults(keywordResults(q), q);
+  // 2) Concept (semantic) results once the model + index are ready — upgrades
+  //    the list in place. Silently does nothing if embeddings aren't built yet.
+  semanticSearch(raw, q).then(items => {
+    if (items && seq === _searchSeq) renderSearchResults(items, q);
+  }).catch(() => {});
 });
 
-function runSearch(q) {
+// ── Keyword (substring) search — instant, always available ──
+function keywordResults(q) {
   const results = [];
   for (const [slug, page] of Object.entries(wikiData)) {
     const tm = page.title.toLowerCase().includes(q);
     const tagm = page.tags && page.tags.some(t=>t.toLowerCase().includes(q));
     const bi = page.body.toLowerCase().indexOf(q);
-    if (tm || tagm || bi !== -1) {
-      let snippet = '';
-      if (bi !== -1) {
-        const raw = page.body.slice(Math.max(0,bi-40), Math.min(page.body.length,bi+80)).replace(/\n/g,' ');
-        snippet = raw.replace(new RegExp(`(${escRegex(q)})`,'gi'),'<mark>$1</mark>');
-      }
-      results.push({ page, snippet, score: tm ? 2 : tagm ? 1 : 0 });
-    }
+    if (tm || tagm || bi !== -1) results.push({ page, score: tm ? 2 : tagm ? 1 : 0 });
   }
   results.sort((a,b)=>b.score-a.score);
-  if (!results.length) { searchResultsEl.innerHTML = '<div class="search-no-results">No results found.</div>'; return; }
-  searchResultsEl.innerHTML = results.slice(0,30).map(({page,snippet}) => {
-    const cat = CATS[page.category]||{};
+  return results;
+}
+
+// Back-compat: anything still calling runSearch(q) gets keyword results.
+function runSearch(q) { renderSearchResults(keywordResults(q), q); }
+
+// ── Shared result renderer (used by both keyword and concept search) ──
+function renderSearchResults(list, q) {
+  if (!list || !list.length) { searchResultsEl.innerHTML = '<div class="search-no-results">No results found.</div>'; return; }
+  searchResultsEl.innerHTML = list.slice(0,30).map(({ page, concept }) => {
+    const cat = CATS[page.category] || {};
+    const snippet = buildSnippet(page, q);
+    const badge = concept ? '<span style="color:var(--accent);font-size:9px;border:1px solid var(--accent);border-radius:3px;padding:0 3px;margin-left:5px;vertical-align:middle">concept</span>' : '';
     return `<div class="search-result-item" onclick="navigateTo('${page.slug}');clearSearch()">
-      <div class="search-result-title">${page.title}</div>
+      <div class="search-result-title">${page.title}${badge}</div>
       <div class="search-result-cat">${cat.label||page.category}${page.updated?' · '+page.updated:''}</div>
       ${snippet?`<div class="search-result-snippet">${snippet}</div>`:''}
     </div>`;
   }).join('');
+}
+
+function buildSnippet(page, q) {
+  const bi = q ? page.body.toLowerCase().indexOf(q) : -1;
+  if (bi !== -1) {
+    const raw = page.body.slice(Math.max(0,bi-40), Math.min(page.body.length,bi+80)).replace(/\n/g,' ');
+    return raw.replace(new RegExp(`(${escRegex(q)})`,'gi'),'<mark>$1</mark>');
+  }
+  // Pure concept hit (no literal match) — show a clean lead-in from the body.
+  return page.body.replace(/[#*`>\[\]|]/g,' ').replace(/\s+/g,' ').trim().slice(0,120) + '…';
+}
+
+// ══════════════════════════════════════
+//  CONCEPT (SEMANTIC) SEARCH — in-browser, lazy-loaded, mobile-safe
+//  Embeds the query with all-MiniLM-L6-v2 (Transformers.js) and ranks pages
+//  by cosine similarity against pre-built embeddings in /search/.
+//  If the model or /search/ files are unavailable, search silently stays
+//  keyword-only — nothing breaks.
+// ══════════════════════════════════════
+const SEM = { state:'idle', extractor:null, vecs:null, dim:0, chunks:null, promise:null };
+
+function ensureSemantic() {
+  if (SEM.promise) return SEM.promise;
+  SEM.state = 'loading';
+  SEM.promise = (async () => {
+    // Load the prebuilt index first (cheap, ~2.5MB). If missing, bail out.
+    const [metaRes, b64Res] = await Promise.all([
+      fetch('search/chunks.json'),
+      fetch('search/embeddings.b64')
+    ]);
+    if (!metaRes.ok || !b64Res.ok) throw new Error('embeddings not built yet');
+    const meta = await metaRes.json();
+    const bin = atob((await b64Res.text()).trim());
+    const bytes = new Uint8Array(bin.length);
+    for (let i=0;i<bin.length;i++) bytes[i] = bin.charCodeAt(i);
+    SEM.vecs = new Float32Array(bytes.buffer);
+    SEM.dim = meta.dim;
+    SEM.chunks = meta.chunks;
+    // Load the embedding model (~25MB, downloaded once then browser-cached).
+    const { pipeline, env } = await import('https://cdn.jsdelivr.net/npm/@xenova/transformers@2.17.2');
+    env.allowLocalModels = false;
+    SEM.extractor = await pipeline('feature-extraction','Xenova/all-MiniLM-L6-v2',{ quantized:true });
+    SEM.state = 'ready';
+    return true;
+  })();
+  SEM.promise.catch(() => { SEM.state = 'unavailable'; });
+  return SEM.promise;
+}
+
+async function semanticSearch(rawQuery, q) {
+  try { await ensureSemantic(); } catch { return null; }
+  if (SEM.state !== 'ready') return null;
+  const out = await SEM.extractor(rawQuery, { pooling:'mean', normalize:true });
+  const qv = out.data, dim = SEM.dim, n = SEM.chunks.length;
+  // Best (max) cosine similarity per page across all of its chunks.
+  // Vectors are normalized at build time, so dot product == cosine.
+  const best = {};
+  for (let i=0;i<n;i++) {
+    const off = i*dim;
+    let dot = 0;
+    for (let d=0; d<dim; d++) dot += qv[d]*SEM.vecs[off+d];
+    const slug = SEM.chunks[i].slug;
+    if (best[slug]===undefined || dot>best[slug]) best[slug]=dot;
+  }
+  const ranked = Object.keys(best).map(slug => {
+    const page = wikiData[slug];
+    if (!page) return null;
+    let score = best[slug];
+    const titleHit = page.title.toLowerCase().includes(q);
+    // Small boost for literal title/tag hits so exact lookups stay near the top.
+    if (titleHit) score += 0.15;
+    else if (page.tags && page.tags.some(t=>t.toLowerCase().includes(q))) score += 0.08;
+    return { page, score, concept: !titleHit };
+  }).filter(Boolean);
+  ranked.sort((a,b)=>b.score-a.score);
+  // Keep meaningfully related hits; always return something as a floor.
+  const top = ranked.filter(r => r.score > 0.30).slice(0,30);
+  return top.length ? top : ranked.slice(0,12);
 }
 
 function clearSearch() {
