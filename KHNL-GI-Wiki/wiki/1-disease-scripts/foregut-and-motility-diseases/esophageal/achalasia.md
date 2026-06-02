@@ -122,7 +122,7 @@ Symptom score: dysphagia + regurgitation + chest pain + weight loss (each 0–3)
 
 ### Treatment Algorithm
 
-![[achalasia-2020-treatment-algorithm-15.png]]
+![[achalasia-2020-treatment-algorithm-15.png|697|700x396]]
 *Figure 8 — Diagnostic and treatment algorithm for achalasia. FLIP: functional lumen imaging probe; HRM: high-resolution manometry; PPI: proton pump inhibitor. ([[acg-2020-achalasia]])*
 
 ```mermaid
