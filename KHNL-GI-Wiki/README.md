@@ -1,8 +1,8 @@
 # KHNL GI Wiki
 
-An AI-assisted clinical reference wiki for gastroenterology and hepatology, built in Obsidian and published via GitHub Pages.
+An AI-assisted clinical reference wiki with resources curated by me, organized in Obsidian, and built by Claude Code.
 
-This encyclopedia covers clinical gastroenterology and hepatology, with emphasis on diagnosis and management of GI diseases, endoscopic procedures and interpretation, GI pharmacology (mechanisms, dosing, monitoring, adverse effects), pathophysiology and disease mechanisms, and evidence quality and guideline concordance (ACG, AGA, ECCO, BSG).
+This encyclopedia covers clinical gastroenterology and hepatology, with an emphasis on diagnosis and management of diseases, diagnostic schemas, endoscopic procedures, new medications - all based on high quality evidence and guidelines (ACG, AGA, ASGE, AASLD, etc).
 
 ---
 
@@ -94,7 +94,8 @@ The graph runs a continuous physics simulation — repulsion forces push nodes a
 - Click the **›** chevron to expand a section dropdown and browse individual pages
 - Click **[[wiki-links]]** within any page to navigate to related pages
 - Click the **📚 N sources** badge on any page to see which sources back it
-- Use the **search bar** for full-text search across all pages
+- Use the **search bar** to find pages. It does two things at once: instant keyword matching, plus **AI concept search** that understands meaning — so searching *"liver scarring"* surfaces cirrhosis and fibrosis-related notes even when those exact words aren't on the page
+- Results tagged with a green **`related`** badge were matched by meaning rather than exact wording. The first search after loading the site takes a moment while the small AI model downloads (then it's cached and instant)
 - Click any **#tag** to search for related pages
 
 ---

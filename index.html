@@ -2787,7 +2787,7 @@ function renderSearchResults(list, q) {
   searchResultsEl.innerHTML = list.slice(0,30).map(({ page, concept }) => {
     const cat = CATS[page.category] || {};
     const snippet = buildSnippet(page, q);
-    const badge = concept ? '<span style="color:var(--accent);font-size:9px;border:1px solid var(--accent);border-radius:3px;padding:0 3px;margin-left:5px;vertical-align:middle">concept</span>' : '';
+    const badge = concept ? '<span style="color:var(--accent);font-size:9px;border:1px solid var(--accent);border-radius:3px;padding:0 3px;margin-left:5px;vertical-align:middle">related</span>' : '';
     return `<div class="search-result-item" onclick="navigateTo('${page.slug}');clearSearch()">
       <div class="search-result-title">${page.title}${badge}</div>
       <div class="search-result-cat">${cat.label||page.category}${page.updated?' · '+page.updated:''}</div>
