@@ -1,1 +1,36 @@
----title: "Noninvasive Liver Disease Assessment (NILDA)"category: concepttags: [nilda, fibrosis, steatosis, fib-4, elf, vcte, mre, mri-pdff, noninvasive, biomarkers, hpb, liver]created: 2026-05-31updated: 2026-05-31sources: [aasld-2024-nilda-blood, aasld-2023-nafld, aasld-2025-semaglutide-mash]---Noninvasive liver disease assessment (NILDA) is the set of blood-based and imaging-based tools that estimate **hepatic fibrosis** and **steatosis** without biopsy. AASLD published companion 2024 practice guidelines for blood-based and imaging-based NILDA; the framework now drives screening, risk stratification, pharmacotherapy candidacy, and (with caveats) treatment monitoring in [[nafld-masld]].## Core principleMost blood/imaging NITs have **high negative predictive value (rule-out)** but **lower positive predictive value (rule-in)** for advanced fibrosis — so a low-cost first-line test excludes disease and a confirmatory test rules it in. The standard two-tier pathway is **FIB-4 first → if ≥1.3, VCTE / MRE / ELF**. [[aasld-2024-nilda-blood]] [[aasld-2023-nafld]]## Blood-based (see [[aasld-2024-nilda-blood]])- **FIB-4** — rule-out advanced fibrosis <1.3 (alt ≥1.45), rule-in >2.67 (alt ≥3.25); cirrhosis ≥3.48 / <1.67; inaccurate <35 y, lower specificity with age (use >2.0 if >65 y).- **NFS** — rule-out < −1.455, rule-in > 0.676.- **ELF** — rule-out <7.7, advanced fibrosis ≥9.8, cirrhosis/prognostic ≥11.3 (FDA-approved prognostic biomarker; predicts hepatic decompensation); highest diagnostic odds ratio among blood tests.- **Confounders:** platelet-based scores falsely lowered by splenectomy, raised by non-portal-hypertensive thrombocytopenia/inflammation; CKD lowers estimates. AASLD advises **against** blood steatosis indices (FLI/HSI) and **against** blood NILDA for serial fibrosis tracking.## Imaging-based- **VCTE (FibroScan)** — point-of-care LSM; rule-out <8 kPa, rule-in ≥12, cirrhosis ≥20. CAP for steatosis (≥288 dB/min).- **MRE** — most accurate fibrosis NIT (AUROC ~0.93); rule-out <2.55, advanced ≥3.63, cirrhosis ≥5 kPa; superior in central adiposity / narrow rib space.- **MRI-PDFF** — most accurate steatosis quantification (≥5%); tracks dynamic change; ≥30% reduction tracks histologic response.- *(The AASLD 2024 imaging-based NILDA guideline and the noninvasive portal-hypertension guideline are not yet ingested — see `raw/GI Guidelines/AASLD/`.)*## Uses & cross-links- Fibrosis staging & at-risk MASH identification in [[nafld-masld]]; pharmacotherapy candidacy ([[semaglutide]], resmetirom) uses F2–F3 NIT windows.- Noninvasive CSPH staging in cirrhosis (LSM + platelets, "Rule of Five") — see [[portal-hypertension]].- Fibrosis staging also applies in [[primary-sclerosing-cholangitis]], [[primary-biliary-cholangitis]], and [[hereditary-hemochromatosis]].*Stub — to be expanded when the AASLD 2024 imaging-based and portal-hypertension NILDA guidelines are ingested.*
+---
+title: "Noninvasive Liver Disease Assessment (NILDA)"
+category: concept
+tags: [nilda, fibrosis, steatosis, fib-4, elf, vcte, mre, mri-pdff, noninvasive, biomarkers, hpb, liver]
+created: 2026-05-31
+updated: 2026-05-31
+sources: [aasld-2024-nilda-blood, aasld-2023-nafld, aasld-2025-semaglutide-mash]
+---
+
+Noninvasive liver disease assessment (NILDA) is the set of blood-based and imaging-based tools that estimate **hepatic fibrosis** and **steatosis** without biopsy. AASLD published companion 2024 practice guidelines for blood-based and imaging-based NILDA; the framework now drives screening, risk stratification, pharmacotherapy candidacy, and (with caveats) treatment monitoring in [[nafld-masld]].
+
+## Core principle
+
+Most blood/imaging NITs have **high negative predictive value (rule-out)** but **lower positive predictive value (rule-in)** for advanced fibrosis — so a low-cost first-line test excludes disease and a confirmatory test rules it in. The standard two-tier pathway is **FIB-4 first → if ≥1.3, VCTE / MRE / ELF**. [[aasld-2024-nilda-blood]] [[aasld-2023-nafld]]
+
+## Blood-based (see [[aasld-2024-nilda-blood]])
+
+- **FIB-4** — rule-out advanced fibrosis <1.3 (alt ≥1.45), rule-in >2.67 (alt ≥3.25); cirrhosis ≥3.48 / <1.67; inaccurate <35 y, lower specificity with age (use >2.0 if >65 y).
+- **NFS** — rule-out < −1.455, rule-in > 0.676.
+- **ELF** — rule-out <7.7, advanced fibrosis ≥9.8, cirrhosis/prognostic ≥11.3 (FDA-approved prognostic biomarker; predicts hepatic decompensation); highest diagnostic odds ratio among blood tests.
+- **Confounders:** platelet-based scores falsely lowered by splenectomy, raised by non-portal-hypertensive thrombocytopenia/inflammation; CKD lowers estimates. AASLD advises **against** blood steatosis indices (FLI/HSI) and **against** blood NILDA for serial fibrosis tracking.
+
+## Imaging-based
+
+- **VCTE (FibroScan)** — point-of-care LSM; rule-out <8 kPa, rule-in ≥12, cirrhosis ≥20. CAP for steatosis (≥288 dB/min).
+- **MRE** — most accurate fibrosis NIT (AUROC ~0.93); rule-out <2.55, advanced ≥3.63, cirrhosis ≥5 kPa; superior in central adiposity / narrow rib space.
+- **MRI-PDFF** — most accurate steatosis quantification (≥5%); tracks dynamic change; ≥30% reduction tracks histologic response.
+- *(The AASLD 2024 imaging-based NILDA guideline and the noninvasive portal-hypertension guideline are not yet ingested — see `raw/GI Guidelines/AASLD/`.)*
+
+## Uses & cross-links
+
+- Fibrosis staging & at-risk MASH identification in [[nafld-masld]]; pharmacotherapy candidacy ([[semaglutide]], resmetirom) uses F2–F3 NIT windows.
+- Noninvasive CSPH staging in cirrhosis (LSM + platelets, "Rule of Five") — see [[portal-hypertension]].
+- Fibrosis staging also applies in [[primary-sclerosing-cholangitis]], [[primary-biliary-cholangitis]], and [[hereditary-hemochromatosis]].
+
+*Stub — to be expanded when the AASLD 2024 imaging-based and portal-hypertension NILDA guidelines are ingested.*

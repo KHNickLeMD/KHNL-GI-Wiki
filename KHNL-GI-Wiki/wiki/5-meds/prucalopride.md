@@ -1,1 +1,32 @@
----title: "Prucalopride"category: medtags: [prucalopride, 5-ht4-agonist, prokinetic, cic, constipation]created: 2026-05-19updated: 2026-05-19sources: [aga-acg-2023-constipation]---*Stub.*## ClassHighly selective 5-HT4 receptor agonist; prokinetic.## Indications & Dosing- **[[chronic-idiopathic-constipation]]**: 2 mg PO daily (1 mg if renal impairment or elderly) — Strong/Low ([[aga-acg-2023-constipation]])- No CV signal in large studies (unlike older 5-HT4 agonists tegaserod/cisapride)## Adverse Effects- Headache (most common, often transient)- Nausea, diarrhea, abdominal pain## Place in Therapy- Rx option after OTC laxative failure for CIC; reasonable for patients with slow-transit pattern
+---
+title: "Prucalopride"
+category: med
+tags: [prucalopride, 5-ht4-agonist, prokinetic, cic, constipation]
+created: 2026-05-19
+updated: 2026-05-19
+sources: [aga-acg-2023-constipation]
+---
+
+*Stub.*
+
+## Class
+
+Highly selective 5-HT4 receptor agonist; prokinetic.
+
+## Indications & Dosing
+
+- **[[chronic-idiopathic-constipation]]**: 2 mg PO daily (1 mg if renal impairment or elderly) — Strong/Low ([[aga-acg-2023-constipation]])
+- No CV signal in large studies (unlike older 5-HT4 agonists tegaserod/cisapride)
+
+## Adverse Effects
+
+- Headache (most common, often transient)
+- Nausea, diarrhea, abdominal pain
+
+## Place in Therapy
+
+- Rx option after OTC laxative failure for CIC; reasonable for patients with slow-transit pattern
+
+## See Also
+
+[[chronic-idiopathic-constipation]], [[linaclotide]], [[plecanatide]], [[lubiprostone]], [[aga-acg-2023-constipation]]

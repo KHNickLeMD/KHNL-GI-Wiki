@@ -122,7 +122,7 @@ Pages in `wiki/2-diagnostic-schemas/` cover syndromes (not defined diagnoses):
 - **Link inline, on the word itself.** Wherever a page name, disease, med, procedure, concept, or other entity that has (or should have) its own page appears in the running text — differentials, prose, table cells, list items — turn that word into a link rather than only listing related pages at the bottom. Example: on the alcohol-associated hepatitis page, the "MASLD" entry in the differential should read `[[masld|MASLD]]` so the displayed word "MASLD" clicks through to the MASLD page.
   - Use the alias form `[[slug|Displayed Words]]` so the link blends into the sentence and the visible text keeps its natural casing/wording (e.g. `[[upper-endoscopy|EGD]]`, `[[portal-hypertension|portal hypertensive]]`).
   - Link on **first mention** of each entity within a page (don't re-link every occurrence — one link per entity per page keeps prose readable).
-  - A bottom-of-page "Related pages" / "See also" list is still welcome **in addition to** inline links, not as a replacement for them.
+  - **Bottom "See Also" section (standardized format).** End every substantive page with a section headed exactly `## See Also`, followed by **one comma-separated line of wiki links** — e.g. `[[gerd]], [[barretts-esophagus]], [[high-resolution-manometry]], [[acg-2020-achalasia]]`. Include the page's key source slugs in that same list. This is in addition to inline body links, not a replacement. Use this heading and the comma-delimited form on every page — do **not** use `Related Pages`, `Cross-References`, `Related Wiki Pages`, bulleted See-Also lists, or per-item descriptions (descriptive context belongs inline in the body, where the link sits in a real sentence).
 - Never link to pages that don't exist — create the stub first
 
 ### Stubs
@@ -255,6 +255,9 @@ Triggered by user request ("lint the wiki", "health check").
 - Data gaps that could be filled by a web search or known source
 
 **Behavior (manual and scheduled):**
+- **Never create new folders.** Use only the folders already defined in the Directory Structure above. Do not invent new top-level directories, a second `wiki/`, a `lint-report/`, a `concepts/` outside `7-concepts/`, etc. New pages go into the correct existing schema folder; if you think a genuinely new folder is needed, stop and ask the user first.
+- **Lint reports are ephemeral — never write them to disk.** Deliver the lint findings as your chat response only. Do not create `lint-report.md`, `lint-final-summary.md`, `markdown_files_to_lint.txt`, or any similar report/scratch file in the repo. The durable record of a lint pass is a single `lint` entry appended to `wiki/log.md` (what was fixed + what remains for user triage).
+- **Stub creation is guarded.** Before creating a stub for a `[[link]]`, confirm a page with that basename does not already exist *anywhere* in the wiki — links resolve by **basename**, so a same-named page in another folder already satisfies the link; never create a duplicate stub. Never generate a stub from an `![[image.png]]` embed or from `[[...]]` tokens that appear inside code spans, fenced blocks, or documentation/example text. Every stub goes in the correct schema folder for its type — never a flat `concepts/` or any new folder.
 - Perform cleanup automatically — do not just report. Fix index counts, dates, OS artifacts (`.DS_Store`), broken links, etc., during the lint pass.
 - Ingest at most **2** uningested raw files per lint pass. Pick high-value targets (fills a stub, addresses an index gap). Anything beyond that gets reported.
 - **Build new connections every lint.** Proactively scan for missing `[[wiki-links]]` between related pages and add them — disease scripts ↔ concepts they invoke, meds ↔ diseases they treat, diagnostic schemas ↔ DDx items, sources ↔ entity pages. Compounding connectivity is a core lint output, not just hygiene.
@@ -277,14 +280,26 @@ The wiki is large and most lint work is per-page and independent, so a lint pass
 
 ## Log Format
 
-Every log entry in `wiki/log.md` must begin with:
-```
-## [YYYY-MM-DD] TYPE | Title
-```
-Where TYPE is: `ingest` | `query` | `synthesis` | `lint` | `update`
+**Location (fixed):** the one and only log is `wiki/log.md`. Never create a second log, a per-operation report file, or a dated log elsewhere — always append to this file.
 
-This makes entries grep-parseable.
-Please keep in reverse chronologic order (newest updates on top)
+**Ordering:** reverse chronological — newest entries on top, immediately under the header block.
+
+**Entry structure (standardized — follow exactly):**
+```markdown
+## [YYYY-MM-DD] TYPE | Title
+
+**Label:**
+- bullet
+- bullet
+
+**Another Label:** inline text for short notes.
+```
+Rules:
+- The header line is always `## [YYYY-MM-DD] TYPE | Title` (level-2, ISO date in brackets). TYPE is one of: `ingest` | `query` | `synthesis` | `lint` | `update` | `setup`. This keeps entries grep-parseable (`grep "^## \[" wiki/log.md`).
+- Separate every entry from the next with a single `---` horizontal rule on its own line, with a blank line above and below it.
+- Group an entry's details under bold `**Label:**` sub-headings (e.g. `**Sources created:**`, `**Pages updated:**`, `**Hygiene fixes:**`, `**Key contributions:**`). Each bullet starts with `- ` on its own line.
+- One blank line between the header, each label block, and the bullets. Never collapse an entry onto a single line.
+- Reference pages and sources with backticked paths or `[[wiki-links]]`; never paste large content blocks into the log — link to the page instead.
 
 ---
 

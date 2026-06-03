@@ -1,1 +1,132 @@
----title: "AGA 2024: Quality Indicators for Upper GI Endoscopy"category: sourcetags: [egd, quality, upper-endoscopy, aga]created: 2026-05-15updated: 2026-05-28sources: []---## Bibliographic Info- **Authors:** Satish Nagula, Sravanthi Parasa, Loren Laine, Shailja C. Shah- **Year:** 2024- **Journal/Publisher:** Clinical Gastroenterology and Hepatology 2024;22:933–943- **DOI:** <https://doi.org/10.1016/j.cgh.2023.10.034>- **Type:** guideline (AGA Clinical Practice Update — Expert Review)## SummaryThis AGA Clinical Practice Update (CPU) Expert Review provides 9 best practice advice (BPA) statements on performing a high-quality upper endoscopic examination (EGD). Unlike formal guidelines, these statements are derived from published literature, existing guidelines, and consensus expert opinion without formal evidence rating, per AGA CPU methodology.The CPU is organized around three phases: preprocedure (appropriate indication and informed consent), intraprocedure (mucosal visualization, imaging technology, inspection time, photodocumentation, standardized terminology, and biopsy protocols), and postprocedure (communication of results and surveillance planning). A major emphasis is placed on reducing missed upper GI cancers — a systematic review of 81,184 patients found 10.7% of upper GI cancers were diagnosed within 3 years of a negative EGD, and 23.9% of esophageal adenocarcinomas in nondysplastic Barrett's patients were diagnosed within 1 year of a negative EGD.The document provides specific biopsy protocol tables for eosinophilic esophagitis, Barrett's esophagus, dyspepsia/H. pylori, gastric preneoplasia, peptic ulcer disease, gastric polyps, and celiac disease. It also addresses contemporary issues such as GLP-1 receptor agonist use before endoscopy, simethicone biofilm risk, and AI-assisted detection.## Key Findings / Claims### Preprocedure (BPA 1)- A large meta-analysis of 53,392 patients found 21.7% (95% CI, 21.4–22.1) of upper endoscopies had inappropriate indications- Appropriate indication associated with higher diagnostic yield (OR 1.42; 95% CI, 1.36–1.49)- GLP-1 receptor agonists (semaglutide, etc.) are associated with delayed gastric emptying; American Society of Anesthesiologists advises holding 1 dose before endoscopy to reduce aspiration risk### Mucosal Visualization (BPA 2)- 10.7% (95% CI, 8.0–13.7%) of upper GI cancers are diagnosed within 3 years of a negative EGD (systematic review, n=81,184)- 23.9% (95% CI, 15.3–35.4%) of esophageal adenocarcinomas in nondysplastic Barrett's patients occur within 1 year of a negative EGD- Premedication with simethicone and pronase improves mucosal visualization in most studies; adding N-acetylcysteine to simethicone further improves visualization in some studies- Simethicone should be used at lowest concentration (0.5%) via working channel (not waterjet), due to biofilm risk in endoscope channels### High-Definition and Image Enhancement Technologies (BPA 3 and 4)- HD-WLE is superior to standard-definition WLE for neoplasia detection- All system components (endoscope chip, processor, monitor, cables) must be HD-compatible for true HD resolution- Image enhancement technologies (IET): NBI (Olympus), i-Scan (PENTAX), LCI/blue laser imaging (FUJIFILM)- In Barrett's esophagus: NBI, LCI, or i-Scan improved detection/characterization of dysplastic lesions by 10–20%- In gastric screening: NBI detected more focal gastric lesions vs. HD-WLE (40.6% vs. 29%; P=.003), and more gastric intestinal metaplasia (17.7% vs. 7.7%; P=.001) in a large multicenter trial- LCI tandem trial: significantly lower missed upper GI neoplasia rate vs. HD-WLE (0.67% vs. 3.5%; RR 0.19; 95% CI, 0.07–0.50)### Inspection Time (BPA 5)- Total EGD duration >7 minutes associated with increased detection of Barrett's esophagus, gastric intestinal metaplasia, and upper GI cancer- Barrett's esophagus: Inspection time >1 min/cm of Barrett's segment associated with higher rate of endoscopically suspicious lesions (54.2% vs. 13.3%; P=.04) and trend toward higher advanced neoplasia detection (40.2% vs. 6.7%; P=.06)- Singapore study (retrospective): endoscopists spending >7 min for entire EGD had 2.5-fold higher odds of detecting high-risk gastric lesions (OR 2.50; 95% CI, 1.52–4.12) and 3.4-fold higher odds of detecting neoplasia (OR 3.42; 95% CI, 1.25–10.38)- Japan study (n=55,786): inspection time ≥5–7 min associated with higher odds of detecting gastric neoplasia (OR 1.90; 95% CI, 1.06–3.40) vs. <5 min### Photodocumentation (BPA 6)- Minimum required anatomic stations: lower esophagus/cardia with SCJ and GEJ, GEJ/fundus in retroflexed view, body and antrum in anterograde view, incisura in retroflexed view, distal extent in duodenum- ESGE recommends at least 10 landmarks; World Endoscopy Organization recommends 28- AGA positions minimum set as adequate for average-risk patients; more rigorous photodocumentation recommended for Barrett's esophagus, gastric intestinal metaplasia, or patients referred for endoscopic treatment### Standardized Terminology (BPA 6 / Classification Systems)- Los Angeles classification: erosive esophagitis- Prague C&M criteria: Barrett's esophagus- Forrest classification: bleeding peptic ulcers- Paris classification: superficial neoplastic lesions- Hill grade classification: gastroesophageal flap valve- Eosinophilic Esophagitis Endoscopic Reference System (EREFS); Index for Severity of EoE (I-SEE) anticipated to become new standard### Biopsy Protocols (BPA 7)- **Eosinophilic esophagitis:** ≥6 biopsies total from distal and mid/proximal esophagus- **Barrett's esophagus:** Seattle protocol — 4-quadrant biopsies every 1–2 cm + targeted biopsies of mucosal abnormalities; ≥8 biopsies significantly improves diagnostic yield even in 1–2 cm segments; avoid routine biopsy of normal or irregular Z-line- **Dyspepsia/H. pylori:** 5 biopsies from greater and lesser curve of gastric body, incisura, greater and lesser curve of antrum; place in 2 jars (body; antrum/incisura); gastric body biopsies especially important in PPI/PCAB users due to proximal H. pylori migration- **Gastric preneoplasia (updated Sydney System):** ≥5 biopsies — 2 from antrum (within 2–3 cm of pylorus, lesser and greater curvature), 1 from incisura, 2 from body (lesser curvature ~4 cm proximal to angle, greater curvature ~8 cm distal to cardia); separate into ≥2 jars; targeted biopsies in separate jar; request histologic subtyping of gastric intestinal metaplasia- **Peptic ulcer disease:** Gastric ulcer biopsies from base and edges; routine duodenal ulcer biopsies not necessary; biopsy remainder of stomach for H. pylori; may individualize gastric ulcer biopsy in very low-risk patients- **Gastric polyps:** Biopsy or preferably resect solitary polyps; resect largest polyp(s) and sample others if multiple- **Celiac disease:** ≥4 biopsies from postbulbar duodenum + 1–2 from bulb (place bulb specimens in separate container); bulb biopsies increase sensitivity but may reduce specificity- **Iron-deficiency anemia:** AGA recommends serologic testing first; duodenal biopsy only if positive serology; H. pylori noninvasive testing (stool antigen) preferred over routine gastric biopsies### Postprocedure (BPA 8 and 9)- Document management recommendations based on endoscopic findings- If recommendations contingent on histopathology (H. pylori, Barrett's, gastric intestinal metaplasia), document that guidance will be provided after results- Document surveillance indication and appropriate intervals; implement recall system for surveillance-due patients## Recommendations| Recommendation | Strength | Evidence Quality ||---|---|---|| **Preprocedure** | | || Perform EGD only for appropriate indications; assess indication quality before each procedure | Best Practice Advice | — || Review GLP-1 receptor agonist use before EGD; follow ASA guidance to hold 1 dose before elective procedure due to delayed gastric emptying | Best Practice Advice | — || **Mucosal Visualization** | | || Use simethicone (0.5% concentration via working channel, not waterjet) to improve mucosal visualization; may add N-acetylcysteine | Best Practice Advice | — || **Imaging Technology** | | || Use high-definition white-light endoscopy (HD-WLE) as standard; ensure all system components are HD-compatible | Best Practice Advice | — || Use image enhancement technologies (NBI, LCI, i-Scan) for Barrett's esophagus and gastric intestinal metaplasia evaluation | Best Practice Advice | — || **Inspection Time** | | || Target total EGD duration >7 minutes to improve detection of Barrett's esophagus, GIM, and upper GI cancer | Best Practice Advice | — || For Barrett's esophagus surveillance: target >1 min/cm of Barrett's segment inspection time | Best Practice Advice | — || **Photodocumentation** | | || Document minimum required anatomic stations: lower esophagus/cardia with SCJ and GEJ, GEJ/fundus in retroflexion, body and antrum, incisura in retroflexion, distal duodenum | Best Practice Advice | — || Use more rigorous photodocumentation for Barrett's esophagus, GIM, or endoscopic treatment cases | Best Practice Advice | — || **Standardized Terminology** | | || Use LA classification for erosive esophagitis, Prague C&M for Barrett's, Forrest for bleeding ulcers, Paris for superficial neoplastic lesions | Best Practice Advice | — || **Biopsy Protocols** | | || EoE: obtain >=6 biopsies from distal and mid/proximal esophagus | Best Practice Advice | — || Barrett's esophagus: use Seattle protocol (4-quadrant biopsies every 1-2 cm + targeted biopsies); >=8 biopsies significantly improves yield | Best Practice Advice | — || Dyspepsia/H. pylori: obtain 5 biopsies from greater and lesser curve of body, incisura, and antrum in >=2 jars | Best Practice Advice | — || Gastric preneoplasia: obtain >=5 biopsies per updated Sydney System in >=2 jars; request histologic subtyping of GIM | Best Practice Advice | — || Celiac disease: obtain >=4 biopsies from postbulbar duodenum + 1-2 from bulb in separate container | Best Practice Advice | — || Iron-deficiency anemia: perform serologic testing first; duodenal biopsy only if positive serology | Best Practice Advice | — || **Postprocedure** | | || Document management recommendations and surveillance indication with appropriate intervals; implement recall system for surveillance-due patients | Best Practice Advice | — |## Relevance to Wiki- Updates [[upper-endoscopy]] procedure page with AGA 2024 best practice advice, inspection time data, IET evidence, photodocumentation standards, and biopsy protocol tables- Provides evidence base for biopsy protocols in [[eosinophilic-esophagitis]], [[helicobacter-pylori-infection]], [[gastric-premalignant-conditions]]- Complements [[acg-2025-egd-quality]] with more detailed intraprocedure guidance (IET data, inspection time benchmarks, biopsy protocols)- Relevant to GLP-1 receptor agonist pre-endoscopy management (no existing wiki page)## Contradictions / Open Questions- AGA 2024 (BPA 7) recommends serologic testing before duodenal biopsy in iron-deficiency anemia, contrasting with some international societies (British Society of Gastroenterology, European Society for Celiac Disease) that recommend duodenal biopsy at time of endoscopy; AGA cites cost-effectiveness data- AGA 2024 notes no routine gastric biopsies for H. pylori in iron-deficiency anemia (contrasts with some international guidelines)- Optimal EGD inspection time remains undefined — the ">7 minutes" benchmark is based on retrospective data from Singapore and Japan populations, which may not fully generalize to US practice- Comparative data between different IETs (NBI vs. LCI vs. i-Scan) are limited; no head-to-head superiority established- AI-assisted detection systems for upper endoscopy are described as early-phase and not yet validated for routine clinical use
+---
+title: "AGA 2024: Quality Indicators for Upper GI Endoscopy"
+category: source
+tags: [egd, quality, upper-endoscopy, aga]
+created: 2026-05-15
+updated: 2026-05-28
+sources: []
+---
+
+## Bibliographic Info
+
+- **Authors:** Satish Nagula, Sravanthi Parasa, Loren Laine, Shailja C. Shah
+- **Year:** 2024
+- **Journal/Publisher:** Clinical Gastroenterology and Hepatology 2024;22:933–943
+- **DOI:** <https://doi.org/10.1016/j.cgh.2023.10.034>
+- **Type:** guideline (AGA Clinical Practice Update — Expert Review)
+
+## Summary
+
+This AGA Clinical Practice Update (CPU) Expert Review provides 9 best practice advice (BPA) statements on performing a high-quality upper endoscopic examination (EGD). Unlike formal guidelines, these statements are derived from published literature, existing guidelines, and consensus expert opinion without formal evidence rating, per AGA CPU methodology.
+
+The CPU is organized around three phases: preprocedure (appropriate indication and informed consent), intraprocedure (mucosal visualization, imaging technology, inspection time, photodocumentation, standardized terminology, and biopsy protocols), and postprocedure (communication of results and surveillance planning). A major emphasis is placed on reducing missed upper GI cancers — a systematic review of 81,184 patients found 10.7% of upper GI cancers were diagnosed within 3 years of a negative EGD, and 23.9% of esophageal adenocarcinomas in nondysplastic Barrett's patients were diagnosed within 1 year of a negative EGD.
+
+The document provides specific biopsy protocol tables for eosinophilic esophagitis, Barrett's esophagus, dyspepsia/H. pylori, gastric preneoplasia, peptic ulcer disease, gastric polyps, and celiac disease. It also addresses contemporary issues such as GLP-1 receptor agonist use before endoscopy, simethicone biofilm risk, and AI-assisted detection.
+
+## Key Findings / Claims
+
+### Preprocedure (BPA 1)
+
+- A large meta-analysis of 53,392 patients found 21.7% (95% CI, 21.4–22.1) of upper endoscopies had inappropriate indications
+- Appropriate indication associated with higher diagnostic yield (OR 1.42; 95% CI, 1.36–1.49)
+- GLP-1 receptor agonists (semaglutide, etc.) are associated with delayed gastric emptying; American Society of Anesthesiologists advises holding 1 dose before endoscopy to reduce aspiration risk
+
+### Mucosal Visualization (BPA 2)
+
+- 10.7% (95% CI, 8.0–13.7%) of upper GI cancers are diagnosed within 3 years of a negative EGD (systematic review, n=81,184)
+- 23.9% (95% CI, 15.3–35.4%) of esophageal adenocarcinomas in nondysplastic Barrett's patients occur within 1 year of a negative EGD
+- Premedication with simethicone and pronase improves mucosal visualization in most studies; adding N-acetylcysteine to simethicone further improves visualization in some studies
+- Simethicone should be used at lowest concentration (0.5%) via working channel (not waterjet), due to biofilm risk in endoscope channels
+
+### High-Definition and Image Enhancement Technologies (BPA 3 and 4)
+
+- HD-WLE is superior to standard-definition WLE for neoplasia detection
+- All system components (endoscope chip, processor, monitor, cables) must be HD-compatible for true HD resolution
+- Image enhancement technologies (IET): NBI (Olympus), i-Scan (PENTAX), LCI/blue laser imaging (FUJIFILM)
+- In Barrett's esophagus: NBI, LCI, or i-Scan improved detection/characterization of dysplastic lesions by 10–20%
+- In gastric screening: NBI detected more focal gastric lesions vs. HD-WLE (40.6% vs. 29%; P=.003), and more gastric intestinal metaplasia (17.7% vs. 7.7%; P=.001) in a large multicenter trial
+- LCI tandem trial: significantly lower missed upper GI neoplasia rate vs. HD-WLE (0.67% vs. 3.5%; RR 0.19; 95% CI, 0.07–0.50)
+
+### Inspection Time (BPA 5)
+
+- Total EGD duration >7 minutes associated with increased detection of Barrett's esophagus, gastric intestinal metaplasia, and upper GI cancer
+- Barrett's esophagus: Inspection time >1 min/cm of Barrett's segment associated with higher rate of endoscopically suspicious lesions (54.2% vs. 13.3%; P=.04) and trend toward higher advanced neoplasia detection (40.2% vs. 6.7%; P=.06)
+- Singapore study (retrospective): endoscopists spending >7 min for entire EGD had 2.5-fold higher odds of detecting high-risk gastric lesions (OR 2.50; 95% CI, 1.52–4.12) and 3.4-fold higher odds of detecting neoplasia (OR 3.42; 95% CI, 1.25–10.38)
+- Japan study (n=55,786): inspection time ≥5–7 min associated with higher odds of detecting gastric neoplasia (OR 1.90; 95% CI, 1.06–3.40) vs. <5 min
+
+### Photodocumentation (BPA 6)
+
+- Minimum required anatomic stations: lower esophagus/cardia with SCJ and GEJ, GEJ/fundus in retroflexed view, body and antrum in anterograde view, incisura in retroflexed view, distal extent in duodenum
+- ESGE recommends at least 10 landmarks; World Endoscopy Organization recommends 28
+- AGA positions minimum set as adequate for average-risk patients; more rigorous photodocumentation recommended for Barrett's esophagus, gastric intestinal metaplasia, or patients referred for endoscopic treatment
+
+### Standardized Terminology (BPA 6 / Classification Systems)
+
+- Los Angeles classification: erosive esophagitis
+- Prague C&M criteria: Barrett's esophagus
+- Forrest classification: bleeding peptic ulcers
+- Paris classification: superficial neoplastic lesions
+- Hill grade classification: gastroesophageal flap valve
+- Eosinophilic Esophagitis Endoscopic Reference System (EREFS); Index for Severity of EoE (I-SEE) anticipated to become new standard
+
+### Biopsy Protocols (BPA 7)
+
+- **Eosinophilic esophagitis:** ≥6 biopsies total from distal and mid/proximal esophagus
+- **Barrett's esophagus:** Seattle protocol — 4-quadrant biopsies every 1–2 cm + targeted biopsies of mucosal abnormalities; ≥8 biopsies significantly improves diagnostic yield even in 1–2 cm segments; avoid routine biopsy of normal or irregular Z-line
+- **Dyspepsia/H. pylori:** 5 biopsies from greater and lesser curve of gastric body, incisura, greater and lesser curve of antrum; place in 2 jars (body; antrum/incisura); gastric body biopsies especially important in PPI/PCAB users due to proximal H. pylori migration
+- **Gastric preneoplasia (updated Sydney System):** ≥5 biopsies — 2 from antrum (within 2–3 cm of pylorus, lesser and greater curvature), 1 from incisura, 2 from body (lesser curvature ~4 cm proximal to angle, greater curvature ~8 cm distal to cardia); separate into ≥2 jars; targeted biopsies in separate jar; request histologic subtyping of gastric intestinal metaplasia
+- **Peptic ulcer disease:** Gastric ulcer biopsies from base and edges; routine duodenal ulcer biopsies not necessary; biopsy remainder of stomach for H. pylori; may individualize gastric ulcer biopsy in very low-risk patients
+- **Gastric polyps:** Biopsy or preferably resect solitary polyps; resect largest polyp(s) and sample others if multiple
+- **Celiac disease:** ≥4 biopsies from postbulbar duodenum + 1–2 from bulb (place bulb specimens in separate container); bulb biopsies increase sensitivity but may reduce specificity
+- **Iron-deficiency anemia:** AGA recommends serologic testing first; duodenal biopsy only if positive serology; H. pylori noninvasive testing (stool antigen) preferred over routine gastric biopsies
+
+### Postprocedure (BPA 8 and 9)
+
+- Document management recommendations based on endoscopic findings
+- If recommendations contingent on histopathology (H. pylori, Barrett's, gastric intestinal metaplasia), document that guidance will be provided after results
+- Document surveillance indication and appropriate intervals; implement recall system for surveillance-due patients
+
+## Recommendations
+
+| Recommendation | Strength | Evidence Quality |
+|---|---|---|
+| **Preprocedure** | | |
+| Perform EGD only for appropriate indications; assess indication quality before each procedure | Best Practice Advice | — |
+| Review GLP-1 receptor agonist use before EGD; follow ASA guidance to hold 1 dose before elective procedure due to delayed gastric emptying | Best Practice Advice | — |
+| **Mucosal Visualization** | | |
+| Use simethicone (0.5% concentration via working channel, not waterjet) to improve mucosal visualization; may add N-acetylcysteine | Best Practice Advice | — |
+| **Imaging Technology** | | |
+| Use high-definition white-light endoscopy (HD-WLE) as standard; ensure all system components are HD-compatible | Best Practice Advice | — |
+| Use image enhancement technologies (NBI, LCI, i-Scan) for Barrett's esophagus and gastric intestinal metaplasia evaluation | Best Practice Advice | — |
+| **Inspection Time** | | |
+| Target total EGD duration >7 minutes to improve detection of Barrett's esophagus, GIM, and upper GI cancer | Best Practice Advice | — |
+| For Barrett's esophagus surveillance: target >1 min/cm of Barrett's segment inspection time | Best Practice Advice | — |
+| **Photodocumentation** | | |
+| Document minimum required anatomic stations: lower esophagus/cardia with SCJ and GEJ, GEJ/fundus in retroflexion, body and antrum, incisura in retroflexion, distal duodenum | Best Practice Advice | — |
+| Use more rigorous photodocumentation for Barrett's esophagus, GIM, or endoscopic treatment cases | Best Practice Advice | — |
+| **Standardized Terminology** | | |
+| Use LA classification for erosive esophagitis, Prague C&M for Barrett's, Forrest for bleeding ulcers, Paris for superficial neoplastic lesions | Best Practice Advice | — |
+| **Biopsy Protocols** | | |
+| EoE: obtain >=6 biopsies from distal and mid/proximal esophagus | Best Practice Advice | — |
+| Barrett's esophagus: use Seattle protocol (4-quadrant biopsies every 1-2 cm + targeted biopsies); >=8 biopsies significantly improves yield | Best Practice Advice | — |
+| Dyspepsia/H. pylori: obtain 5 biopsies from greater and lesser curve of body, incisura, and antrum in >=2 jars | Best Practice Advice | — |
+| Gastric preneoplasia: obtain >=5 biopsies per updated Sydney System in >=2 jars; request histologic subtyping of GIM | Best Practice Advice | — |
+| Celiac disease: obtain >=4 biopsies from postbulbar duodenum + 1-2 from bulb in separate container | Best Practice Advice | — |
+| Iron-deficiency anemia: perform serologic testing first; duodenal biopsy only if positive serology | Best Practice Advice | — |
+| **Postprocedure** | | |
+| Document management recommendations and surveillance indication with appropriate intervals; implement recall system for surveillance-due patients | Best Practice Advice | — |
+
+## Relevance to Wiki
+
+- Updates [[upper-endoscopy]] procedure page with AGA 2024 best practice advice, inspection time data, IET evidence, photodocumentation standards, and biopsy protocol tables
+- Provides evidence base for biopsy protocols in [[eosinophilic-esophagitis]], [[helicobacter-pylori-infection]], [[gastric-premalignant-conditions]]
+- Complements [[acg-2025-egd-quality]] with more detailed intraprocedure guidance (IET data, inspection time benchmarks, biopsy protocols)
+- Relevant to GLP-1 receptor agonist pre-endoscopy management (no existing wiki page)
+
+## Contradictions / Open Questions
+
+- AGA 2024 (BPA 7) recommends serologic testing before duodenal biopsy in iron-deficiency anemia, contrasting with some international societies (British Society of Gastroenterology, European Society for Celiac Disease) that recommend duodenal biopsy at time of endoscopy; AGA cites cost-effectiveness data
+- AGA 2024 notes no routine gastric biopsies for H. pylori in iron-deficiency anemia (contrasts with some international guidelines)
+- Optimal EGD inspection time remains undefined — the ">7 minutes" benchmark is based on retrospective data from Singapore and Japan populations, which may not fully generalize to US practice
+- Comparative data between different IETs (NBI vs. LCI vs. i-Scan) are limited; no head-to-head superiority established
+- AI-assisted detection systems for upper endoscopy are described as early-phase and not yet validated for routine clinical use

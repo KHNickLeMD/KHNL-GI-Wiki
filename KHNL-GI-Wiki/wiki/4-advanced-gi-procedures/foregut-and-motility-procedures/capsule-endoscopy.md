@@ -1,1 +1,18 @@
----title: "Capsule Endoscopy (Video Capsule Endoscopy)"category: advanced-proceduretags: [capsule-endoscopy, vce, small-bowel, gi-bleeding, crohns-disease, iron-deficiency-anemia]created: 2026-05-19updated: 2026-05-19sources: [acg-2015-small-bowel-bleeding]---*Stub — to be expanded.*Video capsule endoscopy (VCE) is the first-line procedure for small bowel evaluation after exclusion of upper and lower GI sources. The capsule measures 26×11 mm², takes images at 2 frames/s over 8–12 h, and evaluates 79–90% of the small bowel. Diagnostic yield for suspected small bowel bleeding: 38–83%. Sensitivity 94–97%, specificity 83–100%. NPV 83–100%.Key indications: [[small-bowel-bleeding]], suspected small bowel Crohn's ([[crohns-disease]]), iron-deficiency anemia with negative EGD/colonoscopy, polyposis syndrome surveillance ([[peutz-jeghers-syndrome]], [[familial-adenomatous-polyposis]]).Key contraindication: known or suspected obstruction/stenosis — risk of capsule retention (~1.5% overall, up to 13% in Crohn's). Perform patency capsule or CTE first if obstruction suspected.See [[small-bowel-bleeding]] for full diagnostic algorithm and sequencing with [[device-assisted-enteroscopy]].
+---
+title: "Capsule Endoscopy (Video Capsule Endoscopy)"
+category: advanced-procedure
+tags: [capsule-endoscopy, vce, small-bowel, gi-bleeding, crohns-disease, iron-deficiency-anemia]
+created: 2026-05-19
+updated: 2026-05-19
+sources: [acg-2015-small-bowel-bleeding]
+---
+
+*Stub — to be expanded.*
+
+Video capsule endoscopy (VCE) is the first-line procedure for small bowel evaluation after exclusion of upper and lower GI sources. The capsule measures 26×11 mm², takes images at 2 frames/s over 8–12 h, and evaluates 79–90% of the small bowel. Diagnostic yield for suspected small bowel bleeding: 38–83%. Sensitivity 94–97%, specificity 83–100%. NPV 83–100%.
+
+Key indications: [[small-bowel-bleeding]], suspected small bowel Crohn's ([[crohns-disease]]), iron-deficiency anemia with negative EGD/colonoscopy, polyposis syndrome surveillance ([[peutz-jeghers-syndrome]], [[familial-adenomatous-polyposis]]).
+
+Key contraindication: known or suspected obstruction/stenosis — risk of capsule retention (~1.5% overall, up to 13% in Crohn's). Perform patency capsule or CTE first if obstruction suspected.
+
+See [[small-bowel-bleeding]] for full diagnostic algorithm and sequencing with [[device-assisted-enteroscopy]].

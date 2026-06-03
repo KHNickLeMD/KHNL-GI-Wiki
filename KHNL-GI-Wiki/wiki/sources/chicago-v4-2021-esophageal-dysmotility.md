@@ -1,1 +1,93 @@
----title: "Chicago Classification v4.0: Esophageal Motility Disorders"category: sourcetags: [manometry, hrm, esophageal-motility, chicago-classification, achalasia, dysphagia, foregut]created: 2026-05-16updated: 2026-05-28sources: []---## Bibliographic Info- **Authors:** Yadlapati R, Kahrilas PJ, Fox MR, Bredenoord AJ, Prakash Gyawali C, Roman S, et al.- **Year:** 2021- **Journal/Publisher:** Neurogastroenterology & Motility 2021;33(1):e14058- **Type:** Guideline / International consensus classification## SummaryChicago Classification v4.0 (CC v4.0) is the definitive international consensus framework for classifying esophageal motility disorders on high-resolution manometry (HRM). It supersedes CC v3.0 and introduces critical methodological and diagnostic refinements including a standardized HRM protocol, manufacturer-specific integrated relaxation pressure (IRP) thresholds, revised criteria for esophagogastric junction outflow obstruction (EGJOO), elimination of fragmented peristalsis as a standalone disorder, and a new definition for ineffective esophageal motility (IEM).The classification establishes a three-tiered hierarchy: (1) disorders of EGJ outflow, (2) disorders of peristalsis, and (3) normal esophageal motility. A key advance is the requirement for clinical and ancillary test correlation (timed barium esophagram [TBE] and/or FLIP panometry) before making clinically actionable diagnoses, particularly for EGJOO.Protocol standardization includes supine and upright swallow series, multiple rapid swallows (MRS), and a rapid drink challenge (RDC), with optional solid test meals. Manufacturer-specific IRP thresholds are explicitly defined to address inter-device variability between Medtronic and Laborie/Diversatek systems.## Key Findings / Claims**Protocol:**- Supine: 10 × 5-mL wet swallows; upright: ≥5 × 5-mL wet swallows; plus MRS (five 2-mL rapid swallows) and RDC (200 mL free drinking); solid swallows optional but suggested- Positions critical: supine IRP thresholds ≤15 mmHg (Medtronic), ≤22 mmHg (Laborie/Diversatek); upright ≤12 mmHg (Medtronic), ≤15 mmHg (Laborie)**Distal Contractile Integral (DCI):**- Normal: 450–8,000 mmHg·s·cm- Hypercontractile (Jackhammer): DCI >8,000 mmHg·s·cm- Failed swallow: DCI <100 mmHg·s·cm- Weak swallow: DCI 100–450 mmHg·s·cm- Fragmented swallow: transition zone (TZ) break >5 cm with DCI ≥450 mmHg·s·cm**Distal Latency (DL):** Normal ≥4.5 s; premature = DL <4.5 s with DCI ≥450**Disorders of EGJ Outflow:**- Achalasia Type I: abnormal IRP + 100% failed peristalsis (no pressurization)- Achalasia Type II: abnormal IRP + ≥20% swallows with panesophageal pressurization- Achalasia Type III: abnormal IRP + ≥20% swallows with premature/spastic contractions- EGJOO: elevated IRP with some preserved peristalsis; **clinically conclusive only with supportive symptoms (dysphagia or NCCP) plus positive TBE or FLIP**; otherwise classified as "inconclusive"**Disorders of Peristalsis:**- Absent contractility: normal IRP + 100% failed peristalsis (scleroderma pattern)- Distal esophageal spasm (DES): ≥20% premature contractions with DCI >450 mmHg·s·cm; normal IRP- Hypercontractile esophagus: ≥20% hypercontractile swallows (DCI >8,000); EGJ obstruction excluded- Ineffective esophageal motility (IEM): >70% ineffective swallows (failed or weak) OR ≥50% failed swallows; **fragmented peristalsis incorporated into IEM** (no longer standalone)**EGJ Metrics:**- Respiratory inversion point (RIP): location relative to LES and diaphragm (crural diaphragm [CD])- EGJ-contractile integral (EGJ-CI): <25 mmHg·cm suggested hypotensive but no consensus threshold established- LES-CD separation: used to characterize hiatal hernia on HRM**Key paradigm shift:** EGJOO is always manometrically inconclusive; clinical significance requires TBE or FLIP correlation plus symptoms. This prevents over-treatment of manometric artifacts.## Recommendations| Recommendation | Strength | Evidence Quality ||---|---|---|| **HRM Protocol** | | || A standardized HRM protocol (supine + upright wet swallows + MRS + RDC) must be completed before applying CC v4.0 diagnostic criteria | Consensus Statement | — || Manufacturer-specific IRP thresholds must be used: Medtronic ≤15 mmHg (supine), ≤12 mmHg (upright); Laborie ≤22 mmHg (supine), ≤15 mmHg (upright) | Consensus Statement | — || **Disorders of EGJ Outflow** | | || Achalasia Types I, II, and III should be classified by IRP elevation combined with the pattern of esophageal pressurization or premature contractions per CC v4.0 criteria | Consensus Statement | — || EGJOO diagnosed on HRM alone should be classified as "manometrically inconclusive"; clinical significance requires supportive symptoms plus positive TBE or FLIP | Consensus Statement | — || **Disorders of Peristalsis** | | || IEM should be diagnosed when >70% of swallows are ineffective (failed or weak) OR ≥50% are failed; fragmented peristalsis is no longer a standalone disorder and should be classified within IEM | Consensus Statement | — || DES requires ≥20% premature contractions (DL <4.5 s) with DCI >450 mmHg·s·cm and normal IRP | Consensus Statement | — || Hypercontractile esophagus (jackhammer) requires ≥20% swallows with DCI >8,000 mmHg·s·cm after EGJ obstruction is excluded | Consensus Statement | — || **Ancillary Testing** | | || TBE and/or FLIP panometry should be used to confirm clinical significance of EGJOO before treatment decisions are made | Consensus Statement | — |## Relevance to Wiki- Core reference for [[chicago-classification-v4]] (concept page)- Informs [[achalasia]] — type classification, IRP thresholds, diagnostic criteria- Informs [[distal-esophageal-spasm]], [[hypercontractile-esophagus]], [[ineffective-esophageal-motility]] stubs- Informs [[flip-panometry]] and [[high-resolution-manometry]] concept pages- Key cross-reference for GERD evaluation (HRM before anti-reflux surgery)## Contradictions / Open Questions- EGJOO classification remains controversial; CC v4.0 explicitly states manometric EGJOO alone is insufficient for diagnosis — clinical integration required; prior wiki content based on older classifications may over-diagnose EGJOO- IEM diagnostic threshold revised (fragmented peristalsis eliminated as standalone entity — update any prior references)- No consensus on EGJ-CI lower threshold for hypotensive EGJ
+---
+title: "Chicago Classification v4.0: Esophageal Motility Disorders"
+category: source
+tags: [manometry, hrm, esophageal-motility, chicago-classification, achalasia, dysphagia, foregut]
+created: 2026-05-16
+updated: 2026-05-28
+sources: []
+---
+
+## Bibliographic Info
+
+- **Authors:** Yadlapati R, Kahrilas PJ, Fox MR, Bredenoord AJ, Prakash Gyawali C, Roman S, et al.
+- **Year:** 2021
+- **Journal/Publisher:** Neurogastroenterology & Motility 2021;33(1):e14058
+- **Type:** Guideline / International consensus classification
+
+## Summary
+
+Chicago Classification v4.0 (CC v4.0) is the definitive international consensus framework for classifying esophageal motility disorders on high-resolution manometry (HRM). It supersedes CC v3.0 and introduces critical methodological and diagnostic refinements including a standardized HRM protocol, manufacturer-specific integrated relaxation pressure (IRP) thresholds, revised criteria for esophagogastric junction outflow obstruction (EGJOO), elimination of fragmented peristalsis as a standalone disorder, and a new definition for ineffective esophageal motility (IEM).
+
+The classification establishes a three-tiered hierarchy: (1) disorders of EGJ outflow, (2) disorders of peristalsis, and (3) normal esophageal motility. A key advance is the requirement for clinical and ancillary test correlation (timed barium esophagram [TBE] and/or FLIP panometry) before making clinically actionable diagnoses, particularly for EGJOO.
+
+Protocol standardization includes supine and upright swallow series, multiple rapid swallows (MRS), and a rapid drink challenge (RDC), with optional solid test meals. Manufacturer-specific IRP thresholds are explicitly defined to address inter-device variability between Medtronic and Laborie/Diversatek systems.
+
+## Key Findings / Claims
+
+**Protocol:**
+
+- Supine: 10 × 5-mL wet swallows; upright: ≥5 × 5-mL wet swallows; plus MRS (five 2-mL rapid swallows) and RDC (200 mL free drinking); solid swallows optional but suggested
+- Positions critical: supine IRP thresholds ≤15 mmHg (Medtronic), ≤22 mmHg (Laborie/Diversatek); upright ≤12 mmHg (Medtronic), ≤15 mmHg (Laborie)
+
+**Distal Contractile Integral (DCI):**
+
+- Normal: 450–8,000 mmHg·s·cm
+- Hypercontractile (Jackhammer): DCI >8,000 mmHg·s·cm
+- Failed swallow: DCI <100 mmHg·s·cm
+- Weak swallow: DCI 100–450 mmHg·s·cm
+- Fragmented swallow: transition zone (TZ) break >5 cm with DCI ≥450 mmHg·s·cm
+
+**Distal Latency (DL):** Normal ≥4.5 s; premature = DL <4.5 s with DCI ≥450
+
+**Disorders of EGJ Outflow:**
+
+- Achalasia Type I: abnormal IRP + 100% failed peristalsis (no pressurization)
+- Achalasia Type II: abnormal IRP + ≥20% swallows with panesophageal pressurization
+- Achalasia Type III: abnormal IRP + ≥20% swallows with premature/spastic contractions
+- EGJOO: elevated IRP with some preserved peristalsis; **clinically conclusive only with supportive symptoms (dysphagia or NCCP) plus positive TBE or FLIP**; otherwise classified as "inconclusive"
+
+**Disorders of Peristalsis:**
+
+- Absent contractility: normal IRP + 100% failed peristalsis (scleroderma pattern)
+- Distal esophageal spasm (DES): ≥20% premature contractions with DCI >450 mmHg·s·cm; normal IRP
+- Hypercontractile esophagus: ≥20% hypercontractile swallows (DCI >8,000); EGJ obstruction excluded
+- Ineffective esophageal motility (IEM): >70% ineffective swallows (failed or weak) OR ≥50% failed swallows; **fragmented peristalsis incorporated into IEM** (no longer standalone)
+
+**EGJ Metrics:**
+
+- Respiratory inversion point (RIP): location relative to LES and diaphragm (crural diaphragm [CD])
+- EGJ-contractile integral (EGJ-CI): <25 mmHg·cm suggested hypotensive but no consensus threshold established
+- LES-CD separation: used to characterize hiatal hernia on HRM
+
+**Key paradigm shift:** EGJOO is always manometrically inconclusive; clinical significance requires TBE or FLIP correlation plus symptoms. This prevents over-treatment of manometric artifacts.
+
+## Recommendations
+
+| Recommendation | Strength | Evidence Quality |
+|---|---|---|
+| **HRM Protocol** | | |
+| A standardized HRM protocol (supine + upright wet swallows + MRS + RDC) must be completed before applying CC v4.0 diagnostic criteria | Consensus Statement | — |
+| Manufacturer-specific IRP thresholds must be used: Medtronic ≤15 mmHg (supine), ≤12 mmHg (upright); Laborie ≤22 mmHg (supine), ≤15 mmHg (upright) | Consensus Statement | — |
+| **Disorders of EGJ Outflow** | | |
+| Achalasia Types I, II, and III should be classified by IRP elevation combined with the pattern of esophageal pressurization or premature contractions per CC v4.0 criteria | Consensus Statement | — |
+| EGJOO diagnosed on HRM alone should be classified as "manometrically inconclusive"; clinical significance requires supportive symptoms plus positive TBE or FLIP | Consensus Statement | — |
+| **Disorders of Peristalsis** | | |
+| IEM should be diagnosed when >70% of swallows are ineffective (failed or weak) OR ≥50% are failed; fragmented peristalsis is no longer a standalone disorder and should be classified within IEM | Consensus Statement | — |
+| DES requires ≥20% premature contractions (DL <4.5 s) with DCI >450 mmHg·s·cm and normal IRP | Consensus Statement | — |
+| Hypercontractile esophagus (jackhammer) requires ≥20% swallows with DCI >8,000 mmHg·s·cm after EGJ obstruction is excluded | Consensus Statement | — |
+| **Ancillary Testing** | | |
+| TBE and/or FLIP panometry should be used to confirm clinical significance of EGJOO before treatment decisions are made | Consensus Statement | — |
+
+## Relevance to Wiki
+
+- Core reference for [[chicago-classification-v4]] (concept page)
+- Informs [[achalasia]] — type classification, IRP thresholds, diagnostic criteria
+- Informs [[distal-esophageal-spasm]], [[hypercontractile-esophagus]], [[ineffective-esophageal-motility]] stubs
+- Informs [[flip-panometry]] and [[high-resolution-manometry]] concept pages
+- Key cross-reference for GERD evaluation (HRM before anti-reflux surgery)
+
+## Contradictions / Open Questions
+
+- EGJOO classification remains controversial; CC v4.0 explicitly states manometric EGJOO alone is insufficient for diagnosis — clinical integration required; prior wiki content based on older classifications may over-diagnose EGJOO
+- IEM diagnostic threshold revised (fragmented peristalsis eliminated as standalone entity — update any prior references)
+- No consensus on EGJ-CI lower threshold for hypotensive EGJ
