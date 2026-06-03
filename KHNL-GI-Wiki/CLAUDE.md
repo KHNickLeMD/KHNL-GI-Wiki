@@ -119,7 +119,10 @@ Pages in `wiki/2-diagnostic-schemas/` cover syndromes (not defined diagnoses):
 
 ### Cross-references
 - Always use Obsidian wiki links: `[[crohns-disease]]`
-- Link on first mention within a page
+- **Link inline, on the word itself.** Wherever a page name, disease, med, procedure, concept, or other entity that has (or should have) its own page appears in the running text — differentials, prose, table cells, list items — turn that word into a link rather than only listing related pages at the bottom. Example: on the alcohol-associated hepatitis page, the "MASLD" entry in the differential should read `[[masld|MASLD]]` so the displayed word "MASLD" clicks through to the MASLD page.
+  - Use the alias form `[[slug|Displayed Words]]` so the link blends into the sentence and the visible text keeps its natural casing/wording (e.g. `[[upper-endoscopy|EGD]]`, `[[portal-hypertension|portal hypertensive]]`).
+  - Link on **first mention** of each entity within a page (don't re-link every occurrence — one link per entity per page keeps prose readable).
+  - A bottom-of-page "Related pages" / "See also" list is still welcome **in addition to** inline links, not as a replacement for them.
 - Never link to pages that don't exist — create the stub first
 
 ### Stubs
@@ -248,13 +251,23 @@ Triggered by user request ("lint the wiki", "health check").
 - Orphan pages (no inbound links) — suggest connections
 - Important concepts mentioned in-text but lacking their own page
 - Missing cross-references
+- **Un-linked in-text mentions** — body text that names another entity (disease, med, procedure, concept) which has a page but is written as plain text instead of an inline link. Convert these to inline `[[slug|Displayed Words]]` links (see Cross-references). This is a primary lint job, run on every pass.
 - Data gaps that could be filled by a web search or known source
 
 **Behavior (manual and scheduled):**
 - Perform cleanup automatically — do not just report. Fix index counts, dates, OS artifacts (`.DS_Store`), broken links, etc., during the lint pass.
 - Ingest at most **2** uningested raw files per lint pass. Pick high-value targets (fills a stub, addresses an index gap). Anything beyond that gets reported.
 - **Build new connections every lint.** Proactively scan for missing `[[wiki-links]]` between related pages and add them — disease scripts ↔ concepts they invoke, meds ↔ diseases they treat, diagnostic schemas ↔ DDx items, sources ↔ entity pages. Compounding connectivity is a core lint output, not just hygiene.
+- **Add inline links every lint.** For each page, scan the running text for mentions of other entities that have a page (or warrant a stub) and convert the first mention of each to an inline `[[slug|Displayed Words]]` link. Densifying in-text linking is a required lint output, not optional.
 - Run lints at **extra high effort**. Never default to a lower effort level.
+
+**Parallel processing (use parallel subagents):**
+The wiki is large and most lint work is per-page and independent, so a lint pass should fan out across parallel `Agent` subagents rather than walking every page serially. Apply this whenever the pass will touch more than a handful of pages.
+
+- **Parallelize the per-page work.** Split the wiki into batches (e.g. by folder: `1-disease-scripts/`, `2-diagnostic-schemas/`, `5-meds/`, `7-concepts/`, …) and dispatch one subagent per batch *in a single message* to do the read-only and page-local work: detect contradictions/stale claims, find un-linked in-text mentions, and add inline + cross-reference links **within the pages that batch owns**. Each subagent returns its proposed edits plus a list of links it wanted to add to pages outside its batch and any stubs/index/log entries needed.
+- **Serialize the shared writes.** Do **not** let parallel subagents write shared files concurrently — `wiki/index.md`, `wiki/log.md`, `wiki/overview.md`, and any single entity page that multiple batches want to edit. Collect all subagent proposals and apply those consolidated edits yourself in one final pass. (Same write-conflict rule as parallel ingest.)
+- **Keep cross-batch concerns central.** Orphan-page detection, index-count reconciliation, dedup, and ingest of uningested raw files require a whole-wiki view — do these yourself after the subagents report, not inside the per-batch agents.
+- **When to stay serial:** small/targeted lints (a single folder or a few named pages) don't need subagents — just do them directly.
 
 **Output:** A structured lint report describing what was fixed + what remains for user triage.
 

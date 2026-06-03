@@ -1191,7 +1191,7 @@
   <div id="search-box">
     <span class="search-icon">⌕</span>
     <input type="text" id="search-input" placeholder="Search pages, topics…" autocomplete="off">
-    <span class="search-kbd">⌘K</span>
+    <span class="search-kbd">/</span>
   </div>
 
   <div id="nav-tree">
@@ -2769,6 +2769,21 @@ let _searchSeq = 0;  // guards async concept results against stale (outdated) qu
 // Warm up the concept-search model the first time the box is focused, so the
 // first query feels instant. Safe to call repeatedly — it inits only once.
 searchInput.addEventListener('focus', () => { ensureSemantic(); });
+
+// "/" to focus search (works identically on Mac and Windows)
+document.addEventListener('keydown', (e) => {
+  if (e.key === '/' && document.activeElement !== searchInput && !e.ctrlKey && !e.metaKey && !e.altKey) {
+    e.preventDefault();
+    searchInput.focus();
+    searchInput.select();
+  }
+  // Escape to clear/unfocus
+  if (e.key === 'Escape' && document.activeElement === searchInput) {
+    searchInput.blur();
+    searchInput.value = '';
+    searchInput.dispatchEvent(new Event('input'));
+  }
+});
 
 searchInput.addEventListener('input', () => {
   const raw = searchInput.value.trim();
