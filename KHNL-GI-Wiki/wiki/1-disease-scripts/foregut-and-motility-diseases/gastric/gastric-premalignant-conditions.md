@@ -31,6 +31,7 @@ Histopathologic stages along the Correa cascade that precede gastric adenocarcin
 ### History — Risk Factors for GPMC/GC
 
 **Patient-level risk factors:**
+
 - H. pylori infection (current or prior)
 - Family history of GC in first-degree relative (2–10× increased risk)
 - Race/ethnicity: East Asian, Latino/a, Black, AIAN
@@ -39,6 +40,7 @@ Histopathologic stages along the Correa cascade that precede gastric adenocarcin
 - Male sex
 
 **Lesion-level risk factors (after endoscopy):**
+
 - GIM subtype: **incomplete** > complete (higher progression risk)
 - GIM extent: **corpus-extension** (antrum + incisura + corpus) > limited (antrum/incisura only)
 - GIM/AG severity: proportion of atrophy or GIM on biopsy per compartment
@@ -86,6 +88,7 @@ Gastric adenocarcinoma
 ### Endoscopic Evaluation (Required)
 
 **High-quality endoscopy — 5 mandatory components:**
+
 1. HDWLE (high-definition white light endoscopy)
 2. Adequate gastric insufflation (CO₂ preferred) — flatten folds, expose mucosa
 3. Mucosal cleansing — clear debris, mucus, bubbles
@@ -97,11 +100,13 @@ Gastric adenocarcinoma
 ### Biopsy Protocol
 
 **Updated Sydney protocol (recommended):**
+
 - Container 1: antrum + incisura (≥2 biopsies each)
 - Container 2: corpus (≥2 biopsies each)
 - Additional containers: targeted biopsies of any mucosal abnormalities
 
 **Pathology report must include:**
+
 - Location (antrum, incisura, corpus)
 - AG severity (per compartment)
 - GIM severity and extent (antrum/incisura only vs corpus-extension)
@@ -110,10 +115,12 @@ Gastric adenocarcinoma
 - H. pylori organisms present/absent
 
 **Against:**
+
 - Noninvasive biomarkers (serum pepsinogens, anti-H. pylori IgG) for GPMC screening or surveillance in US (Very low evidence)
 - Routine repeat EGD within 12 months for nondysplastic GPMC unless quality or protocol concern
 
 ### H. pylori Testing
+
 - Test ALL patients with GPMC (see [[helicobacter-pylori-infection]] for methods)
 - Preferred: UBT or stool antigen (nonserological)
 - Confirm eradication 4–8 weeks after treatment completion
@@ -125,6 +132,7 @@ Gastric adenocarcinoma
 ### Surveillance Strategy
 
 **High-risk GIM → surveillance q3y (Conditional/Very low):**
+
 - Incomplete GIM histological subtype (vs complete)
 - Corpus-extension (antrum/incisura + corpus involvement)
 - OR any GIM with: family Hx GC (first-degree) | foreign-born from high-GC country | high-risk race/ethnicity (East Asian, Latino/a, Black, AIAN)
@@ -134,12 +142,14 @@ Gastric adenocarcinoma
 **Multiple risk factors** (e.g., extensive GIM + family Hx GC): consider q1–2y interval
 
 **Low-risk GIM or mild AG → against surveillance (Conditional/Very low):**
+
 - Complete GIM only (no incomplete component)
 - Anatomically limited to antrum
 - None of the high-risk criteria above
 - AG mild in severity
 
 ### GC Screening (For Reference)
+
 - **Against** routine upper endoscopy GC/GPMC screening in general US population (Conditional/Very low)
 - **Insufficient evidence** for opportunistic screening in high-risk groups — no formal recommendation
 - **Key concept (individualized):** Consider screening in:
@@ -158,14 +168,17 @@ Gastric adenocarcinoma
 | Post-complete endoscopic resection | Periodic surveillance (HDWLE + IEE + Sydney protocol biopsies + targeted biopsies); individualize interval |
 
 ### H. pylori Eradication
+
 - **Test and eradicate all GPMC patients** and patients with resected early GC (Strong/Moderate)
 - Reduces risk of progression to GC and metachronous GC
 - See [[helicobacter-pylori-infection]] for eradication regimens
 
 ### What NOT to Use
+
 - Aspirin, NSAIDs, COX-2 inhibitors, antioxidants: **against** for GC chemoprevention (Conditional/Very low)
 
 ### Autoimmune Gastritis (Special Case)
+
 - H. pylori: test with nonserological method; eradicate if positive; confirm eradication (Strong/Low)
 - Surveillance: no formal recommendation; individualized surveillance may be considered given risk of type I carcinoids and possible GC (Conditional/Low)
 - Same GPMC risk stratification parameters apply
@@ -191,5 +204,6 @@ Gastric adenocarcinoma
 ---
 
 ## See Also
+
 - [[helicobacter-pylori-infection]] — dominant etiology; eradication regimens
 - [[acg-2025-gastric-premalignant]] — source guideline (Morgan et al. 2025)

@@ -18,6 +18,7 @@ sources: [acg-2022-gastroparesis]
 **Definition:** GP is a motility disorder characterized by delayed gastric emptying (GE) of solid food in the absence of mechanical obstruction, accompanied by symptoms including postprandial fullness, nausea, vomiting, and upper abdominal pain. Mechanical obstruction must be excluded before confirming the diagnosis (by [[upper-endoscopy]] or radiology).
 
 **Cardinal symptoms:**
+
 - Postprandial fullness / early satiety
 - Nausea
 - Vomiting (of undigested food)
@@ -25,6 +26,7 @@ sources: [acg-2022-gastroparesis]
 - Weight loss and nutritional compromise in severe cases
 
 **Key exclusion:**
+
 - Opioids, cannabinoids, and many medications (cardiovascular agents, acid suppressants) retard GE and must be excluded as causes
 - Opioids worsen GP and should NOT be used to treat pain in GP
 - Retained gastric food on [[upper-endoscopy]] has a PPV of only 55% for delayed GE overall (32% without risk factors, 79% in type 1 DM) — not diagnostic alone
@@ -32,17 +34,20 @@ sources: [acg-2022-gastroparesis]
 ### Severity Assessment (GCSI, symptom domains)
 
 **Gastroparesis Cardinal Symptom Index (GCSI):**
+
 - 3 subscales: nausea/vomiting, postprandial fullness/early satiety, bloating/distention
 - Total score 0–5; higher = more severe
 - GCSI ≥1-point improvement = clinically meaningful response
 - Used as primary endpoint in pharmacologic and procedural trials
 
 **Severity correlates:**
+
 - Degree of GE delay does not reliably correlate with symptom severity (symptom-physiology dissociation is common)
 - Among diabetics, the strongest association with delayed GE is early satiety/fullness, not nausea/vomiting
 - Severity is inversely correlated with quality of life; GP carries significant healthcare burden (hospitalizations, economic impact, increased morbidity/mortality)
 
 **Nutritional staging:**
+
 - Mild: able to maintain oral intake with dietary modification
 - Moderate: oral intake inadequate; jejunal tube feeding required
 - Severe: jejunostomy or parenteral nutrition dependent; refractory to medical therapy
@@ -77,6 +82,7 @@ sources: [acg-2022-gastroparesis]
 ### Scintigraphic Gastric Emptying (SGE) — Gold Standard
 
 **Standard 4-hour protocol** [[acg-2022-gastroparesis]]:
+
 - **Meal:** 255 kcal, 2% fat Egg Beaters (solid, radiolabeled with Tc-99m)
 - **Imaging:** at 0, 1, 2, and 4 hours postprandially
 - **Threshold for delayed GE:** >10% retention at 4 hours
@@ -84,9 +90,11 @@ sources: [acg-2022-gastroparesis]
 - **Minimum protocol:** solid meal + at least 3 hours of imaging (GRADE Strong, Moderate evidence)
 
 **Medication hold before testing:**
+
 - Hold for 48 hours: opioids, cannabinoids, prokinetics, antiemetics, neuromodulators with GE impact
 
 **Interpretation notes:**
+
 - COV for GE at 4 hours is ~10% (reproducible metric); T½ has higher intraindividual variability (~24%)
 - Serial studies ~15 days apart: mean absolute difference is ~7% at 4 hours
 
@@ -154,6 +162,7 @@ sources: [acg-2022-gastroparesis]
 ### 3. Nutritional Support
 
 **Stepwise approach:**
+
 1. Small particle oral diet (first-line)
 2. Jejunal tube feeding (nasojejunal or PEG-J) when oral intake inadequate
 3. Parenteral nutrition (PN) for refractory cases

@@ -12,7 +12,7 @@ sources: []
 - **Authors:** Loren Laine, MD, FACG; Alan N. Barkun, MD, FACG; John R. Saltzman, MD, FACG; Myriam Martel, MSc; Grigorios I. Leontiadis, MD, PhD
 - **Journal:** American Journal of Gastroenterology
 - **Volume/Year:** 116:899–917, May 2021
-- **DOI:** https://doi.org/10.14309/ajg.0000000000001245
+- **DOI:** <https://doi.org/10.14309/ajg.0000000000001245>
 - **Type:** Guideline (GRADE methodology)
 - **Literature search:** Database inception through October 2019 (EMBASE, Ovid MEDLINE, ISI Web of Science); RCTs and meta-analyses of RCTs preferred; observational studies only when RCTs unavailable
 - **Updates from:** ACG 2012 UGIB Guideline (Laine & Jensen)
@@ -32,23 +32,27 @@ UGIB accounts for over half a million hospitalizations annually in the U.S. and 
 ## Key Findings / Claims
 
 ### Risk Stratification
+
 - **Glasgow-Blatchford Score (GBS) 0–1**: 99% sensitivity (95% CI lower bound 97–98%) for the composite outcome of hospital-based intervention or death; 19–24% of UGIB patients qualify in large multicenter studies
 - GBS ≤1 allows safe outpatient discharge — validated in before-after studies with 0/103 discharged patients requiring intervention or dying within 30 days
 - GBS variables: BUN, hemoglobin, systolic BP, heart rate, melena, syncope, hepatic disease, cardiac failure (see full scoring table in guideline Table 2)
 - Specificity at GBS 0–1 threshold is poor (27–40%) — most low-risk patients are still incorrectly classified as needing admission, leaving substantial room for improvement
 
 ### Red Blood Cell Transfusion
+
 - **Transfusion threshold: Hgb 7 g/dL** for hemodynamically stable UGIB patients
 - Villanueva et al. RCT (N=899): restrictive (7 g/dL) vs. liberal (9 g/dL) showed lower mortality (5% vs. 9%, adjusted HR 0.55), less further bleeding (10% vs. 16%, adjusted HR 0.68), and fewer cardiac complications (11% vs. 16%)
 - Threshold of 8 g/dL is reasonable for pre-existing cardiovascular disease; higher threshold may be considered for acute coronary syndrome (very limited evidence)
 - Hypotensive patients may warrant transfusion above 7 g/dL given hemoglobin equilibration with fluid resuscitation
 
 ### Pre-Endoscopic Management
+
 - **Erythromycin 250 mg IV infusion** 20–90 minutes before endoscopy: reduces need for repeat endoscopy (OR 0.51) and length of stay (mean –1.75 days); no proven benefit for further bleeding or mortality; can prolong QT interval (caution with torsadogenic drugs and conditions)
 - **Pre-endoscopic PPI**: No recommendation for or against — no evidence of benefit for further bleeding or mortality in properly designed RCTs; may modestly reduce need for endoscopic therapy at index endoscopy; use reasonable when endoscopy is unavailable or will be substantially delayed
 - Metoclopramide: insufficient evidence to support use
 
 ### Endoscopy Timing
+
 - **Endoscopy within 24 hours of presentation** for all hospitalized UGIB patients (conditional, very-low-quality evidence)
 - No RCT directly tested 24-hour vs. >24-hour endoscopy; observational data show shorter hospital stay and possible mortality/surgery benefit with endoscopy within 1 day
 - Large RCT (Lau et al. NEJM 2020, N=516, GBS ≥12): urgent endoscopy within 6 hours vs. 6–24 hours — no reduction in further bleeding (10.9% vs. 7.8%) or mortality (8.9% vs. 6.6%); actual endoscopy times were means of 10 and 25 hours from presentation
@@ -56,6 +60,7 @@ UGIB accounts for over half a million hospitalizations annually in the U.S. and 
 - Patients with hypotensive shock not responding to initial resuscitation: require urgent intervention (expert opinion — excluded from RCTs)
 
 ### Endoscopic Therapy Indications
+
 - **Active spurting/oozing and nonbleeding visible vessel**: Strong recommendation for endoscopic therapy (moderate-quality evidence)
   - Active bleeding: RR 0.29 for further bleeding with endoscopic therapy (NNT 2)
   - Nonbleeding visible vessel: RR 0.49 (NNT 5)
@@ -80,6 +85,7 @@ UGIB accounts for over half a million hospitalizations annually in the U.S. and 
 - TC-325 sloughs off within 24 hours — not a durable standalone therapy per prior guidelines, though Lau et al. noninferiority RCT suggests possible single-agent use
 
 ### Post-Endoscopic PPI Therapy
+
 - **High-dose PPI for 3 days after successful endoscopic hemostasis**: Strong recommendation (moderate- to high-quality evidence)
   - Markedly reduces further bleeding (RR 0.43), mortality (RR 0.41), and surgery (RR 0.42) vs. placebo/no treatment
   - Continuous regimen: 80-mg bolus followed by 8-mg/hr infusion
@@ -88,6 +94,7 @@ UGIB accounts for over half a million hospitalizations annually in the U.S. and 
   - Based on 1 RCT showing 10.8% vs. 28.7% further bleeding at 28 days (twice-daily vs. once-daily esomeprazole)
 
 ### Recurrent Bleeding Management
+
 - **Repeat endoscopy and endoscopic therapy**: preferred over surgery or TAE for recurrent bleeding after initial endoscopic hemostasis (conditional, low-quality evidence)
   - ~75% of rebleeders controlled with repeat endoscopic therapy
   - Fewer complications with repeat endoscopy vs. surgery (14.6% vs. 36.4%)
@@ -96,6 +103,7 @@ UGIB accounts for over half a million hospitalizations annually in the U.S. and 
   - Predictors of repeat endoscopy failure: hypotension at rebleeding, ulcer size >2 cm
 
 ### Failed Endoscopic Therapy
+
 - **Transcatheter arterial embolization (TAE) preferred over surgery**: conditional recommendation (very-low-quality evidence)
   - TAE: markedly fewer complications (meta-analysis OR 0.45) and shorter hospital stay (median 8 vs. 16 days) vs. surgery; no mortality difference; higher rate of further bleeding (meta-analysis OR 2.44)
   - Choice between TAE and surgery may be influenced by patient comorbidities, hemodynamic status, and local institutional expertise

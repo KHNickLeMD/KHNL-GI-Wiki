@@ -8,6 +8,7 @@ sources: []
 ---
 
 ## Bibliographic Info
+
 - **Authors:** Vilstrup H, Amodio P, Bajaj J, Cordoba J, Ferenci P, Mullen KD, Weissenborn K, Wong P
 - **Year:** 2014
 - **Journal/Publisher:** *Hepatology* 2014;60(2):715–735; doi:10.1002/hep.27210
@@ -29,6 +30,7 @@ Treatment strategy centers on a "four-pronged approach" for overt HE: (1) clinic
 ## Key Findings / All Named Recommendations
 
 **Recommendations 1–9 (Diagnosis/Classification):**
+
 1. HE should be classified according to: (1) type of underlying disease, (2) severity of manifestations, (3) time course, and (4) precipitating factors — GRADE III, A, 1
 2. A diagnostic workup is required, considering other disorders that can alter brain function and mimic HE — GRADE II-2, A, 1
 3. HE should be treated as a continuum ranging from unimpaired cognitive function through coma — GRADE III, A, 1

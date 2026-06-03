@@ -18,6 +18,7 @@ Hepatic encephalopathy (HE) is a **brain dysfunction caused by liver insufficien
 Every bout of HE should be characterized along all four axes simultaneously:
 
 ### Axis 1 — Underlying Disease
+
 - **Type A** — HE resulting from **acute liver failure** (ALF); high cerebral edema risk; distinct management (see [[acute-liver-failure]]); NOT covered by this guideline
 - **Type B** — HE resulting predominantly from **portosystemic bypass/shunting** without intrinsic hepatocellular disease
 - **Type C** — HE resulting from **cirrhosis** — the most common type; this guideline's focus
@@ -34,6 +35,7 @@ Every bout of HE should be characterized along all four axes simultaneously:
 | Grade 4 | Overt HE | Coma | Does not respond even to painful stimuli |
 
 **Clinical notes:**
+
 - **MHE (Minimal HE)** = no clinical signs; diagnosis only by neuropsychological/neurophysiological testing
 - **CHE (Covert HE)** = MHE + West Haven Grade 1 combined category
 - **OHE (Overt HE)** = Grades 2–4 (clinically detectable)
@@ -41,11 +43,13 @@ Every bout of HE should be characterized along all four axes simultaneously:
 - Cumulative OHE in cirrhosis: 30–40% over the course of disease; recurs in most survivors
 
 ### Axis 3 — Time Course
+
 - **Episodic** — discrete episodes of OHE
 - **Recurrent** — ≥2 bouts within 6 months
 - **Persistent** — behavioral alterations always present; interspersed with relapses of OHE
 
 ### Axis 4 — Precipitating Factors
+
 - **Spontaneous** (no identifiable precipitant)
 - **Precipitated** (specify): most common episodic precipitants (by decreasing frequency): infections\* > GI bleeding > diuretic overdose > electrolyte disorder > constipation > unidentified; most common recurrent precipitants: electrolyte disorders > infections > constipation > diuretic overdose > GI bleeding. *\*More recent data confirm infections (especially SBP) as dominant precipitant.*
 
@@ -65,12 +69,14 @@ Every bout of HE should be characterized along all four axes simultaneously:
 ## Diagnostics
 
 ### Diagnosing OHE
+
 - **Clinical diagnosis** — based on WHC + GCS; OHE is a diagnosis of exclusion of other causes of altered mental status
 - **GCS** (Table 6 in source): operationally robust for Grades 3–4; supplementary to WHC
 - **CT/MRI brain:** does NOT contribute to HE diagnosis or grading per se, but risk of intracerebral hemorrhage is 5-fold increased in cirrhosis; obtain for: first-episode AMS, seizures, focal neurological signs, HE not responding to therapy (Rec 10 from AASLD 2024 ACLF; consistent with this guideline)
 - **Serum ammonia:** elevated ammonia is NOT sufficient for diagnosis and adds no diagnostic, staging, or prognostic value for HE in CLD; a **normal ammonia level in suspected OHE calls for diagnostic re-evaluation** [[aasld-easl-2014-hepatic-encephalopathy]] — Recommendation 9 (Grade II-3, A, 1)
 
 **Differential diagnosis of altered mental status in cirrhosis (Table 4):**
+
 - Hypoglycemia, ketoacidosis, hyperosmolar states, lactic acidosis
 - Alcohol intoxication, withdrawal, Wernicke encephalopathy (give IV thiamine before glucose)
 - Drugs (benzodiazepines, neuroleptics, opioids)
@@ -83,7 +89,9 @@ Every bout of HE should be characterized along all four axes simultaneously:
 - Uremic encephalopathy (may coexist in ACLF)
 
 ### Diagnosing MHE and CHE
+
 MHE/CHE: test-dependent diagnosis; no universal criterion; use ≥2 testing modalities:
+
 1. **PHES (Psychometric Hepatic Encephalopathy Score)** — paper-pencil battery of 5 tests; widely used; validated in many countries
 2. **CFF (Critical Flicker Frequency)** — psychophysiological; requires intact binocular vision
 3. **CRT (Continuous Reaction Time)** — motor reaction time; neurophysiological
@@ -101,6 +109,7 @@ MHE/CHE: test-dependent diagnosis; no universal criterion; use ≥2 testing moda
 ### Four-Pronged General Approach to OHE (Recommendations 14–17, Grade II-2, A, 1)
 
 All elements initiated simultaneously:
+
 1. Initiation of care for patients with altered consciousness
 2. Identification and treatment of alternative causes of altered mental status
 3. Identification and correction of precipitating factors — **nearly 90% of patients can be treated with precipitant correction alone**
@@ -179,6 +188,7 @@ All elements initiated simultaneously:
 ## Follow-Up After Hospitalization for OHE
 
 Key discharge planning elements:
+
 1. Neurological status confirmed before discharge; explain to caregivers that status may change
 2. Recognize and address precipitating factors; out-patient consultations planned
 3. Driving counseling: patients should stop driving until formally cleared by driving authorities

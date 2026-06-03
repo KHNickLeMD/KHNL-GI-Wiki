@@ -12,6 +12,7 @@ sources: [asge-2024-gerd, acg-2021-gerd, sages-2021-gerd-surgery, lyon-2024-gerd
 ### Establishing the Diagnosis
 
 **Clinical diagnosis** is sufficient to initiate empiric treatment in most patients:
+
 - Cardinal symptoms: troublesome heartburn and/or regurgitation (Montreal definition)
 - **8-week empiric PPI trial** for typical symptoms is recommended (Strong/Moderate, ACG 2021); if symptoms resolve, attempt PPI discontinuation (Conditional/Low)
 - Symptom-response to empiric PPI trial supports the diagnosis
@@ -19,16 +20,19 @@ sources: [asge-2024-gerd, acg-2021-gerd, sages-2021-gerd-surgery, lyon-2024-gerd
 - Reflux monitoring off PPI for patients with unclear GERD diagnosis before procedural therapy (Strong/Low, ACG 2021)
 
 **Endoscopy is recommended** (strong, moderate evidence) for alarm symptoms:
+
 - Dysphagia, odynophagia
 - Weight loss
 - GI bleeding (hematemesis, melena, iron deficiency anemia)
 - Persistent vomiting
 
 **Endoscopy is suggested** (conditional, low evidence) for:
+
 - Barrett's esophagus risk factor screening: family history of BE or esophageal adenocarcinoma; OR GERD plus at least one of: age >50, male sex, white race, smoking, obesity
 - Pediatric GERD with atypical/suggestive features: poor weight gain, unexplained anemia, concern for GI bleeding, recurrent pneumonia, regurgitation/vomiting
 
 **Special populations requiring endoscopic evaluation:**
+
 - Post-sleeve gastrectomy (SG) with reflux symptoms: conditional endoscopy; if asymptomatic, screen at 3 years then every 5 years given pooled BE rate of 11.4% post-SG (exceeds ASGE 10% screening threshold)
 - Post-POEM with symptomatic GERD: conditional endoscopy; consider periodic evaluation even in asymptomatic patients given pooled esophagitis rate ~29% post-POEM (see [[achalasia]])
 
@@ -37,6 +41,7 @@ sources: [asge-2024-gerd, acg-2021-gerd, sages-2021-gerd-surgery, lyon-2024-gerd
 Objective severity is assessed endoscopically and with reflux testing:
 
 **Endoscopic findings — required documentation elements (strong, very low evidence):**
+
 - Erosive esophagitis: grade by LA classification (A–D)
   - LA-A/B: mild-to-moderate esophagitis
   - LA-C/D: severe esophagitis; LA-D is associated with Barrett's
@@ -46,10 +51,12 @@ Objective severity is assessed endoscopically and with reflux testing:
 - GEJ landmarks: top of gastric folds, Z-line, diaphragmatic impression (forward view and retroflexion)
 
 **Hiatal hernia classification for therapeutic planning:**
+
 - Small hiatal hernia: ≤2 cm; Hill grade I or II — eligible for TIF 2.0
 - Large hiatal hernia: >2 cm; Hill grade III or IV — requires cTIF or surgical approach
 
 **Reflux testing** (for objective confirmation before procedural therapy):
+
 - 24- or 48-hour ambulatory pH monitoring: acid exposure time (AET) = % time pH <4; normal <4–6% depending on protocol
 - Refractory GERD definition: persistent troublesome GERD symptoms despite double-dose PPI for ≥8 weeks with documented pathologic reflux on testing
 
@@ -86,6 +93,7 @@ Objective severity is assessed endoscopically and with reflux testing:
 ### Endoscopy
 
 Perform upper endoscopy per indications above. High-quality examination requires (strong, very low evidence):
+
 - Adequate mucosal inspection and cleanliness (Barcelona scale or Toronto Upper GI Cleaning Score)
 - Systematic documentation and photo-documentation of:
   - LA-graded esophagitis or absence thereof
@@ -136,27 +144,32 @@ Recommend for all patients with GERD symptoms:
 ### Step 2: Medical Management
 
 **Proton pump inhibitors (PPIs) — Strong, Moderate Evidence**
+
 - Recommend for symptomatic confirmed GERD with predominant heartburn, at lowest effective dose for shortest necessary duration
 - Efficacy vs placebo: OR 4.2 for symptom relief, OR 11.4 for esophagitis healing
 - De-escalate after ≥6 months of therapy; address long-term management plans
 - Safety (large RCT, n~17,600, 3 years): no significant increase in cardiovascular events, CKD, C. diff, pneumonia, fractures, or dementia; only confirmed harm is modest enteric infection increase
 
 **H2 receptor antagonists (H2RAs)**
+
 - Inferior to PPIs for erosive esophagitis and uncontrolled GERD
 - Role as adjunct therapy, PRN use, or when faster onset is needed (e.g., nocturnal breakthrough)
 
 **Potassium-competitive acid blockers (PCABs, e.g., vonoprazan)**
+
 - More potent acid suppression; superior to PPI for erosive esophagitis healing in one RCT
 - Long-term safety data not yet available; positioning relative to PPIs evolving
 - Panel: not yet superior to PPI overall for GERD; likely to be used for confirmed GERD after shared discussion
 
 **CYP2C19-guided therapy**
+
 - In suboptimal PPI responders: test polymorphism and adjust PPI dose or agent
 - Conditional, very low evidence
 
 ### Step 3: Endoscopic Anti-Reflux Therapies
 
 Patient selection requires:
+
 1. Confirmed (objectively documented) GERD
 2. Complete endoscopic assessment of GEJ (hiatal hernia size, Hill grade)
 3. Multidisciplinary review (especially for cTIF)
@@ -164,6 +177,7 @@ Patient selection requires:
 #### TIF 2.0 (Transoral Incisionless Fundoplication) — Conditional, Low Evidence
 
 **Indications** — confirmed GERD with hiatal hernia ≤2 cm and Hill grade I or II, plus any of:
+
 - Chronic GERD ≥6 months
 - Long-term PPI use ≥6 months
 - Refractory GERD (persistent symptoms on double-dose PPI ≥8 weeks with documented pathologic reflux)
@@ -171,6 +185,7 @@ Patient selection requires:
 - Patient preference to avoid long-term PPI
 
 **Efficacy:**
+
 - PPI discontinuation: 77.6% vs 6.3% (RCT, RR 12.7 at 6 months)
 - Symptom resolution: 68.2% vs 32.4% (4 RCTs, RR 2.12)
 - Durable symptom resolution at 5 years: 86.4% (1 RCT)
@@ -178,6 +193,7 @@ Patient selection requires:
 - 28.6% still using PPI at ~19 months post-TIF in cohort data; ~34% completely off PPI at 8–10 years
 
 **Safety:**
+
 - Overall adverse events higher than PPI/sham (37.8% vs 14.3%), but serious AEs not statistically different (8% vs 1.9%)
 - Perforation 0.9%, bleeding 0.6%, pneumothorax 0.5%; post-TIF dysphagia 3.6%
 - Cost: ~$13,979; cost-effective vs PPI ($3,047 incremental cost/0.29 QALY)
@@ -205,6 +221,7 @@ Patient selection requires:
 #### Novel Endoscopic Therapies (Investigational Only)
 
 Not recommended outside clinical trials. Under evaluation:
+
 - Antireflux mucosectomy (ARMS): 80.1% clinical response, 11.4% dysphagia/stricture; RCT underway
 - Antireflux mucosal ablation (ARMA): 81% short-term success; RCT underway
 - GERDx (EFTP): promising early RCT data; 62.8% off PPI at 23 months vs 11.4%
@@ -215,6 +232,7 @@ Not recommended outside clinical trials. Under evaluation:
 **Indications for antireflux surgery (Strong/Moderate, ACG 2021):** LA grade C/D erosive esophagitis, large hiatal hernia, troublesome regurgitation/symptoms. HRM before any anti-reflux procedure to exclude major motility disorder.
 
 **Surgical approaches (SAGES 2021 — all conditional, very low–low evidence):**
+
 - **Surgery > continued medical management** for adults with confirmed chronic/refractory GERD (Conditional/Very Low): 79.2% vs 62.6% long-term symptom control; 72% of medical patients still on PPI at long-term follow-up vs 25% surgical
 - **Robotic vs. laparoscopic fundoplication:** either acceptable; shared decision-making; trivial efficacy/safety differences; robotic may favor long-term PPI reduction; laparoscopic may favor short-term symptom control and lower reoperation risk
 - **Complete vs. partial fundoplication:** either acceptable based on patient values; complete = better reflux control; partial = less long-term dysphagia (7.4% less at >5 years); no difference in reoperation rates
@@ -226,6 +244,7 @@ Not recommended outside clinical trials. Under evaluation:
 ### Extraesophageal GERD Manifestations (ACG 2021)
 
 **Laryngopharyngeal reflux (LPR), chronic cough, asthma:**
+
 - Evaluate for non-GERD causes before attributing symptoms to GERD (Strong/Moderate)
 - If isolated extraesophageal symptoms without typical GERD: perform reflux monitoring BEFORE starting PPI (Strong/Moderate)
 - If BOTH typical AND extraesophageal symptoms: BID PPI for 8–12 weeks (Conditional/Low)

@@ -22,10 +22,12 @@ GIM affects approximately 5% of the US population. Prevalence is higher in high-
 ### Severity Assessment
 
 **OLGA/OLGIM staging** (operative link for gastric atrophy/intestinal metaplasia): combines extent (antrum vs. corpus) and severity:
+
 - OLGA/OLGIM Stage I–II: low risk
 - OLGA/OLGIM Stage III–IV: high risk; increased gastric cancer risk; may trigger surveillance in some guidelines
 
 **GIM extent and type:**
+
 - **Limited GIM:** antrum only → lower risk
 - **Extensive (corpus-involving) GIM:** ~2-fold increased GC risk vs. limited
 - **Complete-type (type I):** small intestinal phenotype; lower risk
@@ -58,20 +60,24 @@ GIM affects approximately 5% of the US population. Prevalence is higher in high-
 ## Diagnostics
 
 ### Biopsy Protocol
+
 - **Sydney protocol** (minimum): 2 antrum biopsies (greater and lesser curvature), 2 corpus/body biopsies (greater and lesser curvature), 1 incisura angularis
 - Report should include: presence/absence of GIM, H. pylori status (active or inactive infection), extent of atrophy and metaplasia
 
 ### H. pylori Testing
+
 - Test all patients with GIM for H. pylori (Strong/Moderate, AGA 2020)
 - Methods: urea breath test or stool antigen test (not serology, which cannot distinguish active from past infection)
 - If positive → treat (see [[helicobacter-pylori-infection]] for eradication regimens)
 
 ### Serum Markers
+
 - **Pepsinogen I/II ratio** (<3): marker of corpus atrophy; lower ratio correlates with higher GC risk; not widely used in US practice
 - **Serum anti-parietal cell antibodies** and **intrinsic factor antibodies**: if autoimmune gastritis suspected
 - **H. pylori serology** (IgG): useful for past infection documentation; not for active infection status
 
 ### Enhanced Imaging
+
 - NBI or chromoendoscopy improves detection of GIM distribution but not required for diagnosis
 - Mapping biopsies when extensive/corpus GIM documented helps OLGA/OLGIM staging
 
@@ -82,6 +88,7 @@ GIM affects approximately 5% of the US population. Prevalence is higher in high-
 ### 1. H. pylori Eradication (All GIM Patients)
 
 **Strong recommendation, Moderate evidence (AGA 2020):**
+
 - H. pylori eradication in GIM patients → pooled RR 0.68 (32% reduction) in GC incidence; RR 0.67 in GC mortality
 - Test all GIM patients; treat if positive
 - Refer to [[helicobacter-pylori-infection]] for current eradication regimens (clarithromycin triple therapy if local resistance <15%; bismuth quadruple therapy or rifabutin triple for penicillin allergy or after first failure)
@@ -98,15 +105,18 @@ GIM affects approximately 5% of the US population. Prevalence is higher in high-
 | **ESGE** | Surveillance at 3 years for high-risk GIM (incomplete-type, extensive, family history) |
 
 **Practical approach (incorporating all guidelines):**
+
 - ALL patients: test and treat H. pylori
 - **Low-risk GIM** (limited, complete-type, no family history, low-risk ethnicity): No routine surveillance; follow up with H. pylori eradication confirmation
 - **High-risk GIM** (any of: incomplete-type, extensive/corpus-involving, OLGA/OLGIM III/IV, family history of GC, high-risk ethnicity/immigrant from high-incidence region): Shared decision-making for surveillance; if proceeding, EGD every 3 years with Sydney protocol biopsies
 
 ### 3. Monitoring After H. pylori Eradication
+
 - Confirm eradication with urea breath test or stool antigen test ≥4 weeks after completing treatment and ≥2 weeks after stopping PPIs
 - GIM may not regress after eradication but progression risk is reduced; surveillance decisions remain as above
 
 ### 4. No Proven Chemopreventive Agents
+
 - COX-2 inhibitors, selenium, antioxidants: not recommended; insufficient evidence for GIM regression or GC prevention outside H. pylori eradication
 
 ---

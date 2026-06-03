@@ -17,6 +17,7 @@ Supplementary best practice guidance from AGA 2024 Clinical Practice Update. [[a
 ## Indications (Appropriate — >95% of EGDs should have a documented indication)
 
 **Evaluate/manage:**
+
 - Dysphagia, odynophagia
 - GERD symptoms (alarm features or refractory)
 - Upper abdominal symptoms (dyspepsia, nausea/vomiting)
@@ -24,11 +25,13 @@ Supplementary best practice guidance from AGA 2024 Clinical Practice Update. [[a
 - Evaluation for gastric cancer / GPMC in high-risk patients
 
 **Screening/surveillance:**
+
 - Barrett's esophagus (BE) surveillance
 - GPMC surveillance
 - Celiac disease confirmation
 
 **Therapeutic:**
+
 - Hemostasis (UGIB)
 - Dilation (strictures)
 - EMR/ESD for dysplasia (EoE, BE, early GC)
@@ -140,6 +143,7 @@ Document all of: esophagus, GEJ (antegrade), gastric cardia/fundus (retroflexed)
 ### Photodocumentation Standard — AGA Minimum Set (BPA 6)
 
 AGA minimum photodocumentation for average-risk patients (at least 1 image per station):
+
 1. Lower esophagus/cardia with SCJ and GEJ visible
 2. GEJ/fundus in retroflexed view
 3. Body and antrum in anterograde view
@@ -162,10 +166,12 @@ More rigorous documentation is recommended for Barrett's esophagus, gastric inte
 ### Biopsy Protocols — AGA 2024 (BPA 7)
 
 #### Eosinophilic Esophagitis
+
 - ≥6 biopsies total from distal AND mid/proximal esophagus
 - ~5–10% of EoE patients have endoscopically normal-appearing esophagus
 
 #### Barrett's Esophagus (Seattle Protocol)
+
 - 4-quadrant biopsies every **1–2 cm** of Barrett's segment + targeted biopsies of mucosal abnormalities
 - ≥8 biopsies significantly improves diagnostic yield, even for 1–2 cm segments
 - Avoid routine biopsy of a normal or irregular Z-line
@@ -173,12 +179,14 @@ More rigorous documentation is recommended for Barrett's esophagus, gastric inte
 - Suspicious areas: photodocument with annotations, biopsy separately
 
 #### Dyspepsia / H. pylori Evaluation
+
 - 5 biopsies: greater and lesser curve of gastric body, incisura, greater and lesser curve of antrum
 - Place in 2 labeled jars: body | antrum/incisura
 - Gastric body biopsies are especially important in PPI or PCAB users (H. pylori migrates proximally)
 - No role for routine esophageal or duodenal biopsies in dyspepsia evaluation
 
 #### Gastric Preneoplasia — Updated Sydney System
+
 - ≥5 biopsies:
   - 2 antrum specimens (within 2–3 cm of pylorus, lesser and greater curvature)
   - 1 incisura angularis
@@ -187,20 +195,24 @@ More rigorous documentation is recommended for Barrett's esophagus, gastric inte
 - Request **histologic subtyping** of gastric intestinal metaplasia (improves prognostic value)
 
 #### Peptic Ulcer Disease
+
 - **Gastric ulcers:** Biopsy base and edges; biopsy remainder of stomach for H. pylori; may individualize in very low-risk patients (e.g., young non-Hispanic white, NSAID use, shallow flat ulcer)
 - **Duodenal ulcers:** Routine biopsy not necessary
 
 #### Gastric Polyps
+
 - Solitary polyp: biopsy or preferably resect for definitive histology
 - Multiple polyps: resect largest polyp(s); representative samples from remaining
 
 #### Celiac Disease (Suspected or Established)
+
 - ≥4 biopsies from postbulbar duodenum + 1–2 from duodenal bulb
 - Place bulb specimens in a separate container
 - Bulb biopsies increase sensitivity but may reduce specificity (normal histologic variation in bulb)
 - ~1/3 of celiac patients have normal endoscopic appearance
 
 #### Iron-Deficiency Anemia — AGA Position
+
 - **Celiac workup:** Serologic testing first; duodenal biopsy only if serology positive (cost-effective; differs from some international guidelines that recommend routine biopsy at endoscopy)
 - **H. pylori:** Noninvasive testing preferred (stool antigen); gastric biopsies for H. pylori not routinely recommended in IDA without endoscopic findings (except in high-risk scenarios, e.g., family history of gastric cancer)
 
@@ -215,6 +227,7 @@ More rigorous documentation is recommended for Barrett's esophagus, gastric inte
 ---
 
 ## See Also
+
 - [[acg-2025-egd-quality]] — ACG/ASGE 2025 quality indicator document (with quantitative targets)
 - [[aga-2024-upper-endoscopy-quality]] — AGA 2024 CPU expert review (best practice advice)
 - [[gastric-premalignant-conditions]] — GPMC disease script

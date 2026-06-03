@@ -8,6 +8,7 @@ sources: []
 ---
 
 ## Bibliographic Info
+
 - **Authors:** Chey WD, Howden CW, Moss SF, Wu J, Vakil N
 - **Year:** 2024
 - **Journal/Publisher:** American Journal of Gastroenterology 2024;119:1730–1753
@@ -24,6 +25,7 @@ Susceptibility-guided therapy is strongly advocated before using clarithromycin-
 ## Key Findings / Claims
 
 **Major paradigm shift from 2017:**
+
 - Clarithromycin triple therapy (PPI + CLR + amoxicillin): **no longer recommended empirically in the US** (national CLR resistance now >15%)
 - BQT upgraded to **Strong recommendation** as empiric first-line therapy
 
@@ -41,12 +43,14 @@ Susceptibility-guided therapy is strongly advocated before using clarithromycin-
 - **Levofloxacin-based regimens:** only with confirmed levofloxacin susceptibility
 
 **PCAB (vonoprazan) vs. PPI:**
+
 - Vonoprazan provides faster, deeper, more sustained acid suppression (pH >6 for longer)
 - Superior to PPIs as component of clarithromycin-based triple therapy (FDA approval: PHALCON-HP trial)
 - Vonoprazan dual therapy (without clarithromycin) achieves ~80–84% eradication; avoids clarithromycin exposure
 - FDA-approved: vonoprazan (Voquezna) + amoxicillin ± clarithromycin, 2022
 
 **Susceptibility testing:**
+
 - Strongly recommended before using clarithromycin- or levofloxacin-based regimens
 - Culture: gold standard; requires endoscopic biopsy, technically demanding
 - Molecular testing (PCR): detects resistance mutations (CLR: 23S rRNA; LVX: gyrA); increasing availability
@@ -61,12 +65,14 @@ Susceptibility-guided therapy is strongly advocated before using clarithromycin-
 | Two prior failures | Susceptibility testing mandatory; rifabutin triple |
 
 **Post-treatment confirmation:**
+
 - Confirm eradication in **all** patients
 - UBT or stool antigen test (monoclonal antibody-based)
 - Test ≥4 weeks after completing antibiotics; ≥2 weeks after stopping PPI/PCAB
 - Serology: NOT for confirmation (cannot distinguish active from past infection)
 
 **Test-and-treat:**
+
 - Maintained as strategy for uninvestigated dyspepsia (<55 years, no alarm features): non-invasive testing then treat if positive
 - All patients with PUD, gastric MALT lymphoma, after endoscopic resection of early gastric cancer: test and treat
 

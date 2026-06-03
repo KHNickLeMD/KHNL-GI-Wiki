@@ -12,6 +12,7 @@ sources: [acg-2016-acute-diarrhea]
 *Entamoeba histolytica* is the causative agent of amebic dysentery and amebic liver abscess. It must be distinguished from the morphologically identical but non-pathogenic *E. dispar*. A cause of travelers' diarrhea, particularly in developing regions. [[acg-2016-acute-diarrhea]]
 
 ## Key Points (ACG 2016)
+
 - **Clinical presentation:** Bloody diarrhea (amebic dysentery), abdominal pain/cramps, tenesmus; risk of amebic liver abscess.
 - **Diagnosis:** Microscopy cannot reliably distinguish *E. histolytica* from *E. dispar*; antigen-based EIA or PCR required for species-level identification. Multiplex PCR panels now available.
 - **Treatment:**

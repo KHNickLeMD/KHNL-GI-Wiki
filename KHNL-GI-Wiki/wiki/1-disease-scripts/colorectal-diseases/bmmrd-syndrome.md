@@ -20,6 +20,7 @@ Unlike [[lynch-syndrome]], which is caused by monoallelic MMR mutations and requ
 **PMS2 biallelic mutations are the most common cause**, complicated by 20 PMS2 pseudogenes in the human genome that can obscure true mutations on standard sequencing. MSH6 biallelic mutations are also over-represented compared to LS.
 
 **Clinical clues to suspect BMMRD** [[usmstf-2017-bmmrd]]:
+
 - Child or young adult with a Lynch syndrome-type cancer (CRC, small bowel, ureter, endometrial, etc.)
 - Child or young adult with colonic adenomatous polyposis not explained by FAP or MAP
 - Any child or young adult with cancer plus: parental consanguinity, café-au-lait macules, or features mimicking neurofibromatosis type 1 (NF1) not explained by confirmed NF1 germline mutation
@@ -61,6 +62,7 @@ The rate of adenoma-to-cancer progression in BMMRD is the most rapid of any inhe
 ### Classification / Typing
 
 BMMRD is classified by the causative gene (all autosomal recessive):
+
 - **PMS2**: most common BMMRD genotype; low heterozygous penetrance means parents are often undiagnosed LS carriers; 20 pseudogenes complicate molecular testing
 - **MSH6**: second most common in BMMRD; later-onset LS in heterozygous parents
 - **MLH1**: rarer in BMMRD; early and severe phenotype; homozygous MLH1 mutations may be embryonic lethal in some contexts
@@ -82,24 +84,29 @@ BMMRD is classified by the causative gene (all autosomal recessive):
 ## Diagnostics
 
 ### Key Diagnostic Challenge: MMR IHC Interpretation
+
 In BMMRD, **all tissues lack MMR protein expression**, unlike in LS where MMR protein is lost only in tumor tissue. This means:
+
 - Standard tumor IHC will show MMR protein loss — but this pattern alone cannot distinguish BMMRD from LS
 - The **diagnostic clue is MMR protein loss in normal (non-neoplastic) tissue** alongside tumor tissue — a pattern not seen in LS
 - Standard MSI testing may be **falsely negative** in BMMRD because the hypermutated phenotype is so extreme (POLE/POLD1 mutations generate ultra-hypermutation with frameshift patterns distinct from classic MSI)
 
 ### Germline Testing
+
 - Sequencing and deletion/duplication analysis of all four MMR genes (MLH1, MSH2, MSH6, PMS2) — biallelic mutations must be confirmed (both alleles affected)
 - PMS2 testing requires specialized assays designed to distinguish true PMS2 from its 20 pseudogenes
 - Variants of unknown significance (VUS) are common in MMR genes — functional assays (lymphocyte tolerance to methylating agents, mutation signatures) may be needed
 - Parental testing confirms both parents are obligate heterozygous LS carriers
 
 ### Tumor Molecular Features
+
 - **Ultra-hypermutation**: BMMRD tumors often acquire somatic POLE/POLD1 mutations → extremely high mutational burden
 - **MSI**: may be absent or atypical on standard PCR-based MSI testing
 - **IHC**: MMR protein absent in tumor AND normal tissue (key distinction from LS)
 - Driver genes: TGFβR2 and ACVR2A commonly mutated (single base-pair deletions at mononucleotide repeats leading to frameshift mutations in coding exons)
 
 ### Other Tests
+
 - **CBC with differential**: hematologic malignancy screening (q6 months from age 1)
 - **Brain MRI**: high-grade glioma screening (q6 months from age 2)
 - **Upper endoscopy and video capsule endoscopy (VCE)**: small-bowel cancer surveillance (annually from age 8); hemoglobin monitoring every 6 months

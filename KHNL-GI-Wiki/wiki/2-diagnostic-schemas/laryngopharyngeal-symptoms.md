@@ -16,6 +16,7 @@ sources: [san-diego-2025-lprd]
 **Critical distinction:** LPS ≠ LPRD. Approximately 60% of patients historically diagnosed with "LPR" have normal ambulatory reflux monitoring on objective evaluation. Only ~35% of LPS patients have objective LPRD when formally tested.
 
 **Recognized LPS** (San Diego Consensus, ≥80% agreement):
+
 - Cough (89%), regurgitation (89%), throat pain/sore throat (89%), throat clearing (86%), excess throat phlegm (82%), hoarseness/voice change (80%)
 - Globus: approaches but did not meet threshold; warrants evaluation and is often a negative predictor of reflux physiology
 - NOT recognized as LPS: tongue burning, nasal burning, post-nasal drip, halitosis, belching, dysphagia
@@ -27,10 +28,12 @@ sources: [san-diego-2025-lprd]
 LPS can be caused by multiple mechanisms — reflux is one of several:
 
 **Reflux-mediated:**
+
 - LPRD (direct laryngeal/pharyngeal acid/pepsin exposure)
 - Micro-aspiration of refluxate
 
 **Non-reflux causes (must be excluded by laryngoscopy):**
+
 - Vocal fold lesions (polyps, nodules, cysts, papilloma)
 - Keratosis, pre-malignant dysplasia, laryngeal malignancy
 - Muscle tension dysphonia (glottic closure abnormality)
@@ -40,11 +43,13 @@ LPS can be caused by multiple mechanisms — reflux is one of several:
 - Post-nasal drip (allergic/non-allergic rhinitis)
 
 **Neurogenic / behavioral mechanisms:**
+
 - Laryngeal hyperresponsiveness (laryngoresponsive phenotype)
 - Laryngeal hypervigilance / symptom-specific anxiety
 - Vagal hypersensitivity (especially in chronic cough)
 
 **Other systemic:**
+
 - ACE inhibitor-induced cough
 - Asthma / eosinophilic airway disease
 - Pulmonary causes of chronic cough
@@ -55,6 +60,7 @@ LPS can be caused by multiple mechanisms — reflux is one of several:
 ## Diagnostic Algorithm
 
 ### Step 1: Laryngoscopy
+
 - **Mandatory** to exclude non-reflux laryngeal pathology (malignancy, vocal fold lesions, vascular lesions)
 - If hoarseness is not explained by white-light flexible laryngoscopy → add **videostroboscopy** to assess vibratory parameters (symmetry, amplitude, mucosal wave, glottic closure)
 - Do NOT use Reflux Finding Score (RFS) or Reflux Sign Assessment (RSA) to diagnose LPRD — suboptimal specificity
@@ -65,18 +71,21 @@ LPS can be caused by multiple mechanisms — reflux is one of several:
 **Bifurcation point:** The algorithm differs based on whether heartburn, regurgitation, or esophageal chest pain are present alongside LPS.
 
 #### Branch A: LPS + Concurrent Esophageal Reflux Symptoms
+
 1. **Empiric trial:** PPI BID × 3 months + alginate therapy (4×/day: after meals + bedtime) + lifestyle modification
    - Lifestyle: weight loss, upright posture 2–3h post-meals, head of bed elevation, left lateral sleep, avoid triggers
 2. **If responsive:** Confirms LPRD contribution; consider long-term management with objective testing before permanent therapy
 3. **If unresponsive:** Proceed to esophageal evaluation (EGD + ambulatory reflux monitoring)
 
 #### Branch B: Isolated LPS (No Esophageal Symptoms)
+
 1. **Do NOT** initiate empiric acid suppression — pre-test probability of GERD is low
 2. Proceed directly to **esophageal evaluation**
 
 ### Step 3: Esophageal Evaluation
 
 **Upper GI endoscopy (EGD):**
+
 - Conclusive GERD evidence: LA grade B, C, D esophagitis or biopsy-proven Barrett's esophagus
 - Adjunctive evidence: hiatal hernia, disrupted EGJ
 - Up to 47% of LPS patients have erosive findings and/or hiatal hernia on EGD
@@ -84,6 +93,7 @@ LPS can be caused by multiple mechanisms — reflux is one of several:
 - If endoscopy is non-diagnostic for GERD → proceed to ambulatory reflux monitoring
 
 **Ambulatory reflux monitoring (reference standard for LPRD):**
+
 - Perform OFF acid suppression in patients with unproven GERD
 - Required before invasive (endoscopic or surgical) anti-reflux management
 
@@ -96,6 +106,7 @@ LPS can be caused by multiple mechanisms — reflux is one of several:
 **AET thresholds:** >6.0% = proven GERD; <4.0% = physiologic; 4.0–6.0% = indeterminate (consider symptoms, impedance)
 
 ### Step 4: Address Laryngeal Hyperresponsiveness / Hypervigilance
+
 - Even in confirmed LPRD, laryngeal hyperresponsiveness and hypervigilance frequently co-exist and drive symptom persistence
 - Use the **Laryngeal Cognitive Affective Tool (LCAT)** to identify candidates
 - These components do not respond to anti-reflux therapy alone — require behavioral intervention
@@ -129,17 +140,20 @@ LPS can be caused by multiple mechanisms — reflux is one of several:
 ## Treatment Framework
 
 ### Anti-reflux Therapy
+
 - Indicated only when LPRD is confirmed (objective testing) or when esophageal symptoms are present
 - BID PPI × 3 months ± alginate therapy (first-line trial)
 - PCABs (potassium-competitive acid blockers): emerging alternative to PPI for acid suppression
 - Do not escalate to invasive (endoscopic or surgical) anti-reflux management without objective GERD confirmation
 
 ### Behavioral Therapy
+
 - **Laryngeal Recalibration Therapy (LRT):** voice-specialized SLP; combines voice therapy, heart rate variability biofeedback, acceptance/commitment therapy
 - **Cognitive behavioral therapy (CBT):** health psychologist with upper GI/laryngeal specialization; for persistent hypervigilance/anxiety not responding to LRT
 - Effective in LPS with and without confirmed LPRD
 
 ### Neuromodulators
+
 - **Gabapentin/pregabalin:** best evidence for chronic cough via vagal hypersensitivity
 - **TCAs:** caution — anticholinergic side effects may worsen LPS (dry mouth, reduced mucosal clearance)
 - **SSRIs/SNRIs:** consider when concomitant anxiety or depression is present

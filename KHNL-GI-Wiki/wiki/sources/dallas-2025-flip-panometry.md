@@ -8,6 +8,7 @@ sources: []
 ---
 
 ## Bibliographic Info
+
 - **Authors:** Carlson DA, Pandolfino JE, Yadlapati R, Vela MF, Abrahão L Jr, Aziz Q, Babaei A, Bredenoord AJ, Cisternas D, Compean DG, Coss-Adame E, Costilla VC, Crowell MD, Fischella PM, Gyawali CP, Jadcherla SR, Johansson J, Kahrilas PJ, Keller J, Mack T, Maddela C, Mittal R, Quigley EMM, Rao SSC, Roman S, Sarr MG, Tatum R, Tolone S, Zerbib F, Simren M (19 voting experts plus co-authors)
 - **Year:** 2025
 - **Journal/Publisher:** Gastroenterology 2025;168:1114–1127
@@ -26,6 +27,7 @@ Key clinical applications are established by large evidence bases: a Normal FLIP
 ## Key Findings / Claims
 
 **Standardized FLIP Protocol:**
+
 - 16-cm EndoFLIP catheter
 - Stepwise inflation: 50 mL → 60 mL → 70 mL (≥30 seconds at each volume)
 - Sensor positioning: ≥2 impedance sensors below the crural diaphragm at all distension volumes
@@ -75,6 +77,7 @@ Key clinical applications are established by large evidence bases: a Normal FLIP
 | Normal FLIP (NPV) | — | NPV >90% for major obstruction or spasm |
 
 **Clinical Application Rules:**
+
 - Normal FLIP at adequate distension (70 mL) effectively excludes achalasia and major obstructive motor disorders
 - REO with Absent/Diminished CR (Non-spastic Obstruction) = functionally equivalent to manometric EGJOO; warrants same workup/treatment pathway
 - REO with Normal CR (Obstruction with Normal Contractility) suggests mechanical obstruction (e.g., tight wrap post-fundoplication, ring/web) rather than primary motor disorder
@@ -82,6 +85,7 @@ Key clinical applications are established by large evidence bases: a Normal FLIP
 - Spastic classifications (Possible Spasm, Spastic Obstruction) correlate with spastic motor patterns on HRM (DES, jackhammer) but clinical significance requires correlation
 
 **Protocol Modifications from v1.0:**
+
 - Spastic CR: RRC removed as defining criterion; SOCs and sustained LES contractions retained
 - Pressure threshold added: 60 mL pressure <40 mmHg = Diminished CR; ≥40 mmHg = Disordered CR
 - Max diameter threshold for NEO raised to ≥16 mm (from ≥12 mm in some prior formulations)

@@ -12,6 +12,7 @@ sources: [usmstf-2020-followup-colonoscopy, usmstf-2021-crc-screening-age, usmst
 ---
 
 ## Indications
+
 - CRC screening (average risk: start at 45–50)
 - Positive non-colonoscopy screening test (FIT, Cologuard, FOBT, flexible sig)
 - Surveillance after prior polypectomy or CRC resection
@@ -21,6 +22,7 @@ sources: [usmstf-2020-followup-colonoscopy, usmstf-2021-crc-screening-age, usmst
 ---
 
 ## Quality Metrics
+
 All surveillance recommendations assume high-quality examination. [[usmstf-2020-followup-colonoscopy]]
 
 - **ADR:** ≥30% men, ≥20% women; colonoscopist-level benchmark
@@ -32,6 +34,7 @@ All surveillance recommendations assume high-quality examination. [[usmstf-2020-
 ---
 
 ## CRC Screening — When to Start and Stop
+
 [[usmstf-2021-crc-screening-age]]
 
 | Age | Recommendation | Strength |
@@ -45,10 +48,12 @@ All surveillance recommendations assume high-quality examination. [[usmstf-2020-
 **Average risk** = no personal/family history of CRC or colorectal neoplasia, no IBD, no hereditary syndrome
 
 **Preferred tests (Tier 1):**
+
 - Colonoscopy every 10 years
 - Annual FIT
 
 **Acceptable alternatives:**
+
 - FIT–fecal DNA (Cologuard) q3y
 - CT colonography q5y
 - Flexible sigmoidoscopy q5–10y
@@ -56,6 +61,7 @@ All surveillance recommendations assume high-quality examination. [[usmstf-2020-
 ---
 
 ## Post-Polypectomy Surveillance
+
 All intervals assume high-quality colonoscopy with complete polypectomy. [[usmstf-2020-followup-colonoscopy]]
 
 Does NOT apply to: IBD, hereditary syndromes (Lynch, FAP), personal history of CRC, serrated polyposis syndrome, malignant polyp.
@@ -124,6 +130,7 @@ For detailed technique, see [[polypectomy-emr]].
 ---
 
 ## Complications
+
 - **Perforation:** ~1:1000; right colon highest risk with EMR/ESD
 - **Post-polypectomy bleeding:** immediate or delayed (up to 30d); risk higher with large lesions, right colon, antithrombotics
 - **Coagulation syndrome (post-polypectomy syndrome):** fever, localized pain without free air — manage conservatively
@@ -132,6 +139,7 @@ For detailed technique, see [[polypectomy-emr]].
 ---
 
 ## Bowel Preparation
+
 [[usmstf-2025-bowel-prep]]
 
 **Definition:** Adequate = standard screening/surveillance intervals can be assigned based on colonoscopy findings (assessed after all washing/suctioning completed).
@@ -153,6 +161,7 @@ For detailed technique, see [[polypectomy-emr]].
 **Against:** Hyperosmotic agents in volume overload/electrolyte disturbance risk (Strong/High); non-simethicone adjuncts routinely (Weak/Low).
 
 ### GLP-1 Receptor Agonists
+
 [[acg-2025-bowel-prep]]
 
 GLP-1 receptor agonists (semaglutide, liraglutide, tirzepatide, etc.) delay gastric emptying and are associated with increased aspiration risk during procedural sedation. The guideline groups them with gastroparesis for prep-adequacy risk stratification (OR ~1.6).
@@ -181,6 +190,7 @@ GLP-1 receptor agonists (semaglutide, liraglutide, tirzepatide, etc.) delay gast
 ---
 
 ## Post-CRC Resection Surveillance
+
 [[usmstf-2015-crc-surveillance]]
 
 > Applies to patients after curative-intent resection of colon or rectal cancer (TNM stages I–III). Does NOT apply to [[lynch-syndrome]], [[familial-adenomatous-polyposis]], [[serrated-polyposis-syndrome]], or other hereditary CRC syndromes — those require their own syndrome-specific intervals.
@@ -211,6 +221,7 @@ A "high-quality" colonoscopy in this context requires: cecum/anastomosis reached
 - Cumulative metachronous CRC risk ~0.3–0.35%/year, lifelong; ~30% of metachronous cancers occur within 2 years of surgery
 
 ### Rectal Cancer Additional Local Surveillance (High-Risk Patients)
+
 **Weak recommendation, low-quality evidence**
 
 High-risk = any of: surgery without TME; transanal local excision (TAE or TEM); ESD for rectal cancer; locally advanced rectal cancer without neoadjuvant chemoradiation + TME.
@@ -220,15 +231,18 @@ High-risk = any of: surgery without TME; transanal local excision (TAE or TEM); 
 - Multidisciplinary collaboration required (GI, colorectal surgery, oncology)
 
 ### Fecal Testing Post-Resection
+
 - **Insufficient evidence** to recommend routine FIT or fecal DNA after CRC resection — do not use as substitute for colonoscopic surveillance
 
 ### Serrated Polyposis Syndrome (SPS) Consideration
+
 - [[serrated-polyposis-syndrome]] is the most common polyp syndrome; often recognized at perioperative clearing colonoscopy
 - SPS patients with CRC require more frequent colonoscopy intervals per SPS-specific guidelines, not the standard post-resection schedule above
 
 ---
 
 ## See Also
+
 - [[colorectal-cancer]] — full post-resection surveillance section with rectal cancer algorithm
 - [[polypectomy-emr]]
 - [[lynch-syndrome]]

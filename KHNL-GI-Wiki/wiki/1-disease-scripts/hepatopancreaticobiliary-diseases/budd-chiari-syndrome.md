@@ -14,11 +14,13 @@ sources: [acg-2020-hepatic-mesenteric-circulation]
 Budd-Chiari syndrome (BCS) is defined by obstruction of hepatic venous outflow, which may occur at the level of the hepatic venules, hepatic veins, or the suprahepatic inferior vena cava (IVC). The obstruction causes sinusoidal congestion, centrilobular necrosis, and ultimately portal hypertension and hepatic failure if untreated.
 
 **Presentation** [[acg-2020-hepatic-mesenteric-circulation]]:
+
 - **Acute BCS**: sudden-onset right upper quadrant or epigastric pain, hepatomegaly, rapidly progressive ascites, and jaundice; fulminant hepatic failure in ~20%
 - **Subacute BCS**: weeks to months course; abdominal discomfort, ascites, splenomegaly, gradual hepatic dysfunction
 - **Chronic BCS**: cirrhosis, established portal hypertension, relatively compensated; caudate lobe hypertrophy (drains directly into IVC) is characteristic
 
 **Key diagnostic features:**
+
 - Caudate lobe hypertrophy (spares caudate because it has separate hepatic veins draining directly to IVC)
 - Absent or reversed hepatic venous flow on Doppler
 - Characteristic "comma-shaped" or enlarged caudate lobe on cross-sectional imaging
@@ -63,10 +65,12 @@ Key predictors of poor outcome: hepatic encephalopathy, ascites refractory to me
 ## Diagnostics
 
 **Imaging (first-line)** [[acg-2020-hepatic-mesenteric-circulation]]:
+
 - **Doppler ultrasound**: first-line (Conditional, Low evidence); absent or reversed hepatic venous flow, thrombus in hepatic veins or IVC, caudate hypertrophy, collateral formation
 - **Contrast-enhanced CT** or **MRI**: definitive confirmation when Doppler inconclusive; CT portal venous phase shows thrombus; MRI superior for chronic changes; MRCP when bile duct involvement suspected (Conditional, Low evidence)
 
 **Thrombophilia workup** (required in all BCS patients):
+
 - JAK2 V617F mutation (most important — ~40%)
 - Bone marrow biopsy: even if JAK2 negative, MPN in ~50% of JAK2-negative BCS (look for clonal hematopoiesis)
 - Factor V Leiden, prothrombin G20210A

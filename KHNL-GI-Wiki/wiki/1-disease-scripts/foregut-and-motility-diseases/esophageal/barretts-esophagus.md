@@ -16,24 +16,29 @@ Barrett's esophagus (BE) is a metaplastic condition in which the normal squamous
 ### Establishing the Diagnosis
 
 **Diagnostic criteria (ACG 2022):**
+
 1. Intestinal metaplasia (IM with goblet cells) confirmed on biopsy from the tubular esophagus
 2. Columnar-lined segment of at least 1 cm in length
 
 **Why both criteria matter:**
+
 - IM is required because it confers a markedly higher risk of EAC vs columnar-lined esophagus without goblet cells (HR 3.54 in the N Ireland registry, n=8,522). Note that UK/Asia-Pacific guidelines do not require IM — this remains a point of international disagreement.
 - The 1-cm threshold reflects the poor reliability of the Prague criteria for segments <1 cm (reliability coefficient 0.22 for <1 cm vs 0.95–0.94 for ≥1 cm). No patient with an irregular Z line (<1 cm) progressed to HGD or EAC in two large cohort studies.
 
 **Do NOT biopsy:**
+
 - A normal-appearing Z line
 - A Z line with <1 cm proximal displacement from the top of the gastric folds, in the absence of visible mucosal lesions
 
 **Confirming a diagnosis — biopsy yield:**
+
 - Goblet cells are patchily distributed; a single biopsy demonstrates IM only ~34% of the time.
 - At least 8 biopsies at the index screening examination achieve ~94% yield for IM.
 - For very short segments (1–2 cm) where 8 biopsies are unobtainable: ≥4 biopsies/cm of circumferential BE + 1 biopsy/cm of tongue-like projections.
 - If prior EGD showed columnar-lined epithelium but was IM-negative, a single repeat examination is reasonable (yields IM in ≥25% of cases); further repeats are not recommended.
 
 **Endoscopic technique at diagnosis (and all subsequent exams):**
+
 - Partial desufflation to avoid flattening gastric folds (which can mimic a hiatal hernia / columnar-lined segment)
 - High-definition white light endoscopy including retroflexed view of the cardia
 - Chromoendoscopy (acetic acid or virtual/electronic chromoendoscopy such as NBI) — recommended at every examination
@@ -58,6 +63,7 @@ The key severity variable is **dysplasia grade**, which determines both cancer r
 ### Classification / Typing
 
 **Prague C&M Criteria** — the validated, standardized reporting system for BE:
+
 - **C** = circumferential extent (cm above the top of the gastric folds)
 - **M** = maximal extent (cm above the top of the gastric folds, including any tongues)
 - Example: C3M5 = 3 cm circumferential, 5 cm maximal extent
@@ -77,6 +83,7 @@ The key severity variable is **dysplasia grade**, which determines both cancer r
 **Critical caveat on LGD:** Interobserver agreement among pathologists is only 42% for LGD and 23% for IND (vs 79% for NDBE and 71% for HGD). Community diagnosis of LGD is downstaged to IND or NDBE in 73% of cases on expert panel review. Confirmed LGD (by an expert) progresses to HGD/EAC at 9.1%/pt-year; downstaged cases progress at only 0.6–0.9%/pt-year.
 
 **Visible lesion characterization:**
+
 - Paris classification for superficial neoplasia: 0-I (polypoid), 0-IIa/b/c (flat), 0-III (excavated/ulcerated)
 - Paris 0-I and 0-IIc have higher rates of submucosal invasion
 - Paris 0-III (deep ulceration) suggests deep submucosal invasion — less suitable for endoscopic resection
@@ -99,6 +106,7 @@ The key severity variable is **dysplasia grade**, which determines both cancer r
 ### Initial Endoscopic Evaluation
 
 **Required landmarks to document (endoscopy report):**
+
 1. Location of the diaphragmatic hiatus
 2. Top of the gastric folds (= GEJ)
 3. Squamocolumnar junction (= Z line)
@@ -106,6 +114,7 @@ The key severity variable is **dysplasia grade**, which determines both cancer r
 5. Description of any visible mucosal abnormalities (Paris classification)
 
 **Ten-step high-quality BE examination:**
+
 1. Identify landmarks (hiatus, GEJ, SCJ)
 2. Consider distal attachment cap (especially with prior dysplasia)
 3. Clean mucosa thoroughly with water jet; suction fluid
@@ -120,15 +129,18 @@ The key severity variable is **dysplasia grade**, which determines both cancer r
 ### Biopsy Protocols
 
 **Screening / diagnostic examination:**
+
 - Minimum 8 biopsies for any suspected BE segment
 - Seattle protocol for segments >4 cm: 4-quadrant biopsies every 2 cm from LES to SCJ, plus targeted biopsies of any visible lesions
 
 **Surveillance examination (NDBE):**
+
 - Seattle protocol: 4-quadrant biopsies every 1–2 cm throughout the BE segment
 - Targeted biopsies of any mucosal abnormalities (before random biopsies)
 - Do NOT substitute chromoendoscopy-directed targeted biopsies alone for the Seattle protocol
 
 **Post-CEIM surveillance:**
+
 - 4-quadrant biopsies from the high cardia just below the Z line (in a separate bottle)
 - 4-quadrant biopsies from each of the distal 2–3 cm of neosquamous epithelium (in a separate bottle)
 - Random biopsies above this range have very low additional yield for buried IM or dysplasia
@@ -153,6 +165,7 @@ The key severity variable is **dysplasia grade**, which determines both cancer r
 ### Screening (Who Should Be Screened)
 
 **Recommend single screening [[upper-endoscopy]] for:**
+
 - Chronic GERD symptoms (weekly for ≥5 years) PLUS ≥3 of the following risk factors:
   - Male sex
   - Age >50 years
@@ -162,6 +175,7 @@ The key severity variable is **dysplasia grade**, which determines both cancer r
   - First-degree family history of BE or EAC
 
 **Alternative screening modality (acceptable):**
+
 - Swallowable nonendoscopic capsule sponge device (Cytosponge, EsophaCap, EsoCheck) combined with a biomarker (TFF3 or methylated DNA markers)
 - Sensitivity 80–94%, specificity 62–94% across devices (enriched case-control populations)
 - Office-administered, no sedation required; appropriate for high-risk patients who decline endoscopy
@@ -173,22 +187,26 @@ The key severity variable is **dysplasia grade**, which determines both cancer r
 ### Medical Therapy / Chemoprevention
 
 **Acid suppression:**
+
 - PPI at least once daily for all BE patients without contraindication (conditional recommendation)
 - Reduces HGD/EAC risk by approximately 71% in observational meta-analyses (adjusted OR 0.29)
 - Higher-dose (twice daily) PPI considered for patients with ongoing reflux symptoms or persistent acid exposure on testing
 - Long-term PPI safety is generally reassuring; statistically significant but clinically small risk of enteric infections (OR 1.33, NNH >900/yr)
 
 **Aspirin / NSAIDs:**
+
 - No recommendation on ASA + PPI combination for chemoprevention (AspECT trial: high-dose PPI superior but ASA benefit uncertain; cancer-specific outcomes not significantly improved)
 - Many BE patients will take ASA for cardiac indications — this is not a contraindication
 
 **Antireflux surgery:**
+
 - NOT recommended as antineoplastic therapy in BE
 - Laparoscopic fundoplication does not convincingly reduce neoplastic progression vs medical therapy; incurs procedural risks
 
 ### Surveillance Intervals
 
 **All surveillance examinations must include:**
+
 - High-definition white light endoscopy
 - Chromoendoscopy (acetic acid or virtual/electronic)
 - Seattle protocol biopsy (or adapted protocol)
@@ -202,6 +220,7 @@ The key severity variable is **dysplasia grade**, which determines both cancer r
 | NDBE, M ≥3 cm | Every 3 years |
 
 **IND (Indefinite for Dysplasia):**
+
 1. Confirm with expert GI pathologist
 2. Intensify PPI to twice daily
 3. Repeat EGD in 6 months
@@ -210,6 +229,7 @@ The key severity variable is **dysplasia grade**, which determines both cancer r
    - If persistent IND: EGD annually
 
 **Confirmed LGD — Surveillance pathway (alternative to EET):**
+
 - EGD at 6 months from diagnosis
 - EGD at 12 months from diagnosis
 - EGD annually thereafter (as long as LGD persists)
@@ -222,6 +242,7 @@ The key severity variable is **dysplasia grade**, which determines both cancer r
 ### Endoscopic Eradication Therapy (EET)
 
 **Indications:**
+
 | Indication | Strength |
 |---|---|
 | HGD | Strong recommendation (EET preferred over esophagectomy) |
@@ -229,23 +250,27 @@ The key severity variable is **dysplasia grade**, which determines both cancer r
 | Confirmed LGD | Conditional recommendation (EET preferred over surveillance; shared decision making) |
 
 **Contraindications / factors favoring esophagectomy:**
+
 - T1b EAC with submucosal invasion >500 µm (sm2/sm3)
 - Lymphovascular invasion
 - Poor differentiation (poorly differentiated)
 - Patient is not a candidate for endoscopic follow-up
 
 **EET Goals (primary endpoints):**
+
 - **CED** = Complete Eradication of Dysplasia (target: achieved within 18 months in ≥80% of patients)
 - **CEIM** = Complete Eradication of Intestinal Metaplasia (target: achieved within 18 months; quality indicator benchmark ≥80%)
 - Most patients achieve CEIM within 3 endoscopy sessions
 
 **Step 1 — Endoscopic Resection (ER) of any visible lesion:**
+
 - Always precedes ablation; serves both diagnostic and therapeutic purposes
 - ER upstages or downstages histology in 30–40% of cases; changes management in ~30%
 - **Multiband EMR** (preferred in most cases) or cap-assisted EMR — equivalent efficacy and safety
 - **ESD** for larger lesions (unsuitable for en bloc EMR), post-ablation scarring, or suspected submucosal invasion
 
 **Step 2 — Ablation of residual BE segment:**
+
 - **Radiofrequency Ablation (RFA)** — preferred primary ablative modality (widest RCT evidence, safety data)
   - Achieved CEIM in ~80% of patients in landmark AIM Dysplasia RCT
   - Adverse events (RFA ± EMR): overall 8.8%; stricture 5.6%, bleeding 1%, perforation 0.6%
@@ -256,11 +281,13 @@ The key severity variable is **dysplasia grade**, which determines both cancer r
   - No RCT data comparing cryotherapy vs RFA
 
 **Where to perform EET:**
+
 - High-volume centers with ≥10 new HGD/early EAC cases per endoscopist per year (ESGE threshold)
 - Volume-outcome effect demonstrated: more experience → fewer sessions to CEIM; reduced recurrence risk
 - Must have access to: expert GI pathologists, advanced imaging, EMR/ESD training, multidisciplinary team (surgery, medical oncology, radiation oncology)
 
 **EET for LGD — Evidence summary:**
+
 - SURF trial (RCT, n=136): RFA reduced HGD/EAC progression from 26.5% to 1.5% (P<0.001); EAC from 8.8% to 1.5% (P=0.03); NNT=4 for combined endpoint, NNT=13.6 for EAC
 - Meta-analysis (22 studies, n=2,746): cumulative progression at 84 months 12.6% (surveillance) vs 1.7% (RFA)
 - Persistence of LGD increases risk but is not mandatory before offering EET
@@ -273,6 +300,7 @@ CEIM defined as: 1–2 surveillance endoscopies with no visible BE and no IM on 
 **Annual IM recurrence rate after CEIM: 8.6–10.5%; dysplastic recurrence 2.0%; HGD/EAC recurrence 1.2%**
 
 **Recurrence distribution:**
+
 - 75% at the GEJ (60% are endoscopically invisible)
 - 80% of tubular esophagus recurrences are visible; 87% occur within 5 cm of the distal esophagus
 
@@ -285,6 +313,7 @@ CEIM defined as: 1–2 surveillance endoscopies with no visible BE and no IM on 
 | IMC | 3 mo → 6 mo → 12 mo → annually thereafter |
 
 **Post-CEIM biopsy protocol:**
+
 - 4-quadrant biopsies from the high cardia just below the Z line (separate container)
 - 4-quadrant biopsies from the distal 2–3 cm of neosquamous epithelium (separate container)
 - Random biopsies above 3 cm from GEJ have low additional yield

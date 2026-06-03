@@ -29,11 +29,13 @@ A management strategy for **uninvestigated dyspepsia** in which patients are tes
 ## Patient Selection (per [[acg-2017-hp-guidelines]])
 
 **Appropriate:**
+
 - Age <55 years
 - No alarm features (see below)
 - H. pylori prevalence in region >10%
 
 **Alarm features that prompt endoscopy instead:**
+
 - Unintentional weight loss
 - Progressive dysphagia
 - Odynophagia
@@ -53,6 +55,7 @@ A management strategy for **uninvestigated dyspepsia** in which patients are tes
 **Avoid serology** — cannot distinguish active from past infection; low specificity.
 
 **Pre-test requirements:**
+
 - Hold PPI ≥2 weeks before testing
 - Hold antibiotics ≥4 weeks before testing
 
@@ -66,5 +69,6 @@ A management strategy for **uninvestigated dyspepsia** in which patients are tes
 ---
 
 ## See Also
+
 - [[helicobacter-pylori-infection]]
 - [[acg-2017-hp-guidelines]]

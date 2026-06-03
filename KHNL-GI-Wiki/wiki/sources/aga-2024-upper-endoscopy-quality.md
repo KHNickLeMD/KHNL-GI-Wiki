@@ -8,10 +8,11 @@ sources: []
 ---
 
 ## Bibliographic Info
+
 - **Authors:** Satish Nagula, Sravanthi Parasa, Loren Laine, Shailja C. Shah
 - **Year:** 2024
 - **Journal/Publisher:** Clinical Gastroenterology and Hepatology 2024;22:933–943
-- **DOI:** https://doi.org/10.1016/j.cgh.2023.10.034
+- **DOI:** <https://doi.org/10.1016/j.cgh.2023.10.034>
 - **Type:** guideline (AGA Clinical Practice Update — Expert Review)
 
 ## Summary
@@ -25,17 +26,20 @@ The document provides specific biopsy protocol tables for eosinophilic esophagit
 ## Key Findings / Claims
 
 ### Preprocedure (BPA 1)
+
 - A large meta-analysis of 53,392 patients found 21.7% (95% CI, 21.4–22.1) of upper endoscopies had inappropriate indications
 - Appropriate indication associated with higher diagnostic yield (OR 1.42; 95% CI, 1.36–1.49)
 - GLP-1 receptor agonists (semaglutide, etc.) are associated with delayed gastric emptying; American Society of Anesthesiologists advises holding 1 dose before endoscopy to reduce aspiration risk
 
 ### Mucosal Visualization (BPA 2)
+
 - 10.7% (95% CI, 8.0–13.7%) of upper GI cancers are diagnosed within 3 years of a negative EGD (systematic review, n=81,184)
 - 23.9% (95% CI, 15.3–35.4%) of esophageal adenocarcinomas in nondysplastic Barrett's patients occur within 1 year of a negative EGD
 - Premedication with simethicone and pronase improves mucosal visualization in most studies; adding N-acetylcysteine to simethicone further improves visualization in some studies
 - Simethicone should be used at lowest concentration (0.5%) via working channel (not waterjet), due to biofilm risk in endoscope channels
 
 ### High-Definition and Image Enhancement Technologies (BPA 3 and 4)
+
 - HD-WLE is superior to standard-definition WLE for neoplasia detection
 - All system components (endoscope chip, processor, monitor, cables) must be HD-compatible for true HD resolution
 - Image enhancement technologies (IET): NBI (Olympus), i-Scan (PENTAX), LCI/blue laser imaging (FUJIFILM)
@@ -44,17 +48,20 @@ The document provides specific biopsy protocol tables for eosinophilic esophagit
 - LCI tandem trial: significantly lower missed upper GI neoplasia rate vs. HD-WLE (0.67% vs. 3.5%; RR 0.19; 95% CI, 0.07–0.50)
 
 ### Inspection Time (BPA 5)
+
 - Total EGD duration >7 minutes associated with increased detection of Barrett's esophagus, gastric intestinal metaplasia, and upper GI cancer
 - Barrett's esophagus: Inspection time >1 min/cm of Barrett's segment associated with higher rate of endoscopically suspicious lesions (54.2% vs. 13.3%; P=.04) and trend toward higher advanced neoplasia detection (40.2% vs. 6.7%; P=.06)
 - Singapore study (retrospective): endoscopists spending >7 min for entire EGD had 2.5-fold higher odds of detecting high-risk gastric lesions (OR 2.50; 95% CI, 1.52–4.12) and 3.4-fold higher odds of detecting neoplasia (OR 3.42; 95% CI, 1.25–10.38)
 - Japan study (n=55,786): inspection time ≥5–7 min associated with higher odds of detecting gastric neoplasia (OR 1.90; 95% CI, 1.06–3.40) vs. <5 min
 
 ### Photodocumentation (BPA 6)
+
 - Minimum required anatomic stations: lower esophagus/cardia with SCJ and GEJ, GEJ/fundus in retroflexed view, body and antrum in anterograde view, incisura in retroflexed view, distal extent in duodenum
 - ESGE recommends at least 10 landmarks; World Endoscopy Organization recommends 28
 - AGA positions minimum set as adequate for average-risk patients; more rigorous photodocumentation recommended for Barrett's esophagus, gastric intestinal metaplasia, or patients referred for endoscopic treatment
 
 ### Standardized Terminology (BPA 6 / Classification Systems)
+
 - Los Angeles classification: erosive esophagitis
 - Prague C&M criteria: Barrett's esophagus
 - Forrest classification: bleeding peptic ulcers
@@ -63,6 +70,7 @@ The document provides specific biopsy protocol tables for eosinophilic esophagit
 - Eosinophilic Esophagitis Endoscopic Reference System (EREFS); Index for Severity of EoE (I-SEE) anticipated to become new standard
 
 ### Biopsy Protocols (BPA 7)
+
 - **Eosinophilic esophagitis:** ≥6 biopsies total from distal and mid/proximal esophagus
 - **Barrett's esophagus:** Seattle protocol — 4-quadrant biopsies every 1–2 cm + targeted biopsies of mucosal abnormalities; ≥8 biopsies significantly improves diagnostic yield even in 1–2 cm segments; avoid routine biopsy of normal or irregular Z-line
 - **Dyspepsia/H. pylori:** 5 biopsies from greater and lesser curve of gastric body, incisura, greater and lesser curve of antrum; place in 2 jars (body; antrum/incisura); gastric body biopsies especially important in PPI/PCAB users due to proximal H. pylori migration
@@ -73,6 +81,7 @@ The document provides specific biopsy protocol tables for eosinophilic esophagit
 - **Iron-deficiency anemia:** AGA recommends serologic testing first; duodenal biopsy only if positive serology; H. pylori noninvasive testing (stool antigen) preferred over routine gastric biopsies
 
 ### Postprocedure (BPA 8 and 9)
+
 - Document management recommendations based on endoscopic findings
 - If recommendations contingent on histopathology (H. pylori, Barrett's, gastric intestinal metaplasia), document that guidance will be provided after results
 - Document surveillance indication and appropriate intervals; implement recall system for surveillance-due patients

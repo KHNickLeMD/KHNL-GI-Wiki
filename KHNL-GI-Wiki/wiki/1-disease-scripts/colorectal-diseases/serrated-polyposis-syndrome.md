@@ -14,6 +14,7 @@ sources: [acg-2015-hereditary-gi-cancer]
 Serrated polyposis syndrome (SPS), previously called hyperplastic polyposis syndrome, is characterized by a predisposition to serrated polyps throughout the colorectum and an increased risk of [[colorectal-cancer]] [[acg-2015-hereditary-gi-cancer]]. No clear genetic etiology has been established.
 
 **WHO diagnostic criteria (any one must be met)** [[acg-2015-hereditary-gi-cancer]]:
+
 - (i) ≥5 serrated polyps proximal to the sigmoid colon, with ≥2 of these being >10 mm in diameter; OR
 - (ii) Any number of serrated polyps proximal to the sigmoid colon in an individual who has a **first-degree relative (FDR) with SPS**; OR
 - (iii) >20 serrated polyps of any size, distributed throughout the large intestine
@@ -21,12 +22,14 @@ Serrated polyposis syndrome (SPS), previously called hyperplastic polyposis synd
 **Polyp spectrum**: Originally only hyperplastic polyps were included in the diagnostic criteria; the preferred term is now "serrated polyposis syndrome" to reflect the inclusion of sessile serrated adenomas/polyps (SSA/Ps) and traditional serrated adenomas (TSAs), in addition to hyperplastic polyps.
 
 **Epidemiology**:
+
 - True prevalence unknown; estimated 1 in 151 patients in NHS Bowel Cancer Screening Programme met SPS criteria at index colonoscopy
 - A Barcelona study found SPS prevalence of 8 in 2,355 (0.34%) in fecal immunochemical test-positive patients
 - Strong association with cigarette smoking (smoking association is well-established; may intensify phenotypic expression)
 - Mean age at diagnosis ~48 years; pancolonic distribution (89–96% of index cases)
 
 **Genetics**:
+
 - Clear genetic etiology has not been defined for SPS; routine genetic testing is NOT currently recommended
 - MUTYH biallelic mutations have been found in 3 of 17 SPS patients in one series (18%) — testing may be considered in SPS patients with concurrent adenomas and/or a family history of adenomas
 - GREM1 duplication has been described in hereditary mixed polyposis syndrome (HMPS), which may overlap with SPS
@@ -73,6 +76,7 @@ Serrated polyposis syndrome (SPS), previously called hyperplastic polyposis synd
 ### Surgical Management
 
 **Indications for surgery** [[acg-2015-hereditary-gi-cancer]] (Conditional/Low):
+
 - Inability to endoscopically control the growth of serrated polyps
 - Development of CRC
 - High-grade dysplasia in a serrated polyp that cannot be removed in its entirety

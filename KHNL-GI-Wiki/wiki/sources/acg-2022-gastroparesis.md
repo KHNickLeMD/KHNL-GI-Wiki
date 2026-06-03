@@ -8,6 +8,7 @@ sources: []
 ---
 
 ## Bibliographic Info
+
 - **Authors:** Camilleri M, Kuo B, Nguyen L, Vaughn VM, Petrey J, Greer K, Yadlapati R, Abell TL
 - **Year:** 2022
 - **Journal:** Am J Gastroenterol 2022;117:1197–1220
@@ -33,6 +34,7 @@ For management, the guideline underscores the limited FDA-approved pharmacothera
 | 5 | ¹³C-spirulina breath test is a reliable test for GP | Conditional | Low |
 
 **Scintigraphy protocol details:**
+
 - Standard meal: 255-kcal, 2% fat Egg Beaters (radiolabeled solid)
 - Imaging at 0, 1, 2, 4 hours (4-hour protocol is optimal)
 - Diagnosis of delayed GE: >10% retention at 4 hours
@@ -40,6 +42,7 @@ For management, the guideline underscores the limited FDA-approved pharmacothera
 - The test may stop at 3 hours if >90% of the solid meal has emptied
 
 **WMC vs. SGE:**
+
 - Overall agreement ~75.7% (kappa 0.42); different patterns by etiology
 - WMC detects higher proportion of delayed GE in non-diabetics (33.3% vs. 17.1%)
 - SGE detects higher proportion in diabetics (41.7% vs. 17.1%)
@@ -47,10 +50,12 @@ For management, the guideline underscores the limited FDA-approved pharmacothera
 - 45.6% of suspected GP patients have transit delays beyond the stomach on WMC
 
 **Retained gastric food on EGD:**
+
 - PPV for delayed GE = 55% overall; only 32% in patients without risk factors, 79% in type 1 DM
 - Should not be assumed diagnostic of GP; medications (opioids, cardiovascular agents, acid suppressants) are confounders
 
 **GP vs. functional dyspepsia overlap:**
+
 - 42% of patients initially diagnosed with GP and 37% with FD were reclassified on repeat SGE
 - Distinction is clinically important: FD has a better prognosis than GP
 
@@ -78,6 +83,7 @@ For management, the guideline underscores the limited FDA-approved pharmacothera
 ### Pharmacotherapy Details
 
 **Metoclopramide:**
+
 - Only FDA-approved drug for GP in the US
 - Dose used in trials: 10 mg qid (oral); intranasal formulations also studied (10 mg or 14 mg qid)
 - Duration limit: <12 weeks; not recommended in age ≥65
@@ -87,6 +93,7 @@ For management, the guideline underscores the limited FDA-approved pharmacothera
 - Intranasal formulation reduced nausea/vomiting, more effective in women than men in trials
 
 **Domperidone:**
+
 - Available in the US only under FDA expanded access (special program)
 - Dose in trials: 20 mg qid; max dose up to 80 mg/day in some studies
 - Associated with symptom improvement in IG, DG, and PSG; 4 studies document acceleration of GE
@@ -94,6 +101,7 @@ For management, the guideline underscores the limited FDA-approved pharmacothera
 - Does not share same CNS side effect profile as metoclopramide (peripheral D2 antagonist)
 
 **Erythromycin (motilin agonist):**
+
 - Short-term use: 1–4 weeks (tachyphylaxis develops)
 - IV erythromycin dramatically accelerates GE (solid meal retention at 2h: 63% → 4% in one trial)
 - Oral: 250 mg tid; some data for 500 mg tid with meals and at bedtime
@@ -101,33 +109,39 @@ For management, the guideline underscores the limited FDA-approved pharmacothera
 - Macrolide use not associated with increased arrhythmia or cardiovascular mortality in SRMA of 33 studies (22.6 million subjects)
 
 **5-HT4 agonists:**
+
 - Prucalopride 2 mg/d: improved GCSI total, all subscales, and GE T½ vs. placebo — significant benefits only in idiopathic GP subgroup (Carbone 2019)
 - Prucalopride 4 mg/d: GE faster but GCSI not significantly different from placebo (Andrews 2021)
 - Velusetrag, felcisetrag: investigational; show GE acceleration in RCTs
 - Overall: inconsistent symptom improvement data; conditionally recommended to improve GE
 
 **Antiemetics:**
+
 - Improve symptoms but do NOT accelerate GE
 - Examples used: ondansetron, promethazine, aprepitant
 - Tradipitant (NK1 antagonist) 85 mg bid: significant decrease in nausea score vs. placebo in RCT (Carlin 2021)
 - Patient-reported most effective agents: marijuana, ondansetron, promethazine
 
 **Central neuromodulators:**
+
 - Nortriptyline (up to 75 mg) vs. placebo in 130 IG patients: no difference in primary outcome; more dropouts in nortriptyline arm (29% vs. 9%)
 - NOT recommended (Strong recommendation, Moderate evidence)
 
 ### Pyloric Interventions
 
 **EndoFLIP [[flip-panometry]]:**
+
 - Reduced pyloric distensibility (DI <10 mm²/mm Hg) correlates with greater gastric retention
 - Predicts response to pyloric therapy; post-G-POEM DI increase correlates with clinical success
 - Baseline DI threshold of 9.2 mm²/mm Hg: 100% specificity, 72.2% sensitivity for G-POEM success in one study
 
 **Intrapyloric botulinum toxin (BTX):**
+
 - NOT recommended based on 2 negative RCTs
 - May benefit a subset with documented reduced pyloric distensibility (observational French multicenter data), but this is not sufficient to overcome negative RCT evidence
 
 **G-POEM (gastric per-oral endoscopic myotomy):**
+
 - Open-label studies: GE scintigraphy normalization rate 61.3% (pooled, 14 studies, n=276); symptom improvement 88.2%
 - GCSI improvement persists 3–12 months; slight attenuation at 18–24 months
 - Pooled adverse event rate: ~6.8%–12% (capnoperitoneum most common; mucosotomy, bleeding, ulcer)
@@ -135,6 +149,7 @@ For management, the guideline underscores the limited FDA-approved pharmacothera
 - Sham-controlled RCT (Vosoughi 2021, n=80): G-POEM superior to sham for symptom control at 3 months
 
 **Gastric electrical stimulation (GES):**
+
 - FDA-approved as humanitarian use device (HUD) for medically refractory DG or IG
 - Best evidence for reduction of vomiting frequency (Ducrotte 2020 RCT: 172 patients, 4-month crossover)
 - GE itself not consistently improved
@@ -142,6 +157,7 @@ For management, the guideline underscores the limited FDA-approved pharmacothera
 - Open-label data suggest reduced hospitalizations, reduced need for enteral/parenteral nutrition over time
 
 ### Nutritional Support
+
 - Small particle, low-fat diet: first-line dietary intervention (solid evidence from RCTs)
 - Stepwise escalation: oral nutrition → jejunostomy → parenteral nutrition
 - PEG-J (percutaneous endoscopic gastrostomy with jejunal extension) associated with fewer symptoms than other enteral routes in advanced cases

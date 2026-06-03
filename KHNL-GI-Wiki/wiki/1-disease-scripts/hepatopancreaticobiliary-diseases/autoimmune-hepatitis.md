@@ -14,22 +14,26 @@ sources: [acg-2017-liver-chemistries, acg-2016-liver-disease-pregnancy, aasld-20
 AIH is an immune-mediated hepatitis characterized by elevated aminotransferases, elevated IgG (>1.1× ULN), positive autoantibodies, interface hepatitis on biopsy, and response to immunosuppression. It is a diagnosis of exclusion — viral hepatitis, hereditary liver disease, drug-induced liver injury, and cholestatic liver disease must be ruled out. [[aasld-2020-autoimmune-hepatitis]]
 
 **Type 1 AIH (most common in North America):**
+
 - ANA and/or SMA positive
 - Any age; bimodal distribution (adolescence and 40–60 years)
 - 96% of US adult AIH cases
 - Typically steroid-responsive; ~30% can eventually discontinue all immunosuppression
 
 **Type 2 AIH:**
+
 - Anti-LKM1 positive; predominant in children and young adults
 - More aggressive; rarely enters sustained remission off medications
 - Never attempt complete IS withdrawal in Type 2
 
 **Anti-SLA/LP:**
+
 - Present in either type; highly specific for AIH
 - Associated with worse prognosis and more refractory disease
 - Complete IS withdrawal is rarely successful if anti-SLA positive
 
 **Initial serological workup:** [[aasld-2020-autoimmune-hepatitis]]
+
 - Adults: ANA + SMA (anti-smooth muscle antibody)
 - Children: ANA + SMA + anti-LKM1
 - Additional: anti-SLA/LP (increased specificity), serum IgG (quantitative), serum protein electrophoresis
@@ -51,6 +55,7 @@ AIH is an immune-mediated hepatitis characterized by elevated aminotransferases,
 - Score ≥7: definite AIH
 
 **Key histologic features:**
+
 - **Interface hepatitis**: lymphoplasmacytic infiltration beyond limiting plate with hepatocyte necrosis — hallmark finding
 - **Rosette formation**: regenerating hepatocytes forming pseudoacinar patterns
 - **Emperipolesis**: lymphocyte traversing hepatocyte cytoplasm (highly specific but not pathognomonic)
@@ -140,11 +145,13 @@ AIH is an immune-mediated hepatitis characterized by elevated aminotransferases,
 - CBC monitoring every 3 months on AZA or MMF
 
 **Budesonide (3 mg TID) + AZA:** Equivalent first-line alternative for patients **without cirrhosis and without acute severe AIH** (Conditional, Low certainty). [[aasld-2020-autoimmune-hepatitis]]
+
 - Advantage: high first-pass hepatic metabolism → fewer systemic glucocorticoid side effects (osteoporosis, DM, weight gain, mood)
 - **Contraindicated in cirrhosis**: portal-systemic shunting bypasses first-pass hepatic extraction; loses SE advantage and risks systemic steroid toxicity (Conditional, Very Low certainty)
 - **Contraindicated in acute severe AIH**: inadequate potency/speed of action in severe disease
 
 **Treatment response assessment:**
+
 - Biochemical remission target: normalization of AST, ALT, AND IgG
 - 94–95% of AIH patients are steroid-responsive
 - Only ~30% of adults achieve sustained remission off all immunosuppression
@@ -165,11 +172,13 @@ MMF is preferred over TAC as initial second-line due to superior ease of use and
 ### Acute Severe AIH and ALF Management
 
 **Acute severe AIH (INR 1.5–<2.0, no HE):** [[aasld-2020-autoimmune-hepatitis]]
+
 - Initiate prednisone trial (40–60 mg/day)
 - Reassess at 1–2 weeks: if no biochemical improvement → evaluate for liver transplantation
 - Do NOT use budesonide
 
 **AIH-related ALF (INR ≥2.0 + hepatic encephalopathy):**
+
 - Evaluate directly for liver transplantation — do not delay listing awaiting steroid response
 - See [[acute-liver-failure]] for full management protocol
 - LT is potentially curative; ALF due to AIH is a recognized LT indication
@@ -177,11 +186,13 @@ MMF is preferred over TAC as initial second-line due to superior ease of use and
 ### Treatment Withdrawal
 
 **Criteria for withdrawal attempt:** [[aasld-2020-autoimmune-hepatitis]]
+
 - Sustained biochemical remission: normal AST, ALT, AND IgG for ≥2 years on IS
 - Liver biopsy preferred (not mandatory in adults) to confirm histologic remission (no interface hepatitis)
 - Gradual dose tapering with close monitoring (transaminases, IgG every 3 months during taper)
 
 **Relapse rates post-withdrawal:**
+
 - Adults: 50–87%
 - Children: 60–80%
 - Most relapses occur within 12 months; repeat immunosuppression typically regains remission
@@ -197,12 +208,14 @@ MMF is preferred over TAC as initial second-line due to superior ease of use and
 **AIH-PBC overlap (Paris criteria):** [[aasld-2020-autoimmune-hepatitis]]
 
 Requires 2 of 3 PBC criteria AND 2 of 2 AIH criteria:
+
 - PBC criteria: ALP ≥2× ULN **or** GGT ≥5× ULN; AMA ≥1:40; liver biopsy with bile duct lesions
 - AIH criteria: ALT ≥5× ULN; IgG ≥2× ULN or SMA positive; liver biopsy with moderate-to-severe interface hepatitis
 
 Treatment: prednisone + AZA + UDCA (13–15 mg/kg/day); see [[primary-biliary-cholangitis]]
 
 **AIH-PSC overlap:** [[aasld-2020-autoimmune-hepatitis]]
+
 - Typical AIH features + large-duct PSC on cholangiogram (MRCP/ERCP)
 - Consider when AIH diagnosis established but patient has concomitant IBD (especially UC) or ALP disproportionately elevated
 - Prognosis driven by PSC component (colitis-associated neoplasia, cholangiocarcinoma risk)
@@ -224,6 +237,7 @@ Treatment: prednisone + AZA + UDCA (13–15 mg/kg/day); see [[primary-biliary-ch
 ### Post-Liver Transplant AIH
 
 **Recurrent AIH:** [[aasld-2020-autoimmune-hepatitis]]
+
 - Incidence: 8–12% in year 1; 36–68% at 5 years (varies by protocol biopsy vigilance and IS tapering speed)
 - Risk factors: younger recipient, high pre-LT disease activity, rapid steroid withdrawal
 - Diagnosis: histologic interface hepatitis + elevated transaminases + IgG + autoantibodies on post-LT serology
@@ -231,6 +245,7 @@ Treatment: prednisone + AZA + UDCA (13–15 mg/kg/day); see [[primary-biliary-ch
 - Gradual glucocorticoid withdrawal per center-specific protocol post-LT (Conditional, Very Low certainty)
 
 **De novo AIH post-LT:** [[aasld-2020-autoimmune-hepatitis]]
+
 - Incidence: 1–7% of pediatric LT recipients
 - IgG4+ plasma cell infiltrates → sometimes termed "plasma cell-rich rejection" — nosologic distinction from recurrent/true AIH remains debated
 - Management: similar intensification of IS

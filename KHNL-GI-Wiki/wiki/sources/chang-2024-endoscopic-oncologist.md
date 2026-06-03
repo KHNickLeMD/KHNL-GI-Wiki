@@ -8,11 +8,12 @@ sources: []
 ---
 
 ## Bibliographic Info
+
 - **Authors:** Kenneth J Chang et al.
 - **Year:** 2024
 - **Journal/Publisher:** Gastrointestinal Endoscopy Clinics of North America, 34(1):xv–xviii
 - **Type:** Editorial
-- **PubMed:** https://pubmed.ncbi.nlm.nih.gov/37973235/
+- **PubMed:** <https://pubmed.ncbi.nlm.nih.gov/37973235/>
 
 ## Summary
 
@@ -23,14 +24,17 @@ The article argues for the endoscopic oncologist as a distinct subspecialist wit
 Full-text extraction was not possible from the raw source (PDF not available; no abstract indexed on PubMed for this editorial).
 
 ## Key Findings / Claims
+
 - Positions endoscopic oncology as an emerging and distinct subspecialty within GI
 - Kenneth J Chang is a prominent figure in endoscopic ultrasound and interventional endoscopy, lending authority to the framing
 - The dedicated issue context (GI Endoscopy Clinics of North America, Jan 2024) suggests a comprehensive treatment of the subspecialty's scope and training
 
 ## Relevance to Wiki
+
 - Supports creation of [[endoscopic-oncology]] concept page
 - May overlap with [[endoscopic-ultrasound]], [[polypectomy-emr]], and advanced procedure pages as endoscopic oncology techniques are documented
 
 ## Contradictions / Open Questions
+
 - Full editorial text unavailable — detailed arguments and specific claims cannot be extracted
 - Training pathway recommendations (if any) cannot be confirmed without full text

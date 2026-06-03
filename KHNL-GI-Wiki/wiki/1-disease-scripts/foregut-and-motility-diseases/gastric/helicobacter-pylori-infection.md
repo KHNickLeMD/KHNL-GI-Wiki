@@ -16,6 +16,7 @@ sources: [acg-2017-hp-guidelines, acg-2024-hp-treatment]
 ### Establishing the Diagnosis
 
 **Who to test** (per [[acg-2017-hp-guidelines]]):
+
 - Active peptic ulcer disease (gastric or duodenal)
 - History of PUD not previously tested/treated for H. pylori
 - Low-grade gastric MALT lymphoma
@@ -26,6 +27,7 @@ sources: [acg-2017-hp-guidelines, acg-2024-hp-treatment]
 - Immune thrombocytopenic purpura (ITP)
 
 **Clinical presentation:**
+
 - Most patients are **asymptomatic**
 - Epigastric pain/discomfort, bloating, nausea, dyspepsia
 - Peptic ulcer disease (gastric or duodenal)
@@ -33,6 +35,7 @@ sources: [acg-2017-hp-guidelines, acg-2024-hp-treatment]
 - Extraintestinal: iron deficiency anemia, ITP (less established)
 
 **Pathogenesis (key virulence factors):**
+
 - **Urease** — neutralizes gastric acid; basis for urea breath test
 - **CagA** — injected via type IV secretion system; promotes inflammation and carcinogenesis; marker of virulent strains
 - **VacA** — induces epithelial vacuolation, disrupts tight junctions, promotes apoptosis
@@ -52,6 +55,7 @@ sources: [acg-2017-hp-guidelines, acg-2024-hp-treatment]
 ## Differential Diagnosis
 
 ### For dyspepsia presentation
+
 - Functional dyspepsia (Rome IV criteria)
 - NSAID/aspirin-induced gastropathy
 - GERD / esophagitis
@@ -59,6 +63,7 @@ sources: [acg-2017-hp-guidelines, acg-2024-hp-treatment]
 - Gastric malignancy (alarm features: weight loss, dysphagia, early satiety, bleeding, age >55)
 
 ### For peptic ulcer disease
+
 - NSAID/aspirin use (most common cause after H. pylori)
 - Zollinger-Ellison syndrome (refractory, multiple, or ectopic ulcers; fasting gastrin >1000 pg/mL)
 - Stress ulcers (ICU setting)
@@ -66,6 +71,7 @@ sources: [acg-2017-hp-guidelines, acg-2024-hp-treatment]
 - Idiopathic ulcers (H. pylori-negative, NSAID-negative)
 
 ### For gastritis
+
 - Autoimmune gastritis (type A; fundus-predominant; anti-parietal cell antibodies; B12 deficiency)
 - Eosinophilic gastritis
 - Lymphocytic gastritis
@@ -115,12 +121,14 @@ sources: [acg-2017-hp-guidelines, acg-2024-hp-treatment]
 - BQT available as Pylera (bismuth subcitrate + metronidazole + tetracycline, 3 capsules qid); add PPI bid
 
 **Vonoprazan (PCAB) rationale:**
+
 - Potassium-competitive acid blocker; faster onset, deeper, more sustained acid suppression than PPIs (pH >6 for longer duration)
 - Superior to PPIs as partner for clarithromycin-based regimens (PHALCON-HP trial)
 - Vonoprazan dual therapy avoids clarithromycin entirely; FDA-approved 2022 (Voquezna)
 - PCAB preferred when available, especially for clarithromycin-containing regimens
 
 **Susceptibility testing:**
+
 - Strongly recommended before using clarithromycin-based or levofloxacin-based regimens
 - Molecular testing (PCR on biopsy): detects CLR resistance (23S rRNA mutations) and LVX resistance (gyrA mutations); increasing availability
 - Culture: gold standard; technically demanding; requires endoscopic biopsy
@@ -139,6 +147,7 @@ sources: [acg-2017-hp-guidelines, acg-2024-hp-treatment]
 ### Post-Treatment Confirmation
 
 **Confirm eradication in ALL patients** [[acg-2024-hp-treatment]] [[acg-2017-hp-guidelines]]:
+
 - Use UBT or SAT (monoclonal antibody-based stool antigen test)
 - Test **≥4 weeks** after completing antibiotics
 - Test **≥2 weeks** after stopping PPI or vonoprazan
@@ -154,6 +163,7 @@ sources: [acg-2017-hp-guidelines, acg-2024-hp-treatment]
 ---
 
 ## See Also
+
 - [[test-and-treat]]
 - [[bismuth-quadruple-therapy]]
 - [[acg-2017-hp-guidelines]]

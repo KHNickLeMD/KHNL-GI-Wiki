@@ -8,6 +8,7 @@ sources: []
 ---
 
 ## Bibliographic Info
+
 - **Authors:** Keith D. Lindor, Christopher L. Bowlus, James Boyer, Cynthia Levy, Marlyn Mayo
 - **Year:** 2018 (published Hepatology, Vol. 69, No. 1, January 2019)
 - **Journal/Publisher:** Hepatology 2019;69:394–419
@@ -31,6 +32,7 @@ The guidance emphasizes that UDCA does not improve fatigue or pruritus; those re
 ### Diagnosis
 
 **Guidance Statement 1.** *The diagnosis of PBC can be established when two of the following three criteria are met:*
+
 - *Biochemical evidence of cholestasis based on ALP elevation.*
 - *Presence of AMA, or other PBC-specific autoantibodies, including sp100 or gp210, if AMA is negative.*
 - *Histologic evidence of nonsuppurative destructive cholangitis and destruction of interlobular bile ducts.*
@@ -64,6 +66,7 @@ The guidance emphasizes that UDCA does not improve fatigue or pruritus; those re
 **Guidance Statement 11.** *Anion-exchange resins should be used as initial therapy for patients with PBC who have pruritus.*
 
 **Guidance Statement 12.** *The following agents can be used for pruritus refractory to anion-exchange resins:*
+
 - *a. Rifampicin 150 to 300 mg twice daily.*
 - *b. Oral opiate antagonists such as naltrexone titrated to a dose of 50 mg daily.*
 - *c. Sertraline 75 to 100 mg daily.*
@@ -71,11 +74,13 @@ The guidance emphasizes that UDCA does not improve fatigue or pruritus; those re
 ### Symptom Management — Sicca Syndrome
 
 **Guidance Statement 13.** *Management of dry eyes can include the following:*
+
 - *a. Artificial tears should be used initially.*
 - *b. Pilocarpine or cevimeline can be used in patients for whom symptoms are refractory to artificial tears.*
 - *c. Cyclosporine or lifitegrast ophthalmic emulsion can be used in those whose disease is refractory to other agents, preferably under the supervision of an ophthalmologist.*
 
 **Guidance Statement 14.** *The following therapies should be used for xerostomia and dysphagia:*
+
 - *a. Over-the-counter saliva substitutes can be tried.*
 - *b. Pilocarpine or cevimeline can be used if patients remain symptomatic despite saliva substitutes.*
 
@@ -162,6 +167,7 @@ The guidance emphasizes that UDCA does not improve fatigue or pruritus; those re
 ---
 
 ## Relevance to Wiki
+
 - Directly expands [[primary-biliary-cholangitis]] disease script from stub to full ADDT page
 - Adds biochemical response criteria table (Paris I/II, Rotterdam, Toronto, Barcelona, Rochester)
 - Provides OCA dosing protocol and contraindications
@@ -172,6 +178,7 @@ The guidance emphasizes that UDCA does not improve fatigue or pruritus; those re
 - LT threshold (MELD >14) and recurrent PBC data — cross-reference to [[liver-transplantation]]
 
 ## Contradictions / Open Questions
+
 - Fibrate long-term safety data insufficient at time of publication; 2021 update revised guidance statement 9 to qualify that fibrates are discouraged (not merely "use of OCA and fibrates discouraged") in decompensated disease
 - OCA contraindication in advanced cirrhosis was issued as FDA warning in September 2017 and updated formally in the 2021 guidance update
 - Modafinil for fatigue: open-label studies suggested benefit, but placebo-controlled RCT was negative — no recommended pharmacotherapy for PBC fatigue

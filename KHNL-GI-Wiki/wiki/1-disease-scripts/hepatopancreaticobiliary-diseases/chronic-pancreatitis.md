@@ -14,6 +14,7 @@ sources: [acg-2020-chronic-pancreatitis, acg-2020-sibo]
 Chronic pancreatitis (CP) is a **pathologic fibroinflammatory syndrome of the pancreas** in individuals with genetic, environmental, and/or other risk factors who develop persistent pathologic responses to parenchymal injury or stress (Mechanistic Definition, 2016/2018). Traditional clinicopathologic definition required irreversible morphologic change (fibrosis, calcification, ductal distortion, EPI, endocrine dysfunction, dysplasia); the mechanistic definition allows earlier diagnosis before end-stage morphology develops.
 
 **Cardinal features:**
+
 - Pancreatic atrophy, fibrosis, ductal distortion/strictures, calcifications
 - Pain syndromes (most common symptom)
 - Exocrine pancreatic insufficiency (EPI)
@@ -38,11 +39,13 @@ Suspicion of CP
 Genetic testing recommended if etiology unclear (especially <35 yr) [[acg-2020-chronic-pancreatitis]].
 
 **Mechanistic algorithm (Fig 2) — 3 levels of investigation:**
+
 - **A:** Clinical (pancreatitis pain, maldigestion, weight loss, glucose intolerance) + TIGAR-O risk factors + imaging/serum (CT, EUS±FNA, amylase/lipase, TG, IgG4, glucose, fat-soluble vitamins, tumor markers)
 - **B:** Family history, early onset, CF organ involvement, syndromic features → genetic testing, sweat chloride, sMRCP, exocrine function testing
 - **C:** IBD/IgG4 disease, response to therapy (analgesics, PERT, steroid trial for AIP type 2) → histology
 
 **Imaging modality test characteristics** (systematic review, n=3,460):
+
 | Modality | Sensitivity | Specificity |
 |---|---|---|
 | EUS | 90% (82–95) | 94% (87–98) |
@@ -71,6 +74,7 @@ CT/MRI first-line; EUS only if cross-sectional imaging non-diagnostic and suspic
 **T**oxic-metabolic · **I**diopathic · **G**enetic · **A**utoimmune · **R**ecurrent acute pancreatitis · **O**bstructive
 
 Key categories:
+
 - **Toxic-metabolic:** alcohol (3–4/d; ≥5/d), smoking (pack-years), hypercalcemia (iCa >12 mg/dL), hypertriglyceridemia (fasting >300 / nonfasting >500), medications
 - **Idiopathic:** early-onset (<35 yr) vs. late-onset (>35 yr)
 - **Genetic:** PRSS1 (AD, hereditary pancreatitis), SPINK1 (AR, severe), CFTR (cystic fibrosis or CFTR-RD), CTRC, CASR, CLDN2 (alcohol accelerator), CPA1, CEL (MODY-8)
@@ -113,6 +117,7 @@ Disease-modifying:
 ## Diagnostics
 
 ### Imaging
+
 - **CT (first-line):** calcifications, ductal dilation (>3 mm), parenchymal atrophy, pseudocysts; widespread calcifications are pathognomonic but late finding
 - **MRI/MRCP:** ductal anatomy, side branches; secretin-enhanced MRCP (s-MRCP) for subtle ductal changes (dilated side branches, ectatic main duct)
 - **EUS (Rosemont criteria):** hyperechoic foci (with/without shadowing), hyperechoic strands, lobularity (with/without honeycombing), cysts; ductal features include main duct dilation, hyperechoic margin, stones, dilated side branches; >5 features = consistent with CP
@@ -128,9 +133,11 @@ Disease-modifying:
 | Serum trypsinogen/trypsin | Nonhormonal | Easy; nonspecific; elevated with pancreatic pain |
 
 ### Genetic testing
+
 Indicated when etiology unclear, family history, early onset, or pediatric/young adult. Minimum panel: **PRSS1, SPINK1, CFTR, CTRC**. Extended panels available.
 
 ### Other labs
+
 - HbA1c, fasting glucose (annually) — screen for type 3c DM
 - Fat-soluble vitamins (A, D, E, K), B12, zinc, magnesium
 - DEXA scan — osteoporosis risk (Key Concept 10)
@@ -141,6 +148,7 @@ Indicated when etiology unclear, family history, early onset, or pediatric/young
 ## Therapeutics
 
 ### Lifestyle
+
 - **Alcohol cessation** (Strong / Very Low) — single RCT shows reduced AP recurrence; cornerstone despite weak data [[acg-2020-chronic-pancreatitis]]
 - **Smoking cessation** (Strong / Very Low) — case series show reduced calcification progression
 
@@ -163,6 +171,7 @@ Experimental (research only): spinal cord stim, transmagnetic stim, radiation (K
 ⚠ **PERT does NOT improve pain** (Rec 9, Cond/Low) — only for EPI complications.
 
 ### Exocrine pancreatic insufficiency (EPI)
+
 - **PERT (Rec 11, Cond/Low):** 40,000–50,000 USP lipase units per meal (half-dose with snacks); titrate to symptoms (steatorrhea, weight, vitamin levels)
 - Take with first bite of meal; if inadequate, add acid suppression (PPI/H2RA) to protect non-enteric-coated formulations
 - Periodic monitoring of weight, fat-soluble vitamins, bone density (Key Concept 10)
@@ -170,18 +179,22 @@ Experimental (research only): spinal cord stim, transmagnetic stim, radiation (K
 - **SIBO co-occurrence:** Pancreatic insufficiency is a recognized risk factor for [[small-intestinal-bacterial-overgrowth]] (altered bile acid composition + reduced digestive enzyme activity). Consider SIBO evaluation in CP patients with persistent diarrhea/bloating despite adequate PERT.
 
 ### Endocrine dysfunction (type 3c DM)
+
 - Annual HbA1c screening
 - Insulin often required; metformin may have CA protective effect; avoid agents causing hypoglycemia if brittle
 - Distinct from T2DM — insulin-deficient + glucagon-deficient → hypoglycemia-prone
 
 ### Genetic and family counseling
+
 - Genetic counselor referral preferred; nongeneticist clinicians can order minimum panel
 - Family planning implications for AD inheritance (PRSS1)
 
 ### Surveillance
+
 - **No routine pancreatic cancer screening** in CP (Key Concept 5) — insufficient evidence except possibly hereditary pancreatitis at expert centers
 - Periodic EPI/nutrition assessment (annual or symptom-driven)
 - DEXA at baseline and periodically
 
 ### Pregnancy / fertility
+
 - Not specifically addressed in guideline; manage individually

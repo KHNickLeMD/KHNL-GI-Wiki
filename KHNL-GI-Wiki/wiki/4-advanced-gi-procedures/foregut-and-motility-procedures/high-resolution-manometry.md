@@ -14,12 +14,14 @@ sources: [acg-2020-esophageal-physiologic-testing]
 High-resolution manometry uses a solid-state catheter with closely spaced pressure sensors to generate esophageal pressure topography (EPT) plots, interpreted using the **Chicago Classification v4.0** (see [[chicago-classification-v4]]).
 
 **Standard protocol (Chicago v4.0):**
+
 - 10 supine wet swallows (5 mL water each)
 - 5+ upright wet swallows
 - Multiple rapid swallows (MRS) — 5 × 2 mL at 2-second intervals
 - Rapid drink challenge (RDC) — 200 mL water continuous drinking
 
 **Manufacturer-specific IRP thresholds (critical — use the correct threshold for the device):**
+
 | Device | Supine IRP ULN | Upright IRP ULN |
 |---|---|---|
 | Medtronic | ≤15 mmHg | ≤12 mmHg |
@@ -38,6 +40,7 @@ High-resolution manometry uses a solid-state catheter with closely spaced pressu
 ## Diagnostic Outputs
 
 See [[chicago-classification-v4]] for the full algorithm:
+
 - EGJ outflow obstruction → determine if achalasia spectrum or isolated EGJOO (requires TBE + [[flip-panometry]] for EGJOO)
 - Absent contractility
 - Ineffective esophageal motility (IEM): >70% ineffective or ≥50% failed swallows
@@ -63,6 +66,7 @@ Conditional recommendation (Low quality): supplementary/provocative maneuvers wi
 ## HRM Performance Characteristics (vs. Conventional Manometry)
 
 From [[acg-2020-esophageal-physiologic-testing]] (multicenter RCT of 247 patients; retrospective study of 281 patients):
+
 - HRM improved diagnosis of achalasia vs. conventional manometry (CM)
 - Better inter-rater agreement and diagnostic accuracy for motor disorders
 - Novice and intermediate learners demonstrate higher accuracy identifying obstructive motor disorders with HRM vs. CM

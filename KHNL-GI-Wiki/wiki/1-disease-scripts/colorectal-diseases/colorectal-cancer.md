@@ -10,22 +10,28 @@ sources: [acg-2015-hereditary-gi-cancer, usmstf-2015-crc-surveillance, usmstf-20
 *Screening is covered in [[colorectal-cancer-screening]] and in detail below (FIT). Hereditary syndromes: [[lynch-syndrome]], [[familial-adenomatous-polyposis]], [[peutz-jeghers-syndrome]], [[juvenile-polyposis-syndrome]], [[cowden-syndrome]], [[serrated-polyposis-syndrome]]. Polyp management: [[polypectomy-emr]] and [[colonoscopy]].*
 
 ## Assessment
+
 ### Establishing the Diagnosis
+
 - Colonoscopy with biopsy is the diagnostic standard
 - CT C/A/P + CEA for staging
 - MRI pelvis + EUS for rectal cancer local staging
 
 ### Severity Assessment / Staging
+
 - TNM 8th edition
 - Stage I–IV; LN status drives adjuvant therapy
 
 ## Differential Diagnosis
+
 - IBD-associated dysplasia, large adenoma, neuroendocrine tumor, lymphoma, anal canal SCC, metastatic disease
 
 ## Diagnostics
+
 - Colonoscopy, biopsy, CT, MRI rectum, CEA, MMR/MSI testing (Lynch screen), BRAF/KRAS/NRAS for metastatic
 
 ## Therapeutics
+
 - Surgery (segmental resection, TME for rectal), endoscopic resection for early CRC (T1)
 - Adjuvant chemo (FOLFOX/CAPOX) for stage III, high-risk stage II
 - Neoadjuvant chemoradiation or total neoadjuvant therapy (TNT) for locally advanced rectal cancer
@@ -34,11 +40,13 @@ sources: [acg-2015-hereditary-gi-cancer, usmstf-2015-crc-surveillance, usmstf-20
 ---
 
 ## Post-Resection Surveillance
+
 [[usmstf-2015-crc-surveillance]]
 
 > Applies to TNM stages I–III (curative-intent resection). Hereditary syndromes ([[lynch-syndrome]], [[familial-adenomatous-polyposis]], [[serrated-polyposis-syndrome]]) follow their own surveillance intervals — these recommendations do not apply to them.
 
 ### Epidemiology of Post-Resection Risk
+
 - Up to 40% of patients with locoregional CRC develop recurrent cancer; 90% occur within 5 years
 - Cumulative incidence of metachronous CRC: ~0.3–0.35%/year, lifelong
 - ~30% of metachronous cancers occur within 2 years of surgery
@@ -47,10 +55,12 @@ sources: [acg-2015-hereditary-gi-cancer, usmstf-2015-crc-surveillance, usmstf-20
 - Increased intensity of colonoscopy frequency does not improve survival beyond the standard schedule and may increase harm
 
 ### Universal Lynch Syndrome Testing
+
 - Per USMSTF 2014 and confirmed in this guideline: all CRCs should be studied for evidence of [[lynch-syndrome]] (MMR/MSI tumor testing)
 - Patients with known or suspected Lynch syndrome must follow Lynch-specific surveillance intervals, not those below
 
 ### Step 1 — Perioperative Clearing Colonoscopy
+
 **Strong recommendation, low-quality evidence** [[usmstf-2015-crc-surveillance]]
 
 - Perform a **high-quality colonoscopy preoperatively** whenever feasible
@@ -61,12 +71,14 @@ sources: [acg-2015-hereditary-gi-cancer, usmstf-2015-crc-surveillance, usmstf-20
 - **Serrated polyposis syndrome (SPS):** Actively consider this diagnosis when multiple and/or large serrated lesions are found — [[serrated-polyposis-syndrome]] requires more frequent colonoscopy intervals
 
 ### Step 2 — First Postoperative Surveillance Colonoscopy
+
 **Strong recommendation, low-quality evidence** [[usmstf-2015-crc-surveillance]]
 
 - **1 year after surgery** (or 1 year after the perioperative clearing colonoscopy, whichever is later)
 - Applies to both colon and rectal cancer
 
 ### Step 3 — Subsequent Surveillance Intervals
+
 **Strong recommendation, low-quality evidence** [[usmstf-2015-crc-surveillance]]
 
 | Timepoint | Interval from Surgery | Notes |
@@ -95,11 +107,13 @@ Lifelong q5y until benefit < risk
 ```
 
 ### Additional Considerations for Rectal Cancer
+
 **Weak recommendation, low-quality evidence** [[usmstf-2015-crc-surveillance]]
 
 **Rectal cancer has higher propensity for local recurrence than colon cancer.** >80% of anastomotic recurrences in compiled studies involved rectal or distal colon cancer.
 
 **High-risk patients** — those meeting ANY of the following criteria are at increased risk for local recurrence:
+
 1. Surgery **without** total mesorectal excision (TME)
 2. Transanal local excision (transanal excision or transanal endoscopic microsurgery / TEM)
 3. Endoscopic submucosal dissection (ESD) for rectal cancer
@@ -112,6 +126,7 @@ Lifelong q5y until benefit < risk
 - Optimal luminal surveillance requires multidisciplinary collaboration (GI, colorectal surgery, oncology)
 
 ### Fecal Testing in Post-Resection Surveillance
+
 **Insufficient evidence statement** [[usmstf-2015-crc-surveillance]]
 
 - **Do not recommend routine use of FIT or fecal DNA** for surveillance after CRC resection (insufficient evidence)
@@ -121,6 +136,7 @@ Lifelong q5y until benefit < risk
 ---
 
 ## FIT Screening for CRC — Primary Screening (Average-Risk)
+
 [[usmstf-2016-fit-screening]] | [[acg-2021-crc-screening]]
 
 > This section covers FIT as a primary screening modality for average-risk individuals. For post-polypectomy and post-resection surveillance, see above.
@@ -128,6 +144,7 @@ Lifelong q5y until benefit < risk
 ### Overview and Rationale
 
 Fecal immunochemical tests (FITs) measure human hemoglobin directly in stool using antibodies against the globin moiety. Unlike guaiac-based FOBT (gFOBT), FIT:
+
 - Is not confounded by dietary peroxidase activity — **no dietary restriction required** (Strong; Moderate)
 - Requires fewer samples (typically 1 vs. 3 for gFOBT)
 - Has superior sensitivity for CRC and advanced neoplasia
@@ -138,12 +155,14 @@ Both ACG 2021 and USMSTF 2021 position annual FIT as a **co-equal preferred non-
 ### FIT Performance Characteristics — Single Application
 
 **For CRC (meta-analysis of 19 studies, asymptomatic average-risk adults):** [[usmstf-2016-fit-screening]]
+
 - Pooled sensitivity: **~79%** (95% CI, 0.69–0.86)
 - Pooled specificity: **~94%** (95% CI, 0.92–0.95)
 - With colonoscopy as reference standard only: sensitivity 77%, specificity 94%
 - OC FIT CHEK (large US study, n=9,989): sensitivity 74%, specificity 96%
 
 **For advanced adenoma (single application):** [[usmstf-2016-fit-screening]]
+
 - Sensitivity: **~20–30%** across studies (range 6–56% depending on brand and cut-off)
 - Specificity: **~94–97%** for commonly used cut-offs
 - Implication: single-application FIT is a poor screen for advanced adenomas; repeated annual application is required to meaningfully accumulate detection of precancerous lesions
@@ -219,6 +238,7 @@ Both ACG 2021 and USMSTF 2021 position annual FIT as a **co-equal preferred non-
 ### Conflict with 2021 Guidelines
 
 The ACG 2021 and USMSTF 2021 guidelines do not supersede the FIT-specific operational guidance in this 2016 document. Where the guidelines differ on topics covered by both:
+
 - **Screening start age:** Use 2021 values (age 45–50; see [[colorectal-cancer-screening]])
 - **Modality ranking:** 2021 guidelines position colonoscopy and FIT as co-equal preferred options; 2016 document predates this framing but is consistent with it
 - **FIT performance data, cut-off recommendations, programmatic quality targets:** 2016 document remains the primary source — no conflicting 2021 data on these specific points

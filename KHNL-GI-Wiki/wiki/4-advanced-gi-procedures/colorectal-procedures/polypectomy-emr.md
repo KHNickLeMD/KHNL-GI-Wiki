@@ -14,11 +14,13 @@ sources: [usmstf-2020-endoscopic-removal, asge-2020-endoscopic-removal, usmstf-2
 ## Lesion Assessment
 
 ### Required Documentation (all lesions ≥10mm)
+
 - Location, size (mm), Paris classification
 - Photo before removal; suggest photo of post-resection defect
 - Resection method in procedure report
 
 ### Paris Classification (type 0 superficial lesions)
+
 | Type | Description |
 |---|---|
 | 0-Ip | Pedunculated |
@@ -31,6 +33,7 @@ sources: [usmstf-2020-endoscopic-removal, asge-2020-endoscopic-removal, usmstf-2
 - 0-IIc: 27–36% SMI risk; virtually all >20mm 0-IIc lesions have SMI
 
 ### Laterally Spreading Tumors (LSTs, ≥10mm)
+
 | Subtype | SMI Risk |
 |---|---|
 | LST-G-H (granular homogenous) | ~0.5% |
@@ -39,6 +42,7 @@ sources: [usmstf-2020-endoscopic-removal, asge-2020-endoscopic-removal, usmstf-2
 | LST-NG-PD (non-granular pseudodepressed) | ~31.6% |
 
 ### Optical Diagnosis
+
 - **NICE classification:**
   - Type 1 = serrated (HP/SSL); can leave rectosigmoid lesions ≤5mm
   - Type 2 = adenoma; remove
@@ -51,17 +55,20 @@ sources: [usmstf-2020-endoscopic-removal, asge-2020-endoscopic-removal, usmstf-2
 ## Resection by Lesion Size and Type
 
 ### ≤5mm (Diminutive)
+
 - **Cold snare polypectomy (CSP):** standard of care
 - Cold forceps: NOT recommended (9–61% incomplete resection)
 - Hot biopsy forceps: NOT recommended (incomplete resection, poor specimens, complications)
 - Exception: ≤2mm difficult to snare → jumbo forceps acceptable
 
 ### 6–9mm (Small)
+
 - **Cold snare:** preferred; complete resection comparable to hot snare, lower delayed bleeding
 - Hot snare: acceptable; comparable complete resection rates
 - Cold snare advantage: no delayed bleeding or coagulation syndrome
 
 ### 10–19mm Non-Pedunculated
+
 - Cold or hot snare ± submucosal injection
 - **EMR preferred** for:
   - Non-polypoid lesions (0-IIa, 0-IIb, 0-IIc)
@@ -69,12 +76,14 @@ sources: [usmstf-2020-endoscopic-removal, asge-2020-endoscopic-removal, usmstf-2
   - LSTs
 
 ### ≥20mm Non-Pedunculated
+
 - **EMR — preferred; first-line over surgery**
 - Requires experienced endoscopist
 - Resect all visible tissue in single session, minimum number of pieces
 - Prior failed attempts → higher recurrence risk; refer to experienced endoscopist, not surgery
 
 ### Pedunculated
+
 - Hot snare: preferred for head ≥10mm
 - **Prophylactic mechanical ligation** (detachable loop or clips) for:
   - Head ≥20mm OR stalk ≥5mm
@@ -82,6 +91,7 @@ sources: [usmstf-2020-endoscopic-removal, asge-2020-endoscopic-removal, usmstf-2
 - Retrieve large specimens en bloc (don't divide head for retrieval)
 
 ### Difficult Locations
+
 - **Right colon:** Higher perforation risk; prefer cold snare when feasible; CO2 insufflation mandatory; clip defects ≥20mm prophylactically
 - **Difficult positions (folds, flexures, ileocecal valve):** Consider cap-assisted colonoscopy, position change, water-jet assisted technique; partial resection plus avulsion acceptable if full snare not achievable
 - **Rectal lesions:** ESD more often feasible given straight working channel; consider peri-anal approach for very distal lesions
@@ -91,10 +101,12 @@ sources: [usmstf-2020-endoscopic-removal, asge-2020-endoscopic-removal, usmstf-2
 ## EMR Technique
 
 ### Inject-and-Cut (Standard)
+
 1. Submucosal injection to lift lesion
 2. Snare capture and resection
 
 **Injectants:**
+
 - Viscous solution preferred for ≥20mm: fewer pieces, faster (hydroxyethyl starch, Eleview, ORISE Gel)
 - Add indigo carmine or methylene blue for tissue plane visualization
 - Normal saline: acceptable, dissipates quickly
@@ -103,6 +115,7 @@ sources: [usmstf-2020-endoscopic-removal, asge-2020-endoscopic-removal, usmstf-2
 **Electrosurgery settings (ERBE):** Endocut Q 2/3 1 4 for inject-and-cut EMR
 
 ### Post-Resection
+
 - Ablate EMR margins (APC or snare tip soft coagulation) after complete visual resection → reduces recurrence
 - Do NOT ablate visible residual tissue → increased recurrence
 - Inspect defect for perforation features; clip close if risk present
@@ -112,18 +125,21 @@ sources: [usmstf-2020-endoscopic-removal, asge-2020-endoscopic-removal, usmstf-2
 - **Prophylactic vessel coagulation (hot forceps / soft coag to visible vessels in defect):** One RCT showed no reduction in delayed post-polypectomy bleeding compared with no prophylactic treatment — routine coagulation of non-bleeding vessels is NOT recommended
 
 ### Underwater EMR
+
 - Water immersion instead of submucosal injection; mucosa/submucosa involute, MP remains circular
 - Avoids injection step; useful for flat lesions, some right colon lesions
 - Delayed bleeding 2–5%; 1 case report perforation with retroflexion
 - **Recurrence data:** Underwater EMR recurrence rates 7–15% for ≥20mm lesions (comparable to inject-and-cut EMR); insufficient data to prefer one over the other
 
 ### Cold Snare EMR
+
 - Submucosal injection + snare resection without electrocautery
 - Minimizes delayed bleeding and perforation risk
 - Promising for SSPs ≥10mm; long-term data pending
 - **Recurrence data:** Limited data; one RCT showed recurrence rate 7.4% at 6 months for ≥20mm adenomas — similar to hot EMR; delayed bleeding near 0%
 
 ### Hot Avulsion Technique
+
 - For small (<10mm) residual or recurrent tissue at EMR scars not amenable to snare resection
 - Technique: grasp with coagulation forceps, tent tissue, apply coagulation current while avulsing
 - Used at surveillance visits; can be combined with snare-tip soft coagulation of remaining margin
@@ -134,16 +150,19 @@ sources: [usmstf-2020-endoscopic-removal, asge-2020-endoscopic-removal, usmstf-2
 ## ESD and Hybrid ESD
 
 ### Colorectal ESD Indications (limited)
+
 - ≥20mm lesions with suspected superficial SMI (not deep) not amenable to en bloc EMR
 - Mucosal lesions with submucosal fibrosis
 - Local residual/recurrent early carcinoma after prior endoscopic resection
 - Colitis-associated dysplasia (non-polypoid)
 
 ### Hybrid ESD
+
 - Partial submucosal dissection + en bloc snare resection
 - Bridge between EMR and full ESD; useful for fibrotic lesions
 
 ### Endoscopic Full-Thickness Resection (eFTR)
+
 - For lesions <30mm, especially non-lifting or involving diverticulum
 - Uses full-thickness resection device (OTSC clip system)
 - Allows complete histologic assessment
@@ -153,6 +172,7 @@ sources: [usmstf-2020-endoscopic-removal, asge-2020-endoscopic-removal, usmstf-2
 ---
 
 ## Lesion Marking / Tattoo
+
 - Sterile carbon particle suspension for any lesion needing future localization
 - 2–3 injection sites, **3–5 cm distal (anal side)** to lesion
 - Do NOT inject at or adjacent to lesion — causes fibrosis, impairs future resection
@@ -165,6 +185,7 @@ sources: [usmstf-2020-endoscopic-removal, asge-2020-endoscopic-removal, usmstf-2
 *Source: [[usmstf-2020-malignant-colorectal-polyps]]. See also [[colorectal-cancer]], [[colorectal-cancer-screening]], [[endoscopic-ultrasound]], [[lynch-syndrome]].*
 
 ### Definition
+
 A **malignant polyp** is a colorectal polyp with neoplastic invasion of the submucosa without extension into the muscularis propria (pT1). Synonymous term: *submucosally invasive lesion*. Prevalence of cancer in colorectal polyps: 0.2–5%. Lesions with high-grade dysplasia confined to the epithelium, lamina propria, or muscularis mucosae (Vienna 4 / "Tis") have no LNM risk and do not require surgical referral.
 
 ### Endoscopic Features Predicting Deep Submucosal Invasion (≥1 mm)
@@ -187,6 +208,7 @@ A **malignant polyp** is a colorectal polyp with neoplastic invasion of the subm
 **Recommendation 2a (Weak; moderate-quality evidence):** LST-NG with sessile shape or depression, and LST-G with a dominant nodule, predict a higher risk of submucosally invasive cancer.
 
 **LST subtype SMI risk:**
+
 | LST Subtype | SMI Risk |
 |---|---|
 | LST-G, even-sized nodules | <2% |
@@ -200,6 +222,7 @@ A **malignant polyp** is a colorectal polyp with neoplastic invasion of the subm
 - **Pedunculated with deep SMI features:** Endoscopic polypectomy is still appropriate (histologic features may still be favorable after resection).
 
 ### En Bloc Resection for Superficial SMI Risk (Recommendation 2b, Weak; low-quality evidence)
+
 - LST-NG (sessile/depressed) and LST-G with dominant nodule: consider *en bloc* resection rather than piecemeal.
 - For LST-G with dominant nodule: at minimum, resect the nodule *en bloc*.
 - All pedunculated polyps (even large): resect *en bloc* regardless of size.
@@ -244,6 +267,7 @@ After endoscopic resection reveals a malignant polyp, histologic features determ
 | Tumor budding | Absent | Present |
 
 **Key data:**
+
 - Margins ≥1 mm: LNM/recurrence 0–2%; margins <1 mm: recurrence 21–33%.
 - Positive margins: OR 22 (95% CI 10.3–46.6) for unfavorable outcomes (31 studies, n=1900).
 - Poor differentiation: OR 8.27 (95% CI 4.6–14.6) for LNM (13 studies, n=7066).
@@ -262,6 +286,7 @@ After endoscopic resection reveals a malignant polyp, histologic features determ
 ### Pathology Reporting Standards
 
 **Recommendation 5 (Weak; low-quality evidence):** The pathology report should adhere to the College of American Pathologists (CAP) structured template and include:
+
 - Histologic type (WHO Classification of Colorectal Carcinoma)
 - Grade of differentiation (4-tiered: well/moderate/poor/undifferentiated; report by worst area)
 - Tumor extension/invasion (level of invasion, depth in mm by optical micrometer — required for nonpedunculated)
@@ -282,6 +307,7 @@ After endoscopic resection reveals a malignant polyp, histologic features determ
 ---
 
 ## Post-EMR Surveillance (Piecemeal, ≥20mm)
+
 - **6 months** (first surveillance)
 - **1 year**
 - **3 years**
@@ -292,11 +318,13 @@ After endoscopic resection reveals a malignant polyp, histologic features determ
 ---
 
 ## Quality Standards
+
 - Endoscopy first-line for all benign colorectal lesions; refer to advanced endoscopist (not surgery) when unable to remove confidently
 - Report proportion of patients referred to surgery for benign lesions (quality metric)
 - Use CO2 insufflation (reduces post-procedure pain, faster absorption if perforation)
 
 ### Competency Assessment Tools
+
 - **DOPyS (Direct Observation of Polypectomy Skills):** Validated tool for direct observation and scoring of polypectomy competency; covers pre-procedure assessment, injection, snare placement, electrosurgery, defect inspection, and complication recognition
 - **CSPAT (Cold Snare Polypectomy Assessment Tool):** Purpose-built assessment tool for cold snare polypectomy specifically; evaluates snare positioning, margin inclusion, specimen retrieval; complements DOPyS for lower-risk polyp removal assessment
 - Both tools designed for training programs and credentialing; use alongside procedural volume thresholds
@@ -304,6 +332,7 @@ After endoscopic resection reveals a malignant polyp, histologic features determ
 ---
 
 ## See Also
+
 - [[colonoscopy]]
 - [[colorectal-cancer]]
 - [[colorectal-cancer-screening]]

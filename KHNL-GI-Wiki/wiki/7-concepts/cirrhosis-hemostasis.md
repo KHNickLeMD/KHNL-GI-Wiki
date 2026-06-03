@@ -30,18 +30,22 @@ The net effect: hemostasis may be near-normal, impaired, or hypercoagulable depe
 ## Clinical Implications
 
 **Do NOT use FFP prophylactically before procedures** (Conditional, Low evidence) [[acg-2020-hepatic-mesenteric-circulation]]:
+
 - FFP does not reliably correct INR in cirrhosis
 - Volume overload risk without hemostatic benefit
 - Reserve for active bleeding + documented coagulation factor deficiency
 
 **Do NOT give prophylactic platelets for routine procedures** (Conditional, Very Low evidence):
+
 - Platelet count alone does not predict periprocedural bleeding in cirrhosis
 - Exception: very low platelet count (<50,000) before high-risk procedures + renal dysfunction may warrant discussion
 
 **Do NOT use antifibrinolytics prophylactically** (Conditional, Very Low evidence):
+
 - Reserve for confirmed hyperfibrinolysis (seen in acute-on-chronic liver failure, LT anhepatic phase)
 
 **Use TEG/ROTEM for guidance** (Conditional, Low evidence):
+
 - Whole-blood viscoelastic tests assess clot formation, strength, and lysis in real time
 - Better reflects global hemostasis than PT/INR + platelet count
 - Can identify specific defects (fibrinolysis, platelet dysfunction, factor deficiency)
@@ -52,6 +56,7 @@ The net effect: hemostasis may be near-normal, impaired, or hypercoagulable depe
 ## PVT Risk in Cirrhosis
 
 Cirrhotic patients are paradoxically prone to venous thromboembolism [[acg-2020-hepatic-mesenteric-circulation]]:
+
 - PVT prevalence: ~1% in compensated cirrhosis, up to 25% in pre-transplant patients
 - Elevated vWF, reduced natural anticoagulants, reduced portal flow velocity — all predispose to thrombosis
 - Anticoagulation is safe and effective in cirrhosis; does not increase major bleeding rates in most studies

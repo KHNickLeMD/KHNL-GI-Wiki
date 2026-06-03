@@ -14,6 +14,7 @@ sources: [acg-2015-hereditary-gi-cancer]
 Hereditary diffuse gastric cancer (HDGC) is an autosomal-dominant hereditary cancer syndrome caused by germline pathogenic variants in the **CDH1** gene (E-cadherin), responsible for ~1–3% of all gastric cancers [[acg-2015-hereditary-gi-cancer]].
 
 **Clinical criteria — genetic evaluation for HDGC is indicated if any one criterion is met** [[acg-2015-hereditary-gi-cancer]]:
+
 - (i) ≥2 cases of diffuse gastric cancer in the family, with at least one diagnosed at <50 years
 - (ii) ≥3 cases of documented diffuse gastric cancer in first- or second-degree relatives, independent of age of onset
 - (iii) Diffuse gastric cancer diagnosed at <40 years
@@ -24,6 +25,7 @@ Hereditary diffuse gastric cancer (HDGC) is an autosomal-dominant hereditary can
 **All at-risk individuals should be tested beginning at age 16** given the early ages of gastric cancer diagnosis in some families.
 
 **Genetic etiology**:
+
 - CDH1 encodes E-cadherin, a cell-to-cell adhesion protein; germline CDH1 mutations were linked to HDGC in 1998
 - Autosomal dominant; high penetrance
 - Signet-ring cell cancer is the pathological hallmark; linitis plastica is the advanced form
@@ -58,6 +60,7 @@ Hereditary diffuse gastric cancer (HDGC) is an autosomal-dominant hereditary can
 ### Endoscopic Surveillance
 
 **For individuals who have a CDH1 mutation but decline or defer gastrectomy**, or for **pre-gastrectomy assessment** [[acg-2015-hereditary-gi-cancer]]:
+
 - Detailed 30-minute EGD with **multiple random biopsies** every 6–12 months beginning 5–10 years before the earliest cancer in the family
 - Enhanced visualization techniques may improve detection: **indigo-carmine staining** or **pH-sensitive congo red dye** followed by **pentagastrin stimulation** — improves detection of early gastric cancer
 - Esophageal and duodenal mucosa should be carefully inspected at the surgical specimen ends (gastric cancer after prophylactic gastrectomy has been reported)
@@ -72,6 +75,7 @@ Hereditary diffuse gastric cancer (HDGC) is an autosomal-dominant hereditary can
 **Recommended** for CDH1 mutation carriers after age 20, given >80% lifetime risk by age 80 (Conditional/Low) [[acg-2015-hereditary-gi-cancer]].
 
 Key data:
+
 - Systematic review of 220 CDH1 mutation carriers who tested positive: 76.8% underwent prophylactic gastrectomy; 23.2% declined
 - Among 169 who underwent surgery, 62.7% had negative preoperative EGD biopsies
 - 12.4% tested positive for cancer on preoperative EGD; 87% of surgical specimens had positive histopathology (early signet-ring cells through linitis plastica); only 10% had completely negative final pathology
@@ -79,6 +83,7 @@ Key data:
 **Extent of surgery**: total gastrectomy is required; partial gastrectomy is not appropriate given field effect and inability to survey residual gastric tissue.
 
 **Post-gastrectomy**:
+
 - Annual breast surveillance (MRI + mammography) from age 35 in women (equivalent to BRCA1/BRCA2-based protocols given 39% lobular breast cancer risk)
 - Colonoscopy beginning at age 40 in families that include colon cancer (Conditional/Low)
 

@@ -34,6 +34,7 @@ Portal hypertension (PH) is defined as a portocaval pressure gradient (portal ve
 ### Severity Assessment
 
 **HVPG (gold standard):**
+
 - 1–5 mm Hg: normal
 - 5–9 mm Hg: PH without CSPH (no varices, mild risk)
 - ≥10 mm Hg: CSPH → risk of complications begins
@@ -59,6 +60,7 @@ HVPG requires transjugular or transfemoral approach; preferred at experienced ce
 ### Classification / Typing
 
 Cirrhosis stages (per clinical features and HVPG):
+
 - **Compensated without CSPH:** F0–F2 histology equivalent; HVPG 3–5 mm Hg; no varices, no decompensation events
 - **Compensated with CSPH:** F3/F4 (thin septa); HVPG 5–10 mm Hg; ± varices; lower decompensation risk
 - **Compensated with CSPH (higher risk):** F4 (thick septa); HVPG >10 mm Hg; ± varices; higher decompensation risk
@@ -93,6 +95,7 @@ Cirrhosis stages (per clinical features and HVPG):
 | Diagnostic paracentesis | PMN count, culture, albumin (SAAG), total protein for ascites evaluation |
 
 **When to perform EGD for varices (AASLD 2023):**
+
 - When TE is NOT available to diagnose CSPH: screen all patients with cirrhosis
 - Baveno VI criteria can avoid endoscopy: LSM <20 kPa + platelets >150 K/mm³ = very low probability of high-risk varices (GS 14-16) [[aasld-2023-portal-hypertension]]
 - When TE IS available and shows CSPH: NSBB initiation can obviate need for screening endoscopy (GS 14)
@@ -107,6 +110,7 @@ Cirrhosis stages (per clinical features and HVPG):
 **Goal:** Prevent first decompensation event (GS 11).
 
 **NSBBs are the cornerstone:**
+
 - **Carvedilol is the preferred NSBB** (GS 1) — additional anti-alpha-1 adrenergic activity reduces intrahepatic vascular resistance; greater HVPG reduction than propranolol/nadolol
 - Maintenance dose: **6.25–12.5 mg/day** (GS 2); start 6.25 mg once daily, increase to twice daily after 3 days if tolerated
 - Goal: SBP ≥90 mm Hg (no heart rate target for carvedilol)
@@ -127,17 +131,20 @@ Cirrhosis stages (per clinical features and HVPG):
 ### Primary Prophylaxis for Variceal Hemorrhage
 
 **Compensated cirrhosis with CSPH + varices not previously bled:**
+
 - **NSBB (carvedilol) preferred** — initiated when CSPH identified, varices present or not (GS 14, 23); reduces both variceal hemorrhage and decompensation
 - **EVL for patients who cannot receive NSBBs** (GS 19) — repeat every 2–4 weeks until obliteration; then EGD at 6 months, then annually (GS 20)
 - EVL associated with higher complication rates and mortality than NSBBs in one meta-analysis; NSBBs preferred if tolerated
 
 **Decompensated cirrhosis:**
+
 - Annual EGD if not on NSBBs and never bled (GS 22)
 - NSBBs or EVL when high-risk varices detected; NSBBs preferred (GS 23)
 
 ### Acute Variceal Hemorrhage (AVH) — Initial Management
 
 **Immediate (before endoscopy):**
+
 1. **Vasoactive therapy** immediately: octreotide (50 mcg IV bolus → 25–50 mcg/hr × 2–5 days), somatostatin (250 mcg bolus → 250–500 mcg/hr), or terlipressin if available (GS 25–26)
 2. **IV antibiotics** immediately: ceftriaxone 1 g IV q24h × 5 days (preferred in Child-Pugh C or high-resistance); de-escalate when bleeding controlled and no active infection (GS 27)
 3. **Restrictive transfusion:** target Hgb ~7 g/dL; avoid overtransfusion (worsens portal pressure) (GS 28)
@@ -145,6 +152,7 @@ Cirrhosis stages (per clinical features and HVPG):
 5. **Airway assessment:** endotracheal intubation before endoscopy if altered mental status or aspiration risk
 
 **Endoscopy (within 12 hours of presentation) (GS 30):**
+
 - IV erythromycin 125–250 mg × 30–120 minutes before endoscopy (improves visualization)
 - **Esophageal varices → EVL** (GS 31); repeat every 2–4 weeks until obliteration post-discharge
 - **Gastric/ectopic varices** → cyanoacrylate injection, TIPS, or BRTO/obliterative therapy (GS 43–47; see below)
@@ -154,11 +162,13 @@ Cirrhosis stages (per clinical features and HVPG):
 Indicated for: CTP class B score >7 with active bleeding at endoscopy, OR CTP class C score 10–13 (GS 32). Polytetrafluoroethylene-covered stents. If TIPS not locally available → transfer. Preemptive TIPS significantly improves bleeding control and survival (PREVENT and TRANSJIP-1 trials).
 
 **Post-hemostasis (patients who do NOT receive preemptive TIPS):**
+
 - Start NSBB at discontinuation of vasoactive therapy (GS 33)
 - Discontinue PPI once AVH confirmed as bleeding source (no other indications) (GS 37)
 - Start enteral feeding once AVH controlled; variceal bands do not contraindicate NG tube (GS 36)
 
 **Salvage/Rescue TIPS:**
+
 - Uncontrolled AVH ("salvage") or rebleed despite vasoactive therapy + EVL ("rescue") (GS 35)
 
 ### Secondary Prophylaxis
@@ -169,6 +179,7 @@ Indicated for: CTP class B score >7 with active bleeding at endoscopy, OR CTP cl
 ### Gastric and Ectopic Varices
 
 **Gastric varices (Sarin classification: GOV1/GOV2/IGV1/IGV2):**
+
 - All gastric/ectopic varices indicate CSPH; evaluate for [[portal-vein-thrombosis]] (GS 40)
 - Primary prophylaxis: NSBBs preferred; ECI (cyanoacrylate injection) for high-risk cardiofundal (GOV2/IGV1 ≥10 mm, red wale signs, CTP B/C) who cannot receive NSBBs (GS 41)
 - Neither TIPS nor BRTO for primary prophylaxis in fundal varices that have not bled (GS 42)
@@ -187,11 +198,13 @@ Indicated for: CTP class B score >7 with active bleeding at endoscopy, OR CTP cl
 ### Special Situations
 
 **Portal hypertension in HCC (GS 52–54):**
+
 - AVH prevention/treatment follows same principles as non-HCC patients
 - NSBB for primary prophylaxis of VH and decompensation prevention in HCC with CSPH
 - Occlusive PVT: EGD to screen for varices; NSBBs or EVL when detected
 
 **Pregnancy (GS 55–56):**
+
 - All patients with cirrhosis or noncirrhotic PH planning pregnancy: EGD within 1 year of conception
 - Unscreened pregnant patients: EGD early in second trimester
 - Primary prophylaxis: NSBBs or EVL for medium/large varices; EVL preferred if red wale marks present

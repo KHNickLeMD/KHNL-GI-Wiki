@@ -8,6 +8,7 @@ sources: []
 ---
 
 ## Bibliographic Info
+
 - **Authors:** Brandt LJ, Feuerstadt P, Longstreth GF, Boley SJ; American College of Gastroenterology
 - **Year:** 2015
 - **Journal/Publisher:** *American Journal of Gastroenterology* 2015;110:18–44

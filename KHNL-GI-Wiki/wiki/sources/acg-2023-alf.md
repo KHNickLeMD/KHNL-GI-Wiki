@@ -9,7 +9,7 @@ sources: []
 
 ## Bibliographic Info
 
-Shingina A, Mukhtar N, Wakim-Fleming J, Alqahtani S, Wong RJ, Limketkai BN, Larson AM, Grant L. Acute Liver Failure Guidelines. *Am J Gastroenterol.* 2023;118:1128–1153. https://doi.org/10.14309/ajg.0000000000002340. Published online March 20, 2023.
+Shingina A, Mukhtar N, Wakim-Fleming J, Alqahtani S, Wong RJ, Limketkai BN, Larson AM, Grant L. Acute Liver Failure Guidelines. *Am J Gastroenterol.* 2023;118:1128–1153. <https://doi.org/10.14309/ajg.0000000000002340>. Published online March 20, 2023.
 
 American College of Gastroenterology (ACG). GRADE methodology applied. Literature search through January 2022.
 
@@ -22,6 +22,7 @@ ALF is defined as: illness duration <26 weeks in a patient **without** preexisti
 ## Key Findings / Claims
 
 ### Definition and Classification
+
 - US/European definition: <26 weeks illness, no preexisting liver disease, encephalopathy (any degree), INR ≥ 1.5
 - O'Grady classification by onset of encephalopathy:
   - **Hyperacute** (<7 days): APAP, HAV, HEV, ischemic injury — high cerebral edema risk, best prognosis without transplant
@@ -30,9 +31,11 @@ ALF is defined as: illness duration <26 weeks in a patient **without** preexisti
 - Incidence: ~2,000–3,000 cases/year in the United States (~1–6 per million in developed countries)
 
 ### Etiology (North America)
+
 Top causes: acetaminophen (APAP) toxicity, idiosyncratic DILI (antimicrobials, CAM), indeterminate/cryptogenic, viral hepatitis (HAV 3%, HBV 7%, HEV 2%), AIH, pregnancy-related (HELLP, AFLP), Wilson disease, BCS, mushroom poisoning, ischemic hepatitis, malignant infiltration
 
 ### Diagnostics / Workup
+
 - Comprehensive labs (CBC, CMP, INR, fibrinogen, ABG, lactate, blood/urine cultures, ABO type)
 - Viral panel: HAV IgM, HBsAg, HBcIgM, HBV PCR, HCV PCR, HEV PCR (if endemic), EBV/CMV/HSV/VZV PCR
 - Toxicology: serum APAP, ASA, urine drug screen
@@ -44,6 +47,7 @@ Top causes: acetaminophen (APAP) toxicity, idiosyncratic DILI (antimicrobials, C
 - Liver biopsy: not routine; transjugular preferred (TJLB); indicated to exclude infiltrative/malignant disease or diagnose AIH
 
 ### Encephalopathy and CNS
+
 - West-Haven Criteria grade 2 → transfer to ICU, neuro checks q1h
 - Grade 3–4 → intubation for airway protection; avoid opioids/benzodiazepines; consider propofol
 - No conclusive evidence for/against lactulose or rifaximin in ALF (unlike cirrhosis)
@@ -52,18 +56,21 @@ Top causes: acetaminophen (APAP) toxicity, idiosyncratic DILI (antimicrobials, C
 - Increased ICP: mannitol, hypertonic saline (3% NaCl 250–500 mL bolus), hyperventilation, CRRT; target Na 145–150 mmol/L
 
 ### Coagulopathy
+
 - INR does **not** accurately reflect bleeding risk in ALF (rebalanced hemostasis)
 - Clinically significant bleeding causes death in only ~5% of cases
 - Do NOT routinely correct coagulopathy (FFP, platelets, cryoprecipitate) in absence of active bleeding or high-risk procedure — risk of transfusion reactions, TRALI, thrombosis
 - Viscoelastic testing (rotational thromboelastometry/thromboelastography) preferred over INR for bleeding/clot assessment
 
 ### Infection
+
 - Clinical signs absent in up to 30% of cases
 - No routine prophylactic antimicrobials (no reduction in bloodstream infection or 21-day mortality)
 - Procalcitonin is unreliable as infection marker in ALF
 - Regular surveillance cultures (blood, urine, sputum); empiric antibiotics/antifungals may be considered with clinical deterioration
 
 ### Hemodynamics and Renal Failure
+
 - Hemodynamic profile resembles septic shock (high CO, low SVR)
 - Vasopressor of choice: **norepinephrine** (strong recommendation, moderate quality)
 - Add vasopressin if norepinephrine insufficient (conditional, low quality)
@@ -72,16 +79,19 @@ Top causes: acetaminophen (APAP) toxicity, idiosyncratic DILI (antimicrobials, C
 - RRT indications include: AKI, acid-base/electrolyte disturbance, volume overload, and hyperammonemia (independent of AKI)
 
 ### Nutrition and Metabolic Support
+
 - Enteral nutrition if unable to eat within 5–7 days; oral if mild encephalopathy
 - Protein 1.0–1.5 g/kg/day; consider delay/reduction if ammonia >150 mmol/L
 - Maintain glucose 150–180 mg/dL with continuous D10W infusion
 - Monitor Mg and phosphorus q8–12h; avoid hypotonic solutions (risk of hyponatremia/cerebral edema)
 
 ### Liver Support Devices
+
 - High-volume plasma exchange (HVPE, 8–12 L FFP) may improve transplant-free survival — insufficient evidence for routine use
 - Artificial/bioartificial liver support (MARS, SPAD, Prometheus) — no FDA approval; insufficient evidence for routine use
 
 ### Etiology-Specific Treatments
+
 | Etiology | Treatment |
 |---|---|
 | APAP overdose | IV NAC (300 mg/kg over 21 hr standard; extended protocol in ALF); activated charcoal within 4 hr of ingestion |
@@ -98,6 +108,7 @@ Top causes: acetaminophen (APAP) toxicity, idiosyncratic DILI (antimicrobials, C
 | Indeterminate | NAC for low-grade encephalopathy; early LT evaluation |
 
 ### Prognostic Scoring and Transplant
+
 - **King's College Criteria (KCC)**:
   - APAP: pH <7.3 after resuscitation OR lactate >3 mmol/L, OR all of: HE >grade 3 + creatinine >3.4 mg/dL + INR >6.5
   - Non-APAP: INR >6.5 OR 3 of 5: indeterminate/DILI etiology, age >40, jaundice-to-encephalopathy >7 days, bilirubin >17.4 mg/dL, INR >3.5
@@ -140,6 +151,7 @@ Top causes: acetaminophen (APAP) toxicity, idiosyncratic DILI (antimicrobials, C
 ## Relevance to Wiki
 
 This is the primary ACG guideline for ALF and should anchor the [[acute-liver-failure]] disease script. It covers the full clinical spectrum from diagnosis through transplant. Key links to existing wiki pages:
+
 - [[alcohol-associated-liver-disease]] — alcohol consumption worsens ALF outcomes; ETG/PETH biomarkers recommended
 - [[chronic-hepatitis-b]] — HBV reactivation as ALF etiology; treatment with entecavir/tenofovir
 - [[nutrition-in-liver-disease]] — nutritional support principles overlap

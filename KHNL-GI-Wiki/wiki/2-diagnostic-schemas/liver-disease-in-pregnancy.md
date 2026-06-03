@@ -10,6 +10,7 @@ sources: [acg-2016-liver-disease-pregnancy]
 ## Definition / Scope
 
 Abnormal liver tests occur in ~3–5% of pregnancies, even in otherwise healthy women. The differential encompasses:
+
 1. **Diseases coincident with pregnancy** (pre-existing or incidental): viral hepatitis, biliary disease, DILI, autoimmune hepatitis, PBC, Wilson's disease, cirrhosis
 2. **Diseases unique to or exacerbated by pregnancy**: hyperemesis gravidarum (HG), intrahepatic cholestasis of pregnancy (IHCP), acute fatty liver of pregnancy (AFLP), preeclampsia/eclampsia with hepatic involvement, HELLP syndrome
 
@@ -47,6 +48,7 @@ Any abnormality in AST/ALT or bilirubin requires evaluation. ALP elevation alone
 | Acute fatty liver of pregnancy (AFLP) | Third (median 36 wk) | Nausea/vomiting, abdominal pain, encephalopathy, hypoglycemia, coagulopathy |
 
 ### Coincident Liver Diseases
+
 - Biliary: cholelithiasis (3.5% in pregnancy), cholecystitis, choledocholithiasis, biliary pancreatitis
 - Viral: [[chronic-hepatitis-b]], hepatitis C ([[hepatitis-c-in-pregnancy]]), HAV, HEV, HSV hepatitis
 - Autoimmune: [[autoimmune-hepatitis]], [[primary-biliary-cholangitis]]
@@ -59,21 +61,25 @@ Any abnormality in AST/ALT or bilirubin requires evaluation. ALP elevation alone
 ## Diagnostic Algorithm
 
 **Step 1 — Initial workup (same as non-pregnant patient)** [[acg-2016-liver-disease-pregnancy]] Rec 1
+
 - Complete history (prior pregnancies, high-risk behaviors, medications), physical exam, standard serology
 - Classify pattern: **hepatocellular** (AST/ALT predominant) vs. **biliary** (bilirubin ± ALP)
 
 **Step 2 — Hepatocellular pattern**
+
 - Rule out: viral hepatitis (HAV IgM, HBsAg/HBcAb IgM, HBV DNA, HCV Ab, HEV IgM, HSV PCR), herpes, medications
 - Consider pregnancy-related workup (see trimester-specific diseases below)
 - If acute hepatitis with suspected HSV: empiric acyclovir immediately (Rec 21)
 
 **Step 3 — Biliary/cholestatic pattern (elevated bilirubin ± ALP)**
+
 - Abdominal ultrasound first (Rec 2) — 95% sensitive for gallstones
 - If evidence of obstruction → ERCP if symptomatic choledocholithiasis, cholangitis, biliary pancreatitis (Rec 7)
 - No evidence of obstruction with elevated bilirubin → consider IHCP (bile acid level)
 - ALP elevation alone → may be placental (no further workup needed if isolated)
 
 **Step 4 — Imaging**
+
 - **Ultrasound**: first-line, no radiation, safe in all trimesters (Rec 2)
 - **MRI without gadolinium**: second/third trimester (Rec 3); avoid gadolinium (crosses placenta → amniotic fluid accumulation)
 - **CT**: judiciously, minimized radiation protocols 2–5 rads (Rec 4); fetal risk of anomalies not increased at <5 rad
@@ -92,6 +98,7 @@ Any abnormality in AST/ALT or bilirubin requires evaluation. ALP elevation alone
 **Risk factors:** Molar pregnancy, multiple gestations, trophoblastic disease, prior HG, fetal abnormalities (triploidy, trisomy 21, hydrops fetalis).
 
 **Management:**
+
 - Supportive: IV fluids, electrolyte repletion, antiemetics
 - Hospitalization as needed for severe dehydration/electrolyte abnormalities (Rec 11 — strong recommendation, very low evidence)
 - Liver abnormalities resolve when vomiting stops; no specific liver-directed therapy
@@ -103,6 +110,7 @@ Any abnormality in AST/ALT or bilirubin requires evaluation. ALP elevation alone
 **Pathophysiology:** Estrogen/progesterone effect on bile salt export pumps; genetic predisposition; higher prevalence in women with hepatitis C, cholelithiasis, NAFLD.
 
 **Diagnosis:**
+
 - Serum bile acids >10 µmol/l (diagnostic); >40 µmol/l = high risk for fetal distress
 - Aminotransferases may be elevated (up to >1,000 U/l)
 - Ultrasound to exclude cholelithiasis
@@ -112,6 +120,7 @@ Any abnormality in AST/ALT or bilirubin requires evaluation. ALP elevation alone
 **Fetal risks:** Preterm labor, prematurity, intrauterine death (more common in last month of pregnancy; few deaths occur before 37 weeks).
 
 **Management:**
+
 - **UDCA 10–15 mg/kg/day**: first-line for symptomatic improvement; normalizes serum bile acids; improves pruritus; safe for mother and fetus (Rec 13 — strong, moderate evidence); superior to cholestyramine or dexamethasone for pruritus control
 - Dexamethasone may be used adjunctively if needed for fetal lung maturity (higher prematurity rate in IHCP)
 - **Early delivery at 37 weeks**: reduces risk of intrauterine fetal death (Rec 12 — strong, very low evidence); intra-uterine death more common in last month; few deaths before 37 weeks
@@ -124,6 +133,7 @@ Any abnormality in AST/ALT or bilirubin requires evaluation. ALP elevation alone
 **Definition:** Preeclampsia = new hypertension (SBP ≥140 or DBP ≥90 mmHg) + proteinuria (≥300 mg/24h) after 20 weeks. Organ dysfunction (including liver) = severe preeclampsia. Eclampsia = preeclampsia + grand mal seizures.
 
 **Hepatic features:**
+
 - Hepatic involvement in up to 7.5% of all pregnancies with preeclampsia; only 25% of preeclampsia is severe
 - Epigastric/RUQ pain from hepatomegaly stretching Glisson's capsule; fibrin deposition in liver
 - AST/ALT elevations can be striking; complications include subcapsular hematoma and hepatic rupture
@@ -132,6 +142,7 @@ Any abnormality in AST/ALT or bilirubin requires evaluation. ALP elevation alone
 **Diagnosis:** Clinical + labs (LFTs, CBC, urine protein). Liver tests do not exclusively guide clinical decisions. Imaging (CT/MRI) if AST/ALT >1,000 U/l or abdominal pain radiating to right shoulder (to exclude hepatic complications).
 
 **Management:**
+
 - Expectant management advised after 34 weeks to limit fetal morbidity; no advantage to continuing pregnancy after 36–37 weeks
 - **Deliver promptly after 36 weeks for severe preeclampsia** (Rec 14 — strong, very low evidence)
 - Hepatic rupture: surgery for those with enlarging hematomas or hemodynamic instability; percutaneous embolization of hepatic arteries as alternative in stable patients; liver transplantation for continued decompensation
@@ -141,6 +152,7 @@ Any abnormality in AST/ALT or bilirubin requires evaluation. ALP elevation alone
 **Definition:** Hemolysis + elevated liver enzymes + low platelets (<100,000 cells/µl). Complicates up to 20% of severe preeclampsia/eclampsia. Presents 28–36 weeks; 30% manifest in first week postpartum.
 
 **Clinical features:**
+
 - RUQ/epigastric pain, nausea, vomiting, malaise, headache, edema, weight gain
 - Hypertension and proteinuria in ~80% of cases
 - Jaundice rare (only 5%)
@@ -151,6 +163,7 @@ Any abnormality in AST/ALT or bilirubin requires evaluation. ALP elevation alone
 **Maternal/fetal risks:** Mortality 1–3%; periventricular hemorrhage, hepatic infarction, subcapsular hematoma.
 
 **Management:**
+
 - **Prompt delivery especially after 34 weeks gestation** (Rec 15 — strong, very low evidence)
 - **Platelet transfusion to 40,000–50,000 cells/µl before delivery**, especially if C-section anticipated (Rec 16 — conditional, very low evidence); no contraindication to platelet transfusion; transfusion to >40,000 cells/µl advised when invasive procedures are anticipated
 - Glucocorticoids: used in pregnancies <34 weeks to accelerate pulmonary maturity; dexamethasone resulted in greater improvement in platelet count (Cochrane review) but no difference in maternal morbidity/mortality
@@ -189,6 +202,7 @@ Any abnormality in AST/ALT or bilirubin requires evaluation. ALP elevation alone
 Swansea Criteria: 85% PPV, 100% NPV for hepatic microvesicular steatosis (validated in UK cohort of 5.0 cases/100,000 maternities).
 
 **Management:**
+
 - **Prompt delivery — expectant management is not appropriate** (Rec 17 — strong, very low evidence)
 - Early recognition and supportive care essential (post-partum course depends on interval between symptom onset and delivery)
 - If hepatic function does not improve post-delivery → evaluate for liver transplantation ([[acute-liver-failure]])
@@ -200,17 +214,20 @@ Swansea Criteria: 85% PPV, 100% NPV for hepatic microvesicular steatosis (valida
 ## Viral Hepatitis in Pregnancy
 
 ### Hepatitis A (HAV)
+
 - Acute HAV not significantly altered by pregnancy state; HAV-IgM testing in pregnant women with acute hepatitis
 - HAV during pregnancy: preterm labor and premature membrane rupture reported but no significant impact on maternal/fetal outcomes
 - CDC recommends HAV immunoglobulin for neonate if maternal HAV infection occurs within 2 weeks of delivery
 - Vertical transmission of HAV has been reported (outbreaks in neonatal ICUs)
 
 ### Hepatitis E (HEV)
+
 - HEV associated with high maternal and infant mortality in Southeast Asia; rates rare in US/Europe but under-diagnosed
 - Screen for HEV-IgM in pregnant women with acute hepatitis to anticipate possible progression to [[acute-liver-failure]]
 - Treatment is otherwise supportive
 
 ### Herpes Simplex Virus (HSV) Hepatitis
+
 - Very rare but extremely high mortality (up to 74% reported); difficult to diagnose
 - Clinical clues: fever, upper respiratory infection symptoms, anicteric severe hepatitis; pathognomonic mucocutaneous lesions in <50% of cases
 - HSV PCR should be performed when HSV hepatitis suspected
@@ -219,28 +236,34 @@ Swansea Criteria: 85% PPV, 100% NPV for hepatic microvesicular steatosis (valida
 - High index of suspicion in any pregnant patient with fever, anicteric severe hepatitis on labs
 
 ### Chronic Hepatitis B (HBV) in Pregnancy
+
 See also: [[chronic-hepatitis-b]]
 
 **Perinatal transmission:**
+
 - MTCT without prophylaxis: 70–90% in HBeAg+ mothers; 10–40% in HBeAg− mothers
 - Active–passive immunoprophylaxis (HBIG + HBV vaccine within 12h of birth, 2 additional doses within 6–12 months) reduces MTCT to ~5%
 - Immunoprophylaxis fails in 8–30% of children born to highly viremic mothers (HBV DNA >1×10⁶–10⁷ IU/ml)
 
 **Antiviral therapy:**
+
 - Offer **tenofovir disoproxil fumarate (TDF) or telbivudine** in third trimester to women with HBV DNA >200,000 IU/ml (>10⁶ log copies/ml; Rec 23 — strong, low evidence)
 - High viral load (>6–7 log₁₀ copies/ml / >2×10⁶–10⁷ IU/ml) = 7–8% MTCT risk even with prophylaxis
 - Discontinue antiviral after delivery (for MTCT reduction only) with monitoring for HBV flare
 - Treatment for maternal liver disease follows standard guidelines ([[chronic-hepatitis-b]])
 
 **Delivery and breastfeeding:**
+
 - **Elective C-section not recommended to prevent perinatal HBV transmission** (Rec 24 — strong, very low evidence)
 - **Breastfeeding permitted** — low transmission risk in infants who receive appropriate immunoprophylaxis (Rec 25)
 - Breastfeeding should be avoided with cracked or bleeding nipples; nucleos(t)ide analogs excreted in breast milk at low levels
 
 ### Hepatitis C (HCV) in Pregnancy
+
 See also: [[hepatitis-c-in-pregnancy]]
 
 **Transmission:**
+
 - 3–10% vertical transmission at birth; highest risk with HIV co-infection
 - No perinatal prevention strategy that clearly reduces risk
 - Minimize invasive procedures (amniocentesis, invasive fetal monitoring) in infected mothers (Rec 27)
@@ -257,6 +280,7 @@ See also: [[hepatitis-c-in-pregnancy]]
 ## Chronic Liver Disease in Pregnancy
 
 ### Autoimmune Hepatitis (AIH)
+
 See also: [[autoimmune-hepatitis]]
 
 - AIH associated with increased risk of fetal prematurity and loss; worse outcomes with inadequate disease control
@@ -267,6 +291,7 @@ See also: [[autoimmune-hepatitis]]
 - Corticosteroid monotherapy used for flare management (AZA historically limited in pregnancy, though evidence supports continuation)
 
 ### Primary Biliary Cholangitis (PBC)
+
 See also: [[primary-biliary-cholangitis]]
 
 - PBC typically presents at older age; pregnancy infrequent but possible
@@ -274,6 +299,7 @@ See also: [[primary-biliary-cholangitis]]
 - Limited data in first trimester; caution warranted with UDCA initiation in first trimester
 
 ### Wilson's Disease (WD)
+
 See also: [[wilson-disease]]
 
 - WD reduces fertility (copper deposition in uterus interferes with embryo implantation); but pregnancy possible

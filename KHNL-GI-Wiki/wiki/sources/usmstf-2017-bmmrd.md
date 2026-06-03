@@ -8,6 +8,7 @@ sources: []
 ---
 
 ## Bibliographic Info
+
 - **Authors:** Durno C, Boland CR, Cohen S, Dominitz JA, Giardiello FM, Johnson DA, Kaltenbach T, Levin TR, Lieberman D, Robertson DJ, Rex DK; US Multi-Society Task Force on Colorectal Cancer
 - **Year:** 2017
 - **Journal/Publisher:** *Am J Gastroenterol* 2017;112:682–690; doi:10.1038/ajg.2017.105
@@ -31,6 +32,7 @@ The guideline acknowledges that evidence is exclusively from case series, kindre
 ## Key Findings / Claims
 
 **Disease Biology**
+
 - BMMRD occurs in 25% of offspring of two LS parents carrying the same MMR gene mutation (autosomal recessive inheritance)
 - Most BMMRD patients have no immediate family history of LS-related cancer; parents are usually clinically unaffected (heterozygous carriers with low penetrance, especially PMS2)
 - PMS2 biallelic mutations are the most common BMMRD genotype; MSH6 biallelic mutations are over-represented compared to LS
@@ -55,6 +57,7 @@ The guideline acknowledges that evidence is exclusively from case series, kindre
 | Other (neuroblastoma, Wilms, rhabdomyosarcoma, osteosarcoma, breast, melanoma, ovarian neuroectodermal tumor, pilomatricoma, hepatic adenoma) | <10 each | 1–35 |
 
 **Clinical Clues to Suspect BMMRD (Table 2)**
+
 - Child or young adult with a Lynch syndrome cancer (colorectal, small bowel, ureter, endometrial, etc.)
 - Child or young adult with colonic adenomatous polyposis not explained by a known polyposis syndrome (FAP, MAP)
 - Any child or young adult with cancer plus parental consanguinity, café-au-lait macules, or features of neurofibromatosis not explained by other confirmed germline mutation (i.e., neurofibromatosis)
@@ -63,6 +66,7 @@ The guideline acknowledges that evidence is exclusively from case series, kindre
 - Any child or adult with a hypermutated tumor
 
 **Surveillance**
+
 - Colonoscopy annually from age 6 recommended; once polyps identified, every 6 months
 - Upper endoscopy + video capsule endoscopy (VCE) annually from age 8
 - Brain MRI every 6 months from age 2; alternative: head ultrasound until fontanel fusion
@@ -73,18 +77,21 @@ The guideline acknowledges that evidence is exclusively from case series, kindre
 - Heterozygous relatives (parents, siblings) should follow standard LS screening guidelines
 
 **Surgical Management**
+
 - CRC: total or subtotal colectomy with ileorectal anastomosis preferred given high metachronous CRC risk
 - Proctocolectomy with ileal pouch-anal anastomosis may be necessary for rectal cancer
 - Close rectal surveillance every 6–12 months after ileorectal anastomosis is crucial
 - Small-bowel cancer: resection is treatment of choice; survival favorable for localized disease
 
 **Pharmacologic and Immunologic Considerations**
+
 - Aspirin: LS data show >60% reduction in CRC incidence with 600 mg/day for ≥2 years (CAPP2); extrapolation to BMMRD is uncertain but a controlled prevention trial in BMMRD is proposed as reasonable
 - Pembrolizumab (anti-PD-1): showed 78% clinical improvement in patients with MSI CRC; may be applicable in BMMRD (tumors are hypermutated); not yet formally studied in BMMRD
 - Frameshift peptide vaccination: under study in LS; not yet applied to BMMRD
 - BMMRD tumors often fail to show MSI on standard testing — this may affect immunotherapy eligibility determinations
 
 **Genetic Counseling**
+
 - Siblings of the proband are at risk for BMMRD, Lynch syndrome, or carrier status — germline testing determines surveillance protocol
 - Both parents have LS (monoallelic mutation); cancer risk and surveillance recommendations for parents should follow LS guidelines
 - Family planning options including prenatal and preimplantation genetic diagnosis should be discussed

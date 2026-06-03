@@ -8,6 +8,7 @@ sources: []
 ---
 
 ## Bibliographic Info
+
 - **Authors:** Patel, May, Anderson, Burke et al. (USMSTF)
 - **Year:** Published online November 2021; AJG print 2022
 - **Journal:** Am J Gastroenterol 2022;117:57–69
@@ -15,6 +16,7 @@ sources: []
 - **Type:** Focused guideline update (ACG, AGA, ASGE) — updates 2017 screening recommendations
 
 ## Summary
+
 Focused update on when to start and stop average-risk CRC screening. Driven by rising incidence of early-age onset CRC (EAO-CRC). Key change: recommends offering average-risk screening starting at age 45 (weak recommendation). Recommendations for stopping age unchanged. Does not address screening test selection (covered in 2017 guideline).
 
 ## Key Findings / Claims
@@ -30,6 +32,7 @@ Focused update on when to start and stop average-risk CRC screening. Driven by r
 | Age >85 | Do NOT screen | Strong |
 
 ### Rationale for Age 45
+
 - CRC incidence in 45–49 y/o now matches rates in 50 y/o from 1992 (when screening first recommended)
 - Advanced colorectal neoplasia rate in 45–49 y/o (3.6%) similar to 50–59 y/o (4.2%; P=0.69)
 - Modeling: of 57 screening strategies considered efficient, 47/57 begin at age 45
@@ -37,6 +40,7 @@ Focused update on when to start and stop average-risk CRC screening. Driven by r
 - Cost-effective: colonoscopy q10y from 45 = $33,900/QALY; annual FIT from 45 = $7,700/QALY
 
 ### EAO-CRC Epidemiology (key facts)
+
 - CRC incidence rising 1.1%/year in <50 y/o (2006–2015)
 - Rectal cancer rising fastest: 1.7%/year
 - EAO-CRC features: more often left-sided/rectal, more mucinous/signet ring histology, more advanced stage at diagnosis
@@ -45,11 +49,14 @@ Focused update on when to start and stop average-risk CRC screening. Driven by r
 - Strong birth cohort effect — exposures accumulated in early life contribute to rising incidence
 
 ### Preferred Screening Tests (unchanged from 2017)
+
 **Tier 1 (preferred):**
+
 - Colonoscopy every 10 years
 - Annual FIT
 
 **Acceptable alternatives:**
+
 - Flexible sigmoidoscopy q5–10y
 - CT colonography q5y
 - FIT–fecal DNA (Cologuard) q3y
@@ -58,6 +65,7 @@ Focused update on when to start and stop average-risk CRC screening. Driven by r
 *High-quality colonoscopy = complete to cecum, adequate prep, colonoscopist ADR ≥25%*
 
 ### Stopping Age
+
 - Age 75 with negative prior screening: consider stopping (weak)
 - Age 76–85: shared decision-making (prior screening, life expectancy, CRC risk, preference)
 - Age >85: do not screen; mortality risk from comorbidities and procedure adverse events outweighs benefit
@@ -79,10 +87,12 @@ Focused update on when to start and stop average-risk CRC screening. Driven by r
 | Acceptable alternatives: flexible sigmoidoscopy q5-10y, CT colonography q5y, FIT-fecal DNA q3y, capsule colonoscopy q5y | Summary Statement | — |
 
 ## Relevance to Wiki
+
 - Primary source for screening age recommendations in [[colonoscopy]]
 - Informs diagnostic-schema for colorectal cancer screening (future page)
 
 ## Contradictions / Open Questions
+
 - No direct RCT evidence that screening under 50 reduces CRC incidence or mortality
 - Optimal screening modality and interval for 45–49 y/o not specified
 - Whether hybrid approach (noninvasive at 45, colonoscopy at 50) is preferred: unknown

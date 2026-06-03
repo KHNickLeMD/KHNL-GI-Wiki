@@ -27,11 +27,13 @@ Acute GI bleeding is defined as overt bleeding (melena, hematochezia, hematemesi
 ### VKA Reversal (Warfarin)
 
 **Fresh frozen plasma (FFP):**
+
 - Guideline suggests **against** routine FFP administration (conditional, very low certainty)
 - FFP often fails to normalize INR (mean INR 2.3 after administration in one cohort); associated with fluid overload and possible increased thrombotic risk
 - May be considered if: life-threatening bleed, PCC unavailable, or massive transfusion coagulopathy management is needed
 
 **Prothrombin complex concentrate (PCC):**
+
 - Guideline **could not recommend for or against** PCC vs. placebo (insufficient GI-specific data)
 - When reversal is chosen: guideline **prefers 4F-PCC over FFP** (conditional, very low certainty) — PCC achieves more rapid and reliable INR correction (RR for rapid INR correction vs FFP: 6.99, 95% CI 3.61–13.53)
 - 4F-PCC and 3-factor PCC are treated as equivalent for VKA reversal
@@ -39,6 +41,7 @@ Acute GI bleeding is defined as overt bleeding (melena, hematochezia, hematemesi
 - PCC is **not necessary for most warfarin-related GI bleeds**; endoscopic hemostasis is usually sufficient
 
 **Vitamin K:**
+
 - Guideline suggests **against** vitamin K in acute GI bleeding (conditional, very low certainty)
 - Vitamin K takes 24–48 hours to reverse INR — too slow to aid acute hemostasis
 - May be considered if intent is prolonged VKA reversal (over 2–4 weeks) or permanent VKA cessation, in consultation with hematology/cardiology
@@ -46,11 +49,13 @@ Acute GI bleeding is defined as overt bleeding (melena, hematochezia, hematemesi
 ### DOAC Reversal (Apixaban, Rivaroxaban, Dabigatran, Edoxaban)
 
 **Dabigatran — idarucizumab (Praxbind):**
+
 - Guideline suggests **against** routine idarucizumab for GI bleeding (conditional, very low certainty)
 - One comparative cohort (dabigatran-related GI bleed, N=1,283): no significant mortality or VTE reduction with idarucizumab
 - High cost; selective use is reasonable in life-threatening bleed with dabigatran taken within the past 24 hours
 
 **Rivaroxaban/apixaban — andexanet alfa (Andexxa):**
+
 - Guideline suggests **against** routine andexanet alfa (conditional, very low certainty)
 - Andexanet alfa is a recombinant factor Xa decoy protein; reduces anti-Xa activity by ~92% within 2–5 minutes
 - Single uncontrolled cohort (62 GI bleed patients in efficacy group): 85% excellent/good hemostasis at 12 hours; 30-day thrombotic event rate 9.7%, mortality 13.9% in the full cohort
@@ -58,6 +63,7 @@ Acute GI bleeding is defined as overt bleeding (melena, hematochezia, hematemesi
 - Not studied for edoxaban in GI bleeding context
 
 **DOACs — 4-factor PCC:**
+
 - Guideline suggests **against** PCC for DOAC-related GI bleeding (conditional, very low certainty)
 - Very sparse data; 2 DOAC-on-PCC patients in one cohort both died within 30 days (unadjusted)
 - Selective use may be justified in life-threatening bleed with DOAC taken within 24 hours
@@ -67,12 +73,14 @@ Acute GI bleeding is defined as overt bleeding (melena, hematochezia, hematemesi
 ### Antiplatelet Management
 
 **Platelet transfusion:**
+
 - Guideline suggests **against** platelet transfusion in antiplatelet-related GI bleeding (conditional, very low certainty)
 - One matched cohort (N=408): platelet transfusion associated with significantly increased mortality (OR 5.57, 95% CI 1.52–27.1) and nonsignificant increases in rebleeding and thrombotic events
 - ASA irreversibly inhibits platelets for 7–10 days; clopidogrel/prasugrel similarly irreversible; ticagrelor reversible but effect persists 3–5 days
 - Functional platelets infused into a patient with residual drug-bound platelets carry thrombotic risk without clear hemostatic benefit
 
 **Aspirin (ASA) for secondary cardiovascular prevention:**
+
 - Guideline suggests **against holding** cardiac ASA during GI bleeding (conditional, very low certainty)
 - Rationale: persistent platelet inhibition means stopping ASA has minimal effect on early clinical course; cardiovascular risk of stopping (MI, stroke) outweighs marginal benefit
 - If ASA was already held before presentation, resume on the **day hemostasis is endoscopically confirmed** (conditional, very low certainty)
@@ -83,6 +91,7 @@ Acute GI bleeding is defined as overt bleeding (melena, hematochezia, hematemesi
 The 2022 guideline was **unable to make a recommendation** on optimal timing of resumption (same day vs. 1–7 days) for warfarin, DOACs, or P2Y12 inhibitors after elective procedures due to insufficient comparative data.
 
 Clinical principles to guide individual decisions:
+
 - Achievement of adequate endoscopic hemostasis
 - Procedure-specific risk of delayed bleeding
 - Patient's thromboembolic risk (see Table 4 risk stratification below)
@@ -127,10 +136,12 @@ The periendoscopic framework applies to patients undergoing **scheduled, electiv
 ### Low Thrombotic Risk Patients
 
 For patients at low thromboembolic risk on warfarin:
+
 - **Continue warfarin** for low/moderate bleeding risk procedures (Statement 11)
 - If interrupted for high-risk procedures: no bridging needed; resume warfarin after procedure
 
 For patients at low thromboembolic risk on DOACs:
+
 - **Temporarily interrupt DOACs** rather than continue (Statement 13)
 - Interruption typically 1–2 days before procedure (excluding the procedure day)
 - Resume DOAC early (day 0–3) rather than delayed to reduce post-procedural bleeding
@@ -151,11 +162,13 @@ For patients at low thromboembolic risk on DOACs:
 **Guideline recommendation (Statement 12):** For warfarin-interrupted patients undergoing elective GI procedures, **suggest against bridging** (conditional, low certainty) — except in patients with mechanical heart valve.
 
 **Evidence:**
+
 - BRIDGE trial (N=1,813 AF patients, mostly low/moderate bleeding risk procedures): no bridging noninferior for thromboembolism (0.4% vs. 0.3%) and significantly reduced major bleeding (1.3% vs. 3.2%, p=0.005)
 - PERIOP-2 trial (N=1,471, included mechanical heart valves N=304): similar results supporting no routine bridging
 - Observational data: bridging consistently increases post-procedural bleeding risk
 
 **When bridging may be appropriate:**
+
 - Mechanical heart valve (especially mitral position)
 - CHADS2 score >5
 - Previous thromboembolism during prior VKA interruption
@@ -174,22 +187,26 @@ For patients at low thromboembolic risk on DOACs:
 - DOACs do not require bridging during periendoscopic interruption
 
 **DOAC-specific considerations:**
+
 - Dabigatran is renally cleared; patients with renal impairment have prolonged drug effect and may need longer pre-procedure interruption
 - All DOACs have rapid onset of anticoagulation upon resumption; this is protective against thrombosis but raises concern for immediate post-procedural bleeding
 
 ### Antiplatelet Periendoscopic Management
 
 **Dual antiplatelet therapy (DAPT = P2Y12 inhibitor + ASA):**
+
 - Suggest **temporary interruption of P2Y12 inhibitor while continuing ASA** (Statement 14A, conditional, very low certainty)
 - Applies to elective procedures only; do not interrupt for emergency endoscopy
 - Evidence: RCT (N=387): similar polypectomy bleeding rates with clopidogrel interruption; modest nonsignificant trend to fewer thrombotic events with interruption (1.3% vs. 2.7%)
 - P2Y12 inhibitors: clopidogrel and prasugrel irreversibly block platelets for 7–10 days; ticagrelor reversible, effect persists 3–5 days
 
 **P2Y12 inhibitor monotherapy (single agent, no ASA):**
+
 - **No recommendation** for or against interruption (Statement 14B)
 - One small cohort paradoxically showed higher bleeding with interruption (16.7% vs. 0%), but very wide confidence intervals and likely confounded
 
 **ASA monotherapy (secondary cardiovascular prevention):**
+
 - Suggest **against interruption of ASA** for elective endoscopic procedures (Statement 15, conditional, very low certainty)
 - Bleeding risk of diagnostic procedures and most polypectomies is sufficiently low that ASA continuation is safe
 - Exception: consider ASA interruption for highest-risk procedures (ESD, biliary/pancreatic sphincterotomy, ampullectomy, POEM, RFA) when bleeding risk is particularly high

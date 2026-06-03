@@ -8,6 +8,7 @@ sources: []
 ---
 
 ## Bibliographic Info
+
 - **Authors:** Chang L, Chey WD, Imdad A, Almario CV, Bharucha AE, Diem S, et al.
 - **Year:** 2023
 - **Journal/Publisher:** Am J Gastroenterol 2023;118:936–954
@@ -24,6 +25,7 @@ Monthly cost comparisons were explicitly incorporated into recommendations as a 
 ## Key Findings / Claims
 
 **Strong recommendations:**
+
 - **PEG (polyethylene glycol):** 17 g daily — Strong/Moderate; more spontaneous bowel movements (SBMs) vs placebo; preferred first-line OTC osmotic laxative
 - **Bisacodyl or sodium picosulfate (SPS):** 5 mg daily — Strong/Moderate; increases ≥3 complete SBMs/week vs placebo
 - **Linaclotide:** 72 mcg or 145 mcg daily — Strong/Moderate; GC-C agonist; increases complete SBMs; first choice among secretagogues
@@ -31,6 +33,7 @@ Monthly cost comparisons were explicitly incorporated into recommendations as a 
 - **Prucalopride:** 1–2 mg daily — Strong/Low; selective 5-HT4 agonist; prokinetic; approved for chronic constipation (not IBS-C)
 
 **Conditional recommendations:**
+
 - **Fiber (psyllium):** Conditional/Low; psyllium superior to other fiber types; start low and titrate
 - **Senna:** 8.6–17.2 mg daily — Conditional/Low; stimulant laxative; inexpensive; long-term use concerns (melanosis coli) but not well substantiated
 - **Magnesium oxide:** 400–500 mg — Conditional/Low; avoid in renal insufficiency; reasonable OTC alternative
@@ -38,6 +41,7 @@ Monthly cost comparisons were explicitly incorporated into recommendations as a 
 - **Lubiprostone:** 24 mcg BID — Conditional/Low; chloride channel activator; indicated for OTC failures; cost is significant barrier ($374/month)
 
 **Monthly cost data (approximate at time of publication):**
+
 - Fiber (psyllium): <$10; PEG: ~$25–50; Bisacodyl/SPS: <$20; Senna: <$15; MgOx: <$20; Lactulose: ~$30–50
 - Lubiprostone: ~$374; Linaclotide: ~$523; Plecanatide: ~$526; Prucalopride: ~$563
 
@@ -64,11 +68,13 @@ Monthly cost comparisons were explicitly incorporated into recommendations as a 
 | Use prucalopride 1-2 mg daily when OTC agents fail | Strong | Low |
 
 ## Relevance to Wiki
+
 - Creates [[chronic-idiopathic-constipation]] disease script
 - Complements [[defecation-disorders]] for the functional/physiologic constipation differential
 - Cross-references: [[prucalopride]], [[linaclotide]], [[plecanatide]] medication stubs
 
 ## Contradictions / Open Questions
+
 - Guideline does not address when to pursue anorectal physiology testing (see [[acg-2021-anorectal-disorders]] for defecation disorder evaluation)
 - No head-to-head comparisons between secretagogues; choice among linaclotide/plecanatide/prucalopride based on mechanism preference and patient factors
 - Linaclotide 72 mcg (CIC dose) vs 290 mcg (IBS-C dose): this guideline covers CIC dosing only

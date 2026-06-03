@@ -14,6 +14,7 @@ sources: [acg-2015-hereditary-gi-cancer]
 Cowden syndrome (CS), also called PTEN hamartoma tumor syndrome (PHTS), is caused by germline pathogenic variants in the **PTEN** tumor suppressor gene. The spectrum includes Cowden syndrome, Bannayan-Riley-Ruvalcaba syndrome (BRRS), Proteus syndrome, and Lhermitte-Duclos disease [[acg-2015-hereditary-gi-cancer]].
 
 **Indications for PTEN genetic evaluation** (Table 11) [[acg-2015-hereditary-gi-cancer]]:
+
 - Individual from a family with known PTEN mutation
 - Personal history of: BRRS, adult Lhermitte-Duclos disease, autism spectrum disorder with macrocephaly, ≥2 biopsy-proven trichilemmomas, ≥2 major criteria (one must be macrocephaly), ≥3 major criteria without macrocephaly, ≥1 major + ≥3 minor criteria, or ≥4 minor criteria
 - At-risk individual with one major or two minor criteria and a relative with clinical CS or BRRS for whom testing has not been performed
@@ -23,6 +24,7 @@ Cowden syndrome (CS), also called PTEN hamartoma tumor syndrome (PHTS), is cause
 **Minor criteria**: autism spectrum disorder, colon cancer, esophageal glycogenic acanthosis (≥3 lesions), lipomas, mental retardation, papillary or follicular variant of papillary thyroid cancer, thyroid structural lesions (adenoma/nodule/goiter), renal cell carcinoma, single GI hamartoma or ganglioneuroma, testicular lipomatosis, vascular anomalies
 
 **GI findings** [[acg-2015-hereditary-gi-cancer]]:
+
 - Colonic polyps found in up to 95% of CS patients undergoing colonoscopy; polyps are few to numerous (even hundreds); distributed throughout the colon
 - Hamartomatous polyps are the most common histologic type (~29% in one study); also juvenile polyps, ganglioneuromas, adenomas, inflammatory polyps, leiomyomas, lipomas, and lymphoid polyps
 - **Diffuse esophageal glycogenic acanthosis** — a frequent and potentially pathognomonic finding; diffuse lesions observed in ≥80% of PHTS patients; should be considered pathognomonic when combined with colonic polyposis
@@ -54,26 +56,33 @@ Cowden syndrome (CS), also called PTEN hamartoma tumor syndrome (PHTS), is cause
 ## Diagnostics
 
 **Colonoscopy** — from age 15, every 2 years (Conditional/Low) [[acg-2015-hereditary-gi-cancer]]:
+
 - Intervals may increase or decrease depending on polyp findings
 - Colon cancer risk 9–16%; one multicenter study found 13% of PTEN mutation carriers had colon cancer, all <50 years of age
 
 **EGD/Upper GI and small bowel** — from age 15, every 2–3 years:
+
 - If duodenal polyposis present, repeat depending on number of polyps
 
 **Thyroid**:
+
 - Annual thyroid exam and baseline ultrasound from **adolescence** (Conditional/Low)
 
 **Breast** (women):
+
 - Monthly self-exam from age 18
 - Annual mammography and breast MRI from age 25 (or 5–10 years before earliest breast cancer in family)
 
 **Uterine / endometrial**:
+
 - Annual endometrial sampling or vaginal ultrasound from age 30–35 (Conditional/Low)
 
 **Renal cell**:
+
 - Annual urinalysis with cytology and possibly renal ultrasound from age 18 (Conditional/Low)
 
 **Melanoma / skin**:
+
 - Annual physical cutaneous examination from age 18 (Conditional/Low)
 
 ---

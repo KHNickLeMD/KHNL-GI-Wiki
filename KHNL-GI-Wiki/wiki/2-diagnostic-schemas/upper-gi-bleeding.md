@@ -12,6 +12,7 @@ sources: [acg-2021-ugib]
 **Upper GI bleeding (UGIB)** = bleeding originating from a source in the **esophagus, stomach, or duodenum** (proximal to the ligament of Treitz).
 
 **Overt UGIB** presents as one or more of the following:
+
 - **Hematemesis**: vomiting of red blood or coffee-grounds material
 - **Melena**: black, tarry stools (requires colonic transit time; typically implies proximal source)
 - **Hematochezia**: red or maroon blood per rectum — can indicate UGIB when bleeding is brisk (rapid transit through colon)
@@ -21,12 +22,14 @@ sources: [acg-2021-ugib]
 ### UGIB vs. LGIB Distinction
 
 Severe hematochezia with hemodynamic instability may reflect UGIB in approximately 15% of cases. Features favoring UGIB:
+
 - Hematemesis or coffee-ground emesis
 - BUN:Cr ratio >30 (LR 7.5 for UGIB); BUN >21 mg/dL alone has 93% specificity
 - History of peptic ulcer disease, NSAIDs/anticoagulants, cirrhosis, or known varices
 - Melena on rectal exam
 
 Features favoring LGIB (against UGIB):
+
 - Blood clots in stool (LR 0.05 for UGIB — clots argue for LGIB)
 - Nasogastric aspirate is unreliable (sensitivity only 28% for UGIB) — routine NG tube NOT recommended
 
@@ -37,6 +40,7 @@ If UGIB is clinically suspected in a patient presenting with apparent LGIB, perf
 ## Differential Diagnosis
 
 ### Most Common (Non-Variceal)
+
 | Etiology | Key Features |
 |---|---|
 | **Peptic ulcer disease** (gastric or duodenal) | Most common cause; NSAID use, [[helicobacter-pylori-infection]], or idiopathic; hematemesis or melena; may present with syncope |
@@ -49,10 +53,12 @@ If UGIB is clinically suspected in a patient presenting with apparent LGIB, perf
 | **GAVE (gastric antral vascular ectasia)** | Chronic occult or overt bleeding; "watermelon stomach" pattern; associated with portal hypertension and autoimmune disease |
 
 ### Variceal / Portal Hypertensive
+
 - **Esophageal varices**: Most common variceal source; high-volume hematemesis; associated stigmata of cirrhosis
 - **Gastric varices**: Less common; may bleed more severely; see [[variceal-upper-gi-bleeding]] for detailed management
 
 ### Less Common
+
 - Hemobilia (biliary source — trauma, instrumentation)
 - Hemosuccus pancreaticus (pancreatic pseudoaneurysm)
 - Esophagitis / erosive esophagitis (rarely massive)
@@ -147,12 +153,14 @@ High-risk stigmata (Forrest Ia, Ib, IIa) mandate endoscopic hemostatic therapy. 
 ### Step 6: Choice of Endoscopic Hemostatic Therapy (Ulcer Bleeding)
 
 **Strongly recommended (Strong recommendation, moderate-quality evidence):**
+
 - Bipolar electrocoagulation (15 W, 8–10 second applications, 3.2-mm probe with firm pressure)
 - Heater probe (30 J applications, 3.2-mm probe with firm pressure)
 - Absolute ethanol injection (0.1–0.2 mL aliquots, maximum 1–2 mL total)
 - Epinephrine injection: **NEVER as monotherapy** — must be combined with a second hemostatic modality
 
 **Conditionally recommended (Conditional recommendation, lower-quality evidence):**
+
 - Through-the-scope clips (placement over and on both sides of bleeding site)
 - Argon plasma coagulation (APC): 1–2 L/min gas flow, 40–70 W power, probe 2–10 mm from mucosa
 - Soft monopolar electrocoagulation (soft coagulation mode, 50–80 W, 1–2 second applications)
@@ -166,17 +174,20 @@ High-risk stigmata (Forrest Ia, Ib, IIa) mandate endoscopic hemostatic therapy. 
 **Antisecretory therapy after successful endoscopic hemostasis:**
 
 *Phase 1 — Inpatient (3 days):*
+
 - **High-dose PPI for 72 hours**: Strong recommendation (moderate- to high-quality evidence)
   - Reduces further bleeding (RR 0.43), mortality (RR 0.41), surgery (RR 0.42) vs. placebo
   - Continuous IV: **80 mg bolus followed by 8 mg/hr infusion for 72 hours**
   - Intermittent (equivalent efficacy): **40 mg 2–4 times daily** (oral or IV); initial 80 mg bolus may be appropriate; oral administration acceptable if patient awake/alert without nausea, vomiting, or dysphagia
 
 *Phase 2 — High-risk outpatient continuation (days 4–14):*
+
 - **Twice-daily oral PPI through day 14 after index endoscopy** for high-risk patients (Rockall score ≥6): Conditional recommendation (low-quality evidence)
   - Based on 1 RCT (esomeprazole 40 mg BID vs. QD): further bleeding 10.8% vs. 28.7% at 28 days
   - After day 14, transition to once-daily standard PPI
 
 **H. pylori testing and treatment:**
+
 - All patients with peptic ulcer bleeding should be tested for [[helicobacter-pylori-infection]] and treated if positive — prevents ulcer recurrence and rebleeding (not specifically re-addressed in this guideline; established practice)
 
 ### Step 8: Recurrent Bleeding
@@ -197,33 +208,39 @@ High-risk stigmata (Forrest Ia, Ib, IIa) mandate endoscopic hemostatic therapy. 
 ## Key Tests
 
 ### Endoscopy [[upper-endoscopy]]
+
 - Diagnostic and therapeutic gold standard for UGIB
 - Identifies source in >90% of cases when performed within 24 hours
 - Allows Forrest classification and application of hemostatic therapy
 - **Timing**: within 24 hours of presentation for all hospitalized patients; resuscitation first
 
 ### Glasgow-Blatchford Score
+
 - Pre-endoscopic risk stratification tool
 - GBS 0–1: safe for outpatient management (99% sensitivity for intervention/death composite)
 - Calculated from BUN, hemoglobin, systolic BP, heart rate, melena, syncope, hepatic disease, cardiac failure
 - Variables available before endoscopy — intended for ED triage decision
 
 ### Rockall Score
+
 - Post-endoscopic risk stratification incorporating endoscopic findings
 - Variables: age, hemodynamic status, comorbidities, endoscopic diagnosis, stigmata of recent hemorrhage
 - Rockall ≥6 = high-risk; used to identify patients who benefit from extended (twice-daily) outpatient PPI
 - Not explicitly re-validated in this guideline but used as the eligibility criterion for the extended PPI RCT
 
 ### AIMS65 Score
+
 - Pre-endoscopic score using albumin <3 g/dL, INR >1.5, altered mental status, systolic BP ≤90, age ≥65
 - Predicts in-hospital mortality; less studied for discharge decision-making than GBS
 
 ### CT Angiography
+
 - Not first-line for UGIB (endoscopy preferred)
 - Role: when endoscopy fails or is unavailable; planning for interventional radiology (TAE)
 - Can guide TAE by identifying site of active extravasation
 
 ### Forrest Classification
+
 - Applied at endoscopy to characterize ulcer stigmata and guide hemostatic therapy decisions (see Step 5 above)
 
 ---
@@ -231,6 +248,7 @@ High-risk stigmata (Forrest Ia, Ib, IIa) mandate endoscopic hemostatic therapy. 
 ## Red Flags / Alarm Features
 
 ### Hemodynamic Instability (Requires Urgent Resuscitation Before Endoscopy)
+
 - Systolic BP <90 mm Hg
 - Heart rate ≥100 bpm
 - Active hematemesis of bright red blood
@@ -240,16 +258,19 @@ High-risk stigmata (Forrest Ia, Ib, IIa) mandate endoscopic hemostatic therapy. 
 - **Hypotensive shock not responding to initial resuscitation**: requires urgent endoscopy or interventional radiology regardless of endoscopy timing recommendations
 
 ### High-Risk Clinical Features (GBS ≥12)
+
 - Predicts high likelihood of need for hemostatic intervention
 - Associated with actively bleeding lesions at endoscopy
 - Hospital admission mandatory regardless of GBS threshold used for discharge decisions
 
 ### Endoscopic High-Risk Stigmata (Requiring Therapy)
+
 - Forrest Ia: active spurting — highest risk (~55% rebleeding without therapy)
 - Forrest Ib: active oozing — high risk (further bleeding 39% pooled without therapy)
 - Forrest IIa: nonbleeding visible vessel — significant risk (~43% without therapy)
 
 ### Rebleeding Warning Signs
+
 - Drop in hemoglobin of ≥2 g/dL after initial stabilization
 - Recurrence of hematemesis or melena after clinical improvement
 - Hemodynamic deterioration after initial stabilization
@@ -258,6 +279,7 @@ High-risk stigmata (Forrest Ia, Ib, IIa) mandate endoscopic hemostatic therapy. 
 - Predictors of repeat endoscopy failure: hypotension at time of rebleeding, ulcer size >2 cm
 
 ### Alarm Features for Alternative Diagnoses
+
 - Prior aortic surgery → aortoenteric fistula (sentinel bleed; urgent CT angiography)
 - Stigmata of cirrhosis (jaundice, ascites, spider angiomata) → variceal bleeding; see [[variceal-upper-gi-bleeding]]
 - Weight loss, dysphagia, early satiety → malignancy

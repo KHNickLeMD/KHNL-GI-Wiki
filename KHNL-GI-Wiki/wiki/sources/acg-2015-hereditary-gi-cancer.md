@@ -8,6 +8,7 @@ sources: []
 ---
 
 ## Bibliographic Info
+
 - **Authors:** Syngal S, Brand RE, Church JM, Giardiello FM, Hampel HL, Burt RW
 - **Year:** 2015
 - **Journal/Publisher:** Am J Gastroenterol 2015;110:223–262
@@ -26,6 +27,7 @@ The hamartomatous syndromes (PJS, JPS, Cowden) each receive dedicated guidance o
 ## Key Findings / Claims
 
 **Lynch Syndrome**
+
 - All newly diagnosed CRCs should undergo universal MMR testing (IHC ± MSI)
 - MLH1-lost tumors: BRAF V600E or MLH1 methylation to exclude sporadic
 - Germline testing: MLH1, MSH2, MSH6, PMS2, EPCAM (or the IHC-indicated gene)
@@ -41,6 +43,7 @@ The hamartomatous syndromes (PJS, JPS, Cowden) each receive dedicated guidance o
 - Amsterdam II and revised Bethesda criteria described; 3-question risk tool available for clinical use
 
 **FAP/AFAP/MAP**
+
 - Classic FAP: ≥100 colorectal adenomas, APC gene (5q21), near-100% CRC by age 40s untreated; prevalence 1 in 6,850–31,250
 - AFAP: <100 adenomas, more proximal distribution, delayed CRC (average 58 years); onset may be delayed to late teens/mid-20s
 - MAP: biallelic MUTYH mutations; 20–99 adenomas, autosomal recessive; Y179C and G396D account for >80% of mutations in European ancestry
@@ -57,6 +60,7 @@ The hamartomatous syndromes (PJS, JPS, Cowden) each receive dedicated guidance o
 - Desmoid tumors: NSAIDs/sulindac, tamoxifen, chemo; surgery last resort; routine abdominal imaging not recommended; preoperative CT may be helpful if desmoids are a family issue; NCCN suggests MRI/CT 1–3y post-colectomy then q5–10y
 
 **Peutz-Jeghers Syndrome (PJS)**
+
 - STK11/LKB1 mutations in >94%; 25% de novo; autosomal dominant
 - Clinical criteria: perioral/buccal pigmentation and/or ≥2 histologically characteristic GI hamartomas or FH of PJS
 - Overall cancer risk by age 70: 19% (age 40), 32% (age 50), 63% (age 60), 81% (age 70)
@@ -68,6 +72,7 @@ The hamartomatous syndromes (PJS, JPS, Cowden) each receive dedicated guidance o
 - Everolimus (mTOR inhibitor) under study as chemopreventive agent
 
 **Juvenile Polyposis Syndrome (JPS)**
+
 - SMAD4 or BMPR1A mutations in ~60% of individuals with clinically defined JPS; 25% de novo
 - Clinical criteria: ≥5 juvenile polyps in colorectum, OR juvenile polyps in other GI tract parts, OR any juvenile polyps with FH of JPS
 - CRC risk 38–68% (avg age 34–44); upper GI cancer (stomach, pancreas, small bowel) 21%
@@ -76,6 +81,7 @@ The hamartomatous syndromes (PJS, JPS, Cowden) each receive dedicated guidance o
 - Surgery: colectomy + IRA or proctocolectomy + IPAA if polyps uncontrolled (Conditional/Low)
 
 **Cowden Syndrome (PTEN Hamartoma Tumor Syndrome)**
+
 - PTEN mutations; includes Bannayan-Riley-Ruvalcaba syndrome
 - Indications for PTEN testing: Table 11 (major criteria include breast CA, endometrial CA, follicular thyroid CA, multiple GI hamartomas/ganglioneuromas, macrocephaly ≥97th percentile, trichilemmomas, mucocutaneous lesions)
 - Breast risk 25–85%; thyroid 3–38%; endometrial 5–28%; CRC 9–16%; renal cell 15–34%
@@ -84,6 +90,7 @@ The hamartomatous syndromes (PJS, JPS, Cowden) each receive dedicated guidance o
 - Diffuse esophageal glycogenic acanthosis is pathognomonic when combined with colonic polyposis
 
 **Serrated Polyposis Syndrome (SPS)**
+
 - WHO criteria (any one): (i) ≥5 serrated polyps proximal to sigmoid with ≥2 >10mm; (ii) any serrated polyps proximal to sigmoid in individual with FDR with SPS; (iii) >20 serrated polyps of any size throughout large intestine
 - No clear genetic etiology; MUTYH testing considered if adenomas co-occur
 - CRC risk ~50%; lifetime risk likely overestimated
@@ -92,6 +99,7 @@ The hamartomatous syndromes (PJS, JPS, Cowden) each receive dedicated guidance o
 - No extracolonic cancer surveillance recommended at this time
 
 **Hereditary Pancreatic Cancer**
+
 - Risk criteria: known genetic syndrome with PC risk (BRCA1/2, CDKN2A, PALB2, ATM, PJS, LS, hereditary pancreatitis, FAMMM); OR ≥2 FDRs with PC; OR ≥3 relatives with PC; OR history of hereditary pancreatitis
 - BRCA1/2, CDKN2A, PALB2, ATM genetic testing recommended; STK11/LS-associated genes if criteria met
 - Relative risk by syndrome: hereditary pancreatitis 53-fold, PJS 132-fold, FAMMM (CDKN2A) 13–39-fold, LS 9–11-fold, FAP 5-fold, BRCA2 3–9-fold, ATM ~3-fold
@@ -100,6 +108,7 @@ The hamartomatous syndromes (PJS, JPS, Cowden) each receive dedicated guidance o
 - Cystic pancreatic lesions detected during surveillance require specialist evaluation
 
 **Hereditary Diffuse Gastric Cancer (HDGC)**
+
 - CDH1 gene (E-cadherin); autosomal dominant
 - Testing criteria: ≥2 cases diffuse GC with ≥1 diagnosed <50; OR ≥3 cases FDR/SDR regardless of age; OR diffuse GC <40; OR personal/family history diffuse GC + lobular breast CA with ≥1 diagnosed <50
 - Lifetime risk: 67% males, 83% females; mean age 38–40; lobular breast CA 39% in women
@@ -109,6 +118,7 @@ The hamartomatous syndromes (PJS, JPS, Cowden) each receive dedicated guidance o
 - Breast: annual MRI from age 35, mammography; colonoscopy from age 40 in families with co-occurring colon cancer
 
 **Genetic Testing Framework**
+
 - Pre- and post-test genetic counseling is mandatory
 - Next-generation sequencing (multi-gene panels) now available; 6–52 genes per panel; longer turnaround time but lower cost
 - Informed consent standards outlined (Table 14): 14 components including implications of positive/negative results, variant of uncertain significance (VUS) risk, genetic discrimination protections (GINA), confidentiality
@@ -141,6 +151,7 @@ The hamartomatous syndromes (PJS, JPS, Cowden) each receive dedicated guidance o
 | Colonoscopy q1–3y with removal of all polyps >5 mm; colectomy if polyps uncontrolled or cancer develops | Conditional | Low |
 
 ## Relevance to Wiki
+
 - Expands [[lynch-syndrome]] from stub to full ADDT with cumulative risk tables, gene-specific surveillance timing, surgical options, aspirin data
 - Expands [[familial-adenomatous-polyposis]] from stub to full ADDT with Spigelman duodenal staging, MAP/AFAP distinctions, hepatoblastoma screening, postsurgical surveillance
 - Creates [[peutz-jeghers-syndrome]] (new full page)
@@ -151,6 +162,7 @@ The hamartomatous syndromes (PJS, JPS, Cowden) each receive dedicated guidance o
 - Updates [[colorectal-cancer]] with hereditary syndrome context and risk stratification
 
 ## Contradictions / Open Questions
+
 - Aspirin chemoprevention in LS: CAPP2 data suggest benefit (all cancers HR 0.65, P=0.05) but CRC alone did not reach significance (P=0.12) — guideline stops short of a standard-use recommendation; CAPP3 trial ongoing to define optimal dose
 - Universal tumor MMR testing of all CRCs was a recommendation here (2015); now widely adopted and reflected in [[colorectal-cancer]] screening context
 - Surveillance for extracolonic cancers in LS (gastric, urinary, small bowel) remains low-quality evidence — conditional recommendations only

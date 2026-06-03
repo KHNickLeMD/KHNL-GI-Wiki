@@ -14,12 +14,14 @@ sources: [acg-2015-colon-ischemia]
 Colon ischemia (CI) is the most common form of intestinal ischemia, resulting from reduced or absent blood flow to a segment of colon. Unlike acute mesenteric ischemia (AMI) — which involves the small bowel and is a surgical emergency — CI is usually segmental and affects the watershed areas of the colon supplied by the marginal artery of Drummond (splenic flexure, sigmoid/descending junction).
 
 **Classic presentation** [[acg-2015-colon-ischemia]]:
+
 - Sudden-onset crampy left lower abdominal pain
 - Urgency to defecate
 - Passage of bright red blood or bloody diarrhea within 24 hours
 - Peaks after age 60; females slightly predominant
 
 **Key diagnostic steps:**
+
 1. **CT abdomen/pelvis with IV and oral contrast** — first-line imaging; sensitivity/specificity >80%; findings: segmental colonic wall thickening, thumbprinting (submucosal edema/hemorrhage), pericolonic fat stranding; also excludes perforation, pneumatosis, or alternative diagnosis
 2. **Colonoscopy within 48 hours** — confirms diagnosis; characteristic findings: segmental hemorrhagic edematous mucosa with abrupt transition at watershed zones; mucosal hemorrhage, ulceration, cyanotic/necrotic mucosa in severe cases; **biopsy required** to confirm histopathology (ghost cells — ischemic necrosis — and hemosiderin-laden macrophages)
 3. **CT angiography** — NOT routine; reserve for clinical suspicion of AMI or when CI is right-sided (IRCI) suggesting SMA disease
@@ -38,6 +40,7 @@ Severity classification (Table 6, ACG 2015) [[acg-2015-colon-ischemia]]:
 | **Severe** | Peritoneal signs, pneumoperitoneum, pneumatosis, gangrene on colonoscopy, sepsis, failure of conservative management, or high-risk distribution (IRCI, pancolonic) | Surgical consultation urgent; surgical resection usually required |
 
 **High-risk patterns:**
+
 - **IRCI (isolated right colon ischemia)**: caused by SMA compromise or shock states; associated with higher in-hospital mortality (25–75%); consider CT angiography for SMA evaluation; surgery often required
 - **Pancolonic ischemia**: rare; ~75% require surgery; associated with sepsis and multiorgan failure; highest mortality
 
@@ -70,17 +73,20 @@ Severity classification (Table 6, ACG 2015) [[acg-2015-colon-ischemia]]:
 ## Diagnostics
 
 **Imaging:**
+
 - CT abdomen/pelvis with IV and oral contrast: first-line (Strong, Moderate evidence) [[acg-2015-colon-ischemia]]
 - CT angiography: not routine; reserve for IRCI, clinical AMI concern, or when surgical planning requires vascular map
 - Plain abdominal film: limited; may show thumbprinting, pneumatosis, or free air in advanced disease
 - MRI: not recommended acutely; CT superior for speed and specificity
 
 **Endoscopy:**
+
 - Colonoscopy within 48h: diagnostic standard (Strong, Low evidence); identify distribution, depth, biopsy [[acg-2015-colon-ischemia]]
 - Biopsy: required for histopathologic confirmation (Strong, Low evidence); not needed if peritonitis present
 - Follow-up colonoscopy at 4–6 weeks: documents healing or identifies stricture (Strong, Low evidence)
 
 **Laboratory:**
+
 - CBC, CMP, coagulation studies, blood cultures
 - Serum lactate, LDH, CK: elevated values suggest severe/transmural disease
 - Stool culture + CDI PCR: exclude infectious colitis before finalizing diagnosis
@@ -93,17 +99,20 @@ Severity classification (Table 6, ACG 2015) [[acg-2015-colon-ischemia]]:
 ### Initial Management
 
 **Mild CI** [[acg-2015-colon-ischemia]]:
+
 - NPO, IV fluids, bowel rest
 - No antibiotics required for purely mild disease (though often given in practice)
 - Monitor for clinical deterioration; most resolve within 48–72h
 
 **Moderate CI** [[acg-2015-colon-ischemia]]:
+
 - NPO, IV fluids
 - Broad-spectrum antibiotics covering gram-negative organisms and anaerobes (Strong, Very Low evidence) — e.g., piperacillin-tazobactam or ceftriaxone + metronidazole
 - Repeat CT or colonoscopy if no improvement at 72h
 
 **Severe CI / Surgical Indications** [[acg-2015-colon-ischemia]]:
 Surgery is required (Strong, Moderate evidence) when:
+
 - Peritoneal signs (guarding, rigidity, rebound)
 - Pneumoperitoneum
 - Sepsis / hemodynamic instability
@@ -127,11 +136,13 @@ Surgical approach: resection of ischemic segment; primary anastomosis vs. divert
 ### Special Situations
 
 **Post-aortic surgery CI:**
+
 - Most common affected segment: sigmoid colon (IMA ligation during aortic repair)
 - Incidence up to 7% after aortic surgery
 - Flexible sigmoidoscopy within 24–48h post-op is reasonable if clinical concern
 
 **Hemodialysis patients:**
+
 - Higher incidence of CI due to hemodynamic instability during dialysis sessions
 - Consider CI in dialysis patients with abdominal pain post-session
 

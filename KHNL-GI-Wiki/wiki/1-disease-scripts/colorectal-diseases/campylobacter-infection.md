@@ -12,6 +12,7 @@ sources: [acg-2016-acute-diarrhea]
 *Campylobacter jejuni* is the most common bacterial cause of diarrheal illness in developed countries. Typically causes febrile, often bloody diarrhea. A major cause of traveler's diarrhea (TD), particularly in Southeast Asia, India, and other regions with high fluoroquinolone (FQ) resistance. [[acg-2016-acute-diarrhea]]
 
 ## Key Points (ACG 2016)
+
 - **Fluoroquinolone resistance:** Most *Campylobacter* isolates in Southeast Asia and India are FQ-resistant. Azithromycin is the preferred empiric agent in these regions.
 - **Azithromycin:** Active against FQ-resistant *Campylobacter*; use empirically as first line in SE Asia/India or when Campylobacter suspected.
 - **Rifaximin:** Do NOT use — not effective against *Campylobacter* (invasive pathogen).

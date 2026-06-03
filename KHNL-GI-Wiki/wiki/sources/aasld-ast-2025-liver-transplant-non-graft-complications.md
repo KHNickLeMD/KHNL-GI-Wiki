@@ -105,6 +105,7 @@ CMV disease remains the most clinically significant opportunistic infection; pre
 | 43 | Secondary prophylaxis (post-treatment) is NOT recommended routinely after CMV treatment completion | Weak | 3 |
 
 **CMV Timeline (Figure 2):**
+
 - Donor-derived infections: <4 weeks post-LT
 - Viral infections (CMV, EBV, VZV, HSV): 1–12 months post-LT (peak risk)
 - Community-acquired infections: >6 months post-LT
@@ -124,6 +125,7 @@ CMV disease remains the most clinically significant opportunistic infection; pre
 | 52 | Serial EBV PCR monitoring for PTLD is NOT routinely recommended | Weak | 3 |
 
 **Cancer SIR data (Figure 3):**
+
 - Overall post-LT cancer risk: 2.45-fold elevated
 - Highest SIR: non-Hodgkin lymphoma (~10× general population)
 - Highest absolute risk: non-melanoma skin cancer

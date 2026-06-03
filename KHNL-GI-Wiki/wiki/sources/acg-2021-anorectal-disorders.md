@@ -8,6 +8,7 @@ sources: []
 ---
 
 ## Bibliographic Info
+
 - **Authors:** Wald A, Bharucha AE, Limketkai B, Malcolm A, Remes-Troche JM, Whitehead WE, Zutshi M
 - **Year:** 2021
 - **Journal/Publisher:** Am J Gastroenterol 2021;116:1987–2008
@@ -22,6 +23,7 @@ A unifying theme is the primacy of conservative management (dietary modification
 ## Key Findings / Claims
 
 **DEFECATION DISORDERS (dyssynergic defecation, outlet obstruction):**
+
 - Definition: difficulty evacuating stool with both symptom criteria and ≥2 abnormal anorectal tests
 - Diagnostic: ARM + BET required to diagnose DD; DRE recommended for all patients with suspected DD (75% sensitivity, 87% specificity for dyssynergia)
 - Differential: distinguish DD from slow-transit constipation (colonic transit study if BET normal or biofeedback fails); up to 50% of DD patients have delayed colonic transit (usually secondary)
@@ -33,12 +35,14 @@ A unifying theme is the primacy of conservative management (dietary modification
   - Sacral nerve stimulation (SNS): NOT recommended for constipation (no benefit in RCTs)
 
 **PROCTALGIA SYNDROMES:**
+
 - Levator ani syndrome (levator syndrome / chronic proctalgia): recurring anorectal pain ≥20 min + levator tenderness on palpation; ARM + BET to identify biofeedback candidates
   - **Biofeedback: Strong recommendation, very low evidence**; only effective therapy; galvanic stimulation if biofeedback unavailable (Conditional)
   - No evidence for Botox or digital massage
 - Proctalgia fugax: intense rectal pain lasting seconds to <20 min; diagnosed by history + normal DRE; explanation and reassurance only; no treatment proven
 
 **HEMORRHOIDS:**
+
 - Internal hemorrhoids: grade I–IV (based on prolapse degree); Grade I = no prolapse; Grade II = prolapse/reduces spontaneously; Grade III = prolapse/manual reduction; Grade IV = irreducible
 - Conservative: dietary modification (fiber, fluid, ≥20–30 g fiber/day), avoid prolonged sitting; evidence moderate for Grade III–IV
 - Office procedures (Grade I–III):
@@ -50,6 +54,7 @@ A unifying theme is the primacy of conservative management (dietary modification
 - Acutely thrombosed external hemorrhoids: excision/incision within 4 days if seen acutely: Strong/Low
 
 **ANAL FISSURES:**
+
 - Definition: ulcer-like longitudinal tear in anal canal, distal to dentate line; >8–12 weeks = chronic
 - Pathophysiology: hypertonic internal anal sphincter → ischemia → non-healing
 - Lateral position fissures: suggest Crohn's disease, TB, syphilis, HIV, malignancy — evaluate
@@ -60,6 +65,7 @@ A unifying theme is the primacy of conservative management (dietary modification
 - Surgery: **Lateral internal sphincterotomy (LIS): Strong/High** — for chronic fissures failing nonsurgical treatment; healing 94–98%; superior to all topical agents; small but real risk of incontinence; minimal-incision open or closed equivalent
 
 **FECAL INCONTINENCE:**
+
 - Definition: involuntary loss of solid or liquid feces (including staining)
 - Prevalence: 2.2–25% community; ~9% age-adjusted in US (underreported)
 - Diagnosis: Bristol Stool Scale + symptom diary; DRE + ARM + BET for moderate-severe FI; endoanal US or MRI if surgery considered
@@ -102,11 +108,13 @@ A unifying theme is the primacy of conservative management (dietary modification
 | End stoma as last resort for severe FI | Conditional | — |
 
 ## Relevance to Wiki
+
 - Creates [[hemorrhoids]], [[anal-fissure]], [[fecal-incontinence]], [[defecation-disorders]], and [[proctalgia-syndromes]] disease scripts
 - Cross-references: [[anorectal-manometry]], [[biofeedback-therapy]], [[sacral-nerve-stimulation]] concept pages
 - Informs colorectal procedure pages for LIS, RBL, SNS
 
 ## Contradictions / Open Questions
+
 - Biofeedback for levator syndrome: only one key RCT underpins this Strong recommendation — guideline acknowledges no independent replication in 10 years
 - LIS and incontinence risk: literature estimates 0–16% incontinence; guideline counsels using with caution when anal pressures not high
 - Stapled hemorrhoidectomy (STARR): guideline notes higher complications and recurrence; not widely used in US — avoid

@@ -8,6 +8,7 @@ sources: []
 ---
 
 ## Bibliographic Info
+
 - **Authors:** Morgan DR, Corral JE, Li D, Montgomery EA, Riquelme A, Kim JJ, Sauer B, Shah SC
 - **Year:** 2025 (published online March 12, 2025)
 - **Journal:** Am J Gastroenterol 2025;00:1–29. doi:10.14309/ajg.0000000000003350
@@ -26,6 +27,7 @@ Key conclusions: routine GC/GPMC screening in the general US population is not r
 ## Key Findings / Recommendations
 
 ### GC Screening
+
 | Rec | Statement | Strength/Quality |
 |---|---|---|
 | 1 | Against routine EGD screening for GC/GPMC in general US population | Conditional/Very low |
@@ -34,11 +36,13 @@ Key conclusions: routine GC/GPMC screening in the general US population is not r
 **Key concept:** Individualized screening should be considered in family Hx GC (start age 45–60 or 10y before youngest affected relative) and high-risk immigrants; H. pylori screen-and-eradicate in these groups.
 
 ### GPMC Noninvasive Diagnosis
+
 | Rec | Statement | Strength/Quality |
 |---|---|---|
 | 3 | Against noninvasive biomarkers for GPMC/GC screening or surveillance in US | Conditional/Very low |
 
 ### GPMC Endoscopic Diagnosis
+
 | Rec | Statement | Strength/Quality |
 |---|---|---|
 | 4 | Recommend high-quality endoscopic evaluation: HDWLE + mucosal cleansing + CO₂ insufflation + photodocumentation + adequate gastric inspection time | Strong/Low |
@@ -47,6 +51,7 @@ Key conclusions: routine GC/GPMC screening in the general US population is not r
 **Key concept:** 5 components of quality gastric endoscopy: (i) HDWLE; (ii) adequate insufflation (CO₂ preferred); (iii) mucosal cleansing; (iv) standard photodocumentation; (v) adequate gastric inspection time. The 2–3 min upper endoscopy is below standard of care for GPMC evaluation.
 
 ### GPMC Histologic Diagnosis
+
 | Rec | Statement | Strength/Quality |
 |---|---|---|
 | 6 | Suggest updated Sydney biopsy protocol: antrum/incisura in one container, corpus in another; targeted biopsies in additional containers | Conditional/Low |
@@ -54,6 +59,7 @@ Key conclusions: routine GC/GPMC screening in the general US population is not r
 | 8 | Report anatomic extent (limited = antrum/incisura only; extensive = corpus involvement) and severity (proportion of atrophy/GIM per compartment) | Conditional/Very low |
 
 ### GPMC Surveillance
+
 | Rec | Statement | Strength/Quality |
 |---|---|---|
 | 9 | High-risk GIM: surveillance q3y. High risk = incomplete GIM subtype OR corpus extension OR ≥1 of: family Hx GC, foreign-born from high-GC country, high-risk race (East Asian, Latino, Black, AIAN) | Conditional/Very low |
@@ -61,12 +67,14 @@ Key conclusions: routine GC/GPMC screening in the general US population is not r
 | 11 | Low-risk GIM or mild AG: against surveillance. Low risk = complete GIM only, limited to antrum, none of the high-risk criteria above, mild AG | Conditional/Very low |
 
 **Key concepts:**
+
 - Multiple risk factors (e.g., extensive GIM + family Hx GC): consider q1–2y interval
 - Against routine repeat EGD <12 months for nondysplastic GPMC unless quality/protocol concern
 - IND/LGD without visible lesion: repeat in 12 months; refer to expert endoscopist
 - HGD without visible lesion: repeat within 3 months with expert endoscopist
 
 ### Endoscopic Management of Dysplastic GPMC
+
 | Rec | Statement | Strength/Quality |
 |---|---|---|
 | 12 | Dysplasia (IND/LGD/HGD) with visible margins: endoscopic resection | Conditional/Low |
@@ -75,18 +83,21 @@ Key conclusions: routine GC/GPMC screening in the general US population is not r
 | 15 | Post-complete-resection: endoscopic surveillance (HDWLE + IEE + systematic biopsies + targeted biopsies) | Strong/Low |
 
 ### GPMC Nonendoscopic Management
+
 | Rec | Statement | Strength/Quality |
 |---|---|---|
 | 16 | Test and eradicate H. pylori in all GPMC patients and resected early GC | Strong/Moderate |
 | 17 | Against aspirin, NSAIDs, COX-2 inhibitors, or antioxidants for GC chemoprevention | Conditional/Very low |
 
 ### Autoimmune Gastritis
+
 | Rec | Statement | Strength/Quality |
 |---|---|---|
 | 18 | AIG: assess for H. pylori with nonserological test; eradicate if positive; confirm eradication | Strong/Low |
 | 19 | Insufficient evidence for formal surveillance recommendation in AIG; individualized surveillance may be considered given increased risk of type 1 NETs and possible GC risk | Conditional/Low |
 
 ### Gastric Epithelial Polyps
+
 | Rec | Statement | Strength/Quality |
 |---|---|---|
 | 20 | Endoscopic resection of ALL gastric adenomas regardless of size; surgical referral if not amenable to ER | Conditional/Low |
@@ -129,10 +140,12 @@ Key conclusions: routine GC/GPMC screening in the general US population is not r
 | For all GEP except fundic gland polyps: obtain systematic Sydney protocol biopsies from surrounding flat mucosa | Conditional | Very Low |
 
 ## Relevance to Wiki
+
 - Creates: `wiki/disease-scripts/foregut-and-motility-diseases/gastric/gastric-premalignant-conditions.md`
 - Updates: `wiki/disease-scripts/foregut-and-motility-diseases/gastric/helicobacter-pylori-infection.md` — H. pylori as dominant risk factor for GPMC/GC
 
 ## Contradictions / Open Questions
+
 - No US RCT data exist for GC screening — all RCT data from East Asia; lack of evidence ≠ evidence of no benefit in high-risk US populations
 - GIM risk stratification parameters have not been prospectively validated in US populations; most data extrapolated from European and Asian cohorts
 - Optimal postresection surveillance interval after ESD not defined

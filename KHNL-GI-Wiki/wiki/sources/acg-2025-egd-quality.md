@@ -8,6 +8,7 @@ sources: []
 ---
 
 ## Bibliographic Info
+
 - **Authors:** Yadlapati R, Early D, Iyer PG, Morgan DR, Sengupta N, Sharma P, Shaheen NJ
 - **Year:** 2025 (published online January 14, 2025)
 - **Journal:** Am J Gastroenterol 2025;120:290–312. doi:10.14309/ajg.0000000000003252 (joint ACG/ASGE publication)
@@ -22,12 +23,14 @@ Key new or updated indicators: EREFS score documentation for EoE; GPMC biopsy (S
 ## All 29 Quality Indicators (Table 1)
 
 ### Preprocedure
+
 | # | Indicator | Target | Level |
 |---|---|---|---|
 | 1 | EGD performed for documented appropriate indication | >95% | 1C¹ |
 | 2 | EGD within 24 hr for admitted/observed UGIB | >80% | 1C |
 
 ### Intraprocedure
+
 | # | Indicator | Target | Level |
 |---|---|---|---|
 | 3* | Photodocumentation: esophagus, GEJ, cardia/fundus, corpus, incisura, antrum/pylorus, 2nd duodenum, detected lesions | >90% | 3 |
@@ -51,6 +54,7 @@ Key new or updated indicators: EREFS score documentation for EoE; GPMC biopsy (S
 | 21 | ≥4 duodenal biopsies (including 1 from bulb) in suspected celiac disease | >98% | 1C |
 
 ### Postprocedure
+
 | # | Indicator | Target | Level |
 |---|---|---|---|
 | 22 | Repeat EGD recommended after acid suppression for LA grade C/D erosive esophagitis | >90% | 2B |
@@ -65,6 +69,7 @@ Key new or updated indicators: EREFS score documentation for EoE; GPMC biopsy (S
 *Priority indicator
 
 ## Key Clinical Points
+
 - EGD within 6–24 hours optimal for admitted UGIB (not urgent <6 hours — no mortality benefit, NEJM RCT)
 - Systematic photodocumentation is a surrogate for complete mucosal inspection; 2–3 min EGDs are inadequate especially for GPMC evaluation
 - PPI-responsive EoE is now classified as EoE; EREFS documentation required whenever EoE is suspected or known
@@ -110,6 +115,7 @@ Key new or updated indicators: EREFS score documentation for EoE; GPMC biopsy (S
 | Document GPMC surveillance plan in patients with known GPMC (target >90%) | — | Low |
 
 ## Relevance to Wiki
+
 - Creates: `wiki/3-general-gi-procedures/upper-endoscopy.md`
 - Supplements: `wiki/disease-scripts/foregut-and-motility-diseases/gastric/gastric-premalignant-conditions.md`
 - Supplements: `wiki/disease-scripts/foregut-and-motility-diseases/esophageal/eosinophilic-esophagitis.md`

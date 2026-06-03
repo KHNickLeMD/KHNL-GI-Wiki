@@ -22,6 +22,7 @@ sources: []
 ## Scope
 
 Comprehensive guidance on:
+
 - Diagnosis and graded management of ascites (grade 1–3, refractory)
 - Spontaneous bacterial peritonitis (SBP) and spontaneous bacterial empyema (SBE)
 - Hepatorenal syndrome–AKI (HRS-AKI)
@@ -34,29 +35,34 @@ Comprehensive guidance on:
 ## Key Guidance Statements by Topic
 
 ### Ascites — Initial Diagnosis
+
 - Diagnostic paracentesis should be performed in all patients with new-onset ascites accessible for sampling
 - Initial ascitic fluid analysis: PMN count, total protein, albumin (for SAAG calculation), and culture
 - SAAG ≥1.1 g/dL indicates portal hypertension with ~97% accuracy
 - High ascitic fluid protein (>2.5 g/dL) supports cardiac source
 
 ### Ascites — Medical Management
+
 - Grade 2 ascites: moderate sodium restriction (2 g or 90 mmol/day) + spironolactone ± furosemide
 - Spironolactone starting dose 100 mg/day, titrate to 400 mg/day; furosemide starting 40 mg/day, titrate to 160 mg/day
 - NSAIDs, ACE inhibitors, ARBs, aminoglycosides should be avoided
 - Referral for liver transplant evaluation in grade 2 or 3 ascites
 
 ### Grade 3 Ascites
+
 - LVP is first-line treatment
 - Albumin 6–8 g per liter of ascites removed when >5 L drained (to prevent PPCD)
 - Start sodium restriction and diuretics after LVP
 
 ### Refractory Ascites (RA)
+
 - Defined as ascites unresponsive to max-dose diuretics (furosemide 160 mg/day, spironolactone 400 mg/day) or early recurrence; divided into diuretic-resistant and diuretic-intractable subtypes
 - LVP is first-line treatment for RA
 - TIPS preferred over repeated LVP in well-selected patients (MELD <18, without advanced cardiopulmonary disease or severe hepatic encephalopathy); 8–10 mm covered stent preferred
 - Caution with NSBBs in patients with RA and hypotension (SBP <90), hyponatremia (Na <130), or AKI
 
 ### Hyponatremia
+
 - Graded: mild 126–135, moderate 120–125, severe <120 mEq/L
 - Moderate: fluid restriction 1,000 mL/day + diuretic cessation
 - Severe: stricter fluid restriction + albumin infusion
@@ -64,11 +70,13 @@ Comprehensive guidance on:
 - Vaptans (tolvaptan): short-term use only (≤30 days); FDA black box warning for hepatotoxicity
 
 ### SBP — Diagnosis
+
 - SBP/SBE established by ascitic/pleural fluid PMN count >250/mm³
 - Culture at bedside into aerobic and anaerobic blood culture bottles (≥10 mL) before antibiotics; sensitivity >90%
 - Bacterascites (PMN <250 + positive culture, no signs of infection): no antibiotics; repeat paracentesis to assess progression
 
 ### SBP — Treatment
+
 - Empiric IV antibiotics for all patients with ascitic fluid PMN >250/mm³
 - Community-acquired SBP: IV third-generation cephalosporin (e.g., cefotaxime 2 g q12h)
 - Nosocomial/healthcare-associated or ICU/septic shock: broaden to piperacillin/tazobactam ± vancomycin or daptomycin; meropenem if known MDR gram-negatives
@@ -78,10 +86,12 @@ Comprehensive guidance on:
 - NSBBs: hold if mean arterial pressure <65 mmHg; otherwise may continue
 
 ### SBP — Prophylaxis
+
 - Secondary prophylaxis: oral ciprofloxacin 500 mg/day (norfloxacin withdrawn from US in 2014); rifaximin alternative per single-center data
 - Primary prophylaxis indications: patients with acute GI hemorrhage (IV ceftriaxone for 5–7 days until hemorrhage resolved); patients with low ascitic protein (<1.5 g/dL) AND advanced liver/renal dysfunction (Child-Pugh >9 with bilirubin >3 mg/dL, or creatinine >1.2, BUN >25, or Na <130)
 
 ### HRS-AKI
+
 - Replaces old "type-1 HRS" terminology
 - Diagnosis: AKI in cirrhosis with ascites, no response to 2 days of diuretic withdrawal + albumin 1 g/kg/day, absence of shock, no nephrotoxins, no structural kidney damage
 - Treatment: vasoconstrictor + albumin; preferred agent terlipressin (not yet FDA-approved at time of publication); alternative norepinephrine (ICU); midodrine + octreotide if neither available (low efficacy)
@@ -146,5 +156,6 @@ Comprehensive guidance on:
 - This is a Practice Guidance (expert consensus), not a formal GRADE guideline — no formal recommendation strength grades assigned
 
 ## Pages Derived from This Source
+
 - [[ascites]]
 - [[spontaneous-bacterial-peritonitis]]

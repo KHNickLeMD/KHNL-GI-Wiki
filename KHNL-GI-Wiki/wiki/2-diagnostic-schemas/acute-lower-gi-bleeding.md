@@ -13,7 +13,9 @@ sources:
 **Acute LGIB** = hematochezia or bright red blood per rectum originating from a **colorectal source** (distal to the ligament of Treitz, but small bowel bleeding is considered a separate entity with its own algorithm and is excluded from this schema).
 
 ### Hemodynamic Instability Criteria
+
 Any of the following suggests hemodynamically significant LGIB requiring immediate resuscitation before endoscopy:
+
 - Tachycardia (heart rate >100 bpm)
 - Hypotension (systolic BP <90 mm Hg)
 - Shock index (HR ÷ SBP) ≥1
@@ -21,7 +23,9 @@ Any of the following suggests hemodynamically significant LGIB requiring immedia
 - Active large-volume hematochezia with clinical signs of volume depletion
 
 ### Distinction from UGIB
+
 Severe hematochezia with hemodynamic instability may reflect a **brisk UGIB source** in 15% of cases. Features that raise suspicion for proximal source:
+
 - History of peptic ulcer disease, decompensated liver disease, hematemesis
 - BUN:Cr ratio >30 (LR 7.5 for UGIB); BUN alone >21 mg/dL (specificity 93%)
 - Melena on rectal exam (argues against colonic source)
@@ -35,6 +39,7 @@ If UGIB is clinically suspected, perform **urgent EGD before colonoscopy**.
 ## Differential Diagnosis
 
 ### Most Common
+
 | Etiology                     | Notes                                                                                                                                       |
 | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Diverticular hemorrhage**  | Most common cause; 26–64% of LGIB depending on colonoscopy utilization; painless, arterial, large-volume; from neck or dome of diverticulum |
@@ -45,6 +50,7 @@ If UGIB is clinically suspected, perform **urgent EGD before colonoscopy**.
 | **Postpolypectomy bleeding** | Immediate or delayed (up to 2 weeks); see [[polypectomy-emr]]                                                                               |
 
 ### Colitis Subtypes
+
 | Etiology | Distinguishing Features |
 |---|---|
 | **Ischemic colitis** | Acute onset, abdominal pain + hematochezia, watershed distribution (splenic flexure, sigmoid), CT showing bowel wall thickening |
@@ -54,6 +60,7 @@ If UGIB is clinically suspected, perform **urgent EGD before colonoscopy**.
 | **NSAID-induced colitis / ulcers** | NSAID use history; ulcers especially in right colon and ileocecal region |
 
 ### Less Common / Rare
+
 - Rectal / stercoral ulcers
 - Dieulafoy lesion (aberrant submucosal vessel — minute mucosal defect, large bleed)
 - Colorectal varices (portal hypertension; see [[variceal-upper-gi-bleeding]] for contrast)
@@ -68,6 +75,7 @@ If UGIB is clinically suspected, perform **urgent EGD before colonoscopy**.
 ## Diagnostic Algorithm
 
 ### Step 1: Initial Assessment (Simultaneous with Resuscitation)
+
 - Focused history: abdominal pain, bowel habit changes, weight loss, prior GI surgery, prior GIB, cardiovascular/oncologic/renal comorbidities
 - Medications: NSAIDs, antiplatelets, anticoagulants
 - Physical exam: vital signs, volume status, rectal exam (blood vs. melena, anorectal lesions)
@@ -75,6 +83,7 @@ If UGIB is clinically suspected, perform **urgent EGD before colonoscopy**.
 - IV access; IV fluid resuscitation with crystalloids if hemodynamically unstable
 
 ### Step 2: Risk Stratification
+
 **Oakland Score** (validated; recommended by ACG 2023):
 
 | Variable | Points |
@@ -111,11 +120,13 @@ If UGIB is clinically suspected, perform **urgent EGD before colonoscopy**.
 Scores supplement but do not replace clinical judgment. Low-risk patients (Oakland ≤8) without ongoing bleeding who have had a high-quality colonoscopy within 12 months can be considered for early discharge with outpatient follow-up.
 
 ### Step 3: Resuscitation and Stabilization
+
 - **Transfusion threshold: Hgb 7 g/dL** for hemodynamically stable patients (8 g/dL if cardiovascular disease or ACS)
 - Platelet transfusion: maintain >30×10⁹/L (>50×10⁹/L if endoscopic procedure planned); do NOT transfuse empirically for patients on antiplatelets
 - **Do NOT give tranexamic acid** (no benefit; increased VTE and seizures in large RCT)
 
 #### Anticoagulant Management in Acute LGIB
+
 | Anticoagulant | Action |
 |---|---|
 | VKA / warfarin, minor bleed (Oakland ≤8) | May continue if necessary |
@@ -126,6 +137,7 @@ Scores supplement but do not replace clinical judgment. Low-risk patients (Oakla
 | Endoscopic hemostasis safe at: | INR ≤2.5 |
 
 #### Antiplatelet Management in Acute Setting
+
 - Aspirin for **secondary** prevention: continue during hospitalization if possible
 - Aspirin for **primary** prevention: hold and consider permanent discontinuation
 - Nonaspirin antiplatelets (P2Y12 inhibitors): hold for severe hematochezia; for patients with stents <1 year, use multidisciplinary approach; resume within 5 days maximum if stent <1 year
@@ -134,6 +146,7 @@ Scores supplement but do not replace clinical judgment. Low-risk patients (Oakla
 
 **If hemodynamically significant ongoing hematochezia:**
 → **CTA first** (Conditional recommendation)
+
 - No bowel prep required; rapid acquisition
 - Sensitivity 90%, specificity 92%
 - If positive (extravasation): proceed promptly to **transcatheter arteriography (TA) + embolization** (within 90 minutes of positive CTA)
@@ -142,6 +155,7 @@ Scores supplement but do not replace clinical judgment. Low-risk patients (Oakla
 
 **If hemodynamically stable or bleeding has resolved:**
 → **Colonoscopy** (elective/next available inpatient opportunity)
+
 - CTA is low yield when bleeding has clinically subsided
 
 **If suspected proximal source (severe hematochezia with clinical red flags):**
@@ -150,6 +164,7 @@ Scores supplement but do not replace clinical judgment. Low-risk patients (Oakla
 ### Step 5: Colonoscopy Timing and Preparation
 
 **Timing:**
+
 - **Nonemergent inpatient colonoscopy** is recommended for most hospitalized LGIB patients (Strong recommendation)
 - Urgent colonoscopy within 24 hours does NOT improve rebleeding, mortality, diagnostic yield, or need for endoscopic intervention (based on 2 RCTs and multiple meta-analyses)
 - One RCT showed urgent colonoscopy associated with **increased** rebleeding (13% vs. 3%) and readmission (11% vs. 3%)
@@ -157,10 +172,12 @@ Scores supplement but do not replace clinical judgment. Low-risk patients (Oakla
 - Urgent colonoscopy may be appropriate in highly selected patients with high pretest probability of SRH (e.g., postpolypectomy, postprocedure) at experienced centers
 
 **Exceptions — colonoscopy may be omitted if:**
+
 - Bleeding has subsided AND
 - High-quality colonoscopy within 12 months with adequate prep showing diverticulosis and no colorectal neoplasia (Conditional recommendation)
 
 **Bowel Preparation:**
+
 - Elective inpatient colonoscopy: **split-dose PEG preparation** (adequacy 86% vs. 43% with evening-before dosing)
 - Urgent colonoscopy: 4–6 L PEG over 3–4 hours until rectal effluent is clear
 - Low-volume preparations (1 L same-day PEG) may be equivalent — emerging data
@@ -168,6 +185,7 @@ Scores supplement but do not replace clinical judgment. Low-risk patients (Oakla
 - NG tube for prep administration: use only when necessary
 
 **Colonoscopy Technique:**
+
 - Use clear cap (recommended — improves detection and facilitates hemostasis)
 - Water-jet scope
 - Careful inspection on insertion and withdrawal; aggressive washing
@@ -178,6 +196,7 @@ Scores supplement but do not replace clinical judgment. Low-risk patients (Oakla
 **Treat all stigmata of recent hemorrhage (SRH) regardless of etiology** (Key Concept)
 
 **Diverticular hemorrhage:**
+
 - Through-the-scope clips (direct clipping onto vessel preferred over indirect/zipper)
 - Endoscopic band ligation (EBL): lower early rebleeding (8% vs. 19%) and late rebleeding (9% vs. 29%) vs. clipping; may be preferred for durable outcomes
 - Bipolar/multipolar coagulation
@@ -185,10 +204,12 @@ Scores supplement but do not replace clinical judgment. Low-risk patients (Oakla
 - Despite hemostasis, early rebleeding 17.4%, late rebleeding 32.0%
 
 **Colonic angioectasias:**
+
 - APC first-line (0.8–1.0 L/min, 20–40 W); consider submucosal injection before APC for large right-colon lesions
 - Clips for refractory cases
 
 **Postpolypectomy bleeding:**
+
 - Through-the-scope clips first-line
 - Hemostatic powders as monotherapy or rescue: 97–98% initial hemostasis
 
@@ -215,6 +236,7 @@ Scores supplement but do not replace clinical judgment. Low-risk patients (Oakla
 ## Key Tests
 
 ### Colonoscopy [[colonoscopy]]
+
 - Diagnostic test of choice for most admitted LGIB
 - Diagnostic yield 68–79% (definitive or presumptive etiology)
 - SRH identified in 15–31%; active bleeding in 3.8%
@@ -222,6 +244,7 @@ Scores supplement but do not replace clinical judgment. Low-risk patients (Oakla
 - **Timing: nonemergent (next available opportunity)** for most patients
 
 ### CT Angiography (CTA)
+
 - Sensitivity 90%, specificity 92%
 - **First-line for hemodynamically significant ongoing hematochezia**
 - No bowel prep required; rapid acquisition (minutes)
@@ -230,16 +253,19 @@ Scores supplement but do not replace clinical judgment. Low-risk patients (Oakla
 - Factors increasing positivity: shock index ≥1, >3 units PRBC/day, NSAID/DOAC use, CTA within 4 hours of hematochezia
 
 ### Transcatheter Arteriography (TA) / Embolization
+
 - Indicated for positive CTA; must be performed within 90 minutes of CTA for best yield
 - Embolization: superselective with microcatheter; agents: microcoils, NBCA, ethylene-vinyl alcohol copolymer
 - Technical success: 98%; 30-day rebleeding: 15.7%; mortality: 12.7%
 
 ### Nuclear Scintigraphy (99mTc-labeled RBC scan)
+
 - Rapidly diminishing role — largely replaced by CTA
 - Limitations: long study duration; imprecise localization
 - Reserve for situations where CTA is unavailable or contraindicated (contrast nephropathy concern)
 
 ### Upper Endoscopy (EGD)
+
 - Indicated when UGIB is clinically suspected (history, BUN:Cr, vital sign pattern)
 - Should precede colonoscopy in these cases
 
@@ -248,6 +274,7 @@ Scores supplement but do not replace clinical judgment. Low-risk patients (Oakla
 ## Red Flags / Alarm Features
 
 ### Immediate / Hemodynamic
+
 - Heart rate ≥110 bpm
 - Systolic BP ≤90 mm Hg
 - Shock index (HR/SBP) ≥1
@@ -256,6 +283,7 @@ Scores supplement but do not replace clinical judgment. Low-risk patients (Oakla
 - Hemodynamic instability not responding to IV fluids
 
 ### Clinical Predictors of High-Risk Hospital Course
+
 - Oakland score >8 (requires hospitalization and inpatient workup)
 - Age >70 years
 - Male sex
@@ -266,6 +294,7 @@ Scores supplement but do not replace clinical judgment. Low-risk patients (Oakla
 - Elevated BUN or BUN:Cr ratio
 
 ### Alarm Features Suggesting Alternative Diagnoses
+
 - Unintentional weight loss → colorectal neoplasia
 - Change in bowel habits, iron deficiency anemia → colorectal cancer or IBD
 - Abdominal pain preceding hematochezia → ischemic colitis, IBD, infectious colitis
@@ -276,6 +305,7 @@ Scores supplement but do not replace clinical judgment. Low-risk patients (Oakla
 - New-onset LGIB after starting oral anticoagulant → increased risk of underlying colorectal cancer
 
 ### Rebleeding Risk Indicators
+
 - Diverticular etiology: early rebleeding up to 24% within 30 days; late recurrence 15.7% at 5 years
 - Older age
 - Hemodynamic instability at presentation

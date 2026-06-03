@@ -14,12 +14,14 @@ Calcineurin inhibitors (CNIs) — primarily [[tacrolimus]] (TAC) and cyclosporin
 ## Agents
 
 ### Tacrolimus (FK506)
+
 - Preferred CNI; superior rejection prevention vs. cyclosporine in randomized trials
 - Twice-daily or once-daily extended-release formulation (equivalent efficacy, Rec 31)
 - Trough targets: 7–10 ng/mL (month 1), 4–8 ng/mL (months 2–12), 4 ng/mL (month 12+)
 - See [[tacrolimus]] for full drug page
 
 ### Cyclosporine (CSA)
+
 - Alternative to tacrolimus; less DM but more HTN, dyslipidemia, hirsutism, gingival hyperplasia
 - Dosing: 2 mg/kg PO twice daily, adjusted to trough
 - Trough targets: 250–300 ng/mL (C0, first 3 months); 100–250 ng/mL (month 3 onward)
@@ -38,6 +40,7 @@ Per [[aasld-ast-2025-liver-transplant-graft-complications]]:
 ## CNI Minimization Strategies
 
 When CKD develops or is threatened:
+
 1. **Dose reduction**: Lower TAC or CSA to minimum effective dose
 2. **Add antimetabolite (MMF)**: Allows further CNI dose reduction without increasing rejection (Rec 30)
 3. **Convert to or add mTOR inhibitor** (everolimus or sirolimus): Best implemented at ~3 months post-LT; EVL has strongest evidence for GFR improvement — meta-analysis of 4 studies (n=893) showed +7.4 mL/min/1.73 m² GFR with EVL; benefit greatest when introduced within 4 weeks post-LT (Rec 33, Strong, Level 2)
@@ -47,6 +50,7 @@ When CKD develops or is threatened:
 ## Steroid Minimization vs. CNI Minimization
 
 Per [[aasld-ast-2025-liver-transplant-graft-complications]] Rec 28:
+
 - Steroid-free IS **cannot be routinely recommended**: higher BPAR (RR 1.33), steroid-resistant rejection (RR 2.14), and decreased GFR — despite similar graft/patient survival (Strong, Level 2)
 - Corticosteroid avoidance/withdrawal reduces HTN (RR 0.76) and DM (RR 0.81) but these benefits are offset by higher rejection rates and increased serum creatinine (mean difference 0.11 mg/dL)
 - Long-term steroid use should be minimized where possible, but abrupt steroid elimination increases rejection risk

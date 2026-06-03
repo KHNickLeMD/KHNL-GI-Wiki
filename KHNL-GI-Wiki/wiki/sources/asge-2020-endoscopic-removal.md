@@ -8,6 +8,7 @@ sources: []
 ---
 
 ## Bibliographic Info
+
 - **Authors:** Kaltenbach et al. (USMSTF / ASGE)
 - **Year:** 2020
 - **Journal:** Gastrointestinal Endoscopy 2020;91:486–519
@@ -88,6 +89,7 @@ Comprehensive multi-society consensus on optimal techniques for endoscopic remov
 ### ESD and Advanced Resection
 
 **Recommendation 25 (Weak; low-quality evidence):** Colorectal ESD is indicated for:
+
 - Lesions ≥20 mm with suspected superficial (not deep) SMI not amenable to en bloc EMR
 - Mucosal lesions with submucosal fibrosis
 - Local residual/recurrent early carcinoma after prior endoscopic resection
@@ -166,11 +168,13 @@ Comprehensive multi-society consensus on optimal techniques for endoscopic remov
 | Document resection method in procedure report for all lesions >=10 mm | Weak | Low |
 
 ## Relevance to Wiki
+
 - Primary source for [[polypectomy-emr]] (advanced colorectal procedures)
 - Companion/identical publication to [[usmstf-2020-endoscopic-removal]]
 - Supports [[colonoscopy]] — quality metrics, tattoo technique, surveillance
 
 ## Contradictions / Open Questions
+
 - None with [[usmstf-2020-endoscopic-removal]] — same document
 - Optimal role of underwater EMR vs inject-and-cut: not yet established
 - Cold snare EMR for large lesions: long-term recurrence data lacking

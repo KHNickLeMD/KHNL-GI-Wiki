@@ -16,14 +16,17 @@ Nutrition support in the hospitalized patient encompasses the assessment of nutr
 ## Nutritional Risk Assessment
 
 **Validated screening tools:**
+
 - **NRS-2002** (Nutritional Risk Screening 2002): validated for hospitalized patients; scores based on nutritional status + disease severity
 - **NUTRIC Score**: validated for ICU patients; incorporates IL-6, APACHE II, SOFA, comorbidities; score ≥5 = high nutritional risk
 
 **Biomarkers to avoid as nutrition markers** [[acg-2016-nutrition-hospitalized]]:
+
 - Albumin, prealbumin (transthyretin), transferrin: all acute-phase reactants that fall with inflammation regardless of nutritional status; do not reflect nutritional repletion
 - Useful as inflammatory markers, but not as guides to nutrition therapy
 
 **Caloric needs:**
+
 - **Indirect calorimetry** is the gold standard (measures VO₂ and VCO₂ to calculate resting energy expenditure)
 - When unavailable: use weight-based equations (25–30 kcal/kg/day for most; adjust for obesity and critical illness phase)
 - **Protein**: 1.2–2.0 g/kg/day for most critically ill; up to 2.5 g/kg IBW/day in burns/trauma/open abdomen
@@ -33,16 +36,19 @@ Nutrition support in the hospitalized patient encompasses the assessment of nutr
 ## Enteral vs. Parenteral Nutrition
 
 **Enteral Nutrition (EN) is preferred when feasible** [[acg-2016-nutrition-hospitalized]]:
+
 - Preserves gut mucosal barrier (prevents bacterial translocation)
 - Maintains gut-associated lymphoid tissue (GALT)
 - Reduces infectious complications vs. PN (meta-analyses)
 - Preferred over PN even at trophic rates
 
 **When EN is NOT indicated:**
+
 - Low-risk, well-nourished patients expected to resume oral intake within 5–7 days (conditional)
 - Bowel obstruction, high-output proximal fistula, mesenteric ischemia, hemodynamic shock (relative contraindications until stabilized)
 
 **Parenteral Nutrition (PN) indications:**
+
 - EN not feasible or tolerated
 - High-risk/malnourished patients: initiate PN ASAP when EN is impossible
 - Low-risk patients: withhold PN in first week; initiation of early PN associated with higher infection rates
@@ -66,14 +72,17 @@ Radiologic confirmation of tube position is required before EN initiation (Stron
 ## Initiating and Advancing EN
 
 **Timing:**
+
 - High-risk or malnourished patients: start EN within 24–48h of admission (Conditional, Low evidence)
 - Start at low rate (10–20 mL/h) and advance to goal over 48–72h
 
 **Permissive underfeeding (acceptable in):**
+
 - Early ARDS (first week): trophic EN (≤500 kcal/day or ~10–20 mL/h) shown equivalent to full feeding early on (Strong, Moderate evidence)
 - Obese patients (BMI >30): 60–70% of caloric target to limit metabolic complications (Conditional, Very Low)
 
 **Feeding tolerance monitoring:**
+
 - Daily physical exam preferred over GRV monitoring (Conditional, Very Low evidence)
 - Routine GRV monitoring NOT recommended; high GRV alone should not trigger EN cessation [[acg-2016-nutrition-hospitalized]]
 - Signs of intolerance: abdominal distension, discomfort, significant emesis

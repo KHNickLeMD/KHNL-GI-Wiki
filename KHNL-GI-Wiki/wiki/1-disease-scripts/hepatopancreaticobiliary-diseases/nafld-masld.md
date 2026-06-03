@@ -14,6 +14,7 @@ sources: [aasld-2023-nafld, aasld-2023-masld-nomenclature, aasld-2024-resmetirom
 **MASLD (Metabolic dysfunction-Associated Steatotic Liver Disease)** — formerly NAFLD — is a highly prevalent condition (≈25–30% of US adults) associated with the metabolic syndrome, most commonly in patients with co-existing obesity, diabetes mellitus, dyslipidemia, and hypertension. NASH-related cirrhosis is already the leading liver-transplant indication in women and in those >65 years, and is on par with alcohol overall; hepatic decompensation, HCC, and death are projected to rise 2–3 fold by 2030. [[aasld-2023-nafld]]
 
 **Nomenclature (2023 multi-society Delphi consensus — AASLD/EASL/ALEH):** the overarching term is **Steatotic Liver Disease (SLD)**. [[aasld-2023-masld-nomenclature]]
+
 - **MASLD** = hepatic steatosis + ≥1 cardiometabolic risk factor (CMRF) + no other discernible cause (replaces NAFLD)
 - **MASH** = MASLD + steatohepatitis (replaces NASH); **MASL** = MASLD without steatohepatitis (replaces NAFL)
 - **MetALD** = MASLD + increased alcohol (a continuum); ALD; specific-etiology SLD (DILI, LALD, Wilson, hypobetalipoproteinemia, HCV genotype 3, celiac, HIV); and cryptogenic SLD
@@ -21,6 +22,7 @@ sources: [aasld-2023-nafld, aasld-2023-masld-nomenclature, aasld-2024-resmetirom
 - There is **>99% overlap** between NAFLD- and MASLD-defined populations with near-identical natural history; therefore all NAFLD/NASH guidance recommendations and natural-history/biomarker data apply directly to MASLD/MASH.
 
 **Cardiometabolic risk factors (adult — ≥1 of 5, ethnicity-adjusted):** [[aasld-2023-masld-nomenclature]]
+
 1. BMI ≥25 kg/m² (≥23 Asia) OR waist circumference >94 cm (M) / >80 cm (F) OR ethnicity-adjusted equivalent
 2. Fasting glucose ≥100 mg/dL OR 2-h post-load ≥140 mg/dL OR HbA1c ≥5.7% OR T2DM (or its treatment)
 3. Blood pressure ≥130/85 mmHg OR antihypertensive treatment
@@ -48,6 +50,7 @@ All the features that define fibrotic MASH — steatosis, ballooning, inflammati
 See [[noninvasive-liver-disease-assessment]] for the cross-disease NILDA framework and full cut-point detail.
 
 **Step 1 — FIB-4 as universal primary risk assessment** (age × AST / [platelet × √ALT]): [[aasld-2023-nafld]] [[aasld-2024-nilda-blood]]
+
 - **FIB-4 <1.3** → rules OUT advanced fibrosis (F3–4) with high NPV; manage in primary care, repeat every 1–2 y if pre-DM/T2DM or ≥2 metabolic risk factors (GS 12). (Alternative rule-out ≥1.45 has a higher diagnostic odds ratio.)
 - **FIB-4 1.3–2.67** → indeterminate; proceed to a secondary test.
 - **FIB-4 >2.67** → rules IN advanced fibrosis (≈94% specificity); consider specialist referral (alternative rule-in ≥3.25).
@@ -81,6 +84,7 @@ Distinct from the diagnostic rule-in/rule-out thresholds above, drug labels/guid
 **Signs of cirrhosis/portal hypertension (contraindication to semaglutide/resmetirom):** VCTE >20 kPa, MRE >5.0 kPa, ELF >11.3, nodular liver contour on cross-sectional imaging, platelet count <150,000/mm³.
 
 **Non-invasive steatosis assessment:** [[aasld-2023-nafld]]
+
 - AASLD **recommends AGAINST blood-based steatosis indices** (FLI, HSI, NLFS) for routine practice — use imaging.
 - CAP (controlled attenuation parameter) on FibroScan ≥288 dB/min (point-of-care; GS 18); standard ultrasound NOT recommended to identify steatosis (low sensitivity, GS 17)
 - MRI-PDFF (≥5%) — most accurate; quantifies and tracks dynamic change
@@ -111,6 +115,7 @@ Distinct from the diagnostic rule-in/rule-out thresholds above, drug labels/guid
 See [[abnormal-liver-chemistries]] for integrated diagnostic algorithm.
 
 **Imaging:**
+
 - Ultrasound — screening for steatosis (hyperechoic liver); cannot reliably stage fibrosis
 - CT — hepatic attenuation assessment for steatosis; radiation exposure
 - MRI-PDFF — most accurate non-invasive quantification of liver fat content
@@ -118,6 +123,7 @@ See [[abnormal-liver-chemistries]] for integrated diagnostic algorithm.
 - FibroScan (VCTE) — point-of-care LSM (fibrosis) + CAP (steatosis); widely available; limitations in severe obesity (BMI >40), narrow rib spaces
 
 **Laboratory:**
+
 - Basic metabolic panel, CBC (platelet count for portal hypertension assessment)
 - FIB-4 index — first-line NIT; see Severity Assessment above
 - ELF score — second-line blood-based NIT for fibrosis staging
@@ -125,6 +131,7 @@ See [[abnormal-liver-chemistries]] for integrated diagnostic algorithm.
 - PEth + AUDIT-C — alcohol use assessment prior to pharmacotherapy initiation [[aasld-2025-semaglutide-mash]]
 
 **Liver biopsy:**
+
 - Definitive for diagnosis and staging (Brunt criteria; NAS scoring system)
 - Not routinely required for pharmacotherapy candidacy in most patients
 - If biopsy performed within prior 6–12 months without substantial interval weight change, disease stage can be used to inform pharmacotherapy decisions; obtaining a baseline NIT before initiating therapy remains beneficial for longitudinal monitoring [[aasld-2025-semaglutide-mash]]
@@ -138,6 +145,7 @@ See [[abnormal-liver-chemistries]] for integrated diagnostic algorithm.
 Lifestyle modification is the cornerstone of MASLD/MASH management regardless of pharmacotherapy status. [[aasld-2025-semaglutide-mash]]
 
 **Weight loss targets:**
+
 - ≥5% weight loss → reduces steatosis
 - 7–10% weight loss → targets inflammation
 - ≥10% weight loss → reverses fibrosis
@@ -166,10 +174,12 @@ Sequential strategy: Calculate FIB-4 first → if ≥1.3, proceed to elastograph
 **Dosing:** 2.4 mg subcutaneous injection once weekly (titrated)
 
 **Efficacy (ESSENCE trial, 72 weeks):**
+
 - MASH resolution without fibrosis worsening: 62.9% vs. 34.3% placebo
 - ≥1 fibrosis stage reduction without MASH worsening: 36.8% vs. 22.4% placebo
 
 **Treatment response monitoring (at 72 weeks — using same NITs used for candidacy):**
+
 - Beneficial response: VCTE LSM decrease ≥30%; MRE LSM decrease ≥20%; MRI-PDFF decrease ≥30%; ALT decrease ≥17 U/L or ≥20%; ELF decrease ≥0.5 → continue semaglutide
 - Sub-threshold improvement without cirrhosis progression → benefit uncertain → re-evaluate strategy
 - Non-response (NITs worsening or suggesting cirrhosis progression) → stop semaglutide
@@ -231,6 +241,7 @@ Cardiovascular disease is the most common cause of death in patients with MASLD.
 - Obesity — GLP-1 RAs/GIP-GLP-1 dual agonists, surgical/endoscopic options
 
 **Semaglutide's cardiometabolic benefits in MASLD context:**
+
 - SELECT trial: 1.5% absolute risk reduction in composite CV outcomes over 40 months in non-diabetic individuals with obesity/overweight and established CV disease
 - FLOW trial (T2DM + CKD): 24% relative risk reduction in kidney failure/CV death with semaglutide 1.0 mg/week
 - Benefits likely relevant to MASLD patients given high prevalence of overlapping metabolic comorbidities
@@ -246,16 +257,19 @@ Cardiovascular disease is the most common cause of death in patients with MASLD.
 Per [[aasld-ast-2025-liver-transplant-graft-complications]] (recurrent MASLD post-LT recommendations):
 
 **Epidemiology:**
+
 - MASLD is now the leading or co-leading indication for LT in the United States
 - Recurrent and de novo MASLD post-LT occurs in 30–40% of recipients in some series
 - Metabolic risk factors (obesity, DM, dyslipidemia, HTN) accumulate post-LT, driven by immunosuppression (corticosteroids, CNIs, mTOR inhibitors)
 - Recurrent MASLD may progress to cirrhosis of the allograft
 
 **Post-LT Monitoring:**
+
 - Annual metabolic assessment: fasting glucose, HbA1c, fasting lipids, BMI, blood pressure
 - Liver biochemistries per standard post-LT protocol; abnormal tests may warrant Doppler US and liver biopsy to confirm recurrent MASLD vs. rejection or other cause
 
 **Management:**
+
 - **Weight management**: Structured diet and exercise program; caloric restriction; avoid excessive weight gain
 - **Metabolic control**: Tight management of DM, HTN, dyslipidemia
 - **IS minimization**: Steroid tapering/minimization where safe reduces metabolic syndrome severity; minimize CNI exposure where feasible
@@ -263,6 +277,7 @@ Per [[aasld-ast-2025-liver-transplant-graft-complications]] (recurrent MASLD pos
 - No disease-specific post-LT pharmacotherapy is currently guideline-endorsed for recurrent MASLD beyond metabolic risk factor control
 
 **Re-transplantation:**
+
 - Re-LT may be required for recurrent MASLD progressing to allograft failure; MASLD-associated recirrhosis becoming an increasingly common re-LT indication
 
 ---

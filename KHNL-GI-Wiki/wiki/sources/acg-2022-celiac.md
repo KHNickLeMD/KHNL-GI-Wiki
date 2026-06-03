@@ -9,7 +9,7 @@ sources: []
 
 ## Bibliographic Info
 
-Rubio-Tapia A, Hill ID, Semrad C, Kelly CP, Greer KB, Limketkai BN, Lebwohl B. American College of Gastroenterology Guidelines Update: Diagnosis and Management of Celiac Disease. *Am J Gastroenterol* 2023;118:59–76. Published online September 21, 2022. https://doi.org/10.14309/ajg.0000000000002075
+Rubio-Tapia A, Hill ID, Semrad C, Kelly CP, Greer KB, Limketkai BN, Lebwohl B. American College of Gastroenterology Guidelines Update: Diagnosis and Management of Celiac Disease. *Am J Gastroenterol* 2023;118:59–76. Published online September 21, 2022. <https://doi.org/10.14309/ajg.0000000000002075>
 
 Update to the 2013 ACG celiac disease guidelines. Uses GRADE methodology. Seven authors with no declared competing interests.
 
@@ -84,6 +84,7 @@ Celiac disease (CD) affects ~1% of the US population and is defined as a permane
 Primary source for the `celiac-disease` disease script. Covers all core domains: serology algorithm, biopsy protocol, Marsh grading, GFD management, monitoring, refractory disease (RCD types 1/2), and complications (EATL). Also defines indications for testing, pneumococcal vaccination, and pediatric-specific considerations.
 
 Cross-references with:
+
 - [[upper-endoscopy]] — biopsy technique and protocol
 - [[disorders-of-gut-brain-interaction]] — DDx overlap (functional/IBS-like symptoms in treated CD, NRCD workup)
 - [[atrophic-gastritis]] — villous atrophy differential on biopsy

@@ -25,6 +25,7 @@ NS3/4A inhibitors are **contraindicated in decompensated cirrhosis** (Child-Pugh
 - **Sofosbuvir/velpatasvir (SOF/VEL; Epclusa):** NS5B + NS5A; 12 wk (no/compensated cirrhosis); genotypes 1–6; used with ribavirin for decompensated cirrhosis
 
 ## Key DDIs
+
 - Cyclosporine: increases elbasvir/grazoprevir and SOF/VEL/VOX AUC; do not coadminister
 - G/P + cyclosporine >100 mg/d: not recommended
 - Calcineurin inhibitor interactions common in post-transplant settings; see [[calcineurin-inhibitors]]

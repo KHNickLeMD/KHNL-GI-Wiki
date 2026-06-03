@@ -30,6 +30,7 @@ sources: [acg-2024-focal-liver-lesions]
 | **Caroli disease** | Congenital biliary ductal ectasia; communicates with bile ducts | Cholangiocarcinoma risk |
 
 **Simple hepatic cyst — prevalence:**
+
 - 2–7% of general population
 - More common with increasing age
 - Congenital: likely due to aberrant bile duct development; do not communicate with bile ducts
@@ -39,6 +40,7 @@ sources: [acg-2024-focal-liver-lesions]
 ## Differential Diagnosis
 
 **For a cystic liver lesion:**
+
 - **Pyogenic liver abscess** — fever, elevated WBC, right-sided pleuritic pain; internal debris/air; travel history or recent biliary intervention; amoebic abscess (tropical exposure, elevated serology)
 - **HCC with necrosis** — in cirrhotic background; LI-RADS features; solid areas
 - **Mucinous cystic neoplasm (MCN)** — middle-aged women; cystic + solid components; does not communicate with bile ducts; ovarian-type stroma on histology
@@ -52,22 +54,27 @@ sources: [acg-2024-focal-liver-lesions]
 ### Imaging Approach
 
 **Ultrasound (first-line):**
+
 - **Simple cyst:** anechoic, thin-walled, no internal septations or nodularity, posterior acoustic enhancement
 - Findings requiring further workup: internal echoes, thick walls, septations, mural nodules, solid components
 
 **MRI (preferred for complex cysts)** [[acg-2024-focal-liver-lesions]]:
+
 - Simple cyst: T1 hypointense, T2 markedly hyperintense ("bright"), no enhancement
 - Hemorrhagic cyst: T1 variable (hyperintense if subacute hemorrhage); T2 signal variable
 - Complex cyst: evaluate septation thickness, mural nodularity, solid components, enhancement
 
 **CT with contrast:**
+
 - Adequate for characterizing large, clearly benign cysts
 - Inferior to MRI for wall/septation characterization
 
 **MRCP:**
+
 - If communication with bile ducts suspected (Caroli disease, biliary cystadenoma vs. biliary IPMN)
 
 **FNA / aspiration:**
+
 - Not routinely indicated for simple cysts
 - Consider for: suspected hydatid (serology first), suspected infection, atypical features where histology would change management (caution: risk of tract seeding if mucinous neoplasm)
 
@@ -78,10 +85,12 @@ sources: [acg-2024-focal-liver-lesions]
 ### Simple Hepatic Cysts
 
 **Asymptomatic, characteristic imaging:**
+
 - **No intervention and no follow-up required** [[acg-2024-focal-liver-lesions]]
 - Reassure patient; simple cysts have no malignant potential
 
 **Symptomatic large cysts** (abdominal pain, pressure, early satiety):
+
 - **Aspiration-sclerotherapy:** first-line; US-guided aspiration + ethanol or tetracycline sclerotherapy; high recurrence with aspiration alone; sclerotherapy reduces recurrence to ~20%
 - **Laparoscopic fenestration (unroofing):** definitive; low recurrence; preferred for large cysts with prior recurrence or inaccessible to US-guided aspiration
 - Open surgical fenestration: reserved for laparoscopically inaccessible lesions
@@ -104,6 +113,7 @@ sources: [acg-2024-focal-liver-lesions]
 ---
 
 ## See Also
+
 - [[acg-2024-focal-liver-lesions]]
 - [[hepatocellular-adenoma]]
 - [[focal-nodular-hyperplasia]]

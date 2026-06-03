@@ -16,6 +16,7 @@ sources: [acg-2024-acute-pancreatitis]
 ### Establishing the Diagnosis
 
 **Diagnostic criteria — 2 of 3 required** [[acg-2024-acute-pancreatitis]]:
+
 1. Typical abdominal pain (epigastric, often radiating to the back; persistent, severe; worse with eating; N/V)
 2. Serum lipase or amylase **>3× upper limit of normal**
 3. Characteristic imaging findings (CT, MRI, or US)
@@ -23,6 +24,7 @@ sources: [acg-2024-acute-pancreatitis]
 **Lipase preferred over amylase:** more sensitive, longer elevation window (days vs. 24h), higher specificity for pancreatitis; amylase elevated in many non-pancreatic conditions
 
 **CT with contrast:** not required for initial diagnosis in most cases — indicated if:
+
 - Diagnosis uncertain
 - No clinical improvement at 48–72 hours
 - Suspected necrotizing pancreatitis or complication
@@ -99,11 +101,13 @@ BISAP ≥3 = high risk for severe AP and mortality
 ### Imaging
 
 **Ultrasound (right upper quadrant):**
+
 - First-line imaging
 - Evaluate for gallstones, CBD dilation (>7 mm = suspicious for stones/obstruction)
 - Pancreas often not well visualized due to bowel gas
 
 **CT with IV contrast (CECT):**
+
 - **CT Severity Index (CTSI) = Balthazar grade + necrosis score (0–10)**
   - Grades A–E: A = normal, E = ≥2 large peripancreatic fluid collections or gas
   - Necrosis: 0% = 0 pts; <30% = 2 pts; 30–50% = 4 pts; >50% = 6 pts
@@ -112,11 +116,13 @@ BISAP ≥3 = high risk for severe AP and mortality
 - Contrast-enhanced: best for necrosis assessment; consider with-contrast in renal dysfunction → use MRCP instead
 
 **MRI / MRCP:**
+
 - Superior to CT for: ductal evaluation, CBD stones, pancreatic duct disruption
 - Preferred in: pregnant patients, iodine contrast allergy, renal dysfunction
 - MRCP: non-invasive; detects CBD stones with ~90% sensitivity (vs. 75–80% for CECT)
 
 **EUS:**
+
 - For idiopathic recurrent AP after MRCP: detect microlithiasis, ampullary lesions, IPMN
 - Equivalent to MRCP for initial CBD stone evaluation; invasive but therapeutic (concurrent ERCP)
 
@@ -127,10 +133,12 @@ BISAP ≥3 = high risk for severe AP and mortality
 ### 1. Fluid Resuscitation
 
 **Lactated Ringer's (LR) preferred over normal saline (NS)** [[acg-2024-acute-pancreatitis]]:
+
 - LR reduces SIRS, organ failure, and systemic complications vs. NS
 - Mechanism: LR is physiologically balanced; NS causes hyperchloremic acidosis
 
 **Goal-directed resuscitation:**
+
 - Initial: 250–500 mL/hr
 - Targets: improved BUN, decreased hematocrit, urine output ≥0.5 mL/kg/hr, HR <100, MAP 65–85
 - Reassess every 6 hours
@@ -138,6 +146,7 @@ BISAP ≥3 = high risk for severe AP and mortality
 - Reduce rate when targets met or signs of fluid overload emerge
 
 **Avoid aggressive fluid resuscitation in:**
+
 - Elderly patients with cardiac or renal comorbidity
 - SIADH
 - Patients already volume-repleted
@@ -152,6 +161,7 @@ BISAP ≥3 = high risk for severe AP and mortality
 ### 3. Nutrition
 
 **Early oral/enteral feeding (within 24–48h) — strongly preferred** [[acg-2024-acute-pancreatitis]]:
+
 - Reduces infections, hospital LOS, and mortality vs. NPO/TPN
 - Soft, low-fat diet when tolerated (not prolonged clear liquids)
 - Resume oral feeds at first sign of tolerance, regardless of lipase levels
@@ -161,16 +171,19 @@ BISAP ≥3 = high risk for severe AP and mortality
 **Nasojejunal (NJ) feeding:** if gastric dysmotility or intolerance to NG
 
 **Total Parenteral Nutrition (TPN):**
+
 - Last resort; only if enteral route completely infeasible >5–7 days
 - Associated with higher infection rates, central line complications vs. enteral feeding
 
 ### 4. Antibiotics
 
 **NOT routine — do not use prophylactically** [[acg-2024-acute-pancreatitis]]:
+
 - Multiple RCTs show no benefit of prophylactic antibiotics in sterile necrosis
 - Overuse drives resistant organisms
 
 **Indicated for infected pancreatic necrosis:**
+
 - Clinical signs: fever, hemodynamic instability despite adequate support, rising WBC/CRP
 - CT finding: gas in necrotic collection (pathognomonic)
 - Confirmatory: CT-guided or EUS-guided fine-needle aspiration (FNA) with Gram stain + culture
@@ -199,12 +212,14 @@ BISAP ≥3 = high risk for severe AP and mortality
 3. **Necrosectomy** — video-assisted retroperitoneal debridement (VARD) or endoscopic necrosectomy via lumen-apposing metal stent (LAMS)
 
 **Key principles:**
+
 - **Delay intervention ≥4 weeks** — allow walled-off necrosis (WON) to mature; early intervention has worse outcomes
 - **Endoscopic necrosectomy via LAMS preferred** over open surgery: lower mortality, fewer complications, equivalent efficacy
 - Open surgical necrosectomy: reserved for failed endoscopic/percutaneous approach or anatomical inaccessibility
 - Pancreatic duct disruption ("disconnected pancreatic duct syndrome"): consider ERCP/stenting or surgical resection
 
 **Local complications:**
+
 - **Acute peripancreatic fluid collection (APFC):** first 4 weeks; no debris; often resolves spontaneously
 - **Pancreatic pseudocyst:** >4 weeks; fluid collection without debris; drain if symptomatic
 - **Acute necrotic collection (ANC):** necrosis ± fluid; first 4 weeks
@@ -223,5 +238,6 @@ BISAP ≥3 = high risk for severe AP and mortality
 ---
 
 ## See Also
+
 - [[acg-2024-acute-pancreatitis]]
 - [[alcohol-associated-liver-disease]] (alcohol as AP etiology)

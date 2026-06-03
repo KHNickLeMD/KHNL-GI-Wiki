@@ -14,6 +14,7 @@ Angioectasia (also called angiodysplasia) are acquired vascular ectasias of the 
 **Prevalence:** ~24% on both VCE and DBE series of patients with suspected SBB (meta-analysis, 10 studies).
 
 **Risk factors for angioectasia:**
+
 - Advancing age
 - Aortic stenosis (Heyde's syndrome — acquired type 2 von Willebrand deficiency)
 - Left ventricular assist devices (LVADs — similar vWF mechanism)
@@ -21,6 +22,7 @@ Angioectasia (also called angiodysplasia) are acquired vascular ectasias of the 
 - Hereditary hemorrhagic telangiectasia (Osler-Weber-Rendu)
 
 **Risk factors for recurrent bleeding from angioectasia:**
+
 - Number of lesions
 - Age >65 years
 - Jejunal location
@@ -30,6 +32,7 @@ Angioectasia (also called angiodysplasia) are acquired vascular ectasias of the 
 - Need for transfusion
 
 **Treatment:**
+
 - Endoscopic: argon plasma coagulation (APC) via deep enteroscopy; rebleeding rate 20–50% at medium-term follow-up.
 - Medical: somatostatin analogs (octreotide) — reduces transfusion requirements; thalidomide (antiangiogenic) — RCT-proven benefit but significant adverse effects; hormonal therapy — NOT effective (RCT negative).
 - Heyde's syndrome: aortic valve replacement may resolve bleeding (reduced rebleeding risk per meta-analysis, pooled event rate 0.16 [95% CI: 0.05–0.38]).

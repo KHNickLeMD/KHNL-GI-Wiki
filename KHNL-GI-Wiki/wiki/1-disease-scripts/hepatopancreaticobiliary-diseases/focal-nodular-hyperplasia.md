@@ -18,15 +18,18 @@ sources: [acg-2024-focal-liver-lesions]
 **Focal nodular hyperplasia (FNH):** the second most common benign liver lesion; a hyperplastic response to an area of aberrant arterial supply rather than a true neoplasm. No malignant potential and no significant bleed risk.
 
 **Epidemiology:**
+
 - Prevalence: ~0.3% in autopsy studies; predominantly women 20–50 years
 - Often found incidentally on imaging; not driven by OCP use (unlike HCA)
 - Can occur in any age group; does not change significantly with OCP discontinuation
 
 **Pathophysiology:**
+
 - Hyperplastic hepatocytes, biliary ductules, and fibrous septae surrounding a central fibrovascular scar
 - Spoke-wheel arterial pattern: tortuous feeding artery branches radially from the central scar
 
 **Presentation:**
+
 - Nearly always **asymptomatic**; incidentally discovered
 - Occasional vague RUQ discomfort with larger lesions
 - No risk of spontaneous rupture or hemorrhage (in contrast to HCA)
@@ -54,6 +57,7 @@ Key concern is distinguishing FNH from HCA (very different management) and from 
 ### Imaging
 
 **MRI with hepatobiliary contrast agent (gadoxetate disodium) — preferred and often diagnostic** [[acg-2024-focal-liver-lesions]]:
+
 - T2: **hyperintense central scar** (distinguishes FNH from HCA and HCC where scar is usually absent)
 - Arterial phase: **marked homogeneous hyperenhancement** (intense APHE)
 - Portal venous/delayed phases: iso- or mildly hyperintense
@@ -61,11 +65,13 @@ Key concern is distinguishing FNH from HCA (very different management) and from 
 - Spoke-wheel vascularity may be seen on arterial MR angiography
 
 **CEUS:**
+
 - Arterial phase: "spoke-wheel" centrifugal fill (blood flows out from central scar)
 - Late phase: iso- or hyperenhancement (portal phase uptake, like liver parenchyma)
 - Distinguishes FNH from HCA (which shows early washout on CEUS) and hemangioma
 
 **CT with contrast:**
+
 - Homogeneous arterial hyperenhancement; may see central scar (hypodense)
 - Less reliable than MRI for definitive characterization; central scar may not be visible on CT in small lesions
 
@@ -78,17 +84,20 @@ Key concern is distinguishing FNH from HCA (very different management) and from 
 ### Once Definitively Characterized as FNH
 
 **No follow-up required** [[acg-2024-focal-liver-lesions]]:
+
 - FNH has no malignant potential
 - No bleeding risk
 - Does not change in size in the vast majority of patients
 - OCP discontinuation: not required for management (FNH is not OCP-driven); however OCP cessation for other indications is unrelated to FNH management
 
 **OCP use:**
+
 - OCP use does not increase FNH risk
 - OCP discontinuation does not cause FNH regression (unlike HCA)
 - Inform patient that OCP continuation is safe with confirmed FNH
 
 **Surgical resection:**
+
 - Indicated only for symptomatic FNH (persistent pain, increasing size causing symptoms)
 - Not indicated for asymptomatic FNH regardless of size
 
@@ -102,6 +111,7 @@ Key concern is distinguishing FNH from HCA (very different management) and from 
 ---
 
 ## See Also
+
 - [[acg-2024-focal-liver-lesions]]
 - [[hepatocellular-adenoma]] (key differential; different management)
 - [[hepatic-hemangioma]]

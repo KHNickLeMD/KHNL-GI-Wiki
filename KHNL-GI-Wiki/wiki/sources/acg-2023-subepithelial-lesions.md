@@ -47,6 +47,7 @@ Key management principle: Size thresholds and location govern resection decision
 6. **Unroofing technique** (mucosal incision-assisted biopsy [MIAB] or submucosal tunnel biopsy) when EUS-FNA/FNB is nondiagnostic (conditional; low evidence). Diagnostic yield 89–100%; caution — submucosal fibrosis may complicate future endoscopic resection.
 
 ### EUS Features of Malignancy (especially GIST)
+
 - Heterogeneous echotexture
 - Large size (>3 cm or >5 cm, depending on study)
 - Irregular margins / borders
@@ -58,22 +59,23 @@ Key management principle: Size thresholds and location govern resection decision
 
 ### Treatment
 
-7. **STER or surgical resection** for MP-layer SEL of esophagus and GEJ (conditional; very low evidence). STER achieves comparable en bloc resection rates with shorter procedure time and hospital stay vs. thoracoscopic enucleation; tumors >3.5 cm transverse diameter may be more challenging for STER.
+1. **STER or surgical resection** for MP-layer SEL of esophagus and GEJ (conditional; very low evidence). STER achieves comparable en bloc resection rates with shorter procedure time and hospital stay vs. thoracoscopic enucleation; tumors >3.5 cm transverse diameter may be more challenging for STER.
 
-8. **GIST management:**
+2. **GIST management:**
    - <2 cm gastric GIST: insufficient evidence — surveillance or resection both acceptable; NCCN recommends surveillance if no high-risk features (irregular borders, cystic spaces, ulceration, echogenic foci, heterogeneity)
    - >2 cm gastric GIST: resect (metastatic risk increases with size; up to 86% for >10 cm high-mitotic-rate lesions)
    - All nongastric GIST: resect
    - For GIST <2 cm if resecting: endoscopic methods are acceptable alternatives to surgery (no single endoscopic method proven superior)
    - Very large GIST: tissue confirmation first to permit neoadjuvant imatinib
 
-9. **Type 1 gastric NETs (gNETs):** EMR or ESD both acceptable (conditional; very low evidence). ESD has higher R0 rates (95% vs. 83%) and lower vertical margin involvement, but clinical significance unclear given indolent behavior.
+3. **Type 1 gastric NETs (gNETs):** EMR or ESD both acceptable (conditional; very low evidence). ESD has higher R0 rates (95% vs. 83%) and lower vertical margin involvement, but clinical significance unclear given indolent behavior.
 
-10. **Type 3 gNETs** (small, low-grade, <1 cm, no lymphadenopathy): ESD preferred over EMR (conditional; very low evidence) given more aggressive biology — positive margins require surgical follow-up.
+4. **Type 3 gNETs** (small, low-grade, <1 cm, no lymphadenopathy): ESD preferred over EMR (conditional; very low evidence) given more aggressive biology — positive margins require surgical follow-up.
 
-11. **Rectal NETs <1 cm:** No preference between EMR and ESD (conditional; very low evidence). Band ligation EMR achieves 96–100% R0; ESD achieves 54–75% R0 in some studies, though standard ESD may outperform injection-snare EMR. Underwater EMR is a valid alternative.
+5. **Rectal NETs <1 cm:** No preference between EMR and ESD (conditional; very low evidence). Band ligation EMR achieves 96–100% R0; ESD achieves 54–75% R0 in some studies, though standard ESD may outperform injection-snare EMR. Underwater EMR is a valid alternative.
 
 ### Key Concepts (non-GRADE statements)
+
 - KC1: Symptomatic SEL or GI bleeding → resect without preresection diagnosis (exception: large GIST → confirm first for neoadjuvant imatinib)
 - KC2: Cross-sectional imaging inferior to EUS; reserve CT/MRI for when EUS is unavailable
 - KC3: Without tissue diagnosis or resection, enroll patient in surveillance unless high confidence of zero malignant potential

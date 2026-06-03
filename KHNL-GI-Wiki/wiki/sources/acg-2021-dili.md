@@ -8,6 +8,7 @@ sources: []
 ---
 
 ## Bibliographic Info
+
 - **Authors:** Chalasani NP, Maddur H, Russo MW, Wong RJ, Reddy KR; on behalf of the ACG Practice Parameters Committee
 - **Year:** 2021
 - **Journal/Publisher:** Am J Gastroenterol 2021;116:878–898
@@ -24,6 +25,7 @@ The guideline covers: diagnostic evaluation by injury pattern (R-value), causali
 ## Key Findings / Claims
 
 **Diagnostic Framework:**
+
 - R-value = (ALT/ULN) ÷ (Alk P/ULN): hepatocellular R ≥5; mixed 2–5; cholestatic R ≤2
 - DILI is a diagnosis of exclusion — competing etiologies must be systematically excluded
 - Minimum diagnostic elements: thorough medication/HDS history, viral hepatitis serologies (HAV, HBV, HCV with RNA, HEV IgM if clinically indicated), autoimmune serologies (ANA, ASMA, IgG), imaging (US ± CT/MRI), and exposure timeline
@@ -31,11 +33,13 @@ The guideline covers: diagnostic evaluation by injury pattern (R-value), causali
 - Cholestatic DILI: abdominal imaging first to exclude biliary obstruction; limit ERCP to cases where MRI/EUS cannot exclude stones/stricture/malignancy
 
 **Causality Assessment:**
+
 - RUCAM (Roussel Uclaf Causality Assessment Method): bedside scoring tool, −10 to +14 scale; "possible" 3–5, "probable" 6–8, "highly probable" ≥9; suboptimal reliability (reliability coefficient 0.51) — useful as framework, not gold standard
 - Consensus expert opinion after excluding competing etiologies remains gold standard but not feasible in routine practice
 - DDW-J and CDS scales are RUCAM modifications; limited clinical use
 
 **Liver Biopsy Indications:**
+
 - Biopsy if AIH remains competitive and immunosuppressive therapy is contemplated: Strong/Low
 - Biopsy if unrelenting rise in liver biochemistries despite stopping agent: Conditional/Low
 - Biopsy if ALT not fallen >50% at 30–60 days (hepatocellular) or Alk P not fallen >50% at 180 days (cholestatic): Conditional/Low
@@ -43,12 +47,14 @@ The guideline covers: diagnostic evaluation by injury pattern (R-value), causali
 - Biopsy if biochemistries persist beyond 180 days (concern for chronic DILI): Conditional/Low
 
 **Prognosis:**
+
 - Hy's law: ALT/AST >3× ULN + total bilirubin >2× ULN + no other cause = ~10% mortality from DILI
 - MELD cutoff 19 + modified Hy's law (bilirubin ≥2.5 mg/dL + [ALT/ULN ÷ Alk P/ULN] >5): good performance for 26-week mortality
 - Ghabril nomogram (MELD + Charlson comorbidity index + albumin): c-statistic 0.89–0.91 for 6-month mortality
 - Outcomes: ~69% recover, 17% develop chronic DILI, ~10% die or need transplant
 
 **Treatment:**
+
 - Stop offending agent promptly, especially when liver biochemistries rising rapidly: Strong/Low
 - NAC for early-stage (coma grade I–II) ALF from idiosyncratic DILI: Conditional/Low (transplant-free survival 58% vs 27% in NAC arm of DILI-ALF RCT)
 - NAC against in pediatric DILI-ALF: Conditional/Low
@@ -56,6 +62,7 @@ The guideline covers: diagnostic evaluation by injury pattern (R-value), causali
 - Strongly against rechallenge if initial injury was severe (>5× ULN ALT, Hy's law, or jaundice): Strong/Low
 
 **HDS-Induced Liver Injury:**
+
 - HDS = herbal and dietary supplements; second most common DILI cause in US
 - Body building products (anabolic steroids) and weight loss supplements most commonly implicated
 - Not regulated for safety/efficacy before marketing; no FDA premarket approval required
@@ -65,6 +72,7 @@ The guideline covers: diagnostic evaluation by injury pattern (R-value), causali
 - Liver transplant evaluation for HDS-induced ALF and severe cholestatic injury: Strong/Low
 
 **ICI-Induced Hepatotoxicity:**
+
 - ICIs (CTLA-4 inhibitors: ipilimumab; PD-1 inhibitors: nivolumab, pembrolizumab, cemiplimab; PDL-1 inhibitors: atezolizumab, avelumab, durvalumab) — liver enzyme elevations in up to 30%
 - Onset: typically 4–12 weeks or after 1–3 ICI doses
 - Pattern: often initially mixed, evolves to hepatocellular; low titers of ANA possible but classic AIH antibodies usually absent; histology does NOT resemble AIH
@@ -73,6 +81,7 @@ The guideline covers: diagnostic evaluation by injury pattern (R-value), causali
 - Management details referred to specialty ICI hepatotoxicity guidelines
 
 **DILI in CLD:**
+
 - DILI accounts for <1% of acute liver injury in CLD patients
 - High suspicion required; exclude common CLD flare triggers first: Strong/Low
 - Risk-benefit assessment for hepatotoxic drugs in CLD: Conditional/Low
@@ -103,12 +112,14 @@ The guideline covers: diagnostic evaluation by injury pattern (R-value), causali
 | Monitor liver biochemistries at 4–6 week intervals, especially first 6 months of new hepatotoxic agent | Conditional | Very Low |
 
 ## Relevance to Wiki
+
 - Creates [[drug-induced-liver-injury]] disease script
 - Cross-references: [[acute-liver-failure]] (NAC, transplant evaluation), [[autoimmune-hepatitis]] (AIH vs DILI distinction), [[immune-checkpoint-inhibitor-hepatitis]] stub
 - Informs HDS discussion in clinical context
 - Common culprits in GI practice: azathioprine, methotrexate, anti-TNF agents, 6-MP, thiopurines — cross-reference IBD medication pages
 
 ## Contradictions / Open Questions
+
 - NAC for DILI-ALF: positive RCT signal but confounded by transplant availability; effect size in coma grade I–II specifically; not proven for non-ALF DILI
 - Corticosteroids: no RCT data; widely used in practice for AIH-like DILI — clinical judgment remains primary
 - ICI hepatotoxicity management: rapidly evolving; more detailed guidance published after this guideline (refer to ASCO/SITC guidelines for ICI toxicity management)

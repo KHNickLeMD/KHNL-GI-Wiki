@@ -20,11 +20,13 @@ A permanent immune-mediated enteropathy triggered by gluten (proteins in wheat, 
 **Who to test (case finding — not mass screening):**
 
 Classical GI indications:
+
 - Chronic diarrhea ± weight loss, steatorrhea, symptomatic malabsorption
 - Unexplained iron deficiency anemia
 - Postprandial bloating and gas
 
 Non-classical / extra-intestinal indications:
+
 - Unexplained elevated transaminases (gluten-dependent hypertransaminasemia)
 - Metabolic bone disease / early osteoporosis
 - Dermatitis herpetiformis
@@ -35,6 +37,7 @@ Non-classical / extra-intestinal indications:
 - Growth failure (children)
 
 At-risk groups:
+
 - First-degree relatives of confirmed CD patients (test even if asymptomatic; risk ~10–20% in siblings)
 - Type 1 diabetes mellitus (CD prevalence 3–10%; screen if any suggestive symptoms; obtain duodenal biopsies opportunistically at upper endoscopy)
 - Down syndrome, Turner syndrome
@@ -57,6 +60,7 @@ At-risk groups:
 **Upper endoscopy with duodenal biopsy — standard diagnostic approach:**
 
 Biopsy protocol (ACG 2022 — strong recommendation):
+
 - 1–2 biopsies from the **duodenal bulb** (9-o'clock or 12-o'clock position)
 - ≥4 biopsies from the **postbulbar (distal) duodenum**
 - Total: ≥6 specimens in separate labeled jars
@@ -64,12 +68,14 @@ Biopsy protocol (ACG 2022 — strong recommendation):
 - See [[upper-endoscopy]] for biopsy technique
 
 **Nonbiopsy diagnosis in children (conditional — ESPGHAN 2020 / ACG 2022):**
+
 - TTG-IgA >10× upper limit of normal (confirmed with positive EMA in a second blood sample)
 - Family must agree with no-biopsy strategy
 - HLA testing no longer required as a prerequisite
 - Not standard in the US; biopsy remains preferred where feasible
 
 **Nonbiopsy "likely CD" in adults:**
+
 - Reserved for symptomatic adults unable or unwilling to undergo endoscopy
 - Requires TTG-IgA ≥10× ULN + confirmatory EMA in second sample
 - Regarded as "likely CD" rather than definitive diagnosis; biopsy is preferred whenever possible
@@ -91,16 +97,19 @@ Note: Persistent intraepithelial lymphocytosis (Marsh I) may persist in 56% of t
 ### Classification / Typing
 
 **Presentation phenotypes:**
+
 - **Classical CD:** Malabsorptive symptoms — diarrhea, steatorrhea, weight loss, bloating; more common in children
 - **Non-classical CD:** Non-malabsorptive or extra-intestinal manifestations dominant (anemia, elevated transaminases, neuropathy, infertility, bone disease); may have no GI symptoms
 - **Asymptomatic (silent) CD:** Detected by screening/case finding; villous atrophy present without symptoms; patients frequently report improved well-being after starting GFD
 
 **Response categories after GFD:**
+
 - **Responsive CD:** Symptoms and serology improve within weeks to months; mucosal healing typically takes ~3 years in adults
 - **Nonresponsive CD (NRCD):** Persistent or recurrent symptoms/signs/lab abnormalities despite 6–12 months of GFD
 - **Refractory CD (RCD):** Persistent villous atrophy with malabsorptive symptoms despite strict GFD >12 months with no other cause; <1% of CD patients; poor prognosis
 
 **Refractory CD subtypes:**
+
 - **RCD Type 1:** Polyclonal T-cell infiltrate (normal IEL immunophenotype — CD3+/CD8+ cells); heterogeneous etiology including inadvertent gluten exposure; better prognosis
 - **RCD Type 2:** Clonal T-cell infiltrate (aberrant IELs: CD3+/CD8−, with clonal TCR gene rearrangement by PCR or flow cytometry); frequent precursor to enteropathy-associated T-cell lymphoma (EATL); poor prognosis
 
@@ -109,6 +118,7 @@ Note: Persistent intraepithelial lymphocytosis (Marsh I) may persist in 56% of t
 ## Differential Diagnosis
 
 **For villous atrophy on duodenal biopsy (seronegative enteropathy):**
+
 - Autoimmune enteropathy
 - Tropical sprue
 - Small intestinal bacterial overgrowth (SIBO)
@@ -120,6 +130,7 @@ Note: Persistent intraepithelial lymphocytosis (Marsh I) may persist in 56% of t
 - Medication-induced (olmesartan enteropathy, mycophenolate)
 
 **For CD-like symptoms without villous atrophy:**
+
 - [[disorders-of-gut-brain-interaction]] — IBS, functional dyspepsia
 - Food intolerances (lactose, fructose, FODMAPs)
 - SIBO
@@ -128,6 +139,7 @@ Note: Persistent intraepithelial lymphocytosis (Marsh I) may persist in 56% of t
 - Microscopic colitis
 
 **For Marsh I (lymphocytic duodenosis only):**
+
 - H. pylori infection
 - NSAIDs
 - SIBO
@@ -135,6 +147,7 @@ Note: Persistent intraepithelial lymphocytosis (Marsh I) may persist in 56% of t
 - Systemic autoimmune disorders (rheumatoid arthritis, lupus, thyroid disease)
 
 **Serological considerations:**
+
 - Isolated DGP-IgG elevation: Low positive predictive value; not incorporated into standard diagnostic algorithms
 - Positive serology with normal biopsy: Consider timing (early disease, GFD already started), inadequate biopsy sampling, or alternative diagnosis
 - See [[atrophic-gastritis]] for differential of gastric atrophy coexisting with duodenal findings
@@ -152,6 +165,7 @@ Note: Persistent intraepithelial lymphocytosis (Marsh I) may persist in 56% of t
 5. If already on GFD → HLA-DQ2/DQ8 testing; if negative, CD is excluded; if positive, consider gluten challenge before biopsy
 
 **Serology for children <2 years (IgA-sufficient):**
+
 - TTG-IgA alone is the preferred test (performs as well or better than DGP-IgG in this age group)
 - DGP-IgG or TTG-IgG when IgA-deficient
 
@@ -190,6 +204,7 @@ Note: Persistent intraepithelial lymphocytosis (Marsh I) may persist in 56% of t
 - Refer to dietitian with GFD expertise at diagnosis — mandatory; follow-up visits as needed
 
 **Oats in GFD:**
+
 - **Gluten-free oats are recommended** for most patients (strong/moderate evidence)
 - Gluten-free oats (e.g., Avena sativa varieties "Irina," "Potenza") are safe for the majority
 - Small subset may react to the oat protein avenin (immune reaction, IEL increase, or worsening symptoms)
@@ -197,21 +212,25 @@ Note: Persistent intraepithelial lymphocytosis (Marsh I) may persist in 56% of t
 - Heterogeneity in oat tolerance may reflect differences in oat variety and harvesting contamination
 
 **Not recommended:**
+
 - Gluten detection devices (Nima sensor, etc.) for routine monitoring — insufficient evidence of benefit; significant false-positive and false-negative rates
 - Probiotics — insufficient evidence; some marketed probiotics contain detectable gluten
 
 ### Monitoring After Diagnosis
 
 **Clinical follow-up schedule:**
+
 - Visits at 3, 6, and 12 months after diagnosis; then every 6–12 months
 - Goals: symptom control, GFD adherence reinforcement, preventive care, surveillance for complications and comorbid autoimmune disease
 
 **Serologic monitoring:**
+
 - TTG-IgA (or DGP-IgG if IgA-deficient) — trend toward normalization confirms adherence
 - Poor correlation between serology normalization and mucosal healing; serologic remission does not confirm histologic healing
 - Positive serology at 12 months → likely ongoing gluten ingestion → reassess diet with expert dietitian
 
 **Follow-up biopsy:**
+
 - EGD with biopsy indicated when: lack of clinical response or relapse of symptoms despite GFD
 - Consider repeat biopsy in asymptomatic adults after ~2 years of GFD to assess mucosal healing (conditional recommendation, shared decision-making required)
 - Follow-up biopsy in asymptomatic children not routinely recommended
@@ -223,6 +242,7 @@ Note: Persistent intraepithelial lymphocytosis (Marsh I) may persist in 56% of t
 ### Preventive Care
 
 **Pneumococcal vaccination:**
+
 - Recommended for all patients with CD (conditional/low evidence)
 - Rationale: ~1/3 of CD patients have functional hyposplenism; ~2-fold increased pneumococcal infection risk
 - Follow CDC vaccination schedule:
@@ -230,6 +250,7 @@ Note: Persistent intraepithelial lymphocytosis (Marsh I) may persist in 56% of t
   - Complex scenarios: consult vaccination clinic or infectious disease specialist
 
 **Nutritional repletion:**
+
 - Correct micronutrient deficiencies identified at baseline (iron, folate, B12, vitamins D/A/E, copper, zinc)
 - Normal growth and development are achievable goals on GFD in children
 
@@ -252,12 +273,14 @@ Define: persistent symptoms/signs/labs after 6–12 months of GFD. Systematic st
 **Definition:** Villous atrophy + malabsorption despite strict GFD >12 months, with no other cause (including overt lymphoma ruled out)
 
 **Workup:**
+
 - Repeat EGD with biopsies
 - Immunohistochemistry (CD3, CD8) + flow cytometry or T-cell receptor PCR for clonality
   - RCD Type 1: polyclonal → better prognosis
   - RCD Type 2: clonal (CD3+/CD8−) → precursor to EATL → poor prognosis
 
 **Treatment — RCD Type 1:**
+
 - Strict elemental diet (eliminate nearly all processed foods)
 - Open-capsule budesonide
 - Prednisone
@@ -266,6 +289,7 @@ Define: persistent symptoms/signs/labs after 6–12 months of GFD. Systematic st
 - (No placebo-controlled trial data for any agent)
 
 **Treatment — RCD Type 2:**
+
 - Open-capsule budesonide
 - Cladribine
 - Autologous stem-cell transplantation

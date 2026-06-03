@@ -20,17 +20,20 @@ Idiopathic chronic inflammatory disorder of the large intestine. Continuous muco
 **Suspect:** Hematochezia + increased stool frequency + bowel urgency
 
 **Confirm:**
+
 - Colonoscopy with TI intubation + biopsies (involved + uninvolved areas)
 - Histologic confirmation by pathologist
 - Exclude: C. difficile (always), infectious etiologies, Crohn's disease
 - **Do NOT use:** serology (pANCA, ASCA) for diagnosis or prognosis
 
 **Key endoscopic features:**
+
 - Continuous inflammation from rectum extending proximally
 - Erythema, loss of vascular pattern, granularity, friability, ulcerations
 - Rectal sparing: only in PSC variant (<5% of adults at diagnosis) or topically treated disease
 
 **Montreal Classification (extent):**
+
 - E1 Proctitis: ≤18cm from anal verge (distal to rectosigmoid junction)
 - E2 Left-sided: sigmoid to splenic flexure
 - E3 Extensive: beyond splenic flexure (includes pancolitis)
@@ -49,11 +52,13 @@ Idiopathic chronic inflammatory disorder of the large intestine. Continuous muco
 | MES | 0–1 | 1 | 2–3 | 3 |
 
 **Endoscopic scoring:**
+
 - **Mayo Endoscopic Score (MES):** 0 (normal/inactive) to 3 (severe: spontaneous bleeding, ulcerations)
   - Endoscopic remission = MES 0–1; endoscopic response = ≥1-point reduction
 - **UCEIS:** 0–8 (vascular pattern + bleeding + erosions/ulcers)
 
 ### Poor Prognostic Factors (any → treat as moderate-severe)
+
 - Age <40 at diagnosis
 - Extensive colitis
 - Severe endoscopy (MES 3, UCEIS ≥7)
@@ -81,6 +86,7 @@ Idiopathic chronic inflammatory disorder of the large intestine. Continuous muco
 ## Diagnostics
 
 ### Workup
+
 - **Labs:** CBC (anemia), CMP (albumin), CRP, ESR
 - **Fecal calprotectin:** monitoring and response assessment; thresholds:
   - <60 μg/g: deep remission
@@ -93,6 +99,7 @@ Idiopathic chronic inflammatory disorder of the large intestine. Continuous muco
 - **Upper endoscopy/SB imaging:** NOT routinely needed if TI normal; order only if symptoms or CD concern
 
 ### Pre-Biologic Screening (same as for CD)
+
 - TB (IGRA preferred if BCG-vaccinated)
 - HBV (HBsAg, anti-HBc, anti-HBs); vaccinate if seronegative; antiviral prophylaxis if HBsAg+
 - Update all vaccines before immunosuppression; live vaccines contraindicated after
@@ -103,6 +110,7 @@ Idiopathic chronic inflammatory disorder of the large intestine. Continuous muco
 ## Therapeutics
 
 ### Treatment Goals
+
 - Steroid-free clinical remission (resolution of bleeding, urgency, bowel frequency)
 - Endoscopic remission (MES 0–1)
 - Deep remission (symptomatic + endoscopic) — preferred goal
@@ -114,26 +122,33 @@ Idiopathic chronic inflammatory disorder of the large intestine. Continuous muco
 ### Mild-Moderate Disease
 
 **Proctitis (E1):**
+
 1. **Rectal mesalamine 1 g/day suppository** — first-line induction (Strong)
 2. Rectal corticosteroid suppository/foam — if 5-ASA fails (Conditional)
 3. Tacrolimus suppository or beclomethasone suppository — if 5-ASA fails (Conditional)
+
 - Maintenance: rectal mesalamine 1 g/day
 
 **Left-sided colitis (E2):**
+
 1. **Rectal mesalamine enema ≥1 g/day** — preferred over rectal steroids (Strong)
 2. **+ Oral mesalamine ≥2 g/day** combined with rectal — better than oral alone (Conditional)
 3. **Budesonide MMX 9 mg/day** — if intolerant/nonresponsive to adequate 5-ASA (Strong)
 4. Oral systemic corticosteroids — if 5-ASA failure (Strong)
+
 - Maintenance: oral mesalamine ≥1.5 g/day; once-daily dosing equally effective
 
 **Extensive colitis (E3):**
+
 1. **Oral mesalamine ≥2 g/day** — induction (Strong)
 2. Low-dose (2–2.4g) = high-dose (4.8g) in mild disease — use lower dose (Conditional)
 3. **Add budesonide MMX 9mg/day** if inadequate 5-ASA response (Strong)
 4. Oral steroids if 5-ASA failure
+
 - Maintenance: oral mesalamine ≥1.5 g/day
 
 **Important notes:**
+
 - Once-daily vs divided dosing: equivalent efficacy; choose based on patient adherence preference
 - If failing maximally dosed 5-ASA (oral ≥2–4.8g/day + rectal ≥1g/day): do NOT switch 5-ASA formulation; advance therapy class
 - Do NOT use corticosteroids for maintenance (any route)
@@ -162,10 +177,12 @@ Idiopathic chronic inflammatory disorder of the large intestine. Continuous muco
 | Oral prednisone | Systemic steroid | Strong/Low | Bridge to steroid-sparing therapy; NOT for maintenance |
 
 **Against for induction:**
+
 - Thiopurine or methotrexate monotherapy (too slow; no mucosal healing)
 - 5-ASA when using advanced therapies (no added efficacy)
 
 **Maintenance:**
+
 - Continue whichever agent induced remission
 - Against methotrexate for maintenance (Conditional)
 - Against corticosteroids for maintenance (Strong)
@@ -187,6 +204,7 @@ Idiopathic chronic inflammatory disorder of the large intestine. Continuous muco
 **S1P modulators (ozanimod, etrasimod)** — oral; avoid in cardiac conditions (bradycardia risk); independent mechanism; useful after biologic failure
 
 **Anti-TNF loss of response:** Check trough levels + antidrug antibodies
+
 - Therapeutic level + no antibodies + active disease → mechanistic failure → switch class
 - Low level + no antibodies → dose optimize
 - Low/undetectable + high antibodies → add immunomodulator or switch
@@ -235,6 +253,7 @@ Idiopathic chronic inflammatory disorder of the large intestine. Continuous muco
 ## Monitoring
 
 **Standard monitoring:**
+
 - Reassess response to induction within 8 weeks
 - Fecal calprotectin: assess response to therapy, monitor for relapse
 - Endoscopy (flexible sig or colonoscopy): confirm mucosal healing
@@ -246,6 +265,7 @@ Idiopathic chronic inflammatory disorder of the large intestine. Continuous muco
 **Deep remission (preferred):** Both symptomatic + endoscopic
 
 **CRC surveillance:**
+
 - After 8–10 years of UC with E2 or E3 extent
 - PSC: start at time of PSC diagnosis
 - Every 1–2 years with chromoendoscopy

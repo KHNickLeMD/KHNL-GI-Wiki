@@ -9,7 +9,7 @@ sources: []
 
 ## Bibliographic Info
 
-Shaheen NJ, Falk GW, Iyer PG, Souza RF, Yadlapati RH, Sauer BG, Wani S. Diagnosis and Management of Barrett's Esophagus: An Updated ACG Guideline. *Am J Gastroenterol*. 2022;117(4):559–587. https://doi.org/10.14309/ajg.0000000000001680
+Shaheen NJ, Falk GW, Iyer PG, Souza RF, Yadlapati RH, Sauer BG, Wani S. Diagnosis and Management of Barrett's Esophagus: An Updated ACG Guideline. *Am J Gastroenterol*. 2022;117(4):559–587. <https://doi.org/10.14309/ajg.0000000000001680>
 
 - Authors: Nicholas J. Shaheen (UNC Chapel Hill), Gary W. Falk (UPenn), Prasad G. Iyer (Mayo Clinic MN), Rhonda F. Souza (Baylor), Rena H. Yadlapati (UCSD, GRADE methodologist), Bryan G. Sauer (UVA, GRADE methodologist), Sachin Wani (U Colorado)
 - Society: American College of Gastroenterology (ACG)
@@ -24,6 +24,7 @@ Comprehensive evidence-based guideline covering diagnosis, screening, surveillan
 ## Key Findings / Claims
 
 ### Diagnosis
+
 - BE requires intestinal metaplasia (IM) with goblet cells in the tubular esophagus (conditional, very low quality). IM-positive BE carries HR 3.54 for EAC vs columnar-lined esophagus without IM in the largest population-based study (N Ireland registry, n=8,522).
 - Minimum columnar length of 1 cm for BE diagnosis using Prague C&M criteria. Prague criteria: circumferential (C) and maximal (M) extent; reliability coefficients 0.95 and 0.94 respectively for segments ≥1 cm; only 0.22 for <1 cm.
 - No biopsies for normal or irregular Z line (<1 cm) in absence of mucosal abnormality. No cases of HGD/EAC progression were observed in cohort studies of irregular Z line patients.
@@ -31,11 +32,13 @@ Comprehensive evidence-based guideline covering diagnosis, screening, surveillan
 - All dysplasia (any grade) must be confirmed by a second GI pathologist (strong, low quality). Community LGD is downstaged 73% on expert review; confirmed LGD progresses at 9.1%/pt-year vs 0.6%/pt-year for downstaged-to-NDBE.
 
 ### Screening
+
 - Single screening endoscopy for patients with chronic GERD symptoms plus ≥3 additional risk factors: male sex, age >50 yr, White race, tobacco smoking, obesity, family history of BE or EAC in a first-degree relative (conditional, very low quality).
 - Nonendoscopic capsule sponge device (e.g., Cytosponge) + biomarker (TFF3 or methylated DNA markers) is an acceptable alternative screening modality (conditional, very low quality). Cytosponge-TFF3 sensitivity 80%, specificity 92% in enriched case-control populations.
 - No repeat endoscopic screening after a negative index examination (conditional, low quality). Exception: esophagitis LA grade B or worse may mask BE; repeat EGD after 8–12 wk of PPI healing is appropriate.
 
 ### Surveillance
+
 - White light endoscopy AND chromoendoscopy (acetic acid or electronic/virtual chromoendoscopy) at every surveillance examination (strong, moderate quality). NBI targeted biopsies: pooled sensitivity 94.2%, specificity 94.4% for dysplasia/EAC.
 - Structured Seattle protocol biopsy: 4-quadrant biopsies every ≤2 cm throughout BE segment; community adherence only 49–51%.
 - Surveillance intervals for NDBE stratified by segment length (strong, moderate quality):
@@ -46,11 +49,13 @@ Comprehensive evidence-based guideline covering diagnosis, screening, surveillan
 - Cease surveillance when patient is no longer a candidate for EET or has <5-year life expectancy. Discussion at approximately age 75 is reasonable.
 
 ### Medical Therapy
+
 - PPI at least once daily for all BE patients without contraindications (conditional, very low quality). Meta-analysis: PPI associated with 71% reduction in HGD/EAC risk (adjusted OR 0.29).
 - No recommendation on ASA + PPI combination for chemoprevention (AspECT trial: high-dose PPI superior to low-dose for time-to-event composite; ASA benefit uncertain when NSAIDs not excluded).
 - Antireflux surgery is NOT recommended as antineoplastic therapy in BE (conditional, low quality).
 
 ### Endoscopic Therapy (EET)
+
 - EET recommended over esophagectomy for HGD or intramucosal cancer (IMC) (strong, moderate quality). Comparable 5-year survival; EET has markedly lower adverse event rate (RR 0.38 vs esophagectomy).
 - EET suggested for confirmed LGD (conditional, moderate quality). SURF trial (RCT): RFA reduced HGD/EAC progression from 26.5% to 1.5% (P<0.001) vs surveillance over median follow-up.
 - ER of any visible lesion before ablation (conditional, very low quality). EMR upstages/downstages histology in 30–40% of patients; changes management in ~30%. EUS not routinely indicated for HGD/LGD staging.
@@ -60,6 +65,7 @@ Comprehensive evidence-based guideline covering diagnosis, screening, surveillan
 - Mandatory post-CEIM surveillance (strong, moderate quality). Annual IM recurrence rate after CEIM: 8.6–10.5%; dysplastic recurrence 2.0%; HGD/EAC recurrence 1.2%. Most recurrences (75%) at GEJ; 80% of GEJ recurrences are invisible endoscopically.
 
 **Post-CEIM surveillance intervals (by worst pretreatment histology):**
+
 | Pretreatment histology | Post-CEIM surveillance |
 |---|---|
 | LGD | 1 yr → 3 yr → every 2 yr thereafter |
@@ -67,6 +73,7 @@ Comprehensive evidence-based guideline covering diagnosis, screening, surveillan
 | IMC | 3 mo → 6 mo → 12 mo → annually thereafter |
 
 ### Biomarkers (no recommendation made)
+
 - p53 IHC: OR 4–17 for progression; sensitivity 62%, specificity 80% (overexpression); insufficient for routine recommendation due to methodologic limitations.
 - TissueCypher: 15-biomarker tissue systems pathology assay; sensitivity/specificity for HGD/EAC within 5 yr: 30%/95% in NDBE. No routine recommendation.
 - WATS-3D: Abrasive cytology brush with 3D AI analysis; adds 2% absolute increase in dysplasia detection vs forceps biopsy alone; no recommendation pending chromoendoscopy-plus-WATS-3D data.
@@ -101,6 +108,7 @@ Comprehensive evidence-based guideline covering diagnosis, screening, surveillan
 ## Relevance to Wiki
 
 This is the primary authoritative guideline for Barrett's esophagus diagnosis and management. It directly informs:
+
 - `[[barretts-esophagus]]` disease script (Prague criteria, dysplasia grading, surveillance intervals, EET protocols, post-CEIM surveillance)
 - Contextualizes `[[gerd]]` as the primary risk condition
 - Informs `[[upper-endoscopy]]` regarding BE-specific technique (chromoendoscopy, Seattle protocol, biopsy counts)

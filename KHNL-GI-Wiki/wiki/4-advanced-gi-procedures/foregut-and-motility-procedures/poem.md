@@ -22,6 +22,7 @@ sources: []
 *Stub — mucosal incision, submucosal tunnel creation, myotomy (circular muscle only vs. full thickness), closure with clips.*
 
 **Myotomy extent varies by indication:**
+
 - Achalasia: extends 2–3 cm onto gastric cardia
 - Type III: proximal extension to level of spasm on HRM
 - G-POEM: pyloric myotomy 3 cm
@@ -35,6 +36,7 @@ sources: []
 | G-POEM (gastroparesis) | 88.2% symptom improvement; GE normalization 61.3% |
 
 **GERD after POEM (critical):** Pathologic GERD on pH monitoring in ~39% post-POEM vs. ~17% post-LHM ([[achalasia]]). All POEM patients require:
+
 - Lifelong PPI
 - Periodic EGD for Barrett's surveillance
 - pH monitoring at follow-up to guide PPI dosing

@@ -76,6 +76,7 @@ ADR is the most important quality metric. Gastroenterologists with higher ADRs d
 ## Aspirin Chemoprevention (ACG 2021)
 
 Low-dose aspirin for CRC chemoprevention in adults aged **50–69** with:
+
 - ≥10% 10-year cardiovascular disease risk
 - Not at elevated bleeding risk
 - Willing to take for ≥10 years

@@ -8,6 +8,7 @@ sources: []
 ---
 
 ## Bibliographic Info
+
 - **Authors:** Kaltenbach et al. (USMSTF)
 - **Year:** 2020
 - **Journal:** Am J Gastroenterol 2020;115:435–464
@@ -15,11 +16,13 @@ sources: []
 - **Type:** Multi-society consensus statement (ACG, AGA, ASGE)
 
 ## Summary
+
 Comprehensive consensus on optimal techniques for endoscopic removal of colorectal lesions. Covers lesion assessment, resection methods by lesion size/morphology, marking, post-EMR surveillance, and quality standards. Emphasizes that endoscopy should be first-line for all benign colorectal lesions, replacing surgical referral.
 
 ## Key Findings / Claims
 
 ### Lesion Assessment
+
 - Document: location, size (mm), Paris classification for all lesions ≥10mm
 - Photo document all ≥10mm lesions before removal; suggest photo of post-resection defect
 - Paris 0-IIc (depressed): 27–36% risk of submucosal invasion (SMI); >40% for small depressed lesions
@@ -43,6 +46,7 @@ Comprehensive consensus on optimal techniques for endoscopic removal of colorect
 - Hot biopsy forceps: do NOT use for any polypectomy (high incomplete resection, inadequate specimens, complications)
 
 ### EMR Technique
+
 - Inject-and-cut: preferred; viscous injectant (hydroxyethyl starch, Eleview, ORISE Gel) superior to NS for ≥20mm
 - Add indigo carmine or methylene blue to injectant for tissue plane visualization
 - Do NOT use tattoo (carbon particles) as injectant — causes submucosal fibrosis → reduces future resection success
@@ -53,18 +57,21 @@ Comprehensive consensus on optimal techniques for endoscopic removal of colorect
 - Intraprocedural bleeding: coagulation forceps, snare-tip soft coag, or clips ± dilute epinephrine
 
 ### Surveillance After Piecemeal EMR (≥20mm)
+
 - 6 months → 1 year → 3 years
 - At scar: enhanced imaging (chromoendoscopy or NBI) + targeted biopsies
 - Recurrence: repeat EMR/avulsion, then 6–12 mo intervals until clear
 - Once clear: 1y, then 3y
 
 ### Marking / Tattoo
+
 - Sterile carbon particle suspension for lesions needing future localization (surgical or endoscopic)
 - Place 2–3 injections, 3–5 cm **distal** (anal side) to lesion
 - Do NOT inject at or near the lesion — submucosal fibrosis impairs future resection
 - Document tattoo details and photo in procedure report
 
 ### Quality
+
 - Endoscopy should be first-line for all benign colorectal lesions before surgery referral
 - Refer to advanced polypectomy endoscopist (not surgery) when unable to remove confidently
 - Document resection method (cold snare, hot snare, EMR) in procedure report
@@ -108,10 +115,12 @@ Comprehensive consensus on optimal techniques for endoscopic removal of colorect
 | Refer to advanced polypectomy endoscopist (not surgery) when local removal not feasible | Strong | Moderate |
 
 ## Relevance to Wiki
+
 - Informs [[polypectomy-emr]] (advanced colorectal procedures)
 - Informs [[colonoscopy]] (general GI procedures) — quality, technique, surveillance after EMR
 
 ## Contradictions / Open Questions
+
 - Optimal role of underwater EMR vs inject-and-cut not yet established
 - Cold snare EMR (without electrocautery) for large lesions: promising but long-term data lacking
 - ESD indications remain limited in colorectum; evidence still evolving

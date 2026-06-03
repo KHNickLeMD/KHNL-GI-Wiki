@@ -12,6 +12,7 @@ sources: [acg-2016-acute-diarrhea]
 *Cryptosporidium parvum* and *C. hominis* are obligate intracellular parasites causing watery diarrhea. Immunocompromised patients (HIV/AIDS, transplant) are at highest risk for severe and chronic disease. Oocysts resist standard chlorination. [[acg-2016-acute-diarrhea]]
 
 ## Key Points (ACG 2016)
+
 - **Transmission:** Contaminated water (recreational — pools, lakes), food, person-to-person.
 - **Clinical presentation:** Watery diarrhea; cramps; nausea; self-limited in immunocompetent hosts (1–2 weeks); chronic/severe in immunocompromised.
 - **Diagnosis:** Stool antigen EIA (sensitive); modified acid-fast stain for oocysts; multiplex PCR (22-fold more sensitive than microscopy per one study).

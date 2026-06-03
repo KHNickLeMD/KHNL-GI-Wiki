@@ -8,6 +8,7 @@ sources: []
 ---
 
 ## Bibliographic Info
+
 - **Authors:** Vaezi MF, Pandolfino JE, Yadlapati RH, Greer KB, Kavitt RT
 - **Year:** 2020
 - **Journal:** Am J Gastroenterol 2020;115:1393–1411
@@ -24,6 +25,7 @@ Treatment is entirely palliative. Three definitive therapies — pneumatic dilat
 ## Key Findings / Claims
 
 ### Diagnosis
+
 - HRM (esophageal pressure topography) recommended over conventional manometry: 3.4x lower odds of incorrect diagnosis, superior inter-rater agreement (k=0.57 vs 0.32) (Strong; High)
 - Always perform upper endoscopy to exclude pseudoachalasia before HRM
 - FLIP can diagnose achalasia in equivocal cases and in patients who cannot tolerate manometry; performed during endoscopy under sedation
@@ -31,6 +33,7 @@ Treatment is entirely palliative. Three definitive therapies — pneumatic dilat
 - Patients with GERD not responding to PPI → evaluate for achalasia (Strong; Very low)
 
 ### Chicago Classification Subtypes (prognostic and treatment implications)
+
 - **Type I** (20–40%): aperistalsis, no panesophageal pressurization; good outcomes with PD/LHM/POEM
 - **Type II** (50–70%): aperistalsis + panesophageal pressurization >30 mmHg; best outcomes of all subtypes
 - **Type III** (5%): spastic contractions; LHM success 71%, POEM success 93% — POEM preferred
@@ -46,18 +49,21 @@ Treatment is entirely palliative. Three definitive therapies — pneumatic dilat
 | Pharmacotherapy | 0–87% (short-term) | Last resort; not first-line |
 
 ### POEM-specific
+
 - Ponds 2019 RCT (first to evaluate POEM as first-line): POEM 92% vs PD 54% at 2 years (ES ≤3)
 - Werner 2019 RCT: POEM 83% vs LHM 82% at 2 years (noninferior)
 - POEM vs LHM meta-analysis (n=1,542 POEM; 2,581 LHM): POEM had higher dysphagia improvement (93.5% vs 91.0% at 12 months) but significantly higher GERD (OR 9.31 for erosive esophagitis; 4.30 on pH monitoring)
 - Type III: POEM 93% vs LHM 71%; one study showed 98% vs 80.8% with shorter operative time and fewer adverse events for POEM
 
 ### Post-therapy
+
 - Do not use ES or HRM alone to define treatment failure — use TBE first-line (Strong; Very low)
 - PD after failed LHM: 89% success; safe (Strong; Moderate)
 - POEM after failed PD/LHM: 94–95.7% success (Strong; Low)
 - No routine post-dilation gastrograffin esophagram (Strong; Low)
 
 ### Cancer Risk
+
 - SCC risk: HR 28x; ~1 cancer/300 patient-years; 312 cases/100,000 patient-years (meta-analysis)
 - Adenocarcinoma also increased (21.23 cases/100,000 patient-years) but lower
 - >400 endoscopies needed to detect one cancer; poor survival once detected
@@ -84,11 +90,13 @@ Treatment is entirely palliative. Three definitive therapies — pneumatic dilat
 | Routine endoscopic surveillance for SCC is NOT recommended despite 28× elevated risk | Strong | Low |
 
 ## Relevance to Wiki
+
 - **Creates:** [[achalasia]] disease script in `wiki/disease-scripts/foregut-and-motility-diseases/ge-junction/`
 - Opens up the empty **Foregut and Motility** section of the wiki
 - Cross-links needed to: [[eosinophilic-esophagitis]] (DDx), future [[gerd]] page, [[high-resolution-manometry]], [[poem]]
 
 ## Contradictions / Open Questions
+
 - POEM vs LHM long-term GERD data still evolving — this guideline predates widespread POEM use and 5+ year follow-up RCTs
 - Surveillance every 3 years after 10–15 years of disease discussed as expert opinion but not formally recommended; will likely be revisited in future guidelines
 - Chicago Classification v4.0 (2021) supersedes v3.0 referenced in this guideline — Type III achalasia criteria and EGJ outflow obstruction classification were updated; see [[chicago-classification-v4]]

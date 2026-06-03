@@ -14,6 +14,7 @@ sources: []
 ### Establishing the Diagnosis
 
 Hypercontractile esophagus (jackhammer esophagus) is defined by **Chicago Classification v4.0** on [[high-resolution-manometry]]:
+
 - ≥20% of swallows with DCI **>8,000 mmHg·s·cm**
 - IRP normal (if IRP elevated → concern for achalasia spectrum; investigate with TBE/FLIP)
 - Sustained EGJ contractions (SOCs) may occur

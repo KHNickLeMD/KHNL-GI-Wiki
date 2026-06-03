@@ -12,6 +12,7 @@ sources: [acg-2016-acute-diarrhea]
 Postinfectious IBS (PI-IBS) is a recognized chronic functional gastrointestinal sequela of acute infectious gastroenteritis, including traveler's diarrhea. It represents a paradigm shift in understanding of IBS pathogenesis — an external event (enteric infection) leads to prolonged, permanent changes in gastrointestinal function that do not appear to be directly mediated by persistence of the infectious agent. [[acg-2016-acute-diarrhea]]
 
 ## Key Points
+
 - Occurs in an estimated 10–15% of patients following a documented episode of bacterial traveler's diarrhea; higher rates with more severe clinical presentation.
 - More common after bacterial infection and more severe clinical presentations.
 - Diagnosis uses standard IBS criteria (Rome IV/V) in patients who had a well-defined onset after acute gastroenteritis.

@@ -22,6 +22,7 @@ Endoscopic oncologists perform procedures across the GI tract with oncologic int
 ## Relationship to Other Subspecialties
 
 Endoscopic oncology overlaps with but is distinct from:
+
 - **General GI**: Handles screening/surveillance colonoscopy and EGD; refers complex lesions to endoscopic oncology
 - **Surgical oncology**: Endoscopic oncology expands the pool of patients who can avoid surgery (organ preservation) when resection margins are achievable endoscopically
 - **Medical oncology**: Endoscopic oncologists provide staging data that drives systemic therapy decisions and may place feeding tubes/stents to enable chemotherapy tolerance

@@ -26,11 +26,13 @@ This page focuses on GI-relevant diagnoses. Non-GI febrile illnesses (e.g., mala
 ### GI-focused differential by presentation
 
 **Fever + diarrhea (acute):**
+
 - Bacterial: ETEC, Campylobacter, Salmonella, Shigella, Clostridioides difficile (post-antibiotic)
 - Parasitic: Entamoeba histolytica (dysentery), Giardia lamblia (watery, malabsorptive)
 - Viral: Norovirus, rotavirus
 
 **Fever + jaundice:**
+
 - Viral hepatitis A (fecal-oral, 2–6 week incubation; self-limited)
 - Viral hepatitis E (fecal-oral, endemic in South Asia/Africa; severe in pregnancy)
 - Leptospirosis (Weil's disease: jaundice + AKI + hemorrhage)
@@ -39,6 +41,7 @@ This page focuses on GI-relevant diagnoses. Non-GI febrile illnesses (e.g., mala
 - Yellow fever (hepatitis + hemorrhagic fever — rare with vaccination)
 
 **Fever + abdominal pain ± hepatosplenomegaly:**
+
 - Enteric fever (typhoid/paratyphoid): constipation early → diarrhea; rose spots; relative bradycardia; hepatosplenomegaly
 - Amoebiasis / amoebic liver abscess: right upper quadrant pain, fever, tender hepatomegaly; diarrhea may be absent
 - Schistosomiasis (Katayama syndrome): 4–8 weeks post-exposure; fever, urticaria, eosinophilia, hepatosplenomegaly

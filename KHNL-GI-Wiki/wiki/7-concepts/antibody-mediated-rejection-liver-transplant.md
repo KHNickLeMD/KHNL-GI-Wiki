@@ -14,6 +14,7 @@ Antibody-mediated rejection (AMR) in liver transplantation is a distinct rejecti
 ## Diagnosis
 
 AMR in liver transplantation requires a combination of findings (Banff 2022 criteria):
+
 1. **Histologic evidence** of microvascular injury (sinusoidal dilation, endothelial injury, portal/sinusoidal microthrombi, biliary epithelial injury)
 2. **C4d deposition** — positive staining on portal endothelium or sinusoidal lining; note that C4d has low specificity in liver allografts alone
 3. **Donor-specific antibodies (DSA)** — class I or class II HLA antibodies detected in recipient serum
@@ -32,6 +33,7 @@ AMR in liver transplantation requires a combination of findings (Banff 2022 crit
 ## Management
 
 Per [[aasld-ast-2025-liver-transplant-graft-complications]] (Recs 41+; full text in published article):
+
 - Plasmapheresis or therapeutic plasma exchange — removes circulating DSA
 - Intravenous immunoglobulin (IVIG)
 - Rituximab (anti-CD20) — depletes B-cell precursors of plasma cells

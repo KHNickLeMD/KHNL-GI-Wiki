@@ -12,6 +12,7 @@ sources: [lyon-2024-gerd-diagnosis, acg-2020-esophageal-physiologic-testing]
 Ambulatory reflux monitoring is the physiological cornerstone for objectively confirming or excluding gastro-oesophageal reflux disease (GERD). The **Lyon Consensus 2.0** (Gyawali et al., Gut 2024;73:361–371) provides the current authoritative framework, updating the original 2018 Lyon Consensus to define "actionable GERD" — where evidence from oesophageal testing supports revising, escalating, or personalising GERD management.
 
 The Lyon 2.0 framework has two foundational principles:
+
 1. Thresholds and modality choices differ depending on whether the patient has **unproven GERD** (no prior conclusive GERD evidence) vs. **proven GERD** (prior conclusive evidence with persisting symptoms).
 2. Test results must meet specific thresholds to be considered conclusive; borderline findings require adjunctive metrics.
 
@@ -20,6 +21,7 @@ The Lyon 2.0 framework has two foundational principles:
 ## Lyon Consensus 2.0 Overview
 
 ### What Changed from Lyon 1.0
+
 - LA grade B oesophagitis promoted from borderline to **conclusive** GERD evidence
 - Wireless pH monitoring criteria defined for the first time (indications, thresholds, 96h preference)
 - Separate thresholds established for testing **on** vs. **off** antisecretory therapy
@@ -33,6 +35,7 @@ The Lyon 2.0 framework has two foundational principles:
 ## Conclusive GERD Evidence
 
 ### Endoscopic (off therapy)
+
 | Finding | Status |
 |---|---|
 | LA grade B, C, or D oesophagitis | Conclusive |
@@ -44,9 +47,11 @@ The Lyon 2.0 framework has two foundational principles:
 LA grade A is **borderline** — found in 5–7.5% of healthy subjects; insufficient alone for conclusive diagnosis.
 
 ### pH Monitoring (off therapy — wireless)
+
 - **AET >6.0% on ≥2 days** of prolonged wireless pH monitoring = diagnostic of GERD
 
 ### pH-Impedance Monitoring (off therapy — catheter-based)
+
 - **Total AET >6% off PPI** = diagnostic of GERD
 
 ---
@@ -56,18 +61,22 @@ LA grade A is **borderline** — found in 5–7.5% of healthy subjects; insuffic
 When primary metrics fall in the borderline range, adjunctive metrics are required to consolidate or refute GERD diagnosis.
 
 ### Borderline AET: 4.0–6.0%
+
 Any monitoring study where AET falls between 4.0% and 6.0% — and does not meet criteria for GERD, reflux hypersensitivity, or a normal study — is considered **inconclusive for GERD**. Approximately 20% of asymptomatic healthy subjects have dominant borderline AET values across 4 days of wireless monitoring.
 
 **Next steps when AET is borderline:**
+
 - Look for adjunctive metrics: reflux episode count, MNBI, symptom association (SAP/SI)
 - Consider clinical context: other conditions (reflux hypersensitivity, motility disorders, supragastric belching, rumination) may be contributing
 - Extend wireless pH monitoring to 96 hours to capture dominant physiological vs. pathological AET pattern
 
 ### Borderline Reflux Episode Count: 40–80/day
+
 - Total reflux episodes 40–80/day off PPI is **inconclusive as a stand-alone metric** on pH-impedance monitoring
 - Must be interpreted alongside AET and MNBI
 
 ### Normal Study Definition
+
 - **AET <4.0% on all days of wireless pH monitoring + negative reflux-symptom association** = GERD excluded
 - **AET <4.0% on all days + positive reflux-symptom association** = meets criteria for **reflux hypersensitivity** (not GERD; treat with neuromodulators complementing or replacing antisecretory therapy)
 
@@ -76,6 +85,7 @@ Any monitoring study where AET falls between 4.0% and 6.0% — and does not meet
 ## Supplementary and Adjunctive Metrics
 
 ### Reflux Episode Count (pH-Impedance, off therapy)
+
 | Threshold | Interpretation |
 |---|---|
 | <40 total reflux episodes/day | Adjunctive evidence **against** pathological GERD |
@@ -85,6 +95,7 @@ Any monitoring study where AET falls between 4.0% and 6.0% — and does not meet
 No separate thresholds defined for upright vs. supine episodes, or acidic vs. non-acidic reflux events — insufficient data.
 
 ### Mean Nocturnal Baseline Impedance (MNBI)
+
 MNBI is a marker of oesophageal mucosal integrity, reflecting cumulative reflux-induced damage. Measured from three 10-minute supine periods excluding swallows and reflux episodes, or averaged across the entire supine period (both methods correlate well).
 
 | Threshold | Interpretation |
@@ -98,9 +109,11 @@ These thresholds were derived from a multicentre international study of healthy 
 **Caveat:** MNBI can be abnormal in non-reflux inflammation and with fluid stasis in oesophageal hypomotility or [[achalasia]] — remains adjunctive, not standalone.
 
 ### Postreflux Swallow-Induced Peristaltic Wave (PSPW) Index
+
 **Retired as a clinical diagnostic criterion.** PSPW may have value in phenotyping refractory GERD but normative thresholds are variable, calculation is cumbersome, and it remains a research tool only. Not used in routine clinical diagnosis of GERD.
 
 ### Symptom Association Metrics (SAP and SI)
+
 Used to assess whether symptoms are temporally linked to reflux episodes within a 2-minute window.
 
 | Metric | Positive Threshold | Meaning |
@@ -111,11 +124,13 @@ Used to assess whether symptoms are temporally linked to reflux episodes within 
 **Important limitation:** Reliability depends on prompt patient symptom reporting within the 2-minute capture window. May not always be reliable — avoid over-interpreting in isolation.
 
 **Clinical use:**
+
 - Positive SAP/SI with normal AET (<4.0%) = **reflux hypersensitivity**
 - Positive SAP/SI with borderline AET (4.0–6.0%) = shifts interpretation toward GERD or hypersensitivity requiring treatment
 - Used in the on-therapy setting: positive symptom association (AET ≥4.2% and/or positive SAP) defined refractory GERD in one RCT where 67% of 27 patients randomised to antireflux surgery improved
 
 ### Catheter-Based Mucosal Impedance (CAT — endoscopic device)
+
 The original endoscopic mucosal impedance devices (catheter through biopsy channel; balloon-mounted electrode arrays) are **no longer commercially available**. A novel cap-based endoscopic device evaluating short mucosal segments is under development; normative thresholds are being acquired. Not currently usable in clinical practice.
 
 ---
@@ -205,6 +220,7 @@ The ACG 2020 guideline [[acg-2020-esophageal-physiologic-testing]] provides the 
 | 11 | For patients being evaluated for antireflux surgery: abnormal AET = predictor of treatment outcome; RSA and MNBI provide adjunctive value | Conditional | Very low |
 
 ### ACG 2020 Antireflux Surgery Predictors
+
 - **AET >4%** off PPI: cardinal metric predicting symptom improvement from medical or surgical antireflux therapy
 - In 187 subjects: AET >4% and RSA with impedance-detected reflux events off PPI predicted treatment success; in 33 patients undergoing laparoscopic fundoplication, only positive RSA on PPI predicted successful outcome
 - **MNBI <2,292 Ω**: predicts symptomatic response to antireflux therapy — adjunctive metric when AET is inconclusive

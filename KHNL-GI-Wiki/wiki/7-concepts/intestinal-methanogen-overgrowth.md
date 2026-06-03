@@ -12,6 +12,7 @@ sources: [acg-2020-sibo]
 IMO is a term proposed by the ACG 2020 SIBO guideline ([[acg-2020-sibo]]) to describe the presence of excessive methane-producing organisms (archaea, not bacteria) in the intestinal tract, distinguished from classical hydrogen-predominant [[small-intestinal-bacterial-overgrowth]].
 
 **Key points:**
+
 - Methanogens are archaea (*Methanobrevibacter smithii* is the predominant species), not bacteria — the "B" in SIBO is technically incorrect
 - *M. smithii* uses hydrogen (H₂) as substrate to produce methane (CH₄): 4H₂ → 1CH₄
 - Methane slows intestinal transit by augmenting contractility and delaying ileal peristaltic conduction velocity
@@ -19,10 +20,12 @@ IMO is a term proposed by the ACG 2020 SIBO guideline ([[acg-2020-sibo]]) to des
 - Methane may occur throughout the intestinal tract (not just small bowel)
 
 **Diagnosis:**
+
 - Positive methane breath test: CH₄ ≥10 ppm at any point during glucose or lactulose breath test (90–120 min)
 - ACG Recommendation 5: Suggest methane breath testing in symptomatic patients with constipation (Conditional/Very Low)
 
 **Treatment:**
+
 - Combination of rifaximin (400 mg t.i.d.) + neomycin (500 mg b.i.d.) is most effective (87% methane reduction)
 - Neomycin alone: 33%; rifaximin alone: 28%
 - Targeting methanogens may reduce methane production and improve constipation (Key Concept 10)

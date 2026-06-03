@@ -8,6 +8,7 @@ sources: []
 ---
 
 ## Bibliographic Info
+
 - **Authors:** Fasiha Kanwal, Brent A. Neuschwander-Tetri, Rohit Loomba, Mary E. Rinella
 - **Year:** 2024 (received/accepted Oct 2023)
 - **Journal/Publisher:** Hepatology 2024;79:1212–1219. DOI: 10.1097/HEP.0000000000000670
@@ -36,6 +37,7 @@ The core message: **all recommendations in the NAFLD Practice Guidance apply to 
 - Delphi panel near-unanimous: 30–60 g/d alcohol with steatosis + CMRF alters natural history (95%) and may alter therapeutic response (90%) → rationale for studying MetALD separately.
 
 ## Key Points (Table 1, verbatim)
+
 - MASLD replaces the term NAFLD and MASH replaces NASH.
 - NAFL can be replaced with the term metabolic dysfunction–associated steatotic liver (MASL).
 - Studies suggest a near complete overlap (99%) between the MASLD-defined population and the historical NAFLD-defined populations.
@@ -45,10 +47,12 @@ The core message: **all recommendations in the NAFLD Practice Guidance apply to 
 - Future studies of MetALD are needed to provide insight into outcomes, biomarker performance and response to therapeutics.
 
 ## Relevance to Wiki
+
 - **[[nafld-masld]]** — supplies the authoritative nomenclature/definition section: SLD schema, MASLD/MASL/MASH definitions, full 5-item CMRF criteria with thresholds, MetALD alcohol ranges, dual-pathology concept, cryptogenic SLD.
 - **[[alcohol-associated-liver-disease]]** — MetALD overlap spectrum; CMRFs common in ALD.
 - Cross-links: [[wilson-disease]], [[drug-induced-liver-injury]], [[celiac-disease]], [[hepatitis-c]] (genotype 3 steatosis).
 
 ## Contradictions / Open Questions
+
 - Pediatric nomenclature impact deferred to future pediatric guidance.
 - Natural history of CMRF-negative cryptogenic SLD subgroup, and the precise CMRF×alcohol interaction in MetALD, remain research gaps.

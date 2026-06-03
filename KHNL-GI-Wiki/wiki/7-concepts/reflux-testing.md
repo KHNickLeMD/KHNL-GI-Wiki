@@ -16,6 +16,7 @@ Reflux testing refers to the suite of diagnostic tools used to objectively confi
 ## Ambulatory pH Monitoring
 
 ### Principle
+
 Measures esophageal acid exposure as percentage of time intraluminal pH is <4 (acid exposure time, AET).
 
 ### Methods
@@ -26,15 +27,18 @@ Measures esophageal acid exposure as percentage of time intraluminal pH is <4 (a
 | Wireless pH capsule (Bravo) | 48-hour (or 96-hour extended protocol); clipped to esophageal mucosa; no catheter; better patient tolerance; allows off-PPI testing for longer duration |
 
 ### Key Threshold
+
 - Normal AET: <4–6% (protocol-specific; Lyon Consensus suggests <4% clearly normal, >6% clearly abnormal, 4–6% borderline)
 - Pathologic acid reflux confirmed when AET exceeds the normal threshold
 
 ### Clinical Indication
+
 - Objective confirmation of GERD before TIF 2.0, cTIF, or surgical fundoplication
 - Evaluation of PPI-refractory symptoms (study should be done off PPI, typically after 7-day washout, unless testing for incomplete acid suppression)
 - Distinguishing true GERD from functional heartburn (symptom-reflux correlation absent despite normal AET)
 
 ### Refractory GERD Definition (ASGE 2024)
+
 Persistent troublesome GERD symptoms despite double-dose PPI for ≥8 weeks in the setting of ongoing documented pathologic reflux on ambulatory pH testing.
 
 ---
@@ -42,12 +46,15 @@ Persistent troublesome GERD symptoms despite double-dose PPI for ≥8 weeks in t
 ## Combined pH-Impedance Monitoring (MII-pH)
 
 ### Principle
+
 Multi-channel intraluminal impedance (MII) detects fluid movement in the esophagus regardless of pH. Combined with pH electrode, it characterizes:
+
 - Acid reflux (pH <4)
 - Weakly acidic reflux (pH 4–7)
 - Non-acid (alkaline) reflux (pH >7)
 
 ### Clinical Advantage
+
 - Detects non-acid and weakly acidic reflux episodes missed by pH alone
 - Particularly useful in:
   - Regurgitation-predominant GERD on adequate PPI therapy (may have weakly acidic reflux)
@@ -55,6 +62,7 @@ Multi-channel intraluminal impedance (MII) detects fluid movement in the esophag
   - Patients on PPIs (study on-therapy captures breakthrough reflux)
 
 ### Symptom-Reflux Correlation Indices
+
 - Symptom Index (SI): percentage of symptoms associated with reflux episodes (>50% positive)
 - Symptom Association Probability (SAP): statistical probability of symptom-reflux association (>95% positive)
 
@@ -65,6 +73,7 @@ Multi-channel intraluminal impedance (MII) detects fluid movement in the esophag
 Endoscopy is the primary tool for characterizing the anti-reflux barrier and GEJ integrity. High-quality documentation is required before any procedural anti-reflux therapy (ASGE 2024 strong recommendation).
 
 ### Required Elements
+
 | Element | Classification System |
 |---|---|
 | Erosive esophagitis | Los Angeles (LA) classification: Grade A (small breaks <5 mm), B (≥5 mm, not confluent), C (confluent, <75% circumference), D (≥75% circumference) |
@@ -74,6 +83,7 @@ Endoscopy is the primary tool for characterizing the anti-reflux barrier and GEJ
 | GEJ landmarks | Top of gastric folds, Z-line, diaphragmatic impression |
 
 ### Hill Grade of Gastroesophageal Flap Valve
+
 | Grade | Description | Significance |
 |---|---|---|
 | I | Prominent fold, tight collar | Competent valve |
@@ -82,10 +92,12 @@ Endoscopy is the primary tool for characterizing the anti-reflux barrier and GEJ
 | IV | No fold; hiatal hernia always open; squamous epithelium visible in hernia | Severely compromised |
 
 **Therapeutic implication (ASGE 2024):**
+
 - Hill I or II + hernia ≤2 cm: candidate for TIF 2.0
 - Hill III or IV + hernia >2 cm: requires cTIF or surgical repair
 
 ### Mucosal Cleanliness
+
 - Barcelona scale or Toronto Upper GI Cleaning Score should be used to ensure adequate visualization before documentation of GEJ landmarks and detection of precancerous lesions
 
 ---
@@ -95,6 +107,7 @@ Endoscopy is the primary tool for characterizing the anti-reflux barrier and GEJ
 ### Role in GERD
 
 HRM is not a primary diagnostic test for GERD but is performed in specific contexts:
+
 1. Pre-operative evaluation before anti-reflux surgery or TIF to exclude major motility disorder (achalasia, absent contractility)
 2. Assessment of GEJ morphology and LES function (integrated relaxation pressure, LES resting pressure)
 3. Characterization of contractile reserve
@@ -106,6 +119,7 @@ See [[hrm-antireflux-surgery]] and [[flip-panometry]] for detailed HRM protocols
 ## CYP2C19 Genotyping
 
 ### Relevance to Reflux Testing
+
 Not a diagnostic test for GERD per se, but guides PPI selection and dosing in patients with suboptimal response.
 
 - Metabolizer phenotypes: poor, intermediate, normal (wild-type), rapid, ultrarapid
@@ -158,6 +172,7 @@ The ACG 2020 guideline [[acg-2020-esophageal-physiologic-testing]] organizes tes
 | **Extraesophageal/atypical** (cough, hoarseness, globus, belching, rumination) | pH impedance off acid suppression (Strong/Low); upfront over empiric PPI for isolated extraesophageal symptoms (Conditional/Very low) | Laryngoscopy: 86% sensitive, only 9% specific for reflux — unreliable as primary diagnostic test |
 
 ### Key Principles (ACG 2020)
+
 - No test should be ordered without a clear clinical hypothesis about what it will provide
 - GERD questionnaires alone are insufficient for conclusive GERD diagnosis (GERDQ ≥9: 66% sensitivity, 64% specificity)
 - AET >4% off PPI is the cardinal predictor of antireflux surgery outcomes; RSA and MNBI provide adjunctive value

@@ -60,13 +60,16 @@ A **subepithelial lesion** is a mass or mass-like structure that projects into t
 ## Diagnostic Algorithm
 
 ### Step 1 — Initial Endoscopic Assessment
+
 - Document lesion location, size estimate, and surface characteristics
 - If pillow sign positive + yellow color + no firmness → lipoma; confirm with CT if large (fat density). **No EUS or tissue needed**
 - If extrinsic compression suspected (moves with respiration) → EUS to confirm extrinsic vs. intramural origin
 - **Do not perform bite-on-bite biopsies before EUS**
 
 ### Step 2 — EUS Evaluation (preferred for all nonlipomatous SEL)
+
 Assess:
+
 1. **Layer of origin** (MM, SM, or MP) — critical for narrowing differential
 2. **Echogenicity** (hypo-, iso-, or hyperechoic; homogeneous vs. heterogeneous)
 3. **Size** (measure in 2 dimensions)
@@ -80,12 +83,14 @@ EUS imaging alone has only 43–50% diagnostic accuracy for solid nonlipomatous 
 ### Step 3 — Tissue Acquisition
 
 **Preferred method:** EUS-FNB alone OR EUS-FNA with rapid on-site evaluation (ROSE)
+
 - FNB alone: ~90% accuracy in RCT data; higher histologic core yield with fewer passes
 - FNA + ROSE: approaches FNB accuracy when ROSE is available
 - FNA without ROSE: lower yield; not preferred
 - If using FNA needles: 19-gauge preferred over 22-gauge for fourth-layer (MP) gastric lesions (92% vs. 71% yield)
 
 **If EUS-FNA/FNB is nondiagnostic:** Unroofing technique (mucosal incision-assisted biopsy [MIAB] or submucosal tunnel biopsy)
+
 - Diagnostic yield 89–100%
 - Caution: submucosal fibrosis from unroofing can complicate subsequent endoscopic resection (e.g., STER)
 - Requires vascular/extrinsic nature to be excluded by EUS first
@@ -93,11 +98,13 @@ EUS imaging alone has only 43–50% diagnostic accuracy for solid nonlipomatous 
 **No fixed lower size limit** for FNA/FNB attempts; manage small SEL case-by-case based on location, accessibility, clinical history, and resection feasibility.
 
 ### Step 4 — Cross-Sectional Imaging (CT/MRI)
+
 - Generally inferior to EUS for small lesions (CT misses lesions averaging 11 mm; EUS detects them)
 - CT/MRI: reserve for when EUS is unavailable, or for large GIST (staging, surgical planning, neoadjuvant imatinib decisions)
 - CT: 80–85% sensitivity for neoplastic vs. non-neoplastic gastric SEL, but performs poorly for small lesions
 
 ### Surveillance (if no tissue diagnosis and no resection)
+
 - Required unless there is high confidence the lesion has zero malignant potential
 - No evidence-based surveillance intervals are established
 - Features suggesting lower risk: size <2 cm, homogeneous, no irregular borders, no echogenic foci, no cystic spaces
@@ -122,12 +129,14 @@ EUS imaging alone has only 43–50% diagnostic accuracy for solid nonlipomatous 
 ## Red Flags / Alarm Features
 
 ### Indications for Prompt Resection
+
 - SEL causing **GI bleeding** or **obstructive symptoms** → resect regardless of size or confirmed diagnosis
   - Exception: very large GIST → obtain tissue first to enable neoadjuvant imatinib
 - **All nongastric GIST** → resect given malignant potential
 - **Gastric GIST >2 cm** → resect (metastatic risk increases significantly above this threshold; up to 86% for >10 cm with high mitotic rate)
 
 ### EUS Features Associated with Malignancy (especially GIST)
+
 - **Heterogeneous echotexture**
 - **Large size** (>3–5 cm, depending on study)
 - **Irregular margins**
@@ -145,6 +154,7 @@ Presence of ≥2 of: irregular border, echogenic foci, cystic spaces → maligna
 ## Management Summary by Entity
 
 ### GIST
+
 | Size | Location | Action |
 |---|---|---|
 | <2 cm | Gastric | Insufficient evidence; surveillance or resection both acceptable. If high-risk EUS features → resect. If endoscopic resection chosen, any endoscopic method is acceptable |
@@ -153,11 +163,13 @@ Presence of ≥2 of: irregular border, echogenic foci, cystic spaces → maligna
 | Large (especially >5 cm) | Any | Consider neoadjuvant imatinib after tissue confirmation before surgical resection |
 
 ### Esophageal / GEJ MP-Layer SEL (GIST or Leiomyoma)
+
 - **STER** (submucosal tunneling endoscopic resection) or **thoracoscopic enucleation** — comparable en bloc resection rates
 - STER advantage: shorter procedure time, shorter hospital stay, lower cost
 - STER limitation: transverse diameter ≥3.5 cm → higher technical difficulty and piecemeal resection risk
 
 ### Gastric Neuroendocrine Tumors (gNET)
+
 | Type | Background | Behavior | Management |
 |---|---|---|---|
 | Type 1 | Atrophic gastritis → hypergastrinemia | Indolent; multifocal common | EMR or ESD for prominent tumors ≤10 mm; ESD has higher R0 but clinical significance unclear |
@@ -165,6 +177,7 @@ Presence of ≥2 of: irregular border, echogenic foci, cystic spaces → maligna
 | Type 3 | Sporadic; no hypergastrinemia | More aggressive | ESD preferred for small (<1 cm), low-grade, no lymphadenopathy; positive margins require surgical resection |
 
 ### Rectal NETs
+
 - <1 cm, low-grade: endoscopic resection (EMR or ESD — no proven superiority)
   - Band ligation EMR: 96–100% R0 resection rate
   - Underwater EMR: equivalent to ESD in R0 rate with shorter procedure time
@@ -174,6 +187,7 @@ Presence of ≥2 of: irregular border, echogenic foci, cystic spaces → maligna
 - EUS for lymphadenopathy staging: not mandatory for small (<1 cm) incidental rectal NETs found at colonoscopy — primary excision often performed at time of discovery
 
 ### Lipoma
+
 - No malignant potential
 - No resection or surveillance required
 - Symptomatic lipomas (bleeding, obstruction) may warrant endoscopic or surgical removal
@@ -181,5 +195,6 @@ Presence of ≥2 of: irregular border, echogenic foci, cystic spaces → maligna
 ---
 
 ## Related Pages
+
 - [[endoscopic-ultrasound]]
 - [[polypectomy-emr]]

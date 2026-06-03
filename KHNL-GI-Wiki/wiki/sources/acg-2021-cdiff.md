@@ -9,7 +9,7 @@ sources: []
 
 ## Bibliographic Info
 
-Kelly CR, Fischer M, Allegretti JR, LaPlante K, Stewart DB, Limketkai BN, Stollman NH. ACG Clinical Guidelines: Prevention, Diagnosis, and Treatment of Clostridioides difficile Infections. Am J Gastroenterol. 2021;116(6):1124–1147. https://doi.org/10.14309/ajg.0000000000001278. Published online May 18, 2021.
+Kelly CR, Fischer M, Allegretti JR, LaPlante K, Stewart DB, Limketkai BN, Stollman NH. ACG Clinical Guidelines: Prevention, Diagnosis, and Treatment of Clostridioides difficile Infections. Am J Gastroenterol. 2021;116(6):1124–1147. <https://doi.org/10.14309/ajg.0000000000001278>. Published online May 18, 2021.
 
 Guideline body: American College of Gastroenterology (ACG). Evidence graded using GRADE methodology. Complementary to 2018 IDSA/SHEA guidelines.
 
@@ -20,12 +20,14 @@ Comprehensive ACG guideline (23 GRADE recommendations + 8 key concept statements
 ## Key Findings / Claims
 
 **Epidemiology**
+
 - ~453,000 CDI cases annually in US (2011 data); ~14,000 deaths directly attributable
 - 20% of patients experience initial recurrence; rates rise sharply with each subsequent episode
 - Community-acquired CDI now accounts for 35–48% of diagnoses
 - CDI colonization (asymptomatic) in 4–15% healthy adults, up to 21% hospitalized adults
 
 **Diagnosis**
+
 - Test only patients with ≥3 unformed stools in 24 hours (do NOT test formed stool)
 - Preferred: two-step algorithm — highly sensitive test first (NAAT or GDH), then specific toxin EIA
 - If both positive: CDI confirmed. If both negative: CDI unlikely. Discordant (NAAT+/toxin−): clinical judgment required
@@ -33,22 +35,26 @@ Comprehensive ACG guideline (23 GRADE recommendations + 8 key concept statements
 - Test of cure (retesting asymptomatic patients after treatment) is NOT recommended — shedding persists up to 4 weeks after resolution
 
 **Severity Classification**
+
 - Non-severe: neither WBC ≥15,000 cells/mm³ nor Cr >1.5 mg/dL
 - Severe: WBC ≥15,000 cells/mm³ OR serum creatinine >1.5 mg/dL
 - Fulminant: severe CDI criteria PLUS hypotension/shock OR ileus OR megacolon
 
 **Treatment — Non-Severe Initial CDI**
+
 - Vancomycin 125 mg PO QID × 10 days (strong recommendation)
 - Fidaxomicin 200 mg PO BID × 10 days (strong recommendation); lower recurrence rate than vancomycin
 - Metronidazole 500 mg PO TID × 10 days — acceptable for low-risk outpatients with cost constraints; inferior in elderly, severely ill, or hypoalbuminemic patients
 - Metronidazole should not be used for severe CDI
 
 **Treatment — Severe Initial CDI**
+
 - Vancomycin 125 mg PO QID × 10 days (strong recommendation)
 - Fidaxomicin 200 mg PO BID × 10 days (conditional recommendation)
 - Metronidazole NOT recommended for severe CDI
 
 **Treatment — Fulminant CDI**
+
 - Vancomycin 500 mg PO q6h × first 48–72 hours (strong recommendation); if improving, step down to 125 mg q6h for additional 10 days
 - Add IV metronidazole 500 mg q8h (conditional) — particularly if ileus impairs oral drug delivery
 - If ileus: add vancomycin enemas 500 mg in 100 mL saline q6h (conditional)
@@ -58,11 +64,13 @@ Comprehensive ACG guideline (23 GRADE recommendations + 8 key concept statements
 - FMT should be considered after 48–72 hours of maximal medical therapy failure, especially for poor surgical candidates; sequential FMT protocol every 3–5 days until pseudomembrane resolution
 
 **Treatment — First Recurrent CDI**
+
 - Tapering/pulsed-dose vancomycin if initial therapy was fidaxomicin, vancomycin, or metronidazole (strong recommendation, very low quality evidence)
 - Fidaxomicin 200 mg BID × 10 days if initial course was vancomycin or metronidazole (conditional, moderate quality)
 - Metronidazole should NOT be used for recurrent CDI; limit to one lifetime course due to neurotoxicity risk
 
 **Prevention of Recurrence (2nd or further recurrence)**
+
 - FMT: recommended for second or further recurrence (strong recommendation, moderate quality)
 - Preferred delivery routes: colonoscopy or oral capsules (both strong recommendations); enema if others unavailable (conditional)
 - Repeat FMT if recurrence within 8 weeks of initial FMT (conditional)
@@ -71,13 +79,16 @@ Comprehensive ACG guideline (23 GRADE recommendations + 8 key concept statements
 - Bezlotoxumab (single IV infusion during anti-CDI therapy): for high-risk recurrence patients — age ≥65 with ≥1 of: second episode within 6 months, immunocompromised, or severe CDI. NNT=10 overall; NNT=6 for age ≥65 with ≥1 prior episode in past 6 months. Avoid in CHF.
 
 **Prevention — Probiotics**
+
 - Against probiotics for primary CDI prevention (conditional, moderate quality)
 - Against probiotics for secondary CDI prevention (strong, very low quality)
 
 **PPIs/Antisecretory Therapy**
+
 - Do NOT routinely discontinue PPIs in CDI patients if there is an appropriate indication (strong recommendation)
 
 **Special Populations**
+
 - IBD: test all IBD patients with acute flare + diarrhea; use two-step algorithm (colonization common); vancomycin 125 mg QID × minimum 14 days; do not hold immunosuppression — continue and escalate if no improvement after 3 days; FMT for rCDI in IBD
 - Pregnancy/lactation: vancomycin first-line; metronidazole frequent treatment failures; FMT avoid during pregnancy
 - Immunocompromised: vancomycin or fidaxomicin first-line

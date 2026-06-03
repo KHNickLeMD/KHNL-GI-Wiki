@@ -8,6 +8,7 @@ sources: []
 ---
 
 ## Bibliographic Info
+
 - **Authors:** Mishra G, Lennon AM, Pausawasdi N, Shami VM, Sharaiha RZ, Elmunzer BJ
 - **Year:** 2025 (published online April 23, 2025)
 - **Journal:** Am J Gastroenterol 2025;120:973â€“992. doi:10.14309/ajg.0000000000003490 (joint ACG/ASGE publication)
@@ -24,6 +25,7 @@ New indicators in this iteration: EUS-guided liver biopsy diagnostic adequacy (â
 ## All 20 Quality Indicators (Table 1)
 
 ### Preprocedure
+
 | # | Indicator | Target | Level |
 |---|---|---|---|
 | 1* | EUS for documented appropriate indication | >90% | 1CÂ¹ |
@@ -32,6 +34,7 @@ New indicators in this iteration: EUS-guided liver biopsy diagnostic adequacy (â
 | 4 | EUS performed/supervised by fully trained, credentialed endosonographer | >98% | 3 |
 
 ### Intraprocedure
+
 | # | Indicator | Target | Level |
 |---|---|---|---|
 | 5 | Visualization of relevant structures (indication-specific) documented | >98% | 3 |
@@ -48,6 +51,7 @@ New indicators in this iteration: EUS-guided liver biopsy diagnostic adequacy (â
 | 16 | Technical success in EUS-directed transgastric ERCP (EDGE) | â‰¥92% | 1C |
 
 ### Postprocedure
+
 | # | Indicator | Target | Level |
 |---|---|---|---|
 | 17 | Complete procedure report created | >98% | 3 |
@@ -58,6 +62,7 @@ New indicators in this iteration: EUS-guided liver biopsy diagnostic adequacy (â
 *Priority indicator
 
 ## Key Clinical Points
+
 - **Prophylactic antibiotics for pancreatic cysts:** RCT data (n=226) and meta-analyses show no significant benefit for routine antibiotics in EUS-FNA of pancreatic cystic lesions; not routinely indicated (exception: immunosuppressed, multiple comorbidities, incomplete aspiration, ascites)
 - **Mediastinal cysts:** do not routinely sample â€” cyst infection/mediastinitis risk even with antibiotics
 - **Rectal EUS-FNA/FNB:** ~15% infection risk (perirectal abscess) despite prophylactic antibiotics
@@ -94,4 +99,5 @@ New indicators in this iteration: EUS-guided liver biopsy diagnostic adequacy (â
 | Maintain adverse event rates after interventional EUS below thresholds (<10% pancreatic fluid collection drainage; <20% EUS-GBD; <25% EUS-BD; <15% EUS-GE and EDGE) | â€” | Low |
 
 ## Relevance to Wiki
+
 - Creates: `wiki/4-advanced-gi-procedures/hepatobiliary-procedures/endoscopic-ultrasound.md`

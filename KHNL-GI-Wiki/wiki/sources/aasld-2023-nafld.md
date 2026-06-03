@@ -8,6 +8,7 @@ sources: []
 ---
 
 ## Bibliographic Info
+
 - **Authors:** Mary E. Rinella, Brent A. Neuschwander-Tetri, Mohammad Shadab Siddiqui, Manal F. Abdelmalek, Stephen Caldwell, Diana Barb, David E. Kleiner, Rohit Loomba
 - **Year:** 2023
 - **Journal/Publisher:** Hepatology 2023;77:1797–1835. DOI: 10.1097/HEP.0000000000000323
@@ -104,5 +105,6 @@ The diagnostic core is a **two-tier noninvasive pathway**: FIB-4 as universal fi
 - Concept stub candidate: **noninvasive-liver-fibrosis-assessment** (NILDA) — links to [[aasld-2024-nilda-blood]].
 
 ## Contradictions / Open Questions
+
 - Predates 2024 FDA approval of resmetirom and Aug 2025 semaglutide approval for MASH — see [[aasld-2024-resmetirom]] and [[aasld-2025-semaglutide-mash]] for the approved-therapy updates; GS 23 ("no FDA-approved medications") is now superseded.
 - Nomenclature: written as "NAFLD/NASH"; all statements apply to MASLD/MASH per [[aasld-2023-masld-nomenclature]] (>99% population overlap).

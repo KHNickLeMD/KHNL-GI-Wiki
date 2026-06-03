@@ -8,6 +8,7 @@ sources: []
 ---
 
 ## Bibliographic Info
+
 - **Authors:** Charles J. Kahi, C. Richard Boland, Jason A. Dominitz, Francis M. Giardiello, David A. Johnson, Tonya Kaltenbach, David Lieberman, Theodore R. Levin, Douglas J. Robertson, Douglas K. Rex
 - **Year:** 2016 (published online February 12, 2016; based on searches through September–October 2015)
 - **Journal/Publisher:** Am J Gastroenterol 2016;111:337–346 (simultaneously published in Gastroenterology and Gastrointestinal Endoscopy)
@@ -31,6 +32,7 @@ A "high-quality" colonoscopy is defined throughout as: complete to cecum/anastom
 ## Complete Recommendations (verbatim/near-verbatim)
 
 ### Recommendation 1 — Perioperative Clearing
+>
 > **We recommend that patients with CRC undergo high-quality perioperative clearing with colonoscopy. The procedure should be performed preoperatively, or within a 3- to 6-month interval after surgery in the case of obstructive CRC. The goals of perioperative clearing colonoscopy are detection of synchronous cancer and detection and complete resection of precancerous polyps.**
 >
 > *Strong recommendation, low-quality evidence*
@@ -40,6 +42,7 @@ A "high-quality" colonoscopy is defined throughout as: complete to cecum/anastom
 ---
 
 ### Recommendation 2 — First Postoperative Surveillance Colonoscopy
+>
 > **We recommend that patients who have undergone curative resection of either colon or rectal cancer receive their first surveillance colonoscopy 1 year after surgery (or 1 year after the clearing perioperative colonoscopy). Additional surveillance recommendations apply to patients with rectal cancer (see "Additional Considerations in Surveillance of Rectal Cancer").**
 >
 > *Strong recommendation, low-quality evidence*
@@ -49,6 +52,7 @@ A "high-quality" colonoscopy is defined throughout as: complete to cecum/anastom
 ---
 
 ### Recommendation 3 — Subsequent Surveillance Intervals
+>
 > **We recommend that, after the 1-year colonoscopy, the interval to the next colonoscopy should be 3 years (i.e., 4 years after surgery or perioperative colonoscopy) and then 5 years (i.e., 9 years after surgery or perioperative colonoscopy). Subsequent colonoscopies should occur at 5-year intervals until the benefit of continued surveillance is outweighed by diminishing life expectancy. If neoplastic polyps are detected, the intervals between colonoscopies should be in accordance with published guidelines for polyp surveillance intervals. These intervals do not apply to patients with Lynch syndrome.**
 >
 > *Strong recommendation, low-quality evidence*
@@ -58,6 +62,7 @@ A "high-quality" colonoscopy is defined throughout as: complete to cecum/anastom
 ---
 
 ### Recommendation 4 — Rectal Cancer Local Surveillance (High-Risk Patients)
+>
 > **Patients with localized rectal cancer who have undergone surgery without total mesorectal excision, those who have undergone transanal local excision (i.e., transanal excision or transanal endoscopic microsurgery), or endoscopic submucosal dissection, and those with locally advanced rectal cancer who did not receive neoadjuvant chemoradiation and then surgery using total mesorectal excision techniques, are at increased risk for local recurrence. In these situations, we suggest local surveillance with flexible sigmoidoscopy or EUS every 3–6 months for the first 2–3 years after surgery. These surveillance measures are in addition to recommended colonoscopic surveillance for metachronous neoplasia.**
 >
 > *Weak recommendation, low-quality evidence*
@@ -67,6 +72,7 @@ A "high-quality" colonoscopy is defined throughout as: complete to cecum/anastom
 ---
 
 ### Recommendation 5 — CT Colonography for Obstructive CRC
+>
 > **In patients with obstructive CRC precluding complete colonoscopy, we recommend CTC as the best alternative to exclude synchronous neoplasms. Double-contrast barium enema is an acceptable alternative if CTC is not available.**
 >
 > *Strong recommendation, moderate-quality evidence*
@@ -78,6 +84,7 @@ A "high-quality" colonoscopy is defined throughout as: complete to cecum/anastom
 ---
 
 ### Recommendation 6 — Fecal Tests
+>
 > **There is insufficient evidence to recommend routine use of FIT or fecal DNA for surveillance after CRC resection.**
 >
 > *(No strength/quality grade assigned — insufficient evidence statement)*

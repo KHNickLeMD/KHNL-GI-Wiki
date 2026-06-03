@@ -8,6 +8,7 @@ sources: []
 ---
 
 ## Bibliographic Info
+
 - **Authors:** Tenner S, Vege SS, Sheth SG, Salvia R, Payawal DA, Algul H, Bhure U, Bhutan CK, Cruz-Santamaría DM, de Madaria E, Forsmark CE, Greenberg JA, Grinevich V, Hammer HF, Hwang JH, Jin T, Kochhar R, Larana R, Lee PJ, Papachristou GI, Pham A, Regimbeau JM, Sahai AV, Swensson J, Thosani N, Whitcomb DC, Windsor JA, Yadav D, Yokoe M, Manes G
 - **Year:** 2024
 - **Journal/Publisher:** American Journal of Gastroenterology 2024;119:419–437
@@ -26,17 +27,20 @@ ERCP is indicated in acute gallstone pancreatitis only with concurrent cholangit
 ## Key Findings / Claims
 
 **Diagnosis:**
+
 - 2 of 3 criteria: (1) typical epigastric pain ± radiation to back, (2) lipase or amylase >3× ULN, (3) imaging (US, CT, MRI) findings consistent with AP
 - Lipase preferred over amylase (more sensitive, longer elevation window, more specific)
 - CT not needed for most cases; indicated if: diagnosis uncertain, no improvement at 48–72h, evaluate for complications
 
 **Etiology:**
+
 - Gallstones: ~40% (most common); elevated LFTs (ALT >3× ULN highly predictive)
 - Alcohol: ~30%
 - Idiopathic: ~20%; MRCP or EUS to exclude microlithiasis, periampullary lesions
 - Other: hypertriglyceridemia (>1000 mg/dL), medications, post-ERCP, hypercalcemia, genetic (PRSS1, SPINK1, CFTR), autoimmune
 
 **Severity classification (Revised Atlanta 2012, adopted):**
+
 - Mild AP: no organ failure, no local/systemic complications; most cases
 - Moderately severe AP: transient organ failure <48h OR local complications (peripancreatic fluid, pseudocyst, necrosis) OR exacerbation of comorbidity
 - Severe AP: persistent organ failure >48h (respiratory, cardiovascular, or renal); high mortality
@@ -44,28 +48,33 @@ ERCP is indicated in acute gallstone pancreatitis only with concurrent cholangit
 **BISAP score** (Bedside Index of Severity in Acute Pancreatitis): BUN >25, impaired mental status, SIRS (≥2 criteria), age >60, pleural effusion; ≥3 = high risk
 
 **Fluid resuscitation:**
+
 - Lactated Ringer's preferred over normal saline: reduces SIRS, organ failure, and possibly infection
 - Goal-directed: 250–500 mL/hr initially; reassess every 6h with BUN, hematocrit, urine output
 - Aggressive hydration only in first 24–48h; over-resuscitation harmful (abdominal compartment syndrome, respiratory failure)
 - Avoid aggressive hydration in patients with SIADH, cardiac/renal failure
 
 **Nutrition:**
+
 - Early oral/enteral feeding within 24–48h (soft low-fat diet) superior to NPO — reduces complications, hospital stay
 - If oral not tolerated: nasogastric feeding (equivalent to nasojejunal in most studies)
 - TPN: only if enteral route not possible >5–7 days; associated with increased infections vs. enteral
 
 **Antibiotics:**
+
 - NOT routine; do not reduce mortality in sterile necrosis (multiple RCTs)
 - Indicated: confirmed infected pancreatic necrosis (fever + gas on CT, or positive FNA culture)
 - Empiric antibiotics: carbapenem (imipenem/meropenem) or fluoroquinolone with metronidazole; adequate pancreatic tissue penetration required
 
 **ERCP in gallstone pancreatitis:**
+
 - **Cholangitis + AP:** emergent ERCP within 24h (Strong recommendation)
 - **CBD obstruction without cholangitis:** ERCP within 72h
 - **Mild gallstone AP without cholangitis/obstruction:** ERCP does NOT improve outcomes; perform cholecystectomy instead
 - **Predicted severe AP without biliary obstruction:** ERCP NOT recommended (no benefit, risk of worsening)
 
 **Necrotizing pancreatitis:**
+
 - CT severity index (CTSI): pancreatic necrosis + peripancreatic collections; ≥8 = severe
 - **Step-up approach:**
   1. Antibiotics (if infected necrosis)
@@ -76,6 +85,7 @@ ERCP is indicated in acute gallstone pancreatitis only with concurrent cholangit
 - Surgery: reserved for failed endoscopic/percutaneous approach or specific complications
 
 **Gallstone pancreatitis cholecystectomy timing:**
+
 - Mild AP: cholecystectomy before discharge (same admission)
 - Severe/moderately severe AP: delay cholecystectomy 6 weeks after recovery
 - If unfit for surgery: ERCP with sphincterotomy reduces recurrence risk

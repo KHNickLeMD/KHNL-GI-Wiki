@@ -8,6 +8,7 @@ sources: []
 ---
 
 ## Bibliographic Info
+
 - **Authors:** Salvador R, Pandolfino JE, Costantini M, Gyawali CP, Keller J, Mittal S, Roman S, Savarino EV, Tatum R, Tolone S, Zerbib F, Capovilla G, Jain A, Kathpalia P, Provenzano L, Yadlapati R
 - **Year:** 2025
 - **Journal/Publisher:** Annals of Surgery 2025;281:124–135
@@ -72,15 +73,18 @@ Post-operatively, the consensus clarifies that HRM interpretation after fundopli
 | Normal basal + normal IRP + normal/intact peristalsis | Expected post-fundoplication pattern → consider reflux monitoring if symptoms persist |
 
 **Key IRP Reference Values:**
+
 - Post-ARS IRP <15 mmHg (Medtronic system) = upper limit of normal
 - Post-ARS IRP context: fundoplication creates intrinsic resistance; values above surgery-naive normal (typically <15 mmHg Chicago Classification) are expected after Nissen
 
 **PFOO (Post-Fundoplication Outflow Obstruction):**
+
 - Defined by simultaneous presence of: elevated intrabolus pressure (IBP) + elevated IRP
 - Either alone insufficient for PFOO diagnosis
 - May represent tight wrap, twisted wrap, or stenotic wrap
 
 **Pseudoachalasia / Missed Achalasia:**
+
 - If post-ARS HRM shows 100% failed peristalsis: compare to pre-operative HRM
 - Pre-operative failed peristalsis = pre-existing condition; not surgery-related
 - If pre-operative HRM was normal: suspect pseudoachalasia (progressive motor failure secondary to obstruction) or missed achalasia (achalasia diagnosis missed pre-ARS)

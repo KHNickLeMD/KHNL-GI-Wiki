@@ -23,6 +23,7 @@ Wilson disease (WD; hepatolenticular degeneration) is an autosomal recessive dis
 | **Other** | Kayser-Fleischer rings, sunflower cataracts; renal (Fanconi syndrome, nephrolithiasis); skeletal (osteoporosis); cardiomyopathy, dysrhythmias; hypoparathyroidism; infertility/miscarriages; pancreatitis |
 
 **Key clinical clues to suspect WD:**
+
 - Unexplained liver disease in any patient <55 years; also consider in older patients with concurrent neuropsychiatric disease (GS 1)
 - WD must be excluded in unexplained liver disease + neurologic/psychiatric disorder (GS 2)
 - ALF with Coombs-negative hemolytic anemia (GS 3): serum AST > ALT; ALP usually very low (<40 IU/L); female predominance (2:1 to 4:1); urgent LT evaluation
@@ -30,6 +31,7 @@ Wilson disease (WD; hepatolenticular degeneration) is an autosomal recessive dis
 - Pediatric patients with hepatic steatosis, especially if BMI/waist circumference normal for age
 
 **Initial evaluation (GS 6):**
+
 1. Liver biochemistries (AST, ALT, bilirubin, albumin, INR)
 2. CBC + INR
 3. Serum ceruloplasmin (± serum copper)
@@ -86,9 +88,11 @@ Predicts mortality without LT; uses Bilirubin + INR + AST + WBC + Albumin:
 | **Leipzig score** | Composite diagnostic scoring (see source page [[aasld-2022-wilson-disease]], Table 7) — score ≥4 = WD highly likely; 2–3 = probable; 0–1 = unlikely (GS 12) |
 
 **ALF due to WD — Korman Biochemical Criteria (100% sensitive and specific in adults):**
+
 - ALP to total bilirubin ratio <4 AND AST to ALT ratio >2.2
 
 **Family screening algorithm (Figure 4, GS 14):**
+
 - Screen all first-degree relatives when proband diagnosed
 - If proband genotype known → ATP7B testing of first-degree relatives (most efficient)
 - If genotype unavailable → clinical + biochemical evaluation: slit-lamp, ceruloplasmin, LFTs, 24-h urine Cu, CBC
@@ -101,6 +105,7 @@ Predicts mortality without LT; uses Bilirubin + INR + AST + WBC + Albumin:
 ### General Principles
 
 Treatment is **lifelong** in all patients (except post-LT). Asymptomatic patients with organ damage require urgent treatment; those without evidence of organ damage still require treatment to prevent progression (GS 15). Treatment goals:
+
 - Symptomatic: chelation to remove copper + clinical stabilization
 - Asymptomatic: prevent progression; chelation or zinc
 - Maintenance: lower-dose chelator or full-dose zinc after 1+ year of treatment (GS 18)
@@ -116,10 +121,12 @@ Treatment is **lifelong** in all patients (except post-LT). Asymptomatic patient
 ### Initial Treatment (GS 16–17)
 
 **Symptomatic patients (GS 16):** Chelating agent preferred (D-penicillamine or trientine). Trientine is better tolerated.
+
 - D-Penicillamine: "Start low/go slow" (250 mg/day → increase 250 mg q4–7 days → 1000–1500 mg/day in 2–4 divided doses). Give 1h before or 2h after meals. Pyridoxine 25–50 mg/day.
 - Trientine dihydrochloride: 15–20 mg/kg/day (max 2000 mg/day) in 2–3 divided doses. Trientine tetrahydrochloride (2022): once-daily dosing possible; ambient temperature stable; dose may require adjustment based on urinary copper.
 
 **Asymptomatic patients (GS 17):** Can use chelator at lower dose (same agents as symptomatic) OR zinc.
+
 - Zinc (elemental): Adults/large children: 150 mg/day (50 mg TID), taken at least twice daily. Children <50 kg: 75 mg/day (25 mg TID). Must be taken at least 2h away from meals. Urinary zinc >1–2 mg/24h confirms adherence.
 
 **Combination therapy (decompensated cirrhosis):** Chelator + zinc, 4–5h apart throughout the day — NEVER simultaneously. Zinc (50 mg adults, 25 mg children) at doses 1 and 3; trientine (10 mg/kg) at doses 2 and 4, approximately every 4–5h. Evaluate for LT simultaneously (GS 26).
@@ -127,6 +134,7 @@ Treatment is **lifelong** in all patients (except post-LT). Asymptomatic patient
 ### Maintenance Therapy (GS 18)
 
 Transition after ≥1 year of treatment + clinical/biochemical stability:
+
 - Lower-dose chelator (D-penicillamine or trientine) OR full-dose zinc
 - Minimum monitoring: twice per year (clinical exam, LFTs, INR, CBC, 24-h urinary Cu)
 
@@ -147,17 +155,20 @@ Transition after ≥1 year of treatment + clinical/biochemical stability:
 ### Special Clinical Situations
 
 **Decompensated cirrhosis (GS 26–27):**
+
 - Trial of intensive medical regimen (combination chelator + zinc, dosed 4–5h apart)
 - NWI applied serially to identify responders vs. non-responders
 - Simultaneous LT evaluation required as backup
 - Advanced disease failing medical therapy → expeditious LT referral (GS 27)
 
 **Acute liver injury (ALI, without HE) due to WD (GS 29):**
+
 - May respond to intensive chelation + zinc
 - NWI >10, failing to decrease over time → LT
 - Require early transplant referral regardless
 
 **ALF due to WD (GS 28):**
+
 - Refer immediately for LT evaluation and potential transplantation
 - Oral chelators may help stabilize (if renal function intact)
 - Bridge modalities: apheresis, plasma exchange, albumin dialysis, MARS, RRT — may reduce hemolysis and allow stabilization; rarely eliminate LT need
@@ -169,6 +180,7 @@ Transition after ≥1 year of treatment + clinical/biochemical stability:
 **Neurologic LT (GS 31):** Liver failure and HCC: well-accepted LT indications. Neurologic WD alone: controversial — variable outcomes; some improvement reported but controlled data lacking.
 
 **HCC surveillance (GS 32):**
+
 - Patients with WD and cirrhosis (or regressed cirrhosis): ultrasound ± AFP every 6 months
 - CCA surveillance NOT indicated, but CCA should be in DDx for liver tumors not meeting HCC radiologic criteria
 
@@ -184,6 +196,7 @@ Transition after ≥1 year of treatment + clinical/biochemical stability:
 ### Neurological Adjuncts (GS 36–37)
 
 Effective copper removal often improves neurological symptoms but adjunctive therapy helps:
+
 - Parkinsonism: carbidopa/levodopa (may be limited efficacy), dopamine agonists
 - Dystonia (focal): botulinum toxin injection; trihexyphenidyl (anticholinergic effects limit use); clonazepam
 - Chorea: VMAT2 inhibitors (tetrabenazine, valbenazine)

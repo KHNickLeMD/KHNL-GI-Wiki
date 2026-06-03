@@ -24,6 +24,7 @@ Ascites can be graded by volume and classified by treatment response:
 | Grade 3 | Large/gross — marked abdominal distension | LVP first-line |
 
 **Treatment response categories:**
+
 - **Responsive ascites:** Fully mobilized or reduced to grade 1 with medical therapy
 - **Recurrent ascites:** Recurs ≥3 times within 12 months despite sodium restriction and adequate diuretics
 - **Refractory ascites (RA):** Cannot be mobilized or early recurrence (within 4 weeks of mobilization) cannot be prevented by medical therapy; affects ~5–10% of cirrhotic ascites patients; 6-month survival ~50%
@@ -35,11 +36,13 @@ Ascites can be graded by volume and classified by treatment response:
 ## Differential Diagnosis
 
 ### Cirrhotic (portal hypertensive) causes — SAAG ≥1.1 g/dL
+
 - Cirrhosis (most common cause in Western world)
 - Massive liver metastases with portal involvement
 - Right heart failure / constrictive pericarditis (SAAG ≥1.1, but ascitic protein typically high >2.5 g/dL)
 
 ### Non-cirrhotic (non-portal hypertensive) causes — SAAG <1.1 g/dL
+
 - Peritoneal carcinomatosis
 - Peritoneal tuberculosis
 - Pancreatitis (elevated ascitic amylase)
@@ -58,33 +61,40 @@ Ascites can be graded by volume and classified by treatment response:
 ## Diagnostic Algorithm
 
 ### Step 1: Initial Evaluation (all patients with new ascites)
+
 - History: alcohol, metabolic risk factors, viral hepatitis, heart disease, malignancy, travel, pancreatitis
 - Physical examination: shifting dullness, spider angiomata, caput medusae, JVD, lymphadenopathy
 - Labs: LFTs (INR, bilirubin, albumin), BMP (creatinine, BUN), CBC, serum and urine electrolytes, spot urine protein
 - Imaging: abdominal Doppler ultrasound (all patients)
 
 ### Step 2: Diagnostic Paracentesis
+
 Perform in ALL patients with new-onset ascites accessible for sampling; also perform in:
+
 - Any cirrhotic patient admitted emergently (even without infection symptoms)
 - Any patient with ascites who develops signs/symptoms/labs suggesting infection
 - Any cirrhotic patient with ascites and AKI (to exclude SBP as precipitant)
 
 **Routine ascitic fluid analysis:**
+
 - PMN (neutrophil) count
 - Total protein
 - Albumin (to calculate SAAG with simultaneous serum albumin)
 - Culture (bedside inoculation into blood culture bottles, ≥10 mL each aerobic + anaerobic, before antibiotics)
 
 **Selective tests (not routine):**
+
 - Amylase: only if pancreatic ascites suspected
 - Cytology: only if non-cirrhotic etiology suspected
 - LDH / glucose: only if secondary bacterial peritonitis suspected
 - AFB culture / ADA: only if tuberculosis suspected
 
 ### Step 3: SAAG Calculation
+
 SAAG = serum albumin − ascitic fluid albumin (simultaneous samples)
 
 ### Step 4: Further Workup Guided by SAAG
+
 - SAAG ≥1.1 + ascitic protein <2.5 g/dL → cirrhosis; consider liver elastography / Doppler; hepatic venogram if needed
 - SAAG ≥1.1 + ascitic protein >2.5 g/dL → post-sinusoidal cause; echocardiogram / right heart catheterization
 - SAAG <1.1 → peritoneal disease; cytology, AFB/ADA, abdominal imaging, ± laparoscopy with peritoneal biopsy
@@ -107,6 +117,7 @@ SAAG = serum albumin − ascitic fluid albumin (simultaneous samples)
 ## Management
 
 ### Dietary Sodium Restriction
+
 - Moderate restriction: **2 g (90 mmol) sodium/day** for all grades 2 and 3
 - Patient education essential; formal dietician consultation recommended
 - Fluid restriction: NOT indicated unless hyponatremia present (serum Na ≤125 mEq/L)
@@ -123,11 +134,13 @@ SAAG = serum albumin − ascitic fluid albumin (simultaneous samples)
 **Monitoring:** Body weight, serum creatinine, sodium (especially in first weeks)
 
 **Medications to avoid in cirrhosis with ascites:**
+
 - NSAIDs (precipitate hyponatremia, AKI, diuretic refractoriness)
 - ACE inhibitors, ARBs, alpha-1 blockers, dipyridamole
 - Aminoglycosides (nephrotoxic)
 
 ### Large-Volume Paracentesis (LVP) — Grade 3 and Refractory Ascites
+
 - Defined as drainage >5 L per session
 - **Albumin replacement mandatory when >5 L drained:** 6–8 g albumin per liter of ascites removed
   - After 5 L: ~40 g albumin
@@ -140,6 +153,7 @@ SAAG = serum albumin − ascitic fluid albumin (simultaneous samples)
 **PPCD (postparacentesis circulatory dysfunction):** Clinically manifest as renal impairment, dilutional hyponatremia, hepatic encephalopathy, or death; prevented by adequate albumin replacement
 
 ### TIPS (Refractory Ascites)
+
 - Superior to repeated LVP for ascites control and may confer survival benefit in selected patients
 - **Preferred candidate:** MELD <18, younger age, preserved cardiopulmonary function, without sarcopenia
 - Stent: 8–10 mm covered (polytetrafluoroethylene) stent preferred to reduce post-TIPS hepatic encephalopathy
@@ -149,11 +163,13 @@ SAAG = serum albumin − ascitic fluid albumin (simultaneous samples)
 - If ascites recurs after TIPS: venogram to assess stenosis; Doppler surveillance in patients with prior TIPS revision or prothrombotic state
 
 ### Liver Transplantation
+
 - Referral for evaluation indicated with grade 2 or 3 ascites
 - Strongly consider in refractory ascites
 - Patients with RA may be disadvantaged by MELD-based allocation; MELD-Na addresses hyponatremia component
 
 ### Nonselective Beta-Blockers (NSBBs)
+
 - Caution (not absolute contraindication) in RA with: SBP <90 mmHg, Na <130 mEq/L, or creatinine >1.5 mg/dL
 - May be reintroduced if hemodynamic parameters improve
 
@@ -189,6 +205,7 @@ SAAG = serum albumin − ascitic fluid albumin (simultaneous samples)
 ---
 
 ## Related Pages
+
 - [[spontaneous-bacterial-peritonitis]]
 - [[aki-in-cirrhosis]]
 - [[alcohol-associated-liver-disease]]

@@ -18,6 +18,7 @@ sources: [acg-2021-anorectal-disorders]
 **Examination:** Inspection alone is usually sufficient — attempt to gently evert the posterior midline to visualize the fissure. Anoscopy is often too painful acutely; defer if needed.
 
 **Chronic fissure:** defined as lasting >8–12 weeks; characterized by:
+
 - Edema with overhanging edges ("sentinel tag" at distal fissure margin)
 - Hypertrophied anal papilla proximally
 - Fibers of internal anal sphincter visible at fissure base
@@ -56,6 +57,7 @@ sources: [acg-2021-anorectal-disorders]
 ## Therapeutics
 
 ### Acute Fissure (~50% heal spontaneously)
+
 - Sitz baths (warm water soaks 3–4×/day)
 - Fiber supplement (psyllium; goal Bristol 3–4 stools)
 - Adequate hydration
@@ -64,17 +66,20 @@ sources: [acg-2021-anorectal-disorders]
 ### Chronic Fissure — Medical Management (First Line)
 
 **Topical calcium channel blocker (first-line; Strong/Low, ACG 2021):**
+
 - Topical diltiazem 2% or nifedipine 0.2–0.5% ointment applied 2–3× daily to anal margin and intersphincteric groove for 8–12 weeks
 - Healing rate: 67–90%
 - Side effects: headache in ~20%; mild local irritation
 - Recurrence ~30% at 1 year (lower than nitrates)
 
 **Topical nitroglycerin (GTN, second choice):**
+
 - 0.2–0.4% ointment applied TID
 - Healing rate: ~50–57% (marginally superior to placebo; inferior evidence to CCB)
 - Main limitation: headache in 6–20% (dose-dependent)
 
 **Botulinum toxin A injection (Conditional/Low — for CCB failure):**
+
 - 5–100 units injected into internal anal sphincter
 - Healing: 60–80%; superior to placebo; not reliably superior to LIS
 - Temporary incontinence to flatus: up to 18% at 2 months; incontinence to stool: 5%
@@ -84,6 +89,7 @@ sources: [acg-2021-anorectal-disorders]
 ### Chronic Fissure — Surgical (Medical Therapy Failures)
 
 **Lateral internal sphincterotomy (LIS) — Strong/High, ACG 2021:**
+
 - Procedure: division of a portion of the internal anal sphincter (IAS) fibers up to the apex of the fissure or the dentate line
 - Healing rate: 94–98% — clearly superior to all topical agents and Botox
 - Technique: open or closed; minimal-incision approaches equivalent

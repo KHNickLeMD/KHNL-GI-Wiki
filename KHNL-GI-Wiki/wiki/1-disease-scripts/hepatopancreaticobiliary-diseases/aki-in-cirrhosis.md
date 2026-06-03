@@ -59,6 +59,7 @@ AKI is diagnosed when **any one** of the following is met:
 #### HRS-AKI Diagnostic Criteria (Current ICA/AGA 2022)
 
 All of the following must be present:
+
 1. Cirrhosis with ascites
 2. AKI by KDIGO criteria (SCr ≥0.3 mg/dL in 48h OR ≥1.5× baseline in 7 days)
 3. No response to 2-day albumin volume challenge (1 g/kg/d, max 100 g/d) after diuretic withdrawal
@@ -152,6 +153,7 @@ All of the following must be present:
 **Indication:** SCr remains >2× baseline despite initial management (BPA 5) for 2 days AND HRS-AKI criteria are met.
 
 **Albumin regimen:**
+
 - Day 1: **1 g/kg IV** (max 100 g)
 - Day 2 onward: **20–40 g/day IV**
 - Continue with vasoconstrictors until SCr returns to within ≤0.3 mg/dL of baseline for 2 consecutive days, or for a maximum of **14 days total**
@@ -172,6 +174,7 @@ Vasopressin V1 receptor analog; reverses splanchnic vasodilatation.
   - Lower total daily dose with similar efficacy; fewer ischemic side effects
 
 **FDA contraindications:**
+
 - SCr ≥5 mg/dL
 - O2 saturation <90%
 
@@ -180,6 +183,7 @@ Vasopressin V1 receptor analog; reverses splanchnic vasodilatation.
 **Efficacy:** RCT response rates 36–44%; CONFIRM trial (US/Canada): 29% reversed HRS and survived additional 10 days without RRT — may provide a bridge to liver transplantation
 
 **Side effects:**
+
 - Ischemic complications: angina, digital ischemia, splanchnic ischemia, arrhythmia
 - Respiratory failure (~30% in CONFIRM trial, especially in ACLF with multi-organ failure — monitor SpO2)
 - **Do not resume** after cardiac or ischemic symptoms, even if resolved
@@ -249,6 +253,7 @@ RRT is not a primary therapy for HRS-AKI. Indications:
 - ~25% of patients remain dialysis-dependent after LT (especially younger patients, pre-existing CKD, or those requiring pretransplant RRT)
 
 **Simultaneous Liver-Kidney Transplantation (SLKT)** — OPTN/UNOS 2017 criteria:
+
 - Dialysis dependence, OR
 - Measured/calculated GFR ≤25 mL/min for ≥6 consecutive weeks
 

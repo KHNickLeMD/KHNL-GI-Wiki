@@ -12,6 +12,7 @@ sources: [acg-2016-acute-diarrhea]
 *Giardia intestinalis* (also known as *G. lamblia* or *G. duodenalis*) is the most common intestinal parasitic infection in the United States. It is a frequent cause of persistent and traveler's diarrhea, and is associated with malabsorption. [[acg-2016-acute-diarrhea]]
 
 ## Key Points (ACG 2016)
+
 - **Transmission:** Contaminated water (lakes, streams, municipal water), food, person-to-person (fecal-oral). Cysts are resistant to chlorine.
 - **Clinical presentation:** Watery to semi-formed, malodorous diarrhea; bloating; flatulence; often prolonged/persistent (14–30 days).
 - **Diagnosis:** Stool antigen EIA (sensitive, convenient); microscopy (lower sensitivity, requires expertise); real-time PCR lower limit of detection ~10² spores/mL vs. microscopy >10⁶/mL.

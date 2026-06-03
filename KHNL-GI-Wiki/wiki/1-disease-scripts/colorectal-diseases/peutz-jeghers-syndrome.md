@@ -16,17 +16,20 @@ Peutz-Jeghers syndrome (PJS) is an autosomal-dominant hamartomatous polyposis sy
 **Incidence**: 1 in 50,000–200,000 live births; ~25% of newly diagnosed PJS cases represent de novo mutations.
 
 **Clinical criteria (evaluate for PJS if any one is met)**:
+
 - Perioral or buccal mucocutaneous pigmentation AND/OR
 - Two or more histologically characteristic GI hamartomatous polyps, OR
 - Family history of PJS
 
 **Mucocutaneous pigmentation**:
+
 - Melanin pigment spots 1–5 mm in diameter; present in >95% of patients
 - Most common in perioral area and buccal mucosa; also lips, forearms, digits, palms, soles, perianal area
 - Lip spots cross the vermilion border (unlike common freckles); darker and more densely clustered
 - Pigmentation appears in infancy and may fade with age, but buccal mucosa spots persist
 
 **GI polyps**:
+
 - Histologically distinct hamartomatous polyps in 88–100% of patients
 - Polyps are nondysplastic; have normal overlying epithelium specific to the GI segment in which found; arborizing growth pattern with muscularis mucosae extending into branching fronds
 - Epithelial infolding may cause pseudoinvasion (can be misdiagnosed as cancer)
@@ -73,29 +76,36 @@ SCTAT = sex cord tumor with annular tubules; ~20% become malignant. PJS is assoc
 ### Endoscopic and Imaging Evaluation
 
 **Initial baseline evaluation at age 8** [[acg-2015-hereditary-gi-cancer]] (Table 10):
+
 - **Colonoscopy** (age 8; if polyps → repeat q3y; if none → repeat at age 18 then q3y)
 - **EGD/Esophagogastroduodenoscopy** (age 8; same surveillance schedule as colonoscopy)
 - **Video capsule endoscopy** of small bowel (age 8; repeat q3y)
 - MR enterography is accurate for detecting polyps ≥15 mm and provides more reproducible size assessment than capsule endoscopy; CT enterography detects polyps ≥1 cm but repeated X-ray exposure is problematic
 
 **Ongoing surveillance** [[acg-2015-hereditary-gi-cancer]]:
+
 - Colonoscopy + EGD + capsule endoscopy q3y from age 18 onward if polyps are found; if no polyps on first exam, repeat at age 18 then q3y
 
 **Pancreatic surveillance** (Table 10):
+
 - MRI/MRCP or EUS starting at age **30**, every 1–2 years
 - PJS carries 11–36% lifetime risk of pancreatic adenocarcinoma (up to 132-fold relative risk)
 
 **Breast surveillance** (women):
+
 - Annual self-exam from age 18; annual breast MRI ± mammogram from age 25
 
 **Ovarian / uterine / cervical**:
+
 - Annual pelvic exam + transvaginal ultrasound from age 25; CA-125 probably not helpful
 - Annual Pap smear for adenoma malignum detection from age 25
 
 **Testicular**:
+
 - Annual testicular exam from birth; ultrasound if abnormalities palpated or feminization occurs; 10–20% of SCTAT become malignant
 
 **Lung**:
+
 - No specific screening; education about symptoms and smoking cessation (annual CXR or CT in smokers may be considered — Conditional/Low)
 
 ---
@@ -109,6 +119,7 @@ SCTAT = sex cord tumor with annular tubules; ~20% become malignant. PJS is assoc
 - Double-balloon enteroscopy and intraoperative endoscopy allow extensive small bowel polyp removal
 
 **Intussusception** — the primary complication of PJS [[acg-2015-hereditary-gi-cancer]]:
+
 - Median age of first intussusception 16 years (range 3–50); 50% of first episodes present by age 20
 - 80% present as acute abdomen; average causative polyp size 3.5 cm
 - Surgery is often necessary; should examine entire small bowel and remove all significant polyps

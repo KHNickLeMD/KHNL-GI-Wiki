@@ -16,6 +16,7 @@ Distinct from non-variceal UGIB (peptic ulcer, Mallory-Weiss, Dieulafoy) in mana
 ## Differential Diagnosis
 
 In a cirrhotic patient with UGIB, consider:
+
 - **Esophageal varices** — most common (~70% of variceal bleeds)
 - **Gastric varices** — fundal (GOV2/IGV1) carry higher rebleed risk; often require different intervention (glue, BRTO, TIPS)
 - **Portal hypertensive gastropathy** — diffuse oozing, not brisk hemorrhage; may cause chronic blood loss
@@ -72,6 +73,7 @@ Standard practice recommends prophylactic antibiotics to prevent bacterial infec
 **Current guideline recommendation**: Ceftriaxone 1g IV daily × 5–7 days (preferred in Child-Pugh C or high-resistance settings); norfloxacin 400 mg PO BID × 7 days (alternative in low-resistance, Child-Pugh A/B)
 
 **Evolving evidence** ([[albhaisi-2025-prophylactic-antibiotics-cirrhosis]]): A 2025 systematic review (14 RCTs, n=1,322) found shorter/no antibiotic courses are non-inferior to 5–7 days for all-cause mortality (97.3% probability of non-inferiority; risk difference 0.9%). However:
+
 - Shorter courses associated with 15.2% higher bacterial infection rate
 - Evidence quality is low (12/14 studies unblinded; 8/14 high risk of bias)
 - Most data from Asia/Europe; US applicability uncertain

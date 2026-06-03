@@ -8,6 +8,7 @@ sources: []
 ---
 
 ## Bibliographic Info
+
 - **Authors:** Keith D. Lindor, Christopher L. Bowlus, James Boyer, Cynthia Levy, Marlyn Mayo
 - **Year:** 2021 (approved July 30, 2021; published Hepatology 2022;75:1012–1013)
 - **Journal/Publisher:** Hepatology 2022;75:1012–1013
@@ -51,10 +52,12 @@ The fibrates statement (Statement 9) was revised to clarify that fibrates remain
 ---
 
 ## Relevance to Wiki
+
 - Updates [[primary-biliary-cholangitis]] — OCA contraindication definition revised; monitoring recommendation for all cirrhotics on OCA added
 - Updates [[aasld-2018-pbc]] — Statements 9 and 10 are superseded
 - Relevant cross-reference to [[liver-transplantation]] (advanced cirrhosis definition)
 
 ## Contradictions / Open Questions
+
 - The shift from Child-Pugh B/C to "prior or current decompensation or portal hypertension" is practically more inclusive — patients with compensated cirrhosis but persistent thrombocytopenia (a marker of portal hypertension) or prior encephalopathy episode should now be considered to have "advanced cirrhosis" for the purpose of OCA contraindication
 - The long-term cardiovascular safety and renal function effects of fibrates in PBC patients remain incompletely characterized

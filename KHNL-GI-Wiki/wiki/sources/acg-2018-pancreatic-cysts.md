@@ -10,6 +10,7 @@ sources: []
 # ACG 2018: Diagnosis and Management of Pancreatic Cysts
 
 ## Bibliographic Info
+
 - **Authors:** Grace H. Elta, MD, FACG; Brintha K. Enestvedt, MD, MBA; Bryan G. Sauer, MD, MSc, FACG (GRADE Methodologist); Anne Marie Lennon, MD, PhD, FACG
 - **Year:** 2018
 - **Journal/Publisher:** *American Journal of Gastroenterology* 2018; 113:464–479. doi:10.1038/ajg.2018.14; published online 27 February 2018
@@ -60,6 +61,7 @@ Evidence grade key: "Strong" = evidence clearly shows benefit outweighs risk; "C
 **Recommendation 10.** Patients with IPMNs or MCNs with new-onset or worsening diabetes mellitus, or a rapid increase in cyst size (of >3 mm/year) during surveillance, may have an increased risk of malignancy, so should undergo a short-interval MRI or EUS±FNA. *(Conditional recommendation, very low level of evidence)*
 
 **Recommendation 11.** Patients with IPMNs or MCNs with any of the following features should undergo EUS±FNA and/or be referred to a multidisciplinary group for further evaluation: *(Strong recommendation, very low quality of evidence)*
+
 - (a) Any of the following symptoms or signs: jaundice secondary to the cyst, acute pancreatitis secondary to the cyst, significantly elevated serum CA 19-9
 - (b) Any of the following imaging findings: the presence of a mural nodule or solid component either within the cyst or in the pancreatic parenchyma, dilation of the main pancreatic duct of >5 mm, a focal dilation of the pancreatic duct concerning for main duct IPMN or an obstructing lesion, mucinproducing cysts measuring ≥3 cm in diameter
 - (c) The presence of high-grade dysplasia or pancreatic cancer on cytology
@@ -71,6 +73,7 @@ Evidence grade key: "Strong" = evidence clearly shows benefit outweighs risk; "C
 **Recommendation 14.** In the absence of concerning features (Table 3), which warrant increased surveillance or referral for further evaluation, cyst size guides surveillance intervals for presumed IPMNs and MCNs (Figure 2). *(Conditional recommendation, very low quality of evidence)*
 
 Surveillance intervals by cyst size (Figure 2):
+
 - **<1 cm:** MRI q2 years × 4 years → if stable, consider lengthening interval; if increase, shorter interval with MRI or EUS±FNA within 6 months → if then stable, MRI in 1 year and return to original surveillance based on size
 - **1–2 cm:** MRI q1 year × 3 years → if stable, MRI q2 years × 4 years; if increase, shorter interval with MRI or EUS±FNA within 6 months
 - **2–3 cm:** MRI or EUS q6–12 months for 3 years → if stable, MRI q1 year × 4 years; if stable continue q1 year; if increase, refer to multidisciplinary group and consider EUS±FNA
@@ -136,11 +139,13 @@ Surveillance intervals by cyst size (Figure 2):
 ## High-Risk Features for Mucinous Cysts (Table 3 — Warrant EUS±FNA and/or Multidisciplinary Referral)
 
 **Symptoms:**
+
 - Jaundice secondary to the cyst
 - Acute pancreatitis secondary to the cyst
 - Elevated serum CA 19-9 when no benign cause for elevation is present
 
 **Imaging findings:**
+
 - Mural nodule or solid component within the cyst or pancreatic parenchyma
 - Main pancreatic duct diameter of >5 mm
 - Change in main duct caliber with upstream atrophy
@@ -148,6 +153,7 @@ Surveillance intervals by cyst size (Figure 2):
 - Increase in cyst size ≥3 mm/year
 
 **Cytology:**
+
 - High-grade dysplasia or pancreatic cancer
 
 ---

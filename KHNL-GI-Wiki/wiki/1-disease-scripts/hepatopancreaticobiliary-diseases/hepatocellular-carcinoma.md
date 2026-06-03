@@ -8,6 +8,7 @@ sources: ["[[aasld-2023-hcc]]", "[[aasld-2025-hcc-critical-update]]", "[[aasld-a
 ---
 
 ## Contents
+
 - [[#Assessment]]
   - [[#Establishing the Diagnosis]]
   - [[#HCC Surveillance]]
@@ -66,6 +67,7 @@ HCC is the most common primary liver cancer (75–86% of all primary liver cance
 | Life-limiting comorbidities (life expectancy <1–2 years, not LT-remediable) | — | No surveillance |
 
 **Expanded HBV surveillance criteria** (per [[chronic-hepatitis-b]], [[aasld-idsa-2025-chb-treatment]]):
+
 - HBV/HDV co-infection: all adults
 - HBV/HIV co-infection: men ≥18, women ≥40
 - Post-HBsAg loss in high-risk subgroups: continue surveillance per guidelines
@@ -89,6 +91,7 @@ Surveillance is associated with improved survival (pooled HR 0.67, 95% CI 0.61�
 | **Terminal (D)** | Any tumor burden; end-stage liver function; PS 3–4 | — | Best supportive care (BSC) | ~3 months |
 
 **Second-line systemic therapy:**
+
 - Post-atezo+bev: sorafenib or lenvatinib (preferred); or cabozantinib, regorafenib, ipilimumab+nivolumab
 - Post-durvalumab+tremelimumab: sorafenib or lenvatinib (preferred, as naïve to anti-angiogenic)
 - Post-sorafenib: regorafenib, cabozantinib, or ramucirumab (AFP ≥400 ng/mL); or pembrolizumab / ipilimumab+nivolumab
@@ -116,6 +119,7 @@ Surveillance is associated with improved survival (pooled HR 0.67, 95% CI 0.61�
 ### LI-RADS Diagnostic Framework
 
 **LI-RADS applicability (Figure 7, [[aasld-2023-hcc]]):**
+
 - Apply LI-RADS in: cirrhosis (any etiology, except pure vascular/cardiogenic — biopsy those); chronic HBV with intermediate/high HCC risk (PAGE-B ≥10); history of prior HCC
 - Do NOT apply LI-RADS in: non-cirrhotic patients without HBV; cardiogenic or vascular etiologies of cirrhosis (insufficient LI-RADS validation)
 - LI-RADS not validated in non-cirrhotic HBV with PAGE-B ≤9 — biopsy recommended for those
@@ -133,12 +137,14 @@ Surveillance is associated with improved survival (pooled HR 0.67, 95% CI 0.61�
 | **LR-TIV** (Tumor in vein) | Lower HCC probability than LR-5; biopsy recommended | Multidisciplinary discussion |
 
 **LI-RADS CT/MRI major features for LR-5 designation:**
+
 - **Arterial phase hyperenhancement (APHE)** — required for LR-5 (except threshold growth)
 - **Nonperipheral washout** — additional major feature
 - **Enhancing capsule** — additional major feature
 - **Threshold growth** (≥50% increase in ≤6 months) — additional major feature
 
 *LR-5 criteria by size:*
+
 - **≥20 mm:** APHE + any 1 additional major feature
 - **10–19 mm:** APHE + washout OR APHE + 2 additional major features
 
@@ -187,6 +193,7 @@ All patients with HCC should be discussed and managed in a multidisciplinary car
 ### Surgical Resection
 
 **Patient selection (GS 28–29, [[aasld-2023-hcc]]):**
+
 - **Non-cirrhotic HCC:** Surgical resection is the treatment of choice (**Level 2, Strong Recommendation**). 5-year survival >70%; postoperative mortality <3%.
 - **Cirrhotic HCC (BCLC 0/A):** Resection is treatment of choice for limited tumor burden, well-compensated cirrhosis **without clinically significant portal hypertension (CSPH)**, and adequate future liver remnant (FLR) (**Level 2, Strong Recommendation**).
   - CSPH defined as HVPG ≥10 mmHg; clinical surrogates: varices, splenomegaly, platelets <100 × 10⁹/L, hepatic venous pressure gradient >10 mmHg
@@ -194,6 +201,7 @@ All patients with HCC should be discussed and managed in a multidisciplinary car
   - Assessment of FLR: contrast-enhanced CT or MRI volumetry; if FLR inadequate → portal vein embolization to augment contralateral hepatic lobe
 
 **Extended resection indications (beyond BCLC 0/A):**
+
 - Data support surgical resection in select multinodular HCC beyond Milan at high-volume centers (meta-analysis of 18 studies: HR 0.56, 95% CI 0.35–0.90 vs. TACE in BCLC B)
 - Multifocal HCC and resection with PVTT: controversial; supported by Asian data for selected patients (Vp1/Vp2 segmental thrombus); perform only at high-volume centers with MDT discussion
 
@@ -206,6 +214,7 @@ All patients with HCC should be discussed and managed in a multidisciplinary car
 ### Local Ablative Therapy
 
 **GS 38–40, [[aasld-2023-hcc]]:**
+
 - **Solitary tumors ≤5 cm, ineligible for/declining surgery:** Treat with curative intent using local ablative therapies (**Level 1, Strong Recommendation**).
 - **Early-stage HCC ≤3 cm, ineligible for/declining surgery:** Thermal ablation (RFA or microwave ablation) is treatment of choice (**Level 1, Strong Recommendation**).
   - Ablation yields OS/RFS of 76%/~46% at 3 years for unifocal HCC ≤3 cm.
@@ -224,6 +233,7 @@ All patients with HCC should be discussed and managed in a multidisciplinary car
 ### Locoregional Therapy — TACE and TARE
 
 **TACE (Transarterial Chemoembolization):**
+
 - **GS 41:** Patients with BCLC Stage B HCC should be treated with TACE (**Level 1, Strong Recommendation**). [[aasld-2023-hcc]]
 - ORR: 52.5% (95% CI 43.6–61.5%); median OS 19.4 months (systematic review, 101 studies).
 - Conventional TACE (c-TACE/lipiodol-based) and drug-eluting bead TACE (DEB-TACE) have similar efficacy and safety; no one approach consistently superior.
@@ -232,6 +242,7 @@ All patients with HCC should be discussed and managed in a multidisciplinary car
 - **GS 45:** Switch to systemic therapy in patients with intermediate HCC unsuitable for or refractory to TACE (**Level 3, Strong Recommendation**).
 
 **TACE unsuitability factors:**
+
 | Domain | Factor |
 |---|---|
 | Tumor size | Beyond UNOS-DS criteria |
@@ -241,12 +252,14 @@ All patients with HCC should be discussed and managed in a multidisciplinary car
 | Liver function | ALBI 2–3 especially if tumor exceeds segmental treatment zone; deteriorating liver function over time |
 
 **TACE/TARE-refractory criteria:**
+
 - Lack of objective response: >50% definite viable disease after 2 TACE treatments or 1 TARE treatment
 - Development of new HCC within treatment zone after 2 consecutive TACE
 - No AFP improvement after 2 consecutive TACE or 1 TARE
 - Stage migration: new vascular invasion or extrahepatic metastases
 
 **TARE / Y90 Radioembolization:**
+
 - **GS 42:** TARE is an alternative to TACE in BCLC B HCC (**Level 3, Strong Recommendation**).
 - FDA-approved 2021 (LEGACY study): ORR 88.3% (mRECIST best response); durable response ≥6 months in 76.1%; solitary HCC up to 8 cm in CTP-A cirrhosis.
 - Y90 preferred for solitary lesions ≤8 cm, subcapsular tumors, and tumors near critical structures; also effective as bridging therapy to LT.
@@ -254,12 +267,14 @@ All patients with HCC should be discussed and managed in a multidisciplinary car
 - Personalized dosimetry goal >205 Gy to targeted area: superior response rates (DOSISPHERE-01).
 
 **Y90 unsuitability factors:**
+
 - Lung shunt >25 Gy in single treatment or >30 Gy cumulative
 - Non-target infusion including gastric/duodenal branches not correctable
 - PVTT: large vessel main PVTT/Vp4 or hepatic vein thrombus; inability to deliver boosted dose in PVTT on ⁹⁹ᵐTc scan
 - Liver function: ALBI 2–3 if tumor exceeds segmental zone; deteriorating liver function
 
 **Radiological assessment of response (Figure 14):**
+
 - After TACE: multiphasic CT or MRI ~6 weeks post-treatment
 - After TARE or EBRT: imaging ~12 weeks post-treatment
 - mRECIST is the standard tool for locoregional therapy response; RECIST 1.1 used for systemic therapy
@@ -274,6 +289,7 @@ All patients with HCC should be discussed and managed in a multidisciplinary car
 **Indication:** BCLC Stage C (portal invasion, extrahepatic spread, or PS 1–2) or BCLC B patients with TACE-contraindication, TACE unsuitability, or TACE/TARE refractoriness. Child-Turcotte-Pugh A preferred; selected CTP B patients may be considered. [[aasld-2023-hcc]]
 
 **Contraindications to ICI-based regimens:**
+
 - Active moderate-to-severe autoimmune disease
 - Post-liver transplant (graft loss and death risk — GS 49, Level 4, Strong) → use sorafenib or lenvatinib
 - Recent GI/esophageal bleed within 6 months and high-risk stigmata → prefer durvalumab+tremelimumab or sorafenib/lenvatinib
@@ -293,6 +309,7 @@ All patients with HCC should be discussed and managed in a multidisciplinary car
 | **Durvalumab (monotherapy)** | 1500 mg IV q4w | HIMALAYA (durvalumab arm) | 16.6 vs. 13.8 mo (HR 0.86, non-inferior) | CTP A patients unable to receive combination therapy |
 
 **First-line adverse event profiles:**
+
 - **Atezo+bev:** Hypertension (30%), fatigue (20%), proteinuria (20%), AST increase (20%), pruritus (20%), diarrhea (19%)
 - **Durvalumab+tremelimumab:** Diarrhea (27%), pruritus (23%), rash (22%), decreased appetite (17%), fatigue (17%); serious irAEs: 12.6%
 - **Sorafenib:** PPE (hand-foot skin reaction, 48%), diarrhea (49%), hypertension (24%), decreased appetite (24%), fatigue (19%), AST increase (17%)
@@ -312,6 +329,7 @@ All patients with HCC should be discussed and managed in a multidisciplinary car
 | **Sorafenib or Lenvatinib** | (see above) | — | — | 2nd line after atezo+bev or durvalumab+tremelimumab (preferred if not eligible for clinical trials); 1st-line after post-LT recurrence |
 
 **Treatment sequencing algorithm (Figure 16, [[aasld-2023-hcc]]):**
+
 1. **Contraindication to ICIs?** (autoimmune disease, post-LT) → Sorafenib or lenvatinib (1st line) → nivo+ipi or pembrolizumab (2nd line)
 2. **No ICI contraindication: high GI/esophageal bleed risk?** → Durvalumab+tremelimumab (1st line) → sorafenib or lenvatinib (2nd line; naïve to anti-angiogenic)
 3. **No ICI contraindication, no high bleed risk** → Atezo+bev (1st line; after EGD) → regorafenib/cabozantinib/ramucirumab (2nd line)
@@ -323,11 +341,13 @@ Post-LT patients: NEVER use ICI-based therapy (graft loss/death risk); use soraf
 ### Liver Transplantation for HCC
 
 **Standard eligibility (GS 33, [[aasld-ast-2025-liver-transplant-candidate-evaluation]]):**
+
 - LT is the treatment of choice for transplant-eligible patients with early-stage HCC with CSPH and/or decompensated cirrhosis (**Strong, Level 2**)
 - **Milan criteria** (single lesion ≤5 cm OR ≤3 lesions each ≤3 cm; no macrovascular invasion; no extrahepatic spread) — standard for listing (**Strong, Level 2**)
 - Post-LT survival: median 10 years; ~10% recurrence incidence vs. 50–60% with resection/ablation
 
 **AFP eligibility thresholds (per [[aasld-ast-2025-liver-transplant-candidate-evaluation]]):**
+
 - AFP must be **<1000 ng/mL** at time of transplantation
 - If AFP was ever ≥1000 ng/mL, must fall to **<500 ng/mL** (using locoregional HCC therapy) before proceeding
 
@@ -343,6 +363,7 @@ Post-LT patients: NEVER use ICI-based therapy (graft loss/death risk); use soraf
 
 **UNOS Downstaging Criteria (UNOS-DS, Table 4, [[aasld-2023-hcc]]):**
 *Inclusion criteria (must meet one):*
+
 - Single lesion 5.1–8 cm
 - 2–3 lesions each ≤5 cm with sum of maximal tumor diameters ≤8 cm
 - 4–5 lesions each ≤3 cm with sum of maximal tumor diameters ≤8 cm
@@ -351,6 +372,7 @@ Post-LT patients: NEVER use ICI-based therapy (graft loss/death risk); use soraf
 *Successful downstaging criteria:* Residual tumor size within Milan criteria (1 lesion ≤5 cm, 2–3 lesions ≤3 cm); only viable tumor counted (necrosis excluded); AFP >1000 must fall to <500 ng/mL.
 
 *Downstaging failure/exclusion from LT:*
+
 1. Progression beyond inclusion criteria
 2. Tumor invasion of a major hepatic vessel
 3. Lymph node involvement or extrahepatic spread
@@ -360,11 +382,13 @@ Post-LT patients: NEVER use ICI-based therapy (graft loss/death risk); use soraf
 *Timing:* Minimum 3-month disease stability observation period after successful downstaging; per UNOS policy, remain within Milan criteria for 6 months before MELD exception.
 
 **Pre-transplant workup (Strong, Level 2, [[aasld-ast-2025-liver-transplant-candidate-evaluation]]):**
+
 - Multiphasic contrast-enhanced abdominal CT or MRI — reviewed at transplant center
 - Staging CT chest to exclude thoracic metastases
 - Re-review of community imaging at UNOS transplant center
 
 **Waitlist management:**
+
 - Serial abdominal staging every 3 months while awaiting LT; CT chest every 6–12 months
 - 6-month observation period before MELD exception (exception: T1/T2 HCC recurrence within 6–60 months post-curative therapy → no 6-month wait required, NLRB review)
 - Bridging LRT (TACE, RFA, SBRT, TARE): maintain within LT criteria and assess tumor biology; no one modality recommended over another; systemic therapy bridging does not preclude eligibility but is not routinely recommended
@@ -373,6 +397,7 @@ Post-LT patients: NEVER use ICI-based therapy (graft loss/death risk); use soraf
 **Living donor LT (LDLT):** Increasing use in US; LDLT + HCC provides improved survival vs. deceased donor LT on intention-to-treat basis (reduced waitlist dropout); suitable for patients beyond standard criteria on case-by-case basis.
 
 **T1 HCC management (Figure 13, [[aasld-2023-hcc]]):**
+
 - T1 HCC (single LI-RADS 5 lesion <2 cm): LT candidate status → if yes: wait-and-not-ablate (monitor with multiphase CT/MRI abdomen + AFP every 2–3 months until T2 criteria); if AFP >100–500 ng/mL or not LT candidate → immediate ablation
 - Ablation-first for T1 HCC in patients with decompensated cirrhosis requiring LT but not yet criteria for MELD exception, to slow tumor progression; immediate LRT if AFP significantly elevated
 
@@ -420,6 +445,7 @@ Per [[aasld-ast-2025-liver-transplant-graft-complications]] (Rec 32, Weak, Level
 **mTOR inhibitor-based immunosuppression** may be considered in adult LT recipients transplanted for HCC within Milan criteria to improve recurrence-free survival up to 3 years post-LT.
 
 Key evidence:
+
 - Meta-analysis of 17 observational studies + 6 RCTs: mTOR inhibitor-based IS reduces HCC recurrence overall (RR 0.67, 95% CI 0.56–0.82) and improves 3-year RFS in within-Milan cases (RR 1.13, 95% CI 1.03–1.23)
 - **Sirolimus (SRL):** 2 mg/day after month 1; trough 4–10 ng/mL; stronger RFS and OS signal than EVL at 1, 3, and 5 years. FDA black box warning for hepatic artery thrombosis (HAT); no increased HAT risk in meta-analysis (3 studies, n=849).
 - **Everolimus (EVL):** 1 mg BID after month 1; trough 3–8 ng/mL; pooled 1-year and 3-year RFS comparable to CNI-based therapy; less compelling data than SRL; no increased HAT risk.
@@ -442,6 +468,7 @@ Advance care planning (ACP) should be offered to all patients receiving palliati
 ---
 
 ## Cross-References
+
 - [[liver-transplantation]] — candidate evaluation, IS trough targets, non-graft complications, mTOR role
 - [[portal-hypertension]] — CSPH assessment, HVPG ≥10 mmHg as surgical contraindication
 - [[chronic-hepatitis-b]] — expanded HCC surveillance criteria, PAGE-B score, post-HBsAg loss surveillance

@@ -14,6 +14,7 @@ sources: [acg-2015-psc, acg-2017-liver-chemistries, aasld-2022-psc]
 PSC is a chronic, cholestatic liver disease likely of autoimmune origin characterized by **inflammation and fibrosis of intrahepatic and/or extrahepatic bile ducts**, frequently associated with IBD ([[aasld-2022-psc]], Table 1). Diagnosis is based on: cholestatic LFT abnormalities + characteristic cholangiogram (MRCP preferred) + exclusion of secondary causes of sclerosing cholangitis.
 
 **Epidemiology:**
+
 - Prevalence 6–16/100,000; incidence 1–1.5/100,000 person-years (northern Europe/North America)
 - Peak incidence age 25–45, median age at diagnosis 36–39 years
 - Men ~2/3 of patients overall; male predominance much less pronounced without IBD
@@ -22,6 +23,7 @@ PSC is a chronic, cholestatic liver disease likely of autoimmune origin characte
 - Median time to death or LT: ~9 years (referral centers) to ≥21 years (population-based studies)
 
 **Biochemistry:**
+
 - ALP elevation in ~75%; GGT elevated (use GGT in children — ALP unreliable due to bone growth)
 - Elevated aminotransferases are common and do not suggest AIH overlap unless predominant or >5× ULN ([[aasld-2022-psc]])
 - Autoantibodies (ANCA, ANA/SMA) present but nonspecific and minimal diagnostic implications
@@ -29,6 +31,7 @@ PSC is a chronic, cholestatic liver disease likely of autoimmune origin characte
 - IgG4: elevated in up to 15% of PSC patients; high-titer IgG4 >5.6 g/L strongly suggests IgG4-SC; IgG4/IgG1 ratio <0.24 can exclude IgG4-SC when serum IgG4 is 1.4–2.8 g/L ([[aasld-2022-psc]] GS 4)
 
 **Diagnostic Algorithm (Figure 2, [[aasld-2022-psc]]):**
+
 1. Suspected PSC → 3D MRI/MRCP (T1w + T2w axial + contrast enhancement; 1.5-Tesla minimum; 1-mm slices)
 2. Biliary strictures on MRCP + exclusion of secondary causes → **PSC confirmed**
 3. Equivocal MRCP → experienced center; repeat high-quality 3D MRCP or liver biopsy; repeat in 1 year if still unclear
@@ -102,6 +105,7 @@ PSC is a chronic, cholestatic liver disease likely of autoimmune origin characte
 | **ELF test** | Serum fibrosis biomarker; useful as surrogate in clinical trials | Not widely available commercially; less variability on serial measurements than ALP |
 
 **Stricture Terminology** ([[aasld-2022-psc]]):
+
 - **Dominant stricture:** CBD ≤1.5 mm or hepatic duct ≤1 mm on ERCP; present in up to 50% at diagnosis, ~40% develop during disease
 - **High-grade stricture:** >75% lumen reduction in CBD or hepatic ducts on MRI/MRCP
 - **Relevant stricture:** Any stricture of CBD or hepatic ducts with obstructive cholestasis and/or bacterial cholangitis signs/symptoms
@@ -115,30 +119,36 @@ PSC is a chronic, cholestatic liver disease likely of autoimmune origin characte
 **No approved pharmacotherapy for PSC** ([[aasld-2022-psc]] GS 11). All patients should be considered for clinical trials (GS 11).
 
 **Ursodeoxycholic acid (UDCA):**
+
 - **High-dose UDCA ≥28 mg/kg/d — strongly contraindicated** (ACG Strong/High [[acg-2015-psc]]): RCT terminated early for futility; high-dose UDCA associated with increased serious adverse events (liver transplant, varices, death) and increased colorectal neoplasia in PSC-UC ([[aasld-2022-psc]])
 - **UDCA 13–23 mg/kg/d:** Can be considered for patients not eligible for or not interested in clinical trials with persistently elevated ALP/GGT (GS 12); observe 6 months before initiating to confirm persistent elevation; continue only if meaningful ALP/GGT reduction or normalization (or symptom improvement) within 12 months of treatment; no data to support lower vs. intermediate dose over the other
 - UDCA withdrawal has been associated with increases in fatigue, pruritus, liver biochemistries, and Mayo PSC Risk Score
 
 **Antibiotics:**
+
 - Bacterial cholangitis → antibiotics immediately (GS 15) + MRCP to assess for relevant stricture
 - ERCP if inadequate response to antibiotics (GS 16)
 - Oral vancomycin: insufficient evidence to recommend (GS 13); no benefit vs. observation in largest retrospective study (264 pediatric patients, PPSC Consortium); ongoing RCT (NCT03710122)
 - Rotating antibiotics for recurrent episodes in some patients
 
 **Overlap syndromes:**
+
 - PSC-AIH overlap → treat per AASLD AIH guidelines (prednisone + AZA or budesonide + AZA) (GS 14)
 - IgG4-SC → corticosteroids (steroid-responsive; unlike classical PSC)
 
 **Portal hypertension/cirrhosis management:**
+
 - Same approach as other chronic liver diseases with the exceptions below
 - Baveno-VI criteria for varix screening: LS ≤20 kPa AND platelets >150,000/mm³ → may avoid EGD (0% false-negative for varices needing treatment; 30% of EGDs could be avoided) (GS 17)
 - Non-cirrhotic portal hypertension and infected transjugular intrahepatic portosystemic shunt (TIPS) may rarely occur in PSC with chronically infected bile ducts
 
 **Vaccination and lifestyle:**
+
 - Hepatitis A and B vaccination if not immune
 - Alcohol abstinence counseling for cirrhotic patients
 
 **Drugs in development (as of 2022):**
+
 - Cilofexor (FXR agonist): Phase 2 — 21% ALP reduction
 - nor-UDCA: Phase 2 — 26% ALP reduction at 12 weeks
 - Obeticholic acid (OCA): FXR agonist; ALP reduction 14–25% in Phase 2; not approved for PSC
@@ -148,6 +158,7 @@ PSC is a chronic, cholestatic liver disease likely of autoimmune origin characte
 ### Pruritus Management (Figure 6, [[aasld-2022-psc]])
 
 **Stepwise approach (GS 26):**
+
 1. Rule out relevant biliary stricture with MRI/MRCP → ERCP management if detected
 2. Conservative: heat avoidance, emollients, antihistamines
 3. First-line: **cholestyramine 4–16 g/day** (20 min before meals for optimal absorption)
@@ -160,6 +171,7 @@ Note: UDCA has not been shown effective for pruritus in PSC. OCA decreases circu
 ### Endoscopic Management ([[ercp]])
 
 **Indications for ERCP (GS 23):** Relevant strictures with:
+
 - New-onset or worsening pruritus
 - Unexplained weight loss
 - Worsening serum liver test abnormalities
@@ -170,6 +182,7 @@ Note: UDCA has not been shown effective for pruritus in PSC. OCA decreases circu
 MRI/MRCP should generally precede ERCP to clarify need and guide technical approach (GS 23).
 
 **Procedural approach:**
+
 - Antimicrobial prophylaxis required periprocedurally for all PSC patients undergoing ERCP (GS 24); duration generally 1–3 days
 - Intraductal tissue sampling (brushings + biopsy for cytology and FISH) routinely in all relevant strictures (GS 19)
 - Balloon dilation ± stenting at endoscopist/multidisciplinary discretion; balloon diameter must not exceed diameter of bile ducts immediately flanking the stricture (GS 25)
@@ -195,6 +208,7 @@ Serial polysomy in dominant/relevant stricture + serial polysomy = probable CCA.
 ### Cancer Surveillance
 
 **CCA surveillance (GS 18):**
+
 - Annual MRI/MRCP ± serum CA 19-9 for all PSC patients ≥18 years with large-duct PSC
 - Surveillance NOT recommended: patients <18 years or with small-duct PSC
 - Regular surveillance associated with higher 5-year survival (68% vs. 20% without surveillance, p <0.0001)
@@ -204,14 +218,17 @@ Serial polysomy in dominant/relevant stricture + serial polysomy = probable CCA.
 **CCA risk factors:** Older age, male sex, dominant stricture, PSC-IBD comorbidity, elevated bilirubin; FISH polysomy in dominant stricture context → 73% eventually diagnosed with CCA
 
 **Gallbladder cancer surveillance (GS 20):**
+
 - Gallbladder polyps ≤8 mm → US every 6 months
 - Gallbladder polyps >8 mm → cholecystectomy (preferably at experienced center in advanced disease); 18–56% adenocarcinoma rate in cholecystectomy specimens with PSC + polyp/mass
 
 **HCC surveillance (GS 21):**
+
 - PSC + cirrhosis → HCC surveillance per AASLD guidelines (same as other causes of cirrhosis)
 - HCC is rare in PSC without cirrhosis (2.4% over ~10 years in one large study)
 
 **CRC surveillance in PSC-IBD (GS 22):**
+
 - High-definition colonoscopy with biopsies starting at **age 15 years** in PSC-IBD patients
 - Repeat at **1- to 2-year intervals** (prior recommendation was annual)
 - Chromoendoscopy: recommended when only standard-definition colonoscopy (640×480 pixels) available; add when standard-definition colonoscopy only available
@@ -222,22 +239,26 @@ Serial polysomy in dominant/relevant stricture + serial polysomy = probable CCA.
 ### Surgical / Liver Transplantation
 
 **LT indications (GS 30):**
+
 - Complications of end-stage liver disease / cirrhosis / portal hypertension
 - Recurrent bacterial cholangitis refractory to antibiotics
 - Intractable pruritus
 - Early-stage hepatobiliary cancers (CCA by protocol criteria; see below)
 
 **MELD exception criteria for PSC:**
+
 - **Recurrent bacterial cholangitis:** ≥2 hospital admissions in a 1-year period for acute cholangitis with documented bloodstream infection OR ≥1 episode of sepsis with hemodynamic instability requiring vasopressors
 - **CCA (perihilar) by protocol:** Qualifying criteria = (1) malignant-appearing stricture + CA 19-9 >100 U/ml without cholangitis or unstented jaundice, OR (2) malignant-appearing stricture + suspicious cytology and/or FISH polysomy, OR (3) perihilar mass with imaging features of CCA; must be ≤3 cm radial diameter, unresectable or arising in PSC, no intrahepatic/extrahepatic metastasis; MELD ≥20 for exception points; pretransplant percutaneous biopsy/EUS-FNA of primary mass is contraindication to LT
 - Living donor LT is an option; does not increase rPSC risk
 
 **LT outcomes:**
+
 - Patient/graft survival comparable to other liver diseases; 5-year OS ~80–85%
 - Substantial improvement in quality of life after LT; fatigue persists in a significant proportion of female patients
 - Post-LT: active IBD management (CRC risk remains elevated, may be further increased by immunosuppression); anti-TNF and anti-integrins appear safe in PSC after LT
 
 **Biliary reconstruction:**
+
 - **Roux-en-Y choledochojejunostomy** = preferred method (reduces rPSC incidence); duct-to-duct anastomosis may be considered if bile duct is normal at LT and HGD absent — associated with lower post-LT cholangitis and no difference in overall outcomes
 
 **Post-LT elevated LFTs (GS 31):**
@@ -254,6 +275,7 @@ Histological and cholangiographic assessment required to distinguish rPSC from a
 ### Nutrition and Bone Disease
 
 **Nutritional assessment (GS 28):**
+
 - Vitamins A, D, E, K at diagnosis and yearly; supplement per Table 4 dosing:
   - Vitamin A: Repletion 5,000–100,000 IU/day × 2 weeks; maintenance 1,500–5,000 IU/day (adults); monitor to avoid hypervitaminosis
   - Vitamin D₃: Repletion dose depends on 25(OH)D level; if <12 ng/ml → 50,000 IU weekly × 8 weeks; maintenance 800 IU/day; may need hydroxylated metabolites
@@ -261,6 +283,7 @@ Histological and cholangiographic assessment required to distinguish rPSC from a
   - Vitamin K: 2.5–10 mg/day oral weekly to daily (adults); monitor INR or plasma phylloquinone
 
 **Bone disease (GS 29):**
+
 - DEXA at diagnosis; every 2–3 years in those with normal bone mineral density
 - Osteopenia (T-score −2.5 to −1): vitamin D 2,000 IU/day + calcium 1–1.5 g/day
 - Osteoporosis (T-score ≤−2.5) without esophageal varices: add oral bisphosphonate
@@ -268,14 +291,17 @@ Histological and cholangiographic assessment required to distinguish rPSC from a
 - Bone mineral density T-score <−2.5 present in 4–10% of PSC patients
 
 **IBD management (GS 27):**
+
 - Manage IBD in PSC same as without PSC; active IBD management and CRC surveillance must continue post-LT
 
 **Pregnancy:**
+
 - PSC does not significantly alter maternal/fetal outcomes (overall similar to general population); preterm birth and cesarean section rates increased with elevated bile acids/ALT
 - UDCA safe in pregnancy and lactation; may be continued
 - Imaging: US preferred; MRCP without gadolinium safe if US inconclusive; ERCP reserved for patients who will need intervention (preferably second or third trimester)
 
 ### Pediatric Considerations
+
 - Often presents with PSC-AIH overlap (autoimmune sclerosing cholangitis)
 - Use GGT (not ALP) for cholestasis assessment (growth-related ALP elevation)
 - SCOPE model for risk stratification in children

@@ -14,6 +14,7 @@ Dyspepsia refers to one or more of: postprandial fullness, early satiation, epig
 **Uninvestigated dyspepsia:** Symptoms present without prior EGD. The test-and-treat strategy for H. pylori (see [[test-and-treat]]) applies in patients **<60** without alarm features (ACG/CAG 2017 raised the age threshold from <55 to <60 in older ACG guidance).
 
 **Functional dyspepsia subtypes (Rome V):**
+
 - Postprandial Distress Syndrome (PDS): meal-induced postprandial fullness/early satiation
 - Epigastric Pain Syndrome (EPS): epigastric pain or burning unrelated to meals
 
@@ -97,6 +98,7 @@ H. pylori negative or symptomatic post-eradication
 - **Statement 14:** Motility studies in selected FD where gastroparesis strongly suspected
 
 **Rome V FD subtypes:**
+
 - Postprandial Distress Syndrome (PDS): meal-induced postprandial fullness/early satiation
 - Epigastric Pain Syndrome (EPS): epigastric pain/burning unrelated to meals
 - Subtype-guided therapy is **not recommended** (ACG/CAG 2017 — no evidence PDS vs. EPS predicts response)

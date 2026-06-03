@@ -10,9 +10,11 @@ sources: [acg-2021-anorectal-disorders, acg-2020-ibs]
 *Stub — to be expanded.*
 
 ## Overview
+
 High-resolution anorectal manometry (HR-ARM) measures resting and squeeze anal pressures, rectoanal inhibitory reflex (RAIR), simulated defecation patterns, and rectal sensation. Combined with **balloon expulsion test (BET)** as the diagnostic standard for [[defecation-disorders]] (per [[acg-2021-anorectal-disorders]]).
 
 ## Key Indications
+
 - Suspected dyssynergic defecation (refractory constipation, [[chronic-idiopathic-constipation]], [[irritable-bowel-syndrome]]-C with refractory symptoms)
 - [[fecal-incontinence]] (assess sphincter function, rectal sensation)
 - Pre-operative evaluation prior to colorectal/anal surgery
@@ -20,6 +22,7 @@ High-resolution anorectal manometry (HR-ARM) measures resting and squeeze anal p
 - Megarectum/rectal hyposensitivity
 
 ## Standard Findings
+
 | Pattern | Finding |
 |---|---|
 | Type I dyssynergia | ↑ intrarectal pressure + paradoxical anal contraction |
@@ -30,6 +33,7 @@ High-resolution anorectal manometry (HR-ARM) measures resting and squeeze anal p
 BET >1 minute (some labs 2 min) abnormal.
 
 ## Cross-references
+
 - [[defecation-disorders]] — diagnostic criteria require ≥2 abnormal tests (ARM, BET, or defecography)
 - [[fecal-incontinence]] — sphincter pressure and rectal compliance assessment
 - [[chronic-idiopathic-constipation]] — exclude defecation disorder before escalating Rx

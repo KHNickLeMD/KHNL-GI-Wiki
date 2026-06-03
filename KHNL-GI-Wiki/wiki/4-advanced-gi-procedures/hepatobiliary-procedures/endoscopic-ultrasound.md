@@ -16,6 +16,7 @@ EUS quality standards from ACG/ASGE 2025 Quality Indicator document. [[acg-2025-
 ## Indications (>90% of EUS procedures should have a documented appropriate indication)
 
 **Diagnostic:**
+
 - Staging upper GI malignancies (esophageal, gastric, rectal cancers)
 - Characterization of subepithelial lesions (SELs)
 - Evaluation of pancreaticobiliary disorders (pancreatic masses, cysts, biliary dilation, choledocholithiasis)
@@ -23,6 +24,7 @@ EUS quality standards from ACG/ASGE 2025 Quality Indicator document. [[acg-2025-
 - Pancreatic cancer screening in high-risk individuals (new indication vs prior)
 
 **Therapeutic:**
+
 - EUS-guided pancreatic fluid collection drainage (pseudocyst, walled-off necrosis)
 - EUS-guided gallbladder drainage (EUS-GBD)
 - EUS-guided biliary drainage (EUS-BD)
@@ -39,6 +41,7 @@ Note: Therapeutic EUS now accounts for >50% of accepted EUS indications. Indicat
 ## Key Quality Standards
 
 ### Preprocedure
+
 - **Informed consent** must include EUS-specific risks (pancreatitis, infection, bile leak, perforation, bleeding based on procedure type)
 - **Prophylactic antibiotics:**
   - **NOT routinely needed** for EUS-FNA of pancreatic cysts (RCT: no difference in infection with vs without antibiotics)
@@ -72,6 +75,7 @@ Note: Therapeutic EUS now accounts for >50% of accepted EUS indications. Indicat
 ### Adverse Event Rate Benchmarks
 
 **Diagnostic EUS (including FNA/FNB):**
+
 - Perforation: <0.5%
 - Infection: <1%
 - Acute pancreatitis: <1%
@@ -79,6 +83,7 @@ Note: Therapeutic EUS now accounts for >50% of accepted EUS indications. Indicat
 - Clinically significant bleeding after liver biopsy: <5%
 
 **Interventional EUS:**
+
 - Pancreatic fluid collection drainage: overall AEs <10%
 - EUS-GBD: overall AEs <20%
 - EUS-BD: overall AEs <25%
@@ -93,6 +98,7 @@ Note: Therapeutic EUS now accounts for >50% of accepted EUS indications. Indicat
 From [[acg-2018-pancreatic-cysts]]:
 
 **Role of EUS in cyst diagnosis:**
+
 - EUS is NOT first-line for small, clearly benign cysts (classic SCA with microcystic/honeycomb appearance, asymptomatic pseudocyst in appropriate clinical context)
 - EUS is preferred when: (1) diagnosis is unclear, (2) high-risk features are present, (3) FNA/fluid analysis is needed to alter management
 - EUS alone (without FNA): sensitivity 86–96%, specificity 30–99% for malignant vs. benign cysts
@@ -112,16 +118,19 @@ From [[acg-2018-pancreatic-cysts]]:
 Cyst fluid CEA cannot distinguish high-grade dysplasia or cancer from low-grade — do not use alone for surgical decision-making.
 
 **Antibiotic prophylaxis for EUS-FNA of pancreatic cysts:**
+
 - **NOT routinely recommended** — RCT showed no difference in infection rate with vs. without antibiotics [[acg-2025-eus-quality]]
 - **Consider antibiotics when:** immunosuppressed, multiple comorbidities, incomplete cyst aspiration anticipated, ascites present
 - Mediastinal cysts: do NOT routinely sample (risk of mediastinitis even with antibiotics)
 
 **EUS as surveillance modality:**
+
 - EUS is an acceptable primary surveillance tool for patients who cannot or prefer not to have MRI/MRCP
 - For cysts 2–3 cm: MRI or EUS q6–12 months initially
 - For cysts >3 cm: MRI alternating with EUS q6 months initially (multidisciplinary group involvement recommended)
 
 **EUS indications in cyst high-risk features:**
+
 - Mural nodule or solid component detected on cross-sectional imaging → EUS±FNA + multidisciplinary referral (Rec 11, Strong/VLow)
 - MPD >5 mm, obstructing lesion, cyst ≥3 cm → EUS±FNA + multidisciplinary referral
 - New-onset DM or cyst growth >3 mm/year during surveillance → short-interval EUS±FNA (Conditional/VLow)
@@ -131,6 +140,7 @@ See [[pancreatic-cysts]] for full diagnostic algorithm and surveillance interval
 ---
 
 ## See Also
+
 - [[acg-2025-eus-quality]] — source quality indicator document
 - [[acg-2018-pancreatic-cysts]] — EUS-FNA role in pancreatic cyst evaluation
 - [[pancreatic-cysts]] — full disease script including cyst type differentiation and surveillance algorithm

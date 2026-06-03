@@ -8,6 +8,7 @@ sources: []
 ---
 
 ## Bibliographic Info
+
 - **Authors:** Lichtenstein GR, Loftus EV, Afzali A, Long MD, Barnes EL, Isaacs KL, Ha CY (ACG)
 - **Year:** 2025
 - **Journal:** Am J Gastroenterol 2025;120:1225–1264
@@ -15,6 +16,7 @@ sources: []
 - **Type:** Clinical guideline (ACG) — comprehensive update (40pp; 35 GRADE recommendations + 59 key concepts)
 
 ## Summary
+
 Comprehensive update of the ACG Crohn's disease guideline. Major additions vs prior version: risankizumab, mirikizumab, guselkumab (all anti-IL-23/p19) now FDA-approved and recommended; upadacitinib (JAK-1 inhibitor) recommended for anti-TNF-experienced patients; subcutaneous infliximab and vedolizumab added; PROFILE trial data supporting top-down/early advanced therapy; SEQUENCE trial showing risankizumab superior to ustekinumab in anti-TNF-experienced patients.
 
 ## Key Findings / Claims
@@ -22,6 +24,7 @@ Comprehensive update of the ACG Crohn's disease guideline. Major additions vs pr
 ### All GRADE Recommendations (Table 1)
 
 **Diagnosis**
+
 1. Fecal calprotectin (cutoff >50–100 mg/g) to differentiate inflammatory from noninflammatory colonic disease — Strong, Moderate
 
 **Endoscopy**
@@ -95,6 +98,7 @@ Comprehensive update of the ACG Crohn's disease guideline. Major additions vs pr
 | Upadacitinib | 45 mg PO daily × 12 wk | 15–30 mg PO daily (30 mg preferred) |
 
 ### Key Evidence Points
+
 - **PROFILE trial:** Top-down IFX + immunomodulator: 79% vs 15% steroid-free/surgery-free remission at 48wk vs accelerated step-up → supports early advanced therapy
 - **SONIC trial:** IFX + AZA combo > IFX monotherapy > AZA monotherapy for corticosteroid-free clinical remission
 - **SEAVUE trial:** Ustekinumab vs adalimumab monotherapy in bio-naive CD — equivalent efficacy at wk52
@@ -103,6 +107,7 @@ Comprehensive update of the ACG Crohn's disease guideline. Major additions vs pr
 - **LIBERTY trial:** SC infliximab maintenance — 62% vs 32% clinical remission at wk54 vs placebo
 
 ### Therapeutic Drug Monitoring (Anti-TNF)
+
 - Trough targets: IFX >5 μg/mL; ADA >7.5 μg/mL; CZP >20 μg/mL
 - 3 scenarios for anti-TNF failure:
   1. Mechanistic failure (therapeutic levels + antibodies absent + active disease) → switch class
@@ -111,6 +116,7 @@ Comprehensive update of the ACG Crohn's disease guideline. Major additions vs pr
 - **HLA-DQA1*05** variant: 75% higher risk of immunogenicity; proactive TDM can mitigate
 
 ### Perianal Fistulizing CD
+
 - Classify: simple (distal to dentate line, single tract) vs complex (transsphincteric, multitract)
 - **Always drain abscess first; seton before biologic**
 - Sequence: exam under anesthesia → seton → biologic (IFX preferred; ADA conditional)
@@ -118,6 +124,7 @@ Comprehensive update of the ACG Crohn's disease guideline. Major additions vs pr
 - Other options (conditional, very low evidence): vedolizumab, ustekinumab, upadacitinib
 
 ### Postoperative CD
+
 - Ileoscopy 6–12 months post-resection (Rutgeerts score)
 - Low risk: metronidazole 1–2 g/day × 3 months → observation
 - High risk (prior resection, penetrating disease, smoking, short disease duration): anti-TNF prophylaxis
@@ -125,6 +132,7 @@ Comprehensive update of the ACG Crohn's disease guideline. Major additions vs pr
 - Risk factors for recurrence: smoking, >1 resection, penetrating phenotype, short disease duration
 
 ### Disease Activity Definitions
+
 - **Clinical remission:** CDAI <150; asymptomatic
 - **Endoscopic remission:** absence of ulceration; SES-CD 0–2
 - **Histologic remission:** absence of neutrophils on biopsy
@@ -132,6 +140,7 @@ Comprehensive update of the ACG Crohn's disease guideline. Major additions vs pr
 - **Steroid-dependent:** unable to taper without symptom recrudescence
 
 ### CRC Surveillance in Crohn's Colitis
+
 - Same strategy as UC
 - Start at 8 years if >30% colonic involvement
 - PSC: start at diagnosis regardless of extent
@@ -185,10 +194,12 @@ Comprehensive update of the ACG Crohn's disease guideline. Major additions vs pr
 | For intra-abdominal abscess >2 cm: use antibiotics + drainage; hold immunosuppression until drained | Conditional | Low |
 
 ## Relevance to Wiki
+
 - Primary source for [[crohns-disease]] disease script
 - Informs future meds pages: infliximab, adalimumab, ustekinumab, risankizumab, vedolizumab, upadacitinib, budesonide
 
 ## Contradictions / Open Questions
+
 - FDA requirement for prior anti-TNF before upadacitinib in CD is regulatory, not biologic — evidence for upadacitinib as first-line biologic may exist but not permitted
 - Combo therapy (IFX + thiopurine) benefits reduced if thiopurine toxicity risk high (hepatosplenic T-cell lymphoma in young males)
 - Vedolizumab slower onset than anti-TNF in CD — appropriate positioning vs anti-TNF still debated

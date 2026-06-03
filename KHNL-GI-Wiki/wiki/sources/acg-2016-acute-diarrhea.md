@@ -8,6 +8,7 @@ sources: []
 ---
 
 ## Bibliographic Info
+
 - **Authors:** Mark S. Riddle, MD, DrPH; Herbert L. DuPont, MD; Bradley A. Connor, MD
 - **Year:** 2016
 - **Journal/Publisher:** *The American Journal of Gastroenterology* 2016; 111:602–622. doi:10.1038/ajg.2016.126
@@ -100,12 +101,14 @@ The prevention section addresses traveler-focused strategies: bismuth subsalicyl
 ## Key Findings / Claims
 
 ### Epidemiology
+
 - CDC estimates 47.8 million acute diarrheal illness cases annually in the United States; ~$150 million cost to the health-care economy.
 - ~44 million US residents travel annually to non-Canadian, non-European destinations; TD attack rate 10–40%, resulting in 4–17 million cases per year.
 - 31 major pathogens cause ~9.4 million episodes of diarrheal illness in the US annually, 55,961 hospitalizations, and 1,351 deaths.
 - Postinfectious functional GI disorders (IBS, dyspepsia, Guillain-Barré) and reactive arthritis are recognized chronic sequelae of acute enteric infection.
 
 ### Definitions
+
 - **Acute diarrhea:** passage of ≥3 unformed stools in 24 hours above baseline, lasting <14 days; alternatively, any increase in stool frequency/looseness lasting <14 days.
 - **Persistent diarrhea:** 14–30 days.
 - **Chronic diarrhea:** >30 days.
@@ -113,6 +116,7 @@ The prevention section addresses traveler-focused strategies: bismuth subsalicyl
 - **Dysenteric diarrhea:** passage of grossly bloody stools.
 
 ### Diagnostic Algorithm (Figure 1 — Empiric Therapy Framework)
+
 - **Watery diarrhea, mild illness:** Hydration only; may use loperamide 4 mg initially to control stooling.
 - **Watery diarrhea, moderate-to-severe illness, travel-associated:** Antibiotic therapy (see Table 4).
 - **Watery diarrhea, moderate-to-severe, non-travel-associated, no/low-grade fever (≤100°F):** Consider ≤48 h loperamide; if <72 h duration observe; if ≥72 h consider microbiologic assessment.
@@ -123,22 +127,26 @@ The prevention section addresses traveler-focused strategies: bismuth subsalicyl
 - **Persistent diarrhea (14–30 days):** Work up by culture and/or culture-independent microbiologic assessment, then treatment directed to cause.
 
 ### Culture-Independent Diagnostics
+
 - Five FDA-approved multiplex molecular panels available as of the guideline date (Table 2): Luminex xTAG GPP (15 targets, bacteria/virus/parasite), BioFire FilmArray GI Panel (22 targets, bacteria/virus/parasite, 1–2 h), Hologic/Gen-Probe ProGastro SSCS (4 bacterial targets), BD Diagnostics EBP (4 bacterial targets), Nanosphere Verigene EP (6 bacterial targets, 2 h).
 - Molecular testing surpasses conventional methods for diagnostic yield and speed; limitation is inability to forward isolates for public health subtyping.
 - Specimens collected for culture-independent testing may be incompatible with culture.
 
 ### Oral Rehydration
+
 - WHO oral rehydration solution (ORS): 60–75 mEq/L sodium, 75–90 mmol/L glucose. Available at pharmacies.
 - Most healthy adults with TD do not require ORS and can maintain with salty soups, fruit juices, sports drinks, crackers.
 - Balanced ORS is recommended for the elderly with severe diarrhea and for any traveler with cholera-like watery diarrhea.
 
 ### Non-antibiotic Treatments
+
 - **Bismuth subsalicylate (BSS):** Reduces stool passage rate; antisecretory properties via salicylate moiety + bismuth's antibacterial and antiviral activity. Recommended dose for acute diarrhea: 30 mL (525 mg liquid) or two 262.5 mg tablets chewed well every 30–60 min, not to exceed 8 doses in 24 h. Will cause black stools and tongue (harmless bismuth sulfide salt).
 - **Loperamide:** First-line antimotility agent. Initial dose 4 mg, then 2 mg after each loose stool, not to exceed 8 mg/day. Not used for >48 h in self-treatment. Not given in proven bacterial inflammatory colitis (risk of toxic megacolon, though very rare in properly treated patients). Most valuable as combination therapy with antibiotics for TD.
 - **Adsorbents (kaolin, pectin, charcoal, attapulgite):** Do have an effect on stool form but do not shorten diarrhea duration — not recommended.
 - **Racecadotril:** Enkephalinase inhibitor; antisecretory without gut motility effect; used in pediatric diarrhea; not FDA-approved in the US.
 
 ### Antibiotic Therapy for TD (Table 4)
+
 | Antibiotic | Dose | Duration |
 |---|---|---|
 | Levofloxacin | 500 mg by mouth | Single dose^a or 3-day course |
@@ -159,6 +167,7 @@ The prevention section addresses traveler-focused strategies: bismuth subsalicyl
 - STEC: Do NOT treat with antibiotics (risk of HUS).
 
 ### Parasite-Specific Therapy
+
 - *Giardia intestinalis*: metronidazole, tinidazole, or nitazoxanide.
 - *Entamoeba histolytica*: metronidazole or tinidazole.
 - *Cryptosporidium*: nitazoxanide.
@@ -167,6 +176,7 @@ The prevention section addresses traveler-focused strategies: bismuth subsalicyl
 - *Dientamoeba fragilis*: iodoquinol.
 
 ### Persistent Diarrhea (14–30 days)
+
 - History should address: travel, initial symptom onset/nature, duration, blood/mucus in stool, antibiotic use, associated symptoms (fever, weight loss).
 - Initial evaluation: stool culture + newer diagnostic methods; microscopy for parasites.
 - Colonoscopy diagnostic yield 7–32% in persistent/chronic diarrhea; IBD and microscopic colitis most common diagnoses.
@@ -174,6 +184,7 @@ The prevention section addresses traveler-focused strategies: bismuth subsalicyl
 - **Postinfectious IBS:** Recognized sequela of infectious gastroenteritis; diagnosed using Rome III criteria (now Rome IV/V); no commercially available serologic test.
 
 ### Prevention
+
 - **Food/water safety counseling:** Pretravel counseling on avoiding high-risk food/beverages conditionally recommended; evidence for efficacy is mixed (Conditional/very low).
 - **Hand hygiene:** Limited value against most TD pathogens (high-inoculum pathogens like diarrheagenic *E. coli*); useful for norovirus, *Shigella* (low-inoculum pathogens) in cruise ship/institutional/endemic settings.
 - **BSS chemoprophylaxis:** ≥60% protection at 2.1 g/day dose (two tablets four times daily at meals + bedtime); recommended for up to 2 weeks; not for longer trips; contraindicated in aspirin-sensitive individuals, those with IBD or HIV (risk of bismuth encephalopathy from excessive absorption).
@@ -204,6 +215,7 @@ The prevention section addresses traveler-focused strategies: bismuth subsalicyl
 | Probiotics, prebiotics, and synbiotics for TD prevention are NOT recommended | Conditional | Low |
 
 ## Relevance to Wiki
+
 - Creates new diagnostic schema: [[acute-diarrhea]] — primary entity page for this syndrome
 - Updates [[fever-returning-traveler]] — antibiotic therapy for TD, specific empiric azithromycin guidance, STEC avoidance, *Giardia*/*Entamoeba* workup
 - Updates [[irritable-bowel-syndrome]] — postinfectious IBS explicitly recognized as a sequela of TD/acute gastroenteritis
@@ -213,6 +225,7 @@ The prevention section addresses traveler-focused strategies: bismuth subsalicyl
 ---
 
 ## Contradictions / Open Questions
+
 - This is a 2016 guideline; culture-independent diagnostic panels have since expanded significantly. The BioFire FilmArray GI Panel (22 targets) is now widely available and has become standard of care in many centers — expanding the principle of Recommendation 3.
 - Rifaximin for TD prophylaxis is discussed but not FDA-approved for prophylaxis; this may have evolved.
 - Postinfectious IBS is referenced using Rome III criteria; the wiki uses Rome IV/V (see [[disorders-of-gut-brain-interaction]]).

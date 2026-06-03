@@ -16,6 +16,7 @@ sources: [acg-2021-anorectal-disorders]
 **Prevalence:** 2.2–25% community; ~9% age-adjusted in US. **Significantly underreported** — physicians must actively ask, particularly in patients with predisposing conditions.
 
 **Key history elements:**
+
 - Type (urge vs. passive vs. staining)
 - Frequency and amount (small/medium/large)
 - Presence of urgency
@@ -24,6 +25,7 @@ sources: [acg-2021-anorectal-disorders]
 - Neurologic conditions, prior pelvic/anorectal surgery, radiation
 
 **Pathophysiology:**
+
 - **Urge FI:** Unable to hold stool after sensation; reduced squeeze pressure (external sphincter weakness)
 - **Passive FI:** Unaware of incontinence episode; reduced resting tone (internal sphincter weakness); low rectal sensation
 
@@ -53,11 +55,13 @@ The Cleveland Clinic (Wexner) Fecal Incontinence Score or Fecal Incontinence Sev
 ## Diagnostics
 
 ### Initial Assessment (All Patients)
+
 - **Bristol Stool Form Scale + bowel diary** — characterize stool consistency and frequency; soft/liquid stools worsen FI
 - **Digital rectal examination (DRE):** assess resting and squeeze tone, palpate for masses, check for fecal impaction, assess pelvic floor motion during simulated defecation
 - **Laboratory:** CBC, thyroid function if diarrhea-prominent or systemic features
 
 ### Anorectal Physiology (for patients not responding to conservative measures)
+
 - **Anorectal manometry (ARM):** resting and squeeze pressures; rectal sensation; rectal compliance; key parameters for biofeedback targeting
 - **Rectal balloon expulsion test (BET):** assess evacuation dynamics; relevant if constipation co-exists
 - **Endoanal ultrasound (EAUS):** best modality for visualizing sphincter defects (internal sphincter clearly delineated); identifies disruption amenable to sphincteroplasty
@@ -71,12 +75,14 @@ The Cleveland Clinic (Wexner) Fecal Incontinence Score or Fecal Incontinence Sev
 ### Step 1: Conservative Management
 
 **Strong/Low recommendation (antidiarrheal drugs):**
+
 - **Loperamide** 2–4 mg up to QID: reduces stool frequency and urgency; first-line pharmacotherapy; most evidence
 - **Diphenoxylate/atropine:** alternative antidiarrheal
 - **Bile salt binding agents** (cholestyramine): if bile acid malabsorption (post-cholecystectomy, ileal disease)
 - **Anticholinergic agents:** for urgency component (clonidine, others)
 
 **Dietary counseling:**
+
 - Identify and reduce dietary triggers (foods with incompletely digested sugars, caffeine)
 - Low-FODMAP diet: 65% of patients reported improvement in uncontrolled audit; prospective RCTs needed
 - High-fiber diet if constipation-associated FI
@@ -84,6 +90,7 @@ The Cleveland Clinic (Wexner) Fecal Incontinence Score or Fecal Incontinence Sev
 ### Step 2: Biofeedback (Pelvic Floor Rehabilitation)
 
 **Strong/Moderate recommendation (ACG 2021):**
+
 - Recommended for patients not controlled by education + conservative measures
 - **3 components:** (i) patient education on diarrhea/constipation causes; (ii) antidiarrheal medication; (iii) pelvic floor exercises (Kegel-type) with visual or auditory feedback
 - With proper teaching and follow-up: up to 20% of patients may not need further treatment
@@ -95,10 +102,12 @@ The Cleveland Clinic (Wexner) Fecal Incontinence Score or Fecal Incontinence Sev
 **Anal plugs, vaginal balloons** (Conditional/Very Low): mechanical barrier devices; difficult to tolerate but acceptable in selected patients; adjunct role
 
 **Injectable bulking agents** (Conditional/Low):
+
 - Dextranomer in stabilized hyaluronic acid (NASHA Dx): ≥50% reduction in FI episodes in 52% vs 31% (placebo) in RCT; FDA-approved
 - Perianal injection under anoscopic guidance
 
 **Sacral nerve stimulation (SNS) — Strong/Low:**
+
 - For **moderate to severe FI failing conservative measures, biofeedback, and low-risk interventions**
 - Mechanism: peripheral stimulation of S3/S4 sacral foramina → modulates colorectal/pelvic floor neural circuits
 - Temporary (2–3 weeks) → ≥50% improvement → permanent implant
@@ -107,18 +116,21 @@ The Cleveland Clinic (Wexner) Fecal Incontinence Score or Fecal Incontinence Sev
 - Contraindications: anatomic factors preventing electrode placement, complete spinal cord injury, active perianal infection
 
 **Anal sphincteroplasty (Conditional/Low):**
+
 - For patients with documented acute external sphincter injury (e.g., post-obstetric tear)
 - Short-term improvement in 85%; deteriorates to ~50% at 40–60 months
 - Best performed shortly after recognized injury; delayed repair less durable
 - Generally recognized shortly after vaginal delivery in women with sphincter disruption and persisting symptoms
 
 **End stoma (Conditional):**
+
 - Last resort for severe FI not responding to other treatments
 - Significant QoL improvement reported in selected patients who accept stoma
 - Median QoL score (scale 0–10) = 8 for ability to live with stoma
 - 83% felt stoma restricted their life little or not at all
 
 **Not recommended:**
+
 - Dynamic graciloplasty: morbidity and mortality unacceptable; not used
 - SECCA (radiofrequency): limited long-term data; not routinely recommended
 

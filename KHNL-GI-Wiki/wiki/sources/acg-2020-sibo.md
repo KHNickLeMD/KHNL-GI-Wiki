@@ -10,10 +10,11 @@ sources: []
 # ACG 2020: Small Intestinal Bacterial Overgrowth
 
 ## Bibliographic Info
+
 - **Authors:** Mark Pimentel, MD, FRCP(C), FACG; Richard J. Saad, MD, FACG; Millie D. Long, MD, MPH, FACG (GRADE Methodologist); Satish S. C. Rao, MD, PhD, FRCP, FACG
 - **Year:** 2020 (received February 13, 2019; accepted November 12, 2019; published online January 8, 2020)
 - **Journal/Publisher:** The American Journal of Gastroenterology 2020;115:165–178
-- **DOI:** https://doi.org/10.14309/ajg.0000000000000501
+- **DOI:** <https://doi.org/10.14309/ajg.0000000000000501>
 - **Type:** Guideline (GRADE-based with key concepts by expert consensus)
 
 ---
@@ -73,17 +74,20 @@ Treatment is centered on antibiotics — rifaximin being the best studied non-ab
 ## Key Findings / Claims
 
 ### Definition and Pathophysiology
+
 - SIBO defined as excessive bacteria in small bowel causing GI symptoms; ≥10³ CFU/mL in duodenal/jejunal aspirate diagnostic (North American Consensus)
 - Historically ≥10⁵ CFU/mL was used, but this was too stringent; healthy controls have <10³ CFU/mL
 - Most common bacteria: Gram-negative aerobes and anaerobes (coliforms); ferment carbohydrates producing gas
 - Mechanisms maintaining small bowel ecology (Table 3): gastric acid, pancreatic enzymes, bile acids, small bowel motility (MMC phase III), ileocecal valve, immune system
 
 ### Symptoms
+
 - Most common: bloating (most prominent), abdominal pain, flatulence, distension, diarrhea — present in >2/3 of patients
 - Severe cases: fat-soluble vitamin deficiency (B12, D, iron); Folate may be *elevated* (produced by bacteria)
 - Symptoms overlap significantly with IBS, functional dyspepsia, bloating
 
 ### Breath Testing
+
 - Principle: bacteria ferment carbohydrates → H₂/CH₄ → absorbed → exhaled
 - Substrates: glucose (75 g) or lactulose (10 g) with 1 cup water (~250 mL)
 - Preparation: NPO 8–12h before test; avoid antibiotics 4 weeks prior; avoid promotility agents and laxatives 1 week prior; avoid fermentable foods day before
@@ -95,17 +99,20 @@ Treatment is centered on antibiotics — rifaximin being the best studied non-ab
 - H₂ and CH₄ are incomplete — future studies examining H₂S (3 gas measurement) may improve accuracy
 
 ### Small Bowel Aspirate and Culture
+
 - Gold standard (historical), invasive, expensive
 - ≥10³ CFU/mL now considered diagnostic (North American Consensus; replaces older ≥10⁵ cutoff)
 - Diagnostic agreement between aspirate culture and breath testing ~65% — single test may not be definitive
 
 ### IMO (Intestinal Methanogen Overgrowth)
+
 - Methane produced by archaea (*Methanobrevibacter smithii*), not bacteria → term "SIBO" is technically incorrect
 - IMO associated with constipation (OR 3.51, CI 2.00–6.16); methane levels proportional to constipation severity
 - Methane slows intestinal transit by augmenting contractility and delaying ileal peristaltic conduction velocity
 - Methane positive breath test defined as ≥10 ppm at any time point
 
 ### Conditions Associated with SIBO (Table 4)
+
 - Mechanical: small bowel tumor, volvulus, intussusception, postsurgical causes
 - Systemic: diabetes, scleroderma, amyloidosis
 - Motility: IBS, pseudo-obstruction, visceral myopathies, mitochondrial diseases
@@ -119,7 +126,9 @@ Treatment is centered on antibiotics — rifaximin being the best studied non-ab
 - Crohn's disease: 16.8% of those in endoscopic remission had SIBO; SIBO associated with ongoing GI complaints
 
 ### Treatment
+
 **Antibiotics (Table 5 — Suggested antibiotics):**
+
 | Antibiotic | Dose | Efficacy |
 |---|---|---|
 | Rifaximin (nonabsorbable) | 550 mg t.i.d. | 61–78% |
@@ -138,20 +147,24 @@ Treatment is centered on antibiotics — rifaximin being the best studied non-ab
 - No universally accepted retreatment protocol; retreatment after recurrence based on expert opinion
 
 **Diet:**
+
 - Low FODMAP diet reduces hydrogen production and may benefit SIBO symptoms by extension from IBS data
 - Low fermentable fiber approach; avoid alcohol sugars and fermentable sweeteners (sucralose); avoid prebiotics (inulin)
 - Meta-analysis: low FODMAP diet — "very low quality evidence" for supporting efficacy; "no good evidence" for gluten-free diet in IBS
 
 **Probiotics:**
+
 - No consistent data supporting probiotics in SIBO treatment
 - Meta-analysis: probiotics appeared to reduce hydrogen (OR 1.61, CI 1.19–2.17), but studies small and poor quality
 - Probiotics may cause SIBO and D-lactic acidosis — one controlled study showed withdrawal of probiotics + antibiotic course led to symptom resolution
 
 **FMT:**
+
 - No basis for FMT in SIBO treatment currently
 - FDA safety alerts re: multi-drug resistant organism transmission; case report: FMT for C. difficile → recipient acquired constipation phenotype and methane-positive breath test from donor
 
 ### Guidance for Trial Design (Table 6)
+
 **H₂-positive SIBO enrollment criteria:** H₂ ≥20 ppm within 90 minutes of lactulose or glucose AND bloating (moderate to severe) at least 50% of days; OR sterile duodenal aspirate >10³ CFU/mL with bloating (moderate to severe) ≥50% of days
 **H₂-positive primary outcome:** reduction of bloating severity/frequency by 50% plus normal H₂ breath test (<20 ppm at or before 90 minutes) OR duodenal aspirate <10³ CFU/mL
 **CH₄-positive enrollment:** CH₄ ≥10 ppm at any point first 90 minutes AND constipation (<3 CSBM/week)
@@ -178,6 +191,7 @@ Treatment is centered on antibiotics — rifaximin being the best studied non-ab
 | Focus on treating the underlying cause of SIBO as the primary mode of prevention | Summary Statement | — |
 
 ## Relevance to Wiki
+
 - Creates: [[small-intestinal-bacterial-overgrowth]] (new disease script, small-bowel subfolder)
 - Cross-links: [[irritable-bowel-syndrome]], [[celiac-disease]], [[chronic-pancreatitis]], [[disorders-of-gut-brain-interaction]]
 - Creates stub: [[rifaximin]] (med), [[intestinal-methanogen-overgrowth]] (concept), [[small-bowel-motility]] (concept)
@@ -187,6 +201,7 @@ Treatment is centered on antibiotics — rifaximin being the best studied non-ab
 ---
 
 ## Contradictions / Open Questions
+
 - The 10³ CFU/mL diagnostic threshold is based on consensus, not prospective validation in symptomatic populations. A prior ≥10⁵ CFU/mL standard conflated "bacteriological" infection with clinical SIBO.
 - Breath testing sensitivity and specificity remain poor: 20–93% sensitivity, 30–100% specificity for glucose. Lactulose carries high false-positive rates from accelerated colonic fermentation.
 - The PPI-SIBO relationship is contested: meta-analysis suggests 3-fold risk increase, but a large sequencing study found no effect on small bowel microbiome.

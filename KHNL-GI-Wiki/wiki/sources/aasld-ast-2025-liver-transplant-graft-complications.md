@@ -8,6 +8,7 @@ sources: []
 ---
 
 ## Bibliographic Info
+
 - **Authors:** Helen S. Te, Vatche G. Agopian, Anthony J. Demetris, Paul Y. Kwo, Brendan M. McGuire, Mark W. Russo, Nazia Selzner, W. Kenneth Washburn, Gerald Scott Winder, Thomas D. Schiano
 - **Year:** 2025
 - **Journal/Publisher:** *Liver Transplantation* 2026;32:444–490. DOI: 10.1097/LVT.0000000000000715
@@ -29,6 +30,7 @@ The recurrent disease section covers updated recommendations for recurrent alcoh
 ## Key Findings / Claims
 
 **Surgical Considerations**
+
 - LDLT has comparable long-term graft/patient survival to DDLT but higher biliary and vascular complication rates; meta-analysis (n=38,563) shows biliary complication OR 2.23 (p<0.001) and vascular complication OR 2.0 (p=0.001) with LDLT vs. DDLT
 - DCD LTs using machine perfusion or NRP have comparable 1-year graft/patient survival to DBD LTs at experienced programs
 - Static cold storage DCD grafts carry higher risk of EAD and ischemic cholangiopathy vs. DBD; mitigated by machine perfusion/NRP
@@ -36,10 +38,12 @@ The recurrent disease section covers updated recommendations for recurrent alcoh
 - NRP reduces EAD in DCD allografts and may reduce non-anastomotic biliary strictures
 
 **Early Allograft Dysfunction**
+
 - L-GrAFT and EASE scores are superior to the Olthoff binary EAD definition and MEAF score for predicting 3-month graft failure-free survival; validated in multicenter datasets
 - Pharmacologic interventions (N-acetylcysteine, prostaglandins) cannot be routinely recommended to prevent EAD
 
 **Technical Complications**
+
 - HAT: 2–10% incidence; early (<5 days) requires surgical thrombectomy ± endovascular + anticoagulation; late HAT managed endovascularly ± anticoagulation; urgent re-LT when progressive liver failure
 - PV thrombosis: 1–2.6% incidence; early thrombectomy with surgical revision and anticoagulation; late cases: anticoagulation, percutaneous thrombolysis, stent, TIPS
 - Biliary strictures: up to 15% DDLT, 40% LDLT; anastomotic strictures — ERCP + balloon dilation + stenting is first-line; non-anastomotic — endoscopic or percutaneous drainage; re-LT for irreversible ischemic cholangiopathy
@@ -47,6 +51,7 @@ The recurrent disease section covers updated recommendations for recurrent alcoh
 - Multiple plastic stents and covered SEMS have equivalent stricture resolution rates; covered SEMS associated with fewer procedures and lower cost
 
 **Immunosuppression**
+
 - Basiliximab induction (IL-2-RA) associated with improved GFR and 12% reduction in BPAR vs. no induction; delays CNI start in renal dysfunction
 - Anti-thymocyte globulin is not recommended as induction — higher mortality and graft failure vs. corticosteroids
 - Steroid-free IS cannot be routinely recommended: higher BPAR, steroid-resistant rejection, decreased GFR vs. steroid-based IS
@@ -58,12 +63,14 @@ The recurrent disease section covers updated recommendations for recurrent alcoh
 - Complete IS withdrawal not routinely recommended; operational tolerance achievable in 7%/year but no reliable predictors
 
 **Graft Rejection**
+
 - Mild TCMR: augment IS ± switch cyclosporine to tacrolimus; 60–90% respond to high-dose IV corticosteroids for moderate/severe acute TCMR
 - Late TCMR associated with lower graft survival and ductopenic rejection when poorly responsive
 - PCR (plasma cell-rich rejection): treat with corticosteroids + augmented IS + antimetabolite ± low-dose maintenance prednisone (5–10 mg/day)
 - AMR: diagnosed by C4d deposition, donor-specific antibodies, histologic features, and graft dysfunction; management includes plasmapheresis, IVIG, rituximab, bortezomib
 
 **Recurrent Disease**
+
 - Recurrent ALD: sustained alcohol use screening required; addiction consultation and behavioral therapy recommended; pharmacotherapy with naltrexone or acamprosate; re-LT considered selectively for alcohol relapse with graft failure
 - Recurrent MASLD: lifestyle modification, weight management, and control of metabolic risk factors; MASLD is now the leading indication for re-LT in some series
 - Recurrent AIH: maintain azathioprine + low-dose corticosteroids; MMF as second-line; re-LT for graft failure

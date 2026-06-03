@@ -14,6 +14,7 @@ sources: [acg-2021-anorectal-disorders]
 **Proctalgia syndromes** are characterized by recurrent episodes of anorectal pain in the absence of other identifiable causes. Two distinct subtypes:
 
 **1. Chronic proctalgia syndrome (levator ani syndrome):**
+
 - Recurring episodes of dull or pressure-like anorectal pain lasting ≥20 minutes (often hours or days)
 - Exclusion of other anorectal causes by history and diagnostic testing
 - **Levator ani syndrome** = chronic proctalgia + levator tenderness on palpation of levator ani muscles (usually one side)
@@ -21,6 +22,7 @@ sources: [acg-2021-anorectal-disorders]
 - Diagnosis is clinical; the duration (not frequency) is the key diagnostic criterion
 
 **2. Proctalgia fugax:**
+
 - Intense rectal or anal pain lasting only seconds to <20 minutes
 - Pathophysiology unknown; thought to involve excessive tension of puborectalis/levator ani
 - Absence of levator tenderness is the primary clinical feature distinguishing PF from levator syndrome
@@ -59,19 +61,23 @@ Note: concurrent anal fissures, prolapsed hemorrhoids, or other anorectal pathol
 ### Levator Ani Syndrome
 
 **Biofeedback — Strong recommendation, Very Low evidence (ACG 2021):**
+
 - Cornerstone of treatment; single best-studied RCT showed biofeedback superior to electrogalvanic stimulation (EGS) and conservative management in levator syndrome with levator tenderness and abnormal ARM
 - No independent replication in 10 years; guideline maintains Strong recommendation given absence of effective alternatives and no significant risks
 - 4–6 sessions; same protocol as for [[defecation-disorders]]
 
 **Electrogalvanic stimulation (EGS) — Conditional/Very Low:**
+
 - If biofeedback not available; superior to conservative management but inferior to biofeedback
 - Direct electrical stimulation of anal canal/levator ani; available at some centers
 
 **Not recommended:**
+
 - Botulinum toxin injection: insufficient evidence; no RCT data in levator syndrome
 - Digital rectal massage: no evidence
 
 **Idiopathic chronic proctalgia (no levator tenderness):**
+
 - No proven treatments; explanation and reassurance primary approach
 - Consider biofeedback if pelvic floor dysfunction identified on ARM
 

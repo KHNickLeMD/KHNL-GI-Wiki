@@ -14,12 +14,14 @@ sources: [acg-2020-ibs, rome-v-2026-dgbi, acg-2020-sibo]
 IBS is a [[disorders-of-gut-brain-interaction]] defined by recurrent abdominal pain associated with altered bowel habits without structural or biochemical explanation. ACG 2020 endorses a **positive diagnostic strategy** using Rome criteria + a focused, limited testing panel rather than a diagnosis of exclusion ([[acg-2020-ibs]] Recs 5–6; Strong/High for cost-effectiveness).
 
 **Rome IV criteria** (used in ACG 2020): Recurrent abdominal pain on average ≥1 day/week in the last 3 months, associated with ≥2 of:
+
 1. Related to defecation
 2. Change in stool frequency
 3. Change in stool form
 Symptom onset ≥6 months prior to diagnosis.
 
 **Rome V (2026) modifications** ([[rome-v-2026-dgbi]]):
+
 - Pain frequency lowered to ≥3 days/month
 - "Discomfort" re-added
 - Non-continuous pain allowed
@@ -33,6 +35,7 @@ Symptom onset ≥6 months prior to diagnosis.
 ### Classification / Typing
 
 Subtypes by Bristol Stool Form Scale **on days with abnormal stools** (assess off therapy, 2-week diary):
+
 | Subtype | BSFS 1–2 | BSFS 6–7 |
 |---|---|---|
 | IBS-C | >25% | <25% |
@@ -60,15 +63,18 @@ Subtypes by Bristol Stool Form Scale **on days with abnormal stools** (assess of
 ## Diagnostics
 
 **Recommended (Strong) in suspected IBS:**
+
 - Celiac serology (TTG-IgA + total IgA) in IBS-D
 - Fecal calprotectin or lactoferrin + CRP in IBS-D
 
 **Recommended against (routine):**
+
 - Stool ova/parasites/pathogens — only if travel, exposure, or Giardia risk factors (Conditional/Low)
 - Colonoscopy if age <45 without alarm features (Conditional/Low)
 - IgE food allergy panels unless reproducible food-specific symptoms (Consensus)
 
 **Selective use:**
+
 - [[anorectal-manometry]] + BET ± defecography in IBS-C/M with pelvic floor signs or refractory constipation
 - Bile acid diarrhea testing (SeHCAT — limited US availability; serum C4 or fecal bile acids)
 - Breath testing (lactose, fructose, [[small-intestinal-bacterial-overgrowth|SIBO]]) — ACG 2020 SIBO guideline suggests glucose or lactulose H₂ breath test in IBS patients (Conditional/Very Low); up to 78% of IBS subjects may have SIBO by meta-analysis; rifaximin IBS-D efficacy may be partly mediated by SIBO/microbiome dysbiosis
@@ -80,6 +86,7 @@ Subtypes by Bristol Stool Form Scale **on days with abnormal stools** (assess of
 ## Therapeutics
 
 ### Cross-subtype (any IBS)
+
 | Therapy | Recommendation (ACG 2020) |
 |---|---|
 | **Soluble fiber (psyllium)** | Strong/Moderate |
@@ -93,18 +100,21 @@ Subtypes by Bristol Stool Form Scale **on days with abnormal stools** (assess of
 | **FMT** | Strong AGAINST (Strong/VLow) |
 
 ### IBS-C
+
 - **Lubiprostone** 8 µg BID — chloride channel activator (Strong/Moderate)
 - **Linaclotide** 290 µg daily, **plecanatide** 3 or 6 mg daily — GC-C agonists (Strong/High)
 - **Tegaserod** 6 mg BID — 5-HT4 agonist; women <65 with ≤1 CV risk factor failing secretagogues (Strong/conditional/Low)
 - **Against** PEG for global IBS-C (helps stool form only)
 
 ### IBS-D
+
 - **Rifaximin** 550 mg TID × 14 days (Strong/Moderate); up to 2 retreatments allowed for symptom recurrence
 - **Alosetron** — women with severe IBS-D failing standard therapy (Conditional/Low); REMS due to ischemic colitis
 - **Eluxadoline** 100 mg BID (Conditional/Moderate); **contraindicated post-cholecystectomy** (pancreatitis risk)
 - **Against** bile-acid sequestrants for global IBS-D symptoms (Conditional/VLow)
 
 ### Stepwise Approach
+
 1. Establish positive diagnosis + reassurance; food/symptom diary
 2. Dietary trial (soluble fiber; low-FODMAP for 4–6 weeks → reintroduction)
 3. Subtype-targeted pharmacotherapy

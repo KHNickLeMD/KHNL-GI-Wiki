@@ -8,6 +8,7 @@ sources: []
 ---
 
 ## Bibliographic Info
+
 - **Authors:** Ghany MG, Pan CQ, Lok AS, Feld JJ, Lim JK, Wang SH, Kim AY, Tang AS, Nguyen MH, Naggie S, Sulkowski MS, Rodriguez-Baez N, Chen J, Murad MH, Mohammad KS, Terrault NA
 - **Year:** 2025
 - **Journal/Publisher:** *Hepatology* (Publish Ahead of Print; DOI:10.1097/HEP.0000000000001549)
@@ -26,6 +27,7 @@ This guideline is intended as a focused update — the 2018 guidance remains app
 ## Key Findings / Claims
 
 **PICO 1 — Prevention of mother-to-child transmission (MTCT):**
+
 - Initiate TDF or TAF at gestational week 28 for HBV DNA >200,000 IU/mL (Strong/Moderate)
 - TAF now co-recommended; TDF has more extensive pregnancy safety data
 - Can stop antivirals at delivery if MTCT prevention was the only indication
@@ -35,11 +37,13 @@ This guideline is intended as a focused update — the 2018 guidance remains app
 - ETV: insufficient pregnancy safety data — avoid; switch to TDF/TAF
 
 **PICO 2 — Horizontal transmission prevention:**
+
 - For viremic HBsAg+ persons not meeting treatment criteria but in high-risk scenarios (unprotected sex, IDU, susceptible household contacts, healthcare workers performing SHEA category III procedures): shared decision-making approach for antivirals (Conditional/Very Low)
 - Goal HBV DNA suppression to <lower limit of quantification
 - HBV is not transmitted by casual contact; no activity restrictions
 
 **PICO 3 — Immune-tolerant phase treatment:**
+
 - Definition: HBeAg+, HBV DNA >10^7 IU/mL, normal ALT (M: <35 U/L; F: <25 U/L)
 - Suggest treatment for age ≥40 years OR ≥F2 fibrosis on biopsy/non-invasive testing (Conditional/Very Low)
 - For age <40 without fibrosis: shared decision-making considering HCC family history, adherence, transmission risk
@@ -49,6 +53,7 @@ This guideline is intended as a focused update — the 2018 guidance remains app
 - No direct evidence NA therapy reduces HCC in immune-tolerant phase; benefits inferred
 
 **PICO 4 — HBeAg-negative indeterminate phase treatment:**
+
 - Definition: HBsAg+, HBeAg−, no cirrhosis, with ALT/HBV DNA outside inactive or immune-active thresholds
 - Two subgroups: (I) normal/mildly elevated ALT + HBV DNA ≥2000 IU/mL; (II) elevated ALT + HBV DNA <2000 IU/mL
 - AASLD now suggests antivirals via shared decision-making, reassessing at every follow-up visit (Conditional/Very Low)
@@ -58,6 +63,7 @@ This guideline is intended as a focused update — the 2018 guidance remains app
 - Elevated ALT + HBV DNA <2000 IU/mL → evaluate for other liver injury etiologies
 
 **PICO 5 — NA discontinuation:**
+
 - Population: HBeAg−, no cirrhosis, HBV DNA undetectable ≥2 years, on NA ≥3 years
 - AASLD suggests NOT withdrawing NA therapy until HBsAg loss (Conditional/Very Low)
 - Rationale: HBsAg loss only 11% at 2 years off therapy; ALT flares 27% at 2 years; re-treatment 42% at 5 years; decompensation and death reported in cohort studies
@@ -66,6 +72,7 @@ This guideline is intended as a focused update — the 2018 guidance remains app
 - Restart triggers (need only ONE): HBV DNA ≥10,000 IU/mL, ALT ≥5× ULN, bilirubin >2.5 mg/dL, or hepatic decompensation
 
 **PICO 6 — HCC surveillance post-HBsAg loss and in co-infections:**
+
 - Post-HBsAg loss: continue surveillance for cirrhosis, family Hx HCC, men >40 at loss, women >50 at loss (Conditional/Very Low)
 - HBV/HDV co-infection: all adults regardless of cirrhosis (HCC incidence 18.65 vs. 4.84 per 1000 person-years vs. mono-infection) (Conditional/Very Low)
 - HBV/HIV: men ≥18 years, women ≥40 years (Conditional/Very Low)
@@ -73,6 +80,7 @@ This guideline is intended as a focused update — the 2018 guidance remains app
 - All surveillance: US + AFP every 6 months per 2023 AASLD HCC Guidance
 
 **Drug selection principles (unchanged from 2018 but reconfirmed):**
+
 - Preferred: ETV, TDF, TAF (all have low resistance, broad applicability)
 - Avoid TDF: renal/bone disease → use TAF instead (but TAF not for CrCl <15 mL/min not yet on dialysis)
 - Avoid ETV: pregnancy; prior lamivudine exposure (resistance risk); HIV unless suppressed on ART

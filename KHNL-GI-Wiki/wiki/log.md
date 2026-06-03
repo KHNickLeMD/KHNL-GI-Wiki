@@ -9,12 +9,14 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 ## [2026-05-31] ingest | AASLD MASLD/MASH cluster (4 sources): NAFLD Guidance, Nomenclature, Resmetirom, Blood-Based NILDA
 
 **Sources created (4):**
+
 - `wiki/sources/aasld-2023-nafld.md` — AASLD 2023 Practice Guidance on Clinical Assessment and Management of NAFLD (Rinella et al. Hepatology 2023;77:1797–1835). All 29 guidance statements verbatim; Table 5 NIT cut-points (steatosis/at-risk NASH/advanced fibrosis/cirrhosis); Table 6 medications; treatment detail (weight-loss dose-response, Mediterranean diet, coffee, bariatric, pioglitazone/vitamin E/semaglutide).
 - `wiki/sources/aasld-2023-masld-nomenclature.md` — Kanwal et al. Hepatology 2024;79:1212–1219. SLD/MASLD/MASL/MASH/MetALD schema; full 5-item CMRF criteria with thresholds; MetALD alcohol ranges; >99% NAFLD↔MASLD overlap; Table 1 key points verbatim.
 - `wiki/sources/aasld-2024-resmetirom.md` — Chen et al. Hepatology 2025;81:312–320. All practice recommendations verbatim (patient selection, pretreatment, monitoring, efficacy/futility); MAESTRO-NASH efficacy; dosing + CYP2C8/statin DDIs; thyroid/SHBG/gallstone considerations; response thresholds (VCTE ≥25%, MRE ≥20%, MRI-PDFF <30% futility).
 - `wiki/sources/aasld-2024-nilda-blood.md` — Sterling et al. Hepatology 2024 (blood-based NILDA; created via parallel subagent). 6 PICOs / 10 GRADE statements verbatim; FIB-4 / NFS / ELF diagnostic cut-points; confounders; against blood steatosis indices and serial monitoring.
 
 **Pages updated:**
+
 - `wiki/1-disease-scripts/hepatopancreaticobiliary-diseases/nafld-masld.md` — major sourcing overhaul: nomenclature section now cites primary Delphi/Guidance sources with full SLD schema + 5 CMRF criteria + MetALD gram ranges; rebuilt NIT section with the two-tier FIB-4→VCTE/MRE/ELF diagnostic pathway (rule-in/rule-out + cirrhosis cut-points + age caveats), blood-NIT confounders, and a separate F2–F3 pharmacotherapy-candidacy table; resmetirom section fully fleshed out (dosing/DDI/pretreatment/monitoring/futility); added AASLD guidance-statement attributions (GS 1–29) across lifestyle/pharmacotherapy/bariatric/statin sections. Sources frontmatter expanded 3 → 7.
 - `wiki/index.md` — nafld-masld entry rewritten (2 → 7 sources); 4 new source entries added; total 90 → 94 sources; updated date 2026-05-31.
 
@@ -27,13 +29,16 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 **Source:** Singal AG, Llovet JM, Yarchoan M, Mehta N, Heimbach JK, Dawson LA, et al. AASLD Practice Guidance on Prevention, Diagnosis, and Treatment of Hepatocellular Carcinoma. Hepatology 2023;78:1922–1965. DOI: 10.1097/HEP.0000000000000466
 
 **Pages created:**
+
 - `wiki/sources/aasld-2023-hcc.md` — complete verbatim capture of all 50 guidance statements with evidence levels and recommendation strengths; surveillance populations (Table 1); recall algorithm (Figure 5); LI-RADS CT/MRI criteria (Figure 6–8); BCLC 2022 staging table (Figure 9); surgical algorithm (Figure 10); recurrence algorithm (Figure 11); LT criteria tables (Tables 3–4); TACE/TARE-unsuitability/refractoriness criteria (Tables 5–6); systemic therapy Phase III trial efficacy data (Tables 7–8)
 
 **Pages updated:**
+
 - `wiki/1-disease-scripts/hepatopancreaticobiliary-diseases/hepatocellular-carcinoma.md` — major comprehensive update: complete HCC surveillance table (Table 1: cirrhosis ≥1%/yr, non-cirrhotic HBV ≥0.2%/yr, PAGE-B ≥10); full recall algorithm per US Vis score and AFP; BCLC 2022 full staging table with treatment options and expected survival per stage; LI-RADS complete category definitions with CT/MRI criteria (LR-1 to LR-TIV) and IHC markers; locoregional therapy ladder (resection→ablation→TACE→systemic) with TACE and TARE unsuitability/refractoriness criteria; systemic therapy dosing for all agents (atezo+bev, durvalumab+tremelimumab, sorafenib 400 mg BID, lenvatinib 12/8 mg QD weight-based, regorafenib, cabozantinib, ramucirumab, pembrolizumab); treatment sequencing algorithm; LT candidacy (Milan, UCSF, Up-to-Seven, Extended Toronto, Kyoto, UNOS-DS exact criteria; AFP thresholds; RETREAT score); GS 49 (no ICI post-LT); ACP guidance; adjuvant section confirmed consistent with [[aasld-2025-hcc-critical-update]] (atezo+bev contraindicated, GS 32 Revised, Strong Level 1)
 - `wiki/index.md` — HCC entry description expanded; aasld-2023-hcc added to Sources; total 89 → 90 sources
 
 **Key gaps filled over prior HCC page:**
+
 - BCLC 2022 staging detail (fills gap noted in task brief)
 - Sorafenib and lenvatinib dosing (fills gap noted in task brief)
 - Complete surveillance criteria table with HCC incidence rates by population
@@ -51,9 +56,11 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 ## [2026-05-28] ingest | AASLD 2020 Alcohol-Associated Liver Disease
 
 **Source ingested:**
+
 - `wiki/sources/aasld-2020-ald.md` — AASLD 2019/2020 Practice Guidance: Diagnosis and Treatment of Alcohol-Associated Liver Diseases (Crabb, Im, Szabo, Mellinger, Lucey. Hepatology 2020;71:306–333). 22 guidance statements. Key content: definite/probable/possible AH consensus classification (with confounding-factor criteria); MDF ≥32 as primary corticosteroid threshold; MELD ≥20 prompts steroid consideration; prednisolone 40 mg × 28 days supported by Mathurin IPD meta-analysis (11 RCTs, n=2,111; HR 0.64, 36% risk reduction at 28 days) and STOPAH post hoc analysis; IV NAC combination "of potential benefit" (30-day improvement per Nguyen-Khac RCT and network meta-analysis of 22 RCTs); pentoxifylline explicitly abandoned (GS-19); AKI with creatinine >2.5 mg/dL = relative contraindication; GIB is NOT an absolute contraindication (prednisolone can be initiated ~5 days post-GIB); Lille score at day 7 guides continuation/cessation; early LT for severe AH non-responders endorsed (GS-22); no fixed abstinence interval for LT listing (GS-21); baclofen/acamprosate preferred AUD pharmacotherapy in ALD; PEth preferred alcohol biomarker (not affected by liver disease); PNPLA3/TM6SF2/MBOAT7 risk genes; HSD17B13 protective variant. This guideline is distinct from ACG 2024 ALD (already ingested): AASLD 2020 provides deeper AH-specific scoring, detailed steroid evidence base, STOPAH data, formal pentoxifylline abandonment, explicit GI bleeding guidance, early LT evidence summary, and comprehensive alcohol biomarker table.
 
 **Pages updated:**
+
 - `wiki/1-disease-scripts/hepatopancreaticobiliary-diseases/alcohol-associated-liver-disease.md` — expanded significantly. Added: AASLD 2020 three-category AH classification (definite/probable/possible) with confounding-factor criteria; natural history progression rates; revised severity section with ABIC/GAHS scores and Lille/MELD combination data; corticosteroid evidence base (STOPAH, Mathurin IPD meta-analysis) with specific GIB and AKI guidance; NAC classified per AASLD 2020 evidence tier; pentoxifylline abandonment section; expanded AUD pharmacotherapy table with 5 agents and ALD-specific hepatotoxicity data; comprehensive alcohol biomarker section (PEth/EtG/EtS/CDT performance table); AKI in AH management subsection; genetic susceptibility subsection (PNPLA3/TM6SF2/MBOAT7/HSD17B13); expanded early LT section with Mathurin + Lee multicenter survival data and SALT score; 6-month rule critique; cross-links to [[aki-in-cirrhosis]] and [[hepatic-encephalopathy]] added. Sources expanded from 2 to 5.
 - `wiki/index.md` — ALD entry updated to 5 sources description; new source entry added; total updated to 89 sources.
 
@@ -62,13 +69,16 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 **Source:** AASLD Practice Guidance on Primary Sclerosing Cholangitis and Cholangiocarcinoma. Bowlus CL, Arrivé L, Bergquist A, et al. Hepatology. 2023;77:659–702. DOI: 10.1002/hep.32771
 
 **Pages created:**
+
 - `wiki/sources/aasld-2022-psc.md` — complete verbatim capture of all 53 guidance statements; full diagnostic, surveillance, management, and CCA sections
 
 **Pages updated:**
+
 - `wiki/1-disease-scripts/hepatopancreaticobiliary-diseases/primary-sclerosing-cholangitis.md` — major comprehensive update; added AASLD 2022 as third source
 - `wiki/index.md` — PSC entry description updated; aasld-2022-psc added to Sources section; total count incremented to 88 sources
 
 **Key contributions (AASLD 2022 vs prior ACG 2015):**
+
 - Diagnostic: 3D MRI/MRCP formalized (T1w+T2w+contrast, 1.5T, 1-mm slices); ERCP explicitly contraindicated for diagnosis (GS 3)
 - New stricture terminology: dominant (ERCP-based ≤1.5 mm CBD / ≤1 mm hepatic duct) vs. high-grade (>75% reduction on MRI) vs. relevant stricture (clinically defined with symptoms)
 - Fibrosis staging: LS by TE or MRE replaces liver biopsy (GS 9–10); TE cutoffs 9.6 kPa = F3, 14.4 kPa = F4
@@ -86,14 +96,17 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 ## [2026-05-28] ingest | AASLD 2018 + 2021 Primary Biliary Cholangitis guidelines
 
 **Sources ingested:**
+
 - `wiki/sources/aasld-2018-pbc.md` — AASLD 2018 Practice Guidance: Primary Biliary Cholangitis (Lindor et al. Hepatology 2019;69:394–419). 21 guidance statements covering diagnosis, UDCA, OCA, fibrates, pruritus management, sicca syndrome, bone disease, hyperlipidemia, portal hypertension, HCC surveillance, liver transplantation, recurrent PBC post-LT, and PBC-AIH overlap (Paris criteria).
 - `wiki/sources/aasld-2021-pbc.md` — AASLD 2021 Practice Guidance Update: PBC (Lindor et al. Hepatology 2022;75:1012–1013). Focused 2-statement revision: OCA contraindicated in advanced cirrhosis (prior/current decompensation or portal hypertension) per May 2021 FDA warning; fibrates discouraged in decompensated liver disease; careful monitoring for all cirrhotics on OCA.
 
 **Pages updated:**
+
 - `wiki/1-disease-scripts/hepatopancreaticobiliary-diseases/primary-biliary-cholangitis.md` — expanded from stub to full ADDT page incorporating both guidelines. Covers: diagnostic criteria (2-of-3), AMA/AMA-negative PBC (sp100/gp210/anti-kelch-like 12), histologic staging (Ludwig I–IV), GLOBE/UK-PBC prognostic scores, 8 biochemical response criteria table (Paris I/II, Rotterdam, Toronto, Barcelona, Rochester), UDCA 13–15 mg/kg/day, OCA 5→10 mg/day (POISE trial data, 2021 contraindication update), fibrates (bezafibrate BEZURSO trial, fenofibrate), pruritus stepwise ladder (resins→rifampicin→naltrexone→sertraline), fatigue (no effective Rx; NOT an LT indication), sicca syndrome management, bone disease (alendronate), hyperlipidemia (statins safe), portal hypertension in PBC (including precirrhotic NRH), HCC surveillance criteria, LT indications (MELD >14), recurrent PBC post-LT (20–50% at 10–20 years), PBC-AIH overlap (Paris criteria), pregnancy management, family screening.
 - `wiki/index.md` — PBC entry updated from stub to full ADDT description; 2 new source entries added; total updated to 87 sources.
 
 **Key clinical points:**
+
 - OCA contraindication was tightened in 2021: now "advanced cirrhosis" (prior/current decompensation or portal hypertension) is broader than the prior Child-Pugh B/C threshold — thrombocytopenia alone qualifies
 - Fatigue in PBC is NOT an LT indication; pruritus IS
 - Bezafibrate (BEZURSO trial) achieves 67% ALP normalization vs. 0% placebo but is unavailable in US; fenofibrate is the available off-label alternative
@@ -102,19 +115,23 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 ## [2026-05-28] lint | Extra high-effort lint pass + HE ingest
 
 **Hygiene fixes (auto-corrected):**
+
 - Deleted 5 `.DS_Store` files: vault root, wiki/, raw/, wiki/1-disease-scripts/, raw/GI Guidelines/
 - `wiki/index.md` footer count corrected: was `85 sources | 77 disease scripts | 25 concepts` → now `85 sources | 76 disease scripts | 26 concepts` (sources correctly reflects 84 files + 1 new = 85 after HE ingest; disease scripts reconciled to 76 actual files; concepts +1 for new HE page)
 - `wiki/index.md` updated: field `updated:` 2026-05-25 → 2026-05-28
 
 **New page created:**
+
 - `7-concepts/hepatic-encephalopathy.md` — created as stub during lint (gap flagged by previous lint, referenced heavily by ACLF and portal-hypertension pages), then immediately upgraded to full concept page via AASLD/EASL 2014 HE guideline ingest
 
 **YAML frontmatter verified:**
+
 - All 4 new disease scripts from today's parallel ingest (`hepatitis-c.md`, `portal-hypertension.md`, `acute-on-chronic-liver-failure.md`, `direct-acting-antivirals.md`): correct category, tags, created/updated dates, sources fields — all verified correct
 - All 4 new source pages: correct category: source, created 2026-05-28 — verified correct
 - `variceal-upper-gi-bleeding.md`: `aasld-2023-portal-hypertension` correctly in sources list — confirmed
 
 **Cross-links added:**
+
 - `aki-in-cirrhosis.md` — added `[[portal-hypertension]]` and `[[acute-on-chronic-liver-failure]]`
 - `alcohol-associated-liver-disease.md` — added `[[portal-hypertension]]` and `[[acute-on-chronic-liver-failure]]`
 - `nafld-masld.md` — added `[[portal-hypertension]]` and `[[acute-on-chronic-liver-failure]]`
@@ -122,16 +139,19 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 - `rifaximin.md` — added `[[hepatic-encephalopathy]]` with sourced content from new AASLD/EASL 2014 guideline
 
 **Confirmed cross-links already present in new pages:**
+
 - `hepatitis-c.md` → `[[portal-hypertension]]`, `[[chronic-hepatitis-b]]`, `[[liver-transplantation]]`, `[[hepatocellular-carcinoma]]` — all confirmed present in cross-references footer
 - `portal-hypertension.md` → `[[variceal-upper-gi-bleeding]]`, `[[ascites]]`, `[[spontaneous-bacterial-peritonitis]]`, `[[aki-in-cirrhosis]]`, `[[hepatic-encephalopathy]]`, `[[hepatopulmonary-syndrome-portopulmonary-hypertension]]` — all confirmed present
 - `acute-on-chronic-liver-failure.md` → `[[aki-in-cirrhosis]]`, `[[hepatic-encephalopathy]]`, `[[spontaneous-bacterial-peritonitis]]`, `[[liver-transplantation]]` — all confirmed present
 
 **Uningested file ingested (1 of max 2):**
+
 - `aasld-easl-2014-hepatic-encephalopathy` — AASLD/EASL 2014 Practice Guideline: Hepatic Encephalopathy in Chronic Liver Disease (Vilstrup et al. Hepatology 2014;60:715–735). 33 recommendations; 4-axis classification system; WHC/GCS grading; ammonia has no diagnostic/staging/prognostic value (Rec 9); lactulose first-line (Rec 19); rifaximin add-on after 2nd episode (Rec 26); protein restriction never indicated (1.2–1.5 g/kg/day, Rec 31); late-night snack (Rec 32); post-TIPS HE: no prophylaxis benefit (Rec 27); recurrent intractable OHE = LT indication (Rec 13). Expands `hepatic-encephalopathy.md` from stub to full concept page.
 
 **Index updates:** 84 → 85 sources (+1 HE guideline); concepts 25 → 26 (+1 hepatic-encephalopathy)
 
 **Issues for user triage (priority order):**
+
 1. `primary-biliary-cholangitis.md` is still a stub — AASLD 2018 PBC guideline (635 KB) and AASLD 2021 PBC update (117 KB) both available in raw/; second high-priority ingest available for next lint pass
 2. `hepatocellular-carcinoma.md` — BCLC staging detail and sorafenib/lenvatinib dosing remain stubs; AASLD 2023 HCC Prevention/Diagnosis/Treatment (raw/AASLD/) is large and available
 3. `alcohol-associated-liver-disease.md` — AASLD 2020 ALD guideline not yet ingested (distinct from ACG 2024 ALD already ingested); available in raw/
@@ -143,18 +163,21 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 ## [2026-05-28] ingest | 4-guideline parallel ingest (AASLD 2022 Wilson Disease, AASLD 2023 Portal Hypertension, AASLD 2024 ACLF, AASLD-IDSA 2023 HCV)
 
 **Sources ingested (4):**
+
 - `aasld-2022-wilson-disease` — AASLD 2022 Practice Guidance on Wilson Disease (Schilsky, Roberts et al. Hepatology 2025;82:E41–E90); 38 guidance statements; Leipzig score table; NWI prognostic scoring; treatment monitoring targets (Table 10); trientine tetrahydrochloride (FDA 2022); decompensated cirrhosis combination protocol; ALF→immediate LT; HCC surveillance; pregnancy guidance
 - `aasld-2023-portal-hypertension` — AASLD 2023 Practice Guidance: Portal Hypertension and Varices (Kaplan et al. Hepatology 2024;79:1180–1211); 58 guidance statements; cACLD/CSPH staging (Rule of Five); carvedilol as preferred NSBB (6.25–12.5 mg/day); preemptive TIPS (CTP B>7 active bleeding or CTP C 10–13, within 72h); no FFP/platelets by INR/platelet targets; secondary prophylaxis NSBB + EVL; gastric/ectopic varices management
 - `aasld-2024-aclf` — AASLD 2024 Practice Guidance: ACLF (Karvellas, Bajaj et al. Hepatology 2024;79:1463–1502); 51 guidance statements; minimum ACLF definition; NACSELD/EASL-CLIF/APASL comparison; terlipressin contraindicated in ACLF-3 (CONFIRM trial respiratory failure signal); protein restriction never indicated; LT candidacy (trajectory-based); futility thresholds (CLIF-C>70/lactate>9); palliative care mandatory
 - `aasld-idsa-2023-hcv` — AASLD-IDSA 2023 HCV Guidance Update (Bhattacharya et al. Clin Infect Dis 2023; doi:10.1093/cid/ciad319); G/P 8 wk now approved for compensated cirrhosis (EXPEDITION-8); simplified algorithm includes HIV coinfected; incomplete adherence algorithm (new); retreatment MAGELLAN-3 (G/P+SOF+RBV 96% SVR); viremic donor organs → DAA within first week; pediatric treatment ≥3 years
 
 **New entity pages created:**
+
 - `portal-hypertension.md` — full ADDT (new page; cACLD, CSPH, NSBB, primary/secondary prophylaxis, AVH management, gastric/ectopic varices, PHG, special situations)
 - `acute-on-chronic-liver-failure.md` — full ADDT (new page; all 51 guidance statements integrated into organ-by-organ ICU management framework)
 - `hepatitis-c.md` — full ADDT (new page; universal screening, simplified algorithm, decompensated regimens, retreatment, post-SVR care, key populations)
 - `direct-acting-antivirals.md` — concept stub (new)
 
 **Entity pages expanded/updated:**
+
 - `wilson-disease.md` — expanded from stub to full ADDT: Leipzig score, NWI, complete diagnostics, all drug dosing, monitoring targets, combination therapy for decompensated cirrhosis, ALF biochemical criteria, Korman criteria, HCC surveillance, pregnancy, neuropsychiatric management
 - `variceal-upper-gi-bleeding.md` — major update: AASLD 2023 GS 25–39 incorporated; no FFP/platelets mandate; preemptive TIPS criteria; NSBB timing at vasoactive discontinuation; no routine PPI; secondary prophylaxis protocol; gastric varices added
 
@@ -165,11 +188,13 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 ## [2026-05-25] lint | Extra high-effort lint pass
 
 **Hygiene fixes:**
+
 - `index.md` — tacrolimus trough targets corrected (was 8–12/5–10/3–7, correct 2025 values: mo1 7–10, mo2–12 4–8, mo12+ 4 ng/mL)
 - `index.md` — malformed gastroparesis wiki-link fixed (`[[wiki/1-disease-scripts/.../gastroparesis]]` → `[[gastroparesis]]`)
 - 4× `.DS_Store` files deleted from vault root and raw/ subdirectories
 
 **Cross-links added:**
+
 - `autoimmune-hepatitis.md` — `[[wilson-disease]]`, `[[primary-biliary-cholangitis]]`
 - `semaglutide.md` — `[[gastroparesis]]` (contraindication)
 - `hepatopulmonary-syndrome-portopulmonary-hypertension.md` — `[[budd-chiari-syndrome]]`
@@ -177,12 +202,14 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 - `hepatocellular-carcinoma.md` — `[[immune-checkpoint-inhibitor-hepatitis]]`, `[[post-transplant-lymphoproliferative-disorder]]`
 
 **Uningested files ingested (2):**
+
 - `aasld-2020-autoimmune-hepatitis` — AASLD 2020 AIH Practice Guideline (Mack et al. Hepatology 2020); `autoimmune-hepatitis.md` fully expanded from stub to ADDT with type 1/2 comparison, treatment withdrawal criteria, overlap syndromes, HCC surveillance
 - `aasld-ast-2025-liver-transplant-non-graft-complications` — AASLD/AST 2025 LT Non-Graft Complications (70 recs); `liver-transplantation.md` Part III added (CMV pre-emptive strategy, maribavir for resistance, hydrophilic statins, GLP-1RA post-LT, cancer SIR table, bone/reproductive health, PTLD surveillance)
 
 **Index updates:** 78 → 80 sources; liver-transplantation now 4 sources; autoimmune-hepatitis stub upgraded
 
 **Issues for user triage (priority order):**
+
 1. `wilson-disease.md` stub — AASLD 2022 Wilson Disease guideline available in raw/
 2. `primary-biliary-cholangitis.md` stub — AASLD 2018 + 2021 PBC guidelines available in raw/
 3. `variceal-upper-gi-bleeding.md` stub — AASLD 2023 Portal Hypertension/Varices guideline available in raw/
@@ -196,17 +223,20 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 ## [2026-05-25] ingest | 4-guideline parallel ingest (AASLD 2025 HCC Critical Update, AASLD 2025 Semaglutide MASH, AASLD/AST 2025 LT Candidate Evaluation, AASLD/AST 2025 LT Graft Complications)
 
 **Sources ingested (4):**
+
 - `aasld-2025-hcc-critical-update` — AASLD 2025 Critical Update: Guidance Statement 32 Revised (Level 1, Strong) — atezo+bev adjuvant therapy explicitly contraindicated after HCC resection/ablation; IMbrave050 second interim analysis non-significant (RFS HR=0.90); active surveillance remains standard of care
 - `aasld-2025-semaglutide-mash` — AASLD 2025 Practice Guidance: Semaglutide for MASH — 20 guidance statements; FDA approval Aug 2025; ESSENCE trial data; NIT candidacy (VCTE/MRE/ELF cutoffs); prior source stub language ("not yet approved") corrected
 - `aasld-ast-2025-liver-transplant-candidate-evaluation` — AASLD/AST 2025 Guideline: LT Candidate Evaluation — 59 recommendations; referral criteria; multidisciplinary workup framework; ALD fixed abstinence interval explicitly NOT a listing exclusion criterion (conflicts with pre-2025 practice); HPS/POPH candidacy thresholds
 - `aasld-ast-2025-liver-transplant-graft-complications` — AASLD/AST 2025 Guideline: LT Graft Complications — 57 recommendations; machine perfusion (NMP/HMP); vascular/biliary complication ladders; TCMR/PCR/AMR management; 2025 TAC trough targets (supersede 2012); protocol biopsy no longer recommended (Rec 34); ATG induction contraindicated (Rec 26); mTOR for HCC within-Milan (Rec 32–33)
 
 **New entity pages created:**
+
 - `5-meds/semaglutide.md` — full medication page (GLP-1RA mechanism, MASH indication, ESSENCE trial, NIT candidacy table, dosing/monitoring, safety table, cardiometabolic benefit, resmetirom comparison)
 - `7-concepts/antibody-mediated-rejection-liver-transplant.md` — Banff 2022 diagnostic criteria, management ladder
 - `7-concepts/hepatopulmonary-syndrome-portopulmonary-hypertension.md` — definitions, screening, candidacy thresholds for LT
 
 **Updated entity pages:**
+
 - `1-disease-scripts/hepatopancreaticobiliary-diseases/hepatocellular-carcinoma.md` — adjuvant therapy post-resection/ablation (atezo+bev contraindicated), recurrence algorithm, LT candidacy (Milan/AFP), post-LT IS (mTOR sirolimus for within-Milan)
 - `1-disease-scripts/hepatopancreaticobiliary-diseases/nafld-masld.md` — semaglutide approval + NIT staging framework; post-LT MASLD section added
 - `1-disease-scripts/hepatopancreaticobiliary-diseases/liver-transplantation.md` — major expansion: pre-transplant candidate evaluation (Part I) + graft complications (2025 trough targets, vascular/biliary tables, rejection management)
@@ -218,6 +248,7 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 - `7-concepts/operational-tolerance.md` — meta-analysis data, pre-withdrawal biopsy, Rec 36 (against routine withdrawal)
 
 **Key conflicts resolved:**
+
 - Protocol liver biopsy now NOT recommended (Rec 34 Strong, Level 4) — supersedes 2012 AASLD q1y/5y approach
 - ATG induction now explicitly contraindicated (Rec 26) — supersedes older use
 - Steroid-free IS cannot be routinely recommended (Rec 28) — TAC trough targets now more granular and lower than 2012 values
@@ -230,21 +261,25 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 ## [2026-05-24] ingest | 4-guideline parallel ingest (ACG 2025 Bowel Prep, ASGE 2020 Endoscopic Removal, USMSTF 2016 FIT Screening, USMSTF 2017 BMMRD)
 
 **Sources ingested (4):**
+
 - `acg-2025-bowel-prep` — ACG 2025: Bowel Preparation Quality for Colonoscopy (Jacobson et al.) — same document as usmstf-2025-bowel-prep; 25 recommendations; adds GLP-1 agonist 1-week hold guidance and simethicone evidence
 - `asge-2020-endoscopic-removal` — ASGE 2020: Endoscopic Removal of Colorectal Lesions (Kaltenbach et al.) — same document as usmstf-2020-endoscopic-removal (GIE journal version); 36 recommendations; adds ERBE settings, cold snare/underwater EMR/eFTR recurrence data, hot avulsion technique, DOPyS/CSPAT competency tools
 - `usmstf-2016-fit-screening` — USMSTF 2016: FIT to Screen for CRC (Robertson et al.) — CRC sensitivity ~79%/specificity ~94%; advanced adenoma sensitivity 20–30%; threshold analysis; multi-round programmatic data; programmatic quality targets
 - `usmstf-2017-bmmrd` — USMSTF 2017: BMMRD Syndrome Surveillance and Management (Durno et al.) — 8 consensus recommendations; new disease script created
 
 **New entity pages created:**
+
 - `1-disease-scripts/colorectal-diseases/bmmrd-syndrome.md` — full ADDT (biallelic MMR, pediatric CRC/brain/hematologic tumors, surveillance table, subtotal colectomy, immunotherapy)
 
 **Updated entity pages:**
+
 - `3-general-gi-procedures/colonoscopy.md` — added acg-2025-bowel-prep source; new GLP-1 receptor agonist subsection in bowel prep
 - `4-advanced-gi-procedures/colorectal-procedures/polypectomy-emr.md` — added asge-2020-endoscopic-removal source; ERBE settings, cold snare/underwater/eFTR data, hot avulsion, difficult location guidance, post-polypectomy bleeding benchmark, DOPyS/CSPAT
 - `1-disease-scripts/colorectal-diseases/colorectal-cancer.md` — added usmstf-2016-fit-screening source; new FIT screening section with performance data, threshold table, programmatic quality targets
 - `1-disease-scripts/colorectal-diseases/lynch-syndrome.md` — expanded BMMRD DDx entry; [[bmmrd-syndrome]] link added
 
 **Notable findings:**
+
 - ACG 2025 Bowel Prep = same multi-society document as usmstf-2025-bowel-prep (published simultaneously in AJG, Gastroenterology, GIE). No conflicts; source page cross-references canonical entry.
 - ASGE 2020 Endoscopic Removal = same document as usmstf-2020-endoscopic-removal (published simultaneously in AJG and GIE). No conflicts; additional procedural detail added to entity page.
 
@@ -255,15 +290,19 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 ## [2026-05-24] ingest | USMSTF 2017 BMMRD Syndrome consensus statement
 
 **Source ingested:**
+
 - `usmstf-2017-bmmrd` — USMSTF 2017: Recommendations on Surveillance and Management of Biallelic Mismatch Repair Deficiency (BMMRD) Syndrome — Durno et al. *Am J Gastroenterol* 2017;112:682–690
 
 **New entity pages created:**
+
 - `1-disease-scripts/colorectal-diseases/bmmrd-syndrome.md` — full ADDT (penetrance/age-of-onset tables for all tumor types, complete 8-recommendation surveillance protocol, surgical management, immunotherapy considerations, genetic counseling, MMR IHC diagnostic nuances, full DDx vs. Lynch syndrome/FAP/MAP/NF1)
 
 **Updated entity pages:**
+
 - `1-disease-scripts/colorectal-diseases/lynch-syndrome.md` — BMMRD DDx entry expanded with key distinguishing features (biallelic, childhood onset, brain/hematologic tumors, café-au-lait macules, IHC in normal tissue, PMS2 predominance, surveillance timing); `[[bmmrd-syndrome]]` link added; `[[bmmrd-syndrome]]` added to "See also" footer; `usmstf-2017-bmmrd` added to sources frontmatter
 
 **Index updates:**
+
 - `[[bmmrd-syndrome]]` added to Colorectal Diseases disease scripts
 - `[[usmstf-2017-bmmrd]]` added to Sources
 - Totals updated: 71 sources | 73 disease scripts
@@ -273,12 +312,14 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 ## [2026-05-21] ingest | 4-guideline parallel ingest (colon ischemia, Lynch syndrome 2014, nutrition hospitalized, hepatic/mesenteric circulation)
 
 **Sources ingested (4):**
+
 - `acg-2015-colon-ischemia` — ACG 2015: Epidemiology, Risk Factors, Patterns of Presentation, Diagnosis, and Management of Colon Ischemia (Brandt et al.)
 - `usmstf-2014-lynch-syndrome` — USMSTF 2014: Genetic Evaluation and Management of Lynch Syndrome (Giardiello et al.)
 - `acg-2016-nutrition-hospitalized` — ACG 2016: Nutrition Therapy in the Adult Hospitalized Patient (McClave et al.) — 38-item recommendations table
 - `acg-2020-hepatic-mesenteric-circulation` — ACG 2020: Disorders of the Hepatic and Mesenteric Circulation (Simonetto et al.) — 23 PICO recommendations
 
 **New entity pages created:**
+
 - `1-disease-scripts/colorectal-diseases/colon-ischemia.md` — full ADDT (CT imaging, colonoscopy, mild/moderate/severe classification, surgical indications, IRCI, medication review)
 - `1-disease-scripts/hepatopancreaticobiliary-diseases/portal-vein-thrombosis.md` — full ADDT (cirrhotic vs. noncirrhotic PVT/MVT, thrombophilia workup, anticoagulation indications, TIPS, cirrhosis hemostasis)
 - `1-disease-scripts/hepatopancreaticobiliary-diseases/budd-chiari-syndrome.md` — full ADDT (etiology table, stepwise AC→angioplasty→TIPS→LT, HCC surveillance, thrombophilia workup)
@@ -287,6 +328,7 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 - `7-concepts/cirrhosis-hemostasis.md` — concept (rebalanced hemostasis, no prophylactic FFP/platelets, TEG/ROTEM guidance)
 
 **Updated entity pages:**
+
 - `1-disease-scripts/colorectal-diseases/lynch-syndrome.md` — added `usmstf-2014-lynch-syndrome` to sources; added PREMM1,2,6 detail, NCI evidence-level citations, and expanded genetic counseling section
 
 ---
@@ -294,12 +336,14 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 ## [2026-05-19] ingest | 4-guideline parallel ingest (liver transplant, small bowel bleeding, liver disease in pregnancy, malignant colorectal polyps)
 
 **Sources ingested (4):**
+
 - `aasld-2012-liver-transplant-long-term` — AASLD 2012: Long-Term Management of the Successful Adult Liver Transplant Recipient (93 recs)
 - `acg-2015-small-bowel-bleeding` — ACG 2015: Small Bowel Bleeding (31 recs)
 - `acg-2016-liver-disease-pregnancy` — ACG 2016: Liver Disease and Pregnancy (36 recs)
 - `usmstf-2020-malignant-colorectal-polyps` — USMSTF 2020: Malignant Colorectal Polyps (9 recs)
 
 **New entity pages created:**
+
 - `1-disease-scripts/hepatopancreaticobiliary-diseases/liver-transplantation.md` — full ADDT (IS monitoring, metabolic, oncologic, recurrent disease)
 - `1-disease-scripts/hepatopancreaticobiliary-diseases/hepatitis-c-in-pregnancy.md` — stub
 - `1-disease-scripts/foregut-and-motility-diseases/small-bowel/meckels-diverticulum.md` — stub
@@ -315,11 +359,13 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 - `7-concepts/operational-tolerance.md` — stub
 
 **Entity pages updated:**
+
 - `polypectomy-emr.md` — Haggitt/Kikuchi staging, NICE/JNET/Kudo features, en bloc criteria, CAP reporting, surgical referral framework
 - `chronic-hepatitis-b.md`, `primary-biliary-cholangitis.md`, `autoimmune-hepatitis.md`, `wilson-disease.md` — pregnancy subsections added
 - `acute-liver-failure.md`, `abnormal-liver-chemistries.md` — pregnancy cross-links
 
 **Gaps noted:**
+
 - HCV DAA safety in pregnancy: no data in 2016 guideline; field has evolved
 - AASLD 2012 HCV recommendations pre-DAA era; superseded
 - Thalidomide for SBB angioectasia: off-label, no med page yet
@@ -330,12 +376,14 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 ## [2026-05-19] ingest | 4-guideline parallel ingest (pancreatic cysts, SIBO, acute diarrhea, post-CRC surveillance)
 
 **Sources ingested (4):**
+
 - `acg-2018-pancreatic-cysts` — ACG 2018: Diagnosis & Management of Pancreatic Cysts (20 recs, all low/very-low quality)
 - `acg-2020-sibo` — ACG 2020: SIBO (6 GRADE recs + 15 key concepts verbatim)
 - `acg-2016-acute-diarrhea` — ACG 2016: Acute Diarrheal Infections (18 recs)
 - `usmstf-2015-crc-surveillance` — USMSTF 2015: Colonoscopy Surveillance after CRC Resection (6 recs)
 
 **New entity pages created:**
+
 - `1-disease-scripts/hepatopancreaticobiliary-diseases/pancreatic-cysts.md` — full ADDT (all 6 cyst types, surveillance tables)
 - `1-disease-scripts/foregut-and-motility-diseases/small-bowel/small-intestinal-bacterial-overgrowth.md` — full ADDT
 - `1-disease-scripts/colorectal-diseases/colorectal-cancer.md` — expanded stub → full disease script with post-resection surveillance
@@ -347,12 +395,14 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 - `7-concepts/postinfectious-ibs.md` — stub
 
 **Entity pages updated:**
+
 - `endoscopic-ultrasound.md` — pancreatic cyst EUS section added
 - `colonoscopy.md` — post-CRC surveillance tables added
 - `irritable-bowel-syndrome.md` — SIBO cross-link + prevalence data
 - `chronic-pancreatitis.md` — SIBO co-occurrence note
 
 **Gaps noted for future ingests/lint:**
+
 - Gastroparesis → SIBO cross-link missing (key risk factor)
 - Crohn's disease → SIBO cross-link missing (16.8% prevalence in remission)
 - STEC/EHEC stub not yet created
@@ -363,12 +413,14 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 ## [2026-05-19] ingest | 4-guideline parallel ingest (liver chemistries, esophageal physiology, hemochromatosis, hereditary GI cancer)
 
 **Sources ingested (4):**
+
 - `acg-2017-liver-chemistries` — ACG 2017: Evaluation of Abnormal Liver Chemistries
 - `acg-2020-esophageal-physiologic-testing` — ACG 2020: Clinical Use of Esophageal Physiologic Testing (16 GRADE recs)
 - `acg-2019-hereditary-hemochromatosis` — ACG 2019: Hereditary Hemochromatosis (10 GRADE recs)
 - `acg-2015-hereditary-gi-cancer` — ACG 2015: Genetic Testing and Management of Hereditary GI Cancer Syndromes (25 recs)
 
 **New entity pages created:**
+
 - `2-diagnostic-schemas/abnormal-liver-chemistries.md` — full schema with R-ratio, 5-tier algorithm, ALP + bilirubin fractionation
 - `1-disease-scripts/hepatopancreaticobiliary-diseases/hereditary-hemochromatosis.md` — full ADDT
 - `1-disease-scripts/colorectal-diseases/lynch-syndrome.md` — expanded stub → full ADDT
@@ -385,12 +437,14 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 - `7-concepts/iron-overload-and-iron-metabolism.md` — stub
 
 **Entity pages updated (cross-links + source added):**
+
 - `reflux-testing.md`, `ambulatory-reflux-monitoring.md`, `chicago-classification-v4.md`, `high-resolution-manometry.md` (esophageal physiology ingest)
 - `hepatocellular-carcinoma.md`, `alcohol-associated-liver-disease.md`, `hereditary-hemochromatosis.md` (hemochromatosis ingest)
 - `drug-induced-liver-injury.md`, `autoimmune-hepatitis.md`, `primary-sclerosing-cholangitis.md` (liver chemistries ingest)
 - `colorectal-cancer.md` (hereditary GI cancer ingest)
 
 **Gaps noted for future ingests:**
+
 - No `chronic-hepatitis-c` page (HCV covered in liver chemistries guideline)
 - No `barium-esophagram` or `supragastric-belching` pages
 - `hereditary-pancreatic-cancer` not yet its own entity page
@@ -404,6 +458,7 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 ## [2026-05-19] lint | Lint Pass — PSC + IBS ingest, broken-link cleanup, 7 new stubs
 
 **Cleanup performed (auto-fixed):**
+
 - Removed `.DS_Store` artifacts from `wiki/`, `raw/GI Guidelines/`, `raw/GI Guidelines/ACG/`, `raw/GI Guidelines/ASGE/`
 - Fixed broken cross-refs in content pages:
   - `sources/acg-2020-achalasia.md`: `[[2021-chicago-classification]]` → `[[chicago-classification-v4]]`; `[[hrem]]` → `[[high-resolution-manometry]]`
@@ -412,10 +467,12 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
   - `4-advanced-gi-procedures/foregut-and-motility-procedures/high-resolution-manometry.md`: removed self-aliasing `[[esophageal-manometry]]` and `[[hrem]]` (collapsed to plain-text aliases)
 
 **Ingests (2 high-value PDFs from previously flagged gaps):**
+
 - `wiki/sources/acg-2015-psc.md` — Lindor, Kowdley, Harrison. Am J Gastroenterol 2015;110:646–659. Created new disease script `primary-sclerosing-cholangitis.md` (full ADDT: MRCP-first dx, IgG4/AMA testing, UDCA >28 mg/kg/d harmful, dominant-stricture ERCP + FISH, CCA surveillance q6–12mo, PSC-IBD annual chromoendoscopy from PSC dx, LT at MELD >14 / MELD exception for CCA <3 cm / recurrent cholangitis / pruritus).
 - `wiki/sources/acg-2020-ibs.md` — Lacy, Pimentel, Brenner, Chey et al. Am J Gastroenterol 2021;116:17–44 (25 GRADE statements). Expanded `irritable-bowel-syndrome.md` from stub to full ADDT (positive diagnostic strategy, calprotectin+CRP+celiac serology screen, low-FODMAP/soluble fiber/TCA/gut-directed psychotherapy cross-subtype, secretagogues + tegaserod for IBS-C, rifaximin/alosetron/eluxadoline for IBS-D, strong AGAINST FMT/probiotics/antispasmodics/PEG for global IBS-C).
 
 **New stubs (7):**
+
 - `1-disease-scripts/colorectal-diseases/colorectal-cancer.md` (resolves `[[colorectal-cancer]]` referenced in `colorectal-cancer-screening`, `acg-2021-crc-screening`)
 - `1-disease-scripts/colorectal-diseases/lynch-syndrome.md` (resolves `[[lynch-syndrome]]` in `colorectal-cancer-screening`)
 - `1-disease-scripts/colorectal-diseases/familial-adenomatous-polyposis.md` (resolves `[[familial-adenomatous-polyposis]]` in `colorectal-cancer-screening`)
@@ -424,12 +481,14 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 - `5-meds/linaclotide.md`, `5-meds/plecanatide.md`, `5-meds/prucalopride.md` (resolve broken med refs from `aga-acg-2023-constipation` and now `acg-2020-ibs`)
 
 **Index updates:**
+
 - Added new disease scripts (PSC, CRC, Lynch, FAP, PUD) and meds (linaclotide, plecanatide, prucalopride) and procedure (anorectal-manometry) to relevant index sections
 - Expanded IBS entry from stub-language to full ADDT description
 - Added new source entries: `acg-2015-psc`, `acg-2020-ibs`
 - Footer counts updated: 54 sources / 44 disease scripts / 7 advanced procedures / 5 meds (was 52 / 39 / 6 / 2)
 
 **Remaining broken wiki-links (lower-priority; not auto-fixed — most are in source-page notes or are minor concept stubs):**
+
 - `[[barrett-esophagus]]` — only appears in log.md historical entry (intentional, do not change)
 - `[[antireflux-surgery]]` — referenced in `acg-2021-gerd.md` and `sages-2021-gerd-surgery.md` source notes; consider a concept page covering Nissen/Toupet/Dor/MSA/RYGB/TIF together
 - `[[hcc-surveillance]]` — referenced in `acg-2024-focal-liver-lesions.md`; covered functionally by `hepatocellular-carcinoma` stub but slug differs
@@ -441,9 +500,11 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 - `[[colonoscopy-surveillance]]` — could be section anchor in `colonoscopy.md` rather than its own page
 
 **Outstanding gaps requiring user triage:**
+
 - ~63 uningested raw files remain: ACG 2018 Pancreatic Cysts, ACG 2020 SIBO, ACG 2017 Liver Chemistries, ACG 2019 Hereditary Hemochromatosis, ACG 2016 Acute Diarrhea, ACG 2015 Small Bowel Bleeding, ACG 2015 Colon Ischemia, ACG 2020 Disorders Hepatic Mesenteric Circulation, ACG 2020 Clinical Use of Esophageal Physiologic Testing, ACG 2016 Liver Disease and Pregnancy, ACG 2016 Nutrition Therapy, USMSTF 2015/2016/2017/2020 colonoscopy series, AASLD 2012 LT long-term, Semaglutide AUD RCT, 60 lecture transcripts (highest yield: Cirrhosis_by_Jed_Bell, MASLD_MetALD_by_Dr_Kanwal, PBC_by_Dr_Lily_Dara, HCC × 2, Cholangiocarcinoma_by_bhuket, IBS_by_Dr_Lin_Chang).
 
 **Contradictions / stale claims flagged (no auto-fix):**
+
 - **Atrophic gastritis surveillance**: AGA 2020 GIM guideline recommends AGAINST routine GIM surveillance, while AGA 2021 atrophic gastritis update + ACG 2025 GPMC recommend q3y surveillance for high-risk GIM/OLGA III–IV. Already noted on `[[gastric-intestinal-metaplasia]]` and `[[gastric-premalignant-conditions]]` pages. Stable tension; awaits next AGA cycle.
 - **IBS criteria**: `irritable-bowel-syndrome.md` cites both Rome IV (ACG 2020) and Rome V (2026) — pain frequency threshold differs (≥1 day/week vs ≥3 days/month). Documented inline; not a true contradiction (newer Rome V is more permissive).
 - **NA discontinuation in CHB**: AASLD/IDSA 2025 recommends NOT stopping NA until HBsAg loss; EASL/APASL allow discontinuation. Documented on `chronic-hepatitis-b.md`.
@@ -456,6 +517,7 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 **Action:** First scheduled lint under the new behavior policy (perform cleanup automatically, ingest ≤2 raw files per run — see `feedback_lint_behavior.md`).
 
 **Cleanup performed:**
+
 - Removed `raw/.DS_Store` (OS artifact).
 - Fixed `wiki/index.md` footer counts (was: 50 sources / 36 disease scripts / 1 med / 0 syntheses → now: 52 / 39 / 2 / 1).
 - Listed `[[uc-vs-crohns-comparison]]` in Syntheses section (was "(none yet)").
@@ -463,10 +525,12 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 - Refreshed `MEMORY.md` "Current Wiki State" from 2026-05-07 numbers; corrected path note (all content uses numbered folders).
 
 **Ingests (2):**
+
 - `wiki/sources/acg-2020-chronic-pancreatitis.md` (Gardner et al., Am J Gastroenterol 2020;115:322–339) — expanded `chronic-pancreatitis.md` from stub to full ADDT with Mechanistic Definition, TIGAR-O v2.0, M-ANNHEIM scoring, modality test characteristics, surgical-vs-endoscopic evidence (Cahen RCT), PERT dosing, fat-soluble vitamin/DEXA monitoring.
 - `wiki/sources/acg-cag-2017-dyspepsia.md` (Moayyedi et al., Am J Gastroenterol 2017;112:988–1013) — updated `dyspepsia.md` diagnostic schema: age threshold raised to ≥60 (from ≥55), alarm features alone insufficient in <60, full ACG/CAG algorithm and NNTs for FD therapies, SSRIs not effective, PPI long-term safety summary.
 
 **Outstanding (reported to user, not actioned):**
+
 - Log backfill: log was stale since 2026-05-07 despite ~25 sources added (this consolidated entry covers acknowledgement; future ingests will log inline per schema).
 - ~65 uningested raw files remain (40+ chalk talk transcripts; ACG older guidelines from 2013–2020 not yet ingested; AASLD 2012; ASGE 2020; Semaglutide AUD RCT) — user prioritization needed.
 - CLAUDE.md INGEST prose still references unnumbered folder paths while filesystem and tree-diagram use numbered (`1-disease-scripts/` …). Minor inconsistency — fix on next manual session.
@@ -478,6 +542,7 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 **13 stub pages created to resolve broken [[wiki-links]] identified during lint.**
 
 **New disease scripts (5):**
+
 - `wiki/1-disease-scripts/colorectal-diseases/irritable-bowel-syndrome.md` — IBS: Rome V criteria, subtypes, DGBI; raw: ACG 2018 IBS
 - `wiki/1-disease-scripts/hepatopancreaticobiliary-diseases/chronic-pancreatitis.md` — CP: exocrine/endocrine insufficiency, biliary stricture cause; raw: ACG 2020
 - `wiki/1-disease-scripts/hepatopancreaticobiliary-diseases/autoimmune-hepatitis.md` — AIH: simplified score, type 1/2, DILI distinction; lecture: AIH_by_Dr_Dara
@@ -485,22 +550,27 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 - `wiki/1-disease-scripts/hepatopancreaticobiliary-diseases/immune-checkpoint-inhibitor-hepatitis.md` — ICI hepatitis: grade-driven management, steroids ± MMF
 
 **New esophageal motility disease scripts (3):**
+
 - `wiki/1-disease-scripts/foregut-and-motility-diseases/esophageal/distal-esophageal-spasm.md`
 - `wiki/1-disease-scripts/foregut-and-motility-diseases/esophageal/hypercontractile-esophagus.md`
 - `wiki/1-disease-scripts/foregut-and-motility-diseases/esophageal/ineffective-esophageal-motility.md`
 
 **New diagnostic schema (1):**
+
 - `wiki/2-diagnostic-schemas/dyspepsia.md` — uninvestigated dyspepsia algorithm, test-and-treat, functional dyspepsia subtypes; raw: ACG CAG 2017
 
 **New advanced procedures (3):**
+
 - `wiki/4-advanced-gi-procedures/hepatobiliary-procedures/ercp.md` — indications, PEP prevention, tissue sampling
 - `wiki/4-advanced-gi-procedures/foregut-and-motility-procedures/poem.md` — achalasia types, G-POEM, GERD risk
 - `wiki/4-advanced-gi-procedures/foregut-and-motility-procedures/high-resolution-manometry.md` — Chicago v4.0 protocol, IRP/DCI metrics, clinical applications; canonical slug for [[esophageal-manometry]]/[[hrem]]
 
 **New concept (1):**
+
 - `wiki/7-concepts/inflammatory-bowel-disease.md` — IBD overview linking to crohns + uc disease scripts
 
 **Also this session (lint fixes):**
+
 - `acg-2021-gerd` source: `[[barrett-esophagus]]` → `[[barretts-esophagus]]` (typo); `[[esophageal-manometry]]` → `[[high-resolution-manometry]]`
 - `bismuth-quadruple-therapy.md` moved `5-meds/` → `7-concepts/`
 - `gerd.md` sources updated to include `lyon-2024-gerd-diagnosis`; Lyon 2.0 content added to pH Monitoring section (LA grade B = conclusive, AET thresholds)
@@ -523,16 +593,19 @@ The scheduled lint from 2026-05-15 flagged "Dual-Schema Directory Drift" and rec
 ### 2. Index Errors (Action Required)
 
 #### 2a. Footer overcounts disease scripts
+
 - **Footer says:** `32 disease scripts`
 - **Actual count:** 31 disease scripts (verified by file listing)
 - **Off by 1** — likely a stale number from a draft ingest that was revised.
 
 #### 2b. Footer overcounts meds
+
 - **Footer says:** `2 meds`
 - **Index body lists:** 1 med (antibiotic-prophylaxis-cirrhosis)
 - **bismuth-quadruple-therapy** is listed under **Concepts** in the index body — correctly — but the footer counts it as a med.
 
 #### 2c. "Small Bowel" category misnaming in index
+
 The index groups `[[helicobacter-pylori-infection]]` and `[[gastric-premalignant-conditions]]` under the `#### Small Bowel` heading. Both files are physically in `wiki/1-disease-scripts/foregut-and-motility-diseases/gastric/`. They should be under `#### Gastric`.
 
 ---
@@ -575,6 +648,7 @@ The following `[[wiki-links]]` appear in content pages but have NO corresponding
 `[[vonoprazan]]`, `[[linaclotide]]`, `[[plecanatide]]`, `[[prucalopride]]` — all in CIC or H. pylori context. Recommend covering as sub-sections of the relevant disease pages rather than standalone stubs, unless a specific med page is planned.
 
 #### 3d. Typo in acg-2021-gerd source
+
 `[[barrett-esophagus]]` → should be `[[barretts-esophagus]]` (missing apostrophe-s). This link is in `wiki/sources/acg-2021-gerd.md` line 73.
 
 ---
@@ -600,6 +674,7 @@ The following `[[wiki-links]]` appear in content pages but have NO corresponding
 The 2026-05-15 lint listed ~20 uningested high-priority guidelines. Most are now ingested. Remaining uningested files in `raw/GI Guidelines/`:
 
 **No coverage in wiki (HIGH):**
+
 - `ACG 2015 Primary Sclerosing Cholangitis.pdf` — no PSC disease script; no PSC coverage anywhere
 - `ACG 2018 Management of Irritable Bowel Syndrome.pdf` — no IBS page; referenced by CIC
 - `ACG 2018 Diagnosis & Management of Pancreatic Cysts.pdf` — no pancreatic cyst page
@@ -608,6 +683,7 @@ The 2026-05-15 lint listed ~20 uningested high-priority guidelines. Most are now
 - `ACG 2020 Small Intestinal Bacterial Overgrowth.pdf` — no SIBO page
 
 **Partial/no coverage (MEDIUM):**
+
 - `ACG 2015 Small Bowel Bleeding.pdf` — no small bowel bleeding diagnostic schema
 - `ACG 2015 Colon Ischemia.pdf` — no colon ischemia page
 - `ACG 2015 Epidemiology... of Colon Ischemia.pdf` — same as above
@@ -619,11 +695,13 @@ The 2026-05-15 lint listed ~20 uningested high-priority guidelines. Most are now
 - `ACG 2020 Clinical Use of Esophageal Physiologic Testing.pdf` — partial: esophageal physiology testing discussed but no procedure page
 
 **Superseded (LOW):**
+
 - `AASLD 2012 Liver Transplant Management Long Term.pdf` — consider ingest for transplant content
 - `ACG 2013 EoE.pdf`, `ACG 2017 Preventive Care IBD.pdf`, `ACG 2018 Crohn's.pdf`, `ACG 2019 UC.pdf` — all superseded by 2025 guidelines; skip unless specific historical context needed
 - `ACG 2014 Optimizing Bowel Cleansing.pdf` — superseded by USMSTF 2025
 
 **Uningested USMSTF guidelines:**
+
 - `USMSTF 2015 Colonoscopy Surveillance after Colorectal Cancer Resection.pdf`
 - `USMSTF 2016 Fecal Immunochemical Testing.pdf`
 - `USMSTF 2017 BMMRD.pdf` (rare disease, low priority)
@@ -631,6 +709,7 @@ The 2026-05-15 lint listed ~20 uningested high-priority guidelines. Most are now
 
 **Uningested lecture transcripts (raw/GI Lectures:Chalk Talks/):**
 60 uningested .md files. Highest-value for current wiki gaps:
+
 - `AIH_by_Dr_Dara.md` — no autoimmune hepatitis page
 - `Cirrhosis_by_Jed_Bell.md` — no cirrhosis page
 - `IBS_by_Dr_Lin_Chang.md` — no IBS page
@@ -660,6 +739,7 @@ The 2026-05-15 lint listed ~20 uningested high-priority guidelines. Most are now
 **Source:** Slater BJ et al. Surgical Endoscopy 2021 (7 conditional recommendations, 5 key questions)
 
 **Pages created/updated:**
+
 - `wiki/sources/sages-2021-gerd-surgery.md`
 - Updated `wiki/1-disease-scripts/foregut-and-motility-diseases/ge-junction/gerd.md` (added Step 4 surgical detail)
 
@@ -672,6 +752,7 @@ The 2026-05-15 lint listed ~20 uningested high-priority guidelines. Most are now
 **Source:** Wald A et al. Am J Gastroenterol 2021;116:1987–2008
 
 **Pages created:**
+
 - `wiki/sources/acg-2021-anorectal-disorders.md`
 - `wiki/1-disease-scripts/colorectal-diseases/defecation-disorders.md`
 - `wiki/1-disease-scripts/colorectal-diseases/hemorrhoids.md`
@@ -688,6 +769,7 @@ The 2026-05-15 lint listed ~20 uningested high-priority guidelines. Most are now
 **Source:** Chalasani NP et al. Am J Gastroenterol 2021;116:878–898 (16 recommendations)
 
 **Pages created:**
+
 - `wiki/sources/acg-2021-dili.md`
 - `wiki/1-disease-scripts/hepatopancreaticobiliary-diseases/drug-induced-liver-injury.md`
 
@@ -700,6 +782,7 @@ The 2026-05-15 lint listed ~20 uningested high-priority guidelines. Most are now
 **Source:** Gupta S et al. Gastroenterology 2020;158:693–702 (3 formal recommendations)
 
 **Pages created:**
+
 - `wiki/sources/aga-2020-gastric-intestinal-metaplasia.md`
 - `wiki/1-disease-scripts/foregut-and-motility-diseases/gastric/gastric-intestinal-metaplasia.md`
 
@@ -712,6 +795,7 @@ The 2026-05-15 lint listed ~20 uningested high-priority guidelines. Most are now
 **Source:** Shaukat A et al. Am J Gastroenterol 2021;116:458–479 (21 GRADE recommendations)
 
 **Pages created:**
+
 - `wiki/sources/acg-2021-crc-screening.md`
 - `wiki/7-concepts/colorectal-cancer-screening.md`
 
@@ -724,6 +808,7 @@ The 2026-05-15 lint listed ~20 uningested high-priority guidelines. Most are now
 **Source:** Katz PO et al. Am J Gastroenterol 2022;117:27–56
 
 **Pages created/updated:**
+
 - `wiki/sources/acg-2021-gerd.md`
 - Updated `wiki/1-disease-scripts/foregut-and-motility-diseases/ge-junction/gerd.md` (added ACG 2021 content)
 
@@ -736,6 +821,7 @@ The 2026-05-15 lint listed ~20 uningested high-priority guidelines. Most are now
 **Source:** Chang L, Chey WD, Imdad A et al. Am J Gastroenterol 2023;118:936–954 (10 GRADE recommendations, 28 RCTs)
 
 **Pages created:**
+
 - `wiki/sources/aga-acg-2023-constipation.md`
 - `wiki/1-disease-scripts/colorectal-diseases/chronic-idiopathic-constipation.md`
 
@@ -748,6 +834,7 @@ The 2026-05-15 lint listed ~20 uningested high-priority guidelines. Most are now
 **Source:** Yadlapati R et al. Neurogastroenterol Motil 2021;33(1):e14058
 
 **Pages created:**
+
 - `wiki/sources/chicago-v4-2021-esophageal-dysmotility.md`
 - `wiki/7-concepts/chicago-classification-v4.md`
 
@@ -760,6 +847,7 @@ The 2026-05-15 lint listed ~20 uningested high-priority guidelines. Most are now
 **Source:** Kelly CR et al. Am J Gastroenterol 2021;116:1124–1147.
 
 **Pages created:**
+
 - `wiki/sources/acg-2021-cdiff.md`
 - `wiki/1-disease-scripts/colorectal-diseases/clostridioides-difficile.md`
 
@@ -772,6 +860,7 @@ The 2026-05-15 lint listed ~20 uningested high-priority guidelines. Most are now
 **Source:** Laine L et al. Am J Gastroenterol 2021;116:899–917. (16 recommendations)
 
 **Pages created:**
+
 - `wiki/sources/acg-2021-ugib.md`
 - `wiki/2-diagnostic-schemas/upper-gi-bleeding.md`
 
@@ -784,6 +873,7 @@ The 2026-05-15 lint listed ~20 uningested high-priority guidelines. Most are now
 **Source:** AASLD Practice Guidance. Hepatology 2021.
 
 **Pages created:**
+
 - `wiki/sources/aasld-2021-ascites-sbp-hrs.md`
 - `wiki/2-diagnostic-schemas/ascites.md`
 - `wiki/1-disease-scripts/hepatopancreaticobiliary-diseases/spontaneous-bacterial-peritonitis.md`
@@ -797,6 +887,7 @@ The 2026-05-15 lint listed ~20 uningested high-priority guidelines. Most are now
 **Source:** Abraham NS et al. Am J Gastroenterol 2022;117:521–536. (18 conditional statements)
 
 **Pages created:**
+
 - `wiki/sources/acg-cag-2022-anticoag-gi-bleeding.md`
 - `wiki/7-concepts/anticoagulation-gi-bleeding.md`
 
@@ -809,6 +900,7 @@ The 2026-05-15 lint listed ~20 uningested high-priority guidelines. Most are now
 **Source:** Camilleri M et al. Am J Gastroenterol 2022;117:1299–1311.
 
 **Pages created:**
+
 - `wiki/sources/acg-2022-gastroparesis.md`
 - `wiki/1-disease-scripts/foregut-and-motility-diseases/gastric/gastroparesis.md`
 
@@ -821,6 +913,7 @@ The 2026-05-15 lint listed ~20 uningested high-priority guidelines. Most are now
 **Source:** Shaheen NJ et al. Am J Gastroenterol 2022;117:559–587. (21 GRADE recommendations)
 
 **Pages created:**
+
 - `wiki/sources/acg-2022-barretts.md`
 - `wiki/1-disease-scripts/foregut-and-motility-diseases/esophageal/barretts-esophagus.md`
 
@@ -833,6 +926,7 @@ The 2026-05-15 lint listed ~20 uningested high-priority guidelines. Most are now
 **Source:** AGA Technical Review. Gastroenterology 2022. (14 BPA statements)
 
 **Pages created:**
+
 - `wiki/sources/aga-2022-aki-cirrhosis.md`
 - `wiki/1-disease-scripts/hepatopancreaticobiliary-diseases/aki-in-cirrhosis.md`
 
@@ -845,6 +939,7 @@ The 2026-05-15 lint listed ~20 uningested high-priority guidelines. Most are now
 **Source:** ACG Clinical Guideline. Am J Gastroenterol 2022.
 
 **Pages created:**
+
 - `wiki/sources/acg-2022-celiac.md`
 - `wiki/1-disease-scripts/foregut-and-motility-diseases/small-bowel/celiac-disease.md` (new small-bowel/ subdirectory)
 
@@ -857,6 +952,7 @@ The 2026-05-15 lint listed ~20 uningested high-priority guidelines. Most are now
 **Source:** ACG Clinical Guideline. Am J Gastroenterol 2023;118:208–231.
 
 **Pages created:**
+
 - `wiki/sources/acg-2023-lgib.md`
 - `wiki/diagnostic-schemas/acute-lower-gi-bleeding.md`
 
@@ -869,6 +965,7 @@ The 2026-05-15 lint listed ~20 uningested high-priority guidelines. Most are now
 **Source:** ACG Clinical Guideline. Am J Gastroenterol 2023.
 
 **Pages created:**
+
 - `wiki/sources/acg-2023-subepithelial-lesions.md`
 - `wiki/diagnostic-schemas/subepithelial-lesion.md`
 
@@ -881,6 +978,7 @@ The 2026-05-15 lint listed ~20 uningested high-priority guidelines. Most are now
 **Source:** ACG Clinical Guideline. Am J Gastroenterol 2023.
 
 **Pages created:**
+
 - `wiki/sources/acg-2023-biliary-strictures.md`
 - `wiki/diagnostic-schemas/biliary-stricture.md`
 
@@ -893,6 +991,7 @@ The 2026-05-15 lint listed ~20 uningested high-priority guidelines. Most are now
 **Source:** ACG Clinical Guideline. Am J Gastroenterol 2023.
 
 **Pages created:**
+
 - `wiki/sources/acg-2023-alf.md`
 - `wiki/disease-scripts/hepatopancreaticobiliary-diseases/acute-liver-failure.md`
 
@@ -905,6 +1004,7 @@ The 2026-05-15 lint listed ~20 uningested high-priority guidelines. Most are now
 **Source:** ASGE Standards of Practice Committee. Gastrointest Endosc 2024. (6 PICO questions, systematic review)
 
 **Pages created:**
+
 - `wiki/sources/asge-2024-gerd.md`
 - `wiki/disease-scripts/foregut-and-motility-diseases/ge-junction/gerd.md`
 - `wiki/concepts/reflux-testing.md`
@@ -918,6 +1018,7 @@ The 2026-05-15 lint listed ~20 uningested high-priority guidelines. Most are now
 **Source:** Gyawali CP, Kahrilas PJ, Savarino E, et al. Gut 2024;73:361–371.
 
 **Pages created:**
+
 - `wiki/sources/lyon-2024-gerd-diagnosis.md`
 - `wiki/concepts/ambulatory-reflux-monitoring.md`
 
@@ -930,9 +1031,11 @@ The 2026-05-15 lint listed ~20 uningested high-priority guidelines. Most are now
 **Source:** AGA Institute. Gastroenterology 2024. (Quality indicators with performance targets)
 
 **Pages created:**
+
 - `wiki/sources/aga-2024-upper-endoscopy-quality.md`
 
 **Pages updated:**
+
 - `wiki/3-general-gi-procedures/upper-endoscopy.md` — supplemented with AGA 2024 quality data
 
 **Key contributions:** Missed cancers as motivating concern: 10.7% of upper GI cancers diagnosed within 3 years of negative EGD; 23.9% of esophageal adenocarcinomas in nondysplastic Barrett's within 1 year. Inspection time >7 minutes standard (two retrospective studies, n=55,786; 2–3x detection increase for gastric neoplasia); Barrett's: >1 min/cm segment. IET benefit quantified: NBI detected significantly more GIM (17.7% vs. 7.7%) and focal lesions (40.6% vs. 29%); LCI reduced missed upper GI neoplasia by >80% vs. HD-WLE (RR 0.19). Updated Sydney System: ≥5 biopsies in defined locations, ≥2 jars, GIM subtyping requested. Barrett's biopsy: ≥8 biopsies even for short-segment. IDA: AGA recommends serology-first for celiac + noninvasive H. pylori testing (vs. routine biopsy at endoscopy — diverges from BSG/ESCD). GLP-1 RA: hold 1 dose pre-endoscopy per ASA guidance (limited data).
@@ -944,6 +1047,7 @@ The 2026-05-15 lint listed ~20 uningested high-priority guidelines. Most are now
 **Source:** Farraye FA et al. Am J Gastroenterol 2025;120:1447–1473. DOI: 10.14309/ajg.0000000000003541
 
 **Pages created:**
+
 - `wiki/sources/acg-2025-ibd-preventive-care.md`
 - `wiki/concepts/ibd-preventive-care.md`
 
@@ -956,6 +1060,7 @@ The 2026-05-15 lint listed ~20 uningested high-priority guidelines. Most are now
 **Source:** Yadlapati R, Weissbrod P, Walsh E, Gyawali CP, Pandolfino JE et al. Am J Gastroenterol 2025 (Publish Ahead of Print). DOI: 10.14309/ajg.0000000000003482
 
 **Pages created:**
+
 - `wiki/sources/san-diego-2025-lprd.md`
 - `wiki/diagnostic-schemas/laryngopharyngeal-symptoms.md`
 
@@ -965,9 +1070,10 @@ The 2026-05-15 lint listed ~20 uningested high-priority guidelines. Most are now
 
 ## [2026-05-15] ingest | AGA 2021: Diagnosis and Management of Atrophic Gastritis (Shah, Piazuelo, Kuipers, Li)
 
-**Source:** Shah SC, Piazuelo MB, Kuipers EJ, Li D. Gastroenterology 2021;161(4):1325–1332. DOI: https://doi.org/10.1053/j.gastro.2021.06.078
+**Source:** Shah SC, Piazuelo MB, Kuipers EJ, Li D. Gastroenterology 2021;161(4):1325–1332. DOI: <https://doi.org/10.1053/j.gastro.2021.06.078>
 
 **Pages created:**
+
 - `wiki/sources/aga-2021-atrophic-gastritis.md`
 - `wiki/disease-scripts/foregut-and-motility-diseases/gastric/atrophic-gastritis.md`
 
@@ -977,9 +1083,10 @@ The 2026-05-15 lint listed ~20 uningested high-priority guidelines. Most are now
 
 ## [2026-05-15] ingest | Prophylactic Antibiotics for UGB in Cirrhosis — Journal Club (Albhaisi)
 
-**Source:** Systematic review, JAMA Internal Medicine 2025. URL: https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2837199. Presented as journal club by Somaya Albhaisi at LA General.
+**Source:** Systematic review, JAMA Internal Medicine 2025. URL: <https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2837199>. Presented as journal club by Somaya Albhaisi at LA General.
 
 **Pages created:**
+
 - `wiki/sources/albhaisi-2025-prophylactic-antibiotics-cirrhosis.md`
 - `wiki/diagnostic-schemas/variceal-upper-gi-bleeding.md`
 - `wiki/meds/antibiotic-prophylaxis-cirrhosis.md`
@@ -988,11 +1095,12 @@ The 2026-05-15 lint listed ~20 uningested high-priority guidelines. Most are now
 
 ---
 
-## [2026-05-15] ingest | The Vital Role of the Endoscopic Oncologist — Chang et al.
+## [2026-05-15] ingest | The Vital Role of the Endoscopic Oncologist — Chang et al
 
-**Source:** Chang KJ et al. Gastrointestinal Endoscopy Clinics of North America 2024;34(1):xv–xviii. PubMed: https://pubmed.ncbi.nlm.nih.gov/37973235/
+**Source:** Chang KJ et al. Gastrointestinal Endoscopy Clinics of North America 2024;34(1):xv–xviii. PubMed: <https://pubmed.ncbi.nlm.nih.gov/37973235/>
 
 **Pages created:**
+
 - `wiki/sources/chang-2024-endoscopic-oncologist.md`
 - `wiki/concepts/endoscopic-oncology.md`
 
@@ -1002,9 +1110,10 @@ The 2026-05-15 lint listed ~20 uningested high-priority guidelines. Most are now
 
 ## [2026-05-15] ingest | Fever in a Returning Traveler — NEJM 2023
 
-**Source:** NEJM, October 21, 2023. Notion source: https://www.notion.so/8214b4f26a5f4d1a90e741da438fb6a7
+**Source:** NEJM, October 21, 2023. Notion source: <https://www.notion.so/8214b4f26a5f4d1a90e741da438fb6a7>
 
 **Pages created:**
+
 - `wiki/sources/nejm-2023-fever-returning-traveler.md` (stub — PDF not available)
 - `wiki/diagnostic-schemas/fever-returning-traveler.md`
 
@@ -1017,6 +1126,7 @@ The 2026-05-15 lint listed ~20 uningested high-priority guidelines. Most are now
 **Source:** Salvador R, Pandolfino JE, Costantini M, Gyawali CP, et al. Ann Surg 2025;281:124–135. DOI:10.1097/SLA.0000000000006297
 
 **Pages created:**
+
 - `wiki/sources/padova-2025-hrm-antireflux.md`
 - `wiki/7-concepts/hrm-antireflux-surgery.md`
 
@@ -1029,6 +1139,7 @@ The 2026-05-15 lint listed ~20 uningested high-priority guidelines. Most are now
 **Source:** Carlson DA, Pandolfino JE, Yadlapati R, Vela MF, et al. Gastroenterology 2025;168:1114–1127. DOI:10.1053/j.gastro.2025.01.234
 
 **Pages created:**
+
 - `wiki/sources/dallas-2025-flip-panometry.md`
 - `wiki/4-advanced-gi-procedures/foregut-and-motility-procedures/flip-panometry.md`
 
@@ -1041,6 +1152,7 @@ The 2026-05-15 lint listed ~20 uningested high-priority guidelines. Most are now
 **Source:** Drossman DA, Chang L, Tack J. Gastroenterology 2026;170:1083–1098. DOI:10.1053/j.gastro.2026.02.014
 
 **Pages created:**
+
 - `wiki/sources/rome-v-2026-dgbi.md`
 - `wiki/7-concepts/disorders-of-gut-brain-interaction.md`
 
@@ -1053,6 +1165,7 @@ The 2026-05-15 lint listed ~20 uningested high-priority guidelines. Most are now
 **Source:** Ghany MG, Terrault NA et al. Hepatology 2025 (Publish Ahead of Print). DOI:10.1097/HEP.0000000000001549
 
 **Pages created:**
+
 - `wiki/sources/aasld-idsa-2025-chb-treatment.md`
 - `wiki/disease-scripts/hepatopancreaticobiliary-diseases/chronic-hepatitis-b.md`
 
@@ -1065,6 +1178,7 @@ The 2026-05-15 lint listed ~20 uningested high-priority guidelines. Most are now
 **Source:** Yadlapati R et al. Am J Gastroenterol 2025;120:290–312. (joint ACG/ASGE publication)
 
 **Pages created:**
+
 - `wiki/sources/acg-2025-egq-quality.md`
 - `wiki/3-general-gi-procedures/upper-endoscopy.md`
 
@@ -1077,6 +1191,7 @@ The 2026-05-15 lint listed ~20 uningested high-priority guidelines. Most are now
 **Source:** Mishra G et al. Am J Gastroenterol 2025;120:973–992. (joint ACG/ASGE publication)
 
 **Pages created:**
+
 - `wiki/sources/acg-2025-eus-quality.md`
 - `wiki/4-advanced-gi-procedures/hepatobiliary-procedures/endoscopic-ultrasound.md`
 
@@ -1089,6 +1204,7 @@ The 2026-05-15 lint listed ~20 uningested high-priority guidelines. Most are now
 **Source:** Singal AK, Wong RJ et al. Am J Gastroenterol 2025;120:950–972.
 
 **Pages created:**
+
 - `wiki/sources/acg-2025-liver-nutrition.md`
 - `wiki/disease-scripts/hepatopancreaticobiliary-diseases/nutrition-in-liver-disease.md`
 
@@ -1101,9 +1217,11 @@ The 2026-05-15 lint listed ~20 uningested high-priority guidelines. Most are now
 **Source:** Chey WD, Howden CW, Moss SF, Wu J, Vakil N. Am J Gastroenterol 2024;119:1730–1753.
 
 **Pages created:**
+
 - `wiki/sources/acg-2024-hp-treatment.md`
 
 **Pages updated:**
+
 - `wiki/1-disease-scripts/foregut-and-motility-diseases/gastric/helicobacter-pylori-infection.md` — Therapeutics section fully rewritten per 2024 paradigm
 
 **Key contributions:** Clarithromycin triple therapy no longer empiric first-line anywhere in US (CLR resistance >15%); BQT upgraded to Strong recommendation; vonoprazan dual and triple (FDA-approved 2022) added as Strong recommendations; susceptibility-guided therapy strongly recommended before CLR/LVX-based regimens; confirm eradication in all patients.
@@ -1115,6 +1233,7 @@ The 2026-05-15 lint listed ~20 uningested high-priority guidelines. Most are now
 **Source:** Tenner S, Vege SS, et al. Am J Gastroenterol 2024;119:419–437.
 
 **Pages created:**
+
 - `wiki/sources/acg-2024-acute-pancreatitis.md`
 - `wiki/disease-scripts/hepatopancreaticobiliary-diseases/acute-pancreatitis.md`
 
@@ -1127,6 +1246,7 @@ The 2026-05-15 lint listed ~20 uningested high-priority guidelines. Most are now
 **Source:** Frenette CT et al. Am J Gastroenterol 2024;119:1235–1271.
 
 **Pages created:**
+
 - `wiki/sources/acg-2024-focal-liver-lesions.md`
 - `wiki/disease-scripts/hepatopancreaticobiliary-diseases/hepatocellular-adenoma.md`
 - `wiki/disease-scripts/hepatopancreaticobiliary-diseases/focal-nodular-hyperplasia.md`
@@ -1142,6 +1262,7 @@ The 2026-05-15 lint listed ~20 uningested high-priority guidelines. Most are now
 **Source:** Vaezi MF, Pandolfino JE, Yadlapati RH, Greer KB, Kavitt RT. Am J Gastroenterol 2020;115:1393–1411.
 
 **Pages created:**
+
 - `wiki/sources/acg-2020-achalasia.md`
 - `wiki/disease-scripts/foregut-and-motility-diseases/ge-junction/achalasia.md`
 - Created new directory: `wiki/disease-scripts/foregut-and-motility-diseases/ge-junction/`
@@ -1221,6 +1342,7 @@ These files in `raw/GI Guidelines/` have no corresponding `wiki/sources/` page A
 #### 2c. Uningested Guidelines (superseded topics — lower priority)
 
 Sources covering topics where newer guidelines are already ingested (2025 versions of Crohn's, UC, EoE, GPMC, H. pylori):
+
 - ACG 2013 EoE (superseded by 2025)
 - ACG 2017 Preventive Care in IBD (superseded by 2025)
 - ACG 2018 Crohn's Disease in Adults (superseded by 2025)
@@ -1265,6 +1387,7 @@ Sources covering topics where newer guidelines are already ingested (2025 versio
 **Source:** Jophlin LL, Singal AK, Bataller R, et al. Am J Gastroenterol 2024;119:30–54.
 
 **Pages created:**
+
 - `wiki/sources/acg-2024-ald.md`
 - `wiki/disease-scripts/hepatopancreaticobiliary-diseases/alcohol-associated-liver-disease.md`
 
@@ -1277,6 +1400,7 @@ Sources covering topics where newer guidelines are already ingested (2025 versio
 **Source:** Morgan DR et al. Am J Gastroenterol 2025;00:1–29. doi:10.14309/ajg.0000000000003350
 
 **Pages created:**
+
 - `wiki/sources/acg-2025-gastric-premalignant.md`
 - `wiki/disease-scripts/foregut-and-motility-diseases/gastric/gastric-premalignant-conditions.md`
 
@@ -1289,9 +1413,11 @@ Sources covering topics where newer guidelines are already ingested (2025 versio
 **Source:** Jacobson BC et al. Am J Gastroenterol 2025;120:738–764. (joint publication ACG/AGA/ASGE)
 
 **Pages created:**
+
 - `wiki/sources/usmstf-2025-bowel-prep.md`
 
 **Pages updated:**
+
 - `wiki/3-general-gi-procedures/colonoscopy.md` — added full bowel prep section (prep standards, split-dose, 2L preference, high-risk modifications, quality tracking targets)
 
 **Key contributions:** Split-dose required (Strong/High); 2L preferred over 4L (Weak/Moderate); same-day acceptable for afternoon colonoscopy (Strong/High), inferior for morning (Weak/Low); simethicone ≥320mg as adjunct (Weak/Moderate); target >90% adequate prep at endoscopist + unit level (Strong/Moderate); reschedule inadequate prep within 12 months (screening) or 3 months (positive non-colonoscopy test); high-risk regimen: split-dose 4L PEG-ELS + bisacodyl 15mg + low-residue diet 3–2 days prior + clear liquids day before.
@@ -1303,6 +1429,7 @@ Sources covering topics where newer guidelines are already ingested (2025 versio
 **Source:** Rubin DT et al. Am J Gastroenterol 2025;120:1187–1224.
 
 **Pages created:**
+
 - `wiki/sources/acg-2025-uc.md`
 - `wiki/disease-scripts/colorectal-diseases/ulcerative-colitis.md`
 
@@ -1315,6 +1442,7 @@ Sources covering topics where newer guidelines are already ingested (2025 versio
 **Source:** Lichtenstein GR et al. Am J Gastroenterol 2025;120:1225–1264.
 
 **Pages created:**
+
 - `wiki/sources/acg-2025-crohns.md`
 - `wiki/disease-scripts/colorectal-diseases/crohns-disease.md`
 
@@ -1327,6 +1455,7 @@ Sources covering topics where newer guidelines are already ingested (2025 versio
 **Source:** Dellon et al. Am J Gastroenterol 2025;120 (January).
 
 **Pages created:**
+
 - `wiki/sources/acg-2025-eoe.md`
 - `wiki/disease-scripts/foregut-and-motility-diseases/esophageal/eosinophilic-esophagitis.md`
 
@@ -1339,6 +1468,7 @@ Sources covering topics where newer guidelines are already ingested (2025 versio
 **Source:** Kaltenbach et al. Am J Gastroenterol 2020;115:435–464.
 
 **Pages created:**
+
 - `wiki/sources/usmstf-2020-endoscopic-removal.md`
 - `wiki/advanced-gi-procedures/colorectal-procedures/polypectomy-emr.md`
 
@@ -1351,6 +1481,7 @@ Sources covering topics where newer guidelines are already ingested (2025 versio
 **Source:** Gupta et al. Am J Gastroenterol 2020;115:415–434.
 
 **Pages created/updated:**
+
 - `wiki/sources/usmstf-2020-followup-colonoscopy.md`
 - `wiki/general-gi-procedures/colonoscopy.md` — post-polypectomy surveillance tables
 
@@ -1363,6 +1494,7 @@ Sources covering topics where newer guidelines are already ingested (2025 versio
 **Source:** Patel et al. Am J Gastroenterol 2022;117:57–69 (published online Nov 2021).
 
 **Pages created/updated:**
+
 - `wiki/sources/usmstf-2021-crc-screening-age.md`
 - `wiki/general-gi-procedures/colonoscopy.md` — screening age section
 
@@ -1377,6 +1509,7 @@ Sources covering topics where newer guidelines are already ingested (2025 versio
 **Old structure:** `wiki/entities/conditions/`, `wiki/entities/drugs/`, etc.
 
 **New structure:**
+
 - `wiki/disease-scripts/foregut-and-motility-diseases/{esophageal,ge-junction,gastric}/`
 - `wiki/disease-scripts/colorectal-diseases/`
 - `wiki/disease-scripts/hepatopancreaticobiliary-diseases/`
@@ -1387,6 +1520,7 @@ Sources covering topics where newer guidelines are already ingested (2025 versio
 - `wiki/anatomy/`, `wiki/concepts/`, `wiki/sources/`, `wiki/syntheses/` (unchanged)
 
 **Files moved/updated:**
+
 - `wiki/entities/conditions/helicobacter-pylori-infection.md` → `wiki/disease-scripts/foregut-and-motility-diseases/gastric/helicobacter-pylori-infection.md` (reformatted to ADDT)
 - `CLAUDE.md` updated with new schema, ADDT template, diagnostic schema template
 - `wiki/index.md` updated to reflect new structure
@@ -1398,12 +1532,14 @@ Sources covering topics where newer guidelines are already ingested (2025 versio
 **Source:** ACG Clinical Guideline: Treatment of Helicobacter pylori Infection. Chey WD, Leontiadis GI, Howden CW, Moss SF. Am J Gastroenterol. 2017.
 
 **Pages created:**
+
 - `wiki/sources/acg-2017-hp-guidelines.md`
 - `wiki/entities/conditions/helicobacter-pylori-infection.md`
 - `wiki/concepts/test-and-treat.md`
 - `wiki/concepts/bismuth-quadruple-therapy.md`
 
 **Pages updated:**
+
 - `wiki/overview.md` — added H. pylori as foundational GI topic
 - `wiki/index.md` — added all new pages
 
@@ -1416,6 +1552,7 @@ Sources covering topics where newer guidelines are already ingested (2025 versio
 **Action:** Directory structure created, CLAUDE.md schema written, index.md and log.md initialized.
 
 **Structure:**
+
 - `raw/` — source documents (immutable)
 - `wiki/entities/` — conditions, drugs, procedures, anatomy
 - `wiki/concepts/` — pathophysiology and clinical frameworks

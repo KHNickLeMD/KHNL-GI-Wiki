@@ -8,6 +8,7 @@ sources: []
 ---
 
 ## Bibliographic Info
+
 - **Authors:** Singal AK, Wong RJ, Dasarathy S, Abdelmalek MF, Neuschwander-Tetri BA, Limketkai BN, Petrey J, McClain CJ
 - **Year:** 2025 (published online May 2, 2025)
 - **Journal:** Am J Gastroenterol 2025;120:950–972. doi:10.14309/ajg.0000000000003379
@@ -36,23 +37,28 @@ Key practical recommendations: small frequent meals + nighttime snack (7–10 PM
 ## Key Concepts (Table 3, Selected)
 
 **Assessment:**
+
 - All cirrhosis patients: assess for frailty and/or sarcopenia with appropriate diagnostic testing
 - BMI less informative than waist circumference for metabolic disease risk
 
 **Diet:**
+
 - Low-fructose diets recommended across all chronic liver disease severity levels
 - High-fructose/sucrose: potent hepatic de novo lipogenesis inducer; associated with MASLD/fibrosis dose-dependently
 
 **Malnutrition in cirrhosis:**
+
 - Malnutrition in hospitalized cirrhosis: higher mortality, length of stay, complications, and infections
 - Sarcopenia → worse outcomes before, during, and after liver transplantation; structured programs needed
 - Malnutrition more severe with greater fibrosis; extends from early MASLD to advanced ALD
 
 **Micronutrients:**
+
 - Zinc supplementation for hypozincemia or symptoms/signs of zinc deficiency
 - Vitamin D: limited evidence; supplement if level is low (bone and liver benefits possible)
 
 **Special populations:**
+
 - ALD/AAH: detailed dietary assessment; ensure adequate nutritional intake
 - MASH: lifestyle modification (diet + exercise) → decreases adverse clinical outcomes; independent of fibrosis severity
 - Free water restriction when Na <126 mEq/L in cirrhosis with fluid retention (ascites/edema)
@@ -79,9 +85,11 @@ Key practical recommendations: small frequent meals + nighttime snack (7–10 PM
 | Counsel cirrhosis patients on late evening snacks to improve BMI, lean muscle mass, and reduce ascites and HE risk | Strong | Moderate |
 
 ## Relevance to Wiki
+
 - Creates: `wiki/disease-scripts/hepatopancreaticobiliary-diseases/nutrition-in-liver-disease.md`
 
 ## Contradictions / Open Questions
+
 - Sodium restriction in cirrhosis with ascites: insufficient evidence for or against strict restriction despite widespread use
 - Vitamin E only for MASH without cirrhosis; not studied adequately in cirrhotic MASH
 - Coffee recommendation based on observational data (no RCTs); mechanism may include antioxidant/anti-inflammatory/antifibrotic effects

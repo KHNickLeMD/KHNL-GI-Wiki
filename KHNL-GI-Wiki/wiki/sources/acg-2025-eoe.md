@@ -8,6 +8,7 @@ sources: []
 ---
 
 ## Bibliographic Info
+
 - **Authors:** Dellon et al. (ACG)
 - **Year:** 2025
 - **Journal:** Am J Gastroenterol 2025;120 (January)
@@ -15,11 +16,13 @@ sources: []
 - **Note:** Comprehensive update covering diagnosis, treatment (PPI, STC, dietary, biologics, dilation), maintenance, monitoring, and pediatrics
 
 ## Summary
+
 Full update of ACG EoE guidelines. EoE defined as ≥15 eos/hpf on esophageal biopsy + esophageal symptoms + exclusion of other causes (including PPI-nonresponsive). Major updates: dupilumab FDA-approved 2022 (≥12y) and 2024 (1–11y); budesonide oral suspension (BOS) FDA-approved 2024; step-up diet approach (1FED/2FED before 6FED); maintenance therapy now strongly recommended.
 
 ## Key Findings / Claims
 
 ### Diagnostic Criteria
+
 - Symptoms of esophageal dysfunction + ≥15 eos/hpf (≥60 eos/mm²) on esophageal biopsy
 - Exclude other causes of esophageal eosinophilia (GERD, infection, IBD, achalasia, drug reaction)
 - PPI trial is part of diagnostic workup; PPI-responsive disease still diagnosed as EoE (no longer separate entity)
@@ -53,12 +56,14 @@ Full update of ACG EoE guidelines. EoE defined as ≥15 eos/hpf on esophageal bi
 ### Treatment Details
 
 **PPI**
+
 - High-dose bid × 8–12 weeks → endoscopy with biopsies
 - ~50% histologic remission; mechanism beyond acid suppression
 - Adults: omeprazole 20mg bid (or equivalent); children: 2mg/kg/day
 - Maintain long-term if effective (70–85% sustain remission at 1y)
 
 **Topical Steroids (STC)**
+
 - Histologic remission 60–70% across trials
 - **Budesonide oral suspension (BOS):** 2mg bid — FDA-approved 2024
 - **Budesonide orodispersible tablet (BOT):** 1mg bid — EMA-approved
@@ -68,6 +73,7 @@ Full update of ACG EoE guidelines. EoE defined as ≥15 eos/hpf on esophageal bi
 - Loss of response can occur over time; every-other-day dosing may not be effective
 
 **Dietary Elimination**
+
 | Diet | Foods Eliminated | Histologic Response |
 |---|---|---|
 | 1FED | Dairy only | 35–45% |
@@ -83,6 +89,7 @@ Full update of ACG EoE guidelines. EoE defined as ≥15 eos/hpf on esophageal bi
 - "Diet holidays" with bridge medical therapy may improve long-term adherence
 
 **Dupilumab (anti-IL-4Rα)**
+
 - FDA-approved: ≥12y (2022), 1–11y (2024)
 - Indication: PPI-nonresponder
 - Dosing: ≥40kg → 300mg SQ weekly; 30–<40kg → 300mg SQ q2w; 15–<30kg → 200mg SQ q2w
@@ -92,6 +99,7 @@ Full update of ACG EoE guidelines. EoE defined as ≥15 eos/hpf on esophageal bi
 - Cost and access are key barriers
 
 **Esophageal Dilation**
+
 - Indication: fibrostenotic EoE with dysphagia despite medical therapy
 - Goal: ≥16mm luminal diameter
 - Safety: 95% clinical improvement; perforation <0.5%; hospitalization <1%
@@ -100,6 +108,7 @@ Full update of ACG EoE guidelines. EoE defined as ≥15 eos/hpf on esophageal bi
 - Technique: start conservative, look for "dilation effect" (mucosal disruption), advance incrementally
 
 ### Maintenance
+
 - Virtually universal relapse (histologic and symptomatic) within weeks to months of stopping therapy
 - Fibrostenotic progression occurs with treatment interruptions
 - EoE does NOT resolve spontaneously ("atopic march" endpoint)
@@ -107,6 +116,7 @@ Full update of ACG EoE guidelines. EoE defined as ≥15 eos/hpf on esophageal bi
 - 2y gaps in care → increased risk of fibrostenosis
 
 ### Monitoring
+
 - Check response at **8–12 weeks** after starting PPI or STC or FED; 12–24 weeks for dupilumab
 - Assess: symptoms + EREFS + esophageal biopsies
 - Histologic goal: <15 eos/hpf
@@ -114,16 +124,19 @@ Full update of ACG EoE guidelines. EoE defined as ≥15 eos/hpf on esophageal bi
 - "Deep remission" = all 3 domains (symptoms, endoscopy, histology) — ideal but achieved in <10%
 
 ### Experimental/Future Agents
+
 - Cendakimab (anti-IL-13): phase 3 ongoing
 - Benralizumab, lirentelimab: complete eosinophil depletion but no symptom benefit in trials
 - Fluticasone dissolvable tablet: phase 3 ongoing
 - Mometasone-impregnated membrane: early trials
 
 ## Relevance to Wiki
+
 - Primary source for [[eosinophilic-esophagitis]] disease script
 - Informs [[wiki/advanced-gi-procedures/foregut-and-motility-procedures/esophageal-dilation]] (future page)
 
 ## Contradictions / Open Questions
+
 - PPI-responsive esophageal eosinophilia (PPIREE) no longer a separate entity — now considered EoE; may conflict with older sources
 - Optimal step-up diet sequence and endoscopy timing not settled
 - No validated noninvasive biomarkers for monitoring

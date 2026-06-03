@@ -12,6 +12,7 @@ sources: [acg-2016-acute-diarrhea]
 *Shigella* species (S. sonnei, S. flexneri, S. dysenteriae, S. boydei) cause classic bacillary dysentery. Extremely low infectious inoculum (10–200 organisms). High person-to-person transmission risk. Common cause of traveler's diarrhea and endemic diarrhea in developing regions. [[acg-2016-acute-diarrhea]]
 
 ## Key Points (ACG 2016)
+
 - **Antibiotic treatment:** Azithromycin is the treatment of choice due to widespread ampicillin and TMP-SMX resistance. *Shigella sonnei* has reduced azithromycin susceptibility emerging in the United States (surveillance data through 2016).
 - **Duration:** Single-dose or 3-day course standard for most *Shigella* species. *S. dysenteriae* may require 5 days.
 - **Fluoroquinolones:** Historically used; increasing resistance; azithromycin preferred.

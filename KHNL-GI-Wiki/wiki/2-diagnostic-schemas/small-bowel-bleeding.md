@@ -22,6 +22,7 @@ This guideline replaces the older term **"obscure GI bleeding (OGIB)"** with ana
 | **Obscure GI bleeding (OGIB)** | No source found after comprehensive evaluation including upper/lower scope, VCE/enteroscopy, and radiography |
 
 **Relationship to upper and lower GI bleeding:**
+
 - Compare with [[upper-gi-bleeding]] (source proximal to ampulla of Vater) and [[acute-lower-gi-bleeding]] (colonic source).
 - SBB occupies the "mid-GI" territory between these two.
 - Before attributing bleeding to the small bowel, upper and lower sources must be excluded — including second-look endoscopy if prior exams were incomplete.
@@ -49,18 +50,22 @@ This guideline replaces the older term **"obscure GI bleeding (OGIB)"** with ana
 | | | Hemosuccus entericus |
 
 ### Vascular Lesions (Most Common Overall)
+
 - **Angioectasia (angiodysplasia):** Most common cause of SBB across all age groups. Prevalence 24% in both VCE and DBE series. [[angioectasia]]
 - Risk factors for recurrent angioectasia bleeding: number of lesions, age >65, jejunal location, cardiac valvular disease, chronic renal failure, anticoagulant use, need for transfusion.
 - **[[heydes-syndrome]]:** Association of aortic stenosis + angioectasia, mediated by acquired type 2 von Willebrand deficiency from shear stress-induced vWF multimer cleavage. Left ventricular assist devices (LVADs) cause similar syndrome.
 
 ### Inflammatory
+
 - [[crohns-disease]]: SB Crohn's is a major cause in younger patients; CTE preferred before VCE if IBD suspected (risk of capsule retention).
 - NSAID ulcers: Major cause in older patients on NSAIDs/aspirin.
 
 ### Neoplastic
+
 - GI stromal cell tumor, lymphoma, carcinoid, adenocarcinoma, Dieulafoy's lesions — see also [[subepithelial-lesion]] for approach to SB masses.
 
 ### Previously Delisted Causes
+
 - **[[celiac-disease]]:** Prior guidelines listed celiac as a cause of SBB; the ACG 2015 guideline explicitly removes this, noting that celiac-associated iron-deficiency anemia results from malabsorption, not occult GI hemorrhage. Celiac should not be the primary diagnostic explanation for a small bowel bleeding workup.
 
 ---
@@ -78,6 +83,7 @@ This guideline replaces the older term **"obscure GI bleeding (OGIB)"** with ana
 ### Step 2: Small Bowel Evaluation (Figure 1 Algorithm)
 
 **Branch A — No suspected obstruction:**
+
 - Proceed to **[[capsule-endoscopy]] (VCE)** as first-line test. *(Strong/Moderate)*
 - VCE should be performed **within 48–72 h** of overt SBB for highest diagnostic yield.
 - If VCE positive → proceed to push or deep enteroscopy for therapy ± surgery ± IOE.
@@ -86,6 +92,7 @@ This guideline replaces the older term **"obscure GI bleeding (OGIB)"** with ana
   - If no: observation + iron supplements.
 
 **Branch B — Suspected obstruction (IBD, prior surgery, stenosis, prior radiation):**
+
 - Perform **CTE or MRE** before VCE. *(Strong/Very Low)*
 - If positive → further evaluation warranted → push/deep enteroscopy ± surgery.
 - If negative (no obstruction confirmed) → proceed to VCE.
@@ -102,6 +109,7 @@ This guideline replaces the older term **"obscure GI bleeding (OGIB)"** with ana
 8. In younger patients with negative VCE and enterography: **Meckel's scan** (⁹⁹ᵐTc-pertechnetate). *(Conditional/Very Low)*
 
 ### Step 4: Sub-Acute Ongoing Bleeding (Figure 3 Algorithm)
+
 1. Stabilize patient.
 2. Consider **VCE vs. CTE** (VCE if no obstruction; CTE if obstruction suspected or IBD).
 3. If positive → deep enteroscopy.
@@ -112,6 +120,7 @@ This guideline replaces the older term **"obscure GI bleeding (OGIB)"** with ana
 ## Key Tests
 
 ### Video Capsule Endoscopy (VCE) — [[capsule-endoscopy]]
+
 - **First-line test** for SBB after exclusion of upper/lower sources. *(Strong/Moderate)*
 - Evaluates 79–90% of small bowel; diagnostic yield 38–83% for suspected SBB.
 - Sensitivity 94–97%, specificity 83–100% for GI bleeding evaluation.
@@ -122,11 +131,13 @@ This guideline replaces the older term **"obscure GI bleeding (OGIB)"** with ana
 - Repeat VCE: beneficial when bleeding changes from occult to overt, or Hgb drops ≥4 g/dl; false-negative rate 11% for all SB findings, up to 19% for neoplasms.
 
 ### Push Enteroscopy
+
 - Extended upper endoscopy reaching 45–60 cm beyond Treitz with pediatric colonoscope or push enteroscope (~250 cm length).
 - Diagnostic yield 3–70% (majority of findings are vascular lesions).
 - Key role: second-look for proximal lesions missed by VCE; important because ~25% of "SBB" lesions are within reach of standard EGD. *(Strong/Very Low for proximal lesion concern)*
 
 ### Device-Assisted Enteroscopy (DAE) — [[device-assisted-enteroscopy]]
+
 - Collectively: double-balloon enteroscopy (DBE), single-balloon enteroscopy (SBE), and spiral enteroscopy.
 - Indicated when: (a) positive VCE requiring therapy; (b) VCE contraindicated; (c) negative VCE with high clinical suspicion; (d) active bleeding.
 - **Any method of DAE** has equivalent diagnostic yields. *(Strong/High)*
@@ -137,6 +148,7 @@ This guideline replaces the older term **"obscure GI bleeding (OGIB)"** with ana
 - Spiral enteroscopy: insertion faster than DBE; depth of insertion less than DBE; similar diagnostic and therapeutic yields.
 
 ### CT Enterography (CTE)
+
 - Preferred radiographic modality for SBB evaluation. *(Strong/Low; CT preferred over MR: Conditional/Very Low)*
 - Advantages over VCE: detects mural-based masses (sensitivity 9/9 vs. 3/9 in one series), guides deep enteroscopy approach, can screen for VCE contraindications.
 - Pooled diagnostic yield ~40% vs. ~53% for VCE (meta-analysis, 18 studies) — complementary, not equivalent.
@@ -144,6 +156,7 @@ This guideline replaces the older term **"obscure GI bleeding (OGIB)"** with ana
 - **Barium studies: do not use.** *(Strong/High)*
 
 ### CT Angiography (CTA)
+
 - For hemodynamically stable patients with active overt bleeding.
 - Pooled sensitivity 89%, specificity 85% (meta-analysis, 9 studies, n=198).
 - Detects bleeding at rates as slow as 0.3 ml/min.
@@ -151,12 +164,14 @@ This guideline replaces the older term **"obscure GI bleeding (OGIB)"** with ana
 - A negative CTA makes a subsequent positive conventional angiogram within 24 h unlikely.
 
 ### Tagged RBC Scintigraphy (⁹⁹ᵐTc-labeled RBCs)
+
 - Detects bleeding at 0.1–0.2 ml/min (lower threshold than angiography).
 - Wide range of sensitivities (33–93%), specificities (30–95%), and localization accuracy (19–100%).
 - Use: overt bleeding with slower rates when VCE/DBE not available; guides timing of conventional angiography.
 - Must monitor closely — take patient to angiography when active bleeding detected at scintigraphy.
 
 ### Conventional Angiography
+
 - Requires active bleeding ≥0.5–1.0 ml/min for detection.
 - Diagnostic yield 20–77% (mean ~50%) across multiple studies.
 - **Not a diagnostic test** in patients without overt bleeding. *(Conditional/Very Low)*
@@ -164,11 +179,13 @@ This guideline replaces the older term **"obscure GI bleeding (OGIB)"** with ana
 - Predictors of positive angiography: hemodynamic instability, transfusion ≥5 U, non-diverticular etiology, lower hemoglobin levels.
 
 ### Meckel's Scan (⁹⁹ᵐTc-pertechnetate)
+
 - Detects ectopic gastric mucosa in Meckel's diverticulum; most useful in younger patients.
 - Sensitivity 50–90%, specificity 9–95%; false positives from ulcers, AVM, intussusception, duplication cysts.
 - Use: younger patients with ongoing overt bleeding and negative VCE + enterography. *(Conditional/Very Low)*
 
 ### Intraoperative Enteroscopy (IOE)
+
 - Most reliable method for complete SB evaluation but highly invasive.
 - Diagnostic yield 58–88%; rebleeding up to 60%.
 - Mortality 17% — reserve for: recurrent bleeds requiring multiple transfusions/hospitalizations after comprehensive negative VCE + deep enteroscopy; patients in whom deep enteroscopy cannot be performed without lysis of adhesions. *(Strong/Low)*
@@ -179,17 +196,21 @@ This guideline replaces the older term **"obscure GI bleeding (OGIB)"** with ana
 ## Treatment
 
 ### Endoscopic Therapy
+
 - **Indicated** when a source is found on VCE/deep enteroscopy with significant ongoing anemia or active bleeding. *(Strong/Low)*
 - Preferred modality: **argon plasma coagulation (APC)** via deep enteroscopy (since 2001).
 - Rebleeding rate after endoscopic treatment of vascular SB lesions: 20–50% at medium-term follow-up (meta-analysis: pooled 34% at mean 22 months; 45% in subset with SB angioectasia only).
 
 ### Conservative Management (No Source Found)
+
 - Manage with **oral iron** or **IV iron infusion** based on severity/persistence of IDA. *(Strong/Very Low)*
 - A small vascular lesion found on VCE does not always require treatment. *(Strong/Very Low)*
 - If anemia worsens despite conservative management → repeat full diagnostic workup. *(Strong/Low)*
 
 ### Medical Therapy for Refractory/Recurrent Bleeding
+
 If bleeding persists or recurs and lesion cannot be localized: *(Strong/Moderate)*
+
 - **Somatostatin analogs (octreotide):** Depot octreotide LAR 90 mg monthly or lanreotide IM monthly for 12 months (range 6–36). Meta-analysis confirms benefit in reducing transfusion requirements; no placebo-controlled RCT with hard endpoints. Age >65, male sex, antiplatelet therapy, COPD, and chronic renal failure are predictors of poor response.
 - **Thalidomide (antiangiogenic):** One RCT — 71% of patients achieved ≥50% reduction in bleeding episodes vs. 4% on iron alone (p<0.001); 25 mg QID × 4 months with Hgb <8 g/dl entry criterion. Adverse effects in 73% (fatigue, constipation, somnolence). Off-label use — significant teratogenicity risk.
 - **Hormonal therapy (estrogen/progesterone):** NOT recommended — multicenter Spanish RCT showed no benefit vs. placebo. *(Evidence level: definitively resolved against)*
@@ -197,6 +218,7 @@ If bleeding persists or recurs and lesion cannot be localized: *(Strong/Moderate
 - **Anticoagulation/antiplatelet:** Discontinue if possible. *(Conditional/Very Low)*
 
 ### Surgical Therapy
+
 - **Last resort** or for refractory cases requiring lysis of adhesions for deep enteroscopy. *(Strong/Low)*
 - Greatly aided by presurgical **tattooing** of the bleeding site. *(Strong/Low)*
 - IOE available intraoperatively to localize and treat. *(Conditional/Low)*

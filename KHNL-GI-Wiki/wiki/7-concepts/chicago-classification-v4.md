@@ -12,6 +12,7 @@ sources: [chicago-v4-2021-esophageal-dysmotility, acg-2020-esophageal-physiologi
 Chicago Classification v4.0 (CC v4.0) is the international consensus framework for interpreting high-resolution manometry (HRM) and classifying esophageal motility disorders. It is the successor to CC v3.0 and was published in 2021 (Yadlapati et al., Neurogastroenterol Motil). All HRM diagnoses in the wiki use CC v4.0 nomenclature.
 
 Key advances over v3.0:
+
 1. Standardized protocol with supine + upright swallows + MRS + RDC
 2. Manufacturer-specific IRP thresholds (Medtronic vs. Laborie/Diversatek)
 3. EGJOO reclassified as always manometrically inconclusive — clinical and ancillary test correlation required
@@ -74,6 +75,7 @@ Elevated IRP (above these thresholds) = impaired EGJ relaxation = potential obst
 | **Ineffective esophageal motility (IEM)** | >70% ineffective swallows (failed or weak), OR ≥50% failed swallows |
 
 ### Normal Motility
+
 All metrics within normal ranges; no criteria for above disorders met.
 
 ---
@@ -83,6 +85,7 @@ All metrics within normal ranges; no criteria for above disorders met.
 **EGJOO is manometrically inconclusive by definition in CC v4.0.**
 
 A clinical EGJOO diagnosis requires ALL of:
+
 1. Elevated IRP (meeting manufacturer threshold) with preserved peristalsis
 2. Supportive symptoms (dysphagia or non-cardiac chest pain [NCCP])
 3. Positive ancillary testing: timed barium esophagram (TBE) showing retained contrast at 5 min, OR FLIP panometry showing elevated EGJ distensibility plateau

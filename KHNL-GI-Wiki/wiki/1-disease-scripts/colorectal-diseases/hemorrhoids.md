@@ -14,10 +14,12 @@ sources: [acg-2021-anorectal-disorders]
 **Hemorrhoids** are vascular cushions (anal cushions) in the anal canal. They become pathological (symptomatic hemorrhoids) when they bleed, enlarge, or prolapse. Diagnosis is clinical: history + anorectal examination (inspection + digital rectal exam + anoscopy/proctoscopy).
 
 **Internal hemorrhoids:** arise above the dentate line; covered by rectal mucosa. Cardinal signs:
+
 - Painless bright red rectal bleeding (on toilet paper, dripping into toilet, or coating stool)
 - Intermittent, reducible protrusion/prolapse
 
 **External hemorrhoids:** arise below the dentate line; covered by squamous epithelium. Usually painless unless thrombosed:
+
 - Acute thrombosed external hemorrhoid: sudden painful swelling at anal verge
 
 The diagnosis of symptomatic internal hemorrhoids requires exclusion of other sources of bleeding and protrusion. **Any rectal bleeding should prompt evaluation** to exclude colorectal cancer, particularly in patients ≥45 years or those with alarm features.
@@ -66,6 +68,7 @@ The diagnosis of symptomatic internal hemorrhoids requires exclusion of other so
 ### Conservative (All Grades — First Line)
 
 **Strong/Moderate recommendation (ACG 2021):**
+
 - Dietary modification: adequate fiber (20–30 g/day), increase fluid intake (6–8 glasses/day)
 - Stool softeners: PEG 3350 or docusate if constipation contributing
 - Sitz baths: symptomatic relief
@@ -86,6 +89,7 @@ The diagnosis of symptomatic internal hemorrhoids requires exclusion of other so
 ### Thrombosed External Hemorrhoids
 
 **Strong/Low recommendation:** Surgical excision or incision/drainage of clot when seen within **4 days** of onset — higher success rate with clot evacuation.
+
 - Excision (not incision) preferred: lower recurrence
 - After 4 days: conservative management (sitz baths, analgesia, stool softeners) as symptoms typically improving by then
 - Conservative management alone: acceptable; clot reabsorbs in 2–3 weeks but may leave skin tag
@@ -93,6 +97,7 @@ The diagnosis of symptomatic internal hemorrhoids requires exclusion of other so
 ### Surgery (Grade III–IV, Office Procedure Failures)
 
 **Traditional hemorrhoidectomy** remains the gold standard for Grade IV and refractory Grade III:
+
 - Open or closed technique
 - More painful than office procedures; 2–4 weeks recovery
 - Healing 94–98% with minimal recurrence

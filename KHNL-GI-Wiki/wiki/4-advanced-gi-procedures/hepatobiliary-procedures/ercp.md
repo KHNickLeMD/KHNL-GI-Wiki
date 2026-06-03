@@ -12,6 +12,7 @@ sources: []
 ## Indications
 
 **Biliary:**
+
 - Choledocholithiasis with cholangitis (emergent, <24h per ACG 2024 acute pancreatitis guidelines)
 - Common bile duct stones with obstruction
 - Biliary stricture evaluation and drainage — see [[biliary-stricture]]
@@ -19,11 +20,13 @@ sources: []
 - Primary sclerosing cholangitis — dominant stricture palliation
 
 **Pancreatic:**
+
 - Acute pancreatitis: ERCP only for **cholangitis** (emergent) or **persistent CBD obstruction** (not for all gallstone pancreatitis — ACG 2024; [[acute-pancreatitis]])
 - Chronic pancreatitis with pancreatic duct stones/stricture — see [[chronic-pancreatitis]]
 - Pancreatic leak/fistula
 
 **Tissue sampling:**
+
 - Perihilar cholangiocarcinoma: brush cytology + FISH + cholangioscopy at index ERCP (see [[biliary-stricture]])
 - Note: EUS-FNB preferred over ERCP sampling for extrahepatic strictures with pancreatic mass
 

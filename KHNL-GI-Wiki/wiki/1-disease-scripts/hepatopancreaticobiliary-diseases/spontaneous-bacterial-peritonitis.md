@@ -28,16 +28,19 @@ This threshold is chosen for maximal sensitivity to avoid undertreating SBP, as 
 | PMN ≥250/mm³ + multimicrobial or secondary peritonitis features | Evaluate for secondary bacterial peritonitis (surgical cause) |
 
 **Culture-negative SBP (culture-negative neutrocytic ascites):**
+
 - PMN ≥250/mm³ with no organism isolated
 - Treated identically to culture-positive SBP
 - Yield increased to >90% by inoculating ≥10 mL of ascitic fluid at the bedside directly into aerobic and anaerobic blood culture bottles before antibiotic administration
 
 **Spontaneous bacterial empyema (SBE):**
+
 - Same diagnostic threshold: pleural fluid PMN ≥250/mm³
 - Complication of hepatic hydrothorax (HH) — pleural fluid PMN ≥250 in the setting of HH
 - Managed with antibiotics same as SBP; chest tube placement should be avoided
 
 **When to perform diagnostic paracentesis:**
+
 - All cirrhotic patients emergently admitted to hospital — regardless of whether infection symptoms are present
 - Any cirrhotic patient with ascites developing fever, abdominal pain, encephalopathy, AKI, or jaundice
 - Any cirrhotic patient with ascites and AKI (to rule out SBP as precipitant)
@@ -46,6 +49,7 @@ This threshold is chosen for maximal sensitivity to avoid undertreating SBP, as 
 ### Severity Assessment
 
 Poor prognostic markers at diagnosis (predict AKI development and in-hospital mortality):
+
 - Serum creatinine >1.0 mg/dL or BUN >30 mg/dL
 - Serum bilirubin >5 mg/dL
 - Hemodynamic instability (hypotension, septic shock)
@@ -71,22 +75,26 @@ Infections in cirrhosis increase 10% mortality for every hour's delay in antibio
 ## Diagnostics
 
 **Ascitic fluid (essential):**
+
 - PMN count (cell count with differential)
 - Total protein
 - Albumin (for SAAG with simultaneous serum albumin)
 - Culture: bedside inoculation, ≥10 mL into aerobic AND anaerobic blood culture bottles, before first dose of antibiotics
 
 **Blood:**
+
 - Blood cultures (simultaneous with paracentesis — increases organism yield)
 - CBC, BMP (creatinine, BUN), LFTs, INR
 - Serum albumin (for SAAG and albumin dosing)
 - Serum bilirubin (guides albumin therapy indication)
 
 **Selective ascitic tests (not routine; obtain if secondary peritonitis suspected):**
+
 - LDH, glucose — if LDH elevated and glucose <50 mg/dL, strongly consider secondary peritonitis
 - Amylase — if pancreatitis suspected
 
 **Microbiology of SBP:**
+
 - ~60% gram-negative organisms (most common: E. coli, Klebsiella pneumoniae)
 - Gram-positive: Staphylococcus aureus, Enterococcus faecalis/faecium
 - MDRO increasingly prevalent, especially nosocomial and healthcare-associated SBP (MDROs represent ~35% of all cirrhosis infections overall)
@@ -94,6 +102,7 @@ Infections in cirrhosis increase 10% mortality for every hour's delay in antibio
 - Typically monobacterial; polymicrobial culture should prompt evaluation for secondary peritonitis
 
 **Response assessment:**
+
 - Repeat paracentesis/thoracentesis 48 hours after starting antibiotics
 - Adequate response: PMN decrease ≥25% from baseline
 - Inadequate response (PMN decrease <25%): broaden antibiotic spectrum; evaluate for secondary bacterial peritonitis with abdominal imaging
@@ -106,10 +115,12 @@ Infections in cirrhosis increase 10% mortality for every hour's delay in antibio
 ### Empiric Antibiotics
 
 **Community-acquired SBP / SBE — First Line:**
+
 - IV **cefotaxime 2 g every 12 hours** (or ceftriaxone equivalent)
 - Third-generation cephalosporins: resolution rate ~90% in community-acquired SBP
 
 **Nosocomial, healthcare-associated, ICU, or septic shock — Broaden Empirically:**
+
 - **Piperacillin/tazobactam** (anti-gram-negative + anaerobic coverage) PLUS
   - **Vancomycin** if known MRSA or prior MRSA infection/colonization, OR
   - **Daptomycin** if known VRE or positive VRE surveillance swab
@@ -125,16 +136,19 @@ Infections in cirrhosis increase 10% mortality for every hour's delay in antibio
 IV albumin prevents progression of AKI (the main driver of in-hospital mortality) by mechanisms beyond simple volume expansion.
 
 **Standard regimen:**
+
 - **Day 1:** 1.5 g/kg body weight IV
 - **Day 3:** 1.0 g/kg body weight IV
 
 **Patients who benefit most** (highest baseline AKI/decompensation risk):
+
 - Serum creatinine >1.0 mg/dL OR BUN >30 mg/dL
 - Serum bilirubin >5 mg/dL
 
 If following AKI protocol for albumin is preferred clinically, that approach is also appropriate (see [[aki-in-cirrhosis]]).
 
 ### Nonselective Beta-Blockers (NSBBs) During SBP
+
 - NSBBs do NOT need to be routinely discontinued at diagnosis of SBP
 - **Hold if:** mean arterial pressure <65 mmHg (hypotension/hemodynamic instability)
 - **Restart:** when systemic arterial blood pressure recovers
@@ -144,6 +158,7 @@ If following AKI protocol for albumin is preferred clinically, that approach is 
 ## SBP Prophylaxis
 
 ### Secondary Prophylaxis (Prevention of Recurrence)
+
 **Indication:** Prior documented episode of SBP
 
 Patients with prior SBP have ~68% 1-year recurrence rate without prophylaxis.
@@ -157,11 +172,13 @@ Patients with prior SBP have ~68% 1-year recurrence rate without prophylaxis.
 ### Primary Prophylaxis (Prevention of First Episode)
 
 **Indication 1 — Acute GI hemorrhage (cirrhosis):**
+
 - **IV ceftriaxone** for 5–7 days (until hemorrhage resolved and vasoactive drugs discontinued)
 - Reduces infections (including SBP) and improves survival
 - Rule out existing SBP/infection before initiating
 
 **Indication 2 — High-risk patients without prior SBP or acute hemorrhage:**
+
 - Low ascitic fluid protein (<1.5 g/dL) AND at least one of:
   - Child-Turcotte-Pugh >9 points with serum bilirubin >3 mg/dL
   - Serum creatinine >1.2 mg/dL, BUN >25 mg/dL, or serum Na <130 mEq/L
@@ -174,6 +191,7 @@ Patients with prior SBP have ~68% 1-year recurrence rate without prophylaxis.
 ---
 
 ## Related Pages
+
 - [[ascites]]
 - [[aki-in-cirrhosis]]
 - [[alcohol-associated-liver-disease]]

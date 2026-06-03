@@ -43,6 +43,7 @@ Rome V (2026) classifies **34 adult** and **22 pediatric** DGBI across anatomic 
 ### Pediatric DGBI (Categories G–H)
 
 Reorganized in Rome V from age-based (neonate/toddler vs. child/adolescent) to anatomically based:
+
 - **G. Pediatric upper DGBI:** Esophageal (G1), feeding disorders (G2), gastroduodenal (G3)
 - **H. Pediatric lower and biliary DGBI:** Abdominal pain disorders (H1), defecation/anorectal (H2), discomfort disorders (H3)
 
@@ -51,9 +52,11 @@ Reorganized in Rome V from age-based (neonate/toddler vs. child/adolescent) to a
 ## Rome V Diagnostic Criteria Framework
 
 ### Standard Rome V Research Criteria
+
 Used for clinical trials and research; require specific symptom frequency and 6-month duration threshold.
 
 ### Rome Clinical Criteria (New in Rome V)
+
 Designed for clinical practice. More inclusive than research criteria.
 
 | Criterion | Rome Clinical Criteria Rule |
@@ -89,6 +92,7 @@ Outcome
 ```
 
 **Key psychosocial principles:**
+
 1. Psychological stress exacerbates GI symptoms and may contribute to DGBI development (e.g., post-infection IBS)
 2. Psychological distress is strongly associated with DGBI — global study (N>54,000): 4.45× higher odds of DGBI in patients with psychological distress
 3. DGBI itself creates psychosocial consequences (chronic illness as stressor)
@@ -99,6 +103,7 @@ Outcome
 ## Brain–Gut Axis
 
 The neuroanatomic substrate connecting CNS (brain, spinal cord) and ENS (myenteric plexus) through:
+
 - Autonomic nervous system (sympathetic, parasympathetic)
 - Neuroendocrine and neurohumoral systems
 - Microbiome–gut–brain axis (emerging concept)
@@ -108,6 +113,7 @@ The neuroanatomic substrate connecting CNS (brain, spinal cord) and ENS (myenter
 **Key neurotransmitters:** Serotonin and noradrenaline — targets for neuromodulator treatment (TCAs, SNRIs).
 
 **Physiological mechanisms in DGBI:**
+
 - **Visceral hypersensitivity:** Lower pain threshold to balloon distension (visceral hyperalgesia) or increased sensitivity to normal GI function (allodynia)
 - **Abnormal motility:** Exaggerated motor response to psychological/physiological stressors
 - **Immune dysregulation/barrier dysfunction:** Mast cell activation, increased inflammatory cytokines → altered receptor sensitivity → visceral hypersensitivity; mucosal barrier dysfunction is a potential treatment target
@@ -136,21 +142,25 @@ The neuroanatomic substrate connecting CNS (brain, spinal cord) and ENS (myenter
 Severity-guided biopsychosocial approach:
 
 **Mild:**
+
 - Education (GI system is overly responsive to food, stress, hormones — legitimate disorder)
 - Reassurance based on patient concerns
 - Dietary modification; dietitian referral
 
 **Moderate:**
+
 - Symptom diary (1–3 weeks) to identify dietary/lifestyle/stress triggers
 - Pharmacotherapy directed at predominant symptoms (antispasmodics, loperamide acutely; secretagogues, neuromodulators continuously)
 - Brain–gut behavioral treatments: CBT, hypnosis, mindfulness
 
 **Severe:**
+
 - Ongoing therapeutic relationship; realistic treatment goals (improved QoL, not cure)
 - Central neuromodulators: TCAs (pain + depression), SNRIs; SSRIs ancillary (anxiety/depression but less effective for pain)
 - Multidisciplinary DGBI treatment center referral
 
 **Brain–gut behavioral treatments (all severities):**
+
 - Cognitive behavioral therapy
 - Gut-directed hypnotherapy
 - Mindfulness-based interventions

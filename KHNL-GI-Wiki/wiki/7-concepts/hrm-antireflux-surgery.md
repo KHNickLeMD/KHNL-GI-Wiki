@@ -40,6 +40,7 @@ The **Padova Consensus (2025)** — a 3-year, 29-expert international process us
 ### EGJ Barrier Assessment Pre-ARS
 
 The EGJ barrier should be characterized by:
+
 1. LES end-expiratory pressure
 2. LES baseline pressure
 3. EGJ-contractility index (EGJ-CI)
@@ -52,11 +53,13 @@ The EGJ barrier should be characterized by:
 ### Expected Manometric Changes After Successful Fundoplication
 
 A **successful fundoplication** on HRM shows:
+
 - Single distal HPZ (neo-LES) in appropriate infradiaphragmatic position
 - Appropriate relaxation of the neo-LES with swallowing (IRP within post-ARS range)
 - No neo-LES/CD separation
 
 **Post-ARS IRP norms differ from surgery-naive patients:**
+
 - Nissen fundoplication → higher EGJ pressures + higher IRP + higher contractility vs. partial wrap
 - Post-ARS IRP **<15 mmHg** (Medtronic catheter) = upper limit of normal post-ARS
 - Values above Chicago Classification 4.0 threshold (15 mmHg) may be normal after Nissen; interpret in post-ARS context
@@ -64,6 +67,7 @@ A **successful fundoplication** on HRM shows:
 ### PFOO — Post-Fundoplication Outflow Obstruction
 
 Defined by the **simultaneous** presence of:
+
 - Elevated intrabolus pressure (IBP)
 - Elevated IRP
 
@@ -130,15 +134,18 @@ Normal basal + Normal IRP + Intact/normal peristalsis
 ## Special Patterns
 
 ### Slipped Fundoplication
+
 - Dual HPZ: upper HPZ relaxes with swallowing, lower HPZ shows uniform (non-relaxing) pressure profile
 - Wrap has slipped distally below crural diaphragm
 - Clinical: recurrent GERD; may have some obstruction at wrap level
 
 ### Intrathoracic Wrap (Migrated Fundoplication)
+
 - Dual HPZ: lower HPZ displays **respiratory inversion** (intrathoracic pressure dynamics); upper HPZ (at or above hiatus) may relax
 - Clinical: recurrent GERD, ± dysphagia; often associated with paraesophageal hernia
 
 ### Pseudoachalasia Post-ARS
+
 - Presentation: progressive dysphagia, often with weight loss, resembling achalasia
 - Mechanism: chronic outflow obstruction from tight wrap → progressive motor failure → complete aperistalsis
 - Differentiate from missed achalasia by:
@@ -148,6 +155,7 @@ Normal basal + Normal IRP + Intact/normal peristalsis
   4. Timed barium esophagram at 1 and 5 minutes
 
 ### Post-ARS Dysphagia — Workup Algorithm
+
 - New dysphagia + normal endoscopy after ARS: **TBE + FLIP** first (93% consensus)
 - TBE: assesses emptying, identifies wrap morphology, column height
 - FLIP: quantifies EGJ opening (REO/NEO), localizes obstruction

@@ -8,6 +8,7 @@ sources: []
 ---
 
 ## Bibliographic Info
+
 - **Authors:** C. Prakash Gyawali, Dustin A. Carlson, Joan W. Chen, Amit Patel, Robert J. Wong, Rena H. Yadlapati
 - **Year:** 2020
 - **Journal/Publisher:** American Journal of Gastroenterology 2020;115:1412–1428
@@ -31,6 +32,7 @@ The guideline predates Lyon Consensus 2.0 (2024) and the Padova Consensus (2025)
 ## Key Findings / Claims
 
 ### Obstructive Symptoms
+
 - EGD is the mandatory first step before physiologic testing; HRM has suboptimal sensitivity (0.69) and specificity (0.50) for esophageal dysmotility when used as a screening tool without prior endoscopy
 - **Strong recommendation:** HRM over conventional line-tracing manometry for esophageal motility disorders (Moderate quality)
 - **Conditional recommendation:** Supplementary/provocative maneuvers (MRS, RDC, solid test meal) to improve diagnostic yield (Low quality)
@@ -40,6 +42,7 @@ The guideline predates Lyon Consensus 2.0 (2024) and the Padova Consensus (2025)
 - HRM shows higher inter-rater agreement and diagnostic accuracy vs. conventional manometry; novice and intermediate learners demonstrate superior accuracy with HRM (multicenter RCT of 247 patients)
 
 ### Typical Reflux Symptoms
+
 - GERD questionnaires have modest performance (GERDQ ≥9: 66% sensitivity, 64% specificity; GERD defined as any reflux esophagitis on EGD, AET >5.5%, or positive SAP); not adequate for a conclusive GERD diagnosis
 - Empiric PPI trial: 78% sensitivity but only 54% specificity for GERD; similarly limited for noncardiac chest pain (80% sensitivity)
 - Endoscopy: high specificity but low sensitivity for GERD; 20–30% of patients on partial PPI response have mucosal breaks on EGD
@@ -53,6 +56,7 @@ The guideline predates Lyon Consensus 2.0 (2024) and the Padova Consensus (2025)
 - Post-ARS: EGJ and gastric cardia anatomy should be inspected endoscopically ± radiographically for mechanical abnormalities
 
 ### Extraesophageal and Atypical Symptoms
+
 - Laryngoscopic findings (erythema, edema, postcricoid hyperplasia) have low specificity for GERD (~9% specificity); unreliable for establishing extraesophageal reflux diagnosis
 - **Strong recommendation:** Ambulatory reflux monitoring (pH impedance off acid suppression) over laryngoscopy for extraesophageal reflux diagnosis (Low quality)
 - **Conditional recommendation:** Upfront ambulatory reflux monitoring off PPI over empiric PPI trial for extraesophageal symptoms without concurrent typical reflux symptoms (Very low quality)
@@ -61,6 +65,7 @@ The guideline predates Lyon Consensus 2.0 (2024) and the Padova Consensus (2025)
 - **Supragastric belching:** pH impedance monitoring confirms diagnosis; supragastric belches identified in 48% of 50 consecutive reflux patients; sensitivity 93.4%, specificity 75%; positive predictive value 96.8%
 
 ### FLIP
+
 - FDA-approved tool measuring simultaneous pressure, cross-sectional area (CSA), and distensibility
 - Complementary to HRM, not a replacement; limited commercial availability outside specialized centers in 2020
 - Uses: (1) when HRM catheter placement fails; (2) borderline HRM findings/motility evaluation; (3) measure EGJ distensibility intraprocedurally during achalasia treatment; (4) possibly EoE fibrostenotic remodeling assessment (needs validation)

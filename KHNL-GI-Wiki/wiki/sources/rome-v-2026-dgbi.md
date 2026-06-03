@@ -8,6 +8,7 @@ sources: []
 ---
 
 ## Bibliographic Info
+
 - **Authors:** Douglas A. Drossman, Lin Chang, Jan Tack
 - **Year:** 2026
 - **Journal/Publisher:** Gastroenterology 2026;170:1083–1098
@@ -26,9 +27,11 @@ A key clinical innovation is the introduction of Rome Clinical Criteria — a re
 ## Key Findings / Claims
 
 **Nomenclature change:**
+
 - "Functional gastrointestinal disorder" entirely replaced by "disorders of gut–brain interaction" (DGBI); use of "functional" removed from diagnoses where possible (e.g., "functional constipation" → "chronic constipation"; "functional defecation disorders" removed)
 
 **Classification (Table 2 — Rome V Adult DGBI):**
+
 - **A. Esophageal:** A1 Functional chest pain, A2 Functional heartburn, A3 Reflux hypersensitivity, A4 Globus, A5 Functional dysphagia
 - **B. Gastroduodenal:** B1 Functional dyspepsia (B1a PDS, B1b EPS), B2 Nausea/vomiting disorders (B2a CNVS, B2b CVS, B2c CHS), B3 Belching disorders (B3a supragastric, B3b gastric, **B3c inability to belch** [new]), B4 Rumination syndrome
 - **C. Bowel:** C1 IBS (C1a–d), C2 Chronic constipation, C3 Functional diarrhea, C4 Functional abdominal bloating, C5 Unclassified bowel disorders, C6 Opioid-induced constipation
@@ -38,6 +41,7 @@ A key clinical innovation is the introduction of Rome Clinical Criteria — a re
 - **G–H:** Pediatric upper DGBI and pediatric lower/biliary DGBI (reorganized anatomically)
 
 **Rome Clinical Criteria (Table 3):**
+
 - Retain qualitative symptom features of Rome V
 - Require symptoms to be sufficiently bothersome (interfere with daily life or prompt care-seeking)
 - Frequency: lower than research threshold permitted
@@ -45,31 +49,37 @@ A key clinical innovation is the introduction of Rome Clinical Criteria — a re
 - Intended to capture the ~25% of the population with GI symptoms that do not meet full research criteria but have significant morbidity
 
 **IBS-specific criteria changes:**
+
 - "Abdominal discomfort" re-added to IBS criteria (was removed in Rome IV); recognizes cross-cultural variation in symptom expression
 - Frequency threshold lowered: ≥3 days/month in last 3 months (was ≥1 day/week); rationale — higher threshold caused prevalence to drop from ~10% to ~4%, excluding clinically meaningful patients
 - Added criterion: pain/discomfort should NOT be continuous (differentiates IBS from CAPS where pain is continuous)
 
 **IBS severity classification (Table 4):**
+
 - Mild (~40%): primarily bowel dysfunction, no significant psychosocial comorbidity, FBDSI <36, IBS-SSS 75–175
 - Moderate (~35%): bowel dysfunction + CNS pain dysregulation, moderate psychosocial distress, FBDSI 36–109
 - Severe (~25%): primarily CNS pain dysregulation, severe psychosocial distress, high comorbidity, FBDSI >109
 
 **Biopsychosocial model:**
+
 - Early life (genetics, culture, trauma, infection) → psychosocial factors (stress, personality, coping) + gut physiology (motility, visceral hypersensitivity, immune/microbiome/diet) → mutual interaction via brain–gut axis → DGBI presentation → outcome (healthcare utilization, QoL, function)
 - 41.4% of >50,000 worldwide sample met Rome criteria for ≥1 DGBI; additional ~25% had subdiagnostic GI symptoms with similarly poor QoL
 - Psychological distress present in 37.5% of global sample; 4.45× higher odds of DGBI
 
 **Brain–gut axis:**
+
 - Bidirectional CNS–ENS pathway; key neurotransmitters: serotonin and noradrenaline (targets for TCAs/SNRIs)
 - Gate control mechanism: brain modulates descending pain via anterior cingulate cortex; impaired down-regulation → lowered pain threshold in DGBI
 - Microbiome–gut–brain axis emerging as additional layer
 
 **Anorectal chapter changes:**
+
 - Dyssynergic defecation: now requires only 1 of 3 abnormal tests (balloon expulsion, manometry, or imaging); EMG dropped as criterion
 - "Functional defecation disorders" category removed (too broad; includes structural conditions)
 - Fecal incontinence: now requires ≥2 episodes (not "recurrent") for threshold
 
 **Gallbladder/SOD:**
+
 - Dysfunctional gallbladder disorder: cholescintigraphy no longer required for diagnosis; typical biliary pain sufficient as predictor of surgical response; watchful waiting preferred over immediate cholecystectomy
 - Sphincter manometry dropped from biliary and pancreatic SOD criteria (poor sensitivity/reproducibility)
 

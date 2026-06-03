@@ -8,6 +8,7 @@ sources: []
 ---
 
 ## Bibliographic Info
+
 - **Authors:** Gupta et al. (USMSTF)
 - **Year:** 2020
 - **Journal:** Am J Gastroenterol 2020;115:415–434
@@ -15,12 +16,15 @@ sources: []
 - **Type:** Consensus update (ACG, AGA, ASGE) — updates 2012 guidelines
 
 ## Summary
+
 Comprehensive update of post-colonoscopy surveillance intervals. Covers normal colonoscopy, adenoma surveillance (stratified by number, size, histology), and serrated polyp surveillance. Key changes from 2012: 1–2 small adenomas now 7–10y (extended from 5–10y); more granular serrated polyp recommendations. All recommendations assume high-quality colonoscopy (adequate ADR, complete to cecum, adequate prep, complete polypectomy).
 
 ## Key Findings / Claims
 
 ### Colonoscopy Quality Assumptions
+
 All recommendations require high-quality examination:
+
 - Complete to cecum with photo documentation
 - Adequate bowel prep (detect polyps >5mm)
 - Colonoscopist with ADR ≥30% (men), ≥20% (women)
@@ -56,6 +60,7 @@ All recommendations require high-quality examination:
 | Piecemeal resection of SSP ≥20mm | 6 mo |
 
 ### Serial Surveillance (Second Surveillance)
+
 Based on findings at baseline AND first surveillance:
 
 | Baseline | First Surveillance | Next Scope |
@@ -70,12 +75,14 @@ Based on findings at baseline AND first surveillance:
 *Advanced = adenoma ≥10mm, tubulovillous/villous, high-grade dysplasia, or 5–10 adenomas <10mm
 
 ### Key Evidence Points
+
 - Normal colonoscopy → 46% reduced incident CRC, 88% reduced fatal CRC at 10y follow-up
 - 1–2 small adenomas: risk of metachronous advanced neoplasia only marginally higher than no adenoma
 - Advanced adenoma: 2.2× increased CRC risk vs general population; surveillance reduces this to baseline
 - SSP + synchronous high-risk adenoma: 46% rate of high-risk adenoma on surveillance
 
 ### Definitions
+
 - **Normal:** No adenoma, SSP, TSA, HP ≥10mm, or CRC
 - **Advanced adenoma:** ≥10mm OR tubulovillous/villous OR HGD
 - **High-risk adenoma:** Advanced neoplasia OR ≥3 adenomas
@@ -111,10 +118,12 @@ Based on findings at baseline AND first surveillance:
 | Piecemeal resection of SSP >=20 mm: next surveillance in 6 months | Summary Statement | — |
 
 ## Relevance to Wiki
+
 - Primary source for [[colonoscopy]] post-polypectomy surveillance tables
 - Informs [[polypectomy-emr]] — piecemeal EMR follow-up
 
 ## Contradictions / Open Questions
+
 - Evidence for serrated polyp surveillance is largely very low quality
 - Uncertainty whether SSPs <10mm warrant 5y or 10y follow-up
 - Serial surveillance intervals still limited by retrospective data

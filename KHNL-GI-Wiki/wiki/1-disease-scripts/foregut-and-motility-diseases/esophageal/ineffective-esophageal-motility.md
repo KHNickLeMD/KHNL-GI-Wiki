@@ -14,12 +14,14 @@ sources: []
 ### Establishing the Diagnosis
 
 IEM is defined by **Chicago Classification v4.0** on [[high-resolution-manometry]]:
+
 - **≥70% ineffective swallows** (DCI <450 mmHg·s·cm), OR
 - **≥50% failed swallows** (DCI <100 mmHg·s·cm)
 
 **Chicago v4.0 revision:** Fragmented peristalsis was **eliminated** as a standalone disorder and absorbed into IEM. The thresholds above replaced the prior v3.0 criteria (>50% ineffective).
 
 **Clinical significance:** IEM is a minor motility disorder; most patients have mild or no symptoms. Clinical significance is primarily in:
+
 - Pre-anti-reflux surgery evaluation — impaired peristaltic reserve raises dysphagia risk post-wrap
 - Dysphagia workup when other causes excluded
 - Systemic disease associations (scleroderma, CREST syndrome can cause severe IEM → absent contractility)

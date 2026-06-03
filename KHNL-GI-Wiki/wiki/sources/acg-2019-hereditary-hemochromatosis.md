@@ -8,6 +8,7 @@ sources: []
 ---
 
 ## Bibliographic Info
+
 - **Authors:** Kris V. Kowdley, Kyle E. Brown, Joseph Ahn, Vinay Sundaram
 - **Year:** 2019
 - **Journal/Publisher:** American Journal of Gastroenterology 2019;114:1202–1218
@@ -31,16 +32,19 @@ Treatment is dominated by therapeutic phlebotomy — removing approximately 500 
 ## Key Findings / Claims
 
 **Screening**
+
 - Selective screening of first-degree relatives of HH patients is recommended (Strong/Moderate); general population screening is NOT recommended
 - HFE genotyping of children of C282Y homozygotes can be deferred until age 18; test the other parent first — if normal, child is obligate heterozygote
 
 **Genotype-Phenotype Correlation**
+
 - C282Y/C282Y (type 1A): ~1 in 200–400 northern Europeans; 75% biochemical penetrance in men, 50% in women; 28.4% of men develop iron overload-related disease (Melbourne Cohort)
 - C282Y/H63D (type 1B compound heterozygote): penetrance 0.5–2%; clinical disease rare unless cofactors (alcohol, HCV, NAFLD)
 - H63D and S65C homozygotes/heterozygotes without C282Y: NOT at increased risk of pathologic iron overload (Rec 3, Conditional/Very Low)
 - Non-HFE hemochromatosis (types 2A/2B/3/4): rare; type 2 (juvenile HH) onset <30 years with severe hypogonadism and cardiomyopathy
 
 **Diagnostic Testing**
+
 - TS ≥45% is the preferred initial screening test (identifies 97.9–100% of C282Y homozygotes); TS <45% + normal SF → no further evaluation
 - SF <200 ng/mL in premenopausal women or <300 ng/mL in men/postmenopausal women + TS <45% → negative predictive value 97% for excluding iron overload
 - SF <1,000 ng/mL in C282Y homozygotes with normal liver enzymes → liver biopsy not indicated (risk of advanced fibrosis <2%)
@@ -50,6 +54,7 @@ Treatment is dominated by therapeutic phlebotomy — removing approximately 500 
 - Against additional non-HFE genetic testing in patients with iron overload who are C282Y/H63D negative (Conditional/Very Low)
 
 **Treatment**
+
 - Phlebotomy first-line for C282Y homozygotes and C282Y/H63D compound heterozygotes (Strong/Moderate); goal SF 50–100 ng/mL
 - Induction: ~500 mL blood removed weekly (up to 1,000 mL if tolerated); check Hgb before each session — must remain >11 g/dL; check SF monthly
 - Maintenance: 3–4 phlebotomies per year to keep SF ~50 ng/mL
@@ -63,6 +68,7 @@ Treatment is dominated by therapeutic phlebotomy — removing approximately 500 
 - Liver transplantation: indicated for decompensated cirrhosis or HCC (Strong/Low); LT normalizes hepcidin levels and iron metabolism
 
 **Prognosis**
+
 - Cirrhosis at diagnosis is the critical determinant of prognosis; lifetime cirrhosis risk ~10% in untreated C282Y homozygous men
 - With cirrhosis, HCC accounts for ~45% of deaths in HH; 10-year HCC incidence 6–10%
 - SF >2,000 ng/mL = particularly high HCC risk

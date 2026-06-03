@@ -8,6 +8,7 @@ sources: []
 ---
 
 ## Bibliographic Info
+
 - **Authors:** Lauren B. Gerson, Jeff L. Fidler, David R. Cave, Jonathan A. Leighton
 - **Year:** 2015
 - **Journal/Publisher:** *The American Journal of Gastroenterology* 2015;110:1265–1287. doi:10.1038/ajg.2015.246
@@ -31,6 +32,7 @@ Therapeutically, endoscopic hemostasis (argon plasma coagulation preferred) is f
 ## All Recommendation Statements (Table 1 — Verbatim)
 
 ### Definition of Overt or Occult Small Bowel Bleeding — Summary Statements
+
 *(Summary statements are descriptive and carry no GRADE rating)*
 
 1. A source of small bowel bleeding should be considered in patients with overt or occult GI hemorrhage after performance of a normal upper and lower endoscopic examination.
@@ -40,6 +42,7 @@ Therapeutically, endoscopic hemostasis (argon plasma coagulation preferred) is f
 5. The term "obscure GI bleeding" should be reserved for patients not found to have a source of bleeding after performance of standard upper and lower endoscopic examinations, small bowel evaluation with VCE and/or enteroscopy, and radiographic testing.
 
 ### Epidemiology and Natural History — Summary Statements
+
 *(No GRADE ratings)*
 
 1. The type of lesion responsible for small bowel bleeding is dependent on patient age but not gender or ethnicity.
@@ -62,40 +65,42 @@ Therapeutically, endoscopic hemostasis (argon plasma coagulation preferred) is f
 
 ### Usage of Radiographic Examinations — Recommendations (Table 1, items 11–22)
 
-11. **Barium studies should not be performed** in the evaluation of small bowel bleeding. *(Strong recommendation, high level of evidence.)*
-12. **Computed tomographic enterography (CTE)** should be performed in patients with suspected small bowel bleeding and negative capsule endoscopy because of higher sensitivity for the detection of mural-based small bowel masses, superior capability to locate small bowel masses, and ability to guide subsequent deep enteroscopy. *(Strong recommendation, low level of evidence.)*
-13. **CT is preferred over magnetic resonance (MR) imaging** for the evaluation of suspected small bowel bleeding. MR can be considered in patients with contraindications for CT or to avoid radiation exposure in younger patients. *(Conditional recommendation, very low level of evidence.)*
-14. **CTE could be considered before VCE** in the setting of established inflammatory bowel disease, prior radiation therapy, previously small bowel surgery, and/or suspected small bowel stenosis. *(Strong recommendation, very low level of evidence.)*
-15. In patients with suspected small bowel bleeding and negative VCE examination, **CTE should be performed if there is high clinical suspicion for a small bowel source** despite the performance of a prior standard CT of the abdomen. *(Conditional recommendation, very low level of evidence.)*
-16. In acute overt massive GI bleeding, **conventional angiography should be performed emergently** for hemodynamically unstable patients. *(Strong recommendation, low level of evidence.)*
-17. In hemodynamically stable patients with evidence of active bleeding, **multiphasic CT (CTA) can be performed** to identify the site of bleeding and guide further management. *(Strong recommendation, low level of evidence.)*
-18. In patients with acute overt GI bleeding and slower rates of bleeding (0.1–0.2 ml/min), or uncertainty if actively bleeding, **tagged red blood cell (RBC) scintigraphy should be performed** if deep enteroscopy or VCE are not performed to guide timing of angiography. *(Strong recommendation, moderate level of evidence.)*
-19. In brisk active overt bleeding, **CTA is preferred over CTE**. *(Conditional recommendation, very low level of evidence.)*
-20. **Conventional angiography should not be performed** as a diagnostic test in patients without overt bleeding. *(Conditional recommendation, very low level of evidence.)*
-21. **Provocative angiography** can be considered in the setting of ongoing overt bleeding and negative VCE, deep enteroscopy, and/or CT examination. *(Conditional recommendation, very low level of evidence.)*
-22. In younger patients with ongoing overt bleeding and normal testing with capsule endoscopy and enterography examinations, **a Meckel's scan should be performed**. *(Conditional recommendation, very low level of evidence.)*
+1. **Barium studies should not be performed** in the evaluation of small bowel bleeding. *(Strong recommendation, high level of evidence.)*
+2. **Computed tomographic enterography (CTE)** should be performed in patients with suspected small bowel bleeding and negative capsule endoscopy because of higher sensitivity for the detection of mural-based small bowel masses, superior capability to locate small bowel masses, and ability to guide subsequent deep enteroscopy. *(Strong recommendation, low level of evidence.)*
+3. **CT is preferred over magnetic resonance (MR) imaging** for the evaluation of suspected small bowel bleeding. MR can be considered in patients with contraindications for CT or to avoid radiation exposure in younger patients. *(Conditional recommendation, very low level of evidence.)*
+4. **CTE could be considered before VCE** in the setting of established inflammatory bowel disease, prior radiation therapy, previously small bowel surgery, and/or suspected small bowel stenosis. *(Strong recommendation, very low level of evidence.)*
+5. In patients with suspected small bowel bleeding and negative VCE examination, **CTE should be performed if there is high clinical suspicion for a small bowel source** despite the performance of a prior standard CT of the abdomen. *(Conditional recommendation, very low level of evidence.)*
+6. In acute overt massive GI bleeding, **conventional angiography should be performed emergently** for hemodynamically unstable patients. *(Strong recommendation, low level of evidence.)*
+7. In hemodynamically stable patients with evidence of active bleeding, **multiphasic CT (CTA) can be performed** to identify the site of bleeding and guide further management. *(Strong recommendation, low level of evidence.)*
+8. In patients with acute overt GI bleeding and slower rates of bleeding (0.1–0.2 ml/min), or uncertainty if actively bleeding, **tagged red blood cell (RBC) scintigraphy should be performed** if deep enteroscopy or VCE are not performed to guide timing of angiography. *(Strong recommendation, moderate level of evidence.)*
+9. In brisk active overt bleeding, **CTA is preferred over CTE**. *(Conditional recommendation, very low level of evidence.)*
+10. **Conventional angiography should not be performed** as a diagnostic test in patients without overt bleeding. *(Conditional recommendation, very low level of evidence.)*
+11. **Provocative angiography** can be considered in the setting of ongoing overt bleeding and negative VCE, deep enteroscopy, and/or CT examination. *(Conditional recommendation, very low level of evidence.)*
+12. In younger patients with ongoing overt bleeding and normal testing with capsule endoscopy and enterography examinations, **a Meckel's scan should be performed**. *(Conditional recommendation, very low level of evidence.)*
 
 ### Treatment and Outcomes — Recommendations (Table 1, items 23–31)
 
-23. If a source of bleeding is found by VCE and/or deep enteroscopy in the small intestine that is associated with significant ongoing anemia or active bleeding, **the patient should be managed with endoscopic therapy**. *(Strong recommendation, low level of evidence.)*
-24. If after appropriate small bowel investigation **no source of bleeding is found**, the patient should be managed conservatively with oral iron or by intravenous infusion as is dictated by the severity and persistence of the associated iron-deficiency anemia. In this context, a small vascular lesion found on capsule endoscopy does not always need treatment. *(Strong recommendation, very low level of evidence.)*
-25. If bleeding persists in either of the above situations with worsening anemia, **a further diagnostic workup should include a repeated upper and lower endoscopy, VCE, deep enteroscopy, CT or MRI enterography** as is appropriate for the clinical situation and availability of investigative devices. *(Strong recommendation, low level of evidence.)*
-26. If bleeding persists or recurs or a lesion cannot be localized, **consideration may be given to medical treatment with iron, somatostatin analogs, or antiangiogenic therapy**. *(Strong recommendation, moderate level of evidence.)*
-27. **Anticoagulation and/or antiplatelet therapy should be discontinued** if possible in patients with small bowel hemorrhage. *(Conditional recommendation, very low level of evidence.)*
-28. **Surgical intervention** in massive small bowel bleeding may be useful, but is greatly aided with presurgical localization of the site of bleeding by **marking the lesion with a tattoo**. *(Strong recommendation, low level of evidence.)*
-29. **Intraoperative enteroscopy (IOE) should be available** at the time of the surgical procedure to provide assistance to localize the source of bleeding and to perform endoscopic therapy. *(Conditional recommendation, low level of evidence.)*
-30. Patients with **Heyde's syndrome** (aortic stenosis and angioectasia) and ongoing bleeding should undergo **aortic valve replacement**. *(Conditional recommendation, moderate level of evidence.)*
-31. For patients with **recurrence of small bowel bleeding**, endoscopic management can be considered depending on the patient's clinical course and response to prior therapy. *(Conditional recommendation, moderate level of evidence.)*
+1. If a source of bleeding is found by VCE and/or deep enteroscopy in the small intestine that is associated with significant ongoing anemia or active bleeding, **the patient should be managed with endoscopic therapy**. *(Strong recommendation, low level of evidence.)*
+2. If after appropriate small bowel investigation **no source of bleeding is found**, the patient should be managed conservatively with oral iron or by intravenous infusion as is dictated by the severity and persistence of the associated iron-deficiency anemia. In this context, a small vascular lesion found on capsule endoscopy does not always need treatment. *(Strong recommendation, very low level of evidence.)*
+3. If bleeding persists in either of the above situations with worsening anemia, **a further diagnostic workup should include a repeated upper and lower endoscopy, VCE, deep enteroscopy, CT or MRI enterography** as is appropriate for the clinical situation and availability of investigative devices. *(Strong recommendation, low level of evidence.)*
+4. If bleeding persists or recurs or a lesion cannot be localized, **consideration may be given to medical treatment with iron, somatostatin analogs, or antiangiogenic therapy**. *(Strong recommendation, moderate level of evidence.)*
+5. **Anticoagulation and/or antiplatelet therapy should be discontinued** if possible in patients with small bowel hemorrhage. *(Conditional recommendation, very low level of evidence.)*
+6. **Surgical intervention** in massive small bowel bleeding may be useful, but is greatly aided with presurgical localization of the site of bleeding by **marking the lesion with a tattoo**. *(Strong recommendation, low level of evidence.)*
+7. **Intraoperative enteroscopy (IOE) should be available** at the time of the surgical procedure to provide assistance to localize the source of bleeding and to perform endoscopic therapy. *(Conditional recommendation, low level of evidence.)*
+8. Patients with **Heyde's syndrome** (aortic stenosis and angioectasia) and ongoing bleeding should undergo **aortic valve replacement**. *(Conditional recommendation, moderate level of evidence.)*
+9. For patients with **recurrence of small bowel bleeding**, endoscopic management can be considered depending on the patient's clinical course and response to prior therapy. *(Conditional recommendation, moderate level of evidence.)*
 
 ---
 
 ## Key Findings / Claims
 
 **Terminology**
+
 - "Small bowel bleeding" replaces "obscure GI bleeding (OGIB)" as the preferred term when a small bowel source is identified; OGIB is reserved only for cases where no source is found after comprehensive evaluation including VCE/enteroscopy/radiography.
 - Three stages: potential SBB (post-upper/lower scope, pre-capsule) → SBB (source confirmed in SB) → OGIB (no source found after full evaluation).
 
 **Epidemiology and Causes**
+
 - SBB = ~5–10% of all GI bleeding presentations.
 - Most common cause overall: angioectasia (24% on VCE and DBE meta-analysis of 10 studies).
 - Under age 40: IBD and Meckel's diverticulum predominate; over age 40: angioectasia and NSAID ulcers.
@@ -103,6 +108,7 @@ Therapeutically, endoscopic hemostasis (argon plasma coagulation preferred) is f
 - LVAD-associated von Willebrand deficiency causes recurrent angioectasia bleeding.
 
 **Diagnostic Yields**
+
 - VCE: diagnostic yield 38–83% for suspected SBB; NPV 83–100%; sens/spec for GI bleeding 94–97%/83–100%.
 - DBE: diagnostic yield 60–80%; therapeutic success 40–73%.
 - Push enteroscopy: diagnostic yield 3–70%; most lesions found within reach of standard EGD (emphasizing second-look value).
@@ -111,11 +117,13 @@ Therapeutically, endoscopic hemostasis (argon plasma coagulation preferred) is f
 - IOE: diagnostic yield 58–88%; high mortality rate (17%) limits use to refractory cases.
 
 **Timing and Sequencing**
+
 - VCE within 48–72 h of overt suspected SBB has greatest lesion detection yield.
 - VCE-guided (targeted) DBE increases both diagnostic (73–93%) and therapeutic (57–73%) yield.
 - Repeat VCE may be beneficial, particularly when bleeding changes from occult to overt or Hgb drops ≥4 g/dl.
 
 **Treatment**
+
 - Argon plasma coagulation (APC) via DBE is the preferred endoscopic treatment modality since 2001.
 - Rebleeding after endoscopic treatment of vascular SB lesions: 20–50% at medium follow-up.
 - Somatostatin analogs (octreotide): pooled evidence supports reduction in transfusion requirements; no RCT vs. placebo with hard endpoints.

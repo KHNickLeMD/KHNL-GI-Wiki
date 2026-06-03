@@ -19,6 +19,7 @@ sources:
 Atrophic gastritis (AG) is a preneoplastic condition defined by loss of gastric glands — replaced by connective tissue (nonmetaplastic atrophy) or a non-native epithelium such as intestinal metaplasia or pseudopyloric metaplasia (metaplastic atrophy) — in a background of chronic inflammation. It represents an early committed step in the [[gastric-premalignant-conditions|Correa cascade]]: AG → intestinal metaplasia → dysplasia → gastric adenocarcinoma.
 
 Two dominant etiologies:
+
 - **H. pylori–associated atrophic gastritis (HpAG):** by far the most common
 - **Autoimmune gastritis (AIG):** corpus-predominant, driven by anti-parietal cell and anti-intrinsic factor autoantibodies
 
@@ -31,11 +32,13 @@ Intestinal metaplasia on gastric histopathology almost invariably implies underl
 ### Establishing the Diagnosis
 
 **Clinical presentation:**
+
 - Typically asymptomatic or nonspecific (dyspepsia, early satiety, epigastric discomfort)
 - Manifestations of micronutrient deficiency: fatigue, pallor (iron deficiency or B-12 deficiency), glossitis, peripheral neuropathy, macrocytic anemia
 - Pernicious anemia (PA) = late-stage AIG: macrocytic anemia + B-12 deficiency ± subacute combined degeneration
 
 **Who to suspect:**
+
 - Unexplained iron deficiency or vitamin B-12 deficiency
 - Non-White racial/ethnic minority or immigrant from high gastric cancer incidence region (East Asia, Latin America, Eastern Europe)
 - Established H. pylori infection (past or current)
@@ -50,15 +53,18 @@ Intestinal metaplasia on gastric histopathology almost invariably implies underl
 AG severity and extent determine gastric cancer risk. Two validated staging systems:
 
 **OLGA (Operative Link for Gastritis Assessment):**
+
 - Histopathologic severity of atrophy (score 0–3) in antrum/incisura and corpus
 - OLGA Stages III–IV = significantly elevated gastric cancer risk → surveillance indicated
 
 **OLGIM (Operative Link for Gastric Intestinal Metaplasia Assessment):**
+
 - Uses IM extent as surrogate for atrophy severity
 - Similar prognostic value to OLGA; better interobserver reproducibility
 - Limitation: may downstage patients with atrophy but limited IM
 
 **Kimura-Takemoto endoscopic classification (atrophic border extent):**
+
 - Closed type (C1–C3): limited to antrum/lesser curvature of proximal body
 - Open type (O1–O3): extends beyond cardia toward greater curvature
 - O2–O3 = extensive atrophy → significantly higher gastric cancer risk
@@ -93,16 +99,19 @@ AG severity and extent determine gastric cancer risk. Two validated staging syst
 ### Endoscopy
 
 **Endoscopic features of AG:**
+
 - Pale mucosa, increased submucosal vascular visibility, loss of gastric rugal folds
 - Kimura-Takemoto classification to document extent of atrophic border
 
 **Endoscopic features of IM (implies underlying AG):**
+
 - Light blue crest (LBC) sign: fine blue-white lines on epithelial surface crests (sensitivity/specificity ~90%)
 - White opaque substance (WOS/WOF): lipid droplet accumulation (specificity 100%, sensitivity ~50%)
 - Best visualized with NBI; near-focus HD-WLE adequate in the US where magnifying endoscopy is unavailable
 - HD-WLE with NBI: sensitivity 87%, specificity 97% for IM; 92%/99% for dysplasia
 
 **Technique:**
+
 - HD-WLE + NBI as standard
 - Mucosal cleansing: simethicone + 1% N-acetylcysteine pre-procedure
 - Systematic photographic documentation: cardia, fundus, lesser and greater curvature of corpus and antrum, incisura angularis, pylorus
@@ -111,6 +120,7 @@ AG severity and extent determine gastric cancer risk. Two validated staging syst
 ### Biopsy Protocol — Updated Sydney Protocol
 
 5 biopsies in separately labeled specimen jars:
+
 1. Antrum — lesser curvature (2–3 cm from pylorus)
 2. Antrum — greater curvature (2–3 cm from pylorus)
 3. **Incisura angularis** (do not skip — frequently involved in AG/IM)
@@ -124,12 +134,14 @@ Minimum acceptable: 2 jars (antrum/incisura; body). Additional targeted biopsies
 ### Serologic Workup
 
 **All AG patients:**
+
 - H. pylori testing
 - CBC (anemia evaluation)
 - Iron studies (ferritin, iron, TIBC)
 - Vitamin B-12
 
 **Suspected AIG:**
+
 - Parietal cell antibodies (PCA): most sensitive; false positives in H. pylori infection and other autoimmune diseases
 - Intrinsic factor antibodies (IFA): low sensitivity (<30%) but high specificity; confirms AIG when positive
 - TSH (screen for autoimmune thyroid disease in all AIG patients)
@@ -152,6 +164,7 @@ Test all AG patients for H. pylori regardless of etiology. If positive, treat an
 ### 2. Micronutrient Repletion
 
 Evaluate and treat proactively in all AG patients, especially corpus-predominant:
+
 - **Iron:** up to 50% of corpus-predominant AG have iron deficiency; often precedes B-12 deficiency; treat with oral or IV iron
 - **Vitamin B-12:** treat with IM or high-dose oral B-12; in pernicious anemia, IM injection is standard (absent intrinsic factor)
 

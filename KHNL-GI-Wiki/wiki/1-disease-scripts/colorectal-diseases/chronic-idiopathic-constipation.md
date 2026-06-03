@@ -14,6 +14,7 @@ sources: [aga-acg-2023-constipation, acg-2021-anorectal-disorders]
 **Chronic idiopathic constipation (CIC)** = chronic constipation without identifiable structural, metabolic, or pharmacologic cause. Diagnosis is clinical, based on symptom criteria.
 
 **Rome IV criteria for functional constipation** (at least 2 of the following for ≥6 months):
+
 - Straining during ≥25% of defecations
 - Lumpy or hard stools ≥25% of defecations
 - Sensation of incomplete evacuation ≥25% of defecations
@@ -22,6 +23,7 @@ sources: [aga-acg-2023-constipation, acg-2021-anorectal-disorders]
 - <3 spontaneous bowel movements per week
 
 **Exclusions (not CIC):**
+
 - IBS-C: abdominal pain is predominant (Rome IV: pain ≥1 day/week for ≥3 months)
 - Opioid-induced constipation (OIC)
 - Secondary causes: hypothyroidism, hypercalcemia, diabetes, Parkinson's disease, medications (opioids, anticholinergics, calcium channel blockers, iron, NSAIDs), pregnancy
@@ -29,6 +31,7 @@ sources: [aga-acg-2023-constipation, acg-2021-anorectal-disorders]
 ### Severity Assessment
 
 Assess impact on quality of life using validated tools (PAC-QoL, PAC-SYM) and stool diary (Bristol Stool Form Scale). Guide treatment escalation by:
+
 - Response to OTC agents (adequate vs. inadequate)
 - Presence of alarm features (see below)
 - Suspicion for defecation disorder (outlet dysfunction)
@@ -59,6 +62,7 @@ Assess impact on quality of life using validated tools (PAC-QoL, PAC-SYM) and st
 | Hirschsprung disease | Usually diagnosed in childhood; adult cases rare; suction rectal biopsy |
 
 **Alarm features requiring structural evaluation (colonoscopy):**
+
 - Age ≥45 with new-onset constipation and no prior colonoscopy
 - Rectal bleeding not explained by hemorrhoids
 - Unexplained weight loss ≥10 lbs
@@ -71,11 +75,13 @@ Assess impact on quality of life using validated tools (PAC-QoL, PAC-SYM) and st
 ## Diagnostics
 
 ### Initial Workup
+
 - TSH, calcium, metabolic panel — to exclude secondary causes
 - Stool diary (Bristol Stool Form Scale, frequency, Bristol 1–2 stools confirm hard/lumpy)
 - Review all medications
 
 ### Anorectal Physiology Testing (if outlet dysfunction suspected)
+
 - **Anorectal manometry (ARM):** measures resting tone, squeeze, push effort, rectoanal inhibitory reflex
 - **Balloon expulsion test (BET):** expulsion of 50 mL balloon within 1 minute (seated); abnormal >1 min; >2 min with Foley catheter = abnormal
 - **Defecography (barium or MRI):** for structural abnormalities (rectocele, prolapse) if ARM + BET discordant or biofeedback fails
@@ -86,6 +92,7 @@ Assess impact on quality of life using validated tools (PAC-QoL, PAC-SYM) and st
 ## Therapeutics
 
 ### Step 1: Lifestyle and Behavioral Measures
+
 - Adequate fluid intake (6–8 glasses daily)
 - Dietary fiber: goal 20–30 g/day; increase gradually to avoid bloating
 - Regular physical activity
@@ -113,15 +120,18 @@ Assess impact on quality of life using validated tools (PAC-QoL, PAC-SYM) and st
 | **Lubiprostone** | ClC-2 chloride channel activator | 24 mcg BID | Conditional/Low | ~$374 |
 
 **Notes on selection:**
+
 - Linaclotide and plecanatide: GC-C agonists; accelerate intestinal transit and secretion; diarrhea is main side effect; do not use in known or suspected GI obstruction; linaclotide 72 mcg also approved for CIC
 - Prucalopride: prokinetic; useful when colon transit is slow; avoid in renal failure (dose reduction)
 - Lubiprostone: FDA-approved for CIC in adults ≥18 years; nausea in 20–30%; limited by cost and need for BID dosing
 - IBS-C note: linaclotide 290 mcg, plecanatide 6 mg, and tegaserod (withdrawn in US) are IBS-C specific doses — do not apply this guideline to IBS-C
 
 ### Defecation Disorder: Biofeedback
+
 If defecation disorder is identified (abnormal ARM + BET), **biofeedback therapy** is first-line treatment (Strong/Moderate). Secretagogues and osmotic laxatives have limited efficacy in pure outlet dysfunction. See [[defecation-disorders]].
 
 ### Refractory/Slow-Transit Constipation
+
 - Colectomy with ileorectal anastomosis: last resort for refractory slow-transit constipation; patient selection critical; exclude outlet dysfunction and upper GI dysmotility first
 
 ---

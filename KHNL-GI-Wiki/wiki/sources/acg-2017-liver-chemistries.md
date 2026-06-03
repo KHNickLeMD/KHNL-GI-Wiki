@@ -8,6 +8,7 @@ sources: []
 ---
 
 ## Bibliographic Info
+
 - **Authors:** Paul Y. Kwo, Stanley M. Cohen, Joseph K. Lim
 - **Year:** 2017 (published online December 2016)
 - **Journal/Publisher:** The American Journal of Gastroenterology 2017;112:18–35
@@ -26,6 +27,7 @@ The guideline systematically reviews the diagnostic evaluation of the major spec
 ## Key Findings / Claims
 
 ### On Normal ALT Values
+
 - True healthy normal ALT: **29–33 IU/l for males, 19–25 IU/l for females** (multiple population studies excluding those with risk factors for liver disease)
 - Many laboratory ULN values are inaccurate because reference populations include subjects with NAFLD, alcohol use, and viral hepatitis
 - ALT elevates linearly with BMI; BMI correction should be considered
@@ -33,6 +35,7 @@ The guideline systematically reviews the diagnostic evaluation of the major spec
 - Even ALT in the "normal" laboratory range may be associated with increased liver-related mortality (NHANES data: ALT >30/19 IU/l in men/women associated with 11.2× increase in liver-related mortality)
 
 ### On Patterns of Elevation and the R-Value
+
 - **Hepatocellular pattern:** disproportionate ALT/AST elevation vs. alkaline phosphatase
 - **Cholestatic pattern:** disproportionate alkaline phosphatase elevation vs. ALT/AST
 - **Mixed pattern:** both alkaline phosphatase and AST/ALT elevated
@@ -43,6 +46,7 @@ The guideline systematically reviews the diagnostic evaluation of the major spec
 - ~90% of patients with alcoholic liver disease have AST>ALT; >70% have AST:ALT ratio >2
 
 ### Tiered AST/ALT Algorithm
+
 | Tier | Threshold | Initial Panel |
 |------|-----------|---------------|
 | Borderline | <2× ULN | History/PE, discontinue hepatotoxic meds/alcohol; CBC, AST/ALT, Alk Phos, TB, albumin, PT/INR, HBsAg, HBcAb, HBsAb, HCV Ab ± PCR, iron panel, abdominal US |
@@ -52,6 +56,7 @@ The guideline systematically reviews the diagnostic evaluation of the major spec
 | Massive | >10,000 IU/l | Same as severe; consider ischemic hepatopathy, acetaminophen overdose, rhabdomyolysis |
 
 ### On Alkaline Phosphatase
+
 - Confirm hepatic origin with GGT (alkaline phosphatase can come from bone, placenta, intestine, kidney)
 - GGT is not specific for liver disease — elevated in alcoholism, pancreatic disease, CHF, renal failure, emphysema, diabetes, and medications (phenytoin, barbiturates); do not use as standalone screening test
 - RUQ ultrasound once hepatic origin confirmed
@@ -62,6 +67,7 @@ The guideline systematically reviews the diagnostic evaluation of the major spec
 - Persistent elevation after 6 months observation → consider liver biopsy
 
 ### On Bilirubin
+
 - Repeat/confirm elevation; fractionate into conjugated (direct) and unconjugated (indirect)
 - Elevated **unconjugated** bilirubin: Gilbert syndrome (most common — 3–7% of US population; total bilirubin <6 mg/dl; UGT1A1 polymorphism), hemolysis, ineffective erythropoiesis
   - Gilbert's: asymptomatic indirect hyperbilirubinemia <4 mg/dl with normal transaminases and Alk Phos → presumptive diagnosis; further evaluation not routinely required
@@ -70,6 +76,7 @@ The guideline systematically reviews the diagnostic evaluation of the major spec
 - Delta bilirubin (conjugated bilirubin bound to albumin): prolonged jaundice during recovery; half-life 3 weeks
 
 ### Specific Disease Evaluations
+
 - **HCV:** anti-HCV sensitivity 92–97%; confirm chronic infection with HCV RNA; 1945–1965 birth cohort → universal screening (USPSTF); acute HCV: anti-HCV + HCV RNA
 - **HBV:** HBsAg for chronic; HBsAg + IgM HBc Ab for acute; screen highest-risk groups; quantitative HBV DNA, genotype, fibrosis assessment to guide treatment
 - **NAFLD/NASH:** diagnosis of exclusion; ultrasound for screening; FibroScan (FibroScan approved by FDA) for fibrosis; AST/ALT rarely >300 IU/l; ALT>AST typical; no unique elevation pattern
@@ -84,10 +91,12 @@ The guideline systematically reviews the diagnostic evaluation of the major spec
 - **Non-hepatic causes of elevated AST:** skeletal muscle damage, rhabdomyolysis, cardiac muscle, thyroid disease, strenuous exercise, heat stroke, hemolysis, adrenal insufficiency, Macro-AST
 
 ### On Liver Biopsy
+
 - Consider when serologic testing and imaging fails to establish diagnosis, to stage a condition, or when multiple diagnoses are possible (Strong/Very Low)
 - May confirm diagnosis of Wilson's (quantitative copper), hemochromatosis (hepatic iron index), alpha-1 antitrypsin deficiency (PAS-positive globules), NASH, AIH
 
 ### Acute Hepatitis / High-Urgency Presentations
+
 - Acute hepatitis with elevated prothrombin time and/or encephalopathy → **immediate referral to liver specialist** (Strong/Very Low)
 - Fulminant hepatic failure = rapid development of severe liver injury with prolonged PT and hepatic encephalopathy **without previous liver disease** → immediate evaluation regardless of ALT level
 

@@ -8,6 +8,7 @@ sources: []
 ---
 
 ## Bibliographic Info
+
 - **Authors:** Jophlin LL, Singal AK, Bataller R, Wong RJ, Sauer BG, Kamath PS, Shah VH
 - **Year:** 2024
 - **Journal/Publisher:** American Journal of Gastroenterology 2024;119:30–54

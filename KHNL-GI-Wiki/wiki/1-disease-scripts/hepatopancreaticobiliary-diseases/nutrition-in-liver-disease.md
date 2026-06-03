@@ -16,6 +16,7 @@ Malnutrition (most commonly sarcopenia) is a common complication of liver diseas
 ## Assessment
 
 ### Who to Assess
+
 - **All patients with cirrhosis** — assess for frailty and/or sarcopenia at diagnosis and periodically
 - **Hospitalized cirrhosis** — assess and address nutritional status early
 - **Alcohol-associated hepatitis (AAH)** — detailed dietary assessment essential
@@ -34,6 +35,7 @@ Malnutrition (most commonly sarcopenia) is a common complication of liver diseas
 | Serum albumin/prealbumin | Unreliable as nutritional markers (synthesized by liver) |
 
 ### Definitions
+
 - **Sarcopenia:** loss of skeletal muscle mass ± contractile strength; most consequential phenotype of malnutrition in liver disease
 - **Sarcopenic obesity:** muscle loss + excess fat; adverse outcomes from both components
 - **Cachexia:** malnutrition + inflammation; combination of muscle + fat loss
@@ -43,6 +45,7 @@ Malnutrition (most commonly sarcopenia) is a common complication of liver diseas
 ## Differential Diagnosis
 
 Malnutrition in liver disease is multifactorial:
+
 - Poor food availability/quality; anorexia; altered taste/smell
 - Nausea, vomiting, delayed gastric emptying
 - Diarrhea/malabsorption/bacterial overgrowth
@@ -57,12 +60,14 @@ Malnutrition in liver disease is multifactorial:
 ## Diagnostics
 
 ### Labs
+
 - CBC, CMP (albumin reflects synthetic function, not nutritional status)
 - Zinc level (hypozincemia common in cirrhosis)
 - Vitamin D level
 - Consider: ammonia (in HE management context)
 
 ### Imaging
+
 - CT scan at L3: extract skeletal muscle and fat mass index (if available)
 
 ---
@@ -70,6 +75,7 @@ Malnutrition in liver disease is multifactorial:
 ## Therapeutics
 
 ### Core Nutritional Principles (Stable Outpatient Cirrhosis)
+
 - **Small frequent meals** — avoid prolonged fasting (depleted glycogen → starvation within hours)
 - **Late evening snack (7–10 PM):** counsel all cirrhotics — improves BMI, lean muscle mass, reduces risk of ascites and HE (Strong/Moderate) [[acg-2025-liver-nutrition]]
 - **Coffee ≥2 cups/day** — reduces hepatic fibrosis progression and HCC development risk (Conditional/Low)
@@ -86,15 +92,18 @@ Malnutrition in liver disease is multifactorial:
 ### Disease-Specific Nutritional Recommendations
 
 **MASH without cirrhosis:**
+
 - Natural vitamin E 800 IU/day (Conditional/Low) — reduces hepatic inflammation; not studied in MASH with cirrhosis
 - Lifestyle modification (diet + exercise): recommended independently of disease severity (Conditional/Low)
 
 **Hepatic Encephalopathy (HE):**
+
 - **Do NOT restrict dietary protein** in decompensated cirrhosis with HE (Conditional/Very low) — protein restriction worsens sarcopenia without improving HE
 - Vegetable-source protein preferred over animal protein in HE with nutritional supplementation — better tolerated (Conditional/Low)
 - **Branched chain amino acids (BCAAs) + standard of care** (lactulose + rifaximin): augments efficacy; recommend when available (Strong/Moderate)
 
 **Fluid/electrolyte management:**
+
 - Ascites/edema with serum Na <126 mEq/L: free water restriction appropriate
 - Sodium restriction: insufficient evidence to recommend strict restriction in ascites on diuretics (no recommendation)
 
@@ -119,4 +128,5 @@ Malnutrition in liver disease is multifactorial:
 ---
 
 ## See Also
+
 - [[acg-2025-liver-nutrition]] — source guideline (Singal et al. 2025)

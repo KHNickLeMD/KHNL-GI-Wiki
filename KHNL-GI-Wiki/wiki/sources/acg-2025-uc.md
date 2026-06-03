@@ -8,6 +8,7 @@ sources: []
 ---
 
 ## Bibliographic Info
+
 - **Authors:** Rubin DT, Ananthakrishnan AN, Siegel CA, Barnes EL, Long MD (ACG)
 - **Year:** 2025
 - **Journal:** Am J Gastroenterol 2025;120:1187–1224
@@ -15,6 +16,7 @@ sources: []
 - **Type:** Clinical guideline (ACG) — update to 2019 guideline; 38pp; 54 GRADE recommendations + 57 key concepts
 
 ## Summary
+
 Comprehensive update of ACG UC guideline. Major additions vs 2019: S1P modulators (ozanimod, etrasimod) now recommended; IL-23 inhibitors (guselkumab, mirikizumab, risankizumab) all recommended; upadacitinib (JAK-1) strongly recommended; vedolizumab explicitly preferred over adalimumab (VARSITY trial); IUS formally recognized as monitoring tool; ASUC section updated. Prioritizes direct RCT evidence over network meta-analyses.
 
 ## Key Findings / Claims
@@ -22,6 +24,7 @@ Comprehensive update of ACG UC guideline. Major additions vs 2019: S1P modulator
 ### All 54 GRADE Recommendations (Table 2)
 
 **Diagnosis/Assessment**
+
 1. Stool testing to rule out C. difficile in suspected UC — Strong, Very Low
 2. Against serologic antibody testing to establish/rule out UC diagnosis — Strong, Very Low
 3. Against serologic antibody testing to determine prognosis — Strong, Very Low
@@ -105,6 +108,7 @@ Comprehensive update of ACG UC guideline. Major additions vs 2019: S1P modulator
 | UCEIS | 0–1 | 2–4 | 5–8 | 7–8 |
 
 ### Poor Prognostic Factors (Table 8) → Treat as Moderate-Severe
+
 - Age <40 at diagnosis
 - Extensive colitis
 - Severe endoscopic disease (MES 3, UCEIS ≥7)
@@ -113,11 +117,13 @@ Comprehensive update of ACG UC guideline. Major additions vs 2019: S1P modulator
 - Low serum albumin
 
 ### Fecal Calprotectin Thresholds
+
 - <60 μg/g: deep remission
 - <187 μg/g: mucosal healing
 - >321 μg/g (in clinical remission): increased relapse risk at 6–12 months
 
 ### Intestinal Ultrasound (IUS) — New in 2025 Guidelines
+
 - Bowel wall thickness (BWT) ≤3mm (colonic), ≤4mm (rectal) = remission
 - Pooled sensitivity 85%, specificity 92% vs endoscopy
 - Can detect treatment response as early as 2 weeks
@@ -145,6 +151,7 @@ Comprehensive update of ACG UC guideline. Major additions vs 2019: S1P modulator
 | Upadacitinib | 45 mg PO daily × 8wk | 15–30 mg PO daily |
 
 ### ASUC Management Summary
+
 1. **Assess:** Flex sig within 24–72h; CMV biopsies; toxic megacolon check
 2. **Supportive:** DVT prophylaxis; avoid NSAIDs/narcotics/anticholinergics; no bowel rest
 3. **Induction:** IVCS (methylprednisolone 60 mg/day OR hydrocortisone 100mg TID/QID)
@@ -155,6 +162,7 @@ Comprehensive update of ACG UC guideline. Major additions vs 2019: S1P modulator
 8. **NOT enough data for tofacitinib/upadacitinib** after IVCS failure in ASUC
 
 ### Key Positioning Points
+
 - **Vedolizumab > adalimumab** as advanced therapy (VARSITY trial; Rec 45)
 - **Infliximab preferred anti-TNF** (Key concept 45); combo with thiopurine required (Rec 33)
 - **Primary nonresponse to anti-TNF:** switch class, not cycling within anti-TNF
@@ -230,10 +238,12 @@ Comprehensive update of ACG UC guideline. Major additions vs 2019: S1P modulator
 | Use vedolizumab for maintenance after cyclosporine-induced remission | Conditional | Very Low |
 
 ## Relevance to Wiki
+
 - Primary source for [[ulcerative-colitis]] disease script
 - Complements [[crohns-disease]] (same GRADE framework, different agents/strategy)
 
 ## Contradictions / Open Questions
+
 - Vedolizumab preferred over adalimumab but not over infliximab — head-to-head data with IFX limited
 - Optimal sequencing after biologic failure not defined; network meta-analyses insufficient per guideline
 - Histologic remission not yet a validated treatment target (prognostic value established)

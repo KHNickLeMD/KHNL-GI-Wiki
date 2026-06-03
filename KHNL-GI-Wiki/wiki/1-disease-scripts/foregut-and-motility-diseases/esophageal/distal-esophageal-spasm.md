@@ -14,6 +14,7 @@ sources: []
 ### Establishing the Diagnosis
 
 Distal esophageal spasm (DES) is defined by **Chicago Classification v4.0** criteria on [[high-resolution-manometry]]:
+
 - ≥20% premature (spastic) contractions with DCI >450 mmHg·s·cm
 - IRP normal (unlike achalasia — see [[achalasia]])
 

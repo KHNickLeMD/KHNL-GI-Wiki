@@ -14,12 +14,14 @@ sources: [acg-2021-dili, acg-2017-liver-chemistries]
 **Idiosyncratic DILI** = hepatotoxicity affecting only susceptible individuals; less dose-dependent; variable latency; more varied clinical presentation than intrinsic DILI (e.g., acetaminophen). DILI is a **diagnosis of exclusion** — competing etiologies must be systematically ruled out first.
 
 **Core diagnostic steps:**
+
 1. Thorough medication and HDS (herbal/dietary supplement) history — timing, latency, dose, all concurrent medications
 2. Calculate R-value to classify injury pattern
 3. Systematic exclusion of competing etiologies based on R-value
 4. Causality assessment (RUCAM score as framework)
 
 **R-value = (ALT/ULN) ÷ (Alk P/ULN):**
+
 - R ≥5: **hepatocellular** pattern
 - R ≤2: **cholestatic** pattern
 - R 2–5: **mixed** pattern
@@ -27,12 +29,14 @@ sources: [acg-2021-dili, acg-2017-liver-chemistries]
 ### Severity Assessment
 
 **Hy's Law** — approximately 10% mortality if ALL three criteria met:
+
 1. Serum ALT or AST >3× ULN
 2. Serum total bilirubin elevated >2× ULN
 3. No cholestasis (elevated alkaline phosphatase is absent as primary finding)
 4. No other reason for the combination
 
 **Severity grades (DILIN criteria):**
+
 - Mild: ALT/Alk P elevated but bilirubin and INR normal
 - Moderate: bilirubin elevated or symptomatic hospitalization
 - Severe: Hy's law criteria, transplant listed, or prolonged hospitalization
@@ -72,6 +76,7 @@ sources: [acg-2021-dili, acg-2017-liver-chemistries]
 ### Minimum Diagnostic Evaluation (ACG 2021)
 
 **History elements:**
+
 - All medications (including OTC), HDS products — start/stop dates, latency
 - Concomitant diseases (sepsis, heart failure, parenteral nutrition)
 - Prior drug reactions
@@ -79,6 +84,7 @@ sources: [acg-2021-dili, acg-2017-liver-chemistries]
 - Presence of rechallenge
 
 **Laboratory:**
+
 - Viral serologies: anti-HAV IgM, HBsAg, anti-HBc IgM, **anti-HCV + HCV RNA**, anti-HEV IgM (if clinically indicated)
 - Autoimmune: ANA, anti-smooth muscle antibody (ASMA), IgG
 - Metabolic: ceruloplasmin (if <40 years or atypical)
@@ -87,13 +93,16 @@ sources: [acg-2021-dili, acg-2017-liver-chemistries]
 **Imaging:** Abdominal ultrasound ± Doppler ± CT/MRI for cholestatic DILI or unexplained hepatomegaly
 
 ### Causality Assessment — RUCAM
+
 Roussel Uclaf Causality Assessment Method — scoring system (−10 to +14):
+
 - ≤0: excluded; 1–2: unlikely; 3–5: possible; 6–8: probable; ≥9: highly probable
 - Scores timing of drug start/stop relative to liver enzyme onset and recovery, risk factors, competing diagnoses, prior reports, rechallenge
 - **Suboptimal reliability (reliability coefficient 0.51)** — use as framework to organize history, not as standalone diagnostic tool
 - Expert consensus opinion is gold standard but not feasible outside DILIN centers
 
 ### Liver Biopsy Indications (Conditional unless specified)
+
 - AIH remains on differential + immunosuppression being considered: **Strong/Low**
 - Unrelenting rise in liver biochemistries despite stopping agent: Conditional/Low
 - ALT not fallen >50% at 30–60 days (hepatocellular): Conditional/Low
@@ -106,11 +115,13 @@ Roussel Uclaf Causality Assessment Method — scoring system (−10 to +14):
 ## Therapeutics
 
 ### Immediate Management
+
 1. **Stop all suspected offending agents** (Strong/Low): especially if liver biochemistries rising rapidly or evidence of liver dysfunction
 2. Stop all HDS products (Strong/Low)
 3. Monitor liver biochemistries serially; hospitalize if Hy's law criteria or worsening
 
 ### Treatment of DILI-Associated ALF
+
 - **N-acetylcysteine (NAC)** for early ALF (coma grade I–II): Conditional/Low
   - DILI-ALF RCT: transplant-free survival 58% (NAC) vs 27% (placebo) in early coma grade patients
   - **Against NAC for children with severe DILI-ALF**: Conditional/Low
@@ -118,22 +129,26 @@ Roussel Uclaf Causality Assessment Method — scoring system (−10 to +14):
 - **Liver transplant evaluation**: Strong recommendation — for DILI-induced ALF or severe cholestatic injury from HDS, promptly refer
 
 ### Corticosteroids
+
 - No RCT evidence for or against corticosteroids in DILI
 - **May be considered for DILI exhibiting AIH-like features**: Conditional/Low
 - Early ALT response to steroids may help distinguish AIH from DILI-AIH overlap
 
 ### Rechallenge
+
 - **Strongly against rechallenge** with drug likely to have caused hepatotoxicity if initial injury was significant (>5× ULN ALT, Hy's law, or jaundice): Strong/Low
 - Exception: life-threatening situations with no suitable alternative (chemotherapy, anti-TB)
 - Educate patient with medical alert bracelet/card
 
 ### ICI Hepatotoxicity Management
+
 - Withhold/delay ICI for moderate-severe hepatotoxicity
 - Corticosteroids (prednisone 0.5–1 mg/kg or methylprednisolone IV for severe)
 - Mycophenolate mofetil for steroid-refractory ICI hepatotoxicity
 - Screen HBV/HCV before ICI initiation; prophylaxis for reactive serology
 
 ### DILI in Chronic Liver Disease (CLD)
+
 - High index of suspicion; exclude common CLD exacerbation triggers first (Strong/Low)
 - DILI in CLD carries higher mortality (16% vs 5.2% in DILIN)
 - Risk-benefit assessment for continuing hepatotoxic drugs in CLD patients: Conditional/Low

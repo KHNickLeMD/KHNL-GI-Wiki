@@ -60,15 +60,19 @@ Laboratory ULN values for ALT are unreliable — they are set from populations t
 ### Causes of Elevated AST and ALT (Table 4 from guideline)
 
 **Hepatic causes (generally AST>ALT):**
+
 - Alcoholic liver disease, cirrhosis (any etiology), ischemic hepatitis, congestive hepatopathy, acute Budd-Chiari syndrome, TPN
 
 **Hepatic causes (generally ALT>AST):**
+
 - MASLD (steatosis/MASH), chronic and acute viral hepatitis, medications/DILI, hemochromatosis, AIH, Wilson's disease, alpha-1 antitrypsin deficiency, celiac disease, HELLP, acute fatty liver of pregnancy, sepsis, hemophagocytic lymphohistiocytosis
 
 **Non-hepatic causes:**
+
 - Skeletal muscle damage/rhabdomyolysis, cardiac muscle damage, thyroid disease, Macro-AST, strenuous exercise, heat stroke, hemolysis, adrenal insufficiency
 
 **AST:ALT ratio clues:**
+
 - AST:ALT ≥ 2:1 (especially ≥3:1): strongly suggests [[alcohol-associated-liver-disease]]
 - ~90% of alcoholic liver disease patients have AST>ALT; >70% have ratio >2
 - ALT > AST: most other liver conditions (MASLD, chronic viral hepatitis)
@@ -77,20 +81,24 @@ Laboratory ULN values for ALT are unreliable — they are set from populations t
 ### Causes of Elevated Alkaline Phosphatase
 
 **Hepatobiliary:**
+
 - Bile duct obstruction (choledocholithiasis, malignant obstruction, bile duct flukes), bile duct stricture, AIDS cholangiopathy, PBC, [[primary-sclerosing-cholangitis]], medications/DILI, infiltrative liver diseases (sarcoid, TB, amyloid, metastatic cancer, lymphoma), hepatic abscess, hepatocellular carcinoma, vanishing bile duct syndrome, ischemic cholangiopathy, alcoholic hepatitis, hepatic allograft rejection, sickle cell liver crisis, sepsis, congestive hepatopathy
 
 **Non-hepatic:**
+
 - Bone disease (osteomalacia, Paget's disease, primary bony malignancy, bony metastases), hyperthyroidism, hyperparathyroidism, pregnancy (third trimester), chronic renal failure, lymphoma, extra-hepatic malignancy, congestive heart failure, childhood growth, inflammation, blood type O and B (post-fatty meal), increasing age especially women
 
 ### Causes of Elevated Bilirubin
 
 **Elevated unconjugated (indirect):**
+
 - Gilbert syndrome (most common; 3–7% of US population; UGT1A1 polymorphism; total bilirubin almost never exceeds 6 mg/dl)
 - Hemolysis (intravascular and extravascular)
 - Ineffective erythropoiesis, resorption of large hematomas, neonatal jaundice
 - Hyperthyroidism, medications, post-blood transfusion
 
 **Elevated conjugated (direct):**
+
 - Bile duct obstruction, viral hepatitis, toxic/ischemic hepatitis, medications/DILI, acute alcoholic hepatitis, cirrhosis, [[primary-sclerosing-cholangitis]], PBC, infiltrative liver diseases, HCC, Wilson's disease, AIH, congestive hepatopathy, sepsis, TPN, intrahepatic cholestasis of pregnancy, Dubin-Johnson syndrome, Rotor syndrome, sickle cell liver crisis, hemophagocytic lymphohistiocytosis
 
 ---
@@ -108,6 +116,7 @@ Use the R-ratio and AST:ALT ratio to classify injury pattern → guides the diff
 ### Step 3 — AST/ALT Elevation Algorithm (Tiered by Magnitude)
 
 **Tier 1 — Borderline elevation (<2× ULN):**
+
 1. History and physical exam; discontinue hepatotoxic medications and alcohol; assess for fatty liver and viral hepatitis risk factors
 2. Initial labs: CBC/platelet count, AST/ALT, Alk Phos, total bilirubin, albumin, PT/INR, HBsAg, HBcAb, HBsAb, HCV Ab (with PCR confirmation if positive), iron panel, abdominal ultrasound
 3. If negative: observe 3–6 months with repeat testing
@@ -115,22 +124,26 @@ Use the R-ratio and AST:ALT ratio to classify injury pattern → guides the diff
 5. If normal on full workup: further testing at clinician discretion or hepatology referral for liver biopsy consideration
 
 **Tier 2 — Mild elevation (2–5× ULN):**
+
 1. Same initial evaluation as borderline
 2. If negative: observe 3 months with repeat or continue investigation
 3. If persistently elevated: same expanded panel as above + consider diagnostic liver biopsy if no diagnosis
 
 **Tier 3 — Moderate elevation (5–15× ULN):**
+
 1. History and PE; discontinue hepatotoxic meds and alcohol; evaluate for signs of acute liver failure
 2. Labs: CBC/platelet count, AST/ALT, Alk Phos, total bilirubin, albumin, PT/INR, HAV IgM, HAV IgG, HBsAg, HBcAb IgM, HBsAb, HCV Ab with PCR, iron panel, ceruloplasmin, ANA, SMA, gamma-globulin; abdominal ultrasound
 3. If signs of acute liver failure → **urgent liver consultation with consideration of transplant center referral**
 4. If diagnostic evaluation negative and medically stable → consider diagnostic liver biopsy
 
 **Tier 4 — Severe elevation (>15× ULN):**
+
 1. Same as moderate; additionally add: HSV, EBV, CMV, Anti-LKM, urine toxicology panel, Doppler abdominal ultrasound
 2. Consider N-acetylcysteine if any evidence of acetaminophen ingestion
 3. If signs of ALF → urgent consultation + transplant center referral
 
 **Tier 5 — Massive elevation (>10,000 IU/l):**
+
 1. Same as severe panel; additionally assess for toxic ingestion, ischemia, and rhabdomyolysis
 2. Etiologies: acetaminophen overdose, ischemic hepatopathy/shock liver, Amanita phalloides toxin
 3. Urgent liver consultation + transplant center referral if ALF present
@@ -140,6 +153,7 @@ Use the R-ratio and AST:ALT ratio to classify injury pattern → guides the diff
 ### Step 4 — Alkaline Phosphatase Elevation Algorithm (Figure 4)
 
 **Scenario A — Normal total bilirubin and transaminases (isolated alkaline phosphatase elevation):**
+
 1. History and PE; confirm with serum GGT
 2. If GGT normal → evaluate for non-hepatobiliary etiologies (bone, intestinal)
 3. If GGT elevated → obtain RUQ ultrasound; evaluate for hepatotoxic medications; check AMA, ANA, SMA
@@ -147,6 +161,7 @@ Use the R-ratio and AST:ALT ratio to classify injury pattern → guides the diff
 5. If evaluation negative and Alk Phos >2× ULN → consider liver biopsy; if 1–2× ULN → observation; if persistent after 6 months → consider liver biopsy
 
 **Scenario B — Elevated transaminases ± elevated bilirubin:**
+
 1. History and PE; check RUQ ultrasound
 2. If ductal dilatation → ERCP; MRCP
 3. If no ductal dilatation → check AMA, ANA, SMA
@@ -160,13 +175,16 @@ Use the R-ratio and AST:ALT ratio to classify injury pattern → guides the diff
 **Elevated total bilirubin — first step:** Fractionate into conjugated (direct) and unconjugated (indirect) fractions.
 
 **Predominantly unconjugated hyperbilirubinemia:**
+
 1. History and PE; assess transaminases and Alk Phos
 2. Review medications; evaluate for hemolysis (haptoglobin, LDH, reticulocyte count)
 3. Consider Gilbert syndrome (UGT1A1 genotype)
 4. If persistent and unexplained → evaluate uncommon etiologies; if symptomatic/worsening/associated with abnormal transaminases → consider liver biopsy
+
 - **Gilbert syndrome:** asymptomatic, indirect hyperbilirubinemia <4 mg/dl, normal transaminases, normal Alk Phos → presumptive diagnosis; additional evaluation not routinely required; bilirubin worsens with fasting/illness, improves with eating
 
 **Predominantly conjugated hyperbilirubinemia:**
+
 1. History and PE; assess transaminases and Alk Phos; review medications
 2. Evaluate for: sepsis, TPN, cirrhosis, biliary obstruction; RUQ ultrasound
 3. If ductal dilatation → ERCP or MRCP
@@ -180,6 +198,7 @@ Use the R-ratio and AST:ALT ratio to classify injury pattern → guides the diff
 ## Key Tests
 
 ### Initial Metabolic/Serologic Panel
+
 - **CBC with platelet count** — thrombocytopenia suggests portal hypertension/chronic liver disease
 - **AST, ALT, alkaline phosphatase, total bilirubin, albumin, PT/INR** — establish pattern and synthetic function
 - **HBsAg, anti-HBc (total or IgM), anti-HBs** — hepatitis B status
@@ -188,6 +207,7 @@ Use the R-ratio and AST:ALT ratio to classify injury pattern → guides the diff
 - **Abdominal ultrasound** — hepatic parenchyma, biliary dilatation, portal hypertension stigmata
 
 ### Expanded Evaluation (if initial panel negative/persists)
+
 - **ANA, anti-smooth muscle antibody (ASMA), IgG** → autoimmune hepatitis
 - **Antimitochondrial antibody (AMA)** → primary biliary cholangitis (positive in >95%)
 - **Serum ceruloplasmin** → Wilson's disease (especially age <55; if low → 24-hour urine copper, slit-lamp examination for Kayser-Fleischer rings)
@@ -205,6 +225,7 @@ Use the R-ratio and AST:ALT ratio to classify injury pattern → guides the diff
 - **IgG4** → IgG4-associated cholangiopathy (PSC differential)
 
 ### Imaging
+
 - **Abdominal ultrasound** — first-line for all patterns; hepatomegaly, steatosis, biliary dilatation, portal hypertension, vascular patency
 - **Doppler ultrasound** — Budd-Chiari syndrome, hepatic vein/portal vein thrombosis
 - **MRI/MRCP** — preferred for biliary anatomy; cholangioscopy for sclerosing cholangitis evaluation when ERCP not needed for therapy
@@ -212,7 +233,9 @@ Use the R-ratio and AST:ALT ratio to classify injury pattern → guides the diff
 - **FibroScan (vibration-controlled transient elastography)** — non-invasive fibrosis assessment in NAFLD/MASLD; FDA-approved; controlled attenuation parameter (CAP) for steatosis quantification
 
 ### Liver Biopsy Indications
+
 Biopsy is appropriate when (Strong recommendation, very low evidence) [[acg-2017-liver-chemistries]]:
+
 - Serologic testing and imaging fails to establish diagnosis
 - Staging of known liver disease is required (e.g., MASLD, hemochromatosis, Wilson's disease)
 - Multiple diagnoses are possible

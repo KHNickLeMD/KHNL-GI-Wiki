@@ -8,6 +8,7 @@ sources: []
 ---
 
 ## Bibliographic Info
+
 - **Authors:** Kaplan DE, Ripoll C, Thiele M, Fortune BE, Simonetto DA, Garcia-Tsao G, Bosch J
 - **Year:** 2023 (published Hepatology 2024)
 - **Journal/Publisher:** *Hepatology* 2024;79:1180–1211; doi:10.1097/HEP.0000000000000647
@@ -150,6 +151,7 @@ Key new content: endorsement of preemptive TIPS in select AVH patient subsets; u
 | cACLD + CSPH | ≥25 | any | Rules in CSPH |
 
 **Carvedilol vs. traditional NSBBs:**
+
 - Preferred NSBB for PH due to additional anti-alpha-1 adrenergic activity reducing intrahepatic vascular resistance
 - Starting dose: 6.25 mg once daily; increase to 6.25 mg twice daily after 3 days if tolerated
 - Goal: SBP ≥90 mm Hg (no heart rate goal unlike propranolol/nadolol)
@@ -157,6 +159,7 @@ Key new content: endorsement of preemptive TIPS in select AVH patient subsets; u
 - Simvastatin evidence: RCT showed improved survival with simvastatin + propranolol + EVL vs. standard after AVH (survival HR reduction); recommend lipophilic statins at low doses (simvastatin ≤20 mg/d in decompensated)
 
 **Vasoactive agents for AVH (Table 5):**
+
 | Agent | Dosing | Duration |
 |---|---|---|
 | Octreotide | 50 mcg IV bolus → 25–50 mcg/hr infusion | 2–5 days |
@@ -170,11 +173,13 @@ Key new content: endorsement of preemptive TIPS in select AVH patient subsets; u
 **Secondary prophylaxis:** NSBB + EVL for all who did not receive preemptive TIPS (GS 38). TIPS as secondary prophylaxis only if additional TIPS indication exists (e.g., refractory ascites) (GS 39).
 
 ## Relevance to Wiki
+
 - Creates new `[[portal-hypertension]]` entity page
 - Major update to `[[variceal-upper-gi-bleeding]]` (adds all 58 statements, cACLD/CSPH framework, preemptive TIPS criteria, updated transfusion/FFP guidance, NSBB initiation timing)
 - Cross-references: `[[spontaneous-bacterial-peritonitis]]`, `[[ascites]]`, `[[aki-in-cirrhosis]]`, `[[hepatocellular-carcinoma]]`, `[[portal-vein-thrombosis]]`, `[[liver-transplantation]]`, `[[liver-disease-in-pregnancy]]`, `[[hepatopulmonary-syndrome-portopulmonary-hypertension]]`
 
 ## Contradictions / Open Questions
+
 - "Rule of Five" for NSBB candidacy requires prospective external validation in NASH and non-viral etiologies
 - Non-TE elastography cutoffs (MRE, pSWE, 2D-SWE) not yet validated for CSPH staging recommendations
 - NSBB safety in refractory ascites remains debated (historical concern with high-dose propranolol; carvedilol data reassuring in multiple recent studies)

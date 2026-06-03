@@ -12,7 +12,7 @@ sources: []
 - **Authors:** Neil Sengupta, Joseph D. Feuerstein, Vipul Jairath, Amandeep K. Shergill, Lisa L. Strate, Robert J. Wong (GRADE Methodologist), David Wan
 - **Journal:** American Journal of Gastroenterology
 - **Volume/Year:** 118:208–231, February 2023
-- **DOI:** https://doi.org/10.14309/ajg.0000000000002130
+- **DOI:** <https://doi.org/10.14309/ajg.0000000000002130>
 - **Published online:** September 21, 2022
 - **Methodology:** GRADE (Grading of Recommendations, Assessment, Development, and Evaluation)
 - **Literature search:** March 2, 2015 – December 1, 2021 (EMBASE, Ovid MEDLINE, ISI Web of Science); updated April 1, 2022
@@ -31,6 +31,7 @@ Key departure from the 2016 guideline: the panel now recommends **against urgent
 ## Key Findings / Claims
 
 ### Epidemiology and Risk Factors
+
 - Over 100,000 hospital admissions for LGIB annually in the U.S.; 271,575 ED visits in 2018
 - Incidence of LGIB now exceeds UGIB in population-based studies (Finland, Hong Kong)
 - Median age of LGIB patients: 74 years (vs. 68 years for UGIB)
@@ -41,11 +42,13 @@ Key departure from the 2016 guideline: the panel now recommends **against urgent
 - Case fatality rate for LGIB in aspirin users: <1%; majority managed as outpatients
 
 ### Etiology
+
 - Diverticular bleeding: most common (26% in UK audit; up to 64% in Japanese cohorts with high colonoscopy use)
 - Other etiologies: ischemic colitis, hemorrhoids, angioectasias, colorectal neoplasia, postpolypectomy bleeding, IBD-related colitis (including [[crohns-disease]] and [[ulcerative-colitis]]), infectious colitis, radiation proctopathy, rectal/NSAID-induced ulcers, Dieulafoy lesion, colorectal varices
 - No diagnosed etiology in 23% of UK audit cases (low colonoscopy utilization); rates as low as 5% in high-colonoscopy cohorts
 
 ### Risk Stratification
+
 - **Oakland score ≤8**: predicts 95% probability of safe discharge; validated with AUROC 0.87 in U.S. network (140 hospitals); sensitivity 98% for safe discharge; extending to ≤10 maintains 96% sensitivity
 - **SHA2PE score ≤1**: predicts low risk of hospital-based intervention (AUROC 0.83); variables: SBP ≥100, Hgb >12, no antiplatelets/anticoagulants, pulse <100
 - **NOBLADS score**: predicts severe bleeding (AUROC 0.77 derivation; 0.74 external validation)
@@ -53,25 +56,30 @@ Key departure from the 2016 guideline: the panel now recommends **against urgent
 - No single score has excellent predictive ability across all outcomes; scores supplement but do not replace clinical judgment
 
 ### Resuscitation and Transfusion
+
 - IV fluid resuscitation with crystalloids for hemodynamic instability before endoscopy
 - **Restrictive transfusion strategy: threshold Hgb 7 g/dL** (extrapolated from UGIB RCTs showing reduced mortality [RR 0.65] and rebleeding [RR 0.58] vs. liberal strategy)
 - Threshold of 8 g/dL reasonable for preexisting cardiovascular disease or acute coronary syndrome
 - Platelet transfusion threshold: >30×10⁹/L for severe LGIB; >50×10⁹/L if endoscopic procedure planned; no benefit to routine platelet transfusion for patients on antiplatelets
 
 ### Excluding Proximal Source
+
 - 15% of patients with severe hematochezia had proximal (UGIB) source on EGD before colonoscopy
 - BUN:Cr ratio >30: LR 7.5 for UGIB; BUN alone >21 mg/dL predicts UGIB with 93% specificity
 - Blood clots in stool: LR 0.05 for UGIB (argues against proximal source)
 - Nasogastric aspirate: sensitivity only 28% for UGIB — routine NG tube not recommended
 
 ### Reversal of Anticoagulation
+
 **Vitamin K antagonists (VKAs / warfarin):**
+
 - Most patients unlikely to require reversal; hold VKA at admission for significant bleeding
 - Endoscopic hemostasis is safe and effective at INR ≤2.5
 - Life-threatening LGIB with INR substantially exceeding therapeutic range: suggest reversal
 - **4-factor PCC preferred over FFP**: faster INR reduction; RCT data show PCC superior (90% vs. 75% hemostasis); lower thromboembolic risk; reduced volume overload; decreased mortality vs. FFP
 
 **Direct Oral Anticoagulants (DOACs):**
+
 - Hold DOAC at admission; most resolve with drug cessation alone
 - Reversal only for life-threatening LGIB not responding to resuscitation + drug cessation
 - **Idarucizumab** for dabigatran; **andexanet alfa** for apixaban and rivaroxaban (if DOAC taken within past 24 hours)
@@ -79,11 +87,13 @@ Key departure from the 2016 guideline: the panel now recommends **against urgent
 - No role for vitamin K, FFP, or cryoprecipitate for DOAC reversal
 
 ### Antifibrinolytics
+
 - **Tranexamic acid: NOT recommended** (Strong recommendation, moderate-quality evidence)
 - RCT (96 patients): no reduction in Hgb drop, transfusion, intervention, or LOS
 - Large international RCT (>12,000 patients with GIB): no benefit; increased VTE and seizures
 
 ### Colonoscopy
+
 - Recommended for most hospitalized LGIB patients (Strong recommendation)
 - May omit if: bleeding resolved + high-quality colonoscopy within 12 months + adequate prep showing diverticulosis without neoplasia (Conditional)
 - Diagnostic yield 68–79% (definitive or presumptive); SRH seen in 15–31%; active bleeding only 3.8%
@@ -92,6 +102,7 @@ Key departure from the 2016 guideline: the panel now recommends **against urgent
 - Technical tips: clear cap (recommended), water-jet scope, terminal ileum intubation when no colonic source found
 
 ### Timing of Colonoscopy
+
 - **Nonemergent inpatient colonoscopy recommended** (Strong recommendation, moderate-quality evidence)
 - Urgent colonoscopy (<24 hours) does NOT improve rebleeding or mortality vs. elective (24–96 hours)
 - RCT 1 (n=159): early colonoscopy associated with **increased** rebleeding (13% vs. 3%) and readmission (11% vs. 3%)
@@ -100,6 +111,7 @@ Key departure from the 2016 guideline: the panel now recommends **against urgent
 - Exception: select high-risk patients with high pretest probability of SRH (e.g., postpolypectomy bleeding); should be performed by experienced endoscopists with cap and water-jet
 
 ### Bowel Preparation
+
 - Standard: 4–6 L PEG over 3–4 hours until rectal effluent clear (for urgent colonoscopy)
 - **Split-dose preparation preferred** for elective inpatient colonoscopy (adequacy improved from 43% to 86%)
 - Low-volume preparations (1 L same-day PEG) show comparable cleansing to split-dose 4 L in small RCT
@@ -107,6 +119,7 @@ Key departure from the 2016 guideline: the panel now recommends **against urgent
 - NG tube for prep delivery: use only when necessary; avoid in aspiration-risk patients
 
 ### CTA
+
 - Sensitivity 90%, specificity 92% for LGIB diagnosis (meta-analysis of 14 studies)
 - **First-line test for hemodynamically significant ongoing hematochezia** (Conditional recommendation)
 - Low yield if minor LGIB or bleeding has subsided
@@ -116,6 +129,7 @@ Key departure from the 2016 guideline: the panel now recommends **against urgent
 - RBC scintigraphy (99mTc): rapidly diminishing role; use only if CTA unavailable/contraindicated
 
 ### Management of Positive CTA
+
 - **Prompt referral to interventional radiology for transcatheter arteriography (TA) + possible embolization** (Strong recommendation)
 - TA within 90 minutes of positive CTA: 9× more likely to detect extravasation
 - Embolization agents: microcoils, N-butyl cyanoacrylate (NBCA), ethylene-vinyl alcohol copolymer; superselective with microcatheter
@@ -123,7 +137,9 @@ Key departure from the 2016 guideline: the panel now recommends **against urgent
 - Colonoscopy also an option after positive CTA at experienced centers; shorter time to procedure predicts confirmation of bleeding regardless of modality
 
 ### Endoscopic Treatment
+
 **Diverticular hemorrhage:**
+
 - Through-the-scope clips, endoscopic band ligation (EBL), or coagulation (Strong recommendation)
 - Direct clipping (onto culprit vessel) preferred over indirect/zipper technique (lower rebleeding)
 - EBL: lower early rebleeding (8% vs. 19%) and late rebleeding (9% vs. 29%) compared to clipping
@@ -132,16 +148,19 @@ Key departure from the 2016 guideline: the panel now recommends **against urgent
 - Long-term recurrence: 4.7% at 1 year, 8.3% at 2 years, 15.7% at 5 years; median time to second episode 1.2 years
 
 **Colonic angioectasias / vascular lesions:**
+
 - APC: effective first-line (0.8–1.0 L/min, 20–40 W); excellent safety profile
 - For large right-colon angioectasias: submucosal fluid injection before APC to reduce perforation risk
 - Pooled recurrence risk after endoscopic treatment: 34%
 
 **Postpolypectomy bleeding:** (see also [[polypectomy-emr]])
+
 - Colonoscopy indicated for ongoing bleeding with hemodynamic compromise
 - 43% of cases do not require endoscopic hemostasis (managed conservatively)
 - Through-the-scope clips: first-line; hemostatic powders: 97% initial hemostasis as monotherapy, combination, or rescue
 
 ### Recurrent Bleeding
+
 - Rebleeding rate in UK audit: 13.6% at median 3 days post-presentation
 - Risk factors: older age, hemodynamic instability at presentation, diverticular etiology
 - Early rebleeding (within 30 days of initial diverticular treatment): up to 24%
@@ -149,18 +168,23 @@ Key departure from the 2016 guideline: the panel now recommends **against urgent
 - Surgery: last resort (used in only 0.2% of UK audit patients); target localized resection to avoid 20% major complication rate; total colectomy associated with higher cardiac/renal complications and ileus
 
 ### Antithrombotic Management After Discharge
+
 **NSAIDs:**
+
 - Discontinue nonaspirin NSAIDs permanently after diverticular hemorrhage (Strong recommendation)
 
 **Aspirin:**
+
 - Primary prevention: suggest discontinuation after diverticular hemorrhage (Conditional)
 - Secondary cardiovascular prevention (established CVD): suggest continuing aspirin — protective against ischemic events (HR 0.59) despite increased rebleeding risk (HR 2.76); also reduces mortality (HR 0.33) (Conditional)
 
 **P2Y12 inhibitors / nonaspirin antiplatelets:**
+
 - Re-evaluate risks/benefits in multidisciplinary setting (Strong recommendation); associated with HR 1.47 for recurrent diverticular hemorrhage
 - For dual antiplatelet patients with recent stents (<1 year): resume P2Y12 within maximum 5 days (stent thrombosis risk)
 
 **Anticoagulants:**
+
 - **Resume anticoagulation after LGIB cessation** (Strong recommendation)
 - Resumption decreases thromboembolism and mortality without significantly increasing rebleeding
 - Optimal timing: within 7 days of bleeding event

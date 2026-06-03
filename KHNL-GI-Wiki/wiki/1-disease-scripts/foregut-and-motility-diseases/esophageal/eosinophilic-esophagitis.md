@@ -18,6 +18,7 @@ Chronic, immune/antigen-mediated esophageal disease. Characterized by esophageal
 ### Establishing the Diagnosis
 
 **Diagnostic criteria (all 3 required):**
+
 1. Symptoms of esophageal dysfunction
 2. ≥15 eos/hpf (≥60 eos/mm²) on esophageal biopsy
 3. Exclusion of other causes of esophageal eosinophilia
@@ -31,12 +32,14 @@ Chronic, immune/antigen-mediated esophageal disease. Characterized by esophageal
 | Adolescents/adults | Dysphagia, food impaction |
 
 **IMPACT behaviors** (adaptive behaviors masking symptoms):
+
 - Eating slowly, cutting food small, chewing excessively
 - Avoiding bread, meat, rice
 - Drinking excess liquid with meals
 - Avoiding eating in public
 
 **Endoscopic findings (EREFS scoring, 0–9 scale):**
+
 - **E**dema (decreased vascular markings, mucosal pallor)
 - **R**ings (trachealization/corrugation)
 - **E**xudates (white plaques/exudates)
@@ -83,6 +86,7 @@ Chronic, immune/antigen-mediated esophageal disease. Characterized by esophageal
 ## Diagnostics
 
 ### Endoscopy with Biopsies (required)
+
 - **≥6 biopsies** from **≥2 levels** (proximal + distal esophagus)
 - Both levels needed — patchy distribution can cause sampling error
 - Score EREFS at every endoscopy
@@ -90,6 +94,7 @@ Chronic, immune/antigen-mediated esophageal disease. Characterized by esophageal
 - **Esophagram:** consider if fibrostenotic features or when preparing for dilation; more sensitive than endoscopy for stricture detection
 
 ### Diagnostic Workup Sequence
+
 1. Upper endoscopy + biopsies (≥2 levels, ≥6 total)
 2. PPI trial × 8–12 weeks → repeat endoscopy
    - If remission on PPI → diagnose EoE (PPI-responsive subset)
@@ -97,6 +102,7 @@ Chronic, immune/antigen-mediated esophageal disease. Characterized by esophageal
 3. Exclude other causes (see DDx above) before finalizing diagnosis
 
 ### Tests NOT Recommended
+
 - **Serum IgE, IgG food panels** — do NOT order; do not predict EoE food triggers
 - **Skin prick testing / patch testing** — do NOT use to direct dietary elimination
 - EoE is a delayed-type hypersensitivity (IgE-independent)
@@ -106,6 +112,7 @@ Chronic, immune/antigen-mediated esophageal disease. Characterized by esophageal
 ## Therapeutics
 
 ### Treatment Goals
+
 - Symptom resolution
 - Endoscopic remission (EREFS ≤2)
 - Histologic remission (<15 eos/hpf)
@@ -115,6 +122,7 @@ Chronic, immune/antigen-mediated esophageal disease. Characterized by esophageal
 ### First-Line Options (choose 1; equal standing)
 
 **1. PPI**
+
 - Mechanism: anti-inflammatory (beyond acid suppression)
 - Adults: omeprazole 20mg bid (or equivalent); Children: 2mg/kg/day
 - Duration: 8–12 weeks → endoscopy with biopsies
@@ -122,6 +130,7 @@ Chronic, immune/antigen-mediated esophageal disease. Characterized by esophageal
 - Maintain indefinitely if effective; 70–85% sustain response at 1y
 
 **2. Topical Steroids (STC)**
+
 - Histologic remission 60–70%
 - **Budesonide oral suspension (BOS):** 2mg bid adults — FDA-approved 2024 ✓
 - **Budesonide orodispersible tablet (BOT):** 1mg bid — EMA-approved ✓
@@ -132,6 +141,7 @@ Chronic, immune/antigen-mediated esophageal disease. Characterized by esophageal
 - Dose reduction acceptable after remission (BOT 0.5mg bid effective for maintenance)
 
 **3. Dietary Elimination**
+
 - Step-up preferred (minimizes endoscopies, avoidance burden):
 
 | Step | Diet | Efficacy |
@@ -151,6 +161,7 @@ Chronic, immune/antigen-mediated esophageal disease. Characterized by esophageal
 ### Second-Line / Refractory
 
 **Dupilumab (anti-IL-4Rα)**
+
 - Indication: PPI nonresponder; moderate-severe EoE
 - **Dosing:**
 
@@ -168,12 +179,14 @@ Chronic, immune/antigen-mediated esophageal disease. Characterized by esophageal
 - Cost/access: main barrier; prior auth typically required
 
 **NOT recommended:**
+
 - Omalizumab (anti-IgE): no efficacy; EoE is not IgE-mediated
 - Montelukast: not effective in RCT
 - Cromolyn: no benefit in RCT
 - Infliximab/vedolizumab: case reports only
 
 ### Adjunct: Esophageal Dilation
+
 - **Indication:** fibrostenotic EoE + dysphagia despite adequate anti-inflammatory therapy
 - **Goal diameter:** ≥16mm (adults/adolescents)
 - **Safety:** clinical improvement 95%; perforation <0.5%; hospitalization <1%
@@ -183,6 +196,7 @@ Chronic, immune/antigen-mediated esophageal disease. Characterized by esophageal
 - Pediatric: esophagram before dilation to detect unrecognized narrowing
 
 ### Maintenance Therapy
+
 - **Continue effective therapy indefinitely** — near-universal relapse when stopped
 - Relapse timeline: histologic relapse 78–94% within 1y of stopping STC; symptoms recur within days to months
 - Fibrostenotic progression occurs with treatment interruptions
@@ -204,6 +218,7 @@ Chronic, immune/antigen-mediated esophageal disease. Characterized by esophageal
 **"Deep remission":** all 3 domains — symptoms, endoscopy, histology — rarely achieved (<10%)
 
 **If inadequate response:**
+
 1. Confirm adherence (STC technique, diet compliance)
 2. Consider switching to another first-line modality
 3. Step up to dupilumab if PPI/STC/diet failed
@@ -217,6 +232,7 @@ Chronic, immune/antigen-mediated esophageal disease. Characterized by esophageal
 ## Special Populations
 
 ### Pediatric
+
 - Symptom assessment challenging; EREFS and biopsies remain required for diagnosis and monitoring
 - Esophagram recommended before dilation to detect unrecognized strictures
 - Feeding dysfunction common (up to 17%); maladaptive behaviors persist even in remission

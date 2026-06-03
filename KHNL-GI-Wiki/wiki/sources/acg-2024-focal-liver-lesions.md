@@ -8,6 +8,7 @@ sources: []
 ---
 
 ## Bibliographic Info
+
 - **Authors:** Frenette CT, Isaacson AJ, Lee EW, et al.
 - **Year:** 2024
 - **Journal/Publisher:** American Journal of Gastroenterology 2024;119:1235–1271
@@ -24,11 +25,13 @@ Hepatocellular adenoma (HCA) carries the highest management stakes: it has four 
 ## Key Findings / Claims
 
 **Imaging approach:**
+
 - MRI with hepatobiliary contrast agent (gadoxetate): preferred for FLL characterization when CT/US is indeterminate
 - CEUS: valid alternative to MRI; avoids ionizing radiation; good for real-time characterization
 - CT: useful but inferior to MRI for hepatocellular lesion characterization
 
 **Hemangioma:**
+
 - Most common benign liver lesion (prevalence 0.4–20%)
 - MRI hallmarks: T2 hyperintense, peripheral nodular enhancement with centripetal fill-in
 - <3 cm, asymptomatic, characteristic imaging: no follow-up needed
@@ -38,6 +41,7 @@ Hepatocellular adenoma (HCA) carries the highest management stakes: it has four 
 - Resection/embolization for symptomatic giant hemangiomas
 
 **Focal Nodular Hyperplasia (FNH):**
+
 - Second most common benign liver lesion
 - Hyperplastic response to aberrant arterial supply (not a true neoplasm)
 - Central scar with spoke-wheel vascularity; uptake on gadoxetate hepatobiliary phase
@@ -47,6 +51,7 @@ Hepatocellular adenoma (HCA) carries the highest management stakes: it has four 
 - Resect only if symptomatic
 
 **Hepatocellular Adenoma (HCA):**
+
 - Four molecular subtypes (Bordeaux classification):
   1. **HNF1α-inactivated** (30–40%): steatotic on imaging; lowest malignant potential
   2. **Inflammatory** (40–50%): elevated CRP/SAA; associated with obesity, metabolic syndrome, alcohol; moderate bleed risk
@@ -59,12 +64,14 @@ Hepatocellular adenoma (HCA) carries the highest management stakes: it has four 
   - Avoid pregnancy while HCA >5 cm (high bleed risk in pregnancy)
 
 **Hepatic Cysts:**
+
 - Simple cysts: thin-walled, anechoic, no septa, no solid component; no malignant potential; no follow-up
 - Complex cysts (septa, mural nodularity): need MRI characterization to exclude cystic neoplasm (mucinous cystadenoma/cystadenocarcinoma)
 - Symptomatic large cysts: aspiration-sclerotherapy or laparoscopic fenestration
 - Polycystic liver disease: associated with ADPKD; symptomatic management
 
 **HCC Surveillance:**
+
 - Cirrhosis (any etiology): 6-month liver ultrasound ± AFP
 - LI-RADS classification: LR-1 (definitely benign) to LR-5 (definitely HCC); LR-M (probably/possibly malignant, not HCC-specific)
 - LR-5 criteria: ≥1 cm nodule with arterial phase hyperenhancement (APHE) + washout appearance ± capsule ± threshold growth

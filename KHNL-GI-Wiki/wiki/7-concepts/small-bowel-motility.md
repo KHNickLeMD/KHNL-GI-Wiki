@@ -16,6 +16,7 @@ Small bowel motility is a key protective mechanism against bacterial overgrowth 
 - **Phase III (activity front):** The most important phase for SIBO prevention. An intense phasic and tonic contractile event that begins in the stomach or proximal bowel and sweeps through toward the colon during fasting, propelling chyme, secretions, bacteria, and debris. Cycles approximately every 90–120 minutes.
 
 Disruption of MMC (by neuropathy, myopathy, medications, systemic disease) is a major risk factor for [[small-intestinal-bacterial-overgrowth]]. Key causes of dysmotility leading to SIBO include:
+
 - Scleroderma (visceral myopathy/neuropathy)
 - Diabetes mellitus (autonomic neuropathy)
 - Opiates (reduce propulsive contractions)

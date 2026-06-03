@@ -10,6 +10,7 @@ sources: [acg-2015-hereditary-gi-cancer]
 *This condition is covered in detail within [[familial-adenomatous-polyposis]] (MAP/AFAP/FAP section). See that page for full ADDT content.*
 
 ## Key Features
+
 - Biallelic MUTYH mutations; autosomal **recessive** (unique among polyposis syndromes)
 - 20–99 colorectal adenomas; CRC present in ~60% at diagnosis; average age 48–50
 - Y179C and G396D mutations account for >80% of MAP in European ancestry

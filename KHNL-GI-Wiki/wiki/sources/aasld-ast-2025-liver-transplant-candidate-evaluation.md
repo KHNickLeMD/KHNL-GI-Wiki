@@ -8,6 +8,7 @@ sources: []
 ---
 
 ## Bibliographic Info
+
 - **Authors:** Lorna Dove, Ryan M. Chadha, Jennifer C. Lai, Andrea DiMartini, AnnMarie Liapakis, Neehar D. Parikh, Roberto Firpi-Morell, Lanla Conteh, Michael Fallon, James Trotter, Daniela P. Ladner, Gonzalo Sapisochin, Michael R. Lucey
 - **Year:** 2025 (published in Hepatology 2026;83:1609–1645)
 - **Journal/Publisher:** Hepatology; DOI: 10.1097/HEP.0000000000001644
@@ -26,6 +27,7 @@ The guideline emphasizes equity and access, noting that patients with ALD, Afric
 ## Key Findings / Claims
 
 **Referral (Section 1)**
+
 - Patients with chronic liver disease should be referred at first decompensation event; MELD ≥12 is a reasonable threshold in absence of portal hypertensive complications; MELD score alone should not be a barrier to referral
 - ACLF patients should be referred promptly regardless of MELD
 - All ALF patients require urgent referral; transplant centers must be able to accept urgent transfers
@@ -34,6 +36,7 @@ The guideline emphasizes equity and access, noting that patients with ALD, Afric
 - Intrahepatic CCA or mixed HCC-CCA <3 cm without extrahepatic disease: may be considered (Weak, Level 4)
 
 **Evaluation (Section 2)**
+
 - All evaluations should be multidisciplinary
 - Cardiac: ECG + comprehensive TTE for all; risk-factor-based coronary artery disease assessment; CCTA preferred noninvasive test; multidisciplinary management of significant asymptomatic CAD
 - Pulmonary: chest imaging for all; PFTs not routine unless lung disease risk factors; bubble echocardiography is most sensitive for HPS screening; right heart catheterization required when RVSP ≥45 mmHg or RV abnormalities on TTE
@@ -47,11 +50,13 @@ The guideline emphasizes equity and access, noting that patients with ALD, Afric
 - Psychosocial: evaluate adherence, mental health stability, social support; ALD patients should be referred early and not excluded by fixed abstinence intervals; MAT for opioid use disorder should not preclude listing; cessation of tobacco/marijuana expected
 
 **Contraindications (Section 3)**
+
 - Absolute contraindications are few: anatomical variations precluding transplant; advanced cardiopulmonary disease not amenable to heart-liver or lung-liver combination
 - Case-by-case: ACLF (not contraindicated by high MELD or ACLF grade alone); Yerdel grade IV PVT (relative); BMI >40 or <18.5 (requires screening, not exclusion); mental health disorders; current tobacco use
 - Physical frailty alone is not a contraindication; use standardized metric
 
 **Special situations (Section 4)**
+
 - LDLT: educate all patients about LDLT option; adequate GRWR ≥0.8% is important; caution with MELD >30
 - Neuroendocrine tumors: eligible with strict selection; HEHE: consider LT evaluation; colorectal liver metastases: may be considered within strict eligibility
 - Multiorgan transplant: evaluate via multidisciplinary consensus between organ-specific teams

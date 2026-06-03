@@ -18,18 +18,21 @@ Idiopathic, transmural, granulomatous inflammatory disorder of the GI tract. Can
 ### Establishing the Diagnosis
 
 No single pathognomonic test. Diagnosis = integration of:
+
 - **History:** chronic diarrhea, abdominal pain, fatigue, weight loss; rectal sparing; perianal disease; EIMs
 - **Endoscopy:** aphthous ulcers, linear/serpiginous ulcers, cobblestoning, strictures, fistulas; skip areas; rectal sparing
 - **Histology:** transmural inflammation, granulomas (present in <33%), focal cryptitis
 - **Imaging:** mural thickening, mesenteric stranding, fistulas, abscesses
 
 **Location (Montreal classification):**
+
 - L1: Ileal
 - L2: Colonic
 - L3: Ileocolonic (~1/3 each at presentation)
 - L4: Upper GI (modifier; up to 16% occult)
 
 **Behavior:**
+
 - B1: Inflammatory (nonstricturing, nonpenetrating) — 56–81% at diagnosis
 - B2: Stricturing
 - B3: Penetrating (fistula/abscess)
@@ -44,6 +47,7 @@ No single pathognomonic test. Diagnosis = integration of:
 | Fulminant | Refractory to corticosteroids/biologics; high fever, obstruction, peritoneal signs, cachexia; abscess |
 
 **High-risk features for disease progression:**
+
 - Young age at diagnosis
 - Ileal/ileocolonic location
 - Perianal/severe rectal disease
@@ -53,6 +57,7 @@ No single pathognomonic test. Diagnosis = integration of:
 - Penetrating or stricturing phenotype at presentation
 
 ### Natural History Key Facts
+
 - 10-yr cumulative surgery risk: ~30% (biologic era) to 46% (pre-biologic)
 - 50% will develop intestinal complication (stricture/abscess/fistula) within 20 years
 - 5-yr symptomatic postoperative recurrence: ~50%
@@ -81,6 +86,7 @@ No single pathognomonic test. Diagnosis = integration of:
 ## Diagnostics
 
 ### Initial Workup
+
 - **CBC:** anemia, thrombocytosis
 - **CMP:** albumin (malnutrition), LFTs
 - **CRP:** elevated in ~60%; useful short-term marker (t½ = 19h)
@@ -90,6 +96,7 @@ No single pathognomonic test. Diagnosis = integration of:
 - **Do NOT order:** genetic testing for diagnosis
 
 ### Endoscopy
+
 - **Ileocolonoscopy with biopsies (required):** intubate TI; biopsy involved and uninvolved mucosa; photograph ileum
 - SES-CD for objective scoring: 0–2 = remission; 3–6 mild; 7–15 moderate; >15 severe
 - Rutgeerts score for postoperative assessment at neoterminal ileum
@@ -97,12 +104,14 @@ No single pathognomonic test. Diagnosis = integration of:
 - **Capsule endoscopy:** for suspected isolated SB disease; high sensitivity for mucosal lesions; negative NPV 96%; **must get patency capsule/SB imaging first if obstructive symptoms or known stricture**
 
 ### Cross-Sectional Imaging
+
 - **MRE preferred:** young patients (<35y), expected serial imaging; no radiation; sensitivity ~similar to CTE
 - **CTE:** sensitivity ~90% for SB lesions; use when MRE unavailable or emergent
 - **Intestinal ultrasound (IUS):** noninvasive, no radiation; point-of-care; useful for bowel wall assessment and response monitoring; growing use in US
 - **Pelvic MRI or EUS:** for perianal fistula mapping; >90% accuracy; MRI preferred for complex fistulas
 
 ### Pre-Biologic Screening
+
 - TB: IGRA (preferred over TST especially if BCG-vaccinated) + CXR; treat latent TB before starting biologic
 - HBV: HBsAg, anti-HBc, anti-HBs; vaccinate if seronegative; antiviral prophylaxis if HBsAg+
 - HIV: if clinically indicated
@@ -115,6 +124,7 @@ No single pathognomonic test. Diagnosis = integration of:
 ## Therapeutics
 
 ### Treatment Goals
+
 - Clinical remission (CDAI <150; symptom-free)
 - Endoscopic remission (no ulceration; SES-CD ≤2)
 - Steroid-free maintenance
@@ -302,6 +312,7 @@ No single pathognomonic test. Diagnosis = integration of:
 **Mental health:** Depression/anxiety in ~25–33%; screen and manage; associated with increased disease activity and health care utilization.
 
 **Malignancy risk:**
+
 - Colonic CD: CRC risk increased (same surveillance as UC); start at 8y if >30% colonic involvement
 - Small bowel CD: SB adenocarcinoma risk 18× increased (absolute risk low); high suspicion for abrupt symptom change
 - PSC: CRC surveillance from diagnosis

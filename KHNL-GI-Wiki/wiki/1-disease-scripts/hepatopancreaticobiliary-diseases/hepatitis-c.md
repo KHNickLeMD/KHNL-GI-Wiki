@@ -14,12 +14,14 @@ sources: [aasld-idsa-2023-hcv]
 HCV is a blood-borne RNA virus (Flaviviridae) infecting ~58 million people globally; ~2.4 million in the US. Leading cause of cirrhosis and hepatocellular carcinoma; most common indication for liver transplantation prior to the DAA era.
 
 **Screening (universal):**
+
 - All adults ≥18 years at least once (USPSTF grade B)
 - All pregnancies (each pregnancy)
 - Annual HCV RNA testing for PWID with ongoing IDU
 - Testing at HIV PrEP initiation and annually thereafter for MSM
 
 **Initial testing algorithm:**
+
 1. **HCV antibody** (anti-HCV): high sensitivity/specificity for prior exposure; positive in resolved + active infection
 2. **Reflex HCV RNA (quantitative):** obtain automatically with positive antibody to confirm active infection (vs. spontaneous clearance). HCV RNA detectable = active infection requiring treatment.
 3. **Genotyping:** NOT required before treatment with pangenotypic regimens (G/P or SOF/VEL); required if using ledipasvir/sofosbuvir (genotype-specific) or if considering NS5A RAS testing for genotype 3 + cirrhosis [[aasld-idsa-2023-hcv]]
@@ -38,6 +40,7 @@ Fibrosis staging before treatment to guide duration, regimen selection, and post
 | Child-Pugh score | A/B/C | Decompensated = CTP ≥7 (score B or C); key regimen selection criterion |
 
 **Cirrhosis determination for treatment selection:**
+
 - Cirrhosis assumed if: liver stiffness >12.5 kPa, FIB-4 >3.25, noninvasive serologic test (FibroSure/ELF) positive, liver biopsy, liver nodularity/splenomegaly on imaging, or platelet <150,000/mm³
 - **Decompensated cirrhosis:** Child-Pugh ≥7 (presence of ascites, HE, total bilirubin >2.0 mg/dL, albumin ≤3.5 g/dL, or INR ≥1.7) — affects regimen selection (NS3/4A protease inhibitors contraindicated)
 
@@ -107,6 +110,7 @@ NS3/4A protease inhibitors (glecaprevir, grazoprevir, voxilaprevir) are **CONTRA
 ### Pretreatment Assessment (Figure 4/5 in source)
 
 Before initiating:
+
 - Calculate FIB-4; assess for cirrhosis
 - Obtain CBC, hepatic function panel (total and direct bilirubin, albumin, ALT, AST); determine eGFR
 - Perform medication reconciliation (drug-drug interaction check)
@@ -117,6 +121,7 @@ Before initiating:
 - Educate about DAA administration and adherence
 
 **On-treatment monitoring:**
+
 - Monitor patients taking diabetes medication for hypoglycemia
 - Monitor INR for subtherapeutic anticoagulation with warfarin use
 - No laboratory monitoring required for other patients (simplified algorithm)
@@ -125,23 +130,28 @@ Before initiating:
 ### Retreatment
 
 **Sofosbuvir-based regimen failure:**
+
 - SOF/VEL/VOX 12 weeks (Recommended, genotypes 1–6); extend to 24 weeks or add wt-based RBV for GT3 + compensated cirrhosis
 - Glecaprevir/pibrentasvir 16 weeks (Alternative; not if prior NS5A + NS3/4A inhibitor exposure)
 
 **G/P failure:**
+
 - G/P + sofosbuvir + wt-based RBV 16 weeks (Recommended, IIa, B; MAGELLAN-3: 96% SVR12)
 - SOF/VEL/VOX 12 weeks (Recommended, IIa, B)
 
 **Decompensated cirrhosis with prior treatment failure:**
+
 - SOF/VEL + wt-based RBV 24 weeks OR LDV/SOF + wt-based RBV 24 weeks
 
 ### Incomplete Adherence Management
 
 **BEFORE 28 days of therapy:**
+
 - Missed ≤7 days: Restart immediately; complete full planned duration
 - Missed ≥8 days: Restart immediately; obtain HCV RNA same day. If negative → complete planned course (±4 weeks extension for GT3/compensated cirrhosis). If positive (>25 IU/L) → extend by 4 weeks.
 
 **AFTER ≥28 days of therapy:**
+
 - Missed ≤7 days: Restart; complete full duration
 - Missed 8–20 days: Restart; obtain HCV RNA. If negative → complete; if positive → stop and retreat
 - Missed ≥21 days: Stop; assess SVR12; if no SVR, retreat
@@ -149,10 +159,12 @@ Before initiating:
 ### Posttransplant HCV
 
 For recurrent HCV post liver or kidney transplantation:
+
 - G/P 12 wk (GT 1–6) or SOF/VEL 12 wk (GT 1–6) or LDV/SOF 12 wk (GT 1, 4, 5, 6)
 - **DDI caution:** Cyclosporine significantly increases AUC of elbasvir/grazoprevir and SOF/VEL/VOX; coadministration contraindicated
 
 **HCV-viremic donor organs → HCV-negative recipient:**
+
 - Non-liver solid organs: G/P 8 wk or SOF/VEL 12 wk; initiate immediately pretransplant or within first week posttransplant
 - Liver grafts: G/P 12 wk or SOF/VEL 12 wk; initiate within first 2 weeks, preferably within first week
 
@@ -163,6 +175,7 @@ For recurrent HCV post liver or kidney transplantation:
 **After achieving SVR — if no cirrhosis:** No follow-up required for non-cirrhotics (unless at ongoing reinfection risk → annual HCV RNA).
 
 **After achieving SVR — if cirrhosis:**
+
 - Continue **HCC surveillance:** ultrasound ± AFP every 6 months (indefinitely)
 - **Variceal surveillance:** per AASLD portal hypertension guidance ([[portal-hypertension]]); NSBB if CSPH present; decompensated patients may recompensate but surveillance continues
 - Advise against excess alcohol

@@ -12,6 +12,7 @@ sources: [acg-2016-acute-diarrhea]
 Non-typhoidal *Salmonella* species are a major cause of foodborne diarrheal illness in the United States and a common cause of traveler's diarrhea (TD). Typically causes febrile, sometimes bloody diarrhea. [[acg-2016-acute-diarrhea]]
 
 ## Key Points (ACG 2016)
+
 - Antibiotic therapy does not reduce illness duration in immunocompetent adults and may prolong intestinal carriage (meta-analysis evidence).
 - Antibiotic use may be indicated for severe illness, bacteremia, immunocompromised hosts, and those at risk for endovascular seeding.
 - **Rifaximin:** Do NOT use for suspected *Salmonella* — non-absorbable; ineffective for invasive pathogens.

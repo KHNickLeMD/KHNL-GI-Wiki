@@ -14,6 +14,7 @@ sources: [aasld-idsa-2025-chb-treatment, acg-2016-liver-disease-pregnancy]
 CHB is defined as HBsAg-positive for >6 months. Screen all adults ≥18 years at least once; screen all pregnant persons each pregnancy using a **triple panel** (HBsAg + anti-HBs + total anti-HBc). ~258 million infected globally; up to 1.8 million in the US (half unaware).
 
 **Initial serologic workup in confirmed HBsAg+ person:**
+
 - Quantitative HBV DNA (PCR-based)
 - HBeAg and anti-HBe
 - ALT (use sex-specific ULN: M <35 U/L, F <25 U/L)
@@ -22,6 +23,7 @@ CHB is defined as HBsAg-positive for >6 months. Screen all adults ≥18 years at
 - Screen for co-infections: anti-HDV, HCV RNA, HIV
 
 **ALT upper limits of normal (2025 AASLD):**
+
 - Male: 35 U/L
 - Female: 25 U/L
 (These stricter values govern all treatment phase determinations)
@@ -29,6 +31,7 @@ CHB is defined as HBsAg-positive for >6 months. Screen all adults ≥18 years at
 ### Severity Assessment
 
 Non-invasive fibrosis staging preferred:
+
 - **Vibration-controlled transient elastography (VCTE):** ≥7 kPa → F2 (Sn 69%, Sp 83%); ≥11 kPa → cirrhosis
 - **FIB-4:** >1.45 → high sensitivity for advanced fibrosis (F3/F4); ≥3.25 → cirrhosis
 - Elastography outperforms FIB-4 overall; neither reliable in pregnancy
@@ -48,6 +51,7 @@ CHB is a dynamic disease. Phase determination requires ≥2 measurements ≥6 mo
 | **HBsAg-negative** | − | Undetectable | — | Functional cure or spontaneous clearance |
 
 **Key terms:**
+
 - **Functional cure:** HBsAg-negative + HBV DNA undetectable off treatment ≥6 months (± anti-HBs)
 - **Partial cure:** qHBsAg <100 IU/mL + HBV DNA undetectable off treatment ≥6 months
 
@@ -69,12 +73,14 @@ CHB is a dynamic disease. Phase determination requires ≥2 measurements ≥6 mo
 ## Diagnostics
 
 **Virology panels:**
+
 - HBsAg, anti-HBs, anti-HBc (total and IgM for acute vs. chronic distinction)
 - Quantitative HBV DNA (PCR; goal undetectable on therapy)
 - HBeAg / anti-HBe (phase determination; monitoring seroconversion)
 - Quantitative HBsAg (qHBsAg): best predictor of NA discontinuation outcomes; <100 IU/mL favors HBsAg loss off therapy
 
 **Hepatic function:**
+
 - ALT, AST, bilirubin, albumin, PT/INR
 - CBC (platelets <180 k/mm³ → increased HCC risk in indeterminate phase)
 
@@ -107,12 +113,14 @@ Peginterferon: rarely used (limited applicability, poor tolerability); higher ra
 **Immune-active CHB (HBeAg+ or HBeAg−):** Treat — unchanged from 2018.
 
 **Immune-tolerant phase** (HBeAg+, DNA >10^7 IU/mL, normal ALT):
+
 - Age ≥40 years or ≥F2 fibrosis → **suggest treatment** (Conditional/Very Low) [[aasld-idsa-2025-chb-treatment]]
 - Age <40, no significant fibrosis → shared decision-making (family Hx HCC, adherence capacity, transmission risk)
 - If not treating: HBV DNA + ALT every 6 months to detect immune-active transition
 - Note: DNA may not fully suppress to undetectable given very high replication levels
 
 **Indeterminate / grey zone phase** (HBeAg−, no cirrhosis, DNA/ALT outside inactive or immune-active definitions):
+
 - **AASLD now suggests antivirals via shared decision-making** at each follow-up visit (Conditional/Very Low) — major shift from 2018 [[aasld-idsa-2025-chb-treatment]]
 - Factors favoring treatment: age >40, male sex, platelets <180 k/mm³, FIB-4 >1.45, elastography ≥8 kPa
 - Advanced fibrosis (F3/F4) → treat
@@ -130,6 +138,7 @@ Peginterferon: rarely used (limited applicability, poor tolerability); higher ra
 Rationale: HBsAg loss only ~11% at 2 years off therapy; ALT flares 27%; re-treatment 42% at 5 years; decompensation and death reported in real-world cohorts. Diverges from EASL/APASL which allow finite therapy.
 
 For patients strongly desiring to stop (ALL criteria must be met):
+
 - No history of cirrhosis, decompensation, HCC, or extrahepatic HBV complications
 - HBV DNA undetectable ≥2 years
 - If HBeAg+ at treatment start → HBeAg seroconversion + anti-HBe positive ≥1 year
@@ -140,6 +149,7 @@ For patients strongly desiring to stop (ALL criteria must be met):
 Post-discontinuation monitoring: HBV DNA + ALT every 1–3 months × 6 months, then every 3 months × 6–12 months, then every 3–6 months.
 
 **Restart treatment immediately if ANY of:**
+
 - HBV DNA ≥10,000 IU/mL (regardless of ALT)
 - ALT ≥5× ULN (regardless of HBV DNA)
 - Total bilirubin >2.5 mg/dL
@@ -156,6 +166,7 @@ Switch options: ETV → TDF or TAF; TDF → TAF or ETV; TAF → ETV.
 ### Prevention of Mother-to-Child Transmission (MTCT)
 
 **AASLD/IDSA 2025 recommendations** [[aasld-idsa-2025-chb-treatment]]:
+
 - Screen all pregnancies with triple panel (HBsAg + anti-HBs + anti-HBc)
 - If HBV DNA >200,000 IU/mL: initiate TDF (preferred, more safety data) or TAF at **gestational week 28** (Strong/Moderate)
 - If seeking care after week 28: start immediately
@@ -167,6 +178,7 @@ Switch options: ETV → TDF or TAF; TDF → TAF or ETV; TAF → ETV.
 - Infant: HBIG + HBV vaccine within 12 hours of birth; test HBsAg + anti-HBs at 9–12 months
 
 **ACG 2016 additional pregnancy guidance** [[acg-2016-liver-disease-pregnancy]]:
+
 - MTCT rates without prophylaxis: 70–90% (HBeAg+) vs. 10–40% (HBeAg−); standard active-passive immunoprophylaxis reduces MTCT to ~5%
 - Immunoprophylaxis fails in 8–30% of highly viremic mothers (HBV DNA >1×10⁶–10⁷ IU/ml); threshold for antiviral prophylaxis: >200,000 IU/ml (same threshold as AASLD 2025)
 - Antiviral options: tenofovir or telbivudine in third trimester (Rec 23 — strong, low evidence); 2025 AASLD prefers TDF/TAF over telbivudine

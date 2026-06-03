@@ -14,6 +14,7 @@ sources: [acg-2015-hereditary-gi-cancer]
 Familial adenomatous polyposis (FAP) and its related syndromes — attenuated FAP (AFAP) and MUTYH-associated polyposis (MAP) — are the three major adenomatous polyposis syndromes. All three predispose to early [[colorectal-cancer]] through the development of multiple colorectal adenomas.
 
 **Indications for genetic evaluation** [[acg-2015-hereditary-gi-cancer]]:
+
 - Personal history of ≥10 cumulative colorectal adenomas
 - Family history of one of the adenomatous polyposis syndromes
 - Presence of FAP-type extracolonic manifestations: duodenal/ampullary adenomas, desmoid tumors (abdominal > peripheral), papillary thyroid cancer, CHRPE (congenital hypertrophy of the retinal pigment epithelium), epidermal cysts, osteomas (Gardner syndrome)
@@ -23,6 +24,7 @@ Familial adenomatous polyposis (FAP) and its related syndromes — attenuated FA
 ### Classification / Typing
 
 **Classic FAP**:
+
 - ≥100 synchronous colorectal adenomas; autosomal dominant; APC gene (5q21)
 - Prevalence: 1 in 6,850–31,250 live births (~2.29–3.2 per 100,000 individuals)
 - Near-100% lifetime CRC risk if untreated; average age of CRC diagnosis 38–41 years
@@ -33,12 +35,14 @@ Familial adenomatous polyposis (FAP) and its related syndromes — attenuated FA
 - Individuals with >1,000 polyps often have mutations in the mid-portion of APC
 
 **Attenuated FAP (AFAP)**:
+
 - <100 adenomas at presentation; autosomal dominant; APC mutations at the far proximal (5') or far distal (3') end of gene, or certain exon 9 locations
 - Average ~25 polyps; more proximal colonic distribution; polyp number highly variable
 - CRC risk ~69%; average age of CRC diagnosis 54–58 years (range 29–81)
 - Onset of examination may be delayed to late teens/mid-20s; colonoscopy every 1–2 years from age 18–20
 
 **MUTYH-Associated Polyposis (MAP)**:
+
 - Biallelic MUTYH mutations; **autosomal recessive** (both alleles must be mutated)
 - MUTYH is a base excision repair gene; failure → G:C→T:A transversions in APC and KRAS
 - Phenotype: 20–99 adenomas (rarely >500); average age of CRC diagnosis 48–50; CRC present in ~60% at MAP diagnosis
@@ -73,12 +77,14 @@ Familial adenomatous polyposis (FAP) and its related syndromes — attenuated FA
 ### Colonoscopic Evaluation
 
 **FAP (classic)**:
+
 - Annual **sigmoidoscopy or colonoscopy** beginning at **puberty** (age 10–15) for classic FAP (Strong/Moderate) [[acg-2015-hereditary-gi-cancer]]
 - Colonoscopy preferred if polyps are found on sigmoidoscopy; flexible sigmoidoscopy is reasonable initially for classic FAP families
 - Record number, size, and distribution of polyps; biopsy several representative polyps
 - Colonic adenocarcinoma is inevitable unless the colon is removed; colon cancer has been reported as early as age 9 (though malignancy before adolescence is very unusual)
 
 **AFAP and MAP**:
+
 - Colonoscopy from age **18–20**; annually once polyps emerge; every 1–2 years at baseline (Strong/Moderate)
 - Onset of colonoscopy for AFAP may be delayed to late teens/mid-20s
 - MAP managed like AFAP for colonoscopic surveillance
@@ -86,6 +92,7 @@ Familial adenomatous polyposis (FAP) and its related syndromes — attenuated FA
 ### Upper GI Surveillance (Duodenal / Gastric)
 
 **Duodenal adenomatosis** [[acg-2015-hereditary-gi-cancer]]:
+
 - Endoscopically visible duodenal adenomas in >50% of FAP patients; lifetime duodenal cancer risk 3–5% (up to higher in some series)
 - EGD with **side-viewing duodenoscope** to visualize the ampulla starting age **25–30 years** (Strong/VLow)
 - Standard forward-viewing EGD supplemented with side-viewing instrument; random sampling of fundic gland polyps in stomach
@@ -105,6 +112,7 @@ Familial adenomatous polyposis (FAP) and its related syndromes — attenuated FA
 - Spigelman IV → surgical evaluation; **pancreas-sparing duodenectomy** preferred if no papilla involvement (less morbid than Whipple; Whipple preferred if cancer suspected)
 
 **Gastric polyps**:
+
 - Fundic gland polyps in 23–100% of FAP patients — considered hamartomas, rarely malignant; low-grade dysplasia common (not an indication for surgery)
 - Adenomatous gastric polyps in ~10%; confined mainly to antrum but can occur in body/fundus
 - Lifetime risk of gastric cancer in FAP ~0.6%
@@ -114,17 +122,20 @@ Familial adenomatous polyposis (FAP) and its related syndromes — attenuated FA
 ### Extraintestinal Surveillance
 
 **Thyroid**:
+
 - Annual thyroid ultrasound starting **late teenage years** for FAP, AFAP, MAP (Conditional/Low) [[acg-2015-hereditary-gi-cancer]]
 - Up to 12% of FAP patients have thyroid cancer (predominantly papillary, cribriform-morular pattern); 80% have nodular thyroid
 - Mean age of thyroid cancer diagnosis 28 years; female preponderance
 - 38% of FAP patients have thyroid nodules in prospective ultrasound studies; 2.6% had thyroid cancer
 
 **Hepatoblastoma**:
+
 - Occurs in 1.6% of FAP patients; male predominance; associated with 5' end APC mutations
 - Biannual screening with **AFP + liver ultrasound** for affected infants until age **7 years** (Conditional/VLow) [[acg-2015-hereditary-gi-cancer]]
 - Family history of hepatoblastoma mandates genetic testing in infancy; may warrant screening from 6 months of life
 
 **Desmoid tumors**:
+
 - No routine abdominal imaging recommended for desmoid surveillance
 - Periodic abdominal palpation; work-up for palpable masses
 - Preoperative abdominal CT scan before colectomy may be helpful if desmoids have been an issue in the family
@@ -132,6 +143,7 @@ Familial adenomatous polyposis (FAP) and its related syndromes — attenuated FA
 - Most are intraabdominal (mesenteric); can be life-threatening due to bowel/vascular involvement
 
 **Post-surgical surveillance**:
+
 - Yearly endoscopy of **rectum or ileal pouch** after colectomy with IRA or IPAA (Strong/Low)
 - Examination of ileostomy every **2 years** (Strong/Low)
 - Adenomas may develop in ileal pouch after IPAA; advanced dysplasia/cancer in the pouch is a real risk requiring lifelong surveillance
@@ -144,6 +156,7 @@ Familial adenomatous polyposis (FAP) and its related syndromes — attenuated FA
 ### Surgical Management
 
 **Absolute indications for immediate colectomy** [[acg-2015-hereditary-gi-cancer]] (Strong/Low):
+
 - Documented or suspected cancer
 - Significant symptoms attributable to polyposis
 - Multiple adenomas >6 mm that cannot be adequately surveyed
@@ -152,17 +165,20 @@ Familial adenomatous polyposis (FAP) and its related syndromes — attenuated FA
 - Inability to adequately survey the colon because of multiple diminutive polyps
 
 **Surgical options for classic FAP**:
+
 - **Colectomy with ileorectal anastomosis (IRA)**: single-stage; less morbidity than IPAA; residual rectal cancer risk remains (cumulative rectal cancer risk 20 years after IRA ~12.1%); requires yearly proctoscopy post-op
 - **Proctocolectomy with IPAA**: preferred for severe rectal polyposis (>20 rectal adenomas), polyps >3 cm, HGD in rectum, or >1,000 colonic adenomas; also indicated if patient declines surveillance
 - APC mutation location may guide surgical choice — mutations in the mutation cluster region correlate with more severe rectal polyposis and may predict future IRA-to-IPAA conversion
 - Laparoscopic approach now commonly used for both procedures
 
 **AFAP and MAP surgical approach**:
+
 - Can often be managed endoscopically for many years
 - If surgical resection indicated: almost always colectomy + IRA due to rectal sparing; IRA average 3.4 recurrent polyps post-op (range 0–29)
 - Restorative proctocolectomy indicated if the rectum becomes substantially involved
 
 **Timing of surgery**:
+
 - Usually late teens to early twenties for classic FAP based on polyp burden and cancer risk
 - Risk indicators for early surgery: polyps >10mm, HGD, marked increases in polyp number
 - For AFAP: may be delayed; cancer typically presents in 50s
@@ -170,21 +186,25 @@ Familial adenomatous polyposis (FAP) and its related syndromes — attenuated FA
 ### Chemoprevention
 
 **Sulindac** (NSAID):
+
 - Demonstrates regression of colonic and rectal adenomas in FAP; useful for rectal surveillance by substantially decreasing adenoma number
 - Cancer prevention is less certain — **NOT a substitute for colectomy**
 - Utility in rectal surveillance; may reduce number of adenomas needing polypectomy
 
 **Celecoxib** (COX-2 inhibitor):
+
 - Previously FDA-approved for FAP; **no longer available for this indication** in the United States due to cardiovascular safety concerns
 - Had more modest effect in colon than rectum but showed some efficacy for duodenal adenoma regression
 
 ### Management of Extracolonic Manifestations
 
 **Duodenal/Ampullary disease**:
+
 - Spigelman IV: surgical evaluation mandatory; complete mucosectomy, duodenectomy, or Whipple procedure depending on papilla involvement
 - Endoscopic management of ampullary adenomas is technically feasible but carries risk; should be performed at specialized centers
 
 **Desmoid tumors** [[acg-2015-hereditary-gi-cancer]]:
+
 - First-line medical: **NSAIDs (sulindac)** ± **tamoxifen**
 - Second-line: **chemotherapy** (vinorelbine/methotrexate or doxorubicin-based)
 - Surgery: **last resort** due to high recurrence rates and risk of bowel/vascular injury; only if life-threatening complications

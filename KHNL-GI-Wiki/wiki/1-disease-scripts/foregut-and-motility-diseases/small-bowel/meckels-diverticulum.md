@@ -16,6 +16,7 @@ Meckel's diverticulum is the most common congenital anomaly of the GI tract — 
 **Clinical relevance in small bowel bleeding:** A major cause of SBB in patients under age 40. [[small-bowel-bleeding]]
 
 **Diagnosis:**
+
 - **⁹⁹ᵐTc-pertechnetate (Meckel's) scan:** Detects ectopic gastric mucosa. Sensitivity 50–90%, specificity 9–95%; false positives from AVM, ulcers, intussusception, duplication cysts. Most reliable in children. ACG 2015: Consider in younger patients with ongoing overt bleeding and negative VCE + enterography. *(Conditional/Very Low)*
 - Capsule endoscopy and deep enteroscopy may identify the diverticulum.
 - CT enterography.

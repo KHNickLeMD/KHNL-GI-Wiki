@@ -18,18 +18,21 @@ Pancreatic cysts are a heterogeneous group of lesions, most detected incidentall
 ### Establishing the Diagnosis
 
 **Epidemiology:**
+
 - Prevalence on screening MRI: 2.4–13.5% in asymptomatic populations; 40% in patients >70 years old
 - Prevalence of cysts >2 cm: only 0.8% (n=25,195 subjects, five studies)
 - Majority are incidentally found side-branch IPMNs
 - Estimated malignancy probability at time of imaging: 0.25% (SEER database); conversion rate to invasive cancer: 0.24% per year
 
 **Initial questions:**
+
 1. Is the patient medically fit for surgery? (If not — Rec 4: no further evaluation regardless of size; Strong/Low)
 2. Does imaging suggest a clearly benign, non-neoplastic cyst (pseudocyst in setting of pancreatitis, classic SCA with microcystic/honeycomb pattern and central scar)?
 3. Are there any high-risk features (see Table 3 below)?
 4. What is the cyst size?
 
 **Imaging — preferred modality:**
+
 - **MRI/MRCP:** First-line. Non-invasive, no radiation, superior accuracy for assessing MPD communication (key for IPMN classification) and for detecting mural nodules. Detection rate 19.9% vs. 1.2–2.6% with CT. (Conditional/VLow)
 - **CT (pancreatic protocol):** Excellent alternative when MRI not possible. Accuracy 71–80% for benign vs. malignant. Good for calcifications and vascular involvement.
 - **EUS:** Not first-line for small, clearly benign cysts. Higher resolution than cross-sectional imaging; more accurate for mural nodule detection; enables FNA. Sensitivity 86–96% for malignant vs. benign; specificity 30–99%. Favored when FNA/fluid analysis needed. (Conditional/VLow)
@@ -44,6 +47,7 @@ Pancreatic cysts are a heterogeneous group of lesions, most detected incidentall
 #### Non-Neoplastic Cysts
 
 **Pseudocyst**
+
 - Associated with history of [[acute-pancreatitis]] or [[chronic-pancreatitis]]
 - Aspirate: brown fluid, high amylase/lipase, low CEA
 - No malignant potential; no surveillance required when asymptomatic
@@ -53,6 +57,7 @@ Pancreatic cysts are a heterogeneous group of lesions, most detected incidentall
 #### Neoplastic Cysts — Mucinous (Malignant Potential)
 
 **Intraductal Papillary Mucinous Neoplasm (IPMN)**
+
 - Most common pancreatic cyst overall; most common incidental cyst
 - Men = Women; 7th decade peak
 - May be multifocal in up to 40% of cases; multifocality does not increase malignancy risk vs. unifocal
@@ -65,6 +70,7 @@ Pancreatic cysts are a heterogeneous group of lesions, most detected incidentall
 - Clinical note: IPMNs are also at risk for "concomitant" pancreatic cancer (separate from the cyst) — 2% at 17 years in a large multicenter study; evaluate the entire parenchyma on imaging
 
 **Mucinous Cystic Neoplasm (MCN)**
+
 - Almost exclusively women (>95%); 5th–7th decade
 - Typically body/tail; unilocular ± septations or wall calcification
 - No communication with main pancreatic duct (key distinguishing feature from IPMN)
@@ -75,6 +81,7 @@ Pancreatic cysts are a heterogeneous group of lesions, most detected incidentall
 #### Neoplastic Cysts — Non-Mucinous
 
 **Serous Cystadenoma (SCA)**
+
 - 75% women; 6th decade
 - Classic imaging: microcystic/honeycomb appearance with central stellate scar (present in <30%)
 - Risk of serous cystadenocarcinoma: extremely low at 0.1% (multinational study n=2,622)
@@ -83,6 +90,7 @@ Pancreatic cysts are a heterogeneous group of lesions, most detected incidentall
 - Macrocystic SCAs may mimic IPMN or MCN → EUS-FNA to confirm
 
 **Solid-Pseudopapillary Neoplasm (SPN)**
+
 - Rare; 10:1 women:men; most common in women in 20s (wide age range)
 - Any part of pancreas; smaller lesions are more solid, larger have cystic degeneration
 - 5-year disease-specific survival >98%; aggressive behavior: vascular involvement 4.6%, LN 1.6%, distant mets 7.7%
@@ -90,6 +98,7 @@ Pancreatic cysts are a heterogeneous group of lesions, most detected incidentall
 - Post-resection: follow yearly for at least 5 years (Conditional/VLow)
 
 **Cystic Pancreatic Neuroendocrine Tumor (Cystic PNET)**
+
 - Men = Women; peak 5th–6th decade
 - Sporadic or in MEN I
 - Usually non-functioning; may be solid, cystic, or mixed
@@ -101,12 +110,14 @@ Pancreatic cysts are a heterogeneous group of lesions, most detected incidentall
 **High-Risk Features (Table 3) — Warrant EUS±FNA and/or Multidisciplinary Referral (Rec 11 — Strong/VLow):**
 
 *Symptoms/signs:*
+
 - Jaundice secondary to the cyst
 - Acute pancreatitis secondary to the cyst
 - Significantly elevated serum CA 19-9 (no benign cause found)
   - CA 19-9 >37 U/mL: pooled sensitivity 40%, specificity 89%, OR 4.34 for high-grade dysplasia/cancer
 
 *Imaging findings:*
+
 - Mural nodule or solid component within the cyst or pancreatic parenchyma
   - OR for malignancy: 9.3 (95% CI 5.3–16.1) — meta-analysis >1,400 patients
 - Main pancreatic duct diameter >5 mm
@@ -116,9 +127,11 @@ Pancreatic cysts are a heterogeneous group of lesions, most detected incidentall
 - Increase in cyst size ≥3 mm/year
 
 *Cytology:*
+
 - High-grade dysplasia or pancreatic cancer
 
 **Intermediate Concern (Rec 10 — Conditional/VLow) — Warrant Short-Interval Surveillance (MRI or EUS±FNA):**
+
 - New-onset or worsening diabetes mellitus (~1% of adults >50 with new-onset DM will develop pancreatic cancer within 3 years; ~2/3 of patients with pancreatic cancer have DM)
 - Rapid increase in cyst size >3 mm/year
 
@@ -145,6 +158,7 @@ Other cysts to consider: simple cysts with true epithelial lining, lymphoepithel
 ### Imaging
 
 **MRI/MRCP (preferred):**
+
 - First-line for diagnosis and surveillance
 - Superior for assessing MPD communication (critical for IPMN vs. MCN distinction)
 - Better mural nodule detection vs. CT
@@ -152,12 +166,14 @@ Other cysts to consider: simple cysts with true epithelial lining, lymphoepithel
 - Accuracy for cyst type: 40–50%; benign vs. malignant: 55–76%
 
 **CT (pancreatic protocol):**
+
 - Excellent alternative when MRI unavailable/contraindicated
 - Good for calcifications, vascular involvement
 - Accuracy for benign vs. malignant: 71–80%
 - Accuracy for IPMN communication with MPD: 80% sensitivity by CT
 
 **EUS (with or without FNA):**
+
 - Not first-line for small, clearly benign cysts
 - Preferred when: (1) diagnosis unclear, (2) high-risk features present, (3) FNA/fluid analysis needed to alter management
 - Higher sensitivity for mural nodule detection than MRI
@@ -170,27 +186,32 @@ Other cysts to consider: simple cysts with true epithelial lining, lymphoepithel
 Indicated when diagnosis is unclear and results are likely to alter management. Not needed for classic pseudocyst or SCA.
 
 **Cyst fluid CEA:**
+
 - Best marker for identifying mucinous cysts (IPMNs/MCNs)
 - Sensitivity 63% (95% CI 59–67), specificity 93% (95% CI 90–95%) for IPMN/MCN — standard cutoff 192 ng/mL
 - Very high (>800 ng/mL) or very low (<5 ng/mL) levels increase specificity to >95%
 - Cannot distinguish high-grade dysplasia or cancer from low-grade
 
 **Cyst fluid amylase:**
+
 - Low (<250 IU/L) excludes pseudocyst in 98% of cases
 - Not helpful for malignancy risk
 
 **Cyst fluid cytology (Rec 7 — Conditional/VLow):**
+
 - Send when imaging features alone are insufficient to warrant surgery
 - Sensitivity 64.8% (95% CI 0.44–0.82) — limited by low cellularity (only 34% of samples adequate)
 - Specificity 90.6% (95% CI 0.81–0.96) for pancreatic cancer — excellent
 - Pooled sensitivity 65% and specificity 66% for identifying high-grade dysplasia or cancer in IPMNs/MCNs specifically
 
 **Molecular markers (Rec 8 — Conditional/VLow):**
+
 - KRAS mutation: sensitivity 84–96%, specificity 80–100% for IPMN/MCN identification
 - GNAS mutation: sensitivity 80–100%, specificity 80–100% for IPMN/MCN identification (GNAS nearly specific for IPMN)
 - Use when diagnosis is unclear and result would change management; not routine standard of care — costly
 
 **Antibiotics for EUS-FNA of pancreatic cysts:**
+
 - NOT routinely recommended (RCT showed no difference in infection with vs. without antibiotics) — see [[endoscopic-ultrasound]] quality standards
 - Consider in: immunosuppressed patients, multiple comorbidities, incomplete cyst aspiration, ascites
 
@@ -235,6 +256,7 @@ Indicated when diagnosis is unclear and results are likely to alter management. 
 ### When to Refer to Multidisciplinary Group and Consider Surgery (Rec 11 — Strong/VLow)
 
 Triggered by any high-risk feature (Table 3 above):
+
 - Symptomatic: jaundice, pancreatitis from cyst, elevated CA 19-9
 - Imaging: mural nodule/solid component, MPD >5 mm, upstream atrophy, size ≥3 cm
 - Cytology: high-grade dysplasia or cancer

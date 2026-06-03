@@ -9,7 +9,7 @@ sources: []
 
 ## Bibliographic Info
 
-Desai M, Ruan W, Thosani NC, et al. American Society for Gastrointestinal Endoscopy guideline on the diagnosis and management of GERD: methodology and review of evidence. *Gastrointest Endosc* 2025;10:81–137. https://doi.org/10.1016/j.vgie.2024.10.001
+Desai M, Ruan W, Thosani NC, et al. American Society for Gastrointestinal Endoscopy guideline on the diagnosis and management of GERD: methodology and review of evidence. *Gastrointest Endosc* 2025;10:81–137. <https://doi.org/10.1016/j.vgie.2024.10.001>
 
 - Prepared by: ASGE Standards of Practice Committee
 - GRADE methodology; evidence panel convened March 10, 2023
@@ -24,17 +24,20 @@ Desai M, Ruan W, Thosani NC, et al. American Society for Gastrointestinal Endosc
 ## Key Findings / Claims
 
 ### Definition and Epidemiology
+
 - GERD defined as troublesome heartburn and/or regurgitation; affects ~one-third of the U.S. adult population
 - Incidence rising in parallel with obesity prevalence
 - Guideline explicitly excludes patients with known GI motility disorders (gastroparesis, scleroderma, autonomic dysfunction)
 
 ### Endoscopy Indications (Q1)
+
 - **Strong, moderate evidence**: Upper endoscopy recommended for alarm symptoms — dysphagia, odynophagia, weight loss, GI bleeding, persistent vomiting, unexplained iron deficiency anemia
 - **Conditional, low evidence**: Endoscopy suggested for Barrett's esophagus risk factors (family history of BE/EAC; GERD + age >50, male sex, white race, smoking, or obesity) and for infants/children with suggestive symptoms
 - **Post-sleeve gastrectomy (SG), conditional, very low**: Endoscopy if symptomatic; asymptomatic screening at 3 years then every 5 years (pooled BE rate post-SG 11.4%, crossing the ASGE 10% screening threshold); de novo GERD rate 45%, esophagitis rate 39.1% vs 21.9% pre-SG
 - **Post-POEM, conditional, very low**: Endoscopy if symptomatic GERD; best practice advice to consider periodic endoscopy even if asymptomatic given high GERD rate (~19–29% esophagitis pooled); BE rate very low (1/2342 patients at 36 months in one meta-analysis)
 
 ### High-Quality Endoscopy Reporting (Q2)
+
 - **Strong, very low evidence**: Require documentation and photo-documentation of:
   - Erosive esophagitis graded by Los Angeles (LA) classification
   - Barrett's esophagus described by Prague C&M classification
@@ -45,6 +48,7 @@ Desai M, Ruan W, Thosani NC, et al. American Society for Gastrointestinal Endosc
 - Observational data showed esophagitis graded in only 42% of reports and hiatal hernia measured in only 51%
 
 ### Lifestyle Modifications (Q3)
+
 - **Strong, low evidence**: Recommend weight loss (overweight/obese), smoking cessation, head of bed elevation, and avoiding meals within 3 hours of bedtime
 - Weight loss: dose-dependent GERD symptom improvement; 81% of subjects in one RCT showed reduced GERD scores after 6-month weight-loss program (BMI 34.7 to 30.2)
 - Head of bed elevation: significant reduction in reflux episodes and AET
@@ -52,6 +56,7 @@ Desai M, Ruan W, Thosani NC, et al. American Society for Gastrointestinal Endosc
 - Data overall very low quality due to small sample sizes and inability to pool
 
 ### PPI Therapy (Q4)
+
 - **Strong, moderate evidence**: PPIs at lowest dose for shortest duration while discussing long-term management
 - PPI vs placebo: OR 4.2 for symptom relief (95% CI 3.25–5.48); OR 11.4 for esophagitis healing (95% CI 8.17–16.3) — Zhang 2017 network meta-analysis, 98 RCTs, ~46,000 patients
 - PPI safety (Moayyedi 2019 large RCT, n=17,598, mean 3-year follow-up): no significant increase in all-cause mortality, cardiovascular events, CKD, C. diff, pneumonia, fractures, or dementia; only confirmed adverse event is modest increase in enteric infections (OR 1.33)
@@ -59,6 +64,7 @@ Desai M, Ruan W, Thosani NC, et al. American Society for Gastrointestinal Endosc
 - Best practice advice: de-escalate after >6 months; discuss risks/benefits; H2RAs acceptable as adjunct/PRN; potassium-competitive acid blockers (PCABs, e.g., vonoprazan) likely more potent for erosive esophagitis but long-term data not yet available
 
 ### TIF 2.0 (Transoral Incisionless Fundoplication) (Q5a)
+
 - **Conditional, low evidence**: Suggest TIF evaluation for confirmed GERD with hiatal hernia ≤2 cm and Hill grade I or II who meet any of: chronic GERD ≥6 months, long-term PPI use ≥6 months, refractory GERD, regurgitation-predominant GERD, patient preference to avoid long-term PPI
 - Refractory GERD defined as persistent troublesome symptoms despite double-dose PPI for ≥8 weeks with documented pathologic reflux
 - PPI discontinuation: RCT pooled RR 12.7 (77.6% vs 6.3% at 6 months); cohort studies: 98.8% on PPI at baseline vs 28.6% at ~19 months post-TIF
@@ -70,18 +76,21 @@ Desai M, Ruan W, Thosani NC, et al. American Society for Gastrointestinal Endosc
 - Cost: TIF 2.0 (~$13,979) < LNF (~$17,658) but > PPI (~$10,931); cost-effective with ICUR of $3,047/0.29 QALY
 
 ### cTIF — Combined Hiatal Hernia Repair + TIF (Q5b)
+
 - **Conditional, very low evidence**: Suggest cTIF evaluation in multidisciplinary review for confirmed GERD with hiatal hernia >2 cm and Hill grade III or IV
 - Cohort data only (7 studies, n=358); no RCTs yet (NCT04795934 ongoing)
 - PPI use: 94.6% at baseline → 37.5% at follow-up; GERD-HRQL MD 21.87 improvement
 - Serious adverse events 0.56%; dysphagia 5.6%
 
 ### Stretta — Radiofrequency Energy to LES (Q6)
+
 - **Best practice advice only** (no GRADE recommendation): Stretta can be considered for confirmed GERD with hiatal hernia <2 cm and Hill grade I or II when TIF and surgical fundoplication are not available or feasible
 - RCT evidence: no statistically significant PPI discontinuation advantage, no significant AET reduction, no significant symptom resolution benefit vs sham/PPI
 - Cohort data suggest partial benefit (47% PPI discontinuation at 25 months); GERD-HRQL improvement in cohorts
 - Reimbursement challenges and lack of adoption limit utility
 
 ### Novel Endoscopic Therapies
+
 - GERDx (EFTP), MUSE, antireflux mucosectomy (ARMS), antireflux mucosal ablation (ARMA), resection and plication (RAP): insufficient controlled data; panel declined to recommend
 - MUSE: serious AE rates 3.5–13.9% (empyema, hemorrhage, perforation) — not recommended over TIF 2.0
 - ARMS: clinical response 80.1%; dysphagia/stricture 11.4% — RCT underway

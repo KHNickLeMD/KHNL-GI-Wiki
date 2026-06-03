@@ -12,6 +12,7 @@ sources: [acg-2016-acute-diarrhea]
 Enterotoxigenic *E. coli* (ETEC) is the most common cause of traveler's diarrhea worldwide and a leading cause of diarrheal illness in developing countries. Produces heat-labile (LT) and/or heat-stable (ST) enterotoxins causing watery, non-bloody diarrhea. [[acg-2016-acute-diarrhea]]
 
 ## Key Points (ACG 2016)
+
 - Most common bacterial cause of TD in the Western Hemisphere.
 - **Clinical presentation:** Watery, non-bloody diarrhea; cramps; nausea; typically no fever; self-limited in 3–5 days.
 - **Treatment:** Fluoroquinolone or azithromycin for moderate-to-severe TD; loperamide adjunct recommended with antibiotics (Recommendation 8, Strong/Moderate).

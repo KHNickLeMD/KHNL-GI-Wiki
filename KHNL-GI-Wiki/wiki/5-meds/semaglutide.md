@@ -8,6 +8,7 @@ sources: ["[[aasld-2025-semaglutide-mash]]"]
 ---
 
 ## Contents
+
 - [[#Overview]]
 - [[#Mechanism of Action]]
 - [[#GI Indication — MASH with Moderate-to-Advanced Fibrosis]]
@@ -50,6 +51,7 @@ GLP-1 is an incretin hormone secreted by enteroendocrine L-cells in the distal i
 Semaglutide (Wegovy, 2.4 mg/week SC) received **accelerated FDA approval in August 2025** for treatment of MASH with moderate-to-advanced fibrosis (consistent with stages F2–F3 fibrosis). Full approval awaits completion of the ESSENCE trial (expected 2028 or thereafter). [[aasld-2025-semaglutide-mash]]
 
 **ESSENCE trial (Phase 3, clinicaltrials.gov NCT04822181):**
+
 - Population: Biopsy-confirmed MASH, Metavir stages 2–3 fibrosis; mild/no alcohol use (up to 20/30 g/day women/men); n=800 (interim analysis)
 - Treatment: Semaglutide 2.4 mg SC weekly × 72 weeks vs. placebo
 - Co-primary endpoints (both met):
@@ -82,6 +84,7 @@ flowchart TD
 ```
 
 **Sequential NIT strategy — cutoffs:**
+
 1. Calculate FIB-4 (age × AST / [platelet × √ALT])
    - FIB-4 <1.3 → rules out advanced fibrosis in 99% of primary care patients; do not use alone as rule-in for candidacy
    - FIB-4 ≥1.3 → proceed to second-line NIT
@@ -120,6 +123,7 @@ For VCTE 15–20 kPa, MRE 4.4–5 kPa, or ELF 10.5–11.3: individualized treatm
 *Table 3 — Key safety considerations and monitoring for semaglutide (Wegovy). ([[aasld-2025-semaglutide-mash]])*
 
 **Pre-treatment baseline:** [[aasld-2025-semaglutide-mash]]
+
 - Screen for active suicidal ideation
 - Thyroid nodule evaluation (personal/family history of MTC/MEN2)
 - Retinal exam in T2DM if not performed in past 12 months
@@ -138,6 +142,7 @@ For VCTE 15–20 kPa, MRE 4.4–5 kPa, or ELF 10.5–11.3: individualized treatm
 | 72 weeks | All of above | Retinal exam per society guidelines; hepatic function panel; NIT of fibrosis; NIT of steatosis |
 
 **Treatment response assessment (at 72 weeks, using baseline NITs):** [[aasld-2025-semaglutide-mash]]
+
 - **Beneficial response** (continue semaglutide): VCTE LSM decrease ≥30%; MRE LSM decrease ≥20%; MRI-PDFF decrease ≥30%; ALT decrease ≥17 U/L or ≥20%; ELF decrease ≥0.5
 - **Uncertain benefit** (sub-threshold improvement, no cirrhosis progression): Re-evaluate strategy — re-optimize lifestyle, consider other therapy with/without stopping semaglutide
 - **Non-response** (NITs worsen or suggest cirrhosis progression): Stop semaglutide
@@ -168,15 +173,18 @@ For VCTE 15–20 kPa, MRE 4.4–5 kPa, or ELF 10.5–11.3: individualized treatm
 ## Broader Cardiometabolic Benefits
 
 **Cardiovascular risk reduction:**
+
 - SUSTAIN-6 (T2DM + established CVD): 2.3% absolute risk reduction in MACE (CV death, nonfatal MI, nonfatal stroke) with semaglutide 0.5–1.0 mg/week over ~2 years; primary benefit from nonfatal stroke reduction
 - SELECT trial (obesity/overweight without T2DM, established CV disease): 1.5% absolute risk reduction in composite CV outcomes over ~40 months with Wegovy 2.4 mg/week
 - Semaglutide is FDA-approved to reduce CV event risk in: T2DM + CVD (Ozempic); obesity/overweight + CVD without T2DM (Wegovy, 2024)
 
 **Chronic kidney disease:**
+
 - FLOW trial (T2DM + CKD): Semaglutide 1.0 mg/week showed 24% relative risk reduction in kidney failure, CV death, and other renal events vs. placebo (n=3533 adults with T2DM + CKD); trial stopped early for efficacy
 - FDA expanded indication in 2025 to include reduction of CV death risk in T2DM + CKD and mitigation of kidney disease progression
 
 **Obesity (STEP trials):**
+
 - STEP 1: 14.9% mean body weight reduction with semaglutide 2.4 mg/week
 - STEP 2 (T2DM): 9.6% mean body weight reduction
 - STEP 3 (intensive behavioral therapy): 16% mean body weight reduction

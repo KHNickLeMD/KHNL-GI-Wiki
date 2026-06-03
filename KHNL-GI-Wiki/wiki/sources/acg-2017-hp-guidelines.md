@@ -10,6 +10,7 @@ sources: []
 # ACG Clinical Guideline: Treatment of *Helicobacter pylori* Infection
 
 ## Bibliographic Info
+
 - **Authors:** Chey WD, Leontiadis GI, Howden CW, Moss SF
 - **Year:** 2017
 - **Journal:** American Journal of Gastroenterology, 112:212–238
@@ -33,10 +34,12 @@ The guideline also endorses **[[test-and-treat]]** as the preferred strategy for
 ## Key Findings / Claims
 
 **Resistance thresholds:**
+
 - Clarithromycin resistance >15% → avoid empiric clarithromycin-based triple therapy
 - Metronidazole resistance >40% → limits efficacy of metronidazole-containing regimens but can be partially overcome with higher doses and longer duration (14 days)
 
 **Recommended first-line regimens (US context):**
+
 1. **[[bismuth-quadruple-therapy]]** (BQT): PPI bid + bismuth subsalicylate 525mg qid + metronidazole 250mg qid + tetracycline 500mg qid × 10–14 days
    - Achieves ~80–90% eradication rates; preferred where clarithromycin resistance is high
 2. **Concomitant quadruple therapy**: PPI bid + clarithromycin 500mg bid + amoxicillin 1g bid + metronidazole 500mg bid × 10–14 days
@@ -47,20 +50,24 @@ The guideline also endorses **[[test-and-treat]]** as the preferred strategy for
 **Duration:** 14 days consistently outperforms 7–10 days; 10 days acceptable for BQT
 
 **Post-treatment testing:**
+
 - Always confirm eradication; use UBT or SAT
 - Test ≥4 weeks after therapy, ≥2 weeks after stopping PPI
 - Serology is NOT appropriate for post-treatment testing
 
 **Test-and-treat:**
+
 - Preferred strategy for uninvestigated dyspepsia, age <55, no alarm features, prevalence >10%
 - Non-invasive tests: UBT (sensitivity 88–95%, specificity 95–100%) or SAT (sensitivity 94%, specificity 97%) preferred over serology
 
 **Salvage therapy (after first-line failure):**
+
 - If prior clarithromycin exposure → use BQT (if not used first-line) or levofloxacin-based triple therapy
 - If prior BQT → use levofloxacin-based or rifabutin-based triple therapy
 - Culture and susceptibility testing recommended before third-line therapy
 
 **Indications for testing and treatment:**
+
 - Active peptic ulcer disease (gastric or duodenal)
 - History of peptic ulcer disease (not previously treated)
 - Low-grade gastric MALT lymphoma

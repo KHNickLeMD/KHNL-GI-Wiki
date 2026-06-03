@@ -14,6 +14,7 @@ Operational tolerance is the survival and functioning of the transplanted allogr
 ## Prevalence and Predictors
 
 Per [[aasld-ast-2025-liver-transplant-graft-complications]]:
+
 - Meta-analysis of 15 studies (n=620): likelihood of operational tolerance increases by approximately 7% per year after LT (Rec 36 discussion)
 - More than 40% of highly selected LT recipients can tolerate complete IS withdrawal when performed at a mean of 10.2 years post-LT
 - Early IS withdrawal (within 1–2 years post-LT) is only possible in a very small minority of recipients
@@ -27,6 +28,7 @@ Per [[aasld-ast-2025-liver-transplant-graft-complications]]:
 Per [[aasld-2012-liver-transplant-long-term]] (Rec 9): withdrawal may be undertaken only with select recipients under close supervision (Grade 2, Level C).
 
 **Conditions that should preclude IS withdrawal attempts:**
+
 - History of rejection
 - Autoimmune liver disease (AIH, PBC, PSC)
 - Inflammation, fibrosis, or piecemeal necrosis on histology before attempt

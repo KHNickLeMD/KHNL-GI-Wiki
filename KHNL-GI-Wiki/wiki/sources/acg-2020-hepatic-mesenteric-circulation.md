@@ -8,6 +8,7 @@ sources: []
 ---
 
 ## Bibliographic Info
+
 - **Authors:** Simonetto DA, Singal AK, Garcia-Tsao G, Caldwell SH, Ahn J, Kamath PS; American College of Gastroenterology
 - **Year:** 2020
 - **Journal/Publisher:** *American Journal of Gastroenterology* 2020;115:18–40

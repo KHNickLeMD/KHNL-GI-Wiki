@@ -8,6 +8,7 @@ sources: []
 ---
 
 ## Bibliographic Info
+
 - **Authors:** Yadlapati R, Kahrilas PJ, Fox MR, Bredenoord AJ, Prakash Gyawali C, Roman S, et al.
 - **Year:** 2021
 - **Journal/Publisher:** Neurogastroenterology & Motility 2021;33(1):e14058
@@ -24,10 +25,12 @@ Protocol standardization includes supine and upright swallow series, multiple ra
 ## Key Findings / Claims
 
 **Protocol:**
+
 - Supine: 10 × 5-mL wet swallows; upright: ≥5 × 5-mL wet swallows; plus MRS (five 2-mL rapid swallows) and RDC (200 mL free drinking); solid swallows optional but suggested
 - Positions critical: supine IRP thresholds ≤15 mmHg (Medtronic), ≤22 mmHg (Laborie/Diversatek); upright ≤12 mmHg (Medtronic), ≤15 mmHg (Laborie)
 
 **Distal Contractile Integral (DCI):**
+
 - Normal: 450–8,000 mmHg·s·cm
 - Hypercontractile (Jackhammer): DCI >8,000 mmHg·s·cm
 - Failed swallow: DCI <100 mmHg·s·cm
@@ -37,18 +40,21 @@ Protocol standardization includes supine and upright swallow series, multiple ra
 **Distal Latency (DL):** Normal ≥4.5 s; premature = DL <4.5 s with DCI ≥450
 
 **Disorders of EGJ Outflow:**
+
 - Achalasia Type I: abnormal IRP + 100% failed peristalsis (no pressurization)
 - Achalasia Type II: abnormal IRP + ≥20% swallows with panesophageal pressurization
 - Achalasia Type III: abnormal IRP + ≥20% swallows with premature/spastic contractions
 - EGJOO: elevated IRP with some preserved peristalsis; **clinically conclusive only with supportive symptoms (dysphagia or NCCP) plus positive TBE or FLIP**; otherwise classified as "inconclusive"
 
 **Disorders of Peristalsis:**
+
 - Absent contractility: normal IRP + 100% failed peristalsis (scleroderma pattern)
 - Distal esophageal spasm (DES): ≥20% premature contractions with DCI >450 mmHg·s·cm; normal IRP
 - Hypercontractile esophagus: ≥20% hypercontractile swallows (DCI >8,000); EGJ obstruction excluded
 - Ineffective esophageal motility (IEM): >70% ineffective swallows (failed or weak) OR ≥50% failed swallows; **fragmented peristalsis incorporated into IEM** (no longer standalone)
 
 **EGJ Metrics:**
+
 - Respiratory inversion point (RIP): location relative to LES and diaphragm (crural diaphragm [CD])
 - EGJ-contractile integral (EGJ-CI): <25 mmHg·cm suggested hypotensive but no consensus threshold established
 - LES-CD separation: used to characterize hiatal hernia on HRM
@@ -73,6 +79,7 @@ Protocol standardization includes supine and upright swallow series, multiple ra
 | TBE and/or FLIP panometry should be used to confirm clinical significance of EGJOO before treatment decisions are made | Consensus Statement | — |
 
 ## Relevance to Wiki
+
 - Core reference for [[chicago-classification-v4]] (concept page)
 - Informs [[achalasia]] — type classification, IRP thresholds, diagnostic criteria
 - Informs [[distal-esophageal-spasm]], [[hypercontractile-esophagus]], [[ineffective-esophageal-motility]] stubs
@@ -80,6 +87,7 @@ Protocol standardization includes supine and upright swallow series, multiple ra
 - Key cross-reference for GERD evaluation (HRM before anti-reflux surgery)
 
 ## Contradictions / Open Questions
+
 - EGJOO classification remains controversial; CC v4.0 explicitly states manometric EGJOO alone is insufficient for diagnosis — clinical integration required; prior wiki content based on older classifications may over-diagnose EGJOO
 - IEM diagnostic threshold revised (fragmented peristalsis eliminated as standalone entity — update any prior references)
 - No consensus on EGJ-CI lower threshold for hypotensive EGJ

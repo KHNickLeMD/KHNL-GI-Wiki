@@ -16,6 +16,7 @@ sources: [acg-2021-anorectal-disorders, aga-acg-2023-constipation]
 **Clinical features (Rome IV-compatible):** excessive straining during ≥25% of defecations, sense of anorectal blockage during ≥25% of defecations, use of digital or manual maneuvers during ≥25% of defecations, sense of incomplete evacuation.
 
 **Pathophysiology — two main mechanisms:**
+
 1. **Dyssynergic defecation:** paradoxical contraction (or failure to relax) of the external anal sphincter and/or puborectalis muscle during straining/defecation — the most common mechanism
 2. **Inadequate rectal propulsive force:** reduced rectal pressure generation on push effort; normal sphincter relaxation but insufficient propulsion
 
@@ -47,12 +48,14 @@ Severity based on symptom burden, laxative dependence, impact on QoL (PAC-QoL, P
 ### Required Tests for Diagnosis
 
 **Digital rectal examination (DRE) — strongly recommended:**
+
 - Assess anal tone at rest and squeeze
 - **Simulate defecation:** normally the puborectalis and external sphincter should RELAX during push — failure to relax ("pulling in") or paradoxical contraction is pathognomonic of dyssynergia
 - Sensitivity 75%, specificity 87% for dyssynergia (vs. manometry as reference standard, one center study)
 - Widely underperformed; should be standard in all patients with suspected DD
 
 **Anorectal manometry (ARM) + balloon expulsion test (BET) — both required:**
+
 - ARM: documents resting tone, squeeze, push effort pressures; rectoanal inhibitory reflex; defecation dynamics
   - Dyssynergia pattern: failure to reduce anal sphincter pressure to <50% of baseline (or paradoxical increase) during push maneuver; poor or absent rectal propulsion
   - High-resolution manometry is preferred; provides spatial pressure mapping
@@ -62,11 +65,13 @@ Severity based on symptom burden, laxative dependence, impact on QoL (PAC-QoL, P
 - Both ARM + BET required; single test insufficient (concordance >70% but tests assess different aspects)
 
 **Defecography (barium or MRI) — for structural evaluation:**
+
 - Indicated when: ARM + BET discordant, biofeedback fails, structural abnormality suspected (rectocele, prolapse, enterocele), or rectal prolapse not seen on physical exam
 - MRI defecography: no radiation; superior for pelvic organ prolapse and levator assessment; more expensive, less available
 - Barium defecography: detects internal intussusception, solitary rectal ulcer, rectocele, anorectal angle
 
 **Colon transit study:**
+
 - Ordered only if ARM + BET are normal (to rule out slow-transit constipation) OR if patient fails biofeedback despite confirmed dyssynergia
 - Radiopaque marker study (Sitz-Mark capsules) at day 5; wireless motility capsule for simultaneous upper GI transit
 - Up to 50% of DD patients have delayed colonic transit — usually secondary to outlet dysfunction, normalizes with successful biofeedback
@@ -85,10 +90,12 @@ Severity based on symptom burden, laxative dependence, impact on QoL (PAC-QoL, P
 ### Step 2: Anorectal Biofeedback — Cornerstone of Treatment
 
 **Strong recommendation, Moderate quality evidence (ACG 2021):**
+
 - Biofeedback is the only established effective treatment for DD; 8 RCTs support its superiority over sham, diazepam, PEG, and medical care alone
 - **Recommended protocol:** 4–6 sessions with well-trained therapist, several weeks apart
 
 **Four components of biofeedback for DD (Table 3, ACG 2021):**
+
 1. **Education:** anatomy of defecation, explain dyssynergia, demonstrate rectoanal gradient concept
 2. **Manometric-guided relaxation:** visual feedback of anal sphincter pressure during push; teach simultaneous anal relaxation and rectal pressure generation
 3. **Balloon expulsion retraining:** practice simulated defecation with rectal balloon; reduce time to expulsion
@@ -101,6 +108,7 @@ Severity based on symptom burden, laxative dependence, impact on QoL (PAC-QoL, P
 ### Step 3: Surgery (After Biofeedback Failure with Structural Abnormality)
 
 **Principle: structural correction alone does not restore function.** Surgical intervention is considered only when:
+
 - Patient fails conservative management AND biofeedback
 - Structural abnormality clearly contributing (overt rectal prolapse, significant symptomatic rectocele with trapping)
 

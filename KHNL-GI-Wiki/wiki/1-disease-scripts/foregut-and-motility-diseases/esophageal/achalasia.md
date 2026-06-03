@@ -10,6 +10,7 @@ sources: ["[[acg-2020-achalasia]]"]
 # Achalasia
 
 ## Contents
+
 - [[#Assessment]]
   - [[#Establishing the Diagnosis]]
   - [[#Classification / Typing (Chicago Classification — clinically essential)]]
@@ -45,6 +46,7 @@ Esophageal motility disorder characterized by **aberrant peristalsis and insuffi
 ### Establishing the Diagnosis
 
 **Clinical presentation:**
+
 - Progressive dysphagia to both solids and liquids (key distinguishing feature from mechanical obstruction)
 - Regurgitation of undigested food
 - Chest pain, heartburn (27–42% — frequently misdiagnosed as GERD)
@@ -55,11 +57,13 @@ Esophageal motility disorder characterized by **aberrant peristalsis and insuffi
 **Always perform upper endoscopy first** to rule out pseudoachalasia from obstructing mass (especially in elderly with significant short-term weight loss → cross-sectional imaging ± EUS).
 
 **Diagnostic criteria (any 2 of 3):**
+
 1. Endoscopic: retained saliva, puckered/tight GEJ requiring pressure to traverse, dilated esophagus
 2. Barium esophagram: dilated esophagus with "bird beaking" at GEJ, retained barium at 1–5 min (TBE)
 3. HRM: elevated integrated relaxation pressure (IRP) + absent/disordered peristalsis — **gold standard**
 
 > **Recommendation:** Use esophageal pressure topography (HRM) over conventional line tracing for the diagnosis of achalasia. (Strong; High evidence)
+>
 > - HRM has superior inter-rater agreement (k=0.57 vs 0.32) and 3.4x lower odds of incorrect diagnosis vs conventional manometry
 
 **FLIP (Functional Lumen Imaging Probe):** Approved tool measuring EGJ distensibility index. Complementary in equivocal cases or patients who cannot tolerate manometry. Performed during endoscopy under sedation. All 70 manometry-confirmed achalasia patients had reduced EGJ distensibility on FLIP. Role still evolving.
@@ -95,23 +99,29 @@ Disease progresses: Type III → Type II → Type I as esophagus dilates over ti
 ## Diagnostics
 
 ### HRM (High-Resolution Manometry)
+
 Gold standard. Use esophageal pressure topography. Reports IRP (integrated relaxation pressure) and body pattern. Chicago Classification v3.0 defines subtypes.
 
 ### Timed Barium Esophagram (TBE)
+
 Barium column height measured at 1, 2, and 5 minutes after large barium bolus ingestion. Pre-treatment: retained barium. Post-treatment success: complete emptying at 1 minute. **Best predictor of long-term outcome post-dilation** (superior to symptom scores).
 
 ### Upper Endoscopy
+
 - Rules out pseudoachalasia / mechanical obstruction (**always perform**)
 - Findings: retained saliva/food, dilated esophagus, puckered/tight GEJ
 - Post-therapy: assess for GERD-related esophagitis or stricture
 
 ### FLIP (Functional Lumen Imaging Probe)
+
 Simultaneous cross-sectional area + pressure → EGJ distensibility index. Useful in:
+
 - Equivocal manometry with high clinical suspicion
 - Patients who cannot tolerate manometry (performed under sedation during endoscopy)
 - Pre- and post-treatment assessment
 
 ### Eckardt Score (ES)
+
 Symptom score: dysphagia + regurgitation + chest pain + weight loss (each 0–3); range 0–12. ES >3 = suboptimal outcome. Standard outcome measure but limited by dysphagia component dominating; **do not use ES or HRM alone to define treatment failure** — use TBE.
 
 ---
@@ -212,6 +222,7 @@ flowchart TD
 ### Post-Therapy Monitoring and Retreatment
 
 **Assessment of treatment failure:**
+
 - Do NOT use ES or HRM alone to define failure
 - Use **TBE as first-line test** for continued/recurrent symptoms (Strong; Very low evidence)
 

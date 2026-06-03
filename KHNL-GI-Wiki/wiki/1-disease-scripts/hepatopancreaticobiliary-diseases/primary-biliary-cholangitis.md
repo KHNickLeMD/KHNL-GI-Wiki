@@ -30,12 +30,14 @@ When criteria 1 + 2 are met, biopsy is not required for diagnosis.
 **Biochemical:** Serum ALP elevation is the cardinal biochemical feature. ALT/AST may be mildly elevated. IgM typically elevated. Bilirubin elevation indicates advanced disease. Serum albumin and platelet count are early indicators of cirrhosis/portal hypertension.
 
 **Prognostic models:**
-- **GLOBE score** — uses bilirubin, albumin, ALP, platelet count, and age at 1 year of UDCA treatment. Score >0.30 = shorter transplant-free survival than age/sex-matched healthy population. Calculator available at https://www.globalpbc.com/globe.
+
+- **GLOBE score** — uses bilirubin, albumin, ALP, platelet count, and age at 1 year of UDCA treatment. Score >0.30 = shorter transplant-free survival than age/sex-matched healthy population. Calculator available at <https://www.globalpbc.com/globe>.
 - **UK-PBC score** — uses ALP, aminotransferases, bilirubin at 12 months + baseline albumin and platelets. Predicts risk of LT or liver-related death at 5, 10, and 15 years.
 - **Mayo risk score** — older model using bilirubin, albumin, prothrombin time, age, edema; can be used without biopsy.
 - **Bilirubin** is the single best predictor of survival and is a component of all prognostic models.
 
 **Histologic staging (Ludwig system):**
+
 - **Stage I** — portal inflammation ± florid bile duct lesion; confined to portal triads
 - **Stage II** — interface hepatitis (periportal extension, ductular proliferation)
 - **Stage III** — bridging fibrosis (distorted architecture, numerous fibrous septa)
@@ -175,10 +177,12 @@ UDCA and OCA do not improve fatigue or pruritus. These symptoms require separate
 **Step 1 — Lifestyle:** Avoid tight/itchy clothing; tepid (not hot) baths; moisturizers; ice packs. Pruritus has a circadian rhythm (worse evenings). May worsen during pregnancy or with estrogen use.
 
 **Step 2 — Anion-exchange resins** (Guidance Statement 11 — initial therapy):
+
 - **Cholestyramine** 4 g/dose up to 16 g/day; given 1 hour before or 4 hours after other medications (especially UDCA) to avoid drug interactions; side effects: bloating, constipation, diarrhea
 - Colestipol and colesevelam also available; colesevelam not effective in one RCT (but patients had already failed resins)
 
 **Step 3 — Refractory to resins** (Guidance Statement 12):
+
 - **a. Rifampicin 150–300 mg twice daily** — pregnane X receptor agonist; effective in multiple small trials and 2 meta-analyses; avoid if bilirubin >2.5 mg/dL (hepatotoxicity risk including acute liver failure; monitor LFTs); enzyme inducer with multiple drug interactions
 - **b. Oral opiate antagonists — naltrexone**, start 12.5 mg/day, increase by 12.5 mg every 3–7 days to target dose 50 mg/day; opioid withdrawal-like reaction on initiation (abdominal pain, hypertension, tachycardia, goosebumps — self-limited; gradual titration minimizes); drug-induced liver injury uncommon but monitor LFTs; naloxone IV infusion is alternative
 - **c. Sertraline 75–100 mg/day** — small placebo-controlled trial and retrospective series showed benefit; effect independent of antidepressant action
@@ -192,11 +196,13 @@ UDCA and OCA do not improve fatigue or pruritus. These symptoms require separate
 Sjögren's syndrome coexists significantly more often in PBC. Also: calcinosis, Raynaud, esophageal dysfunction, sclerodactyly, telangiectasias (CREST), scleroderma.
 
 **Dry eyes (keratoconjunctivitis sicca):**
+
 - Step 1: Artificial tears (hydroxypropyl methylcellulose or carboxymethylcellulose)
 - Step 2: Refer to ophthalmologist; pilocarpine or cevimeline (muscarinic agonists — side effects: nausea, sweating, flushing, urinary frequency)
 - Step 3: Cyclosporine or lifitegrast ophthalmic emulsion (Guidance Statement 13)
 
 **Dry mouth (xerostomia):**
+
 - Frequent sips of water, sugar-free gum/candy, moisturizing mouthwashes, saliva substitutes
 - Pilocarpine or cevimeline if refractory to saliva substitutes (Guidance Statement 14)
 - Regular dental check-ups mandatory (increased caries risk)
@@ -250,10 +256,12 @@ Portal hypertension may develop as a result of biliary cirrhosis or, in the **pr
 PBC confers a slightly elevated HCC risk (3.9 cases per 1,000 person-years), lower than viral hepatitis or hemochromatosis but clinically relevant. Men and patients with advanced disease are at highest risk. Suboptimal UDCA response is an important risk factor.
 
 **HCC surveillance with cross-sectional imaging ± AFP every 6 months** is currently advised for (Guidance Statement 16):
+
 - Men with PBC
 - Patients with cirrhosis
 
 **Without liver biopsy, consider surveillance in:**
+
 - Low platelet count
 - Mayo risk score >4.1
 - Transient elastography ≥17 kPa
@@ -263,6 +271,7 @@ PBC confers a slightly elevated HCC risk (3.9 cases per 1,000 person-years), low
 ### Liver Transplantation
 
 **Indications for referral/listing:**
+
 - **MELD score >14** (Guidance Statement 21)
 - Total bilirubin >6 mg/dL
 - Mayo risk score >7.8
@@ -274,6 +283,7 @@ PBC confers a slightly elevated HCC risk (3.9 cases per 1,000 person-years), low
 **Pregnancy and transplant listing:** Estrogens promote cholestasis; pruritus can worsen significantly during pregnancy and may not resolve after delivery. Standard variceal screening in second trimester for cirrhotic patients; short second stage of labor preferred to avoid Valsalva-precipitated variceal hemorrhage.
 
 **Post-transplant:**
+
 - **Recurrent PBC:** 20–30% by 10 years, up to 50% by 20 years. Median time to recurrence 3–6 years. Recurrent PBC infrequently affects long-term patient or graft survival.
 - **UDCA post-transplant:** Associated with lower recurrence rates (21% vs. 62%, P=0.004); continued indefinitely post-transplant.
 - **Cyclosporine-based IS** associated with reduced recurrence (not proven; tacrolimus-based IS associated with higher recurrence rates in some studies).
@@ -286,6 +296,7 @@ PBC confers a slightly elevated HCC risk (3.9 cases per 1,000 person-years), low
 **Definition:** Simultaneous AIH in patients with AMA-positive PBC. Should not be applied to PBC patients with incidental ANA/SMA positivity or mild interface hepatitis (both are common features of PBC itself).
 
 **Paris Criteria for PBC/AIH overlap (require 2 of 3 AIH criteria):**
+
 - **a.** ALT >5× ULN
 - **b.** IgG ≥2× ULN or positive anti-smooth muscle antibody
 - **c.** Liver biopsy with moderate or severe interface hepatitis

@@ -37,21 +37,25 @@ Patients with IBD ([[crohns-disease]] and [[ulcerative-colitis]]) require proact
 ## Cancer Screening
 
 ### Cervical Cancer
+
 - Women with IBD on immune-modifying therapy → annual cervical cancer screening within 1 year of sexual activity onset
 - If <30 years old: continue annual screening for 3 consecutive years before transitioning to every 3 years
 - Rationale: immune-modifying therapy elevates HPV-related cervical neoplasia risk
 
 ### Melanoma
+
 - Annual full-skin melanoma screening for all IBD patients (CD and UC) regardless of biologic therapy use
 - Note: current meta-analyses do not show statistically significant anti-TNF or thiopurine melanoma association, but annual screening is recommended given immune-modifying context
 
 ### Non-Melanoma Skin Cancer (NMSC)
+
 - Annual NMSC screening for patients on: 6-mercaptopurine, azathioprine, methotrexate, JAK inhibitors, or S1P receptor modulators — particularly >50 years old
 - Thiopurine NMSC risk: RR 1.88; incidence rate ratio increases from 1.6× in year 1 to 3.6× by year 5
 - Risk may persist after discontinuation (conflicting data)
 - Vedolizumab: no NMSC signal
 
 ### Colorectal Dysplasia
+
 - Not addressed in this preventive care guideline; see [[colonoscopy]] for IBD dysplasia surveillance intervals
 
 ---
@@ -61,6 +65,7 @@ Patients with IBD ([[crohns-disease]] and [[ulcerative-colitis]]) require proact
 Patients with IBD and conventional BMD risk factors → DEXA scan at time of IBD diagnosis and periodically.
 
 **Key risk factors in IBD:**
+
 - Corticosteroid use: 30–50% fracture risk with long-term use; doses ≥7.5 mg/day prednisone → 5-fold higher spine/hip fracture risk; even 2.5 mg/day increases spinal fracture risk; risk resolves 3–6 months after stopping
 - IBD-associated malnutrition, vitamin D deficiency, low weight
 - Overall IBD fracture risk: RR 1.38 (vertebral RR 2.26)
@@ -75,6 +80,7 @@ Conventional DEXA risk factors apply: age, female sex, low BMI, smoking, family 
 - Refer to counseling/therapy if screen positive
 
 **Epidemiology:**
+
 - Anxiety: 32.1% of IBD vs. 10.4% general population
 - Depression: 25.2% of IBD vs. 17.9% controls
 - CD patients 20% more likely than UC to report both
@@ -82,6 +88,7 @@ Conventional DEXA risk factors apply: age, female sex, low BMI, smoking, family 
 - Depression independently predicts IBD relapse and lower biologic remission rates
 
 **Treatment:**
+
 - CBT: variable benefit; digital/face-to-face formats available
 - Acceptance and commitment therapy: emerging evidence
 - SNRIs: effective for both depressive and somatic GI symptoms in meta-analysis

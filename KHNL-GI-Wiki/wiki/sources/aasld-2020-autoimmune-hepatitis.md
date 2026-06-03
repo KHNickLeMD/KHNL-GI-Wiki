@@ -100,11 +100,13 @@ Practical point: DIAIH may be indistinguishable from idiopathic AIH; drug exposu
 ### Overlap Syndromes
 
 **AIH-PBC overlap (Paris criteria):**
+
 - 2 of 3 PBC criteria: ALP ≥2× ULN or GGT ≥5× ULN; AMA ≥1:40; liver biopsy with bile duct lesions
 - 2 of 2 AIH criteria: ALT ≥5× ULN; IgG ≥2× ULN or SMA positive; liver biopsy with moderate-to-severe interface hepatitis
 - Treatment: prednisone + AZA + UDCA (13–15 mg/kg/day)
 
 **AIH-PSC overlap:**
+
 - Typical AIH features + large-duct PSC on cholangiogram (MRCP/ERCP)
 - Consider in AIH patients with concomitant IBD (especially UC) or elevated ALP out of proportion
 - Prognosis driven by PSC component

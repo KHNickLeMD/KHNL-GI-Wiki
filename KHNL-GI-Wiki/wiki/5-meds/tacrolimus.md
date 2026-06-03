@@ -51,6 +51,7 @@ Compared to cyclosporine: TAC causes more DM and neurotoxicity; less hypertensio
 CYP3A4 substrate — major interactions:
 
 **Increase TAC levels (CYP3A4 inhibitors):**
+
 - Azole antifungals (fluconazole, voriconazole, posaconazole) — dramatic increase
 - Macrolide antibiotics (clarithromycin, erythromycin)
 - Calcium channel blockers (diltiazem, verapamil)
@@ -59,6 +60,7 @@ CYP3A4 substrate — major interactions:
 - Nirmitrelavir/ritonavir (Paxlovid) — dramatic increase; requires dose adjustment
 
 **Decrease TAC levels (CYP3A4 inducers):**
+
 - Rifampin — dramatic decrease
 - Anticonvulsants (phenytoin, carbamazepine, phenobarbital)
 - St. John's Wort

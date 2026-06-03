@@ -8,6 +8,7 @@ sources: []
 ---
 
 ## Bibliographic Info
+
 - **Authors:** Karvellas CJ, Bajaj JS, Kamath PS, Napolitano L, O'Leary JG, Solà E, Subramanian R, Wong F, Asrani SK
 - **Year:** 2024 (Hepatology 2024;79:1463–1502)
 - **Journal/Publisher:** *Hepatology* 2024;79:1463–1502; doi:10.1097/HEP.0000000000000671
@@ -134,6 +135,7 @@ Key areas: definition and prognosis (ACLF-specific scores vs. MELD); organ-speci
 | APASL | Acute hepatic insult + liver failure (Bi ≥5, INR ≥1.5) + coagulopathy + clinical features ≤4 weeks in previously diagnosed or undiagnosed CLD | Includes non-cirrhotic CLD; high sensitivity, lower specificity for mortality |
 
 **ACLF-specific prognostic scores:**
+
 - NACSELD-ACLF (North America): MELD + OFs (cardiovascular, renal, respiratory, brain); AUC 0.85 for 30-day survival
 - CLIF-C ACLF (European): hepatic + extrahepatic OFs + age + WBC + Bi + Cr + INR; C-index 0.76–0.76 at 28/90/180/360 days
 - AARC (Asia-Pacific): Bi + Cr + INR + lactate + HE grade; good calibration in non-Asian populations
@@ -148,10 +150,12 @@ Key areas: definition and prognosis (ACLF-specific scores vs. MELD); organ-speci
 **Palliative care:** Early consult reduces readmissions ~50%, saves ~$10,000/patient. LT listing does not preclude palliative care (GS 51). All ACLF ICU patients should receive palliative care consult (Table 8 quality metrics).
 
 ## Relevance to Wiki
+
 - Creates new `[[acute-on-chronic-liver-failure]]` entity page
 - Cross-references: `[[acute-liver-failure]]` (distinct entity — ALF has no prior CLD), `[[aki-in-cirrhosis]]` (HRS-AKI overlap), `[[spontaneous-bacterial-peritonitis]]`, `[[hepatic-encephalopathy]]`, `[[liver-transplantation]]`, `[[portal-hypertension]]`, `[[ascites]]`
 
 ## Contradictions / Open Questions
+
 - No single globally applicable ACLF definition; NACSELD/EASL-CLIF/APASL capture different disease stages
 - Optimal LT selection criteria in ACLF remain undefined; trajectory (stabilization vs. progression) appears more important than a single score cutoff
 - Terlipressin contraindication in ACLF-3 based on CONFIRM trial; norepinephrine preferred in shock but not specifically studied in ACLF

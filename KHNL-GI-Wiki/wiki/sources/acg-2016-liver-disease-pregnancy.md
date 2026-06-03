@@ -8,6 +8,7 @@ sources: []
 ---
 
 ## Bibliographic Info
+
 - **Authors:** Tram T. Tran, MD, FACG, FAASLD; Joseph Ahn, MD, MS, FACG; Nancy S. Reau, MD, FAASLD, FAGA
 - **Year:** 2016 (published online 2 February 2016)
 - **Journal/Publisher:** Am J Gastroenterol 2016; 111:176–194. doi:10.1038/ajg.2015.430

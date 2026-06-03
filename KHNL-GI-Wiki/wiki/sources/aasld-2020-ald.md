@@ -8,6 +8,7 @@ sources: []
 ---
 
 ## Bibliographic Info
+
 - **Authors:** David W. Crabb, Gene Y. Im, Gyongyi Szabo, Jessica L. Mellinger, Michael R. Lucey
 - **Year:** 2020 (approved February 21, 2019; published Hepatology January 2020)
 - **Journal/Publisher:** Hepatology, Vol. 71, No. 1, 2020; DOI 10.1002/hep.30866
@@ -52,18 +53,21 @@ The guidance devotes substantial attention to liver transplantation for ALD, inc
 **GS-9:** "The diagnosis of AH (definite, probable, possible) should be made using the published consensus criteria (Fig. 2)."
 
 *Consensus clinical diagnosis criteria for AH (Fig. 2):*
+
 - Onset of jaundice within prior 8 weeks
 - Ongoing consumption of >40 (female) or 60 (male) g alcohol/day for ≥6 months, with <60 days of abstinence before onset of jaundice
 - AST >50, AST/ALT >1.5, and both values <400 IU/L
 - Serum total bilirubin >3.0 mg/dL
 
 *Potential confounding factors requiring biopsy confirmation:*
+
 - Possible ischemic hepatitis (severe UGI bleed, hypotension, or cocaine use within 7 days) or metabolic liver disease (Wilson disease, alpha-1 antitrypsin deficiency)
 - Possible drug-induced liver disease (suspect drug within 30 days of onset of jaundice)
 - Uncertain alcohol use (patient denies excessive alcohol use)
 - Presence of atypical laboratory tests (AST <50 or >400 IU/L, AST/ALT <1.5, ANA >1:160 or SMA >1:80)
 
 *Three diagnostic categories:*
+
 - **Definite AH:** Clinically diagnosed AND biopsy-proven
 - **Probable AH:** Clinically diagnosed without potential confounding factors (no biopsy needed)
 - **Possible AH:** Clinically diagnosed with potential confounding factors (biopsy needed for confirmation)
@@ -103,6 +107,7 @@ The guidance devotes substantial attention to liver transplantation for ALD, inc
 **GS-19:** "Pentoxifylline is no longer recommended in the treatment of AH."
 
 *Treatment algorithm (Fig. 3) summary:*
+
 1. Assess AH diagnosis (Fig. 2)
 2. Assess eligibility: MDF ≥32 (or possibly MELD >20); obtain abdominal ultrasound; screen for infection (CXR, blood/urine/ascites cultures)
 3. Assess contraindications: uncontrolled infections; AKI with serum creatinine >2.5 mg/dL; uncontrolled upper GI bleeding; concomitant HBV, HCV, DILI, HCC, acute pancreatitis, HIV, TB; multiorgan failure or shock

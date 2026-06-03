@@ -8,6 +8,7 @@ sources: []
 ---
 
 ## Bibliographic Info
+
 - **Authors:** Robertson DJ, Lee JK, Boland CR, Dominitz JA, Giardiello FM, Johnson DA, Kaltenbach T, Lieberman D, Levin TR, Rex DK
 - **Year:** 2017 (published online October 2016)
 - **Journal/Publisher:** Am J Gastroenterol 2017;112:37–53; doi:10.1038/ajg.2016.492
@@ -26,12 +27,14 @@ Key distinctions from the contemporaneous ACG 2021 and USMSTF 2021 guidelines: t
 ### FIT Performance — Single Application (1-time)
 
 **For CRC detection (meta-analysis of 19 studies in asymptomatic average-risk adults):**
+
 - Pooled sensitivity: **79%** (95% CI, 0.69–0.86)
 - Pooled specificity: **94%** (95% CI, 0.92–0.95)
 - Subgroup restricted to colonoscopy-as-reference-standard studies: sensitivity 77%, specificity 94%
 - OC FIT CHEK (Polymedco, n=9,989 undergoing colonoscopy): sensitivity 74%, specificity 96%
 
 **For advanced adenoma detection (1-time application, Table 2):**
+
 - Sensitivity range across studies: **6–56%** (wide variation by brand and cut-off)
 - Specificity range: **68–99%**
 - Representative large studies:

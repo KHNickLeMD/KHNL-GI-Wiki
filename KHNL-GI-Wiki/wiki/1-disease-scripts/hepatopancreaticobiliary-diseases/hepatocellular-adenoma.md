@@ -18,11 +18,13 @@ sources: [acg-2024-focal-liver-lesions]
 **Hepatocellular adenoma (HCA):** rare benign hepatocellular neoplasm; clinically significant due to bleeding risk and malignant transformation potential (HCC).
 
 **Epidemiology:**
+
 - Predominantly women aged 30–50 on oral contraceptive pills (OCPs)
 - Incidence: 3–4 per 100,000 OCP users; rare without OCP use
 - Also associated with: anabolic-androgenic steroid use (especially men), glycogen storage disease type Ia and III, metabolic syndrome/obesity
 
 **Presentation:**
+
 - Often **incidental** on imaging obtained for other reasons
 - Right upper quadrant or epigastric pain (from hemorrhage into adenoma or liver capsule)
 - Acute hemorrhage with hemoperitoneum (life-threatening; HCA >5 cm at highest risk)
@@ -66,20 +68,24 @@ sources: [acg-2024-focal-liver-lesions]
 ### Imaging
 
 **MRI with hepatobiliary contrast agent (gadoxetate disodium) — preferred** [[acg-2024-focal-liver-lesions]]:
+
 - Hepatobiliary phase: HCA shows **absence of gadoxetate uptake** (iso- or hypointense) — distinguishes from FNH (which takes up gadoxetate)
 - HNF1α-inactivated HCA: T1 hyperintense (fat); signal dropout on in/out-of-phase images
 - Inflammatory HCA: persistent enhancement; often difficult to distinguish from HCC without biopsy
 - Beta-catenin HCA: heterogeneous, may mimic HCC; may show partial gadoxetate uptake
 
 **Contrast-Enhanced Ultrasound (CEUS):**
+
 - Valid alternative to MRI; avoids radiation and gadolinium
 - HCA: hyperenhancement in arterial phase with early washout (washout less pronounced than HCC)
 
 **CT with contrast:**
+
 - Arterial hyperenhancement; portal-venous phase iso- or hypodense
 - Inferior to MRI for subtype determination
 
 **Biopsy:**
+
 - Percutaneous biopsy controversial due to bleeding risk from highly vascular lesion
 - Indicated when imaging is inconclusive and management would change based on molecular subtype
 - Immunostaining: LFABP (HNF1α loss), CRP/SAA (inflammatory), beta-catenin/glutamine synthetase (beta-catenin activation)
@@ -93,10 +99,12 @@ sources: [acg-2024-focal-liver-lesions]
 ### 1. Initial Management
 
 **Discontinue OCP** (or anabolic steroids):
+
 - Significant regression possible (especially HNF1α subtype; smaller lesions <5 cm)
 - Repeat MRI in **6 months** after OCP cessation to document change in size
 
 **Activity restriction:**
+
 - Avoid contact sports and strenuous activity while HCA >5 cm (bleed risk)
 
 ### 2. Resection Criteria (Surgical or Ablative)
@@ -115,12 +123,14 @@ sources: [acg-2024-focal-liver-lesions]
 ### 3. Surveillance (Non-Surgical Candidates)
 
 **Criteria for surveillance (all must be met):**
+
 - Female patient
 - ≤5 cm
 - Non–beta-catenin subtype (or subtype unknown but low-risk features)
 - OCP discontinued
 
 **Surveillance schedule:**
+
 - MRI at 6 months after OCP cessation → if stable, every 12 months
 - Goal: confirm regression or stability
 - Upgrade to resection if: growth >5 cm, change to beta-catenin features, pregnancy desired
@@ -140,6 +150,7 @@ sources: [acg-2024-focal-liver-lesions]
 ---
 
 ## See Also
+
 - [[acg-2024-focal-liver-lesions]]
 - [[focal-nodular-hyperplasia]]
 - [[hepatic-hemangioma]]

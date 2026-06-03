@@ -8,6 +8,7 @@ sources: []
 ---
 
 ## Bibliographic Info
+
 - **Authors:** Katz PO, Dunbar KB, Schnoll-Sussman FH, Greer KB, Yadlapati R, Spechler SJ
 - **Year:** 2022 (published online 2021)
 - **Journal/Publisher:** Am J Gastroenterol 2022;117:27–56
@@ -24,6 +25,7 @@ A key contribution is the comprehensive treatment of extraesophageal GERD manife
 ## Key Findings / Claims
 
 **Diagnosis:**
+
 - 8-week empiric PPI trial for typical GERD symptoms (heartburn/regurgitation): Strong/Moderate
 - If symptoms resolve, attempt PPI discontinuation: Conditional/Low
 - Reflux monitoring off PPI for patients with unclear GERD diagnosis: Strong/Low
@@ -33,6 +35,7 @@ A key contribution is the comprehensive treatment of extraesophageal GERD manife
 - No HRM as sole diagnostic test for GERD
 
 **Medical Management:**
+
 - PPI over H2RA for healing erosive esophagitis: Strong/High
 - PPI over H2RA for long-term maintenance of erosive esophagitis: Strong/Moderate
 - Take PPI 30–60 minutes before meals for optimal efficacy: Strong/Moderate
@@ -42,6 +45,7 @@ A key contribution is the comprehensive treatment of extraesophageal GERD manife
 - Indefinite maintenance PPI for LA grade C/D esophagitis: Strong/Moderate
 
 **Extraesophageal Manifestations:**
+
 - Evaluate for non-GERD causes of laryngeal/throat symptoms before attributing to GERD: Strong/Moderate
 - Reflux monitoring before PPI trial for isolated LPR, chronic cough, or asthma (without typical GERD): Strong/Moderate
 - BID PPI for 8–12 weeks if both typical AND extraesophageal GERD symptoms present: Conditional/Low
@@ -49,6 +53,7 @@ A key contribution is the comprehensive treatment of extraesophageal GERD manife
 - No salivary pepsin testing for LPR diagnosis (insufficient evidence)
 
 **Refractory GERD:**
+
 - Optimize PPI compliance and administration timing first
 - pH monitoring off PPI if GERD diagnosis uncertain
 - Impedance-pH monitoring on PPI if GERD diagnosis established but symptoms persist
@@ -57,6 +62,7 @@ A key contribution is the comprehensive treatment of extraesophageal GERD manife
 - No recommendation for additional medical therapies (alginate, baclofen, etc.): Conditional/Moderate
 
 **Surgical and Procedural Therapy:**
+
 - Antireflux surgery (especially for LA grade C/D, large hiatal hernia, troublesome regurgitation): Strong/Moderate
 - Magnetic sphincter augmentation (MSA, LINX) as alternative to fundoplication for regurgitation-predominant GERD: Strong/Moderate; concern for dysphagia with MSA in patients with dysmotility
 - Roux-en-Y gastric bypass (RYGB) for obese GERD patients: Conditional/Low
@@ -64,6 +70,7 @@ A key contribution is the comprehensive treatment of extraesophageal GERD manife
 - TIF: Conditional/Low — for heartburn/regurgitation without LA grade C/D erosive esophagitis and hiatal hernia ≤2 cm
 
 **Long-Term PPI Safety (addressed comprehensively):**
+
 - Reviewed associations with CKD, dementia, fractures, Mg/B12/iron deficiency, C. diff, enteric infections, pneumonia, cardiovascular events, gastric cancer — most associations are low quality/confounded
 - Recommends using lowest effective dose; periodic reassessment of need; not withholding when indicated for confirmed GERD
 
@@ -95,11 +102,13 @@ A key contribution is the comprehensive treatment of extraesophageal GERD manife
 | TIF for heartburn/regurgitation without LA grade C/D erosive esophagitis and hiatal hernia ≤2 cm | Conditional | Low |
 
 ## Relevance to Wiki
+
 - Primary update source for [[gerd]] disease script (adds: empiric PPI trial, extraesophageal management, refractory GERD workup, MSA, TIF criteria, PPI safety data)
 - Key divergences from [[asge-2024-gerd]]: ACG 2021 does not address TIF 2.0 vs cTIF hiatal hernia decision (predates ASGE 2024); ACG more comprehensive on extraesophageal GERD; both agree on MSA; ACG explicitly covers PPI safety
 - Cross-references: [[barretts-esophagus]], [[antireflux-surgery]], [[high-resolution-manometry]]
 
 ## Contradictions / Open Questions
+
 - **TIF hiatal hernia threshold:** ACG 2021 states ≤2 cm for TIF (consistent with ASGE 2024); but ACG 2021 predates the cTIF data reviewed in ASGE 2024 — ASGE 2024 provides more granular guidance on hiatal hernia stratification
 - ACG 2021 does not endorse Stretta but stops short of a formal recommendation against — ASGE 2024 similarly does not recommend Stretta for most patients
 - Salivary pepsin testing: ACG 2021 says insufficient evidence; more recent data remains mixed

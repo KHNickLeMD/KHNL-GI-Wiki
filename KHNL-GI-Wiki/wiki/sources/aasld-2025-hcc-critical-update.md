@@ -8,6 +8,7 @@ sources: []
 ---
 
 ## Bibliographic Info
+
 - **Authors:** Tamar H. Taddei, Daniel B. Brown, Mark Yarchoan, Mishal Mendiratta-Lala, Josep M. Llovet
 - **Year:** 2025
 - **Journal/Publisher:** *Hepatology* 2025;82:272–274. DOI: 10.1097/HEP.0000000000001269

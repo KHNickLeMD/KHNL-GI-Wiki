@@ -14,6 +14,7 @@ sources: [aasld-2024-aclf]
 ACLF is a syndrome in patients with chronic liver disease (CLD) characterized by **acute onset with rapid deterioration**, liver failure, and ≥1 extrahepatic organ failure, with high short-term mortality. Distinct from [[acute-liver-failure]] (which has no prior CLD) and from standard acute decompensation of cirrhosis (which may lack extrahepatic organ failure).
 
 **AASLD minimum definition (GS 1):** All three elements required:
+
 1. Acute onset with rapid deterioration in clinical condition
 2. Liver failure defined by **elevated bilirubin + elevated INR** in patients with CLD (with or without cirrhosis)
 3. Presence of ≥1 extrahepatic organ failure: neurologic, circulatory, respiratory, or renal
@@ -86,6 +87,7 @@ Critically ill patients with cirrhosis and ACLF require multidisciplinary ICU ca
 **Grading:** West Haven criteria (Grade 1–4) + Glasgow Coma Scale; GCS <8 = severe brain failure (GS 4). Consider ICU for Grade 3–4 HE (GS 5).
 
 **Management (GS 6–11):**
+
 - Identify and treat precipitating factors (infection, GI bleed, AKI, constipation, electrolytes, medications) (GS 6)
 - Workup for non-HE causes of AMS: alcohol withdrawal, structural injury, metabolic — especially first episode or treatment non-response (GS 7)
 - **Lactulose** (oral or rectal) or **polyethylene glycol** (if ileus risk); rifaximin role as add-on in ACLF warrants further study (GS 8)
@@ -98,15 +100,18 @@ Critically ill patients with cirrhosis and ACLF require multidisciplinary ICU ca
 **Pathophysiology:** Hyperdynamic circulation (low SVR, high CO) in cirrhosis; exacerbated by systemic inflammation in ACLF.
 
 **Assessment (GS 12–13):**
+
 - Early baseline assessment of volume status, perfusion, cardiac function (GS 12)
 - Bedside TTE/POCUS for volume status + cardiac function in hypotension/shock (GS 13)
 
 **Fluid resuscitation (GS 14):**
+
 - Judicious strategy with hemodynamic monitoring to avoid overresuscitation
 - **Balanced crystalloids** (lactated ringers) preferred; albumin for select indications (SBP, HRS-AKI fluid challenge, paracentesis-induced circulatory dysfunction)
 - No benefit from targeting specific albumin serum levels (ATTIRE trial: no improvement in composite primary endpoint)
 
 **Vasopressors (GS 15–17):**
+
 - Target MAP ≥65 mm Hg with ongoing end-organ perfusion assessment (GS 15); individualized — use mental status, capillary refill, urine output, lactate to guide
 - **Norepinephrine (0.01–0.5 mcg/kg/min): first-line vasopressor** (GS 16)
 - **Vasopressin: second-line** when increasing norepinephrine doses required (GS 16)
@@ -115,11 +120,13 @@ Critically ill patients with cirrhosis and ACLF require multidisciplinary ICU ca
 ### Respiratory Failure
 
 **Cirrhosis-specific respiratory complications (GS 18):**
+
 - Hepatic hydrothorax, tense ascites → respiratory compromise → therapeutic thoracentesis/paracentesis (GS 18)
 - [[hepatopulmonary-syndrome-portopulmonary-hypertension]] (HPS/POPH): assess in ICU for contribution to hypoxemia
 - POPH: monitor for RV dysfunction; pulmonary vasodilators (inhaled NO, epoprostenol) may be needed; TIPS generally contraindicated in POPH (worsens hepatic decompensation)
 
 **Respiratory support (GS 19–22):**
+
 - **HFNC** for acute hypoxemic respiratory failure; close monitoring for escalation (tachypnea, refractory hypoxemia) (GS 19)
 - **Mechanical ventilation for non-ALI reasons:** lung-protective strategy, low plateau pressures, 6–10 mL/kg PBW, spontaneous breathing when possible (GS 20)
 - **Mechanical ventilation for ALI/ARDS:** low tidal volume 6 mL/kg PBW, plateau <30 cm H₂O (GS 21)
@@ -130,6 +137,7 @@ Critically ill patients with cirrhosis and ACLF require multidisciplinary ICU ca
 **Diagnosis:** HRS-AKI = increase in sCr ≥0.3 mg/dL within 48h OR ≥50% from baseline, in patients with cirrhosis + ascites, after ≥2 days of diuretic withdrawal + volume expansion (albumin 1 g/kg/day up to 100 g/day × 48h), absence of shock/nephrotoxic drugs/parenchymal renal disease (Table 3). Most common extrahepatic organ failure in ACLF (29–75% depending on definition).
 
 **Management (GS 23–28):**
+
 - Withdraw diuretics; treat precipitants (infection, GI bleed); volume challenge with **albumin 1 g/kg up to 100 g/day × 48h** (GS 23)
 - If meets HRS-AKI criteria after albumin challenge:
   - **Vasoconstrictors + albumin (20–40 g/day)** for Stage 2+ HRS-AKI without contraindications (GS 24)
@@ -144,10 +152,12 @@ Critically ill patients with cirrhosis and ACLF require multidisciplinary ICU ca
 Infection is the most common precipitant of ACLF (~48%). Every hour delay in antibiotics increases multiorgan failure/mortality by 1.86×.
 
 **Initial workup (GS 29–30):**
+
 - Full infection screen at admission: diagnostic paracentesis + blood cultures × 2 + urinalysis/urine culture + chest X-ray (GS 29)
 - Repeat workup with any clinical deterioration: new/worsening ascites, HE, AKI, organ failure, or ACLF grade increase (GS 30)
 
 **Antibiotic principles (GS 31–33):**
+
 - Choose antibiotics based on etiology, severity, mode of acquisition (community vs. healthcare-associated vs. nosocomial), and local resistance patterns (GS 31)
 - **Minimize PPI use and Foley catheters** to prevent nosocomial infections (GS 32)
 - If nosocomial infection not responding to antibiotics after 48h → broaden for MDR organisms and/or fungal infection (GS 33)
@@ -165,6 +175,7 @@ Infection is the most common precipitant of ACLF (~48%). Every hour delay in ant
 **TEG/ROTEM:** Global hemostasis assessment; better reflects true clotting in cirrhosis; can guide transfusions and reduce unnecessary blood product use (GS 34; not yet clinically validated in ACLF).
 
 **Transfusion guidance:**
+
 - Low bleeding rates for paracentesis (0–3.3%) and thoracentesis (~2%) in decompensated cirrhosis; routine preprocedural coagulation correction not required
 - When correction needed: 4-factor prothrombin complex concentrate or cryoprecipitate preferred over FFP
 - Therapeutic anticoagulation: similar nonportal hypertensive bleeding rates vs. general population; case-by-case for platelet <50 (GS 36)
@@ -189,15 +200,18 @@ Malnutrition and sarcopenia are extremely common in ACLF and independently predi
 ### Liver Transplantation in ACLF
 
 **LT candidacy (GS 47–48):**
+
 - Expedited LT for selected patients with ACLF/critical illness may be indicated; no single predictor defines acceptable outcomes (GS 47)
 - **Futility:** Base decisions on LT candidacy, available resources, and potential reversibility of ACLF (GS 48)
 
 **Factors favoring LT:**
+
 - Trajectory: stabilization/improvement by Day 3–7 vs. progression
 - ≤3 organ failures with improvement
 - Controlled infection, hemodynamic stability, no ongoing uncontrolled sepsis
 
 **Likely contraindications to LT (Table 7):**
+
 - Ventilator support (strongest predictor of suboptimal post-LT outcome)
 - Lactate >9 mmol/L or CLIF-C ACLF >70
 - Severe frailty (CFS ≥7) + concurrent dialysis or advanced age
