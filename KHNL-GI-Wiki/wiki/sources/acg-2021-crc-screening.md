@@ -16,9 +16,9 @@ sources: []
 
 ## Summary
 
-This ACG guideline provides 21 GRADE-based recommendations for colorectal cancer (CRC) screening in average-risk and higher-risk adults. The guideline addresses screening initiation age, modality selection, quality indicators, family history risk stratification, and aspirin chemoprevention. A key feature is the explicit incorporation of aspirin recommendations, which distinguishes this guideline from the contemporaneous USMSTF 2021 guideline.
+This ACG guideline provides 21 GRADE-based recommendations for [[colorectal-cancer|colorectal cancer]] (CRC) screening in average-risk and higher-risk adults. The guideline addresses screening initiation age, modality selection, quality indicators, family history risk stratification, and aspirin chemoprevention. A key feature is the explicit incorporation of aspirin recommendations, which distinguishes this guideline from the contemporaneous USMSTF 2021 guideline.
 
-The guideline recommends initiating CRC screening at age 45 for average-risk adults (conditional, very low evidence) — aligning with the American Cancer Society but characterized as conditional given limited direct evidence in this age group. Colonoscopy and annual FIT are positioned as co-equal preferred modalities. Robust quality standards for colonoscopy are codified, including cecal intubation rate (CIR) and adenoma detection rate (ADR) benchmarks.
+The guideline recommends initiating CRC screening at age 45 for average-risk adults (conditional, very low evidence) — aligning with the American Cancer Society but characterized as conditional given limited direct evidence in this age group. Colonoscopy and annual FIT are positioned as co-equal preferred modalities. Robust quality standards for [[colonoscopy]] are codified, including cecal intubation rate (CIR) and adenoma detection rate (ADR) benchmarks.
 
 ## Key Findings / Claims
 
@@ -105,3 +105,7 @@ The guideline recommends initiating CRC screening at age 45 for average-risk adu
 - Age 45–49 screening: conditional vs strong (vs ACS which is strong) — evolving evidence; NordICC trial raised questions about colonoscopy mortality benefit
 - Multi-target stool DNA: cost-effectiveness debated; some newer data on specificity concerns
 - Aspirin: USPSTF 2022 subsequently recommended against aspirin for primary prevention of cardiovascular disease in most adults ≥60 — this may affect the CRC aspirin recommendation context
+
+## See Also
+
+[[colorectal-cancer-screening]], [[colonoscopy]], [[colorectal-cancer]]

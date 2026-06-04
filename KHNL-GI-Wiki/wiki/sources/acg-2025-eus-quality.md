@@ -16,7 +16,7 @@ sources: []
 
 ## Summary
 
-Third ACG-ASGE quality indicator document for EUS. Presents 20 indicators covering diagnostic and therapeutic EUS. Major change from prior version: therapeutic EUS now accounts for >50% of accepted indications, reflecting the enormous growth of interventional EUS (pancreatic fluid collection drainage, biliary drainage, gallbladder drainage, gastroenterostomy, EUS-directed transgastric ERCP).
+Third ACG-ASGE quality indicator document for EUS. Presents 20 indicators covering diagnostic and therapeutic EUS. Major change from prior version: therapeutic EUS now accounts for >50% of accepted indications, reflecting the enormous growth of interventional EUS (pancreatic fluid collection drainage, biliary drainage, gallbladder drainage, gastroenterostomy, EUS-directed transgastric [[ercp|ERCP]]).
 
 Appropriate indication performance target is >90% (vs >95% for most procedures) — intentionally allows latitude for novel interventional EUS procedures outside established lists, provided clinical benefit and safety justify the intervention.
 
@@ -39,7 +39,7 @@ New indicators in this iteration: EUS-guided liver biopsy diagnostic adequacy (�
 |---|---|---|---|
 | 5 | Visualization of relevant structures (indication-specific) documented | >98% | 3 |
 | 6 | Luminal GI cancers staged with AJCC/UICC TNM system | >98% | 3 |
-| 7* | Echogenicity and wall layer of origin documented for subepithelial masses (SELs) | >98% | 3 |
+| 7* | Echogenicity and wall layer of origin documented for [[subepithelial-lesion|subepithelial masses]] (SELs) | >98% | 3 |
 | 8 | Diagnostically adequate EUS-guided liver biopsy obtained | ≥85% | 1B |
 | 9 | Pancreatic mass ≥10mm identified with EUS | ≥90% | 2C |
 | 10 | Pancreatic mass: measurements, vascular/LN involvement, liver metastases, ascites evaluated and documented | ≥90% | 3 |
@@ -56,14 +56,14 @@ New indicators in this iteration: EUS-guided liver biopsy diagnostic adequacy (�
 |---|---|---|---|
 | 17 | Complete procedure report created | >98% | 3 |
 | 18* | AE incidence after diagnostic and interventional EUS documented | >98% | 3 |
-| 19 | AE rates after diagnostic EUS (including EUS-FNA/FNB/FNI/liver biopsy) | <0.5% perforation; <1% infection; <1% acute pancreatitis; <1% bleeding; <5% bleeding after liver biopsy | 1C¹ |
+| 19 | AE rates after diagnostic EUS (including EUS-FNA/FNB/FNI/liver biopsy) | <0.5% perforation; <1% infection; <1% [[acute-pancreatitis|acute pancreatitis]]; <1% bleeding; <5% bleeding after liver biopsy | 1C¹ |
 | 20 | AE rates after interventional EUS | <10% pancreatic fluid collection drainage; <20% EUS-GBD; <25% EUS-BD; <15% EUS-GE and EDGE | 2C |
 
 *Priority indicator
 
 ## Key Clinical Points
 
-- **Prophylactic antibiotics for pancreatic cysts:** RCT data (n=226) and meta-analyses show no significant benefit for routine antibiotics in EUS-FNA of pancreatic cystic lesions; not routinely indicated (exception: immunosuppressed, multiple comorbidities, incomplete aspiration, ascites)
+- **Prophylactic antibiotics for [[pancreatic-cysts|pancreatic cysts]]:** RCT data (n=226) and meta-analyses show no significant benefit for routine antibiotics in EUS-FNA of pancreatic cystic lesions; not routinely indicated (exception: immunosuppressed, multiple comorbidities, incomplete aspiration, ascites)
 - **Mediastinal cysts:** do not routinely sample — cyst infection/mediastinitis risk even with antibiotics
 - **Rectal EUS-FNA/FNB:** ~15% infection risk (perirectal abscess) despite prophylactic antibiotics
 - **Therapeutic EUS dominance:** >50% of accepted EUS indications are now therapeutic; competency should be objectively assessed

@@ -25,3 +25,7 @@ Disruption of MMC (by neuropathy, myopathy, medications, systemic disease) is a 
 - [[irritable-bowel-syndrome]] (altered transit)
 
 See [[small-intestinal-bacterial-overgrowth]], [[acg-2020-sibo]].
+
+## See Also
+
+[[small-intestinal-bacterial-overgrowth]], [[irritable-bowel-syndrome]], [[acg-2020-sibo]]

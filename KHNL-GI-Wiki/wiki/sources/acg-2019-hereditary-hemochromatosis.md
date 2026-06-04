@@ -21,11 +21,11 @@ sources: []
 
 This ACG guideline provides a comprehensive framework for the diagnosis, evaluation, and management of hereditary hemochromatosis (HH), focusing primarily on HFE-related (type 1) disease. The guideline uses GRADE methodology with 10 formal recommendations and several key concepts.
 
-HH is defined as an inherited iron overload disorder caused by deficiency of hepcidin, leading to excessive intestinal iron absorption. The most clinically significant form is type 1A (C282Y homozygosity), affecting approximately 1 in 200–400 persons of northern European descent. The biochemical penetrance is 75% in men and 50% in women; clinical disease is far less common (~28% of men, ~1% of women manifest iron overload-related disease). Clinical manifestations span the liver (fibrosis/cirrhosis, HCC), endocrine system (hypogonadism, diabetes), joints (arthropathy), skin (bronzing), and heart (cardiomyopathy).
+HH is defined as an inherited [[iron-overload-and-iron-metabolism|iron overload]] disorder caused by deficiency of hepcidin, leading to excessive intestinal iron absorption. The most clinically significant form is type 1A (C282Y homozygosity), affecting approximately 1 in 200–400 persons of northern European descent. The biochemical penetrance is 75% in men and 50% in women; clinical disease is far less common (~28% of men, ~1% of women manifest iron overload-related disease). Clinical manifestations span the liver (fibrosis/cirrhosis, [[hepatocellular-carcinoma|HCC]]), endocrine system (hypogonadism, diabetes), joints (arthropathy), skin (bronzing), and heart (cardiomyopathy).
 
 Diagnosis centers on iron studies (transferrin saturation ≥45% is the preferred initial screen) and HFE genotyping. Serum ferritin <1,000 ng/mL essentially excludes advanced fibrosis in C282Y homozygotes and may allow liver biopsy to be deferred. Non-contrast MRI T2* is endorsed for non-invasive hepatic iron concentration (HIC) measurement in the non-C282Y patient when liver biopsy is not otherwise indicated. The guideline explicitly cautions that H63D and S65C mutations alone do not cause iron overload and should not be pursued as diagnostic entities without C282Y co-mutation.
 
-Treatment is dominated by therapeutic phlebotomy — removing approximately 500 mL blood weekly until serum ferritin reaches 50–100 ng/mL. Iron chelation is explicitly NOT recommended as first-line therapy but is reserved for phlebotomy-intolerant or -contraindicated patients. Routine PPIs as primary HH treatment are not recommended despite evidence that they reduce phlebotomy burden. Liver transplantation is indicated for decompensated cirrhosis or HCC attributable to HH.
+Treatment is dominated by therapeutic phlebotomy — removing approximately 500 mL blood weekly until serum ferritin reaches 50–100 ng/mL. Iron chelation is explicitly NOT recommended as first-line therapy but is reserved for phlebotomy-intolerant or -contraindicated patients. Routine PPIs as primary HH treatment are not recommended despite evidence that they reduce phlebotomy burden. [[liver-transplantation|Liver transplantation]] is indicated for decompensated cirrhosis or HCC attributable to HH.
 
 ---
 
@@ -39,7 +39,7 @@ Treatment is dominated by therapeutic phlebotomy — removing approximately 500 
 **Genotype-Phenotype Correlation**
 
 - C282Y/C282Y (type 1A): ~1 in 200–400 northern Europeans; 75% biochemical penetrance in men, 50% in women; 28.4% of men develop iron overload-related disease (Melbourne Cohort)
-- C282Y/H63D (type 1B compound heterozygote): penetrance 0.5–2%; clinical disease rare unless cofactors (alcohol, HCV, NAFLD)
+- C282Y/H63D (type 1B compound heterozygote): penetrance 0.5–2%; clinical disease rare unless cofactors ([[alcohol-associated-liver-disease|alcohol]], [[hepatitis-c|HCV]], [[nafld-masld|NAFLD]])
 - H63D and S65C homozygotes/heterozygotes without C282Y: NOT at increased risk of pathologic iron overload (Rec 3, Conditional/Very Low)
 - Non-HFE hemochromatosis (types 2A/2B/3/4): rare; type 2 (juvenile HH) onset <30 years with severe hypogonadism and cardiomyopathy
 
@@ -117,3 +117,7 @@ Treatment is dominated by therapeutic phlebotomy — removing approximately 500 
 - Erythrocytapheresis shows promise for fewer procedures but higher cost and limited availability; no head-to-head RCTs vs. phlebotomy for long-term outcomes
 - PPIs demonstrably reduce phlebotomy burden in RCT (Vanclooster 2017) but are not recommended as primary treatment — the clinical threshold for "adjunctive use" is undefined
 - Updated 2019 guidance conflicts slightly with older AASLD 2011 guideline (Bacon et al.) in some threshold nuances; AASLD 2011 guideline is referenced but not superseded by this ACG document
+
+## See Also
+
+[[hereditary-hemochromatosis]], [[hepatocellular-carcinoma]], [[alcohol-associated-liver-disease]], [[drug-induced-liver-injury]], [[iron-overload-and-iron-metabolism]]

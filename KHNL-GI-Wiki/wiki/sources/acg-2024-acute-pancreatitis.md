@@ -16,7 +16,7 @@ sources: []
 
 ## Summary
 
-This ACG guideline updates management of acute pancreatitis (AP) across diagnosis, severity stratification, fluid resuscitation, nutrition, antibiotic use, ERCP indications, and necrotizing pancreatitis management.
+This ACG guideline updates management of acute pancreatitis (AP) across diagnosis, severity stratification, fluid resuscitation, nutrition, antibiotic use, [[ercp|ERCP]] indications, and necrotizing pancreatitis management.
 
 Diagnosis requires 2 of 3 criteria: typical abdominal pain, serum lipase or amylase >3× ULN, and characteristic imaging. Lipase is the preferred biomarker. CT with contrast is not required for diagnosis but is indicated if diagnosis is uncertain or there is clinical deterioration at 48–72 hours. Severity is classified as mild, moderately severe, or severe based on organ failure and local/systemic complications.
 
@@ -36,7 +36,7 @@ ERCP is indicated in acute gallstone pancreatitis only with concurrent cholangit
 
 - Gallstones: ~40% (most common); elevated LFTs (ALT >3× ULN highly predictive)
 - Alcohol: ~30%
-- Idiopathic: ~20%; MRCP or EUS to exclude microlithiasis, periampullary lesions
+- Idiopathic: ~20%; MRCP or [[endoscopic-ultrasound|EUS]] to exclude microlithiasis, periampullary lesions
 - Other: hypertriglyceridemia (>1000 mg/dL), medications, post-ERCP, hypercalcemia, genetic (PRSS1, SPINK1, CFTR), autoimmune
 
 **Severity classification (Revised Atlanta 2012, adopted):**
@@ -135,3 +135,7 @@ ERCP is indicated in acute gallstone pancreatitis only with concurrent cholangit
 - Role of EUS vs. MRCP in idiopathic AP workup: equivalent; MRCP preferred for initial workup (non-invasive)
 - Optimal timing of cholecystectomy after moderately severe AP: some centers delay less than 6 weeks
 - Prophylactic rectal indomethacin for post-ERCP pancreatitis prevention: addressed separately in ERCP guidelines
+
+## See Also
+
+[[acute-pancreatitis]], [[ercp]]

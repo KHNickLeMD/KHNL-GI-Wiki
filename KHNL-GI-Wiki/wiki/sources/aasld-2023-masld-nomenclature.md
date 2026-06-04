@@ -16,7 +16,7 @@ sources: []
 
 ## Summary
 
-This commentary translates the 2023 AASLD NAFLD Practice Guidance ([[aasld-2023-nafld]]) into the new **steatotic liver disease (SLD)** nomenclature produced by a multi-society Delphi consensus (AASLD, EASL, ALEH; 56 countries) co-published as Rinella et al., Hepatology 2023;78:1966–86. The Nomenclature Consensus Initiative addressed three problems with "NAFLD/NASH": the exclusionary (diagnosis-of-exclusion) nature, failure to name the root cause (metabolic dysfunction), and stigma ("fatty"). The panel chose **steatosis** over "fatty" and **MASLD** over alternatives (MetSLD, metabolic steatotic liver disease).
+This commentary translates the 2023 AASLD [[nafld-masld|NAFLD]] Practice Guidance ([[aasld-2023-nafld]]) into the new **steatotic liver disease (SLD)** nomenclature produced by a multi-society Delphi consensus (AASLD, EASL, ALEH; 56 countries) co-published as Rinella et al., Hepatology 2023;78:1966–86. The Nomenclature Consensus Initiative addressed three problems with "NAFLD/NASH": the exclusionary (diagnosis-of-exclusion) nature, failure to name the root cause (metabolic dysfunction), and stigma ("fatty"). The panel chose **steatosis** over "fatty" and **MASLD** over alternatives (MetSLD, metabolic steatotic liver disease).
 
 The core message: **all recommendations in the NAFLD Practice Guidance apply to MASLD/MASH**, because studies show **>99% overlap** between NAFLD- and MASLD-defined populations with essentially identical natural history (e.g., Swedish cohort: 0.3% of NAFLD patients did not meet MASLD criteria; 10-y liver-related outcome 7.9% NAFLD vs 7.8% MASLD; 10-y mortality 10.4% vs 10.3%). Therefore natural-history and biomarker-validation data from NAFLD/NASH can be applied to MASLD/MASH until further guidance. The major substantive change is the **MetALD** category.
 
@@ -26,14 +26,14 @@ The core message: **all recommendations in the NAFLD Practice Guidance apply to 
 - **MASLD** = hepatic steatosis + ≥1 cardiometabolic risk factor (CMRF) + no other discernible cause. Replaces NAFLD.
 - **MASH** (replaces NASH) = MASLD + steatohepatitis (histologic diagnosis unchanged). **MASL** (replaces NAFL) = MASLD without steatohepatitis.
 - **MetALD** = MASLD + increased alcohol intake (a continuum/overlap category). Defined alcohol range: weekly **140–350 g (♀)** / **210–420 g (♂)**, i.e. average daily **20–50 g (♀)** / **30–60 g (♂)**. Below this = MASLD; above (>50 g♀ / >60 g♂ daily) = ALD-predominant.
-- **ALD, specific-etiology SLD** (DILI, LALD/lysosomal acid lipase deficiency, Wilson disease, hypobetalipoproteinemia, inborn errors, HCV genotype 3, malnutrition, celiac, HIV, hydrocarbon exposure), and **cryptogenic SLD** complete the schema.
+- **[[alcohol-associated-liver-disease|ALD]], specific-etiology SLD** ([[drug-induced-liver-injury|DILI]], LALD/lysosomal acid lipase deficiency, [[wilson-disease|Wilson disease]], hypobetalipoproteinemia, inborn errors, [[hepatitis-c|HCV]] genotype 3, malnutrition, [[celiac-disease|celiac]], HIV, hydrocarbon exposure), and **cryptogenic SLD** complete the schema.
 - **CMRF criteria (adult — ≥1 of 5, ethnicity-adjusted):**
   1. BMI ≥25 kg/m² (≥23 Asia) OR waist circumference >94 cm (M) / 80 cm (F) OR ethnicity-adjusted equivalent
   2. Fasting glucose ≥100 mg/dL OR 2-h post-load ≥140 mg/dL OR HbA1c ≥5.7% OR T2DM OR treatment for T2DM
   3. Blood pressure ≥130/85 mmHg OR antihypertensive treatment
   4. Plasma triglycerides ≥150 mg/dL OR lipid-lowering treatment
   5. Plasma HDL-cholesterol ≤40 mg/dL (M) / ≤50 mg/dL (F) OR lipid-lowering treatment
-- **Dual pathology** allowed: MASLD + autoimmune hepatitis, MASLD + viral hepatitis, etc. (nonexclusionary terminology).
+- **Dual pathology** allowed: MASLD + [[autoimmune-hepatitis|autoimmune hepatitis]], MASLD + viral hepatitis, etc. (nonexclusionary terminology).
 - Delphi panel near-unanimous: 30–60 g/d alcohol with steatosis + CMRF alters natural history (95%) and may alter therapeutic response (90%) → rationale for studying MetALD separately.
 
 ## Key Points (Table 1, verbatim)
@@ -56,3 +56,7 @@ The core message: **all recommendations in the NAFLD Practice Guidance apply to 
 
 - Pediatric nomenclature impact deferred to future pediatric guidance.
 - Natural history of CMRF-negative cryptogenic SLD subgroup, and the precise CMRF×alcohol interaction in MetALD, remain research gaps.
+
+## See Also
+
+[[aasld-2023-nafld]], [[nafld-masld]], [[alcohol-associated-liver-disease]], [[wilson-disease]], [[drug-induced-liver-injury]], [[celiac-disease]], [[hepatitis-c]]

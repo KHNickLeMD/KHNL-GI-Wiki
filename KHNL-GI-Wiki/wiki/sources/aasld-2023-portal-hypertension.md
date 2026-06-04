@@ -16,9 +16,9 @@ sources: []
 
 ## Summary
 
-This AASLD Practice Guidance updates and expands on the 2017 guidance on portal hypertension (PH) and gastroesophageal varices in cirrhosis. Three major shifts characterize this update: (1) recognition of compensated advanced chronic liver disease (cACLD) as a concept, shifting away from requiring histological/radiological cirrhosis diagnosis for initial risk stratification; (2) codification of methodology to use noninvasive assessments (liver stiffness measurement [LSM] by TE + platelet count) to identify clinically significant portal hypertension (CSPH); and (3) endorsement of early nonselective beta-blocker (NSBB) therapy when CSPH is identified to decrease risk of cirrhosis decompensation.
+This AASLD Practice Guidance updates and expands on the 2017 guidance on [[portal-hypertension|portal hypertension]] (PH) and gastroesophageal varices in cirrhosis. Three major shifts characterize this update: (1) recognition of compensated advanced chronic liver disease (cACLD) as a concept, shifting away from requiring histological/radiological cirrhosis diagnosis for initial risk stratification; (2) codification of methodology to use noninvasive assessments (liver stiffness measurement [LSM] by TE + platelet count) to identify clinically significant portal hypertension (CSPH); and (3) endorsement of early nonselective beta-blocker (NSBB) therapy when CSPH is identified to decrease risk of cirrhosis decompensation.
 
-Key new content: endorsement of preemptive TIPS in select AVH patient subsets; updated guidance on blood products during initial resuscitation; guidance on upper endoscopy prior to transesophageal echocardiography (TEE); cardiofundal varices and ectopic varices management; portal hypertensive gastropathy (PHG) management; PH in HCC, pregnancy, and preoperative settings.
+Key new content: endorsement of preemptive TIPS in select AVH patient subsets; updated guidance on blood products during initial resuscitation; guidance on [[upper-endoscopy|upper endoscopy]] prior to transesophageal echocardiography (TEE); cardiofundal varices and ectopic varices management; portal hypertensive gastropathy (PHG) management; PH in [[hepatocellular-carcinoma|HCC]], pregnancy, and preoperative settings.
 
 ## All Guidance Statements (1–58)
 
@@ -62,7 +62,7 @@ Key new content: endorsement of preemptive TIPS in select AVH patient subsets; u
 
 20. Band ligation should be repeated every 2–4 weeks until obliteration and then endoscopy repeated at 6 months and then every 12 months to assess for reappearance of varices requiring additional treatment.
 
-21. TIPS should not be used for the prevention of decompensation of cirrhosis or as primary prophylaxis for variceal hemorrhage.
+21. TIPS should not be used for the prevention of decompensation of cirrhosis or as primary prophylaxis for [[variceal-upper-gi-bleeding|variceal hemorrhage]].
 
 22. Patients with decompensated cirrhosis not taking NSBBs who have never bled from varices should undergo annual endoscopic screening.
 
@@ -98,9 +98,9 @@ Key new content: endorsement of preemptive TIPS in select AVH patient subsets; u
 
 38. Patients with variceal bleeding who do not fulfill the criteria for a preemptive TIPS and/or do not undergo TIPS during admission should undergo secondary prophylaxis with NSBB and endoscopic band ligation.
 
-39. Use of TIPS for secondary prophylaxis can be considered in patients with additional indications for TIPS (e.g., refractory ascites).
+39. Use of TIPS for secondary prophylaxis can be considered in patients with additional indications for TIPS (e.g., refractory [[ascites]]).
 
-40. Patients with gastric or ectopic varices have CSPH and therefore the use of NSBBs should be considered for prevention of rebleeding and decompensation. These patients should be investigated for the presence of portal vein thrombosis.
+40. Patients with gastric or ectopic varices have CSPH and therefore the use of NSBBs should be considered for prevention of rebleeding and decompensation. These patients should be investigated for the presence of [[portal-vein-thrombosis|portal vein thrombosis]].
 
 41. Patients with high-risk cardiofundal (GOV2 or IGV1) varices (≥10 mm, red wale signs, CTP class B/C) who have contraindications or intolerance to NSBBs may be considered for primary prophylaxis with endoscopic cyanoacrylate injection (ECI).
 
@@ -184,3 +184,7 @@ Key new content: endorsement of preemptive TIPS in select AVH patient subsets; u
 - Non-TE elastography cutoffs (MRE, pSWE, 2D-SWE) not yet validated for CSPH staging recommendations
 - NSBB safety in refractory ascites remains debated (historical concern with high-dose propranolol; carvedilol data reassuring in multiple recent studies)
 - Statin benefit in survival/decompensation prevention awaiting RCT confirmation (4 RCTs ongoing as of 2023)
+
+## See Also
+
+[[portal-hypertension]], [[variceal-upper-gi-bleeding]], [[spontaneous-bacterial-peritonitis]], [[ascites]], [[aki-in-cirrhosis]], [[hepatocellular-carcinoma]], [[portal-vein-thrombosis]], [[liver-transplantation]], [[liver-disease-in-pregnancy]], [[hepatopulmonary-syndrome-portopulmonary-hypertension]]

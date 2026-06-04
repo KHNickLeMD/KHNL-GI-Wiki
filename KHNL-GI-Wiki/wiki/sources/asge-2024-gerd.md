@@ -19,7 +19,7 @@ Desai M, Ruan W, Thosani NC, et al. American Society for Gastrointestinal Endosc
 
 ## Summary
 
-57-page evidence review and guideline covering six PICO questions on GERD: (1) indications for upper endoscopy including in post-sleeve gastrectomy and post-POEM patients; (2) criteria for high-quality endoscopy and reporting; (3) lifestyle interventions; (4) PPI therapy vs placebo; (5a) TIF 2.0 vs medical therapy; (5b) combined TIF + hiatal hernia repair (cTIF) vs medical therapy; and (6) radiofrequency energy (Stretta) vs medical therapy. Recommendations are graded using GRADE (strong/conditional; high/moderate/low/very low quality of evidence).
+57-page evidence review and guideline covering six PICO questions on [[gerd|GERD]]: (1) indications for [[upper-endoscopy|upper endoscopy]] including in post-sleeve gastrectomy and post-[[poem|POEM]] patients; (2) criteria for high-quality endoscopy and reporting; (3) lifestyle interventions; (4) PPI therapy vs placebo; (5a) TIF 2.0 vs medical therapy; (5b) combined TIF + hiatal hernia repair (cTIF) vs medical therapy; and (6) radiofrequency energy (Stretta) vs medical therapy. Recommendations are graded using GRADE (strong/conditional; high/moderate/low/very low quality of evidence).
 
 ## Key Findings / Claims
 
@@ -27,12 +27,12 @@ Desai M, Ruan W, Thosani NC, et al. American Society for Gastrointestinal Endosc
 
 - GERD defined as troublesome heartburn and/or regurgitation; affects ~one-third of the U.S. adult population
 - Incidence rising in parallel with obesity prevalence
-- Guideline explicitly excludes patients with known GI motility disorders (gastroparesis, scleroderma, autonomic dysfunction)
+- Guideline explicitly excludes patients with known GI motility disorders ([[gastroparesis]], scleroderma, autonomic dysfunction)
 
 ### Endoscopy Indications (Q1)
 
 - **Strong, moderate evidence**: Upper endoscopy recommended for alarm symptoms — dysphagia, odynophagia, weight loss, GI bleeding, persistent vomiting, unexplained iron deficiency anemia
-- **Conditional, low evidence**: Endoscopy suggested for Barrett's esophagus risk factors (family history of BE/EAC; GERD + age >50, male sex, white race, smoking, or obesity) and for infants/children with suggestive symptoms
+- **Conditional, low evidence**: Endoscopy suggested for [[barretts-esophagus|Barrett's esophagus]] risk factors (family history of BE/EAC; GERD + age >50, male sex, white race, smoking, or obesity) and for infants/children with suggestive symptoms
 - **Post-sleeve gastrectomy (SG), conditional, very low**: Endoscopy if symptomatic; asymptomatic screening at 3 years then every 5 years (pooled BE rate post-SG 11.4%, crossing the ASGE 10% screening threshold); de novo GERD rate 45%, esophagitis rate 39.1% vs 21.9% pre-SG
 - **Post-POEM, conditional, very low**: Endoscopy if symptomatic GERD; best practice advice to consider periodic endoscopy even if asymptomatic given high GERD rate (~19–29% esophagitis pooled); BE rate very low (1/2342 patients at 36 months in one meta-analysis)
 
@@ -61,7 +61,7 @@ Desai M, Ruan W, Thosani NC, et al. American Society for Gastrointestinal Endosc
 - PPI vs placebo: OR 4.2 for symptom relief (95% CI 3.25–5.48); OR 11.4 for esophagitis healing (95% CI 8.17–16.3) — Zhang 2017 network meta-analysis, 98 RCTs, ~46,000 patients
 - PPI safety (Moayyedi 2019 large RCT, n=17,598, mean 3-year follow-up): no significant increase in all-cause mortality, cardiovascular events, CKD, C. diff, pneumonia, fractures, or dementia; only confirmed adverse event is modest increase in enteric infections (OR 1.33)
 - **Conditional, very low evidence**: Test CYP2C19 polymorphism in suboptimal PPI responders; rapid metabolizers have OR 1.6 for PPI refractoriness
-- Best practice advice: de-escalate after >6 months; discuss risks/benefits; H2RAs acceptable as adjunct/PRN; potassium-competitive acid blockers (PCABs, e.g., vonoprazan) likely more potent for erosive esophagitis but long-term data not yet available
+- Best practice advice: de-escalate after >6 months; discuss risks/benefits; H2RAs acceptable as adjunct/PRN; potassium-competitive acid blockers (PCABs, e.g., [[vonoprazan]]) likely more potent for erosive esophagitis but long-term data not yet available
 
 ### TIF 2.0 (Transoral Incisionless Fundoplication) (Q5a)
 
@@ -138,3 +138,7 @@ Desai M, Ruan W, Thosani NC, et al. American Society for Gastrointestinal Endosc
 - CYP2C19 testing: principle endorsed but not widely implemented; real-world utility unclear
 - Long-term PPI safety: prospective RCT data reassuring for most outcomes studied, but observational associations with dementia, gastric cancer persist (very low certainty); creates patient anxiety
 - Next guideline update anticipated ~2029 or sooner if significant new data (e.g., cTIF RCT results)
+
+## See Also
+
+[[achalasia]], [[laryngopharyngeal-symptoms]], [[hrm-antireflux-surgery]]

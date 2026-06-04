@@ -16,7 +16,7 @@ sources: []
 
 ## Summary
 
-This is a targeted critical update to the 2023 AASLD Practice Guidance on HCC, issued to rapidly disseminate a practice-changing change to Guidance Statement 32 and the related text section on (neo)adjuvant therapy. The update was triggered by newly published updated efficacy and safety data from the IMbrave050 trial — a phase III, open-label RCT comparing adjuvant atezolizumab plus bevacizumab versus active surveillance in patients at high risk of HCC recurrence after resection or local ablation.
+This is a targeted critical update to the 2023 AASLD Practice Guidance on [[hepatocellular-carcinoma|HCC]], issued to rapidly disseminate a practice-changing change to Guidance Statement 32 and the related text section on (neo)adjuvant therapy. The update was triggered by newly published updated efficacy and safety data from the IMbrave050 trial — a phase III, open-label RCT comparing adjuvant atezolizumab plus bevacizumab versus active surveillance in patients at high risk of HCC recurrence after resection or local ablation.
 
 At the first interim analysis of IMbrave050 (median follow-up 17.4 months), atezolizumab+bevacizumab had demonstrated a statistically significant improvement in recurrence-free survival (RFS HR=0.72, 95% CI: 0.56–0.93; 12-month RFS 78% vs. 65%). However, at the second interim analysis (median follow-up 35.1 months), this benefit was no longer sustained (RFS HR=0.90, 95% CI: 0.72–1.12). Overall survival remained immature and non-significant at both analyses (2nd interim OS HR=1.26, 95% CI: 0.85–1.87, with >80% of patients alive in both arms at 2 years). No new safety signals were identified.
 
@@ -31,13 +31,13 @@ The update also provides methodological context: the reversal from positive to n
 - Subgroup analysis of RFS and OS were consistent across subgroups; no new safety concerns noted.
 - Adjuvant sorafenib (STORM trial) also failed to improve RFS (HR=0.94, 95% CI: 0.78–1.13).
 - Preoperative TACE in patients with large resectable HCC does not improve RFS and may increase risk of interval tumor progression.
-- HCV eradication with direct-acting antivirals does not increase risk of HCC recurrence and improves survival (confirmed by two large multicenter studies).
+- [[hepatitis-c|HCV]] eradication with [[direct-acting-antivirals|direct-acting antivirals]] does not increase risk of HCC recurrence and improves survival (confirmed by two large multicenter studies).
 - Current data do **not** support neoadjuvant systemic therapy before surgical resection.
 - Proof-of-principle neoadjuvant data exist (cabozantinib+nivolumab: 80% margin-negative resection, 42% major pathologic response in 15 patients; nivolumab±ipilimumab: 30% major pathologic response in 20 patients), but these are early-phase, single-arm/single-center studies.
 - There are currently **no FDA-approved (neo)adjuvant therapies** for HCC.
 - Surveillance remains standard of care after resection/local ablation even in high-risk patients.
 - (Neo)adjuvant therapies should only be used in the context of a clinical trial.
-- Recurrence management post-resection/ablation follows BCLC-stage-guided approach: within-Milan recurrence → salvage liver transplantation; liver-localized recurrence beyond Milan within downstaging criteria → liver-directed therapy ± consideration of transplant; vascular invasion/extrahepatic spread/TACE-unsuitable → first-line systemic therapy.
+- Recurrence management post-resection/ablation follows BCLC-stage-guided approach: within-Milan recurrence → salvage [[liver-transplantation|liver transplantation]]; liver-localized recurrence beyond Milan within downstaging criteria → liver-directed therapy ± consideration of transplant; vascular invasion/extrahepatic spread/TACE-unsuitable → first-line systemic therapy.
 
 ## Recommendations
 
@@ -65,3 +65,7 @@ The update also provides methodological context: the reversal from positive to n
 - **OS immaturity**: The question of whether adjuvant immunotherapy ultimately affects overall survival in HCC remains unanswered.
 
 ---
+
+## See Also
+
+[[hepatocellular-carcinoma]]

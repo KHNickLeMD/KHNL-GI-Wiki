@@ -15,7 +15,7 @@ Guideline body: American College of Gastroenterology (ACG). Evidence graded usin
 
 ## Summary
 
-Comprehensive ACG guideline (23 GRADE recommendations + 8 key concept statements) covering epidemiology, diagnosis, severity classification, treatment, prevention of recurrence, and management in special populations (IBD, pregnancy, immunocompromised). Notable emphases: two-step testing algorithm over NAAT alone; vancomycin/fidaxomicin preferred over metronidazole for non-severe CDI; high-dose oral vancomycin for fulminant disease; FMT for second or further recurrence; bezlotoxumab for high-risk patients; and against probiotics for both primary and secondary CDI prevention.
+Comprehensive ACG guideline (23 GRADE recommendations + 8 key concept statements) covering epidemiology, diagnosis, severity classification, treatment, prevention of recurrence, and management in special populations ([[inflammatory-bowel-disease|IBD]], pregnancy, immunocompromised). Notable emphases: two-step testing algorithm over NAAT alone; vancomycin/fidaxomicin preferred over metronidazole for non-severe CDI; high-dose oral vancomycin for fulminant disease; FMT for second or further recurrence; bezlotoxumab for high-risk patients; and against probiotics for both primary and secondary CDI prevention.
 
 ## Key Findings / Claims
 
@@ -72,7 +72,7 @@ Comprehensive ACG guideline (23 GRADE recommendations + 8 key concept statements
 **Prevention of Recurrence (2nd or further recurrence)**
 
 - FMT: recommended for second or further recurrence (strong recommendation, moderate quality)
-- Preferred delivery routes: colonoscopy or oral capsules (both strong recommendations); enema if others unavailable (conditional)
+- Preferred delivery routes: [[colonoscopy]] or oral capsules (both strong recommendations); enema if others unavailable (conditional)
 - Repeat FMT if recurrence within 8 weeks of initial FMT (conditional)
 - Suppressive oral vancomycin 125 mg once daily: for patients not FMT candidates or post-FMT failure (conditional)
 - Oral vancomycin prophylaxis (OVP) 125 mg once daily during subsequent systemic antibiotic use in high-risk patients (age ≥65, severe CDI within past 3 months, significant immunocompromise); typically continued until 5 days after antibiotics complete (conditional)
@@ -140,3 +140,7 @@ Primary source for [[clostridioides-difficile]] disease script. Defines severity
 - FMT safety signal: case of fatal ESBL E. coli bacteremia from donor stool; careful donor screening required
 - Bezlotoxumab and CHF: higher rates of serious adverse events and death in CHF subgroup — mechanism unclear; avoid in CHF
 - Suppressive vancomycin and OVP data are largely from small, retrospective, single-center studies; prospective RCTs needed
+
+## See Also
+
+[[clostridioides-difficile]], [[crohns-disease]], [[ulcerative-colitis]]

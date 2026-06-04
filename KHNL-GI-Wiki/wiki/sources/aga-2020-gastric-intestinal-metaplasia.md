@@ -16,11 +16,11 @@ sources: []
 
 ## Summary
 
-This AGA clinical practice update provides the first formal US guideline recommendations for management of gastric intestinal metaplasia (GIM). GIM is a premalignant lesion representing a precursor in the Correa cascade from H. pylori gastritis → atrophic gastritis → GIM → dysplasia → gastric adenocarcinoma. GIM affects approximately 5% of the US population with a non-trivial lifetime gastric cancer (GC) risk, particularly for high-risk subtypes.
+This AGA clinical practice update provides the first formal US guideline recommendations for management of gastric intestinal metaplasia (GIM). GIM is a premalignant lesion representing a precursor in the Correa cascade from [[helicobacter-pylori-infection|H. pylori]] gastritis → [[atrophic-gastritis|atrophic gastritis]] → GIM → dysplasia → [[gastric-adenocarcinoma|gastric adenocarcinoma]]. GIM affects approximately 5% of the US population with a non-trivial lifetime gastric cancer (GC) risk, particularly for high-risk subtypes.
 
 The guideline makes three GRADE recommendations. Most notably, it recommends *against* routine endoscopic surveillance of GIM due to low-quality evidence, favoring shared decision-making for high-risk patients. This positions the AGA 2020 guideline in tension with subsequent ACG (2025) and ESGE guidelines that recommend surveillance for high-risk GIM.
 
-The single highest-quality recommendation is test-and-treat for H. pylori in all patients with GIM, supported by pooled data showing a 32% relative risk reduction in GC incidence and 33% RR reduction in GC mortality with H. pylori eradication.
+The single highest-quality recommendation is [[test-and-treat|test-and-treat]] for H. pylori in all patients with GIM, supported by pooled data showing a 32% relative risk reduction in GC incidence and 33% RR reduction in GC mortality with H. pylori eradication.
 
 ## Key Findings / Claims
 
@@ -77,3 +77,7 @@ The single highest-quality recommendation is test-and-treat for H. pylori in all
 - No validated US risk stratification tool at time of publication (OLGA/OLGIM system developed primarily in European cohorts)
 - Incomplete-type GIM pathology reporting is inconsistent in US practice; many pathologists do not routinely subtype GIM
 - NBI and other enhanced imaging modalities for GIM mapping not addressed
+
+## See Also
+
+[[gastric-intestinal-metaplasia]], [[helicobacter-pylori-infection]]

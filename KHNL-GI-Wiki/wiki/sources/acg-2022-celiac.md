@@ -19,7 +19,7 @@ Celiac disease (CD) affects ~1% of the US population and is defined as a permane
 
 **Key recommendations (8 questions):**
 
-1. **Diagnosis — biopsy vs. serology:** EGD with multiple duodenal biopsies remains the standard for confirmation in children and adults (strong/moderate). A nonbiopsy approach — TTG-IgA >10× ULN plus confirmatory EMA in a second sample — is conditionally acceptable in children and may be applied to symptomatic adults who cannot undergo endoscopy (conditional/moderate).
+1. **Diagnosis — biopsy vs. serology:** [[upper-endoscopy|EGD]] with multiple duodenal biopsies remains the standard for confirmation in children and adults (strong/moderate). A nonbiopsy approach — TTG-IgA >10× ULN plus confirmatory EMA in a second sample — is conditionally acceptable in children and may be applied to symptomatic adults who cannot undergo endoscopy (conditional/moderate).
 
 2. **Goal of GFD therapy:** Mucosal (histologic) healing is the preferred endpoint of GFD therapy, beyond clinical and serological remission alone (conditional/low). Follow-up biopsy after ~2 years on GFD is reasonable in adults.
 
@@ -49,7 +49,7 @@ Celiac disease (CD) affects ~1% of the US population and is defined as a permane
 
 - **Mucosal healing:** Median time to mucosal healing in adults is ~3 years. Failure to heal correlates with increased lymphoproliferative malignancy risk (HR 2.81) and hip fracture risk (HR 1.67). Normal follow-up histology is associated with null lymphoma risk (HR 0.97).
 
-- **Nonresponsive CD (NRCD):** Defined as persistent symptoms/signs/labs despite 6–12 months of GFD. Most common cause is inadvertent gluten exposure. Systematic workup includes dietitian assessment, repeat serology, testing for lactose/fructose intolerance, pancreatic insufficiency, microscopic colitis, and SIBO.
+- **Nonresponsive CD (NRCD):** Defined as persistent symptoms/signs/labs despite 6–12 months of GFD. Most common cause is inadvertent gluten exposure. Systematic workup includes dietitian assessment, repeat serology, testing for lactose/fructose intolerance, pancreatic insufficiency, microscopic colitis, and [[small-intestinal-bacterial-overgrowth|SIBO]].
 
 - **Refractory CD (RCD):** Villous atrophy with malabsorption despite strict GFD for >12 months in the absence of other disorders. <1% of CD patients. RCD type 1: polyclonal T-cell infiltrate — may respond to strict elemental diet, budesonide (open-capsule), prednisone, immunomodulators, mesalamine, biologics. RCD type 2: clonal T-cell infiltrate — poor prognosis, precursor to EATL; options include open-capsule budesonide, cladribine, autologous stem-cell transplant; parenteral nutrition often needed.
 
@@ -97,3 +97,7 @@ Cross-references with:
 - Optimal gluten detection technology for clinical use not established.
 - Probiotic benefit in CD not established; some probiotics may contain detectable gluten despite gluten-free labeling.
 - Oat tolerance monitoring intervals not defined.
+
+## See Also
+
+[[upper-endoscopy]], [[disorders-of-gut-brain-interaction]], [[atrophic-gastritis]]

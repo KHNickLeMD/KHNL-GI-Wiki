@@ -23,9 +23,9 @@ sources: []
 
 This ACG Clinical Guideline defines SIBO as a clinical syndrome of GI symptoms caused by the presence of excessive numbers of bacteria within the small intestine, with the most recent North American Consensus supporting a colony count of ≥10³ CFU/mL in a duodenal/jejunal aspirate as diagnostic. Because clinical definitions are unclear in the absence of validated patient-reported outcomes and because GRADE-eligible evidence is limited, the guideline relies on 6 formal GRADE recommendations (all conditional, low or very low evidence) plus 15 key concepts based on expert consensus.
 
-For diagnosis, breath testing using glucose or lactulose hydrogen/methane is the recommended non-invasive approach. Small bowel aspirate and culture remains the historical gold standard but is invasive and impractical. The guideline introduces the term **intestinal methanogen overgrowth (IMO)** to describe methane-predominant breath test patterns, since methanogens (archaea) are not bacteria. A positive hydrogen breath test is defined as a rise ≥20 ppm from baseline within 90 minutes; a positive methane test is ≥10 ppm at any point. Testing is suggested against in asymptomatic patients on PPIs.
+For diagnosis, breath testing using glucose or lactulose hydrogen/methane is the recommended non-invasive approach. Small bowel aspirate and culture remains the historical gold standard but is invasive and impractical. The guideline introduces the term **[[intestinal-methanogen-overgrowth|intestinal methanogen overgrowth]] (IMO)** to describe methane-predominant breath test patterns, since methanogens (archaea) are not bacteria. A positive hydrogen breath test is defined as a rise ≥20 ppm from baseline within 90 minutes; a positive methane test is ≥10 ppm at any point. Testing is suggested against in asymptomatic patients on PPIs.
 
-Treatment is centered on antibiotics — rifaximin being the best studied non-absorbable option (61–78% efficacy). Systemic antibiotics (amoxicillin-clavulanate, ciprofloxacin, metronidazole, neomycin, doxycycline, norfloxacin, tetracycline, TMP-SMX) are also used. There is currently no basis to recommend probiotics or FMT. Prevention (addressing underlying cause) is the primary long-term strategy. The guideline concludes with a detailed framework for future clinical trial design, outlining enrollment criteria and outcome measures for both hydrogen-positive SIBO and methane-positive IMO trials.
+Treatment is centered on antibiotics — [[rifaximin]] being the best studied non-absorbable option (61–78% efficacy). Systemic antibiotics (amoxicillin-clavulanate, ciprofloxacin, metronidazole, neomycin, doxycycline, norfloxacin, tetracycline, TMP-SMX) are also used. There is currently no basis to recommend probiotics or FMT. Prevention (addressing underlying cause) is the primary long-term strategy. The guideline concludes with a detailed framework for future clinical trial design, outlining enrollment criteria and outcome measures for both hydrogen-positive SIBO and methane-positive IMO trials.
 
 ---
 
@@ -78,13 +78,13 @@ Treatment is centered on antibiotics — rifaximin being the best studied non-ab
 - SIBO defined as excessive bacteria in small bowel causing GI symptoms; ≥10³ CFU/mL in duodenal/jejunal aspirate diagnostic (North American Consensus)
 - Historically ≥10⁵ CFU/mL was used, but this was too stringent; healthy controls have <10³ CFU/mL
 - Most common bacteria: Gram-negative aerobes and anaerobes (coliforms); ferment carbohydrates producing gas
-- Mechanisms maintaining small bowel ecology (Table 3): gastric acid, pancreatic enzymes, bile acids, small bowel motility (MMC phase III), ileocecal valve, immune system
+- Mechanisms maintaining small bowel ecology (Table 3): gastric acid, pancreatic enzymes, bile acids, [[small-bowel-motility|small bowel motility]] (MMC phase III), ileocecal valve, immune system
 
 ### Symptoms
 
 - Most common: bloating (most prominent), abdominal pain, flatulence, distension, diarrhea — present in >2/3 of patients
 - Severe cases: fat-soluble vitamin deficiency (B12, D, iron); Folate may be *elevated* (produced by bacteria)
-- Symptoms overlap significantly with IBS, functional dyspepsia, bloating
+- Symptoms overlap significantly with [[irritable-bowel-syndrome|IBS]], functional [[dyspepsia]], bloating
 
 ### Breath Testing
 
@@ -122,8 +122,8 @@ Treatment is centered on antibiotics — rifaximin being the best studied non-ab
 - Other: aging (elderly), small bowel diverticulosis
 - Colectomy with loss of ileocecal valve → retrograde movement of colonic flora → SIBO risk
 - PPI use: meta-analysis of 19 studies (>7,000 subjects) showed up to 3-fold higher SIBO risk; but evidence is conflicting and one large sequencing study found no change in microbial diversity with PPI use
-- Celiac disease: SIBO prevalence similar in celiac and healthy subjects, lower in IBS
-- Crohn's disease: 16.8% of those in endoscopic remission had SIBO; SIBO associated with ongoing GI complaints
+- [[celiac-disease|Celiac disease]]: SIBO prevalence similar in celiac and healthy subjects, lower in IBS
+- [[crohns-disease|Crohn's disease]]: 16.8% of those in endoscopic remission had SIBO; SIBO associated with ongoing GI complaints
 
 ### Treatment
 
@@ -209,3 +209,7 @@ Treatment is centered on antibiotics — rifaximin being the best studied non-ab
 - IMO terminology is still evolving and not universally adopted. SIBO and IMO may represent distinct conditions requiring different diagnostic and treatment frameworks.
 - No validated patient-reported outcome (PRO) exists for SIBO, making trial design and comparison difficult.
 - Low FODMAP and dietary approaches have very low quality evidence; extrapolated from IBS data, not studied directly in SIBO populations.
+
+## See Also
+
+[[small-intestinal-bacterial-overgrowth]], [[irritable-bowel-syndrome]], [[celiac-disease]], [[chronic-pancreatitis]], [[disorders-of-gut-brain-interaction]], [[rifaximin]], [[intestinal-methanogen-overgrowth]], [[small-bowel-motility]]

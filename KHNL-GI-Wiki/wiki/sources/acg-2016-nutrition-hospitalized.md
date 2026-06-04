@@ -102,3 +102,7 @@ The guideline provides guidance on enteral access, volume targets, protein dosin
 - Role of immune-modulating formulas (glutamine, arginine, omega-3) remains uncertain outside specific settings
 
 ---
+
+## See Also
+
+[[nutrition-in-hospitalized-patients]], [[acute-pancreatitis]], [[inflammatory-bowel-disease]], [[nutrition-in-liver-disease]]

@@ -17,7 +17,7 @@ Flamm SL, Wong F, Ahn J, Kamath PS. "AGA Clinical Practice Update on the Evaluat
 
 ## Summary
 
-This AGA expert review provides 14 Best Practice Advice (BPA) statements on AKI in patients with cirrhosis, covering diagnosis (KDIGO criteria), classification of AKI subtypes, initial evaluation, pharmacological treatment of HRS-AKI (albumin plus vasoconstrictors), indications for renal replacement therapy, and liver transplantation as definitive therapy. The document also reflects the updated International Club of Ascites (ICA) nomenclature replacing HRS Type 1/2 with HRS-AKI and HRS-NAKI.
+This AGA expert review provides 14 Best Practice Advice (BPA) statements on AKI in patients with cirrhosis, covering diagnosis (KDIGO criteria), classification of AKI subtypes, initial evaluation, pharmacological treatment of HRS-AKI (albumin plus vasoconstrictors), indications for renal replacement therapy, and [[liver-transplantation|liver transplantation]] as definitive therapy. The document also reflects the updated International Club of Ascites (ICA) nomenclature replacing HRS Type 1/2 with HRS-AKI and HRS-NAKI.
 
 ## Key Findings / Claims
 
@@ -45,7 +45,7 @@ This AGA expert review provides 14 Best Practice Advice (BPA) statements on AKI 
 HRS-AKI diagnostic criteria (current):
 
 - SCr increase ≥0.3 mg/dL within 48h OR ≥1.5× baseline within 7 days
-- Cirrhosis with ascites
+- Cirrhosis with [[ascites]]
 - No response to 2-day albumin volume challenge (1 g/kg/d)
 - Absence of shock
 - No current/recent nephrotoxic drug use
@@ -62,7 +62,7 @@ HRS-AKI diagnostic criteria (current):
 
 - Avoid NSAIDs, excessive diuretics, nonselective beta-blockers
 - Albumin 1 g/kg with large-volume paracentesis
-- Antibiotics with GI bleeding and SBP prophylaxis
+- Antibiotics with GI bleeding and [[spontaneous-bacterial-peritonitis|SBP]] prophylaxis
 - Counsel against alcohol use
 
 **Initial Management (BPA 5)**
@@ -164,3 +164,7 @@ Primary source for `[[aki-in-cirrhosis]]` disease script. Provides:
 4. Terlipressin respiratory failure rate (30% in CONFIRM) raises safety concerns, especially in ACLF with multi-organ failure
 5. Simultaneous liver-kidney vs. liver-alone transplantation: biomarkers needed to identify best candidates
 6. No studies using patient-reported outcomes in AKI in cirrhosis
+
+## See Also
+
+[[aki-in-cirrhosis]], [[alcohol-associated-liver-disease]], [[chronic-hepatitis-b]]

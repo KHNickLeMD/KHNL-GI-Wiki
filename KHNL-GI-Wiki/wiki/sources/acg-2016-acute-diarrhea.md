@@ -105,7 +105,7 @@ The prevention section addresses traveler-focused strategies: bismuth subsalicyl
 - CDC estimates 47.8 million acute diarrheal illness cases annually in the United States; ~$150 million cost to the health-care economy.
 - ~44 million US residents travel annually to non-Canadian, non-European destinations; TD attack rate 10–40%, resulting in 4–17 million cases per year.
 - 31 major pathogens cause ~9.4 million episodes of diarrheal illness in the US annually, 55,961 hospitalizations, and 1,351 deaths.
-- Postinfectious functional GI disorders (IBS, dyspepsia, Guillain-Barré) and reactive arthritis are recognized chronic sequelae of acute enteric infection.
+- Postinfectious functional GI disorders ([[irritable-bowel-syndrome|IBS]], [[dyspepsia]], Guillain-Barré) and reactive arthritis are recognized chronic sequelae of acute enteric infection.
 
 ### Definitions
 
@@ -161,16 +161,16 @@ The prevention section addresses traveler-focused strategies: bismuth subsalicyl
 ^d Preferred regimen for dysentery or febrile diarrhea.
 ^e Do not use if clinical suspicion for *Campylobacter*, *Salmonella*, *Shigella*, or other causes of invasive diarrhea.
 
-- **Fluoroquinolone resistance:** Growing resistance among *Campylobacter* (most isolates in Southeast Asia/India are FQ-resistant); azithromycin preferred in those regions and when Campylobacter suspected.
+- **Fluoroquinolone resistance:** Growing resistance among [[campylobacter-infection|*Campylobacter*]] (most isolates in Southeast Asia/India are FQ-resistant); azithromycin preferred in those regions and when Campylobacter suspected.
 - **Azithromycin vs. FQ:** 4 RCTs showed equivalence for TD; single-dose 1,000 mg azithromycin comparable to levofloxacin 500 mg; active for FQ-resistant *Campylobacter* including fluoroquinolone-resistant strains.
-- **Rifaximin:** Non-absorbable rifamycin; effective against diarrheagenic *E. coli*; 200 mg TID x3 days; not for invasive pathogens (*Campylobacter*, *Salmonella*, *Shigella*).
+- **[[rifaximin|Rifaximin]]:** Non-absorbable rifamycin; effective against diarrheagenic [[enterotoxigenic-e-coli|*E. coli*]]; 200 mg TID x3 days; not for invasive pathogens (*Campylobacter*, [[salmonella-infection|*Salmonella*]], [[shigellosis|*Shigella*]]).
 - STEC: Do NOT treat with antibiotics (risk of HUS).
 
 ### Parasite-Specific Therapy
 
-- *Giardia intestinalis*: metronidazole, tinidazole, or nitazoxanide.
-- *Entamoeba histolytica*: metronidazole or tinidazole.
-- *Cryptosporidium*: nitazoxanide.
+- [[giardiasis|*Giardia intestinalis*]]: metronidazole, tinidazole, or nitazoxanide.
+- [[entamoeba-histolytica-infection|*Entamoeba histolytica*]]: metronidazole or tinidazole.
+- [[cryptosporidiosis|*Cryptosporidium*]]: nitazoxanide.
 - *Cyclospora/Cystoisosporiasis*: trimethoprim/sulfamethoxazole.
 - *Enterocytozoon bieneusi* (microsporidiosis): albendazole or iodoquinol.
 - *Dientamoeba fragilis*: iodoquinol.
@@ -180,8 +180,8 @@ The prevention section addresses traveler-focused strategies: bismuth subsalicyl
 - History should address: travel, initial symptom onset/nature, duration, blood/mucus in stool, antibiotic use, associated symptoms (fever, weight loss).
 - Initial evaluation: stool culture + newer diagnostic methods; microscopy for parasites.
 - Colonoscopy diagnostic yield 7–32% in persistent/chronic diarrhea; IBD and microscopic colitis most common diagnoses.
-- Differential to consider: celiac disease, Crohn's disease, eosinophilic gastroenteritis, Whipple's disease, microscopic colitis.
-- **Postinfectious IBS:** Recognized sequela of infectious gastroenteritis; diagnosed using Rome III criteria (now Rome IV/V); no commercially available serologic test.
+- Differential to consider: [[celiac-disease|celiac disease]], [[crohns-disease|Crohn's disease]], eosinophilic gastroenteritis, Whipple's disease, microscopic colitis.
+- **[[postinfectious-ibs|Postinfectious IBS]]:** Recognized sequela of infectious gastroenteritis; diagnosed using Rome III criteria (now Rome IV/V); no commercially available serologic test.
 
 ### Prevention
 
@@ -231,3 +231,7 @@ The prevention section addresses traveler-focused strategies: bismuth subsalicyl
 - Postinfectious IBS is referenced using Rome III criteria; the wiki uses Rome IV/V (see [[disorders-of-gut-brain-interaction]]).
 - Fluoroquinolone resistance in *Campylobacter* has continued to grow since 2016; azithromycin preference for empiric TD therapy in Southeast Asia/India remains valid but the resistance landscape should be monitored.
 - The guideline does not address *Clostridioides difficile*-associated infections, which are covered by a separate ACG guideline ([[acg-2021-cdiff]]).
+
+## See Also
+
+[[acute-diarrhea]], [[fever-returning-traveler]], [[irritable-bowel-syndrome]], [[clostridioides-difficile]], [[norovirus]], [[rotavirus]], [[campylobacter-infection]], [[salmonella-infection]], [[shigellosis]], [[enterotoxigenic-e-coli]], [[giardiasis]], [[cryptosporidiosis]], [[entamoeba-histolytica-infection]], [[postinfectious-ibs]]

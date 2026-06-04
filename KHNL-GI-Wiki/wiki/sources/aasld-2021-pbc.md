@@ -19,9 +19,9 @@ sources: []
 
 ## Summary
 
-This 2021 AASLD Practice Guidance Update is a focused, two-statement revision of the 2018 PBC Practice Guidance. The sole impetus was an FDA safety warning issued in May 2021 that restricted the use of obeticholic acid (OCA / Ocaliva) in patients with advanced cirrhosis due to the risk of serious liver injury. The 2018 guidance statements 9 and 10 — which addressed fibrates and OCA in the setting of decompensated liver disease — were revised to reflect this stricter, more specifically defined safety threshold.
+This 2021 AASLD Practice Guidance Update is a focused, two-statement revision of the 2018 [[primary-biliary-cholangitis|PBC]] Practice Guidance. The sole impetus was an FDA safety warning issued in May 2021 that restricted the use of obeticholic acid (OCA / Ocaliva) in patients with advanced cirrhosis due to the risk of serious liver injury. The 2018 guidance statements 9 and 10 — which addressed fibrates and OCA in the setting of decompensated liver disease — were revised to reflect this stricter, more specifically defined safety threshold.
 
-The critical change is that OCA is now **contraindicated** (not merely "discouraged") in patients with advanced cirrhosis, defined specifically as cirrhosis with current or prior evidence of liver decompensation (encephalopathy, coagulopathy) or portal hypertension (ascites, gastroesophageal varices, or persistent thrombocytopenia). Additionally, the guidance recommends careful monitoring for any patient with cirrhosis — including compensated cirrhosis — who is receiving OCA.
+The critical change is that OCA is now **contraindicated** (not merely "discouraged") in patients with advanced cirrhosis, defined specifically as cirrhosis with current or prior evidence of liver decompensation (encephalopathy, coagulopathy) or [[portal-hypertension|portal hypertension]] (ascites, gastroesophageal varices, or persistent thrombocytopenia). Additionally, the guidance recommends careful monitoring for any patient with cirrhosis — including compensated cirrhosis — who is receiving OCA.
 
 The fibrates statement (Statement 9) was revised to clarify that fibrates remain an off-label option for inadequate UDCA responders, but with the explicit qualification that fibrates are discouraged in patients with decompensated liver disease.
 
@@ -61,3 +61,7 @@ The fibrates statement (Statement 9) was revised to clarify that fibrates remain
 
 - The shift from Child-Pugh B/C to "prior or current decompensation or portal hypertension" is practically more inclusive — patients with compensated cirrhosis but persistent thrombocytopenia (a marker of portal hypertension) or prior encephalopathy episode should now be considered to have "advanced cirrhosis" for the purpose of OCA contraindication
 - The long-term cardiovascular safety and renal function effects of fibrates in PBC patients remain incompletely characterized
+
+## See Also
+
+[[primary-biliary-cholangitis]], [[aasld-2018-pbc]], [[liver-transplantation]]

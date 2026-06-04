@@ -16,9 +16,9 @@ sources: []
 
 ## Summary
 
-First ACG clinical guideline on gastric premalignant conditions (GPMC): atrophic gastritis, gastric intestinal metaplasia (GIM), and dysplasia — the histopathologic Correa cascade preceding gastric adenocarcinoma. H. pylori is responsible for 75–89% of noncardia gastric cancer (GC), the dominant form. US 5-year survival is 36%, far below East Asian standards, driven by late-stage diagnosis.
+First ACG clinical guideline on gastric premalignant conditions (GPMC): [[atrophic-gastritis|atrophic gastritis]], [[gastric-intestinal-metaplasia|gastric intestinal metaplasia]] (GIM), and dysplasia — the histopathologic Correa cascade preceding [[gastric-adenocarcinoma|gastric adenocarcinoma]]. [[helicobacter-pylori-infection|H. pylori]] is responsible for 75–89% of noncardia gastric cancer (GC), the dominant form. US 5-year survival is 36%, far below East Asian standards, driven by late-stage diagnosis.
 
-GC represents a major health disparity in the US: incidence is 2–13× higher in non-White populations (East Asian, Hispanic, Black, AIAN) compared with non-Hispanic White individuals. Korean Americans have NCGA rates comparable to CRC in the general US population (70/100,000 py). Over 40 million US residents were born abroad, >70% from high-GC countries. First-generation immigrants from high-GC regions maintain elevated GC risk in the US.
+GC represents a major health disparity in the US: incidence is 2–13× higher in non-White populations (East Asian, Hispanic, Black, AIAN) compared with non-Hispanic White individuals. Korean Americans have NCGA rates comparable to [[colorectal-cancer|CRC]] in the general US population (70/100,000 py). Over 40 million US residents were born abroad, >70% from high-GC countries. First-generation immigrants from high-GC regions maintain elevated GC risk in the US.
 
 The guideline covers screening, high-quality endoscopy and image-enhanced endoscopy (IEE), histologic diagnosis and reporting (GIM subtype + extent + severity), surveillance for high-risk GPMC, endoscopic resection (ESD) referral, H. pylori testing/eradication, and special sections on autoimmune gastritis and gastric epithelial polyps.
 

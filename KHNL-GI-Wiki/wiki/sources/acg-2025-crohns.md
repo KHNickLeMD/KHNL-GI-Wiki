@@ -28,7 +28,7 @@ Comprehensive update of the ACG Crohn's disease guideline. Major additions vs pr
 1. Fecal calprotectin (cutoff >50–100 mg/g) to differentiate inflammatory from noninflammatory colonic disease — Strong, Moderate
 
 **Endoscopy**
-2. Routine CRC surveillance for Crohn's colitis — Strong, Moderate
+2. Routine [[colorectal-cancer|CRC]] surveillance for Crohn's colitis — Strong, Moderate
 
 **General approach**
 3. Suggest against requiring failure of conventional therapy before advanced therapy — Conditional, Low
@@ -141,9 +141,9 @@ Comprehensive update of the ACG Crohn's disease guideline. Major additions vs pr
 
 ### CRC Surveillance in Crohn's Colitis
 
-- Same strategy as UC
+- Same strategy as [[ulcerative-colitis|UC]]
 - Start at 8 years if >30% colonic involvement
-- PSC: start at diagnosis regardless of extent
+- [[primary-sclerosing-cholangitis|PSC]]: start at diagnosis regardless of extent
 - Risk factors: disease duration, extent, PSC, family history, severity of inflammation
 
 ## Recommendations
@@ -205,3 +205,7 @@ Comprehensive update of the ACG Crohn's disease guideline. Major additions vs pr
 - Vedolizumab slower onset than anti-TNF in CD — appropriate positioning vs anti-TNF still debated
 - Long-term safety of newer IL-23 inhibitors (mirikizumab, guselkumab) in CD not fully established
 - Treat-to-target strategy (mucosal healing) vs symptom-based management not fully codified
+
+## See Also
+
+[[crohns-disease]]

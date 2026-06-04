@@ -16,3 +16,7 @@ Key indications: [[small-bowel-bleeding]], suspected small bowel Crohn's ([[croh
 Key contraindication: known or suspected obstruction/stenosis — risk of capsule retention (~1.5% overall, up to 13% in Crohn's). Perform patency capsule or CTE first if obstruction suspected.
 
 See [[small-bowel-bleeding]] for full diagnostic algorithm and sequencing with [[device-assisted-enteroscopy]].
+
+## See Also
+
+[[small-bowel-bleeding]], [[crohns-disease]], [[peutz-jeghers-syndrome]], [[familial-adenomatous-polyposis]], [[device-assisted-enteroscopy]], [[acg-2015-small-bowel-bleeding]]

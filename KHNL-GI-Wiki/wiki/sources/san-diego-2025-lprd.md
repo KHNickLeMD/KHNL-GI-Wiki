@@ -17,9 +17,9 @@ sources: []
 
 ## Summary
 
-The San Diego Consensus (SD-LPRD) addresses a long-standing clinical conundrum: the term "laryngopharyngeal reflux" (LPR) has been applied for decades to aerodigestive symptoms (cough, voice change, throat clearing, throat phlegm, throat pain) despite frequent absence of objective reflux evidence. Up to 60% of patients diagnosed with "LPR" have normal ambulatory reflux monitoring, and LPR accounts for up to 10% of ENT and GI visits with healthcare costs 5.4× higher than GERD — primarily from prolonged acid suppression trials and diagnostic uncertainty.
+The San Diego Consensus (SD-LPRD) addresses a long-standing clinical conundrum: the term "laryngopharyngeal reflux" (LPR) has been applied for decades to aerodigestive symptoms (cough, voice change, throat clearing, throat phlegm, throat pain) despite frequent absence of objective reflux evidence. Up to 60% of patients diagnosed with "LPR" have normal [[ambulatory-reflux-monitoring|ambulatory reflux monitoring]], and LPR accounts for up to 10% of ENT and GI visits with healthcare costs 5.4× higher than [[gerd|GERD]] — primarily from prolonged acid suppression trials and diagnostic uncertainty.
 
-The consensus draws a critical distinction between **laryngopharyngeal symptoms (LPS)** — a symptomatic descriptor without mechanistic implication — and **laryngopharyngeal reflux disease (LPRD)** — a diagnosis requiring both LPS and objective evidence of GERD. This distinction drives the entire diagnostic and management framework.
+The consensus draws a critical distinction between **[[laryngopharyngeal-symptoms|laryngopharyngeal symptoms]] (LPS)** — a symptomatic descriptor without mechanistic implication — and **laryngopharyngeal reflux disease (LPRD)** — a diagnosis requiring both LPS and objective evidence of GERD. This distinction drives the entire diagnostic and management framework.
 
 The document is organized into six domains: definition/terminology, initial diagnostic evaluation, reflux monitoring, therapeutic trials, behavioral factors and therapy, and risk stratification. The 28-member panel used the RAND Appropriateness Method (RAM) with ≥80% agreement to finalize recommendations over a one-year initiative (October 2023–October 2024).
 
@@ -45,7 +45,7 @@ The document is organized into six domains: definition/terminology, initial diag
 
 - Trial of PPI BID × 3 months ± alginate therapy + lifestyle modification
 - Lifestyle: weight loss, upright posture 2–3h post-meals, head of bed elevation, left lateral sleep position, avoid triggers
-- If unresponsive → EGD + ambulatory reflux monitoring
+- If unresponsive → [[upper-endoscopy|EGD]] + ambulatory reflux monitoring
 
 **Isolated LPS (no esophageal symptoms):**
 
@@ -54,7 +54,7 @@ The document is organized into six domains: definition/terminology, initial diag
 
 ### Upper GI Endoscopy
 
-- Conclusive GERD evidence on EGD: LA grade B, C, D esophagitis OR biopsy-proven Barrett's esophagus
+- Conclusive GERD evidence on EGD: LA grade B, C, D esophagitis OR biopsy-proven [[barretts-esophagus|Barrett's esophagus]]
 - Hiatal hernia and disrupted EGJ serve as adjunctive evidence
 - Up to 47% of LPS patients demonstrate erosive findings and/or hiatal hernia on EGD
 - Transnasal esophagoscopy (TNE) is comparably diagnostic for Barrett's and can serve as point-of-care screening but requires specialized training
@@ -136,3 +136,7 @@ The document is organized into six domains: definition/terminology, initial diag
 - Role of PCABs (potassium-competitive acid blockers) in LPS not yet established
 - LRT efficacy data primarily from case series and non-RCT data; RCT validation needed
 - Risk stratification tools (HAS-BEER, COuGH RefluX) require larger validation studies
+
+## See Also
+
+[[laryngopharyngeal-symptoms]], [[upper-endoscopy]], [[hrm-antireflux-surgery]]

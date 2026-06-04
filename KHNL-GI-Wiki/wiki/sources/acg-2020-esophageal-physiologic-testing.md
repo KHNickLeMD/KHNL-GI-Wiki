@@ -19,11 +19,11 @@ sources: []
 
 ## Summary
 
-This ACG guideline systematically evaluates the performance characteristics and clinical value of esophageal physiologic tests — HRM, ambulatory reflux monitoring, barium esophagram, and FLIP — across three symptom categories: obstructive symptoms (dysphagia, regurgitation), typical reflux symptoms (heartburn, regurgitation, chest pain), and extraesophageal/atypical symptoms (cough, hoarseness, globus, belching, rumination).
+This ACG guideline systematically evaluates the performance characteristics and clinical value of esophageal physiologic tests — [[high-resolution-manometry|HRM]], [[ambulatory-reflux-monitoring|ambulatory reflux monitoring]], barium esophagram, and [[flip-panometry|FLIP]] — across three symptom categories: obstructive symptoms (dysphagia, regurgitation), typical reflux symptoms (heartburn, regurgitation, chest pain), and extraesophageal/atypical symptoms (cough, hoarseness, globus, belching, rumination).
 
 A key organizational principle of the guideline is that **no test should be ordered without a clear clinical hypothesis**, and that **EGD should precede physiologic testing** to exclude structural and mucosal pathology. The clinical decision algorithm (Figure 1) routes patients by dominant symptom category, with reflux monitoring and HRM occupying complementary but distinct roles.
 
-For obstructive symptoms, HRM is strongly recommended over conventional line-tracing manometry (Strong/Moderate), and FLIP is positioned as a complementary test particularly when HRM findings are borderline or inconclusive. For typical reflux symptoms, ambulatory reflux monitoring is recommended over GERD questionnaires, PPI-trial response assessment, or endoscopy alone for a conclusive GERD diagnosis — with the important distinction that testing should be performed off PPI for unproven GERD and on PPI for proven GERD. For extraesophageal symptoms, ambulatory pH impedance monitoring off acid suppression is strongly recommended over laryngoscopy for establishing an extraesophageal reflux diagnosis.
+For obstructive symptoms, HRM is strongly recommended over conventional line-tracing manometry (Strong/Moderate), and FLIP is positioned as a complementary test particularly when HRM findings are borderline or inconclusive. For typical reflux symptoms, ambulatory reflux monitoring is recommended over [[gerd|GERD]] questionnaires, PPI-trial response assessment, or endoscopy alone for a conclusive GERD diagnosis — with the important distinction that testing should be performed off PPI for unproven GERD and on PPI for proven GERD. For extraesophageal symptoms, ambulatory pH impedance monitoring off acid suppression is strongly recommended over laryngoscopy for establishing an extraesophageal reflux diagnosis.
 
 The guideline predates Lyon Consensus 2.0 (2024) and the Padova Consensus (2025), and its AET thresholds and test-selection frameworks have since been refined by those documents. However, its overarching principles — particularly the symptom-category routing, the requirement for pre-test clinical framing, and the indications for FLIP — remain foundational.
 
@@ -38,7 +38,7 @@ The guideline predates Lyon Consensus 2.0 (2024) and the Padova Consensus (2025)
 - **Conditional recommendation:** Supplementary/provocative maneuvers (MRS, RDC, solid test meal) to improve diagnostic yield (Low quality)
 - **Conditional recommendation:** Barium tablet included in barium esophagram during obstructive symptom evaluation (Very low quality)
 - **Conditional recommendation:** FLIP to complement HRM for borderline HRM findings or motility evaluation when catheter placement fails (Low quality)
-- **Conditional recommendation:** EGJ and gastric cardia inspection endoscopically and radiographically after antireflux surgery (Very low quality)
+- **Conditional recommendation:** EGJ and gastric cardia inspection endoscopically and radiographically after [[antireflux-surgery|antireflux surgery]] (Very low quality)
 - HRM shows higher inter-rater agreement and diagnostic accuracy vs. conventional manometry; novice and intermediate learners demonstrate superior accuracy with HRM (multicenter RCT of 247 patients)
 
 ### Typical Reflux Symptoms
@@ -51,7 +51,7 @@ The guideline predates Lyon Consensus 2.0 (2024) and the Padova Consensus (2025)
 - **AET thresholds referenced (2020 Lyon framework):** AET >6% = pathologic; AET 4–6% = borderline; AET <4% = physiologic — notes these were based on existing normative data and expert consensus at the time
 - MNBI (mean nocturnal baseline impedance): <2,292 Ω predicts symptomatic response to medical/surgical antireflux therapy; mentioned as emerging adjunctive metric
 - Abnormal AET (>4%) is the cardinal metric predicting antireflux surgery outcomes; RSA provides adjunctive value; MNBI provides further adjunctive value
-- HRM role in reflux symptoms: excludes motor disorders (achalasia found in 3% before planned fundoplication, 29% treated unsuccessfully with antisecretory therapy); identifies hiatal hernia with 94.3% sensitivity and 91.5% specificity (superior to endoscopy and barium); assesses peristaltic reserve before antireflux surgery
+- HRM role in reflux symptoms: excludes motor disorders ([[achalasia]] found in 3% before planned fundoplication, 29% treated unsuccessfully with antisecretory therapy); identifies hiatal hernia with 94.3% sensitivity and 91.5% specificity (superior to endoscopy and barium); assesses peristaltic reserve before antireflux surgery
 - HRM superior to endoscopy for hiatal hernia detection (sensitivity 94.3% vs. 32% for CM-based, specificity 91.5%)
 - Post-ARS: EGJ and gastric cardia anatomy should be inspected endoscopically ± radiographically for mechanical abnormalities
 
@@ -68,9 +68,9 @@ The guideline predates Lyon Consensus 2.0 (2024) and the Padova Consensus (2025)
 
 - FDA-approved tool measuring simultaneous pressure, cross-sectional area (CSA), and distensibility
 - Complementary to HRM, not a replacement; limited commercial availability outside specialized centers in 2020
-- Uses: (1) when HRM catheter placement fails; (2) borderline HRM findings/motility evaluation; (3) measure EGJ distensibility intraprocedurally during achalasia treatment; (4) possibly EoE fibrostenotic remodeling assessment (needs validation)
+- Uses: (1) when HRM catheter placement fails; (2) borderline HRM findings/motility evaluation; (3) measure EGJ distensibility intraprocedurally during achalasia treatment; (4) possibly [[eosinophilic-esophagitis|EoE]] fibrostenotic remodeling assessment (needs validation)
 - EGJ distensibility identifies obstructive element in major motor disorders with normal IRP (manometrically normal EGJ relaxation but clinical outflow obstruction)
-- Intraprocedural CSA correlates with POEM and pneumatic dilation outcomes
+- Intraprocedural CSA correlates with [[poem|POEM]] and pneumatic dilation outcomes
 - FLIP not intended to replace HRM for characterization of motor disorders
 
 ---
@@ -113,3 +113,7 @@ The guideline predates Lyon Consensus 2.0 (2024) and the Padova Consensus (2025)
 - **FLIP protocols**: 2020 guideline notes lack of standardized protocols limiting clinical translation; Dallas Consensus 2025 ([[dallas-2025-flip-panometry]]) subsequently provided the v2.0 classification system.
 - **Chicago Classification version**: This guideline references CC v3.0 (not v4.0). EGJOO is discussed but without the CC v4.0 mandate for ancillary testing to confirm a clinical diagnosis.
 - **Oropharyngeal/salivary pepsin testing**: Discussed as emerging diagnostics for extraesophageal reflux; evidence remains insufficient (meta-analysis: salivary pepsin sensitivity 64%, specificity 68% for LPR). Not yet in routine use.
+
+## See Also
+
+[[reflux-testing]], [[ambulatory-reflux-monitoring]], [[high-resolution-manometry]], [[chicago-classification-v4]], [[dallas-2025-flip-panometry]]

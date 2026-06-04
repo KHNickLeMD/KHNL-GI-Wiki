@@ -221,3 +221,7 @@ The following features increase pre-test probability of malignancy and should pr
 - **Bismuth IV perihilar stricture** without an obvious benign cause
 - **No improvement** in cholestasis or symptoms despite apparent adequate drainage (may suggest malignant infiltration)
 - **Brush cytology or FISH positive** — treat as malignant until proven otherwise
+
+## See Also
+
+[[chronic-pancreatitis]], [[acute-pancreatitis]]

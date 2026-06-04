@@ -16,7 +16,7 @@ sources: []
 
 ## Summary
 
-This USMSTF consensus statement provides an evidence-based review of fecal immunochemical testing (FIT) for CRC screening, with GRADE-rated guidance statements on FIT application. FIT directly measures human hemoglobin in stool using monoclonal or polyclonal antibodies against the globin moiety, and is not confounded by dietary peroxidase activity (unlike gFOBT). The document synthesizes performance characteristics from meta-analyses of cohort and cross-sectional studies, programmatic screening data across multiple rounds, comparative effectiveness against gFOBT, sigmoidoscopy, stool DNA, and colonoscopy, and practical implementation considerations including threshold selection, sample handling, diet/medication adjustments, seasonal effects, and quality metrics.
+This USMSTF consensus statement provides an evidence-based review of fecal immunochemical testing (FIT) for [[colorectal-cancer-screening|CRC screening]], with GRADE-rated guidance statements on FIT application. FIT directly measures human hemoglobin in stool using monoclonal or polyclonal antibodies against the globin moiety, and is not confounded by dietary peroxidase activity (unlike gFOBT). The document synthesizes performance characteristics from meta-analyses of cohort and cross-sectional studies, programmatic screening data across multiple rounds, comparative effectiveness against gFOBT, sigmoidoscopy, stool DNA, and [[colonoscopy]], and practical implementation considerations including threshold selection, sample handling, diet/medication adjustments, seasonal effects, and quality metrics.
 
 The Task Force positions FIT as the preferred non-invasive CRC screening modality over guaiac-based FOBT, with annual 1-sample testing as the recommended programmatic approach. Colonoscopy is the unambiguous recommended follow-up for any positive FIT result in screen-eligible individuals.
 
@@ -26,7 +26,7 @@ Key distinctions from the contemporaneous ACG 2021 and USMSTF 2021 guidelines: t
 
 ### FIT Performance — Single Application (1-time)
 
-**For CRC detection (meta-analysis of 19 studies in asymptomatic average-risk adults):**
+**For [[colorectal-cancer|CRC]] detection (meta-analysis of 19 studies in asymptomatic average-risk adults):**
 
 - Pooled sensitivity: **79%** (95% CI, 0.69–0.86)
 - Pooled specificity: **94%** (95% CI, 0.92–0.95)
@@ -191,3 +191,7 @@ Participation rates tend to remain stable across multiple rounds (>60% in progra
 - **FIT after recent negative colonoscopy:** Weak recommendation to offer repeat colonoscopy if FIT positive; limited data — clinicians should use clinical judgment.
 - **Long-term FIT vs. colonoscopy mortality data:** RCTs (CONFIRM, NordICC analogues) ongoing at time of publication — comparative mortality benefit not established.
 - **Superseded content:** The ACG 2021 and USMSTF 2021 guidelines incorporate FIT as a preferred modality but do not replicate the operational detail in this 2016 document. Where they conflict (e.g., age thresholds for starting screening), use the 2021 values. FIT performance data and programmatic recommendations in this 2016 document remain the most detailed source available.
+
+## See Also
+
+[[colorectal-cancer-screening]], [[colorectal-cancer]], [[colonoscopy]], [[acg-2021-crc-screening]], [[usmstf-2021-crc-screening-age]]

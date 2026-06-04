@@ -123,3 +123,7 @@ This guideline is intended as a focused update — the 2018 guidance remains app
 - Role of qHBsAg, HBV RNA, and HBcrAg not addressed — future guidance anticipated
 - Benefit of treating inactive carriers with high HBsAg levels (>1000 IU/mL) not addressed
 - Evidence quality predominantly Very Low — most recommendations require individualized shared decision-making
+
+## See Also
+
+[[chronic-hepatitis-b]], [[hepatocellular-carcinoma]]

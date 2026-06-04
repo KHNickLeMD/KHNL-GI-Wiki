@@ -24,3 +24,7 @@ Device-assisted enteroscopy (DAE), also called deep enteroscopy, encompasses thr
 Indications: positive VCE requiring therapy; negative VCE with high clinical suspicion; VCE contraindicated; active SB bleeding.
 
 See [[small-bowel-bleeding]] for full algorithm. See also [[capsule-endoscopy]].
+
+## See Also
+
+[[small-bowel-bleeding]], [[capsule-endoscopy]], [[acg-2015-small-bowel-bleeding]]

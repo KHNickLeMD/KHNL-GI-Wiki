@@ -24,7 +24,7 @@ sources: []
 
 This ACG clinical guideline addresses the diagnosis and management of gastrointestinal subepithelial lesions (SEL) — intramural masses or mass-like structures projecting into the GI lumen that arise from nonmucosal layers of the GI wall, or extraluminal structures causing extrinsic compression. SEL range from benign (lipoma, leiomyoma) to malignant-potential (GIST, neuroendocrine tumor) to frankly malignant (metastases). The guideline uses GRADE methodology and issues 11 recommendations across diagnosis and treatment.
 
-Key diagnostic principle: EUS is the preferred modality for evaluating solid nonlipomatous SEL. EUS alone (without tissue acquisition) has only ~43–50% diagnostic accuracy; adding FNB or FNA with ROSE raises accuracy to 73–84%. Lipomas are the only SEL diagnosable by endoscopy alone (pillow sign, yellow appearance; 99% specificity but only 40% sensitivity).
+Key diagnostic principle: [[endoscopic-ultrasound|EUS]] is the preferred modality for evaluating solid nonlipomatous SEL. EUS alone (without tissue acquisition) has only ~43–50% diagnostic accuracy; adding FNB or FNA with ROSE raises accuracy to 73–84%. Lipomas are the only SEL diagnosable by endoscopy alone (pillow sign, yellow appearance; 99% specificity but only 40% sensitivity).
 
 Key management principle: Size thresholds and location govern resection decisions. Gastric GIST <2 cm — insufficient evidence for surveillance vs. resection. Gastric GIST >2 cm and all nongastric GIST — resect. Symptomatic SEL causing GI bleeding — resect regardless of size or confirmed diagnosis (except large GIST where neoadjuvant imatinib may first be needed).
 
@@ -121,3 +121,7 @@ This guideline is the primary ACG reference for the [[endoscopic-ultrasound]] ev
 - No head-to-head RCT data for most endoscopic vs. surgical resection comparisons — most evidence is retrospective
 - Role of AI in SEL diagnosis is an open future direction
 - Surveillance intervals for conservatively managed SEL are not defined by evidence
+
+## See Also
+
+[[endoscopic-ultrasound]]

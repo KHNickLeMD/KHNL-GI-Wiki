@@ -16,16 +16,16 @@ sources: []
 
 ## Summary
 
-First ACG clinical guideline for primary sclerosing cholangitis (PSC), a chronic cholestatic biliary disease characterized by multifocal intra- and/or extrahepatic bile-duct strictures, strong IBD association (60–70% of adult PSC), and elevated risks of cholangiocarcinoma (CCA), gallbladder cancer, colorectal cancer (in PSC-IBD), hepatobiliary failure, fat-soluble vitamin deficiency, and metabolic bone disease. MRCP is the preferred non-invasive diagnostic study; ERCP is reserved for tissue sampling or therapeutic dilation of dominant strictures. There is no proven medical therapy — UDCA at high dose (>28 mg/kg/d) is harmful (Strong/High against). Liver transplantation is the definitive treatment for decompensated disease.
+First ACG clinical guideline for primary sclerosing cholangitis (PSC), a chronic cholestatic biliary disease characterized by multifocal intra- and/or extrahepatic bile-duct strictures, strong [[inflammatory-bowel-disease|IBD]] association (60–70% of adult PSC), and elevated risks of [[cholangiocarcinoma]] (CCA), gallbladder cancer, [[colorectal-cancer|colorectal cancer]] (in PSC-IBD), hepatobiliary failure, fat-soluble vitamin deficiency, and metabolic bone disease. MRCP is the preferred non-invasive diagnostic study; [[ercp|ERCP]] is reserved for tissue sampling or therapeutic dilation of dominant strictures. There is no proven medical therapy — UDCA at high dose (>28 mg/kg/d) is harmful (Strong/High against). [[liver-transplantation|Liver transplantation]] is the definitive treatment for decompensated disease.
 
 ## Key Findings / Claims
 
 **Diagnosis**
 
 - MRCP preferred over ERCP for diagnosis (Strong/Moderate)
-- Liver biopsy not required for typical large-duct PSC (Conditional/Low); recommended for suspected small-duct PSC or AIH overlap
+- Liver biopsy not required for typical large-duct PSC (Conditional/Low); recommended for suspected small-duct PSC or [[autoimmune-hepatitis|AIH]] overlap
 - Test all patients once for elevated IgG4 (Conditional/Moderate) — IgG4-associated cholangitis can mimic PSC and responds to steroids
-- AMA testing to exclude PBC (Conditional/Moderate)
+- AMA testing to exclude [[primary-biliary-cholangitis|PBC]] (Conditional/Moderate)
 - Differential: secondary sclerosing cholangitis, CCA, IgG4-cholangitis, AIH, HIV cholangiopathy, ischemic cholangiopathy, choledocholithiasis
 
 **Medical treatment**
@@ -66,7 +66,7 @@ First ACG clinical guideline for primary sclerosing cholangitis (PSC), a chronic
 - MRCP in pediatric AIH with ALP >2× ULN (Conditional/Moderate)
 - Bone disease: DEXA at diagnosis then every 2–4 years (Conditional/Moderate); alendronate improves BMD
 - Fat-soluble vitamins A, D, E should be assessed in advanced/jaundiced patients
-- Screen for varices if platelets <150 (Conditional/VLow); pre-cirrhotic portal HTN possible from nodular regenerative hyperplasia
+- Screen for varices if platelets <150 (Conditional/VLow); pre-cirrhotic [[portal-hypertension|portal HTN]] possible from nodular regenerative hyperplasia
 
 ## Recommendations
 
@@ -103,3 +103,7 @@ First ACG clinical guideline for primary sclerosing cholangitis (PSC), a chronic
 - Role of oral vancomycin awaiting RCT data
 - Low-dose UDCA (13–15 mg/kg/d) — possible CRC chemoprevention vs no hepatic benefit; non-recommended position
 - IgG4 cutoffs and overlap with IgG4-SC poorly standardized
+
+## See Also
+
+[[primary-sclerosing-cholangitis]], [[biliary-stricture]], [[ercp]], [[autoimmune-hepatitis]], [[hepatocellular-carcinoma]], [[inflammatory-bowel-disease]], [[ulcerative-colitis]], [[crohns-disease]], [[colorectal-cancer-screening]]

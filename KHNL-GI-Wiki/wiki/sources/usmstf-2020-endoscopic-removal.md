@@ -17,7 +17,7 @@ sources: []
 
 ## Summary
 
-Comprehensive consensus on optimal techniques for endoscopic removal of colorectal lesions. Covers lesion assessment, resection methods by lesion size/morphology, marking, post-EMR surveillance, and quality standards. Emphasizes that endoscopy should be first-line for all benign colorectal lesions, replacing surgical referral.
+Comprehensive consensus on optimal techniques for endoscopic removal of colorectal lesions. Covers lesion assessment, resection methods by lesion size/morphology, marking, post-[[polypectomy-emr|EMR]] surveillance, and quality standards. Emphasizes that endoscopy should be first-line for all benign colorectal lesions, replacing surgical referral.
 
 ## Key Findings / Claims
 
@@ -108,7 +108,7 @@ Comprehensive consensus on optimal techniques for endoscopic removal of colorect
 | Use sterile carbon particle suspension for marking lesions needing future localization | Strong | High |
 | Place tattoo 3-5 cm distal to lesion; do not inject at or near the lesion | Strong | Moderate |
 | **Post-EMR Surveillance** | | |
-| Surveillance colonoscopy after piecemeal EMR >=20 mm: 6 months, then 1 year, then 3 years | Strong | Moderate |
+| Surveillance [[colonoscopy]] after piecemeal EMR >=20 mm: 6 months, then 1 year, then 3 years | Strong | Moderate |
 | At surveillance: use enhanced imaging (chromoendoscopy or NBI) + targeted biopsies at scar site | Strong | Moderate |
 | **Quality** | | |
 | Use endoscopy as first-line treatment for all benign colorectal lesions before surgical referral | Strong | High |
@@ -125,3 +125,7 @@ Comprehensive consensus on optimal techniques for endoscopic removal of colorect
 - Cold snare EMR (without electrocautery) for large lesions: promising but long-term data lacking
 - ESD indications remain limited in colorectum; evidence still evolving
 - Antithrombotic management for ≥20mm EMR: individualized, no strong data
+
+## See Also
+
+[[polypectomy-emr]], [[colonoscopy]]

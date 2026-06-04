@@ -18,9 +18,9 @@ sources: []
 
 ## Summary
 
-This AASLD Practice Guidance comprehensively covers prevention, diagnosis, and treatment of HCC. It replaces the prior 2018 AASLD HCC guideline and incorporates major updates: expanded indications for surgical therapies, incorporation of immune checkpoint inhibitors (ICIs) as first-line systemic therapy (atezolizumab+bevacizumab and durvalumab+tremelimumab), explicit recommendations for multidisciplinary care, and updated use of ultrasound plus AFP for surveillance. Evidence levels follow the Oxford Centre for Evidence-Based Medicine (OCEBM) 1–5 scale; recommendation strength is Strong or Weak.
+This AASLD Practice Guidance comprehensively covers prevention, diagnosis, and treatment of [[hepatocellular-carcinoma|HCC]]. It replaces the prior 2018 AASLD HCC guideline and incorporates major updates: expanded indications for surgical therapies, incorporation of immune checkpoint inhibitors (ICIs) as first-line systemic therapy (atezolizumab+bevacizumab and durvalumab+tremelimumab), explicit recommendations for multidisciplinary care, and updated use of ultrasound plus AFP for surveillance. Evidence levels follow the Oxford Centre for Evidence-Based Medicine (OCEBM) 1–5 scale; recommendation strength is Strong or Weak.
 
-Primary prevention strategies include HBV vaccination, antiviral therapy for HBV/HCV, and healthy lifestyle counseling. Surveillance uses ultrasound+AFP every 6 months in at-risk populations (cirrhosis from any etiology; non-cirrhotic HBV meeting age/sex/geography criteria). The LI-RADS diagnostic algorithm guides noninvasive HCC diagnosis on multiphasic CT or MRI; biopsy remains essential in non-cirrhotic and LR-M/LR-TIV cases.
+Primary prevention strategies include HBV vaccination, antiviral therapy for HBV/HCV, and healthy lifestyle counseling. Surveillance uses ultrasound+AFP every 6 months in at-risk populations (cirrhosis from any etiology; non-cirrhotic HBV meeting age/sex/geography criteria). The [[li-rads|LI-RADS]] diagnostic algorithm guides noninvasive HCC diagnosis on multiphasic CT or MRI; biopsy remains essential in non-cirrhotic and LR-M/LR-TIV cases.
 
 Treatment follows BCLC 2022: resection or ablation for early-stage disease, TACE/TARE for intermediate-stage, systemic therapy for advanced-stage or TACE-refractory/unsuitable intermediate-stage. At the time of publication, atezolizumab+bevacizumab (IMbrave150) was the recommended first-line advanced HCC therapy with median OS 19.2 months, and durvalumab+tremelimumab (HIMALAYA) was a preferred alternative. Sorafenib and lenvatinib remain alternatives for patients who cannot receive ICI-based regimens. **Note: The adjuvant use of atezolizumab+bevacizumab (Guidance Statement 32 as originally written in this document) was subsequently reversed by the AASLD 2025 Critical Update — see [[aasld-2025-hcc-critical-update]].**
 
@@ -32,8 +32,8 @@ Treatment follows BCLC 2022: resection or ablation for early-stage disease, TACE
 
 - HCC is 6th most common cancer globally; 3rd leading cause of cancer-related deaths (2020)
 - Cirrhosis present in >80% of patients with HCC; ~2% annual risk in Child-Pugh A–B cirrhosis
-- Alcohol-associated cirrhosis increases HCC risk up to 5-fold; NAFLD is the fastest growing cause of HCC in LT candidates
-- HBV vaccination significantly reduces HCC risk; antiviral therapy for HBV and HCV is the most effective primary prevention
+- [[alcohol-associated-liver-disease|Alcohol-associated cirrhosis]] increases HCC risk up to 5-fold; [[nafld-masld|NAFLD]] is the fastest growing cause of HCC in [[liver-transplantation|LT]] candidates
+- [[chronic-hepatitis-b|HBV]] vaccination significantly reduces HCC risk; antiviral therapy for HBV and [[hepatitis-c|HCV]] is the most effective primary prevention
 - Coffee consumption (≥1 cup/day) dose-dependently associated with reduced HCC risk; can be recommended to patients with chronic liver disease (Level 5, Weak — 12/15 agree)
 - Statins, aspirin, metformin not recommended solely for HCC chemoprevention (Level 5, Weak)
 
@@ -61,7 +61,7 @@ Treatment follows BCLC 2022: resection or ablation for early-stage disease, TACE
   - **GS 7a:** Child-Pugh C cirrhosis should NOT be enrolled unless LT eligible (**Level 3, Strong Recommendation**).
   - **GS 7b:** All patients listed for LT should undergo semiannual HCC surveillance (**Level 3, Strong Recommendation**).
   - **GS 7c:** AASLD recommends against surveillance in patients with life-limiting comorbid conditions that cannot be remedied by LT or other directed therapies (**Level 5, Strong Recommendation**).
-- **GS 8:** AASLD recommends against routine HCC surveillance in HCV post-SVR with advanced fibrosis but without cirrhosis (**Level 3, Weak Recommendation**).
+- **GS 8:** AASLD recommends against routine [[hcc-surveillance|HCC surveillance]] in HCV post-SVR with advanced fibrosis but without cirrhosis (**Level 3, Weak Recommendation**).
 - **GS 9:** AASLD recommends against routine HCC surveillance in NAFLD with advanced fibrosis but without cirrhosis (**Level 3, Weak Recommendation**).
 - **GS 10:** HCC surveillance should be performed using ultrasound and AFP at semiannual (approximately every 6 months) intervals (**Level 2, Strong Recommendation**).
   - **GS 10a:** AASLD recommends use of interventions such as best practice alerts or outreach programs to increase HCC surveillance adherence (**Level 2, Strong Recommendation**).
@@ -263,7 +263,7 @@ Background: IMbrave050 (at original first interim analysis, median f/u 17.4 mont
 
 - **GS 46:** Systemic therapy should be offered to patients with preserved liver function (Child-Turcotte-Pugh A or well-selected CTP B cirrhosis), ECOG PS 0–1, who have BCLC Stage C HCC, or BCLC Stage B HCC not amenable to or progressing after locoregional therapy (**Level 1, Strong Recommendation**).
   - **GS 46a:** Patients with CTP A cirrhosis should be offered atezolizumab+bevacizumab or durvalumab+tremelimumab as preferred first-line therapy options (**Level 2, Strong Recommendation**).
-    - **GS 46a-i:** Patients considered for atezolizumab+bevacizumab should undergo an EGD to assess for high-risk stigmata of variceal or other GI bleeding (**Level 5, Strong Recommendation**).
+    - **GS 46a-i:** Patients considered for atezolizumab+bevacizumab should undergo an [[upper-endoscopy|EGD]] to assess for high-risk stigmata of variceal or other GI bleeding (**Level 5, Strong Recommendation**).
     - **GS 46a-ii:** Optimal treatment of large varices prior to atezo+bev initiation is unknown; AASLD recommends at least one session of banding; carvedilol may be considered (**Level 5, Weak Recommendation**).
     - **GS 46a-iii:** Patients with recent GI bleeding within 6 months and high-risk stigmata on EGD should have varices adequately treated prior to atezo+bev initiation, or these patients may be considered for durvalumab+tremelimumab (**Level 5, Strong Recommendation**).
   - **GS 46b:** Patients with CTP A cirrhosis in whom atezo+bev and durvalumab+tremelimumab are contraindicated should be offered first-line sorafenib or lenvatinib (**Level 1, Strong Recommendation**).
@@ -347,3 +347,7 @@ This source updates [[hepatocellular-carcinoma]] with:
 4. **Downstaging beyond UNOS-DS:** AASLD acknowledges NLRB review on case-by-case basis for patients exceeding UNOS-DS but does not make a firm recommendation for LT.
 5. **Living donor LT:** LDLT is increasingly used, especially for patients beyond standard criteria; AASLD does not formally expand LDLT criteria beyond deceased donor criteria.
 6. **Neoadjuvant therapy:** Early-phase data promising (cabozantinib+nivolumab: 80% margin-negative resection, 42% major pathologic response); no recommendation for routine use outside of clinical trials.
+
+## See Also
+
+[[aasld-2025-hcc-critical-update]], [[hepatocellular-carcinoma]]

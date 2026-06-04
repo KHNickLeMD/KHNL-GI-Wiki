@@ -210,3 +210,7 @@ Retreatment for pediatric patients follows similar principles to adults (Table 4
 - Pregnancy: DAA safety data limited; case-by-case approach vs. universal treatment during pregnancy remains unresolved
 - Optimal HCV retreatment duration for multiply DAA-experienced patients extrapolated from small observational data
 - HCV RNA testing availability in resource-limited settings challenges simplified algorithm implementation
+
+## See Also
+
+[[aasld-2023-portal-hypertension]], [[hepatitis-c]], [[direct-acting-antivirals]], [[hepatitis-c-in-pregnancy]], [[chronic-hepatitis-b]], [[liver-transplantation]], [[portal-hypertension]], [[liver-disease-in-pregnancy]]

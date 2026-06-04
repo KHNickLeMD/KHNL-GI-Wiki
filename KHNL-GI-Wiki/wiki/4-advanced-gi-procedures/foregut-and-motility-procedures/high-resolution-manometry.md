@@ -111,3 +111,7 @@ Manometric hiatal hernia criteria: LES-CD separation >2 cm. Body position affect
 | Noncardiac chest pain | Complements diagnostic evaluation after cardiac causes excluded and PPI trial fails | Key concept — ACG 2020 |
 | Rumination syndrome (postprandial HRIM) | Sensitivity/specificity 75–80%/100%; postprandial monitoring mandatory | Conditional/Low — ACG 2020 |
 | Supragastric belching (postprandial HRIM) | Identifies supragastric belching episodes when needed to confirm diagnosis | Conditional — ACG 2020 |
+
+## See Also
+
+[[chicago-classification-v4]], [[hrm-antireflux-surgery]], [[flip-panometry]], [[acg-2020-esophageal-physiologic-testing]], [[gerd]]

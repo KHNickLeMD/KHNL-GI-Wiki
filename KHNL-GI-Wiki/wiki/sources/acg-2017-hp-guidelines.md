@@ -27,7 +27,7 @@ The core message: clarithromycin-based triple therapy (PPI + clarithromycin + am
 
 Post-treatment testing to confirm eradication is strongly recommended, using urea breath test (UBT) or stool antigen test (SAT) ≥4 weeks after completing therapy (and ≥2 weeks after stopping PPI).
 
-The guideline also endorses **[[test-and-treat]]** as the preferred strategy for uninvestigated dyspepsia in patients <55 years without alarm features, in regions where H. pylori prevalence exceeds 10%.
+The guideline also endorses **[[test-and-treat]]** as the preferred strategy for uninvestigated [[dyspepsia]] in patients <55 years without alarm features, in regions where H. pylori prevalence exceeds 10%.
 
 ---
 
@@ -68,10 +68,10 @@ The guideline also endorses **[[test-and-treat]]** as the preferred strategy for
 
 **Indications for testing and treatment:**
 
-- Active peptic ulcer disease (gastric or duodenal)
+- Active [[peptic-ulcer-disease|peptic ulcer disease]] (gastric or duodenal)
 - History of peptic ulcer disease (not previously treated)
 - Low-grade gastric MALT lymphoma
-- After endoscopic resection of early gastric cancer
+- After endoscopic resection of early [[gastric-adenocarcinoma|gastric cancer]]
 - Uninvestigated dyspepsia (test-and-treat)
 - Patients on long-term NSAID therapy
 - Unexplained iron deficiency anemia
@@ -109,5 +109,9 @@ The guideline also endorses **[[test-and-treat]]** as the preferred strategy for
 ## Contradictions / Open Questions
 
 - The guideline is from 2017; clarithromycin resistance rates have continued to rise. More recent data (post-2020) may further restrict triple therapy indications — flag when more recent sources are ingested.
-- Vonoprazan-based regimens (not available in US in 2017) have since shown superior eradication rates — will require updating when those sources are ingested.
+- [[vonoprazan|Vonoprazan]]-based regimens (not available in US in 2017) have since shown superior eradication rates — will require updating when those sources are ingested.
 - Local resistance rates in Hawaii/KHNL patient population may differ from mainland US benchmarks — worth noting when regional data is available.
+
+## See Also
+
+[[test-and-treat]], [[bismuth-quadruple-therapy]], [[helicobacter-pylori-infection]], [[overview]]

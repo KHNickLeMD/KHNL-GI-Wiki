@@ -85,3 +85,7 @@ This page focuses on GI-relevant diagnoses. Non-GI febrile illnesses (e.g., mala
 - **Right upper quadrant pain + fever + no diarrhea**: Amoebic liver abscess — diagnosis often missed; do not wait for diarrhea
 - **Pregnancy**: Hepatitis E has 25% mortality in third trimester; malaria causes premature labor/fetal loss — both require urgent management
 - **Eosinophilia >1,000/µL in returning traveler**: Parasitic infection (schistosomiasis, strongyloides, toxocara) until proven otherwise
+
+## See Also
+
+[[nejm-2023-fever-returning-traveler]]

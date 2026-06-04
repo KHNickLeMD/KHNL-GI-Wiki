@@ -18,7 +18,7 @@ sources: []
 
 ## Summary
 
-Rome V is the fifth iteration of the Rome Foundation's classification of disorders of gut–brain interaction (DGBI), published as a special issue of Gastroenterology in 2026 after a 7-year development process (2019–2026) involving 144 investigators from 27 countries across 25 committees. This introductory article establishes the conceptual framework, classification system, and guiding principles for the full Rome V compendium.
+Rome V is the fifth iteration of the Rome Foundation's classification of [[disorders-of-gut-brain-interaction|disorders of gut–brain interaction]] (DGBI), published as a special issue of Gastroenterology in 2026 after a 7-year development process (2019–2026) involving 144 investigators from 27 countries across 25 committees. This introductory article establishes the conceptual framework, classification system, and guiding principles for the full Rome V compendium.
 
 The term "functional gastrointestinal disorder" (FGID) is formally retired. DGBI is now the exclusive preferred term, defined as a group of disorders characterized by GI symptoms related to any combination of motility disturbance, visceral hypersensitivity, altered mucosal and immune function, altered gut microbiota, or altered CNS processing. Rome V introduces 34 adult and 22 pediatric DGBI classifications across six anatomic domains (A–F for adults; G–H for pediatrics). Three new adult diagnoses were added: inability to belch syndrome (B3c), abdominal migraine (D2), and anorectal sensory dysfunction disorders (F4a/F4b). Pediatric disorders were reorganized from age-based (neonate/toddler vs. child/adolescent) to anatomically based (upper vs. lower DGBI).
 
@@ -34,10 +34,10 @@ A key clinical innovation is the introduction of Rome Clinical Criteria — a re
 
 - **A. Esophageal:** A1 Functional chest pain, A2 Functional heartburn, A3 Reflux hypersensitivity, A4 Globus, A5 Functional dysphagia
 - **B. Gastroduodenal:** B1 Functional dyspepsia (B1a PDS, B1b EPS), B2 Nausea/vomiting disorders (B2a CNVS, B2b CVS, B2c CHS), B3 Belching disorders (B3a supragastric, B3b gastric, **B3c inability to belch** [new]), B4 Rumination syndrome
-- **C. Bowel:** C1 IBS (C1a–d), C2 Chronic constipation, C3 Functional diarrhea, C4 Functional abdominal bloating, C5 Unclassified bowel disorders, C6 Opioid-induced constipation
+- **C. Bowel:** C1 [[irritable-bowel-syndrome|IBS]] (C1a–d), C2 [[chronic-idiopathic-constipation|Chronic constipation]], C3 Functional diarrhea, C4 Functional abdominal bloating, C5 Unclassified bowel disorders, C6 Opioid-induced constipation
 - **D. Centrally mediated GI pain:** D1 CAPS, **D2 Abdominal migraine** [new], D3 Narcotic bowel syndrome
 - **E. Gallbladder and SOD:** E1–E4 (sphincter manometry dropped from supportive criteria)
-- **F. Anorectal:** F1 Fecal incontinence, F2 Anorectal pain, F3 Dyssynergic defecation, **F4 Anorectal sensory dysfunction** [new] (F4a rectal hyposensitivity, F4b rectal hypersensitivity)
+- **F. Anorectal:** F1 [[fecal-incontinence|Fecal incontinence]], F2 Anorectal pain, F3 [[defecation-disorders|Dyssynergic defecation]], **F4 Anorectal sensory dysfunction** [new] (F4a rectal hyposensitivity, F4b rectal hypersensitivity)
 - **G–H:** Pediatric upper DGBI and pediatric lower/biliary DGBI (reorganized anatomically)
 
 **Rome Clinical Criteria (Table 3):**
@@ -114,6 +114,10 @@ A key clinical innovation is the introduction of Rome Clinical Criteria — a re
 
 - IBS frequency criterion change (≥3 days/month vs. ≥1 day/week) substantially alters clinical trial enrollment eligibility; studies using Rome IV IBS criteria may not be directly comparable to Rome V populations — this is an active area of methodological debate
 - Rome V recommends against routine cholescintigraphy for gallbladder dysfunction; conflicts with some ACG/AGA procedural guidance that still references ejection fraction testing — flag when gallbladder disorder pages are created
-- Sphincter manometry dropped from SOD criteria due to poor reproducibility; practical implication for ERCP referral pathways needs clarification
+- Sphincter manometry dropped from SOD criteria due to poor reproducibility; practical implication for [[ercp|ERCP]] referral pathways needs clarification
 - Abdominal migraine in adults (D2) is a new adult diagnosis; evidence base largely extrapolated from pediatric literature — low-quality evidence, expert consensus
 - Inability to belch syndrome (B3c): diagnosis requires impedance manometry with sparkling water provocation; botulinum toxin injection to upper esophageal sphincter is treatment — limited to specialized centers
+
+## See Also
+
+[[disorders-of-gut-brain-interaction]]

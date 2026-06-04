@@ -17,7 +17,7 @@ sources: []
 
 ## Summary
 
-Comprehensive update of post-colonoscopy surveillance intervals. Covers normal colonoscopy, adenoma surveillance (stratified by number, size, histology), and serrated polyp surveillance. Key changes from 2012: 1–2 small adenomas now 7–10y (extended from 5–10y); more granular serrated polyp recommendations. All recommendations assume high-quality colonoscopy (adequate ADR, complete to cecum, adequate prep, complete polypectomy).
+Comprehensive update of post-[[colonoscopy]] surveillance intervals. Covers normal colonoscopy, adenoma surveillance (stratified by number, size, histology), and serrated polyp surveillance. Key changes from 2012: 1–2 small adenomas now 7–10y (extended from 5–10y); more granular serrated polyp recommendations. All recommendations assume high-quality colonoscopy (adequate ADR, complete to cecum, adequate prep, complete [[polypectomy-emr|polypectomy]]).
 
 ## Key Findings / Claims
 
@@ -76,7 +76,7 @@ Based on findings at baseline AND first surveillance:
 
 ### Key Evidence Points
 
-- Normal colonoscopy → 46% reduced incident CRC, 88% reduced fatal CRC at 10y follow-up
+- Normal colonoscopy → 46% reduced incident [[colorectal-cancer|CRC]], 88% reduced fatal CRC at 10y follow-up
 - 1–2 small adenomas: risk of metachronous advanced neoplasia only marginally higher than no adenoma
 - Advanced adenoma: 2.2× increased CRC risk vs general population; surveillance reduces this to baseline
 - SSP + synchronous high-risk adenoma: 46% rate of high-risk adenoma on surveillance
@@ -128,3 +128,7 @@ Based on findings at baseline AND first surveillance:
 - Uncertainty whether SSPs <10mm warrant 5y or 10y follow-up
 - Serial surveillance intervals still limited by retrospective data
 - Does not cover IBD, hereditary syndromes, personal/family history of CRC
+
+## See Also
+
+[[colonoscopy]], [[polypectomy-emr]]

@@ -31,3 +31,7 @@ IMO is a term proposed by the ACG 2020 SIBO guideline ([[acg-2020-sibo]]) to des
 - Targeting methanogens may reduce methane production and improve constipation (Key Concept 10)
 
 See [[small-intestinal-bacterial-overgrowth]], [[rifaximin]].
+
+## See Also
+
+[[acg-2020-sibo]], [[small-intestinal-bacterial-overgrowth]], [[rifaximin]]

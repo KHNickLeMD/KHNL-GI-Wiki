@@ -16,9 +16,9 @@ sources: []
 
 ## Summary
 
-This 2024 ACG guideline updates H. pylori treatment recommendations and represents a major paradigm shift from the 2017 ACG guideline. The central change is that clarithromycin-based triple therapy (CTT) is **no longer recommended as empiric first-line therapy** anywhere in the United States, due to rising clarithromycin resistance (now exceeding 15% nationally and much higher in some regions). Bismuth quadruple therapy (BQT) is now a **Strong recommendation** as empiric first-line therapy.
+This 2024 ACG guideline updates H. pylori treatment recommendations and represents a major paradigm shift from the 2017 ACG guideline. The central change is that clarithromycin-based triple therapy (CTT) is **no longer recommended as empiric first-line therapy** anywhere in the United States, due to rising clarithromycin resistance (now exceeding 15% nationally and much higher in some regions). [[bismuth-quadruple-therapy|Bismuth quadruple therapy]] (BQT) is now a **Strong recommendation** as empiric first-line therapy.
 
-The guideline formally endorses vonoprazan (a potassium-competitive acid blocker, PCAB) as superior to PPIs for acid suppression in H. pylori eradication. Vonoprazan-amoxicillin dual therapy and vonoprazan-amoxicillin-clarithromycin triple therapy received FDA approval in 2022 and are included as recommended first-line options. PCABs provide deeper and more sustained acid suppression than PPIs, particularly relevant for clarithromycin-based regimens where acid suppression critically affects efficacy.
+The guideline formally endorses [[vonoprazan]] (a potassium-competitive acid blocker, PCAB) as superior to PPIs for acid suppression in H. pylori eradication. Vonoprazan-amoxicillin dual therapy and vonoprazan-amoxicillin-clarithromycin triple therapy received FDA approval in 2022 and are included as recommended first-line options. PCABs provide deeper and more sustained acid suppression than PPIs, particularly relevant for clarithromycin-based regimens where acid suppression critically affects efficacy.
 
 Susceptibility-guided therapy is strongly advocated before using clarithromycin-based or levofloxacin-based regimens. Rifabutin triple therapy, previously only a salvage option, is now positioned as a valid first-line choice when other regimens are contraindicated. The guideline affirms that eradication should be confirmed in all patients using UBT or stool antigen test.
 
@@ -71,10 +71,10 @@ Susceptibility-guided therapy is strongly advocated before using clarithromycin-
 - Test ≥4 weeks after completing antibiotics; ≥2 weeks after stopping PPI/PCAB
 - Serology: NOT for confirmation (cannot distinguish active from past infection)
 
-**Test-and-treat:**
+**[[test-and-treat|Test-and-treat]]:**
 
-- Maintained as strategy for uninvestigated dyspepsia (<55 years, no alarm features): non-invasive testing then treat if positive
-- All patients with PUD, gastric MALT lymphoma, after endoscopic resection of early gastric cancer: test and treat
+- Maintained as strategy for uninvestigated [[dyspepsia]] (<55 years, no alarm features): non-invasive testing then treat if positive
+- All patients with [[peptic-ulcer-disease|PUD]], gastric MALT lymphoma, after endoscopic resection of early [[gastric-adenocarcinoma|gastric cancer]]: test and treat
 
 ## Recommendations
 
@@ -110,3 +110,7 @@ Susceptibility-guided therapy is strongly advocated before using clarithromycin-
 - 2017 guideline recommended concomitant therapy as co-equal first-line with BQT; 2024 guideline downgrades it to conditional (requires knowledge of local CLR resistance or susceptibility testing)
 - Optimal approach to susceptibility testing before first treatment (culture vs. PCR vs. empiric BQT): cost-effectiveness not well defined
 - Role of rifabutin triple as first-line: limited randomized data; concern for Mycobacterium tuberculosis resistance
+
+## See Also
+
+[[helicobacter-pylori-infection]], [[bismuth-quadruple-therapy]], [[vonoprazan]], [[acg-2017-hp-guidelines]]

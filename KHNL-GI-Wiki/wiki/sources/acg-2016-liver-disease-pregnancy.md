@@ -18,7 +18,7 @@ sources: []
 
 ## Summary
 
-This ACG guideline addresses the diagnostic and management challenges of liver disease in pregnant women. It covers the physiologic changes in liver tests during pregnancy, the appropriate use of imaging and endoscopy in pregnancy, management of biliary disease, liver masses, viral hepatitis (HBV, HCV, HAV, HEV, HSV), pregnancy-specific liver diseases (hyperemesis gravidarum, intrahepatic cholestasis of pregnancy, AFLP, preeclampsia/eclampsia, HELLP), and chronic liver diseases (AIH, PBC, Wilson's disease, cirrhosis, portal hypertension, and post-liver transplantation management).
+This ACG guideline addresses the diagnostic and management challenges of liver disease in pregnant women. It covers the physiologic changes in liver tests during pregnancy, the appropriate use of imaging and endoscopy in pregnancy, management of biliary disease, liver masses, viral hepatitis ([[chronic-hepatitis-b|HBV]], [[hepatitis-c|HCV]], HAV, HEV, HSV), pregnancy-specific liver diseases (hyperemesis gravidarum, intrahepatic cholestasis of pregnancy, AFLP, preeclampsia/eclampsia, HELLP), and chronic liver diseases ([[autoimmune-hepatitis|AIH]], [[primary-biliary-cholangitis|PBC]], [[wilson-disease|Wilson's disease]], cirrhosis, [[portal-hypertension|portal hypertension]], and post-[[liver-transplantation|liver transplantation]] management).
 
 A key organizing principle is that the management framework for abnormal liver tests in pregnant women follows the same initial workup as in non-pregnant individuals, with modifications driven by the physiologic changes of pregnancy (alkaline phosphatase and alpha-fetoprotein rise normally; albumin and hemoglobin fall; AST/ALT, bilirubin, PT/INR remain stable). The guideline emphasizes safety of both mother and fetus in all diagnostic and therapeutic decisions.
 
@@ -56,9 +56,9 @@ The guideline covers perinatal transmission prevention for chronic HBV (antivira
 
 ### Liver Masses in Pregnancy
 
-**Rec 9.** Asymptomatic hemangioma and focal nodular hyperplasia do not need routine imaging or surveillance during pregnancy (strong recommendation, very low level of evidence).
+**Rec 9.** Asymptomatic [[hepatic-hemangioma|hemangioma]] and [[focal-nodular-hyperplasia|focal nodular hyperplasia]] do not need routine imaging or surveillance during pregnancy (strong recommendation, very low level of evidence).
 
-**Rec 10.** Hepatic adenomas should be monitored with ultrasound during pregnancy for growth. Patients with large adenomas (>5 cm) should be referred for resection before pregnancy (strong recommendation, low level of evidence).
+**Rec 10.** [[hepatocellular-adenoma|Hepatic adenomas]] should be monitored with ultrasound during pregnancy for growth. Patients with large adenomas (>5 cm) should be referred for resection before pregnancy (strong recommendation, low level of evidence).
 
 ### Liver Diseases Unique to Pregnancy
 
@@ -129,14 +129,14 @@ The guideline covers perinatal transmission prevention for chronic HBV (antivira
 - Normal physiologic changes in pregnancy: ALP and AFP rise; albumin and hemoglobin fall; AST/ALT, bilirubin, PT/INR remain stable. Incidence of abnormal liver tests in otherwise healthy pregnant women is ~3–5%.
 - Ultrasound is the first-line imaging in pregnancy; gadolinium-MRI avoided; CT reserved for urgent/indeterminate situations at minimized dose.
 - Endoscopy deferred to second trimester when possible; left lateral position essential; propofol preferred over meperidine for short-acting sedation.
-- ERCP safe in pregnancy with fluoroscopy minimization; laparoscopic cholecystectomy preferred over conservative management for symptomatic cholecystitis.
+- [[ercp|ERCP]] safe in pregnancy with fluoroscopy minimization; laparoscopic cholecystectomy preferred over conservative management for symptomatic cholecystitis.
 - **Hyperemesis gravidarum (HG):** 0.3–2% of pregnancies; first trimester; 50–60% have mild aminotransferase elevation (AST/ALT up to 20× ULN reported); resolves with vomiting cessation; supportive ± hospitalization.
 - **IHCP:** Most common pregnancy-specific liver disease (0.3–5.6%); second/third trimester; pruritus of palms and soles; bile acids >10 µmol/l; bile acids >40 µmol/l identify higher fetal risk; early delivery at 37 weeks; UDCA 10–15 mg/kg.
 - **HELLP:** Hemolytic anemia + elevated liver enzymes + platelets <100,000 cells/µl; complicates up to 20% of preeclampsia; prompt delivery after 34 weeks; platelet transfusion to 40,000–50,000 cells/µl pre-delivery.
 - **AFLP:** Rare, life-threatening; third trimester (median 36 weeks); Swansea Criteria (≥6 of 15 criteria required); prompt delivery mandatory; LCHAD deficiency link requires offspring testing.
 - **Swansea Criteria for AFLP diagnosis:** ≥6 of the following in absence of another cause: vomiting, abdominal pain, polydipsia/polyuria, encephalopathy, bilirubin >14 µmol/l, hypoglycemia <4 mmol/l, urea >340 µmol/l, leucocytosis >11×10⁶ cells/l, ascites or bright liver on US, elevated transaminases (AST or ALT >42 IU/l), elevated ammonia >47 µmol/l, renal impairment (creatinine >150 µmol/l), coagulopathy (PT >14s or APPT >34s), microvesicular steatosis on liver biopsy.
 - **HBV in pregnancy:** MTCT risk is 70–90% for HBeAg+ mothers vs. 10–40% for HBeAg− mothers without prophylaxis. Active–passive immunoprophylaxis reduces MTCT to ~5%, but fails in 8–30% of highly viremic mothers. Tenofovir or telbivudine in third trimester for viral load >200,000 IU/ml. Elective C-section not recommended.
-- **HCV in pregnancy:** 3–10% vertical transmission at birth; no perinatal prevention strategy available; HCV therapy (including DAAs) not appropriate during pregnancy; invasive fetal monitoring should be minimized.
+- **HCV in pregnancy:** 3–10% vertical transmission at birth; no perinatal prevention strategy available; HCV therapy (including [[direct-acting-antivirals|DAAs]]) not appropriate during pregnancy; invasive fetal monitoring should be minimized.
 - **AIH in pregnancy:** Risk of disease flare; intrapartum flare >20%, postpartum flare 30–50%; maintain corticosteroids ± AZA; AZA safety data from IBD experience (>3,000 pregnancies, no increase in congenital abnormalities).
 - **PBC in pregnancy:** Infrequent due to older age at presentation; UDCA category B drug; continue UDCA during pregnancy.
 - **Wilson's disease in pregnancy:** Reduce penicillamine or trientine dose by 25–50% to promote wound healing pre-cesarean; zinc is an option; treatment discontinuation carries risk of hepatic decompensation.
@@ -194,3 +194,7 @@ The guideline covers perinatal transmission prevention for chronic HBV (antivira
 - Mycophenolic acid is contraindicated in pregnancy; this is consistent across this guideline and transplant literature (Recs 36).
 - The recommendation for elective C-section not preventing HBV or HCV vertical transmission remains strong guidance, though data on elective cesarean for very high HBV viral load have emerged post-2016.
 - No data on direct-acting antivirals (DAAs) for HCV during pregnancy — this reflects 2016 knowledge; newer DAA safety data continue to accumulate but no guideline update has been issued as of 2026.
+
+## See Also
+
+[[liver-disease-in-pregnancy]], [[chronic-hepatitis-b]], [[primary-biliary-cholangitis]], [[autoimmune-hepatitis]], [[wilson-disease]], [[acute-liver-failure]], [[abnormal-liver-chemistries]], [[hepatic-hemangioma]], [[focal-nodular-hyperplasia]], [[hepatocellular-adenoma]], [[hepatitis-c-in-pregnancy]], [[aasld-idsa-2025-chb-treatment]]

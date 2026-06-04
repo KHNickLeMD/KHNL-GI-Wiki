@@ -7,7 +7,7 @@ updated: 2026-05-16
 sources: []
 ---
 
-*Stub — to be expanded. Referenced in [[achalasia]] (key therapeutic option, preferred for Type III). POEM is also the technique used for G-POEM (gastric outlet) — referenced in [[raw/GI Lectures+Chalk Talks/Gastroparesis]].*
+*Stub — to be expanded. Referenced in [[achalasia]] (key therapeutic option, preferred for Type III). POEM is also the technique used for G-POEM (gastric outlet) — referenced in [[gastroparesis]].*
 
 ## Indications
 
@@ -15,7 +15,7 @@ sources: []
 - **Achalasia Type III (spastic):** POEM preferred over LHM — tailored long myotomy achieves higher success rates (93% vs. 71%); myotomy can be extended onto the esophageal body for spastic segments
 - **EGJOO (EGJ outflow obstruction):** when symptomatic and confirmed on TBE or FLIP; clinical achalasia spectrum
 - **Diffuse esophageal spasm / hypercontractile esophagus:** selected cases with dysphagia-predominant symptoms — see [[distal-esophageal-spasm]], [[hypercontractile-esophagus]]
-- **G-POEM (gastric POEM):** pyloric myotomy for refractory gastroparesis — see [[raw/GI Lectures+Chalk Talks/Gastroparesis]]
+- **G-POEM (gastric POEM):** pyloric myotomy for refractory gastroparesis — see [[gastroparesis]]
 
 ## Key Technique Points
 
@@ -46,3 +46,7 @@ sources: []
 ## Complications
 
 *Stub — capnoperitoneum/capnomediastinum (managed with needle decompression), mucosal injury, bleeding, infection, post-procedural GERD (see above).*
+
+## See Also
+
+[[achalasia]], [[gastroparesis]], [[distal-esophageal-spasm]], [[hypercontractile-esophagus]]

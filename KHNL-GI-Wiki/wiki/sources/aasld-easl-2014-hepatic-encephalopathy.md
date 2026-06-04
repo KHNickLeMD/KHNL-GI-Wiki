@@ -102,3 +102,7 @@ Treatment strategy centers on a "four-pronged approach" for overt HE: (1) clinic
 - **Rifaximin dosing post-TIPS:** Neither rifaximin nor lactulose prevents post-TIPS HE (Grade III, B, 1). Careful patient selection (prior recurrent HE = relative TIPS contraindication) is the preferred strategy.
 - **Ammonia monitoring in ACLF:** This 2014 guideline: ammonia adds no value in CLD. AASLD 2024 ACLF GS 11: routine ammonia NOT recommended in ACLF. Entirely consistent.
 - **Newer agents (ornithine phenylacetate, GPB):** Guideline notes these as investigational; further data expected. Post-2014 literature has been mixed for ornithine phenylacetate (STOP-AHE trial negative; CARBALIVE trial ongoing as of 2024).
+
+## See Also
+
+[[hepatic-encephalopathy]], [[portal-hypertension]], [[acute-on-chronic-liver-failure]], [[aki-in-cirrhosis]], [[rifaximin]], [[liver-transplantation]]

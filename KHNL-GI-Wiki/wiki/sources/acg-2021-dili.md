@@ -18,9 +18,9 @@ sources: []
 
 This ACG guideline updates the 2014 guideline on idiosyncratic drug-induced liver injury (DILI). Idiosyncratic DILI is defined as hepatotoxicity affecting only susceptible individuals, with less dose-dependence and more variable latency than intrinsic DILI (e.g., acetaminophen). DILI is a diagnosis of exclusion requiring systematic evaluation of competing etiologies.
 
-The most common causative agents are antimicrobials (especially amoxicillin-clavulanate, isoniazid, trimethoprim-sulfamethoxazole), antiepileptics, herbal and dietary supplements (HDS, second most common class in the US), and anticancer therapeutics (particularly immune checkpoint inhibitors [ICIs]). DILI carries up to 10% mortality when hepatocellular jaundice is present (Hy's law).
+The most common causative agents are antimicrobials (especially amoxicillin-clavulanate, isoniazid, trimethoprim-sulfamethoxazole), antiepileptics, herbal and dietary supplements (HDS, second most common class in the US), and anticancer therapeutics (particularly [[immune-checkpoint-inhibitor-hepatitis|immune checkpoint inhibitors]] [ICIs]). DILI carries up to 10% mortality when hepatocellular jaundice is present (Hy's law).
 
-The guideline covers: diagnostic evaluation by injury pattern (R-value), causality assessment tools (RUCAM), liver biopsy indications, prognosis (MELD + Charlson comorbidity index + albumin), treatment including N-acetylcysteine (NAC) for early ALF, rechallenge policies, HDS-specific considerations, ICI-induced hepatotoxicity, and DILI in patients with chronic liver disease (CLD).
+The guideline covers: diagnostic evaluation by injury pattern (R-value), causality assessment tools (RUCAM), liver biopsy indications, prognosis (MELD + Charlson comorbidity index + albumin), treatment including N-acetylcysteine (NAC) for early [[acute-liver-failure|ALF]], rechallenge policies, HDS-specific considerations, ICI-induced hepatotoxicity, and DILI in patients with chronic liver disease (CLD).
 
 ## Key Findings / Claims
 
@@ -28,9 +28,9 @@ The guideline covers: diagnostic evaluation by injury pattern (R-value), causali
 
 - R-value = (ALT/ULN) ÷ (Alk P/ULN): hepatocellular R ≥5; mixed 2–5; cholestatic R ≤2
 - DILI is a diagnosis of exclusion — competing etiologies must be systematically excluded
-- Minimum diagnostic elements: thorough medication/HDS history, viral hepatitis serologies (HAV, HBV, HCV with RNA, HEV IgM if clinically indicated), autoimmune serologies (ANA, ASMA, IgG), imaging (US ± CT/MRI), and exposure timeline
-- Hepatocellular DILI: exclude acute viral hepatitis A/B/C/E, AIH, Wilson disease (especially in younger patients), Budd-Chiari; get HCV RNA not just antibody (anti-HCV may be negative acutely)
-- Cholestatic DILI: abdominal imaging first to exclude biliary obstruction; limit ERCP to cases where MRI/EUS cannot exclude stones/stricture/malignancy
+- Minimum diagnostic elements: thorough medication/HDS history, viral hepatitis serologies (HAV, [[chronic-hepatitis-b|HBV]], [[hepatitis-c|HCV]] with RNA, HEV IgM if clinically indicated), autoimmune serologies (ANA, ASMA, IgG), imaging (US ± CT/MRI), and exposure timeline
+- Hepatocellular DILI: exclude acute viral hepatitis A/B/C/E, [[autoimmune-hepatitis|AIH]], [[wilson-disease|Wilson disease]] (especially in younger patients), [[budd-chiari-syndrome|Budd-Chiari]]; get HCV RNA not just antibody (anti-HCV may be negative acutely)
+- Cholestatic DILI: abdominal imaging first to exclude biliary obstruction; limit [[ercp|ERCP]] to cases where MRI/EUS cannot exclude stones/stricture/malignancy
 
 **Causality Assessment:**
 
@@ -123,3 +123,7 @@ The guideline covers: diagnostic evaluation by injury pattern (R-value), causali
 - NAC for DILI-ALF: positive RCT signal but confounded by transplant availability; effect size in coma grade I–II specifically; not proven for non-ALF DILI
 - Corticosteroids: no RCT data; widely used in practice for AIH-like DILI — clinical judgment remains primary
 - ICI hepatotoxicity management: rapidly evolving; more detailed guidance published after this guideline (refer to ASCO/SITC guidelines for ICI toxicity management)
+
+## See Also
+
+[[drug-induced-liver-injury]], [[acute-liver-failure]], [[autoimmune-hepatitis]], [[immune-checkpoint-inhibitor-hepatitis]]

@@ -16,11 +16,11 @@ sources: []
 
 ## Summary
 
-This ACG guideline is the primary comprehensive GERD management guideline, covering diagnosis, medical management, refractory GERD, extraesophageal manifestations, and surgical/endoscopic therapy. It contains 26 recommendations across these domains. It supersedes the 2013 ACG GERD guideline and addresses Barrett's esophagus, long-term PPI safety, and anti-reflux procedures.
+This ACG guideline is the primary comprehensive GERD management guideline, covering diagnosis, medical management, refractory GERD, extraesophageal manifestations, and surgical/endoscopic therapy. It contains 26 recommendations across these domains. It supersedes the 2013 ACG GERD guideline and addresses [[barretts-esophagus|Barrett's esophagus]], long-term PPI safety, and anti-reflux procedures.
 
-The guideline establishes the empiric PPI trial as the cornerstone of initial GERD diagnosis and management, with LA grade C/D erosive esophagitis confirming the diagnosis objectively. For refractory GERD, reflux testing off PPI is recommended for unclear cases and impedance-pH on PPI for established GERD with persistent symptoms. Surgical and endoscopic options are stratified by disease severity, with antireflux surgery strongly recommended for severe disease.
+The guideline establishes the empiric PPI trial as the cornerstone of initial GERD diagnosis and management, with LA grade C/D erosive esophagitis confirming the diagnosis objectively. For refractory GERD, reflux testing off PPI is recommended for unclear cases and impedance-pH on PPI for established GERD with persistent symptoms. Surgical and endoscopic options are stratified by disease severity, with [[antireflux-surgery|antireflux surgery]] strongly recommended for severe disease.
 
-A key contribution is the comprehensive treatment of extraesophageal GERD manifestations (LPR, chronic cough, asthma, dental erosions), emphasizing that non-GERD causes must be addressed first and that reflux monitoring should precede PPI initiation for isolated extraesophageal presentations.
+A key contribution is the comprehensive treatment of extraesophageal GERD manifestations ([[laryngopharyngeal-symptoms|LPR]], chronic cough, asthma, dental erosions), emphasizing that non-GERD causes must be addressed first and that reflux monitoring should precede PPI initiation for isolated extraesophageal presentations.
 
 ## Key Findings / Claims
 
@@ -32,14 +32,14 @@ A key contribution is the comprehensive treatment of extraesophageal GERD manife
 - Endoscopy for alarm symptoms or multiple Barrett's risk factors: Strong/Low
 - LA grade B erosive esophagitis: borderline confirmation; re-endoscopy after 8-week PPI recommended
 - LA grade C or D: confirms GERD diagnosis
-- No HRM as sole diagnostic test for GERD
+- No [[high-resolution-manometry|HRM]] as sole diagnostic test for GERD
 
 **Medical Management:**
 
 - PPI over H2RA for healing erosive esophagitis: Strong/High
 - PPI over H2RA for long-term maintenance of erosive esophagitis: Strong/Moderate
 - Take PPI 30–60 minutes before meals for optimal efficacy: Strong/Moderate
-- No prokinetics without documented gastroparesis: Strong/Low
+- No prokinetics without documented [[gastroparesis]]: Strong/Low
 - No sucralfate except in pregnancy: Strong/Low
 - On-demand PPI for non-erosive reflux disease (NERD): Conditional/Low
 - Indefinite maintenance PPI for LA grade C/D esophagitis: Strong/Moderate
@@ -112,3 +112,7 @@ A key contribution is the comprehensive treatment of extraesophageal GERD manife
 - **TIF hiatal hernia threshold:** ACG 2021 states ≤2 cm for TIF (consistent with ASGE 2024); but ACG 2021 predates the cTIF data reviewed in ASGE 2024 — ASGE 2024 provides more granular guidance on hiatal hernia stratification
 - ACG 2021 does not endorse Stretta but stops short of a formal recommendation against — ASGE 2024 similarly does not recommend Stretta for most patients
 - Salivary pepsin testing: ACG 2021 says insufficient evidence; more recent data remains mixed
+
+## See Also
+
+[[gerd]], [[asge-2024-gerd]], [[barretts-esophagus]], [[antireflux-surgery]], [[high-resolution-manometry]]

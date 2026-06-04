@@ -18,11 +18,11 @@ sources: []
 
 ## Summary
 
-This guideline from the US Multi-Society Task Force on Colorectal Cancer (representing ACG, AGA, and ASCRS) provides a comprehensive framework for the genetic evaluation and clinical management of Lynch syndrome (LS). It covers disease biology, clinical recognition (Amsterdam/Bethesda criteria), tumor testing algorithms (IHC and MSI), germline testing indications, cancer risk quantification by gene, cancer surveillance recommendations, risk-reduction interventions (surgical prophylaxis, aspirin chemoprevention), and genetic counseling standards.
+This guideline from the US Multi-Society Task Force on Colorectal Cancer (representing ACG, AGA, and ASCRS) provides a comprehensive framework for the genetic evaluation and clinical management of [[lynch-syndrome|Lynch syndrome]] (LS). It covers disease biology, clinical recognition (Amsterdam/Bethesda criteria), tumor testing algorithms (IHC and MSI), germline testing indications, cancer risk quantification by gene, cancer surveillance recommendations, risk-reduction interventions (surgical prophylaxis, aspirin chemoprevention), and genetic counseling standards.
 
-Lynch syndrome results from autosomal dominant pathogenic germline variants in the DNA mismatch repair (MMR) genes MLH1, MSH2, MSH6, PMS2, or the EPCAM deletion. Universal tumor testing of all newly diagnosed CRCs is recommended as a cost-effective screening strategy. Gene-specific cancer risks are well-defined: MLH1/MSH2 carriers face the highest CRC risk (up to 74% by age 70); MSH6 and PMS2 carriers have lower penetrance with later onset.
+Lynch syndrome results from autosomal dominant pathogenic germline variants in the DNA mismatch repair (MMR) genes MLH1, MSH2, MSH6, PMS2, or the EPCAM deletion. Universal tumor testing of all newly diagnosed [[colorectal-cancer|CRCs]] is recommended as a cost-effective screening strategy. Gene-specific cancer risks are well-defined: MLH1/MSH2 carriers face the highest CRC risk (up to 74% by age 70); MSH6 and PMS2 carriers have lower penetrance with later onset.
 
-Surveillance with colonoscopy every 1–2 years beginning at age 20–25 in confirmed mutation carriers is the cornerstone of cancer prevention, demonstrated to reduce CRC-related mortality by 62–72% in prospective studies. Prophylactic gynecologic surgery (hysterectomy + BSO) reduces endometrial and ovarian cancer risk dramatically and is recommended after childbearing is complete. Aspirin (CAPP2 trial: 600 mg/day) showed a 35% reduction in all LS-related cancers and is conditionally recommended.
+Surveillance with [[colonoscopy]] every 1–2 years beginning at age 20–25 in confirmed mutation carriers is the cornerstone of cancer prevention, demonstrated to reduce CRC-related mortality by 62–72% in prospective studies. Prophylactic gynecologic surgery (hysterectomy + BSO) reduces endometrial and ovarian cancer risk dramatically and is recommended after childbearing is complete. Aspirin (CAPP2 trial: 600 mg/day) showed a 35% reduction in all LS-related cancers and is conditionally recommended.
 
 ---
 
@@ -31,7 +31,7 @@ Surveillance with colonoscopy every 1–2 years beginning at age 20–25 in conf
 - LS accounts for 2–4% of all CRCs; most common hereditary CRC syndrome; ~1 in 279 individuals in the general population carries a pathogenic MMR variant
 - Gene-specific CRC risk by age 70: MLH1 27–74%, MSH2 22–67%, MSH6 22–69% male/10–30% female, PMS2 ~20%
 - Endometrial cancer risk: MLH1/MSH2 14–54%, MSH6 16–71%, PMS2 ~15%
-- Amsterdam II criteria (Table 5): ≥3 relatives with LS-associated cancer; ≥2 successive generations; ≥1 diagnosed <50; FAP excluded; tumors pathologically verified — used for diagnosis but 60–70% sensitive
+- Amsterdam II criteria (Table 5): ≥3 relatives with LS-associated cancer; ≥2 successive generations; ≥1 diagnosed <50; [[familial-adenomatous-polyposis|FAP]] excluded; tumors pathologically verified — used for diagnosis but 60–70% sensitive
 - Revised Bethesda Guidelines (Table 6): CRC <50; synchronous/metachronous LS-associated cancers; MSI-H-like histology in CRC <60; CRC + ≥1 FDR with LS-associated cancer with ≥1 <50; CRC + ≥2 FDR/SDR with LS-related cancers — used to select for tumor testing; 82–95% sensitive
 - Universal CRC tumor IHC/MSI testing is cost-effective and identifies ~95% of LS cases
 - MLH1 loss: requires BRAF V600E or MLH1 promoter methylation testing to exclude sporadic MMR-deficient CRC (>60% of MLH1-deficient CRCs are sporadic)
@@ -64,7 +64,7 @@ Surveillance with colonoscopy every 1–2 years beginning at age 20–25 in conf
 | Annual pelvic examination and endometrial sampling beginning at age 30–35 in female mutation carriers | Conditional | Level III, GRADE Moderate |
 | Annual transvaginal ultrasound beginning at age 30–35 | Conditional | Level IV, GRADE Very Low |
 | **Cancer Surveillance — Gastric/Duodenal (Table 10)** | | |
-| EGD with gastric antrum biopsy beginning at age 30–35, repeated every 3–5 years; H. pylori eradication if found | Conditional | Level IV, GRADE Very Low |
+| EGD with gastric antrum biopsy beginning at age 30–35, repeated every 3–5 years; [[helicobacter-pylori-infection|H. pylori]] eradication if found | Conditional | Level IV, GRADE Very Low |
 | **Cancer Surveillance — Urinary Tract (Table 10)** | | |
 | Annual urinalysis beginning at age 30–35 | Conditional | Level V, GRADE Very Low |
 | Routine screening for pancreatic, brain/CNS, or breast cancer is not recommended unless supported by specific family history | Conditional | Level V, GRADE Very Low |
@@ -95,3 +95,7 @@ Surveillance with colonoscopy every 1–2 years beginning at age 20–25 in conf
 - Risk estimates vary significantly by family history, ethnicity, and specific mutation type within each gene
 
 ---
+
+## See Also
+
+[[lynch-syndrome]], [[colorectal-cancer]], [[colorectal-cancer-screening]], [[colonoscopy]], [[familial-adenomatous-polyposis]], [[acg-2015-hereditary-gi-cancer]]

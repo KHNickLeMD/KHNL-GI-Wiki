@@ -18,9 +18,9 @@ sources: []
 
 ## Summary
 
-This 2019 AASLD Practice Guidance provides a comprehensive, data-supported approach to the prevalence, clinical spectrum, diagnosis, and management of alcohol-associated liver disease (ALD) and alcohol use disorders (AUDs). It supersedes the 2010 AASLD ALD guideline. Key updates include a revised framework for AUD diagnosis (DSM-5), new alcohol biomarkers (EtG, EtS, PEth), a formalized consensus definition of alcoholic hepatitis (AH), detailed guidance on severity scoring (MDF, MELD, ABIC, GAHS, Lille), and updated corticosteroid therapy guidance including the STOPAH trial data. Pentoxifylline is explicitly abandoned as a treatment. N-acetylcysteine (NAC) in combination with prednisolone is classified as promising but requiring further validation.
+This 2019 AASLD Practice Guidance provides a comprehensive, data-supported approach to the prevalence, clinical spectrum, diagnosis, and management of [[alcohol-associated-liver-disease|alcohol-associated liver disease]] (ALD) and alcohol use disorders (AUDs). It supersedes the 2010 AASLD ALD guideline. Key updates include a revised framework for AUD diagnosis (DSM-5), new alcohol biomarkers (EtG, EtS, PEth), a formalized consensus definition of alcoholic hepatitis (AH), detailed guidance on severity scoring (MDF, MELD, ABIC, GAHS, Lille), and updated corticosteroid therapy guidance including the STOPAH trial data. Pentoxifylline is explicitly abandoned as a treatment. N-acetylcysteine (NAC) in combination with prednisolone is classified as promising but requiring further validation.
 
-The guidance devotes substantial attention to liver transplantation for ALD, including a formal statement that candidate selection should not be based solely on a fixed abstinence interval, and introduces evidence supporting early liver transplantation (before 6 months abstinence) for severe AH non-responders. The relapse prevention pharmacotherapy section reviews FDA-approved agents (naltrexone, acamprosate) and non-FDA-approved agents (baclofen, gabapentin, topiramate) with specific guidance for patients with liver disease.
+The guidance devotes substantial attention to [[liver-transplantation|liver transplantation]] for ALD, including a formal statement that candidate selection should not be based solely on a fixed abstinence interval, and introduces evidence supporting early liver transplantation (before 6 months abstinence) for severe AH non-responders. The relapse prevention pharmacotherapy section reviews FDA-approved agents (naltrexone, acamprosate) and non-FDA-approved agents (baclofen, gabapentin, topiramate) with specific guidance for patients with liver disease.
 
 ---
 
@@ -38,7 +38,7 @@ The guidance devotes substantial attention to liver transplantation for ALD, inc
 
 **GS-4:** "Patients without liver disease should be educated about safe levels of alcohol use for men (no more than two standard drinks per 24 hours) and women (no more than one standard drink per 24 hours)."
 
-**GS-5:** "Patients with ALD or other liver diseases, in particular NAFLD, NASH, viral hepatitis, and hemochromatosis, should be counseled that there is no safe level of drinking, and that they should abstain."
+**GS-5:** "Patients with ALD or other liver diseases, in particular [[nafld-masld|NAFLD]], NASH, viral hepatitis, and [[hereditary-hemochromatosis|hemochromatosis]], should be counseled that there is no safe level of drinking, and that they should abstain."
 
 ### AUD Treatment
 
@@ -61,8 +61,8 @@ The guidance devotes substantial attention to liver transplantation for ALD, inc
 
 *Potential confounding factors requiring biopsy confirmation:*
 
-- Possible ischemic hepatitis (severe UGI bleed, hypotension, or cocaine use within 7 days) or metabolic liver disease (Wilson disease, alpha-1 antitrypsin deficiency)
-- Possible drug-induced liver disease (suspect drug within 30 days of onset of jaundice)
+- Possible ischemic hepatitis (severe UGI bleed, hypotension, or cocaine use within 7 days) or metabolic liver disease ([[wilson-disease|Wilson disease]], alpha-1 antitrypsin deficiency)
+- Possible [[drug-induced-liver-injury|drug-induced liver disease]] (suspect drug within 30 days of onset of jaundice)
 - Uncertain alcohol use (patient denies excessive alcohol use)
 - Presence of atypical laboratory tests (AST <50 or >400 IU/L, AST/ALT <1.5, ANA >1:160 or SMA >1:80)
 
@@ -110,7 +110,7 @@ The guidance devotes substantial attention to liver transplantation for ALD, inc
 
 1. Assess AH diagnosis (Fig. 2)
 2. Assess eligibility: MDF ≥32 (or possibly MELD >20); obtain abdominal ultrasound; screen for infection (CXR, blood/urine/ascites cultures)
-3. Assess contraindications: uncontrolled infections; AKI with serum creatinine >2.5 mg/dL; uncontrolled upper GI bleeding; concomitant HBV, HCV, DILI, HCC, acute pancreatitis, HIV, TB; multiorgan failure or shock
+3. Assess contraindications: uncontrolled infections; AKI with serum creatinine >2.5 mg/dL; uncontrolled upper GI bleeding; concomitant [[chronic-hepatitis-b|HBV]], [[hepatitis-c|HCV]], DILI, [[hepatocellular-carcinoma|HCC]], [[acute-pancreatitis|acute pancreatitis]], HIV, TB; multiorgan failure or shock
 4. If eligible: start prednisolone 40 mg daily ± IV NAC; enteral nutrition goal >21 kcal/kg
 5. Lille score at day 7:
    - If Lille <0.45: continue prednisolone for 28 days total; support lifelong abstinence
@@ -128,7 +128,7 @@ The guidance devotes substantial attention to liver transplantation for ALD, inc
 
 ## Key Findings / Claims
 
-- **ALD natural history (Fig. 1):** Steatosis develops in 90% with >60g alcohol/day for 2 weeks; reverses with 4–6 weeks abstinence. 10–35% develop steatohepatitis; 40–50% have concurrent fibrosis. 8–20% progress to cirrhosis; 20–40% develop decompensated cirrhosis/ACLF; 3–10% develop HCC.
+- **ALD natural history (Fig. 1):** Steatosis develops in 90% with >60g alcohol/day for 2 weeks; reverses with 4–6 weeks abstinence. 10–35% develop steatohepatitis; 40–50% have concurrent fibrosis. 8–20% progress to cirrhosis; 20–40% develop decompensated cirrhosis/[[acute-on-chronic-liver-failure|ACLF]]; 3–10% develop HCC.
 - **MDF remains the primary threshold** for initiating corticosteroids (≥32); MELD ≥20 should also prompt consideration — but MELD threshold for initiating steroids has not been formally established.
 - **STOPAH trial:** Prednisolone vs. pentoxifylline, 1,103 patients with severe AH. Prednisolone associated with improved 28-day survival on post hoc multivariable analysis (OR 0.609; P = 0.015) but not 90 days or 1 year. Pentoxifylline showed no benefit at any time point.
 - **Corticosteroid meta-analysis (Mathurin et al., 11 RCTs, n=2,111):** Corticosteroids significantly reduced mortality at 28 days vs. placebo (HR 0.64; 95% CI 0.48-0.86), 36% risk reduction. Even patients with MDF ≥68 (highest quartile) had statistically similar responses.

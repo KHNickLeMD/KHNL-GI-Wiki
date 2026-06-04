@@ -19,11 +19,11 @@ sources: []
 
 ## Summary
 
-This consensus statement from the US Multi-Society Task Force on Colorectal Cancer (representing ACG, AGA, ASGE, and the North American Society of Pediatric Gastroenterology, Hepatology and Nutrition) provides the first comprehensive surveillance and management framework for biallelic mismatch repair deficiency (BMMRD) syndrome — also called constitutional mismatch repair deficiency (CMMRD) syndrome (OMIM 276300).
+This consensus statement from the US Multi-Society Task Force on Colorectal Cancer (representing ACG, AGA, ASGE, and the North American Society of Pediatric Gastroenterology, Hepatology and Nutrition) provides the first comprehensive surveillance and management framework for [[bmmrd-syndrome|biallelic mismatch repair deficiency (BMMRD) syndrome]] — also called constitutional mismatch repair deficiency (CMMRD) syndrome (OMIM 276300).
 
-BMMRD arises from biallelic germline loss-of-function mutations in any one of the four DNA mismatch repair (MMR) genes (MLH1, MSH2, MSH6, PMS2), resulting in absent DNA-MMR activity from birth. This distinguishes it fundamentally from Lynch syndrome (LS), which is caused by monoallelic (heterozygous) MMR mutations and requires a somatic "second hit" for tumorigenesis. In BMMRD, all tissues lack MMR activity, yielding a dramatically more aggressive and earlier-onset cancer predisposition than LS, with tumors arising predominantly in childhood and adolescence.
+BMMRD arises from biallelic germline loss-of-function mutations in any one of the four DNA mismatch repair (MMR) genes (MLH1, MSH2, MSH6, PMS2), resulting in absent DNA-MMR activity from birth. This distinguishes it fundamentally from [[lynch-syndrome|Lynch syndrome]] (LS), which is caused by monoallelic (heterozygous) MMR mutations and requires a somatic "second hit" for tumorigenesis. In BMMRD, all tissues lack MMR activity, yielding a dramatically more aggressive and earlier-onset cancer predisposition than LS, with tumors arising predominantly in childhood and adolescence.
 
-The syndrome is characterized by three major tumor categories: (1) gastrointestinal cancers and polyposis (colorectal adenomas onset median age 9; CRC onset median age 16; small-bowel cancers); (2) brain tumors (high-grade gliomas, medulloblastoma, primitive neuroectodermal tumors; median age 9); and (3) hematologic malignancies (lymphoma, leukemia; lymphoma median age 5). Café-au-lait macules and features mimicking neurofibromatosis type 1 (NF1) are common dermatologic findings and an important clinical clue. PMS2 biallelic mutations are the most common cause of BMMRD, due to its low penetrance in the heterozygous state, and PMS2 identification is complicated by 20 pseudogenes in the human genome.
+The syndrome is characterized by three major tumor categories: (1) gastrointestinal cancers and polyposis (colorectal adenomas onset median age 9; [[colorectal-cancer|CRC]] onset median age 16; small-bowel cancers); (2) brain tumors (high-grade gliomas, medulloblastoma, primitive neuroectodermal tumors; median age 9); and (3) hematologic malignancies (lymphoma, leukemia; lymphoma median age 5). Café-au-lait macules and features mimicking neurofibromatosis type 1 (NF1) are common dermatologic findings and an important clinical clue. PMS2 biallelic mutations are the most common cause of BMMRD, due to its low penetrance in the heterozygous state, and PMS2 identification is complicated by 20 pseudogenes in the human genome.
 
 The guideline acknowledges that evidence is exclusively from case series, kindred studies, and expert opinion — no controlled trials exist. The International BMMRD Consortium and the European Consortium Care for CMMRD (C4CMMRD) formed the primary evidence bases. All recommendations are weak, with low to very low quality evidence. Eight formal recommendations are provided covering colonoscopy, upper endoscopy/video capsule endoscopy, brain MRI, complete blood count, endometrial cancer surveillance, urinary tract surveillance, hepatic adenoma surveillance, and LS screening of heterozygous relatives.
 
@@ -59,7 +59,7 @@ The guideline acknowledges that evidence is exclusively from case series, kindre
 **Clinical Clues to Suspect BMMRD (Table 2)**
 
 - Child or young adult with a Lynch syndrome cancer (colorectal, small bowel, ureter, endometrial, etc.)
-- Child or young adult with colonic adenomatous polyposis not explained by a known polyposis syndrome (FAP, MAP)
+- Child or young adult with colonic adenomatous polyposis not explained by a known polyposis syndrome ([[familial-adenomatous-polyposis|FAP]], [[mutyh-associated-polyposis|MAP]])
 - Any child or young adult with cancer plus parental consanguinity, café-au-lait macules, or features of neurofibromatosis not explained by other confirmed germline mutation (i.e., neurofibromatosis)
 - Any cancer with abnormal IHC for DNA-MMR proteins in normal and tumor tissue
 - History of brain cancer, lymphoma, or leukemia without history of radiation
@@ -67,8 +67,8 @@ The guideline acknowledges that evidence is exclusively from case series, kindre
 
 **Surveillance**
 
-- Colonoscopy annually from age 6 recommended; once polyps identified, every 6 months
-- Upper endoscopy + video capsule endoscopy (VCE) annually from age 8
+- [[colonoscopy|Colonoscopy]] annually from age 6 recommended; once polyps identified, every 6 months
+- [[upper-endoscopy|Upper endoscopy]] + [[capsule-endoscopy|video capsule endoscopy]] (VCE) annually from age 8
 - Brain MRI every 6 months from age 2; alternative: head ultrasound until fontanel fusion
 - CBC every 6 months from age 1 (alternative: abdominal ultrasound every 6 months per European Consortium)
 - Endometrial surveillance (TVUS + pelvic exam + endometrial sampling) annually from age 20
@@ -145,3 +145,7 @@ The guideline acknowledges that evidence is exclusively from case series, kindre
 - Aspirin chemoprevention role in BMMRD is extrapolated from LS data; no BMMRD-specific trial data
 - Cancer spectrum in adult BMMRD survivors is not yet defined; LS-type tumors may increase with age
 - Genotype-phenotype correlations in BMMRD are incompletely understood; compound heterozygous mutations add complexity
+
+## See Also
+
+[[bmmrd-syndrome]], [[lynch-syndrome]], [[colorectal-cancer]], [[familial-adenomatous-polyposis]], [[mutyh-associated-polyposis]], [[colonoscopy]]

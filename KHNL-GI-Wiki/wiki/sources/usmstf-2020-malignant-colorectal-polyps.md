@@ -19,7 +19,7 @@ sources: []
 
 ## Summary
 
-Malignant colorectal polyps are defined as colorectal lesions with neoplastic invasion of the submucosa without extension into the muscularis propria (pT1). The prevalence of cancer in colorectal polyps ranges from 0.2% to 5%. This guideline addresses three tasks: (1) endoscopic recognition of colorectal polyps with deep submucosal invasion that should be referred directly to surgery; (2) optimal endoscopic resection techniques and specimen handling when superficial submucosal invasion is suspected; and (3) histologic risk stratification after polypectomy to guide surgical vs. surveillance management.
+Malignant colorectal polyps are defined as colorectal lesions with neoplastic invasion of the submucosa without extension into the muscularis propria (pT1). The prevalence of cancer in colorectal polyps ranges from 0.2% to 5%. This guideline addresses three tasks: (1) endoscopic recognition of colorectal polyps with deep submucosal invasion that should be referred directly to surgery; (2) optimal endoscopic resection techniques and specimen handling when superficial submucosal invasion is suspected; and (3) histologic risk stratification after [[polypectomy-emr|polypectomy]] to guide surgical vs. surveillance management.
 
 The guideline uses GRADE methodology adapted for the USMSTF, with evidence grades A (high), B (moderate), C (low), and D (very low). The document organizes its guidance around six key questions (KQs) with specific numbered recommendations. A companion document addresses optimal resection techniques for large and potentially malignant polyps; this document excludes polyps in inflammatory bowel disease.
 
@@ -33,7 +33,7 @@ Deep submucosal invasion (≥1 mm, "SM2/SM3") carries a 10–18% risk of residua
 
 ### Definitions
 
-- **Malignant polyp** = pT1 colorectal cancer: submucosal invasion without muscularis propria involvement. Synonymous term: *submucosally invasive lesion*.
+- **Malignant polyp** = pT1 [[colorectal-cancer|colorectal cancer]]: submucosal invasion without muscularis propria involvement. Synonymous term: *submucosally invasive lesion*.
 - Deep submucosal invasion defined as ≥1 mm (≥1000 µm); associated with 10–18% risk of residual disease after endoscopic resection.
 - Superficial submucosal invasion (<1 mm): LNM risk 0–4% when other adverse features absent.
 
@@ -265,3 +265,7 @@ Deep submucosal invasion (≥1 mm, "SM2/SM3") carries a 10–18% risk of residua
 - Tumor budding definitions and reporting vary significantly across institutions; inter-observer variability is high for LVI. Adoption of ITBCC 2016 criteria and CAP synoptic templates remains incomplete in practice.
 - Decision to proceed to surgery must account for surgical mortality (1–8%, age- and comorbidity-dependent) vs. residual/recurrent cancer risk — shared decision-making is emphasized.
 - This document explicitly excludes management of polyps associated with inflammatory bowel disease.
+
+## See Also
+
+[[polypectomy-emr]], [[colorectal-cancer]], [[colorectal-cancer-screening]], [[endoscopic-ultrasound]], [[lynch-syndrome]]

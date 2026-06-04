@@ -15,7 +15,7 @@ Evidence graded using GRADE framework. Recommendations rated Strong or Condition
 
 ## Summary
 
-A biliary stricture is an abnormal narrowing of the ductal drainage system of the liver causing clinically relevant obstruction to bile flow. The guideline focuses on two principal management priorities: **diagnosis** (confirm or exclude malignancy) and **drainage** (restore bile flow to the duodenum). Strictures are anatomically classified as extrahepatic or perihilar; intrahepatic strictures and PSC-related strictures are not addressed.
+A biliary stricture is an abnormal narrowing of the ductal drainage system of the liver causing clinically relevant obstruction to bile flow. The guideline focuses on two principal management priorities: **diagnosis** (confirm or exclude malignancy) and **drainage** (restore bile flow to the duodenum). Strictures are anatomically classified as extrahepatic or perihilar; intrahepatic strictures and [[primary-sclerosing-cholangitis|PSC]]-related strictures are not addressed.
 
 Key organizational principle: extrahepatic strictures are substantially more amenable to tissue diagnosis and drainage than perihilar strictures, and a different algorithmic approach applies to each.
 
@@ -23,20 +23,20 @@ Key organizational principle: extrahepatic strictures are substantially more ame
 
 ### Epidemiology and Malignancy Risk
 
-- Biliary strictures in adults are more likely to be **malignant than benign** except in clearly defined scenarios (e.g., anastomotic stricture after liver transplant, postcholecystectomy injury, known chronic pancreatitis). Malignancy confirmed in 73–87% of referred patients in large series.
+- Biliary strictures in adults are more likely to be **malignant than benign** except in clearly defined scenarios (e.g., anastomotic stricture after [[liver-transplantation|liver transplant]], postcholecystectomy injury, known [[chronic-pancreatitis|chronic pancreatitis]]). Malignancy confirmed in 73–87% of referred patients in large series.
 - Estimated ~34,000 annual cases of malignant extrahepatic stricture and ~3,000 cases of malignant perihilar stricture in the US per year.
-- Noninvasive testing (CT, MRI, EUS morphology alone, CA 19-9, CEA) has diagnostic accuracy of only 60–80%; tissue diagnosis is required in the vast majority of cases.
+- Noninvasive testing (CT, MRI, [[endoscopic-ultrasound|EUS]] morphology alone, CA 19-9, CEA) has diagnostic accuracy of only 60–80%; tissue diagnosis is required in the vast majority of cases.
 
 ### Diagnosis: Extrahepatic Stricture
 
-- **Rec 1 (Strong, Moderate):** For extrahepatic strictures due to apparent or suspected pancreatic mass, **EUS-FNA/B is preferred over ERCP-based tissue sampling**. Pooled sensitivity: EUS-FNA 75%, ERCP 49% (meta-analysis); more recent prospective studies show EUS accuracy ~100% vs ~55% for ERCP.
+- **Rec 1 (Strong, Moderate):** For extrahepatic strictures due to apparent or suspected pancreatic mass, **EUS-FNA/B is preferred over [[ercp|ERCP]]-based tissue sampling**. Pooled sensitivity: EUS-FNA 75%, ERCP 49% (meta-analysis); more recent prospective studies show EUS accuracy ~100% vs ~55% for ERCP.
 - **Rec 2 (Conditional, Very Low):** Prefer **EUS-FNB** (core needle) or **EUS-FNA + ROSE** over FNA alone. FNB appears to obviate the need for ROSE and improves genomic profiling yield.
 - Key Concept 2: In minimally symptomatic patients, prefer **single-session EUS + ERCP** over ERCP alone to avoid a mandatory second procedure. Defer to a capable center rather than placing a plastic stent first at an ERCP-only center.
 - For extrahepatic strictures without an associated mass, apply the same multimodality approach as for perihilar strictures (Rec 3).
 
 ### Diagnosis: Perihilar Stricture
 
-- **Key Concept 3:** For suspected perihilar cholangiocarcinoma, **avoid EUS-FNA/B or percutaneous biopsy of the primary lesion** (risk of transperitoneal seeding, peritoneal metastasis in up to 83% with positive transperitoneal biopsy in one Mayo Clinic series). Intraductal sampling is preferred. EUS is appropriate only to sample regional lymphadenopathy (a positive node is itself a transplant contraindication, so no transplant-eligibility risk).
+- **Key Concept 3:** For suspected perihilar [[cholangiocarcinoma]], **avoid EUS-FNA/B or percutaneous biopsy of the primary lesion** (risk of transperitoneal seeding, peritoneal metastasis in up to 83% with positive transperitoneal biopsy in one Mayo Clinic series). Intraductal sampling is preferred. EUS is appropriate only to sample regional lymphadenopathy (a positive node is itself a transplant contraindication, so no transplant-eligibility risk).
 - **Rec 3 (Strong, Low):** For suspected malignant perihilar stricture, use **multimodality intraductal sampling** at the index ERCP — not brush cytology alone.
   - Brush cytology sensitivity: ~41–60% (meta-analysis); inadequate alone
   - Fluoroscopy-directed forceps biopsy: sensitivity 40–88%; combination with brushings improves yield to ~59%
@@ -128,3 +128,7 @@ Links to relevant wiki pages:
 - **Optimal sampling strategy for indeterminate strictures:** The number and combination of modalities at index ERCP is not standardized. NGS and pCLE are evolving but not widely available.
 - **Preoperative biliary drainage:** Evidence base limited by use of plastic stents (rather than SEMS) in the pivotal RCT; applicability to SEMS-based drainage less certain.
 - **RFA for perihilar strictures specifically:** Most RFA RCT data are from predominantly extrahepatic stricture populations; evidence for perihilar application is less robust than PDT.
+
+## See Also
+
+[[endoscopic-ultrasound]], [[acute-pancreatitis]]

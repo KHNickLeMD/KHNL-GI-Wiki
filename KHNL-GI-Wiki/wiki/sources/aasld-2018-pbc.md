@@ -19,9 +19,9 @@ sources: []
 
 ## Summary
 
-This AASLD 2018 Practice Guidance updates the 2009 PBC guidelines. It covers the etiology, natural history, diagnosis, clinical manifestations, and full therapeutic management of PBC. The major addition compared with 2009 is the formal inclusion of obeticholic acid (OCA), approved by the FDA in May 2016, as second-line therapy.
+This AASLD 2018 Practice Guidance updates the 2009 [[primary-biliary-cholangitis|PBC]] guidelines. It covers the etiology, natural history, diagnosis, clinical manifestations, and full therapeutic management of PBC. The major addition compared with 2009 is the formal inclusion of obeticholic acid (OCA), approved by the FDA in May 2016, as second-line therapy.
 
-PBC is a chronic autoimmune cholestatic liver disease defined by its hallmark serologic marker — anti-mitochondrial antibody (AMA) — and progressive nonsuppurative destruction of interlobular bile ducts. The guidance confirms UDCA 13–15 mg/kg/day as the sole first-line therapy, establishes biochemical response criteria (multiple validated systems tabulated), introduces OCA 5 mg/day titrated to 10 mg/day as second-line, acknowledges fibrates as off-label alternatives, and provides comprehensive guidance on symptom management (fatigue, pruritus, sicca syndrome), bone disease, hyperlipidemia, portal hypertension, HCC surveillance, liver transplantation, recurrent PBC post-transplant, PBC-AIH overlap (Paris criteria), AMA-negative PBC, and screening of first-degree relatives.
+PBC is a chronic autoimmune cholestatic liver disease defined by its hallmark serologic marker — anti-mitochondrial antibody (AMA) — and progressive nonsuppurative destruction of interlobular bile ducts. The guidance confirms UDCA 13–15 mg/kg/day as the sole first-line therapy, establishes biochemical response criteria (multiple validated systems tabulated), introduces OCA 5 mg/day titrated to 10 mg/day as second-line, acknowledges fibrates as off-label alternatives, and provides comprehensive guidance on symptom management (fatigue, pruritus, sicca syndrome), bone disease, hyperlipidemia, [[portal-hypertension|portal hypertension]], [[hcc-surveillance|HCC surveillance]], [[liver-transplantation|liver transplantation]], recurrent PBC post-transplant, PBC-[[autoimmune-hepatitis|AIH]] overlap (Paris criteria), AMA-negative PBC, and screening of first-degree relatives.
 
 The guidance emphasizes that UDCA does not improve fatigue or pruritus; those require separate, symptom-directed therapy. OCA is contraindicated in decompensated PBC (Child-Pugh B or C) per a September 2017 FDA warning. Fibrates carry a risk of creatinine elevation (non-renal mechanism) and transaminase elevation, with long-term safety data still lacking at time of publication.
 
@@ -88,7 +88,7 @@ The guidance emphasizes that UDCA does not improve fatigue or pruritus; those re
 
 **Guidance Statement 15.** *Patients with suspected cirrhosis should undergo endoscopic screening for varices at the time of diagnosis.*
 
-**Guidance Statement 16.** *Regular screening for hepatocellular carcinoma with cross-sectional imaging at 6-month intervals is currently advised for men and patients with cirrhosis.*
+**Guidance Statement 16.** *Regular screening for [[hepatocellular-carcinoma|hepatocellular carcinoma]] with cross-sectional imaging at 6-month intervals is currently advised for men and patients with cirrhosis.*
 
 ### Bone Disease
 
@@ -183,3 +183,7 @@ The guidance emphasizes that UDCA does not improve fatigue or pruritus; those re
 - OCA contraindication in advanced cirrhosis was issued as FDA warning in September 2017 and updated formally in the 2021 guidance update
 - Modafinil for fatigue: open-label studies suggested benefit, but placebo-controlled RCT was negative — no recommended pharmacotherapy for PBC fatigue
 - Bezafibrate is not FDA-approved for PBC; data largely from European trials; the definitive BEZURSO trial supports efficacy but drug availability varies
+
+## See Also
+
+[[aasld-2021-pbc]], [[primary-biliary-cholangitis]], [[autoimmune-hepatitis]], [[hepatocellular-carcinoma]], [[liver-transplantation]]

@@ -34,3 +34,7 @@ Most blood/imaging NITs have **high negative predictive value (rule-out)** but *
 - Fibrosis staging also applies in [[primary-sclerosing-cholangitis]], [[primary-biliary-cholangitis]], and [[hereditary-hemochromatosis]].
 
 *Stub — to be expanded when the AASLD 2024 imaging-based and portal-hypertension NILDA guidelines are ingested.*
+
+## See Also
+
+[[nafld-masld]], [[aasld-2024-nilda-blood]], [[aasld-2023-nafld]], [[semaglutide]], [[portal-hypertension]], [[primary-sclerosing-cholangitis]], [[primary-biliary-cholangitis]], [[hereditary-hemochromatosis]], [[aasld-2025-semaglutide-mash]]

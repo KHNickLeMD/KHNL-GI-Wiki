@@ -54,7 +54,7 @@ For management, the guideline underscores the limited FDA-approved pharmacothera
 - PPV for delayed GE = 55% overall; only 32% in patients without risk factors, 79% in type 1 DM
 - Should not be assumed diagnostic of GP; medications (opioids, cardiovascular agents, acid suppressants) are confounders
 
-**GP vs. functional dyspepsia overlap:**
+**GP vs. [[dyspepsia|functional dyspepsia]] overlap:**
 
 - 42% of patients initially diagnosed with GP and 37% with FD were reclassified on repeat SGE
 - Distinction is clinically important: FD has a better prognosis than GP
@@ -208,3 +208,7 @@ For management, the guideline underscores the limited FDA-approved pharmacothera
 - GES: SRMA of 5 randomized trials shows TSS did NOT differ on vs. off in RCTs; improvement seen only in open-label studies (Levinthal 2017) — questions about placebo effect vs. true benefit remain unresolved
 - Ghrelin agonists (relamorelin): accelerated GE and reduced vomiting in DG-specific RCTs, but impaired glycemic control with relamorelin; did not meet primary endpoints in phase 3 — guideline appropriately concludes NOT supported
 - No FDA-approved therapy exists for GP in the US other than metoclopramide (approved only for ≤12 weeks); significant unmet need
+
+## See Also
+
+[[flip-panometry]], [[gastroparesis]], [[upper-endoscopy]], [[disorders-of-gut-brain-interaction]]

@@ -16,7 +16,7 @@ sources: []
 
 ## Summary
 
-This SAGES guideline focuses exclusively on surgical technique decisions in GERD management: (1) surgery vs. continued medical management, (2) robotic vs. laparoscopic approach, (3) complete vs. partial fundoplication, (4) division vs. preservation of short gastric vessels in adults, and (5) minimal vs. maximal dissection in pediatric patients. All seven recommendations are conditional, reflecting very low, low, or moderate certainty evidence.
+This SAGES guideline focuses exclusively on surgical technique decisions in [[gerd|GERD]] management: (1) surgery vs. continued medical management, (2) robotic vs. laparoscopic approach, (3) complete vs. partial fundoplication, (4) division vs. preservation of short gastric vessels in adults, and (5) minimal vs. maximal dissection in pediatric patients. All seven recommendations are conditional, reflecting very low, low, or moderate certainty evidence.
 
 The guideline's primary conclusion is that surgery is preferred over long-term medical management for adults with confirmed chronic or chronic refractory GERD, but the technical details of surgical approach are largely equivalent based on patient values and surgeon expertise. Shared decision-making with patients regarding surgical technique trade-offs is a recurring theme.
 
@@ -96,7 +96,11 @@ This guideline should be read alongside [[acg-2021-gerd]] (comprehensive GERD ma
 
 ## Contradictions / Open Questions
 
-- Surgery vs. medical management: SAGES 2021 conditional recommendation predates the NordICC trial (2022) — may require re-evaluation of overall antireflux procedure evidence
+- Surgery vs. medical management: SAGES 2021 conditional recommendation predates the NordICC trial (2022) — may require re-evaluation of overall [[antireflux-surgery|antireflux procedure]] evidence
 - Robotic vs. laparoscopic: evidence base limited (4 small RCTs); long-term cost-effectiveness not studied
 - Short gastric vessel division: gas-bloat data suggest division may worsen long-term gas-bloat but improve symptom control — patient counseling crucial
 - MSA (magnetic sphincter augmentation / LINX): not addressed in this SAGES guideline; covered by ACG 2021 and ASGE 2024
+
+## See Also
+
+[[acg-2021-gerd]], [[asge-2024-gerd]], [[antireflux-surgery]], [[gerd]]

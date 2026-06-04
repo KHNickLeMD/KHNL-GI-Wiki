@@ -21,7 +21,7 @@ This AGA Clinical Practice Update (CPU) Expert Review provides 9 best practice a
 
 The CPU is organized around three phases: preprocedure (appropriate indication and informed consent), intraprocedure (mucosal visualization, imaging technology, inspection time, photodocumentation, standardized terminology, and biopsy protocols), and postprocedure (communication of results and surveillance planning). A major emphasis is placed on reducing missed upper GI cancers — a systematic review of 81,184 patients found 10.7% of upper GI cancers were diagnosed within 3 years of a negative EGD, and 23.9% of esophageal adenocarcinomas in nondysplastic Barrett's patients were diagnosed within 1 year of a negative EGD.
 
-The document provides specific biopsy protocol tables for eosinophilic esophagitis, Barrett's esophagus, dyspepsia/H. pylori, gastric preneoplasia, peptic ulcer disease, gastric polyps, and celiac disease. It also addresses contemporary issues such as GLP-1 receptor agonist use before endoscopy, simethicone biofilm risk, and AI-assisted detection.
+The document provides specific biopsy protocol tables for [[eosinophilic-esophagitis|eosinophilic esophagitis]], [[barretts-esophagus|Barrett's esophagus]], [[dyspepsia]]/[[helicobacter-pylori-infection|H. pylori]], gastric preneoplasia, [[peptic-ulcer-disease|peptic ulcer disease]], gastric polyps, and [[celiac-disease|celiac disease]]. It also addresses contemporary issues such as GLP-1 receptor agonist use before endoscopy, simethicone biofilm risk, and AI-assisted detection.
 
 ## Key Findings / Claims
 
@@ -29,7 +29,7 @@ The document provides specific biopsy protocol tables for eosinophilic esophagit
 
 - A large meta-analysis of 53,392 patients found 21.7% (95% CI, 21.4–22.1) of upper endoscopies had inappropriate indications
 - Appropriate indication associated with higher diagnostic yield (OR 1.42; 95% CI, 1.36–1.49)
-- GLP-1 receptor agonists (semaglutide, etc.) are associated with delayed gastric emptying; American Society of Anesthesiologists advises holding 1 dose before endoscopy to reduce aspiration risk
+- GLP-1 receptor agonists ([[semaglutide]], etc.) are associated with delayed gastric emptying; American Society of Anesthesiologists advises holding 1 dose before endoscopy to reduce aspiration risk
 
 ### Mucosal Visualization (BPA 2)
 
@@ -44,7 +44,7 @@ The document provides specific biopsy protocol tables for eosinophilic esophagit
 - All system components (endoscope chip, processor, monitor, cables) must be HD-compatible for true HD resolution
 - Image enhancement technologies (IET): NBI (Olympus), i-Scan (PENTAX), LCI/blue laser imaging (FUJIFILM)
 - In Barrett's esophagus: NBI, LCI, or i-Scan improved detection/characterization of dysplastic lesions by 10–20%
-- In gastric screening: NBI detected more focal gastric lesions vs. HD-WLE (40.6% vs. 29%; P=.003), and more gastric intestinal metaplasia (17.7% vs. 7.7%; P=.001) in a large multicenter trial
+- In gastric screening: NBI detected more focal gastric lesions vs. HD-WLE (40.6% vs. 29%; P=.003), and more [[gastric-intestinal-metaplasia|gastric intestinal metaplasia]] (17.7% vs. 7.7%; P=.001) in a large multicenter trial
 - LCI tandem trial: significantly lower missed upper GI neoplasia rate vs. HD-WLE (0.67% vs. 3.5%; RR 0.19; 95% CI, 0.07–0.50)
 
 ### Inspection Time (BPA 5)
@@ -130,3 +130,7 @@ The document provides specific biopsy protocol tables for eosinophilic esophagit
 - Optimal EGD inspection time remains undefined — the ">7 minutes" benchmark is based on retrospective data from Singapore and Japan populations, which may not fully generalize to US practice
 - Comparative data between different IETs (NBI vs. LCI vs. i-Scan) are limited; no head-to-head superiority established
 - AI-assisted detection systems for upper endoscopy are described as early-phase and not yet validated for routine clinical use
+
+## See Also
+
+[[upper-endoscopy]], [[eosinophilic-esophagitis]], [[helicobacter-pylori-infection]], [[gastric-premalignant-conditions]], [[acg-2025-egd-quality]]

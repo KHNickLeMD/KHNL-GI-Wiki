@@ -17,7 +17,7 @@ sources: []
 
 ## Summary
 
-This ACG guideline updates preventive care recommendations for adult patients with IBD, recognizing that gastroenterologists function as de facto primary care providers for many of their IBD patients. The central premise is that >70% of IBD patients will at some time be on immune-modifying therapy, dramatically elevating the risk of vaccine-preventable infections and other preventable harms.
+This ACG guideline updates preventive care recommendations for adult patients with [[inflammatory-bowel-disease|IBD]], recognizing that gastroenterologists function as de facto primary care providers for many of their IBD patients. The central premise is that >70% of IBD patients will at some time be on immune-modifying therapy, dramatically elevating the risk of vaccine-preventable infections and other preventable harms.
 
 The guideline covers six domains: (1) vaccinations (principles, specific vaccines), (2) cervical cancer screening, (3) melanoma and NMSC screening, (4) osteoporosis screening, (5) smoking cessation, and (6) depression and anxiety screening. It uses GRADE for formal recommendations and a separate "Key Concepts" table for expert consensus statements not subject to GRADE.
 
@@ -35,7 +35,7 @@ Vaccine immunogenicity is blunted by anti-TNF therapy (especially in combination
 4. **Herpes zoster vaccine:** All adults ≥50 with IBD → 2-dose recombinant HZ vaccine (RZV; Shingrix) (Conditional, low)
 5. **Herpes zoster vaccine:** Adults ≥19 with IBD on or planning immune-modifying therapy → 2-dose RZV (Conditional, very low)
 6. **COVID-19:** Vaccination per national guidelines (Conditional, very low)
-7. **Rotavirus:** Live rotavirus may be offered to children with in-utero biologic exposure (Conditional, very low)
+7. **Rotavirus:** Live [[rotavirus]] may be offered to children with in-utero biologic exposure (Conditional, very low)
 
 ### Vaccinations — Key Concepts (Table 2, not GRADE)
 
@@ -46,12 +46,12 @@ Vaccine immunogenicity is blunted by anti-TNF therapy (especially in combination
 - Evaluate varicella immunity before IMT; if non-immune, vaccinate before starting IMT when possible; serologic testing not recommended in previously vaccinated (high false-negative rate)
 - Household contacts of IMT patients can receive live vaccines with precautions
 - Tdap, HAV, HPV, and meningococcus per ACIP recommendations
-- Hepatitis B vaccination if not immune
+- [[chronic-hepatitis-b|Hepatitis B]] vaccination if not immune
 
 ### Cancer Screening
 
 8. **Cervical cancer (Recommendation 8):** Women with IBD on immune-modifying therapy → annual Pap within 1 year of sexual activity onset; if <30, continue annually for 3 consecutive years before transitioning to q3y (Conditional, very low)
-2. **Melanoma (Recommendation 9):** Annual melanoma screening for all IBD patients (CD and UC) independent of biologic therapy (Conditional, very low)
+2. **Melanoma (Recommendation 9):** Annual melanoma screening for all IBD patients ([[crohns-disease|CD]] and [[ulcerative-colitis|UC]]) independent of biologic therapy (Conditional, very low)
 3. **NMSC (Recommendation 10):** Annual NMSC screening for IBD patients on 6-MP, AZA, MTX, JAK inhibitors, or S1P receptor modulators — particularly >50 (Conditional, very low)
 
 - Thiopurine NMSC risk: RR 1.88 (95% CI 1.48–2.38); incidence rate ratio increases from 1.6 in year 1 to 3.6 in year 5
@@ -119,3 +119,7 @@ Vaccine immunogenicity is blunted by anti-TNF therapy (especially in combination
 - Melanoma and anti-TNF: multiple meta-analyses show no statistically significant association, but guideline still recommends annual screening independent of biologic therapy — more conservative than data suggest
 - Immunogenicity of PCV20/PCV21 in IBD populations: studies to date primarily evaluated PCV13 and PPSV23; newer conjugated vaccines not yet specifically studied in IBD
 - No data on whether newer agents (IL-23 inhibitors: guselkumab, mirikizumab, risankizumab; S1P modulators: ozanimod, etrasimod; upadacitinib) affect vaccine response in IBD
+
+## See Also
+
+[[ibd-preventive-care]], [[crohns-disease]], [[ulcerative-colitis]], [[chronic-hepatitis-b]], [[colonoscopy]]

@@ -18,9 +18,9 @@ sources: []
 
 ## Summary
 
-Comprehensive ACG guideline on the diagnosis and management of achalasia using the GRADE process. Achalasia is a rare esophageal motility disorder (20,000–40,000 affected in the US) caused by loss of inhibitory neurons in the myenteric plexus, producing failed LES relaxation and absent peristalsis. The diagnosis requires HRM (gold standard), supplemented by upper endoscopy to exclude pseudoachalasia and timed barium esophagram for pre/post-therapy assessment.
+Comprehensive ACG guideline on the diagnosis and management of achalasia using the GRADE process. Achalasia is a rare esophageal motility disorder (20,000–40,000 affected in the US) caused by loss of inhibitory neurons in the myenteric plexus, producing failed LES relaxation and absent peristalsis. The diagnosis requires [[high-resolution-manometry|HRM]] (gold standard), supplemented by [[upper-endoscopy|upper endoscopy]] to exclude pseudoachalasia and timed barium esophagram for pre/post-therapy assessment.
 
-Treatment is entirely palliative. Three definitive therapies — pneumatic dilation (PD), laparoscopic Heller myotomy (LHM), and per-oral endoscopic myotomy (POEM) — produce equivalent outcomes for Type I/II achalasia. Type III achalasia favors POEM or tailored LHM due to longer myotomy requirements. POEM carries higher GERD risk than LHM with fundoplication. Botulinum toxin is reserved for patients unfit for definitive therapy. Esophagectomy is a last resort for megaesophagus. Routine cancer surveillance is not recommended despite a 28x elevated risk for squamous cell carcinoma.
+Treatment is entirely palliative. Three definitive therapies — pneumatic dilation (PD), laparoscopic Heller myotomy (LHM), and [[poem|per-oral endoscopic myotomy]] (POEM) — produce equivalent outcomes for Type I/II achalasia. Type III achalasia favors POEM or tailored LHM due to longer myotomy requirements. POEM carries higher [[gerd|GERD]] risk than LHM with fundoplication. Botulinum toxin is reserved for patients unfit for definitive therapy. Esophagectomy is a last resort for megaesophagus. Routine cancer surveillance is not recommended despite a 28x elevated risk for squamous cell carcinoma.
 
 ## Key Findings / Claims
 
@@ -28,7 +28,7 @@ Treatment is entirely palliative. Three definitive therapies — pneumatic dilat
 
 - HRM (esophageal pressure topography) recommended over conventional manometry: 3.4x lower odds of incorrect diagnosis, superior inter-rater agreement (k=0.57 vs 0.32) (Strong; High)
 - Always perform upper endoscopy to exclude pseudoachalasia before HRM
-- FLIP can diagnose achalasia in equivocal cases and in patients who cannot tolerate manometry; performed during endoscopy under sedation
+- [[flip-panometry|FLIP]] can diagnose achalasia in equivocal cases and in patients who cannot tolerate manometry; performed during endoscopy under sedation
 - TBE: best predictor of long-term treatment success post-dilation (superior to symptom scores)
 - Patients with GERD not responding to PPI → evaluate for achalasia (Strong; Very low)
 
@@ -100,3 +100,7 @@ Treatment is entirely palliative. Three definitive therapies — pneumatic dilat
 - POEM vs LHM long-term GERD data still evolving — this guideline predates widespread POEM use and 5+ year follow-up RCTs
 - Surveillance every 3 years after 10–15 years of disease discussed as expert opinion but not formally recommended; will likely be revisited in future guidelines
 - Chicago Classification v4.0 (2021) supersedes v3.0 referenced in this guideline — Type III achalasia criteria and EGJ outflow obstruction classification were updated; see [[chicago-classification-v4]]
+
+## See Also
+
+[[achalasia]], [[eosinophilic-esophagitis]], [[gerd]], [[high-resolution-manometry]], [[poem]], [[chicago-classification-v4]]

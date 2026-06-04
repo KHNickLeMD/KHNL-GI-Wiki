@@ -22,7 +22,7 @@ A critical contribution of the guideline is re-establishing lower upper limits o
 
 For alkaline phosphatase elevation, the guideline mandates confirmation of hepatic origin with GGT or alkaline phosphatase fractionation, followed by right upper quadrant ultrasound to assess for biliary dilatation, and autoimmune marker testing (AMA, ANA, SMA) for intrahepatic cholestasis. Bilirubin evaluation requires fractionation into conjugated (direct) vs. unconjugated (indirect) forms: elevated conjugated bilirubin implies hepatocellular disease or biliary obstruction; unconjugated elevation points toward hemolysis, ineffective erythropoiesis, or Gilbert syndrome.
 
-The guideline systematically reviews the diagnostic evaluation of the major specific liver diseases responsible for abnormal chemistries: chronic hepatitis B and C, NAFLD (now MASLD/MASH), alcoholic liver disease, autoimmune hepatitis, hereditary hemochromatosis, Wilson's disease, alpha-1 antitrypsin deficiency, drug/supplement-induced liver injury, primary biliary cholangitis (PBC), and primary sclerosing cholangitis (PSC). Clinical algorithms (Figures 1–5) are provided for each pattern of elevation.
+The guideline systematically reviews the diagnostic evaluation of the major specific liver diseases responsible for abnormal chemistries: [[chronic-hepatitis-b|chronic hepatitis B]] and [[hepatitis-c|C]], [[nafld-masld|NAFLD]] (now MASLD/MASH), [[alcohol-associated-liver-disease|alcoholic liver disease]], [[autoimmune-hepatitis|autoimmune hepatitis]], [[hereditary-hemochromatosis|hereditary hemochromatosis]], [[wilson-disease|Wilson's disease]], alpha-1 antitrypsin deficiency, [[drug-induced-liver-injury|drug/supplement-induced liver injury]], [[primary-biliary-cholangitis|primary biliary cholangitis]] (PBC), and [[primary-sclerosing-cholangitis|primary sclerosing cholangitis]] (PSC). Clinical algorithms (Figures 1–5) are provided for each pattern of elevation.
 
 ## Key Findings / Claims
 
@@ -60,7 +60,7 @@ The guideline systematically reviews the diagnostic evaluation of the major spec
 - Confirm hepatic origin with GGT (alkaline phosphatase can come from bone, placenta, intestine, kidney)
 - GGT is not specific for liver disease — elevated in alcoholism, pancreatic disease, CHF, renal failure, emphysema, diabetes, and medications (phenytoin, barbiturates); do not use as standalone screening test
 - RUQ ultrasound once hepatic origin confirmed
-- If ductal dilatation: ERCP or MRCP
+- If ductal dilatation: [[ercp|ERCP]] or MRCP
 - If no ductal dilatation: check AMA, ANA, SMA for PBC/PSC/AIH
 - If AMA positive → evaluate for PBC
 - Isolated alkaline phosphatase >2× ULN with negative evaluation → consider liver biopsy
@@ -139,5 +139,9 @@ The guideline systematically reviews the diagnostic evaluation of the major spec
 - **Terminology:** This 2017 guideline uses "NAFLD/NASH" and "primary biliary cirrhosis (PBC)." Current nomenclature is MASLD/MASH and primary biliary cholangitis (PBC). Wiki pages should reflect updated terminology while noting historical labels.
 - **ALT ULN:** This guideline proposes 29–33 IU/l (men), 19–25 IU/l (females) as the true healthy normal. Most clinical labs use higher values (35–79 IU/l depending on the lab). The ACG 2021 DILI guideline uses "ULN" without specifying this threshold explicitly — the 2017 guideline provides more granular context. Clinicians should be aware that the laboratory ULN may overestimate the true normal.
 - **HCV birth-cohort screening:** The 2017 recommendation for 1945–1965 birth cohort universal screening has been superseded — current USPSTF (2020) recommends HCV screening for all adults 18–79 years old regardless of birth cohort.
-- **ICI hepatotoxicity:** Not covered (2017 predates broad ICI clinical use). Current management in [[drug-induced-liver-injury]] reflects more recent evidence.
+- **[[immune-checkpoint-inhibitor-hepatitis|ICI hepatotoxicity]]:** Not covered (2017 predates broad ICI clinical use). Current management in [[drug-induced-liver-injury]] reflects more recent evidence.
 - **Alpha-1 antitrypsin:** No dedicated wiki page currently; the clinical workup here is useful context for a future expansion.
+
+## See Also
+
+[[abnormal-liver-chemistries]], [[drug-induced-liver-injury]], [[wilson-disease]], [[hereditary-hemochromatosis]], [[primary-biliary-cholangitis]], [[primary-sclerosing-cholangitis]], [[autoimmune-hepatitis]], [[alcohol-associated-liver-disease]], [[nafld-masld]]

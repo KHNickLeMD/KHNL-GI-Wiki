@@ -18,7 +18,7 @@ sources: []
 
 Third ACG-ASGE quality indicator document for EGD. Presents 29 indicators with performance targets organized across preprocedure, intraprocedure, and postprocedure periods. Priority indicators are those deemed highest clinical relevance, significant practice variation, and feasible to measure. Note: this document supplements (not replaces) the separate common-to-all-endoscopy indicators document covering consent, antithrombotics, team pause, etc.
 
-Key new or updated indicators: EREFS score documentation for EoE; GPMC biopsy (Sydney protocol) for high-risk patients; HDWLE + virtual chromoendoscopy for GPMC surveillance; GPMC surveillance plan documentation; celiac disease duodenal biopsy standard (≥4 biopsies including bulb).
+Key new or updated indicators: EREFS score documentation for [[eosinophilic-esophagitis|EoE]]; [[gastric-premalignant-conditions|GPMC]] biopsy (Sydney protocol) for high-risk patients; HDWLE + virtual chromoendoscopy for GPMC surveillance; GPMC surveillance plan documentation; [[celiac-disease|celiac disease]] duodenal biopsy standard (≥4 biopsies including bulb).
 
 ## All 29 Quality Indicators (Table 1)
 
@@ -43,12 +43,12 @@ Key new or updated indicators: EREFS score documentation for EoE; GPMC biopsy (S
 | 10 | HDWLE + dye-based or virtual chromoendoscopy for BE surveillance | >90% | 1B |
 | 11 | Systematic 4-quadrant biopsies every 2 cm throughout BE segment in known BE surveillance | >90% | 1C |
 | 12 | Visible lesions in BE biopsied/resected separately from systematic biopsies | >90% | 3 |
-| 13* | Peptic ulcer stigmata documented (active bleeding, NBVV, adherent clot, flat spot, clean base) | >98% | 1A |
+| 13* | [[peptic-ulcer-disease|Peptic ulcer]] stigmata documented (active bleeding, NBVV, adherent clot, flat spot, clean base) | >98% | 1A |
 | 14* | Endoscopic treatment for actively bleeding ulcers or NBVV | >90% | 1A |
 | 15 | Second treatment modality when epinephrine injection used for bleeding/NBVV | >98% | 1A |
 | 16* | Primary hemostasis achievement documented in attempted hemostasis of nonvariceal UGIB | >90% | 2A |
 | 17 | Gastric ulcer biopsy or follow-up planned to exclude malignancy | >80% | 2C |
-| 18* | Systematic gastric biopsy (corpus, antrum, incisura — Sydney protocol) in known GPMC, high-risk GC patients, or endoscopic concern for GPMC | >90% | 2C |
+| 18* | Systematic gastric biopsy (corpus, antrum, incisura — Sydney protocol) in known GPMC, high-risk [[gastric-adenocarcinoma|GC]] patients, or endoscopic concern for GPMC | >90% | 2C |
 | 19 | HDWLE + virtual chromoendoscopy used in GPMC/high-risk GC/suspected GPMC patients | >90% | 2C |
 | 20 | Gastric polyps (non-FGP appearance) >10 mm: biopsied or resected | >80% | 2C |
 | 21 | ≥4 duodenal biopsies (including 1 from bulb) in suspected celiac disease | >98% | 1C |
@@ -62,7 +62,7 @@ Key new or updated indicators: EREFS score documentation for EoE; GPMC biopsy (S
 | 24 | Nondysplastic BE (without prior dysplasia): surveillance recommended no sooner than 3 years | >80% | 2C |
 | 25 | Complete eradication of intestinal metaplasia within 18 months of initial endoscopic treatment for BE with dysplasia or intramucosal carcinoma | >75% | 1C¹ |
 | 26* | High-dose PPI (continuous or intermittent ×3d) after successful hemostatic therapy of bleeding ulcer | >95% | 1A |
-| 27 | H. pylori testing plan documented in patients with GPMC, PUD, other H. pylori–associated conditions | >95% | 2C |
+| 27 | [[helicobacter-pylori-infection|H. pylori]] testing plan documented in patients with GPMC, PUD, other H. pylori–associated conditions | >95% | 2C |
 | 28 | H. pylori treatment AND eradication assessment plan documented in endoscopically diagnosed H. pylori | >95% | 2A |
 | 29 | GPMC surveillance plan documented in patients with known GPMC | >90% | 2C |
 
@@ -70,11 +70,11 @@ Key new or updated indicators: EREFS score documentation for EoE; GPMC biopsy (S
 
 ## Key Clinical Points
 
-- EGD within 6–24 hours optimal for admitted UGIB (not urgent <6 hours — no mortality benefit, NEJM RCT)
+- EGD within 6–24 hours optimal for admitted [[upper-gi-bleeding|UGIB]] (not urgent <6 hours — no mortality benefit, NEJM RCT)
 - Systematic photodocumentation is a surrogate for complete mucosal inspection; 2–3 min EGDs are inadequate especially for GPMC evaluation
 - PPI-responsive EoE is now classified as EoE; EREFS documentation required whenever EoE is suspected or known
 - GPMC: Sydney protocol biopsies + HDWLE/virtual chromoendoscopy + surveillance plan documentation — all now quality standards
-- Complete IM eradication within 18 months of EET is the outcome benchmark for BE with dysplasia/IMC
+- Complete IM eradication within 18 months of EET is the outcome benchmark for [[barretts-esophagus|BE]] with dysplasia/IMC
 
 ## Recommendations
 

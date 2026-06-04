@@ -15,9 +15,9 @@ American College of Gastroenterology (ACG). GRADE methodology applied. Literatur
 
 ## Summary
 
-A comprehensive clinical practice guideline from the ACG covering the diagnosis, etiology, and management of acute liver failure (ALF) in adults. The guideline issues 10 graded recommendations and numerous key concept statements across general management, system-specific supportive care, etiology-specific therapies, prognostic scoring, and liver transplantation.
+A comprehensive clinical practice guideline from the ACG covering the diagnosis, etiology, and management of acute liver failure (ALF) in adults. The guideline issues 10 graded recommendations and numerous key concept statements across general management, system-specific supportive care, etiology-specific therapies, prognostic scoring, and [[liver-transplantation|liver transplantation]].
 
-ALF is defined as: illness duration <26 weeks in a patient **without** preexisting liver disease or cirrhosis, with **any degree of encephalopathy** AND **coagulopathy (INR ≥ 1.5)**. Exceptions to the "no prior liver disease" requirement include autoimmune hepatitis (AIH), Budd-Chiari syndrome (BCS), and Wilson disease (WD), which may present acutely atop advanced fibrosis.
+ALF is defined as: illness duration <26 weeks in a patient **without** preexisting liver disease or cirrhosis, with **any degree of [[hepatic-encephalopathy|encephalopathy]]** AND **coagulopathy (INR ≥ 1.5)**. Exceptions to the "no prior liver disease" requirement include [[autoimmune-hepatitis|autoimmune hepatitis]] (AIH), [[budd-chiari-syndrome|Budd-Chiari syndrome]] (BCS), and [[wilson-disease|Wilson disease]] (WD), which may present acutely atop advanced fibrosis.
 
 ## Key Findings / Claims
 
@@ -165,3 +165,7 @@ This is the primary ACG guideline for ALF and should anchor the [[acute-liver-fa
 - HBV primary infection vs. reactivation: antiviral therapy more justified in reactivation (high VL, immune-mediated injury); benefit in de novo primary HBV-ALF less clear
 - Indeterminate ALF: up to 60% may have unrecognized AIH per ALFSG data — suggests empiric corticosteroid trial may be under-utilized
 - HVPE and artificial liver support: remain investigational; single RCT showed benefit only in APAP subgroup
+
+## See Also
+
+[[acute-liver-failure]], [[alcohol-associated-liver-disease]], [[chronic-hepatitis-b]], [[nutrition-in-liver-disease]]

@@ -35,3 +35,7 @@ NEJM's "Fever in a Returning Traveler" format is typically a clinical problem-so
 
 - No claims can be extracted without the full text
 - Unknown which specific diagnosis the vignette centers on
+
+## See Also
+
+[[fever-returning-traveler]]

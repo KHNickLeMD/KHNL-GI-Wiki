@@ -24,9 +24,9 @@ Pancreatic cysts are detected incidentally in 2.4–13.5% of abdominal MRIs in a
 
 Cyst types span non-neoplastic (pseudocysts) and neoplastic (serous cystadenomas, IPMNs, MCNs, solid-pseudopapillary neoplasms, cystic PNETs). Management is driven by risk stratification: medically unfit patients should not undergo further workup regardless of size; pseudocysts and SCAs with classic imaging do not require surveillance; IPMNs and MCNs require surveillance unless truly benign; solid-pseudopapillary neoplasms warrant resection.
 
-MRI/MRCP is the preferred imaging modality for diagnosis and surveillance. EUS-FNA adds value when diagnosis is unclear or management decisions hinge on cyst fluid analysis. Cytology has poor sensitivity (~65%) but excellent specificity (~91%) for cancer. Cyst fluid CEA identifies mucinous cysts (IPMNs/MCNs) with sensitivity 63% and specificity 93% but cannot distinguish high-grade dysplasia or cancer. Molecular markers (KRAS, GNAS) are promising but not yet standard of care.
+MRI/MRCP is the preferred imaging modality for diagnosis and surveillance. [[endoscopic-ultrasound|EUS]]-FNA adds value when diagnosis is unclear or management decisions hinge on cyst fluid analysis. Cytology has poor sensitivity (~65%) but excellent specificity (~91%) for cancer. Cyst fluid CEA identifies mucinous cysts (IPMNs/MCNs) with sensitivity 63% and specificity 93% but cannot distinguish high-grade dysplasia or cancer. Molecular markers (KRAS, GNAS) are promising but not yet standard of care.
 
-Surveillance is stratified by cyst size and reserved for presumed IPMNs/MCNs in surgically fit patients. High-risk features (mural nodule, MPD >5 mm, upstream atrophy, jaundice, acute pancreatitis from cyst, CA 19-9 elevation, size ≥3 cm, rapid growth ≥3 mm/year, new-onset diabetes) should prompt EUS±FNA and/or multidisciplinary group referral. Surveillance should be discontinued when a patient is no longer a surgical candidate. Post-surgical surveillance differs by cyst type and presence of invasive cancer.
+Surveillance is stratified by cyst size and reserved for presumed IPMNs/MCNs in surgically fit patients. High-risk features (mural nodule, MPD >5 mm, upstream atrophy, jaundice, [[acute-pancreatitis|acute pancreatitis]] from cyst, CA 19-9 elevation, size ≥3 cm, rapid growth ≥3 mm/year, new-onset diabetes) should prompt EUS±FNA and/or multidisciplinary group referral. Surveillance should be discontinued when a patient is no longer a surgical candidate. Post-surgical surveillance differs by cyst type and presence of invasive cancer.
 
 ---
 
@@ -125,7 +125,7 @@ Surveillance intervals by cyst size (Figure 2):
 
 | Cyst Type | Clinical Associations | Key Imaging/Fluid Features |
 |---|---|---|
-| Pseudocyst | Acute and/or chronic pancreatitis | Fluid ± debris; aspirate: brown, high amylase/lipase, low CEA |
+| Pseudocyst | Acute and/or [[chronic-pancreatitis|chronic pancreatitis]] | Fluid ± debris; aspirate: brown, high amylase/lipase, low CEA |
 | Serous cystadenoma | 75% women, 6th decade | Microcystic/honeycomb; central scar in <30%; aspirate: low CEA, low amylase/lipase |
 | IPMN (side branch) | Men = Women, 7th decade; most common incidental cyst; may be multifocal | Communication with main duct; aspirate: high CEA, high amylase |
 | IPMN (main duct) | Less common than SB; higher cancer risk | Dilated MPD; patulous orifice in 50%; aspirate: high CEA, high amylase |
@@ -197,3 +197,7 @@ Surveillance intervals by cyst size (Figure 2):
 - Secretin-MRCP: small incremental value (communication visualized in only 5% additional patients); may not justify cost
 - Molecular markers (KRAS/GNAS): promising but costly and not yet validated for clinical risk stratification
 - This is a 2018 guideline — several subsequent society guidelines (AGA 2015 cited; Fukuoka/European 2017 consensus) have differing surveillance interval recommendations
+
+## See Also
+
+[[pancreatic-cysts]], [[endoscopic-ultrasound]], [[acute-pancreatitis]], [[chronic-pancreatitis]], [[ercp]]

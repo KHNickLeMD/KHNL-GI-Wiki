@@ -20,7 +20,7 @@ sources: []
 
 ## Summary
 
-The Lyon Consensus 2.0 is an international expert update of the original Lyon Consensus (2018), developed using the RAND/UCLA Appropriateness Methodology with 20 voting members across five rounds of voting (≥80% agreement threshold). It introduces the concept of "actionable GERD" — defined as conclusive evidence of reflux-related pathology on endoscopy and/or abnormal reflux monitoring (using Lyon Consensus thresholds) in the presence of compatible troublesome symptoms — where management requires long-term acid suppression, escalation, or consideration of irreversible interventional options (fundoplication, MSA, endoscopic GERD therapies, bariatric surgery).
+The Lyon Consensus 2.0 is an international expert update of the original Lyon Consensus (2018), developed using the RAND/UCLA Appropriateness Methodology with 20 voting members across five rounds of voting (≥80% agreement threshold). It introduces the concept of "actionable [[gerd|GERD]]" — defined as conclusive evidence of reflux-related pathology on endoscopy and/or abnormal [[ambulatory-reflux-monitoring|reflux monitoring]] (using Lyon Consensus thresholds) in the presence of compatible troublesome symptoms — where management requires long-term acid suppression, escalation, or consideration of irreversible interventional options (fundoplication, MSA, endoscopic GERD therapies, bariatric surgery).
 
 Key structural innovation: the framework now stratifies patients into **unproven GERD** (no prior conclusive evidence → test off therapy) vs. **proven GERD** (prior conclusive evidence + persisting symptoms → test on optimised therapy with pH-impedance).
 
@@ -41,7 +41,7 @@ Key structural innovation: the framework now stratifies patients into **unproven
 
 ### Endoscopic Evidence
 
-- **Conclusive for GERD (off therapy):** LA grades B, C, D oesophagitis; biopsy-proven Barrett's oesophagus; peptic stricture
+- **Conclusive for GERD (off therapy):** LA grades B, C, D oesophagitis; biopsy-proven [[barretts-esophagus|Barrett's oesophagus]]; peptic stricture
 - **Key update from Lyon 1.0:** LA grade B is now conclusive (previously considered inconclusive/borderline). LA grade B has AET similar to grade C (8.23% vs 9.95% on wireless pH; 6.0% vs 8.7% on pH-impedance) and similar PPI response (74% vs 70%).
 - **Borderline (off therapy):** LA grade A oesophagitis (found in 5–7.5% of healthy subjects)
 - **Supportive adjunctive:** Hiatus hernia on endoscopy
@@ -75,7 +75,7 @@ Key structural innovation: the framework now stratifies patients into **unproven
 
 ### pH-Impedance Monitoring Thresholds (on optimised therapy — refractory GERD)
 
-- **AET >4% AND >80 reflux episodes/day on optimised antisecretory regimen:** Evidence for actionable refractory GERD (85% symptomatic benefit from ARS/MSA)
+- **AET >4% AND >80 reflux episodes/day on optimised antisecretory regimen:** Evidence for actionable refractory GERD (85% symptomatic benefit from [[antireflux-surgery|ARS]]/MSA)
 - MNBI on therapy may have diagnostic value; PSPW remains a research tool only
 
 ### Symptom Association Metrics
@@ -93,8 +93,8 @@ Key structural innovation: the framework now stratifies patients into **unproven
 
 ### Manometry
 
-- HRM rules out achalasia spectrum disorders in PPI non-responders
-- Abnormal EGJ morphology (hiatus hernia), compromised EGJ barrier, oesophageal hypomotility (Chicago Classification 4.0) remain supportive but cannot diagnose GERD
+- [[high-resolution-manometry|HRM]] rules out [[achalasia]] spectrum disorders in PPI non-responders
+- Abnormal EGJ morphology (hiatus hernia), compromised EGJ barrier, oesophageal hypomotility ([[chicago-classification-v4|Chicago Classification 4.0]]) remain supportive but cannot diagnose GERD
 - Chicago Classification updated from v3.0 to v4.0
 
 ## Recommendations
@@ -137,3 +137,7 @@ The Lyon 2.0 framework supersedes older binary pH-only approaches. Clinicians sh
 - **Cost-effectiveness of upfront testing** for typical symptoms requires further study
 - **PSPW normative thresholds:** Variable and calculation cumbersome; clinical role remains undefined beyond research phenotyping
 - **LA grade A:** Still borderline — overlaps with healthy subjects (5–7.5% prevalence in controls); insufficient on its own
+
+## See Also
+
+[[ambulatory-reflux-monitoring]], [[laryngopharyngeal-symptoms]], [[hrm-antireflux-surgery]], [[flip-panometry]]

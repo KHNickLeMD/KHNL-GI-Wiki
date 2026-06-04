@@ -238,3 +238,7 @@ If bleeding persists or recurs and lesion cannot be localized: *(Strong/Moderate
 - **Mass lesion on VCE or CTE** → high suspicion for neoplasm; total deep enteroscopy required; see [[subepithelial-lesion]].
 - **Capsule showing active bleeding or large vascular lesion** → urgent deep enteroscopy for therapy.
 - **Negative VCE + high clinical suspicion** → pursue CTE and/or deep enteroscopy despite negative capsule (false-negative rate up to 19% for neoplasms).
+
+## See Also
+
+[[acg-2015-small-bowel-bleeding]], [[upper-gi-bleeding]], [[acute-lower-gi-bleeding]], [[crohns-disease]], [[angioectasia]], [[meckels-diverticulum]], [[familial-adenomatous-polyposis]], [[peutz-jeghers-syndrome]], [[heydes-syndrome]], [[subepithelial-lesion]], [[celiac-disease]], [[capsule-endoscopy]], [[device-assisted-enteroscopy]]

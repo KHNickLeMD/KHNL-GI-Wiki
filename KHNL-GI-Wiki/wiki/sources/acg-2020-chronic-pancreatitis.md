@@ -18,7 +18,7 @@ sources: []
 
 ACG clinical guideline on chronic pancreatitis (CP) using the GRADE framework. The guideline highlights a paradigm shift from the traditional clinicopathologic definition (irreversible morphologic damage) toward the **Mechanistic Definition of CP** — a "pathologic fibroinflammatory syndrome of the pancreas in individuals with genetic, environmental, and/or other risk factors who develop persistent pathologic responses to parenchymal injury or stress." This reframing enables earlier diagnosis and targeted therapy in patients who lack the late morphologic findings required by older definitions. The guideline addresses 11 GRADE recommendations and 10 key concepts across 5 domains: diagnosis, etiology, natural history, pain management, and exocrine pancreatic insufficiency (EPI).
 
-Cross-sectional imaging (CT or MRI) is endorsed as first-line for diagnosis, with EUS reserved for cases where imaging is non-diagnostic. Genetic testing is strongly recommended when etiology is unclear, especially in younger patients. Alcohol and smoking cessation are strong recommendations. Surgical drainage is preferred over endoscopic therapy in patients with obstructive CP after first-line endoscopy fails. PERT is conditionally recommended for CP with EPI; pancreatic enzyme supplementation is **not** recommended for pain control.
+Cross-sectional imaging (CT or MRI) is endorsed as first-line for diagnosis, with [[endoscopic-ultrasound|EUS]] reserved for cases where imaging is non-diagnostic. Genetic testing is strongly recommended when etiology is unclear, especially in younger patients. Alcohol and smoking cessation are strong recommendations. Surgical drainage is preferred over endoscopic therapy in patients with obstructive CP after first-line endoscopy fails. PERT is conditionally recommended for CP with EPI; pancreatic enzyme supplementation is **not** recommended for pain control.
 
 ## Key Findings / Claims
 
@@ -41,7 +41,7 @@ Cross-sectional imaging (CT or MRI) is endorsed as first-line for diagnosis, wit
 
 - **Rec 5 (Strong / Very Low):** Alcohol cessation.
 - **Rec 6 (Strong / Very Low):** Smoking cessation.
-- ~60% of CP evolves from acute pancreatitis or RAP; ~10% of AP and ~30% of RAP progress to CP.
+- ~60% of CP evolves from [[acute-pancreatitis|acute pancreatitis]] or RAP; ~10% of AP and ~30% of RAP progress to CP.
 - Alcoholic etiology: AP→CP twice as fast as genetic/idiopathic; 5× faster than biliary.
 - **Key concept 5:** No evidence supports routine screening examinations for pancreatic malignancy in CP patients.
 
@@ -102,3 +102,7 @@ M-ANNHEIM severity index: A (Minor 0–5), B (Increased 6–10), C (Advanced 11�
 - Mechanistic definition (2016/2018) vs. traditional clinicopathologic definition — guideline endorses transition; future guidelines likely will rely on mechanistic framework.
 - Pain management evidence base is weak across the board (most recs Conditional/Very Low) — wide practice variation expected.
 - Routine pancreatic malignancy screening in CP: guideline says insufficient evidence; differs from some international groups recommending surveillance in hereditary pancreatitis.
+
+## See Also
+
+[[chronic-pancreatitis]], [[acute-pancreatitis]], [[biliary-stricture]]

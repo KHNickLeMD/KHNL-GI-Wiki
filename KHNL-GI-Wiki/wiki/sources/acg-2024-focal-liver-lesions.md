@@ -16,7 +16,7 @@ sources: []
 
 ## Summary
 
-This ACG guideline addresses the characterization and management of incidentally discovered focal liver lesions (FLLs), which have become increasingly common due to widespread use of cross-sectional imaging. It provides condition-specific algorithms for benign liver lesions (hemangioma, FNH, HCA, hepatic cysts) and addresses HCC surveillance and the LI-RADS classification framework.
+This ACG guideline addresses the characterization and management of incidentally discovered focal liver lesions (FLLs), which have become increasingly common due to widespread use of cross-sectional imaging. It provides condition-specific algorithms for benign liver lesions ([[hepatic-hemangioma|hemangioma]], [[focal-nodular-hyperplasia|FNH]], [[hepatocellular-adenoma|HCA]], [[hepatic-cysts|hepatic cysts]]) and addresses [[hcc-surveillance|HCC surveillance]] and the [[li-rads|LI-RADS]] classification framework.
 
 The guideline emphasizes that most incidentally found liver lesions in patients without known liver disease are benign, and that MRI (particularly with hepatobiliary contrast agents such as gadoxetate disodium) is the modality of choice for characterization when ultrasound or CT are indeterminate. Contrast-enhanced ultrasound (CEUS) is a valid alternative.
 
@@ -73,7 +73,7 @@ Hepatocellular adenoma (HCA) carries the highest management stakes: it has four 
 **HCC Surveillance:**
 
 - Cirrhosis (any etiology): 6-month liver ultrasound ± AFP
-- LI-RADS classification: LR-1 (definitely benign) to LR-5 (definitely HCC); LR-M (probably/possibly malignant, not HCC-specific)
+- LI-RADS classification: LR-1 (definitely benign) to LR-5 (definitely [[hepatocellular-carcinoma|HCC]]); LR-M (probably/possibly malignant, not HCC-specific)
 - LR-5 criteria: ≥1 cm nodule with arterial phase hyperenhancement (APHE) + washout appearance ± capsule ± threshold growth
 
 ## Recommendations
@@ -113,3 +113,7 @@ Hepatocellular adenoma (HCA) carries the highest management stakes: it has four 
 - Percutaneous biopsy of HCA remains controversial; risks vs. benefit of molecular subtyping by biopsy vs. imaging
 - Role of AFP in non-cirrhotic patients with large or atypical lesions
 - Management of HCA in men on anabolic steroids: limited prospective data
+
+## See Also
+
+[[hepatocellular-adenoma]], [[focal-nodular-hyperplasia]], [[hepatic-hemangioma]], [[hepatic-cysts]], [[li-rads]], [[hcc-surveillance]]

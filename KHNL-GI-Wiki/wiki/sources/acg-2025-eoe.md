@@ -24,7 +24,7 @@ Full update of ACG EoE guidelines. EoE defined as ≥15 eos/hpf on esophageal bi
 ### Diagnostic Criteria
 
 - Symptoms of esophageal dysfunction + ≥15 eos/hpf (≥60 eos/mm²) on esophageal biopsy
-- Exclude other causes of esophageal eosinophilia (GERD, infection, IBD, achalasia, drug reaction)
+- Exclude other causes of esophageal eosinophilia ([[gerd|GERD]], infection, [[inflammatory-bowel-disease|IBD]], [[achalasia]], drug reaction)
 - PPI trial is part of diagnostic workup; PPI-responsive disease still diagnosed as EoE (no longer separate entity)
 - **Biopsy protocol:** ≥6 biopsies from ≥2 levels (proximal + distal esophagus)
 - **EREFS** (Edema, Rings, Exudates, Furrows, Stricture): validated scoring tool; 0–9 scale; endoscopic remission = EREFS ≤2
@@ -133,7 +133,7 @@ Full update of ACG EoE guidelines. EoE defined as ≥15 eos/hpf on esophageal bi
 ## Relevance to Wiki
 
 - Primary source for [[eosinophilic-esophagitis]] disease script
-- Informs [[wiki/advanced-gi-procedures/foregut-and-motility-procedures/esophageal-dilation]] (future page)
+- Informs esophageal dilation (future page)
 
 ## Contradictions / Open Questions
 
@@ -142,3 +142,7 @@ Full update of ACG EoE guidelines. EoE defined as ≥15 eos/hpf on esophageal bi
 - No validated noninvasive biomarkers for monitoring
 - Whether eosinophil count is the right primary outcome metric (eosinophil-depleting agents lack symptom benefit)
 - Long-term safety of dupilumab in pediatric EoE not fully established
+
+## See Also
+
+[[eosinophilic-esophagitis]]

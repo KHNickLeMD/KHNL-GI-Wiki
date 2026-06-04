@@ -19,9 +19,9 @@ sources: []
 
 ## Summary
 
-This guideline addresses the diagnosis and management of small bowel bleeding (SBB), proposing replacement of the older term "obscure GI bleeding" (OGIB) with the more anatomically precise term "small bowel bleeding." SBB accounts for approximately 5–10% of all GI bleeding presentations. With the advent of video capsule endoscopy (VCE) and device-assisted enteroscopy (DAE), the majority (~75%) of patients previously classified as OGIB are now found to have identifiable small bowel sources.
+This guideline addresses the diagnosis and management of small bowel bleeding (SBB), proposing replacement of the older term "obscure GI bleeding" (OGIB) with the more anatomically precise term "small bowel bleeding." SBB accounts for approximately 5–10% of all GI bleeding presentations. With the advent of [[capsule-endoscopy|video capsule endoscopy]] (VCE) and [[device-assisted-enteroscopy|device-assisted enteroscopy]] (DAE), the majority (~75%) of patients previously classified as OGIB are now found to have identifiable small bowel sources.
 
-The guideline establishes a new terminology framework: "small bowel bleeding" applies when a source is found distal to the ampulla of Vater or proximal to the ileocecal valve; "potential small bowel bleeding" applies after normal upper and lower endoscopy but before capsule evaluation; and the term "obscure GI bleeding" is reserved only for cases where no source is found even after comprehensive small bowel evaluation. Angioectasia is the most common cause of SBB overall; lesion type is age-dependent (inflammatory bowel disease and Meckel's diverticulum predominate under age 40; angioectasia and NSAID ulcers predominate over age 40).
+The guideline establishes a new terminology framework: "small bowel bleeding" applies when a source is found distal to the ampulla of Vater or proximal to the ileocecal valve; "potential small bowel bleeding" applies after normal upper and lower endoscopy but before capsule evaluation; and the term "obscure GI bleeding" is reserved only for cases where no source is found even after comprehensive small bowel evaluation. [[angioectasia|Angioectasia]] is the most common cause of SBB overall; lesion type is age-dependent ([[inflammatory-bowel-disease|inflammatory bowel disease]] and [[meckels-diverticulum|Meckel's diverticulum]] predominate under age 40; angioectasia and NSAID ulcers predominate over age 40).
 
 Diagnostically, VCE is endorsed as the first-line small bowel evaluation after excluding upper and lower sources, with CTE (CT enterography) preferred over MRE for most patients and over conventional barium studies. Deep enteroscopy (DBE, SBE, or spiral enteroscopy) is the tool of choice when both endoscopic evaluation and therapy are required. IOE (intraoperative enteroscopy) is reserved for refractory, multiply transfused patients who cannot undergo deep enteroscopy.
 
@@ -104,14 +104,14 @@ Therapeutically, endoscopic hemostasis (argon plasma coagulation preferred) is f
 - SBB = ~5–10% of all GI bleeding presentations.
 - Most common cause overall: angioectasia (24% on VCE and DBE meta-analysis of 10 studies).
 - Under age 40: IBD and Meckel's diverticulum predominate; over age 40: angioectasia and NSAID ulcers.
-- Heyde's syndrome: aortic stenosis + angioectasia, mediated by acquired type 2 von Willebrand deficiency; aortic valve replacement may resolve bleeding.
+- [[heydes-syndrome|Heyde's syndrome]]: aortic stenosis + angioectasia, mediated by acquired type 2 von Willebrand deficiency; aortic valve replacement may resolve bleeding.
 - LVAD-associated von Willebrand deficiency causes recurrent angioectasia bleeding.
 
 **Diagnostic Yields**
 
 - VCE: diagnostic yield 38–83% for suspected SBB; NPV 83–100%; sens/spec for GI bleeding 94–97%/83–100%.
 - DBE: diagnostic yield 60–80%; therapeutic success 40–73%.
-- Push enteroscopy: diagnostic yield 3–70%; most lesions found within reach of standard EGD (emphasizing second-look value).
+- Push enteroscopy: diagnostic yield 3–70%; most lesions found within reach of standard [[upper-endoscopy|EGD]] (emphasizing second-look value).
 - CTE: pooled sensitivity 40% vs. 53% for VCE (meta-analysis of 18 studies) — complementary.
 - CTA: pooled sensitivity 89%, specificity 85% for active GI bleeding (meta-analysis of 9 studies, n=198).
 - IOE: diagnostic yield 58–88%; high mortality rate (17%) limits use to refractory cases.
@@ -170,3 +170,7 @@ Therapeutically, endoscopic hemostasis (argon plasma coagulation preferred) is f
 - **Anticoagulation discontinuation:** The guideline recommends stopping anticoagulation "if possible" but acknowledges no prospective data show benefit from withdrawal — contrast with [[anticoagulation-gi-bleeding]] page which may have more nuanced 2022 data.
 - **Thalidomide:** Effective in RCT but adverse effect profile is significant; not FDA-approved for this indication (off-label); no long-term data.
 - **Urgent vs. elective deep enteroscopy:** Evidence suggests urgent DBE is better than non-urgent DBE for overt bleeding (lower recurrent bleeding rate), but the guideline does not include a specific recommendation on timing of DBE relative to VCE for acute overt SBB.
+
+## See Also
+
+[[small-bowel-bleeding]], [[capsule-endoscopy]], [[device-assisted-enteroscopy]], [[angioectasia]], [[meckels-diverticulum]], [[heydes-syndrome]], [[upper-gi-bleeding]], [[acute-lower-gi-bleeding]], [[subepithelial-lesion]], [[celiac-disease]], [[crohns-disease]], [[familial-adenomatous-polyposis]], [[peutz-jeghers-syndrome]], [[anticoagulation-gi-bleeding]]

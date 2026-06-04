@@ -16,7 +16,7 @@ sources: []
 
 ## Summary
 
-Joint ACG/CAG guideline on dyspepsia management with 14 GRADE-graded statements. Key practical updates from prior guidelines: the **age threshold for endoscopy in uninvestigated dyspepsia is raised to ≥60 years** (up from ≥55 in older ACG guidance), and **alarm features alone do not automatically warrant endoscopy in patients <60** because of low positive predictive value. The recommended initial strategy for patients <60 with uninvestigated dyspepsia is non-invasive H. pylori testing and eradication if positive; PPI therapy is reserved for H. pylori-negative patients or those still symptomatic after eradication. Sequential second-line therapies are TCA, then prokinetic. The guideline applies to uninvestigated dyspepsia and functional dyspepsia (FD); it does not address management of organic pathology found at endoscopy (those are covered by disease-specific guidelines).
+Joint ACG/CAG guideline on dyspepsia management with 14 GRADE-graded statements. Key practical updates from prior guidelines: the **age threshold for endoscopy in uninvestigated dyspepsia is raised to ≥60 years** (up from ≥55 in older ACG guidance), and **alarm features alone do not automatically warrant endoscopy in patients <60** because of low positive predictive value. The recommended initial strategy for patients <60 with uninvestigated dyspepsia is non-invasive [[helicobacter-pylori-infection|H. pylori]] testing and eradication if positive; PPI therapy is reserved for H. pylori-negative patients or those still symptomatic after eradication. Sequential second-line therapies are TCA, then prokinetic. The guideline applies to uninvestigated dyspepsia and functional dyspepsia (FD); it does not address management of organic pathology found at endoscopy (those are covered by disease-specific guidelines).
 
 ## Key Findings / Claims
 
@@ -41,7 +41,7 @@ Joint ACG/CAG guideline on dyspepsia management with 14 GRADE-graded statements.
 - **Statement 11 (Cond / Very Low):** FD failing drug therapy → psychological therapy (CBT or other; NNT 3 in trials but very low quality).
 - **Statement 12 (Cond / Very Low):** Do **not** routinely recommend CAM (complementary/alternative medicine) for FD.
 - **Statement 13 (Cond / Very Low):** Against routine motility studies in FD.
-- **Statement 14 (Cond / Very Low):** Motility studies for selected FD patients where gastroparesis is strongly suspected.
+- **Statement 14 (Cond / Very Low):** Motility studies for selected FD patients where [[gastroparesis]] is strongly suspected.
 
 ### Key practical algorithm (Figure 1, undiagnosed dyspepsia)
 
@@ -94,7 +94,7 @@ Joint ACG/CAG guideline on dyspepsia management with 14 GRADE-graded statements.
 - Updates [[test-and-treat]] concept (Strong / High quality for HP test-and-treat as initial strategy in <60).
 - Reinforces [[helicobacter-pylori-infection]] eradication as a dyspepsia intervention.
 - Relates to [[disorders-of-gut-brain-interaction]] (FD as a DGBI; psychological therapy effective).
-- Cross-references [[raw/GI Lectures+Chalk Talks/Gastroparesis]] (motility testing for FD with severe/refractory vomiting).
+- Cross-references [[gastroparesis]] (motility testing for FD with severe/refractory vomiting).
 
 ## Contradictions / Open Questions
 
@@ -102,3 +102,7 @@ Joint ACG/CAG guideline on dyspepsia management with 14 GRADE-graded statements.
 - **Alarm features:** Older guidelines mandated EGD for any alarm feature in any age; ACG/CAG 2017 explicitly de-emphasizes alarm features alone for patients <60.
 - **Rome IV → V:** Guideline predates Rome V (2026); FD definitions reasonably stable, but psychological therapy and DGBI framing have evolved — see [[disorders-of-gut-brain-interaction]] / [[rome-v-2026-dgbi]].
 - **Prokinetic availability:** Cisapride and mosapride not available in US/Canada/Europe; metoclopramide limited (<12 wk, FDA black box); domperidone unavailable in US.
+
+## See Also
+
+[[test-and-treat]], [[dyspepsia]], [[helicobacter-pylori-infection]], [[disorders-of-gut-brain-interaction]], [[gastroparesis]], [[rome-v-2026-dgbi]]

@@ -19,7 +19,7 @@ sources: []
 
 ## Summary
 
-This AASLD/AST consensus document provides 70 numbered recommendations addressing non-graft complications in adult liver transplant recipients beyond 90 days post-transplant. It covers wellness/nutrition, bone health, vaccination, reproductive health, infectious complications, oncologic surveillance, metabolic syndrome management, cardiovascular surveillance, and end-of-life care. It complements the companion AASLD/AST 2025 documents on candidate evaluation and graft complications.
+This AASLD/AST consensus document provides 70 numbered recommendations addressing non-graft complications in adult [[liver-transplantation|liver transplant]] recipients beyond 90 days post-transplant. It covers wellness/nutrition, bone health, vaccination, reproductive health, infectious complications, oncologic surveillance, metabolic syndrome management, cardiovascular surveillance, and end-of-life care. It complements the companion AASLD/AST 2025 documents on candidate evaluation and graft complications.
 
 5-year and 10-year patient survival are 82% and 69% respectively (SRTR 2012–2024). Cardiovascular disease and de novo malignancy are now the leading non-graft causes of death in long-term LT survivors, making metabolic comorbidity management and cancer surveillance central to post-LT care.
 
@@ -64,7 +64,7 @@ CMV disease remains the most clinically significant opportunistic infection; pre
 | Rec | Recommendation | Strength | Level |
 |---|---|---|---|
 | 19 | Follow ACIP/CDC immunization schedules for immunocompromised adults; update pre-LT where possible | Strong | 4 |
-| 20 | No live vaccines post-LT (measles/MMR, varicella, yellow fever, oral typhoid, oral rotavirus, intranasal influenza, LAIV) | Strong | 4 |
+| 20 | No live vaccines post-LT (measles/MMR, varicella, yellow fever, oral typhoid, oral [[rotavirus]], intranasal influenza, LAIV) | Strong | 4 |
 | 21 | Household contacts of LT recipients can receive most live vaccines (MMR, varicella) EXCEPT: vaccinia/smallpox vaccine and oral polio vaccine (OPV) | Strong | 4 |
 | 22 | Obtain travel medicine consultation ≥6–8 weeks before international travel; live vaccines may be indicated in specific high-risk travel but only with specialist review | Weak | 4 |
 
@@ -76,7 +76,7 @@ CMV disease remains the most clinically significant opportunistic infection; pre
 | 24 | Delay pregnancy for ≥1 year post-LT | Strong | 4 |
 | 25 | Use multidisciplinary approach with maternal-fetal medicine (MFM) for pregnancy management | Strong | 4 |
 | 26 | MPA (mycophenolate mofetil/mycophenolate sodium) is teratogenic: discontinue ≥6 weeks pre-conception in women; ≥90 days in men; require two forms of contraception while on MPA | Strong | 4 |
-| 27 | CNIs (tacrolimus, cyclosporine) are acceptable in pregnancy with frequent drug-level monitoring; dose adjustments likely required due to altered PK in pregnancy | Strong | 4 |
+| 27 | CNIs ([[tacrolimus]], cyclosporine) are acceptable in pregnancy with frequent drug-level monitoring; dose adjustments likely required due to altered PK in pregnancy | Strong | 4 |
 | 28 | AZA + corticosteroids are acceptable in pregnancy | Strong | 4 |
 
 ### Infections (Recs 29–35)
@@ -118,11 +118,11 @@ CMV disease remains the most clinically significant opportunistic infection; pre
 | 45 | Annual skin examination by dermatologist — highest absolute malignancy risk post-LT | Strong | 4 |
 | 46 | Smoking cessation counseling and pharmacotherapy | Strong | 4 |
 | 47 | HPV testing per society guidelines for women ≥21 or sexually active | Strong | 4 |
-| 48 | Colonoscopy every 5 years for average-risk LT recipients (regardless of PSC status) | Strong | 4 |
-| 49 | Colonoscopy annually for LT recipients with PSC + IBD (highest colitis-associated neoplasia risk) | Strong | 3 |
+| 48 | [[colonoscopy|Colonoscopy]] every 5 years for average-risk LT recipients (regardless of PSC status) | Strong | 4 |
+| 49 | Colonoscopy annually for LT recipients with [[primary-sclerosing-cholangitis|PSC]] + [[inflammatory-bowel-disease|IBD]] (highest colitis-associated neoplasia risk) | Strong | 3 |
 | 50 | Colonoscopy every 5 years for LT recipients with PSC without IBD | Weak | 4 |
 | 51 | Routine mammography and cervical/vaginal screening per USPSTF/ACOG guidelines | Strong | 4 |
-| 52 | Serial EBV PCR monitoring for PTLD is NOT routinely recommended | Weak | 3 |
+| 52 | Serial EBV PCR monitoring for [[post-transplant-lymphoproliferative-disorder|PTLD]] is NOT routinely recommended | Weak | 3 |
 
 **Cancer SIR data (Figure 3):**
 
@@ -242,3 +242,7 @@ CMV disease remains the most clinically significant opportunistic infection; pre
 - Rec 52: serial EBV PCR for PTLD not recommended (Weak, Level 3) — some transplant centers continue routine monitoring; this recommendation acknowledges low evidence base
 - Role of SGLT2i post-LT: evidence primarily from non-transplant T2DM populations; no dedicated LT RCTs
 - Bariatric surgery timing (≥1–2 years post-LT) based on expert consensus rather than RCT data
+
+## See Also
+
+[[post-transplant-lymphoproliferative-disorder]], [[liver-transplantation]], [[tacrolimus]], [[calcineurin-inhibitors]], [[semaglutide]]

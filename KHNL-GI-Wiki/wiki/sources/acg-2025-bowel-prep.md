@@ -27,7 +27,7 @@ The sections below reproduce key content and highlight the GLP-1 receptor agonis
 
 ## Summary
 
-Update to the 2014 USMSTF bowel preparation recommendations. Twenty-five consensus statements organized around three time frames: before, during, and after colonoscopy. Focuses on ambulatory patients at low risk for inadequate preparation; also addresses high-risk populations.
+Update to the 2014 USMSTF bowel preparation recommendations. Twenty-five consensus statements organized around three time frames: before, during, and after [[colonoscopy]]. Focuses on ambulatory patients at low risk for inadequate preparation; also addresses high-risk populations.
 
 **Definition of adequate bowel preparation:** Quality is sufficient that standard screening or surveillance intervals can be assigned based on colonoscopy findings. Assessment occurs only after all washing and suctioning are completed.
 
@@ -100,7 +100,7 @@ Update to the 2014 USMSTF bowel preparation recommendations. Twenty-five consens
 
 ## GLP-1 Receptor Agonist Considerations
 
-Although GLP-1 receptor agonists (e.g., semaglutide, liraglutide, tirzepatide) are not the subject of a formal numbered recommendation in this guideline (insufficient evidence at time of publication), the document specifically addresses them in the discussion of purgative timing and gastroparesis risk:
+Although GLP-1 receptor agonists (e.g., [[semaglutide]], liraglutide, tirzepatide) are not the subject of a formal numbered recommendation in this guideline (insufficient evidence at time of publication), the document specifically addresses them in the discussion of purgative timing and [[gastroparesis]] risk:
 
 - GLP-1 receptor agonists delay gastric emptying and may increase aspiration risk during procedural sedation, independent of bowel preparation quality.
 - The guideline notes that patients on GLP-1 agonists should be considered analogous to patients with gastroparesis for prep-adequacy risk stratification (OR for inadequate prep with gastroparesis: 1.6 [1.2–2.3]).
@@ -198,3 +198,7 @@ Recommendation 13 (Weak/Moderate) is supported by:
 - Ultra-low-volume (<2L) regimens: insufficient data for recommendation
 - High-risk population prep regimens: largely expert consensus, few RCTs
 - Same-day morning prep: weak recommendation against; some units may use successfully
+
+## See Also
+
+[[usmstf-2025-bowel-prep]], [[colonoscopy]]

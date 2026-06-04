@@ -23,7 +23,7 @@ Dyspepsia refers to one or more of: postprandial fullness, early satiation, epig
 ## Differential Diagnosis
 
 - [[helicobacter-pylori-infection]] — most common treatable cause
-- [[raw/GI Lectures+Chalk Talks/Gastroparesis]] — significant overlap with PDS; ~40% of patients reclassified on repeat gastric emptying study
+- [[gastroparesis]] — significant overlap with PDS; ~40% of patients reclassified on repeat gastric emptying study
 - Peptic ulcer disease — structural; detected on EGD
 - [[gastric-intestinal-metaplasia]] / [[gastric-premalignant-conditions]] — upper endoscopy if alarm features
 - GERD — see [[gerd]]; heartburn/regurgitation predominant
@@ -132,3 +132,7 @@ Per ACG/CAG 2017, alarm features alone in patients <60 have **low PPV** for uppe
 ## PPI safety considerations
 
 ACG/CAG 2017 reviewed associations between long-term PPI and hip fracture, CAP, C. difficile, electrolyte disturbance, and dementia — concluded most likely residual confounding; even if causal, NNH >1,000 in most studies. Continue PPI when benefit is clear; reassess every 6–12 months and discontinue if no longer needed (consistent with FDA guidance).
+
+## See Also
+
+[[acg-cag-2017-dyspepsia]], [[disorders-of-gut-brain-interaction]], [[test-and-treat]], [[helicobacter-pylori-infection]], [[gastroparesis]], [[gastric-intestinal-metaplasia]], [[gastric-premalignant-conditions]], [[gerd]], [[celiac-disease]]

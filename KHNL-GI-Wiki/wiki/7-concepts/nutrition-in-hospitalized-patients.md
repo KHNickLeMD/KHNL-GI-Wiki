@@ -134,3 +134,7 @@ Immune-modulating formulas (arginine, glutamine, omega-3 fatty acids) are NOT re
 ---
 
 *See also: [[acute-pancreatitis]] | [[nutrition-in-liver-disease]] | [[inflammatory-bowel-disease]] | [[aki-in-cirrhosis]]*
+
+## See Also
+
+[[acg-2016-nutrition-hospitalized]], [[acute-pancreatitis]], [[nutrition-in-liver-disease]], [[inflammatory-bowel-disease]], [[aki-in-cirrhosis]]

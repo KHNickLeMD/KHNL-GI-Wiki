@@ -25,7 +25,7 @@ Comprehensive update of ACG UC guideline. Major additions vs 2019: S1P modulator
 
 **Diagnosis/Assessment**
 
-1. Stool testing to rule out C. difficile in suspected UC — Strong, Very Low
+1. Stool testing to rule out [[clostridioides-difficile|C. difficile]] in suspected UC — Strong, Very Low
 2. Against serologic antibody testing to establish/rule out UC diagnosis — Strong, Very Low
 3. Against serologic antibody testing to determine prognosis — Strong, Very Low
 
@@ -166,7 +166,7 @@ Comprehensive update of ACG UC guideline. Major additions vs 2019: S1P modulator
 - **Vedolizumab > adalimumab** as advanced therapy (VARSITY trial; Rec 45)
 - **Infliximab preferred anti-TNF** (Key concept 45); combo with thiopurine required (Rec 33)
 - **Primary nonresponse to anti-TNF:** switch class, not cycling within anti-TNF
-- **Upadacitinib (Strong/High):** most efficacious in trials; no prior anti-TNF requirement for UC (unlike CD)
+- **Upadacitinib (Strong/High):** most efficacious in trials; no prior anti-TNF requirement for UC (unlike [[crohns-disease|CD]])
 - **IL-23 inhibitors:** all 3 (guselkumab, mirikizumab, risankizumab) recommended equally
 - **S1P modulators (ozanimod, etrasimod):** new class; oral; cardiac screening required; no anti-TNF requirement
 - **JAK inhibitors safety context:** ORAL Surveillance data from RA patients; boxed warning; reserve for anti-TNF failures or those who cannot use biologics per FDA; use clinical judgment
@@ -250,3 +250,7 @@ Comprehensive update of ACG UC guideline. Major additions vs 2019: S1P modulator
 - Upadacitinib highest efficacy in clinical trials but JAK class safety concerns limit first-line use
 - Optimal S1P modulator vs biologic positioning not established
 - IUS: not yet an independent recommendation for initial diagnosis (adjunct to endoscopy)
+
+## See Also
+
+[[ulcerative-colitis]], [[crohns-disease]]

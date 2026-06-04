@@ -16,7 +16,7 @@ sources: []
 
 ## Summary
 
-First ACG clinical guideline for IBS using GRADE. 25 statements (9 diagnostic, 16 therapeutic). Endorses a **positive diagnostic strategy** using Rome IV criteria rather than diagnosis-of-exclusion (Strong/High for cost-effectiveness). Recommends **limited targeted testing**: serology for celiac in IBS-D (Strong/Moderate); fecal calprotectin/lactoferrin + CRP in IBS-D to exclude IBD (Strong/Moderate); **against** routine stool pathogens, colonoscopy <45y without alarms, IgE food allergy panels. Therapeutics emphasize **low-FODMAP trial, soluble fiber, TCAs, gut-directed psychotherapy, peppermint oil** across subtypes; **secretagogues (linaclotide/plecanatide/lubiprostone)** and **tegaserod** for IBS-C; **rifaximin, alosetron, eluxadoline** for IBS-D. Strong recommendations **against** PEG for IBS-C global symptoms (helps stool only), antispasmodics, FMT, and bile-acid sequestrants for IBS-D global symptoms.
+First ACG clinical guideline for IBS using GRADE. 25 statements (9 diagnostic, 16 therapeutic). Endorses a **positive diagnostic strategy** using Rome IV criteria rather than diagnosis-of-exclusion (Strong/High for cost-effectiveness). Recommends **limited targeted testing**: serology for [[celiac-disease|celiac]] in IBS-D (Strong/Moderate); fecal calprotectin/lactoferrin + CRP in IBS-D to exclude [[inflammatory-bowel-disease|IBD]] (Strong/Moderate); **against** routine stool pathogens, colonoscopy <45y without alarms, IgE food allergy panels. Therapeutics emphasize **low-FODMAP trial, soluble fiber, TCAs, gut-directed psychotherapy, peppermint oil** across subtypes; **secretagogues ([[linaclotide]]/[[plecanatide]]/[[lubiprostone]])** and **tegaserod** for IBS-C; **[[rifaximin]], alosetron, eluxadoline** for IBS-D. Strong recommendations **against** PEG for IBS-C global symptoms (helps stool only), antispasmodics, FMT, and bile-acid sequestrants for IBS-D global symptoms.
 
 ## Key Findings / Claims
 
@@ -31,7 +31,7 @@ First ACG clinical guideline for IBS using GRADE. 25 statements (9 diagnostic, 1
 - Against routine stool pathogen testing (Conditional/Low)
 - Against routine colonoscopy <45y without alarms (Conditional/Low)
 - Against IgE food allergy panels unless reproducible food-specific symptoms (Consensus)
-- ARM + BET for IBS-C/M with suspected pelvic floor dysfunction or refractory constipation (Consensus)
+- [[anorectal-manometry|ARM]] + BET for IBS-C/M with suspected pelvic floor dysfunction or refractory constipation (Consensus)
 
 **IBS-C therapeutics**
 
@@ -98,3 +98,7 @@ First ACG clinical guideline for IBS using GRADE. 25 statements (9 diagnostic, 1
 - Tegaserod re-approval is fragile (CV concerns); access varies
 - Eluxadoline–pancreatitis signal in post-cholecystectomy patients limits use
 - IBS criteria differ slightly between this 2020 ACG (Rome IV) and Rome V — update planned in next ACG cycle
+
+## See Also
+
+[[irritable-bowel-syndrome]], [[linaclotide]], [[plecanatide]], [[lubiprostone]], [[rifaximin]], [[disorders-of-gut-brain-interaction]], [[celiac-disease]], [[crohns-disease]], [[ulcerative-colitis]], [[dyspepsia]], [[chronic-idiopathic-constipation]], [[defecation-disorders]]

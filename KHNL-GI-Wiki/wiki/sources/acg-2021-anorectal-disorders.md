@@ -16,9 +16,9 @@ sources: []
 
 ## Summary
 
-This ACG guideline (updated from 2014) provides comprehensive management recommendations for five benign anorectal disorder categories: defecation disorders (DDs), proctalgia syndromes, hemorrhoids, anal fissures, and fecal incontinence (FI). Each section contains GRADE-based recommendations plus expert consensus key concept statements.
+This ACG guideline (updated from 2014) provides comprehensive management recommendations for five benign anorectal disorder categories: [[defecation-disorders|defecation disorders]] (DDs), [[proctalgia-syndromes|proctalgia syndromes]], [[hemorrhoids]], [[anal-fissure|anal fissures]], and [[fecal-incontinence|fecal incontinence]] (FI). Each section contains GRADE-based recommendations plus expert consensus key concept statements.
 
-A unifying theme is the primacy of conservative management (dietary modification, fiber, biofeedback, behavioral therapy) before invasive procedures, and the importance of objective anorectal physiology testing (anorectal manometry [ARM], balloon expulsion test [BET]) to guide targeted treatment. Digital rectal examination (DRE) is strongly emphasized as underperformed but highly informative.
+A unifying theme is the primacy of conservative management (dietary modification, fiber, [[biofeedback-therapy|biofeedback]], behavioral therapy) before invasive procedures, and the importance of objective anorectal physiology testing ([[anorectal-manometry|anorectal manometry]] [ARM], balloon expulsion test [BET]) to guide targeted treatment. Digital rectal examination (DRE) is strongly emphasized as underperformed but highly informative.
 
 ## Key Findings / Claims
 
@@ -30,9 +30,9 @@ A unifying theme is the primacy of conservative management (dietary modification
 - Treatment:
   - **Anorectal biofeedback: Strong recommendation, moderate quality; 4–6 sessions** — superior to sham, diazepam, PEG in RCTs; cornerstone of DD management
   - Biofeedback protocol: education, abdominal breathing, manometric-guided relaxation, balloon expulsion retraining, sensory retraining
-  - Surgery: only if proven dyssynergia fails biofeedback AND structural abnormality present (e.g., significant rectocele); laparoscopic/posterior rectopexy for full-thickness rectal prolapse
+  - Surgery: only if proven dyssynergia fails biofeedback AND structural abnormality present (e.g., significant rectocele); laparoscopic/posterior rectopexy for full-thickness [[rectal-prolapse|rectal prolapse]]
   - Botulinum toxin: NOT recommended — evidence poor, results short-lived, not practical long-term
-  - Sacral nerve stimulation (SNS): NOT recommended for constipation (no benefit in RCTs)
+  - [[sacral-nerve-stimulation|Sacral nerve stimulation]] (SNS): NOT recommended for constipation (no benefit in RCTs)
 
 **PROCTALGIA SYNDROMES:**
 
@@ -57,7 +57,7 @@ A unifying theme is the primacy of conservative management (dietary modification
 
 - Definition: ulcer-like longitudinal tear in anal canal, distal to dentate line; >8–12 weeks = chronic
 - Pathophysiology: hypertonic internal anal sphincter → ischemia → non-healing
-- Lateral position fissures: suggest Crohn's disease, TB, syphilis, HIV, malignancy — evaluate
+- Lateral position fissures: suggest [[crohns-disease|Crohn's disease]], TB, syphilis, HIV, malignancy — evaluate
 - Medical management (chronic fissure):
   - **Topical calcium channel blocker (CCB, e.g., topical diltiazem 2%, nifedipine): Strong/Low** — first-line; healing ~67–90%; headache in 20%
   - Topical nitroglycerine: marginally superior to placebo (48.9% vs 35.5%); headache is dose-limiting; second choice to CCB
@@ -119,3 +119,7 @@ A unifying theme is the primacy of conservative management (dietary modification
 - LIS and incontinence risk: literature estimates 0–16% incontinence; guideline counsels using with caution when anal pressures not high
 - Stapled hemorrhoidectomy (STARR): guideline notes higher complications and recurrence; not widely used in US — avoid
 - SNS for FI: long-term device complications substantial (61% device-related AEs at 60 months in one study)
+
+## See Also
+
+[[hemorrhoids]], [[anal-fissure]], [[fecal-incontinence]], [[defecation-disorders]], [[proctalgia-syndromes]], [[anorectal-manometry]], [[biofeedback-therapy]], [[sacral-nerve-stimulation]]

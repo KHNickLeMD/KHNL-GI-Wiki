@@ -19,7 +19,7 @@ sources: []
 
 ## Summary
 
-The USMSTF 2015 document provides updated recommendations on the role of colonoscopy and selected alternatives (CT colonography, fecal testing, flexible sigmoidoscopy, EUS) in surveillance of patients after curative-intent surgical resection of CRC (TNM stages I–III; selected stage IV). It updates the 2006 USMSTF consensus guideline. The scope explicitly excludes use of CEA, CT scans, and chest radiographs.
+The USMSTF 2015 document provides updated recommendations on the role of [[colonoscopy]] and selected alternatives (CT colonography, fecal testing, flexible sigmoidoscopy, [[endoscopic-ultrasound|EUS]]) in surveillance of patients after curative-intent surgical resection of [[colorectal-cancer|CRC]] (TNM stages I–III; selected stage IV). It updates the 2006 USMSTF consensus guideline. The scope explicitly excludes use of CEA, CT scans, and chest radiographs.
 
 The central organizing principle is the dual role of post-resection colonoscopy: (1) perioperative clearing to detect synchronous cancers and precancerous polyps, and (2) long-term prevention of metachronous cancer. Importantly, the guideline concludes that increased intensity of colonoscopic surveillance after curative resection does not improve survival beyond what is achieved by the standard schedule, and may increase patient harm. The 1-year post-surgery colonoscopy is retained as high-yield based on pooled data showing ~30% of metachronous cancers occur within 2 years of resection, many attributable to missed lesions at perioperative clearing.
 
@@ -37,7 +37,7 @@ A "high-quality" colonoscopy is defined throughout as: complete to cecum/anastom
 >
 > *Strong recommendation, low-quality evidence*
 
-**Context:** Synchronous cancers occur in 0.7–7% of CRC patients. The 3-month postoperative lower limit provides sufficient recovery time. Intraoperative colonoscopy is an alternative but not commonly practiced. When obstructive CRC prevents preoperative clearing, colonoscopy (not CTC) is preferred for the first postoperative examination because CTC misses flat/diminutive/serrated lesions that are clinically significant in CRC patients. Serrated polyposis syndrome (SPS) should be actively considered when multiple or large serrated lesions are found at perioperative clearing.
+**Context:** Synchronous cancers occur in 0.7–7% of CRC patients. The 3-month postoperative lower limit provides sufficient recovery time. Intraoperative colonoscopy is an alternative but not commonly practiced. When obstructive CRC prevents preoperative clearing, colonoscopy (not CTC) is preferred for the first postoperative examination because CTC misses flat/diminutive/serrated lesions that are clinically significant in CRC patients. [[serrated-polyposis-syndrome|Serrated polyposis syndrome]] (SPS) should be actively considered when multiple or large serrated lesions are found at perioperative clearing.
 
 ---
 
@@ -98,7 +98,7 @@ A "high-quality" colonoscopy is defined throughout as: complete to cecum/anastom
 - **Surveillance colonoscopy and survival:** Observational databases and RCT meta-analyses show surveillance colonoscopy is associated with lower *overall* mortality (OR=0.73, Cochrane; HR=0.75, 11 RCTs) but NOT lower *cancer-specific* mortality. Intensive colonoscopy frequency (beyond standard schedule) has not been shown to improve survival and may increase patient harm.
 - **Metachronous cancer rate:** ~0.3–0.35%/year cumulative incidence; ~30% occur within 2 years; in one Netherlands registry study (n=5,157), metachronous CRC attributed to missed lesions 43%, nonadherence 43%, incomplete resection 5.4%, de novo only 5.4%.
 - **High-quality colonoscopy definition:** cecum/anastomosis reached, adequate prep, ADR >25% in average-risk screening.
-- **Lynch syndrome:** All CRCs should be tested for Lynch syndrome (per USMSTF 2014 recommendations). Patients with known/suspected Lynch syndrome should follow Lynch-specific surveillance intervals, not those in this guideline.
+- **[[lynch-syndrome|Lynch syndrome]]:** All CRCs should be tested for Lynch syndrome (per USMSTF 2014 recommendations). Patients with known/suspected Lynch syndrome should follow Lynch-specific surveillance intervals, not those in this guideline.
 - **Serrated polyposis syndrome (SPS):** The most common polyp syndrome; often recognized at the colonoscopy diagnosing CRC or during post-resection surveillance. Patients with SPS and CRC require more frequent colonoscopy intervals.
 - **Rectal cancer local recurrence:** >80% of anastomotic recurrences involved rectal/distal colon cancer. TME reduces local recurrence. Local excision (transanal excision, TEM, ESD) carries higher local recurrence risk than radical surgery.
 - **FACS RCT (2014):** Intensive CT + CEA associated with higher rate of curative-intent resection of recurrences but not improved survival vs. minimal follow-up.
@@ -141,3 +141,7 @@ A "high-quality" colonoscopy is defined throughout as: complete to cecum/anastom
 - **Rectal cancer local surveillance modality:** Sigmoidoscopy vs. EUS — no controlled trials; which is better and ideal intervals not established.
 - **Intensity of surveillance:** Multiple RCTs (COLOFOL, GILDA, FFCD PRODIGE 13) ongoing at time of publication; results may further clarify optimal surveillance frequency.
 - **Lynch syndrome and SPS exclusion:** Rates of metachronous cancers in studies not accounting for Lynch syndrome may be inflated; guideline intervals explicitly do not apply to Lynch syndrome patients.
+
+## See Also
+
+[[colorectal-cancer]], [[colonoscopy]], [[lynch-syndrome]], [[serrated-polyposis-syndrome]], [[familial-adenomatous-polyposis]], [[colorectal-cancer-screening]], [[endoscopic-ultrasound]]

@@ -93,3 +93,7 @@ The guideline also establishes a severity classification (Table 6: Mild/Moderate
 | Classic presentation: sudden left lower abdominal cramping, urge to defecate, hematochezia within 24h | Summary Statement | — |
 | Lab abnormalities (leukocytosis, elevated LDH, elevated CK) suggest severe or transmural disease | Summary Statement | — |
 | Prognosis: mild/moderate CI largely favorable (2% in-hospital mortality); IRCI 25–75% mortality; pancolonic CI ~75% require surgery | Summary Statement | — |
+
+## See Also
+
+[[colon-ischemia]], [[acute-lower-gi-bleeding]], [[acute-mesenteric-ischemia]]

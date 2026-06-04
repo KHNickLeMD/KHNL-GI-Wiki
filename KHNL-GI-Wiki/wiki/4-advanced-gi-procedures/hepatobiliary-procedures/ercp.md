@@ -52,3 +52,7 @@ sources: []
 ## Quality Metrics
 
 *Stub — appropriate indication rate, native ampulla cannulation rate, stone clearance rate, PEP rate.*
+
+## See Also
+
+[[acute-pancreatitis]], [[biliary-stricture]], [[endoscopic-ultrasound]], [[chronic-pancreatitis]]

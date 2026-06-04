@@ -77,8 +77,8 @@ This joint ACG/CAG guideline addresses two clinical contexts: (1) management of 
 
 **Procedural bleeding risk stratification (Table 3):**
 
-- High bleeding risk (30-day major bleed >2%): polypectomy ≥1 cm, PEG/PEJ, ERCP with sphincterotomy, EMR/ESD, EUS-FNA, endoscopic hemostasis (excl. APC), RFA, POEM, variceal treatment (including band ligation), therapeutic balloon enteroscopy, ampullary resection, cystogastrostomy, pneumatic/bougie dilation, laser ablation
-- Low/moderate bleeding risk (≤2%): EGD ± biopsy, colonoscopy ± biopsy, flex sig ± biopsy, ERCP with stent without sphincterotomy, EUS without FNA, push enteroscopy, diagnostic balloon enteroscopy, enteral stent deployment, APC, polypectomy <1 cm, tumor ablation, ERCP without sphincterotomy, marking/clipping/tattooing, video capsule
+- High bleeding risk (30-day major bleed >2%): [[polypectomy-emr|polypectomy]] ≥1 cm, PEG/PEJ, [[ercp|ERCP]] with sphincterotomy, EMR/ESD, [[endoscopic-ultrasound|EUS-FNA]], endoscopic hemostasis (excl. APC), RFA, [[poem|POEM]], variceal treatment (including band ligation), therapeutic balloon enteroscopy, ampullary resection, cystogastrostomy, pneumatic/bougie dilation, laser ablation
+- Low/moderate bleeding risk (≤2%): [[upper-endoscopy|EGD]] ± biopsy, [[colonoscopy]] ± biopsy, flex sig ± biopsy, ERCP with stent without sphincterotomy, EUS without FNA, push enteroscopy, diagnostic balloon enteroscopy, enteral stent deployment, APC, polypectomy <1 cm, tumor ablation, ERCP without sphincterotomy, marking/clipping/tattooing, video capsule
 
 **Thromboembolic risk stratification (Table 4):**
 
@@ -160,3 +160,7 @@ This is the primary evidence-based reference for anticoagulation management in G
 - DOAC periendoscopic interruption timing was informed largely by the PAUSE study, which lacked a "continue DOAC" comparator arm
 - Guideline does not address advanced endoscopic procedures specifically (ESD, POEM) in sufficient depth due to lack of evidence
 - No guidance on edoxaban (included in DOAC class but not studied separately in GI bleeding cohorts)
+
+## See Also
+
+[[anticoagulation-gi-bleeding]], [[colonoscopy]], [[upper-endoscopy]], [[polypectomy-emr]], [[endoscopic-ultrasound]], [[variceal-upper-gi-bleeding]], [[acute-lower-gi-bleeding]]

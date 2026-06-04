@@ -16,7 +16,7 @@ sources: []
 
 ## Summary
 
-This AASLD 2022 Practice Guidance on Wilson Disease (WD) provides a comprehensive, contemporary approach to diagnosis and management of WD. WD (hepatolenticular degeneration) is an autosomal recessive copper metabolism disorder caused by pathogenic variants in *ATP7B*, encoding the P-type ATPase responsible for biliary copper excretion. Without treatment, copper accumulates in the liver, brain, and other organs, causing progressive hepatic, neurological, and psychiatric disease. The guidance reflects that WD is more prevalent than previously estimated (up to 1:20,000; UK carrier frequency 1:90) and presents at any age (3–55 years most common, but confirmed in 70s and 80s).
+This AASLD 2022 Practice Guidance on [[wilson-disease|Wilson Disease]] (WD) provides a comprehensive, contemporary approach to diagnosis and management of WD. WD (hepatolenticular degeneration) is an autosomal recessive copper metabolism disorder caused by pathogenic variants in *ATP7B*, encoding the P-type ATPase responsible for biliary copper excretion. Without treatment, copper accumulates in the liver, brain, and other organs, causing progressive hepatic, neurological, and psychiatric disease. The guidance reflects that WD is more prevalent than previously estimated (up to 1:20,000; UK carrier frequency 1:90) and presents at any age (3–55 years most common, but confirmed in 70s and 80s).
 
 Key updates: expanded recognition of the psychiatric spectrum of WD; new focus on the tetrahydrochloride form of trientine (FDA approved 2022); detailed treatment monitoring targets (Table 10); multidisciplinary approach including RD and mental health; pregnancy and breastfeeding guidance; family screening algorithm.
 
@@ -30,7 +30,7 @@ The guidance was developed by an expert panel; guidance statements are evidence-
 
 2. WD must be excluded in any patient with unexplained liver disease associated with neurological or psychiatric disorder. Assessment by a neurologist specializing in movement disorders may be advantageous. Psychiatric evaluation is essential for any patient with WD presenting with psychiatric or neuropsychiatric features of WD.
 
-3. WD should be suspected in any patient presenting with ALF with nonimmune hemolytic anemia including acute intravascular hemolysis. These patients require urgent evaluation for liver transplantation.
+3. WD should be suspected in any patient presenting with [[acute-liver-failure|ALF]] with nonimmune hemolytic anemia including acute intravascular hemolysis. These patients require urgent evaluation for [[liver-transplantation|liver transplantation]].
 
 4. Evaluation for WD is critical in patients exhibiting recurrent self-limited nonimmune hemolysis.
 
@@ -112,11 +112,11 @@ The guidance was developed by an expert panel; guidance statements are evidence-
 
 3. After liver transplantation, medical treatment specific for WD is unnecessary.
 
-4. Liver failure and HCC are well-accepted indications for liver transplantation in WD; however, neurologic WD remains a controversial indication.
+4. Liver failure and [[hepatocellular-carcinoma|HCC]] are well-accepted indications for liver transplantation in WD; however, neurologic WD remains a controversial indication.
 
 ### HCC Surveillance (GS 32)
 
-1. Patients with WD with cirrhosis or regressed cirrhosis should undergo screening and surveillance for HCC according to the recommended guidelines. Screening and surveillance for CCA is not indicated in WD; however, CCA should be considered in the differential diagnosis of liver tumors not meeting strict radiologic criteria for HCC.
+1. Patients with WD with cirrhosis or regressed cirrhosis should undergo screening and surveillance for HCC according to the recommended guidelines. Screening and surveillance for [[cholangiocarcinoma|CCA]] is not indicated in WD; however, CCA should be considered in the differential diagnosis of liver tumors not meeting strict radiologic criteria for HCC.
 
 ### Pregnancy (GS 33–35)
 
@@ -209,3 +209,7 @@ Score uses: Total bilirubin (mg/dL), INR, AST (IU/L), WBC (×10⁶/mL), Albumin 
 - Neurologic WD as primary LT indication remains controversial — variable outcome data
 - Tetrahydrochloride form of trientine (FDA 2022): bioequivalence with dihydrochloride not yet established; individual dose adjustment may be needed
 - Optimal treatment in children <3 years without evidence of organ damage remains undefined
+
+## See Also
+
+[[wilson-disease]], [[acute-liver-failure]], [[autoimmune-hepatitis]], [[hepatocellular-carcinoma]], [[liver-transplantation]], [[liver-disease-in-pregnancy]]

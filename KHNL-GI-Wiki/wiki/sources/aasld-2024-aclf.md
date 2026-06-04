@@ -16,9 +16,9 @@ sources: []
 
 ## Summary
 
-This AASLD Practice Guidance addresses the diagnosis, evaluation, and management of patients with cirrhosis and ACLF and/or critical illness. ~800,000 hospitalizations per year for cirrhosis complications in the US; 7–8% require ICU care at estimated cost of $2 billion/year. Three major ACLF definitions exist (NACSELD, EASL-CLIF, APASL), each capturing different disease stages. The guidance proposes a minimum ACLF definition and focuses on patients most applicable to NACSELD criteria and advanced EASL-CLIF/APASL patients. 28-day mortality in ACLF ranges 30–50% depending on definition and number of organ failures.
+This AASLD Practice Guidance addresses the diagnosis, evaluation, and management of patients with cirrhosis and [[acute-on-chronic-liver-failure|ACLF]] and/or critical illness. ~800,000 hospitalizations per year for cirrhosis complications in the US; 7–8% require ICU care at estimated cost of $2 billion/year. Three major ACLF definitions exist (NACSELD, EASL-CLIF, APASL), each capturing different disease stages. The guidance proposes a minimum ACLF definition and focuses on patients most applicable to NACSELD criteria and advanced EASL-CLIF/APASL patients. 28-day mortality in ACLF ranges 30–50% depending on definition and number of organ failures.
 
-Key areas: definition and prognosis (ACLF-specific scores vs. MELD); organ-specific management (brain, cardiovascular, respiratory, kidney, coagulation/infection/nutrition); liver transplantation candidacy in ACLF; palliative care integration.
+Key areas: definition and prognosis (ACLF-specific scores vs. MELD); organ-specific management (brain, cardiovascular, respiratory, kidney, coagulation/infection/nutrition); [[liver-transplantation|liver transplantation]] candidacy in ACLF; palliative care integration.
 
 ## All Guidance Statements (1–51)
 
@@ -28,7 +28,7 @@ Key areas: definition and prognosis (ACLF-specific scores vs. MELD); organ-speci
 
 3. Serial calculation of ACLF-specific scores may be useful for further assessment of prognosis among patients hospitalized with ACLF.
 
-4. The West Haven HE criteria and the Glasgow Coma Scale should be used to characterize brain failure in critically ill patients with cirrhosis. Cutoffs of Grade 3 or 4 HE according to the West Haven criteria and Glasgow Coma Scale <8 indicate severe injury.
+4. The West Haven [[hepatic-encephalopathy|HE]] criteria and the Glasgow Coma Scale should be used to characterize brain failure in critically ill patients with cirrhosis. Cutoffs of Grade 3 or 4 HE according to the West Haven criteria and Glasgow Coma Scale <8 indicate severe injury.
 
 5. Consider ICU admission for patients with Grades 3 and 4 HE.
 
@@ -36,7 +36,7 @@ Key areas: definition and prognosis (ACLF-specific scores vs. MELD); organ-speci
 
 7. Workup of altered mental status in patients with cirrhosis should include investigation of liver-unrelated causes of altered mental status (e.g., alcohol withdrawal, structural brain injury), especially if this is the first episode of confusion or if a patient does not respond to adequate empirical therapy for HE.
 
-8. Treatment of HE in patients with ACLF/who are critically ill includes lactulose (orally or rectally) or polyethylene glycol if patients are at risk of ileus/abdominal distention. The role of rifaximin as an add-on therapy to lactulose/polyethylene glycol warrants further investigation in ACLF.
+8. Treatment of HE in patients with ACLF/who are critically ill includes lactulose (orally or rectally) or polyethylene glycol if patients are at risk of ileus/abdominal distention. The role of [[rifaximin]] as an add-on therapy to lactulose/polyethylene glycol warrants further investigation in ACLF.
 
 9. Medications with short half-lives (e.g., propofol, dexmedetomidine) should be used for sedation and pain control in patients with cirrhosis who require intubation and mechanical ventilation.
 
@@ -56,7 +56,7 @@ Key areas: definition and prognosis (ACLF-specific scores vs. MELD); organ-speci
 
 17. Consider screening for adrenal insufficiency or an empiric trial of hydrocortisone 50 mg i.v. q6h or 200-mg infusion for 7 days or until ICU discharge for treatment of refractory shock requiring high-dose vasopressors in patients with cirrhosis.
 
-18. Investigation and treatment of coexisting pulmonary comorbidities related to cirrhosis (hydrothorax, ascites, hepatopulmonary syndrome) should be undertaken in patients with cirrhosis and respiratory failure. In patients with respiratory compromise related to hydrothorax or tense ascites, therapeutic thoracentesis/paracentesis is recommended.
+18. Investigation and treatment of coexisting pulmonary comorbidities related to cirrhosis (hydrothorax, [[ascites]], [[hepatopulmonary-syndrome-portopulmonary-hypertension|hepatopulmonary syndrome]]) should be undertaken in patients with cirrhosis and respiratory failure. In patients with respiratory compromise related to hydrothorax or tense ascites, therapeutic thoracentesis/paracentesis is recommended.
 
 19. HFNC therapy should be considered in the management of acute hypoxemic respiratory failure in patients with ACLF, with close monitoring to assess the need for escalation to invasive mechanical ventilation (e.g., tachypnea, refractory hypoxemia).
 
@@ -68,7 +68,7 @@ Key areas: definition and prognosis (ACLF-specific scores vs. MELD); organ-speci
 
 23. In patients with cirrhosis and AKI, after withdrawing diuretics and treating precipitating factors such as bacterial infection, volume challenge with i.v. albumin at a dose of 1 g albumin/kg of body weight, maximum of 100 gm/day, is recommended for 48 h.
 
-24. Vasoconstrictors and albumin (20–40 g/day) are recommended for patients who fulfill the diagnostic criteria for Stage 2 or greater HRS-AKI and who do not have contraindications. Currently, there is no recommendation for vasoconstrictor use for Stage 1 AKI. The optimal duration of albumin administration in the setting of HRS treated with vasoconstrictors remains unclear.
+24. Vasoconstrictors and albumin (20–40 g/day) are recommended for patients who fulfill the diagnostic criteria for Stage 2 or greater [[aki-in-cirrhosis|HRS-AKI]] and who do not have contraindications. Currently, there is no recommendation for vasoconstrictor use for Stage 1 AKI. The optimal duration of albumin administration in the setting of HRS treated with vasoconstrictors remains unclear.
 
 25. The use of terlipressin (0.5–2.0 mg i.v. q6h or continuous infusion of 2 g/24 h i.v.) is indicated in hospitalized patients with Stage 2 or greater HRS-AKI and without ACLF-3 (EASL-CLIF) or major cardiopulmonary or vascular disease.
 
@@ -160,3 +160,7 @@ Key areas: definition and prognosis (ACLF-specific scores vs. MELD); organ-speci
 - Optimal LT selection criteria in ACLF remain undefined; trajectory (stabilization vs. progression) appears more important than a single score cutoff
 - Terlipressin contraindication in ACLF-3 based on CONFIRM trial; norepinephrine preferred in shock but not specifically studied in ACLF
 - Rifaximin role as add-on to lactulose in ACLF-specific HE warrants further investigation
+
+## See Also
+
+[[acute-on-chronic-liver-failure]], [[acute-liver-failure]], [[aki-in-cirrhosis]], [[spontaneous-bacterial-peritonitis]], [[hepatic-encephalopathy]], [[liver-transplantation]], [[portal-hypertension]], [[ascites]]

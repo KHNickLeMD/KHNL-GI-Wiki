@@ -19,13 +19,13 @@ sources: []
 
 ## Summary
 
-This 2025 AASLD/AST Practice Guideline is a comprehensive, evidence-based update to the 2012 AASLD/AST long-term management guideline. It encompasses early and late post-transplant management of adult liver transplant (LT) recipients, focusing specifically on graft-related complications. A multidisciplinary writing group reviewed literature from January 2016 to September 2024, identifying 175 studies informing 57 graded recommendations across six major domains: surgical considerations (living donor and DCD grafts, machine perfusion), early allograft dysfunction, technical graft complications (vascular and biliary), immunosuppression (induction, maintenance, monitoring, and withdrawal), graft rejection, and recurrent disease (alcohol-associated liver disease, MASLD, and immune-mediated liver diseases).
+This 2025 AASLD/AST Practice Guideline is a comprehensive, evidence-based update to the 2012 AASLD/AST long-term management guideline. It encompasses early and late post-transplant management of adult [[liver-transplantation|liver transplant]] (LT) recipients, focusing specifically on graft-related complications. A multidisciplinary writing group reviewed literature from January 2016 to September 2024, identifying 175 studies informing 57 graded recommendations across six major domains: surgical considerations (living donor and DCD grafts, machine perfusion), early allograft dysfunction, technical graft complications (vascular and biliary), immunosuppression (induction, maintenance, monitoring, and withdrawal), graft rejection, and recurrent disease ([[alcohol-associated-liver-disease|alcohol-associated liver disease]], [[nafld-masld|MASLD]], and immune-mediated liver diseases).
 
 Major advances since 2012 include the widespread adoption of machine perfusion and normothermic regional perfusion (NRP) for organ preservation — particularly for extended-criteria and DCD grafts — which significantly reduce early allograft dysfunction (EAD), biliary complications, and improve graft survival. The guideline formalizes evidence supporting hypothermic machine perfusion (HMP) and normothermic machine perfusion (NMP) as preferred strategies over static cold storage for high-risk donors. DCD utilization has expanded from 4.7% to 15.4% of US LTs between 2013 and 2023, enabled largely by machine perfusion technology.
 
-The immunosuppression section provides updated, evidence-based guidance on: basiliximab induction to delay CNI start in recipients with renal dysfunction; the role of steroid-containing versus steroid-free regimens; tacrolimus monotherapy versus combination therapy; mTOR inhibitor use in HCC recipients and CNI-nephrotoxic recipients; protocol liver biopsy (not recommended routinely); and operational tolerance (complete IS withdrawal not routinely recommended). The rejection section distinguishes management of mild versus moderate/severe T-cell–mediated rejection (TCMR), plasma cell-rich rejection (PCR, formerly "de novo AIH"), and provides guidance on antibody-mediated rejection (AMR) diagnosis and treatment.
+The immunosuppression section provides updated, evidence-based guidance on: basiliximab induction to delay CNI start in recipients with renal dysfunction; the role of steroid-containing versus steroid-free regimens; [[tacrolimus]] monotherapy versus combination therapy; mTOR inhibitor use in [[hepatocellular-carcinoma|HCC]] recipients and CNI-nephrotoxic recipients; protocol liver biopsy (not recommended routinely); and [[operational-tolerance|operational tolerance]] (complete IS withdrawal not routinely recommended). The rejection section distinguishes management of mild versus moderate/severe T-cell–mediated rejection (TCMR), plasma cell-rich rejection (PCR, formerly "de novo AIH"), and provides guidance on [[antibody-mediated-rejection-liver-transplant|antibody-mediated rejection]] (AMR) diagnosis and treatment.
 
-The recurrent disease section covers updated recommendations for recurrent alcohol-associated liver disease (ALD), metabolic dysfunction–associated steatotic liver disease (MASLD), and immune-mediated liver diseases (autoimmune hepatitis, PBC, PSC). The authors acknowledge that robust clinical trial data guide some aspects (machine perfusion, immunosuppression) but that management of recurrent liver disease and antibody-mediated rejection remains largely based on retrospective cohort data and expert consensus.
+The recurrent disease section covers updated recommendations for recurrent alcohol-associated liver disease (ALD), metabolic dysfunction–associated steatotic liver disease (MASLD), and immune-mediated liver diseases ([[autoimmune-hepatitis|autoimmune hepatitis]], [[primary-biliary-cholangitis|PBC]], [[primary-sclerosing-cholangitis|PSC]]). The authors acknowledge that robust clinical trial data guide some aspects (machine perfusion, immunosuppression) but that management of recurrent liver disease and antibody-mediated rejection remains largely based on retrospective cohort data and expert consensus.
 
 ## Key Findings / Claims
 
@@ -34,7 +34,7 @@ The recurrent disease section covers updated recommendations for recurrent alcoh
 - LDLT has comparable long-term graft/patient survival to DDLT but higher biliary and vascular complication rates; meta-analysis (n=38,563) shows biliary complication OR 2.23 (p<0.001) and vascular complication OR 2.0 (p=0.001) with LDLT vs. DDLT
 - DCD LTs using machine perfusion or NRP have comparable 1-year graft/patient survival to DBD LTs at experienced programs
 - Static cold storage DCD grafts carry higher risk of EAD and ischemic cholangiopathy vs. DBD; mitigated by machine perfusion/NRP
-- HMP and NMP consistently reduce EAD in 5 meta-analyses; also reduce non-anastomotic biliary strictures, acute cellular rejection, and improve 1-year graft survival
+- HMP and NMP consistently reduce EAD in 5 meta-analyses; also reduce non-anastomotic [[biliary-stricture|biliary strictures]], acute cellular rejection, and improve 1-year graft survival
 - NRP reduces EAD in DCD allografts and may reduce non-anastomotic biliary strictures
 
 **Early Allograft Dysfunction**
@@ -45,8 +45,8 @@ The recurrent disease section covers updated recommendations for recurrent alcoh
 **Technical Complications**
 
 - HAT: 2–10% incidence; early (<5 days) requires surgical thrombectomy ± endovascular + anticoagulation; late HAT managed endovascularly ± anticoagulation; urgent re-LT when progressive liver failure
-- PV thrombosis: 1–2.6% incidence; early thrombectomy with surgical revision and anticoagulation; late cases: anticoagulation, percutaneous thrombolysis, stent, TIPS
-- Biliary strictures: up to 15% DDLT, 40% LDLT; anastomotic strictures — ERCP + balloon dilation + stenting is first-line; non-anastomotic — endoscopic or percutaneous drainage; re-LT for irreversible ischemic cholangiopathy
+- [[portal-vein-thrombosis|PV thrombosis]]: 1–2.6% incidence; early thrombectomy with surgical revision and anticoagulation; late cases: anticoagulation, percutaneous thrombolysis, stent, TIPS
+- Biliary strictures: up to 15% DDLT, 40% LDLT; anastomotic strictures — [[ercp|ERCP]] + balloon dilation + stenting is first-line; non-anastomotic — endoscopic or percutaneous drainage; re-LT for irreversible ischemic cholangiopathy
 - MRCP has 94–96% sensitivity and 94–95% specificity for biliary strictures; preferred first-line diagnostic tool
 - Multiple plastic stents and covered SEMS have equivalent stricture resolution rates; covered SEMS associated with fewer procedures and lower cost
 
@@ -75,7 +75,7 @@ The recurrent disease section covers updated recommendations for recurrent alcoh
 - Recurrent MASLD: lifestyle modification, weight management, and control of metabolic risk factors; MASLD is now the leading indication for re-LT in some series
 - Recurrent AIH: maintain azathioprine + low-dose corticosteroids; MMF as second-line; re-LT for graft failure
 - Recurrent PBC: UDCA treatment for recurrent PBC post-LT; obeticholic acid as second-line option; re-LT for graft failure
-- Recurrent PSC: no proven pharmacotherapy; manage dominant strictures endoscopically/percutaneously; annual colonoscopy in PSC+IBD; re-LT for graft failure
+- Recurrent PSC: no proven pharmacotherapy; manage dominant strictures endoscopically/percutaneously; annual [[colonoscopy]] in PSC+[[inflammatory-bowel-disease|IBD]]; re-LT for graft failure
 
 ## Recommendations
 
@@ -113,7 +113,7 @@ The recurrent disease section covers updated recommendations for recurrent alcoh
 | 30. Combination therapy with tacrolimus and an antimetabolite or a mammalian target of rapamycin inhibitor should be considered for adult liver transplant recipients who require reduced exposure to tacrolimus due to adverse effects (eg, renal dysfunction). | Strong | Level 3 |
 | 31. Once-daily extended-release formulations of tacrolimus should be used similarly to twice-daily immediate-release formulations, as they are equally effective for preventing rejection and maintaining allograft survival. | Strong | Level 3 |
 | 32. The addition of or conversion to a mammalian target of rapamycin inhibitor-based immunosuppression may be considered in adult liver transplant recipients transplanted for hepatocellular carcinoma within the Milan criteria to improve recurrence-free survival up to 3 years post-liver transplant. | Weak | Level 3 |
-| 33. In adult liver transplant recipients with chronic kidney dysfunction, conversion from calcineurin inhibitors to or addition of mammalian target of rapamycin inhibitor-based immunosuppression should be considered to prevent progression of kidney disease and is best implemented in the early (~3 mo) post-transplant period. | Strong | Level 2 |
+| 33. In adult liver transplant recipients with chronic kidney dysfunction, conversion from [[calcineurin-inhibitors|calcineurin inhibitors]] to or addition of mammalian target of rapamycin inhibitor-based immunosuppression should be considered to prevent progression of kidney disease and is best implemented in the early (~3 mo) post-transplant period. | Strong | Level 2 |
 | 34. While liver biopsy has been the gold standard for the diagnosis of post-liver transplant graft dysfunction and may be used before minimization of immunosuppression, protocol liver biopsy is not recommended in the routine management of stable adult liver transplant recipients. | Strong | Level 4 |
 | 35. Due to insufficient data, routine use of transient elastography to monitor allograft health cannot be recommended in adult liver transplant recipients. | Weak | Level 3 |
 | 36. Complete immunosuppression withdrawal is not routinely recommended, given the lack of reliable predictors of withdrawal success and limited data in a very select group of long-term adult recipients. | Strong | Level 4 |
@@ -152,3 +152,7 @@ The recurrent disease section covers updated recommendations for recurrent alcoh
   - Long-term outcomes with extended-IS withdrawal trials ongoing; 2025 recommendation against routine withdrawal may be revisited
   - MASLD recurrence post-LT: no disease-specific pharmacologic treatments proven; GLP-1 agonists not yet incorporated (data expected post-publication)
   - Optimal timing and duration of basiliximab to maximize renal protection without increasing rejection: evidence from small RCTs only
+
+## See Also
+
+[[liver-transplantation]], [[tacrolimus]], [[calcineurin-inhibitors]], [[operational-tolerance]], [[hepatocellular-carcinoma]], [[alcohol-associated-liver-disease]], [[nafld-masld]], [[autoimmune-hepatitis]], [[primary-biliary-cholangitis]], [[primary-sclerosing-cholangitis]], [[antibody-mediated-rejection-liver-transplant]], [[aasld-2012-liver-transplant-long-term]]

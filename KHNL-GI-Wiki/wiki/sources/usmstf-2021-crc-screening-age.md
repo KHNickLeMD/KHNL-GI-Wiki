@@ -17,7 +17,7 @@ sources: []
 
 ## Summary
 
-Focused update on when to start and stop average-risk CRC screening. Driven by rising incidence of early-age onset CRC (EAO-CRC). Key change: recommends offering average-risk screening starting at age 45 (weak recommendation). Recommendations for stopping age unchanged. Does not address screening test selection (covered in 2017 guideline).
+Focused update on when to start and stop average-risk [[colorectal-cancer-screening|CRC screening]]. Driven by rising incidence of early-age onset [[colorectal-cancer|CRC]] (EAO-CRC). Key change: recommends offering average-risk screening starting at age 45 (weak recommendation). Recommendations for stopping age unchanged. Does not address screening test selection (covered in 2017 guideline).
 
 ## Key Findings / Claims
 
@@ -52,7 +52,7 @@ Focused update on when to start and stop average-risk CRC screening. Driven by r
 
 **Tier 1 (preferred):**
 
-- Colonoscopy every 10 years
+- [[colonoscopy|Colonoscopy]] every 10 years
 - Annual FIT
 
 **Acceptable alternatives:**
@@ -97,3 +97,7 @@ Focused update on when to start and stop average-risk CRC screening. Driven by r
 - Optimal screening modality and interval for 45–49 y/o not specified
 - Whether hybrid approach (noninvasive at 45, colonoscopy at 50) is preferred: unknown
 - Equity of access for age 45–49 expansion: unresolved
+
+## See Also
+
+[[colonoscopy]]

@@ -16,9 +16,9 @@ sources: []
 
 ## Summary
 
-This ACG clinical guideline provides a comprehensive framework for the genetic evaluation and management of nine hereditary GI cancer syndromes: Lynch syndrome (LS), familial adenomatous polyposis (FAP), attenuated FAP (AFAP), MUTYH-associated polyposis (MAP), Peutz-Jeghers syndrome (PJS), juvenile polyposis syndrome (JPS), Cowden syndrome (CS/PTEN hamartoma tumor syndrome), serrated polyposis syndrome (SPS), hereditary pancreatic cancer, and hereditary diffuse gastric cancer (HDGC). The guideline opens with standards for minimal cancer family history assessment in GI practice, emphasizing collection of first- and second-degree relative cancer histories for all patients in outpatient GI and endoscopy settings.
+This ACG clinical guideline provides a comprehensive framework for the genetic evaluation and management of nine hereditary GI cancer syndromes: [[lynch-syndrome|Lynch syndrome]] (LS), [[familial-adenomatous-polyposis|familial adenomatous polyposis]] (FAP), attenuated FAP (AFAP), [[mutyh-associated-polyposis|MUTYH-associated polyposis]] (MAP), [[peutz-jeghers-syndrome|Peutz-Jeghers syndrome]] (PJS), [[juvenile-polyposis-syndrome|juvenile polyposis syndrome]] (JPS), [[cowden-syndrome|Cowden syndrome]] (CS/PTEN hamartoma tumor syndrome), [[serrated-polyposis-syndrome|serrated polyposis syndrome]] (SPS), hereditary pancreatic cancer, and [[hereditary-diffuse-gastric-cancer|hereditary diffuse gastric cancer]] (HDGC). The guideline opens with standards for minimal cancer family history assessment in GI practice, emphasizing collection of first- and second-degree relative cancer histories for all patients in outpatient GI and endoscopy settings.
 
-The Lynch syndrome section is the most detailed. Universal MMR tumor testing of all newly diagnosed CRCs is recommended, using IHC (MLH1/MSH2/MSH6/PMS2) ± MSI testing. BRAF V600E or MLH1 promoter methylation testing is required when MLH1 is lost to exclude sporadic epigenetic silencing. Colonoscopy every 1–2 years beginning age 20–25 (or 25–30 for MSH6/PMS2 carriers) is the cornerstone of CRC prevention, with observed 62–72% reductions in CRC mortality in surveillance cohorts. Colectomy with IRA is preferred for incident CRC. Gynecologic surveillance (annual endometrial biopsy + transvaginal ultrasound from age 30–35) and consideration of prophylactic hysterectomy/BSO after childbearing are recommended. Gastric surveillance (EGD with biopsy + H. pylori treatment at age 30–35) is conditionally recommended for LS.
+The Lynch syndrome section is the most detailed. Universal MMR tumor testing of all newly diagnosed [[colorectal-cancer|CRC]]s is recommended, using IHC (MLH1/MSH2/MSH6/PMS2) ± MSI testing. BRAF V600E or MLH1 promoter methylation testing is required when MLH1 is lost to exclude sporadic epigenetic silencing. Colonoscopy every 1–2 years beginning age 20–25 (or 25–30 for MSH6/PMS2 carriers) is the cornerstone of CRC prevention, with observed 62–72% reductions in CRC mortality in surveillance cohorts. Colectomy with IRA is preferred for incident CRC. Gynecologic surveillance (annual endometrial biopsy + transvaginal ultrasound from age 30–35) and consideration of prophylactic hysterectomy/BSO after childbearing are recommended. Gastric surveillance (EGD with biopsy + H. pylori treatment at age 30–35) is conditionally recommended for LS.
 
 For FAP/AFAP/MAP, annual sigmoidoscopy or colonoscopy from puberty is the cornerstone of CRC prevention. Absolute surgical indications include documented/suspected cancer, significant symptoms, or adenomas >6 mm that cannot be controlled. Colectomy with IRA or proctocolectomy with IPAA are the surgical options depending on rectal polyposis burden. Duodenal surveillance using EGD with side-viewing instrument starting age 25–30, with frequency determined by Spigelman staging (0=q4y; I=q2–3y; II=q1–3y; III=q6–12mo; IV=surgical evaluation), is a strong recommendation. Annual thyroid ultrasound is conditionally recommended for FAP/AFAP/MAP. Biannual AFP + liver ultrasound for hepatoblastoma in affected infants until age 7 is conditionally recommended.
 
@@ -65,10 +65,10 @@ The hamartomatous syndromes (PJS, JPS, Cowden) each receive dedicated guidance o
 - Clinical criteria: perioral/buccal pigmentation and/or ≥2 histologically characteristic GI hamartomas or FH of PJS
 - Overall cancer risk by age 70: 19% (age 40), 32% (age 50), 63% (age 60), 81% (age 70)
 - CRC risk 39% (avg age 42–46); gastric 29%; small bowel 13%; pancreatic 11–36%; breast 32–54%; ovarian 21%; cervical 10%; testicular 9%
-- Surveillance: colonoscopy + EGD + video capsule endoscopy all starting age 8 (if polyps found repeat q3y; if none, repeat at age 18 then q3y) (Table 10)
-- Pancreas: MRCP or EUS starting age 30, q1–2y
+- Surveillance: [[colonoscopy]] + [[upper-endoscopy|EGD]] + [[capsule-endoscopy|video capsule endoscopy]] all starting age 8 (if polyps found repeat q3y; if none, repeat at age 18 then q3y) (Table 10)
+- Pancreas: MRCP or [[endoscopic-ultrasound|EUS]] starting age 30, q1–2y
 - Breast: MRI ± mammogram from age 25 annually
-- Treatment: endoscopic polypectomy; colectomy/IRA if polyps uncontrolled; intussusception is major complication (median age 16 years)
+- Treatment: endoscopic [[polypectomy-emr|polypectomy]]; colectomy/IRA if polyps uncontrolled; intussusception is major complication (median age 16 years)
 - Everolimus (mTOR inhibitor) under study as chemopreventive agent
 
 **Juvenile Polyposis Syndrome (JPS)**
@@ -76,7 +76,7 @@ The hamartomatous syndromes (PJS, JPS, Cowden) each receive dedicated guidance o
 - SMAD4 or BMPR1A mutations in ~60% of individuals with clinically defined JPS; 25% de novo
 - Clinical criteria: ≥5 juvenile polyps in colorectum, OR juvenile polyps in other GI tract parts, OR any juvenile polyps with FH of JPS
 - CRC risk 38–68% (avg age 34–44); upper GI cancer (stomach, pancreas, small bowel) 21%
-- SMAD4 mutation → also screens for hereditary hemorrhagic telangiectasia (cardiovascular exam required)
+- SMAD4 mutation → also screens for [[hereditary-hemorrhagic-telangiectasia|hereditary hemorrhagic telangiectasia]] (cardiovascular exam required)
 - Surveillance: colonoscopy + EGD annually from age 12–15 (Conditional/VLow)
 - Surgery: colectomy + IRA or proctocolectomy + IPAA if polyps uncontrolled (Conditional/Low)
 
@@ -167,3 +167,7 @@ The hamartomatous syndromes (PJS, JPS, Cowden) each receive dedicated guidance o
 - Universal tumor MMR testing of all CRCs was a recommendation here (2015); now widely adopted and reflected in [[colorectal-cancer]] screening context
 - Surveillance for extracolonic cancers in LS (gastric, urinary, small bowel) remains low-quality evidence — conditional recommendations only
 - SPS familial screening intervals remain unclear pending prospective data
+
+## See Also
+
+[[lynch-syndrome]], [[familial-adenomatous-polyposis]], [[peutz-jeghers-syndrome]], [[juvenile-polyposis-syndrome]], [[cowden-syndrome]], [[serrated-polyposis-syndrome]], [[hereditary-diffuse-gastric-cancer]], [[colorectal-cancer]]

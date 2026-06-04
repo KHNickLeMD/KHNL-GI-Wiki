@@ -16,7 +16,7 @@ sources: []
 
 ## Summary
 
-Resmetirom (Rezdiffra) — an oral **thyroid hormone receptor-β (THR-β) agonist** — received FDA **accelerated approval in March 2024**, the first drug approved for **MASH with moderate-to-advanced fibrosis (F2–F3)**. Approval rested on the phase 3 **MAESTRO-NASH** trial (52-week dual primary endpoints) plus MAESTRO-NAFLD-1 safety data. Because the FDA label does not give implementable whom-to-treat / how-to-monitor guidance, the AASLD writing group assimilated the NILDA fibrosis/steatosis guidelines, trial data, expert opinion, and FDA documents into actionable recommendations.
+[[resmetirom|Resmetirom]] (Rezdiffra) — an oral **thyroid hormone receptor-β (THR-β) agonist** — received FDA **accelerated approval in March 2024**, the first drug approved for **[[nafld-masld|MASH]] with moderate-to-advanced fibrosis (F2–F3)**. Approval rested on the phase 3 **MAESTRO-NASH** trial (52-week dual primary endpoints) plus MAESTRO-NAFLD-1 safety data. Because the FDA label does not give implementable whom-to-treat / how-to-monitor guidance, the AASLD writing group assimilated the NILDA fibrosis/steatosis guidelines, trial data, expert opinion, and FDA documents into actionable recommendations.
 
 **Efficacy (MAESTRO-NASH, 52 wk):** MASH resolution without worsening fibrosis 26%–30% (vs 10% placebo); ≥1-stage fibrosis improvement without worsening MASH 24%–26% (vs 14% placebo). >70% of participants did not reach a primary endpoint at week 52. Accelerated approval is contingent on verification of long-term clinical benefit.
 
@@ -34,7 +34,7 @@ Resmetirom (Rezdiffra) — an oral **thyroid hormone receptor-β (THR-β) agonis
 
 ### Pretreatment considerations
 
-- Resmetirom is not recommended for persons with compensated or decompensated cirrhosis, concomitant uncontrolled active liver diseases (such as autoimmune hepatitis and primary biliary cholangitis), or ongoing alcohol consumption greater than 20 g/d for women or greater than 30 g/d for men.
+- Resmetirom is not recommended for persons with compensated or decompensated cirrhosis, concomitant uncontrolled active liver diseases (such as [[autoimmune-hepatitis|autoimmune hepatitis]] and [[primary-biliary-cholangitis|primary biliary cholangitis]]), or ongoing alcohol consumption greater than 20 g/d for women or greater than 30 g/d for men.
 - Thyroid function assessment is recommended before initiating resmetirom treatment. For persons with untreated hyperthyroidism or hypothyroidism, resmetirom initiation is not recommended until thyroid function is optimized.
 - Resmetirom initiation is not recommended for patients with symptomatic gallstone-related conditions such as acute cholecystitis.
 
@@ -72,3 +72,7 @@ Resmetirom (Rezdiffra) — an oral **thyroid hormone receptor-β (THR-β) agonis
 - Accelerated approval → long-term clinical-benefit (decompensation/mortality) data from ongoing MAESTRO-NASH not yet available; recommendations may change.
 - No validated NILDA threshold for monitoring resmetirom response (AASLD NILDA guideline ([[aasld-2024-nilda-blood]]) generally advises against standalone imaging NILDA for tracking fibrosis change).
 - Relative/combination efficacy vs GLP-1 RAs (e.g., semaglutide, tirzepatide) unestablished.
+
+## See Also
+
+[[drug-induced-liver-injury]], [[nafld-masld]], [[resmetirom]], [[semaglutide]], [[aasld-2024-nilda-blood]]

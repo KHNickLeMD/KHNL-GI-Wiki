@@ -16,11 +16,11 @@ sources: []
 
 ## Summary
 
-This guideline provides a comprehensive evidence-based framework for managing adult liver transplant (LT) recipients after the first 90 days. It covers monitoring of allograft function, immunosuppression management, late rejection, metabolic complications, infectious disease prophylaxis, oncologic surveillance, recurrent liver disease, reproductive health, and late surgical complications. The document contains 93 specific recommendations graded using the GRADE system (1 = strong, 2 = weak; A = high-quality evidence, B = moderate, C = low).
+This guideline provides a comprehensive evidence-based framework for managing adult [[liver-transplantation|liver transplant]] (LT) recipients after the first 90 days. It covers monitoring of allograft function, immunosuppression management, late rejection, metabolic complications, infectious disease prophylaxis, oncologic surveillance, recurrent liver disease, reproductive health, and late surgical complications. The document contains 93 specific recommendations graded using the GRADE system (1 = strong, 2 = weak; A = high-quality evidence, B = moderate, C = low).
 
-The central challenge in long-term LT management is that immunosuppression, while necessary to prevent rejection, causes cumulative harm: chronic kidney disease (CKD) in 30–80% of recipients, metabolic syndrome (50–60%), de novo malignancy (11–20% cumulative incidence at 10 years), and opportunistic infections. Cardiovascular disease and renal failure are the leading nonhepatic causes of late morbidity and mortality. Recurrent disease — especially HCV (pre-DAA era), PBC, PSC, AIH, and HCC — is a major cause of long-term graft loss.
+The central challenge in long-term LT management is that immunosuppression, while necessary to prevent rejection, causes cumulative harm: chronic kidney disease (CKD) in 30–80% of recipients, metabolic syndrome (50–60%), de novo malignancy (11–20% cumulative incidence at 10 years), and opportunistic infections. Cardiovascular disease and renal failure are the leading nonhepatic causes of late morbidity and mortality. Recurrent disease — especially [[hepatitis-c|HCV]] (pre-DAA era), [[primary-biliary-cholangitis|PBC]], [[primary-sclerosing-cholangitis|PSC]], [[autoimmune-hepatitis|AIH]], and [[hepatocellular-carcinoma|HCC]] — is a major cause of long-term graft loss.
 
-The guideline reflects the pre-direct-acting-antiviral (DAA) era for HCV treatment (peginterferon + ribavirin). Calcineurin inhibitor (CNI) targets, immunosuppression minimization strategies, and de novo malignancy surveillance remain highly relevant.
+The guideline reflects the pre-direct-acting-antiviral (DAA) era for HCV treatment (peginterferon + ribavirin). [[calcineurin-inhibitors|Calcineurin inhibitor]] (CNI) targets, immunosuppression minimization strategies, and de novo malignancy surveillance remain highly relevant.
 
 ## Key Findings / Claims
 
@@ -36,7 +36,7 @@ The guideline reflects the pre-direct-acting-antiviral (DAA) era for HCV treatme
 
 - No single regimen recommended; choice depends on indication, comorbidities, drug side effects, pregnancy likelihood, rejection history, cancer and infection history (Rec 6).
 - Review immunosuppression at minimum every 6 months; modify to minimize long-term toxicity (Rec 7).
-- Target trough levels (after 3 months): tacrolimus 5–10 ng/mL, cyclosporine 100–150 ng/mL (whole blood), sirolimus 5 ng/mL.
+- Target trough levels (after 3 months): [[tacrolimus]] 5–10 ng/mL, cyclosporine 100–150 ng/mL (whole blood), sirolimus 5 ng/mL.
 - Rejection diagnosis requires liver biopsy classified by Banff criteria (Rec 8).
 - Complete IS withdrawal achievable in a small minority only; should occur with select recipients under close supervision (Rec 9).
 
@@ -75,10 +75,10 @@ The guideline reflects the pre-direct-acting-antiviral (DAA) era for HCV treatme
 **Oncology**
 
 - De novo cancer cumulative incidence: 3–5% at 1–3 years, 11–20% at 10 years (Table 10).
-- Skin cancers most common (SCC/BCC 20–70× relative risk); melanoma 2–5× risk; lymphoma 10–30×; oropharyngeal cancer 3–14× (up to 25× in prior alcoholic cirrhosis); colorectal 25–30× if UC present.
+- Skin cancers most common (SCC/BCC 20–70× relative risk); melanoma 2–5× risk; lymphoma 10–30×; oropharyngeal cancer 3–14× (up to 25× in prior alcoholic cirrhosis); [[colorectal-cancer|colorectal]] 25–30× if UC present.
 - All LT recipients: annual dermatology follow-up; sun protection (SPF ≥15); skin self-examination (Recs 20, 41).
-- PSC + IBD: annual screening colonoscopy with biopsies; colectomy when dysplasia found (Rec 42).
-- HCC surveillance: de novo HCC imaging every 6–12 months for those with recurrent allograft cirrhosis (Rec 43).
+- PSC + [[inflammatory-bowel-disease|IBD]]: annual screening [[colonoscopy]] with biopsies; colectomy when dysplasia found (Rec 42).
+- [[hcc-surveillance|HCC surveillance]]: de novo HCC imaging every 6–12 months for those with recurrent allograft cirrhosis (Rec 43).
 - HCC recurrence: sirolimus-based IS reduces recurrence risk; consider 4 weeks after LT (Rec 44).
 - Solitary extrahepatic metastasis or intrahepatic HCC recurrence: resection or ablation (Rec 45).
 
@@ -96,7 +96,7 @@ The guideline reflects the pre-direct-acting-antiviral (DAA) era for HCV treatme
 - High-risk period: months 3–6 (opportunistic pathogens: CMV, EBV, fungi, unusual bacteria).
 - After month 6: standard community-acquired and intra-abdominal pathogens predominate.
 - CMV: most significant opportunistic pathogen; high-risk (D+/R−) prophylaxis with ganciclovir or valganciclovir ×3 months (Rec 53); treatment: IS reduction + IV ganciclovir or oral valganciclovir ×minimum 2 weeks until viremia + symptoms resolved (Recs 54–56); resume prophylaxis after anti-lymphocyte therapy ×1–3 months (Rec 55).
-- EBV/PTLD: incidence 0.9–2.9%; suspect with unexplained fever, lymphadenopathy, cytopenias; EBV viremia not diagnostic — requires histopathology (Recs 58–59); treatment: reduce IS, then rituximab/chemotherapy if no response.
+- EBV/[[post-transplant-lymphoproliferative-disorder|PTLD]]: incidence 0.9–2.9%; suspect with unexplained fever, lymphadenopathy, cytopenias; EBV viremia not diagnostic — requires histopathology (Recs 58–59); treatment: reduce IS, then rituximab/chemotherapy if no response.
 - Fungal infections: Candida and Aspergillus most common; preferred agents by organism in Table 13 (Recs 60–61).
 - *Pneumocystis jirovecii*: TMP-SMX (SS daily or DS 3×/week) ×6–12 months for all recipients; atovaquone or dapsone if intolerant (Rec 62); TMP-SMX preferred treatment; IV pentamidine for severe/intolerant cases (Rec 63).
 - TB: latent — isoniazid 300 mg/day ×9 months; active — 4-drug regimen ×6 months total; monitor for hepatotoxicity and CNI interactions (Recs 65–66).
@@ -109,7 +109,7 @@ The guideline reflects the pre-direct-acting-antiviral (DAA) era for HCV treatme
 
 **Viral Hepatitis**
 
-- *HBV*: HBIG + nucleos(t)ide analogue combination prevents recurrence in ≥90%; HBIG may be discontinued in low-risk patients (low pretransplant HBV DNA, no high-risk factors) and replaced by antiviral monotherapy (Recs 74–75); lifelong antivirals for recurrent HBV; combination preferred over monotherapy when low-barrier-to-resistance drugs used (Rec 76).
+- *[[chronic-hepatitis-b|HBV]]*: HBIG + nucleos(t)ide analogue combination prevents recurrence in ≥90%; HBIG may be discontinued in low-risk patients (low pretransplant HBV DNA, no high-risk factors) and replaced by antiviral monotherapy (Recs 74–75); lifelong antivirals for recurrent HBV; combination preferred over monotherapy when low-barrier-to-resistance drugs used (Rec 76).
 - *HCV* (pre-DAA era): recurrence universal in viremic patients; 30% develop cirrhosis within 5 years; treat significant histological disease (grade 3+ necroinflammation and/or stage 2+ fibrosis or cholestatic hepatitis) with peginterferon + ribavirin; SVR confers survival benefit; liver biopsy to monitor (Recs 78–82); retransplantation for recurrent HCV considered selectively (Rec 82).
 
 **PBC/PSC/AIH post-LT**
@@ -120,13 +120,13 @@ The guideline reflects the pre-direct-acting-antiviral (DAA) era for HCV treatme
 
 **ALD post-LT**
 
-- 80% of ALD LT recipients either abstinent or minimal drinking at 5 years; 20% have harmful patterns.
+- 80% of [[alcohol-associated-liver-disease|ALD]] LT recipients either abstinent or minimal drinking at 5 years; 20% have harmful patterns.
 - Encourage abstinence; therapy/counseling if relapse; smoking cessation (Recs 87–89).
 - Monitor cardiovascular disease and aerodigestive cancer risk, especially in smokers (Rec 90).
 
 **NAFLD/NASH post-LT**
 
-- Recurrent/de novo NAFLD common; NASH-associated cirrhosis predicted to become most common LT indication by 2020–2030.
+- Recurrent/de novo [[nafld-masld|NAFLD]] common; NASH-associated cirrhosis predicted to become most common LT indication by 2020–2030.
 - Liver biopsy needed to confirm recurrent/de novo NAFLD and exclude other causes (Rec 91).
 - General measures: avoid weight gain, control hypertension and diabetes; no disease-specific treatment recommendations available (Rec 92).
 
@@ -354,3 +354,7 @@ The guideline reflects the pre-direct-acting-antiviral (DAA) era for HCV treatme
 - The guideline uses "primary biliary cirrhosis (PBC)" — now termed primary biliary cholangitis; wiki pages use updated terminology.
 - CNI trough targets may have been refined in subsequent practice but remain useful benchmarks.
 - Valganciclovir is noted as not FDA-approved for LT (only kidney transplant) — this regulatory status may have changed.
+
+## See Also
+
+[[liver-transplantation]], [[chronic-hepatitis-b]], [[hepatocellular-carcinoma]], [[alcohol-associated-liver-disease]], [[primary-sclerosing-cholangitis]], [[primary-biliary-cholangitis]], [[autoimmune-hepatitis]], [[acute-liver-failure]], [[tacrolimus]], [[calcineurin-inhibitors]], [[post-transplant-lymphoproliferative-disorder]], [[operational-tolerance]]

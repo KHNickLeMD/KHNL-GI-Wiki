@@ -33,7 +33,7 @@ Comprehensive evidence-based guideline covering diagnosis, screening, surveillan
 
 ### Screening
 
-- Single screening endoscopy for patients with chronic GERD symptoms plus ≥3 additional risk factors: male sex, age >50 yr, White race, tobacco smoking, obesity, family history of BE or EAC in a first-degree relative (conditional, very low quality).
+- Single screening [[upper-endoscopy|endoscopy]] for patients with chronic [[gerd|GERD]] symptoms plus ≥3 additional risk factors: male sex, age >50 yr, White race, tobacco smoking, obesity, family history of BE or EAC in a first-degree relative (conditional, very low quality).
 - Nonendoscopic capsule sponge device (e.g., Cytosponge) + biomarker (TFF3 or methylated DNA markers) is an acceptable alternative screening modality (conditional, very low quality). Cytosponge-TFF3 sensitivity 80%, specificity 92% in enriched case-control populations.
 - No repeat endoscopic screening after a negative index examination (conditional, low quality). Exception: esophagitis LA grade B or worse may mask BE; repeat EGD after 8–12 wk of PPI healing is appropriate.
 
@@ -52,13 +52,13 @@ Comprehensive evidence-based guideline covering diagnosis, screening, surveillan
 
 - PPI at least once daily for all BE patients without contraindications (conditional, very low quality). Meta-analysis: PPI associated with 71% reduction in HGD/EAC risk (adjusted OR 0.29).
 - No recommendation on ASA + PPI combination for chemoprevention (AspECT trial: high-dose PPI superior to low-dose for time-to-event composite; ASA benefit uncertain when NSAIDs not excluded).
-- Antireflux surgery is NOT recommended as antineoplastic therapy in BE (conditional, low quality).
+- [[antireflux-surgery|Antireflux surgery]] is NOT recommended as antineoplastic therapy in BE (conditional, low quality).
 
 ### Endoscopic Therapy (EET)
 
 - EET recommended over esophagectomy for HGD or intramucosal cancer (IMC) (strong, moderate quality). Comparable 5-year survival; EET has markedly lower adverse event rate (RR 0.38 vs esophagectomy).
 - EET suggested for confirmed LGD (conditional, moderate quality). SURF trial (RCT): RFA reduced HGD/EAC progression from 26.5% to 1.5% (P<0.001) vs surveillance over median follow-up.
-- ER of any visible lesion before ablation (conditional, very low quality). EMR upstages/downstages histology in 30–40% of patients; changes management in ~30%. EUS not routinely indicated for HGD/LGD staging.
+- ER of any visible lesion before ablation (conditional, very low quality). EMR upstages/downstages histology in 30–40% of patients; changes management in ~30%. [[endoscopic-ultrasound|EUS]] not routinely indicated for HGD/LGD staging.
 - EMR techniques: cap-assisted EMR or multiband EMR (preferred in most cases); ESD for larger lesions or post-ablation scarring.
 - RFA is the primary ablative modality (widest evidence base). Cryotherapy (spray or balloon) is an acceptable alternative, especially for RFA-refractory cases. CED/CEIM rates for cryotherapy: 81–88%/57–61% (spray); 76%/72% (cryoballoon).
 - EET at high-volume centers (conditional, very low quality). Volume-outcome effect documented; ESGE threshold: ≥10 new HGD/early EAC patients/yr per endoscopist.
@@ -121,3 +121,7 @@ This is the primary authoritative guideline for Barrett's esophagus diagnosis an
 - Optimal age to cease surveillance is not defined; modeling suggests 69–81 yr range depending on sex and comorbidities.
 - Subsquamous buried BE after RFA: yield of random biopsies from normal neosquamous epithelium is low (~1% any recurrence); significance of nondysplastic IM recurrence at GEJ after CEIM remains unclear.
 - T1b sm1 EAC: expanding role for EET in select patients (negative deep margin, well-moderate differentiation, no LVI, invasion <500 µm into submucosa); not yet standard of care.
+
+## See Also
+
+[[barretts-esophagus]], [[gerd]], [[upper-endoscopy]]

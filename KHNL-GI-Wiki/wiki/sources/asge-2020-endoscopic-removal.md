@@ -28,13 +28,13 @@ The text, recommendations, evidence grades, and authorship are identical. The AS
 
 ## Summary
 
-Comprehensive multi-society consensus on optimal techniques for endoscopic removal of colorectal lesions. Covers lesion assessment (Paris classification, LST subtypes, optical diagnosis with NICE/Kudo/JNET), resection methods by lesion size and morphology, EMR technique (inject-and-cut, underwater EMR, cold snare EMR), ESD and hybrid ESD, endoscopic full-thickness resection (eFTR), lesion marking and tattoo, post-EMR surveillance, and quality standards. Central thesis: endoscopy is first-line for all benign colorectal lesions, replacing surgical referral.
+Comprehensive multi-society consensus on optimal techniques for endoscopic removal of colorectal lesions. Covers lesion assessment (Paris classification, LST subtypes, optical diagnosis with NICE/Kudo/JNET), resection methods by lesion size and morphology, [[polypectomy-emr|EMR]] technique (inject-and-cut, underwater EMR, cold snare EMR), ESD and hybrid ESD, endoscopic full-thickness resection (eFTR), lesion marking and tattoo, post-EMR surveillance, and quality standards. Central thesis: endoscopy is first-line for all benign colorectal lesions, replacing surgical referral.
 
 ## Complete Recommendations (Verbatim / Near-Verbatim)
 
 ### Lesion Assessment
 
-**Recommendation 1 (Strong; high-quality evidence):** Endoscopists should document the location, size (in mm), and Paris classification morphology for all colorectal lesions ≥10 mm detected at colonoscopy.
+**Recommendation 1 (Strong; high-quality evidence):** Endoscopists should document the location, size (in mm), and Paris classification morphology for all colorectal lesions ≥10 mm detected at [[colonoscopy]].
 
 **Recommendation 2 (Strong; moderate-quality evidence):** Endoscopists should photo-document all colorectal lesions ≥10 mm before removal; photo-documentation of the post-resection defect is suggested.
 
@@ -180,3 +180,7 @@ Comprehensive multi-society consensus on optimal techniques for endoscopic remov
 - Cold snare EMR for large lesions: long-term recurrence data lacking
 - ESD indications in colorectum: evidence still evolving
 - Antithrombotic management for ≥20mm EMR: individualized, no strong data at time of publication
+
+## See Also
+
+[[usmstf-2020-endoscopic-removal]], [[polypectomy-emr]], [[colonoscopy]]

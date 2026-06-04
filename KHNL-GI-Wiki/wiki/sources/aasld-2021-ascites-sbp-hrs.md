@@ -23,9 +23,9 @@ sources: []
 
 Comprehensive guidance on:
 
-- Diagnosis and graded management of ascites (grade 1–3, refractory)
-- Spontaneous bacterial peritonitis (SBP) and spontaneous bacterial empyema (SBE)
-- Hepatorenal syndrome–AKI (HRS-AKI)
+- Diagnosis and graded management of [[ascites]] (grade 1–3, refractory)
+- [[spontaneous-bacterial-peritonitis|Spontaneous bacterial peritonitis]] (SBP) and spontaneous bacterial empyema (SBE)
+- [[aki-in-cirrhosis|Hepatorenal syndrome–AKI]] (HRS-AKI)
 - Hyponatremia, hepatic hydrothorax (HH), and abdominal hernias in cirrhosis
 - Pediatric considerations
 - Replaces prior AASLD 2012 guideline on same topic
@@ -38,7 +38,7 @@ Comprehensive guidance on:
 
 - Diagnostic paracentesis should be performed in all patients with new-onset ascites accessible for sampling
 - Initial ascitic fluid analysis: PMN count, total protein, albumin (for SAAG calculation), and culture
-- SAAG ≥1.1 g/dL indicates portal hypertension with ~97% accuracy
+- SAAG ≥1.1 g/dL indicates [[portal-hypertension|portal hypertension]] with ~97% accuracy
 - High ascitic fluid protein (>2.5 g/dL) supports cardiac source
 
 ### Ascites — Medical Management
@@ -46,7 +46,7 @@ Comprehensive guidance on:
 - Grade 2 ascites: moderate sodium restriction (2 g or 90 mmol/day) + spironolactone ± furosemide
 - Spironolactone starting dose 100 mg/day, titrate to 400 mg/day; furosemide starting 40 mg/day, titrate to 160 mg/day
 - NSAIDs, ACE inhibitors, ARBs, aminoglycosides should be avoided
-- Referral for liver transplant evaluation in grade 2 or 3 ascites
+- Referral for [[liver-transplantation|liver transplant]] evaluation in grade 2 or 3 ascites
 
 ### Grade 3 Ascites
 
@@ -58,7 +58,7 @@ Comprehensive guidance on:
 
 - Defined as ascites unresponsive to max-dose diuretics (furosemide 160 mg/day, spironolactone 400 mg/day) or early recurrence; divided into diuretic-resistant and diuretic-intractable subtypes
 - LVP is first-line treatment for RA
-- TIPS preferred over repeated LVP in well-selected patients (MELD <18, without advanced cardiopulmonary disease or severe hepatic encephalopathy); 8–10 mm covered stent preferred
+- TIPS preferred over repeated LVP in well-selected patients (MELD <18, without advanced cardiopulmonary disease or severe [[hepatic-encephalopathy|hepatic encephalopathy]]); 8–10 mm covered stent preferred
 - Caution with NSBBs in patients with RA and hypotension (SBP <90), hyponatremia (Na <130), or AKI
 
 ### Hyponatremia
@@ -87,7 +87,7 @@ Comprehensive guidance on:
 
 ### SBP — Prophylaxis
 
-- Secondary prophylaxis: oral ciprofloxacin 500 mg/day (norfloxacin withdrawn from US in 2014); rifaximin alternative per single-center data
+- Secondary prophylaxis: oral ciprofloxacin 500 mg/day (norfloxacin withdrawn from US in 2014); [[rifaximin]] alternative per single-center data
 - Primary prophylaxis indications: patients with acute GI hemorrhage (IV ceftriaxone for 5–7 days until hemorrhage resolved); patients with low ascitic protein (<1.5 g/dL) AND advanced liver/renal dysfunction (Child-Pugh >9 with bilirubin >3 mg/dL, or creatinine >1.2, BUN >25, or Na <130)
 
 ### HRS-AKI
@@ -159,3 +159,7 @@ Comprehensive guidance on:
 
 - [[ascites]]
 - [[spontaneous-bacterial-peritonitis]]
+
+## See Also
+
+[[ascites]], [[spontaneous-bacterial-peritonitis]], [[aki-in-cirrhosis]]

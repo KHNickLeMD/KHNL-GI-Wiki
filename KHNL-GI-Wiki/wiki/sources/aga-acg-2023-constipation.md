@@ -16,9 +16,9 @@ sources: []
 
 ## Summary
 
-This joint AGA-ACG guideline provides 10 GRADE-based recommendations for pharmacologic management of chronic idiopathic constipation (CIC) in adults. Excluded populations: IBS-C, opioid-induced constipation, malignancy-related constipation, pregnancy. The systematic review included 28 RCTs. The guideline uses a stepwise approach: OTC agents first (fiber, osmotic laxatives, stimulant laxatives), then prescription secretagogues and prokinetics when OTC agents fail.
+This joint AGA-ACG guideline provides 10 GRADE-based recommendations for pharmacologic management of [[chronic-idiopathic-constipation|chronic idiopathic constipation]] (CIC) in adults. Excluded populations: [[irritable-bowel-syndrome|IBS-C]], opioid-induced constipation, malignancy-related constipation, pregnancy. The systematic review included 28 RCTs. The guideline uses a stepwise approach: OTC agents first (fiber, osmotic laxatives, stimulant laxatives), then prescription secretagogues and prokinetics when OTC agents fail.
 
-Polyethylene glycol and bisacodyl/sodium picosulfate receive the strongest recommendations, supported by moderate-quality evidence. Linaclotide, plecanatide, and prucalopride are recommended when OTC agents fail, with strong recommendations but only moderate or low evidence quality. Lubiprostone is relegated to a conditional recommendation for patients who fail OTC agents, given its high cost and lower evidence certainty.
+Polyethylene glycol and bisacodyl/sodium picosulfate receive the strongest recommendations, supported by moderate-quality evidence. [[linaclotide|Linaclotide]], [[plecanatide]], and [[prucalopride]] are recommended when OTC agents fail, with strong recommendations but only moderate or low evidence quality. [[lubiprostone|Lubiprostone]] is relegated to a conditional recommendation for patients who fail OTC agents, given its high cost and lower evidence certainty.
 
 Monthly cost comparisons were explicitly incorporated into recommendations as a pragmatic consideration: OTC agents cost <$50/month while secretagogues and prokinetics range $374–$563/month.
 
@@ -78,3 +78,7 @@ Monthly cost comparisons were explicitly incorporated into recommendations as a 
 - Guideline does not address when to pursue anorectal physiology testing (see [[acg-2021-anorectal-disorders]] for defecation disorder evaluation)
 - No head-to-head comparisons between secretagogues; choice among linaclotide/plecanatide/prucalopride based on mechanism preference and patient factors
 - Linaclotide 72 mcg (CIC dose) vs 290 mcg (IBS-C dose): this guideline covers CIC dosing only
+
+## See Also
+
+[[chronic-idiopathic-constipation]], [[defecation-disorders]], [[prucalopride]], [[linaclotide]], [[plecanatide]], [[acg-2021-anorectal-disorders]]

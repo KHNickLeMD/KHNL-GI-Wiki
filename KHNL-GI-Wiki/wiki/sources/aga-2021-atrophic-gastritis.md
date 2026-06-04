@@ -21,9 +21,9 @@ sources: []
 
 ## Summary
 
-This Clinical Practice Update fills a gap left by the 2020 AGA GIM guidelines by providing a US-focused framework for the diagnosis and management of atrophic gastritis (AG), a preneoplastic condition defined as loss of gastric glands (with or without metaplasia) on a background of chronic inflammation. The two dominant etiologies are H. pylori infection (HpAG) and autoimmunity (autoimmune gastritis, AIG). The document presents 12 Best Practice Advice (BPA) statements developed from published evidence and expert consensus, without formal evidence grading.
+This Clinical Practice Update fills a gap left by the 2020 AGA GIM guidelines by providing a US-focused framework for the diagnosis and management of atrophic gastritis (AG), a preneoplastic condition defined as loss of gastric glands (with or without metaplasia) on a background of chronic inflammation. The two dominant etiologies are [[helicobacter-pylori-infection|H. pylori]] infection (HpAG) and autoimmunity (autoimmune gastritis, AIG). The document presents 12 Best Practice Advice (BPA) statements developed from published evidence and expert consensus, without formal evidence grading.
 
-The update emphasizes that AG is significantly underdiagnosed in the United States, partly because intestinal metaplasia (IM) on biopsy — the most common histopathologic manifestation of AG — is often not explicitly linked to AG in pathology reports. The document clarifies that IM on gastric histology almost invariably implies underlying AG. It calls for coordinated effort between gastroenterologists and pathologists to improve documentation of AG severity and extent using validated staging systems (OLGA and OLGIM), which are not yet widely adopted in the United States.
+The update emphasizes that AG is significantly underdiagnosed in the United States, partly because [[gastric-intestinal-metaplasia|intestinal metaplasia]] (IM) on biopsy — the most common histopathologic manifestation of AG — is often not explicitly linked to AG in pathology reports. The document clarifies that IM on gastric histology almost invariably implies underlying AG. It calls for coordinated effort between gastroenterologists and pathologists to improve documentation of AG severity and extent using validated staging systems (OLGA and OLGIM), which are not yet widely adopted in the United States.
 
 The management section addresses H. pylori test-and-treat as foundational for all AG patients regardless of etiology, endoscopic surveillance intervals stratified by AG severity and etiology, management of type I gastric neuroendocrine tumors (NETs) arising from hypergastrinemia, and evaluation and treatment of micronutrient deficiencies (iron, vitamin B-12). Autoimmune gastritis is addressed distinctly, with guidance on serologic workup (parietal cell antibodies, intrinsic factor antibodies), recognition of pernicious anemia as a late-stage AIG complication, and screening for associated autoimmune conditions (especially autoimmune thyroid disease).
 
@@ -42,7 +42,7 @@ The management section addresses H. pylori test-and-treat as foundational for al
 - H. pylori infection increases AG incidence rate ratio 5.0-fold (95% CI 3.1–8.3); AG incidence <1%/year in H. pylori–negative individuals
 - AIG prevalence: 0.5%–2%; increases with age, female sex, presence of other autoimmune diseases
 - PA prevalence: 0.15%–1% (rare late-stage AIG complication)
-- Risk of progression from AG to gastric adenocarcinoma: 0.1%–0.3%/year (comparable to nondysplastic Barrett's or low-risk colorectal adenomas)
+- Risk of progression from AG to [[gastric-adenocarcinoma|gastric adenocarcinoma]]: 0.1%–0.3%/year (comparable to nondysplastic [[barretts-esophagus|Barrett's]] or low-risk colorectal adenomas)
 - PA confers ~7-fold higher relative risk of gastric cancer (most studies: 2–4-fold)
 - Type I gastric NET incidence in chronic AG: 0.4%–0.7%/year
 
@@ -72,12 +72,12 @@ The management section addresses H. pylori test-and-treat as foundational for al
 
 - Advanced AG: surveillance every 3 years
 - AIG: individualized; ESGE recommends every 3–5 years
-- New pernicious anemia diagnosis: upper endoscopy within 6 months
+- New pernicious anemia diagnosis: [[upper-endoscopy|upper endoscopy]] within 6 months
 
 ### Type I Gastric NETs (BPA 10)
 
 - NETs <1 cm: endoscopic resection; surveillance every 1–2 years
-- NETs 1–2 cm: consider EUS for staging
+- NETs 1–2 cm: consider [[endoscopic-ultrasound|EUS]] for staging
 - NETs >2 cm, submucosal invasion, or LN metastasis: surgical resection
 - Metastasis rate <10% for NETs ≤2 cm; ~20% for NETs >2 cm
 
@@ -131,3 +131,7 @@ The management section addresses H. pylori test-and-treat as foundational for al
 - **OLGA/OLGIM not widely adopted in the US:** advocated for but not yet in common practice
 - **Serum pepsinogen testing unavailable in the US:** validated biomarker for severe corpus atrophy used in East Asian screening but not available for routine US clinical use
 - **H. pylori "point of no return":** threshold of irreversibility and which patients benefit most from eradication in terms of cancer risk reduction remain undefined
+
+## See Also
+
+[[atrophic-gastritis]], [[gastric-premalignant-conditions]], [[helicobacter-pylori-infection]], [[upper-endoscopy]], [[endoscopic-ultrasound]]

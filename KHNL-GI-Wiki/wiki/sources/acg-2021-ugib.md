@@ -21,7 +21,7 @@ sources: []
 
 ## Summary
 
-A systematic-review-based ACG clinical practice guideline covering management of **overt upper gastrointestinal bleeding (UGIB)** — defined as hematemesis, melena, or hematochezia from a source in the esophagus, stomach, or duodenum. The guideline uses GRADE methodology and addresses 16 clinical questions from initial risk stratification through endoscopic hemostasis and post-endoscopic management. Recommendations for endoscopic therapy and postendoscopic management are specifically restricted to **ulcer bleeding** (the most common etiology and the diagnosis with the most RCT data).
+A systematic-review-based ACG clinical practice guideline covering management of **overt upper gastrointestinal bleeding (UGIB)** — defined as hematemesis, melena, or hematochezia from a source in the esophagus, stomach, or duodenum. The guideline uses GRADE methodology and addresses 16 clinical questions from initial risk stratification through endoscopic hemostasis and post-endoscopic management. Recommendations for endoscopic therapy and postendoscopic management are specifically restricted to **[[peptic-ulcer-disease|ulcer bleeding]]** (the most common etiology and the diagnosis with the most RCT data).
 
 Key advances over the 2012 guideline include: (1) raising the GBS threshold for very-low-risk discharge from 0 to 0–1; (2) endorsing intermittent PPI regimens as equivalent to continuous infusion; (3) new recommendations for hemostatic powder spray TC-325 and over-the-scope clips; and (4) preferring transcatheter arterial embolization (TAE) over surgery for failed endoscopic therapy.
 
@@ -53,7 +53,7 @@ UGIB accounts for over half a million hospitalizations annually in the U.S. and 
 
 ### Endoscopy Timing
 
-- **Endoscopy within 24 hours of presentation** for all hospitalized UGIB patients (conditional, very-low-quality evidence)
+- **[[upper-endoscopy|Endoscopy]] within 24 hours of presentation** for all hospitalized UGIB patients (conditional, very-low-quality evidence)
 - No RCT directly tested 24-hour vs. >24-hour endoscopy; observational data show shorter hospital stay and possible mortality/surgery benefit with endoscopy within 1 day
 - Large RCT (Lau et al. NEJM 2020, N=516, GBS ≥12): urgent endoscopy within 6 hours vs. 6–24 hours — no reduction in further bleeding (10.9% vs. 7.8%) or mortality (8.9% vs. 6.6%); actual endoscopy times were means of 10 and 25 hours from presentation
 - Danish cohort: harm signal with very early endoscopy in hemodynamically unstable patients — endoscopy 6–24 hours after admission showed lowest mortality in this group
@@ -159,3 +159,7 @@ UGIB accounts for over half a million hospitalizations annually in the U.S. and 
 - **Optimal intermittent PPI dosing**: RCT evidence comes predominantly from Asian cohorts; western populations may require higher doses due to pharmacodynamic differences in acid suppression
 - **TAE vs. surgery**: No RCTs — evidence entirely observational (meta-analysis of 13 observational studies + 1 population-based cohort); selection bias likely
 - **Machine learning risk tools (Shung model)**: Shows promise with higher specificity than GBS at equivalent sensitivity, but validated in only 1 setting at time of publication
+
+## See Also
+
+[[upper-gi-bleeding]], [[variceal-upper-gi-bleeding]], [[anticoagulation-gi-bleeding]]

@@ -22,7 +22,7 @@ sources: []
 
 ## Summary
 
-An updated ACG clinical practice guideline on acute lower gastrointestinal bleeding (LGIB), defined as hematochezia or bright red blood per rectum from a **colorectal source** (excluding small bowel bleeding, which is a separate entity). The guideline covers risk stratification, resuscitation, reversal of anticoagulation, diagnostic testing (colonoscopy and CTA), timing of colonoscopy, endoscopic treatment, and post-discharge antithrombotic management.
+An updated ACG clinical practice guideline on acute lower gastrointestinal bleeding (LGIB), defined as hematochezia or bright red blood per rectum from a **colorectal source** (excluding [[small-bowel-bleeding|small bowel bleeding]], which is a separate entity). The guideline covers risk stratification, resuscitation, reversal of [[anticoagulation-gi-bleeding|anticoagulation]], diagnostic testing ([[colonoscopy]] and CTA), timing of colonoscopy, endoscopic treatment, and post-discharge antithrombotic management.
 
 Key departure from the 2016 guideline: the panel now recommends **against urgent colonoscopy within 24 hours** for most hospitalized patients, citing two RCTs showing no benefit — and one showing harm — compared with elective (24–96 hour) colonoscopy.
 
@@ -33,7 +33,7 @@ Key departure from the 2016 guideline: the panel now recommends **against urgent
 ### Epidemiology and Risk Factors
 
 - Over 100,000 hospital admissions for LGIB annually in the U.S.; 271,575 ED visits in 2018
-- Incidence of LGIB now exceeds UGIB in population-based studies (Finland, Hong Kong)
+- Incidence of LGIB now exceeds [[upper-gi-bleeding|UGIB]] in population-based studies (Finland, Hong Kong)
 - Median age of LGIB patients: 74 years (vs. 68 years for UGIB)
 - Overall incidence estimated 33–87 per 100,000
 - Risk factors: NSAIDs (HR 8.61), aspirin (HR 2.75), P2Y12 inhibitors, anticoagulants
@@ -44,7 +44,7 @@ Key departure from the 2016 guideline: the panel now recommends **against urgent
 ### Etiology
 
 - Diverticular bleeding: most common (26% in UK audit; up to 64% in Japanese cohorts with high colonoscopy use)
-- Other etiologies: ischemic colitis, hemorrhoids, angioectasias, colorectal neoplasia, postpolypectomy bleeding, IBD-related colitis (including [[crohns-disease]] and [[ulcerative-colitis]]), infectious colitis, radiation proctopathy, rectal/NSAID-induced ulcers, Dieulafoy lesion, colorectal varices
+- Other etiologies: [[colon-ischemia|ischemic colitis]], [[hemorrhoids]], [[angioectasia|angioectasias]], [[colorectal-cancer|colorectal neoplasia]], postpolypectomy bleeding, IBD-related colitis (including [[crohns-disease]] and [[ulcerative-colitis]]), infectious colitis, radiation proctopathy, rectal/NSAID-induced ulcers, Dieulafoy lesion, colorectal varices
 - No diagnosed etiology in 23% of UK audit cases (low colonoscopy utilization); rates as low as 5% in high-colonoscopy cohorts
 
 ### Risk Stratification
@@ -240,3 +240,7 @@ Key departure from the 2016 guideline: the panel now recommends **against urgent
 - **EBL vs. clipping:** Most EBL data from Japanese cohorts with predominantly right-sided diverticulosis; may not generalize to Western populations with left-sided predominance
 - **Optimal anticoagulant resumption timing:** Recommended within 7 days but based on expert opinion extrapolated from GIB literature broadly, not LGIB-specific RCTs
 - **Low-volume bowel prep for urgent colonoscopy:** Promising but requires larger RCT validation
+
+## See Also
+
+[[crohns-disease]], [[ulcerative-colitis]], [[polypectomy-emr]], [[acute-lower-gi-bleeding]], [[variceal-upper-gi-bleeding]]

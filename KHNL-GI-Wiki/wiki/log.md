@@ -17,6 +17,13 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 **Stray `concepts/` folder merged and removed:**
 - A prior lint had created `wiki/concepts/` with 162 empty auto-generated stubs (not part of the schema). Resolved: 140 were exact duplicates of existing pages (deleted; links resolve by basename); 8 repointed to canonical pages under different slugs (`barrett-esophagus`→`barretts-esophagus`, `esophageal-manometry`/`hrem`→`high-resolution-manometry`, `hepatorenal-syndrome-aki`→`aki-in-cirrhosis`, `gastric-dysplasia`→`gastric-premalignant-conditions`, `pcab`→`vonoprazan`, `intrahepatic-cholestasis-of-pregnancy`→`liver-disease-in-pregnancy`, `mesenteric-ischemia`→`acute-mesenteric-ischemia`); 12 genuine gaps relocated to correct schema folders as stubs (`cholangiocarcinoma`, `gastric-adenocarcinoma`, `rectal-prolapse`, `acute-mesenteric-ischemia`, `mesenteric-artery-aneurysm`, `li-rads`, `colonoscopy-surveillance`, `hcc-surveillance`, `antireflux-surgery`, `sacral-nerve-stimulation`, `biofeedback-therapy`, `lubiprostone`); 2 junk stubs deleted (an image-embed `.png.md`, `wiki-links`). Folder removed.
 
+**Inline cross-linking pass (subagents):**
+- Ran the new inline-linking convention across all 80 disease-script pages (3 parallel subagents) and most concept/med/schema/procedure pages (2 subagents, interrupted by session limit). First-mention entity names in body text are now `[[slug|words]]` links. Total wiki links now ~3,424; 0 broken links in content pages (verified).
+- Completed `## See Also` standardization wiki-wide deterministically (derived from each page's body links + frontmatter sources): now present on 229/244 content pages (remaining 15 are empty stubs or link-less source pages).
+- Fixed real broken links found during validation: `[[raw/...Gastroparesis]]` → `[[gastroparesis]]` (dyspepsia, poem, acg-cag-2017-dyspepsia), a full-path `wiki/...` link, and unlinked a non-existent `esophageal-dilation` reference.
+- Inline-linked all 94 `sources/` summary pages (4 parallel subagents; 0 broken links, verified).
+- **Remaining for a future pass:** candidate new stub pages surfaced by subagents (e.g. TIPS, UDCA/tenofovir/entecavir/NAC/carvedilol and the IBD biologics as med pages, zollinger-ellison-syndrome, microscopic-colitis, esophageal-adenocarcinoma, gastric-net, EGJOO) — reported, not auto-created to avoid re-bloating the wiki.
+
 **Cross-reference standardization:**
 - Standardized 39 bottom cross-reference sections to the new format: a single `## See Also` heading followed by one comma-delimited line of wiki links (consolidated from `Related Pages`, `Cross-References`, `Related Wiki Pages`, and bulleted variants).
 

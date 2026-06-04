@@ -16,7 +16,7 @@ sources: []
 
 ## Summary
 
-This ACG clinical guideline covers the full spectrum of alcohol-associated liver disease (ALD), from hepatic steatosis through alcohol-associated hepatitis (AH) to cirrhosis. It provides evidence-based recommendations for diagnosis, severity stratification, medical management, and liver transplantation.
+This ACG clinical guideline covers the full spectrum of alcohol-associated liver disease (ALD), from hepatic steatosis through alcohol-associated hepatitis (AH) to cirrhosis. It provides evidence-based recommendations for diagnosis, severity stratification, medical management, and [[liver-transplantation|liver transplantation]].
 
 Alcohol-associated hepatitis is defined by the rapid onset of jaundice and liver failure in the setting of heavy ongoing alcohol use. Diagnosis is clinical in most cases (no liver biopsy required if criteria are met), and severity is stratified using the Maddrey Discriminant Function (MDF) or MELD score. Severe AH (MELD ≥20 or MDF ≥32) carries substantial short-term mortality and warrants treatment with prednisolone 40 mg/day for 28 days. The Lille score at day 7 identifies non-responders (≥0.45), in whom steroids should be discontinued.
 
@@ -26,7 +26,7 @@ Early liver transplantation (ELT) without requiring 6 months of abstinence is in
 
 ## Key Findings / Claims
 
-- **ALD spectrum:** hepatic steatosis (reversible) → alcoholic hepatitis → fibrosis → cirrhosis → HCC
+- **ALD spectrum:** hepatic steatosis (reversible) → alcoholic hepatitis → fibrosis → cirrhosis → [[hepatocellular-carcinoma|HCC]]
 - **AH diagnosis criteria:** jaundice (onset within 60 days of heavy use), AST/ALT ratio >1.5 (AST <500, ALT <400 typically), elevated bilirubin, elevated INR/PT — clinical diagnosis; biopsy not required if criteria met
 - **Severity stratification:**
   - Mild–moderate: MELD <20 or MDF <32
@@ -42,7 +42,7 @@ Early liver transplantation (ELT) without requiring 6 months of abstinence is in
   - Standard: requires medical stability and psychosocial evaluation; 6-month abstinence rule being superseded by evidence
   - Early liver transplantation (ELT): supported for selected severe AH non-responders — first presentation, strong social support, no other organ failure precluding transplant, commitment to abstinence post-transplant
 - **Nutritional support:** malnutrition common in severe AH; enteral nutrition preferred; high-protein diet
-- **Contraindications to steroids:** active infection (including SBP, sepsis), active GI bleeding, HBV coinfection (risk of reactivation), acute kidney injury (relative)
+- **Contraindications to steroids:** active infection (including [[spontaneous-bacterial-peritonitis|SBP]], sepsis), active GI bleeding, HBV coinfection (risk of reactivation), acute kidney injury (relative)
 
 ## Recommendations
 
@@ -78,3 +78,7 @@ Early liver transplantation (ELT) without requiring 6 months of abstinence is in
 - Role of pentoxifylline: NOT recommended by this guideline (prior RCTs showed no benefit); contradicts older practice
 - Optimal AUD pharmacotherapy in cirrhosis: evidence remains limited; baclofen recommendation based on smaller studies
 - ELT criteria and centers performing it are not uniformly defined; remains center-specific
+
+## See Also
+
+[[alcohol-associated-liver-disease]]
