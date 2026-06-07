@@ -8,7 +8,7 @@ This encyclopedia covers clinical gastroenterology and hepatology, with an empha
 
 ## How It Was Made
 
-This wiki was built using **Obsidian** as the backbone — a local markdown-based note-taking app that stores all content as plain text files. **Claude AI** acts as an LLM wiki agent that reads primary sources (guidelines, RCTs, review articles) and synthesizes them into structured knowledge pages.
+This wiki was built using **Obsidian** as the backbone — a local markdown-based note-taking app that stores all content as markdown files. **Claude AI** acts as an LLM wiki agent that reads primary sources (guidelines, RCTs, review articles) and synthesizes them into structured knowledge pages.
 
 For each ingested source, Claude extracts key findings, identifies which disease entities or concepts are affected, and creates or updates the relevant wiki pages — preserving full verbatim GRADE recommendations from guidelines. Cross-references between pages are maintained using Obsidian wiki-links (`[[page-slug]]`), creating a connected knowledge graph. A lint process periodically checks for contradictions, orphan pages, and missing links.
 
@@ -65,8 +65,28 @@ The result is a compounding, evidence-linked reference that grows with each new 
 ### ⚠️ Stubs
 Pages that have been created (because a wiki-link references them, or a source mentions the topic) but whose content has not yet been fully written. Stub pages are flagged visually in the website with a yellow warning banner. They are placeholders that will be expanded when a relevant source is ingested or when the topic is manually developed. A stub contains at minimum a title and frontmatter so the wiki-link graph is connected.
 
+---
+## About Me - Khanh Hoang Nicholas Le
+
+Welcome to my website - call me Nick! I am a gastroenterology fellow at Keck USC/LA General Medical Center. Both in and outside of medicine, I love evolving technology, quality improvement, productivity, and medical education.
+With my passions, I wanted to create a reliable, high quality resource for healthcare professionals to learn, reference, and develop their knowledge in the beautiful field of GI and Hepatology. 
 
 ---
+## Development Timeline
+
+---
+
+# How to Use
+
+## Navigation Tips
+
+- Click any **section name** in the sidebar to open its table of contents
+- Click the **›** chevron to expand a section dropdown and browse individual pages
+- Click **[[wiki-links]]** within any page to navigate to related pages
+- Click the **📚 N sources** badge on any page to see which sources back it
+- Use the **search bar** to find pages. It does two things at once: instant keyword matching, plus a **semantic search** that understands meaning — so searching *"liver scarring"* surfaces cirrhosis and fibrosis-related notes even when those exact words aren't on the page
+	- Results tagged with a green **`related`** badge were matched by meaning rather than exact wording. The first search after loading the site takes a moment while the small AI model downloads (then it's cached and instant)
+- Click any **#tag** to search for related pages
 
 ## Graph View
 
@@ -85,18 +105,6 @@ Each node represents one wiki page. Edges represent `[[wiki-links]]` — when a 
 - Color-coded nodes by section with a legend
 
 The graph runs a continuous physics simulation — repulsion forces push nodes apart, link attraction pulls connected nodes together, and a center gravity keeps the layout visible. No external libraries are required.
-
----
-
-## Navigation Tips
-
-- Click any **section name** in the sidebar to open its table of contents
-- Click the **›** chevron to expand a section dropdown and browse individual pages
-- Click **[[wiki-links]]** within any page to navigate to related pages
-- Click the **📚 N sources** badge on any page to see which sources back it
-- Use the **search bar** to find pages. It does two things at once: instant keyword matching, plus **AI concept search** that understands meaning — so searching *"liver scarring"* surfaces cirrhosis and fibrosis-related notes even when those exact words aren't on the page
-- Results tagged with a green **`related`** badge were matched by meaning rather than exact wording. The first search after loading the site takes a moment while the small AI model downloads (then it's cached and instant)
-- Click any **#tag** to search for related pages
 
 ---
 
