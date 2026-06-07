@@ -4,7 +4,7 @@ category: diagnostic-schema
 tags: [pregnancy, liver-disease, ihcp, intrahepatic-cholestasis, aflp, acute-fatty-liver, hellp, hyperemesis-gravidarum, preeclampsia, eclampsia, hepatitis-b, hepatitis-c, hpb, liver]
 created: 2026-05-19
 updated: 2026-05-19
-sources: [acg-2016-liver-disease-pregnancy]
+sources: [acg-2016-liver-disease-pregnancy, aasld-2021-reproductive-liver]
 ---
 
 ## Definition / Scope
@@ -368,4 +368,4 @@ See also: [[wilson-disease]]
 
 ## See Also
 
-[[abnormal-liver-chemistries]], [[acute-liver-failure]], [[chronic-hepatitis-b]], [[hepatitis-c-in-pregnancy]], [[autoimmune-hepatitis]], [[primary-biliary-cholangitis]], [[wilson-disease]], [[drug-induced-liver-injury]], [[nafld-masld]], [[portal-hypertension]], [[variceal-upper-gi-bleeding]], [[liver-transplantation]], [[ercp]], [[acg-2016-liver-disease-pregnancy]]
+[[abnormal-liver-chemistries]], [[acute-liver-failure]], [[chronic-hepatitis-b]], [[hepatitis-c-in-pregnancy]], [[autoimmune-hepatitis]], [[primary-biliary-cholangitis]], [[wilson-disease]], [[drug-induced-liver-injury]], [[nafld-masld]], [[portal-hypertension]], [[variceal-upper-gi-bleeding]], [[liver-transplantation]], [[ercp]], [[acg-2016-liver-disease-pregnancy]], [[aasld-2021-reproductive-liver]]

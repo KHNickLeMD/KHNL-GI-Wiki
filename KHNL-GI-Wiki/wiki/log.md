@@ -6,6 +6,85 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-06-05] ingest | ASGE 2023 Ergonomics in Endoscopy
+
+**Sources created:**
+- `[[asge-2023-ergonomics]]` — all 5 GRADE recommendations verbatim (2 strong: ergonomics education, neutral monitor position, + neutral bed height; 2 conditional: micro/macrobreaks, antifatigue mats), plus epidemiology and expert-opinion considerations (hand size, lead aprons, scope maintenance).
+
+**Pages created:**
+- Concept: `[[endoscopy-ergonomics]]` — ERI epidemiology (57.7% pooled rate), risk factors (female OR 1.79, procedure volume), neutral posture, and the five interventions with specifics.
+
+**Notes:** Final ingest of the high-value backlog. The originating subagent hit the session limit after writing the source page but before the concept page; orchestrator completed the concept page and index/log entries so the ingest was not left partial.
+
+**Remaining raw guidelines are all superseded older editions** (AASLD 2011 ALF/HCC/Hemochromatosis, AASLD-IDSA 2011 HCV, ACG 2013 EoE, ACG 2014 Lynch, ACG 2014 Bowel Cleansing, ACG 2017 IBD Preventive Care, ACG 2018 Crohn's, ACG 2018 IBS, ACG 2019 UC) — newer editions of each are already ingested. Left uningested intentionally to avoid stale/contradictory entity content; await user direction on whether to capture as historical source pages.
+
+---
+
+## [2026-06-04] ingest | 5-guideline parallel ingest (ASGE 2018 Barrett's EET, ASGE 2019 Barrett's Screening/Surveillance, ASGE 2023 Post-Transplant Biliary Strictures, AGA 2021 Crohn's pharm, AASLD 2009 Liver Biopsy)
+
+**Sources created:**
+- `[[asge-2018-barretts-eet]]` — 7 GRADE recs verbatim; EET over esophagectomy for HGD/IMC; resect visible lesions before ablation; strong against complete EMR.
+- `[[asge-2019-barretts-screening-surveillance]]` — 6 GRADE statements; at-risk screening strata; chromoendoscopy + Seattle protocol; against routine EUS/CLE; WATS-3D adjunct.
+- `[[asge-2023-post-transplant-biliary-strictures]]` — 4 conditional GRADE recs; ERCP over PTBD (8.47× allograft-failure odds); cSEMS over multiple plastic stents.
+- `[[aga-2021-crohns-pharm]]` — 11 recommendation groups verbatim; foundational, largely superseded for drug positioning by `[[aga-2025-crohns-pharm]]`/`[[acg-2025-crohns]]`.
+- `[[aasld-2009-liver-biopsy]]` — 34 graded recs; no validated INR/platelet cutoff predicts bleeding; ideal specimen ~3 cm/16-gauge/>11 portal tracts.
+
+**Pages created:**
+- Procedures: `[[endoscopic-eradication-therapy]]`, `[[radiofrequency-ablation]]` (stub).
+- Disease scripts: `[[esophageal-adenocarcinoma]]` (stub; resolves pre-existing dangling links from Barrett's source pages; cross-linked to `[[esophageal-cancer]]`).
+- Concepts: `[[liver-biopsy]]`.
+
+**Pages updated:**
+- `[[barretts-esophagus]]` — ASGE screening strata, advanced-imaging GRADE positions, EET indication grades, EMR-first, post-CE-IM surveillance.
+- `[[biliary-stricture]]` + `[[liver-transplantation]]` + `[[ercp]]` — post-LT anastomotic vs non-anastomotic stricture management.
+- `[[crohns-disease]]` — 2021 AGA positioning (anti-TNF response framework, combo therapy, natalizumab against), flagged as superseded by 2025.
+
+**Notes:** 5 parallel ingest subagents (one handled both Barrett's docs to avoid write conflict). One subagent exceeded its brief — reorganized index.md Sources into society sub-headers and authored the 4 diagnostic schemas logged below; all prior index entries verified preserved. Pre-existing index gap surfaced: Sources section lists ~103 of 143 source pages — flagged for a future lint reconciliation.
+
+---
+
+## [2026-06-04] update | New diagnostic schemas (dysphagia, chronic diarrhea, nausea & vomiting, jaundice)
+
+**Pages created (diagnostic schemas):**
+- `[[dysphagia]]` — oropharyngeal vs. esophageal localization, solids-vs-liquids discriminator, EGD-first algorithm with mandatory EoE biopsies, HRM/FLIP for normal-EGD motility workup, alarm features.
+- `[[chronic-diarrhea]]` — >4 wk definition, watery/inflammatory/fatty + secretory/osmotic classification with stool osmotic gap, calprotectin-guided algorithm, microscopic colitis/bile acid diarrhea/celiac/EPI workup, positive IBS-D diagnosis.
+- `[[nausea-and-vomiting]]` — vs. regurgitation/rumination, acute/chronic split, GI/CNS/metabolic/functional DDx, mandatory pregnancy test, EGD + 4-hr gastric emptying, CVS/CHS recognition.
+- `[[jaundice]]` — bilirubin fractionation, hemolysis vs. Gilbert, R-ratio hepatocellular vs. cholestatic, RUQ US → MRCP/EUS/ERCP for biliary dilation, cholangitis/painless-jaundice red flags.
+
+**Stubs created (to support inline links):**
+- `[[esophageal-cancer]]`, `[[microscopic-colitis]]`, `[[bile-acid-diarrhea]]`, `[[choledocholithiasis]]`
+
+**Index updated:** added 4 schemas under Diagnostic Schemas + 4 disease-script stubs in their subcategories.
+
+**Notes:** Schemas authored from established GI knowledge (no new source ingested; `sources: []`). All inline links resolved against existing pages or newly created stubs; each page includes a Contents TOC, mermaid algorithm, and standardized See Also line.
+
+---
+
+## [2026-06-04] ingest | 4-guideline parallel ingest (ASGE 2022 Pancreatic Cancer Screening, ASGE 2023 Indeterminate Biliary Strictures, AGA 2021 Intragastric Balloons, AGA 2020 Probiotics)
+
+**Sources created:**
+- `[[asge-2022-pancreatic-cancer-screening]]` — all 5 GRADE recommendations + condition-specific starting-age table verbatim; all BRCA1/2 carriers screened regardless of family history.
+- `[[asge-2023-indeterminate-biliary-strictures]]` — all 3 GRADE recommendations verbatim (fluoroscopic biopsy + brush cytology; cholangioscopy for nondistal; EUS for distal/nodal/nondiagnostic).
+- `[[aga-2021-intragastric-balloons]]` — all 7 GRADE recommendations (2 strong: concomitant lifestyle, PPI prophylaxis).
+- `[[aga-2020-probiotics]]` — all 8 GRADE recommendations (FOR/AGAINST/no-rec by condition).
+
+**Pages created:**
+- Disease scripts: `[[pancreatic-cancer]]` (full ADDT PDAC), `[[hereditary-pancreatitis]]` (stub), `[[pouchitis]]` (stub).
+- Concepts: `[[pancreatic-cancer-screening]]`, `[[mri-mrcp]]`, `[[brca-pathogenic-variants]]`, `[[familial-pancreatic-cancer]]`, `[[fammm-syndrome]]`, `[[brush-cytology]]`, `[[fish]]`, `[[confocal-laser-endomicroscopy]]`, `[[probiotics]]`, `[[obesity]]`.
+- Procedures: `[[intragastric-balloon]]`, `[[bariatric-surgery]]` (stub), `[[cholangioscopy]]`.
+
+**Pages updated:**
+- `[[cholangiocarcinoma]]` — expanded from stub to full ADDT with diagnostic modality-sensitivity table and transplant needle-track-seeding caution.
+- `[[biliary-stricture]]` — multimodality sampling sensitivities and location-based tissue-acquisition recommendations.
+
+**Key contributions:**
+- Combined-modality biliary sampling sensitivities: brush cytology ~0.40, +fluoroscopic biopsy ~0.66, +cholangioscopy ~0.72, +EUS ~0.88 (all conditional/very-low-quality).
+- AGA "against probiotics in pediatric acute gastroenteritis" conflicts with older ESPGHAN/IDSA positions (flagged on `[[probiotics]]`).
+
+**Method:** 4 parallel ingest subagents; shared writes (index/log) consolidated centrally.
+
+---
+
 ## [2026-06-03] lint | Vault corruption recovery + concepts/ merge + cross-ref standardization
 
 **Critical fix — vault-wide newline corruption:**

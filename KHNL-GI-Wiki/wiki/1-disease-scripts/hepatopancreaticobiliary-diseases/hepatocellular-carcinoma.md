@@ -4,7 +4,7 @@ category: disease-script
 tags: [hcc, hepatocellular, liver, cancer, hpb, surveillance, cirrhosis, hbv, adjuvant, immunotherapy, liver-transplant, milan-criteria, afp, downstaging, mtor-inhibitor, sirolimus, everolimus, bclc, sorafenib, lenvatinib, atezolizumab, bevacizumab, tace, tare, ablation, resection, li-rads, locoregional]
 created: 2026-05-16
 updated: 2026-05-28
-sources: ["[[aasld-2023-hcc]]", "[[aasld-2025-hcc-critical-update]]", "[[aasld-ast-2025-liver-transplant-candidate-evaluation]]", "[[aasld-ast-2025-liver-transplant-graft-complications]]"]
+sources: ["[[aasld-2023-hcc]]", "[[aasld-2025-hcc-critical-update]]", "[[aasld-ast-2025-liver-transplant-candidate-evaluation]]", "[[aasld-ast-2025-liver-transplant-graft-complications]]", "[[aga-2022-hcc-systemic]]"]
 ---
 
 ## Contents
@@ -469,4 +469,4 @@ Advance care planning (ACP) should be offered to all patients receiving palliati
 
 ## See Also
 
-[[liver-transplantation]], [[portal-hypertension]], [[chronic-hepatitis-b]], [[hepatitis-c]], [[alcohol-associated-liver-disease]], [[nafld-masld]], [[hereditary-hemochromatosis]], [[wilson-disease]], [[autoimmune-hepatitis]], [[immune-checkpoint-inhibitor-hepatitis]], [[hepatocellular-adenoma]], [[focal-nodular-hyperplasia]], [[hepatic-hemangioma]], [[hepatic-cysts]], [[budd-chiari-syndrome]], [[post-transplant-lymphoproliferative-disorder]], [[cholangiocarcinoma]], [[li-rads]], [[hcc-surveillance]], [[calcineurin-inhibitors]], [[aasld-2023-hcc]], [[aasld-2025-hcc-critical-update]]
+[[liver-transplantation]], [[portal-hypertension]], [[chronic-hepatitis-b]], [[hepatitis-c]], [[alcohol-associated-liver-disease]], [[nafld-masld]], [[hereditary-hemochromatosis]], [[wilson-disease]], [[autoimmune-hepatitis]], [[immune-checkpoint-inhibitor-hepatitis]], [[hepatocellular-adenoma]], [[focal-nodular-hyperplasia]], [[hepatic-hemangioma]], [[hepatic-cysts]], [[budd-chiari-syndrome]], [[post-transplant-lymphoproliferative-disorder]], [[cholangiocarcinoma]], [[li-rads]], [[hcc-surveillance]], [[calcineurin-inhibitors]], [[aasld-2023-hcc]], [[aasld-2025-hcc-critical-update]], [[aga-2022-hcc-systemic]]

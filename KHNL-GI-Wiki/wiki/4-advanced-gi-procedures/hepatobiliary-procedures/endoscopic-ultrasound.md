@@ -4,7 +4,7 @@ category: advanced-procedure
 tags: [eus, endoscopic-ultrasound, fna, fnb, pancreatic-mass, pancreatic-cysts, ipmn, mcn, biliary-drainage, eus-guided-drainage, quality-indicators, gastroenterostomy]
 created: 2026-05-07
 updated: 2026-05-19
-sources: [acg-2025-eus-quality, acg-2018-pancreatic-cysts]
+sources: [acg-2025-eus-quality, acg-2018-pancreatic-cysts, asge-2024-solid-pancreatic-masses]
 ---
 
 # Endoscopic Ultrasound (EUS) — Quality Standards
@@ -141,4 +141,4 @@ See [[pancreatic-cysts]] for full diagnostic algorithm and surveillance interval
 
 ## See Also
 
-[[acg-2025-eus-quality]], [[acg-2018-pancreatic-cysts]], [[pancreatic-cysts]]
+[[acg-2025-eus-quality]], [[acg-2018-pancreatic-cysts]], [[pancreatic-cysts]], [[asge-2024-solid-pancreatic-masses]]

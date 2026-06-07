@@ -4,7 +4,7 @@ category: concept
 tags: [cirrhosis, coagulopathy, hemostasis, inr, platelets, ffp, teg, rotem, pvt, anticoagulation]
 created: 2026-05-21
 updated: 2026-05-21
-sources: [acg-2020-hepatic-mesenteric-circulation]
+sources: [acg-2020-hepatic-mesenteric-circulation, aga-2021-cirrhosis-coagulation]
 ---
 
 ## Overview
@@ -66,4 +66,4 @@ Cirrhotic patients are paradoxically prone to venous thromboembolism [[acg-2020-
 
 ## See Also
 
-[[portal-vein-thrombosis]], [[budd-chiari-syndrome]], [[spontaneous-bacterial-peritonitis]], [[aki-in-cirrhosis]], [[acute-on-chronic-liver-failure]], [[anticoagulation-gi-bleeding]], [[acg-2020-hepatic-mesenteric-circulation]]
+[[portal-vein-thrombosis]], [[budd-chiari-syndrome]], [[spontaneous-bacterial-peritonitis]], [[aki-in-cirrhosis]], [[acute-on-chronic-liver-failure]], [[anticoagulation-gi-bleeding]], [[acg-2020-hepatic-mesenteric-circulation]], [[aga-2021-cirrhosis-coagulation]]

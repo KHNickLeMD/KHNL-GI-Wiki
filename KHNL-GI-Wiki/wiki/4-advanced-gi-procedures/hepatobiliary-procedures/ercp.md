@@ -4,7 +4,7 @@ category: advanced-procedure
 tags: [ercp, biliary, pancreatic, hepatobiliary, sphincterotomy, stent, stone-extraction]
 created: 2026-05-16
 updated: 2026-05-16
-sources: []
+sources: [asge-2024-therapeutic-eus-biliary, asge-2023-post-ercp-pancreatitis, asge-2021-cholangitis, asge-2019-choledocholithiasis, asge-2023-post-transplant-biliary-strictures]
 ---
 
 *Stub — to be expanded. Referenced in [[acute-pancreatitis]] (indications/timing) and [[biliary-stricture]] (tissue sampling, drainage). See [[endoscopic-ultrasound]] for combined EUS+ERCP approach.*
@@ -16,6 +16,7 @@ sources: []
 - Choledocholithiasis with cholangitis (emergent, <24h per ACG 2024 acute pancreatitis guidelines)
 - Common bile duct stones with obstruction
 - Biliary stricture evaluation and drainage — see [[biliary-stricture]]
+- **Post–[[liver-transplantation|liver transplant]] biliary stricture** — ERCP is first-line therapy over PTBD (`[[asge-2023-post-transplant-biliary-strictures]]`); balloon dilation + stenting. For extrahepatic anastomotic (duct-to-duct) strictures, **covered SEMS preferred over multiple plastic stents** (equivalent resolution, fewer procedures, lower cost); cSEMS unsuitable for intrahepatic or near-bifurcation strictures. Give periprocedural antibiotics when complete drainage cannot be ensured (note fluoroquinolone–[[tacrolimus]] CYP3A4 interaction)
 - Bile leak (post-surgical)
 - Primary sclerosing cholangitis — dominant stricture palliation
 
@@ -55,4 +56,4 @@ sources: []
 
 ## See Also
 
-[[acute-pancreatitis]], [[biliary-stricture]], [[endoscopic-ultrasound]], [[chronic-pancreatitis]]
+[[acute-pancreatitis]], [[biliary-stricture]], [[endoscopic-ultrasound]], [[chronic-pancreatitis]], [[liver-transplantation]], [[asge-2024-therapeutic-eus-biliary]], [[asge-2023-post-ercp-pancreatitis]], [[asge-2021-cholangitis]], [[asge-2019-choledocholithiasis]], [[asge-2023-post-transplant-biliary-strictures]]

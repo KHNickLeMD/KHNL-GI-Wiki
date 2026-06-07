@@ -4,7 +4,7 @@ category: concept
 tags: [endoscopic-oncology, advanced-endoscopy, gi-cancers, esd, eus, staging]
 created: 2026-05-15
 updated: 2026-05-15
-sources: [chang-2024-endoscopic-oncologist]
+sources: [chang-2024-endoscopic-oncologist, asge-2023-esd]
 ---
 
 Endoscopic oncology is an emerging subspecialty within gastroenterology focused on the endoscopic diagnosis, staging, curative resection, and palliation of gastrointestinal cancers. It sits at the intersection of advanced therapeutic endoscopy and oncologic medicine.
@@ -35,4 +35,4 @@ This subspecialty typically requires advanced endoscopy fellowship beyond standa
 
 ## See Also
 
-[[endoscopic-ultrasound]], [[polypectomy-emr]], [[ercp]], [[barretts-esophagus]], [[colorectal-cancer]], [[gastric-adenocarcinoma]], [[chang-2024-endoscopic-oncologist]]
+[[endoscopic-ultrasound]], [[polypectomy-emr]], [[ercp]], [[barretts-esophagus]], [[colorectal-cancer]], [[gastric-adenocarcinoma]], [[chang-2024-endoscopic-oncologist]], [[asge-2023-esd]]

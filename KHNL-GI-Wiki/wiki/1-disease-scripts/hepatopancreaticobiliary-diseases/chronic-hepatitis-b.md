@@ -4,7 +4,7 @@ category: disease-script
 tags: [hepatitis-b, HBV, antiviral, nucleoside-analogues, HCC-surveillance, immune-tolerant, indeterminate, functional-cure, pregnancy, co-infection]
 created: 2026-05-15
 updated: 2026-05-19
-sources: [aasld-idsa-2025-chb-treatment, acg-2016-liver-disease-pregnancy]
+sources: [aasld-idsa-2025-chb-treatment, acg-2016-liver-disease-pregnancy, aga-2025-hbv-reactivation]
 ---
 
 ## Assessment
@@ -211,4 +211,4 @@ Goal: HBV DNA <lower limit of quantification. HBV not transmitted by casual cont
 
 ## See Also
 
-[[hepatitis-c]], [[hepatocellular-carcinoma]], [[hcc-surveillance]], [[portal-hypertension]], [[acute-on-chronic-liver-failure]], [[liver-transplantation]], [[aki-in-cirrhosis]], [[liver-disease-in-pregnancy]], [[autoimmune-hepatitis]], [[drug-induced-liver-injury]], [[alcohol-associated-liver-disease]], [[nafld-masld]], [[wilson-disease]], [[direct-acting-antivirals]], [[aasld-idsa-2025-chb-treatment]], [[acg-2016-liver-disease-pregnancy]]
+[[hepatitis-c]], [[hepatocellular-carcinoma]], [[hcc-surveillance]], [[portal-hypertension]], [[acute-on-chronic-liver-failure]], [[liver-transplantation]], [[aki-in-cirrhosis]], [[liver-disease-in-pregnancy]], [[autoimmune-hepatitis]], [[drug-induced-liver-injury]], [[alcohol-associated-liver-disease]], [[nafld-masld]], [[wilson-disease]], [[direct-acting-antivirals]], [[aasld-idsa-2025-chb-treatment]], [[acg-2016-liver-disease-pregnancy]], [[aga-2025-hbv-reactivation]]

@@ -1132,9 +1132,27 @@
   }
 
   @media (max-width: 768px) {
-    #sidebar-toggle { display: flex; }
-    #sidebar-collapse-btn { display: none; }
+    /* Use the same Obsidian-style panel button as desktop (not the ☰ hamburger). */
+    #sidebar-toggle { display: none !important; }
     #toc-collapse-btn { display: none !important; }
+    /* Default (sidebar closed): park over the topbar as a light chip, like the
+       desktop collapsed state. Fixed positioning keeps it visible while the
+       sidebar itself is translated off-screen. */
+    #sidebar-collapse-btn {
+      display: flex;
+      left: 8px; right: auto; z-index: 200;
+      background: var(--surface); border-color: var(--border);
+      color: var(--text-muted); box-shadow: var(--shadow);
+    }
+    #sidebar-collapse-btn:hover { color: var(--accent); background: var(--accent-light); }
+    /* Sidebar open: slide the button over the dark sidebar and go transparent,
+       matching the desktop expanded look. */
+    body.sidebar-mobile-open #sidebar-collapse-btn {
+      left: 222px; right: auto;
+      background: transparent; border-color: transparent;
+      color: var(--sidebar-text); box-shadow: none;
+    }
+    body.sidebar-mobile-open #sidebar-collapse-btn:hover { color: #fff; background: rgba(255,255,255,0.08); }
     #sidebar {
       position: fixed;
       left: 0; top: 0; bottom: 0;
@@ -1179,7 +1197,7 @@
         <div id="sidebar-subtitle">Gastroenterology &amp; Hepatology</div>
       </div>
     </div>
-    <button id="sidebar-collapse-btn" onclick="toggleSidebarCollapse()" title="Collapse sidebar" aria-label="Toggle sidebar">
+    <button id="sidebar-collapse-btn" onclick="onSidebarBtn()" title="Collapse sidebar" aria-label="Toggle sidebar">
       <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round" aria-hidden="true">
         <rect x="3" y="4" width="18" height="16" rx="2.5"></rect>
         <line x1="9.5" y1="4" x2="9.5" y2="20"></line>
@@ -2954,16 +2972,29 @@ function positionTocBtn() {
 }
 window.addEventListener('resize', positionTocBtn);
 
+// ── Sidebar button: route to the right behavior for the viewport ──
+// Narrow screens (phones / small Chrome windows) use the slide-in overlay;
+// wide screens collapse the sidebar in place. Same nice panel button either way.
+function onSidebarBtn() {
+  if (window.matchMedia('(max-width: 768px)').matches) {
+    toggleSidebar();
+  } else {
+    toggleSidebarCollapse();
+  }
+}
+
 // ── Sidebar collapse (mobile) ──
 function toggleSidebar() {
   const sb = document.getElementById('sidebar');
   const ov = document.getElementById('sidebar-overlay');
   const isOpen = sb.classList.toggle('open');
   ov.classList.toggle('active', isOpen);
+  document.body.classList.toggle('sidebar-mobile-open', isOpen);
 }
 function closeSidebar() {
   document.getElementById('sidebar').classList.remove('open');
   document.getElementById('sidebar-overlay').classList.remove('active');
+  document.body.classList.remove('sidebar-mobile-open');
 }
 // Close sidebar on nav action on mobile
 // NOTE: We must wrap navigateTo without using a duplicate function declaration,

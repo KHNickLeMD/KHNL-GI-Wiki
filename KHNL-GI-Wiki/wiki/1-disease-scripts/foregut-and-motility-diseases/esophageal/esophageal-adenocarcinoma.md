@@ -1,0 +1,16 @@
+---
+title: "Esophageal Adenocarcinoma (EAC)"
+category: disease-script
+tags: [esophageal-adenocarcinoma, barretts-esophagus, dysplasia, foregut, oncology]
+created: 2026-06-04
+updated: 2026-06-04
+sources: [asge-2018-barretts-eet, asge-2019-barretts-screening-surveillance]
+---
+
+Esophageal adenocarcinoma (EAC) is a cancer of the distal esophagus arising through the metaplasia–dysplasia–carcinoma sequence from [[barretts-esophagus|Barrett's esophagus]] (intestinal metaplasia → LGD → HGD → intramucosal carcinoma → invasive EAC). Its incidence is among the fastest-rising in Western populations and overall 5-year survival is <20% (≈40% present with distant disease). Mucosal disease (HGD/T1a) has very low lymph-node-metastasis risk (~0%-2%) and is treated with [[endoscopic-eradication-therapy|endoscopic eradication therapy]]; submucosal (T1b sm2-3) invasion raises LN-metastasis risk to ≥20% and generally requires esophagectomy.
+
+*Stub — to be expanded.*
+
+## See Also
+
+[[barretts-esophagus]], [[esophageal-cancer]], [[endoscopic-eradication-therapy]], [[gerd]], [[upper-endoscopy]], [[asge-2018-barretts-eet]], [[asge-2019-barretts-screening-surveillance]]

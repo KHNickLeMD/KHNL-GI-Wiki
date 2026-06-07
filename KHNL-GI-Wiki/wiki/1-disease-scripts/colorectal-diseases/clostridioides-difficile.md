@@ -4,7 +4,7 @@ category: disease-script
 tags: [cdiff, clostridioides-difficile, colitis, vancomycin, fidaxomicin, fmt, colorectal]
 created: 2026-05-15
 updated: 2026-05-15
-sources: [acg-2021-cdiff]
+sources: [acg-2021-cdiff, aga-2024-fmt]
 ---
 
 ## Assessment
@@ -220,4 +220,4 @@ Higher doses of vancomycin (>125 mg QID) are not recommended for severe CDI — 
 
 ## See Also
 
-[[ulcerative-colitis]], [[crohns-disease]], [[inflammatory-bowel-disease]], [[colonoscopy]], [[salmonella-infection]], [[campylobacter-infection]], [[norovirus]], [[irritable-bowel-syndrome]], [[acg-2021-cdiff]]
+[[ulcerative-colitis]], [[crohns-disease]], [[inflammatory-bowel-disease]], [[colonoscopy]], [[salmonella-infection]], [[campylobacter-infection]], [[norovirus]], [[irritable-bowel-syndrome]], [[acg-2021-cdiff]], [[aga-2024-fmt]]

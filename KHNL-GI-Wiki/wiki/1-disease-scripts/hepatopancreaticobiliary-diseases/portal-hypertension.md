@@ -4,7 +4,7 @@ category: disease-script
 tags: [portal-hypertension, cirrhosis, CSPH, HVPG, cACLD, varices, NSBB, carvedilol, TIPS, liver-stiffness, decompensation, variceal-bleeding, ascites]
 created: 2026-05-28
 updated: 2026-05-28
-sources: [aasld-2023-portal-hypertension]
+sources: [aasld-2023-portal-hypertension, acg-2025-perioperative-cirrhosis, aasld-2024-tips, aasld-2022-palliative-cirrhosis]
 ---
 
 ## Assessment
@@ -219,4 +219,4 @@ Indicated for: CTP class B score >7 with active bleeding at endoscopy, OR CTP cl
 
 ## See Also
 
-[[variceal-upper-gi-bleeding]], [[ascites]], [[spontaneous-bacterial-peritonitis]], [[aki-in-cirrhosis]], [[hepatic-encephalopathy]], [[hepatocellular-carcinoma]], [[portal-vein-thrombosis]], [[budd-chiari-syndrome]], [[liver-transplantation]], [[liver-disease-in-pregnancy]], [[hepatopulmonary-syndrome-portopulmonary-hypertension]], [[primary-sclerosing-cholangitis]], [[upper-endoscopy]], [[acute-on-chronic-liver-failure]], [[aasld-2023-portal-hypertension]]
+[[variceal-upper-gi-bleeding]], [[ascites]], [[spontaneous-bacterial-peritonitis]], [[aki-in-cirrhosis]], [[hepatic-encephalopathy]], [[hepatocellular-carcinoma]], [[portal-vein-thrombosis]], [[budd-chiari-syndrome]], [[liver-transplantation]], [[liver-disease-in-pregnancy]], [[hepatopulmonary-syndrome-portopulmonary-hypertension]], [[primary-sclerosing-cholangitis]], [[upper-endoscopy]], [[acute-on-chronic-liver-failure]], [[aasld-2023-portal-hypertension]], [[acg-2025-perioperative-cirrhosis]], [[aasld-2024-tips]], [[aasld-2022-palliative-cirrhosis]]

@@ -3,11 +3,11 @@ title: "Barrett's Esophagus"
 category: disease-script
 tags: [barretts-esophagus, esophageal, dysplasia, eet, rfa, surveillance, foregut]
 created: 2026-05-15
-updated: 2026-05-15
-sources: [acg-2022-barretts]
+updated: 2026-06-04
+sources: [acg-2022-barretts, aga-2025-barretts-surveillance, aga-2024-barretts-eet, asge-2018-barretts-eet, asge-2019-barretts-screening-surveillance]
 ---
 
-Barrett's esophagus (BE) is a metaplastic condition in which the normal squamous epithelium of the distal esophagus is replaced by specialized columnar epithelium containing intestinal-type goblet cells (intestinal metaplasia, IM). It is the only known precursor to esophageal adenocarcinoma (EAC), a cancer with rapidly increasing incidence over the past four decades. BE arises in the setting of chronic gastroesophageal reflux disease; 5–12% of patients with chronic [[gerd]] symptoms harbor BE.
+Barrett's esophagus (BE) is a metaplastic condition in which the normal squamous epithelium of the distal esophagus is replaced by specialized columnar epithelium containing intestinal-type goblet cells (intestinal metaplasia, IM). It is the only known precursor to [[esophageal-adenocarcinoma|esophageal adenocarcinoma]] (EAC), a cancer with rapidly increasing incidence over the past four decades. BE arises in the setting of chronic gastroesophageal reflux disease; 5–12% of patients with chronic [[gerd]] symptoms harbor BE.
 
 ---
 
@@ -151,7 +151,14 @@ The key severity variable is **dysplasia grade**, which determines both cancer r
 - **Expert GI pathologist review is mandatory for all dysplasia grades (strong recommendation):** At least 5 years of pathologist experience reduces major diagnostic errors (OR 0.48); working in a non-teaching hospital increases errors (OR 1.76).
 - **p53 IHC:** Aberrant p53 expression (overexpression or loss) is associated with progression risk (OR 4–17 across meta-analyses); sensitivity 62%, specificity 80% for overexpression. No routine recommendation pending better validation — can be considered as adjunct.
 - **TissueCypher:** 15-biomarker tissue systems pathology risk score (0–10); predicts 5-year HGD/EAC risk. Sensitivity 30%/specificity 95% in NDBE; 68%/79% for LGD 2-tier classification. No routine recommendation.
-- **WATS-3D:** Computer-assisted 3D cytology brush — increases dysplasia detection by ~2% absolute vs forceps biopsy alone. No recommendation (no chromoendoscopy + WATS-3D data; false-positive concern).
+- **WATS-3D:** Computer-assisted 3D cytology brush — increases dysplasia detection by ~2% absolute vs forceps biopsy alone. ACG: no recommendation (no chromoendoscopy + WATS-3D data; false-positive concern). [[asge-2019-barretts-screening-surveillance|ASGE 2019]] **suggests WATS-3D as an adjunct to** Seattle-protocol biopsies (conditional, low quality; relative dysplasia-detection increase 48%, mostly LGD).
+
+**ASGE 2019 advanced-imaging positions (GRADE):**
+
+- **Chromoendoscopy (dye-based or virtual/VC):** **Strongly recommended** in addition to white-light + Seattle protocol (moderate quality) — absolute dysplasia-detection increase 9%, relative increase ~30%; VC ≈ dye-based. Acetic acid sensitivity 96.6%, NBI/VC sensitivity 94.2%.
+- **Confocal laser endomicroscopy (CLE):** **Suggested against** routine use (conditional, low quality) — relative detection increase not statistically significant; high false-positive rate; endoscope-based CLE no longer available.
+- **EUS for T1a vs T1b:** **Strongly recommended against** routine use to differentiate mucosal vs submucosal disease (moderate quality) — sensitivity only 41%, high false-positive rate; resection-based histology is the staging step.
+- **Volumetric laser endomicroscopy (VLE):** no recommendation (insufficient evidence).
 
 ### Adjunct Staging Tests
 
@@ -179,6 +186,14 @@ The key severity variable is **dysplasia grade**, which determines both cancer r
 - Swallowable nonendoscopic capsule sponge device (Cytosponge, EsophaCap, EsoCheck) combined with a biomarker (TFF3 or methylated DNA markers)
 - Sensitivity 80–94%, specificity 62–94% across devices (enriched case-control populations)
 - Office-administered, no sedation required; appropriate for high-risk patients who decline endoscopy
+
+**ASGE 2019 at-risk stratification** ([[asge-2019-barretts-screening-surveillance|ASGE 2019]]): evidence is insufficient to confirm that screening reduces mortality, but if screening is performed it should target an at-risk population —
+
+- **High risk:** family history of EAC or BE (first-degree) → screen.
+- **Moderate risk:** GERD plus ≥1 additional risk factor (age >50, obesity/central adiposity, smoking history, male sex) → may benefit from screening.
+- **Low risk:** screening not recommended.
+
+(BE risk increases ~1.2% per additional risk factor; note <10% of EAC patients have a prior BE diagnosis and ~40% of EAC patients report no prior GERD, so GERD-only screening misses many at-risk individuals.) PPI (OR .55) and statin (OR .48) use are associated with lower progression to dysplasia.
 
 **No repeat screening** after a negative index endoscopy.
 
@@ -241,13 +256,18 @@ The key severity variable is **dysplasia grade**, which determines both cancer r
 
 ### Endoscopic Eradication Therapy (EET)
 
-**Indications:**
+See [[endoscopic-eradication-therapy]] for full technique, outcomes, and adverse-event data. EET combines [[polypectomy-emr|EMR]] of visible lesions with ablation ([[radiofrequency-ablation|RFA]] preferred) of the residual flat segment.
+
+**Indications** (ASGE 2018 / AGA / ACG concordant; [[asge-2018-barretts-eet|ASGE 2018]] GRADE strengths shown):
 
 | Indication | Strength |
 |---|---|
-| HGD | Strong recommendation (EET preferred over esophagectomy) |
-| IMC (T1a EAC) | Strong recommendation (EET preferred over esophagectomy) |
-| Confirmed LGD | Conditional recommendation (EET preferred over surveillance; shared decision making) |
+| Confirmed HGD | EET over surveillance (**strong**) and EET over esophagectomy (**strong**) |
+| IMC (T1a EAC) | EET over esophagectomy (**strong**); LN-metastasis risk ~0%-2% |
+| Confirmed LGD | EET over surveillance (**conditional**); shared decision making |
+| NDBE | EET **not** routinely recommended |
+
+**Dysplasia confirmation:** ASGE 2018 (Rec 1, conditional) — confirm LGD/HGD with ≥1 expert GI pathologist or panel before EET (expert review changes diagnosis in ~55%).
 
 **Contraindications / factors favoring esophagectomy:**
 
@@ -264,14 +284,17 @@ The key severity variable is **dysplasia grade**, which determines both cancer r
 
 **Step 1 — Endoscopic Resection (ER) of any visible lesion:**
 
-- Always precedes ablation; serves both diagnostic and therapeutic purposes
-- ER upstages or downstages histology in 30–40% of cases; changes management in ~30%
+- Always precedes ablation; serves both diagnostic and therapeutic purposes. ASGE 2018 (Rec 4, **strong**): resect ALL visible lesions (nodularity, ulceration, plaque, depression, discoloration), no matter how subtle.
+- ER upstages or downstages histology in 30–40% of cases (ASGE 2018: change in 39%, mostly upstaging); changes management in ~30%
 - **Multiband EMR** (preferred in most cases) or cap-assisted EMR — equivalent efficacy and safety
 - **ESD** for larger lesions (unsuitable for en bloc EMR), post-ablation scarring, or suspected submucosal invasion
+- ASGE 2018 (Rec 6, **strong against**): do NOT routinely perform complete EMR of the entire BE segment (cEMR) — far more strictures (OR 4.73), bleeding (OR 6.88), and perforation (OR 7.00) than focal EMR + RFA, with equivalent eradication.
 
 **Step 2 — Ablation of residual BE segment:**
 
-- **Radiofrequency Ablation (RFA)** — preferred primary ablative modality (widest RCT evidence, safety data)
+ASGE 2018 (Rec 5, **conditional**): after EMR of visible lesions, ablate the remaining flat segment (lack of ablation predicts recurrence, RR 2.5; metachronous neoplasia 16.5% with ablation vs 29.9% without).
+
+- **[[radiofrequency-ablation|Radiofrequency Ablation (RFA)]]** — preferred primary ablative modality (widest RCT evidence, safety data)
   - Achieved CEIM in ~80% of patients in landmark AIM Dysplasia RCT
   - Adverse events (RFA ± EMR): overall 8.8%; stricture 5.6%, bleeding 1%, perforation 0.6%
 - **Cryotherapy** — acceptable alternative, especially RFA-refractory cases
@@ -318,7 +341,7 @@ CEIM defined as: 1–2 surveillance endoscopies with no visible BE and no IM on 
 - 4-quadrant biopsies from the distal 2–3 cm of neosquamous epithelium (separate container)
 - Random biopsies above 3 cm from GEJ have low additional yield
 
-**Do NOT discontinue surveillance after CEIM** (recurrence risk persists with duration of follow-up).
+**Do NOT discontinue surveillance after CEIM** (recurrence risk persists with duration of follow-up). ASGE 2018 (Rec 7, **conditional**): surveillance over no surveillance after CE-IM — pooled recurrence: any 7.5, IM 4.8, dysplasia 2.0 per 100 patient-years, most within the first 3 years.
 
 **Treatment of recurrence:** Same EET principles — ER for visible lesions, ablation for flat residual BE. >90% of recurrences are successfully treated endoscopically. Significance of nondysplastic IM recurrence at the GEJ is debated and may not require treatment.
 
@@ -326,4 +349,4 @@ CEIM defined as: 1–2 surveillance endoscopies with no visible BE and no IM on 
 
 ## See Also
 
-[[gerd]], [[eosinophilic-esophagitis]], [[achalasia]], [[upper-endoscopy]], [[endoscopic-ultrasound]], [[antireflux-surgery]], [[acg-2022-barretts]]
+[[gerd]], [[eosinophilic-esophagitis]], [[achalasia]], [[esophageal-adenocarcinoma]], [[endoscopic-eradication-therapy]], [[radiofrequency-ablation]], [[polypectomy-emr]], [[upper-endoscopy]], [[endoscopic-ultrasound]], [[antireflux-surgery]], [[acg-2022-barretts]], [[aga-2025-barretts-surveillance]], [[aga-2024-barretts-eet]], [[asge-2018-barretts-eet]], [[asge-2019-barretts-screening-surveillance]]

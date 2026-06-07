@@ -4,7 +4,7 @@ category: disease-script
 tags: [pancreatitis, chronic, pancreas, hpb, exocrine-insufficiency, pain]
 created: 2026-05-16
 updated: 2026-05-19
-sources: [acg-2020-chronic-pancreatitis, acg-2020-sibo]
+sources: [acg-2020-chronic-pancreatitis, acg-2020-sibo, asge-2024-chronic-pancreatitis-endoscopy]
 ---
 
 ## Assessment
@@ -201,4 +201,4 @@ Experimental (research only): spinal cord stim, transmagnetic stim, radiation (K
 
 ## See Also
 
-[[acute-pancreatitis]], [[pancreatic-cysts]], [[biliary-stricture]], [[endoscopic-ultrasound]], [[ercp]], [[small-intestinal-bacterial-overgrowth]], [[acg-2020-chronic-pancreatitis]], [[acg-2020-sibo]]
+[[acute-pancreatitis]], [[pancreatic-cysts]], [[biliary-stricture]], [[endoscopic-ultrasound]], [[ercp]], [[small-intestinal-bacterial-overgrowth]], [[acg-2020-chronic-pancreatitis]], [[acg-2020-sibo]], [[asge-2024-chronic-pancreatitis-endoscopy]]

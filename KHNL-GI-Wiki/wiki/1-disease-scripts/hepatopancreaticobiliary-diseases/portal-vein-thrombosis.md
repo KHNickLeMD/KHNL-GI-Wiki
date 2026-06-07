@@ -4,7 +4,7 @@ category: disease-script
 tags: [portal-vein-thrombosis, pvt, mvt, mesenteric-vein, anticoagulation, cirrhosis, thrombophilia, splenomegaly, mpn, liver-transplant]
 created: 2026-05-21
 updated: 2026-05-25
-sources: [acg-2020-hepatic-mesenteric-circulation, aasld-ast-2025-liver-transplant-candidate-evaluation]
+sources: [acg-2020-hepatic-mesenteric-circulation, aasld-ast-2025-liver-transplant-candidate-evaluation, aasld-2021-vascular-pvt]
 ---
 
 ## Assessment
@@ -153,4 +153,4 @@ Cirrhosis represents rebalanced hemostasis, not auto-anticoagulation [[acg-2020-
 
 ## See Also
 
-[[budd-chiari-syndrome]], [[colon-ischemia]], [[spontaneous-bacterial-peritonitis]], [[aki-in-cirrhosis]], [[hepatocellular-carcinoma]], [[cirrhosis-hemostasis]], [[portal-hypertension]], [[variceal-upper-gi-bleeding]], [[acute-mesenteric-ischemia]], [[cholangiocarcinoma]], [[liver-transplantation]], [[ercp]], [[acg-2020-hepatic-mesenteric-circulation]], [[aasld-ast-2025-liver-transplant-candidate-evaluation]]
+[[budd-chiari-syndrome]], [[colon-ischemia]], [[spontaneous-bacterial-peritonitis]], [[aki-in-cirrhosis]], [[hepatocellular-carcinoma]], [[cirrhosis-hemostasis]], [[portal-hypertension]], [[variceal-upper-gi-bleeding]], [[acute-mesenteric-ischemia]], [[cholangiocarcinoma]], [[liver-transplantation]], [[ercp]], [[acg-2020-hepatic-mesenteric-circulation]], [[aasld-ast-2025-liver-transplant-candidate-evaluation]], [[aasld-2021-vascular-pvt]]

@@ -4,7 +4,7 @@ category: med
 tags: [semaglutide, wegovy, ozempic, glp-1, glp1-ra, mash, masld, obesity, diabetes, t2dm, cardiovascular, ckd, weight-loss, essence-trial, select-trial, step-trials, hpb]
 created: 2026-05-25
 updated: 2026-05-25
-sources: ["[[aasld-2025-semaglutide-mash]]"]
+sources: ["[[aasld-2025-semaglutide-mash]]", "[[aga-2022-obesity-pharm]]"]
 ---
 
 ## Contents
@@ -199,4 +199,4 @@ For VCTE 15–20 kPa, MRE 4.4–5 kPa, or ELF 10.5–11.3: individualized treatm
 
 ## See Also
 
-[[nafld-masld]], [[alcohol-associated-liver-disease]], [[acute-pancreatitis]]
+[[nafld-masld]], [[alcohol-associated-liver-disease]], [[acute-pancreatitis]], [[aga-2022-obesity-pharm]]

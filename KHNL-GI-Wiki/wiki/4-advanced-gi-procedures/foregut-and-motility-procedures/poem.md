@@ -4,7 +4,7 @@ category: advanced-procedure
 tags: [poem, achalasia, myotomy, motility, esophageal, foregut, gerd]
 created: 2026-05-16
 updated: 2026-05-16
-sources: []
+sources: [sages-2024-poem]
 ---
 
 *Stub — to be expanded. Referenced in [[achalasia]] (key therapeutic option, preferred for Type III). POEM is also the technique used for G-POEM (gastric outlet) — referenced in [[gastroparesis]].*
@@ -49,4 +49,4 @@ sources: []
 
 ## See Also
 
-[[achalasia]], [[gastroparesis]], [[distal-esophageal-spasm]], [[hypercontractile-esophagus]]
+[[achalasia]], [[gastroparesis]], [[distal-esophageal-spasm]], [[hypercontractile-esophagus]], [[sages-2024-poem]]

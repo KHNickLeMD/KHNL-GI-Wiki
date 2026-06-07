@@ -4,7 +4,7 @@ category: disease-script
 tags: [crohns, ibd, biologics, ileitis, colitis, perianal-fistula, stricture, fistula, anti-tnf]
 created: 2026-05-07
 updated: 2026-05-07
-sources: [acg-2025-crohns]
+sources: [acg-2025-crohns, aga-2025-crohns-pharm, aga-2021-crohns-pharm, aga-2023-biomarkers-cd]
 ---
 
 # Crohn's Disease
@@ -131,7 +131,7 @@ No single pathognomonic test. Diagnosis = integration of:
 - Prevention of complications (stricture, fistula, surgery)
 - Deep remission (all 3 domains) — ideal goal
 
-**Top-down therapy preferred:** Early advanced therapy (biologic ± immunomodulator) significantly outperforms step-up in newly diagnosed active CD (PROFILE trial: 79% vs 15% steroid-free/surgery-free remission at 48wk).
+**Top-down therapy preferred:** Early advanced therapy (biologic ± immunomodulator) significantly outperforms step-up in newly diagnosed active CD (PROFILE trial: 79% vs 15% steroid-free/surgery-free remission at 48wk). AGA 2021 first formalized this anti–step-up stance: suggests **early introduction of a biologic** (± immunomodulator) rather than delaying until after failure of 5-ASA and/or corticosteroids (Conditional), and recommends **biologic monotherapy over thiopurine monotherapy** for induction (Strong); supported by REACT (lower major disease-related complications at 24 mo, HR 0.73).
 
 ---
 
@@ -165,7 +165,7 @@ No single pathognomonic test. Diagnosis = integration of:
 
 - **NOT for induction** (onset 8–12 weeks)
 - TPMT testing required before AZA/6-MP
-- Combo AZA + anti-TNF: more effective than monotherapy; but risk of hepatosplenic T-cell lymphoma (rare, young males)
+- Combo AZA + anti-TNF: more effective than monotherapy; but risk of hepatosplenic T-cell lymphoma (rare, young males). AGA 2021 *suggests* combination infliximab or adalimumab + thiopurine over anti-TNF monotherapy in biologic- and immunomodulator-naïve patients (Conditional); makes no recommendation on combining vedolizumab/ustekinumab with an immunomodulator (knowledge gap), nor on withdrawing the immunomodulator vs the biologic once quiescent on combination therapy
 - MTX preferred when AZA/6-MP toxicity concern or as combo with anti-TNF at reduced dose (12.5–15mg PO weekly)
 
 ---
@@ -181,6 +181,12 @@ No single pathognomonic test. Diagnosis = integration of:
 | Anti-TNF experienced | Risankizumab (superior in SEQUENCE trial); vedolizumab; ustekinumab; upadacitinib |
 | Vedolizumab preferred | IBD + active EIMs where gut-selectivity matters less; pregnancy; concurrent infection risk |
 | Upadacitinib | Requires prior anti-TNF exposure (FDA mandate) |
+
+**Original AGA positioning by anti-TNF response status** (AGA 2021; predates IL-23 inhibitors and JAK inhibitors — superseded for sequencing by [[aga-2025-crohns-pharm]] but still the basis for the primary-vs-secondary-nonresponse framework):
+
+- **Biologic-naïve:** infliximab, adalimumab, or ustekinumab over certolizumab pegol for induction (Strong); vedolizumab over certolizumab pegol (Conditional). No significant first-line difference among adalimumab, ustekinumab, vedolizumab on network meta-analysis.
+- **Anti-TNF primary nonresponse** (never responded): ustekinumab (Strong); vedolizumab (Conditional).
+- **Anti-TNF secondary nonresponse** (initially responded to infliximab, then lost response): adalimumab or ustekinumab (Strong); vedolizumab (Conditional). If adalimumab was the first agent that failed, indirect evidence supports infliximab as second-line.
 
 ---
 
@@ -207,6 +213,7 @@ No single pathognomonic test. Diagnosis = integration of:
 - Slower onset in CD (vs anti-TNF); anti-TNF–naive respond faster
 - Monotherapy preferred (no benefit from adding immunomodulators — UNIFI/VARSITY extrapolation)
 - Favorable safety profile: no increased infection, no PML
+- **Natalizumab (α4-integrin)** is recommended *against* (AGA 2021, Conditional) given PML risk and availability of safer alternatives; only an option for JC virus antibody–negative patients valuing benefit over PML risk with ongoing JCV monitoring
 
 ---
 
@@ -327,4 +334,4 @@ No single pathognomonic test. Diagnosis = integration of:
 
 ## See Also
 
-[[ulcerative-colitis]], [[inflammatory-bowel-disease]], [[uc-vs-crohns-comparison]], [[ibd-preventive-care]], [[clostridioides-difficile]], [[celiac-disease]], [[colorectal-cancer]], [[primary-sclerosing-cholangitis]], [[capsule-endoscopy]], [[colonoscopy]], [[acg-2025-crohns]]
+[[ulcerative-colitis]], [[inflammatory-bowel-disease]], [[uc-vs-crohns-comparison]], [[ibd-preventive-care]], [[clostridioides-difficile]], [[celiac-disease]], [[colorectal-cancer]], [[primary-sclerosing-cholangitis]], [[capsule-endoscopy]], [[colonoscopy]], [[acg-2025-crohns]], [[aga-2025-crohns-pharm]], [[aga-2021-crohns-pharm]], [[aga-2023-biomarkers-cd]]

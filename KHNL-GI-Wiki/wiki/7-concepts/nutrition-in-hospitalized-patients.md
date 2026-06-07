@@ -4,7 +4,7 @@ category: concept
 tags: [nutrition, enteral-nutrition, parenteral-nutrition, malnutrition, icu, critical-care, hospitalized-patient]
 created: 2026-05-21
 updated: 2026-05-21
-sources: [acg-2016-nutrition-hospitalized]
+sources: [acg-2016-nutrition-hospitalized, asge-2025-gastrostomy-tubes]
 ---
 
 ## Overview
@@ -137,4 +137,4 @@ Immune-modulating formulas (arginine, glutamine, omega-3 fatty acids) are NOT re
 
 ## See Also
 
-[[acg-2016-nutrition-hospitalized]], [[acute-pancreatitis]], [[nutrition-in-liver-disease]], [[inflammatory-bowel-disease]], [[aki-in-cirrhosis]]
+[[acg-2016-nutrition-hospitalized]], [[acute-pancreatitis]], [[nutrition-in-liver-disease]], [[inflammatory-bowel-disease]], [[aki-in-cirrhosis]], [[asge-2025-gastrostomy-tubes]]

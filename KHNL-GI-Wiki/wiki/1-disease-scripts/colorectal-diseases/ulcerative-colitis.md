@@ -4,7 +4,7 @@ category: disease-script
 tags: [uc, ulcerative-colitis, ibd, 5-asa, biologics, anti-tnf, vedolizumab, asuc, pancolitis, proctitis]
 created: 2026-05-07
 updated: 2026-05-07
-sources: [acg-2025-uc]
+sources: [acg-2025-uc, aga-2024-uc-pharm, aga-2024-pouchitis, aga-2023-biomarkers-uc]
 ---
 
 # Ulcerative Colitis
@@ -293,4 +293,4 @@ Idiopathic chronic inflammatory disorder of the large intestine. Continuous muco
 
 ## See Also
 
-[[crohns-disease]], [[inflammatory-bowel-disease]], [[uc-vs-crohns-comparison]], [[ibd-preventive-care]], [[clostridioides-difficile]], [[primary-sclerosing-cholangitis]], [[colorectal-cancer]], [[colonoscopy]], [[colon-ischemia]], [[acg-2025-uc]]
+[[crohns-disease]], [[inflammatory-bowel-disease]], [[uc-vs-crohns-comparison]], [[ibd-preventive-care]], [[clostridioides-difficile]], [[primary-sclerosing-cholangitis]], [[colorectal-cancer]], [[colonoscopy]], [[colon-ischemia]], [[acg-2025-uc]], [[aga-2024-uc-pharm]], [[aga-2024-pouchitis]], [[aga-2023-biomarkers-uc]]

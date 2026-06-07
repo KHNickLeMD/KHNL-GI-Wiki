@@ -4,7 +4,7 @@ category: diagnostic-schema
 tags: [small-bowel, gi-bleeding, obscure-gi-bleeding, mid-gi-bleeding, capsule-endoscopy, deep-enteroscopy, angioectasia, vce, dbe, iron-deficiency-anemia]
 created: 2026-05-19
 updated: 2026-05-19
-sources: [acg-2015-small-bowel-bleeding]
+sources: [acg-2015-small-bowel-bleeding, aga-2020-ida]
 ---
 
 ## Definition / Scope
@@ -241,4 +241,4 @@ If bleeding persists or recurs and lesion cannot be localized: *(Strong/Moderate
 
 ## See Also
 
-[[acg-2015-small-bowel-bleeding]], [[upper-gi-bleeding]], [[acute-lower-gi-bleeding]], [[crohns-disease]], [[angioectasia]], [[meckels-diverticulum]], [[familial-adenomatous-polyposis]], [[peutz-jeghers-syndrome]], [[heydes-syndrome]], [[subepithelial-lesion]], [[celiac-disease]], [[capsule-endoscopy]], [[device-assisted-enteroscopy]]
+[[acg-2015-small-bowel-bleeding]], [[upper-gi-bleeding]], [[acute-lower-gi-bleeding]], [[crohns-disease]], [[angioectasia]], [[meckels-diverticulum]], [[familial-adenomatous-polyposis]], [[peutz-jeghers-syndrome]], [[heydes-syndrome]], [[subepithelial-lesion]], [[celiac-disease]], [[capsule-endoscopy]], [[device-assisted-enteroscopy]], [[aga-2020-ida]]

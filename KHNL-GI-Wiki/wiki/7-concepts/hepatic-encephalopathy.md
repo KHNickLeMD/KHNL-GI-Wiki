@@ -4,7 +4,7 @@ category: concept
 tags: [hepatic-encephalopathy, HE, cirrhosis, ammonia, lactulose, rifaximin, TIPS, portal-hypertension, ACLF, minimal-HE, covert-HE, overt-HE, portosystemic-shunting, brain-dysfunction]
 created: 2026-05-28
 updated: 2026-05-28
-sources: [aasld-easl-2014-hepatic-encephalopathy]
+sources: [aasld-easl-2014-hepatic-encephalopathy, acg-2026-hepatic-encephalopathy]
 ---
 
 ## Definition
@@ -201,4 +201,4 @@ Key discharge planning elements:
 
 ## See Also
 
-[[aasld-easl-2014-hepatic-encephalopathy]], [[acute-liver-failure]], [[acute-on-chronic-liver-failure]], [[portal-hypertension]], [[aki-in-cirrhosis]], [[spontaneous-bacterial-peritonitis]], [[ascites]], [[variceal-upper-gi-bleeding]], [[liver-transplantation]], [[rifaximin]], [[alcohol-associated-liver-disease]], [[hepatitis-c]]
+[[aasld-easl-2014-hepatic-encephalopathy]], [[acute-liver-failure]], [[acute-on-chronic-liver-failure]], [[portal-hypertension]], [[aki-in-cirrhosis]], [[spontaneous-bacterial-peritonitis]], [[ascites]], [[variceal-upper-gi-bleeding]], [[liver-transplantation]], [[rifaximin]], [[alcohol-associated-liver-disease]], [[hepatitis-c]], [[acg-2026-hepatic-encephalopathy]]

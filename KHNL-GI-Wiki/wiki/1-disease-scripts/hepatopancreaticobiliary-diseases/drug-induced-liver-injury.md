@@ -4,7 +4,7 @@ category: disease-script
 tags: [dili, drug-induced-liver-injury, hepatotoxicity, hds, ici, immune-checkpoint, hpb, liver]
 created: 2026-05-16
 updated: 2026-05-16
-sources: [acg-2021-dili, acg-2017-liver-chemistries]
+sources: [acg-2021-dili, acg-2017-liver-chemistries, aasld-2022-dili]
 ---
 
 ## Assessment
@@ -169,4 +169,4 @@ Roussel Uclaf Causality Assessment Method — scoring system (−10 to +14):
 
 ## See Also
 
-[[abnormal-liver-chemistries]], [[acute-liver-failure]], [[autoimmune-hepatitis]], [[helicobacter-pylori-infection]], [[inflammatory-bowel-disease]], [[nafld-masld]], [[primary-biliary-cholangitis]], [[primary-sclerosing-cholangitis]], [[wilson-disease]], [[budd-chiari-syndrome]], [[immune-checkpoint-inhibitor-hepatitis]], [[liver-transplantation]], [[ercp]], [[acg-2021-dili]], [[acg-2017-liver-chemistries]]
+[[abnormal-liver-chemistries]], [[acute-liver-failure]], [[autoimmune-hepatitis]], [[helicobacter-pylori-infection]], [[inflammatory-bowel-disease]], [[nafld-masld]], [[primary-biliary-cholangitis]], [[primary-sclerosing-cholangitis]], [[wilson-disease]], [[budd-chiari-syndrome]], [[immune-checkpoint-inhibitor-hepatitis]], [[liver-transplantation]], [[ercp]], [[acg-2021-dili]], [[acg-2017-liver-chemistries]], [[aasld-2022-dili]]

@@ -4,7 +4,7 @@ category: general-procedure
 tags: [colonoscopy, crc-screening, polypectomy, surveillance, adenoma, serrated-polyp, colorectal, bowel-prep, split-dose, post-resection, crc-surveillance, metachronous]
 created: 2026-05-07
 updated: 2026-05-19
-sources: [usmstf-2020-followup-colonoscopy, usmstf-2021-crc-screening-age, usmstf-2020-endoscopic-removal, usmstf-2025-bowel-prep, acg-2025-bowel-prep, usmstf-2015-crc-surveillance]
+sources: [usmstf-2020-followup-colonoscopy, usmstf-2021-crc-screening-age, usmstf-2020-endoscopic-removal, usmstf-2025-bowel-prep, acg-2025-bowel-prep, usmstf-2015-crc-surveillance, aga-2025-cade-colonoscopy]
 ---
 
 # Colonoscopy
@@ -243,4 +243,4 @@ High-risk = any of: surgery without TME; transanal local excision (TAE or TEM); 
 
 ## See Also
 
-[[colorectal-cancer]], [[polypectomy-emr]], [[lynch-syndrome]], [[familial-adenomatous-polyposis]], [[colorectal-cancer-screening]], [[usmstf-2015-crc-surveillance]], [[usmstf-2020-followup-colonoscopy]], [[usmstf-2021-crc-screening-age]], [[usmstf-2020-endoscopic-removal]], [[usmstf-2025-bowel-prep]]
+[[colorectal-cancer]], [[polypectomy-emr]], [[lynch-syndrome]], [[familial-adenomatous-polyposis]], [[colorectal-cancer-screening]], [[usmstf-2015-crc-surveillance]], [[usmstf-2020-followup-colonoscopy]], [[usmstf-2021-crc-screening-age]], [[usmstf-2020-endoscopic-removal]], [[usmstf-2025-bowel-prep]], [[aga-2025-cade-colonoscopy]]

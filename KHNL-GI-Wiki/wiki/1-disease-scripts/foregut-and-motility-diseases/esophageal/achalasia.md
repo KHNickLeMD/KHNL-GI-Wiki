@@ -4,7 +4,7 @@ category: disease-script
 tags: [achalasia, esophageal-motility, dysphagia, hrm, poem, heller-myotomy, pneumatic-dilation, foregut]
 created: 2026-05-15
 updated: 2026-05-15
-sources: ["[[acg-2020-achalasia]]"]
+sources: ["[[acg-2020-achalasia]]", "[[asge-2020-achalasia]]"]
 ---
 
 # Achalasia
@@ -243,4 +243,4 @@ flowchart TD
 
 ## See Also
 
-[[high-resolution-manometry]], [[flip-panometry]], [[poem]], [[chicago-classification-v4]], [[distal-esophageal-spasm]], [[hypercontractile-esophagus]], [[gerd]], [[eosinophilic-esophagitis]], [[upper-endoscopy]], [[acg-2020-achalasia]]
+[[high-resolution-manometry]], [[flip-panometry]], [[poem]], [[chicago-classification-v4]], [[distal-esophageal-spasm]], [[hypercontractile-esophagus]], [[gerd]], [[eosinophilic-esophagitis]], [[upper-endoscopy]], [[acg-2020-achalasia]], [[asge-2020-achalasia]]
