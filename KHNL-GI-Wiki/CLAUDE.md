@@ -122,7 +122,16 @@ Pages in `wiki/2-diagnostic-schemas/` cover syndromes (not defined diagnoses):
 - **Link inline, on the word itself.** Wherever a page name, disease, med, procedure, concept, or other entity that has (or should have) its own page appears in the running text — differentials, prose, table cells, list items — turn that word into a link rather than only listing related pages at the bottom. Example: on the alcohol-associated hepatitis page, the "MASLD" entry in the differential should read `[[masld|MASLD]]` so the displayed word "MASLD" clicks through to the MASLD page.
   - Use the alias form `[[slug|Displayed Words]]` so the link blends into the sentence and the visible text keeps its natural casing/wording (e.g. `[[upper-endoscopy|EGD]]`, `[[portal-hypertension|portal hypertensive]]`).
   - Link on **first mention** of each entity within a page (don't re-link every occurrence — one link per entity per page keeps prose readable).
-  - **Bottom "See Also" section (standardized format).** End every substantive page with a section headed exactly `## See Also`, followed by **one comma-separated line of wiki links** — e.g. `[[gerd]], [[barretts-esophagus]], [[high-resolution-manometry]], [[acg-2020-achalasia]]`. Include the page's key source slugs in that same list. This is in addition to inline body links, not a replacement. Use this heading and the comma-delimited form on every page — do **not** use `Related Pages`, `Cross-References`, `Related Wiki Pages`, bulleted See-Also lists, or per-item descriptions (descriptive context belongs inline in the body, where the link sits in a real sentence).
+  - **Bottom "See Also" section (standardized format).** End every substantive page with a section headed exactly `## See Also`, followed by **one comma-separated line of wiki links** — e.g. `[[gerd]], [[barretts-esophagus]], [[high-resolution-manometry]]`. This is in addition to inline body links, not a replacement. Use this heading and the comma-delimited form on every page — do **not** use `Related Pages`, `Cross-References`, `Related Wiki Pages`, bulleted See-Also lists, or per-item descriptions (descriptive context belongs inline in the body, where the link sits in a real sentence).
+    - **Do NOT put source slugs in See Also.** See Also is for entity/concept/procedure/med pages only. Sources go in their own `## Sources` section (see below).
+  - **Bottom "Sources" section (standardized format).** After `## See Also`, add a final section headed exactly `## Sources` (separated from See Also by a `---` rule). List every source that backs the page as a **numbered Markdown list**, one per line, each an alias wiki-link to the source page using the source's full title as the visible text:
+    ```markdown
+    ## Sources
+
+    1. [[acg-2020-achalasia|ACG 2020: Diagnosis and Management of Achalasia]]
+    2. [[asge-2020-achalasia|ASGE Guideline: Management of Achalasia (2020)]]
+    ```
+    These are the same slugs listed in the frontmatter `sources:` field (keep that field too). The website renders this numbered list at the bottom of the page; there is no longer a sources button at the top.
 - Never link to pages that don't exist — create the stub first
 
 ### Stubs
@@ -144,6 +153,10 @@ sources: []
 ## Website Rendering Conventions
 
 The wiki is published through `#KHNL GI Wiki/index.html`, which renders pages with a built-in Markdown engine (not Obsidian). Author every page so it renders correctly **both** in Obsidian and on the website. Follow these rules on all new and edited pages:
+
+### README structure (About / How to Use split)
+- `README.md` holds **both** the "About This Wiki" content and the "How to Use" content. The website renders them as **two separate sidebar tabs** by splitting the README at the top-level `# How to Use` heading: everything before it → the **About This Wiki** tab; that heading and everything after → the **How to Use** tab.
+- Keep the single top-level `# How to Use` heading intact in `README.md` (exact text). Put navigation/usage content under it; put "what this is / how it was made / page types" content above it. Do not add other top-level `#` headings between them that would land in the wrong tab.
 
 ### Page Contents / table of contents
 - Build it as a nested bullet list of heading-anchor links: `[[#Section Heading]]`.
@@ -171,6 +184,11 @@ flowchart TD
 
 ### Images
 - Embed figures with `![[filename.png]]`. The image file must live in `raw/assets/` — the website resolves embeds from that folder. Standard `![alt](url)` Markdown images also render.
+- **Make pages visual — capture figures on every ingest (required).** When a source contains an **algorithm or clinical decision-making tool as a figure** (diagnostic/treatment algorithms, staging/classification figures, decision trees), screenshot it and embed it on the matching wiki page:
+  1. Render the source PDF page and crop the figure precisely. Tooling: PyMuPDF (`fitz`) — open the PDF, use `page.get_image_rects(xref)` (or the figure's text-block bounds) to get the bounding box, then `page.get_pixmap(matrix=fitz.Matrix(300/72,300/72), clip=rect).save(out)`. Render at ~300 dpi.
+  2. Save to `raw/assets/` named `<topic>-<year>-<descriptor>-<pagenum>.png` (e.g. `achalasia-2020-chicago-subtypes-05.png`).
+  3. Embed it in the relevant section with a sizing hint and an italic caption that names the figure and cites the source: `![[file.png|700x183]]` then `*Figure N — caption. ([[source-slug]])*`.
+- **Tables: recreate, don't screenshot.** When a source has a **clinically relevant table**, reproduce it as a native Markdown table (so it renders/searches/links cleanly) rather than screenshotting it. Screenshot only figures/algorithms that cannot be faithfully rendered as text.
 
 ---
 
@@ -212,10 +230,14 @@ sources: []
 ---
 
 ## Bibliographic Info
+- **Article:** [Full citation, formatted as anchor text](https://doi.org/<doi>)
 - **Authors:**
 - **Year:**
 - **Journal/Publisher:**
+- **DOI:** [<doi>](https://doi.org/<doi>)
 - **Type:** RCT | guideline | review | meta-analysis | case series | textbook chapter | other
+
+**Link the article (required).** In the Bibliographic Info, hyperlink the source to where it lives online so the citation is clickable: make the `**Article:**` line a Markdown link (full citation as anchor text) and linkify the `**DOI:**` value. Use the DOI URL (`https://doi.org/<doi>`) when a DOI exists; otherwise a PubMed or publisher URL. If no online location exists (e.g. a lecture transcript), omit the link rather than inventing a URL.
 
 ## Summary
 2–4 paragraph synthesis of the source's key content.

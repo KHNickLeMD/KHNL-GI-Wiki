@@ -1402,7 +1402,7 @@ const THEME_KEY = 'khnl_gi_theme';
 const DEFAULT_CONFIG = { username: 'KHNickLeMD', repo: 'KHNL-GI-Wiki', path: 'KHNL-GI-Wiki/wiki', branch: 'main' };
 let config = JSON.parse(localStorage.getItem(CONFIG_KEY) || 'null') || DEFAULT_CONFIG;
 let wikiData = {};
-let currentView = null; // 'overview' | 'about' | 'index' | 'toc:KEY' | 'page:SLUG' | 'graph'
+let currentView = null; // 'overview' | 'about' | 'howto' | 'index' | 'toc:KEY' | 'page:SLUG' | 'graph'
 let graphSim = null;
 let isDark = localStorage.getItem(THEME_KEY) === 'dark';
 
@@ -1450,6 +1450,7 @@ function routeToView(view) {
   if (!view) return;
   if (view === 'overview')      return showOverview();
   if (view === 'about')         return showAbout();
+  if (view === 'howto')         return showHowToUse();
   if (view === 'index')         return showIndex();
   if (view === 'graph')         return showGraphView();
   if (view.startsWith('toc:'))  return showTOC(view.slice(4));
@@ -1692,6 +1693,7 @@ function buildNavTree() {
   const topItems = [
     { label: '🏠 Overview', key: 'overview', action: () => showOverview() },
     { label: '📖 About This Wiki', key: 'about', action: () => showAbout() },
+    { label: '🧭 How to Use', key: 'howto', action: () => showHowToUse() },
     { label: '📑 Master Index', key: 'index', action: () => showIndex() },
     { label: '🌐 Graph view', key: 'graph', action: () => showGraphView() },
   ];
@@ -2048,19 +2050,45 @@ function showOverview() {
   };
 }
 
-// ── About ──
-function showAbout() {
-  if (currentView !== 'about') pushHistory(currentView);
+// ── About / How to Use ──
+// Both views render slices of the single README.md (fetched live from GitHub),
+// split at the top-level "# How to Use" heading:
+//   • About This Wiki → everything BEFORE that heading
+//   • How to Use      → that heading and everything AFTER it
+// This keeps a single source-of-truth markdown file while presenting two tabs.
+const README_HOWTO_RE = /^#[ \t]+How to Use[ \t]*$/m;
+
+function splitReadme(md) {
+  const body = stripFrontmatter(md);
+  const m = body.match(README_HOWTO_RE);
+  if (!m) return { about: body, howto: '' };
+  const idx = m.index;
+  const about = body.slice(0, idx).trim().replace(/\n-{3,}\s*$/, '').trim();
+  return { about, howto: body.slice(idx).trim() };
+}
+
+function showAbout()     { _showReadmeView('about', 'About This Wiki'); }
+function showHowToUse()  { _showReadmeView('howto', '🧭 How to Use'); }
+
+function _showReadmeView(mode, crumb) {
+  if (currentView !== mode) pushHistory(currentView);
   hideAllViews();
-  currentView = 'about';
-  updateActiveNav('about');
-  document.getElementById('breadcrumb').innerHTML = '<span class="bc-item current">About This Wiki</span>';
+  currentView = mode;
+  updateActiveNav(mode);
+  document.getElementById('breadcrumb').innerHTML = `<span class="bc-item current">${crumb}</span>`;
   document.getElementById('page-meta-top').innerHTML = '';
 
   const el = document.getElementById('about-view');
   el.style.display = 'block';
 
-  // Fetch README.md from GitHub and render it as the About page.
+  const wire = () => el.querySelectorAll('a[href]').forEach(a => {
+    const href = a.getAttribute('href');
+    if (href && !href.startsWith('http') && !href.startsWith('#')) {
+      a.addEventListener('click', e => { e.preventDefault(); navigateTo(href.replace(/\.md$/, '')); });
+    }
+  });
+
+  // Fetch README.md from GitHub and render the requested slice.
   // README sits beside the wiki content folder, so derive its dir from config.path
   // (e.g. path "KHNL-GI-Wiki/wiki" → README at "KHNL-GI-Wiki/README.md").
   if (config) {
@@ -2071,32 +2099,27 @@ function showAbout() {
     fetch(readmeUrl)
       .then(r => { if (!r.ok) throw new Error('HTTP ' + r.status); return r.text(); })
       .then(md => {
-        el.innerHTML = '<div class="about-wrap md-body">' + renderMd(stripFrontmatter(md)) + '</div>';
+        const parts = splitReadme(md);
+        const slice = mode === 'howto' ? parts.howto : parts.about;
+        el.innerHTML = '<div class="about-wrap md-body">' + renderMd(slice) + '</div>';
         initMermaid();
-        // Wire wiki-links inside the rendered README
-        el.querySelectorAll('a[href]').forEach(a => {
-          const href = a.getAttribute('href');
-          if (href && !href.startsWith('http') && !href.startsWith('#')) {
-            a.addEventListener('click', e => { e.preventDefault(); navigateTo(href.replace(/\.md$/, '')); });
-          }
-        });
+        wire();
       })
       .catch(() => {
-        // Fallback: hardcoded content
-        el.innerHTML = `
-          <div class="about-wrap">
-            <h1 style="font-size:24px;font-weight:700;margin-bottom:8px;letter-spacing:-0.02em;">About This Wiki</h1>
-            <p style="color:var(--text-muted);margin-bottom:28px;font-size:14px;">How the KHNL GI Wiki was built and how to navigate it.</p>
-            <div class="about-section">
-              <h2>How It Was Made</h2>
-              <p>This wiki was built using <strong>Obsidian</strong> and <strong>Claude AI</strong> — connect your GitHub repo to load the full README.</p>
-            </div>
-          </div>`;
+        const fallback = mode === 'howto'
+          ? `<h1 style="font-size:24px;font-weight:700;margin-bottom:8px;letter-spacing:-0.02em;">How to Use</h1>
+             <p style="color:var(--text-muted);">Connect your GitHub repository to load the README.</p>`
+          : `<h1 style="font-size:24px;font-weight:700;margin-bottom:8px;letter-spacing:-0.02em;">About This Wiki</h1>
+             <p style="color:var(--text-muted);margin-bottom:28px;font-size:14px;">How the KHNL GI Wiki was built and how to navigate it.</p>
+             <div class="about-section"><h2>How It Was Made</h2>
+             <p>This wiki was built using <strong>Obsidian</strong> and <strong>Claude AI</strong> — connect your GitHub repo to load the full README.</p></div>`;
+        el.innerHTML = `<div class="about-wrap">${fallback}</div>`;
       });
   } else {
+    const title = mode === 'howto' ? 'How to Use' : 'About This Wiki';
     el.innerHTML = `
       <div class="about-wrap">
-        <h1 style="font-size:24px;font-weight:700;margin-bottom:8px;letter-spacing:-0.02em;">About This Wiki</h1>
+        <h1 style="font-size:24px;font-weight:700;margin-bottom:8px;letter-spacing:-0.02em;">${title}</h1>
         <p style="color:var(--text-muted);">Connect your GitHub repository to load the README.</p>
       </div>`;
   }
@@ -2426,25 +2449,12 @@ function navigateTo(slug) {
     tagsHtml += page.tags.map(t => `<span class="tag" onclick="searchTag('${t}')">#${t}</span>`).join('');
   }
 
+  // Top-of-page sources button removed — sources now render as a numbered
+  // "## Sources" section at the bottom of each page body (below "See Also").
   const popupWrap = document.getElementById('source-popup-wrap');
   const popup = document.getElementById('source-popup');
-  popupWrap.style.display = 'none';
-  popup.classList.remove('open');
-
-  if (page.sources && page.sources.length > 0) {
-    const n = page.sources.length;
-    const btnId = 'src-btn-' + slug;
-    tagsHtml += `<span class="source-count-btn" id="${btnId}" onclick="toggleSourcePopup('${slug}')">📚 ${n} source${n>1?'s':''} <span class="sc-chevron">▾</span></span>`;
-
-    // Build popup content
-    const srcItems = page.sources.map(s => {
-      const srcPage = wikiData[s];
-      const title = srcPage ? srcPage.title : s;
-      return `<li><a onclick="navigateTo('${s}'); closeSourcePopup('${slug}')">${title}</a></li>`;
-    }).join('');
-    popup.innerHTML = `<ul>${srcItems}</ul>`;
-    popupWrap.style.display = 'block';
-  }
+  if (popupWrap) popupWrap.style.display = 'none';
+  if (popup) popup.classList.remove('open');
 
   tagsEl.innerHTML = tagsHtml;
 

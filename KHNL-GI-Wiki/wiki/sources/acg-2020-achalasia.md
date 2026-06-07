@@ -9,10 +9,11 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [Vaezi MF, et al. ACG Clinical Guidelines: Diagnosis and Management of Achalasia. *Am J Gastroenterol* 2020;115:1393–1411.](https://doi.org/10.14309/ajg.0000000000000731)
 - **Authors:** Vaezi MF, Pandolfino JE, Yadlapati RH, Greer KB, Kavitt RT
 - **Year:** 2020
 - **Journal:** Am J Gastroenterol 2020;115:1393–1411
-- **DOI:** 10.14309/ajg.0000000000000731
+- **DOI:** [10.14309/ajg.0000000000000731](https://doi.org/10.14309/ajg.0000000000000731)
 - **Type:** Clinical guideline (ACG) — updates 2013 ACG achalasia guidelines
 - **GRADE Methodologists:** Yadlapati RH (formally trained)
 

@@ -6,7 +6,6 @@ created: 2026-05-15
 updated: 2026-05-15
 sources: ["[[acg-2020-achalasia]]", "[[asge-2020-achalasia]]"]
 ---
-
 # Achalasia
 
 ## Contents
@@ -79,6 +78,9 @@ All subtypes share **impaired EGJ relaxation**; distinguished by esophageal body
 | **Type I** | 20–40% | 100% aperistalsis, **no** panesophageal pressurization | Good (LHM 81%, PD comparable) | PD, LHM, or [[poem|POEM]] |
 | **Type II** | 50–70% (most common) | 100% aperistalsis + **panesophageal pressurization >30 mmHg** | Best outcomes of all subtypes | PD, LHM, or POEM — any works well |
 | **Type III** | 5% (least common) | **Spastic contractions** ± panesophageal pressurization | Worst with LES-only therapies (LHM 71%, PD 40%) | POEM preferred (93% success); tailored long myotomy |
+
+![[achalasia-2020-chicago-subtypes-05.png|700x183]]
+*Figure 2 — High-resolution manometry of achalasia phenotypes. Type I (left): aperistalsis without esophageal pressurization. Type II (middle): aperistalsis with panesophageal pressurization. Type III (right): premature/spastic contractions. ([[acg-2020-achalasia]])*
 
 Disease progresses: Type III → Type II → Type I as esophagus dilates over time.
 
@@ -243,4 +245,11 @@ flowchart TD
 
 ## See Also
 
-[[high-resolution-manometry]], [[flip-panometry]], [[poem]], [[chicago-classification-v4]], [[distal-esophageal-spasm]], [[hypercontractile-esophagus]], [[gerd]], [[eosinophilic-esophagitis]], [[upper-endoscopy]], [[acg-2020-achalasia]], [[asge-2020-achalasia]]
+[[high-resolution-manometry]], [[flip-panometry]], [[poem]], [[chicago-classification-v4]], [[distal-esophageal-spasm]], [[hypercontractile-esophagus]], [[gerd]], [[eosinophilic-esophagitis]], [[upper-endoscopy]]
+
+---
+
+## Sources
+
+1. [[acg-2020-achalasia|ACG 2020: Diagnosis and Management of Achalasia]]
+2. [[asge-2020-achalasia|ASGE Guideline: Management of Achalasia (2020)]]
