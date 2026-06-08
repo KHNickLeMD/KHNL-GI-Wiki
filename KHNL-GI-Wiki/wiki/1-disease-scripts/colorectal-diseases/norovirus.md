@@ -15,4 +15,11 @@ See [[acute-diarrhea]] for diagnostic algorithm and management.
 
 ## See Also
 
-[[acute-diarrhea]], [[rotavirus]], [[acg-2016-acute-diarrhea]]
+
+[[acute-diarrhea]], [[rotavirus]]
+
+---
+
+## Sources
+
+1. [[acg-2016-acute-diarrhea|ACG 2016: Diagnosis, Treatment, and Prevention of Acute Diarrheal Infections in Adults]]

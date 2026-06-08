@@ -11,10 +11,11 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [Mark Pimentel, MD, FRCP(C), FACG; Richard J. Saad, MD, FACG; Millie D. Long, MD, MPH, FACG (GRADE Methodologist); Satish S. C. Rao, MD, PhD, FRCP, FACG. ACG 2020: Small Intestinal Bacterial Overgrowth. The American Journal of Gastroenterology 2020;115:165–178.](https://doi.org/10.14309/ajg.0000000000000501)
 - **Authors:** Mark Pimentel, MD, FRCP(C), FACG; Richard J. Saad, MD, FACG; Millie D. Long, MD, MPH, FACG (GRADE Methodologist); Satish S. C. Rao, MD, PhD, FRCP, FACG
 - **Year:** 2020 (received February 13, 2019; accepted November 12, 2019; published online January 8, 2020)
 - **Journal/Publisher:** The American Journal of Gastroenterology 2020;115:165–178
-- **DOI:** <https://doi.org/10.14309/ajg.0000000000000501>
+- **DOI:** [10.14309/ajg.0000000000000501](https://doi.org/10.14309/ajg.0000000000000501)
 - **Type:** Guideline (GRADE-based with key concepts by expert consensus)
 
 ---

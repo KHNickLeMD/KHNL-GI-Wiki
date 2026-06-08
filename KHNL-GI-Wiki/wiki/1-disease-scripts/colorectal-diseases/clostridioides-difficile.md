@@ -220,4 +220,12 @@ Higher doses of vancomycin (>125 mg QID) are not recommended for severe CDI — 
 
 ## See Also
 
-[[ulcerative-colitis]], [[crohns-disease]], [[inflammatory-bowel-disease]], [[colonoscopy]], [[salmonella-infection]], [[campylobacter-infection]], [[norovirus]], [[irritable-bowel-syndrome]], [[acg-2021-cdiff]], [[aga-2024-fmt]]
+
+[[ulcerative-colitis]], [[crohns-disease]], [[inflammatory-bowel-disease]], [[colonoscopy]], [[salmonella-infection]], [[campylobacter-infection]], [[norovirus]], [[irritable-bowel-syndrome]]
+
+---
+
+## Sources
+
+1. [[acg-2021-cdiff|ACG 2021: Prevention, Diagnosis, and Treatment of Clostridioides difficile Infections]]
+2. [[aga-2024-fmt|AGA Clinical Practice Guideline: Fecal Microbiota-Based Therapies for Select GI Diseases (2024)]]

@@ -15,4 +15,11 @@ Surgical weight-loss procedures (e.g. laparoscopic sleeve gastrectomy, Roux-en-Y
 
 ## See Also
 
-[[obesity]], [[intragastric-balloon]], [[aga-2021-intragastric-balloons]]
+
+[[obesity]], [[intragastric-balloon]]
+
+---
+
+## Sources
+
+1. [[aga-2021-intragastric-balloons|AGA Clinical Practice Guidelines on Intragastric Balloons in the Management of Obesity (2021)]]

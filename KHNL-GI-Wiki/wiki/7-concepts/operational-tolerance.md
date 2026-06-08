@@ -44,3 +44,10 @@ Per [[aasld-2012-liver-transplant-long-term]] (Rec 9): withdrawal may be underta
 ## See Also
 
 [[liver-transplantation]], [[calcineurin-inhibitors]], [[tacrolimus]]
+
+---
+
+## Sources
+
+1. [[aasld-2012-liver-transplant-long-term|AASLD/AST 2012: Long-Term Management of the Successful Adult Liver Transplant]]
+2. [[aasld-ast-2025-liver-transplant-graft-complications|AASLD/AST 2025: Practice Guideline on Adult Liver Transplantation — Diagnosis and Management of Graft-Related Complications]]

@@ -40,4 +40,12 @@ Compensated or decompensated cirrhosis; uncontrolled active liver disease ([[aut
 
 ## See Also
 
-[[nafld-masld]], [[semaglutide]], [[noninvasive-liver-disease-assessment]], [[drug-induced-liver-injury]], [[aasld-2024-resmetirom]], [[aasld-2023-nafld]]
+
+[[nafld-masld]], [[semaglutide]], [[noninvasive-liver-disease-assessment]], [[drug-induced-liver-injury]]
+
+---
+
+## Sources
+
+1. [[aasld-2024-resmetirom|Resmetirom Therapy for MASLD: October 2024 Updates to AASLD Practice Guidance]]
+2. [[aasld-2023-nafld|AASLD Practice Guidance on the Clinical Assessment and Management of Nonalcoholic Fatty Liver Disease (2023)]]

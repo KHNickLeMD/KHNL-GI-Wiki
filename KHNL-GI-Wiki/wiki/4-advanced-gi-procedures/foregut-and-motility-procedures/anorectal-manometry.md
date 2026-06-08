@@ -34,4 +34,12 @@ BET >1 minute (some labs 2 min) abnormal.
 
 ## See Also
 
-[[defecation-disorders]], [[fecal-incontinence]], [[chronic-idiopathic-constipation]], [[acg-2021-anorectal-disorders]]
+
+[[defecation-disorders]], [[fecal-incontinence]], [[chronic-idiopathic-constipation]]
+
+---
+
+## Sources
+
+1. [[acg-2021-anorectal-disorders|ACG 2021 Clinical Guidelines: Management of Benign Anorectal Disorders]]
+2. [[acg-2020-ibs|ACG 2020 Clinical Guideline: Management of Irritable Bowel Syndrome]]

@@ -124,4 +124,15 @@ Subtypes by Bristol Stool Form Scale **on days with abnormal stools** (assess of
 
 ## See Also
 
-[[disorders-of-gut-brain-interaction]], [[postinfectious-ibs]], [[chronic-idiopathic-constipation]], [[defecation-disorders]], [[small-intestinal-bacterial-overgrowth]], [[celiac-disease]], [[rifaximin]], [[linaclotide]], [[plecanatide]], [[lubiprostone]], [[anorectal-manometry]], [[acg-2020-ibs]], [[rome-v-2026-dgbi]], [[acg-2020-sibo]], [[aga-2022-ibs-c]], [[aga-2022-ibs-d]]
+
+[[disorders-of-gut-brain-interaction]], [[postinfectious-ibs]], [[chronic-idiopathic-constipation]], [[defecation-disorders]], [[small-intestinal-bacterial-overgrowth]], [[celiac-disease]], [[rifaximin]], [[linaclotide]], [[plecanatide]], [[lubiprostone]], [[anorectal-manometry]]
+
+---
+
+## Sources
+
+1. [[acg-2020-ibs|ACG 2020 Clinical Guideline: Management of Irritable Bowel Syndrome]]
+2. [[rome-v-2026-dgbi|Disorders of Gut–Brain Interaction and the Rome V Process]]
+3. [[acg-2020-sibo|ACG 2020: Small Intestinal Bacterial Overgrowth]]
+4. [[aga-2022-ibs-c|AGA Clinical Practice Guideline: Pharmacological Management of IBS-C (2022)]]
+5. [[aga-2022-ibs-d|AGA Clinical Practice Guideline: Pharmacological Management of IBS-D (2022)]]

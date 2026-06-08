@@ -57,4 +57,11 @@ Per ACG 2021 DILI guideline:
 
 ## See Also
 
-[[drug-induced-liver-injury]], [[autoimmune-hepatitis]], [[hepatocellular-carcinoma]], [[tacrolimus]], [[acute-liver-failure]], [[acg-2021-dili]]
+
+[[drug-induced-liver-injury]], [[autoimmune-hepatitis]], [[hepatocellular-carcinoma]], [[tacrolimus]], [[acute-liver-failure]]
+
+---
+
+## Sources
+
+1. [[acg-2021-dili|ACG 2021 Clinical Guideline: Diagnosis and Management of Idiosyncratic Drug-Induced Liver Injury]]

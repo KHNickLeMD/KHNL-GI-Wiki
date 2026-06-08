@@ -123,4 +123,11 @@ GIM affects approximately 5% of the US population. Prevalence is higher in high-
 
 ## See Also
 
-[[helicobacter-pylori-infection]], [[atrophic-gastritis]], [[gastric-premalignant-conditions]], [[gastric-adenocarcinoma]], [[upper-endoscopy]], [[aga-2020-gastric-intestinal-metaplasia]]
+
+[[helicobacter-pylori-infection]], [[atrophic-gastritis]], [[gastric-premalignant-conditions]], [[gastric-adenocarcinoma]], [[upper-endoscopy]]
+
+---
+
+## Sources
+
+1. [[aga-2020-gastric-intestinal-metaplasia|AGA 2020 Clinical Practice Update: Management of Gastric Intestinal Metaplasia]]

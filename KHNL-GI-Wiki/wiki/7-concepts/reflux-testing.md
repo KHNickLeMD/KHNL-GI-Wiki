@@ -205,4 +205,12 @@ These diagnoses require [[ambulatory-reflux-monitoring]] with specific protocols
 
 ## See Also
 
-[[gerd]], [[ambulatory-reflux-monitoring]], [[high-resolution-manometry]], [[hrm-antireflux-surgery]], [[flip-panometry]], [[barretts-esophagus]], [[laryngopharyngeal-symptoms]], [[asge-2024-gerd]], [[acg-2020-esophageal-physiologic-testing]]
+
+[[gerd]], [[ambulatory-reflux-monitoring]], [[high-resolution-manometry]], [[hrm-antireflux-surgery]], [[flip-panometry]], [[barretts-esophagus]], [[laryngopharyngeal-symptoms]]
+
+---
+
+## Sources
+
+1. [[asge-2024-gerd|ASGE 2024: Diagnosis and Management of GERD]]
+2. [[acg-2020-esophageal-physiologic-testing|ACG 2020: Clinical Use of Esophageal Physiologic Testing]]

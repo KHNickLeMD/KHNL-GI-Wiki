@@ -9,12 +9,13 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [Gyawali CP, Yadlapati R, Fass R, Katzka D, Pandolfino J, Savarino E, Sifrim D, Spechler S, Zerbib F, Fox MR, et al. (21 members, core and international working group). Lyon Consensus 2.0 (2024): Evidence-Based Diagnosis of GERD. Gut.](https://doi.org/10.1136/gutjnl-2023-330616)
 - **Authors:** Gyawali CP, Yadlapati R, Fass R, Katzka D, Pandolfino J, Savarino E, Sifrim D, Spechler S, Zerbib F, Fox MR, et al. (21 members, core and international working group)
 - **Title:** Updates to the modern diagnosis of GERD: Lyon Consensus 2.0
 - **Journal:** Gut
 - **Year:** 2024
 - **Citation:** Gut 2024;73:361–371
-- **DOI:** 10.1136/gutjnl-2023-330616
+- **DOI:** [10.1136/gutjnl-2023-330616](https://doi.org/10.1136/gutjnl-2023-330616)
 - **Published online first:** 21 September 2023
 - **Open access:** CC BY-NC 4.0
 

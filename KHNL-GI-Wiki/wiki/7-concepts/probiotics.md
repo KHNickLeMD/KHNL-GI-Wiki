@@ -53,4 +53,11 @@ The AGA recommends probiotic use **only in the context of a clinical trial** (no
 - Probiotics are an attempt to correct [[inflammatory-bowel-disease|microbiome]]-related dysbiosis; for established recurrent C difficile, [[clostridioides-difficile|fecal microbiota transplantation]] has stronger evidence than probiotics.
 
 ## See Also
-[[aga-2020-probiotics]], [[clostridioides-difficile]], [[crohns-disease]], [[ulcerative-colitis]], [[irritable-bowel-syndrome]], [[pouchitis]], [[acute-diarrhea]], [[inflammatory-bowel-disease]]
+
+[[clostridioides-difficile]], [[crohns-disease]], [[ulcerative-colitis]], [[irritable-bowel-syndrome]], [[pouchitis]], [[acute-diarrhea]], [[inflammatory-bowel-disease]]
+
+---
+
+## Sources
+
+1. [[aga-2020-probiotics|AGA Clinical Practice Guidelines on the Role of Probiotics in the Management of Gastrointestinal Disorders]]

@@ -233,3 +233,10 @@ The ACG 2020 guideline [[acg-2020-esophageal-physiologic-testing]] provides the 
 ## See Also
 
 [[hrm-antireflux-surgery]], [[flip-panometry]], [[laryngopharyngeal-symptoms]], [[achalasia]], [[reflux-testing]]
+
+---
+
+## Sources
+
+1. [[lyon-2024-gerd-diagnosis|Lyon Consensus 2.0 (2024): Evidence-Based Diagnosis of GERD]]
+2. [[acg-2020-esophageal-physiologic-testing|ACG 2020: Clinical Use of Esophageal Physiologic Testing]]

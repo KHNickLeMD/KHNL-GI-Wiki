@@ -64,4 +64,12 @@ AGA suggests subsequent weight-loss/maintenance interventions — **dietary inte
 
 ## See Also
 
-[[obesity]], [[aga-2021-intragastric-balloons]], [[aga-2022-obesity-pharm]], [[semaglutide]], [[bariatric-surgery]], [[upper-gi-bleeding]]
+
+[[obesity]], [[semaglutide]], [[bariatric-surgery]], [[upper-gi-bleeding]]
+
+---
+
+## Sources
+
+1. [[aga-2021-intragastric-balloons|AGA Clinical Practice Guidelines on Intragastric Balloons in the Management of Obesity (2021)]]
+2. [[aga-2022-obesity-pharm|AGA Clinical Practice Guideline: Pharmacological Interventions for Adults with Obesity (2022)]]

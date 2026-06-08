@@ -9,10 +9,11 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [Salvador R, Pandolfino JE, Costantini M, Gyawali CP, Keller J, Mittal S, Roman S, Savarino EV, Tatum R, Tolone S, Zerbib F, Capovilla G, Jain A, Kathpalia P, Provenzano L, Yadlapati R. Padova Consensus: High-Resolution Manometry Before and After Antireflux Surgery. Annals of Surgery 2025;281:124–135.](https://doi.org/10.1097/SLA.0000000000006297)
 - **Authors:** Salvador R, Pandolfino JE, Costantini M, Gyawali CP, Keller J, Mittal S, Roman S, Savarino EV, Tatum R, Tolone S, Zerbib F, Capovilla G, Jain A, Kathpalia P, Provenzano L, Yadlapati R
 - **Year:** 2025
 - **Journal/Publisher:** Annals of Surgery 2025;281:124–135
-- **DOI:** 10.1097/SLA.0000000000006297
+- **DOI:** [10.1097/SLA.0000000000006297](https://doi.org/10.1097/SLA.0000000000006297)
 - **Type:** Consensus (RAND/UCLA appropriateness methodology; 29-member expert panel; 3-year process July 2020–June 2023)
 
 ## Summary

@@ -153,4 +153,13 @@ Cirrhosis represents rebalanced hemostasis, not auto-anticoagulation [[acg-2020-
 
 ## See Also
 
-[[budd-chiari-syndrome]], [[colon-ischemia]], [[spontaneous-bacterial-peritonitis]], [[aki-in-cirrhosis]], [[hepatocellular-carcinoma]], [[cirrhosis-hemostasis]], [[portal-hypertension]], [[variceal-upper-gi-bleeding]], [[acute-mesenteric-ischemia]], [[cholangiocarcinoma]], [[liver-transplantation]], [[ercp]], [[acg-2020-hepatic-mesenteric-circulation]], [[aasld-ast-2025-liver-transplant-candidate-evaluation]], [[aasld-2021-vascular-pvt]]
+
+[[budd-chiari-syndrome]], [[colon-ischemia]], [[spontaneous-bacterial-peritonitis]], [[aki-in-cirrhosis]], [[hepatocellular-carcinoma]], [[cirrhosis-hemostasis]], [[portal-hypertension]], [[variceal-upper-gi-bleeding]], [[acute-mesenteric-ischemia]], [[cholangiocarcinoma]], [[liver-transplantation]], [[ercp]]
+
+---
+
+## Sources
+
+1. [[acg-2020-hepatic-mesenteric-circulation|ACG Clinical Guideline: Disorders of the Hepatic and Mesenteric Circulation]]
+2. [[aasld-ast-2025-liver-transplant-candidate-evaluation|AASLD AST 2025: Practice Guideline on Adult Liver Transplantation — Candidate Evaluation]]
+3. [[aasld-2021-vascular-pvt|AASLD Practice Guidance: Vascular Liver Disorders, Portal Vein Thrombosis, and Procedural Bleeding in Cirrhosis (2021)]]

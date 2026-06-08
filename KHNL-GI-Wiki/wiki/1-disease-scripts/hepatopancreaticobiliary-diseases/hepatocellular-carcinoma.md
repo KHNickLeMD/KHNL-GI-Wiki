@@ -469,4 +469,15 @@ Advance care planning (ACP) should be offered to all patients receiving palliati
 
 ## See Also
 
-[[liver-transplantation]], [[portal-hypertension]], [[chronic-hepatitis-b]], [[hepatitis-c]], [[alcohol-associated-liver-disease]], [[nafld-masld]], [[hereditary-hemochromatosis]], [[wilson-disease]], [[autoimmune-hepatitis]], [[immune-checkpoint-inhibitor-hepatitis]], [[hepatocellular-adenoma]], [[focal-nodular-hyperplasia]], [[hepatic-hemangioma]], [[hepatic-cysts]], [[budd-chiari-syndrome]], [[post-transplant-lymphoproliferative-disorder]], [[cholangiocarcinoma]], [[li-rads]], [[hcc-surveillance]], [[calcineurin-inhibitors]], [[aasld-2023-hcc]], [[aasld-2025-hcc-critical-update]], [[aga-2022-hcc-systemic]]
+
+[[liver-transplantation]], [[portal-hypertension]], [[chronic-hepatitis-b]], [[hepatitis-c]], [[alcohol-associated-liver-disease]], [[nafld-masld]], [[hereditary-hemochromatosis]], [[wilson-disease]], [[autoimmune-hepatitis]], [[immune-checkpoint-inhibitor-hepatitis]], [[hepatocellular-adenoma]], [[focal-nodular-hyperplasia]], [[hepatic-hemangioma]], [[hepatic-cysts]], [[budd-chiari-syndrome]], [[post-transplant-lymphoproliferative-disorder]], [[cholangiocarcinoma]], [[li-rads]], [[hcc-surveillance]], [[calcineurin-inhibitors]]
+
+---
+
+## Sources
+
+1. [[aasld-2023-hcc|AASLD 2023 Practice Guidance on Prevention, Diagnosis, and Treatment of Hepatocellular Carcinoma]]
+2. [[aasld-2025-hcc-critical-update|AASLD 2025 Critical Update: Practice Guidance on Prevention, Diagnosis, and Treatment of Hepatocellular Carcinoma]]
+3. [[aasld-ast-2025-liver-transplant-candidate-evaluation|AASLD AST 2025: Practice Guideline on Adult Liver Transplantation — Candidate Evaluation]]
+4. [[aasld-ast-2025-liver-transplant-graft-complications|AASLD/AST 2025: Practice Guideline on Adult Liver Transplantation — Diagnosis and Management of Graft-Related Complications]]
+5. [[aga-2022-hcc-systemic|AGA Clinical Practice Guideline: Systemic Therapy for Hepatocellular Carcinoma (2022)]]

@@ -243,4 +243,17 @@ High-risk = any of: surgery without TME; transanal local excision (TAE or TEM); 
 
 ## See Also
 
-[[colorectal-cancer]], [[polypectomy-emr]], [[lynch-syndrome]], [[familial-adenomatous-polyposis]], [[colorectal-cancer-screening]], [[usmstf-2015-crc-surveillance]], [[usmstf-2020-followup-colonoscopy]], [[usmstf-2021-crc-screening-age]], [[usmstf-2020-endoscopic-removal]], [[usmstf-2025-bowel-prep]], [[aga-2025-cade-colonoscopy]]
+
+[[colorectal-cancer]], [[polypectomy-emr]], [[lynch-syndrome]], [[familial-adenomatous-polyposis]], [[colorectal-cancer-screening]]
+
+---
+
+## Sources
+
+1. [[usmstf-2020-followup-colonoscopy|USMSTF 2020: Recommendations for Follow-Up After Colonoscopy and Polypectomy]]
+2. [[usmstf-2021-crc-screening-age|USMSTF 2021: Updates on Age to Start and Stop CRC Screening]]
+3. [[usmstf-2020-endoscopic-removal|USMSTF 2020: Endoscopic Removal of Colorectal Lesions]]
+4. [[usmstf-2025-bowel-prep|USMSTF 2025: Optimizing Bowel Preparation Quality for Colonoscopy]]
+5. [[acg-2025-bowel-prep|ACG 2025: Optimizing Bowel Preparation Quality for Colonoscopy]]
+6. [[usmstf-2015-crc-surveillance|USMSTF 2015: Colonoscopy Surveillance after Colorectal Cancer Resection]]
+7. [[aga-2025-cade-colonoscopy|AGA Living Guideline: Computer-Aided Detection (CADe)-Assisted Colonoscopy (2025)]]

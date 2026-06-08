@@ -9,10 +9,11 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [Gupta et al. (USMSTF). USMSTF 2020: Recommendations for Follow-Up After Colonoscopy and Polypectomy. Am J Gastroenterol 2020;115:415–434.](https://doi.org/10.14309/ajg.0000000000000544)
 - **Authors:** Gupta et al. (USMSTF)
 - **Year:** 2020
 - **Journal:** Am J Gastroenterol 2020;115:415–434
-- **DOI:** 10.14309/ajg.0000000000000544
+- **DOI:** [10.14309/ajg.0000000000000544](https://doi.org/10.14309/ajg.0000000000000544)
 - **Type:** Consensus update (ACG, AGA, ASGE) — updates 2012 guidelines
 
 ## Summary

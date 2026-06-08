@@ -15,4 +15,12 @@ Obesity (commonly BMI ≥30 kg/m², or ≥27 with weight-related comorbidity) af
 
 ## See Also
 
-[[intragastric-balloon]], [[aga-2021-intragastric-balloons]], [[aga-2022-obesity-pharm]], [[semaglutide]], [[bariatric-surgery]]
+
+[[intragastric-balloon]], [[semaglutide]], [[bariatric-surgery]]
+
+---
+
+## Sources
+
+1. [[aga-2021-intragastric-balloons|AGA Clinical Practice Guidelines on Intragastric Balloons in the Management of Obesity (2021)]]
+2. [[aga-2022-obesity-pharm|AGA Clinical Practice Guideline: Pharmacological Interventions for Adults with Obesity (2022)]]

@@ -284,4 +284,17 @@ Per [[aasld-ast-2025-liver-transplant-graft-complications]] (recurrent MASLD pos
 
 ## See Also
 
-[[alcohol-associated-liver-disease]], [[hepatocellular-carcinoma]], [[liver-transplantation]], [[semaglutide]], [[resmetirom]], [[portal-hypertension]], [[acute-on-chronic-liver-failure]], [[noninvasive-liver-disease-assessment]], [[drug-induced-liver-injury]], [[hereditary-hemochromatosis]], [[wilson-disease]], [[autoimmune-hepatitis]], [[celiac-disease]], [[abnormal-liver-chemistries]], [[aasld-2023-nafld]], [[aasld-2023-masld-nomenclature]], [[aasld-2024-resmetirom]], [[aasld-2025-semaglutide-mash]], [[aasld-2024-nilda-blood]]
+
+[[alcohol-associated-liver-disease]], [[hepatocellular-carcinoma]], [[liver-transplantation]], [[semaglutide]], [[resmetirom]], [[portal-hypertension]], [[acute-on-chronic-liver-failure]], [[noninvasive-liver-disease-assessment]], [[drug-induced-liver-injury]], [[hereditary-hemochromatosis]], [[wilson-disease]], [[autoimmune-hepatitis]], [[celiac-disease]], [[abnormal-liver-chemistries]]
+
+---
+
+## Sources
+
+1. [[aasld-2023-nafld|AASLD Practice Guidance on the Clinical Assessment and Management of Nonalcoholic Fatty Liver Disease (2023)]]
+2. [[aasld-2023-masld-nomenclature|MASLD: Update and Impact of New Nomenclature on the AASLD Practice Guidance on NAFLD (2023)]]
+3. [[aasld-2024-resmetirom|Resmetirom Therapy for MASLD: October 2024 Updates to AASLD Practice Guidance]]
+4. [[aasld-2024-nilda-blood|AASLD 2024 Practice Guideline: Blood-Based Noninvasive Liver Disease Assessment (NILDA) of Hepatic Fibrosis and Steatosis]]
+5. [[aasld-2025-semaglutide-mash|Semaglutide Therapy for Metabolic Dysfunction–Associated Steatohepatitis: November 2025 Updates to AASLD Practice Guidance]]
+6. [[acg-2017-liver-chemistries|ACG 2017: Evaluation of Abnormal Liver Chemistries]]
+7. [[aasld-ast-2025-liver-transplant-graft-complications|AASLD/AST 2025: Practice Guideline on Adult Liver Transplantation — Diagnosis and Management of Graft-Related Complications]]

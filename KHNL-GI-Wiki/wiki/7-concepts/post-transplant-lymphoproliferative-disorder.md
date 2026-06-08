@@ -13,4 +13,11 @@ Post-transplant lymphoproliferative disorder (PTLD) is a spectrum of lymphoid pr
 
 ## See Also
 
-[[liver-transplantation]], [[calcineurin-inhibitors]], [[tacrolimus]], [[aasld-2012-liver-transplant-long-term]]
+
+[[liver-transplantation]], [[calcineurin-inhibitors]], [[tacrolimus]]
+
+---
+
+## Sources
+
+1. [[aasld-2012-liver-transplant-long-term|AASLD/AST 2012: Long-Term Management of the Successful Adult Liver Transplant]]

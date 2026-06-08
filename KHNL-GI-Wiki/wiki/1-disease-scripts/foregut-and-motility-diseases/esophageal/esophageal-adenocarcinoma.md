@@ -13,4 +13,12 @@ Esophageal adenocarcinoma (EAC) is a cancer of the distal esophagus arising thro
 
 ## See Also
 
-[[barretts-esophagus]], [[esophageal-cancer]], [[endoscopic-eradication-therapy]], [[gerd]], [[upper-endoscopy]], [[asge-2018-barretts-eet]], [[asge-2019-barretts-screening-surveillance]]
+
+[[barretts-esophagus]], [[esophageal-cancer]], [[endoscopic-eradication-therapy]], [[gerd]], [[upper-endoscopy]]
+
+---
+
+## Sources
+
+1. [[asge-2018-barretts-eet|ASGE Guideline: Endoscopic Eradication Therapy for Patients with Barrett's Esophagus-Associated Dysplasia and Intramucosal Cancer (2018)]]
+2. [[asge-2019-barretts-screening-surveillance|ASGE Guideline on Screening and Surveillance of Barrett's Esophagus (2019)]]

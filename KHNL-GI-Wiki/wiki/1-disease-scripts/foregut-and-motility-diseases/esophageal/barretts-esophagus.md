@@ -349,4 +349,15 @@ CEIM defined as: 1–2 surveillance endoscopies with no visible BE and no IM on 
 
 ## See Also
 
-[[gerd]], [[eosinophilic-esophagitis]], [[achalasia]], [[esophageal-adenocarcinoma]], [[endoscopic-eradication-therapy]], [[radiofrequency-ablation]], [[polypectomy-emr]], [[upper-endoscopy]], [[endoscopic-ultrasound]], [[antireflux-surgery]], [[acg-2022-barretts]], [[aga-2025-barretts-surveillance]], [[aga-2024-barretts-eet]], [[asge-2018-barretts-eet]], [[asge-2019-barretts-screening-surveillance]]
+
+[[gerd]], [[eosinophilic-esophagitis]], [[achalasia]], [[esophageal-adenocarcinoma]], [[endoscopic-eradication-therapy]], [[radiofrequency-ablation]], [[polypectomy-emr]], [[upper-endoscopy]], [[endoscopic-ultrasound]], [[antireflux-surgery]]
+
+---
+
+## Sources
+
+1. [[acg-2022-barretts|ACG 2022: Diagnosis and Management of Barrett's Esophagus]]
+2. [[aga-2025-barretts-surveillance|AGA Clinical Practice Guideline: Surveillance of Barrett's Esophagus (2025)]]
+3. [[aga-2024-barretts-eet|AGA Clinical Practice Guideline: Endoscopic Eradication Therapy of Barrett's Esophagus and Related Neoplasia (2024)]]
+4. [[asge-2018-barretts-eet|ASGE Guideline: Endoscopic Eradication Therapy for Patients with Barrett's Esophagus-Associated Dysplasia and Intramucosal Cancer (2018)]]
+5. [[asge-2019-barretts-screening-surveillance|ASGE Guideline on Screening and Surveillance of Barrett's Esophagus (2019)]]

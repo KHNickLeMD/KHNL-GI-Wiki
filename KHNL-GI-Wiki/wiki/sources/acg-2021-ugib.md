@@ -9,10 +9,11 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [Loren Laine, MD, FACG; Alan N. Barkun, MD, FACG; John R. Saltzman, MD, FACG; Myriam Martel, MSc; Grigorios I. Leontiadis, MD, PhD. ACG 2021: Upper Gastrointestinal and Ulcer Bleeding. American Journal of Gastroenterology.](https://doi.org/10.14309/ajg.0000000000001245)
 - **Authors:** Loren Laine, MD, FACG; Alan N. Barkun, MD, FACG; John R. Saltzman, MD, FACG; Myriam Martel, MSc; Grigorios I. Leontiadis, MD, PhD
 - **Journal:** American Journal of Gastroenterology
 - **Volume/Year:** 116:899–917, May 2021
-- **DOI:** <https://doi.org/10.14309/ajg.0000000000001245>
+- **DOI:** [10.14309/ajg.0000000000001245](https://doi.org/10.14309/ajg.0000000000001245)
 - **Type:** Guideline (GRADE methodology)
 - **Literature search:** Database inception through October 2019 (EMBASE, Ovid MEDLINE, ISI Web of Science); RCTs and meta-analyses of RCTs preferred; observational studies only when RCTs unavailable
 - **Updates from:** ACG 2012 UGIB Guideline (Laine & Jensen)

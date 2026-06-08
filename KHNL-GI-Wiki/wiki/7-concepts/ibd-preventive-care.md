@@ -103,4 +103,11 @@ Conventional DEXA risk factors apply: age, female sex, low BMI, smoking, family 
 
 ## See Also
 
-[[inflammatory-bowel-disease]], [[crohns-disease]], [[ulcerative-colitis]], [[colonoscopy]], [[acg-2025-ibd-preventive-care]]
+
+[[inflammatory-bowel-disease]], [[crohns-disease]], [[ulcerative-colitis]], [[colonoscopy]]
+
+---
+
+## Sources
+
+1. [[acg-2025-ibd-preventive-care|ACG 2025: Preventive Care in Inflammatory Bowel Disease]]

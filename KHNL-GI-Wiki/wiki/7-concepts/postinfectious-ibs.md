@@ -23,4 +23,11 @@ See [[irritable-bowel-syndrome]] for full IBS diagnostic criteria and management
 
 ## See Also
 
-[[irritable-bowel-syndrome]], [[acute-diarrhea]], [[disorders-of-gut-brain-interaction]], [[acg-2016-acute-diarrhea]]
+
+[[irritable-bowel-syndrome]], [[acute-diarrhea]], [[disorders-of-gut-brain-interaction]]
+
+---
+
+## Sources
+
+1. [[acg-2016-acute-diarrhea|ACG 2016: Diagnosis, Treatment, and Prevention of Acute Diarrheal Infections in Adults]]

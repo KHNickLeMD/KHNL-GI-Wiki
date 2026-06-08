@@ -205,4 +205,11 @@ Gastric adenocarcinoma
 
 ## See Also
 
-[[helicobacter-pylori-infection]], [[acg-2025-gastric-premalignant]]
+
+[[helicobacter-pylori-infection]]
+
+---
+
+## Sources
+
+1. [[acg-2025-gastric-premalignant|ACG 2025: Diagnosis and Management of Gastric Premalignant Conditions]]

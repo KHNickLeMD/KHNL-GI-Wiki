@@ -22,4 +22,11 @@ See [[acute-diarrhea]] for full diagnostic algorithm and management framework. F
 
 ## See Also
 
-[[acute-diarrhea]], [[fever-returning-traveler]], [[campylobacter-infection]], [[shigellosis]], [[rifaximin]], [[acg-2016-acute-diarrhea]]
+
+[[acute-diarrhea]], [[fever-returning-traveler]], [[campylobacter-infection]], [[shigellosis]], [[rifaximin]]
+
+---
+
+## Sources
+
+1. [[acg-2016-acute-diarrhea|ACG 2016: Diagnosis, Treatment, and Prevention of Acute Diarrheal Infections in Adults]]

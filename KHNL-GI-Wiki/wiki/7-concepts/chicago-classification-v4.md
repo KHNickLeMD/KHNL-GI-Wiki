@@ -119,3 +119,10 @@ The ACG 2020 guideline [[acg-2020-esophageal-physiologic-testing]] predates CC v
 ## See Also
 
 [[achalasia]], [[flip-panometry]], [[high-resolution-manometry]], [[reflux-testing]], [[distal-esophageal-spasm]], [[hypercontractile-esophagus]], [[ineffective-esophageal-motility]], [[gerd]]
+
+---
+
+## Sources
+
+1. [[chicago-v4-2021-esophageal-dysmotility|Chicago Classification v4.0: Esophageal Motility Disorders]]
+2. [[acg-2020-esophageal-physiologic-testing|ACG 2020: Clinical Use of Esophageal Physiologic Testing]]

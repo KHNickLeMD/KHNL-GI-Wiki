@@ -175,4 +175,11 @@ Normal basal + Normal IRP + Intact/normal peristalsis
 
 ## See Also
 
-[[achalasia]], [[flip-panometry]], [[disorders-of-gut-brain-interaction]], [[padova-2025-hrm-antireflux]]
+
+[[achalasia]], [[flip-panometry]], [[disorders-of-gut-brain-interaction]]
+
+---
+
+## Sources
+
+1. [[padova-2025-hrm-antireflux|Padova Consensus: High-Resolution Manometry Before and After Antireflux Surgery]]

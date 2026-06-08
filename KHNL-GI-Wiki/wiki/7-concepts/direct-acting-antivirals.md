@@ -34,4 +34,11 @@ For full treatment tables, resistance-associated substitution guidance, and retr
 
 ## See Also
 
-[[hepatitis-c]], [[calcineurin-inhibitors]], [[liver-transplantation]], [[aasld-idsa-2023-hcv]]
+
+[[hepatitis-c]], [[calcineurin-inhibitors]], [[liver-transplantation]]
+
+---
+
+## Sources
+
+1. [[aasld-idsa-2023-hcv|AASLD-IDSA 2023 Hepatitis C Guidance Update]]

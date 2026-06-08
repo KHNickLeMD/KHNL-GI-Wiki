@@ -150,4 +150,11 @@ Surgical approach: resection of ischemic segment; primary anastomosis vs. divert
 
 ## See Also
 
-[[acute-lower-gi-bleeding]], [[acute-mesenteric-ischemia]], [[crohns-disease]], [[ulcerative-colitis]], [[colonoscopy]], [[clostridioides-difficile]], [[portal-vein-thrombosis]], [[acg-2015-colon-ischemia]]
+
+[[acute-lower-gi-bleeding]], [[acute-mesenteric-ischemia]], [[crohns-disease]], [[ulcerative-colitis]], [[colonoscopy]], [[clostridioides-difficile]], [[portal-vein-thrombosis]]
+
+---
+
+## Sources
+
+1. [[acg-2015-colon-ischemia|ACG Clinical Guideline: Epidemiology, Risk Factors, Patterns of Presentation, Diagnosis, and Management of Colon Ischemia]]

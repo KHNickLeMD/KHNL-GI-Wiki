@@ -111,4 +111,11 @@ The diagnosis of symptomatic internal hemorrhoids requires exclusion of other so
 
 ## See Also
 
-[[anal-fissure]], [[fecal-incontinence]], [[rectal-prolapse]], [[colorectal-cancer]], [[colorectal-cancer-screening]], [[crohns-disease]], [[colonoscopy]], [[acg-2021-anorectal-disorders]]
+
+[[anal-fissure]], [[fecal-incontinence]], [[rectal-prolapse]], [[colorectal-cancer]], [[colorectal-cancer-screening]], [[crohns-disease]], [[colonoscopy]]
+
+---
+
+## Sources
+
+1. [[acg-2021-anorectal-disorders|ACG 2021 Clinical Guidelines: Management of Benign Anorectal Disorders]]

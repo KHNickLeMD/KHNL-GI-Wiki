@@ -333,4 +333,15 @@ Per [[aasld-ast-2025-liver-transplant-graft-complications]] (recommendations for
 
 ## See Also
 
-[[acg-2024-ald]], [[aasld-2020-ald]], [[liver-transplantation]], [[aki-in-cirrhosis]], [[acute-pancreatitis]], [[nafld-masld]], [[hereditary-hemochromatosis]], [[portal-hypertension]], [[acute-on-chronic-liver-failure]], [[hepatic-encephalopathy]], [[hepatocellular-carcinoma]], [[autoimmune-hepatitis]], [[wilson-disease]], [[drug-induced-liver-injury]], [[variceal-upper-gi-bleeding]], [[spontaneous-bacterial-peritonitis]], [[ascites]], [[portal-vein-thrombosis]], [[hepatitis-c]], [[aasld-ast-2025-liver-transplant-candidate-evaluation]]
+
+[[liver-transplantation]], [[aki-in-cirrhosis]], [[acute-pancreatitis]], [[nafld-masld]], [[hereditary-hemochromatosis]], [[portal-hypertension]], [[acute-on-chronic-liver-failure]], [[hepatic-encephalopathy]], [[hepatocellular-carcinoma]], [[autoimmune-hepatitis]], [[wilson-disease]], [[drug-induced-liver-injury]], [[variceal-upper-gi-bleeding]], [[spontaneous-bacterial-peritonitis]], [[ascites]], [[portal-vein-thrombosis]], [[hepatitis-c]]
+
+---
+
+## Sources
+
+1. [[acg-2024-ald|ACG Clinical Guideline: Alcohol-Associated Liver Disease (2024)]]
+2. [[acg-2017-liver-chemistries|ACG 2017: Evaluation of Abnormal Liver Chemistries]]
+3. [[aasld-ast-2025-liver-transplant-candidate-evaluation|AASLD AST 2025: Practice Guideline on Adult Liver Transplantation — Candidate Evaluation]]
+4. [[aasld-ast-2025-liver-transplant-graft-complications|AASLD/AST 2025: Practice Guideline on Adult Liver Transplantation — Diagnosis and Management of Graft-Related Complications]]
+5. [[aasld-2020-ald|AASLD 2019/2020 Practice Guidance: Diagnosis and Treatment of Alcohol-Associated Liver Diseases]]

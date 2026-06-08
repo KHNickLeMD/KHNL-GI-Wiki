@@ -186,4 +186,11 @@ For recurrent HCV post liver or kidney transplantation:
 
 ## See Also
 
-[[chronic-hepatitis-b]], [[direct-acting-antivirals]], [[portal-hypertension]], [[hepatocellular-carcinoma]], [[hcc-surveillance]], [[liver-transplantation]], [[liver-disease-in-pregnancy]], [[hepatitis-c-in-pregnancy]], [[aki-in-cirrhosis]], [[autoimmune-hepatitis]], [[alcohol-associated-liver-disease]], [[nafld-masld]], [[drug-induced-liver-injury]], [[aasld-idsa-2023-hcv]]
+
+[[chronic-hepatitis-b]], [[direct-acting-antivirals]], [[portal-hypertension]], [[hepatocellular-carcinoma]], [[hcc-surveillance]], [[liver-transplantation]], [[liver-disease-in-pregnancy]], [[hepatitis-c-in-pregnancy]], [[aki-in-cirrhosis]], [[autoimmune-hepatitis]], [[alcohol-associated-liver-disease]], [[nafld-masld]], [[drug-induced-liver-injury]]
+
+---
+
+## Sources
+
+1. [[aasld-idsa-2023-hcv|AASLD-IDSA 2023 Hepatitis C Guidance Update]]

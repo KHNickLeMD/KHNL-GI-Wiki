@@ -312,4 +312,11 @@ Define: persistent symptoms/signs/labs after 6–12 months of GFD. Systematic st
 
 ## See Also
 
-[[irritable-bowel-syndrome]], [[small-intestinal-bacterial-overgrowth]], [[crohns-disease]], [[disorders-of-gut-brain-interaction]], [[atrophic-gastritis]], [[helicobacter-pylori-infection]], [[upper-endoscopy]], [[acg-2022-celiac]]
+
+[[irritable-bowel-syndrome]], [[small-intestinal-bacterial-overgrowth]], [[crohns-disease]], [[disorders-of-gut-brain-interaction]], [[atrophic-gastritis]], [[helicobacter-pylori-infection]], [[upper-endoscopy]]
+
+---
+
+## Sources
+
+1. [[acg-2022-celiac|ACG 2022: Diagnosis and Management of Celiac Disease]]

@@ -9,10 +9,11 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [Camilleri M, Kuo B, Nguyen L, Vaughn VM, Petrey J, Greer K, Yadlapati R, Abell TL. ACG 2022: Gastroparesis. Am J Gastroenterol 2022;117:1197–1220.](https://doi.org/10.14309/ajg.0000000000001874)
 - **Authors:** Camilleri M, Kuo B, Nguyen L, Vaughn VM, Petrey J, Greer K, Yadlapati R, Abell TL
 - **Year:** 2022
 - **Journal:** Am J Gastroenterol 2022;117:1197–1220
-- **DOI:** 10.14309/ajg.0000000000001874; published online June 3, 2022
+- **DOI:** [10.14309/ajg.0000000000001874](https://doi.org/10.14309/ajg.0000000000001874)
 - **Type:** Clinical guideline (ACG) — updates 2013 ACG guideline
 - **Note:** GRADE methodology throughout; 20 numbered recommendations; 121 references included after screening 1,908
 

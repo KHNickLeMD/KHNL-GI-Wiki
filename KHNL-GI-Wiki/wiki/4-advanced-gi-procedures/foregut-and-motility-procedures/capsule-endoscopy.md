@@ -19,4 +19,11 @@ See [[small-bowel-bleeding]] for full diagnostic algorithm and sequencing with [
 
 ## See Also
 
-[[small-bowel-bleeding]], [[crohns-disease]], [[peutz-jeghers-syndrome]], [[familial-adenomatous-polyposis]], [[device-assisted-enteroscopy]], [[acg-2015-small-bowel-bleeding]]
+
+[[small-bowel-bleeding]], [[crohns-disease]], [[peutz-jeghers-syndrome]], [[familial-adenomatous-polyposis]], [[device-assisted-enteroscopy]]
+
+---
+
+## Sources
+
+1. [[acg-2015-small-bowel-bleeding|ACG 2015: Diagnosis and Management of Small Bowel Bleeding]]

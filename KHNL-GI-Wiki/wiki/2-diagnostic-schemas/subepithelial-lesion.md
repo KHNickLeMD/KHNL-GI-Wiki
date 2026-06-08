@@ -196,4 +196,11 @@ Presence of ≥2 of: irregular border, echogenic foci, cystic spaces → maligna
 
 ## See Also
 
-[[endoscopic-ultrasound]], [[polypectomy-emr]], [[atrophic-gastritis]], [[colonoscopy]], [[upper-endoscopy]], [[acg-2023-subepithelial-lesions]]
+
+[[endoscopic-ultrasound]], [[polypectomy-emr]], [[atrophic-gastritis]], [[colonoscopy]], [[upper-endoscopy]]
+
+---
+
+## Sources
+
+1. [[acg-2023-subepithelial-lesions|ACG 2023: Diagnosis and Management of Gastrointestinal Subepithelial Lesions]]

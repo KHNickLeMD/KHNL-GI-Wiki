@@ -132,4 +132,11 @@ Six-category matrix combining EGJ Opening × Contractile Response:
 
 ## See Also
 
-[[achalasia]], [[hrm-antireflux-surgery]], [[endoscopic-ultrasound]], [[dallas-2025-flip-panometry]]
+
+[[achalasia]], [[hrm-antireflux-surgery]], [[endoscopic-ultrasound]]
+
+---
+
+## Sources
+
+1. [[dallas-2025-flip-panometry|Dallas Consensus on the Classification of Esophageal Motility Abnormalities: FLIP Panometry (v2.0)]]

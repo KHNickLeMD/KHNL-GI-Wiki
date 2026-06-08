@@ -368,4 +368,12 @@ See also: [[wilson-disease]]
 
 ## See Also
 
-[[abnormal-liver-chemistries]], [[acute-liver-failure]], [[chronic-hepatitis-b]], [[hepatitis-c-in-pregnancy]], [[autoimmune-hepatitis]], [[primary-biliary-cholangitis]], [[wilson-disease]], [[drug-induced-liver-injury]], [[nafld-masld]], [[portal-hypertension]], [[variceal-upper-gi-bleeding]], [[liver-transplantation]], [[ercp]], [[acg-2016-liver-disease-pregnancy]], [[aasld-2021-reproductive-liver]]
+
+[[abnormal-liver-chemistries]], [[acute-liver-failure]], [[chronic-hepatitis-b]], [[hepatitis-c-in-pregnancy]], [[autoimmune-hepatitis]], [[primary-biliary-cholangitis]], [[wilson-disease]], [[drug-induced-liver-injury]], [[nafld-masld]], [[portal-hypertension]], [[variceal-upper-gi-bleeding]], [[liver-transplantation]], [[ercp]]
+
+---
+
+## Sources
+
+1. [[acg-2016-liver-disease-pregnancy|ACG Clinical Guideline: Liver Disease and Pregnancy (2016)]]
+2. [[aasld-2021-reproductive-liver|AASLD Practice Guidance: Reproductive Health and Liver Disease (2021)]]

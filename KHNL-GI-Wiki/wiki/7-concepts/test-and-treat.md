@@ -70,4 +70,11 @@ A management strategy for **uninvestigated [[dyspepsia]]** in which patients are
 
 ## See Also
 
-[[helicobacter-pylori-infection]], [[acg-2017-hp-guidelines]]
+
+[[helicobacter-pylori-infection]]
+
+---
+
+## Sources
+
+1. [[acg-2017-hp-guidelines|ACG Clinical Guideline: Treatment of Helicobacter pylori Infection (2017)]]

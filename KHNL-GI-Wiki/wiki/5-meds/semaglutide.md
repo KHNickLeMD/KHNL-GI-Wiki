@@ -199,4 +199,12 @@ For VCTE 15–20 kPa, MRE 4.4–5 kPa, or ELF 10.5–11.3: individualized treatm
 
 ## See Also
 
-[[nafld-masld]], [[alcohol-associated-liver-disease]], [[acute-pancreatitis]], [[aga-2022-obesity-pharm]]
+
+[[nafld-masld]], [[alcohol-associated-liver-disease]], [[acute-pancreatitis]]
+
+---
+
+## Sources
+
+1. [[aasld-2025-semaglutide-mash|Semaglutide Therapy for Metabolic Dysfunction–Associated Steatohepatitis: November 2025 Updates to AASLD Practice Guidance]]
+2. [[aga-2022-obesity-pharm|AGA Clinical Practice Guideline: Pharmacological Interventions for Adults with Obesity (2022)]]

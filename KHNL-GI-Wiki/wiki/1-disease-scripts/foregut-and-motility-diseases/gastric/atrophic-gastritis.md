@@ -201,4 +201,11 @@ Metastasis rate: <10% for NETs ≤2 cm; ~20% for NETs >2 cm.
 
 ## See Also
 
-[[gastric-premalignant-conditions]], [[gastric-intestinal-metaplasia]], [[gastric-adenocarcinoma]], [[helicobacter-pylori-infection]], [[celiac-disease]], [[endoscopic-ultrasound]], [[upper-endoscopy]], [[aga-2021-atrophic-gastritis]]
+
+[[gastric-premalignant-conditions]], [[gastric-intestinal-metaplasia]], [[gastric-adenocarcinoma]], [[helicobacter-pylori-infection]], [[celiac-disease]], [[endoscopic-ultrasound]], [[upper-endoscopy]]
+
+---
+
+## Sources
+
+1. [[aga-2021-atrophic-gastritis|AGA 2021: Diagnosis and Management of Atrophic Gastritis]]

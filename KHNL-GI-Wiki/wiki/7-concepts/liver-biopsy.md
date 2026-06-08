@@ -88,4 +88,12 @@ Adequacy is essential to justify the procedural risk:
 Serum fibrosis panels and elastography (transient/MR) increasingly assess fibrosis without biopsy. At the time of the 2009 paper these were insufficiently precise to replace histology (Rec 29 recommends biopsy "until clearly superior methodologies are developed and validated," Class IIB/C). The AASLD 2024 NILDA guidance (`[[noninvasive-liver-disease-assessment]]`) has since positioned elastography and serum tests as first-line fibrosis assessment in many settings, narrowing biopsy to diagnostic uncertainty and discordant/indeterminate noninvasive results.
 
 ## See Also
-[[noninvasive-liver-disease-assessment]], [[cirrhosis-hemostasis]], [[autoimmune-hepatitis]], [[nafld-masld]], [[primary-biliary-cholangitis]], [[primary-sclerosing-cholangitis]], [[wilson-disease]], [[hereditary-hemochromatosis]], [[hepatocellular-carcinoma]], [[cholangiocarcinoma]], [[drug-induced-liver-injury]], [[portal-hypertension]], [[endoscopic-ultrasound]], [[aasld-2009-liver-biopsy]], [[aga-2021-cirrhosis-coagulation]]
+
+[[noninvasive-liver-disease-assessment]], [[cirrhosis-hemostasis]], [[autoimmune-hepatitis]], [[nafld-masld]], [[primary-biliary-cholangitis]], [[primary-sclerosing-cholangitis]], [[wilson-disease]], [[hereditary-hemochromatosis]], [[hepatocellular-carcinoma]], [[cholangiocarcinoma]], [[drug-induced-liver-injury]], [[portal-hypertension]], [[endoscopic-ultrasound]]
+
+---
+
+## Sources
+
+1. [[aasld-2009-liver-biopsy|AASLD 2009 Position Paper: Liver Biopsy]]
+2. [[aga-2021-cirrhosis-coagulation|AGA Clinical Practice Guideline: Coagulation Disorders in Cirrhosis (2021)]]

@@ -124,4 +124,12 @@ Severity based on symptom burden, laxative dependence, impact on QoL (PAC-QoL, P
 
 ## See Also
 
-[[chronic-idiopathic-constipation]], [[fecal-incontinence]], [[hemorrhoids]], [[anal-fissure]], [[rectal-prolapse]], [[anorectal-manometry]], [[biofeedback-therapy]], [[sacral-nerve-stimulation]], [[acg-2021-anorectal-disorders]], [[aga-acg-2023-constipation]]
+
+[[chronic-idiopathic-constipation]], [[fecal-incontinence]], [[hemorrhoids]], [[anal-fissure]], [[rectal-prolapse]], [[anorectal-manometry]], [[biofeedback-therapy]], [[sacral-nerve-stimulation]]
+
+---
+
+## Sources
+
+1. [[acg-2021-anorectal-disorders|ACG 2021 Clinical Guidelines: Management of Benign Anorectal Disorders]]
+2. [[aga-acg-2023-constipation|AGA-ACG 2023 Pharmacologic Management of Chronic Idiopathic Constipation]]

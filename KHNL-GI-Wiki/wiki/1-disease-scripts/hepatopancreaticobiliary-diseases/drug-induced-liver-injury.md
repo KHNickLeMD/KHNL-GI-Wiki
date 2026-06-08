@@ -169,4 +169,13 @@ Roussel Uclaf Causality Assessment Method — scoring system (−10 to +14):
 
 ## See Also
 
-[[abnormal-liver-chemistries]], [[acute-liver-failure]], [[autoimmune-hepatitis]], [[helicobacter-pylori-infection]], [[inflammatory-bowel-disease]], [[nafld-masld]], [[primary-biliary-cholangitis]], [[primary-sclerosing-cholangitis]], [[wilson-disease]], [[budd-chiari-syndrome]], [[immune-checkpoint-inhibitor-hepatitis]], [[liver-transplantation]], [[ercp]], [[acg-2021-dili]], [[acg-2017-liver-chemistries]], [[aasld-2022-dili]]
+
+[[abnormal-liver-chemistries]], [[acute-liver-failure]], [[autoimmune-hepatitis]], [[helicobacter-pylori-infection]], [[inflammatory-bowel-disease]], [[nafld-masld]], [[primary-biliary-cholangitis]], [[primary-sclerosing-cholangitis]], [[wilson-disease]], [[budd-chiari-syndrome]], [[immune-checkpoint-inhibitor-hepatitis]], [[liver-transplantation]], [[ercp]]
+
+---
+
+## Sources
+
+1. [[acg-2021-dili|ACG 2021 Clinical Guideline: Diagnosis and Management of Idiosyncratic Drug-Induced Liver Injury]]
+2. [[acg-2017-liver-chemistries|ACG 2017: Evaluation of Abnormal Liver Chemistries]]
+3. [[aasld-2022-dili|AASLD Practice Guidance: Drug, Herbal, and Dietary Supplement-Induced Liver Injury (2022)]]

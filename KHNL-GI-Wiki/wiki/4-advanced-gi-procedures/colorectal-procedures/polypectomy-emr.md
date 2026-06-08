@@ -333,4 +333,14 @@ After endoscopic resection reveals a malignant polyp, histologic features determ
 
 ## See Also
 
-[[colonoscopy]], [[colorectal-cancer]], [[colorectal-cancer-screening]], [[endoscopic-ultrasound]], [[lynch-syndrome]], [[usmstf-2020-endoscopic-removal]], [[asge-2020-endoscopic-removal]], [[usmstf-2020-followup-colonoscopy]], [[usmstf-2020-malignant-colorectal-polyps]]
+
+[[colonoscopy]], [[colorectal-cancer]], [[colorectal-cancer-screening]], [[endoscopic-ultrasound]], [[lynch-syndrome]]
+
+---
+
+## Sources
+
+1. [[usmstf-2020-endoscopic-removal|USMSTF 2020: Endoscopic Removal of Colorectal Lesions]]
+2. [[asge-2020-endoscopic-removal|ASGE 2020: Endoscopic Removal of Colorectal Lesions]]
+3. [[usmstf-2020-malignant-colorectal-polyps|USMSTF 2020: Endoscopic Recognition and Management Strategies for Malignant Colorectal Polyps]]
+4. [[usmstf-2020-followup-colonoscopy|USMSTF 2020: Recommendations for Follow-Up After Colonoscopy and Polypectomy]]

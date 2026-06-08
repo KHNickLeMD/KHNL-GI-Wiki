@@ -35,4 +35,12 @@ This subspecialty typically requires advanced endoscopy fellowship beyond standa
 
 ## See Also
 
-[[endoscopic-ultrasound]], [[polypectomy-emr]], [[ercp]], [[barretts-esophagus]], [[colorectal-cancer]], [[gastric-adenocarcinoma]], [[chang-2024-endoscopic-oncologist]], [[asge-2023-esd]]
+
+[[endoscopic-ultrasound]], [[polypectomy-emr]], [[ercp]], [[barretts-esophagus]], [[colorectal-cancer]], [[gastric-adenocarcinoma]]
+
+---
+
+## Sources
+
+1. [[chang-2024-endoscopic-oncologist|The Vital Role of the Endoscopic Oncologist]]
+2. [[asge-2023-esd|ASGE Guideline: ESD for Early Esophageal and Gastric Cancer (2023)]]

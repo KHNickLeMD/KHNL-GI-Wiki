@@ -37,4 +37,15 @@ Most blood/imaging NITs have **high negative predictive value (rule-out)** but *
 
 ## See Also
 
-[[nafld-masld]], [[aasld-2024-nilda-blood]], [[aasld-2023-nafld]], [[semaglutide]], [[portal-hypertension]], [[primary-sclerosing-cholangitis]], [[primary-biliary-cholangitis]], [[hereditary-hemochromatosis]], [[aasld-2025-semaglutide-mash]], [[aasld-2024-nilda-imaging]], [[aasld-2024-nilda-portal-htn]]
+
+[[nafld-masld]], [[semaglutide]], [[portal-hypertension]], [[primary-sclerosing-cholangitis]], [[primary-biliary-cholangitis]], [[hereditary-hemochromatosis]]
+
+---
+
+## Sources
+
+1. [[aasld-2024-nilda-blood|AASLD 2024 Practice Guideline: Blood-Based Noninvasive Liver Disease Assessment (NILDA) of Hepatic Fibrosis and Steatosis]]
+2. [[aasld-2023-nafld|AASLD Practice Guidance on the Clinical Assessment and Management of Nonalcoholic Fatty Liver Disease (2023)]]
+3. [[aasld-2025-semaglutide-mash|Semaglutide Therapy for Metabolic Dysfunction–Associated Steatohepatitis: November 2025 Updates to AASLD Practice Guidance]]
+4. [[aasld-2024-nilda-imaging|AASLD Practice Guideline: Imaging-Based Noninvasive Liver Disease Assessment (Fibrosis & Steatosis) (2024)]]
+5. [[aasld-2024-nilda-portal-htn|AASLD Practice Guideline: Noninvasive Assessment of Portal Hypertension (2024)]]

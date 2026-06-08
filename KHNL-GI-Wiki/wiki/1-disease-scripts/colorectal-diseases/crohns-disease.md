@@ -334,4 +334,14 @@ No single pathognomonic test. Diagnosis = integration of:
 
 ## See Also
 
-[[ulcerative-colitis]], [[inflammatory-bowel-disease]], [[uc-vs-crohns-comparison]], [[ibd-preventive-care]], [[clostridioides-difficile]], [[celiac-disease]], [[colorectal-cancer]], [[primary-sclerosing-cholangitis]], [[capsule-endoscopy]], [[colonoscopy]], [[acg-2025-crohns]], [[aga-2025-crohns-pharm]], [[aga-2021-crohns-pharm]], [[aga-2023-biomarkers-cd]]
+
+[[ulcerative-colitis]], [[inflammatory-bowel-disease]], [[uc-vs-crohns-comparison]], [[ibd-preventive-care]], [[clostridioides-difficile]], [[celiac-disease]], [[colorectal-cancer]], [[primary-sclerosing-cholangitis]], [[capsule-endoscopy]], [[colonoscopy]]
+
+---
+
+## Sources
+
+1. [[acg-2025-crohns|ACG 2025: Management of Crohn's Disease in Adults]]
+2. [[aga-2025-crohns-pharm|AGA Living Guideline: Pharmacologic Management of Moderate-to-Severe Crohn's Disease (2025)]]
+3. [[aga-2021-crohns-pharm|AGA Clinical Practice Guidelines on the Medical Management of Moderate to Severe Luminal and Perianal Fistulizing Crohn's Disease (2021)]]
+4. [[aga-2023-biomarkers-cd|AGA Clinical Practice Guideline: Role of Biomarkers for the Management of Crohn's Disease (2023)]]

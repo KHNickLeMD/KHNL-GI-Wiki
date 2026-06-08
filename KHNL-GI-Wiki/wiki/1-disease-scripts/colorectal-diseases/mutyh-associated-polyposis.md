@@ -23,4 +23,11 @@ sources: [acg-2015-hereditary-gi-cancer]
 
 ## See Also
 
-[[familial-adenomatous-polyposis]], [[lynch-syndrome]], [[colorectal-cancer]], [[colonoscopy]], [[upper-endoscopy]], [[acg-2015-hereditary-gi-cancer]]
+
+[[familial-adenomatous-polyposis]], [[lynch-syndrome]], [[colorectal-cancer]], [[colonoscopy]], [[upper-endoscopy]]
+
+---
+
+## Sources
+
+1. [[acg-2015-hereditary-gi-cancer|ACG 2015: Genetic Testing and Management of Hereditary Gastrointestinal Cancer Syndromes]]

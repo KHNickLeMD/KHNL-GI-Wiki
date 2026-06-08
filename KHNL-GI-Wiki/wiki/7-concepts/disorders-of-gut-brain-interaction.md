@@ -197,3 +197,9 @@ Severity-guided biopsychosocial approach:
 ## See Also
 
 [[test-and-treat]]
+
+---
+
+## Sources
+
+1. [[rome-v-2026-dgbi|Disorders of Gut–Brain Interaction and the Rome V Process]]

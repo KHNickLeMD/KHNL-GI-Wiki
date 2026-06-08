@@ -9,10 +9,11 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [Francis A. Farraye, Gil Y. Melmed, Gary R. Lichtenstein, Edward L. Barnes, Berkeley N. Limketkai, Freddy Caldera, Sunanda Kane. ACG 2025: Preventive Care in Inflammatory Bowel Disease. American Journal of Gastroenterology, 120:1447–1473.](https://doi.org/10.14309/ajg.0000000000003541)
 - **Authors:** Francis A. Farraye, Gil Y. Melmed, Gary R. Lichtenstein, Edward L. Barnes, Berkeley N. Limketkai, Freddy Caldera, Sunanda Kane
 - **Year:** 2025
 - **Journal:** American Journal of Gastroenterology, 120:1447–1473
-- **DOI:** <https://doi.org/10.14309/ajg.0000000000003541>
+- **DOI:** [10.14309/ajg.0000000000003541](https://doi.org/10.14309/ajg.0000000000003541)
 - **Type:** ACG Clinical Guideline Update (GRADE methodology)
 
 ## Summary

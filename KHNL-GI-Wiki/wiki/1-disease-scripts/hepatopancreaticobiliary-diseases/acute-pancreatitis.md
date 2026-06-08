@@ -239,4 +239,11 @@ BISAP ≥3 = high risk for severe AP and mortality
 
 ## See Also
 
-[[acg-2024-acute-pancreatitis]], [[alcohol-associated-liver-disease]], [[chronic-pancreatitis]], [[pancreatic-cysts]], [[ercp]], [[endoscopic-ultrasound]], [[peptic-ulcer-disease]], [[acute-mesenteric-ischemia]]
+
+[[alcohol-associated-liver-disease]], [[chronic-pancreatitis]], [[pancreatic-cysts]], [[ercp]], [[endoscopic-ultrasound]], [[peptic-ulcer-disease]], [[acute-mesenteric-ischemia]]
+
+---
+
+## Sources
+
+1. [[acg-2024-acute-pancreatitis|ACG Clinical Guideline: Management of Acute Pancreatitis (2024)]]

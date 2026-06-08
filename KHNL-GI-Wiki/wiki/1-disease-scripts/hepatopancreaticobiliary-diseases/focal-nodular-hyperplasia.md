@@ -112,4 +112,11 @@ Key concern is distinguishing FNH from HCA (very different management) and from 
 
 ## See Also
 
-[[acg-2024-focal-liver-lesions]], [[hepatocellular-adenoma]], [[hepatic-hemangioma]], [[hepatocellular-carcinoma]], [[hepatic-cysts]], [[li-rads]]
+
+[[hepatocellular-adenoma]], [[hepatic-hemangioma]], [[hepatocellular-carcinoma]], [[hepatic-cysts]], [[li-rads]]
+
+---
+
+## Sources
+
+1. [[acg-2024-focal-liver-lesions|ACG Clinical Guideline: Focal Liver Lesions (2024)]]

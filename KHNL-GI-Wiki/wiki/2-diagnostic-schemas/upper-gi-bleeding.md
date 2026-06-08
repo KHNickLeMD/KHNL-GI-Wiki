@@ -288,4 +288,11 @@ High-risk stigmata (Forrest Ia, Ib, IIa) mandate endoscopic hemostatic therapy. 
 
 ## See Also
 
-[[variceal-upper-gi-bleeding]], [[acute-lower-gi-bleeding]], [[small-bowel-bleeding]], [[peptic-ulcer-disease]], [[helicobacter-pylori-infection]], [[upper-endoscopy]], [[portal-hypertension]], [[anticoagulation-gi-bleeding]], [[acg-2021-ugib]]
+
+[[variceal-upper-gi-bleeding]], [[acute-lower-gi-bleeding]], [[small-bowel-bleeding]], [[peptic-ulcer-disease]], [[helicobacter-pylori-infection]], [[upper-endoscopy]], [[portal-hypertension]], [[anticoagulation-gi-bleeding]]
+
+---
+
+## Sources
+
+1. [[acg-2021-ugib|ACG 2021: Upper Gastrointestinal and Ulcer Bleeding]]

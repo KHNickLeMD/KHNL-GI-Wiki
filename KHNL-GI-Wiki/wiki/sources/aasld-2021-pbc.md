@@ -9,10 +9,11 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [Keith D. Lindor, Christopher L. Bowlus, James Boyer, Cynthia Levy, Marlyn Mayo. AASLD 2021 Practice Guidance Update: Primary Biliary Cholangitis. Hepatology 2022;75:1012–1013.](https://doi.org/10.1002/hep.32117)
 - **Authors:** Keith D. Lindor, Christopher L. Bowlus, James Boyer, Cynthia Levy, Marlyn Mayo
 - **Year:** 2021 (approved July 30, 2021; published Hepatology 2022;75:1012–1013)
 - **Journal/Publisher:** Hepatology 2022;75:1012–1013
-- **DOI:** 10.1002/hep.32117
+- **DOI:** [10.1002/hep.32117](https://doi.org/10.1002/hep.32117)
 - **Type:** Focused Practice Guidance Update (AASLD — revises two specific guidance statements from the 2018 guidance)
 
 ---

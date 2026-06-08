@@ -163,4 +163,11 @@ All surveillance recommendations are **weak, low to very low quality evidence** 
 
 ## See Also
 
-[[lynch-syndrome]], [[familial-adenomatous-polyposis]], [[mutyh-associated-polyposis]], [[colorectal-cancer]], [[juvenile-polyposis-syndrome]], [[colonoscopy]], [[upper-endoscopy]], [[capsule-endoscopy]], [[usmstf-2017-bmmrd]]
+
+[[lynch-syndrome]], [[familial-adenomatous-polyposis]], [[mutyh-associated-polyposis]], [[colorectal-cancer]], [[juvenile-polyposis-syndrome]], [[colonoscopy]], [[upper-endoscopy]], [[capsule-endoscopy]]
+
+---
+
+## Sources
+
+1. [[usmstf-2017-bmmrd|USMSTF 2017: Recommendations on Surveillance and Management of Biallelic Mismatch Repair Deficiency (BMMRD) Syndrome]]

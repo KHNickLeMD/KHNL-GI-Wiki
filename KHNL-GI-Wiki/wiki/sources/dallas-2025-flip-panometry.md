@@ -9,10 +9,11 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [Carlson DA, Pandolfino JE, Yadlapati R, Vela MF, Abrahão L Jr, Aziz Q, Babaei A, Bredenoord AJ, Cisternas D, Compean DG, Coss-Adame E, Costilla VC, Crowell MD, Fischella PM, Gyawali CP, Jadcherla SR, Johansson J, Kahrilas PJ, Keller J, Mack T, Maddela C, Mittal R, Quigley EMM, Rao SSC, Roman S, Sarr MG, Tatum R, Tolone S, Zerbib F, Simren M (19 voting experts plus co-authors). Dallas Consensus on the Classification of Esophageal Motility Abnormalities: FLIP Panometry (v2.0). Gastroenterology 2025;168:1114–1127.](https://doi.org/10.1053/j.gastro.2025.01.234)
 - **Authors:** Carlson DA, Pandolfino JE, Yadlapati R, Vela MF, Abrahão L Jr, Aziz Q, Babaei A, Bredenoord AJ, Cisternas D, Compean DG, Coss-Adame E, Costilla VC, Crowell MD, Fischella PM, Gyawali CP, Jadcherla SR, Johansson J, Kahrilas PJ, Keller J, Mack T, Maddela C, Mittal R, Quigley EMM, Rao SSC, Roman S, Sarr MG, Tatum R, Tolone S, Zerbib F, Simren M (19 voting experts plus co-authors)
 - **Year:** 2025
 - **Journal/Publisher:** Gastroenterology 2025;168:1114–1127
-- **DOI:** 10.1053/j.gastro.2025.01.234
+- **DOI:** [10.1053/j.gastro.2025.01.234](https://doi.org/10.1053/j.gastro.2025.01.234)
 - **Received:** November 18, 2024. **Accepted:** January 9, 2025.
 - **Type:** Consensus (modified Delphi methodology; 40 consensus statements; ≥80% agreement threshold)
 

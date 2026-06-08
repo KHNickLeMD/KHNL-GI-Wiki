@@ -96,4 +96,11 @@ Key data:
 
 ## See Also
 
-[[gastric-premalignant-conditions]], [[gastric-intestinal-metaplasia]], [[gastric-adenocarcinoma]], [[helicobacter-pylori-infection]], [[lynch-syndrome]], [[familial-adenomatous-polyposis]], [[peutz-jeghers-syndrome]], [[upper-endoscopy]], [[colonoscopy]], [[acg-2015-hereditary-gi-cancer]]
+
+[[gastric-premalignant-conditions]], [[gastric-intestinal-metaplasia]], [[gastric-adenocarcinoma]], [[helicobacter-pylori-infection]], [[lynch-syndrome]], [[familial-adenomatous-polyposis]], [[peutz-jeghers-syndrome]], [[upper-endoscopy]], [[colonoscopy]]
+
+---
+
+## Sources
+
+1. [[acg-2015-hereditary-gi-cancer|ACG 2015: Genetic Testing and Management of Hereditary Gastrointestinal Cancer Syndromes]]

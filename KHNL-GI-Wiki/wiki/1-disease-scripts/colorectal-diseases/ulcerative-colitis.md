@@ -293,4 +293,14 @@ Idiopathic chronic inflammatory disorder of the large intestine. Continuous muco
 
 ## See Also
 
-[[crohns-disease]], [[inflammatory-bowel-disease]], [[uc-vs-crohns-comparison]], [[ibd-preventive-care]], [[clostridioides-difficile]], [[primary-sclerosing-cholangitis]], [[colorectal-cancer]], [[colonoscopy]], [[colon-ischemia]], [[acg-2025-uc]], [[aga-2024-uc-pharm]], [[aga-2024-pouchitis]], [[aga-2023-biomarkers-uc]]
+
+[[crohns-disease]], [[inflammatory-bowel-disease]], [[uc-vs-crohns-comparison]], [[ibd-preventive-care]], [[clostridioides-difficile]], [[primary-sclerosing-cholangitis]], [[colorectal-cancer]], [[colonoscopy]], [[colon-ischemia]]
+
+---
+
+## Sources
+
+1. [[acg-2025-uc|ACG 2025: Ulcerative Colitis in Adults (Guideline Update)]]
+2. [[aga-2024-uc-pharm|AGA Living Guideline: Pharmacologic Management of Moderate-to-Severe Ulcerative Colitis (2024)]]
+3. [[aga-2024-pouchitis|AGA Clinical Practice Guideline: Management of Pouchitis and Inflammatory Pouch Disorders (2024)]]
+4. [[aga-2023-biomarkers-uc|AGA Clinical Practice Guideline: Role of Biomarkers for the Management of Ulcerative Colitis (2023)]]

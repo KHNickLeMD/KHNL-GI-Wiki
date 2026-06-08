@@ -201,4 +201,13 @@ Experimental (research only): spinal cord stim, transmagnetic stim, radiation (K
 
 ## See Also
 
-[[acute-pancreatitis]], [[pancreatic-cysts]], [[biliary-stricture]], [[endoscopic-ultrasound]], [[ercp]], [[small-intestinal-bacterial-overgrowth]], [[acg-2020-chronic-pancreatitis]], [[acg-2020-sibo]], [[asge-2024-chronic-pancreatitis-endoscopy]]
+
+[[acute-pancreatitis]], [[pancreatic-cysts]], [[biliary-stricture]], [[endoscopic-ultrasound]], [[ercp]], [[small-intestinal-bacterial-overgrowth]]
+
+---
+
+## Sources
+
+1. [[acg-2020-chronic-pancreatitis|ACG 2020: Chronic Pancreatitis]]
+2. [[acg-2020-sibo|ACG 2020: Small Intestinal Bacterial Overgrowth]]
+3. [[asge-2024-chronic-pancreatitis-endoscopy|ASGE Guideline: Role of Endoscopy in Management of Chronic Pancreatitis (2024)]]

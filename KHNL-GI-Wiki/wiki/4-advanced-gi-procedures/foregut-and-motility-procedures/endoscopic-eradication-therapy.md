@@ -105,4 +105,15 @@ High-volume centers with access to expert GI pathology, advanced imaging, EMR/ES
 
 ## See Also
 
-[[barretts-esophagus]], [[radiofrequency-ablation]], [[polypectomy-emr]], [[endoscopic-ultrasound]], [[esophageal-adenocarcinoma]], [[upper-endoscopy]], [[endoscopic-oncology]], [[asge-2018-barretts-eet]], [[asge-2019-barretts-screening-surveillance]], [[acg-2022-barretts]], [[aga-2024-barretts-eet]], [[aga-2025-barretts-surveillance]]
+
+[[barretts-esophagus]], [[radiofrequency-ablation]], [[polypectomy-emr]], [[endoscopic-ultrasound]], [[esophageal-adenocarcinoma]], [[upper-endoscopy]], [[endoscopic-oncology]]
+
+---
+
+## Sources
+
+1. [[asge-2018-barretts-eet|ASGE Guideline: Endoscopic Eradication Therapy for Patients with Barrett's Esophagus-Associated Dysplasia and Intramucosal Cancer (2018)]]
+2. [[aga-2024-barretts-eet|AGA Clinical Practice Guideline: Endoscopic Eradication Therapy of Barrett's Esophagus and Related Neoplasia (2024)]]
+3. [[acg-2022-barretts|ACG 2022: Diagnosis and Management of Barrett's Esophagus]]
+4. [[asge-2019-barretts-screening-surveillance|ASGE Guideline on Screening and Surveillance of Barrett's Esophagus (2019)]]
+5. [[aga-2025-barretts-surveillance|AGA Clinical Practice Guideline: Surveillance of Barrett's Esophagus (2025)]]

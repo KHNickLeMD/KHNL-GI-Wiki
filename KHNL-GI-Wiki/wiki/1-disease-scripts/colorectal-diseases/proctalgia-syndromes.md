@@ -92,4 +92,11 @@ Note: concurrent anal fissures, prolapsed hemorrhoids, or other anorectal pathol
 
 ## See Also
 
-[[defecation-disorders]], [[fecal-incontinence]], [[anal-fissure]], [[hemorrhoids]], [[crohns-disease]], [[biofeedback-therapy]], [[anorectal-manometry]], [[acg-2021-anorectal-disorders]]
+
+[[defecation-disorders]], [[fecal-incontinence]], [[anal-fissure]], [[hemorrhoids]], [[crohns-disease]], [[biofeedback-therapy]], [[anorectal-manometry]]
+
+---
+
+## Sources
+
+1. [[acg-2021-anorectal-disorders|ACG 2021 Clinical Guidelines: Management of Benign Anorectal Disorders]]

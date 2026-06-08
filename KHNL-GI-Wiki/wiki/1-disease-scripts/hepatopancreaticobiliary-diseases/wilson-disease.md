@@ -227,4 +227,13 @@ Effective copper removal often improves neurological symptoms but adjunctive the
 
 ## See Also
 
-[[autoimmune-hepatitis]], [[drug-induced-liver-injury]], [[nafld-masld]], [[acute-liver-failure]], [[hereditary-hemochromatosis]], [[primary-biliary-cholangitis]], [[primary-sclerosing-cholangitis]], [[hepatocellular-carcinoma]], [[hcc-surveillance]], [[liver-transplantation]], [[liver-disease-in-pregnancy]], [[abnormal-liver-chemistries]], [[cholangiocarcinoma]], [[aasld-2022-wilson-disease]], [[acg-2017-liver-chemistries]], [[acg-2016-liver-disease-pregnancy]]
+
+[[autoimmune-hepatitis]], [[drug-induced-liver-injury]], [[nafld-masld]], [[acute-liver-failure]], [[hereditary-hemochromatosis]], [[primary-biliary-cholangitis]], [[primary-sclerosing-cholangitis]], [[hepatocellular-carcinoma]], [[hcc-surveillance]], [[liver-transplantation]], [[liver-disease-in-pregnancy]], [[abnormal-liver-chemistries]], [[cholangiocarcinoma]]
+
+---
+
+## Sources
+
+1. [[acg-2017-liver-chemistries|ACG 2017: Evaluation of Abnormal Liver Chemistries]]
+2. [[acg-2016-liver-disease-pregnancy|ACG Clinical Guideline: Liver Disease and Pregnancy (2016)]]
+3. [[aasld-2022-wilson-disease|AASLD 2022 Practice Guidance on Wilson Disease]]

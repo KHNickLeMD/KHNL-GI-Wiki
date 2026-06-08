@@ -70,4 +70,11 @@ sources: [acg-2017-hp-guidelines]
 
 ## See Also
 
-[[helicobacter-pylori-infection]], [[test-and-treat]], [[acg-2017-hp-guidelines]]
+
+[[helicobacter-pylori-infection]], [[test-and-treat]]
+
+---
+
+## Sources
+
+1. [[acg-2017-hp-guidelines|ACG Clinical Guideline: Treatment of Helicobacter pylori Infection (2017)]]

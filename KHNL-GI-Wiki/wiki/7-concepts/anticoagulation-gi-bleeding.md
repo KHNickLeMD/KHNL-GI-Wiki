@@ -239,3 +239,9 @@ For patients at low thromboembolic risk on DOACs:
 ## See Also
 
 [[variceal-upper-gi-bleeding]], [[acute-lower-gi-bleeding]], [[colonoscopy]], [[upper-endoscopy]], [[polypectomy-emr]], [[endoscopic-ultrasound]]
+
+---
+
+## Sources
+
+1. [[acg-cag-2022-anticoag-gi-bleeding|ACG/CAG 2022: Management of Anticoagulants and Antiplatelets During Acute GI Bleeding and the Periendoscopic Period]]

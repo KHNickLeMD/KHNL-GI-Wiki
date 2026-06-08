@@ -105,4 +105,11 @@ Juvenile polyposis syndrome (JPS) is an autosomal-dominant hamartomatous polypos
 
 ## See Also
 
-[[peutz-jeghers-syndrome]], [[familial-adenomatous-polyposis]], [[cowden-syndrome]], [[lynch-syndrome]], [[colorectal-cancer]], [[colonoscopy]], [[upper-endoscopy]], [[hereditary-hemorrhagic-telangiectasia]], [[acg-2015-hereditary-gi-cancer]]
+
+[[peutz-jeghers-syndrome]], [[familial-adenomatous-polyposis]], [[cowden-syndrome]], [[lynch-syndrome]], [[colorectal-cancer]], [[colonoscopy]], [[upper-endoscopy]], [[hereditary-hemorrhagic-telangiectasia]]
+
+---
+
+## Sources
+
+1. [[acg-2015-hereditary-gi-cancer|ACG 2015: Genetic Testing and Management of Hereditary Gastrointestinal Cancer Syndromes]]

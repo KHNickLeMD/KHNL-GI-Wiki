@@ -279,4 +279,12 @@ sources: [acg-2019-hereditary-hemochromatosis, acg-2017-liver-chemistries]
 
 ## See Also
 
-[[abnormal-liver-chemistries]], [[alcohol-associated-liver-disease]], [[nafld-masld]], [[autoimmune-hepatitis]], [[drug-induced-liver-injury]], [[hepatocellular-carcinoma]], [[hcc-surveillance]], [[acute-liver-failure]], [[hepatitis-c]], [[chronic-hepatitis-b]], [[iron-overload-and-iron-metabolism]], [[liver-transplantation]], [[acg-2019-hereditary-hemochromatosis]], [[acg-2017-liver-chemistries]]
+
+[[abnormal-liver-chemistries]], [[alcohol-associated-liver-disease]], [[nafld-masld]], [[autoimmune-hepatitis]], [[drug-induced-liver-injury]], [[hepatocellular-carcinoma]], [[hcc-surveillance]], [[acute-liver-failure]], [[hepatitis-c]], [[chronic-hepatitis-b]], [[iron-overload-and-iron-metabolism]], [[liver-transplantation]]
+
+---
+
+## Sources
+
+1. [[acg-2019-hereditary-hemochromatosis|ACG 2019: Hereditary Hemochromatosis]]
+2. [[acg-2017-liver-chemistries|ACG 2017: Evaluation of Abnormal Liver Chemistries]]

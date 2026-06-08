@@ -93,4 +93,11 @@ Serrated polyposis syndrome (SPS), previously called hyperplastic polyposis synd
 
 ## See Also
 
-[[familial-adenomatous-polyposis]], [[mutyh-associated-polyposis]], [[lynch-syndrome]], [[juvenile-polyposis-syndrome]], [[colorectal-cancer]], [[colonoscopy]], [[polypectomy-emr]], [[acg-2015-hereditary-gi-cancer]]
+
+[[familial-adenomatous-polyposis]], [[mutyh-associated-polyposis]], [[lynch-syndrome]], [[juvenile-polyposis-syndrome]], [[colorectal-cancer]], [[colonoscopy]], [[polypectomy-emr]]
+
+---
+
+## Sources
+
+1. [[acg-2015-hereditary-gi-cancer|ACG 2015: Genetic Testing and Management of Hereditary Gastrointestinal Cancer Syndromes]]

@@ -314,4 +314,13 @@ Histological and cholangiographic assessment required to distinguish rPSC from a
 
 ## See Also
 
-[[abnormal-liver-chemistries]], [[primary-biliary-cholangitis]], [[autoimmune-hepatitis]], [[biliary-stricture]], [[cholangiocarcinoma]], [[ulcerative-colitis]], [[crohns-disease]], [[inflammatory-bowel-disease]], [[ercp]], [[liver-transplantation]], [[colonoscopy]], [[colorectal-cancer]], [[portal-hypertension]], [[hcc-surveillance]], [[acg-2015-psc]], [[aasld-2022-psc]], [[acg-2017-liver-chemistries]]
+
+[[abnormal-liver-chemistries]], [[primary-biliary-cholangitis]], [[autoimmune-hepatitis]], [[biliary-stricture]], [[cholangiocarcinoma]], [[ulcerative-colitis]], [[crohns-disease]], [[inflammatory-bowel-disease]], [[ercp]], [[liver-transplantation]], [[colonoscopy]], [[colorectal-cancer]], [[portal-hypertension]], [[hcc-surveillance]]
+
+---
+
+## Sources
+
+1. [[acg-2015-psc|ACG 2015 Clinical Guideline: Primary Sclerosing Cholangitis]]
+2. [[acg-2017-liver-chemistries|ACG 2017: Evaluation of Abnormal Liver Chemistries]]
+3. [[aasld-2022-psc|AASLD 2022 Practice Guidance on Primary Sclerosing Cholangitis and Cholangiocarcinoma]]

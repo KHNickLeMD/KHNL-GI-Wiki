@@ -37,4 +37,11 @@ sources: []
 
 ## See Also
 
-[[helicobacter-pylori-infection]], [[upper-gi-bleeding]], [[gastric-adenocarcinoma]], [[dyspepsia]], [[gastroparesis]], [[vonoprazan]], [[upper-endoscopy]], [[acg-2021-ugib]]
+
+[[helicobacter-pylori-infection]], [[upper-gi-bleeding]], [[gastric-adenocarcinoma]], [[dyspepsia]], [[gastroparesis]], [[vonoprazan]], [[upper-endoscopy]]
+
+---
+
+## Sources
+
+1. [[acg-2021-ugib|ACG 2021: Upper Gastrointestinal and Ulcer Bleeding]]

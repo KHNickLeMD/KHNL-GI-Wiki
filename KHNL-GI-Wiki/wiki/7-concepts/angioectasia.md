@@ -41,4 +41,11 @@ See [[small-bowel-bleeding]], [[heydes-syndrome]], [[upper-gi-bleeding]], [[acut
 
 ## See Also
 
-[[small-bowel-bleeding]], [[heydes-syndrome]], [[hereditary-hemorrhagic-telangiectasia]], [[upper-gi-bleeding]], [[acute-lower-gi-bleeding]], [[acg-2015-small-bowel-bleeding]]
+
+[[small-bowel-bleeding]], [[heydes-syndrome]], [[hereditary-hemorrhagic-telangiectasia]], [[upper-gi-bleeding]], [[acute-lower-gi-bleeding]]
+
+---
+
+## Sources
+
+1. [[acg-2015-small-bowel-bleeding|ACG 2015: Diagnosis and Management of Small Bowel Bleeding]]

@@ -207,3 +207,9 @@ SAAG = serum albumin − ascitic fluid albumin (simultaneous samples)
 ## See Also
 
 [[spontaneous-bacterial-peritonitis]], [[aki-in-cirrhosis]], [[alcohol-associated-liver-disease]], [[nutrition-in-liver-disease]]
+
+---
+
+## Sources
+
+1. [[aasld-2021-ascites-sbp-hrs|AASLD 2021: Diagnosis, Evaluation, and Management of Ascites, SBP, and HRS in Cirrhosis]]

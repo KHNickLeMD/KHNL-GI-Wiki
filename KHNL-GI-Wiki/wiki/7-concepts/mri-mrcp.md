@@ -14,4 +14,11 @@ In [[pancreatic-cancer-screening|high-risk pancreatic cancer surveillance]] ([[a
 MRI/MRCP is also central to evaluation of [[pancreatic-cysts|pancreatic cysts]], [[cholangiocarcinoma|biliary strictures]], and [[chronic-pancreatitis|chronic pancreatitis]].
 
 ## See Also
-[[pancreatic-cancer-screening]], [[endoscopic-ultrasound]], [[pancreatic-cancer]], [[pancreatic-cysts]], [[cholangiocarcinoma]], [[asge-2022-pancreatic-cancer-screening]]
+
+[[pancreatic-cancer-screening]], [[endoscopic-ultrasound]], [[pancreatic-cancer]], [[pancreatic-cysts]], [[cholangiocarcinoma]]
+
+---
+
+## Sources
+
+1. [[asge-2022-pancreatic-cancer-screening|ASGE Guideline on Screening for Pancreatic Cancer in Individuals with Genetic Susceptibility: Summary and Recommendations (2022)]]

@@ -26,4 +26,11 @@ See [[acute-diarrhea]] for diagnostic algorithm and management framework. See al
 
 ## See Also
 
-[[acute-diarrhea]], [[fever-returning-traveler]], [[cryptosporidiosis]], [[entamoeba-histolytica-infection]], [[acg-2016-acute-diarrhea]]
+
+[[acute-diarrhea]], [[fever-returning-traveler]], [[cryptosporidiosis]], [[entamoeba-histolytica-infection]]
+
+---
+
+## Sources
+
+1. [[acg-2016-acute-diarrhea|ACG 2016: Diagnosis, Treatment, and Prevention of Acute Diarrheal Infections in Adults]]

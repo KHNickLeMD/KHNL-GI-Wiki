@@ -314,4 +314,11 @@ Scores supplement but do not replace clinical judgment. Low-risk patients (Oakla
 
 ## See Also
 
-[[upper-gi-bleeding]], [[variceal-upper-gi-bleeding]], [[small-bowel-bleeding]], [[colonoscopy]], [[colon-ischemia]], [[angioectasia]], [[hemorrhoids]], [[heydes-syndrome]], [[colorectal-cancer]], [[inflammatory-bowel-disease]], [[polypectomy-emr]], [[anticoagulation-gi-bleeding]], [[acg-2023-lgib]]
+
+[[upper-gi-bleeding]], [[variceal-upper-gi-bleeding]], [[small-bowel-bleeding]], [[colonoscopy]], [[colon-ischemia]], [[angioectasia]], [[hemorrhoids]], [[heydes-syndrome]], [[colorectal-cancer]], [[inflammatory-bowel-disease]], [[polypectomy-emr]], [[anticoagulation-gi-bleeding]]
+
+---
+
+## Sources
+
+1. [[acg-2023-lgib|ACG 2023: Management of Patients With Acute Lower Gastrointestinal Bleeding]]

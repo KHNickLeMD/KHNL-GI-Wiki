@@ -58,3 +58,9 @@ Potassium-competitive acid blocker (PCAB). Blocks the gastric H+/K+-ATPase compe
 ## See Also
 
 [[helicobacter-pylori-infection]], [[bismuth-quadruple-therapy]]
+
+---
+
+## Sources
+
+1. [[acg-2024-hp-treatment|ACG Clinical Guideline: Treatment of Helicobacter pylori Infection (2024)]]

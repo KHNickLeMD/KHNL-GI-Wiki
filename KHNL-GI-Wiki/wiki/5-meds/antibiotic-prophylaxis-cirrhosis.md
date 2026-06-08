@@ -24,4 +24,11 @@ See [[variceal-upper-gi-bleeding]] for full clinical context.
 
 ## See Also
 
-[[variceal-upper-gi-bleeding]], [[spontaneous-bacterial-peritonitis]], [[upper-gi-bleeding]], [[albhaisi-2025-prophylactic-antibiotics-cirrhosis]]
+
+[[variceal-upper-gi-bleeding]], [[spontaneous-bacterial-peritonitis]], [[upper-gi-bleeding]]
+
+---
+
+## Sources
+
+1. [[albhaisi-2025-prophylactic-antibiotics-cirrhosis|Prophylactic Antibiotics for Upper GI Bleeding in Patients With Cirrhosis — Journal Club (Albhaisi)]]

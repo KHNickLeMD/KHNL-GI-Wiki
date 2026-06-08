@@ -11,11 +11,12 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [Bajaj JS, Jakab SS, Jesudian AB, Rahimi RS, Duarte-Rojo A, Chen PH, Wong RJ, Tapper EB, Tandon P. ACG Clinical Guideline: Hepatic Encephalopathy (2026). American Journal of Gastroenterology 2026;121:588–618.](https://doi.org/10.14309/ajg.0000000000003899)
 - **Authors:** Bajaj JS, Jakab SS, Jesudian AB, Rahimi RS, Duarte-Rojo A, Chen PH, Wong RJ, Tapper EB, Tandon P
 - **Year:** 2026
 - **Journal:** American Journal of Gastroenterology 2026;121:588–618
 - **Type:** Clinical Practice Guideline (ACG), GRADE-based — 24 recommendations + 16 key concepts
-- **DOI:** 10.14309/ajg.0000000000003899
+- **DOI:** [10.14309/ajg.0000000000003899](https://doi.org/10.14309/ajg.0000000000003899)
 
 ---
 

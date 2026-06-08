@@ -46,4 +46,12 @@ Management is staging- and location-dependent and beyond the scope of this diagn
 
 ## See Also
 
-[[primary-sclerosing-cholangitis]], [[biliary-stricture]], [[hepatocellular-carcinoma]], [[ercp]], [[endoscopic-ultrasound]], [[cholangioscopy]], [[brush-cytology]], [[fish]], [[confocal-laser-endomicroscopy]], [[chronic-pancreatitis]], [[liver-transplantation]], [[asge-2021-malignant-hilar-obstruction]], [[asge-2023-indeterminate-biliary-strictures]]
+
+[[primary-sclerosing-cholangitis]], [[biliary-stricture]], [[hepatocellular-carcinoma]], [[ercp]], [[endoscopic-ultrasound]], [[cholangioscopy]], [[brush-cytology]], [[fish]], [[confocal-laser-endomicroscopy]], [[chronic-pancreatitis]], [[liver-transplantation]]
+
+---
+
+## Sources
+
+1. [[asge-2021-malignant-hilar-obstruction|ASGE Guideline: Endoscopic Management of Malignant Hilar Obstruction (2021)]]
+2. [[asge-2023-indeterminate-biliary-strictures|ASGE Guideline on the Role of Endoscopy in the Diagnosis of Malignancy in Biliary Strictures of Undetermined Etiology (2023)]]

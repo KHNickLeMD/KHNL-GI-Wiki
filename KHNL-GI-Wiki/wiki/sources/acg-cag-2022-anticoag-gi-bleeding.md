@@ -9,11 +9,12 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [Abraham NS, Barkun AN, Sauer BG, Douketis J, Laine L, Noseworthy PA, Telford JJ, Leontiadis GI. ACG/CAG 2022: Management of Anticoagulants and Antiplatelets During Acute GI Bleeding and the Periendoscopic Period. Am J Gastroenterol (jointly published in J Can Assoc Gastroenterol).](https://doi.org/10.14309/ajg.0000000000001627)
 - **Authors:** Abraham NS, Barkun AN, Sauer BG, Douketis J, Laine L, Noseworthy PA, Telford JJ, Leontiadis GI
 - **Journal:** Am J Gastroenterol (jointly published in J Can Assoc Gastroenterol)
 - **Year:** 2022
 - **Volume/Pages:** 117:542–558
-- **DOI:** 10.14309/ajg.0000000000001627
+- **DOI:** [10.14309/ajg.0000000000001627](https://doi.org/10.14309/ajg.0000000000001627)
 - **Published online:** March 17, 2022
 - **Methodology:** GRADE-based systematic review; 18 PICO questions; 6 voting content experts (4 gastroenterologists, 1 cardiologist, 1 thrombosis expert); consensus threshold 75%
 

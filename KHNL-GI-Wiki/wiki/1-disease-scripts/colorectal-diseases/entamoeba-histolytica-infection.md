@@ -25,4 +25,11 @@ See [[acute-diarrhea]] for diagnostic algorithm. See also [[fever-returning-trav
 
 ## See Also
 
-[[acute-diarrhea]], [[fever-returning-traveler]], [[giardiasis]], [[cryptosporidiosis]], [[acg-2016-acute-diarrhea]]
+
+[[acute-diarrhea]], [[fever-returning-traveler]], [[giardiasis]], [[cryptosporidiosis]]
+
+---
+
+## Sources
+
+1. [[acg-2016-acute-diarrhea|ACG 2016: Diagnosis, Treatment, and Prevention of Acute Diarrheal Infections in Adults]]

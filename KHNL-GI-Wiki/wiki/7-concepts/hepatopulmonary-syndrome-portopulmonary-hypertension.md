@@ -52,3 +52,9 @@ Hepatopulmonary syndrome (HPS) and portopulmonary hypertension (POPH) are pulmon
 ## See Also
 
 [[liver-transplantation]], [[portal-vein-thrombosis]], [[budd-chiari-syndrome]], [[acute-liver-failure]]
+
+---
+
+## Sources
+
+1. [[aasld-ast-2025-liver-transplant-candidate-evaluation|AASLD AST 2025: Practice Guideline on Adult Liver Transplantation — Candidate Evaluation]]

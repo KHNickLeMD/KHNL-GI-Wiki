@@ -44,4 +44,12 @@ Annual screening is suggested (conditional, very low quality). Rationale: tumor-
 No clinical trials compared screened vs unscreened controls (quality of evidence low–very low). The optimal interval after a normal baseline exam, the role of additional risk factors (age, sex, obesity, smoking, alcohol) in carriers, and validated biomarkers/circulating tumor DNA all remain undefined.
 
 ## See Also
-[[pancreatic-cancer]], [[endoscopic-ultrasound]], [[mri-mrcp]], [[brca-pathogenic-variants]], [[familial-pancreatic-cancer]], [[fammm-syndrome]], [[peutz-jeghers-syndrome]], [[lynch-syndrome]], [[hereditary-pancreatitis]], [[pancreatic-cysts]], [[hcc-surveillance]], [[asge-2022-pancreatic-cancer-screening]], [[acg-2015-hereditary-gi-cancer]]
+
+[[pancreatic-cancer]], [[endoscopic-ultrasound]], [[mri-mrcp]], [[brca-pathogenic-variants]], [[familial-pancreatic-cancer]], [[fammm-syndrome]], [[peutz-jeghers-syndrome]], [[lynch-syndrome]], [[hereditary-pancreatitis]], [[pancreatic-cysts]], [[hcc-surveillance]]
+
+---
+
+## Sources
+
+1. [[asge-2022-pancreatic-cancer-screening|ASGE Guideline on Screening for Pancreatic Cancer in Individuals with Genetic Susceptibility: Summary and Recommendations (2022)]]
+2. [[acg-2015-hereditary-gi-cancer|ACG 2015: Genetic Testing and Management of Hereditary Gastrointestinal Cancer Syndromes]]

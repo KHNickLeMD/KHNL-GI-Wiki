@@ -29,4 +29,11 @@ Highly selective 5-HT4 receptor agonist; prokinetic.
 
 ## See Also
 
-[[chronic-idiopathic-constipation]], [[linaclotide]], [[plecanatide]], [[lubiprostone]], [[aga-acg-2023-constipation]]
+
+[[chronic-idiopathic-constipation]], [[linaclotide]], [[plecanatide]], [[lubiprostone]]
+
+---
+
+## Sources
+
+1. [[aga-acg-2023-constipation|AGA-ACG 2023 Pharmacologic Management of Chronic Idiopathic Constipation]]

@@ -13,4 +13,11 @@ Radiofrequency ablation (RFA) is the preferred primary ablative modality within 
 
 ## See Also
 
-[[endoscopic-eradication-therapy]], [[barretts-esophagus]], [[polypectomy-emr]], [[asge-2018-barretts-eet]]
+
+[[endoscopic-eradication-therapy]], [[barretts-esophagus]], [[polypectomy-emr]]
+
+---
+
+## Sources
+
+1. [[asge-2018-barretts-eet|ASGE Guideline: Endoscopic Eradication Therapy for Patients with Barrett's Esophagus-Associated Dysplasia and Intramucosal Cancer (2018)]]

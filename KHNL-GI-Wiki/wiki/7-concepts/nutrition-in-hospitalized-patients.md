@@ -137,4 +137,12 @@ Immune-modulating formulas (arginine, glutamine, omega-3 fatty acids) are NOT re
 
 ## See Also
 
-[[acg-2016-nutrition-hospitalized]], [[acute-pancreatitis]], [[nutrition-in-liver-disease]], [[inflammatory-bowel-disease]], [[aki-in-cirrhosis]], [[asge-2025-gastrostomy-tubes]]
+
+[[acute-pancreatitis]], [[nutrition-in-liver-disease]], [[inflammatory-bowel-disease]], [[aki-in-cirrhosis]]
+
+---
+
+## Sources
+
+1. [[acg-2016-nutrition-hospitalized|ACG Clinical Guideline: Nutrition Therapy in the Adult Hospitalized Patient]]
+2. [[asge-2025-gastrostomy-tubes|ASGE Guideline: Gastrostomy Feeding Tubes (2025)]]

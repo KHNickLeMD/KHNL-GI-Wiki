@@ -9,10 +9,11 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [Kris V. Kowdley, Kyle E. Brown, Joseph Ahn, Vinay Sundaram. ACG 2019: Hereditary Hemochromatosis. American Journal of Gastroenterology 2019;114:1202–1218.](https://doi.org/10.14309/ajg.0000000000000315)
 - **Authors:** Kris V. Kowdley, Kyle E. Brown, Joseph Ahn, Vinay Sundaram
 - **Year:** 2019
 - **Journal/Publisher:** American Journal of Gastroenterology 2019;114:1202–1218
-- **DOI:** 10.14309/ajg.0000000000000315
+- **DOI:** [10.14309/ajg.0000000000000315](https://doi.org/10.14309/ajg.0000000000000315)
 - **Type:** Guideline (ACG Clinical Guideline)
 
 ---

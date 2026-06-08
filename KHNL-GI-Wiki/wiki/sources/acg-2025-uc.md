@@ -9,10 +9,11 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [Rubin DT, Ananthakrishnan AN, Siegel CA, Barnes EL, Long MD (ACG). ACG 2025: Ulcerative Colitis in Adults (Guideline Update). Am J Gastroenterol 2025;120:1187–1224.](https://doi.org/10.14309/ajg.0000000000003463)
 - **Authors:** Rubin DT, Ananthakrishnan AN, Siegel CA, Barnes EL, Long MD (ACG)
 - **Year:** 2025
 - **Journal:** Am J Gastroenterol 2025;120:1187–1224
-- **DOI:** 10.14309/ajg.0000000000003463
+- **DOI:** [10.14309/ajg.0000000000003463](https://doi.org/10.14309/ajg.0000000000003463)
 - **Type:** Clinical guideline (ACG) — update to 2019 guideline; 38pp; 54 GRADE recommendations + 57 key concepts
 
 ## Summary

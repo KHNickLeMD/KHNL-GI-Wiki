@@ -9,10 +9,11 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [Neil Sengupta, Joseph D. Feuerstein, Vipul Jairath, Amandeep K. Shergill, Lisa L. Strate, Robert J. Wong (GRADE Methodologist), David Wan. ACG 2023: Management of Patients With Acute Lower Gastrointestinal Bleeding. American Journal of Gastroenterology.](https://doi.org/10.14309/ajg.0000000000002130)
 - **Authors:** Neil Sengupta, Joseph D. Feuerstein, Vipul Jairath, Amandeep K. Shergill, Lisa L. Strate, Robert J. Wong (GRADE Methodologist), David Wan
 - **Journal:** American Journal of Gastroenterology
 - **Volume/Year:** 118:208–231, February 2023
-- **DOI:** <https://doi.org/10.14309/ajg.0000000000002130>
+- **DOI:** [10.14309/ajg.0000000000002130](https://doi.org/10.14309/ajg.0000000000002130)
 - **Published online:** September 21, 2022
 - **Methodology:** GRADE (Grading of Recommendations, Assessment, Development, and Evaluation)
 - **Literature search:** March 2, 2015 – December 1, 2021 (EMBASE, Ovid MEDLINE, ISI Web of Science); updated April 1, 2022

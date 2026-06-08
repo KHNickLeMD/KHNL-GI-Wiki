@@ -287,4 +287,11 @@ Note: Surgery should be performed at a tertiary referral center by experienced s
 
 ## See Also
 
-[[acute-pancreatitis]], [[chronic-pancreatitis]], [[endoscopic-ultrasound]], [[ercp]], [[acg-2018-pancreatic-cysts]]
+
+[[acute-pancreatitis]], [[chronic-pancreatitis]], [[endoscopic-ultrasound]], [[ercp]]
+
+---
+
+## Sources
+
+1. [[acg-2018-pancreatic-cysts|ACG 2018: Diagnosis and Management of Pancreatic Cysts]]

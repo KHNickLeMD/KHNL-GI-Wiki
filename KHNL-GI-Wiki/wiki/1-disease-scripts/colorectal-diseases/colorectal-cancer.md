@@ -245,4 +245,14 @@ The ACG 2021 and USMSTF 2021 guidelines do not supersede the FIT-specific operat
 
 ## See Also
 
-[[colorectal-cancer-screening]], [[colonoscopy]], [[polypectomy-emr]], [[lynch-syndrome]], [[familial-adenomatous-polyposis]], [[serrated-polyposis-syndrome]], [[endoscopic-ultrasound]], [[colonoscopy-surveillance]], [[acg-2015-hereditary-gi-cancer]], [[usmstf-2015-crc-surveillance]], [[usmstf-2016-fit-screening]], [[acg-2021-crc-screening]]
+
+[[colorectal-cancer-screening]], [[colonoscopy]], [[polypectomy-emr]], [[lynch-syndrome]], [[familial-adenomatous-polyposis]], [[serrated-polyposis-syndrome]], [[endoscopic-ultrasound]], [[colonoscopy-surveillance]]
+
+---
+
+## Sources
+
+1. [[acg-2015-hereditary-gi-cancer|ACG 2015: Genetic Testing and Management of Hereditary Gastrointestinal Cancer Syndromes]]
+2. [[usmstf-2015-crc-surveillance|USMSTF 2015: Colonoscopy Surveillance after Colorectal Cancer Resection]]
+3. [[usmstf-2016-fit-screening|USMSTF 2016 — Recommendations on Fecal Immunochemical Testing to Screen for Colorectal Neoplasia]]
+4. [[acg-2021-crc-screening|ACG 2021 Colorectal Cancer Screening Guidelines]]

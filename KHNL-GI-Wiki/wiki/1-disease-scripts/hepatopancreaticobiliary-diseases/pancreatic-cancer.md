@@ -60,4 +60,13 @@ See the [[pancreatic-cancer-screening|high-risk pancreatic cancer surveillance]]
 - **Harms of a screening/surveillance program** must be weighed: across screened cohorts, low-yield pancreatic surgery occurred in 2.8% overall but 46.6% of those operated, with a ~19.9% perioperative adverse-event rate among operated patients [[asge-2022-pancreatic-cancer-screening]]. Patients should be counseled on benefits and harms before enrolling.
 
 ## See Also
-[[pancreatic-cancer-screening]], [[endoscopic-ultrasound]], [[mri-mrcp]], [[pancreatic-cysts]], [[chronic-pancreatitis]], [[cholangiocarcinoma]], [[brca-pathogenic-variants]], [[familial-pancreatic-cancer]], [[fammm-syndrome]], [[peutz-jeghers-syndrome]], [[lynch-syndrome]], [[hereditary-pancreatitis]], [[asge-2022-pancreatic-cancer-screening]], [[acg-2018-pancreatic-cysts]], [[acg-2015-hereditary-gi-cancer]]
+
+[[pancreatic-cancer-screening]], [[endoscopic-ultrasound]], [[mri-mrcp]], [[pancreatic-cysts]], [[chronic-pancreatitis]], [[cholangiocarcinoma]], [[brca-pathogenic-variants]], [[familial-pancreatic-cancer]], [[fammm-syndrome]], [[peutz-jeghers-syndrome]], [[lynch-syndrome]], [[hereditary-pancreatitis]]
+
+---
+
+## Sources
+
+1. [[asge-2022-pancreatic-cancer-screening|ASGE Guideline on Screening for Pancreatic Cancer in Individuals with Genetic Susceptibility: Summary and Recommendations (2022)]]
+2. [[acg-2018-pancreatic-cysts|ACG 2018: Diagnosis and Management of Pancreatic Cysts]]
+3. [[acg-2015-hereditary-gi-cancer|ACG 2015: Genetic Testing and Management of Hereditary Gastrointestinal Cancer Syndromes]]

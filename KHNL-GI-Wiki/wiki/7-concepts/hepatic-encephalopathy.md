@@ -201,4 +201,12 @@ Key discharge planning elements:
 
 ## See Also
 
-[[aasld-easl-2014-hepatic-encephalopathy]], [[acute-liver-failure]], [[acute-on-chronic-liver-failure]], [[portal-hypertension]], [[aki-in-cirrhosis]], [[spontaneous-bacterial-peritonitis]], [[ascites]], [[variceal-upper-gi-bleeding]], [[liver-transplantation]], [[rifaximin]], [[alcohol-associated-liver-disease]], [[hepatitis-c]], [[acg-2026-hepatic-encephalopathy]]
+
+[[acute-liver-failure]], [[acute-on-chronic-liver-failure]], [[portal-hypertension]], [[aki-in-cirrhosis]], [[spontaneous-bacterial-peritonitis]], [[ascites]], [[variceal-upper-gi-bleeding]], [[liver-transplantation]], [[rifaximin]], [[alcohol-associated-liver-disease]], [[hepatitis-c]]
+
+---
+
+## Sources
+
+1. [[aasld-easl-2014-hepatic-encephalopathy|AASLD/EASL 2014 Practice Guideline: Hepatic Encephalopathy in Chronic Liver Disease]]
+2. [[acg-2026-hepatic-encephalopathy|ACG Clinical Guideline: Hepatic Encephalopathy (2026)]]

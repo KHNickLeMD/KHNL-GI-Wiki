@@ -211,4 +211,13 @@ Goal: HBV DNA <lower limit of quantification. HBV not transmitted by casual cont
 
 ## See Also
 
-[[hepatitis-c]], [[hepatocellular-carcinoma]], [[hcc-surveillance]], [[portal-hypertension]], [[acute-on-chronic-liver-failure]], [[liver-transplantation]], [[aki-in-cirrhosis]], [[liver-disease-in-pregnancy]], [[autoimmune-hepatitis]], [[drug-induced-liver-injury]], [[alcohol-associated-liver-disease]], [[nafld-masld]], [[wilson-disease]], [[direct-acting-antivirals]], [[aasld-idsa-2025-chb-treatment]], [[acg-2016-liver-disease-pregnancy]], [[aga-2025-hbv-reactivation]]
+
+[[hepatitis-c]], [[hepatocellular-carcinoma]], [[hcc-surveillance]], [[portal-hypertension]], [[acute-on-chronic-liver-failure]], [[liver-transplantation]], [[aki-in-cirrhosis]], [[liver-disease-in-pregnancy]], [[autoimmune-hepatitis]], [[drug-induced-liver-injury]], [[alcohol-associated-liver-disease]], [[nafld-masld]], [[wilson-disease]], [[direct-acting-antivirals]]
+
+---
+
+## Sources
+
+1. [[aasld-idsa-2025-chb-treatment|AASLD/IDSA 2025 Practice Guideline on Treatment of Chronic Hepatitis B]]
+2. [[acg-2016-liver-disease-pregnancy|ACG Clinical Guideline: Liver Disease and Pregnancy (2016)]]
+3. [[aga-2025-hbv-reactivation|AGA Clinical Practice Guideline: Prevention and Treatment of HBV Reactivation (2025)]]

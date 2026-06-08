@@ -174,4 +174,13 @@ LS is classified by the causative gene:
 
 ## See Also
 
-[[bmmrd-syndrome]], [[familial-adenomatous-polyposis]], [[mutyh-associated-polyposis]], [[colorectal-cancer]], [[colorectal-cancer-screening]], [[colonoscopy]], [[upper-endoscopy]], [[peutz-jeghers-syndrome]], [[serrated-polyposis-syndrome]], [[acg-2015-hereditary-gi-cancer]], [[usmstf-2014-lynch-syndrome]], [[usmstf-2017-bmmrd]]
+
+[[bmmrd-syndrome]], [[familial-adenomatous-polyposis]], [[mutyh-associated-polyposis]], [[colorectal-cancer]], [[colorectal-cancer-screening]], [[colonoscopy]], [[upper-endoscopy]], [[peutz-jeghers-syndrome]], [[serrated-polyposis-syndrome]]
+
+---
+
+## Sources
+
+1. [[acg-2015-hereditary-gi-cancer|ACG 2015: Genetic Testing and Management of Hereditary Gastrointestinal Cancer Syndromes]]
+2. [[usmstf-2014-lynch-syndrome|Genetic Evaluation and Management of Lynch Syndrome: A Practice Guideline from the American College of Gastroenterology]]
+3. [[usmstf-2017-bmmrd|USMSTF 2017: Recommendations on Surveillance and Management of Biallelic Mismatch Repair Deficiency (BMMRD) Syndrome]]

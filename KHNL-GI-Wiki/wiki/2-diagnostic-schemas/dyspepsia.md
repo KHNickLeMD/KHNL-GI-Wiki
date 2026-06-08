@@ -135,4 +135,11 @@ ACG/CAG 2017 reviewed associations between long-term PPI and hip fracture, CAP, 
 
 ## See Also
 
-[[acg-cag-2017-dyspepsia]], [[disorders-of-gut-brain-interaction]], [[test-and-treat]], [[helicobacter-pylori-infection]], [[gastroparesis]], [[gastric-intestinal-metaplasia]], [[gastric-premalignant-conditions]], [[gerd]], [[celiac-disease]]
+
+[[disorders-of-gut-brain-interaction]], [[test-and-treat]], [[helicobacter-pylori-infection]], [[gastroparesis]], [[gastric-intestinal-metaplasia]], [[gastric-premalignant-conditions]], [[gerd]], [[celiac-disease]]
+
+---
+
+## Sources
+
+1. [[acg-cag-2017-dyspepsia|ACG/CAG 2017: Management of Dyspepsia]]

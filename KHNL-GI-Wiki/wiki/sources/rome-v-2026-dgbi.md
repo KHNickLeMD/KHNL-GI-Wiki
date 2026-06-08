@@ -9,10 +9,11 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [Douglas A. Drossman, Lin Chang, Jan Tack. Disorders of Gut–Brain Interaction and the Rome V Process. Gastroenterology 2026;170:1083–1098.](https://doi.org/10.1053/j.gastro.2026.02.014)
 - **Authors:** Douglas A. Drossman, Lin Chang, Jan Tack
 - **Year:** 2026
 - **Journal/Publisher:** Gastroenterology 2026;170:1083–1098
-- **DOI:** 10.1053/j.gastro.2026.02.014
+- **DOI:** [10.1053/j.gastro.2026.02.014](https://doi.org/10.1053/j.gastro.2026.02.014)
 - **Type:** Guideline / consensus introduction (Rome Foundation)
 - **Received:** December 21, 2025. **Accepted:** February 9, 2026.
 

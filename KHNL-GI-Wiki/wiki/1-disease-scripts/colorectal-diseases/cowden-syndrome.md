@@ -110,4 +110,11 @@ Cowden syndrome (CS), also called PTEN hamartoma tumor syndrome (PHTS), is cause
 
 ## See Also
 
-[[juvenile-polyposis-syndrome]], [[peutz-jeghers-syndrome]], [[familial-adenomatous-polyposis]], [[colorectal-cancer]], [[colonoscopy]], [[upper-endoscopy]], [[acg-2015-hereditary-gi-cancer]]
+
+[[juvenile-polyposis-syndrome]], [[peutz-jeghers-syndrome]], [[familial-adenomatous-polyposis]], [[colorectal-cancer]], [[colonoscopy]], [[upper-endoscopy]]
+
+---
+
+## Sources
+
+1. [[acg-2015-hereditary-gi-cancer|ACG 2015: Genetic Testing and Management of Hereditary Gastrointestinal Cancer Syndromes]]

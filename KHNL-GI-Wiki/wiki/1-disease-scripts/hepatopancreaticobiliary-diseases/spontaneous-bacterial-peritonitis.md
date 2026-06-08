@@ -192,4 +192,11 @@ Patients with prior SBP have ~68% 1-year recurrence rate without prophylaxis.
 
 ## See Also
 
-[[ascites]], [[aki-in-cirrhosis]], [[alcohol-associated-liver-disease]], [[chronic-hepatitis-b]], [[portal-hypertension]], [[variceal-upper-gi-bleeding]], [[acute-on-chronic-liver-failure]], [[liver-transplantation]], [[rifaximin]], [[antibiotic-prophylaxis-cirrhosis]], [[aasld-2021-ascites-sbp-hrs]]
+
+[[ascites]], [[aki-in-cirrhosis]], [[alcohol-associated-liver-disease]], [[chronic-hepatitis-b]], [[portal-hypertension]], [[variceal-upper-gi-bleeding]], [[acute-on-chronic-liver-failure]], [[liver-transplantation]], [[rifaximin]], [[antibiotic-prophylaxis-cirrhosis]]
+
+---
+
+## Sources
+
+1. [[aasld-2021-ascites-sbp-hrs|AASLD 2021: Diagnosis, Evaluation, and Management of Ascites, SBP, and HRS in Cirrhosis]]

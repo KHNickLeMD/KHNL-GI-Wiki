@@ -228,4 +228,12 @@ More rigorous documentation is recommended for Barrett's esophagus, gastric inte
 
 ## See Also
 
-[[acg-2025-egd-quality]], [[aga-2024-upper-endoscopy-quality]], [[gastric-premalignant-conditions]], [[eosinophilic-esophagitis]], [[helicobacter-pylori-infection]]
+
+[[gastric-premalignant-conditions]], [[eosinophilic-esophagitis]], [[helicobacter-pylori-infection]]
+
+---
+
+## Sources
+
+1. [[acg-2025-egd-quality|ACG/ASGE 2025: Quality Indicators for Upper GI Endoscopy (EGD)]]
+2. [[aga-2024-upper-endoscopy-quality|AGA 2024: Quality Indicators for Upper GI Endoscopy]]

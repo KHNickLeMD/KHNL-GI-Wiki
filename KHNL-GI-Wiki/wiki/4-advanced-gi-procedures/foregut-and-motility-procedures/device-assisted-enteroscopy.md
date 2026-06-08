@@ -27,4 +27,11 @@ See [[small-bowel-bleeding]] for full algorithm. See also [[capsule-endoscopy]].
 
 ## See Also
 
-[[small-bowel-bleeding]], [[capsule-endoscopy]], [[acg-2015-small-bowel-bleeding]]
+
+[[small-bowel-bleeding]], [[capsule-endoscopy]]
+
+---
+
+## Sources
+
+1. [[acg-2015-small-bowel-bleeding|ACG 2015: Diagnosis and Management of Small Bowel Bleeding]]

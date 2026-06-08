@@ -9,10 +9,11 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [C. Prakash Gyawali, Dustin A. Carlson, Joan W. Chen, Amit Patel, Robert J. Wong, Rena H. Yadlapati. ACG 2020: Clinical Use of Esophageal Physiologic Testing. American Journal of Gastroenterology 2020;115:1412–1428.](https://doi.org/10.14309/ajg.0000000000000734)
 - **Authors:** C. Prakash Gyawali, Dustin A. Carlson, Joan W. Chen, Amit Patel, Robert J. Wong, Rena H. Yadlapati
 - **Year:** 2020
 - **Journal/Publisher:** American Journal of Gastroenterology 2020;115:1412–1428
-- **DOI:** 10.14309/ajg.0000000000000734
+- **DOI:** [10.14309/ajg.0000000000000734](https://doi.org/10.14309/ajg.0000000000000734)
 - **Type:** Guideline (ACG Clinical Guideline, GRADE-based)
 
 ---

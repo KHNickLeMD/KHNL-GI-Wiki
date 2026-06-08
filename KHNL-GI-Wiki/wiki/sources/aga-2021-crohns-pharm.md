@@ -10,12 +10,13 @@ sources: []
 # AGA 2021 — Medical Management of Moderate to Severe Luminal and Perianal Fistulizing Crohn's Disease
 
 ## Bibliographic Info
+- **Article:** [Joseph D. Feuerstein, Edith Y. Ho, Eugenia Shmidt, Harminder Singh, Yngve Falck-Ytter, Shanaz Sultan, Jonathan P. Terdiman, on behalf of the AGA Institute Clinical Guidelines Committee. AGA Clinical Practice Guidelines on the Medical Management of Moderate to Severe Luminal and Perianal Fistulizing Crohn's Disease (2021). Gastroenterology 2021;160:2496–2508.](https://doi.org/10.1053/j.gastro.2021.04.022)
 - **Authors:** Joseph D. Feuerstein, Edith Y. Ho, Eugenia Shmidt, Harminder Singh, Yngve Falck-Ytter, Shanaz Sultan, Jonathan P. Terdiman, on behalf of the AGA Institute Clinical Guidelines Committee
 - **Year:** 2021
 - **Journal/Publisher:** Gastroenterology 2021;160:2496–2508
 - **Type:** guideline (GRADE-based clinical practice guideline)
 - **Accompanying technical review:** Singh S, et al. Gastroenterology 2021;160:2512–2556
-- **DOI:** https://doi.org/10.1053/j.gastro.2021.04.022
+- **DOI:** [10.1053/j.gastro.2021.04.022](https://doi.org/10.1053/j.gastro.2021.04.022)
 
 ## Summary
 

@@ -9,10 +9,11 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [Satish Nagula, Sravanthi Parasa, Loren Laine, Shailja C. Shah. AGA 2024: Quality Indicators for Upper GI Endoscopy. Clinical Gastroenterology and Hepatology 2024;22:933–943.](https://doi.org/10.1016/j.cgh.2023.10.034)
 - **Authors:** Satish Nagula, Sravanthi Parasa, Loren Laine, Shailja C. Shah
 - **Year:** 2024
 - **Journal/Publisher:** Clinical Gastroenterology and Hepatology 2024;22:933–943
-- **DOI:** <https://doi.org/10.1016/j.cgh.2023.10.034>
+- **DOI:** [10.1016/j.cgh.2023.10.034](https://doi.org/10.1016/j.cgh.2023.10.034)
 - **Type:** guideline (AGA Clinical Practice Update — Expert Review)
 
 ## Summary

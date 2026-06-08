@@ -9,10 +9,11 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [Lichtenstein GR, Loftus EV, Afzali A, Long MD, Barnes EL, Isaacs KL, Ha CY (ACG). ACG 2025: Management of Crohn's Disease in Adults. Am J Gastroenterol 2025;120:1225–1264.](https://doi.org/10.14309/ajg.0000000000003465)
 - **Authors:** Lichtenstein GR, Loftus EV, Afzali A, Long MD, Barnes EL, Isaacs KL, Ha CY (ACG)
 - **Year:** 2025
 - **Journal:** Am J Gastroenterol 2025;120:1225–1264
-- **DOI:** 10.14309/ajg.0000000000003465
+- **DOI:** [10.14309/ajg.0000000000003465](https://doi.org/10.14309/ajg.0000000000003465)
 - **Type:** Clinical guideline (ACG) — comprehensive update (40pp; 35 GRADE recommendations + 59 key concepts)
 
 ## Summary

@@ -9,10 +9,11 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [Bansal MB, Patton H, Morgan TR, Carr RM, Dranoff J, Allen AM. Semaglutide Therapy for Metabolic Dysfunction–Associated Steatohepatitis: November 2025 Updates to AASLD Practice Guidance. Hepatology (official journal of AASLD).](https://doi.org/10.1097/HEP.0000000000001608)
 - **Authors:** Bansal MB, Patton H, Morgan TR, Carr RM, Dranoff J, Allen AM
 - **Year:** 2025 (published in Hepatology 2026;83:1326–1340)
 - **Journal/Publisher:** Hepatology (official journal of AASLD)
-- **DOI:** 10.1097/HEP.0000000000001608
+- **DOI:** [10.1097/HEP.0000000000001608](https://doi.org/10.1097/HEP.0000000000001608)
 - **Type:** Practice Guidance (update to 2023 AASLD Practice Guidance on NAFLD/MASLD)
 - **Received/Accepted:** 31 October 2025
 

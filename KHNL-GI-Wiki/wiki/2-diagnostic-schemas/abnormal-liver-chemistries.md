@@ -266,4 +266,12 @@ Biopsy is appropriate when (Strong recommendation, very low evidence) [[acg-2017
 
 ## See Also
 
-[[drug-induced-liver-injury]], [[alcohol-associated-liver-disease]], [[autoimmune-hepatitis]], [[primary-sclerosing-cholangitis]], [[primary-biliary-cholangitis]], [[wilson-disease]], [[hereditary-hemochromatosis]], [[nafld-masld]], [[acute-liver-failure]], [[chronic-hepatitis-b]], [[hepatitis-c]], [[hereditary-hemochromatosis]], [[celiac-disease]], [[budd-chiari-syndrome]], [[liver-disease-in-pregnancy]], [[noninvasive-liver-disease-assessment]], [[acg-2017-liver-chemistries]], [[acg-2016-liver-disease-pregnancy]]
+
+[[drug-induced-liver-injury]], [[alcohol-associated-liver-disease]], [[autoimmune-hepatitis]], [[primary-sclerosing-cholangitis]], [[primary-biliary-cholangitis]], [[wilson-disease]], [[hereditary-hemochromatosis]], [[nafld-masld]], [[acute-liver-failure]], [[chronic-hepatitis-b]], [[hepatitis-c]], [[hereditary-hemochromatosis]], [[celiac-disease]], [[budd-chiari-syndrome]], [[liver-disease-in-pregnancy]], [[noninvasive-liver-disease-assessment]]
+
+---
+
+## Sources
+
+1. [[acg-2017-liver-chemistries|ACG 2017: Evaluation of Abnormal Liver Chemistries]]
+2. [[acg-2016-liver-disease-pregnancy|ACG Clinical Guideline: Liver Disease and Pregnancy (2016)]]

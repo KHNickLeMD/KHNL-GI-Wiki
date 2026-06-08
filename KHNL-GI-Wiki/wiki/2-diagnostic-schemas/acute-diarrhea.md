@@ -266,3 +266,9 @@ The following features should prompt microbiologic assessment, consideration of 
 ## See Also
 
 [[clostridioides-difficile]], [[fever-returning-traveler]], [[irritable-bowel-syndrome]], [[crohns-disease]], [[celiac-disease]], [[disorders-of-gut-brain-interaction]]
+
+---
+
+## Sources
+
+1. [[acg-2016-acute-diarrhea|ACG 2016: Diagnosis, Treatment, and Prevention of Acute Diarrheal Infections in Adults]]

@@ -44,4 +44,12 @@ See [[small-intestinal-bacterial-overgrowth]], [[irritable-bowel-syndrome]], [[i
 
 ## See Also
 
-[[small-intestinal-bacterial-overgrowth]], [[irritable-bowel-syndrome]], [[intestinal-methanogen-overgrowth]], [[hepatic-encephalopathy]], [[acg-2020-sibo]], [[aasld-easl-2014-hepatic-encephalopathy]]
+
+[[small-intestinal-bacterial-overgrowth]], [[irritable-bowel-syndrome]], [[intestinal-methanogen-overgrowth]], [[hepatic-encephalopathy]]
+
+---
+
+## Sources
+
+1. [[acg-2020-sibo|ACG 2020: Small Intestinal Bacterial Overgrowth]]
+2. [[aasld-easl-2014-hepatic-encephalopathy|AASLD/EASL 2014 Practice Guideline: Hepatic Encephalopathy in Chronic Liver Disease]]

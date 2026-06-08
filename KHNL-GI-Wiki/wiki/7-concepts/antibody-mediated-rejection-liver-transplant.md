@@ -50,3 +50,9 @@ Per [[aasld-ast-2025-liver-transplant-graft-complications]] (Recs 41+; full text
 ## See Also
 
 [[liver-transplantation]], [[calcineurin-inhibitors]], [[post-transplant-lymphoproliferative-disorder]]
+
+---
+
+## Sources
+
+1. [[aasld-ast-2025-liver-transplant-graft-complications|AASLD/AST 2025: Practice Guideline on Adult Liver Transplantation — Diagnosis and Management of Graft-Related Complications]]

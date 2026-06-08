@@ -101,3 +101,9 @@ Low-dose aspirin for CRC chemoprevention in adults aged **50–69** with:
 ## See Also
 
 [[colonoscopy]], [[colorectal-cancer]], [[lynch-syndrome]], [[polypectomy-emr]]
+
+---
+
+## Sources
+
+1. [[acg-2021-crc-screening|ACG 2021 Colorectal Cancer Screening Guidelines]]

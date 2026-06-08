@@ -865,4 +865,15 @@ Annual screening for HTN, obesity, DM, and hyperlipidemia for all LT recipients 
 
 ## See Also
 
-[[acute-liver-failure]], [[alcohol-associated-liver-disease]], [[portal-vein-thrombosis]], [[chronic-hepatitis-b]], [[hepatocellular-carcinoma]], [[nafld-masld]], [[primary-sclerosing-cholangitis]], [[primary-biliary-cholangitis]], [[autoimmune-hepatitis]], [[biliary-stricture]], [[ercp]], [[mri-mrcp]], [[tacrolimus]], [[calcineurin-inhibitors]], [[post-transplant-lymphoproliferative-disorder]], [[operational-tolerance]], [[antibody-mediated-rejection-liver-transplant]], [[semaglutide]], [[hepatopulmonary-syndrome-portopulmonary-hypertension]], [[aasld-ast-2025-liver-transplant-non-graft-complications]], [[asge-2023-post-transplant-biliary-strictures]]
+
+[[acute-liver-failure]], [[alcohol-associated-liver-disease]], [[portal-vein-thrombosis]], [[chronic-hepatitis-b]], [[hepatocellular-carcinoma]], [[nafld-masld]], [[primary-sclerosing-cholangitis]], [[primary-biliary-cholangitis]], [[autoimmune-hepatitis]], [[biliary-stricture]], [[ercp]], [[mri-mrcp]], [[tacrolimus]], [[calcineurin-inhibitors]], [[post-transplant-lymphoproliferative-disorder]], [[operational-tolerance]], [[antibody-mediated-rejection-liver-transplant]], [[semaglutide]], [[hepatopulmonary-syndrome-portopulmonary-hypertension]]
+
+---
+
+## Sources
+
+1. [[aasld-2012-liver-transplant-long-term|AASLD/AST 2012: Long-Term Management of the Successful Adult Liver Transplant]]
+2. [[aasld-ast-2025-liver-transplant-graft-complications|AASLD/AST 2025: Practice Guideline on Adult Liver Transplantation — Diagnosis and Management of Graft-Related Complications]]
+3. [[aasld-ast-2025-liver-transplant-candidate-evaluation|AASLD AST 2025: Practice Guideline on Adult Liver Transplantation — Candidate Evaluation]]
+4. [[aasld-ast-2025-liver-transplant-non-graft-complications|AASLD/AST Consensus Recommendations on Non-Graft Complications of Liver Transplantation (2025)]]
+5. [[asge-2023-post-transplant-biliary-strictures|ASGE Guideline on Management of Post–Liver Transplant Biliary Strictures: Summary and Recommendations (2023)]]

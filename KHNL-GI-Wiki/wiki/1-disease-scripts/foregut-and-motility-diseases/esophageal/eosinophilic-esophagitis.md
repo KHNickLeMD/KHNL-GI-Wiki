@@ -246,4 +246,12 @@ Chronic, immune/antigen-mediated esophageal disease. Characterized by esophageal
 
 ## See Also
 
-[[gerd]], [[achalasia]], [[celiac-disease]], [[barretts-esophagus]], [[upper-endoscopy]], [[acg-2025-eoe]], [[aga-2020-eoe]]
+
+[[gerd]], [[achalasia]], [[celiac-disease]], [[barretts-esophagus]], [[upper-endoscopy]]
+
+---
+
+## Sources
+
+1. [[acg-2025-eoe|ACG 2025: Diagnosis and Management of Eosinophilic Esophagitis]]
+2. [[aga-2020-eoe|AGA/JTF Clinical Guideline: Management of Eosinophilic Esophagitis (2020)]]

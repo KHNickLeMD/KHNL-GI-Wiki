@@ -263,4 +263,11 @@ Post-LT: patients can be listed for high-priority kidney transplantation alone i
 
 ## See Also
 
-[[alcohol-associated-liver-disease]], [[chronic-hepatitis-b]], [[acute-liver-failure]], [[nutrition-in-liver-disease]], [[portal-hypertension]], [[acute-on-chronic-liver-failure]], [[spontaneous-bacterial-peritonitis]], [[ascites]], [[liver-transplantation]], [[aga-2022-aki-cirrhosis]]
+
+[[alcohol-associated-liver-disease]], [[chronic-hepatitis-b]], [[acute-liver-failure]], [[nutrition-in-liver-disease]], [[portal-hypertension]], [[acute-on-chronic-liver-failure]], [[spontaneous-bacterial-peritonitis]], [[ascites]], [[liver-transplantation]]
+
+---
+
+## Sources
+
+1. [[aga-2022-aki-cirrhosis|AGA 2022: Diagnosis and Management of AKI in Cirrhosis]]

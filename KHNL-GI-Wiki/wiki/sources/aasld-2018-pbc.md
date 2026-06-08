@@ -9,10 +9,11 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [Keith D. Lindor, Christopher L. Bowlus, James Boyer, Cynthia Levy, Marlyn Mayo. AASLD 2018 Practice Guidance: Primary Biliary Cholangitis. Hepatology 2019;69:394–419.](https://doi.org/10.1002/hep.30145)
 - **Authors:** Keith D. Lindor, Christopher L. Bowlus, James Boyer, Cynthia Levy, Marlyn Mayo
 - **Year:** 2018 (published Hepatology, Vol. 69, No. 1, January 2019)
 - **Journal/Publisher:** Hepatology 2019;69:394–419
-- **DOI:** 10.1002/hep.30145
+- **DOI:** [10.1002/hep.30145](https://doi.org/10.1002/hep.30145)
 - **Type:** Practice Guidance (AASLD — expert panel consensus, evidence quality and recommendation strength not individually rated)
 
 ---

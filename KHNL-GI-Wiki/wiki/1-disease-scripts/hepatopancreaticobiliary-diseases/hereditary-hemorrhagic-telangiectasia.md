@@ -31,4 +31,11 @@ HHT (Osler-Weber-Rendu syndrome) is an autosomal dominant vascular disorder (pre
 
 ## See Also
 
-[[portal-vein-thrombosis]], [[budd-chiari-syndrome]], [[small-bowel-bleeding]], [[liver-transplantation]], [[angioectasia]], [[acg-2020-hepatic-mesenteric-circulation]]
+
+[[portal-vein-thrombosis]], [[budd-chiari-syndrome]], [[small-bowel-bleeding]], [[liver-transplantation]], [[angioectasia]]
+
+---
+
+## Sources
+
+1. [[acg-2020-hepatic-mesenteric-circulation|ACG Clinical Guideline: Disorders of the Hepatic and Mesenteric Circulation]]

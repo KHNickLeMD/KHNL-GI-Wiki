@@ -140,4 +140,12 @@ If defecation disorder is identified (abnormal ARM + BET), **biofeedback therapy
 
 ## See Also
 
-[[defecation-disorders]], [[irritable-bowel-syndrome]], [[colorectal-cancer]], [[biofeedback-therapy]], [[linaclotide]], [[plecanatide]], [[prucalopride]], [[lubiprostone]], [[anorectal-manometry]], [[aga-acg-2023-constipation]], [[acg-2021-anorectal-disorders]]
+
+[[defecation-disorders]], [[irritable-bowel-syndrome]], [[colorectal-cancer]], [[biofeedback-therapy]], [[linaclotide]], [[plecanatide]], [[prucalopride]], [[lubiprostone]], [[anorectal-manometry]]
+
+---
+
+## Sources
+
+1. [[aga-acg-2023-constipation|AGA-ACG 2023 Pharmacologic Management of Chronic Idiopathic Constipation]]
+2. [[acg-2021-anorectal-disorders|ACG 2021 Clinical Guidelines: Management of Benign Anorectal Disorders]]

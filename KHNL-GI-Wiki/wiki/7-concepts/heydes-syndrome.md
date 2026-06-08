@@ -27,4 +27,11 @@ See [[angioectasia]], [[small-bowel-bleeding]].
 
 ## See Also
 
-[[angioectasia]], [[small-bowel-bleeding]], [[acg-2015-small-bowel-bleeding]]
+
+[[angioectasia]], [[small-bowel-bleeding]]
+
+---
+
+## Sources
+
+1. [[acg-2015-small-bowel-bleeding|ACG 2015: Diagnosis and Management of Small Bowel Bleeding]]

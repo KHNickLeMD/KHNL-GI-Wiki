@@ -129,4 +129,12 @@ Malnutrition in liver disease is multifactorial:
 
 ## See Also
 
-[[hepatic-encephalopathy]], [[ascites]], [[nafld-masld]], [[alcohol-associated-liver-disease]], [[hepatocellular-carcinoma]], [[rifaximin]], [[liver-transplantation]], [[acute-on-chronic-liver-failure]], [[nutrition-in-hospitalized-patients]], [[acg-2025-liver-nutrition]], [[aasld-2021-malnutrition-cirrhosis]]
+
+[[hepatic-encephalopathy]], [[ascites]], [[nafld-masld]], [[alcohol-associated-liver-disease]], [[hepatocellular-carcinoma]], [[rifaximin]], [[liver-transplantation]], [[acute-on-chronic-liver-failure]], [[nutrition-in-hospitalized-patients]]
+
+---
+
+## Sources
+
+1. [[acg-2025-liver-nutrition|ACG 2025: Malnutrition and Nutritional Recommendations in Liver Disease]]
+2. [[aasld-2021-malnutrition-cirrhosis|AASLD Practice Guidance: Malnutrition, Frailty, and Sarcopenia in Cirrhosis (2021)]]

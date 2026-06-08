@@ -104,4 +104,12 @@ Standard practice recommends prophylactic antibiotics to prevent bacterial infec
 
 ## See Also
 
-[[portal-hypertension]], [[upper-gi-bleeding]], [[acute-lower-gi-bleeding]], [[ascites]], [[spontaneous-bacterial-peritonitis]], [[hepatic-encephalopathy]], [[peptic-ulcer-disease]], [[liver-transplantation]], [[antibiotic-prophylaxis-cirrhosis]], [[rifaximin]], [[upper-endoscopy]], [[aasld-2023-portal-hypertension]], [[albhaisi-2025-prophylactic-antibiotics-cirrhosis]]
+
+[[portal-hypertension]], [[upper-gi-bleeding]], [[acute-lower-gi-bleeding]], [[ascites]], [[spontaneous-bacterial-peritonitis]], [[hepatic-encephalopathy]], [[peptic-ulcer-disease]], [[liver-transplantation]], [[antibiotic-prophylaxis-cirrhosis]], [[rifaximin]], [[upper-endoscopy]]
+
+---
+
+## Sources
+
+1. [[albhaisi-2025-prophylactic-antibiotics-cirrhosis|Prophylactic Antibiotics for Upper GI Bleeding in Patients With Cirrhosis — Journal Club (Albhaisi)]]
+2. [[aasld-2023-portal-hypertension|AASLD 2023 Practice Guidance on Portal Hypertension and Varices in Cirrhosis]]

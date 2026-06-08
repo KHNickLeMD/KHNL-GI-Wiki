@@ -237,3 +237,9 @@ Before initiating antibiotic therapy: make an objective effort to diagnose SIBO 
 ## See Also
 
 [[irritable-bowel-syndrome]], [[celiac-disease]], [[chronic-pancreatitis]], [[disorders-of-gut-brain-interaction]], [[intestinal-methanogen-overgrowth]], [[rifaximin]], [[small-bowel-motility]]
+
+---
+
+## Sources
+
+1. [[acg-2020-sibo|ACG 2020: Small Intestinal Bacterial Overgrowth]]

@@ -28,4 +28,11 @@ See [[small-intestinal-bacterial-overgrowth]], [[acg-2020-sibo]].
 
 ## See Also
 
-[[small-intestinal-bacterial-overgrowth]], [[irritable-bowel-syndrome]], [[acg-2020-sibo]]
+
+[[small-intestinal-bacterial-overgrowth]], [[irritable-bowel-syndrome]]
+
+---
+
+## Sources
+
+1. [[acg-2020-sibo|ACG 2020: Small Intestinal Bacterial Overgrowth]]

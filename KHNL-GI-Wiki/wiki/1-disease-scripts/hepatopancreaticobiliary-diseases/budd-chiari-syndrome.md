@@ -142,4 +142,11 @@ Step 4: [[liver-transplantation|Liver transplantation]]
 
 ## See Also
 
-[[portal-vein-thrombosis]], [[hepatocellular-carcinoma]], [[acute-liver-failure]], [[liver-transplantation]], [[cirrhosis-hemostasis]], [[portal-hypertension]], [[hepatic-encephalopathy]], [[ascites]], [[hcc-surveillance]], [[acg-2020-hepatic-mesenteric-circulation]]
+
+[[portal-vein-thrombosis]], [[hepatocellular-carcinoma]], [[acute-liver-failure]], [[liver-transplantation]], [[cirrhosis-hemostasis]], [[portal-hypertension]], [[hepatic-encephalopathy]], [[ascites]], [[hcc-surveillance]]
+
+---
+
+## Sources
+
+1. [[acg-2020-hepatic-mesenteric-circulation|ACG Clinical Guideline: Disorders of the Hepatic and Mesenteric Circulation]]

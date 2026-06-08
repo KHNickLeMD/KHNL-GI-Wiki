@@ -9,10 +9,11 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [Kaltenbach et al. (USMSTF / ASGE). ASGE 2020: Endoscopic Removal of Colorectal Lesions. Gastrointestinal Endoscopy 2020;91:486–519.](https://doi.org/10.1016/j.gie.2020.01.029)
 - **Authors:** Kaltenbach et al. (USMSTF / ASGE)
 - **Year:** 2020
 - **Journal:** Gastrointestinal Endoscopy 2020;91:486–519
-- **DOI:** 10.1016/j.gie.2020.01.029
+- **DOI:** [10.1016/j.gie.2020.01.029](https://doi.org/10.1016/j.gie.2020.01.029)
 - **Type:** Multi-society consensus statement (ACG, AGA, ASGE)
 
 ## Cross-Reference Note

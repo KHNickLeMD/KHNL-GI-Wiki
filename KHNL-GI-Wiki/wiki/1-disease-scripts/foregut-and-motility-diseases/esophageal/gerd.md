@@ -272,4 +272,14 @@ Not recommended outside clinical trials. Under evaluation:
 
 ## See Also
 
-[[barretts-esophagus]], [[eosinophilic-esophagitis]], [[achalasia]], [[laryngopharyngeal-symptoms]], [[ambulatory-reflux-monitoring]], [[high-resolution-manometry]], [[hrm-antireflux-surgery]], [[flip-panometry]], [[antireflux-surgery]], [[vonoprazan]], [[upper-endoscopy]], [[asge-2024-gerd]], [[acg-2021-gerd]], [[sages-2021-gerd-surgery]], [[lyon-2024-gerd-diagnosis]]
+
+[[barretts-esophagus]], [[eosinophilic-esophagitis]], [[achalasia]], [[laryngopharyngeal-symptoms]], [[ambulatory-reflux-monitoring]], [[high-resolution-manometry]], [[hrm-antireflux-surgery]], [[flip-panometry]], [[antireflux-surgery]], [[vonoprazan]], [[upper-endoscopy]]
+
+---
+
+## Sources
+
+1. [[asge-2024-gerd|ASGE 2024: Diagnosis and Management of GERD]]
+2. [[acg-2021-gerd|ACG 2021 Clinical Guideline: Diagnosis and Management of GERD]]
+3. [[sages-2021-gerd-surgery|SAGES 2021 Guidelines for Surgical Treatment of Gastroesophageal Reflux (GERD)]]
+4. [[lyon-2024-gerd-diagnosis|Lyon Consensus 2.0 (2024): Evidence-Based Diagnosis of GERD]]

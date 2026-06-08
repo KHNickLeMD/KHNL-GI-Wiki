@@ -141,4 +141,13 @@ See [[pancreatic-cysts]] for full diagnostic algorithm and surveillance interval
 
 ## See Also
 
-[[acg-2025-eus-quality]], [[acg-2018-pancreatic-cysts]], [[pancreatic-cysts]], [[asge-2024-solid-pancreatic-masses]]
+
+[[pancreatic-cysts]]
+
+---
+
+## Sources
+
+1. [[acg-2025-eus-quality|ACG/ASGE 2025: Quality Indicators for EUS]]
+2. [[acg-2018-pancreatic-cysts|ACG 2018: Diagnosis and Management of Pancreatic Cysts]]
+3. [[asge-2024-solid-pancreatic-masses|ASGE Guideline: Role of Endoscopy in Solid Pancreatic Masses (2024)]]

@@ -62,4 +62,11 @@ The guideline issues 2 strong and 3 conditional recommendations, **all on very l
 - **Endoscope maintenance** — worn scopes require greater forces; every unit should run a robust maintenance program to identify suboptimally performing endoscopes.
 
 ## See Also
-[[asge-2023-ergonomics]], [[colonoscopy]], [[upper-endoscopy]], [[ercp]], [[endoscopic-ultrasound]]
+
+[[colonoscopy]], [[upper-endoscopy]], [[ercp]], [[endoscopic-ultrasound]]
+
+---
+
+## Sources
+
+1. [[asge-2023-ergonomics|ASGE Guideline on the Role of Ergonomics for Prevention of Endoscopy-Related Injury: Summary and Recommendations (2023)]]

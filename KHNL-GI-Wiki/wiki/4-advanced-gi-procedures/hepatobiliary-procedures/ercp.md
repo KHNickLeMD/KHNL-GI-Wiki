@@ -56,4 +56,15 @@ sources: [asge-2024-therapeutic-eus-biliary, asge-2023-post-ercp-pancreatitis, a
 
 ## See Also
 
-[[acute-pancreatitis]], [[biliary-stricture]], [[endoscopic-ultrasound]], [[chronic-pancreatitis]], [[liver-transplantation]], [[asge-2024-therapeutic-eus-biliary]], [[asge-2023-post-ercp-pancreatitis]], [[asge-2021-cholangitis]], [[asge-2019-choledocholithiasis]], [[asge-2023-post-transplant-biliary-strictures]]
+
+[[acute-pancreatitis]], [[biliary-stricture]], [[endoscopic-ultrasound]], [[chronic-pancreatitis]], [[liver-transplantation]]
+
+---
+
+## Sources
+
+1. [[asge-2024-therapeutic-eus-biliary|ASGE Guideline: Role of Therapeutic EUS in Biliary Tract Disorders (2024)]]
+2. [[asge-2023-post-ercp-pancreatitis|ASGE Guideline: Post-ERCP Pancreatitis Prevention (2023)]]
+3. [[asge-2021-cholangitis|ASGE Guideline: Management of Acute Cholangitis (2021)]]
+4. [[asge-2019-choledocholithiasis|ASGE Guideline: Endoscopic Management of Choledocholithiasis (2019)]]
+5. [[asge-2023-post-transplant-biliary-strictures|ASGE Guideline on Management of Post–Liver Transplant Biliary Strictures: Summary and Recommendations (2023)]]

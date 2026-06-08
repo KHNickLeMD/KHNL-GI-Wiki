@@ -9,10 +9,11 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [Patel, May, Anderson, Burke et al. (USMSTF). USMSTF 2021: Updates on Age to Start and Stop CRC Screening. Am J Gastroenterol 2022;117:57–69.](https://doi.org/10.14309/ajg.0000000000001548)
 - **Authors:** Patel, May, Anderson, Burke et al. (USMSTF)
 - **Year:** Published online November 2021; AJG print 2022
 - **Journal:** Am J Gastroenterol 2022;117:57–69
-- **DOI:** 10.14309/ajg.0000000000001548
+- **DOI:** [10.14309/ajg.0000000000001548](https://doi.org/10.14309/ajg.0000000000001548)
 - **Type:** Focused guideline update (ACG, AGA, ASGE) — updates 2017 screening recommendations
 
 ## Summary

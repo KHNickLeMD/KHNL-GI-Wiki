@@ -66,4 +66,12 @@ Cirrhotic patients are paradoxically prone to venous thromboembolism [[acg-2020-
 
 ## See Also
 
-[[portal-vein-thrombosis]], [[budd-chiari-syndrome]], [[spontaneous-bacterial-peritonitis]], [[aki-in-cirrhosis]], [[acute-on-chronic-liver-failure]], [[anticoagulation-gi-bleeding]], [[acg-2020-hepatic-mesenteric-circulation]], [[aga-2021-cirrhosis-coagulation]]
+
+[[portal-vein-thrombosis]], [[budd-chiari-syndrome]], [[spontaneous-bacterial-peritonitis]], [[aki-in-cirrhosis]], [[acute-on-chronic-liver-failure]], [[anticoagulation-gi-bleeding]]
+
+---
+
+## Sources
+
+1. [[acg-2020-hepatic-mesenteric-circulation|ACG Clinical Guideline: Disorders of the Hepatic and Mesenteric Circulation]]
+2. [[aga-2021-cirrhosis-coagulation|AGA Clinical Practice Guideline: Coagulation Disorders in Cirrhosis (2021)]]

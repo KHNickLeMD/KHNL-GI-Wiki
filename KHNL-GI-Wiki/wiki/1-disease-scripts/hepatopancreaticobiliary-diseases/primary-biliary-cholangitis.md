@@ -347,4 +347,14 @@ Risk of developing PBC is increased among first-degree relatives, especially fem
 
 ## See Also
 
-[[primary-sclerosing-cholangitis]], [[autoimmune-hepatitis]], [[drug-induced-liver-injury]], [[abnormal-liver-chemistries]], [[portal-hypertension]], [[hepatocellular-carcinoma]], [[hcc-surveillance]], [[liver-transplantation]], [[liver-disease-in-pregnancy]], [[tacrolimus]], [[cholangiocarcinoma]], [[aasld-2018-pbc]], [[aasld-2021-pbc]], [[acg-2017-liver-chemistries]], [[acg-2016-liver-disease-pregnancy]]
+
+[[primary-sclerosing-cholangitis]], [[autoimmune-hepatitis]], [[drug-induced-liver-injury]], [[abnormal-liver-chemistries]], [[portal-hypertension]], [[hepatocellular-carcinoma]], [[hcc-surveillance]], [[liver-transplantation]], [[liver-disease-in-pregnancy]], [[tacrolimus]], [[cholangiocarcinoma]]
+
+---
+
+## Sources
+
+1. [[aasld-2018-pbc|AASLD 2018 Practice Guidance: Primary Biliary Cholangitis]]
+2. [[aasld-2021-pbc|AASLD 2021 Practice Guidance Update: Primary Biliary Cholangitis]]
+3. [[acg-2017-liver-chemistries|ACG 2017: Evaluation of Abnormal Liver Chemistries]]
+4. [[acg-2016-liver-disease-pregnancy|ACG Clinical Guideline: Liver Disease and Pregnancy (2016)]]

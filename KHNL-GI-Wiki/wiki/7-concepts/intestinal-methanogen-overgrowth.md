@@ -34,4 +34,11 @@ See [[small-intestinal-bacterial-overgrowth]], [[rifaximin]].
 
 ## See Also
 
-[[acg-2020-sibo]], [[small-intestinal-bacterial-overgrowth]], [[rifaximin]]
+
+[[small-intestinal-bacterial-overgrowth]], [[rifaximin]]
+
+---
+
+## Sources
+
+1. [[acg-2020-sibo|ACG 2020: Small Intestinal Bacterial Overgrowth]]

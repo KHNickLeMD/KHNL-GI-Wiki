@@ -9,10 +9,11 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [Shailja C. Shah, M. Blanca Piazuelo, Ernst J. Kuipers, Dan Li. AGA 2021: Diagnosis and Management of Atrophic Gastritis. Gastroenterology, Vol. 161, No. 4, pp. 1325–1332.](https://doi.org/10.1053/j.gastro.2021.06.078)
 - **Authors:** Shailja C. Shah, M. Blanca Piazuelo, Ernst J. Kuipers, Dan Li
 - **Year:** 2021
 - **Journal:** Gastroenterology, Vol. 161, No. 4, pp. 1325–1332
-- **DOI:** <https://doi.org/10.1053/j.gastro.2021.06.078>
+- **DOI:** [10.1053/j.gastro.2021.06.078](https://doi.org/10.1053/j.gastro.2021.06.078)
 - **Type:** AGA Clinical Practice Update — Expert Review (Best Practice Advice; no formal GRADE rating)
 - **Commissioned by:** AGA Institute Clinical Practice Updates Committee and AGA Governing Board
 - **Scope:** US clinical practice focus; intended to complement the 2020 AGA GIM guidelines, which did not specifically address atrophic gastritis

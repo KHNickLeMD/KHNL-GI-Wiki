@@ -294,4 +294,12 @@ sources: [acg-2022-gastroparesis, aga-2025-gastroparesis]
 
 ## See Also
 
-[[disorders-of-gut-brain-interaction]], [[gerd]], [[flip-panometry]], [[prucalopride]], [[upper-endoscopy]], [[acg-2022-gastroparesis]], [[aga-2025-gastroparesis]]
+
+[[disorders-of-gut-brain-interaction]], [[gerd]], [[flip-panometry]], [[prucalopride]], [[upper-endoscopy]]
+
+---
+
+## Sources
+
+1. [[acg-2022-gastroparesis|ACG 2022: Gastroparesis]]
+2. [[aga-2025-gastroparesis|AGA Clinical Practice Guideline: Management of Gastroparesis (2025)]]

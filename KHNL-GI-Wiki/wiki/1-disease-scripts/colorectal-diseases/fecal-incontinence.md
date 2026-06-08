@@ -138,4 +138,11 @@ The Cleveland Clinic (Wexner) Fecal Incontinence Score or Fecal Incontinence Sev
 
 ## See Also
 
-[[defecation-disorders]], [[hemorrhoids]], [[anal-fissure]], [[rectal-prolapse]], [[sacral-nerve-stimulation]], [[biofeedback-therapy]], [[anorectal-manometry]], [[acg-2021-anorectal-disorders]]
+
+[[defecation-disorders]], [[hemorrhoids]], [[anal-fissure]], [[rectal-prolapse]], [[sacral-nerve-stimulation]], [[biofeedback-therapy]], [[anorectal-manometry]]
+
+---
+
+## Sources
+
+1. [[acg-2021-anorectal-disorders|ACG 2021 Clinical Guidelines: Management of Benign Anorectal Disorders]]

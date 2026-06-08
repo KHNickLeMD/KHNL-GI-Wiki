@@ -88,4 +88,8 @@ This page focuses on GI-relevant diagnoses. Non-GI febrile illnesses (e.g., mala
 
 ## See Also
 
-[[nejm-2023-fever-returning-traveler]]
+---
+
+## Sources
+
+1. [[nejm-2023-fever-returning-traveler|Fever in a Returning Traveler (NEJM 2023)]]

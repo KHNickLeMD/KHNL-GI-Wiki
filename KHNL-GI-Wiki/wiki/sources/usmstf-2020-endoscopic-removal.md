@@ -9,10 +9,11 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [Kaltenbach et al. (USMSTF). USMSTF 2020: Endoscopic Removal of Colorectal Lesions. Am J Gastroenterol 2020;115:435–464.](https://doi.org/10.14309/ajg.0000000000000555)
 - **Authors:** Kaltenbach et al. (USMSTF)
 - **Year:** 2020
 - **Journal:** Am J Gastroenterol 2020;115:435–464
-- **DOI:** 10.14309/ajg.0000000000000555
+- **DOI:** [10.14309/ajg.0000000000000555](https://doi.org/10.14309/ajg.0000000000000555)
 - **Type:** Multi-society consensus statement (ACG, AGA, ASGE)
 
 ## Summary

@@ -273,4 +273,13 @@ The following features increase pre-test probability of malignancy and should pr
 
 ## See Also
 
-[[chronic-pancreatitis]], [[acute-pancreatitis]], [[cholangiocarcinoma]], [[ercp]], [[endoscopic-ultrasound]], [[cholangioscopy]], [[brush-cytology]], [[fish]], [[confocal-laser-endomicroscopy]], [[primary-sclerosing-cholangitis]], [[liver-transplantation]], [[mri-mrcp]], [[tacrolimus]], [[acg-2023-biliary-strictures]], [[asge-2023-indeterminate-biliary-strictures]], [[asge-2023-post-transplant-biliary-strictures]]
+
+[[chronic-pancreatitis]], [[acute-pancreatitis]], [[cholangiocarcinoma]], [[ercp]], [[endoscopic-ultrasound]], [[cholangioscopy]], [[brush-cytology]], [[fish]], [[confocal-laser-endomicroscopy]], [[primary-sclerosing-cholangitis]], [[liver-transplantation]], [[mri-mrcp]], [[tacrolimus]]
+
+---
+
+## Sources
+
+1. [[acg-2023-biliary-strictures|ACG 2023: Diagnosis and Management of Biliary Strictures]]
+2. [[asge-2023-indeterminate-biliary-strictures|ASGE Guideline on the Role of Endoscopy in the Diagnosis of Malignancy in Biliary Strictures of Undetermined Etiology (2023)]]
+3. [[asge-2023-post-transplant-biliary-strictures|ASGE Guideline on Management of Post–Liver Transplant Biliary Strictures: Summary and Recommendations (2023)]]

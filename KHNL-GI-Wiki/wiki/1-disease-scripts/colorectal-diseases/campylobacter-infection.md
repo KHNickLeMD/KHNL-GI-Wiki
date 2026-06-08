@@ -23,4 +23,11 @@ See [[acute-diarrhea]] for full diagnostic algorithm, antibiotic table, and mana
 
 ## See Also
 
-[[acute-diarrhea]], [[rifaximin]], [[salmonella-infection]], [[shigellosis]], [[acg-2016-acute-diarrhea]]
+
+[[acute-diarrhea]], [[rifaximin]], [[salmonella-infection]], [[shigellosis]]
+
+---
+
+## Sources
+
+1. [[acg-2016-acute-diarrhea|ACG 2016: Diagnosis, Treatment, and Prevention of Acute Diarrheal Infections in Adults]]

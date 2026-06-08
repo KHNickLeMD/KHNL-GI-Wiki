@@ -116,4 +116,11 @@ sources: [acg-2024-focal-liver-lesions]
 
 ## See Also
 
-[[acg-2024-focal-liver-lesions]], [[focal-nodular-hyperplasia]], [[hepatocellular-adenoma]], [[hepatic-cysts]], [[hepatocellular-carcinoma]], [[cholangiocarcinoma]], [[li-rads]]
+
+[[focal-nodular-hyperplasia]], [[hepatocellular-adenoma]], [[hepatic-cysts]], [[hepatocellular-carcinoma]], [[cholangiocarcinoma]], [[li-rads]]
+
+---
+
+## Sources
+
+1. [[acg-2024-focal-liver-lesions|ACG Clinical Guideline: Focal Liver Lesions (2024)]]

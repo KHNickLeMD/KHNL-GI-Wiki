@@ -30,4 +30,12 @@ Guanylate cyclase-C agonist; uroguanylin analog (more pH-sensitive than [[linacl
 
 ## See Also
 
-[[chronic-idiopathic-constipation]], [[irritable-bowel-syndrome]], [[linaclotide]], [[lubiprostone]], [[prucalopride]], [[acg-2020-ibs]], [[aga-acg-2023-constipation]]
+
+[[chronic-idiopathic-constipation]], [[irritable-bowel-syndrome]], [[linaclotide]], [[lubiprostone]], [[prucalopride]]
+
+---
+
+## Sources
+
+1. [[acg-2020-ibs|ACG 2020 Clinical Guideline: Management of Irritable Bowel Syndrome]]
+2. [[aga-acg-2023-constipation|AGA-ACG 2023 Pharmacologic Management of Chronic Idiopathic Constipation]]

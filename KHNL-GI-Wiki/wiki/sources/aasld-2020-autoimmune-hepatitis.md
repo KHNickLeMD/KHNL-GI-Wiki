@@ -9,10 +9,11 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [Mack CL, Adams D, Assis DN, Kerkar N, Manns MP, Mayo MJ, Vierling JM, Alsawas M, Murad MH, Czaja AJ. AASLD Practice Guidance on Autoimmune Hepatitis (2020). Hepatology, Vol. 72, No. 2, pp. 671–722.](https://doi.org/10.1002/hep.31065)
 - **Authors:** Mack CL, Adams D, Assis DN, Kerkar N, Manns MP, Mayo MJ, Vierling JM, Alsawas M, Murad MH, Czaja AJ
 - **Year:** 2020
 - **Journal/Publisher:** Hepatology, Vol. 72, No. 2, pp. 671–722
-- **DOI:** 10.1002/hep.31065
+- **DOI:** [10.1002/hep.31065](https://doi.org/10.1002/hep.31065)
 - **Type:** Clinical Practice Guideline (update from 2010 guideline)
 
 ---

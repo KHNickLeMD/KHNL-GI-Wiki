@@ -49,4 +49,11 @@ sources: [sages-2024-poem]
 
 ## See Also
 
-[[achalasia]], [[gastroparesis]], [[distal-esophageal-spasm]], [[hypercontractile-esophagus]], [[sages-2024-poem]]
+
+[[achalasia]], [[gastroparesis]], [[distal-esophageal-spasm]], [[hypercontractile-esophagus]]
+
+---
+
+## Sources
+
+1. [[sages-2024-poem|SAGES Guideline Update: Peroral Endoscopic Myotomy (POEM) for Achalasia (2024)]]

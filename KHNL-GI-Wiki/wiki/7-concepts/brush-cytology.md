@@ -20,4 +20,11 @@ Per `[[asge-2023-indeterminate-biliary-strictures]]`:
 
 ## See Also
 
-[[ercp]], [[cholangioscopy]], [[endoscopic-ultrasound]], [[biliary-stricture]], [[cholangiocarcinoma]], [[asge-2023-indeterminate-biliary-strictures]]
+
+[[ercp]], [[cholangioscopy]], [[endoscopic-ultrasound]], [[biliary-stricture]], [[cholangiocarcinoma]]
+
+---
+
+## Sources
+
+1. [[asge-2023-indeterminate-biliary-strictures|ASGE Guideline on the Role of Endoscopy in the Diagnosis of Malignancy in Biliary Strictures of Undetermined Etiology (2023)]]

@@ -9,10 +9,11 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [Rena Yadlapati, Philip Weissbrod, Erin Walsh, C. Prakash Gyawali, John E. Pandolfino et al. (28-member international interdisciplinary panel: 12 GI/esophageal physiologists, 9 laryngologists, 6 SLPs, 1 clinical psychologist). San Diego Consensus (2025): Laryngopharyngeal Symptoms and Laryngopharyngeal Reflux Disease. American Journal of Gastroenterology (Publish Ahead of Print).](https://doi.org/10.14309/ajg.0000000000003482)
 - **Authors:** Rena Yadlapati, Philip Weissbrod, Erin Walsh, C. Prakash Gyawali, John E. Pandolfino et al. (28-member international interdisciplinary panel: 12 GI/esophageal physiologists, 9 laryngologists, 6 SLPs, 1 clinical psychologist)
 - **Year:** 2025
 - **Journal:** American Journal of Gastroenterology (Publish Ahead of Print)
-- **DOI:** <https://doi.org/10.14309/ajg.0000000000003482>
+- **DOI:** [10.14309/ajg.0000000000003482](https://doi.org/10.14309/ajg.0000000000003482)
 - **Type:** International interdisciplinary consensus (RAND Appropriateness Method; ≥80% agreement threshold; not GRADE)
 
 ## Summary

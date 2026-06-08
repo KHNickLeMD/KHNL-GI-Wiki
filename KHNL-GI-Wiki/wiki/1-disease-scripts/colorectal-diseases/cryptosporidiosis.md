@@ -25,4 +25,11 @@ See [[acute-diarrhea]] for diagnostic algorithm and management framework.
 
 ## See Also
 
-[[acute-diarrhea]], [[giardiasis]], [[entamoeba-histolytica-infection]], [[acg-2016-acute-diarrhea]]
+
+[[acute-diarrhea]], [[giardiasis]], [[entamoeba-histolytica-infection]]
+
+---
+
+## Sources
+
+1. [[acg-2016-acute-diarrhea|ACG 2016: Diagnosis, Treatment, and Prevention of Acute Diarrheal Infections in Adults]]

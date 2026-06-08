@@ -160,4 +160,11 @@ LPS can be caused by multiple mechanisms — reflux is one of several:
 
 ## See Also
 
-[[gerd]], [[barretts-esophagus]], [[ambulatory-reflux-monitoring]], [[reflux-testing]], [[upper-endoscopy]], [[disorders-of-gut-brain-interaction]], [[san-diego-2025-lprd]]
+
+[[gerd]], [[barretts-esophagus]], [[ambulatory-reflux-monitoring]], [[reflux-testing]], [[upper-endoscopy]], [[disorders-of-gut-brain-interaction]]
+
+---
+
+## Sources
+
+1. [[san-diego-2025-lprd|San Diego Consensus (2025): Laryngopharyngeal Symptoms and Laryngopharyngeal Reflux Disease]]

@@ -114,4 +114,11 @@ Manometric hiatal hernia criteria: LES-CD separation >2 cm. Body position affect
 
 ## See Also
 
-[[chicago-classification-v4]], [[hrm-antireflux-surgery]], [[flip-panometry]], [[acg-2020-esophageal-physiologic-testing]], [[gerd]]
+
+[[chicago-classification-v4]], [[hrm-antireflux-surgery]], [[flip-panometry]], [[gerd]]
+
+---
+
+## Sources
+
+1. [[acg-2020-esophageal-physiologic-testing|ACG 2020: Clinical Use of Esophageal Physiologic Testing]]

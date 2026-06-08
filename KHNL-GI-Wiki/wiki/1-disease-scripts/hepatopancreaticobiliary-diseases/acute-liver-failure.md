@@ -321,4 +321,13 @@ Not routine. Transjugular liver biopsy (TJLB) preferred over percutaneous route 
 
 ## See Also
 
-[[acute-on-chronic-liver-failure]], [[hepatic-encephalopathy]], [[liver-transplantation]], [[wilson-disease]], [[autoimmune-hepatitis]], [[budd-chiari-syndrome]], [[drug-induced-liver-injury]], [[liver-disease-in-pregnancy]], [[acg-2023-alf]], [[acg-2016-liver-disease-pregnancy]], [[aasld-ast-2025-liver-transplant-candidate-evaluation]]
+
+[[acute-on-chronic-liver-failure]], [[hepatic-encephalopathy]], [[liver-transplantation]], [[wilson-disease]], [[autoimmune-hepatitis]], [[budd-chiari-syndrome]], [[drug-induced-liver-injury]], [[liver-disease-in-pregnancy]]
+
+---
+
+## Sources
+
+1. [[acg-2023-alf|ACG 2023: Acute Liver Failure]]
+2. [[acg-2016-liver-disease-pregnancy|ACG Clinical Guideline: Liver Disease and Pregnancy (2016)]]
+3. [[aasld-ast-2025-liver-transplant-candidate-evaluation|AASLD AST 2025: Practice Guideline on Adult Liver Transplantation — Candidate Evaluation]]

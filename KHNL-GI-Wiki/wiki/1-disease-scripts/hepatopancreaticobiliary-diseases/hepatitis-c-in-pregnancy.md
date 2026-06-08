@@ -54,4 +54,11 @@ sources: [acg-2016-liver-disease-pregnancy]
 
 ## See Also
 
-[[hepatitis-c]], [[liver-disease-in-pregnancy]], [[chronic-hepatitis-b]], [[acute-liver-failure]], [[direct-acting-antivirals]], [[autoimmune-hepatitis]], [[drug-induced-liver-injury]], [[acg-2016-liver-disease-pregnancy]]
+
+[[hepatitis-c]], [[liver-disease-in-pregnancy]], [[chronic-hepatitis-b]], [[acute-liver-failure]], [[direct-acting-antivirals]], [[autoimmune-hepatitis]], [[drug-induced-liver-injury]]
+
+---
+
+## Sources
+
+1. [[acg-2016-liver-disease-pregnancy|ACG Clinical Guideline: Liver Disease and Pregnancy (2016)]]

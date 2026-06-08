@@ -23,4 +23,11 @@ See [[acute-diarrhea]] for full management. Also note Enterohemorrhagic *E. coli
 
 ## See Also
 
-[[acute-diarrhea]], [[rifaximin]], [[shigellosis]], [[campylobacter-infection]], [[acg-2016-acute-diarrhea]]
+
+[[acute-diarrhea]], [[rifaximin]], [[shigellosis]], [[campylobacter-infection]]
+
+---
+
+## Sources
+
+1. [[acg-2016-acute-diarrhea|ACG 2016: Diagnosis, Treatment, and Prevention of Acute Diarrheal Infections in Adults]]

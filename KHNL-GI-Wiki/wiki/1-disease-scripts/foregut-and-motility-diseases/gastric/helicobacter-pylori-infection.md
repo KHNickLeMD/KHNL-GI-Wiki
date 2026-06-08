@@ -164,4 +164,12 @@ sources: [acg-2017-hp-guidelines, acg-2024-hp-treatment]
 
 ## See Also
 
-[[test-and-treat]], [[bismuth-quadruple-therapy]], [[acg-2017-hp-guidelines]], [[acg-2024-hp-treatment]]
+
+[[test-and-treat]], [[bismuth-quadruple-therapy]]
+
+---
+
+## Sources
+
+1. [[acg-2017-hp-guidelines|ACG Clinical Guideline: Treatment of Helicobacter pylori Infection (2017)]]
+2. [[acg-2024-hp-treatment|ACG Clinical Guideline: Treatment of Helicobacter pylori Infection (2024)]]
