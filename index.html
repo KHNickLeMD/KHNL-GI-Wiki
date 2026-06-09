@@ -1197,13 +1197,6 @@
         <div id="sidebar-subtitle">Gastroenterology &amp; Hepatology</div>
       </div>
     </div>
-    <button id="sidebar-collapse-btn" onclick="onSidebarBtn()" title="Collapse sidebar" aria-label="Toggle sidebar">
-      <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round" aria-hidden="true">
-        <rect x="3" y="4" width="18" height="16" rx="2.5"></rect>
-        <line x1="9.5" y1="4" x2="9.5" y2="20"></line>
-        <rect x="4" y="5" width="4.5" height="14" rx="1.3" fill="currentColor" opacity="0.3" stroke="none"></rect>
-      </svg>
-    </button>
   </div>
 
   <div id="search-box">
@@ -1224,6 +1217,19 @@
     <span id="wiki-stats"></span>
   </div>
 </nav>
+
+<!-- Sidebar collapse/expand toggle. Kept OUTSIDE <nav id="sidebar"> on purpose:
+     on mobile the sidebar uses transform: translateX(), and a transformed
+     ancestor makes position:fixed resolve against that ancestor instead of the
+     viewport — which dragged this button off-screen. As a body-level child its
+     fixed positioning pins to the viewport on every breakpoint. -->
+<button id="sidebar-collapse-btn" onclick="onSidebarBtn()" title="Collapse sidebar" aria-label="Toggle sidebar">
+  <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round" aria-hidden="true">
+    <rect x="3" y="4" width="18" height="16" rx="2.5"></rect>
+    <line x1="9.5" y1="4" x2="9.5" y2="20"></line>
+    <rect x="4" y="5" width="4.5" height="14" rx="1.3" fill="currentColor" opacity="0.3" stroke="none"></rect>
+  </svg>
+</button>
 
 <!-- ══════════════ MAIN ══════════════ -->
 <div id="main">
