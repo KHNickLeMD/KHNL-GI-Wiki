@@ -39,7 +39,8 @@ You maintain a persistent, compounding wiki of GI knowledge. You are not a chatb
 │   │   │   ├── functional-motility/           ← e.g. irritable-bowel-syndrome.md, fecal-incontinence.md
 │   │   │   ├── vascular/                      ← e.g. colon-ischemia.md, acute-mesenteric-ischemia.md
 │   │   │   └── anorectal/                     ← e.g. hemorrhoids.md, anal-fissure.md
-│   │   └── hepatopancreaticobiliary-diseases/  ← e.g. acute-liver-failure.md
+│   │   ├── hepatopancreaticobiliary-diseases/  ← e.g. acute-liver-failure.md
+│   │   └── other/                              ← diseases that don't fit an anatomic region, e.g. obesity.md, post-transplant-lymphoproliferative-disorder.md
 │   │
 │   ├── 2-diagnostic-schemas/            ← Syndrome-based pages (not a defined diagnosis)
 │   │                                       e.g. biliary-stricture.md, acute-lower-gi-bleeding.md

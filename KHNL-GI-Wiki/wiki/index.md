@@ -139,9 +139,13 @@ updated: 2026-06-04
 - [[hereditary-hemorrhagic-telangiectasia]] — HHT (Osler-Weber-Rendu): stub — hepatic LVMs in 32–73%, bevacizumab for refractory LVMs at specialized centers, no routine LVM screening (1 source)
 
 
+- [[hepatic-encephalopathy]] — HE: 4-axis classification (type A/B/C, WHC severity, time course, precipitants); OHE = diagnosis of exclusion; ammonia alone has NO diagnostic/staging/prognostic value (Rec 9); lactulose first-line (Rec 19); rifaximin add-on after 2nd episode (Rec 26); protein restriction never indicated (1.2–1.5 g/kg/day); late-night snack (Rec 32); 33 recommendations (AASLD/EASL 2014) (1 source)
+
+### Other
+
 - [[obesity]] — Weight-management framework: lifestyle, pharmacotherapy, endoscopic and surgical bariatric therapy (2 sources)
 - [[post-transplant-lymphoproliferative-disorder]] — PTLD: EBV-driven lymphoproliferation post-transplant IS, IS reduction first-line, rituximab (stub)
-- [[hepatic-encephalopathy]] — HE: 4-axis classification (type A/B/C, WHC severity, time course, precipitants); OHE = diagnosis of exclusion; ammonia alone has NO diagnostic/staging/prognostic value (Rec 9); lactulose first-line (Rec 19); rifaximin add-on after 2nd episode (Rec 26); protein restriction never indicated (1.2–1.5 g/kg/day); late-night snack (Rec 32); 33 recommendations (AASLD/EASL 2014) (1 source)
+
 ---
 
 ## Diagnostic Schemas
