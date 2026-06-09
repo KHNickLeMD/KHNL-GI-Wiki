@@ -11,9 +11,11 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [ASGE Standards of Practice Committee. ASGE Guideline: ESD for Early Esophageal and Gastric Cancer (2023). Gastrointestinal Endoscopy.](https://doi.org/10.1016/j.gie.2023.03.015)
 - **Authors:** ASGE Standards of Practice Committee
 - **Year:** 2023
 - **Journal:** Gastrointestinal Endoscopy
+- **DOI:** [10.1016/j.gie.2023.03.015](https://doi.org/10.1016/j.gie.2023.03.015)
 - **Type:** GRADE-based Standards of Practice guideline
 
 ---

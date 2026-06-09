@@ -11,8 +11,10 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [AGA Living Guideline: Pharmacologic Management of Moderate-to-Severe Ulcerative Colitis (2024). Gastroenterology (AGA Living Clinical Practice Guideline).](https://doi.org/10.1053/j.gastro.2024.10.001)
 - **Year:** 2024
 - **Journal:** Gastroenterology (AGA Living Clinical Practice Guideline)
+- **DOI:** [10.1053/j.gastro.2024.10.001](https://doi.org/10.1053/j.gastro.2024.10.001)
 - **Type:** GRADE-based living guideline
 
 ---

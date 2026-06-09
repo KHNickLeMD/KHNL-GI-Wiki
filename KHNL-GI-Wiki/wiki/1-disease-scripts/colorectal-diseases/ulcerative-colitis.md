@@ -216,6 +216,9 @@ Idiopathic chronic inflammatory disorder of the large intestine. Continuous muco
 
 ### Acute Severe UC (ASUC) — Hospitalized Patient
 
+![[uc-2025-asuc-algorithm-29.png|700x998]]
+*Figure 3 — Algorithm for the management of hospitalized patients with acute severe UC. ([[acg-2025-uc]])*
+
 **Diagnosis of ASUC (Truelove-Witts):** >6 bloody stools/day + systemic toxicity (fever, tachycardia, anemia, elevated ESR)
 
 **Step-by-step management:**

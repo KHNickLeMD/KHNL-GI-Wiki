@@ -11,8 +11,10 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [AGA Clinical Practice Guideline: Gastrointestinal Evaluation of Iron-Deficiency Anemia (2020). Gastroenterology (AGA Clinical Practice Guideline).](https://doi.org/10.1053/j.gastro.2020.06.046)
 - **Year:** 2020
 - **Journal:** Gastroenterology (AGA Clinical Practice Guideline)
+- **DOI:** [10.1053/j.gastro.2020.06.046](https://doi.org/10.1053/j.gastro.2020.06.046)
 - **Type:** GRADE-based guideline
 
 ---

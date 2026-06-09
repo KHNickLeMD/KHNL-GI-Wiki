@@ -9,9 +9,11 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [Mishra G, Lennon AM, Pausawasdi N, Shami VM, Sharaiha RZ, Elmunzer BJ. ACG/ASGE 2025: Quality Indicators for EUS. Am J Gastroenterol 2025;120:973–992. doi:10.14309/ajg.0000000000003490 (joint ACG/ASGE publication).](https://doi.org/10.14309/ajg.0000000000003490)
 - **Authors:** Mishra G, Lennon AM, Pausawasdi N, Shami VM, Sharaiha RZ, Elmunzer BJ
 - **Year:** 2025 (published online April 23, 2025)
 - **Journal:** Am J Gastroenterol 2025;120:973–992. doi:10.14309/ajg.0000000000003490 (joint ACG/ASGE publication)
+- **DOI:** [10.14309/ajg.0000000000003490](https://doi.org/10.14309/ajg.0000000000003490)
 - **Type:** Quality indicator document (third iteration; prior versions 2006, 2015)
 
 ## Summary

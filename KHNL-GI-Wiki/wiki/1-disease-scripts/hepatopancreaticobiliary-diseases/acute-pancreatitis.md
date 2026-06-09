@@ -151,6 +151,9 @@ BISAP ≥3 = high risk for severe AP and mortality
 - SIADH
 - Patients already volume-repleted
 
+![[acute-pancreatitis-2024-fluid-resuscitation-algorithm-09.png|700x828]]
+*Figure 1 — Pathophysiology of fluid loss in acute pancreatitis and rationale for moderately aggressive IV hydration to prevent necrotizing progression. ([[acg-2024-acute-pancreatitis]])*
+
 ### 2. Pain Management
 
 - IV opioids (morphine or hydromorphone) for moderate-severe pain
@@ -217,6 +220,9 @@ BISAP ≥3 = high risk for severe AP and mortality
 - **Endoscopic necrosectomy via LAMS preferred** over open surgery: lower mortality, fewer complications, equivalent efficacy
 - Open surgical necrosectomy: reserved for failed endoscopic/percutaneous approach or anatomical inaccessibility
 - Pancreatic duct disruption ("disconnected pancreatic duct syndrome"): consider ERCP/stenting or surgical resection
+
+![[acute-pancreatitis-2024-late-management-algorithm-14.png|700x504]]
+*Figure 2 — Late management of suspected infected pancreatic necrosis: skip CT aspiration, assume infection, target antibiotics, and debride only if clinically unstable. ([[acg-2024-acute-pancreatitis]])*
 
 **Local complications:**
 

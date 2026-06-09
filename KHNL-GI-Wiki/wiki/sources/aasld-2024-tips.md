@@ -11,8 +11,10 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [AASLD Practice Guidance: TIPS, Variceal Embolization, and Retrograde Transvenous Obliteration (2024). Hepatology (AASLD Practice Guidance).](https://doi.org/10.1097/HEP.0000000000000530)
 - **Year:** 2024
 - **Journal:** Hepatology (AASLD Practice Guidance)
+- **DOI:** [10.1097/HEP.0000000000000530](https://doi.org/10.1097/HEP.0000000000000530)
 - **Type:** Practice Guidance (guidance statements, not GRADE recommendations)
 
 ---

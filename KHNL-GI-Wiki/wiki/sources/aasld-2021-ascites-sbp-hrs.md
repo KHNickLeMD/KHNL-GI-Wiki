@@ -13,7 +13,11 @@ sources: []
 
 **Authors:** Scott W. Biggins, Paulo Angeli, Guadalupe Garcia-Tsao, Pere Ginès, W. Ray Kim, Simon C. Ling, Mitra K. Nadim, Florence Wong
 
-**Published:** Hepatology, Vol. 74, No. 2, 2021 (DOI: 10.1002/hep.31884)
+**Published:** Hepatology, Vol. 74, No. 2, 2021
+
+**Article:** [Biggins SW, Angeli P, Garcia-Tsao G, et al. Diagnosis, Evaluation, and Management of Ascites, Spontaneous Bacterial Peritonitis and Hepatorenal Syndrome: 2021 Practice Guidance by the AASLD. *Hepatology* 2021;74:1014–1048.](https://doi.org/10.1002/hep.31884)
+
+**DOI:** [10.1002/hep.31884](https://doi.org/10.1002/hep.31884)
 
 **Type:** Practice Guidance (expert panel consensus, not formal systematic review/graded guideline)
 

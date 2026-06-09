@@ -9,9 +9,11 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [Charles J. Kahi, C. Richard Boland, Jason A. Dominitz, Francis M. Giardiello, David A. Johnson, Tonya Kaltenbach, David Lieberman, Theodore R. Levin, Douglas J. Robertson, Douglas K. Rex. USMSTF 2015: Colonoscopy Surveillance after Colorectal Cancer Resection. Am J Gastroenterol 2016;111:337–346 (simultaneously published in Gastroenterology and Gastrointestinal Endoscopy).](https://doi.org/10.1038/ajg.2016.22)
 - **Authors:** Charles J. Kahi, C. Richard Boland, Jason A. Dominitz, Francis M. Giardiello, David A. Johnson, Tonya Kaltenbach, David Lieberman, Theodore R. Levin, Douglas J. Robertson, Douglas K. Rex
 - **Year:** 2016 (published online February 12, 2016; based on searches through September–October 2015)
 - **Journal/Publisher:** Am J Gastroenterol 2016;111:337–346 (simultaneously published in Gastroenterology and Gastrointestinal Endoscopy)
+- **DOI:** [10.1038/ajg.2016.22](https://doi.org/10.1038/ajg.2016.22)
 - **Type:** Guideline / consensus statement
 - **Society:** US Multi-Society Task Force on Colorectal Cancer (USMSTF) — representing ACG, AGA, ASGE
 

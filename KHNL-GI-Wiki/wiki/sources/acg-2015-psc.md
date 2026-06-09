@@ -9,9 +9,11 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [Lindor KD, Kowdley KV, Harrison ME. ACG 2015 Clinical Guideline: Primary Sclerosing Cholangitis. Am J Gastroenterol 2015;110:646–659.](https://doi.org/10.1038/ajg.2015.112)
 - **Authors:** Lindor KD, Kowdley KV, Harrison ME
 - **Year:** 2015
 - **Journal/Publisher:** Am J Gastroenterol 2015;110:646–659
+- **DOI:** [10.1038/ajg.2015.112](https://doi.org/10.1038/ajg.2015.112)
 - **Type:** Guideline (ACG)
 
 ## Summary

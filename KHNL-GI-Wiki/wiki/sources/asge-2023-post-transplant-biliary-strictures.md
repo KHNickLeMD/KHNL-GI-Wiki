@@ -8,9 +8,11 @@ sources: []
 ---
 
 ## Bibliographic Info
+- **Article:** [Kohli DR, Amateau SK, Desai M, Chinnakotla S, Harrison ME, Chalhoub JM, Coelho-Prabhu N, Elhanafi SE, Forbes N, Fujii-Lau LL, Kwon RS, Machicado JD, Marya NB, Pawa S, Ruan W, Sheth SG, Thiruvengadam NR, Thosani NC, Qumseya BJ; ASGE Standards of Practice Committee. ASGE Guideline on Management of Post–Liver Transplant Biliary Strictures: Summary and Recommendations (2023). *Gastrointestinal Endoscopy* 2023;97(4):607–14. https://doi.org/10.1016/j.gie.2022.10.007.](https://doi.org/10.1016/j.gie.2022.10.007)
 - **Authors:** Kohli DR, Amateau SK, Desai M, Chinnakotla S, Harrison ME, Chalhoub JM, Coelho-Prabhu N, Elhanafi SE, Forbes N, Fujii-Lau LL, Kwon RS, Machicado JD, Marya NB, Pawa S, Ruan W, Sheth SG, Thiruvengadam NR, Thosani NC, Qumseya BJ; ASGE Standards of Practice Committee
 - **Year:** 2023
 - **Journal/Publisher:** *Gastrointestinal Endoscopy* 2023;97(4):607–14. https://doi.org/10.1016/j.gie.2022.10.007
+- **DOI:** [10.1016/j.gie.2022.10.007](https://doi.org/10.1016/j.gie.2022.10.007)
 - **Type:** guideline (GRADE-based clinical practice guideline)
 
 ## Summary

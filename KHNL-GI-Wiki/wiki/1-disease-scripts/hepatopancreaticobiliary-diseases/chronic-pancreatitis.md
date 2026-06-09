@@ -23,22 +23,15 @@ Chronic pancreatitis (CP) is a **pathologic fibroinflammatory syndrome of the pa
 
 **Diagnostic algorithm (ACG 2020, Fig 1 — clinicopathologic model):**
 
-```
-Suspicion of CP
-  ├─ Cross-sectional imaging (CT or MRI) ── consistent ──▶ CP
-  │                                       └─ not consistent
-  ├─ EUS ─────────────────── consistent ──▶ CP
-  │                       └─ not consistent
-  ├─ Secretin-enhanced MRCP ─ consistent ──▶ CP
-  │                       └─ not consistent
-  ├─ Pancreatic histology ── consistent ──▶ CP
-  │                       └─ not consistent
-  └─ Consider alternative diagnosis
-```
+![[chronic-pancreatitis-2020-diagnostic-algorithm-11.png|700x416]]
+*Figure 1 — Diagnostic algorithm for chronic pancreatitis based on the clinicopathologic disease model. CT, computed tomography; MRCP, magnetic resonance cholangiopancreatography. ([[acg-2020-chronic-pancreatitis]])*
 
 Genetic testing recommended if etiology unclear (especially <35 yr) [[acg-2020-chronic-pancreatitis]].
 
 **Mechanistic algorithm (Fig 2) — 3 levels of investigation:**
+
+![[chronic-pancreatitis-2020-mechanistic-algorithm-12.png|700x369]]
+*Figure 2 — Conceptual diagnostic algorithm based on the mechanistic definition of chronic pancreatitis. Rows a–c represent escalating levels of clinical investigation. TIGAR-O risk factors guide workup at each level. ([[acg-2020-chronic-pancreatitis]])*
 
 - **A:** Clinical (pancreatitis pain, maldigestion, weight loss, glucose intolerance) + TIGAR-O risk factors + imaging/serum (CT, [[endoscopic-ultrasound|EUS]]±FNA, amylase/lipase, TG, IgG4, glucose, fat-soluble vitamins, tumor markers)
 - **B:** Family history, early onset, CF organ involvement, syndromic features → genetic testing, sweat chloride, sMRCP, exocrine function testing

@@ -9,9 +9,11 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [Gupta S, Li D, El Serag HB, Davitkov P, Altayar O, Sultan S, et al. AGA 2020 Clinical Practice Update: Management of Gastric Intestinal Metaplasia. Gastroenterology 2020;158:693–702.](https://doi.org/10.1053/j.gastro.2019.12.003)
 - **Authors:** Gupta S, Li D, El Serag HB, Davitkov P, Altayar O, Sultan S, et al.
 - **Year:** 2020
 - **Journal/Publisher:** Gastroenterology 2020;158:693–702
+- **DOI:** [10.1053/j.gastro.2019.12.003](https://doi.org/10.1053/j.gastro.2019.12.003)
 - **Type:** Clinical practice update (AGA); GRADE methodology; 3 formal recommendations + 4 PICO questions
 
 ## Summary

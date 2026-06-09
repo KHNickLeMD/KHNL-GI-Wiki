@@ -11,9 +11,11 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [Buxbaum JL, Buitrago C, Lee A, Elmunzer BJ, Riaz A, Ceppa EP, Al-Haddad MA, Amateau SK, Calderwood AH, Fishman DS, Fujii-Lau LL, Jamil LH, Jue TL, Kwon RS, Law JK, Lee JK, Naveed M, Pawa S, Sawhney MS, Schilperoort H, Storm AC, Thosani NC, Qumseya BJ, Wani S. ASGE guideline on the management of cholangitis. *Gastrointest Endosc* 2021;94(2):207–221.e14.](https://doi.org/10.1016/j.gie.2020.12.032)
 - **Authors:** ASGE Standards of Practice Committee
 - **Year:** 2021
-- **Journal:** Gastrointestinal Endoscopy
+- **Journal:** Gastrointestinal Endoscopy 2021;94(2):207–221.e14
+- **DOI:** [10.1016/j.gie.2020.12.032](https://doi.org/10.1016/j.gie.2020.12.032)
 - **Type:** GRADE-based Standards of Practice guideline
 
 ---

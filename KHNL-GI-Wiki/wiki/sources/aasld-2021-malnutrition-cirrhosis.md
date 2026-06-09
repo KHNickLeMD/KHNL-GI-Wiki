@@ -11,8 +11,10 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [AASLD Practice Guidance: Malnutrition, Frailty, and Sarcopenia in Cirrhosis (2021). Hepatology (AASLD Practice Guidance).](https://doi.org/10.1002/hep.32049)
 - **Year:** 2021
 - **Journal:** Hepatology (AASLD Practice Guidance)
+- **DOI:** [10.1002/hep.32049](https://doi.org/10.1002/hep.32049)
 - **Type:** Practice guidance
 
 ---

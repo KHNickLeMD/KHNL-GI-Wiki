@@ -11,9 +11,11 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [Mahmud N, Fricker ZP, McElroy LM, Qayed E, et al. ACG Clinical Guideline: Perioperative Risk Assessment and Management in Cirrhosis (2025). American Journal of Gastroenterology.](https://doi.org/10.14309/ajg.0000000000003616)
 - **Authors:** Mahmud N, Fricker ZP, McElroy LM, Qayed E, et al.
 - **Year:** 2025
 - **Journal:** American Journal of Gastroenterology
+- **DOI:** [10.14309/ajg.0000000000003616](https://doi.org/10.14309/ajg.0000000000003616)
 - **Type:** GRADE-based Clinical Practice Guideline (ACG)
 
 ---

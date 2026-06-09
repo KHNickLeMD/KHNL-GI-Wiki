@@ -9,9 +9,11 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [Sharma P, et al. AASLD AST Practice Guideline on adult liver transplantation: Diagnosis and post-transplant management of non-graft-related complications. *Liver Transpl* 2026.](https://doi.org/10.1097/LVT.0000000000000785)
 - **Authors:** Sharma P, Izzy M, Ghabril M, Serper M, Clark C, Ison MG, Hameed B, Volk ML, Brown RS Jr, Humar A, Martin P
 - **Year:** 2025 (accepted December 3, 2025; published online ahead of print)
 - **Journal/Publisher:** Liver Transplantation, 2026;00:000. DOI: 10.1097/LVT.0000000000000785
+- **DOI:** [10.1097/LVT.0000000000000785](https://doi.org/10.1097/LVT.0000000000000785)
 - **Type:** Clinical Practice Consensus Guideline
 - **Grading system:** Oxford Centre for Evidence-Based Medicine (OCEBM) — Strength (Strong/Weak) + Level (1–5)
 

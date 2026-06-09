@@ -11,9 +11,11 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [Staller K, Parkman HP, Greer KB, Leiman DA, et al. AGA Clinical Practice Guideline on Management of Gastroparesis. *Gastroenterology* 2025;169:828–861.](https://doi.org/10.1053/j.gastro.2025.08.004)
 - **Authors:** Staller K, Parkman HP, Greer KB, Leiman DA, et al.
 - **Year:** 2025
 - **Journal:** Gastroenterology (AGA Clinical Practice Guideline)
+- **DOI:** [10.1053/j.gastro.2025.08.004](https://doi.org/10.1053/j.gastro.2025.08.004)
 - **Type:** GRADE-based guideline
 
 ---

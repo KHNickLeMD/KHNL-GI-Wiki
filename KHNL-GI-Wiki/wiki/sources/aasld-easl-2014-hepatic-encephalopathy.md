@@ -9,9 +9,11 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [Vilstrup H, Amodio P, Bajaj J, Cordoba J, Ferenci P, Mullen KD, Weissenborn K, Wong P. AASLD/EASL 2014 Practice Guideline: Hepatic Encephalopathy in Chronic Liver Disease. *Hepatology* 2014;60(2):715–735; doi:10.1002/hep.27210.](https://doi.org/10.1002/hep.27210)
 - **Authors:** Vilstrup H, Amodio P, Bajaj J, Cordoba J, Ferenci P, Mullen KD, Weissenborn K, Wong P
 - **Year:** 2014
 - **Journal/Publisher:** *Hepatology* 2014;60(2):715–735; doi:10.1002/hep.27210
+- **DOI:** [10.1002/hep.27210](https://doi.org/10.1002/hep.27210)
 - **Type:** Joint Practice Guideline (AASLD + EASL); GRADE system (evidence Levels I–III; quality A/B/C; recommendation strength 1=Strong/2=Weak)
 - **Co-published in:** *Journal of Hepatology* (simultaneous EASL publication)
 

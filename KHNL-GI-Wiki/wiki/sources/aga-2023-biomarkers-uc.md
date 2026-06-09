@@ -11,8 +11,11 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [Singh S, Ananthakrishnan AN, Nguyen NH, et al. AGA Clinical Practice Guideline on the Role of Biomarkers for the Management of Ulcerative Colitis. *Gastroenterology* 2023;164:344–372.](https://doi.org/10.1053/j.gastro.2022.12.007)
+- **Authors:** Singh S, Ananthakrishnan AN, Nguyen NH, et al.
 - **Year:** 2023
 - **Journal:** Gastroenterology (AGA Clinical Practice Guideline)
+- **DOI:** [10.1053/j.gastro.2022.12.007](https://doi.org/10.1053/j.gastro.2022.12.007)
 - **Type:** GRADE-based guideline
 
 ---

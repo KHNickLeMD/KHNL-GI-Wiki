@@ -85,6 +85,9 @@ Chronic, immune/antigen-mediated esophageal disease. Characterized by esophageal
 
 ## Diagnostics
 
+![[eoe-2025-diagnosis-algorithm-06.png|700x462]]
+*Figure 1 — Diagnostic algorithm for EoE. EGD, esophagogastroduodenoscopy; EGID, eosinophilic gastrointestinal disease; EREFS, EoE Endoscopic Reference Score; GERD, gastroesophageal reflux disease. ([[acg-2025-eoe]])*
+
 ### Endoscopy with Biopsies (required)
 
 - **≥6 biopsies** from **≥2 levels** (proximal + distal esophagus)
@@ -110,6 +113,9 @@ Chronic, immune/antigen-mediated esophageal disease. Characterized by esophageal
 ---
 
 ## Therapeutics
+
+![[eoe-2025-management-algorithm-09.png|700x393]]
+*Figure 3 — Management algorithm for EoE. After diagnosis, all patients are treated with anti-inflammatory therapy and assessed for fibrostenosis; shared decision-making guides choice between pharmacologic and dietary elimination approaches. ([[acg-2025-eoe]])*
 
 ### Treatment Goals
 

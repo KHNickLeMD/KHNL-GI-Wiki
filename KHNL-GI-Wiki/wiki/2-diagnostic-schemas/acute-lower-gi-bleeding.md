@@ -144,6 +144,9 @@ Scores supplement but do not replace clinical judgment. Low-risk patients (Oakla
 
 ### Step 4: Determine Initial Diagnostic Strategy
 
+![[lgib-2023-management-algorithm-17.png|700x712]]
+*Figure 1 — Suggested approach to the management of patients with severe hematochezia. IVF: intravenous fluid; PRBC: packed red blood cell; UGI: upper gastrointestinal; PEG: polyethylene glycol; CTA: CT angiography. ([[acg-2023-lgib]])*
+
 **If hemodynamically significant ongoing hematochezia:**
 → **CTA first** (Conditional recommendation)
 
@@ -192,6 +195,9 @@ Scores supplement but do not replace clinical judgment. Low-risk patients (Oakla
 - Intubate terminal ileum if no colonic source identified
 
 ### Step 6: Endoscopic Treatment
+
+![[lgib-2023-endoscopic-treatment-algorithm-18.png|700x317]]
+*Figure 2 — Preferred endoscopic treatment options during colonoscopy based on etiology. EBL: endoscopic band ligation; APC: argon plasma coagulation; OTSC: over-the-scope clip; SRH: stigmata of recent hemorrhage. ([[acg-2023-lgib]])*
 
 **Treat all stigmata of recent hemorrhage (SRH) regardless of etiology** (Key Concept)
 

@@ -9,9 +9,11 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [Ghany MG, Pan CQ, Lok AS, Feld JJ, Lim JK, Wang SH, Kim AY, Tang AS, Nguyen MH, Naggie S, Sulkowski MS, Rodriguez-Baez N, Chen J, Murad MH, Mohammad KS, Terrault NA. AASLD/IDSA 2025 Practice Guideline on Treatment of Chronic Hepatitis B. *Hepatology* (Publish Ahead of Print; DOI:10.1097/HEP.0000000000001549).](https://doi.org/10.1097/HEP.0000000000001549)
 - **Authors:** Ghany MG, Pan CQ, Lok AS, Feld JJ, Lim JK, Wang SH, Kim AY, Tang AS, Nguyen MH, Naggie S, Sulkowski MS, Rodriguez-Baez N, Chen J, Murad MH, Mohammad KS, Terrault NA
 - **Year:** 2025
 - **Journal/Publisher:** *Hepatology* (Publish Ahead of Print; DOI:10.1097/HEP.0000000000001549)
+- **DOI:** [10.1097/HEP.0000000000001549](https://doi.org/10.1097/HEP.0000000000001549)
 - **Type:** Practice guideline (AASLD/IDSA joint; GRADE methodology; 6 PICO questions; 4 de novo systematic reviews)
 
 ## Summary

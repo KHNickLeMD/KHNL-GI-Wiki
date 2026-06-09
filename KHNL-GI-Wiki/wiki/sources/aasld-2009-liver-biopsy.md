@@ -8,9 +8,11 @@ sources: []
 ---
 
 ## Bibliographic Info
+- **Article:** [Don C. Rockey, Stephen H. Caldwell, Zachary D. Goodman, Rendon C. Nelson, Alastair D. Smith (AASLD). AASLD 2009 Position Paper: Liver Biopsy. Hepatology 2009;49(3):1017-1044 (AASLD Position Paper).](https://doi.org/10.1002/hep.22786)
 - **Authors:** Don C. Rockey, Stephen H. Caldwell, Zachary D. Goodman, Rendon C. Nelson, Alastair D. Smith (AASLD)
 - **Year:** 2009
 - **Journal/Publisher:** Hepatology 2009;49(3):1017-1044 (AASLD Position Paper)
+- **DOI:** [10.1002/hep.22786](https://doi.org/10.1002/hep.22786)
 - **Type:** guideline (position paper)
 
 ## Summary

@@ -37,26 +37,8 @@ Dyspepsia refers to one or more of: postprandial fullness, early satiation, epig
 
 **Undiagnosed dyspepsia (ACG/CAG 2017, Figure 1):**
 
-```
-            Adult dyspepsia patient
-                    │
-        ┌───────────┴───────────┐
-     ≥60 yr                  <60 yr
-        │                       │
-      EGD                  H. pylori test-and-treat
-        │                  ┌────┴────┐
-   Manage by findings    Positive   Negative
-                          │          │
-                       eradicate    PPI 4–8 wk
-                          │          │
-                       Response?  Response?
-                          │          │
-                    No ───┴──→ PPI ──┴──→ TCA or prokinetic
-                                              │
-                                       No response
-                                              │
-                                      Consider psychotherapy
-```
+![[dyspepsia-2017-undiagnosed-algorithm-09.png|700x393]]
+*Figure 1 — Algorithm for the management of undiagnosed dyspepsia. ([[acg-cag-2017-dyspepsia]])*
 
 1. **Age ≥60** (ACG/CAG 2017 Statement 1, Cond/Very Low) → EGD to exclude upper GI neoplasia. Lower threshold if high-risk (childhood in high-GC-incidence country, family history upper GI malignancy) [[acg-cag-2017-dyspepsia]].
 2. **Age <60 + alarm features** (Statement 2, Cond/Moderate) → Do **NOT** automatically scope; alarm features have low PPV (sensitivity 0.67, specificity 0.66 for upper GI cancer). Use case-by-case clinical judgment. Prominent features (e.g., weight loss >20 lb, rapidly progressive dysphagia) or combinations warrant EGD.
@@ -66,27 +48,8 @@ Dyspepsia refers to one or more of: postprandial fullness, early satiation, epig
 
 ### Functional Dyspepsia (post-EGD with no structural lesion)
 
-```
-H. pylori positive ─→ Eradicate (NNT 12.5)
-                                 │
-                              Response?
-                                 │
-H. pylori negative or symptomatic post-eradication
-                                 │
-                              PPI (NNT 10)
-                                 │
-                              Response?
-                                 │
-                              TCA (NNT 6)   ←─ SSRIs ineffective
-                                 │
-                              Response?
-                                 │
-                              Prokinetic
-                                 │
-                              Response?
-                                 │
-                              Psychological therapy (CBT; NNT 3, VLow Q)
-```
+![[dyspepsia-2017-functional-algorithm-09.png|700x394]]
+*Figure 2 — Algorithm for the treatment of functional dyspepsia. ([[acg-cag-2017-dyspepsia]])*
 
 - **Statement 7 (Strong/High):** FD + HP+ → eradication therapy
 - **Statement 8 (Strong/Moderate):** FD + HP− → PPI

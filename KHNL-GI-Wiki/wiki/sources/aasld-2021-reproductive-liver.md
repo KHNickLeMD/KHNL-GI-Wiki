@@ -11,8 +11,10 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [AASLD Practice Guidance: Reproductive Health and Liver Disease (2021). Hepatology (AASLD Practice Guidance).](https://doi.org/10.1002/hep.31559)
 - **Year:** 2021
 - **Journal:** Hepatology (AASLD Practice Guidance)
+- **DOI:** [10.1002/hep.31559](https://doi.org/10.1002/hep.31559)
 - **Type:** Practice guidance
 
 ---

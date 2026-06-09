@@ -9,9 +9,11 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [Tenner S, Vege SS, Sheth SG, Salvia R, Payawal DA, Algul H, Bhure U, Bhutan CK, Cruz-Santamaría DM, de Madaria E, Forsmark CE, Greenberg JA, Grinevich V, Hammer HF, Hwang JH, Jin T, Kochhar R, Larana R, Lee PJ, Papachristou GI, Pham A, Regimbeau JM, Sahai AV, Swensson J, Thosani N, Whitcomb DC, Windsor JA, Yadav D, Yokoe M, Manes G. ACG Clinical Guideline: Management of Acute Pancreatitis (2024). American Journal of Gastroenterology 2024;119:419–437.](https://doi.org/10.14309/ajg.0000000000002645)
 - **Authors:** Tenner S, Vege SS, Sheth SG, Salvia R, Payawal DA, Algul H, Bhure U, Bhutan CK, Cruz-Santamaría DM, de Madaria E, Forsmark CE, Greenberg JA, Grinevich V, Hammer HF, Hwang JH, Jin T, Kochhar R, Larana R, Lee PJ, Papachristou GI, Pham A, Regimbeau JM, Sahai AV, Swensson J, Thosani N, Whitcomb DC, Windsor JA, Yadav D, Yokoe M, Manes G
 - **Year:** 2024
 - **Journal/Publisher:** American Journal of Gastroenterology 2024;119:419–437
+- **DOI:** [10.14309/ajg.0000000000002645](https://doi.org/10.14309/ajg.0000000000002645)
 - **Type:** Guideline
 
 ## Summary

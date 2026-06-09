@@ -9,10 +9,12 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [Prosty C, et al. Prophylactic Antibiotics for Upper Gastrointestinal Bleeding in Patients With Cirrhosis: A Systematic Review and Bayesian Meta-Analysis. *JAMA Intern Med* 2025;185(10):1194–1203.](https://doi.org/10.1001/jamainternmed.2025.3832)
 - **Authors:** Somaya Albhaisi (presenter); underlying systematic review published in JAMA Internal Medicine
 - **Year:** 2025
 - **Journal/Publisher:** JAMA Internal Medicine (underlying study); Journal Club at LA General
 - **URL:** <https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2837199>
+- **DOI:** [10.1001/jamainternmed.2025.3832](https://doi.org/10.1001/jamainternmed.2025.3832)
 - **Type:** Journal club summary of a systematic review
 
 ## Summary

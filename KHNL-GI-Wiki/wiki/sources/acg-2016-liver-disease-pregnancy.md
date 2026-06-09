@@ -9,9 +9,11 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [Tram T. Tran, MD, FACG, FAASLD; Joseph Ahn, MD, MS, FACG; Nancy S. Reau, MD, FAASLD, FAGA. ACG Clinical Guideline: Liver Disease and Pregnancy (2016). Am J Gastroenterol 2016; 111:176–194. doi:10.1038/ajg.2015.430.](https://doi.org/10.1038/ajg.2015.430)
 - **Authors:** Tram T. Tran, MD, FACG, FAASLD; Joseph Ahn, MD, MS, FACG; Nancy S. Reau, MD, FAASLD, FAGA
 - **Year:** 2016 (published online 2 February 2016)
 - **Journal/Publisher:** Am J Gastroenterol 2016; 111:176–194. doi:10.1038/ajg.2015.430
+- **DOI:** [10.1038/ajg.2015.430](https://doi.org/10.1038/ajg.2015.430)
 - **Type:** Guideline (GRADE-based)
 
 ---

@@ -9,9 +9,11 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [Chang KJ, et al. The Vital Role of the Endoscopic Oncologist. *Gastrointest Endosc Clin N Am* 2024;34(1):xv–xviii.](https://doi.org/10.1016/j.giec.2023.08.001)
 - **Authors:** Kenneth J Chang et al.
 - **Year:** 2024
 - **Journal/Publisher:** Gastrointestinal Endoscopy Clinics of North America, 34(1):xv–xviii
+- **DOI:** [10.1016/j.giec.2023.08.001](https://doi.org/10.1016/j.giec.2023.08.001)
 - **Type:** Editorial
 - **PubMed:** <https://pubmed.ncbi.nlm.nih.gov/37973235/>
 

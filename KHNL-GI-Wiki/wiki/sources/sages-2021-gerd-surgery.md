@@ -9,9 +9,11 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [Slater BJ, Dirks RC, McKinney SK, Ansari MT, Kohn GP, Thosani N, et al. SAGES guidelines for the surgical treatment of gastroesophageal reflux (GERD). *Surg Endosc* 2021;35(9):4903–4917.](https://doi.org/10.1007/s00464-021-08625-5)
 - **Authors:** Slater BJ, Dirks RC, McKinney SK, Ansari MT, Kohn GP, Thosani N, et al. (SAGES Guidelines Committee)
 - **Year:** 2021
-- **Journal/Publisher:** Surgical Endoscopy 2021 (published online Sept 2021)
+- **Journal/Publisher:** Surgical Endoscopy 2021;35(9):4903–4917
+- **DOI:** [10.1007/s00464-021-08625-5](https://doi.org/10.1007/s00464-021-08625-5)
 - **Type:** Clinical practice guideline (SAGES); GRADE methodology; 7 recommendations covering 5 key questions; surgical-perspective guideline
 
 ## Summary

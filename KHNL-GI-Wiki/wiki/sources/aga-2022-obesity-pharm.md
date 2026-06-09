@@ -11,8 +11,10 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [AGA Clinical Practice Guideline: Pharmacological Interventions for Adults with Obesity (2022). Gastroenterology (AGA Clinical Practice Guideline).](https://doi.org/10.1053/j.gastro.2022.08.045)
 - **Year:** 2022
 - **Journal:** Gastroenterology (AGA Clinical Practice Guideline)
+- **DOI:** [10.1053/j.gastro.2022.08.045](https://doi.org/10.1053/j.gastro.2022.08.045)
 - **Type:** GRADE-based guideline
 
 ---

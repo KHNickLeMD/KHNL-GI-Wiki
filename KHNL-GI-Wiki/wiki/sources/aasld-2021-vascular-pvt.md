@@ -11,8 +11,10 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [AASLD Practice Guidance: Vascular Liver Disorders, Portal Vein Thrombosis, and Procedural Bleeding in Cirrhosis (2021). Hepatology (AASLD Practice Guidance).](https://doi.org/10.1002/hep.31646)
 - **Year:** 2021
 - **Journal:** Hepatology (AASLD Practice Guidance)
+- **DOI:** [10.1002/hep.31646](https://doi.org/10.1002/hep.31646)
 - **Type:** Practice guidance
 
 ---

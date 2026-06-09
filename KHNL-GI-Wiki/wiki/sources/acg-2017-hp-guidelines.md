@@ -11,11 +11,13 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [Chey WD, Leontiadis GI, Howden CW, Moss SF. ACG Clinical Guideline: Treatment of Helicobacter pylori Infection. *Am J Gastroenterol* 2017;112:212–239.](https://doi.org/10.1038/ajg.2016.563)
 - **Authors:** Chey WD, Leontiadis GI, Howden CW, Moss SF
 - **Year:** 2017
-- **Journal:** American Journal of Gastroenterology, 112:212–238
+- **Journal:** American Journal of Gastroenterology, 112:212–239
 - **Type:** Clinical Practice Guideline (ACG)
 - **PMID:** 28071659
+- **DOI:** [10.1038/ajg.2016.563](https://doi.org/10.1038/ajg.2016.563)
 
 ---
 

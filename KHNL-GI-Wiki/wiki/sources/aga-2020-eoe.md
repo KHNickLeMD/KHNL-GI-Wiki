@@ -11,8 +11,11 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [Hirano I, Chan ES, Rank MA, et al. AGA Institute and the Joint Task Force on Allergy-Immunology Practice Parameters Clinical Guidelines for the Management of Eosinophilic Esophagitis. *Gastroenterology* 2020;158:1776–1786.](https://doi.org/10.1053/j.gastro.2020.02.038)
+- **Authors:** Hirano I, Chan ES, Rank MA, et al.
 - **Year:** 2020
 - **Journal:** Gastroenterology (AGA / Joint Task Force on Allergy-Immunology)
+- **DOI:** [10.1053/j.gastro.2020.02.038](https://doi.org/10.1053/j.gastro.2020.02.038)
 - **Type:** GRADE-based guideline
 
 ---

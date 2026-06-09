@@ -8,9 +8,11 @@ sources: []
 ---
 
 ## Bibliographic Info
+- **Article:** [Grace L. Su, Cynthia W. Ko, Premysl Bercik, Yngve Falck-Ytter, Shahnaz Sultan, Adam V. Weizman, Rebecca L. Morgan. AGA Clinical Practice Guidelines on the Role of Probiotics in the Management of Gastrointestinal Disorders. Gastroenterology 2020;159:697–705 (American Gastroenterological Association).](https://doi.org/10.1053/j.gastro.2020.05.059)
 - **Authors:** Grace L. Su, Cynthia W. Ko, Premysl Bercik, Yngve Falck-Ytter, Shahnaz Sultan, Adam V. Weizman, Rebecca L. Morgan
 - **Year:** 2020
 - **Journal/Publisher:** Gastroenterology 2020;159:697–705 (American Gastroenterological Association)
+- **DOI:** [10.1053/j.gastro.2020.05.059](https://doi.org/10.1053/j.gastro.2020.05.059)
 - **Type:** guideline (GRADE-based clinical practice guideline, accompanied by a separate technical review — Preidis et al, Gastroenterology 2020;159:724–754)
 
 ## Summary

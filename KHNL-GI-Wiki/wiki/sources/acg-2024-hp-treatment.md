@@ -9,9 +9,11 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [Chey WD, Howden CW, Moss SF, Wu J, Vakil N. ACG Clinical Guideline: Treatment of Helicobacter pylori Infection (2024). American Journal of Gastroenterology 2024;119:1730–1753.](https://doi.org/10.14309/ajg.0000000000002968)
 - **Authors:** Chey WD, Howden CW, Moss SF, Wu J, Vakil N
 - **Year:** 2024
 - **Journal/Publisher:** American Journal of Gastroenterology 2024;119:1730–1753
+- **DOI:** [10.14309/ajg.0000000000002968](https://doi.org/10.14309/ajg.0000000000002968)
 - **Type:** Guideline
 
 ## Summary

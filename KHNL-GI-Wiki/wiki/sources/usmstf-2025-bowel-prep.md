@@ -9,10 +9,12 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [Jacobson BC, Anderson JC, Burke CA, Dominitz JA, Gross SA, May FP, Patel SG, Shaukat A, Robertson DJ. Optimizing Bowel Preparation Quality for Colonoscopy: Consensus Recommendations by the US Multi-Society Task Force on Colorectal Cancer. *Am J Gastroenterol* 2025;120:738–764.](https://doi.org/10.14309/ajg.0000000000003287)
 - **Authors:** Jacobson BC, Anderson JC, Burke CA, Dominitz JA, Gross SA, May FP, Patel SG, Shaukat A, Robertson DJ
 - **Year:** 2025
-- **Journal:** Am J Gastroenterol 2025;120:738–764. doi:10.14309/ajg.0000000000003287 (joint publication with Gastrointestinal Endoscopy and Gastroenterology)
+- **Journal:** Am J Gastroenterol 2025;120:738–764 (joint publication with Gastrointestinal Endoscopy and Gastroenterology)
 - **Type:** Consensus recommendations (USMSTF — representing ACG, AGA, ASGE); update to 2014 USMSTF recommendations
+- **DOI:** [10.14309/ajg.0000000000003287](https://doi.org/10.14309/ajg.0000000000003287)
 
 ## Summary
 

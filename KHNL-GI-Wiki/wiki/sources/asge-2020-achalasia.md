@@ -11,9 +11,11 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [Khashab MA, Vela MF, Thosani N, Agrawal D, Buxbaum JL, Abbas Fehmi SM, Fishman DS, Gurudu SR, Jamil L, Jue TL, Kannadath BS, Law JK, Lee JK, Naveed M, Qumseya BJ, Sawhney MS, Yang J, Wani S. ASGE guideline on the management of achalasia. *Gastrointest Endosc* 2020;91(2):213–227.e6.](https://doi.org/10.1016/j.gie.2019.04.231)
 - **Authors:** ASGE Standards of Practice Committee
 - **Year:** 2020
-- **Journal:** Gastrointestinal Endoscopy
+- **Journal:** Gastrointestinal Endoscopy 2020;91(2):213–227.e6
+- **DOI:** [10.1016/j.gie.2019.04.231](https://doi.org/10.1016/j.gie.2019.04.231)
 - **Type:** GRADE-based Standards of Practice guideline
 
 ---

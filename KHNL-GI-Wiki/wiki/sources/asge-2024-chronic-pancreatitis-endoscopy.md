@@ -11,9 +11,11 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [ASGE Standards of Practice Committee. ASGE Guideline: Role of Endoscopy in Management of Chronic Pancreatitis (2024). Gastrointestinal Endoscopy.](https://doi.org/10.1016/j.gie.2024.05.016)
 - **Authors:** ASGE Standards of Practice Committee
 - **Year:** 2024
 - **Journal:** Gastrointestinal Endoscopy
+- **DOI:** [10.1016/j.gie.2024.05.016](https://doi.org/10.1016/j.gie.2024.05.016)
 - **Type:** GRADE-based Standards of Practice guideline
 
 ---

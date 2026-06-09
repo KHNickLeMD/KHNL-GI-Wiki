@@ -11,9 +11,11 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [Grace H. Elta, MD, FACG; Brintha K. Enestvedt, MD, MBA; Bryan G. Sauer, MD, MSc, FACG (GRADE Methodologist); Anne Marie Lennon, MD, PhD, FACG. ACG 2018: Diagnosis and Management of Pancreatic Cysts. *American Journal of Gastroenterology* 2018; 113:464–479. doi:10.1038/ajg.2018.14; published online 27 February 2018.](https://doi.org/10.1038/ajg.2018.14)
 - **Authors:** Grace H. Elta, MD, FACG; Brintha K. Enestvedt, MD, MBA; Bryan G. Sauer, MD, MSc, FACG (GRADE Methodologist); Anne Marie Lennon, MD, PhD, FACG
 - **Year:** 2018
 - **Journal/Publisher:** *American Journal of Gastroenterology* 2018; 113:464–479. doi:10.1038/ajg.2018.14; published online 27 February 2018
+- **DOI:** [10.1038/ajg.2018.14](https://doi.org/10.1038/ajg.2018.14)
 - **Type:** Guideline (ACG Clinical Guideline)
 
 ---

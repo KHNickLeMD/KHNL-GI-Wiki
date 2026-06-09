@@ -9,6 +9,7 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** Fever in a Returning Traveler. *N Engl J Med* 2023 (October 21, 2023). *(Authors not identified in source; DOI not confirmed — do not link until verified)*
 - **Authors:** Not specified in raw source
 - **Year:** 2023
 - **Journal/Publisher:** New England Journal of Medicine (October 21, 2023)

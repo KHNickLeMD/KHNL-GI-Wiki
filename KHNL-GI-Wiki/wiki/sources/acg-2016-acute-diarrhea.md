@@ -9,9 +9,11 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [Mark S. Riddle, MD, DrPH; Herbert L. DuPont, MD; Bradley A. Connor, MD. ACG 2016: Diagnosis, Treatment, and Prevention of Acute Diarrheal Infections in Adults. *The American Journal of Gastroenterology* 2016; 111:602–622. doi:10.1038/ajg.2016.126.](https://doi.org/10.1038/ajg.2016.126)
 - **Authors:** Mark S. Riddle, MD, DrPH; Herbert L. DuPont, MD; Bradley A. Connor, MD
 - **Year:** 2016
 - **Journal/Publisher:** *The American Journal of Gastroenterology* 2016; 111:602–622. doi:10.1038/ajg.2016.126
+- **DOI:** [10.1038/ajg.2016.126](https://doi.org/10.1038/ajg.2016.126)
 - **Type:** Guideline (ACG Clinical Guideline)
 
 ---

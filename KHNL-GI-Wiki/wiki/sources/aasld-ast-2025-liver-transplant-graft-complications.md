@@ -9,9 +9,11 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [Te HS, et al. AASLD AST Practice Guideline on adult liver transplantation: Diagnosis and management of graft-related complications. *Liver Transpl* 2026;32:444–490.](https://doi.org/10.1097/LVT.0000000000000715)
 - **Authors:** Helen S. Te, Vatche G. Agopian, Anthony J. Demetris, Paul Y. Kwo, Brendan M. McGuire, Mark W. Russo, Nazia Selzner, W. Kenneth Washburn, Gerald Scott Winder, Thomas D. Schiano
 - **Year:** 2025
 - **Journal/Publisher:** *Liver Transplantation* 2026;32:444–490. DOI: 10.1097/LVT.0000000000000715
+- **DOI:** [10.1097/LVT.0000000000000715](https://doi.org/10.1097/LVT.0000000000000715)
 - **Type:** guideline
 - **Received:** 29 July 2025; **Accepted:** 29 July 2025
 - **Funding:** AASLD

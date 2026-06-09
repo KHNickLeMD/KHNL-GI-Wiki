@@ -108,6 +108,9 @@ sources: [acg-2017-hp-guidelines, acg-2024-hp-treatment]
 
 ### First-Line Eradication Regimens
 
+![[hpylori-2024-first-line-regimens-09.png|700x493]]
+*Figure 1 — Empiric first-line regimens for treatment-naive patients with H. pylori infection (without antibiotic susceptibility testing). ([[acg-2024-hp-treatment]])*
+
 | Regimen | Components | Duration | Strength |
 |---|---|---|---|
 | **Bismuth quadruple therapy (BQT)** [[bismuth-quadruple-therapy]] | PPI bid + bismuth subsalicylate 525 mg qid + metronidazole 500 mg qid + tetracycline 500 mg qid | 14 days | **Strong** |
@@ -135,6 +138,9 @@ sources: [acg-2017-hp-guidelines, acg-2024-hp-treatment]
 - Susceptibility-guided therapy achieves eradication rates ≥90% for susceptible strains
 
 ### Salvage Therapy (After First-Line Failure)
+
+![[hpylori-2024-salvage-regimens-15.png|700x402]]
+*Figure 3 — Empiric salvage regimens for treatment-experienced patients with persistent H. pylori infection (without antibiotic susceptibility testing). ([[acg-2024-hp-treatment]])*
 
 | Prior regimen | Salvage option |
 |---|---|

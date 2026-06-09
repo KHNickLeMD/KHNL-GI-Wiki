@@ -9,9 +9,11 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [Yadlapati R, Early D, Iyer PG, Morgan DR, Sengupta N, Sharma P, Shaheen NJ. ACG/ASGE 2025: Quality Indicators for Upper GI Endoscopy (EGD). Am J Gastroenterol 2025;120:290–312. doi:10.14309/ajg.0000000000003252 (joint ACG/ASGE publication).](https://doi.org/10.14309/ajg.0000000000003252)
 - **Authors:** Yadlapati R, Early D, Iyer PG, Morgan DR, Sengupta N, Sharma P, Shaheen NJ
 - **Year:** 2025 (published online January 14, 2025)
 - **Journal:** Am J Gastroenterol 2025;120:290–312. doi:10.14309/ajg.0000000000003252 (joint ACG/ASGE publication)
+- **DOI:** [10.14309/ajg.0000000000003252](https://doi.org/10.14309/ajg.0000000000003252)
 - **Type:** Quality indicator document (third iteration; prior versions 2006, 2015)
 
 ## Summary

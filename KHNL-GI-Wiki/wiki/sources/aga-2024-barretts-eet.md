@@ -11,8 +11,10 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [AGA Clinical Practice Guideline: Endoscopic Eradication Therapy of Barrett's Esophagus and Related Neoplasia (2024). Gastroenterology (AGA Clinical Practice Guideline).](https://doi.org/10.1053/j.gastro.2024.03.019)
 - **Year:** 2024
 - **Journal:** Gastroenterology (AGA Clinical Practice Guideline)
+- **DOI:** [10.1053/j.gastro.2024.03.019](https://doi.org/10.1053/j.gastro.2024.03.019)
 - **Type:** GRADE-based guideline
 
 ---

@@ -9,6 +9,8 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [ACG 2023: Diagnosis and Management of Biliary Strictures.](https://doi.org/10.14309/ajg.0000000000002190)
+- **DOI:** [10.14309/ajg.0000000000002190](https://doi.org/10.14309/ajg.0000000000002190)
 Elmunzer BJ, Maranki JL, Gómez V, Tavakkoli A, Sauer BG, Limketkai BN, et al. ACG Clinical Guideline: Diagnosis and Management of Biliary Strictures. *Am J Gastroenterol* 2023;118:405–426. doi:10.14309/ajg.0000000000002190. Published online January 17, 2023.
 
 Evidence graded using GRADE framework. Recommendations rated Strong or Conditional; evidence quality rated High, Moderate, Low, or Very Low.

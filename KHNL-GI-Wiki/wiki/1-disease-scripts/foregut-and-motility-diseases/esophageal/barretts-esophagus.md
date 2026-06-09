@@ -171,6 +171,9 @@ The key severity variable is **dysplasia grade**, which determines both cancer r
 
 ### Screening (Who Should Be Screened)
 
+![[barretts-2022-screening-algorithm-06.png|700x571]]
+*Figure 2 — Care algorithm for patients noted to have columnar mucosa in the tubular esophagus (diagnosis and surveillance). ([[acg-2022-barretts]])*
+
 **Recommend single screening [[upper-endoscopy]] for:**
 
 - Chronic GERD symptoms (weekly for ≥5 years) PLUS ≥3 of the following risk factors:
@@ -255,6 +258,9 @@ The key severity variable is **dysplasia grade**, which determines both cancer r
 **Cessation of surveillance:** Consider when patient is no longer fit for EET, has estimated survival <5 years, or cannot tolerate endoscopy or subsequent intervention. Discussion at approximately age 75 is clinically reasonable.
 
 ### Endoscopic Eradication Therapy (EET)
+
+![[barretts-2022-eet-algorithm-18.png|700x431]]
+*Figure 4 — Algorithm for patients referred for consideration of EET by dysplasia grade and depth of invasion. ([[acg-2022-barretts]])*
 
 See [[endoscopic-eradication-therapy]] for full technique, outcomes, and adverse-event data. EET combines [[polypectomy-emr|EMR]] of visible lesions with ablation ([[radiofrequency-ablation|RFA]] preferred) of the residual flat segment.
 

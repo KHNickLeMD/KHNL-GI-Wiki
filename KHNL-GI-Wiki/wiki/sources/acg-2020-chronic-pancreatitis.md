@@ -9,9 +9,11 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [Gardner TB, Adler DG, Forsmark CE, Sauer BG, Taylor JR, Whitcomb DC. ACG 2020: Chronic Pancreatitis. Am J Gastroenterol 2020;115:322–339.](https://doi.org/10.14309/ajg.0000000000000535)
 - **Authors:** Gardner TB, Adler DG, Forsmark CE, Sauer BG, Taylor JR, Whitcomb DC
 - **Year:** 2020
 - **Journal/Publisher:** Am J Gastroenterol 2020;115:322–339
+- **DOI:** [10.14309/ajg.0000000000000535](https://doi.org/10.14309/ajg.0000000000000535)
 - **Type:** Clinical guideline (ACG, GRADE methodology)
 
 ## Summary

@@ -11,9 +11,11 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [ASGE Standards of Practice Committee — Kohli DR, Abidi WM, Cosgrove N, Machicado JD, Desai M, Forbes N, et al. ASGE Guideline: Gastrostomy Feeding Tubes (2025). Gastrointestinal Endoscopy.](https://doi.org/10.1016/j.gie.2024.08.044)
 - **Authors:** ASGE Standards of Practice Committee — Kohli DR, Abidi WM, Cosgrove N, Machicado JD, Desai M, Forbes N, et al.
 - **Year:** 2025
 - **Journal:** Gastrointestinal Endoscopy
+- **DOI:** [10.1016/j.gie.2024.08.044](https://doi.org/10.1016/j.gie.2024.08.044)
 - **Type:** GRADE-based Standards of Practice guideline
 
 ---

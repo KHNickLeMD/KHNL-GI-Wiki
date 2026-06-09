@@ -9,9 +9,11 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [Morgan DR, Corral JE, Li D, Montgomery EA, Riquelme A, Kim JJ, Sauer B, Shah SC. ACG 2025: Diagnosis and Management of Gastric Premalignant Conditions. Am J Gastroenterol 2025;00:1–29. doi:10.14309/ajg.0000000000003350.](https://doi.org/10.14309/ajg.0000000000003350)
 - **Authors:** Morgan DR, Corral JE, Li D, Montgomery EA, Riquelme A, Kim JJ, Sauer B, Shah SC
 - **Year:** 2025 (published online March 12, 2025)
 - **Journal:** Am J Gastroenterol 2025;00:1–29. doi:10.14309/ajg.0000000000003350
+- **DOI:** [10.14309/ajg.0000000000003350](https://doi.org/10.14309/ajg.0000000000003350)
 - **Type:** Clinical guideline (ACG, first iteration on GPMC)
 
 ## Summary

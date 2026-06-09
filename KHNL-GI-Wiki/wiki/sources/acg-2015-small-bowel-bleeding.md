@@ -9,9 +9,11 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [Lauren B. Gerson, Jeff L. Fidler, David R. Cave, Jonathan A. Leighton. ACG 2015: Diagnosis and Management of Small Bowel Bleeding. *The American Journal of Gastroenterology* 2015;110:1265–1287. doi:10.1038/ajg.2015.246.](https://doi.org/10.1038/ajg.2015.246)
 - **Authors:** Lauren B. Gerson, Jeff L. Fidler, David R. Cave, Jonathan A. Leighton
 - **Year:** 2015
 - **Journal/Publisher:** *The American Journal of Gastroenterology* 2015;110:1265–1287. doi:10.1038/ajg.2015.246
+- **DOI:** [10.1038/ajg.2015.246](https://doi.org/10.1038/ajg.2015.246)
 - **Type:** Guideline (ACG Clinical Guideline)
 - **Evidence grading:** GRADE system — strength: strong / conditional; level: high / moderate / low / very low
 

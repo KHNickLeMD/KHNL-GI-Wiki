@@ -9,9 +9,11 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [Shaukat A, Kaltenbach T, Dominitz JA, Robertson DJ, Anderson JC, Cruise M, Burke CA, Gupta S, Lieberman D, Syngal S, Rex DK. USMSTF 2020: Endoscopic Recognition and Management Strategies for Malignant Colorectal Polyps. Am J Gastroenterol 2020;115:1751–1767. <https://doi.org/10.14309/ajg.0000000000001013>.](https://doi.org/10.14309/ajg.0000000000001013)
 - **Authors:** Shaukat A, Kaltenbach T, Dominitz JA, Robertson DJ, Anderson JC, Cruise M, Burke CA, Gupta S, Lieberman D, Syngal S, Rex DK
 - **Year:** 2020
 - **Journal/Publisher:** Am J Gastroenterol 2020;115:1751–1767. <https://doi.org/10.14309/ajg.0000000000001013>
+- **DOI:** [10.14309/ajg.0000000000001013](https://doi.org/10.14309/ajg.0000000000001013)
 - **Type:** Guideline (USMSTF clinical practice guideline)
 - **Published jointly in:** Am J Gastroenterol, Gastroenterology, and Gastrointestinal Endoscopy
 

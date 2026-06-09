@@ -9,9 +9,11 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [Kaplan DE, Ripoll C, Thiele M, Fortune BE, Simonetto DA, Garcia-Tsao G, Bosch J. AASLD 2023 Practice Guidance on Portal Hypertension and Varices in Cirrhosis. *Hepatology* 2024;79:1180–1211; doi:10.1097/HEP.0000000000000647.](https://doi.org/10.1097/HEP.0000000000000647)
 - **Authors:** Kaplan DE, Ripoll C, Thiele M, Fortune BE, Simonetto DA, Garcia-Tsao G, Bosch J
 - **Year:** 2023 (published Hepatology 2024)
 - **Journal/Publisher:** *Hepatology* 2024;79:1180–1211; doi:10.1097/HEP.0000000000000647
+- **DOI:** [10.1097/HEP.0000000000000647](https://doi.org/10.1097/HEP.0000000000000647)
 - **Type:** Practice Guidance (consensus-based; not systematic review/GRADE)
 
 ## Summary

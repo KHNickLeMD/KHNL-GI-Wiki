@@ -11,8 +11,11 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [Lembo A, Sultan S, Chang L, Heidelbaugh JJ, Smalley W, Verne GN. AGA Clinical Practice Guideline on the Pharmacological Management of Irritable Bowel Syndrome With Diarrhea. *Gastroenterology* 2022;163:137–151.](https://doi.org/10.1053/j.gastro.2022.04.017)
+- **Authors:** Lembo A, Sultan S, Chang L, Heidelbaugh JJ, Smalley W, Verne GN
 - **Year:** 2022
 - **Journal:** Gastroenterology (AGA Clinical Practice Guideline)
+- **DOI:** [10.1053/j.gastro.2022.04.017](https://doi.org/10.1053/j.gastro.2022.04.017)
 - **Type:** GRADE-based guideline
 
 ---

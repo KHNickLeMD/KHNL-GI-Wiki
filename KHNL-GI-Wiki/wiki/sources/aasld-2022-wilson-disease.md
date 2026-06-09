@@ -9,9 +9,11 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [Schilsky ML, Roberts EA, Bronstein JM, Dhawan A, Hamilton JP, Rivard AM, Washington MK, Weiss KH, Zimbrean PC. AASLD 2022 Practice Guidance on Wilson Disease. *Hepatology* 2025;82:E41–E90; doi:10.1002/hep.32801.](https://doi.org/10.1002/hep.32805)
 - **Authors:** Schilsky ML, Roberts EA, Bronstein JM, Dhawan A, Hamilton JP, Rivard AM, Washington MK, Weiss KH, Zimbrean PC
 - **Year:** 2022 (published Hepatology 2025;82:E41–E90)
 - **Journal/Publisher:** *Hepatology* 2025;82:E41–E90; doi:10.1002/hep.32801
+- **DOI:** [10.1002/hep.32805](https://doi.org/10.1002/hep.32805)
 - **Type:** Practice Guidance (consensus-based; insufficient RCTs for systematic review)
 
 ## Summary

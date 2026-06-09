@@ -90,6 +90,9 @@ Objective severity is assessed endoscopically and with reflux testing:
 
 ## Diagnostics
 
+![[gerd-2021-diagnosis-algorithm-07.png|700x599]]
+*Figure 1 — Diagnosis of GERD. EGD, esophagogastroduodenoscopy; GERD, gastroesophageal reflux disease; LA, Los Angeles; PPI, proton pump inhibitor. ([[acg-2021-gerd]])*
+
 ### Endoscopy
 
 Perform [[upper-endoscopy|upper endoscopy]] per indications above. High-quality examination requires (strong, very low evidence):
@@ -127,6 +130,9 @@ Perform [[upper-endoscopy|upper endoscopy]] per indications above. High-quality 
 ---
 
 ## Therapeutics
+
+![[gerd-2021-management-algorithm-15.png|700x192]]
+*Figure 3 — Management algorithm for GERD. (a) Patients empirically treated without objective workup. (b) Patients with previously objectively defined GERD. BID, twice-daily; EGD, esophagogastroduodenoscopy; GERD, gastroesophageal reflux disease; MSA, magnetic sphincter augmentation; PPI, proton pump inhibitor; TIF, transoral incisionless fundoplication. ([[acg-2021-gerd]])*
 
 ### Step 1: Lifestyle Modifications (Strong, Low Evidence)
 

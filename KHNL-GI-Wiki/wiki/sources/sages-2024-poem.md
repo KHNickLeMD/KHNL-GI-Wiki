@@ -11,8 +11,11 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [Calabrese EC, Kindel T, Slater BJ, Marks J, Swanstrom L, Saxena P, Docimo S, Athanasiadis DI, Hanna NM, Stefanidis D, Rooker C, Maddern G, Kohn GP. 2024 update to SAGES guidelines for the use of peroral endoscopic myotomy (POEM) in the treatment of achalasia. *Surg Endosc* 2025;39:4027–4037.](https://doi.org/10.1007/s00464-025-11789-z)
 - **Authors:** SAGES Guidelines Committee
-- **Year:** 2024 (update to the 2021 SAGES POEM guideline)
+- **Year:** 2024 (update to the 2021 SAGES POEM guideline); published online May 2025
+- **Journal:** Surgical Endoscopy 2025;39:4027–4037
+- **DOI:** [10.1007/s00464-025-11789-z](https://doi.org/10.1007/s00464-025-11789-z)
 - **Type:** GRADE-based guideline update
 
 ---

@@ -11,9 +11,11 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [ASGE Standards of Practice Committee. ASGE Guideline: Endoscopic Management of Malignant Hilar Obstruction (2021). Gastrointestinal Endoscopy.](https://doi.org/10.1016/j.gie.2020.12.035)
 - **Authors:** ASGE Standards of Practice Committee
 - **Year:** 2021
 - **Journal:** Gastrointestinal Endoscopy
+- **DOI:** [10.1016/j.gie.2020.12.035](https://doi.org/10.1016/j.gie.2020.12.035)
 - **Type:** GRADE-based Standards of Practice guideline
 
 ---

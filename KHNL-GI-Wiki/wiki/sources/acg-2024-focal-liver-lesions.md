@@ -9,9 +9,11 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [Frenette CT, Isaacson AJ, Lee EW, et al. ACG Clinical Guideline: Focal Liver Lesions (2024). American Journal of Gastroenterology 2024;119:1235–1271.](https://doi.org/10.14309/ajg.0000000000002857)
 - **Authors:** Frenette CT, Isaacson AJ, Lee EW, et al.
 - **Year:** 2024
 - **Journal/Publisher:** American Journal of Gastroenterology 2024;119:1235–1271
+- **DOI:** [10.14309/ajg.0000000000002857](https://doi.org/10.14309/ajg.0000000000002857)
 - **Type:** Guideline
 
 ## Summary

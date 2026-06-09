@@ -11,8 +11,10 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [AGA Clinical Practice Guideline: Systemic Therapy for Hepatocellular Carcinoma (2022). Gastroenterology (AGA Clinical Practice Guideline).](https://doi.org/10.1053/j.gastro.2021.12.276)
 - **Year:** 2022
 - **Journal:** Gastroenterology (AGA Clinical Practice Guideline)
+- **DOI:** [10.1053/j.gastro.2021.12.276](https://doi.org/10.1053/j.gastro.2021.12.276)
 - **Type:** GRADE-based guideline
 
 ---

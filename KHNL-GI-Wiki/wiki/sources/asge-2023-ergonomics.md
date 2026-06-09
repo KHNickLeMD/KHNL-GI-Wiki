@@ -8,9 +8,11 @@ sources: []
 ---
 
 ## Bibliographic Info
+- **Article:** [Pawa S, Kwon RS, Fishman DS, Thosani NC, Shergill A, Grover SC, Al-Haddad M, Amateau SK, Buxbaum JL, Calderwood AH, Chalhoub JM, Coelho-Prabhu N, Desai M, Elhanafi SE, Forbes N, Fujii-Lau LL, Kohli DR, Machicado JD, Marya NB, Ruan W, Sheth SG, Storm AC, Thiruvengadam NR, Qumseya BJ (ASGE Standards of Practice Committee). ASGE Guideline on the Role of Ergonomics for Prevention of Endoscopy-Related Injury: Summary and Recommendations (2023). Gastrointestinal Endoscopy 2023;98:482-91. doi:10.1016/j.gie.2023.05.056.](https://doi.org/10.1016/j.gie.2023.05.056)
 - **Authors:** Pawa S, Kwon RS, Fishman DS, Thosani NC, Shergill A, Grover SC, Al-Haddad M, Amateau SK, Buxbaum JL, Calderwood AH, Chalhoub JM, Coelho-Prabhu N, Desai M, Elhanafi SE, Forbes N, Fujii-Lau LL, Kohli DR, Machicado JD, Marya NB, Ruan W, Sheth SG, Storm AC, Thiruvengadam NR, Qumseya BJ (ASGE Standards of Practice Committee)
 - **Year:** 2023
 - **Journal/Publisher:** Gastrointestinal Endoscopy 2023;98:482-91. doi:10.1016/j.gie.2023.05.056
+- **DOI:** [10.1016/j.gie.2023.05.056](https://doi.org/10.1016/j.gie.2023.05.056)
 - **Type:** guideline (GRADE-based clinical practice guideline)
 
 ## Summary

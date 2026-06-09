@@ -9,10 +9,12 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [Shaukat A, Kahi CJ, Burke CA, Rabeneck L, Sauer BG, Rex DK. ACG Clinical Guidelines: Colorectal Cancer Screening 2021. *Am J Gastroenterol* 2021;116:458–479.](https://doi.org/10.14309/ajg.0000000000001122)
 - **Authors:** Shaukat A, Kahi CJ, Burke CA, Rabeneck L, Sauer BG, Rex DK
 - **Year:** 2021
 - **Journal/Publisher:** Am J Gastroenterol 2021;116:458–479
 - **Type:** Clinical practice guideline (ACG); GRADE methodology; 21 recommendations
+- **DOI:** [10.14309/ajg.0000000000001122](https://doi.org/10.14309/ajg.0000000000001122)
 
 ## Summary
 

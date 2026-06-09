@@ -11,9 +11,11 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [Wani S, Qumseya B (co-first authors), Sultan S, Agrawal D, Chandrasekhara V, Harnke B, Kothari S, McCarter M, Shaukat A, Wang A, Yang J, Dewitt J; ASGE Standards of Practice Committee. ASGE Guideline: Endoscopic Eradication Therapy for Patients with Barrett's Esophagus-Associated Dysplasia and Intramucosal Cancer (2018). Gastrointestinal Endoscopy 2018;87(4):907-931 (DOI 10.1016/j.gie.2017.10.011).](https://doi.org/10.1016/j.gie.2017.10.011)
 - **Authors:** Wani S, Qumseya B (co-first authors), Sultan S, Agrawal D, Chandrasekhara V, Harnke B, Kothari S, McCarter M, Shaukat A, Wang A, Yang J, Dewitt J; ASGE Standards of Practice Committee
 - **Year:** 2018
 - **Journal/Publisher:** Gastrointestinal Endoscopy 2018;87(4):907-931 (DOI 10.1016/j.gie.2017.10.011)
+- **DOI:** [10.1016/j.gie.2017.10.011](https://doi.org/10.1016/j.gie.2017.10.011)
 - **Type:** guideline (GRADE methodology, official ASGE recommendations)
 
 ## Summary

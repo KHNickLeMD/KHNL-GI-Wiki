@@ -9,9 +9,11 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [Lucey MR, et al. Long-term management of the successful adult liver transplant: 2012 practice guideline by the American Association for the Study of Liver Diseases and the American Society of Transplantation. *Liver Transpl* 2013;19:3–26.](https://doi.org/10.1002/lt.23566)
 - **Authors:** Michael R. Lucey, Norah Terrault, Lolu Ojo, J. Eileen Hay, James Neuberger, Emily Blumberg, Lewis W. Teperman
 - **Year:** 2012
 - **Journal/Publisher:** AASLD/American Society of Transplantation Practice Guideline; DOI: 10.1002/lt.23566
+- **DOI:** [10.1002/lt.23566](https://doi.org/10.1002/lt.23566)
 - **Type:** guideline
 
 ## Summary

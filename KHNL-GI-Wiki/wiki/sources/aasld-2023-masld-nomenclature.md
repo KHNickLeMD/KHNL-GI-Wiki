@@ -9,9 +9,11 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [Fasiha Kanwal, Brent A. Neuschwander-Tetri, Rohit Loomba, Mary E. Rinella. MASLD: Update and Impact of New Nomenclature on the AASLD Practice Guidance on NAFLD (2023). Hepatology 2024;79:1212–1219. DOI: 10.1097/HEP.0000000000000670.](https://doi.org/10.1097/HEP.0000000000000670)
 - **Authors:** Fasiha Kanwal, Brent A. Neuschwander-Tetri, Rohit Loomba, Mary E. Rinella
 - **Year:** 2024 (received/accepted Oct 2023)
 - **Journal/Publisher:** Hepatology 2024;79:1212–1219. DOI: 10.1097/HEP.0000000000000670
+- **DOI:** [10.1097/HEP.0000000000000670](https://doi.org/10.1097/HEP.0000000000000670)
 - **Type:** special article / commentary (accompanies the 2023 NAFLD Practice Guidance)
 
 ## Summary

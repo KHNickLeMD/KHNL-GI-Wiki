@@ -9,10 +9,12 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [Jacobson BC, Anderson JC, Burke CA, Dominitz JA, Gross SA, May FP, Patel SG, Shaukat A, Robertson DJ. ACG 2025: Optimizing Bowel Preparation Quality for Colonoscopy. Am J Gastroenterol 2025;120:738–764. doi:10.14309/ajg.0000000000003287.](https://doi.org/10.14309/ajg.0000000000003287)
 - **Authors:** Jacobson BC, Anderson JC, Burke CA, Dominitz JA, Gross SA, May FP, Patel SG, Shaukat A, Robertson DJ
 - **Year:** 2025
 - **Journal:** Am J Gastroenterol 2025;120:738–764. doi:10.14309/ajg.0000000000003287
 - **Also published simultaneously in:** Gastrointestinal Endoscopy and Gastroenterology (joint publication)
+- **DOI:** [10.14309/ajg.0000000000003287](https://doi.org/10.14309/ajg.0000000000003287)
 - **Type:** Consensus recommendations (multi-society: ACG, AGA, ASGE); update to 2014 USMSTF recommendations
 
 ## Cross-Reference Note

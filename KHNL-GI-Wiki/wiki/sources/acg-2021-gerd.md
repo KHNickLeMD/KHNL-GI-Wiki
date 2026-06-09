@@ -9,10 +9,12 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [Katz PO, Dunbar KB, Schnoll-Sussman FH, Greer KB, Yadlapati R, Spechler SJ. ACG Clinical Guideline for the Diagnosis and Management of Gastroesophageal Reflux Disease. *Am J Gastroenterol* 2022;117:27–56.](https://doi.org/10.14309/ajg.0000000000001538)
 - **Authors:** Katz PO, Dunbar KB, Schnoll-Sussman FH, Greer KB, Yadlapati R, Spechler SJ
 - **Year:** 2022 (published online 2021)
 - **Journal/Publisher:** Am J Gastroenterol 2022;117:27–56
 - **Type:** Clinical practice guideline (ACG); GRADE methodology
+- **DOI:** [10.14309/ajg.0000000000001538](https://doi.org/10.14309/ajg.0000000000001538)
 
 ## Summary
 

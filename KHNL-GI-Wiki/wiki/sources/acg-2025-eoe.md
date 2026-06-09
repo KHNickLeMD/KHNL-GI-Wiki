@@ -9,9 +9,11 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [Dellon et al. (ACG). ACG 2025: Diagnosis and Management of Eosinophilic Esophagitis. Am J Gastroenterol 2025;120 (January).](https://doi.org/10.14309/ajg.0000000000003194)
 - **Authors:** Dellon et al. (ACG)
 - **Year:** 2025
 - **Journal:** Am J Gastroenterol 2025;120 (January)
+- **DOI:** [10.14309/ajg.0000000000003194](https://doi.org/10.14309/ajg.0000000000003194)
 - **Type:** Clinical guideline (ACG) — updates 2013 guidelines
 - **Note:** Comprehensive update covering diagnosis, treatment (PPI, STC, dietary, biologics, dilation), maintenance, monitoring, and pediatrics
 

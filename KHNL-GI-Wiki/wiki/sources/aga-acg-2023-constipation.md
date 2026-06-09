@@ -9,9 +9,11 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [Chang L, Chey WD, Imdad A, Almario CV, Bharucha AE, Diem S, et al. American Gastroenterological Association-American College of Gastroenterology Clinical Practice Guideline: Pharmacological Management of Chronic Idiopathic Constipation. *Am J Gastroenterol* 2023;118:936–954.](https://doi.org/10.14309/ajg.0000000000002227)
 - **Authors:** Chang L, Chey WD, Imdad A, Almario CV, Bharucha AE, Diem S, et al.
 - **Year:** 2023
 - **Journal/Publisher:** Am J Gastroenterol 2023;118:936–954
+- **DOI:** [10.14309/ajg.0000000000002227](https://doi.org/10.14309/ajg.0000000000002227)
 - **Type:** Clinical practice guideline (joint AGA-ACG); GRADE methodology
 
 ## Summary

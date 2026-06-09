@@ -9,9 +9,11 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [David W. Crabb, Gene Y. Im, Gyongyi Szabo, Jessica L. Mellinger, Michael R. Lucey. AASLD 2019/2020 Practice Guidance: Diagnosis and Treatment of Alcohol-Associated Liver Diseases. Hepatology, Vol. 71, No. 1, 2020; DOI 10.1002/hep.30866.](https://doi.org/10.1002/hep.30866)
 - **Authors:** David W. Crabb, Gene Y. Im, Gyongyi Szabo, Jessica L. Mellinger, Michael R. Lucey
 - **Year:** 2020 (approved February 21, 2019; published Hepatology January 2020)
 - **Journal/Publisher:** Hepatology, Vol. 71, No. 1, 2020; DOI 10.1002/hep.30866
+- **DOI:** [10.1002/hep.30866](https://doi.org/10.1002/hep.30866)
 - **Type:** Practice guidance (guideline)
 
 ---

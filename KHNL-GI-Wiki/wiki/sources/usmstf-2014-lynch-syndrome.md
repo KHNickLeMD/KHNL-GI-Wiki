@@ -9,9 +9,11 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [Giardiello FM, Allen JI, Axilbund JE, et al.; US Multi-Society Task Force on Colorectal Cancer. Genetic Evaluation and Management of Lynch Syndrome: A Practice Guideline from the American College of Gastroenterology. *American Journal of Gastroenterology* 2014;109:1159–1179.](https://doi.org/10.1038/ajg.2014.186)
 - **Authors:** Giardiello FM, Allen JI, Axilbund JE, et al.; US Multi-Society Task Force on Colorectal Cancer
 - **Year:** 2014
 - **Journal/Publisher:** *American Journal of Gastroenterology* 2014;109:1159–1179
+- **DOI:** [10.1038/ajg.2014.186](https://doi.org/10.1038/ajg.2014.186)
 - **Type:** Guideline (NCI evidence levels I–V with GRADE A–D ratings)
 
 ---

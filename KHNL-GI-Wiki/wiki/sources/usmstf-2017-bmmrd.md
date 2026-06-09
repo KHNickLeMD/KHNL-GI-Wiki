@@ -9,9 +9,11 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [Durno C, Boland CR, Cohen S, Dominitz JA, Giardiello FM, Johnson DA, Kaltenbach T, Levin TR, Lieberman D, Robertson DJ, Rex DK; US Multi-Society Task Force on Colorectal Cancer. USMSTF 2017: Recommendations on Surveillance and Management of Biallelic Mismatch Repair Deficiency (BMMRD) Syndrome. *Am J Gastroenterol* 2017;112:682–690; doi:10.1038/ajg.2017.105.](https://doi.org/10.1038/ajg.2017.105)
 - **Authors:** Durno C, Boland CR, Cohen S, Dominitz JA, Giardiello FM, Johnson DA, Kaltenbach T, Levin TR, Lieberman D, Robertson DJ, Rex DK; US Multi-Society Task Force on Colorectal Cancer
 - **Year:** 2017
 - **Journal/Publisher:** *Am J Gastroenterol* 2017;112:682–690; doi:10.1038/ajg.2017.105
+- **DOI:** [10.1038/ajg.2017.105](https://doi.org/10.1038/ajg.2017.105)
 - **Type:** Consensus statement / guideline
 - **Co-published in:** *Gastroenterology*, *Gastrointestinal Endoscopy*, *Journal of Pediatric Gastroenterology and Nutrition*
 

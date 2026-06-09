@@ -9,9 +9,11 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [Tamar H. Taddei, Daniel B. Brown, Mark Yarchoan, Mishal Mendiratta-Lala, Josep M. Llovet. AASLD 2025 Critical Update: Practice Guidance on Prevention, Diagnosis, and Treatment of Hepatocellular Carcinoma. *Hepatology* 2025;82:272–274. DOI: 10.1097/HEP.0000000000001269.](https://doi.org/10.1097/HEP.0000000000001269)
 - **Authors:** Tamar H. Taddei, Daniel B. Brown, Mark Yarchoan, Mishal Mendiratta-Lala, Josep M. Llovet
 - **Year:** 2025
 - **Journal/Publisher:** *Hepatology* 2025;82:272–274. DOI: 10.1097/HEP.0000000000001269
+- **DOI:** [10.1097/HEP.0000000000001269](https://doi.org/10.1097/HEP.0000000000001269)
 - **Type:** Practice guidance critical update (amends AASLD 2023 HCC Practice Guidance, Singal AG et al., Hepatology 2023;78:1922–65)
 
 ## Summary

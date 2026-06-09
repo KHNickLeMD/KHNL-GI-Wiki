@@ -9,9 +9,11 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [Karvellas CJ, Bajaj JS, Kamath PS, Napolitano L, O'Leary JG, Solà E, Subramanian R, Wong F, Asrani SK. AASLD 2024 Practice Guidance on Acute-on-Chronic Liver Failure. *Hepatology* 2024;79:1463–1502; doi:10.1097/HEP.0000000000000671.](https://doi.org/10.1097/HEP.0000000000000671)
 - **Authors:** Karvellas CJ, Bajaj JS, Kamath PS, Napolitano L, O'Leary JG, Solà E, Subramanian R, Wong F, Asrani SK
 - **Year:** 2024 (Hepatology 2024;79:1463–1502)
 - **Journal/Publisher:** *Hepatology* 2024;79:1463–1502; doi:10.1097/HEP.0000000000000671
+- **DOI:** [10.1097/HEP.0000000000000671](https://doi.org/10.1097/HEP.0000000000000671)
 - **Type:** Practice Guidance (consensus-based; insufficient RCTs for systematic review/GRADE)
 
 ## Summary

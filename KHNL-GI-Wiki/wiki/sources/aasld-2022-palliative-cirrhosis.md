@@ -11,8 +11,10 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [AASLD Practice Guidance: Palliative Care and Symptom-Based Management for Decompensated Cirrhosis (2022). Hepatology (AASLD Practice Guidance).](https://doi.org/10.1002/hep.32378)
 - **Year:** 2022
 - **Journal:** Hepatology (AASLD Practice Guidance)
+- **DOI:** [10.1002/hep.32378](https://doi.org/10.1002/hep.32378)
 - **Type:** Practice guidance
 
 ---

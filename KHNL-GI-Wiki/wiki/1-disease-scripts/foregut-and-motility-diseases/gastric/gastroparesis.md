@@ -142,6 +142,9 @@ sources: [acg-2022-gastroparesis, aga-2025-gastroparesis]
 
 ## Therapeutics
 
+![[gastroparesis-2022-management-algorithm-02.png|700x452]]
+*Figure 1 — Management algorithm for gastroparesis (updated from the 2013 ACG guideline). EGD: esophagogastroduodenoscopy; GES: gastric electrical stimulation; G-POEM: gastric per-oral endoscopic myotomy; WMC: wireless motility capsule. ([[acg-2022-gastroparesis]])*
+
 ### 1. Dietary Modification (First-Line)
 
 - **Small particle, low-fat diet** (GRADE Conditional, Low evidence):

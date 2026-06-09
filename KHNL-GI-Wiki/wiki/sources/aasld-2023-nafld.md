@@ -9,9 +9,11 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [Mary E. Rinella, Brent A. Neuschwander-Tetri, Mohammad Shadab Siddiqui, Manal F. Abdelmalek, Stephen Caldwell, Diana Barb, David E. Kleiner, Rohit Loomba. AASLD Practice Guidance on the Clinical Assessment and Management of Nonalcoholic Fatty Liver Disease (2023). Hepatology 2023;77:1797–1835. DOI: 10.1097/HEP.0000000000000323.](https://doi.org/10.1097/HEP.0000000000000323)
 - **Authors:** Mary E. Rinella, Brent A. Neuschwander-Tetri, Mohammad Shadab Siddiqui, Manal F. Abdelmalek, Stephen Caldwell, Diana Barb, David E. Kleiner, Rohit Loomba
 - **Year:** 2023
 - **Journal/Publisher:** Hepatology 2023;77:1797–1835. DOI: 10.1097/HEP.0000000000000323
+- **DOI:** [10.1097/HEP.0000000000000323](https://doi.org/10.1097/HEP.0000000000000323)
 - **Type:** practice guidance (AASLD "Guidance" — actionable guidance statements, NOT GRADE recommendations; highest available evidence + expert opinion)
 
 ## Summary

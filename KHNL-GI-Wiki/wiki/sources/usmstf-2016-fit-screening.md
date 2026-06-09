@@ -9,9 +9,11 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [Robertson DJ, Lee JK, Boland CR, Dominitz JA, Giardiello FM, Johnson DA, Kaltenbach T, Lieberman D, Levin TR, Rex DK. USMSTF 2016 — Recommendations on Fecal Immunochemical Testing to Screen for Colorectal Neoplasia. Am J Gastroenterol 2017;112:37–53; doi:10.1038/ajg.2016.492.](https://doi.org/10.1038/ajg.2016.492)
 - **Authors:** Robertson DJ, Lee JK, Boland CR, Dominitz JA, Giardiello FM, Johnson DA, Kaltenbach T, Lieberman D, Levin TR, Rex DK
 - **Year:** 2017 (published online October 2016)
 - **Journal/Publisher:** Am J Gastroenterol 2017;112:37–53; doi:10.1038/ajg.2016.492
+- **DOI:** [10.1038/ajg.2016.492](https://doi.org/10.1038/ajg.2016.492)
 - **Type:** Consensus statement / practice guideline — US Multi-Society Task Force on Colorectal Cancer (USMSTF); GRADE methodology
 
 ## Summary

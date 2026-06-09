@@ -11,9 +11,11 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [Qumseya B, Sultan S, Bain P, Jamil L, Jacobson B, Anandasabapathy S, Agrawal D, Buxbaum JL, Fishman DS, Gurudu SR, Jue TL, Kripalani S, Lee JK, Khashab MA, Naveed M, Thosani NC, Yang J, DeWitt J, Wani S. ASGE guideline on screening and surveillance of Barrett's esophagus. *Gastrointest Endosc* 2019;90(3):335–359.](https://doi.org/10.1016/j.gie.2019.05.012)
 - **Authors:** Qumseya B, Sultan S (co-first authors), Bain P, Jamil L, Jacobson B, Anandasabapathy S, Agrawal D, Buxbaum JL, Fishman DS, Gurudu SR, Jue TL, Kripalani S, Lee JK, Khashab MA, Naveed M, Thosani NC, Yang J, DeWitt J, Wani S (Chair); ASGE Standards of Practice Committee
 - **Year:** 2019
 - **Journal/Publisher:** Gastrointestinal Endoscopy 2019;90(3):335-359
+- **DOI:** [10.1016/j.gie.2019.05.012](https://doi.org/10.1016/j.gie.2019.05.012)
 - **Type:** guideline (GRADE methodology, official ASGE recommendations)
 
 ## Summary

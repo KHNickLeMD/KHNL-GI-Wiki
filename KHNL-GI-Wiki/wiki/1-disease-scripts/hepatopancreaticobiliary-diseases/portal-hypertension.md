@@ -43,6 +43,9 @@ Portal hypertension (PH) is defined as a portocaval pressure gradient (portal ve
 
 HVPG requires transjugular or transfemoral approach; preferred at experienced centers. Balloon occlusion of hepatic vein (WHVP minus FHVP = HVPG). Triplicate measurements; quiet environment; avoid deep sedation.
 
+![[portal-hypertension-2023-noninvasive-staging-algorithm-09.png|700x378]]
+*Figure 3 — Noninvasive tests for staging and management of compensated advanced chronic liver disease (cACLD): LSM ranges, CSPH probability, endoscopy indications, LSM monitoring, and alternatives to TE. ([[aasld-2023-portal-hypertension]])*
+
 **Noninvasive staging of cACLD (Figure 1B, "Rule of Five"):**
 
 | LSM (kPa) | Platelet (K/mm³) | Interpretation |

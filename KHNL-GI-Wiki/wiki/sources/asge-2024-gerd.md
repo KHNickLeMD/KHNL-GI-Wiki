@@ -9,6 +9,9 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [Desai M, Ruan W, Thosani NC, et al. American Society for Gastrointestinal Endoscopy guideline on the diagnosis and management of GERD: methodology and review of evidence. *VideoGIE* 2025;10:81–137.](https://doi.org/10.1016/j.vgie.2024.10.001)
+- **DOI:** [10.1016/j.vgie.2024.10.001](https://doi.org/10.1016/j.vgie.2024.10.001)
+
 Desai M, Ruan W, Thosani NC, et al. American Society for Gastrointestinal Endoscopy guideline on the diagnosis and management of GERD: methodology and review of evidence. *Gastrointest Endosc* 2025;10:81–137. <https://doi.org/10.1016/j.vgie.2024.10.001>
 
 - Prepared by: ASGE Standards of Practice Committee

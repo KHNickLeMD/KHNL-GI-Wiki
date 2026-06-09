@@ -11,8 +11,11 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [Ananthakrishnan AN, Adler J, Chachu KA, et al. AGA Clinical Practice Guideline on the Role of Biomarkers for the Management of Crohn's Disease. *Gastroenterology* 2023;165:1367–1399.](https://doi.org/10.1053/j.gastro.2023.09.029)
+- **Authors:** Ananthakrishnan AN, Adler J, Chachu KA, et al.
 - **Year:** 2023
 - **Journal:** Gastroenterology (AGA Clinical Practice Guideline)
+- **DOI:** [10.1053/j.gastro.2023.09.029](https://doi.org/10.1053/j.gastro.2023.09.029)
 - **Type:** GRADE-based guideline
 
 ---

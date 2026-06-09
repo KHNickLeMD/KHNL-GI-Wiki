@@ -11,9 +11,11 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [Sultan S, Shung DL, Kolb JM, Foroutan F, Hassan C, Kahi CJ, Liang PS, Levin TR, Siddique SM, Lebwohl B. AGA Living Guideline: Computer-Aided Detection (CADe)-Assisted Colonoscopy (2025). Gastroenterology (AGA Living Clinical Practice Guideline).](https://doi.org/10.1053/j.gastro.2025.01.002)
 - **Authors:** Sultan S, Shung DL, Kolb JM, Foroutan F, Hassan C, Kahi CJ, Liang PS, Levin TR, Siddique SM, Lebwohl B
 - **Year:** 2025
 - **Journal:** Gastroenterology (AGA Living Clinical Practice Guideline)
+- **DOI:** [10.1053/j.gastro.2025.01.002](https://doi.org/10.1053/j.gastro.2025.01.002)
 - **Type:** GRADE-based living guideline on AI for [[colonoscopy]]
 
 ---

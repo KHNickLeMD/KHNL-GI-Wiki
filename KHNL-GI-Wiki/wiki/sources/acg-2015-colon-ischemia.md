@@ -9,9 +9,11 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [Brandt LJ, Feuerstadt P, Longstreth GF, Boley SJ; American College of Gastroenterology. ACG Clinical Guideline: Epidemiology, Risk Factors, Patterns of Presentation, Diagnosis, and Management of Colon Ischemia. *American Journal of Gastroenterology* 2015;110:18–44.](https://doi.org/10.1038/ajg.2014.395)
 - **Authors:** Brandt LJ, Feuerstadt P, Longstreth GF, Boley SJ; American College of Gastroenterology
 - **Year:** 2015
 - **Journal/Publisher:** *American Journal of Gastroenterology* 2015;110:18–44
+- **DOI:** [10.1038/ajg.2014.395](https://doi.org/10.1038/ajg.2014.395)
 - **Type:** Guideline (GRADE system)
 
 ---

@@ -9,6 +9,8 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [ACG 2022: Diagnosis and Management of Celiac Disease.](https://doi.org/10.14309/ajg.0000000000002075)
+- **DOI:** [10.14309/ajg.0000000000002075](https://doi.org/10.14309/ajg.0000000000002075)
 Rubio-Tapia A, Hill ID, Semrad C, Kelly CP, Greer KB, Limketkai BN, Lebwohl B. American College of Gastroenterology Guidelines Update: Diagnosis and Management of Celiac Disease. *Am J Gastroenterol* 2023;118:59–76. Published online September 21, 2022. <https://doi.org/10.14309/ajg.0000000000002075>
 
 Update to the 2013 ACG celiac disease guidelines. Uses GRADE methodology. Seven authors with no declared competing interests.

@@ -9,9 +9,11 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [Moayyedi PM, Lacy BE, Andrews CN, Enns RA, Howden CW, Vakil N. ACG/CAG 2017: Management of Dyspepsia. Am J Gastroenterol 2017;112:988–1013.](https://doi.org/10.1038/ajg.2017.154)
 - **Authors:** Moayyedi PM, Lacy BE, Andrews CN, Enns RA, Howden CW, Vakil N
 - **Year:** 2017
 - **Journal/Publisher:** Am J Gastroenterol 2017;112:988–1013
+- **DOI:** [10.1038/ajg.2017.154](https://doi.org/10.1038/ajg.2017.154)
 - **Type:** Joint ACG/CAG clinical guideline (GRADE methodology)
 
 ## Summary

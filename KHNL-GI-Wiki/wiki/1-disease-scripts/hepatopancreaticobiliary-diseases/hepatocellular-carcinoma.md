@@ -80,6 +80,9 @@ Surveillance is associated with improved survival (pooled HR 0.67, 95% CI 0.61â€
 
 ### Severity Assessment â€” BCLC Staging
 
+![[hcc-2023-bclc-algorithm-14.png|700x445]]
+*Figure 9 â€” Updated Barcelona Clinic Liver Cancer (BCLC) Staging System 2022: tumor characterization, treatment allocation, and expected survival by stage. ([[aasld-2023-hcc]])*
+
 **Barcelona Clinic Liver Cancer (BCLC) 2022 Staging System** is the AASLD-recommended staging system; incorporates tumor burden, liver function (MELD, Child-Pugh, ALBI), performance status (ECOG PS), and biomarkers including AFP. [[aasld-2023-hcc]]
 
 | Stage | Prognosis Basis | Tumor Characterization | 1st Treatment Option | Expected Survival |
@@ -155,6 +158,9 @@ Surveillance is associated with improved survival (pooled HR 0.67, 95% CI 0.61â€
 ---
 
 ### Surveillance Recall Algorithm
+
+![[hcc-2023-surveillance-recall-algorithm-09.png|700x680]]
+*Figure 5 â€” Recall algorithm for HCC surveillance based on US visualization score and AFP level. ([[aasld-2023-hcc]])*
 
 **Recall algorithm based on US visualization and AFP (Figure 5, [[aasld-2023-hcc]]):**
 

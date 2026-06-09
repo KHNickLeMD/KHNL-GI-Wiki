@@ -6,6 +6,28 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-06-07] update | Wiki-wide overhaul — Sources sections + Bibliographic links
+
+**Scope:** Full retroactive sweep following the approved achalasia pilot ([[achalasia]] / [[acg-2020-achalasia]]). Conventions applied as documented in `CLAUDE.md` and `.claude/PROGRESS-wiki-overhaul.md`.
+
+**#1 Sources sections (DONE):**
+- Swept all non-source pages across `1-disease-scripts`, `2-diagnostic-schemas`, `3-general-gi-procedures`, `4-advanced-gi-procedures`, `5-meds`, `7-concepts`, `syntheses` (179 scanned).
+- Moved source slugs out of `## See Also` into a new numbered `## Sources` section (below See Also, after a `---`), alias-linked with each source's full title. `## See Also` now holds entity/concept/procedure/med links only. Frontmatter `sources:` fields left intact. 154 pages updated; pages with no sources left untouched.
+
+**#2 Bibliographic links (DONE — 144/144):**
+- Added a clickable `**Article:**` citation line and linkified `**DOI:**` (`https://doi.org/<doi>`) in `## Bibliographic Info` on every source page.
+- DOIs sourced reliably: 29 from existing in-file DOI values; ~90 extracted directly from the published PDFs in `raw/` (DOI printed on the article), constrained to each society's journal-DOI prefix and home folder, with duplicate-DOI collisions excluded; the final 24 web-verified by parallel `Agent` subagents (PubMed/LWW/Springer cross-checked). Cross-validated against 31 known-correct DOIs (≥97% agreement before subagent pass).
+- One exception: `[[nejm-2023-fever-returning-traveler]]` — citation left as plain text (no confirmable online article found); flagged for the user to supply the reference.
+
+**#3 Figures (DONE — first batch, 14 figures across 8 high-traffic pages):**
+- Cropped algorithm/decision figures from guideline PDFs with PyMuPDF @300dpi → `raw/assets/`, embedded with cited italic captions (gold-standard pilot format). Pages: [[gerd]] (Dx + Mgmt algorithms), [[eosinophilic-esophagitis]] (Dx + Mgmt), [[barretts-esophagus]] (screening + EET), [[gastroparesis]] (mgmt), [[clostridioides-difficile]] (testing), [[acute-pancreatitis]] (fluid resus + necrosis mgmt), `upper-gi-bleeding` (mgmt + endoscopic therapy), `acute-lower-gi-bleeding` (mgmt + endoscopic treatment). Tables were left for native-Markdown recreation, not screenshotted. Remaining guideline/high-traffic pages can extend this batch the same way.
+
+**Tooling notes:** Mechanical transforms (Sources sections, DOI linking) done by deterministic scripts — no parallel write conflicts. Most DOIs extracted locally with PyMuPDF (`fitz`), which beat Crossref top-hits for reliability; residual DOIs + all figure cropping done by parallel `Agent` subagents (each owning distinct files). Figure crops visually verified.
+
+**Shared files:** `wiki/index.md` unchanged (no pages added/removed — catalog counts still valid). This entry is the only `log.md` addition.
+
+---
+
 ## [2026-06-05] ingest | ASGE 2023 Ergonomics in Endoscopy
 
 **Sources created:**

@@ -79,6 +79,9 @@ Additional markers of severe/poor-outcome disease (not formal criteria): low ser
 
 **Labs:** CBC (WBC), BMP (creatinine), albumin in hospitalized patients; lactate in suspected fulminant disease
 
+![[cdiff-2021-testing-algorithm-07.png|700x976]]
+*Figure 1 — Proposed CDI testing algorithm (two-step: GDH or NAAT → Toxin EIA). ([[acg-2021-cdiff]])*
+
 ---
 
 ## Therapeutics

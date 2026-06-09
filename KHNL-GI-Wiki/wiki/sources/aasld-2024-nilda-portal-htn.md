@@ -11,8 +11,10 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [AASLD Practice Guideline: Noninvasive Assessment of Portal Hypertension (2024). Hepatology (AASLD Practice Guidance).](https://doi.org/10.1097/HEP.0000000000000844)
 - **Year:** 2024
 - **Journal:** Hepatology (AASLD Practice Guidance)
+- **DOI:** [10.1097/HEP.0000000000000844](https://doi.org/10.1097/HEP.0000000000000844)
 - **Type:** Practice guidance
 
 ---

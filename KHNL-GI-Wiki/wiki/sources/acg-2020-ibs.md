@@ -9,10 +9,12 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [Lacy BE, Pimentel M, Brenner DM, Chey WD, Keefer LA, Long MD, Moshiree B. ACG Clinical Guideline: Management of Irritable Bowel Syndrome. *Am J Gastroenterol* 2021;116:17–44.](https://doi.org/10.14309/ajg.0000000000001036)
 - **Authors:** Lacy BE, Pimentel M, Brenner DM, Chey WD, Keefer LA, Long MD, Moshiree B
 - **Year:** 2020 (published Dec 2020; Am J Gastroenterol 2021)
 - **Journal/Publisher:** Am J Gastroenterol 2021;116:17–44
 - **Type:** Guideline (ACG; GRADE)
+- **DOI:** [10.14309/ajg.0000000000001036](https://doi.org/10.14309/ajg.0000000000001036)
 
 ## Summary
 

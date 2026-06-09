@@ -9,9 +9,11 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [Singal AG, Llovet JM, Yarchoan M, Mehta N, Heimbach JK, Dawson LA, Jou JH, Kulik LM, Agopian VG, Marrero JA, Mendiratta-Lala M, Brown DB, Rilling WS, Goyal L, Wei AC, Taddei TH. AASLD 2023 Practice Guidance on Prevention, Diagnosis, and Treatment of Hepatocellular Carcinoma. Hepatology 2023;78:1922–1965. DOI: 10.1097/HEP.0000000000000466.](https://doi.org/10.1097/HEP.0000000000000466)
 - **Authors:** Singal AG, Llovet JM, Yarchoan M, Mehta N, Heimbach JK, Dawson LA, Jou JH, Kulik LM, Agopian VG, Marrero JA, Mendiratta-Lala M, Brown DB, Rilling WS, Goyal L, Wei AC, Taddei TH
 - **Year:** 2023
 - **Journal/Publisher:** Hepatology 2023;78:1922–1965. DOI: 10.1097/HEP.0000000000000466
+- **DOI:** [10.1097/HEP.0000000000000466](https://doi.org/10.1097/HEP.0000000000000466)
 - **Type:** Practice guidance (consensus-based; OCEBM evidence levels; not mandatory GRADE systematic review)
 
 ---

@@ -24,6 +24,9 @@ Pancreatic cysts are a heterogeneous group of lesions, most detected incidentall
 - Majority are incidentally found side-branch IPMNs
 - Estimated malignancy probability at time of imaging: 0.25% (SEER database); conversion rate to invasive cancer: 0.24% per year
 
+![[pancreatic-cysts-2018-approach-algorithm-05.png|700x512]]
+*Figure 1 — Approach to a patient with a pancreatic cyst. EUS, endoscopic ultrasound; FNA, fine-needle aspiration; IPMN, intraductal papillary mucinous neoplasm; MCN, mucinous cystic neoplasm. ([[acg-2018-pancreatic-cysts]])*
+
 **Initial questions:**
 
 1. Is the patient medically fit for surgery? (If not — Rec 4: no further evaluation regardless of size; Strong/Low)
@@ -239,6 +242,9 @@ Indicated when diagnosis is unclear and results are likely to alter management. 
 **Candidates:** Surgically fit patients with asymptomatic presumed IPMNs or MCNs (Conditional/VLow)
 
 **Preferred modality:** MRCP (Conditional/VLow); EUS for patients who cannot/prefer not to have MRI
+
+![[pancreatic-cysts-2018-surveillance-algorithm-06.png|700x484]]
+*Figure 2 — Surveillance of presumed IPMN or MCN by largest cyst size. EUS, endoscopic ultrasound; IPMN, intraductal papillary mucinous neoplasm; MCN, mucinous cystic neoplasm; MRI, magnetic resonance imaging. ([[acg-2018-pancreatic-cysts]])*
 
 **Surveillance intervals by largest cyst size (Figure 2) — in absence of high-risk features:**
 

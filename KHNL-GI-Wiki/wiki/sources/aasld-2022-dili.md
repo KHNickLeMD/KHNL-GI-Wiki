@@ -11,8 +11,10 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [AASLD Practice Guidance: Drug, Herbal, and Dietary Supplement-Induced Liver Injury (2022). Hepatology (AASLD Practice Guidance).](https://doi.org/10.1002/hep.32689)
 - **Year:** 2022
 - **Journal:** Hepatology (AASLD Practice Guidance)
+- **DOI:** [10.1002/hep.32689](https://doi.org/10.1002/hep.32689)
 - **Type:** Practice guidance
 
 ---

@@ -8,9 +8,11 @@ sources: []
 ---
 
 ## Bibliographic Info
+- **Article:** [Larissa L. Fujii-Lau, Nirav C. Thosani, Mohammad Al-Haddad, Jared Acoba, Curtis J. Wray, Rodrick Zvavanjanja, Stuart K. Amateau, James L. Buxbaum, Audrey H. Calderwood, Jean M. Chalhoub, Nayantara Coelho-Prabhu, Madhav Desai, Sherif E. Elhanafi, Douglas S. Fishman, Nauzer Forbes, Terry L. Jue, Divyanshoo R. Kohli, Richard S. Kwon, Joanna K. Law, Jeffrey K. Lee, Jorge D. Machicado, Neil B. Marya, Swati Pawa, Wenly Ruan, Mandeep S. Sawhney, Sunil G. Sheth, Andrew Storm, Nikhil R. Thiruvengadam, Bashar J. Qumseya (ASGE Standards of Practice Committee). ASGE Guideline on the Role of Endoscopy in the Diagnosis of Malignancy in Biliary Strictures of Undetermined Etiology (2023). Gastrointestinal Endoscopy 2023;98(5):685-93. DOI: 10.1016/j.gie.2023.06.005.](https://doi.org/10.1016/j.gie.2023.06.005)
 - **Authors:** Larissa L. Fujii-Lau, Nirav C. Thosani, Mohammad Al-Haddad, Jared Acoba, Curtis J. Wray, Rodrick Zvavanjanja, Stuart K. Amateau, James L. Buxbaum, Audrey H. Calderwood, Jean M. Chalhoub, Nayantara Coelho-Prabhu, Madhav Desai, Sherif E. Elhanafi, Douglas S. Fishman, Nauzer Forbes, Terry L. Jue, Divyanshoo R. Kohli, Richard S. Kwon, Joanna K. Law, Jeffrey K. Lee, Jorge D. Machicado, Neil B. Marya, Swati Pawa, Wenly Ruan, Mandeep S. Sawhney, Sunil G. Sheth, Andrew Storm, Nikhil R. Thiruvengadam, Bashar J. Qumseya (ASGE Standards of Practice Committee)
 - **Year:** 2023
 - **Journal/Publisher:** Gastrointestinal Endoscopy 2023;98(5):685-93. DOI: 10.1016/j.gie.2023.06.005
+- **DOI:** [10.1016/j.gie.2023.06.005](https://doi.org/10.1016/j.gie.2023.06.005)
 - **Type:** guideline (GRADE-based clinical practice guideline)
 
 ## Summary

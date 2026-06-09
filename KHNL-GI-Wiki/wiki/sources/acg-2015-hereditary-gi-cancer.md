@@ -9,9 +9,11 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [Syngal S, Brand RE, Church JM, Giardiello FM, Hampel HL, Burt RW. ACG 2015: Genetic Testing and Management of Hereditary Gastrointestinal Cancer Syndromes. Am J Gastroenterol 2015;110:223–262.](https://doi.org/10.1038/ajg.2014.435)
 - **Authors:** Syngal S, Brand RE, Church JM, Giardiello FM, Hampel HL, Burt RW
 - **Year:** 2015
 - **Journal/Publisher:** Am J Gastroenterol 2015;110:223–262
+- **DOI:** [10.1038/ajg.2014.435](https://doi.org/10.1038/ajg.2014.435)
 - **Type:** Guideline
 
 ## Summary

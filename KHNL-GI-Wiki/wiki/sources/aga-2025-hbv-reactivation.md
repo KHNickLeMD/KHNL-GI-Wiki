@@ -11,9 +11,11 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [Ali FS, Nguyen MH, Hernaez R, Huang DQ, Wilder J, Piscoya A, Simon TG, Falck-Ytter Y. AGA Clinical Practice Guideline: Prevention and Treatment of HBV Reactivation (2025). Gastroenterology (AGA Clinical Practice Guideline).](https://doi.org/10.1053/j.gastro.2024.11.008)
 - **Authors:** Ali FS, Nguyen MH, Hernaez R, Huang DQ, Wilder J, Piscoya A, Simon TG, Falck-Ytter Y
 - **Year:** 2025
 - **Journal:** Gastroenterology (AGA Clinical Practice Guideline)
+- **DOI:** [10.1053/j.gastro.2024.11.008](https://doi.org/10.1053/j.gastro.2024.11.008)
 - **Type:** GRADE-based guideline
 
 ---

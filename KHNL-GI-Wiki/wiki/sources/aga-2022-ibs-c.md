@@ -11,8 +11,11 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [Chang L, Sultan S, Lembo A, Verne GN, Smalley W, Heidelbaugh JJ. AGA Clinical Practice Guideline on the Pharmacological Management of Irritable Bowel Syndrome With Constipation. *Gastroenterology* 2022;163:118–136.](https://doi.org/10.1053/j.gastro.2022.04.016)
+- **Authors:** Chang L, Sultan S, Lembo A, Verne GN, Smalley W, Heidelbaugh JJ
 - **Year:** 2022
 - **Journal:** Gastroenterology (AGA Clinical Practice Guideline)
+- **DOI:** [10.1053/j.gastro.2022.04.016](https://doi.org/10.1053/j.gastro.2022.04.016)
 - **Type:** GRADE-based guideline
 
 ---

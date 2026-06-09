@@ -9,9 +9,11 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [McClave SA, DiBaise JK, Mullin GE, Martindale RG; American College of Gastroenterology. ACG Clinical Guideline: Nutrition Therapy in the Adult Hospitalized Patient. *American Journal of Gastroenterology* 2016;111:315–334.](https://doi.org/10.1038/ajg.2016.28)
 - **Authors:** McClave SA, DiBaise JK, Mullin GE, Martindale RG; American College of Gastroenterology
 - **Year:** 2016
 - **Journal/Publisher:** *American Journal of Gastroenterology* 2016;111:315–334
+- **DOI:** [10.1038/ajg.2016.28](https://doi.org/10.1038/ajg.2016.28)
 - **Type:** Guideline (GRADE system: Strong/Conditional strength; High/Moderate/Low/Very Low evidence quality)
 
 ---

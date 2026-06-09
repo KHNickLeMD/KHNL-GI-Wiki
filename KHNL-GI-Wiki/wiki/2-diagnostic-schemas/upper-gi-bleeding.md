@@ -67,6 +67,9 @@ If UGIB is clinically suspected in a patient presenting with apparent LGIB, perf
 
 ## Diagnostic Algorithm
 
+![[ugib-2021-management-algorithm-09.png|700x440]]
+*Figure 2 — Initial management of patients presenting with overt upper gastrointestinal bleeding. GBS: Glasgow-Blatchford Score. ([[acg-2021-ugib]])*
+
 ### Step 1: Initial Assessment and Resuscitation (Simultaneous)
 
 - Focused history: hematemesis vs. melena vs. hematochezia; prior GIB; peptic ulcer history; NSAID/anticoagulant use; alcohol use; liver disease; prior aortic surgery
@@ -151,6 +154,9 @@ Used to stratify rebleeding risk and guide endoscopic therapy decisions for pept
 High-risk stigmata (Forrest Ia, Ib, IIa) mandate endoscopic hemostatic therapy. Forrest IIb (adherent clot) — vigorous irrigation to assess underlying stigma; if clot persists after irrigation, evidence for endoscopic therapy is conflicting (consider high-dose PPI alone as an option).
 
 ### Step 6: Choice of Endoscopic Hemostatic Therapy (Ulcer Bleeding)
+
+![[ugib-2021-endoscopic-therapy-algorithm-14.png|700x221]]
+*Figure 3 — Endoscopic and medical therapy for ulcer bleeding based on endoscopic features (Forrest classification). ([[acg-2021-ugib]])*
 
 **Strongly recommended (Strong recommendation, moderate-quality evidence):**
 

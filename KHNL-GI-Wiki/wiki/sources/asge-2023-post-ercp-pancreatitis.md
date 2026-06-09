@@ -11,9 +11,11 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [ASGE Standards of Practice Committee. ASGE Guideline: Post-ERCP Pancreatitis Prevention (2023). Gastrointestinal Endoscopy.](https://doi.org/10.1016/j.gie.2022.10.005)
 - **Authors:** ASGE Standards of Practice Committee
 - **Year:** 2023
 - **Journal:** Gastrointestinal Endoscopy
+- **DOI:** [10.1016/j.gie.2022.10.005](https://doi.org/10.1016/j.gie.2022.10.005)
 - **Type:** GRADE-based Standards of Practice guideline
 
 ---

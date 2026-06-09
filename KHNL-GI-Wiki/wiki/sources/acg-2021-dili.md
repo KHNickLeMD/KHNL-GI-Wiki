@@ -9,9 +9,11 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [Chalasani NP, Maddur H, Russo MW, Wong RJ, Reddy KR; on behalf of the ACG Practice Parameters Committee. ACG 2021 Clinical Guideline: Diagnosis and Management of Idiosyncratic Drug-Induced Liver Injury. Am J Gastroenterol 2021;116:878–898.](https://doi.org/10.14309/ajg.0000000000001259)
 - **Authors:** Chalasani NP, Maddur H, Russo MW, Wong RJ, Reddy KR; on behalf of the ACG Practice Parameters Committee
 - **Year:** 2021
 - **Journal/Publisher:** Am J Gastroenterol 2021;116:878–898
+- **DOI:** [10.14309/ajg.0000000000001259](https://doi.org/10.14309/ajg.0000000000001259)
 - **Type:** Clinical practice guideline (ACG); GRADE methodology; 16 formal recommendations
 
 ## Summary

@@ -9,9 +9,11 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [Lorna Dove, Ryan M. Chadha, Jennifer C. Lai, Andrea DiMartini, AnnMarie Liapakis, Neehar D. Parikh, Roberto Firpi-Morell, Lanla Conteh, Michael Fallon, James Trotter, Daniela P. Ladner, Gonzalo Sapisochin, Michael R. Lucey. AASLD AST 2025: Practice Guideline on Adult Liver Transplantation — Candidate Evaluation. Hepatology; DOI: 10.1097/HEP.0000000000001644.](https://doi.org/10.1097/HEP.0000000000001644)
 - **Authors:** Lorna Dove, Ryan M. Chadha, Jennifer C. Lai, Andrea DiMartini, AnnMarie Liapakis, Neehar D. Parikh, Roberto Firpi-Morell, Lanla Conteh, Michael Fallon, James Trotter, Daniela P. Ladner, Gonzalo Sapisochin, Michael R. Lucey
 - **Year:** 2025 (published in Hepatology 2026;83:1609–1645)
 - **Journal/Publisher:** Hepatology; DOI: 10.1097/HEP.0000000000001644
+- **DOI:** [10.1097/HEP.0000000000001644](https://doi.org/10.1097/HEP.0000000000001644)
 - **Type:** guideline (AASLD/AST joint practice guideline)
 
 ## Summary

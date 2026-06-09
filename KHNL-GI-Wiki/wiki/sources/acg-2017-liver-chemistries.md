@@ -9,9 +9,11 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [Paul Y. Kwo, Stanley M. Cohen, Joseph K. Lim. ACG 2017: Evaluation of Abnormal Liver Chemistries. The American Journal of Gastroenterology 2017;112:18–35.](https://doi.org/10.1038/ajg.2016.517)
 - **Authors:** Paul Y. Kwo, Stanley M. Cohen, Joseph K. Lim
 - **Year:** 2017 (published online December 2016)
 - **Journal/Publisher:** The American Journal of Gastroenterology 2017;112:18–35
+- **DOI:** [10.1038/ajg.2016.517](https://doi.org/10.1038/ajg.2016.517)
 - **Type:** Guideline (ACG Clinical Guideline)
 
 ## Summary

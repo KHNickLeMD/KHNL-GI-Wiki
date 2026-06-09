@@ -9,9 +9,11 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [Vincent L. Chen, Timothy R. Morgan, Yaron Rotman, Heather M. Patton, Kenneth Cusi, Fasiha Kanwal, W. Ray Kim. Resmetirom Therapy for MASLD: October 2024 Updates to AASLD Practice Guidance. Hepatology 2025;81:312–320. DOI: 10.1097/HEP.0000000000001112.](https://doi.org/10.1097/HEP.0000000000001112)
 - **Authors:** Vincent L. Chen, Timothy R. Morgan, Yaron Rotman, Heather M. Patton, Kenneth Cusi, Fasiha Kanwal, W. Ray Kim
 - **Year:** 2024 (published Hepatology 2025;81:312–320)
 - **Journal/Publisher:** Hepatology 2025;81:312–320. DOI: 10.1097/HEP.0000000000001112
+- **DOI:** [10.1097/HEP.0000000000001112](https://doi.org/10.1097/HEP.0000000000001112)
 - **Type:** practice guidance update (to the 2023 AASLD NAFLD guidance)
 
 ## Summary

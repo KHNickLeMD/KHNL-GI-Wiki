@@ -11,9 +11,11 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [Scott FI, Ananthakrishnan AN, Click B, Agrawal M, Syal G, Haydek JP, Yuan Y, Kappelman MD, Lewis JD, Singh S. AGA Living Guideline: Pharmacologic Management of Moderate-to-Severe Crohn's Disease (2025). Gastroenterology (AGA Living Clinical Practice Guideline).](https://doi.org/10.1053/j.gastro.2025.09.038)
 - **Authors:** Scott FI, Ananthakrishnan AN, Click B, Agrawal M, Syal G, Haydek JP, Yuan Y, Kappelman MD, Lewis JD, Singh S
 - **Year:** 2025
 - **Journal:** Gastroenterology (AGA Living Clinical Practice Guideline)
+- **DOI:** [10.1053/j.gastro.2025.09.038](https://doi.org/10.1053/j.gastro.2025.09.038)
 - **Type:** GRADE-based living guideline
 
 ---

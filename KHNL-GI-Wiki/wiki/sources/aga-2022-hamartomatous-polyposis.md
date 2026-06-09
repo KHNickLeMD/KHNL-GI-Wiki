@@ -11,8 +11,10 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [US Multi-Society Task Force Guideline: GI Hamartomatous Polyposis Syndromes (2022). American Journal of Gastroenterology / Gastroenterology (USMSTF).](https://doi.org/10.1053/j.gastro.2022.02.021)
 - **Year:** 2022
 - **Journal:** American Journal of Gastroenterology / Gastroenterology (USMSTF)
+- **DOI:** [10.1053/j.gastro.2022.02.021](https://doi.org/10.1053/j.gastro.2022.02.021)
 - **Type:** GRADE-based multi-society guideline
 
 ---

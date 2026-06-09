@@ -9,9 +9,11 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [Wald A, Bharucha AE, Limketkai B, Malcolm A, Remes-Troche JM, Whitehead WE, Zutshi M. ACG 2021 Clinical Guidelines: Management of Benign Anorectal Disorders. Am J Gastroenterol 2021;116:1987–2008.](https://doi.org/10.14309/ajg.0000000000001507)
 - **Authors:** Wald A, Bharucha AE, Limketkai B, Malcolm A, Remes-Troche JM, Whitehead WE, Zutshi M
 - **Year:** 2021
 - **Journal/Publisher:** Am J Gastroenterol 2021;116:1987–2008
+- **DOI:** [10.14309/ajg.0000000000001507](https://doi.org/10.14309/ajg.0000000000001507)
 - **Type:** Clinical practice guideline (ACG); GRADE methodology + consensus statements; covers defecation disorders, proctalgia syndromes, hemorrhoids, anal fissures, fecal incontinence
 
 ## Summary

@@ -11,9 +11,11 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [Wani S, Zhou MJ, Sawas T, Rubenstein JH, et al. AGA Clinical Practice Guideline: Surveillance of Barrett's Esophagus (2025). Gastroenterology (AGA Clinical Practice Guideline).](https://doi.org/10.1053/j.gastro.2025.09.012)
 - **Authors:** Wani S, Zhou MJ, Sawas T, Rubenstein JH, et al.
 - **Year:** 2025
 - **Journal:** Gastroenterology (AGA Clinical Practice Guideline)
+- **DOI:** [10.1053/j.gastro.2025.09.012](https://doi.org/10.1053/j.gastro.2025.09.012)
 - **Type:** GRADE-based guideline
 
 ---

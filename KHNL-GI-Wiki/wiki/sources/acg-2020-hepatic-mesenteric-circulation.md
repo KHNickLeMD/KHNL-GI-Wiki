@@ -9,9 +9,11 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [Simonetto DA, Singal AK, Garcia-Tsao G, Caldwell SH, Ahn J, Kamath PS; American College of Gastroenterology. ACG Clinical Guideline: Disorders of the Hepatic and Mesenteric Circulation. *American Journal of Gastroenterology* 2020;115:18–40.](https://doi.org/10.14309/ajg.0000000000000486)
 - **Authors:** Simonetto DA, Singal AK, Garcia-Tsao G, Caldwell SH, Ahn J, Kamath PS; American College of Gastroenterology
 - **Year:** 2020
 - **Journal/Publisher:** *American Journal of Gastroenterology* 2020;115:18–40
+- **DOI:** [10.14309/ajg.0000000000000486](https://doi.org/10.14309/ajg.0000000000000486)
 - **Type:** Guideline (PICO/GRADE: Strong/Conditional; High/Moderate/Low/Very Low evidence quality)
 
 ---

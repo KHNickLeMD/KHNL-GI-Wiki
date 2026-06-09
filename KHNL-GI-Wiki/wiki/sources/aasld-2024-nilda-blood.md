@@ -9,9 +9,11 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [Richard K. Sterling, Keyur Patel, Andres Duarte-Rojo, Sumeet K. Asrani, Mouaz Alsawas, Jonathan A. Dranoff, Maria Isabel Fiel, M. Hassan Murad, Daniel H. Leung, Deborah Levine, Tamar H. Taddei, Bachir Taouli, Don C. Rockey. AASLD 2024 Practice Guideline: Blood-Based Noninvasive Liver Disease Assessment (NILDA) of Hepatic Fibrosis and Steatosis. Hepatology (AASLD); DOI: 10.1097/HEP.0000000000000845.](https://doi.org/10.1097/HEP.0000000000000845)
 - **Authors:** Richard K. Sterling, Keyur Patel, Andres Duarte-Rojo, Sumeet K. Asrani, Mouaz Alsawas, Jonathan A. Dranoff, Maria Isabel Fiel, M. Hassan Murad, Daniel H. Leung, Deborah Levine, Tamar H. Taddei, Bachir Taouli, Don C. Rockey
 - **Year:** 2024 (published in print *Hepatology* 2025;81:321–357)
 - **Journal/Publisher:** Hepatology (AASLD); DOI: 10.1097/HEP.0000000000000845
+- **DOI:** [10.1097/HEP.0000000000000845](https://doi.org/10.1097/HEP.0000000000000845)
 - **Type:** guideline
 
 ## Summary

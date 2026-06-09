@@ -9,9 +9,11 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [Yadlapati R, Kahrilas PJ, Fox MR, Bredenoord AJ, Prakash Gyawali C, Roman S, et al. Chicago Classification v4.0: Esophageal Motility Disorders. Neurogastroenterology & Motility 2021;33(1):e14058.](https://doi.org/10.1111/nmo.14058)
 - **Authors:** Yadlapati R, Kahrilas PJ, Fox MR, Bredenoord AJ, Prakash Gyawali C, Roman S, et al.
 - **Year:** 2021
 - **Journal/Publisher:** Neurogastroenterology & Motility 2021;33(1):e14058
+- **DOI:** [10.1111/nmo.14058](https://doi.org/10.1111/nmo.14058)
 - **Type:** Guideline / International consensus classification
 
 ## Summary

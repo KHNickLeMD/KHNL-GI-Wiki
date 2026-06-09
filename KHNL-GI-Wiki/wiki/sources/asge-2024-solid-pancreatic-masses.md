@@ -11,9 +11,11 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [ASGE Standards of Practice Committee. ASGE Guideline: Role of Endoscopy in Solid Pancreatic Masses (2024). Gastrointestinal Endoscopy.](https://doi.org/10.1016/j.gie.2024.06.002)
 - **Authors:** ASGE Standards of Practice Committee
 - **Year:** 2024
 - **Journal:** Gastrointestinal Endoscopy
+- **DOI:** [10.1016/j.gie.2024.06.002](https://doi.org/10.1016/j.gie.2024.06.002)
 - **Type:** GRADE-based Standards of Practice guideline
 
 ---

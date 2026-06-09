@@ -11,9 +11,11 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [Buxbaum JL, Abbas Fehmi SM, Sultan S, Fishman DS, Qumseya BJ, Cortessis VK, Schilperoort H, Kysh L, Matsuoka L, Yachimski P, Agrawal D, Gurudu SR, Jamil LH, Jue TL, Khashab MA, Law JK, Lee JK, Naveed M, Sawhney MS, Thosani N, Yang J, Wani SB. ASGE guideline on the role of endoscopy in the evaluation and management of choledocholithiasis. *Gastrointest Endosc* 2019;89(6):1075–1105.e15.](https://doi.org/10.1016/j.gie.2018.10.001)
 - **Authors:** ASGE Standards of Practice Committee
 - **Year:** 2019
-- **Journal:** Gastrointestinal Endoscopy
+- **Journal:** Gastrointestinal Endoscopy 2019;89(6):1075–1105.e15
+- **DOI:** [10.1016/j.gie.2018.10.001](https://doi.org/10.1016/j.gie.2018.10.001)
 - **Type:** GRADE-based Standards of Practice guideline
 
 ---

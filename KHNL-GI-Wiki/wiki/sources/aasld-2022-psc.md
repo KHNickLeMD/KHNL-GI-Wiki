@@ -9,9 +9,11 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [Christopher L. Bowlus, Lionel Arrivé, Annika Bergquist, Mark Deneau, Lisa Forman, Sumera I. Ilyas, Keri E. Lunsford, Mercedes Martinez, Gonzalo Sapisochin, Rachna Shroff, James H. Tabibian, David N. Assis. AASLD 2022 Practice Guidance on Primary Sclerosing Cholangitis and Cholangiocarcinoma. Hepatology. DOI: 10.1002/hep.32771.](https://doi.org/10.1002/hep.32771)
 - **Authors:** Christopher L. Bowlus, Lionel Arrivé, Annika Bergquist, Mark Deneau, Lisa Forman, Sumera I. Ilyas, Keri E. Lunsford, Mercedes Martinez, Gonzalo Sapisochin, Rachna Shroff, James H. Tabibian, David N. Assis
 - **Year:** 2022 (published Hepatology 2023;77:659–702)
 - **Journal/Publisher:** Hepatology. DOI: 10.1002/hep.32771
+- **DOI:** [10.1002/hep.32771](https://doi.org/10.1002/hep.32771)
 - **Type:** Practice Guidance (consensus expert panel; not a formal GRADE guideline)
 
 ---

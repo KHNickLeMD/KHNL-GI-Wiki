@@ -11,9 +11,11 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [Muniraj T, Day LW, Teigen LM, Ho EY, Sultan S, Davitkov P, Shah R, Murad MH. AGA Clinical Practice Guidelines on Intragastric Balloons in the Management of Obesity (2021). Gastroenterology 2021;160:1799–1808. https://doi.org/10.1053/j.gastro.2021.03.003.](https://doi.org/10.1053/j.gastro.2021.03.003)
 - **Authors:** Muniraj T, Day LW, Teigen LM, Ho EY, Sultan S, Davitkov P, Shah R, Murad MH
 - **Year:** 2021 (April)
 - **Journal/Publisher:** Gastroenterology 2021;160:1799–1808. https://doi.org/10.1053/j.gastro.2021.03.003
+- **DOI:** [10.1053/j.gastro.2021.03.003](https://doi.org/10.1053/j.gastro.2021.03.003)
 - **Type:** GRADE-based clinical practice guideline (AGA Institute), accompanied by a separate Technical Review (Shah et al, Gastroenterology 2021;160:1811–1830)
 
 ---

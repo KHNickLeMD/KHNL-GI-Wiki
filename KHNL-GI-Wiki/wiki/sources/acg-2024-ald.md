@@ -9,9 +9,11 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [Jophlin LL, Singal AK, Bataller R, Wong RJ, Sauer BG, Kamath PS, Shah VH. ACG Clinical Guideline: Alcohol-Associated Liver Disease (2024). American Journal of Gastroenterology 2024;119:30–54.](https://doi.org/10.14309/ajg.0000000000002572)
 - **Authors:** Jophlin LL, Singal AK, Bataller R, Wong RJ, Sauer BG, Kamath PS, Shah VH
 - **Year:** 2024
 - **Journal/Publisher:** American Journal of Gastroenterology 2024;119:30–54
+- **DOI:** [10.14309/ajg.0000000000002572](https://doi.org/10.14309/ajg.0000000000002572)
 - **Type:** Guideline
 
 ## Summary

@@ -9,9 +9,11 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [Singal AK, Wong RJ, Dasarathy S, Abdelmalek MF, Neuschwander-Tetri BA, Limketkai BN, Petrey J, McClain CJ. ACG 2025: Malnutrition and Nutritional Recommendations in Liver Disease. Am J Gastroenterol 2025;120:950–972. doi:10.14309/ajg.0000000000003379.](https://doi.org/10.14309/ajg.0000000000003379)
 - **Authors:** Singal AK, Wong RJ, Dasarathy S, Abdelmalek MF, Neuschwander-Tetri BA, Limketkai BN, Petrey J, McClain CJ
 - **Year:** 2025 (published online May 2, 2025)
 - **Journal:** Am J Gastroenterol 2025;120:950–972. doi:10.14309/ajg.0000000000003379
+- **DOI:** [10.14309/ajg.0000000000003379](https://doi.org/10.14309/ajg.0000000000003379)
 - **Type:** Clinical guideline (ACG)
 
 ## Summary

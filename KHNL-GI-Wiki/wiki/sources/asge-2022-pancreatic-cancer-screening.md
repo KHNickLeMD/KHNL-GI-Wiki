@@ -8,9 +8,11 @@ sources: []
 ---
 
 ## Bibliographic Info
+- **Article:** [Sawhney MS, Calderwood AH (contributed equally), Thosani NC, Rebbeck TR, Wani S, Canto MI, Fishman DS, Golan T, Hidalgo M, Kwon RS, Riegert-Johnson DL, Sahani DV, Stoffel EM, Vollmer CM Jr, Qumseya BJ; ASGE Standards of Practice Committee. ASGE Guideline on Screening for Pancreatic Cancer in Individuals with Genetic Susceptibility: Summary and Recommendations (2022). Gastrointestinal Endoscopy 2022;95(5):817-826 (American Society for Gastrointestinal Endoscopy). DOI: 10.1016/j.gie.2021.12.001.](https://doi.org/10.1016/j.gie.2021.12.001)
 - **Authors:** Sawhney MS, Calderwood AH (contributed equally), Thosani NC, Rebbeck TR, Wani S, Canto MI, Fishman DS, Golan T, Hidalgo M, Kwon RS, Riegert-Johnson DL, Sahani DV, Stoffel EM, Vollmer CM Jr, Qumseya BJ; ASGE Standards of Practice Committee
 - **Year:** 2022
 - **Journal/Publisher:** Gastrointestinal Endoscopy 2022;95(5):817-826 (American Society for Gastrointestinal Endoscopy). DOI: 10.1016/j.gie.2021.12.001
+- **DOI:** [10.1016/j.gie.2021.12.001](https://doi.org/10.1016/j.gie.2021.12.001)
 - **Type:** guideline (GRADE methodology)
 
 ## Summary

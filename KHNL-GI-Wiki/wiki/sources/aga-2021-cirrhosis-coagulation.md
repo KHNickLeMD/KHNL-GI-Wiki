@@ -11,8 +11,10 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [AGA Clinical Practice Guideline: Coagulation Disorders in Cirrhosis (2021). Gastroenterology (AGA Clinical Practice Guideline).](https://doi.org/10.1053/j.gastro.2021.08.015)
 - **Year:** 2021
 - **Journal:** Gastroenterology (AGA Clinical Practice Guideline)
+- **DOI:** [10.1053/j.gastro.2021.08.015](https://doi.org/10.1053/j.gastro.2021.08.015)
 - **Type:** GRADE-based guideline
 
 ---

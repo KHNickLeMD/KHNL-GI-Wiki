@@ -9,9 +9,11 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [Bhattacharya D, Aronsohn A, Price J, Lo Re V III; the AASLD-IDSA HCV Guidance Panel. AASLD-IDSA 2023 Hepatitis C Guidance Update. *Clinical Infectious Diseases*; doi:10.1093/cid/ciad319.](https://doi.org/10.1093/cid/ciad319)
 - **Authors:** Bhattacharya D, Aronsohn A, Price J, Lo Re V III; the AASLD-IDSA HCV Guidance Panel
 - **Year:** 2023
 - **Journal/Publisher:** *Clinical Infectious Diseases*; doi:10.1093/cid/ciad319
+- **DOI:** [10.1093/cid/ciad319](https://doi.org/10.1093/cid/ciad319)
 - **Type:** Guideline / clinical practice guidance (biannual update)
 
 ## Summary

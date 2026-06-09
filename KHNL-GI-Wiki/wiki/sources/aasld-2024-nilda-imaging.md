@@ -11,8 +11,10 @@ sources: []
 
 ## Bibliographic Info
 
+- **Article:** [AASLD Practice Guideline: Imaging-Based Noninvasive Liver Disease Assessment (Fibrosis & Steatosis) (2024). Hepatology (AASLD Practice Guidance).](https://doi.org/10.1097/HEP.0000000000000843)
 - **Year:** 2024
 - **Journal:** Hepatology (AASLD Practice Guidance)
+- **DOI:** [10.1097/HEP.0000000000000843](https://doi.org/10.1097/HEP.0000000000000843)
 - **Type:** Practice guidance (companion to the blood-based NILDA guidance)
 
 ---

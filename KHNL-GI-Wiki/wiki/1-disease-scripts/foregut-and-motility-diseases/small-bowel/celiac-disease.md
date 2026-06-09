@@ -158,6 +158,9 @@ Note: Persistent intraepithelial lymphocytosis (Marsh I) may persist in 56% of t
 
 ### Serologic Testing Algorithm
 
+![[celiac-2022-diagnostic-algorithm-05.png|700x396]]
+*Figure 1 — CD diagnostic testing algorithm. ([[acg-2022-celiac]])*
+
 1. Order **TTG-IgA + total IgA** simultaneously (patient on gluten-containing diet)
 2. If TTG-IgA elevated → proceed to [[upper-endoscopy]] with duodenal biopsy
 3. If total IgA deficient → order **DGP-IgG or TTG-IgG**
@@ -217,6 +220,9 @@ Note: Persistent intraepithelial lymphocytosis (Marsh I) may persist in 56% of t
 - Probiotics — insufficient evidence; some marketed probiotics contain detectable gluten
 
 ### Monitoring After Diagnosis
+
+![[celiac-2022-monitoring-algorithm-07.png|700x373]]
+*Figure 2 — An approach to monitoring CD. ([[acg-2022-celiac]])*
 
 **Clinical follow-up schedule:**
 
