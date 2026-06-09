@@ -1,9 +1,9 @@
 ---
 title: "Bismuth Quadruple Therapy (BQT)"
-category: concept
+category: med
 tags: [h-pylori, eradication, bismuth, tetracycline, metronidazole, ppi, pylera]
 created: 2026-05-07
-updated: 2026-05-07
+updated: 2026-06-09
 sources: [acg-2017-hp-guidelines]
 ---
 

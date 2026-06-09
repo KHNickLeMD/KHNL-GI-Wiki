@@ -94,6 +94,12 @@ updated: 2026-06-04
 - [[fecal-incontinence]] — Fecal incontinence: ADDT — urge vs. passive subtypes, loperamide/biofeedback first-line, sacral nerve stimulation for moderate-severe failures (Strong/Low), sphincteroplasty for acute sphincter injury, end stoma as last resort (1 source)
 - [[proctalgia-syndromes]] — Proctalgia syndromes: ADDT — levator syndrome (≥20 min pain + levator tenderness) vs. proctalgia fugax (<20 min); biofeedback for levator (Strong/VLow); reassurance only for PF (1 source)
 
+
+- [[mesenteric-artery-aneurysm]] — Mesenteric Artery Aneurysm: splanchnic artery aneurysms; size thresholds and repair (stub)
+- [[fammm-syndrome]] — Familial atypical multiple mole melanoma (CDKN2A) and pancreatic cancer risk (stub) (1 source)
+- [[postinfectious-ibs]] — PI-IBS: IBS developing after acute infectious gastroenteritis, risk factors, link to DGBI framework (stub)
+- [[angioectasia]] — Angioectasia: most common SBB cause, AVM dilations, association with aortic stenosis (Heyde's), endoscopic treatment (argon plasma coagulation) (stub)
+- [[heydes-syndrome]] — Heyde's syndrome: aortic stenosis + angioectasia + acquired vWF deficiency, LVAD parallel, AVR resolves coagulopathy (stub)
 ### Hepatopancreaticobiliary Diseases
 
 - [[cholangiocarcinoma]] — Cholangiocarcinoma: iCCA/pCCA/dCCA — PSC risk, MRCP/EUS-FNA/FISH, combined-modality tissue acquisition sensitivities, transplant needle-track-seeding caution, Mayo neoadjuvant LT protocol for pCCA, gem/cis first-line (2 sources)
@@ -132,6 +138,10 @@ updated: 2026-06-04
 - [[budd-chiari-syndrome]] — Budd-Chiari: ADDT — hepatic venous outflow obstruction, MPN/JAK2 most common etiology (40–50%), caudate hypertrophy, stepwise management (AC → angioplasty → TIPS → LT), HCC surveillance q6mo regardless of fibrosis, comprehensive thrombophilia workup mandatory (1 source)
 - [[hereditary-hemorrhagic-telangiectasia]] — HHT (Osler-Weber-Rendu): stub — hepatic LVMs in 32–73%, bevacizumab for refractory LVMs at specialized centers, no routine LVM screening (1 source)
 
+
+- [[obesity]] — Weight-management framework: lifestyle, pharmacotherapy, endoscopic and surgical bariatric therapy (2 sources)
+- [[post-transplant-lymphoproliferative-disorder]] — PTLD: EBV-driven lymphoproliferation post-transplant IS, IS reduction first-line, rituximab (stub)
+- [[hepatic-encephalopathy]] — HE: 4-axis classification (type A/B/C, WHC severity, time course, precipitants); OHE = diagnosis of exclusion; ammonia alone has NO diagnostic/staging/prognostic value (Rec 9); lactulose first-line (Rec 19); rifaximin add-on after 2nd episode (Rec 26); protein restriction never indicated (1.2–1.5 g/kg/day); late-night snack (Rec 32); 33 recommendations (AASLD/EASL 2014) (1 source)
 ---
 
 ## Diagnostic Schemas
@@ -210,6 +220,10 @@ updated: 2026-06-04
 - [[tacrolimus]] — Tacrolimus (FK506): CNI backbone post-LT; 2025 trough targets (mo1: 7–10, mo2–12: 4–8, mo12+: 4 ng/mL); XR equivalence (Rec 31); mTOR for HCC/CKD; Paxlovid DDI; nephrotoxicity/PTDM/neurotoxicity; special populations (1 source)
 - [[calcineurin-inhibitors]] — CNI drug class: TAC vs. CSA comparison; basiliximab induction (Rec 25, Strong); ATG contraindicated (Rec 26, Strong); steroid minimization; IS minimization ladder (dose↓→MMF→mTOR→ACEi→kidney Tx); CSA DDIs (sofosbuvir/glecaprevir/voxilaprevir) (1 source)
 
+
+- [[probiotics]] — Probiotics: strain/dose-specific; AGA FOR (C diff prevention, pouchitis, NEC), AGAINST (peds gastroenteritis), trial-only elsewhere (1 source)
+- [[bismuth-quadruple-therapy]] — Bismuth-containing quadruple therapy: components, indications, and efficacy (1 source)
+- [[direct-acting-antivirals]] — DAA drug classes (NS3/4A + NS5A + NS5B); pangenotypic regimens (G/P, SOF/VEL); DDI table (cyclosporine); decompensated cirrhosis contraindications; see [[hepatitis-c]] for treatment tables (1 source)
 ---
 
 ## Anatomy
@@ -220,7 +234,6 @@ updated: 2026-06-04
 
 ## Concepts
 
-- [[mesenteric-artery-aneurysm]] — Mesenteric Artery Aneurysm: splanchnic artery aneurysms; size thresholds and repair (stub)
 - [[li-rads]] — LI-RADS: Liver Imaging Reporting and Data System — CT/MRI categories LR-1 to LR-5/TIV for HCC (stub)
 - [[colonoscopy-surveillance]] — Colonoscopy Surveillance Intervals: post-polypectomy follow-up per USMSTF (stub)
 - [[hcc-surveillance]] — HCC Surveillance: at-risk populations, US ± AFP q6mo, recall algorithm (stub)
@@ -228,12 +241,9 @@ updated: 2026-06-04
 - [[mri-mrcp]] — MRI/MRCP for pancreaticobiliary imaging and high-risk pancreatic screening (1 source)
 - [[brca-pathogenic-variants]] — BRCA1/2 germline variants and pancreatic cancer risk (stub) (1 source)
 - [[familial-pancreatic-cancer]] — FPC kindreds (≥2 first-degree relatives) and screening (stub) (1 source)
-- [[fammm-syndrome]] — Familial atypical multiple mole melanoma (CDKN2A) and pancreatic cancer risk (stub) (1 source)
 - [[brush-cytology]] — ERCP-based exfoliative cytology for biliary strictures (1 source)
 - [[fish]] — FISH cytogenetic adjunct to biliary brush cytology (1 source)
 - [[confocal-laser-endomicroscopy]] — Probe-based CLE for benign vs. malignant biliary strictures (1 source)
-- [[probiotics]] — Probiotics: strain/dose-specific; AGA FOR (C diff prevention, pouchitis, NEC), AGAINST (peds gastroenteritis), trial-only elsewhere (1 source)
-- [[obesity]] — Weight-management framework: lifestyle, pharmacotherapy, endoscopic and surgical bariatric therapy (2 sources)
 - [[liver-biopsy]] — Hepatic tissue sampling: indications, percutaneous/transjugular/EUS-guided approaches, coagulation assessment, complications, specimen adequacy (1 source)
 - [[endoscopy-ergonomics]] — Endoscopy-related injury (ERI): 57.7% pooled rate; female sex/volume risk; neutral posture, ergonomics education, micro/macrobreaks, monitor/bed height, antifatigue mats (1 source)
 
@@ -247,23 +257,16 @@ updated: 2026-06-04
 - [[reflux-testing]] — GERD diagnostic testing: pH-metry, MII-pH impedance, Bravo wireless, endoscopic GEJ assessment (Hill grade, AFS, LA/Prague), HRM role, CYP2C19 genotyping, diagnostic algorithm (1 source)
 - [[anticoagulation-gi-bleeding]] — Anticoagulation in GI bleeding and periendoscopic period: 4F-PCC over FFP for warfarin; no bridging (BRIDGE trial — doubles bleeding, non-inferior for thromboembolism, except mechanical valves); platelet transfusion increases mortality (OR 5.57); resume ASA day of hemostasis; DOAC interruption 1–2 days pre-procedure (1 source)
 - [[test-and-treat]] — Test-and-treat strategy for H. pylori in uninvestigated dyspepsia (1 source)
-- [[bismuth-quadruple-therapy]] — Bismuth-containing quadruple therapy: components, indications, and efficacy (1 source)
 - [[inflammatory-bowel-disease]] — IBD overview: Crohn's vs. UC comparison table, shared biologic classes, DILI in IBD, links to disease scripts (stub)
 - [[iron-overload-and-iron-metabolism]] — Iron metabolism: hepcidin-ferroportin axis, intestinal absorption physiology, primary vs. secondary iron overload pathophysiology, key lab interpretation (stub)
 - [[intestinal-methanogen-overgrowth]] — IMO: archaea vs. bacteria distinction, M. smithii, constipation association, CH4 breath test threshold, rifaximin + neomycin treatment (stub)
 - [[small-bowel-motility]] — Small bowel motility: MMC phase III as protective against SIBO, dysmotility causes and SIBO risk (stub)
-- [[postinfectious-ibs]] — PI-IBS: IBS developing after acute infectious gastroenteritis, risk factors, link to DGBI framework (stub)
-- [[angioectasia]] — Angioectasia: most common SBB cause, AVM dilations, association with aortic stenosis (Heyde's), endoscopic treatment (argon plasma coagulation) (stub)
-- [[heydes-syndrome]] — Heyde's syndrome: aortic stenosis + angioectasia + acquired vWF deficiency, LVAD parallel, AVR resolves coagulopathy (stub)
-- [[post-transplant-lymphoproliferative-disorder]] — PTLD: EBV-driven lymphoproliferation post-transplant IS, IS reduction first-line, rituximab (stub)
 - [[antibody-mediated-rejection-liver-transplant]] — AMR in liver transplant: Banff 2022 criteria (C4d + DSA + histology + graft dysfunction); treatment (plasmapheresis/IVIG/rituximab/bortezomib); open questions (1 source)
 - [[hepatopulmonary-syndrome-portopulmonary-hypertension]] — HPS and POPH: bubble echocardiography screening; RHC indications; POPH mPAP ≥45 mmHg + PVR >3 WU = LT contraindication; candidacy thresholds (1 source)
 - [[operational-tolerance]] — Operational tolerance: IS-free allograft acceptance; ~7%/year increase in meta-analysis (n=620); biopsy pre-withdrawal; AASLD 2025 Rec 36 against routine withdrawal (Strong, Level 4) (1 source)
-- [[direct-acting-antivirals]] — DAA drug classes (NS3/4A + NS5A + NS5B); pangenotypic regimens (G/P, SOF/VEL); DDI table (cyclosporine); decompensated cirrhosis contraindications; see [[hepatitis-c]] for treatment tables (1 source)
 - [[nutrition-in-hospitalized-patients]] — Nutrition in hospitalized patients: EN preferred over PN when gut functional, NRS-2002/NUTRIC risk scoring, avoid albumin/prealbumin as nutrition markers, EN within 24–48h for high-risk, permissive underfeeding in early ARDS/obesity, no GRV monitoring, PN deferred 7–10d in low-risk if EN not feasible, EOL autonomy governs nutrition (1 source)
 - [[cirrhosis-hemostasis]] — Hemostasis in cirrhosis: rebalanced hemostasis concept, INR/platelet count poor predictors of bleeding, no prophylactic FFP/platelets before routine procedures, TEG/ROTEM preferred for transfusion guidance, PVT paradox in cirrhosis (1 source)
 - [[noninvasive-liver-disease-assessment]] — NILDA: blood (FIB-4/NFS/ELF) + imaging (VCTE/MRE/MRI-PDFF) tools for fibrosis/steatosis; two-tier FIB-4→VCTE/MRE/ELF pathway; rule-out > rule-in; ELF ≥11.3 prognostic; against blood steatosis indices & serial monitoring; hub for MASLD/portal-HTN/cholestatic staging (3 sources)
-- [[hepatic-encephalopathy]] — HE: 4-axis classification (type A/B/C, WHC severity, time course, precipitants); OHE = diagnosis of exclusion; ammonia alone has NO diagnostic/staging/prognostic value (Rec 9); lactulose first-line (Rec 19); rifaximin add-on after 2nd episode (Rec 26); protein restriction never indicated (1.2–1.5 g/kg/day); late-night snack (Rec 32); 33 recommendations (AASLD/EASL 2014) (1 source)
 
 ---
 

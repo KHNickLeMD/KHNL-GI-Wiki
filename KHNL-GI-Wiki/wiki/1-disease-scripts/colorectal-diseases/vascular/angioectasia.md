@@ -1,9 +1,9 @@
 ---
 title: "Angioectasia (Angiodysplasia)"
-category: concept
+category: disease-script
 tags: [angioectasia, angiodysplasia, small-bowel, gi-bleeding, vascular-lesion, heydes-syndrome, lvad]
 created: 2026-05-19
-updated: 2026-05-19
+updated: 2026-06-09
 sources: [acg-2015-small-bowel-bleeding]
 ---
 

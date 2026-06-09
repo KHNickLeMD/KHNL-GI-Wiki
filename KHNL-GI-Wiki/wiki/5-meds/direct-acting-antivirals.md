@@ -1,9 +1,9 @@
 ---
 title: "Direct-Acting Antivirals (DAAs)"
-category: concept
+category: med
 tags: [HCV, hepatitis-c, direct-acting-antivirals, DAA, sofosbuvir, velpatasvir, glecaprevir, pibrentasvir, ledipasvir, NS5A, NS5B, NS3-4A, pangenotypic]
 created: 2026-05-28
-updated: 2026-05-28
+updated: 2026-06-09
 sources: [aasld-idsa-2023-hcv]
 ---
 

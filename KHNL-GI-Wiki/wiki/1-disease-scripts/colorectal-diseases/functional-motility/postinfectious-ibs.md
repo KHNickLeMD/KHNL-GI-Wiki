@@ -1,9 +1,9 @@
 ---
 title: "Postinfectious Irritable Bowel Syndrome (PI-IBS)"
-category: concept
+category: disease-script
 tags: [ibs, postinfectious-ibs, travelers-diarrhea, gastroenteritis, functional-gi, rome-iv, rome-v]
 created: 2026-05-19
-updated: 2026-05-19
+updated: 2026-06-09
 sources: [acg-2016-acute-diarrhea]
 ---
 

@@ -1,9 +1,9 @@
 ---
 title: "Post-Transplant Lymphoproliferative Disorder (PTLD)"
-category: concept
+category: disease-script
 tags: [ptld, lymphoma, ebv, transplant, liver-transplant, de-novo-malignancy, immunosuppression]
 created: 2026-05-19
-updated: 2026-05-19
+updated: 2026-06-09
 sources: [aasld-2012-liver-transplant-long-term]
 ---
 

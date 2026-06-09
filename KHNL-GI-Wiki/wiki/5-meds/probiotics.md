@@ -1,9 +1,9 @@
 ---
 title: "Probiotics"
-category: concept
+category: med
 tags: [probiotics, microbiome, dysbiosis, cdiff, ibd, pouchitis, ibs, nec, infectious-diarrhea]
 created: 2026-06-04
-updated: 2026-06-04
+updated: 2026-06-09
 sources: [aga-2020-probiotics]
 ---
 

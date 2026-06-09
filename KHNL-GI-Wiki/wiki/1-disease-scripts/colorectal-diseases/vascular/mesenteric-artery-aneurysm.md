@@ -1,9 +1,9 @@
 ---
 title: "Mesenteric Artery Aneurysm"
-category: concept
+category: disease-script
 tags: []
 created: 2026-06-01
-updated: 2026-06-02
+updated: 2026-06-09
 sources: []
 ---
 

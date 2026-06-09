@@ -1,9 +1,9 @@
 ---
 title: "Familial Atypical Multiple Mole Melanoma (FAMMM) Syndrome"
-category: concept
+category: disease-script
 tags: [genetics, hereditary-cancer, melanoma, pancreatic-cancer, cdkn2a]
 created: 2026-06-04
-updated: 2026-06-04
+updated: 2026-06-09
 sources: [asge-2022-pancreatic-cancer-screening]
 ---
 

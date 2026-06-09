@@ -210,11 +210,11 @@ Triggered when the user provides a new source (article, guideline, chapter, pape
 2. Briefly discuss 3–5 key takeaways with the user before writing anything
 3. Create a source summary page in `wiki/sources/`
 4. Create or update wiki pages touched by this source — route to the correct folder:
-   - Defined disease → `wiki/1-disease-scripts/<subcategory>/` (ADDT format)
+   - Defined disease → `wiki/1-disease-scripts/<subcategory>/` (ADDT format). Any discrete disease entity is a disease script, not a concept — this includes eponymous and syndromic diagnoses (e.g. Heyde's syndrome, FAMMM syndrome, PTLD), vascular lesions (e.g. angioectasia, mesenteric artery aneurysm), and systemic/metabolic diseases managed in GI (e.g. obesity, hepatic encephalopathy, post-infectious IBS). Reserve `7-concepts/` for pathophysiology, mechanisms, and clinical frameworks — never for a discrete disease.
    - Syndrome/undifferentiated symptom → `wiki/2-diagnostic-schemas/`
    - General GI procedure → `wiki/3-general-gi-procedures/`
    - Advanced/specialized procedure → `wiki/4-advanced-gi-procedures/<subcategory>/`
-   - Medication or drug class → `wiki/5-meds/`
+   - Medication or drug class → `wiki/5-meds/`. A class of medications belongs here even when it is not a single named agent — drug-class pages (e.g. DAAs, probiotics, bismuth quadruple therapy) live in `5-meds/`, not `7-concepts/`.
    - Anatomy → `wiki/6-anatomy/`
    - Concept/framework → `wiki/7-concepts/`
 5. Create or update concept pages touched by this source

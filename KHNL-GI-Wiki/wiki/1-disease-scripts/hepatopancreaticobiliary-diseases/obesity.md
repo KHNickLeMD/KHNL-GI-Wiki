@@ -1,9 +1,9 @@
 ---
 title: "Obesity"
-category: concept
+category: disease-script
 tags: [obesity, weight-management, metabolic]
 created: 2026-06-04
-updated: 2026-06-04
+updated: 2026-06-09
 sources: [aga-2021-intragastric-balloons, aga-2022-obesity-pharm]
 ---
 

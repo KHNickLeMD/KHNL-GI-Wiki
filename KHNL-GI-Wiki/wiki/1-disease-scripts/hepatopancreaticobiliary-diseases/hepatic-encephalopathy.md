@@ -1,9 +1,9 @@
 ---
 title: "Hepatic Encephalopathy"
-category: concept
+category: disease-script
 tags: [hepatic-encephalopathy, HE, cirrhosis, ammonia, lactulose, rifaximin, TIPS, portal-hypertension, ACLF, minimal-HE, covert-HE, overt-HE, portosystemic-shunting, brain-dysfunction]
 created: 2026-05-28
-updated: 2026-05-28
+updated: 2026-06-09
 sources: [aasld-easl-2014-hepatic-encephalopathy, acg-2026-hepatic-encephalopathy]
 ---
 

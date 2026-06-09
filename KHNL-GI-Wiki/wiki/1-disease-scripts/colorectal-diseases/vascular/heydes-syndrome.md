@@ -1,6 +1,6 @@
 ---
 title: Heyde's Syndrome
-category: concept
+category: disease-script
 tags:
   - heydes-syndrome
   - aortic-stenosis
@@ -10,7 +10,7 @@ tags:
   - small-bowel
   - vascular-lesion
 created: 2026-05-19
-updated: 2026-05-19
+updated: 2026-06-09
 sources:
   - acg-2015-small-bowel-bleeding
 ---
