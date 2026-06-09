@@ -177,6 +177,9 @@ ALD risk is influenced by genetic variants in lipid metabolism and alcohol oxida
 
 ### 1. Severe Alcoholic Hepatitis (MDF ≥32 or MELD ≥20)
 
+![[ald-2024-aah-management-algorithm-12.png|700x475]]
+*Figure 3 — Algorithmic approach toward diagnosis and management of alcohol-associated hepatitis. ([[acg-2024-ald]])*
+
 **Prednisolone 40 mg/day orally × 28 days** [[acg-2024-ald]], [[aasld-2020-ald]]:
 
 - First-line treatment for severe AH; AASLD 2020 GS-14: *"Prednisolone (40 mg/day) given orally should be considered to improve 28-day mortality in patients with severe AH (MDF ≥32) without contraindications to the use of corticosteroids."*

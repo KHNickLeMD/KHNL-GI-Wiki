@@ -45,6 +45,11 @@ Severity based on symptom burden, laxative dependence, impact on QoL (PAC-QoL, P
 
 ## Diagnostics
 
+### Diagnostic Algorithm
+
+![[defecation-disorders-2021-evaluation-algorithm-07.png|700x471]]
+*Figure 1 — Evaluation of chronic constipation with suspected defecatory disorder. ([[acg-2021-anorectal-disorders]])*
+
 ### Required Tests for Diagnosis
 
 **Digital rectal examination (DRE) — strongly recommended:**

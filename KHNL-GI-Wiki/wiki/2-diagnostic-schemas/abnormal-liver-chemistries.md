@@ -115,6 +115,12 @@ Use the R-ratio and AST:ALT ratio to classify injury pattern → guides the diff
 
 ### Step 3 — AST/ALT Elevation Algorithm (Tiered by Magnitude)
 
+![[liver-chemistries-2017-ast-alt-algorithm-10.png|700x498]]
+*Figure 1 — Algorithm for evaluation of AST/ALT elevation (borderline and mild). ([[acg-2017-liver-chemistries]])*
+
+![[liver-chemistries-2017-ast-moderate-elevation-11.png|700x1082]]
+*Figure 2 — Evaluation of moderate elevation of AST (5–15× ULN). ([[acg-2017-liver-chemistries]])*
+
 **Tier 1 — Borderline elevation (<2× ULN):**
 
 1. History and physical exam; discontinue hepatotoxic medications and alcohol; assess for fatty liver and viral hepatitis risk factors

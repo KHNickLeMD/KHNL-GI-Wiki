@@ -153,6 +153,9 @@ Minimum acceptable: 2 jars (antrum/incisura; body). Additional targeted biopsies
 
 ## Therapeutics
 
+![[atrophic-gastritis-2021-management-algorithm-07.png|700x366]]
+*Figure 3 — Algorithm for clinical management of atrophic gastritis. ([[aga-2021-atrophic-gastritis]])*
+
 ### 1. H. Pylori Eradication (All AG Patients)
 
 Test all AG patients for H. pylori regardless of etiology. If positive, treat and confirm eradication with a non-serologic test (urea breath test, fecal antigen, or histology). See [[helicobacter-pylori-infection]] for regimens.

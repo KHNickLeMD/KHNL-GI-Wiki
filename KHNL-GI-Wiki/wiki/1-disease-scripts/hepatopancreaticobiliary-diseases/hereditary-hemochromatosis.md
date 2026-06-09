@@ -127,6 +127,9 @@ sources: [acg-2019-hereditary-hemochromatosis, acg-2017-liver-chemistries]
 3. C282Y/C282Y: SF <1,000 + normal LFTs → therapeutic phlebotomy; SF >1,000 or elevated LFTs → liver biopsy
 4. C282Y/H63D, C282Y heterozygote, or non-C282Y → evaluate other liver/hematologic disorders ± liver biopsy/MRI; if elevated HIC + SF >1,000 → phlebotomy
 
+![[hemochromatosis-2019-diagnosis-treatment-algorithm-11.png|700x532]]
+*Figure 4 — Algorithm regarding the diagnosis and treatment of HH. ([[acg-2019-hereditary-hemochromatosis]])*
+
 ### HFE Genotyping (Step 2)
 
 - Standard clinical test: C282Y, H63D, S65C

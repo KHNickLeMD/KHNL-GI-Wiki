@@ -99,6 +99,9 @@ This guideline replaces the older term **"obscure GI bleeding (OGIB)"** with ana
 
 ### Step 3: Brisk or Massive Overt Bleeding (Figure 2 Algorithm)
 
+![[small-bowel-bleeding-2015-brisk-algorithm-04.png|700x395]]
+*Figure 2 — Algorithm for brisk or massive suspected small bowel bleeding. ([[acg-2015-small-bowel-bleeding]])*
+
 1. Stabilize patient hemodynamically.
 2. If hemodynamically **unstable**: conventional **angiography emergently**. *(Strong/Low)*
 3. If hemodynamically **stable with active bleeding**: **multiphasic CTA** to identify site and guide management. *(Strong/Low)*
@@ -109,6 +112,9 @@ This guideline replaces the older term **"obscure GI bleeding (OGIB)"** with ana
 8. In younger patients with negative VCE and enterography: **Meckel's scan** (⁹⁹ᵐTc-pertechnetate). *(Conditional/Very Low)*
 
 ### Step 4: Sub-Acute Ongoing Bleeding (Figure 3 Algorithm)
+
+![[small-bowel-bleeding-2015-subacute-algorithm-04.png|700x426]]
+*Figure 3 — Algorithm for sub-acute ongoing suspected small bowel bleeding. ([[acg-2015-small-bowel-bleeding]])*
 
 1. Stabilize patient.
 2. Consider **VCE vs. CTE** (VCE if no obstruction; CTE if obstruction suspected or IBD).

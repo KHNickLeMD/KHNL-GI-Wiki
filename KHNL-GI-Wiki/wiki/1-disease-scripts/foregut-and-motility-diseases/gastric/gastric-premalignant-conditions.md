@@ -131,6 +131,9 @@ Gastric adenocarcinoma
 
 ### Surveillance Strategy
 
+![[gpmc-2025-nondysplastic-algorithm-17.png|700x391]]
+*Figure 5 — Nondysplastic GPMC management algorithm. ([[acg-2025-gastric-premalignant]])*
+
 **High-risk GIM → surveillance q3y (Conditional/Very low):**
 
 - Incomplete GIM histological subtype (vs complete)
@@ -158,6 +161,9 @@ Gastric adenocarcinoma
   - Screen and eradicate H. pylori in all high-risk individuals
 
 ### Dysplasia Management
+
+![[gpmc-2025-dysplastic-algorithm-19.png|700x384]]
+*Figure 6 — Dysplastic GPMC management algorithm. ([[acg-2025-gastric-premalignant]])*
 
 | Scenario | Action |
 |---|---|

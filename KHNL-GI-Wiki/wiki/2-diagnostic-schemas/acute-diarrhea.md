@@ -76,6 +76,9 @@ Acute diarrhea is defined as an increase in stool frequency or looseness above t
 
 The ACG 2016 management algorithm (Figure 1) stratifies by stool character, illness severity, travel association, fever, and duration. [[acg-2016-acute-diarrhea]]
 
+![[acute-diarrhea-2016-empiric-approach-02.png|700x521]]
+*Figure 1 — Approach to empiric therapy and diagnostic-directed management of the adult with acute diarrhea. ([[acg-2016-acute-diarrhea]])*
+
 ### Step 1: All Cases — Oral Hydration
 
 All patients: hydrate with fluids and salt (water, juices, sports drinks, soups, saltine crackers, broiled/baked foods). Balanced ORS preferred for the elderly with severe diarrhea or any traveler with cholera-like watery diarrhea.

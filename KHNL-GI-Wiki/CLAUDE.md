@@ -31,7 +31,14 @@ You maintain a persistent, compounding wiki of GI knowledge. You are not a chatb
 │   │   │   ├── esophageal/              ← e.g. eosinophilic-esophagitis.md
 │   │   │   ├── ge-junction/             ← e.g. achalasia.md, gerd.md
 │   │   │   └── gastric/                 ← e.g. helicobacter-pylori-infection.md
-│   │   ├── colorectal-diseases/         ← e.g. crohns-disease.md, ulcerative-colitis.md
+│   │   ├── colorectal-diseases/
+│   │   │   ├── inflammation/                  ← IBD & colitides, e.g. ulcerative-colitis.md
+│   │   │   ├── infections/                    ← e.g. clostridioides-difficile.md, salmonella-infection.md
+│   │   │   ├── lesions-malignancy/            ← e.g. colorectal-cancer.md
+│   │   │   ├── polyposis-hereditary-syndromes/ ← e.g. lynch-syndrome.md, familial-adenomatous-polyposis.md
+│   │   │   ├── functional-motility/           ← e.g. irritable-bowel-syndrome.md, fecal-incontinence.md
+│   │   │   ├── vascular/                      ← e.g. colon-ischemia.md, acute-mesenteric-ischemia.md
+│   │   │   └── anorectal/                     ← e.g. hemorrhoids.md, anal-fissure.md
 │   │   └── hepatopancreaticobiliary-diseases/  ← e.g. acute-liver-failure.md
 │   │
 │   ├── 2-diagnostic-schemas/            ← Syndrome-based pages (not a defined diagnosis)
