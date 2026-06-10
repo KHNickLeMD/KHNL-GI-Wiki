@@ -53,7 +53,7 @@ Laboratory ULN values for ALT are unreliable — they are set from populations t
 | R-ratio | Pattern | Key etiologies |
 |---------|---------|----------------|
 | >5 | Hepatocellular | Viral hepatitis (A/B/C/E), MASLD/MASH, alcoholic liver disease, AIH, [[wilson-disease|Wilson's disease]], alpha-1 AT deficiency, ischemic hepatitis, [[drug-induced-liver-injury|DILI]], [[celiac-disease|celiac disease]] |
-| <2 | Cholestatic | [[primary-biliary-cholangitis|PBC]], [[primary-sclerosing-cholangitis|PSC]], biliary obstruction (choledocholithiasis, [[biliary-stricture|stricture]], malignancy), DILI-cholestatic, vanishing bile duct syndrome |
+| <2 | Cholestatic | [[primary-biliary-cholangitis|PBC]], [[primary-sclerosing-cholangitis|PSC]], biliary obstruction ([[choledocholithiasis]], [[biliary-stricture|stricture]], malignancy), DILI-cholestatic, vanishing bile duct syndrome |
 | 2–5 | Mixed | Any of the above; some viral hepatitis; DILI |
 | — | Isolated hyperbilirubinemia | Gilbert syndrome, hemolysis, Dubin-Johnson/Rotor syndrome (conjugated) |
 
@@ -65,7 +65,7 @@ Laboratory ULN values for ALT are unreliable — they are set from populations t
 
 **Hepatic causes (generally ALT>AST):**
 
-- MASLD (steatosis/MASH), chronic and acute viral hepatitis, medications/DILI, [[hereditary-hemochromatosis|hemochromatosis]], [[autoimmune-hepatitis|AIH]], Wilson's disease, alpha-1 antitrypsin deficiency, celiac disease, HELLP, acute fatty liver of pregnancy, sepsis, hemophagocytic lymphohistiocytosis
+- MASLD (steatosis/MASH), chronic and acute viral hepatitis, medications/DILI, [[hereditary-hemochromatosis|hemochromatosis]], [[autoimmune-hepatitis|AIH]], [[wilson-disease|Wilson's disease]], alpha-1 antitrypsin deficiency, [[celiac-disease|celiac disease]], HELLP, acute fatty liver of pregnancy, sepsis, hemophagocytic lymphohistiocytosis
 
 **Non-hepatic causes:**
 
@@ -94,7 +94,7 @@ Laboratory ULN values for ALT are unreliable — they are set from populations t
 
 - Gilbert syndrome (most common; 3–7% of US population; UGT1A1 polymorphism; total bilirubin almost never exceeds 6 mg/dl)
 - Hemolysis (intravascular and extravascular)
-- Ineffective erythropoiesis, resorption of large hematomas, neonatal jaundice
+- Ineffective erythropoiesis, resorption of large hematomas, neonatal [[jaundice]]
 - Hyperthyroidism, medications, post-blood transfusion
 
 **Elevated conjugated (direct):**
@@ -127,7 +127,7 @@ Use the R-ratio and AST:ALT ratio to classify injury pattern → guides the diff
 2. Initial labs: CBC/platelet count, AST/ALT, Alk Phos, total bilirubin, albumin, PT/INR, HBsAg, HBcAb, HBsAb, HCV Ab (with PCR confirmation if positive), iron panel, abdominal ultrasound
 3. If negative: observe 3–6 months with repeat testing
 4. If persistently elevated: add ANA, ASMA, gamma-globulin, ceruloplasmin, alpha-1 antitrypsin phenotype ± celiac serology, tick-borne disease screen, thyroid disease, muscle disorders
-5. If normal on full workup: further testing at clinician discretion or hepatology referral for liver biopsy consideration
+5. If normal on full workup: further testing at clinician discretion or hepatology referral for [[liver-biopsy|liver biopsy]] consideration
 
 **Tier 2 — Mild elevation (2–5× ULN):**
 
@@ -137,7 +137,7 @@ Use the R-ratio and AST:ALT ratio to classify injury pattern → guides the diff
 
 **Tier 3 — Moderate elevation (5–15× ULN):**
 
-1. History and PE; discontinue hepatotoxic meds and alcohol; evaluate for signs of acute liver failure
+1. History and PE; discontinue hepatotoxic meds and alcohol; evaluate for signs of [[acute-liver-failure|acute liver failure]]
 2. Labs: CBC/platelet count, AST/ALT, Alk Phos, total bilirubin, albumin, PT/INR, HAV IgM, HAV IgG, HBsAg, HBcAb IgM, HBsAb, HCV Ab with PCR, iron panel, ceruloplasmin, ANA, SMA, gamma-globulin; abdominal ultrasound
 3. If signs of acute liver failure → **urgent liver consultation with consideration of transplant center referral**
 4. If diagnostic evaluation negative and medically stable → consider diagnostic liver biopsy
@@ -154,7 +154,7 @@ Use the R-ratio and AST:ALT ratio to classify injury pattern → guides the diff
 2. Etiologies: acetaminophen overdose, ischemic hepatopathy/shock liver, Amanita phalloides toxin
 3. Urgent liver consultation + transplant center referral if ALF present
 
-**Fulminant hepatic failure (any ALT level):** Acute liver injury with prolonged prothrombin time and hepatic encephalopathy without prior liver disease → **immediate referral to liver specialist** regardless of ALT level (Strong recommendation, very low evidence) [[acg-2017-liver-chemistries]]
+**Fulminant hepatic failure (any ALT level):** Acute liver injury with prolonged prothrombin time and [[hepatic-encephalopathy|hepatic encephalopathy]] without prior liver disease → **immediate referral to liver specialist** regardless of ALT level (Strong recommendation, very low evidence) [[acg-2017-liver-chemistries]]
 
 ### Step 4 — Alkaline Phosphatase Elevation Algorithm (Figure 4)
 
@@ -169,7 +169,7 @@ Use the R-ratio and AST:ALT ratio to classify injury pattern → guides the diff
 **Scenario B — Elevated transaminases ± elevated bilirubin:**
 
 1. History and PE; check RUQ ultrasound
-2. If ductal dilatation → ERCP; MRCP
+2. If ductal dilatation → [[ercp|ERCP]]; MRCP
 3. If no ductal dilatation → check AMA, ANA, SMA
 4. AMA positive → evaluate for PBC; AMA negative + Alk Phos >2× ULN → consider liver biopsy or MRCP; Alk Phos 1–2× ULN → observation
 5. If persistent after 6 months → consider liver biopsy or MRCP
@@ -205,17 +205,17 @@ Use the R-ratio and AST:ALT ratio to classify injury pattern → guides the diff
 
 ### Initial Metabolic/Serologic Panel
 
-- **CBC with platelet count** — thrombocytopenia suggests portal hypertension/chronic liver disease
+- **CBC with platelet count** — thrombocytopenia suggests [[portal-hypertension|portal hypertension]]/chronic liver disease
 - **AST, ALT, alkaline phosphatase, total bilirubin, albumin, PT/INR** — establish pattern and synthetic function
 - **HBsAg, anti-HBc (total or IgM), anti-HBs** — [[chronic-hepatitis-b|hepatitis B]] status
 - **Anti-HCV ± HCV RNA** — [[hepatitis-c|hepatitis C]] (RNA required if antibody positive or high suspicion with negative antibody)
-- **Iron panel** — transferrin saturation ≥45% or elevated ferritin → HFE mutation analysis for hereditary hemochromatosis
+- **Iron panel** — transferrin saturation ≥45% or elevated ferritin → HFE mutation analysis for [[hereditary-hemochromatosis|hereditary hemochromatosis]]
 - **Abdominal ultrasound** — hepatic parenchyma, biliary dilatation, portal hypertension stigmata
 
 ### Expanded Evaluation (if initial panel negative/persists)
 
-- **ANA, anti-smooth muscle antibody (ASMA), IgG** → autoimmune hepatitis
-- **Antimitochondrial antibody (AMA)** → primary biliary cholangitis (positive in >95%)
+- **ANA, anti-smooth muscle antibody (ASMA), IgG** → [[autoimmune-hepatitis|autoimmune hepatitis]]
+- **Antimitochondrial antibody (AMA)** → [[primary-biliary-cholangitis|primary biliary cholangitis]] (positive in >95%)
 - **Serum ceruloplasmin** → Wilson's disease (especially age <55; if low → 24-hour urine copper, slit-lamp examination for Kayser-Fleischer rings)
 - **Alpha-1 antitrypsin phenotype** → alpha-1 antitrypsin deficiency (PiZZ = severe; PiMZ = intermediate risk)
 - **HAV IgM, HEV IgM** → acute viral hepatitis (HAV: fecal-oral, travel; HEV: travel to endemic areas — Central America, Asia)
@@ -233,8 +233,8 @@ Use the R-ratio and AST:ALT ratio to classify injury pattern → guides the diff
 ### Imaging
 
 - **Abdominal ultrasound** — first-line for all patterns; hepatomegaly, steatosis, biliary dilatation, portal hypertension, vascular patency
-- **Doppler ultrasound** — Budd-Chiari syndrome, hepatic vein/portal vein thrombosis
-- **MRI/MRCP** — preferred for biliary anatomy; cholangioscopy for sclerosing cholangitis evaluation when ERCP not needed for therapy
+- **Doppler ultrasound** — [[budd-chiari-syndrome|Budd-Chiari syndrome]], hepatic vein/portal vein thrombosis
+- **MRI/MRCP** — preferred for biliary anatomy; [[cholangioscopy]] for sclerosing cholangitis evaluation when ERCP not needed for therapy
 - **CT abdomen** — infiltrative disease, malignancy, abscess
 - **FibroScan (vibration-controlled transient elastography)** — non-invasive fibrosis assessment in NAFLD/MASLD; FDA-approved; controlled attenuation parameter (CAP) for steatosis quantification
 
@@ -256,7 +256,7 @@ Biopsy is appropriate when (Strong recommendation, very low evidence) [[acg-2017
 ## Red Flags / Alarm Features
 
 - **Elevated prothrombin time + encephalopathy** in patient without prior liver disease → fulminant hepatic failure → **immediate hepatology referral ± transplant center evaluation** (Strong/Very Low) [[acg-2017-liver-chemistries]]
-- **Jaundice + signs of liver decompensation** (ascites, encephalopathy, variceal bleeding) → advanced liver disease requiring urgent evaluation
+- **Jaundice + signs of liver decompensation** ([[ascites]], encephalopathy, variceal bleeding) → advanced liver disease requiring urgent evaluation
 - **Massive ALT elevation (>10,000 IU/l)** → ischemic hepatitis, acetaminophen overdose, toxic hepatitis (Amanita), acute Wilson's disease with fulminant presentation — requires immediate workup and hepatology consultation
 - **Alkaline phosphatase elevation with weight loss, painless jaundice** → malignant biliary obstruction; CT/MRCP urgently
 - **Young patient (<40 years) with unexplained liver disease** → Wilson's disease must be excluded (can present with hepatic, neurologic, and/or psychiatric features)

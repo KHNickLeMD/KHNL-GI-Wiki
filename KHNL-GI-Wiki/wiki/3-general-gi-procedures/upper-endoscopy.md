@@ -18,17 +18,17 @@ Supplementary best practice guidance from AGA 2024 Clinical Practice Update. [[a
 
 **Evaluate/manage:**
 
-- Dysphagia, odynophagia
-- GERD symptoms (alarm features or refractory)
-- Upper abdominal symptoms (dyspepsia, nausea/vomiting)
-- Upper GI bleeding (overt or occult/IDA)
+- [[dysphagia|Dysphagia]], odynophagia
+- [[gerd|GERD]] symptoms (alarm features or refractory)
+- Upper abdominal symptoms ([[dyspepsia]], nausea/vomiting)
+- [[upper-gi-bleeding|Upper GI bleeding]] (overt or occult/IDA)
 - Evaluation for gastric cancer / GPMC in high-risk patients
 
 **Screening/surveillance:**
 
-- Barrett's esophagus (BE) surveillance
+- [[barretts-esophagus|Barrett's esophagus]] (BE) surveillance
 - GPMC surveillance
-- Celiac disease confirmation
+- [[celiac-disease|Celiac disease]] confirmation
 
 **Therapeutic:**
 
@@ -112,12 +112,12 @@ Document all of: esophagus, GEJ (antegrade), gastric cardia/fundus (retroflexed)
 
 - A meta-analysis of 53,392 patients found 21.7% of EGDs had inappropriate indications; appropriate indication associated with higher diagnostic yield (OR 1.42; 95% CI, 1.36–1.49)
 - Informed consent must document risks, benefits, alternatives, sedation plan, and potential therapeutic interventions
-- **GLP-1 receptor agonists (e.g., semaglutide):** Associated with delayed gastric emptying; ASA advises holding 1 dose before endoscopy to reduce aspiration risk (limited data; watch for updated society guidance)
+- **GLP-1 receptor agonists (e.g., [[semaglutide]]):** Associated with delayed gastric emptying; ASA advises holding 1 dose before endoscopy to reduce aspiration risk (limited data; watch for updated society guidance)
 
 ### Mucosal Visualization (BPA 2)
 
 - Missed cancer rate: 10.7% (95% CI, 8.0–13.7%) of upper GI cancers are diagnosed within 3 years of a negative EGD (systematic review, n=81,184)
-- Esophageal adenocarcinoma missed rate: 23.9% (95% CI, 15.3–35.4%) diagnosed within 1 year of a negative EGD in nondysplastic Barrett's patients
+- [[esophageal-adenocarcinoma|Esophageal adenocarcinoma]] missed rate: 23.9% (95% CI, 15.3–35.4%) diagnosed within 1 year of a negative EGD in nondysplastic Barrett's patients
 - Achieve visualization via aspiration of luminal contents, full insufflation, and mucosal cleansing
 - **Pre-procedure agents:** Simethicone and pronase each improve mucosal visualization in most trials; adding N-acetylcysteine to simethicone provides further benefit in some (not all) studies; administer 15–30 min before endoscopy
 - **Simethicone safety note:** Risk of biofilm in endoscope channels; if used, limit to 0.5% concentration and deliver via working channel (not waterjet channel)
@@ -127,7 +127,7 @@ Document all of: esophagus, GEJ (antegrade), gastric cardia/fundus (retroflexed)
 - **HD-WLE:** Superior to standard-definition WLE for neoplasia detection; all system components (chip, processor, monitor, cables) must be HD-compatible for true HD resolution
 - **Available IETs in the US:** NBI (Olympus), i-Scan (PENTAX), LCI/blue laser imaging (FUJIFILM)
 - **Barrett's esophagus:** NBI, LCI, or i-Scan improve detection/characterization of dysplastic lesions by 10–20%
-- **Gastric lesions (multicenter RCT):** NBI detected more focal gastric lesions than HD-WLE (40.6% vs. 29%; P=.003) and more gastric intestinal metaplasia (17.7% vs. 7.7%; P=.001)
+- **Gastric lesions (multicenter RCT):** NBI detected more focal gastric lesions than HD-WLE (40.6% vs. 29%; P=.003) and more [[gastric-intestinal-metaplasia|gastric intestinal metaplasia]] (17.7% vs. 7.7%; P=.001)
 - **LCI tandem trial:** Missed upper GI neoplasia rate significantly lower with LCI vs. HD-WLE (0.67% vs. 3.5%; RR 0.19; 95% CI, 0.07–0.50)
 - Comparative data between IETs are limited; no head-to-head superiority established; developing familiarity with any IET is emphasized
 - AI-assisted detection systems for upper endoscopy are in early phases of development — not yet validated for routine clinical use
@@ -161,7 +161,7 @@ More rigorous documentation is recommended for Barrett's esophagus, gastric inte
 | Bleeding peptic ulcers | Forrest classification |
 | Superficial neoplastic lesions | Paris classification |
 | Gastroesophageal flap valve | Hill grade classification |
-| Eosinophilic esophagitis | EREFS; I-SEE (emerging standard for disease activity) |
+| [[eosinophilic-esophagitis|Eosinophilic esophagitis]] | EREFS; I-SEE (emerging standard for disease activity) |
 
 ### Biopsy Protocols — AGA 2024 (BPA 7)
 
@@ -218,7 +218,7 @@ More rigorous documentation is recommended for Barrett's esophagus, gastric inte
 
 ### Postprocedure Documentation (BPA 8 and 9)
 
-- Document management recommendations based on endoscopic findings (e.g., PPI for erosive esophagitis, acid suppression for peptic ulcer disease)
+- Document management recommendations based on endoscopic findings (e.g., PPI for erosive esophagitis, acid suppression for [[peptic-ulcer-disease|peptic ulcer disease]])
 - If recommendations depend on histopathology (H. pylori, Barrett's, gastric intestinal metaplasia), document that guidance will follow after results
 - Document whether surveillance is indicated and the appropriate interval
 - Implement a recall system to notify patients when surveillance is due

@@ -11,14 +11,14 @@ sources: [aasld-2023-nafld, aasld-2023-masld-nomenclature, aasld-2024-resmetirom
 
 ### Establishing the Diagnosis
 
-**MASLD (Metabolic dysfunction-Associated Steatotic Liver Disease)** — formerly NAFLD — is a highly prevalent condition (≈25–30% of US adults) associated with the metabolic syndrome, most commonly in patients with co-existing obesity, diabetes mellitus, dyslipidemia, and hypertension. NASH-related cirrhosis is already the leading [[liver-transplantation|liver-transplant]] indication in women and in those >65 years, and is on par with alcohol overall; hepatic decompensation, [[hepatocellular-carcinoma|HCC]], and death are projected to rise 2–3 fold by 2030. [[aasld-2023-nafld]]
+**MASLD (Metabolic dysfunction-Associated Steatotic Liver Disease)** — formerly NAFLD — is a highly prevalent condition (≈25–30% of US adults) associated with the metabolic syndrome, most commonly in patients with co-existing [[obesity]], diabetes mellitus, dyslipidemia, and hypertension. NASH-related cirrhosis is already the leading [[liver-transplantation|liver-transplant]] indication in women and in those >65 years, and is on par with alcohol overall; hepatic decompensation, [[hepatocellular-carcinoma|HCC]], and death are projected to rise 2–3 fold by 2030. [[aasld-2023-nafld]]
 
 **Nomenclature (2023 multi-society Delphi consensus — AASLD/EASL/ALEH):** the overarching term is **Steatotic Liver Disease (SLD)**. [[aasld-2023-masld-nomenclature]]
 
 - **MASLD** = hepatic steatosis + ≥1 cardiometabolic risk factor (CMRF) + no other discernible cause (replaces NAFLD)
 - **MASH** = MASLD + steatohepatitis (replaces NASH); **MASL** = MASLD without steatohepatitis (replaces NAFL)
 - **MetALD** = MASLD + increased alcohol (a continuum); ALD; specific-etiology SLD (DILI, LALD, Wilson, hypobetalipoproteinemia, HCV genotype 3, celiac, HIV); and cryptogenic SLD
-- The new nonexclusionary terminology permits **dual pathology** (e.g. MASLD + autoimmune hepatitis or viral hepatitis)
+- The new nonexclusionary terminology permits **dual pathology** (e.g. MASLD + [[autoimmune-hepatitis|autoimmune hepatitis]] or viral hepatitis)
 - There is **>99% overlap** between NAFLD- and MASLD-defined populations with near-identical natural history; therefore all NAFLD/NASH guidance recommendations and natural-history/biomarker data apply directly to MASLD/MASH.
 
 **Cardiometabolic risk factors (adult — ≥1 of 5, ethnicity-adjusted):** [[aasld-2023-masld-nomenclature]]
@@ -29,7 +29,7 @@ sources: [aasld-2023-nafld, aasld-2023-masld-nomenclature, aasld-2024-resmetirom
 4. Triglycerides ≥150 mg/dL OR lipid-lowering treatment
 5. HDL-cholesterol ≤40 mg/dL (M) / ≤50 mg/dL (F) OR lipid-lowering treatment
 
-MASLD/MASH remains a **diagnosis requiring exclusion of alternative etiologies**. Although many individuals with hepatic steatosis on imaging may have normal liver chemistries, the presence of abnormal liver chemistries in this setting increases the likelihood of MASH (with inflammation/fibrosis). Aminotransferases are frequently normal even in advanced fibrosis and **must not be used in isolation to exclude clinically significant fibrosis** (GS 15). [[aasld-2023-nafld]]
+MASLD/MASH remains a **diagnosis requiring exclusion of alternative etiologies**. Although many individuals with hepatic steatosis on imaging may have normal liver chemistries, the presence of [[abnormal-liver-chemistries|abnormal liver chemistries]] in this setting increases the likelihood of MASH (with inflammation/fibrosis). Aminotransferases are frequently normal even in advanced fibrosis and **must not be used in isolation to exclude clinically significant fibrosis** (GS 15). [[aasld-2023-nafld]]
 
 **Pattern of elevation:** Generally ALT > AST (unlike alcoholic liver disease); AST/ALT levels rarely above 300 IU/L; no unique elevation pattern. [[acg-2017-liver-chemistries]]
 
@@ -37,7 +37,7 @@ MASLD/MASH remains a **diagnosis requiring exclusion of alternative etiologies**
 
 **Alcohol threshold (MetALD boundary):** MASLD requires intake below an average daily **20 g (♀) / 30 g (♂)** (weekly 140♀/210♂ g). Steatosis + CMRF + alcohol in the range **20–50 g/d (♀) / 30–60 g/d (♂)** (weekly 140–350♀ / 210–420♂ g) = **MetALD**, a continuum from MASLD-predominant (lower intake) to ALD-predominant (higher intake). Above 50 g/d (♀) / 60 g/d (♂) = [[alcohol-associated-liver-disease|ALD]]. [[aasld-2023-masld-nomenclature]]
 
-All the features that define fibrotic MASH — steatosis, ballooning, inflammation, and fibrosis — cannot be determined definitively without a liver biopsy; however, steatosis and fibrosis can be estimated with reasonable accuracy using non-invasive tests (NITs) and are widely used in clinical practice and for pharmacotherapy candidacy assessment. [[aasld-2025-semaglutide-mash]]
+All the features that define fibrotic MASH — steatosis, ballooning, inflammation, and fibrosis — cannot be determined definitively without a [[liver-biopsy|liver biopsy]]; however, steatosis and fibrosis can be estimated with reasonable accuracy using non-invasive tests (NITs) and are widely used in clinical practice and for pharmacotherapy candidacy assessment. [[aasld-2025-semaglutide-mash]]
 
 ### Severity Assessment
 
@@ -81,7 +81,7 @@ Distinct from the diagnostic rule-in/rule-out thresholds above, drug labels/guid
 | MRE (kPa) | 3.1–4.4 | 4.4–5.0 (exclude cirrhosis) | >5.0 |
 | ELF | 9.2–10.5 | 10.5–11.3 (exclude cirrhosis) | >11.3 |
 
-**Signs of cirrhosis/[[portal-hypertension|portal hypertension]] (contraindication to semaglutide/[[resmetirom]]):** VCTE >20 kPa, MRE >5.0 kPa, ELF >11.3, nodular liver contour on cross-sectional imaging, platelet count <150,000/mm³.
+**Signs of cirrhosis/[[portal-hypertension|portal hypertension]] (contraindication to [[semaglutide]]/[[resmetirom]]):** VCTE >20 kPa, MRE >5.0 kPa, ELF >11.3, nodular liver contour on cross-sectional imaging, platelet count <150,000/mm³.
 
 **Non-invasive steatosis assessment:** [[aasld-2023-nafld]]
 
@@ -93,7 +93,7 @@ Distinct from the diagnostic rule-in/rule-out thresholds above, drug labels/guid
 
 - **MASL (Metabolic-Associated Steatotic Liver):** Steatosis without significant inflammation or fibrosis; low risk of progression
 - **MASH (Metabolic dysfunction-Associated SteatoHepatitis):** Steatosis + lobular inflammation + hepatocyte ballooning ± fibrosis; risk of progression to cirrhosis and HCC
-  - **MASH F2–F3 (moderate-to-advanced fibrosis):** Target population for FDA-approved pharmacotherapy (resmetirom, semaglutide)
+  - **MASH F2–F3 (moderate-to-advanced fibrosis):** Target population for FDA-approved pharmacotherapy ([[resmetirom]], semaglutide)
 - **MASH-related cirrhosis (F4):** End-stage; HCC risk; decompensation events; semaglutide not approved for this stage
 
 ---
@@ -124,7 +124,7 @@ See [[abnormal-liver-chemistries]] for integrated diagnostic algorithm.
 
 **Laboratory:**
 
-- Basic metabolic panel, CBC (platelet count for portal hypertension assessment)
+- Basic metabolic panel, CBC (platelet count for [[portal-hypertension|portal hypertension]] assessment)
 - FIB-4 index — first-line NIT; see Severity Assessment above
 - ELF score — second-line blood-based NIT for fibrosis staging
 - HbA1c, fasting glucose/insulin, lipid panel — metabolic comorbidity assessment
@@ -222,9 +222,9 @@ Oral **thyroid hormone receptor-β (THR-β) agonist**; first FDA-approved pharma
 
 #### Bariatric / Metabolic Surgery and Endoscopic Interventions [[aasld-2023-nafld]]
 
-- Bariatric surgery (RYGB, sleeve gastrectomy) resolves NASH without worsening fibrosis in ~80% at 1 y (sustained at 5 y); reduces CV/malignancy mortality — consider for eligible non-cirrhotic patients (GS 22).
+- [[bariatric-surgery|Bariatric surgery]] (RYGB, sleeve gastrectomy) resolves NASH without worsening fibrosis in ~80% at 1 y (sustained at 5 y); reduces CV/malignancy mortality — consider for eligible non-cirrhotic patients (GS 22).
 - **Decompensated cirrhosis = absolute contraindication**; compensated NASH cirrhosis only at high-volume centers / combined with LT.
-- Endoscopic sleeve gastroplasty / intragastric balloon — emerging, less-invasive options.
+- Endoscopic sleeve gastroplasty / [[intragastric-balloon|intragastric balloon]] — emerging, less-invasive options.
 
 #### Liver Transplantation
 

@@ -15,7 +15,7 @@ Biallelic mismatch repair deficiency (BMMRD) syndrome — also called constituti
 
 Unlike [[lynch-syndrome]], which is caused by monoallelic MMR mutations and requires a somatic second hit for tumor development, BMMRD results in complete absence of DNA-MMR activity in all tissues from birth. This produces one of the most virulent cancer predisposition syndromes known, with tumors arising predominantly in childhood and adolescence.
 
-**BMMRD occurs in 25% of offspring when both parents carry a pathogenic mutation in the same MMR gene** — i.e., both parents have Lynch syndrome. Because PMS2 heterozygous mutations carry low penetrance, most parents are clinically unaffected, and family cancer history is frequently negative [[usmstf-2017-bmmrd]].
+**BMMRD occurs in 25% of offspring when both parents carry a pathogenic mutation in the same MMR gene** — i.e., both parents have [[lynch-syndrome|Lynch syndrome]]. Because PMS2 heterozygous mutations carry low penetrance, most parents are clinically unaffected, and family cancer history is frequently negative [[usmstf-2017-bmmrd]].
 
 **PMS2 biallelic mutations are the most common cause**, complicated by 20 PMS2 pseudogenes in the human genome that can obscure true mutations on standard sequencing. MSH6 biallelic mutations are also over-represented compared to LS.
 
@@ -38,7 +38,7 @@ BMMRD is characterized by three major tumor domains, all with childhood onset [[
 |---|---|---|
 | Colorectal adenomas | >90% | 9 (6–15) |
 | Small-bowel adenomas | 50% | 12 (10–20) |
-| Colorectal cancer | 70% | 16 (8–48) |
+| [[colorectal-cancer|Colorectal cancer]] | 70% | 16 (8–48) |
 | Small-bowel cancer | 10% | 28 (11–42) |
 
 **Brain tumors**
@@ -124,7 +124,7 @@ All surveillance recommendations are **weak, low to very low quality evidence** 
 | Intervention | Recommendation | Alternative |
 |---|---|---|
 | [[colonoscopy|Colonoscopy]] | Annually beginning at age 6; every 6 months once polyps identified | — |
-| Upper endoscopy + VCE | Annually beginning at age 8 | — |
+| [[upper-endoscopy|Upper endoscopy]] + VCE | Annually beginning at age 8 | — |
 | Brain MRI | Every 6 months beginning at age 2 | Head ultrasound until fontanel fusion |
 | CBC | Every 6 months beginning at age 1 | Abdominal ultrasound q6 months (European Consortium) |
 | Pelvic exam + endometrial sampling | Annually beginning at age 20 (women) | — |

@@ -9,7 +9,7 @@ sources: [acg-2025-liver-nutrition, aasld-2021-malnutrition-cirrhosis]
 
 # Nutrition in Liver Disease
 
-Malnutrition (most commonly sarcopenia) is a common complication of liver disease, severity-dependent, and independently associated with higher mortality, waitlist mortality, post-transplant mortality, length of stay, and infections. Malnutrition is underrecognized because weight loss is masked by fluid retention (ascites, edema), and obesity does not exclude sarcopenic obesity.
+Malnutrition (most commonly sarcopenia) is a common complication of liver disease, severity-dependent, and independently associated with higher mortality, waitlist mortality, post-transplant mortality, length of stay, and infections. Malnutrition is underrecognized because weight loss is masked by fluid retention ([[ascites]], edema), and [[obesity]] does not exclude sarcopenic obesity.
 
 ---
 
@@ -96,7 +96,7 @@ Malnutrition in liver disease is multifactorial:
 - Natural vitamin E 800 IU/day (Conditional/Low) — reduces hepatic inflammation; not studied in MASH with cirrhosis
 - Lifestyle modification (diet + exercise): recommended independently of disease severity (Conditional/Low)
 
-**Hepatic Encephalopathy (HE):**
+**[[hepatic-encephalopathy|Hepatic Encephalopathy]] (HE):**
 
 - **Do NOT restrict dietary protein** in decompensated cirrhosis with HE (Conditional/Very low) — protein restriction worsens sarcopenia without improving HE
 - Vegetable-source protein preferred over animal protein in HE with nutritional supplementation — better tolerated (Conditional/Low)

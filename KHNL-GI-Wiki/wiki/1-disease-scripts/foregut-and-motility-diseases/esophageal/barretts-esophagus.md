@@ -7,7 +7,7 @@ updated: 2026-06-04
 sources: [acg-2022-barretts, aga-2025-barretts-surveillance, aga-2024-barretts-eet, asge-2018-barretts-eet, asge-2019-barretts-screening-surveillance]
 ---
 
-Barrett's esophagus (BE) is a metaplastic condition in which the normal squamous epithelium of the distal esophagus is replaced by specialized columnar epithelium containing intestinal-type goblet cells (intestinal metaplasia, IM). It is the only known precursor to [[esophageal-adenocarcinoma|esophageal adenocarcinoma]] (EAC), a cancer with rapidly increasing incidence over the past four decades. BE arises in the setting of chronic gastroesophageal reflux disease; 5–12% of patients with chronic [[gerd]] symptoms harbor BE.
+Barrett's esophagus (BE) is a metaplastic condition in which the normal squamous epithelium of the distal esophagus is replaced by specialized columnar epithelium containing intestinal-type goblet cells (intestinal metaplasia, IM). It is the only known precursor to [[esophageal-adenocarcinoma|esophageal adenocarcinoma]] (EAC), a cancer with rapidly increasing incidence over the past four decades. BE arises in the setting of chronic [[gerd|gastroesophageal reflux disease]]; 5–12% of patients with chronic [[gerd]] symptoms harbor BE.
 
 ---
 
@@ -95,7 +95,7 @@ The key severity variable is **dysplasia grade**, which determines both cancer r
 - **[[gerd]] without BE** — reflux symptoms without IM; Z-line irregularity <1 cm; no goblet cells on biopsy
 - **Cardiac-type (junctional) columnar metaplasia without IM** — columnar-lined esophagus without goblet cells; debated cancer risk; ACG does not classify as BE; no surveillance recommended
 - **[[eosinophilic-esophagitis]]** — proximal/mid-esophageal involvement, atopic features, eosinophil-predominant inflammation; does not predispose to EAC
-- **[[achalasia]]** — dysphagia to solids and liquids, regurgitation of undigested food; manometry shows absent peristalsis + impaired LES relaxation; esophageal squamous cell carcinoma risk (not EAC)
+- **[[achalasia]]** — [[dysphagia]] to solids and liquids, regurgitation of undigested food; manometry shows absent peristalsis + impaired LES relaxation; esophageal squamous cell carcinoma risk (not EAC)
 - **Esophageal inlet patch** — heterotopic gastric mucosa in the proximal esophagus (cervical inlet); distinct entity, not BE
 - **Candida/infectious esophagitis** — exudative plaques, odynophagia; mimics white plaques but no metaplasia on biopsy
 
@@ -156,7 +156,7 @@ The key severity variable is **dysplasia grade**, which determines both cancer r
 **ASGE 2019 advanced-imaging positions (GRADE):**
 
 - **Chromoendoscopy (dye-based or virtual/VC):** **Strongly recommended** in addition to white-light + Seattle protocol (moderate quality) — absolute dysplasia-detection increase 9%, relative increase ~30%; VC ≈ dye-based. Acetic acid sensitivity 96.6%, NBI/VC sensitivity 94.2%.
-- **Confocal laser endomicroscopy (CLE):** **Suggested against** routine use (conditional, low quality) — relative detection increase not statistically significant; high false-positive rate; endoscope-based CLE no longer available.
+- **[[confocal-laser-endomicroscopy|Confocal laser endomicroscopy]] (CLE):** **Suggested against** routine use (conditional, low quality) — relative detection increase not statistically significant; high false-positive rate; endoscope-based CLE no longer available.
 - **EUS for T1a vs T1b:** **Strongly recommended against** routine use to differentiate mucosal vs submucosal disease (moderate quality) — sensitivity only 41%, high false-positive rate; resection-based histology is the staging step.
 - **Volumetric laser endomicroscopy (VLE):** no recommendation (insufficient evidence).
 
@@ -181,7 +181,7 @@ The key severity variable is **dysplasia grade**, which determines both cancer r
   - Age >50 years
   - White race (reflects European ancestry genomics, a recognized limitation)
   - Tobacco smoking (current or past)
-  - Obesity (central/abdominal)
+  - [[obesity|Obesity]] (central/abdominal)
   - First-degree family history of BE or EAC
 
 **Alternative screening modality (acceptable):**

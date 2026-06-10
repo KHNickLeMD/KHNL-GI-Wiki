@@ -30,7 +30,7 @@ Semaglutide is a glucagon-like peptide-1 receptor agonist (GLP-1 RA) — a long-
 
 | Brand | Route | Dose | Approved Indications |
 |---|---|---|---|
-| Wegovy | SC injection | 2.4 mg weekly | Chronic weight management (obesity/overweight + ≥1 comorbidity); CV risk reduction in obesity without T2DM (SELECT); **MASH with moderate-to-advanced fibrosis F2–F3 (August 2025)** |
+| Wegovy | SC injection | 2.4 mg weekly | Chronic weight management ([[obesity]]/overweight + ≥1 comorbidity); CV risk reduction in obesity without T2DM (SELECT); **MASH with moderate-to-advanced fibrosis F2–F3 (August 2025)** |
 | Ozempic | SC injection | 0.5 mg, 1.0 mg, 2.0 mg weekly | T2DM glycemic control; CV risk reduction in T2DM + established CVD (SUSTAIN-6); CKD risk reduction in T2DM (FLOW, 2025) |
 | Rybelsus | Oral tablet | 3 mg, 7 mg, 14 mg daily | T2DM glycemic control |
 
@@ -62,7 +62,7 @@ Semaglutide (Wegovy, 2.4 mg/week SC) received **accelerated FDA approval in Augu
 
 ### Patient Selection (AASLD 2025 Guidance)
 
-**Liver biopsy is NOT routinely required** for semaglutide candidacy. NIT-based approach is preferred. [[aasld-2025-semaglutide-mash]]
+**[[liver-biopsy|Liver biopsy]] is NOT routinely required** for semaglutide candidacy. NIT-based approach is preferred. [[aasld-2025-semaglutide-mash]]
 
 **Sequential NIT strategy — flowchart:**
 
@@ -97,7 +97,7 @@ flowchart TD
 | ELF score | 9.2–10.5 | 10.5–11.3 | >11.3 |
 | Liver histology | MASH F2–F3 (biopsy ≤6–12 months) | | Cirrhosis |
 
-For VCTE 15–20 kPa, MRE 4.4–5 kPa, or ELF 10.5–11.3: individualized treatment decision based on exclusion of cirrhosis with confirmatory NIT, cross-sectional imaging (no nodular liver contour or portal hypertension signs), or platelet count ≥150,000/mm³.
+For VCTE 15–20 kPa, MRE 4.4–5 kPa, or ELF 10.5–11.3: individualized treatment decision based on exclusion of cirrhosis with confirmatory NIT, cross-sectional imaging (no nodular liver contour or [[portal-hypertension|portal hypertension]] signs), or platelet count ≥150,000/mm³.
 
 **Alcohol assessment required:** AUDIT-C + PEth before initiation; decisions individualized for MetALD range; enroll in clinical trials where possible.
 
@@ -156,9 +156,9 @@ For VCTE 15–20 kPa, MRE 4.4–5 kPa, or ELF 10.5–11.3: individualized treatm
 | Safety concern | Monitoring | Clinical action |
 |---|---|---|
 | Acute kidney injury (AKI) | Serum creatinine + eGFR at baseline, during initiation and titration; higher risk with vomiting, diarrhea, dehydration | Ensure adequate hydration; hold or reduce dose during significant GI intolerance; reassess renal function until recovery |
-| Acute pancreatitis | Monitor for severe, persistent abdominal pain (± vomiting); check amylase/lipase if symptomatic | Discontinue immediately if suspected; avoid rechallenge after confirmed episode; contraindicated with history of pancreatitis |
+| [[acute-pancreatitis|Acute pancreatitis]] | Monitor for severe, persistent abdominal pain (± vomiting); check amylase/lipase if symptomatic | Discontinue immediately if suspected; avoid rechallenge after confirmed episode; contraindicated with history of pancreatitis |
 | Gallbladder disease (cholelithiasis/cholecystitis) | Monitor for right upper quadrant pain or biliary colic; RUQUS if symptomatic | Educate patients on biliary symptoms; caution in patients with history of gallbladder disease; 37% increased risk per meta-analysis (76 RCTs, n=103,371) |
-| Thyroid C-cell tumors (MTC risk) | Review history of MTC/MEN2; monitor for neck mass, hoarseness, dysphagia | Contraindicated in MTC/MEN2; educate on symptoms; routine calcitonin testing NOT required; no conclusive human evidence for MTC causation |
+| Thyroid C-cell tumors (MTC risk) | Review history of MTC/MEN2; monitor for neck mass, hoarseness, [[dysphagia]] | Contraindicated in MTC/MEN2; educate on symptoms; routine calcitonin testing NOT required; no conclusive human evidence for MTC causation |
 | Hypoglycemia (with insulin/secretagogues) | Monitor glucose in patients on insulin or sulfonylureas; 7.4% vs. 5.4% in ESSENCE (T2DM) | Adjust insulin/sulfonylurea dose; educate on hypoglycemia recognition; higher risk post-bariatric surgery |
 | Heart rate increase (chronotropic effect) | Check pulse periodically; ask about palpitations or tachycardia | Caution in arrhythmia-prone patients; reassess if persistent tachycardia |
 | [[gastroparesis]]/delayed gastric emptying | Evaluate baseline gastric motility in at-risk patients; monitor for early satiety, vomiting, retained food | Avoid in severe [[gastroparesis]]; consider gastric emptying evaluation if symptoms persist; retrospective incidence 6.5/1000 person-years |
@@ -193,7 +193,7 @@ For VCTE 15–20 kPa, MRE 4.4–5 kPa, or ELF 10.5–11.3: individualized treatm
 
 ## Concomitant Use
 
-- **Resmetirom:** Combination not formally studied at semaglutide 2.4 mg/week; MAESTRO-NASH subgroup data shows similar MASH resolution/fibrosis improvement when GLP-1 RAs were taken alongside resmetirom; no notable safety differences; relative efficacy not established [[aasld-2025-semaglutide-mash]]
+- **[[resmetirom|Resmetirom]]:** Combination not formally studied at semaglutide 2.4 mg/week; MAESTRO-NASH subgroup data shows similar MASH resolution/fibrosis improvement when GLP-1 RAs were taken alongside resmetirom; no notable safety differences; relative efficacy not established [[aasld-2025-semaglutide-mash]]
 - **Lifestyle modification:** Cornerstone of MASLD/MASH management — should be maintained regardless of pharmacotherapy status
 - **Vitamin E (≥800 IU/day) and pioglitazone:** Both were excluded from ESSENCE eligibility criteria, suggesting uncertainty about interaction
 

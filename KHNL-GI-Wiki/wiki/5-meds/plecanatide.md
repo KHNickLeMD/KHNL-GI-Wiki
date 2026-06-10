@@ -21,7 +21,7 @@ Guanylate cyclase-C agonist; uroguanylin analog (more pH-sensitive than [[linacl
 
 ## Adverse Effects
 
-- Diarrhea (less than linaclotide in some comparisons)
+- Diarrhea (less than [[linaclotide]] in some comparisons)
 - Contraindicated in pediatric <6y
 
 ## Place in Therapy

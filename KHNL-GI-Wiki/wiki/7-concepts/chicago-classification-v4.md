@@ -9,7 +9,7 @@ sources: [chicago-v4-2021-esophageal-dysmotility, acg-2020-esophageal-physiologi
 
 ## Overview
 
-Chicago Classification v4.0 (CC v4.0) is the international consensus framework for interpreting high-resolution manometry (HRM) and classifying esophageal motility disorders. It is the successor to CC v3.0 and was published in 2021 (Yadlapati et al., Neurogastroenterol Motil). All HRM diagnoses in the wiki use CC v4.0 nomenclature.
+Chicago Classification v4.0 (CC v4.0) is the international consensus framework for interpreting [[high-resolution-manometry|high-resolution manometry (HRM)]] and classifying esophageal motility disorders. It is the successor to CC v3.0 and was published in 2021 (Yadlapati et al., Neurogastroenterol Motil). All HRM diagnoses in the wiki use CC v4.0 nomenclature.
 
 Key advances over v3.0:
 
@@ -60,9 +60,9 @@ Elevated IRP (above these thresholds) = impaired EGJ relaxation = potential obst
 
 | Disorder | IRP | Peristalsis | Key Criteria |
 |----------|-----|-------------|--------------|
-| **Achalasia Type I** | Elevated | 100% failed (aperistalsis) | No pressurization |
+| **[[achalasia|Achalasia]] Type I** | Elevated | 100% failed (aperistalsis) | No pressurization |
 | **Achalasia Type II** | Elevated | ≥20% panesophageal pressurization | Most common type; best response to therapy |
-| **Achalasia Type III** | Elevated | ≥20% premature/spastic contractions | Spastic; may respond to POEM over dilation |
+| **Achalasia Type III** | Elevated | ≥20% premature/spastic contractions | Spastic; may respond to [[poem|POEM]] over dilation |
 | **EGJOO** | Elevated | Some preserved peristalsis | See EGJOO section below |
 
 ### Tier 2: Disorders of Peristalsis (Normal IRP)
@@ -70,9 +70,9 @@ Elevated IRP (above these thresholds) = impaired EGJ relaxation = potential obst
 | Disorder | Diagnostic Criteria |
 |----------|-------------------|
 | **Absent contractility** | Normal IRP + 100% failed peristalsis; scleroderma pattern; exclude achalasia |
-| **Distal esophageal spasm (DES)** | ≥20% premature contractions (DL <4.5 s) with DCI ≥450; normal IRP |
-| **Hypercontractile esophagus (Jackhammer)** | ≥20% hypercontractile swallows (DCI >8,000); EGJ obstruction excluded |
-| **Ineffective esophageal motility (IEM)** | >70% ineffective swallows (failed or weak), OR ≥50% failed swallows |
+| **[[distal-esophageal-spasm|Distal esophageal spasm]] (DES)** | ≥20% premature contractions (DL <4.5 s) with DCI ≥450; normal IRP |
+| **[[hypercontractile-esophagus|Hypercontractile esophagus]] (Jackhammer)** | ≥20% hypercontractile swallows (DCI >8,000); EGJ obstruction excluded |
+| **[[ineffective-esophageal-motility|Ineffective esophageal motility]] (IEM)** | >70% ineffective swallows (failed or weak), OR ≥50% failed swallows |
 
 ### Normal Motility
 
@@ -87,8 +87,8 @@ All metrics within normal ranges; no criteria for above disorders met.
 A clinical EGJOO diagnosis requires ALL of:
 
 1. Elevated IRP (meeting manufacturer threshold) with preserved peristalsis
-2. Supportive symptoms (dysphagia or non-cardiac chest pain [NCCP])
-3. Positive ancillary testing: timed barium esophagram (TBE) showing retained contrast at 5 min, OR FLIP panometry showing elevated EGJ distensibility plateau
+2. Supportive symptoms ([[dysphagia]] or non-cardiac chest pain [NCCP])
+3. Positive ancillary testing: timed barium esophagram (TBE) showing retained contrast at 5 min, OR [[flip-panometry|FLIP panometry]] showing elevated EGJ distensibility plateau
 
 Without #2 and #3, the manometric finding is documented but the clinical entity is not diagnosed — no treatment indicated. This prevents over-treatment of manometric artifacts.
 

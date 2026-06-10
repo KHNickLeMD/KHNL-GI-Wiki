@@ -13,7 +13,7 @@ Cholangiocarcinoma (CCA) is an adenocarcinoma arising from the biliary epitheliu
 
 ### Establishing the Diagnosis
 
-CCA most often presents as a [[biliary-stricture|biliary stricture]] of undetermined etiology. Because benign mimics (`[[primary-sclerosing-cholangitis|PSC]]`, IgG4-related cholangitis, fibrotic strictures, [[chronic-pancreatitis|chronic pancreatitis]]) look similar radiographically, **tissue acquisition is required**. The risk of malignancy in a biliary stricture without an obvious mass on cross-sectional imaging is ~55%. Endoscopic sampling is preferred over percutaneous (external drain, needle-track seeding) or surgical approaches. All cross-sectional imaging should be reviewed and the patient discussed at a multidisciplinary tumor board.
+CCA most often presents as a [[biliary-stricture|biliary stricture]] of undetermined etiology. Because benign mimics (`[[primary-sclerosing-cholangitis|PSC]]`, IgG4-related cholangitis, fibrotic strictures, [[chronic-pancreatitis|chronic pancreatitis]]) look similar radiographically, **tissue acquisition is required**. The risk of malignancy in a [[biliary-stricture|biliary stricture]] without an obvious mass on cross-sectional imaging is ~55%. Endoscopic sampling is preferred over percutaneous (external drain, needle-track seeding) or surgical approaches. All cross-sectional imaging should be reviewed and the patient discussed at a multidisciplinary tumor board.
 
 ### Classification / Typing
 
@@ -27,18 +27,18 @@ Pancreatic adenocarcinoma, gallbladder cancer, ampullary cancer, [[hepatocellula
 
 ## Diagnostics
 
-Per the ASGE guideline on malignancy in biliary strictures of undetermined etiology (`[[asge-2023-indeterminate-biliary-strictures]]`), endoscopic tissue acquisition centers on [[ercp|ERCP]]-based sampling supplemented by [[cholangioscopy|cholangioscopy]] and [[endoscopic-ultrasound|EUS]]:
+Per the ASGE guideline on malignancy in biliary strictures of undetermined etiology (`[[asge-2023-indeterminate-biliary-strictures]]`), endoscopic tissue acquisition centers on [[ercp|ERCP]]-based sampling supplemented by [[cholangioscopy]] and [[endoscopic-ultrasound|EUS]]:
 
 | Modality | Sensitivity | Role |
 |---|---|---|
 | [[brush-cytology|Brush cytology]] | ~0.40 alone | Baseline first-line; low sensitivity, high specimen adequacy |
-| Fluoroscopic-guided forceps biopsy | ~0.52 alone; ~0.66 with brushings | ASGE suggests **adding** to brush cytology (incremental yield ~20%); best at expert centers |
-| [[cholangioscopy|Cholangioscopy]]-guided biopsy | ERCP+cholangioscopy ~0.72 vs ~0.61 without | Suggested for **nondistal** strictures, prior nondiagnostic ERCP, expert centers; suboptimal for very distal CBD |
+| Fluoroscopic-guided forceps biopsy | ~0.52 alone; ~0.66 with brushings | ASGE suggests **adding** to [[brush-cytology|brush cytology]] (incremental yield ~20%); best at expert centers |
+| [[cholangioscopy|Cholangioscopy]]-guided biopsy | [[ercp|ERCP]]+[[cholangioscopy]] ~0.72 vs ~0.61 without | Suggested for **nondistal** strictures, prior nondiagnostic ERCP, expert centers; suboptimal for very distal CBD |
 | [[endoscopic-ultrasound|EUS]]-FNA/FNB | EUS+ERCP ~0.88 vs ERCP alone ~0.61 | Suggested for **distal** strictures, prior nondiagnostic ERCP, or nodal/metastatic disease |
 | [[fish|FISH]] | adds ~20% absolute | Adjunct to brushings; relatively higher role in [[primary-sclerosing-cholangitis|PSC]] |
 | [[confocal-laser-endomicroscopy|pCLE]] / IDUS | pCLE ~90% sens, NPV ~94% | Adjuncts; no formal recommendation |
 
-**Critical caution — hilar/perihilar CCA and liver transplantation:** EUS-FNA/FNB of a **hilar biliary mass** carries a needle-track / transperitoneal seeding risk that can exclude a patient from [[liver-transplantation|liver transplantation]] (the only potentially curative option for many perihilar CCA patients). If EUS is performed for a proximal/hilar stricture, the endosonographer should **not** sample the biliary mass itself; EUS-FNA of regional lymph nodes is acceptable (a positive node is already a transplant contraindication). All three ASGE recommendations are conditional with very low quality of evidence.
+**Critical caution — hilar/perihilar CCA and [[liver-transplantation|liver transplantation]]:** EUS-FNA/FNB of a **hilar biliary mass** carries a needle-track / transperitoneal seeding risk that can exclude a patient from [[liver-transplantation|liver transplantation]] (the only potentially curative option for many perihilar CCA patients). If EUS is performed for a proximal/hilar stricture, the endosonographer should **not** sample the biliary mass itself; EUS-FNA of regional lymph nodes is acceptable (a positive node is already a transplant contraindication). All three ASGE recommendations are conditional with very low quality of evidence.
 
 ## Therapeutics
 

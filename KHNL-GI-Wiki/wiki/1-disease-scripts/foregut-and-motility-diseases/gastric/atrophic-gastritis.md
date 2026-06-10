@@ -33,7 +33,7 @@ Intestinal metaplasia on gastric histopathology almost invariably implies underl
 
 **Clinical presentation:**
 
-- Typically asymptomatic or nonspecific (dyspepsia, early satiety, epigastric discomfort)
+- Typically asymptomatic or nonspecific ([[dyspepsia]], early satiety, epigastric discomfort)
 - Manifestations of micronutrient deficiency: fatigue, pallor (iron deficiency or B-12 deficiency), glossitis, peripheral neuropathy, macrocytic anemia
 - Pernicious anemia (PA) = late-stage AIG: macrocytic anemia + B-12 deficiency ± subacute combined degeneration
 
@@ -57,7 +57,7 @@ AG severity and extent determine gastric cancer risk. Two validated staging syst
 - Histopathologic severity of atrophy (score 0–3) in antrum/incisura and corpus
 - OLGA Stages III–IV = significantly elevated gastric cancer risk → surveillance indicated
 
-**OLGIM (Operative Link for Gastric Intestinal Metaplasia Assessment):**
+**OLGIM (Operative Link for [[gastric-intestinal-metaplasia|Gastric Intestinal Metaplasia]] Assessment):**
 
 - Uses IM extent as surrogate for atrophy severity
 - Similar prognostic value to OLGA; better interobserver reproducibility
@@ -76,7 +76,7 @@ AG severity and extent determine gastric cancer risk. Two validated staging syst
 | Atrophy distribution | Antrum-dominant, expands proximally | Corpus/fundus dominant, antral sparing |
 | Serologic markers | H. pylori antibodies | PCA (sensitive), IFA (specific) |
 | Acid secretion | Variable | Hypochlorhydria/achlorhydria |
-| Main cancer risk | Gastric adenocarcinoma | Gastric adenocarcinoma + type I NETs |
+| Main cancer risk | [[gastric-adenocarcinoma|Gastric adenocarcinoma]] | Gastric adenocarcinoma + type I NETs |
 | Associated conditions | H. pylori infection | Autoimmune thyroid disease, T1DM, Addison's |
 
 ---

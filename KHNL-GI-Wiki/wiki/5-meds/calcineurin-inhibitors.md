@@ -9,7 +9,7 @@ sources: [aasld-2012-liver-transplant-long-term, aasld-ast-2025-liver-transplant
 
 ## Overview
 
-Calcineurin inhibitors (CNIs) — primarily [[tacrolimus]] (TAC) and cyclosporine (CSA) — are the backbone of maintenance immunosuppression in solid organ transplantation. They inhibit calcineurin, blocking IL-2 transcription and T-lymphocyte proliferation. CNI nephrotoxicity is the primary driver of chronic kidney disease (CKD) after liver transplantation. See [[liver-transplantation]] for full post-transplant management context.
+Calcineurin inhibitors (CNIs) — primarily [[tacrolimus]] (TAC) and cyclosporine (CSA) — are the backbone of maintenance immunosuppression in solid organ transplantation. They inhibit calcineurin, blocking IL-2 transcription and T-lymphocyte proliferation. CNI nephrotoxicity is the primary driver of chronic kidney disease (CKD) after [[liver-transplantation|liver transplantation]]. See [[liver-transplantation]] for full post-transplant management context.
 
 ## Agents
 
@@ -22,7 +22,7 @@ Calcineurin inhibitors (CNIs) — primarily [[tacrolimus]] (TAC) and cyclosporin
 
 ### Cyclosporine (CSA)
 
-- Alternative to tacrolimus; less DM but more HTN, dyslipidemia, hirsutism, gingival hyperplasia
+- Alternative to [[tacrolimus]]; less DM but more HTN, dyslipidemia, hirsutism, gingival hyperplasia
 - Dosing: 2 mg/kg PO twice daily, adjusted to trough
 - Trough targets: 250–300 ng/mL (C0, first 3 months); 100–250 ng/mL (month 3 onward)
 - Direct antiviral interactions: sofosbuvir, glecaprevir, voxilaprevir (increased CSA levels)

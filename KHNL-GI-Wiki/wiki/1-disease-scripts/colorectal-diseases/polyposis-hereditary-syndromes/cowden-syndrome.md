@@ -25,10 +25,10 @@ Cowden syndrome (CS), also called PTEN hamartoma tumor syndrome (PHTS), is cause
 
 **GI findings** [[acg-2015-hereditary-gi-cancer]]:
 
-- Colonic polyps found in up to 95% of CS patients undergoing [[colonoscopy|colonoscopy]]; polyps are few to numerous (even hundreds); distributed throughout the colon
+- Colonic polyps found in up to 95% of CS patients undergoing [[colonoscopy]]; polyps are few to numerous (even hundreds); distributed throughout the colon
 - Hamartomatous polyps are the most common histologic type (~29% in one study); also juvenile polyps, ganglioneuromas, adenomas, inflammatory polyps, leiomyomas, lipomas, and lymphoid polyps
 - **Diffuse esophageal glycogenic acanthosis** — a frequent and potentially pathognomonic finding; diffuse lesions observed in ≥80% of PHTS patients; should be considered pathognomonic when combined with colonic polyposis
-- Multiple synchronous colonic histologic types at colonoscopy are common
+- Multiple synchronous colonic histologic types at [[colonoscopy]] are common
 
 ### Cancer Risk Profile
 

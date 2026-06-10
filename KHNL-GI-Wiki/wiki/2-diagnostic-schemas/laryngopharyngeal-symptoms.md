@@ -19,7 +19,7 @@ sources: [san-diego-2025-lprd]
 
 - Cough (89%), regurgitation (89%), throat pain/sore throat (89%), throat clearing (86%), excess throat phlegm (82%), hoarseness/voice change (80%)
 - Globus: approaches but did not meet threshold; warrants evaluation and is often a negative predictor of reflux physiology
-- NOT recognized as LPS: tongue burning, nasal burning, post-nasal drip, halitosis, belching, dysphagia
+- NOT recognized as LPS: tongue burning, nasal burning, post-nasal drip, halitosis, belching, [[dysphagia]]
 
 ---
 
@@ -75,7 +75,7 @@ LPS can be caused by multiple mechanisms — reflux is one of several:
 1. **Empiric trial:** PPI BID × 3 months + alginate therapy (4×/day: after meals + bedtime) + lifestyle modification
    - Lifestyle: weight loss, upright posture 2–3h post-meals, head of bed elevation, left lateral sleep, avoid triggers
 2. **If responsive:** Confirms LPRD contribution; consider long-term management with objective testing before permanent therapy
-3. **If unresponsive:** Proceed to esophageal evaluation ([[upper-endoscopy|EGD]] + ambulatory reflux monitoring)
+3. **If unresponsive:** Proceed to esophageal evaluation ([[upper-endoscopy|EGD]] + [[ambulatory-reflux-monitoring|ambulatory reflux monitoring]])
 
 #### Branch B: Isolated LPS (No Esophageal Symptoms)
 
@@ -86,7 +86,7 @@ LPS can be caused by multiple mechanisms — reflux is one of several:
 
 **Upper GI endoscopy (EGD):**
 
-- Conclusive GERD evidence: LA grade B, C, D esophagitis or biopsy-proven [[barretts-esophagus|Barrett's esophagus]]
+- Conclusive [[gerd|GERD]] evidence: LA grade B, C, D esophagitis or biopsy-proven [[barretts-esophagus|Barrett's esophagus]]
 - Adjunctive evidence: hiatal hernia, disrupted EGJ
 - Up to 47% of LPS patients have erosive findings and/or hiatal hernia on EGD
 - Transnasal esophagoscopy (TNE): acceptable alternative if performed by trained provider
@@ -130,7 +130,7 @@ LPS can be caused by multiple mechanisms — reflux is one of several:
 ## Red Flags / Alarm Features
 
 - Hoarseness lasting >4–6 weeks, especially in smoker or >50 years → urgent laryngoscopy to exclude malignancy
-- Dysphagia, odynophagia, weight loss → EGD to exclude esophageal cancer/stricture
+- Dysphagia, odynophagia, weight loss → EGD to exclude [[esophageal-cancer|esophageal cancer]]/stricture
 - Hemoptysis → pulmonary evaluation
 - Rapidly progressive stridor or airway compromise → emergent evaluation
 - Failure of LPS to respond to any therapy → revisit laryngoscopy and consider malignancy, autoimmune disease, or neurologic etiology

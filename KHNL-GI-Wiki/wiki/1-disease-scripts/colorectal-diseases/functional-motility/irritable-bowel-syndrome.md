@@ -54,8 +54,8 @@ Subtypes by Bristol Stool Form Scale **on days with abnormal stools** (assess of
 - [[clostridioides-difficile]] / [[postinfectious-ibs|postinfection IBS]] (Giardia, [[campylobacter-infection|Campylobacter]]) — selective testing
 - [[chronic-idiopathic-constipation]] — distinguished from IBS-C by absence of pain dominance
 - [[defecation-disorders]] — anorectal dyssynergia may mimic IBS-C; ARM + BET if pelvic floor symptoms or refractory
-- Microscopic colitis — older women, watery diarrhea, normal endoscopy with random biopsies
-- Bile acid diarrhea — consider in IBS-D non-responders
+- [[microscopic-colitis|Microscopic colitis]] — older women, watery diarrhea, normal endoscopy with random biopsies
+- [[bile-acid-diarrhea|Bile acid diarrhea]] — consider in IBS-D non-responders
 - Lactose/fructose intolerance, food intolerances
 
 ---
@@ -77,7 +77,7 @@ Subtypes by Bristol Stool Form Scale **on days with abnormal stools** (assess of
 
 - [[anorectal-manometry]] + BET ± defecography in IBS-C/M with pelvic floor signs or refractory constipation
 - Bile acid diarrhea testing (SeHCAT — limited US availability; serum C4 or fecal bile acids)
-- Breath testing (lactose, fructose, [[small-intestinal-bacterial-overgrowth|SIBO]]) — ACG 2020 SIBO guideline suggests glucose or lactulose H₂ breath test in IBS patients (Conditional/Very Low); up to 78% of IBS subjects may have SIBO by meta-analysis; [[rifaximin|rifaximin]] IBS-D efficacy may be partly mediated by SIBO/microbiome dysbiosis
+- Breath testing (lactose, fructose, [[small-intestinal-bacterial-overgrowth|SIBO]]) — ACG 2020 SIBO guideline suggests glucose or lactulose H₂ breath test in IBS patients (Conditional/Very Low); up to 78% of IBS subjects may have SIBO by meta-analysis; [[rifaximin]] IBS-D efficacy may be partly mediated by SIBO/microbiome dysbiosis
 
 **Alarm features warranting workup**: hematochezia/melena, unintentional weight loss, onset >50, family history of IBD/CRC/celiac, nocturnal symptoms, anemia.
 
@@ -96,19 +96,19 @@ Subtypes by Bristol Stool Form Scale **on days with abnormal stools** (assess of
 | Antispasmodics (global symptoms) | Against (Conditional/Low) |
 | **TCAs** (amitriptyline 50–100, desipramine 25–100, nortriptyline 25–75) | Strong/Moderate |
 | **Gut-directed psychotherapy** (CBT, hypnotherapy, mindfulness) | Conditional/VLow |
-| Probiotics | Against (Conditional/VLow) |
+| [[probiotics|Probiotics]] | Against (Conditional/VLow) |
 | **FMT** | Strong AGAINST (Strong/VLow) |
 
 ### IBS-C
 
 - **[[lubiprostone|Lubiprostone]]** 8 µg BID — chloride channel activator (Strong/Moderate)
-- **[[linaclotide|Linaclotide]]** 290 µg daily, **[[plecanatide|plecanatide]]** 3 or 6 mg daily — GC-C agonists (Strong/High)
+- **[[linaclotide|Linaclotide]]** 290 µg daily, **[[plecanatide]]** 3 or 6 mg daily — GC-C agonists (Strong/High)
 - **Tegaserod** 6 mg BID — 5-HT4 agonist; women <65 with ≤1 CV risk factor failing secretagogues (Strong/conditional/Low)
 - **Against** PEG for global IBS-C (helps stool form only)
 
 ### IBS-D
 
-- **Rifaximin** 550 mg TID × 14 days (Strong/Moderate); up to 2 retreatments allowed for symptom recurrence
+- **[[rifaximin|Rifaximin]]** 550 mg TID × 14 days (Strong/Moderate); up to 2 retreatments allowed for symptom recurrence
 - **Alosetron** — women with severe IBS-D failing standard therapy (Conditional/Low); REMS due to [[colon-ischemia|ischemic colitis]]
 - **Eluxadoline** 100 mg BID (Conditional/Moderate); **contraindicated post-cholecystectomy** (pancreatitis risk)
 - **Against** bile-acid sequestrants for global IBS-D symptoms (Conditional/VLow)

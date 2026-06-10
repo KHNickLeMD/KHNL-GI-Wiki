@@ -25,7 +25,7 @@ Pancreatic cysts are a heterogeneous group of lesions, most detected incidentall
 - Estimated malignancy probability at time of imaging: 0.25% (SEER database); conversion rate to invasive cancer: 0.24% per year
 
 ![[pancreatic-cysts-2018-approach-algorithm-05.png|700x512]]
-*Figure 1 — Approach to a patient with a pancreatic cyst. EUS, endoscopic ultrasound; FNA, fine-needle aspiration; IPMN, intraductal papillary mucinous neoplasm; MCN, mucinous cystic neoplasm. ([[acg-2018-pancreatic-cysts]])*
+*Figure 1 — Approach to a patient with a pancreatic cyst. EUS, [[endoscopic-ultrasound|endoscopic ultrasound]]; FNA, fine-needle aspiration; IPMN, intraductal papillary mucinous neoplasm; MCN, mucinous cystic neoplasm. ([[acg-2018-pancreatic-cysts]])*
 
 **Initial questions:**
 
@@ -39,7 +39,7 @@ Pancreatic cysts are a heterogeneous group of lesions, most detected incidentall
 - **MRI/MRCP:** First-line. Non-invasive, no radiation, superior accuracy for assessing MPD communication (key for IPMN classification) and for detecting mural nodules. Detection rate 19.9% vs. 1.2–2.6% with CT. (Conditional/VLow)
 - **CT (pancreatic protocol):** Excellent alternative when MRI not possible. Accuracy 71–80% for benign vs. malignant. Good for calcifications and vascular involvement.
 - **EUS:** Not first-line for small, clearly benign cysts. Higher resolution than cross-sectional imaging; more accurate for mural nodule detection; enables FNA. Sensitivity 86–96% for malignant vs. benign; specificity 30–99%. Favored when FNA/fluid analysis needed. (Conditional/VLow)
-- **ERCP:** No longer recommended for routine cyst diagnosis or surveillance; limited role in evaluation of main duct IPMN. See [[ercp]].
+- **[[ercp|ERCP]]:** No longer recommended for routine cyst diagnosis or surveillance; limited role in evaluation of main duct IPMN. See [[ercp]].
 - **PET-CT:** Insufficient evidence to support routine use.
 - **Secretin-MRCP:** Visualizes MPD communication in only 5% additional patients beyond standard MRCP; marginal added value.
 
@@ -70,7 +70,7 @@ Pancreatic cysts are a heterogeneous group of lesions, most detected incidentall
   - **Main duct IPMN:** Less common; higher malignancy risk; 38–68% of resected main duct IPMNs harbor high-grade dysplasia or cancer; patulous ampullary orifice ("fish-mouth" ampulla) in ~50%
   - **Mixed IPMN:** Combines side-branch + main duct involvement; cancer risk similar to main duct
 - Aspirate: high CEA, high amylase
-- Clinical note: IPMNs are also at risk for "concomitant" pancreatic cancer (separate from the cyst) — 2% at 17 years in a large multicenter study; evaluate the entire parenchyma on imaging
+- Clinical note: IPMNs are also at risk for "concomitant" [[pancreatic-cancer|pancreatic cancer]] (separate from the cyst) — 2% at 17 years in a large multicenter study; evaluate the entire parenchyma on imaging
 
 **Mucinous Cystic Neoplasm (MCN)**
 
@@ -114,8 +114,8 @@ Pancreatic cysts are a heterogeneous group of lesions, most detected incidentall
 
 *Symptoms/signs:*
 
-- Jaundice secondary to the cyst
-- Acute pancreatitis secondary to the cyst
+- [[jaundice|Jaundice]] secondary to the cyst
+- [[acute-pancreatitis|Acute pancreatitis]] secondary to the cyst
 - Significantly elevated serum CA 19-9 (no benign cause found)
   - CA 19-9 >37 U/mL: pooled sensitivity 40%, specificity 89%, OR 4.34 for high-grade dysplasia/cancer
 
@@ -216,7 +216,7 @@ Indicated when diagnosis is unclear and results are likely to alter management. 
 **Antibiotics for EUS-FNA of pancreatic cysts:**
 
 - NOT routinely recommended (RCT showed no difference in infection with vs. without antibiotics) — see [[endoscopic-ultrasound]] quality standards
-- Consider in: immunosuppressed patients, multiple comorbidities, incomplete cyst aspiration, ascites
+- Consider in: immunosuppressed patients, multiple comorbidities, incomplete cyst aspiration, [[ascites]]
 
 ### Cyst Ablation
 

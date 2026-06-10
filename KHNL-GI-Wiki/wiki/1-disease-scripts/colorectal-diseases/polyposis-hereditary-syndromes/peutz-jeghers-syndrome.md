@@ -56,13 +56,13 @@ Overall risk of developing any cancer by age: 1% (age 20), 3% (age 30), 19% (age
 | Testicular (SCTAT) | <1% | 9% | Birth–teenage |
 | Lung | 6.9% | 7–17% | 47 |
 
-SCTAT = sex cord tumor with annular tubules; ~20% become malignant. PJS is associated with the highest relative risk of pancreatic cancer of any hereditary syndrome (up to 132-fold).
+SCTAT = sex cord tumor with annular tubules; ~20% become malignant. PJS is associated with the highest relative risk of [[pancreatic-cancer|pancreatic cancer]] of any hereditary syndrome (up to 132-fold).
 
 ---
 
 ## Differential Diagnosis
 
-- **Juvenile polyposis syndrome** ([[juvenile-polyposis-syndrome]]) — juvenile polyps lack arborizing muscularis pattern; SMAD4/BMPR1A
+- **[[juvenile-polyposis-syndrome|Juvenile polyposis syndrome]]** ([[juvenile-polyposis-syndrome]]) — juvenile polyps lack arborizing muscularis pattern; SMAD4/BMPR1A
 - **[[familial-adenomatous-polyposis]]** — adenomatous polyps, not hamartomas; APC gene
 - **[[cowden-syndrome]]** — PTEN hamartomas; macrocephaly; no mucocutaneous pigmentation
 - **Hereditary mixed polyposis syndrome** — mixed polyp types; GREM1
@@ -78,9 +78,9 @@ SCTAT = sex cord tumor with annular tubules; ~20% become malignant. PJS is assoc
 **Initial baseline evaluation at age 8** [[acg-2015-hereditary-gi-cancer]] (Table 10):
 
 - **[[colonoscopy|Colonoscopy]]** (age 8; if polyps → repeat q3y; if none → repeat at age 18 then q3y)
-- **[[upper-endoscopy|EGD]]/Esophagogastroduodenoscopy** (age 8; same surveillance schedule as colonoscopy)
+- **[[upper-endoscopy|EGD]]/Esophagogastroduodenoscopy** (age 8; same surveillance schedule as [[colonoscopy]])
 - **Video [[capsule-endoscopy|capsule endoscopy]]** of small bowel (age 8; repeat q3y)
-- MR enterography is accurate for detecting polyps ≥15 mm and provides more reproducible size assessment than capsule endoscopy; CT enterography detects polyps ≥1 cm but repeated X-ray exposure is problematic
+- MR enterography is accurate for detecting polyps ≥15 mm and provides more reproducible size assessment than [[capsule-endoscopy|capsule endoscopy]]; CT enterography detects polyps ≥1 cm but repeated X-ray exposure is problematic
 
 **Ongoing surveillance** [[acg-2015-hereditary-gi-cancer]]:
 

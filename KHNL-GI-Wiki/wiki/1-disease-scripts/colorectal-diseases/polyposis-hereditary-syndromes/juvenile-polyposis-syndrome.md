@@ -61,13 +61,13 @@ Juvenile polyposis syndrome (JPS) is an autosomal-dominant hamartomatous polypos
 
 **[[colonoscopy|Colonoscopy]]** — annually from age 12–15 (Conditional/VLow) [[acg-2015-hereditary-gi-cancer]]:
 
-- Annual colonoscopy beginning at age 12 years or earlier if symptoms (especially rectal bleeding)
+- Annual [[colonoscopy]] beginning at age 12 years or earlier if symptoms (especially rectal bleeding)
 - Repeat every 1–3 years depending on polyp burden; polyps ≥5 mm should be removed
 - Colonic polyps: 70% in proximal colon in one study
 
 **[[upper-endoscopy|EGD]]** — annually from age 12–15:
 
-- Upper endoscopy starting age 12 or earlier depending on symptoms
+- [[upper-endoscopy|Upper endoscopy]] starting age 12 or earlier depending on symptoms
 - Repeat every 1–3 years; small bowel past the duodenum should be periodically surveilled (enteroscopy, [[capsule-endoscopy|capsule endoscopy]], CT enterography) if duodenal polyposis is present or unexplained anemia, protein-losing enteropathy, or other small bowel symptoms are present
 
 **Complete blood count** — annually for anemia surveillance

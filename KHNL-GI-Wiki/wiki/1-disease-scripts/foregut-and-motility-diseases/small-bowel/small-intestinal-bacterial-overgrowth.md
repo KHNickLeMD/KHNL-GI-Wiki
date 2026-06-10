@@ -11,7 +11,7 @@ sources: [acg-2020-sibo]
 
 SIBO is a clinical syndrome of GI symptoms caused by the presence of excessive numbers of bacteria within the small intestine. The normal small bowel maintains relative sterility compared to the colon; SIBO represents a significant disruption of this balance. Bacteria are typically coliforms — predominantly Gram-negative aerobic and anaerobic species — that ferment carbohydrates, producing gas and short-chain fatty acids. SIBO is almost always an epiphenomenon of an underlying condition that leads to stasis, anatomic disruption, immune dysfunction, or altered motility in the small intestine. See [[acg-2020-sibo]].
 
-> **Note on IMO:** When methane is the predominant exhaled gas, the term **intestinal methanogen overgrowth (IMO)** is preferred, because methanogens are archaea (not bacteria). IMO is clinically associated with constipation rather than diarrhea. See [[intestinal-methanogen-overgrowth]].
+> **Note on IMO:** When methane is the predominant exhaled gas, the term **[[intestinal-methanogen-overgrowth|intestinal methanogen overgrowth (IMO)]]** is preferred, because methanogens are archaea (not bacteria). IMO is clinically associated with constipation rather than diarrhea. See [[intestinal-methanogen-overgrowth]].
 
 ---
 
@@ -25,7 +25,7 @@ SIBO is a clinical syndrome of GI symptoms caused by the presence of excessive n
 - Other symptoms: abdominal pain, flatulence, distension, diarrhea, nausea, abdominal cramping
 - IMO pattern: constipation predominant
 - Severe/structural SIBO: steatorrhea, weight loss, fat-soluble vitamin deficiencies (B12, D, iron); note that **folate may be elevated** (bacteria synthesize folate)
-- Symptoms are non-specific and overlap extensively with [[irritable-bowel-syndrome]], functional dyspepsia, and other [[disorders-of-gut-brain-interaction]]
+- Symptoms are non-specific and overlap extensively with [[irritable-bowel-syndrome]], functional [[dyspepsia]], and other [[disorders-of-gut-brain-interaction]]
 
 **Risk factor assessment (Table 4 from ACG 2020 — essential pre-test step):**
 
@@ -45,7 +45,7 @@ SIBO is a clinical syndrome of GI symptoms caused by the presence of excessive n
 - Gastric acid — kills most ingested bacteria
 - Pancreatic enzymes — digest bacterial products; efficient nutrient digestion leaves less substrate
 - Bile acids — detergent effect on bacterial membranes
-- Small bowel motility — migrating motor complex (MMC), especially phase III, sweeps bacteria toward colon during fasting
+- [[small-bowel-motility|Small bowel motility]] — migrating motor complex (MMC), especially phase III, sweeps bacteria toward colon during fasting
 - Ileocecal (IC) valve — prevents retrograde movement of colonic flora
 - Immune system — mucosal immunity maintains stable microbiota
 
@@ -73,13 +73,13 @@ No validated SIBO-specific patient-reported outcome (PRO) instrument currently e
 Symptoms of SIBO are non-specific. The differential includes:
 
 - [[irritable-bowel-syndrome]] — most important overlap; up to 78% of IBS patients may have SIBO by meta-analysis; IBS is both a risk factor for and a mimic of SIBO
-- [[celiac-disease]] — malabsorptive symptoms, diarrhea, bloating; SIBO prevalence in celiac disease similar to healthy subjects (lower than IBS)
+- [[celiac-disease]] — malabsorptive symptoms, diarrhea, bloating; SIBO prevalence in [[celiac-disease|celiac disease]] similar to healthy subjects (lower than IBS)
 - [[chronic-pancreatitis]] / exocrine pancreatic insufficiency — steatorrhea, malabsorption; pancreatic insufficiency is also a SIBO risk factor
-- Inflammatory bowel disease — [[crohns-disease]]: 16.8% in endoscopic remission have SIBO; postsurgical anatomy (ileocolonic anastomosis, ileocecal valve resection) increases risk
+- [[inflammatory-bowel-disease|Inflammatory bowel disease]] — [[crohns-disease]]: 16.8% in endoscopic remission have SIBO; postsurgical anatomy (ileocolonic anastomosis, ileocecal valve resection) increases risk
 - Functional dyspepsia — bloating, nausea; part of [[disorders-of-gut-brain-interaction]] spectrum
-- Microscopic colitis — chronic watery diarrhea
+- [[microscopic-colitis|Microscopic colitis]] — chronic watery diarrhea
 - Lactose/fructose intolerance — symptoms triggered by specific carbohydrates; breath testing can be confounded
-- Gastroparesis — delayed gastric emptying → altered small bowel motility; see [[gastroparesis]]
+- [[gastroparesis|Gastroparesis]] — delayed gastric emptying → altered small bowel motility; see [[gastroparesis]]
 - Intestinal pseudo-obstruction — Ogilvie syndrome, CIPO
 - Small bowel dysmotility from systemic disease (scleroderma, diabetes, amyloidosis)
 
@@ -166,7 +166,7 @@ Symptoms of SIBO are non-specific. The differential includes:
 
 Before initiating antibiotic therapy: make an objective effort to diagnose SIBO (breath test or culture). Consider CDI risk, antibiotic resistance, and adverse effects.
 
-**Preferred agent — Rifaximin (non-absorbable):**
+**Preferred agent — [[rifaximin|Rifaximin]] (non-absorbable):**
 
 - Dose: 550 mg t.i.d. (1,650 mg/day)
 - Duration: typically 14 days (trials ranged 5–28 days)
@@ -211,7 +211,7 @@ Before initiating antibiotic therapy: make an objective effort to diagnose SIBO 
 ### Probiotics
 
 - Not recommended as standard therapy
-- Meta-analysis: probiotics may reduce hydrogen production (OR 1.61, CI 1.19–2.17), but studies are small and of poor quality
+- Meta-analysis: [[probiotics]] may reduce hydrogen production (OR 1.61, CI 1.19–2.17), but studies are small and of poor quality
 - Controlled study showed probiotics can cause SIBO and D-lactic acidosis; antibiotic course + probiotic withdrawal → symptom resolution
 - Counterintuitive mechanism to introduce more bacteria into a state of bacterial excess
 

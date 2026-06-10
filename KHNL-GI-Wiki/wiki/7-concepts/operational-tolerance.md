@@ -36,7 +36,7 @@ Per [[aasld-2012-liver-transplant-long-term]] (Rec 9): withdrawal may be underta
 
 ## Practical Approach
 
-- A liver biopsy before consideration of withdrawal appears prudent
+- A [[liver-biopsy|liver biopsy]] before consideration of withdrawal appears prudent
 - IS withdrawal should only be undertaken in a closely monitored, highly selected group of long-term LT recipients
 - Prospective clinical trials are ongoing; participation preferred over unmonitored withdrawal
 - Severity of clinically silent liver allograft damage correlates positively with TCMR-related transcripts, class II DSA, ALT, AST, and liver stiffness measurement (Vionett et al.)

@@ -15,9 +15,9 @@ Endoscopic oncologists perform procedures across the GI tract with oncologic int
 
 - **Staging**: EUS-guided fine-needle aspiration/biopsy ([[endoscopic-ultrasound]]) for locoregional staging of esophageal, gastric, pancreatic, and rectal cancers; EUS-guided celiac plexus neurolysis for pain palliation
 - **Curative resection of superficial neoplasia**: Endoscopic submucosal dissection (ESD) and endoscopic mucosal resection (EMR; [[polypectomy-emr]]) for T1a/T1b lesions in the esophagus, stomach, duodenum, and colon
-- **Biliary and pancreatic interventions**: [[ercp|ERCP]]-based stenting, cholangioscopy with biopsy, EUS-guided biliary drainage for malignant obstruction
+- **Biliary and pancreatic interventions**: [[ercp|ERCP]]-based stenting, [[cholangioscopy]] with biopsy, EUS-guided biliary drainage for malignant obstruction
 - **Luminal palliation**: Self-expanding metal stents for malignant esophageal, gastric outlet, and colonic obstruction
-- **Ablation**: Radiofrequency ablation (RFA) for [[barretts-esophagus|Barrett's esophagus]] and early esophageal neoplasia; photodynamic therapy (historical)
+- **Ablation**: [[radiofrequency-ablation|Radiofrequency ablation (RFA)]] for [[barretts-esophagus|Barrett's esophagus]] and early esophageal neoplasia; photodynamic therapy (historical)
 
 ## Relationship to Other Subspecialties
 

@@ -35,14 +35,14 @@ Fibrosis staging before treatment to guide duration, regimen selection, and post
 | Tool | Cutoffs | Notes |
 |---|---|---|
 | FIB-4 | <1.30 = low fibrosis; >3.25 = advanced fibrosis/cirrhosis | Age/AST/ALT/platelet; calculated online |
-| VCTE (FibroScan) | ≥12.5 kPa = compensated cirrhosis | Aetiology-specific cutoffs; less reliable with obesity/elevated ALT |
-| Liver biopsy | Metavir F0–F4 | Rarely needed; use for diagnostic uncertainty |
+| VCTE (FibroScan) | ≥12.5 kPa = compensated cirrhosis | Aetiology-specific cutoffs; less reliable with [[obesity]]/elevated ALT |
+| [[liver-biopsy|Liver biopsy]] | Metavir F0–F4 | Rarely needed; use for diagnostic uncertainty |
 | Child-Pugh score | A/B/C | Decompensated = CTP ≥7 (score B or C); key regimen selection criterion |
 
 **Cirrhosis determination for treatment selection:**
 
 - Cirrhosis assumed if: liver stiffness >12.5 kPa, FIB-4 >3.25, noninvasive serologic test (FibroSure/ELF) positive, liver biopsy, liver nodularity/splenomegaly on imaging, or platelet <150,000/mm³
-- **Decompensated cirrhosis:** Child-Pugh ≥7 (presence of ascites, HE, total bilirubin >2.0 mg/dL, albumin ≤3.5 g/dL, or INR ≥1.7) — affects regimen selection (NS3/4A protease inhibitors contraindicated)
+- **Decompensated cirrhosis:** Child-Pugh ≥7 (presence of [[ascites]], HE, total bilirubin >2.0 mg/dL, albumin ≤3.5 g/dL, or INR ≥1.7) — affects regimen selection (NS3/4A protease inhibitors contraindicated)
 
 ---
 
@@ -63,7 +63,7 @@ Fibrosis staging before treatment to guide duration, regimen selection, and post
 | HCV antibody | Screening |
 | Quantitative HCV RNA | Confirm active infection; baseline viral load |
 | HCV genotype | Required for some non-pangenotypic regimens; NS5A RAS if GT3 + cirrhosis |
-| CBC | Baseline; thrombocytopenia suggests portal hypertension |
+| CBC | Baseline; thrombocytopenia suggests [[portal-hypertension|portal hypertension]] |
 | Comprehensive metabolic panel (AST, ALT, bilirubin, albumin, INR, creatinine) | Baseline hepatic function; Child-Pugh calculation |
 | FIB-4 or VCTE | Fibrosis staging |
 | HBsAg, anti-HBs, anti-HBc | Reactivation risk (HBsAg+: prophylactic NA; resolved HBV: monitor) |
@@ -92,7 +92,7 @@ Universal HCV treatment recommended for all persons with acute or chronic HCV in
 
 **Minimal monitoring (simplified algorithm):** No pretreatment genotyping; no scheduled on-treatment labs; remote contact at week 4 (adherence) and week 22 (SVR assessment at week 24).
 
-**Excluded from simplified algorithm:** Previously treated; HBsAg+; compensated cirrhosis + eGFR <30; decompensated cirrhosis; pregnancy; known/suspected HCC; prior liver transplantation.
+**Excluded from simplified algorithm:** Previously treated; HBsAg+; compensated cirrhosis + eGFR <30; decompensated cirrhosis; pregnancy; known/suspected HCC; prior [[liver-transplantation|liver transplantation]].
 
 ### Treatment-Naive With Decompensated Cirrhosis
 

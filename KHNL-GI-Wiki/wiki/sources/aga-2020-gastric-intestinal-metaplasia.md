@@ -22,7 +22,7 @@ This AGA clinical practice update provides the first formal US guideline recomme
 
 The guideline makes three GRADE recommendations. Most notably, it recommends *against* routine endoscopic surveillance of GIM due to low-quality evidence, favoring shared decision-making for high-risk patients. This positions the AGA 2020 guideline in tension with subsequent ACG (2025) and ESGE guidelines that recommend surveillance for high-risk GIM.
 
-The single highest-quality recommendation is [[test-and-treat|test-and-treat]] for H. pylori in all patients with GIM, supported by pooled data showing a 32% relative risk reduction in GC incidence and 33% RR reduction in GC mortality with H. pylori eradication.
+The single highest-quality recommendation is [[test-and-treat]] for H. pylori in all patients with GIM, supported by pooled data showing a 32% relative risk reduction in GC incidence and 33% RR reduction in GC mortality with H. pylori eradication.
 
 ## Key Findings / Claims
 

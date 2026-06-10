@@ -114,12 +114,12 @@ The periendoscopic framework applies to patients undergoing **scheduled, electiv
 | EMR / ESD | [[colonoscopy|Colonoscopy]] ± biopsy |
 | [[ercp|ERCP]] with sphincterotomy | Flexible sigmoidoscopy ± biopsy |
 | [[endoscopic-ultrasound|EUS-FNA]] | EUS without FNA |
-| PEG/PEJ placement | ERCP with stent, without sphincterotomy |
+| PEG/PEJ placement | [[ercp|ERCP]] with stent, without sphincterotomy |
 | Endoscopic hemostasis (excl. APC) | Push/diagnostic balloon enteroscopy |
 | Variceal treatment (incl. band ligation) | APC |
 | [[poem|POEM]] | Polypectomy <1 cm |
-| Radiofrequency ablation | Enteral stent deployment |
-| Ampullary resection | Video capsule endoscopy |
+| [[radiofrequency-ablation|Radiofrequency ablation]] | Enteral stent deployment |
+| Ampullary resection | Video [[capsule-endoscopy|capsule endoscopy]] |
 | Cystogastrostomy | Marking / clipping / tattooing |
 | Therapeutic balloon enteroscopy | ERCP without sphincterotomy |
 | Pneumatic/bougie dilation | Tumor ablation |
@@ -209,7 +209,7 @@ For patients at low thromboembolic risk on DOACs:
 
 - Suggest **against interruption of ASA** for elective endoscopic procedures (Statement 15, conditional, very low certainty)
 - Bleeding risk of diagnostic procedures and most polypectomies is sufficiently low that ASA continuation is safe
-- Exception: consider ASA interruption for highest-risk procedures (ESD, biliary/pancreatic sphincterotomy, ampullectomy, POEM, RFA) when bleeding risk is particularly high
+- Exception: consider ASA interruption for highest-risk procedures (ESD, biliary/pancreatic sphincterotomy, ampullectomy, [[poem|POEM]], RFA) when bleeding risk is particularly high
 - Primary prevention ASA: stop before higher-risk procedures (minimal CV benefit does not justify bleeding risk)
 
 ---

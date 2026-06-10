@@ -7,7 +7,7 @@ updated: 2026-05-16
 sources: []
 ---
 
-*Stub — to be expanded. Classified under Chicago Classification v4.0 — see [[chicago-classification-v4]]. Related: [[hypercontractile-esophagus]], [[ineffective-esophageal-motility]].*
+*Stub — to be expanded. Classified under [[chicago-classification-v4|Chicago Classification v4]].0 — see [[chicago-classification-v4]]. Related: [[hypercontractile-esophagus]], [[ineffective-esophageal-motility]].*
 
 ## Assessment
 
@@ -16,11 +16,11 @@ sources: []
 Distal esophageal spasm (DES) is defined by **Chicago Classification v4.0** criteria on [[high-resolution-manometry]]:
 
 - ≥20% premature (spastic) contractions with DCI >450 mmHg·s·cm
-- IRP normal (unlike achalasia — see [[achalasia]])
+- IRP normal (unlike [[achalasia]] — see [[achalasia]])
 
-**Distinguishes DES from hypercontractile esophagus:** DES is premature/disordered contraction; hypercontractile esophagus is high-amplitude contraction — see [[hypercontractile-esophagus]].
+**Distinguishes DES from [[hypercontractile-esophagus|hypercontractile esophagus]]:** DES is premature/disordered contraction; hypercontractile esophagus is high-amplitude contraction — see [[hypercontractile-esophagus]].
 
-**Symptoms:** Dysphagia (to solids and liquids), non-cardiac chest pain (NCCP); symptoms episodic and may not correlate with manometric abnormality during study.
+**Symptoms:** [[dysphagia|Dysphagia]] (to solids and liquids), non-cardiac chest pain (NCCP); symptoms episodic and may not correlate with manometric abnormality during study.
 
 ---
 
@@ -29,7 +29,7 @@ Distal esophageal spasm (DES) is defined by **Chicago Classification v4.0** crit
 - [[achalasia]] — elevated IRP distinguishes; absent peristalsis
 - [[hypercontractile-esophagus]] (jackhammer esophagus) — DCI >8000 vs. premature contractions
 - Cardiac chest pain — must exclude before esophageal workup
-- GERD — see [[gerd]]; acid exposure can trigger spasm
+- [[gerd|GERD]] — see [[gerd]]; acid exposure can trigger spasm
 
 ---
 
@@ -37,7 +37,7 @@ Distal esophageal spasm (DES) is defined by **Chicago Classification v4.0** crit
 
 - **HRM (required):** Chicago v4.0 criteria — see [[high-resolution-manometry]]
 - **Barium esophagram (TBE):** May show "corkscrew" esophagus during symptomatic episode (low sensitivity)
-- **FLIP panometry:** See [[flip-panometry]]; may show disordered contractile response pattern
+- **[[flip-panometry|FLIP panometry]]:** See [[flip-panometry]]; may show disordered contractile response pattern
 
 ---
 

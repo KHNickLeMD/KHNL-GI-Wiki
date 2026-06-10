@@ -11,7 +11,7 @@ sources: [acg-2016-liver-disease-pregnancy, aasld-2021-reproductive-liver]
 
 Abnormal liver tests occur in ~3–5% of pregnancies, even in otherwise healthy women. The differential encompasses:
 
-1. **Diseases coincident with pregnancy** (pre-existing or incidental): viral hepatitis, biliary disease, [[drug-induced-liver-injury|DILI]], autoimmune hepatitis, PBC, Wilson's disease, cirrhosis
+1. **Diseases coincident with pregnancy** (pre-existing or incidental): viral hepatitis, biliary disease, [[drug-induced-liver-injury|DILI]], [[autoimmune-hepatitis|autoimmune hepatitis]], PBC, [[wilson-disease|Wilson's disease]], cirrhosis
 2. **Diseases unique to or exacerbated by pregnancy**: hyperemesis gravidarum (HG), intrahepatic cholestasis of pregnancy (IHCP), acute fatty liver of pregnancy (AFLP), preeclampsia/eclampsia with hepatic involvement, HELLP syndrome
 
 Understanding normal physiologic changes is essential before interpreting liver tests in pregnancy.
@@ -49,8 +49,8 @@ Any abnormality in AST/ALT or bilirubin requires evaluation. ALP elevation alone
 
 ### Coincident Liver Diseases
 
-- Biliary: cholelithiasis (3.5% in pregnancy), cholecystitis, choledocholithiasis, biliary pancreatitis
-- Viral: [[chronic-hepatitis-b]], hepatitis C ([[hepatitis-c-in-pregnancy]]), HAV, HEV, HSV hepatitis
+- Biliary: cholelithiasis (3.5% in pregnancy), cholecystitis, [[choledocholithiasis]], biliary pancreatitis
+- Viral: [[chronic-hepatitis-b]], [[hepatitis-c|hepatitis C]] ([[hepatitis-c-in-pregnancy]]), HAV, HEV, HSV hepatitis
 - Autoimmune: [[autoimmune-hepatitis]], [[primary-biliary-cholangitis]]
 - Metabolic/genetic: [[wilson-disease]], [[nafld-masld]]
 - Cirrhosis/portal hypertension (see below)
@@ -83,7 +83,7 @@ Any abnormality in AST/ALT or bilirubin requires evaluation. ALP elevation alone
 - **Ultrasound**: first-line, no radiation, safe in all trimesters (Rec 2)
 - **MRI without gadolinium**: second/third trimester (Rec 3); avoid gadolinium (crosses placenta → amniotic fluid accumulation)
 - **CT**: judiciously, minimized radiation protocols 2–5 rads (Rec 4); fetal risk of anomalies not increased at <5 rad
-- **Liver biopsy**: rarely needed; percutaneous approach is safe; transjugular alternative with limited radiation exposure (0.05–0.1 rad)
+- **[[liver-biopsy|Liver biopsy]]**: rarely needed; percutaneous approach is safe; transjugular alternative with limited radiation exposure (0.05–0.1 rad)
 
 ---
 
@@ -93,7 +93,7 @@ Any abnormality in AST/ALT or bilirubin requires evaluation. ALP elevation alone
 
 **Definition:** Persistent vomiting with >5% weight loss, dehydration, and ketonuria; occurs 0.3–2% of pregnancies; first trimester, typically resolves by 20 weeks gestation.
 
-**Liver involvement:** 50–60% of hospitalized patients have mild aminotransferase elevation; AST/ALT can exceed 20× ULN (rarely); jaundice and hepatic synthetic dysfunction are uncommon.
+**Liver involvement:** 50–60% of hospitalized patients have mild aminotransferase elevation; AST/ALT can exceed 20× ULN (rarely); [[jaundice]] and hepatic synthetic dysfunction are uncommon.
 
 **Risk factors:** Molar pregnancy, multiple gestations, trophoblastic disease, prior HG, fetal abnormalities (triploidy, trisomy 21, hydrops fetalis).
 
@@ -145,7 +145,7 @@ Any abnormality in AST/ALT or bilirubin requires evaluation. ALP elevation alone
 
 - Expectant management advised after 34 weeks to limit fetal morbidity; no advantage to continuing pregnancy after 36–37 weeks
 - **Deliver promptly after 36 weeks for severe preeclampsia** (Rec 14 — strong, very low evidence)
-- Hepatic rupture: surgery for those with enlarging hematomas or hemodynamic instability; percutaneous embolization of hepatic arteries as alternative in stable patients; liver transplantation for continued decompensation
+- Hepatic rupture: surgery for those with enlarging hematomas or hemodynamic instability; percutaneous embolization of hepatic arteries as alternative in stable patients; [[liver-transplantation|liver transplantation]] for continued decompensation
 
 ### HELLP Syndrome
 
@@ -192,7 +192,7 @@ Any abnormality in AST/ALT or bilirubin requires evaluation. ALP elevation alone
 | Hypoglycemia | <4 mmol/l |
 | Elevated urea | >340 µmol/l |
 | Leucocytosis | >11×10⁶ cells/l |
-| Ascites or bright liver on ultrasound | — |
+| [[ascites|Ascites]] or bright liver on ultrasound | — |
 | Elevated transaminases (AST or ALT) | >42 IU/l |
 | Elevated ammonia | >47 µmol/l |
 | Renal impairment (creatinine) | >150 µmol/l |
@@ -329,7 +329,7 @@ See also: [[wilson-disease]]
 - Pregnancy in liver transplant recipients: higher rates of preterm birth, LBW, cesarean section, maternal hypertension, preeclampsia; higher acute rejection risk if pregnancy within 6 months
 - **Continue all immunosuppression except mycophenolic acid** (Rec 36 — strong, moderate evidence)
   - **Mycophenolic acid (mycophenolate mofetil / MMF)**: CONTRAINDICATED — risk of congenital malformations (external ear/other facial abnormalities, distal limb, heart, esophagus, kidney) and embryo-fetal toxicity
-  - Tacrolimus, cyclosporine, AZA, sirolimus, everolimus, corticosteroids: low risk of congenital malformation; risks of prematurity and LBW reported but not significantly higher than general population
+  - [[tacrolimus|Tacrolimus]], cyclosporine, AZA, sirolimus, everolimus, corticosteroids: low risk of congenital malformation; risks of prematurity and LBW reported but not significantly higher than general population
   - Everolimus/sirolimus: impaired wound healing — consider if cesarean section is planned
 - Breastfeeding: traditionally discouraged; growing small series report safety with minimal adverse events; pharmacokinetic data show minimal excretion of tacrolimus and cyclosporine in breast milk
 

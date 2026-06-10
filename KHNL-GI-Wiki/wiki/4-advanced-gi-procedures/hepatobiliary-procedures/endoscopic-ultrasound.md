@@ -19,9 +19,9 @@ EUS quality standards from ACG/ASGE 2025 Quality Indicator document. [[acg-2025-
 
 - Staging upper GI malignancies (esophageal, gastric, rectal cancers)
 - Characterization of subepithelial lesions (SELs)
-- Evaluation of pancreaticobiliary disorders (pancreatic masses, cysts, biliary dilation, choledocholithiasis)
+- Evaluation of pancreaticobiliary disorders (pancreatic masses, cysts, biliary dilation, [[choledocholithiasis]])
 - EUS-FNA/FNB of pancreatic masses, LN, or other lesions
-- Pancreatic cancer screening in high-risk individuals (new indication vs prior)
+- [[pancreatic-cancer-screening|Pancreatic cancer screening]] in high-risk individuals (new indication vs prior)
 
 **Therapeutic:**
 
@@ -29,8 +29,8 @@ EUS quality standards from ACG/ASGE 2025 Quality Indicator document. [[acg-2025-
 - EUS-guided gallbladder drainage (EUS-GBD)
 - EUS-guided biliary drainage (EUS-BD)
 - EUS-guided gastroenterostomy (EUS-GE)
-- EUS-directed transgastric ERCP (EDGE) — for altered anatomy (Roux-en-Y)
-- EUS-guided liver biopsy
+- EUS-directed transgastric [[ercp|ERCP]] (EDGE) — for altered anatomy (Roux-en-Y)
+- EUS-guided [[liver-biopsy|liver biopsy]]
 - Celiac plexus block/neurolysis (EUS-CPB/CPN)
 - Fiducial placement, ablation
 
@@ -44,8 +44,8 @@ Note: Therapeutic EUS now accounts for >50% of accepted EUS indications. Indicat
 
 - **Informed consent** must include EUS-specific risks (pancreatitis, infection, bile leak, perforation, bleeding based on procedure type)
 - **Prophylactic antibiotics:**
-  - **NOT routinely needed** for EUS-FNA of pancreatic cysts (RCT: no difference in infection with vs without antibiotics)
-  - Consider antibiotics in: immunosuppressed patients, multiple comorbidities, incomplete cyst aspiration, ascites
+  - **NOT routinely needed** for EUS-FNA of [[pancreatic-cysts|pancreatic cysts]] (RCT: no difference in infection with vs without antibiotics)
+  - Consider antibiotics in: immunosuppressed patients, multiple comorbidities, incomplete cyst aspiration, [[ascites]]
   - Mediastinal cysts: do NOT routinely sample (mediastinitis risk even with antibiotics)
   - Rectal EUS-FNA/FNB: ~15% infection risk despite antibiotics; reserved for cases where benefit outweighs risk
   - Therapeutic EUS (transumural interventions): prophylactic IV broad-spectrum antibiotics recommended
@@ -78,7 +78,7 @@ Note: Therapeutic EUS now accounts for >50% of accepted EUS indications. Indicat
 
 - Perforation: <0.5%
 - Infection: <1%
-- Acute pancreatitis: <1%
+- [[acute-pancreatitis|Acute pancreatitis]]: <1%
 - Clinically significant bleeding: <1%
 - Clinically significant bleeding after liver biopsy: <5%
 

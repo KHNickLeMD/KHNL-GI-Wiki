@@ -33,7 +33,7 @@ Measures esophageal acid exposure as percentage of time intraluminal pH is <4 (a
 
 ### Clinical Indication
 
-- Objective confirmation of GERD before TIF 2.0, cTIF, or surgical fundoplication
+- Objective confirmation of [[gerd|GERD]] before TIF 2.0, cTIF, or surgical fundoplication
 - Evaluation of PPI-refractory symptoms (study should be done off PPI, typically after 7-day washout, unless testing for incomplete acid suppression)
 - Distinguishing true GERD from functional heartburn (symptom-reflux correlation absent despite normal AET)
 
@@ -167,7 +167,7 @@ The ACG 2020 guideline [[acg-2020-esophageal-physiologic-testing]] organizes tes
 
 | Symptom Category | Primary Tests | Notes |
 |---|---|---|
-| **Obstructive** (dysphagia, regurgitation) | HRM ± provocative maneuvers; barium esophagram with tablet; FLIP if HRM borderline or catheter placement fails | Strong: HRM over conventional manometry (Moderate quality) |
+| **Obstructive** ([[dysphagia]], regurgitation) | HRM ± provocative maneuvers; barium esophagram with tablet; FLIP if HRM borderline or catheter placement fails | Strong: HRM over conventional manometry (Moderate quality) |
 | **Typical reflux** (heartburn, regurgitation, chest pain) | Ambulatory monitoring off PPI (unproven GERD); pH impedance on PPI (proven GERD with persisting symptoms) | Empiric PPI: 78% sensitive, 54% specific — insufficient for conclusive diagnosis |
 | **Extraesophageal/atypical** (cough, hoarseness, globus, belching, rumination) | pH impedance off acid suppression (Strong/Low); upfront over empiric PPI for isolated extraesophageal symptoms (Conditional/Very low) | Laryngoscopy: 86% sensitive, only 9% specific for reflux — unreliable as primary diagnostic test |
 
@@ -175,7 +175,7 @@ The ACG 2020 guideline [[acg-2020-esophageal-physiologic-testing]] organizes tes
 
 - No test should be ordered without a clear clinical hypothesis about what it will provide
 - GERD questionnaires alone are insufficient for conclusive GERD diagnosis (GERDQ ≥9: 66% sensitivity, 64% specificity)
-- AET >4% off PPI is the cardinal predictor of antireflux surgery outcomes; RSA and MNBI provide adjunctive value
+- AET >4% off PPI is the cardinal predictor of [[antireflux-surgery|antireflux surgery]] outcomes; RSA and MNBI provide adjunctive value
 - Upfront ambulatory testing (vs. empiric BID PPI) is cost-effective: $1,897 vs. $3,033 for patients with suspected extraesophageal reflux
 
 ---
@@ -184,7 +184,7 @@ The ACG 2020 guideline [[acg-2020-esophageal-physiologic-testing]] organizes tes
 
 These diagnoses require [[ambulatory-reflux-monitoring]] with specific protocols:
 
-- **Rumination syndrome**: HRIM (high-resolution impedance manometry) with postprandial monitoring protocol; sensitivity/specificity 75–80%/100% (HRIM). Manometric criteria: intragastric pressure rise >30 mmHg + proximal gastric content movement + esophageal pressurization coinciding with recognized rumination episode. See [[disorders-of-gut-brain-interaction]] for Rome IV/V criteria.
+- **[[rumination-syndrome|Rumination syndrome]]**: HRIM (high-resolution impedance manometry) with postprandial monitoring protocol; sensitivity/specificity 75–80%/100% (HRIM). Manometric criteria: intragastric pressure rise >30 mmHg + proximal gastric content movement + esophageal pressurization coinciding with recognized rumination episode. See [[disorders-of-gut-brain-interaction]] for Rome IV/V criteria.
 - **Supragastric belching**: pH impedance monitoring confirms; sensitivity 93.4%, specificity 75%, PPV 96.8%; supragastric belches identified in 48% of reflux referral patients; occur almost exclusively upright (37.8 ± 6.1 episodes/hr upright vs. 0.9 ± 0.5 supine)
 
 ---
@@ -197,9 +197,9 @@ These diagnoses require [[ambulatory-reflux-monitoring]] with specific protocols
 | 48h–96h Bravo pH | Same as above; better tolerance; day-to-day variability | AET; symptom correlation | Pre-procedural; off-PPI; infrequent/variable symptoms |
 | MII-pH off PPI | Non-acid/weakly acidic reflux; belching/rumination | All reflux events + pH; SI, SAP; MNBI | Unproven GERD with supragastric belching, rumination, or pulmonary symptoms |
 | MII-pH on PPI | Ongoing reflux burden on therapy | On-therapy AET; weakly acidic episodes; MNBI | Proven GERD + persisting symptoms on optimized PPI |
-| Upper endoscopy | Structural assessment, complications | LA grade, Hill grade, hernia size, Barrett's | All planned procedural therapy; alarm symptoms |
+| [[upper-endoscopy|Upper endoscopy]] | Structural assessment, complications | LA grade, Hill grade, hernia size, Barrett's | All planned procedural therapy; alarm symptoms |
 | HRM | Exclude motility disorder; pre-ARS evaluation; hiatal hernia identification | LES pressure, peristalsis, IRP | Pre-TIF, pre-surgical evaluation; HRM 94.3% sensitive for hiatal hernia |
-| Barium esophagram | Bolus transit; achalasia outcome monitoring | Barium height at 1 and 5 min; tablet passage | Obstructive symptoms; achalasia follow-up |
+| Barium esophagram | Bolus transit; [[achalasia]] outcome monitoring | Barium height at 1 and 5 min; tablet passage | Obstructive symptoms; achalasia follow-up |
 | FLIP | Borderline HRM; catheter placement failure; intraprocedural achalasia treatment | EGJ distensibility, CSA | Borderline HRM findings; as adjunct — not HRM replacement |
 | CYP2C19 genotype | PPI pharmacogenomics | Metabolizer phenotype | Suboptimal PPI response |
 

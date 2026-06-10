@@ -40,7 +40,7 @@ sources: [acg-2024-focal-liver-lesions]
 
 ## Differential Diagnosis
 
-- **Focal nodular hyperplasia (FNH)** — APHE, gadoxetate uptake, central scar; no T2 hyperintensity pattern; see [[focal-nodular-hyperplasia]]
+- **[[focal-nodular-hyperplasia|Focal nodular hyperplasia]] (FNH)** — APHE, gadoxetate uptake, central scar; no T2 hyperintensity pattern; see [[focal-nodular-hyperplasia]]
 - **Hepatic metastases** — ring enhancement; T2 variable; clinical context of known malignancy
 - **[[hepatocellular-carcinoma|HCC]]** — APHE + washout; in cirrhotic background; [[li-rads|LI-RADS]] ≥4
 - **Angiosarcoma** — rare; rapidly growing; heterogeneous; necrosis; aggressive clinical course
@@ -104,7 +104,7 @@ sources: [acg-2024-focal-liver-lesions]
 
 - **Transarterial embolization (TAE):** first-line for large symptomatic lesions; reduces size and vascularity
 - **Surgical resection or enucleation:** anatomic resection or enucleation; standard for accessible lesions
-- **Radiofrequency ablation or microwave ablation:** for smaller symptomatic lesions
+- **[[radiofrequency-ablation|Radiofrequency ablation]] or microwave ablation:** for smaller symptomatic lesions
 - **[[liver-transplantation|Liver transplantation]]:** only in very exceptional cases (giant unresectable lesions with Kasabach-Merritt unresponsive to other treatment)
 
 ### OCP Use

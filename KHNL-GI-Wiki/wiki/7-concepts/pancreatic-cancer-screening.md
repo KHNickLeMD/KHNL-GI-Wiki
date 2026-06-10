@@ -7,7 +7,7 @@ updated: 2026-06-04
 sources: [asge-2022-pancreatic-cancer-screening]
 ---
 
-High-risk pancreatic cancer surveillance is the practice of screening asymptomatic individuals with genetic susceptibility to [[pancreatic-cancer|pancreatic ductal adenocarcinoma]] in order to detect surgically resectable disease or precursor lesions and shift the stage at diagnosis. Population-level screening of average-risk adults is not recommended (2019 USPSTF), but that recommendation explicitly excluded high-risk genetic populations. The [[asge-2022-pancreatic-cancer-screening|ASGE 2022 guideline]] provides the GRADE-based framework summarized here.
+High-risk [[pancreatic-cancer|pancreatic cancer]] surveillance is the practice of screening asymptomatic individuals with genetic susceptibility to [[pancreatic-cancer|pancreatic ductal adenocarcinoma]] in order to detect surgically resectable disease or precursor lesions and shift the stage at diagnosis. Population-level screening of average-risk adults is not recommended (2019 USPSTF), but that recommendation explicitly excluded high-risk genetic populations. The [[asge-2022-pancreatic-cancer-screening|ASGE 2022 guideline]] provides the GRADE-based framework summarized here.
 
 ## Who to Screen
 Screening is suggested for individuals at increased risk because of genetic susceptibility (conditional recommendation, low quality of evidence). Qualifying conditions and their screening start ages:
@@ -29,7 +29,7 @@ Key change from prior guidance: **all [[brca-pathogenic-variants|BRCA1/2]] carri
 ## Modality
 Screen with [[endoscopic-ultrasound|EUS]], MRI/[[mri-mrcp|MRCP]], or EUS alternating with MRI, based on patient preference and local expertise (conditional, very low quality).
 
-- **EUS may be preferred** as the initial test; for very-high-risk conditions ([[peutz-jeghers-syndrome|Peutz-Jeghers]], [[fammm-syndrome|FAMMM]]); when it can be combined with screening upper endoscopy/colonoscopy (Lynch, Peutz-Jeghers); and when MRI is contraindicated (claustrophobia, contrast allergy, implanted metal, renal failure). A **linear-array** echoendoscope detects more pancreatic lesions than a radial one (82% vs 67%). EUS is also more sensitive than MRI for small solid lesions.
+- **EUS may be preferred** as the initial test; for very-high-risk conditions ([[peutz-jeghers-syndrome|Peutz-Jeghers]], [[fammm-syndrome|FAMMM]]); when it can be combined with screening [[upper-endoscopy|upper endoscopy]]/colonoscopy (Lynch, Peutz-Jeghers); and when MRI is contraindicated (claustrophobia, contrast allergy, implanted metal, renal failure). A **linear-array** echoendoscope detects more pancreatic lesions than a radial one (82% vs 67%). EUS is also more sensitive than MRI for small solid lesions.
 - **MRI may be preferred** for patients at higher anesthesia/procedural risk, those who value avoiding invasive testing, and when combinable with other imaging (e.g., enterography in Peutz-Jeghers). Use contrast-enhanced exam, ≥1.5-T magnet with phased-array coils; 3-T may better detect small lesions.
 
 ## Frequency
@@ -41,7 +41,7 @@ Annual screening is suggested (conditional, very low quality). Rationale: tumor-
 - **Harms:** low-yield pancreatic surgery in 2.8% of all screened but 46.6% of those operated; perioperative adverse-event rate among operated patients ~19.9%. No adverse events from the screening EUS or MRI themselves. Screening had net psychological benefit (distress declined over time) and was cost-effective in high-risk populations.
 
 ## Open Questions
-No clinical trials compared screened vs unscreened controls (quality of evidence low–very low). The optimal interval after a normal baseline exam, the role of additional risk factors (age, sex, obesity, smoking, alcohol) in carriers, and validated biomarkers/circulating tumor DNA all remain undefined.
+No clinical trials compared screened vs unscreened controls (quality of evidence low–very low). The optimal interval after a normal baseline exam, the role of additional risk factors (age, sex, [[obesity]], smoking, alcohol) in carriers, and validated biomarkers/circulating tumor DNA all remain undefined.
 
 ## See Also
 

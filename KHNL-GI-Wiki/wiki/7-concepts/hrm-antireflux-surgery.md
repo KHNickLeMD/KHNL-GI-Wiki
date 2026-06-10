@@ -22,16 +22,16 @@ The **Padova Consensus (2025)** — a 3-year, 29-expert international process us
 ### Why HRM Is Mandatory Before ARS
 
 - ~3% of patients presenting with [[gerd|GERD]]-like symptoms referred for ARS have **[[achalasia|achalasia spectrum disorders]]** — missed on clinical grounds alone
-- Wrapping over an achalastic esophagus creates pseudoachalasia and severe dysphagia
+- Wrapping over an achalastic esophagus creates pseudoachalasia and severe [[dysphagia]]
 - HRM identifies contraindications, relative contraindications, and conditions requiring pre-ARS treatment
 
 ### Pre-ARS Motor Disorder Decision Framework
 
 | HRM Finding | Decision |
 |---|---|
-| Achalasia (any type) | ARS contraindicated; treat achalasia first |
+| [[achalasia|Achalasia]] (any type) | ARS contraindicated; treat achalasia first |
 | EGJOO | Must be addressed (e.g., pneumatic dilation, [[poem|POEM]] evaluation) before ARS; 86% consensus |
-| [[hypercontractile-esophagus|Hypercontractile esophagus (jackhammer)]] | Not an absolute contraindication **if** objective GERD + partial PPI response; 81% consensus |
+| [[hypercontractile-esophagus|Hypercontractile esophagus (jackhammer)]] | Not an absolute contraindication **if** objective [[gerd|GERD]] + partial PPI response; 81% consensus |
 | [[distal-esophageal-spasm|DES]] with obstructive symptoms | Caution; consider non-surgical options first; 95% consensus |
 | DES without obstructive symptoms + objective GERD | May proceed to ARS; 81% consensus |
 | [[ineffective-esophageal-motility|Ineffective esophageal motility (IEM)]] | Insufficient evidence for absolute contraindication; partial wrap preferred by many |

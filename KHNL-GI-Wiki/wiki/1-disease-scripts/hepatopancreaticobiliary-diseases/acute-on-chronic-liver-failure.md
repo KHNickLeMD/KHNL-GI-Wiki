@@ -52,7 +52,7 @@ ACLF is a syndrome in patients with chronic liver disease (CLD) characterized by
 
 ## Differential Diagnosis
 
-- Acute decompensation without ACLF — ascites/HE/AVH without extrahepatic organ failure; lower mortality
+- Acute decompensation without ACLF — [[ascites]]/HE/AVH without extrahepatic organ failure; lower mortality
 - [[acute-liver-failure]] — no prior CLD; INR ≥1.5 + any degree HE; different prognosis/management; King's College Criteria for LT
 - Sepsis-associated organ dysfunction without ACLF — can mimic and precipitate ACLF; diagnose both concurrently
 - Primary organ failure of non-hepatic origin — e.g., ARDS from pneumonia in a cirrhotic patient; hepatic dysfunction secondary to critical illness

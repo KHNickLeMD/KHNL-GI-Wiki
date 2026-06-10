@@ -17,7 +17,7 @@ A **biliary stricture** is an abnormal narrowing of the ductal drainage system o
 **Anatomic classification** (determines diagnostic and drainage approach):
 
 - **Extrahepatic** — distal to the biliary confluence (most commonly due to pancreatic head pathology)
-- **Perihilar** — at or near the biliary confluence (Klatskin-type; most commonly cholangiocarcinoma)
+- **Perihilar** — at or near the biliary confluence (Klatskin-type; most commonly [[cholangiocarcinoma]])
 - **Intrahepatic** — beyond the scope of this page
 
 **Bismuth-Corlette classification (perihilar)**:
@@ -41,18 +41,18 @@ The two principal management goals are: **(1) diagnosis** — confirm or exclude
 | Cholangiocarcinoma | Perihilar or extrahepatic | Desmoplastic; notoriously difficult to diagnose |
 | Gallbladder cancer | Perihilar/extrahepatic | Often advanced at presentation |
 | Ampullary cancer | Extrahepatic | Favorable prognosis with resection |
-| Hepatocellular carcinoma | Varies | Rare cause of biliary obstruction |
+| [[hepatocellular-carcinoma|Hepatocellular carcinoma]] | Varies | Rare cause of biliary obstruction |
 | Lymphoma | Varies | Extrinsic or infiltrative |
 
 ### Malignant — Metastatic
 
-- Colorectal cancer, breast cancer, renal cell carcinoma (extrinsic compression or infiltration)
+- [[colorectal-cancer|Colorectal cancer]], breast cancer, renal cell carcinoma (extrinsic compression or infiltration)
 
 ### Benign — Fibroinflammatory
 
 - [[chronic-pancreatitis]]-related (most common benign extrahepatic stricture in Western countries)
 - IgG4-mediated cholangitis or autoimmune pancreatitis (IgG4-related disease)
-- Primary sclerosing cholangitis (see separate ACG PSC guideline — not covered here)
+- [[primary-sclerosing-cholangitis|Primary sclerosing cholangitis]] (see separate ACG PSC guideline — not covered here)
 - Sarcoidosis
 - Recurrent pyogenic cholangitis
 - Extrinsic compression by pancreatic fluid collection (pseudocyst)
@@ -78,7 +78,7 @@ The two principal management goals are: **(1) diagnosis** — confirm or exclude
 
 ### Step 1: Initial Clinical Assessment
 
-- History: painless jaundice, weight loss, prior biliary surgery, known pancreatic disease, alcohol use (→ [[acute-pancreatitis]]/chronic pancreatitis)
+- History: painless [[jaundice]], weight loss, prior biliary surgery, known pancreatic disease, alcohol use (→ [[acute-pancreatitis]]/chronic pancreatitis)
 - Labs: LFTs (cholestatic pattern), bilirubin, CA 19-9, CEA, IgG4 level
   - CA 19-9 and CEA are unreliable: sensitivity/specificity inadequate to confirm or exclude malignancy; CA 19-9 can be markedly elevated in jaundice alone
   - IgG4 elevation suggests IgG4-related disease but is not diagnostic alone
@@ -88,7 +88,7 @@ The two principal management goals are: **(1) diagnosis** — confirm or exclude
 
 - CT/MRI accuracy for malignant vs benign: ~60–80% — insufficient to drive oncological decisions
 - MRCP preferred for delineating biliary anatomy, especially perihilar strictures, before intervention
-- **Preprocedural imaging is mandatory before ERCP for perihilar strictures** — review to plan drainage target, identify atrophic segments, and anticipate anatomy
+- **Preprocedural imaging is mandatory before [[ercp|ERCP]] for perihilar strictures** — review to plan drainage target, identify atrophic segments, and anticipate anatomy
 
 ### Step 3: Tissue Diagnosis — Approach by Location
 
@@ -100,7 +100,7 @@ The two principal management goals are: **(1) diagnosis** — confirm or exclude
    - Prefer **EUS-FNB** (core needle — fork-tip or Franseen geometry) or **EUS-FNA + ROSE** over FNA alone (Conditional, Very Low evidence)
    - FNB enables genomic profiling and microsatellite instability testing
 2. In minimally symptomatic patients, arrange **single-session EUS + ERCP** at a capable center rather than ERCP alone with plastic stent as a temporizing measure
-3. Add ERCP brush cytology if EUS-FNA/B is non-diagnostic or ROSE is unavailable — combination has highest yield
+3. Add ERCP [[brush-cytology|brush cytology]] if EUS-FNA/B is non-diagnostic or ROSE is unavailable — combination has highest yield
 
 #### Extrahepatic Stricture WITHOUT Associated Mass / Perihilar Stricture
 
@@ -108,10 +108,10 @@ The two principal management goals are: **(1) diagnosis** — confirm or exclude
    - Use **at least 2 modalities**; rationale supports 3–4 if feasible:
      - [[brush-cytology|Brush cytology]] (baseline, always included). Per `[[asge-2023-indeterminate-biliary-strictures]]` sensitivity alone is only ~0.40 (miss rate ~58%)
      - **Fluoroscopy-directed forceps biopsy** — the ASGE (`[[asge-2023-indeterminate-biliary-strictures]]`) suggests adding fluoroscopic-guided biopsy to brush cytology over brush cytology alone (conditional, very low quality): biopsy alone sensitivity ~0.52, combined with brushings ~0.66 (incremental yield ~20%). Best performed at tertiary/expert centers — more technically demanding, more time-consuming, and 2 severe adverse events (prolonged bleeding, perforation) occurred in the biopsy group
-     - [[cholangioscopy|Cholangioscopy]]-directed biopsy — the ASGE suggests cholangioscopic biopsy for **nondistal** strictures (with adequate critical-segment drainage), after a prior nondiagnostic ERCP without cholangioscopy, and at centers with expertise/access. Adding cholangioscopy raises sensitivity to ~0.72 vs ~0.61 (incremental yield ~27–41%); suboptimal for very distal CBD strictures
+     - [[cholangioscopy|Cholangioscopy]]-directed biopsy — the ASGE suggests cholangioscopic biopsy for **nondistal** strictures (with adequate critical-segment drainage), after a prior nondiagnostic ERCP without [[cholangioscopy]], and at centers with expertise/access. Adding cholangioscopy raises sensitivity to ~0.72 vs ~0.61 (incremental yield ~27–41%); suboptimal for very distal CBD strictures
      - [[fish|FISH]] (improves sensitivity from ~20% to ~43%; attenuated in PSC, though the ASGE notes FISH plays a relatively higher role in [[primary-sclerosing-cholangitis|PSC]])
 2. For suspected perihilar **cholangiocarcinoma** (Key Concept):
-   - **Do NOT perform EUS-FNA/B or percutaneous biopsy of the primary lesion** — risk of transperitoneal seeding may preclude liver transplantation (transplant is the only potentially curative option for many perihilar CCA patients)
+   - **Do NOT perform EUS-FNA/B or percutaneous biopsy of the primary lesion** — risk of transperitoneal seeding may preclude [[liver-transplantation|liver transplantation]] (transplant is the only potentially curative option for many perihilar CCA patients)
    - EUS-FNA/B of **regional lymph nodes** is appropriate — a positive node is itself a transplant contraindication, so no additional risk to transplant eligibility
    - EUS-directed primary lesion sampling is permissible in patients who are not transplant candidates
    - Concordant with `[[asge-2023-indeterminate-biliary-strictures]]`: if EUS is performed for a proximal/hilar stricture, the endosonographer should **not** FNA/FNB the biliary mass itself (needle-track seeding risk)
@@ -121,7 +121,7 @@ The two principal management goals are: **(1) diagnosis** — confirm or exclude
 If a diagnosis remains elusive after index ERCP:
 
 - Consider **next-generation sequencing (NGS)** of biliary specimens — improves sensitivity to 77% (brushings) and 83% (biopsies) in prospective data; not yet widely available
-- **Repeat ERCP adding [[cholangioscopy|cholangioscopy]] and/or [[endoscopic-ultrasound|EUS]]** — per `[[asge-2023-indeterminate-biliary-strictures]]`, a prior nondiagnostic ERCP without cholangioscopy is itself an indication to add cholangioscopic biopsy (nondistal strictures) or EUS (distal strictures, or when nodal/metastatic disease is seen)
+- **Repeat ERCP adding [[cholangioscopy]] and/or [[endoscopic-ultrasound|EUS]]** — per `[[asge-2023-indeterminate-biliary-strictures]]`, a prior nondiagnostic ERCP without cholangioscopy is itself an indication to add cholangioscopic biopsy (nondistal strictures) or EUS (distal strictures, or when nodal/metastatic disease is seen)
 - **Probe-based [[confocal-laser-endomicroscopy|confocal laser endomicroscopy (pCLE)]]** — sensitivity/accuracy ~90% in combination with cholangiography (Miami/Paris classifications); high NPV (~94%); limited to select referral centers; not yet an accepted stand-alone oncological standard
 - **Intraductal ultrasound (IDUS)** — accuracy up to 92%; IDUS-guided transpapillary biopsy more accurate than transpapillary biopsy alone (90.8% vs 76.9%); cannot acquire tissue itself; declining availability
 - **Multidisciplinary tumor board review** — advisable at any point; essential after 2 negative sampling sessions with persistent malignancy concern

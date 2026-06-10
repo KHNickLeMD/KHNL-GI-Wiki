@@ -39,7 +39,7 @@ Duration frames the differential: **acute** (<1 week — usually infection, drug
 - **Gastric outlet / mechanical obstruction** — [[peptic-ulcer-disease|peptic stricture]], malignancy ([[gastric-adenocarcinoma]]), small-bowel obstruction (adhesions, hernia), superior mesenteric artery syndrome
 - **[[gastroparesis]]** — delayed gastric emptying without obstruction; postprandial fullness, early satiety, bloating; diabetic, post-surgical, idiopathic
 - **Peptic disease / [[dyspepsia]]**, [[gerd]], biliary disease ([[choledocholithiasis]], cholecystitis), [[acute-pancreatitis|pancreatitis]], appendicitis, hepatitis
-- **Infectious gastroenteritis** ([[acute-diarrhea|see acute diarrhea]]; norovirus, food poisoning)
+- **Infectious gastroenteritis** ([[acute-diarrhea|see acute diarrhea]]; [[norovirus]], food poisoning)
 - [[crohns-disease|Crohn's]] with stricturing, intestinal pseudo-obstruction
 
 ### CNS / Vestibular
@@ -81,7 +81,7 @@ flowchart TD
 1. **Acute vs. chronic.** Acute with **alarm features** (severe/localized pain, peritoneal signs, GI bleeding, neurologic deficits, signs of obstruction, severe dehydration) → urgent labs, **pregnancy test**, and cross-sectional imaging ± surgical evaluation.
 2. **Always test pregnancy** in reproductive-age women before imaging or pharmacotherapy.
 3. **Labs** — CMP (electrolytes, renal, glucose/ketones), calcium, TSH, lipase, LFTs; CBC; consider cortisol/morning if adrenal insufficiency suspected; drug review (opioids, GLP-1 agonists, chemo).
-4. **Exclude obstruction and mucosal disease** — abdominal X-ray/CT for suspected obstruction; **[[upper-endoscopy|EGD]]** for chronic symptoms, dysphagia, weight loss, or suspected [[peptic-ulcer-disease|PUD]]/malignancy.
+4. **Exclude obstruction and mucosal disease** — abdominal X-ray/CT for suspected obstruction; **[[upper-endoscopy|EGD]]** for chronic symptoms, [[dysphagia]], weight loss, or suspected [[peptic-ulcer-disease|PUD]]/malignancy.
 5. **If structural causes excluded** → **gastric emptying scintigraphy** (4-hour) for [[gastroparesis]]; >10% retention at 4 h is diagnostic. (Stop opioids/GLP-1 agonists and correct hyperglycemia first — both delay emptying and confound the test.)
 6. **Neuroimaging** (CT/MRI brain) if headache, papilledema, focal deficits, or early-morning vomiting suggest a CNS cause.
 7. **Recognize episodic syndromes** — stereotyped attacks with well intervals = CVS; cannabis use + relief with hot bathing = CHS (treat with cessation).

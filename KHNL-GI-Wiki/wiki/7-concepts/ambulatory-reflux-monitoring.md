@@ -9,7 +9,7 @@ sources: [lyon-2024-gerd-diagnosis, acg-2020-esophageal-physiologic-testing]
 
 ## Overview
 
-Ambulatory reflux monitoring is the physiological cornerstone for objectively confirming or excluding gastro-oesophageal reflux disease (GERD). The **Lyon Consensus 2.0** (Gyawali et al., Gut 2024;73:361–371) provides the current authoritative framework, updating the original 2018 Lyon Consensus to define "actionable GERD" — where evidence from oesophageal testing supports revising, escalating, or personalising GERD management.
+Ambulatory reflux monitoring is the physiological cornerstone for objectively confirming or excluding gastro-oesophageal reflux disease ([[gerd|GERD]]). The **Lyon Consensus 2.0** (Gyawali et al., Gut 2024;73:361–371) provides the current authoritative framework, updating the original 2018 Lyon Consensus to define "actionable GERD" — where evidence from oesophageal testing supports revising, escalating, or personalising GERD management.
 
 The Lyon 2.0 framework has two foundational principles:
 
@@ -127,7 +127,7 @@ Used to assess whether symptoms are temporally linked to reflux episodes within 
 
 - Positive SAP/SI with normal AET (<4.0%) = **reflux hypersensitivity**
 - Positive SAP/SI with borderline AET (4.0–6.0%) = shifts interpretation toward GERD or hypersensitivity requiring treatment
-- Used in the on-therapy setting: positive symptom association (AET ≥4.2% and/or positive SAP) defined refractory GERD in one RCT where 67% of 27 patients randomised to antireflux surgery improved
+- Used in the on-therapy setting: positive symptom association (AET ≥4.2% and/or positive SAP) defined refractory GERD in one RCT where 67% of 27 patients randomised to [[antireflux-surgery|antireflux surgery]] improved
 
 ### Catheter-Based Mucosal Impedance (CAT — endoscopic device)
 

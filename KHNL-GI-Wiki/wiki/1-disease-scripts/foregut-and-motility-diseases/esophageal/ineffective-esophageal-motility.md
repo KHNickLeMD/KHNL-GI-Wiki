@@ -7,7 +7,7 @@ updated: 2026-05-16
 sources: []
 ---
 
-*Stub — to be expanded. Chicago Classification v4.0 criteria revised significantly — see [[chicago-classification-v4]]. Related: [[distal-esophageal-spasm]], [[hypercontractile-esophagus]].*
+*Stub — to be expanded. [[chicago-classification-v4|Chicago Classification v4]].0 criteria revised significantly — see [[chicago-classification-v4]]. Related: [[distal-esophageal-spasm]], [[hypercontractile-esophagus]].*
 
 ## Assessment
 
@@ -22,7 +22,7 @@ IEM is defined by **Chicago Classification v4.0** on [[high-resolution-manometry
 
 **Clinical significance:** IEM is a minor motility disorder; most patients have mild or no symptoms. Clinical significance is primarily in:
 
-- Pre-[[antireflux-surgery|anti-reflux surgery]] evaluation — impaired peristaltic reserve raises dysphagia risk post-wrap
+- Pre-[[antireflux-surgery|anti-reflux surgery]] evaluation — impaired peristaltic reserve raises [[dysphagia]] risk post-wrap
 - Dysphagia workup when other causes excluded
 - Systemic disease associations (scleroderma, CREST syndrome can cause severe IEM → absent contractility)
 
@@ -31,7 +31,7 @@ IEM is defined by **Chicago Classification v4.0** on [[high-resolution-manometry
 ## Differential Diagnosis
 
 - Absent contractility — severe form; all swallows failed; see [[achalasia]] (differentiate by IRP)
-- [[gerd]] — IEM often co-exists with GERD; reflux can impair peristalsis
+- [[gerd]] — IEM often co-exists with [[gerd|GERD]]; reflux can impair peristalsis
 - Scleroderma/systemic sclerosis — IEM with very low LES pressure pattern
 
 ---
@@ -39,8 +39,8 @@ IEM is defined by **Chicago Classification v4.0** on [[high-resolution-manometry
 ## Diagnostics
 
 - **HRM:** Chicago v4.0 criteria — see [[high-resolution-manometry]]
-- **FLIP panometry:** See [[flip-panometry]]; Hypocontractility pattern
-- Rule out obstruction and achalasia before labeling as IEM
+- **[[flip-panometry|FLIP panometry]]:** See [[flip-panometry]]; Hypocontractility pattern
+- Rule out obstruction and [[achalasia]] before labeling as IEM
 
 ---
 

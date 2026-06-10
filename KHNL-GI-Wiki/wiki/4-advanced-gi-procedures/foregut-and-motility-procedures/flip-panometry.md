@@ -70,9 +70,9 @@ Six-category matrix combining EGJ Opening × Contractile Response:
 | EGJ Opening | Contractile Response | **Classification** | Clinical Correlate |
 |---|---|---|---|
 | NEO | Normal | **Normal** | Excludes major motor disorder (NPV >90%) |
-| NEO | Diminished or Absent | **Hypocontractility** | Correlates with ineffective esophageal motility on HRM |
+| NEO | Diminished or Absent | **Hypocontractility** | Correlates with [[ineffective-esophageal-motility|ineffective esophageal motility]] on HRM |
 | NEO | Disordered or Spastic | **Possible Spasm** | Correlates with DES/jackhammer on HRM |
-| REO | Spastic | **Spastic Obstruction** | Rare; achalasia type III or spastic motor-obstructive overlap |
+| REO | Spastic | **Spastic Obstruction** | Rare; [[achalasia]] type III or spastic motor-obstructive overlap |
 | REO | Normal | **Obstruction with Normal Contractility** | Suggests mechanical obstruction (tight wrap, ring, web) |
 | REO | Diminished or Absent | **Non-spastic Obstruction** | 92% manometric EGJOO; 77% abnormal TBE |
 
@@ -122,7 +122,7 @@ Six-category matrix combining EGJ Opening × Contractile Response:
 
 ## Key Clinical Rules
 
-1. **FLIP does not replace HRM for achalasia subtyping** — HRM (Chicago Classification) defines Type I/II/III and guides POEM vs. PD vs. LHM selection
+1. **FLIP does not replace HRM for achalasia subtyping** — HRM (Chicago Classification) defines Type I/II/III and guides [[poem|POEM]] vs. PD vs. LHM selection
 2. **Normal FLIP excludes achalasia** — a clinically actionable high-NPV result when achalasia is a concern at time of endoscopy
 3. **REO = EGJOO equivalent** — manage as outflow obstruction; HRM for subtyping if not yet done
 4. **Inconclusive EGJ Opening** — report numerically; correlate with symptoms and TBE; consider HRM

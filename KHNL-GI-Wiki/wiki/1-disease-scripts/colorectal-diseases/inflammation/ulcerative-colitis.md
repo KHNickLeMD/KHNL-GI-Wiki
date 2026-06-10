@@ -4,7 +4,7 @@ category: disease-script
 tags: [uc, ulcerative-colitis, ibd, 5-asa, biologics, anti-tnf, vedolizumab, asuc, pancolitis, proctitis]
 created: 2026-05-07
 updated: 2026-05-07
-sources: [acg-2025-uc, aga-2024-uc-pharm, aga-2024-pouchitis, aga-2023-biomarkers-uc]
+sources: [acg-2025-uc, aga-2024-uc-pharm, aga-2024-pouchitis, aga-2023-biomarkers-uc, acg-2019-uc]
 ---
 
 # Ulcerative Colitis
@@ -72,11 +72,11 @@ Idiopathic chronic inflammatory disorder of the large intestine. Continuous muco
 
 | Condition | Distinguishing features |
 |---|---|
-| Crohn's disease | Rectal sparing, skip lesions, transmural, fistulas, ileitis, granulomas |
+| [[crohns-disease|Crohn's disease]] | Rectal sparing, skip lesions, transmural, fistulas, ileitis, granulomas |
 | Infectious colitis (bacterial) | Acute onset; stool culture; history of travel/antibiotic use |
 | C. difficile colitis | Toxin+ PCR; risk factors (antibiotics, hospitalization, [[inflammatory-bowel-disease|IBD]]) |
 | [[colon-ischemia|Ischemic colitis]] | Vascular risk factors; watershed distribution; transient course |
-| Microscopic colitis | Watery nonbloody diarrhea; normal endoscopy; biopsy required |
+| [[microscopic-colitis|Microscopic colitis]] | Watery nonbloody diarrhea; normal endoscopy; biopsy required |
 | Radiation proctitis | History of pelvic radiation |
 | Diversion colitis | Post-ostomy segment; mucous discharge |
 | Medication-induced colitis | NSAID, mycophenolate, checkpoint inhibitor (immune checkpoint colitis) |
@@ -93,7 +93,7 @@ Idiopathic chronic inflammatory disorder of the large intestine. Continuous muco
   - <187 μg/g: mucosal healing
   - >321 μg/g in clinical remission: risk of relapse
 - **Stool cultures + C. diff testing:** at diagnosis and with suspected flares
-- **Colonoscopy with biopsies:** standard; biopsy endoscopically normal segments (histologic disease may extend beyond endoscopic extent)
+- **[[colonoscopy|Colonoscopy]] with biopsies:** standard; biopsy endoscopically normal segments (histologic disease may extend beyond endoscopic extent)
 - **Sigmoidoscopy:** acceptable in severe disease (lower perforation risk); sufficient to assess severity + CMV biopsy
 - **Intestinal ultrasound (IUS):** noninvasive monitoring tool; BWT >3mm (colon) or >4mm (rectum) = active; detects response in 2 weeks; transperineal approach for rectum
 - **[[upper-endoscopy|Upper endoscopy]]/SB imaging:** NOT routinely needed if TI normal; order only if symptoms or CD concern
@@ -125,7 +125,7 @@ Idiopathic chronic inflammatory disorder of the large intestine. Continuous muco
 
 1. **Rectal mesalamine 1 g/day suppository** — first-line induction (Strong)
 2. Rectal corticosteroid suppository/foam — if 5-ASA fails (Conditional)
-3. Tacrolimus suppository or beclomethasone suppository — if 5-ASA fails (Conditional)
+3. [[tacrolimus|Tacrolimus]] suppository or beclomethasone suppository — if 5-ASA fails (Conditional)
 
 - Maintenance: rectal mesalamine 1 g/day
 
@@ -307,3 +307,4 @@ Idiopathic chronic inflammatory disorder of the large intestine. Continuous muco
 2. [[aga-2024-uc-pharm|AGA Living Guideline: Pharmacologic Management of Moderate-to-Severe Ulcerative Colitis (2024)]]
 3. [[aga-2024-pouchitis|AGA Clinical Practice Guideline: Management of Pouchitis and Inflammatory Pouch Disorders (2024)]]
 4. [[aga-2023-biomarkers-uc|AGA Clinical Practice Guideline: Role of Biomarkers for the Management of Ulcerative Colitis (2023)]]
+5. [[acg-2019-uc|ACG 2019: Ulcerative Colitis in Adults (historical)]]

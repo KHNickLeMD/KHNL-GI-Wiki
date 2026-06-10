@@ -21,7 +21,7 @@ A permanent immune-mediated enteropathy triggered by gluten (proteins in wheat, 
 
 Classical GI indications:
 
-- Chronic diarrhea ± weight loss, steatorrhea, symptomatic malabsorption
+- [[chronic-diarrhea|Chronic diarrhea]] ± weight loss, steatorrhea, symptomatic malabsorption
 - Unexplained iron deficiency anemia
 - Postprandial bloating and gas
 
@@ -39,7 +39,7 @@ Non-classical / extra-intestinal indications:
 At-risk groups:
 
 - First-degree relatives of confirmed CD patients (test even if asymptomatic; risk ~10–20% in siblings)
-- Type 1 diabetes mellitus (CD prevalence 3–10%; screen if any suggestive symptoms; obtain duodenal biopsies opportunistically at upper endoscopy)
+- Type 1 diabetes mellitus (CD prevalence 3–10%; screen if any suggestive symptoms; obtain duodenal biopsies opportunistically at [[upper-endoscopy|upper endoscopy]])
 - Down syndrome, Turner syndrome
 - [[irritable-bowel-syndrome|Irritable bowel syndrome]]-type presentation (rule out CD)
 
@@ -121,7 +121,7 @@ Note: Persistent intraepithelial lymphocytosis (Marsh I) may persist in 56% of t
 
 - Autoimmune enteropathy
 - Tropical sprue
-- Small intestinal bacterial overgrowth (SIBO)
+- [[small-intestinal-bacterial-overgrowth|Small intestinal bacterial overgrowth (SIBO)]]
 - Hypogammaglobulinemia / common variable immune deficiency (CVID)
 - Collagenous sprue
 - Eosinophilic enteritis
@@ -131,12 +131,12 @@ Note: Persistent intraepithelial lymphocytosis (Marsh I) may persist in 56% of t
 
 **For CD-like symptoms without villous atrophy:**
 
-- [[disorders-of-gut-brain-interaction]] — IBS, functional dyspepsia
+- [[disorders-of-gut-brain-interaction]] — IBS, functional [[dyspepsia]]
 - Food intolerances (lactose, fructose, FODMAPs)
 - SIBO
 - Eosinophilic enteritis
-- Crohn's disease
-- Microscopic colitis
+- [[crohns-disease|Crohn's disease]]
+- [[microscopic-colitis|Microscopic colitis]]
 
 **For Marsh I (lymphocytic duodenosis only):**
 
@@ -217,7 +217,7 @@ Note: Persistent intraepithelial lymphocytosis (Marsh I) may persist in 56% of t
 **Not recommended:**
 
 - Gluten detection devices (Nima sensor, etc.) for routine monitoring — insufficient evidence of benefit; significant false-positive and false-negative rates
-- Probiotics — insufficient evidence; some marketed probiotics contain detectable gluten
+- [[probiotics|Probiotics]] — insufficient evidence; some marketed probiotics contain detectable gluten
 
 ### Monitoring After Diagnosis
 

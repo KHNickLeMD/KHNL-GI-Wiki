@@ -29,7 +29,7 @@ A gut-selective, non-absorbable oral antibiotic (rifamycin derivative). Minimal 
 - 550 mg t.i.d. × 14 days; retreatment approved for recurrence
 - Efficacy in IBS-D likely via microbiome modulation; patients with elevated baseline hydrogen on breath testing had greatest benefit (TARGET 3 trial data)
 
-**Hepatic encephalopathy (FDA-approved; [[aasld-easl-2014-hepatic-encephalopathy]]):**
+**[[hepatic-encephalopathy|Hepatic encephalopathy]] (FDA-approved; [[aasld-easl-2014-hepatic-encephalopathy]]):**
 
 - 550 mg b.i.d. (secondary prophylaxis); add-on to lactulose after ≥2 overt HE episodes (Rec 26, Grade I, A, 1)
 - NEJM 2010 RCT (n=299): rifaximin reduced OHE recurrence (HR 0.42) and HE-related hospitalization (HR 0.50) vs. placebo, with 91% lactulose background

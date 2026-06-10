@@ -11,7 +11,7 @@ sources: [acg-2020-esophageal-physiologic-testing]
 
 ## Overview
 
-High-resolution manometry uses a solid-state catheter with closely spaced pressure sensors to generate esophageal pressure topography (EPT) plots, interpreted using the **Chicago Classification v4.0** (see [[chicago-classification-v4]]).
+High-resolution manometry uses a solid-state catheter with closely spaced pressure sensors to generate esophageal pressure topography (EPT) plots, interpreted using the **[[chicago-classification-v4|Chicago Classification v4]].0** (see [[chicago-classification-v4]]).
 
 **Standard protocol (Chicago v4.0):**
 
@@ -41,11 +41,11 @@ High-resolution manometry uses a solid-state catheter with closely spaced pressu
 
 See [[chicago-classification-v4]] for the full algorithm:
 
-- EGJ outflow obstruction → determine if achalasia spectrum or isolated EGJOO (requires TBE + [[flip-panometry]] for EGJOO)
+- EGJ outflow obstruction → determine if [[achalasia]] spectrum or isolated EGJOO (requires TBE + [[flip-panometry]] for EGJOO)
 - Absent contractility
-- Ineffective esophageal motility (IEM): >70% ineffective or ≥50% failed swallows
-- Distal esophageal spasm (DES)
-- Hypercontractile esophagus
+- [[ineffective-esophageal-motility|Ineffective esophageal motility]] (IEM): >70% ineffective or ≥50% failed swallows
+- [[distal-esophageal-spasm|Distal esophageal spasm]] (DES)
+- [[hypercontractile-esophagus|Hypercontractile esophagus]]
 
 ---
 
@@ -55,7 +55,7 @@ Supplementary provocative maneuvers improve diagnostic yield beyond the standard
 
 | Maneuver | Technique | Purpose |
 |---|---|---|
-| **Multiple rapid swallows (MRS)** | 5 × 2 mL water, each < 3 seconds apart | Assesses deglutitive inhibition and contraction reserve; absence of post-MRS robust contraction correlates with higher risk of post-fundoplication dysphagia |
+| **Multiple rapid swallows (MRS)** | 5 × 2 mL water, each < 3 seconds apart | Assesses deglutitive inhibition and contraction reserve; absence of post-MRS robust contraction correlates with higher risk of post-fundoplication [[dysphagia]] |
 | **Rapid drink challenge (RDC)** | Free drinking of 100–200 mL water through straw in upright position | Elevates LES postswallow residual pressure/panesophageal pressurization in EGJ outflow obstruction; detects obstruction not evident on single swallows |
 | **Solid test meal (STM)** | Cooked rice/gravy or cheese-and-onion pasty | Increases diagnostic yield for EGJ outflow obstruction and spasm; reproduces symptoms |
 
@@ -83,7 +83,7 @@ HRM is superior to endoscopy and barium radiography for detecting sliding hiatal
 |---|---|---|---|
 | HRM (vs. surgical gold standard) | 94.3% | 91.5% | Prospective 100-patient study |
 | Conventional manometry | 28% | 97% | Retrospective 215-patient study |
-| Endoscopy (in morbid obesity) | ≤40% | ≥94% | |
+| Endoscopy (in morbid [[obesity]]) | ≤40% | ≥94% | |
 | Barium radiography | 77.4% (obese); 44.0% | Variable | |
 
 Manometric hiatal hernia criteria: LES-CD separation >2 cm. Body position affects detection: higher detection in upright or standing vs. supine positions.
@@ -92,9 +92,9 @@ Manometric hiatal hernia criteria: LES-CD separation >2 cm. Body position affect
 
 ## HRM for Extraesophageal/Atypical Symptoms
 
-- Among 177 patients with noncardiac chest pain (NCCP) who underwent HRM + pH testing: 35% had GERD, 7% had jackhammer esophagus, 5% had distal esophageal spasm, 2% had achalasia — HRM changed management
+- Among 177 patients with noncardiac chest pain (NCCP) who underwent HRM + pH testing: 35% had [[gerd|GERD]], 7% had jackhammer esophagus, 5% had distal esophageal spasm, 2% had achalasia — HRM changed management
 - In patients with suspected GERD: 3% undergoing fundoplication had achalasia spectrum disorders on preoperative HRM; 29% of patients treated unsuccessfully for GERD with antisecretory medications ultimately had achalasia
-- Post-prandial HRIM (high-resolution impedance manometry): identifies rumination syndrome (sensitivity/specificity 75–80%/100%); identifies supragastric belching
+- Post-prandial HRIM (high-resolution impedance manometry): identifies [[rumination-syndrome|rumination syndrome]] (sensitivity/specificity 75–80%/100%); identifies supragastric belching
 - HRIM for chest pain: HRM complements diagnostic evaluation of chest pain not responsive to PPI therapy (Key concept, ACG 2020)
 
 ---

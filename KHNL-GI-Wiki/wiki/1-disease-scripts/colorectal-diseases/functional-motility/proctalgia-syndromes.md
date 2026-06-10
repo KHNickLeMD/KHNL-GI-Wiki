@@ -39,11 +39,11 @@ sources: [acg-2021-anorectal-disorders]
 | Chronic pelvic pain | Women; gynecological source; pelvic examination |
 | Prostatitis (men) | Perineal/prostatic tenderness; urinary symptoms |
 | Pudendal neuralgia | Burning quality; sitting-provoked; Tinel's sign at Alcock's canal |
-| Levator spasm (secondary to [[anal-fissure|anal fissure]], [[hemorrhoids|hemorrhoids]]) | Structural cause present; treat underlying condition |
+| Levator spasm (secondary to [[anal-fissure|anal fissure]], [[hemorrhoids]]) | Structural cause present; treat underlying condition |
 | Crohn's perianal disease | Fistulas, skin tags, atypical fissures; [[crohns-disease]] |
 | Endometriosis | Women; cyclical pain; pelvic MRI |
 
-Note: concurrent anal fissures, prolapsed hemorrhoids, or other anorectal pathology do NOT invalidate the diagnosis of chronic proctalgia or PF — manage concurrently.
+Note: concurrent anal fissures, prolapsed [[hemorrhoids]], or other anorectal pathology do NOT invalidate the diagnosis of chronic proctalgia or PF — manage concurrently.
 
 ---
 

@@ -22,7 +22,7 @@ Pancreatic ductal adenocarcinoma (PDAC) is the dominant malignancy of the exocri
 ## Assessment
 
 ### Establishing the Diagnosis
-Symptomatic PDAC typically presents late with painless jaundice (head lesions obstructing the bile duct), weight loss, epigastric/back pain, new-onset diabetes, or anorexia. Cross-sectional imaging (pancreas-protocol CT or MRI/MRCP) identifies the mass and assesses vascular involvement/resectability; tissue is obtained by [[endoscopic-ultrasound|EUS]]-guided fine-needle aspiration/biopsy. CA 19-9 supports diagnosis and tracks response but is neither sensitive nor specific. By contrast, screen-detected disease in high-risk individuals is generally found as small solid lesions, high-grade dysplasia, or grade III pancreatic intraepithelial neoplasia.
+Symptomatic PDAC typically presents late with painless [[jaundice]] (head lesions obstructing the bile duct), weight loss, epigastric/back pain, new-onset diabetes, or anorexia. Cross-sectional imaging (pancreas-protocol CT or MRI/MRCP) identifies the mass and assesses vascular involvement/resectability; tissue is obtained by [[endoscopic-ultrasound|EUS]]-guided fine-needle aspiration/biopsy. CA 19-9 supports diagnosis and tracks response but is neither sensitive nor specific. By contrast, screen-detected disease in high-risk individuals is generally found as small solid lesions, high-grade dysplasia, or grade III pancreatic intraepithelial neoplasia.
 
 ### Risk Stratification / Genetic Susceptibility
 Germline pathogenic variants account for a meaningful share of PDAC — [[brca-pathogenic-variants|BRCA1/2]] variants are present in up to 7% of all pancreatic cancer patients. Conditions conferring increased risk include:
@@ -37,10 +37,10 @@ Germline pathogenic variants account for a meaningful share of PDAC — [[brca-p
 - **[[lynch-syndrome|Lynch syndrome]]** with a first- or second-degree relative with pancreatic cancer.
 - **[[hereditary-pancreatitis|Autosomal-dominant hereditary pancreatitis]]**.
 
-Importantly, per [[asge-2022-pancreatic-cancer-screening|ASGE 2022]], BRCA1/2 carriers should be considered for screening **regardless of family history** of pancreatic cancer, because ~2 of 3 BRCA-associated cancers would otherwise be missed. A family history of pancreatic cancer not meeting FPC criteria confers ~2-fold increased risk but is generally not an indication for screening on its own; diabetes, older age, smoking, obesity, and chronic pancreatitis raise risk to a lesser degree than the genetic conditions above.
+Importantly, per [[asge-2022-pancreatic-cancer-screening|ASGE 2022]], BRCA1/2 carriers should be considered for screening **regardless of family history** of pancreatic cancer, because ~2 of 3 BRCA-associated cancers would otherwise be missed. A family history of pancreatic cancer not meeting FPC criteria confers ~2-fold increased risk but is generally not an indication for screening on its own; diabetes, older age, smoking, [[obesity]], and [[chronic-pancreatitis|chronic pancreatitis]] raise risk to a lesser degree than the genetic conditions above.
 
 ### High-Risk Surveillance
-See the [[pancreatic-cancer-screening|high-risk pancreatic cancer surveillance]] concept page for the full ASGE 2022 framework. In brief: screening is suggested for individuals at increased genetic risk; modality is [[endoscopic-ultrasound|EUS]], MRI/MRCP, or EUS alternating with MRI; screening is annual; and the starting age varies by condition (e.g., BRCA1/2/PALB2/FPC/ATM/Lynch age 50 or 10 years before the youngest affected relative; FAMMM age 40; Peutz-Jeghers age 35; hereditary pancreatitis age 40).
+See the [[pancreatic-cancer-screening|high-risk pancreatic cancer surveillance]] concept page for the full ASGE 2022 framework. In brief: screening is suggested for individuals at increased genetic risk; modality is [[endoscopic-ultrasound|EUS]], MRI/MRCP, or EUS alternating with MRI; screening is annual; and the starting age varies by condition (e.g., BRCA1/2/PALB2/FPC/ATM/Lynch age 50 or 10 years before the youngest affected relative; FAMMM age 40; Peutz-Jeghers age 35; [[hereditary-pancreatitis|hereditary pancreatitis]] age 40).
 
 ## Differential Diagnosis
 - Other solid pancreatic masses: neuroendocrine tumor, metastasis, lymphoma, solid pseudopapillary neoplasm.

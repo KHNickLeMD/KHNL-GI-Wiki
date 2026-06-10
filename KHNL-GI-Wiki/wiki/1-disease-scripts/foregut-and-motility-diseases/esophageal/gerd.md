@@ -21,14 +21,14 @@ sources: [asge-2024-gerd, acg-2021-gerd, sages-2021-gerd-surgery, lyon-2024-gerd
 
 **Endoscopy is recommended** (strong, moderate evidence) for alarm symptoms:
 
-- Dysphagia, odynophagia
+- [[dysphagia|Dysphagia]], odynophagia
 - Weight loss
 - GI bleeding (hematemesis, melena, iron deficiency anemia)
 - Persistent vomiting
 
 **Endoscopy is suggested** (conditional, low evidence) for:
 
-- [[barretts-esophagus|Barrett's esophagus]] risk factor screening: family history of BE or esophageal adenocarcinoma; OR GERD plus at least one of: age >50, male sex, white race, smoking, obesity
+- [[barretts-esophagus|Barrett's esophagus]] risk factor screening: family history of BE or [[esophageal-adenocarcinoma|esophageal adenocarcinoma]]; OR GERD plus at least one of: age >50, male sex, white race, smoking, [[obesity]]
 - Pediatric GERD with atypical/suggestive features: poor weight gain, unexplained anemia, concern for GI bleeding, recurrent pneumonia, regurgitation/vomiting
 
 **Special populations requiring endoscopic evaluation:**
@@ -38,14 +38,14 @@ sources: [asge-2024-gerd, acg-2021-gerd, sages-2021-gerd-surgery, lyon-2024-gerd
 
 ### Severity Assessment
 
-Objective severity is assessed endoscopically and with reflux testing:
+Objective severity is assessed endoscopically and with [[reflux-testing|reflux testing]]:
 
 **Endoscopic findings — required documentation elements (strong, very low evidence):**
 
 - Erosive esophagitis: grade by LA classification (A–D)
   - LA-A/B: mild-to-moderate esophagitis
   - LA-C/D: severe esophagitis; LA-D is associated with Barrett's
-- Barrett's esophagus: describe by Prague C&M classification
+- [[barretts-esophagus|Barrett's esophagus]]: describe by Prague C&M classification
 - Peptic stricture
 - Hiatal hernia: measure axial length in cm; classify by Hill grade or AFS grade
 - GEJ landmarks: top of gastric folds, Z-line, diaphragmatic impression (forward view and retroflexion)
@@ -78,8 +78,8 @@ Objective severity is assessed endoscopically and with reflux testing:
 
 | Condition | Key Distinguishing Features |
 |-----------|----------------------------|
-| Eosinophilic esophagitis ([[eosinophilic-esophagitis]]) | Dysphagia-predominant; younger patients; rings/furrows/exudate on EGD; >15 eos/HPF on biopsy; often atopic; PPI trial may partially respond but diagnosis requires biopsy |
-| Achalasia ([[achalasia]]) | Regurgitation of undigested food; dysphagia to liquids and solids; bird-beak on barium; elevated LES pressure on HRM; absent peristalsis |
+| [[eosinophilic-esophagitis|Eosinophilic esophagitis]] ([[eosinophilic-esophagitis]]) | Dysphagia-predominant; younger patients; rings/furrows/exudate on EGD; >15 eos/HPF on biopsy; often atopic; PPI trial may partially respond but diagnosis requires biopsy |
+| [[achalasia|Achalasia]] ([[achalasia]]) | Regurgitation of undigested food; dysphagia to liquids and solids; bird-beak on barium; elevated LES pressure on HRM; absent peristalsis |
 | Functional heartburn | Normal AET on pH study, normal impedance; symptom-reflux correlation absent; Rome V criteria; PPI often ineffective |
 | [[peptic-ulcer-disease|Peptic ulcer disease]] | Epigastric pain; [[helicobacter-pylori-infection|H. pylori]] association; EGD shows ulceration; not position-related |
 | Esophageal dysmotility | Dysphagia, chest pain; manometry distinguishes; consider pre-TIF workup |

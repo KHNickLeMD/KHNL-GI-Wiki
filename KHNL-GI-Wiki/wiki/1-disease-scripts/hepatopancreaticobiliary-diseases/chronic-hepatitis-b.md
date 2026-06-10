@@ -19,7 +19,7 @@ CHB is defined as HBsAg-positive for >6 months. Screen all adults ≥18 years at
 - HBeAg and anti-HBe
 - ALT (use sex-specific ULN: M <35 U/L, F <25 U/L)
 - Fibrosis assessment (elastography preferred over FIB-4; elastography cutoff ≥7 kPa for F2, ≥8 kPa sensitive for F3/F4; FIB-4 >1.45 sensitive for advanced fibrosis)
-- Liver biopsy: infrequently used; most accurate for inflammation grade
+- [[liver-biopsy|Liver biopsy]]: infrequently used; most accurate for inflammation grade
 - Screen for co-infections: anti-HDV, [[hepatitis-c|HCV]] RNA, HIV
 
 **ALT upper limits of normal (2025 AASLD):**
@@ -59,7 +59,7 @@ CHB is a dynamic disease. Phase determination requires ≥2 measurements ≥6 mo
 
 ## Differential Diagnosis
 
-- Hepatitis C (HCV RNA)
+- [[hepatitis-c|Hepatitis C]] (HCV RNA)
 - Hepatitis D co-infection (anti-HDV; critically worsens prognosis)
 - Hepatitis A (acute superinfection)
 - [[autoimmune-hepatitis|Autoimmune hepatitis]] (anti-smooth muscle, ANA, IgG)
@@ -129,7 +129,7 @@ Peginterferon: rarely used (limited applicability, poor tolerability); higher ra
 
 **Inactive phase** (HBeAg−, DNA <2000, normal ALT): Monitor; no treatment indicated.
 
-**Cirrhosis** (compensated or decompensated): Treat with ETV, TDF, or TAF regardless of DNA/ALT level; HCC surveillance every 6 months; refer decompensated for [[liver-transplantation|transplant]] evaluation.
+**Cirrhosis** (compensated or decompensated): Treat with ETV, TDF, or TAF regardless of DNA/ALT level; [[hcc-surveillance|HCC surveillance]] every 6 months; refer decompensated for [[liver-transplantation|transplant]] evaluation.
 
 ### NA Discontinuation
 

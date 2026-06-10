@@ -53,18 +53,18 @@ Assess impact on quality of life using validated tools (PAC-QoL, PAC-SYM) and st
 | Condition | Key Features |
 |-----------|-------------|
 | IBS-C | Abdominal pain is central symptom; bloating; pain relieved by defecation |
-| Opioid-induced constipation | Clear opioid use; consider methylnaltrexone, naloxegol, or [[lubiprostone|lubiprostone]] specifically |
+| Opioid-induced constipation | Clear opioid use; consider methylnaltrexone, naloxegol, or [[lubiprostone]] specifically |
 | Defecation disorder | Outlet symptoms; abnormal ARM + BET; treat with [[biofeedback-therapy|biofeedback]], not secretagogues |
 | Hypothyroidism | TSH elevated; cold intolerance, fatigue, weight gain |
 | Hypercalcemia | Fatigue, polyuria, confusion; check calcium |
 | Medication-induced | Opioids, anticholinergics, iron, CCBs — review medication list |
-| [[colorectal-cancer|Colorectal cancer]] | Alarm features present (see below); [[colonoscopy|colonoscopy]] indicated |
+| [[colorectal-cancer|Colorectal cancer]] | Alarm features present (see below); [[colonoscopy]] indicated |
 | Hirschsprung disease | Usually diagnosed in childhood; adult cases rare; suction rectal biopsy |
 
-**Alarm features requiring structural evaluation (colonoscopy):**
+**Alarm features requiring structural evaluation ([[colonoscopy]]):**
 
 - Age ≥45 with new-onset constipation and no prior colonoscopy
-- Rectal bleeding not explained by hemorrhoids
+- Rectal bleeding not explained by [[hemorrhoids]]
 - Unexplained weight loss ≥10 lbs
 - Family history of CRC or [[inflammatory-bowel-disease|IBD]]
 - Iron deficiency anemia
@@ -82,7 +82,7 @@ Assess impact on quality of life using validated tools (PAC-QoL, PAC-SYM) and st
 
 ### Anorectal Physiology Testing (if outlet dysfunction suspected)
 
-- **Anorectal manometry (ARM):** measures resting tone, squeeze, push effort, rectoanal inhibitory reflex
+- **[[anorectal-manometry|Anorectal manometry (ARM)]]:** measures resting tone, squeeze, push effort, rectoanal inhibitory reflex
 - **Balloon expulsion test (BET):** expulsion of 50 mL balloon within 1 minute (seated); abnormal >1 min; >2 min with Foley catheter = abnormal
 - **Defecography (barium or MRI):** for structural abnormalities (rectocele, prolapse) if ARM + BET discordant or biofeedback fails
 - **Colonic transit study** (radiopaque markers or wireless motility capsule): only if anorectal physiology is normal and patient not responding to biofeedback; distinguishes slow-transit from outlet dysfunction
@@ -117,18 +117,18 @@ Assess impact on quality of life using validated tools (PAC-QoL, PAC-SYM) and st
 | **[[linaclotide|Linaclotide]]** | GC-C agonist | 145 mcg daily (CIC dose) | Strong/Moderate | ~$523 |
 | **[[plecanatide|Plecanatide]]** | GC-C agonist | 3 mg daily | Strong/Low | ~$526 |
 | **[[prucalopride|Prucalopride]]** | 5-HT4 agonist (prokinetic) | 1–2 mg daily | Strong/Low | ~$563 |
-| **Lubiprostone** | ClC-2 chloride channel activator | 24 mcg BID | Conditional/Low | ~$374 |
+| **[[lubiprostone|Lubiprostone]]** | ClC-2 chloride channel activator | 24 mcg BID | Conditional/Low | ~$374 |
 
 **Notes on selection:**
 
-- Linaclotide and plecanatide: GC-C agonists; accelerate intestinal transit and secretion; diarrhea is main side effect; do not use in known or suspected GI obstruction; linaclotide 72 mcg also approved for CIC
-- Prucalopride: prokinetic; useful when colon transit is slow; avoid in renal failure (dose reduction)
+- [[linaclotide|Linaclotide]] and [[plecanatide]]: GC-C agonists; accelerate intestinal transit and secretion; diarrhea is main side effect; do not use in known or suspected GI obstruction; linaclotide 72 mcg also approved for CIC
+- [[prucalopride|Prucalopride]]: prokinetic; useful when colon transit is slow; avoid in renal failure (dose reduction)
 - Lubiprostone: FDA-approved for CIC in adults ≥18 years; nausea in 20–30%; limited by cost and need for BID dosing
 - IBS-C note: linaclotide 290 mcg, plecanatide 6 mg, and tegaserod (withdrawn in US) are IBS-C specific doses — do not apply this guideline to IBS-C
 
 ### Defecation Disorder: Biofeedback
 
-If defecation disorder is identified (abnormal ARM + BET), **biofeedback therapy** is first-line treatment (Strong/Moderate). Secretagogues and osmotic laxatives have limited efficacy in pure outlet dysfunction. See [[defecation-disorders]].
+If defecation disorder is identified (abnormal ARM + BET), **[[biofeedback-therapy|biofeedback therapy]]** is first-line treatment (Strong/Moderate). Secretagogues and osmotic laxatives have limited efficacy in pure outlet dysfunction. See [[defecation-disorders]].
 
 ### Refractory/Slow-Transit Constipation
 

@@ -17,13 +17,13 @@ Primary biliary cholangitis (PBC; formerly "primary biliary cirrhosis") is a chr
 
 1. **Biochemical evidence of cholestasis** — elevated serum ALP (cholestatic pattern)
 2. **Presence of AMA, or PBC-specific autoantibodies (sp100 or gp210) if AMA is negative**
-3. **Histologic evidence** of nonsuppurative destructive cholangitis and destruction of interlobular bile ducts on liver biopsy
+3. **Histologic evidence** of nonsuppurative destructive cholangitis and destruction of interlobular bile ducts on [[liver-biopsy|liver biopsy]]
 
 When criteria 1 + 2 are met, biopsy is not required for diagnosis.
 
-**Symptoms at presentation:** Most patients in the contemporary era are asymptomatic at diagnosis (detected via incidental ALP elevation). When symptomatic, the dominant complaints are **fatigue** (50–78% of patients) and **pruritus** (20–70%). Right upper quadrant pain in ~17%. Jaundice is a late finding.
+**Symptoms at presentation:** Most patients in the contemporary era are asymptomatic at diagnosis (detected via incidental ALP elevation). When symptomatic, the dominant complaints are **fatigue** (50–78% of patients) and **pruritus** (20–70%). Right upper quadrant pain in ~17%. [[jaundice|Jaundice]] is a late finding.
 
-**Physical exam:** Early stages: usually normal. Late stages: hepatomegaly, xanthelasma, xanthomas, jaundice, splenomegaly, ascites. Excoriations from pruritus. If limited scleroderma (CREST) coexists: sclerodactyly, telangiectasias.
+**Physical exam:** Early stages: usually normal. Late stages: hepatomegaly, xanthelasma, xanthomas, jaundice, splenomegaly, [[ascites]]. Excoriations from pruritus. If limited scleroderma (CREST) coexists: sclerodactyly, telangiectasias.
 
 ### Severity Assessment
 
@@ -85,7 +85,7 @@ Up to 40% of patients will have an inadequate response by one of these criteria 
 - **GGT:** Elevated (confirms hepatic origin of ALP elevation)
 - **ALT/AST:** Mild elevation typical; if ALT >5× ULN, evaluate for concomitant AIH (Guidance Statement 3)
 - **Bilirubin:** May be normal early; rising bilirubin signals disease progression
-- **Albumin + platelet count:** Early surrogates for cirrhosis and portal hypertension
+- **Albumin + platelet count:** Early surrogates for cirrhosis and [[portal-hypertension|portal hypertension]]
 - **IgM:** Typically elevated (characteristic of PBC; IgG elevation more suggestive of AIH overlap)
 - **TSH:** Annual screening — autoimmune thyroid disease significantly more common in PBC
 
@@ -169,7 +169,7 @@ UDCA and OCA do not improve fatigue or pruritus. These symptoms require separate
 - Most common PBC symptom; 50–78% of patients
 - Multifactorial — exclude hypothyroidism, depression, anemia, sleep apnea before attributing to PBC
 - **No effective pharmacotherapy established:** Ondansetron, fluoxetine, and modafinil (placebo-controlled RCT negative) have all failed
-- **Intractable fatigue is NOT a valid indication for liver transplantation** — fatigue usually persists post-transplant ([[aasld-2018-pbc]])
+- **Intractable fatigue is NOT a valid indication for [[liver-transplantation|liver transplantation]]** — fatigue usually persists post-transplant ([[aasld-2018-pbc]])
 - Education and counseling on symptom management and energy conservation are important
 
 #### Pruritus — Stepwise Approach
@@ -183,7 +183,7 @@ UDCA and OCA do not improve fatigue or pruritus. These symptoms require separate
 
 **Step 3 — Refractory to resins** (Guidance Statement 12):
 
-- **a. Rifampicin 150–300 mg twice daily** — pregnane X receptor agonist; effective in multiple small trials and 2 meta-analyses; avoid if bilirubin >2.5 mg/dL (hepatotoxicity risk including acute liver failure; monitor LFTs); enzyme inducer with multiple drug interactions
+- **a. Rifampicin 150–300 mg twice daily** — pregnane X receptor agonist; effective in multiple small trials and 2 meta-analyses; avoid if bilirubin >2.5 mg/dL (hepatotoxicity risk including [[acute-liver-failure|acute liver failure]]; monitor LFTs); enzyme inducer with multiple drug interactions
 - **b. Oral opiate antagonists — naltrexone**, start 12.5 mg/day, increase by 12.5 mg every 3–7 days to target dose 50 mg/day; opioid withdrawal-like reaction on initiation (abdominal pain, hypertension, tachycardia, goosebumps — self-limited; gradual titration minimizes); drug-induced liver injury uncommon but monitor LFTs; naloxone IV infusion is alternative
 - **c. Sertraline 75–100 mg/day** — small placebo-controlled trial and retrospective series showed benefit; effect independent of antidepressant action
 
@@ -255,7 +255,7 @@ Portal hypertension may develop as a result of biliary cirrhosis or, in the **pr
 
 PBC confers a slightly elevated [[hepatocellular-carcinoma|HCC]] risk (3.9 cases per 1,000 person-years), lower than viral hepatitis or hemochromatosis but clinically relevant. Men and patients with advanced disease are at highest risk. Suboptimal UDCA response is an important risk factor.
 
-**HCC surveillance with cross-sectional imaging ± AFP every 6 months** is currently advised for (Guidance Statement 16):
+**[[hcc-surveillance|HCC surveillance]] with cross-sectional imaging ± AFP every 6 months** is currently advised for (Guidance Statement 16):
 
 - Men with PBC
 - Patients with cirrhosis
@@ -286,7 +286,7 @@ PBC confers a slightly elevated [[hepatocellular-carcinoma|HCC]] risk (3.9 cases
 
 - **Recurrent PBC:** 20–30% by 10 years, up to 50% by 20 years. Median time to recurrence 3–6 years. Recurrent PBC infrequently affects long-term patient or graft survival.
 - **UDCA post-transplant:** Associated with lower recurrence rates (21% vs. 62%, P=0.004); continued indefinitely post-transplant.
-- **Cyclosporine-based IS** associated with reduced recurrence (not proven; [[tacrolimus|tacrolimus]]-based IS associated with higher recurrence rates in some studies).
+- **Cyclosporine-based IS** associated with reduced recurrence (not proven; [[tacrolimus]]-based IS associated with higher recurrence rates in some studies).
 - **After LT:** Pruritus improves; fatigue improves in subset but moderate-severe fatigue persists in ~50% at 2 years; sicca syndrome unchanged; AMA may persist or reappear (not indicative of recurrence); bone disease worsens initially then improves.
 
 ---
@@ -338,12 +338,12 @@ Risk of developing PBC is increased among first-degree relatives, especially fem
 | TSH | Annually |
 | Bone mineral density | Every 2 years |
 | Vitamins A, D, E + prothrombin time | Annually if bilirubin >2.0 |
-| Upper endoscopy (cirrhotic, Mayo risk >4.1, or elastography ≥17 kPa) | Every 1–3 years* |
+| [[upper-endoscopy|Upper endoscopy]] (cirrhotic, Mayo risk >4.1, or elastography ≥17 kPa) | Every 1–3 years* |
 | HCC ultrasound ± AFP (cirrhosis, or platelets <140,000/mm³ or Mayo risk ≥4.1) | Every 6 months |
 
 *Interval determined by findings on previous EGD.
 
-**General preventive advice:** Avoid excessive alcohol, obesity, cigarette smoking (promote disease progression and may jeopardize LT candidacy). Patients with cirrhosis: advise caution with NSAIDs, benzodiazepines, aminoglycoside antibiotics. Inform surgeons and anesthesiologists of cirrhosis prior to any surgery.
+**General preventive advice:** Avoid excessive alcohol, [[obesity]], cigarette smoking (promote disease progression and may jeopardize LT candidacy). Patients with cirrhosis: advise caution with NSAIDs, benzodiazepines, aminoglycoside antibiotics. Inform surgeons and anesthesiologists of cirrhosis prior to any surgery.
 
 ## See Also
 

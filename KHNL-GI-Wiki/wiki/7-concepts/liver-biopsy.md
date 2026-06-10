@@ -29,7 +29,7 @@ Liver biopsy should be considered when the diagnosis is in question and knowledg
 - **Multiple/coexisting parenchymal diseases** (e.g. steatosis plus HCV or hemochromatosis; overlap syndromes).
 - **Disease-specific roles** — diagnosis, staging, prognosis, or management for `[[autoimmune-hepatitis]]` (diagnosis, staging, and pre-immunosuppression decisions; portal plasma cell score may predict relapse), `[[nafld-masld|NAFLD/MASLD]]` (distinguishes steatohepatitis from simple steatosis, stages fibrosis), `[[primary-biliary-cholangitis|PBC]]` (AMA-negative or suspected overlap; advanced fibrosis predicts poorer UDCA response), `[[primary-sclerosing-cholangitis|PSC]]` (small-duct disease or overlap), `[[wilson-disease|Wilson disease]]` (quantitative hepatic copper), `[[hereditary-hemochromatosis|hemochromatosis]]` (iron quantification, fibrosis staging), and `[[drug-induced-liver-injury|DILI]]`.
 - **Focal/mass lesions** — image-guided biopsy when imaging is indeterminate; core (not aspirate) preferred when neoplasia is suspected. Concerns include sampling error and small tumor-track seeding risk (~0.13%) in `[[hepatocellular-carcinoma|HCC]]` and `[[cholangiocarcinoma]]`.
-- **Acute liver failure**, post-transplant allograft dysfunction, and evaluation of cryptogenic cirrhosis.
+- **[[acute-liver-failure|Acute liver failure]]**, post-transplant allograft dysfunction, and evaluation of cryptogenic cirrhosis.
 
 ## Approaches
 
@@ -43,9 +43,9 @@ The standard transthoracic intercostal approach, performed supine under local an
 
 ### Transvenous (Transjugular / Transfemoral)
 Accomplished via a jugular or femoral venous approach under fluoroscopy. Considered standard and preferred when percutaneous access is risky or limited:
-- **Clinically evident ascites** (transvenous generally recommended; alternatives are percutaneous after paracentesis, or laparoscopic — Rec 16).
+- **Clinically evident [[ascites]]** (transvenous generally recommended; alternatives are percutaneous after paracentesis, or laparoscopic — Rec 16).
 - **Uncooperative patients** (alternative to general anesthesia — Rec 15).
-- Known/suspected **hemostatic defect**, small/hard cirrhotic liver, morbid obesity with a difficult flank site.
+- Known/suspected **hemostatic defect**, small/hard cirrhotic liver, morbid [[obesity]] with a difficult flank site.
 - When **hepatic venous pressure gradient** measurement is also desired (relevant to `[[portal-hypertension]]`).
 
 Transvenous biopsy yields smaller specimens (typically 3 cores with a 19-gauge needle to limit sampling error). Bleeding risk appears similar to percutaneous overall, but comparative data are confounded by selection bias.

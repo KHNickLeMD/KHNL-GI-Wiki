@@ -19,7 +19,7 @@ Every bout of HE should be characterized along all four axes simultaneously:
 
 ### Axis 1 — Underlying Disease
 
-- **Type A** — HE resulting from **acute liver failure** (ALF); high cerebral edema risk; distinct management (see [[acute-liver-failure]]); NOT covered by this guideline
+- **Type A** — HE resulting from **[[acute-liver-failure|acute liver failure]]** (ALF); high cerebral edema risk; distinct management (see [[acute-liver-failure]]); NOT covered by this guideline
 - **Type B** — HE resulting predominantly from **portosystemic bypass/shunting** without intrinsic hepatocellular disease
 - **Type C** — HE resulting from **cirrhosis** — the most common type; this guideline's focus
 
@@ -57,12 +57,12 @@ Every bout of HE should be characterized along all four axes simultaneously:
 
 ## Epidemiology and Prognosis
 
-- OHE: 5–25% risk within 5 years of cirrhosis diagnosis (depends on presence of prior MHE/CHE, infections, VB, ascites, DM, hepatitis C)
+- OHE: 5–25% risk within 5 years of cirrhosis diagnosis (depends on presence of prior MHE/CHE, infections, VB, [[ascites]], DM, [[hepatitis-c|hepatitis C]])
 - Patients with prior OHE: 40% cumulative risk of recurrence at 1 year; 40% risk of another recurrence within 6 months despite lactulose treatment
 - After TIPS: OHE in 10–50% (1-year cumulative); greatest with large-diameter stents or very low portal pressure
 - MHE/CHE: 20–80% prevalence in cirrhosis; reduces QoL and impairs driving performance; predicts OHE development
 - HE accounts for ~110,000 US hospitalizations/year (2005–2009 data); hospital charges ~US$1 billion/year (2003 data)
-- **Recurrent intractable OHE together with liver failure = indication for liver transplantation**
+- **Recurrent intractable OHE together with liver failure = indication for [[liver-transplantation|liver transplantation]]**
 
 ---
 
@@ -124,7 +124,7 @@ All elements initiated simultaneously:
 
 ### Rifaximin (Add-On to Lactulose)
 
-- **Recommendation 20 (Grade I, A, 1):** Rifaximin is an effective add-on therapy to lactulose for **prevention of OHE recurrence**
+- **Recommendation 20 (Grade I, A, 1):** [[rifaximin|Rifaximin]] is an effective add-on therapy to lactulose for **prevention of OHE recurrence**
 - **Recommendation 26 (Grade I, A, 1):** Rifaximin as add-on to lactulose recommended for prevention of recurrent OHE **after the second episode**
 - Dosing: **550 mg BID** (standard secondary prophylaxis dose)
 - Rifaximin alone (without lactulose): no solid data — do NOT use as monotherapy
@@ -139,7 +139,7 @@ All elements initiated simultaneously:
 | Neomycin | Rec 23 (Grade II-1, B, 2) | Alternative for OHE treatment | Long-term ototoxicity/nephrotoxicity |
 | Metronidazole | Rec 24 (Grade II-3, B, 2) | Short-term alternative | Neurotoxicity/nephrotoxicity preclude long-term use |
 | Glycerol phenylbutyrate (GPB) | Investigational | Reduces episodes + time-to-event; further validation needed | |
-| Probiotics | Rec 29 guidance | Not routinely recommended for MHE apart from case-by-case basis | Limited high-quality RCT data |
+| [[probiotics|Probiotics]] | Rec 29 guidance | Not routinely recommended for MHE apart from case-by-case basis | Limited high-quality RCT data |
 | Flumazenil | Not routinely recommended | Transient benefit, no survival effect | Useful diagnostically or to temporize in BZD toxicity |
 | Albumin (IV) | No benefit on HE resolution in RCT | Related to better postdischarge survival | Not standard HE treatment |
 

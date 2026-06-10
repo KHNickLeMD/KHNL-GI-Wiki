@@ -29,8 +29,8 @@ sources: [acg-2017-hp-guidelines, acg-2024-hp-treatment]
 **Clinical presentation:**
 
 - Most patients are **asymptomatic**
-- Epigastric pain/discomfort, bloating, nausea, dyspepsia
-- Peptic ulcer disease (gastric or duodenal)
+- Epigastric pain/discomfort, bloating, nausea, [[dyspepsia]]
+- [[peptic-ulcer-disease|Peptic ulcer disease]] (gastric or duodenal)
 - GI bleeding (hematemesis, melena) — when ulcer complicated
 - Extraintestinal: iron deficiency anemia, ITP (less established)
 
@@ -46,7 +46,7 @@ sources: [acg-2017-hp-guidelines, acg-2024-hp-treatment]
 |---|---|
 | Peptic ulcer disease | Gastric or duodenal; risk of bleeding, perforation, obstruction |
 | Gastric MALT lymphoma | Low-grade B-cell lymphoma; eradication alone → remission in ~75% |
-| Gastric adenocarcinoma | Via Correa cascade: chronic gastritis → atrophy → metaplasia → dysplasia → cancer |
+| [[gastric-adenocarcinoma|Gastric adenocarcinoma]] | Via Correa cascade: chronic gastritis → atrophy → metaplasia → dysplasia → cancer |
 
 *H. pylori* eradication reduces but does not eliminate cancer risk once atrophy/metaplasia is established.
 
@@ -58,9 +58,9 @@ sources: [acg-2017-hp-guidelines, acg-2024-hp-treatment]
 
 - Functional dyspepsia (Rome IV criteria)
 - NSAID/aspirin-induced gastropathy
-- GERD / esophagitis
-- Gastroparesis
-- Gastric malignancy (alarm features: weight loss, dysphagia, early satiety, bleeding, age >55)
+- [[gerd|GERD]] / esophagitis
+- [[gastroparesis|Gastroparesis]]
+- Gastric malignancy (alarm features: weight loss, [[dysphagia]], early satiety, bleeding, age >55)
 
 ### For peptic ulcer disease
 
@@ -113,8 +113,8 @@ sources: [acg-2017-hp-guidelines, acg-2024-hp-treatment]
 
 | Regimen | Components | Duration | Strength |
 |---|---|---|---|
-| **Bismuth quadruple therapy (BQT)** [[bismuth-quadruple-therapy]] | PPI bid + bismuth subsalicylate 525 mg qid + metronidazole 500 mg qid + tetracycline 500 mg qid | 14 days | **Strong** |
-| **Vonoprazan dual therapy** | Vonoprazan 20 mg bid + amoxicillin 1 g bid | 14 days | **Strong** |
+| **[[bismuth-quadruple-therapy|Bismuth quadruple therapy (BQT)]]** [[bismuth-quadruple-therapy]] | PPI bid + bismuth subsalicylate 525 mg qid + metronidazole 500 mg qid + tetracycline 500 mg qid | 14 days | **Strong** |
+| **[[vonoprazan|Vonoprazan]] dual therapy** | Vonoprazan 20 mg bid + amoxicillin 1 g bid | 14 days | **Strong** |
 | **Vonoprazan triple therapy** | Vonoprazan 20 mg bid + amoxicillin 1 g bid + clarithromycin 500 mg bid | 14 days | **Strong** |
 | **Concomitant quadruple therapy** | PPI bid + amoxicillin 1 g bid + clarithromycin 500 mg bid + metronidazole 500 mg bid | 14 days | Conditional |
 | **Rifabutin triple therapy** | PPI bid + rifabutin 150 mg bid + amoxicillin 1 g bid | 14 days | Conditional (when other regimens contraindicated) |

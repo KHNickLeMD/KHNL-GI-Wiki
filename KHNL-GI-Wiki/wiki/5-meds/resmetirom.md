@@ -11,7 +11,7 @@ sources: [aasld-2024-resmetirom, aasld-2023-nafld]
 
 ## Indication & candidacy
 
-- Adults with MASH and F2–F3; liver biopsy NOT required. Identify by imaging-based NILDA (VCTE 8–15 kPa or MRE 3.1–4.4 kPa) or historical biopsy. See [[noninvasive-liver-disease-assessment]].
+- Adults with MASH and F2–F3; [[liver-biopsy|liver biopsy]] NOT required. Identify by imaging-based NILDA (VCTE 8–15 kPa or MRE 3.1–4.4 kPa) or historical biopsy. See [[noninvasive-liver-disease-assessment]].
 - **Efficacy (MAESTRO-NASH, 52 wk):** MASH resolution without worsening fibrosis 26–30% (vs 10% placebo); ≥1-stage fibrosis improvement 24–26% (vs 14%).
 
 ## Dosing

@@ -39,15 +39,15 @@ Familial adenomatous polyposis (FAP) and its related syndromes — attenuated FA
 - <100 adenomas at presentation; autosomal dominant; APC mutations at the far proximal (5') or far distal (3') end of gene, or certain exon 9 locations
 - Average ~25 polyps; more proximal colonic distribution; polyp number highly variable
 - CRC risk ~69%; average age of CRC diagnosis 54–58 years (range 29–81)
-- Onset of examination may be delayed to late teens/mid-20s; [[colonoscopy|colonoscopy]] every 1–2 years from age 18–20
+- Onset of examination may be delayed to late teens/mid-20s; [[colonoscopy]] every 1–2 years from age 18–20
 
-**MUTYH-Associated Polyposis (MAP)**:
+**[[mutyh-associated-polyposis|MUTYH-Associated Polyposis]] (MAP)**:
 
 - Biallelic MUTYH mutations; **autosomal recessive** (both alleles must be mutated)
 - MUTYH is a base excision repair gene; failure → G:C→T:A transversions in APC and KRAS
 - Phenotype: 20–99 adenomas (rarely >500); average age of CRC diagnosis 48–50; CRC present in ~60% at MAP diagnosis
 - Two predominant MUTYH mutations in Western populations: Y179C (formerly Y165C) and G396D (formerly G382D); together account for >80% of MAP mutations in European ancestry
-- Monoallelic MUTYH carriers: slightly elevated CRC risk (~1.5–2-fold above general population); no formal surveillance consensus; consider colonoscopy from 5 years before earliest family CRC
+- Monoallelic MUTYH carriers: slightly elevated CRC risk (~1.5–2-fold above general population); no formal surveillance consensus; consider [[colonoscopy]] from 5 years before earliest family CRC
 - MAP CRCs are predominantly distal; multiple hyperplastic and/or sessile serrated adenomas may co-occur
 - Polymerase proofreading-associated polyposis (POLE/POLD1): newly described syndrome; oligo-adenomatous polyposis; autosomal dominant; high penetrance; POLD1 mutation associated with endometrial and possibly brain tumors in women
 
@@ -65,9 +65,9 @@ Familial adenomatous polyposis (FAP) and its related syndromes — attenuated FA
 
 - **[[lynch-syndrome]]** — fewer polyps (usually <10); right-sided; MMR gene mutations
 - **[[serrated-polyposis-syndrome]]** — predominantly serrated/hyperplastic polyps; no clear germline etiology
-- **Juvenile polyposis syndrome** — hamartomatous polyps; SMAD4/BMPR1A; see [[juvenile-polyposis-syndrome]]
+- **[[juvenile-polyposis-syndrome|Juvenile polyposis syndrome]]** — hamartomatous polyps; SMAD4/BMPR1A; see [[juvenile-polyposis-syndrome]]
 - **[[peutz-jeghers-syndrome]]** — hamartomas + mucocutaneous pigmentation; STK11
-- **Cowden syndrome** — hamartomas + PTEN mutation; see [[cowden-syndrome]]
+- **[[cowden-syndrome|Cowden syndrome]]** — hamartomas + PTEN mutation; see [[cowden-syndrome]]
 - **Hereditary mixed polyposis syndrome (HMPS)** — mixed juvenile-adenomatous and serrated adenomas; linked to GREM1 duplication; may be misdiagnosed as JPS or SPS
 
 ---

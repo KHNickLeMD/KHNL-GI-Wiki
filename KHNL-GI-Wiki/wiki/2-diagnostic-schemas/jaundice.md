@@ -45,7 +45,7 @@ Conjugated cases are then split by the **R-ratio / pattern of liver enzymes** in
 - **Viral hepatitis** — [[hepatitis-c]], [[chronic-hepatitis-b]], hepatitis A/E
 - **[[alcohol-associated-liver-disease|Alcohol-associated hepatitis]]** — AST:ALT >2, often very high bilirubin
 - **[[drug-induced-liver-injury]]** — acetaminophen and idiosyncratic DILI; herbal/dietary supplements
-- **[[autoimmune-hepatitis]]**, ischemic hepatitis ("shock liver"), Wilson disease ([[wilson-disease]])
+- **[[autoimmune-hepatitis]]**, ischemic hepatitis ("shock liver"), [[wilson-disease|Wilson disease]] ([[wilson-disease]])
 - **Cirrhosis / decompensation** of any chronic liver disease (e.g. [[nafld-masld|MASLD]])
 - Inherited excretion defects — Dubin-Johnson, Rotor (benign conjugated)
 
@@ -55,7 +55,7 @@ Conjugated cases are then split by the **R-ratio / pattern of liver enzymes** in
 
 - **[[choledocholithiasis]]** — most common; ± ascending cholangitis (Charcot's triad)
 - **Malignant biliary obstruction** — pancreatic head cancer, [[cholangiocarcinoma]], ampullary tumor, gallbladder cancer ([[biliary-stricture|biliary stricture differential]])
-- **Benign strictures** — post-surgical, chronic pancreatitis ([[chronic-pancreatitis]]), IgG4 disease ([[biliary-stricture]])
+- **Benign strictures** — post-surgical, [[chronic-pancreatitis|chronic pancreatitis]] ([[chronic-pancreatitis]]), IgG4 disease ([[biliary-stricture]])
 
 **Intrahepatic cholestasis:**
 
@@ -86,7 +86,7 @@ flowchart TD
    - **Hepatocellular** → viral serologies ([[hepatitis-c]], [[chronic-hepatitis-b]], A/E), alcohol history, medication/supplement review ([[drug-induced-liver-injury]]), autoimmune markers ([[autoimmune-hepatitis|ANA/SMA/IgG]]), ceruloplasmin in young patients ([[wilson-disease]]).
    - **Cholestatic** → **right upper quadrant ultrasound first** to assess for **biliary dilation**.
 4. **Ducts dilated → extrahepatic obstruction:** characterize with **MRCP** or **[[endoscopic-ultrasound|EUS]]**; proceed to **[[ercp|ERCP]]** for therapeutic relief (stone extraction, stent) and tissue sampling ([[biliary-stricture]]). Cholangitis → urgent drainage + antibiotics.
-5. **Ducts not dilated → intrahepatic cholestasis:** check **AMA** ([[primary-biliary-cholangitis|PBC]]), MRCP for [[primary-sclerosing-cholangitis|PSC]], review drugs, consider liver biopsy.
+5. **Ducts not dilated → intrahepatic cholestasis:** check **AMA** ([[primary-biliary-cholangitis|PBC]]), MRCP for [[primary-sclerosing-cholangitis|PSC]], review drugs, consider [[liver-biopsy|liver biopsy]].
 
 ---
 
@@ -106,7 +106,7 @@ flowchart TD
 
 ## Red Flags / Alarm Features
 
-- **Acute liver failure features** — encephalopathy + coagulopathy (INR ≥1.5) → see [[acute-liver-failure]]; urgent transplant-center referral
+- **[[acute-liver-failure|Acute liver failure]] features** — encephalopathy + coagulopathy (INR ≥1.5) → see [[acute-liver-failure]]; urgent transplant-center referral
 - **Ascending cholangitis** — Charcot's triad (fever, jaundice, RUQ pain) ± Reynolds' pentad (+ hypotension, confusion) → urgent biliary drainage
 - **Painless jaundice with weight loss** — pancreaticobiliary malignancy (Courvoisier's sign: palpable nontender gallbladder)
 - **Marked coagulopathy or rising bilirubin/INR** — severe hepatic dysfunction

@@ -15,9 +15,9 @@ Budd-Chiari syndrome (BCS) is defined by obstruction of hepatic venous outflow, 
 
 **Presentation** [[acg-2020-hepatic-mesenteric-circulation]]:
 
-- **Acute BCS**: sudden-onset right upper quadrant or epigastric pain, hepatomegaly, rapidly progressive ascites, and jaundice; fulminant hepatic failure in ~20%
+- **Acute BCS**: sudden-onset right upper quadrant or epigastric pain, hepatomegaly, rapidly progressive [[ascites]], and [[jaundice]]; fulminant hepatic failure in ~20%
 - **Subacute BCS**: weeks to months course; abdominal discomfort, ascites, splenomegaly, gradual hepatic dysfunction
-- **Chronic BCS**: cirrhosis, established portal hypertension, relatively compensated; caudate lobe hypertrophy (drains directly into IVC) is characteristic
+- **Chronic BCS**: cirrhosis, established [[portal-hypertension|portal hypertension]], relatively compensated; caudate lobe hypertrophy (drains directly into IVC) is characteristic
 
 **Key diagnostic features:**
 
@@ -79,9 +79,9 @@ Key predictors of poor outcome: [[hepatic-encephalopathy|hepatic encephalopathy]
 - PNH flow cytometry
 - Serum/urine protein electrophoresis (exclude myeloma or lymphoma)
 
-**Liver biopsy**: usually not required if imaging is diagnostic; histology shows centrilobular congestion, sinusoidal dilation, hepatocyte necrosis in pericentral zones; useful when SOS vs. BCS uncertain.
+**[[liver-biopsy|Liver biopsy]]**: usually not required if imaging is diagnostic; histology shows centrilobular congestion, sinusoidal dilation, hepatocyte necrosis in pericentral zones; useful when SOS vs. BCS uncertain.
 
-**HCC surveillance**: US + AFP every 6 months in all BCS patients (Conditional, Low evidence) — start at diagnosis, regardless of fibrosis stage.
+**[[hcc-surveillance|HCC surveillance]]**: US + AFP every 6 months in all BCS patients (Conditional, Low evidence) — start at diagnosis, regardless of fibrosis stage.
 
 ---
 
@@ -124,11 +124,11 @@ Step 4: [[liver-transplantation|Liver transplantation]]
 - Decompresses hepatic sinusoids → reduces congestion and allows hepatocyte recovery
 - TIPS patency important: use covered (PTFE) stents
 - Post-TIPS: continue anticoagulation; monitor for encephalopathy
-- Bridges to liver transplantation if needed
+- Bridges to [[liver-transplantation|liver transplantation]] if needed
 
 ### Step 4 — Liver Transplantation
 
-- For acute liver failure from BCS, cirrhotic BCS failing all other measures, or uncontrolled portal hypertension
+- For [[acute-liver-failure|acute liver failure]] from BCS, cirrhotic BCS failing all other measures, or uncontrolled portal hypertension
 - Post-transplant: lifelong anticoagulation required (thrombophilia persists)
 - Post-transplant MPN management continues; consider discussion with hematology about stem cell transplant in MPN context
 

@@ -27,7 +27,7 @@ This threshold is chosen for maximal sensitivity to avoid undertreating SBP, as 
 | PMN <250/mm³ + positive culture + no signs of infection | Bacterascites — do NOT treat; repeat paracentesis to monitor for progression |
 | PMN ≥250/mm³ + multimicrobial or secondary peritonitis features | Evaluate for secondary bacterial peritonitis (surgical cause) |
 
-**Culture-negative SBP (culture-negative neutrocytic ascites):**
+**Culture-negative SBP (culture-negative neutrocytic [[ascites]]):**
 
 - PMN ≥250/mm³ with no organism isolated
 - Treated identically to culture-positive SBP
@@ -42,7 +42,7 @@ This threshold is chosen for maximal sensitivity to avoid undertreating SBP, as 
 **When to perform diagnostic paracentesis:**
 
 - All cirrhotic patients emergently admitted to hospital — regardless of whether infection symptoms are present
-- Any cirrhotic patient with ascites developing fever, abdominal pain, encephalopathy, AKI, or jaundice
+- Any cirrhotic patient with ascites developing fever, abdominal pain, encephalopathy, AKI, or [[jaundice]]
 - Any cirrhotic patient with ascites and AKI (to rule out SBP as precipitant)
 - If diagnostic paracentesis is negative but bacterial infection still suspected and pleural effusion is present, perform diagnostic thoracentesis
 

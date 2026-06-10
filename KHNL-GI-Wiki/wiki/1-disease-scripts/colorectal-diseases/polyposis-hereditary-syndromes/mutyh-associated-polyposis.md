@@ -14,7 +14,7 @@ sources: [acg-2015-hereditary-gi-cancer]
 - Biallelic MUTYH mutations; autosomal **recessive** (unique among polyposis syndromes)
 - 20–99 colorectal adenomas; [[colorectal-cancer|CRC]] present in ~60% at diagnosis; average age 48–50
 - Y179C and G396D mutations account for >80% of MAP in European ancestry
-- Managed like AFAP: [[colonoscopy|colonoscopy]] annually from age 25–30; [[upper-endoscopy|EGD]] with side-viewing from age 30–35
+- Managed like AFAP: [[colonoscopy]] annually from age 25–30; [[upper-endoscopy|EGD]] with side-viewing from age 30–35
 - Colectomy + IRA when polyps uncontrollable; restorative proctocolectomy if rectum substantially involved
 - Annual thyroid ultrasound recommended
 - 5-year survival after CRC in MAP is 78% vs. 63% in matched sporadic CRC controls

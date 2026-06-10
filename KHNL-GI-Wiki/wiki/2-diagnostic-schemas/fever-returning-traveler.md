@@ -9,7 +9,7 @@ sources: [nejm-2023-fever-returning-traveler]
 
 ## Definition / Scope
 
-Fever in a returning traveler encompasses any febrile illness arising within days to weeks (occasionally months) of international travel. GI manifestations are common across many etiologies — diarrhea, nausea, abdominal pain, jaundice — making this a frequent GI consult scenario. The differential is shaped by destination, incubation period, exposure history, and vaccination status.
+Fever in a returning traveler encompasses any febrile illness arising within days to weeks (occasionally months) of international travel. GI manifestations are common across many etiologies — diarrhea, nausea, abdominal pain, [[jaundice]] — making this a frequent GI consult scenario. The differential is shaped by destination, incubation period, exposure history, and vaccination status.
 
 This page focuses on GI-relevant diagnoses. Non-GI febrile illnesses (e.g., malaria without GI features, rickettsial disease, arboviruses without hepatitis) are flagged but not detailed.
 
@@ -19,17 +19,17 @@ This page focuses on GI-relevant diagnoses. Non-GI febrile illnesses (e.g., mala
 
 | Incubation | Diagnoses |
 |-----------|-----------|
-| <2 weeks | Traveler's diarrhea (ETEC, Campylobacter, Salmonella, Shigella), norovirus, hepatitis A (early), dengue (GI manifestations), typhoid fever (early) |
-| 2–6 weeks | Enteric fever (typhoid/paratyphoid), hepatitis A (full picture), hepatitis E, amoebiasis, giardiasis, leptospirosis (hepatitis) |
-| >6 weeks | Schistosomiasis (acute: Katayama fever), visceral leishmaniasis, chronic hepatitis B/E seroconversion, strongyloidiasis |
+| <2 weeks | Traveler's diarrhea (ETEC, Campylobacter, Salmonella, Shigella), [[norovirus]], hepatitis A (early), dengue (GI manifestations), typhoid fever (early) |
+| 2–6 weeks | Enteric fever (typhoid/paratyphoid), hepatitis A (full picture), hepatitis E, amoebiasis, [[giardiasis]], leptospirosis (hepatitis) |
+| >6 weeks | Schistosomiasis (acute: Katayama fever), visceral leishmaniasis, [[chronic-hepatitis-b|chronic hepatitis B]]/E seroconversion, strongyloidiasis |
 
 ### GI-focused differential by presentation
 
 **Fever + diarrhea (acute):**
 
-- Bacterial: ETEC, Campylobacter, Salmonella, Shigella, Clostridioides difficile (post-antibiotic)
+- Bacterial: ETEC, Campylobacter, Salmonella, Shigella, [[clostridioides-difficile|Clostridioides difficile]] (post-antibiotic)
 - Parasitic: Entamoeba histolytica (dysentery), Giardia lamblia (watery, malabsorptive)
-- Viral: Norovirus, rotavirus
+- Viral: Norovirus, [[rotavirus]]
 
 **Fever + jaundice:**
 

@@ -54,15 +54,15 @@ Liver transplantation (LT) is a lifesaving procedure for selected patients with 
 
 **Chronic liver disease — indications for referral** (Recs 1–2, [[aasld-ast-2025-liver-transplant-candidate-evaluation]]):
 
-- Any **decompensating event**: ascites (with or without SBP), hepatic encephalopathy, variceal hemorrhage, hepatopulmonary syndrome/portopulmonary hypertension, HCC (Strong, Level 4)
+- Any **decompensating event**: [[ascites]] (with or without SBP), [[hepatic-encephalopathy|hepatic encephalopathy]], variceal hemorrhage, hepatopulmonary syndrome/portopulmonary hypertension, HCC (Strong, Level 4)
 - **MELD ≥12** in the absence of portal hypertensive complications — a reasonable threshold; MELD score alone should never be a barrier to referral (Strong, Level 4)
 - ACLF: refer promptly regardless of MELD; high MELD (>40) and ACLF grade alone are NOT contraindications (Strong, Level 4; Strong, Level 3)
 
-**Acute liver failure (ALF):** ALL patients should be referred urgently, ideally in the first hours of presentation prior to meeting formal ALF diagnostic criteria (Strong, Level 2). Transplant centers must respond promptly to transfer requests (Strong, Level 5).
+**[[acute-liver-failure|Acute liver failure]] (ALF):** ALL patients should be referred urgently, ideally in the first hours of presentation prior to meeting formal ALF diagnostic criteria (Strong, Level 2). Transplant centers must respond promptly to transfer requests (Strong, Level 5).
 
 **HCC:** All patients without extrahepatic metastases should be evaluated (Strong, Level 1). See [[hepatocellular-carcinoma]] for Milan criteria, AFP thresholds, and downstaging.
 
-**Cholangiocarcinoma (CCA):**
+**[[cholangiocarcinoma|Cholangiocarcinoma]] (CCA):**
 
 - Unresectable perihilar CCA <3 cm radial diameter: eligible with neoadjuvant protocol + preoperative staging (Strong, Level 3)
 - Mixed HCC-CCA or intrahepatic CCA <3 cm without extrahepatic disease: may be considered (Weak, Level 4)
@@ -103,7 +103,7 @@ All candidates require ECG + comprehensive TTE (Strong, Level 2). TTE detects st
 
 ### Cancer Screening
 
-Individualized per existing guidelines (Strong, Level 1): HCC (US + AFP q6mo); colorectal (colonoscopy ≥45 average-risk); breast (mammography biennially ≥40 women); cervical (cytology + HPV q3–5y ≥21); lung (low-dose CT annually, ≥50y with 20 pack-year history); prostate (annual PSA ≥50 men).
+Individualized per existing guidelines (Strong, Level 1): HCC (US + AFP q6mo); colorectal ([[colonoscopy]] ≥45 average-risk); breast (mammography biennially ≥40 women); cervical (cytology + HPV q3–5y ≥21); lung (low-dose CT annually, ≥50y with 20 pack-year history); prostate (annual PSA ≥50 men).
 
 ### Nutrition, Bone Health, and Physical Function
 
@@ -183,7 +183,7 @@ This page covers **post-transplant management of the liver transplant recipient*
 - Immunosuppression (IS) drug trough levels with each dose change and periodically in stable patients
 - CBC and metabolic panel at similar intervals
 - Immunosuppression trough targets per [[aasld-ast-2025-liver-transplant-graft-complications]] (Table 4; updated vs. 2012 guideline):
-  - **Tacrolimus**: 7–10 ng/mL (month 1); 4–8 ng/mL (months 2–12); 4 ng/mL (month 12 onward)
+  - **[[tacrolimus|Tacrolimus]]**: 7–10 ng/mL (month 1); 4–8 ng/mL (months 2–12); 4 ng/mL (month 12 onward)
   - **Cyclosporine** (C0 trough): 250–300 ng/mL (first 3 months); 100–250 ng/mL (month 3 onward)
   - **Everolimus**: 3–8 ng/mL (after month 1)
   - **Sirolimus** (off-label): 4–10 ng/mL (after month 1)
@@ -196,7 +196,7 @@ This page covers **post-transplant management of the liver transplant recipient*
 2. Review medication list for hepatotoxins, drug interactions (many CYP3A4 interactions with CNIs)
 3. Rule out biliary and vascular complications (ultrasound with Doppler; MRCP if biliary pathology suspected — first-line per [[aasld-ast-2025-liver-transplant-graft-complications]] Rec 15)
 4. Serology (HBV, HCV, EBV, CMV)
-5. Liver biopsy if above non-diagnostic
+5. [[liver-biopsy|Liver biopsy]] if above non-diagnostic
 
 ### Severity Assessment
 
@@ -214,7 +214,7 @@ This page covers **post-transplant management of the liver transplant recipient*
 
 **T-cell–mediated rejection (TCMR)** — occurs in 10–30% of LT recipients, usually within first 3 months. Late TCMR (>6 months) associated with lower graft survival and risk of ductopenic rejection with poor response.
 
-**Plasma cell-rich rejection (PCR)** — formerly "de novo autoimmune hepatitis"; histologically resembles AIH with IgG4-positive plasma cell infiltrates; requires augmented IS including antimetabolite ± low-dose maintenance corticosteroid.
+**Plasma cell-rich rejection (PCR)** — formerly "de novo [[autoimmune-hepatitis|autoimmune hepatitis]]"; histologically resembles AIH with IgG4-positive plasma cell infiltrates; requires augmented IS including antimetabolite ± low-dose maintenance corticosteroid.
 
 **Antibody-mediated rejection (AMR)** — diagnosed by combination of C4d deposition, donor-specific antibodies (DSA), histologic features, and graft dysfunction. Diagnosis and management remain evolving ([[aasld-ast-2025-liver-transplant-graft-complications]], Recs 41+).
 
@@ -229,7 +229,7 @@ This page covers **post-transplant management of the liver transplant recipient*
 | Timing | Common Causes |
 |--------|--------------|
 | Early (<3 months) | Primary non-function, hepatic artery thrombosis, acute cellular rejection, biliary leak, drug toxicity, ischemia-reperfusion injury |
-| Late (>1 year) | Recurrent disease (HCV, HBV, NAFLD, PBC, PSC, AIH), late acute rejection, chronic rejection, biliary stricture (anastomotic or non-anastomotic), de novo AIH, chronic hepatitis (CMV, EBV), vascular complications, drug toxicity |
+| Late (>1 year) | Recurrent disease (HCV, HBV, NAFLD, PBC, PSC, AIH), late acute rejection, chronic rejection, [[biliary-stricture|biliary stricture]] (anastomotic or non-anastomotic), de novo AIH, chronic hepatitis (CMV, EBV), vascular complications, drug toxicity |
 
 **Most common causes of late allograft dysfunction:**
 
@@ -261,9 +261,9 @@ This page covers **post-transplant management of the liver transplant recipient*
 ### Imaging
 
 - **Ultrasound with Doppler** — primary screening tool for biliary dilation and vascular patency; obtain with any unexplained liver test abnormality; most centers obtain at least 1 Doppler US in first 5 days post-LT
-- **MRCP** — first-line diagnostic tool for anastomotic and non-anastomotic biliary strictures (sensitivity 94–96%, specificity 94–95%); preferred over ERCP for diagnosis ([[aasld-ast-2025-liver-transplant-graft-complications]], Rec 15, Strong, Level 2)
+- **MRCP** — first-line diagnostic tool for anastomotic and non-anastomotic biliary strictures (sensitivity 94–96%, specificity 94–95%); preferred over [[ercp|ERCP]] for diagnosis ([[aasld-ast-2025-liver-transplant-graft-complications]], Rec 15, Strong, Level 2)
 - **CT angiography / MR angiography** — when Doppler US inconclusive for vascular complications; CTA/venography more detailed when vascular abnormality suspected
-- **CT/MRI with contrast** — HCC surveillance (see below); vascular assessment
+- **CT/MRI with contrast** — [[hcc-surveillance|HCC surveillance]] (see below); vascular assessment
 - **DEXA scan**: at 1 year post-transplant; repeat based on results ([[aasld-2012-liver-transplant-long-term]], Rec. 24)
 
 ### ERCP and Percutaneous Biliary Access
@@ -308,7 +308,7 @@ This page covers **post-transplant management of the liver transplant recipient*
 - DCD LT with machine perfusion or NRP: comparable 1-year graft/patient survival to DBD at experienced programs (Strong, Level 3)
 - DCD with static cold storage: higher risk of EAD and ischemic cholangiopathy vs. DBD (Strong, Level 2)
 - DCD utilization has grown from 4.7% to 15.4% of US LTs (2013–2023) enabled by machine perfusion
-- Avoid DCD grafts in recipients with complex portal vein thrombosis (per ILTS consensus)
+- Avoid DCD grafts in recipients with complex [[portal-vein-thrombosis|portal vein thrombosis]] (per ILTS consensus)
 
 **Machine Perfusion** (Recs 6–10):
 
@@ -339,7 +339,7 @@ This page covers **post-transplant management of the liver transplant recipient*
 - Risk factors: technical (kinking, redundancy), recipient PV thrombosis, large portosystemic shunts, hypercoagulable state, extra-anatomic PV reconstruction
 - Early: thrombectomy with surgical revision + anticoagulation
 - Late: anticoagulation, percutaneous thrombolysis, stent, TIPS
-- Long-term: portal hypertension (ascites, varices), graft dysfunction
+- Long-term: [[portal-hypertension|portal hypertension]] (ascites, varices), graft dysfunction
 
 **PV Stenosis** — incidence 2–3%:
 
@@ -411,7 +411,7 @@ Biliary complications are addressed both by AASLD-AST 2025 and by the dedicated 
 - CSA-specific: direct antiviral therapy (sofosbuvir, glecaprevir, voxilaprevir), grapefruit juice
 - Nirmitrelavir/ritonavir dramatically increases corticosteroid levels
 
-**Complete IS Withdrawal / Operational Tolerance** (Rec 36):
+**Complete IS Withdrawal / [[operational-tolerance|Operational Tolerance]]** (Rec 36):
 
 - Complete IS withdrawal is not routinely recommended; no reliable predictors of success; operational tolerance increases ~7%/year (meta-analysis n=620) but early withdrawal (1–2 years post-LT) possible in only a very small minority (Strong, Level 4)
 - See [[operational-tolerance]] for full discussion
@@ -449,7 +449,7 @@ Biliary complications are addressed both by AASLD-AST 2025 and by the dedicated 
 
 **Post-transplant diabetes mellitus (PTDM)** — 10–63% incidence:
 
-- Risk factors: tacrolimus > cyclosporine, corticosteroids, HCV, obesity, family history
+- Risk factors: tacrolimus > cyclosporine, corticosteroids, HCV, [[obesity]], family history
 - Monitoring: fasting glucose and HbA1c annually; delayed TAC start (basiliximab induction) reduces de novo DM
 - Management: steroid minimization, consider tacrolimus → cyclosporine conversion if severe; standard diabetes therapy
 
@@ -500,7 +500,7 @@ Biliary complications are addressed both by AASLD-AST 2025 and by the dedicated 
 
 - Weight gain common post-LT (appetite improvement, steroid use); NAFLD/NASH can recur or arise de novo
 - Lifestyle modification: structured diet and exercise counseling
-- Bariatric surgery: limited data; sleeve gastrectomy feasible in select patients
+- [[bariatric-surgery|Bariatric surgery]]: limited data; sleeve gastrectomy feasible in select patients
 
 **Bone disease / osteoporosis** ([[aasld-2012-liver-transplant-long-term]], Rec. 24–26):
 
@@ -539,7 +539,7 @@ Biliary complications are addressed both by AASLD-AST 2025 and by the dedicated 
 - Management: IS reduction (first step); rituximab (anti-CD20) ± chemotherapy; PTLD may regress with IS reduction alone in up to 25%
 - Involve oncology and hematology (Rec. 36)
 
-**Colorectal cancer** (Rec. 37–39):
+**[[colorectal-cancer|Colorectal cancer]]** (Rec. 37–39):
 
 - Especially elevated risk in PSC recipients (coexisting IBD + field defect)
 - PSC + IBD recipients: annual surveillance colonoscopy beginning at LT (Rec. 37)
@@ -602,7 +602,7 @@ Biliary complications are addressed both by AASLD-AST 2025 and by the dedicated 
 - **All recipients**: monitor HBV DNA annually; anti-HBs levels every 3–6 months (Rec. 63)
 - De novo HBV (in D−/R−): ensure vaccination pre-LT; check serologies (Rec. 64)
 
-**Hepatitis C (HCV) recurrence** (Rec. 65–68):
+**[[hepatitis-c|Hepatitis C]] (HCV) recurrence** (Rec. 65–68):
 > **Note**: These recommendations reflect the 2012 pre-DAA era and are now largely superseded. HCV recurrence post-LT is now treated with direct-acting antiviral (DAA) regimens (NS5A/NS5B/NS3 inhibitors) achieving >95% SVR. The recommendations below are preserved for historical context.
 
 - Universal recurrence within weeks; accelerated fibrosis vs. non-transplant population
@@ -613,7 +613,7 @@ Biliary complications are addressed both by AASLD-AST 2025 and by the dedicated 
 - Fibrosing cholestatic hepatitis C (FCH): aggressive course; early treatment indicated
 - Prioritize modern DAA therapy (outside scope of this 2012 guideline)
 
-**Primary Biliary Cholangitis (PBC) recurrence** ([[primary-biliary-cholangitis]], Rec. 69–72):
+**[[primary-biliary-cholangitis|Primary Biliary Cholangitis (PBC)]] recurrence** ([[primary-biliary-cholangitis]], Rec. 69–72):
 
 - Recurrence in 15–20% at 10 years; generally indolent; graft loss rare
 - Diagnosis: elevated Alk Phos + AMA positivity + biopsy (granulomatous cholangitis, florid duct lesions)
@@ -622,7 +622,7 @@ Biliary complications are addressed both by AASLD-AST 2025 and by the dedicated 
 - Monitor annually: liver chemistries, AMA titer (Rec. 71)
 - Liver biopsy if alkaline phosphatase rises significantly (Rec. 72)
 
-**Primary Sclerosing Cholangitis (PSC) recurrence** ([[primary-sclerosing-cholangitis]], Rec. 73–76):
+**[[primary-sclerosing-cholangitis|Primary Sclerosing Cholangitis]] (PSC) recurrence** ([[primary-sclerosing-cholangitis]], Rec. 73–76):
 
 - Recurrence in 10–25% at 5–10 years (diagnosis requires exclusion of ischemic cholangiopathy, anastomotic strictures)
 - Diagnosis: MRCP/cholangiogram showing non-anastomotic intra- and extrahepatic biliary strictures + biopsy
@@ -641,7 +641,7 @@ Biliary complications are addressed both by AASLD-AST 2025 and by the dedicated 
 - Management: restore/increase corticosteroid dosing; add azathioprine (Rec. 77–78)
 - Maintain corticosteroids long-term in AIH recipients; avoid early steroid withdrawal (Rec. 79–80)
 
-**Alcohol-Associated Liver Disease (ALD) post-LT** ([[alcohol-associated-liver-disease]], Rec. 81–84):
+**[[alcohol-associated-liver-disease|Alcohol-Associated Liver Disease]] (ALD) post-LT** ([[alcohol-associated-liver-disease]], Rec. 81–84):
 
 - Alcohol recurrence: ~15–20% return to any drinking; 10–15% harmful use; ~5–10% to heavy drinking
 - Alcohol recurrence associated with graft damage, non-adherence, and reduced survival
@@ -737,7 +737,7 @@ D-HOPE (dual hypothermic oxygenated perfusion) perfuses both hepatic artery and 
 | Vaccine/Category | Recommendation |
 |---|---|
 | General approach | Follow ACIP/CDC immunization schedules; update all vaccines pre-LT before immunosuppression (Strong, Level 4) |
-| Live vaccines post-LT | **PROHIBITED** — no MMR, varicella, yellow fever, oral typhoid, oral rotavirus, intranasal influenza (LAIV) (Strong, Level 4) |
+| Live vaccines post-LT | **PROHIBITED** — no MMR, varicella, yellow fever, oral typhoid, oral [[rotavirus]], intranasal influenza (LAIV) (Strong, Level 4) |
 | Household contacts | May receive most live vaccines (MMR, varicella) EXCEPT vaccinia/smallpox and oral polio vaccine (OPV) (Strong, Level 4) |
 | Travel vaccines | Travel medicine consult ≥6–8 weeks before international travel; live vaccines may rarely be indicated in specialist review (Weak, Level 4) |
 

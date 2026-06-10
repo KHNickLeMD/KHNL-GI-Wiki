@@ -7,7 +7,7 @@ updated: 2026-05-16
 sources: []
 ---
 
-*Stub — to be expanded. Chicago Classification v4.0 — see [[chicago-classification-v4]]. Related: [[distal-esophageal-spasm]], [[ineffective-esophageal-motility]].*
+*Stub — to be expanded. [[chicago-classification-v4|Chicago Classification v4]].0 — see [[chicago-classification-v4]]. Related: [[distal-esophageal-spasm]], [[ineffective-esophageal-motility]].*
 
 ## Assessment
 
@@ -16,7 +16,7 @@ sources: []
 Hypercontractile esophagus (jackhammer esophagus) is defined by **Chicago Classification v4.0** on [[high-resolution-manometry]]:
 
 - ≥20% of swallows with DCI **>8,000 mmHg·s·cm**
-- IRP normal (if IRP elevated → concern for achalasia spectrum; investigate with TBE/FLIP)
+- IRP normal (if IRP elevated → concern for [[achalasia]] spectrum; investigate with TBE/FLIP)
 - Sustained EGJ contractions (SOCs) may occur
 
 **Key clinical note from Padova Consensus (see [[hrm-antireflux-surgery]]):** Hypercontractile esophagus is **NOT an absolute contraindication** to [[antireflux-surgery|anti-reflux surgery (ARS)]] if the patient has objective [[gerd|GERD]] and partial PPI response. Evaluate carefully pre-operatively.
@@ -34,7 +34,7 @@ Hypercontractile esophagus (jackhammer esophagus) is defined by **Chicago Classi
 ## Diagnostics
 
 - **HRM:** DCI >8,000 mmHg·s·cm in ≥20% swallows — see [[high-resolution-manometry]]
-- **FLIP panometry:** See [[flip-panometry]]; distinguish Spastic Obstruction from other patterns
+- **[[flip-panometry|FLIP panometry]]:** See [[flip-panometry]]; distinguish Spastic Obstruction from other patterns
 
 ---
 

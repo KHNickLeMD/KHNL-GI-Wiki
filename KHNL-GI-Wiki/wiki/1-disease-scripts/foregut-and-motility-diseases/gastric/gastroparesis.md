@@ -65,10 +65,10 @@ sources: [acg-2022-gastroparesis, aga-2025-gastroparesis]
 
 ## Differential Diagnosis
 
-- **Functional dyspepsia (FD)** — significant overlap; 42% of patients initially diagnosed with GP reclassified on repeat SGE; 37% of FD reclassified as GP. FD has a better prognosis than GP. See [[disorders-of-gut-brain-interaction]]
+- **Functional [[dyspepsia]] (FD)** — significant overlap; 42% of patients initially diagnosed with GP reclassified on repeat SGE; 37% of FD reclassified as GP. FD has a better prognosis than GP. See [[disorders-of-gut-brain-interaction]]
 - **Mechanical gastric outlet obstruction** — peptic stricture, malignancy, bezoar; must be excluded by [[upper-endoscopy]] or imaging before diagnosing GP
-- **GERD / reflux disease** — symptom overlap (nausea, postprandial discomfort); see [[gerd]]
-- **Rumination syndrome** — regurgitation of undigested food shortly after meals; distinguished by manometry/impedance
+- **[[gerd|GERD]] / reflux disease** — symptom overlap (nausea, postprandial discomfort); see [[gerd]]
+- **[[rumination-syndrome|Rumination syndrome]]** — regurgitation of undigested food shortly after meals; distinguished by manometry/impedance
 - **Cyclic vomiting syndrome** — stereotyped episodic vomiting with symptom-free intervals
 - **Superior mesenteric artery (SMA) syndrome** — postprandial nausea/vomiting; positional component; duodenal compression on imaging
 - **Medication-induced GE delay** — opioids (potent effect), GLP-1 receptor agonists, anticholinergics, tricyclic antidepressants
@@ -210,7 +210,7 @@ sources: [acg-2022-gastroparesis, aga-2025-gastroparesis]
 #### 5-HT4 Agonists (Conditional, Low Evidence)
 
 - **[[prucalopride|Prucalopride]] 2 mg/d** (Carbone 2019, RCT): significant improvement in GCSI total and all subscales + GE T½ — but benefit confined to idiopathic GP subgroup
-- **Prucalopride 4 mg/d** (Andrews 2021, RCT): GE improved; GCSI not significantly different from placebo
+- **[[prucalopride|Prucalopride]] 4 mg/d** (Andrews 2021, RCT): GE improved; GCSI not significantly different from placebo
 - **Velusetrag, felcisetrag:** investigational agents showing GE acceleration in phase 2 RCTs
 - **Overall:** Conditionally recommended to improve GE; inconsistent data for symptom improvement
 

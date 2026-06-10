@@ -64,7 +64,7 @@ All surveillance recommendations assume high-quality examination. [[usmstf-2020-
 
 All intervals assume high-quality colonoscopy with complete polypectomy. [[usmstf-2020-followup-colonoscopy]]
 
-Does NOT apply to: IBD, hereditary syndromes (Lynch, FAP), personal history of CRC, serrated polyposis syndrome, malignant polyp.
+Does NOT apply to: IBD, hereditary syndromes (Lynch, FAP), personal history of CRC, [[serrated-polyposis-syndrome|serrated polyposis syndrome]], malignant polyp.
 
 ### Adenomas
 
@@ -164,7 +164,7 @@ For detailed technique, see [[polypectomy-emr]].
 
 [[acg-2025-bowel-prep]]
 
-GLP-1 receptor agonists (semaglutide, liraglutide, tirzepatide, etc.) delay gastric emptying and are associated with increased aspiration risk during procedural sedation. The guideline groups them with gastroparesis for prep-adequacy risk stratification (OR ~1.6).
+GLP-1 receptor agonists ([[semaglutide]], liraglutide, tirzepatide, etc.) delay gastric emptying and are associated with increased aspiration risk during procedural sedation. The guideline groups them with [[gastroparesis]] for prep-adequacy risk stratification (OR ~1.6).
 
 - Treat patients on GLP-1 agonists as high-risk for inadequate prep — apply high-risk prep modifications (see below)
 - Follow anesthesia unit protocol for medication hold prior to sedation (ASA guidance at time of publication: hold weekly GLP-1 agonists **1 week** before elective procedure)
@@ -217,7 +217,7 @@ A "high-quality" colonoscopy in this context requires: cecum/anastomosis reached
 | Subsequent | **Every 5 years** until benefit outweighed by diminished life expectancy | Strong/Low |
 
 - If neoplastic polyps found at any exam: shorten interval per post-polypectomy surveillance guidelines (see table above)
-- Lynch syndrome: these intervals do NOT apply — see [[lynch-syndrome]] for gene-specific schedules
+- [[lynch-syndrome|Lynch syndrome]]: these intervals do NOT apply — see [[lynch-syndrome]] for gene-specific schedules
 - Cumulative metachronous CRC risk ~0.3–0.35%/year, lifelong; ~30% of metachronous cancers occur within 2 years of surgery
 
 ### Rectal Cancer Additional Local Surveillance (High-Risk Patients)

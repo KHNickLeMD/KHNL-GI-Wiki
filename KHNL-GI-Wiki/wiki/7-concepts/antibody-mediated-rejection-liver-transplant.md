@@ -9,7 +9,7 @@ sources: [aasld-ast-2025-liver-transplant-graft-complications]
 
 ## Definition
 
-Antibody-mediated rejection (AMR) in liver transplantation is a distinct rejection phenotype mediated by pre-formed or de novo donor-specific antibodies (DSA) directed against HLA or non-HLA antigens on the allograft endothelium and bile ducts. Unlike other solid organ transplants, the liver is relatively resistant to antibody-mediated injury, but AMR is increasingly recognized as a cause of graft dysfunction and loss.
+Antibody-mediated rejection (AMR) in [[liver-transplantation|liver transplantation]] is a distinct rejection phenotype mediated by pre-formed or de novo donor-specific antibodies (DSA) directed against HLA or non-HLA antigens on the allograft endothelium and bile ducts. Unlike other solid organ transplants, the liver is relatively resistant to antibody-mediated injury, but AMR is increasingly recognized as a cause of graft dysfunction and loss.
 
 ## Diagnosis
 

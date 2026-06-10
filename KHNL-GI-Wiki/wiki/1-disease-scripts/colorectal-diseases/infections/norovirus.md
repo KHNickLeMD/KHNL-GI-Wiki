@@ -9,7 +9,7 @@ sources: [acg-2016-acute-diarrhea]
 
 *Stub — to be expanded.*
 
-Most common cause of epidemic gastroenteritis in the United States. Low infectious inoculum; spreads via foodborne and person-to-person routes. Community-acquired acute diarrhea is predominantly viral (norovirus, [[rotavirus|rotavirus]], adenovirus) and self-limited; antibiotics provide no benefit. [[acg-2016-acute-diarrhea]]
+Most common cause of epidemic gastroenteritis in the United States. Low infectious inoculum; spreads via foodborne and person-to-person routes. Community-acquired [[acute-diarrhea|acute diarrhea]] is predominantly viral (norovirus, [[rotavirus]], adenovirus) and self-limited; antibiotics provide no benefit. [[acg-2016-acute-diarrhea]]
 
 See [[acute-diarrhea]] for diagnostic algorithm and management.
 

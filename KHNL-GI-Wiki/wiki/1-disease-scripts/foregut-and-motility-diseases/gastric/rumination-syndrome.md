@@ -30,7 +30,7 @@ It is classified in **Rome V among the gastroduodenal disorders of gut–brain i
 
 During rumination episodes there is movement of gastric content **from the intra-abdominal cavity into the thorax, driven by an increase in intra-abdominal pressure at the onset of the episode** ([[acg-2020-esophageal-physiologic-testing]]). The corresponding manometric signature is an **increase in intragastric pressure of >30 mm Hg** associated with **proximal movement of gastric content** and **esophageal pressurization**, accompanying a clinically recognized rumination episode.
 
-Because rumination responds poorly to standard antireflux therapy, it is an important behavioral mimic of GERD to identify.
+Because rumination responds poorly to standard antireflux therapy, it is an important behavioral mimic of [[gerd|GERD]] to identify.
 
 ---
 
@@ -38,9 +38,9 @@ Because rumination responds poorly to standard antireflux therapy, it is an impo
 
 - **GERD / refractory reflux symptoms** — rumination episodes are **not distinguishable from GERD using standard reflux metrics** on pH-impedance, though more "reflux" tends to **extend to the proximal esophagus** in rumination. Rumination has **suboptimal outcomes with standard antireflux therapies**, an important clinical clue. See [[gerd]].
 - **Supragastric belching** — another atypical behavior that can mimic reflux; confirmed on **pH-impedance monitoring** (impedance distinguishes retrograde **gas** of belching from **liquid/food** of rumination). See [[ambulatory-reflux-monitoring]].
-- **Gastroparesis** — vomiting of partially digested food hours after meals, preceded by nausea, with delayed gastric emptying. See [[gastroparesis]].
+- **[[gastroparesis|Gastroparesis]]** — vomiting of partially digested food hours after meals, preceded by nausea, with delayed gastric emptying. See [[gastroparesis]].
 - **Vomiting disorders** — true emesis is forceful and preceded by nausea/retching, distinguishing it from effortless rumination.
-- **Achalasia / esophageal outflow obstruction** — regurgitation of retained undigested food with dysphagia. See [[achalasia]].
+- **[[achalasia|Achalasia]] / esophageal outflow obstruction** — regurgitation of retained undigested food with [[dysphagia]]. See [[achalasia]].
 
 ---
 

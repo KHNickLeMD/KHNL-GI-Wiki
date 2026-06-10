@@ -23,7 +23,7 @@ Serrated polyposis syndrome (SPS), previously called hyperplastic polyposis synd
 
 **Epidemiology**:
 
-- True prevalence unknown; estimated 1 in 151 patients in NHS Bowel Cancer Screening Programme met SPS criteria at index [[colonoscopy|colonoscopy]]
+- True prevalence unknown; estimated 1 in 151 patients in NHS Bowel Cancer Screening Programme met SPS criteria at index [[colonoscopy]]
 - A Barcelona study found SPS prevalence of 8 in 2,355 (0.34%) in fecal immunochemical test-positive patients
 - Strong association with cigarette smoking (smoking association is well-established; may intensify phenotypic expression)
 - Mean age at diagnosis ~48 years; pancolonic distribution (89–96% of index cases)
@@ -38,7 +38,7 @@ Serrated polyposis syndrome (SPS), previously called hyperplastic polyposis synd
 ### Severity Assessment
 
 - CRC risk is ~50% lifetime (this estimate is likely an overestimate based on referral bias)
-- CRC diagnosed at baseline colonoscopy in 5 of 77 (6.5%) SPS patients in one series; 4 of 5 CRCs were found in serrated polyps <20 mm
+- CRC diagnosed at baseline [[colonoscopy]] in 5 of 77 (6.5%) SPS patients in one series; 4 of 5 CRCs were found in serrated polyps <20 mm
 - Mean age of CRC diagnosis ~48 years
 - CRCs in SPS are predominantly right-sided and often flat/serrated in morphology
 - Synchronous adenomas are found in the majority of SPS patients; conventional adenomas more frequent in SPS patients with CRC

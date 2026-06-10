@@ -4,7 +4,7 @@ category: disease-script
 tags: [crohns, ibd, biologics, ileitis, colitis, perianal-fistula, stricture, fistula, anti-tnf]
 created: 2026-05-07
 updated: 2026-05-07
-sources: [acg-2025-crohns, aga-2025-crohns-pharm, aga-2021-crohns-pharm, aga-2023-biomarkers-cd]
+sources: [acg-2025-crohns, aga-2025-crohns-pharm, aga-2021-crohns-pharm, aga-2023-biomarkers-cd, acg-2018-crohns]
 ---
 
 # Crohn's Disease
@@ -19,7 +19,7 @@ Idiopathic, transmural, granulomatous inflammatory disorder of the GI tract. Can
 
 No single pathognomonic test. Diagnosis = integration of:
 
-- **History:** chronic diarrhea, abdominal pain, fatigue, weight loss; rectal sparing; perianal disease; EIMs
+- **History:** [[chronic-diarrhea|chronic diarrhea]], abdominal pain, fatigue, weight loss; rectal sparing; perianal disease; EIMs
 - **Endoscopy:** aphthous ulcers, linear/serpiginous ulcers, cobblestoning, strictures, fistulas; skip areas; rectal sparing
 - **Histology:** transmural inflammation, granulomas (present in <33%), focal cryptitis
 - **Imaging:** mural thickening, mesenteric stranding, fistulas, abscesses
@@ -345,3 +345,4 @@ No single pathognomonic test. Diagnosis = integration of:
 2. [[aga-2025-crohns-pharm|AGA Living Guideline: Pharmacologic Management of Moderate-to-Severe Crohn's Disease (2025)]]
 3. [[aga-2021-crohns-pharm|AGA Clinical Practice Guidelines on the Medical Management of Moderate to Severe Luminal and Perianal Fistulizing Crohn's Disease (2021)]]
 4. [[aga-2023-biomarkers-cd|AGA Clinical Practice Guideline: Role of Biomarkers for the Management of Crohn's Disease (2023)]]
+5. [[acg-2018-crohns|ACG 2018: Management of Crohn's Disease in Adults (historical)]]

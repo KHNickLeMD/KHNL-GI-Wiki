@@ -124,7 +124,7 @@ BISAP ≥3 = high risk for severe AP and mortality
 **EUS:**
 
 - For idiopathic recurrent AP after MRCP: detect microlithiasis, ampullary lesions, IPMN
-- Equivalent to MRCP for initial CBD stone evaluation; invasive but therapeutic (concurrent ERCP)
+- Equivalent to MRCP for initial CBD stone evaluation; invasive but therapeutic (concurrent [[ercp|ERCP]])
 
 ---
 
@@ -239,7 +239,7 @@ BISAP ≥3 = high risk for severe AP and mortality
 | **Moderately severe / Severe AP** | After recovery; **within 6 weeks** |
 | **Cannot undergo surgery** | ERCP with sphincterotomy (reduces recurrence risk) |
 
-**Choledocholithiasis:** ERCP for CBD stone clearance → then cholecystectomy
+**[[choledocholithiasis|Choledocholithiasis]]:** ERCP for CBD stone clearance → then cholecystectomy
 
 ---
 

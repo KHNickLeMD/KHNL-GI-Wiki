@@ -35,7 +35,7 @@ sources: [acg-2024-focal-liver-lesions]
 | Subtype | Frequency | Key Features | Malignant Risk | Imaging |
 |---|---|---|---|---|
 | **HNF1α-inactivated** | 30–40% | Steatotic lesion; seen in women; MODY3 association | Lowest | Fat-containing on MRI |
-| **Inflammatory (IHCA)** | 40–50% | Elevated CRP/SAA; obesity/metabolic syndrome/alcohol; sinusoidal dilation | Moderate bleed risk | Persistent enhancement on gadoxetate |
+| **Inflammatory (IHCA)** | 40–50% | Elevated CRP/SAA; [[obesity]]/metabolic syndrome/alcohol; sinusoidal dilation | Moderate bleed risk | Persistent enhancement on gadoxetate |
 | **Beta-catenin activated** | 10–15% | Often in men; anabolic steroids, GSD; resembles HCC on imaging | **Highest (HCC risk)** | May mimic HCC; heterogeneous |
 | **Unclassified** | ~10% | Cannot be classified by immunostaining | Uncertain | Variable |
 
@@ -55,9 +55,9 @@ sources: [acg-2024-focal-liver-lesions]
 
 ## Differential Diagnosis
 
-- **Focal nodular hyperplasia (FNH)** — central scar, spoke-wheel vessels on MRI/CEUS; hepatobiliary phase uptake on gadoxetate; no malignant potential; does not need resection
-- **Hepatic hemangioma** — T2 hyperintense; peripheral nodular enhancement centripetal fill-in; no hepatocellular origin
-- **Hepatocellular carcinoma (HCC)** — in cirrhotic background; APHE + washout; [[li-rads|LI-RADS]] ≥4; may be indistinguishable from beta-catenin HCA on imaging
+- **[[focal-nodular-hyperplasia|Focal nodular hyperplasia]] (FNH)** — central scar, spoke-wheel vessels on MRI/CEUS; hepatobiliary phase uptake on gadoxetate; no malignant potential; does not need resection
+- **[[hepatic-hemangioma|Hepatic hemangioma]]** — T2 hyperintense; peripheral nodular enhancement centripetal fill-in; no hepatocellular origin
+- **[[hepatocellular-carcinoma|Hepatocellular carcinoma]] (HCC)** — in cirrhotic background; APHE + washout; [[li-rads|LI-RADS]] ≥4; may be indistinguishable from beta-catenin HCA on imaging
 - **Metastasis** — in patient with known primary malignancy; multiple lesions; irregular enhancement
 - **Hepatocellular carcinoma in beta-catenin HCA** — malignant transformation; biopsy or resection often required for definitive diagnosis
 

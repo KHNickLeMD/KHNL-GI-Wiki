@@ -39,7 +39,7 @@ sources: [acg-2021-cdiff, aga-2024-fmt]
 | **Severe** | WBC ≥15,000 cells/mm³ OR serum creatinine >1.5 mg/dL |
 | **Fulminant** | Severe CDI criteria PLUS: hypotension/shock OR ileus OR megacolon |
 
-Additional markers of severe/poor-outcome disease (not formal criteria): low serum albumin, fecal calprotectin >2,000 µg/g, peripheral eosinopenia, fever >38.5°C (rare, ~1% of severe CDI), pseudomembranes on [[colonoscopy|colonoscopy]], NAP1/BI/027 strain.
+Additional markers of severe/poor-outcome disease (not formal criteria): low serum albumin, fecal calprotectin >2,000 µg/g, peripheral eosinopenia, fever >38.5°C (rare, ~1% of severe CDI), pseudomembranes on [[colonoscopy]], NAP1/BI/027 strain.
 
 ### Classification / Typing
 
@@ -51,9 +51,9 @@ Additional markers of severe/poor-outcome disease (not formal criteria): low ser
 
 ## Differential Diagnosis
 
-- Infectious colitis (bacterial: [[salmonella-infection|Salmonella]], [[campylobacter-infection|Campylobacter]], STEC; viral: [[norovirus|norovirus]], CMV in immunocompromised)
-- Inflammatory bowel disease flare ([[ulcerative-colitis]], [[crohns-disease]]) — note: CDI colonization is common in IBD and concurrent CDI + IBD flare must be distinguished from CDI alone or IBD alone
-- Microscopic colitis (collagenous or lymphocytic)
+- Infectious colitis (bacterial: [[salmonella-infection|Salmonella]], [[campylobacter-infection|Campylobacter]], STEC; viral: [[norovirus]], CMV in immunocompromised)
+- [[inflammatory-bowel-disease|Inflammatory bowel disease]] flare ([[ulcerative-colitis]], [[crohns-disease]]) — note: CDI colonization is common in IBD and concurrent CDI + IBD flare must be distinguished from CDI alone or IBD alone
+- [[microscopic-colitis|Microscopic colitis]] (collagenous or lymphocytic)
 - Antibiotic-associated diarrhea without CDI (disrupted microbiome, osmotic)
 - Post-infection [[irritable-bowel-syndrome|irritable bowel syndrome]] (occurs in ~25% after treated CDI; C. difficile shedding may persist)
 - Ischemic colitis
@@ -71,7 +71,7 @@ Additional markers of severe/poor-outcome disease (not formal criteria): low ser
 - Asymptomatic patients (test of cure)
 - Patients with <3 unformed stools per 24 hours in the absence of other clinical concern
 
-**Colonoscopy/imaging role:**
+**[[colonoscopy|Colonoscopy]]/imaging role:**
 
 - Pseudomembranes on [[colonoscopy]] are diagnostic for CDI and predict severe disease; however, patients with IBD often lack pseudomembranes (show mucopurulent exudate instead), complicating severity assessment
 - CT abdomen/pelvis: useful in fulminant disease to assess colitis severity, megacolon, perforation
@@ -177,7 +177,7 @@ Higher doses of vancomycin (>125 mg QID) are not recommended for severe CDI — 
 
 - Restricting high-risk antimicrobials and minimizing unnecessary antibiotics is the most effective prevention strategy for CDI in healthcare settings; effective in both outbreak and non-outbreak settings
 
-**Probiotics:**
+**[[probiotics|Probiotics]]:**
 
 - NOT recommended for primary CDI prevention in patients receiving antibiotics (conditional, moderate quality)
 - NOT recommended for secondary CDI prevention (against recurrence) (strong recommendation, very low quality)

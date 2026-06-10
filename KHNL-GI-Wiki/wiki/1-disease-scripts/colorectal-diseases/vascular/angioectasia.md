@@ -35,7 +35,7 @@ Angioectasia (also called angiodysplasia) are acquired vascular ectasias of the 
 
 - Endoscopic: argon plasma coagulation (APC) via deep enteroscopy; rebleeding rate 20–50% at medium-term follow-up.
 - Medical: somatostatin analogs (octreotide) — reduces transfusion requirements; thalidomide (antiangiogenic) — RCT-proven benefit but significant adverse effects; hormonal therapy — NOT effective (RCT negative).
-- Heyde's syndrome: aortic valve replacement may resolve bleeding (reduced rebleeding risk per meta-analysis, pooled event rate 0.16 [95% CI: 0.05–0.38]).
+- [[heydes-syndrome|Heyde's syndrome]]: aortic valve replacement may resolve bleeding (reduced rebleeding risk per meta-analysis, pooled event rate 0.16 [95% CI: 0.05–0.38]).
 
 See [[small-bowel-bleeding]], [[heydes-syndrome]], [[upper-gi-bleeding]], [[acute-lower-gi-bleeding]].
 

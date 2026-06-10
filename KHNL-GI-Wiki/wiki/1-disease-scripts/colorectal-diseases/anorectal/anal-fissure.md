@@ -23,7 +23,7 @@ sources: [acg-2021-anorectal-disorders]
 - Hypertrophied anal papilla proximally
 - Fibers of internal anal sphincter visible at fissure base
 
-**Location:** ~90% in posterior midline; ~10% anterior midline (more common in women). **Lateral fissures or multiple fissures → raise suspicion for secondary causes** (Crohn's disease, tuberculosis, syphilis, HIV/AIDS, malignancy, psoriasis) — evaluate accordingly.
+**Location:** ~90% in posterior midline; ~10% anterior midline (more common in women). **Lateral fissures or multiple fissures → raise suspicion for secondary causes** ([[crohns-disease|Crohn's disease]], tuberculosis, syphilis, HIV/AIDS, malignancy, psoriasis) — evaluate accordingly.
 
 ### Severity Assessment
 

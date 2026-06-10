@@ -59,12 +59,12 @@ sources: [acg-2019-hereditary-hemochromatosis, acg-2017-liver-chemistries]
 
 - NAFLD/dysmetabolic iron overload syndrome: SF elevated from hepcidin downregulation via insulin resistance; TS usually normal
 - Alcohol use disorder ([[alcohol-associated-liver-disease]]): SF elevated via ethanol-mediated hepcidin transcription downregulation; AUD is more common than HH in patients with elevated SF who are not C282Y homozygotes
-- Hepatitis C: iron accumulation in hepatocytes and Kupffer cells; 30–40% have elevated SF/TS
+- [[hepatitis-c|Hepatitis C]]: iron accumulation in hepatocytes and Kupffer cells; 30–40% have elevated SF/TS
 - Chronic inflammation: hepcidin upregulation causes anemia of chronic disease (functional iron sequestration) — TS typically low, SF elevated
 
 ### Severity Assessment
 
-**Markers of advanced disease requiring liver biopsy**:
+**Markers of advanced disease requiring [[liver-biopsy|liver biopsy]]**:
 
 - SF >1,000 ng/mL in C282Y homozygote (OR elevated liver enzymes) → liver biopsy for fibrosis staging
 - SF <1,000 ng/mL + normal liver enzymes → biopsy not indicated; <2% have advanced fibrosis
@@ -166,7 +166,7 @@ sources: [acg-2019-hereditary-hemochromatosis, acg-2017-liver-chemistries]
 ### HCC Surveillance
 
 - Patients with HH + cirrhosis: US ± AFP every 6 months (same criteria as cirrhosis from any cause) [[hepatocellular-carcinoma]]
-- Continue HCC surveillance even after successful iron depletion (HCC can develop years after iron removal)
+- Continue [[hcc-surveillance|HCC surveillance]] even after successful iron depletion (HCC can develop years after iron removal)
 - Against routine HCC surveillance in HH with ≤stage 3 fibrosis (no cirrhosis) (Rec 2, Conditional/Very Low) — data insufficient
 
 ---

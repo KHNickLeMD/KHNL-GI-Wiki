@@ -4,7 +4,7 @@ category: disease-script
 tags: [acute-liver-failure, alf, liver, hepatology, transplant, liver-transplant-referral]
 created: 2026-05-15
 updated: 2026-05-25
-sources: [acg-2023-alf, acg-2016-liver-disease-pregnancy, aasld-ast-2025-liver-transplant-candidate-evaluation]
+sources: [acg-2023-alf, acg-2016-liver-disease-pregnancy, aasld-ast-2025-liver-transplant-candidate-evaluation, aasld-2011-alf]
 ---
 
 ## Assessment
@@ -31,7 +31,7 @@ sources: [acg-2023-alf, acg-2016-liver-disease-pregnancy, aasld-ast-2025-liver-t
 
 ### Severity Assessment
 
-**Hepatic Encephalopathy Grading (West-Haven Criteria):**
+**[[hepatic-encephalopathy|Hepatic Encephalopathy]] Grading (West-Haven Criteria):**
 
 | Grade | Clinical Features | Management |
 |---|---|---|
@@ -40,7 +40,7 @@ sources: [acg-2023-alf, acg-2016-liver-disease-pregnancy, aasld-ast-2025-liver-t
 | 3 | Somnolence, gross disorientation, bizarre behavior, responsive to stimuli | Intubation; CT head; propofol if sedation needed (avoid opioids/benzos) |
 | 4 | Coma | CT head; consider ICP monitor if LT candidate; treat cerebral edema |
 
-**Prognostic scoring — when to list for liver transplantation:**
+**Prognostic scoring — when to list for [[liver-transplantation|liver transplantation]]:**
 
 **King's College Criteria (KCC):** High specificity (82–93%), moderate sensitivity (65–68%)
 
@@ -59,7 +59,7 @@ ACG recommends using **either KCC or MELD** for prognostication (conditional, lo
 
 ### Classification / Typing (O'Grady)
 
-| Type | Time to HE from Jaundice | Typical Etiologies | Cerebral Edema Risk | Transplant-Free Prognosis |
+| Type | Time to HE from [[jaundice|Jaundice]] | Typical Etiologies | Cerebral Edema Risk | Transplant-Free Prognosis |
 |---|---|---|---|---|
 | Hyperacute | < 7 days | APAP, HAV, HEV, ischemic | High | Best |
 | Acute | 7–21 days | HBV | Intermediate | Intermediate |
@@ -75,7 +75,7 @@ ALF must be distinguished from conditions with overlapping presentations:
 
 | Condition | Key Distinguishing Features |
 |---|---|
-| **Acute-on-chronic liver failure (ACLF)** | Known or occult cirrhosis; precipitant (infection, alcohol, GI bleed); HE responds to lactulose/rifaximin; HRS-AKI rather than ATN; ARDS common |
+| **[[acute-on-chronic-liver-failure|Acute-on-chronic liver failure (ACLF)]]** | Known or occult cirrhosis; precipitant (infection, alcohol, GI bleed); HE responds to lactulose/rifaximin; HRS-AKI rather than ATN; ARDS common |
 | **Decompensated cirrhosis** | Signs of [[portal-hypertension|portal hypertension]] (varices, splenomegaly, [[ascites]]); shrunken nodular liver on imaging; fibrosis on biopsy |
 | **Alcoholic hepatitis** | Heavy alcohol use; AST:ALT ratio often >2:1; usually no encephalopathy at presentation (see [[alcohol-associated-liver-disease]]) |
 | **HELLP syndrome / AFLP** | Third trimester or postpartum; thrombocytopenia, hemolysis; may overlap with true ALF — see [[liver-disease-in-pregnancy|liver disease in pregnancy]] for Swansea Criteria and management |
@@ -117,7 +117,7 @@ ALF must be distinguished from conditions with overlapping presentations:
 
 **Metabolic:**
 
-- Ceruloplasmin (Wilson disease screening)
+- Ceruloplasmin ([[wilson-disease|Wilson disease]] screening)
 - Ferritin (hemochromatosis, Still's disease)
 
 ### Imaging
@@ -138,7 +138,7 @@ ALF must be distinguished from conditions with overlapping presentations:
 
 ### Liver Biopsy
 
-Not routine. Transjugular liver biopsy (TJLB) preferred over percutaneous route given coagulopathy.
+Not routine. Transjugular [[liver-biopsy|liver biopsy]] (TJLB) preferred over percutaneous route given coagulopathy.
 
 **Indications:**
 
@@ -158,7 +158,7 @@ Not routine. Transjugular liver biopsy (TJLB) preferred over percutaneous route 
 | Wilson disease | Coombs-negative hemolytic anemia, low/normal ALP (<40 IU/L), modest transaminase elevation, elevated serum copper, low ceruloplasmin, renal failure; young patient |
 | AIH | ANA, anti-smooth muscle Ab, elevated IgG; centrilobular hemorrhagic necrosis + plasma cell infiltrate on biopsy |
 | Mushroom poisoning | History of wild mushroom ingestion; gastroenteritis 6–12 hr after ingestion; evolving hepatotoxicity 24–36 hr; multiorgan failure 4–7 days |
-| BCS | Abdominal pain + ascites; hepatic vein occlusion on Doppler US; AST > ALT in the thousands; hypercoagulable workup |
+| BCS | Abdominal pain + [[ascites]]; hepatic vein occlusion on Doppler US; AST > ALT in the thousands; hypercoagulable workup |
 | HELLP/AFLP | Third trimester/postpartum; thrombocytopenia, hemolysis (HELLP); Swansea criteria (AFLP); median AST/ALT >10x ULN |
 | Ischemic hepatitis | AST often >10,000 IU/L; preceded by hypotension/shock; bilirubin/INR may worsen despite transaminase improvement |
 
@@ -173,7 +173,7 @@ Not routine. Transjugular liver biopsy (TJLB) preferred over percutaneous route 
 - Grade 2 HE: ICU admission, neuro checks q1h
 - Grade 3–4 HE: endotracheal intubation (consider propofol; avoid opioids and benzodiazepines)
 - Lactulose: may be used in grade 1–2 HE (discontinue in grade 3–4 and before surgery due to bowel gas distension)
-- No conclusive evidence for lactulose or rifaximin specifically in ALF (evidence extrapolated from cirrhosis)
+- No conclusive evidence for lactulose or [[rifaximin]] specifically in ALF (evidence extrapolated from cirrhosis)
 - Increased ICP: mannitol, 3% hypertonic saline (250–500 mL bolus), hyperventilation, CRRT; target serum Na 145–150 mmol/L
 - ICP monitoring: not routine; may be considered at expert centers in grade 4 HE + transplant candidates
 
@@ -260,7 +260,7 @@ Not routine. Transjugular liver biopsy (TJLB) preferred over percutaneous route 
 - **Initiate LT evaluation immediately** — medical therapy rarely successful (key concept)
 - Post-LT outcomes excellent: 1-year survival ~88–90%
 
-**Autoimmune hepatitis (AIH):**
+**[[autoimmune-hepatitis|Autoimmune hepatitis]] (AIH):**
 
 - Acute severe AIH (AS-AIH) without ALF: **IV corticosteroids** (prednisone/prednisolone 0.5–1 mg/kg/day or 60 mg/day total)
 - SURFASA score (INR + bilirubin at day 3 of steroids) predicts non-responders (88% specificity, 84% sensitivity) → refer non-responders for LT
@@ -274,7 +274,7 @@ Not routine. Transjugular liver biopsy (TJLB) preferred over percutaneous route 
 - LT evaluation if no improvement after delivery
 - Hepatic bleeding/hematoma/rupture (especially HELLP) may require urgent surgery
 
-**Budd-Chiari syndrome:**
+**[[budd-chiari-syndrome|Budd-Chiari syndrome]]:**
 
 - **IV heparin** immediately (in absence of contraindications)
 - Anticoagulation alone → if fails: **TIPS** (preferred over surgical shunting)
@@ -331,3 +331,4 @@ Not routine. Transjugular liver biopsy (TJLB) preferred over percutaneous route 
 1. [[acg-2023-alf|ACG 2023: Acute Liver Failure]]
 2. [[acg-2016-liver-disease-pregnancy|ACG Clinical Guideline: Liver Disease and Pregnancy (2016)]]
 3. [[aasld-ast-2025-liver-transplant-candidate-evaluation|AASLD AST 2025: Practice Guideline on Adult Liver Transplantation — Candidate Evaluation]]
+4. [[aasld-2011-alf|AASLD Position Paper: Management of Acute Liver Failure — Update 2011 (historical)]]

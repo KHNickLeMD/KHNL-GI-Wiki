@@ -52,7 +52,7 @@ Ascites can be graded by volume and classified by treatment response:
 
 | SAAG | Interpretation |
 |------|---------------|
-| ≥1.1 g/dL | Portal hypertension (~97% accuracy); liver disease most likely |
+| ≥1.1 g/dL | [[portal-hypertension|Portal hypertension]] (~97% accuracy); liver disease most likely |
 | <1.1 g/dL | Excludes portal hypertension; consider peritoneal or other cause |
 | ≥1.1 + ascitic protein >2.5 g/dL | Suggests cardiac source (high-protein transudate) |
 
@@ -156,7 +156,7 @@ SAAG = serum albumin − ascitic fluid albumin (simultaneous samples)
 
 - Superior to repeated LVP for ascites control and may confer survival benefit in selected patients
 - **Preferred candidate:** MELD <18, younger age, preserved cardiopulmonary function, without sarcopenia
-- Stent: 8–10 mm covered (polytetrafluoroethylene) stent preferred to reduce post-TIPS hepatic encephalopathy
+- Stent: 8–10 mm covered (polytetrafluoroethylene) stent preferred to reduce post-TIPS [[hepatic-encephalopathy|hepatic encephalopathy]]
 - Ascites clearance is not immediate; takes 4–6 months for neurohormonal suppression and diuresis
 - ~80% will clear ascites with TIPS
 - Caution with diuretics post-TIPS (may delay effective arterial volume refilling)

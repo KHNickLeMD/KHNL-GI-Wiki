@@ -6,6 +6,44 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-06-09] lint | Inline text relations pass (wiki-wide)
+
+**Scope:** Scheduled `ingest-and-lint` run; lint task = "create inline text relations." Deterministic densification of in-text `[[slug|Displayed Words]]` links on first plain-text mention of any entity that already has a page.
+
+**Method:** Built a phrase→slug dictionary from every non-source wiki page (title + de-hyphenated slug; ≥6 chars or a whitelisted GI abbreviation; generic anatomy/common words stop-listed). For each page, added the first un-linked plain-text mention of each *other* entity as an inline alias link — skipping frontmatter, headings, code fences, `## Contents`/`## See Also`/`## Sources`, image embeds, and existing links/links-in-tables. One link per target per page (first-mention rule).
+
+**Result:**
+- **530 inline links added across 131 pages.** Highest-density: `[[liver-transplantation]]` (22), `[[abnormal-liver-chemistries]]` (15), `[[primary-sclerosing-cholangitis]]` (13), `[[upper-endoscopy]]` (11), `[[acute-liver-failure]]` (10).
+- Tidied **157** redundant `[[x|x]]` aliases → `[[x]]`.
+- Links built only from existing slugs ⇒ **zero broken links introduced** (verified by full-wiki scan).
+
+**Pre-existing items flagged for triage (not changed):**
+- `log.md` historical references to renamed/never-created slugs: `barrett-esophagus`, `esophageal-manometry`, `hrem`, `gastric-dysplasia`, `2021-chicago-classification` (old log prose; harmless).
+- `wiki/7-concepts/pancreatic-cancer-screening.md` uses intentional escaped-pipe table links (`[[slug\|Label]]`) — correct for Markdown table cells, left as-is.
+
+**Hygiene:** `.DS_Store` removal attempted but **blocked by filesystem permissions** on the mounted folder (8 files remain: repo root, `wiki/`, `raw/` subtrees) — flagged for the user to delete locally. Website needs no HTML rebuild (it fetches `index.md`/`README.md` live).
+
+---
+
+## [2026-06-09] ingest | 4 historical guidelines (AASLD 2011 ALF, ACG 2013 EoE, ACG 2018 Crohn's, ACG 2019 UC)
+
+**Context:** Scheduled `ingest-and-lint` run. All remaining uningested raw guidelines are superseded older editions; per user direction (and the explicit "only add information not already present — do not overwrite newer info" instruction), these were captured as standalone **historical** source pages. Entity therapeutic content was left untouched; only additive citations were made.
+
+**Note on selection:** "AASLD 2011 HCC Management.pdf" actually contains the AASLD 2023 HCC guidance (already ingested as `[[aasld-2023-hcc]]`) and "ACG 2014 Lynch.pdf" is the USMSTF statement already ingested as `[[usmstf-2014-lynch-syndrome]]` — both skipped as duplicates and replaced with ACG 2018 Crohn's and ACG 2019 UC.
+
+**Sources created (each flagged historical/superseded, near-verbatim recommendation capture, bibliographic links):**
+- `[[aasld-2011-alf]]` — 48 graded recs (AASLD I/II/III); etiology-directed workup, NAC, ICP/cerebral-edema management, transplant referral. Superseded by `[[acg-2023-alf]]`. ⚠ No confirmable online DOI — citation left as plain text for user to supply.
+- `[[acg-2013-eoe]]` — 21 recs verbatim; historical PPI-REE construct + mandatory PPI trial. Superseded by `[[acg-2025-eoe]]`.
+- `[[acg-2018-crohns]]` — 60 recs near-verbatim; pre-IL-23/JAK drug positioning. Superseded by `[[acg-2025-crohns]]`.
+- `[[acg-2019-uc]]` — 54 GRADE recs near-verbatim; pre-ustekinumab/ozanimod/upadacitinib in UC. Superseded by `[[acg-2025-uc]]`.
+
+**Pages updated (additive only — no overwrite):**
+- Appended the historical source to `## Sources` + frontmatter `sources:` on `[[acute-liver-failure]]`, `[[eosinophilic-esophagitis]]`, `[[crohns-disease]]`, `[[ulcerative-colitis]]`. No therapeutic prose altered.
+
+**Index:** Added 4 entries to the `## Sources` society subsections (ACG ×3, AASLD ×1); bumped entity source counts (EoE/Crohn's/UC 1→2, ALF 2→3).
+
+---
+
 ## [2026-06-07] update | Wiki-wide overhaul — Sources sections + Bibliographic links
 
 **Scope:** Full retroactive sweep following the approved achalasia pilot ([[achalasia]] / [[acg-2020-achalasia]]). Conventions applied as documented in `CLAUDE.md` and `.claude/PROGRESS-wiki-overhaul.md`.

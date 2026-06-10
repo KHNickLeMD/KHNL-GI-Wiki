@@ -19,7 +19,7 @@ Inflammatory bowel disease (IBD) comprises two major chronic immune-mediated dis
 | Histology | Transmural inflammation, granulomas | Mucosal/submucosal inflammation, cryptitis |
 | Smoking | Worsens Crohn's | Protective for UC (slightly) |
 | Surgery | Non-curative; strictureplasty/resection | Colectomy = curative |
-| Cancer risk | Small bowel adenocarcinoma; colon (if colonic) | Colorectal cancer (extent/duration-dependent) |
+| Cancer risk | Small bowel adenocarcinoma; colon (if colonic) | [[colorectal-cancer|Colorectal cancer]] (extent/duration-dependent) |
 
 ## Common Management Themes
 

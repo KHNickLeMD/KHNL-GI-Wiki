@@ -44,7 +44,7 @@ Key concern is distinguishing FNH from HCA (very different management) and from 
 
 ## Differential Diagnosis
 
-- **Hepatocellular adenoma (HCA)** — most important distinction; HCA lacks central scar; lacks hepatobiliary phase gadoxetate uptake in typical pattern; management is very different (see [[hepatocellular-adenoma]])
+- **[[hepatocellular-adenoma|Hepatocellular adenoma]] (HCA)** — most important distinction; HCA lacks central scar; lacks hepatobiliary phase gadoxetate uptake in typical pattern; management is very different (see [[hepatocellular-adenoma]])
 - **[[hepatocellular-carcinoma|Hepatocellular carcinoma (HCC)]]** — in cirrhotic background; APHE + washout; [[li-rads|LI-RADS]] ≥4; no central scar
 - **Hypervascular metastasis** — (e.g. from neuroendocrine tumor, RCC, thyroid cancer); multiple lesions; clinical context
 - **[[hepatic-hemangioma|Hepatic hemangioma]]** — T2 hyperintense; centripetal fill-in; no central scar; no hepatobiliary phase uptake
@@ -105,7 +105,7 @@ Key concern is distinguishing FNH from HCA (very different management) and from 
 
 - Repeat MRI with gadoxetate at a center with hepatic MRI expertise
 - Consider CEUS if MRI results remain indeterminate
-- Liver biopsy with immunostaining (LFABP, CRP/SAA, beta-catenin/glutamine synthetase) may be needed to subtype
+- [[liver-biopsy|Liver biopsy]] with immunostaining (LFABP, CRP/SAA, beta-catenin/glutamine synthetase) may be needed to subtype
 - Manage as HCA until definitive characterization achieved (more conservative approach)
 
 ---

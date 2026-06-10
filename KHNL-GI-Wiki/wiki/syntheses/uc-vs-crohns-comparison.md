@@ -9,7 +9,7 @@ sources: []
 
 # UC vs Crohn's Disease: Comparison
 
-| Feature | Ulcerative Colitis | Crohn's Disease |
+| Feature | [[ulcerative-colitis|Ulcerative Colitis]] | [[crohns-disease|Crohn's Disease]] |
 |---|---|---|
 | **Location** | Colon and rectum only | Anywhere in GI tract (mouth to anus) |
 | **Distribution** | Continuous, starting at rectum | Skip lesions (patchy, discontinuous) |

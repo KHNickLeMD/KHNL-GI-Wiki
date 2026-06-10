@@ -13,7 +13,7 @@ sources: [acg-2016-acute-diarrhea]
 
 ## What the Primary Sources Here Support
 
-The only directly relevant primary source currently in the wiki is the **ACG 2016 acute diarrhea guideline** ([[acg-2016-acute-diarrhea]]), which addresses acute diarrheal infections generally and notes a few points relevant to immunocompromised hosts:
+The only directly relevant primary source currently in the wiki is the **ACG 2016 [[acute-diarrhea|acute diarrhea]] guideline** ([[acg-2016-acute-diarrhea]]), which addresses acute diarrheal infections generally and notes a few points relevant to immunocompromised hosts:
 
 - ***Cryptosporidium*** ([[cryptosporidiosis]]) — treated with **nitazoxanide**; immunocompromised patients (HIV/AIDS, transplant) are at highest risk for severe and chronic disease.
 - **Microsporidiosis** (*Enterocytozoon bieneusi*) — treated with **albendazole** or **iodoquinol**.

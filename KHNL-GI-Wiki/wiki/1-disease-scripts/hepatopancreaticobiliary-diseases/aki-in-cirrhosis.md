@@ -189,7 +189,7 @@ Vasopressin V1 receptor analog; reverses splanchnic vasodilatation.
 - **Do not resume** after cardiac or ischemic symptoms, even if resolved
 - Start at lowest dose and titrate to minimize ischemic risk
 
-**Terlipressin is superior to norepinephrine in ACLF** (bilirubin >5 mg/dL, INR >1.5, with encephalopathy or ascites within 4 weeks).
+**Terlipressin is superior to norepinephrine in ACLF** (bilirubin >5 mg/dL, INR >1.5, with encephalopathy or [[ascites]] within 4 weeks).
 
 #### 2. Midodrine + Octreotide (Alternative — BPA 8)
 
@@ -230,7 +230,7 @@ RRT is not a primary therapy for HRS-AKI. Indications:
 | Indication | Details |
 |---|---|
 | ATN | Appropriate if meeting standard RRT criteria (volume overload, electrolyte emergency, uremia) |
-| HRS-AKI in transplant candidates | Bridge to liver transplantation only; continuous RRT preferred |
+| HRS-AKI in transplant candidates | Bridge to [[liver-transplantation|liver transplantation]] only; continuous RRT preferred |
 | HRS-AKI in non-transplant candidates | **NOT indicated** |
 | Uncertain AKI etiology | May consider on individual basis if transplant candidate |
 

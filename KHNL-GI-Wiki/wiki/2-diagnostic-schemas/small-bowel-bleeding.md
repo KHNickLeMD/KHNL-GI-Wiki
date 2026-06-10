@@ -35,7 +35,7 @@ This guideline replaces the older term **"obscure GI bleeding (OGIB)"** with ana
 
 | Age < 40 years | Age > 40 years | Rare (any age) |
 |---|---|---|
-| Inflammatory bowel disease ([[crohns-disease]]) | Angioectasia ([[angioectasia]]) | Henoch-Schönlein purpura |
+| [[inflammatory-bowel-disease|Inflammatory bowel disease]] ([[crohns-disease]]) | [[angioectasia|Angioectasia]] ([[angioectasia]]) | Henoch-Schönlein purpura |
 | Dieulafoy's lesions | Dieulafoy's lesions | Amyloidosis |
 | Neoplasia | Neoplasia | Blue rubber bleb nevus syndrome |
 | [[meckels-diverticulum]] | NSAID ulcers | Pseudoxanthoma elasticum |
@@ -74,7 +74,7 @@ This guideline replaces the older term **"obscure GI bleeding (OGIB)"** with ana
 
 ### Step 1: Confirm Small Bowel Origin
 
-1. Ensure upper endoscopy ([[upper-gi-bleeding]]) and colonoscopy ([[acute-lower-gi-bleeding]]) have been performed adequately.
+1. Ensure [[upper-endoscopy|upper endoscopy]] ([[upper-gi-bleeding]]) and [[colonoscopy]] ([[acute-lower-gi-bleeding]]) have been performed adequately.
 2. **Second-look upper endoscopy** for recurrent hematemesis, melena, or incomplete prior exam. *(Strong/Low)*
 3. **Second-look colonoscopy** if recurrent hematochezia or lower source suspected. *(Conditional/Very Low)*
 4. **Push enteroscopy** may be used as a second-look exam — reaches distal duodenum and proximal jejunum (~70 cm beyond Treitz). *(Conditional/Moderate)*
@@ -133,7 +133,7 @@ This guideline replaces the older term **"obscure GI bleeding (OGIB)"** with ana
 - NPV 83–100% (a negative VCE is reassuring).
 - **Timing:** VCE within 48–72 h of overt SBB has greatest yield; overt bleeding (60%) > occult (46%).
 - **VCE before DBE:** perform VCE first to guide targeted (VCE-guided) DBE, which raises diagnostic yield to 73–93% and therapeutic yield to 57–73%.
-- **Contraindications/limitations:** capsule retention in ~1.5% overall, up to 13% in Crohn's disease — patency capsule recommended first if obstruction suspected; cannot perform therapeutics; misses duodenal papilla in most cases; lower yield for duodenal/proximal jejunal lesions.
+- **Contraindications/limitations:** capsule retention in ~1.5% overall, up to 13% in [[crohns-disease|Crohn's disease]] — patency capsule recommended first if obstruction suspected; cannot perform therapeutics; misses duodenal papilla in most cases; lower yield for duodenal/proximal jejunal lesions.
 - Repeat VCE: beneficial when bleeding changes from occult to overt, or Hgb drops ≥4 g/dl; false-negative rate 11% for all SB findings, up to 19% for neoplasms.
 
 ### Push Enteroscopy
@@ -186,7 +186,7 @@ This guideline replaces the older term **"obscure GI bleeding (OGIB)"** with ana
 
 ### Meckel's Scan (⁹⁹ᵐTc-pertechnetate)
 
-- Detects ectopic gastric mucosa in Meckel's diverticulum; most useful in younger patients.
+- Detects ectopic gastric mucosa in [[meckels-diverticulum|Meckel's diverticulum]]; most useful in younger patients.
 - Sensitivity 50–90%, specificity 9–95%; false positives from ulcers, AVM, intussusception, duplication cysts.
 - Use: younger patients with ongoing overt bleeding and negative VCE + enterography. *(Conditional/Very Low)*
 
@@ -238,8 +238,8 @@ If bleeding persists or recurs and lesion cannot be localized: *(Strong/Moderate
 - **Hemodynamic instability** (hypotension, tachycardia) → emergent angiography, not VCE.
 - **Hemoglobin drop ≥4 g/dl** → consider repeat VCE even after prior negative study.
 - **Age <40 with SBB** → higher index of suspicion for Crohn's disease, Meckel's diverticulum, polyposis syndromes.
-- **Skin findings** → hereditary hemorrhagic telangiectasia (Osler-Weber-Rendu), blue rubber bleb nevus, Peutz-Jeghers pigmentation (see [[peutz-jeghers-syndrome]]), Ehlers-Danlos.
-- **Aortic stenosis or LVAD** → acquired von Willebrand deficiency + angioectasia (Heyde's syndrome); aortic valve replacement may resolve bleeding.
+- **Skin findings** → [[hereditary-hemorrhagic-telangiectasia|hereditary hemorrhagic telangiectasia]] (Osler-Weber-Rendu), blue rubber bleb nevus, Peutz-Jeghers pigmentation (see [[peutz-jeghers-syndrome]]), Ehlers-Danlos.
+- **Aortic stenosis or LVAD** → acquired von Willebrand deficiency + angioectasia ([[heydes-syndrome|Heyde's syndrome]]); aortic valve replacement may resolve bleeding.
 - **Prior abdominal surgery or known Crohn's** → risk of capsule retention; perform patency capsule or CTE before VCE.
 - **Mass lesion on VCE or CTE** → high suspicion for neoplasm; total deep enteroscopy required; see [[subepithelial-lesion]].
 - **Capsule showing active bleeding or large vascular lesion** → urgent deep enteroscopy for therapy.

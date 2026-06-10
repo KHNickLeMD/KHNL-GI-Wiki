@@ -13,7 +13,7 @@ Hepatopulmonary syndrome (HPS) and portopulmonary hypertension (POPH) are pulmon
 
 ## Hepatopulmonary Syndrome (HPS)
 
-**Definition:** Intrapulmonary vascular dilatations (IPVDs) causing abnormal oxygenation in the setting of liver disease or portal hypertension. Diagnostic criteria:
+**Definition:** Intrapulmonary vascular dilatations (IPVDs) causing abnormal oxygenation in the setting of liver disease or [[portal-hypertension|portal hypertension]]. Diagnostic criteria:
 
 - Microbubbles in left heart ≥3 cardiac cycles after right heart microbubbles on 10 mL agitated saline injection via peripheral vein on bubble echocardiography
 - Alveolar-arterial gradient >15 mmHg (>20 mmHg if age >64)

@@ -18,7 +18,7 @@ sources: [acg-2024-ald, acg-2017-liver-chemistries, aasld-ast-2025-liver-transpl
 **ALD spectrum** [[acg-2024-ald]], [[aasld-2020-ald]]:
 
 - **Hepatic steatosis** — reversible; develops in 90% with >60g/day alcohol for 2 weeks; usually asymptomatic; reverses with 4–6 weeks abstinence
-- **Alcohol-associated steatohepatitis (ASH) / Alcoholic Hepatitis (AH)** — acute inflammatory injury; 10–35% of heavy drinkers; rapid onset jaundice; spectrum of severity; histological correlate is ASH
+- **Alcohol-associated steatohepatitis (ASH) / Alcoholic Hepatitis (AH)** — acute inflammatory injury; 10–35% of heavy drinkers; rapid onset [[jaundice]]; spectrum of severity; histological correlate is ASH
 - **Fibrosis** — 40–50% of those with steatohepatitis; 20–40% regress with abstinence
 - **Cirrhosis (AC)** — 8–20% of heavy drinkers; may develop without prior recognized AH; 20–40% develop decompensation or [[acute-on-chronic-liver-failure|ACLF]]; 3–10% develop HCC
 - **[[hepatocellular-carcinoma|Hepatocellular carcinoma (HCC)]]** — cirrhosis-associated risk; PNPLA3 and TM6SF2 variants increase HCC risk specifically in ALD [[aasld-2020-ald]]
@@ -112,7 +112,7 @@ sources: [acg-2024-ald, acg-2017-liver-chemistries, aasld-ast-2025-liver-transpl
 | MELD score | Severity stratification |
 | Lipase/amylase | Exclude concomitant pancreatitis |
 | HBsAg, anti-HCV, anti-HEV | Exclude viral coinfection |
-| ANA, anti-smooth muscle Ab, IgG | Exclude autoimmune hepatitis |
+| ANA, anti-smooth muscle Ab, IgG | Exclude [[autoimmune-hepatitis|autoimmune hepatitis]] |
 | Blood cultures | Before starting steroids; exclude active infection |
 | Procalcitonin, urinalysis | Screen for bacterial infection |
 
@@ -141,7 +141,7 @@ AASLD 2020 GS-1: *"All patients receiving care in primary care and gastroenterol
 ### Imaging
 
 - **Liver ultrasound (US):** first-line; evaluate echogenicity (steatosis), [[portal-hypertension|portal hypertension]] signs, exclude biliary obstruction, screen for HCC
-- **CT abdomen with contrast:** evaluate for complications (ascites, [[portal-vein-thrombosis|portal vein thrombosis]]), mass lesions; not required routinely
+- **CT abdomen with contrast:** evaluate for complications ([[ascites]], [[portal-vein-thrombosis|portal vein thrombosis]]), mass lesions; not required routinely
 - **MRCP:** if biliary obstruction suspected
 
 ### Liver Biopsy
@@ -152,7 +152,7 @@ AASLD 2020 GS-1: *"All patients receiving care in primary care and gastroenterol
 
 ### AKI in AH
 
-- AKI is common in severe AH due to hemodynamic consequences of portal hypertension overlapping with systemic inflammatory response syndrome (SIRS) → hepatorenal syndrome (HRS) [[aasld-2020-ald]]
+- AKI is common in severe AH due to hemodynamic consequences of [[portal-hypertension|portal hypertension]] overlapping with systemic inflammatory response syndrome (SIRS) → hepatorenal syndrome (HRS) [[aasld-2020-ald]]
 - **Serum creatinine >2.5 mg/dL is a relative contraindication to corticosteroids** in most AH clinical trials (insufficient trial data for steroid efficacy with AKI)
 - If AKI resolves, corticosteroid treatment should be reconsidered
 - AKI-avoidance strategies: avoid IV contrast, aminoglycosides, and NSAIDs; use diuretics cautiously; early treatment with albumin and vasoconstrictors if HRS develops
@@ -190,8 +190,8 @@ ALD risk is influenced by genetic variants in lipid metabolism and alcohol oxida
 
 - Uncontrolled infections (SBP, pneumonia, cellulitis, UTI) — screen before starting; treat infection first, re-evaluate; infection alone is NOT associated with short-term mortality in responders
 - **AKI with serum creatinine >2.5 mg/dL** (relative; if AKI resolves, reconsider steroids)
-- Uncontrolled upper GI bleeding — control first; GIB alone is NOT an absolute contraindication (prednisolone can be started ~5 days after GIB episode per retrospective data)
-- Concomitant disease: active HBV, HCV, DILI, HCC, acute pancreatitis, HIV, TB
+- Uncontrolled [[upper-gi-bleeding|upper GI bleeding]] — control first; GIB alone is NOT an absolute contraindication (prednisolone can be started ~5 days after GIB episode per retrospective data)
+- Concomitant disease: active HBV, HCV, DILI, HCC, [[acute-pancreatitis|acute pancreatitis]], HIV, TB
 - Multiorgan failure or shock
 
 **N-Acetylcysteine (NAC) IV — add to prednisolone** [[aasld-2020-ald]]:
@@ -266,7 +266,7 @@ All ALD patients should receive AUD treatment [[acg-2024-ald]], [[aasld-2020-ald
 
 **AASLD 2020 LT guidance statements** [[aasld-2020-ald]]:
 
-- GS-20: *"Patients with decompensated alcohol-associated cirrhosis, CPT class C or MELD-Na of at least 21 should be referred and considered for liver transplantation."*
+- GS-20: *"Patients with decompensated alcohol-associated cirrhosis, CPT class C or MELD-Na of at least 21 should be referred and considered for [[liver-transplantation|liver transplantation]]."*
 - GS-21: *"Candidate selection for liver transplantation in alcohol-associated cirrhosis should not be based solely on a fixed interval of abstinence."*
 - GS-22: *"Liver transplantation may be considered in carefully selected patients with favorable psychosocial profiles in severe AH not responding to medical therapy."*
 

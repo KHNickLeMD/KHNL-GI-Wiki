@@ -27,7 +27,7 @@ Colon ischemia (CI) is the most common form of intestinal ischemia, resulting fr
 3. **CT angiography** — NOT routine; reserve for clinical suspicion of AMI or when CI is right-sided (IRCI) suggesting SMA disease
 4. **Labs**: CBC (leukocytosis), metabolic panel, serum lactate, LDH, CK — none diagnostic alone; elevated lactate/CK suggest transmural or severe disease
 
-> Colonoscopy must **not** be performed in the setting of peritoneal signs or pneumoperitoneum — proceed directly to surgical evaluation.
+> [[colonoscopy|Colonoscopy]] must **not** be performed in the setting of peritoneal signs or pneumoperitoneum — proceed directly to surgical evaluation.
 
 ### Severity Assessment
 
@@ -60,12 +60,12 @@ Severity classification (Table 6, ACG 2015) [[acg-2015-colon-ischemia]]:
 
 ## Differential Diagnosis
 
-- **Acute mesenteric ischemia (AMI)** — involves small bowel; abrupt severe pain; CT angiography required urgently; does not cause hematochezia early
+- **[[acute-mesenteric-ischemia|Acute mesenteric ischemia]] (AMI)** — involves small bowel; abrupt severe pain; CT angiography required urgently; does not cause hematochezia early
 - **Infectious colitis** — [[campylobacter-infection|Campylobacter]], STEC O157:H7, [[clostridioides-difficile|Clostridioides difficile]]; stool cultures, CDI testing; younger patients, exposure history
 - **[[crohns-disease]]** — may have right colon predominance like IRCI; chronic course; may have terminal ileal involvement; biopsy shows transmural inflammation + granulomas
 - **[[ulcerative-colitis]]** — continuous disease from rectum; not segmental; usually no abrupt onset
 - **Radiation proctocolitis** — history of pelvic radiation; telangiectasias on endoscopy
-- **Microscopic colitis** — watery, nonbloody diarrhea; normal colonoscopy; requires biopsy
+- **[[microscopic-colitis|Microscopic colitis]]** — watery, nonbloody diarrhea; normal colonoscopy; requires biopsy
 - **Colon adenocarcinoma** — can obstruct mesenteric vessel and cause downstream CI; CT may show mass
 
 ---

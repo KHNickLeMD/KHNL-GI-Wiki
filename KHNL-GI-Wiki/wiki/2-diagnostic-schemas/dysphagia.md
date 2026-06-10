@@ -48,7 +48,7 @@ The single most useful historical discriminator in esophageal dysphagia is **sol
 
 - Stroke (most common cause overall) and other CNS disease (Parkinson's disease, multiple sclerosis, ALS, brainstem lesions)
 - Myopathies and neuromuscular junction disease — myasthenia gravis (fatigable), polymyositis/dermatomyositis, muscular dystrophy
-- Cricopharyngeal (upper esophageal sphincter) dysfunction / achalasia of the UES
+- Cricopharyngeal (upper esophageal sphincter) dysfunction / [[achalasia]] of the UES
 
 **Structural:**
 
@@ -113,7 +113,7 @@ flowchart TD
 - **Barium esophagram / timed barium esophagram** — structural and functional overview; sensitive for rings, webs, subtle strictures, extrinsic compression; timed barium quantifies achalasia emptying.
 - **[[high-resolution-manometry|High-resolution manometry]]** — gold standard for esophageal motility disorders; interpreted by [[chicago-classification-v4|Chicago Classification v4.0]].
 - **[[flip-panometry|FLIP panometry]]** — adjunct measuring EGJ distensibility and secondary peristalsis; clarifies EGJOO and achalasia when HRM is inconclusive.
-- **Ambulatory reflux testing** ([[ambulatory-reflux-monitoring]]) — when GERD is suspected as the driver of a peptic stricture or dysphagia.
+- **Ambulatory [[reflux-testing|reflux testing]]** ([[ambulatory-reflux-monitoring]]) — when [[gerd|GERD]] is suspected as the driver of a peptic stricture or dysphagia.
 
 ---
 

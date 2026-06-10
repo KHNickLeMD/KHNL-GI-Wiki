@@ -46,7 +46,7 @@ sources: [acg-2019-hereditary-hemochromatosis]
 - Transferrin saturation (TS): serum iron ÷ TIBC × 100; ≥45% screening threshold for HH
 - Serum ferritin (SF): intracellular iron-storage protein; elevated in iron overload but also in inflammation, ALD, NAFLD, malignancy (low specificity)
 - UIBC: inverse of TS; <26 µmol/L has 90% sensitivity/specificity for C282Y homozygosity
-- Hepatic iron concentration (HIC): direct measurement on liver biopsy (µmol/g dry weight); >71 µmol/g diagnostic of HH type 1
+- Hepatic iron concentration (HIC): direct measurement on [[liver-biopsy|liver biopsy]] (µmol/g dry weight); >71 µmol/g diagnostic of HH type 1
 - Hepatic iron index (HII): HIC ÷ age; ≥1.9 distinguishes homozygotes from heterozygotes and secondary overload
 
 **Related pages**: [[hereditary-hemochromatosis]], [[alcohol-associated-liver-disease]], [[drug-induced-liver-injury]]

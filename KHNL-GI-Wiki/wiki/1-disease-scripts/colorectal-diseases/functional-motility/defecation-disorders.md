@@ -35,7 +35,7 @@ Severity based on symptom burden, laxative dependence, impact on QoL (PAC-QoL, P
 | Condition | Key Features |
 |-----------|-------------|
 | Slow-transit constipation | Delayed radiopaque marker transit throughout colon; normal anorectal physiology; not outlet dysfunction; poor biofeedback response |
-| Chronic idiopathic constipation (normal transit) | Normal ARM + BET; responds to osmotic laxatives and secretagogues; see [[chronic-idiopathic-constipation]] |
+| [[chronic-idiopathic-constipation|Chronic idiopathic constipation]] (normal transit) | Normal ARM + BET; responds to osmotic laxatives and secretagogues; see [[chronic-idiopathic-constipation]] |
 | Rectocele | Structural defect; detected on defecography; significant if ≥5 cm with trapping; co-exists with dyssynergia in many patients |
 | [[rectal-prolapse|Rectal prolapse]] (full-thickness) | Circular folds visible; inspect in squatting position or on toilet |
 | Hirschsprung disease | Usually diagnosed in childhood; aganglionic segment; suction rectal biopsy |
@@ -71,7 +71,7 @@ Severity based on symptom burden, laxative dependence, impact on QoL (PAC-QoL, P
 
 **Defecography (barium or MRI) — for structural evaluation:**
 
-- Indicated when: ARM + BET discordant, biofeedback fails, structural abnormality suspected (rectocele, prolapse, enterocele), or rectal prolapse not seen on physical exam
+- Indicated when: ARM + BET discordant, biofeedback fails, structural abnormality suspected (rectocele, prolapse, enterocele), or [[rectal-prolapse|rectal prolapse]] not seen on physical exam
 - MRI defecography: no radiation; superior for pelvic organ prolapse and levator assessment; more expensive, less available
 - Barium defecography: detects internal intussusception, solitary rectal ulcer, rectocele, anorectal angle
 
@@ -89,7 +89,7 @@ Severity based on symptom burden, laxative dependence, impact on QoL (PAC-QoL, P
 
 - Normalize stool form (Bristol 3–4): fiber supplement + adequate hydration + PEG if needed
 - Toileting behavior: scheduled defecation, footstool, avoid excessive straining
-- Treat concurrent anorectal conditions ([[anal-fissure|anal fissure]], [[hemorrhoids|hemorrhoids]]) that reinforce voluntary sphincter contraction
+- Treat concurrent anorectal conditions ([[anal-fissure|anal fissure]], [[hemorrhoids]]) that reinforce voluntary sphincter contraction
 - Address constipating medications
 
 ### Step 2: Anorectal Biofeedback — Cornerstone of Treatment

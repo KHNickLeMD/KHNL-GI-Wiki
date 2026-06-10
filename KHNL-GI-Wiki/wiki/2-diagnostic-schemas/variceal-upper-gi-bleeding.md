@@ -9,7 +9,7 @@ sources: [albhaisi-2025-prophylactic-antibiotics-cirrhosis, aasld-2023-portal-hy
 
 ## Definition / Scope
 
-Acute variceal hemorrhage (AVH) refers to hemorrhage from esophageal or gastric varices in the setting of portal hypertension (PH), most commonly due to cirrhosis. It is a life-threatening emergency with 6-week mortality of approximately 15–20%. Varices form when HVPG exceeds 10–12 mmHg; bleeding risk rises sharply above 12 mmHg; HVPG >20 mmHg at index bleed = high-risk for treatment failure.
+Acute variceal hemorrhage (AVH) refers to hemorrhage from esophageal or gastric varices in the setting of [[portal-hypertension|portal hypertension]] (PH), most commonly due to cirrhosis. It is a life-threatening emergency with 6-week mortality of approximately 15–20%. Varices form when HVPG exceeds 10–12 mmHg; bleeding risk rises sharply above 12 mmHg; HVPG >20 mmHg at index bleed = high-risk for treatment failure.
 
 Distinct from non-variceal UGIB (peptic ulcer, Mallory-Weiss, Dieulafoy) in management priorities: vasoactive agents, antibiotic prophylaxis, and early TIPS consideration are specific to variceal hemorrhage. See [[portal-hypertension]] for PH staging (cACLD/CSPH), surveillance decisions, and primary prophylaxis.
 
@@ -89,7 +89,7 @@ Standard practice recommends prophylactic antibiotics to prevent bacterial infec
 | Blood cultures × 2 | Bacteremia (obtain before antibiotics) |
 | Urinalysis | Rule out UTI as precipitant |
 | MELD, Child-Pugh score | Prognosis, TIPS candidacy |
-| Abdominal ultrasound with Doppler | Portal vein patency, splenomegaly, ascites |
+| Abdominal ultrasound with Doppler | Portal vein patency, splenomegaly, [[ascites]] |
 | EGD (within 12 hours) | Diagnosis + treatment |
 | HVPG (if available) | >20 mmHg = high-risk; guides TIPS timing |
 

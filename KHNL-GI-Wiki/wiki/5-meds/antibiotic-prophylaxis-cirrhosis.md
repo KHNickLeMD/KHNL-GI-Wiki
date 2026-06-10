@@ -9,7 +9,7 @@ sources: [albhaisi-2025-prophylactic-antibiotics-cirrhosis]
 
 *Stub — to be expanded.*
 
-Prophylactic antibiotics in cirrhotic patients with upper GI bleeding aim to prevent bacterial translocation-driven infections ([[spontaneous-bacterial-peritonitis|spontaneous bacterial peritonitis]], bacteremia) that independently worsen short-term mortality.
+Prophylactic antibiotics in cirrhotic patients with [[upper-gi-bleeding|upper GI bleeding]] aim to prevent bacterial translocation-driven infections ([[spontaneous-bacterial-peritonitis|spontaneous bacterial peritonitis]], bacteremia) that independently worsen short-term mortality.
 
 ## Standard Agents
 

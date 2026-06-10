@@ -28,7 +28,7 @@ sources: [acg-2015-hereditary-gi-cancer, usmstf-2015-crc-surveillance, usmstf-20
 
 ## Diagnostics
 
-- Colonoscopy, biopsy, CT, MRI rectum, CEA, MMR/MSI testing (Lynch screen), BRAF/KRAS/NRAS for metastatic
+- [[colonoscopy|Colonoscopy]], biopsy, CT, MRI rectum, CEA, MMR/MSI testing (Lynch screen), BRAF/KRAS/NRAS for metastatic
 
 ## Therapeutics
 
@@ -57,7 +57,7 @@ sources: [acg-2015-hereditary-gi-cancer, usmstf-2015-crc-surveillance, usmstf-20
 ### Universal Lynch Syndrome Testing
 
 - Per USMSTF 2014 and confirmed in this guideline: all CRCs should be studied for evidence of [[lynch-syndrome]] (MMR/MSI tumor testing)
-- Patients with known or suspected Lynch syndrome must follow Lynch-specific surveillance intervals, not those below
+- Patients with known or suspected [[lynch-syndrome|Lynch syndrome]] must follow Lynch-specific surveillance intervals, not those below
 
 ### Step 1 — Perioperative Clearing Colonoscopy
 
@@ -68,7 +68,7 @@ sources: [acg-2015-hereditary-gi-cancer, usmstf-2015-crc-surveillance, usmstf-20
 - Goals: (1) detect synchronous cancers (prevalence 0.7–7%); (2) detect and completely resect precancerous polyps
 - For obstructive CRC precluding complete colonoscopy: use **CT colonography (CTC)** as the best alternative; double-contrast barium enema is acceptable if CTC unavailable (*Strong recommendation, moderate-quality evidence*)
   - However, choose colonoscopy (not CTC) for the first **postoperative** examination in cases where CTC was used perioperatively — CTC misses flat, diminutive, and serrated lesions that may be clinically significant in CRC patients
-- **Serrated polyposis syndrome (SPS):** Actively consider this diagnosis when multiple and/or large serrated lesions are found — [[serrated-polyposis-syndrome]] requires more frequent colonoscopy intervals
+- **[[serrated-polyposis-syndrome|Serrated polyposis syndrome]] (SPS):** Actively consider this diagnosis when multiple and/or large serrated lesions are found — [[serrated-polyposis-syndrome]] requires more frequent colonoscopy intervals
 
 ### Step 2 — First Postoperative Surveillance Colonoscopy
 

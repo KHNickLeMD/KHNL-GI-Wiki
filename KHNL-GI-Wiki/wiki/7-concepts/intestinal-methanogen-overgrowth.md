@@ -26,7 +26,7 @@ IMO is a term proposed by the ACG 2020 SIBO guideline ([[acg-2020-sibo]]) to des
 
 **Treatment:**
 
-- Combination of rifaximin (400 mg t.i.d.) + neomycin (500 mg b.i.d.) is most effective (87% methane reduction)
+- Combination of [[rifaximin]] (400 mg t.i.d.) + neomycin (500 mg b.i.d.) is most effective (87% methane reduction)
 - Neomycin alone: 33%; rifaximin alone: 28%
 - Targeting methanogens may reduce methane production and improve constipation (Key Concept 10)
 

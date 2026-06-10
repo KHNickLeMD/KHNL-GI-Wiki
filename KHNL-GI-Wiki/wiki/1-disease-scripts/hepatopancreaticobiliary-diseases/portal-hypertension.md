@@ -17,19 +17,19 @@ Portal hypertension (PH) is defined as a portocaval pressure gradient (portal ve
 
 | Level | Examples |
 |---|---|
-| Prehepatic | Portal vein thrombosis, splenic vein thrombosis |
-| Intrahepatic — presinusoidal | Schistosomiasis, primary biliary cholangitis, sarcoidosis |
+| Prehepatic | [[portal-vein-thrombosis|Portal vein thrombosis]], splenic vein thrombosis |
+| Intrahepatic — presinusoidal | Schistosomiasis, [[primary-biliary-cholangitis|primary biliary cholangitis]], sarcoidosis |
 | Intrahepatic — sinusoidal | **Cirrhosis** (most common), alcohol-associated hepatitis |
 | Intrahepatic — postsinusoidal | Sinusoidal obstruction syndrome (VOD) |
-| Posthepatic | Budd-Chiari syndrome, congestive hepatopathy (heart failure, constrictive pericarditis) |
+| Posthepatic | [[budd-chiari-syndrome|Budd-Chiari syndrome]], congestive hepatopathy (heart failure, constrictive pericarditis) |
 
 **cACLD (Compensated Advanced Chronic Liver Disease):** A new concept denoting patients who are likely close to cirrhosis based on LSM and platelet count, without requiring histological/radiological confirmation. Key threshold: LSM ≥15 kPa by transient elastography [[aasld-2023-portal-hypertension]].
 
 **Clinically significant portal hypertension (CSPH):** HVPG ≥10 mm Hg. CSPH marks the threshold above which clinical decompensation risk rises substantially (varices, [[ascites]], HE). Complications typically manifest when HVPG ≥12 mm Hg.
 
-**Clinical decompensation** is defined by overt ascites, [[variceal-upper-gi-bleeding|variceal hemorrhage]], or overt [[hepatic-encephalopathy|hepatic encephalopathy]]. Once decompensation occurs, median survival decreases from >12 years to <1.5 years.
+**Clinical decompensation** is defined by overt [[ascites]], [[variceal-upper-gi-bleeding|variceal hemorrhage]], or overt [[hepatic-encephalopathy|hepatic encephalopathy]]. Once decompensation occurs, median survival decreases from >12 years to <1.5 years.
 
-**"Further decompensation":** Recurrent or refractory complications (recurrent variceal hemorrhage, refractory ascites, [[aki-in-cirrhosis|HRS]], [[spontaneous-bacterial-peritonitis|SBP]], jaundice); associated with much higher mortality.
+**"Further decompensation":** Recurrent or refractory complications (recurrent variceal hemorrhage, refractory ascites, [[aki-in-cirrhosis|HRS]], [[spontaneous-bacterial-peritonitis|SBP]], [[jaundice]]); associated with much higher mortality.
 
 ### Severity Assessment
 
@@ -56,7 +56,7 @@ HVPG requires transjugular or transfemoral approach; preferred at experienced ce
 | 20–24.9 | <150 | Certain cACLD, highly probable CSPH |
 | ≥25 | any | Rules in CSPH |
 
-**Note:** "Rule of Five" cutoffs are less reliable in obesity/NAFLD, PSC with dominant strictures, and elevated ALT (>3× ULN). Non-TE elastography methods (MRE, pSWE, 2D-SWE) not yet validated for these specific cutoffs.
+**Note:** "Rule of Five" cutoffs are less reliable in [[obesity]]/NAFLD, PSC with dominant strictures, and elevated ALT (>3× ULN). Non-TE elastography methods (MRE, pSWE, 2D-SWE) not yet validated for these specific cutoffs.
 
 **Annual LSM monitoring** in cACLD without CSPH when underlying disease is active/uncontrolled. A ≥20% increase in LSM correlates with worsening hepatic decompensation; ≥20% decrease correlates with improved mortality.
 

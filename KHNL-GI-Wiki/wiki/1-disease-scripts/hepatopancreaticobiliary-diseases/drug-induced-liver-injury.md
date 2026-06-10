@@ -60,11 +60,11 @@ sources: [acg-2021-dili, acg-2017-liver-chemistries, aasld-2022-dili]
 |-----------|---------------------------|
 | Acute hepatitis A | Travel, shellfish exposure; anti-HAV IgM positive |
 | Acute hepatitis B | Anti-HBc IgM, HBsAg positive; risk factors (sexual, IV drug use, healthcare) |
-| Acute hepatitis C | Anti-HCV may be negative initially; **HCV RNA required** — negative antibody does not rule out acute HCV |
+| Acute [[hepatitis-c|hepatitis C]] | Anti-HCV may be negative initially; **HCV RNA required** — negative antibody does not rule out acute HCV |
 | Acute hepatitis E | Recent travel to endemic area; anti-HEV IgM; HEV RNA; underdiagnosed in US (3% suspected DILI tested positive in DILIN) |
-| Autoimmune hepatitis | ANA/ASMA positive (but note: 30% of adults have low-titer autoantibodies; >1:80 more significant); IgG elevated; liver biopsy shows interface hepatitis; biopsy critical if immunosuppression planned |
-| Wilson disease | Age <40 (consider in older); low ceruloplasmin; Kayser-Fleischer rings (slit-lamp); serum copper, 24-hour urine copper; liver biopsy if needed |
-| Budd-Chiari | Hepatomegaly, ascites, right upper quadrant pain; Doppler US shows hepatic vein occlusion |
+| [[autoimmune-hepatitis|Autoimmune hepatitis]] | ANA/ASMA positive (but note: 30% of adults have low-titer autoantibodies; >1:80 more significant); IgG elevated; [[liver-biopsy|liver biopsy]] shows interface hepatitis; biopsy critical if immunosuppression planned |
+| [[wilson-disease|Wilson disease]] | Age <40 (consider in older); low ceruloplasmin; Kayser-Fleischer rings (slit-lamp); serum copper, 24-hour urine copper; liver biopsy if needed |
+| Budd-Chiari | Hepatomegaly, [[ascites]], right upper quadrant pain; Doppler US shows hepatic vein occlusion |
 | Ischemic hepatitis | Extreme transaminase elevation (>10,000 IU/L possible); rapid rise and fall; hypotension history; cardiac or respiratory etiology |
 | HDS-hepatotoxicity | Dietary supplements (bodybuilding, weight loss) — same diagnostic approach as prescription DILI; stop all HDS |
 | [[immune-checkpoint-inhibitor-hepatitis|ICI-induced hepatotoxicity]] | Immune checkpoint inhibitor therapy; onset 4–12 weeks; mixed → hepatocellular pattern; low ANA titers possible; histology ≠ AIH |
@@ -136,7 +136,7 @@ Roussel Uclaf Causality Assessment Method — scoring system (−10 to +14):
 
 ### Rechallenge
 
-- **Strongly against rechallenge** with drug likely to have caused hepatotoxicity if initial injury was significant (>5× ULN ALT, Hy's law, or jaundice): Strong/Low
+- **Strongly against rechallenge** with drug likely to have caused hepatotoxicity if initial injury was significant (>5× ULN ALT, Hy's law, or [[jaundice]]): Strong/Low
 - Exception: life-threatening situations with no suitable alternative (chemotherapy, anti-TB)
 - Educate patient with medical alert bracelet/card
 

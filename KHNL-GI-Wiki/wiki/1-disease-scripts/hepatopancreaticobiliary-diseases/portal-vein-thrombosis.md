@@ -17,7 +17,7 @@ Portal vein thrombosis (PVT) is the partial or complete occlusion of the portal 
 
 - **Acute PVT/MVT (noncirrhotic)**: abdominal pain (often periumbilical, crampy), nausea, fever; MVT may cause intestinal ischemia with bloody diarrhea and peritoneal signs if bowel infarcts
 - **Acute PVT in cirrhosis**: often discovered incidentally on surveillance imaging; may present with new or worsening [[portal-hypertension|portal hypertension]] ([[ascites]], [[variceal-upper-gi-bleeding|variceal bleeding]])
-- **Chronic PVT (cavernous transformation)**: portal hypertension with splenomegaly, varices, ascites; the thrombosed portal vein is replaced by a network of collateral vessels (cavernoma); biliopathy in ~80% (portal cholangiopathy — bile duct compression by cavernoma)
+- **Chronic PVT (cavernous transformation)**: [[portal-hypertension|portal hypertension]] with splenomegaly, varices, [[ascites]]; the thrombosed portal vein is replaced by a network of collateral vessels (cavernoma); biliopathy in ~80% (portal cholangiopathy — bile duct compression by cavernoma)
 - Incidentally found PVT: increasingly detected on abdominal CT for other indications
 
 **Diagnosis** [[acg-2020-hepatic-mesenteric-circulation]]:
@@ -25,7 +25,7 @@ Portal vein thrombosis (PVT) is the partial or complete occlusion of the portal 
 1. **Doppler ultrasound** — first-line; identifies thrombus, flow direction, cavernoma; sensitivity ~90% for main PVT (Strong, Very Low evidence)
 2. **Contrast-enhanced CT abdomen/pelvis (portal venous phase)** — best for extent, mesenteric involvement, bowel viability; required when MVT/bowel ischemia suspected
 3. **MRI/MRA** — alternative when CT contrast contraindicated; equivalent sensitivity
-4. **Upper endoscopy** — for variceal surveillance when portal hypertension is established
+4. **[[upper-endoscopy|Upper endoscopy]]** — for variceal surveillance when portal hypertension is established
 
 ### Severity Assessment
 
@@ -42,7 +42,7 @@ Portal vein thrombosis (PVT) is the partial or complete occlusion of the portal 
 |---|---|
 | **Noncirrhotic acute PVT** | New-onset thrombus without cirrhosis; thrombophilia or local cause; anticoagulation effective |
 | **Noncirrhotic chronic PVT** | Cavernous transformation; portal biliopathy; anticoagulation reserved for specific indications |
-| **Cirrhotic acute PVT** | Common (1–25% depending on stage); often incidental; may impair response to liver transplantation |
+| **Cirrhotic acute PVT** | Common (1–25% depending on stage); often incidental; may impair response to [[liver-transplantation|liver transplantation]] |
 | **Cirrhotic chronic PVT** | Cavernoma in cirrhosis; complicates TIPS/transplant planning |
 | **MVT** | SMA/SMV involvement; higher bowel ischemia risk; emergency when bowel infarction present |
 
@@ -50,10 +50,10 @@ Portal vein thrombosis (PVT) is the partial or complete occlusion of the portal 
 
 ## Differential Diagnosis
 
-- **Extrinsic portal vein compression** — pancreatic cancer, lymphadenopathy, [[cholangiocarcinoma]]; no intravenous thrombus on CT
-- **Budd-Chiari syndrome** — [[budd-chiari-syndrome]] — hepatic venous outflow obstruction; hepatomegaly, ascites, right upper quadrant pain; caudate lobe hypertrophy
+- **Extrinsic portal vein compression** — [[pancreatic-cancer|pancreatic cancer]], lymphadenopathy, [[cholangiocarcinoma]]; no intravenous thrombus on CT
+- **[[budd-chiari-syndrome|Budd-Chiari syndrome]]** — [[budd-chiari-syndrome]] — hepatic venous outflow obstruction; hepatomegaly, ascites, right upper quadrant pain; caudate lobe hypertrophy
 - **[[acute-mesenteric-ischemia|Acute mesenteric ischemia]]** — SMA occlusion (arterial embolism/thrombosis); small bowel ischemia; no portal vein thrombus
-- **Colon ischemia** — [[colon-ischemia]] — segmental colonic involvement; CT/colonoscopy distinguishes
+- **[[colon-ischemia|Colon ischemia]]** — [[colon-ischemia]] — segmental colonic involvement; CT/colonoscopy distinguishes
 - **Cirrhosis with portal hypertension alone** — no thrombus; variceal bleeding/ascites present; Doppler shows slow or reversed flow without thrombus
 
 ---

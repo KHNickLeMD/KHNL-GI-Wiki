@@ -11,11 +11,11 @@ sources: [sages-2024-poem]
 
 ## Indications
 
-- **Achalasia Type I and II:** equivalent outcomes to PD and LHM (ACG 2020 [[achalasia]])
+- **[[achalasia|Achalasia]] Type I and II:** equivalent outcomes to PD and LHM (ACG 2020 [[achalasia]])
 - **Achalasia Type III (spastic):** POEM preferred over LHM — tailored long myotomy achieves higher success rates (93% vs. 71%); myotomy can be extended onto the esophageal body for spastic segments
 - **EGJOO (EGJ outflow obstruction):** when symptomatic and confirmed on TBE or FLIP; clinical achalasia spectrum
-- **Diffuse esophageal spasm / hypercontractile esophagus:** selected cases with dysphagia-predominant symptoms — see [[distal-esophageal-spasm]], [[hypercontractile-esophagus]]
-- **G-POEM (gastric POEM):** pyloric myotomy for refractory gastroparesis — see [[gastroparesis]]
+- **Diffuse esophageal spasm / [[hypercontractile-esophagus|hypercontractile esophagus]]:** selected cases with dysphagia-predominant symptoms — see [[distal-esophageal-spasm]], [[hypercontractile-esophagus]]
+- **G-POEM (gastric POEM):** pyloric myotomy for refractory [[gastroparesis]] — see [[gastroparesis]]
 
 ## Key Technique Points
 
@@ -35,7 +35,7 @@ sources: [sages-2024-poem]
 | Achalasia Type III | ~93% (vs. 71% LHM) |
 | G-POEM (gastroparesis) | 88.2% symptom improvement; GE normalization 61.3% |
 
-**GERD after POEM (critical):** Pathologic GERD on pH monitoring in ~39% post-POEM vs. ~17% post-LHM ([[achalasia]]). All POEM patients require:
+**[[gerd|GERD]] after POEM (critical):** Pathologic GERD on pH monitoring in ~39% post-POEM vs. ~17% post-LHM ([[achalasia]]). All POEM patients require:
 
 - Lifelong PPI
 - Periodic EGD for Barrett's surveillance

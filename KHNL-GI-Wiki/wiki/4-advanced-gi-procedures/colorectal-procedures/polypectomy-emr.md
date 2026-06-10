@@ -93,7 +93,7 @@ sources: [usmstf-2020-endoscopic-removal, asge-2020-endoscopic-removal, usmstf-2
 ### Difficult Locations
 
 - **Right colon:** Higher perforation risk; prefer cold snare when feasible; CO2 insufflation mandatory; clip defects ≥20mm prophylactically
-- **Difficult positions (folds, flexures, ileocecal valve):** Consider cap-assisted colonoscopy, position change, water-jet assisted technique; partial resection plus avulsion acceptable if full snare not achievable
+- **Difficult positions (folds, flexures, ileocecal valve):** Consider cap-assisted [[colonoscopy]], position change, water-jet assisted technique; partial resection plus avulsion acceptable if full snare not achievable
 - **Rectal lesions:** ESD more often feasible given straight working channel; consider peri-anal approach for very distal lesions
 
 ---

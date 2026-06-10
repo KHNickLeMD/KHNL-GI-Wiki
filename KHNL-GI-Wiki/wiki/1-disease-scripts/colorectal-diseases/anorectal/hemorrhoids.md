@@ -42,8 +42,8 @@ The diagnosis of symptomatic internal hemorrhoids requires exclusion of other so
 | Condition | Key Features |
 |-----------|-------------|
 | [[rectal-prolapse|Rectal prolapse]] (full-thickness) | Circumferential folds (vs. radial folds of hemorrhoids); palpable thickness; can be confused with Grade IV hemorrhoids |
-| Anal fissure | Painful bright red bleeding; fissure visible at anoscopy; see [[anal-fissure]] |
-| Colorectal cancer | Change in bowel habits, weight loss, iron deficiency anemia; [[colonoscopy|colonoscopy]] required |
+| [[anal-fissure|Anal fissure]] | Painful bright red bleeding; fissure visible at anoscopy; see [[anal-fissure]] |
+| [[colorectal-cancer|Colorectal cancer]] | Change in bowel habits, weight loss, iron deficiency anemia; [[colonoscopy]] required |
 | [[inflammatory-bowel-disease|IBD]] (Crohn's proctitis) | Diarrhea, urgency; risk of complicating any anorectal procedure; [[crohns-disease]] |
 | Rectal polyp/cancer | Digital exam + sigmoidoscopy/colonoscopy |
 | Skin tags | Residual from prior thrombosed external hemorrhoids; painless; no treatment unless cosmetic concern |
@@ -53,7 +53,7 @@ The diagnosis of symptomatic internal hemorrhoids requires exclusion of other so
 ## Diagnostics
 
 - **Anoscopy** or proctoscopy: primary diagnostic tool for internal hemorrhoids — visualize grade, active bleeding, ulceration
-- **Colonoscopy** or flexible sigmoidoscopy: indicated if:
+- **[[colonoscopy|Colonoscopy]]** or flexible sigmoidoscopy: indicated if:
   - Age ≥45 with rectal bleeding not previously evaluated
   - Iron deficiency anemia
   - Change in bowel habits
@@ -84,7 +84,7 @@ The diagnosis of symptomatic internal hemorrhoids requires exclusion of other so
 | **Sclerotherapy** | Grade I–II | Alternative; similar to IRC | Injection of sclerosing agent; effective for bleeding Grade I–II; useful for patients on anticoagulation |
 | **Doppler-guided hemorrhoidal artery ligation (DGHAL)** | Grade III | Conditional/Very Low — similar outcomes to hemorrhoidectomy | Minimally invasive; no tissue excision; Doppler identifies feeding arteries; used in Europe more than US |
 
-**Avoid RBL in:** acute perianal Crohn's disease; immunocompromise (high sepsis risk); patients on full anticoagulation.
+**Avoid RBL in:** acute perianal [[crohns-disease|Crohn's disease]]; immunocompromise (high sepsis risk); patients on full anticoagulation.
 
 ### Thrombosed External Hemorrhoids
 

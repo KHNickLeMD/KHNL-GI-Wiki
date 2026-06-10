@@ -11,7 +11,7 @@ sources: [acg-2015-hereditary-gi-cancer, usmstf-2014-lynch-syndrome, usmstf-2017
 
 ### Establishing the Diagnosis
 
-Lynch syndrome (LS), formerly hereditary nonpolyposis colorectal cancer (HNPCC), is the most common hereditary [[colorectal-cancer]] syndrome. It is an autosomal-dominant condition caused by pathogenic germline variants in the DNA mismatch repair (MMR) genes: **MLH1**, **MSH2**, **MSH6**, **PMS2**, or the MSH2-inactivating **EPCAM** deletion.
+Lynch syndrome (LS), formerly hereditary nonpolyposis [[colorectal-cancer|colorectal cancer]] (HNPCC), is the most common hereditary [[colorectal-cancer]] syndrome. It is an autosomal-dominant condition caused by pathogenic germline variants in the DNA mismatch repair (MMR) genes: **MLH1**, **MSH2**, **MSH6**, **PMS2**, or the MSH2-inactivating **EPCAM** deletion.
 
 **Universal tumor screening** of all newly diagnosed CRCs is recommended [[acg-2015-hereditary-gi-cancer]] [[usmstf-2014-lynch-syndrome]]:
 
@@ -38,7 +38,7 @@ Risk stratification is **gene-specific** (cumulative CRC risks by age 70) [[acg-
 | PMS2 | ~20% | ~15% | 47–66 years |
 | Sporadic | 4.8% | 4.8% | 69 years |
 
-MSH6 and PMS2 carriers have later onset and lower penetrance than MLH1/MSH2 carriers. Consideration may be given to starting [[colonoscopy|colonoscopy]] at age 25–30 in MSH6/PMS2 carriers.
+MSH6 and PMS2 carriers have later onset and lower penetrance than MLH1/MSH2 carriers. Consideration may be given to starting [[colonoscopy]] at age 25–30 in MSH6/PMS2 carriers.
 
 ### Classification / Typing
 
@@ -56,10 +56,10 @@ LS is classified by the causative gene:
 
 - **Sporadic MMR-deficient CRC** — somatic MLH1 methylation with BRAF V600E; excluded by BRAF/methylation testing
 - **Lynch-like syndrome** — somatic biallelic MMR inactivation in tumor; no germline mutation found; managed similarly to LS
-- **[[bmmrd-syndrome]] (Constitutional mismatch repair deficiency / CMMRD)** — biallelic (homozygous or compound heterozygous) germline mutations in MLH1, MSH2, MSH6, or PMS2; autosomal recessive (both parents are obligate LS carriers); CRC onset median age 16, brain tumors (70% penetrance, median age 9), and lymphoma/leukemia in childhood; café-au-lait macules mimicking NF1; IHC shows MMR protein loss in normal AND tumor tissue (unlike LS); PMS2 biallelic mutations are the most common cause; surveillance starts in the first decade of life with annual colonoscopy from age 6 and brain MRI q6 months from age 2 [[usmstf-2017-bmmrd]]
+- **[[bmmrd-syndrome]] (Constitutional mismatch repair deficiency / CMMRD)** — biallelic (homozygous or compound heterozygous) germline mutations in MLH1, MSH2, MSH6, or PMS2; autosomal recessive (both parents are obligate LS carriers); CRC onset median age 16, brain tumors (70% penetrance, median age 9), and lymphoma/leukemia in childhood; café-au-lait macules mimicking NF1; IHC shows MMR protein loss in normal AND tumor tissue (unlike LS); PMS2 biallelic mutations are the most common cause; surveillance starts in the first decade of life with annual [[colonoscopy]] from age 6 and brain MRI q6 months from age 2 [[usmstf-2017-bmmrd]]
 - [[familial-adenomatous-polyposis]] — fewer polyps in LS; FAP excluded per Amsterdam criteria
 - [[mutyh-associated-polyposis]] — recessive; phenotypically overlaps with AFAP
-- **Serrated polyposis syndrome** — sporadic MMR loss possible; see [[serrated-polyposis-syndrome]]
+- **[[serrated-polyposis-syndrome|Serrated polyposis syndrome]]** — sporadic MMR loss possible; see [[serrated-polyposis-syndrome]]
 
 ---
 
@@ -133,7 +133,7 @@ LS is classified by the causative gene:
 - NCCN recommends consideration of annual **urinalysis**; no proven screening benefit established
 - Screening beyond population recommendations for urinary tract, pancreas, prostate, and breast is not recommended unless there is a specific FH (Conditional/Low)
 
-**Pancreatic cancer** [[acg-2015-hereditary-gi-cancer]]:
+**[[pancreatic-cancer|Pancreatic cancer]]** [[acg-2015-hereditary-gi-cancer]]:
 
 - 9–11-fold relative risk in LS (standardized incidence ratio ~10.7; cumulative risk ~3.7% by age 70)
 - Consider pancreatic surveillance (MRI ± [[endoscopic-ultrasound|EUS]] from age 50) if a first-degree relative has pancreatic cancer; must weigh risk:benefit carefully
@@ -156,7 +156,7 @@ LS is classified by the causative gene:
 **Lifestyle factors**:
 
 - Smoking increases colorectal adenoma risk (HR 6.1 vs. non-smokers) in LS
-- Obesity (BMI >25 kg/m²) associated with elevated adenoma risk in men with LS
+- [[obesity|Obesity]] (BMI >25 kg/m²) associated with elevated adenoma risk in men with LS
 
 ### Advanced/Metastatic Disease
 

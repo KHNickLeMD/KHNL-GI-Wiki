@@ -9,7 +9,7 @@ sources: [acg-2016-acute-diarrhea]
 
 *Stub — to be expanded.*
 
-Most common cause of severe dehydrating diarrhea in infants and young children globally. Adults may experience mild illness. Self-limited in immunocompetent individuals; community-acquired acute diarrhea is predominantly viral and antibiotics provide no benefit. [[acg-2016-acute-diarrhea]]
+Most common cause of severe dehydrating diarrhea in infants and young children globally. Adults may experience mild illness. Self-limited in immunocompetent individuals; community-acquired [[acute-diarrhea|acute diarrhea]] is predominantly viral and antibiotics provide no benefit. [[acg-2016-acute-diarrhea]]
 
 See [[acute-diarrhea]] for diagnostic algorithm and management.
 

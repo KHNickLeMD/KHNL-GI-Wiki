@@ -64,13 +64,13 @@ CT/MRI first-line; EUS only if cross-sectional imaging non-diagnostic and suspic
 
 ### Classification — TIGAR-O v2.0 risk/etiology checklist
 
-**T**oxic-metabolic · **I**diopathic · **G**enetic · **A**utoimmune · **R**ecurrent acute pancreatitis · **O**bstructive
+**T**oxic-metabolic · **I**diopathic · **G**enetic · **A**utoimmune · **R**ecurrent [[acute-pancreatitis|acute pancreatitis]] · **O**bstructive
 
 Key categories:
 
 - **Toxic-metabolic:** alcohol (3–4/d; ≥5/d), smoking (pack-years), hypercalcemia (iCa >12 mg/dL), hypertriglyceridemia (fasting >300 / nonfasting >500), medications
 - **Idiopathic:** early-onset (<35 yr) vs. late-onset (>35 yr)
-- **Genetic:** PRSS1 (AD, hereditary pancreatitis), SPINK1 (AR, severe), CFTR (cystic fibrosis or CFTR-RD), CTRC, CASR, CLDN2 (alcohol accelerator), CPA1, CEL (MODY-8)
+- **Genetic:** PRSS1 (AD, [[hereditary-pancreatitis|hereditary pancreatitis]]), SPINK1 (AR, severe), CFTR (cystic fibrosis or CFTR-RD), CTRC, CASR, CLDN2 (alcohol accelerator), CPA1, CEL (MODY-8)
 - **Autoimmune:** AIP type 1 (IgG4-related) / type 2 (IBD-associated)
 - **RAP and SAP:** biliary, post-ERCP, traumatic, undetermined
 - **Obstructive:** pancreas divisum, ampullary stenosis, main-duct stones, calcifications, strictures, mass
@@ -98,7 +98,7 @@ Disease-modifying:
 - [[acute-pancreatitis]] — acute flares; RAP is precursor in 30% (overall ~60% of CP evolves from AP/RAP)
 - **Pancreatic adenocarcinoma** — new stricture/mass; consider in any new-onset CP, especially older, new diabetes + weight loss
 - **Autoimmune pancreatitis (AIP)** — type 1 (IgG4-related; sausage pancreas, IgG4↑, steroid-responsive) vs. type 2 (IBD-associated, granulocytic epithelial lesions, younger)
-- [[biliary-stricture]] — CP = most common benign cause of extrahepatic biliary stricture
+- [[biliary-stricture]] — CP = most common benign cause of extrahepatic [[biliary-stricture|biliary stricture]]
 - **Pancreas divisum / ampullary stenosis** — consider in idiopathic CP
 - **IPMN / [[pancreatic-cysts|pancreatic cysts]]** — duct dilation can mimic CP
 - Long-standing diabetes with secondary pancreatic changes
@@ -184,7 +184,7 @@ Experimental (research only): spinal cord stim, transmagnetic stim, radiation (K
 
 ### Surveillance
 
-- **No routine pancreatic cancer screening** in CP (Key Concept 5) — insufficient evidence except possibly hereditary pancreatitis at expert centers
+- **No routine [[pancreatic-cancer-screening|pancreatic cancer screening]]** in CP (Key Concept 5) — insufficient evidence except possibly hereditary pancreatitis at expert centers
 - Periodic EPI/nutrition assessment (annual or symptom-driven)
 - DEXA at baseline and periodically
 

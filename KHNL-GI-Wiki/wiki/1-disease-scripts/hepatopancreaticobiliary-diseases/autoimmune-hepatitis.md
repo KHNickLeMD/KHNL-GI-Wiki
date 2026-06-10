@@ -64,7 +64,7 @@ AIH is an immune-mediated hepatitis characterized by elevated aminotransferases,
 
 ### Severity Assessment
 
-**Acute severe AIH:** Jaundice + INR 1.5–<2.0 + no hepatic encephalopathy [[aasld-2020-autoimmune-hepatitis]]
+**Acute severe AIH:** [[jaundice|Jaundice]] + INR 1.5–<2.0 + no [[hepatic-encephalopathy|hepatic encephalopathy]] [[aasld-2020-autoimmune-hepatitis]]
 
 **AIH-related ALF:** INR ≥2.0 + [[hepatic-encephalopathy|hepatic encephalopathy]] (any grade) — evaluate directly for [[liver-transplantation|liver transplantation]]; see [[acute-liver-failure]]
 
@@ -116,11 +116,11 @@ AIH is an immune-mediated hepatitis characterized by elevated aminotransferases,
 - **HBsAg and anti-HBc total** — prophylactic antiviral (entecavir or tenofovir) required if HBsAg positive before initiating immunosuppression
 - **DEXA scan** — baseline; repeat q2–3 years on glucocorticoids; [[aasld-2020-autoimmune-hepatitis]]
 - **Vaccinations** (HAV, HBV, influenza, pneumococcal, Tdap, COVID-19) — before immunosuppression initiation
-- Extrahepatic autoimmune disease screening: thyroid disease, RA, IBD, Sjogren's, ANCA-vasculitis, celiac disease
+- Extrahepatic autoimmune disease screening: thyroid disease, RA, IBD, Sjogren's, ANCA-vasculitis, [[celiac-disease|celiac disease]]
 
 ### Imaging
 
-- Liver ultrasound — assess for hepatomegaly, splenomegaly, signs of portal hypertension, HCC surveillance in cirrhosis
+- Liver ultrasound — assess for hepatomegaly, splenomegaly, signs of [[portal-hypertension|portal hypertension]], [[hcc-surveillance|HCC surveillance]] in cirrhosis
 - Elastography (VCTE/FibroScan or MRE) — fibrosis staging if biopsy not performed
 - MRCP — if overlap with PSC suspected (elevated ALP, concomitant IBD)
 
@@ -174,7 +174,7 @@ MMF is preferred over TAC as initial second-line due to superior ease of use and
 **Acute severe AIH (INR 1.5–<2.0, no HE):** [[aasld-2020-autoimmune-hepatitis]]
 
 - Initiate prednisone trial (40–60 mg/day)
-- Reassess at 1–2 weeks: if no biochemical improvement → evaluate for liver transplantation
+- Reassess at 1–2 weeks: if no biochemical improvement → evaluate for [[liver-transplantation|liver transplantation]]
 - Do NOT use budesonide
 
 **AIH-related ALF (INR ≥2.0 + hepatic encephalopathy):**
@@ -188,7 +188,7 @@ MMF is preferred over TAC as initial second-line due to superior ease of use and
 **Criteria for withdrawal attempt:** [[aasld-2020-autoimmune-hepatitis]]
 
 - Sustained biochemical remission: normal AST, ALT, AND IgG for ≥2 years on IS
-- Liver biopsy preferred (not mandatory in adults) to confirm histologic remission (no interface hepatitis)
+- [[liver-biopsy|Liver biopsy]] preferred (not mandatory in adults) to confirm histologic remission (no interface hepatitis)
 - Gradual dose tapering with close monitoring (transaminases, IgG every 3 months during taper)
 
 **Relapse rates post-withdrawal:**
@@ -218,7 +218,7 @@ Treatment: prednisone + AZA + UDCA (13–15 mg/kg/day); see [[primary-biliary-ch
 
 - Typical AIH features + large-duct PSC on cholangiogram (MRCP/ERCP)
 - Consider when AIH diagnosis established but patient has concomitant IBD (especially UC) or ALP disproportionately elevated
-- Prognosis driven by PSC component (colitis-associated neoplasia, cholangiocarcinoma risk)
+- Prognosis driven by PSC component (colitis-associated neoplasia, [[cholangiocarcinoma]] risk)
 - See [[primary-sclerosing-cholangitis]]
 
 ### AIH in Pregnancy

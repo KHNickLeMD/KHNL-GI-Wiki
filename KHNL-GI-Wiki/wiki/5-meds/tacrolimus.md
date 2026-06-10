@@ -9,7 +9,7 @@ sources: [aasld-2012-liver-transplant-long-term, aasld-ast-2025-liver-transplant
 
 ## Overview
 
-Tacrolimus (FK506) is a macrolide calcineurin inhibitor and the primary maintenance immunosuppressive agent in liver transplantation. It inhibits calcineurin, blocking IL-2 production and T-lymphocyte proliferation. It is preferred over cyclosporine based on superior rejection prevention outcomes in randomized trials. See [[calcineurin-inhibitors]] for drug-class overview and [[liver-transplantation]] for full post-transplant management context.
+Tacrolimus (FK506) is a macrolide calcineurin inhibitor and the primary maintenance immunosuppressive agent in [[liver-transplantation|liver transplantation]]. It inhibits calcineurin, blocking IL-2 production and T-lymphocyte proliferation. It is preferred over cyclosporine based on superior rejection prevention outcomes in randomized trials. See [[calcineurin-inhibitors]] for drug-class overview and [[liver-transplantation]] for full post-transplant management context.
 
 ## Dosing and Trough Targets
 

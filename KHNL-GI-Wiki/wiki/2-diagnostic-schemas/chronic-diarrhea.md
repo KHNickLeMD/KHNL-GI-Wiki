@@ -24,7 +24,7 @@ sources: []
 
 ## Definition / Scope
 
-Chronic diarrhea is decreased stool consistency (loose or watery) lasting **> 4 weeks**. This duration threshold distinguishes it from [[acute-diarrhea]] (<14 days) and persistent diarrhea (14–30 days), and shifts the differential away from infection toward non-infectious causes. Diarrhea is defined by **stool consistency** (Bristol 6–7), not frequency alone; it must be distinguished from **pseudodiarrhea** (frequent small volumes with urgency, as in proctitis or [[irritable-bowel-syndrome|IBS]]) and **fecal incontinence**.
+Chronic diarrhea is decreased stool consistency (loose or watery) lasting **> 4 weeks**. This duration threshold distinguishes it from [[acute-diarrhea]] (<14 days) and persistent diarrhea (14–30 days), and shifts the differential away from infection toward non-infectious causes. Diarrhea is defined by **stool consistency** (Bristol 6–7), not frequency alone; it must be distinguished from **pseudodiarrhea** (frequent small volumes with urgency, as in proctitis or [[irritable-bowel-syndrome|IBS]]) and **[[fecal-incontinence|fecal incontinence]]**.
 
 The most useful framework is to classify by **stool character** into watery, inflammatory, and fatty, which maps onto the underlying mechanism and the workup.
 
@@ -48,8 +48,8 @@ The most useful framework is to classify by **stool character** into watery, inf
 
 ### Watery — Secretory
 
-- **Microscopic colitis** ([[microscopic-colitis]]) — collagenous and lymphocytic; older women; normal-appearing colonoscopy requiring random biopsies; NSAID/PPI/SSRI association
-- **Bile acid diarrhea** ([[bile-acid-diarrhea]]) — post-cholecystectomy, ileal disease/resection ([[crohns-disease]]), or idiopathic (overlaps IBS-D)
+- **[[microscopic-colitis|Microscopic colitis]]** ([[microscopic-colitis]]) — collagenous and lymphocytic; older women; normal-appearing [[colonoscopy]] requiring random biopsies; NSAID/PPI/SSRI association
+- **[[bile-acid-diarrhea|Bile acid diarrhea]]** ([[bile-acid-diarrhea]]) — post-cholecystectomy, ileal disease/resection ([[crohns-disease]]), or idiopathic (overlaps IBS-D)
 - **[[irritable-bowel-syndrome|IBS-D]]** — a positive Rome IV/V diagnosis, not pure exclusion; most common overall
 - Endocrine — hyperthyroidism, **carcinoid syndrome**, VIPoma, gastrinoma ([[peptic-ulcer-disease|Zollinger-Ellison]]), Addison's disease, medullary thyroid carcinoma
 - Drugs/toxins — chronic laxative use, metformin, colchicine, SSRIs, alcohol, PPIs
@@ -64,7 +64,7 @@ The most useful framework is to classify by **stool character** into watery, inf
 
 ### Inflammatory
 
-- **Inflammatory bowel disease** — [[crohns-disease]], [[ulcerative-colitis]] (bloody, urgency, nocturnal, systemic features)
+- **[[inflammatory-bowel-disease|Inflammatory bowel disease]]** — [[crohns-disease]], [[ulcerative-colitis]] (bloody, urgency, nocturnal, systemic features)
 - **Microscopic colitis** ([[microscopic-colitis]]) — watery, *non-bloody*, but histologically inflammatory
 - Chronic infections — [[clostridioides-difficile|C. difficile]], [[giardiasis|Giardia]], [[cryptosporidiosis|Cryptosporidium]], [[entamoeba-histolytica-infection|Entamoeba]], CMV (immunocompromised)
 - Ischemic colitis ([[colon-ischemia]]); radiation enteritis/colitis
@@ -73,7 +73,7 @@ The most useful framework is to classify by **stool character** into watery, inf
 ### Fatty (Malabsorptive / Steatorrhea)
 
 - **[[celiac-disease]]** — small-bowel villous atrophy; screen with anti-tTG IgA
-- **Exocrine pancreatic insufficiency** — [[chronic-pancreatitis]], pancreatic cancer; low fecal elastase
+- **Exocrine pancreatic insufficiency** — [[chronic-pancreatitis]], [[pancreatic-cancer|pancreatic cancer]]; low fecal elastase
 - **[[small-intestinal-bacterial-overgrowth|SIBO]]**, Whipple's disease, tropical sprue
 - Short bowel syndrome, mesenteric ischemia, bile acid deficiency (cholestasis)
 
@@ -130,7 +130,7 @@ Prompt structural evaluation (colonoscopy ± cross-sectional imaging) and lower 
 - **Iron deficiency anemia**
 - **Nocturnal diarrhea** (organic, not functional)
 - **Onset after age 50** (or new change in bowel habits)
-- **Family history of IBD, celiac disease, or [[colorectal-cancer|colorectal cancer]]**
+- **Family history of IBD, [[celiac-disease|celiac disease]], or [[colorectal-cancer|colorectal cancer]]**
 - **Recent antibiotics or hospitalization** ([[clostridioides-difficile|C. difficile]])
 - **Severe dehydration or large-volume secretory diarrhea** (consider neuroendocrine tumor)
 - **Immunocompromise** (broaden infectious differential)

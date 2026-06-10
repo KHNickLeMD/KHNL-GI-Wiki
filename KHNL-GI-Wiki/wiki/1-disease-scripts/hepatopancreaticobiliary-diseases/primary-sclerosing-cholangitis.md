@@ -34,9 +34,9 @@ PSC is a chronic, cholestatic liver disease likely of autoimmune origin characte
 
 1. Suspected PSC → 3D MRI/MRCP (T1w + T2w axial + contrast enhancement; 1.5-Tesla minimum; 1-mm slices)
 2. Biliary strictures on MRCP + exclusion of secondary causes → **PSC confirmed**
-3. Equivocal MRCP → experienced center; repeat high-quality 3D MRCP or liver biopsy; repeat in 1 year if still unclear
+3. Equivocal MRCP → experienced center; repeat high-quality 3D MRCP or [[liver-biopsy|liver biopsy]]; repeat in 1 year if still unclear
 4. Normal MRCP → liver biopsy (to exclude small-duct PSC)
-5. ERCP should be avoided for diagnosis ([[aasld-2022-psc]] GS 3)
+5. [[ercp|ERCP]] should be avoided for diagnosis ([[aasld-2022-psc]] GS 3)
 
 **Key caveat:** A normal MRCP does not exclude PSC — 30% false-negative rate even with high pretest probability ([[aasld-2022-psc]]).
 
@@ -59,7 +59,7 @@ PSC is a chronic, cholestatic liver disease likely of autoimmune origin characte
   - LS worsening by >0.34 kPa/year = highest risk of hepatic decompensation
 - ELF (Enhanced Liver Fibrosis) test: strongly associated with transplant-free survival; useful surrogate in trials
 - Liver biopsy: **NOT recommended for fibrosis staging** in clinical practice — high sampling variability ([[aasld-2022-psc]] GS 10)
-- MELD: drives transplant priority; decompensation = ascites, variceal bleed, hepatic encephalopathy, recurrent cholangitis
+- MELD: drives transplant priority; decompensation = [[ascites]], variceal bleed, [[hepatic-encephalopathy|hepatic encephalopathy]], recurrent cholangitis
 
 ### Classification / Typing
 
@@ -79,9 +79,9 @@ PSC is a chronic, cholestatic liver disease likely of autoimmune origin characte
 - **Secondary sclerosing cholangitis** — HIV-related, recurrent pyogenic cholangitis, ischemic (critically ill patients/HHT/intra-arterial chemotherapy/hepatic artery thrombosis), parasitic, eosinophilic, IgG4-associated, post-surgical, cystic fibrosis, portal hypertensive biliopathy
 - **[[cholangiocarcinoma]]** — must be considered in any PSC patient with new dominant/relevant stricture; 160–400× higher risk than general population
 - **IgG4-sclerosing cholangitis** — steroid-responsive; exclude with serum IgG4 (measure in all PSC patients)
-- **Primary biliary cholangitis** (PBC) — AMA+, female predominance, intrahepatic small-duct; test AMA to exclude
+- **[[primary-biliary-cholangitis|Primary biliary cholangitis]]** (PBC) — AMA+, female predominance, intrahepatic small-duct; test AMA to exclude
 - **[[autoimmune-hepatitis]]** — when ALT predominant or >5× ULN; consider overlap syndrome
-- Choledocholithiasis, cystic fibrosis liver disease, choledochal cysts, drug-induced (checkpoint inhibitors: pembrolizumab, nivolumab, atezolizumab)
+- [[choledocholithiasis|Choledocholithiasis]], cystic fibrosis liver disease, choledochal cysts, drug-induced (checkpoint inhibitors: pembrolizumab, nivolumab, atezolizumab)
 
 ---
 
@@ -96,12 +96,12 @@ PSC is a chronic, cholestatic liver disease likely of autoimmune origin characte
 | **Serum IgG4** | Measure in all patients with possible PSC (GS 4) | IgG4 >5.6 g/L = IgG4-SC likely; IgG4/IgG1 <0.24 can exclude IgG4-SC |
 | **AMA** | Test to exclude PBC | Negative in PSC |
 | **CA 19-9 + MRI/MRCP** | Annual CCA surveillance (GS 18) | CA 19-9 alone must NOT diagnose CCA (GS 32); FUT2/FUT3 genotype affects CA 19-9 sensitivity; up to 10% of population does not express CA 19-9 |
-| **FISH (fluorescence in situ hybridization)** | Performed routinely during ERCP for relevant strictures (GS 19) | Pancreaticobiliary probe set: 93% sensitivity/100% specificity for malignancy; polysomy = ≥5 cells with gains in ≥2 probes; serial polysomy in dominant stricture = probable CCA |
+| **[[fish|FISH (fluorescence in situ hybridization)]]** | Performed routinely during ERCP for relevant strictures (GS 19) | Pancreaticobiliary probe set: 93% sensitivity/100% specificity for malignancy; polysomy = ≥5 cells with gains in ≥2 probes; serial polysomy in dominant stricture = probable CCA |
 | **Intraductal brushings/biopsy** | Cytology + FISH during ERCP for relevant strictures | Positive cytology/biopsy = CCA; FISH polysomy + CA 19-9 ≥129 U/ml = high likelihood of CCA without mass |
-| **[[colonoscopy|Colonoscopy]] with biopsies** | At PSC diagnosis if no prior IBD (GS 6); HD surveillance q1–2y from age 15 in PSC-IBD (GS 22) | 5-year intervals if no IBD found; chromoendoscopy when only standard-definition colonoscopy available |
+| **[[colonoscopy|Colonoscopy]] with biopsies** | At PSC diagnosis if no prior IBD (GS 6); HD surveillance q1–2y from age 15 in PSC-IBD (GS 22) | 5-year intervals if no IBD found; chromoendoscopy when only standard-definition [[colonoscopy]] available |
 | **DEXA** | At diagnosis; every 2–3 years (GS 29) | Osteopenia in 4–10%; bone disease associated with nontraumatic fractures |
 | **Vitamins A, D, E, K** | At diagnosis and yearly thereafter (GS 28) | Deficiencies: 40%/14%/2% for vitamins A/D/E in early PSC; 82%/57%/43% in advanced disease; supplement per Table 4 |
-| **Upper endoscopy** | Screen for varices if LS >20 kPa by TE OR platelets ≤150,000/mm³ (GS 17) | Baveno-VI criteria: if LS ≤20 kPa AND platelets >150,000/mm³ → safe to defer EGD |
+| **[[upper-endoscopy|Upper endoscopy]]** | Screen for varices if LS >20 kPa by TE OR platelets ≤150,000/mm³ (GS 17) | Baveno-VI criteria: if LS ≤20 kPa AND platelets >150,000/mm³ → safe to defer EGD |
 | **ELF test** | Serum fibrosis biomarker; useful as surrogate in clinical trials | Not widely available commercially; less variability on serial measurements than ALP |
 
 **Stricture Terminology** ([[aasld-2022-psc]]):
@@ -136,7 +136,7 @@ PSC is a chronic, cholestatic liver disease likely of autoimmune origin characte
 - PSC-AIH overlap → treat per AASLD AIH guidelines (prednisone + AZA or budesonide + AZA) (GS 14)
 - IgG4-SC → corticosteroids (steroid-responsive; unlike classical PSC)
 
-**Portal hypertension/cirrhosis management:**
+**[[portal-hypertension|Portal hypertension]]/cirrhosis management:**
 
 - Same approach as other chronic liver diseases with the exceptions below
 - Baveno-VI criteria for varix screening: LS ≤20 kPa AND platelets >150,000/mm³ → may avoid EGD (0% false-negative for varices needing treatment; 30% of EGDs could be avoided) (GS 17)
@@ -159,7 +159,7 @@ PSC is a chronic, cholestatic liver disease likely of autoimmune origin characte
 
 **Stepwise approach (GS 26):**
 
-1. Rule out relevant biliary stricture with MRI/MRCP → ERCP management if detected
+1. Rule out relevant [[biliary-stricture|biliary stricture]] with MRI/MRCP → ERCP management if detected
 2. Conservative: heat avoidance, emollients, antihistamines
 3. First-line: **cholestyramine 4–16 g/day** (20 min before meals for optimal absorption)
 4. Second-line: **sertraline 100 mg/day**, **naltrexone titrated to 50–100 mg/day**, **rifampin 150–300 mg twice daily** (monitor for hepatotoxicity, hemolytic anemia, renal failure, thrombocytopenic purpura)
@@ -222,7 +222,7 @@ Serial polysomy in dominant/relevant stricture + serial polysomy = probable CCA.
 - Gallbladder polyps ≤8 mm → US every 6 months
 - Gallbladder polyps >8 mm → cholecystectomy (preferably at experienced center in advanced disease); 18–56% adenocarcinoma rate in cholecystectomy specimens with PSC + polyp/mass
 
-**HCC surveillance (GS 21):**
+**[[hcc-surveillance|HCC surveillance]] (GS 21):**
 
 - PSC + cirrhosis → [[hcc-surveillance|HCC surveillance]] per AASLD guidelines (same as other causes of cirrhosis)
 - HCC is rare in PSC without cirrhosis (2.4% over ~10 years in one large study)
@@ -248,7 +248,7 @@ Serial polysomy in dominant/relevant stricture + serial polysomy = probable CCA.
 **MELD exception criteria for PSC:**
 
 - **Recurrent bacterial cholangitis:** ≥2 hospital admissions in a 1-year period for acute cholangitis with documented bloodstream infection OR ≥1 episode of sepsis with hemodynamic instability requiring vasopressors
-- **CCA (perihilar) by protocol:** Qualifying criteria = (1) malignant-appearing stricture + CA 19-9 >100 U/ml without cholangitis or unstented jaundice, OR (2) malignant-appearing stricture + suspicious cytology and/or FISH polysomy, OR (3) perihilar mass with imaging features of CCA; must be ≤3 cm radial diameter, unresectable or arising in PSC, no intrahepatic/extrahepatic metastasis; MELD ≥20 for exception points; pretransplant percutaneous biopsy/EUS-FNA of primary mass is contraindication to LT
+- **CCA (perihilar) by protocol:** Qualifying criteria = (1) malignant-appearing stricture + CA 19-9 >100 U/ml without cholangitis or unstented [[jaundice]], OR (2) malignant-appearing stricture + suspicious cytology and/or FISH polysomy, OR (3) perihilar mass with imaging features of CCA; must be ≤3 cm radial diameter, unresectable or arising in PSC, no intrahepatic/extrahepatic metastasis; MELD ≥20 for exception points; pretransplant percutaneous biopsy/EUS-FNA of primary mass is contraindication to LT
 - Living donor LT is an option; does not increase rPSC risk
 
 **LT outcomes:**

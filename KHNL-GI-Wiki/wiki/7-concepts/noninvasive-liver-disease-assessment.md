@@ -29,7 +29,7 @@ Most blood/imaging NITs have **high negative predictive value (rule-out)** but *
 
 ## Uses & cross-links
 
-- Fibrosis staging & at-risk MASH identification in [[nafld-masld]]; pharmacotherapy candidacy ([[semaglutide]], resmetirom) uses F2–F3 NIT windows.
+- Fibrosis staging & at-risk MASH identification in [[nafld-masld]]; pharmacotherapy candidacy ([[semaglutide]], [[resmetirom]]) uses F2–F3 NIT windows.
 - Noninvasive CSPH staging in cirrhosis (LSM + platelets, "Rule of Five") — see [[portal-hypertension]].
 - Fibrosis staging also applies in [[primary-sclerosing-cholangitis]], [[primary-biliary-cholangitis]], and [[hereditary-hemochromatosis]].
 

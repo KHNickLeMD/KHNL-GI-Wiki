@@ -28,7 +28,7 @@ Nutrition support in the hospitalized patient encompasses the assessment of nutr
 **Caloric needs:**
 
 - **Indirect calorimetry** is the gold standard (measures VO₂ and VCO₂ to calculate resting energy expenditure)
-- When unavailable: use weight-based equations (25–30 kcal/kg/day for most; adjust for obesity and critical illness phase)
+- When unavailable: use weight-based equations (25–30 kcal/kg/day for most; adjust for [[obesity]] and critical illness phase)
 - **Protein**: 1.2–2.0 g/kg/day for most critically ill; up to 2.5 g/kg IBW/day in burns/trauma/open abdomen
 
 ---
@@ -116,7 +116,7 @@ Immune-modulating formulas (arginine, glutamine, omega-3 fatty acids) are NOT re
 
 ## Nutrition in Specific Situations
 
-**Acute pancreatitis**: see [[acute-pancreatitis]] — EN preferred over PN; nasojejunal route when gastric intolerance
+**[[acute-pancreatitis|Acute pancreatitis]]**: see [[acute-pancreatitis]] — EN preferred over PN; nasojejunal route when gastric intolerance
 
 **Liver disease**: see [[nutrition-in-liver-disease]] — protein restriction is NOT recommended; protein goals similar to other ICU patients
 

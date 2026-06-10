@@ -12,7 +12,7 @@ sources: [acg-2016-acute-diarrhea]
 Acute diarrhea is defined as an increase in stool frequency or looseness above the individual's baseline, lasting **<14 days**. A commonly used operational definition is passage of **≥3 unformed stools in 24 hours** plus at least one enteric symptom (nausea, vomiting, abdominal pain/cramps, tenesmus, fecal urgency, or moderate-to-severe flatulence). [[acg-2016-acute-diarrhea]]
 
 - **Persistent diarrhea:** 14–30 days
-- **Chronic diarrhea:** >30 days
+- **[[chronic-diarrhea|Chronic diarrhea]]:** >30 days
 
 ### Severity Classification (ACG 2016)
 
@@ -63,10 +63,10 @@ Acute diarrhea is defined as an increase in stool frequency or looseness above t
 ### Non-infectious Mimics
 
 - [[clostridioides-difficile]] — postantibiotic; healthcare-associated; always test if recent antibiotics (covered by separate ACG guideline [[acg-2021-cdiff]])
-- [[irritable-bowel-syndrome]] — particularly postinfectious IBS ([[postinfectious-ibs]]) — onset after acute gastroenteritis; Rome IV/V criteria
-- Inflammatory bowel disease ([[crohns-disease]], [[ulcerative-colitis]]) — flare or new diagnosis
-- Microscopic colitis — watery, non-bloody; older women; NSAIDs/PPIs/SSRIs
-- Celiac disease ([[celiac-disease]]) — malabsorptive; persistent
+- [[irritable-bowel-syndrome]] — particularly [[postinfectious-ibs|postinfectious IBS]] ([[postinfectious-ibs]]) — onset after acute gastroenteritis; Rome IV/V criteria
+- [[inflammatory-bowel-disease|Inflammatory bowel disease]] ([[crohns-disease]], [[ulcerative-colitis]]) — flare or new diagnosis
+- [[microscopic-colitis|Microscopic colitis]] — watery, non-bloody; older women; NSAIDs/PPIs/SSRIs
+- [[celiac-disease|Celiac disease]] ([[celiac-disease]]) — malabsorptive; persistent
 - Medication-induced diarrhea (antibiotics, metformin, colchicine)
 - Ischemic colitis — sudden onset bloody diarrhea; elderly with vascular disease
 
@@ -124,7 +124,7 @@ All patients: hydrate with fluids and salt (water, juices, sports drinks, soups,
 - Treat with antimicrobial agent directed to identified cause.
 - Serological and clinical lab testing not routinely recommended (Recommendation 11, Strong/VLow).
 - Endoscopic evaluation not recommended if stool workup is negative (Recommendation 12, Strong/VLow).
-- Consider colonoscopy if: weight loss, blood in stool despite negative workup, suspicion for IBD or microscopic colitis (diagnostic yield 7–32% in persistent/chronic diarrhea).
+- Consider [[colonoscopy]] if: weight loss, blood in stool despite negative workup, suspicion for IBD or microscopic colitis (diagnostic yield 7–32% in persistent/chronic diarrhea).
 - Differential at 14–30 days: celiac disease, [[crohns-disease]], eosinophilic gastroenteritis, Whipple's disease, [[irritable-bowel-syndrome]] (postinfectious).
 
 ---
@@ -169,7 +169,7 @@ Antibiotic sensitivity testing is NOT recommended routinely for individual patie
 #### Endoscopy
 
 - Role in **persistent diarrhea** (>14–30 days) when stool workup negative; not for acute phase unless specific clinical indication.
-- Lower endoscopy (colonoscopy or sigmoidoscopy) preferred over upper endoscopy for most persistent diarrhea workup.
+- Lower endoscopy (colonoscopy or sigmoidoscopy) preferred over [[upper-endoscopy|upper endoscopy]] for most persistent diarrhea workup.
 - Mucosal biopsies recommended even when endoscopic appearance is normal (to detect microscopic colitis, eosinophilic gastroenteritis).
 
 ---
@@ -216,7 +216,7 @@ Antibiotic sensitivity testing is NOT recommended routinely for individual patie
 | Ciprofloxacin | 750 mg PO OR 500 mg PO | Single dose OR 3-day course | — |
 | Ofloxacin | 400 mg PO | Single dose or 3-day course | — |
 | **Azithromycin** | 1,000 mg PO OR 500 mg PO | Single dose OR 3-day course | **First-line in SE Asia/India**; preferred for dysentery/febrile diarrhea; active vs. FQ-resistant *Campylobacter* |
-| Rifaximin | 200 mg PO TID | 3 days | Non-absorbable; NOT for invasive pathogens (*Campylobacter*, *Salmonella*, *Shigella*) |
+| [[rifaximin|Rifaximin]] | 200 mg PO TID | 3 days | Non-absorbable; NOT for invasive pathogens (*Campylobacter*, *Salmonella*, *Shigella*) |
 
 - Single-dose therapy as effective as 3-day for noninvasive TD pathogens; if not resolved in 24 h, complete 3-day course.
 - Combination loperamide + antibiotic superior to antibiotic alone for TD.

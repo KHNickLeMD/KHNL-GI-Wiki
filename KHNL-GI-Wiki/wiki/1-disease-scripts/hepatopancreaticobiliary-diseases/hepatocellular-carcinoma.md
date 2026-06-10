@@ -42,7 +42,7 @@ sources: ["[[aasld-2023-hcc]]", "[[aasld-2025-hcc-critical-update]]", "[[aasld-a
 
 HCC is the most common primary liver cancer (75–86% of all primary liver cancers); 6th most common cancer worldwide; 3rd leading cause of cancer-related death. Arises predominantly in the setting of cirrhosis (~80% of HCC) or chronic HBV infection. Annual HCC incidence in Child-Pugh A–B cirrhosis: ~2% per year. [[aasld-2023-hcc]]
 
-**Risk factors:** [[chronic-hepatitis-b|HBV]] (especially without vaccination/antiviral treatment), [[hepatitis-c|HCV]] (even post-SVR with cirrhosis), [[alcohol-associated-liver-disease|alcohol-associated cirrhosis]] (5-fold increased risk), [[nafld-masld|NAFLD/NASH]] (fastest growing cause of HCC in LT candidates), tobacco, obesity/metabolic syndrome, aflatoxin B1 (with HBV). Racial and ethnic disparities exist with disproportionate burden in American Indian, Hispanic, and Black individuals.
+**Risk factors:** [[chronic-hepatitis-b|HBV]] (especially without vaccination/antiviral treatment), [[hepatitis-c|HCV]] (even post-SVR with cirrhosis), [[alcohol-associated-liver-disease|alcohol-associated cirrhosis]] (5-fold increased risk), [[nafld-masld|NAFLD/NASH]] (fastest growing cause of HCC in LT candidates), tobacco, [[obesity]]/metabolic syndrome, aflatoxin B1 (with HBV). Racial and ethnic disparities exist with disproportionate burden in American Indian, Hispanic, and Black individuals.
 
 **Non-invasive diagnosis:** In patients with cirrhosis or chronic HBV, imaging features on contrast-enhanced CT or MRI (arterial hyperenhancement [APHE] + washout ± capsule) allow diagnosis without biopsy for lesions ≥1 cm. Outside of cirrhosis or at-risk HBV, pathological confirmation is required. [[aasld-2023-hcc]]
 
@@ -50,7 +50,7 @@ HCC is the most common primary liver cancer (75–86% of all primary liver cance
 
 ### HCC Surveillance
 
-**Target populations for HCC surveillance (Table 1, [[aasld-2023-hcc]]):**
+**Target populations for [[hcc-surveillance|HCC surveillance]] (Table 1, [[aasld-2023-hcc]]):**
 
 | Population | Annual HCC Incidence | Surveillance |
 |---|---|---|
@@ -111,7 +111,7 @@ Surveillance is associated with improved survival (pooled HR 0.67, 95% CI 0.61�
 - [[hepatocellular-adenoma]] — no washout; gadoxetate hepatobiliary phase uptake; β-catenin subtype rare malignant transformation
 - [[focal-nodular-hyperplasia]] — central scar; gadoxetate uptake; LR-1 or LR-2
 - [[hepatic-hemangioma]] — T2 bright, centripetal fill-in; no APHE
-- Metastasis — multiple lesions; known primary; portal venous enhancement pattern; LI-RADS not applicable
+- Metastasis — multiple lesions; known primary; portal venous enhancement pattern; [[li-rads|LI-RADS]] not applicable
 - Dysplastic nodules — iso/hypovascular; precursor lesion; LR-3 or LR-4
 - Biliary cysts — see [[hepatic-cysts]]
 
@@ -201,7 +201,7 @@ All patients with HCC should be discussed and managed in a multidisciplinary car
 **Patient selection (GS 28–29, [[aasld-2023-hcc]]):**
 
 - **Non-cirrhotic HCC:** Surgical resection is the treatment of choice (**Level 2, Strong Recommendation**). 5-year survival >70%; postoperative mortality <3%.
-- **Cirrhotic HCC (BCLC 0/A):** Resection is treatment of choice for limited tumor burden, well-compensated cirrhosis **without clinically significant portal hypertension (CSPH)**, and adequate future liver remnant (FLR) (**Level 2, Strong Recommendation**).
+- **Cirrhotic HCC (BCLC 0/A):** Resection is treatment of choice for limited tumor burden, well-compensated cirrhosis **without clinically significant [[portal-hypertension|portal hypertension]] (CSPH)**, and adequate future liver remnant (FLR) (**Level 2, Strong Recommendation**).
   - CSPH defined as HVPG ≥10 mmHg; clinical surrogates: varices, splenomegaly, platelets <100 × 10⁹/L, hepatic venous pressure gradient >10 mmHg
   - Adequate FLR: typically **>30%** in absence of cirrhosis; **>40%** in cirrhotic patients
   - Assessment of FLR: contrast-enhanced CT or MRI volumetry; if FLR inadequate → portal vein embolization to augment contralateral hepatic lobe
@@ -230,7 +230,7 @@ All patients with HCC should be discussed and managed in a multidisciplinary car
   - HCC adjacent to large vessels, diaphragm, heart, or central bile ducts: EBRT or radiation segmentectomy preferred over thermal ablation.
   - Ablation for HCC >3 cm: lower ORR, higher recurrence, worse OS than smaller tumors.
 
-**EBRT/SBRT:** Delivered in ≤5 fractions; avoid in patients with significant liver dysfunction (CTP ≥8, uncontrolled ascites, uncontrolled HE); avoid for tumors adjacent to stomach/bowel (ulceration risk).
+**EBRT/SBRT:** Delivered in ≤5 fractions; avoid in patients with significant liver dysfunction (CTP ≥8, uncontrolled [[ascites]], uncontrolled HE); avoid for tumors adjacent to stomach/bowel (ulceration risk).
 
 **Post-ablation response assessment:** Multiphasic CT or contrast-enhanced MRI approximately 6 weeks after treatment. CEUS can be used after ablation to assess for residual viable disease and enable retreatment.
 
@@ -436,7 +436,7 @@ Per the AASLD 2025 revised Figure 11 ([[aasld-2025-hcc-critical-update]]), post-
 
 | Recurrence Pattern | Recommended Approach |
 |---|---|
-| Within Milan criteria | Salvage liver transplantation (for eligible patients) |
+| Within Milan criteria | Salvage [[liver-transplantation|liver transplantation]] (for eligible patients) |
 | Liver-localized beyond Milan, within downstaging criteria | Liver-directed therapy (TACE/TARE/ablation); consider LT if successfully downstaged |
 | Vascular invasion, extrahepatic spread, or TACE-unsuitable disease | First-line systemic therapy |
 
@@ -459,7 +459,7 @@ Key evidence:
 - No significant benefit for HCC outside Milan criteria (RR 0.95, 95% CI 0.83–1.1 for 3-year RFS)
 - mTOR inhibitors may also mitigate CNI nephrotoxicity in HCC recipients (see [[liver-transplantation]])
 
-**Calcineurin inhibitors** (tacrolimus/cyclosporine) are associated with increased HCC recurrence — consider early IS minimization and mTOR-based switch after month 1.
+**[[calcineurin-inhibitors|Calcineurin inhibitors]]** ([[tacrolimus]]/cyclosporine) are associated with increased HCC recurrence — consider early IS minimization and mTOR-based switch after month 1.
 
 **HCC surveillance post-LT:** CT or MRI every 6–12 months; AFP as adjunct; risk of recurrence persists especially beyond Milan criteria. RETREAT score stratifies recurrence risk. See [[liver-transplantation]] for IS trough targets. See [[post-transplant-lymphoproliferative-disorder]] for NHL risk with intensified IS.
 

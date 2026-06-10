@@ -10,7 +10,7 @@ sources:
 
 ## Definition / Scope
 
-**Acute LGIB** = hematochezia or bright red blood per rectum originating from a **colorectal source** (distal to the ligament of Treitz, but small bowel bleeding is considered a separate entity with its own algorithm and is excluded from this schema).
+**Acute LGIB** = hematochezia or bright red blood per rectum originating from a **colorectal source** (distal to the ligament of Treitz, but [[small-bowel-bleeding|small bowel bleeding]] is considered a separate entity with its own algorithm and is excluded from this schema).
 
 ### Hemodynamic Instability Criteria
 
@@ -32,7 +32,7 @@ Severe hematochezia with hemodynamic instability may reflect a **brisk UGIB sour
 - Absence of blood clots in stool (LR 0.05 for UGIB — clots favor LGIB)
 - Nasogastric aspirate is unreliable (sensitivity only 28%) — routine NG tube NOT recommended
 
-If [[upper-gi-bleeding|UGIB]] is clinically suspected, perform **urgent [[upper-endoscopy|EGD]] before colonoscopy**.
+If [[upper-gi-bleeding|UGIB]] is clinically suspected, perform **urgent [[upper-endoscopy|EGD]] before [[colonoscopy]]**.
 
 ---
 
@@ -54,7 +54,7 @@ If [[upper-gi-bleeding|UGIB]] is clinically suspected, perform **urgent [[upper-
 | Etiology | Distinguishing Features |
 |---|---|
 | **[[colon-ischemia|Ischemic colitis]]** | Acute onset, abdominal pain + hematochezia, watershed distribution (splenic flexure, sigmoid), CT showing bowel wall thickening |
-| **Inflammatory bowel disease** | [[crohns-disease]] or [[ulcerative-colitis]]; chronic course with diarrhea, tenesmus; may present acutely |
+| **[[inflammatory-bowel-disease|Inflammatory bowel disease]]** | [[crohns-disease]] or [[ulcerative-colitis]]; chronic course with diarrhea, tenesmus; may present acutely |
 | **Infectious colitis** | Fever, diarrhea, exposure history; stool cultures, [[clostridioides-difficile|C. diff]] testing |
 | **Radiation proctopathy** | History of pelvic radiation; rectal bleeding, telangiectasias on endoscopy |
 | **NSAID-induced colitis / ulcers** | NSAID use history; ulcers especially in right colon and ileocecal region |
@@ -63,7 +63,7 @@ If [[upper-gi-bleeding|UGIB]] is clinically suspected, perform **urgent [[upper-
 
 - Rectal / stercoral ulcers
 - Dieulafoy lesion (aberrant submucosal vessel — minute mucosal defect, large bleed)
-- Colorectal varices (portal hypertension; see [[variceal-upper-gi-bleeding]] for contrast)
+- Colorectal varices ([[portal-hypertension|portal hypertension]]; see [[variceal-upper-gi-bleeding]] for contrast)
 - Solitary rectal ulcer syndrome
 - Endometriosis (cyclical rectal bleeding)
 - Anastomotic ulcers (post-surgical)
@@ -308,7 +308,7 @@ Scores supplement but do not replace clinical judgment. Low-risk patients (Oakla
 - History of pelvic radiation → radiation proctopathy
 - Hematemesis or coffee-ground emesis → UGIB source
 - Stigmata of liver disease, history of varices → portal hypertensive source (see [[variceal-upper-gi-bleeding]])
-- New-onset LGIB after starting oral anticoagulant → increased risk of underlying colorectal cancer
+- New-onset LGIB after starting oral anticoagulant → increased risk of underlying [[colorectal-cancer|colorectal cancer]]
 
 ### Rebleeding Risk Indicators
 

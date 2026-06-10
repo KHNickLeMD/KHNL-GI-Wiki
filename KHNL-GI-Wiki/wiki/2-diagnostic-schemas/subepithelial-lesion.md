@@ -184,7 +184,7 @@ Presence of ≥2 of: irregular border, echogenic foci, cystic spaces → maligna
   - ESD: may have lower R0 than band EMR in some studies (54–75%)
 - 11–19 mm: 66% metastatic risk → more aggressive approach warranted
 - ≥20 mm: 73% metastatic risk → surgical evaluation
-- EUS for lymphadenopathy staging: not mandatory for small (<1 cm) incidental rectal NETs found at [[colonoscopy|colonoscopy]] — primary excision often performed at time of discovery
+- EUS for lymphadenopathy staging: not mandatory for small (<1 cm) incidental rectal NETs found at [[colonoscopy]] — primary excision often performed at time of discovery
 
 ### Lipoma
 

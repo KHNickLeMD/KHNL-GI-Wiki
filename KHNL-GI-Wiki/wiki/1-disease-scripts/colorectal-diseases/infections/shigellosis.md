@@ -16,7 +16,7 @@ sources: [acg-2016-acute-diarrhea]
 - **Antibiotic treatment:** Azithromycin is the treatment of choice due to widespread ampicillin and TMP-SMX resistance. *Shigella sonnei* has reduced azithromycin susceptibility emerging in the United States (surveillance data through 2016).
 - **Duration:** Single-dose or 3-day course standard for most *Shigella* species. *S. dysenteriae* may require 5 days.
 - **Fluoroquinolones:** Historically used; increasing resistance; azithromycin preferred.
-- **[[rifaximin|Rifaximin]]:** Do NOT use — invasive pathogen; non-absorbable rifaximin is ineffective.
+- **[[rifaximin|Rifaximin]]:** Do NOT use — invasive pathogen; non-absorbable [[rifaximin]] is ineffective.
 - **Loperamide:** Use with caution in proven shigellosis; antimotility agents may theoretically worsen inflammatory colitis, though this association is rare in antibiotic-treated patients.
 - Hand hygiene is particularly important (low inoculum pathogen — hand washing reduces transmission).
 
