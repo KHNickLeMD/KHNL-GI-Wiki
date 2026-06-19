@@ -3,18 +3,18 @@ title: "POEM (Peroral Endoscopic Myotomy)"
 category: advanced-procedure
 tags: [poem, achalasia, myotomy, motility, esophageal, foregut, gerd]
 created: 2026-05-16
-updated: 2026-05-16
-sources: [sages-2024-poem]
+updated: 2026-06-10
+sources: [sages-2024-poem, sages-2021-poem]
 ---
 
 *Stub — to be expanded. Referenced in [[achalasia]] (key therapeutic option, preferred for Type III). POEM is also the technique used for G-POEM (gastric outlet) — referenced in [[gastroparesis]].*
 
 ## Indications
 
-- **[[achalasia|Achalasia]] Type I and II:** equivalent outcomes to PD and LHM (ACG 2020 [[achalasia]])
+- **[[achalasia|Achalasia]] Type I and II:** equivalent outcomes to PD and [[heller-myotomy|LHM]] (ACG 2020 [[achalasia]])
 - **Achalasia Type III (spastic):** POEM preferred over LHM — tailored long myotomy achieves higher success rates (93% vs. 71%); myotomy can be extended onto the esophageal body for spastic segments
 - **EGJOO (EGJ outflow obstruction):** when symptomatic and confirmed on TBE or FLIP; clinical achalasia spectrum
-- **Diffuse esophageal spasm / [[hypercontractile-esophagus|hypercontractile esophagus]]:** selected cases with dysphagia-predominant symptoms — see [[distal-esophageal-spasm]], [[hypercontractile-esophagus]]
+- **Diffuse esophageal spasm / [[hypercontractile-esophagus|hypercontractile esophagus]]:** selected cases with [[dysphagia]]-predominant symptoms — see [[distal-esophageal-spasm]], [[hypercontractile-esophagus]]
 - **G-POEM (gastric POEM):** pyloric myotomy for refractory [[gastroparesis]] — see [[gastroparesis]]
 
 ## Key Technique Points
@@ -50,10 +50,11 @@ sources: [sages-2024-poem]
 ## See Also
 
 
-[[achalasia]], [[gastroparesis]], [[distal-esophageal-spasm]], [[hypercontractile-esophagus]]
+[[achalasia]], [[heller-myotomy]], [[high-resolution-manometry]], [[gastroparesis]], [[distal-esophageal-spasm]], [[hypercontractile-esophagus]]
 
 ---
 
 ## Sources
 
 1. [[sages-2024-poem|SAGES Guideline Update: Peroral Endoscopic Myotomy (POEM) for Achalasia (2024)]]
+2. [[sages-2021-poem|SAGES Guidelines for the Use of Peroral Endoscopic Myotomy (POEM) for the Treatment of Achalasia (2021)]]

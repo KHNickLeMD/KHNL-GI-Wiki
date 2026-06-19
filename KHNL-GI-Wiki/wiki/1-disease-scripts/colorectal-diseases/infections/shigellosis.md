@@ -3,8 +3,8 @@ title: "Shigellosis"
 category: disease-script
 tags: [shigella, bacterial-gastroenteritis, dysentery, diarrhea, travelers-diarrhea, azithromycin]
 created: 2026-05-19
-updated: 2026-05-19
-sources: [acg-2016-acute-diarrhea]
+updated: 2026-06-11
+sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
 ---
 
 *Stub — to be expanded.*
@@ -20,6 +20,12 @@ sources: [acg-2016-acute-diarrhea]
 - **Loperamide:** Use with caution in proven shigellosis; antimotility agents may theoretically worsen inflammatory colitis, though this association is rare in antibiotic-treated patients.
 - Hand hygiene is particularly important (low inoculum pathogen — hand washing reduces transmission).
 
+## Key Points (IDSA 2017)
+
+- **Bacillary dysentery is a named exception to the "no empiric antibiotics" rule:** an ill, febrile, immunocompetent patient with frequent scant bloody stools, cramps, and tenesmus presumptively due to *Shigella* may be treated empirically while awaiting results (a fluoroquinolone or azithromycin per local susceptibility/travel). [[idsa-2017-infectious-diarrhea]]
+- *Shigella dysenteriae* type 1 can produce **Shiga toxin** and cause [[acute-diarrhea|HUS]] — consider it (especially with suggestive travel/contact) and apply Shiga-toxin–aware diagnostics.
+- Very low inoculum means meticulous hand hygiene and exclusion of symptomatic food handlers/childcare workers are central; *Shigella* is a notifiable pathogen requiring isolate submission.
+
 See [[acute-diarrhea]] for full diagnostic algorithm, antibiotic table, and management framework.
 
 ## See Also
@@ -32,3 +38,4 @@ See [[acute-diarrhea]] for full diagnostic algorithm, antibiotic table, and mana
 ## Sources
 
 1. [[acg-2016-acute-diarrhea|ACG 2016: Diagnosis, Treatment, and Prevention of Acute Diarrheal Infections in Adults]]
+2. [[idsa-2017-infectious-diarrhea|IDSA 2017 Clinical Practice Guidelines for the Diagnosis and Management of Infectious Diarrhea]]

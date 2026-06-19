@@ -7,39 +7,6 @@ updated: 2026-05-25
 sources: ["[[aasld-2012-liver-transplant-long-term]]", "[[aasld-ast-2025-liver-transplant-graft-complications]]", "[[aasld-ast-2025-liver-transplant-candidate-evaluation]]", "[[aasld-ast-2025-liver-transplant-non-graft-complications]]", "[[asge-2023-post-transplant-biliary-strictures]]"]
 ---
 
-## Contents
-
-- [[#PART I — PRE-TRANSPLANT CANDIDATE EVALUATION]]
-  - [[#Referral Criteria]]
-  - [[#Multidisciplinary Evaluation Framework]]
-  - [[#Cardiac Evaluation]]
-  - [[#Pulmonary Evaluation]]
-  - [[#Infection Screening]]
-  - [[#Malignancy Screening]]
-  - [[#Nutritional and Physical Function Assessment]]
-  - [[#Psychosocial and Substance Use Evaluation]]
-  - [[#Contraindications to Liver Transplantation]]
-  - [[#Living Donor Liver Transplantation (LDLT)]]
-  - [[#Multiorgan Transplantation]]
-- [[#PART II — GRAFT COMPLICATIONS]]
-  - [[#Surgical Considerations]]
-  - [[#Machine Perfusion]]
-  - [[#Early Allograft Dysfunction (EAD)]]
-  - [[#Vascular Complications]]
-  - [[#Biliary Complications]]
-  - [[#Rejection]]
-  - [[#Immunosuppression]]
-- [[#PART III — NON-GRAFT COMPLICATIONS]]
-  - [[#Wellness and Nutrition]]
-  - [[#Bone Health]]
-  - [[#Vaccination]]
-  - [[#Reproductive Health]]
-  - [[#Infections]]
-  - [[#Oncologic Surveillance]]
-  - [[#Metabolic Syndrome and Cardiovascular Risk]]
-
----
-
 # PART I — PRE-TRANSPLANT CANDIDATE EVALUATION
 
 *(Based on [[aasld-ast-2025-liver-transplant-candidate-evaluation]])*

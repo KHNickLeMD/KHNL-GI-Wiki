@@ -3,8 +3,8 @@ title: "Acute Diarrhea"
 category: diagnostic-schema
 tags: [diarrhea, infectious-diarrhea, travelers-diarrhea, gastroenteritis, acute, dysentery, loperamide, antibiotic, prevention]
 created: 2026-05-19
-updated: 2026-05-19
-sources: [acg-2016-acute-diarrhea]
+updated: 2026-06-11
+sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
 ---
 
 ## Definition / Scope
@@ -13,6 +13,8 @@ Acute diarrhea is defined as an increase in stool frequency or looseness above t
 
 - **Persistent diarrhea:** 14–30 days
 - **[[chronic-diarrhea|Chronic diarrhea]]:** >30 days
+
+> **Note on competing temporal definitions.** The contemporaneous [[idsa-2017-infectious-diarrhea|IDSA 2017 infectious diarrhea guideline]] uses a slightly different (WHO-based) framework: **acute <7 days**, **prolonged 7–13 days**, **persistent 14–29 days**, and **chronic ≥30 days**, and defines diarrhea as ≥3 loose/liquid stools per 24 h (loose "pasty" stools in breastfed infants are not diarrhea). The ACG cutoffs above are used elsewhere on this page; both schemes are widely cited. [[idsa-2017-infectious-diarrhea]]
 
 ### Severity Classification (ACG 2016)
 
@@ -143,6 +145,17 @@ Testing is NOT required for most uncomplicated acute watery diarrhea. Recommende
 
 Antibiotic sensitivity testing is NOT recommended routinely for individual patient management (Recommendation 4, Strong/VLow).
 
+**IDSA 2017 additions ([[idsa-2017-infectious-diarrhea]]):**
+
+- **Stool testing** (for [[salmonella-infection|*Salmonella*]], [[shigellosis|*Shigella*]], [[campylobacter-infection|*Campylobacter*]], *Yersinia*, [[clostridioides-difficile|*C. difficile*]], and STEC) is indicated with fever, bloody or mucoid stools, severe abdominal cramping/tenderness, or signs of sepsis (IDSA Rec 8). Bloody stools are **not** an expected manifestation of *C. difficile*.
+- **Blood cultures** should be obtained in infants <3 months, anyone with septicemia signs or suspected enteric fever, immunocompromised hosts, hemolytic anemia, and febrile travelers from enteric-fever-endemic areas (IDSA Rec 9).
+- **Tests that should NOT be used to establish etiology:** serologic tests, peripheral WBC count and differential, fecal leukocyte examination, and stool lactoferrin (IDSA Rec 20–22). Fecal calprotectin — insufficient data in acute infectious diarrhea.
+- **Molecular caveat:** multiplex NAAT/GI panels detect nucleic acid, not necessarily viable organisms; positive bacterial results requiring public-health reporting should be reflex-cultured for subtyping/susceptibility (IDSA Rec 14–15).
+
+#### Enteric (Typhoid/Paratyphoid) Fever
+
+Suspect in a febrile traveler (diarrhea often absent) from an endemic area, or with chronic-carrier or laboratory exposure to *Salmonella* Typhi/Paratyphi (IDSA Rec 4). Workup: blood + stool + urine cultures; bone-marrow culture is highest-yield (especially after antibiotics); **serology should NOT be used** to diagnose enteric fever (IDSA Rec 17). Sepsis suspicious for enteric fever → empiric broad-spectrum antimicrobials after cultures, narrowed on susceptibilities (IDSA Rec 34). See [[salmonella-infection]], [[fever-returning-traveler]].
+
 ### Diagnostic Methods
 
 #### Traditional (Culture-Based)
@@ -237,6 +250,33 @@ Antibiotic sensitivity testing is NOT recommended routinely for individual patie
 - *Enterocytozoon bieneusi*: albendazole 400 mg BID, OR iodoquinol
 - *Dientamoeba fragilis*: iodoquinol
 
+### Empiric Antibiotic Decision (IDSA 2017)
+
+Empiric antimicrobials are generally **NOT** recommended for immunocompetent children or adults with either bloody or watery diarrhea ([[idsa-2017-infectious-diarrhea]], Rec 30, 36). Defined exceptions for empiric therapy:
+
+- Infants <3 months with suspected bacterial etiology
+- Ill, febrile patient with bacillary dysentery presumptively due to [[shigellosis|*Shigella*]] (frequent scant bloody stools, fever, cramps, tenesmus)
+- Recently returned international travelers with temperature ≥38.5°C and/or sepsis signs
+- Immunocompromised hosts with severe bloody diarrhea
+- Suspected enteric fever with sepsis (after cultures)
+
+Adult empiric agent = a fluoroquinolone (eg, ciprofloxacin) **or** azithromycin per local susceptibility and travel history (Rec 31). Children: third-generation cephalosporin (<3 months or neurologic involvement) or azithromycin. Modify or stop antibiotics once a plausible organism is identified (Rec 38).
+
+### Supportive & Ancillary Care (IDSA 2017)
+
+- **Rehydration:** reduced-osmolarity ORS is first-line for mild-moderate dehydration of any cause; isotonic IV fluids (lactated Ringer's, normal saline) for severe dehydration, shock, altered mental status, ORS failure, or ileus (Rec 39–43). Continue human-milk feeding and resume an age-appropriate diet early (Rec 44–45).
+- **Antimotility:** loperamide should **NOT** be given to children <18 years, and should be avoided at any age with fever, inflammatory diarrhea, or toxic-megacolon risk (Rec 47).
+- **Antiemetic:** ondansetron may aid ORS tolerance in children >4 years and adolescents with vomiting (Rec 48).
+- **Zinc:** oral zinc shortens diarrhea in children 6 months–5 years in zinc-deficient/malnourished settings (Rec 50).
+- **[[probiotics]]:** may modestly reduce symptom severity/duration in immunocompetent adults and children (Rec 49, weak) — note this is more permissive than [[aga-2020-probiotics|AGA 2020 probiotics guidance]].
+
+### Vaccines & Public Health (IDSA 2017)
+
+- **[[rotavirus|Rotavirus]] vaccine** for all infants without contraindication (Rec 57).
+- **Typhoid vaccine** for select travelers to moderate-high-risk areas, intimate contacts of documented *S.* Typhi carriers, and exposed laboratory personnel, with boosters (Rec 58).
+- **Oral cholera vaccine** for adults 18–64 traveling to cholera-affected areas (Rec 59).
+- **Reporting:** notifiable enteric pathogens (*Salmonella*, STEC, *Shigella*, *Listeria*) must be reported with isolate submission (Rec 60).
+
 ---
 
 ## Red Flags / Alarm Features
@@ -248,11 +288,11 @@ The following features should prompt microbiologic assessment, consideration of 
 - **Severe dehydration** — total disability, orthostatic hypotension, inability to maintain oral fluids
 - **Duration ≥72 h without improvement** — consider microbiologic assessment
 - **Persistent symptoms 14–30 days** — full stool workup; consider colonoscopy if negative
-- **Immunocompromised host** (HIV, transplant, immunosuppressive therapy) — lower threshold for workup and treatment; [[cryptosporidiosis]] and [[entamoeba-histolytica-infection]] are particular concerns
+- **Immunocompromised host** (HIV, transplant, immunosuppressive therapy) — lower threshold for workup and treatment; [[cryptosporidiosis]] and [[entamoeba-histolytica-infection]] are particular concerns. In AIDS with persistent diarrhea, broaden testing to *Cyclospora*, *Cystoisospora*, microsporidia, *Mycobacterium avium* complex, and cytomegalovirus ([[idsa-2017-infectious-diarrhea]], Rec 12) — see [[hiv-aids-related-diarrhea]]
 - **Elderly patients** — higher risk of dehydration and complications; balanced ORS preferred
 - **High-risk occupations** (food handler, healthcare worker, daycare) — microbiologic assessment and public health reporting required
 - **Outbreak setting** — requires culture-based assessment for public health subtyping (Recommendation 1, Strong/Low)
-- **Suspected STEC** (bloody diarrhea, outbreak setting, hamburger exposure, hemolytic uremic syndrome signs: thrombocytopenia, microangiopathic hemolytic anemia, renal failure) — **NO antibiotics**, arrange culture with Shiga toxin testing, nephrology consultation
+- **Suspected STEC** (bloody diarrhea, outbreak setting, hamburger exposure, hemolytic uremic syndrome signs: thrombocytopenia, microangiopathic hemolytic anemia, renal failure) — **NO antibiotics** for O157 or Shiga toxin 2 producers (HUS risk), arrange culture with Shiga toxin testing (sorbitol-MacConkey/chromogenic agar for O157), nephrology consultation. Per [[idsa-2017-infectious-diarrhea|IDSA 2017]] (Rec 23), frequently monitor hemoglobin, platelets, electrolytes, BUN/creatinine, and examine a peripheral smear for schistocytes to catch early HUS, which precedes overt renal injury.
 
 ---
 
@@ -268,10 +308,11 @@ The following features should prompt microbiologic assessment, consideration of 
 
 ## See Also
 
-[[clostridioides-difficile]], [[fever-returning-traveler]], [[irritable-bowel-syndrome]], [[crohns-disease]], [[celiac-disease]], [[disorders-of-gut-brain-interaction]]
+[[clostridioides-difficile]], [[fever-returning-traveler]], [[irritable-bowel-syndrome]], [[crohns-disease]], [[celiac-disease]], [[disorders-of-gut-brain-interaction]], [[salmonella-infection]], [[shigellosis]], [[campylobacter-infection]]
 
 ---
 
 ## Sources
 
 1. [[acg-2016-acute-diarrhea|ACG 2016: Diagnosis, Treatment, and Prevention of Acute Diarrheal Infections in Adults]]
+2. [[idsa-2017-infectious-diarrhea|IDSA 2017 Clinical Practice Guidelines for the Diagnosis and Management of Infectious Diarrhea]]

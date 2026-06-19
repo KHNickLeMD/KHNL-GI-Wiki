@@ -9,16 +9,6 @@ sources: [asge-2022-pancreatic-cancer-screening, acg-2018-pancreatic-cysts, acg-
 
 Pancreatic ductal adenocarcinoma (PDAC) is the dominant malignancy of the exocrine pancreas and the disease meant by "pancreatic cancer" in most clinical contexts. It is biologically aggressive, usually diagnosed at an advanced stage, and carries a lifetime incidence of ~1.6% with ~10% 5-year survival; it accounted for ~3% of new US cancers and ~8% of cancer deaths in 2020 [[asge-2022-pancreatic-cancer-screening]]. Stage at diagnosis dominates prognosis: 93% 10-year survival for stage 0 and 34%-39% 5-year survival for stage I, versus ~80% of patients presenting with advanced/inoperable disease.
 
-## Contents
-- [[#Assessment]]
-  - [[#Establishing the Diagnosis]]
-  - [[#Risk Stratification / Genetic Susceptibility]]
-  - [[#High-Risk Surveillance]]
-- [[#Differential Diagnosis]]
-- [[#Diagnostics]]
-- [[#Therapeutics]]
-- [[#See Also]]
-
 ## Assessment
 
 ### Establishing the Diagnosis

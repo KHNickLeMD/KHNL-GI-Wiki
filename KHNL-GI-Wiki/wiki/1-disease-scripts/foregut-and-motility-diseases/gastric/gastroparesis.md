@@ -298,7 +298,7 @@ sources: [acg-2022-gastroparesis, aga-2025-gastroparesis]
 ## See Also
 
 
-[[disorders-of-gut-brain-interaction]], [[gerd]], [[flip-panometry]], [[prucalopride]], [[upper-endoscopy]]
+[[disorders-of-gut-brain-interaction]], [[gerd]], [[flip-panometry]], [[prucalopride]], [[upper-endoscopy]], [[nausea-and-vomiting]]
 
 ---
 

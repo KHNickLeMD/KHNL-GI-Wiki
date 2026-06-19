@@ -9,19 +9,6 @@ sources: [asge-2023-ergonomics]
 
 Endoscopy-related injury (ERI) is musculoskeletal injury caused by repetitive microtrauma to connective tissues during endoscopy. ERIs are common — a pooled meta-analysis of 17 surveys (5227 endoscopists) found an overall rate of **57.7%** — yet they are largely preventable through ergonomic education, work-rest scheduling, and neutral-posture room setup. The [[asge-2023-ergonomics|ASGE 2023 ergonomics guideline]] frames prevention as an occupational-health priority for endoscopists performing [[colonoscopy]], [[upper-endoscopy|EGD]], [[ercp|ERCP]], and [[endoscopic-ultrasound|EUS]].
 
-## Contents
-- [[#Epidemiology]]
-- [[#Risk Factors]]
-- [[#Neutral Posture]]
-- [[#Preventive Interventions]]
-  - [[#Ergonomics Education]]
-  - [[#Microbreaks and Macrobreaks]]
-  - [[#Neutral Monitor Position]]
-  - [[#Neutral Bed/Table Height]]
-  - [[#Antifatigue Mats]]
-- [[#Special Considerations]]
-- [[#See Also]]
-
 ## Epidemiology
 - Overall pooled ERI rate **57.7%** (95% CI 48.8–66.1).
 - Most common sites: hands/fingers (35.8%), back (35.3%), upper back/neck (32.6%), thumb alone (29.2%), neck alone (26.1%).

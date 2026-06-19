@@ -100,7 +100,7 @@ Pancreatic cysts are a heterogeneous group of lesions, most detected incidentall
 - All SPNs: refer to multidisciplinary group for surgical resection (Strong/Low)
 - Post-resection: follow yearly for at least 5 years (Conditional/VLow)
 
-**Cystic Pancreatic Neuroendocrine Tumor (Cystic PNET)**
+**Cystic Pancreatic [[gastroenteropancreatic-neuroendocrine-tumors|Neuroendocrine Tumor]] (Cystic PNET)**
 
 - Men = Women; peak 5th–6th decade
 - Sporadic or in MEN I

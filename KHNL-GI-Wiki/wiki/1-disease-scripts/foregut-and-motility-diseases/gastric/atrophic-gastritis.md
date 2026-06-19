@@ -90,7 +90,7 @@ AG severity and extent determine gastric cancer risk. Two validated staging syst
 - **Eosinophilic gastritis:** eosinophilic infiltration; distinct histologic pattern
 - **Menetrier's disease:** foveolar hyperplasia, protein-losing gastropathy; giant rugal folds (not atrophy)
 - **Diffuse-type gastric adenocarcinoma:** can mimic atrophic changes; biopsy suspicious areas
-- **Type I gastric NET:** may be identified incidentally in the setting of AIG/hypergastrinemia
+- **[[gastroenteropancreatic-neuroendocrine-tumors|Type I gastric NET]]:** may be identified incidentally in the setting of AIG/hypergastrinemia
 
 ---
 
@@ -205,7 +205,7 @@ Metastasis rate: <10% for NETs ≤2 cm; ~20% for NETs >2 cm.
 ## See Also
 
 
-[[gastric-premalignant-conditions]], [[gastric-intestinal-metaplasia]], [[gastric-adenocarcinoma]], [[helicobacter-pylori-infection]], [[celiac-disease]], [[endoscopic-ultrasound]], [[upper-endoscopy]]
+[[gastric-premalignant-conditions]], [[gastric-intestinal-metaplasia]], [[gastric-adenocarcinoma]], [[gastroenteropancreatic-neuroendocrine-tumors]], [[helicobacter-pylori-infection]], [[celiac-disease]], [[endoscopic-ultrasound]], [[upper-endoscopy]]
 
 ---
 

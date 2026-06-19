@@ -217,7 +217,7 @@ Serial polysomy in dominant/relevant stricture + serial polysomy = probable CCA.
 
 **CCA risk factors:** Older age, male sex, dominant stricture, PSC-IBD comorbidity, elevated bilirubin; FISH polysomy in dominant stricture context → 73% eventually diagnosed with CCA
 
-**Gallbladder cancer surveillance (GS 20):**
+**[[gallbladder-cancer|Gallbladder cancer]] surveillance (GS 20):**
 
 - Gallbladder polyps ≤8 mm → US every 6 months
 - Gallbladder polyps >8 mm → cholecystectomy (preferably at experienced center in advanced disease); 18–56% adenocarcinoma rate in cholecystectomy specimens with PSC + polyp/mass
@@ -268,7 +268,7 @@ Histological and cholangiographic assessment required to distinguish rPSC from a
 
 - Occurs in 10–37% of transplanted recipients at mean 0.5–5 years post-LT ([[aasld-2022-psc]])
 - Diagnostic criteria: confirmed PSC pre-LT + cholestatic LFT pattern + cholangiography demonstrating multifocal nonanastomotic biliary strictures + absence of chronic ductopenic rejection, hepatic ischemia, or ABO incompatibility — all ≥90 days post-LT
-- Risk factors for rPSC: male sex, extended-criteria grafts, steroid-free ATG induction, tacrolimus-based primary IS, allograft rejection, poorly controlled or de novo IBD post-LT
+- Risk factors for rPSC: male sex, extended-criteria grafts, steroid-free ATG induction, [[tacrolimus]]-based primary IS, allograft rejection, poorly controlled or de novo IBD post-LT
 - Pretransplant colectomy may be protective against rPSC
 - Retransplantation for rPSC: 12.4% at 10 years (higher than for PBC at 8.5%); rPSC has a greater negative impact than PBC-recurrence
 

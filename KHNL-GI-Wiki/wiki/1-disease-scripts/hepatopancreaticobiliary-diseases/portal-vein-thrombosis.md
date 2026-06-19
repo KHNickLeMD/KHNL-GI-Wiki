@@ -53,7 +53,7 @@ Portal vein thrombosis (PVT) is the partial or complete occlusion of the portal 
 - **Extrinsic portal vein compression** — [[pancreatic-cancer|pancreatic cancer]], lymphadenopathy, [[cholangiocarcinoma]]; no intravenous thrombus on CT
 - **[[budd-chiari-syndrome|Budd-Chiari syndrome]]** — [[budd-chiari-syndrome]] — hepatic venous outflow obstruction; hepatomegaly, ascites, right upper quadrant pain; caudate lobe hypertrophy
 - **[[acute-mesenteric-ischemia|Acute mesenteric ischemia]]** — SMA occlusion (arterial embolism/thrombosis); small bowel ischemia; no portal vein thrombus
-- **[[colon-ischemia|Colon ischemia]]** — [[colon-ischemia]] — segmental colonic involvement; CT/colonoscopy distinguishes
+- **[[colon-ischemia|Colon ischemia]]** — [[colon-ischemia]] — segmental colonic involvement; CT/[[colonoscopy]] distinguishes
 - **Cirrhosis with portal hypertension alone** — no thrombus; variceal bleeding/ascites present; Doppler shows slow or reversed flow without thrombus
 
 ---

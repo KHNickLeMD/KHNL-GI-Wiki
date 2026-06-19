@@ -40,7 +40,7 @@ Hypercontractile esophagus (jackhammer esophagus) is defined by **Chicago Classi
 
 ## Therapeutics
 
-*Stub — same as DES: smooth muscle relaxants (CCBs, nitrates), PPI, TCA/SSRI, [[poem|POEM]] for refractory dysphagia-predominant cases.*
+*Stub — same as DES: smooth muscle relaxants (CCBs, nitrates), PPI, TCA/SSRI, [[poem|POEM]] for refractory [[dysphagia]]-predominant cases.*
 
 ---
 

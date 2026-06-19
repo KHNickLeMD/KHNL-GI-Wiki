@@ -233,7 +233,7 @@ Use the R-ratio and AST:ALT ratio to classify injury pattern → guides the diff
 ### Imaging
 
 - **Abdominal ultrasound** — first-line for all patterns; hepatomegaly, steatosis, biliary dilatation, portal hypertension, vascular patency
-- **Doppler ultrasound** — [[budd-chiari-syndrome|Budd-Chiari syndrome]], hepatic vein/portal vein thrombosis
+- **Doppler ultrasound** — [[budd-chiari-syndrome|Budd-Chiari syndrome]], hepatic vein/[[portal-vein-thrombosis]]
 - **MRI/MRCP** — preferred for biliary anatomy; [[cholangioscopy]] for sclerosing cholangitis evaluation when ERCP not needed for therapy
 - **CT abdomen** — infiltrative disease, malignancy, abscess
 - **FibroScan (vibration-controlled transient elastography)** — non-invasive fibrosis assessment in NAFLD/MASLD; FDA-approved; controlled attenuation parameter (CAP) for steatosis quantification

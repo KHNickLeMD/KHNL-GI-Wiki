@@ -29,7 +29,7 @@ Key change from prior guidance: **all [[brca-pathogenic-variants|BRCA1/2]] carri
 ## Modality
 Screen with [[endoscopic-ultrasound|EUS]], MRI/[[mri-mrcp|MRCP]], or EUS alternating with MRI, based on patient preference and local expertise (conditional, very low quality).
 
-- **EUS may be preferred** as the initial test; for very-high-risk conditions ([[peutz-jeghers-syndrome|Peutz-Jeghers]], [[fammm-syndrome|FAMMM]]); when it can be combined with screening [[upper-endoscopy|upper endoscopy]]/colonoscopy (Lynch, Peutz-Jeghers); and when MRI is contraindicated (claustrophobia, contrast allergy, implanted metal, renal failure). A **linear-array** echoendoscope detects more pancreatic lesions than a radial one (82% vs 67%). EUS is also more sensitive than MRI for small solid lesions.
+- **EUS may be preferred** as the initial test; for very-high-risk conditions ([[peutz-jeghers-syndrome|Peutz-Jeghers]], [[fammm-syndrome|FAMMM]]); when it can be combined with screening [[upper-endoscopy|upper endoscopy]]/[[colonoscopy]] (Lynch, Peutz-Jeghers); and when MRI is contraindicated (claustrophobia, contrast allergy, implanted metal, renal failure). A **linear-array** echoendoscope detects more pancreatic lesions than a radial one (82% vs 67%). EUS is also more sensitive than MRI for small solid lesions.
 - **MRI may be preferred** for patients at higher anesthesia/procedural risk, those who value avoiding invasive testing, and when combinable with other imaging (e.g., enterography in Peutz-Jeghers). Use contrast-enhanced exam, ≥1.5-T magnet with phased-array coils; 3-T may better detect small lesions.
 
 ## Frequency

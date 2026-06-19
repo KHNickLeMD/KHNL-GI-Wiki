@@ -3,37 +3,8 @@ title: "Hepatocellular Carcinoma"
 category: disease-script
 tags: [hcc, hepatocellular, liver, cancer, hpb, surveillance, cirrhosis, hbv, adjuvant, immunotherapy, liver-transplant, milan-criteria, afp, downstaging, mtor-inhibitor, sirolimus, everolimus, bclc, sorafenib, lenvatinib, atezolizumab, bevacizumab, tace, tare, ablation, resection, li-rads, locoregional]
 created: 2026-05-16
-updated: 2026-05-28
-sources: ["[[aasld-2023-hcc]]", "[[aasld-2025-hcc-critical-update]]", "[[aasld-ast-2025-liver-transplant-candidate-evaluation]]", "[[aasld-ast-2025-liver-transplant-graft-complications]]", "[[aga-2022-hcc-systemic]]"]
----
-
-## Contents
-
-- [[#Assessment]]
-  - [[#Establishing the Diagnosis]]
-  - [[#HCC Surveillance]]
-  - [[#Severity Assessment — BCLC Staging]]
-- [[#Differential Diagnosis]]
-- [[#Diagnostics]]
-  - [[#LI-RADS Diagnostic Framework]]
-  - [[#Surveillance Recall Algorithm]]
-  - [[#Diagnostic Biomarkers]]
-- [[#Therapeutics]]
-  - [[#Multidisciplinary Care]]
-  - [[#Surgical Resection]]
-  - [[#Local Ablative Therapy]]
-  - [[#Locoregional Therapy — TACE and TARE]]
-  - [[#Systemic Therapy — Advanced HCC]]
-  - [[#Liver Transplantation for HCC]]
-  - [[#(Neo)Adjuvant Therapy After Resection or Local Ablation]]
-  - [[#Management of Recurrence After Resection or Local Ablation]]
-  - [[#Post-Transplant Immunosuppression for HCC Recipients]]
-  - [[#Advance Care Planning]]
-
----
-
-*Lectures available: HCC_By_Dr_Kemichian.md, HCC_by_Kali_Zhou.md, Disparities_in_HCC_Care.md (raw/GI Lectures+Chalk Talks/). Referenced in [[chronic-hepatitis-b]] (expanded HCC surveillance criteria), [[alcohol-associated-liver-disease]], and [[hereditary-hemochromatosis]] (HCC accounts for ~45% of cirrhosis-related HH deaths; SF >2,000 ng/mL = high risk).*
-
+updated: 2026-06-18
+sources: ["[[aasld-2023-hcc]]", "[[aasld-2025-hcc-critical-update]]", "[[aasld-ast-2025-liver-transplant-candidate-evaluation]]", "[[aasld-ast-2025-liver-transplant-graft-complications]]", "[[aga-2022-hcc-systemic]]", "[[nccn-2026-hcc]]"]
 ---
 
 ## Assessment
@@ -194,6 +165,24 @@ If no lesion found but AFP significantly elevated (≥200 ng/mL) without explana
 
 All patients with HCC should be discussed and managed in a multidisciplinary care setting (**GS 27, Level 3, Strong Recommendation**). MDT tumor board changes imaging interpretation in 18.4%, histological interpretation in 10.9%, and management plans in 41.7% of patients. Core disciplines: hepatology, radiology, pathology, interventional radiology, transplant and hepatobiliary surgery, medical/radiation/surgical oncology. [[aasld-2023-hcc]]
 
+**NCCN treatment-allocation pathway** — the NCCN algorithm allocates therapy by liver function, performance status, tumor burden, and the presence of vascular invasion or extrahepatic spread (concordant with [[#Severity Assessment — BCLC Staging|BCLC]]). The decision logic, recreated below:
+
+```mermaid
+flowchart TD
+    A["HCC diagnosed<br/>(non-invasive imaging or biopsy)"] --> B["Workup: liver function (Child-Pugh / ALBI),<br/>performance status, tumor extent,<br/>vascular invasion, metastases"]
+    B --> C{"Extrahepatic spread or<br/>major vascular invasion?"}
+    C -->|"Yes"| SYS["Systemic therapy<br/>(see First-Line Systemic Therapy)"]
+    C -->|"No — liver-confined"| E{"Operable: adequate liver function,<br/>no significant portal HTN,<br/>adequate future remnant?"}
+    E -->|"Yes — resectable"| RES["Surgical resection"]
+    E -->|"Transplant candidate<br/>within criteria"| LT["Liver transplant<br/>± bridging locoregional therapy"]
+    E -->|"Unresectable,<br/>not transplant"| LRT["Locoregional therapy:<br/>ablation (small tumors),<br/>TACE / TARE, EBRT / SBRT"]
+    LRT --> PROG{"Progression or<br/>LRT-unsuitable / refractory?"}
+    PROG -->|"Yes"| SYS
+    B -.->|"Child-Pugh C / poor PS,<br/>not transplant candidate"| BSC["Best supportive care"]
+```
+
+*Algorithm — NCCN treatment allocation for HCC, recreated in original form (not an NCCN figure). ([[nccn-2026-hcc]])*
+
 ---
 
 ### Surgical Resection
@@ -301,6 +290,8 @@ All patients with HCC should be discussed and managed in a multidisciplinary car
 - Recent GI/esophageal bleed within 6 months and high-risk stigmata → prefer durvalumab+tremelimumab or sorafenib/lenvatinib
 
 **Pre-treatment requirement for atezo+bev:** EGD to assess for high-risk variceal/GI bleed stigmata (GS 46a-i, Level 5, Strong). Patients with large varices: at least one variceal band ligation session prior to initiation; carvedilol may be considered as alternative variceal management.
+
+**NCCN 2026 first-line tiering ([[nccn-2026-hcc]]):** NCCN lists three **Preferred, category 1** first-line regimens — atezolizumab + bevacizumab, durvalumab + tremelimumab, and **ipilimumab + nivolumab** — plus durvalumab monotherapy, lenvatinib, and sorafenib as Other Recommended (also category 1). The notable change in Version 1.2026 is that **ipilimumab + nivolumab was elevated from a later-line option to Preferred category 1 first-line** on the strength of CheckMate-9DW (Yau T, et al. Lancet 2025;405:1851-1864), which showed improved OS vs lenvatinib/sorafenib. Caveat: the ipi+nivo arm had a higher rate of death in the first ~6 months and ~29% of patients required high-dose steroids for immune-mediated toxicity — counsel patients about early irAE risk (see [[immune-checkpoint-inhibitor-hepatitis]]). NCCN also strengthens the role of **EBRT/SBRT** (typically 3–5 fractions, image-guided) as a locoregional option for tumors irrespective of location when ablation/embolization is unsuitable, unsuccessful, or contraindicated. SC checkpoint-inhibitor formulations (atezolizumab-, nivolumab-, and pembrolizumab–hyaluronidase) may substitute for their IV counterparts.
 
 ---
 
@@ -487,3 +478,4 @@ Advance care planning (ACP) should be offered to all patients receiving palliati
 3. [[aasld-ast-2025-liver-transplant-candidate-evaluation|AASLD AST 2025: Practice Guideline on Adult Liver Transplantation — Candidate Evaluation]]
 4. [[aasld-ast-2025-liver-transplant-graft-complications|AASLD/AST 2025: Practice Guideline on Adult Liver Transplantation — Diagnosis and Management of Graft-Related Complications]]
 5. [[aga-2022-hcc-systemic|AGA Clinical Practice Guideline: Systemic Therapy for Hepatocellular Carcinoma (2022)]]
+6. [[nccn-2026-hcc|NCCN Clinical Practice Guidelines in Oncology: Hepatocellular Carcinoma (Version 1.2026)]]

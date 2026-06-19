@@ -6,6 +6,209 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-06-18] lint | Cross-link densification for NCCN oncology cluster
+
+**Scope:** Targeted lint of the newly ingested NCCN oncology pages and their connections to the rest of the wiki (not a full-wiki pass).
+
+**Cross-references added (inbound links to new pages):**
+- `[[subepithelial-lesion]]` → `[[gastrointestinal-stromal-tumor]]` and `[[gastroenteropancreatic-neuroendocrine-tumors]]` (inline lead lines under the GIST and gNET sections + both added to See Also). This schema discussed GIST/gNET extensively with no links — the largest gap.
+- `[[biliary-stricture]]` → `[[gallbladder-cancer]]` (differential table).
+- `[[primary-sclerosing-cholangitis]]` → `[[gallbladder-cancer]]` (gallbladder-cancer surveillance section).
+- `[[pancreatic-cysts]]` → `[[gastroenteropancreatic-neuroendocrine-tumors]]` (cystic PNET).
+- `[[atrophic-gastritis]]` → `[[gastroenteropancreatic-neuroendocrine-tumors]]` (type I gastric NET).
+- `[[gastric-premalignant-conditions]]` → `[[gastroenteropancreatic-neuroendocrine-tumors]]` (type 1 carcinoid risk).
+
+**Hygiene fixes:**
+- Index source-count corrections (pre-existing miscounts): `[[hepatocellular-carcinoma]]` 5→6; `[[colorectal-cancer]]` 2→5 (also enriched CRC description with NCCN content).
+
+**Verification:**
+- Whole-wiki broken-link scan: **no broken links**. Apparent hits were (a) example tokens inside `log.md` documentation text (correctly not stubbed per schema), and (b) valid escaped-pipe table links in `7-concepts/pancreatic-cancer-screening.md` (`[[slug\|Alias]]`) — render correctly, targets exist.
+- No contradictions found in the oncology cluster; NCCN ingest was additive and concordant with existing AASLD/ACG/ASGE/USMSTF content.
+
+**Flagged for user (could not auto-fix):**
+- 3 `.DS_Store` artifacts remain under `wiki/` — deletion was blocked by filesystem permissions in this environment. Safe to remove manually / via git.
+
+---
+
+## [2026-06-18] ingest | NCCN 2026 GI/Hepatology guidelines — Batch 3 (Colon + GIST + NET finish)
+
+**Context:** Final batch of the NCCN GI/Hep ingest. Proceeded straight through (rather than pausing) to resolve forward-links created in batch 2 to GIST and GEP-NET. Summarize-and-cite + original Mermaid recreations maintained.
+
+**Sources created:**
+- `[[nccn-2026-colon-cancer]]` — NCCN Colon Cancer v2.2026 (04/07/26). Universal MMR/MSI; RAS/BRAF/HER2/NTRK/DPYD; adjuvant FOLFOX/CAPOX (IDEA duration); metastatic biomarker- & sidedness-directed therapy.
+- `[[nccn-2026-gist]]` — NCCN GIST v1.2026 (01/13/26). KIT/PDGFRA/SDH mutational testing; risk by size/mitoses/site/rupture; surgery + neoadjuvant/adjuvant imatinib; TKI sequence; avapritinib for PDGFRA D842V.
+
+**Entity pages created:**
+- `[[gastrointestinal-stromal-tumor]]` — new disease script (`1-disease-scripts/other/`), full ADDT + original Mermaid algorithm.
+
+**Pages updated (additive):**
+- `[[colorectal-cancer]]` — added "Oncologic Management (NCCN 2026)" subsection + original Mermaid algorithm; source added to frontmatter + Sources.
+- `[[gastroenteropancreatic-neuroendocrine-tumors]]` — added original Mermaid treatment algorithm (per user diagram request; source page + page already existed from prior run); fixed self-referential differential link → `[[gastrointestinal-stromal-tumor]]`; added GIST to See Also.
+
+**Index:** Added `[[gastrointestinal-stromal-tumor]]` to Disease Scripts › Other; added Colon + GIST to `### NCCN` sources; refreshed NET description (Mermaid).
+
+**Ingest complete:** All 7 NCCN 2026 GI/Hep guidelines ingested (HCC, Biliary Tract, Esophageal/EGJ, Gastric, Colon, GIST, NET). NET guideline kept to GI/pancreatic scope per user (lung/thymus/adrenal/pheo excluded). All disease-script pages carry an original Mermaid algorithm recreation (NCCN figures not reproduced, per license).
+
+---
+
+## [2026-06-18] ingest | NCCN 2026 GI/Hepatology guidelines — Batch 2 (Esophageal/EGJ + Gastric)
+
+**Context:** Batch 2 of the user-requested NCCN GI/Hep ingest. User confirmed: keep algorithm diagrams as **original Mermaid recreations** (not NCCN figure screenshots), per NCCN licensing. Summarize-and-cite convention maintained.
+
+**Sources created:**
+- `[[nccn-2026-esophageal-egj-cancer]]` — NCCN Esophageal & EGJ Cancers v3.2026 (06/03/26). Adeno vs SCC pathways; endoscopic resection T1a; perioperative FLOT ± durvalumab (MATTERHORN; no benefit in diffuse-type); definitive chemoRT for SCC; metastatic biomarker therapy (HER2/PD-L1 CPS/MSI-H).
+- `[[nccn-2026-gastric-cancer]]` — NCCN Gastric Cancer v3.2026 (06/03/26). Perioperative FLOT + D2 gastrectomy; MSI-H/dMMR neoadjuvant dostarlimab; metastatic HER2→trastuzumab (later-line T-DXd cat 1), PD-L1 CPS→nivo/pembro, claudin 18.2→zolbetuximab.
+
+**Pages expanded (stub → full ADDT, with Mermaid algorithm):**
+- `[[esophageal-cancer]]` — full ADDT page + original NCCN treatment-algorithm Mermaid.
+- `[[gastric-adenocarcinoma]]` — full ADDT page + original NCCN treatment-algorithm Mermaid.
+
+**Pages updated (additive):**
+- `[[esophageal-adenocarcinoma]]` — linked oncologic staging to `[[esophageal-cancer]]`; NCCN source added to frontmatter + Sources.
+
+**Index:** Added both new sources to `### NCCN`; upgraded esophageal-cancer / esophageal-adenocarcinoma / gastric-adenocarcinoma descriptions (removed "stub", noted Mermaid + biomarker therapy).
+
+**Remaining batches:** Colon, GIST, NET (finish NET disease script — source page exists). Mermaid algorithms to be added there too.
+
+---
+
+## [2026-06-18] ingest | NCCN 2026 GI/Hepatology guidelines — Batch 1 (HCC + Biliary Tract)
+
+**Context:** User-requested ingest of the 7 NCCN 2026 PDFs in `raw/GI Guidelines/NCCN/`, GI/Hepatology scope only, paced in batches. This is batch 1. Follows the NCCN licensing convention established by `[[nccn-2026-net]]`: **summarize and cite**, do not reproduce proprietary algorithm pages verbatim (NCCN EULA prohibits redistribution + use with AI tools).
+
+**Sources created:**
+- `[[nccn-2026-hcc]]` — NCCN Hepatocellular Carcinoma v1.2026 (03/10/26). Headline change: ipilimumab+nivolumab elevated to Preferred category 1 first-line (CheckMate-9DW); strengthened EBRT/SBRT role; SC checkpoint-inhibitor substitutions.
+- `[[nccn-2026-biliary-tract-cancers]]` — NCCN Biliary Tract Cancers v1.2026 (03/10/26). Emphasis on RNA-based molecular profiling (FGFR2/IDH1/HER2/BRAF/NTRK/RET/NRG1/MSI-H), gem+cis+checkpoint 1st-line, adjuvant capecitabine (BILCAP), iCCA transplant exception; core biopsy preferred over FNA.
+
+**Entity pages created:**
+- `[[gallbladder-cancer]]` — new disease script (HPB), ADDT format; previously only a differential mention.
+
+**Pages updated (additive):**
+- `[[hepatocellular-carcinoma]]` — added NCCN first-line systemic tiering + RT note to Therapeutics; source added to frontmatter + Sources list.
+- `[[cholangiocarcinoma]]` — added "Oncologic Management (NCCN 2026)" subsection (molecular profiling, systemic therapy, adjuvant, iCCA transplant); source added; `[[gallbladder-cancer]]` linked in See Also.
+
+**Index:** Added `### NCCN` source subsection (relocated `[[nccn-2026-net]]` into it; added HCC + Biliary). Updated HCC/cholangiocarcinoma descriptions + source counts; added gallbladder-cancer entry.
+
+**Pending (user request mid-batch):** Add original **Mermaid** recreations of the key NCCN clinical algorithms to the relevant disease-script pages (license-safe alternative to screenshotting NCCN's copyrighted figures). Applies to this batch and subsequent batches.
+
+**Remaining batches:** Esophageal/EGJ, Gastric, Colon, GIST, NET (finish NET disease script — source page already exists from prior run).
+
+---
+
+## [2026-06-18] ingest | NCCN 2026 Neuroendocrine & Adrenal Tumors (GI scope)
+
+**Context:** Scheduled `ingest-and-lint` run (autonomous). Task = "ingest up to 4 uningested guidelines + lint." This instance ingested the GI scope of the **NCCN Neuroendocrine and Adrenal Tumors v1.2026** guideline.
+
+**⚠ Concurrency observed (flag for user):** The raw `GI Guidelines/NCCN/` folder was populated mid-run with 7 NCCN 2026 PDFs (HCC, NET, Gastric, Colon, Biliary Tract, Esophageal/EGJ, GIST). A **second process was ingesting them concurrently** during this run — `[[nccn-2026-hcc]]` (08:07, integrated into `[[hepatocellular-carcinoma]]`) and `[[nccn-2026-biliary-tract-cancers]]` (08:09) were created by that other process, not this one. To avoid write-races on shared files, this instance owned **only the NET ingest** and deliberately left HCC/Biliary/Gastric/Colon/Esophageal/GIST to the concurrent run. Index/log writes here were kept minimal and additive for the same reason.
+
+**Mislabeled-file duplicate skipped:** `raw/.../AASLD/AASLD 2011 HCC Management.pdf` is **not** a 2011 guideline — its content is the Singal et al. AASLD Practice Guidance (Hepatology 2023;78:1922–1965), already ingested as `[[aasld-2023-hcc]]`. No new page created (filename year is wrong).
+
+**Source created:**
+- `[[nccn-2026-net]]` — NCCN NET v1.2026. Per NCCN's End-User License (prohibits redistribution + use with AI tools), the page **summarizes and cites** rather than reproducing proprietary algorithm pages verbatim; entity content written in original language with NCCN cited.
+
+**Entity pages created:**
+- `[[gastroenteropancreatic-neuroendocrine-tumors]]` (disease script, `1-disease-scripts/other/`) — ADDT: WHO grading (Ki-67/mitoses; NET G1/2/3 vs NEC), gastric types 1/2/3, site/size-based endoscopic vs surgical resection (incl. appendiceal >2 cm → hemicolectomy), SSTR-PET, somatostatin analogs, PRRT (Lu-177 dotatate), everolimus/sunitinib, functioning-tumor syndromes (gastrinoma/insulinoma/glucagonoma/VIPoma, carcinoid syndrome).
+- `[[somatostatin-analogs]]` (med stub, `5-meds/`) — octreotide LAR/lanreotide; SSTR-positive NET symptom + antiproliferative control.
+
+**Connectivity:** Added inline links within the new pages (atrophic-gastritis, gastric-premalignant-conditions, peptic-ulcer-disease/ZES, pancreatic-cancer, pancreatic-cysts, colorectal-cancer, EUS/EGD/colonoscopy). Added back-link `[[gastroenteropancreatic-neuroendocrine-tumors]]` to `[[atrophic-gastritis]]` See Also (type 1 gastric NET ↔ autoimmune atrophic gastritis).
+
+**Index:** Added `[[gastroenteropancreatic-neuroendocrine-tumors]]` (Other), `[[somatostatin-analogs]]` (Meds), and `[[nccn-2026-net]]` (Consensus Statements & Other) to `index.md`.
+
+**Lint (light, no subagent fan-out — token budget + active concurrent writer):** Verified 0 broken links in the 3 new pages (basename resolution, 344 pages total on disk). Did **not** run a full parallel lint pass this cycle to avoid colliding with the concurrent NCCN ingest.
+
+**Remaining for user triage:**
+- `index.md` Sources section + footer counts need reconciliation once the concurrent NCCN ingest finishes — `[[nccn-2026-hcc]]` and `[[nccn-2026-biliary-tract-cancers]]` are on disk but were **not** yet in the index at the time of this entry; Gastric/Colon/Esophageal/GIST NCCN files remained uningested mid-run.
+- Pre-existing items unchanged: `wiki/.fuse_hidden0000000a00000001` (stale FUSE dup) and `.DS_Store` files (sandbox could not unlink from mount).
+- No git commit/push performed (matches existing workflow).
+
+---
+
+## [2026-06-15] lint | Scheduled ingest-and-lint — connectivity pass + hygiene
+
+**Context:** Scheduled `ingest-and-lint` run (autonomous). Ingest step was a no-op — full reconciliation of all 154 raw `GI Guidelines/` PDFs against `wiki/sources/` confirmed **0 uningested guidelines** (consistent with the 2026-06-14 entry noting the last one was captured).
+
+**Wiki health (clean):**
+- 339 wiki pages, 6,177 wiki-links, 154 source pages, 181 entity pages.
+- **0 orphan pages**, **0 genuinely broken links**, **0 unbalanced `[[ ]]`**. The only non-resolving `[[...]]` tokens are in this append-only `log.md` (`[[esophageal-manometry]]`, `[[hrem]]`, `[[wiki-links]]`) — historical/documentation text; real page is `[[high-resolution-manometry]]`, no stubs created per schema.
+- Links flagged in `[[7-concepts/pancreatic-cancer-screening]]` were false positives: escaped table-cell pipes (`[[slug\|alias]]`), all targets exist.
+
+**Connectivity added (13 new links across 13 pages):**
+- Inline first-mention links: `[[hypercontractile-esophagus]]`→[[dysphagia]], `[[primary-sclerosing-cholangitis]]`→[[tacrolimus]], `[[portal-vein-thrombosis]]`→[[colonoscopy]], `[[abnormal-liver-chemistries]]`→[[portal-vein-thrombosis]], `[[acute-diarrhea]]`→[[probiotics]], `[[pancreatic-cancer-screening]]`→[[colonoscopy]], `[[flip-panometry]]`→[[antireflux-surgery]], `[[capsule-endoscopy]]`→[[colonoscopy]], `[[poem]]`→[[dysphagia]], `[[semaglutide]]`→[[bariatric-surgery]].
+- See Also additions (target only appeared in a heading/frontmatter): `[[achalasia]]`+[[heller-myotomy]], `[[alcohol-associated-liver-disease]]`+[[liver-biopsy]], `[[ulcerative-colitis]]`+[[pouchitis]].
+
+**Hygiene fixes:** `wiki/index.md` `updated:` date corrected 2026-06-04 → 2026-06-15 (was stale despite 06-14 ingest).
+
+**Remaining for user triage (sandbox could not delete — host file lock / mount perms):**
+- `wiki/.fuse_hidden0000000a00000001` — stale git-tracked duplicate of an old `index.md` (FUSE leftover from the prior vault-corruption recovery). Remove on host: `git rm wiki/.fuse_hidden0000000a00000001` then delete.
+- 8 `.DS_Store` files (gitignored, cosmetic) could not be unlinked from the sandbox mount.
+- No git commit/push performed (matches existing workflow — prior edits remain uncommitted for manual review).
+
+---
+
+## [2026-06-14] ingest | ACG 2017 Preventive Care in IBD (last remaining uningested guideline)
+
+**Context:** Scheduled `ingest-and-lint` run; task = "ingest up to 4 guidelines + lint." Full raw-vs-`wiki/sources/` reconciliation of all 154 raw guideline PDFs found only **one** genuinely uningested file. Captured as a standalone **historical** source page, additive only (per the "do not overwrite newer info" instruction).
+
+**Skipped as duplicates (already ingested under different/mislabeled names):**
+- `ACG 2018 Management of Irritable Bowel Syndrome.pdf` = Lacy et al. → already `[[acg-2020-ibs]]` (filename year mislabeled).
+- `ACG 2014 Lynch.pdf` = already `[[usmstf-2014-lynch-syndrome]]` (re-confirmed dup, as in prior runs).
+- `AGA 2020 Colonoscopy Follow-Up (MSTF)`, `AGA 2020 Endoscopic Removal (MSTF)`, `AGA 2020 Malignant Colorectal Polyps (MSTF)`, `AGA 2022 CRC Screening Start-Stop (MSTF)` = the multi-society USMSTF docs already ingested as `[[usmstf-2020-followup-colonoscopy]]`, `[[usmstf-2020-endoscopic-removal]]`, `[[usmstf-2020-malignant-colorectal-polyps]]`, `[[usmstf-2021-crc-screening-age]]`.
+- `ASGE 2025 GERD.pdf` = already `[[asge-2024-gerd]]` (epub 2024 / print 2025).
+
+**Source created (historical, near-verbatim recommendation capture, bibliographic links):**
+- `[[acg-2017-ibd-preventive-care]]` — Farraye et al., Am J Gastroenterol 2017;112:241–258 (doi:10.1038/ajg.2016.537). All 14 GRADE statements verbatim (influenza/pneumococcal/zoster/varicella/yellow fever/meningococcal/Tdap-HAV-HBV-HPV vaccination, cervical screening, depression/anxiety, melanoma + NMSC, osteoporosis BMD, smoking cessation in CD). Flagged **superseded** by `[[acg-2025-ibd-preventive-care]]` (vaccine products/schedules dated — predates recombinant zoster vaccine).
+
+**Pages updated (additive only — no overwrite):**
+- `[[ibd-preventive-care]]` — appended historical source to frontmatter `sources:` + `## Sources`. (UC/CD disease scripts left untouched — the current 2025 version is likewise cited only on the concept page; mirrored that convention.)
+
+**Index/hygiene:** Added the new source entry to the ACG subsection of `index.md`; footer reconciled to 154 sources (index `## Sources` now lists 115 of 154). No `melanoma` stub created (out-of-scope non-GI disease — links removed from the source page instead).
+
+---
+
+## [2026-06-14] lint | Reconciliation + broken-link verification (post-ingest)
+
+**Scope:** Light lint paired with the ingest above (small, targeted — no parallel subagent fan-out needed).
+
+**Done:**
+- Whole-corpus raw-vs-sources audit (154 raw guideline PDFs): confirmed the wiki is now **fully caught up** on raw `GI Guidelines/` — 0 genuinely uningested guideline files remain after this pass (remainder are confirmed duplicates listed above).
+- Broken-link scan on the new/edited pages (basename resolution): **0 broken links** introduced.
+- `index.md` footer counts + Sources-listed tally reconciled to on-disk (154 sources).
+
+**Flagged for user triage (unchanged):**
+- `.DS_Store` cleanup still **blocked by mount permissions** (12 files across repo root + `wiki/`/`raw/` subtrees) — delete locally.
+- `index.md` `## Sources` section still lists only 115 of 154 source pages — full source-list reconciliation remains pending a future dedicated lint pass.
+- Website needs no HTML rebuild (fetches `index.md`/`README.md` live).
+
+---
+
+## [2026-06-10] ingest | 4 remaining historical guidelines (AASLD 2011 Hemochromatosis, AASLD/IDSA 2011 HCV Gt1, USMSTF 2014 Bowel Cleansing, SAGES 2021 POEM)
+
+**Context:** Scheduled `ingest-and-lint` run; task = "ingest 4 guidelines + lint." These were the only genuinely uningested raw guideline PDFs left (verified vs `wiki/sources/`; the previously flagged mislabeled "AASLD 2011 HCC" and "ACG 2014 Lynch" PDFs remain duplicates of already-ingested sources and were correctly skipped again). All four are older/superseded editions — captured as standalone historical source pages, additive only per the "do not overwrite newer info" instruction.
+
+**Sources created (each flagged historical, near-verbatim recommendation capture, bibliographic links):**
+- `[[aasld-2011-hemochromatosis]]` — 16 GRADE recs verbatim; TS+ferritin→*HFE* testing, biopsy if ALT/AST↑ or ferritin >1000 µg/L, phlebotomy to ferritin 50–100 µg/L, HCC surveillance in HH cirrhosis (RR≈20), no population screening. Complements `[[acg-2019-hereditary-hemochromatosis]]`.
+- `[[aasld-idsa-2011-hcv-genotype1]]` — 18 recs verbatim; boceprevir/telaprevir triple therapy + response-guided therapy + IL28B. **Obsolete** (pre-DAA); fully superseded by `[[aasld-idsa-2023-hcv]]`. Flagged "do not apply."
+- `[[acg-2014-bowel-cleansing]]` (USMSTF 2014) — 23 recs verbatim; split-dose superiority, 4–6 h/2 h timing rule, ≥85% adequate-prep per-physician benchmark, Mg/NaP cautions. Superseded for products by `[[acg-2025-bowel-prep]]`/`[[usmstf-2025-bowel-prep]]`.
+- `[[sages-2021-poem]]` — 4 GRADE recs; strong POEM>PD; POEM or LHM+fundoplication for subtypes I/II; POEM favored for subtype III; post-POEM GERD the key trade-off. Foundational to `[[sages-2024-poem]]` update.
+
+**Pages updated (additive only — no overwrite of newer content):**
+- `[[hereditary-hemochromatosis]]` — +source (frontmatter + `## Sources`).
+- `[[hepatitis-c]]` — +source (labeled historical/obsolete).
+- `[[poem]]` — +source; inline `[[heller-myotomy|LHM]]` link added; See Also expanded (`[[heller-myotomy]]`, `[[high-resolution-manometry]]`).
+- `[[achalasia]]` — +source (frontmatter + `## Sources`).
+- `[[colonoscopy]]` — +source.
+
+**Stub created (new connection, correct folder):**
+- `[[heller-myotomy]]` in `4-advanced-gi-procedures/foregut-and-motility-procedures/` — resolves new See Also links from `[[poem]]`/`[[sages-2021-poem]]`; LHM is a distinct advanced procedure warranting its own page.
+
+**Index/hygiene:**
+- Added all 4 new source entries + `[[heller-myotomy]]` + the previously-unlisted `[[sages-2024-poem]]` to `index.md`; `[[poem]]` count corrected to 2 sources.
+- Footer reconciled to current on-disk counts (152 sources | 97 disease scripts | 18 dx schemas | 2 general proc | 18 advanced proc | 14 meds | 0 anatomy | 32 concepts | 1 synthesis). Index `## Sources` now lists 113 of 152 — full source-list reconciliation still pending.
+
+**Verification:** Full-wiki broken-link scan run post-edits (basename resolution); 0 broken links introduced by this pass. Website needs no HTML rebuild (fetches `index.md`/`README.md` live).
+
+---
+
 ## [2026-06-09] lint | Inline text relations pass (wiki-wide)
 
 **Scope:** Scheduled `ingest-and-lint` run; lint task = "create inline text relations." Deterministic densification of in-text `[[slug|Displayed Words]]` links on first plain-text mention of any entity that already has a page.

@@ -3,42 +3,10 @@ title: "Achalasia"
 category: disease-script
 tags: [achalasia, esophageal-motility, dysphagia, hrm, poem, heller-myotomy, pneumatic-dilation, foregut]
 created: 2026-05-15
-updated: 2026-05-15
-sources: ["[[acg-2020-achalasia]]", "[[asge-2020-achalasia]]"]
+updated: 2026-06-10
+sources: ["[[acg-2020-achalasia]]", "[[asge-2020-achalasia]]", "[[sages-2021-poem]]"]
 ---
 # Achalasia
-
-## Contents
-
-- [[#Assessment]]
-  - [[#Establishing the Diagnosis]]
-  - [[#Classification / Typing (Chicago Classification — clinically essential)]]
-- [[#Differential Diagnosis]]
-- [[#Diagnostics]]
-  - [[#HRM (High-Resolution Manometry)]]
-  - [[#Timed Barium Esophagram (TBE)]]
-  - [[#Upper Endoscopy]]
-  - [[#FLIP (Functional Lumen Imaging Probe)]]
-  - [[#Eckardt Score (ES)]]
-- [[#Therapeutics]]
-  - [[#Treatment Algorithm]]
-  - [[#Pneumatic Dilation (PD)]]
-  - [[#Laparoscopic Heller Myotomy (LHM)]]
-  - [[#Per-Oral Endoscopic Myotomy (POEM)]]
-  - [[#Botulinum Toxin Injection]]
-  - [[#Pharmacotherapy]]
-  - [[#Esophagectomy]]
-  - [[#Post-Therapy Monitoring and Retreatment]]
-  - [[#Cancer Surveillance]]
-
----
-
-Esophageal motility disorder characterized by **aberrant peristalsis and insufficient LES relaxation** due to selective loss of inhibitory neurons in the myenteric plexus. Excitatory neurons (ACh) are preserved; inhibitory neurons (VIP, NO) are lost → unopposed cholinergic activity → failure of LES relaxation and aperistalsis. Incurable; all treatments are palliative.
-
-- Incidence: 0.03–1.63/100,000/yr; prevalence 1.8–12.6/100,000
-- 20,000–40,000 affected in the US; equal sex distribution; peak onset age 30–60
-
----
 
 ## Assessment
 
@@ -245,7 +213,7 @@ flowchart TD
 
 ## See Also
 
-[[high-resolution-manometry]], [[flip-panometry]], [[poem]], [[chicago-classification-v4]], [[distal-esophageal-spasm]], [[hypercontractile-esophagus]], [[gerd]], [[eosinophilic-esophagitis]], [[upper-endoscopy]]
+[[high-resolution-manometry]], [[flip-panometry]], [[poem]], [[chicago-classification-v4]], [[distal-esophageal-spasm]], [[hypercontractile-esophagus]], [[gerd]], [[eosinophilic-esophagitis]], [[upper-endoscopy]], [[heller-myotomy]]
 
 ---
 
@@ -253,3 +221,4 @@ flowchart TD
 
 1. [[acg-2020-achalasia|ACG 2020: Diagnosis and Management of Achalasia]]
 2. [[asge-2020-achalasia|ASGE Guideline: Management of Achalasia (2020)]]
+3. [[sages-2021-poem|SAGES Guidelines for the Use of Peroral Endoscopic Myotomy (POEM) for the Treatment of Achalasia (2021)]]

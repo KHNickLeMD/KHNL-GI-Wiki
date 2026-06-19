@@ -74,7 +74,7 @@ Gastric adenocarcinoma
 
 | Condition | Distinguishing features |
 |---|---|
-| Autoimmune gastritis (AIG) | Corpus-predominant atrophy; anti-parietal cell Ab; B12 deficiency; achlorhydria; elevated gastrin; type I carcinoid risk |
+| Autoimmune gastritis (AIG) | Corpus-predominant atrophy; anti-parietal cell Ab; B12 deficiency; achlorhydria; elevated gastrin; [[gastroenteropancreatic-neuroendocrine-tumors|type 1 gastric carcinoid (NET)]] risk |
 | H. pylori-associated gastritis | Active H. pylori infection; antrum-predominant; resolved with eradication |
 | Reactive (chemical) gastropathy | NSAID use, bile reflux; foveolar hyperplasia, no atrophy or GIM |
 | Ménétrier's disease | Giant gastric folds; protein-losing gastropathy; TGF-α excess |

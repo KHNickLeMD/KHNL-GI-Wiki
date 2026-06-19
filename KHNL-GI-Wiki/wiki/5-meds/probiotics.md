@@ -9,14 +9,6 @@ sources: [aga-2020-probiotics]
 
 Probiotics are live microorganisms that, when administered in adequate amounts, confer a health benefit on the host (FAO/WHO definition). Their effects are **strain-specific and dose-specific** — different strains, and combinations of strains, have widely different biologic activities, so results from one formulation cannot be generalized to "probiotics" as a class. Because probiotics are sold as supplements (not drugs) in the US and Europe, the industry is largely unregulated, marketing is direct-to-consumer, and product viability/manufacturing details are frequently unavailable. These features make pooled meta-analyses across heterogeneous strains/populations potentially misleading.
 
-## Contents
-- [[#AGA 2020 Recommendations by Condition]]
-  - [[#Conditional recommendation FOR]]
-  - [[#Conditional recommendation AGAINST]]
-  - [[#No recommendation (knowledge gap — trial only)]]
-- [[#Named Strain Formulations]]
-- [[#Practical Notes]]
-
 ## AGA 2020 Recommendations by Condition
 
 The AGA 2020 guideline ([[aga-2020-probiotics]]) used GRADE to grade probiotic use across eight GI indications. Strength is **conditional** unless noted; most indications were "no recommendation" because of a knowledge gap.

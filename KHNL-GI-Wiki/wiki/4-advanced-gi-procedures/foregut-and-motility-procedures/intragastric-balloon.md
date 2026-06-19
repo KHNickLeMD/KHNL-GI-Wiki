@@ -9,16 +9,6 @@ sources: [aga-2021-intragastric-balloons]
 
 # Intragastric Balloon (IGB)
 
-## Contents
-- [[#Overview]]
-- [[#Indications and Patient Selection]]
-- [[#Efficacy]]
-- [[#Device Types]]
-- [[#Periprocedural Management]]
-- [[#Adverse Events]]
-- [[#After Removal]]
-- [[#See Also]]
-
 ## Overview
 
 The **intragastric balloon (IGB)** is an endoscopically placed, restrictive endoscopic bariatric therapy for [[obesity|weight management]]. A balloon is positioned in the gastric lumen and inflated with saline (fluid-filled) or air (gas-filled) to promote early satiety and reduced intake, typically for a 6-month implantation period before removal. IGBs first reached the US market in 1982 but were withdrawn in the 1980s–90s after severe adverse events; newer models re-entered the market in the last two decades. Per [[aga-2021-intragastric-balloons|AGA 2021]], IGB is positioned as an adjunct that augments lifestyle modification, not a standalone cure.

@@ -7,21 +7,6 @@ updated: 2026-06-04
 sources: []
 ---
 
-## Contents
-- [[#Definition / Scope]]
-- [[#Mechanistic Classification]]
-- [[#Differential Diagnosis]]
-  - [[#Watery — Secretory]]
-  - [[#Watery — Osmotic]]
-  - [[#Inflammatory]]
-  - [[#Fatty (Malabsorptive / Steatorrhea)]]
-- [[#Diagnostic Algorithm]]
-- [[#Key Tests]]
-- [[#Red Flags / Alarm Features]]
-- [[#See Also]]
-
----
-
 ## Definition / Scope
 
 Chronic diarrhea is decreased stool consistency (loose or watery) lasting **> 4 weeks**. This duration threshold distinguishes it from [[acute-diarrhea]] (<14 days) and persistent diarrhea (14–30 days), and shifts the differential away from infection toward non-infectious causes. Diarrhea is defined by **stool consistency** (Bristol 6–7), not frequency alone; it must be distinguished from **pseudodiarrhea** (frequent small volumes with urgency, as in proctitis or [[irritable-bowel-syndrome|IBS]]) and **[[fecal-incontinence|fecal incontinence]]**.

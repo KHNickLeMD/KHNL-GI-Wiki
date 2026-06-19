@@ -3,8 +3,8 @@ title: "Colorectal Cancer"
 category: disease-script
 tags: [crc, colorectal-cancer, adenocarcinoma, oncology, screening, surveillance, post-resection, metachronous, rectal-cancer]
 created: 2026-05-19
-updated: 2026-05-19
-sources: [acg-2015-hereditary-gi-cancer, usmstf-2015-crc-surveillance, usmstf-2016-fit-screening, acg-2021-crc-screening]
+updated: 2026-06-18
+sources: [acg-2015-hereditary-gi-cancer, usmstf-2015-crc-surveillance, usmstf-2016-fit-screening, acg-2021-crc-screening, nccn-2026-colon-cancer]
 ---
 
 *Screening is covered in [[colorectal-cancer-screening]] and in detail below (FIT). Hereditary syndromes: [[lynch-syndrome]], [[familial-adenomatous-polyposis]], [[peutz-jeghers-syndrome]], [[juvenile-polyposis-syndrome]], [[cowden-syndrome]], [[serrated-polyposis-syndrome]]. Polyp management: [[polypectomy-emr]] and [[colonoscopy]].*
@@ -36,6 +36,41 @@ sources: [acg-2015-hereditary-gi-cancer, usmstf-2015-crc-surveillance, usmstf-20
 - Adjuvant chemo (FOLFOX/CAPOX) for stage III, high-risk stage II
 - Neoadjuvant chemoradiation or total neoadjuvant therapy (TNT) for locally advanced rectal cancer
 - Metastatic: FOLFOX/FOLFIRI ± bevacizumab/cetuximab; immunotherapy for MSI-H
+
+### Oncologic Management (NCCN 2026)
+
+Per [[nccn-2026-colon-cancer]]. **Universal MMR/MSI testing** is recommended for all colon cancers (Lynch screening — see [[lynch-syndrome]] — and immunotherapy candidacy). For metastatic disease, profile **RAS (KRAS/NRAS), BRAF V600E, HER2 (ERBB2), and NTRK**; **DPYD** testing informs fluoropyrimidine toxicity risk before treatment.
+
+**Localized disease** is treated with endoscopic resection (selected favorable T1 cancers) or colectomy with regional lymphadenectomy (≥12 nodes for adequate staging). **Adjuvant FOLFOX or CAPOX** is given for stage III and high-risk stage II disease, with duration (3 vs 6 months) **risk-stratified per IDEA**; MSI-H stage II tumors generally do not benefit from single-agent fluoropyrimidine.
+
+**Metastatic therapy is biomarker- and sidedness-directed:**
+
+- **Anti-EGFR (cetuximab/panitumumab)** only for **RAS-wild-type, BRAF-wild-type, left-sided** primaries.
+- **Bevacizumab** added to chemotherapy backbones broadly.
+- **BRAF V600E** → **encorafenib + cetuximab**.
+- **MSI-H/dMMR** → **pembrolizumab** first-line (or nivolumab ± ipilimumab).
+- **HER2-amplified, RAS-wild-type** → HER2-directed therapy (trastuzumab + tucatinib/pertuzumab, or trastuzumab deruxtecan).
+- **KRAS G12C** → G12C inhibitor (adagrasib/sotorasib) + anti-EGFR in later lines.
+- **Resectable oligometastatic disease** (especially liver-limited) → curative-intent resection/ablation integrated with systemic therapy.
+
+```mermaid
+flowchart TD
+    A["Colon adenocarcinoma<br/>(colonoscopy + biopsy)"] --> B["Stage: CT C/A/P, CEA, TNM;<br/>universal MMR/MSI; if metastatic add<br/>RAS, BRAF V600E, HER2, NTRK, DPYD"]
+    B --> C{"Stage?"}
+    C -->|"Early T1 (favorable, in polyp)"| ER["Endoscopic resection"]
+    C -->|"Localized (II–III)"| S["Colectomy + regional lymphadenectomy"]
+    S --> ADJ{"Stage III or high-risk II?"}
+    ADJ -->|"Yes"| AC["Adjuvant FOLFOX / CAPOX<br/>(3 vs 6 mo per IDEA)"]
+    ADJ -->|"No / low-risk II"| OBS["Observation"]
+    C -->|"Metastatic"| M{"Biomarkers + sidedness"}
+    M -->|"MSI-H / dMMR"| IO["Pembrolizumab (or nivo±ipi)"]
+    M -->|"RAS-WT, BRAF-WT, left-sided"| EGFR["Chemo + anti-EGFR (cetuximab/panitumumab) ± bevacizumab"]
+    M -->|"BRAF V600E"| BR["Encorafenib + cetuximab"]
+    M -->|"HER2-amplified, RAS-WT"| H2["HER2-directed therapy"]
+    M -->|"Resectable oligomets (liver)"| RES["Resection/ablation + systemic therapy"]
+```
+
+*Algorithm — NCCN colon cancer management, recreated in original form (not an NCCN figure). ([[nccn-2026-colon-cancer]])*
 
 ---
 
@@ -256,3 +291,4 @@ The ACG 2021 and USMSTF 2021 guidelines do not supersede the FIT-specific operat
 2. [[usmstf-2015-crc-surveillance|USMSTF 2015: Colonoscopy Surveillance after Colorectal Cancer Resection]]
 3. [[usmstf-2016-fit-screening|USMSTF 2016 — Recommendations on Fecal Immunochemical Testing to Screen for Colorectal Neoplasia]]
 4. [[acg-2021-crc-screening|ACG 2021 Colorectal Cancer Screening Guidelines]]
+5. [[nccn-2026-colon-cancer|NCCN Clinical Practice Guidelines in Oncology: Colon Cancer (Version 2.2026)]]

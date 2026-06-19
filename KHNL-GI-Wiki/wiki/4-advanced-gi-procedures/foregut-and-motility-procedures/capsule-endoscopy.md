@@ -11,7 +11,7 @@ sources: [acg-2015-small-bowel-bleeding]
 
 Video capsule endoscopy (VCE) is the first-line procedure for small bowel evaluation after exclusion of upper and lower GI sources. The capsule measures 26×11 mm², takes images at 2 frames/s over 8–12 h, and evaluates 79–90% of the small bowel. Diagnostic yield for suspected [[small-bowel-bleeding|small bowel bleeding]]: 38–83%. Sensitivity 94–97%, specificity 83–100%. NPV 83–100%.
 
-Key indications: [[small-bowel-bleeding]], suspected small bowel Crohn's ([[crohns-disease]]), iron-deficiency anemia with negative EGD/colonoscopy, polyposis syndrome surveillance ([[peutz-jeghers-syndrome]], [[familial-adenomatous-polyposis]]).
+Key indications: [[small-bowel-bleeding]], suspected small bowel Crohn's ([[crohns-disease]]), iron-deficiency anemia with negative EGD/[[colonoscopy]], polyposis syndrome surveillance ([[peutz-jeghers-syndrome]], [[familial-adenomatous-polyposis]]).
 
 Key contraindication: known or suspected obstruction/stenosis — risk of capsule retention (~1.5% overall, up to 13% in Crohn's). Perform patency capsule or CTE first if obstruction suspected.
 

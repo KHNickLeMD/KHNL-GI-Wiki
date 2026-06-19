@@ -4,7 +4,7 @@ category: concept
 tags: [ibd, crohns-disease, ulcerative-colitis, preventive-care, vaccinations, cancer-screening, osteoporosis, depression, anxiety, immune-modifying-therapy]
 created: 2026-05-15
 updated: 2026-05-15
-sources: [acg-2025-ibd-preventive-care]
+sources: [acg-2025-ibd-preventive-care, acg-2017-ibd-preventive-care]
 ---
 
 Patients with [[inflammatory-bowel-disease|IBD]] ([[crohns-disease]] and [[ulcerative-colitis]]) require proactive health maintenance beyond GI disease management. More than 70% of IBD patients will at some time be on immune-modifying therapy, significantly elevating the risk of vaccine-preventable infections, certain malignancies, and osteoporosis. Gastroenterologists should not assume primary care manages these issues — verification, documentation, and administration at GI visits is expected.
@@ -111,3 +111,4 @@ Conventional DEXA risk factors apply: age, female sex, low BMI, smoking, family 
 ## Sources
 
 1. [[acg-2025-ibd-preventive-care|ACG 2025: Preventive Care in Inflammatory Bowel Disease]]
+2. [[acg-2017-ibd-preventive-care|ACG Clinical Guideline: Preventive Care in Inflammatory Bowel Disease (2017)]] *(historical / superseded)*

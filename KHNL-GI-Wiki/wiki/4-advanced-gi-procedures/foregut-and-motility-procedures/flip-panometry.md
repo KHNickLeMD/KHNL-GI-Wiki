@@ -95,7 +95,7 @@ Six-category matrix combining EGJ Opening × Contractile Response:
 ### Obstruction with Normal Contractility (REO + Normal CR)
 
 - Suggests a mechanical rather than primary motor etiology
-- Common post-antireflux surgery (tight/twisted wrap)
+- Common post-[[antireflux-surgery]] (tight/twisted wrap)
 - Warrants structural evaluation (endoscopy, barium swallow) before manometry-directed therapy
 
 ### Spastic Classifications

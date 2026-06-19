@@ -1,7 +1,7 @@
 ---
 title: "Wiki Index"
 category: index
-updated: 2026-06-04
+updated: 2026-06-15
 ---
 
 # KHNL GI Encyclopedia — Master Index
@@ -27,8 +27,8 @@ updated: 2026-06-04
 - [[distal-esophageal-spasm]] — DES: Chicago v4.0 — ≥20% premature contractions, DCI >450, normal IRP; CCBs/nitrates/POEM for refractory (stub)
 - [[hypercontractile-esophagus]] — Jackhammer esophagus: Chicago v4.0 — DCI >8000 in ≥20% swallows; not absolute contraindication to ARS if objective GERD (stub)
 - [[ineffective-esophageal-motility]] — IEM: Chicago v4.0 revised — ≥70% ineffective or ≥50% failed; fragmented peristalsis eliminated; assess peristaltic reserve pre-ARS (stub)
-- [[esophageal-cancer]] — Esophageal cancer: adenocarcinoma (distal/Barrett's) vs. SCC (mid/upper); progressive solid dysphagia + weight loss; EGD/EUS/PET staging; endoscopic resection for T1a vs. neoadjuvant CRT + esophagectomy (stub)
-- [[esophageal-adenocarcinoma]] — EAC: metaplasia–dysplasia–carcinoma sequence from Barrett's; EET for T1a/HGD, esophagectomy for T1b sm2-3 (stub) (2 sources)
+- [[esophageal-cancer]] — Esophageal/EGJ cancer: adenocarcinoma (distal/Barrett's) vs. SCC (mid/upper); progressive solid dysphagia + weight loss; EGD/EUS/PET staging; NCCN ADDT — endoscopic resection (T1a) vs perioperative FLOT±durvalumab/CROSS chemoRT + esophagectomy vs definitive chemoRT (SCC); metastatic biomarker therapy (HER2/PD-L1 CPS/MSI-H); treatment-algorithm Mermaid (1 source)
+- [[esophageal-adenocarcinoma]] — EAC: metaplasia–dysplasia–carcinoma sequence from Barrett's; EET for T1a/HGD, esophagectomy for T1b sm2-3; oncologic staging on esophageal-cancer (NCCN) (3 sources)
 
 #### GE Junction
 
@@ -43,7 +43,7 @@ updated: 2026-06-04
 
 #### Gastric (continued)
 
-- [[gastric-adenocarcinoma]] — Gastric Adenocarcinoma: intestinal vs diffuse, Correa cascade, staging, endoscopic vs surgical resection (stub)
+- [[gastric-adenocarcinoma]] — Gastric Adenocarcinoma: intestinal vs diffuse (Lauren), Correa cascade, EUS/CT/PET + diagnostic laparoscopy staging; NCCN ADDT — endoscopic resection (T1a) vs perioperative FLOT + gastrectomy/D2 (± dostarlimab for MSI-H/dMMR) vs metastatic biomarker therapy (HER2→trastuzumab/T-DXd, PD-L1 CPS→nivo/pembro, claudin 18.2→zolbetuximab); treatment-algorithm Mermaid (1 source)
 
 - [[helicobacter-pylori-infection]] — H. pylori: ADDT — epidemiology, pathogenesis, diagnosis, eradication regimens; 2024 update: BQT Strong, vonoprazan, no empiric CTT (2 sources)
 - [[gastric-premalignant-conditions]] — GPMC: ADDT — Correa cascade, GIM surveillance, dysplasia/ESD referral, H. pylori eradication (1 source)
@@ -66,7 +66,7 @@ updated: 2026-06-04
 - [[ulcerative-colitis]] — Ulcerative colitis: ADDT — proctitis-to-pancolitis, 5-ASA/biologics/JAK/S1P modulators, ASUC management (2 sources)
 - [[pouchitis]] — Ileal pouch inflammation post-IPAA; antibiotics, probiotics (8-strain combo); stub (1 source)
 - [[irritable-bowel-syndrome]] — IBS: ADDT — Rome IV/V criteria, positive diagnostic strategy, calprotectin + celiac serology screen, low-FODMAP, soluble fiber, TCA, secretagogues (linaclotide/plecanatide/lubiprostone/tegaserod) for IBS-C; rifaximin/alosetron/eluxadoline for IBS-D; gut-directed psychotherapy (2 sources)
-- [[colorectal-cancer]] — CRC: TNM staging, surgical resection, adjuvant FOLFOX, TNT for rectal cancer, immunotherapy for MSI-H, post-resection surveillance (perioperative → 1y → 4y → 9y → q5y), Lynch universal testing, FIT screening performance/thresholds, rectal cancer local surveillance (2 sources)
+- [[colorectal-cancer]] — CRC: TNM staging, surgical resection, adjuvant FOLFOX, TNT for rectal cancer, immunotherapy for MSI-H, post-resection surveillance (perioperative → 1y → 4y → 9y → q5y), Lynch universal testing, FIT screening performance/thresholds, rectal cancer local surveillance; NCCN oncologic mgmt — universal MMR/MSI, RAS/BRAF/HER2/NTRK/DPYD, adjuvant FOLFOX/CAPOX (IDEA duration), biomarker-/sidedness-directed metastatic therapy; treatment-algorithm Mermaid (5 sources)
 - [[norovirus]] — Norovirus gastroenteritis: leading cause of acute viral diarrhea, fecal-oral/fomite transmission, supportive care (stub)
 - [[rotavirus]] — Rotavirus: vaccination impact, pediatric predominance, ORS management (stub)
 - [[campylobacter-infection]] — Campylobacter: FQ resistance, azithromycin preferred, Guillain-Barré association (stub)
@@ -102,7 +102,8 @@ updated: 2026-06-04
 - [[heydes-syndrome]] — Heyde's syndrome: aortic stenosis + angioectasia + acquired vWF deficiency, LVAD parallel, AVR resolves coagulopathy (stub)
 ### Hepatopancreaticobiliary Diseases
 
-- [[cholangiocarcinoma]] — Cholangiocarcinoma: iCCA/pCCA/dCCA — PSC risk, MRCP/EUS-FNA/FISH, combined-modality tissue acquisition sensitivities, transplant needle-track-seeding caution, Mayo neoadjuvant LT protocol for pCCA, gem/cis first-line (2 sources)
+- [[cholangiocarcinoma]] — Cholangiocarcinoma: iCCA/pCCA/dCCA — PSC risk, MRCP/EUS-FNA/FISH, combined-modality tissue acquisition sensitivities, transplant needle-track-seeding caution, Mayo neoadjuvant LT protocol for pCCA, gem/cis first-line; NCCN oncologic mgmt — RNA-based molecular profiling (FGFR2/IDH1/HER2/BRAF/NTRK/RET/NRG1/MSI-H), gem+cis+checkpoint inhibitor 1st-line, adjuvant capecitabine (BILCAP), iCCA transplant exception (3 sources)
+- [[gallbladder-cancer]] — Gallbladder cancer: most common biliary tract malignancy; often incidental post-cholecystectomy; T-stage-driven re-resection; neoadjuvant for advanced disease; adjuvant capecitabine; gem+cis+checkpoint 1st-line; HER2/BRAF/NTRK/RET/MSI-H profiling (1 source)
 - [[pancreatic-cancer]] — Pancreatic ductal adenocarcinoma: ADDT — diagnosis, genetic-risk syndromes, high-risk surveillance (EUS/MRI), therapeutics (3 sources)
 - [[hereditary-pancreatitis]] — Autosomal-dominant (PRSS1) pancreatitis with elevated pancreatic cancer risk (stub) (1 source)
 
@@ -120,7 +121,7 @@ updated: 2026-06-04
 - [[aki-in-cirrhosis]] — AKI in Cirrhosis/HRS-AKI: ADDT — ICA-AKI staging, HRS-AKI vs. ATN distinction, FEUrea preferred over FENa, terlipressin dosing/contraindications, RRT as bridge to transplant only, MELD paradox (1 source)
 - [[chronic-pancreatitis]] — Chronic pancreatitis: ADDT — Mechanistic vs. clinicopathologic definition; CT/MRI first-line then EUS/sMRCP/histology; TIGAR-O v2.0; M-ANNHEIM scoring; PRSS1/SPINK1/CFTR/CTRC genetics; surgery > endoscopy for obstructive CP (Cahen RCT); PERT for EPI only (not pain); antioxidants/celiac plexus block; alcohol + smoking cessation (Strong); no routine cancer screening (1 source)
 - [[autoimmune-hepatitis]] — AIH: ADDT — simplified score (ANA/SMA/anti-LKM1/IgG/histology), type 1 vs. 2, budesonide contraindicated in cirrhosis/acute severe AIH, MMF preferred second-line over TAC, acute severe AIH/ALF → LT, withdrawal after ≥2y remission (50–87% relapse), AIH-PBC/PSC overlap (Paris criteria), anti-SLA=never withdraw, post-LT recurrence 36–68% at 5y (3 sources)
-- [[hepatocellular-carcinoma]] — HCC: LI-RADS non-invasive diagnosis (LR-1→LR-5/LR-M/LR-TIV), BCLC 2022 staging table, surveillance criteria (Table 1: cirrhosis/non-cirrhotic HBV/PAGE-B), recall algorithm, TACE/TARE locoregional ladder with unsuitability/refractoriness criteria, systemic therapy dosing (atezo+bev, durvalumab+tremelimumab, sorafenib 400 mg BID, lenvatinib 12/8 mg QD, regorafenib, cabozantinib, ramucirumab), adjuvant atezo+bev contraindicated post-resection/ablation (AASLD 2025 GS32R, Strong Level 1; IMbrave050 second-interim HR=0.90 non-significant), transplant criteria (Milan/UCSF/Up-to-seven/Extended Toronto/Kyoto/UNOS-DS; AFP thresholds), post-LT mTOR IS (within-Milan), recurrence management (4 sources)
+- [[hepatocellular-carcinoma]] — HCC: LI-RADS non-invasive diagnosis (LR-1→LR-5/LR-M/LR-TIV), BCLC 2022 staging table, surveillance criteria (Table 1: cirrhosis/non-cirrhotic HBV/PAGE-B), recall algorithm, TACE/TARE locoregional ladder with unsuitability/refractoriness criteria, systemic therapy dosing (atezo+bev, durvalumab+tremelimumab, sorafenib 400 mg BID, lenvatinib 12/8 mg QD, regorafenib, cabozantinib, ramucirumab), adjuvant atezo+bev contraindicated post-resection/ablation (AASLD 2025 GS32R, Strong Level 1; IMbrave050 second-interim HR=0.90 non-significant), transplant criteria (Milan/UCSF/Up-to-seven/Extended Toronto/Kyoto/UNOS-DS; AFP thresholds), post-LT mTOR IS (within-Milan), recurrence management; NCCN 2026 first-line tiering (ipilimumab+nivolumab elevated to Preferred category 1 per CheckMate-9DW; atezo+bev; durvalumab+tremelimumab), strengthened EBRT/SBRT role (6 sources)
 - [[immune-checkpoint-inhibitor-hepatitis]] — ICI hepatitis: onset 4–12 weeks, withhold ICI + steroids ± MMF by grade, ipilimumab combinations highest rate (stub)
 - [[spontaneous-bacterial-peritonitis]] — SBP: ADDT — PMN ≥250/mm³ threshold, culture-negative SBP, bacterascites distinction, cefotaxime community vs. pip-tazo nosocomial, albumin 1.5+1.0 g/kg mandatory, ciprofloxacin prophylaxis (norfloxacin unavailable in US) (1 source)
 - [[primary-sclerosing-cholangitis]] — PSC: ADDT — 3D MRI/MRCP dx (avoid ERCP for dx), IgG4 testing, LS by TE/MRE for fibrosis staging, UDCA 13–23 mg/kg/d conditional (never ≥28), annual MRI/MRCP ± CA 19-9 CCA surveillance (not <18y/small-duct), FISH for relevant strictures, HD colonoscopy q1–2y from age 15 in PSC-IBD, LT for ESLD/recurrent cholangitis/early CCA, rPSC 10–37% (3 sources)
@@ -143,6 +144,8 @@ updated: 2026-06-04
 
 ### Other
 
+- [[gastroenteropancreatic-neuroendocrine-tumors]] — GEP-NETs: ADDT — WHO grading (Ki-67/mitoses; NET G1/2/3 vs NEC), gastric types 1/2/3, site/size-based endoscopic vs surgical resection, SSTR-PET, somatostatin analogs, PRRT (Lu-177 dotatate), functioning-tumor syndromes; treatment-algorithm Mermaid (1 source)
+- [[gastrointestinal-stromal-tumor]] — GIST: ADDT — most common GI mesenchymal tumor; KIT(CD117)/DOG1+; KIT/PDGFRA/SDH mutational testing (essential, predictive); risk by size/mitoses/site + rupture; surgery + neoadjuvant/adjuvant imatinib (≥3y high-risk); TKI sequence imatinib→sunitinib→regorafenib→ripretinib, avapritinib for PDGFRA D842V; treatment-algorithm Mermaid (1 source)
 - [[obesity]] — Weight-management framework: lifestyle, pharmacotherapy, endoscopic and surgical bariatric therapy (2 sources)
 - [[post-transplant-lymphoproliferative-disorder]] — PTLD: EBV-driven lymphoproliferation post-transplant IS, IS reduction first-line, rituximab (stub)
 
@@ -164,7 +167,7 @@ updated: 2026-06-04
 - [[ascites]] — Ascites: SAAG-based differential, grade 1–3 classification, diagnostic paracentesis algorithm, spironolactone/furosemide dosing, LVP + albumin 6–8 g/L, TIPS criteria, hyponatremia management (1 source)
 - [[upper-gi-bleeding]] — Upper GI Bleeding: GBS scoring (0–1 = safe discharge), restrictive transfusion at Hgb 7, erythromycin pre-endoscopy, 24h endoscopy standard, Forrest classification with rebleeding %, epinephrine never monotherapy, high-dose PPI post-hemostasis, TAE over surgery for failure (1 source)
 - [[abnormal-liver-chemistries]] — Abnormal liver chemistries: true healthy ALT ULN (29–33 M / 19–25 F), R-ratio hepatocellular vs. cholestatic, tiered AST/ALT algorithm (5 tiers), ALP + GGT evaluation, bilirubin fractionation, liver biopsy indications (1 source)
-- [[acute-diarrhea]] — Acute diarrheal infections: severity classification, viral/bacterial/parasitic/non-infectious differential, ACG 2016 Figure 1 stepwise algorithm, ORS/loperamide/antibiotic table, parasite-specific treatment, postinfectious IBS (1 source)
+- [[acute-diarrhea]] — Acute diarrheal infections: severity classification, viral/bacterial/parasitic/non-infectious differential, ACG 2016 Figure 1 stepwise algorithm, ORS/loperamide/antibiotic table, parasite-specific treatment, IDSA 2017 additions (enteric fever, STEC/HUS monitoring, empiric-antibiotic exceptions, pediatric ancillary care, vaccines), postinfectious IBS (2 sources)
 - [[small-bowel-bleeding]] — Small bowel bleeding: SBB/potential-SBB/OGIB terminology, age-stratified DDx, 3 diagnostic algorithms (occult, brisk, sub-acute), VCE/DAE/CTE/angiography roles, angioectasia treatment (1 source)
 - [[liver-disease-in-pregnancy]] — Liver disease in pregnancy: physiologic lab changes table, trimester-stratified DDx, Swansea criteria for AFLP, HG/IHCP/preeclampsia/HELLP/AFLP, viral hepatitis, chronic liver disease management in pregnancy (1 source)
 
@@ -188,7 +191,8 @@ updated: 2026-06-04
 - [[bariatric-surgery]] — Surgical weight-loss procedures (sleeve, RYGB, banding) (stub)
 
 - [[high-resolution-manometry]] — HRM: Chicago v4.0 protocol, manufacturer-specific IRP thresholds, key metrics (IRP/DCI/peristaltic integrity), pre-ARS mandatory (stub)
-- [[poem]] — POEM: achalasia type-driven myotomy, Type III preferred, G-POEM for gastroparesis, GERD in 39% post-POEM (lifelong PPI + Barrett's surveillance) (stub)
+- [[poem]] — POEM: achalasia type-driven myotomy, Type III preferred, G-POEM for gastroparesis, GERD in 39% post-POEM (lifelong PPI + Barrett's surveillance) (2 sources)
+- [[heller-myotomy]] — Laparoscopic Heller myotomy (LHM) + partial fundoplication for achalasia; surgical alternative to POEM/PD; built-in anti-reflux wrap → less post-op GERD than POEM (stub)
 - [[flip-panometry]] — FLIP Panometry v2.0: 16-cm EndoFLIP protocol, EGJ Opening (REO/NEO) × Contractile Response → 6-class motility matrix; Normal = high NPV for achalasia; Non-spastic Obstruction = EGJOO equivalent (1 source)
 - [[anorectal-manometry]] — HR-ARM + BET: dyssynergic defecation types I–IV, RAIR, sphincter assessment for fecal incontinence, pre-op evaluation (stub)
 - [[capsule-endoscopy]] — Capsule endoscopy: small bowel visualization, SBB first-line investigation, patency capsule pre-DAE, diagnostic yield by indication (stub)
@@ -228,6 +232,7 @@ updated: 2026-06-04
 - [[probiotics]] — Probiotics: strain/dose-specific; AGA FOR (C diff prevention, pouchitis, NEC), AGAINST (peds gastroenteritis), trial-only elsewhere (1 source)
 - [[bismuth-quadruple-therapy]] — Bismuth-containing quadruple therapy: components, indications, and efficacy (1 source)
 - [[direct-acting-antivirals]] — DAA drug classes (NS3/4A + NS5A + NS5B); pangenotypic regimens (G/P, SOF/VEL); DDI table (cyclosporine); decompensated cirrhosis contraindications; see [[hepatitis-c]] for treatment tables (1 source)
+- [[somatostatin-analogs]] — Octreotide LAR/lanreotide; symptom + antiproliferative control in SSTR-positive GEP-NETs; carcinoid-syndrome and carcinoid-crisis management; PRRT timing (stub) (1 source)
 ---
 
 ## Anatomy
@@ -317,6 +322,7 @@ updated: 2026-06-04
 - [[acg-2018-crohns]] — ACG 2018: Management of Crohn's Disease in Adults — Lichtenstein et al. Am J Gastroenterol 2018;113:481–517 (historical; 60 recs; superseded by acg-2025-crohns — drug positioning predates IL-23/JAK agents)
 - [[acg-2017-hp-guidelines]] — ACG Clinical Guideline: Treatment of Helicobacter pylori Infection (2017) — Chey et al.
 - [[acg-2017-liver-chemistries]] — ACG 2017: Evaluation of Abnormal Liver Chemistries — Kwo, Cohen, Lim. Am J Gastroenterol 2017;112:18–35 — true healthy ALT ULN, R-ratio, 5-tier AST/ALT algorithm, ALP + bilirubin fractionation algorithms, liver biopsy indications
+- [[acg-2017-ibd-preventive-care]] — ACG 2017: Preventive Care in Inflammatory Bowel Disease — Farraye et al. Am J Gastroenterol 2017;112:241–258 (historical; 14 GRADE recs; vaccinations/cervical/skin-cancer/osteoporosis/depression/smoking; superseded by acg-2025-ibd-preventive-care)
 - [[acg-cag-2017-dyspepsia]] — ACG/CAG 2017: Management of Dyspepsia — Moayyedi et al. Am J Gastroenterol 2017;112:988–1013 — EGD threshold raised to ≥60; HP test-and-treat (Strong/High) first; PPI → TCA → prokinetic → psychotherapy; SSRIs ineffective
 - [[acg-2016-acute-diarrhea]] — ACG 2016: Diagnosis, Treatment, and Prevention of Acute Diarrheal Infections in Adults — Riddle et al. Am J Gastroenterol 2016;111:602–622 — 18 recommendations; pathogen-specific antibiotic table; multiplex PCR panel guidance; TD prevention
 - [[acg-2016-liver-disease-pregnancy]] — ACG 2016: Liver Disease and Pregnancy — Tran, Lavezo, Higa et al. Am J Gastroenterol 2016;111:176–194 — 36 recommendations; HG/IHCP/HELLP/AFLP/preeclampsia; viral hepatitis in pregnancy; chronic liver disease management
@@ -366,6 +372,8 @@ updated: 2026-06-04
 - [[aasld-easl-2014-hepatic-encephalopathy]] — AASLD/EASL 2014 Practice Guideline: Hepatic Encephalopathy in Chronic Liver Disease — Vilstrup et al. Hepatology 2014;60:715–735 — 33 recommendations; 4-axis classification; WHC/GCS grading; ammonia no diagnostic value (Rec 9); lactulose first-line (Rec 19); rifaximin add-on after 2nd episode (Rec 26); protein restriction opposed (1.2–1.5 g/kg/day); late-night snack (Rec 32); post-TIPS HE: no prophylaxis benefit; recurrent intractable OHE = LT indication
 - [[aasld-2012-liver-transplant-long-term]] — AASLD 2012: Long-Term Management of the Successful Adult Liver Transplant Recipient — Lucey et al. Liver Transpl 2013;19:3–26 — 93 recommendations; IS monitoring/minimization; metabolic complications; oncologic surveillance; recurrent disease
 - [[aasld-2011-alf]] — AASLD Position Paper: Management of Acute Liver Failure (Update 2011) — Lee, Larson, Stravitz (historical; 48 graded recs; superseded by acg-2023-alf)
+- [[aasld-2011-hemochromatosis]] — AASLD 2011 Practice Guideline: Diagnosis and Management of Hemochromatosis — Bacon et al. Hepatology 2011;54:328–343 (historical; 16 GRADE recs; TS+ferritin→HFE testing, biopsy if ferritin >1000 µg/L, phlebotomy to ferritin 50–100 µg/L, HCC surveillance in HH cirrhosis (RR~20), no population screening; complements acg-2019-hereditary-hemochromatosis)
+- [[aasld-idsa-2011-hcv-genotype1]] — AASLD 2011: Treatment of Genotype 1 Chronic HCV — Ghany et al. Hepatology 2011;54:1433–1444 (historical/obsolete; boceprevir/telaprevir + peginterferon/ribavirin triple therapy, response-guided therapy, IL28B; entirely superseded by interferon-free DAA era, aasld-idsa-2023-hcv)
 - [[aasld-2009-liver-biopsy]] — AASLD 2009 Position Paper: Liver Biopsy — Rockey et al. Hepatology 2009;49:1017–1044 — 34 graded recommendations; no validated INR/platelet cutoff predicts bleeding; ideal specimen ~3 cm/16-gauge/>11 portal tracts; US marking preferred; transjugular if coagulopathy/ascites
 
 ### ASGE
@@ -382,10 +390,13 @@ updated: 2026-06-04
 ### SAGES
 
 - [[sages-2021-gerd-surgery]] — SAGES 2021: Guidelines for Surgical Treatment of GERD — Slater, Dirks, McKinney et al. Surg Endoscopy 2021
+- [[sages-2024-poem]] — SAGES 2024 Guideline Update: POEM for Achalasia — updated GRADE recommendations; POEM vs PD/LHM by achalasia subtype
+- [[sages-2021-poem]] — SAGES 2021: Guidelines for the Use of POEM for Achalasia — Kohn et al. Surg Endosc 2021;35:1931–1948 (foundational; 4 GRADE recs: strong POEM>PD; POEM or LHM+fundoplication for subtypes I/II; POEM favored for subtype III; post-POEM GERD the key trade-off)
 
 ### USMSTF
 
 - [[usmstf-2025-bowel-prep]] — USMSTF 2025: Optimizing Bowel Preparation Quality for Colonoscopy — Jacobson et al.
+- [[acg-2014-bowel-cleansing]] — USMSTF 2014: Optimizing Adequacy of Bowel Cleansing for Colonoscopy — Johnson, Barkun, Cohen et al. Am J Gastroenterol 2014;109:1528–1545 (foundational; 23 GRADE recs; split-dose superiority, 4–6 h/2 h timing, ≥85% adequate-prep per-physician benchmark, avoid Mg/NaP in CKD/IBD/elderly; superseded for products by acg-2025-bowel-prep)
 - [[usmstf-2021-crc-screening-age]] — USMSTF 2021: Age to Start and Stop CRC Screening — Patel et al.
 - [[usmstf-2020-endoscopic-removal]] — USMSTF 2020: Endoscopic Removal of Colorectal Lesions — Kaltenbach et al.
 - [[usmstf-2020-followup-colonoscopy]] — USMSTF 2020: Follow-Up After Colonoscopy and Polypectomy — Gupta et al.
@@ -394,6 +405,16 @@ updated: 2026-06-04
 - [[usmstf-2016-fit-screening]] — USMSTF 2016: Fecal Immunochemical Testing to Screen for Colorectal Neoplasia — Robertson et al. Am J Gastroenterol 2017;112:37–53 — CRC sensitivity ~79%/specificity ~94% (1-time); advanced adenoma sensitivity 20–30%; threshold analysis (<20 µg/g preferred); programmatic quality targets; FIT vs. gFOBT/sigmoidoscopy/stool DNA comparison
 - [[usmstf-2015-crc-surveillance]] — USMSTF 2015: Colonoscopy Surveillance after Colorectal Cancer Resection — Kahi et al. Am J Gastroenterol 2016;111:337–346 — 6 recommendations; perioperative clearing; 1y → 4y → 9y schedule; rectal cancer sigmoidoscopy/EUS
 - [[usmstf-2014-lynch-syndrome]] — US Multi-Society Task Force 2014: Genetic Evaluation and Management of Lynch Syndrome — Giardiello et al. Am J Gastroenterol 2014;109:1159–1179 — universal tumor testing; Amsterdam II/Bethesda criteria; Tables 10 and 12 surveillance/management; aspirin CAPP2; genetic counseling 14-component framework
+
+### NCCN
+
+- [[nccn-2026-hcc]] — NCCN Guidelines (v1.2026): Hepatocellular Carcinoma — Benson, D'Angelica et al. (first-line systemic tiering: ipilimumab+nivolumab elevated to Preferred category 1 per CheckMate-9DW, atezo+bev, durvalumab+tremelimumab; strengthened EBRT/SBRT; content summarized, not reproduced, per NCCN license)
+- [[nccn-2026-biliary-tract-cancers]] — NCCN Guidelines (v1.2026): Biliary Tract Cancers — Benson, D'Angelica et al. (gallbladder/iCCA/eCCA pathways; RNA-based molecular profiling FGFR2/IDH1/HER2/BRAF/NTRK/RET/NRG1/MSI-H; gem+cis+checkpoint 1st-line; adjuvant capecitabine; iCCA transplant exception; summarized per NCCN license)
+- [[nccn-2026-esophageal-egj-cancer]] — NCCN Guidelines (v3.2026): Esophageal & EGJ Cancers (adenocarcinoma vs SCC; endoscopic resection T1a; perioperative FLOT±durvalumab/MATTERHORN; definitive chemoRT; HER2/PD-L1 CPS/MSI-H biomarker therapy; summarized per NCCN license)
+- [[nccn-2026-gastric-cancer]] — NCCN Guidelines (v3.2026): Gastric Cancer (perioperative FLOT + D2 gastrectomy; MSI-H/dMMR dostarlimab; metastatic HER2→trastuzumab/T-DXd cat 1, PD-L1 CPS→nivo/pembro, claudin 18.2→zolbetuximab; summarized per NCCN license)
+- [[nccn-2026-colon-cancer]] — NCCN Guidelines (v2.2026): Colon Cancer (universal MMR/MSI; RAS/BRAF/HER2/NTRK/DPYD; adjuvant FOLFOX/CAPOX with IDEA duration; metastatic biomarker- & sidedness-directed therapy — anti-EGFR left-sided RAS/BRAF-WT, encorafenib+cetuximab for BRAF V600E, pembrolizumab for MSI-H; summarized per NCCN license)
+- [[nccn-2026-gist]] — NCCN Guidelines (v1.2026): GIST (KIT/PDGFRA/SDH mutational testing; risk by size/mitoses/site/rupture; surgery + neoadjuvant/adjuvant imatinib; TKI sequence imatinib→sunitinib→regorafenib→ripretinib, avapritinib for PDGFRA D842V; summarized per NCCN license)
+- [[nccn-2026-net]] — NCCN Guidelines (v1.2026): Neuroendocrine and Adrenal Tumors — Bergsland, Rose et al. (GI/pancreatic NET pathways; WHO grading; SSTR-PET; SSA/PRRT/everolimus/sunitinib; content summarized, not reproduced, per NCCN license)
 
 ### Consensus Statements & Other
 
@@ -404,6 +425,7 @@ updated: 2026-06-04
 - [[san-diego-2025-lprd]] — San Diego Consensus 2025: Laryngopharyngeal Symptoms and LPRD — Yadlapati, Gyawali, Pandolfino et al. (LPS vs. LPRD distinction; diagnostic algorithm; ambulatory monitoring; LRT)
 - [[chang-2024-endoscopic-oncologist]] — Editorial: The Vital Role of the Endoscopic Oncologist — Chang et al. (GI Endoscopy Clinics NA, 2024)
 - [[lyon-2024-gerd-diagnosis]] — Lyon Consensus 2.0 (2024): Evidence-Based Diagnosis of GERD — Gyawali et al. Gut 2024; AET thresholds, reflux episode counts, MNBI, LA grade B now conclusive, PSPW retired
+- [[idsa-2017-infectious-diarrhea]] — IDSA 2017: Diagnosis and Management of Infectious Diarrhea — Shane et al. Clin Infect Dis 2017;65:e45–e80 — 60 GRADE recommendations; enteric-fever workup, STEC/HUS monitoring, empiric-antibiotic exceptions, pediatric ancillary care (zinc, ondansetron, no loperamide <18), rotavirus/typhoid/cholera vaccines, notifiable-disease reporting
 - [[nejm-2023-fever-returning-traveler]] — NEJM 2023: Fever in a Returning Traveler — PDF stub, full text pending
 - [[chicago-v4-2021-esophageal-dysmotility]] — Chicago Classification v4.0 (2021): Diagnosis of Esophageal Motility Disorders — Yadlapati et al. Neurogastroenterol Motil 2021
 
@@ -415,4 +437,4 @@ updated: 2026-06-04
 
 ---
 
-*Total: 144 sources | 88 disease scripts | 17 diagnostic schemas | 2 general procedures | 17 advanced procedures | 11 meds | 0 anatomy | 43 concepts | 1 synthesis (on-disk page counts; index Sources section currently lists 104 of 144 source pages — full reconciliation pending a lint pass)*
+*Total: 154 sources | 97 disease scripts | 18 diagnostic schemas | 2 general procedures | 18 advanced procedures | 14 meds | 0 anatomy | 32 concepts | 1 synthesis (on-disk page counts as of 2026-06-14; index Sources section currently lists 115 of 154 source pages — full reconciliation still pending a future lint pass)*

@@ -3,8 +3,8 @@ title: "Hepatitis C"
 category: disease-script
 tags: [hepatitis-c, HCV, direct-acting-antivirals, DAA, cirrhosis, HCC, SVR, glecaprevir, pibrentasvir, sofosbuvir, velpatasvir, fibrosis, liver, antiviral, screening]
 created: 2026-05-28
-updated: 2026-05-28
-sources: [aasld-idsa-2023-hcv]
+updated: 2026-06-10
+sources: [aasld-idsa-2023-hcv, aasld-idsa-2011-hcv-genotype1]
 ---
 
 ## Assessment
@@ -194,3 +194,4 @@ For recurrent HCV post liver or kidney transplantation:
 ## Sources
 
 1. [[aasld-idsa-2023-hcv|AASLD-IDSA 2023 Hepatitis C Guidance Update]]
+2. [[aasld-idsa-2011-hcv-genotype1|AASLD 2011: Treatment of Genotype 1 Chronic HCV (historical — boceprevir/telaprevir era)]]

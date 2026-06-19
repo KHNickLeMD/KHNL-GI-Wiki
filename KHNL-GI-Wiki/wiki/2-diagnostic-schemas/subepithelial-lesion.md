@@ -155,6 +155,8 @@ Presence of ≥2 of: irregular border, echogenic foci, cystic spaces → maligna
 
 ### GIST
 
+*Full disease script: [[gastrointestinal-stromal-tumor|GIST]] — KIT/PDGFRA/SDH mutational testing, risk stratification, and TKI therapy.*
+
 | Size | Location | Action |
 |---|---|---|
 | <2 cm | Gastric | Insufficient evidence; surveillance or resection both acceptable. If high-risk EUS features → resect. If endoscopic resection chosen, any endoscopic method is acceptable |
@@ -169,6 +171,8 @@ Presence of ≥2 of: irregular border, echogenic foci, cystic spaces → maligna
 - STER limitation: transverse diameter ≥3.5 cm → higher technical difficulty and piecemeal resection risk
 
 ### Gastric Neuroendocrine Tumors (gNET)
+
+*Full disease script: [[gastroenteropancreatic-neuroendocrine-tumors|gastroenteropancreatic NETs]] — WHO grading, gastric types 1/2/3, SSTR-PET, and systemic therapy.*
 
 | Type | Background | Behavior | Management |
 |---|---|---|---|
@@ -197,7 +201,7 @@ Presence of ≥2 of: irregular border, echogenic foci, cystic spaces → maligna
 ## See Also
 
 
-[[endoscopic-ultrasound]], [[polypectomy-emr]], [[atrophic-gastritis]], [[colonoscopy]], [[upper-endoscopy]]
+[[endoscopic-ultrasound]], [[polypectomy-emr]], [[gastrointestinal-stromal-tumor]], [[gastroenteropancreatic-neuroendocrine-tumors]], [[atrophic-gastritis]], [[colonoscopy]], [[upper-endoscopy]]
 
 ---
 

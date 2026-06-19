@@ -11,18 +11,6 @@ Endoscopic eradication therapy (EET) is the minimally invasive, organ-sparing tr
 
 ---
 
-## Contents
-- [[#Indications]]
-- [[#Technique]]
-  - [[#Step 1 — Endoscopic Resection of Visible Lesions]]
-  - [[#Step 2 — Ablation of Residual Flat Segment]]
-- [[#Outcomes and Goals]]
-- [[#Adverse Events]]
-- [[#Post-CE-IM Surveillance]]
-- [[#Where to Perform EET]]
-
----
-
 ## Indications
 
 Per [[asge-2018-barretts-eet|ASGE 2018]] (GRADE) and concordant with [[aga-2024-barretts-eet|AGA 2024]] and [[acg-2022-barretts|ACG 2022]]:

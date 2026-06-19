@@ -9,20 +9,6 @@ sources: [aasld-2009-liver-biopsy]
 
 Liver biopsy is the procedural acquisition of hepatic tissue for histological assessment. Per the AASLD 2009 position paper (`[[aasld-2009-liver-biopsy]]`), it serves three major roles: **diagnosis**, **prognosis (disease staging, chiefly fibrosis)**, and **guiding therapeutic management**. Although it remains a reference standard, noninvasive tools — serum panels and elastography (`[[noninvasive-liver-disease-assessment|NILDA]]`) — increasingly replace it for fibrosis staging, and biopsy is now reserved largely for diagnostic uncertainty or when histology will change management.
 
-## Contents
-- [[#Indications]]
-- [[#Approaches]]
-  - [[#Percutaneous]]
-  - [[#Transvenous (Transjugular / Transfemoral)]]
-  - [[#Surgical / Laparoscopic]]
-  - [[#EUS-Guided]]
-- [[#Pre-Procedure Coagulation Assessment]]
-- [[#Medication Management]]
-- [[#Complications]]
-- [[#Sample Adequacy]]
-- [[#Noninvasive Alternatives]]
-- [[#See Also]]
-
 ## Indications
 Liver biopsy should be considered when the diagnosis is in question and knowledge of a specific diagnosis is likely to alter management (Rec 1, Class I/B), and as a prognostic adjunct when fibrosis stage may guide treatment (Rec 2, Class I/B). Common indications (AASLD Tables 3-4):
 - **Abnormal liver tests of unclear etiology** after thorough history, exam, serologic and imaging workup.

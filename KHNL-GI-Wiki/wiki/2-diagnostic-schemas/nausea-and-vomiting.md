@@ -7,20 +7,6 @@ updated: 2026-06-04
 sources: []
 ---
 
-## Contents
-- [[#Definition / Scope]]
-- [[#Differential Diagnosis]]
-  - [[#GI / Luminal]]
-  - [[#CNS / Vestibular]]
-  - [[#Metabolic / Endocrine / Drugs]]
-  - [[#Functional and Episodic Syndromes]]
-- [[#Diagnostic Algorithm]]
-- [[#Key Tests]]
-- [[#Red Flags / Alarm Features]]
-- [[#See Also]]
-
----
-
 ## Definition / Scope
 
 **Nausea** is the unpleasant sensation of an imminent urge to vomit; **vomiting** is the forceful oral expulsion of gastric contents via coordinated GI, abdominal-wall, and respiratory muscle activity. Distinguish from:

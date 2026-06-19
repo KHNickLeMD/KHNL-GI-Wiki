@@ -7,19 +7,6 @@ updated: 2026-06-04
 sources: []
 ---
 
-## Contents
-- [[#Definition / Scope]]
-- [[#Differential Diagnosis]]
-  - [[#Unconjugated (Indirect) Hyperbilirubinemia]]
-  - [[#Conjugated (Direct) — Hepatocellular]]
-  - [[#Conjugated (Direct) — Cholestatic / Obstructive]]
-- [[#Diagnostic Algorithm]]
-- [[#Key Tests]]
-- [[#Red Flags / Alarm Features]]
-- [[#See Also]]
-
----
-
 ## Definition / Scope
 
 **Jaundice** (icterus) is yellow discoloration of skin, sclerae, and mucous membranes from bilirubin deposition, clinically detectable when total bilirubin exceeds ~2–3 mg/dL. The first branch point is **bilirubin fractionation**:

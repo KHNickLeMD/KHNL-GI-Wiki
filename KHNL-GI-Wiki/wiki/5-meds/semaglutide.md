@@ -7,21 +7,6 @@ updated: 2026-05-25
 sources: ["[[aasld-2025-semaglutide-mash]]", "[[aga-2022-obesity-pharm]]"]
 ---
 
-## Contents
-
-- [[#Overview]]
-- [[#Mechanism of Action]]
-- [[#GI Indication — MASH with Moderate-to-Advanced Fibrosis]]
-  - [[#FDA Approval and Evidence Base]]
-  - [[#Patient Selection (AASLD 2025 Guidance)]]
-  - [[#Contraindications (MASH Indication)]]
-  - [[#Dosing]]
-  - [[#Monitoring and Safety]]
-- [[#Broader Cardiometabolic Benefits]]
-- [[#Concomitant Use]]
-
----
-
 ## Overview
 
 Semaglutide is a glucagon-like peptide-1 receptor agonist (GLP-1 RA) — a long-acting analogue of human GLP-1 that incorporates structural modifications to slow dipeptidyl peptidase-4 (DPP-4) cleavage and prolong receptor activation. It shares 94% sequence homology with human GLP-1 and has a half-life of ~5–7 days, enabling once-weekly subcutaneous dosing. [[aasld-2025-semaglutide-mash]]
@@ -159,7 +144,7 @@ For VCTE 15–20 kPa, MRE 4.4–5 kPa, or ELF 10.5–11.3: individualized treatm
 | [[acute-pancreatitis|Acute pancreatitis]] | Monitor for severe, persistent abdominal pain (± vomiting); check amylase/lipase if symptomatic | Discontinue immediately if suspected; avoid rechallenge after confirmed episode; contraindicated with history of pancreatitis |
 | Gallbladder disease (cholelithiasis/cholecystitis) | Monitor for right upper quadrant pain or biliary colic; RUQUS if symptomatic | Educate patients on biliary symptoms; caution in patients with history of gallbladder disease; 37% increased risk per meta-analysis (76 RCTs, n=103,371) |
 | Thyroid C-cell tumors (MTC risk) | Review history of MTC/MEN2; monitor for neck mass, hoarseness, [[dysphagia]] | Contraindicated in MTC/MEN2; educate on symptoms; routine calcitonin testing NOT required; no conclusive human evidence for MTC causation |
-| Hypoglycemia (with insulin/secretagogues) | Monitor glucose in patients on insulin or sulfonylureas; 7.4% vs. 5.4% in ESSENCE (T2DM) | Adjust insulin/sulfonylurea dose; educate on hypoglycemia recognition; higher risk post-bariatric surgery |
+| Hypoglycemia (with insulin/secretagogues) | Monitor glucose in patients on insulin or sulfonylureas; 7.4% vs. 5.4% in ESSENCE (T2DM) | Adjust insulin/sulfonylurea dose; educate on hypoglycemia recognition; higher risk post-[[bariatric-surgery]] |
 | Heart rate increase (chronotropic effect) | Check pulse periodically; ask about palpitations or tachycardia | Caution in arrhythmia-prone patients; reassess if persistent tachycardia |
 | [[gastroparesis]]/delayed gastric emptying | Evaluate baseline gastric motility in at-risk patients; monitor for early satiety, vomiting, retained food | Avoid in severe [[gastroparesis]]; consider gastric emptying evaluation if symptoms persist; retrospective incidence 6.5/1000 person-years |
 | Procedural risks (aspiration/retained gastric contents) | Document GLP-1 RA use pre-procedure; coordinate with local anesthesia for fasting interval | Customize peri-procedural fasting per local guidance; communicate with anesthesia/endoscopy teams |

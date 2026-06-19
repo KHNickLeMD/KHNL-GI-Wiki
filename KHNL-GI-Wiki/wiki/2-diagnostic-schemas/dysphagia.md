@@ -7,18 +7,6 @@ updated: 2026-06-04
 sources: []
 ---
 
-## Contents
-- [[#Definition / Scope]]
-- [[#Differential Diagnosis]]
-  - [[#Oropharyngeal Dysphagia]]
-  - [[#Esophageal Dysphagia]]
-- [[#Diagnostic Algorithm]]
-- [[#Key Tests]]
-- [[#Red Flags / Alarm Features]]
-- [[#See Also]]
-
----
-
 ## Definition / Scope
 
 **Dysphagia** is the sensation of impaired passage of food or liquid from the mouth to the stomach. The first and most important step is to localize the problem, because it cleanly splits the differential and the workup:

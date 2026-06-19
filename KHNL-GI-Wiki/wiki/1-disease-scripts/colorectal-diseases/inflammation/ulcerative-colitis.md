@@ -297,7 +297,7 @@ Idiopathic chronic inflammatory disorder of the large intestine. Continuous muco
 ## See Also
 
 
-[[crohns-disease]], [[inflammatory-bowel-disease]], [[uc-vs-crohns-comparison]], [[ibd-preventive-care]], [[clostridioides-difficile]], [[primary-sclerosing-cholangitis]], [[colorectal-cancer]], [[colonoscopy]], [[colon-ischemia]]
+[[crohns-disease]], [[inflammatory-bowel-disease]], [[uc-vs-crohns-comparison]], [[ibd-preventive-care]], [[clostridioides-difficile]], [[primary-sclerosing-cholangitis]], [[colorectal-cancer]], [[colonoscopy]], [[colon-ischemia]], [[pouchitis]]
 
 ---
 

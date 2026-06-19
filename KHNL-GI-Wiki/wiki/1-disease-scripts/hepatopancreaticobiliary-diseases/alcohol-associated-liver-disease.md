@@ -337,7 +337,7 @@ Per [[aasld-ast-2025-liver-transplant-graft-complications]] (recommendations for
 ## See Also
 
 
-[[liver-transplantation]], [[aki-in-cirrhosis]], [[acute-pancreatitis]], [[nafld-masld]], [[hereditary-hemochromatosis]], [[portal-hypertension]], [[acute-on-chronic-liver-failure]], [[hepatic-encephalopathy]], [[hepatocellular-carcinoma]], [[autoimmune-hepatitis]], [[wilson-disease]], [[drug-induced-liver-injury]], [[variceal-upper-gi-bleeding]], [[spontaneous-bacterial-peritonitis]], [[ascites]], [[portal-vein-thrombosis]], [[hepatitis-c]]
+[[liver-transplantation]], [[aki-in-cirrhosis]], [[acute-pancreatitis]], [[nafld-masld]], [[hereditary-hemochromatosis]], [[portal-hypertension]], [[acute-on-chronic-liver-failure]], [[hepatic-encephalopathy]], [[hepatocellular-carcinoma]], [[autoimmune-hepatitis]], [[wilson-disease]], [[drug-induced-liver-injury]], [[variceal-upper-gi-bleeding]], [[spontaneous-bacterial-peritonitis]], [[ascites]], [[portal-vein-thrombosis]], [[hepatitis-c]], [[liver-biopsy]]
 
 ---
 
