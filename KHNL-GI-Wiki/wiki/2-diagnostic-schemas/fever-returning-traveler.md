@@ -21,7 +21,7 @@ This page focuses on GI-relevant diagnoses. Non-GI febrile illnesses (e.g., mala
 |-----------|-----------|
 | <2 weeks | Traveler's diarrhea (ETEC, Campylobacter, Salmonella, Shigella), [[norovirus]], hepatitis A (early), dengue (GI manifestations), typhoid fever (early) |
 | 2–6 weeks | Enteric fever (typhoid/paratyphoid), hepatitis A (full picture), hepatitis E, amoebiasis, [[giardiasis]], leptospirosis (hepatitis) |
-| >6 weeks | Schistosomiasis (acute: Katayama fever), visceral leishmaniasis, [[chronic-hepatitis-b|chronic hepatitis B]]/E seroconversion, strongyloidiasis |
+| >6 weeks | Schistosomiasis (acute: Katayama fever), visceral leishmaniasis, [[chronic-hepatitis-b\|chronic hepatitis B]]/E seroconversion, strongyloidiasis |
 
 ### GI-focused differential by presentation
 

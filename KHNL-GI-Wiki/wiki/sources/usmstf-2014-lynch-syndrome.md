@@ -66,7 +66,7 @@ Surveillance with [[colonoscopy]] every 1–2 years beginning at age 20–25 in 
 | Annual pelvic examination and endometrial sampling beginning at age 30–35 in female mutation carriers | Conditional | Level III, GRADE Moderate |
 | Annual transvaginal ultrasound beginning at age 30–35 | Conditional | Level IV, GRADE Very Low |
 | **Cancer Surveillance — Gastric/Duodenal (Table 10)** | | |
-| EGD with gastric antrum biopsy beginning at age 30–35, repeated every 3–5 years; [[helicobacter-pylori-infection|H. pylori]] eradication if found | Conditional | Level IV, GRADE Very Low |
+| EGD with gastric antrum biopsy beginning at age 30–35, repeated every 3–5 years; [[helicobacter-pylori-infection\|H. pylori]] eradication if found | Conditional | Level IV, GRADE Very Low |
 | **Cancer Surveillance — Urinary Tract (Table 10)** | | |
 | Annual urinalysis beginning at age 30–35 | Conditional | Level V, GRADE Very Low |
 | Routine screening for pancreatic, brain/CNS, or breast cancer is not recommended unless supported by specific family history | Conditional | Level V, GRADE Very Low |

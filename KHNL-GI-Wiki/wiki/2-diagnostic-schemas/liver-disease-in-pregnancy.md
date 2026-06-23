@@ -192,7 +192,7 @@ Any abnormality in AST/ALT or bilirubin requires evaluation. ALP elevation alone
 | Hypoglycemia | <4 mmol/l |
 | Elevated urea | >340 µmol/l |
 | Leucocytosis | >11×10⁶ cells/l |
-| [[ascites|Ascites]] or bright liver on ultrasound | — |
+| [[ascites\|Ascites]] or bright liver on ultrasound | — |
 | Elevated transaminases (AST or ALT) | >42 IU/l |
 | Elevated ammonia | >47 µmol/l |
 | Renal impairment (creatinine) | >150 µmol/l |

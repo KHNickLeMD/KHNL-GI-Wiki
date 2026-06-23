@@ -3,8 +3,8 @@ title: "Hemorrhoids"
 category: disease-script
 tags: [hemorrhoids, anorectal, rectal-bleeding, rubber-band-ligation, hemorrhoidectomy, colorectal]
 created: 2026-05-16
-updated: 2026-05-16
-sources: [acg-2021-anorectal-disorders]
+updated: 2026-06-22
+sources: [acg-2021-anorectal-disorders, asge-2010-anorectal-disorders]
 ---
 
 ## Assessment
@@ -41,10 +41,10 @@ The diagnosis of symptomatic internal hemorrhoids requires exclusion of other so
 
 | Condition | Key Features |
 |-----------|-------------|
-| [[rectal-prolapse|Rectal prolapse]] (full-thickness) | Circumferential folds (vs. radial folds of hemorrhoids); palpable thickness; can be confused with Grade IV hemorrhoids |
-| [[anal-fissure|Anal fissure]] | Painful bright red bleeding; fissure visible at anoscopy; see [[anal-fissure]] |
-| [[colorectal-cancer|Colorectal cancer]] | Change in bowel habits, weight loss, iron deficiency anemia; [[colonoscopy]] required |
-| [[inflammatory-bowel-disease|IBD]] (Crohn's proctitis) | Diarrhea, urgency; risk of complicating any anorectal procedure; [[crohns-disease]] |
+| [[rectal-prolapse\|Rectal prolapse]] (full-thickness) | Circumferential folds (vs. radial folds of hemorrhoids); palpable thickness; can be confused with Grade IV hemorrhoids |
+| [[anal-fissure\|Anal fissure]] | Painful bright red bleeding; fissure visible at anoscopy; see [[anal-fissure]] |
+| [[colorectal-cancer\|Colorectal cancer]] | Change in bowel habits, weight loss, iron deficiency anemia; [[colonoscopy]] required |
+| [[inflammatory-bowel-disease\|IBD]] (Crohn's proctitis) | Diarrhea, urgency; risk of complicating any anorectal procedure; [[crohns-disease]] |
 | Rectal polyp/cancer | Digital exam + sigmoidoscopy/colonoscopy |
 | Skin tags | Residual from prior thrombosed external hemorrhoids; painless; no treatment unless cosmetic concern |
 
@@ -79,7 +79,7 @@ The diagnosis of symptomatic internal hemorrhoids requires exclusion of other so
 
 | Procedure | Indication | Efficacy | Notes |
 |-----------|-----------|---------|-------|
-| **Rubber band ligation (RBL)** | Grade I–III | Strong/Moderate — preferred; lower need for retreatment vs IRC/sclerotherapy | Banding at base of hemorrhoid above dentate line; most popular and effective; complications: pain (1–4 days), bleeding (1–2%), thrombosis of external component, rare life-threatening sepsis in immunocompromised |
+| **Rubber band ligation (RBL)** | Grade I–III | Strong/Moderate — preferred; lower need for retreatment vs IRC/sclerotherapy. RBL is also the initial endoscopic treatment of choice for bleeding/prolapsing 2nd–3rd-degree internal hemorrhoids failing conservative care *(ASGE 2010)* [[asge-2010-anorectal-disorders]] | Banding at base of hemorrhoid above dentate line; most popular and effective; complications: pain (1–4 days), bleeding (1–2%), thrombosis of external component, rare life-threatening sepsis in immunocompromised |
 | **Infrared coagulation (IRC)** | Grade I–II | Strong/Moderate — similar to RBL for Grade I–II | Faster; less pain than banding; higher retreatment rate |
 | **Sclerotherapy** | Grade I–II | Alternative; similar to IRC | Injection of sclerosing agent; effective for bleeding Grade I–II; useful for patients on anticoagulation |
 | **Doppler-guided hemorrhoidal artery ligation (DGHAL)** | Grade III | Conditional/Very Low — similar outcomes to hemorrhoidectomy | Minimally invasive; no tissue excision; Doppler identifies feeding arteries; used in Europe more than US |
@@ -119,3 +119,4 @@ The diagnosis of symptomatic internal hemorrhoids requires exclusion of other so
 ## Sources
 
 1. [[acg-2021-anorectal-disorders|ACG 2021 Clinical Guidelines: Management of Benign Anorectal Disorders]]
+2. [[asge-2010-anorectal-disorders|ASGE 2010: The Role of Endoscopy in Patients With Anorectal Disorders]]

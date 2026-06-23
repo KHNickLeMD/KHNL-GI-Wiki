@@ -230,7 +230,7 @@ RRT is not a primary therapy for HRS-AKI. Indications:
 | Indication | Details |
 |---|---|
 | ATN | Appropriate if meeting standard RRT criteria (volume overload, electrolyte emergency, uremia) |
-| HRS-AKI in transplant candidates | Bridge to [[liver-transplantation|liver transplantation]] only; continuous RRT preferred |
+| HRS-AKI in transplant candidates | Bridge to [[liver-transplantation\|liver transplantation]] only; continuous RRT preferred |
 | HRS-AKI in non-transplant candidates | **NOT indicated** |
 | Uncertain AKI etiology | May consider on individual basis if transplant candidate |
 

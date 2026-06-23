@@ -1,22 +1,136 @@
 ---
 title: "Pouchitis"
 category: disease-script
-tags: [pouchitis, ipaa, ulcerative-colitis, ibd]
+tags: [pouchitis, ipaa, j-pouch, ulcerative-colitis, ibd, cuffitis, crohns-like-disease-of-the-pouch, antibiotics, probiotics, biologics]
 created: 2026-06-04
-updated: 2026-06-04
-sources: [aga-2020-probiotics]
+updated: 2026-06-20
+sources: [aga-2024-pouchitis, aga-2020-probiotics]
 ---
 
-*Stub — to be expanded.*
+Pouchitis is non-specific inflammation of the ileal pouch reservoir — the most common complication after restorative proctocolectomy with **ileal pouch–anal anastomosis (IPAA, "J-pouch")** for [[ulcerative-colitis|ulcerative colitis]]. The [[aga-2024-pouchitis|AGA 2024 guideline]] frames management by clinical pattern (intermittent → chronic antibiotic-dependent → chronic antibiotic-refractory) plus two related inflammatory pouch disorders: Crohn's-like disease of the pouch and cuffitis. [[aga-2024-pouchitis]]
 
-Pouchitis is inflammation of the ileal pouch, the most common long-term complication after restorative proctocolectomy with ileal pouch–anal anastomosis (IPAA) for [[ulcerative-colitis|ulcerative colitis]]. A role for the gut microbiome in its pathogenesis is suggested. The [[aga-2020-probiotics|AGA 2020 probiotics guideline]] makes a conditional recommendation FOR the 8-strain probiotic combination over no or other [[probiotics]] for pouchitis (very low quality of evidence) — see [[probiotics]].
+## Contents
+- [[#Assessment]]
+  - [[#Establishing the Diagnosis]]
+  - [[#Subtype Classification]]
+- [[#Differential Diagnosis]]
+- [[#Diagnostics]]
+- [[#Therapeutics]]
+  - [[#Prevention]]
+  - [[#Treatment by Subtype]]
+  - [[#Recommendation Summary]]
+
+---
+
+## Assessment
+
+### Epidemiology / Scope
+- Pouchitis affects **~48%** of IPAA patients within the first 2 years; up to **~80%** develop ≥1 episode at some point. [[aga-2024-pouchitis]]
+- **~17%** develop chronic pouchitis (relapsing–remitting); **~10%** develop Crohn's-like disease of the pouch.
+- Contemporary colectomy risk in UC has fallen (5-yr 7.0%, 10-yr 9.6%), but pouchitis incidence may be rising.
+- Most evidence is retrospective/observational → all therapeutic recommendations are **conditional, very low–low certainty**.
+
+### Establishing the Diagnosis
+- **Baseline (normal) pouch function:** average **4–8 bowel movements/day** and **1–2 at night** after the postoperative adjustment period.
+- **Typical pouchitis symptoms:** increased stool frequency, urgency, lower abdominal pain/cramping, pelvic discomfort. May also see bleeding, fever, incontinence.
+- **Symptoms do not reliably correlate with endoscopy or histology** — confirm with pouchoscopy before committing to chronic/escalated therapy.
+- **Pouchoscopy with biopsies** recommended for frequent recurrent or antibiotic-refractory symptoms (assesses pouch body, cuff, pre-pouch ileum; excludes Crohn's-like disease, cuffitis, ischemia, infection).
+- Activity scored by **PDAI / modified PDAI (mPDAI)** (clinical + endoscopic + histologic).
+
+### Subtype Classification
+Pragmatic, treatment-anchored definitions (AGA 2024, Table 5):
+
+| Subtype | Definition |
+|---|---|
+| **Intermittent pouchitis** | Isolated, infrequent episodes of typical symptoms that resolve with therapy (usually antibiotics) or spontaneously, then extended normal function (months–years) |
+| **Chronic antibiotic-dependent** | Recurrent pouchitis that responds to antibiotics but **relapses shortly after stopping** (days–weeks); needs recurrent/continuous antibiotics or advanced therapy |
+| **Chronic antibiotic-refractory** | Relapsing–remitting or continuous symptoms with **inadequate response** to typical antibiotics |
+| **Crohn's-like disease of the pouch** | Fistula developing **>12 mo** after final IPAA stage, stricture of pouch body/pre-pouch ileum, and/or pre-pouch ileitis (pouchitis may coexist) |
+| **Cuffitis** | Inflammation of the retained rectal cuff (residual UC of the cuff) |
+
+---
+
+## Differential Diagnosis
+- **[[crohns-disease|Crohn's]]-like disease of the pouch** — fistula, stricture, pre-pouch ileitis (drives escalation to steroids/biologics).
+- **Cuffitis** — residual UC in the rectal cuff; responds to UC-directed topical therapy.
+- **Structural/surgical:** anastomotic stricture, pouch outlet obstruction, afferent/efferent limb issues, pelvic sepsis/leak.
+- **Functional:** irritable pouch syndrome (symptoms without endoscopic inflammation).
+- **Other mucosal:** ischemia, infection (including *C. difficile*, CMV), NSAID injury.
+- Out of scope of the AGA 2024 guideline: pouches created for **Crohn's** or **FAP**, and pouch dysplasia surveillance.
+
+---
+
+## Diagnostics
+- **Pouchoscopy + biopsy** — primary diagnostic tool; maps inflammation (pouch body vs cuff vs pre-pouch ileum) and excludes Crohn's-like disease/cuffitis/infection.
+- **PDAI / mPDAI** — composite activity index (symptoms + endoscopy ± histology); endoscopic/histologic outcomes were **not** prioritized as decision-critical in the guideline (clinical improvement is the key outcome).
+- Targeted workup when refractory: stool studies (incl. *C. difficile*), CMV on biopsy, cross-sectional/contrast imaging or EUA for suspected stricture/fistula.
+
+---
+
+## Therapeutics
+
+> Treat by subtype. Antibiotics are first-line for active symptoms; escalate to advanced immunosuppressive therapy for antibiotic-dependent (alternative) or antibiotic-refractory disease.
+
+### Prevention
+- **Primary prevention — probiotics:** *No recommendation* (knowledge gap).
+- **Primary prevention — antibiotics:** *Suggested against* (very low certainty).
+- **Secondary prevention (after antibiotic-responsive recurrence) — [[probiotics]]:** *Suggested.* The **De Simone (8-strain) formulation** was used in the prevention trials. See [[probiotics]] ([[aga-2020-probiotics]]).
+
+### Treatment by Subtype
+
+**Intermittent (acute) pouchitis → antibiotics.**
+- Preferred agents: **ciprofloxacin and/or metronidazole**; typical course **2–4 weeks**.
+- Pooled response ~**65%** (160/239 across studies).
+- Combination antibiotics if no response to monotherapy; **oral vancomycin** or rifaximin as alternatives.
+- Probiotics for *treatment* of an acute episode: *no recommendation* (knowledge gap).
+
+**Chronic antibiotic-dependent pouchitis → chronic antibiotics OR advanced therapy.**
+- **Chronic/continuous antibiotics** to maintain remission (suggested); rotate agents and watch for long-term antibiotic risks (resistance, *C. diff*, neuropathy/tendinopathy).
+- **Advanced immunosuppressive therapy** (biologic/small molecule) is the alternative — preferred when antibiotic-intolerant or concerned about long-term antibiotics; therapies used **before colectomy** may be reconsidered.
+
+**Chronic antibiotic-refractory pouchitis → advanced therapy (± corticosteroids).**
+- **Advanced immunosuppressive therapies** suggested — **vedolizumab has the strongest evidence** (only RCT).
+  - **EARNEST RCT (vedolizumab):** mPDAI remission at week 14 in **18/51 (vedolizumab) vs 5/51 (placebo)**; patients also received concomitant ciprofloxacin 500 mg BID through week 4. *(low certainty)*
+  - Observational pooled response: **ustekinumab ~72%**, **tofacitinib ~31%**; no significant difference between advanced therapies.
+  - Class includes: TNF antagonists (infliximab, adalimumab, golimumab, certolizumab), vedolizumab, ustekinumab, risankizumab, ozanimod, tofacitinib, upadacitinib.
+- **Corticosteroids** also an option — oral **budesonide** or **beclomethasone** pooled response ~**77%** (small case series).
+- **Mesalamine:** *no recommendation* (knowledge gap).
+
+**Crohn's-like disease of the pouch → corticosteroids + advanced immunosuppressive therapy.**
+- Both suggested; mirrors [[crohns-disease|luminal Crohn's]] management. Manage strictures/fistulas structurally as needed.
+
+**Cuffitis → UC-directed topical therapy first.**
+- **First-line: topical mesalamine** (suppositories) or **topical corticosteroids** (suppositories / ointment to the cuff).
+- Escalate to oral/advanced UC therapies if refractory.
+
+### Recommendation Summary
+All 13 AGA 2024 statements (9 actionable conditional recommendations + 4 "no recommendation" knowledge gaps). All actionable recommendations are **conditional**; certainty **very low** unless noted. [[aga-2024-pouchitis]]
+
+| # | Population / setting | Statement | Certainty |
+|---|---|---|---|
+| 1 | IPAA, primary prevention | Probiotics — **no recommendation** | Knowledge gap |
+| 2 | IPAA, primary prevention | **Against** antibiotics | Very low |
+| 3 | Infrequent symptoms | **Use antibiotics** (treat) | Very low |
+| 4 | Infrequent episodes | Probiotics (treat) — **no recommendation** | Knowledge gap |
+| 5 | Recurrent, antibiotic-responsive | **Use probiotics** (prevent recurrence) | Low–very low |
+| 6 | Chronic antibiotic-dependent | **Use chronic antibiotics** | Very low |
+| 7 | Chronic antibiotic-dependent | **Use advanced immunosuppressive therapy** | Low (vedolizumab) / very low (others) |
+| 8 | Chronic antibiotic-refractory | **Use advanced immunosuppressive therapy** | Low (vedolizumab) / very low (others) |
+| 9 | Chronic antibiotic-refractory | **Use corticosteroids** | Very low |
+| 10 | Chronic antibiotic-refractory | Mesalamine — **no recommendation** | Knowledge gap |
+| 11 | Crohn's-like disease of pouch | **Use corticosteroids** | Very low |
+| 12 | Crohn's-like disease of pouch | **Use advanced immunosuppressive therapy** | Very low |
+| 13 | Cuffitis | **Use UC-approved therapy** (start topical mesalamine / topical steroids) | Very low |
+
+---
 
 ## See Also
 
-[[ulcerative-colitis]], [[probiotics]], [[inflammatory-bowel-disease]]
+[[ulcerative-colitis]], [[crohns-disease]], [[inflammatory-bowel-disease]], [[probiotics]], [[colonoscopy]]
 
 ---
 
 ## Sources
 
-1. [[aga-2020-probiotics|AGA Clinical Practice Guidelines on the Role of Probiotics in the Management of Gastrointestinal Disorders]]
+1. [[aga-2024-pouchitis|AGA Clinical Practice Guideline: Management of Pouchitis and Inflammatory Pouch Disorders (2024)]]
+2. [[aga-2020-probiotics|AGA Clinical Practice Guidelines on the Role of Probiotics in the Management of Gastrointestinal Disorders]]

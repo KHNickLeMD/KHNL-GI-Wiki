@@ -1,7 +1,7 @@
 ---
 title: "Wiki Index"
 category: index
-updated: 2026-06-15
+updated: 2026-06-22
 ---
 
 # KHNL GI Encyclopedia — Master Index
@@ -62,9 +62,10 @@ updated: 2026-06-15
 - [[rectal-prolapse]] — Rectal Prolapse: full-thickness vs mucosal, defecography, surgical repair approaches (stub)
 - [[acute-mesenteric-ischemia]] — Acute Mesenteric Ischemia: arterial embolic/thrombotic, NOMI, venous; CTA diagnosis, revascularization (stub)
 
-- [[crohns-disease]] — Crohn's disease: ADDT — transmural IBD, biologics (anti-TNF/vedolizumab/IL-23/JAK), perianal fistula, postoperative prevention (2 sources)
-- [[ulcerative-colitis]] — Ulcerative colitis: ADDT — proctitis-to-pancolitis, 5-ASA/biologics/JAK/S1P modulators, ASUC management (2 sources)
-- [[pouchitis]] — Ileal pouch inflammation post-IPAA; antibiotics, probiotics (8-strain combo); stub (1 source)
+- [[crohns-disease]] — Crohn's disease: ADDT — transmural IBD, biologics (anti-TNF/vedolizumab/IL-23/JAK), perianal fistula, postoperative prevention, HD+chromoendoscopy CRC surveillance (SCENIC) (6 sources)
+- [[ulcerative-colitis]] — Ulcerative colitis: ADDT — proctitis-to-pancolitis, 5-ASA/biologics/JAK/S1P modulators, ASUC management, HD+chromoendoscopy dysplasia surveillance (SCENIC) (6 sources)
+- [[pouchitis]] — Ileal pouch inflammation post-IPAA; subtype-driven Tx (intermittent/antibiotic-dependent/refractory, Crohn's-like, cuffitis); antibiotics → advanced therapy (AGA 2024) (2 sources)
+- [[radiation-proctopathy]] — Radiation proctopathy: acute (inflammatory, self-limiting) vs chronic (obliterative endarteritis/telangiectasias); endoscopy dx (biopsy discouraged); APC/bipolar/heater probe/RFA for chronic bleeding (1 source)
 - [[irritable-bowel-syndrome]] — IBS: ADDT — Rome IV/V criteria, positive diagnostic strategy, calprotectin + celiac serology screen, low-FODMAP, soluble fiber, TCA, secretagogues (linaclotide/plecanatide/lubiprostone/tegaserod) for IBS-C; rifaximin/alosetron/eluxadoline for IBS-D; gut-directed psychotherapy (2 sources)
 - [[colorectal-cancer]] — CRC: TNM staging, surgical resection, adjuvant FOLFOX, TNT for rectal cancer, immunotherapy for MSI-H, post-resection surveillance (perioperative → 1y → 4y → 9y → q5y), Lynch universal testing, FIT screening performance/thresholds, rectal cancer local surveillance; NCCN oncologic mgmt — universal MMR/MSI, RAS/BRAF/HER2/NTRK/DPYD, adjuvant FOLFOX/CAPOX (IDEA duration), biomarker-/sidedness-directed metastatic therapy; treatment-algorithm Mermaid (5 sources)
 - [[norovirus]] — Norovirus gastroenteritis: leading cause of acute viral diarrhea, fecal-oral/fomite transmission, supportive care (stub)
@@ -93,6 +94,8 @@ updated: 2026-06-15
 - [[anal-fissure]] — Anal fissure: ADDT — topical CCB first-line (67–90% healing, Strong/Low), Botox for CCB failure, lateral internal sphincterotomy gold standard for refractory (94–98% healing, Strong/High), lateral fissures → Crohn's/HIV/malignancy (1 source)
 - [[fecal-incontinence]] — Fecal incontinence: ADDT — urge vs. passive subtypes, loperamide/biofeedback first-line, sacral nerve stimulation for moderate-severe failures (Strong/Low), sphincteroplasty for acute sphincter injury, end stoma as last resort (1 source)
 - [[proctalgia-syndromes]] — Proctalgia syndromes: ADDT — levator syndrome (≥20 min pain + levator tenderness) vs. proctalgia fugax (<20 min); biofeedback for levator (Strong/VLow); reassurance only for PF (1 source)
+- [[acute-colonic-pseudo-obstruction]] — ACPO / Ogilvie's syndrome: ADDT — colonic dilatation without mechanical obstruction; exclude obstruction by CT; cecal Ø >10–12 cm = perforation risk; conservative ×72h → neostigmine 2 mg IV (cardiac monitoring) → endoscopic decompression; surgery for perforation/peritonitis (1 source)
+- [[colonic-volvulus]] — Colonic volvulus: ADDT — mechanical torsion (sigmoid > cecal); CT preferred; sigmoid → endoscopic detorsion + index-admission surgical consult (84–86% recurrence); cecal → surgery-first; perforation/peritonitis → surgery (1 source)
 
 
 - [[mesenteric-artery-aneurysm]] — Mesenteric Artery Aneurysm: splanchnic artery aneurysms; size thresholds and repair (stub)
@@ -170,12 +173,13 @@ updated: 2026-06-15
 - [[acute-diarrhea]] — Acute diarrheal infections: severity classification, viral/bacterial/parasitic/non-infectious differential, ACG 2016 Figure 1 stepwise algorithm, ORS/loperamide/antibiotic table, parasite-specific treatment, IDSA 2017 additions (enteric fever, STEC/HUS monitoring, empiric-antibiotic exceptions, pediatric ancillary care, vaccines), postinfectious IBS (2 sources)
 - [[small-bowel-bleeding]] — Small bowel bleeding: SBB/potential-SBB/OGIB terminology, age-stratified DDx, 3 diagnostic algorithms (occult, brisk, sub-acute), VCE/DAE/CTE/angiography roles, angioectasia treatment (1 source)
 - [[liver-disease-in-pregnancy]] — Liver disease in pregnancy: physiologic lab changes table, trimester-stratified DDx, Swansea criteria for AFLP, HG/IHCP/preeclampsia/HELLP/AFLP, viral hepatitis, chronic liver disease management in pregnancy (1 source)
+- [[focal-liver-lesions]] — Focal liver lesions: cirrhotic vs. non-cirrhotic approach, benign/malignant DDx, gadoxetate MRI as key discriminator (FNH takes up, others don't), master imaging comparison table (FNH/HCA/hemangioma/HCC), red flags (1 source)
 
 ---
 
 ## General GI Procedures
 
-- [[colonoscopy]] — CRC screening ages, post-polypectomy surveillance tables, bowel prep standards (incl. GLP-1 agonist guidance), polypectomy quick reference (5 sources)
+- [[colonoscopy]] — CRC screening ages, post-polypectomy surveillance tables, bowel prep standards (incl. GLP-1 agonist guidance), polypectomy quick reference, IBD surveillance technique (SCENIC) (9 sources)
 - [[upper-endoscopy]] — EGD quality standards: UGIB timing, BE surveillance, GPMC biopsy, celiac biopsy, peptic ulcer hemostasis (1 source)
 
 ---
@@ -195,8 +199,8 @@ updated: 2026-06-15
 - [[heller-myotomy]] — Laparoscopic Heller myotomy (LHM) + partial fundoplication for achalasia; surgical alternative to POEM/PD; built-in anti-reflux wrap → less post-op GERD than POEM (stub)
 - [[flip-panometry]] — FLIP Panometry v2.0: 16-cm EndoFLIP protocol, EGJ Opening (REO/NEO) × Contractile Response → 6-class motility matrix; Normal = high NPV for achalasia; Non-spastic Obstruction = EGJOO equivalent (1 source)
 - [[anorectal-manometry]] — HR-ARM + BET: dyssynergic defecation types I–IV, RAIR, sphincter assessment for fecal incontinence, pre-op evaluation (stub)
-- [[capsule-endoscopy]] — Capsule endoscopy: small bowel visualization, SBB first-line investigation, patency capsule pre-DAE, diagnostic yield by indication (stub)
-- [[device-assisted-enteroscopy]] — DAE (single/double-balloon, spiral): therapeutic enteroscopy after positive VCE, antegrade vs. retrograde approach, SBB hemostasis (stub)
+- [[capsule-endoscopy]] — Capsule endoscopy: small bowel visualization, SBB first-line investigation, patency capsule pre-DAE, diagnostic yield/timing by indication (2 sources)
+- [[device-assisted-enteroscopy]] — DAE (single/double-balloon, spiral): therapeutic enteroscopy after positive VCE, DAE-first in altered anatomy/angiectasia suspicion, SBB hemostasis (2 sources)
 
 ### Colorectal Procedures
 
@@ -378,6 +382,9 @@ updated: 2026-06-15
 
 ### ASGE
 
+- [[asge-2019-radiation-proctopathy]] — ASGE 2019: Endoscopy for Bleeding from Chronic Radiation Proctopathy — Lee et al. Gastrointest Endosc 2019;90:171–182 — 3 GRADE recs (conditional/low); APC, bipolar electrocoagulation, heater probe, RFA all effective (no proven superiority); suggest against 4% formalin vs APC; cryoablation insufficient evidence
+- [[asge-2017-small-bowel-bleeding]] — ASGE 2017: Role of Endoscopy in Suspected Small-Bowel Bleeding — Gurudu et al. Gastrointest Endosc 2017;85:22–31 — 8 GRADE recs; VCE-first algorithm; DAE/push enteroscopy for therapy; DAE as initial procedure in altered anatomy/angiectasia suspicion; angiography for unstable bleeding
+- [[asge-2014-lgib]] — ASGE 2014: Role of Endoscopy in the Patient with Lower GI Bleeding — Gastrointest Endosc 2014;79:875–885 — 12 GRADE recs; colonoscopy first-line; EGD first for melena/unstable hematochezia; colonoscopy <24h for severe hematochezia; epinephrine+thermal/clip for diverticular bleeding, APC for angioectasias
 - [[asge-2023-ergonomics]] — ASGE 2023: Role of Ergonomics for Prevention of Endoscopy-Related Injury — Pawa et al. Gastrointest Endosc 2023;98:482–491 — 2 strong + 3 conditional GRADE recs (all very low quality): ergonomics education, micro/macrobreaks, neutral monitor position, neutral bed height, antifatigue mats; ERI 57.7%, female OR 1.79
 - [[asge-2023-post-transplant-biliary-strictures]] — ASGE 2023: Post–Liver Transplant Biliary Strictures — 4 conditional GRADE recs; MRCP-first dx (sens 94.9%); ERCP over PTBD (PTBD 8.47× allograft-failure odds); cSEMS over multiple plastic stents (fewer procedures/lower cost); selective periprocedural antibiotics
 - [[asge-2019-barretts-screening-surveillance]] — ASGE 2019: Screening and Surveillance of Barrett's Esophagus — 6 GRADE statements; at-risk screening strata; chromoendoscopy + Seattle protocol (strong-for); against routine EUS and CLE; WATS-3D adjunct; VLE insufficient
@@ -386,6 +393,12 @@ updated: 2026-06-15
 - [[asge-2023-indeterminate-biliary-strictures]] — ASGE 2023: Endoscopic Diagnosis of Malignancy in Indeterminate Biliary Strictures — 3 conditional/very-low-quality recommendations; fluoroscopic biopsy + brush cytology; cholangioscopy for nondistal strictures; EUS for distal/nodal/nondiagnostic; combined-modality sensitivities (brush ~0.40 → +biopsy ~0.66 → +cholangioscopy ~0.72 → +EUS ~0.88)
 - [[asge-2022-pancreatic-cancer-screening]] — ASGE 2022: Screening for Pancreatic Cancer in Genetically Susceptible Individuals (GRADE) — Sawhney et al. Gastrointest Endosc 2022;95:817–826 — 5 GRADE recommendations + condition-specific starting-age table; EUS/MRI annual surveillance; all BRCA1/2 carriers screened regardless of family history; yield 3.1%, harms (low-yield surgery)
 - [[asge-2020-endoscopic-removal]] — ASGE 2020: Endoscopic Removal of Colorectal Lesions — Kaltenbach et al. Gastrointest Endosc 2020;91:486–519 — same document as usmstf-2020-endoscopic-removal (multi-journal simultaneous publication); 36 recommendations; ERBE electrosurgery settings; underwater/cold snare EMR recurrence data; eFTR R0 rates; hot avulsion; DOPyS/CSPAT competency tools
+- [[asge-2015-scenic-ibd-dysplasia]] — SCENIC International Consensus (ASGE/AGA): Surveillance & Management of Dysplasia in IBD — Laine et al. Gastrointest Endosc 2015;81:489–501 — 9 GRADE recs; HD over SD, chromoendoscopy over white-light, NBI not substituted; visible (polypoid/nonpolypoid) vs invisible dysplasia (DALM abandoned); resect-and-survey over colectomy for resectable visible dysplasia
+- [[asge-2020-acpo-volvulus]] — ASGE 2020: Endoscopy in Acute Colonic Pseudo-Obstruction & Colonic Volvulus — Naveed et al. Gastrointest Endosc 2020;91:228–235 — 10 recs; sigmoid volvulus endoscopic detorsion-first + surgical consult; cecal volvulus surgery-first; ACPO conservative ×72h → neostigmine 2 mg → endoscopic decompression; surgery for perforation/peritonitis
+- [[asge-2015-deep-enteroscopy]] — ASGE 2015: Role of Deep Enteroscopy in the Management of Small-Bowel Disorders — Khashab et al. Gastrointest Endosc 2015;82:600–607 — 7 GRADE recs; DBE/SBE/spiral; DBE most effective for total enteroscopy; VCE-first then DE for positive findings; DE for small-bowel tumors and Crohn's lesions within reach
+- [[asge-2013-crc-staging-management]] — ASGE 2013: Role of Endoscopy in the Staging and Management of Colorectal Cancer — Fisher et al. Gastrointest Endosc 2013;78:8–12 — 8 GRADE recs; EUS rectal staging (T 80–96% sens); endoscopic vs surgical malignant-polyp criteria; SEMS bridge-to-surgery (60–85% single-stage); EMR only if complete resection anticipated
+- [[asge-2014-constipation]] — ASGE 2014: Role of Endoscopy in the Management of Constipation — Cash et al. Gastrointest Endosc 2014;80:563–565 — 4 GRADE recs; no endoscopy without alarm features; colonoscopy for alarm features / pre-surgery / age-appropriate screening; low yield in isolated constipation; therapeutic stricture dilation + cecostomy; no role in disimpaction
+- [[asge-2010-anorectal-disorders]] — ASGE 2010: Role of Endoscopy in Patients With Anorectal Disorders — Cash et al. Gastrointest Endosc 2010;72:1117–1123 — 9 GRADE recs; APC first-line for radiation proctopathy; RBL for bleeding/prolapsing internal hemorrhoids; nitrate/CCB/botulinum then LIS for anal fissure; flex sig/colonoscopy + EAUS/MRI for fecal incontinence (mostly superseded by ACG 2021 / ASGE 2019)
 
 ### SAGES
 

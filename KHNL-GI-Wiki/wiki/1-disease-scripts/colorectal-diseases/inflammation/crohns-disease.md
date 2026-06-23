@@ -3,8 +3,8 @@ title: "Crohn's Disease"
 category: disease-script
 tags: [crohns, ibd, biologics, ileitis, colitis, perianal-fistula, stricture, fistula, anti-tnf]
 created: 2026-05-07
-updated: 2026-05-07
-sources: [acg-2025-crohns, aga-2025-crohns-pharm, aga-2021-crohns-pharm, aga-2023-biomarkers-cd, acg-2018-crohns]
+updated: 2026-06-22
+sources: [acg-2025-crohns, aga-2025-crohns-pharm, aga-2021-crohns-pharm, aga-2023-biomarkers-cd, acg-2018-crohns, asge-2015-scenic-ibd-dysplasia]
 ---
 
 # Crohn's Disease
@@ -69,14 +69,14 @@ No single pathognomonic test. Diagnosis = integration of:
 
 | Condition | Key distinguishing features |
 |---|---|
-| [[ulcerative-colitis|Ulcerative colitis]] | Continuous, rectal involvement, mucosal only (no transmural), no fistulas/abscesses |
-| Infectious colitis ([[salmonella-infection|Salmonella]], [[campylobacter-infection|Campylobacter]], Yersinia) | Acute onset; stool culture; resolves within weeks |
-| [[clostridioides-difficile|Clostridioides difficile]] | Risk factors; toxin assay |
+| [[ulcerative-colitis\|Ulcerative colitis]] | Continuous, rectal involvement, mucosal only (no transmural), no fistulas/abscesses |
+| Infectious colitis ([[salmonella-infection\|Salmonella]], [[campylobacter-infection\|Campylobacter]], Yersinia) | Acute onset; stool culture; resolves within weeks |
+| [[clostridioides-difficile\|Clostridioides difficile]] | Risk factors; toxin assay |
 | Intestinal TB | Exposure history; AFB stain/culture; IGRA; ileocecal location (mimics CD closely) |
 | NSAID enteropathy | Medication history; small bowel diaphragms |
-| [[colon-ischemia|Ischemic colitis]] | Vascular risk factors; watershed distribution (splenic flexure) |
-| [[celiac-disease|Celiac disease]] | Proximal SB involvement; anti-TTG; responds to GFD |
-| [[irritable-bowel-syndrome|IBS]] | No objective inflammation; normal FC, CRP, endoscopy |
+| [[colon-ischemia\|Ischemic colitis]] | Vascular risk factors; watershed distribution (splenic flexure) |
+| [[celiac-disease\|Celiac disease]] | Proximal SB involvement; anti-TTG; responds to GFD |
+| [[irritable-bowel-syndrome\|IBS]] | No objective inflammation; normal FC, CRP, endoscopy |
 | Appendicitis | RLQ pain, fever; acute; CT showing appendix |
 | Lymphoma | Weight loss, mass; biopsy |
 | Endometriosis | Women; cyclical symptoms; pelvic imaging |
@@ -301,7 +301,7 @@ No single pathognomonic test. Diagnosis = integration of:
 | Clinical response | 2–4 weeks post-induction | Symptom improvement |
 | Objective response | 12–16 weeks | CRP, FC, endoscopy, imaging |
 | TDM (anti-TNF) | At loss of response | Trough levels + antidrug antibodies |
-| CRC surveillance | 8 years of colonic involvement; q1–2y | Chromoendoscopy preferred |
+| CRC surveillance | 8 years of colonic involvement; q1–2y | HD + dye-spray chromoendoscopy preferred ([[asge-2015-scenic-ibd-dysplasia|SCENIC]]) |
 | Postoperative scope | 6–12 months | Rutgeerts score |
 
 **Symptoms do not correlate with mucosal inflammation** — always confirm with objective assessment (endoscopy, CRP, FC) before treatment decisions.
@@ -346,3 +346,4 @@ No single pathognomonic test. Diagnosis = integration of:
 3. [[aga-2021-crohns-pharm|AGA Clinical Practice Guidelines on the Medical Management of Moderate to Severe Luminal and Perianal Fistulizing Crohn's Disease (2021)]]
 4. [[aga-2023-biomarkers-cd|AGA Clinical Practice Guideline: Role of Biomarkers for the Management of Crohn's Disease (2023)]]
 5. [[acg-2018-crohns|ACG 2018: Management of Crohn's Disease in Adults (historical)]]
+6. [[asge-2015-scenic-ibd-dysplasia|SCENIC International Consensus Statement on Surveillance and Management of Dysplasia in IBD (2015)]]

@@ -127,7 +127,7 @@ Surveillance intervals by cyst size (Figure 2):
 
 | Cyst Type | Clinical Associations | Key Imaging/Fluid Features |
 |---|---|---|
-| Pseudocyst | Acute and/or [[chronic-pancreatitis|chronic pancreatitis]] | Fluid ± debris; aspirate: brown, high amylase/lipase, low CEA |
+| Pseudocyst | Acute and/or [[chronic-pancreatitis\|chronic pancreatitis]] | Fluid ± debris; aspirate: brown, high amylase/lipase, low CEA |
 | Serous cystadenoma | 75% women, 6th decade | Microcystic/honeycomb; central scar in <30%; aspirate: low CEA, low amylase/lipase |
 | IPMN (side branch) | Men = Women, 7th decade; most common incidental cyst; may be multifocal | Communication with main duct; aspirate: high CEA, high amylase |
 | IPMN (main duct) | Less common than SB; higher cancer risk | Dilated MPD; patulous orifice in 50%; aspirate: high CEA, high amylase |

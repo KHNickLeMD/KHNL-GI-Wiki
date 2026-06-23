@@ -96,7 +96,7 @@ Subtypes by Bristol Stool Form Scale **on days with abnormal stools** (assess of
 | Antispasmodics (global symptoms) | Against (Conditional/Low) |
 | **TCAs** (amitriptyline 50–100, desipramine 25–100, nortriptyline 25–75) | Strong/Moderate |
 | **Gut-directed psychotherapy** (CBT, hypnotherapy, mindfulness) | Conditional/VLow |
-| [[probiotics|Probiotics]] | Against (Conditional/VLow) |
+| [[probiotics\|Probiotics]] | Against (Conditional/VLow) |
 | **FMT** | Strong AGAINST (Strong/VLow) |
 
 ### IBS-C

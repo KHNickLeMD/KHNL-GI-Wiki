@@ -196,7 +196,7 @@ This page covers **post-transplant management of the liver transplant recipient*
 | Timing | Common Causes |
 |--------|--------------|
 | Early (<3 months) | Primary non-function, hepatic artery thrombosis, acute cellular rejection, biliary leak, drug toxicity, ischemia-reperfusion injury |
-| Late (>1 year) | Recurrent disease (HCV, HBV, NAFLD, PBC, PSC, AIH), late acute rejection, chronic rejection, [[biliary-stricture|biliary stricture]] (anastomotic or non-anastomotic), de novo AIH, chronic hepatitis (CMV, EBV), vascular complications, drug toxicity |
+| Late (>1 year) | Recurrent disease (HCV, HBV, NAFLD, PBC, PSC, AIH), late acute rejection, chronic rejection, [[biliary-stricture\|biliary stricture]] (anastomotic or non-anastomotic), de novo AIH, chronic hepatitis (CMV, EBV), vascular complications, drug toxicity |
 
 **Most common causes of late allograft dysfunction:**
 

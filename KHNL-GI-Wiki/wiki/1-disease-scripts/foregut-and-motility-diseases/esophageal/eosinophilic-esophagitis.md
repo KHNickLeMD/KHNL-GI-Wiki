@@ -3,7 +3,7 @@ title: "Eosinophilic Esophagitis"
 category: disease-script
 tags: [eoe, esophageal, dysphagia, food-impaction, eosinophil, atopic, biologic, dupilumab]
 created: 2026-05-07
-updated: 2026-05-07
+updated: 2026-06-22
 sources: [acg-2025-eoe, aga-2020-eoe, acg-2013-eoe]
 ---
 
@@ -29,7 +29,7 @@ Chronic, immune/antigen-mediated esophageal disease. Characterized by esophageal
 |---|---|
 | Infants/toddlers | Feeding refusal, vomiting, failure to thrive |
 | School-age children | Abdominal pain, vomiting, regurgitation |
-| Adolescents/adults | [[dysphagia|Dysphagia]], food impaction |
+| Adolescents/adults | [[dysphagia\|Dysphagia]], food impaction |
 
 **IMPACT behaviors** (adaptive behaviors masking symptoms):
 
@@ -68,17 +68,19 @@ Chronic, immune/antigen-mediated esophageal disease. Characterized by esophageal
 
 ## Differential Diagnosis
 
+*Workup: see [[dysphagia]].*
+
 | Condition | Distinguishing features |
 |---|---|
-| [[gerd|GERD]] | No eosinophils on biopsy or responds to PPI (but PPI response ≠ exclude EoE) |
+| [[gerd\|GERD]] | No eosinophils on biopsy or responds to PPI (but PPI response ≠ exclude EoE) |
 | Proton pump inhibitor-responsive esophageal eosinophilia (PPIREE) | Now considered subset of EoE, not separate entity |
-| [[achalasia|Achalasia]] / motility disorders | Manometry abnormal; esophageal body aperistalsis |
+| [[achalasia\|Achalasia]] / motility disorders | Manometry abnormal; esophageal body aperistalsis |
 | Eosinophilic gastroenteritis | Eosinophilia extends beyond esophagus |
 | Hypereosinophilic syndrome | Peripheral eosinophilia >1500 with multi-organ involvement |
 | Pill esophagitis | History of medication, focal injury |
 | Infectious esophagitis (Candida, HSV) | Immunocompromise, systemic symptoms; biopsy shows organisms |
-| [[celiac-disease|Celiac disease]] | Duodenal findings; anti-TTG; responds to gluten-free diet |
-| [[inflammatory-bowel-disease|IBD]] ([[crohns-disease|Crohn's]]) | Perianal, small bowel involvement; [[colonoscopy]] findings |
+| [[celiac-disease\|Celiac disease]] | Duodenal findings; anti-TTG; responds to gluten-free diet |
+| [[inflammatory-bowel-disease\|IBD]] ([[crohns-disease\|Crohn's]]) | Perianal, small bowel involvement; [[colonoscopy]] findings |
 | Drug hypersensitivity | Temporal association with new medication |
 
 ---

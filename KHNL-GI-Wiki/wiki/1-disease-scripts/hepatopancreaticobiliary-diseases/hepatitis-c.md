@@ -36,7 +36,7 @@ Fibrosis staging before treatment to guide duration, regimen selection, and post
 |---|---|---|
 | FIB-4 | <1.30 = low fibrosis; >3.25 = advanced fibrosis/cirrhosis | Age/AST/ALT/platelet; calculated online |
 | VCTE (FibroScan) | ≥12.5 kPa = compensated cirrhosis | Aetiology-specific cutoffs; less reliable with [[obesity]]/elevated ALT |
-| [[liver-biopsy|Liver biopsy]] | Metavir F0–F4 | Rarely needed; use for diagnostic uncertainty |
+| [[liver-biopsy\|Liver biopsy]] | Metavir F0–F4 | Rarely needed; use for diagnostic uncertainty |
 | Child-Pugh score | A/B/C | Decompensated = CTP ≥7 (score B or C); key regimen selection criterion |
 
 **Cirrhosis determination for treatment selection:**
@@ -63,7 +63,7 @@ Fibrosis staging before treatment to guide duration, regimen selection, and post
 | HCV antibody | Screening |
 | Quantitative HCV RNA | Confirm active infection; baseline viral load |
 | HCV genotype | Required for some non-pangenotypic regimens; NS5A RAS if GT3 + cirrhosis |
-| CBC | Baseline; thrombocytopenia suggests [[portal-hypertension|portal hypertension]] |
+| CBC | Baseline; thrombocytopenia suggests [[portal-hypertension\|portal hypertension]] |
 | Comprehensive metabolic panel (AST, ALT, bilirubin, albumin, INR, creatinine) | Baseline hepatic function; Child-Pugh calculation |
 | FIB-4 or VCTE | Fibrosis staging |
 | HBsAg, anti-HBs, anti-HBc | Reactivation risk (HBsAg+: prophylactic NA; resolved HBV: monitor) |

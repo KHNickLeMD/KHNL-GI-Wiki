@@ -96,12 +96,12 @@ PSC is a chronic, cholestatic liver disease likely of autoimmune origin characte
 | **Serum IgG4** | Measure in all patients with possible PSC (GS 4) | IgG4 >5.6 g/L = IgG4-SC likely; IgG4/IgG1 <0.24 can exclude IgG4-SC |
 | **AMA** | Test to exclude PBC | Negative in PSC |
 | **CA 19-9 + MRI/MRCP** | Annual CCA surveillance (GS 18) | CA 19-9 alone must NOT diagnose CCA (GS 32); FUT2/FUT3 genotype affects CA 19-9 sensitivity; up to 10% of population does not express CA 19-9 |
-| **[[fish|FISH (fluorescence in situ hybridization)]]** | Performed routinely during ERCP for relevant strictures (GS 19) | Pancreaticobiliary probe set: 93% sensitivity/100% specificity for malignancy; polysomy = ≥5 cells with gains in ≥2 probes; serial polysomy in dominant stricture = probable CCA |
+| **[[fish\|FISH (fluorescence in situ hybridization)]]** | Performed routinely during ERCP for relevant strictures (GS 19) | Pancreaticobiliary probe set: 93% sensitivity/100% specificity for malignancy; polysomy = ≥5 cells with gains in ≥2 probes; serial polysomy in dominant stricture = probable CCA |
 | **Intraductal brushings/biopsy** | Cytology + FISH during ERCP for relevant strictures | Positive cytology/biopsy = CCA; FISH polysomy + CA 19-9 ≥129 U/ml = high likelihood of CCA without mass |
-| **[[colonoscopy|Colonoscopy]] with biopsies** | At PSC diagnosis if no prior IBD (GS 6); HD surveillance q1–2y from age 15 in PSC-IBD (GS 22) | 5-year intervals if no IBD found; chromoendoscopy when only standard-definition [[colonoscopy]] available |
+| **[[colonoscopy\|Colonoscopy]] with biopsies** | At PSC diagnosis if no prior IBD (GS 6); HD surveillance q1–2y from age 15 in PSC-IBD (GS 22) | 5-year intervals if no IBD found; chromoendoscopy when only standard-definition [[colonoscopy]] available |
 | **DEXA** | At diagnosis; every 2–3 years (GS 29) | Osteopenia in 4–10%; bone disease associated with nontraumatic fractures |
 | **Vitamins A, D, E, K** | At diagnosis and yearly thereafter (GS 28) | Deficiencies: 40%/14%/2% for vitamins A/D/E in early PSC; 82%/57%/43% in advanced disease; supplement per Table 4 |
-| **[[upper-endoscopy|Upper endoscopy]]** | Screen for varices if LS >20 kPa by TE OR platelets ≤150,000/mm³ (GS 17) | Baveno-VI criteria: if LS ≤20 kPa AND platelets >150,000/mm³ → safe to defer EGD |
+| **[[upper-endoscopy\|Upper endoscopy]]** | Screen for varices if LS >20 kPa by TE OR platelets ≤150,000/mm³ (GS 17) | Baveno-VI criteria: if LS ≤20 kPa AND platelets >150,000/mm³ → safe to defer EGD |
 | **ELF test** | Serum fibrosis biomarker; useful as surrogate in clinical trials | Not widely available commercially; less variability on serial measurements than ALP |
 
 **Stricture Terminology** ([[aasld-2022-psc]]):

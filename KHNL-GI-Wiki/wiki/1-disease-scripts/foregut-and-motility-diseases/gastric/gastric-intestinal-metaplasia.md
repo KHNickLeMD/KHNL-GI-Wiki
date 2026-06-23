@@ -49,11 +49,11 @@ GIM affects approximately 5% of the US population. Prevalence is higher in high-
 
 | Condition | Key Features |
 |-----------|-------------|
-| [[atrophic-gastritis|Atrophic gastritis]] (without GIM) | Gastric gland atrophy on biopsy; precedes GIM in Correa cascade; check H. pylori |
+| [[atrophic-gastritis\|Atrophic gastritis]] (without GIM) | Gastric gland atrophy on biopsy; precedes GIM in Correa cascade; check H. pylori |
 | Reactive (chemical) gastropathy | NSAID/bile reflux injury; foveolar hyperplasia, smooth muscle proliferation; no goblet cells |
 | Autoimmune gastritis | Corpus-predominant atrophy; anti-parietal cell antibodies; B12 deficiency; low pepsinogen I/II ratio |
 | Gastric dysplasia | Architectural and cytologic atypia on biopsy; endoscopic resection usually required; not just metaplasia |
-| [[gastric-adenocarcinoma|Gastric adenocarcinoma]] | Early GC may look benign endoscopically; any nodularity, ulceration, or irregularity in GIM area → biopsy and consider referral |
+| [[gastric-adenocarcinoma\|Gastric adenocarcinoma]] | Early GC may look benign endoscopically; any nodularity, ulceration, or irregularity in GIM area → biopsy and consider referral |
 
 ---
 

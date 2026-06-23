@@ -38,7 +38,7 @@ BMMRD is characterized by three major tumor domains, all with childhood onset [[
 |---|---|---|
 | Colorectal adenomas | >90% | 9 (6–15) |
 | Small-bowel adenomas | 50% | 12 (10–20) |
-| [[colorectal-cancer|Colorectal cancer]] | 70% | 16 (8–48) |
+| [[colorectal-cancer\|Colorectal cancer]] | 70% | 16 (8–48) |
 | Small-bowel cancer | 10% | 28 (11–42) |
 
 **Brain tumors**
@@ -123,8 +123,8 @@ All surveillance recommendations are **weak, low to very low quality evidence** 
 
 | Intervention | Recommendation | Alternative |
 |---|---|---|
-| [[colonoscopy|Colonoscopy]] | Annually beginning at age 6; every 6 months once polyps identified | — |
-| [[upper-endoscopy|Upper endoscopy]] + VCE | Annually beginning at age 8 | — |
+| [[colonoscopy\|Colonoscopy]] | Annually beginning at age 6; every 6 months once polyps identified | — |
+| [[upper-endoscopy\|Upper endoscopy]] + VCE | Annually beginning at age 8 | — |
 | Brain MRI | Every 6 months beginning at age 2 | Head ultrasound until fontanel fusion |
 | CBC | Every 6 months beginning at age 1 | Abdominal ultrasound q6 months (European Consortium) |
 | Pelvic exam + endometrial sampling | Annually beginning at age 20 (women) | — |

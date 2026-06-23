@@ -161,7 +161,7 @@ More rigorous documentation is recommended for Barrett's esophagus, gastric inte
 | Bleeding peptic ulcers | Forrest classification |
 | Superficial neoplastic lesions | Paris classification |
 | Gastroesophageal flap valve | Hill grade classification |
-| [[eosinophilic-esophagitis|Eosinophilic esophagitis]] | EREFS; I-SEE (emerging standard for disease activity) |
+| [[eosinophilic-esophagitis\|Eosinophilic esophagitis]] | EREFS; I-SEE (emerging standard for disease activity) |
 
 ### Biopsy Protocols — AGA 2024 (BPA 7)
 

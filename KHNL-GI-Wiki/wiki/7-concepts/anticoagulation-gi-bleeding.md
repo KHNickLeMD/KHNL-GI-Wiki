@@ -110,16 +110,16 @@ The periendoscopic framework applies to patients undergoing **scheduled, electiv
 
 | High bleeding risk (30-day major bleed >2%) | Low/moderate bleeding risk (≤2%) |
 |---|---|
-| [[polypectomy-emr|Polypectomy ≥1 cm]] | [[upper-endoscopy|EGD]] ± biopsy |
-| EMR / ESD | [[colonoscopy|Colonoscopy]] ± biopsy |
-| [[ercp|ERCP]] with sphincterotomy | Flexible sigmoidoscopy ± biopsy |
-| [[endoscopic-ultrasound|EUS-FNA]] | EUS without FNA |
-| PEG/PEJ placement | [[ercp|ERCP]] with stent, without sphincterotomy |
+| [[polypectomy-emr\|Polypectomy ≥1 cm]] | [[upper-endoscopy\|EGD]] ± biopsy |
+| EMR / ESD | [[colonoscopy\|Colonoscopy]] ± biopsy |
+| [[ercp\|ERCP]] with sphincterotomy | Flexible sigmoidoscopy ± biopsy |
+| [[endoscopic-ultrasound\|EUS-FNA]] | EUS without FNA |
+| PEG/PEJ placement | [[ercp\|ERCP]] with stent, without sphincterotomy |
 | Endoscopic hemostasis (excl. APC) | Push/diagnostic balloon enteroscopy |
 | Variceal treatment (incl. band ligation) | APC |
-| [[poem|POEM]] | Polypectomy <1 cm |
-| [[radiofrequency-ablation|Radiofrequency ablation]] | Enteral stent deployment |
-| Ampullary resection | Video [[capsule-endoscopy|capsule endoscopy]] |
+| [[poem\|POEM]] | Polypectomy <1 cm |
+| [[radiofrequency-ablation\|Radiofrequency ablation]] | Enteral stent deployment |
+| Ampullary resection | Video [[capsule-endoscopy\|capsule endoscopy]] |
 | Cystogastrostomy | Marking / clipping / tattooing |
 | Therapeutic balloon enteroscopy | ERCP without sphincterotomy |
 | Pneumatic/bougie dilation | Tumor ablation |

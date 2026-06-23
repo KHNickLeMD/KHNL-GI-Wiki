@@ -38,11 +38,11 @@ sources: [acg-2024-acute-pancreatitis]
 | **Alcohol (~30%)** | Heavy use history; AST:ALT >2 | History; GGT |
 | **Hypertriglyceridemia** | Serum turbidity; TG >1000 mg/dL | Fasting lipid panel |
 | **Medications** | Azathioprine, DDI, valproate, furosemide, etc. | Medication review |
-| **Post-[[ercp|ERCP]]** | Develops within hours of procedure | Clinical context |
+| **Post-[[ercp\|ERCP]]** | Develops within hours of procedure | Clinical context |
 | **Hypercalcemia** | Hyperparathyroidism | Serum calcium, PTH |
 | **Genetic** | Young, recurrent, family history | PRSS1, SPINK1, CFTR mutation panel |
 | **Autoimmune (AIP type 1)** | IgG4-RD features; older male; bile duct involvement | IgG4 level; MRI pancreas |
-| **Idiopathic (~20%)** | After above excluded | [[endoscopic-ultrasound|EUS]] or MRCP (microlithiasis, periampullary lesion) |
+| **Idiopathic (~20%)** | After above excluded | [[endoscopic-ultrasound\|EUS]] or MRCP (microlithiasis, periampullary lesion) |
 
 ### Severity Assessment
 

@@ -3,7 +3,7 @@ title: "Hepatocellular Adenoma"
 category: disease-script
 tags: [hca, liver, hpb, focal-liver-lesion, benign-liver-tumor, ocp, hcc-risk, resection]
 created: 2026-05-07
-updated: 2026-05-07
+updated: 2026-06-20
 sources: [acg-2024-focal-liver-lesions]
 ---
 
@@ -32,12 +32,15 @@ sources: [acg-2024-focal-liver-lesions]
 
 **Molecular subtypes (Bordeaux classification)** [[acg-2024-focal-liver-lesions]]:
 
-| Subtype | Frequency | Key Features | Malignant Risk | Imaging |
-|---|---|---|---|---|
-| **HNF1α-inactivated** | 30–40% | Steatotic lesion; seen in women; MODY3 association | Lowest | Fat-containing on MRI |
-| **Inflammatory (IHCA)** | 40–50% | Elevated CRP/SAA; [[obesity]]/metabolic syndrome/alcohol; sinusoidal dilation | Moderate bleed risk | Persistent enhancement on gadoxetate |
-| **Beta-catenin activated** | 10–15% | Often in men; anabolic steroids, GSD; resembles HCC on imaging | **Highest (HCC risk)** | May mimic HCC; heterogeneous |
-| **Unclassified** | ~10% | Cannot be classified by immunostaining | Uncertain | Variable |
+Risk values below are the ACG Table 5 "Complications" data (hemorrhage / malignancy).
+
+| Subtype | Frequency | Key Features | Hemorrhage risk | Malignancy risk | Imaging |
+|---|---|---|---|---|---|
+| **HNF1α-inactivated** | 35–40% | Steatotic lesion; women; MODY3 association | Low | Low | Fat-containing (signal dropout) on MRI |
+| **Inflammatory (IHCA)** | 35–45% | Elevated CRP/SAA; [[obesity]]/metabolic syndrome/alcohol; sinusoidal dilation | Low | Moderate | Persistent enhancement on gadoxetate |
+| **Beta-catenin activated** | 10–15% | Often men; anabolic steroids, GSD; resembles HCC | Low | **High (up to 46%, exon 3)** | May mimic HCC; heterogeneous |
+| **Sonic hedgehog** | <5% | Exogenous hormones, [[obesity]]; SHH-pathway (INHβE/GLI1 fusion) | **High** | Low | Nonspecific on MRI (not reliably subtyped) |
+| **Unclassified** | 5–10% | Cannot be classified by immunostaining | Uncertain | Uncertain | Variable |
 
 ### Severity Assessment
 
@@ -54,6 +57,8 @@ sources: [acg-2024-focal-liver-lesions]
 ---
 
 ## Differential Diagnosis
+
+*Workup & imaging comparison: see [[focal-liver-lesions]].*
 
 - **[[focal-nodular-hyperplasia|Focal nodular hyperplasia]] (FNH)** — central scar, spoke-wheel vessels on MRI/CEUS; hepatobiliary phase uptake on gadoxetate; no malignant potential; does not need resection
 - **[[hepatic-hemangioma|Hepatic hemangioma]]** — T2 hyperintense; peripheral nodular enhancement centripetal fill-in; no hepatocellular origin
@@ -151,8 +156,7 @@ sources: [acg-2024-focal-liver-lesions]
 
 ## See Also
 
-
-[[focal-nodular-hyperplasia]], [[hepatic-hemangioma]], [[hepatocellular-carcinoma]], [[hepatic-cysts]], [[li-rads]]
+[[focal-liver-lesions]], [[focal-nodular-hyperplasia]], [[hepatic-hemangioma]], [[hepatocellular-carcinoma]], [[hepatic-cysts]], [[li-rads]]
 
 ---
 

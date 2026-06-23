@@ -35,8 +35,8 @@ The guideline also addresses acute severe AIH (jaundice + INR 1.5–<2.0 without
 | # | Recommendation | Strength | Evidence |
 |---|---|---|---|
 | 1 | In children and adults with AIH **without cirrhosis or acute severe AIH**: budesonide (3 mg TID) + AZA (50–150 mg/day adults; 1–2 mg/kg/day children) OR prednisone/prednisolone + AZA are equally acceptable first-line therapies | Conditional | Low certainty |
-| 2 | In patients with cirrhosis **OR** acute severe AIH (INR 1.5–<2.0 without [[hepatic-encephalopathy|HE]]): do **NOT** use budesonide (portal-systemic shunting bypasses first-pass effect, eliminating systemic SE advantage) | Conditional | Very low certainty |
-| 3 | For treatment failure, incomplete response, or drug intolerance: MMF or [[tacrolimus|TAC]] as second-line alternatives | Conditional | Low certainty |
+| 2 | In patients with cirrhosis **OR** acute severe AIH (INR 1.5–<2.0 without [[hepatic-encephalopathy\|HE]]): do **NOT** use budesonide (portal-systemic shunting bypasses first-pass effect, eliminating systemic SE advantage) | Conditional | Very low certainty |
+| 3 | For treatment failure, incomplete response, or drug intolerance: MMF or [[tacrolimus\|TAC]] as second-line alternatives | Conditional | Low certainty |
 | 4 | MMF is preferred over TAC as initial second-line therapy due to superior ease of use and side-effect profile | Conditional | Very low certainty |
 | 5 | After liver transplantation: gradual glucocorticoid withdrawal (as per center-specific protocol) is recommended | Conditional | Very low certainty |
 

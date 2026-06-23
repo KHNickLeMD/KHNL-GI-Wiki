@@ -3,8 +3,8 @@ title: "Chronic Idiopathic Constipation"
 category: disease-script
 tags: [constipation, cic, laxatives, secretagogues, peg, linaclotide, colorectal, functional]
 created: 2026-05-16
-updated: 2026-05-16
-sources: [aga-acg-2023-constipation, acg-2021-anorectal-disorders]
+updated: 2026-06-22
+sources: [aga-acg-2023-constipation, acg-2021-anorectal-disorders, asge-2014-constipation]
 ---
 
 ## Assessment
@@ -54,11 +54,11 @@ Assess impact on quality of life using validated tools (PAC-QoL, PAC-SYM) and st
 |-----------|-------------|
 | IBS-C | Abdominal pain is central symptom; bloating; pain relieved by defecation |
 | Opioid-induced constipation | Clear opioid use; consider methylnaltrexone, naloxegol, or [[lubiprostone]] specifically |
-| Defecation disorder | Outlet symptoms; abnormal ARM + BET; treat with [[biofeedback-therapy|biofeedback]], not secretagogues |
+| Defecation disorder | Outlet symptoms; abnormal ARM + BET; treat with [[biofeedback-therapy\|biofeedback]], not secretagogues |
 | Hypothyroidism | TSH elevated; cold intolerance, fatigue, weight gain |
 | Hypercalcemia | Fatigue, polyuria, confusion; check calcium |
 | Medication-induced | Opioids, anticholinergics, iron, CCBs — review medication list |
-| [[colorectal-cancer|Colorectal cancer]] | Alarm features present (see below); [[colonoscopy]] indicated |
+| [[colorectal-cancer\|Colorectal cancer]] | Alarm features present (see below); [[colonoscopy]] indicated |
 | Hirschsprung disease | Usually diagnosed in childhood; adult cases rare; suction rectal biopsy |
 
 **Alarm features requiring structural evaluation ([[colonoscopy]]):**
@@ -87,6 +87,15 @@ Assess impact on quality of life using validated tools (PAC-QoL, PAC-SYM) and st
 - **Defecography (barium or MRI):** for structural abnormalities (rectocele, prolapse) if ARM + BET discordant or biofeedback fails
 - **Colonic transit study** (radiopaque markers or wireless motility capsule): only if anorectal physiology is normal and patient not responding to biofeedback; distinguishes slow-transit from outlet dysfunction
 
+### Role of Endoscopy (ASGE 2014)
+
+[[asge-2014-constipation]] — endoscopy is **not** part of the initial workup of chronic constipation absent alarm features or organic-disease suspicion. Yield of colonoscopy for isolated constipation is **low** (comparable to average-risk screening); meta-analysis shows no increased CRC risk.
+
+- **Scope when:** alarm features (above), before surgery for constipation, or age-appropriate CRC screening not yet done. Flexible sigmoidoscopy may suffice in younger patients to exclude distal disease; suspected Hirschsprung needs [[anorectal-manometry|ARM]] + deep biopsy.
+- **Incidental findings:** solitary rectal ulcer syndrome (suggests [[rectal-prolapse]]), [[anal-fissure]], melanosis coli (chronic laxative use).
+- **Therapeutic role:** dilation of benign colonic strictures (IBD, surgical, ischemic); percutaneous endoscopic cecostomy/colostomy for refractory neurogenic bowel. **No role in stool disimpaction.**
+- Chronic constipation is an independent risk factor for inadequate bowel prep → use a more aggressive cleansing regimen.
+
 ---
 
 ## Therapeutics
@@ -114,10 +123,10 @@ Assess impact on quality of life using validated tools (PAC-QoL, PAC-SYM) and st
 
 | Agent | Class | Dose | Strength/Evidence | Cost/month |
 |-------|-------|------|------------------|-----------|
-| **[[linaclotide|Linaclotide]]** | GC-C agonist | 145 mcg daily (CIC dose) | Strong/Moderate | ~$523 |
-| **[[plecanatide|Plecanatide]]** | GC-C agonist | 3 mg daily | Strong/Low | ~$526 |
-| **[[prucalopride|Prucalopride]]** | 5-HT4 agonist (prokinetic) | 1–2 mg daily | Strong/Low | ~$563 |
-| **[[lubiprostone|Lubiprostone]]** | ClC-2 chloride channel activator | 24 mcg BID | Conditional/Low | ~$374 |
+| **[[linaclotide\|Linaclotide]]** | GC-C agonist | 145 mcg daily (CIC dose) | Strong/Moderate | ~$523 |
+| **[[plecanatide\|Plecanatide]]** | GC-C agonist | 3 mg daily | Strong/Low | ~$526 |
+| **[[prucalopride\|Prucalopride]]** | 5-HT4 agonist (prokinetic) | 1–2 mg daily | Strong/Low | ~$563 |
+| **[[lubiprostone\|Lubiprostone]]** | ClC-2 chloride channel activator | 24 mcg BID | Conditional/Low | ~$374 |
 
 **Notes on selection:**
 
@@ -141,7 +150,7 @@ If defecation disorder is identified (abnormal ARM + BET), **[[biofeedback-thera
 ## See Also
 
 
-[[defecation-disorders]], [[irritable-bowel-syndrome]], [[colorectal-cancer]], [[biofeedback-therapy]], [[linaclotide]], [[plecanatide]], [[prucalopride]], [[lubiprostone]], [[anorectal-manometry]]
+[[defecation-disorders]], [[irritable-bowel-syndrome]], [[colorectal-cancer]], [[biofeedback-therapy]], [[linaclotide]], [[plecanatide]], [[prucalopride]], [[lubiprostone]], [[anorectal-manometry]], [[acute-colonic-pseudo-obstruction]]
 
 ---
 
@@ -149,3 +158,4 @@ If defecation disorder is identified (abnormal ARM + BET), **[[biofeedback-thera
 
 1. [[aga-acg-2023-constipation|AGA-ACG 2023 Pharmacologic Management of Chronic Idiopathic Constipation]]
 2. [[acg-2021-anorectal-disorders|ACG 2021 Clinical Guidelines: Management of Benign Anorectal Disorders]]
+3. [[asge-2014-constipation|ASGE 2014: The Role of Endoscopy in the Management of Constipation]]

@@ -176,7 +176,7 @@ Presence of ≥2 of: irregular border, echogenic foci, cystic spaces → maligna
 
 | Type | Background | Behavior | Management |
 |---|---|---|---|
-| Type 1 | [[atrophic-gastritis|Atrophic gastritis]] → hypergastrinemia | Indolent; multifocal common | EMR or ESD for prominent tumors ≤10 mm; ESD has higher R0 but clinical significance unclear |
+| Type 1 | [[atrophic-gastritis\|Atrophic gastritis]] → hypergastrinemia | Indolent; multifocal common | EMR or ESD for prominent tumors ≤10 mm; ESD has higher R0 but clinical significance unclear |
 | Type 2 | MEN-1 syndrome → hypergastrinemia | Low metastatic rate; multifocal | Endoscopic resection for debulking or bleeding control; EMR vs. ESD per local expertise |
 | Type 3 | Sporadic; no hypergastrinemia | More aggressive | ESD preferred for small (<1 cm), low-grade, no lymphadenopathy; positive margins require surgical resection |
 

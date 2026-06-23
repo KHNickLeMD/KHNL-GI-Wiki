@@ -59,7 +59,7 @@ ACG recommends using **either KCC or MELD** for prognostication (conditional, lo
 
 ### Classification / Typing (O'Grady)
 
-| Type | Time to HE from [[jaundice|Jaundice]] | Typical Etiologies | Cerebral Edema Risk | Transplant-Free Prognosis |
+| Type | Time to HE from [[jaundice\|Jaundice]] | Typical Etiologies | Cerebral Edema Risk | Transplant-Free Prognosis |
 |---|---|---|---|---|
 | Hyperacute | < 7 days | APAP, HAV, HEV, ischemic | High | Best |
 | Acute | 7–21 days | HBV | Intermediate | Intermediate |
@@ -75,10 +75,10 @@ ALF must be distinguished from conditions with overlapping presentations:
 
 | Condition | Key Distinguishing Features |
 |---|---|
-| **[[acute-on-chronic-liver-failure|Acute-on-chronic liver failure (ACLF)]]** | Known or occult cirrhosis; precipitant (infection, alcohol, GI bleed); HE responds to lactulose/rifaximin; HRS-AKI rather than ATN; ARDS common |
-| **Decompensated cirrhosis** | Signs of [[portal-hypertension|portal hypertension]] (varices, splenomegaly, [[ascites]]); shrunken nodular liver on imaging; fibrosis on biopsy |
+| **[[acute-on-chronic-liver-failure\|Acute-on-chronic liver failure (ACLF)]]** | Known or occult cirrhosis; precipitant (infection, alcohol, GI bleed); HE responds to lactulose/rifaximin; HRS-AKI rather than ATN; ARDS common |
+| **Decompensated cirrhosis** | Signs of [[portal-hypertension\|portal hypertension]] (varices, splenomegaly, [[ascites]]); shrunken nodular liver on imaging; fibrosis on biopsy |
 | **Alcoholic hepatitis** | Heavy alcohol use; AST:ALT ratio often >2:1; usually no encephalopathy at presentation (see [[alcohol-associated-liver-disease]]) |
-| **HELLP syndrome / AFLP** | Third trimester or postpartum; thrombocytopenia, hemolysis; may overlap with true ALF — see [[liver-disease-in-pregnancy|liver disease in pregnancy]] for Swansea Criteria and management |
+| **HELLP syndrome / AFLP** | Third trimester or postpartum; thrombocytopenia, hemolysis; may overlap with true ALF — see [[liver-disease-in-pregnancy\|liver disease in pregnancy]] for Swansea Criteria and management |
 | **Malignant infiltration** | Mixed hepatocellular-cholestatic pattern; elevated ALP/GGT; hepatomegaly; requires biopsy for diagnosis |
 | **Sepsis-related liver dysfunction** | Hypotension/shock preceding liver injury; concurrent multiorgan failure |
 

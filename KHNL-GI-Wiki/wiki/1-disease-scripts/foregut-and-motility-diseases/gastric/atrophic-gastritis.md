@@ -76,7 +76,7 @@ AG severity and extent determine gastric cancer risk. Two validated staging syst
 | Atrophy distribution | Antrum-dominant, expands proximally | Corpus/fundus dominant, antral sparing |
 | Serologic markers | H. pylori antibodies | PCA (sensitive), IFA (specific) |
 | Acid secretion | Variable | Hypochlorhydria/achlorhydria |
-| Main cancer risk | [[gastric-adenocarcinoma|Gastric adenocarcinoma]] | Gastric adenocarcinoma + type I NETs |
+| Main cancer risk | [[gastric-adenocarcinoma\|Gastric adenocarcinoma]] | Gastric adenocarcinoma + type I NETs |
 | Associated conditions | H. pylori infection | Autoimmune thyroid disease, T1DM, Addison's |
 
 ---

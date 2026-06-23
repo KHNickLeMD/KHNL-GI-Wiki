@@ -84,7 +84,7 @@ Biopsy protocol (ACG 2022 — strong recommendation):
 
 | Grade | Histologic Features | Clinical Significance |
 |-------|--------------------|-----------------------|
-| Marsh I (lymphocytic duodenosis) | ≥25 intraepithelial lymphocytes (IELs) per 100 epithelial cells; normal villi; no crypt hyperplasia | Not specific for CD — seen in [[helicobacter-pylori-infection|H. pylori]], NSAIDs, [[small-intestinal-bacterial-overgrowth|SIBO]], nonceliac wheat sensitivity, autoimmune disorders. Workup for CD is indicated; GFD may be considered if CD antibodies elevated (especially EMA) |
+| Marsh I (lymphocytic duodenosis) | ≥25 intraepithelial lymphocytes (IELs) per 100 epithelial cells; normal villi; no crypt hyperplasia | Not specific for CD — seen in [[helicobacter-pylori-infection\|H. pylori]], NSAIDs, [[small-intestinal-bacterial-overgrowth\|SIBO]], nonceliac wheat sensitivity, autoimmune disorders. Workup for CD is indicated; GFD may be considered if CD antibodies elevated (especially EMA) |
 | Marsh II | IEL ≥25 + crypt hyperplasia; no villous atrophy | Intermediate; GFD may be considered with positive CD serology |
 | Marsh IIIA | Partial villous atrophy | Diagnostic of CD with appropriate serology/context |
 | Marsh IIIB | Subtotal villous atrophy | Diagnostic |

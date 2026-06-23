@@ -27,7 +27,7 @@ sources: [acg-2024-focal-liver-lesions]
 | **Hydatid cyst** | Echinococcus; may have daughter cysts, membrane; travel/exposure history | None (infectious) |
 | **Biliary cystadenoma** | Complex cyst with septa and mural nodularity; predominantly women | Low but present → can transform to cystadenocarcinoma |
 | **Biliary cystadenocarcinoma** | Malignant; invasive features; mural solid component | Malignant |
-| **Caroli disease** | Congenital biliary ductal ectasia; communicates with bile ducts | [[cholangiocarcinoma|Cholangiocarcinoma]] risk |
+| **Caroli disease** | Congenital biliary ductal ectasia; communicates with bile ducts | [[cholangiocarcinoma\|Cholangiocarcinoma]] risk |
 
 **Simple hepatic cyst — prevalence:**
 

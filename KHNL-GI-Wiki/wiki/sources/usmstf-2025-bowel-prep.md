@@ -95,14 +95,14 @@ Update to the 2014 USMSTF bowel preparation recommendations. Developed 25 consen
 | Tricyclic antidepressant use | 2.0 (1.4–2.9) |
 | Diabetes | 1.8 (1.5–2.1) |
 | Opioid use | 1.7 (1.4–2.1) |
-| [[gastroparesis|Gastroparesis]] | 1.6 (1.2–2.3) |
+| [[gastroparesis\|Gastroparesis]] | 1.6 (1.2–2.3) |
 | Prior colorectal surgery | 1.6 (1.2–2.2) |
 | Lower education level | 1.5 (1.3–1.8) |
 | BMI >30 | 1.5 (1.2–1.8) |
 | Inpatient status | 1.5 (1.1–2.1) |
 | Hypertension | 1.3 (1.2–1.4) |
 | Tobacco use | 1.3 (1.1–1.5) |
-| [[chronic-idiopathic-constipation|Constipation]] | 1.3 (1.0–1.6) |
+| [[chronic-idiopathic-constipation\|Constipation]] | 1.3 (1.0–1.6) |
 | Male sex | 1.2 (1.1–1.3) |
 | Age >65 | 1.1 (1.1–1.2) |
 

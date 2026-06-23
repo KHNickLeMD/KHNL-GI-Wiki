@@ -3,11 +3,11 @@ title: "Device-Assisted Enteroscopy (Deep Enteroscopy)"
 category: advanced-procedure
 tags: [deep-enteroscopy, dbe, sbe, spiral-enteroscopy, balloon-enteroscopy, small-bowel, gi-bleeding, device-assisted-enteroscopy]
 created: 2026-05-19
-updated: 2026-05-19
-sources: [acg-2015-small-bowel-bleeding]
+updated: 2026-06-22
+sources: [acg-2015-small-bowel-bleeding, asge-2017-small-bowel-bleeding, asge-2015-deep-enteroscopy]
 ---
 
-*Stub — to be expanded.*
+## Overview
 
 Device-assisted enteroscopy (DAE), also called deep enteroscopy, encompasses three platform types for deep intubation and therapeutics in the small bowel:
 
@@ -21,9 +21,18 @@ Device-assisted enteroscopy (DAE), also called deep enteroscopy, encompasses thr
 
 **VCE before DAE:** Perform VCE first whenever possible to guide targeted (VCE-guided) DAE, which raises diagnostic yield to 73–93% and therapeutic yield to 57–73%. Initial DAE without prior VCE appropriate only for massive hemorrhage or VCE contraindication. *(ACG 2015: Strong/High)*
 
-Indications: positive VCE requiring therapy; negative VCE with high clinical suspicion; VCE contraindicated; active SB bleeding.
+## Indications
 
-See [[small-bowel-bleeding]] for full algorithm. See also [[capsule-endoscopy]].
+- Positive VCE requiring therapy; negative VCE with high clinical suspicion; VCE contraindicated; active small-bowel bleeding.
+- May be the **initial** small-bowel procedure in select circumstances — high suspicion of small-bowel angiectasias or surgically altered anatomy. *(ASGE 2017)* [[asge-2017-small-bowel-bleeding]]
+
+**Beyond bleeding** *(ASGE 2015)* [[asge-2015-deep-enteroscopy]]:
+
+- **Small-bowel tumors:** DE for tissue diagnosis and therapy when a tumor is detected by other tests (eg, VCE), or when suspicion is high despite negative initial testing. *(Low)*
+- **Crohn's disease:** DE when imaging shows abnormalities within reach of the enteroscope — allows endoscopic + histologic evaluation and therapeutics (hemostasis, stricture dilation, foreign-body retrieval). *(Low)*
+- **Total enteroscopy** = intubation of the entire small bowel by one or both routes; useful for multiple lesions, negative initial DBE, or high suspicion after nondiagnostic VCE. DBE is most effective for achieving total enteroscopy.
+
+See [[small-bowel-bleeding]] for full algorithm. See also [[capsule-endoscopy]] and [[crohns-disease]].
 
 ## See Also
 
@@ -35,3 +44,5 @@ See [[small-bowel-bleeding]] for full algorithm. See also [[capsule-endoscopy]].
 ## Sources
 
 1. [[acg-2015-small-bowel-bleeding|ACG 2015: Diagnosis and Management of Small Bowel Bleeding]]
+2. [[asge-2017-small-bowel-bleeding|ASGE 2017: Role of Endoscopy in Suspected Small-Bowel Bleeding]]
+3. [[asge-2015-deep-enteroscopy|ASGE 2015: The Role of Deep Enteroscopy in the Management of Small-Bowel Disorders]]

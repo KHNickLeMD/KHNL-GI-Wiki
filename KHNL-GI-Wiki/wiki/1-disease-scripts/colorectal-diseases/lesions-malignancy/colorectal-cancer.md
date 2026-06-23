@@ -3,8 +3,8 @@ title: "Colorectal Cancer"
 category: disease-script
 tags: [crc, colorectal-cancer, adenocarcinoma, oncology, screening, surveillance, post-resection, metachronous, rectal-cancer]
 created: 2026-05-19
-updated: 2026-06-18
-sources: [acg-2015-hereditary-gi-cancer, usmstf-2015-crc-surveillance, usmstf-2016-fit-screening, acg-2021-crc-screening, nccn-2026-colon-cancer]
+updated: 2026-06-22
+sources: [acg-2015-hereditary-gi-cancer, usmstf-2015-crc-surveillance, usmstf-2016-fit-screening, acg-2021-crc-screening, nccn-2026-colon-cancer, asge-2013-crc-staging-management]
 ---
 
 *Screening is covered in [[colorectal-cancer-screening]] and in detail below (FIT). Hereditary syndromes: [[lynch-syndrome]], [[familial-adenomatous-polyposis]], [[peutz-jeghers-syndrome]], [[juvenile-polyposis-syndrome]], [[cowden-syndrome]], [[serrated-polyposis-syndrome]]. Polyp management: [[polypectomy-emr]] and [[colonoscopy]].*
@@ -71,6 +71,17 @@ flowchart TD
 ```
 
 *Algorithm — NCCN colon cancer management, recreated in original form (not an NCCN figure). ([[nccn-2026-colon-cancer]])*
+
+### Endoscopic Staging & Management (ASGE 2013)
+
+[[asge-2013-crc-staging-management]] — endoscopic-specific guidance, complementary to NCCN.
+
+- **EUS for rectal staging:** preoperative locoregional [[endoscopic-ultrasound|EUS]] guides therapy. T-staging sensitivity 80–96%, specificity 75–98% (T0–T3); T-accuracy generally higher than other cross-sectional imaging. Nodal staging modest (67% sens, 78% spec) — not significantly better than CT/MRI. EUS-FNA samples suspicious perirectal nodes. Goal: separate T1–2N0 from T3/N1–2 (latter gets chemoradiation).
+- **Malignant polyp — endoscopic vs surgical:**
+  - **Endoscopic** management for pedunculated polyps with cancer confined to submucosa of polyp/stalk **and favorable histology**.
+  - **Surgery** for any malignant polyp with **unfavorable histology**, for sessile/flat neoplasia with submucosal invasion, or for sessile/flat lesions found malignant after **piecemeal** resection (if surgical candidate).
+  - Attempt EMR only if complete resection is anticipated (see [[polypectomy-emr]]).
+- **Malignant colonic obstruction:** endoscopic options are SEMS, tumor debulking, or decompression tube. Colonic SEMS as **bridge to surgery** → single-stage elective surgery succeeds in 60–85%. SEMS major adverse events: obstruction, migration, perforation. Obtain early surgical consultation even after successful decompression; avoid endoscopy with peritoneal signs or suspected perforation.
 
 ---
 
@@ -292,3 +303,4 @@ The ACG 2021 and USMSTF 2021 guidelines do not supersede the FIT-specific operat
 3. [[usmstf-2016-fit-screening|USMSTF 2016 — Recommendations on Fecal Immunochemical Testing to Screen for Colorectal Neoplasia]]
 4. [[acg-2021-crc-screening|ACG 2021 Colorectal Cancer Screening Guidelines]]
 5. [[nccn-2026-colon-cancer|NCCN Clinical Practice Guidelines in Oncology: Colon Cancer (Version 2.2026)]]
+6. [[asge-2013-crc-staging-management|ASGE 2013: Role of Endoscopy in the Staging and Management of Colorectal Cancer]]

@@ -39,9 +39,9 @@ The two principal management goals are: **(1) diagnosis** — confirm or exclude
 |---|---|---|
 | Pancreatic adenocarcinoma | Extrahepatic | Most common cause of malignant extrahepatic stricture |
 | Cholangiocarcinoma | Perihilar or extrahepatic | Desmoplastic; notoriously difficult to diagnose |
-| [[gallbladder-cancer|Gallbladder cancer]] | Perihilar/extrahepatic | Often advanced at presentation |
+| [[gallbladder-cancer\|Gallbladder cancer]] | Perihilar/extrahepatic | Often advanced at presentation |
 | Ampullary cancer | Extrahepatic | Favorable prognosis with resection |
-| [[hepatocellular-carcinoma|Hepatocellular carcinoma]] | Varies | Rare cause of biliary obstruction |
+| [[hepatocellular-carcinoma\|Hepatocellular carcinoma]] | Varies | Rare cause of biliary obstruction |
 | Lymphoma | Varies | Extrinsic or infiltrative |
 
 ### Malignant — Metastatic

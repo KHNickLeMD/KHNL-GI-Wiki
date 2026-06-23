@@ -29,7 +29,7 @@ Key practical recommendations: small frequent meals + nighttime snack (7–10 PM
 | 1 | Early oral/enteral nutrition supplementation in hospitalized cirrhosis patients | Conditional/Low |
 | 2 | Nutritional supplementation therapy in cirrhosis or alcohol-associated hepatitis | Conditional/Very low |
 | 3 | MASH without cirrhosis: natural vitamin E 800 IU/day | Conditional/Low |
-| 4 | Coffee ≥2 cups/day in chronic liver disease to reduce hepatic fibrosis progression or [[hepatocellular-carcinoma|HCC]] development | Conditional/Low |
+| 4 | Coffee ≥2 cups/day in chronic liver disease to reduce hepatic fibrosis progression or [[hepatocellular-carcinoma\|HCC]] development | Conditional/Low |
 | 5 | Cirrhosis + ascites on diuretics: no recommendation for or against strict sodium restriction | Insufficient evidence |
 | 6 | **Do NOT restrict dietary protein** in decompensated cirrhosis with hepatic encephalopathy | Conditional/Very low |
 | 7 | Vegetable-source protein diet in cirrhosis + HE requiring nutritional supplementation (better tolerated than animal protein) | Conditional/Low |

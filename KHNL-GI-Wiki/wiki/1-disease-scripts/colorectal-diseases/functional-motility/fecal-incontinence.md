@@ -3,8 +3,8 @@ title: "Fecal Incontinence"
 category: disease-script
 tags: [fecal-incontinence, anorectal, biofeedback, sacral-nerve-stimulation, pelvic-floor, colorectal]
 created: 2026-05-16
-updated: 2026-05-16
-sources: [acg-2021-anorectal-disorders]
+updated: 2026-06-22
+sources: [acg-2021-anorectal-disorders, asge-2010-anorectal-disorders]
 ---
 
 ## Assessment
@@ -43,8 +43,8 @@ The Cleveland Clinic (Wexner) Fecal Incontinence Score or Fecal Incontinence Sev
 |-------|-------------|
 | Obstetric sphincter injury | Women; history of vaginal delivery, instrumental delivery, tears; sphincter defects on endoanal US or MRI |
 | Neurogenic FI | Spinal cord injury, multiple sclerosis, diabetes peripheral neuropathy, pudendal neuropathy |
-| [[inflammatory-bowel-disease|IBD]] | Diarrhea urgency in [[crohns-disease|Crohn's]] proctitis or [[ulcerative-colitis|UC]]; specific treatment of IBD may improve FI |
-| [[rectal-prolapse|Rectal prolapse]] | Visible prolapse; associated with FI and constipation |
+| [[inflammatory-bowel-disease\|IBD]] | Diarrhea urgency in [[crohns-disease\|Crohn's]] proctitis or [[ulcerative-colitis\|UC]]; specific treatment of IBD may improve FI |
+| [[rectal-prolapse\|Rectal prolapse]] | Visible prolapse; associated with FI and constipation |
 | Overflow incontinence | Fecal impaction with liquid feces leaking around; rectal exam reveals impaction |
 | Radiation proctopathy | History of pelvic radiation; radiation proctitis with urgency |
 | Scleroderma | Dysmotility, malabsorption; distinctive manometry pattern |
@@ -59,6 +59,7 @@ The Cleveland Clinic (Wexner) Fecal Incontinence Score or Fecal Incontinence Sev
 - **Bristol Stool Form Scale + bowel diary** — characterize stool consistency and frequency; soft/liquid stools worsen FI
 - **Digital rectal examination (DRE):** assess resting and squeeze tone, palpate for masses, check for fecal impaction, assess pelvic floor motion during simulated defecation
 - **Laboratory:** CBC, thyroid function if diarrhea-prominent or systemic features
+- **Structural endoscopic evaluation:** all FI patients should undergo flexible sigmoidoscopy or [[colonoscopy]] as indicated by age, family history, and prior endoscopic evaluation — to exclude mucosal disease (IBD, neoplasia, radiation proctopathy). *(ASGE 2010)* [[asge-2010-anorectal-disorders]]
 
 ### Anorectal Physiology (for patients not responding to conservative measures)
 
@@ -146,3 +147,4 @@ The Cleveland Clinic (Wexner) Fecal Incontinence Score or Fecal Incontinence Sev
 ## Sources
 
 1. [[acg-2021-anorectal-disorders|ACG 2021 Clinical Guidelines: Management of Benign Anorectal Disorders]]
+2. [[asge-2010-anorectal-disorders|ASGE 2010: The Role of Endoscopy in Patients With Anorectal Disorders]]

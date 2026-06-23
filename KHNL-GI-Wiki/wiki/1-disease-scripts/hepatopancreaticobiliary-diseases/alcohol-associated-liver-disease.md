@@ -112,7 +112,7 @@ sources: [acg-2024-ald, acg-2017-liver-chemistries, aasld-ast-2025-liver-transpl
 | MELD score | Severity stratification |
 | Lipase/amylase | Exclude concomitant pancreatitis |
 | HBsAg, anti-HCV, anti-HEV | Exclude viral coinfection |
-| ANA, anti-smooth muscle Ab, IgG | Exclude [[autoimmune-hepatitis|autoimmune hepatitis]] |
+| ANA, anti-smooth muscle Ab, IgG | Exclude [[autoimmune-hepatitis\|autoimmune hepatitis]] |
 | Blood cultures | Before starting steroids; exclude active infection |
 | Procalcitonin, urinalysis | Screen for bacterial infection |
 

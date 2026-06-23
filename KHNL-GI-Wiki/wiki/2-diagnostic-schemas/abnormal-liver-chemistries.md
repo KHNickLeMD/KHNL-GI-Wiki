@@ -52,8 +52,8 @@ Laboratory ULN values for ALT are unreliable — they are set from populations t
 
 | R-ratio | Pattern | Key etiologies |
 |---------|---------|----------------|
-| >5 | Hepatocellular | Viral hepatitis (A/B/C/E), MASLD/MASH, alcoholic liver disease, AIH, [[wilson-disease|Wilson's disease]], alpha-1 AT deficiency, ischemic hepatitis, [[drug-induced-liver-injury|DILI]], [[celiac-disease|celiac disease]] |
-| <2 | Cholestatic | [[primary-biliary-cholangitis|PBC]], [[primary-sclerosing-cholangitis|PSC]], biliary obstruction ([[choledocholithiasis]], [[biliary-stricture|stricture]], malignancy), DILI-cholestatic, vanishing bile duct syndrome |
+| >5 | Hepatocellular | Viral hepatitis (A/B/C/E), MASLD/MASH, alcoholic liver disease, AIH, [[wilson-disease\|Wilson's disease]], alpha-1 AT deficiency, ischemic hepatitis, [[drug-induced-liver-injury\|DILI]], [[celiac-disease\|celiac disease]] |
+| <2 | Cholestatic | [[primary-biliary-cholangitis\|PBC]], [[primary-sclerosing-cholangitis\|PSC]], biliary obstruction ([[choledocholithiasis]], [[biliary-stricture\|stricture]], malignancy), DILI-cholestatic, vanishing bile duct syndrome |
 | 2–5 | Mixed | Any of the above; some viral hepatitis; DILI |
 | — | Isolated hyperbilirubinemia | Gilbert syndrome, hemolysis, Dubin-Johnson/Rotor syndrome (conjugated) |
 

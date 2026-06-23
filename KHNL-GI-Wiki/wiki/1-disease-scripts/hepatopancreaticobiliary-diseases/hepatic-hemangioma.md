@@ -3,7 +3,7 @@ title: "Hepatic Hemangioma"
 category: disease-script
 tags: [hemangioma, liver, hpb, focal-liver-lesion, benign-liver, mri, cavernous-hemangioma]
 created: 2026-05-07
-updated: 2026-05-07
+updated: 2026-06-20
 sources: [acg-2024-focal-liver-lesions]
 ---
 
@@ -39,6 +39,8 @@ sources: [acg-2024-focal-liver-lesions]
 ---
 
 ## Differential Diagnosis
+
+*Workup & imaging comparison: see [[focal-liver-lesions]].*
 
 - **[[focal-nodular-hyperplasia|Focal nodular hyperplasia]] (FNH)** — APHE, gadoxetate uptake, central scar; no T2 hyperintensity pattern; see [[focal-nodular-hyperplasia]]
 - **Hepatic metastases** — ring enhancement; T2 variable; clinical context of known malignancy
@@ -116,8 +118,7 @@ sources: [acg-2024-focal-liver-lesions]
 
 ## See Also
 
-
-[[focal-nodular-hyperplasia]], [[hepatocellular-adenoma]], [[hepatic-cysts]], [[hepatocellular-carcinoma]], [[cholangiocarcinoma]], [[li-rads]]
+[[focal-liver-lesions]], [[focal-nodular-hyperplasia]], [[hepatocellular-adenoma]], [[hepatic-cysts]], [[hepatocellular-carcinoma]], [[cholangiocarcinoma]], [[li-rads]]
 
 ---
 

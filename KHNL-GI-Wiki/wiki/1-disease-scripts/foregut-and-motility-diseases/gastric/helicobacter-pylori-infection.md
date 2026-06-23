@@ -3,7 +3,7 @@ title: "Helicobacter pylori Infection"
 category: disease-script
 tags: [h-pylori, peptic-ulcer, gastric-cancer, malt-lymphoma, eradication, dyspepsia, gastric, foregut]
 created: 2026-05-07
-updated: 2026-05-07
+updated: 2026-06-22
 sources: [acg-2017-hp-guidelines, acg-2024-hp-treatment]
 ---
 
@@ -46,13 +46,15 @@ sources: [acg-2017-hp-guidelines, acg-2024-hp-treatment]
 |---|---|
 | Peptic ulcer disease | Gastric or duodenal; risk of bleeding, perforation, obstruction |
 | Gastric MALT lymphoma | Low-grade B-cell lymphoma; eradication alone → remission in ~75% |
-| [[gastric-adenocarcinoma|Gastric adenocarcinoma]] | Via Correa cascade: chronic gastritis → atrophy → metaplasia → dysplasia → cancer |
+| [[gastric-adenocarcinoma\|Gastric adenocarcinoma]] | Via Correa cascade: chronic gastritis → atrophy → metaplasia → dysplasia → cancer |
 
 *H. pylori* eradication reduces but does not eliminate cancer risk once atrophy/metaplasia is established.
 
 ---
 
 ## Differential Diagnosis
+
+*Workup: see [[dyspepsia]].*
 
 ### For dyspepsia presentation
 
@@ -113,8 +115,8 @@ sources: [acg-2017-hp-guidelines, acg-2024-hp-treatment]
 
 | Regimen | Components | Duration | Strength |
 |---|---|---|---|
-| **[[bismuth-quadruple-therapy|Bismuth quadruple therapy (BQT)]]** [[bismuth-quadruple-therapy]] | PPI bid + bismuth subsalicylate 525 mg qid + metronidazole 500 mg qid + tetracycline 500 mg qid | 14 days | **Strong** |
-| **[[vonoprazan|Vonoprazan]] dual therapy** | Vonoprazan 20 mg bid + amoxicillin 1 g bid | 14 days | **Strong** |
+| **[[bismuth-quadruple-therapy\|Bismuth quadruple therapy (BQT)]]** [[bismuth-quadruple-therapy]] | PPI bid + bismuth subsalicylate 525 mg qid + metronidazole 500 mg qid + tetracycline 500 mg qid | 14 days | **Strong** |
+| **[[vonoprazan\|Vonoprazan]] dual therapy** | Vonoprazan 20 mg bid + amoxicillin 1 g bid | 14 days | **Strong** |
 | **Vonoprazan triple therapy** | Vonoprazan 20 mg bid + amoxicillin 1 g bid + clarithromycin 500 mg bid | 14 days | **Strong** |
 | **Concomitant quadruple therapy** | PPI bid + amoxicillin 1 g bid + clarithromycin 500 mg bid + metronidazole 500 mg bid | 14 days | Conditional |
 | **Rifabutin triple therapy** | PPI bid + rifabutin 150 mg bid + amoxicillin 1 g bid | 14 days | Conditional (when other regimens contraindicated) |

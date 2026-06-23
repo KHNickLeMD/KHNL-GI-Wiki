@@ -64,7 +64,38 @@ You maintain a persistent, compounding wiki of GI knowledge. You are not a chatb
 
 ---
 
-## Page Conventions
+## Content Guide
+
+Governs **what goes on a page** — the substance. For **how it's formatted**, see the Style Guide below. Apply both on every ingest, edit, and lint pass.
+
+### Source fidelity — most important
+- Every clinical claim comes **directly from an ingested source** (the guidelines, large RCTs, and reliable resources listed in the page's `## Sources`).
+- **Never invent, infer, or pad.** Do not add anything that is not in the raw source files.
+- **No outside / internet information without asking first.** If a needed source isn't ingested, stop and ask the user rather than filling the gap from general knowledge.
+- See `## Medical Standards` for citation and evidence-grading rules.
+
+### One home per fact — no duplication
+- **Within a page:** never state the same fact twice.
+- **Across pages:** each algorithm, table, or figure has **one home page**; link to it from everywhere else instead of copying it. E.g. the Chicago Classification v4.0 algorithm lives only on `[[chicago-classification-v4]]` and the `[[dysphagia]]` page links to it rather than reproducing it. Avoids bloat and keeps content in sync.
+
+### Include the algorithms, figures, and tables the source provides
+- When a source has a clinical **algorithm / decision figure** or a **clinically relevant table**, that content **must reach the page** — don't drop it or flatten it into prose.
+- **Capture it at ingest, not at lint.** The *how* (screenshotting figures, recreating tables, Mermaid) lives in the Style Guide → Images / Mermaid diagrams.
+
+---
+
+## Style Guide
+
+Governs **how a page looks and reads** — formatting, structure, cross-links, visuals, and rendering. For **what to include**, see the Content Guide above.
+
+### Concise and skimmable
+- Prefer **short bullets and incomplete sentences** over prose (e.g. `Dx: EGD with ≥6 biopsies`). Telegraphic is good.
+- **No large blocks of text** — readers skim. Break content into bullets, sub-bullets, and tables.
+- Use **indentation and the section outline** to carry structure; one idea per bullet.
+
+### Prefer visuals over text
+- Favor **tables, decision trees / flowcharts, charts, and embedded figures** over long bullet lists wherever they convey the structure better. A page that earns a figure or table should have one.
+- Mechanics: `Rendering Conventions → Images` (embed + figure-capture + table-recreation) and `→ Mermaid diagrams`.
 
 ### Frontmatter (YAML, required on all wiki pages)
 ```yaml
@@ -127,6 +158,7 @@ Pages in `wiki/2-diagnostic-schemas/` cover syndromes (not defined diagnoses):
 
 ### Cross-references
 - Always use Obsidian wiki links: `[[crohns-disease]]`
+- **Diagnostic-schema link at the top of Differential Diagnosis (disease scripts).** Open the `## Differential Diagnosis` section of a disease script with an italic pointer to the relevant diagnostic schema, where the workup algorithm lives — e.g. `[[achalasia]]` opens its DDx with `*Workup: see [[dysphagia]].*`. Then list and link the differential conditions as usual. Treat this as that schema's inline first mention on the page (also keep it in `## See Also`); don't repeat the same schema link elsewhere in the body.
 - **Link inline, on the word itself.** Wherever a page name, disease, med, procedure, concept, or other entity that has (or should have) its own page appears in the running text — differentials, prose, table cells, list items — turn that word into a link rather than only listing related pages at the bottom. Example: on the alcohol-associated hepatitis page, the "MASLD" entry in the differential should read `[[masld|MASLD]]` so the displayed word "MASLD" clicks through to the MASLD page.
   - Use the alias form `[[slug|Displayed Words]]` so the link blends into the sentence and the visible text keeps its natural casing/wording (e.g. `[[upper-endoscopy|EGD]]`, `[[portal-hypertension|portal hypertensive]]`).
   - Link on **first mention** of each entity within a page (don't re-link every occurrence — one link per entity per page keeps prose readable).
@@ -156,17 +188,19 @@ sources: []
 *Stub — to be expanded.*
 ```
 
----
+### Rendering Conventions (website + Obsidian)
 
-## Website Rendering Conventions
+The wiki is published through `#KHNL GI Wiki/index.html`, which renders pages with a built-in Markdown engine (not Obsidian). Author every page so it renders correctly **both** in Obsidian and on the website.
 
-The wiki is published through `#KHNL GI Wiki/index.html`, which renders pages with a built-in Markdown engine (not Obsidian). Author every page so it renders correctly **both** in Obsidian and on the website. Follow these rules on all new and edited pages:
+#### Navigation & collapsing sections (auto-generated)
+- The website builds a **collapsible left sidebar** (grouped by category) and a **collapsible right-rail outline** automatically from page headings + the `## Contents` ToC — authors never hand-write or hand-collapse these.
+- Keep headings clean and the `## Contents` list accurate so the outline nests and folds correctly. Do not add raw HTML `<details>`/collapsible markup inside page bodies — rely on the renderer.
 
-### README structure (About / How to Use split)
+#### README structure (About / How to Use split)
 - `README.md` holds **both** the "About This Wiki" content and the "How to Use" content. The website renders them as **two separate sidebar tabs** by splitting the README at the top-level `# How to Use` heading: everything before it → the **About This Wiki** tab; that heading and everything after → the **How to Use** tab.
 - Keep the single top-level `# How to Use` heading intact in `README.md` (exact text). Put navigation/usage content under it; put "what this is / how it was made / page types" content above it. Do not add other top-level `#` headings between them that would land in the wrong tab.
 
-### Page Contents / table of contents
+#### Page Contents / table of contents
 - Build it as a nested bullet list of heading-anchor links: `[[#Section Heading]]`.
 - Indent subsections by **exactly 2 spaces** per level — the website nests them automatically and strips the leading `#` from the displayed label.
 - The anchor must match the heading text verbatim (including punctuation); the renderer slugifies it the same way the right-rail outline does.
@@ -181,7 +215,7 @@ The wiki is published through `#KHNL GI Wiki/index.html`, which renders pages wi
 
 Do **not** write the table of contents as flat top-level bullets, and never hand-type the `#` into the visible label.
 
-### Mermaid diagrams
+#### Mermaid diagrams
 - Inside node labels, use `<br/>` for line breaks. **Never use `\n`** — the website and GitHub render `\n` as the literal characters, not a line break.
 - Keep labels in double quotes when they contain spaces, `<`, `>`, `±`, `/`, or parentheses.
 
@@ -190,9 +224,9 @@ flowchart TD
     A["Symptoms of dysphagia<br/>± chest pain"] --> B["Upper endoscopy"]
 ```
 
-### Images
+#### Images
 - Embed figures with `![[filename.png]]`. The image file must live in `raw/assets/` — the website resolves embeds from that folder. Standard `![alt](url)` Markdown images also render.
-- **Make pages visual — capture figures on every ingest (required).** When a source contains an **algorithm or clinical decision-making tool as a figure** (diagnostic/treatment algorithms, staging/classification figures, decision trees), screenshot it and embed it on the matching wiki page:
+- **Figure capture — mechanics (required at ingest; see Content Guide for what/why).** When a source contains an **algorithm or clinical decision-making tool as a figure** (diagnostic/treatment algorithms, staging/classification figures, decision trees), screenshot it and embed it on the matching wiki page:
   1. Render the source PDF page and crop the figure precisely. Tooling: PyMuPDF (`fitz`) — open the PDF, use `page.get_image_rects(xref)` (or the figure's text-block bounds) to get the bounding box, then `page.get_pixmap(matrix=fitz.Matrix(300/72,300/72), clip=rect).save(out)`. Render at ~300 dpi.
   2. Save to `raw/assets/` named `<topic>-<year>-<descriptor>-<pagenum>.png` (e.g. `achalasia-2020-chicago-subtypes-05.png`).
   3. Embed it in the relevant section with a sizing hint and an italic caption that names the figure and cites the source: `![[file.png|700x183]]` then `*Figure N — caption. ([[source-slug]])*`.
@@ -210,7 +244,7 @@ Triggered when the user provides a new source (article, guideline, chapter, pape
 1. Read the source in full
 2. Briefly discuss 3–5 key takeaways with the user before writing anything
 3. Create a source summary page in `wiki/sources/`
-4. Create or update wiki pages touched by this source — route to the correct folder:
+4. Create or update wiki pages touched by this source. Every page created or edited must follow the **Content Guide** (source fidelity — no unsourced/fabricated content; no duplication; include source algorithms/figures/tables) and the **Style Guide** (concise skimmable bullets; visuals; structure; cross-links). Route to the correct folder:
    - Defined disease → `wiki/1-disease-scripts/<subcategory>/` (ADDT format). Any discrete disease entity is a disease script, not a concept — this includes eponymous and syndromic diagnoses (e.g. Heyde's syndrome, FAMMM syndrome, PTLD), vascular lesions (e.g. angioectasia, mesenteric artery aneurysm), and systemic/metabolic diseases managed in GI (e.g. obesity, hepatic encephalopathy, post-infectious IBS). Reserve `7-concepts/` for pathophysiology, mechanisms, and clinical frameworks — never for a discrete disease.
    - Syndrome/undifferentiated symptom → `wiki/2-diagnostic-schemas/`
    - General GI procedure → `wiki/3-general-gi-procedures/`
@@ -280,11 +314,14 @@ Triggered by user request ("lint the wiki", "health check").
 - Stale claims superseded by newer sources
 - Orphan pages (no inbound links) — suggest connections
 - Important concepts mentioned in-text but lacking their own page
+- **Stub pages that can be expanded from already-ingested sources** — flag any `*Stub — to be expanded.*` page whose topic is substantively covered by a source already in `raw/` (or an existing `wiki/sources/` page).
 - Missing cross-references
 - **Un-linked in-text mentions** — body text that names another entity (disease, med, procedure, concept) which has a page but is written as plain text instead of an inline link. Convert these to inline `[[slug|Displayed Words]]` links (see Cross-references). This is a primary lint job, run on every pass.
 - Data gaps that could be filled by a web search or known source
 
 **Behavior (manual and scheduled):**
+- **Validate the stalest pages against the Content + Style Guides (every pass).** Each lint pass, take the **2–3 least-recently-updated pages** (oldest frontmatter `updated:` date first; ties broken arbitrarily) and check each against both guides — source fidelity (no unsourced or fabricated claims), no repetition within or across pages, source algorithms/figures/tables captured (Content Guide); concise/skimmable bullets, ADDT / diagnostic-schema section order, inline `[[links]]` (including a diagnostic-schema link at the top of the Differential Diagnosis section), and the `## See Also` + `## Sources` bottom-section format (Style Guide). Fix what's off and bump the page's `updated:` date. Cap this at 2–3 pages per pass so it fits the token budget; the next pass continues with the next-stalest pages.
+- **Expand stubs from already-ingested sources only (every pass).** When a pass surfaces a `*Stub — to be expanded.*` page whose subject is substantively covered by a source already in `raw/` (or an existing `wiki/sources/` page), expand it into a full page following the Content + Style Guides (ADDT order for disease scripts; diagnostic-schema order for syndromes) — read the **original raw source** (e.g. the source PDF), capture its definitions/algorithms/recommendations, then update the page's frontmatter (`sources:`, `updated:`), `index.md` description, and append a log entry. **Hard constraint — never pull outside/internet information to expand a stub.** If the ingested raw files do not contain enough to expand it, leave it as a stub and simply flag it (note which source would be needed); do not fill the gap from general knowledge or a web search. Cap at **1–2 stub expansions per pass** to fit the token budget; deeper stubs that need a not-yet-ingested source are reported, not invented.
 - **Never create new folders.** Use only the folders already defined in the Directory Structure above. Do not invent new top-level directories, a second `wiki/`, a `lint-report/`, a `concepts/` outside `7-concepts/`, etc. New pages go into the correct existing schema folder; if you think a genuinely new folder is needed, stop and ask the user first.
 - **Lint reports are ephemeral — never write them to disk.** Deliver the lint findings as your chat response only. Do not create `lint-report.md`, `lint-final-summary.md`, `markdown_files_to_lint.txt`, or any similar report/scratch file in the repo. The durable record of a lint pass is a single `lint` entry appended to `wiki/log.md` (what was fixed + what remains for user triage).
 - **Stub creation is guarded.** Before creating a stub for a `[[link]]`, confirm a page with that basename does not already exist *anywhere* in the wiki — links resolve by **basename**, so a same-named page in another folder already satisfies the link; never create a duplicate stub. Never generate a stub from an `![[image.png]]` embed or from `[[...]]` tokens that appear inside code spans, fenced blocks, or documentation/example text. Every stub goes in the correct schema folder for its type — never a flat `concepts/` or any new folder.

@@ -163,7 +163,7 @@ For treatment failure, incomplete response, or drug intolerance: [[aasld-2020-au
 | Agent | Dose | Recommendation |
 |---|---|---|
 | **Mycophenolate mofetil (MMF)** | 500–1000 mg BID | Conditional, Low certainty — **preferred** first second-line agent |
-| **[[tacrolimus|Tacrolimus (TAC)]]** | 1–2 mg BID (titrated to trough) | Conditional, Low certainty — alternative if MMF fails or not tolerated |
+| **[[tacrolimus\|Tacrolimus (TAC)]]** | 1–2 mg BID (titrated to trough) | Conditional, Low certainty — alternative if MMF fails or not tolerated |
 
 MMF is preferred over TAC as initial second-line due to superior ease of use and side-effect profile (Conditional, Very Low certainty). [[aasld-2020-autoimmune-hepatitis]]
 

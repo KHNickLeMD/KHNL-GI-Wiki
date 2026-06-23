@@ -78,13 +78,13 @@ Objective severity is assessed endoscopically and with [[reflux-testing|reflux t
 
 | Condition | Key Distinguishing Features |
 |-----------|----------------------------|
-| [[eosinophilic-esophagitis|Eosinophilic esophagitis]] ([[eosinophilic-esophagitis]]) | Dysphagia-predominant; younger patients; rings/furrows/exudate on EGD; >15 eos/HPF on biopsy; often atopic; PPI trial may partially respond but diagnosis requires biopsy |
-| [[achalasia|Achalasia]] ([[achalasia]]) | Regurgitation of undigested food; dysphagia to liquids and solids; bird-beak on barium; elevated LES pressure on HRM; absent peristalsis |
+| [[eosinophilic-esophagitis\|Eosinophilic esophagitis]] ([[eosinophilic-esophagitis]]) | Dysphagia-predominant; younger patients; rings/furrows/exudate on EGD; >15 eos/HPF on biopsy; often atopic; PPI trial may partially respond but diagnosis requires biopsy |
+| [[achalasia\|Achalasia]] ([[achalasia]]) | Regurgitation of undigested food; dysphagia to liquids and solids; bird-beak on barium; elevated LES pressure on HRM; absent peristalsis |
 | Functional heartburn | Normal AET on pH study, normal impedance; symptom-reflux correlation absent; Rome V criteria; PPI often ineffective |
-| [[peptic-ulcer-disease|Peptic ulcer disease]] | Epigastric pain; [[helicobacter-pylori-infection|H. pylori]] association; EGD shows ulceration; not position-related |
+| [[peptic-ulcer-disease\|Peptic ulcer disease]] | Epigastric pain; [[helicobacter-pylori-infection\|H. pylori]] association; EGD shows ulceration; not position-related |
 | Esophageal dysmotility | Dysphagia, chest pain; manometry distinguishes; consider pre-TIF workup |
 | Laryngopharyngeal reflux | Throat-clearing, hoarseness, globus; see [[laryngopharyngeal-symptoms]]; diagnosis challenging, HEMII-pH may be required |
-| [[gastroparesis|Gastroparesis]] | Postprandial bloating, nausea, early satiety; GERD guideline explicitly excludes this population |
+| [[gastroparesis\|Gastroparesis]] | Postprandial bloating, nausea, early satiety; GERD guideline explicitly excludes this population |
 
 ---
 

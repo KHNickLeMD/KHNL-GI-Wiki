@@ -30,7 +30,7 @@ Patients with [[inflammatory-bowel-disease|IBD]] ([[crohns-disease]] and [[ulcer
 | Hepatitis B (3-dose) | All IBD not immune | |
 | Varicella (2-dose) | Non-immune IBD before starting IMT | Serologic testing not recommended in previously vaccinated (high false-negative rate) |
 | Tdap, HAV, HPV, meningococcus | Per ACIP recommendations | |
-| [[rotavirus|Rotavirus]] (live) | Infants with in-utero biologic exposure | Conditionally offered after specialist discussion |
+| [[rotavirus\|Rotavirus]] (live) | Infants with in-utero biologic exposure | Conditionally offered after specialist discussion |
 
 ---
 

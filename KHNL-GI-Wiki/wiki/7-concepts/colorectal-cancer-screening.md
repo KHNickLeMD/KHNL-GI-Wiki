@@ -32,7 +32,7 @@ The age 45 start is shared with the American Cancer Society (strong recommendati
 
 | Modality | Interval | Strength | Notes |
 |----------|----------|---------|-------|
-| **[[colonoscopy|Colonoscopy]]** | Every 10 years | Strong | High-sensitivity structural test; diagnostic and therapeutic |
+| **[[colonoscopy\|Colonoscopy]]** | Every 10 years | Strong | High-sensitivity structural test; diagnostic and therapeutic |
 | **Annual FIT (fecal immunochemical test)** | Annually | Strong | Preferred non-invasive test; quantitative, no dietary restrictions; if positive → colonoscopy |
 
 ### Acceptable Alternative Modalities (conditional)
@@ -42,7 +42,7 @@ The age 45 start is shared with the American Cancer Society (strong recommendati
 | Multi-target stool DNA (mtsDNA, Cologuard) | Every 3 years | Conditional | FIT + methylated DNA markers; higher sensitivity but lower specificity than FIT; more false positives → unnecessary colonoscopies |
 | Flexible sigmoidoscopy | Every 5–10 years | Conditional | Views only left colon; acceptable where colonoscopy unavailable or patient preference |
 | CT colonography (CTC) | Every 5 years | Conditional | No sedation; bowel prep required; incidental extracolonic findings; polyps >6 mm → colonoscopy |
-| Colon [[capsule-endoscopy|capsule endoscopy]] | Every 5 years | Conditional | Limited data; not widely available; bowel prep required |
+| Colon [[capsule-endoscopy\|capsule endoscopy]] | Every 5 years | Conditional | Limited data; not widely available; bowel prep required |
 
 ### Not Recommended
 

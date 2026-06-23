@@ -48,8 +48,8 @@ sources: [acg-2021-dili, acg-2017-liver-chemistries, aasld-2022-dili]
 
 | Injury Pattern | R-value | Key Competing Diagnoses | First-Line Tests |
 |---------------|---------|------------------------|-----------------|
-| Hepatocellular | ≥5 | Acute viral hepatitis A/B/C/E, [[autoimmune-hepatitis|AIH]], [[wilson-disease|Wilson disease]], ischemic hepatitis, [[budd-chiari-syndrome|Budd-Chiari]] | Viral serologies + HCV RNA, ANA/ASMA/IgG, ceruloplasmin, imaging |
-| Cholestatic | ≤2 | Biliary obstruction, [[primary-biliary-cholangitis|PBC]], [[primary-sclerosing-cholangitis|PSC]] | Abdominal imaging (US/CT/MRI); limit [[ercp|ERCP]] to cases where imaging can't exclude stones/stricture/malignancy |
+| Hepatocellular | ≥5 | Acute viral hepatitis A/B/C/E, [[autoimmune-hepatitis\|AIH]], [[wilson-disease\|Wilson disease]], ischemic hepatitis, [[budd-chiari-syndrome\|Budd-Chiari]] | Viral serologies + HCV RNA, ANA/ASMA/IgG, ceruloplasmin, imaging |
+| Cholestatic | ≤2 | Biliary obstruction, [[primary-biliary-cholangitis\|PBC]], [[primary-sclerosing-cholangitis\|PSC]] | Abdominal imaging (US/CT/MRI); limit [[ercp\|ERCP]] to cases where imaging can't exclude stones/stricture/malignancy |
 | Mixed | 2–5 | Both hepatocellular and cholestatic differential | Both workups above |
 
 ---
@@ -60,14 +60,14 @@ sources: [acg-2021-dili, acg-2017-liver-chemistries, aasld-2022-dili]
 |-----------|---------------------------|
 | Acute hepatitis A | Travel, shellfish exposure; anti-HAV IgM positive |
 | Acute hepatitis B | Anti-HBc IgM, HBsAg positive; risk factors (sexual, IV drug use, healthcare) |
-| Acute [[hepatitis-c|hepatitis C]] | Anti-HCV may be negative initially; **HCV RNA required** — negative antibody does not rule out acute HCV |
+| Acute [[hepatitis-c\|hepatitis C]] | Anti-HCV may be negative initially; **HCV RNA required** — negative antibody does not rule out acute HCV |
 | Acute hepatitis E | Recent travel to endemic area; anti-HEV IgM; HEV RNA; underdiagnosed in US (3% suspected DILI tested positive in DILIN) |
-| [[autoimmune-hepatitis|Autoimmune hepatitis]] | ANA/ASMA positive (but note: 30% of adults have low-titer autoantibodies; >1:80 more significant); IgG elevated; [[liver-biopsy|liver biopsy]] shows interface hepatitis; biopsy critical if immunosuppression planned |
-| [[wilson-disease|Wilson disease]] | Age <40 (consider in older); low ceruloplasmin; Kayser-Fleischer rings (slit-lamp); serum copper, 24-hour urine copper; liver biopsy if needed |
+| [[autoimmune-hepatitis\|Autoimmune hepatitis]] | ANA/ASMA positive (but note: 30% of adults have low-titer autoantibodies; >1:80 more significant); IgG elevated; [[liver-biopsy\|liver biopsy]] shows interface hepatitis; biopsy critical if immunosuppression planned |
+| [[wilson-disease\|Wilson disease]] | Age <40 (consider in older); low ceruloplasmin; Kayser-Fleischer rings (slit-lamp); serum copper, 24-hour urine copper; liver biopsy if needed |
 | Budd-Chiari | Hepatomegaly, [[ascites]], right upper quadrant pain; Doppler US shows hepatic vein occlusion |
 | Ischemic hepatitis | Extreme transaminase elevation (>10,000 IU/L possible); rapid rise and fall; hypotension history; cardiac or respiratory etiology |
 | HDS-hepatotoxicity | Dietary supplements (bodybuilding, weight loss) — same diagnostic approach as prescription DILI; stop all HDS |
-| [[immune-checkpoint-inhibitor-hepatitis|ICI-induced hepatotoxicity]] | Immune checkpoint inhibitor therapy; onset 4–12 weeks; mixed → hepatocellular pattern; low ANA titers possible; histology ≠ AIH |
+| [[immune-checkpoint-inhibitor-hepatitis\|ICI-induced hepatotoxicity]] | Immune checkpoint inhibitor therapy; onset 4–12 weeks; mixed → hepatocellular pattern; low ANA titers possible; histology ≠ AIH |
 
 ---
 
@@ -158,7 +158,7 @@ Roussel Uclaf Causality Assessment Method — scoring system (−10 to +14):
 
 | Agent | Pattern | Latency | Notes |
 |-------|---------|---------|-------|
-| Azathioprine/6-MP | Cholestatic or hepatocellular; hepatoportal sclerosis | Moderate to long | Monitor CBC + LFTs regularly in [[inflammatory-bowel-disease|IBD]] patients |
+| Azathioprine/6-MP | Cholestatic or hepatocellular; hepatoportal sclerosis | Moderate to long | Monitor CBC + LFTs regularly in [[inflammatory-bowel-disease\|IBD]] patients |
 | Methotrexate | Fatty liver, fibrosis (with cumulative dosing) | Long | Roenigk classification for methotrexate hepatotoxicity; cumulative dose threshold |
 | Anti-TNF agents (infliximab, adalimumab) | Hepatocellular; autoimmune hepatitis-like | Moderate to long | Rare; may need to discontinue biologic |
 | Amoxicillin-clavulanate | Cholestatic; can be hepatocellular | Short to moderate | Most common antibiotic DILI; onset may occur after drug cessation |

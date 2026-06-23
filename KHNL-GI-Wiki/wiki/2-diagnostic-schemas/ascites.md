@@ -52,7 +52,7 @@ Ascites can be graded by volume and classified by treatment response:
 
 | SAAG | Interpretation |
 |------|---------------|
-| ≥1.1 g/dL | [[portal-hypertension|Portal hypertension]] (~97% accuracy); liver disease most likely |
+| ≥1.1 g/dL | [[portal-hypertension\|Portal hypertension]] (~97% accuracy); liver disease most likely |
 | <1.1 g/dL | Excludes portal hypertension; consider peritoneal or other cause |
 | ≥1.1 + ascitic protein >2.5 g/dL | Suggests cardiac source (high-protein transudate) |
 

@@ -70,7 +70,7 @@ Six-category matrix combining EGJ Opening × Contractile Response:
 | EGJ Opening | Contractile Response | **Classification** | Clinical Correlate |
 |---|---|---|---|
 | NEO | Normal | **Normal** | Excludes major motor disorder (NPV >90%) |
-| NEO | Diminished or Absent | **Hypocontractility** | Correlates with [[ineffective-esophageal-motility|ineffective esophageal motility]] on HRM |
+| NEO | Diminished or Absent | **Hypocontractility** | Correlates with [[ineffective-esophageal-motility\|ineffective esophageal motility]] on HRM |
 | NEO | Disordered or Spastic | **Possible Spasm** | Correlates with DES/jackhammer on HRM |
 | REO | Spastic | **Spastic Obstruction** | Rare; [[achalasia]] type III or spastic motor-obstructive overlap |
 | REO | Normal | **Obstruction with Normal Contractility** | Suggests mechanical obstruction (tight wrap, ring, web) |

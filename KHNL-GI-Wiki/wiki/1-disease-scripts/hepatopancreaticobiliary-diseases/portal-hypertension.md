@@ -17,11 +17,11 @@ Portal hypertension (PH) is defined as a portocaval pressure gradient (portal ve
 
 | Level | Examples |
 |---|---|
-| Prehepatic | [[portal-vein-thrombosis|Portal vein thrombosis]], splenic vein thrombosis |
-| Intrahepatic — presinusoidal | Schistosomiasis, [[primary-biliary-cholangitis|primary biliary cholangitis]], sarcoidosis |
+| Prehepatic | [[portal-vein-thrombosis\|Portal vein thrombosis]], splenic vein thrombosis |
+| Intrahepatic — presinusoidal | Schistosomiasis, [[primary-biliary-cholangitis\|primary biliary cholangitis]], sarcoidosis |
 | Intrahepatic — sinusoidal | **Cirrhosis** (most common), alcohol-associated hepatitis |
 | Intrahepatic — postsinusoidal | Sinusoidal obstruction syndrome (VOD) |
-| Posthepatic | [[budd-chiari-syndrome|Budd-Chiari syndrome]], congestive hepatopathy (heart failure, constrictive pericarditis) |
+| Posthepatic | [[budd-chiari-syndrome\|Budd-Chiari syndrome]], congestive hepatopathy (heart failure, constrictive pericarditis) |
 
 **cACLD (Compensated Advanced Chronic Liver Disease):** A new concept denoting patients who are likely close to cirrhosis based on LSM and platelet count, without requiring histological/radiological confirmation. Key threshold: LSM ≥15 kPa by transient elastography [[aasld-2023-portal-hypertension]].
 
@@ -91,8 +91,8 @@ Cirrhosis stages (per clinical features and HVPG):
 | **Liver stiffness (VCTE/TE)** | cACLD staging; CSPH identification (see Rule of Five table above); annual monitoring |
 | Platelet count | Combined with LSM for noninvasive CSPH staging |
 | Abdominal ultrasound + Doppler | Portal vein patency, hepatofugal flow, splenomegaly, portosystemic collaterals, ascites |
-| CT/MRI abdomen | Confirms varices, collaterals, ascites, [[hepatocellular-carcinoma|HCC]] surveillance, PVT anatomy |
-| [[upper-endoscopy|Upper endoscopy (EGD)]] | Varices detection; high-risk features (large size, red wale marks); needed when TE unavailable or NSBB contraindicated |
+| CT/MRI abdomen | Confirms varices, collaterals, ascites, [[hepatocellular-carcinoma\|HCC]] surveillance, PVT anatomy |
+| [[upper-endoscopy\|Upper endoscopy (EGD)]] | Varices detection; high-risk features (large size, red wale marks); needed when TE unavailable or NSBB contraindicated |
 | Child-Pugh score / MELD | Liver synthetic function; prognosis; TIPS candidacy |
 | Labs | LFTs, INR, albumin, bilirubin, creatinine, CBC (thrombocytopenia = PH marker) |
 | Diagnostic paracentesis | PMN count, culture, albumin (SAAG), total protein for ascites evaluation |

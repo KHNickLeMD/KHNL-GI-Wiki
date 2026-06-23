@@ -35,9 +35,9 @@ Severity based on symptom burden, laxative dependence, impact on QoL (PAC-QoL, P
 | Condition | Key Features |
 |-----------|-------------|
 | Slow-transit constipation | Delayed radiopaque marker transit throughout colon; normal anorectal physiology; not outlet dysfunction; poor biofeedback response |
-| [[chronic-idiopathic-constipation|Chronic idiopathic constipation]] (normal transit) | Normal ARM + BET; responds to osmotic laxatives and secretagogues; see [[chronic-idiopathic-constipation]] |
+| [[chronic-idiopathic-constipation\|Chronic idiopathic constipation]] (normal transit) | Normal ARM + BET; responds to osmotic laxatives and secretagogues; see [[chronic-idiopathic-constipation]] |
 | Rectocele | Structural defect; detected on defecography; significant if ≥5 cm with trapping; co-exists with dyssynergia in many patients |
-| [[rectal-prolapse|Rectal prolapse]] (full-thickness) | Circular folds visible; inspect in squatting position or on toilet |
+| [[rectal-prolapse\|Rectal prolapse]] (full-thickness) | Circular folds visible; inspect in squatting position or on toilet |
 | Hirschsprung disease | Usually diagnosed in childhood; aganglionic segment; suction rectal biopsy |
 | Secondary causes | Parkinson's disease, ileal pouch-anal anastomosis, IBD proctitis; treat underlying condition |
 

@@ -120,11 +120,11 @@ CMV disease remains the most clinically significant opportunistic infection; pre
 | 45 | Annual skin examination by dermatologist — highest absolute malignancy risk post-LT | Strong | 4 |
 | 46 | Smoking cessation counseling and pharmacotherapy | Strong | 4 |
 | 47 | HPV testing per society guidelines for women ≥21 or sexually active | Strong | 4 |
-| 48 | [[colonoscopy|Colonoscopy]] every 5 years for average-risk LT recipients (regardless of PSC status) | Strong | 4 |
-| 49 | Colonoscopy annually for LT recipients with [[primary-sclerosing-cholangitis|PSC]] + [[inflammatory-bowel-disease|IBD]] (highest colitis-associated neoplasia risk) | Strong | 3 |
+| 48 | [[colonoscopy\|Colonoscopy]] every 5 years for average-risk LT recipients (regardless of PSC status) | Strong | 4 |
+| 49 | Colonoscopy annually for LT recipients with [[primary-sclerosing-cholangitis\|PSC]] + [[inflammatory-bowel-disease\|IBD]] (highest colitis-associated neoplasia risk) | Strong | 3 |
 | 50 | Colonoscopy every 5 years for LT recipients with PSC without IBD | Weak | 4 |
 | 51 | Routine mammography and cervical/vaginal screening per USPSTF/ACOG guidelines | Strong | 4 |
-| 52 | Serial EBV PCR monitoring for [[post-transplant-lymphoproliferative-disorder|PTLD]] is NOT routinely recommended | Weak | 3 |
+| 52 | Serial EBV PCR monitoring for [[post-transplant-lymphoproliferative-disorder\|PTLD]] is NOT routinely recommended | Weak | 3 |
 
 **Cancer SIR data (Figure 3):**
 

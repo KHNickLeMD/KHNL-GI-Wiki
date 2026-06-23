@@ -229,7 +229,7 @@ Suspect in a febrile traveler (diarrhea often absent) from an endemic area, or w
 | Ciprofloxacin | 750 mg PO OR 500 mg PO | Single dose OR 3-day course | — |
 | Ofloxacin | 400 mg PO | Single dose or 3-day course | — |
 | **Azithromycin** | 1,000 mg PO OR 500 mg PO | Single dose OR 3-day course | **First-line in SE Asia/India**; preferred for dysentery/febrile diarrhea; active vs. FQ-resistant *Campylobacter* |
-| [[rifaximin|Rifaximin]] | 200 mg PO TID | 3 days | Non-absorbable; NOT for invasive pathogens (*Campylobacter*, *Salmonella*, *Shigella*) |
+| [[rifaximin\|Rifaximin]] | 200 mg PO TID | 3 days | Non-absorbable; NOT for invasive pathogens (*Campylobacter*, *Salmonella*, *Shigella*) |
 
 - Single-dose therapy as effective as 3-day for noninvasive TD pathogens; if not resolved in 24 h, complete 3-day course.
 - Combination loperamide + antibiotic superior to antibiotic alone for TD.

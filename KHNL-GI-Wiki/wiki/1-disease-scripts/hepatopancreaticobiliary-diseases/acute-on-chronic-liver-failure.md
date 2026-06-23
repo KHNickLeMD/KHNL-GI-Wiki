@@ -71,7 +71,7 @@ ACLF is a syndrome in patients with chronic liver disease (CLD) characterized by
 | Chest X-ray | Pneumonia, pulmonary edema, hepatic hydrothorax |
 | CLIF-C ACLF, NACSELD-ACLF, AARC scores | Serial prognostic assessment (GS 2–3) |
 | Bedside TTE/POCUS | Volume status, cardiac function, IVC diameter/compressibility, RV/LV function (GS 13) |
-| Liver ultrasound + Doppler | [[portal-vein-thrombosis|PVT]], [[hepatocellular-carcinoma|HCC]], [[ascites]], portal hemodynamics |
+| Liver ultrasound + Doppler | [[portal-vein-thrombosis\|PVT]], [[hepatocellular-carcinoma\|HCC]], [[ascites]], portal hemodynamics |
 | EEG (if needed) | Non-convulsive seizures in obtunded patients |
 
 ---

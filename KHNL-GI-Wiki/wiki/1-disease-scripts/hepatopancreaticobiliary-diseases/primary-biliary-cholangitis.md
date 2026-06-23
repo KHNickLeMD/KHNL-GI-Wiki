@@ -338,7 +338,7 @@ Risk of developing PBC is increased among first-degree relatives, especially fem
 | TSH | Annually |
 | Bone mineral density | Every 2 years |
 | Vitamins A, D, E + prothrombin time | Annually if bilirubin >2.0 |
-| [[upper-endoscopy|Upper endoscopy]] (cirrhotic, Mayo risk >4.1, or elastography ≥17 kPa) | Every 1–3 years* |
+| [[upper-endoscopy\|Upper endoscopy]] (cirrhotic, Mayo risk >4.1, or elastography ≥17 kPa) | Every 1–3 years* |
 | HCC ultrasound ± AFP (cirrhosis, or platelets <140,000/mm³ or Mayo risk ≥4.1) | Every 6 months |
 
 *Interval determined by findings on previous EGD.

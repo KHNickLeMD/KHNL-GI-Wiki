@@ -6,6 +6,170 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-06-22] ingest | ASGE 2015 Deep Enteroscopy + ASGE 2013 CRC Staging + ASGE 2014 Constipation + ASGE 2010 Anorectal (scheduled ingest-and-lint)
+
+**Scope:** Automated scheduled `ingest-and-lint` run. Identified 7 remaining uningested guidelines (all older/superseded: AASLD 2011 HCC; ASGE 2010 anorectal, 2010 diarrhea, 2013 CRC staging, 2014 constipation, 2015 deep enteroscopy, 2015 endoscopy-in-IBD). Ingested the 4 with the clearest existing home pages and lowest conflict risk. Per task constraint, **only net-new/corroborating content added — newer guideline content not overwritten.**
+
+**Sources created:**
+- `[[asge-2015-deep-enteroscopy]]` — 7 GRADE recs (verbatim); DBE/SBE/spiral; DBE best for total enteroscopy; VCE-first then DE; DE for small-bowel tumors + Crohn's lesions within reach.
+- `[[asge-2013-crc-staging-management]]` — 8 GRADE recs (verbatim); EUS rectal staging performance; endoscopic-vs-surgical malignant-polyp criteria; SEMS bridge-to-surgery.
+- `[[asge-2014-constipation]]` — 4 GRADE recs (verbatim); no scope without alarm features; low yield in isolated constipation; therapeutic stricture dilation/cecostomy; no role in disimpaction.
+- `[[asge-2010-anorectal-disorders]]` — 9 GRADE recs (verbatim); APC for radiation proctopathy; RBL for hemorrhoids; fissure ladder; flex sig/colonoscopy + EAUS/MRI for fecal incontinence.
+
+**Pages updated (net-new content + sources/cross-links):**
+- `[[device-assisted-enteroscopy]]` → added non-bleeding indications (small-bowel tumors, Crohn's), total-enteroscopy definition; linked `[[crohns-disease]]`.
+- `[[colorectal-cancer]]` → new "Endoscopic Staging & Management (ASGE 2013)" subsection (EUS rectal staging, malignant-polyp endoscopic-vs-surgical criteria, SEMS for obstruction).
+- `[[chronic-idiopathic-constipation]]` → new "Role of Endoscopy (ASGE 2014)" subsection (when to scope, low yield, therapeutic uses, no disimpaction).
+- `[[fecal-incontinence]]` → added structural endoscopic-evaluation recommendation.
+- `[[hemorrhoids]]` → RBL endoscopic-treatment-of-choice corroboration; added source.
+
+**Constraint honored:** ASGE 2013 oncologic content did not displace `[[nccn-2026-colon-cancer]]`; ASGE 2014 Rome III / ">50" framing did not overwrite Rome IV criteria or age-45 screening; ASGE 2010 anorectal additions layered on top of newer `[[acg-2021-anorectal-disorders]]` / `[[asge-2019-radiation-proctopathy]]`.
+
+**Index:** `index.md` — 4 ASGE source entries added to ASGE block.
+
+**Reported, not ingested (older/superseded; flagged for user triage):** AASLD 2011 HCC (superseded by `[[aasld-2023-hcc]]` / `[[aasld-2025-hcc-critical-update]]`); ASGE 2010 Diarrhea; ASGE 2015 Endoscopy in IBD.
+
+---
+
+## [2026-06-22] lint | Hygiene + stalest-page validation + connectivity (scheduled ingest-and-lint)
+
+**Hygiene:** Removed 7 `.DS_Store` OS artifacts (3 under `wiki/`, 4 under `raw/`).
+
+**Link integrity:** Whole-wiki broken-link scan — no genuine broken `[[links]]` from content pages (apparent hits were escaped `\|` alias false-positives or example tokens inside `log.md`). All new ingest links resolve to existing pages.
+
+**Stalest-page validation:** `[[gastric-premalignant-conditions]]` (stalest, `updated: 2026-05-07`) — expanded thin `## See Also` (was single link) to comma-delimited related set (`[[atrophic-gastritis]]`, `[[gastric-intestinal-metaplasia]]`, `[[gastric-adenocarcinoma]]`, `[[upper-endoscopy]]`); `updated:` bumped. Page otherwise compliant (frontmatter, ADDT-style sections, Sources format).
+
+**Remaining for user triage:** Deep stalest-page audits of `[[acute-pancreatitis]]`, `[[hepatic-cysts]]`, `[[nutrition-in-liver-disease]]` (next pass, per 2–3/pass cap). 3 older uningested guidelines above remain as reported.
+
+---
+
+## [2026-06-22] ingest | ASGE 2019 Radiation Proctopathy + ASGE 2017 Small-Bowel Bleeding + ASGE 2014 LGIB (scheduled ingest-and-lint)
+
+**Scope:** Automated scheduled `ingest-and-lint` run. 3 uningested ASGE technical-standard guidelines ingested (high-value gaps); lint follows in entry below.
+
+**Sources created:**
+- `[[asge-2019-radiation-proctopathy]]` — 3 GRADE recs (verbatim); APC/bipolar/heater probe/RFA all effective for chronic radiation proctopathy bleeding; suggest against 4% formalin vs APC; cryoablation insufficient evidence.
+- `[[asge-2017-small-bowel-bleeding]]` — 8 GRADE recs (verbatim); VCE-first algorithm, DAE/push enteroscopy for therapy, DAE-first in altered anatomy/angiectasia suspicion.
+- `[[asge-2014-lgib]]` — 12 GRADE recs (verbatim); colonoscopy first-line, EGD-first for melena/unstable hematochezia, colonoscopy <24h for severe hematochezia, diverticular/angioectasia hemostasis.
+
+**Pages created:**
+- `[[radiation-proctopathy]]` — new disease script (colorectal inflammation), ADDT format; acute vs chronic typing table, endoscopic dx (biopsy discouraged), endoscopic therapy options.
+
+**Pages updated (sources + cross-links added):**
+- `[[small-bowel-bleeding]]`, `[[capsule-endoscopy]]`, `[[device-assisted-enteroscopy]]` → added `[[asge-2017-small-bowel-bleeding]]` to frontmatter + `## Sources`.
+- `[[acute-lower-gi-bleeding]]` → added `[[asge-2014-lgib]]` source; linked `[[radiation-proctopathy]]` inline in DDx (was plain text).
+
+**Constraint honored:** Older ASGE 2014 LGIB content not used to overwrite newer `[[acg-2023-lgib]]` risk-stratification/timing; ASGE 2017 SBB added as corroboration without displacing more detailed `[[acg-2015-small-bowel-bleeding]]` content.
+
+**Index/log:** `index.md` — 3 ASGE source entries + `[[radiation-proctopathy]]` disease entry added; counts/dates updated.
+
+---
+
+## [2026-06-22] lint | Scheduled ingest-and-lint pass — stub expansion, stalest-page validation, cross-links
+
+**Stub expansions (covered by ingested sources):**
+- `[[capsule-endoscopy]]` — removed stub marker; restructured into Overview / Indications / Limitations sections from `[[acg-2015-small-bowel-bleeding]]` + `[[asge-2017-small-bowel-bleeding]]`; index entry de-stubbed (2 sources).
+- `[[device-assisted-enteroscopy]]` — removed stub marker; added Overview/Indications headings + ASGE 2017 DAE-first point; index entry de-stubbed (2 sources).
+
+**Stalest pages validated (`updated: 2026-05-07`):**
+- `[[eosinophilic-esophagitis]]` — ADDT order + See Also/Sources compliant; **fix:** added diagnostic-schema pointer `*Workup: see [[dysphagia]].*` at top of Differential Diagnosis; date bumped.
+- `[[helicobacter-pylori-infection]]` — compliant; **fix:** added `*Workup: see [[dyspepsia]].*` at top of Differential Diagnosis; date bumped.
+- `[[gastric-premalignant-conditions]]` — compliant (ADDT, See Also/Sources); DDx is histologic (no symptom-workup schema pointer applicable); no change, date not bumped.
+
+**Verification:**
+- Whole-wiki broken-link scan (basename resolution, excluding image embeds and fenced code): **0 broken links** after all edits.
+
+**Flagged for user (could not auto-fix):**
+- 8 `.DS_Store` artifacts remain (repo root, `wiki/`, `wiki/1-disease-scripts/…`, `raw/GI Guidelines/…`) — deletion blocked by filesystem permissions (Operation not permitted) in this environment; `.DS_Store` is git-ignored. Safe to remove manually.
+- Remaining uningested raw guidelines (reported, not ingested this pass): ASGE 2010 Anorectal, ASGE 2010 Diarrhea, ASGE 2013 CRC Staging, ASGE 2014 Constipation, ASGE 2015 Deep Enteroscopy, ASGE 2015 Endoscopy in IBD, AASLD 2011 HCC (superseded by 2023/2025), ACG 2018 IBS (superseded by `[[acg-2020-ibs]]`/2021 Lacy).
+
+---
+
+## [2026-06-22] lint | Scheduled ingest-and-lint pass — hygiene, stalest-page validation, cross-links
+
+**Scope:** Automated scheduled `ingest-and-lint` run (2 guidelines ingested per entry below; lint follows).
+
+**Stalest pages validated (`updated: 2026-05-07`):**
+- `[[crohns-disease]]` — compliant with ADDT order + See Also/Sources format; **connection added**: CRC-surveillance row now links HD + dye-spray chromoendoscopy to `[[asge-2015-scenic-ibd-dysplasia|SCENIC]]`; source added to frontmatter + `## Sources`; date bumped.
+- `[[test-and-treat]]` — compliant (sourced claims, inline links, format); **densified sparse See Also** (added `[[dyspepsia]]`, `[[upper-endoscopy]]`, `[[peptic-ulcer-disease]]`); date bumped. No older-vs-newer conflict introduced (page scope = ACG 2017 strategy/selection; 2024 H. pylori treatment content not overwritten).
+
+**Cross-references built (inbound links to new pages):**
+- `[[colonoscopy]]` (IBD-surveillance indication + See Also/Sources), `[[ulcerative-colitis]]` and `[[crohns-disease]]` → `[[asge-2015-scenic-ibd-dysplasia]]`.
+- `[[nausea-and-vomiting]]`, `[[chronic-idiopathic-constipation]]` → `[[acute-colonic-pseudo-obstruction]]` / `[[colonic-volvulus]]` (See Also).
+
+**Hygiene fixes:**
+- Index source-count corrections (pre-existing miscounts): `[[ulcerative-colitis]]` 2→6, `[[crohns-disease]]` 2→6, `[[colonoscopy]]` 5→9; index `updated:` 2026-06-15 → 2026-06-22.
+
+**Verification:**
+- Whole-wiki broken-link scan (basename resolution, excluding image embeds, escaped-pipe table links, and `log.md` example tokens): **0 real broken links**.
+
+**Flagged for user (could not auto-fix):**
+- 3 `.DS_Store` artifacts remain under `wiki/` (`./`, `1-disease-scripts/`, `1-disease-scripts/foregut-and-motility-diseases/`) — deletion blocked by filesystem permissions in this environment. Safe to remove manually / via git.
+
+---
+
+## [2026-06-22] ingest | ASGE 2015 SCENIC + ASGE 2020 ACPO/Colonic Volvulus
+
+**Context:** Scheduled `ingest-and-lint` pass; ingested 2 high-value uningested ASGE guidelines filling real gaps (no SCENIC, ACPO, or volvulus content existed). Summarize-and-cite; full verbatim recommendation lists preserved per the guideline-recommendation-capture rule.
+
+**Sources created:**
+- `[[asge-2015-scenic-ibd-dysplasia]]` — SCENIC international consensus (ASGE/AGA), Laine et al. Gastrointest Endosc 2015;81:489–501. All 9 GRADE recommendations verbatim; modified-Paris terminology (visible polypoid/nonpolypoid vs invisible; DALM/adenoma-like abandoned); HD > SD, chromoendoscopy > white-light, NBI not substituted; resect-and-survey over colectomy for resectable visible dysplasia.
+- `[[asge-2020-acpo-volvulus]]` — ASGE Standards of Practice, Naveed et al. Gastrointest Endosc 2020;91:228–235. All 10 recommendations verbatim with evidence symbols; sigmoid-volvulus endoscopic detorsion-first + index-admission surgical consult; cecal-volvulus surgery-first; ACPO conservative ×72h → neostigmine 2 mg IV → endoscopic decompression; surgery for perforation/peritonitis.
+
+**Pages created:**
+- `[[acute-colonic-pseudo-obstruction]]` (disease script, `colorectal-diseases/functional-motility/`) — Ogilvie's syndrome; ADDT + management Mermaid algorithm; neostigmine dosing/contraindications, cecal-diameter thresholds.
+- `[[colonic-volvulus]]` (disease script, same folder) — sigmoid vs cecal; CT preferred; detorsion vs surgery-first table; recurrence data.
+
+**Pages updated:**
+- `[[ulcerative-colitis]]` — added SCENIC surveillance-technique + management block to CRC-surveillance section; source added.
+- `[[colonoscopy]]` — IBD-surveillance indication now specifies HD + chromoendoscopy (SCENIC).
+- `[[index]]` — added 2 source entries + 2 disease-script entries.
+
+**Source fidelity:** all content drawn from the two ASGE raw PDFs; no outside information used.
+
+---
+
+## [2026-06-20] update | Expand pouchitis stub + add LINT stub-expansion step
+
+**Pages updated:**
+- `[[pouchitis]]` — expanded from stub to full ADDT disease script from the original raw PDF `raw/GI Guidelines/AGA/AGA 2024 Pouchitis & Inflammatory Pouch Disorders.pdf`. Added epidemiology, pragmatic subtype definitions (intermittent / chronic antibiotic-dependent / chronic antibiotic-refractory / Crohn's-like disease of the pouch / cuffitis), diagnostics (pouchoscopy, PDAI/mPDAI), subtype-driven therapeutics (ciprofloxacin/metronidazole 2–4 wk; De Simone 8-strain probiotic for secondary prevention; chronic antibiotics vs advanced therapy; vedolizumab EARNEST 18/51 vs 5/51; corticosteroids; cuffitis topical mesalamine/steroids), and a table of all 13 AGA 2024 recommendations with certainty. Frontmatter `sources:` → `[aga-2024-pouchitis, aga-2020-probiotics]`; `updated: 2026-06-20`.
+- `[[aga-2024-pouchitis]]` already existed as a source page (no new source page created).
+
+**Schema (`CLAUDE.md`) changes:**
+- `### 3. LINT` → **Check for:** added "Stub pages that can be expanded from already-ingested sources."
+- `### 3. LINT` → **Behavior:** added "Expand stubs from already-ingested sources only (every pass)" — expand a stub into a full page **only** when an already-ingested raw source (or existing source page) substantively covers it; read the original raw source; update frontmatter/index/log. **Hard constraint:** never pull outside/internet information to expand a stub — if raw files are insufficient, leave it as a stub and flag which source is needed. Capped at 1–2 stub expansions per pass.
+
+**Hygiene:**
+- `index.md` pouchitis entry rewritten (stub → full; 1 → 2 sources).
+
+**Source fidelity:** all pouchitis content drawn from the AGA 2024 raw PDF + existing `[[aga-2020-probiotics]]`; no outside information used.
+
+---
+
+## [2026-06-20] lint | Page Styling Guide consolidation + benign-liver-lesion validation
+
+**Schema (`CLAUDE.md`) changes:**
+- Renamed `## Page Conventions` → `## Page Styling Guide` and made it the single home for all page-authoring rules (folded the former `## Website Rendering Conventions` in as a subsection).
+- Added `### Authoring Principles`: (1) accuracy / source fidelity — no unsourced or fabricated content, no outside info without asking; (2) concise, skimmable bullets, no large text blocks; (3) no repetition within a page or across pages (one home page per algorithm/table/figure, link elsewhere — Chicago Classification example).
+- `### 3. LINT`: added the staleness-ordered validation step — each pass validates the 2–3 least-recently-updated pages (oldest `updated:` first) against the Page Styling Guide, capped at 2–3/pass for token budget.
+- `### 1. INGEST`: step 4 now points to the Page Styling Guide for all created/edited pages.
+
+**Pages validated (stalest, `updated: 2026-05-07`):**
+- `[[focal-nodular-hyperplasia]]` — **source contradiction fixed**: fibrolamellar HCC listed as "elevated AFP"; ACG 2024 states AFP is typically *not* elevated in FLHCC → changed to "AFP typically normal." Removed within-page OCP repetition (redundant bullet duplicated the dedicated OCP subsection). Date bumped.
+- `[[hepatocellular-adenoma]]` — fixed mislabeled Bordeaux table cell (Inflammatory "Malignant Risk" column read "Moderate bleed risk" → "Lower than β-catenin; bleed-prone (sinusoidal dilation)," per ACG: β-catenin = highest malignant risk). Aligned subtype frequencies to ACG Table 5 (Inflammatory 40–50%→35–45%; HNF1α 30–40%→35–40%). Date bumped.
+- `[[hepatic-hemangioma]]` — content reviewed (compliant); later linked to the new `[[focal-liver-lesions]]` page (Imaging + See Also) and date bumped (see follow-up).
+
+**Verification:**
+- Accuracy fixes verified against the source PDF `raw/GI Guidelines/ACG/ACG 2024 Focal Liver Lesions.pdf` (FLHCC AFP statement; Table 5 subtype frequencies & malignant-risk ordering). No outside information used.
+
+**Follow-up (user-approved, same session):**
+- **Sonic hedgehog subtype added** to the `[[hepatocellular-adenoma]]` table; reworked it to ACG Table 5 "Complications" data with separate hemorrhage / malignancy columns — HNF1α low/low, inflammatory low/moderate, β-catenin low/high (≤46% exon 3), sonic hedgehog **high/low**, unclassified uncertain. This corrected an earlier over-edit (inflammatory is **not** bleed-prone — ACG lists its hemorrhage risk as low; the initial "bleed-prone" note was wrong).
+- **Created `[[focal-liver-lesions]]`** (diagnostic schema) as the single home for the FNH/HCA/hemangioma/HCC imaging comparison table (gadoxetate hepatobiliary phase = key discriminator). Added to `index.md`.
+- **New convention — diagnostic-schema link at top of Differential Diagnosis (disease scripts).** Added to `CLAUDE.md` (Cross-references + LINT validation step). Applied: `[[achalasia]]` DDx now opens with `*Workup: see [[dysphagia]].*`; FNH/HCA/hemangioma DDx open with `*Workup & imaging comparison: see [[focal-liver-lesions]].*`. Moved the schema link to the DDx top (off the Imaging section / out of an earlier symptom mention in achalasia) to keep one body link per entity; schema also kept in `## See Also`.
+- **Split the guide into `## Content Guide` + `## Style Guide`** in `CLAUDE.md`. Content = what to include (source fidelity, no duplication, include source algorithms/figures/tables). Style = how it looks (concise bullets, prefer visuals, frontmatter, naming, page structures, cross-links, rendering). Added a "Navigation & collapsing sections (auto-generated)" note (collapsible sidebar + right-rail outline are built from headings/`## Contents`; no manual `<details>`). Updated INGEST/LINT references to point at both guides.
+
+---
+
 ## [2026-06-18] lint | Cross-link densification for NCCN oncology cluster
 
 **Scope:** Targeted lint of the newly ingested NCCN oncology pages and their connections to the rest of the wiki (not a full-wiki pass).

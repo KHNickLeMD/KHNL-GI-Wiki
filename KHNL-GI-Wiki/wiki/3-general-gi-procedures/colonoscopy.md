@@ -17,7 +17,7 @@ sources: [usmstf-2020-followup-colonoscopy, usmstf-2021-crc-screening-age, usmst
 - Positive non-colonoscopy screening test (FIT, Cologuard, FOBT, flexible sig)
 - Surveillance after prior polypectomy or CRC resection
 - Workup of symptoms (rectal bleeding, IDA, change in bowel habits, weight loss)
-- IBD surveillance
+- IBD surveillance — perform with high-definition + dye-spray chromoendoscopy per [[asge-2015-scenic-ibd-dysplasia|SCENIC]]; describe lesions as visible (polypoid/nonpolypoid) vs invisible dysplasia
 
 ---
 
@@ -244,7 +244,7 @@ High-risk = any of: surgery without TME; transanal local excision (TAE or TEM); 
 ## See Also
 
 
-[[colorectal-cancer]], [[polypectomy-emr]], [[lynch-syndrome]], [[familial-adenomatous-polyposis]], [[colorectal-cancer-screening]]
+[[colorectal-cancer]], [[polypectomy-emr]], [[lynch-syndrome]], [[familial-adenomatous-polyposis]], [[colorectal-cancer-screening]], [[ulcerative-colitis]]
 
 ---
 
@@ -258,3 +258,4 @@ High-risk = any of: surgery without TME; transanal local excision (TAE or TEM); 
 6. [[acg-2014-bowel-cleansing|USMSTF 2014: Optimizing Adequacy of Bowel Cleansing for Colonoscopy]]
 7. [[usmstf-2015-crc-surveillance|USMSTF 2015: Colonoscopy Surveillance after Colorectal Cancer Resection]]
 8. [[aga-2025-cade-colonoscopy|AGA Living Guideline: Computer-Aided Detection (CADe)-Assisted Colonoscopy (2025)]]
+9. [[asge-2015-scenic-ibd-dysplasia|SCENIC International Consensus Statement on Surveillance and Management of Dysplasia in IBD (2015)]]

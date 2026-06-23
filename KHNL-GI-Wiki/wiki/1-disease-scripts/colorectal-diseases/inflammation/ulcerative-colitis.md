@@ -3,8 +3,8 @@ title: "Ulcerative Colitis"
 category: disease-script
 tags: [uc, ulcerative-colitis, ibd, 5-asa, biologics, anti-tnf, vedolizumab, asuc, pancolitis, proctitis]
 created: 2026-05-07
-updated: 2026-05-07
-sources: [acg-2025-uc, aga-2024-uc-pharm, aga-2024-pouchitis, aga-2023-biomarkers-uc, acg-2019-uc]
+updated: 2026-06-22
+sources: [acg-2025-uc, aga-2024-uc-pharm, aga-2024-pouchitis, aga-2023-biomarkers-uc, acg-2019-uc, asge-2015-scenic-ibd-dysplasia]
 ---
 
 # Ulcerative Colitis
@@ -72,11 +72,11 @@ Idiopathic chronic inflammatory disorder of the large intestine. Continuous muco
 
 | Condition | Distinguishing features |
 |---|---|
-| [[crohns-disease|Crohn's disease]] | Rectal sparing, skip lesions, transmural, fistulas, ileitis, granulomas |
+| [[crohns-disease\|Crohn's disease]] | Rectal sparing, skip lesions, transmural, fistulas, ileitis, granulomas |
 | Infectious colitis (bacterial) | Acute onset; stool culture; history of travel/antibiotic use |
-| C. difficile colitis | Toxin+ PCR; risk factors (antibiotics, hospitalization, [[inflammatory-bowel-disease|IBD]]) |
-| [[colon-ischemia|Ischemic colitis]] | Vascular risk factors; watershed distribution; transient course |
-| [[microscopic-colitis|Microscopic colitis]] | Watery nonbloody diarrhea; normal endoscopy; biopsy required |
+| C. difficile colitis | Toxin+ PCR; risk factors (antibiotics, hospitalization, [[inflammatory-bowel-disease\|IBD]]) |
+| [[colon-ischemia\|Ischemic colitis]] | Vascular risk factors; watershed distribution; transient course |
+| [[microscopic-colitis\|Microscopic colitis]] | Watery nonbloody diarrhea; normal endoscopy; biopsy required |
 | Radiation proctitis | History of pelvic radiation |
 | Diversion colitis | Post-ostomy segment; mucous discharge |
 | Medication-induced colitis | NSAID, mycophenolate, checkpoint inhibitor (immune checkpoint colitis) |
@@ -274,6 +274,13 @@ Idiopathic chronic inflammatory disorder of the large intestine. Continuous muco
 - Every 1–2 years with chromoendoscopy
 - Factors associated with higher CRC risk: disease duration, extent, PSC, family history, active inflammation
 
+**Surveillance technique ([[asge-2015-scenic-ibd-dysplasia|SCENIC]] consensus):**
+- High-definition colonoscopy preferred over standard-definition
+- **Dye-spray chromoendoscopy** (methylene blue / indigo carmine) recommended over white-light with SD scopes; suggested even with HD scopes
+- NBI not a substitute for white-light or chromoendoscopy
+- Terminology: **visible** (polypoid/nonpolypoid, per modified Paris) vs **invisible** dysplasia; terms DALM / adenoma-like abandoned
+- **Management:** completely resected endoscopically-resectable visible dysplasia (polypoid or nonpolypoid) → continued surveillance, not colectomy; **invisible** dysplasia (GI-pathologist–confirmed) → refer to an IBD-surveillance/chromoendoscopy expert
+
 ---
 
 ## Special Considerations
@@ -308,3 +315,4 @@ Idiopathic chronic inflammatory disorder of the large intestine. Continuous muco
 3. [[aga-2024-pouchitis|AGA Clinical Practice Guideline: Management of Pouchitis and Inflammatory Pouch Disorders (2024)]]
 4. [[aga-2023-biomarkers-uc|AGA Clinical Practice Guideline: Role of Biomarkers for the Management of Ulcerative Colitis (2023)]]
 5. [[acg-2019-uc|ACG 2019: Ulcerative Colitis in Adults (historical)]]
+6. [[asge-2015-scenic-ibd-dysplasia|SCENIC International Consensus Statement on Surveillance and Management of Dysplasia in IBD (2015)]]

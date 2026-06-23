@@ -77,7 +77,7 @@ Endoscopy is the primary tool for characterizing the anti-reflux barrier and GEJ
 | Element | Classification System |
 |---|---|
 | Erosive esophagitis | Los Angeles (LA) classification: Grade A (small breaks <5 mm), B (≥5 mm, not confluent), C (confluent, <75% circumference), D (≥75% circumference) |
-| [[barretts-esophagus|Barrett's esophagus]] | Prague C&M classification: C = circumferential extent (cm), M = maximal extent (cm) |
+| [[barretts-esophagus\|Barrett's esophagus]] | Prague C&M classification: C = circumferential extent (cm), M = maximal extent (cm) |
 | Hiatal hernia size | Axial length in cm; measured as distance from GEJ to diaphragmatic impression |
 | Flap valve morphology | Hill grade (I–IV) or American Foregut Society (AFS) classification; assessed in forward view and retroflexion |
 | GEJ landmarks | Top of gastric folds, Z-line, diaphragmatic impression |
@@ -197,7 +197,7 @@ These diagnoses require [[ambulatory-reflux-monitoring]] with specific protocols
 | 48h–96h Bravo pH | Same as above; better tolerance; day-to-day variability | AET; symptom correlation | Pre-procedural; off-PPI; infrequent/variable symptoms |
 | MII-pH off PPI | Non-acid/weakly acidic reflux; belching/rumination | All reflux events + pH; SI, SAP; MNBI | Unproven GERD with supragastric belching, rumination, or pulmonary symptoms |
 | MII-pH on PPI | Ongoing reflux burden on therapy | On-therapy AET; weakly acidic episodes; MNBI | Proven GERD + persisting symptoms on optimized PPI |
-| [[upper-endoscopy|Upper endoscopy]] | Structural assessment, complications | LA grade, Hill grade, hernia size, Barrett's | All planned procedural therapy; alarm symptoms |
+| [[upper-endoscopy\|Upper endoscopy]] | Structural assessment, complications | LA grade, Hill grade, hernia size, Barrett's | All planned procedural therapy; alarm symptoms |
 | HRM | Exclude motility disorder; pre-ARS evaluation; hiatal hernia identification | LES pressure, peristalsis, IRP | Pre-TIF, pre-surgical evaluation; HRM 94.3% sensitive for hiatal hernia |
 | Barium esophagram | Bolus transit; [[achalasia]] outcome monitoring | Barium height at 1 and 5 min; tablet passage | Obstructive symptoms; achalasia follow-up |
 | FLIP | Borderline HRM; catheter placement failure; intraprocedural achalasia treatment | EGJ distensibility, CSA | Borderline HRM findings; as adjunct — not HRM replacement |

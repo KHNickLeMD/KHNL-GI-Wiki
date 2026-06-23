@@ -38,7 +38,7 @@ Rome V (2026) classifies **34 adult** and **22 pediatric** DGBI across anatomic 
 | **C. Bowel** | IBS with subtypes (C1a–d); Chronic constipation (C2); Functional diarrhea (C3); Functional abdominal bloating (C4); Unclassified bowel disorders (C5); Opioid-induced constipation (C6) |
 | **D. Centrally mediated GI pain** | CAPS (D1); **Abdominal migraine** (D2, *new adult diagnosis*); Narcotic bowel syndrome (D3) |
 | **E. Gallbladder and SOD** | Biliary-type pain (E1); Dysfunctional gallbladder disorder (E2); Biliary SOD (E3); Pancreatic SOD (E4) |
-| **F. Anorectal** | [[fecal-incontinence|Fecal incontinence]] (F1); Anorectal pain (F2a–c); Dyssynergic defecation (F3); **Anorectal sensory dysfunction** (F4, *new*): rectal hyposensitivity (F4a), rectal hypersensitivity (F4b) |
+| **F. Anorectal** | [[fecal-incontinence\|Fecal incontinence]] (F1); Anorectal pain (F2a–c); Dyssynergic defecation (F3); **Anorectal sensory dysfunction** (F4, *new*): rectal hyposensitivity (F4a), rectal hypersensitivity (F4b) |
 
 ### Pediatric DGBI (Categories G–H)
 

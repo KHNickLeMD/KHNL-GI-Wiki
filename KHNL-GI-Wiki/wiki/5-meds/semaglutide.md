@@ -141,7 +141,7 @@ For VCTE 15–20 kPa, MRE 4.4–5 kPa, or ELF 10.5–11.3: individualized treatm
 | Safety concern | Monitoring | Clinical action |
 |---|---|---|
 | Acute kidney injury (AKI) | Serum creatinine + eGFR at baseline, during initiation and titration; higher risk with vomiting, diarrhea, dehydration | Ensure adequate hydration; hold or reduce dose during significant GI intolerance; reassess renal function until recovery |
-| [[acute-pancreatitis|Acute pancreatitis]] | Monitor for severe, persistent abdominal pain (± vomiting); check amylase/lipase if symptomatic | Discontinue immediately if suspected; avoid rechallenge after confirmed episode; contraindicated with history of pancreatitis |
+| [[acute-pancreatitis\|Acute pancreatitis]] | Monitor for severe, persistent abdominal pain (± vomiting); check amylase/lipase if symptomatic | Discontinue immediately if suspected; avoid rechallenge after confirmed episode; contraindicated with history of pancreatitis |
 | Gallbladder disease (cholelithiasis/cholecystitis) | Monitor for right upper quadrant pain or biliary colic; RUQUS if symptomatic | Educate patients on biliary symptoms; caution in patients with history of gallbladder disease; 37% increased risk per meta-analysis (76 RCTs, n=103,371) |
 | Thyroid C-cell tumors (MTC risk) | Review history of MTC/MEN2; monitor for neck mass, hoarseness, [[dysphagia]] | Contraindicated in MTC/MEN2; educate on symptoms; routine calcitonin testing NOT required; no conclusive human evidence for MTC causation |
 | Hypoglycemia (with insulin/secretagogues) | Monitor glucose in patients on insulin or sulfonylureas; 7.4% vs. 5.4% in ESSENCE (T2DM) | Adjust insulin/sulfonylurea dose; educate on hypoglycemia recognition; higher risk post-[[bariatric-surgery]] |

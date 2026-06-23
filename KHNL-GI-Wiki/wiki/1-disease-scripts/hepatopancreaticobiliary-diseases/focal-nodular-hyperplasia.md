@@ -3,7 +3,7 @@ title: "Focal Nodular Hyperplasia"
 category: disease-script
 tags: [fnh, liver, hpb, focal-liver-lesion, benign-liver, gadoxetate, mri]
 created: 2026-05-07
-updated: 2026-05-07
+updated: 2026-06-20
 sources: [acg-2024-focal-liver-lesions]
 ---
 
@@ -44,11 +44,13 @@ Key concern is distinguishing FNH from HCA (very different management) and from 
 
 ## Differential Diagnosis
 
+*Workup & imaging comparison: see [[focal-liver-lesions]].*
+
 - **[[hepatocellular-adenoma|Hepatocellular adenoma]] (HCA)** — most important distinction; HCA lacks central scar; lacks hepatobiliary phase gadoxetate uptake in typical pattern; management is very different (see [[hepatocellular-adenoma]])
 - **[[hepatocellular-carcinoma|Hepatocellular carcinoma (HCC)]]** — in cirrhotic background; APHE + washout; [[li-rads|LI-RADS]] ≥4; no central scar
 - **Hypervascular metastasis** — (e.g. from neuroendocrine tumor, RCC, thyroid cancer); multiple lesions; clinical context
 - **[[hepatic-hemangioma|Hepatic hemangioma]]** — T2 hyperintense; centripetal fill-in; no central scar; no hepatobiliary phase uptake
-- **Fibrolamellar HCC** — rare; young patients without cirrhosis; large; contains central scar (can mimic FNH); elevated AFP; aggressive biology
+- **Fibrolamellar HCC** — rare; young patients without cirrhosis; large; contains central scar (can mimic FNH); **AFP typically normal**; aggressive biology
 
 ---
 
@@ -88,7 +90,6 @@ Key concern is distinguishing FNH from HCA (very different management) and from 
 - FNH has no malignant potential
 - No bleeding risk
 - Does not change in size in the vast majority of patients
-- OCP discontinuation: not required for management (FNH is not OCP-driven); however OCP cessation for other indications is unrelated to FNH management
 
 **OCP use:**
 
@@ -112,8 +113,7 @@ Key concern is distinguishing FNH from HCA (very different management) and from 
 
 ## See Also
 
-
-[[hepatocellular-adenoma]], [[hepatic-hemangioma]], [[hepatocellular-carcinoma]], [[hepatic-cysts]], [[li-rads]]
+[[focal-liver-lesions]], [[hepatocellular-adenoma]], [[hepatic-hemangioma]], [[hepatocellular-carcinoma]], [[hepatic-cysts]], [[li-rads]]
 
 ---
 

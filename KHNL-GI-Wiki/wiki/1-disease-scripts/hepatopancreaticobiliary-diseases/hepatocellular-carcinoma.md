@@ -427,7 +427,7 @@ Per the AASLD 2025 revised Figure 11 ([[aasld-2025-hcc-critical-update]]), post-
 
 | Recurrence Pattern | Recommended Approach |
 |---|---|
-| Within Milan criteria | Salvage [[liver-transplantation|liver transplantation]] (for eligible patients) |
+| Within Milan criteria | Salvage [[liver-transplantation\|liver transplantation]] (for eligible patients) |
 | Liver-localized beyond Milan, within downstaging criteria | Liver-directed therapy (TACE/TARE/ablation); consider LT if successfully downstaged |
 | Vascular invasion, extrahepatic spread, or TACE-unsuitable disease | First-line systemic therapy |
 

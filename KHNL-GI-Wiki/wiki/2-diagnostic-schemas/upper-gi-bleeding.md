@@ -43,14 +43,14 @@ If UGIB is clinically suspected in a patient presenting with apparent LGIB, perf
 
 | Etiology | Key Features |
 |---|---|
-| **[[peptic-ulcer-disease|Peptic ulcer disease]]** (gastric or duodenal) | Most common cause; NSAID use, [[helicobacter-pylori-infection]], or idiopathic; hematemesis or melena; may present with syncope |
+| **[[peptic-ulcer-disease\|Peptic ulcer disease]]** (gastric or duodenal) | Most common cause; NSAID use, [[helicobacter-pylori-infection]], or idiopathic; hematemesis or melena; may present with syncope |
 | **Mallory-Weiss tear** | Longitudinal mucosal tear at GEJ; precipitated by forceful vomiting; typically self-limited |
 | **Dieulafoy lesion** | Aberrant large-caliber submucosal artery with pinpoint mucosal defect; massive bleeding; often proximal stomach; subtle endoscopic finding |
 | **Gastric/esophageal malignancy** | Weight loss, [[dysphagia]], early satiety; iron-deficiency anemia; mass on imaging |
 | **Angiodysplasia / AVM** | Older patients; anticoagulant use; often right-sided gastric or duodenal lesions; vascular ectasia on endoscopy |
 | **Aortoenteric fistula** | History of aortic graft surgery; sentinel bleed followed by massive exsanguination; CT imaging urgently |
 | **Cameron lesions** | Erosions at diaphragmatic hiatal hernia; chronic iron-deficiency more than overt bleeding |
-| **GAVE (gastric antral vascular ectasia)** | Chronic occult or overt bleeding; "watermelon stomach" pattern; associated with [[portal-hypertension|portal hypertension]] and autoimmune disease |
+| **GAVE (gastric antral vascular ectasia)** | Chronic occult or overt bleeding; "watermelon stomach" pattern; associated with [[portal-hypertension\|portal hypertension]] and autoimmune disease |
 
 ### Variceal / Portal Hypertensive
 
