@@ -3,8 +3,8 @@ title: "Crohn's Disease"
 category: disease-script
 tags: [crohns, ibd, biologics, ileitis, colitis, perianal-fistula, stricture, fistula, anti-tnf]
 created: 2026-05-07
-updated: 2026-06-22
-sources: [acg-2025-crohns, aga-2025-crohns-pharm, aga-2021-crohns-pharm, aga-2023-biomarkers-cd, acg-2018-crohns, asge-2015-scenic-ibd-dysplasia]
+updated: 2026-06-23
+sources: [acg-2025-crohns, aga-2025-crohns-pharm, aga-2021-crohns-pharm, aga-2023-biomarkers-cd, acg-2018-crohns, asge-2015-scenic-ibd-dysplasia, asge-2015-ibd]
 ---
 
 # Crohn's Disease
@@ -283,6 +283,13 @@ No single pathognomonic test. Diagnosis = integration of:
 
 ---
 
+### Endoscopic Stricture Dilation
+
+- **Endoscopic balloon dilation** for symptomatic **benign** CD strictures (small bowel, colon, or ileocolonic anastomosis) **≤4 cm** in length, when feasible — durable clinical response ~58%, deferring surgery ([[asge-2015-ibd]]).
+- Biopsy strictures to exclude malignancy.
+
+---
+
 ### Fulminant/Hospitalized CD
 
 - IV methylprednisolone 40–60 mg/day
@@ -347,3 +354,4 @@ No single pathognomonic test. Diagnosis = integration of:
 4. [[aga-2023-biomarkers-cd|AGA Clinical Practice Guideline: Role of Biomarkers for the Management of Crohn's Disease (2023)]]
 5. [[acg-2018-crohns|ACG 2018: Management of Crohn's Disease in Adults (historical)]]
 6. [[asge-2015-scenic-ibd-dysplasia|SCENIC International Consensus Statement on Surveillance and Management of Dysplasia in IBD (2015)]]
+7. [[asge-2015-ibd|ASGE Guideline: The Role of Endoscopy in Inflammatory Bowel Disease (2015)]]

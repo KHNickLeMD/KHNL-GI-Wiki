@@ -3,7 +3,7 @@ title: "Acute Pancreatitis"
 category: disease-script
 tags: [pancreatitis, acute-pancreatitis, hpb, gallstone-pancreatitis, necrotizing-pancreatitis, ercp, bisap, fluid-resuscitation, nutrition]
 created: 2026-05-07
-updated: 2026-05-07
+updated: 2026-06-23
 sources: [acg-2024-acute-pancreatitis]
 ---
 
@@ -245,8 +245,7 @@ BISAP ≥3 = high risk for severe AP and mortality
 
 ## See Also
 
-
-[[alcohol-associated-liver-disease]], [[chronic-pancreatitis]], [[pancreatic-cysts]], [[ercp]], [[endoscopic-ultrasound]], [[peptic-ulcer-disease]], [[acute-mesenteric-ischemia]]
+[[alcohol-associated-liver-disease]], [[chronic-pancreatitis]], [[pancreatic-cysts]], [[ercp]], [[endoscopic-ultrasound]], [[peptic-ulcer-disease]], [[acute-mesenteric-ischemia]], [[choledocholithiasis]]
 
 ---
 

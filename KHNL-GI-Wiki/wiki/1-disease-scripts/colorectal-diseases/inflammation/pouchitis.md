@@ -3,8 +3,8 @@ title: "Pouchitis"
 category: disease-script
 tags: [pouchitis, ipaa, j-pouch, ulcerative-colitis, ibd, cuffitis, crohns-like-disease-of-the-pouch, antibiotics, probiotics, biologics]
 created: 2026-06-04
-updated: 2026-06-20
-sources: [aga-2024-pouchitis, aga-2020-probiotics]
+updated: 2026-06-23
+sources: [aga-2024-pouchitis, aga-2020-probiotics, asge-2015-ibd]
 ---
 
 Pouchitis is non-specific inflammation of the ileal pouch reservoir — the most common complication after restorative proctocolectomy with **ileal pouch–anal anastomosis (IPAA, "J-pouch")** for [[ulcerative-colitis|ulcerative colitis]]. The [[aga-2024-pouchitis|AGA 2024 guideline]] frames management by clinical pattern (intermittent → chronic antibiotic-dependent → chronic antibiotic-refractory) plus two related inflammatory pouch disorders: Crohn's-like disease of the pouch and cuffitis. [[aga-2024-pouchitis]]
@@ -64,6 +64,8 @@ Pragmatic, treatment-anchored definitions (AGA 2024, Table 5):
 - **Pouchoscopy + biopsy** — primary diagnostic tool; maps inflammation (pouch body vs cuff vs pre-pouch ileum) and excludes Crohn's-like disease/cuffitis/infection.
 - **PDAI / mPDAI** — composite activity index (symptoms + endoscopy ± histology); endoscopic/histologic outcomes were **not** prioritized as decision-critical in the guideline (clinical improvement is the key outcome).
 - Targeted workup when refractory: stool studies (incl. *C. difficile*), CMV on biopsy, cross-sectional/contrast imaging or EUA for suspected stricture/fistula.
+- **Endoscopic + histologic assessment of the pouch and afferent limb is recommended in symptomatic patients** ([[asge-2015-ibd]]).
+- **Pouch neoplasia surveillance** (beyond AGA 2024 scope; [[asge-2015-ibd]]): highest-risk patients — **prior colorectal dysplasia or cancer** — considered for **annual pouchoscopy** with biopsies taken **proximally (within the pouch) and distally (anal transition zone)**. [[primary-sclerosing-cholangitis|PSC]], refractory pouchitis, and type C (atrophic, severely inflamed) pouch mucosa may also warrant surveillance.
 
 ---
 
@@ -126,7 +128,7 @@ All 13 AGA 2024 statements (9 actionable conditional recommendations + 4 "no rec
 
 ## See Also
 
-[[ulcerative-colitis]], [[crohns-disease]], [[inflammatory-bowel-disease]], [[probiotics]], [[colonoscopy]]
+[[ulcerative-colitis]], [[crohns-disease]], [[inflammatory-bowel-disease]], [[probiotics]], [[colonoscopy]], [[primary-sclerosing-cholangitis]]
 
 ---
 
@@ -134,3 +136,4 @@ All 13 AGA 2024 statements (9 actionable conditional recommendations + 4 "no rec
 
 1. [[aga-2024-pouchitis|AGA Clinical Practice Guideline: Management of Pouchitis and Inflammatory Pouch Disorders (2024)]]
 2. [[aga-2020-probiotics|AGA Clinical Practice Guidelines on the Role of Probiotics in the Management of Gastrointestinal Disorders]]
+3. [[asge-2015-ibd|ASGE Guideline: The Role of Endoscopy in Inflammatory Bowel Disease (2015)]]

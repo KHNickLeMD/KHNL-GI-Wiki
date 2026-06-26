@@ -3,7 +3,7 @@ title: "Nutrition in Liver Disease"
 category: disease-script
 tags: [liver, cirrhosis, malnutrition, sarcopenia, hepatic-encephalopathy, bcaa, vitamin-e, mash, masld, ald, coffee, nutrition]
 created: 2026-05-07
-updated: 2026-05-07
+updated: 2026-06-23
 sources: [acg-2025-liver-nutrition, aasld-2021-malnutrition-cirrhosis]
 ---
 
@@ -128,7 +128,6 @@ Malnutrition in liver disease is multifactorial:
 ---
 
 ## See Also
-
 
 [[hepatic-encephalopathy]], [[ascites]], [[nafld-masld]], [[alcohol-associated-liver-disease]], [[hepatocellular-carcinoma]], [[rifaximin]], [[liver-transplantation]], [[acute-on-chronic-liver-failure]], [[nutrition-in-hospitalized-patients]]
 

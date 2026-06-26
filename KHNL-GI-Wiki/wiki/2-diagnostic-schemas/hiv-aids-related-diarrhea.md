@@ -3,8 +3,8 @@ title: "HIV/AIDS-Related Diarrhea"
 category: synthesis
 tags: [hiv, aids, diarrhea, opportunistic-infections, cd4, immunocompromised, stub]
 created: 2026-06-08
-updated: 2026-06-08
-sources: [acg-2016-acute-diarrhea]
+updated: 2026-06-23
+sources: [acg-2016-acute-diarrhea, asge-2010-diarrhea]
 ---
 
 # HIV/AIDS-Related Diarrhea
@@ -20,6 +20,15 @@ The only directly relevant primary source currently in the wiki is the **ACG 201
 - **Bismuth subsalicylate is contraindicated in HIV** (risk of bismuth encephalopathy from excessive absorption).
 - See [[acg-2016-acute-diarrhea]] / [[acute-diarrhea]] for the general acute-diarrhea diagnostic and management framework.
 
+## Endoscopic Evaluation (ASGE 2010)
+
+*Primary-source–backed endoscopy strategy for the immunocompromised host. ([[asge-2010-diarrhea]])*
+
+- **Stool testing first-line**; endoscopy indicated when diarrhea is persistent and stool tests are nondiagnostic. In severe diarrhea, bowel prep may be omitted.
+- **CMV** is the most common opportunistic infectious cause in HIV/transplant/immunosuppressed hosts. Positive CMV PCR/culture/serology does **not** confirm tissue-invasive disease — **endoscopic biopsy** (± in situ hybridization, IHC, tissue culture) may be required.
+- **HIV:** suggest flexible sigmoidoscopy **or** [[colonoscopy]] when labs are nondiagnostic; if flex sig is nondiagnostic, do full colonoscopy with biopsy and/or [[upper-endoscopy|EGD]] with biopsy for persistent diarrhea. Colonoscopy has higher yield and is more cost-effective than sigmoidoscopy (39% vs 22%); yield rises with **CD4 <100** (opportunistic infections); proximal-colon biopsies capture pathogens/lymphomas beyond sigmoidoscope reach. A pathogen may be found on biopsy despite negative stool studies.
+- **GVHD** (graft-versus-host disease; post-HSCT secretory diarrhea): flexible sigmoidoscopy with **distal-colon biopsy** is the preferred initial test (distal-colon sensitivity 82–95%); add EGD with biopsies if sigmoidoscopy is negative or upper-GI symptoms predominate. Duodenal biopsy carries hematoma risk (esp. acute GVHD + thrombocytopenia).
+
 ## Related Enteric Pathogen Pages (in this wiki)
 
 [[cryptosporidiosis]], [[giardiasis]], [[entamoeba-histolytica-infection]], [[clostridioides-difficile]], [[salmonella-infection]], [[shigellosis]], [[campylobacter-infection]], [[norovirus]]
@@ -28,13 +37,14 @@ The only directly relevant primary source currently in the wiki is the **ACG 201
 
 ## See Also
 
-[[acg-2016-acute-diarrhea]], [[acute-diarrhea]], [[cryptosporidiosis]]
+[[acg-2016-acute-diarrhea]], [[acute-diarrhea]], [[chronic-diarrhea]], [[cryptosporidiosis]], [[colonoscopy]]
 
 ---
 
 ## Sources
 
 1. [[acg-2016-acute-diarrhea|ACG 2016: Diagnosis, Treatment, and Prevention of Acute Diarrheal Infections in Adults]]
+2. [[asge-2010-diarrhea|ASGE Guideline: The Role of Endoscopy in the Management of Patients With Diarrhea (2010)]]
 
 ---
 

@@ -3,7 +3,7 @@ title: "Hepatic Cysts"
 category: disease-script
 tags: [hepatic-cysts, liver, hpb, focal-liver-lesion, simple-cyst, complex-cyst, polycystic-liver]
 created: 2026-05-07
-updated: 2026-05-07
+updated: 2026-06-23
 sources: [acg-2024-focal-liver-lesions]
 ---
 
@@ -38,6 +38,8 @@ sources: [acg-2024-focal-liver-lesions]
 ---
 
 ## Differential Diagnosis
+
+*Workup: see [[focal-liver-lesions]].*
 
 **For a cystic liver lesion:**
 
@@ -114,8 +116,7 @@ sources: [acg-2024-focal-liver-lesions]
 
 ## See Also
 
-
-[[hepatocellular-adenoma]], [[focal-nodular-hyperplasia]], [[hepatic-hemangioma]], [[hepatocellular-carcinoma]], [[cholangiocarcinoma]], [[li-rads]]
+[[focal-liver-lesions]], [[hepatocellular-adenoma]], [[focal-nodular-hyperplasia]], [[hepatic-hemangioma]], [[hepatocellular-carcinoma]], [[cholangiocarcinoma]], [[li-rads]]
 
 ---
 

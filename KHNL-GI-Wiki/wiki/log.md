@@ -6,6 +6,65 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-06-23] update | Remove mislabeled HCC PDF + restructure index Sources to mirror raw folders (user request)
+
+**File removed:** `raw/GI Guidelines/AASLD/AASLD 2011 HCC Management.pdf` — was a mislabeled duplicate of the AASLD 2023 HCC Guidance (already ingested as `[[aasld-2023-hcc]]`). Deleted per user instruction; no source page was ever created for it.
+
+**Index Sources section restructured** to mirror the `raw/GI Guidelines/` folder structure. Subsections reordered to **AASLD, ACG, AGA, ASGE, NCCN, Other, SAGES**; `Consensus Statements & Other` renamed to **Other**; the **USMSTF** subsection dissolved and its entries redistributed per user rule ("joint USMSTF + ACG/ASGE → that society; USMSTF-alone → Other"):
+- **→ ACG:** `[[usmstf-2014-lynch-syndrome]]` (titled "Practice Guideline from the American College of Gastroenterology"), `[[acg-2014-bowel-cleansing]]` (ACG-slugged; ACG folder).
+- **→ ASGE:** `[[usmstf-2015-crc-surveillance]]`, `[[usmstf-2016-fit-screening]]` (both have explicit "ASGE USMSTF" co-published versions in the raw ASGE folder).
+- **→ Other:** `[[usmstf-2025-bowel-prep]]`, `[[usmstf-2021-crc-screening-age]]`, `[[usmstf-2020-endoscopic-removal]]`, `[[usmstf-2020-followup-colonoscopy]]`, `[[usmstf-2020-malignant-colorectal-polyps]]`, `[[usmstf-2017-bmmrd]]`.
+
+**Integrity:** No source entries lost or duplicated (133 unique entries before and after). Footer reconciliation note updated (index now lists 133 source entries). Only section grouping/order changed — entry text preserved verbatim.
+
+**Note for user:** several of the "Other" USMSTF papers (e.g. 2020 endoscopic-removal, follow-up, malignant polyps) are also multi-society (co-published in the ACG/AGA/ASGE journals); they were left in Other because their source-page titles read "USMSTF"/"US Multi-Society Task Force" without a single-society co-brand. Easy to move to ACG/ASGE if you'd prefer.
+
+---
+
+## [2026-06-23] ingest | ASGE 2010 Diarrhea + ASGE 2015 Endoscopy in IBD (scheduled ingest-and-lint)
+
+**Scope:** Automated scheduled `ingest-and-lint` run. Of the 3 guidelines flagged uningested last pass, **2 were genuine and ingested**; the third was a mislabeled duplicate (see below). Per task constraint, only net-new/corroborating content added — newer guideline content not overwritten.
+
+**Sources created:**
+- `[[asge-2010-diarrhea]]` — 10 GRADE recs (verbatim); stool/labs first; colonoscopy + random R+L biopsies for chronic unexplained diarrhea (microscopic colitis is patchy, left-only sampling misses it); TI intubation; EGD + ≥4 duodenal biopsies for celiac/malabsorption; CE/enteroscopy not routine; HIV (CD4<100, proximal-colon yield, CMV biopsy) and GVHD (distal-colon biopsy, duodenal-hematoma risk) strategies.
+- `[[asge-2015-ibd]]` — 21 GRADE recs (verbatim); colonoscopy + ileoscopy + multisite biopsy for dx/subtyping; backwash ileitis vs CD ileitis; CE algorithm for small-bowel CD (patency capsule/enterography first); EUS for perianal fistula; Montreal classification; neoterminal-ileum (Rutgeerts) postop eval 6–12 mo; chromoendoscopy-preferred dysplasia surveillance; pouch surveillance; endoscopic balloon dilation for benign strictures ≤4 cm.
+
+**Pages updated (net-new content + sources/cross-links):**
+- `[[chronic-diarrhea]]` → new "Role of Endoscopy (ASGE 2010)" subsection; added missing `## Sources` section + frontmatter source.
+- `[[hiv-aids-related-diarrhea]]` → new "Endoscopic Evaluation (ASGE 2010)" section (CMV biopsy, sig-vs-colonoscopy, CD4<100, GVHD distal-colon biopsy); source added.
+- `[[microscopic-colitis]]` (stub) → added patchy-distribution/left-only-miss point sourced to ASGE 2010 + `## Sources`; remains a stub (no dedicated MC guideline in `raw/`).
+- `[[crohns-disease]]` → new "Endoscopic Stricture Dilation" subsection (balloon dilation for benign strictures ≤4 cm); source added.
+- `[[ulcerative-colitis]]` → ileoscopy backwash-vs-CD-ileitis distinction, cecal patch, "UC colon stricture malignant until proven otherwise"; source added.
+- `[[pouchitis]]` → pouch/afferent-limb assessment in symptomatic patients + pouch-neoplasia surveillance (beyond AGA 2024 scope); source added.
+
+**Constraint honored:** ASGE 2015 dysplasia-surveillance content deferred to `[[asge-2015-scenic-ibd-dysplasia]]` (not duplicated); ASGE 2010/2015 endoscopic content layered onto existing newer pharmacologic guidelines without overwriting.
+
+**Index:** `index.md` — 2 ASGE source entries added; per-page source counts updated (`crohns-disease` 7, `ulcerative-colitis` 7, `pouchitis` 3, `chronic-diarrhea` 1); new `[[hiv-aids-related-diarrhea]]` schema entry added (was missing).
+
+**Filename/content mismatch flagged (NOT ingested):** `raw/GI Guidelines/AASLD/AASLD 2011 HCC Management.pdf` actually contains the **AASLD 2023 HCC Practice Guidance** (Singal et al., Hepatology 2023;78:1922–1965, DOI 10.1097/HEP.0000000000000466), already ingested as `[[aasld-2023-hcc]]`. No 2011 HCC source page created — would have duplicated existing content. **User action:** rename or remove the mislabeled file.
+
+**No remaining uningested guidelines** in `raw/GI Guidelines/` after this pass (all source PDFs now map to a `wiki/sources/` page).
+
+---
+
+## [2026-06-23] lint | Hygiene + stalest-page validation + link integrity (scheduled ingest-and-lint)
+
+**Hygiene:** Removed 8 `.DS_Store` OS artifacts (4 under `wiki/`, 1 root, 3 under `raw/`).
+
+**Link integrity:** Whole-wiki broken-link scan (all `[[links]]` resolved by basename). **No genuine broken links** — every apparent miss was an escaped table-pipe alias (`[[slug\|Alias]]`, the `\` captured by the scanner), confirming resolution. All new ingest links resolve.
+
+**Stalest-page validation (3 oldest, all `updated: 2026-05-07`):**
+- `[[acute-pancreatitis]]` — compliant (ADDT order, frontmatter, figures captured, Sources/See Also format). Fixed double blank line under `## See Also`; added `[[choledocholithiasis]]` to See Also (already linked inline). `updated:` bumped.
+- `[[hepatic-cysts]]` — compliant. Added required diagnostic-schema pointer `*Workup: see [[focal-liver-lesions]].*` at top of Differential Diagnosis (Style Guide); fixed See Also spacing + added `[[focal-liver-lesions]]`. `updated:` bumped.
+- `[[nutrition-in-liver-disease]]` — compliant. Fixed See Also spacing. `updated:` bumped. (Note: categorized as `disease-script` though it is a management framework — left in place to avoid breaking links; flagged for user.)
+
+**Remaining for user triage:**
+- Mislabeled `AASLD 2011 HCC Management.pdf` (see ingest entry) — rename/remove.
+- `[[microscopic-colitis]]` and `[[hiv-aids-related-diarrhea]]` remain stubs — need a dedicated microscopic-colitis source and a primary HIV/GI opportunistic-infection guideline respectively (not in `raw/`); do not expand from secondary sources without permission.
+- Next stalest batch (per 2–3/pass cap): `[[clostridioides-difficile]]`, `[[atrophic-gastritis]]`, `[[gastroparesis]]` (all `updated: 2026-05-15`).
+
+---
+
 ## [2026-06-22] ingest | ASGE 2015 Deep Enteroscopy + ASGE 2013 CRC Staging + ASGE 2014 Constipation + ASGE 2010 Anorectal (scheduled ingest-and-lint)
 
 **Scope:** Automated scheduled `ingest-and-lint` run. Identified 7 remaining uningested guidelines (all older/superseded: AASLD 2011 HCC; ASGE 2010 anorectal, 2010 diarrhea, 2013 CRC staging, 2014 constipation, 2015 deep enteroscopy, 2015 endoscopy-in-IBD). Ingested the 4 with the clearest existing home pages and lowest conflict risk. Per task constraint, **only net-new/corroborating content added — newer guideline content not overwritten.**

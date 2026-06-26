@@ -3,8 +3,8 @@ title: "Chronic Diarrhea"
 category: diagnostic-schema
 tags: [diarrhea, chronic, malabsorption, secretory, osmotic, inflammatory, steatorrhea, ibs]
 created: 2026-06-04
-updated: 2026-06-04
-sources: []
+updated: 2026-06-23
+sources: [asge-2010-diarrhea]
 ---
 
 ## Definition / Scope
@@ -106,6 +106,18 @@ flowchart TD
 
 ---
 
+## Role of Endoscopy (ASGE 2010)
+
+*Endoscopy is reserved for chronic, unexplained, or treatment-refractory diarrhea — stool/labs come first. ([[asge-2010-diarrhea]])*
+
+- **Colonoscopy + random biopsies of BOTH right and left colon** — required even when mucosa is normal; microscopic colitis is patchy and left-sided-only sampling misses it. Sigmoidoscopy is an alternative but may miss right-sided organic disease.
+- **Intubate the terminal ileum** during colonoscopy; routine biopsy of normal-appearing TI is low yield (0–4.2%).
+- **EGD + small-bowel biopsy** when colonoscopy is inconclusive, malabsorption is suspected, or [[celiac-disease|celiac]] serology is positive; obtain **≥4 duodenal biopsies** for suspected celiac (even if endoscopically normal).
+- **Capsule endoscopy and enteroscopy are NOT recommended** for routine chronic-diarrhea evaluation (modest yield, no tissue, retention risk); reserve enteroscopy for nondiagnostic small-bowel disease.
+- Diagnostic yield of colonoscopy in chronic diarrhea ~7–32%; IBD and [[microscopic-colitis]] most common. Note sodium-phosphate preps and NSAIDs can produce mucosal/terminal-ileal changes mimicking IBD.
+
+---
+
 ## Red Flags / Alarm Features
 
 Prompt structural evaluation (colonoscopy ± cross-sectional imaging) and lower the threshold for specialist referral:
@@ -125,3 +137,9 @@ Prompt structural evaluation (colonoscopy ± cross-sectional imaging) and lower 
 ## See Also
 
 [[acute-diarrhea]], [[irritable-bowel-syndrome]], [[celiac-disease]], [[crohns-disease]], [[ulcerative-colitis]], [[microscopic-colitis]], [[bile-acid-diarrhea]], [[clostridioides-difficile]], [[small-intestinal-bacterial-overgrowth]], [[chronic-pancreatitis]], [[giardiasis]], [[cryptosporidiosis]], [[colon-ischemia]], [[colorectal-cancer]], [[colonoscopy]], [[disorders-of-gut-brain-interaction]]
+
+---
+
+## Sources
+
+1. [[asge-2010-diarrhea|ASGE Guideline: The Role of Endoscopy in the Management of Patients With Diarrhea (2010)]]

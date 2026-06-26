@@ -3,8 +3,8 @@ title: "Ulcerative Colitis"
 category: disease-script
 tags: [uc, ulcerative-colitis, ibd, 5-asa, biologics, anti-tnf, vedolizumab, asuc, pancolitis, proctitis]
 created: 2026-05-07
-updated: 2026-06-22
-sources: [acg-2025-uc, aga-2024-uc-pharm, aga-2024-pouchitis, aga-2023-biomarkers-uc, acg-2019-uc, asge-2015-scenic-ibd-dysplasia]
+updated: 2026-06-23
+sources: [acg-2025-uc, aga-2024-uc-pharm, aga-2024-pouchitis, aga-2023-biomarkers-uc, acg-2019-uc, asge-2015-scenic-ibd-dysplasia, asge-2015-ibd]
 ---
 
 # Ulcerative Colitis
@@ -31,6 +31,8 @@ Idiopathic chronic inflammatory disorder of the large intestine. Continuous muco
 - Continuous inflammation from rectum extending proximally
 - Erythema, loss of vascular pattern, granularity, friability, ulcerations
 - Rectal sparing: only in [[primary-sclerosing-cholangitis|PSC]] variant (<5% of adults at diagnosis) or topically treated disease
+- **Ileoscopy distinguishes UC backwash ileitis from CD ileitis** ([[asge-2015-ibd]]): backwash = short, contiguous, mild ileal inflammation continuous with cecal disease, no stricture (up to 25% of UC pancolitis); CD ileitis = patchy/extensive inflammation, discrete ulcers, or stricture. A **cecal/periappendiceal patch** with otherwise normal right colon is *not* CD and does not change UC outcomes.
+- **A colon stricture in UC is malignant until proven otherwise** — favor surgery if it cannot be fully examined and biopsied.
 
 **Montreal Classification (extent):**
 
@@ -316,3 +318,4 @@ Idiopathic chronic inflammatory disorder of the large intestine. Continuous muco
 4. [[aga-2023-biomarkers-uc|AGA Clinical Practice Guideline: Role of Biomarkers for the Management of Ulcerative Colitis (2023)]]
 5. [[acg-2019-uc|ACG 2019: Ulcerative Colitis in Adults (historical)]]
 6. [[asge-2015-scenic-ibd-dysplasia|SCENIC International Consensus Statement on Surveillance and Management of Dysplasia in IBD (2015)]]
+7. [[asge-2015-ibd|ASGE Guideline: The Role of Endoscopy in Inflammatory Bowel Disease (2015)]]
