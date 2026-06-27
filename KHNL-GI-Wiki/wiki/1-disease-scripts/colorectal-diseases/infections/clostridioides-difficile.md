@@ -3,8 +3,8 @@ title: "Clostridioides difficile Infection"
 category: disease-script
 tags: [cdiff, clostridioides-difficile, colitis, vancomycin, fidaxomicin, fmt, colorectal]
 created: 2026-05-15
-updated: 2026-05-15
-sources: [acg-2021-cdiff, aga-2024-fmt]
+updated: 2026-06-27
+sources: [acg-2021-cdiff, aga-2024-fmt, aga-2026-cdiff-ibd]
 ---
 
 ## Assessment
@@ -208,6 +208,21 @@ Higher doses of vancomycin (>125 mg QID) are not recommended for severe CDI — 
 - FMT for rCDI in IBD: 79–91% success for CDI; 7–25% may experience IBD worsening; FMT is safe and well-tolerated in IBD overall
 - IBD patients rarely have pseudomembranes on endoscopy (mucopurulent exudate instead) — limits endoscopic severity assessment
 
+*Newer dedicated guidance — [[aga-2026-cdiff-ibd|AGA 2026 CPU on CDI in IBD]]:*
+
+- **Initial CDI in IBD → prefer fidaxomicin** (vancomycin if fidaxomicin unavailable/cost-prohibitive); **metronidazole should not be used** (newer same-tier guidance — see Contradiction note below)
+- Use a **multistep toxin-based assay** (NAAT alone over-diagnoses colonization, which is common in IBD)
+- Exclude/treat CDI in patients with an **end ileostomy or ileo-anal pouch** and worsening diarrhea; retest if diarrhea recurs after successful treatment
+- Strongly consider **hospitalization** for severe colitis/systemic toxicity (>6 BM/day, severe pain, marked leukocytosis, hemodynamic instability, sepsis)
+- **Continue immunosuppressive IBD therapy** during acute CDI (immunomodulators, biologics, small molecules; steroids if needed) — **no drug class has a differential CDI risk**, so choose the best IBD therapy
+- If symptoms persist **48–72 h** after starting CDI treatment → endoscopic evaluation for IBD activity **and exclude CMV**
+- **Loperamide** may be considered when inflammation/infection are improving but diarrhea persists
+- After **≥1 recurrence** → offer microbiome-based therapy: FDA-approved fecal microbiota live-jslm (RBL), fecal microbiota spores live-brpk (VOS), or unapproved FMT
+- **No probiotics** for primary or secondary prevention
+- Consider **oral vancomycin prophylaxis** as secondary prevention in those with prior CDI receiving systemic antibiotics
+
+> **Contradiction (surfaced):** [[acg-2021-cdiff]] lists vancomycin 125 mg QID (≥14 days) as IBD first-line, whereas the newer [[aga-2026-cdiff-ibd|AGA 2026 CPU]] prefers **fidaxomicin** for initial CDI in IBD. As the newer same-tier guideline, fidaxomicin-preferred is what this page asserts; the ACG vancomycin pathway remains acceptable when fidaxomicin is unavailable/cost-prohibitive.
+
 **Pregnancy/peripartum/lactation:**
 
 - Vancomycin first-line (key concept); metronidazole frequently fails in pregnancy (50% treatment change in one study), with concerns about adverse neonatal outcomes
@@ -232,3 +247,4 @@ Higher doses of vancomycin (>125 mg QID) are not recommended for severe CDI — 
 
 1. [[acg-2021-cdiff|ACG 2021: Prevention, Diagnosis, and Treatment of Clostridioides difficile Infections]]
 2. [[aga-2024-fmt|AGA Clinical Practice Guideline: Fecal Microbiota-Based Therapies for Select GI Diseases (2024)]]
+3. [[aga-2026-cdiff-ibd|AGA Clinical Practice Update on Management of Clostridioides difficile Infection in Inflammatory Bowel Disease: Expert Review (2026)]]

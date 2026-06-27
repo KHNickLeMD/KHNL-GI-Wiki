@@ -3,8 +3,8 @@ title: "Hemorrhoids"
 category: disease-script
 tags: [hemorrhoids, anorectal, rectal-bleeding, rubber-band-ligation, hemorrhoidectomy, colorectal]
 created: 2026-05-16
-updated: 2026-06-22
-sources: [acg-2021-anorectal-disorders, asge-2010-anorectal-disorders]
+updated: 2026-06-27
+sources: [acg-2021-anorectal-disorders, asge-2010-anorectal-disorders, aga-2026-hemorrhoids]
 ---
 
 ## Assessment
@@ -74,6 +74,8 @@ The diagnosis of symptomatic internal hemorrhoids requires exclusion of other so
 - Sitz baths: symptomatic relief
 - Avoid prolonged sitting on toilet; avoid straining
 - Discourage use of cell phone on toilet
+- Topical agents (anesthetics, witch hazel, corticosteroids, vasoactive agents): limited efficacy data; **topical steroids ≤2 weeks at a time** *(AGA 2026)*
+- **Anoscopy on every new patient before treatment** to confirm the diagnosis; counsel patients during informed consent about rare **pelvic sepsis** (present to ED if symptomatic) *(AGA 2026)*
 
 ### Office-Based Procedures (Grades I–III, Medical Therapy Failures)
 
@@ -107,6 +109,15 @@ The diagnosis of symptomatic internal hemorrhoids requires exclusion of other so
 
 **DGHAL/mucopexy:** alternative to hemorrhoidectomy for Grade III; Conditional/Very Low evidence.
 
+### Special Populations (AGA 2026)
+
+| Population | Approach |
+|-----------|----------|
+| Active [[crohns-disease\|Crohn's]] or [[ulcerative-colitis\|UC]] | **Defer hemorrhoid treatment until complete remission** |
+| Pregnancy | Hemorrhoids in up to ⅔ of women; conservative first (fiber, treat constipation, topical ointments); banding/IRC if symptoms persist postpartum or further pregnancies planned |
+| Cirrhosis / [[portal-hypertension\|portal hypertension]] | Carefully distinguish hemorrhoids from **rectal varices**; banding or IRC both acceptable; **IRC preferred over banding if significant coagulopathy** (platelets <50,000/µL or INR >2.0); portal hypertension itself does not change the approach |
+| Grade III failing banding or with external component | Offer **surgical consultation**; large isolated skin tags removable without hemorrhoidectomy |
+
 ---
 
 ## See Also
@@ -120,3 +131,4 @@ The diagnosis of symptomatic internal hemorrhoids requires exclusion of other so
 
 1. [[acg-2021-anorectal-disorders|ACG 2021 Clinical Guidelines: Management of Benign Anorectal Disorders]]
 2. [[asge-2010-anorectal-disorders|ASGE 2010: The Role of Endoscopy in Patients With Anorectal Disorders]]
+3. [[aga-2026-hemorrhoids|AGA Clinical Practice Update on Diagnosis and Treatment of Hemorrhoids: Expert Review (2026)]]

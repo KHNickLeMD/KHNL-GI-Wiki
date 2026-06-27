@@ -6,6 +6,142 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-06-27] ingest | 4 more AGA CPUs — FLIP esophageal, sclerosing mesenteritis, lifting agents, therapeutic endoscopy in IBD (scheduled ingest-and-lint, 2nd pass)
+
+**Scope:** User-requested second `ingest-and-lint` pass (same day). Ingested 4 additional uningested AGA CPUs from `raw/GI Guidelines/AGA/`. FLIP is an Expert Review with 10 BPA (verbatim); the other three are Commentaries (narrative, no formal BPA) — key clinical claims captured. Net-new/corroborating only; no overwrite of newer content.
+
+**Sources created:**
+- `[[aga-2025-flip-esophageal]]` — Incorporating FLIP Into Esophageal Practice (Gastroenterology 2025;169:726–736). 10 BPA verbatim.
+- `[[aga-2025-sclerosing-mesenteritis]]` — Sclerosing Mesenteritis (Clin Gastroenterol Hepatol 2025;23:902–907). Commentary.
+- `[[aga-2025-lifting-agents]]` — Endoscopic Lifting Agents (Clin Gastroenterol Hepatol 2025;23:1102–1108). Commentary.
+- `[[aga-2026-therapeutic-endoscopy-ibd]]` — Role of Therapeutic Endoscopy in IBD (Clin Gastroenterol Hepatol 2026;24:595–601). Commentary.
+
+**Pages created:**
+- `[[sclerosing-mesenteritis]]` — new ADDT disease script (`1-disease-scripts/other/`): CT signs (misty mesentery, fat ring sign, tumoral pseudocapsule), biopsy only for atypical/malignancy-concern features, presentation-based management (observe; prednisone 30–40 mg/day + tamoxifen 10 mg BID; thalidomide/cyclophosphamide/methotrexate alternatives; surgery non-curative).
+
+**Pages updated (net-new + sources/cross-links):**
+- `[[flip-panometry]]` → new "Indications & Use (AGA 2025)" subsection (EGD before FLIP; use when HRM/TBE inconclusive; normal EGJ opening high NPV; not for GERD; intraprocedural myotomy; EoE remodeling). Source added; `updated:` bumped.
+- `[[polypectomy-emr]]` → new "Submucosal Lifting Agents (AGA 2025)" subsection (cushion separates MP, contrast demarcation, saline acceptable, SSLs lift with any agent, ESD needs injection, dynamic injection); added `[[endoscopic-submucosal-dissection]]` See-Also link. Source added; `updated:` bumped.
+- `[[crohns-disease]]` → endoscopic stricture-dilation expanded with AGA 2026 therapeutic-endoscopy details (EBD 18–20 mm wire-guided CRE, no intralesional steroids, ≤5 cm predicts surgery-free survival; periprocedural drug holds; fistula drainage > closure). Source added; `## Sources` →9.
+
+**Lint (this pass):** index updated — 4 AGA source entries (reverse-chron in AGA subsection) + `[[sclerosing-mesenteritis]]` (Other disease scripts); per-page counts corrected (`crohns-disease` →9, `flip-panometry` →2, `polypectomy-emr` →5). Footer reconciled to live on-disk counts: **184 sources | 105 disease scripts | 19 diagnostic schemas | 2 general procedures | 19 advanced procedures | 15 meds | 0 anatomy | 33 concepts | 1 synthesis**. Whole-page `[[link]]` scan on all created/edited pages — all resolve by basename (broken candidate links rewritten to plain text or valid slugs: lymphoma/peritoneal carcinomatosis/corticosteroids/mesenteric-panniculitis/EGJOO).
+
+**Remaining for user triage (unchanged + carried):** `.DS_Store` removal still blocked on mounted volume. Still-uningested high-value AGA CPUs: Noncolorectal Cancer Screening/Vaccinations in IBD, Endoscopic Resection for Early CRC, Blood Tests for CRC Screening, GI Manifestations in hypermobile EDS. Uningested ASGE backlog persists. Persistent source-needed stubs: `[[microscopic-colitis]]`, `[[hiv-aids-related-diarrhea]]`. New stub `[[endoscopic-submucosal-dissection]]` is expandable from `[[asge-2023-esd]]` on a future pass.
+
+---
+
+## [2026-06-27] ingest | 4 AGA 2026 Clinical Practice Updates (C. difficile in IBD, HCC surveillance, gastric polyps, inpatient IBD) (scheduled ingest-and-lint)
+
+**Scope:** Automated scheduled `ingest-and-lint`. Ingested 4 high-value, gap-filling AGA 2026 CPUs from `raw/GI Guidelines/AGA/` (task cap = up to 4). All four are the newest same-tier sources on their topics; layered as net-new/corroborating content onto existing pages — no overwrite of newer content. Raw `AGA 2026 CPU Hemorrhoids (duplicate).pdf` and prior duplicates left un-ingested.
+
+**Sources created:**
+- `[[aga-2026-cdiff-ibd]]` — Management of C. difficile Infection in IBD (Gastroenterology 2026;171:184–192). 12 BPA (verbatim).
+- `[[aga-2026-hcc-surveillance]]` — Risk Stratification and Emerging Surveillance Strategies for HCC (Gastroenterology 2026;170:1606–1615). 8 BPA (verbatim) + Table 1 at-risk populations.
+- `[[aga-2026-gastric-polyps]]` — Management of Gastric Polyps (Clin Gastroenterol Hepatol 2026;24:893–905). 14 BPA (verbatim) + subtype/natural-history detail.
+- `[[aga-2026-inpatient-ibd]]` — Inpatient Management of Adults With IBD (Gastroenterology 2026;170:408–417). 13 BPA (verbatim).
+
+**Pages created:**
+- `[[hcc-surveillance]]` — **stub expanded** into a full concept framework (who to survey [Table 1], US+AFP modality/interval, harms, emerging biomarkers [GALAD; no MCD panels], risk scores [PAGE-B/REAL-B], prevention). Sourced to `[[aga-2026-hcc-surveillance]]` + `[[aasld-2023-hcc]]`.
+- `[[gastric-polyps]]` — new concept page (subtype table with background mucosa + malignant potential; evaluate polyp + field; H. pylori test/treat; resection; histology-keyed surveillance).
+- `[[endoscopic-submucosal-dissection]]` — stub created (warranted; resolves links from `[[gastric-polyps]]`; expandable from `[[asge-2023-esd]]`).
+
+**Pages updated (net-new content + sources/cross-links):**
+- `[[clostridioides-difficile]]` → IBD special-population block expanded with AGA 2026 guidance (fidaxomicin-preferred initial CDI; multistep toxin testing; treat end-ileostomy/pouch; CMV exclusion at 48–72h; continue immunosuppression, no drug-class differential risk; loperamide adjunct; microbiome therapy [RBL/VOS/FMT] after ≥1 recurrence; OVP secondary prophylaxis). Source added; `updated:` bumped.
+- `[[hepatocellular-carcinoma]]` → emerging-biomarker caveat bullet (GALAD/MCD panels not for surveillance; PAGE-B/REAL-B for non-cirrhotic HBV) + link to `[[hcc-surveillance]]`. Source added; `updated:` bumped.
+- `[[inflammatory-bowel-disease]]` → new "Inpatient Management of Hospitalized IBD" framework (admission criteria, workup, VTE prophylaxis, discharge). Source + `## Sources` section added.
+- `[[ulcerative-colitis]]` → ASUC practice points (colectomy counseling + early surgical consult; JAK-inhibitor inpatient interest; accelerated-vs-standard infliximab equivalence). Source added; `updated:` bumped.
+- `[[crohns-disease]]` → inpatient CD complications (obstruction, intra-abdominal abscess, perianal) + VTE prophylaxis. Source added; `## Sources` renumbered; `updated:` bumped.
+
+**Constraint honored:** "do not overwrite newer with older / only add net-new." Contradiction surfaced: AGA 2026 prefers **fidaxomicin** for initial CDI in IBD vs vancomycin-first in older `[[acg-2021-cdiff]]` — newer same-tier guideline wins the page assertion; flagged inline on `[[clostridioides-difficile]]` and on the source page.
+
+---
+
+## [2026-06-27] lint | Index reconciliation + stalest-page validation + gastric-cluster connections (scheduled ingest-and-lint)
+
+**Index (`index.md`):** added 4 AGA 2026 source entries (top of AGA subsection) + `[[gastric-polyps]]` (Concepts) and `[[endoscopic-submucosal-dissection]]` (Advanced Procedures). De-stubbed `[[hcc-surveillance]]` and `[[inflammatory-bowel-disease]]` descriptions. Corrected per-page source counts on touched pages (`clostridioides-difficile` →3, `hepatocellular-carcinoma` →7, `ulcerative-colitis` →8, `crohns-disease` →8). Footer reconciled to live on-disk counts: **180 sources | 104 disease scripts | 19 diagnostic schemas | 2 general procedures | 19 advanced procedures | 15 meds | 0 anatomy | 33 concepts | 1 synthesis**.
+
+**Connections built:** gastric cluster cross-linked — `[[gastric-polyps]]` added to See Also of `[[gastric-intestinal-metaplasia]]`, `[[atrophic-gastritis]]`, `[[gastric-premalignant-conditions]]`; `[[hcc-surveillance]]` ↔ `[[hepatocellular-carcinoma]]`; inpatient IBD framework links `[[inflammatory-bowel-disease]]` ↔ `[[ulcerative-colitis]]`/`[[crohns-disease]]`/`[[clostridioides-difficile]]`.
+
+**Stalest-page validation (2 oldest, both `updated: 2026-05-15`):**
+- `[[atrophic-gastritis]]` — compliant (ADDT order, inline links, See Also/Sources format); fixed double blank line under `## See Also`; added `[[gastric-polyps]]` link. `updated:` bumped.
+- `[[gastroparesis]]` — compliant (ADDT order); fixed double blank line under `## See Also`. `updated:` bumped.
+
+**Link integrity:** whole-page `[[link]]` scan on all created/edited pages — all resolve by basename (apparent misses were `![[*.png]]` image embeds resolved from `raw/assets/`, not page links).
+
+**Remaining for user triage:**
+- **`.DS_Store` removal blocked** — artifacts remain under repo; `rm` returns "Operation not permitted" on the mounted volume. Delete locally.
+- **Many AGA CPU PDFs still uningested** in `raw/GI Guidelines/AGA/` (≤4/pass): Therapeutic Endoscopy in IBD, Noncolorectal Cancer Screening/Vaccinations in IBD, Endoscopic Resection for Early CRC, Endoscopic Lifting Agents, Blood Tests for CRC Screening, Sclerosing Mesenteritis, FLIP in Esophageal Practice, GI Manifestations in hypermobile EDS. Several uningested **ASGE** files also exist (e.g., 2010 PUD, 2011 EUS mediastinal adenopathy, 2013 biliary neoplasia, 2015 antibiotic prophylaxis, 2016 antithrombotics) — pick up future passes.
+- **Pre-existing index/page source-count drift** noted on some IBD pages (frontmatter vs `## Sources` list) — touched pages reconciled this pass.
+- Persistent source-needed stubs (unchanged): `[[microscopic-colitis]]`, `[[hiv-aids-related-diarrhea]]`.
+
+---
+
+## [2026-06-27] ingest | 4 AGA Clinical Practice Updates (ascites, hemorrhoids, refractory constipation, hepatitis delta) (scheduled ingest-and-lint)
+
+**Scope:** Automated scheduled `ingest-and-lint`. The `raw/GI Guidelines/AGA/` folder gained a batch of descriptively-named AGA Clinical Practice Update PDFs not yet mapped to a `wiki/sources/` page (last pass counted 173 raw files; now 218). Ingested 4 high-value, gap-filling CPUs (task cap = up to 4). Only net-new/corroborating content added to existing pages; newer same-tier content not overwritten.
+
+**Sources created:**
+- `[[aga-2025-ascites-cirrhosis]]` — AGA CPU on Ascites, Volume Overload, and Hyponatremia in Cirrhosis (Gastroenterology 2025;169:1547–1557). 13 Best Practice Advice statements (verbatim).
+- `[[aga-2026-hemorrhoids]]` — AGA CPU on Diagnosis and Treatment of Hemorrhoids (Clin Gastroenterol Hepatol 2026;24:1773–1781). 11 BPA (verbatim). *Note: raw `PIIS154235652600282X.pdf` is a duplicate of this article — not separately ingested.*
+- `[[aga-2026-refractory-constipation]]` — AGA CPU on Evaluation and Management of Refractory Constipation (Clin Gastroenterol Hepatol 2026;24:296–305). 14 BPA (verbatim).
+- `[[aga-2025-hepatitis-delta]]` — AGA CPU on Management of Hepatitis Delta (Gastroenterology 2025;169:1063–1069). Commentary (narrative; no formal BPA) — full key clinical claims captured.
+
+**Pages created:**
+- `[[hepatitis-d]]` — new ADDT disease script (HPB folder): HDV requires HBV; universal anti-HDV screening → reflex HDV RNA (Mermaid testing cascade); VCTE/FIB-4 staging + HCC surveillance; peg-IFN-α (only US therapy, ~50% relapse) + nucleos(t)ide analogue if HBV DNA elevated; bulevirtide (EMA-approved, US expanded-access NCT06780579) and pipeline (BJT-778, tobevibart+elebsiran, lonafarnib).
+
+**Pages updated (net-new content + sources/cross-links):**
+- `[[ascites]]` → new Hepatic Hydrothorax and Inpatient Volume Overload / Refractory Anasarca subsections; expanded hyponatremia workup + escalation ladder (vasoconstrictors, hypertonic saline, vaptans, RRT). Source added; See Also expanded.
+- `[[hemorrhoids]]` → Special Populations table (active IBD defer to remission; pregnancy conservative; cirrhosis distinguish from rectal varices, IRC preferred if platelets <50k or INR >2.0); topical-steroid ≤2-wk cap; pre-treatment anoscopy + pelvic-sepsis informed consent. Source added.
+- `[[chronic-idiopathic-constipation]]` → "Refractory/Slow-Transit" thin bullet expanded into a full Refractory Constipation pathway (ARM+BET/biofeedback before labeling; secondary-cause exclusion; transit testing off and on max laxatives; defecography; OTC/FDA + off-label pyridostigmine; non-pharm adjuncts; surgical algorithm with diverting loop ileostomy as diagnostic trial). Source added.
+- `[[chronic-hepatitis-b]]` → universal anti-HDV screening note + `[[hepatitis-d]]` link (co-infection screening line and See Also).
+
+**Constraint honored:** AGA CPUs (2025/2026) are the newest same-tier sources; layered onto existing AASLD/ACG/ASGE pages as additions, not overwrites. Contradiction surfaced: AGA 2025 Hepatitis Delta suggests **universal** anti-HDV screening of all HBV patients (vs prior AASLD risk-based testing) — flagged on `[[hepatitis-d]]` and source page.
+
+---
+
+## [2026-06-27] lint | Index reconciliation + stalest-page validation + connections (scheduled ingest-and-lint)
+
+**Index (`index.md`):** added 4 AGA source entries (reverse-chron in AGA subsection) and the `[[hepatitis-d]]` disease-script entry; corrected stale per-page source counts on touched pages (`chronic-idiopathic-constipation` →4, `hemorrhoids` →3, `ascites` →2). Footer reconciled to live on-disk counts: **176 sources | 104 disease scripts | 19 diagnostic schemas | 2 general procedures | 18 advanced procedures | 15 meds | 0 anatomy | 32 concepts | 1 synthesis**.
+
+**Stalest-page validation (2 oldest, both `updated: 2026-05-15`):**
+- `[[spontaneous-bacterial-peritonitis]]` — compliant (ADDT, inline links, See Also/Sources format); added missing `## Contents` ToC (long page) and fixed double blank line under `## See Also`. `updated:` bumped.
+- `[[aki-in-cirrhosis]]` — compliant and well-sourced; added missing `## Contents` ToC and fixed double blank under `## See Also`. `updated:` bumped.
+
+**Connections built:** ascites ↔ SBP ↔ AKI-in-cirrhosis cluster cross-linked bidirectionally; `[[hepatitis-d]]` ↔ `[[chronic-hepatitis-b]]`; ascites See Also expanded (`[[portal-hypertension]]`, `[[hepatic-encephalopathy]]`, `[[liver-transplantation]]`).
+
+**Link integrity:** whole-page `[[link]]` scan on all created/edited pages — all resolve by basename (apparent misses were escaped table-pipe aliases `[[slug\|Alias]]`, same artifact noted previously).
+
+**Remaining for user triage:**
+- **`.DS_Store` removal blocked** — 3 `.DS_Store` artifacts remain (`wiki/`, plus others under repo); `rm` returns "Operation not permitted" on the mounted volume. Delete locally.
+- **Many AGA CPU PDFs still uningested** in `raw/GI Guidelines/AGA/` (folder grew ~45 files). High-value remaining candidates: Therapeutic Endoscopy in IBD, Inpatient Management of IBD, C. diff in IBD, Noncolorectal Cancer Screening/Vaccinations in IBD, Gastric Polyps, Endoscopic Resection for Early CRC, Endoscopic Lifting Agents, Blood Tests for CRC Screening, Risk Stratification/Surveillance for HCC, Sclerosing Mesenteritis, FLIP in Esophageal Practice, GI Manifestations in hypermobile EDS. Pick up ≤4/pass next runs.
+- Persistent source-needed stubs (unchanged): `[[microscopic-colitis]]`, `[[hiv-aids-related-diarrhea]]`.
+
+---
+
+## [2026-06-26] lint | Index Sources full reconciliation (133→172) + stub expansion + stalest-page validation (scheduled ingest-and-lint)
+
+**Ingest:** None. All 173 raw guideline files in `raw/GI Guidelines/` map to an existing `wiki/sources/` page — no uningested guidelines this pass. Verified that apparent mismatches are abbreviation/year artifacts, not gaps: `ACG 2018 IBS.pdf` is the same Lacy guideline as `[[acg-2020-ibs]]` (PDF first page confirms "first-ever ACG clinical guideline … GRADE"); `ASGE 2025 GERD.pdf` = `[[asge-2024-gerd]]`; AGA MSTF files (colonoscopy follow-up, malignant polyps, CRC start-stop age) are co-publications of the already-ingested USMSTF versions.
+
+**Index Sources reconciliation (major):** `index.md` Sources section listed only **133 of 172** source pages; added the **39 missing entries** in their society subsections (chronological): **AASLD** ×8 (`[[aasld-2024-nilda-imaging]]`, `[[aasld-2024-nilda-portal-htn]]`, `[[aasld-2024-tips]]`, `[[aasld-2022-dili]]`, `[[aasld-2022-palliative-cirrhosis]]`, `[[aasld-2021-malnutrition-cirrhosis]]`, `[[aasld-2021-reproductive-liver]]`, `[[aasld-2021-vascular-pvt]]`); **ACG** ×2 (`[[acg-2026-hepatic-encephalopathy]]`, `[[acg-2025-perioperative-cirrhosis]]`); **AGA** ×19 (AGA subsection rebuilt in reverse-chron — 2025 crohns-pharm/gastroparesis/hbv-reactivation/barretts-surveillance/cade-colonoscopy, 2024 uc-pharm/pouchitis/fmt/barretts-eet, 2023 biomarkers-cd/biomarkers-uc, 2022 hcc-systemic/ibs-c/ibs-d/obesity-pharm/hamartomatous-polyposis, 2021 cirrhosis-coagulation, 2020 eoe/ida); **ASGE** ×10 (`[[asge-2025-gastrostomy-tubes]]`, `[[asge-2024-therapeutic-eus-biliary]]`, `[[asge-2024-solid-pancreatic-masses]]`, `[[asge-2024-chronic-pancreatitis-endoscopy]]`, `[[asge-2023-esd]]`, `[[asge-2023-post-ercp-pancreatitis]]`, `[[asge-2021-cholangitis]]`, `[[asge-2021-malignant-hilar-obstruction]]`, `[[asge-2020-achalasia]]`, `[[asge-2019-choledocholithiasis]]`). Index Sources section now lists **172/172**.
+
+**Stub expanded:** `[[choledocholithiasis]]` — built into a full ADDT disease script from the already-ingested `[[asge-2019-choledocholithiasis]]` (risk-stratification table: high → ERCP, intermediate → EUS/MRCP, low → cholecystectomy + IOC; EUS≈MRCP; large-balloon dilation after sphincterotomy for large/difficult stones; early ERCP only for cholangitis/persistent obstruction in gallstone pancreatitis). Added Contents ToC, inline links, `## See Also` + `## Sources`; frontmatter `sources:`/`updated:` set; index entry de-stubbed (now "1 source").
+
+**Stalest-page validation (2 pages):**
+- `[[flip-panometry]]` (was oldest non-source, `updated: 2026-05-15`) — compliant; fixed double blank line under `## See Also` and added `[[high-resolution-manometry]]`, `[[ineffective-esophageal-motility]]` (both linked inline). `updated:` bumped.
+- `[[anticoagulation-gi-bleeding]]` (`updated: 2026-05-15`) — compliant and well-sourced; added the missing `## Contents` ToC (long page rendered without one). `updated:` bumped.
+
+**Hygiene / integrity:**
+- Fixed mis-categorization: `[[hiv-aids-related-diarrhea]]` frontmatter `category: synthesis` → `diagnostic-schema` (it is a diagnostic schema, lives in `2-diagnostic-schemas/`, and was inflating the synthesis count).
+- Footer reconciled to live on-disk counts: **172 sources | 103 disease scripts | 19 diagnostic schemas | 2 general procedures | 18 advanced procedures | 15 meds | 0 anatomy | 32 concepts | 1 synthesis**.
+- New links verified to resolve by basename (no broken links introduced).
+
+**Remaining for user triage:**
+- **`.DS_Store` removal blocked** — 8 `.DS_Store` artifacts remain under the repo (root, `KHNL-GI-Wiki/`, `wiki/`, `wiki/1-disease-scripts/…`, `raw/…`); `rm` returns "Operation not permitted" on the mounted volume this pass. Delete locally on the user's machine, or they will be re-flagged.
+- Persistent source-needed stubs (cannot expand without ingesting a new primary source): `[[microscopic-colitis]]`, `[[hiv-aids-related-diarrhea]]`.
+- Next-stalest batch for a future pass (`updated: 2026-05-15`): `[[disorders-of-gut-brain-interaction]]`, `[[endoscopic-oncology]]`, `[[hrm-antireflux-surgery]]`, `[[ibd-preventive-care]]`, `[[ascites]]`, `[[biliary-stricture]]`.
+
+---
+
 ## [2026-06-23] update | Remove mislabeled HCC PDF + restructure index Sources to mirror raw folders (user request)
 
 **File removed:** `raw/GI Guidelines/AASLD/AASLD 2011 HCC Management.pdf` — was a mislabeled duplicate of the AASLD 2023 HCC Guidance (already ingested as `[[aasld-2023-hcc]]`). Deleted per user instruction; no source page was ever created for it.

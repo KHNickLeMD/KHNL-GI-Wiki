@@ -3,8 +3,8 @@ title: "Chronic Idiopathic Constipation"
 category: disease-script
 tags: [constipation, cic, laxatives, secretagogues, peg, linaclotide, colorectal, functional]
 created: 2026-05-16
-updated: 2026-06-22
-sources: [aga-acg-2023-constipation, acg-2021-anorectal-disorders, asge-2014-constipation]
+updated: 2026-06-27
+sources: [aga-acg-2023-constipation, acg-2021-anorectal-disorders, asge-2014-constipation, aga-2026-refractory-constipation]
 ---
 
 ## Assessment
@@ -139,9 +139,34 @@ Assess impact on quality of life using validated tools (PAC-QoL, PAC-SYM) and st
 
 If defecation disorder is identified (abnormal ARM + BET), **[[biofeedback-therapy|biofeedback therapy]]** is first-line treatment (Strong/Moderate). Secretagogues and osmotic laxatives have limited efficacy in pure outlet dysfunction. See [[defecation-disorders]].
 
-### Refractory/Slow-Transit Constipation
+### Refractory Constipation (AGA 2026)
 
-- Colectomy with ileorectal anastomosis: last resort for refractory slow-transit constipation; patient selection critical; exclude outlet dysfunction and upper GI dysmotility first
+**Definition:** infrequent and/or unsatisfactory bowel habits — with or without abdominal pain — despite an **adequate trial** of lifestyle, dietary, medical, and (when indicated) pelvic floor [[biofeedback-therapy|biofeedback]] therapy, in adults meeting criteria for CC or constipation-predominant IBS.
+
+**Before labeling a patient "refractory":**
+
+- Evaluate most patients with **[[anorectal-manometry|ARM]] + BET** and complete a **biofeedback** course when a defecatory disorder is indicated.
+- Thoroughly exclude **secondary causes** (medications, disordered eating, comorbid neurologic disease).
+- Set **realistic expectations** about the typical course.
+
+**Confirming the diagnosis:**
+
+- **Colonic transit testing off treatment** to document slow transit, **and ideally on a maximal laxative regimen** to document refractoriness.
+- **Consider defecography.**
+
+**Escalation of therapy:**
+
+- Trial **all** standard OTC and FDA-approved agents — as monotherapy and **in combination**.
+- **Off-label** agents (e.g. **pyridostigmine**) when OTC/FDA-approved agents fail.
+- Non-pharmacologic adjuncts: **transanal irrigation** (neurogenic bowel dysfunction), **vibrating capsule**, or **electroacupuncture**.
+
+**Surgery (last resort):**
+
+- Only after **confirming slow-transit constipation and excluding pelvic floor dysfunction**.
+- Preoperative work-up: **regional gut transit testing** + **psychological evaluation**.
+- **Colectomy with ileorectal anastomosis** only in patients without ongoing defecatory disorder.
+- Relative contraindications: severe untreated psychiatric disease (incl. active eating disorders, unresolved sexual trauma), bloating/abdominal-pain–predominant symptoms, reversible secondary causes, significant upper-gut dysmotility.
+- A **diverting loop ileostomy** can serve as a reversible **diagnostic trial** of surgery when efficacy or contraindications are uncertain.
 
 ---
 
@@ -159,3 +184,4 @@ If defecation disorder is identified (abnormal ARM + BET), **[[biofeedback-thera
 1. [[aga-acg-2023-constipation|AGA-ACG 2023 Pharmacologic Management of Chronic Idiopathic Constipation]]
 2. [[acg-2021-anorectal-disorders|ACG 2021 Clinical Guidelines: Management of Benign Anorectal Disorders]]
 3. [[asge-2014-constipation|ASGE 2014: The Role of Endoscopy in the Management of Constipation]]
+4. [[aga-2026-refractory-constipation|AGA Clinical Practice Update on Evaluation and Management of Refractory Constipation: Expert Review (2026)]]

@@ -3,8 +3,8 @@ title: "FLIP Panometry"
 category: advanced-procedure
 tags: [FLIP, panometry, esophageal-motility, EGJ, functional-lumen-imaging, achalasia, EGJOO, foregut]
 created: 2026-05-15
-updated: 2026-06-26
-sources: [dallas-2025-flip-panometry]
+updated: 2026-06-27
+sources: [dallas-2025-flip-panometry, aga-2025-flip-esophageal]
 ---
 
 ## Overview
@@ -128,6 +128,15 @@ Six-category matrix combining EGJ Opening × Contractile Response:
 4. **Inconclusive EGJ Opening** — report numerically; correlate with symptoms and TBE; consider HRM
 5. **Post-ARS Obstruction with Normal Contractility** — consider tight/twisted wrap before treating as primary motor disorder
 
+### Indications & Use ([[aga-2025-flip-esophageal|AGA 2025 CPU]])
+
+- Perform a **high-quality upper endoscopy immediately before** FLIP; consider FLIP when alternate tests (HRM/TBE) are **inconclusive** in obstructive symptoms, or at index endoscopy when expertise is available.
+- Standard endoscopy sedation (propofol/fentanyl/midazolam) does **not** meaningfully alter FLIP findings.
+- If EGD strongly supports achalasia, FLIP may **confirm** it; if EGD does not, abnormal EGJ opening should **prompt further testing**.
+- **Do not use FLIP to diagnose GERD** or decide on antireflux intervention.
+- Consider **intraprocedural FLIP during myotomy** (POEM/LHM) to gauge LES-disruption adequacy, and for **persisting obstructive symptoms after achalasia treatment**.
+- Useful in **EoE** when the mechanism of persistent dysphagia is unclear on endoscopy/histology (esophageal remodeling). Contraindicated with actively bleeding varices.
+
 ---
 
 ## See Also
@@ -139,3 +148,4 @@ Six-category matrix combining EGJ Opening × Contractile Response:
 ## Sources
 
 1. [[dallas-2025-flip-panometry|Dallas Consensus on the Classification of Esophageal Motility Abnormalities: FLIP Panometry (v2.0)]]
+2. [[aga-2025-flip-esophageal|AGA Clinical Practice Update on Incorporating Functional Lumen Imaging Probe Into Esophageal Clinical Practice: Expert Review (2025)]]

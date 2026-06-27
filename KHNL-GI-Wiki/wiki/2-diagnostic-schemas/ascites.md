@@ -3,8 +3,8 @@ title: "Ascites"
 category: diagnostic-schema
 tags: [ascites, cirrhosis, saag, paracentesis, diuretics, tips]
 created: 2026-05-15
-updated: 2026-05-15
-sources: [aasld-2021-ascites-sbp-hrs]
+updated: 2026-06-27
+sources: [aasld-2021-ascites-sbp-hrs, aga-2025-ascites-cirrhosis]
 ---
 
 # Ascites
@@ -173,6 +173,21 @@ SAAG = serum albumin − ascitic fluid albumin (simultaneous samples)
 - Caution (not absolute contraindication) in RA with: SBP <90 mmHg, Na <130 mEq/L, or creatinine >1.5 mg/dL
 - May be reintroduced if hemodynamic parameters improve
 
+### Hepatic Hydrothorax (AGA 2025)
+
+- Transudative pleural effusion (usually right-sided) from ascitic fluid migrating across diaphragmatic defects; managed like ascites (sodium restriction + low-dose diuretics).
+- **Dyspnea and/or hypoxemia → therapeutic thoracentesis** — for symptom relief and re-expansion of the underlying lung.
+- **Refractory hepatic hydrothorax:** serial therapeutic thoracentesis with frequency guided by recurrence; consider [[liver-transplantation|LT]] evaluation regardless of MELD, and TIPS in well-selected candidates.
+- Chest tubes are generally avoided (high morbidity/protein-and-fluid loss).
+
+### Inpatient Volume Overload / Refractory Anasarca (AGA 2025)
+
+- **IV loop diuretics** (furosemide or bumetanide) by bolus (2–3×/day) or continuous infusion; escalate cautiously every 2–3 days with monitoring of volume status, kidney function, daily weights, and symptoms.
+- **Refractory anasarca — co-manage with nephrology:**
+  - Contraction alkalosis → add **acetazolamide**
+  - Second agent with alternate mechanism → **thiazide-type (e.g. metolazone)**
+  - Persistent failure → **ultrafiltration**
+
 ---
 
 ## Hyponatremia in Cirrhotic Ascites
@@ -186,6 +201,10 @@ SAAG = serum albumin − ascitic fluid albumin (simultaneous samples)
 - Vaptans: short-term only (≤30 days); FDA black box for hepatotoxicity
 - Hypertonic saline: reserved for symptomatic/severe or imminent LT; risk of ODS
 - Correction rate goal: 4–6 mEq/L per 24 hours; max 8 mEq/L per 24 hours (ODS prevention)
+
+**Workup of hyponatremia in cirrhosis (AGA 2025):** dietary + medication history (diuretics, bowel regimen), electrolytes/kidney function, GI-bleeding assessment, infectious workup including diagnostic paracentesis, and secondary causes (thyroid, adrenal).
+
+**Escalation for recurrent/refractory hyponatremia (AGA 2025):** multidisciplinary (include LT team) — options include oral or IV **vasoconstrictor therapy** (e.g. midodrine), hypertonic saline, vaptans, or **renal replacement therapy**. Outpatient asymptomatic hypervolemic hyponatremia: sodium + water restriction (1–1.5 L/day), modify diuretics/laxatives, monitor electrolytes.
 
 ---
 
@@ -206,10 +225,11 @@ SAAG = serum albumin − ascitic fluid albumin (simultaneous samples)
 
 ## See Also
 
-[[spontaneous-bacterial-peritonitis]], [[aki-in-cirrhosis]], [[alcohol-associated-liver-disease]], [[nutrition-in-liver-disease]]
+[[spontaneous-bacterial-peritonitis]], [[aki-in-cirrhosis]], [[portal-hypertension]], [[hepatic-encephalopathy]], [[liver-transplantation]], [[alcohol-associated-liver-disease]], [[nutrition-in-liver-disease]]
 
 ---
 
 ## Sources
 
 1. [[aasld-2021-ascites-sbp-hrs|AASLD 2021: Diagnosis, Evaluation, and Management of Ascites, SBP, and HRS in Cirrhosis]]
+2. [[aga-2025-ascites-cirrhosis|AGA Clinical Practice Update on the Management of Ascites, Volume Overload, and Hyponatremia in Cirrhosis: Expert Review (2025)]]

@@ -211,8 +211,7 @@ Gastric adenocarcinoma
 
 ## See Also
 
-
-[[helicobacter-pylori-infection]], [[atrophic-gastritis]], [[gastric-intestinal-metaplasia]], [[gastric-adenocarcinoma]], [[upper-endoscopy]]
+[[helicobacter-pylori-infection]], [[atrophic-gastritis]], [[gastric-intestinal-metaplasia]], [[gastric-polyps]], [[gastric-adenocarcinoma]], [[upper-endoscopy]]
 
 ---
 

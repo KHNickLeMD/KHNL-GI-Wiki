@@ -20,7 +20,7 @@ CHB is defined as HBsAg-positive for >6 months. Screen all adults ≥18 years at
 - ALT (use sex-specific ULN: M <35 U/L, F <25 U/L)
 - Fibrosis assessment (elastography preferred over FIB-4; elastography cutoff ≥7 kPa for F2, ≥8 kPa sensitive for F3/F4; FIB-4 >1.45 sensitive for advanced fibrosis)
 - [[liver-biopsy|Liver biopsy]]: infrequently used; most accurate for inflammation grade
-- Screen for co-infections: anti-HDV, [[hepatitis-c|HCV]] RNA, HIV
+- Screen for co-infections: **anti-HDV in all HBV patients** (universal HDV screening — reflex HDV RNA if positive; see [[hepatitis-d]]), [[hepatitis-c|HCV]] RNA, HIV
 
 **ALT upper limits of normal (2025 AASLD):**
 
@@ -212,7 +212,7 @@ Goal: HBV DNA <lower limit of quantification. HBV not transmitted by casual cont
 ## See Also
 
 
-[[hepatitis-c]], [[hepatocellular-carcinoma]], [[hcc-surveillance]], [[portal-hypertension]], [[acute-on-chronic-liver-failure]], [[liver-transplantation]], [[aki-in-cirrhosis]], [[liver-disease-in-pregnancy]], [[autoimmune-hepatitis]], [[drug-induced-liver-injury]], [[alcohol-associated-liver-disease]], [[nafld-masld]], [[wilson-disease]], [[direct-acting-antivirals]]
+[[hepatitis-d]], [[hepatitis-c]], [[hepatocellular-carcinoma]], [[hcc-surveillance]], [[portal-hypertension]], [[acute-on-chronic-liver-failure]], [[liver-transplantation]], [[aki-in-cirrhosis]], [[liver-disease-in-pregnancy]], [[autoimmune-hepatitis]], [[drug-induced-liver-injury]], [[alcohol-associated-liver-disease]], [[nafld-masld]], [[wilson-disease]], [[direct-acting-antivirals]]
 
 ---
 

@@ -74,6 +74,24 @@ Governs **what goes on a page** — the substance. For **how it's formatted**, s
 - **No outside / internet information without asking first.** If a needed source isn't ingested, stop and ask the user rather than filling the gap from general knowledge.
 - See `## Medical Standards` for citation and evidence-grading rules.
 
+### Source priority — resolving contradictions
+When two ingested sources disagree on a clinical claim, the **higher-priority source's content wins** the page (it is what the page asserts). **Always still surface the contradiction** — flag it in the page's `## Contradictions / Open Questions` (source pages), inline where clinically relevant, and in the lint report/log — but the page's primary recommendation follows the priority order below.
+
+**Priority tiers (top trumps lower):**
+
+1. **Guidelines** (society guidelines, clinical practice updates, consensus statements — e.g. ACG, AGA, AASLD, ASGE, NCCN, SAGES, multi-society)
+2. **RCTs** (and other primary research)
+3. **Lectures / Chalk Talks** (lecture transcripts, chalk-talk notes)
+
+**Within a single tier, newer trumps older — by *publication date*, not by upload or ingest date.** Use the source's actual published date (the year in its citation), never when the file was added to `raw/` or when it was ingested. Example: a 2018 guideline does **not** override a 2025 guideline even if the 2018 PDF was uploaded later.
+
+**Lower-priority and older sources still contribute** net-new, non-conflicting information (fill gaps, add corroborating detail) — they just never **overwrite** a higher-priority or newer source's claim. This is the existing "only add information not already present; do not overwrite newer guidelines with older information" rule, now generalized across source types.
+
+### No patient-specific information
+- **Lectures and chalk talks may contain details about specific patients** (case presentations, individual histories, identifiers). **Never add any patient-specific information to the wiki.**
+- Extract only the **generalizable clinical teaching** (the concept, algorithm, threshold, or rule the case illustrates) — strip all individual case facts, demographics, dates, locations, and any identifiers.
+- If a teaching point cannot be stated without the specific patient's details, leave it out.
+
 ### One home per fact — no duplication
 - **Within a page:** never state the same fact twice.
 - **Across pages:** each algorithm, table, or figure has **one home page**; link to it from everywhere else instead of copying it. E.g. the Chicago Classification v4.0 algorithm lives only on `[[chicago-classification-v4]]` and the `[[dysphagia]]` page links to it rather than reproducing it. Avoids bloat and keeps content in sync.
@@ -384,6 +402,8 @@ Rules:
 - Cite specific sources for all clinical claims using `[[source-slug]]`
 - Flag when evidence quality is low (expert opinion, small case series)
 - Note when guidelines differ between ACG, AGA, ECCO, BSG
+- **When sources conflict, follow the priority order** in Content Guide → *Source priority — resolving contradictions* (Guidelines > RCTs > Lectures/Chalk Talks; within a tier, newer publication date wins). Always surface the contradiction even though the higher-priority source's claim is what the page asserts.
+- **Never add patient-specific information** from chalk talks/lectures (Content Guide → *No patient-specific information*).
 - Include dosing and monitoring only when sourced
 - Flag off-label use explicitly
 - When in doubt, note uncertainty rather than asserting

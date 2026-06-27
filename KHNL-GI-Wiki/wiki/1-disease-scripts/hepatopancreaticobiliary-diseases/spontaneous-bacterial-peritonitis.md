@@ -3,13 +3,24 @@ title: "Spontaneous Bacterial Peritonitis"
 category: disease-script
 tags: [sbp, ascites, cirrhosis, peritonitis, cefotaxime, albumin]
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-06-27
 sources: [aasld-2021-ascites-sbp-hrs]
 ---
 
 # Spontaneous Bacterial Peritonitis (SBP)
 
 SBP is an infection of [[ascites|ascitic fluid]] in the absence of an obvious intra-abdominal source (i.e., no visceral perforation, abscess, or surgical peritonitis). It occurs almost exclusively in cirrhotic patients with [[portal-hypertension|portal hypertension]] and arises from bacterial translocation across a compromised gut barrier combined with impaired peritoneal host defenses.
+
+---
+
+## Contents
+- [[#Assessment]]
+  - [[#Establishing the Diagnosis]]
+  - [[#Severity Assessment]]
+- [[#Differential Diagnosis]]
+- [[#Diagnostics]]
+- [[#Therapeutics]]
+- [[#SBP Prophylaxis]]
 
 ---
 
@@ -191,7 +202,6 @@ Patients with prior SBP have ~68% 1-year recurrence rate without prophylaxis.
 ---
 
 ## See Also
-
 
 [[ascites]], [[aki-in-cirrhosis]], [[alcohol-associated-liver-disease]], [[chronic-hepatitis-b]], [[portal-hypertension]], [[variceal-upper-gi-bleeding]], [[acute-on-chronic-liver-failure]], [[liver-transplantation]], [[rifaximin]], [[antibiotic-prophylaxis-cirrhosis]]
 

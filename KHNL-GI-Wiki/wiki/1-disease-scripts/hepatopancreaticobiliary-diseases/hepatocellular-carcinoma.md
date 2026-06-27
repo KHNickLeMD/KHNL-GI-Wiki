@@ -3,8 +3,8 @@ title: "Hepatocellular Carcinoma"
 category: disease-script
 tags: [hcc, hepatocellular, liver, cancer, hpb, surveillance, cirrhosis, hbv, adjuvant, immunotherapy, liver-transplant, milan-criteria, afp, downstaging, mtor-inhibitor, sirolimus, everolimus, bclc, sorafenib, lenvatinib, atezolizumab, bevacizumab, tace, tare, ablation, resection, li-rads, locoregional]
 created: 2026-05-16
-updated: 2026-06-18
-sources: ["[[aasld-2023-hcc]]", "[[aasld-2025-hcc-critical-update]]", "[[aasld-ast-2025-liver-transplant-candidate-evaluation]]", "[[aasld-ast-2025-liver-transplant-graft-complications]]", "[[aga-2022-hcc-systemic]]", "[[nccn-2026-hcc]]"]
+updated: 2026-06-27
+sources: ["[[aasld-2023-hcc]]", "[[aasld-2025-hcc-critical-update]]", "[[aasld-ast-2025-liver-transplant-candidate-evaluation]]", "[[aasld-ast-2025-liver-transplant-graft-complications]]", "[[aga-2022-hcc-systemic]]", "[[nccn-2026-hcc]]", "[[aga-2026-hcc-surveillance]]"]
 ---
 
 ## Assessment
@@ -156,6 +156,7 @@ If no lesion found but AFP significantly elevated (≥200 ng/mL) without explana
 - **GALAD score** (Gender, Age, AFP-L3%, AFP, DCP): sensitivity 54–72%, specificity 90%; Phase 3 HEDS study validation data available; not yet recommended for routine practice.
 - **Liquid biopsy / ctDNA:** Investigational; insufficient data to recommend for routine clinical use.
 - **AFP alone or liquid biopsy are NOT recommended for HCC diagnosis** (Level 3, Weak Recommendation). [[aasld-2023-hcc]]
+- **Emerging-biomarker caveats ([[aga-2026-hcc-surveillance|AGA 2026]]):** GALAD and other novel blood/radiologic biomarkers are commercially available but evidence is insufficient to replace guideline tests; **multicancer detection (MCD) blood panels should NOT be used** for HCC screening/surveillance. Among **non-cirrhotic chronic HBV**, **PAGE-B and REAL-B** scores stratify future HCC risk (PAGE-B ≥10 = sufficient risk to survey). Full framework: [[hcc-surveillance]].
 
 ---
 
@@ -479,3 +480,4 @@ Advance care planning (ACP) should be offered to all patients receiving palliati
 4. [[aasld-ast-2025-liver-transplant-graft-complications|AASLD/AST 2025: Practice Guideline on Adult Liver Transplantation — Diagnosis and Management of Graft-Related Complications]]
 5. [[aga-2022-hcc-systemic|AGA Clinical Practice Guideline: Systemic Therapy for Hepatocellular Carcinoma (2022)]]
 6. [[nccn-2026-hcc|NCCN Clinical Practice Guidelines in Oncology: Hepatocellular Carcinoma (Version 1.2026)]]
+7. [[aga-2026-hcc-surveillance|AGA Clinical Practice Update on Risk Stratification and Emerging Surveillance Strategies for Hepatocellular Carcinoma: Expert Review (2026)]]

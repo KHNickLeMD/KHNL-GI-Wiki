@@ -123,8 +123,7 @@ GIM affects approximately 5% of the US population. Prevalence is higher in high-
 
 ## See Also
 
-
-[[helicobacter-pylori-infection]], [[atrophic-gastritis]], [[gastric-premalignant-conditions]], [[gastric-adenocarcinoma]], [[upper-endoscopy]]
+[[helicobacter-pylori-infection]], [[atrophic-gastritis]], [[gastric-premalignant-conditions]], [[gastric-polyps]], [[gastric-adenocarcinoma]], [[upper-endoscopy]]
 
 ---
 

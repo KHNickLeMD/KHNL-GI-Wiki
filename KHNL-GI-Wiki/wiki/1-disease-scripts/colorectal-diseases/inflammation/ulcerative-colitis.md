@@ -3,8 +3,8 @@ title: "Ulcerative Colitis"
 category: disease-script
 tags: [uc, ulcerative-colitis, ibd, 5-asa, biologics, anti-tnf, vedolizumab, asuc, pancolitis, proctitis]
 created: 2026-05-07
-updated: 2026-06-23
-sources: [acg-2025-uc, aga-2024-uc-pharm, aga-2024-pouchitis, aga-2023-biomarkers-uc, acg-2019-uc, asge-2015-scenic-ibd-dysplasia, asge-2015-ibd]
+updated: 2026-06-27
+sources: [acg-2025-uc, aga-2024-uc-pharm, aga-2024-pouchitis, aga-2023-biomarkers-uc, acg-2019-uc, asge-2015-scenic-ibd-dysplasia, asge-2015-ibd, aga-2026-inpatient-ibd]
 ---
 
 # Ulcerative Colitis
@@ -253,6 +253,8 @@ Idiopathic chronic inflammatory disorder of the large intestine. Continuous muco
    - Refractory to all medical therapy
    - IFX/cyclosporine do NOT increase postoperative complications — do not delay surgery
 
+*Inpatient practice points — [[aga-2026-inpatient-ibd|AGA 2026 CPU]]:* counsel on potential **colectomy** and obtain **timely surgical consultation** early; all hospitalized patients receive **VTE prophylaxis**; rescue options are **infliximab, cyclosporine, or a JAK inhibitor** (growing interest in JAK inhibitors as initial, corticosteroid-sparing inpatient therapy — optimal dosing not yet established). Optimal inpatient infliximab dosing for ASUC is unknown — a multicenter study found **no significant day-7 response difference between accelerated (10 mg/kg) and standard infliximab dosing**.
+
 ---
 
 ## Monitoring
@@ -319,3 +321,4 @@ Idiopathic chronic inflammatory disorder of the large intestine. Continuous muco
 5. [[acg-2019-uc|ACG 2019: Ulcerative Colitis in Adults (historical)]]
 6. [[asge-2015-scenic-ibd-dysplasia|SCENIC International Consensus Statement on Surveillance and Management of Dysplasia in IBD (2015)]]
 7. [[asge-2015-ibd|ASGE Guideline: The Role of Endoscopy in Inflammatory Bowel Disease (2015)]]
+8. [[aga-2026-inpatient-ibd|AGA Clinical Practice Update on Inpatient Management of Adults With Inflammatory Bowel Disease: Expert Review (2026)]]

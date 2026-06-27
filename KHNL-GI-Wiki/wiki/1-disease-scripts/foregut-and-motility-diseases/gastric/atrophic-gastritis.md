@@ -11,7 +11,7 @@ tags:
   - gastric-cancer
   - neuroendocrine-tumor
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-06-27
 sources:
   - aga-2021-atrophic-gastritis
 ---
@@ -204,8 +204,7 @@ Metastasis rate: <10% for NETs ≤2 cm; ~20% for NETs >2 cm.
 
 ## See Also
 
-
-[[gastric-premalignant-conditions]], [[gastric-intestinal-metaplasia]], [[gastric-adenocarcinoma]], [[gastroenteropancreatic-neuroendocrine-tumors]], [[helicobacter-pylori-infection]], [[celiac-disease]], [[endoscopic-ultrasound]], [[upper-endoscopy]]
+[[gastric-premalignant-conditions]], [[gastric-intestinal-metaplasia]], [[gastric-polyps]], [[gastric-adenocarcinoma]], [[gastroenteropancreatic-neuroendocrine-tumors]], [[helicobacter-pylori-infection]], [[celiac-disease]], [[endoscopic-ultrasound]], [[upper-endoscopy]]
 
 ---
 

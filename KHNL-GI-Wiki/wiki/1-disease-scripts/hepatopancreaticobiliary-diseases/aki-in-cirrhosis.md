@@ -3,8 +3,19 @@ title: "AKI in Cirrhosis (including HRS-AKI)"
 category: disease-script
 tags: [aki, cirrhosis, hrs, hepatorenal-syndrome, albumin, terlipressin, liver]
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-06-27
 sources: [aga-2022-aki-cirrhosis]
+---
+
+## Contents
+- [[#Assessment]]
+  - [[#Establishing the Diagnosis (KDIGO Criteria)]]
+  - [[#Severity Assessment (ICA-AKI Staging)]]
+  - [[#Classification / Typing]]
+- [[#Differential Diagnosis]]
+- [[#Diagnostics]]
+- [[#Therapeutics]]
+
 ---
 
 ## Assessment
@@ -262,7 +273,6 @@ Post-LT: patients can be listed for high-priority kidney transplantation alone i
 ---
 
 ## See Also
-
 
 [[alcohol-associated-liver-disease]], [[chronic-hepatitis-b]], [[acute-liver-failure]], [[nutrition-in-liver-disease]], [[portal-hypertension]], [[acute-on-chronic-liver-failure]], [[spontaneous-bacterial-peritonitis]], [[ascites]], [[liver-transplantation]]
 

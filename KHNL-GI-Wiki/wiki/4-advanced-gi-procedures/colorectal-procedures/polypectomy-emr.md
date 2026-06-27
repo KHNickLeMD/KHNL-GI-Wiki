@@ -3,8 +3,8 @@ title: "Polypectomy and EMR (Colorectal)"
 category: advanced-procedure
 tags: [polypectomy, emr, esd, cold-snare, colonoscopy, colorectal, advanced-polypectomy, malignant-polyp, submucosal-invasion, haggitt, kikuchi, tumor-budding, lymphovascular-invasion]
 created: 2026-05-07
-updated: 2026-05-24
-sources: [usmstf-2020-endoscopic-removal, asge-2020-endoscopic-removal, usmstf-2020-malignant-colorectal-polyps]
+updated: 2026-06-27
+sources: [usmstf-2020-endoscopic-removal, asge-2020-endoscopic-removal, usmstf-2020-malignant-colorectal-polyps, aga-2025-lifting-agents]
 ---
 
 # Polypectomy and Endoscopic Mucosal Resection (Colorectal)
@@ -331,10 +331,20 @@ After endoscopic resection reveals a malignant polyp, histologic features determ
 
 ---
 
+### Submucosal Lifting Agents ([[aga-2025-lifting-agents|AGA 2025 CPU]])
+
+- Injection creates a cushion separating the lesion from the **muscularis propria (MP)**; adding a **blue contrast** (indigo carmine or methylene blue) demarcates margins and reveals MP injury during EMR.
+- **Saline ± contrast ("homemade") remains acceptable**; saline dissipates fast, prompting viscous/FDA-approved agents. Saline was non-inferior to other injection-based methods for relevant outcomes.
+- **Sessile serrated lesions** lift well with **any** agent (incl. saline) given minimal fibrosis.
+- **ESD requires submucosal injection** regardless of agent; avoid intralesional injection during ESD (obscuring bleeding). POEM typically uses normal saline.
+- Add **dilute epinephrine** for cold EMR / EMR with electrocautery to reduce bleeding.
+- Technique: prime needle (avoid air); **dynamic injection** shapes the mound and maximizes MP separation; serial inject-and-snare for large lesions. Papillectomy generally needs no injection.
+
+---
+
 ## See Also
 
-
-[[colonoscopy]], [[colorectal-cancer]], [[colorectal-cancer-screening]], [[endoscopic-ultrasound]], [[lynch-syndrome]]
+[[colonoscopy]], [[colorectal-cancer]], [[colorectal-cancer-screening]], [[endoscopic-submucosal-dissection]], [[endoscopic-ultrasound]], [[lynch-syndrome]]
 
 ---
 
@@ -344,3 +354,4 @@ After endoscopic resection reveals a malignant polyp, histologic features determ
 2. [[asge-2020-endoscopic-removal|ASGE 2020: Endoscopic Removal of Colorectal Lesions]]
 3. [[usmstf-2020-malignant-colorectal-polyps|USMSTF 2020: Endoscopic Recognition and Management Strategies for Malignant Colorectal Polyps]]
 4. [[usmstf-2020-followup-colonoscopy|USMSTF 2020: Recommendations for Follow-Up After Colonoscopy and Polypectomy]]
+5. [[aga-2025-lifting-agents|AGA Clinical Practice Update on Endoscopic Lifting Agents: Commentary (2025)]]

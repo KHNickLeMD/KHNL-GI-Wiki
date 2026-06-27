@@ -1,6 +1,6 @@
 ---
 title: "HIV/AIDS-Related Diarrhea"
-category: synthesis
+category: diagnostic-schema
 tags: [hiv, aids, diarrhea, opportunistic-infections, cd4, immunocompromised, stub]
 created: 2026-06-08
 updated: 2026-06-23

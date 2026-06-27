@@ -3,8 +3,8 @@ title: "Crohn's Disease"
 category: disease-script
 tags: [crohns, ibd, biologics, ileitis, colitis, perianal-fistula, stricture, fistula, anti-tnf]
 created: 2026-05-07
-updated: 2026-06-23
-sources: [acg-2025-crohns, aga-2025-crohns-pharm, aga-2021-crohns-pharm, aga-2023-biomarkers-cd, acg-2018-crohns, asge-2015-scenic-ibd-dysplasia, asge-2015-ibd]
+updated: 2026-06-27
+sources: [acg-2025-crohns, aga-2025-crohns-pharm, aga-2021-crohns-pharm, aga-2023-biomarkers-cd, acg-2018-crohns, asge-2015-scenic-ibd-dysplasia, asge-2015-ibd, aga-2026-inpatient-ibd, aga-2026-therapeutic-endoscopy-ibd]
 ---
 
 # Crohn's Disease
@@ -287,6 +287,7 @@ No single pathognomonic test. Diagnosis = integration of:
 
 - **Endoscopic balloon dilation** for symptomatic **benign** CD strictures (small bowel, colon, or ileocolonic anastomosis) **≤4 cm** in length, when feasible — durable clinical response ~58%, deferring surgery ([[asge-2015-ibd]]).
 - Biopsy strictures to exclude malignancy.
+- **Therapeutic-endoscopy details ([[aga-2026-therapeutic-endoscopy-ibd|AGA 2026 CPU]]):** EBD is first-line (technical/clinical success 74%–100%); best for **short (≤4–5 cm), simple** strictures without deep ulcers or fistula. Target **18–20 mm** with **wire-guided CRE balloons**; reassess after each dilation (perforation possible even with smaller balloons); **no benefit from intralesional steroids**. Stricture **≤5 cm** predicts surgery-free survival (risk ↑ ~8% per added cm). Alternatives: endoscopic stricturotomy, FCSEMS (limited by migration). **Hold antithrombotics, systemic steroids, and GLP-1 RAs** before; **prophylactic antibiotics not required** before EBD. **Fistulas:** optimize medical therapy, pick short/simple tracts, **prioritize drainage over closure**; visible dysplasia → EMR/ESD in expert hands.
 
 ---
 
@@ -296,6 +297,13 @@ No single pathognomonic test. Diagnosis = integration of:
 - Infliximab effective inpatient for severe-fulminant disease (weight-based dosing advantage)
 - Drain abscesses before escalating immunosuppression
 - Multidisciplinary: surgery evaluation early
+- All hospitalized IBD patients: **VTE prophylaxis** (prophylactic anticoagulation) — see [[inflammatory-bowel-disease]] inpatient framework
+
+*Inpatient CD complications — [[aga-2026-inpatient-ibd|AGA 2026 CPU]]:*
+
+- **Intestinal obstruction:** distinguish fibrotic vs inflammatory stricture vs adhesions; rule out perforation. IV corticosteroids if **active inflammation** present; surgery for predominantly fibrotic stricture or perforating/abscess disease. No clear role for endoscopic dilation in acute obstruction. If on steroids preop, taper toward ≤prednisone 20 mg/day to reduce postoperative infection.
+- **Intra-abdominal abscess:** infection control with **drainage** (by size/location) + systemic antibiotics, then decide on further medical vs surgical management.
+- **Active perianal disease:** multidisciplinary medical + surgical approach — EUA with incision & drainage of abscess + **seton** placement; contrast cross-sectional imaging (CT/MR) for complex fistula tracts.
 
 ---
 
@@ -355,3 +363,5 @@ No single pathognomonic test. Diagnosis = integration of:
 5. [[acg-2018-crohns|ACG 2018: Management of Crohn's Disease in Adults (historical)]]
 6. [[asge-2015-scenic-ibd-dysplasia|SCENIC International Consensus Statement on Surveillance and Management of Dysplasia in IBD (2015)]]
 7. [[asge-2015-ibd|ASGE Guideline: The Role of Endoscopy in Inflammatory Bowel Disease (2015)]]
+8. [[aga-2026-inpatient-ibd|AGA Clinical Practice Update on Inpatient Management of Adults With Inflammatory Bowel Disease: Expert Review (2026)]]
+9. [[aga-2026-therapeutic-endoscopy-ibd|AGA Clinical Practice Update on the Role of Therapeutic Endoscopy in Inflammatory Bowel Disease: Commentary (2026)]]
