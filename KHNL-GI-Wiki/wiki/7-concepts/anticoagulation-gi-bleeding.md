@@ -3,9 +3,27 @@ title: "Anticoagulation Management in GI Bleeding and Periendoscopic Period"
 category: concept
 tags: [anticoagulation, antiplatelets, gi-bleeding, periendoscopic, doac, warfarin, bridging]
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-06-26
 sources: [acg-cag-2022-anticoag-gi-bleeding]
 ---
+
+## Contents
+- [[#Overview]]
+- [[#Acute GI Bleeding Management]]
+  - [[#VKA Reversal (Warfarin)]]
+  - [[#DOAC Reversal (Apixaban, Rivaroxaban, Dabigatran, Edoxaban)]]
+  - [[#Antiplatelet Management]]
+  - [[#When to Resume Anticoagulation (Timing After Hemostasis)]]
+- [[#Periendoscopic Period]]
+  - [[#Risk Stratification (Procedural Bleeding and Thrombotic Risk)]]
+  - [[#Low Thrombotic Risk Patients]]
+  - [[#High Thrombotic Risk Patients (Mechanical Heart Valves, Recent VTE, AF with High CHADS2)]]
+  - [[#Bridging Therapy — When Indicated vs. Not]]
+  - [[#DOAC Periendoscopic Management]]
+  - [[#Antiplatelet Periendoscopic Management]]
+- [[#Clinical Pearls and Decision Framework]]
+- [[#See Also]]
+- [[#Sources]]
 
 ## Overview
 
