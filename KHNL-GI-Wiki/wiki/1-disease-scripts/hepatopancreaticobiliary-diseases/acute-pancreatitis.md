@@ -3,8 +3,8 @@ title: "Acute Pancreatitis"
 category: disease-script
 tags: [pancreatitis, acute-pancreatitis, hpb, gallstone-pancreatitis, necrotizing-pancreatitis, ercp, bisap, fluid-resuscitation, nutrition]
 created: 2026-05-07
-updated: 2026-06-23
-sources: [acg-2024-acute-pancreatitis]
+updated: 2026-06-28
+sources: [acg-2024-acute-pancreatitis, asge-2016-pancreatic-fluid-collections]
 ---
 
 # Acute Pancreatitis
@@ -231,6 +231,14 @@ BISAP ≥3 = high risk for severe AP and mortality
 - **Acute necrotic collection (ANC):** necrosis ± fluid; first 4 weeks
 - **Walled-off necrosis (WON):** encapsulated necrosis >4 weeks; treat if infected or symptomatic
 
+**Endoscopic drainage of fluid collections — indications & approach [[asge-2016-pancreatic-fluid-collections]]:**
+
+- **Before drainage:** exclude cystic neoplasm and pseudoaneurysm; wait for cyst-wall maturation
+- **Drain:** symptomatic or rapidly enlarging pseudocysts; all infected PFCs failing conservative management; symptomatic sterile necrosis lasting >8 weeks
+- Endoscopic (transmural) drainage is preferred over surgery as *initial* therapy for pseudocysts
+- Use [[endoscopic-ultrasound|EUS]] for transmural drainage when there is no luminal bulge or portal hypertension is suspected; routine FNA is *not* required to diagnose infected necrosis
+- WON: step-up — transmural/percutaneous drainage before transmural necrosectomy or surgery; lower success and higher adverse-event rates than pseudocyst drainage; perform only with surgical and IR backup
+
 ### 7. Gallstone Pancreatitis — Definitive Management
 
 | Severity | Cholecystectomy timing |
@@ -252,3 +260,4 @@ BISAP ≥3 = high risk for severe AP and mortality
 ## Sources
 
 1. [[acg-2024-acute-pancreatitis|ACG Clinical Guideline: Management of Acute Pancreatitis (2024)]]
+2. [[asge-2016-pancreatic-fluid-collections|ASGE Guideline: The Role of Endoscopy in the Diagnosis and Treatment of Inflammatory Pancreatic Fluid Collections (2016)]]

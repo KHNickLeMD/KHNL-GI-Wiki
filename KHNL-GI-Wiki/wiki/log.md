@@ -6,6 +6,73 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-06-28] ingest | 3 older ASGE procedural guidelines — PUD endoscopy, ERCP for benign biliary, inflammatory pancreatic fluid collections (scheduled ingest-and-lint pass)
+
+**Scope:** Scheduled `ingest-and-lint` run. Ingested 3 of the remaining uningested raw guidelines (all older ASGE Standards-of-Practice docs). Per source-priority rules, added **net-new, non-conflicting** procedural detail only — did not overwrite claims from newer ACG/ASGE guidelines already on the entity pages. Done serially (3 sources) to respect the token budget; remaining uningested ASGE technical reviews reported below for a future pass.
+
+**Sources created:**
+- `[[asge-2010-pud]]` — The Role of Endoscopy in the Management of Patients With Peptic Ulcer Disease (Gastrointest Endosc 2010;71:663–668). 12 GRADE recs (verbatim).
+- `[[asge-2015-ercp-benign-biliary]]` — The Role of ERCP in Benign Diseases of the Biliary Tract (Gastrointest Endosc 2015;81:795–803). 10 GRADE recs (verbatim).
+- `[[asge-2016-pancreatic-fluid-collections]]` — Endoscopy in Inflammatory Pancreatic Fluid Collections (Gastrointest Endosc 2016;83:481–488). 12 GRADE recs (verbatim).
+
+**Pages updated:**
+- `[[peptic-ulcer-disease]]` — added DU-no-routine-biopsy, individualized GU biopsy/surveillance, early EGD + repeat therapy for bleeding, no scope in perforation, benign gastric-outlet-obstruction balloon dilation; de-stubbed; fixed empty frontmatter `sources:` (now lists `acg-2021-ugib`, `asge-2010-pud`).
+- `[[ercp]]` — expanded stub: SOD typing (treat I, not III — EPISOD), first-line ERCP for bile leaks, congenital choledochocele/choledochal cyst, no routine pre-cholecystectomy ERCP; filled Key Concepts (EPLBD, cholangioscopy-guided lithotripsy, FCSEMS for benign strictures, altered-anatomy access).
+- `[[acute-pancreatitis]]` — added endoscopic PFC drainage indications/thresholds (exclude neoplasm/pseudoaneurysm, wait for wall maturation, drain symptomatic/enlarging pseudocysts + infected PFCs + sterile necrosis >8 wk, EUS when no bulge/portal HTN, surgical/IR backup).
+
+**Index:** added 3 ASGE source entries; updated `[[peptic-ulcer-disease]]` (2 sources, de-stub), `[[acute-pancreatitis]]` (1→2 sources), `[[ercp]]` (→6 sources, de-stub) descriptions; total source count 192 → 195; count-line date bumped to 2026-06-28.
+
+**Remaining uningested (reported, not ingested — older ASGE technical reviews/guidelines):** `ASGE 2011 EUS for Mediastinal Adenopathy`, `ASGE 2011 Endoscopy in Enteral Feeding`, `ASGE 2013 Biliary Neoplasia`, `ASGE 2014 Laboratory Testing Before Endoscopy`, `ASGE 2015 ERCP in Benign Biliary` (done), `ASGE 2015 Endoscopy in Benign Pancreatic Disease`, `ASGE 2015 Premalignant/Malignant Conditions of the Stomach`, `ASGE 2016 Antithrombotic Agents` (superseded by ACG-CAG 2022), `ASGE 2016 Solid Pancreatic Neoplasia` (superseded by ASGE 2024), `ASGE 2020 Endoscopy in FAP`. Candidates for next pass: FAP endoscopy, benign pancreatic disease, EUS-mediastinal.
+
+---
+
+## [2026-06-28] lint | Hygiene + link integrity + stalest-page check (scheduled pass)
+
+**Link integrity:** Whole-wiki broken-link scan (basename resolution, excluding code spans/fences and escaped table pipes `\|`) — **0 genuinely broken `[[links]]`**. All links added this pass (`cholangioscopy`, `choledocholithiasis`, `biliary-stricture`, `endoscopic-ultrasound`, `pancreatic-cysts`, `endoscopic-ultrasound`) resolve to existing pages.
+
+**Stalest-page validation:** Checked the 3 least-recently-updated entity pages (`[[upper-gi-bleeding]]`, `[[upper-endoscopy]]`, `[[fever-returning-traveler]]`, all `updated: 2026-05-15`) — all have correct `## See Also` + `## Sources` bottom sections, none are stubs, no format violations found. Left as-is (dates not bumped — no edits needed).
+
+**Hygiene flagged (not fixed — permission blocked):** 13 `.DS_Store` OS artifacts remain across the vault (root, `KHNL-GI-Wiki/`, several `wiki/` and `raw/` subdirs, `.obsidian/`, `.git/`); deletion returned "Operation not permitted" from the sandbox mount. No `.gitignore` present at repo root — recommend adding one with `.DS_Store` so these stop being tracked. User action needed to remove them.
+
+**Connectivity:** Ingest pass added inbound links to `[[cholangioscopy]]`, `[[choledocholithiasis]]`, `[[endoscopic-ultrasound]]`, `[[biliary-stricture]]` from the 3 updated entity pages.
+
+---
+
+## [2026-06-27] ingest | 8 guidelines via 4 parallel subagents — AGA CRC resection/blood tests, noncolorectal IBD, hEDS; ASGE sedation, antibiotic prophylaxis, ampullary adenoma, subepithelial lesions (3rd pass)
+
+**Scope:** User-requested 3rd `ingest-and-lint` pass. Fanned out **4 parallel `general-purpose` subagents** (2 sources each) per the schema's parallel-ingest pattern; subagents did per-source page work and returned proposals; coordinator serialized all shared writes (`index.md`, `log.md`). 8 previously-uningested guidelines ingested (4 AGA, 4 ASGE). Net-new/corroborating only.
+
+**Sources created:**
+- `[[aga-2025-endoscopic-resection-crc]]` — Endoscopic Resection for Early CRC (Gastroenterology 2025;169:1558–1564). Commentary.
+- `[[aga-2025-crc-blood-tests]]` — Blood Tests for CRC Screening (Clin Gastroenterol Hepatol 2025;23:1486–1491). Commentary.
+- `[[aga-2025-noncolorectal-cancer-ibd]]` — Noncolorectal Cancer Screening & Vaccinations in IBD (Clin Gastroenterol Hepatol 2025;23:695–706). 13 BPA (verbatim).
+- `[[aga-2025-heds-gi]]` — GI Manifestations & Autonomic/Immune Dysfunction in Hypermobile EDS (Clin Gastroenterol Hepatol 2025;23:1291–1302). 16 BPA (verbatim).
+- `[[asge-2018-sedation]]` — Sedation & Anesthesia in GI Endoscopy (Gastrointest Endosc 2018;87:327–337). 8 GRADE recs.
+- `[[asge-2015-antibiotic-prophylaxis]]` — Antibiotic Prophylaxis for GI Endoscopy (Gastrointest Endosc 2015;81:81–89). 12 GRADE recs.
+- `[[asge-2015-ampullary-duodenal-adenomas]]` — Endoscopy in Ampullary & Duodenal Adenomas (Gastrointest Endosc 2015;82:773–781). 6 recs.
+- `[[asge-2017-subepithelial-lesions]]` — Subepithelial Lesions of the GI Tract (Gastrointest Endosc 2017;85:1117–1132). 11 recs.
+
+**Pages created:**
+- `[[ampullary-adenoma]]` — new ADDT disease script (HPB): side-viewing exam/biopsy, EUS/ERCP staging, endoscopic papillectomy (PD stent + rectal NSAID prophylaxis), nonampullary duodenal EMR, sporadic vs FAP/PJS, surveillance.
+- `[[hypermobile-ehlers-danlos-syndrome]]` — new ADDT disease script (Other): GI manifestations, DGBI overlap, POTS/MCAS associations, Beighton/2017 criteria, motility/pelvic-floor testing, multidisciplinary management.
+- `[[endoscopy-sedation]]` — new concept: sedation continuum, ASA class, propofol/MAC vs moderate sedation, capnography, reversal agents.
+- `[[antibiotic-prophylaxis-endoscopy]]` — new concept: when periprocedural antibiotics are/aren't indicated (not for IE; incomplete biliary drainage, PEG/PEJ, EUS-FNA of cysts, cirrhosis + GI bleed).
+
+**Pages updated (net-new + sources/cross-links):**
+- `[[colorectal-cancer-screening]]` → blood-based screening section (Shield/Freenome performance, CMS criteria, positioning vs FIT/colonoscopy). →2 sources.
+- `[[polypectomy-emr]]` → early-T1 CRC endoscopic resection (en-bloc imperative, ESD/eFTR, curative criteria, deep-SMI reappraisal, surveillance). →6 sources.
+- `[[colorectal-cancer]]` → early-T1 en-bloc/ESD/eFTR bullet pointing detail to polypectomy-emr. →7 sources.
+- `[[ibd-preventive-care]]` → anal cancer surveillance, HPV/HepB seroprotection algorithm, pneumococcal/RSV sequencing, skin-cancer TBSE. →3 sources (was understated as 1 in index — corrected).
+- `[[subepithelial-lesion]]` → EUS entity table, tissue-acquisition yields (FNA/FNB/SINK/unroofing), resection-vs-surveillance thresholds (ACG 2023 remains higher-priority on overlap). →2 sources.
+
+**Lint (this pass):** index updated — 8 source entries (AGA ×4, ASGE ×4, reverse-chron), 2 disease-script entries (`ampullary-adenoma` HPB, `hypermobile-ehlers-danlos-syndrome` Other), 2 concept entries; per-page counts corrected. Footer reconciled to live on-disk counts: **192 sources | 107 disease scripts | 19 diagnostic schemas | 2 general procedures | 19 advanced procedures | 15 meds | 0 anatomy | 35 concepts | 1 synthesis**; index Sources section verified to list all 192. Whole-page `[[link]]` scan on all created/edited pages — all resolve by basename; subagents avoided broken links (POTS/MCAS/dysautonomia, FIT/Cologuard/eFTR/tumor-budding rendered as plain text — candidate future pages). Stalest-page validation (`[[celiac-disease]]`, `[[biliary-stricture]]`, both `2026-05-15`): compliant; fixed double blank line under `## See Also`; `updated:` bumped.
+
+**Contradictions surfaced:** deep submucosal invasion as a surgical trigger (USMSTF 2020) vs AGA 2025 individualized organ-preservation (~2.6% LNM, not independent) — flagged on `[[polypectomy-emr]]`; cervical/melanoma screening intensity and RSV vaccination age — AGA 2025 vs existing ACG/ACIP content surfaced on `[[ibd-preventive-care]]`; ASGE 2017 SEL net-new only under newer ACG 2023.
+
+**Remaining for user triage:** `.DS_Store` removal still blocked on mounted volume. Pre-existing source-count drift on `[[polypectomy-emr]]` frontmatter vs `## Sources` (followup-colonoscopy listed in numbered list, not frontmatter) — left as-is. Candidate new pages flagged by subagents: POTS, MCAS, FIT, multitarget-stool-DNA, eFTR. Still-uningested: AGA hemorrhoids duplicate; remaining older ASGE backlog (2010 PUD, 2011 EUS mediastinal/enteral feeding, 2013 biliary neoplasia, 2014 lab testing, 2015 abx-prophylaxis-done, bowel-prep, ERCP benign biliary, benign pancreatic, premalignant stomach, 2016 fluid collections/antithrombotics/solid-pancreatic, 2020 FAP). Persistent source-needed stubs: `[[microscopic-colitis]]`, `[[hiv-aids-related-diarrhea]]`; expandable stub `[[endoscopic-submucosal-dissection]]`.
+
+---
+
 ## [2026-06-27] ingest | 4 more AGA CPUs — FLIP esophageal, sclerosing mesenteritis, lifting agents, therapeutic endoscopy in IBD (scheduled ingest-and-lint, 2nd pass)
 
 **Scope:** User-requested second `ingest-and-lint` pass (same day). Ingested 4 additional uningested AGA CPUs from `raw/GI Guidelines/AGA/`. FLIP is an Expert Review with 10 BPA (verbatim); the other three are Commentaries (narrative, no formal BPA) — key clinical claims captured. Net-new/corroborating only; no overwrite of newer content.

@@ -3,8 +3,8 @@ title: "Colorectal Cancer Screening"
 category: concept
 tags: [crc, colorectal-cancer, screening, colonoscopy, fit, colonoscopy-quality, adenoma, colorectal]
 created: 2026-05-16
-updated: 2026-05-16
-sources: [acg-2021-crc-screening]
+updated: 2026-06-27
+sources: [acg-2021-crc-screening, aga-2025-crc-blood-tests]
 ---
 
 ## Overview
@@ -46,7 +46,42 @@ The age 45 start is shared with the American Cancer Society (strong recommendati
 
 ### Not Recommended
 
-- **Septin-9 blood test:** Conditional recommendation against — Very low evidence; insufficient sensitivity/specificity
+- **Septin-9 blood test:** Conditional recommendation against (ACG 2021) — Very low evidence; insufficient sensitivity/specificity. *Note: this predates the newer cfDNA blood tests below, which are a distinct test class.*
+
+---
+
+## Blood-Based CRC Screening (AGA 2025 CPU)
+
+*Source: [[aga-2025-crc-blood-tests]]. Liquid-biopsy tests detect circulating tumor / cell-free DNA shed by colorectal lesions. CMS covers acceptable blood tests **every 3 years**; CMS minimum threshold = CRC sensitivity 74%, specificity 90% (~10% APL positivity).*
+
+### Validated Tests — Diagnostic Performance
+
+| Test | CRC sensitivity | Specificity | APL sensitivity | Stage 1 CRC | Status |
+|---|---|---|---|---|---|
+| **Guardant Shield** (cfDNA methylation) | 83.1% | 89.6% | 13.2% | 55% | FDA-approved May 2024, CMS-covered; list price $1450 |
+| **Freenome** (cfDNA methylation) | 79.2% | 91.5% | 12.5% | 57% | Validated; expected to seek FDA/CMS approval |
+
+- **Key limitation:** both detect advanced precursor lesions (APLs) and stage 1 CRC **poorly** vs stool tests → reduced cancer prevention (poor APL detection) and curative-stage detection. (APL = adenoma or SSL ≥10 mm, villous, high-grade dysplasia, or carcinoma in situ.) Figures are one-time performance; optimal repeat interval unknown.
+
+### Effectiveness vs Established Tests (decision-analytic modeling, 4 validated models)
+
+| Program | ↓ CRC incidence | ↓ CRC mortality |
+|---|---|---|
+| Annual [[colorectal-cancer\|FIT]] | 45%–77% | 67%–81% |
+| Triennial MT-sDNA (Cologuard) | 40%–73% | 64%–78% |
+| [[colonoscopy\|Colonoscopy]] q10y | 57%–81% | 72%–88% |
+| Triennial Guardant Shield | 24%–47% | 53%–59% |
+
+- Freenome projections ≈ Shield. Triennial Shield at $1450 = cost-effective vs no screening ($74,800–$102,300/QALY) but **less effective and more costly** than FIT/colonoscopy; even at $300 it stays inferior to FIT/colonoscopy.
+- To match annual FIT, a triennial blood test would need APL sensitivity ~50%–80% **and** cost <$125–$140.
+
+### Positioning and Caveats
+
+- **Substitution vs supplementation:** if blood tests *substitute* for FIT/colonoscopy, population outcomes are inferior. To equal FIT/colonoscopy, participation must be ≥35% higher; outcomes similar only if for every 3 substituters there are 2 net-new screenees.
+- **Adherence is the main attraction:** only 60%–65% of eligible U.S. adults are up to date; offering a blood test to those who declined other screening raised uptake 17.5% in one study (RCT: ~11% higher adherence vs stool).
+- **Programmatic requirement:** abnormal blood test → must complete colonoscopy; normal → repeat at appropriate interval. ~50% of patients do not complete colonoscopy within 3–6 months of a positive stool test; whether decliners of screening colonoscopy will complete it after a positive blood test is unknown.
+- **Multicancer detection tests (e.g., Galleri):** sensitivity 51.5%, specificity 99.5% — investigational; mortality benefit unproven; premature for CRC screening. Interval blood tests between colonoscopies also premature.
+- **Bottom line:** blood tests may improve participation but could cause **net harm if substituted** for more effective tests; for patients who decline all other screening, they are an acceptable option.
 
 ---
 
@@ -107,3 +142,4 @@ Low-dose aspirin for CRC chemoprevention in adults aged **50–69** with:
 ## Sources
 
 1. [[acg-2021-crc-screening|ACG 2021 Colorectal Cancer Screening Guidelines]]
+2. [[aga-2025-crc-blood-tests|AGA Clinical Practice Update on Current Role of Blood Tests for Colorectal Cancer Screening: Commentary (2025)]]

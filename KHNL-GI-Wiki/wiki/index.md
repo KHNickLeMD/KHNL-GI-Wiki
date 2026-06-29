@@ -47,7 +47,7 @@ updated: 2026-06-22
 
 - [[helicobacter-pylori-infection]] — H. pylori: ADDT — epidemiology, pathogenesis, diagnosis, eradication regimens; 2024 update: BQT Strong, vonoprazan, no empiric CTT (2 sources)
 - [[gastric-premalignant-conditions]] — GPMC: ADDT — Correa cascade, GIM surveillance, dysplasia/ESD referral, H. pylori eradication (1 source)
-- [[peptic-ulcer-disease]] — PUD: ADDT — H. pylori/NSAID etiology, ulcer biopsy, EGD with Forrest classification, PPI BID 4–12 wk, follow-up EGD for gastric ulcers (stub)
+- [[peptic-ulcer-disease]] — PUD: ADDT — H. pylori/NSAID etiology, ulcer biopsy (DU not routine, GU individualized), EGD with Forrest classification, PPI BID 4–12 wk, follow-up EGD for gastric ulcers, balloon dilation for benign gastric outlet obstruction (2 sources)
 - [[hereditary-diffuse-gastric-cancer]] — HDGC: ADDT — CDH1, 67%/83% M/F lifetime GC risk, prophylactic gastrectomy after age 20, pre-gastrectomy EGD low sensitivity, lobular breast cancer surveillance (1 source)
 
 #### Small Bowel
@@ -67,7 +67,7 @@ updated: 2026-06-22
 - [[pouchitis]] — Ileal pouch inflammation post-IPAA; subtype-driven Tx (intermittent/antibiotic-dependent/refractory, Crohn's-like, cuffitis); antibiotics → advanced therapy (AGA 2024); pouch neoplasia surveillance (ASGE 2015) (3 sources)
 - [[radiation-proctopathy]] — Radiation proctopathy: acute (inflammatory, self-limiting) vs chronic (obliterative endarteritis/telangiectasias); endoscopy dx (biopsy discouraged); APC/bipolar/heater probe/RFA for chronic bleeding (1 source)
 - [[irritable-bowel-syndrome]] — IBS: ADDT — Rome IV/V criteria, positive diagnostic strategy, calprotectin + celiac serology screen, low-FODMAP, soluble fiber, TCA, secretagogues (linaclotide/plecanatide/lubiprostone/tegaserod) for IBS-C; rifaximin/alosetron/eluxadoline for IBS-D; gut-directed psychotherapy (2 sources)
-- [[colorectal-cancer]] — CRC: TNM staging, surgical resection, adjuvant FOLFOX, TNT for rectal cancer, immunotherapy for MSI-H, post-resection surveillance (perioperative → 1y → 4y → 9y → q5y), Lynch universal testing, FIT screening performance/thresholds, rectal cancer local surveillance; NCCN oncologic mgmt — universal MMR/MSI, RAS/BRAF/HER2/NTRK/DPYD, adjuvant FOLFOX/CAPOX (IDEA duration), biomarker-/sidedness-directed metastatic therapy; treatment-algorithm Mermaid (5 sources)
+- [[colorectal-cancer]] — CRC: TNM staging, surgical resection, adjuvant FOLFOX, TNT for rectal cancer, immunotherapy for MSI-H, post-resection surveillance (perioperative → 1y → 4y → 9y → q5y), Lynch universal testing, FIT screening performance/thresholds, rectal cancer local surveillance; NCCN oncologic mgmt — universal MMR/MSI, RAS/BRAF/HER2/NTRK/DPYD, adjuvant FOLFOX/CAPOX (IDEA duration), biomarker-/sidedness-directed metastatic therapy; early-T1 en-bloc/ESD/eFTR endoscopic resection; treatment-algorithm Mermaid (7 sources)
 - [[norovirus]] — Norovirus gastroenteritis: leading cause of acute viral diarrhea, fecal-oral/fomite transmission, supportive care (stub)
 - [[rotavirus]] — Rotavirus: vaccination impact, pediatric predominance, ORS management (stub)
 - [[campylobacter-infection]] — Campylobacter: FQ resistance, azithromycin preferred, Guillain-Barré association (stub)
@@ -105,6 +105,7 @@ updated: 2026-06-22
 - [[heydes-syndrome]] — Heyde's syndrome: aortic stenosis + angioectasia + acquired vWF deficiency, LVAD parallel, AVR resolves coagulopathy (stub)
 ### Hepatopancreaticobiliary Diseases
 
+- [[ampullary-adenoma]] — Ampullary & nonampullary duodenal adenomas: ADDT — side-viewing scope + biopsy, EUS/ERCP staging, endoscopic papillectomy (PD stent + rectal NSAID prophylaxis), duodenal EMR, sporadic vs FAP/Peutz-Jeghers, post-resection surveillance (1 source)
 - [[cholangiocarcinoma]] — Cholangiocarcinoma: iCCA/pCCA/dCCA — PSC risk, MRCP/EUS-FNA/FISH, combined-modality tissue acquisition sensitivities, transplant needle-track-seeding caution, Mayo neoadjuvant LT protocol for pCCA, gem/cis first-line; NCCN oncologic mgmt — RNA-based molecular profiling (FGFR2/IDH1/HER2/BRAF/NTRK/RET/NRG1/MSI-H), gem+cis+checkpoint inhibitor 1st-line, adjuvant capecitabine (BILCAP), iCCA transplant exception (3 sources)
 - [[gallbladder-cancer]] — Gallbladder cancer: most common biliary tract malignancy; often incidental post-cholecystectomy; T-stage-driven re-resection; neoadjuvant for advanced disease; adjuvant capecitabine; gem+cis+checkpoint 1st-line; HER2/BRAF/NTRK/RET/MSI-H profiling (1 source)
 - [[pancreatic-cancer]] — Pancreatic ductal adenocarcinoma: ADDT — diagnosis, genetic-risk syndromes, high-risk surveillance (EUS/MRI), therapeutics (3 sources)
@@ -113,7 +114,7 @@ updated: 2026-06-22
 - [[choledocholithiasis]] — Choledocholithiasis: most common cause of obstructive jaundice; ASGE high/intermediate/low probability stratification; high → ERCP, intermediate → MRCP/EUS; large-balloon dilation for large stones; Charcot's triad = cholangitis → urgent drainage (1 source)
 - [[drug-induced-liver-injury]] — Idiosyncratic DILI: ADDT — diagnosis of exclusion, R-value classification (hepatocellular/cholestatic/mixed), RUCAM causality, Hy's law ~10% mortality, NAC for early DILI-ALF (Strong/Low), against rechallenge, HDS second most common cause, ICI hepatotoxicity overview (1 source)
 - [[alcohol-associated-liver-disease]] — ALD spectrum: definite/probable/possible AH consensus criteria (AASLD 2020); MDF ≥32 and MELD ≥20 severity thresholds; prednisolone 40 mg × 28d (STOPAH/IPD meta-analysis); Lille score at day 7; IV NAC combination (potential benefit); pentoxifylline abandoned (AASLD 2020 GS-19); AKI >2.5 mg/dL = relative contraindication; early LT for severe AH (Mathurin + Lee multicenter data); no fixed abstinence interval; baclofen/acamprosate for AUD in ALD; PEth/EtG biomarkers; PNPLA3/TM6SF2/HSD17B13 genetics (5 sources)
-- [[acute-pancreatitis]] — 2-of-3 diagnosis, Revised Atlanta severity, LR fluids, early enteral nutrition, ERCP indications, necrotizing AP step-up approach (1 source)
+- [[acute-pancreatitis]] — 2-of-3 diagnosis, Revised Atlanta severity, LR fluids, early enteral nutrition, ERCP indications, necrotizing AP step-up approach, endoscopic PFC/pseudocyst/WON drainage indications (2 sources)
 - [[hepatocellular-adenoma]] — 4 molecular subtypes; resect if >5cm/male/beta-catenin/pre-pregnancy; gadoxetate MRI; OCP discontinuation (1 source)
 - [[focal-nodular-hyperplasia]] — No malignant potential; gadoxetate uptake in hepatobiliary phase (key vs. HCA); no follow-up once confirmed (1 source)
 - [[hepatic-hemangioma]] — Most common benign liver lesion; T2 bright + centripetal fill-in; no follow-up if <3cm and characteristic imaging (1 source)
@@ -153,6 +154,7 @@ updated: 2026-06-22
 - [[obesity]] — Weight-management framework: lifestyle, pharmacotherapy, endoscopic and surgical bariatric therapy (2 sources)
 - [[post-transplant-lymphoproliferative-disorder]] — PTLD: EBV-driven lymphoproliferation post-transplant IS, IS reduction first-line, rituximab (stub)
 - [[sclerosing-mesenteritis]] — Sclerosing mesenteritis: ADDT — idiopathic mesenteric fibroinflammation; CT misty mesentery/fat ring sign/pseudocapsule, usually dx without biopsy; only 1–6% need treatment; prednisone + tamoxifen 10 mg BID; surgery non-curative (1 source)
+- [[hypermobile-ehlers-danlos-syndrome]] — Hypermobile EDS / hEDS: ADDT — heritable connective-tissue disorder with GI manifestations; DGBI overlap, POTS/MCAS associations, Beighton/2017 criteria, motility & pelvic-floor testing, multidisciplinary symptom management (1 source)
 
 ---
 
@@ -167,7 +169,7 @@ updated: 2026-06-22
 - [[variceal-upper-gi-bleeding]] — Variceal UGIB: resuscitation (Hgb 7 target; no FFP/platelets based on INR/platelet count), immediate vasoactive + antibiotics (ceftriaxone 1g × 5d), EVL vs. glue for gastric varices, preemptive TIPS (CTP B>7 active bleeding or CTP C 10–13, within 72h ideally 24h), NSBB at vasoactive discontinuation, no routine PPI after AVH confirmed, secondary prophylaxis (NSBB + EVL) (2 sources)
 - [[fever-returning-traveler]] — Fever in a returning traveler: GI-focused differential (enteric fever, amoebiasis, hepatitis A/E, schistosomiasis), diagnostic algorithm, key tests, red flags (1 source)
 - [[biliary-stricture]] — Biliary stricture: benign vs. malignant differential, EUS-FNB vs. ERCP sampling, perihilar vs. distal algorithm, cholangioscopy + FISH, drainage goals, PDT/RFA for unresectable perihilar CCA (1 source)
-- [[subepithelial-lesion]] — GI subepithelial lesion: EUS layer-based differential (GIST/leiomyoma/NET/lipoma), size thresholds for resection, gastric NETs by type, rectal NET band ligation EMR, malignant EUS features (1 source)
+- [[subepithelial-lesion]] — GI subepithelial lesion: EUS layer-based differential (GIST/leiomyoma/NET/lipoma), tissue acquisition (FNA/FNB/SINK/unroofing), size thresholds for resection, gastric NETs by type, rectal NET band ligation EMR, malignant EUS features (2 sources)
 - [[acute-lower-gi-bleeding]] — Acute LGIB: Oakland score, CTA-first for active bleeding, urgent colonoscopy no longer standard (two RCTs show no benefit), EBL vs. clipping for diverticular bleed, tranexamic acid contraindicated, resume anticoagulation within 7 days (1 source)
 - [[ascites]] — Ascites: SAAG-based differential, grade 1–3 classification, diagnostic paracentesis algorithm, spironolactone/furosemide dosing, LVP + albumin 6–8 g/L, TIPS criteria, hepatic hydrothorax + inpatient volume-overload/anasarca + hyponatremia management (2 sources)
 - [[upper-gi-bleeding]] — Upper GI Bleeding: GBS scoring (0–1 = safe discharge), restrictive transfusion at Hgb 7, erythromycin pre-endoscopy, 24h endoscopy standard, Forrest classification with rebleeding %, epinephrine never monotherapy, high-dose PPI post-hemostasis, TAE over surgery for failure (1 source)
@@ -211,11 +213,11 @@ updated: 2026-06-22
 - [[sacral-nerve-stimulation]] — Sacral Nerve Stimulation: neuromodulation for fecal incontinence (stub)
 - [[biofeedback-therapy]] — Biofeedback Therapy: pelvic floor retraining for dyssynergic defecation and fecal incontinence (stub)
 
-- [[polypectomy-emr]] — Polypectomy technique by lesion size/type; EMR, ESD, hybrid ESD; electrosurgery settings; cold snare/underwater EMR/eFTR data; hot avulsion; competency tools; post-EMR surveillance; submucosal lifting agents (AGA 2025) (5 sources)
+- [[polypectomy-emr]] — Polypectomy technique by lesion size/type; EMR, ESD, hybrid ESD; electrosurgery settings; cold snare/underwater EMR/eFTR data; hot avulsion; competency tools; post-EMR surveillance; submucosal lifting agents (AGA 2025); early-T1 CRC endoscopic resection & surveillance (6 sources)
 
 ### Hepatobiliary Procedures
 
-- [[ercp]] — ERCP: choledocholithiasis/cholangitis indications, biliary stricture sampling/drainage, post-ERCP pancreatitis prevention (rectal indomethacin), PD stent for high-risk (stub)
+- [[ercp]] — ERCP: choledocholithiasis/cholangitis indications, difficult-stone techniques (EPLBD, cholangioscopy lithotripsy), biliary stricture sampling/drainage (FCSEMS), bile leaks, SOD typing, post-ERCP pancreatitis prevention, altered-anatomy access (6 sources)
 - [[endoscopic-ultrasound]] — EUS quality standards: indications, FNA diagnostic yield, interventional EUS technical success, AE benchmarks (1 source)
 - [[cholangioscopy]] — Direct endoscopic biliary visualization with targeted biopsy during ERCP (1 source)
 
@@ -265,8 +267,8 @@ updated: 2026-06-22
 - [[endoscopy-ergonomics]] — Endoscopy-related injury (ERI): 57.7% pooled rate; female sex/volume risk; neutral posture, ergonomics education, micro/macrobreaks, monitor/bed height, antifatigue mats (1 source)
 
 - [[chicago-classification-v4]] — Chicago Classification v4.0: HRM protocol, manufacturer-specific IRP thresholds (Medtronic/Laborie), achalasia I/II/III, EGJOO always inconclusive (requires TBE/FLIP + symptoms), IEM revised criteria, fragmented peristalsis eliminated (1 source)
-- [[colorectal-cancer-screening]] — CRC screening: age 45–75 (conditional 45–49), colonoscopy + annual FIT preferred, CIR ≥95% screening standard, ADR ≥25%, family history risk stratification, aspirin 50–69 conditional (1 source)
-- [[ibd-preventive-care]] — IBD health maintenance: vaccination schedule by agent/age, cervical/melanoma/NMSC cancer screening, osteoporosis DEXA, depression/anxiety screening (1 source)
+- [[colorectal-cancer-screening]] — CRC screening: age 45–75 (conditional 45–49), colonoscopy + annual FIT preferred, blood-based screening (Shield/Freenome — CMS criteria, positioning vs FIT/colonoscopy), CIR ≥95%, ADR ≥25%, family history stratification, aspirin 50–69 conditional (2 sources)
+- [[ibd-preventive-care]] — IBD health maintenance: vaccination schedule by agent/age incl. HepB seroprotection algorithm, cervical/skin/anal cancer screening, osteoporosis DEXA, depression/anxiety screening (3 sources)
 - [[endoscopic-oncology]] — Endoscopic oncology subspecialty: scope (ESD/EMR/EUS staging/biliary palliation), relationship to surgical and medical oncology, training pathway (1 source)
 - [[disorders-of-gut-brain-interaction]] — DGBI framework: Rome V definition, biopsychosocial model, 34 adult + 22 pediatric classifications (A–H), Rome Clinical Criteria (8-wk duration), IBS severity table, key Rome IV→V changes (1 source)
 - [[hrm-antireflux-surgery]] — HRM before/after antireflux surgery: pre-ARS motor disorder screening, Padova Classification algorithm, PFOO definition, pseudoachalasia, post-ARS IRP norms (1 source)
@@ -285,6 +287,8 @@ updated: 2026-06-22
 - [[nutrition-in-hospitalized-patients]] — Nutrition in hospitalized patients: EN preferred over PN when gut functional, NRS-2002/NUTRIC risk scoring, avoid albumin/prealbumin as nutrition markers, EN within 24–48h for high-risk, permissive underfeeding in early ARDS/obesity, no GRV monitoring, PN deferred 7–10d in low-risk if EN not feasible, EOL autonomy governs nutrition (1 source)
 - [[cirrhosis-hemostasis]] — Hemostasis in cirrhosis: rebalanced hemostasis concept, INR/platelet count poor predictors of bleeding, no prophylactic FFP/platelets before routine procedures, TEG/ROTEM preferred for transfusion guidance, PVT paradox in cirrhosis (1 source)
 - [[noninvasive-liver-disease-assessment]] — NILDA: blood (FIB-4/NFS/ELF) + imaging (VCTE/MRE/MRI-PDFF) tools for fibrosis/steatosis; two-tier FIB-4→VCTE/MRE/ELF pathway; rule-out > rule-in; ELF ≥11.3 prognostic; against blood steatosis indices & serial monitoring; hub for MASLD/portal-HTN/cholestatic staging (3 sources)
+- [[endoscopy-sedation]] — Procedural sedation continuum for GI endoscopy: ASA class, NPO/aspiration risk, moderate sedation (benzodiazepine+opioid) vs propofol/MAC, capnography, reversal agents (1 source)
+- [[antibiotic-prophylaxis-endoscopy]] — When periprocedural antibiotics are/aren't indicated for endoscopy: not for IE prevention; yes for incomplete biliary drainage, PEG/PEJ, EUS-FNA of cysts, cirrhosis + GI bleed (1 source)
 
 ---
 
@@ -386,6 +390,10 @@ updated: 2026-06-22
 
 ### AGA
 
+- [[aga-2025-endoscopic-resection-crc]] — AGA 2025 Clinical Practice Update (Commentary): Endoscopic Resection for Early Colorectal Cancer — en-bloc imperative; ESD-preferred / eFTR <2 cm; unified curative-resection criteria; deep submucosal invasion reappraised (~2.6% LNM, not independent) → individualized organ preservation; low- vs high-risk T1 surveillance
+- [[aga-2025-crc-blood-tests]] — AGA 2025 Clinical Practice Update (Commentary): Blood Tests for CRC Screening — cfDNA blood tests (Shield/Freenome) performance + CMS criteria (3-yr, ≥74% sens/≥90% spec); inferior to colonoscopy/FIT/stool-DNA by modeling; best for patients declining other screening; programmatic follow-up colonoscopy after positive; not multicancer panels
+- [[aga-2025-noncolorectal-cancer-ibd]] — AGA 2025 Clinical Practice Update: Noncolorectal Cancer Screening and Vaccinations in IBD — 13 BPA; skin (melanoma/NMSC), cervical, and anal cancer screening; HPV/HepB/pneumococcal/RSV/zoster vaccination by agent and age
+- [[aga-2025-heds-gi]] — AGA 2025 Clinical Practice Update: GI Manifestations and Autonomic/Immune Dysfunction in Hypermobile EDS — 16 BPA; DGBI overlap, dysmotility, POTS/MCAS associations, diagnostic criteria, multidisciplinary management
 - [[aga-2026-therapeutic-endoscopy-ibd]] — AGA 2026 Clinical Practice Update (Commentary): Role of Therapeutic Endoscopy in IBD — EBD first-line for short (≤4–5 cm) simple strictures (target 18–20 mm, wire-guided CRE, no intralesional steroids, ≤5 cm predicts surgery-free survival); endoscopic stricturotomy/FCSEMS alternatives; hold antithrombotics/steroids/GLP-1 RA, no pre-EBD antibiotics; fistula endotherapy (drainage > closure, short/simple tracts); EMR/ESD for visible dysplasia
 - [[aga-2026-cdiff-ibd]] — AGA 2026 Clinical Practice Update: Management of C. difficile Infection in IBD — multistep toxin-based testing (NAAT alone over-diagnoses colonization); fidaxomicin preferred for initial CDI (vancomycin if unavailable, no metronidazole); continue immunosuppression (no drug-class differential CDI risk); exclude CMV if no improvement at 48–72h; microbiome therapy (RBL/VOS/FMT) after ≥1 recurrence; OVP secondary prophylaxis; no probiotics
 - [[aga-2026-hcc-surveillance]] — AGA 2026 Clinical Practice Update: Risk Stratification and Emerging Surveillance Strategies for HCC — semiannual US+AFP preferred (sens 63% vs 51% US alone); survey Child-Pugh A/B cirrhosis + select non-cirrhotic HBV; GALAD/novel biomarkers not yet ready and MCD panels not for HCC; PAGE-B/REAL-B for non-cirrhotic HBV; consider harms; prevent cirrhosis
@@ -428,6 +436,13 @@ updated: 2026-06-22
 
 ### ASGE
 
+- [[asge-2016-pancreatic-fluid-collections]] — ASGE 2016: Endoscopy in Inflammatory Pancreatic Fluid Collections — 12 GRADE recs; exclude neoplasm/pseudoaneurysm + wait for wall maturation before drainage; drain symptomatic/enlarging pseudocysts, infected PFCs failing conservative tx, sterile necrosis >8 wk; EUS when no bulge/portal HTN; endoscopy-before-surgery for pseudocysts; WON step-up (net-new to ACG 2024 acute pancreatitis)
+- [[asge-2015-ercp-benign-biliary]] — ASGE 2015: Role of ERCP in Benign Diseases of the Biliary Tract — 10 GRADE recs; choledocholithiasis (EPLBD, cholangioscopy-guided lithotripsy), benign strictures (dilation+stent, FCSEMS), bile leaks (first-line ERCP), SOD (treat type I, not type III — EPISOD), congenital cysts; altered-anatomy access
+- [[asge-2010-pud]] — ASGE 2010: Endoscopy in Peptic Ulcer Disease — 12 GRADE recs; DU biopsy not routine, GU biopsy/surveillance individualized; early EGD + repeat therapy for bleeding ulcers; no scope in acute perforation; balloon dilation for benign gastric outlet obstruction
+- [[asge-2018-sedation]] — ASGE 2018: Sedation and Anesthesia in GI Endoscopy — 8 GRADE recommendations; sedation continuum, ASA class, propofol/MAC vs moderate sedation, capnography for deep sedation, reversal agents
+- [[asge-2015-antibiotic-prophylaxis]] — ASGE 2015: Antibiotic Prophylaxis for GI Endoscopy — 12 GRADE recommendations; not for IE prevention; prophylaxis for incomplete biliary drainage (ERCP), PEG/PEJ placement, EUS-FNA of cysts, cirrhosis + acute GI bleed
+- [[asge-2015-ampullary-duodenal-adenomas]] — ASGE 2015: Endoscopy in Ampullary and Duodenal Adenomas — side-viewing exam/biopsy, EUS/ERCP staging, endoscopic papillectomy, nonampullary duodenal EMR, FAP surveillance
+- [[asge-2017-subepithelial-lesions]] — ASGE 2017: Subepithelial Lesions of the GI Tract — EUS layer-based differential, tissue acquisition (FNA/FNB/SINK/unroofing), resection-vs-surveillance thresholds (net-new to ACG 2023)
 - [[asge-2025-gastrostomy-tubes]] — ASGE 2025: Gastrostomy Feeding Tubes — PEG indications/technique (pull vs introducer), periprocedural antibiotics, buried-bumper and other complication management, ethics of artificial nutrition
 - [[asge-2024-therapeutic-eus-biliary]] — ASGE 2024: Role of Therapeutic EUS in Biliary Tract Disorders — EUS-guided biliary drainage (choledochoduodenostomy/hepaticogastrostomy), rendezvous, and gallbladder drainage after failed ERCP
 - [[asge-2024-solid-pancreatic-masses]] — ASGE 2024: Role of Endoscopy in Solid Pancreatic Masses — EUS-FNB vs FNA, needle selection (fork-tip/Franseen), ROSE, diagnostic yield and adverse events
@@ -503,4 +518,4 @@ updated: 2026-06-22
 
 ---
 
-*Total: 184 sources | 105 disease scripts | 19 diagnostic schemas | 2 general procedures | 19 advanced procedures | 15 meds | 0 anatomy | 33 concepts | 1 synthesis (on-disk page counts as of 2026-06-27; index Sources section lists all 184 source pages)*
+*Total: 195 sources | 107 disease scripts | 19 diagnostic schemas | 2 general procedures | 19 advanced procedures | 15 meds | 0 anatomy | 35 concepts | 1 synthesis (on-disk page counts as of 2026-06-28; index Sources section lists all 195 source pages)*

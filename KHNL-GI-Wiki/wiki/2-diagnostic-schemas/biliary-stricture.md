@@ -3,7 +3,7 @@ title: "Biliary Stricture"
 category: diagnostic-schema
 tags: [biliary-stricture, ercp, eus, cholangioscopy, obstructive-jaundice, cholangiocarcinoma, hepatobiliary]
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-06-27
 sources:
   - "[[acg-2023-biliary-strictures]]"
   - "[[asge-2023-indeterminate-biliary-strictures]]"
@@ -272,7 +272,6 @@ The following features increase pre-test probability of malignancy and should pr
 - **Brush cytology or FISH positive** — treat as malignant until proven otherwise
 
 ## See Also
-
 
 [[chronic-pancreatitis]], [[acute-pancreatitis]], [[cholangiocarcinoma]], [[ercp]], [[endoscopic-ultrasound]], [[cholangioscopy]], [[brush-cytology]], [[fish]], [[confocal-laser-endomicroscopy]], [[primary-sclerosing-cholangitis]], [[liver-transplantation]], [[mri-mrcp]], [[tacrolimus]]
 

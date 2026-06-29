@@ -3,9 +3,10 @@ title: "Subepithelial Lesion (SEL)"
 category: diagnostic-schema
 tags: [subepithelial-lesion, gist, leiomyoma, carcinoid, net, lipoma, eus, endoscopy]
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-06-27
 sources:
   - "[[acg-2023-subepithelial-lesions]]"
+  - "[[asge-2017-subepithelial-lesions]]"
 ---
 
 # Subepithelial Lesion (SEL)
@@ -55,6 +56,23 @@ A **subepithelial lesion** is a mass or mass-like structure that projects into t
 | Mixed/heterogeneous with "pancreas-like" appearance | Pancreatic rest |
 | Hypoechoic, SM layer | Neuroendocrine tumor (carcinoid), granular cell tumor |
 
+### Entity-Specific EUS / IHC Features (ASGE 2017)
+
+| Lesion | EUS layer | EUS appearance | Distinguishing marker / clue |
+|---|---|---|---|
+| [[gastrointestinal-stromal-tumor\|GIST]] | 4th (rarely 2nd/3rd) | Hypoechoic; smooth round if low-risk | CD117+ (95%), DOG1+ (use when CD117−); spindle 70% / epithelioid 20% / mixed 10% |
+| Leiomyoma | 2nd, 3rd, or 4th | Hypoechoic, well-circumscribed; mostly esophageal | CD117−/CD34−, **desmin+ / SMA+** (separates from GIST) |
+| Granular cell tumor | 2nd or 3rd | Hypoechoic, heterogeneous; mostly esophageal "submucosal pill" | Schwann-cell origin, **S-100+**; malignancy rare (>4 cm) |
+| Glomus tumor | 3rd & 4th | Hypo-/hyperechoic, internal hyperechoic foci (calcification), prominent Doppler (hypervascular); usually antrum | Actin+/vimentin+, CD117−/chromogranin−/CEA−/NSE− |
+| Inflammatory fibroid polyp | 3rd or 4th | Hypo- to hyperechoic, indistinct margin, homogeneous; ulcerated overlying mucosa, 2–5 cm | Sessile solitary polyp |
+| Brunner's gland hyperplasia | 2nd & 3rd | Hyperechoic with anechoic areas (ducts), smooth margin | Duodenal bulb, usually single |
+| Lymphangioma | 3rd | Anechoic with internal septa | More common in intestine; easily compressed |
+| Varices | 3rd | Anechoic, serpiginous, **Doppler+** | Can occur in duodenum/rectum even without esophagogastric varices |
+| Metastasis | Any/all | Hypoechoic, heterogeneous | Stomach body/fundus, central depression; **endoscopic biopsy diagnostic >90%** (breast, lung, esophagus, RCC, melanoma) |
+| Lymphoma | 2nd, 3rd, or 4th | Hypoechoic | — |
+
+**Pillow sign caveat:** lipoma pillow sign is 98% specific (low sensitivity). **Duplication cyst:** anechoic, 3–5 layer wall ("duplication" of gut wall), submucosal or extrinsic — **avoid FNA when clearly anechoic** (infection risk); if FNA needed for a solid/hypoechoic component, use antibiotic prophylaxis.
+
 ---
 
 ## Diagnostic Algorithm
@@ -96,6 +114,20 @@ EUS imaging alone has only 43–50% diagnostic accuracy for solid nonlipomatous 
 - Requires vascular/extrinsic nature to be excluded by EUS first
 
 **No fixed lower size limit** for FNA/FNB attempts; manage small SEL case-by-case based on location, accessibility, clinical history, and resection feasibility.
+
+**Tissue-acquisition technique yields (ASGE 2017):**
+
+| Technique | Diagnostic yield | Notes |
+|---|---|---|
+| Standard pinch biopsy | Low | Rarely sufficient for SM/MP lesions |
+| Bite-on-bite (tunnel) biopsy | 30–40% | Deeper specimens through a mucosal defect |
+| Jumbo forceps biopsy | Higher for SM lesions | **Bleeding in 35.7%** (34.9% needed hemostasis); FNA trends higher for MP lesions |
+| Unroofing (needle-knife/snare/cap/band) | High | Significantly > forceps; may cause fibrosis complicating later resection |
+| Single-incision needle-knife (SINK) | 93% | 6–12 mm incision then forceps to deeper layers; can yield mitotic counts |
+| EUS-FNA (GIST) | 46–93% | Cannot reliably assess mitotic rate; accuracy plateaus after 4th pass |
+| EUS-FNB (22G core) | 75% vs FNA 20% | Salvages nondiagnostic FNA; preferred for immunohistochemistry |
+
+Stylet, suction, fanning, and ROSE have **unproven** incremental yield. Jumbo/partial-resection techniques risk **perilesional fibrosis** that complicates later endoscopic resection.
 
 ### Step 4 — Cross-Sectional Imaging (CT/MRI)
 
@@ -164,6 +196,21 @@ Presence of ≥2 of: irregular border, echogenic foci, cystic spaces → maligna
 | Any size | Nongastric (esophageal, small bowel, colorectal) | Resect |
 | Large (especially >5 cm) | Any | Consider neoadjuvant imatinib after tissue confirmation before surgical resection |
 
+**Malignant potential by size × mitotic rate (ASGE 2017 — metastasis/tumor-related mortality):**
+
+| Size | Mitotic rate | Gastric GIST | Small-intestine GIST |
+|---|---|---|---|
+| ≤2 cm | ≤5/50 HPF | ~0% | 0% |
+| ≤2 cm | >5/50 HPF | <4% | — |
+| >2–5 cm | ≤5/50 HPF | <4% | 2% |
+| >2–5 cm | >5/50 HPF | 16% | 73% |
+| >5–10 cm | ≤5/50 HPF | 12% | 25% |
+| >5–10 cm | >5/50 HPF | 55% | 85% |
+| >10 cm | ≤5/50 HPF | (>10 cm any) 12% | — |
+| >10 cm | >5/50 HPF | 86% | 50–90% |
+
+Small-intestine GISTs are **more aggressive** (40–50% malignant vs 20–25% gastric); non-gastric/non-small-bowel GISTs treated like small-intestine lesions. EUS-FNA cannot assess mitotic rate — final risk is from surgical pathology.
+
 ### Esophageal / GEJ MP-Layer SEL (GIST or Leiomyoma)
 
 - **STER** (submucosal tunneling endoscopic resection) or **thoracoscopic enucleation** — comparable en bloc resection rates
@@ -190,11 +237,44 @@ Presence of ≥2 of: irregular border, echogenic foci, cystic spaces → maligna
 - ≥20 mm: 73% metastatic risk → surgical evaluation
 - EUS for lymphadenopathy staging: not mandatory for small (<1 cm) incidental rectal NETs found at [[colonoscopy]] — primary excision often performed at time of discovery
 
+### Duodenal NETs
+
+- Managed like rectal carcinoids (no duodenal-specific guideline).
+- Nodal-metastasis risk by size: **2%** (<1 cm), **4.7%** (1–2 cm), **20%** (>2 cm).
+- Small (<1 cm) well-differentiated → endoscopic polypectomy/EMR.
+- Refer for surgery if angioinvasion, muscularis propria invasion, or grade 2/3 histology.
+
+### Jejunal / Ileal NETs
+
+- **Surgical resection recommended** — mid-gut metastatic disease is incurable.
+- Substantial relapse risk after resection → clinical follow-up **≥7 years** (except small, well-differentiated appendiceal NETs).
+
+### Granular Cell Tumor
+
+- Nerve-sheath (Schwann cell) tumor, mostly esophageal; **S-100+**; hypoechoic/homogeneous from mucosa/submucosa.
+- Generally benign; malignant transformation rare (>4 cm); only consensus malignancy criterion is metastasis.
+- Subcentimeter lesions safe to surveil; endoscopic resection (snare/[[polypectomy-emr|EMR]]/[[endoscopic-submucosal-dissection|ESD]]) may obviate surveillance.
+
+### Duplication Cyst
+
+- Congenital, GI-epithelium-lined; anechoic, 3–5 layer wall, submucosal or extrinsic.
+- **Avoid FNA when clearly anechoic** (infection risk); if a solid/hypoechoic component needs sampling, use antibiotic prophylaxis.
+- No surveillance data; resect only if symptomatic.
+
 ### Lipoma
 
 - No malignant potential
 - No resection or surveillance required
 - Symptomatic lipomas (bleeding, obstruction) may warrant endoscopic or surgical removal
+
+### Endoscopic Resection / Ligation Techniques (MP-layer and small SEL)
+
+| Technique | Indication | Performance / caveats |
+|---|---|---|
+| ESMR (ESMR-C cap, ESMR-L ligation) | Mucosal/submucosal lesions ≤20 mm | ESMR-L: band/endoloop then snare; bleeding up to 9%; **caution in duodenum and for MP lesions** (perforation/spillage) |
+| [[endoscopic-submucosal-dissection\|ESD]] | MP-layer lesions | Gastric MP ESD complete resection ~92%, perforation ~14% (managed endoscopically); limited for >5 cm (perforation up to 19%) |
+| STER (submucosal tunneling endoscopic resection) | MP lesions, esophagus/cardia | Mucosal incision ≥5 cm proximal; preserves mucosa; en bloc 78–100%; adverse events 9.4–33% |
+| EFTR (endoscopic full-thickness resection) | MP-infiltrating lesions, esp. GIST, up to ~4 cm | Requires secure defect closure; hybrid endoscopic-laparoscopic variant for small GISTs not needing lymphadenectomy |
 
 ---
 
@@ -208,3 +288,4 @@ Presence of ≥2 of: irregular border, echogenic foci, cystic spaces → maligna
 ## Sources
 
 1. [[acg-2023-subepithelial-lesions|ACG 2023: Diagnosis and Management of Gastrointestinal Subepithelial Lesions]]
+2. [[asge-2017-subepithelial-lesions|ASGE 2017: The Role of Endoscopy in Subepithelial Lesions of the GI Tract]]
