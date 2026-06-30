@@ -6,6 +6,50 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-06-29] lint | Link integrity + index reconciliation + stalest-page validation + stub expansion (scheduled pass)
+
+**Link integrity:** Whole-wiki broken-link scan (399 pages; basename resolution, excluding `![[embeds]]`, code spans, and fenced blocks) — **0 broken `[[links]]` in wiki content pages**. The only 3 unresolved targets (`[[esophageal-manometry]]`, `[[hrem]]`, `[[wiki-links]]`) appear solely in `log.md` historical entries / the log-format example — not in pages; no stubs created (per the guard against stubbing from documentation/example text).
+
+**Index reconciliation:** On-disk category counts verified against the index count-line — all exact: 198 sources, 107 disease scripts, 19 diagnostic schemas, 2 general procedures, 19 advanced procedures, 15 meds, 0 anatomy, 35 concepts, 1 synthesis. Count-line date bumped to 2026-06-29 (done in ingest).
+
+**Stalest-page validation:** Checked the next-stalest pages not covered by the 2026-06-28 pass (all `updated: 2026-05-15`):
+- `[[laryngopharyngeal-symptoms]]` — diagnostic-schema order correct, inline links present, `## See Also` + `## Sources` well-formed, not a stub, source resolves → no changes (date left as-is).
+- `[[antibiotic-prophylaxis-cirrhosis]]` — **stub expanded** (see below).
+
+**Stub expanded (1; from already-ingested source only):** `[[antibiotic-prophylaxis-cirrhosis]]` — removed the `*Stub*` marker and expanded using the already-ingested `[[aasld-2021-ascites-sbp-hrs]]` guideline (tier-1, supersedes the journal-club review for the agent/duration claims): added the SBP-primary-prophylaxis framing + acute-GI-hemorrhage indication, and corrected the agent guidance (**norfloxacin withdrawn from US market 2014 → ciprofloxacin 500 mg/day**; IV ceftriaxone during hemorrhage). Frontmatter `sources:` +`aasld-2021-ascites-sbp-hrs`, `## Sources` updated, index description updated, `updated: 2026-06-29`.
+
+**Hygiene flagged (not fixed — permission blocked):** 13 `.DS_Store` OS artifacts remain across the vault; sandbox-mount deletion returns "Operation not permitted" (unchanged from prior passes). `.gitignore` already lists `.DS_Store`, so they are untracked — user action needed to remove the working-copy files.
+
+**Stubs remaining (flagged for triage — not expanded this pass, token budget):** ~47 `*Stub*` pages remain. High-value candidates expandable from already-ingested sources for the next pass: `[[hereditary-pancreatitis]]`, `[[microscopic-colitis]]`, `[[acute-mesenteric-ischemia]]`, `[[obesity]]`, `[[poem]]`, `[[endoscopic-submucosal-dissection]]`, `[[antireflux-surgery]]`, and the bacterial-enteritis cluster (`[[salmonella-infection]]`, `[[campylobacter-infection]]`, `[[shigellosis]]`) likely covered by `[[acg-2016-acute-diarrhea]]`/`[[idsa-2017-infectious-diarrhea]]`. Cap is 1–2/pass.
+
+**Lectures available (gated — NOT auto-ingested):** 60 lecture/chalk-talk transcripts in `raw/GI Lectures+Chalk Talks/`. Per the lecture-gating rule these require explicit human selection by name and were not ingested on this unattended pass. The user should name which (if any) to ingest.
+
+---
+
+## [2026-06-29] ingest | 3 older ASGE Standards-of-Practice guidelines — FAP endoscopy, biliary neoplasia, benign pancreatic disease (scheduled ingest-and-lint pass)
+
+**Scope:** Scheduled `ingest-and-lint` run. Ingested 3 of the remaining uningested raw guidelines (all older ASGE Standards-of-Practice docs). Per source-priority rules, added **net-new, non-conflicting** detail only — did not overwrite claims from newer ACG/ASGE/NCCN guidelines already on the entity pages. Done serially (3 sources) to respect the token budget; remaining uningested ASGE technical reviews + 4 RCTs reported below for a future pass. Targeted 3 (not 4) because the highest-value gap-fillers with existing home pages were exhausted and the remainder are niche/superseded or need a new page.
+
+**Sources created:**
+- `[[asge-2020-fap]]` — Role of Endoscopy in Familial Adenomatous Polyposis Syndromes (Gastrointest Endosc 2020;91:963–982). 17 GRADE recs (verbatim).
+- `[[asge-2013-biliary-neoplasia]]` — Role of Endoscopy in the Evaluation and Treatment of Patients With Biliary Neoplasia (Gastrointest Endosc 2013;77:167–174). 7 GRADE recs (verbatim).
+- `[[asge-2015-benign-pancreatic-disease]]` — Role of Endoscopy in Benign Pancreatic Disease (Gastrointest Endosc 2015;82:203–214). 11 GRADE recs (verbatim).
+
+**Pages updated:**
+- `[[familial-adenomatous-polyposis]]` — added clinical-polyposis testing threshold (≥10/one exam, ≥20/lifetime); ASGE endoscopic upper-GI management (interval by most-affected organ, random+targeted biopsy for Spigelman staging, Spigelman score 7 ↔ duodenal HGD, resect gastric/duodenal polyps >1 cm + all antral polyps, ampullary exam with duodenoscope/cap-assisted gastroscope, biopsy ampulla only if mucosal abnormality, no routine chromoendoscopy/deep enteroscopy); pouch/ileoscopy 1–2 y + IRA sigmoidoscopy 6 mo–1 y; sulindac+erlotinib (71% duodenal-polyp reduction) + tertiary-center/trial chemoprevention. Frontmatter sources `acg-2015-hereditary-gi-cancer` → +`asge-2020-fap`.
+- `[[gallbladder-cancer]]` — added Gallbladder Polyps risk-stratification table (symptomatic or >10 mm → cholecystectomy; 6–10 mm no risk factors → US q12mo; any GBP in PSC → cholecystectomy); +`asge-2013-biliary-neoplasia`.
+- `[[acute-pancreatitis]]` — added Idiopathic/recurrent AP + SOD block (no diagnostic ERCP for a single episode; EUS for idiopathic AP >40 y; treat SOD type 1 / manometry-confirmed type 2; never scope type 3 — EPISOD-aligned; rectal indomethacin ± PD stent for PEP prophylaxis); +`asge-2015-benign-pancreatic-disease`.
+
+**Not duplicated (newer source governs):** `[[cholangiocarcinoma]]` — ASGE 2013's EUS/MRC/ERCP-tissue points already covered by newer `[[asge-2021-malignant-hilar-obstruction]]`/`[[asge-2023-indeterminate-biliary-strictures]]`/`[[nccn-2026-biliary-tract-cancers]]`; only the GBP-polyp content was net-new (→ gallbladder-cancer). `[[chronic-pancreatitis]]` — ASGE 2015's CP endotherapy (ERP dilation/stent, ESWL, PD-leak stenting, EUS/ePFT) already present from newer `[[asge-2024-chronic-pancreatitis-endoscopy]]`; no edit.
+
+**Index:** added 3 ASGE source entries; updated `[[familial-adenomatous-polyposis]]` (1→2 sources), `[[gallbladder-cancer]]` (1→2), `[[acute-pancreatitis]]` (2→3) descriptions; total source count 195 → 198; count-line date bumped to 2026-06-29.
+
+**Remaining uningested (reported, not ingested):**
+- *Older ASGE Standards-of-Practice guidelines:* ASGE 2011 EUS for Mediastinal Adenopathy, ASGE 2011 Endoscopy in Enteral Feeding (no feeding-tube/PEG home page yet — would need a new general-procedure page), ASGE 2014 Laboratory Testing Before Endoscopy, ASGE 2015 Bowel Preparation Before Colonoscopy (superseded by ACG/ASGE 2025), ASGE 2015 Endoscopy in Benign Pancreatic Disease (done), ASGE 2015 Premalignant/Malignant Conditions of the Stomach (superseded by ACG 2025 gastric premalignant), ASGE 2016 Antithrombotic Agents (superseded by ACG-CAG 2022), ASGE 2016 Solid Pancreatic Neoplasia (superseded by ASGE 2024), ASGE 2025 Bowel Preparation Quality, ASGE/USMSTF 2016 & 2017 (likely duplicates of already-ingested USMSTF versions).
+- *RCTs (tier-2, uningested):* WATERFALL (fluid resuscitation in AP), Constipation therapies on gastroparesis severity, Oral microbiome therapy for C. diff, Semaglutide for AUD. High-value candidates for the next pass.
+
+---
+
 ## [2026-06-28] ingest | 3 older ASGE procedural guidelines — PUD endoscopy, ERCP for benign biliary, inflammatory pancreatic fluid collections (scheduled ingest-and-lint pass)
 
 **Scope:** Scheduled `ingest-and-lint` run. Ingested 3 of the remaining uningested raw guidelines (all older ASGE Standards-of-Practice docs). Per source-priority rules, added **net-new, non-conflicting** procedural detail only — did not overwrite claims from newer ACG/ASGE guidelines already on the entity pages. Done serially (3 sources) to respect the token budget; remaining uningested ASGE technical reviews reported below for a future pass.

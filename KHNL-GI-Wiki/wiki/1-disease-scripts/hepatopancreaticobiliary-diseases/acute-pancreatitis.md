@@ -3,8 +3,8 @@ title: "Acute Pancreatitis"
 category: disease-script
 tags: [pancreatitis, acute-pancreatitis, hpb, gallstone-pancreatitis, necrotizing-pancreatitis, ercp, bisap, fluid-resuscitation, nutrition]
 created: 2026-05-07
-updated: 2026-06-28
-sources: [acg-2024-acute-pancreatitis, asge-2016-pancreatic-fluid-collections]
+updated: 2026-06-29
+sources: [acg-2024-acute-pancreatitis, asge-2016-pancreatic-fluid-collections, asge-2015-benign-pancreatic-disease]
 ---
 
 # Acute Pancreatitis
@@ -206,6 +206,14 @@ BISAP ≥3 = high risk for severe AP and mortality
 
 **ERCP with sphincterotomy** does not benefit AP without concurrent biliary obstruction or cholangitis — multiple RCTs.
 
+**Idiopathic / recurrent AP and SOD** [[asge-2015-benign-pancreatic-disease]]:
+
+- **Do NOT use diagnostic ERCP for a single episode of AP** (Moderate) — its diagnostic role does not justify the post-ERCP pancreatitis risk.
+- **[[endoscopic-ultrasound|EUS]] is the preferred next test for idiopathic AP in patients >40 y** when history, exam, labs, and CT/MRI are unrevealing (Low) — interrogates microlithiasis, periampullary lesions, and occult malignancy.
+- **Sphincter of Oddi dysfunction (SOD):** treat with biliary and/or pancreatic sphincterotomy in **type 1** SOD, or **type 2** confirmed by manometry (Moderate). For idiopathic acute recurrent pancreatitis with normal EUS/MRCP (suspected type 2 pancreatic SOD), ERCP with sphincter of Oddi manometry may be considered (Low).
+- **Do NOT use ERCP to evaluate type 3 SOD** (recurrent/chronic abdominal pain alone) (**High**) — no benefit and real harm (later confirmed by the EPISOD trial).
+- **Post-ERCP pancreatitis prophylaxis:** rectal indomethacin and/or pancreatic-duct stenting in high-risk patients (High); see [[asge-2023-post-ercp-pancreatitis]] for the current detailed algorithm.
+
 ### 6. Necrotizing Pancreatitis (Step-Up Approach)
 
 **Step-up approach** (preferred over primary surgery) [[acg-2024-acute-pancreatitis]]:
@@ -261,3 +269,4 @@ BISAP ≥3 = high risk for severe AP and mortality
 
 1. [[acg-2024-acute-pancreatitis|ACG Clinical Guideline: Management of Acute Pancreatitis (2024)]]
 2. [[asge-2016-pancreatic-fluid-collections|ASGE Guideline: The Role of Endoscopy in the Diagnosis and Treatment of Inflammatory Pancreatic Fluid Collections (2016)]]
+3. [[asge-2015-benign-pancreatic-disease|ASGE Guideline: The Role of Endoscopy in Benign Pancreatic Disease (2015)]]

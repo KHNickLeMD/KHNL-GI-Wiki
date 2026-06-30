@@ -3,8 +3,8 @@ title: "Familial Adenomatous Polyposis"
 category: disease-script
 tags: [fap, apc, afap, map, mutyh, hereditary-crc, polyposis, duodenal-adenoma, desmoid, spigelman, genetic-testing, colorectal-cancer]
 created: 2026-05-19
-updated: 2026-05-19
-sources: [acg-2015-hereditary-gi-cancer]
+updated: 2026-06-29
+sources: [acg-2015-hereditary-gi-cancer, asge-2020-fap]
 ---
 
 ## Assessment
@@ -18,6 +18,7 @@ Familial adenomatous polyposis (FAP) and its related syndromes — attenuated FA
 - Personal history of ≥10 cumulative colorectal adenomas
 - Family history of one of the adenomatous polyposis syndromes
 - Presence of FAP-type extracolonic manifestations: duodenal/ampullary adenomas, desmoid tumors (abdominal > peripheral), papillary thyroid cancer, CHRPE (congenital hypertrophy of the retinal pigment epithelium), epidermal cysts, osteomas (Gardner syndrome)
+- ASGE defines **clinical polyposis warranting testing** as **≥10 adenomas on a single endoscopy** *and* **≥20 adenomas over a lifetime**; suspected FAP relatives are tested at 10–12 y, suspected AFAP/MAP at 18–20 y [[asge-2020-fap]]
 
 **Germline testing**: APC gene sequencing + deletion/duplication analysis; if APC-negative and polyp count <100, test MUTYH (both alleles) [[acg-2015-hereditary-gi-cancer]].
 
@@ -119,6 +120,14 @@ Familial adenomatous polyposis (FAP) and its related syndromes — attenuated FA
 - Random gastric biopsies at each EGD; surgery reserved for high-grade dysplasia or cancer (Strong/VLow)
 - For AFAP and MAP, EGD surveillance with side-viewing instrument starting age 25–30, same Spigelman intervals as FAP
 
+**Endoscopic management of upper-GI polyposis** (ASGE 2020) [[asge-2020-fap]]:
+
+- Set the **upper-GI surveillance interval by the most severely affected organ** (stomach or duodenum)
+- Surveillance EGD should include **random + targeted biopsy sampling** to assess dysplasia and assign an accurate duodenal Spigelman stage; a **baseline Spigelman score of 7** is associated with later development of duodenal HGD
+- **Endoscopically resect gastric and duodenal polyps >1 cm** (dysplasia risk) and **resect all antral polyps** (predilection for gastric adenomas there)
+- **Examine the ampulla/periampullary region carefully with a duodenoscope or cap-assisted gastroscope**; biopsy the ampulla **only if there is an identifiable mucosal abnormality**, taking care to avoid the pancreatic orifice (pancreatitis risk)
+- Routine **chromoendoscopy is not recommended** during duodenal surveillance; routine **deep enteroscopy is not recommended** for small-bowel surveillance
+
 ### Extraintestinal Surveillance
 
 **Thyroid**:
@@ -145,6 +154,7 @@ Familial adenomatous polyposis (FAP) and its related syndromes — attenuated FA
 **Post-surgical surveillance**:
 
 - Yearly endoscopy of **rectum or ileal pouch** after colectomy with IRA or IPAA (Strong/Low)
+- ASGE intervals [[asge-2020-fap]]: **pouch endoscopy or ileoscopy every 1–2 years** (IPAA or ileostomy); **sigmoidoscopy every 6 months–1 year indefinitely** after IRA
 - Examination of ileostomy every **2 years** (Strong/Low)
 - Adenomas may develop in ileal pouch after IPAA; advanced dysplasia/cancer in the pouch is a real risk requiring lifelong surveillance
 - Pouch polyposis may be treated with polypectomy or chemoprevention with sulindac
@@ -196,6 +206,11 @@ Familial adenomatous polyposis (FAP) and its related syndromes — attenuated FA
 - Previously FDA-approved for FAP; **no longer available for this indication** in the United States due to cardiovascular safety concerns
 - Had more modest effect in colon than rectum but showed some efficacy for duodenal adenoma regression
 
+**Investigational / duodenal** [[asge-2020-fap]]:
+
+- Dual **COX + EGFR inhibition (sulindac 150 mg BID + erlotinib 75 mg daily)** reduced duodenal polyp burden by **71% at 6 months** in an RCT; erlotinib limited by acne-like rash. NSAIDs alone have minimal duodenal efficacy.
+- ASGE advises using chemopreventive agents **only within a tertiary hereditary-cancer center and/or clinical trials**; it remains unproven whether reducing polyp burden lowers overall cancer risk.
+
 ### Management of Extracolonic Manifestations
 
 **Duodenal/Ampullary disease**:
@@ -221,3 +236,4 @@ Familial adenomatous polyposis (FAP) and its related syndromes — attenuated FA
 ## Sources
 
 1. [[acg-2015-hereditary-gi-cancer|ACG 2015: Genetic Testing and Management of Hereditary Gastrointestinal Cancer Syndromes]]
+2. [[asge-2020-fap|ASGE Guideline: The Role of Endoscopy in Familial Adenomatous Polyposis Syndromes (2020)]]

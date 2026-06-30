@@ -29,9 +29,9 @@
   // ----------------------------- STYLES -----------------------------
   var CSS = "" +
     ".khnl-fb-bubble{position:fixed;right:20px;bottom:20px;width:52px;height:52px;border-radius:50%;" +
-      "background:#7a0019;color:#fff;border:none;cursor:pointer;font-size:26px;line-height:52px;font-weight:700;" +
-      "box-shadow:0 4px 14px rgba(0,0,0,.28);z-index:2147483000;transition:transform .12s ease}" +
-    ".khnl-fb-bubble:hover{transform:scale(1.06)}" +
+      "background:#2f6b3f;color:#fff;border:none;cursor:pointer;font-size:26px;line-height:52px;font-weight:700;" +
+      "box-shadow:0 4px 14px rgba(0,0,0,.28);z-index:2147483000;transition:transform .12s ease,opacity .15s ease,right .15s ease}" +
+    ".khnl-fb-bubble:hover{transform:scale(1.06);background:#3a824d}" +
     ".khnl-fb-overlay{position:fixed;inset:0;background:rgba(0,0,0,.45);z-index:2147483001;display:flex;" +
       "align-items:flex-end;justify-content:flex-end;padding:20px}" +
     ".khnl-fb-card{background:#fff;color:#1a1a1a;width:360px;max-width:calc(100vw - 40px);max-height:calc(100vh - 40px);" +
@@ -44,22 +44,29 @@
     ".khnl-fb-row input,.khnl-fb-row select,.khnl-fb-row textarea{width:100%;box-sizing:border-box;padding:8px 9px;" +
       "border:1px solid #ccc;border-radius:7px;font:inherit;background:#fff}" +
     ".khnl-fb-row textarea{resize:vertical;min-height:84px}" +
-    ".khnl-fb-row input:focus,.khnl-fb-row select:focus,.khnl-fb-row textarea:focus{outline:none;border-color:#7a0019;" +
-      "box-shadow:0 0 0 2px rgba(122,0,25,.15)}" +
+    ".khnl-fb-row input:focus,.khnl-fb-row select:focus,.khnl-fb-row textarea:focus{outline:none;border-color:#2f6b3f;" +
+      "box-shadow:0 0 0 2px rgba(47,107,63,.18)}" +
     ".khnl-fb-err{color:#b00020;font-size:11.5px;margin-top:3px;display:none}" +
     ".khnl-fb-field-bad input,.khnl-fb-field-bad select,.khnl-fb-field-bad textarea{border-color:#b00020}" +
     ".khnl-fb-field-bad .khnl-fb-err{display:block}" +
     ".khnl-fb-note{font-size:11px;color:#777;margin:2px 0 12px}" +
     ".khnl-fb-actions{display:flex;gap:8px;justify-content:flex-end;align-items:center;margin-top:6px}" +
     ".khnl-fb-btn{padding:8px 14px;border-radius:8px;border:none;cursor:pointer;font:inherit;font-weight:600}" +
-    ".khnl-fb-btn.primary{background:#7a0019;color:#fff}" +
+    ".khnl-fb-btn.primary{background:#2f6b3f;color:#fff}" +
+    ".khnl-fb-btn.primary:hover{background:#3a824d}" +
     ".khnl-fb-btn.primary[disabled]{opacity:.6;cursor:default}" +
     ".khnl-fb-btn.ghost{background:transparent;color:#555}" +
     ".khnl-fb-formerr{color:#b00020;font-size:12.5px;margin:8px 0 0;display:none}" +
     ".khnl-fb-ts{margin:4px 0 10px;min-height:65px}" +
     ".khnl-fb-done{text-align:center;padding:18px 4px}" +
     ".khnl-fb-done .ok{font-size:34px;color:#1a7f37;line-height:1}" +
-    ".khnl-fb-x{position:absolute;top:10px;right:12px;border:none;background:none;font-size:20px;cursor:pointer;color:#888}";
+    ".khnl-fb-x{position:absolute;top:10px;right:12px;border:none;background:none;font-size:20px;cursor:pointer;color:#888}" +
+    // Mobile: tuck the bubble partly off the right edge so it stays out of the
+    // way, but remains tappable. Tapping it (or touching it) slides it fully in.
+    "@media (max-width:768px){" +
+      ".khnl-fb-bubble{width:46px;height:46px;line-height:46px;font-size:22px;right:-20px;opacity:.55}" +
+      ".khnl-fb-bubble:hover,.khnl-fb-bubble:focus,.khnl-fb-bubble:active{right:14px;opacity:1;transform:none}" +
+    "}";
 
   // ----------------------------- HELPERS -----------------------------
   function el(html) { var t = document.createElement("template"); t.innerHTML = html.trim(); return t.content.firstChild; }
@@ -107,9 +114,20 @@
               '<select id="fb-type" name="type">' +
                 '<option value="bug">Bug fix</option>' +
                 '<option value="clinical">Clinical question / correction</option>' +
+                '<option value="feature">Feature request</option>' +
                 '<option value="other">Other</option>' +
               '</select>' +
               '<div class="khnl-fb-err">Please choose a type.</div></div>' +
+            '<div class="khnl-fb-row" id="r-loc"><label for="fb-loc">Location of the problem</label>' +
+              '<select id="fb-loc" name="location">' +
+                '<option value="current">Current Page</option>' +
+                '<option value="another">Another Page</option>' +
+                '<option value="every">Every Page</option>' +
+                '<option value="other">Other</option>' +
+              '</select>' +
+              '<input id="fb-loc-other" name="locationDetail" type="text" maxlength="480" ' +
+                'style="display:none;margin-top:7px" placeholder="Which page? (paste a link or describe it)">' +
+              '<div class="khnl-fb-err">Please specify the location.</div></div>' +
             '<div class="khnl-fb-row" id="r-name"><label for="fb-name">Your name</label>' +
               '<input id="fb-name" name="name" type="text" autocomplete="name" maxlength="120">' +
               '<div class="khnl-fb-err">Please enter your name.</div></div>' +
@@ -142,6 +160,21 @@
     overlay.addEventListener("mousedown", function (e) { if (e.target === overlay) closeForm(); });
     document.addEventListener("keydown", escClose);
     overlay.querySelector("form").addEventListener("submit", submit);
+
+    // Location field: show a free-text box for "Another Page" / "Other" only.
+    var locSel = overlay.querySelector("#fb-loc");
+    var locOther = overlay.querySelector("#fb-loc-other");
+    function syncLoc() {
+      var v = locSel.value;
+      var needsText = (v === "another" || v === "other");
+      locOther.style.display = needsText ? "block" : "none";
+      locOther.placeholder = v === "other"
+        ? "Please describe where"
+        : "Which page? (paste a link or describe it)";
+      if (!needsText) { locOther.value = ""; setBad("#r-loc", false); }
+    }
+    locSel.addEventListener("change", syncLoc);
+    syncLoc();
 
     // render Turnstile
     var tsBox = overlay.querySelector("#fb-ts");
@@ -182,6 +215,8 @@
     // DOM property, not the field named "name".
     var data = {
       type: overlay.querySelector("#fb-type").value,
+      location: overlay.querySelector("#fb-loc").value,
+      locationDetail: overlay.querySelector("#fb-loc-other").value.trim(),
       name: overlay.querySelector("#fb-name").value.trim(),
       email: overlay.querySelector("#fb-email").value.trim(),
       body: overlay.querySelector("#fb-body").value.trim(),
@@ -189,10 +224,20 @@
 
     // inline validation — keep input, mark fields
     var ok = true;
+    var locNeedsText = (data.location === "another" || data.location === "other");
+    setBad("#r-loc", locNeedsText && !data.locationDetail);
+    ok = ok && !(locNeedsText && !data.locationDetail);
     setBad("#r-name", !data.name); ok = ok && !!data.name;
     setBad("#r-email", !validEmail(data.email)); ok = ok && validEmail(data.email);
     setBad("#r-body", !data.body); ok = ok && !!data.body;
     if (!ok) return;
+
+    // Resolve a human-readable location string for the report.
+    var LOC_LABELS = { current: "Current Page", another: "Another Page", every: "Every Page", other: "Other" };
+    var locationLabel = LOC_LABELS[data.location] || data.location;
+    var locationValue = data.location === "current"
+      ? "Current Page (" + currentSlug() + ")"
+      : (locNeedsText ? locationLabel + ": " + data.locationDetail : locationLabel);
 
     // Turnstile token
     var token = "";
@@ -211,6 +256,9 @@
 
     var payload = {
       type: data.type,
+      location: locationValue,
+      locationKind: data.location,
+      locationDetail: data.locationDetail,
       name: data.name,
       contactEmail: data.email,
       body: data.body,

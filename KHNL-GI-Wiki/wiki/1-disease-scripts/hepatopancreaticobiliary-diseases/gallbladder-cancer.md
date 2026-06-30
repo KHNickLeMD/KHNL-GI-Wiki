@@ -3,8 +3,8 @@ title: "Gallbladder Cancer"
 category: disease-script
 tags: [gallbladder-cancer, biliary-tract-cancer, hpb, cholecystectomy, incidental-gallbladder-cancer, adenocarcinoma, nccn, oncology]
 created: 2026-06-18
-updated: 2026-06-18
-sources: [nccn-2026-biliary-tract-cancers]
+updated: 2026-06-29
+sources: [nccn-2026-biliary-tract-cancers, asge-2013-biliary-neoplasia]
 ---
 
 Gallbladder cancer is the most common biliary tract malignancy and typically an adenocarcinoma of the gallbladder wall. It is frequently **diagnosed incidentally** on pathology after cholecystectomy performed for presumed benign disease, and otherwise tends to present at an advanced stage with a poor prognosis. It is managed on a dedicated pathway within the [[nccn-2026-biliary-tract-cancers|NCCN Biliary Tract Cancers]] guideline alongside [[cholangiocarcinoma|intrahepatic and extrahepatic cholangiocarcinoma]].
@@ -27,6 +27,17 @@ Stage is driven by depth of tumor invasion (T stage, including whether tumor is 
 
 Multiphasic contrast CT/MRI for local staging and resectability; staging to exclude distant metastases. For unresectable or metastatic disease that is being considered for systemic therapy, **comprehensive molecular biomarker testing** is recommended (see Therapeutics).
 
+### Gallbladder Polyps (precursor risk stratification)
+
+Gallbladder polyps (GBPs) are found in ~4%–7% of the population; most are non-neoplastic, but **size is the key predictor of malignancy** (sessile shape and size ≥10 mm increase neoplastic risk). Transabdominal US is sensitive for detecting GBPs but inaccurate for typing them. Management per [[asge-2013-biliary-neoplasia]]:
+
+| Scenario | Recommendation |
+|---|---|
+| Symptomatic GBP | Cholecystectomy (Moderate) |
+| Asymptomatic GBP >10 mm | Cholecystectomy (Low) |
+| Asymptomatic GBP 6–10 mm, no other risk factors | US surveillance (~every 12 months) (Low) |
+| Any GBP in [[primary-sclerosing-cholangitis|PSC]] | Cholecystectomy (Moderate) |
+
 ## Therapeutics
 
 Per [[nccn-2026-biliary-tract-cancers]]:
@@ -46,3 +57,4 @@ Per [[nccn-2026-biliary-tract-cancers]]:
 ## Sources
 
 1. [[nccn-2026-biliary-tract-cancers|NCCN Clinical Practice Guidelines in Oncology: Biliary Tract Cancers (Version 1.2026)]]
+2. [[asge-2013-biliary-neoplasia|ASGE Guideline: The Role of Endoscopy in the Evaluation and Treatment of Patients With Biliary Neoplasia (2013)]]
