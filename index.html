@@ -3,6 +3,17 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!-- SPA clean-URL support: decode the redirect from 404.html (see 404.html). Must run before any other script. -->
+<script>
+  (function (l) {
+    if (l.search[1] === '/') {
+      var decoded = l.search.slice(1).split('&').map(function (s) {
+        return s.replace(/~and~/g, '&');
+      }).join('?');
+      window.history.replaceState(null, null, l.pathname.slice(0, -1) + decoded + l.hash);
+    }
+  }(window.location));
+</script>
 <title>KHNL GI Wiki</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -1455,46 +1466,66 @@ let currentView = null; // 'overview' | 'about' | 'howto' | 'index' | 'toc:KEY' 
 let graphSim = null;
 let isDark = localStorage.getItem(THEME_KEY) === 'dark';
 
-// ── Navigation history (browser-style back/forward) ──
-// backStack holds views we can go back to (oldest at index 0).
-// fwdStack holds views we can go forward to (most-recent at top).
-// A normal navigation pushes the *previous* view onto backStack and clears fwdStack.
-// goBack() pops backStack → routes there, and pushes the prior currentView onto fwdStack.
-// goForward() pops fwdStack → routes there, and pushes the prior currentView onto backStack.
-let backStack = [];
-let fwdStack  = [];
-let _navMode  = null; // null | 'back' | 'forward' — set while routing through history
-function pushHistory(view) {
-  if (_navMode) return; // suppress during back/forward routing
-  if (!view) return;
-  if (backStack.length && backStack[backStack.length - 1] === view) return;
-  backStack.push(view);
-  if (backStack.length > 200) backStack.shift();
-  fwdStack = []; // new branch clears the forward history
+// ── Navigation history (driven by the browser History API) ──
+// Each browser history entry stores { view, idx }. The `view` string is the
+// internal view id (e.g. 'overview', 'page:gerd', 'toc:1-disease-scripts').
+// `idx` is our position on the current history branch — the History API can't
+// tell us whether a "forward" entry exists, so we track it to enable/disable
+// the in-app back/forward buttons.
+let _pos = 0;              // our index in the current history branch
+let _max = 0;              // highest index reached on the current branch
+let _suppressPush = false; // true while routing in response to popstate / boot
+
+// '1-disease-scripts' → 'disease-scripts' (drop the numeric ordering prefix)
+function sectionKeyToSlug(key) { return (key || '').replace(/^\d+-/, ''); }
+function slugToSectionKey(slug) {
+  for (const k of Object.keys(SECTION_META)) {
+    if (sectionKeyToSlug(k) === slug) return k;
+  }
+  return null;
+}
+// Internal view id → clean URL path
+function viewToPath(view) {
+  let seg = '';
+  if (!view || view === 'overview')  seg = '';
+  else if (view === 'about')         seg = 'about';
+  else if (view === 'howto')         seg = 'how-to-use';
+  else if (view === 'graph')         seg = 'graph';
+  else if (view === 'index')         seg = 'all';
+  else if (view.startsWith('toc:'))  seg = sectionKeyToSlug(view.slice(4));
+  else if (view.startsWith('page:')) seg = view.slice(5);
+  return '/' + seg;
+}
+// Clean URL path → internal view id
+function pathToView(path) {
+  let s = (path || '').replace(/^\/+|\/+$/g, '');
+  try { s = decodeURIComponent(s); } catch (e) {}
+  s = s.toLowerCase();
+  if (!s)                 return 'overview';
+  if (s === 'about')      return 'about';
+  if (s === 'how-to-use') return 'howto';
+  if (s === 'graph')      return 'graph';
+  if (s === 'all' || s === 'index') return 'index';
+  const secKey = slugToSectionKey(s);
+  if (secKey)             return 'toc:' + secKey;
+  return 'page:' + s; // navigateTo() shows a "missing page" view if the slug is unknown
+}
+// Record a navigation in the browser history (called by every show* function).
+function recordNav(view) {
+  if (_suppressPush) return;     // we're already mid-route (popstate / boot)
+  if (currentView === view) return;
+  _pos += 1; _max = _pos;
+  history.pushState({ view: view, idx: _pos }, '', viewToPath(view));
   updateNavBtns();
 }
 function updateNavBtns() {
   const b = document.getElementById('back-btn');
   const f = document.getElementById('forward-btn');
-  if (b) b.disabled = backStack.length === 0;
-  if (f) f.disabled = fwdStack.length === 0;
+  if (b) b.disabled = _pos <= 0;
+  if (f) f.disabled = _pos >= _max;
 }
-function goBack() {
-  if (!backStack.length) return;
-  const target = backStack.pop();
-  if (currentView) fwdStack.push(currentView);
-  _navMode = 'back';
-  try { routeToView(target); } finally { _navMode = null; }
-  updateNavBtns();
-}
-function goForward() {
-  if (!fwdStack.length) return;
-  const target = fwdStack.pop();
-  if (currentView) backStack.push(currentView);
-  _navMode = 'forward';
-  try { routeToView(target); } finally { _navMode = null; }
-  updateNavBtns();
-}
+function goBack()    { history.back(); }
+function goForward() { history.forward(); }
 function routeToView(view) {
   if (!view) return;
   if (view === 'overview')      return showOverview();
@@ -1505,6 +1536,24 @@ function routeToView(view) {
   if (view.startsWith('toc:'))  return showTOC(view.slice(4));
   if (view.startsWith('page:')) return navigateTo(view.slice(5));
 }
+// Set the initial history entry and route to whatever URL we loaded on.
+function bootRoute() {
+  const view = pathToView(window.location.pathname);
+  _pos = 0; _max = 0;
+  history.replaceState({ view: view, idx: 0 }, '', viewToPath(view));
+  _suppressPush = true;
+  try { routeToView(view); } finally { _suppressPush = false; }
+  updateNavBtns();
+}
+// Browser back/forward (and our in-app buttons, which call history.back/forward).
+window.addEventListener('popstate', (e) => {
+  const st = e.state || {};
+  _pos = (typeof st.idx === 'number') ? st.idx : 0;
+  const view = st.view || pathToView(window.location.pathname);
+  _suppressPush = true;
+  try { routeToView(view); } finally { _suppressPush = false; }
+  updateNavBtns();
+});
 
 const CATS = {
   'disease-script':    { label: 'Disease Script',     dot: 'cat-disease-script' },
@@ -1729,7 +1778,7 @@ function renderUI() {
   showLoading(false);
   buildNavTree();
   updateStats();
-  showOverview();
+  bootRoute();
 }
 
 // ── NAV TREE ──
@@ -1863,6 +1912,21 @@ function buildNavTree() {
     sectionDiv.appendChild(body);
     tree.appendChild(sectionDiv);
   }
+
+  // ── Feedback / Contact Us (below all content sections) ──
+  const fbDivider = document.createElement('div');
+  fbDivider.className = 'nav-divider';
+  tree.appendChild(fbDivider);
+
+  const fbItem = document.createElement('div');
+  fbItem.className = 'nav-top-item';
+  fbItem.dataset.navKey = 'feedback';
+  fbItem.textContent = '💬 Feedback / Contact Us';
+  fbItem.onclick = () => {
+    if (window.innerWidth <= 768 && typeof closeSidebar === 'function') closeSidebar();
+    if (window.FEEDBACK && typeof window.FEEDBACK.open === 'function') window.FEEDBACK.open();
+  };
+  tree.appendChild(fbItem);
 }
 
 function makeDropdownItem(page, indent) {
@@ -1934,7 +1998,7 @@ function toggleA2HS() {
 
 // ── Home ──
 function showOverview() {
-  if (currentView !== 'overview') pushHistory(currentView);
+  recordNav('overview');
   hideAllViews();
   currentView = 'overview';
   updateActiveNav('overview');
@@ -2161,7 +2225,7 @@ function showAbout()     { _showReadmeView('about', 'About This Wiki'); }
 function showHowToUse()  { _showReadmeView('howto', '🧭 How to Use'); }
 
 function _showReadmeView(mode, crumb) {
-  if (currentView !== mode) pushHistory(currentView);
+  recordNav(mode);
   hideAllViews();
   currentView = mode;
   updateActiveNav(mode);
@@ -2217,7 +2281,7 @@ function _showReadmeView(mode, crumb) {
 
 // ── TOC ──
 function showIndex() {
-  if (currentView !== 'index') pushHistory(currentView);
+  recordNav('index');
   hideAllViews();
   currentView = 'index';
   updateActiveNav('index');
@@ -2313,7 +2377,7 @@ function _showIndexFallback(el) {
 // End _showIndexFallback
 
 function showTOC(secKey) {
-  if (currentView !== 'toc:' + secKey) pushHistory(currentView);
+  recordNav('toc:' + secKey);
   hideAllViews();
   currentView = 'toc:' + secKey;
   updateActiveNav('toc:' + secKey);
@@ -2489,7 +2553,7 @@ function navigateTo(slug) {
   }
   if (!page) { showMissingPage(slug); return; }
 
-  if (currentView !== 'page:' + slug) pushHistory(currentView);
+  recordNav('page:' + slug);
   hideAllViews();
   currentView = 'page:' + slug;
   updateActiveNav('page:' + slug);
@@ -3161,7 +3225,7 @@ let gState = {
 
 // ── Entry point ──────────────────────────────────────────
 function showGraphView() {
-  if (currentView !== 'graph') pushHistory(currentView);
+  recordNav('graph');
   hideAllViews();
   currentView = 'graph';
   updateActiveNav('graph');
