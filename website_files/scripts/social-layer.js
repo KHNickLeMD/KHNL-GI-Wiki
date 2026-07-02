@@ -1,10 +1,10 @@
 /*
- * KHNL GI Wiki — Social layer, Steps 4–8: signup, verification & login +
+ * KHNL GI Wiki — Social layer, Steps 4–9: signup, verification & login +
  * avatar bubble & account menu + bookmarks + reviewed-page tracking +
- * private in-context notes (durable, §4.3).
+ * private in-context notes (durable, §4.3) + friends (§4.5).
  * Plan: ACCOUNTS-SOCIAL-PLAN.md §2 (sessions), §4.1 (auth), §4.2 (avatar
- * bubble), §4.3 (notes), §4.7 (reviewed tracking), §4.8 (bookmarks),
- * §4.9 (resilience), §4.10 (error tracking), §7 Steps 4–8.
+ * bubble), §4.3 (notes), §4.5 (friends), §4.7 (reviewed tracking),
+ * §4.8 (bookmarks), §4.9 (resilience), §4.10 (error tracking), §7 Steps 4–9.
  *
  * Self-contained vanilla-JS drop-in, same style as feedback-widget.js. No
  * PocketBase SDK, no framework, no build step — raw fetch only. It injects its
@@ -44,7 +44,7 @@
   var CONFIG = {
     API_BASE: "https://api.khnicklemd.com",
     TURNSTILE_SITE_KEY: "0x4AAAAAADsnUhGCQy6CF38J", // public site key (same widget as feedback)
-    APP_VERSION: "step8-2026-07-02",
+    APP_VERSION: "step9-2026-07-02",
   };
 
   // ======================================================================
@@ -1470,6 +1470,155 @@
   }
 
   registerMenuItem("notes", openMyNotes);
+
+  // ================== §4.5 FRIENDS (Step 9) ==================
+  // Search users by username/display name, send/accept/decline/cancel requests,
+  // unfriend, block/unblock. All server-enforced: create = pending-only from
+  // the caller; update (accept/block) = recipient-only; delete = either party.
+  function userLabel(u) {
+    if (!u) return "(unknown)";
+    var name = u.displayName || u.username || "?";
+    return name + (u.username && u.displayName ? " (@" + u.username + ")" : "");
+  }
+
+  function frFetch() {
+    return api("/api/collections/friendships/records?perPage=500&skipTotal=1&expand=requester,recipient")
+      .then(function (j) { return j.items || []; });
+  }
+
+  function openFriends() {
+    if (overlay) return;
+    overlay = el(
+      '<div class="khnl-sl-overlay" role="dialog" aria-modal="true" aria-label="Friends">' +
+        '<div class="khnl-sl-card" style="width:460px">' +
+          '<button class="khnl-sl-x" aria-label="Close">&times;</button>' +
+          "<h3>Friends</h3>" +
+          '<p class="khnl-sl-sub">Find colleagues by username and share what you’ve reviewed (per your privacy settings).</p>' +
+          '<div class="khnl-sl-row" style="display:flex;gap:8px">' +
+            '<input id="fr-q" type="text" placeholder="Search username or name…" style="flex:1">' +
+            '<button type="button" class="khnl-sl-btn primary" id="fr-go" style="flex:none">Search</button>' +
+          "</div>" +
+          '<div id="khnl-fr-results"></div>' +
+          '<div class="khnl-sl-sep" style="margin:12px 0"></div>' +
+          '<div id="khnl-fr-lists"></div>' +
+        "</div>" +
+      "</div>"
+    );
+    document.body.appendChild(overlay);
+    overlay.querySelector(".khnl-sl-x").addEventListener("click", closeModal);
+    overlay.addEventListener("mousedown", function (e) { if (e.target === overlay) closeModal(); });
+    document.addEventListener("keydown", escClose);
+
+    var listsEl = overlay.querySelector("#khnl-fr-lists");
+    var resultsEl = overlay.querySelector("#khnl-fr-results");
+    var rows = []; // current friendship rows (shared with search rendering)
+
+    var listsView = withState(listsEl, function () {
+      return frFetch().then(function (r) { rows = r; return r; });
+    }, {
+      emptyMsg: "No friends or requests yet — search for a colleague above.",
+      render: function (host, all) {
+        var me = state.user.id;
+        function section(title, items, renderRow) {
+          if (!items.length) return;
+          host.appendChild(el('<div class="khnl-bm-grp">' + title + "</div>"));
+          items.forEach(function (f) { host.appendChild(renderRow(f)); });
+        }
+        function row(label, buttons) {
+          var r = el('<div class="khnl-bm-row"><span style="flex:1;min-width:0;overflow:hidden;text-overflow:ellipsis">' +
+            label.replace(/</g, "&lt;") + "</span></div>");
+          buttons.forEach(function (b) {
+            var btn = el('<button type="button" class="khnl-bm-act">' + b.label + "</button>");
+            btn.addEventListener("click", function () {
+              b.fn().then(function () { listsView.reload(); })
+                .catch(function () { alert("That didn’t work — please try again."); });
+            });
+            r.appendChild(btn);
+          });
+          return r;
+        }
+        var patch = function (f, body) { return function () {
+          return api("/api/collections/friendships/records/" + f.id, { method: "PATCH", body: body });
+        }; };
+        var del = function (f) { return function () {
+          return api("/api/collections/friendships/records/" + f.id, { method: "DELETE" });
+        }; };
+
+        var exp = function (f, who) { return (f.expand && f.expand[who]) || null; };
+        var incoming = all.filter(function (f) { return f.status === "pending" && f.recipient === me; });
+        var friends  = all.filter(function (f) { return f.status === "accepted"; });
+        // requester-side blocked rows render as still-pending (don't advertise the block);
+        // ponytail: display-level masking only — the status is visible in devtools
+        var outgoing = all.filter(function (f) { return f.requester === me && (f.status === "pending" || f.status === "blocked"); });
+        var blocked  = all.filter(function (f) { return f.status === "blocked" && f.recipient === me; });
+
+        section("Requests for you", incoming, function (f) {
+          return row(userLabel(exp(f, "requester")), [
+            { label: "Accept",  fn: patch(f, { status: "accepted" }) },
+            { label: "Decline", fn: del(f) },
+            { label: "Block",   fn: patch(f, { status: "blocked" }) },
+          ]);
+        });
+        section("Friends", friends, function (f) {
+          var other = f.requester === me ? exp(f, "recipient") : exp(f, "requester");
+          return row(userLabel(other), [{ label: "Unfriend", fn: del(f) }]);
+        });
+        section("Sent — waiting", outgoing, function (f) {
+          return row(userLabel(exp(f, "recipient")), [{ label: "Cancel", fn: del(f) }]);
+        });
+        section("Blocked", blocked, function (f) {
+          return row(userLabel(exp(f, "requester")), [{ label: "Unblock", fn: del(f) }]);
+        });
+      },
+    });
+
+    function doSearch() {
+      var q = overlay.querySelector("#fr-q").value.trim();
+      if (q.length < 2) { resultsEl.innerHTML = '<div class="khnl-state-empty">Type at least 2 characters.</div>'; return; }
+      var filter = encodeURIComponent("(username ~ '" + q.replace(/['"\\]/g, "") + "' || displayName ~ '" + q.replace(/['"\\]/g, "") + "')");
+      withState(resultsEl, function () {
+        return api("/api/collections/users/records?perPage=8&skipTotal=1&sort=username&filter=" + filter)
+          .then(function (j) {
+            return (j.items || []).filter(function (u) { return u.id !== state.user.id; });
+          });
+      }, {
+        emptyMsg: "No one found by that name.",
+        render: function (host, users) {
+          users.forEach(function (u) {
+            var existing = rows.filter(function (f) { return f.requester === u.id || f.recipient === u.id; })[0];
+            var stateLabel = existing
+              ? (existing.status === "accepted" ? "Friends ✓" : existing.status === "pending" ? "Requested" : "Blocked")
+              : "";
+            var r = el('<div class="khnl-bm-row"><span style="flex:1;min-width:0;overflow:hidden;text-overflow:ellipsis">' +
+              userLabel(u).replace(/</g, "&lt;") + "</span>" +
+              (stateLabel ? '<span class="khnl-bm-date">' + stateLabel + "</span>"
+                          : '<button type="button" class="khnl-bm-act">Add friend</button>') +
+              "</div>");
+            var addBtnEl = r.querySelector(".khnl-bm-act");
+            if (addBtnEl) addBtnEl.addEventListener("click", function () {
+              addBtnEl.disabled = true;
+              api("/api/collections/friendships/records", {
+                method: "POST",
+                body: { requester: state.user.id, recipient: u.id, status: "pending" },
+              }).then(function () {
+                addBtnEl.replaceWith(el('<span class="khnl-bm-date">Requested</span>'));
+                listsView.reload();
+              }).catch(function () {
+                addBtnEl.disabled = false;
+                alert(state.user.verified ? "Could not send the request — please try again."
+                                          : "Please verify your email first.");
+              });
+            });
+            host.appendChild(r);
+          });
+        },
+      });
+    }
+    overlay.querySelector("#fr-go").addEventListener("click", doSearch);
+    overlay.querySelector("#fr-q").addEventListener("keydown", function (e) { if (e.key === "Enter") doSearch(); });
+  }
+
+  registerMenuItem("friends", openFriends);
 
   // login/logout: drop the per-account caches and redo the page tools/marks
   auth.onChange(function () {
