@@ -120,7 +120,8 @@
   // ----------------------------- STYLES -----------------------------
   var CSS = "" +
     // top-right auth chip (placeholder position — Step 5 turns it into the avatar bubble)
-    ".khnl-sl-chip{position:fixed;top:14px;right:16px;z-index:2147482900;display:flex;align-items:center;gap:8px;" +
+    // height matches index.html's 48px #topbar so the button/bubble vertically center in it
+    ".khnl-sl-chip{position:fixed;top:0;right:16px;height:48px;z-index:2147482900;display:flex;align-items:center;gap:8px;" +
       "font:13px/1.3 -apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif}" +
     ".khnl-sl-signin{padding:7px 14px;border-radius:18px;border:none;cursor:pointer;font:inherit;font-weight:600;" +
       "background:#2f6b3f;color:#fff;box-shadow:0 2px 8px rgba(0,0,0,.22)}" +
