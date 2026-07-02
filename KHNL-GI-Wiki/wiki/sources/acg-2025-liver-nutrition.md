@@ -88,7 +88,7 @@ Key practical recommendations: small frequent meals + nighttime snack (7–10 PM
 
 ## Relevance to Wiki
 
-- Creates: `wiki/disease-scripts/hepatopancreaticobiliary-diseases/nutrition-in-liver-disease.md`
+- Creates: `wiki/disease-scripts/hepatology-diseases/nutrition-in-liver-disease.md`
 
 ## Contradictions / Open Questions
 

@@ -182,7 +182,7 @@ Surveillance intervals by cyst size (Figure 2):
 
 ## Relevance to Wiki
 
-- Creates new entity page: [[pancreatic-cysts]] (disease script in hepatopancreaticobiliary-diseases)
+- Creates new entity page: [[pancreatic-cysts]] (disease script in pancreaticobiliary-diseases)
 - Updates [[endoscopic-ultrasound]] — EUS-FNA role in cyst evaluation, antibiotic recommendations
 - Cross-links to [[acute-pancreatitis]], [[chronic-pancreatitis]] (pseudocyst etiology)
 - Cross-links to [[ercp]] — role limited to main duct IPMN evaluation only; no longer recommended for routine cyst diagnosis/surveillance
