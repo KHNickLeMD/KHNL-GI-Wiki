@@ -107,6 +107,18 @@ Each node represents one wiki page. Edges represent `[[wiki-links]]` — when a 
 
 The graph runs a continuous physics simulation — repulsion forces push nodes apart, link attraction pulls connected nodes together, and a center gravity keeps the layout visible. No external libraries are required.
 
+## Accounts, Notes & Bookmarks
+
+Create a free account (**Sign in**, top-right) to add a personal study layer on top of the wiki. You'll get a verification email — click the link, then sign in. Your account is represented by a customizable **avatar bubble** (top-right): click it for the account menu, or **Customize bubble…** to pick a color or photo.
+
+- **Private notes** — select any text in an article and click **✎ Add note** to pin a private note to that spot (a small ✎ marker appears there; click it to read or edit). Notes are **never lost**: if the wiki text you pinned changes, the note moves to a *"Notes on this page"* tray at the end of the article — and re-anchors automatically if the text returns. **My notes** in the account menu lists everything, with **.md / .json export**.
+- **Bookmarks** — click the ☆ star in a page's header to save it; organize with labels and folders under **Bookmarks** in the account menu.
+- **Reviewed tracking** — click the ✓ next to the star when you've finished studying a page. Reviewed pages show a green ✓ in the section lists, and **Reviewed pages** in the menu shows what you covered and when.
+- **Friends** — find colleagues by username under **Friends**, send a request, and once accepted you can see each other's reviewed pages, bookmarks, and any notes explicitly shared (per privacy settings).
+- **Privacy** — everything is private by default except to accepted friends, and each note is only shared if you tick *"Visible to friends"* on it. The **Privacy** menu controls profile/activity visibility and whether you appear in user search.
+- **Feedback & bug reports** — the **?** bubble (bottom-right) works with or without an account: report bugs, ask clinical questions, or suggest corrections. Please don't include patient-identifiable information.
+- **Your data is yours** — **Account & data** in the menu exports everything you've created as JSON, or deletes your account and all of its data permanently.
+
 ---
 
 *This wiki is generated with AI assistance using Claude and Obsidian. It represents synthesized clinical knowledge and is intended as a study and reference tool — not a substitute for clinical judgment or up-to-date guidelines.*

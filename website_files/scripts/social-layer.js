@@ -1,5 +1,5 @@
 /*
- * KHNL GI Wiki — Social layer, Steps 4–11: signup, verification & login +
+ * KHNL GI Wiki — Social layer, Steps 4–12: signup, verification & login +
  * avatar bubble & account menu + bookmarks + reviewed-page tracking +
  * private in-context notes (durable, §4.3) + friends (§4.5) + privacy (§4.6).
  * Plan: ACCOUNTS-SOCIAL-PLAN.md §2 (sessions), §4.1 (auth), §4.2 (avatar
@@ -44,7 +44,7 @@
   var CONFIG = {
     API_BASE: "https://api.khnicklemd.com",
     TURNSTILE_SITE_KEY: "0x4AAAAAADsnUhGCQy6CF38J", // public site key (same widget as feedback)
-    APP_VERSION: "step11-2026-07-02",
+    APP_VERSION: "step12-2026-07-02",
   };
 
   // ======================================================================
@@ -941,7 +941,7 @@
   document.addEventListener("khnl:nav", function (ev) {
     lastView = (ev.detail && ev.detail.view) || "";
     // defer: recordNav fires before index.html finishes building the page header
-    setTimeout(function () { renderPageTools(); decorateReviewed(); renderNotes(); }, 0);
+    setTimeout(function () { renderPageTools(); decorateReviewed(); renderNotes(); renderOverviewPlug(); }, 0);
   });
 
   function renderPageTools() {
@@ -1778,6 +1778,30 @@
   }
 
   registerMenuItem("account", openAccount);
+
+  // ================== §5 OVERVIEW HOME PLUG (Step 12) ==================
+  // Small callout card at the top of the Overview — logged-out visitors only
+  // (auto-removed once signed in).
+  function renderOverviewPlug() {
+    var old = document.getElementById("khnl-plug");
+    if (old) old.remove();
+    if (state.user || lastView !== "overview") return;
+    var host = document.getElementById("overview-view");
+    if (!host || host.style.display === "none") return;
+    var card = el(
+      '<div id="khnl-plug" style="margin:0 0 18px;padding:12px 16px;border:1px solid #cfe0cf;border-radius:10px;' +
+        'background:#f4f9f4;display:flex;align-items:center;gap:14px;flex-wrap:wrap;' +
+        'font:13.5px/1.45 -apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">' +
+        '<span style="flex:1;min-width:220px"><b>New:</b> sign in to add private notes, bookmark pages, ' +
+          "track what you’ve reviewed, and connect with colleagues.</span>" +
+        '<button type="button" class="khnl-sl-signin" style="flex:none">Sign in</button>' +
+      "</div>"
+    );
+    card.querySelector("button").addEventListener("click", function () { openAuth("signup"); });
+    host.insertBefore(card, host.firstChild);
+  }
+
+  auth.onChange(function () { renderOverviewPlug(); });
 
   // --- friend activity viewer (what the Step 10 rules unlock) ---------------
   function openFriendView(friendUser) {

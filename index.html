@@ -2722,7 +2722,9 @@ function showMissingPage(slug) {
     `<span class="bc-sep">›</span>` +
     `<span class="bc-item current">${slug}</span>`;
   document.getElementById('page-meta-top').innerHTML = '';
-  document.getElementById('page-body').innerHTML = `<div class="error-banner">This page (<code>${slug}</code>) doesn't exist in the wiki yet. Create it in Obsidian and it will appear after your next push to GitHub.</div>`;
+  document.getElementById('page-body').innerHTML =
+    `<div class="error-banner">Page not found — <code>${slug}</code> doesn't exist in the wiki (yet).</div>` +
+    `<p style="margin-top:14px">Try the search bar above, or head <a class="wiki-link" onclick="showOverview()" style="cursor:pointer">back to the Overview</a>.</p>`;
 }
 
 // ══════════════════════════════════════
