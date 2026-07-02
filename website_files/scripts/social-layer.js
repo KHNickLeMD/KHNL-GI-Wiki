@@ -1,9 +1,10 @@
 /*
- * KHNL GI Wiki — Social layer, Steps 4–7: signup, verification & login +
- * avatar bubble & account menu + bookmarks + reviewed-page tracking.
+ * KHNL GI Wiki — Social layer, Steps 4–8: signup, verification & login +
+ * avatar bubble & account menu + bookmarks + reviewed-page tracking +
+ * private in-context notes (durable, §4.3).
  * Plan: ACCOUNTS-SOCIAL-PLAN.md §2 (sessions), §4.1 (auth), §4.2 (avatar
- * bubble), §4.7 (reviewed tracking), §4.8 (bookmarks), §4.9 (resilience),
- * §4.10 (error tracking), §7 Steps 4–7.
+ * bubble), §4.3 (notes), §4.7 (reviewed tracking), §4.8 (bookmarks),
+ * §4.9 (resilience), §4.10 (error tracking), §7 Steps 4–8.
  *
  * Self-contained vanilla-JS drop-in, same style as feedback-widget.js. No
  * PocketBase SDK, no framework, no build step — raw fetch only. It injects its
@@ -43,7 +44,7 @@
   var CONFIG = {
     API_BASE: "https://api.khnicklemd.com",
     TURNSTILE_SITE_KEY: "0x4AAAAAADsnUhGCQy6CF38J", // public site key (same widget as feedback)
-    APP_VERSION: "step7-2026-07-02",
+    APP_VERSION: "step8-2026-07-02",
   };
 
   // ======================================================================
@@ -225,7 +226,24 @@
     ".khnl-rv.on{color:#1a7f37}" +
     ".khnl-rv[disabled]{opacity:.5;cursor:default}" +
     ".khnl-rv-mark{color:#1a7f37;font-weight:700;margin-left:6px;font-size:12px}" +
-    ".khnl-bm-date{color:#888;font-size:11.5px;flex:none}";
+    ".khnl-bm-date{color:#888;font-size:11.5px;flex:none}" +
+    // Step 8 — private notes: selection affordance, inline markers, orphan tray
+    ".khnl-note-add{position:absolute;z-index:2147482902;padding:4px 10px;border-radius:14px;border:none;cursor:pointer;" +
+      "font:12px/1.3 -apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;font-weight:600;" +
+      "background:#2f6b3f;color:#fff;box-shadow:0 2px 8px rgba(0,0,0,.3)}" +
+    ".khnl-note-mark{cursor:pointer;color:#b3541e;font-size:11px;margin-left:2px;user-select:none}" +
+    ".khnl-note-mark:hover{text-decoration:underline}" +
+    ".khnl-note-tray{margin:26px 0 8px;padding:12px 14px;border:1px dashed #c9a227;border-radius:10px;background:#fffdf2;" +
+      "font-size:13.5px}" +
+    ".khnl-note-tray h4{margin:0 0 6px;font-size:13px;color:#7a5c00}" +
+    ".khnl-note-quote{display:block;border-left:3px solid #ddd;padding:2px 8px;margin:4px 0;color:#666;font-size:12.5px;" +
+      "font-style:italic;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}" +
+    ".khnl-note-body{white-space:pre-wrap}" +
+    ".khnl-note-row{padding:7px 0;border-bottom:1px solid #f0e8cc}" +
+    ".khnl-note-row:last-child{border-bottom:none}" +
+    ".khnl-note-acts{margin-top:3px}" +
+    ".khnl-note-acts button{border:none;background:none;cursor:pointer;color:#888;font-size:12px;padding:0 8px 0 0}" +
+    ".khnl-note-acts button:hover{color:#1a1a1a}";
 
   // ----------------------------- HELPERS -----------------------------
   function el(html) { var t = document.createElement("template"); t.innerHTML = html.trim(); return t.content.firstChild; }
@@ -922,7 +940,7 @@
   document.addEventListener("khnl:nav", function (ev) {
     lastView = (ev.detail && ev.detail.view) || "";
     // defer: recordNav fires before index.html finishes building the page header
-    setTimeout(function () { renderPageTools(); decorateReviewed(); }, 0);
+    setTimeout(function () { renderPageTools(); decorateReviewed(); renderNotes(); }, 0);
   });
 
   function renderPageTools() {
@@ -1137,8 +1155,327 @@
 
   registerMenuItem("reviewed", openReviewed);
 
+  // ================== §4.3 PRIVATE NOTES (Step 8) ==================
+  // Select text in an article -> floating "Add note" -> modal editor. Notes
+  // re-anchor by exact text match on every page render; a note whose anchor
+  // text no longer exists demotes to the "Notes on this page" tray at the
+  // bottom of the article — never deleted (§4.3 durability rule).
+  var ntCache = null, ntPromise = null; // array of note records (all pages)
+  function ntInvalidate() { ntCache = null; ntPromise = null; }
+  function ntAll() {
+    if (ntCache) return Promise.resolve(ntCache);
+    if (!ntPromise) {
+      // ponytail: one 500-row list per login; paginate if a user ever outgrows it
+      ntPromise = api("/api/collections/private_notes/records?perPage=500&skipTotal=1&sort=-created")
+        .then(function (j) { ntCache = j.items || []; return ntCache; })
+        .catch(function (err) { ntPromise = null; throw err; });
+    }
+    return ntPromise;
+  }
+
+  function articleEl() { return document.getElementById("page-body"); }
+  function currentPageSlug() { return lastView.indexOf("page:") === 0 ? lastView.slice(5).toLowerCase() : ""; }
+  function currentPageTitle() {
+    return ((document.getElementById("page-title") || {}).textContent || currentPageSlug()).trim();
+  }
+  function normWs(s) { return (s || "").replace(/\s+/g, " ").trim(); }
+
+  // --- text anchoring: find `needle` in the article's text nodes ------------
+  // Returns {node, offset} of the match END, or null. Whitespace-insensitive:
+  // both sides are compared with runs of whitespace collapsed to one space.
+  function findAnchor(root, needle) {
+    needle = normWs(needle);
+    if (!needle) return null;
+    var walker = document.createTreeWalker(root, NodeFilter.SHOW_TEXT, null);
+    var nodes = [], text = "", map = []; // map[i] = {node, rawOffset} per built char
+    var n;
+    while ((n = walker.nextNode())) nodes.push(n);
+    var lastWasSpace = true;
+    for (var i = 0; i < nodes.length; i++) {
+      var raw = nodes[i].nodeValue || "";
+      for (var j = 0; j < raw.length; j++) {
+        var ch = raw.charAt(j);
+        if (/\s/.test(ch)) {
+          if (lastWasSpace) continue;
+          text += " "; map.push({ node: nodes[i], offset: j });
+          lastWasSpace = true;
+        } else {
+          text += ch; map.push({ node: nodes[i], offset: j });
+          lastWasSpace = false;
+        }
+      }
+    }
+    var idx = text.indexOf(needle);
+    if (idx === -1) return null;
+    var end = map[idx + needle.length - 1];
+    return { node: end.node, offset: end.offset + 1 };
+  }
+
+  function clearNoteUi() {
+    var area = document.getElementById("content-area") || document.body;
+    var olds = area.querySelectorAll(".khnl-note-mark, .khnl-note-tray");
+    for (var i = 0; i < olds.length; i++) olds[i].remove();
+    hideAddBtn();
+  }
+
+  function renderNotes() {
+    clearNoteUi();
+    var slug = currentPageSlug();
+    var root = articleEl();
+    if (!state.user || !slug || !root) return;
+    ntAll().then(function (all) {
+      var mine = all.filter(function (r) { return r.pageSlug === slug; });
+      if (!mine.length) return;
+      var orphans = [];
+      mine.forEach(function (note) {
+        var hit = note.anchorText ? findAnchor(root, note.anchorText) : null;
+        if (hit) {
+          var after = hit.node.splitText(hit.offset);
+          var mark = el('<sup class="khnl-note-mark" title="Your note — click to open">✎</sup>');
+          after.parentNode.insertBefore(mark, after);
+          mark.addEventListener("click", function () { openNoteEditor(note); });
+        } else {
+          orphans.push(note);
+        }
+        // keep the stored orphan flag in sync (silent, only on change)
+        if (!!note.orphaned !== !hit) {
+          api("/api/collections/private_notes/records/" + note.id, {
+            method: "PATCH", body: { orphaned: !hit },
+          }).then(function () { note.orphaned = !hit; }).catch(function () {});
+        }
+      });
+      if (orphans.length) {
+        var tray = el('<div class="khnl-note-tray"><h4>📌 Notes on this page (the text they were pinned to has changed)</h4></div>');
+        orphans.forEach(function (note) { tray.appendChild(noteRow(note)); });
+        root.appendChild(tray);
+      }
+    }).catch(function () {});
+  }
+
+  function noteRow(note) {
+    var row = el(
+      '<div class="khnl-note-row">' +
+        (note.anchorText ? '<span class="khnl-note-quote">“' + note.anchorText.replace(/</g, "&lt;") + '”</span>' : "") +
+        '<div class="khnl-note-body">' + note.body.replace(/</g, "&lt;") + "</div>" +
+        '<div class="khnl-note-acts"><button type="button" data-a="edit">Edit</button>' +
+        '<button type="button" data-a="del">Delete</button></div>' +
+      "</div>"
+    );
+    row.querySelector('[data-a="edit"]').addEventListener("click", function () { openNoteEditor(note); });
+    row.querySelector('[data-a="del"]').addEventListener("click", function () {
+      if (!confirm("Delete this note?")) return;
+      api("/api/collections/private_notes/records/" + note.id, { method: "DELETE" })
+        .then(function () { ntInvalidate(); renderNotes(); if (overlay) { closeModal(); openMyNotes(); } })
+        .catch(function () { alert("Could not delete — please try again."); });
+    });
+    return row;
+  }
+
+  // --- floating "Add note" affordance on text selection ---------------------
+  var addBtn = null;
+  function hideAddBtn() { if (addBtn) { addBtn.remove(); addBtn = null; } }
+  document.addEventListener("mouseup", function (ev) {
+    if (addBtn && addBtn.contains(ev.target)) return;
+    setTimeout(function () { // let the selection settle
+      hideAddBtn();
+      var root = articleEl();
+      if (!state.user || !currentPageSlug() || !root || overlay) return;
+      var sel = window.getSelection();
+      if (!sel || sel.isCollapsed || !sel.rangeCount) return;
+      var range = sel.getRangeAt(0);
+      if (!root.contains(range.commonAncestorContainer)) return;
+      var quote = normWs(sel.toString());
+      if (quote.length < 3) return;
+      var rect = range.getBoundingClientRect();
+      addBtn = el('<button type="button" class="khnl-note-add">✎ Add note</button>');
+      addBtn.style.left = Math.max(8, window.scrollX + rect.left) + "px";
+      addBtn.style.top = (window.scrollY + rect.bottom + 6) + "px";
+      document.body.appendChild(addBtn);
+      addBtn.addEventListener("click", function () {
+        var heading = nearestHeading(range);
+        hideAddBtn();
+        openNoteEditor({
+          pageSlug: currentPageSlug(),
+          pageTitle: currentPageTitle(),
+          anchorText: quote.slice(0, 500),
+          anchorHeading: heading,
+          body: "",
+        });
+      });
+    }, 0);
+  });
+  document.addEventListener("mousedown", function (ev) {
+    if (addBtn && !addBtn.contains(ev.target)) hideAddBtn();
+  });
+
+  function nearestHeading(range) {
+    var root = articleEl();
+    if (!root) return "";
+    var heads = root.querySelectorAll("h1,h2,h3,h4,h5,h6");
+    var best = "";
+    for (var i = 0; i < heads.length; i++) {
+      // heading before the selection start = candidate; last one wins
+      if (heads[i].compareDocumentPosition(range.startContainer) & Node.DOCUMENT_POSITION_FOLLOWING) {
+        best = normWs(heads[i].textContent).slice(0, 200);
+      }
+    }
+    return best;
+  }
+
+  // --- note editor modal (create + edit + delete) ---------------------------
+  function openNoteEditor(note) {
+    if (overlay) closeModal();
+    var isNew = !note.id;
+    overlay = el(
+      '<div class="khnl-sl-overlay" role="dialog" aria-modal="true" aria-label="Note">' +
+        '<div class="khnl-sl-card" style="width:440px">' +
+          '<button class="khnl-sl-x" aria-label="Close">&times;</button>' +
+          "<h3>" + (isNew ? "Add a note" : "Your note") + "</h3>" +
+          (note.anchorText
+            ? '<span class="khnl-note-quote" style="white-space:normal">“' + note.anchorText.replace(/</g, "&lt;") + '”</span>'
+            : "") +
+          '<div class="khnl-sl-row" id="r-ntbody" style="margin-top:10px">' +
+            '<textarea id="nt-body" rows="5" style="width:100%;box-sizing:border-box;padding:8px 9px;' +
+              'border:1px solid #ccc;border-radius:7px;font:inherit"></textarea>' +
+            '<div class="khnl-sl-err">Please write the note first.</div></div>' +
+          '<p class="khnl-sl-formerr" id="nt-formerr"></p>' +
+          '<div class="khnl-sl-actions">' +
+            (isNew ? "" : '<button type="button" class="khnl-sl-btn ghost" id="nt-del" style="margin-right:auto;color:#b00020">Delete</button>') +
+            '<button type="button" class="khnl-sl-btn ghost" id="nt-cancel">Cancel</button>' +
+            '<button type="button" class="khnl-sl-btn primary" id="nt-save">Save</button>' +
+          "</div>" +
+        "</div>" +
+      "</div>"
+    );
+    document.body.appendChild(overlay);
+    overlay.querySelector(".khnl-sl-x").addEventListener("click", closeModal);
+    overlay.querySelector("#nt-cancel").addEventListener("click", closeModal);
+    overlay.addEventListener("mousedown", function (e) { if (e.target === overlay) closeModal(); });
+    document.addEventListener("keydown", escClose);
+
+    var ta = overlay.querySelector("#nt-body");
+    ta.value = note.body || "";
+    ta.focus();
+
+    var del = overlay.querySelector("#nt-del");
+    if (del) del.addEventListener("click", function () {
+      if (!confirm("Delete this note?")) return;
+      api("/api/collections/private_notes/records/" + note.id, { method: "DELETE" })
+        .then(function () { ntInvalidate(); closeModal(); renderNotes(); })
+        .catch(function () { alert("Could not delete — please try again."); });
+    });
+
+    overlay.querySelector("#nt-save").addEventListener("click", function () {
+      var body = ta.value.trim();
+      setBad("#r-ntbody", !body);
+      if (!body) return;
+      var btn = overlay.querySelector("#nt-save");
+      busy(btn, true, "Save");
+      var req = isNew
+        ? api("/api/collections/private_notes/records", {
+            method: "POST",
+            body: {
+              user: state.user.id,
+              pageSlug: note.pageSlug,
+              pageTitle: note.pageTitle || "",
+              anchorText: note.anchorText || "",
+              anchorHeading: note.anchorHeading || "",
+              body: body.slice(0, 10000),
+            },
+          })
+        : api("/api/collections/private_notes/records/" + note.id, {
+            method: "PATCH", body: { body: body.slice(0, 10000) },
+          });
+      req.then(function () { ntInvalidate(); closeModal(); renderNotes(); })
+        .catch(function (err) {
+          busy(btn, false, "Save");
+          var fe = overlay.querySelector("#nt-formerr");
+          fe.textContent = state.user && !state.user.verified
+            ? "Please verify your email first — check your inbox for the link."
+            : ((err && err.message) || "Could not save — please try again.");
+          fe.style.display = "block";
+        });
+    });
+  }
+
+  // --- "My notes" panel + export (§4.3) --------------------------------------
+  function download(filename, mime, content) {
+    var a = document.createElement("a");
+    a.href = URL.createObjectURL(new Blob([content], { type: mime }));
+    a.download = filename;
+    a.click();
+    setTimeout(function () { URL.revokeObjectURL(a.href); }, 5000);
+  }
+
+  function notesToMarkdown(all) {
+    var byPage = {};
+    all.forEach(function (r) { (byPage[r.pageSlug] = byPage[r.pageSlug] || []).push(r); });
+    var out = "# My GI Wiki notes\n\nExported " + new Date().toISOString().slice(0, 10) + "\n";
+    Object.keys(byPage).sort().forEach(function (slug) {
+      out += "\n## " + (byPage[slug][0].pageTitle || slug) + " (`" + slug + "`)\n";
+      byPage[slug].forEach(function (r) {
+        if (r.anchorText) out += "\n> " + r.anchorText + "\n";
+        out += "\n" + r.body + "\n";
+        out += "\n*" + (r.created || "").slice(0, 10) + (r.orphaned ? " — unanchored" : "") + "*\n";
+      });
+    });
+    return out;
+  }
+
+  function openMyNotes() {
+    if (overlay) return;
+    overlay = el(
+      '<div class="khnl-sl-overlay" role="dialog" aria-modal="true" aria-label="My notes">' +
+        '<div class="khnl-sl-card" style="width:460px">' +
+          '<button class="khnl-sl-x" aria-label="Close">&times;</button>' +
+          "<h3>My notes</h3>" +
+          '<p class="khnl-sl-sub">Grouped by page. ' +
+            '<button type="button" class="khnl-sl-link" id="nt-exmd">Download .md</button> · ' +
+            '<button type="button" class="khnl-sl-link" id="nt-exjson">Download .json</button></p>' +
+          '<div id="khnl-nt-list"></div>' +
+        "</div>" +
+      "</div>"
+    );
+    document.body.appendChild(overlay);
+    overlay.querySelector(".khnl-sl-x").addEventListener("click", closeModal);
+    overlay.addEventListener("mousedown", function (e) { if (e.target === overlay) closeModal(); });
+    document.addEventListener("keydown", escClose);
+    overlay.querySelector("#nt-exmd").addEventListener("click", function () {
+      ntAll().then(function (all) { download("gi-wiki-notes.md", "text/markdown", notesToMarkdown(all)); });
+    });
+    overlay.querySelector("#nt-exjson").addEventListener("click", function () {
+      ntAll().then(function (all) { download("gi-wiki-notes.json", "application/json", JSON.stringify(all, null, 2)); });
+    });
+
+    var listEl = overlay.querySelector("#khnl-nt-list");
+    withState(listEl, function () {
+      ntInvalidate();
+      return ntAll();
+    }, {
+      emptyMsg: "No notes yet — select text on any page and click “✎ Add note”.",
+      render: function (host, rows) {
+        var byPage = {};
+        rows.forEach(function (r) { (byPage[r.pageSlug] = byPage[r.pageSlug] || []).push(r); });
+        Object.keys(byPage).sort().forEach(function (slug) {
+          var grp = el('<div class="khnl-bm-grp"></div>');
+          var link = el('<button type="button" class="khnl-bm-title" style="font-weight:700">' +
+            (byPage[slug][0].pageTitle || slug).replace(/</g, "&lt;") + "</button>");
+          link.addEventListener("click", function () { goToPage(slug); });
+          grp.appendChild(link);
+          host.appendChild(grp);
+          byPage[slug].forEach(function (note) { host.appendChild(noteRow(note)); });
+        });
+      },
+    });
+  }
+
+  registerMenuItem("notes", openMyNotes);
+
   // login/logout: drop the per-account caches and redo the page tools/marks
-  auth.onChange(function () { bm.invalidate(); rv.invalidate(); renderPageTools(); decorateReviewed(); });
+  auth.onChange(function () {
+    bm.invalidate(); rv.invalidate(); ntInvalidate();
+    renderPageTools(); decorateReviewed(); renderNotes();
+  });
 
   // ----------------------------- BOOT -----------------------------
   function boot() {
