@@ -389,7 +389,8 @@
   #topbar {
     background: var(--surface);
     border-bottom: 1px solid var(--border);
-    padding: 0 28px;
+    /* right padding reserves the fixed sign-in button / avatar bubble's corner */
+    padding: 0 108px 0 28px;
     height: 48px;
     display: flex;
     align-items: center;
@@ -1342,6 +1343,9 @@
       <!-- Tooltip -->
       <div id="graph-tooltip" style="position:absolute;display:none;background:#2a2a2a;border:1px solid #444;border-radius:7px;padding:8px 12px;font-size:12px;color:#e0e0e0;box-shadow:0 4px 16px rgba(0,0,0,0.5);pointer-events:none;max-width:240px;z-index:20;"></div>
 
+      <!-- Color legend: which color means which page type -->
+      <div id="graph-legend" style="position:absolute;left:12px;bottom:12px;max-width:300px;display:flex;flex-wrap:wrap;background:rgba(26,26,26,0.92);border:1px solid #3a3a3a;border-radius:8px;padding:7px 10px;font-size:10.5px;color:#bbb;z-index:15;line-height:1.6;pointer-events:none;"></div>
+
       <!-- Settings panel toggle -->
       <button id="graph-settings-btn" onclick="toggleGraphSettings()" title="Graph settings" style="position:absolute;top:12px;right:12px;width:32px;height:32px;border-radius:6px;border:1px solid #444;background:#2a2a2a;color:#ccc;font-size:16px;cursor:pointer;display:flex;align-items:center;justify-content:center;z-index:15;">⚙</button>
 
@@ -1387,7 +1391,7 @@
             </div>
             <div class="gsp-slider-row">
               <span>Link thickness</span>
-              <input type="range" id="gsp-link-thickness" min="0.5" max="5" step="0.1" value="1" oninput="gspOnLinkThick()">
+              <input type="range" id="gsp-link-thickness" min="0.5" max="5" step="0.1" value="0.5" oninput="gspOnLinkThick()">
             </div>
             <button id="gsp-animate-btn" onclick="graphToggleAnimate()" style="width:100%;padding:8px;background:#7c3aed;border:none;border-radius:6px;color:white;font-size:13px;cursor:pointer;font-weight:500;margin-top:6px;">Animate</button>
           </div>
@@ -2160,7 +2164,7 @@ function showOverview() {
 
       <div class="home-cards">
         <div class="home-card">
-          <h3>Recently updated wikis <span class="hc-col-label" style="margin-left:auto;width:80px;text-align:right;white-space:nowrap;">Last Updated</span></h3>
+          <h3>Recently updated <span class="hc-col-label" style="margin-left:auto;width:80px;text-align:right;white-space:nowrap;">Last Updated</span></h3>
           <ul class="home-card-list" id="pg-pages-list">${renderPageItems(recentPages, 0)}</ul>
           ${paginationBar('pages', 0, recentPages.length, PAGE_SIZE)}
         </div>
@@ -3149,8 +3153,9 @@ function positionTocBtn() {
   if (onPage && r && r.width > 0 && !document.body.classList.contains('toc-collapsed')) {
     btn.style.left = (r.left + 6) + 'px';            // just right of the rail's divider
     btn.style.right = 'auto';
-    // Reserve the rail column so the title/"Updated" stop at the divider, never under the button.
-    topbar.style.paddingRight = (window.innerWidth - r.left + 10) + 'px';
+    // Reserve the rail column so the title/"Updated" stop at the divider, never under the button
+    // (never less than the avatar-bubble corner reserve in the base CSS).
+    topbar.style.paddingRight = Math.max(window.innerWidth - r.left + 10, 108) + 'px';
   } else {
     btn.style.left = 'auto';
     btn.style.right = '14px';
@@ -3200,6 +3205,8 @@ document.addEventListener('DOMContentLoaded', () => {
 //  GRAPH VIEW  (D3 force-directed, SVG)
 // ══════════════════════════════════════
 
+// Labels render at a constant on-screen size regardless of zoom (counter-scaled)
+const GRAPH_LABEL_PX = 9;
 const GRAPH_SECTION_COLORS = {
   '1-disease-scripts':        '#4a9eff',
   '2-diagnostic-schemas':     '#a78bfa',
@@ -3319,11 +3326,23 @@ function _buildGraphOnce() {
       gState.gEl.attr('transform', event.transform);
       gState.currentZoom = event.transform.k;
       _updateLabelVisibility();
+      // counter-scale labels so they stay a constant (small) screen size
+      if (gState.labelSel) gState.labelSel.attr('font-size', GRAPH_LABEL_PX / event.transform.k);
     });
   svg.call(gState.zoom).on('dblclick.zoom', null);
 
   // Main group
   gState.gEl = svg.append('g');
+
+  // Legend: which color means what page type (bottom-left corner)
+  const legend = document.getElementById('graph-legend');
+  if (legend) legend.innerHTML = Object.entries(GRAPH_SECTION_COLORS)
+    .filter(([k]) => SECTION_META[k])
+    .map(([k, c]) =>
+      `<span style="display:inline-flex;align-items:center;margin:1px 10px 1px 0;white-space:nowrap;">` +
+      `<span style="width:8px;height:8px;border-radius:50%;background:${c};display:inline-block;margin-right:5px;flex:none;"></span>` +
+      `${SECTION_META[k].label}</span>`)
+    .join('');
 
   // ── Initial draw ──
   _redrawGraph();
@@ -3401,7 +3420,7 @@ function _redrawGraph() {
     .data(nodes, d => d.id)
     .join('text')
       .text(d => d.id)
-      .attr('font-size', 10)
+      .attr('font-size', GRAPH_LABEL_PX / (gState.currentZoom || 1))
       .attr('fill', '#ccc')
       .attr('text-anchor', 'middle')
       .attr('pointer-events', 'none')
@@ -3623,7 +3642,7 @@ function _nodeColor(n) {
   }
   return GRAPH_SECTION_COLORS[n.section] || '#4a9eff';
 }
-function _gspLinkThickness() { return parseFloat(document.getElementById('gsp-link-thickness')?.value ?? 1); }
+function _gspLinkThickness() { return parseFloat(document.getElementById('gsp-link-thickness')?.value ?? 0.5); }
 function _gspTextFade()      { return parseFloat(document.getElementById('gsp-text-fade')?.value      ?? 1.5); }
 function _gspLinkDist()      { return parseFloat(document.getElementById('gsp-link-dist')?.value      ?? 80); }
 function _gspLinkForce()     { return parseFloat(document.getElementById('gsp-link-force')?.value     ?? 0.3); }

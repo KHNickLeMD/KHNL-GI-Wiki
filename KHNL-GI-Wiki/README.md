@@ -84,7 +84,6 @@ TBD
 - Click any **section name** in the sidebar to open its table of contents
 - Click the **›** chevron to expand a section dropdown and browse individual pages
 - Click **[[wiki-links]]** within any page to navigate to related pages
-- Click the **📚 N sources** badge on any page to see which sources back it
 - Use the **search bar** to find pages. It does two things at once: instant keyword matching, plus a **semantic search** that understands meaning — so searching *"liver scarring"* surfaces cirrhosis and fibrosis-related notes even when those exact words aren't on the page
 	- Results tagged with a green **`related`** badge were matched by meaning rather than exact wording. The first search after loading the site takes a moment while the small AI model downloads (then it's cached and instant)
 - Click any **#tag** to search for related pages
