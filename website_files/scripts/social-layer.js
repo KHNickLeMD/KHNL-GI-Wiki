@@ -1,12 +1,14 @@
 /*
- * KHNL GI Wiki — Social layer, Step 4: signup, verification & login.
- * Plan: ACCOUNTS-SOCIAL-PLAN.md §2 (sessions), §4.1 (auth), §4.9 (resilience),
- * §4.10 (error tracking), §7 Step 4.
+ * KHNL GI Wiki — Social layer, Steps 4–5: signup, verification & login +
+ * avatar bubble & account menu.
+ * Plan: ACCOUNTS-SOCIAL-PLAN.md §2 (sessions), §4.1 (auth), §4.2 (avatar
+ * bubble), §4.9 (resilience), §4.10 (error tracking), §7 Steps 4–5.
  *
  * Self-contained vanilla-JS drop-in, same style as feedback-widget.js. No
  * PocketBase SDK, no framework, no build step — raw fetch only. It injects its
- * own styles, a top-right "Sign in" button (Step 5 replaces it with the avatar
- * bubble), and a login/signup modal.
+ * own styles, a top-right avatar bubble ("Sign in" button when logged out),
+ * the login/signup modal, the account menu, and a bubble-customization modal
+ * (color picker + image upload, persisted on the user record).
  *
  * SESSIONS (§2): the auth token NEVER touches JS. Login/refresh responses set an
  * httpOnly cookie server-side (pb_hooks/auth-cookie.pb.js); every call here uses
@@ -26,7 +28,11 @@
  *   KHNL.auth.login/logout/signup/requestPasswordReset/resendVerification
  *   KHNL.api(path, opts)      -> credentialed JSON fetch helper
  *   KHNL.ui.withState(el, asyncFn, {render, emptyMsg})  -> §4.9 helper
- *   KHNL.ui.openAuth()        -> open the sign-in modal (Step 5 menu reuses it)
+ *   KHNL.ui.openAuth()        -> open the sign-in modal
+ *   KHNL.ui.openProfile()     -> open the bubble-customization modal
+ *   KHNL.ui.registerMenuItem(id, fn) -> Steps 6–10 attach their menu features
+ *        (ids: "notes" | "bookmarks" | "reviewed" | "friends" | "privacy";
+ *         unregistered items show a "coming soon" flash instead)
  *   KHNL.debug.crash()        -> forced exception (Step 4 acceptance test)
  */
 (function () {
@@ -36,7 +42,7 @@
   var CONFIG = {
     API_BASE: "https://api.khnicklemd.com",
     TURNSTILE_SITE_KEY: "0x4AAAAAADsnUhGCQy6CF38J", // public site key (same widget as feedback)
-    APP_VERSION: "step4-2026-07-01",
+    APP_VERSION: "step5-2026-07-02",
   };
 
   // ======================================================================
@@ -180,7 +186,24 @@
     ".khnl-sl-fallback-actions{margin-top:8px;display:flex;gap:8px}" +
     ".khnl-sl-fallback-actions button{padding:5px 12px;border-radius:7px;cursor:pointer;font:inherit;font-weight:600;" +
       "border:1px solid #ccc;background:#f7f7f7}" +
-    ".khnl-sl-fallback-actions #khnl-sl-reset{background:#2f6b3f;border-color:#2f6b3f;color:#fff}";
+    ".khnl-sl-fallback-actions #khnl-sl-reset{background:#2f6b3f;border-color:#2f6b3f;color:#fff}" +
+    // Step 5 — avatar bubble, full menu, customization modal
+    ".khnl-sl-me{overflow:hidden;padding:0}" +
+    ".khnl-sl-me img{width:100%;height:100%;object-fit:cover;display:block;border-radius:50%}" +
+    ".khnl-sl-mi{display:block;width:100%;text-align:left;padding:8px 14px;border:none;background:none;cursor:pointer;font:inherit}" +
+    ".khnl-sl-mi:hover{background:#f3f6f3}" +
+    ".khnl-sl-soon{font-size:10px;color:#999;border:1px solid #ddd;border-radius:8px;padding:1px 6px;margin-left:6px;vertical-align:1px}" +
+    ".khnl-sl-sep{height:1px;background:#eee;margin:6px 0}" +
+    ".khnl-sl-prevwrap{display:flex;align-items:center;gap:14px;margin:4px 0 14px}" +
+    ".khnl-sl-prev{width:64px;height:64px;border-radius:50%;color:#fff;font-weight:700;font-size:22px;display:flex;" +
+      "align-items:center;justify-content:center;overflow:hidden;box-shadow:0 2px 8px rgba(0,0,0,.22);flex:none}" +
+    ".khnl-sl-prev img{width:100%;height:100%;object-fit:cover}" +
+    ".khnl-sl-swatches{display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin:6px 0 2px}" +
+    ".khnl-sl-sw{width:26px;height:26px;border-radius:50%;cursor:pointer;border:2px solid transparent;padding:0;flex:none}" +
+    ".khnl-sl-sw.on{border-color:#1a1a1a}" +
+    ".khnl-sl-swcustom{width:26px;height:26px;padding:0;border:1px dashed #aaa;border-radius:50%;cursor:pointer;background:none;flex:none}" +
+    ".khnl-sl-filerow{display:flex;gap:10px;align-items:center;margin-top:6px;font-size:12.5px}" +
+    ".khnl-sl-filerow input[type=file]{font-size:12px;max-width:210px}";
 
   // ----------------------------- HELPERS -----------------------------
   function el(html) { var t = document.createElement("template"); t.innerHTML = html.trim(); return t.content.firstChild; }
@@ -202,8 +225,12 @@
       headers: {},
     };
     if (opts.body !== undefined) {
-      init.headers["Content-Type"] = "application/json";
-      init.body = JSON.stringify(opts.body);
+      if (typeof FormData !== "undefined" && opts.body instanceof FormData) {
+        init.body = opts.body; // multipart (file uploads) — browser sets the boundary
+      } else {
+        init.headers["Content-Type"] = "application/json";
+        init.body = JSON.stringify(opts.body);
+      }
     }
     return fetch(CONFIG.API_BASE + path, init).then(function (r) {
       if (r.status === 204) return { ok: r.ok, status: r.status, json: null };
@@ -604,11 +631,12 @@
     });
   }
 
-  // ----------------------------- TOP-RIGHT CHIP -----------------------------
-  // Step 4 placeholder UI: "Sign in" button when logged out; an initials circle
-  // + minimal menu when logged in. Step 5 upgrades this into the full avatar
-  // bubble (image upload, color picker, complete account menu).
+  // ================== §4.2 AVATAR BUBBLE & ACCOUNT MENU (Step 5) ==============
+  // Logged in: a circular bubble top-right — uploaded image, or initials on a
+  // chosen color. Click -> account menu. Logged out: "Sign in" in the same spot.
   var chip = null, menu = null;
+
+  var BUBBLE_COLORS = ["#2f6b3f", "#1f5f8b", "#7a3b8f", "#b3541e", "#8b1f3f", "#3d6b6b", "#5c5470", "#2d2d2d"];
 
   function initials(u) {
     var s = (u.displayName || u.username || u.email || "?").trim();
@@ -616,6 +644,25 @@
     var out = parts[0].charAt(0) + (parts.length > 1 ? parts[parts.length - 1].charAt(0) : "");
     return out.toUpperCase();
   }
+
+  function bubbleImageUrl(u, thumb) {
+    if (!u || !u.bubbleImage) return "";
+    return CONFIG.API_BASE + "/api/files/users/" + u.id + "/" + encodeURIComponent(u.bubbleImage) +
+      (thumb ? "?thumb=" + thumb : "");
+  }
+
+  // Menu registry — Steps 6–10 attach real handlers via KHNL.ui.registerMenuItem;
+  // until then an item shows a "soon" badge and a "coming soon" flash on click.
+  // (§4.2 menu: My notes · Bookmarks · Reviewed pages · Friends · Privacy · Sign out)
+  var MENU_ITEMS = [
+    { id: "notes",     label: "My notes" },
+    { id: "bookmarks", label: "Bookmarks" },
+    { id: "reviewed",  label: "Reviewed pages" },
+    { id: "friends",   label: "Friends" },
+    { id: "privacy",   label: "Privacy" },
+  ];
+  var menuHandlers = {};
+  function registerMenuItem(id, handler) { menuHandlers[id] = handler; }
 
   function closeMenu() { if (menu) { menu.remove(); menu = null; document.removeEventListener("mousedown", menuAway); } }
   function menuAway(e) { if (menu && !menu.contains(e.target) && !chip.contains(e.target)) closeMenu(); }
@@ -626,15 +673,34 @@
     var verifyRow = u.verified ? "" :
       '<div class="khnl-sl-verify">Email not verified yet — most features stay read-only. ' +
       '<a id="khnl-sl-reverify">Resend link</a></div>';
+    var itemsHtml = MENU_ITEMS.map(function (it) {
+      return '<button type="button" class="khnl-sl-mi" data-id="' + it.id + '">' + it.label +
+        (menuHandlers[it.id] ? "" : ' <span class="khnl-sl-soon">soon</span>') + "</button>";
+    }).join("");
     menu = el(
-      '<div class="khnl-sl-menu">' +
+      '<div class="khnl-sl-menu" role="menu" aria-label="Account menu">' +
         '<div class="who">Signed in as <b>' + (u.displayName || u.username || u.email).replace(/</g, "&lt;") + "</b></div>" +
         verifyRow +
-        '<button type="button" id="khnl-sl-out">Sign out</button>' +
+        itemsHtml +
+        '<div class="khnl-sl-sep"></div>' +
+        '<button type="button" class="khnl-sl-mi" id="khnl-sl-custom">Customize bubble…</button>' +
+        '<button type="button" class="khnl-sl-mi" id="khnl-sl-out">Sign out</button>' +
       "</div>"
     );
     document.body.appendChild(menu);
     document.addEventListener("mousedown", menuAway);
+
+    menu.querySelectorAll(".khnl-sl-mi[data-id]").forEach(function (btn) {
+      btn.addEventListener("click", function () {
+        var fn = menuHandlers[btn.getAttribute("data-id")];
+        if (fn) { closeMenu(); fn(); return; }
+        // not built yet — flash instead of a dead click
+        var orig = btn.innerHTML;
+        btn.innerHTML = "Coming soon — being built";
+        setTimeout(function () { if (menu && menu.contains(btn)) btn.innerHTML = orig; }, 1200);
+      });
+    });
+    menu.querySelector("#khnl-sl-custom").addEventListener("click", function () { closeMenu(); openProfile(); });
     menu.querySelector("#khnl-sl-out").addEventListener("click", function () {
       closeMenu();
       auth.logout();
@@ -651,14 +717,152 @@
     if (!chip) return;
     closeMenu();
     if (state.user) {
-      var color = state.user.bubbleColor || "#2f6b3f";
-      chip.innerHTML = '<button class="khnl-sl-me" title="Account" aria-label="Account menu" ' +
-        'style="background:' + color + '">' + initials(state.user) + "</button>";
-      chip.querySelector(".khnl-sl-me").addEventListener("click", openMenu);
+      var u = state.user;
+      var color = u.bubbleColor || "#2f6b3f";
+      var img = bubbleImageUrl(u, "100x100");
+      chip.innerHTML = '<button class="khnl-sl-me" title="Account" aria-label="Account menu" aria-haspopup="menu" ' +
+        'style="background:' + color + '">' +
+        (img ? '<img src="' + img + '" alt="">' : initials(u)) +
+        "</button>";
+      var btn = chip.querySelector(".khnl-sl-me");
+      btn.addEventListener("click", openMenu);
+      // if the image 404s (deleted file, cold cache), fall back to initials
+      var imgEl = btn.querySelector("img");
+      if (imgEl) imgEl.addEventListener("error", function () { btn.innerHTML = initials(u); });
     } else {
       chip.innerHTML = '<button class="khnl-sl-signin">Sign in</button>';
       chip.querySelector(".khnl-sl-signin").addEventListener("click", function () { openAuth("login"); });
     }
+  }
+
+  // ----------------------------- CUSTOMIZATION MODAL --------------------------
+  // Color picker (swatches + free color input) and image upload, saved on the
+  // user record (bubbleColor / bubbleImage) via one multipart PATCH. Server-side
+  // validation (2 MB, image mime types) comes from the Step 4 migration; errors
+  // are mapped inline per §4.9.
+  function openProfile() {
+    if (overlay || !state.user) return;
+    var u = state.user;
+    var chosen = {
+      color: u.bubbleColor || "#2f6b3f",
+      file: null,          // newly picked File
+      removeImage: false,  // clear the existing image
+    };
+
+    var swatches = BUBBLE_COLORS.map(function (c) {
+      return '<button type="button" class="khnl-sl-sw" data-c="' + c + '" style="background:' + c + '" ' +
+        'aria-label="' + c + '"></button>';
+    }).join("");
+
+    overlay = el(
+      '<div class="khnl-sl-overlay" role="dialog" aria-modal="true" aria-label="Customize bubble">' +
+        '<div class="khnl-sl-card">' +
+          '<button class="khnl-sl-x" aria-label="Close">&times;</button>' +
+          "<h3>Customize your bubble</h3>" +
+          '<p class="khnl-sl-sub">A photo, or your initials on a color.</p>' +
+          '<div class="khnl-sl-prevwrap">' +
+            '<div class="khnl-sl-prev" id="pf-prev"></div>' +
+            '<div style="font-size:12.5px;color:#666">This is how your bubble will look.</div>' +
+          "</div>" +
+          '<div class="khnl-sl-row"><label>Color</label>' +
+            '<div class="khnl-sl-swatches">' + swatches +
+              '<input type="color" class="khnl-sl-swcustom" id="pf-color" title="Custom color" value="#2f6b3f">' +
+            "</div></div>" +
+          '<div class="khnl-sl-row" id="r-img"><label>Photo <span style="font-weight:400;color:#888">(optional, max 2 MB)</span></label>' +
+            '<div class="khnl-sl-filerow">' +
+              '<input type="file" id="pf-file" accept="image/jpeg,image/png,image/webp,image/gif">' +
+              '<button type="button" class="khnl-sl-link" id="pf-remove" style="display:none">Remove photo</button>' +
+            "</div>" +
+            '<div class="khnl-sl-err">Please choose an image under 2 MB.</div></div>' +
+          '<p class="khnl-sl-formerr" id="pf-formerr"></p>' +
+          '<div class="khnl-sl-actions">' +
+            '<button type="button" class="khnl-sl-btn ghost" id="pf-cancel">Cancel</button>' +
+            '<button type="button" class="khnl-sl-btn primary" id="pf-save">Save</button>' +
+          "</div>" +
+        "</div>" +
+      "</div>"
+    );
+    document.body.appendChild(overlay);
+    overlay.querySelector(".khnl-sl-x").addEventListener("click", closeModal);
+    overlay.querySelector("#pf-cancel").addEventListener("click", closeModal);
+    overlay.addEventListener("mousedown", function (e) { if (e.target === overlay) closeModal(); });
+    document.addEventListener("keydown", escClose);
+
+    var prev = overlay.querySelector("#pf-prev");
+    var fileInput = overlay.querySelector("#pf-file");
+    var removeBtn = overlay.querySelector("#pf-remove");
+    var colorInput = overlay.querySelector("#pf-color");
+    var localPreviewUrl = "";
+
+    function currentImageUrl() {
+      if (chosen.file) return localPreviewUrl;
+      if (chosen.removeImage) return "";
+      return bubbleImageUrl(u, "100x100");
+    }
+    function updatePreview() {
+      prev.style.background = chosen.color;
+      var url = currentImageUrl();
+      prev.innerHTML = url ? '<img src="' + url + '" alt="">' : initials(u);
+      removeBtn.style.display = url ? "inline" : "none";
+      overlay.querySelectorAll(".khnl-sl-sw").forEach(function (s) {
+        s.classList.toggle("on", s.getAttribute("data-c").toLowerCase() === chosen.color.toLowerCase());
+      });
+      colorInput.value = /^#[0-9a-fA-F]{6}$/.test(chosen.color) ? chosen.color : "#2f6b3f";
+    }
+
+    overlay.querySelectorAll(".khnl-sl-sw").forEach(function (s) {
+      s.addEventListener("click", function () { chosen.color = s.getAttribute("data-c"); updatePreview(); });
+    });
+    colorInput.addEventListener("input", function () { chosen.color = colorInput.value; updatePreview(); });
+
+    fileInput.addEventListener("change", function () {
+      var f = fileInput.files && fileInput.files[0];
+      setBad("#r-img", false);
+      if (!f) return;
+      if (f.size > 2097152 || !/^image\//.test(f.type)) {
+        setBad("#r-img", true);
+        fileInput.value = "";
+        return;
+      }
+      if (localPreviewUrl) URL.revokeObjectURL(localPreviewUrl);
+      localPreviewUrl = URL.createObjectURL(f);
+      chosen.file = f;
+      chosen.removeImage = false;
+      updatePreview();
+    });
+    removeBtn.addEventListener("click", function () {
+      chosen.file = null;
+      chosen.removeImage = true;
+      fileInput.value = "";
+      updatePreview();
+    });
+
+    overlay.querySelector("#pf-save").addEventListener("click", function () {
+      var btn = overlay.querySelector("#pf-save");
+      var formErr = overlay.querySelector("#pf-formerr");
+      formErr.style.display = "none";
+      busy(btn, true, "Save");
+
+      var fd = new FormData();
+      fd.append("bubbleColor", chosen.color);
+      if (chosen.file) fd.append("bubbleImage", chosen.file);
+      else if (chosen.removeImage) fd.append("bubbleImage", ""); // clears the file field
+
+      api("/api/collections/users/records/" + u.id, { method: "PATCH", body: fd })
+        .then(function (j) {
+          // merge (a PATCH response may omit hidden fields like email)
+          setUser(Object.assign({}, state.user, j || {}));
+          closeModal();
+        })
+        .catch(function (err) {
+          busy(btn, false, "Save");
+          if (err && err.data && err.data.bubbleImage) setBad("#r-img", true, err.data.bubbleImage.message);
+          formErr.textContent = (err && err.message) || "Could not save. Please try again.";
+          formErr.style.display = "block";
+        });
+    });
+
+    updatePreview();
   }
 
   // ----------------------------- BOOT -----------------------------
@@ -678,7 +882,12 @@
   window.KHNL = {
     api: api,
     auth: auth,
-    ui: { withState: withState, openAuth: openAuth },
+    ui: {
+      withState: withState,
+      openAuth: openAuth,
+      openProfile: openProfile,
+      registerMenuItem: registerMenuItem, // Steps 6–10 attach their features here
+    },
     debug: {
       // Step 4 acceptance test: forced exception -> fallback panel + client_errors row.
       crash: function () { setTimeout(function () { throw new Error("KHNL forced test crash"); }, 0); },
