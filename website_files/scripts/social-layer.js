@@ -1,9 +1,9 @@
 /*
- * KHNL GI Wiki — Social layer, Steps 4–6: signup, verification & login +
- * avatar bubble & account menu + bookmarks.
+ * KHNL GI Wiki — Social layer, Steps 4–7: signup, verification & login +
+ * avatar bubble & account menu + bookmarks + reviewed-page tracking.
  * Plan: ACCOUNTS-SOCIAL-PLAN.md §2 (sessions), §4.1 (auth), §4.2 (avatar
- * bubble), §4.8 (bookmarks), §4.9 (resilience), §4.10 (error tracking),
- * §7 Steps 4–6.
+ * bubble), §4.7 (reviewed tracking), §4.8 (bookmarks), §4.9 (resilience),
+ * §4.10 (error tracking), §7 Steps 4–7.
  *
  * Self-contained vanilla-JS drop-in, same style as feedback-widget.js. No
  * PocketBase SDK, no framework, no build step — raw fetch only. It injects its
@@ -43,7 +43,7 @@
   var CONFIG = {
     API_BASE: "https://api.khnicklemd.com",
     TURNSTILE_SITE_KEY: "0x4AAAAAADsnUhGCQy6CF38J", // public site key (same widget as feedback)
-    APP_VERSION: "step6-2026-07-02",
+    APP_VERSION: "step7-2026-07-02",
   };
 
   // ======================================================================
@@ -218,7 +218,14 @@
       "border:none;padding:0;cursor:pointer;font:inherit;color:#2f6b3f;text-align:left}" +
     ".khnl-bm-title:hover{text-decoration:underline}" +
     ".khnl-bm-act{border:none;background:none;cursor:pointer;color:#888;font-size:13px;padding:2px 4px;flex:none}" +
-    ".khnl-bm-act:hover{color:#1a1a1a}";
+    ".khnl-bm-act:hover{color:#1a1a1a}" +
+    // Step 7 — reviewed toggle + list checkmarks + dashboard dates
+    ".khnl-rv{border:none;background:none;cursor:pointer;font-size:15px;line-height:1;color:#aaa;" +
+      "padding:2px 4px;vertical-align:middle;font-weight:700}" +
+    ".khnl-rv.on{color:#1a7f37}" +
+    ".khnl-rv[disabled]{opacity:.5;cursor:default}" +
+    ".khnl-rv-mark{color:#1a7f37;font-weight:700;margin-left:6px;font-size:12px}" +
+    ".khnl-bm-date{color:#888;font-size:11.5px;flex:none}";
 
   // ----------------------------- HELPERS -----------------------------
   function el(html) { var t = document.createElement("template"); t.innerHTML = html.trim(); return t.content.firstChild; }
@@ -885,35 +892,44 @@
   // the account menu. index.html dispatches `khnl:nav` {view} on every route
   // change; page views look like "page:SLUG". Owner-only rules live server-side
   // (step6 migration); the unique (user,pageSlug) index makes double-clicks safe.
-  var bmCache = null, bmPromise = null; // pageSlug -> record, per login session
-
-  function bmInvalidate() { bmCache = null; bmPromise = null; }
-
-  function bmAll() {
-    if (bmCache) return Promise.resolve(bmCache);
-    if (!bmPromise) {
-      bmPromise = api("/api/collections/bookmarks/records?perPage=500&skipTotal=1&sort=folder,label")
-        .then(function (j) {
-          bmCache = {};
-          (j.items || []).forEach(function (r) { bmCache[r.pageSlug] = r; });
-          return bmCache;
-        })
-        .catch(function (err) { bmPromise = null; throw err; });
-    }
-    return bmPromise;
+  // One owner-scoped collection cache: a single perPage=500 list per login
+  // (the owner-only listRule scopes it server-side), exposed as pageSlug->record.
+  // Shared by bookmarks (Step 6), reviews (Step 7), notes (Step 8).
+  function ownedMap(collection, sort) {
+    var cache = null, promise = null;
+    return {
+      invalidate: function () { cache = null; promise = null; },
+      all: function () {
+        if (cache) return Promise.resolve(cache);
+        if (!promise) {
+          promise = api("/api/collections/" + collection + "/records?perPage=500&skipTotal=1&sort=" + sort)
+            .then(function (j) {
+              cache = {};
+              (j.items || []).forEach(function (r) { cache[r.pageSlug] = r; });
+              return cache;
+            })
+            .catch(function (err) { promise = null; throw err; });
+        }
+        return promise;
+      },
+    };
   }
+
+  var bm = ownedMap("bookmarks", "folder,label");
+  var rv = ownedMap("page_reviews", "-created"); // Step 7
 
   var lastView = "";
   document.addEventListener("khnl:nav", function (ev) {
     lastView = (ev.detail && ev.detail.view) || "";
     // defer: recordNav fires before index.html finishes building the page header
-    setTimeout(renderPageTools, 0);
+    setTimeout(function () { renderPageTools(); decorateReviewed(); }, 0);
   });
 
-  // (Step 7 adds the "Mark as reviewed" toggle beside the star — same host.)
   function renderPageTools() {
     var old = document.getElementById("khnl-star");
     if (old) old.remove();
+    var oldRv = document.getElementById("khnl-rv");
+    if (oldRv) oldRv.remove();
     var host = document.getElementById("page-meta-top");
     if (!host || !state.user || lastView.indexOf("page:") !== 0) return;
     var slug = lastView.slice(5).toLowerCase();
@@ -927,12 +943,12 @@
       btn.textContent = on ? "★" : "☆";
       btn.title = on ? "Remove bookmark" : "Bookmark this page";
     }
-    bmAll().then(function (map) { paint(map[slug]); }).catch(function () {});
+    bm.all().then(function (map) { paint(map[slug]); }).catch(function () {});
 
     btn.addEventListener("click", function () {
       if (!state.user.verified) { alert("Please verify your email first — check your inbox for the link."); return; }
       btn.disabled = true;
-      bmAll().then(function (map) {
+      bm.all().then(function (map) {
         var rec = map[slug];
         if (rec) {
           return api("/api/collections/bookmarks/records/" + rec.id, { method: "DELETE" })
@@ -945,6 +961,32 @@
       }).catch(function (err) {
         reportError("bookmark toggle: " + ((err && err.message) || String(err)), err && err.stack);
       }).then(function () { btn.disabled = false; });
+    });
+
+    // Step 7 — "Mark as reviewed" toggle beside the star (§4.7)
+    var rvBtn = el('<button id="khnl-rv" class="khnl-rv" title="Mark as reviewed" aria-label="Mark as reviewed">✓</button>');
+    host.appendChild(rvBtn);
+    function paintRv(on) {
+      rvBtn.classList.toggle("on", !!on);
+      rvBtn.title = on ? "Reviewed — click to unmark" : "Mark as reviewed";
+    }
+    rv.all().then(function (map) { paintRv(map[slug]); }).catch(function () {});
+    rvBtn.addEventListener("click", function () {
+      if (!state.user.verified) { alert("Please verify your email first — check your inbox for the link."); return; }
+      rvBtn.disabled = true;
+      rv.all().then(function (map) {
+        var rec = map[slug];
+        if (rec) {
+          return api("/api/collections/page_reviews/records/" + rec.id, { method: "DELETE" })
+            .then(function () { delete map[slug]; paintRv(false); });
+        }
+        return api("/api/collections/page_reviews/records", {
+          method: "POST",
+          body: { user: state.user.id, pageSlug: slug, label: title },
+        }).then(function (j) { map[slug] = j; paintRv(true); });
+      }).catch(function (err) {
+        reportError("review toggle: " + ((err && err.message) || String(err)), err && err.stack);
+      }).then(function () { rvBtn.disabled = false; });
     });
   }
 
@@ -973,8 +1015,8 @@
 
     var listEl = overlay.querySelector("#khnl-bm-list");
     var view = withState(listEl, function () {
-      bmInvalidate(); // always fresh when the panel opens
-      return bmAll().then(function (map) {
+      bm.invalidate(); // always fresh when the panel opens
+      return bm.all().then(function (map) {
         return Object.keys(map).map(function (k) { return map[k]; });
       });
     }, {
@@ -1016,7 +1058,7 @@
           });
           acts[1].addEventListener("click", function () {
             api("/api/collections/bookmarks/records/" + r.id, { method: "DELETE" })
-              .then(function () { bmInvalidate(); view.reload(); renderPageTools(); })
+              .then(function () { bm.invalidate(); view.reload(); renderPageTools(); })
               .catch(function () { alert("Could not remove — please try again."); });
           });
         });
@@ -1026,8 +1068,77 @@
 
   registerMenuItem("bookmarks", openBookmarks);
 
-  // login/logout: drop the cache (it belongs to one account) and redo the star
-  auth.onChange(function () { bmInvalidate(); renderPageTools(); });
+  // ================== §4.7 REVIEWED-PAGE TRACKING (Step 7) ==================
+  // ✓ checkmarks in the index/TOC/overview lists (not inside page prose): after
+  // any navigation to a list view, mark reviewed pages by scanning the
+  // navigateTo() onclick handlers — one cached list per login, never per-link.
+  function decorateReviewed() {
+    var area = document.getElementById("content-area") || document.body;
+    var olds = area.querySelectorAll(".khnl-rv-mark");
+    for (var i = 0; i < olds.length; i++) olds[i].remove();
+    if (!state.user || lastView.indexOf("page:") === 0) return;
+    rv.all().then(function (map) {
+      var nodes = area.querySelectorAll('[onclick^="navigateTo("]');
+      for (var j = 0; j < nodes.length; j++) {
+        var m = /navigateTo\('([^']+)'\)/.exec(nodes[j].getAttribute("onclick") || "");
+        if (m && map[m[1].toLowerCase()]) {
+          nodes[j].appendChild(el('<span class="khnl-rv-mark" title="Reviewed">✓</span>'));
+        }
+      }
+    }).catch(function () {});
+  }
+
+  function openReviewed() {
+    if (overlay) return;
+    overlay = el(
+      '<div class="khnl-sl-overlay" role="dialog" aria-modal="true" aria-label="Pages reviewed">' +
+        '<div class="khnl-sl-card" style="width:420px">' +
+          '<button class="khnl-sl-x" aria-label="Close">&times;</button>' +
+          "<h3>Pages I’ve reviewed</h3>" +
+          '<p class="khnl-sl-sub">Most recent first.</p>' +
+          '<div id="khnl-rv-list"></div>' +
+        "</div>" +
+      "</div>"
+    );
+    document.body.appendChild(overlay);
+    overlay.querySelector(".khnl-sl-x").addEventListener("click", closeModal);
+    overlay.addEventListener("mousedown", function (e) { if (e.target === overlay) closeModal(); });
+    document.addEventListener("keydown", escClose);
+
+    var listEl = overlay.querySelector("#khnl-rv-list");
+    var view = withState(listEl, function () {
+      rv.invalidate(); // always fresh when the panel opens
+      return rv.all().then(function (map) {
+        return Object.keys(map).map(function (k) { return map[k]; });
+      });
+    }, {
+      emptyMsg: "Nothing reviewed yet — open a page and click the ✓ in its header.",
+      render: function (host, rows) {
+        rows.sort(function (a, b) { return (b.created || "").localeCompare(a.created || ""); });
+        rows.forEach(function (r) {
+          var row = el(
+            '<div class="khnl-bm-row">' +
+              '<button type="button" class="khnl-bm-title">' + (r.label || r.pageSlug).replace(/</g, "&lt;") + "</button>" +
+              '<span class="khnl-bm-date">' + (r.created || "").slice(0, 10) + "</span>" +
+              '<button type="button" class="khnl-bm-act" title="Unmark reviewed">✕</button>' +
+            "</div>"
+          );
+          host.appendChild(row);
+          row.querySelector(".khnl-bm-title").addEventListener("click", function () { goToPage(r.pageSlug); });
+          row.querySelector(".khnl-bm-act").addEventListener("click", function () {
+            api("/api/collections/page_reviews/records/" + r.id, { method: "DELETE" })
+              .then(function () { rv.invalidate(); view.reload(); renderPageTools(); decorateReviewed(); })
+              .catch(function () { alert("Could not remove — please try again."); });
+          });
+        });
+      },
+    });
+  }
+
+  registerMenuItem("reviewed", openReviewed);
+
+  // login/logout: drop the per-account caches and redo the page tools/marks
+  auth.onChange(function () { bm.invalidate(); rv.invalidate(); renderPageTools(); decorateReviewed(); });
 
   // ----------------------------- BOOT -----------------------------
   function boot() {
