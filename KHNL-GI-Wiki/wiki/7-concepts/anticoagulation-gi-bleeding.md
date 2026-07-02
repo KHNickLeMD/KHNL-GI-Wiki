@@ -3,8 +3,8 @@ title: "Anticoagulation Management in GI Bleeding and Periendoscopic Period"
 category: concept
 tags: [anticoagulation, antiplatelets, gi-bleeding, periendoscopic, doac, warfarin, bridging]
 created: 2026-05-15
-updated: 2026-06-26
-sources: [acg-cag-2022-anticoag-gi-bleeding]
+updated: 2026-07-01
+sources: [acg-cag-2022-anticoag-gi-bleeding, asge-2016-antithrombotic]
 ---
 
 ## Contents
@@ -21,6 +21,7 @@ sources: [acg-cag-2022-anticoag-gi-bleeding]
   - [[#Bridging Therapy — When Indicated vs. Not]]
   - [[#DOAC Periendoscopic Management]]
   - [[#Antiplatelet Periendoscopic Management]]
+  - [[#Drug-Specific Hold Intervals and Reversal (ASGE Reference Table)]]
 - [[#Clinical Pearls and Decision Framework]]
 - [[#See Also]]
 - [[#Sources]]
@@ -230,6 +231,30 @@ For patients at low thromboembolic risk on DOACs:
 - Exception: consider ASA interruption for highest-risk procedures (ESD, biliary/pancreatic sphincterotomy, ampullectomy, [[poem|POEM]], RFA) when bleeding risk is particularly high
 - Primary prevention ASA: stop before higher-risk procedures (minimal CV benefit does not justify bleeding risk)
 
+### Drug-Specific Hold Intervals and Reversal (ASGE Reference Table)
+
+Quick-reference duration-of-action, elective hold, and reversal by agent (ASGE 2016, Table 2 erratum-corrected). Complements the ACG/CAG framework above; the ACG/CAG bridging and reversal-agent stances govern where the two differ (see Sources note).
+
+| Agent (class) | Duration of action | Elective (pre-procedure) | Urgent reversal |
+|---|---|---|---|
+| Aspirin (APA) | 7-10 d | Continue (usually) | Hold; can give platelets |
+| NSAIDs | Varies | — | Hold |
+| Dipyridamole | 2-3 d | Hold | Hold |
+| Cilostazol | 2 d | Hold | Hold |
+| Clopidogrel/prasugrel (thienopyridine) | 5-7 d | Hold ≥5-7 d before high-risk | Hold |
+| Ticagrelor | 3-5 d | Hold 3-5 d before high-risk | Hold |
+| Ticlopidine | 10-14 d | Hold | Hold |
+| GPIIb/IIIa (tirofiban/eptifibatide/abciximab) | 1-2 s / 4 h / 24 h | NA | Hold; HD for tirofiban |
+| Vorapaxar (PAR-1) | 5-13 d | Hold | Hold |
+| Warfarin | 5 d | Hold; restart same day | Vitamin K, 4F-PCC |
+| UFH | IV 2-6 h; SQ 12-24 h | Hold | Protamine (partial) |
+| LMWH (enoxaparin/dalteparin) | 24 h | Hold | Protamine ± rVIIa |
+| Fondaparinux | 36-48 h | Hold | Protamine, consider rVIIa |
+| Factor Xa inhibitors (rivaroxaban/apixaban/edoxaban) | Renal-dependent | Hold 1-2 d | Charcoal if <2-3 h; PCC (nonactivated/activated); andexanet (selective) |
+| Dabigatran (direct thrombin) | Renal-dependent | Hold 1-2 d | Charcoal if <2-3 h; PCC; HD; idarucizumab (selective) |
+
+*Reference: ASGE 2016 ([[asge-2016-antithrombotic]]). PEG placement on ASA or clopidogrel monotherapy is low bleeding risk (not on DAPT); EUS-FNA of solid masses on ASA/NSAIDs is low risk.*
+
 ---
 
 ## Clinical Pearls and Decision Framework
@@ -263,3 +288,4 @@ For patients at low thromboembolic risk on DOACs:
 ## Sources
 
 1. [[acg-cag-2022-anticoag-gi-bleeding|ACG/CAG 2022: Management of Anticoagulants and Antiplatelets During Acute GI Bleeding and the Periendoscopic Period]]
+2. [[asge-2016-antithrombotic|ASGE 2016: The Management of Antithrombotic Agents for Patients Undergoing GI Endoscopy]]

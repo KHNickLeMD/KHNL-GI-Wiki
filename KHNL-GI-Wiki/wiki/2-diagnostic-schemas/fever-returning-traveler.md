@@ -3,7 +3,7 @@ title: "Fever in a Returning Traveler"
 category: diagnostic-schema
 tags: [travel-medicine, fever, tropical-infections, travelers-diarrhea, enteric-fever, viral-hepatitis, parasites]
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-07-01
 sources: [nejm-2023-fever-returning-traveler]
 ---
 
@@ -87,6 +87,8 @@ This page focuses on GI-relevant diagnoses. Non-GI febrile illnesses (e.g., mala
 - **Eosinophilia >1,000/µL in returning traveler**: Parasitic infection (schistosomiasis, strongyloides, toxocara) until proven otherwise
 
 ## See Also
+
+[[acute-diarrhea]], [[entamoeba-histolytica-infection]], [[giardiasis]], [[chronic-hepatitis-b]], [[acute-liver-failure]], [[abnormal-liver-chemistries]]
 
 ---
 

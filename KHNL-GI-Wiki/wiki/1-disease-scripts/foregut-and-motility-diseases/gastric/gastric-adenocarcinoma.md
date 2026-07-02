@@ -3,8 +3,8 @@ title: "Gastric Adenocarcinoma"
 category: disease-script
 tags: [gastric-cancer, gastric-adenocarcinoma, gastric, malignancy, her2, pd-l1, msi-h, dmmr, claudin-18.2, flot, gastrectomy, endoscopic-resection, trastuzumab, zolbetuximab, nccn, oncology]
 created: 2026-06-01
-updated: 2026-06-18
-sources: [nccn-2026-gastric-cancer]
+updated: 2026-06-30
+sources: [nccn-2026-gastric-cancer, asge-2015-gastric-premalignant]
 ---
 
 ## Assessment
@@ -29,6 +29,8 @@ Staging combines [[endoscopic-ultrasound|EUS]] (T/N), CT, PET/CT, and **diagnost
 
 Endoscopy with biopsy for histology; EUS for locoregional staging; CT/PET for distant disease; diagnostic laparoscopy + peritoneal cytology for locally advanced tumors. Biomarker panel (HER2, PD-L1 CPS, MSI-H/dMMR, claudin 18.2) on advanced/metastatic tumors directs systemic therapy.
 
+- Biopsy adequacy: obtain **≥7 biopsy samples** of a gastric mass or the heaped-up edges of an ulcer suspicious for malignancy. [[asge-2015-gastric-premalignant]]
+
 ## Therapeutics
 
 Stage-directed per [[nccn-2026-gastric-cancer]]:
@@ -36,6 +38,7 @@ Stage-directed per [[nccn-2026-gastric-cancer]]:
 - **Early (selected T1a):** endoscopic resection (EMR/ESD) when size/histology/depth criteria are met; otherwise gastrectomy.
 - **Resectable locally advanced:** **perioperative chemotherapy (FLOT preferred)** with **gastrectomy and D2 lymphadenectomy**. Perioperative/neoadjuvant immunotherapy is considered for **MSI-H/dMMR** tumors (multidisciplinary; **dostarlimab** added as a neoadjuvant option). Gastrectomy remains standard even after radiologic/endoscopic complete response to neoadjuvant immunotherapy, outside prospective organ-preservation trials; if non-operative management is pursued for MSI-H/dMMR disease, immunotherapy continues for **at least 1 year**.
 - **Unresectable:** definitive chemoradiation/chemotherapy.
+- **Palliation of malignant gastric outlet obstruction:** endoscopically placed **self-expanding metal stent (SEMS)** for patients with poor performance status or nonoperable anatomy. [[asge-2015-gastric-premalignant]]
 - **Metastatic:** HER2-overexpressing (IHC 3+, or IHC 2+ with ISH/FISH+) → add **trastuzumab** to first-line chemotherapy; HER2-negative → fluoropyrimidine + platinum with **nivolumab or pembrolizumab** by PD-L1 CPS, and **zolbetuximab** for claudin 18.2-positive tumors. Later line: **fam-trastuzumab deruxtecan** (category 1) for HER2-positive disease; ramucirumab-based regimens, taxanes, irinotecan, and trifluridine/tipiracil otherwise.
 
 ### NCCN Treatment Algorithm
@@ -64,3 +67,4 @@ flowchart TD
 ## Sources
 
 1. [[nccn-2026-gastric-cancer|NCCN Clinical Practice Guidelines in Oncology: Gastric Cancer (Version 3.2026)]]
+2. [[asge-2015-gastric-premalignant|ASGE Guideline: The Role of Endoscopy in the Management of Premalignant and Malignant Conditions of the Stomach (2015)]]

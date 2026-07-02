@@ -3,8 +3,8 @@ title: "Clostridioides difficile Infection"
 category: disease-script
 tags: [cdiff, clostridioides-difficile, colitis, vancomycin, fidaxomicin, fmt, colorectal]
 created: 2026-05-15
-updated: 2026-06-27
-sources: [acg-2021-cdiff, aga-2024-fmt, aga-2026-cdiff-ibd]
+updated: 2026-07-01
+sources: [acg-2021-cdiff, aga-2024-fmt, aga-2026-cdiff-ibd, feuerstadt-2022-ser109-cdiff]
 ---
 
 ## Assessment
@@ -158,6 +158,12 @@ Higher doses of vancomycin (>125 mg QID) are not recommended for severe CDI — 
 - Repeat FMT if recurrence within 8 weeks of initial FMT (conditional); most FMT failures occur within 4 weeks; <5% fail a second FMT
 - Before repeat FMT: restart anti-CDI antibiotics to control symptoms; consider colonoscopic delivery if initial FMT was by enema or capsule
 
+**Oral microbiome therapeutic — SER-109 (fecal microbiota spores, live):**
+
+- Purified **Firmicutes spores** given orally (4 capsules/day × 3 days) *after* standard-of-care antibiotics have resolved symptoms; restores secondary bile-acid profile that inhibits C. difficile spore germination
+- **ECOSPOR III RCT** [[feuerstadt-2022-ser109-cdiff]]: 8-week recurrence **12% vs 40%** with placebo (RR 0.32, 95% CI 0.18–0.58); benefit consistent across age and prior antibiotic (vancomycin/fidaxomicin); safety similar to placebo (mostly mild GI events)
+- FDA-approved 2023 as the first orally administered fecal microbiota spore product to prevent recurrent CDI — a defined-consortium alternative to conventional donor-stool FMT
+
 **Bezlotoxumab (adjunct to prevent recurrence):**
 
 - Single weight-based IV infusion during a course of anti-CDI treatment (half-life 19 days)
@@ -248,3 +254,4 @@ Higher doses of vancomycin (>125 mg QID) are not recommended for severe CDI — 
 1. [[acg-2021-cdiff|ACG 2021: Prevention, Diagnosis, and Treatment of Clostridioides difficile Infections]]
 2. [[aga-2024-fmt|AGA Clinical Practice Guideline: Fecal Microbiota-Based Therapies for Select GI Diseases (2024)]]
 3. [[aga-2026-cdiff-ibd|AGA Clinical Practice Update on Management of Clostridioides difficile Infection in Inflammatory Bowel Disease: Expert Review (2026)]]
+4. [[feuerstadt-2022-ser109-cdiff|SER-109, an Oral Microbiome Therapy for Recurrent C. difficile Infection (ECOSPOR III, NEJM 2022)]]

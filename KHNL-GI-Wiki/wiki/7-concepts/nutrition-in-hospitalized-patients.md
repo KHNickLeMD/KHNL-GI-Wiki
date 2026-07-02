@@ -3,8 +3,8 @@ title: "Nutrition Therapy in the Hospitalized Patient"
 category: concept
 tags: [nutrition, enteral-nutrition, parenteral-nutrition, malnutrition, icu, critical-care, hospitalized-patient]
 created: 2026-05-21
-updated: 2026-05-21
-sources: [acg-2016-nutrition-hospitalized, asge-2025-gastrostomy-tubes]
+updated: 2026-07-01
+sources: [acg-2016-nutrition-hospitalized, asge-2025-gastrostomy-tubes, asge-2011-enteral-feeding]
 ---
 
 ## Overview
@@ -66,6 +66,13 @@ Nutrition support in the hospitalized patient encompasses the assessment of nutr
 | PEG tube | EN expected >4 weeks, functional swallow impaired | Percutaneous endoscopic placement |
 
 Radiologic confirmation of tube position is required before EN initiation (Strong, Moderate evidence) [[acg-2016-nutrition-hospitalized]].
+
+**Duration-based access rule** ([[asge-2011-enteral-feeding]]): choose **nasoenteric** feeding when peroral intake is expected to resume **within 30 days**; use a **percutaneous endoscopic tube** (PEG, or PEGJ/DPEJ for post-pyloric access) when longer-term EN is needed. In acute dysphagic stroke, consider PEG only if a 2-3 week nasoenteric trial fails to improve swallowing.
+
+- **PEGJ / DPEJ** (post-pyloric): indicated for severe [[gerd|GERD]], [[gastroparesis]], or recurrent tube-feed aspiration.
+- **Periprocedural care:** give an IV **prophylactic antibiotic** before percutaneous tube placement (reduces peristomal infection); tube feeds may safely start **within 4 hours** of placement.
+- **Absolute contraindications** to PEG: inability to appose gastric and abdominal walls, obstruction precluding endoscope passage, uncorrectable coagulopathy.
+- **Outcomes/complications:** PEG complication rate 4.9-10.3% (serious 1.5-4%); procedure-related mortality ~0.5%, but 30-day all-cause mortality ~15% (driven by underlying comorbidity — set expectations in goals-of-care discussions). Recognized complications include aspiration, bleeding, perforation, **buried bumper syndrome**, peristomal infection, colocutaneous/gastrocolic fistula, and (usually benign) pneumoperitoneum. A **mature tract** is required before non-endoscopic tube/button replacement.
 
 ---
 
@@ -146,3 +153,4 @@ Immune-modulating formulas (arginine, glutamine, omega-3 fatty acids) are NOT re
 
 1. [[acg-2016-nutrition-hospitalized|ACG Clinical Guideline: Nutrition Therapy in the Adult Hospitalized Patient]]
 2. [[asge-2025-gastrostomy-tubes|ASGE Guideline: Gastrostomy Feeding Tubes (2025)]]
+3. [[asge-2011-enteral-feeding|ASGE 2011: The Role of Endoscopy in Enteral Feeding]]

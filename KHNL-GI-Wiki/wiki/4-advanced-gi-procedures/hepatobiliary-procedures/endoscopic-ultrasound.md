@@ -3,8 +3,8 @@ title: "Endoscopic Ultrasound (EUS) — Quality Standards"
 category: advanced-procedure
 tags: [eus, endoscopic-ultrasound, fna, fnb, pancreatic-mass, pancreatic-cysts, ipmn, mcn, biliary-drainage, eus-guided-drainage, quality-indicators, gastroenterostomy]
 created: 2026-05-07
-updated: 2026-05-19
-sources: [acg-2025-eus-quality, acg-2018-pancreatic-cysts, asge-2024-solid-pancreatic-masses]
+updated: 2026-07-01
+sources: [acg-2025-eus-quality, acg-2018-pancreatic-cysts, asge-2024-solid-pancreatic-masses, asge-2011-eus-mediastinal-adenopathy]
 ---
 
 # Endoscopic Ultrasound (EUS) — Quality Standards
@@ -139,6 +139,25 @@ See [[pancreatic-cysts]] for full diagnostic algorithm and surveillance interval
 
 ---
 
+## EUS in Mediastinal Adenopathy / Lung-Cancer Staging
+
+From [[asge-2011-eus-mediastinal-adenopathy]]:
+
+**Accessible vs inaccessible nodal stations:**
+
+- Linear EUS reaches **posterior and inferior mediastinal** nodes — paraesophageal, subcarinal, aortopulmonary window (station #5), para-aortic (#6).
+- **Anterior/upper mediastinal and paratracheal** nodes are inaccessible to EUS (tracheal air blocks the US window) → sample by **EBUS-FNA**.
+
+**EUS-FNA and EBUS-FNA are complementary** for NSCLC staging:
+
+- Each modality alone has a high **false-negative rate** → a negative EUS/EBUS does not exclude nodal disease; surgical confirmation is required before denying resection.
+- **Combined EUS-FNA/EBUS-FNA** achieves a negative predictive value comparable to mediastinoscopy, and is safe/potentially more cost-effective — but dual expertise is not widely available.
+- **Station 5 (aortopulmonary window):** EUS-FNA is a safe, cost-effective first-line approach.
+
+**Suspected lymphoma:** send FNA specimens for **flow cytometry** and obtain **core biopsy** when technically possible (immunophenotyping and histology needed for diagnosis/subtyping).
+
+---
+
 ## See Also
 
 
@@ -151,3 +170,4 @@ See [[pancreatic-cysts]] for full diagnostic algorithm and surveillance interval
 1. [[acg-2025-eus-quality|ACG/ASGE 2025: Quality Indicators for EUS]]
 2. [[acg-2018-pancreatic-cysts|ACG 2018: Diagnosis and Management of Pancreatic Cysts]]
 3. [[asge-2024-solid-pancreatic-masses|ASGE Guideline: Role of Endoscopy in Solid Pancreatic Masses (2024)]]
+4. [[asge-2011-eus-mediastinal-adenopathy|ASGE 2011: EUS-Guided FNA in the Diagnosis of Mediastinal Adenopathy]]

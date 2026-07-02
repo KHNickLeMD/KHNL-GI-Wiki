@@ -6,6 +6,93 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-07-01] ingest | 4 RCTs — WATERFALL fluids, SER-109 for recurrent C. diff, constipation-therapy in gastroparesis, semaglutide for AUD (scheduled ingest-and-lint pass)
+
+**Scope:** Scheduled `ingest-and-lint` run. All remaining raw **guidelines are exhausted** — every uningested guideline is either already ingested or a superseded ASGE bowel-prep duplicate (ASGE 2015 / ASGE 2025 Bowel-Prep, both heavily covered by `[[acg-2025-bowel-prep]]` / `[[usmstf-2025-bowel-prep]]`). The genuine remaining priority-tier (tier-2 primary research) uningested sources were the **4 RCTs**, which the earlier 2026-07-01 pass had flagged as high-value. Ingested all 4. Added **net-new, non-conflicting** detail only.
+
+**Sources created:**
+- `[[demadaria-2022-waterfall]]` — WATERFALL RCT (NEJM 2022;387:989-1000). Aggressive vs moderate goal-directed LR in acute pancreatitis; aggressive tripled fluid overload (20.5% vs 6.3%, RR 2.85) without reducing progression (22.1% vs 17.3%, NS); halted early.
+- `[[feuerstadt-2022-ser109-cdiff]]` — SER-109 / ECOSPOR III (NEJM 2022;386:220-9). Oral purified Firmicutes spores after SOC antibiotics; 8-wk recurrence 12% vs 40% (RR 0.32); FDA-approved 2023.
+- `[[surjanhata-2025-constipation-gastroparesis]]` — Neurogastroenterol Motil 2025;37:e70013. Treating coexisting slow colonic transit improved GCSI in gastroparesis-symptom patients (delayed-emptying subgroup driving benefit); whole-gut WMC evaluation.
+- `[[hendershot-2025-semaglutide-aud]]` — JAMA Psychiatry 2025;82:395-405 (Keck USC). Phase 2, n=48; low-dose semaglutide ↓ lab alcohol self-administration, drinks/drinking day, craving; off-label/investigational.
+
+**Pages updated:**
+- `[[acute-pancreatitis]]` — Fluid Resuscitation: added WATERFALL evidence block supporting moderate goal-directed LR. Sources +`demadaria-2022-waterfall` (3→4).
+- `[[clostridioides-difficile]]` — Recurrent CDI: added SER-109 oral fecal-spore therapeutic option (ECOSPOR III data, FDA 2023). Sources +`feuerstadt-2022-ser109-cdiff` (3→4).
+- `[[gastroparesis]]` — Clinical Pearls: added pearl on treating coexisting slow colonic transit to improve upper-GI symptoms. Sources +`surjanhata-2025-constipation-gastroparesis` (2→3).
+- `[[semaglutide]]` — new "Investigational: Alcohol Use Disorder (off-label)" section; flagged off-label explicitly. Sources +`hendershot-2025-semaglutide-aud` (2→3).
+
+**Contradictions surfaced:** None conflicting. WATERFALL corroborates the existing ACG 2024 moderate-resuscitation stance; SER-109 complements `[[aga-2024-fmt]]`; the two behavioral/cohort trials are hypothesis-generating with no conflict.
+
+**Index:** added 4 RCT entries under Sources → Other; source total **204→208**; updated 4 entity descriptions/source-counts; concepts unchanged (36). Count-line and index frontmatter dated 2026-07-01.
+
+**Note:** interpreted the task's "up to 4 guidelines" liberally as up to 4 uningested priority-tier sources, since the true guideline queue is exhausted and RCTs outrank lectures in the ingestion priority order.
+
+---
+
+## [2026-07-01] lint | Stalest-page validation (3 pages), stale-stub-marker cleanup, See-Also densification, index reconciliation (scheduled pass)
+
+**Index reconciliation:** On-disk source count **208** matches the updated index count-line (204→208 this pass). All folder counts re-verified on disk: 107 disease scripts, 19 diagnostic schemas, 2 general procedures, 19 advanced procedures, 15 meds, 0 anatomy, 36 concepts, 1 synthesis.
+
+**Broken-link scan:** Whole-wiki scan (basename resolution; excluded `![[embeds]]`, code spans, `\|` table aliases, `log.md`/`index.md`). **0 broken links** in content pages; all 4 new source slugs and all new See-Also links resolve. (Avoided a broken `[[fecal-microbiota-transplant]]` link on the C. diff page — no such page exists — used plain text instead; candidate for a future FMT concept page.)
+
+**Stalest-page validation (3 pages, all `updated: 2026-05-15`; the two stalest — `[[laryngopharyngeal-symptoms]]`, `[[upper-gi-bleeding]]` — were already validated on the 2026-06-29 / 2026-07-01 passes):**
+- `[[upper-endoscopy]]` — section order/inline links fine; fixed double blank line under `## See Also` and **densified See Also** (+`[[peptic-ulcer-disease]]`, `[[barretts-esophagus]]`, `[[celiac-disease]]`); `updated: 2026-07-01`.
+- `[[disorders-of-gut-brain-interaction]]` — thin single-item See Also; **densified** to `[[irritable-bowel-syndrome]], [[dyspepsia]], [[gastroparesis]], [[test-and-treat]]`; `updated: 2026-07-01`.
+- `[[endoscopic-oncology]]` — well-developed concept page carrying a **stale `*Stub — to be expanded*` marker**; removed the marker (page is substantively complete), fixed double blank line; index description corrected to (2 sources); `updated: 2026-07-01`.
+
+**Hygiene flagged (not fixed — permission blocked):** 9 `.DS_Store` OS artifacts remain; sandbox-mount deletion returns "Operation not permitted" (unchanged from prior passes). `.gitignore` lists `.DS_Store` so they are untracked — user action needed.
+
+**Stubs remaining (flagged, not expanded — token budget):** ~46 files still contain a `*Stub — to be expanded*` marker. No stub expanded this pass to respect the "do not exceed token limit" constraint after a 4-RCT ingest. High-value candidates expandable from already-ingested sources next pass: `[[acute-mesenteric-ischemia]]` (`[[acg-2020-hepatic-mesenteric-circulation]]`), `[[radiofrequency-ablation]]` (Barrett's EET sources), enteric-infection cluster (`[[giardiasis]]`, `[[norovirus]]`, `[[cryptosporidiosis]]`) from `[[acg-2016-acute-diarrhea]]`/`[[idsa-2017-infectious-diarrhea]]`.
+
+**Lectures available (gated — NOT auto-ingested):** ~60 lecture/chalk-talk transcripts in `raw/GI Lectures+Chalk Talks/` remain gated; require explicit human selection by name.
+
+---
+
+## [2026-07-01] ingest | 4 older ASGE Standards-of-Practice guidelines — antithrombotics, preprocedure lab testing, EUS mediastinal adenopathy, enteral feeding (scheduled ingest-and-lint pass)
+
+**Scope:** Scheduled `ingest-and-lint` run. Ingested **4** of the remaining uningested raw guidelines (all older ASGE technical/Standards-of-Practice docs) per the task's "up to 4 guidelines" directive. These are the genuine remaining gap-fillers flagged by the 2026-06-29 pass. Per source-priority rules, added **net-new, non-conflicting** detail only — did not overwrite claims from newer ACG/ASGE guidelines already on the entity pages.
+
+**Sources created:**
+- `[[asge-2016-antithrombotic]]` — The Management of Antithrombotic Agents for Patients Undergoing GI Endoscopy (Gastrointest Endosc 2016;83:3-16). Full verbatim recs (elective + urgent, AC + APA).
+- `[[asge-2014-lab-testing-endoscopy]]` — Routine Laboratory Testing Before Endoscopic Procedures (Gastrointest Endosc 2014;80:28-33). 8 GRADE recs (verbatim).
+- `[[asge-2011-eus-mediastinal-adenopathy]]` — EUS-Guided FNA in the Diagnosis of Mediastinal Adenopathy (Gastrointest Endosc 2011;74:239-245). 4 recs (verbatim).
+- `[[asge-2011-enteral-feeding]]` — The Role of Endoscopy in Enteral Feeding (Gastrointest Endosc 2011;74:7-12). 6 GRADE recs (verbatim).
+
+**Pages updated / created:**
+- `[[anticoagulation-gi-bleeding]]` — added the drug-specific **duration-of-action / hold-interval / reversal reference table** (ASGE Table 2, erratum-corrected) + pre-procedure hold intervals as net-new content complementing the ACG/CAG 2022 framework. Sources +`asge-2016-antithrombotic` (1→2).
+- `[[preprocedure-testing]]` — **new concept page** (selective, risk-based pre-endoscopy labs; test-by-test table; pregnancy testing before fluoroscopy). From `asge-2014-lab-testing-endoscopy`.
+- `[[endoscopic-ultrasound]]` — added "EUS in Mediastinal Adenopathy / Lung-Cancer Staging" section (EUS vs EBUS accessible stations, combined-modality NPV ≈ mediastinoscopy, station-5 first-line, lymphoma flow cytometry + core biopsy). Sources +`asge-2011-eus-mediastinal-adenopathy` (3→4).
+- `[[nutrition-in-hospitalized-patients]]` — expanded Enteral Access with the 30-day nasoenteric-vs-percutaneous rule, PEGJ/DPEJ indications ([[gerd]]/[[gastroparesis]]/aspiration), IV antibiotic prophylaxis, early feeding, and PEG complications. Sources +`asge-2011-enteral-feeding` (2→3).
+
+**Contradictions surfaced (newer source governs):** ASGE 2016 suggests bridging for high-thrombotic-risk patients and readier warfarin reversal (PCC/FFP); the newer `[[acg-cag-2022-anticoag-gi-bleeding]]` suggests **against** routine bridging (BRIDGE/PERIOP-2, except mechanical valves) and reserves reversal agents for life-threatening bleeding — wiki claim follows ACG/CAG 2022. Flagged on both the source page and the concept page.
+
+**Index:** added 4 ASGE source entries + `[[preprocedure-testing]]` concept; updated 3 entity descriptions/source-counts; source total 200→204 on disk, concepts 35→36.
+
+**Remaining uningested guidelines (reported, not ingested — older/superseded):** ASGE 2015 Bowel Preparation Before Colonoscopy (superseded by ACG/ASGE 2025), ASGE 2025 Bowel Preparation Quality (heavily covered by `[[acg-2025-bowel-prep]]`/`[[usmstf-2025-bowel-prep]]`). ASGE/USMSTF 2016 CRC-surveillance and 2017 FIT co-publications confirmed to be **already ingested** as the USMSTF versions (`[[usmstf-2015-crc-surveillance]]`, `[[usmstf-2016-fit-screening]]`); "ASGE 2025 GERD" = already-ingested `[[asge-2024-gerd]]` (VideoGIE 2025, DOI 2024). **RCTs (tier-2, uningested):** WATERFALL, constipation-on-gastroparesis, oral-microbiome C. diff, semaglutide-AUD — high-value for a future pass.
+
+---
+
+## [2026-07-01] lint | Index reconciliation (2 unindexed sources), empty See-Also fix, stub expansion (scheduled pass)
+
+**Index reconciliation:** On-disk source count is **204** (index count-line was stale at 198). Found **2 pre-existing source pages missing from the index Sources section** — `[[asge-2015-gastric-premalignant]]` and `[[asge-2016-solid-pancreatic-neoplasia]]` — and added index entries for both. Count-line corrected to **204 sources | 36 concepts** and dated 2026-07-01. All folder counts re-verified on disk (107 disease scripts, 19 diagnostic schemas, 2 general procedures, 19 advanced procedures, 15 meds, 0 anatomy, 36 concepts, 1 synthesis).
+
+**Broken-link scan:** Whole-wiki scan (excluding `![[embeds]]`, code spans, `log.md`/`index.md`, and escaped `\|` table aliases). One genuine broken link found and fixed — `[[endoscopic-sedation]]` → `[[endoscopy-sedation]]` in `[[asge-2014-lab-testing-endoscopy]]` (introduced this pass). No other broken links; no duplicate basenames.
+
+**Stalest-page validation:** Checked the stalest non-source content pages (`updated: 2026-05-15`).
+- `[[upper-gi-bleeding]]` — diagnostic-schema section order correct, inline links present, `## See Also` + `## Sources` well-formed → no changes.
+- `[[fever-returning-traveler]]` — **empty `## See Also` (style violation)**; added a comma-separated link line (`[[acute-diarrhea]], [[entamoeba-histolytica-infection]], [[giardiasis]], [[chronic-hepatitis-b]], [[acute-liver-failure]], [[abnormal-liver-chemistries]]`); `updated: 2026-07-01`.
+
+**Stub expanded (1; from already-ingested source only):** `[[colonoscopy-surveillance]]` — expanded from `*Stub*` to a full concept page using the already-ingested `[[usmstf-2020-followup-colonoscopy]]` (adenoma / serrated-polyp / serial-surveillance interval tables, high-quality-exam prerequisite, definitions). Frontmatter `sources:` +`usmstf-2020-followup-colonoscopy`; index description updated (stub marker removed); `updated: 2026-07-01`.
+
+**Hygiene flagged (not fixed — permission blocked):** 9 `.DS_Store` OS artifacts remain; sandbox-mount deletion returns "Operation not permitted" (unchanged from prior passes). `.gitignore` lists `.DS_Store` so they are untracked — user action needed to remove working-copy files.
+
+**Stubs remaining (flagged for triage):** 38 `*Stub*` pages remain after this expansion. High-value candidates expandable from already-ingested sources next pass: `[[radiofrequency-ablation]]` (Barrett's EET sources), `[[acute-mesenteric-ischemia]]` (`[[acg-2020-hepatic-mesenteric-circulation]]`), the enteric-infection cluster (`[[giardiasis]]`, `[[norovirus]]`, `[[rotavirus]]`, `[[cryptosporidiosis]]`) from `[[acg-2016-acute-diarrhea]]`/`[[idsa-2017-infectious-diarrhea]]`. Cap is 1-2/pass.
+
+**Lectures available (gated — NOT auto-ingested):** ~60 lecture/chalk-talk transcripts in `raw/GI Lectures+Chalk Talks/` remain gated; require explicit human selection by name (not ingested on this unattended pass).
+
+---
+
 ## [2026-06-29] lint | Link integrity + index reconciliation + stalest-page validation + stub expansion (scheduled pass)
 
 **Link integrity:** Whole-wiki broken-link scan (399 pages; basename resolution, excluding `![[embeds]]`, code spans, and fenced blocks) — **0 broken `[[links]]` in wiki content pages**. The only 3 unresolved targets (`[[esophageal-manometry]]`, `[[hrem]]`, `[[wiki-links]]`) appear solely in `log.md` historical entries / the log-format example — not in pages; no stubs created (per the guard against stubbing from documentation/example text).

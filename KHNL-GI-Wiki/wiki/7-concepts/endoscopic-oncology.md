@@ -3,7 +3,7 @@ title: "Endoscopic Oncology"
 category: concept
 tags: [endoscopic-oncology, advanced-endoscopy, gi-cancers, esd, eus, staging]
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-07-01
 sources: [chang-2024-endoscopic-oncologist, asge-2023-esd]
 ---
 
@@ -31,10 +31,7 @@ Endoscopic oncology overlaps with but is distinct from:
 
 This subspecialty typically requires advanced endoscopy fellowship beyond standard GI training, with specific volume requirements for ESD, EUS-FNA, and complex biliary work.
 
-*Stub — to be expanded with guidelines and outcome data.*
-
 ## See Also
-
 
 [[endoscopic-ultrasound]], [[polypectomy-emr]], [[ercp]], [[barretts-esophagus]], [[colorectal-cancer]], [[gastric-adenocarcinoma]]
 

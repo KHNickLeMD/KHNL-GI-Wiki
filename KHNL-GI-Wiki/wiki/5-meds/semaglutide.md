@@ -3,8 +3,8 @@ title: "Semaglutide (Wegovy, Ozempic, Rybelsus)"
 category: med
 tags: [semaglutide, wegovy, ozempic, glp-1, glp1-ra, mash, masld, obesity, diabetes, t2dm, cardiovascular, ckd, weight-loss, essence-trial, select-trial, step-trials, hpb]
 created: 2026-05-25
-updated: 2026-05-25
-sources: ["[[aasld-2025-semaglutide-mash]]", "[[aga-2022-obesity-pharm]]"]
+updated: 2026-07-01
+sources: ["[[aasld-2025-semaglutide-mash]]", "[[aga-2022-obesity-pharm]]", "[[hendershot-2025-semaglutide-aud]]"]
 ---
 
 ## Overview
@@ -176,6 +176,12 @@ For VCTE 15–20 kPa, MRE 4.4–5 kPa, or ELF 10.5–11.3: individualized treatm
 - Substantial proportion (45.6–75.3%) achieved ≥10% weight loss — the threshold associated with fibrosis reversal in MASLD guidance
 - STEP 1 extension and STEP 4: Discontinuation of semaglutide led to reversal of cardiometabolic improvements → ongoing treatment necessary to sustain benefits
 
+## Investigational: Alcohol Use Disorder (off-label)
+
+- **Off-label / investigational** — not FDA-approved for AUD; based on a single small phase 2 trial. Do not use in practice on this basis.
+- **Phase 2 RCT** (n = 48 non–treatment-seeking adults with AUD, 9 weeks) [[hendershot-2025-semaglutide-aud]]: low-dose semaglutide reduced **laboratory alcohol self-administration** (grams consumed, peak breath alcohol), **drinks per drinking day**, and **weekly craving** vs placebo; also reduced cigarettes/day in smokers. No change in average drinks/day or number of drinking days.
+- Mechanistically consistent with GLP-1RA effects on reward/craving; relevant to the rising burden of [[alcohol-associated-liver-disease]]. Larger trials are needed before any clinical use.
+
 ## Concomitant Use
 
 - **[[resmetirom|Resmetirom]]:** Combination not formally studied at semaglutide 2.4 mg/week; MAESTRO-NASH subgroup data shows similar MASH resolution/fibrosis improvement when GLP-1 RAs were taken alongside resmetirom; no notable safety differences; relative efficacy not established [[aasld-2025-semaglutide-mash]]
@@ -193,3 +199,4 @@ For VCTE 15–20 kPa, MRE 4.4–5 kPa, or ELF 10.5–11.3: individualized treatm
 
 1. [[aasld-2025-semaglutide-mash|Semaglutide Therapy for Metabolic Dysfunction–Associated Steatohepatitis: November 2025 Updates to AASLD Practice Guidance]]
 2. [[aga-2022-obesity-pharm|AGA Clinical Practice Guideline: Pharmacological Interventions for Adults with Obesity (2022)]]
+3. [[hendershot-2025-semaglutide-aud|Once-Weekly Semaglutide in Adults With Alcohol Use Disorder (JAMA Psychiatry 2025)]]

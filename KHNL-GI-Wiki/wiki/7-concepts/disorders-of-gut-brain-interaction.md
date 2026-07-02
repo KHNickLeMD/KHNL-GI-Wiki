@@ -3,7 +3,7 @@ title: "Disorders of Gut–Brain Interaction (DGBI)"
 category: concept
 tags: [DGBI, functional-gi, IBS, rome-criteria, biopsychosocial, brain-gut-axis, motility, visceral-hypersensitivity]
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-07-01
 sources: [rome-v-2026-dgbi]
 ---
 
@@ -196,7 +196,7 @@ Severity-guided biopsychosocial approach:
 
 ## See Also
 
-[[test-and-treat]]
+[[irritable-bowel-syndrome]], [[dyspepsia]], [[gastroparesis]], [[test-and-treat]]
 
 ---
 

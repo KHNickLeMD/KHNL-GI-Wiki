@@ -3,8 +3,8 @@ title: "Pancreatic Ductal Adenocarcinoma (Pancreatic Cancer)"
 category: disease-script
 tags: [pancreatic-cancer, pdac, oncology, screening, genetics, brca, eus, hpb]
 created: 2026-06-04
-updated: 2026-06-04
-sources: [asge-2022-pancreatic-cancer-screening, acg-2018-pancreatic-cysts, acg-2015-hereditary-gi-cancer]
+updated: 2026-06-30
+sources: [asge-2022-pancreatic-cancer-screening, acg-2018-pancreatic-cysts, acg-2015-hereditary-gi-cancer, asge-2016-solid-pancreatic-neoplasia]
 ---
 
 Pancreatic ductal adenocarcinoma (PDAC) is the dominant malignancy of the exocrine pancreas and the disease meant by "pancreatic cancer" in most clinical contexts. It is biologically aggressive, usually diagnosed at an advanced stage, and carries a lifetime incidence of ~1.6% with ~10% 5-year survival; it accounted for ~3% of new US cancers and ~8% of cancer deaths in 2020 [[asge-2022-pancreatic-cancer-screening]]. Stage at diagnosis dominates prognosis: 93% 10-year survival for stage 0 and 34%-39% 5-year survival for stage I, versus ~80% of patients presenting with advanced/inoperable disease.
@@ -48,6 +48,7 @@ See the [[pancreatic-cancer-screening|high-risk pancreatic cancer surveillance]]
 - **Surgical resection** (Whipple/pancreaticoduodenectomy, distal pancreatectomy) is the only curative option, reserved for resectable/borderline-resectable disease — making early/screen-detected diagnosis the principal lever on survival (60% of screen-detected cancers were resectable/borderline-resectable vs ~20% of symptom-detected).
 - **Chemotherapy** — FOLFIRINOX and gemcitabine-based regimens (neoadjuvant, adjuvant, and palliative). Homologous-recombination-deficient (BRCA1/2, PALB2) tumors are sensitive to platinum-based regimens and PARP inhibitors (e.g., maintenance **olaparib** in germline BRCA-mutated metastatic disease).
 - **Harms of a screening/surveillance program** must be weighed: across screened cohorts, low-yield pancreatic surgery occurred in 2.8% overall but 46.6% of those operated, with a ~19.9% perioperative adverse-event rate among operated patients [[asge-2022-pancreatic-cancer-screening]]. Patients should be counseled on benefits and harms before enrolling.
+- **Endoscopic palliation** — endoscopic stent placement (SEMS) is the preferred modality for symptomatic, unresectable PDAC with malignant biliary and/or gastroduodenal obstruction; **EUS-guided celiac plexus neurolysis** for tumor-related pain; **EUS-guided fiducial placement** when image-guided radiotherapy is planned. Avoid **preoperative ERCP** for resectable PDAC with obstructive jaundice in the absence of cholangitis unless operative resection will be substantially delayed (preop biliary drainage increases perioperative complications). [[asge-2016-solid-pancreatic-neoplasia]]
 
 ## See Also
 
@@ -60,3 +61,4 @@ See the [[pancreatic-cancer-screening|high-risk pancreatic cancer surveillance]]
 1. [[asge-2022-pancreatic-cancer-screening|ASGE Guideline on Screening for Pancreatic Cancer in Individuals with Genetic Susceptibility: Summary and Recommendations (2022)]]
 2. [[acg-2018-pancreatic-cysts|ACG 2018: Diagnosis and Management of Pancreatic Cysts]]
 3. [[acg-2015-hereditary-gi-cancer|ACG 2015: Genetic Testing and Management of Hereditary Gastrointestinal Cancer Syndromes]]
+4. [[asge-2016-solid-pancreatic-neoplasia|ASGE Guideline: The Role of Endoscopy in the Diagnosis and the Management of Solid Pancreatic Neoplasia (2016)]]

@@ -3,8 +3,8 @@ title: "Acute Pancreatitis"
 category: disease-script
 tags: [pancreatitis, acute-pancreatitis, hpb, gallstone-pancreatitis, necrotizing-pancreatitis, ercp, bisap, fluid-resuscitation, nutrition]
 created: 2026-05-07
-updated: 2026-06-29
-sources: [acg-2024-acute-pancreatitis, asge-2016-pancreatic-fluid-collections, asge-2015-benign-pancreatic-disease]
+updated: 2026-07-01
+sources: [acg-2024-acute-pancreatitis, asge-2016-pancreatic-fluid-collections, asge-2015-benign-pancreatic-disease, demadaria-2022-waterfall]
 ---
 
 # Acute Pancreatitis
@@ -145,6 +145,13 @@ BISAP ≥3 = high risk for severe AP and mortality
 - **Aggressive hydration limited to first 24–48 hours** — over-resuscitation harmful: abdominal compartment syndrome, pulmonary edema, ARDS
 - Reduce rate when targets met or signs of fluid overload emerge
 
+**Evidence — WATERFALL RCT** [[demadaria-2022-waterfall]]:
+
+- Aggressive (20 mL/kg bolus → 3 mL/kg/hr) vs moderate (≤10 mL/kg bolus → 1.5 mL/kg/hr) goal-directed LR
+- **No reduction** in progression to moderately severe/severe disease: 22.1% vs 17.3% (adj RR 1.30, 95% CI 0.78–2.18, P = 0.32)
+- **Fluid overload ~tripled** with aggressive: 20.5% vs 6.3% (adj RR 2.85, 95% CI 1.36–5.94, P = 0.004)
+- Trial halted early for safety — primary-evidence basis for favoring moderate, goal-directed resuscitation
+
 **Avoid aggressive fluid resuscitation in:**
 
 - Elderly patients with cardiac or renal comorbidity
@@ -270,3 +277,4 @@ BISAP ≥3 = high risk for severe AP and mortality
 1. [[acg-2024-acute-pancreatitis|ACG Clinical Guideline: Management of Acute Pancreatitis (2024)]]
 2. [[asge-2016-pancreatic-fluid-collections|ASGE Guideline: The Role of Endoscopy in the Diagnosis and Treatment of Inflammatory Pancreatic Fluid Collections (2016)]]
 3. [[asge-2015-benign-pancreatic-disease|ASGE Guideline: The Role of Endoscopy in Benign Pancreatic Disease (2015)]]
+4. [[demadaria-2022-waterfall|Aggressive or Moderate Fluid Resuscitation in Acute Pancreatitis (WATERFALL, NEJM 2022)]]

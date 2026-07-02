@@ -3,8 +3,8 @@ title: "Gastroparesis"
 category: disease-script
 tags: [gastroparesis, gastric-motility, prokinetics, g-poem, gastric-emptying, foregut]
 created: 2026-05-15
-updated: 2026-06-27
-sources: [acg-2022-gastroparesis, aga-2025-gastroparesis]
+updated: 2026-07-01
+sources: [acg-2022-gastroparesis, aga-2025-gastroparesis, surjanhata-2025-constipation-gastroparesis]
 ---
 
 # Gastroparesis
@@ -288,6 +288,7 @@ sources: [acg-2022-gastroparesis, aga-2025-gastroparesis]
 
 - **Metoclopramide duration:** FDA limits to <12 weeks, but actual tardive dyskinesia risk is ~0.1/1,000 patient-years — far below regulatory estimates. Real-world risk-benefit individualization is appropriate.
 - **WMC offers pan-GI information:** up to 46% of GP patients have extragastric dysmotility; co-existing slow transit constipation or evacuation disorder is common and may alter management.
+- **Treating coexisting slow colonic transit can improve upper-GI symptoms** [[surjanhata-2025-constipation-gastroparesis]]: in patients with GP-type symptoms + slow colonic transit, new/changed constipation therapy improved GCSI (P = 0.007) and constipation scores — driven by the delayed-emptying subgroup (↓ nausea/vomiting, ↓ early satiety). Patients with **normal** colonic transit showed no GCSI benefit. Supports whole-gut evaluation over gastric-emptying testing alone.
 - **GP-FD reclassification:** ~40% of patients are reclassified on repeat GE testing — consider repeat SGE if initial diagnosis is uncertain or symptoms change significantly.
 - **Opioids are contraindicated in GP pain:** both tramadol (retards orocecal transit) and tapentadol (retards GE) worsen GP; opioid use is associated with worse outcomes.
 - **G-POEM patient selection:** consider EndoFLIP assessment of pyloric DI before G-POEM; high preoperative gastric retention at 4 hours predicts clinical failure, not success.
@@ -305,3 +306,4 @@ sources: [acg-2022-gastroparesis, aga-2025-gastroparesis]
 
 1. [[acg-2022-gastroparesis|ACG 2022: Gastroparesis]]
 2. [[aga-2025-gastroparesis|AGA Clinical Practice Guideline: Management of Gastroparesis (2025)]]
+3. [[surjanhata-2025-constipation-gastroparesis|Impact of Constipation Therapies on Severity of Gastroparesis (Neurogastroenterol Motil 2025)]]

@@ -3,8 +3,8 @@ title: "Gastric Polyps"
 category: concept
 tags: [gastric-polyps, fundic-gland-polyp, hyperplastic-polyp, gastric-adenoma, gim, atrophic-gastritis, helicobacter-pylori, endoscopy, surveillance]
 created: 2026-06-27
-updated: 2026-06-27
-sources: [aga-2026-gastric-polyps]
+updated: 2026-06-30
+sources: [aga-2026-gastric-polyps, asge-2015-gastric-premalignant]
 ---
 
 Clinical framework for the endoscopic classification, resection, and surveillance of gastric mucosal polyps. Core principle: evaluate **both the polyp and the surrounding/background mucosa**, since field changes ([[helicobacter-pylori-infection|H. pylori]] gastritis, [[atrophic-gastritis|autoimmune/atrophic gastritis]], [[gastric-intestinal-metaplasia|GIM]]) drive malignant risk and surveillance.
@@ -42,6 +42,7 @@ Different polyp types may **coexist** in the same patient (2%–3%) and each ass
 
 - Techniques: snare and biopsy forceps, [[polypectomy-emr|endoscopic mucosal resection (EMR)]], or [[endoscopic-submucosal-dissection|ESD]].
 - With **numerous polyps of varied size**: resect the **largest** when possible; sample or resect the smaller ones.
+- Older size thresholds for polypectomy when feasible (ASGE 2015): **FGP ≥1 cm, hyperplastic ≥0.5 cm, adenoma of any size**; with multiple hyperplastic/adenomatous polyps, systematically sample the surrounding nonpolypoid mucosa (H. pylori + metaplastic atrophic gastritis). [[asge-2015-gastric-premalignant]]
 
 ## Surveillance
 
@@ -60,3 +61,4 @@ Surveillance is keyed to **polyp histology + background mucosa**:
 ## Sources
 
 1. [[aga-2026-gastric-polyps|AGA Clinical Practice Update on Management of Gastric Polyps: Expert Review (2026)]]
+2. [[asge-2015-gastric-premalignant|ASGE Guideline: The Role of Endoscopy in the Management of Premalignant and Malignant Conditions of the Stomach (2015)]]

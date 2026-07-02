@@ -3,7 +3,7 @@ title: "Upper Endoscopy (EGD) — Quality Standards"
 category: general-procedure
 tags: [egd, upper-endoscopy, esophagogastroduodenoscopy, ugib, barrett-esophagus, peptic-ulcer, gpmc, celiac, quality-indicators]
 created: 2026-05-07
-updated: 2026-05-15
+updated: 2026-07-01
 sources: [acg-2025-egd-quality, aga-2024-upper-endoscopy-quality]
 ---
 
@@ -228,8 +228,7 @@ More rigorous documentation is recommended for Barrett's esophagus, gastric inte
 
 ## See Also
 
-
-[[gastric-premalignant-conditions]], [[eosinophilic-esophagitis]], [[helicobacter-pylori-infection]]
+[[gastric-premalignant-conditions]], [[eosinophilic-esophagitis]], [[helicobacter-pylori-infection]], [[peptic-ulcer-disease]], [[barretts-esophagus]], [[celiac-disease]]
 
 ---
 
