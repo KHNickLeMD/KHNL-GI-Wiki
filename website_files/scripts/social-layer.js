@@ -701,6 +701,7 @@
   // until then an item shows a "soon" badge and a "coming soon" flash on click.
   // (§4.2 menu: My notes · Bookmarks · Reviewed pages · Friends · Privacy · Sign out)
   var MENU_ITEMS = [
+    { id: "profile",   label: "Edit profile" }, // top item: name / username / email / password
     { id: "notes",     label: "My notes" },
     { id: "bookmarks", label: "Bookmarks" },
     { id: "reviewed",  label: "Reviewed pages" },
@@ -916,6 +917,134 @@
 
     updatePreview();
   }
+
+  // ----------------------------- EDIT PROFILE --------------------------
+  // Account-menu top item: display name, username, email (confirmation link),
+  // and password change (requires current password). PocketBase invalidates
+  // the session on password change, so we transparently sign back in.
+  function openEditProfile() {
+    if (overlay || !state.user) return;
+    var u = state.user;
+    overlay = el(
+      '<div class="khnl-sl-overlay" role="dialog" aria-modal="true" aria-label="Edit profile">' +
+        '<div class="khnl-sl-card">' +
+          '<button class="khnl-sl-x" aria-label="Close">&times;</button>' +
+          "<h3>Edit profile</h3>" +
+          '<p class="khnl-sl-sub">Update your account details. Leave the password fields blank to keep your current password.</p>' +
+          "<form novalidate>" +
+            '<div class="khnl-sl-row" id="r-ep-dn"><label for="ep-dn">Display name</label>' +
+              '<input id="ep-dn" type="text" autocomplete="name" maxlength="80"></div>' +
+            '<div class="khnl-sl-row" id="r-ep-user"><label for="ep-user">Username</label>' +
+              '<input id="ep-user" type="text" autocomplete="username" maxlength="30">' +
+              '<div class="khnl-sl-err">3–30 characters; letters, digits, _ . - (must start with a letter or digit).</div></div>' +
+            '<div class="khnl-sl-row" id="r-ep-email"><label for="ep-email">Email</label>' +
+              '<input id="ep-email" type="email" autocomplete="email" maxlength="200">' +
+              '<div class="khnl-sl-err">Please enter a valid email.</div></div>' +
+            '<div class="khnl-sl-sep"></div>' +
+            '<div class="khnl-sl-row" id="r-ep-pw1"><label for="ep-pw1">New password <span style="font-weight:400;color:#888">(optional)</span></label>' +
+              '<input id="ep-pw1" type="password" autocomplete="new-password">' +
+              '<div class="khnl-sl-err">At least 8 characters.</div></div>' +
+            '<div class="khnl-sl-row" id="r-ep-pw2"><label for="ep-pw2">Confirm new password</label>' +
+              '<input id="ep-pw2" type="password" autocomplete="new-password">' +
+              '<div class="khnl-sl-err">Passwords don’t match.</div></div>' +
+            '<div class="khnl-sl-row" id="r-ep-old"><label for="ep-old">Current password <span style="font-weight:400;color:#888">(needed to change password)</span></label>' +
+              '<input id="ep-old" type="password" autocomplete="current-password">' +
+              '<div class="khnl-sl-err">Enter your current password to set a new one.</div></div>' +
+            '<p class="khnl-sl-formerr" id="ep-formerr"></p>' +
+            '<div class="khnl-sl-actions">' +
+              '<button type="button" class="khnl-sl-btn ghost" id="ep-cancel">Cancel</button>' +
+              '<button type="submit" class="khnl-sl-btn primary" id="ep-save">Save changes</button>' +
+            "</div>" +
+          "</form>" +
+        "</div>" +
+      "</div>"
+    );
+    document.body.appendChild(overlay);
+    overlay.querySelector(".khnl-sl-x").addEventListener("click", closeModal);
+    overlay.querySelector("#ep-cancel").addEventListener("click", closeModal);
+    overlay.addEventListener("mousedown", function (e) { if (e.target === overlay) closeModal(); });
+    document.addEventListener("keydown", escClose);
+
+    // Prefill current values
+    overlay.querySelector("#ep-dn").value = u.displayName || "";
+    overlay.querySelector("#ep-user").value = u.username || "";
+    overlay.querySelector("#ep-email").value = u.email || "";
+
+    overlay.querySelector("form").addEventListener("submit", function (ev) {
+      ev.preventDefault();
+      var dn = overlay.querySelector("#ep-dn").value.trim();
+      var uname = overlay.querySelector("#ep-user").value.trim().toLowerCase();
+      var email = overlay.querySelector("#ep-email").value.trim().toLowerCase();
+      var pw1 = overlay.querySelector("#ep-pw1").value;
+      var pw2 = overlay.querySelector("#ep-pw2").value;
+      var oldPw = overlay.querySelector("#ep-old").value;
+      var formErr = overlay.querySelector("#ep-formerr");
+      formErr.style.display = "none";
+
+      var wantsPw = !!(pw1 || pw2);
+      var ok = true;
+      var unameOk = /^[a-z0-9][a-z0-9_.-]{2,29}$/.test(uname);
+      setBad("#r-ep-user", !unameOk); ok = ok && unameOk;
+      setBad("#r-ep-email", !validEmail(email), "Please enter a valid email."); ok = ok && validEmail(email);
+      if (wantsPw) {
+        setBad("#r-ep-pw1", pw1.length < 8); ok = ok && pw1.length >= 8;
+        setBad("#r-ep-pw2", pw1 !== pw2); ok = ok && pw1 === pw2;
+        setBad("#r-ep-old", !oldPw); ok = ok && !!oldPw;
+      } else {
+        setBad("#r-ep-pw1", false); setBad("#r-ep-pw2", false); setBad("#r-ep-old", false);
+      }
+      if (!ok) return;
+
+      var btn = overlay.querySelector("#ep-save");
+      busy(btn, true, "Save changes");
+
+      var body = {};
+      if (dn !== (u.displayName || "")) body.displayName = dn;
+      if (uname !== (u.username || "")) body.username = uname;
+      if (wantsPw) { body.oldPassword = oldPw; body.password = pw1; body.passwordConfirm = pw2; }
+      var emailChanged = email !== String(u.email || "").toLowerCase();
+
+      var patch = Object.keys(body).length
+        ? api("/api/collections/users/records/" + u.id, { method: "PATCH", body: body })
+        : Promise.resolve(null);
+
+      patch
+        .then(function (j) {
+          if (j) setUser(Object.assign({}, state.user, j));
+          // Changing the password kills the server session — sign back in silently.
+          if (wantsPw) return auth.login(uname || u.email, pw1);
+        })
+        .then(function () {
+          if (!emailChanged) return null;
+          // Email changes are confirmed by link (keeps accounts recoverable).
+          return api("/api/collections/users/request-email-change", {
+            method: "POST",
+            body: { newEmail: email },
+          }).then(function () { return "email"; });
+        })
+        .then(function (flag) {
+          closeModal();
+          if (flag === "email") {
+            alert("Almost done — we sent a confirmation link to " + email + ". Your email updates once you click it.");
+          }
+        })
+        .catch(function (err) {
+          busy(btn, false, "Save changes");
+          var mapped = applyServerErrors(err, {
+            username: "#r-ep-user",
+            oldPassword: "#r-ep-old",
+            password: "#r-ep-pw1",
+            passwordConfirm: "#r-ep-pw2",
+            newEmail: "#r-ep-email",
+          });
+          formErr.textContent = mapped
+            ? "Please fix the highlighted fields."
+            : ((err && err.message) || "Could not save. Please try again.");
+          formErr.style.display = "block";
+        });
+    });
+  }
+  registerMenuItem("profile", openEditProfile);
 
   // ================== §4.8 BOOKMARKS (Step 6) ==================
   // Star toggle in the page topbar (#page-meta-top) + "My bookmarks" panel on

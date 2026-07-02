@@ -115,8 +115,11 @@ Create a free account (**Sign in**, top-right) to add a personal study layer on 
 - **Reviewed tracking** — click the ✓ next to the star when you've finished studying a page. Reviewed pages show a green ✓ in the section lists, and **Reviewed pages** in the menu shows what you covered and when.
 - **Friends** — find colleagues by username under **Friends**, send a request, and once accepted you can see each other's reviewed pages, bookmarks, and any notes explicitly shared (per privacy settings).
 - **Privacy** — everything is private by default except to accepted friends, and each note is only shared if you tick *"Visible to friends"* on it. The **Privacy** menu controls profile/activity visibility and whether you appear in user search.
-- **Feedback & bug reports** — the **?** bubble (bottom-right) works with or without an account: report bugs, ask clinical questions, or suggest corrections. Please don't include patient-identifiable information.
 - **Your data is yours** — **Account & data** in the menu exports everything you've created as JSON, or deletes your account and all of its data permanently.
+
+## Feedback & Bug Reports
+
+The **?** bubble (bottom-right) works with or without an account: report bugs, ask clinical questions, or suggest corrections. Please don't include patient-identifiable information.
 
 ---
 
