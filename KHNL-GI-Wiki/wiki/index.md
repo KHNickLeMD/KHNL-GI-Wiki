@@ -1,7 +1,7 @@
 ---
 title: "Wiki Index"
 category: index
-updated: 2026-07-01
+updated: 2026-07-02
 ---
 
 # KHNL GI Encyclopedia — Master Index
@@ -74,7 +74,7 @@ updated: 2026-07-01
 - [[salmonella-infection]] — Salmonella: no antibiotics in immunocompetent (prolongs carriage), treat high-risk/severe (stub)
 - [[shigellosis]] — Shigella: azithromycin first-line, very low inoculum, no rifaximin (invasive) (stub)
 - [[enterotoxigenic-e-coli]] — ETEC: most common traveler's diarrhea pathogen, rifaximin appropriate (non-invasive) (stub)
-- [[giardiasis]] — Giardia: tinidazole preferred, water/travel association, cyst resistance to chlorine (stub)
+- [[giardiasis]] — Giardia: ADDT — persistent/traveler's diarrhea, malabsorption, chlorine-resistant cysts; stool antigen EIA/PCR, duodenal aspirate; tinidazole preferred (2 sources)
 - [[cryptosporidiosis]] — Cryptosporidium: nitazoxanide, chlorine-resistant oocysts, immunocompromised risk (stub)
 - [[entamoeba-histolytica-infection]] — E. histolytica: amebic dysentery + liver abscess, luminal agent required after tissue treatment (stub)
 - [[lynch-syndrome]] — Lynch (HNPCC): ADDT — MMR variants (MLH1/MSH2/MSH6/PMS2), universal tumor MMR testing + BRAF/methylation reflex, gene-specific CRC risk tables, q1–2y colonoscopy from 20–25 (62–72% mortality reduction), colectomy-with-IRA preferred, endometrial biopsy/TVUS from 30–35, prophylactic hysterectomy/BSO at 40–45, aspirin CAPP2 data, pembrolizumab for MSI-H (2 sources)

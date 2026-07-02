@@ -6,6 +6,31 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-07-02] lint | Guideline queue confirmed exhausted, giardiasis stub expanded (ADDT), 2 stalest pages validated, whole-wiki link scan (scheduled ingest-and-lint pass)
+
+**Ingest:** None. Cross-checked all **208** raw guideline files in `raw/GI Guidelines/` against ingested `wiki/sources/` slugs — every guideline is ingested. The only uningested guideline files are `ASGE 2015 Bowel Preparation` and `ASGE 2025 Bowel Preparation Quality`, both deliberately skipped on prior passes as superseded duplicates fully covered by `[[acg-2025-bowel-prep]]` / `[[usmstf-2025-bowel-prep]]`. No new priority-tier ingest available; proceeded to lint only.
+
+**Stub expanded (1):**
+- `[[giardiasis]]` — was carrying a `*Stub — to be expanded*` marker despite substantial content; restructured into full **ADDT** disease-script format (Assessment/Establishing Dx + Severity → Differential with `*Workup: see [[acute-diarrhea]].*` → Diagnostics → Therapeutics). Added net-new detail from `[[idsa-2017-infectious-diarrhea]]` (duodenal aspirate for suspected *Giardia*/*Strongyloides*/*Cystoisospora*/microsporidia; weak/low). Sources 1→2 (`+idsa-2017-infectious-diarrhea`); densified inline DDx links; `updated: 2026-07-02`. Index description updated, `(stub)` → `(2 sources)`.
+
+**Stalest-page validation (2 pages, both `updated: 2026-05-15/16`):**
+- `[[hrm-antireflux-surgery]]` (concept, 2026-05-15) — content compliant; fixed double blank line under `## See Also` and **densified** See Also (+`[[high-resolution-manometry]]`, `[[antireflux-surgery]]`, `[[gerd]]`, `[[chicago-classification-v4]]`, `[[poem]]`); `updated: 2026-07-02`.
+- `[[anal-fissure]]` (disease-script, 2026-05-16) — removed a non-standard `*Cross-references: …*` line duplicating See Also (Style Guide violation); fixed double blank line under `## See Also`; `updated: 2026-07-02`.
+
+**Stub NOT expanded (flagged):** `[[acute-mesenteric-ischemia]]` — its only candidate source `[[acg-2020-hepatic-mesenteric-circulation]]` covers mesenteric **vein** thrombosis (MVT) and mesenteric artery aneurysms, **not** the arterial-AMI disease script (embolic/thrombotic SMA occlusion, NOMI, revascularization). Cannot expand without fabricating — left as stub per the no-outside-information rule. Would need a dedicated AMI source ingested.
+
+**Broken-link scan:** Whole-wiki basename-resolution scan (excluding `![[embeds]]`, code spans, table `\|` aliases, `index.md`/`log.md`). **0 broken links**; all new giardiasis links and densified See-Also links resolve.
+
+**Index reconciliation:** On-disk counts re-verified and unchanged: 107 disease scripts, 19 diagnostic schemas, 2 general procedures, 19 advanced procedures, 15 meds, 0 anatomy, 36 concepts, 208 sources, 1 synthesis. Index frontmatter dated 2026-07-02.
+
+**Hygiene flagged (not fixed — permission blocked):** 9 `.DS_Store` OS artifacts remain; sandbox-mount deletion returns "Operation not permitted" (unchanged). Untracked via `.gitignore`; user action needed.
+
+**Stubs remaining (flagged, not expanded — token budget):** ~46 files still carry a `*Stub — to be expanded*` marker. High-value candidates expandable next pass from already-ingested sources: enteric-infection cluster (`[[cryptosporidiosis]]`, `[[entamoeba-histolytica-infection]]`, `[[campylobacter-infection]]`, `[[salmonella-infection]]`, `[[shigellosis]]`, `[[norovirus]]`) from `[[acg-2016-acute-diarrhea]]`/`[[idsa-2017-infectious-diarrhea]]`; `[[radiofrequency-ablation]]` from Barrett's EET sources.
+
+**Lectures available (gated — NOT auto-ingested):** ~60 lecture/chalk-talk transcripts in `raw/GI Lectures+Chalk Talks/` remain gated; require explicit human selection by name.
+
+---
+
 ## [2026-07-01] ingest | 4 RCTs — WATERFALL fluids, SER-109 for recurrent C. diff, constipation-therapy in gastroparesis, semaglutide for AUD (scheduled ingest-and-lint pass)
 
 **Scope:** Scheduled `ingest-and-lint` run. All remaining raw **guidelines are exhausted** — every uningested guideline is either already ingested or a superseded ASGE bowel-prep duplicate (ASGE 2015 / ASGE 2025 Bowel-Prep, both heavily covered by `[[acg-2025-bowel-prep]]` / `[[usmstf-2025-bowel-prep]]`). The genuine remaining priority-tier (tier-2 primary research) uningested sources were the **4 RCTs**, which the earlier 2026-07-01 pass had flagged as high-value. Ingested all 4. Added **net-new, non-conflicting** detail only.
