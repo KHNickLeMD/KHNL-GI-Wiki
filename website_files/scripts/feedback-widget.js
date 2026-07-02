@@ -273,6 +273,9 @@
     fetch(url, {
       method: "POST",
       headers: { "Content-Type": "application/json" },
+      // Step 4: send the httpOnly session cookie so the server hook can bind
+      // the feedback to the logged-in account (anonymous submits unaffected).
+      credentials: "include",
       body: JSON.stringify(payload),
     })
       .then(function (r) { return r.json().then(function (j) { return { ok: r.ok, j: j }; }); })
