@@ -1,7 +1,7 @@
 /*
- * KHNL GI Wiki — Social layer, Steps 4–9: signup, verification & login +
+ * KHNL GI Wiki — Social layer, Steps 4–10: signup, verification & login +
  * avatar bubble & account menu + bookmarks + reviewed-page tracking +
- * private in-context notes (durable, §4.3) + friends (§4.5).
+ * private in-context notes (durable, §4.3) + friends (§4.5) + privacy (§4.6).
  * Plan: ACCOUNTS-SOCIAL-PLAN.md §2 (sessions), §4.1 (auth), §4.2 (avatar
  * bubble), §4.3 (notes), §4.5 (friends), §4.7 (reviewed tracking),
  * §4.8 (bookmarks), §4.9 (resilience), §4.10 (error tracking), §7 Steps 4–9.
@@ -44,7 +44,7 @@
   var CONFIG = {
     API_BASE: "https://api.khnicklemd.com",
     TURNSTILE_SITE_KEY: "0x4AAAAAADsnUhGCQy6CF38J", // public site key (same widget as feedback)
-    APP_VERSION: "step9-2026-07-02",
+    APP_VERSION: "step10-2026-07-02",
   };
 
   // ======================================================================
@@ -1338,6 +1338,8 @@
             '<textarea id="nt-body" rows="5" style="width:100%;box-sizing:border-box;padding:8px 9px;' +
               'border:1px solid #ccc;border-radius:7px;font:inherit"></textarea>' +
             '<div class="khnl-sl-err">Please write the note first.</div></div>' +
+          '<label style="font-weight:400;font-size:12.5px;display:flex;gap:6px;align-items:center;margin:0 0 8px">' +
+            '<input type="checkbox" id="nt-share" style="width:auto"> Visible to friends (§ Privacy — off by default)</label>' +
           '<p class="khnl-sl-formerr" id="nt-formerr"></p>' +
           '<div class="khnl-sl-actions">' +
             (isNew ? "" : '<button type="button" class="khnl-sl-btn ghost" id="nt-del" style="margin-right:auto;color:#b00020">Delete</button>') +
@@ -1355,6 +1357,7 @@
 
     var ta = overlay.querySelector("#nt-body");
     ta.value = note.body || "";
+    overlay.querySelector("#nt-share").checked = !!note.sharedToFriends;
     ta.focus();
 
     var del = overlay.querySelector("#nt-del");
@@ -1381,10 +1384,12 @@
               anchorText: note.anchorText || "",
               anchorHeading: note.anchorHeading || "",
               body: body.slice(0, 10000),
+              sharedToFriends: overlay.querySelector("#nt-share").checked,
             },
           })
         : api("/api/collections/private_notes/records/" + note.id, {
-            method: "PATCH", body: { body: body.slice(0, 10000) },
+            method: "PATCH",
+            body: { body: body.slice(0, 10000), sharedToFriends: overlay.querySelector("#nt-share").checked },
           });
       req.then(function () { ntInvalidate(); closeModal(); renderNotes(); })
         .catch(function (err) {
@@ -1561,7 +1566,11 @@
         });
         section("Friends", friends, function (f) {
           var other = f.requester === me ? exp(f, "recipient") : exp(f, "requester");
-          return row(userLabel(other), [{ label: "Unfriend", fn: del(f) }]);
+          var r = row(userLabel(other), [{ label: "Unfriend", fn: del(f) }]);
+          var v = el('<button type="button" class="khnl-bm-act">View</button>');
+          v.addEventListener("click", function () { if (other) openFriendView(other); });
+          r.insertBefore(v, r.children[1] || null);
+          return r;
         });
         section("Sent — waiting", outgoing, function (f) {
           return row(userLabel(exp(f, "recipient")), [{ label: "Cancel", fn: del(f) }]);
@@ -1619,6 +1628,123 @@
   }
 
   registerMenuItem("friends", openFriends);
+
+  // ================== §4.6 PRIVACY SETTINGS (Step 10) ==================
+  // Three per-account toggles stored ON the user record (plan §3, updated):
+  // profileVisibility (empty = friends), activityVisibility (empty = friends),
+  // hideFromSearch (empty = visible). Enforcement is server-side in the
+  // zz_step10_privacy migration; this panel just edits the fields.
+  function openPrivacy() {
+    if (overlay || !state.user) return;
+    var u = state.user;
+    overlay = el(
+      '<div class="khnl-sl-overlay" role="dialog" aria-modal="true" aria-label="Privacy">' +
+        '<div class="khnl-sl-card">' +
+          '<button class="khnl-sl-x" aria-label="Close">&times;</button>' +
+          "<h3>Privacy</h3>" +
+          '<p class="khnl-sl-sub">Defaults: visible to friends, hidden from everyone else.</p>' +
+          '<div class="khnl-sl-row"><label for="pv-prof">Who can see your profile</label>' +
+            '<select id="pv-prof" style="width:100%;padding:7px;border:1px solid #ccc;border-radius:7px;font:inherit">' +
+              '<option value="friends">Friends only (default)</option>' +
+              '<option value="public">Everyone with an account</option>' +
+              '<option value="private">Only me</option>' +
+            "</select></div>" +
+          '<div class="khnl-sl-row"><label for="pv-act">Who can see your activity (reviewed pages &amp; bookmarks)</label>' +
+            '<select id="pv-act" style="width:100%;padding:7px;border:1px solid #ccc;border-radius:7px;font:inherit">' +
+              '<option value="friends">Friends only (default)</option>' +
+              '<option value="private">Only me</option>' +
+            "</select></div>" +
+          '<div class="khnl-sl-row"><label style="font-weight:400;display:flex;gap:8px;align-items:center">' +
+            '<input type="checkbox" id="pv-search" style="width:auto"> Appear in user search</label></div>' +
+          '<p class="khnl-sl-sub" style="margin-top:2px">Individual notes are only ever shared if you tick ' +
+            '“Visible to friends” on that note.</p>' +
+          '<p class="khnl-sl-formerr" id="pv-formerr"></p>' +
+          '<div class="khnl-sl-actions">' +
+            '<button type="button" class="khnl-sl-btn ghost" id="pv-cancel">Cancel</button>' +
+            '<button type="button" class="khnl-sl-btn primary" id="pv-save">Save</button>' +
+          "</div>" +
+        "</div>" +
+      "</div>"
+    );
+    document.body.appendChild(overlay);
+    overlay.querySelector(".khnl-sl-x").addEventListener("click", closeModal);
+    overlay.querySelector("#pv-cancel").addEventListener("click", closeModal);
+    overlay.addEventListener("mousedown", function (e) { if (e.target === overlay) closeModal(); });
+    document.addEventListener("keydown", escClose);
+
+    overlay.querySelector("#pv-prof").value = u.profileVisibility || "friends";
+    overlay.querySelector("#pv-act").value = u.activityVisibility || "friends";
+    overlay.querySelector("#pv-search").checked = !u.hideFromSearch;
+
+    overlay.querySelector("#pv-save").addEventListener("click", function () {
+      var btn = overlay.querySelector("#pv-save");
+      busy(btn, true, "Save");
+      api("/api/collections/users/records/" + u.id, {
+        method: "PATCH",
+        body: {
+          profileVisibility: overlay.querySelector("#pv-prof").value,
+          activityVisibility: overlay.querySelector("#pv-act").value,
+          hideFromSearch: !overlay.querySelector("#pv-search").checked,
+        },
+      }).then(function (j) {
+        setUser(Object.assign({}, state.user, j || {}));
+        closeModal();
+      }).catch(function (err) {
+        busy(btn, false, "Save");
+        var fe = overlay.querySelector("#pv-formerr");
+        fe.textContent = (err && err.message) || "Could not save. Please try again.";
+        fe.style.display = "block";
+      });
+    });
+  }
+
+  registerMenuItem("privacy", openPrivacy);
+
+  // --- friend activity viewer (what the Step 10 rules unlock) ---------------
+  function openFriendView(friendUser) {
+    if (overlay) closeModal();
+    overlay = el(
+      '<div class="khnl-sl-overlay" role="dialog" aria-modal="true" aria-label="Friend activity">' +
+        '<div class="khnl-sl-card" style="width:460px">' +
+          '<button class="khnl-sl-x" aria-label="Close">&times;</button>' +
+          "<h3>" + userLabel(friendUser).replace(/</g, "&lt;") + "</h3>" +
+          '<p class="khnl-sl-sub">What they share with friends.</p>' +
+          '<div class="khnl-bm-grp">Reviewed pages</div><div id="fv-rv"></div>' +
+          '<div class="khnl-bm-grp">Bookmarks</div><div id="fv-bm"></div>' +
+          '<div class="khnl-bm-grp">Shared notes</div><div id="fv-nt"></div>' +
+        "</div>" +
+      "</div>"
+    );
+    document.body.appendChild(overlay);
+    overlay.querySelector(".khnl-sl-x").addEventListener("click", closeModal);
+    overlay.addEventListener("mousedown", function (e) { if (e.target === overlay) closeModal(); });
+    document.addEventListener("keydown", escClose);
+
+    function listInto(elId, coll, renderRow, emptyMsg) {
+      withState(overlay.querySelector(elId), function () {
+        return api("/api/collections/" + coll + "/records?perPage=200&skipTotal=1&sort=-created&filter=" +
+          encodeURIComponent("user = '" + friendUser.id + "'"))
+          .then(function (j) { return j.items || []; });
+      }, { emptyMsg: emptyMsg, render: function (host, rows) { rows.forEach(function (r) { host.appendChild(renderRow(r)); }); } });
+    }
+    function pageRow(r) {
+      var row = el('<div class="khnl-bm-row"><button type="button" class="khnl-bm-title">' +
+        (r.label || r.pageSlug).replace(/</g, "&lt;") + '</button><span class="khnl-bm-date">' +
+        (r.created || "").slice(0, 10) + "</span></div>");
+      row.querySelector(".khnl-bm-title").addEventListener("click", function () { goToPage(r.pageSlug); });
+      return row;
+    }
+    listInto("#fv-rv", "page_reviews", pageRow, "Nothing shared (or nothing reviewed yet).");
+    listInto("#fv-bm", "bookmarks", pageRow, "Nothing shared (or no bookmarks yet).");
+    listInto("#fv-nt", "private_notes", function (r) {
+      var row = el('<div class="khnl-note-row">' +
+        '<button type="button" class="khnl-bm-title" style="font-weight:600">' + (r.pageTitle || r.pageSlug).replace(/</g, "&lt;") + "</button>" +
+        (r.anchorText ? '<span class="khnl-note-quote">“' + r.anchorText.replace(/</g, "&lt;") + '”</span>' : "") +
+        '<div class="khnl-note-body">' + r.body.replace(/</g, "&lt;") + "</div></div>");
+      row.querySelector(".khnl-bm-title").addEventListener("click", function () { goToPage(r.pageSlug); });
+      return row;
+    }, "No notes shared with friends.");
+  }
 
   // login/logout: drop the per-account caches and redo the page tools/marks
   auth.onChange(function () {
