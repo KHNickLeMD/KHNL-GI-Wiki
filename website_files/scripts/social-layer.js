@@ -313,9 +313,12 @@
     },
 
     login: function (identity, password) {
+      // Emails/usernames are stored lowercase — normalize so "Mimi@Gmail.com"
+      // or a phone-autocapitalized username still signs in. (Password is
+      // case-sensitive and left untouched.)
       return api("/api/collections/users/auth-with-password", {
         method: "POST",
-        body: { identity: identity, password: password },
+        body: { identity: String(identity || "").trim().toLowerCase(), password: password },
       }).then(function (j) {
         // NOTE: j.token is intentionally IGNORED — the session lives in the
         // httpOnly cookie the server just set. No token ever stored in JS.
@@ -326,6 +329,9 @@
 
     signup: function (fields, turnstileToken) {
       var q = "?turnstile=" + encodeURIComponent(turnstileToken || "");
+      // Store email/username lowercase so sign-in is effectively case-insensitive.
+      fields.email = String(fields.email || "").trim().toLowerCase();
+      fields.username = String(fields.username || "").trim().toLowerCase();
       return api("/api/collections/users/records" + q, {
         method: "POST",
         body: {
@@ -346,11 +352,11 @@
     },
 
     resendVerification: function (email) {
-      return api("/api/collections/users/request-verification", { method: "POST", body: { email: email } });
+      return api("/api/collections/users/request-verification", { method: "POST", body: { email: String(email || "").trim().toLowerCase() } });
     },
 
     requestPasswordReset: function (email) {
-      return api("/api/collections/users/request-password-reset", { method: "POST", body: { email: email } });
+      return api("/api/collections/users/request-password-reset", { method: "POST", body: { email: String(email || "").trim().toLowerCase() } });
     },
 
     logout: function () {
@@ -773,6 +779,11 @@
     } else {
       chip.innerHTML = '<button class="khnl-sl-signin">Sign in</button>';
       chip.querySelector(".khnl-sl-signin").addEventListener("click", function () { openAuth("login"); });
+    }
+    // The chip's width changed (Sign in button vs avatar bubble) — let the host
+    // page re-reserve topbar space / re-park the outline toggle around it.
+    if (typeof window.positionTocBtn === "function") {
+      setTimeout(function () { try { window.positionTocBtn(); } catch (e) {} }, 0);
     }
   }
 

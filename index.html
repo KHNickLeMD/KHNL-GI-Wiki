@@ -140,8 +140,10 @@
   #sidebar-collapse-btn.is-collapsed, #toc-collapse-btn.is-collapsed { color: var(--text-faint); }
   body.with-rail #toc-collapse-btn { display: flex; }
   /* When the outline is collapsed the toggle parks at the top-right over the
-     topbar — pad the topbar so it never overlaps the "Updated …" meta text. */
-  body.with-rail.toc-collapsed #topbar { padding-right: 52px; }
+     topbar, next to the fixed Sign-in/avatar chip — pad the topbar so neither
+     overlaps the "Updated …" meta text or the ☆/✓ page tools. (JS refines this
+     to the chip's measured width in positionTocBtn.) */
+  body.with-rail.toc-collapsed #topbar { padding-right: 160px; }
   body.toc-collapsed #page-toc { display: none !important; }
   body.toc-collapsed #page-view.with-rail { grid-template-columns: 1fr; }
 
@@ -3143,6 +3145,15 @@ function toggleTocCollapse() {
 
 // Align the outline toggle to the top-left of the right rail (or park it at the
 // window's top-right when the rail is collapsed/absent so it stays reachable).
+// The social-layer account chip (Sign in button / avatar bubble) is fixed at the
+// window's top-right corner, so both the parked toggle and the topbar's right
+// padding must reserve space for its *measured* width (it's wide when logged
+// out, narrow once signed in).
+function chipReserve() {
+  const chip = document.querySelector('.khnl-sl-chip');
+  const w = chip ? chip.getBoundingClientRect().width : 0;
+  return w > 0 ? Math.ceil(w) + 16 + 10 : 108;   // chip sits at right:16px + 10px gap
+}
 function positionTocBtn() {
   const btn = document.getElementById('toc-collapse-btn');
   if (!btn) return;
@@ -3150,16 +3161,19 @@ function positionTocBtn() {
   const rail = document.getElementById('page-toc');
   const onPage = document.body.classList.contains('with-rail');
   const r = rail && rail.getBoundingClientRect();
+  const reserve = chipReserve();
   if (onPage && r && r.width > 0 && !document.body.classList.contains('toc-collapsed')) {
     btn.style.left = (r.left + 6) + 'px';            // just right of the rail's divider
     btn.style.right = 'auto';
     // Reserve the rail column so the title/"Updated" stop at the divider, never under the button
-    // (never less than the avatar-bubble corner reserve in the base CSS).
-    topbar.style.paddingRight = Math.max(window.innerWidth - r.left + 10, 108) + 'px';
+    // (never less than the account-chip corner reserve).
+    topbar.style.paddingRight = Math.max(window.innerWidth - r.left + 10, reserve) + 'px';
   } else {
+    // Park the toggle just LEFT of the account chip so it never hides behind it,
+    // and pad the topbar past both so "Updated …" / ☆ / ✓ stay visible.
     btn.style.left = 'auto';
-    btn.style.right = '14px';
-    topbar.style.paddingRight = '';
+    btn.style.right = reserve + 'px';
+    topbar.style.paddingRight = (reserve + 44) + 'px';
   }
 }
 window.addEventListener('resize', positionTocBtn);
