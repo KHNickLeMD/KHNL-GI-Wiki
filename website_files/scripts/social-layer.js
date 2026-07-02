@@ -1,8 +1,9 @@
 /*
- * KHNL GI Wiki — Social layer, Steps 4–5: signup, verification & login +
- * avatar bubble & account menu.
+ * KHNL GI Wiki — Social layer, Steps 4–6: signup, verification & login +
+ * avatar bubble & account menu + bookmarks.
  * Plan: ACCOUNTS-SOCIAL-PLAN.md §2 (sessions), §4.1 (auth), §4.2 (avatar
- * bubble), §4.9 (resilience), §4.10 (error tracking), §7 Steps 4–5.
+ * bubble), §4.8 (bookmarks), §4.9 (resilience), §4.10 (error tracking),
+ * §7 Steps 4–6.
  *
  * Self-contained vanilla-JS drop-in, same style as feedback-widget.js. No
  * PocketBase SDK, no framework, no build step — raw fetch only. It injects its
@@ -42,7 +43,7 @@
   var CONFIG = {
     API_BASE: "https://api.khnicklemd.com",
     TURNSTILE_SITE_KEY: "0x4AAAAAADsnUhGCQy6CF38J", // public site key (same widget as feedback)
-    APP_VERSION: "step5-2026-07-02",
+    APP_VERSION: "step6-2026-07-02",
   };
 
   // ======================================================================
@@ -203,7 +204,20 @@
     ".khnl-sl-sw.on{border-color:#1a1a1a}" +
     ".khnl-sl-swcustom{width:26px;height:26px;padding:0;border:1px dashed #aaa;border-radius:50%;cursor:pointer;background:none;flex:none}" +
     ".khnl-sl-filerow{display:flex;gap:10px;align-items:center;margin-top:6px;font-size:12.5px}" +
-    ".khnl-sl-filerow input[type=file]{font-size:12px;max-width:210px}";
+    ".khnl-sl-filerow input[type=file]{font-size:12px;max-width:210px}" +
+    // Step 6 — per-page star + bookmarks panel
+    ".khnl-star{border:none;background:none;cursor:pointer;font-size:17px;line-height:1;color:#999;" +
+      "padding:2px 4px;vertical-align:middle}" +
+    ".khnl-star.on{color:#d99a00}" +
+    ".khnl-star[disabled]{opacity:.5;cursor:default}" +
+    ".khnl-bm-grp{font-weight:700;font-size:11.5px;color:#557055;margin:10px 0 2px;text-transform:uppercase;letter-spacing:.4px}" +
+    ".khnl-bm-row{display:flex;align-items:center;gap:8px;padding:7px 2px;border-bottom:1px solid #f0f0f0}" +
+    ".khnl-bm-row:last-child{border-bottom:none}" +
+    ".khnl-bm-title{flex:1;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;background:none;" +
+      "border:none;padding:0;cursor:pointer;font:inherit;color:#2f6b3f;text-align:left}" +
+    ".khnl-bm-title:hover{text-decoration:underline}" +
+    ".khnl-bm-act{border:none;background:none;cursor:pointer;color:#888;font-size:13px;padding:2px 4px;flex:none}" +
+    ".khnl-bm-act:hover{color:#1a1a1a}";
 
   // ----------------------------- HELPERS -----------------------------
   function el(html) { var t = document.createElement("template"); t.innerHTML = html.trim(); return t.content.firstChild; }
@@ -864,6 +878,155 @@
 
     updatePreview();
   }
+
+  // ================== §4.8 BOOKMARKS (Step 6) ==================
+  // Star toggle in the page topbar (#page-meta-top) + "My bookmarks" panel on
+  // the account menu. index.html dispatches `khnl:nav` {view} on every route
+  // change; page views look like "page:SLUG". Owner-only rules live server-side
+  // (step6 migration); the unique (user,pageSlug) index makes double-clicks safe.
+  var bmCache = null, bmPromise = null; // pageSlug -> record, per login session
+
+  function bmInvalidate() { bmCache = null; bmPromise = null; }
+
+  function bmAll() {
+    if (bmCache) return Promise.resolve(bmCache);
+    if (!bmPromise) {
+      bmPromise = api("/api/collections/bookmarks/records?perPage=500&skipTotal=1&sort=folder,label")
+        .then(function (j) {
+          bmCache = {};
+          (j.items || []).forEach(function (r) { bmCache[r.pageSlug] = r; });
+          return bmCache;
+        })
+        .catch(function (err) { bmPromise = null; throw err; });
+    }
+    return bmPromise;
+  }
+
+  var lastView = "";
+  document.addEventListener("khnl:nav", function (ev) {
+    lastView = (ev.detail && ev.detail.view) || "";
+    // defer: recordNav fires before index.html finishes building the page header
+    setTimeout(renderPageTools, 0);
+  });
+
+  // (Step 7 adds the "Mark as reviewed" toggle beside the star — same host.)
+  function renderPageTools() {
+    var old = document.getElementById("khnl-star");
+    if (old) old.remove();
+    var host = document.getElementById("page-meta-top");
+    if (!host || !state.user || lastView.indexOf("page:") !== 0) return;
+    var slug = lastView.slice(5).toLowerCase();
+    var title = ((document.getElementById("page-title") || {}).textContent || slug).trim();
+
+    var btn = el('<button id="khnl-star" class="khnl-star" title="Bookmark this page" aria-label="Bookmark this page">☆</button>');
+    host.appendChild(btn);
+
+    function paint(on) {
+      btn.classList.toggle("on", !!on);
+      btn.textContent = on ? "★" : "☆";
+      btn.title = on ? "Remove bookmark" : "Bookmark this page";
+    }
+    bmAll().then(function (map) { paint(map[slug]); }).catch(function () {});
+
+    btn.addEventListener("click", function () {
+      if (!state.user.verified) { alert("Please verify your email first — check your inbox for the link."); return; }
+      btn.disabled = true;
+      bmAll().then(function (map) {
+        var rec = map[slug];
+        if (rec) {
+          return api("/api/collections/bookmarks/records/" + rec.id, { method: "DELETE" })
+            .then(function () { delete map[slug]; paint(false); });
+        }
+        return api("/api/collections/bookmarks/records", {
+          method: "POST",
+          body: { user: state.user.id, pageSlug: slug, label: title },
+        }).then(function (j) { map[slug] = j; paint(true); });
+      }).catch(function (err) {
+        reportError("bookmark toggle: " + ((err && err.message) || String(err)), err && err.stack);
+      }).then(function () { btn.disabled = false; });
+    });
+  }
+
+  function goToPage(slug) {
+    closeModal();
+    if (typeof window.navigateTo === "function") window.navigateTo(slug);
+    else location.pathname = "/" + slug;
+  }
+
+  function openBookmarks() {
+    if (overlay) return;
+    overlay = el(
+      '<div class="khnl-sl-overlay" role="dialog" aria-modal="true" aria-label="My bookmarks">' +
+        '<div class="khnl-sl-card" style="width:420px">' +
+          '<button class="khnl-sl-x" aria-label="Close">&times;</button>' +
+          "<h3>My bookmarks</h3>" +
+          '<p class="khnl-sl-sub">Starred pages, grouped by folder.</p>' +
+          '<div id="khnl-bm-list"></div>' +
+        "</div>" +
+      "</div>"
+    );
+    document.body.appendChild(overlay);
+    overlay.querySelector(".khnl-sl-x").addEventListener("click", closeModal);
+    overlay.addEventListener("mousedown", function (e) { if (e.target === overlay) closeModal(); });
+    document.addEventListener("keydown", escClose);
+
+    var listEl = overlay.querySelector("#khnl-bm-list");
+    var view = withState(listEl, function () {
+      bmInvalidate(); // always fresh when the panel opens
+      return bmAll().then(function (map) {
+        return Object.keys(map).map(function (k) { return map[k]; });
+      });
+    }, {
+      emptyMsg: "No bookmarks yet — open a page and click the ☆ star in its header.",
+      render: function (host, rows) {
+        rows.sort(function (a, b) {
+          // "￿": unfiled sorts after named folders
+          return (a.folder || "￿").localeCompare(b.folder || "￿") ||
+                 (a.label || a.pageSlug).localeCompare(b.label || b.pageSlug);
+        });
+        var lastFolder = null;
+        rows.forEach(function (r) {
+          var folder = r.folder || "";
+          if (folder !== lastFolder) {
+            lastFolder = folder;
+            host.appendChild(el('<div class="khnl-bm-grp">' + (folder || "Unfiled").replace(/</g, "&lt;") + "</div>"));
+          }
+          var row = el(
+            '<div class="khnl-bm-row">' +
+              '<button type="button" class="khnl-bm-title">' + (r.label || r.pageSlug).replace(/</g, "&lt;") + "</button>" +
+              '<button type="button" class="khnl-bm-act" title="Edit label / folder">✎</button>' +
+              '<button type="button" class="khnl-bm-act" title="Remove bookmark">✕</button>' +
+            "</div>"
+          );
+          host.appendChild(row);
+          row.querySelector(".khnl-bm-title").addEventListener("click", function () { goToPage(r.pageSlug); });
+          var acts = row.querySelectorAll(".khnl-bm-act");
+          acts[0].addEventListener("click", function () {
+            // ponytail: native prompts, not an inline editor — upgrade if it grates
+            var label = prompt("Label:", r.label || r.pageSlug);
+            if (label === null) return;
+            var folder2 = prompt("Folder (blank = unfiled):", r.folder || "");
+            if (folder2 === null) return;
+            api("/api/collections/bookmarks/records/" + r.id, {
+              method: "PATCH",
+              body: { label: label.trim().slice(0, 200), folder: folder2.trim().slice(0, 100) },
+            }).then(function () { view.reload(); })
+              .catch(function () { alert("Could not save — please try again."); });
+          });
+          acts[1].addEventListener("click", function () {
+            api("/api/collections/bookmarks/records/" + r.id, { method: "DELETE" })
+              .then(function () { bmInvalidate(); view.reload(); renderPageTools(); })
+              .catch(function () { alert("Could not remove — please try again."); });
+          });
+        });
+      },
+    });
+  }
+
+  registerMenuItem("bookmarks", openBookmarks);
+
+  // login/logout: drop the cache (it belongs to one account) and redo the star
+  auth.onChange(function () { bmInvalidate(); renderPageTools(); });
 
   // ----------------------------- BOOT -----------------------------
   function boot() {
