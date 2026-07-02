@@ -1,5 +1,5 @@
 /*
- * KHNL GI Wiki — Social layer, Steps 4–10: signup, verification & login +
+ * KHNL GI Wiki — Social layer, Steps 4–11: signup, verification & login +
  * avatar bubble & account menu + bookmarks + reviewed-page tracking +
  * private in-context notes (durable, §4.3) + friends (§4.5) + privacy (§4.6).
  * Plan: ACCOUNTS-SOCIAL-PLAN.md §2 (sessions), §4.1 (auth), §4.2 (avatar
@@ -44,7 +44,7 @@
   var CONFIG = {
     API_BASE: "https://api.khnicklemd.com",
     TURNSTILE_SITE_KEY: "0x4AAAAAADsnUhGCQy6CF38J", // public site key (same widget as feedback)
-    APP_VERSION: "step10-2026-07-02",
+    APP_VERSION: "step11-2026-07-02",
   };
 
   // ======================================================================
@@ -700,6 +700,7 @@
     { id: "reviewed",  label: "Reviewed pages" },
     { id: "friends",   label: "Friends" },
     { id: "privacy",   label: "Privacy" },
+    { id: "account",   label: "Account & data" }, // Step 11: export + delete
   ];
   var menuHandlers = {};
   function registerMenuItem(id, handler) { menuHandlers[id] = handler; }
@@ -1699,6 +1700,84 @@
   }
 
   registerMenuItem("privacy", openPrivacy);
+
+  // ================== §7 STEP 11 — ACCOUNT & DATA (export + delete) ==========
+  // Frontend-only: users.deleteRule = own record (Step 4) and every user
+  // relation cascade-deletes (set at each collection's creation, §3), so
+  // "delete my account + my data" is one DELETE. Export is client-side —
+  // fetch everything the account owns, download one JSON. (Feedback rows are
+  // admin-read-only by design and can't be included.)
+  function openAccount() {
+    if (overlay || !state.user) return;
+    overlay = el(
+      '<div class="khnl-sl-overlay" role="dialog" aria-modal="true" aria-label="Account and data">' +
+        '<div class="khnl-sl-card">' +
+          '<button class="khnl-sl-x" aria-label="Close">&times;</button>' +
+          "<h3>Account &amp; data</h3>" +
+          '<p class="khnl-sl-sub">Your data is yours — take it with you, or delete all of it.</p>' +
+          '<div class="khnl-sl-row"><button type="button" class="khnl-sl-btn primary" id="ac-export" style="width:100%">' +
+            "Export my data (.json)</button>" +
+            '<p class="khnl-sl-sub" style="margin:6px 0 0">Profile, bookmarks, reviewed pages, notes, and friend links. ' +
+            "Notes can also be exported as markdown from “My notes”.</p></div>" +
+          '<div class="khnl-sl-sep"></div>' +
+          '<div class="khnl-sl-row"><button type="button" class="khnl-sl-btn" id="ac-delete" ' +
+            'style="width:100%;background:#fbe9eb;color:#b00020;border:1px solid #e5c1c5">' +
+            "Delete my account and all my data…</button>" +
+            '<p class="khnl-sl-sub" style="margin:6px 0 0">Permanent. Removes the account and everything above with it.</p></div>' +
+          '<p class="khnl-sl-formerr" id="ac-formerr"></p>' +
+        "</div>" +
+      "</div>"
+    );
+    document.body.appendChild(overlay);
+    overlay.querySelector(".khnl-sl-x").addEventListener("click", closeModal);
+    overlay.addEventListener("mousedown", function (e) { if (e.target === overlay) closeModal(); });
+    document.addEventListener("keydown", escClose);
+
+    overlay.querySelector("#ac-export").addEventListener("click", function () {
+      var btn = overlay.querySelector("#ac-export");
+      busy(btn, true, "Export my data (.json)");
+      function grab(coll) {
+        return api("/api/collections/" + coll + "/records?perPage=500&skipTotal=1")
+          .then(function (j) { return (j.items || []).filter(function (r) { return !r.user || r.user === state.user.id; }); });
+      }
+      Promise.all([grab("bookmarks"), grab("page_reviews"), grab("private_notes"), grab("friendships")])
+        .then(function (parts) {
+          download("gi-wiki-account-data.json", "application/json", JSON.stringify({
+            exported: new Date().toISOString(),
+            profile: state.user,
+            bookmarks: parts[0],
+            page_reviews: parts[1],
+            private_notes: parts[2],
+            friendships: parts[3],
+          }, null, 2));
+          busy(btn, false, "Export my data (.json)");
+        })
+        .catch(function () {
+          busy(btn, false, "Export my data (.json)");
+          var fe = overlay.querySelector("#ac-formerr");
+          fe.textContent = "Export failed — please try again.";
+          fe.style.display = "block";
+        });
+    });
+
+    overlay.querySelector("#ac-delete").addEventListener("click", function () {
+      // deliberate friction on an irreversible action: typed confirmation
+      var uname = state.user.username || "";
+      var typed = prompt('This permanently deletes your account AND all notes, bookmarks, reviews, and friendships.\n\nType your username ("' + uname + '") to confirm:');
+      if (typed === null) return;
+      if (typed.trim().toLowerCase() !== uname.toLowerCase()) { alert("Username didn’t match — nothing was deleted."); return; }
+      api("/api/collections/users/records/" + state.user.id, { method: "DELETE" })
+        .then(function () { return auth.logout(); })
+        .then(function () { closeModal(); alert("Your account and data have been deleted."); location.reload(); })
+        .catch(function () {
+          var fe = overlay.querySelector("#ac-formerr");
+          fe.textContent = "Deletion failed — please try again.";
+          fe.style.display = "block";
+        });
+    });
+  }
+
+  registerMenuItem("account", openAccount);
 
   // --- friend activity viewer (what the Step 10 rules unlock) ---------------
   function openFriendView(friendUser) {
