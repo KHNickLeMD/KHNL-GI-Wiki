@@ -6,6 +6,31 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-07-02] lint | Ingest queue exhausted (no-op), salmonella + campylobacter stubs expanded (ADDT), 3 stalest pages validated, whole-wiki link scan (scheduled ingest-and-lint pass)
+
+**Ingest:** None. No new raw files since the prior pass (newest raw = 2026-06-28, already ingested). All **208** guideline files and all 4 RCTs are ingested; the only uningested guideline files remain `ASGE 2015 Bowel Preparation` and `ASGE 2025 Bowel Preparation Quality`, deliberately skipped as superseded duplicates fully covered by `[[acg-2025-bowel-prep]]` / `[[usmstf-2025-bowel-prep]]`. Priority-tier (guideline/RCT) queue exhausted → lint-only pass. Lectures gated, not auto-ingested.
+
+**Stubs expanded (2 — from already-ingested sources only):**
+- `[[salmonella-infection]]` — restructured `*Stub*` → full **ADDT** (Assessment: Establishing Dx + Severity → Differential with `*Workup: see [[acute-diarrhea]].*` → Diagnostics → Therapeutics). All claims retained from existing `[[acg-2016-acute-diarrhea]]` + `[[idsa-2017-infectious-diarrhea]]` content (no antibiotics in immunocompetent — prolongs carriage; treat severe/invasive/high-risk; endovascular-seeding imaging; typhoid distinction; no rifaximin). Densified DDx inline links (`[[campylobacter-infection]]`, `[[shigellosis]]`, `[[enterotoxigenic-e-coli]]`, `[[clostridioides-difficile]]`); `updated: 2026-07-02`. Index desc updated, `(stub)` → `(2 sources)`.
+- `[[campylobacter-infection]]` — same ADDT restructure from `[[acg-2016-acute-diarrhea]]` + `[[idsa-2017-infectious-diarrhea]]` (most common bacterial enteritis; FQ resistance → azithromycin 500 mg ×3d in SE Asia/India; reserve empiric abx; no rifaximin; Guillain-Barré via ganglioside mimicry, IDSA Rec 7). Densified DDx inline links; `updated: 2026-07-02`. Index desc updated, `(stub)` → `(2 sources)`.
+
+**Stalest-page validation (3 pages, all `updated: 2026-05-16`; the two stalest 05-15 pages `[[laryngopharyngeal-symptoms]]`/`[[upper-gi-bleeding]]` already validated on prior passes):**
+- `[[defecation-disorders]]` (disease-script) — content compliant; fixed double blank line under `## See Also`; `updated: 2026-07-02`. (No `constipation`/anorectal-pain diagnostic schema exists, so the DDx-pointer rule N/A.)
+- `[[proctalgia-syndromes]]` (disease-script) — fixed double blank line under `## See Also`; `updated: 2026-07-02`.
+- `[[vonoprazan]]` (med) — compliant; densified thin See Also (+`[[peptic-ulcer-disease]]`, `[[gerd]]`); `updated: 2026-07-02`.
+
+**Broken-link scan:** Whole-wiki basename-resolution scan (excluding `![[embeds]]`, code spans, escaped `\|` table aliases, `index.md`/`log.md`). **0 genuine broken links** (all 97 flagged targets were false positives from escaped `\|` table-alias pipes; real pages exist). All new salmonella/campylobacter links resolve.
+
+**Index reconciliation:** On-disk counts re-verified and unchanged: 107 disease scripts, 19 diagnostic schemas, 2 general procedures, 19 advanced procedures, 15 meds, 0 anatomy, 36 concepts, 208 sources, 1 synthesis. Two `(stub)` markers cleared from index for the expanded pages. Index frontmatter dated 2026-07-02.
+
+**Hygiene flagged (not fixed — permission blocked):** 9 `.DS_Store` OS artifacts remain; sandbox-mount deletion returns "Operation not permitted" (unchanged). Untracked via `.gitignore`; user action needed.
+
+**Stubs remaining (flagged, not expanded — token budget):** ~32 files still carry a `*Stub — to be expanded*` marker. High-value candidates expandable next pass from already-ingested sources: remaining enteric cluster (`[[shigellosis]]` — already content-rich, marker cleanup; `[[norovirus]]`, `[[cryptosporidiosis]]`, `[[entamoeba-histolytica-infection]]`, `[[enterotoxigenic-e-coli]]`) from `[[acg-2016-acute-diarrhea]]`/`[[idsa-2017-infectious-diarrhea]]`; `[[radiofrequency-ablation]]` from Barrett's EET sources. `[[acute-mesenteric-ischemia]]` still needs a dedicated AMI source (cannot expand without one).
+
+**Lectures available (gated — NOT auto-ingested):** ~60 lecture/chalk-talk transcripts in `raw/GI Lectures+Chalk Talks/` remain gated; require explicit human selection by name.
+
+---
+
 ## [2026-07-02] lint | Guideline queue confirmed exhausted, giardiasis stub expanded (ADDT), 2 stalest pages validated, whole-wiki link scan (scheduled ingest-and-lint pass)
 
 **Ingest:** None. Cross-checked all **208** raw guideline files in `raw/GI Guidelines/` against ingested `wiki/sources/` slugs — every guideline is ingested. The only uningested guideline files are `ASGE 2015 Bowel Preparation` and `ASGE 2025 Bowel Preparation Quality`, both deliberately skipped on prior passes as superseded duplicates fully covered by `[[acg-2025-bowel-prep]]` / `[[usmstf-2025-bowel-prep]]`. No new priority-tier ingest available; proceeded to lint only.

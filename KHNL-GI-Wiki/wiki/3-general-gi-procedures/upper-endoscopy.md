@@ -1,5 +1,5 @@
 ---
-title: "Upper Endoscopy (EGD) — Quality Standards"
+title: "Upper Endoscopy (EGD)"
 category: general-procedure
 tags: [egd, upper-endoscopy, esophagogastroduodenoscopy, ugib, barrett-esophagus, peptic-ulcer, gpmc, celiac, quality-indicators]
 created: 2026-05-07
@@ -7,7 +7,7 @@ updated: 2026-07-01
 sources: [acg-2025-egd-quality, aga-2024-upper-endoscopy-quality]
 ---
 
-# Upper Endoscopy (EGD) — Quality Standards
+# Upper Endoscopy (EGD)
 
 Primary quality indicator framework from ACG/ASGE 2025. [[acg-2025-egd-quality]]
 Supplementary best practice guidance from AGA 2024 Clinical Practice Update. [[aga-2024-upper-endoscopy-quality]]

@@ -247,6 +247,16 @@
 
   // ----------------------------- HELPERS -----------------------------
   function el(html) { var t = document.createElement("template"); t.innerHTML = html.trim(); return t.content.firstChild; }
+  // Full HTML escape — use for ANY user-derived value that lands in innerHTML
+  // (text nodes AND attribute values). Never interpolate user fields raw.
+  function esc(s) {
+    return String(s == null ? "" : s)
+      .replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;")
+      .replace(/"/g, "&quot;").replace(/'/g, "&#39;");
+  }
+  // bubbleColor lands inside a style="" attribute — only ever emit a strict
+  // hex color (server also enforces this via the users.bubbleColor pattern).
+  function safeColor(c) { return /^#([0-9a-fA-F]{3}|[0-9a-fA-F]{6})$/.test(c || "") ? c : "#2f6b3f"; }
   function inject(tag, attrs, parent) {
     var n = document.createElement(tag);
     for (var k in attrs) n.setAttribute(k, attrs[k]);
@@ -624,7 +634,7 @@
       '<button class="khnl-sl-x" aria-label="Close">&times;</button>' +
       '<div class="khnl-sl-done"><div class="ok">✉</div>' +
         '<h3 style="margin:8px 0 4px">Check your email</h3>' +
-        '<p class="khnl-sl-sub" style="margin:0">We sent a verification link to <b>' + email.replace(/</g, "&lt;") + "</b>." +
+        '<p class="khnl-sl-sub" style="margin:0">We sent a verification link to <b>' + esc(email) + "</b>." +
           " Click it, then sign in.</p>" +
         '<p class="khnl-sl-sub" style="margin:10px 0 0">No email after a few minutes? Check spam, or ' +
           '<button type="button" class="khnl-sl-link" id="sl-resend">resend it</button>.</p>' +
@@ -727,7 +737,7 @@
     }).join("");
     menu = el(
       '<div class="khnl-sl-menu" role="menu" aria-label="Account menu">' +
-        '<div class="who">Signed in as <b>' + (u.displayName || u.username || u.email).replace(/</g, "&lt;") + "</b></div>" +
+        '<div class="who">Signed in as <b>' + esc(u.displayName || u.username || u.email) + "</b></div>" +
         verifyRow +
         itemsHtml +
         '<div class="khnl-sl-sep"></div>' +
@@ -766,17 +776,17 @@
     closeMenu();
     if (state.user) {
       var u = state.user;
-      var color = u.bubbleColor || "#2f6b3f";
+      var color = safeColor(u.bubbleColor);
       var img = bubbleImageUrl(u, "100x100");
       chip.innerHTML = '<button class="khnl-sl-me" title="Account" aria-label="Account menu" aria-haspopup="menu" ' +
         'style="background:' + color + '">' +
-        (img ? '<img src="' + img + '" alt="">' : initials(u)) +
+        (img ? '<img src="' + esc(img) + '" alt="">' : esc(initials(u))) +
         "</button>";
       var btn = chip.querySelector(".khnl-sl-me");
       btn.addEventListener("click", openMenu);
       // if the image 404s (deleted file, cold cache), fall back to initials
       var imgEl = btn.querySelector("img");
-      if (imgEl) imgEl.addEventListener("error", function () { btn.innerHTML = initials(u); });
+      if (imgEl) imgEl.addEventListener("error", function () { btn.innerHTML = esc(initials(u)); });
     } else {
       chip.innerHTML = '<button class="khnl-sl-signin">Sign in</button>';
       chip.querySelector(".khnl-sl-signin").addEventListener("click", function () { openAuth("login"); });
@@ -855,7 +865,7 @@
     function updatePreview() {
       prev.style.background = chosen.color;
       var url = currentImageUrl();
-      prev.innerHTML = url ? '<img src="' + url + '" alt="">' : initials(u);
+      prev.innerHTML = url ? '<img src="' + esc(url) + '" alt="">' : esc(initials(u));
       removeBtn.style.display = url ? "inline" : "none";
       overlay.querySelectorAll(".khnl-sl-sw").forEach(function (s) {
         s.classList.toggle("on", s.getAttribute("data-c").toLowerCase() === chosen.color.toLowerCase());
@@ -1191,11 +1201,11 @@
           var folder = r.folder || "";
           if (folder !== lastFolder) {
             lastFolder = folder;
-            host.appendChild(el('<div class="khnl-bm-grp">' + (folder || "Unfiled").replace(/</g, "&lt;") + "</div>"));
+            host.appendChild(el('<div class="khnl-bm-grp">' + esc(folder || "Unfiled") + "</div>"));
           }
           var row = el(
             '<div class="khnl-bm-row">' +
-              '<button type="button" class="khnl-bm-title">' + (r.label || r.pageSlug).replace(/</g, "&lt;") + "</button>" +
+              '<button type="button" class="khnl-bm-title">' + esc(r.label || r.pageSlug) + "</button>" +
               '<button type="button" class="khnl-bm-act" title="Edit label / folder">✎</button>' +
               '<button type="button" class="khnl-bm-act" title="Remove bookmark">✕</button>' +
             "</div>"
@@ -1277,7 +1287,7 @@
         rows.forEach(function (r) {
           var row = el(
             '<div class="khnl-bm-row">' +
-              '<button type="button" class="khnl-bm-title">' + (r.label || r.pageSlug).replace(/</g, "&lt;") + "</button>" +
+              '<button type="button" class="khnl-bm-title">' + esc(r.label || r.pageSlug) + "</button>" +
               '<span class="khnl-bm-date">' + (r.created || "").slice(0, 10) + "</span>" +
               '<button type="button" class="khnl-bm-act" title="Unmark reviewed">✕</button>' +
             "</div>"
@@ -1396,8 +1406,8 @@
   function noteRow(note) {
     var row = el(
       '<div class="khnl-note-row">' +
-        (note.anchorText ? '<span class="khnl-note-quote">“' + note.anchorText.replace(/</g, "&lt;") + '”</span>' : "") +
-        '<div class="khnl-note-body">' + note.body.replace(/</g, "&lt;") + "</div>" +
+        (note.anchorText ? '<span class="khnl-note-quote">“' + esc(note.anchorText) + '”</span>' : "") +
+        '<div class="khnl-note-body">' + esc(note.body) + "</div>" +
         '<div class="khnl-note-acts"><button type="button" data-a="edit">Edit</button>' +
         '<button type="button" data-a="del">Delete</button></div>' +
       "</div>"
@@ -1473,7 +1483,7 @@
           '<button class="khnl-sl-x" aria-label="Close">&times;</button>' +
           "<h3>" + (isNew ? "Add a note" : "Your note") + "</h3>" +
           (note.anchorText
-            ? '<span class="khnl-note-quote" style="white-space:normal">“' + note.anchorText.replace(/</g, "&lt;") + '”</span>'
+            ? '<span class="khnl-note-quote" style="white-space:normal">“' + esc(note.anchorText) + '”</span>'
             : "") +
           '<div class="khnl-sl-row" id="r-ntbody" style="margin-top:10px">' +
             '<textarea id="nt-body" rows="5" style="width:100%;box-sizing:border-box;padding:8px 9px;' +
@@ -1605,7 +1615,7 @@
         Object.keys(byPage).sort().forEach(function (slug) {
           var grp = el('<div class="khnl-bm-grp"></div>');
           var link = el('<button type="button" class="khnl-bm-title" style="font-weight:700">' +
-            (byPage[slug][0].pageTitle || slug).replace(/</g, "&lt;") + "</button>");
+            esc(byPage[slug][0].pageTitle || slug) + "</button>");
           link.addEventListener("click", function () { goToPage(slug); });
           grp.appendChild(link);
           host.appendChild(grp);
@@ -1672,7 +1682,7 @@
         }
         function row(label, buttons) {
           var r = el('<div class="khnl-bm-row"><span style="flex:1;min-width:0;overflow:hidden;text-overflow:ellipsis">' +
-            label.replace(/</g, "&lt;") + "</span></div>");
+            esc(label) + "</span></div>");
           buttons.forEach(function (b) {
             var btn = el('<button type="button" class="khnl-bm-act">' + b.label + "</button>");
             btn.addEventListener("click", function () {
@@ -1740,7 +1750,7 @@
               ? (existing.status === "accepted" ? "Friends ✓" : existing.status === "pending" ? "Requested" : "Blocked")
               : "";
             var r = el('<div class="khnl-bm-row"><span style="flex:1;min-width:0;overflow:hidden;text-overflow:ellipsis">' +
-              userLabel(u).replace(/</g, "&lt;") + "</span>" +
+              esc(userLabel(u)) + "</span>" +
               (stateLabel ? '<span class="khnl-bm-date">' + stateLabel + "</span>"
                           : '<button type="button" class="khnl-bm-act">Add friend</button>') +
               "</div>");
@@ -1950,7 +1960,7 @@
       '<div class="khnl-sl-overlay" role="dialog" aria-modal="true" aria-label="Friend activity">' +
         '<div class="khnl-sl-card" style="width:460px">' +
           '<button class="khnl-sl-x" aria-label="Close">&times;</button>' +
-          "<h3>" + userLabel(friendUser).replace(/</g, "&lt;") + "</h3>" +
+          "<h3>" + esc(userLabel(friendUser)) + "</h3>" +
           '<p class="khnl-sl-sub">What they share with friends.</p>' +
           '<div class="khnl-bm-grp">Reviewed pages</div><div id="fv-rv"></div>' +
           '<div class="khnl-bm-grp">Bookmarks</div><div id="fv-bm"></div>' +
@@ -1972,7 +1982,7 @@
     }
     function pageRow(r) {
       var row = el('<div class="khnl-bm-row"><button type="button" class="khnl-bm-title">' +
-        (r.label || r.pageSlug).replace(/</g, "&lt;") + '</button><span class="khnl-bm-date">' +
+        esc(r.label || r.pageSlug) + '</button><span class="khnl-bm-date">' +
         (r.created || "").slice(0, 10) + "</span></div>");
       row.querySelector(".khnl-bm-title").addEventListener("click", function () { goToPage(r.pageSlug); });
       return row;
@@ -1981,9 +1991,9 @@
     listInto("#fv-bm", "bookmarks", pageRow, "Nothing shared (or no bookmarks yet).");
     listInto("#fv-nt", "private_notes", function (r) {
       var row = el('<div class="khnl-note-row">' +
-        '<button type="button" class="khnl-bm-title" style="font-weight:600">' + (r.pageTitle || r.pageSlug).replace(/</g, "&lt;") + "</button>" +
-        (r.anchorText ? '<span class="khnl-note-quote">“' + r.anchorText.replace(/</g, "&lt;") + '”</span>' : "") +
-        '<div class="khnl-note-body">' + r.body.replace(/</g, "&lt;") + "</div></div>");
+        '<button type="button" class="khnl-bm-title" style="font-weight:600">' + esc(r.pageTitle || r.pageSlug) + "</button>" +
+        (r.anchorText ? '<span class="khnl-note-quote">“' + esc(r.anchorText) + '”</span>' : "") +
+        '<div class="khnl-note-body">' + esc(r.body) + "</div></div>");
       row.querySelector(".khnl-bm-title").addEventListener("click", function () { goToPage(r.pageSlug); });
       return row;
     }, "No notes shared with friends.");

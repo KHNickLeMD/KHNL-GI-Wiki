@@ -1,7 +1,7 @@
 ---
 title: "Wiki Index"
 category: index
-updated: 2026-07-02
+updated: 2026-07-03
 ---
 
 # KHNL GI Encyclopedia — Master Index
@@ -24,9 +24,9 @@ updated: 2026-07-02
 
 - [[eosinophilic-esophagitis]] — EoE: ADDT — dysphagia, eosinophilic inflammation, PPI/STC/diet/dupilumab (2 sources)
 - [[barretts-esophagus]] — Barrett's Esophagus: ADDT — Prague C&M criteria, IM required, dysplasia grading (NDBE/LGD/HGD/IMC), NDBE surveillance by M-length, EET for confirmed LGD+, EMR first for visible lesions, post-CEIM indefinite surveillance (1 source)
-- [[distal-esophageal-spasm]] — DES: Chicago v4.0 — ≥20% premature contractions, DCI >450, normal IRP; CCBs/nitrates/POEM for refractory (stub)
-- [[hypercontractile-esophagus]] — Jackhammer esophagus: Chicago v4.0 — DCI >8000 in ≥20% swallows; not absolute contraindication to ARS if objective GERD (stub)
-- [[ineffective-esophageal-motility]] — IEM: Chicago v4.0 revised — ≥70% ineffective or ≥50% failed; fragmented peristalsis eliminated; assess peristaltic reserve pre-ARS (stub)
+- [[distal-esophageal-spasm]] — DES: Chicago v4.0 — ≥20% premature contractions, DCI >450, normal IRP; POEM for refractory dysphagia-predominant disease (3 sources)
+- [[hypercontractile-esophagus]] — Jackhammer esophagus: Chicago v4.0 — DCI >8000 in ≥20% swallows; not absolute contraindication to ARS if objective GERD (3 sources)
+- [[ineffective-esophageal-motility]] — IEM: Chicago v4.0 revised — ≥70% ineffective or ≥50% failed; fragmented peristalsis eliminated; assess peristaltic reserve pre-ARS (3 sources)
 - [[esophageal-cancer]] — Esophageal/EGJ cancer: adenocarcinoma (distal/Barrett's) vs. SCC (mid/upper); progressive solid dysphagia + weight loss; EGD/EUS/PET staging; NCCN ADDT — endoscopic resection (T1a) vs perioperative FLOT±durvalumab/CROSS chemoRT + esophagectomy vs definitive chemoRT (SCC); metastatic biomarker therapy (HER2/PD-L1 CPS/MSI-H); treatment-algorithm Mermaid (1 source)
 - [[esophageal-adenocarcinoma]] — EAC: metaplasia–dysplasia–carcinoma sequence from Barrett's; EET for T1a/HGD, esophagectomy for T1b sm2-3; oncologic staging on esophageal-cancer (NCCN) (3 sources)
 
@@ -70,8 +70,8 @@ updated: 2026-07-02
 - [[colorectal-cancer]] — CRC: TNM staging, surgical resection, adjuvant FOLFOX, TNT for rectal cancer, immunotherapy for MSI-H, post-resection surveillance (perioperative → 1y → 4y → 9y → q5y), Lynch universal testing, FIT screening performance/thresholds, rectal cancer local surveillance; NCCN oncologic mgmt — universal MMR/MSI, RAS/BRAF/HER2/NTRK/DPYD, adjuvant FOLFOX/CAPOX (IDEA duration), biomarker-/sidedness-directed metastatic therapy; early-T1 en-bloc/ESD/eFTR endoscopic resection; treatment-algorithm Mermaid (7 sources)
 - [[norovirus]] — Norovirus gastroenteritis: leading cause of acute viral diarrhea, fecal-oral/fomite transmission, supportive care (stub)
 - [[rotavirus]] — Rotavirus: vaccination impact, pediatric predominance, ORS management (stub)
-- [[campylobacter-infection]] — Campylobacter: FQ resistance, azithromycin preferred, Guillain-Barré association (stub)
-- [[salmonella-infection]] — Salmonella: no antibiotics in immunocompetent (prolongs carriage), treat high-risk/severe (stub)
+- [[campylobacter-infection]] — Campylobacter: ADDT — most common bacterial enteritis, FQ resistance → azithromycin (SE Asia/India), Guillain-Barré association (2 sources)
+- [[salmonella-infection]] — Salmonella (non-typhoidal): ADDT — no antibiotics in immunocompetent (prolongs carriage), treat severe/invasive/high-risk, endovascular-seeding imaging, typhoid distinction (2 sources)
 - [[shigellosis]] — Shigella: azithromycin first-line, very low inoculum, no rifaximin (invasive) (stub)
 - [[enterotoxigenic-e-coli]] — ETEC: most common traveler's diarrhea pathogen, rifaximin appropriate (non-invasive) (stub)
 - [[giardiasis]] — Giardia: ADDT — persistent/traveler's diarrhea, malabsorption, chlorine-resistant cysts; stool antigen EIA/PCR, duodenal aspirate; tinidazole preferred (2 sources)

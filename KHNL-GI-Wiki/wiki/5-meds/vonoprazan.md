@@ -3,7 +3,7 @@ title: "Vonoprazan (PCAB)"
 category: med
 tags: [vonoprazan, pcab, h-pylori, acid-suppression, voquezna, potassium-competitive]
 created: 2026-05-16
-updated: 2026-05-16
+updated: 2026-07-02
 sources: [acg-2024-hp-treatment]
 ---
 
@@ -57,7 +57,7 @@ Potassium-competitive acid blocker (PCAB). Blocks the gastric H+/K+-ATPase compe
 
 ## See Also
 
-[[helicobacter-pylori-infection]], [[bismuth-quadruple-therapy]]
+[[helicobacter-pylori-infection]], [[bismuth-quadruple-therapy]], [[peptic-ulcer-disease]], [[gerd]]
 
 ---
 

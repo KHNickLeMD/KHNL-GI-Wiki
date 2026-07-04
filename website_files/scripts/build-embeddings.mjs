@@ -108,9 +108,11 @@ async function main() {
 
   const chunkMeta = [];
   const texts     = [];
+  const bundle    = []; // all raw .md files, shipped as one JSON so the site loads in 1 fetch
 
   for (const { full, rel } of mdFiles) {
     const raw = fs.readFileSync(full, 'utf8');
+    bundle.push({ path: rel, text: raw });
     const { fm, body } = parseFrontmatter(raw);
     const slug    = path.basename(full, '.md');
     const parts   = rel.split('/');
@@ -159,11 +161,16 @@ async function main() {
     JSON.stringify({ dim: DIM, count: allVecs.length, chunks: chunkMeta })
   );
   fs.writeFileSync(path.join(OUT_DIR, 'embeddings.b64'), b64);
+  fs.writeFileSync(
+    path.join(OUT_DIR, 'wiki-bundle.json'),
+    JSON.stringify({ files: bundle })
+  );
 
   const kb = n => (n / 1024).toFixed(0) + ' KB';
   console.log(`Written to search/`);
-  console.log(`  chunks.json:    ${kb(fs.statSync(path.join(OUT_DIR, 'chunks.json')).size)}`);
-  console.log(`  embeddings.b64: ${kb(fs.statSync(path.join(OUT_DIR, 'embeddings.b64')).size)}`);
+  console.log(`  chunks.json:      ${kb(fs.statSync(path.join(OUT_DIR, 'chunks.json')).size)}`);
+  console.log(`  embeddings.b64:   ${kb(fs.statSync(path.join(OUT_DIR, 'embeddings.b64')).size)}`);
+  console.log(`  wiki-bundle.json: ${kb(fs.statSync(path.join(OUT_DIR, 'wiki-bundle.json')).size)}`);
 }
 
 main().catch(e => { console.error(e); process.exit(1); });

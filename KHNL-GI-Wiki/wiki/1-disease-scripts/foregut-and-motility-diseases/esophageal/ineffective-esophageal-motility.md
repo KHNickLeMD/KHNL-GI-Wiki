@@ -3,11 +3,11 @@ title: "Ineffective Esophageal Motility"
 category: disease-script
 tags: [iem, motility, esophageal, dysphagia, gerd, chicago-classification]
 created: 2026-05-16
-updated: 2026-05-16
-sources: []
+updated: 2026-07-03
+sources: [chicago-v4-2021-esophageal-dysmotility, aga-2025-flip-esophageal, acg-2020-esophageal-physiologic-testing]
 ---
 
-*Stub — to be expanded. [[chicago-classification-v4|Chicago Classification v4]].0 criteria revised significantly — see [[chicago-classification-v4]]. Related: [[distal-esophageal-spasm]], [[hypercontractile-esophagus]].*
+*Classified under [[chicago-classification-v4|Chicago Classification v4.0]] (criteria revised — fragmented peristalsis absorbed into IEM). Related: [[distal-esophageal-spasm]], [[hypercontractile-esophagus]].*
 
 ## Assessment
 
@@ -30,6 +30,8 @@ IEM is defined by **Chicago Classification v4.0** on [[high-resolution-manometry
 
 ## Differential Diagnosis
 
+*Workup: see [[dysphagia]].*
+
 - Absent contractility — severe form; all swallows failed; see [[achalasia]] (differentiate by IRP)
 - [[gerd]] — IEM often co-exists with [[gerd|GERD]]; reflux can impair peristalsis
 - Scleroderma/systemic sclerosis — IEM with very low LES pressure pattern
@@ -46,10 +48,22 @@ IEM is defined by **Chicago Classification v4.0** on [[high-resolution-manometry
 
 ## Therapeutics
 
-*Stub — largely symptomatic; address underlying GERD; prokinetics lack evidence for IEM; weight-based dietary modifications; surgical caution pre-ARS.*
+- IEM is a **minor** motility disorder — most patients have mild or no symptoms; management is largely symptomatic
+- Address underlying [[gerd|GERD]] (see [[gerd]]); IEM frequently co-exists with reflux
+- Pre-[[antireflux-surgery|anti-reflux surgery]] caution: impaired peristaltic reserve raises post-wrap [[dysphagia]] risk — HRM assesses peristaltic reserve before ARS ([[acg-2020-esophageal-physiologic-testing]])
+
+*No IEM-specific pharmacotherapy is supported by an ingested source (prokinetics lack IEM evidence) — awaiting a dedicated source.*
 
 ---
 
 ## See Also
 
-[[chicago-classification-v4]], [[high-resolution-manometry]], [[distal-esophageal-spasm]], [[hypercontractile-esophagus]], [[achalasia]], [[gerd]], [[flip-panometry]], [[antireflux-surgery]]
+[[chicago-classification-v4]], [[high-resolution-manometry]], [[distal-esophageal-spasm]], [[hypercontractile-esophagus]], [[achalasia]], [[gerd]], [[flip-panometry]], [[antireflux-surgery]], [[dysphagia]]
+
+---
+
+## Sources
+
+1. [[chicago-v4-2021-esophageal-dysmotility|Chicago Classification v4.0: Esophageal Motility Disorders]]
+2. [[aga-2025-flip-esophageal|AGA Clinical Practice Update: Incorporating FLIP Into Esophageal Clinical Practice]]
+3. [[acg-2020-esophageal-physiologic-testing|ACG 2020: Clinical Use of Esophageal Physiologic Testing]]

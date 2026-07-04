@@ -27,7 +27,7 @@ jobs:
 
       # Runs inside website_files so node_modules is created there, not at the repo root.
       - name: Install dependencies
-        run: npm install
+        run: npm ci  # lockfile-exact installs (security plan P4)
         working-directory: website_files
 
       - name: Build embeddings
@@ -38,4 +38,4 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: 'chore: rebuild search embeddings [skip ci]'
-          file_pattern: 'website_files/search/chunks.json website_files/search/embeddings.b64'
+          file_pattern: 'website_files/search/chunks.json website_files/search/embeddings.b64 website_files/search/wiki-bundle.json'

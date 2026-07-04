@@ -3,7 +3,7 @@ title: "Proctalgia Syndromes"
 category: disease-script
 tags: [proctalgia, levator-ani, chronic-proctalgia, proctalgia-fugax, anorectal, pelvic-floor, colorectal]
 created: 2026-05-16
-updated: 2026-05-16
+updated: 2026-07-02
 sources: [acg-2021-anorectal-disorders]
 ---
 
@@ -91,7 +91,6 @@ Note: concurrent anal fissures, prolapsed [[hemorrhoids]], or other anorectal pa
 ---
 
 ## See Also
-
 
 [[defecation-disorders]], [[fecal-incontinence]], [[anal-fissure]], [[hemorrhoids]], [[crohns-disease]], [[biofeedback-therapy]], [[anorectal-manometry]]
 

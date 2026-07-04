@@ -3,6 +3,13 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!-- Security: meta-tag CSP fallback (GitHub Pages can't set headers; the full
+     header set — incl. HSTS/frame-ancestors, which meta CSP can't do — should be
+     added at the Cloudflare proxy, see SECURITY-PLAN.md P3).
+     Notes: 'unsafe-inline' needed for inline scripts/styles (tighten later);
+     'wasm-unsafe-eval' + huggingface hosts for semantic search (transformers.js);
+     blob: for avatar image previews and workers; challenges.cloudflare.com for Turnstile. -->
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline' 'wasm-unsafe-eval' https://cdn.jsdelivr.net https://challenges.cloudflare.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; img-src 'self' https: data: blob:; connect-src 'self' https://api.khnicklemd.com https://api.github.com https://raw.githubusercontent.com https://cdn.jsdelivr.net https://huggingface.co https://cdn-lfs.huggingface.co https://challenges.cloudflare.com; frame-src https://challenges.cloudflare.com; worker-src 'self' blob:; object-src 'none'; base-uri 'self'; form-action 'self'">
 <!-- SPA clean-URL support: decode the redirect from 404.html (see 404.html). Must run before any other script. -->
 <script>
   (function (l) {
@@ -1455,7 +1462,9 @@ function ensureD3(cb) {
   if (window._d3Loading) return setTimeout(() => ensureD3(cb), 100);
   window._d3Loading = true;
   const s = document.createElement('script');
-  s.src = 'https://cdn.jsdelivr.net/npm/d3@7/dist/d3.min.js';
+  s.src = 'https://cdn.jsdelivr.net/npm/d3@7.9.0/dist/d3.min.js';
+  s.integrity = 'sha256-8glLv2FBs1lyLE/kVOtsSw8OQswQzHr5IfwVj864ZTk=';
+  s.crossOrigin = 'anonymous';
   s.onload = cb;
   document.head.appendChild(s);
 }
@@ -1703,6 +1712,9 @@ function rawUrl(filePath) {
 }
 
 async function fetchWikiIndex() {
+  // Fast path: one prebuilt bundle (built by the embeddings GitHub Action)
+  // instead of 1 tree call + ~470 raw.githubusercontent fetches.
+  if (await loadWikiBundle()) return;
   const { username, repo, branch } = config;
   const treeUrl = `https://api.github.com/repos/${username}/${repo}/git/trees/${branch}?recursive=1`;
   const res = await fetch(treeUrl);
@@ -1716,6 +1728,23 @@ async function fetchWikiIndex() {
   for (let i = 0; i < wikiFiles.length; i += BATCH) {
     await Promise.all(wikiFiles.slice(i, i + BATCH).map(f => fetchAndParsePage(f.path)));
   }
+}
+
+async function loadWikiBundle() {
+  // Only valid when reading the default repo — a custom config must use the live GitHub path.
+  if (config.username !== DEFAULT_CONFIG.username || config.repo !== DEFAULT_CONFIG.repo || config.path !== DEFAULT_CONFIG.path) return false;
+  try {
+    const res = await fetch('website_files/search/wiki-bundle.json');
+    if (!res.ok) return false;
+    const data = await res.json();
+    if (!Array.isArray(data.files) || data.files.length === 0) return false;
+    const prefix = config.path ? config.path + '/' : '';
+    for (const f of data.files) {
+      const slug = f.path.split('/').pop().replace('.md', '');
+      wikiData[slug] = parsePage(f.text, prefix + f.path, slug);
+    }
+    return true;
+  } catch (e) { return false; }
 }
 
 async function fetchAndParsePage(filePath) {
@@ -1768,7 +1797,7 @@ function showLoading(show) {
 function showError(msg) {
   const el = document.createElement('div');
   el.className = 'error-banner';
-  el.innerHTML = `⚠️ ${msg} <button onclick="localStorage.removeItem('${CONFIG_KEY}');location.reload();" style="margin-left:10px;background:none;border:1px solid currentColor;border-radius:4px;padding:2px 8px;cursor:pointer;color:inherit;font-size:12px">Reset Config</button>`;
+  el.innerHTML = `⚠️ ${escHtml(String(msg))} <button onclick="localStorage.removeItem('${CONFIG_KEY}');location.reload();" style="margin-left:10px;background:none;border:1px solid currentColor;border-radius:4px;padding:2px 8px;cursor:pointer;color:inherit;font-size:12px">Reset Config</button>`;
   document.getElementById('content-area').prepend(el);
 }
 
@@ -2422,6 +2451,15 @@ function showTOC(secKey) {
     </div>`;
 }
 
+// Open a section TOC and scroll to a specific subsection block
+function showTOCSub(secKey, subKey) {
+  showTOC(secKey);
+  requestAnimationFrame(() => {
+    const target = document.getElementById('toc-sub-' + subKey);
+    if (target) target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  });
+}
+
 function buildGenericTOC(secKey, pages) {
   // Group by subsection → subsubsection
   const grouped = {};
@@ -2463,7 +2501,7 @@ function buildGenericTOC(secKey, pages) {
       ? `<img src="${subMeta.icon}" class="toc-subsection-icon" alt="${labelText}">`
       : `<span class="toc-subsection-emoji">📁</span>`;
     const totalPages = Object.values(grouped[subKey]).flat().length;
-    const id = 'toc-sub-' + uid();
+    const id = 'toc-sub-' + subKey;
     const bodyId = id + '-body';
 
     let innerHtml = '';
@@ -2575,7 +2613,11 @@ function navigateTo(slug) {
   const subLabel = page.subsection ? (SUBSECTION_LABELS[page.subsection] || page.subsection) : '';
   let bcHtml = `<span class="bc-item" onclick="showOverview()">Home</span>`;
   if (secLabel) bcHtml += `<span class="bc-sep">›</span><span class="bc-item" onclick="showTOC('${page.section}')">${secMeta.icon||''} ${secLabel}</span>`;
-  if (subLabel) bcHtml += `<span class="bc-sep">›</span><span class="bc-item">${subLabel}</span>`;
+  if (subLabel) {
+    const subMeta = SUBSECTION_META[page.subsection];
+    const subIcon = subMeta ? `<img src="${subMeta.icon}" alt="" style="width:15px;height:15px;object-fit:contain;vertical-align:-2px;margin-right:4px;">` : '';
+    bcHtml += `<span class="bc-sep">›</span><span class="bc-item" onclick="showTOCSub('${page.section}','${page.subsection}')">${subIcon}${subLabel}</span>`;
+  }
   bcHtml += `<span class="bc-sep">›</span><span class="bc-item current">${page.title}</span>`;
   document.getElementById('breadcrumb').innerHTML = bcHtml;
 
@@ -2736,6 +2778,10 @@ function showMissingPage(slug) {
 // ══════════════════════════════════════
 //  MARKDOWN RENDERER
 // ══════════════════════════════════════
+// ⚠️ SECURITY INVARIANT (SECURITY-PLAN.md P1.3): renderMd/inlineRender pass raw
+// HTML through by design and are ONLY for content from this repo (wiki pages).
+// NEVER render user-submitted or third-party text through renderMd or into
+// innerHTML — use textContent, esc()/escHtml() for every field, or DOMPurify.
 function renderMd(text) {
   if (!text) return '';
   let html = '';
@@ -2888,7 +2934,7 @@ function inlineRender(text) {
     return `<img src="${src}" alt="${escHtml(f)}" loading="lazy" style="${imgStyle}">`;
   });
   // Standard markdown image: ![alt](url)
-  out = out.replace(/!\[([^\]]*)\]\(([^)]+)\)/g, `<img src="$2" alt="$1" loading="lazy" style="${imgStyle}">`);
+  out = out.replace(/!\[([^\]]*)\]\(([^)]+)\)/g, (m, alt, url) => `<img src="${safeUrl(url)}" alt="${alt}" loading="lazy" style="${imgStyle}">`);
   out = out.replace(/\[\[([^\]|]+)(?:\|([^\]]+))?\]\]/g, (match, target, label) => {
     target = target.trim();
     // Heading anchor link: [[#Heading]] (same page) or [[page#Heading]]
@@ -2907,12 +2953,21 @@ function inlineRender(text) {
     const exists = wikiData[ns] || Object.keys(wikiData).some(k=>k.toLowerCase()===ns.toLowerCase());
     return `<a class="wiki-link${exists?'':' missing'}" onclick="navigateTo('${ns}')">${escHtml(display)}</a>`;
   });
-  out = out.replace(/\[([^\]]+)\]\(([^)]+)\)/g,'<a href="$2" target="_blank" rel="noopener">$1</a>');
+  out = out.replace(/\[([^\]]+)\]\(([^)]+)\)/g, (m, label, url) => `<a href="${safeUrl(url)}" target="_blank" rel="noopener">${label}</a>`);
   return out;
 }
 
 function escHtml(str) {
-  return str.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+  return str.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;').replace(/'/g,'&#39;');
+}
+
+// Allow only safe URL schemes in href/src (blocks javascript:, data:, etc.).
+// Input arrives already HTML-escaped by escHtml; colons are untouched, so schemes stay detectable.
+function safeUrl(u) {
+  const t = (u || '').trim();
+  if (/^(https?:|mailto:|#)/i.test(t)) return t;      // explicit allowed schemes
+  if (!/^[a-z][a-z0-9+.-]*:/i.test(t)) return t;      // no scheme → relative path, ok
+  return '#';                                          // anything else: neutralize
 }
 
 // Strip a leading YAML frontmatter block (--- … ---) from raw markdown
@@ -2938,7 +2993,9 @@ function initMermaid() {
     if (!window._mmLoading) {
       window._mmLoading = true;
       const s = document.createElement('script');
-      s.src = 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js';
+      s.src = 'https://cdn.jsdelivr.net/npm/mermaid@10.9.6/dist/mermaid.min.js';
+      s.integrity = 'sha256-7aOgrVcrvmmjGMG+AWPoIz3YJPPxKTnlFo/rogd2cVE=';
+      s.crossOrigin = 'anonymous';
       s.onload = initMermaid;
       document.head.appendChild(s);
     } else {

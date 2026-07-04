@@ -1,5 +1,5 @@
 ---
-title: "Endoscopic Ultrasound (EUS) — Quality Standards"
+title: "Endoscopic Ultrasound (EUS)"
 category: advanced-procedure
 tags: [eus, endoscopic-ultrasound, fna, fnb, pancreatic-mass, pancreatic-cysts, ipmn, mcn, biliary-drainage, eus-guided-drainage, quality-indicators, gastroenterostomy]
 created: 2026-05-07
@@ -7,7 +7,7 @@ updated: 2026-07-01
 sources: [acg-2025-eus-quality, acg-2018-pancreatic-cysts, asge-2024-solid-pancreatic-masses, asge-2011-eus-mediastinal-adenopathy]
 ---
 
-# Endoscopic Ultrasound (EUS) — Quality Standards
+# Endoscopic Ultrasound (EUS)
 
 EUS quality standards from ACG/ASGE 2025 Quality Indicator document. [[acg-2025-eus-quality]]
 
