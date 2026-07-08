@@ -113,9 +113,18 @@ Create a free account (**Sign in**, top-right) to add a personal study layer on 
 - **Private notes** — select any text in an article and click **✎ Add note** to pin a private note to that spot (a small ✎ marker appears there; click it to read or edit). Notes are **never lost**: if the wiki text you pinned changes, the note moves to a *"Notes on this page"* tray at the end of the article — and re-anchors automatically if the text returns. **My notes** in the account menu lists everything, with **.md / .json export**.
 - **Bookmarks** — click the ☆ star in a page's header to save it; organize with labels and folders under **Bookmarks** in the account menu.
 - **Reviewed tracking** — click the ✓ next to the star when you've finished studying a page. Reviewed pages show a green ✓ in the section lists, and **Reviewed pages** in the menu shows what you covered and when.
+- **Updated since your review** — if a page changes *after* you reviewed it, you'll see a 🔔 *"Updated since your review"* pill in the page header (click it to mark the page reviewed again), the ✓ marks turn amber in section lists, and the **Reviewed pages** list flags it — so you always know when there's new material on a page you thought you'd finished.
 - **Friends** — find colleagues by username under **Friends**, send a request, and once accepted you can see each other's reviewed pages, bookmarks, and any notes explicitly shared (per privacy settings).
 - **Privacy** — everything is private by default except to accepted friends, and each note is only shared if you tick *"Visible to friends"* on it. The **Privacy** menu controls profile/activity visibility and whether you appear in user search.
 - **Your data is yours** — **Account & data** in the menu exports everything you've created as JSON, or deletes your account and all of its data permanently.
+
+## 🧫 The Colon Colony
+
+The wiki's community hub — find it in the sidebar just above Feedback, or under the account menu. Three tabs:
+
+- **Achievements** — earned automatically as you use the wiki: reviewing pages (5 → 10 → 50 → 100), making 5 friends, opening 5 pages from Graph view, following in-text links through 5 pages in a row, and meeting a colleague in person. When you unlock one, a small notification pops up (bottom-left) — click it to open your achievements, or swipe it away.
+- **Leaderboards** — most pages reviewed, most friends, and most colleagues met in person. Logged-in users only; opt out any time under **Privacy → "Appear on Colony leaderboards"**.
+- **Meet up** — met a wiki friend in real life? One of you taps **Show my meet-up code** and the other scans the QR with their phone camera. The code is single-use, lasts 10 minutes, and only works between accepted friends — both of you earn the **Colony Contact** achievement.
 
 ## Feedback & Bug Reports
 

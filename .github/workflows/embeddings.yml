@@ -34,6 +34,14 @@ jobs:
         run: npm run build-embeddings
         working-directory: website_files
 
+      # Pushing while the triggering push's Pages deploy is still in flight
+      # cancels it mid-deploy and wedges the next one (prod served a stale,
+      # 400-fetch-slow build for 2 days after 2026-07-04's race).
+      # ponytail: dumb 2-min delay avoids the deploy-cancel race; upgrade to
+      # status-check + POST /pages/builds retry if it ever wedges again.
+      - name: Wait out the triggering push's Pages deploy
+        run: sleep 120
+
       - name: Commit updated embeddings
         uses: stefanzweifel/git-auto-commit-action@v5
         with:

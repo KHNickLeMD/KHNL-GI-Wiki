@@ -3,7 +3,7 @@ title: "Drug-Induced Liver Injury (Idiosyncratic)"
 category: disease-script
 tags: [dili, drug-induced-liver-injury, hepatotoxicity, hds, ici, immune-checkpoint, hpb, liver]
 created: 2026-05-16
-updated: 2026-05-16
+updated: 2026-07-06
 sources: [acg-2021-dili, acg-2017-liver-chemistries, aasld-2022-dili]
 ---
 
@@ -55,6 +55,8 @@ sources: [acg-2021-dili, acg-2017-liver-chemistries, aasld-2022-dili]
 ---
 
 ## Differential Diagnosis
+
+*Workup: see [[abnormal-liver-chemistries]].*
 
 | Condition | Key Distinguishing Features |
 |-----------|---------------------------|
@@ -169,8 +171,7 @@ Roussel Uclaf Causality Assessment Method — scoring system (−10 to +14):
 
 ## See Also
 
-
-[[abnormal-liver-chemistries]], [[acute-liver-failure]], [[autoimmune-hepatitis]], [[helicobacter-pylori-infection]], [[inflammatory-bowel-disease]], [[nafld-masld]], [[primary-biliary-cholangitis]], [[primary-sclerosing-cholangitis]], [[wilson-disease]], [[budd-chiari-syndrome]], [[immune-checkpoint-inhibitor-hepatitis]], [[liver-transplantation]], [[ercp]]
+[[abnormal-liver-chemistries]], [[acute-liver-failure]], [[autoimmune-hepatitis]], [[inflammatory-bowel-disease]], [[nafld-masld]], [[primary-biliary-cholangitis]], [[primary-sclerosing-cholangitis]], [[wilson-disease]], [[budd-chiari-syndrome]], [[immune-checkpoint-inhibitor-hepatitis]], [[liver-transplantation]], [[ercp]]
 
 ---
 

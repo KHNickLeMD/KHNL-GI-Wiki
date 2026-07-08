@@ -44,7 +44,7 @@
   var CONFIG = {
     API_BASE: "https://api.khnicklemd.com",
     TURNSTILE_SITE_KEY: "0x4AAAAAADsnUhGCQy6CF38J", // public site key (same widget as feedback)
-    APP_VERSION: "step12-2026-07-02",
+    APP_VERSION: "step16-2026-07-04",
   };
 
   // ======================================================================
@@ -716,6 +716,7 @@
     { id: "bookmarks", label: "Bookmarks" },
     { id: "reviewed",  label: "Reviewed pages" },
     { id: "friends",   label: "Friends" },
+    { id: "colony",    label: "🧫 The Colon Colony" }, // Phase 2 hub
     { id: "privacy",   label: "Privacy" },
     { id: "account",   label: "Account & data" }, // Step 11: export + delete
   ];
@@ -1135,9 +1136,32 @@
     // Step 7 — "Mark as reviewed" toggle beside the star (§4.7)
     var rvBtn = el('<button id="khnl-rv" class="khnl-rv" title="Mark as reviewed" aria-label="Mark as reviewed">✓</button>');
     host.appendChild(rvBtn);
-    function paintRv(on) {
-      rvBtn.classList.toggle("on", !!on);
+    // Phase 2: paintRv now takes the review RECORD (not a bool) so it can also
+    // manage the "updated since your review" pill — the page's front-matter
+    // `updated` date (via the KHNL_WIKI bridge) vs when you marked it reviewed.
+    function paintRv(rec) {
+      var on = !!rec;
+      rvBtn.classList.toggle("on", on);
       rvBtn.title = on ? "Reviewed — click to unmark" : "Mark as reviewed";
+      var oldPill = document.getElementById("khnl-rv-stale");
+      if (oldPill) oldPill.remove();
+      var stale = on && reviewStale(rec, slug);
+      rvBtn.classList.toggle("stale", stale);
+      if (!stale) return;
+      var meta = (window.KHNL_WIKI && window.KHNL_WIKI.pageMeta(slug)) || {};
+      var pill = el('<button type="button" id="khnl-rv-stale" class="khnl-rv-stale" title="You reviewed this on ' +
+        esc((rec.updated || rec.created || "").slice(0, 10)) + " — the page was updated " + esc(meta.updated || "") +
+        '. Click to mark it reviewed again.">🔔 Updated since your review</button>');
+      host.appendChild(pill);
+      pill.addEventListener("click", function () {
+        pill.disabled = true;
+        // PATCH refreshes the record's `updated` autodate = new "reviewed" date
+        api("/api/collections/page_reviews/records/" + rec.id, { method: "PATCH", body: { label: title } })
+          .then(function (j) {
+            rv.all().then(function (map) { map[slug] = j; paintRv(j); decorateReviewed(); }).catch(function () {});
+          })
+          .catch(function () { pill.disabled = false; alert("Could not update — please try again."); });
+      });
     }
     rv.all().then(function (map) { paintRv(map[slug]); }).catch(function () {});
     rvBtn.addEventListener("click", function () {
@@ -1147,12 +1171,16 @@
         var rec = map[slug];
         if (rec) {
           return api("/api/collections/page_reviews/records/" + rec.id, { method: "DELETE" })
-            .then(function () { delete map[slug]; paintRv(false); });
+            .then(function () { delete map[slug]; paintRv(null); });
         }
         return api("/api/collections/page_reviews/records", {
           method: "POST",
           body: { user: state.user.id, pageSlug: slug, label: title },
-        }).then(function (j) { map[slug] = j; paintRv(true); });
+        }).then(function (j) {
+          map[slug] = j; paintRv(j);
+          // Step 14: the server hook may have just granted a review tier
+          try { document.dispatchEvent(new CustomEvent("khnl:ach-check")); } catch (_) {}
+        });
       }).catch(function (err) {
         reportError("review toggle: " + ((err && err.message) || String(err)), err && err.stack);
       }).then(function () { rvBtn.disabled = false; });
@@ -1250,8 +1278,13 @@
       var nodes = area.querySelectorAll('[onclick^="navigateTo("]');
       for (var j = 0; j < nodes.length; j++) {
         var m = /navigateTo\('([^']+)'\)/.exec(nodes[j].getAttribute("onclick") || "");
-        if (m && map[m[1].toLowerCase()]) {
-          nodes[j].appendChild(el('<span class="khnl-rv-mark" title="Reviewed">✓</span>'));
+        var rec = m && map[m[1].toLowerCase()];
+        if (rec) {
+          // Phase 2: amber mark when the page changed after you reviewed it
+          var stale = reviewStale(rec, m[1].toLowerCase());
+          nodes[j].appendChild(el(stale
+            ? '<span class="khnl-rv-mark stale" title="Reviewed — but updated since">✓</span>'
+            : '<span class="khnl-rv-mark" title="Reviewed">✓</span>'));
         }
       }
     }).catch(function () {});
@@ -1285,10 +1318,14 @@
       render: function (host, rows) {
         rows.sort(function (a, b) { return (b.created || "").localeCompare(a.created || ""); });
         rows.forEach(function (r) {
+          // Phase 2: flag pages that changed after you reviewed them; show the
+          // (re-)review date — `updated` bumps when the pill re-marks a page.
+          var stale = reviewStale(r, r.pageSlug);
           var row = el(
             '<div class="khnl-bm-row">' +
               '<button type="button" class="khnl-bm-title">' + esc(r.label || r.pageSlug) + "</button>" +
-              '<span class="khnl-bm-date">' + (r.created || "").slice(0, 10) + "</span>" +
+              (stale ? '<span class="khnl-rv-stalebadge" title="This page was updated after you reviewed it">updated since</span>' : "") +
+              '<span class="khnl-bm-date">' + (r.updated || r.created || "").slice(0, 10) + "</span>" +
               '<button type="button" class="khnl-bm-act" title="Unmark reviewed">✕</button>' +
             "</div>"
           );
@@ -1686,8 +1723,11 @@
           buttons.forEach(function (b) {
             var btn = el('<button type="button" class="khnl-bm-act">' + b.label + "</button>");
             btn.addEventListener("click", function () {
-              b.fn().then(function () { listsView.reload(); })
-                .catch(function () { alert("That didn’t work — please try again."); });
+              b.fn().then(function () {
+                // Step 14: an accept may have crossed the friends_5 tier server-side
+                try { document.dispatchEvent(new CustomEvent("khnl:ach-check")); } catch (_) {}
+                listsView.reload();
+              }).catch(function () { alert("That didn’t work — please try again."); });
             });
             r.appendChild(btn);
           });
@@ -1807,6 +1847,8 @@
             "</select></div>" +
           '<div class="khnl-sl-row"><label style="font-weight:400;display:flex;gap:8px;align-items:center">' +
             '<input type="checkbox" id="pv-search" style="width:auto"> Appear in user search</label></div>' +
+          '<div class="khnl-sl-row"><label style="font-weight:400;display:flex;gap:8px;align-items:center">' +
+            '<input type="checkbox" id="pv-board" style="width:auto"> Appear on Colony leaderboards</label></div>' +
           '<p class="khnl-sl-sub" style="margin-top:2px">Individual notes are only ever shared if you tick ' +
             '“Visible to friends” on that note.</p>' +
           '<p class="khnl-sl-formerr" id="pv-formerr"></p>' +
@@ -1826,6 +1868,7 @@
     overlay.querySelector("#pv-prof").value = u.profileVisibility || "friends";
     overlay.querySelector("#pv-act").value = u.activityVisibility || "friends";
     overlay.querySelector("#pv-search").checked = !u.hideFromSearch;
+    overlay.querySelector("#pv-board").checked = !u.hideFromLeaderboards;
 
     overlay.querySelector("#pv-save").addEventListener("click", function () {
       var btn = overlay.querySelector("#pv-save");
@@ -1836,6 +1879,7 @@
           profileVisibility: overlay.querySelector("#pv-prof").value,
           activityVisibility: overlay.querySelector("#pv-act").value,
           hideFromSearch: !overlay.querySelector("#pv-search").checked,
+          hideFromLeaderboards: !overlay.querySelector("#pv-board").checked,
         },
       }).then(function (j) {
         setUser(Object.assign({}, state.user, j || {}));
@@ -1999,6 +2043,510 @@
     }, "No notes shared with friends.");
   }
 
+  // ======================================================================
+  // PHASE 2 (§10) — THE COLON COLONY: achievements + toasts (Step 14),
+  // QR meet-ups (Step 15), leaderboards (Step 16), hub view (Step 13),
+  // and the "updated since your review" staleness helpers.
+  // ======================================================================
+
+  // ---------- staleness: page front-matter `updated` vs your review date ----
+  function reviewStale(rec, slug) {
+    if (!rec || !window.KHNL_WIKI) return false;
+    var meta = window.KHNL_WIKI.pageMeta(slug);
+    if (!meta || !meta.updated) return false;
+    var revDate = (rec.updated || rec.created || "").slice(0, 10);
+    return !!revDate && String(meta.updated).slice(0, 10) > revDate;
+  }
+
+  // ---------- Step 14: toast notifications (queued, swipeable, clickable) ----
+  var toastQueue = [], toastLive = null;
+  function showToast(o) { toastQueue.push(o); pumpToasts(); }
+  function pumpToasts() {
+    if (toastLive || !toastQueue.length) return;
+    var o = toastQueue.shift();
+    var t = el(
+      '<div class="khnl-toast" role="status">' +
+        '<span class="tt-ic">' + (o.icon || "🏆") + "</span>" +
+        '<span class="tt-tx"><b>' + esc(o.title || "") + "</b><br>" + esc(o.body || "") + "</span>" +
+        '<button type="button" class="tt-x" aria-label="Dismiss">&times;</button>' +
+      "</div>"
+    );
+    toastLive = t;
+    document.body.appendChild(t);
+    requestAnimationFrame(function () { requestAnimationFrame(function () { t.classList.add("in"); }); });
+
+    var gone = false;
+    function dismiss() {
+      if (gone) return;
+      gone = true;
+      clearTimeout(timer);
+      t.classList.remove("in");
+      setTimeout(function () { t.remove(); toastLive = null; pumpToasts(); }, 260);
+    }
+    var timer = setTimeout(dismiss, o.ttl || 6000);
+    t.addEventListener("mouseenter", function () { clearTimeout(timer); });
+    t.addEventListener("mouseleave", function () { clearTimeout(timer); timer = setTimeout(dismiss, 3000); });
+    t.querySelector(".tt-x").addEventListener("click", function (e) { e.stopPropagation(); dismiss(); });
+    t.addEventListener("click", function () { if (o.onClick) try { o.onClick(); } catch (_) {} dismiss(); });
+    // swipe-away (horizontal), non-intrusive per the plan
+    var sx = null, dx = 0;
+    t.addEventListener("touchstart", function (e) { sx = e.touches[0].clientX; dx = 0; }, { passive: true });
+    t.addEventListener("touchmove", function (e) {
+      if (sx === null) return;
+      dx = e.touches[0].clientX - sx;
+      t.style.transform = "translateX(" + dx + "px)";
+      t.style.opacity = String(Math.max(0.25, 1 - Math.abs(dx) / 160));
+    }, { passive: true });
+    t.addEventListener("touchend", function () {
+      if (Math.abs(dx) > 60) { dismiss(); }
+      else { t.style.transform = ""; t.style.opacity = ""; }
+      sx = null;
+    });
+  }
+
+  // ---------- Step 14: achievements engine ----------------------------------
+  var ACH_CATALOG = [
+    { code: "review_5",    icon: "📖", name: "Quick Study",       how: "Mark 5 pages as reviewed" },
+    { code: "review_10",   icon: "🩺", name: "Making Rounds",     how: "Mark 10 pages as reviewed" },
+    { code: "review_50",   icon: "🔬", name: "Systematic Review", how: "Mark 50 pages as reviewed" },
+    { code: "review_100",  icon: "🏆", name: "The Full Workup",   how: "Mark 100 pages as reviewed" },
+    { code: "friends_5",   icon: "🤝", name: "Social Motility",   how: "Have 5 accepted friends" },
+    { code: "graph_5",     icon: "🕸️", name: "Node Navigator",    how: "Open 5 pages from Graph view" },
+    { code: "linkchain_5", icon: "🔗", name: "Lost in the Lumen", how: "Follow in-text links through 5 pages in a row" },
+    { code: "meetup_1",    icon: "🧫", name: "Colony Contact",    how: "Meet a wiki friend in person (QR-verified)" },
+  ];
+  function achMeta(code) {
+    for (var i = 0; i < ACH_CATALOG.length; i++) if (ACH_CATALOG[i].code === code) return ACH_CATALOG[i];
+    return { code: code, icon: "🏅", name: code, how: "" };
+  }
+
+  var achEarned = null;   // code -> record (null until first load)
+  var progCache = {};     // code -> achievement_progress record
+  var achLoading = null;
+
+  function achReset() { achEarned = null; progCache = {}; achLoading = null; }
+
+  function achLoad(quiet) {
+    if (!state.user) return Promise.resolve(null);
+    if (achLoading) return achLoading;
+    achLoading = api("/api/collections/user_achievements/records?perPage=200&skipTotal=1&filter=" +
+      encodeURIComponent("user = '" + state.user.id + "'"))
+      .then(function (j) {
+        var prev = achEarned, next = {};
+        (j.items || []).forEach(function (r) { next[r.code] = r; });
+        achEarned = next;
+        achLoading = null;
+        if (!quiet && prev) {
+          Object.keys(next).forEach(function (code) {
+            if (!prev[code]) toastAchievement(code);
+          });
+        }
+        return next;
+      })
+      .catch(function (err) { achLoading = null; throw err; });
+    return achLoading;
+  }
+
+  function toastAchievement(code) {
+    var m = achMeta(code);
+    showToast({
+      icon: m.icon,
+      title: "Achievement unlocked!",
+      body: m.name + " — " + m.how,
+      onClick: function () { goColony("achievements"); },
+    });
+  }
+
+  // server hooks may have granted something — refetch shortly after the trigger
+  var achCheckTimer = null;
+  document.addEventListener("khnl:ach-check", function () {
+    clearTimeout(achCheckTimer);
+    achCheckTimer = setTimeout(function () { achLoad(false).catch(function () {}); }, 900);
+  });
+
+  // client-granted codes (graph_5 / linkchain_5) — the only codes the API rule accepts
+  function achGrantClient(code) {
+    if (!state.user || !state.user.verified) return;
+    if (achEarned && achEarned[code]) return;
+    api("/api/collections/user_achievements/records", {
+      method: "POST",
+      body: { user: state.user.id, code: code },
+    }).then(function (j) {
+      if (!achEarned) achEarned = {};
+      achEarned[code] = j;
+      toastAchievement(code);
+    }).catch(function () { achLoad(true).catch(function () {}); }); // duplicate/race — resync quietly
+  }
+
+  function ensureProgress(code) {
+    if (progCache[code]) return Promise.resolve(progCache[code]);
+    return api("/api/collections/achievement_progress/records?perPage=1&skipTotal=1&filter=" +
+      encodeURIComponent("code = '" + code + "'"))
+      .then(function (j) {
+        if (j.items && j.items[0]) { progCache[code] = j.items[0]; return j.items[0]; }
+        return api("/api/collections/achievement_progress/records", {
+          method: "POST",
+          body: { user: state.user.id, code: code, count: 0 },
+        }).then(function (j2) { progCache[code] = j2; return j2; });
+      });
+  }
+
+  // durable cross-device counter for graph clicks (chain stays session-local)
+  function bumpGraphProgress() {
+    if (!state.user || !state.user.verified) return;
+    if (achEarned && achEarned.graph_5) return;
+    ensureProgress("graph_5").then(function (rec) {
+      var n = (rec.count || 0) + 1;
+      return api("/api/collections/achievement_progress/records/" + rec.id, {
+        method: "PATCH", body: { count: n },
+      }).then(function (j) {
+        progCache.graph_5 = j;
+        if (n >= 5) achGrantClient("graph_5");
+      });
+    }).catch(function () {});
+  }
+
+  // ---------- Step 14: behavior tracking (graph clicks + link chains) --------
+  // An in-text wiki link click is flagged in CAPTURE phase (fires before the
+  // link's inline onclick runs navigateTo), then consumed by the khnl:nav
+  // listener below. Any other navigation source resets the chain.
+  var lastNavView2 = "", linkNavFlag = false, linkChain = 0;
+  document.addEventListener("click", function (ev) {
+    var tgt = ev.target;
+    if (!tgt || !tgt.closest) return;
+    var a = tgt.closest("a.wiki-link");
+    var body = document.getElementById("page-body");
+    if (a && body && body.contains(a)) linkNavFlag = true;
+  }, true);
+
+  document.addEventListener("khnl:nav", function (ev) {
+    var view = (ev.detail && ev.detail.view) || "";
+    var prev = lastNavView2;
+    lastNavView2 = view;
+    var viaLink = linkNavFlag;
+    linkNavFlag = false;
+
+    if (view === "colony") { setTimeout(renderColony, 0); return; }
+    stopMeetPoll(); // left the colony (or changed page) — stop any QR polling
+
+    if (view.indexOf("page:") !== 0) { linkChain = 0; return; }
+    if (!state.user) return;
+    if (viaLink && prev.indexOf("page:") === 0 && prev !== view) {
+      linkChain += 1;
+      if (linkChain >= 5) achGrantClient("linkchain_5");
+    } else {
+      linkChain = 0;
+      if (prev === "graph") bumpGraphProgress();
+    }
+  });
+
+  // ---------- Step 15: QR meet-ups -------------------------------------------
+  var meetPollTimer = null;
+  function stopMeetPoll() { if (meetPollTimer) { clearInterval(meetPollTimer); meetPollTimer = null; } }
+
+  function loadQrLib(cb) {
+    if (window.qrcode) return cb();
+    var s = inject("script", { src: "https://cdn.jsdelivr.net/npm/qrcode-generator@1.4.4/qrcode.min.js" });
+    s.onload = cb;
+    s.onerror = function () { cb(new Error("QR library failed to load")); };
+  }
+
+  function myMeetupCount() {
+    return api("/api/collections/meetups/records?perPage=1&skipTotal=0")
+      .then(function (j) { return j.totalItems || (j.items || []).length || 0; });
+  }
+
+  function issueQr(box, logReload) {
+    stopMeetPoll();
+    box.innerHTML = '<p class="khnl-sl-sub">Generating your one-time code…</p>';
+    api("/api/khnl/meetup/issue", { method: "POST", body: {} }).then(function (j) {
+      loadQrLib(function (err) {
+        if (err) { box.innerHTML = '<p class="khnl-sl-formerr" style="display:block">Could not load the QR renderer — please try again.</p>'; return; }
+        var url = window.location.origin + "/meetup?t=" + encodeURIComponent(j.token);
+        var qr = window.qrcode(0, "M");
+        qr.addData(url);
+        qr.make();
+        box.innerHTML =
+          '<div class="khnl-qr">' + qr.createSvgTag({ scalable: true, margin: 2 }) + "</div>" +
+          '<p class="khnl-sl-sub" style="text-align:center">Have your colleague scan this with their phone camera.<br>' +
+          "Single use · expires in 10 minutes · they must be your wiki friend.</p>";
+        // poll while the QR is up: when our meetup count grows, the scan landed
+        myMeetupCount().then(function (base) {
+          meetPollTimer = setInterval(function () {
+            myMeetupCount().then(function (n) {
+              if (n > base) {
+                stopMeetPoll();
+                box.innerHTML = '<p style="text-align:center;font-size:15px">🧫 <b>Meet-up verified!</b></p>';
+                try { document.dispatchEvent(new CustomEvent("khnl:ach-check")); } catch (_) {}
+                if (logReload) logReload();
+              }
+            }).catch(function () {});
+          }, 6000);
+        }).catch(function () {});
+      });
+    }).catch(function (err) {
+      box.innerHTML = '<p class="khnl-sl-formerr" style="display:block">' +
+        esc((err && err.message) || "Could not create a code — please try again.") + "</p>";
+    });
+  }
+
+  // scanner side: /meetup?t=… stashed by index.html before the router ate it
+  function tryRedeemPending() {
+    var t = window.KHNL_MEETUP_TOKEN;
+    if (!t || !state.user) return;
+    window.KHNL_MEETUP_TOKEN = null;
+    api("/api/khnl/meetup/redeem", { method: "POST", body: { token: t } })
+      .then(function (j) {
+        showToast({
+          icon: "🧫",
+          title: j.alreadyMet ? "Already on the books!" : "Meet-up verified!",
+          body: j.alreadyMet
+            ? "You and " + (j.partnerName || "your colleague") + " had already met up — no new entry."
+            : "You met " + (j.partnerName || "your colleague") + " in person. Colony Contact!",
+          ttl: 8000,
+          onClick: function () { goColony("meetup"); },
+        });
+        setTimeout(function () {
+          achLoad(false).catch(function () {});
+          if (lastNavView2 === "colony") renderColony();
+        }, 900);
+      })
+      .catch(function (err) {
+        showToast({
+          icon: "⚠️",
+          title: "Meet-up not verified",
+          body: (err && err.message) || "That code didn't work — ask for a fresh QR.",
+          ttl: 9000,
+        });
+      });
+  }
+
+  // ---------- Step 13: the hub view ------------------------------------------
+  var colonyTab = "achievements";
+  function goColony(tab) {
+    if (tab) colonyTab = tab;
+    if (typeof window.showColonyView === "function") window.showColonyView();
+    setTimeout(renderColony, 0);
+  }
+
+  function renderColony() {
+    var host = document.getElementById("colony-view");
+    if (!host || host.style.display === "none") return;
+    stopMeetPoll();
+
+    if (!state.user) {
+      var pendingNote = window.KHNL_MEETUP_TOKEN
+        ? '<p style="margin:10px 0 0;font-size:13.5px;color:#a36a00"><b>Meet-up code detected</b> — sign in and it will be verified automatically.</p>'
+        : "";
+      host.innerHTML =
+        '<div class="khnl-col-wrap"><div class="khnl-col-teaser">' +
+          '<div style="font-size:42px">🧫</div>' +
+          "<h2>The Colon Colony</h2>" +
+          '<p>The (professionally) cultured community of the GI wiki — earn achievements as you study, ' +
+          "climb the leaderboards, and log in-person meet-ups with colleagues by QR." + "</p>" + pendingNote +
+          '<div style="display:flex;gap:10px;justify-content:center;margin-top:16px">' +
+            '<button type="button" class="khnl-sl-btn primary" id="col-signin">Sign in</button>' +
+            '<button type="button" class="khnl-sl-btn ghost" id="col-signup">Create account</button>' +
+          "</div>" +
+        "</div></div>";
+      host.querySelector("#col-signin").addEventListener("click", function () { openAuth("login"); });
+      host.querySelector("#col-signup").addEventListener("click", function () { openAuth("signup"); });
+      return;
+    }
+
+    host.innerHTML =
+      '<div class="khnl-col-wrap">' +
+        '<div class="khnl-col-head"><span style="font-size:30px">🧫</span><div>' +
+          "<h2>The Colon Colony</h2>" +
+          '<p class="khnl-sl-sub" style="margin:0">Where the wiki&rsquo;s finest cultures grow. Review pages, make friends, meet up IRL.</p>' +
+        "</div></div>" +
+        '<div class="khnl-col-tabs">' +
+          '<button type="button" data-tab="achievements">🏆 Achievements</button>' +
+          '<button type="button" data-tab="boards">📊 Leaderboards</button>' +
+          '<button type="button" data-tab="meetup">🤝 Meet up</button>' +
+        "</div>" +
+        '<div id="khnl-col-body"></div>' +
+      "</div>";
+
+    host.querySelectorAll(".khnl-col-tabs button").forEach(function (b) {
+      b.classList.toggle("on", b.getAttribute("data-tab") === colonyTab);
+      b.addEventListener("click", function () {
+        colonyTab = b.getAttribute("data-tab");
+        renderColony();
+      });
+    });
+
+    var body = host.querySelector("#khnl-col-body");
+    if (colonyTab === "boards") renderColonyBoards(body);
+    else if (colonyTab === "meetup") renderColonyMeet(body);
+    else renderColonyAch(body);
+  }
+
+  function renderColonyAch(hostEl) {
+    withState(hostEl, function () {
+      return achLoad(true).then(function (m) { return [m || {}]; }); // wrap: never "empty"
+    }, {
+      render: function (host2, arr) {
+        var earned = arr[0];
+        var n = Object.keys(earned).length;
+        var wrap = el('<div><p class="khnl-sl-sub">' + n + " of " + ACH_CATALOG.length +
+          ' earned. Locked ones show how to get them.</p><div class="khnl-ach-grid"></div></div>');
+        var grid = wrap.querySelector(".khnl-ach-grid");
+        ACH_CATALOG.forEach(function (m) {
+          var rec = earned[m.code];
+          grid.appendChild(el(
+            '<div class="khnl-ach-card' + (rec ? "" : " locked") + '">' +
+              '<div class="ac-ic">' + m.icon + "</div>" +
+              "<b>" + esc(m.name) + "</b>" +
+              '<div class="ac-how">' + esc(m.how) + "</div>" +
+              (rec ? '<div class="ac-date">Earned ' + (rec.created || "").slice(0, 10) + "</div>" : "") +
+            "</div>"
+          ));
+        });
+        host2.appendChild(wrap);
+      },
+    });
+  }
+
+  function renderColonyBoards(hostEl) {
+    var BOARDS = [
+      { coll: "leaderboard_reviews", title: "📖 Most pages reviewed" },
+      { coll: "leaderboard_friends", title: "🤝 Most friends" },
+      { coll: "leaderboard_meetups", title: "🧫 Most colleagues met IRL" },
+    ];
+    withState(hostEl, function () {
+      return Promise.all(BOARDS.map(function (b) {
+        return api("/api/collections/" + b.coll + "/records?perPage=200&skipTotal=1")
+          .then(function (j) { return j.items || []; });
+      })).then(function (r) { return [r]; }); // wrap: empty boards still render
+    }, {
+      render: function (host2, arr) {
+        var results = arr[0];
+        var me = state.user.id;
+        var hiddenNote = state.user.hideFromLeaderboards
+          ? '<p class="khnl-sl-sub">You&rsquo;re currently <b>hidden</b> from the boards (Privacy → &ldquo;Appear on Colony leaderboards&rdquo;).</p>'
+          : "";
+        var cols = el('<div>' + hiddenNote + '<div class="khnl-lb-cols"></div></div>');
+        var colsIn = cols.querySelector(".khnl-lb-cols");
+        BOARDS.forEach(function (b, i) {
+          var rows = (results[i] || []).sort(function (a, x) { return (x.total || 0) - (a.total || 0); });
+          var board = el('<div class="khnl-lb"><h4>' + b.title + "</h4></div>");
+          if (!rows.length) {
+            board.appendChild(el('<p class="khnl-sl-sub">Nobody on this board yet — be the first.</p>'));
+          }
+          var myRank = -1;
+          rows.forEach(function (r, idx) { if (r.id === me) myRank = idx; });
+          rows.slice(0, 10).forEach(function (r, idx) {
+            var medal = idx === 0 ? "🥇" : idx === 1 ? "🥈" : idx === 2 ? "🥉" : (idx + 1) + ".";
+            board.appendChild(el(
+              '<div class="khnl-lb-row' + (r.id === me ? " me" : "") + '">' +
+                '<span class="lb-rank">' + medal + "</span>" +
+                '<span class="lb-name">' + esc(r.displayName || r.username || "?") + "</span>" +
+                '<span class="lb-n">' + (r.total || 0) + "</span>" +
+              "</div>"
+            ));
+          });
+          if (myRank >= 10) {
+            board.appendChild(el('<div class="khnl-lb-row me"><span class="lb-rank">' + (myRank + 1) +
+              '.</span><span class="lb-name">You</span><span class="lb-n">' + (rows[myRank].total || 0) + "</span></div>"));
+          }
+          colsIn.appendChild(board);
+        });
+        host2.appendChild(cols);
+      },
+    });
+  }
+
+  function renderColonyMeet(hostEl) {
+    hostEl.innerHTML =
+      '<p class="khnl-sl-sub">Met a wiki friend in person? Verify it: one of you shows a QR code, the other scans it ' +
+      "with their phone camera. Both of you get the <b>Colony Contact</b> achievement, and distinct meet-ups count " +
+      "on the leaderboard.</p>" +
+      (state.user.verified
+        ? '<div style="margin:12px 0"><button type="button" class="khnl-sl-btn primary" id="cm-show">Show my meet-up code</button></div>'
+        : '<p class="khnl-sl-formerr" style="display:block">Verify your email first — meet-up codes need a verified account.</p>') +
+      '<div id="cm-qr"></div>' +
+      '<div class="khnl-bm-grp">Your meet-ups</div><div id="cm-log"></div>';
+
+    var logEl = hostEl.querySelector("#cm-log");
+    var logView = withState(logEl, function () {
+      return api("/api/collections/meetups/records?perPage=200&skipTotal=1&sort=-created&expand=userA,userB")
+        .then(function (j) { return j.items || []; });
+    }, {
+      emptyMsg: "No meet-ups verified yet — colonies grow one contact at a time.",
+      render: function (host2, rows) {
+        rows.forEach(function (r) {
+          var other = null;
+          if (r.expand) other = r.userA === state.user.id ? r.expand.userB : r.expand.userA;
+          host2.appendChild(el(
+            '<div class="khnl-bm-row"><span style="flex:1">🧫 You × <b>' +
+              esc(other ? (other.displayName || other.username || "colleague") : "a colleague") + "</b></span>" +
+              '<span class="khnl-bm-date">' + (r.created || "").slice(0, 10) + "</span></div>"
+          ));
+        });
+      },
+    });
+
+    var showBtn = hostEl.querySelector("#cm-show");
+    if (showBtn) showBtn.addEventListener("click", function () {
+      issueQr(hostEl.querySelector("#cm-qr"), function () { logView.reload(); });
+    });
+  }
+
+  registerMenuItem("colony", function () { goColony(); });
+
+  // Phase 2 styles (kept separate from the Phase 1 CSS blob)
+  var P2_CSS =
+    /* review staleness */
+    ".khnl-rv.stale{color:#c77d00 !important;border-color:#e6c07a !important}" +
+    ".khnl-rv-stale{margin-left:6px;padding:3px 10px;border:1px solid #eedcb0;border-radius:999px;background:#fff7e6;color:#a36a00;font-size:12px;cursor:pointer;white-space:nowrap}" +
+    ".khnl-rv-stale:hover{background:#ffefcc}" +
+    ".khnl-rv-mark.stale{color:#c77d00}" +
+    ".khnl-rv-stalebadge{flex:none;font-size:10px;color:#a36a00;background:#fff3dd;border:1px solid #eedcb0;border-radius:5px;padding:1px 6px;margin-right:6px;white-space:nowrap}" +
+    /* toasts */
+    ".khnl-toast{position:fixed;left:16px;bottom:16px;z-index:10050;display:flex;gap:10px;align-items:flex-start;max-width:330px;background:#fff;border:1px solid #d8e2d8;border-radius:12px;box-shadow:0 8px 28px rgba(0,0,0,.18);padding:12px 14px;cursor:pointer;transform:translateY(24px);opacity:0;transition:transform .25s ease,opacity .25s ease;touch-action:pan-y;font:13.5px/1.45 -apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;color:#233}" +
+    ".khnl-toast.in{transform:none;opacity:1}" +
+    ".khnl-toast .tt-ic{font-size:22px;line-height:1}" +
+    ".khnl-toast .tt-tx{flex:1;min-width:0}" +
+    ".khnl-toast .tt-x{flex:none;border:0;background:none;font-size:16px;color:#899;cursor:pointer;padding:0 2px;line-height:1}" +
+    "@media (prefers-reduced-motion:reduce){.khnl-toast{transition:none}}" +
+    /* colony hub */
+    ".khnl-col-wrap{max-width:880px;margin:0 auto;padding:26px 18px 60px;font:14px/1.5 -apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;color:var(--text-primary,#233)}" +
+    ".khnl-col-wrap h2{margin:0 0 2px;font-size:22px}" +
+    ".khnl-col-head{display:flex;gap:12px;align-items:center;margin-bottom:16px}" +
+    ".khnl-col-teaser{text-align:center;max-width:460px;margin:60px auto;padding:28px;border:1px solid #dde5dd;border-radius:14px;background:#fff;color:#233}" +
+    ".khnl-col-tabs{display:flex;gap:6px;border-bottom:1px solid var(--border-color,#dde);margin-bottom:16px;flex-wrap:wrap}" +
+    ".khnl-col-tabs button{border:0;background:none;padding:8px 12px;font:inherit;cursor:pointer;color:var(--text-muted,#678);border-bottom:2px solid transparent}" +
+    ".khnl-col-tabs button.on{color:var(--text-primary,#233);border-bottom-color:#2f6b3f;font-weight:600}" +
+    ".khnl-ach-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:12px}" +
+    ".khnl-ach-card{border:1px solid #dde5dd;border-radius:12px;padding:14px;background:#fff;color:#233}" +
+    ".khnl-ach-card.locked{opacity:.55;filter:grayscale(.65)}" +
+    ".khnl-ach-card .ac-ic{font-size:26px;margin-bottom:6px}" +
+    ".khnl-ach-card .ac-how{font-size:12.5px;color:#678;margin-top:2px}" +
+    ".khnl-ach-card .ac-date{font-size:11.5px;color:#2f6b3f;margin-top:6px}" +
+    ".khnl-lb-cols{display:flex;gap:14px;flex-wrap:wrap}" +
+    ".khnl-lb{flex:1;min-width:230px;border:1px solid #dde5dd;border-radius:12px;padding:12px 14px;background:#fff;color:#233}" +
+    ".khnl-lb h4{margin:0 0 8px;font-size:14px}" +
+    ".khnl-lb-row{display:flex;gap:8px;align-items:baseline;padding:4px 6px;border-radius:6px;font-size:13.5px}" +
+    ".khnl-lb-row.me{background:#eef6ee;font-weight:600}" +
+    ".khnl-lb-row .lb-rank{flex:none;width:26px}" +
+    ".khnl-lb-row .lb-name{flex:1;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}" +
+    ".khnl-lb-row .lb-n{flex:none;font-variant-numeric:tabular-nums}" +
+    ".khnl-qr{display:flex;justify-content:center;margin:14px 0 6px}" +
+    ".khnl-qr svg{width:220px;height:220px;border:8px solid #fff;border-radius:8px;box-shadow:0 2px 12px rgba(0,0,0,.12)}";
+  try { inject("style", { id: "khnl-p2-style" }).textContent = P2_CSS; } catch (_) {}
+
+  // Phase 2 auth wiring: reload achievements per account, auto-redeem a
+  // scanned meet-up token once signed in, and re-render the hub if it's open.
+  auth.onChange(function (u) {
+    achReset();
+    if (u) {
+      achLoad(true).catch(function () {});
+      tryRedeemPending();
+    }
+    if (lastNavView2 === "colony") setTimeout(renderColony, 0);
+  });
+
   // login/logout: drop the per-account caches and redo the page tools/marks
   auth.onChange(function () {
     bm.invalidate(); rv.invalidate(); ntInvalidate();
@@ -2022,6 +2570,7 @@
   window.KHNL = {
     api: api,
     auth: auth,
+    colony: { render: renderColony, open: goColony }, // Phase 2 hub (Step 13)
     ui: {
       withState: withState,
       openAuth: openAuth,

@@ -3,7 +3,7 @@ title: "ACG 2025: Diagnosis and Management of Eosinophilic Esophagitis"
 category: source
 tags: [eoe, eosinophilic-esophagitis, esophageal, dysphagia, food-impaction, biologic, dupilumab, topical-steroid, dietary-elimination]
 created: 2026-05-07
-updated: 2026-05-07
+updated: 2026-07-05
 sources: []
 ---
 

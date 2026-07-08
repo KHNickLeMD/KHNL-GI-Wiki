@@ -21,6 +21,13 @@
     }
   }(window.location));
 </script>
+<script>
+  // Start the wiki bundle download now instead of after deferred scripts +
+  // DOMContentLoaded — it's the largest startup asset and loadWikiBundle()
+  // consumes this same promise. Rare custom-config visitors (who skip the
+  // bundle path) just pay one harmless extra download.
+  window.__bundleFetch = fetch('website_files/search/wiki-bundle.json').catch(() => null);
+</script>
 <title>KHNL GI Wiki</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -1431,6 +1438,9 @@
 
       </div><!-- end settings panel -->
     </div>
+    <!-- Phase 2 (Step 13): The Colon Colony community hub — content rendered by social-layer.js -->
+    <div id="colony-view" style="display:none"></div>
+
     <div id="page-view" style="display:none">
       <div id="page-content-wrap">
         <div id="page-header-wrap">
@@ -1506,6 +1516,7 @@ function viewToPath(view) {
   else if (view === 'about')         seg = 'about';
   else if (view === 'howto')         seg = 'how-to-use';
   else if (view === 'graph')         seg = 'graph';
+  else if (view === 'colony')        seg = 'colony';
   else if (view === 'index')         seg = 'all';
   else if (view.startsWith('toc:'))  seg = sectionKeyToSlug(view.slice(4));
   else if (view.startsWith('page:')) seg = view.slice(5);
@@ -1520,6 +1531,16 @@ function pathToView(path) {
   if (s === 'about')      return 'about';
   if (s === 'how-to-use') return 'howto';
   if (s === 'graph')      return 'graph';
+  if (s === 'colony')     return 'colony';
+  if (s === 'meetup') {
+    // Step 15: QR meet-up deep link — /meetup?t=TOKEN. Stash the token before
+    // the router's replaceState strips the query, then land on the Colony.
+    try {
+      const t = new URLSearchParams(window.location.search).get('t');
+      if (t) window.KHNL_MEETUP_TOKEN = t;
+    } catch (e) {}
+    return 'colony';
+  }
   if (s === 'all' || s === 'index') return 'index';
   const secKey = slugToSectionKey(s);
   if (secKey)             return 'toc:' + secKey;
@@ -1550,6 +1571,7 @@ function routeToView(view) {
   if (view === 'howto')         return showHowToUse();
   if (view === 'index')         return showIndex();
   if (view === 'graph')         return showGraphView();
+  if (view === 'colony')        return showColonyView();
   if (view.startsWith('toc:'))  return showTOC(view.slice(4));
   if (view.startsWith('page:')) return navigateTo(view.slice(5));
 }
@@ -1734,7 +1756,8 @@ async function loadWikiBundle() {
   // Only valid when reading the default repo — a custom config must use the live GitHub path.
   if (config.username !== DEFAULT_CONFIG.username || config.repo !== DEFAULT_CONFIG.repo || config.path !== DEFAULT_CONFIG.path) return false;
   try {
-    const res = await fetch('website_files/search/wiki-bundle.json');
+    const early = window.__bundleFetch; window.__bundleFetch = null; // response body is single-use
+    const res = (early && await early) || await fetch('website_files/search/wiki-bundle.json');
     if (!res.ok) return false;
     const data = await res.json();
     if (!Array.isArray(data.files) || data.files.length === 0) return false;
@@ -1802,7 +1825,7 @@ function showError(msg) {
 }
 
 function hideAllViews() {
-  ['overview-view','about-view','toc-view','graph-view','page-view'].forEach(id => {
+  ['overview-view','about-view','toc-view','graph-view','page-view','colony-view'].forEach(id => {
     document.getElementById(id).style.display = 'none';
   });
   // Clear the article two-column rail layout when leaving page view
@@ -1957,6 +1980,17 @@ function buildNavTree() {
   const fbDivider = document.createElement('div');
   fbDivider.className = 'nav-divider';
   tree.appendChild(fbDivider);
+
+  // Phase 2 (Step 13): The Colon Colony — community hub, sits just above Feedback
+  const colonyItem = document.createElement('div');
+  colonyItem.className = 'nav-top-item';
+  colonyItem.dataset.navKey = 'colony';
+  colonyItem.textContent = '🧫 The Colon Colony';
+  colonyItem.onclick = () => {
+    if (window.innerWidth <= 768 && typeof closeSidebar === 'function') closeSidebar();
+    showColonyView();
+  };
+  tree.appendChild(colonyItem);
 
   const fbItem = document.createElement('div');
   fbItem.className = 'nav-top-item';
@@ -2260,6 +2294,32 @@ function splitReadme(md) {
   const about = body.slice(0, idx).trim().replace(/\n-{3,}\s*$/, '').trim();
   return { about, howto: body.slice(idx).trim() };
 }
+
+// Phase 2 (Step 13): The Colon Colony hub view — shell only; social-layer.js
+// renders the content (it listens for the khnl:nav event recordNav dispatches).
+function showColonyView() {
+  recordNav('colony');
+  hideAllViews();
+  currentView = 'colony';
+  updateActiveNav('colony');
+  document.getElementById('breadcrumb').innerHTML = '<span class="bc-item current">🧫 The Colon Colony</span>';
+  document.getElementById('page-meta-top').innerHTML = '';
+  const el = document.getElementById('colony-view');
+  el.style.display = 'block';
+  if (!(window.KHNL && window.KHNL.colony)) {
+    el.innerHTML = '<div style="padding:60px 20px;text-align:center;color:var(--text-muted);font-size:14px;">Loading The Colon Colony…</div>';
+  }
+}
+
+// Phase 2 bridge: the social layer (separate script) needs read access to page
+// metadata (front-matter `updated` dates) for the "updated since your review"
+// feature — wikiData is a top-level `let`, so expose a tiny accessor instead.
+window.KHNL_WIKI = {
+  pageMeta(slug) {
+    const p = wikiData[(slug || '').toLowerCase()];
+    return p ? { slug: p.slug, title: p.title || '', updated: p.updated || '', created: p.created || '' } : null;
+  },
+};
 
 function showAbout()     { _showReadmeView('about', 'About This Wiki'); }
 function showHowToUse()  { _showReadmeView('howto', '🧭 How to Use'); }

@@ -3,33 +3,57 @@ title: "Shigellosis"
 category: disease-script
 tags: [shigella, bacterial-gastroenteritis, dysentery, diarrhea, travelers-diarrhea, azithromycin]
 created: 2026-05-19
-updated: 2026-06-11
+updated: 2026-07-06
 sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
 ---
 
-*Stub — to be expanded.*
+*Shigella* species (*S. sonnei*, *S. flexneri*, *S. dysenteriae*, *S. boydii*) cause classic bacillary dysentery. Extremely low infectious inoculum (10–200 organisms) → high person-to-person transmission. Common cause of traveler's diarrhea and endemic diarrhea in developing regions. [[acg-2016-acute-diarrhea]]
 
-*Shigella* species (S. sonnei, S. flexneri, S. dysenteriae, S. boydei) cause classic bacillary dysentery. Extremely low infectious inoculum (10–200 organisms). High person-to-person transmission risk. Common cause of traveler's diarrhea and endemic diarrhea in developing regions. [[acg-2016-acute-diarrhea]]
+## Assessment
 
-## Key Points (ACG 2016)
+### Establishing the Diagnosis
 
-- **Antibiotic treatment:** Azithromycin is the treatment of choice due to widespread ampicillin and TMP-SMX resistance. *Shigella sonnei* has reduced azithromycin susceptibility emerging in the United States (surveillance data through 2016).
-- **Duration:** Single-dose or 3-day course standard for most *Shigella* species. *S. dysenteriae* may require 5 days.
-- **Fluoroquinolones:** Historically used; increasing resistance; azithromycin preferred.
-- **[[rifaximin|Rifaximin]]:** Do NOT use — invasive pathogen; non-absorbable [[rifaximin]] is ineffective.
-- **Loperamide:** Use with caution in proven shigellosis; antimotility agents may theoretically worsen inflammatory colitis, though this association is rare in antibiotic-treated patients.
-- Hand hygiene is particularly important (low inoculum pathogen — hand washing reduces transmission).
+- Ill, febrile patient with frequent scant **bloody stools**, cramps, and tenesmus (dysentery).
+- **Stool culture / multiplex GI PCR** confirms; *Shigella* is a **notifiable** pathogen — submit isolate. [[idsa-2017-infectious-diarrhea]]
+- Apply **Shiga-toxin–aware diagnostics** when *S. dysenteriae* type 1 is possible (produces Shiga toxin → [[acute-diarrhea|HUS]]).
 
-## Key Points (IDSA 2017)
+### Severity Assessment
 
-- **Bacillary dysentery is a named exception to the "no empiric antibiotics" rule:** an ill, febrile, immunocompetent patient with frequent scant bloody stools, cramps, and tenesmus presumptively due to *Shigella* may be treated empirically while awaiting results (a fluoroquinolone or azithromycin per local susceptibility/travel). [[idsa-2017-infectious-diarrhea]]
-- *Shigella dysenteriae* type 1 can produce **Shiga toxin** and cause [[acute-diarrhea|HUS]] — consider it (especially with suggestive travel/contact) and apply Shiga-toxin–aware diagnostics.
-- Very low inoculum means meticulous hand hygiene and exclusion of symptomatic food handlers/childcare workers are central; *Shigella* is a notifiable pathogen requiring isolate submission.
+- **Uncomplicated** — self-limited dysentery in an immunocompetent host.
+- **Severe / complicated** — high fever, dehydration, or *S. dysenteriae* type 1 with HUS risk.
 
-See [[acute-diarrhea]] for full diagnostic algorithm, antibiotic table, and management framework.
+---
+
+## Differential Diagnosis
+
+*Workup: see [[acute-diarrhea]].*
+
+- Other inflammatory bacterial enteritides — [[campylobacter-infection]], [[salmonella-infection]], [[enterotoxigenic-e-coli|Shiga-toxin *E. coli*]]
+- [[clostridioides-difficile|*C. difficile*]] colitis (antibiotic/healthcare exposure)
+- Inflammatory bowel disease flare
+
+---
+
+## Diagnostics
+
+- Stool culture or multiplex GI PCR; isolate submission required (notifiable).
+- Shiga-toxin testing when *S. dysenteriae* type 1 suspected (travel/contact).
+
+---
+
+## Therapeutics
+
+- **Antibiotics:** azithromycin is the treatment of choice — widespread ampicillin and TMP-SMX resistance. Emerging reduced azithromycin susceptibility in *S. sonnei* in the US (surveillance through 2016). [[acg-2016-acute-diarrhea]]
+- **Duration:** single-dose or 3-day course for most species; *S. dysenteriae* may require 5 days.
+- **Fluoroquinolones:** historically used; increasing resistance → azithromycin preferred.
+- **Empiric therapy is a named exception to the "no empiric antibiotics" rule:** an ill, febrile, immunocompetent patient with presumptive bacillary dysentery may be treated empirically while awaiting results (a fluoroquinolone or azithromycin per local susceptibility/travel). [[idsa-2017-infectious-diarrhea]]
+- **[[rifaximin|Rifaximin]]: do NOT use** — invasive pathogen; non-absorbable rifaximin is ineffective.
+- **Loperamide:** use with caution in proven shigellosis (antimotility agents may theoretically worsen inflammatory colitis; rare in antibiotic-treated patients).
+- **Infection control:** very low inoculum → meticulous hand hygiene; exclude symptomatic food handlers / childcare workers.
+
+---
 
 ## See Also
-
 
 [[acute-diarrhea]], [[salmonella-infection]], [[campylobacter-infection]], [[enterotoxigenic-e-coli]], [[rifaximin]]
 

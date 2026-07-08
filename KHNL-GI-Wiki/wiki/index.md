@@ -1,7 +1,7 @@
 ---
 title: "Wiki Index"
 category: index
-updated: 2026-07-03
+updated: 2026-07-07
 ---
 
 # KHNL GI Encyclopedia — Master Index
@@ -68,14 +68,14 @@ updated: 2026-07-03
 - [[radiation-proctopathy]] — Radiation proctopathy: acute (inflammatory, self-limiting) vs chronic (obliterative endarteritis/telangiectasias); endoscopy dx (biopsy discouraged); APC/bipolar/heater probe/RFA for chronic bleeding (1 source)
 - [[irritable-bowel-syndrome]] — IBS: ADDT — Rome IV/V criteria, positive diagnostic strategy, calprotectin + celiac serology screen, low-FODMAP, soluble fiber, TCA, secretagogues (linaclotide/plecanatide/lubiprostone/tegaserod) for IBS-C; rifaximin/alosetron/eluxadoline for IBS-D; gut-directed psychotherapy (2 sources)
 - [[colorectal-cancer]] — CRC: TNM staging, surgical resection, adjuvant FOLFOX, TNT for rectal cancer, immunotherapy for MSI-H, post-resection surveillance (perioperative → 1y → 4y → 9y → q5y), Lynch universal testing, FIT screening performance/thresholds, rectal cancer local surveillance; NCCN oncologic mgmt — universal MMR/MSI, RAS/BRAF/HER2/NTRK/DPYD, adjuvant FOLFOX/CAPOX (IDEA duration), biomarker-/sidedness-directed metastatic therapy; early-T1 en-bloc/ESD/eFTR endoscopic resection; treatment-algorithm Mermaid (7 sources)
-- [[norovirus]] — Norovirus gastroenteritis: leading cause of acute viral diarrhea, fecal-oral/fomite transmission, supportive care (stub)
+- [[norovirus]] — Norovirus: ADDT — leading cause of epidemic viral gastroenteritis, prominent vomiting, multiplex GI PCR, supportive care, no antibiotics, outbreak hand-hygiene exception (2 sources)
 - [[rotavirus]] — Rotavirus: vaccination impact, pediatric predominance, ORS management (stub)
 - [[campylobacter-infection]] — Campylobacter: ADDT — most common bacterial enteritis, FQ resistance → azithromycin (SE Asia/India), Guillain-Barré association (2 sources)
 - [[salmonella-infection]] — Salmonella (non-typhoidal): ADDT — no antibiotics in immunocompetent (prolongs carriage), treat severe/invasive/high-risk, endovascular-seeding imaging, typhoid distinction (2 sources)
-- [[shigellosis]] — Shigella: azithromycin first-line, very low inoculum, no rifaximin (invasive) (stub)
-- [[enterotoxigenic-e-coli]] — ETEC: most common traveler's diarrhea pathogen, rifaximin appropriate (non-invasive) (stub)
+- [[shigellosis]] — Shigella: ADDT — bacillary dysentery, azithromycin first-line, very low inoculum, empiric-therapy exception, no rifaximin (invasive) (2 sources)
+- [[enterotoxigenic-e-coli]] — ETEC: ADDT — most common traveler's diarrhea pathogen, fluoroquinolone/azithromycin + loperamide, rifaximin appropriate (non-invasive) (1 source)
 - [[giardiasis]] — Giardia: ADDT — persistent/traveler's diarrhea, malabsorption, chlorine-resistant cysts; stool antigen EIA/PCR, duodenal aspirate; tinidazole preferred (2 sources)
-- [[cryptosporidiosis]] — Cryptosporidium: nitazoxanide, chlorine-resistant oocysts, immunocompromised risk (stub)
+- [[cryptosporidiosis]] — Cryptosporidium: ADDT — watery diarrhea, stool antigen/acid-fast/PCR, nitazoxanide, chlorine-resistant oocysts, chronic disease + AIDS testing in immunocompromised (2 sources)
 - [[entamoeba-histolytica-infection]] — E. histolytica: amebic dysentery + liver abscess, luminal agent required after tissue treatment (stub)
 - [[lynch-syndrome]] — Lynch (HNPCC): ADDT — MMR variants (MLH1/MSH2/MSH6/PMS2), universal tumor MMR testing + BRAF/methylation reflex, gene-specific CRC risk tables, q1–2y colonoscopy from 20–25 (62–72% mortality reduction), colectomy-with-IRA preferred, endometrial biopsy/TVUS from 30–35, prophylactic hysterectomy/BSO at 40–45, aspirin CAPP2 data, pembrolizumab for MSI-H (2 sources)
 - [[colon-ischemia]] — Colon ischemia: ADDT — segmental watershed ischemia, CT with IV/oral contrast first-line, colonoscopy within 48h, mild/moderate/severe classification, antibiotics for mod/severe, surgical indications (IRCI/pancolonic/peritoneal signs), post-aortic surgery CI (1 source)
@@ -232,6 +232,8 @@ updated: 2026-07-03
 - [[linaclotide]] — GC-C agonist; IBS-C 290 µg, CIC 145 µg; diarrhea-limiting (stub)
 - [[plecanatide]] — GC-C agonist (uroguanylin analog); IBS-C 3/6 mg, CIC 3 mg (stub)
 - [[prucalopride]] — Selective 5-HT4 agonist; CIC 2 mg daily; no CV signal (stub)
+- [[loperamide]] — Loperamide: peripheral μ-opioid antimotility for acute watery diarrhea; avoid <18 y and in febrile/inflammatory diarrhea (stub)
+- [[nitazoxanide]] — Nitazoxanide: antiprotozoal (500 mg BID ×3 d) for cryptosporidiosis/giardiasis; limited in advanced immunosuppression (stub)
 - [[rifaximin]] — Rifaximin: non-absorbable antibiotic; SIBO 550 mg TID × 14d; IMO + neomycin combination; IBS-D 550 mg TID × 14d; HE secondary prophylaxis add-on to lactulose after ≥2 episodes (Rec 26, Grade I, A, 1; NEJM 2010 RCT); NOT monotherapy; NOT for post-TIPS HE (2 sources)
 - [[semaglutide]] — GLP-1 RA (Wegovy/Ozempic/Rybelsus); FDA-approved Aug 2025 for MASH; ESSENCE trial efficacy; NIT-based candidacy (VCTE/MRE/ELF cutoffs); full safety table (10 domains); cardiometabolic benefit (SELECT/FLOW/STEP trials); concomitant resmetirom use; investigational/off-label for alcohol use disorder (phase 2 RCT) (3 sources)
 - [[resmetirom]] — THR-β agonist (Rezdiffra); first FDA-approved MASH F2–F3 drug (Mar 2024); MAESTRO-NASH; dosing 100/80 mg + CYP2C8/statin DDI; thyroid/gallstone pretreatment; 12-mo futility (VCTE ≥25%/MRE ≥20%/MRI-PDFF <30%) (2 sources)
@@ -532,4 +534,4 @@ updated: 2026-07-03
 
 ---
 
-*Total: 208 sources | 107 disease scripts | 19 diagnostic schemas | 2 general procedures | 19 advanced procedures | 15 meds | 0 anatomy | 36 concepts | 1 synthesis (on-disk page counts as of 2026-07-01; index Sources section lists all 208 source pages)*
+*Total: 208 sources | 107 disease scripts | 19 diagnostic schemas | 2 general procedures | 19 advanced procedures | 17 meds | 0 anatomy | 36 concepts | 1 synthesis (on-disk page counts as of 2026-07-07; index Sources section lists all 208 source pages)*

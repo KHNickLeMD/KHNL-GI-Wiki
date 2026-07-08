@@ -3,7 +3,7 @@ title: "Gastroesophageal Reflux Disease"
 category: disease-script
 tags: [gerd, reflux, esophageal, foregut, motility]
 created: 2026-05-15
-updated: 2026-05-16
+updated: 2026-07-07
 sources: [asge-2024-gerd, acg-2021-gerd, sages-2021-gerd-surgery, lyon-2024-gerd-diagnosis]
 ---
 
@@ -277,7 +277,6 @@ Not recommended outside clinical trials. Under evaluation:
 ---
 
 ## See Also
-
 
 [[barretts-esophagus]], [[eosinophilic-esophagitis]], [[achalasia]], [[laryngopharyngeal-symptoms]], [[ambulatory-reflux-monitoring]], [[high-resolution-manometry]], [[hrm-antireflux-surgery]], [[flip-panometry]], [[antireflux-surgery]], [[vonoprazan]], [[upper-endoscopy]]
 

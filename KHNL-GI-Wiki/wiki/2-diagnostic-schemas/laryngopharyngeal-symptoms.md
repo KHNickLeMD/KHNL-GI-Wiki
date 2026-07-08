@@ -3,7 +3,7 @@ title: "Laryngopharyngeal Symptoms (LPS) and Laryngopharyngeal Reflux Disease (L
 category: diagnostic-schema
 tags: [lpr, lprd, laryngopharyngeal-reflux, gerd, extraesophageal-reflux, cough, dysphonia, throat-clearing, ph-impedance, foregut]
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-07-05
 sources: [san-diego-2025-lprd]
 ---
 
@@ -159,7 +159,6 @@ LPS can be caused by multiple mechanisms — reflux is one of several:
 - **SSRIs/SNRIs:** consider when concomitant anxiety or depression is present
 
 ## See Also
-
 
 [[gerd]], [[barretts-esophagus]], [[ambulatory-reflux-monitoring]], [[reflux-testing]], [[upper-endoscopy]], [[disorders-of-gut-brain-interaction]]
 

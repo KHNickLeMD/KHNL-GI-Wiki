@@ -6,6 +6,58 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-07-07] lint | Ingest queue re-confirmed exhausted (no-op), norovirus + cryptosporidiosis stubs expanded (ADDT), 2 stalest pages validated, 2 med stubs created, whole-wiki link scan (scheduled ingest-and-lint pass)
+
+**Ingest:** None. Re-verified all **208** `raw/GI Guidelines/` PDFs and all **4** `raw/GI RCTs/` files against `wiki/sources/` slugs — every priority-tier source is ingested; newest raw file is 2026-06-28 (already ingested). Only uningested guideline files remain `ASGE 2015 Bowel Preparation` and `ASGE 2025 Bowel Preparation Quality`, deliberately skipped as superseded duplicates fully covered by `[[acg-2025-bowel-prep]]` / `[[usmstf-2025-bowel-prep]]`. Priority queue exhausted → lint-only pass. Lectures gated, not auto-ingested.
+
+**Stubs expanded (2 — from already-ingested sources only):**
+- `[[norovirus]]` — cleared `*Stub*` marker; full **ADDT** restructure (Assessment: Establishing Dx + Severity → Differential with `*Workup: see [[acute-diarrhea]].*` → Diagnostics → Therapeutics). All claims from `[[acg-2016-acute-diarrhea]]` (Rec 10 no-antibiotics; Rec 15 outbreak hand-hygiene exception) + `[[idsa-2017-infectious-diarrhea]]` (multiplex GI PCR, fresh stool for viral, serology/fecal-leukocytes not for etiology, loperamide age/inflammatory limits). Added source `idsa-2017-infectious-diarrhea` to frontmatter. `updated: 2026-07-07`. Index desc `(stub)` → `(2 sources)`.
+- `[[cryptosporidiosis]]` — cleared `*Stub*` marker; ADDT restructure from `[[acg-2016-acute-diarrhea]]` (stool antigen EIA / modified acid-fast / multiplex PCR; nitazoxanide 500 mg BID ×3 d; chlorine-resistant oocysts → filtration/UV/ozone) + `[[idsa-2017-infectious-diarrhea]]` (Rec 12 — AIDS persistent-diarrhea *Cryptosporidium* testing). Added `idsa-2017-infectious-diarrhea` to frontmatter. `updated: 2026-07-07`. Index desc `(stub)` → `(2 sources)`.
+
+**Med stubs created (2 — to resolve new inline links, per "create the stub first" rule):**
+- `[[loperamide]]` (`5-meds/`) — peripheral μ-opioid antimotility; immunocompetent-adult watery diarrhea only, avoid <18 y and febrile/inflammatory diarrhea. Frontmatter `sources: []` (referenced by ACG 2016 / IDSA 2017; full page pending).
+- `[[nitazoxanide]]` (`5-meds/`) — antiprotozoal for `[[cryptosporidiosis]]` / `[[giardiasis]]`. Both added to `index.md` Meds and counted.
+
+**Stalest-page validation (2 pages):**
+- `[[gerd]]` (disease-script, was `updated: 2026-05-16`) — removed double blank line under `## See Also`; ADDT order, Lyon 2.0 framework, See Also/Sources format otherwise compliant; `updated: 2026-07-07`.
+- `[[irritable-bowel-syndrome]]` (disease-script, was `updated: 2026-05-19`) — removed double blank line under `## See Also`; DDx pointer, secretagogue content, See Also/Sources compliant; `updated: 2026-07-07`.
+
+**Broken-link scan:** Whole-wiki basename-resolution scan (excluding `![[embeds]]`, code fences/spans, escaped `\|` table aliases, `log.md`). **0 broken links** across 412 pages, both before and after adding the loperamide/nitazoxanide stubs (which resolve the new norovirus/cryptosporidiosis links).
+
+**Index reconciliation:** Meds **15 → 17** (loperamide, nitazoxanide added). On-disk counts now: 107 disease scripts, 19 diagnostic schemas, 2 general procedures, 19 advanced procedures, 17 meds, 0 anatomy, 36 concepts, 208 sources, 1 synthesis. Count line and index frontmatter dated 2026-07-07. Two `(stub)` markers cleared (norovirus, cryptosporidiosis).
+
+**Hygiene flagged (not fixed — permission blocked):** 15 `.DS_Store` OS artifacts across repo; sandbox-mount deletion returns "Operation not permitted" (unchanged). Untracked via `.gitignore`; user action needed.
+
+**Stubs remaining (flagged, not expanded — token budget):** ~37 files still carry a `*Stub — to be expanded*` marker (plus 2 new thin med stubs). High-value candidates expandable next pass from already-ingested sources: remaining enteric cluster (`[[rotavirus]]`, `[[entamoeba-histolytica-infection]]`) from `[[acg-2016-acute-diarrhea]]`/`[[idsa-2017-infectious-diarrhea]]`; `[[radiofrequency-ablation]]` from Barrett's EET sources; hepatology stubs (`[[noninvasive-liver-disease-assessment]]`, `[[li-rads]]`, `[[iron-overload-and-iron-metabolism]]`) from ingested AASLD sources. `[[acute-mesenteric-ischemia]]` still needs a dedicated arterial-AMI source.
+
+**Lectures available (gated — NOT auto-ingested):** ~60 lecture/chalk-talk transcripts in `raw/GI Lectures+Chalk Talks/` remain gated; require explicit human selection by name.
+
+---
+
+## [2026-07-06] lint | Ingest queue re-confirmed exhausted (no-op), shigellosis + ETEC stubs expanded (ADDT), 2 stalest pages validated, whole-wiki link scan (scheduled ingest-and-lint pass)
+
+**Ingest:** None. Re-verified all **208** `raw/GI Guidelines/` PDFs and all **4** `raw/GI RCTs/` files against `wiki/sources/` slugs — every priority-tier source is ingested; no raw file is newer than 2026-06-28. Only uningested guideline files remain `ASGE 2015 Bowel Preparation` and `ASGE 2025 Bowel Preparation Quality`, deliberately skipped as superseded duplicates fully covered by `[[acg-2025-bowel-prep]]` / `[[usmstf-2025-bowel-prep]]`. Priority queue exhausted → lint-only pass. Lectures gated, not auto-ingested.
+
+**Stubs expanded (2 — from already-ingested sources only):**
+- `[[shigellosis]]` — cleared stale `*Stub*` marker; restructured content-rich page into full **ADDT** (Assessment: Establishing Dx + Severity → Differential with `*Workup: see [[acute-diarrhea]].*` → Diagnostics → Therapeutics). All claims retained from existing `[[acg-2016-acute-diarrhea]]` + `[[idsa-2017-infectious-diarrhea]]` (azithromycin first-line, ampicillin/TMP-SMX resistance, emerging *S. sonnei* azithro resistance, empiric-therapy dysentery exception, *S. dysenteriae* type-1 Shiga toxin/HUS, very-low-inoculum infection control, no rifaximin). `updated: 2026-07-06`. Index desc updated, `(stub)` → `(2 sources)`.
+- `[[enterotoxigenic-e-coli]]` — cleared stale `*Stub*` marker; ADDT restructure from `[[acg-2016-acute-diarrhea]]` (most common TD pathogen, watery/non-bloody/afebrile, FQ or azithromycin + loperamide adjunct per Rec 8, rifaximin appropriate for non-invasive ETEC, high inoculum vs *Shigella*, STEC/EHEC contrast — no antibiotics). `updated: 2026-07-06`. Index desc updated, `(stub)` → `(1 source)`.
+
+**Stalest-page validation (2 pages, both `updated: 2026-05-16`; the three stalest are source pages, exempt from ADDT/Style validation):**
+- `[[drug-induced-liver-injury]]` (disease-script) — added missing DDx diagnostic-schema pointer `*Workup: see [[abnormal-liver-chemistries]].*`; fixed double blank line under `## See Also`; removed unrelated `[[helicobacter-pylori-infection]]` from See Also; `updated: 2026-07-06`. Content otherwise ADDT-compliant (R-value, Hy's Law, RUCAM, biopsy indications, culprit table all sourced).
+- `[[gastric-intestinal-metaplasia]]` (disease-script) — validated fully compliant (ADDT order, OLGA/OLGIM staging, Sydney protocol, surveillance guideline-disagreement table, inline links, See Also/Sources); no schema pointer applicable (no dedicated GIM workup schema); `updated: 2026-07-06`.
+
+**Broken-link scan:** Whole-wiki basename-resolution scan (excluding `![[embeds]]`, code fences, escaped `\|` table aliases, `index.md`/`log.md`). **0 broken links.** New shigellosis/ETEC/DILI links all resolve. Confirmed candidate links `travelers-diarrhea`, `azithromycin`, `fluoroquinolones` have no page — left as plain text (no broken links, no premature stubs).
+
+**Index reconciliation:** On-disk counts re-verified and unchanged: 107 disease scripts, 19 diagnostic schemas, 2 general procedures, 19 advanced procedures, 15 meds, 0 anatomy, 36 concepts, 208 sources, 1 synthesis. Two `(stub)` markers cleared. Count-line and index frontmatter dated 2026-07-06.
+
+**Hygiene flagged (not fixed — permission blocked):** 15 `.DS_Store` OS artifacts across repo; sandbox-mount deletion returns "Operation not permitted" (unchanged). Untracked via `.gitignore`; user action needed.
+
+**Stubs remaining (flagged, not expanded — token budget):** ~37 files still carry a `*Stub — to be expanded*` marker. High-value candidates expandable next pass from already-ingested sources: remaining enteric cluster (`[[norovirus]]`, `[[cryptosporidiosis]]`, `[[entamoeba-histolytica-infection]]`, `[[rotavirus]]`) from `[[acg-2016-acute-diarrhea]]`/`[[idsa-2017-infectious-diarrhea]]`; `[[radiofrequency-ablation]]` from Barrett's EET sources; hepatology stubs (`[[noninvasive-liver-disease-assessment]]`, `[[li-rads]]`, `[[iron-overload-and-iron-metabolism]]`) from ingested AASLD sources. `[[acute-mesenteric-ischemia]]` still needs a dedicated arterial-AMI source (cannot expand without one).
+
+**Lectures available (gated — NOT auto-ingested):** ~60 lecture/chalk-talk transcripts in `raw/GI Lectures+Chalk Talks/` remain gated; require explicit human selection by name.
+
+---
+
 ## [2026-07-02] lint | Ingest queue exhausted (no-op), salmonella + campylobacter stubs expanded (ADDT), 3 stalest pages validated, whole-wiki link scan (scheduled ingest-and-lint pass)
 
 **Ingest:** None. No new raw files since the prior pass (newest raw = 2026-06-28, already ingested). All **208** guideline files and all 4 RCTs are ingested; the only uningested guideline files remain `ASGE 2015 Bowel Preparation` and `ASGE 2025 Bowel Preparation Quality`, deliberately skipped as superseded duplicates fully covered by `[[acg-2025-bowel-prep]]` / `[[usmstf-2025-bowel-prep]]`. Priority-tier (guideline/RCT) queue exhausted → lint-only pass. Lectures gated, not auto-ingested.
