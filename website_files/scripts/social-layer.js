@@ -398,9 +398,13 @@
           if (opts.render) opts.render(containerEl, data);
         })
         .catch(function (err) {
+          // ponytail: a 404 "Missing collection context" means the backend
+          // collection isn't deployed yet — don't leak PocketBase's raw error.
+          var msg = (err && err.status === 404 && /Missing collection context/i.test(err.message || ""))
+            ? "This part of the Colony is being set up — check back soon."
+            : ((err && err.message) || "Something went wrong.");
           containerEl.innerHTML =
-            '<div class="khnl-state-err">' +
-            ((err && err.message) || "Something went wrong.") +
+            '<div class="khnl-state-err">' + msg +
             "<button type=\"button\">Retry</button></div>";
           containerEl.querySelector("button").addEventListener("click", run);
           reportError("withState: " + ((err && err.message) || String(err)), err && err.stack);
