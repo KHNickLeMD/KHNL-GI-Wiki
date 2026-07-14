@@ -376,6 +376,15 @@
   .nav-section-body { display: none; }
   .nav-section-body.open { display: block; }
 
+  /* Per-page medical disclaimer */
+  #page-disclaimer {
+    margin-top: 40px;
+    padding-top: 14px;
+    border-top: 1px solid var(--border);
+    font-size: 12px;
+    color: var(--text-muted);
+  }
+
   /* Sidebar footer */
   #sidebar-footer {
     padding: 8px 10px;
@@ -1455,6 +1464,7 @@
           <div class="source-list-popup" id="source-popup"></div>
         </div>
         <div id="page-body" class="md-body"></div>
+        <div id="page-disclaimer">Educational reference for clinicians — not medical advice. Verify against the original guideline and use clinical judgment before acting on patient care.</div>
       </div>
       <aside id="page-toc">
         <div class="pt-label">On this page</div>
@@ -2324,6 +2334,13 @@ window.KHNL_WIKI = {
 function showAbout()     { _showReadmeView('about', 'About This Wiki'); }
 function showHowToUse()  { _showReadmeView('howto', '🧭 How to Use'); }
 
+const DISCLAIMER_ABOUT =
+  '<div class="about-wrap"><div class="about-section" id="about-disclaimer"><h2>Disclaimer</h2>' +
+  '<p>The KHNL GI Wiki is an educational reference for clinicians. It is not medical advice, does not ' +
+  'create a physician–patient relationship, and may contain errors or lag behind guideline updates. ' +
+  'Always verify against the original society guideline and use your own clinical judgment before ' +
+  'making patient-care decisions.</p></div></div>';
+
 function _showReadmeView(mode, crumb) {
   recordNav(mode);
   hideAllViews();
@@ -2355,7 +2372,8 @@ function _showReadmeView(mode, crumb) {
       .then(md => {
         const parts = splitReadme(md);
         const slice = mode === 'howto' ? parts.howto : parts.about;
-        el.innerHTML = '<div class="about-wrap md-body">' + renderMd(slice) + '</div>';
+        el.innerHTML = '<div class="about-wrap md-body">' + renderMd(slice) + '</div>' +
+          (mode === 'about' ? DISCLAIMER_ABOUT : '');
         initMermaid();
         wire();
       })
@@ -2367,7 +2385,7 @@ function _showReadmeView(mode, crumb) {
              <p style="color:var(--text-muted);margin-bottom:28px;font-size:14px;">How the KHNL GI Wiki was built and how to navigate it.</p>
              <div class="about-section"><h2>How It Was Made</h2>
              <p>This wiki was built using <strong>Obsidian</strong> and <strong>Claude AI</strong> — connect your GitHub repo to load the full README.</p></div>`;
-        el.innerHTML = `<div class="about-wrap">${fallback}</div>`;
+        el.innerHTML = `<div class="about-wrap">${fallback}</div>` + (mode === 'about' ? DISCLAIMER_ABOUT : '');
       });
   } else {
     const title = mode === 'howto' ? 'How to Use' : 'About This Wiki';
@@ -3109,6 +3127,10 @@ document.addEventListener('keydown', (e) => {
   }
 });
 
+// Analytics: one event per typing pause (not per keystroke), tagged by whether
+// semantic results actually rendered for the final query.
+let _searchPingTimer = null, _searchWasSemantic = false;
+
 searchInput.addEventListener('input', () => {
   const raw = searchInput.value.trim();
   const q = raw.toLowerCase();
@@ -3120,9 +3142,14 @@ searchInput.addEventListener('input', () => {
   renderSearchResults(keywordResults(q), q);
   // 2) Concept (semantic) results once the model + index are ready — upgrades
   //    the list in place. Silently does nothing if embeddings aren't built yet.
+  _searchWasSemantic = false;
   semanticSearch(raw, q).then(items => {
-    if (items && seq === _searchSeq) renderSearchResults(items, q);
+    if (items && seq === _searchSeq) { _searchWasSemantic = true; renderSearchResults(items, q); }
   }).catch(() => {});
+  clearTimeout(_searchPingTimer);
+  _searchPingTimer = setTimeout(() => {
+    if (window.KHNL_COUNT) KHNL_COUNT(_searchWasSemantic ? 'search-semantic' : 'search-keyword');
+  }, 1500);
 });
 
 // ── Keyword (substring) search — instant, always available ──
@@ -3786,5 +3813,32 @@ function _gspCenterForce()   { return parseFloat(document.getElementById('gsp-ce
 <script src="website_files/scripts/social-layer.js" defer></script>
 <!-- Per-page Share button (copy link + Web Share / X / LinkedIn / email) — mounts into #page-meta-top on page views -->
 <script src="website_files/scripts/share-button.js" defer></script>
+<!-- GoatCounter analytics — privacy-friendly, no cookies, no consent banner needed.
+     Dashboard: https://khnlgiwiki.goatcounter.com
+     SPA mode: no_onload + manual count on every khnl:nav event, so each view change
+     (page:slug, graph, colony, about, …) is a pageview named after the view.
+     Feature usage (search etc.) is sent as GoatCounter events via KHNL_COUNT(). -->
+<script>
+  window.goatcounter = { no_onload: true };
+  (function () {
+    var pending = [];
+    function send(o) {
+      if (window.goatcounter.count) window.goatcounter.count(o);
+      else pending.push(o); // count.js not loaded yet — flush on script onload
+    }
+    document.addEventListener('khnl:nav', function (ev) {
+      var v = (ev.detail && ev.detail.view) || 'unknown';
+      send({ path: '/' + v.replace(/:/g, '/') });
+    });
+    // Feature-usage events (searches, etc.) — show up under "Events" in the dashboard.
+    window.KHNL_COUNT = function (name) { send({ path: name, event: true }); };
+    var s = document.createElement('script');
+    s.async = true;
+    s.src = 'https://gc.zgo.at/count.js';
+    s.setAttribute('data-goatcounter', 'https://khnlgiwiki.goatcounter.com/count');
+    s.onload = function () { pending.splice(0).forEach(function (o) { window.goatcounter.count(o); }); };
+    document.head.appendChild(s);
+  })();
+</script>
 </body>
 </html>
