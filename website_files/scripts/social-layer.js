@@ -1826,7 +1826,7 @@
 
   // ================== §4.6 PRIVACY SETTINGS (Step 10) ==================
   // Three per-account toggles stored ON the user record (plan §3, updated):
-  // profileVisibility (empty = friends), activityVisibility (empty = friends),
+  // profileVisibility (empty = public), activityVisibility (empty = friends),
   // hideFromSearch (empty = visible). Enforcement is server-side in the
   // zz_step10_privacy migration; this panel just edits the fields.
   function openPrivacy() {
@@ -1837,11 +1837,11 @@
         '<div class="khnl-sl-card">' +
           '<button class="khnl-sl-x" aria-label="Close">&times;</button>' +
           "<h3>Privacy</h3>" +
-          '<p class="khnl-sl-sub">Defaults: visible to friends, hidden from everyone else.</p>' +
+          '<p class="khnl-sl-sub">Defaults: profile visible to members, activity visible to friends.</p>' +
           '<div class="khnl-sl-row"><label for="pv-prof">Who can see your profile</label>' +
             '<select id="pv-prof" style="width:100%;padding:7px;border:1px solid #ccc;border-radius:7px;font:inherit">' +
-              '<option value="friends">Friends only (default)</option>' +
-              '<option value="public">Everyone with an account</option>' +
+              '<option value="public">Everyone with an account (default)</option>' +
+              '<option value="friends">Friends only</option>' +
               '<option value="private">Only me</option>' +
             "</select></div>" +
           '<div class="khnl-sl-row"><label for="pv-act">Who can see your activity (reviewed pages &amp; bookmarks)</label>' +
@@ -1869,7 +1869,7 @@
     overlay.addEventListener("mousedown", function (e) { if (e.target === overlay) closeModal(); });
     document.addEventListener("keydown", escClose);
 
-    overlay.querySelector("#pv-prof").value = u.profileVisibility || "friends";
+    overlay.querySelector("#pv-prof").value = u.profileVisibility || "public";
     overlay.querySelector("#pv-act").value = u.activityVisibility || "friends";
     overlay.querySelector("#pv-search").checked = !u.hideFromSearch;
     overlay.querySelector("#pv-board").checked = !u.hideFromLeaderboards;
