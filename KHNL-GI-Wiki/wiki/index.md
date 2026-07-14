@@ -1,7 +1,7 @@
 ---
 title: "Wiki Index"
 category: index
-updated: 2026-07-07
+updated: 2026-07-12
 ---
 
 # KHNL GI Encyclopedia — Master Index
@@ -69,14 +69,14 @@ updated: 2026-07-07
 - [[irritable-bowel-syndrome]] — IBS: ADDT — Rome IV/V criteria, positive diagnostic strategy, calprotectin + celiac serology screen, low-FODMAP, soluble fiber, TCA, secretagogues (linaclotide/plecanatide/lubiprostone/tegaserod) for IBS-C; rifaximin/alosetron/eluxadoline for IBS-D; gut-directed psychotherapy (2 sources)
 - [[colorectal-cancer]] — CRC: TNM staging, surgical resection, adjuvant FOLFOX, TNT for rectal cancer, immunotherapy for MSI-H, post-resection surveillance (perioperative → 1y → 4y → 9y → q5y), Lynch universal testing, FIT screening performance/thresholds, rectal cancer local surveillance; NCCN oncologic mgmt — universal MMR/MSI, RAS/BRAF/HER2/NTRK/DPYD, adjuvant FOLFOX/CAPOX (IDEA duration), biomarker-/sidedness-directed metastatic therapy; early-T1 en-bloc/ESD/eFTR endoscopic resection; treatment-algorithm Mermaid (7 sources)
 - [[norovirus]] — Norovirus: ADDT — leading cause of epidemic viral gastroenteritis, prominent vomiting, multiplex GI PCR, supportive care, no antibiotics, outbreak hand-hygiene exception (2 sources)
-- [[rotavirus]] — Rotavirus: vaccination impact, pediatric predominance, ORS management (stub)
+- [[rotavirus]] — Rotavirus: viral cause of community-acquired diarrhea (no antibiotics), ORS/zinc/ondansetron supportive care, infant vaccine for all (2 sources)
 - [[campylobacter-infection]] — Campylobacter: ADDT — most common bacterial enteritis, FQ resistance → azithromycin (SE Asia/India), Guillain-Barré association (2 sources)
 - [[salmonella-infection]] — Salmonella (non-typhoidal): ADDT — no antibiotics in immunocompetent (prolongs carriage), treat severe/invasive/high-risk, endovascular-seeding imaging, typhoid distinction (2 sources)
 - [[shigellosis]] — Shigella: ADDT — bacillary dysentery, azithromycin first-line, very low inoculum, empiric-therapy exception, no rifaximin (invasive) (2 sources)
 - [[enterotoxigenic-e-coli]] — ETEC: ADDT — most common traveler's diarrhea pathogen, fluoroquinolone/azithromycin + loperamide, rifaximin appropriate (non-invasive) (1 source)
 - [[giardiasis]] — Giardia: ADDT — persistent/traveler's diarrhea, malabsorption, chlorine-resistant cysts; stool antigen EIA/PCR, duodenal aspirate; tinidazole preferred (2 sources)
 - [[cryptosporidiosis]] — Cryptosporidium: ADDT — watery diarrhea, stool antigen/acid-fast/PCR, nitazoxanide, chlorine-resistant oocysts, chronic disease + AIDS testing in immunocompromised (2 sources)
-- [[entamoeba-histolytica-infection]] — E. histolytica: amebic dysentery + liver abscess, luminal agent required after tissue treatment (stub)
+- [[entamoeba-histolytica-infection]] — E. histolytica: amebic dysentery + liver abscess; antigen EIA/PCR to separate from E. dispar; nitroimidazole then luminal agent (2 sources)
 - [[lynch-syndrome]] — Lynch (HNPCC): ADDT — MMR variants (MLH1/MSH2/MSH6/PMS2), universal tumor MMR testing + BRAF/methylation reflex, gene-specific CRC risk tables, q1–2y colonoscopy from 20–25 (62–72% mortality reduction), colectomy-with-IRA preferred, endometrial biopsy/TVUS from 30–35, prophylactic hysterectomy/BSO at 40–45, aspirin CAPP2 data, pembrolizumab for MSI-H (2 sources)
 - [[colon-ischemia]] — Colon ischemia: ADDT — segmental watershed ischemia, CT with IV/oral contrast first-line, colonoscopy within 48h, mild/moderate/severe classification, antibiotics for mod/severe, surgical indications (IRCI/pancolonic/peritoneal signs), post-aortic surgery CI (1 source)
 - [[familial-adenomatous-polyposis]] — FAP/AFAP/MAP: ADDT — APC vs MUTYH, Spigelman staging table with surveillance intervals, IRA vs. IPAA indications, thyroid/hepatoblastoma surveillance, sulindac/celecoxib chemoprevention, desmoid management; ASGE endoscopic management (clinical-polyposis testing threshold, pouch/IRA intervals, resect polyps >1 cm + antral, ampullary exam/biopsy, sulindac+erlotinib) (2 sources)
@@ -127,7 +127,7 @@ updated: 2026-07-07
 - [[chronic-pancreatitis]] — Chronic pancreatitis: ADDT — Mechanistic vs. clinicopathologic definition; CT/MRI first-line then EUS/sMRCP/histology; TIGAR-O v2.0; M-ANNHEIM scoring; PRSS1/SPINK1/CFTR/CTRC genetics; surgery > endoscopy for obstructive CP (Cahen RCT); PERT for EPI only (not pain); antioxidants/celiac plexus block; alcohol + smoking cessation (Strong); no routine cancer screening (1 source)
 - [[autoimmune-hepatitis]] — AIH: ADDT — simplified score (ANA/SMA/anti-LKM1/IgG/histology), type 1 vs. 2, budesonide contraindicated in cirrhosis/acute severe AIH, MMF preferred second-line over TAC, acute severe AIH/ALF → LT, withdrawal after ≥2y remission (50–87% relapse), AIH-PBC/PSC overlap (Paris criteria), anti-SLA=never withdraw, post-LT recurrence 36–68% at 5y (3 sources)
 - [[hepatocellular-carcinoma]] — HCC: LI-RADS non-invasive diagnosis (LR-1→LR-5/LR-M/LR-TIV), BCLC 2022 staging table, surveillance criteria (Table 1: cirrhosis/non-cirrhotic HBV/PAGE-B), recall algorithm, TACE/TARE locoregional ladder with unsuitability/refractoriness criteria, systemic therapy dosing (atezo+bev, durvalumab+tremelimumab, sorafenib 400 mg BID, lenvatinib 12/8 mg QD, regorafenib, cabozantinib, ramucirumab), adjuvant atezo+bev contraindicated post-resection/ablation (AASLD 2025 GS32R, Strong Level 1; IMbrave050 second-interim HR=0.90 non-significant), transplant criteria (Milan/UCSF/Up-to-seven/Extended Toronto/Kyoto/UNOS-DS; AFP thresholds), post-LT mTOR IS (within-Milan), recurrence management; NCCN 2026 first-line tiering (ipilimumab+nivolumab elevated to Preferred category 1 per CheckMate-9DW; atezo+bev; durvalumab+tremelimumab), strengthened EBRT/SBRT role; emerging-biomarker caveats (GALAD/MCD panels, PAGE-B/REAL-B) per AGA 2026 (7 sources)
-- [[immune-checkpoint-inhibitor-hepatitis]] — ICI hepatitis: onset 4–12 weeks, withhold ICI + steroids ± MMF by grade, ipilimumab combinations highest rate (stub)
+- [[immune-checkpoint-inhibitor-hepatitis]] — ICI hepatitis: onset 4–12 weeks, CTCAE-graded management (withhold ICI + steroids ± MMF), ipilimumab combinations highest rate (2 sources)
 - [[spontaneous-bacterial-peritonitis]] — SBP: ADDT — PMN ≥250/mm³ threshold, culture-negative SBP, bacterascites distinction, cefotaxime community vs. pip-tazo nosocomial, albumin 1.5+1.0 g/kg mandatory, ciprofloxacin prophylaxis (norfloxacin unavailable in US) (1 source)
 - [[primary-sclerosing-cholangitis]] — PSC: ADDT — 3D MRI/MRCP dx (avoid ERCP for dx), IgG4 testing, LS by TE/MRE for fibrosis staging, UDCA 13–23 mg/kg/d conditional (never ≥28), annual MRI/MRCP ± CA 19-9 CCA surveillance (not <18y/small-duct), FISH for relevant strictures, HD colonoscopy q1–2y from age 15 in PSC-IBD, LT for ESLD/recurrent cholangitis/early CCA, rPSC 10–37% (3 sources)
 - [[pancreatic-cysts]] — Pancreatic cysts: ADDT — all 6 cyst types (pseudocyst/SCA/SB-IPMN/MD-IPMN/MCN/SPN), high-risk features, size-stratified surveillance table, cyst fluid analysis (CEA/amylase/cytology), stop-surveillance thresholds (1 source)
@@ -534,4 +534,4 @@ updated: 2026-07-07
 
 ---
 
-*Total: 208 sources | 107 disease scripts | 19 diagnostic schemas | 2 general procedures | 19 advanced procedures | 17 meds | 0 anatomy | 36 concepts | 1 synthesis (on-disk page counts as of 2026-07-07; index Sources section lists all 208 source pages)*
+*Total: 208 sources | 107 disease scripts | 19 diagnostic schemas | 2 general procedures | 19 advanced procedures | 17 meds | 0 anatomy | 36 concepts | 1 synthesis (on-disk page counts as of 2026-07-12; index Sources section lists all 208 source pages)*

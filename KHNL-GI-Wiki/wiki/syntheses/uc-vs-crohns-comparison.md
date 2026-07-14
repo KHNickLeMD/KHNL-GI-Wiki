@@ -3,8 +3,8 @@ title: "UC vs Crohn's Disease: Comparison"
 category: synthesis
 tags: [uc, crohns, ibd, comparison]
 created: 2026-05-16
-updated: 2026-05-16
-sources: []
+updated: 2026-07-12
+sources: [acg-2025-uc, acg-2025-crohns]
 ---
 
 # UC vs Crohn's Disease: Comparison
@@ -37,4 +37,11 @@ sources: []
 
 ## See Also
 
-[[ulcerative-colitis]], [[crohns-disease]]
+[[ulcerative-colitis]], [[crohns-disease]], [[colorectal-cancer]], [[pouchitis]], [[microscopic-colitis]]
+
+---
+
+## Sources
+
+1. [[acg-2025-uc|ACG Clinical Guideline: Ulcerative Colitis in Adults (2025)]]
+2. [[acg-2025-crohns|ACG Clinical Guideline: Management of Crohn's Disease in Adults (2025)]]
