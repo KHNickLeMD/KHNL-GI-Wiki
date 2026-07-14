@@ -87,6 +87,8 @@ TBD
 - Use the **search bar** to find pages. It does two things at once: instant keyword matching, plus a **semantic search** that understands meaning — so searching *"liver scarring"* surfaces cirrhosis and fibrosis-related notes even when those exact words aren't on the page
 	- Results tagged with a green **`related`** badge were matched by meaning rather than exact wording. The first search after loading the site takes a moment while the small AI model downloads (then it's cached and instant)
 - Click any **#tag** to search for related pages
+- Every article has three quick-action buttons at the top right of its header: the **☆ star** bookmarks the page and the **✓ check** marks it as reviewed (both need a free account — see below), and **Share** copies the page link or sends it via your phone's share sheet, X, LinkedIn, or email
+- Both side panels are collapsible for a distraction-free read: the **panel button at the top-left** tucks away the section sidebar, and the matching **button at the top-right** hides the *On this page* outline — click either again to bring the panel back
 
 ## Graph View
 
