@@ -3,7 +3,7 @@ title: "Hepatocellular Carcinoma"
 category: disease-script
 tags: [hcc, hepatocellular, liver, cancer, hpb, surveillance, cirrhosis, hbv, adjuvant, immunotherapy, liver-transplant, milan-criteria, afp, downstaging, mtor-inhibitor, sirolimus, everolimus, bclc, sorafenib, lenvatinib, atezolizumab, bevacizumab, tace, tare, ablation, resection, li-rads, locoregional]
 created: 2026-05-16
-updated: 2026-06-27
+updated: 2026-07-14
 sources: ["[[aasld-2023-hcc]]", "[[aasld-2025-hcc-critical-update]]", "[[aasld-ast-2025-liver-transplant-candidate-evaluation]]", "[[aasld-ast-2025-liver-transplant-graft-complications]]", "[[aga-2022-hcc-systemic]]", "[[nccn-2026-hcc]]", "[[aga-2026-hcc-surveillance]]"]
 ---
 
@@ -90,39 +90,14 @@ Surveillance is associated with improved survival (pooled HR 0.67, 95% CI 0.61�
 
 ## Diagnostics
 
-### LI-RADS Diagnostic Framework
+### Imaging Diagnosis
 
-**LI-RADS applicability (Figure 7, [[aasld-2023-hcc]]):**
+*The LI-RADS framework — applicability, major features, LR-5 size criteria, and category-by-category management — lives on [[li-rads]]. Only the HCC-specific implications are stated here.*
 
-- Apply LI-RADS in: cirrhosis (any etiology, except pure vascular/cardiogenic — biopsy those); chronic HBV with intermediate/high HCC risk (PAGE-B ≥10); history of prior HCC
-- Do NOT apply LI-RADS in: non-cirrhotic patients without HBV; cardiogenic or vascular etiologies of cirrhosis (insufficient LI-RADS validation)
-- LI-RADS not validated in non-cirrhotic HBV with PAGE-B ≤9 — biopsy recommended for those
-
-**LI-RADS categories and management:**
-
-| Category | HCC Probability | Management |
-|---|---|---|
-| **LR-1** (Definitely benign) | 0% | Return to US-based surveillance in 6 months |
-| **LR-2** (Probably benign) | Low | Return to US-based surveillance in 6 months |
-| **LR-3** (Intermediate) | 20–40% | Repeat/alternative diagnostic imaging in 3–6 months; return to US surveillance if prolonged stability |
-| **LR-4** (Probably HCC) | 60–70% | Multidisciplinary discussion; repeat imaging in ≤3 months OR immediate biopsy; biopsy preferred if diagnosis will impact management |
-| **LR-5** (Definitely HCC) | ~95% | HCC confirmed; multidisciplinary discussion for tailored workup; biopsy optional (for MDM confirmation or molecular analysis) |
-| **LR-M** (Probably/possibly malignant, not HCC-specific) | ~35% HCC; 93–100% malignant on sampling but only 29–44% HCC | Biopsy required — rim APHE suggests non-HCC malignancy |
-| **LR-TIV** (Tumor in vein) | Lower HCC probability than LR-5; biopsy recommended | Multidisciplinary discussion |
-
-**LI-RADS CT/MRI major features for LR-5 designation:**
-
-- **Arterial phase hyperenhancement (APHE)** — required for LR-5 (except threshold growth)
-- **Nonperipheral washout** — additional major feature
-- **Enhancing capsule** — additional major feature
-- **Threshold growth** (≥50% increase in ≤6 months) — additional major feature
-
-*LR-5 criteria by size:*
-
-- **≥20 mm:** APHE + any 1 additional major feature
-- **10–19 mm:** APHE + washout OR APHE + 2 additional major features
-
-**Imaging modality:** MRI sensitivity 82%, specificity 92% vs. CT sensitivity 66%, specificity 91% — both equally recommended. CEUS second-line when MRI/CT unavailable, inconclusive, or contraindicated. Extracellular and hepatobiliary MRI contrast agents equally recommended. [[aasld-2023-hcc]]
+- **GS 16 (Level 1, Strong):** in at-risk patients (cirrhosis or chronic HBV), HCC is diagnosed by **noninvasive imaging criteria and/or pathology** — [[li-rads|LI-RADS]] applied to dynamic contrast-enhanced MRI or multiphasic CT (GS 16a, GS 18). **An LR-5 observation is diagnostic — no biopsy required.**
+- **GS 17 (Level 1, Strong):** **without** cirrhosis or at-risk chronic HBV, diagnosis **must be confirmed by pathology**.
+- **GS 16c:** AASLD advises **against** AFP alone or liquid biopsy to make the diagnosis.
+- **Biopsy is mandatory for [[li-rads|LR-M]]** (GS 22, Level 1, Strong) — risk of mixed tumors and non-HCC malignancy.
 
 **Pathological diagnosis (IHC markers for HCC):** Positive staining in ≥2 of 4 markers is highly specific: Glypican-3 (GPC3), glutamine synthetase, HSP70, clathrin heavy chain. Additional: K19 and EpCAM (progenitor cell features); CD34 (neovascularization).
 
@@ -467,8 +442,7 @@ Advance care planning (ACP) should be offered to all patients receiving palliati
 
 ## See Also
 
-
-[[liver-transplantation]], [[portal-hypertension]], [[chronic-hepatitis-b]], [[hepatitis-c]], [[alcohol-associated-liver-disease]], [[nafld-masld]], [[hereditary-hemochromatosis]], [[wilson-disease]], [[autoimmune-hepatitis]], [[immune-checkpoint-inhibitor-hepatitis]], [[hepatocellular-adenoma]], [[focal-nodular-hyperplasia]], [[hepatic-hemangioma]], [[hepatic-cysts]], [[budd-chiari-syndrome]], [[post-transplant-lymphoproliferative-disorder]], [[cholangiocarcinoma]], [[li-rads]], [[hcc-surveillance]], [[calcineurin-inhibitors]]
+[[li-rads]], [[hcc-surveillance]], [[radiofrequency-ablation]], [[liver-transplantation]], [[portal-hypertension]], [[chronic-hepatitis-b]], [[hepatitis-c]], [[alcohol-associated-liver-disease]], [[nafld-masld]], [[hereditary-hemochromatosis]], [[wilson-disease]], [[autoimmune-hepatitis]], [[immune-checkpoint-inhibitor-hepatitis]], [[hepatocellular-adenoma]], [[focal-nodular-hyperplasia]], [[hepatic-hemangioma]], [[hepatic-cysts]], [[budd-chiari-syndrome]], [[post-transplant-lymphoproliferative-disorder]], [[cholangiocarcinoma]], [[li-rads]], [[hcc-surveillance]], [[calcineurin-inhibitors]]
 
 ---
 

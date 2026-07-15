@@ -3,7 +3,7 @@ title: "Peutz-Jeghers Syndrome"
 category: disease-script
 tags: [peutz-jeghers, pjs, stk11, lkb1, hamartoma, hereditary-crc, pancreatic-cancer, small-bowel, intussusception, genetic-testing]
 created: 2026-05-19
-updated: 2026-05-19
+updated: 2026-07-14
 sources: [acg-2015-hereditary-gi-cancer, aga-2022-hamartomatous-polyposis]
 ---
 
@@ -140,7 +140,6 @@ SCTAT = sex cord tumor with annular tubules; ~20% become malignant. PJS is assoc
 ---
 
 ## See Also
-
 
 [[familial-adenomatous-polyposis]], [[lynch-syndrome]], [[juvenile-polyposis-syndrome]], [[cowden-syndrome]], [[colorectal-cancer]], [[colonoscopy]], [[upper-endoscopy]], [[capsule-endoscopy]], [[endoscopic-ultrasound]]
 

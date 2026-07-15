@@ -1,7 +1,7 @@
 ---
 title: "Wiki Index"
 category: index
-updated: 2026-07-12
+updated: 2026-07-14
 ---
 
 # KHNL GI Encyclopedia — Master Index
@@ -39,7 +39,7 @@ updated: 2026-07-12
 
 - [[atrophic-gastritis]] — Atrophic gastritis: ADDT — HpAG vs. AIG etiology, OLGA/OLGIM staging, Sydney protocol, pernicious anemia, type I gastric NETs, surveillance intervals (1 source)
 - [[gastroparesis]] — Gastroparesis: ADDT — 4-hour scintigraphy (>10% retention), GCSI, prokinetics (metoclopramide/domperidone/erythromycin), G-POEM preferred pyloric intervention, EndoFLIP for pyloric DI, no botox/GES/nortriptyline; whole-gut (WMC) evaluation — treating coexisting slow colonic transit improves upper-GI symptoms (3 sources)
-- [[gastric-intestinal-metaplasia]] — GIM: ADDT — Correa cascade, H. pylori test-and-treat (32% GC RR reduction), against routine surveillance (AGA 2020) vs. q3y surveillance (ACG 2025/ESGE) for high-risk; incomplete-type/extensive GIM/family history = high risk (1 source)
+- [[gastric-intestinal-metaplasia]] — GIM: ADDT — Correa cascade, H. pylori test-and-treat (32% GC RR reduction), against routine surveillance (AGA 2020) vs. q3y surveillance (ACG 2025/ESGE) for high-risk; incomplete-type/extensive GIM/family history = high risk; ACG 2025 quality-endoscopy + Sydney containering + dysplasia/ESD pathway (2 sources)
 
 #### Gastric (continued)
 
@@ -81,8 +81,8 @@ updated: 2026-07-12
 - [[colon-ischemia]] — Colon ischemia: ADDT — segmental watershed ischemia, CT with IV/oral contrast first-line, colonoscopy within 48h, mild/moderate/severe classification, antibiotics for mod/severe, surgical indications (IRCI/pancolonic/peritoneal signs), post-aortic surgery CI (1 source)
 - [[familial-adenomatous-polyposis]] — FAP/AFAP/MAP: ADDT — APC vs MUTYH, Spigelman staging table with surveillance intervals, IRA vs. IPAA indications, thyroid/hepatoblastoma surveillance, sulindac/celecoxib chemoprevention, desmoid management; ASGE endoscopic management (clinical-polyposis testing threshold, pouch/IRA intervals, resect polyps >1 cm + antral, ampullary exam/biopsy, sulindac+erlotinib) (2 sources)
 - [[peutz-jeghers-syndrome]] — PJS: ADDT — STK11, mucocutaneous pigmentation, 132-fold pancreatic cancer risk, surveillance from age 8, intussusception management, everolimus (1 source)
-- [[juvenile-polyposis-syndrome]] — JPS: ADDT — SMAD4/BMPR1A, HHT co-association in SMAD4 carriers, surveillance from age 12–15, surgical thresholds (1 source)
-- [[cowden-syndrome]] — Cowden/PTEN Hamartoma: ADDT — PTEN, major/minor criteria, glycogenic acanthosis pathognomonic, multi-organ surveillance schedule (1 source)
+- [[juvenile-polyposis-syndrome]] — JPS: ADDT — SMAD4/BMPR1A, HHT co-association in SMAD4 carriers, colonoscopy + EGD from age 12–15 (ACG 2015 and USMSTF 2022 concordant), surgical thresholds (2 sources)
+- [[cowden-syndrome]] — Cowden/PTEN Hamartoma: ADDT — PTEN, major/minor criteria, glycogenic acanthosis pathognomonic, colonoscopy from age 35 (USMSTF 2022 supersedes ACG 2015 age 15), multi-organ surveillance schedule (2 sources)
 - [[serrated-polyposis-syndrome]] — SPS: ADDT — WHO criteria, no proven germline etiology, colonoscopy q1–3y, FDR surveillance (1 source)
 - [[mutyh-associated-polyposis]] — MAP: stub — biallelic MUTYH, attenuated polyposis phenotype; see FAP page for management details (1 source)
 - [[bmmrd-syndrome]] — BMMRD/CMMRD: ADDT — biallelic MMR germline mutations (autosomal recessive); childhood CRC (median age 16), brain tumors (70% penetrance, median age 9), lymphoma; café-au-lait macules mimicking NF1; PMS2 most common; annual colonoscopy from age 6, brain MRI q6mo from age 2; subtotal colectomy preferred; 8 USMSTF recommendations (all weak, low evidence) (1 source)
@@ -196,7 +196,7 @@ updated: 2026-07-12
 - [[antireflux-surgery]] — Antireflux Surgery: fundoplication (Nissen/Toupet/Dor), magnetic sphincter augmentation; pre-op HRM/pH (stub)
 - [[intragastric-balloon]] — Endoscopic restrictive balloon for short-term weight loss in obesity (BMI 30–40); concomitant lifestyle + PPI prophylaxis (1 source)
 - [[endoscopic-eradication-therapy]] — EMR/ablation eradication of dysplastic Barrett's (resect-then-ablate, CE-IM endpoint) (3 sources)
-- [[radiofrequency-ablation]] — Preferred ablative modality within EET for flat Barrett's (stub) (1 source)
+- [[radiofrequency-ablation]] — RFA: preferred ablative modality within EET for flat dysplastic Barrett's (balloon/focal catheters, ~3 sessions to CE-IM); also bleeding radiation proctopathy and intraductal RFA + plastic stent for unresectable perihilar cholangiocarcinoma; pooled AE 8.8% (stricture 5.6%) (6 sources)
 - [[bariatric-surgery]] — Surgical weight-loss procedures (sleeve, RYGB, banding) (stub)
 
 - [[high-resolution-manometry]] — HRM: Chicago v4.0 protocol, manufacturer-specific IRP thresholds, key metrics (IRP/DCI/peristaltic integrity), pre-ARS mandatory (stub)
@@ -255,7 +255,7 @@ updated: 2026-07-12
 
 ## Concepts
 
-- [[li-rads]] — LI-RADS: Liver Imaging Reporting and Data System — CT/MRI categories LR-1 to LR-5/TIV for HCC (stub)
+- [[li-rads]] — LI-RADS: applicability (cirrhosis / at-risk HBV only), major features (APHE, nonperipheral washout, capsule, threshold growth), LR-5 size criteria, category-by-category management (LR-3 → 3–6 mo imaging; LR-4 → MDD ± biopsy; LR-5 = HCC, no biopsy; LR-M → biopsy mandatory), MRI vs CT performance (3 sources)
 - [[colonoscopy-surveillance]] — Colonoscopy surveillance intervals (USMSTF 2020): adenoma + serrated-polyp + serial-surveillance interval tables; high-quality-exam prerequisite; 1-2 small adenomas extended to 7-10y; definitions (advanced/high-risk adenoma) (1 source)
 - [[hcc-surveillance]] — HCC Surveillance: at-risk populations (Child-Pugh A/B cirrhosis + select non-cirrhotic HBV), semiannual US+AFP (sens 63% vs 51%), CT/MRI not routine, harms, GALAD/biomarkers not yet ready + no MCD panels, PAGE-B/REAL-B, prevent cirrhosis (2 sources)
 - [[pancreatic-cancer-screening]] — High-risk pancreatic cancer surveillance: who qualifies, EUS/MRI modalities, annual interval, condition-specific start ages (1 source)
@@ -534,4 +534,4 @@ updated: 2026-07-12
 
 ---
 
-*Total: 208 sources | 107 disease scripts | 19 diagnostic schemas | 2 general procedures | 19 advanced procedures | 17 meds | 0 anatomy | 36 concepts | 1 synthesis (on-disk page counts as of 2026-07-12; index Sources section lists all 208 source pages)*
+*Total: 208 sources | 107 disease scripts | 19 diagnostic schemas | 2 general procedures | 19 advanced procedures | 17 meds | 0 anatomy | 36 concepts | 1 synthesis (on-disk page counts as of 2026-07-14; index Sources section lists all 208 source pages)*

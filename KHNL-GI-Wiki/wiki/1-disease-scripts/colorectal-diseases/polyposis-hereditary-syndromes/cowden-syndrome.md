@@ -3,8 +3,8 @@ title: "Cowden Syndrome (PTEN Hamartoma Tumor Syndrome)"
 category: disease-script
 tags: [cowden, pten, phts, hamartoma, hereditary-cancer, breast-cancer, thyroid-cancer, endometrial-cancer, colorectal-cancer, genetic-testing]
 created: 2026-05-19
-updated: 2026-05-19
-sources: [acg-2015-hereditary-gi-cancer]
+updated: 2026-07-14
+sources: [acg-2015-hereditary-gi-cancer, aga-2022-hamartomatous-polyposis]
 ---
 
 ## Assessment
@@ -30,7 +30,7 @@ Cowden syndrome (CS), also called PTEN hamartoma tumor syndrome (PHTS), is cause
 - **Diffuse esophageal glycogenic acanthosis** — a frequent and potentially pathognomonic finding; diffuse lesions observed in ≥80% of PHTS patients; should be considered pathognomonic when combined with colonic polyposis
 - Multiple synchronous colonic histologic types at [[colonoscopy]] are common
 
-### Cancer Risk Profile
+### Severity Assessment — Cancer Risk Profile
 
 | Cancer Site | General Population | CS/PHTS Risk | Average Age of Onset |
 |---|---|---|---|
@@ -55,12 +55,14 @@ Cowden syndrome (CS), also called PTEN hamartoma tumor syndrome (PHTS), is cause
 
 ## Diagnostics
 
-**Colonoscopy** — from age 15, every 2 years (Conditional/Low) [[acg-2015-hereditary-gi-cancer]]:
+**[[colonoscopy|Colonoscopy]] — start at age 35** (earlier if symptomatic), then interval by polyp burden — **[[aga-2022-hamartomatous-polyposis|USMSTF/AGA 2022]]** (newer guideline; supersedes the earlier start age):
 
-- Intervals may increase or decrease depending on polyp findings
-- Colon cancer risk 9–16%; one multicenter study found 13% of PTEN mutation carriers had colon cancer, all <50 years of age
+- Colon cancer risk 9–16%; one multicenter study found 13% of PTEN carriers had colon cancer, all <50 years of age
+- Intervals increase or decrease depending on polyp findings
 
-**[[upper-endoscopy|EGD]]/Upper GI and small bowel** — from age 15, every 2–3 years:
+> **Contradiction (surfaced, not silently resolved):** [[acg-2015-hereditary-gi-cancer|ACG 2015]] advised colonoscopy **from age 15, every 2 years** (conditional, low). The newer [[aga-2022-hamartomatous-polyposis|USMSTF 2022]] hamartomatous-polyposis guideline sets the start age at **35**. Per source priority (same tier → newer publication wins), the page follows 2022; symptomatic patients are scoped earlier regardless.
+
+**[[upper-endoscopy|EGD]]/Upper GI and small bowel** — from age 15, every 2–3 years ([[acg-2015-hereditary-gi-cancer]]):
 
 - If duodenal polyposis present, repeat depending on number of polyps
 
@@ -92,7 +94,8 @@ Cowden syndrome (CS), also called PTEN hamartoma tumor syndrome (PHTS), is cause
 ### Medical/Surveillance Management
 
 - All surveillance recommendations are expert opinion-based, derived from analogous high-risk syndromes; no prospective studies define optimal intervals [[acg-2015-hereditary-gi-cancer]]
-- Colon polyp management: endoscopic polypectomy for accessible lesions
+- Manage symptomatic or large polyps endoscopically; refer for genetic testing and **family cascade screening**; coordinate the intensive extraintestinal surveillance (breast, thyroid, endometrial, renal) with the GI plan [[aga-2022-hamartomatous-polyposis]]
+- Colon polyp management: endoscopic [[polypectomy-emr|polypectomy]] for accessible lesions
 - No specific medical therapy for reducing polyp burden in CS is established
 
 ### Surgical Indications
@@ -110,11 +113,11 @@ Cowden syndrome (CS), also called PTEN hamartoma tumor syndrome (PHTS), is cause
 
 ## See Also
 
-
-[[juvenile-polyposis-syndrome]], [[peutz-jeghers-syndrome]], [[familial-adenomatous-polyposis]], [[colorectal-cancer]], [[colonoscopy]], [[upper-endoscopy]]
+[[juvenile-polyposis-syndrome]], [[peutz-jeghers-syndrome]], [[familial-adenomatous-polyposis]], [[lynch-syndrome]], [[colorectal-cancer]], [[colonoscopy]], [[upper-endoscopy]], [[polypectomy-emr]]
 
 ---
 
 ## Sources
 
 1. [[acg-2015-hereditary-gi-cancer|ACG 2015: Genetic Testing and Management of Hereditary Gastrointestinal Cancer Syndromes]]
+2. [[aga-2022-hamartomatous-polyposis|USMSTF/AGA 2022: GI Hamartomatous Polyposis Syndromes]]

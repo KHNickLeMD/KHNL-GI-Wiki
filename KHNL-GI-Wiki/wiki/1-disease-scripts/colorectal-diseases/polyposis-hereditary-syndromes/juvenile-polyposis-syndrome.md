@@ -3,8 +3,8 @@ title: "Juvenile Polyposis Syndrome"
 category: disease-script
 tags: [juvenile-polyposis, jps, smad4, bmpr1a, hamartoma, hereditary-crc, hht, upper-gi-cancer, genetic-testing]
 created: 2026-05-19
-updated: 2026-05-19
-sources: [acg-2015-hereditary-gi-cancer]
+updated: 2026-07-14
+sources: [acg-2015-hereditary-gi-cancer, aga-2022-hamartomatous-polyposis]
 ---
 
 ## Assessment
@@ -59,6 +59,8 @@ Juvenile polyposis syndrome (JPS) is an autosomal-dominant hamartomatous polypos
 
 ## Diagnostics
 
+*Start ages below are concordant across [[acg-2015-hereditary-gi-cancer|ACG 2015]] and the newer [[aga-2022-hamartomatous-polyposis|USMSTF/AGA 2022]] hamartomatous-polyposis guideline (colonoscopy + upper endoscopy at **age 12–15**, earlier if symptomatic; intervals set by polyp burden; test for *SMAD4* — HHT overlap — and *BMPR1A*).*
+
 **[[colonoscopy|Colonoscopy]]** — annually from age 12–15 (Conditional/VLow) [[acg-2015-hereditary-gi-cancer]]:
 
 - Annual [[colonoscopy]] beginning at age 12 years or earlier if symptoms (especially rectal bleeding)
@@ -105,11 +107,11 @@ Juvenile polyposis syndrome (JPS) is an autosomal-dominant hamartomatous polypos
 
 ## See Also
 
-
-[[peutz-jeghers-syndrome]], [[familial-adenomatous-polyposis]], [[cowden-syndrome]], [[lynch-syndrome]], [[colorectal-cancer]], [[colonoscopy]], [[upper-endoscopy]], [[hereditary-hemorrhagic-telangiectasia]]
+[[peutz-jeghers-syndrome]], [[familial-adenomatous-polyposis]], [[cowden-syndrome]], [[lynch-syndrome]], [[colorectal-cancer]], [[colonoscopy]], [[upper-endoscopy]], [[capsule-endoscopy]], [[hereditary-hemorrhagic-telangiectasia]]
 
 ---
 
 ## Sources
 
 1. [[acg-2015-hereditary-gi-cancer|ACG 2015: Genetic Testing and Management of Hereditary Gastrointestinal Cancer Syndromes]]
+2. [[aga-2022-hamartomatous-polyposis|USMSTF/AGA 2022: GI Hamartomatous Polyposis Syndromes]]

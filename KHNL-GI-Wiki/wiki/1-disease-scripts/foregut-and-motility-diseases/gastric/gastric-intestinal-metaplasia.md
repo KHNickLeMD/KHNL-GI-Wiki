@@ -3,8 +3,8 @@ title: "Gastric Intestinal Metaplasia"
 category: disease-script
 tags: [gastric-intestinal-metaplasia, gim, gastric-cancer, h-pylori, correa-cascade, premalignant, foregut, gastric]
 created: 2026-05-16
-updated: 2026-07-06
-sources: [aga-2020-gastric-intestinal-metaplasia]
+updated: 2026-07-14
+sources: [aga-2020-gastric-intestinal-metaplasia, acg-2025-gastric-premalignant]
 ---
 
 ## Assessment
@@ -13,7 +13,9 @@ sources: [aga-2020-gastric-intestinal-metaplasia]
 
 **Gastric intestinal metaplasia (GIM)** = replacement of normal gastric epithelium by intestinal-type epithelium (goblet cells, absorptive cells, Paneth cells) at any location in the stomach. GIM is a premalignant lesion in the [[gastric-premalignant-conditions|Correa cascade]]: [[helicobacter-pylori-infection|H. pylori]] gastritis → [[atrophic-gastritis|atrophic gastritis]] → GIM → dysplasia → [[gastric-adenocarcinoma|gastric adenocarcinoma]].
 
-**Diagnosis is histological:** goblet cell metaplasia on gastric biopsies. Optimal biopsy protocol = **Sydney protocol** (minimum 5 biopsies: 2 antrum, 2 body/corpus, 1 incisura angularis), with separate labeled containers.
+**Diagnosis is histological:** goblet cell metaplasia on gastric biopsies. Optimal biopsy protocol = **Sydney protocol** (minimum 5 biopsies: 2 antrum, 2 body/corpus, 1 incisura angularis). ACG 2025 GPMC endorses an **updated Sydney containering scheme**: antrum + incisura in one container, corpus in a second, and any targeted biopsies of visible lesions in separate containers — this preserves anatomic (limited vs. extensive) mapping while cutting container count.
+
+**High-quality endoscopy is prerequisite (ACG 2025, Strong/Low).** Five components of an adequate gastric exam: (i) high-definition white-light endoscopy (HDWLE); (ii) adequate insufflation (CO₂ preferred); (iii) mucosal cleansing; (iv) standardized photodocumentation; (v) adequate gastric inspection time. A rushed 2–3 minute upper endoscopy is below the standard of care for GPMC evaluation.
 
 GIM affects approximately 5% of the US population. Prevalence is higher in high-risk groups (see below). Detection often incidental on [[upper-endoscopy|EGD]] performed for other indications.
 
@@ -62,7 +64,8 @@ GIM affects approximately 5% of the US population. Prevalence is higher in high-
 ### Biopsy Protocol
 
 - **Sydney protocol** (minimum): 2 antrum biopsies (greater and lesser curvature), 2 corpus/body biopsies (greater and lesser curvature), 1 incisura angularis
-- Report should include: presence/absence of GIM, H. pylori status (active or inactive infection), extent of atrophy and metaplasia
+- **ACG 2025 containering:** antrum + incisura → container 1; corpus → container 2; targeted lesion biopsies → separate containers
+- Report should include (ACG 2025, Conditional): presence/absence of GIM, H. pylori status (active or inactive infection), **GIM histological subtype** (complete / incomplete / mixed), **anatomic extent** (limited = antrum/incisura only vs. extensive = corpus involvement), and **severity** (proportion of atrophy/GIM per compartment)
 
 ### H. pylori Testing
 
@@ -100,9 +103,16 @@ GIM affects approximately 5% of the US population. Prevalence is higher in high-
 | Guideline | Recommendation |
 |-----------|---------------|
 | **AGA 2020** | AGAINST routine surveillance (Conditional/Very Low); shared SDM for high-risk patients; if surveillance done, q3–5y with antrum + body biopsies |
-| **ACG 2025 GPMC** | Surveillance q3 years for high-risk GIM |
+| **ACG 2025 GPMC** | Surveillance **q3y for high-risk GIM** and for severe GIM/AG in antrum or corpus (both Conditional/Very Low); **against surveillance for low-risk GIM or mild AG** |
 | **AGA 2021 Atrophic Gastritis** | Surveillance at 3 years for OLGA/OLGIM III/IV |
 | **ESGE** | Surveillance at 3 years for high-risk GIM (incomplete-type, extensive, family history) |
+
+**ACG 2025 risk definitions:**
+
+- **High-risk GIM** = incomplete GIM subtype **OR** corpus extension **OR** ≥1 of: family history of GC, foreign-born from a high-GC country, high-risk race/ethnicity (East Asian, Latino, Black, AIAN) → surveillance q3y
+- **Low-risk GIM** = complete subtype only, limited to antrum, and none of the above high-risk criteria → no surveillance
+- **Multiple risk factors** (e.g., extensive GIM + family history of GC): consider shortening to **q1–2y**
+- **Against** routine repeat EGD at <12 months for nondysplastic GPMC unless there was a quality/protocol concern on the index exam
 
 **Practical approach (incorporating all guidelines):**
 
@@ -115,9 +125,17 @@ GIM affects approximately 5% of the US population. Prevalence is higher in high-
 - Confirm eradication with urea breath test or stool antigen test ≥4 weeks after completing treatment and ≥2 weeks after stopping PPIs
 - GIM may not regress after eradication but progression risk is reduced; surveillance decisions remain as above
 
-### 4. No Proven Chemopreventive Agents
+### 4. If Dysplasia Is Found (ACG 2025)
 
-- COX-2 inhibitors, selenium, antioxidants: not recommended; insufficient evidence for GIM regression or GC prevention outside H. pylori eradication
+- **Dysplasia (IND/LGD/HGD) with visible, delineated margins:** endoscopic resection — ESD preferred over EMR for en-bloc removal (Conditional/Low)
+- **Dysplasia without a visible lesion:** repeat EGD with HDWLE + IEE by an experienced endoscopist to localize before resection (Conditional/Low). IND/LGD → repeat in 12 months; HGD → repeat within 3 months
+- **Refer to a high-volume center** with expertise in gastric neoplasia for endoscopic resection, especially ESD (Strong/Low)
+- **After complete resection:** endoscopic surveillance with HDWLE + IEE + systematic and targeted biopsies (Strong/Low)
+
+### 5. No Proven Chemopreventive Agents
+
+- ACG 2025 recommends **against** aspirin, NSAIDs, COX-2 inhibitors, or antioxidants for GC chemoprevention (Conditional/Very Low)
+- Selenium and other antioxidants: not recommended; insufficient evidence for GIM regression or GC prevention outside H. pylori eradication
 
 ---
 
@@ -130,3 +148,4 @@ GIM affects approximately 5% of the US population. Prevalence is higher in high-
 ## Sources
 
 1. [[aga-2020-gastric-intestinal-metaplasia|AGA 2020 Clinical Practice Update: Management of Gastric Intestinal Metaplasia]]
+2. [[acg-2025-gastric-premalignant|ACG 2025 Guideline: Diagnosis and Management of Gastric Premalignant Conditions]]
