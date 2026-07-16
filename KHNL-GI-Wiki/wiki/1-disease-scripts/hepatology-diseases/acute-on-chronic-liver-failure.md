@@ -3,7 +3,7 @@ title: "Acute-on-Chronic Liver Failure (ACLF)"
 category: disease-script
 tags: [ACLF, acute-on-chronic-liver-failure, cirrhosis, organ-failure, ICU, NACSELD, EASL-CLIF, terlipressin, HRS, hepatic-encephalopathy, infection, nutrition, liver-transplantation, palliative-care]
 created: 2026-05-28
-updated: 2026-05-28
+updated: 2026-07-16
 sources: [aasld-2024-aclf]
 ---
 
@@ -23,7 +23,7 @@ ACLF is a syndrome in patients with chronic liver disease (CLD) characterized by
 
 | Definition | Applicable stage | Organ failure criteria |
 |---|---|---|
-| **NACSELD** (North America) | Advanced/preterminal | ≥2 extrahepatic OFs: cardiovascular (shock), renal (RRT), respiratory (mechanical vent), brain (HE Grade 3–4) |
+| **NACSELD** (North America) | Advanced/preterminal | ≥2 extrahepatic OFs: cardiovascular (shock), renal (RRT), respiratory (mechanical vent), brain ([[hepatic-encephalopathy\|HE]] Grade 3–4) |
 | **EASL-CLIF** (European) | Earlier onset; grades ACLF-1, -2, -3 | Liver (Bi ≥12 + INR ≥1.5 or coagulopathy), kidney (Cr ≥2 or RRT), brain (HE 3–4), respiratory (PaO₂/FiO₂ ≤200), coagulation (INR ≥2.5), cardiovascular (vasopressors) |
 | **APASL** (Asia-Pacific) | Early; includes non-cirrhotic CLD | Acute hepatic insult + liver failure (Bi ≥5, INR ≥1.5) + coagulopathy + clinical features ≤4 weeks in previously diagnosed or undiagnosed CLD; high sensitivity, lower specificity |
 
@@ -80,7 +80,7 @@ ACLF is a syndrome in patients with chronic liver disease (CLD) characterized by
 
 ### General ICU Principles
 
-Critically ill patients with cirrhosis and ACLF require multidisciplinary ICU care. Simultaneous: organ-specific management + early LT evaluation + palliative care consult (Figure 5) [[aasld-2024-aclf]].
+Critically ill patients with cirrhosis and ACLF require multidisciplinary ICU care. Simultaneous: organ-specific management + early [[liver-transplantation|LT]] evaluation + palliative care consult (Figure 5) [[aasld-2024-aclf]].
 
 ### Brain Failure (Hepatic Encephalopathy)
 
@@ -170,7 +170,7 @@ Infection is the most common precipitant of ACLF (~48%). Every hour delay in ant
 
 ### Coagulopathy
 
-**INR does NOT reflect true hemostatic status in cirrhosis** — rebalanced hemostasis; INR captures only procoagulant depletion, not anticoagulant protein depletion (GS 35).
+**INR does NOT reflect true hemostatic status in cirrhosis** — [[cirrhosis-hemostasis|rebalanced hemostasis]]; INR captures only procoagulant depletion, not anticoagulant protein depletion (GS 35).
 
 **TEG/ROTEM:** Global hemostasis assessment; better reflects true clotting in cirrhosis; can guide transfusions and reduce unnecessary blood product use (GS 34; not yet clinically validated in ACLF).
 
@@ -182,7 +182,7 @@ Infection is the most common precipitant of ACLF (~48%). Every hour delay in ant
 
 ### Nutrition
 
-Malnutrition and sarcopenia are extremely common in ACLF and independently predict mortality. **Protein restriction is NEVER indicated (GS 42).**
+[[nutrition-in-liver-disease|Malnutrition]] and sarcopenia are extremely common in ACLF and independently predict mortality. **Protein restriction is NEVER indicated (GS 42).**
 
 | Parameter | Recommendation |
 |---|---|

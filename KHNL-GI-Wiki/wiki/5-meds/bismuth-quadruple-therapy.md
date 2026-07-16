@@ -3,7 +3,7 @@ title: "Bismuth Quadruple Therapy (BQT)"
 category: med
 tags: [h-pylori, eradication, bismuth, tetracycline, metronidazole, ppi, pylera]
 created: 2026-05-07
-updated: 2026-06-09
+updated: 2026-07-16
 sources: [acg-2017-hp-guidelines]
 ---
 
@@ -28,7 +28,7 @@ sources: [acg-2017-hp-guidelines]
 
 ## Indications
 
-- **Preferred first-line** H. pylori eradication in the US (high clarithromycin resistance)
+- **Preferred first-line** [[helicobacter-pylori-infection|H. pylori]] eradication in the US (high clarithromycin resistance)
 - Any region with clarithromycin resistance >15%
 - Penicillin allergy (replaces amoxicillin-based regimens)
 - Second-line after failed clarithromycin-based triple therapy
@@ -70,8 +70,7 @@ sources: [acg-2017-hp-guidelines]
 
 ## See Also
 
-
-[[helicobacter-pylori-infection]], [[test-and-treat]]
+[[helicobacter-pylori-infection]], [[test-and-treat]], [[vonoprazan]], [[peptic-ulcer-disease]]
 
 ---
 

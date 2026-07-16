@@ -3,7 +3,7 @@ title: "Acute Liver Failure"
 category: disease-script
 tags: [acute-liver-failure, alf, liver, hepatology, transplant, liver-transplant-referral]
 created: 2026-05-15
-updated: 2026-05-25
+updated: 2026-07-16
 sources: [acg-2023-alf, acg-2016-liver-disease-pregnancy, aasld-ast-2025-liver-transplant-candidate-evaluation, aasld-2011-alf]
 ---
 
@@ -62,7 +62,7 @@ ACG recommends using **either KCC or MELD** for prognostication (conditional, lo
 | Type | Time to HE from [[jaundice\|Jaundice]] | Typical Etiologies | Cerebral Edema Risk | Transplant-Free Prognosis |
 |---|---|---|---|---|
 | Hyperacute | < 7 days | APAP, HAV, HEV, ischemic | High | Best |
-| Acute | 7–21 days | HBV | Intermediate | Intermediate |
+| Acute | 7–21 days | [[chronic-hepatitis-b\|HBV]] | Intermediate | Intermediate |
 | Subacute | > 21 days, < 26 weeks | Non-APAP DILI | Low | Worst |
 
 > Hyperacute ALF has the highest risk of cerebral edema but the best spontaneous recovery. Subacute ALF has the lowest cerebral edema risk but highest mortality without transplant — do not mistake it for chronic liver failure.
@@ -75,7 +75,7 @@ ALF must be distinguished from conditions with overlapping presentations:
 
 | Condition | Key Distinguishing Features |
 |---|---|
-| **[[acute-on-chronic-liver-failure\|Acute-on-chronic liver failure (ACLF)]]** | Known or occult cirrhosis; precipitant (infection, alcohol, GI bleed); HE responds to lactulose/rifaximin; HRS-AKI rather than ATN; ARDS common |
+| **[[acute-on-chronic-liver-failure\|Acute-on-chronic liver failure (ACLF)]]** | Known or occult cirrhosis; precipitant (infection, alcohol, GI bleed); HE responds to lactulose/rifaximin; [[aki-in-cirrhosis\|HRS-AKI]] rather than ATN; ARDS common |
 | **Decompensated cirrhosis** | Signs of [[portal-hypertension\|portal hypertension]] (varices, splenomegaly, [[ascites]]); shrunken nodular liver on imaging; fibrosis on biopsy |
 | **Alcoholic hepatitis** | Heavy alcohol use; AST:ALT ratio often >2:1; usually no encephalopathy at presentation (see [[alcohol-associated-liver-disease]]) |
 | **HELLP syndrome / AFLP** | Third trimester or postpartum; thrombocytopenia, hemolysis; may overlap with true ALF — see [[liver-disease-in-pregnancy\|liver disease in pregnancy]] for Swansea Criteria and management |
@@ -231,7 +231,7 @@ Not routine. Transjugular [[liver-biopsy|liver biopsy]] (TJLB) preferred over pe
 
 - Start antiviral therapy immediately: **entecavir** or **tenofovir** (strong recommendation, low quality)
 - Antiviral therapy less clearly beneficial in primary de novo HBV-ALF (immune-mediated injury predominates and VL often low)
-- No effective therapy for HDV superinfection (interferon contraindicated in ALF)
+- No effective therapy for [[hepatitis-d|HDV]] superinfection (interferon contraindicated in ALF)
 
 **HSV/VZV hepatitis:**
 
@@ -318,6 +318,8 @@ Not routine. Transjugular [[liver-biopsy|liver biopsy]] (TJLB) preferred over pe
 
 - HVPE (8–12 L FFP): may improve transplant-free survival; insufficient evidence for routine use recommendation
 - Artificial/bioartificial liver support (MARS, SPAD, Prometheus): not FDA-approved for ALF; insufficient evidence for routine use; may be considered as bridge to transplant or recovery at investigational centers
+
+---
 
 ## See Also
 

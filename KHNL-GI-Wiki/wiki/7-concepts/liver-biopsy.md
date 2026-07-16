@@ -3,18 +3,18 @@ title: "Liver Biopsy"
 category: concept
 tags: [liver-biopsy, hepatology, fibrosis-staging, percutaneous, transjugular, eus-guided, coagulation, complications, specimen-adequacy]
 created: 2026-06-04
-updated: 2026-06-04
-sources: [aasld-2009-liver-biopsy]
+updated: 2026-07-16
+sources: [aasld-2009-liver-biopsy, aga-2021-cirrhosis-coagulation]
 ---
 
-Liver biopsy is the procedural acquisition of hepatic tissue for histological assessment. Per the AASLD 2009 position paper (`[[aasld-2009-liver-biopsy]]`), it serves three major roles: **diagnosis**, **prognosis (disease staging, chiefly fibrosis)**, and **guiding therapeutic management**. Although it remains a reference standard, noninvasive tools — serum panels and elastography (`[[noninvasive-liver-disease-assessment|NILDA]]`) — increasingly replace it for fibrosis staging, and biopsy is now reserved largely for diagnostic uncertainty or when histology will change management.
+Liver biopsy is the procedural acquisition of hepatic tissue for histological assessment. Per the AASLD 2009 position paper ([[aasld-2009-liver-biopsy]]), it serves three major roles: **diagnosis**, **prognosis (disease staging, chiefly fibrosis)**, and **guiding therapeutic management**. Although it remains a reference standard, noninvasive tools — serum panels and elastography ([[noninvasive-liver-disease-assessment|NILDA]]) — increasingly replace it for fibrosis staging, and biopsy is now reserved largely for diagnostic uncertainty or when histology will change management.
 
 ## Indications
 Liver biopsy should be considered when the diagnosis is in question and knowledge of a specific diagnosis is likely to alter management (Rec 1, Class I/B), and as a prognostic adjunct when fibrosis stage may guide treatment (Rec 2, Class I/B). Common indications (AASLD Tables 3-4):
 - **Abnormal liver tests of unclear etiology** after thorough history, exam, serologic and imaging workup.
 - **Multiple/coexisting parenchymal diseases** (e.g. steatosis plus HCV or hemochromatosis; overlap syndromes).
-- **Disease-specific roles** — diagnosis, staging, prognosis, or management for `[[autoimmune-hepatitis]]` (diagnosis, staging, and pre-immunosuppression decisions; portal plasma cell score may predict relapse), `[[nafld-masld|NAFLD/MASLD]]` (distinguishes steatohepatitis from simple steatosis, stages fibrosis), `[[primary-biliary-cholangitis|PBC]]` (AMA-negative or suspected overlap; advanced fibrosis predicts poorer UDCA response), `[[primary-sclerosing-cholangitis|PSC]]` (small-duct disease or overlap), `[[wilson-disease|Wilson disease]]` (quantitative hepatic copper), `[[hereditary-hemochromatosis|hemochromatosis]]` (iron quantification, fibrosis staging), and `[[drug-induced-liver-injury|DILI]]`.
-- **Focal/mass lesions** — image-guided biopsy when imaging is indeterminate; core (not aspirate) preferred when neoplasia is suspected. Concerns include sampling error and small tumor-track seeding risk (~0.13%) in `[[hepatocellular-carcinoma|HCC]]` and `[[cholangiocarcinoma]]`.
+- **Disease-specific roles** — diagnosis, staging, prognosis, or management for [[autoimmune-hepatitis]] (diagnosis, staging, and pre-immunosuppression decisions; portal plasma cell score may predict relapse), [[nafld-masld|NAFLD/MASLD]] (distinguishes steatohepatitis from simple steatosis, stages fibrosis), [[primary-biliary-cholangitis|PBC]] (AMA-negative or suspected overlap; advanced fibrosis predicts poorer UDCA response), [[primary-sclerosing-cholangitis|PSC]] (small-duct disease or overlap), [[wilson-disease|Wilson disease]] (quantitative hepatic copper), [[hereditary-hemochromatosis|hemochromatosis]] (iron quantification, fibrosis staging), and [[drug-induced-liver-injury|DILI]].
+- **Focal/mass lesions** — image-guided biopsy when imaging is indeterminate; core (not aspirate) preferred when neoplasia is suspected. Concerns include sampling error and small tumor-track seeding risk (~0.13%) in [[hepatocellular-carcinoma|HCC]] and [[cholangiocarcinoma]].
 - **[[acute-liver-failure|Acute liver failure]]**, post-transplant allograft dysfunction, and evaluation of cryptogenic cirrhosis.
 
 ## Approaches
@@ -32,7 +32,7 @@ Accomplished via a jugular or femoral venous approach under fluoroscopy. Conside
 - **Clinically evident [[ascites]]** (transvenous generally recommended; alternatives are percutaneous after paracentesis, or laparoscopic — Rec 16).
 - **Uncooperative patients** (alternative to general anesthesia — Rec 15).
 - Known/suspected **hemostatic defect**, small/hard cirrhotic liver, morbid [[obesity]] with a difficult flank site.
-- When **hepatic venous pressure gradient** measurement is also desired (relevant to `[[portal-hypertension]]`).
+- When **hepatic venous pressure gradient** measurement is also desired (relevant to [[portal-hypertension]]).
 
 Transvenous biopsy yields smaller specimens (typically 3 cores with a 19-gauge needle to limit sampling error). Bleeding risk appears similar to percutaneous overall, but comparative data are confounded by selection bias.
 
@@ -40,10 +40,10 @@ Transvenous biopsy yields smaller specimens (typically 3 cores with a 19-gauge n
 Performed under direct vision (needle device or wedge resection) when the liver is being operated on or visualized. Allows direct hemostatic control and high diagnostic accuracy for cirrhosis, but wedge specimens may overestimate fibrosis (subcapsular) and the approach requires anesthesia and expertise.
 
 ### EUS-Guided
-The AASLD 2009 paper predates routine EUS-guided liver biopsy and does not address it (it notes only experimental NOTES transgastric biopsy). In contemporary practice, `[[endoscopic-ultrasound|EUS]]`-guided liver biopsy is an established alternative — useful for combining biopsy with other endosonographic evaluation, can sample both lobes, and uses fine-needle biopsy (FNB) core needles to obtain adequate portal tracts. It is included here for completeness; the percutaneous/transvenous recommendations above are the AASLD-graded standards.
+The AASLD 2009 paper predates routine EUS-guided liver biopsy and does not address it (it notes only experimental NOTES transgastric biopsy). In contemporary practice, [[endoscopic-ultrasound|EUS]]-guided liver biopsy is an established alternative — useful for combining biopsy with other endosonographic evaluation, can sample both lobes, and uses fine-needle biopsy (FNB) core needles to obtain adequate portal tracts. It is included here for completeness; the percutaneous/transvenous recommendations above are the AASLD-graded standards.
 
 ## Pre-Procedure Coagulation Assessment
-A central message: **conventional coagulation tests poorly predict post-biopsy bleeding.** There is **no PT-INR or platelet count cutoff** at/above which adverse bleeding can be reliably predicted (Rec 18, Class I/C). Standard US practice often withholds percutaneous biopsy at **PT-INR >1.5**, but the evidence base is weak, and the PT-INR is derived from coumadin-treated reference ranges that don't apply to the rebalanced hemostasis of liver disease (see `[[cirrhosis-hemostasis]]`).
+A central message: **conventional coagulation tests poorly predict post-biopsy bleeding.** There is **no PT-INR or platelet count cutoff** at/above which adverse bleeding can be reliably predicted (Rec 18, Class I/C). Standard US practice often withholds percutaneous biopsy at **PT-INR >1.5**, but the evidence base is weak, and the PT-INR is derived from coumadin-treated reference ranges that don't apply to the rebalanced hemostasis of liver disease (see [[cirrhosis-hemostasis]]).
 - **Platelets:** transfuse for counts <50,000-60,000/mL (Rec 20, Class I/C); in vitro thrombin-generation data suggest ~56,000 may suffice in cirrhosis, but in vivo validation is lacking.
 - **Hyperfibrinolysis** occurs in ~10%-15% of chronic liver disease patients and is undetectable by conventional tests — suspect it with late post-procedure bleeding; thromboelastography may help.
 - Prophylactic/rescue plasma, fibrinolysis inhibitors, or recombinant factors may be considered in specific situations but effectiveness is unproven (Rec 21, Class IIa/C).
@@ -71,11 +71,11 @@ Adequacy is essential to justify the procedural risk:
 - **Scoring:** use a simple system — Metavir or Batts-Ludwig (or IASL) — rather than complex Ishak in clinical practice (Rec 28, Class I/C). Sampling variability (discordance by ≥1 stage in ~33% of paired lobes) is a key limitation.
 
 ## Noninvasive Alternatives
-Serum fibrosis panels and elastography (transient/MR) increasingly assess fibrosis without biopsy. At the time of the 2009 paper these were insufficiently precise to replace histology (Rec 29 recommends biopsy "until clearly superior methodologies are developed and validated," Class IIB/C). The AASLD 2024 NILDA guidance (`[[noninvasive-liver-disease-assessment]]`) has since positioned elastography and serum tests as first-line fibrosis assessment in many settings, narrowing biopsy to diagnostic uncertainty and discordant/indeterminate noninvasive results.
+Serum fibrosis panels and elastography (transient/MR) increasingly assess fibrosis without biopsy. At the time of the 2009 paper these were insufficiently precise to replace histology (Rec 29 recommends biopsy "until clearly superior methodologies are developed and validated," Class IIB/C). The AASLD 2024 NILDA guidance has since positioned elastography and serum tests as first-line fibrosis assessment in many settings, narrowing biopsy to diagnostic uncertainty and discordant/indeterminate noninvasive results.
 
 ## See Also
 
-[[noninvasive-liver-disease-assessment]], [[cirrhosis-hemostasis]], [[autoimmune-hepatitis]], [[nafld-masld]], [[primary-biliary-cholangitis]], [[primary-sclerosing-cholangitis]], [[wilson-disease]], [[hereditary-hemochromatosis]], [[hepatocellular-carcinoma]], [[cholangiocarcinoma]], [[drug-induced-liver-injury]], [[portal-hypertension]], [[endoscopic-ultrasound]]
+[[noninvasive-liver-disease-assessment]], [[cirrhosis-hemostasis]], [[autoimmune-hepatitis]], [[nafld-masld]], [[primary-biliary-cholangitis]], [[primary-sclerosing-cholangitis]], [[wilson-disease]], [[hereditary-hemochromatosis]], [[hepatocellular-carcinoma]], [[cholangiocarcinoma]], [[drug-induced-liver-injury]], [[portal-hypertension]], [[endoscopic-ultrasound]], [[ascites]], [[acute-liver-failure]], [[anticoagulation-gi-bleeding]], [[iron-overload-and-iron-metabolism]], [[liver-transplantation]]
 
 ---
 

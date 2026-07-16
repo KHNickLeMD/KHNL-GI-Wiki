@@ -3,7 +3,7 @@ title: "Anorectal Manometry (ARM)"
 category: advanced-procedure
 tags: [arm, anorectal-manometry, defecation, biofeedback, dyssynergia, fecal-incontinence]
 created: 2026-05-19
-updated: 2026-05-19
+updated: 2026-07-16
 sources: [acg-2021-anorectal-disorders, acg-2020-ibs]
 ---
 
@@ -15,7 +15,7 @@ High-resolution anorectal manometry (HR-ARM) measures resting and squeeze anal p
 
 ## Key Indications
 
-- Suspected dyssynergic defecation (refractory constipation, [[chronic-idiopathic-constipation]], [[irritable-bowel-syndrome]]-C with refractory symptoms)
+- Suspected dyssynergic defecation (refractory constipation, [[chronic-idiopathic-constipation]], [[irritable-bowel-syndrome|IBS]]-C with refractory symptoms)
 - [[fecal-incontinence]] (assess sphincter function, rectal sensation)
 - Pre-operative evaluation prior to colorectal/anal surgery
 - Hirschsprung disease screening (absent RAIR)
@@ -34,8 +34,7 @@ BET >1 minute (some labs 2 min) abnormal.
 
 ## See Also
 
-
-[[defecation-disorders]], [[fecal-incontinence]], [[chronic-idiopathic-constipation]]
+[[defecation-disorders]], [[fecal-incontinence]], [[chronic-idiopathic-constipation]], [[irritable-bowel-syndrome]], [[biofeedback-therapy]]
 
 ---
 

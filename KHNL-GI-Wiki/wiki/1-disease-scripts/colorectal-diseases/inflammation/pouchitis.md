@@ -3,7 +3,7 @@ title: "Pouchitis"
 category: disease-script
 tags: [pouchitis, ipaa, j-pouch, ulcerative-colitis, ibd, cuffitis, crohns-like-disease-of-the-pouch, antibiotics, probiotics, biologics]
 created: 2026-06-04
-updated: 2026-06-23
+updated: 2026-07-16
 sources: [aga-2024-pouchitis, aga-2020-probiotics, asge-2015-ibd]
 ---
 
@@ -55,7 +55,7 @@ Pragmatic, treatment-anchored definitions (AGA 2024, Table 5):
 - **Cuffitis** — residual UC in the rectal cuff; responds to UC-directed topical therapy.
 - **Structural/surgical:** anastomotic stricture, pouch outlet obstruction, afferent/efferent limb issues, pelvic sepsis/leak.
 - **Functional:** irritable pouch syndrome (symptoms without endoscopic inflammation).
-- **Other mucosal:** ischemia, infection (including *C. difficile*, CMV), NSAID injury.
+- **Other mucosal:** ischemia, infection (including *[[clostridioides-difficile|C. difficile]]*, CMV), NSAID injury.
 - Out of scope of the AGA 2024 guideline: pouches created for **Crohn's** or **FAP**, and pouch dysplasia surveillance.
 
 ---
@@ -83,7 +83,7 @@ Pragmatic, treatment-anchored definitions (AGA 2024, Table 5):
 **Intermittent (acute) pouchitis → antibiotics.**
 - Preferred agents: **ciprofloxacin and/or metronidazole**; typical course **2–4 weeks**.
 - Pooled response ~**65%** (160/239 across studies).
-- Combination antibiotics if no response to monotherapy; **oral vancomycin** or rifaximin as alternatives.
+- Combination antibiotics if no response to monotherapy; **oral vancomycin** or [[rifaximin|rifaximin]] as alternatives.
 - Probiotics for *treatment* of an acute episode: *no recommendation* (knowledge gap).
 
 **Chronic antibiotic-dependent pouchitis → chronic antibiotics OR advanced therapy.**
@@ -128,7 +128,7 @@ All 13 AGA 2024 statements (9 actionable conditional recommendations + 4 "no rec
 
 ## See Also
 
-[[ulcerative-colitis]], [[crohns-disease]], [[inflammatory-bowel-disease]], [[probiotics]], [[colonoscopy]], [[primary-sclerosing-cholangitis]]
+[[ulcerative-colitis]], [[crohns-disease]], [[inflammatory-bowel-disease]], [[probiotics]], [[colonoscopy]], [[primary-sclerosing-cholangitis]], [[clostridioides-difficile]], [[rifaximin]]
 
 ---
 

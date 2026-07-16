@@ -3,7 +3,7 @@ title: "HIV/AIDS-Related Diarrhea"
 category: diagnostic-schema
 tags: [hiv, aids, diarrhea, opportunistic-infections, cd4, immunocompromised, stub]
 created: 2026-06-08
-updated: 2026-06-23
+updated: 2026-07-16
 sources: [acg-2016-acute-diarrhea, asge-2010-diarrhea]
 ---
 
@@ -15,7 +15,7 @@ sources: [acg-2016-acute-diarrhea, asge-2010-diarrhea]
 
 The only directly relevant primary source currently in the wiki is the **ACG 2016 [[acute-diarrhea|acute diarrhea]] guideline** ([[acg-2016-acute-diarrhea]]), which addresses acute diarrheal infections generally and notes a few points relevant to immunocompromised hosts:
 
-- ***Cryptosporidium*** ([[cryptosporidiosis]]) — treated with **nitazoxanide**; immunocompromised patients (HIV/AIDS, transplant) are at highest risk for severe and chronic disease.
+- ***Cryptosporidium*** ([[cryptosporidiosis]]) — treated with **[[nitazoxanide]]**; immunocompromised patients (HIV/AIDS, transplant) are at highest risk for severe and chronic disease.
 - **Microsporidiosis** (*Enterocytozoon bieneusi*) — treated with **albendazole** or **iodoquinol**.
 - **Bismuth subsalicylate is contraindicated in HIV** (risk of bismuth encephalopathy from excessive absorption).
 - See [[acg-2016-acute-diarrhea]] / [[acute-diarrhea]] for the general acute-diarrhea diagnostic and management framework.
@@ -37,7 +37,7 @@ The only directly relevant primary source currently in the wiki is the **ACG 201
 
 ## See Also
 
-[[acg-2016-acute-diarrhea]], [[acute-diarrhea]], [[chronic-diarrhea]], [[cryptosporidiosis]], [[colonoscopy]]
+[[acute-diarrhea]], [[chronic-diarrhea]], [[cryptosporidiosis]], [[nitazoxanide]], [[colonoscopy]], [[upper-endoscopy]]
 
 ---
 

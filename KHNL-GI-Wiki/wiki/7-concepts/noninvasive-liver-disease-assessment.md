@@ -3,11 +3,11 @@ title: "Noninvasive Liver Disease Assessment (NILDA)"
 category: concept
 tags: [nilda, fibrosis, steatosis, fib-4, elf, vcte, mre, mri-pdff, noninvasive, biomarkers, hpb, liver]
 created: 2026-05-31
-updated: 2026-05-31
+updated: 2026-07-16
 sources: [aasld-2024-nilda-blood, aasld-2023-nafld, aasld-2025-semaglutide-mash, aasld-2024-nilda-imaging, aasld-2024-nilda-portal-htn]
 ---
 
-Noninvasive liver disease assessment (NILDA) is the set of blood-based and imaging-based tools that estimate **hepatic fibrosis** and **steatosis** without biopsy. AASLD published companion 2024 practice guidelines for blood-based and imaging-based NILDA; the framework now drives screening, risk stratification, pharmacotherapy candidacy, and (with caveats) treatment monitoring in [[nafld-masld]].
+Noninvasive liver disease assessment (NILDA) is the set of blood-based and imaging-based tools that estimate **hepatic fibrosis** and **steatosis** without [[liver-biopsy|biopsy]]. AASLD published companion 2024 practice guidelines for blood-based and imaging-based NILDA; the framework now drives screening, risk stratification, pharmacotherapy candidacy, and (with caveats) treatment monitoring in [[nafld-masld]].
 
 ## Core principle
 
@@ -37,8 +37,7 @@ Most blood/imaging NITs have **high negative predictive value (rule-out)** but *
 
 ## See Also
 
-
-[[nafld-masld]], [[semaglutide]], [[portal-hypertension]], [[primary-sclerosing-cholangitis]], [[primary-biliary-cholangitis]], [[hereditary-hemochromatosis]]
+[[nafld-masld]], [[semaglutide]], [[portal-hypertension]], [[primary-sclerosing-cholangitis]], [[primary-biliary-cholangitis]], [[hereditary-hemochromatosis]], [[liver-biopsy]], [[resmetirom]], [[hcc-surveillance]]
 
 ---
 

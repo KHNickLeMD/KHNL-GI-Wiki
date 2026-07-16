@@ -3,7 +3,7 @@ title: "POEM (Peroral Endoscopic Myotomy)"
 category: advanced-procedure
 tags: [poem, achalasia, myotomy, motility, esophageal, foregut, gerd]
 created: 2026-05-16
-updated: 2026-06-10
+updated: 2026-07-16
 sources: [sages-2024-poem, sages-2021-poem]
 ---
 
@@ -13,7 +13,7 @@ sources: [sages-2024-poem, sages-2021-poem]
 
 - **[[achalasia|Achalasia]] Type I and II:** equivalent outcomes to PD and [[heller-myotomy|LHM]] (ACG 2020 [[achalasia]])
 - **Achalasia Type III (spastic):** POEM preferred over LHM — tailored long myotomy achieves higher success rates (93% vs. 71%); myotomy can be extended onto the esophageal body for spastic segments
-- **EGJOO (EGJ outflow obstruction):** when symptomatic and confirmed on TBE or FLIP; clinical achalasia spectrum
+- **EGJOO (EGJ outflow obstruction):** when symptomatic and confirmed on TBE or [[flip-panometry|FLIP]]; clinical achalasia spectrum
 - **Diffuse esophageal spasm / [[hypercontractile-esophagus|hypercontractile esophagus]]:** selected cases with [[dysphagia]]-predominant symptoms — see [[distal-esophageal-spasm]], [[hypercontractile-esophagus]]
 - **G-POEM (gastric POEM):** pyloric myotomy for refractory [[gastroparesis]] — see [[gastroparesis]]
 
@@ -24,7 +24,7 @@ sources: [sages-2024-poem, sages-2021-poem]
 **Myotomy extent varies by indication:**
 
 - Achalasia: extends 2–3 cm onto gastric cardia
-- Type III: proximal extension to level of spasm on HRM
+- Type III: proximal extension to level of spasm on [[high-resolution-manometry|HRM]]
 - G-POEM: pyloric myotomy 3 cm
 
 ## Outcomes
@@ -35,10 +35,10 @@ sources: [sages-2024-poem, sages-2021-poem]
 | Achalasia Type III | ~93% (vs. 71% LHM) |
 | G-POEM (gastroparesis) | 88.2% symptom improvement; GE normalization 61.3% |
 
-**[[gerd|GERD]] after POEM (critical):** Pathologic GERD on pH monitoring in ~39% post-POEM vs. ~17% post-LHM ([[achalasia]]). All POEM patients require:
+**[[gerd|GERD]] after POEM (critical):** Pathologic GERD on [[ambulatory-reflux-monitoring|pH monitoring]] in ~39% post-POEM vs. ~17% post-LHM ([[achalasia]]). All POEM patients require:
 
 - Lifelong PPI
-- Periodic EGD for Barrett's surveillance
+- Periodic [[upper-endoscopy|EGD]] for [[barretts-esophagus|Barrett's]] surveillance
 - pH monitoring at follow-up to guide PPI dosing
 
 ---
@@ -49,8 +49,7 @@ sources: [sages-2024-poem, sages-2021-poem]
 
 ## See Also
 
-
-[[achalasia]], [[heller-myotomy]], [[high-resolution-manometry]], [[gastroparesis]], [[distal-esophageal-spasm]], [[hypercontractile-esophagus]]
+[[achalasia]], [[heller-myotomy]], [[high-resolution-manometry]], [[flip-panometry]], [[gastroparesis]], [[gerd]], [[distal-esophageal-spasm]], [[hypercontractile-esophagus]]
 
 ---
 

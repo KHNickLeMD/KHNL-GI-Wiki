@@ -3,7 +3,7 @@ title: "Defecation Disorders (Dyssynergic Defecation)"
 category: disease-script
 tags: [defecation-disorder, dyssynergia, outlet-obstruction, biofeedback, anorectal-manometry, colorectal, pelvic-floor]
 created: 2026-05-16
-updated: 2026-07-02
+updated: 2026-07-16
 sources: [acg-2021-anorectal-disorders, aga-acg-2023-constipation]
 ---
 
@@ -128,7 +128,6 @@ Severity based on symptom burden, laxative dependence, impact on QoL (PAC-QoL, P
 ---
 
 ## See Also
-
 [[chronic-idiopathic-constipation]], [[fecal-incontinence]], [[hemorrhoids]], [[anal-fissure]], [[rectal-prolapse]], [[anorectal-manometry]], [[biofeedback-therapy]], [[sacral-nerve-stimulation]]
 
 ---

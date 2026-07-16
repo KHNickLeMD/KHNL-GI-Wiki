@@ -3,7 +3,7 @@ title: "Operational Tolerance (Transplant)"
 category: concept
 tags: [operational-tolerance, immunosuppression, liver-transplant, is-withdrawal, tolerance]
 created: 2026-05-19
-updated: 2026-05-25
+updated: 2026-07-16
 sources: [aasld-2012-liver-transplant-long-term, aasld-ast-2025-liver-transplant-graft-complications]
 ---
 
@@ -43,7 +43,7 @@ Per [[aasld-2012-liver-transplant-long-term]] (Rec 9): withdrawal may be underta
 
 ## See Also
 
-[[liver-transplantation]], [[calcineurin-inhibitors]], [[tacrolimus]]
+[[liver-transplantation]], [[calcineurin-inhibitors]], [[tacrolimus]], [[antibody-mediated-rejection-liver-transplant]], [[liver-biopsy]], [[autoimmune-hepatitis]]
 
 ---
 

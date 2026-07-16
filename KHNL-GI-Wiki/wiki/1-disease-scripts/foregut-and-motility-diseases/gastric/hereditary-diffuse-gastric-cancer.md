@@ -3,7 +3,7 @@ title: "Hereditary Diffuse Gastric Cancer"
 category: disease-script
 tags: [hdgc, cdh1, e-cadherin, diffuse-gastric-cancer, signet-ring-cell, lobular-breast-cancer, hereditary-cancer, prophylactic-gastrectomy, genetic-testing]
 created: 2026-05-19
-updated: 2026-05-19
+updated: 2026-07-16
 sources: [acg-2015-hereditary-gi-cancer]
 ---
 
@@ -11,7 +11,8 @@ sources: [acg-2015-hereditary-gi-cancer]
 
 ### Establishing the Diagnosis
 
-Hereditary diffuse gastric cancer (HDGC) is an autosomal-dominant hereditary cancer syndrome caused by germline pathogenic variants in the **CDH1** gene (E-cadherin), responsible for ~1–3% of all gastric cancers [[acg-2015-hereditary-gi-cancer]].
+- Autosomal-dominant hereditary cancer syndrome caused by germline pathogenic variants in **CDH1** (E-cadherin) [[acg-2015-hereditary-gi-cancer]]
+- Responsible for ~1–3% of all [[gastric-adenocarcinoma|gastric cancers]]
 
 **Clinical criteria — genetic evaluation for HDGC is indicated if any one criterion is met** [[acg-2015-hereditary-gi-cancer]]:
 
@@ -20,22 +21,25 @@ Hereditary diffuse gastric cancer (HDGC) is an autosomal-dominant hereditary can
 - (iii) Diffuse gastric cancer diagnosed at <40 years
 - (iv) Personal or family history of diffuse gastric cancer AND lobular breast cancer, with one diagnosed at <50 years
 
-**CDH1 mutation yield**: 10.5–47% of individuals meeting these criteria will have a CDH1 mutation [[acg-2015-hereditary-gi-cancer]]. CDH1 testing should include sequencing (captures 3–50% of mutations as sequence changes) AND deletion/duplication analysis (4% are large rearrangements).
+**CDH1 mutation yield** [[acg-2015-hereditary-gi-cancer]]:
 
-**All at-risk individuals should be tested beginning at age 16** given the early ages of gastric cancer diagnosis in some families.
+- 10.5–47% of individuals meeting these criteria carry a CDH1 mutation
+- Testing must include sequencing (3–50% of mutations are sequence changes) AND deletion/duplication analysis (4% are large rearrangements)
+- **Test all at-risk individuals beginning at age 16** — early ages of gastric cancer diagnosis in some families
 
 **Genetic etiology**:
 
-- CDH1 encodes E-cadherin, a cell-to-cell adhesion protein; germline CDH1 mutations were linked to HDGC in 1998
-- Autosomal dominant; high penetrance
+- CDH1 encodes E-cadherin, a cell-to-cell adhesion protein; germline CDH1 mutations linked to HDGC in 1998
+- High penetrance
 - Signet-ring cell cancer is the pathological hallmark; linitis plastica is the advanced form
 
-### Cancer Risk Profile [[acg-2015-hereditary-gi-cancer]]
+### Severity Assessment
+
+Cancer risk profile [[acg-2015-hereditary-gi-cancer]]:
 
 - **Gastric cancer**: 67% lifetime risk in males; 83% in females; mean age of diagnosis 38–40 years (range 14–85 years)
 - **Lobular breast cancer**: 39% cumulative lifetime risk in female CDH1 carriers
 - Signet-ring cell colon cancer: also at increased risk (exact risk unknown)
-- Pre-gastrectomy [[upper-endoscopy|EGD]] biopsies may be negative even when residual cancer is present — 62.7% of prophylactic gastrectomy specimens have negative preoperative biopsies, yet 87% of surgical specimens show positive histopathology (early signet-ring cells to advanced linitis plastica)
 
 ---
 
@@ -61,10 +65,10 @@ Hereditary diffuse gastric cancer (HDGC) is an autosomal-dominant hereditary can
 
 **For individuals who have a CDH1 mutation but decline or defer gastrectomy**, or for **pre-gastrectomy assessment** [[acg-2015-hereditary-gi-cancer]]:
 
-- Detailed 30-minute EGD with **multiple random biopsies** every 6–12 months beginning 5–10 years before the earliest cancer in the family
+- Detailed 30-minute [[upper-endoscopy|EGD]] with **multiple random biopsies** every 6–12 months beginning 5–10 years before the earliest cancer in the family
 - Enhanced visualization techniques may improve detection: **indigo-carmine staining** or **pH-sensitive congo red dye** followed by **pentagastrin stimulation** — improves detection of early gastric cancer
 - Esophageal and duodenal mucosa should be carefully inspected at the surgical specimen ends (gastric cancer after prophylactic gastrectomy has been reported)
-- Gastric cancer surveillance efficacy is uncertain; sensitivity of pre-gastrectomy EGD is limited (12.4% of surgical specimens positive for cancer despite negative pre-op biopsies in a systematic review)
+- Gastric cancer surveillance efficacy is uncertain; sensitivity of pre-gastrectomy EGD is limited — biopsies may be negative even when residual cancer is present (see the systematic-review figures under [[#Prophylactic Gastrectomy]])
 
 ---
 
@@ -84,8 +88,8 @@ Key data:
 
 **Post-gastrectomy**:
 
-- Annual breast surveillance (MRI + mammography) from age 35 in women (equivalent to BRCA1/BRCA2-based protocols given 39% lobular breast cancer risk)
-- [[colonoscopy|Colonoscopy]] beginning at age 40 in families that include colon cancer (Conditional/Low)
+- Annual breast surveillance (MRI + mammography) from age 35 in women (equivalent to [[brca-pathogenic-variants|BRCA1/BRCA2]]-based protocols given 39% lobular breast cancer risk)
+- [[colonoscopy]] beginning at age 40 in families that include colon cancer (Conditional/Low)
 
 ### Surveillance for Those Declining Gastrectomy
 
@@ -96,8 +100,7 @@ Key data:
 
 ## See Also
 
-
-[[gastric-premalignant-conditions]], [[gastric-intestinal-metaplasia]], [[gastric-adenocarcinoma]], [[helicobacter-pylori-infection]], [[lynch-syndrome]], [[familial-adenomatous-polyposis]], [[peutz-jeghers-syndrome]], [[upper-endoscopy]], [[colonoscopy]]
+[[gastric-premalignant-conditions]], [[gastric-intestinal-metaplasia]], [[gastric-adenocarcinoma]], [[helicobacter-pylori-infection]], [[lynch-syndrome]], [[familial-adenomatous-polyposis]], [[peutz-jeghers-syndrome]], [[brca-pathogenic-variants]], [[upper-endoscopy]], [[colonoscopy]]
 
 ---
 

@@ -3,7 +3,7 @@ title: "Budd-Chiari Syndrome"
 category: disease-script
 tags: [budd-chiari, hepatic-vein, thrombosis, portal-hypertension, liver-failure, mpn, jak2, anticoagulation, tips]
 created: 2026-05-21
-updated: 2026-05-21
+updated: 2026-07-16
 sources: [acg-2020-hepatic-mesenteric-circulation]
 ---
 
@@ -67,7 +67,7 @@ Key predictors of poor outcome: [[hepatic-encephalopathy|hepatic encephalopathy]
 **Imaging (first-line)** [[acg-2020-hepatic-mesenteric-circulation]]:
 
 - **Doppler ultrasound**: first-line (Conditional, Low evidence); absent or reversed hepatic venous flow, thrombus in hepatic veins or IVC, caudate hypertrophy, collateral formation
-- **Contrast-enhanced CT** or **MRI**: definitive confirmation when Doppler inconclusive; CT portal venous phase shows thrombus; MRI superior for chronic changes; MRCP when bile duct involvement suspected (Conditional, Low evidence)
+- **Contrast-enhanced CT** or **MRI**: definitive confirmation when Doppler inconclusive; CT portal venous phase shows thrombus; MRI superior for chronic changes; [[mri-mrcp|MRCP]] when bile duct involvement suspected (Conditional, Low evidence)
 
 **Thrombophilia workup** (required in all BCS patients):
 
@@ -142,8 +142,7 @@ Step 4: [[liver-transplantation|Liver transplantation]]
 
 ## See Also
 
-
-[[portal-vein-thrombosis]], [[hepatocellular-carcinoma]], [[acute-liver-failure]], [[liver-transplantation]], [[cirrhosis-hemostasis]], [[portal-hypertension]], [[hepatic-encephalopathy]], [[ascites]], [[hcc-surveillance]]
+[[portal-vein-thrombosis]], [[hepatocellular-carcinoma]], [[acute-liver-failure]], [[liver-transplantation]], [[cirrhosis-hemostasis]], [[portal-hypertension]], [[hepatic-encephalopathy]], [[ascites]], [[jaundice]], [[hcc-surveillance]], [[liver-biopsy]], [[mri-mrcp]]
 
 ---
 

@@ -3,7 +3,7 @@ title: "Gastric Intestinal Metaplasia"
 category: disease-script
 tags: [gastric-intestinal-metaplasia, gim, gastric-cancer, h-pylori, correa-cascade, premalignant, foregut, gastric]
 created: 2026-05-16
-updated: 2026-07-14
+updated: 2026-07-16
 sources: [aga-2020-gastric-intestinal-metaplasia, acg-2025-gastric-premalignant]
 ---
 
@@ -127,7 +127,7 @@ GIM affects approximately 5% of the US population. Prevalence is higher in high-
 
 ### 4. If Dysplasia Is Found (ACG 2025)
 
-- **Dysplasia (IND/LGD/HGD) with visible, delineated margins:** endoscopic resection — ESD preferred over EMR for en-bloc removal (Conditional/Low)
+- **Dysplasia (IND/LGD/HGD) with visible, delineated margins:** endoscopic resection — [[endoscopic-submucosal-dissection|ESD]] preferred over [[polypectomy-emr|EMR]] for en-bloc removal (Conditional/Low)
 - **Dysplasia without a visible lesion:** repeat EGD with HDWLE + IEE by an experienced endoscopist to localize before resection (Conditional/Low). IND/LGD → repeat in 12 months; HGD → repeat within 3 months
 - **Refer to a high-volume center** with expertise in gastric neoplasia for endoscopic resection, especially ESD (Strong/Low)
 - **After complete resection:** endoscopic surveillance with HDWLE + IEE + systematic and targeted biopsies (Strong/Low)

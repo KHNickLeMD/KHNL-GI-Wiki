@@ -3,7 +3,7 @@ title: "Upper GI Bleeding"
 category: diagnostic-schema
 tags: [ugib, peptic-ulcer, gi-bleeding, endoscopy, forrest, glasgow-blatchford, melena]
 created: 2026-05-15
-updated: 2026-07-05
+updated: 2026-07-16
 sources: [acg-2021-ugib]
 ---
 
@@ -28,7 +28,7 @@ Severe hematochezia with hemodynamic instability may reflect UGIB in approximate
 - History of [[peptic-ulcer-disease|peptic ulcer disease]], NSAIDs/anticoagulants, cirrhosis, or known varices
 - Melena on rectal exam
 
-Features favoring LGIB (against UGIB):
+Features favoring [[acute-lower-gi-bleeding|LGIB]] (against UGIB):
 
 - Blood clots in stool (LR 0.05 for UGIB — clots argue for LGIB)
 - Nasogastric aspirate is unreliable (sensitivity only 28% for UGIB) — routine NG tube NOT recommended
@@ -46,7 +46,7 @@ If UGIB is clinically suspected in a patient presenting with apparent LGIB, perf
 | **[[peptic-ulcer-disease\|Peptic ulcer disease]]** (gastric or duodenal) | Most common cause; NSAID use, [[helicobacter-pylori-infection]], or idiopathic; hematemesis or melena; may present with syncope |
 | **Mallory-Weiss tear** | Longitudinal mucosal tear at GEJ; precipitated by forceful vomiting; typically self-limited |
 | **Dieulafoy lesion** | Aberrant large-caliber submucosal artery with pinpoint mucosal defect; massive bleeding; often proximal stomach; subtle endoscopic finding |
-| **Gastric/esophageal malignancy** | Weight loss, [[dysphagia]], early satiety; iron-deficiency anemia; mass on imaging |
+| **[[gastric-adenocarcinoma\|Gastric]] / [[esophageal-cancer\|esophageal]] malignancy** | Weight loss, [[dysphagia]], early satiety; iron-deficiency anemia; mass on imaging |
 | **[[angioectasia\|Angiodysplasia / AVM]]** | Older patients; anticoagulant use; often right-sided gastric or duodenal lesions; vascular ectasia on endoscopy |
 | **Aortoenteric fistula** | History of aortic graft surgery; sentinel bleed followed by massive exsanguination; CT imaging urgently |
 | **Cameron lesions** | Erosions at diaphragmatic hiatal hernia; chronic iron-deficiency more than overt bleeding |
@@ -294,7 +294,7 @@ High-risk stigmata (Forrest Ia, Ib, IIa) mandate endoscopic hemostatic therapy. 
 
 ## See Also
 
-[[variceal-upper-gi-bleeding]], [[acute-lower-gi-bleeding]], [[small-bowel-bleeding]], [[peptic-ulcer-disease]], [[helicobacter-pylori-infection]], [[upper-endoscopy]], [[portal-hypertension]], [[anticoagulation-gi-bleeding]]
+[[variceal-upper-gi-bleeding]], [[acute-lower-gi-bleeding]], [[small-bowel-bleeding]], [[peptic-ulcer-disease]], [[helicobacter-pylori-infection]], [[upper-endoscopy]], [[colonoscopy]], [[portal-hypertension]], [[anticoagulation-gi-bleeding]], [[angioectasia]], [[gastric-adenocarcinoma]], [[esophageal-cancer]]
 
 ---
 

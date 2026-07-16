@@ -3,12 +3,8 @@ title: "Hereditary Hemochromatosis"
 category: disease-script
 tags: [hemochromatosis, iron-overload, hfe, c282y, phlebotomy, liver, hpb, genetics, ferritin, transferrin-saturation, cirrhosis, hcc, arthropathy, cardiomyopathy, endocrine]
 created: 2026-05-19
-updated: 2026-06-10
+updated: 2026-07-16
 sources: [acg-2019-hereditary-hemochromatosis, acg-2017-liver-chemistries, aasld-2011-hemochromatosis]
----
-
-# Hereditary Hemochromatosis
-
 ---
 
 ## Assessment
@@ -87,6 +83,8 @@ sources: [acg-2019-hereditary-hemochromatosis, acg-2017-liver-chemistries, aasld
 ---
 
 ## Differential Diagnosis
+
+*Workup: see [[abnormal-liver-chemistries]].*
 
 - Secondary iron overload (see above) — most important DDx when non-C282Y genotype
 - [[alcohol-associated-liver-disease]] — hyperferritinemia very common; AUD more common than HH in patients with elevated SF who are not C282Y/C282Y or C282Y/H63D
@@ -245,7 +243,7 @@ sources: [acg-2019-hereditary-hemochromatosis, acg-2017-liver-chemistries, aasld
 
 - **Iron-loading anemias** (thalassemia, sickle cell): chelation preferred over phlebotomy (phlebotomy risks worsening anemia); SF >800 ng/mL threshold for treatment in non–transfusion-dependent iron-loading anemias
 - **ALD**: screen all patients for AUD and counsel abstinence before pursuing iron removal
-- **HCV**: phlebotomy + iron depletion shown to improve virologic response to interferon-based therapy; less relevant in era of direct-acting antivirals
+- **HCV**: phlebotomy + iron depletion shown to improve virologic response to interferon-based therapy; less relevant in era of [[direct-acting-antivirals|direct-acting antivirals]]
 - **NAFLD**: phlebotomy reduces SF but RCT (Adams et al.) showed no improvement in liver aminotransferases, hepatic fat, or insulin resistance; indications remain controversial
 
 ### Liver Transplantation

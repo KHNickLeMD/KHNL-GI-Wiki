@@ -3,7 +3,7 @@ title: "Probiotics"
 category: med
 tags: [probiotics, microbiome, dysbiosis, cdiff, ibd, pouchitis, ibs, nec, infectious-diarrhea]
 created: 2026-06-04
-updated: 2026-06-09
+updated: 2026-07-16
 sources: [aga-2020-probiotics]
 ---
 
@@ -11,7 +11,7 @@ Probiotics are live microorganisms that, when administered in adequate amounts, 
 
 ## AGA 2020 Recommendations by Condition
 
-The AGA 2020 guideline ([[aga-2020-probiotics]]) used GRADE to grade probiotic use across eight GI indications. Strength is **conditional** unless noted; most indications were "no recommendation" because of a knowledge gap.
+The AGA 2020 guideline ([[aga-2020-probiotics]]) used GRADE to grade probiotic use across eight GI indications, several of them in [[inflammatory-bowel-disease|inflammatory bowel disease]]. Strength is **conditional** unless noted; most indications were "no recommendation" because of a knowledge gap.
 
 ### Conditional recommendation FOR
 
@@ -42,7 +42,7 @@ The AGA recommends probiotic use **only in the context of a clinical trial** (no
 
 - Probiotic recommendations do **not** transfer across products — match the specific strain/combination and dose to the indication studied.
 - Potential harms (sepsis, especially in immunocompromised or severely ill patients) and cost are relevant trade-offs, particularly for low-risk indications.
-- Probiotics are an attempt to correct [[inflammatory-bowel-disease|microbiome]]-related dysbiosis; for established recurrent C difficile, [[clostridioides-difficile|fecal microbiota transplantation]] has stronger evidence than probiotics.
+- Probiotics are an attempt to correct microbiome-related dysbiosis; for established recurrent C difficile, fecal microbiota transplantation has stronger evidence than probiotics.
 
 ## See Also
 

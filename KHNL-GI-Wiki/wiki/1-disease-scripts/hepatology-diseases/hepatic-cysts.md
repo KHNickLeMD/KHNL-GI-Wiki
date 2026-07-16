@@ -3,7 +3,7 @@ title: "Hepatic Cysts"
 category: disease-script
 tags: [hepatic-cysts, liver, hpb, focal-liver-lesion, simple-cyst, complex-cyst, polycystic-liver]
 created: 2026-05-07
-updated: 2026-06-23
+updated: 2026-07-16
 sources: [acg-2024-focal-liver-lesions]
 ---
 
@@ -46,8 +46,8 @@ sources: [acg-2024-focal-liver-lesions]
 - **Pyogenic liver abscess** — fever, elevated WBC, right-sided pleuritic pain; internal debris/air; travel history or recent biliary intervention; amoebic abscess (tropical exposure, elevated serology)
 - **[[hepatocellular-carcinoma|HCC]] with necrosis** — in cirrhotic background; [[li-rads|LI-RADS]] features; solid areas
 - **Mucinous cystic neoplasm (MCN)** — middle-aged women; cystic + solid components; does not communicate with bile ducts; ovarian-type stroma on histology
-- **Intraductal papillary mucinous neoplasm (IPMN) — biliary type** (BT-IPMN): communicates with bile duct; ductal dilation on MRCP
-- **Metastasis (cystic)** — neuroendocrine tumor, GI stromal tumor; known primary malignancy
+- **Intraductal papillary mucinous neoplasm (IPMN) — biliary type** (BT-IPMN): communicates with bile duct; ductal dilation on [[mri-mrcp|MRCP]]
+- **Metastasis (cystic)** — [[gastroenteropancreatic-neuroendocrine-tumors|neuroendocrine tumor]], [[gastrointestinal-stromal-tumor|GI stromal tumor]]; known primary malignancy
 
 ---
 
@@ -101,7 +101,7 @@ sources: [acg-2024-focal-liver-lesions]
 
 - Associated with autosomal dominant polycystic kidney disease (ADPKD) in ~80% of cases; or isolated autosomal dominant polycystic liver disease (ADPLD)
 - Symptoms from mass effect: abdominal pain, early satiety, dyspnea (diaphragm compression)
-- **Somatostatin analogues** (octreotide LAR, lanreotide): reduce liver volume by ~5–10%; indicated for symptomatic polycystic liver disease
+- **[[somatostatin-analogs|Somatostatin analogues]]** (octreotide LAR, lanreotide): reduce liver volume by ~5–10%; indicated for symptomatic polycystic liver disease
 - **mTOR inhibitors** (sirolimus, everolimus): modest effect; mainly for concurrent polycystic kidney disease
 - **Cyst aspiration/fenestration:** for dominant symptomatic cysts
 - **Liver resection ± [[liver-transplantation|liver transplantation]]:** for extreme cases with massive hepatomegaly and quality-of-life impairment

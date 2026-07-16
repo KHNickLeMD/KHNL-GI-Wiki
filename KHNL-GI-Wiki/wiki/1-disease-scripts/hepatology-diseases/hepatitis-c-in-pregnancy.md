@@ -3,7 +3,7 @@ title: "Hepatitis C in Pregnancy"
 category: disease-script
 tags: [hepatitis-c, hcv, pregnancy, vertical-transmission, perinatal, hpb, liver]
 created: 2026-05-19
-updated: 2026-05-19
+updated: 2026-07-16
 sources: [acg-2016-liver-disease-pregnancy]
 ---
 
@@ -13,7 +13,7 @@ sources: [acg-2016-liver-disease-pregnancy]
 
 ### Establishing the Diagnosis
 
-- Screen pregnant women with risk factors for HCV with anti-HCV antibody (Rec 26 — strong, low evidence); universal screening not recommended per 2016 ACG guidance (note: CDC and USPSTF now recommend universal screening in pregnancy — this 2016 guidance is likely superseded)
+- Screen pregnant women with risk factors for [[hepatitis-c|HCV]] with anti-HCV antibody (Rec 26 — strong, low evidence); universal screening not recommended per 2016 ACG guidance (note: CDC and USPSTF now recommend universal screening in pregnancy — this 2016 guidance is likely superseded)
 - HCV RNA for confirmation and viral load quantification
 
 ### Key Clinical Facts
@@ -28,7 +28,9 @@ sources: [acg-2016-liver-disease-pregnancy]
 
 ## Differential Diagnosis
 
-- [[liver-disease-in-pregnancy]] — pregnancy-specific liver diseases (IHCP, AFLP, HELLP) to distinguish from HCV flare
+*Workup: see [[liver-disease-in-pregnancy]].*
+
+- Pregnancy-specific liver diseases (IHCP, AFLP, HELLP) — to distinguish from HCV flare
 - [[drug-induced-liver-injury]] — medication history
 - [[autoimmune-hepatitis]] — postpartum flare of AIH can mimic HCV
 
@@ -53,7 +55,6 @@ sources: [acg-2016-liver-disease-pregnancy]
 ---
 
 ## See Also
-
 
 [[hepatitis-c]], [[liver-disease-in-pregnancy]], [[chronic-hepatitis-b]], [[acute-liver-failure]], [[direct-acting-antivirals]], [[autoimmune-hepatitis]], [[drug-induced-liver-injury]]
 

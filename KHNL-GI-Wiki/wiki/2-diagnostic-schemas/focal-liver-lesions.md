@@ -3,7 +3,7 @@ title: "Focal Liver Lesions"
 category: diagnostic-schema
 tags: [focal-liver-lesion, liver, hpb, mri, gadoxetate, ceus, fnh, hca, hemangioma, hcc]
 created: 2026-06-20
-updated: 2026-06-20
+updated: 2026-07-16
 sources: [acg-2024-focal-liver-lesions]
 ---
 
@@ -31,13 +31,13 @@ sources: [acg-2024-focal-liver-lesions]
 ## Diagnostic Algorithm
 
 - **Step 1 — context:** cirrhosis? known primary malignancy? hormone/steroid use? sex?
-- **Step 2 — multiphasic imaging:** contrast-enhanced **MRI with a hepatobiliary agent (gadoxetate)** is the preferred problem-solver; **CEUS** is a valid alternative. Multiphasic CT is acceptable but less specific.
+- **Step 2 — multiphasic imaging:** contrast-enhanced **[[mri-mrcp|MRI]] with a hepatobiliary agent (gadoxetate)** is the preferred problem-solver; **CEUS** is a valid alternative. Multiphasic CT is acceptable but less specific.
 - **Step 3 — characterize** using the comparison below. The **hepatobiliary (20-min) phase is the key discriminator: FNH takes up gadoxetate; HCA, hemangioma, and HCC do not.**
-- **Step 4 — biopsy** only when imaging is indeterminate *and* the result would change management (avoid in suspected hemangioma — bleed risk).
+- **Step 4 — [[liver-biopsy|biopsy]]** only when imaging is indeterminate *and* the result would change management (avoid in suspected hemangioma — bleed risk).
 
 ---
 
-## Key Tests — Imaging Comparison
+## Key Tests
 
 | Lesion | T2 signal | Arterial phase | Portal / delayed | Hepatobiliary phase (gadoxetate) | Central scar | Malignant potential |
 |---|---|---|---|---|---|---|
@@ -62,7 +62,7 @@ sources: [acg-2024-focal-liver-lesions]
 
 ## See Also
 
-[[focal-nodular-hyperplasia]], [[hepatocellular-adenoma]], [[hepatic-hemangioma]], [[hepatocellular-carcinoma]], [[hepatic-cysts]], [[li-rads]], [[cholangiocarcinoma]]
+[[focal-nodular-hyperplasia]], [[hepatocellular-adenoma]], [[hepatic-hemangioma]], [[hepatocellular-carcinoma]], [[hepatic-cysts]], [[li-rads]], [[cholangiocarcinoma]], [[mri-mrcp]], [[liver-biopsy]], [[hcc-surveillance]]
 
 ---
 

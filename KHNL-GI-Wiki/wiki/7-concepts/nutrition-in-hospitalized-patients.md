@@ -3,7 +3,7 @@ title: "Nutrition Therapy in the Hospitalized Patient"
 category: concept
 tags: [nutrition, enteral-nutrition, parenteral-nutrition, malnutrition, icu, critical-care, hospitalized-patient]
 created: 2026-05-21
-updated: 2026-07-01
+updated: 2026-07-16
 sources: [acg-2016-nutrition-hospitalized, asge-2025-gastrostomy-tubes, asge-2011-enteral-feeding]
 ---
 
@@ -70,7 +70,7 @@ Radiologic confirmation of tube position is required before EN initiation (Stron
 **Duration-based access rule** ([[asge-2011-enteral-feeding]]): choose **nasoenteric** feeding when peroral intake is expected to resume **within 30 days**; use a **percutaneous endoscopic tube** (PEG, or PEGJ/DPEJ for post-pyloric access) when longer-term EN is needed. In acute dysphagic stroke, consider PEG only if a 2-3 week nasoenteric trial fails to improve swallowing.
 
 - **PEGJ / DPEJ** (post-pyloric): indicated for severe [[gerd|GERD]], [[gastroparesis]], or recurrent tube-feed aspiration.
-- **Periprocedural care:** give an IV **prophylactic antibiotic** before percutaneous tube placement (reduces peristomal infection); tube feeds may safely start **within 4 hours** of placement.
+- **Periprocedural care:** give an IV **[[antibiotic-prophylaxis-endoscopy|prophylactic antibiotic]]** before percutaneous tube placement (reduces peristomal infection); tube feeds may safely start **within 4 hours** of placement.
 - **Absolute contraindications** to PEG: inability to appose gastric and abdominal walls, obstruction precluding endoscope passage, uncorrectable coagulopathy.
 - **Outcomes/complications:** PEG complication rate 4.9-10.3% (serious 1.5-4%); procedure-related mortality ~0.5%, but 30-day all-cause mortality ~15% (driven by underlying comorbidity — set expectations in goals-of-care discussions). Recognized complications include aspiration, bleeding, perforation, **buried bumper syndrome**, peristomal infection, colocutaneous/gastrocolic fistula, and (usually benign) pneumoperitoneum. A **mature tract** is required before non-endoscopic tube/button replacement.
 
@@ -140,12 +140,9 @@ Immune-modulating formulas (arginine, glutamine, omega-3 fatty acids) are NOT re
 
 ---
 
-*See also: [[acute-pancreatitis]] | [[nutrition-in-liver-disease]] | [[inflammatory-bowel-disease]] | [[aki-in-cirrhosis]]*
-
 ## See Also
 
-
-[[acute-pancreatitis]], [[nutrition-in-liver-disease]], [[inflammatory-bowel-disease]], [[aki-in-cirrhosis]]
+[[acute-pancreatitis]], [[nutrition-in-liver-disease]], [[inflammatory-bowel-disease]], [[aki-in-cirrhosis]], [[obesity]], [[gastroparesis]], [[gerd]], [[antibiotic-prophylaxis-endoscopy]], [[upper-endoscopy]]
 
 ---
 

@@ -3,8 +3,8 @@ title: "Colonoscopy"
 category: general-procedure
 tags: [colonoscopy, crc-screening, polypectomy, surveillance, adenoma, serrated-polyp, colorectal, bowel-prep, split-dose, post-resection, crc-surveillance, metachronous]
 created: 2026-05-07
-updated: 2026-06-10
-sources: [usmstf-2020-followup-colonoscopy, usmstf-2021-crc-screening-age, usmstf-2020-endoscopic-removal, usmstf-2025-bowel-prep, acg-2025-bowel-prep, acg-2014-bowel-cleansing, usmstf-2015-crc-surveillance, aga-2025-cade-colonoscopy]
+updated: 2026-07-16
+sources: [usmstf-2020-followup-colonoscopy, usmstf-2021-crc-screening-age, usmstf-2020-endoscopic-removal, usmstf-2025-bowel-prep, acg-2025-bowel-prep, acg-2014-bowel-cleansing, usmstf-2015-crc-surveillance, aga-2025-cade-colonoscopy, asge-2015-scenic-ibd-dysplasia]
 ---
 
 # Colonoscopy
@@ -13,11 +13,11 @@ sources: [usmstf-2020-followup-colonoscopy, usmstf-2021-crc-screening-age, usmst
 
 ## Indications
 
-- CRC screening (average risk: start at 45–50)
+- [[colorectal-cancer-screening|CRC screening]] (average risk: start at 45–50)
 - Positive non-colonoscopy screening test (FIT, Cologuard, FOBT, flexible sig)
-- Surveillance after prior polypectomy or CRC resection
+- Surveillance after prior polypectomy or [[colorectal-cancer|CRC]] resection
 - Workup of symptoms (rectal bleeding, IDA, change in bowel habits, weight loss)
-- IBD surveillance — perform with high-definition + dye-spray chromoendoscopy per [[asge-2015-scenic-ibd-dysplasia|SCENIC]]; describe lesions as visible (polypoid/nonpolypoid) vs invisible dysplasia
+- [[inflammatory-bowel-disease|IBD]] surveillance — perform with high-definition + dye-spray chromoendoscopy per [[asge-2015-scenic-ibd-dysplasia|SCENIC]]; describe lesions as visible (polypoid/nonpolypoid) vs invisible dysplasia
 
 ---
 
@@ -131,7 +131,7 @@ For detailed technique, see [[polypectomy-emr]].
 
 ## Complications
 
-- **Perforation:** ~1:1000; right colon highest risk with EMR/ESD
+- **Perforation:** ~1:1000; right colon highest risk with EMR/[[endoscopic-submucosal-dissection|ESD]]
 - **Post-polypectomy bleeding:** immediate or delayed (up to 30d); risk higher with large lesions, right colon, antithrombotics
 - **Coagulation syndrome (post-polypectomy syndrome):** fever, localized pain without free air — manage conservatively
 - **Inadequate prep:** document; consider same-day or next-day repeat if unable to visualize >5mm polyps
@@ -164,7 +164,7 @@ For detailed technique, see [[polypectomy-emr]].
 
 [[acg-2025-bowel-prep]]
 
-GLP-1 receptor agonists ([[semaglutide]], liraglutide, tirzepatide, etc.) delay gastric emptying and are associated with increased aspiration risk during procedural sedation. The guideline groups them with [[gastroparesis]] for prep-adequacy risk stratification (OR ~1.6).
+GLP-1 receptor agonists ([[semaglutide]], liraglutide, tirzepatide, etc.) delay gastric emptying and are associated with increased aspiration risk during [[endoscopy-sedation|procedural sedation]]. The guideline groups them with [[gastroparesis]] for prep-adequacy risk stratification (OR ~1.6).
 
 - Treat patients on GLP-1 agonists as high-risk for inadequate prep — apply high-risk prep modifications (see below)
 - Follow anesthesia unit protocol for medication hold prior to sedation (ASA guidance at time of publication: hold weekly GLP-1 agonists **1 week** before elective procedure)
@@ -184,8 +184,6 @@ GLP-1 receptor agonists ([[semaglutide]], liraglutide, tirzepatide, etc.) delay 
 - Document prep quality (adequate vs inadequate) in procedure report; note descriptors after all washing/suctioning
 - If patient reports incomplete adherence: insert scope to sigmoid before aborting
 - Inadequate prep → reschedule: within **12 months** for screening/surveillance; within **3 months** for positive non-colonoscopy CRC test
-
----
 
 ---
 
@@ -226,7 +224,7 @@ A "high-quality" colonoscopy in this context requires: cecum/anastomosis reached
 
 High-risk = any of: surgery without TME; transanal local excision (TAE or TEM); ESD for rectal cancer; locally advanced rectal cancer without neoadjuvant chemoradiation + TME.
 
-- **Flexible sigmoidoscopy or EUS every 3–6 months for the first 2–3 years after surgery**, in addition to standard colonoscopic surveillance
+- **Flexible sigmoidoscopy or [[endoscopic-ultrasound|EUS]] every 3–6 months for the first 2–3 years after surgery**, in addition to standard colonoscopic surveillance
 - EUS detects extraluminal recurrence before intraluminal findings; ~10% of rectal recurrences diagnosed by EUS only
 - Multidisciplinary collaboration required (GI, colorectal surgery, oncology)
 
@@ -243,8 +241,7 @@ High-risk = any of: surgery without TME; transanal local excision (TAE or TEM); 
 
 ## See Also
 
-
-[[colorectal-cancer]], [[polypectomy-emr]], [[lynch-syndrome]], [[familial-adenomatous-polyposis]], [[colorectal-cancer-screening]], [[ulcerative-colitis]]
+[[colorectal-cancer]], [[colorectal-cancer-screening]], [[colonoscopy-surveillance]], [[polypectomy-emr]], [[endoscopic-submucosal-dissection]], [[lynch-syndrome]], [[familial-adenomatous-polyposis]], [[serrated-polyposis-syndrome]], [[inflammatory-bowel-disease]], [[ulcerative-colitis]]
 
 ---
 

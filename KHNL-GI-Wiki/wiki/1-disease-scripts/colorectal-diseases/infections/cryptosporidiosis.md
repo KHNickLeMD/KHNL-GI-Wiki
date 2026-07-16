@@ -3,7 +3,7 @@ title: "Cryptosporidiosis"
 category: disease-script
 tags: [cryptosporidium, parasitic-diarrhea, diarrhea, travelers-diarrhea, immunocompromised, nitazoxanide]
 created: 2026-05-19
-updated: 2026-07-07
+updated: 2026-07-16
 sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
 ---
 
@@ -15,7 +15,7 @@ sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
 
 - **Profuse watery diarrhea**, cramps, nausea, low-grade fever after recreational- or contaminated-water exposure.
 - Confirm with **stool antigen EIA**, **modified acid-fast stain** for oocysts, or **multiplex GI PCR** (markedly more sensitive than microscopy). [[acg-2016-acute-diarrhea]]
-- In **AIDS with persistent diarrhea**, test specifically for *Cryptosporidium* (alongside *Cyclospora*, *Cystoisospora*, microsporidia, MAC, CMV). [[idsa-2017-infectious-diarrhea]]
+- In **[[hiv-aids-related-diarrhea|AIDS with persistent diarrhea]]**, test specifically for *Cryptosporidium* (alongside *Cyclospora*, *Cystoisospora*, microsporidia, MAC, CMV). [[idsa-2017-infectious-diarrhea]]
 
 ### Severity Assessment
 

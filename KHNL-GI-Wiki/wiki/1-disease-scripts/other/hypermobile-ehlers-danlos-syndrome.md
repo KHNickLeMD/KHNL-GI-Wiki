@@ -3,7 +3,7 @@ title: "Hypermobile Ehlers-Danlos Syndrome (GI Manifestations)"
 category: disease-script
 tags: [hypermobile-ehlers-danlos, heds, hsd, dgbi, pots, mcas, dysautonomia, motility, gastroparesis, pelvic-floor, celiac-disease]
 created: 2026-06-27
-updated: 2026-06-27
+updated: 2026-07-16
 sources: [aga-2025-heds-gi]
 ---
 
@@ -52,7 +52,7 @@ Heritable connective tissue disorder; most common EDS subtype (80–90% of all E
 - [[irritable-bowel-syndrome]] and functional dyspepsia (DGBI overlap; one-third of POTS patients carry an IBS diagnosis).
 - [[gastroparesis]] / GI dysmotility (EDS gene variants enriched in idiopathic gastroparesis).
 - [[celiac-disease]] (elevated risk in hEDS/HSDs and/or POTS).
-- Functional defecation disorders / pelvic floor dysfunction.
+- [[defecation-disorders|Functional defecation disorders]] / pelvic floor dysfunction.
 
 ---
 
@@ -72,9 +72,9 @@ Heritable connective tissue disorder; most common EDS subtype (80–90% of all E
 **Overarching (BPA 12, 16):** treat the most prominent GI symptoms and abnormal function-test results; follow general [[disorders-of-gut-brain-interaction|DGBI]]/motility management plus targeted POTS/MCAS treatment. **Integrated multidisciplinary care** (cardiology, neurology, rheumatology, dietitian, psychology). Largely expert opinion — few trials.
 
 **General GI symptom management:**
-- Nausea/vomiting: antiemetics (ondansetron, promethazine, prochlorperazine, aprepitant), prokinetics (metoclopramide, domperidone, erythromycin, prucalopride).
+- Nausea/vomiting: antiemetics (ondansetron, promethazine, prochlorperazine, aprepitant), prokinetics (metoclopramide, domperidone, erythromycin, [[prucalopride]]).
 - Abdominal pain: acid suppression (PPI, H2RA), antispasmodics (hyoscyamine, dicyclomine, peppermint oil), neuromodulators (TCA, SSRI, SNRI, pregabalin, gabapentin). **Avoid opioids** — do not use to treat abdominal pain; facilitate cessation if already prescribed.
-- Constipation: osmotic/stimulant laxatives, lubiprostone, linaclotide-type secretagogues, pyridostigmine.
+- Constipation: osmotic/stimulant laxatives, [[lubiprostone]], [[linaclotide]]-type secretagogues, pyridostigmine.
 - Brain-gut behavioral therapy / gut-directed hypnotherapy for stress-worsened, maladaptive-coping patients.
 - Pelvic floor symptoms: treat per general anorectal disorder principles.
 
@@ -86,7 +86,7 @@ Heritable connective tissue disorder; most common EDS subtype (80–90% of all E
 
 ## See Also
 
-[[disorders-of-gut-brain-interaction]], [[gastroparesis]], [[irritable-bowel-syndrome]], [[celiac-disease]], [[anorectal-manometry]]
+[[disorders-of-gut-brain-interaction]], [[gastroparesis]], [[irritable-bowel-syndrome]], [[celiac-disease]], [[anorectal-manometry]], [[defecation-disorders]], [[lubiprostone]], [[linaclotide]], [[prucalopride]]
 
 ---
 

@@ -3,7 +3,7 @@ title: "Resmetirom (Rezdiffra)"
 category: med
 tags: [resmetirom, rezdiffra, thr-beta, masld, mash, nash, fibrosis, pharmacotherapy, hpb, liver]
 created: 2026-05-31
-updated: 2026-05-31
+updated: 2026-07-16
 sources: [aasld-2024-resmetirom, aasld-2023-nafld]
 ---
 
@@ -40,8 +40,7 @@ Compensated or decompensated cirrhosis; uncontrolled active liver disease ([[aut
 
 ## See Also
 
-
-[[nafld-masld]], [[semaglutide]], [[noninvasive-liver-disease-assessment]], [[drug-induced-liver-injury]]
+[[nafld-masld]], [[semaglutide]], [[noninvasive-liver-disease-assessment]], [[drug-induced-liver-injury]], [[liver-biopsy]], [[autoimmune-hepatitis]], [[primary-biliary-cholangitis]]
 
 ---
 

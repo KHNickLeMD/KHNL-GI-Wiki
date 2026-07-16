@@ -3,7 +3,7 @@ title: "Test-and-Treat Strategy (H. pylori)"
 category: concept
 tags: [h-pylori, dyspepsia, test-and-treat, non-invasive-testing, urea-breath-test]
 created: 2026-05-07
-updated: 2026-06-22
+updated: 2026-07-16
 sources: [acg-2017-hp-guidelines]
 ---
 
@@ -70,8 +70,7 @@ A management strategy for **uninvestigated [[dyspepsia]]** in which patients are
 
 ## See Also
 
-
-[[helicobacter-pylori-infection]], [[dyspepsia]], [[upper-endoscopy]], [[peptic-ulcer-disease]]
+[[helicobacter-pylori-infection]], [[dyspepsia]], [[upper-endoscopy]], [[peptic-ulcer-disease]], [[bismuth-quadruple-therapy]], [[vonoprazan]], [[dysphagia]], [[gastric-polyps]]
 
 ---
 

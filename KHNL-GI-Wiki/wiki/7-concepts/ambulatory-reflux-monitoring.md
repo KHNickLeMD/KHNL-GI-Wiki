@@ -3,7 +3,7 @@ title: "Ambulatory Reflux Monitoring"
 category: concept
 tags: [gerd, ph-monitoring, impedance, diagnosis, lyon-consensus]
 created: 2026-05-15
-updated: 2026-05-19
+updated: 2026-07-16
 sources: [lyon-2024-gerd-diagnosis, acg-2020-esophageal-physiologic-testing]
 ---
 
@@ -28,7 +28,7 @@ The Lyon 2.0 framework has two foundational principles:
 - Mean nocturnal baseline impedance (MNBI) thresholds defined
 - Postreflux swallow-induced peristaltic wave (PSPW) index **retired** as a clinical diagnostic criterion (remains a research tool)
 - Routine oesophageal biopsy analysis retired as adjunctive evidence
-- Chicago Classification updated from v3.0 to v4.0 for HRM interpretation
+- [[chicago-classification-v4|Chicago Classification]] updated from v3.0 to v4.0 for HRM interpretation
 
 ---
 
@@ -39,7 +39,7 @@ The Lyon 2.0 framework has two foundational principles:
 | Finding | Status |
 |---|---|
 | LA grade B, C, or D oesophagitis | Conclusive |
-| Biopsy-proven Barrett's oesophagus | Conclusive |
+| Biopsy-proven [[barretts-esophagus\|Barrett's oesophagus]] | Conclusive |
 | Peptic stricture | Conclusive |
 
 **Key update:** LA grade B is now conclusive. Its AET on wireless pH monitoring is 8.23% (vs. 9.95% for grade C), and on pH-impedance is 6.0% (vs. 8.7% for grade C). PPI response rate is 74% for grade B vs. 70% for grade C — comparable to higher grades.
@@ -67,7 +67,7 @@ Any monitoring study where AET falls between 4.0% and 6.0% — and does not meet
 **Next steps when AET is borderline:**
 
 - Look for adjunctive metrics: reflux episode count, MNBI, symptom association (SAP/SI)
-- Consider clinical context: other conditions (reflux hypersensitivity, motility disorders, supragastric belching, rumination) may be contributing
+- Consider clinical context: other conditions (reflux hypersensitivity, motility disorders, supragastric belching, [[rumination-syndrome|rumination]]) may be contributing
 - Extend wireless pH monitoring to 96 hours to capture dominant physiological vs. pathological AET pattern
 
 ### Borderline Reflux Episode Count: 40–80/day
@@ -170,7 +170,7 @@ The original endoscopic mucosal impedance devices (catheter through biopsy chann
 
 ## High-Resolution Manometry (HRM) in GERD Evaluation
 
-HRM does not diagnose GERD but plays important supporting roles:
+[[high-resolution-manometry|HRM]] does not diagnose GERD but plays important supporting roles:
 
 - **Rules out [[achalasia]] spectrum disorders** in PPI non-responders (required before antireflux surgery per [[hrm-antireflux-surgery]])
 - Abnormal EGJ morphology (hiatus hernia on HRM), compromised EGJ barrier, and oesophageal hypomotility (per Chicago Classification 4.0) are **supportive** findings associated with abnormal AET or erosive oesophagitis
@@ -232,7 +232,7 @@ The ACG 2020 guideline [[acg-2020-esophageal-physiologic-testing]] provides the 
 
 ## See Also
 
-[[hrm-antireflux-surgery]], [[flip-panometry]], [[laryngopharyngeal-symptoms]], [[achalasia]], [[reflux-testing]]
+[[hrm-antireflux-surgery]], [[flip-panometry]], [[laryngopharyngeal-symptoms]], [[achalasia]], [[reflux-testing]], [[gerd]], [[barretts-esophagus]], [[high-resolution-manometry]], [[chicago-classification-v4]], [[rumination-syndrome]], [[antireflux-surgery]]
 
 ---
 

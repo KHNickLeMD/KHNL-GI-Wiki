@@ -3,7 +3,7 @@ title: "Liver Transplantation — Post-Transplant Management"
 category: disease-script
 tags: [liver-transplant, liver-transplantation, immunosuppression, tacrolimus, calcineurin-inhibitor, ckd, metabolic-syndrome, rejection, tcmr, pcr, amr, biliary-stricture, vascular-complications, machine-perfusion, dcd, ldlt, ead, hbv, hcv, pbc, psc, autoimmune-hepatitis, hcc, masld, ald, de-novo-malignancy, post-transplant, bone-health, vaccination, cmv, cancer-surveillance, glp-1, bariatric-surgery, aasld]
 created: 2026-05-19
-updated: 2026-05-25
+updated: 2026-07-16
 sources: ["[[aasld-2012-liver-transplant-long-term]]", "[[aasld-ast-2025-liver-transplant-graft-complications]]", "[[aasld-ast-2025-liver-transplant-candidate-evaluation]]", "[[aasld-ast-2025-liver-transplant-non-graft-complications]]", "[[asge-2023-post-transplant-biliary-strictures]]"]
 ---
 
@@ -21,9 +21,9 @@ Liver transplantation (LT) is a lifesaving procedure for selected patients with 
 
 **Chronic liver disease — indications for referral** (Recs 1–2, [[aasld-ast-2025-liver-transplant-candidate-evaluation]]):
 
-- Any **decompensating event**: [[ascites]] (with or without SBP), [[hepatic-encephalopathy|hepatic encephalopathy]], variceal hemorrhage, hepatopulmonary syndrome/portopulmonary hypertension, HCC (Strong, Level 4)
+- Any **decompensating event**: [[ascites]] (with or without [[spontaneous-bacterial-peritonitis|SBP]]), [[hepatic-encephalopathy|hepatic encephalopathy]], [[variceal-upper-gi-bleeding|variceal hemorrhage]], [[hepatopulmonary-syndrome-portopulmonary-hypertension|hepatopulmonary syndrome/portopulmonary hypertension]], HCC (Strong, Level 4)
 - **MELD ≥12** in the absence of portal hypertensive complications — a reasonable threshold; MELD score alone should never be a barrier to referral (Strong, Level 4)
-- ACLF: refer promptly regardless of MELD; high MELD (>40) and ACLF grade alone are NOT contraindications (Strong, Level 4; Strong, Level 3)
+- [[acute-on-chronic-liver-failure|ACLF]]: refer promptly regardless of MELD; high MELD (>40) and ACLF grade alone are NOT contraindications (Strong, Level 4; Strong, Level 3)
 
 **[[acute-liver-failure|Acute liver failure]] (ALF):** ALL patients should be referred urgently, ideally in the first hours of presentation prior to meeting formal ALF diagnostic criteria (Strong, Level 2). Transplant centers must respond promptly to transfer requests (Strong, Level 5).
 
@@ -50,7 +50,7 @@ All candidates require ECG + comprehensive TTE (Strong, Level 2). TTE detects st
 
 **Coronary artery disease (CAD) evaluation** — risk-factor-based:
 
-- Triggers for advanced coronary testing: any single MASLD risk factor, OR chronic kidney disease, LV hypertrophy, family history of premature CAD, active/past tobacco use, coronary artery calcification score >0 (Strong, Level 2)
+- Triggers for advanced coronary testing: any single [[nafld-masld|MASLD]] risk factor, OR chronic kidney disease, LV hypertrophy, family history of premature CAD, active/past tobacco use, coronary artery calcification score >0 (Strong, Level 2)
 - Preferred noninvasive test: **coronary CT angiography (CCTA)**; stress echocardiography and coronary angiography also used per clinical context (Strong, Level 2)
 - Significant asymptomatic CAD: multidisciplinary approach (transplant hepatology, anesthesia, interventional cardiology, cardiac surgery) to weigh pre- vs. peritransplant revascularization (Strong, Level 4)
 
@@ -74,7 +74,7 @@ Individualized per existing guidelines (Strong, Level 1): HCC (US + AFP q6mo); c
 
 ### Nutrition, Bone Health, and Physical Function
 
-- **Nutrition**: registered dietitian consultation for all candidates (Strong, Level 2); initiate nutritional interventions for moderate-to-high malnutrition risk (Weak, Level 4)
+- **[[nutrition-in-liver-disease|Nutrition]]**: registered dietitian consultation for all candidates (Strong, Level 2); initiate nutritional interventions for moderate-to-high malnutrition risk (Weak, Level 4)
 - **Bone health**: vitamin D + DEXA for all medically stable patients (Strong, Level 2); calcium + vitamin D + weight-bearing exercise for low BMD (Strong, Level 2); bisphosphonates case-by-case at high fracture risk (Strong, Level 3)
 - **Physical function**: LFI or KPS for ambulatory patients (Strong, Level 2); frailty alone NOT a contraindication (Strong, Level 2)
 - **Dental**: evaluation for all stable candidates; lifesaving transplant not delayed for nonurgent dental care (Strong, Level 3)
@@ -120,7 +120,7 @@ Performed by a credentialed evaluator. Key requirements:
 
 ### Nonhepatic Malignancies with Liver Involvement
 
-- Unresectable NETs not amenable to resection: consider LT with strict selection (Strong, Level 1)
+- Unresectable [[gastroenteropancreatic-neuroendocrine-tumors|NETs]] not amenable to resection: consider LT with strict selection (Strong, Level 1)
 - Hereditary hepatic epithelioid hemangioendothelioma (HEHE): consider LT evaluation (Strong, Level 4)
 - Unresectable colorectal liver metastases within strict eligibility: LT may be considered (Strong, Level 2)
 
@@ -183,13 +183,15 @@ This page covers **post-transplant management of the liver transplant recipient*
 
 **Plasma cell-rich rejection (PCR)** — formerly "de novo [[autoimmune-hepatitis|autoimmune hepatitis]]"; histologically resembles AIH with IgG4-positive plasma cell infiltrates; requires augmented IS including antimetabolite ± low-dose maintenance corticosteroid.
 
-**Antibody-mediated rejection (AMR)** — diagnosed by combination of C4d deposition, donor-specific antibodies (DSA), histologic features, and graft dysfunction. Diagnosis and management remain evolving ([[aasld-ast-2025-liver-transplant-graft-complications]], Recs 41+).
+**[[antibody-mediated-rejection-liver-transplant|Antibody-mediated rejection (AMR)]]** — diagnosed by combination of C4d deposition, donor-specific antibodies (DSA), histologic features, and graft dysfunction. Diagnosis and management remain evolving ([[aasld-ast-2025-liver-transplant-graft-complications]], Recs 41+).
 
 **Ductopenic rejection / chronic rejection**: loss of interlobular bile ducts (>50% of portal tracts) = vanishing bile duct syndrome. May progress to graft failure requiring re-transplantation.
 
 ---
 
 ## Differential Diagnosis
+
+*Workup: see [[abnormal-liver-chemistries]].*
 
 **Causes of abnormal liver tests post-liver transplant** (Table 3, [[aasld-2012-liver-transplant-long-term]]):
 
@@ -200,7 +202,7 @@ This page covers **post-transplant management of the liver transplant recipient*
 
 **Most common causes of late allograft dysfunction:**
 
-- **Recurrent HCV** (pre-DAA era; near-universal recurrence; now curable with DAAs)
+- **Recurrent HCV** (pre-DAA era; near-universal recurrence; now curable with [[direct-acting-antivirals|DAAs]])
 - **Recurrent NAFLD/NASH** — metabolic risk factors accumulate post-LT
 - **Biliary strictures** — anastomotic (earlier, more amenable to endoscopic/radiologic treatment) vs. non-anastomotic (ischemic cholangiopathy; later, diffuse, worse prognosis)
 - **Recurrent [[primary-biliary-cholangitis]]** — up to 20% at 10 years; indolent
@@ -321,15 +323,15 @@ This page covers **post-transplant management of the liver transplant recipient*
 
 ### Biliary Complications (Recs 15–24)
 
-Biliary complications are addressed both by AASLD-AST 2025 and by the dedicated ASGE 2023 guideline on post–LT biliary strictures (`[[asge-2023-post-transplant-biliary-strictures]]`); the two are concordant. See the [[biliary-stricture]] diagnostic schema for the full ERCP/stent algorithm. The ASGE guideline applies to **duct-to-duct (unaltered) foregut anatomy**; Roux-en-Y hepaticojejunostomy recipients often cannot undergo conventional duodenoscope ERCP.
+Biliary complications are addressed both by AASLD-AST 2025 and by the dedicated ASGE 2023 guideline on post–LT biliary strictures ([[asge-2023-post-transplant-biliary-strictures]]); the two are concordant. See the [[biliary-stricture]] diagnostic schema for the full ERCP/stent algorithm. The ASGE guideline applies to **duct-to-duct (unaltered) foregut anatomy**; Roux-en-Y hepaticojejunostomy recipients often cannot undergo conventional duodenoscope ERCP.
 
 **Anastomotic Biliary Strictures** — incidence 5–15% DDLT, higher in LDLT:
 
 - Presentation: asymptomatic liver test elevation to frank biliary obstruction/cholangitis
-- **Diagnosis — [[mri-mrcp|MRCP]] first-line** (sensitivity 94–96%, specificity 94–95%) ([[aasld-ast-2025-liver-transplant-graft-complications]], Rec 15; concordant with `[[asge-2023-post-transplant-biliary-strictures]]` Rec 3, Conditional, Moderate–High — pooled sensitivity 94.9%, specificity 90.3%, accuracy 92.4%). With high pretest probability of stricture or cholangitis, proceed directly to [[ercp|ERCP]] without MRCP. ERCP when intervention planned or clinical suspicion high despite negative MRCP (AASLD Rec 16)
-- **ERCP first, PTBD second** (`[[asge-2023-post-transplant-biliary-strictures]]` Rec 1, Conditional, Very Low): the ASGE suggests ERCP over PTBD as initial therapy — PTBD carried 8.47× higher adjusted odds of allograft failure, longer hospitalization, more procedures (2.5 vs 6.1), and higher cost, with no difference in technical success or mortality
+- **Diagnosis — [[mri-mrcp|MRCP]] first-line** (sensitivity 94–96%, specificity 94–95%) ([[aasld-ast-2025-liver-transplant-graft-complications]], Rec 15; concordant with [[asge-2023-post-transplant-biliary-strictures]] Rec 3, Conditional, Moderate–High — pooled sensitivity 94.9%, specificity 90.3%, accuracy 92.4%). With high pretest probability of stricture or cholangitis, proceed directly to [[ercp|ERCP]] without MRCP. ERCP when intervention planned or clinical suspicion high despite negative MRCP (AASLD Rec 16)
+- **ERCP first, PTBD second** ([[asge-2023-post-transplant-biliary-strictures]] Rec 1, Conditional, Very Low): the ASGE suggests ERCP over PTBD as initial therapy — PTBD carried 8.47× higher adjusted odds of allograft failure, longer hospitalization, more procedures (2.5 vs 6.1), and higher cost, with no difference in technical success or mortality
 - Treatment (duct-to-duct or choledochoduodenostomy, AASLD Rec 17, Strong, Level 2): ERCP with balloon dilation + stenting
-  - **Covered SEMS over multiple plastic stents** for extrahepatic anastomotic strictures (AASLD Rec 18, Strong, Level 2; `[[asge-2023-post-transplant-biliary-strictures]]` Rec 2, Conditional, Low–Moderate): equivalent resolution and recurrence, but cSEMS need fewer ERCPs (mean ~1.86 fewer; AASLD cites 1.69), fewer days to resolution (~105 fewer; 40 vs 80 days), fewer stents, and lower cost ($8288 vs $19,580; ~25% lower). Most common AE is stent migration (no group difference). cSEMS removed after a fixed 3–6 month dwell; MPS exchanged serially through resolution
+  - **Covered SEMS over multiple plastic stents** for extrahepatic anastomotic strictures (AASLD Rec 18, Strong, Level 2; [[asge-2023-post-transplant-biliary-strictures]] Rec 2, Conditional, Low–Moderate): equivalent resolution and recurrence, but cSEMS need fewer ERCPs (mean ~1.86 fewer; AASLD cites 1.69), fewer days to resolution (~105 fewer; 40 vs 80 days), fewer stents, and lower cost ($8288 vs $19,580; ~25% lower). Most common AE is stent migration (no group difference). cSEMS removed after a fixed 3–6 month dwell; MPS exchanged serially through resolution
   - **cSEMS less suitable** when cholangiography shows intrahepatic strictures or an anastomotic stricture just below the bifurcation — favor plastic stents there
   - PTBD reserved for failed endoscopic management (AASLD Rec 19, Strong, Level 3)
   - Roux-en-Y anatomy: endoscopic stents or PTBD depending on center expertise (AASLD Rec 20)
@@ -343,7 +345,7 @@ Biliary complications are addressed both by AASLD-AST 2025 and by the dedicated 
 - Irreversible symptomatic biliary disease or progressive ischemic cholangiopathy: retransplantation (AASLD Rec 24, Strong, Level 4)
 - DCD recipients with persistent cholestasis (bilirubin >2 mg/dL), recurrent cholangitis, or non-anastomotic strictures unresponsive to treatment receive increased waitlist priority
 
-**Periprocedural antibiotics during elective ERCP** (`[[asge-2023-post-transplant-biliary-strictures]]` Rec 4, Conditional, Very Low): suggested when **complete biliary drainage is technically challenging** (ischemic cholangiopathy, multiple strictures, failed stenting, or contrast injected across a stricture not dilated/stented). Patients with cholangitis are excluded (already require antibiotics). Otherwise antibiotics are not routine (pooled infection rate ~1.1%); weigh fluoroquinolone AEs — including CYP3A4 inhibition that raises [[tacrolimus]] levels — and resistance risk.
+**Periprocedural antibiotics during elective ERCP** ([[asge-2023-post-transplant-biliary-strictures]] Rec 4, Conditional, Very Low): suggested when **complete biliary drainage is technically challenging** (ischemic cholangiopathy, multiple strictures, failed stenting, or contrast injected across a stricture not dilated/stented). Patients with cholangitis are excluded (already require antibiotics). Otherwise antibiotics are not routine (pooled infection rate ~1.1%); weigh fluoroquinolone AEs — including CYP3A4 inhibition that raises [[tacrolimus]] levels — and resistance risk.
 
 ### Immunosuppression (IS)
 
@@ -508,7 +510,7 @@ Biliary complications are addressed both by AASLD-AST 2025 and by the dedicated 
 
 **[[colorectal-cancer|Colorectal cancer]]** (Rec. 37–39):
 
-- Especially elevated risk in PSC recipients (coexisting IBD + field defect)
+- Especially elevated risk in PSC recipients (coexisting [[inflammatory-bowel-disease|IBD]] + field defect)
 - PSC + IBD recipients: annual surveillance colonoscopy beginning at LT (Rec. 37)
 - All other recipients: standard colonoscopy screening per age-based guidelines; begin at 50 or sooner based on LT-related risk (Rec. 38)
 
@@ -558,7 +560,7 @@ Biliary complications are addressed both by AASLD-AST 2025 and by the dedicated 
 
 ### Recurrent Disease Management
 
-**Hepatitis B (HBV) recurrence prevention** ([[aasld-2012-liver-transplant-long-term]], Rec. 60–64):
+**[[chronic-hepatitis-b|Hepatitis B (HBV)]] recurrence prevention** ([[aasld-2012-liver-transplant-long-term]], Rec. 60–64):
 
 - Recurrence rate prior to prophylaxis: 80–100%; now <10% with modern regimens
 - **HBV prophylaxis (all HBsAg-positive recipients)**: hepatitis B immune globulin (HBIG) + oral nucleos(t)ide analogue (NA)
@@ -832,8 +834,7 @@ Annual screening for HTN, obesity, DM, and hyperlipidemia for all LT recipients 
 
 ## See Also
 
-
-[[acute-liver-failure]], [[alcohol-associated-liver-disease]], [[portal-vein-thrombosis]], [[chronic-hepatitis-b]], [[hepatocellular-carcinoma]], [[nafld-masld]], [[primary-sclerosing-cholangitis]], [[primary-biliary-cholangitis]], [[autoimmune-hepatitis]], [[biliary-stricture]], [[ercp]], [[mri-mrcp]], [[tacrolimus]], [[calcineurin-inhibitors]], [[post-transplant-lymphoproliferative-disorder]], [[operational-tolerance]], [[antibody-mediated-rejection-liver-transplant]], [[semaglutide]], [[hepatopulmonary-syndrome-portopulmonary-hypertension]]
+[[abnormal-liver-chemistries]], [[acute-liver-failure]], [[acute-on-chronic-liver-failure]], [[alcohol-associated-liver-disease]], [[portal-vein-thrombosis]], [[portal-hypertension]], [[chronic-hepatitis-b]], [[hepatitis-c]], [[direct-acting-antivirals]], [[hepatocellular-carcinoma]], [[hcc-surveillance]], [[nafld-masld]], [[primary-sclerosing-cholangitis]], [[primary-biliary-cholangitis]], [[autoimmune-hepatitis]], [[cholangiocarcinoma]], [[biliary-stricture]], [[ercp]], [[mri-mrcp]], [[liver-biopsy]], [[tacrolimus]], [[calcineurin-inhibitors]], [[post-transplant-lymphoproliferative-disorder]], [[operational-tolerance]], [[antibody-mediated-rejection-liver-transplant]], [[semaglutide]], [[bariatric-surgery]], [[obesity]], [[nutrition-in-liver-disease]], [[colorectal-cancer]], [[colonoscopy]], [[inflammatory-bowel-disease]], [[gastroenteropancreatic-neuroendocrine-tumors]], [[hepatopulmonary-syndrome-portopulmonary-hypertension]], [[hepatic-encephalopathy]], [[ascites]], [[spontaneous-bacterial-peritonitis]], [[variceal-upper-gi-bleeding]]
 
 ---
 

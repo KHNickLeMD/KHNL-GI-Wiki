@@ -3,8 +3,8 @@ title: "Endoscopic Eradication Therapy (EET)"
 category: advanced-procedure
 tags: [barretts-esophagus, eet, rfa, emr, esd, cryotherapy, dysplasia, esophageal-adenocarcinoma, foregut]
 created: 2026-06-04
-updated: 2026-06-04
-sources: [asge-2018-barretts-eet, aga-2024-barretts-eet, acg-2022-barretts]
+updated: 2026-07-16
+sources: [asge-2018-barretts-eet, aga-2024-barretts-eet, acg-2022-barretts, asge-2019-barretts-screening-surveillance, aga-2025-barretts-surveillance]
 ---
 
 Endoscopic eradication therapy (EET) is the minimally invasive, organ-sparing treatment for dysplastic [[barretts-esophagus|Barrett's esophagus]] and early esophageal neoplasia. It combines **endoscopic resection of visible lesions** with **ablation of the remaining flat Barrett's segment**, and has largely replaced esophagectomy for high-grade dysplasia (HGD) and intramucosal carcinoma (IMC/T1a EAC). The defining endpoint is **complete eradication of intestinal metaplasia (CE-IM)** — no endoscopically visible BE and no intestinal metaplasia on surveillance biopsies.
@@ -18,7 +18,7 @@ Per [[asge-2018-barretts-eet|ASGE 2018]] (GRADE) and concordant with [[aga-2024-
 | Indication | Recommendation |
 |---|---|
 | Confirmed **HGD** | EET over surveillance (strong) and EET over esophagectomy (strong) |
-| **IMC / T1a EAC** | EET over esophagectomy (strong); LN-metastasis risk ~0%-2% |
+| **IMC / T1a [[esophageal-adenocarcinoma\|EAC]]** | EET over esophagectomy (strong); LN-metastasis risk ~0%-2% |
 | Confirmed **LGD** | EET over surveillance (conditional); shared decision making — patients valuing avoidance of procedural risk may choose surveillance |
 | **NDBE** | EET **not** routinely recommended |
 
@@ -37,7 +37,7 @@ EET is sequential: **resect, then ablate.** Routine complete EMR of the entire B
 - **Resect ALL visible lesions** (nodularity, ulceration, plaque, depression, mucosal discoloration), no matter how subtle — strong recommendation (ASGE 2018 Rec 4). Resection always precedes ablation.
 - Diagnostic + therapeutic: [[polypectomy-emr|EMR]] provides a larger/deeper specimen (to muscularis mucosa/submucosa) and **changes the histologic diagnosis in ~39% of cases, usually upstaging**, altering management.
 - **Multiband EMR** (preferred for most cases) or cap-assisted EMR — equivalent efficacy/safety.
-- **ESD** for larger lesions unsuitable for en-bloc EMR, post-ablation scarring, or suspected submucosal invasion.
+- **[[endoscopic-submucosal-dissection|ESD]]** for larger lesions unsuitable for en-bloc EMR, post-ablation scarring, or suspected submucosal invasion.
 - [[endoscopic-ultrasound|EUS]] is **not** routinely used to differentiate T1a vs T1b before resection ([[asge-2019-barretts-screening-surveillance|ASGE 2019]] Rec 5; EUS T1a/T1b sensitivity only 41%) — resection-based histology is the staging step.
 
 ### Step 2 — Ablation of Residual Flat Segment
@@ -93,8 +93,7 @@ High-volume centers with access to expert GI pathology, advanced imaging, EMR/ES
 
 ## See Also
 
-
-[[barretts-esophagus]], [[radiofrequency-ablation]], [[polypectomy-emr]], [[endoscopic-ultrasound]], [[esophageal-adenocarcinoma]], [[upper-endoscopy]], [[endoscopic-oncology]]
+[[barretts-esophagus]], [[radiofrequency-ablation]], [[polypectomy-emr]], [[endoscopic-submucosal-dissection]], [[endoscopic-ultrasound]], [[esophageal-adenocarcinoma]], [[upper-endoscopy]], [[endoscopic-oncology]]
 
 ---
 

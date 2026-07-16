@@ -3,7 +3,7 @@ title: "Small Bowel Motility"
 category: concept
 tags: [small-bowel, motility, mmc, migrating-motor-complex, sibo, dysmotility]
 created: 2026-05-19
-updated: 2026-05-19
+updated: 2026-07-16
 sources: [acg-2020-sibo]
 ---
 
@@ -24,12 +24,9 @@ Disruption of MMC (by neuropathy, myopathy, medications, systemic disease) is a 
 - Post-surgical anatomy (gastrojejunostomy, blind loop, vagus nerve injury)
 - [[irritable-bowel-syndrome]] (altered transit)
 
-See [[small-intestinal-bacterial-overgrowth]], [[acg-2020-sibo]].
-
 ## See Also
 
-
-[[small-intestinal-bacterial-overgrowth]], [[irritable-bowel-syndrome]]
+[[small-intestinal-bacterial-overgrowth]], [[irritable-bowel-syndrome]], [[intestinal-methanogen-overgrowth]], [[gastroparesis]], [[rifaximin]]
 
 ---
 

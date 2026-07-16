@@ -3,9 +3,8 @@ title: "Ampullary & Duodenal Adenoma"
 category: disease-script
 tags: [ampullary-adenoma, duodenal-adenoma, papilla-of-vater, endoscopic-papillectomy, fap, ercp, eus, post-ercp-pancreatitis, surveillance]
 created: 2026-06-27
-updated: 2026-06-27
-sources:
-  - "[[asge-2015-ampullary-duodenal-adenomas]]"
+updated: 2026-07-16
+sources: [asge-2015-ampullary-duodenal-adenomas]
 ---
 
 # Ampullary & Duodenal Adenoma
@@ -33,7 +32,7 @@ Adenomas of the **major duodenal papilla (ampullary adenomas)** and of the **non
 - Both may be **sporadic** or syndromic ([[familial-adenomatous-polyposis|FAP]], [[peutz-jeghers-syndrome|Peutz-Jeghers]]); endoscopic screening/surveillance of FAP has increased recognition of ampullary adenomas.
 - **Side-viewing duodenoscope** generally required to visualize the papilla — adenomatous change may not be apparent by forward-view inspection alone.
 - **Biopsy is required** before attempted resection to confirm adenoma and exclude cancer.
-  - Sample **away from the pancreatic duct orifice** (post-biopsy pancreatitis reported).
+  - Sample **away from the pancreatic duct orifice** (post-biopsy [[acute-pancreatitis|pancreatitis]] reported).
   - Reduce false-negatives: ≥6 specimens, or biopsy within 10 days of sphincterotomy.
   - Orient forceps **parallel to folds** to limit submucosal fibrosis (preserves later resectability).
 - For nonampullary lesions, **first confirm the polyp does not involve the major papilla** (side-viewing scope or EUS) — if it does, manage ducts as for an ampullary lesion.
@@ -56,7 +55,7 @@ Adenomas of the **major duodenal papilla (ampullary adenomas)** and of the **non
 *Workup: see [[subepithelial-lesion]] for the EUS-based approach to mucosal mounds at the papilla.*
 
 - **Ampullary carcinoma** (adenocarcinoma of the papilla) — may be indistinguishable endoscopically; false-negative biopsy for carcinoma 16–60%.
-- **Non-adenomatous papillary lesions:** carcinoid (neuroendocrine) tumor, gangliocytic paraganglioma.
+- **Non-adenomatous papillary lesions:** [[gastroenteropancreatic-neuroendocrine-tumors|carcinoid (neuroendocrine) tumor]], gangliocytic paraganglioma.
 - **Nonampullary duodenal lesions:** inflammatory polyp, Brunner's gland hyperplasia, [[subepithelial-lesion|subepithelial lesion]] (e.g. lipoma, NET), heterotopic pancreas.
 - **Syndromic vs sporadic adenoma** ([[familial-adenomatous-polyposis|FAP]], [[peutz-jeghers-syndrome|Peutz-Jeghers]]).
 
@@ -73,7 +72,7 @@ Adenomas of the **major duodenal papilla (ampullary adenomas)** and of the **non
 | CT / PET | Detect distant metastases | May detect small mets missed by EUS/IDUS |
 | [[ercp]] (biliary + pancreatic duct) | At time of papillectomy | Assess ductal extension; ductography important if EUS not done |
 
-- **Brush cytology** may aid detection of malignancy in selected cases.
+- **[[brush-cytology|Brush cytology]]** may aid detection of malignancy in selected cases.
 - K-ras/p53/immunohistochemical and microRNA/flow-cytometry markers remain **investigational**.
 - EUS may be omitted for small (<1 cm) ampullary lesions without malignant features (ulceration, induration, bleeding).
 - **Intraductal extension <1 cm** into the CBD or PD does not necessarily preclude endoscopic therapy (tissue may be exposed/ablated; balloon dilation can expose intraductal tissue).
@@ -124,7 +123,7 @@ Endoscopic resection has lower adverse-event rates (~14%) than local surgical ex
 
 ## See Also
 
-[[familial-adenomatous-polyposis]], [[peutz-jeghers-syndrome]], [[ercp]], [[endoscopic-ultrasound]], [[upper-endoscopy]], [[polypectomy-emr]], [[endoscopic-submucosal-dissection]], [[colonoscopy]], [[subepithelial-lesion]]
+[[familial-adenomatous-polyposis]], [[peutz-jeghers-syndrome]], [[ercp]], [[endoscopic-ultrasound]], [[upper-endoscopy]], [[polypectomy-emr]], [[endoscopic-submucosal-dissection]], [[colonoscopy]], [[subepithelial-lesion]], [[brush-cytology]], [[acute-pancreatitis]], [[gastroenteropancreatic-neuroendocrine-tumors]]
 
 ---
 

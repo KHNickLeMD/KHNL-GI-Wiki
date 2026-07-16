@@ -3,7 +3,7 @@ title: "Enterotoxigenic Escherichia coli (ETEC)"
 category: disease-script
 tags: [etec, e-coli, bacterial-gastroenteritis, travelers-diarrhea, diarrhea, heat-labile-toxin, heat-stable-toxin]
 created: 2026-05-19
-updated: 2026-07-06
+updated: 2026-07-16
 sources: [acg-2016-acute-diarrhea]
 ---
 
@@ -19,7 +19,7 @@ Enterotoxigenic *E. coli* (ETEC) is the most common cause of traveler's diarrhea
 
 ### Severity Assessment
 
-- **Mild** — tolerable, non-limiting → oral rehydration ± loperamide alone.
+- **Mild** — tolerable, non-limiting → oral rehydration ± [[loperamide]] alone.
 - **Moderate-to-severe** — distressing or function-limiting diarrhea → antibiotics + loperamide.
 
 ---

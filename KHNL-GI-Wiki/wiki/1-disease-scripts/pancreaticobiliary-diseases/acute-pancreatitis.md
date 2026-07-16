@@ -3,7 +3,7 @@ title: "Acute Pancreatitis"
 category: disease-script
 tags: [pancreatitis, acute-pancreatitis, hpb, gallstone-pancreatitis, necrotizing-pancreatitis, ercp, bisap, fluid-resuscitation, nutrition]
 created: 2026-05-07
-updated: 2026-07-01
+updated: 2026-07-16
 sources: [acg-2024-acute-pancreatitis, asge-2016-pancreatic-fluid-collections, asge-2015-benign-pancreatic-disease, demadaria-2022-waterfall]
 ---
 
@@ -42,7 +42,7 @@ sources: [acg-2024-acute-pancreatitis, asge-2016-pancreatic-fluid-collections, a
 | **Hypercalcemia** | Hyperparathyroidism | Serum calcium, PTH |
 | **Genetic** | Young, recurrent, family history | PRSS1, SPINK1, CFTR mutation panel |
 | **Autoimmune (AIP type 1)** | IgG4-RD features; older male; bile duct involvement | IgG4 level; MRI pancreas |
-| **Idiopathic (~20%)** | After above excluded | [[endoscopic-ultrasound\|EUS]] or MRCP (microlithiasis, periampullary lesion) |
+| **Idiopathic (~20%)** | After above excluded | [[endoscopic-ultrasound\|EUS]] or [[mri-mrcp\|MRCP]] (microlithiasis, periampullary lesion) |
 
 ### Severity Assessment
 
@@ -123,7 +123,7 @@ BISAP ≥3 = high risk for severe AP and mortality
 
 **EUS:**
 
-- For idiopathic recurrent AP after MRCP: detect microlithiasis, ampullary lesions, IPMN
+- For idiopathic recurrent AP after MRCP: detect microlithiasis, [[ampullary-adenoma|ampullary lesions]], [[pancreatic-cysts|IPMN]]
 - Equivalent to MRCP for initial CBD stone evaluation; invasive but therapeutic (concurrent [[ercp|ERCP]])
 
 ---
@@ -180,7 +180,7 @@ BISAP ≥3 = high risk for severe AP and mortality
 
 **Nasojejunal (NJ) feeding:** if gastric dysmotility or intolerance to NG
 
-**Total Parenteral Nutrition (TPN):**
+**[[nutrition-in-hospitalized-patients|Total Parenteral Nutrition]] (TPN):**
 
 - Last resort; only if enteral route completely infeasible >5–7 days
 - Associated with higher infection rates, central line complications vs. enteral feeding
@@ -251,7 +251,7 @@ BISAP ≥3 = high risk for severe AP and mortality
 - **Before drainage:** exclude cystic neoplasm and pseudoaneurysm; wait for cyst-wall maturation
 - **Drain:** symptomatic or rapidly enlarging pseudocysts; all infected PFCs failing conservative management; symptomatic sterile necrosis lasting >8 weeks
 - Endoscopic (transmural) drainage is preferred over surgery as *initial* therapy for pseudocysts
-- Use [[endoscopic-ultrasound|EUS]] for transmural drainage when there is no luminal bulge or portal hypertension is suspected; routine FNA is *not* required to diagnose infected necrosis
+- Use [[endoscopic-ultrasound|EUS]] for transmural drainage when there is no luminal bulge or [[portal-hypertension|portal hypertension]] is suspected; routine FNA is *not* required to diagnose infected necrosis
 - WON: step-up — transmural/percutaneous drainage before transmural necrosectomy or surgery; lower success and higher adverse-event rates than pseudocyst drainage; perform only with surgical and IR backup
 
 ### 7. Gallstone Pancreatitis — Definitive Management
@@ -268,7 +268,7 @@ BISAP ≥3 = high risk for severe AP and mortality
 
 ## See Also
 
-[[alcohol-associated-liver-disease]], [[chronic-pancreatitis]], [[pancreatic-cysts]], [[ercp]], [[endoscopic-ultrasound]], [[peptic-ulcer-disease]], [[acute-mesenteric-ischemia]], [[choledocholithiasis]]
+[[alcohol-associated-liver-disease]], [[chronic-pancreatitis]], [[pancreatic-cysts]], [[ercp]], [[endoscopic-ultrasound]], [[mri-mrcp]], [[peptic-ulcer-disease]], [[acute-mesenteric-ischemia]], [[choledocholithiasis]], [[ampullary-adenoma]], [[nutrition-in-hospitalized-patients]], [[portal-hypertension]]
 
 ---
 

@@ -3,7 +3,7 @@ title: "Gastrointestinal Stromal Tumor (GIST)"
 category: disease-script
 tags: [gist, gastrointestinal-stromal-tumor, subepithelial-lesion, kit, cd117, dog1, pdgfra, sdh-deficient, imatinib, sunitinib, regorafenib, ripretinib, avapritinib, mesenchymal-tumor, nccn, oncology]
 created: 2026-06-18
-updated: 2026-06-18
+updated: 2026-07-16
 sources: [nccn-2026-gist]
 ---
 
@@ -26,6 +26,8 @@ By driver mutation ([[nccn-2026-gist]]):
 Malignant potential is estimated from **tumor size, mitotic rate, and primary site** — gastric GISTs behave more favorably than small-bowel or rectal tumors of equivalent size and mitotic rate. **Tumor rupture** (spontaneous or at surgery) confers high risk of recurrence.
 
 ## Differential Diagnosis
+
+*Workup: see [[subepithelial-lesion]].*
 
 Other subepithelial lesions: leiomyoma, schwannoma, [[gastroenteropancreatic-neuroendocrine-tumors|neuroendocrine tumor]], lipoma, glomus tumor, ectopic pancreas, and metastasis; gastric [[gastric-adenocarcinoma|adenocarcinoma]] or lymphoma when the lesion is not clearly subepithelial.
 
@@ -62,7 +64,7 @@ flowchart TD
 
 ## See Also
 
-[[gastric-adenocarcinoma]], [[gastroenteropancreatic-neuroendocrine-tumors]], [[endoscopic-ultrasound]], [[upper-endoscopy]], [[esophageal-cancer]]
+[[subepithelial-lesion]], [[gastric-adenocarcinoma]], [[gastroenteropancreatic-neuroendocrine-tumors]], [[endoscopic-ultrasound]], [[upper-endoscopy]], [[esophageal-cancer]]
 
 ---
 

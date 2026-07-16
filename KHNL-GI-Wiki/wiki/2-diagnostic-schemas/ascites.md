@@ -3,17 +3,13 @@ title: "Ascites"
 category: diagnostic-schema
 tags: [ascites, cirrhosis, saag, paracentesis, diuretics, tips]
 created: 2026-05-15
-updated: 2026-06-27
+updated: 2026-07-16
 sources: [aasld-2021-ascites-sbp-hrs, aga-2025-ascites-cirrhosis]
 ---
 
-# Ascites
+## Definition / Scope
 
 Ascites is the pathological accumulation of fluid in the peritoneal cavity. It is the most common first decompensation event in cirrhosis, occurring in 5–10% of patients with compensated cirrhosis per year and reducing 5-year survival from 80% to ~30%.
-
----
-
-## Definition / Scope
 
 Ascites can be graded by volume and classified by treatment response:
 
@@ -95,7 +91,7 @@ SAAG = serum albumin − ascitic fluid albumin (simultaneous samples)
 
 ### Step 4: Further Workup Guided by SAAG
 
-- SAAG ≥1.1 + ascitic protein <2.5 g/dL → cirrhosis; consider liver elastography / Doppler; hepatic venogram if needed
+- SAAG ≥1.1 + ascitic protein <2.5 g/dL → cirrhosis; consider [[noninvasive-liver-disease-assessment|liver elastography]] / Doppler; hepatic venogram if needed
 - SAAG ≥1.1 + ascitic protein >2.5 g/dL → post-sinusoidal cause; echocardiogram / right heart catheterization
 - SAAG <1.1 → peritoneal disease; cytology, AFB/ADA, abdominal imaging, ± laparoscopy with peritoneal biopsy
 
@@ -225,7 +221,7 @@ SAAG = serum albumin − ascitic fluid albumin (simultaneous samples)
 
 ## See Also
 
-[[spontaneous-bacterial-peritonitis]], [[aki-in-cirrhosis]], [[portal-hypertension]], [[hepatic-encephalopathy]], [[liver-transplantation]], [[alcohol-associated-liver-disease]], [[nutrition-in-liver-disease]]
+[[spontaneous-bacterial-peritonitis]], [[aki-in-cirrhosis]], [[portal-hypertension]], [[hepatic-encephalopathy]], [[liver-transplantation]], [[alcohol-associated-liver-disease]], [[nutrition-in-liver-disease]], [[noninvasive-liver-disease-assessment]]
 
 ---
 

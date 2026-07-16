@@ -3,7 +3,7 @@ title: "Chronic Diarrhea"
 category: diagnostic-schema
 tags: [diarrhea, chronic, malabsorption, secretory, osmotic, inflammatory, steatorrhea, ibs]
 created: 2026-06-04
-updated: 2026-06-23
+updated: 2026-07-16
 sources: [asge-2010-diarrhea]
 ---
 
@@ -33,8 +33,8 @@ The most useful framework is to classify by **stool character** into watery, inf
 
 ### Watery — Secretory
 
-- **[[microscopic-colitis|Microscopic colitis]]** ([[microscopic-colitis]]) — collagenous and lymphocytic; older women; normal-appearing [[colonoscopy]] requiring random biopsies; NSAID/PPI/SSRI association
-- **[[bile-acid-diarrhea|Bile acid diarrhea]]** ([[bile-acid-diarrhea]]) — post-cholecystectomy, ileal disease/resection ([[crohns-disease]]), or idiopathic (overlaps IBS-D)
+- **[[microscopic-colitis|Microscopic colitis]]** — collagenous and lymphocytic; older women; normal-appearing [[colonoscopy]] requiring random biopsies; NSAID/PPI/SSRI association
+- **[[bile-acid-diarrhea|Bile acid diarrhea]]** — post-cholecystectomy, ileal disease/resection ([[crohns-disease]]), or idiopathic (overlaps IBS-D)
 - **[[irritable-bowel-syndrome|IBS-D]]** — a positive Rome IV/V diagnosis, not pure exclusion; most common overall
 - Endocrine — hyperthyroidism, **carcinoid syndrome**, VIPoma, gastrinoma ([[peptic-ulcer-disease|Zollinger-Ellison]]), Addison's disease, medullary thyroid carcinoma
 - Drugs/toxins — chronic laxative use, metformin, colchicine, SSRIs, alcohol, PPIs
@@ -50,7 +50,7 @@ The most useful framework is to classify by **stool character** into watery, inf
 ### Inflammatory
 
 - **[[inflammatory-bowel-disease|Inflammatory bowel disease]]** — [[crohns-disease]], [[ulcerative-colitis]] (bloody, urgency, nocturnal, systemic features)
-- **Microscopic colitis** ([[microscopic-colitis]]) — watery, *non-bloody*, but histologically inflammatory
+- **Microscopic colitis** — watery, *non-bloody*, but histologically inflammatory
 - Chronic infections — [[clostridioides-difficile|C. difficile]], [[giardiasis|Giardia]], [[cryptosporidiosis|Cryptosporidium]], [[entamoeba-histolytica-infection|Entamoeba]], CMV (immunocompromised)
 - Ischemic colitis ([[colon-ischemia]]); radiation enteritis/colitis
 - **[[colorectal-cancer]]** / colonic neoplasia
@@ -80,7 +80,7 @@ flowchart TD
 
 1. **Confirm true diarrhea** and exclude fecal incontinence, pseudodiarrhea, and overflow from constipation.
 2. **History & medication review** — onset, travel, surgery, family history, dietary carbohydrates/sugar alcohols, laxatives, recent antibiotics, systemic symptoms; **fasting trial** (osmotic improves, secretory persists).
-3. **Initial labs** — CBC, CMP, TSH, CRP, [[celiac-disease|anti-tTG IgA + total IgA]], and (with risk factors) HIV.
+3. **Initial labs** — CBC, CMP, TSH, CRP, [[celiac-disease|anti-tTG IgA + total IgA]], and (with risk factors) [[hiv-aids-related-diarrhea|HIV]].
 4. **Stool studies** — **fecal calprotectin or lactoferrin** (inflammatory vs. functional), fecal occult blood, [[clostridioides-difficile|C. difficile]] testing, stool electrolytes/osmotic gap, qualitative/quantitative **fecal fat**, ova & parasites or [[giardiasis|Giardia]]/[[cryptosporidiosis|Cryptosporidium]] antigen.
 5. **Route by category:**
    - **Inflammatory** (↑ calprotectin, blood) → [[colonoscopy]] with biopsies for IBD; biopsy even if mucosa normal to catch [[microscopic-colitis]].
@@ -93,14 +93,14 @@ flowchart TD
 
 ## Key Tests
 
-- **Fecal calprotectin / lactoferrin** — separates inflammatory (IBD) from functional ([[irritable-bowel-syndrome|IBS]]); normal calprotectin has high NPV for IBD.
+- **Fecal calprotectin / lactoferrin** — separates inflammatory (IBD) from [[disorders-of-gut-brain-interaction|functional]] ([[irritable-bowel-syndrome|IBS]]); normal calprotectin has high NPV for IBD.
 - **Stool electrolytes & osmotic gap** — secretory (<50) vs. osmotic (>75 mOsm/kg).
 - **Fecal fat** (qualitative Sudan stain / quantitative 72-h) — confirms steatorrhea/malabsorption.
 - **Fecal elastase-1** — low in exocrine pancreatic insufficiency ([[chronic-pancreatitis]]).
 - **[[celiac-disease|Celiac serology]]** — anti-tTG IgA with total IgA (avoid false negatives in IgA deficiency).
 - **[[clostridioides-difficile|C. difficile]] testing, stool O&P / Giardia & Cryptosporidium antigen** — chronic infectious causes.
 - **Bile acid testing** — SeHCAT retention, serum C4 or FGF19; or empiric sequestrant trial ([[bile-acid-diarrhea]]).
-- **Endocrine panel** — TSH; chromogranin A, gastrin, VIP, calcitonin, urinary 5-HIAA when a neuroendocrine secretory cause is suspected.
+- **Endocrine panel** — TSH; chromogranin A, gastrin, VIP, calcitonin, urinary 5-HIAA when a [[gastroenteropancreatic-neuroendocrine-tumors|neuroendocrine]] secretory cause is suspected.
 - **[[colonoscopy]] with random biopsies** — IBD and **[[microscopic-colitis]]** (biopsy mandatory even if mucosa appears normal).
 - **SIBO breath testing** ([[small-intestinal-bacterial-overgrowth]]) and small-bowel imaging (CTE/MRE) in malabsorptive/post-surgical patients.
 
@@ -112,8 +112,8 @@ flowchart TD
 
 - **Colonoscopy + random biopsies of BOTH right and left colon** — required even when mucosa is normal; microscopic colitis is patchy and left-sided-only sampling misses it. Sigmoidoscopy is an alternative but may miss right-sided organic disease.
 - **Intubate the terminal ileum** during colonoscopy; routine biopsy of normal-appearing TI is low yield (0–4.2%).
-- **EGD + small-bowel biopsy** when colonoscopy is inconclusive, malabsorption is suspected, or [[celiac-disease|celiac]] serology is positive; obtain **≥4 duodenal biopsies** for suspected celiac (even if endoscopically normal).
-- **Capsule endoscopy and enteroscopy are NOT recommended** for routine chronic-diarrhea evaluation (modest yield, no tissue, retention risk); reserve enteroscopy for nondiagnostic small-bowel disease.
+- **[[upper-endoscopy|EGD]] + small-bowel biopsy** when colonoscopy is inconclusive, malabsorption is suspected, or [[celiac-disease|celiac]] serology is positive; obtain **≥4 duodenal biopsies** for suspected celiac (even if endoscopically normal).
+- **[[capsule-endoscopy|Capsule endoscopy]] and enteroscopy are NOT recommended** for routine chronic-diarrhea evaluation (modest yield, no tissue, retention risk); reserve [[device-assisted-enteroscopy|enteroscopy]] for nondiagnostic small-bowel disease.
 - Diagnostic yield of colonoscopy in chronic diarrhea ~7–32%; IBD and [[microscopic-colitis]] most common. Note sodium-phosphate preps and NSAIDs can produce mucosal/terminal-ileal changes mimicking IBD.
 
 ---

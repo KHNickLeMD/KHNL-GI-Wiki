@@ -3,7 +3,7 @@ title: "Hepatocellular Adenoma"
 category: disease-script
 tags: [hca, liver, hpb, focal-liver-lesion, benign-liver-tumor, ocp, hcc-risk, resection]
 created: 2026-05-07
-updated: 2026-06-20
+updated: 2026-07-16
 sources: [acg-2024-focal-liver-lesions]
 ---
 
@@ -91,7 +91,7 @@ Risk values below are the ACG Table 5 "Complications" data (hemorrhage / maligna
 
 **Biopsy:**
 
-- Percutaneous biopsy controversial due to bleeding risk from highly vascular lesion
+- [[liver-biopsy|Percutaneous biopsy]] controversial due to bleeding risk from highly vascular lesion
 - Indicated when imaging is inconclusive and management would change based on molecular subtype
 - Immunostaining: LFABP (HNF1α loss), CRP/SAA (inflammatory), beta-catenin/glutamine synthetase (beta-catenin activation)
 

@@ -3,7 +3,7 @@ title: "Antibody-Mediated Rejection — Liver Transplant"
 category: concept
 tags: [antibody-mediated-rejection, amr, liver-transplant, rejection, dsa, c4d, immunosuppression]
 created: 2026-05-25
-updated: 2026-05-25
+updated: 2026-07-16
 sources: [aasld-ast-2025-liver-transplant-graft-complications]
 ---
 
@@ -49,7 +49,7 @@ Per [[aasld-ast-2025-liver-transplant-graft-complications]] (Recs 41+; full text
 
 ## See Also
 
-[[liver-transplantation]], [[calcineurin-inhibitors]], [[post-transplant-lymphoproliferative-disorder]]
+[[liver-transplantation]], [[calcineurin-inhibitors]], [[post-transplant-lymphoproliferative-disorder]], [[tacrolimus]], [[operational-tolerance]], [[liver-biopsy]]
 
 ---
 

@@ -3,7 +3,7 @@ title: "IBD Preventive Care"
 category: concept
 tags: [ibd, crohns-disease, ulcerative-colitis, preventive-care, vaccinations, cancer-screening, osteoporosis, depression, anxiety, immune-modifying-therapy]
 created: 2026-05-15
-updated: 2026-06-27
+updated: 2026-07-16
 sources: [acg-2025-ibd-preventive-care, acg-2017-ibd-preventive-care, aga-2025-noncolorectal-cancer-ibd]
 ---
 
@@ -36,7 +36,7 @@ Patients with [[inflammatory-bowel-disease|IBD]] ([[crohns-disease]] and [[ulcer
 
 ### Hepatitis B Seroprotection Algorithm (AGA 2025)
 
-- Evaluate **all** adult IBD patients for latent hepatitis B.
+- Evaluate **all** adult IBD patients for latent [[chronic-hepatitis-b|hepatitis B]].
 - Previously completed full HBV series but **not seroprotected (anti-HBs <10 mIU/mL):**
   1. Give a single **challenge dose** of HBV vaccine.
   2. Recheck anti-HBs at **4–8 weeks**.
@@ -136,8 +136,7 @@ Conventional DEXA risk factors apply: age, female sex, low BMI, smoking, family 
 
 ## See Also
 
-
-[[inflammatory-bowel-disease]], [[crohns-disease]], [[ulcerative-colitis]], [[colonoscopy]]
+[[inflammatory-bowel-disease]], [[crohns-disease]], [[ulcerative-colitis]], [[colonoscopy]], [[chronic-hepatitis-b]], [[rotavirus]], [[colorectal-cancer]], [[colonoscopy-surveillance]]
 
 ---
 

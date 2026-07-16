@@ -3,7 +3,7 @@ title: "Brush Cytology"
 category: concept
 tags: [brush-cytology, ercp, biliary-stricture, cholangiocarcinoma, tissue-acquisition]
 created: 2026-06-04
-updated: 2026-06-04
+updated: 2026-07-16
 sources: [asge-2023-indeterminate-biliary-strictures]
 ---
 
@@ -11,7 +11,7 @@ sources: [asge-2023-indeterminate-biliary-strictures]
 
 ## Test Characteristics
 
-Per `[[asge-2023-indeterminate-biliary-strictures]]`:
+Per [[asge-2023-indeterminate-biliary-strictures]]:
 
 - Sensitivity for malignancy alone is low: **~0.40** (95% CI, .37-.43); miss rate ~58%.
 - Specimen adequacy is high (brushing reliably obtains cellular material), but sensitivity is the limiting factor.
@@ -20,8 +20,7 @@ Per `[[asge-2023-indeterminate-biliary-strictures]]`:
 
 ## See Also
 
-
-[[ercp]], [[cholangioscopy]], [[endoscopic-ultrasound]], [[biliary-stricture]], [[cholangiocarcinoma]]
+[[ercp]], [[cholangioscopy]], [[endoscopic-ultrasound]], [[biliary-stricture]], [[cholangiocarcinoma]], [[fish]], [[confocal-laser-endomicroscopy]], [[primary-sclerosing-cholangitis]]
 
 ---
 

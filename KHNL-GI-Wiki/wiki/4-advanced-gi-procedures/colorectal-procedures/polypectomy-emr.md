@@ -3,8 +3,8 @@ title: "Polypectomy and EMR (Colorectal)"
 category: advanced-procedure
 tags: [polypectomy, emr, esd, cold-snare, colonoscopy, colorectal, advanced-polypectomy, malignant-polyp, submucosal-invasion, haggitt, kikuchi, tumor-budding, lymphovascular-invasion]
 created: 2026-05-07
-updated: 2026-06-27
-sources: [usmstf-2020-endoscopic-removal, asge-2020-endoscopic-removal, usmstf-2020-malignant-colorectal-polyps, aga-2025-lifting-agents, aga-2025-endoscopic-resection-crc]
+updated: 2026-07-16
+sources: [usmstf-2020-endoscopic-removal, asge-2020-endoscopic-removal, usmstf-2020-malignant-colorectal-polyps, usmstf-2020-followup-colonoscopy, aga-2025-lifting-agents, aga-2025-endoscopic-resection-crc]
 ---
 
 # Polypectomy and Endoscopic Mucosal Resection (Colorectal)
@@ -94,7 +94,7 @@ sources: [usmstf-2020-endoscopic-removal, asge-2020-endoscopic-removal, usmstf-2
 
 - **Right colon:** Higher perforation risk; prefer cold snare when feasible; CO2 insufflation mandatory; clip defects ≥20mm prophylactically
 - **Difficult positions (folds, flexures, ileocecal valve):** Consider cap-assisted [[colonoscopy]], position change, water-jet assisted technique; partial resection plus avulsion acceptable if full snare not achievable
-- **Rectal lesions:** ESD more often feasible given straight working channel; consider peri-anal approach for very distal lesions
+- **Rectal lesions:** [[endoscopic-submucosal-dissection|ESD]] more often feasible given straight working channel; consider peri-anal approach for very distal lesions
 
 ---
 
@@ -336,7 +336,7 @@ After endoscopic resection reveals a malignant polyp, histologic features determ
 
 | Risk group | Recurrence | Approach |
 |---|---|---|
-| Low-risk (curative resection) | ~0.7% | Surveillance colonoscopy alone (no nodal/distant imaging); within 1 year (JSCCR/ESGE/NCCN) |
+| Low-risk (curative resection) | ~0.7% | [[colonoscopy-surveillance|Surveillance colonoscopy]] alone (no nodal/distant imaging); within 1 year (JSCCR/ESGE/NCCN) |
 | High-risk (noncurative) | ~7.0% | Surgery is standard of care; individualize (>80% of "high-risk" have no LNM at surgery) |
 
 - Timing of recurrences: 60% within 36 months, 96% within 72 months.
@@ -375,7 +375,7 @@ After endoscopic resection reveals a malignant polyp, histologic features determ
 - Injection creates a cushion separating the lesion from the **muscularis propria (MP)**; adding a **blue contrast** (indigo carmine or methylene blue) demarcates margins and reveals MP injury during EMR.
 - **Saline ± contrast ("homemade") remains acceptable**; saline dissipates fast, prompting viscous/FDA-approved agents. Saline was non-inferior to other injection-based methods for relevant outcomes.
 - **Sessile serrated lesions** lift well with **any** agent (incl. saline) given minimal fibrosis.
-- **ESD requires submucosal injection** regardless of agent; avoid intralesional injection during ESD (obscuring bleeding). POEM typically uses normal saline.
+- **ESD requires submucosal injection** regardless of agent; avoid intralesional injection during ESD (obscuring bleeding). [[poem|POEM]] typically uses normal saline.
 - Add **dilute epinephrine** for cold EMR / EMR with electrocautery to reduce bleeding.
 - Technique: prime needle (avoid air); **dynamic injection** shapes the mound and maximizes MP separation; serial inject-and-snare for large lesions. Papillectomy generally needs no injection.
 
@@ -383,7 +383,7 @@ After endoscopic resection reveals a malignant polyp, histologic features determ
 
 ## See Also
 
-[[colonoscopy]], [[colorectal-cancer]], [[colorectal-cancer-screening]], [[endoscopic-submucosal-dissection]], [[endoscopic-ultrasound]], [[lynch-syndrome]]
+[[colonoscopy]], [[colonoscopy-surveillance]], [[colorectal-cancer]], [[colorectal-cancer-screening]], [[endoscopic-submucosal-dissection]], [[endoscopic-ultrasound]], [[lynch-syndrome]], [[poem]]
 
 ---
 

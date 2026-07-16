@@ -3,7 +3,7 @@ title: "Tacrolimus"
 category: med
 tags: [tacrolimus, fk506, calcineurin-inhibitor, immunosuppression, transplant, liver-transplant, nephrotoxicity, diabetes, extended-release]
 created: 2026-05-19
-updated: 2026-05-25
+updated: 2026-07-16
 sources: [aasld-2012-liver-transplant-long-term, aasld-ast-2025-liver-transplant-graft-complications]
 ---
 
@@ -81,8 +81,7 @@ CYP3A4 substrate — major interactions:
 
 ## See Also
 
-
-[[calcineurin-inhibitors]], [[liver-transplantation]], [[hepatocellular-carcinoma]]
+[[calcineurin-inhibitors]], [[liver-transplantation]], [[hepatocellular-carcinoma]], [[operational-tolerance]], [[antibody-mediated-rejection-liver-transplant]]
 
 ---
 

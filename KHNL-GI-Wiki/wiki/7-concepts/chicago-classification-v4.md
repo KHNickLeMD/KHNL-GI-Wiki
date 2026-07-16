@@ -3,7 +3,7 @@ title: "Chicago Classification v4.0 — Esophageal Motility Disorders"
 category: concept
 tags: [manometry, hrm, chicago-classification, esophageal-motility, achalasia, egjoo, iem, des, dysphagia]
 created: 2026-05-16
-updated: 2026-05-19
+updated: 2026-07-16
 sources: [chicago-v4-2021-esophageal-dysmotility, acg-2020-esophageal-physiologic-testing]
 ---
 
@@ -118,7 +118,7 @@ The ACG 2020 guideline [[acg-2020-esophageal-physiologic-testing]] predates CC v
 
 ## See Also
 
-[[achalasia]], [[flip-panometry]], [[high-resolution-manometry]], [[reflux-testing]], [[distal-esophageal-spasm]], [[hypercontractile-esophagus]], [[ineffective-esophageal-motility]], [[gerd]]
+[[achalasia]], [[flip-panometry]], [[high-resolution-manometry]], [[reflux-testing]], [[distal-esophageal-spasm]], [[hypercontractile-esophagus]], [[ineffective-esophageal-motility]], [[gerd]], [[dysphagia]], [[poem]], [[ambulatory-reflux-monitoring]], [[hrm-antireflux-surgery]]
 
 ---
 

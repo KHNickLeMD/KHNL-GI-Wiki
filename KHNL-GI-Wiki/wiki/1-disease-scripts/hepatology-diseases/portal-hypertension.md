@@ -3,7 +3,7 @@ title: "Portal Hypertension"
 category: disease-script
 tags: [portal-hypertension, cirrhosis, CSPH, HVPG, cACLD, varices, NSBB, carvedilol, TIPS, liver-stiffness, decompensation, variceal-bleeding, ascites]
 created: 2026-05-28
-updated: 2026-05-28
+updated: 2026-07-16
 sources: [aasld-2023-portal-hypertension, acg-2025-perioperative-cirrhosis, aasld-2024-tips, aasld-2022-palliative-cirrhosis]
 ---
 
@@ -19,7 +19,7 @@ Portal hypertension (PH) is defined as a portocaval pressure gradient (portal ve
 |---|---|
 | Prehepatic | [[portal-vein-thrombosis\|Portal vein thrombosis]], splenic vein thrombosis |
 | Intrahepatic — presinusoidal | Schistosomiasis, [[primary-biliary-cholangitis\|primary biliary cholangitis]], sarcoidosis |
-| Intrahepatic — sinusoidal | **Cirrhosis** (most common), alcohol-associated hepatitis |
+| Intrahepatic — sinusoidal | **Cirrhosis** (most common), [[alcohol-associated-liver-disease\|alcohol-associated hepatitis]] |
 | Intrahepatic — postsinusoidal | Sinusoidal obstruction syndrome (VOD) |
 | Posthepatic | [[budd-chiari-syndrome\|Budd-Chiari syndrome]], congestive hepatopathy (heart failure, constrictive pericarditis) |
 
@@ -56,7 +56,7 @@ HVPG requires transjugular or transfemoral approach; preferred at experienced ce
 | 20–24.9 | <150 | Certain cACLD, highly probable CSPH |
 | ≥25 | any | Rules in CSPH |
 
-**Note:** "Rule of Five" cutoffs are less reliable in [[obesity]]/NAFLD, PSC with dominant strictures, and elevated ALT (>3× ULN). Non-TE elastography methods (MRE, pSWE, 2D-SWE) not yet validated for these specific cutoffs.
+**Note:** "Rule of Five" cutoffs are less reliable in [[obesity]]/[[nafld-masld|NAFLD]], PSC with dominant strictures, and elevated ALT (>3× ULN). Non-TE elastography methods (MRE, pSWE, 2D-SWE) not yet validated for these specific cutoffs.
 
 **Annual LSM monitoring** in cACLD without CSPH when underlying disease is active/uncontrolled. A ≥20% increase in LSM correlates with worsening hepatic decompensation; ≥20% decrease correlates with improved mortality.
 
@@ -125,7 +125,7 @@ Cirrhosis stages (per clinical features and HVPG):
 
 **NSBB dose reduction/discontinuation:** If persistent SBP <90 mm Hg or severe adverse effects → reduce/discontinue; then perform EGD to assess for high-risk varices needing EVL (GS 24)
 
-**Treating underlying liver disease:** Antiviral therapy (HCV DAAs, HBV NAs), alcohol cessation, immunosuppression (AIH) → can reduce HVPG and reverse cirrhosis in long-term follow-up (GS 10). Lifestyle modification (weight, alcohol, diet) is concurrent priority.
+**Treating underlying liver disease:** Antiviral therapy ([[direct-acting-antivirals|HCV DAAs]], [[chronic-hepatitis-b|HBV]] NAs), alcohol cessation, immunosuppression ([[autoimmune-hepatitis|AIH]]) → can reduce HVPG and reverse cirrhosis in long-term follow-up (GS 10). Lifestyle modification (weight, alcohol, diet) is concurrent priority.
 
 **Statins (investigational):** Simvastatin ≤20 mg/d (hepatic dosing; avoid >20 mg/d with decompensation) shows promise for decompensation/survival reduction. Use with caution (rhabdomyolysis risk with high bilirubin); 4 RCTs ongoing.
 

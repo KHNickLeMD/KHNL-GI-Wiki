@@ -3,7 +3,7 @@ title: "Proctalgia Syndromes"
 category: disease-script
 tags: [proctalgia, levator-ani, chronic-proctalgia, proctalgia-fugax, anorectal, pelvic-floor, colorectal]
 created: 2026-05-16
-updated: 2026-07-02
+updated: 2026-07-16
 sources: [acg-2021-anorectal-disorders]
 ---
 
@@ -50,7 +50,7 @@ Note: concurrent anal fissures, prolapsed [[hemorrhoids]], or other anorectal pa
 ## Diagnostics
 
 - **Clinical diagnosis** for proctalgia fugax: history + normal DRE sufficient
-- **ARM + BET** recommended for levator syndrome patients being evaluated for biofeedback eligibility (identify dyssynergia pattern, impaired rectal propulsion)
+- **[[anorectal-manometry|ARM]] + BET** recommended for levator syndrome patients being evaluated for biofeedback eligibility (identify dyssynergia pattern, impaired rectal propulsion)
 - **[[colonoscopy|Colonoscopy]]/flexible sigmoidoscopy:** if rectal bleeding, change in bowel habit, or other alarm features present
 - No specific imaging required unless alternative diagnosis suspected (pelvic MRI if endometriosis, abdominal mass, complex pelvic floor involvement)
 
@@ -91,7 +91,6 @@ Note: concurrent anal fissures, prolapsed [[hemorrhoids]], or other anorectal pa
 ---
 
 ## See Also
-
 [[defecation-disorders]], [[fecal-incontinence]], [[anal-fissure]], [[hemorrhoids]], [[crohns-disease]], [[biofeedback-therapy]], [[anorectal-manometry]]
 
 ---

@@ -3,7 +3,7 @@ title: "Salmonella Infection (Non-typhoidal)"
 category: disease-script
 tags: [salmonella, bacterial-gastroenteritis, diarrhea, foodborne, travelers-diarrhea, bacteremia]
 created: 2026-05-19
-updated: 2026-07-02
+updated: 2026-07-16
 sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
 ---
 
@@ -30,7 +30,7 @@ Non-typhoidal *Salmonella* species are a major cause of foodborne diarrheal illn
 
 - Other inflammatory bacterial enteritides — [[campylobacter-infection]], [[shigellosis]], [[enterotoxigenic-e-coli|Shiga-toxin *E. coli*]]
 - [[clostridioides-difficile|*C. difficile*]] colitis (antibiotic/healthcare exposure)
-- Inflammatory bowel disease flare
+- [[inflammatory-bowel-disease|Inflammatory bowel disease]] flare
 - Typhoid/enteric fever (*S.* Typhi/Paratyphi) — see [[fever-returning-traveler]]
 
 ---

@@ -3,7 +3,7 @@ title: "Cowden Syndrome (PTEN Hamartoma Tumor Syndrome)"
 category: disease-script
 tags: [cowden, pten, phts, hamartoma, hereditary-cancer, breast-cancer, thyroid-cancer, endometrial-cancer, colorectal-cancer, genetic-testing]
 created: 2026-05-19
-updated: 2026-07-14
+updated: 2026-07-16
 sources: [acg-2015-hereditary-gi-cancer, aga-2022-hamartomatous-polyposis]
 ---
 
@@ -21,7 +21,7 @@ Cowden syndrome (CS), also called PTEN hamartoma tumor syndrome (PHTS), is cause
 
 **Major criteria**: breast cancer, endometrial cancer, follicular thyroid cancer, multiple GI hamartomas or ganglioneuromas, macrocephaly (≥97th percentile), macular pigmentation of glans penis, mucocutaneous lesions (trichilemmoma, multiple palmoplantar keratoses, multifocal/extensive oral mucosal papillomatosis, multiple cutaneous facial papules)
 
-**Minor criteria**: autism spectrum disorder, colon cancer, esophageal glycogenic acanthosis (≥3 lesions), lipomas, mental retardation, papillary or follicular variant of papillary thyroid cancer, thyroid structural lesions (adenoma/nodule/goiter), renal cell carcinoma, single GI hamartoma or ganglioneuroma, testicular lipomatosis, vascular anomalies
+**Minor criteria**: autism spectrum disorder, [[colorectal-cancer|colon cancer]], esophageal glycogenic acanthosis (≥3 lesions), lipomas, mental retardation, papillary or follicular variant of papillary thyroid cancer, thyroid structural lesions (adenoma/nodule/goiter), renal cell carcinoma, single GI hamartoma or ganglioneuroma, testicular lipomatosis, vascular anomalies
 
 **GI findings** [[acg-2015-hereditary-gi-cancer]]:
 

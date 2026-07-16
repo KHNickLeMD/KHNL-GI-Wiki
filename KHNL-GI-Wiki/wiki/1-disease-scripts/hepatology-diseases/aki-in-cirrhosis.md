@@ -3,7 +3,7 @@ title: "AKI in Cirrhosis (including HRS-AKI)"
 category: disease-script
 tags: [aki, cirrhosis, hrs, hepatorenal-syndrome, albumin, terlipressin, liver]
 created: 2026-05-15
-updated: 2026-06-27
+updated: 2026-07-16
 sources: [aga-2022-aki-cirrhosis]
 ---
 
@@ -146,7 +146,7 @@ All of the following must be present:
 
 - Avoid NSAIDs, ACEi/ARB, aminoglycosides, excessive diuretics, nonselective beta-blockers
 - Albumin 1 g/kg (max 100 g) with therapeutic large-volume paracentesis
-- Prophylactic antibiotics with GI bleeding; SBP prophylaxis per guidelines
+- [[antibiotic-prophylaxis-cirrhosis|Prophylactic antibiotics]] with GI bleeding; SBP prophylaxis per guidelines
 - Counsel alcohol cessation (see [[alcohol-associated-liver-disease]])
 - Monitor SCr and electrolytes in patients on diuretics
 
@@ -200,11 +200,11 @@ Vasopressin V1 receptor analog; reverses splanchnic vasodilatation.
 - **Do not resume** after cardiac or ischemic symptoms, even if resolved
 - Start at lowest dose and titrate to minimize ischemic risk
 
-**Terlipressin is superior to norepinephrine in ACLF** (bilirubin >5 mg/dL, INR >1.5, with encephalopathy or [[ascites]] within 4 weeks).
+**Terlipressin is superior to norepinephrine in ACLF** (bilirubin >5 mg/dL, INR >1.5, with [[hepatic-encephalopathy|encephalopathy]] or [[ascites]] within 4 weeks).
 
 #### 2. Midodrine + Octreotide (Alternative — BPA 8)
 
-Alpha-1 adrenergic agonist (midodrine) + somatostatin analog (octreotide). Inferior to terlipressin but no ICU requirement; widely used when terlipressin unavailable.
+Alpha-1 adrenergic agonist (midodrine) + [[somatostatin-analogs|somatostatin analog]] (octreotide). Inferior to terlipressin but no ICU requirement; widely used when terlipressin unavailable.
 
 - **Midodrine:** start **7.5 mg PO TID**, titrate to **12.5 mg PO TID**
 - **Octreotide:** start **100 mcg SQ TID**, titrate to **200 mcg SQ TID**

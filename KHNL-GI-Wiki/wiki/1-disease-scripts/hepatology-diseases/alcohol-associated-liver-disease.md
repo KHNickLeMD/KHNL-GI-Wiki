@@ -3,7 +3,7 @@ title: "Alcohol-Associated Liver Disease"
 category: disease-script
 tags: [ald, alcoholic-hepatitis, cirrhosis, liver, hpb, aud, corticosteroids, liver-transplant, lille-score, meld, mdf, nac, pentoxifylline, transplant-candidate-evaluation, post-transplant, recurrence, naltrexone, acamprosate, baclofen, peth, stopah]
 created: 2026-05-07
-updated: 2026-05-28
+updated: 2026-07-16
 sources: [acg-2024-ald, acg-2017-liver-chemistries, aasld-ast-2025-liver-transplant-candidate-evaluation, aasld-ast-2025-liver-transplant-graft-complications, aasld-2020-ald]
 ---
 
@@ -44,7 +44,7 @@ sources: [acg-2024-ald, acg-2017-liver-chemistries, aasld-ast-2025-liver-transpl
 
 **AASLD 2020 three-category classification** [[aasld-2020-ald]]:
 
-- **Definite AH** — clinically diagnosed AND biopsy-proven
+- **Definite AH** — clinically diagnosed AND [[liver-biopsy|biopsy]]-proven
 - **Probable AH** — clinically diagnosed WITHOUT potential confounding factors (no biopsy required)
 - **Possible AH** — clinically diagnosed WITH potential confounding factors (biopsy required for confirmation)
 
@@ -88,9 +88,11 @@ sources: [acg-2024-ald, acg-2017-liver-chemistries, aasld-ast-2025-liver-transpl
 
 ## Differential Diagnosis
 
+*Workup: see [[abnormal-liver-chemistries]].*
+
 - **[[nafld-masld|MASLD/MASH]]** — metabolic steatohepatitis; identical histology; excluded by absence of significant alcohol use (however, overlap exists)
 - **[[drug-induced-liver-injury|Drug-induced liver injury (DILI)]]** — medication history essential; can mimic AH clinically
-- **Viral hepatitis** — HBV, HCV, HEV; serology required; HBV reactivation can occur in heavy drinkers
+- **Viral hepatitis** — [[chronic-hepatitis-b|HBV]], HCV, HEV; serology required; HBV reactivation can occur in heavy drinkers
 - **[[autoimmune-hepatitis|Autoimmune hepatitis (AIH)]]** — elevated IgG, autoantibodies; may require biopsy to distinguish from AH
 - **Ischemic hepatitis** — rapid rise in aminotransferases (AST >1000), cardiac/hypotensive history; "shock liver"
 - **Acute biliary obstruction** — CBD stone; jaundice + cholestatic LFTs; ultrasound excludes
@@ -142,7 +144,7 @@ AASLD 2020 GS-1: *"All patients receiving care in primary care and gastroenterol
 
 - **Liver ultrasound (US):** first-line; evaluate echogenicity (steatosis), [[portal-hypertension|portal hypertension]] signs, exclude biliary obstruction, screen for HCC
 - **CT abdomen with contrast:** evaluate for complications ([[ascites]], [[portal-vein-thrombosis|portal vein thrombosis]]), mass lesions; not required routinely
-- **MRCP:** if biliary obstruction suspected
+- **[[mri-mrcp|MRCP]]:** if biliary obstruction suspected
 
 ### Liver Biopsy
 
@@ -336,8 +338,7 @@ Per [[aasld-ast-2025-liver-transplant-graft-complications]] (recommendations for
 
 ## See Also
 
-
-[[liver-transplantation]], [[aki-in-cirrhosis]], [[acute-pancreatitis]], [[nafld-masld]], [[hereditary-hemochromatosis]], [[portal-hypertension]], [[acute-on-chronic-liver-failure]], [[hepatic-encephalopathy]], [[hepatocellular-carcinoma]], [[autoimmune-hepatitis]], [[wilson-disease]], [[drug-induced-liver-injury]], [[variceal-upper-gi-bleeding]], [[spontaneous-bacterial-peritonitis]], [[ascites]], [[portal-vein-thrombosis]], [[hepatitis-c]], [[liver-biopsy]]
+[[abnormal-liver-chemistries]], [[liver-transplantation]], [[aki-in-cirrhosis]], [[acute-pancreatitis]], [[nafld-masld]], [[hereditary-hemochromatosis]], [[portal-hypertension]], [[acute-on-chronic-liver-failure]], [[hepatic-encephalopathy]], [[hepatocellular-carcinoma]], [[autoimmune-hepatitis]], [[wilson-disease]], [[drug-induced-liver-injury]], [[variceal-upper-gi-bleeding]], [[spontaneous-bacterial-peritonitis]], [[ascites]], [[portal-vein-thrombosis]], [[hepatitis-c]], [[chronic-hepatitis-b]], [[liver-biopsy]], [[mri-mrcp]], [[upper-gi-bleeding]], [[rifaximin]]
 
 ---
 

@@ -3,7 +3,7 @@ title: "Hepatitis C"
 category: disease-script
 tags: [hepatitis-c, HCV, direct-acting-antivirals, DAA, cirrhosis, HCC, SVR, glecaprevir, pibrentasvir, sofosbuvir, velpatasvir, fibrosis, liver, antiviral, screening]
 created: 2026-05-28
-updated: 2026-06-10
+updated: 2026-07-16
 sources: [aasld-idsa-2023-hcv, aasld-idsa-2011-hcv-genotype1]
 ---
 
@@ -16,7 +16,7 @@ HCV is a blood-borne RNA virus (Flaviviridae) infecting ~58 million people globa
 **Screening (universal):**
 
 - All adults ≥18 years at least once (USPSTF grade B)
-- All pregnancies (each pregnancy)
+- [[hepatitis-c-in-pregnancy|All pregnancies]] (each pregnancy)
 - Annual HCV RNA testing for PWID with ongoing IDU
 - Testing at HIV PrEP initiation and annually thereafter for MSM
 
@@ -41,12 +41,14 @@ Fibrosis staging before treatment to guide duration, regimen selection, and post
 
 **Cirrhosis determination for treatment selection:**
 
-- Cirrhosis assumed if: liver stiffness >12.5 kPa, FIB-4 >3.25, noninvasive serologic test (FibroSure/ELF) positive, liver biopsy, liver nodularity/splenomegaly on imaging, or platelet <150,000/mm³
-- **Decompensated cirrhosis:** Child-Pugh ≥7 (presence of [[ascites]], HE, total bilirubin >2.0 mg/dL, albumin ≤3.5 g/dL, or INR ≥1.7) — affects regimen selection (NS3/4A protease inhibitors contraindicated)
+- Cirrhosis assumed if: liver stiffness >12.5 kPa, FIB-4 >3.25, [[noninvasive-liver-disease-assessment|noninvasive serologic test]] (FibroSure/ELF) positive, liver biopsy, liver nodularity/splenomegaly on imaging, or platelet <150,000/mm³
+- **Decompensated cirrhosis:** Child-Pugh ≥7 (presence of [[ascites]], [[hepatic-encephalopathy|HE]], total bilirubin >2.0 mg/dL, albumin ≤3.5 g/dL, or INR ≥1.7) — affects regimen selection (NS3/4A protease inhibitors contraindicated)
 
 ---
 
 ## Differential Diagnosis
+
+*Workup: see [[abnormal-liver-chemistries]].*
 
 - [[chronic-hepatitis-b]] — HBsAg; test at baseline for HCV patients (reactivation risk during HCV treatment if HBsAg+)
 - [[autoimmune-hepatitis]] — ANA, ASMA, IgG; can coexist with HCV
@@ -105,7 +107,7 @@ NS3/4A protease inhibitors (glecaprevir, grazoprevir, voxilaprevir) are **CONTRA
 | LDV/SOF + wt-based RBV | 12 wk | Genotypes 1, 4, 5, 6 |
 | LDV/SOF alone | 24 wk | RBV-ineligible; genotypes 1, 4, 5, 6 |
 
-**Post-SVR in decompensated cirrhosis:** Continue monitoring for HCC, varices, and complications even after SVR. Some patients recompensate; list for LT if not improving.
+**Post-SVR in decompensated cirrhosis:** Continue monitoring for HCC, [[variceal-upper-gi-bleeding|varices]], and complications even after SVR. Some patients recompensate; list for LT if not improving.
 
 ### Pretreatment Assessment (Figure 4/5 in source)
 
@@ -186,8 +188,7 @@ For recurrent HCV post liver or kidney transplantation:
 
 ## See Also
 
-
-[[chronic-hepatitis-b]], [[direct-acting-antivirals]], [[portal-hypertension]], [[hepatocellular-carcinoma]], [[hcc-surveillance]], [[liver-transplantation]], [[liver-disease-in-pregnancy]], [[hepatitis-c-in-pregnancy]], [[aki-in-cirrhosis]], [[autoimmune-hepatitis]], [[alcohol-associated-liver-disease]], [[nafld-masld]], [[drug-induced-liver-injury]]
+[[chronic-hepatitis-b]], [[direct-acting-antivirals]], [[portal-hypertension]], [[hepatocellular-carcinoma]], [[hcc-surveillance]], [[liver-transplantation]], [[liver-disease-in-pregnancy]], [[hepatitis-c-in-pregnancy]], [[aki-in-cirrhosis]], [[hepatic-encephalopathy]], [[variceal-upper-gi-bleeding]], [[abnormal-liver-chemistries]], [[noninvasive-liver-disease-assessment]], [[autoimmune-hepatitis]], [[alcohol-associated-liver-disease]], [[nafld-masld]], [[drug-induced-liver-injury]]
 
 ---
 

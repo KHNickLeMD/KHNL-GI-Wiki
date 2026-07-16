@@ -3,7 +3,7 @@ title: "Reflux Testing"
 category: concept
 tags: [gerd, reflux, ph-monitoring, impedance, manometry, diagnostics]
 created: 2026-05-15
-updated: 2026-05-19
+updated: 2026-07-16
 sources: [asge-2024-gerd, acg-2020-esophageal-physiologic-testing]
 ---
 
@@ -205,8 +205,7 @@ These diagnoses require [[ambulatory-reflux-monitoring]] with specific protocols
 
 ## See Also
 
-
-[[gerd]], [[ambulatory-reflux-monitoring]], [[high-resolution-manometry]], [[hrm-antireflux-surgery]], [[flip-panometry]], [[barretts-esophagus]], [[laryngopharyngeal-symptoms]]
+[[gerd]], [[ambulatory-reflux-monitoring]], [[high-resolution-manometry]], [[hrm-antireflux-surgery]], [[flip-panometry]], [[barretts-esophagus]], [[laryngopharyngeal-symptoms]], [[antireflux-surgery]], [[achalasia]], [[upper-endoscopy]], [[dysphagia]], [[rumination-syndrome]], [[disorders-of-gut-brain-interaction]]
 
 ---
 

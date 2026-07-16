@@ -3,7 +3,7 @@ title: "Peutz-Jeghers Syndrome"
 category: disease-script
 tags: [peutz-jeghers, pjs, stk11, lkb1, hamartoma, hereditary-crc, pancreatic-cancer, small-bowel, intussusception, genetic-testing]
 created: 2026-05-19
-updated: 2026-07-14
+updated: 2026-07-16
 sources: [acg-2015-hereditary-gi-cancer, aga-2022-hamartomatous-polyposis]
 ---
 
@@ -86,7 +86,7 @@ SCTAT = sex cord tumor with annular tubules; ~20% become malignant. PJS is assoc
 
 - Colonoscopy + EGD + capsule endoscopy q3y from age 18 onward if polyps are found; if no polyps on first exam, repeat at age 18 then q3y
 
-**Pancreatic surveillance** (Table 10):
+**[[pancreatic-cancer-screening|Pancreatic surveillance]]** (Table 10):
 
 - MRI/MRCP or [[endoscopic-ultrasound|EUS]] starting at age **30**, every 1–2 years
 - PJS carries 11–36% lifetime risk of pancreatic adenocarcinoma (up to 132-fold relative risk)
@@ -116,7 +116,7 @@ SCTAT = sex cord tumor with annular tubules; ~20% become malignant. PJS is assoc
 
 - Endoscopic polypectomy of polyps >0.5–1 cm (preferably all those >0.5 or 1 cm in diameter)
 - Clearing of all polyps preferable but not always achievable; should control colonic polyps
-- Double-balloon enteroscopy and intraoperative endoscopy allow extensive small bowel polyp removal
+- [[device-assisted-enteroscopy|Double-balloon enteroscopy]] and intraoperative endoscopy allow extensive small bowel polyp removal
 
 **Intussusception** — the primary complication of PJS [[acg-2015-hereditary-gi-cancer]]:
 
@@ -141,7 +141,7 @@ SCTAT = sex cord tumor with annular tubules; ~20% become malignant. PJS is assoc
 
 ## See Also
 
-[[familial-adenomatous-polyposis]], [[lynch-syndrome]], [[juvenile-polyposis-syndrome]], [[cowden-syndrome]], [[colorectal-cancer]], [[colonoscopy]], [[upper-endoscopy]], [[capsule-endoscopy]], [[endoscopic-ultrasound]]
+[[familial-adenomatous-polyposis]], [[lynch-syndrome]], [[juvenile-polyposis-syndrome]], [[cowden-syndrome]], [[colorectal-cancer]], [[colonoscopy]], [[upper-endoscopy]], [[capsule-endoscopy]], [[endoscopic-ultrasound]], [[pancreatic-cancer]], [[pancreatic-cancer-screening]], [[device-assisted-enteroscopy]]
 
 ---
 

@@ -3,7 +3,7 @@ title: "Choledocholithiasis"
 category: disease-script
 tags: [biliary, gallstones, common-bile-duct, jaundice, cholangitis, ercp, eus, mrcp, gallstone-pancreatitis]
 created: 2026-06-04
-updated: 2026-06-26
+updated: 2026-07-16
 sources: [asge-2019-choledocholithiasis]
 ---
 
@@ -21,14 +21,14 @@ sources: [asge-2019-choledocholithiasis]
 
 ## Assessment
 
-- Gallstones in the **common bile duct (CBD)** — most common cause of **obstructive [[jaundice]]** in adults.
+- Gallstones in the **common bile duct (CBD)** — most common cause of **obstructive jaundice** in adults.
 - Precipitant of **acute cholangitis** and gallstone [[acute-pancreatitis|pancreatitis]].
-- Charcot's triad (fever, [[jaundice]], RUQ pain) → cholangitis = urgent biliary drainage + antibiotics.
+- Charcot's triad (fever, jaundice, RUQ pain) → cholangitis = urgent biliary drainage + antibiotics.
 
 ### Establishing the Diagnosis
 - Clinical + biochemical (cholestatic [[abnormal-liver-chemistries|liver chemistries]], ↑total bilirubin) + imaging.
 - Transabdominal US: assess CBD diameter and look for a visualized duct stone (specific but insensitive).
-- Confirmatory imaging (EUS/MRCP) reserved for **intermediate-probability** patients (see below).
+- Confirmatory imaging (EUS/[[mri-mrcp|MRCP]]) reserved for **intermediate-probability** patients (see below).
 
 ### Risk Stratification (ASGE 2019)
 *Probability of CBD stones determines the pathway — avoids unnecessary diagnostic [[ercp|ERCP]].*
@@ -47,8 +47,8 @@ sources: [asge-2019-choledocholithiasis]
 
 - [[biliary-stricture|Biliary stricture]] (benign or malignant) — malignant-obstruction differential.
 - Mirizzi syndrome (extrinsic CBD compression by an impacted cystic-duct stone).
-- Pancreatic head / periampullary tumor.
-- Primary sclerosing cholangitis, IgG4 cholangiopathy.
+- [[pancreatic-cancer|Pancreatic head]] / periampullary tumor.
+- [[primary-sclerosing-cholangitis|Primary sclerosing cholangitis]], IgG4 cholangiopathy.
 
 ## Diagnostics
 
@@ -61,7 +61,7 @@ sources: [asge-2019-choledocholithiasis]
 ### Stone Clearance
 - **[[ercp|ERCP]] with sphincterotomy** — mainstay for high-probability stones.
 - **Large/difficult stones:** **endoscopic papillary large-balloon dilation after sphincterotomy** improves clearance over sphincterotomy alone.
-- Adjuncts for large/difficult stones: **mechanical lithotripsy** or **cholangioscopy-guided (EHL/laser) lithotripsy**. ([[asge-2019-choledocholithiasis]])
+- Adjuncts for large/difficult stones: **mechanical lithotripsy** or **[[cholangioscopy|cholangioscopy-guided]] (EHL/laser) lithotripsy**. ([[asge-2019-choledocholithiasis]])
 
 ### Gallstone Pancreatitis
 - **Early [[ercp|ERCP]]** for concurrent **cholangitis or persistent biliary obstruction**.
@@ -69,7 +69,7 @@ sources: [asge-2019-choledocholithiasis]
 
 ## See Also
 
-[[jaundice]], [[abnormal-liver-chemistries]], [[ercp]], [[endoscopic-ultrasound]], [[acute-pancreatitis]], [[biliary-stricture]]
+[[jaundice]], [[abnormal-liver-chemistries]], [[ercp]], [[endoscopic-ultrasound]], [[mri-mrcp]], [[cholangioscopy]], [[acute-pancreatitis]], [[biliary-stricture]], [[pancreatic-cancer]], [[primary-sclerosing-cholangitis]]
 
 ---
 

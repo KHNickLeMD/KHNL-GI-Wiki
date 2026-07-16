@@ -3,7 +3,7 @@ title: "Gallbladder Cancer"
 category: disease-script
 tags: [gallbladder-cancer, biliary-tract-cancer, hpb, cholecystectomy, incidental-gallbladder-cancer, adenocarcinoma, nccn, oncology]
 created: 2026-06-18
-updated: 2026-06-29
+updated: 2026-07-16
 sources: [nccn-2026-biliary-tract-cancers, asge-2013-biliary-neoplasia]
 ---
 
@@ -20,6 +20,8 @@ Two presentations dominate: (1) **incidental gallbladder cancer** found on histo
 Stage is driven by depth of tumor invasion (T stage, including whether tumor is confined to the muscularis vs invades the perimuscular connective tissue or liver), nodal status, and distant spread. T-stage at incidental diagnosis determines whether re-resection is warranted.
 
 ## Differential Diagnosis
+
+*Workup: see [[biliary-stricture]].*
 
 [[cholangiocarcinoma|Cholangiocarcinoma]] (especially perihilar), benign gallbladder polyps and adenomyomatosis, xanthogranulomatous cholecystitis, [[hepatocellular-carcinoma|hepatocellular carcinoma]] invading the gallbladder fossa, and metastatic disease to the gallbladder.
 

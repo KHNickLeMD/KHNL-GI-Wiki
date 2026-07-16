@@ -3,7 +3,7 @@ title: "Chronic Hepatitis B"
 category: disease-script
 tags: [hepatitis-b, HBV, antiviral, nucleoside-analogues, HCC-surveillance, immune-tolerant, indeterminate, functional-cure, pregnancy, co-infection]
 created: 2026-05-15
-updated: 2026-05-19
+updated: 2026-07-16
 sources: [aasld-idsa-2025-chb-treatment, acg-2016-liver-disease-pregnancy, aga-2025-hbv-reactivation]
 ---
 
@@ -18,7 +18,7 @@ CHB is defined as HBsAg-positive for >6 months. Screen all adults ≥18 years at
 - Quantitative HBV DNA (PCR-based)
 - HBeAg and anti-HBe
 - ALT (use sex-specific ULN: M <35 U/L, F <25 U/L)
-- Fibrosis assessment (elastography preferred over FIB-4; elastography cutoff ≥7 kPa for F2, ≥8 kPa sensitive for F3/F4; FIB-4 >1.45 sensitive for advanced fibrosis)
+- Fibrosis assessment ([[noninvasive-liver-disease-assessment|elastography]] preferred over FIB-4; elastography cutoff ≥7 kPa for F2, ≥8 kPa sensitive for F3/F4; FIB-4 >1.45 sensitive for advanced fibrosis)
 - [[liver-biopsy|Liver biopsy]]: infrequently used; most accurate for inflammation grade
 - Screen for co-infections: **anti-HDV in all HBV patients** (universal HDV screening — reflex HDV RNA if positive; see [[hepatitis-d]]), [[hepatitis-c|HCV]] RNA, HIV
 
@@ -58,6 +58,8 @@ CHB is a dynamic disease. Phase determination requires ≥2 measurements ≥6 mo
 ---
 
 ## Differential Diagnosis
+
+*Workup: see [[abnormal-liver-chemistries]].*
 
 - [[hepatitis-c|Hepatitis C]] (HCV RNA)
 - Hepatitis D co-infection (anti-HDV; critically worsens prognosis)
@@ -211,8 +213,7 @@ Goal: HBV DNA <lower limit of quantification. HBV not transmitted by casual cont
 
 ## See Also
 
-
-[[hepatitis-d]], [[hepatitis-c]], [[hepatocellular-carcinoma]], [[hcc-surveillance]], [[portal-hypertension]], [[acute-on-chronic-liver-failure]], [[liver-transplantation]], [[aki-in-cirrhosis]], [[liver-disease-in-pregnancy]], [[autoimmune-hepatitis]], [[drug-induced-liver-injury]], [[alcohol-associated-liver-disease]], [[nafld-masld]], [[wilson-disease]], [[direct-acting-antivirals]]
+[[hepatitis-d]], [[hepatitis-c]], [[hepatocellular-carcinoma]], [[hcc-surveillance]], [[portal-hypertension]], [[acute-on-chronic-liver-failure]], [[liver-transplantation]], [[aki-in-cirrhosis]], [[liver-disease-in-pregnancy]], [[abnormal-liver-chemistries]], [[noninvasive-liver-disease-assessment]], [[autoimmune-hepatitis]], [[drug-induced-liver-injury]], [[alcohol-associated-liver-disease]], [[nafld-masld]], [[wilson-disease]], [[direct-acting-antivirals]], [[liver-biopsy]]
 
 ---
 

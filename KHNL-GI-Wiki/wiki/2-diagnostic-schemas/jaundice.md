@@ -3,7 +3,7 @@ title: "Jaundice"
 category: diagnostic-schema
 tags: [jaundice, hyperbilirubinemia, cholestasis, hemolysis, biliary-obstruction, conjugated, unconjugated]
 created: 2026-06-04
-updated: 2026-06-04
+updated: 2026-07-16
 sources: []
 ---
 
@@ -32,7 +32,7 @@ Conjugated cases are then split by the **R-ratio / pattern of liver enzymes** in
 - **Viral hepatitis** — [[hepatitis-c]], [[chronic-hepatitis-b]], hepatitis A/E
 - **[[alcohol-associated-liver-disease|Alcohol-associated hepatitis]]** — AST:ALT >2, often very high bilirubin
 - **[[drug-induced-liver-injury]]** — acetaminophen and idiosyncratic DILI; herbal/dietary supplements
-- **[[autoimmune-hepatitis]]**, ischemic hepatitis ("shock liver"), [[wilson-disease|Wilson disease]] ([[wilson-disease]])
+- **[[autoimmune-hepatitis]]**, ischemic hepatitis ("shock liver"), [[wilson-disease|Wilson disease]]
 - **Cirrhosis / decompensation** of any chronic liver disease (e.g. [[nafld-masld|MASLD]])
 - Inherited excretion defects — Dubin-Johnson, Rotor (benign conjugated)
 
@@ -41,12 +41,12 @@ Conjugated cases are then split by the **R-ratio / pattern of liver enzymes** in
 **Extrahepatic (mechanical) obstruction:**
 
 - **[[choledocholithiasis]]** — most common; ± ascending cholangitis (Charcot's triad)
-- **Malignant biliary obstruction** — pancreatic head cancer, [[cholangiocarcinoma]], ampullary tumor, gallbladder cancer ([[biliary-stricture|biliary stricture differential]])
-- **Benign strictures** — post-surgical, [[chronic-pancreatitis|chronic pancreatitis]] ([[chronic-pancreatitis]]), IgG4 disease ([[biliary-stricture]])
+- **Malignant biliary obstruction** — [[pancreatic-cancer|pancreatic head cancer]], [[cholangiocarcinoma]], ampullary tumor, [[gallbladder-cancer|gallbladder cancer]] ([[biliary-stricture|biliary stricture differential]])
+- **Benign strictures** — post-surgical, [[chronic-pancreatitis|chronic pancreatitis]], IgG4 disease
 
 **Intrahepatic cholestasis:**
 
-- **[[primary-biliary-cholangitis]]** (AMA-positive), **[[primary-sclerosing-cholangitis]]** (MRCP beading; PSC-IBD)
+- **[[primary-biliary-cholangitis]]** (AMA-positive), **[[primary-sclerosing-cholangitis]]** ([[mri-mrcp|MRCP]] beading; PSC-[[inflammatory-bowel-disease|IBD]])
 - Drug-induced cholestasis, infiltrative disease (sarcoid, amyloid, malignancy), TPN, sepsis
 - Cholestasis of pregnancy and other [[liver-disease-in-pregnancy|pregnancy-related liver disease]]
 
@@ -93,7 +93,7 @@ flowchart TD
 
 ## Red Flags / Alarm Features
 
-- **[[acute-liver-failure|Acute liver failure]] features** — encephalopathy + coagulopathy (INR ≥1.5) → see [[acute-liver-failure]]; urgent transplant-center referral
+- **[[acute-liver-failure|Acute liver failure]] features** — [[hepatic-encephalopathy|encephalopathy]] + coagulopathy (INR ≥1.5) → urgent [[liver-transplantation|transplant]]-center referral
 - **Ascending cholangitis** — Charcot's triad (fever, jaundice, RUQ pain) ± Reynolds' pentad (+ hypotension, confusion) → urgent biliary drainage
 - **Painless jaundice with weight loss** — pancreaticobiliary malignancy (Courvoisier's sign: palpable nontender gallbladder)
 - **Marked coagulopathy or rising bilirubin/INR** — severe hepatic dysfunction
@@ -103,4 +103,4 @@ flowchart TD
 
 ## See Also
 
-[[abnormal-liver-chemistries]], [[choledocholithiasis]], [[biliary-stricture]], [[cholangiocarcinoma]], [[primary-biliary-cholangitis]], [[primary-sclerosing-cholangitis]], [[drug-induced-liver-injury]], [[autoimmune-hepatitis]], [[alcohol-associated-liver-disease]], [[hepatitis-c]], [[chronic-hepatitis-b]], [[wilson-disease]], [[acute-liver-failure]], [[chronic-pancreatitis]], [[ercp]], [[endoscopic-ultrasound]], [[liver-disease-in-pregnancy]]
+[[abnormal-liver-chemistries]], [[choledocholithiasis]], [[biliary-stricture]], [[cholangiocarcinoma]], [[pancreatic-cancer]], [[gallbladder-cancer]], [[primary-biliary-cholangitis]], [[primary-sclerosing-cholangitis]], [[drug-induced-liver-injury]], [[autoimmune-hepatitis]], [[alcohol-associated-liver-disease]], [[hepatitis-c]], [[chronic-hepatitis-b]], [[wilson-disease]], [[nafld-masld]], [[acute-liver-failure]], [[hepatic-encephalopathy]], [[liver-transplantation]], [[chronic-pancreatitis]], [[ercp]], [[endoscopic-ultrasound]], [[mri-mrcp]], [[liver-biopsy]], [[liver-disease-in-pregnancy]]

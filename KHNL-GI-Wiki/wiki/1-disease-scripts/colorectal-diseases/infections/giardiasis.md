@@ -3,7 +3,7 @@ title: "Giardiasis"
 category: disease-script
 tags: [giardia, parasitic-diarrhea, diarrhea, travelers-diarrhea, malabsorption, metronidazole, tinidazole]
 created: 2026-05-19
-updated: 2026-07-02
+updated: 2026-07-16
 sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
 ---
 
@@ -46,7 +46,7 @@ sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
 
 - **Tinidazole 2 g single dose** — preferred (high efficacy, single dose).
 - **Metronidazole 250 mg TID × 5–7 days** — effective alternative.
-- **Nitazoxanide 500 mg BID × 3 days** — alternative.
+- **[[nitazoxanide|Nitazoxanide]] 500 mg BID × 3 days** — alternative.
 - Treat symptomatic infection; weigh treatment of incidental molecular-panel positives against symptoms and exposure.
 
 ---

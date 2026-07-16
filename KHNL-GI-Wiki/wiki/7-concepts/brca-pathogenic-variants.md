@@ -3,8 +3,8 @@ title: "BRCA1 / BRCA2 Pathogenic Variants"
 category: concept
 tags: [genetics, brca, hereditary-cancer, pancreatic-cancer]
 created: 2026-06-04
-updated: 2026-06-04
-sources: [asge-2022-pancreatic-cancer-screening]
+updated: 2026-07-16
+sources: [asge-2022-pancreatic-cancer-screening, acg-2015-hereditary-gi-cancer]
 ---
 
 *Stub — to be expanded.*
@@ -13,7 +13,7 @@ BRCA1 and BRCA2 are tumor-suppressor genes critical to homologous-recombination 
 
 ## See Also
 
-[[pancreatic-cancer]], [[pancreatic-cancer-screening]], [[familial-pancreatic-cancer]]
+[[pancreatic-cancer]], [[pancreatic-cancer-screening]], [[familial-pancreatic-cancer]], [[fammm-syndrome]], [[endoscopic-ultrasound]], [[mri-mrcp]]
 
 ---
 

@@ -3,7 +3,7 @@ title: "Campylobacter Infection"
 category: disease-script
 tags: [campylobacter, bacterial-gastroenteritis, diarrhea, travelers-diarrhea, dysentery, fluoroquinolone-resistance, guillain-barre]
 created: 2026-05-19
-updated: 2026-07-02
+updated: 2026-07-16
 sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
 ---
 
@@ -28,7 +28,7 @@ sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
 
 - Other inflammatory bacterial enteritides — [[salmonella-infection]], [[shigellosis]], [[enterotoxigenic-e-coli|Shiga-toxin *E. coli*]]
 - [[clostridioides-difficile|*C. difficile*]] colitis
-- Inflammatory bowel disease flare
+- [[inflammatory-bowel-disease|Inflammatory bowel disease]] flare
 
 ---
 

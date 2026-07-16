@@ -3,7 +3,7 @@ title: "Prucalopride"
 category: med
 tags: [prucalopride, 5-ht4-agonist, prokinetic, cic, constipation]
 created: 2026-05-19
-updated: 2026-05-19
+updated: 2026-07-16
 sources: [aga-acg-2023-constipation]
 ---
 
@@ -29,8 +29,7 @@ Highly selective 5-HT4 receptor agonist; prokinetic.
 
 ## See Also
 
-
-[[chronic-idiopathic-constipation]], [[linaclotide]], [[plecanatide]], [[lubiprostone]]
+[[chronic-idiopathic-constipation]], [[linaclotide]], [[plecanatide]], [[lubiprostone]], [[defecation-disorders]]
 
 ---
 

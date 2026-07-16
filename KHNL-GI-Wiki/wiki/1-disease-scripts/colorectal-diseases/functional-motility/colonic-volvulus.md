@@ -3,7 +3,7 @@ title: "Colonic Volvulus"
 category: disease-script
 tags: [colonic-volvulus, sigmoid-volvulus, cecal-volvulus, large-bowel-obstruction, detorsion, colonoscopy]
 created: 2026-06-22
-updated: 2026-06-22
+updated: 2026-07-16
 sources: [asge-2020-acpo-volvulus]
 ---
 
@@ -54,7 +54,6 @@ Mechanical **twisting (torsion) of a redundant colon segment along its mesenteri
 - Endoscopy is **contraindicated as primary therapy for cecal volvulus** and for any volvulus with peritonitis/perforation
 
 ## See Also
-
 [[acute-colonic-pseudo-obstruction]], [[colonoscopy]], [[chronic-idiopathic-constipation]], [[nausea-and-vomiting]]
 
 ---

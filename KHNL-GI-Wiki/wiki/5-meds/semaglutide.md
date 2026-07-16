@@ -3,8 +3,8 @@ title: "Semaglutide (Wegovy, Ozempic, Rybelsus)"
 category: med
 tags: [semaglutide, wegovy, ozempic, glp-1, glp1-ra, mash, masld, obesity, diabetes, t2dm, cardiovascular, ckd, weight-loss, essence-trial, select-trial, step-trials, hpb]
 created: 2026-05-25
-updated: 2026-07-01
-sources: ["[[aasld-2025-semaglutide-mash]]", "[[aga-2022-obesity-pharm]]", "[[hendershot-2025-semaglutide-aud]]"]
+updated: 2026-07-16
+sources: [aasld-2025-semaglutide-mash, aga-2022-obesity-pharm, hendershot-2025-semaglutide-aud]
 ---
 
 ## Overview
@@ -47,7 +47,7 @@ Semaglutide (Wegovy, 2.4 mg/week SC) received **accelerated FDA approval in Augu
 
 ### Patient Selection (AASLD 2025 Guidance)
 
-**[[liver-biopsy|Liver biopsy]] is NOT routinely required** for semaglutide candidacy. NIT-based approach is preferred. [[aasld-2025-semaglutide-mash]]
+**[[liver-biopsy|Liver biopsy]] is NOT routinely required** for semaglutide candidacy. A [[noninvasive-liver-disease-assessment|NIT]]-based approach is preferred. [[aasld-2025-semaglutide-mash]]
 
 **Sequential NIT strategy — flowchart:**
 
@@ -190,8 +190,7 @@ For VCTE 15–20 kPa, MRE 4.4–5 kPa, or ELF 10.5–11.3: individualized treatm
 
 ## See Also
 
-
-[[nafld-masld]], [[alcohol-associated-liver-disease]], [[acute-pancreatitis]]
+[[nafld-masld]], [[alcohol-associated-liver-disease]], [[acute-pancreatitis]], [[obesity]], [[resmetirom]], [[noninvasive-liver-disease-assessment]], [[liver-biopsy]], [[gastroparesis]], [[bariatric-surgery]], [[portal-hypertension]]
 
 ---
 

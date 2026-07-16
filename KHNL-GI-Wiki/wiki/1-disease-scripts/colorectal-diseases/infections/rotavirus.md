@@ -3,7 +3,7 @@ title: "Rotavirus Gastroenteritis"
 category: disease-script
 tags: [rotavirus, viral-gastroenteritis, diarrhea, infectious-diarrhea, vaccine]
 created: 2026-05-19
-updated: 2026-07-12
+updated: 2026-07-16
 sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
 ---
 
@@ -34,7 +34,7 @@ Rotavirus — with [[norovirus]] and adenovirus — is one of the viral agents t
 - Non-inflammatory bacterial — [[enterotoxigenic-e-coli|ETEC]]
 - Protozoal (watery, more often persistent) — [[giardiasis]], [[cryptosporidiosis]]
 - [[clostridioides-difficile|*C. difficile*]] colitis (antibiotic / healthcare exposure)
-- Non-infectious at ≥14 days — [[postinfectious-ibs|post-infectious IBS]], [[irritable-bowel-syndrome]], IBD
+- Non-infectious at ≥14 days — [[postinfectious-ibs|post-infectious IBS]], [[irritable-bowel-syndrome]], [[inflammatory-bowel-disease|IBD]]
 
 ---
 

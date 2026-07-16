@@ -3,7 +3,7 @@ title: "MRI / MRCP (Magnetic Resonance Cholangiopancreatography)"
 category: concept
 tags: [imaging, mri, mrcp, pancreas, biliary]
 created: 2026-06-04
-updated: 2026-06-04
+updated: 2026-07-16
 sources: [asge-2022-pancreatic-cancer-screening]
 ---
 
@@ -15,7 +15,7 @@ MRI/MRCP is also central to evaluation of [[pancreatic-cysts|pancreatic cysts]],
 
 ## See Also
 
-[[pancreatic-cancer-screening]], [[endoscopic-ultrasound]], [[pancreatic-cancer]], [[pancreatic-cysts]], [[cholangiocarcinoma]]
+[[pancreatic-cancer-screening]], [[endoscopic-ultrasound]], [[pancreatic-cancer]], [[pancreatic-cysts]], [[cholangiocarcinoma]], [[chronic-pancreatitis]], [[biliary-stricture]], [[peutz-jeghers-syndrome]], [[li-rads]]
 
 ---
 

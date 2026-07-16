@@ -3,7 +3,7 @@ title: "Nausea and Vomiting"
 category: diagnostic-schema
 tags: [nausea, vomiting, gastroparesis, cyclic-vomiting, cannabinoid-hyperemesis, motility, foregut]
 created: 2026-06-04
-updated: 2026-06-04
+updated: 2026-07-16
 sources: []
 ---
 
@@ -11,7 +11,7 @@ sources: []
 
 **Nausea** is the unpleasant sensation of an imminent urge to vomit; **vomiting** is the forceful oral expulsion of gastric contents via coordinated GI, abdominal-wall, and respiratory muscle activity. Distinguish from:
 
-- **Regurgitation** — effortless return of undigested food/liquid without nausea or retching (suggests [[gerd]], [[achalasia]], Zenker's, or rumination).
+- **Regurgitation** — effortless return of undigested food/liquid without nausea or retching (suggests [[gerd]], [[achalasia]], Zenker's, or [[rumination-syndrome|rumination]]).
 - **Rumination** — repetitive effortless regurgitation of recently ingested food within minutes of eating, with re-chewing; a behavioral [[disorders-of-gut-brain-interaction|DGBI]].
 
 Duration frames the differential: **acute** (<1 week — usually infection, drugs, toxins, or an acute abdomen) vs. **chronic/recurrent** (>1 month — motility, functional, obstructive, metabolic, or CNS causes). The **timing relative to meals** is a useful clue: vomiting of undigested food hours after eating suggests gastric outlet obstruction or [[gastroparesis]]; early-morning vomiting suggests pregnancy, raised intracranial pressure, or uremia.
@@ -82,7 +82,7 @@ flowchart TD
 - **[[upper-endoscopy|EGD]]** — excludes gastric outlet obstruction, [[peptic-ulcer-disease|PUD]], and [[gastric-adenocarcinoma|malignancy]] in chronic/refractory cases.
 - **Gastric emptying scintigraphy (4-hour)** — confirms [[gastroparesis]]; gold standard. Wireless motility capsule and ¹³C breath testing are alternatives.
 - **Brain CT/MRI** — when CNS features are present.
-- **Antroduodenal manometry** — selected refractory cases to evaluate for chronic intestinal pseudo-obstruction.
+- **[[small-bowel-motility|Antroduodenal manometry]]** — selected refractory cases to evaluate for chronic intestinal pseudo-obstruction.
 
 ---
 
@@ -100,4 +100,4 @@ flowchart TD
 
 ## See Also
 
-[[gastroparesis]], [[dyspepsia]], [[gerd]], [[peptic-ulcer-disease]], [[gastric-adenocarcinoma]], [[achalasia]], [[acute-pancreatitis]], [[choledocholithiasis]], [[upper-endoscopy]], [[upper-gi-bleeding]], [[acute-diarrhea]], [[liver-disease-in-pregnancy]], [[disorders-of-gut-brain-interaction]], [[acute-colonic-pseudo-obstruction]], [[colonic-volvulus]]
+[[gastroparesis]], [[dyspepsia]], [[gerd]], [[peptic-ulcer-disease]], [[gastric-adenocarcinoma]], [[achalasia]], [[rumination-syndrome]], [[acute-pancreatitis]], [[choledocholithiasis]], [[upper-endoscopy]], [[upper-gi-bleeding]], [[acute-diarrhea]], [[norovirus]], [[liver-disease-in-pregnancy]], [[disorders-of-gut-brain-interaction]], [[small-bowel-motility]], [[acute-colonic-pseudo-obstruction]], [[colonic-volvulus]]

@@ -3,13 +3,13 @@ title: "Liver Disease in Pregnancy"
 category: diagnostic-schema
 tags: [pregnancy, liver-disease, ihcp, intrahepatic-cholestasis, aflp, acute-fatty-liver, hellp, hyperemesis-gravidarum, preeclampsia, eclampsia, hepatitis-b, hepatitis-c, hpb, liver]
 created: 2026-05-19
-updated: 2026-05-19
+updated: 2026-07-16
 sources: [acg-2016-liver-disease-pregnancy, aasld-2021-reproductive-liver]
 ---
 
 ## Definition / Scope
 
-Abnormal liver tests occur in ~3–5% of pregnancies, even in otherwise healthy women. The differential encompasses:
+[[abnormal-liver-chemistries|Abnormal liver tests]] occur in ~3–5% of pregnancies, even in otherwise healthy women. The differential encompasses:
 
 1. **Diseases coincident with pregnancy** (pre-existing or incidental): viral hepatitis, biliary disease, [[drug-induced-liver-injury|DILI]], [[autoimmune-hepatitis|autoimmune hepatitis]], PBC, [[wilson-disease|Wilson's disease]], cirrhosis
 2. **Diseases unique to or exacerbated by pregnancy**: hyperemesis gravidarum (HG), intrahepatic cholestasis of pregnancy (IHCP), acute fatty liver of pregnancy (AFLP), preeclampsia/eclampsia with hepatic involvement, HELLP syndrome
@@ -45,11 +45,11 @@ Any abnormality in AST/ALT or bilirubin requires evaluation. ALP elevation alone
 | Preeclampsia with hepatic involvement | After 20 wk | New hypertension ≥140/90 + proteinuria ≥300 mg/24h; hepatomegaly, RUQ pain |
 | Eclampsia | After 20 wk | Preeclampsia + grand mal seizures |
 | HELLP syndrome | After 22 wk (typically 28–36 wk) | Hemolysis + elevated liver enzymes + platelets <100,000 cells/µl |
-| Acute fatty liver of pregnancy (AFLP) | Third (median 36 wk) | Nausea/vomiting, abdominal pain, encephalopathy, hypoglycemia, coagulopathy |
+| Acute fatty liver of pregnancy (AFLP) | Third (median 36 wk) | Nausea/vomiting, abdominal pain, [[hepatic-encephalopathy\|encephalopathy]], hypoglycemia, coagulopathy |
 
 ### Coincident Liver Diseases
 
-- Biliary: cholelithiasis (3.5% in pregnancy), cholecystitis, [[choledocholithiasis]], biliary pancreatitis
+- Biliary: cholelithiasis (3.5% in pregnancy), cholecystitis, [[choledocholithiasis]], [[acute-pancreatitis|biliary pancreatitis]]
 - Viral: [[chronic-hepatitis-b]], [[hepatitis-c|hepatitis C]] ([[hepatitis-c-in-pregnancy]]), HAV, HEV, HSV hepatitis
 - Autoimmune: [[autoimmune-hepatitis]], [[primary-biliary-cholangitis]]
 - Metabolic/genetic: [[wilson-disease]], [[nafld-masld]]
@@ -271,7 +271,7 @@ See also: [[hepatitis-c-in-pregnancy]]
 
 **Screening:** Screen women with risk factors for HCV with anti-HCV antibody (Rec 26); universal screening not recommended (note: this is 2016 guidance; more recent guidelines and CDC recommend universal screening in pregnancy)
 
-**Treatment:** No HCV therapy during pregnancy (Rec 30 — strong, very low evidence); interferon and ribavirin strictly contraindicated; no safety data for DAAs during pregnancy
+**Treatment:** No HCV therapy during pregnancy (Rec 30 — strong, very low evidence); interferon and ribavirin strictly contraindicated; no safety data for [[direct-acting-antivirals|DAAs]] during pregnancy
 
 **Breastfeeding:** Permitted; no evidence of increased HCV transmission risk via breastfeeding (Rec 29); avoid if cracked/bleeding nipples
 
@@ -312,7 +312,7 @@ See also: [[wilson-disease]]
 
 - Pregnancy in cirrhosis associated with increased prematurity, spontaneous abortion, and maternal-fetal mortality
 - Up to 30% of cirrhotic pregnant women bleed from esophageal varices; risk 50–78% if pre-existing varices
-- Variceal bleeding mortality per episode: 20–50% maternal mortality, even higher fetal loss risk
+- [[variceal-upper-gi-bleeding|Variceal bleeding]] mortality per episode: 20–50% maternal mortality, even higher fetal loss risk
 - **Screen for esophageal varices by [[upper-endoscopy|upper endoscopy]] in second trimester** if [[portal-hypertension|portal hypertension]] suspected (Rec 34 — strong, low evidence); most prudent timing after organogenesis complete in first trimester and before greatest bleed risk at delivery
 - **Treat large varices with beta-blockers and/or band ligation** (Rec 35 — conditional, very low evidence)
   - Propranolol: pregnancy category C; used for fetal arrhythmias, hypertension — overall safe; risks of IUGR, neonatal bradycardia, hypoglycemia
@@ -329,7 +329,7 @@ See also: [[wilson-disease]]
 - Pregnancy in liver transplant recipients: higher rates of preterm birth, LBW, cesarean section, maternal hypertension, preeclampsia; higher acute rejection risk if pregnancy within 6 months
 - **Continue all immunosuppression except mycophenolic acid** (Rec 36 — strong, moderate evidence)
   - **Mycophenolic acid (mycophenolate mofetil / MMF)**: CONTRAINDICATED — risk of congenital malformations (external ear/other facial abnormalities, distal limb, heart, esophagus, kidney) and embryo-fetal toxicity
-  - [[tacrolimus|Tacrolimus]], cyclosporine, AZA, sirolimus, everolimus, corticosteroids: low risk of congenital malformation; risks of prematurity and LBW reported but not significantly higher than general population
+  - [[tacrolimus|Tacrolimus]], [[calcineurin-inhibitors|cyclosporine]], AZA, sirolimus, everolimus, corticosteroids: low risk of congenital malformation; risks of prematurity and LBW reported but not significantly higher than general population
   - Everolimus/sirolimus: impaired wound healing — consider if cesarean section is planned
 - Breastfeeding: traditionally discouraged; growing small series report safety with minimal adverse events; pharmacokinetic data show minimal excretion of tacrolimus and cyclosporine in breast milk
 
@@ -364,12 +364,9 @@ See also: [[wilson-disease]]
 
 ---
 
-*Cross-references: [[acute-liver-failure]], [[abnormal-liver-chemistries]], [[chronic-hepatitis-b]], [[primary-biliary-cholangitis]], [[autoimmune-hepatitis]], [[wilson-disease]], [[hepatocellular-adenoma]], [[hepatic-hemangioma]], [[focal-nodular-hyperplasia]], [[variceal-upper-gi-bleeding]], [[hepatitis-c-in-pregnancy]], [[ercp]]*
-
 ## See Also
 
-
-[[abnormal-liver-chemistries]], [[acute-liver-failure]], [[chronic-hepatitis-b]], [[hepatitis-c-in-pregnancy]], [[autoimmune-hepatitis]], [[primary-biliary-cholangitis]], [[wilson-disease]], [[drug-induced-liver-injury]], [[nafld-masld]], [[portal-hypertension]], [[variceal-upper-gi-bleeding]], [[liver-transplantation]], [[ercp]]
+[[abnormal-liver-chemistries]], [[acute-liver-failure]], [[chronic-hepatitis-b]], [[hepatitis-c-in-pregnancy]], [[autoimmune-hepatitis]], [[primary-biliary-cholangitis]], [[wilson-disease]], [[drug-induced-liver-injury]], [[nafld-masld]], [[portal-hypertension]], [[variceal-upper-gi-bleeding]], [[liver-transplantation]], [[ercp]], [[hepatocellular-adenoma]], [[hepatic-hemangioma]], [[focal-nodular-hyperplasia]], [[hepatic-encephalopathy]], [[acute-pancreatitis]]
 
 ---
 

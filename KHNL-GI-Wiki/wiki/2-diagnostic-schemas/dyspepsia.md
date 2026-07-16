@@ -3,13 +3,13 @@ title: "Dyspepsia"
 category: diagnostic-schema
 tags: [dyspepsia, functional, stomach, foregut, dgbi, test-and-treat]
 created: 2026-05-16
-updated: 2026-05-19
+updated: 2026-07-16
 sources: [acg-cag-2017-dyspepsia]
 ---
 
 ## Definition / Scope
 
-Dyspepsia refers to one or more of: postprandial fullness, early satiation, epigastric pain, or epigastric burning — without a causative structural or metabolic lesion. ACG/CAG 2017 defines it clinically as **predominant epigastric pain lasting ≥1 month**, with or without other upper GI symptoms (fullness, nausea, vomiting, heartburn), provided epigastric pain is the patient's primary concern [[acg-cag-2017-dyspepsia]]. When no cause is found after evaluation, the diagnosis is **functional dyspepsia (FD)**, a [[disorders-of-gut-brain-interaction]].
+Dyspepsia refers to one or more of: postprandial fullness, early satiation, epigastric pain, or epigastric burning — without a causative structural or metabolic lesion. ACG/CAG 2017 defines it clinically as **predominant epigastric pain lasting ≥1 month**, with or without other upper GI symptoms (fullness, [[nausea-and-vomiting|nausea, vomiting]], heartburn), provided epigastric pain is the patient's primary concern [[acg-cag-2017-dyspepsia]]. When no cause is found after evaluation, the diagnosis is **functional dyspepsia (FD)**, a [[disorders-of-gut-brain-interaction]].
 
 **Uninvestigated dyspepsia:** Symptoms present without prior EGD. The test-and-treat strategy for H. pylori (see [[test-and-treat]]) applies in patients **<60** without alarm features (ACG/CAG 2017 raised the age threshold from <55 to <60 in older ACG guidance).
 
@@ -26,9 +26,9 @@ Dyspepsia refers to one or more of: postprandial fullness, early satiation, epig
 - [[gastroparesis]] — significant overlap with PDS; ~40% of patients reclassified on repeat gastric emptying study
 - [[peptic-ulcer-disease|Peptic ulcer disease]] — structural; detected on EGD
 - [[gastric-intestinal-metaplasia]] / [[gastric-premalignant-conditions]] — [[upper-endoscopy|upper endoscopy]] if alarm features
-- [[gerd|GERD]] — see [[gerd]]; heartburn/regurgitation predominant
+- [[gerd|GERD]] — heartburn/regurgitation predominant
 - Medication-induced — NSAIDs, iron, metformin
-- [[celiac-disease|Celiac disease]] — see [[celiac-disease]]; consider anti-TTG IgA
+- [[celiac-disease|Celiac disease]] — consider anti-TTG IgA
 - Malignancy — red flags trigger prompt EGD
 
 ---
@@ -94,12 +94,13 @@ Per ACG/CAG 2017, alarm features alone in patients <60 have **low PPV** for uppe
 
 ## PPI safety considerations
 
-ACG/CAG 2017 reviewed associations between long-term PPI and hip fracture, CAP, C. difficile, electrolyte disturbance, and dementia — concluded most likely residual confounding; even if causal, NNH >1,000 in most studies. Continue PPI when benefit is clear; reassess every 6–12 months and discontinue if no longer needed (consistent with FDA guidance).
+ACG/CAG 2017 reviewed associations between long-term PPI and hip fracture, CAP, [[clostridioides-difficile|C. difficile]], electrolyte disturbance, and dementia — concluded most likely residual confounding; even if causal, NNH >1,000 in most studies. Continue PPI when benefit is clear; reassess every 6–12 months and discontinue if no longer needed (consistent with FDA guidance).
+
+---
 
 ## See Also
 
-
-[[disorders-of-gut-brain-interaction]], [[test-and-treat]], [[helicobacter-pylori-infection]], [[gastroparesis]], [[gastric-intestinal-metaplasia]], [[gastric-premalignant-conditions]], [[gerd]], [[celiac-disease]]
+[[disorders-of-gut-brain-interaction]], [[test-and-treat]], [[helicobacter-pylori-infection]], [[gastroparesis]], [[gastric-intestinal-metaplasia]], [[gastric-premalignant-conditions]], [[gerd]], [[celiac-disease]], [[upper-endoscopy]], [[nausea-and-vomiting]], [[dysphagia]], [[jaundice]]
 
 ---
 

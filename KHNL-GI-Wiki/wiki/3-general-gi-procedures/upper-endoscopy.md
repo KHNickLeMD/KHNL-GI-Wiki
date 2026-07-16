@@ -3,7 +3,7 @@ title: "Upper Endoscopy (EGD)"
 category: general-procedure
 tags: [egd, upper-endoscopy, esophagogastroduodenoscopy, ugib, barrett-esophagus, peptic-ulcer, gpmc, celiac, quality-indicators]
 created: 2026-05-07
-updated: 2026-07-01
+updated: 2026-07-16
 sources: [acg-2025-egd-quality, aga-2024-upper-endoscopy-quality]
 ---
 
@@ -22,7 +22,7 @@ Supplementary best practice guidance from AGA 2024 Clinical Practice Update. [[a
 - [[gerd|GERD]] symptoms (alarm features or refractory)
 - Upper abdominal symptoms ([[dyspepsia]], nausea/vomiting)
 - [[upper-gi-bleeding|Upper GI bleeding]] (overt or occult/IDA)
-- Evaluation for gastric cancer / GPMC in high-risk patients
+- Evaluation for [[gastric-adenocarcinoma|gastric cancer]] / [[gastric-premalignant-conditions|GPMC]] in high-risk patients
 
 **Screening/surveillance:**
 
@@ -34,7 +34,7 @@ Supplementary best practice guidance from AGA 2024 Clinical Practice Update. [[a
 
 - Hemostasis (UGIB)
 - Dilation (strictures)
-- EMR/ESD for dysplasia (EoE, BE, early GC)
+- EMR/[[endoscopic-submucosal-dissection|ESD]] for dysplasia (EoE, BE, early GC)
 - Endobariatrics, third-space endoscopy (out of scope for this document)
 
 **Not indicated (commonly misused):** routine GERD without alarm features on PPI, nonspecific nausea without alarm features.
@@ -71,7 +71,7 @@ Document all of: esophagus, GEJ (antegrade), gastric cardia/fundus (retroflexed)
 | Nondysplastic BE (no prior dysplasia hx) | Surveillance no sooner than 3 years | >80% |
 | LA grade C/D erosive esophagitis | Recommend repeat EGD after acid suppression course | >90% |
 | Peptic esophageal stricture dilation | Recommend PPI (if no allergy/contraindication) | >98% |
-| BE with dysplasia or IMC undergoing EET | Complete IM eradication within 18 months | >75% |
+| BE with dysplasia or IMC undergoing [[endoscopic-eradication-therapy\|EET]] | Complete IM eradication within 18 months | >75% |
 
 ---
 
@@ -87,8 +87,8 @@ Document all of: esophagus, GEJ (antegrade), gastric cardia/fundus (retroflexed)
 | Gastric ulcer | Biopsy or plan follow-up to exclude malignancy | >80% |
 | GPMC, high-risk GC, or endoscopic concern for GPMC | Systematic biopsies: Sydney protocol (corpus, antrum, incisura) | >90% |
 | GPMC/high-risk GC/suspected GPMC | HDWLE + virtual (or dye-based) chromoendoscopy | >90% |
-| Gastric polyp (non-FGP appearance) >10mm | Biopsy or resect | >80% |
-| H. pylori–associated conditions (GPMC, PUD) | Document plan to test for H. pylori | >95% |
+| [[gastric-polyps\|Gastric polyp]] (non-FGP appearance) >10mm | Biopsy or resect | >80% |
+| [[helicobacter-pylori-infection\|H. pylori]]–associated conditions (GPMC, PUD) | Document plan to test for H. pylori | >95% |
 | Endoscopically diagnosed H. pylori | Document plan to treat AND confirm eradication | >95% |
 | Known GPMC | Document GPMC surveillance plan | >90% |
 
@@ -102,8 +102,6 @@ Document all of: esophagus, GEJ (antegrade), gastric cardia/fundus (retroflexed)
 
 ---
 
----
-
 ## AGA 2024 Supplementary Best Practice Guidance
 
 *Source: [[aga-2024-upper-endoscopy-quality]] — AGA Clinical Practice Update (CPU) Expert Review, Nagula et al., Clin Gastroenterol Hepatol 2024;22:933–943. Statements are expert-consensus level (no formal evidence rating).*
@@ -111,7 +109,7 @@ Document all of: esophagus, GEJ (antegrade), gastric cardia/fundus (retroflexed)
 ### Indication and Informed Consent (BPA 1)
 
 - A meta-analysis of 53,392 patients found 21.7% of EGDs had inappropriate indications; appropriate indication associated with higher diagnostic yield (OR 1.42; 95% CI, 1.36–1.49)
-- Informed consent must document risks, benefits, alternatives, sedation plan, and potential therapeutic interventions
+- Informed consent must document risks, benefits, alternatives, [[endoscopy-sedation|sedation]] plan, and potential therapeutic interventions
 - **GLP-1 receptor agonists (e.g., [[semaglutide]]):** Associated with delayed gastric emptying; ASA advises holding 1 dose before endoscopy to reduce aspiration risk (limited data; watch for updated society guidance)
 
 ### Mucosal Visualization (BPA 2)
@@ -228,7 +226,7 @@ More rigorous documentation is recommended for Barrett's esophagus, gastric inte
 
 ## See Also
 
-[[gastric-premalignant-conditions]], [[eosinophilic-esophagitis]], [[helicobacter-pylori-infection]], [[peptic-ulcer-disease]], [[barretts-esophagus]], [[celiac-disease]]
+[[gastric-premalignant-conditions]], [[gastric-adenocarcinoma]], [[gastric-intestinal-metaplasia]], [[gastric-polyps]], [[eosinophilic-esophagitis]], [[helicobacter-pylori-infection]], [[peptic-ulcer-disease]], [[barretts-esophagus]], [[endoscopic-eradication-therapy]], [[celiac-disease]], [[upper-gi-bleeding]], [[gerd]], [[dysphagia]], [[endoscopy-sedation]]
 
 ---
 

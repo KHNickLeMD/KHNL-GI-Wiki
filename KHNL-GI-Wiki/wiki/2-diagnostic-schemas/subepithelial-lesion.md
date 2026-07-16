@@ -3,17 +3,15 @@ title: "Subepithelial Lesion (SEL)"
 category: diagnostic-schema
 tags: [subepithelial-lesion, gist, leiomyoma, carcinoid, net, lipoma, eus, endoscopy]
 created: 2026-05-15
-updated: 2026-06-27
-sources:
-  - "[[acg-2023-subepithelial-lesions]]"
-  - "[[asge-2017-subepithelial-lesions]]"
+updated: 2026-07-16
+sources: [acg-2023-subepithelial-lesions, asge-2017-subepithelial-lesions]
 ---
 
 # Subepithelial Lesion (SEL)
 
 ## Definition / Scope
 
-A **subepithelial lesion** is a mass or mass-like structure that projects into the GI lumen and arises from a nonmucosal layer of the GI tract wall (deep mucosa, muscularis mucosa, submucosa, or muscularis propria). Structures adjacent to the GI tract can produce extrinsic compression that mimics SEL during endoscopy — up to one-third of suspected SEL are extramural on [[endoscopic-ultrasound|EUS]] evaluation.
+A **subepithelial lesion** is a mass or mass-like structure that projects into the GI lumen and arises from a nonmucosal layer of the GI tract wall (deep mucosa, muscularis mucosa, submucosa, or muscularis propria). Structures adjacent to the GI tract can produce extrinsic compression that mimics SEL during [[upper-endoscopy|endoscopy]] — up to one-third of suspected SEL are extramural on [[endoscopic-ultrasound|EUS]] evaluation.
 
 **Endoscopic appearance:** Smooth-surfaced mucosal mound with intact overlying mucosa. Standard mucosal biopsies are typically non-diagnostic. Lesions extrinsic to the lumen often move independently of the GI wall during patient respiration.
 
@@ -71,7 +69,7 @@ A **subepithelial lesion** is a mass or mass-like structure that projects into t
 | Metastasis | Any/all | Hypoechoic, heterogeneous | Stomach body/fundus, central depression; **endoscopic biopsy diagnostic >90%** (breast, lung, esophagus, RCC, melanoma) |
 | Lymphoma | 2nd, 3rd, or 4th | Hypoechoic | — |
 
-**Pillow sign caveat:** lipoma pillow sign is 98% specific (low sensitivity). **Duplication cyst:** anechoic, 3–5 layer wall ("duplication" of gut wall), submucosal or extrinsic — **avoid FNA when clearly anechoic** (infection risk); if FNA needed for a solid/hypoechoic component, use antibiotic prophylaxis.
+**Pillow sign caveat:** lipoma pillow sign is 98% specific (low sensitivity). **Duplication cyst:** anechoic, 3–5 layer wall ("duplication" of gut wall), submucosal or extrinsic — **avoid FNA when clearly anechoic** (infection risk); if FNA needed for a solid/hypoechoic component, use [[antibiotic-prophylaxis-endoscopy|antibiotic prophylaxis]].
 
 ---
 
@@ -280,8 +278,7 @@ Small-intestine GISTs are **more aggressive** (40–50% malignant vs 20–25% ga
 
 ## See Also
 
-
-[[endoscopic-ultrasound]], [[polypectomy-emr]], [[gastrointestinal-stromal-tumor]], [[gastroenteropancreatic-neuroendocrine-tumors]], [[atrophic-gastritis]], [[colonoscopy]], [[upper-endoscopy]]
+[[endoscopic-ultrasound]], [[polypectomy-emr]], [[endoscopic-submucosal-dissection]], [[gastrointestinal-stromal-tumor]], [[gastroenteropancreatic-neuroendocrine-tumors]], [[atrophic-gastritis]], [[colonoscopy]], [[upper-endoscopy]], [[antibiotic-prophylaxis-endoscopy]], [[small-bowel-bleeding]]
 
 ---
 

@@ -3,7 +3,7 @@ title: "Plecanatide"
 category: med
 tags: [plecanatide, gc-c-agonist, secretagogue, ibs-c, cic, constipation]
 created: 2026-05-19
-updated: 2026-05-19
+updated: 2026-07-16
 sources: [acg-2020-ibs, aga-acg-2023-constipation]
 ---
 
@@ -16,7 +16,7 @@ Guanylate cyclase-C agonist; uroguanylin analog (more pH-sensitive than [[linacl
 ## Indications & Dosing
 
 - **[[chronic-idiopathic-constipation]]**: 3 mg PO daily — Strong/Low ([[aga-acg-2023-constipation]])
-- **[[irritable-bowel-syndrome]]-C**: 3 or 6 mg PO daily — Strong/High ([[acg-2020-ibs]])
+- **[[irritable-bowel-syndrome|IBS]]-C**: 3 or 6 mg PO daily — Strong/High ([[acg-2020-ibs]])
 - May be taken with or without food
 
 ## Adverse Effects
@@ -30,8 +30,7 @@ Guanylate cyclase-C agonist; uroguanylin analog (more pH-sensitive than [[linacl
 
 ## See Also
 
-
-[[chronic-idiopathic-constipation]], [[irritable-bowel-syndrome]], [[linaclotide]], [[lubiprostone]], [[prucalopride]]
+[[chronic-idiopathic-constipation]], [[irritable-bowel-syndrome]], [[linaclotide]], [[lubiprostone]], [[prucalopride]], [[disorders-of-gut-brain-interaction]]
 
 ---
 

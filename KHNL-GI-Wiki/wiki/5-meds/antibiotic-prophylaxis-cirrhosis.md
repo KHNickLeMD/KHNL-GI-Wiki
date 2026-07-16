@@ -3,7 +3,7 @@ title: "Antibiotic Prophylaxis in Cirrhosis (GI Bleeding)"
 category: med
 tags: [cirrhosis, antibiotic-prophylaxis, ceftriaxone, norfloxacin, variceal-bleeding, sbp-prevention]
 created: 2026-05-15
-updated: 2026-06-29
+updated: 2026-07-16
 sources: [albhaisi-2025-prophylactic-antibiotics-cirrhosis, aasld-2021-ascites-sbp-hrs]
 ---
 
@@ -27,8 +27,7 @@ See [[variceal-upper-gi-bleeding]] for full clinical context.
 
 ## See Also
 
-
-[[variceal-upper-gi-bleeding]], [[spontaneous-bacterial-peritonitis]], [[upper-gi-bleeding]]
+[[variceal-upper-gi-bleeding]], [[spontaneous-bacterial-peritonitis]], [[upper-gi-bleeding]], [[antibiotic-prophylaxis-endoscopy]], [[cirrhosis-hemostasis]]
 
 ---
 

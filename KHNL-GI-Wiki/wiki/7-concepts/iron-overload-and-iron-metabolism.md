@@ -3,7 +3,7 @@ title: "Iron Overload and Iron Metabolism"
 category: concept
 tags: [iron, hepcidin, ferroportin, transferrin, ferritin, transferrin-saturation, iron-overload, hemochromatosis]
 created: 2026-05-19
-updated: 2026-05-19
+updated: 2026-07-16
 sources: [acg-2019-hereditary-hemochromatosis]
 ---
 
@@ -49,12 +49,9 @@ sources: [acg-2019-hereditary-hemochromatosis]
 - Hepatic iron concentration (HIC): direct measurement on [[liver-biopsy|liver biopsy]] (µmol/g dry weight); >71 µmol/g diagnostic of HH type 1
 - Hepatic iron index (HII): HIC ÷ age; ≥1.9 distinguishes homozygotes from heterozygotes and secondary overload
 
-**Related pages**: [[hereditary-hemochromatosis]], [[alcohol-associated-liver-disease]], [[drug-induced-liver-injury]]
-
 ## See Also
 
-
-[[hereditary-hemochromatosis]], [[nafld-masld]], [[alcohol-associated-liver-disease]], [[drug-induced-liver-injury]]
+[[hereditary-hemochromatosis]], [[nafld-masld]], [[alcohol-associated-liver-disease]], [[drug-induced-liver-injury]], [[liver-biopsy]]
 
 ---
 

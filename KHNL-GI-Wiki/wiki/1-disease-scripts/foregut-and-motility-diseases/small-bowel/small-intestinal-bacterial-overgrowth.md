@@ -3,7 +3,7 @@ title: "Small Intestinal Bacterial Overgrowth (SIBO)"
 category: disease-script
 tags: [sibo, imo, small-bowel, breath-testing, rifaximin, ibs, motility, microbiome, malabsorption]
 created: 2026-05-19
-updated: 2026-05-19
+updated: 2026-07-16
 sources: [acg-2020-sibo]
 ---
 
@@ -11,7 +11,7 @@ sources: [acg-2020-sibo]
 
 SIBO is a clinical syndrome of GI symptoms caused by the presence of excessive numbers of bacteria within the small intestine. The normal small bowel maintains relative sterility compared to the colon; SIBO represents a significant disruption of this balance. Bacteria are typically coliforms — predominantly Gram-negative aerobic and anaerobic species — that ferment carbohydrates, producing gas and short-chain fatty acids. SIBO is almost always an epiphenomenon of an underlying condition that leads to stasis, anatomic disruption, immune dysfunction, or altered motility in the small intestine. See [[acg-2020-sibo]].
 
-> **Note on IMO:** When methane is the predominant exhaled gas, the term **[[intestinal-methanogen-overgrowth|intestinal methanogen overgrowth (IMO)]]** is preferred, because methanogens are archaea (not bacteria). IMO is clinically associated with constipation rather than diarrhea. See [[intestinal-methanogen-overgrowth]].
+> **Note on IMO:** When methane is the predominant exhaled gas, the term **[[intestinal-methanogen-overgrowth|intestinal methanogen overgrowth (IMO)]]** is preferred, because methanogens are archaea (not bacteria). IMO is clinically associated with constipation rather than diarrhea.
 
 ---
 
@@ -70,6 +70,8 @@ No validated SIBO-specific patient-reported outcome (PRO) instrument currently e
 
 ## Differential Diagnosis
 
+*Workup: see [[chronic-diarrhea]].*
+
 Symptoms of SIBO are non-specific. The differential includes:
 
 - [[irritable-bowel-syndrome]] — most important overlap; up to 78% of IBS patients may have SIBO by meta-analysis; IBS is both a risk factor for and a mimic of SIBO
@@ -79,8 +81,8 @@ Symptoms of SIBO are non-specific. The differential includes:
 - Functional dyspepsia — bloating, nausea; part of [[disorders-of-gut-brain-interaction]] spectrum
 - [[microscopic-colitis|Microscopic colitis]] — chronic watery diarrhea
 - Lactose/fructose intolerance — symptoms triggered by specific carbohydrates; breath testing can be confounded
-- [[gastroparesis|Gastroparesis]] — delayed gastric emptying → altered small bowel motility; see [[gastroparesis]]
-- Intestinal pseudo-obstruction — Ogilvie syndrome, CIPO
+- [[gastroparesis|Gastroparesis]] — delayed gastric emptying → altered small bowel motility
+- Intestinal pseudo-obstruction — [[acute-colonic-pseudo-obstruction|Ogilvie syndrome]], CIPO
 - Small bowel dysmotility from systemic disease (scleroderma, diabetes, amyloidosis)
 
 ---
@@ -172,7 +174,6 @@ Before initiating antibiotic therapy: make an objective effort to diagnose SIBO 
 - Duration: typically 14 days (trials ranged 5–28 days)
 - Efficacy: 61–78%; meta-analysis of 32 trials (n=1,331): overall success rate 70.8% (CI 61.4–78.2%), adverse reactions 4.6%
 - Mechanism: gut-selective, minimal systemic absorption, low resistance risk
-- See [[rifaximin]]
 
 **Other systemic antibiotics (Table 5):**
 
@@ -236,7 +237,7 @@ Before initiating antibiotic therapy: make an objective effort to diagnose SIBO 
 
 ## See Also
 
-[[irritable-bowel-syndrome]], [[celiac-disease]], [[chronic-pancreatitis]], [[disorders-of-gut-brain-interaction]], [[intestinal-methanogen-overgrowth]], [[rifaximin]], [[small-bowel-motility]]
+[[chronic-diarrhea]], [[irritable-bowel-syndrome]], [[celiac-disease]], [[chronic-pancreatitis]], [[disorders-of-gut-brain-interaction]], [[intestinal-methanogen-overgrowth]], [[acute-colonic-pseudo-obstruction]], [[rifaximin]], [[small-bowel-motility]]
 
 ---
 

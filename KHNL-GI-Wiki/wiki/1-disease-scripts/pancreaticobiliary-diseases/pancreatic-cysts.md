@@ -3,7 +3,7 @@ title: "Pancreatic Cysts"
 category: disease-script
 tags: [pancreatic-cysts, ipmn, mcn, serous-cystadenoma, pseudocyst, spn, pancreas, eus-fna, mrcp, surveillance, pancreatic-cancer]
 created: 2026-05-19
-updated: 2026-05-19
+updated: 2026-07-16
 sources: [acg-2018-pancreatic-cysts]
 ---
 
@@ -36,7 +36,7 @@ Pancreatic cysts are a heterogeneous group of lesions, most detected incidentall
 
 **Imaging — preferred modality:**
 
-- **MRI/MRCP:** First-line. Non-invasive, no radiation, superior accuracy for assessing MPD communication (key for IPMN classification) and for detecting mural nodules. Detection rate 19.9% vs. 1.2–2.6% with CT. (Conditional/VLow)
+- **MRI/[[mri-mrcp|MRCP]]:** First-line. Non-invasive, no radiation, superior accuracy for assessing MPD communication (key for IPMN classification) and for detecting mural nodules. Detection rate 19.9% vs. 1.2–2.6% with CT. (Conditional/VLow)
 - **CT (pancreatic protocol):** Excellent alternative when MRI not possible. Accuracy 71–80% for benign vs. malignant. Good for calcifications and vascular involvement.
 - **EUS:** Not first-line for small, clearly benign cysts. Higher resolution than cross-sectional imaging; more accurate for mural nodule detection; enables FNA. Sensitivity 86–96% for malignant vs. benign; specificity 30–99%. Favored when FNA/fluid analysis needed. (Conditional/VLow)
 - **[[ercp|ERCP]]:** No longer recommended for routine cyst diagnosis or surveillance; limited role in evaluation of main duct IPMN. See [[ercp]].
@@ -293,8 +293,7 @@ Note: Surgery should be performed at a tertiary referral center by experienced s
 
 ## See Also
 
-
-[[acute-pancreatitis]], [[chronic-pancreatitis]], [[endoscopic-ultrasound]], [[ercp]]
+[[acute-pancreatitis]], [[chronic-pancreatitis]], [[pancreatic-cancer]], [[pancreatic-cancer-screening]], [[endoscopic-ultrasound]], [[ercp]], [[mri-mrcp]], [[gastroenteropancreatic-neuroendocrine-tumors]], [[jaundice]]
 
 ---
 

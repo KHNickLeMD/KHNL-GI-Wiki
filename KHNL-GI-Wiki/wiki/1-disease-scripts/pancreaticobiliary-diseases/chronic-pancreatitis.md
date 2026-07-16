@@ -3,7 +3,7 @@ title: "Chronic Pancreatitis"
 category: disease-script
 tags: [pancreatitis, chronic, pancreas, hpb, exocrine-insufficiency, pain]
 created: 2026-05-16
-updated: 2026-05-19
+updated: 2026-07-16
 sources: [acg-2020-chronic-pancreatitis, acg-2020-sibo, asge-2024-chronic-pancreatitis-endoscopy]
 ---
 
@@ -72,7 +72,7 @@ Key categories:
 - **Idiopathic:** early-onset (<35 yr) vs. late-onset (>35 yr)
 - **Genetic:** PRSS1 (AD, [[hereditary-pancreatitis|hereditary pancreatitis]]), SPINK1 (AR, severe), CFTR (cystic fibrosis or CFTR-RD), CTRC, CASR, CLDN2 (alcohol accelerator), CPA1, CEL (MODY-8)
 - **Autoimmune:** AIP type 1 (IgG4-related) / type 2 (IBD-associated)
-- **RAP and SAP:** biliary, post-ERCP, traumatic, undetermined
+- **RAP and SAP:** biliary, post-[[ercp|ERCP]], traumatic, undetermined
 - **Obstructive:** pancreas divisum, ampullary stenosis, main-duct stones, calcifications, strictures, mass
 
 ```
@@ -96,7 +96,7 @@ Disease-modifying:
 ## Differential Diagnosis
 
 - [[acute-pancreatitis]] — acute flares; RAP is precursor in 30% (overall ~60% of CP evolves from AP/RAP)
-- **Pancreatic adenocarcinoma** — new stricture/mass; consider in any new-onset CP, especially older, new diabetes + weight loss
+- **[[pancreatic-cancer|Pancreatic adenocarcinoma]]** — new stricture/mass; consider in any new-onset CP, especially older, new diabetes + weight loss
 - **Autoimmune pancreatitis (AIP)** — type 1 (IgG4-related; sausage pancreas, IgG4↑, steroid-responsive) vs. type 2 (IBD-associated, granulocytic epithelial lesions, younger)
 - [[biliary-stricture]] — CP = most common benign cause of extrahepatic [[biliary-stricture|biliary stricture]]
 - **Pancreas divisum / ampullary stenosis** — consider in idiopathic CP
@@ -112,7 +112,7 @@ Disease-modifying:
 ### Imaging
 
 - **CT (first-line):** calcifications, ductal dilation (>3 mm), parenchymal atrophy, pseudocysts; widespread calcifications are pathognomonic but late finding
-- **MRI/MRCP:** ductal anatomy, side branches; secretin-enhanced MRCP (s-MRCP) for subtle ductal changes (dilated side branches, ectatic main duct)
+- **MRI/[[mri-mrcp|MRCP]]:** ductal anatomy, side branches; secretin-enhanced MRCP (s-MRCP) for subtle ductal changes (dilated side branches, ectatic main duct)
 - **EUS (Rosemont criteria):** hyperechoic foci (with/without shadowing), hyperechoic strands, lobularity (with/without honeycombing), cysts; ductal features include main duct dilation, hyperechoic margin, stones, dilated side branches; >5 features = consistent with CP
 
 ### Pancreatic function tests
@@ -194,8 +194,7 @@ Experimental (research only): spinal cord stim, transmagnetic stim, radiation (K
 
 ## See Also
 
-
-[[acute-pancreatitis]], [[pancreatic-cysts]], [[biliary-stricture]], [[endoscopic-ultrasound]], [[ercp]], [[small-intestinal-bacterial-overgrowth]]
+[[acute-pancreatitis]], [[pancreatic-cancer]], [[pancreatic-cysts]], [[hereditary-pancreatitis]], [[biliary-stricture]], [[endoscopic-ultrasound]], [[ercp]], [[mri-mrcp]], [[pancreatic-cancer-screening]], [[small-intestinal-bacterial-overgrowth]]
 
 ---
 

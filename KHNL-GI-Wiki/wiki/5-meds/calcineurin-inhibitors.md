@@ -3,7 +3,7 @@ title: "Calcineurin Inhibitors"
 category: med
 tags: [calcineurin-inhibitor, tacrolimus, cyclosporine, immunosuppression, transplant, liver-transplant, nephrotoxicity, basiliximab, induction, cnm-minimization]
 created: 2026-05-19
-updated: 2026-05-25
+updated: 2026-07-16
 sources: [aasld-2012-liver-transplant-long-term, aasld-ast-2025-liver-transplant-graft-complications]
 ---
 
@@ -25,7 +25,7 @@ Calcineurin inhibitors (CNIs) — primarily [[tacrolimus]] (TAC) and cyclosporin
 - Alternative to [[tacrolimus]]; less DM but more HTN, dyslipidemia, hirsutism, gingival hyperplasia
 - Dosing: 2 mg/kg PO twice daily, adjusted to trough
 - Trough targets: 250–300 ng/mL (C0, first 3 months); 100–250 ng/mL (month 3 onward)
-- Direct antiviral interactions: sofosbuvir, glecaprevir, voxilaprevir (increased CSA levels)
+- [[direct-acting-antivirals|Direct antiviral]] interactions: sofosbuvir, glecaprevir, voxilaprevir (increased CSA levels)
 
 ## Induction — Delaying CNI Start
 
@@ -84,8 +84,7 @@ Complete IS withdrawal ([[operational-tolerance]]) is not routinely recommended 
 
 ## See Also
 
-
-[[tacrolimus]], [[liver-transplantation]], [[operational-tolerance]]
+[[tacrolimus]], [[liver-transplantation]], [[operational-tolerance]], [[direct-acting-antivirals]], [[antibody-mediated-rejection-liver-transplant]], [[post-transplant-lymphoproliferative-disorder]]
 
 ---
 

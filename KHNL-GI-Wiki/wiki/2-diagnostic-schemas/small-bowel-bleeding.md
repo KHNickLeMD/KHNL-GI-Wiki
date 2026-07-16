@@ -3,7 +3,7 @@ title: "Small Bowel Bleeding"
 category: diagnostic-schema
 tags: [small-bowel, gi-bleeding, obscure-gi-bleeding, mid-gi-bleeding, capsule-endoscopy, deep-enteroscopy, angioectasia, vce, dbe, iron-deficiency-anemia]
 created: 2026-05-19
-updated: 2026-06-22
+updated: 2026-07-16
 sources: [acg-2015-small-bowel-bleeding, aga-2020-ida, asge-2017-small-bowel-bleeding]
 ---
 
@@ -38,7 +38,7 @@ This guideline replaces the older term **"obscure GI bleeding (OGIB)"** with ana
 | [[inflammatory-bowel-disease\|Inflammatory bowel disease]] ([[crohns-disease]]) | [[angioectasia\|Angioectasia]] ([[angioectasia]]) | Henoch-Schönlein purpura |
 | Dieulafoy's lesions | Dieulafoy's lesions | Amyloidosis |
 | Neoplasia | Neoplasia | Blue rubber bleb nevus syndrome |
-| [[meckels-diverticulum]] | NSAID ulcers | Pseudoxanthoma elasticum |
+| [[meckels-diverticulum]] | [[peptic-ulcer-disease\|NSAID ulcers]] | Pseudoxanthoma elasticum |
 | Polyposis syndromes ([[familial-adenomatous-polyposis]], [[peutz-jeghers-syndrome]]) | | Osler-Weber-Rendu syndrome (HHT) |
 | | | Kaposi's sarcoma (AIDS) |
 | | | Plummer-Vinson syndrome |
@@ -62,7 +62,7 @@ This guideline replaces the older term **"obscure GI bleeding (OGIB)"** with ana
 
 ### Neoplastic
 
-- GI stromal cell tumor, lymphoma, carcinoid, adenocarcinoma, Dieulafoy's lesions — see also [[subepithelial-lesion]] for approach to SB masses.
+- [[gastrointestinal-stromal-tumor|GI stromal cell tumor]], lymphoma, [[gastroenteropancreatic-neuroendocrine-tumors|carcinoid]], adenocarcinoma, Dieulafoy's lesions — see also [[subepithelial-lesion]] for approach to SB masses.
 
 ### Previously Delisted Causes
 
@@ -217,11 +217,11 @@ This guideline replaces the older term **"obscure GI bleeding (OGIB)"** with ana
 
 If bleeding persists or recurs and lesion cannot be localized: *(Strong/Moderate)*
 
-- **Somatostatin analogs (octreotide):** Depot octreotide LAR 90 mg monthly or lanreotide IM monthly for 12 months (range 6–36). Meta-analysis confirms benefit in reducing transfusion requirements; no placebo-controlled RCT with hard endpoints. Age >65, male sex, antiplatelet therapy, COPD, and chronic renal failure are predictors of poor response.
+- **[[somatostatin-analogs|Somatostatin analogs]] (octreotide):** Depot octreotide LAR 90 mg monthly or lanreotide IM monthly for 12 months (range 6–36). Meta-analysis confirms benefit in reducing transfusion requirements; no placebo-controlled RCT with hard endpoints. Age >65, male sex, antiplatelet therapy, COPD, and chronic renal failure are predictors of poor response.
 - **Thalidomide (antiangiogenic):** One RCT — 71% of patients achieved ≥50% reduction in bleeding episodes vs. 4% on iron alone (p<0.001); 25 mg QID × 4 months with Hgb <8 g/dl entry criterion. Adverse effects in 73% (fatigue, constipation, somnolence). Off-label use — significant teratogenicity risk.
 - **Hormonal therapy (estrogen/progesterone):** NOT recommended — multicenter Spanish RCT showed no benefit vs. placebo. *(Evidence level: definitively resolved against)*
 - **Iron (oral or IV):** Standard supportive care regardless of other interventions.
-- **Anticoagulation/antiplatelet:** Discontinue if possible. *(Conditional/Very Low)*
+- **[[anticoagulation-gi-bleeding|Anticoagulation]]/antiplatelet:** Discontinue if possible. *(Conditional/Very Low)*
 
 ### Surgical Therapy
 
@@ -247,8 +247,7 @@ If bleeding persists or recurs and lesion cannot be localized: *(Strong/Moderate
 
 ## See Also
 
-
-[[upper-gi-bleeding]], [[acute-lower-gi-bleeding]], [[crohns-disease]], [[angioectasia]], [[meckels-diverticulum]], [[familial-adenomatous-polyposis]], [[peutz-jeghers-syndrome]], [[heydes-syndrome]], [[subepithelial-lesion]], [[celiac-disease]], [[capsule-endoscopy]], [[device-assisted-enteroscopy]]
+[[upper-gi-bleeding]], [[acute-lower-gi-bleeding]], [[crohns-disease]], [[inflammatory-bowel-disease]], [[angioectasia]], [[meckels-diverticulum]], [[familial-adenomatous-polyposis]], [[peutz-jeghers-syndrome]], [[heydes-syndrome]], [[hereditary-hemorrhagic-telangiectasia]], [[subepithelial-lesion]], [[celiac-disease]], [[capsule-endoscopy]], [[device-assisted-enteroscopy]], [[upper-endoscopy]], [[colonoscopy]], [[peptic-ulcer-disease]], [[somatostatin-analogs]], [[anticoagulation-gi-bleeding]]
 
 ---
 

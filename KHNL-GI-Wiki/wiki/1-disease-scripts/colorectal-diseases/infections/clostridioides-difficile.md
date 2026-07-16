@@ -3,7 +3,7 @@ title: "Clostridioides difficile Infection"
 category: disease-script
 tags: [cdiff, clostridioides-difficile, colitis, vancomycin, fidaxomicin, fmt, colorectal]
 created: 2026-05-15
-updated: 2026-07-01
+updated: 2026-07-16
 sources: [acg-2021-cdiff, aga-2024-fmt, aga-2026-cdiff-ibd, feuerstadt-2022-ser109-cdiff]
 ---
 
@@ -51,12 +51,14 @@ Additional markers of severe/poor-outcome disease (not formal criteria): low ser
 
 ## Differential Diagnosis
 
+*Workup: see [[acute-diarrhea]].*
+
 - Infectious colitis (bacterial: [[salmonella-infection|Salmonella]], [[campylobacter-infection|Campylobacter]], STEC; viral: [[norovirus]], CMV in immunocompromised)
 - [[inflammatory-bowel-disease|Inflammatory bowel disease]] flare ([[ulcerative-colitis]], [[crohns-disease]]) — note: CDI colonization is common in IBD and concurrent CDI + IBD flare must be distinguished from CDI alone or IBD alone
 - [[microscopic-colitis|Microscopic colitis]] (collagenous or lymphocytic)
 - Antibiotic-associated diarrhea without CDI (disrupted microbiome, osmotic)
 - Post-infection [[irritable-bowel-syndrome|irritable bowel syndrome]] (occurs in ~25% after treated CDI; C. difficile shedding may persist)
-- Ischemic colitis
+- [[colon-ischemia|Ischemic colitis]]
 - Medication-induced diarrhea
 
 ---
@@ -101,7 +103,7 @@ Additional markers of severe/poor-outcome disease (not formal criteria): low ser
 
 - Fidaxomicin preferred when recurrence risk is high (older age, prior CDI, use of concomitant antibiotics)
 - Do not use bile acid sequestrants (cholestyramine) concurrently with vancomycin — binds the antibiotic
-- Antimotility agents (loperamide) may be used cautiously after anti-CDI therapy is initiated; avoid before treatment and in fulminant disease
+- Antimotility agents ([[loperamide]]) may be used cautiously after anti-CDI therapy is initiated; avoid before treatment and in fulminant disease
 - [[rifaximin|Rifaximin]] and tigecycline have insufficient evidence; not currently recommended
 
 ### Severe Initial CDI
@@ -243,7 +245,6 @@ Higher doses of vancomycin (>125 mg QID) are not recommended for severe CDI — 
 - OVP highly effective in allogeneic hematopoietic stem cell recipients (0% CDI on prophylaxis vs 20% without)
 
 ## See Also
-
 
 [[ulcerative-colitis]], [[crohns-disease]], [[inflammatory-bowel-disease]], [[colonoscopy]], [[salmonella-infection]], [[campylobacter-infection]], [[norovirus]], [[irritable-bowel-syndrome]]
 

@@ -3,7 +3,7 @@ title: "Pancreatic Ductal Adenocarcinoma (Pancreatic Cancer)"
 category: disease-script
 tags: [pancreatic-cancer, pdac, oncology, screening, genetics, brca, eus, hpb]
 created: 2026-06-04
-updated: 2026-06-30
+updated: 2026-07-16
 sources: [asge-2022-pancreatic-cancer-screening, acg-2018-pancreatic-cysts, acg-2015-hereditary-gi-cancer, asge-2016-solid-pancreatic-neoplasia]
 ---
 
@@ -12,7 +12,7 @@ Pancreatic ductal adenocarcinoma (PDAC) is the dominant malignancy of the exocri
 ## Assessment
 
 ### Establishing the Diagnosis
-Symptomatic PDAC typically presents late with painless [[jaundice]] (head lesions obstructing the bile duct), weight loss, epigastric/back pain, new-onset diabetes, or anorexia. Cross-sectional imaging (pancreas-protocol CT or MRI/MRCP) identifies the mass and assesses vascular involvement/resectability; tissue is obtained by [[endoscopic-ultrasound|EUS]]-guided fine-needle aspiration/biopsy. CA 19-9 supports diagnosis and tracks response but is neither sensitive nor specific. By contrast, screen-detected disease in high-risk individuals is generally found as small solid lesions, high-grade dysplasia, or grade III pancreatic intraepithelial neoplasia.
+Symptomatic PDAC typically presents late with painless jaundice (head lesions obstructing the bile duct), weight loss, epigastric/back pain, new-onset diabetes, or anorexia. Cross-sectional imaging (pancreas-protocol CT or MRI/MRCP) identifies the mass and assesses vascular involvement/resectability; tissue is obtained by [[endoscopic-ultrasound|EUS]]-guided fine-needle aspiration/biopsy. CA 19-9 supports diagnosis and tracks response but is neither sensitive nor specific. By contrast, screen-detected disease in high-risk individuals is generally found as small solid lesions, high-grade dysplasia, or grade III pancreatic intraepithelial neoplasia.
 
 ### Risk Stratification / Genetic Susceptibility
 Germline pathogenic variants account for a meaningful share of PDAC — [[brca-pathogenic-variants|BRCA1/2]] variants are present in up to 7% of all pancreatic cancer patients. Conditions conferring increased risk include:
@@ -33,7 +33,10 @@ Importantly, per [[asge-2022-pancreatic-cancer-screening|ASGE 2022]], BRCA1/2 ca
 See the [[pancreatic-cancer-screening|high-risk pancreatic cancer surveillance]] concept page for the full ASGE 2022 framework. In brief: screening is suggested for individuals at increased genetic risk; modality is [[endoscopic-ultrasound|EUS]], MRI/MRCP, or EUS alternating with MRI; screening is annual; and the starting age varies by condition (e.g., BRCA1/2/PALB2/FPC/ATM/Lynch age 50 or 10 years before the youngest affected relative; FAMMM age 40; Peutz-Jeghers age 35; [[hereditary-pancreatitis|hereditary pancreatitis]] age 40).
 
 ## Differential Diagnosis
-- Other solid pancreatic masses: neuroendocrine tumor, metastasis, lymphoma, solid pseudopapillary neoplasm.
+
+*Workup: see [[jaundice]].*
+
+- Other solid pancreatic masses: [[gastroenteropancreatic-neuroendocrine-tumors|neuroendocrine tumor]], metastasis, lymphoma, solid pseudopapillary neoplasm.
 - Mass-forming or autoimmune (IgG4-related) [[chronic-pancreatitis|chronic pancreatitis]].
 - Cystic neoplasms with a solid component — see [[pancreatic-cysts|pancreatic cysts]] (IPMN, mucinous cystic neoplasm).
 - [[cholangiocarcinoma|Distal cholangiocarcinoma]] and ampullary carcinoma (overlapping obstructive presentation).
@@ -48,11 +51,11 @@ See the [[pancreatic-cancer-screening|high-risk pancreatic cancer surveillance]]
 - **Surgical resection** (Whipple/pancreaticoduodenectomy, distal pancreatectomy) is the only curative option, reserved for resectable/borderline-resectable disease — making early/screen-detected diagnosis the principal lever on survival (60% of screen-detected cancers were resectable/borderline-resectable vs ~20% of symptom-detected).
 - **Chemotherapy** — FOLFIRINOX and gemcitabine-based regimens (neoadjuvant, adjuvant, and palliative). Homologous-recombination-deficient (BRCA1/2, PALB2) tumors are sensitive to platinum-based regimens and PARP inhibitors (e.g., maintenance **olaparib** in germline BRCA-mutated metastatic disease).
 - **Harms of a screening/surveillance program** must be weighed: across screened cohorts, low-yield pancreatic surgery occurred in 2.8% overall but 46.6% of those operated, with a ~19.9% perioperative adverse-event rate among operated patients [[asge-2022-pancreatic-cancer-screening]]. Patients should be counseled on benefits and harms before enrolling.
-- **Endoscopic palliation** — endoscopic stent placement (SEMS) is the preferred modality for symptomatic, unresectable PDAC with malignant biliary and/or gastroduodenal obstruction; **EUS-guided celiac plexus neurolysis** for tumor-related pain; **EUS-guided fiducial placement** when image-guided radiotherapy is planned. Avoid **preoperative ERCP** for resectable PDAC with obstructive jaundice in the absence of cholangitis unless operative resection will be substantially delayed (preop biliary drainage increases perioperative complications). [[asge-2016-solid-pancreatic-neoplasia]]
+- **Endoscopic palliation** — endoscopic stent placement (SEMS) is the preferred modality for symptomatic, unresectable PDAC with malignant biliary and/or gastroduodenal obstruction; **EUS-guided celiac plexus neurolysis** for tumor-related pain; **EUS-guided fiducial placement** when image-guided radiotherapy is planned. Avoid **preoperative [[ercp|ERCP]]** for resectable PDAC with obstructive jaundice in the absence of cholangitis unless operative resection will be substantially delayed (preop biliary drainage increases perioperative complications). [[asge-2016-solid-pancreatic-neoplasia]]
 
 ## See Also
 
-[[pancreatic-cancer-screening]], [[endoscopic-ultrasound]], [[mri-mrcp]], [[pancreatic-cysts]], [[chronic-pancreatitis]], [[cholangiocarcinoma]], [[brca-pathogenic-variants]], [[familial-pancreatic-cancer]], [[fammm-syndrome]], [[peutz-jeghers-syndrome]], [[lynch-syndrome]], [[hereditary-pancreatitis]]
+[[pancreatic-cancer-screening]], [[endoscopic-ultrasound]], [[ercp]], [[mri-mrcp]], [[jaundice]], [[pancreatic-cysts]], [[chronic-pancreatitis]], [[cholangiocarcinoma]], [[gastroenteropancreatic-neuroendocrine-tumors]], [[brca-pathogenic-variants]], [[familial-pancreatic-cancer]], [[fammm-syndrome]], [[peutz-jeghers-syndrome]], [[lynch-syndrome]], [[hereditary-pancreatitis]]
 
 ---
 

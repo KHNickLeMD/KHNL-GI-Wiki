@@ -3,7 +3,7 @@ title: "Variceal Upper GI Bleeding"
 category: diagnostic-schema
 tags: [cirrhosis, portal-hypertension, variceal-bleeding, upper-gi-bleeding, hemostasis, antibiotic-prophylaxis, TIPS, EVL, carvedilol, NSBB, gastric-varices, preemptive-TIPS]
 created: 2026-05-15
-updated: 2026-05-28
+updated: 2026-07-16
 sources: [albhaisi-2025-prophylactic-antibiotics-cirrhosis, aasld-2023-portal-hypertension]
 ---
 
@@ -11,7 +11,7 @@ sources: [albhaisi-2025-prophylactic-antibiotics-cirrhosis, aasld-2023-portal-hy
 
 Acute variceal hemorrhage (AVH) refers to hemorrhage from esophageal or gastric varices in the setting of [[portal-hypertension|portal hypertension]] (PH), most commonly due to cirrhosis. It is a life-threatening emergency with 6-week mortality of approximately 15–20%. Varices form when HVPG exceeds 10–12 mmHg; bleeding risk rises sharply above 12 mmHg; HVPG >20 mmHg at index bleed = high-risk for treatment failure.
 
-Distinct from non-variceal UGIB (peptic ulcer, Mallory-Weiss, Dieulafoy) in management priorities: vasoactive agents, antibiotic prophylaxis, and early TIPS consideration are specific to variceal hemorrhage. See [[portal-hypertension]] for PH staging (cACLD/CSPH), surveillance decisions, and primary prophylaxis.
+Distinct from non-variceal [[upper-gi-bleeding|UGIB]] (peptic ulcer, Mallory-Weiss, Dieulafoy) in management priorities: vasoactive agents, [[antibiotic-prophylaxis-cirrhosis|antibiotic prophylaxis]], and early TIPS consideration are specific to variceal hemorrhage. See [[portal-hypertension]] for PH staging (cACLD/CSPH), surveillance decisions, and primary prophylaxis.
 
 ## Differential Diagnosis
 
@@ -20,7 +20,7 @@ In a cirrhotic patient with UGIB, consider:
 - **Esophageal varices** — most common (~70% of variceal bleeds)
 - **Gastric varices** — fundal (GOV2/IGV1) carry higher rebleed risk; often require different intervention (glue, BRTO, TIPS)
 - **Portal hypertensive gastropathy** — diffuse oozing, not brisk hemorrhage; may cause chronic blood loss
-- **[[peptic-ulcer-disease|Peptic ulcer disease]]** — cirrhosis increases risk (H. pylori, NSAIDs, impaired mucosal defense)
+- **[[peptic-ulcer-disease|Peptic ulcer disease]]** — cirrhosis increases risk ([[helicobacter-pylori-infection|H. pylori]], NSAIDs, impaired mucosal defense)
 - **Mallory-Weiss tear** — especially with retching/vomiting
 - **Gastric antral vascular ectasia (GAVE)** — chronic occult loss, watermelon stomach appearance
 
@@ -31,7 +31,7 @@ In a cirrhotic patient with UGIB, consider:
 1. **Resuscitation**: Large-bore IV access × 2; airway assessment (intubate if GCS altered/aspiration risk before endoscopy). Transfuse pRBCs to target Hgb **~7 g/dL** — restrictive strategy proven superior in cirrhosis (Villa RCT). **No FFP and no platelet transfusions** based on INR or platelet count targets — no evidence of benefit; FFP may cause harm (AASLD 2023 GS 29) [[aasld-2023-portal-hypertension]].
 
 2. **Start vasoactive therapy immediately** (GS 25): do not wait for endoscopy.
-   - **Octreotide:** 50 mcg IV bolus → 25–50 mcg/hr infusion × 2–5 days
+   - **[[somatostatin-analogs|Octreotide]]:** 50 mcg IV bolus → 25–50 mcg/hr infusion × 2–5 days
    - **Somatostatin:** 250 mcg IV bolus → 250–500 mcg/hr × 2–5 days
    - **Terlipressin** (not FDA approved in US): 2 mg IV q4–6h × 24–48h, then 1 mg q4–6h × 2–5 days
    - Continue vasoactive therapy if PH bleeding confirmed on endoscopy (GS 26)
@@ -58,7 +58,7 @@ In a cirrhotic patient with UGIB, consider:
 7. **Post-endoscopy care** (patients NOT receiving preemptive TIPS):
    - Start **NSBB** (carvedilol 6.25 mg daily → 12.5 mg/day) at **discontinuation of vasoactive therapy** (GS 33)
    - **Discontinue PPI** once AVH confirmed as the bleeding source (unless other indication; GS 37)
-   - Start **enteral nutrition** once AVH episode controlled; variceal bands do NOT contraindicate NG tube placement (GS 36)
+   - Start **[[nutrition-in-liver-disease|enteral nutrition]]** once AVH episode controlled; variceal bands do NOT contraindicate NG tube placement (GS 36)
 
 8. **Salvage/Rescue TIPS** (GS 35): Uncontrolled AVH despite vasoactive + EVL ("salvage") or rebleed ("rescue")
 
@@ -68,7 +68,7 @@ In a cirrhotic patient with UGIB, consider:
 
 ## Antibiotic Prophylaxis
 
-Standard practice recommends prophylactic antibiotics to prevent bacterial infections ([[spontaneous-bacterial-peritonitis|SBP]], bacteremia) that independently worsen outcomes in variceal [[upper-gi-bleeding|UGIB]].
+Standard practice recommends prophylactic antibiotics to prevent bacterial infections ([[spontaneous-bacterial-peritonitis|SBP]], bacteremia) that independently worsen outcomes in variceal UGIB.
 
 **Current guideline recommendation**: Ceftriaxone 1g IV daily × 5–7 days (preferred in Child-Pugh C or high-resistance settings); norfloxacin 400 mg PO BID × 7 days (alternative in low-resistance, Child-Pugh A/B)
 
@@ -104,8 +104,7 @@ Standard practice recommends prophylactic antibiotics to prevent bacterial infec
 
 ## See Also
 
-
-[[portal-hypertension]], [[upper-gi-bleeding]], [[acute-lower-gi-bleeding]], [[ascites]], [[spontaneous-bacterial-peritonitis]], [[hepatic-encephalopathy]], [[peptic-ulcer-disease]], [[liver-transplantation]], [[antibiotic-prophylaxis-cirrhosis]], [[rifaximin]], [[upper-endoscopy]]
+[[portal-hypertension]], [[upper-gi-bleeding]], [[acute-lower-gi-bleeding]], [[ascites]], [[spontaneous-bacterial-peritonitis]], [[hepatic-encephalopathy]], [[peptic-ulcer-disease]], [[helicobacter-pylori-infection]], [[liver-transplantation]], [[antibiotic-prophylaxis-cirrhosis]], [[somatostatin-analogs]], [[nutrition-in-liver-disease]], [[cirrhosis-hemostasis]], [[rifaximin]], [[upper-endoscopy]]
 
 ---
 

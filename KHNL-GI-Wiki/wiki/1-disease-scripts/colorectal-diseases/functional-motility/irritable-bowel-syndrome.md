@@ -3,7 +3,7 @@ title: "Irritable Bowel Syndrome"
 category: disease-script
 tags: [ibs, dgbi, functional, colorectal, motility, rome-iv, rome-v, fodmap, rifaximin, linaclotide, plecanatide, tca]
 created: 2026-05-16
-updated: 2026-07-07
+updated: 2026-07-16
 sources: [acg-2020-ibs, rome-v-2026-dgbi, acg-2020-sibo, aga-2022-ibs-c, aga-2022-ibs-d]
 ---
 
@@ -51,7 +51,7 @@ Subtypes by Bristol Stool Form Scale **on days with abnormal stools** (assess of
 
 - [[ulcerative-colitis]] / [[crohns-disease]] — calprotectin/lactoferrin + CRP screen (Strong/Moderate, [[acg-2020-ibs]])
 - [[celiac-disease]] — serology in IBS-D (Strong/Moderate; biopsy-proven CD OR 4.48 in IBS-D)
-- [[clostridioides-difficile]] / [[postinfectious-ibs|postinfection IBS]] (Giardia, [[campylobacter-infection|Campylobacter]]) — selective testing
+- [[clostridioides-difficile]] / [[postinfectious-ibs|postinfection IBS]] ([[giardiasis|Giardia]], [[campylobacter-infection|Campylobacter]]) — selective testing
 - [[chronic-idiopathic-constipation]] — distinguished from IBS-C by absence of pain dominance
 - [[defecation-disorders]] — anorectal dyssynergia may mimic IBS-C; ARM + BET if pelvic floor symptoms or refractory
 - [[microscopic-colitis|Microscopic colitis]] — older women, watery diarrhea, normal endoscopy with random biopsies
@@ -123,7 +123,6 @@ Subtypes by Bristol Stool Form Scale **on days with abnormal stools** (assess of
 6. Refractory: re-examine diagnosis; ARM+BET; specialty referral; consider neuromodulators
 
 ## See Also
-
 [[disorders-of-gut-brain-interaction]], [[postinfectious-ibs]], [[chronic-idiopathic-constipation]], [[defecation-disorders]], [[small-intestinal-bacterial-overgrowth]], [[celiac-disease]], [[rifaximin]], [[linaclotide]], [[plecanatide]], [[lubiprostone]], [[anorectal-manometry]]
 
 ---

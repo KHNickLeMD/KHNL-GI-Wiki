@@ -3,7 +3,7 @@ title: "Radiofrequency Ablation (RFA)"
 category: advanced-procedure
 tags: [barretts-esophagus, rfa, ablation, eet, dysplasia, radiation-proctopathy, biliary, foregut]
 created: 2026-06-04
-updated: 2026-07-14
+updated: 2026-07-16
 sources: [asge-2018-barretts-eet, acg-2022-barretts, aga-2024-barretts-eet, asge-2019-radiation-proctopathy, acg-2023-biliary-strictures, aasld-2023-hcc]
 ---
 
@@ -55,7 +55,7 @@ Radiofrequency ablation (RFA) delivers controlled thermal energy to destroy a th
 
 ## Outcomes
 
-- **LGD:** RFA reduces progression to HGD/EAC vs surveillance — SURF RCT **26.5% → 1.5%** (P<0.001) ([[acg-2022-barretts]]); pooled progression RR **0.14–0.16** ([[asge-2018-barretts-eet]]).
+- **LGD:** RFA reduces progression to HGD/[[esophageal-adenocarcinoma|EAC]] vs surveillance — SURF RCT **26.5% → 1.5%** (P<0.001) ([[acg-2022-barretts]]); pooled progression RR **0.14–0.16** ([[asge-2018-barretts-eet]]).
 - **HGD:** progression RR **0.22–0.42** vs surveillance.
 - **Post-CE-IM recurrence** (why surveillance is mandatory): any recurrence **7.5/100 patient-years**; IM **4.8**; dysplasia **2.0**. Most occur in the first 3 years; **75% at the GEJ**, where **~80% are endoscopically invisible** ([[acg-2022-barretts]]). Surveillance intervals live on [[barretts-esophagus]].
 - **Subsquamous ("buried") BE:** random biopsies of normal-appearing neosquamous epithelium yield ~1% recurrence — low ([[acg-2022-barretts]]).

@@ -3,7 +3,7 @@ title: "Fecal Incontinence"
 category: disease-script
 tags: [fecal-incontinence, anorectal, biofeedback, sacral-nerve-stimulation, pelvic-floor, colorectal]
 created: 2026-05-16
-updated: 2026-06-22
+updated: 2026-07-16
 sources: [acg-2021-anorectal-disorders, asge-2010-anorectal-disorders]
 ---
 
@@ -46,7 +46,7 @@ The Cleveland Clinic (Wexner) Fecal Incontinence Score or Fecal Incontinence Sev
 | [[inflammatory-bowel-disease\|IBD]] | Diarrhea urgency in [[crohns-disease\|Crohn's]] proctitis or [[ulcerative-colitis\|UC]]; specific treatment of IBD may improve FI |
 | [[rectal-prolapse\|Rectal prolapse]] | Visible prolapse; associated with FI and constipation |
 | Overflow incontinence | Fecal impaction with liquid feces leaking around; rectal exam reveals impaction |
-| Radiation proctopathy | History of pelvic radiation; radiation proctitis with urgency |
+| [[radiation-proctopathy|Radiation proctopathy]] | History of pelvic radiation; radiation proctitis with urgency |
 | Scleroderma | Dysmotility, malabsorption; distinctive manometry pattern |
 | Post-surgical (sphincter disruption) | Prior anorectal surgery, hemorrhoidectomy, fistulotomy, LIS |
 
@@ -77,7 +77,7 @@ The Cleveland Clinic (Wexner) Fecal Incontinence Score or Fecal Incontinence Sev
 
 **Strong/Low recommendation (antidiarrheal drugs):**
 
-- **Loperamide** 2–4 mg up to QID: reduces stool frequency and urgency; first-line pharmacotherapy; most evidence
+- **[[loperamide|Loperamide]]** 2–4 mg up to QID: reduces stool frequency and urgency; first-line pharmacotherapy; most evidence
 - **Diphenoxylate/atropine:** alternative antidiarrheal
 - **Bile salt binding agents** (cholestyramine): if bile acid malabsorption (post-cholecystectomy, ileal disease)
 - **Anticholinergic agents:** for urgency component (clonidine, others)
@@ -138,8 +138,6 @@ The Cleveland Clinic (Wexner) Fecal Incontinence Score or Fecal Incontinence Sev
 ---
 
 ## See Also
-
-
 [[defecation-disorders]], [[hemorrhoids]], [[anal-fissure]], [[rectal-prolapse]], [[sacral-nerve-stimulation]], [[biofeedback-therapy]], [[anorectal-manometry]]
 
 ---

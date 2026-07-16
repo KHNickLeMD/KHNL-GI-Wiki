@@ -3,7 +3,7 @@ title: "Postinfectious Irritable Bowel Syndrome (PI-IBS)"
 category: disease-script
 tags: [ibs, postinfectious-ibs, travelers-diarrhea, gastroenteritis, functional-gi, rome-iv, rome-v]
 created: 2026-05-19
-updated: 2026-06-09
+updated: 2026-07-16
 sources: [acg-2016-acute-diarrhea]
 ---
 
@@ -19,11 +19,7 @@ Postinfectious [[irritable-bowel-syndrome|IBS]] (PI-IBS) is a recognized chronic
 - No commercially available serologic or diagnostic test to confirm PI-IBS specifically.
 - Postinfectious IBS increases with more severe clinical presentation of the acute illness — additional rationale for aggressive treatment of TD.
 
-See [[irritable-bowel-syndrome]] for full IBS diagnostic criteria and management. See [[acute-diarrhea]] for acute illness context. See [[disorders-of-gut-brain-interaction]] for the Rome V framework.
-
 ## See Also
-
-
 [[irritable-bowel-syndrome]], [[acute-diarrhea]], [[disorders-of-gut-brain-interaction]]
 
 ---

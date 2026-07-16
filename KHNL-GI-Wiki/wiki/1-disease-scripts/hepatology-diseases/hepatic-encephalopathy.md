@@ -3,7 +3,7 @@ title: "Hepatic Encephalopathy"
 category: disease-script
 tags: [hepatic-encephalopathy, HE, cirrhosis, ammonia, lactulose, rifaximin, TIPS, portal-hypertension, ACLF, minimal-HE, covert-HE, overt-HE, portosystemic-shunting, brain-dysfunction]
 created: 2026-05-28
-updated: 2026-06-09
+updated: 2026-07-16
 sources: [aasld-easl-2014-hepatic-encephalopathy, acg-2026-hepatic-encephalopathy]
 ---
 
@@ -51,7 +51,7 @@ Every bout of HE should be characterized along all four axes simultaneously:
 ### Axis 4 — Precipitating Factors
 
 - **Spontaneous** (no identifiable precipitant)
-- **Precipitated** (specify): most common episodic precipitants (by decreasing frequency): infections\* > GI bleeding > diuretic overdose > electrolyte disorder > constipation > unidentified; most common recurrent precipitants: electrolyte disorders > infections > constipation > diuretic overdose > GI bleeding. *\*More recent data confirm infections (especially SBP) as dominant precipitant.*
+- **Precipitated** (specify): most common episodic precipitants (by decreasing frequency): infections\* > [[upper-gi-bleeding|GI bleeding]] > diuretic overdose > electrolyte disorder > constipation > unidentified; most common recurrent precipitants: electrolyte disorders > infections > constipation > diuretic overdose > GI bleeding. *\*More recent data confirm infections (especially [[spontaneous-bacterial-peritonitis|SBP]]) as dominant precipitant.*
 
 ---
 
@@ -149,7 +149,7 @@ All elements initiated simultaneously:
 - **Recommendation 31 (Grade I, A, 1):** Daily protein intake 1.2–1.5 g/kg/day — **protein restriction is NOT appropriate** (consistent with AASLD 2024 ACLF GS 42; see [[acute-on-chronic-liver-failure]])
 - **Recommendation 32 (Grade I, A, 1):** Small meals evenly distributed throughout the day + a **late-night snack** should be offered (exploits anabolic window overnight)
 - **Recommendation 33 (Grade II-2, B, 2):** Oral BCAA supplementation may allow recommended nitrogen intake in patients intolerant of dietary protein
-- Thiamine deficiency must be considered in ALD patients (and end-stage cirrhosis of any cause) — give IV thiamine before IV glucose
+- Thiamine deficiency must be considered in [[alcohol-associated-liver-disease|ALD]] patients (and end-stage cirrhosis of any cause) — give IV thiamine before IV glucose
 
 ### Treatment of MHE and CHE
 
@@ -197,10 +197,7 @@ Key discharge planning elements:
 
 ---
 
-*Cross-references: [[portal-hypertension]], [[acute-on-chronic-liver-failure]], [[aki-in-cirrhosis]], [[spontaneous-bacterial-peritonitis]], [[ascites]], [[variceal-upper-gi-bleeding]], [[liver-transplantation]], [[acute-liver-failure]], [[rifaximin]], [[alcohol-associated-liver-disease]], [[hepatitis-c]]*
-
 ## See Also
-
 
 [[acute-liver-failure]], [[acute-on-chronic-liver-failure]], [[portal-hypertension]], [[aki-in-cirrhosis]], [[spontaneous-bacterial-peritonitis]], [[ascites]], [[variceal-upper-gi-bleeding]], [[liver-transplantation]], [[rifaximin]], [[alcohol-associated-liver-disease]], [[hepatitis-c]]
 

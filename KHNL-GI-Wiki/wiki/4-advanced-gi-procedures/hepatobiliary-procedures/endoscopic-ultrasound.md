@@ -3,7 +3,7 @@ title: "Endoscopic Ultrasound (EUS)"
 category: advanced-procedure
 tags: [eus, endoscopic-ultrasound, fna, fnb, pancreatic-mass, pancreatic-cysts, ipmn, mcn, biliary-drainage, eus-guided-drainage, quality-indicators, gastroenterostomy]
 created: 2026-05-07
-updated: 2026-07-01
+updated: 2026-07-16
 sources: [acg-2025-eus-quality, acg-2018-pancreatic-cysts, asge-2024-solid-pancreatic-masses, asge-2011-eus-mediastinal-adenopathy]
 ---
 
@@ -17,8 +17,8 @@ EUS quality standards from ACG/ASGE 2025 Quality Indicator document. [[acg-2025-
 
 **Diagnostic:**
 
-- Staging upper GI malignancies (esophageal, gastric, rectal cancers)
-- Characterization of subepithelial lesions (SELs)
+- Staging upper GI malignancies ([[esophageal-cancer|esophageal]], [[gastric-adenocarcinoma|gastric]], [[colorectal-cancer|rectal]] cancers)
+- Characterization of [[subepithelial-lesion|subepithelial lesions]] (SELs)
 - Evaluation of pancreaticobiliary disorders (pancreatic masses, cysts, biliary dilation, [[choledocholithiasis]])
 - EUS-FNA/FNB of pancreatic masses, LN, or other lesions
 - [[pancreatic-cancer-screening|Pancreatic cancer screening]] in high-risk individuals (new indication vs prior)
@@ -43,7 +43,7 @@ Note: Therapeutic EUS now accounts for >50% of accepted EUS indications. Indicat
 ### Preprocedure
 
 - **Informed consent** must include EUS-specific risks (pancreatitis, infection, bile leak, perforation, bleeding based on procedure type)
-- **Prophylactic antibiotics:**
+- **[[antibiotic-prophylaxis-endoscopy|Prophylactic antibiotics]]:**
   - **NOT routinely needed** for EUS-FNA of [[pancreatic-cysts|pancreatic cysts]] (RCT: no difference in infection with vs without antibiotics)
   - Consider antibiotics in: immunosuppressed patients, multiple comorbidities, incomplete cyst aspiration, [[ascites]]
   - Mediastinal cysts: do NOT routinely sample (mediastinitis risk even with antibiotics)
@@ -91,8 +91,6 @@ Note: Therapeutic EUS now accounts for >50% of accepted EUS indications. Indicat
 
 ---
 
----
-
 ## EUS in Pancreatic Cyst Evaluation
 
 From [[acg-2018-pancreatic-cysts]]:
@@ -125,7 +123,7 @@ Cyst fluid CEA cannot distinguish high-grade dysplasia or cancer from low-grade 
 
 **EUS as surveillance modality:**
 
-- EUS is an acceptable primary surveillance tool for patients who cannot or prefer not to have MRI/MRCP
+- EUS is an acceptable primary surveillance tool for patients who cannot or prefer not to have [[mri-mrcp|MRI/MRCP]]
 - For cysts 2–3 cm: MRI or EUS q6–12 months initially
 - For cysts >3 cm: MRI alternating with EUS q6 months initially (multidisciplinary group involvement recommended)
 
@@ -160,8 +158,7 @@ From [[asge-2011-eus-mediastinal-adenopathy]]:
 
 ## See Also
 
-
-[[pancreatic-cysts]]
+[[pancreatic-cysts]], [[pancreatic-cancer]], [[pancreatic-cancer-screening]], [[ercp]], [[cholangioscopy]], [[subepithelial-lesion]], [[liver-biopsy]], [[choledocholithiasis]], [[acute-pancreatitis]], [[biliary-stricture]]
 
 ---
 

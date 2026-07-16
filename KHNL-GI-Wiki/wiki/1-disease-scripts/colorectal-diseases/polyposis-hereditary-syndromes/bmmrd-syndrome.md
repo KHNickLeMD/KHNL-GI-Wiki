@@ -3,7 +3,7 @@ title: "Biallelic Mismatch Repair Deficiency (BMMRD) Syndrome"
 category: disease-script
 tags: [bmmrd, cmmrd, mismatch-repair, hereditary-crc, colorectal-cancer, brain-tumor, lymphoma, pediatric-cancer, genetic-testing, mmr, cafe-au-lait, pms2, msh6, mlh1, msh2]
 created: 2026-05-24
-updated: 2026-05-24
+updated: 2026-07-16
 sources: [usmstf-2017-bmmrd]
 ---
 
@@ -55,7 +55,7 @@ BMMRD is characterized by three major tumor domains, all with childhood onset [[
 | Lymphoma (predominantly T-cell non-Hodgkin) | 20–40% | 5 (0.4–30) |
 | Leukemia | 10–40% | 8 (2–21) |
 
-**Other tumors** (each <10% penetrance; age range 1–35 years): endometrial cancer (age 19–44), urinary tract cancer (age 10–22), hepatic adenomas, neuroblastoma, Wilms tumor, rhabdomyosarcoma, osteosarcoma, melanoma, pilomatricoma.
+**Other tumors** (each <10% penetrance; age range 1–35 years): endometrial cancer (age 19–44), urinary tract cancer (age 10–22), [[hepatocellular-adenoma|hepatic adenomas]], neuroblastoma, Wilms tumor, rhabdomyosarcoma, osteosarcoma, melanoma, pilomatricoma.
 
 The rate of adenoma-to-cancer progression in BMMRD is the most rapid of any inherited colorectal cancer syndrome. Left-sided CRC predominates (in contrast to the right-sided predominance in LS). Synchronous and metachronous GI cancers are frequent: 20% of patients present with multiple synchronous CRCs; in one registry, half of patients followed developed metachronous GI cancers.
 
@@ -163,8 +163,7 @@ All surveillance recommendations are **weak, low to very low quality evidence** 
 
 ## See Also
 
-
-[[lynch-syndrome]], [[familial-adenomatous-polyposis]], [[mutyh-associated-polyposis]], [[colorectal-cancer]], [[juvenile-polyposis-syndrome]], [[colonoscopy]], [[upper-endoscopy]], [[capsule-endoscopy]]
+[[lynch-syndrome]], [[familial-adenomatous-polyposis]], [[mutyh-associated-polyposis]], [[colorectal-cancer]], [[juvenile-polyposis-syndrome]], [[colonoscopy]], [[upper-endoscopy]], [[capsule-endoscopy]], [[hepatocellular-adenoma]]
 
 ---
 

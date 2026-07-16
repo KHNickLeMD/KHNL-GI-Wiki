@@ -3,7 +3,7 @@ title: "Sclerosing Mesenteritis"
 category: disease-script
 tags: [sclerosing-mesenteritis, mesenteric-panniculitis, misty-mesentery, igg4, tamoxifen, corticosteroids]
 created: 2026-06-27
-updated: 2026-06-27
+updated: 2026-07-16
 sources: [aga-2025-sclerosing-mesenteritis]
 ---
 
@@ -23,14 +23,14 @@ Rare idiopathic fibroinflammatory disorder of the bowel mesentery (spectrum: mes
 ### Severity Assessment
 
 - Most disease is mild/non-progressive; only ~**1%–6%** of patients with SM imaging findings require treatment.
-- Complications marking severe disease: bowel obstruction, mesenteric **vascular compromise**, protein-losing enteropathy, ascites.
+- Complications marking severe disease: bowel obstruction, mesenteric **vascular compromise**, protein-losing enteropathy, [[ascites]].
 
 ## Differential Diagnosis
 
 *Workup is imaging-based (CT/MRI); biopsy reserved for atypical/malignancy-concerning features.*
 
 - Lymphoma (can mimic on imaging and cause lymphadenopathy)
-- Carcinoid / neuroendocrine tumor, peritoneal carcinomatosis, desmoid tumor
+- Carcinoid / [[gastroenteropancreatic-neuroendocrine-tumors|neuroendocrine tumor]], peritoneal carcinomatosis, desmoid tumor
 - **IgG4-related disease** (surgical biopsy with IgG4 staining when needed)
 - Treatment-related mesenteric changes (e.g., post immune checkpoint inhibitor)
 
@@ -55,7 +55,7 @@ Rare idiopathic fibroinflammatory disorder of the bowel mesentery (spectrum: mes
 
 ## See Also
 
-[[acute-mesenteric-ischemia]], [[ascites]], [[gastrointestinal-stromal-tumor]]
+[[acute-mesenteric-ischemia]], [[ascites]], [[gastrointestinal-stromal-tumor]], [[gastroenteropancreatic-neuroendocrine-tumors]]
 
 ---
 

@@ -3,7 +3,7 @@ title: "Acute Colonic Pseudo-Obstruction (Ogilvie's Syndrome)"
 category: disease-script
 tags: [acpo, ogilvie, colonic-dysmotility, large-bowel-obstruction, neostigmine, colonoscopy]
 created: 2026-06-22
-updated: 2026-06-22
+updated: 2026-07-16
 sources: [asge-2020-acpo-volvulus]
 ---
 
@@ -78,7 +78,6 @@ flowchart TD
 **Surgery** — reserved for overt perforation or peritonitis.
 
 ## See Also
-
 [[colonic-volvulus]], [[colonoscopy]], [[chronic-idiopathic-constipation]], [[nausea-and-vomiting]], [[clostridioides-difficile]]
 
 ---

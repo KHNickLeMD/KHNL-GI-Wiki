@@ -3,7 +3,7 @@ title: "Wilson's Disease"
 category: disease-script
 tags: [wilson-disease, copper, atp7b, hepatic, neuropsychiatric, kayser-fleischer, ceruloplasmin, hpb, liver, genetic, pregnancy, chelation, D-penicillamine, trientine, zinc, Leipzig-score, NWI]
 created: 2026-05-19
-updated: 2026-05-28
+updated: 2026-07-16
 sources: [acg-2017-liver-chemistries, acg-2016-liver-disease-pregnancy, aasld-2022-wilson-disease]
 ---
 
@@ -61,11 +61,13 @@ Predicts mortality without LT; uses Bilirubin + INR + AST + WBC + Albumin:
 
 ## Differential Diagnosis
 
+*Workup: see [[abnormal-liver-chemistries]].*
+
 - [[autoimmune-hepatitis]] — can coexist; AIH pattern on biopsy + elevated IgG overlap with WD; concurrent WD + AIH possible (rare); must differentiate by copper studies
 - [[drug-induced-liver-injury]] — medication/supplement history; RUCAM scoring; copper studies normal
 - [[alcohol-associated-liver-disease]] — AST:ALT >2:1; alcohol history; no copper overload
 - [[nafld-masld]] — metabolic risk factors; steatosis; hepatic copper usually very low (unlike WD)
-- [[acute-liver-failure]] — WD-ALF triad: Coombs-negative hemolysis + coagulopathy + encephalopathy ± modest ALT (<2000 IU/L); ALP characteristically very low
+- [[acute-liver-failure]] — WD-ALF triad: Coombs-negative hemolysis + coagulopathy + [[hepatic-encephalopathy|encephalopathy]] ± modest ALT (<2000 IU/L); ALP characteristically very low
 - [[hereditary-hemochromatosis]] — iron overload vs. copper overload; TS + SF elevated in HH; distinct genetics
 - [[primary-sclerosing-cholangitis]] — biliary disease; MRCP cholangiographic changes; normal copper
 - [[primary-biliary-cholangitis]] — AMA+; elevated ALP; elevated copper in cholestasis can mimic WD (MDR3 deficiency similarly)

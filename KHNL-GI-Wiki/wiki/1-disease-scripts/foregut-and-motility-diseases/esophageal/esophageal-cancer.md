@@ -3,7 +3,7 @@ title: "Esophageal Cancer"
 category: disease-script
 tags: [esophagus, malignancy, adenocarcinoma, squamous-cell-carcinoma, egj, dysphagia, her2, pd-l1, msi-h, flot, chemoradiation, esophagectomy, endoscopic-resection, nccn, oncology]
 created: 2026-06-04
-updated: 2026-06-18
+updated: 2026-07-16
 sources: [nccn-2026-esophageal-egj-cancer]
 ---
 
@@ -11,7 +11,7 @@ sources: [nccn-2026-esophageal-egj-cancer]
 
 ### Establishing the Diagnosis
 
-Esophageal and esophagogastric junction (EGJ) cancers present most often with progressive solid-food [[dysphagia]], weight loss, odynophagia, and iron-deficiency anemia — a classic alarm-feature presentation that mandates prompt [[upper-endoscopy|endoscopy]] with biopsy. Diagnosis is histologic; staging follows with endoscopic ultrasound ([[endoscopic-ultrasound|EUS]]) for T and N assessment, CT of chest/abdomen, and PET/CT to detect distant disease.
+Esophageal and esophagogastric junction (EGJ) cancers present most often with progressive solid-food dysphagia, weight loss, odynophagia, and iron-deficiency anemia — a classic alarm-feature presentation that mandates prompt [[upper-endoscopy|endoscopy]] with biopsy. Diagnosis is histologic; staging follows with endoscopic ultrasound ([[endoscopic-ultrasound|EUS]]) for T and N assessment, CT of chest/abdomen, and PET/CT to detect distant disease.
 
 ### Classification / Typing
 
@@ -27,6 +27,8 @@ EGJ tumors (Siewert classification) straddle the esophageal and [[gastric-adenoc
 TNM staging is histology-specific. Depth of invasion separates endoscopically curable disease (Tis/T1a mucosal) from disease requiring surgery or chemoradiation (T1b and deeper). For advanced/metastatic disease, biomarker testing — **HER2 (ERBB2), PD-L1 CPS, and MSI-H/dMMR** — is integral to therapy selection.
 
 ## Differential Diagnosis
+
+*Workup: see [[dysphagia]].*
 
 [[gerd|Peptic stricture]] and other benign strictures, [[eosinophilic-esophagitis|eosinophilic esophagitis]], [[achalasia]] and other motility disorders, esophageal [[gastrointestinal-stromal-tumor|GIST]] or other subepithelial lesions, [[barretts-esophagus|Barrett's]] with dysplasia, and extrinsic compression.
 

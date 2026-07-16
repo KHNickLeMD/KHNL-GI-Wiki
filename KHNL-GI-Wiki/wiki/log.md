@@ -6,6 +6,41 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-07-16] lint | Whole-wiki link + structure pass (172 pages), one genuinely uningested guideline found, index reconciled; PDF tooling unavailable so ingest + stub expansion deferred
+
+**Scope:** Parallel subagent pass across all wiki folders (13 batches). Link/structure only — **no clinical claims added or altered**, because PDF tooling was unavailable (see Blocked).
+
+**Blocked — PDF tooling missing:**
+- PyMuPDF/poppler are not installed and installing them required an approval unavailable on this pass. `raw/*.pdf` was therefore unreadable.
+- **Ingest: 0 files** (schema allows up to 2/pass). **Stub expansion: 0** (schema allows 1–2/pass). Both need the raw PDFs; per the Content Guide hard constraint, nothing was filled in from general knowledge.
+
+**Ingest-queue reconciliation (fuzzy-matched all 212 raw guideline/RCT files against 208 source slugs):**
+- **`raw/GI Guidelines/ASGE/ASGE 2015 Bowel Preparation Before Colonoscopy.pdf` has no source page — the one genuine gap found.** Superseded by [[usmstf-2025-bowel-prep]] but may still contribute net-new non-conflicting detail. **Ingest target for the next pass with PDF access.**
+- `ASGE 2025 Bowel Preparation Quality.pdf` is the *same document* as [[usmstf-2025-bowel-prep]] / [[acg-2025-bowel-prep]] (one consensus statement published simultaneously in three society journals) — already ingested, no action.
+- `AGA 2026 CPU Hemorrhoids (duplicate).pdf` is a byte-level duplicate of the ingested `AGA 2026 CPU Hemorrhoids.pdf` — **user triage: safe to delete from `raw/`.**
+- All other raw files reconcile to an existing source page. Lecture/chalk-talk transcripts remain **gated — not auto-ingested** (see User Triage).
+
+**Link integrity (whole wiki, 410 pages):** 0 broken links, 0 orphan pages, 0 duplicate basenames, 8,180 wiki-links. Index: 0 unindexed pages, 0 unindexed sources, 0 index entries without a page.
+
+**Hygiene fixes:**
+- `index.md`: added missing `[[rumination-syndrome]]` entry (only unindexed entity page); collapsed the stray `#### Gastric (continued)` split back into one `#### Gastric` section and removed the blank line breaking its list; `updated: 2026-07-16`.
+- `[[liver-transplantation]]`: unwrapped 5 backticked `` `[[source-slug]]` `` citations in clinical prose that rendered as literal code instead of links (the same sentences already used the plain link form).
+
+**Key contributions (across 172 pages):**
+- **~330 inline `[[slug|Displayed Words]]` links added** on first mentions; ~25 DDx diagnostic-schema pointers added.
+- **Rendering bugs fixed:** ~20 backticked pseudo-links that never rendered ([[liver-biopsy]] worst — 8, incl. every link in its Indications section; also [[cholangiocarcinoma]], [[biliary-stricture]], [[ercp]], [[cholangioscopy]], [[brush-cytology]], [[fish]], [[confocal-laser-endomicroscopy]]).
+- **Malformed frontmatter `sources:`** (quoted wiki-links instead of bare slugs) normalized on [[ampullary-adenoma]], [[semaglutide]], [[biliary-stricture]], [[acute-lower-gi-bleeding]], [[subepithelial-lesion]]; frontmatter/`## Sources` desync fixed on 8 more.
+- **Mis-targeted links repaired:** [[dysphagia]] pointed "web/ring" at the EoE page; [[colorectal-cancer-screening]] had `[[colorectal-cancer|FIT]]`; [[probiotics]] had `[[inflammatory-bowel-disease|microbiome]]`; [[high-resolution-manometry]] left ".0" outside the Chicago v4.0 link.
+- **ADDT/structure:** [[peptic-ulcer-disease]] `## Differential` → `## Differential Diagnosis`; [[hereditary-diffuse-gastric-cancer]] `### Cancer Risk Profile` → `### Severity Assessment` (a wiki-link in the heading was breaking anchor slugification); [[mutyh-associated-polyposis]] rebuilt into ADDT by re-filing its existing facts; [[focal-liver-lesions]], [[ascites]], [[acute-lower-gi-bleeding]] heading fixes.
+- **Dedup (one home per fact):** removed ~15 redundant trailing `*Cross-references:*` / "See [[x]]" lines that duplicated `## See Also` verbatim; de-duplicated repeated figures on [[hereditary-diffuse-gastric-cancer]] and links on [[hepatocellular-carcinoma]].
+- `## See Also` spacing/format normalized on ~40 pages.
+
+**Deliberately NOT changed (reported for triage):**
+- Backticked `[[slugs]]` inside source pages' `## Relevance to Wiki` sections (17 files) — a consistent section-level convention using slugs as identifiers, not navigation. Mass-unwrapping is a judgment call for the user.
+- 24 source pages carry source slugs in `## See Also`, against the Style Guide. Pre-existing; `wiki/sources/` was out of this pass's batch scope.
+
+---
+
 ## [2026-07-14] update | gastric-intestinal-metaplasia — folded in ACG 2025 GPMC recommendations (Nick-directed)
 
 `[[gastric-intestinal-metaplasia]]` was citing only [[aga-2020-gastric-intestinal-metaplasia]] while the fully-ingested [[acg-2025-gastric-premalignant]] source existed unlinked. Added ACG 2025 content throughout: **updated Sydney containering** (antrum+incisura / corpus / targeted separate), **5-component high-quality endoscopy** prerequisite (HDWLE, CO₂, cleansing, photodocumentation, inspection time), expanded **histology reporting** (subtype complete/incomplete/mixed + extent limited-vs-extensive + severity), **ACG high-/low-risk definitions** and q3y surveillance (+q1–2y for multiple risk factors; against repeat EGD <12mo for nondysplastic GPMC), new **dysplasia/ESD management** subsection (resect if visible margins, ESD at high-volume center, post-resection surveillance), and **against aspirin/NSAID/COX-2/antioxidant chemoprevention**. Frontmatter `sources:` +`acg-2025-gastric-premalignant`; added source #2 to `## Sources`; `updated: 2026-07-14`. Index line refreshed to (2 sources).

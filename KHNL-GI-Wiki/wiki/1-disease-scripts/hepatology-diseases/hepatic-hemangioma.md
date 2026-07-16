@@ -3,7 +3,7 @@ title: "Hepatic Hemangioma"
 category: disease-script
 tags: [hemangioma, liver, hpb, focal-liver-lesion, benign-liver, mri, cavernous-hemangioma]
 created: 2026-05-07
-updated: 2026-06-20
+updated: 2026-07-16
 sources: [acg-2024-focal-liver-lesions]
 ---
 
@@ -79,7 +79,7 @@ sources: [acg-2024-focal-liver-lesions]
 - Echogenic, well-defined lesion (classic); posterior acoustic enhancement
 - Insufficient alone for diagnosis; overlap with other lesions
 
-**Biopsy:** generally **avoided** — highly vascular; risk of significant hemorrhage; rarely necessary given reliable imaging characteristics
+**[[liver-biopsy|Biopsy]]:** generally **avoided** — highly vascular; risk of significant hemorrhage; rarely necessary given reliable imaging characteristics
 
 ---
 

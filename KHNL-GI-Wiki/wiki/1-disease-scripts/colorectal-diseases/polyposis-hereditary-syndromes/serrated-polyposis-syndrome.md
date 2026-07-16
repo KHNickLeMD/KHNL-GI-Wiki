@@ -3,7 +3,7 @@ title: "Serrated Polyposis Syndrome"
 category: disease-script
 tags: [serrated-polyposis, sps, hyperplastic-polyposis, sessile-serrated, colorectal-cancer, polyposis, mutyh]
 created: 2026-05-19
-updated: 2026-05-19
+updated: 2026-07-16
 sources: [acg-2015-hereditary-gi-cancer]
 ---
 
@@ -11,7 +11,9 @@ sources: [acg-2015-hereditary-gi-cancer]
 
 ### Establishing the Diagnosis
 
-Serrated polyposis syndrome (SPS), previously called hyperplastic polyposis syndrome, is characterized by a predisposition to serrated polyps throughout the colorectum and an increased risk of [[colorectal-cancer]] [[acg-2015-hereditary-gi-cancer]]. No clear genetic etiology has been established.
+- Predisposition to serrated polyps throughout the colorectum + increased risk of [[colorectal-cancer|CRC]] [[acg-2015-hereditary-gi-cancer]]
+- Previously called hyperplastic polyposis syndrome
+- No clear genetic etiology established
 
 **WHO diagnostic criteria (any one must be met)** [[acg-2015-hereditary-gi-cancer]]:
 
@@ -19,7 +21,10 @@ Serrated polyposis syndrome (SPS), previously called hyperplastic polyposis synd
 - (ii) Any number of serrated polyps proximal to the sigmoid colon in an individual who has a **first-degree relative (FDR) with SPS**; OR
 - (iii) >20 serrated polyps of any size, distributed throughout the large intestine
 
-**Polyp spectrum**: Originally only hyperplastic polyps were included in the diagnostic criteria; the preferred term is now "serrated polyposis syndrome" to reflect the inclusion of sessile serrated adenomas/polyps (SSA/Ps) and traditional serrated adenomas (TSAs), in addition to hyperplastic polyps.
+**Polyp spectrum**:
+
+- Original criteria included hyperplastic polyps only
+- Preferred term now "serrated polyposis syndrome" — reflects inclusion of sessile serrated adenomas/polyps (SSA/Ps) and traditional serrated adenomas (TSAs) alongside hyperplastic polyps
 
 **Epidemiology**:
 
@@ -92,7 +97,6 @@ Serrated polyposis syndrome (SPS), previously called hyperplastic polyposis synd
 ---
 
 ## See Also
-
 
 [[familial-adenomatous-polyposis]], [[mutyh-associated-polyposis]], [[lynch-syndrome]], [[juvenile-polyposis-syndrome]], [[colorectal-cancer]], [[colonoscopy]], [[polypectomy-emr]]
 

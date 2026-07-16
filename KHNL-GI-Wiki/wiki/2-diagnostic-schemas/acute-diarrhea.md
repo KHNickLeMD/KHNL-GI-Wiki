@@ -3,7 +3,7 @@ title: "Acute Diarrhea"
 category: diagnostic-schema
 tags: [diarrhea, infectious-diarrhea, travelers-diarrhea, gastroenteritis, acute, dysentery, loperamide, antibiotic, prevention]
 created: 2026-05-19
-updated: 2026-06-11
+updated: 2026-07-16
 sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
 ---
 
@@ -65,12 +65,12 @@ Acute diarrhea is defined as an increase in stool frequency or looseness above t
 ### Non-infectious Mimics
 
 - [[clostridioides-difficile]] — postantibiotic; healthcare-associated; always test if recent antibiotics (covered by separate ACG guideline [[acg-2021-cdiff]])
-- [[irritable-bowel-syndrome]] — particularly [[postinfectious-ibs|postinfectious IBS]] ([[postinfectious-ibs]]) — onset after acute gastroenteritis; Rome IV/V criteria
+- [[irritable-bowel-syndrome]] — particularly [[postinfectious-ibs|postinfectious IBS]] — onset after acute gastroenteritis; Rome IV/V criteria
 - [[inflammatory-bowel-disease|Inflammatory bowel disease]] ([[crohns-disease]], [[ulcerative-colitis]]) — flare or new diagnosis
 - [[microscopic-colitis|Microscopic colitis]] — watery, non-bloody; older women; NSAIDs/PPIs/SSRIs
-- [[celiac-disease|Celiac disease]] ([[celiac-disease]]) — malabsorptive; persistent
+- [[celiac-disease|Celiac disease]] — malabsorptive; persistent
 - Medication-induced diarrhea (antibiotics, metformin, colchicine)
-- Ischemic colitis — sudden onset bloody diarrhea; elderly with vascular disease
+- [[colon-ischemia|Ischemic colitis]] — sudden onset bloody diarrhea; elderly with vascular disease
 
 ---
 
@@ -91,7 +91,7 @@ All patients: hydrate with fluids and salt (water, juices, sports drinks, soups,
 
 **Mild illness:**
 
-- Hydration only; may use loperamide 4 mg initially to control stooling.
+- Hydration only; may use [[loperamide]] 4 mg initially to control stooling.
 - No antibiotics, no diagnostic workup required for most cases.
 
 **Moderate-to-severe illness, travel-associated:**
@@ -243,7 +243,7 @@ Suspect in a febrile traveler (diarrhea often absent) from an endemic area, or w
 
 **Parasite-Specific Antibiotic Therapy:**
 
-- [[giardiasis]]: metronidazole 250 mg TID × 5–7 days, OR tinidazole 2 g single dose, OR nitazoxanide 500 mg BID × 3 days
+- [[giardiasis]]: metronidazole 250 mg TID × 5–7 days, OR tinidazole 2 g single dose, OR [[nitazoxanide]] 500 mg BID × 3 days
 - [[entamoeba-histolytica-infection]]: metronidazole 500–750 mg TID × 7–10 days, OR tinidazole 2 g QD × 3 days
 - [[cryptosporidiosis]]: nitazoxanide 500 mg BID × 3 days (immunocompetent)
 - *Cyclospora/Cystoisospora*: trimethoprim/sulfamethoxazole DS BID × 7–10 days
@@ -308,7 +308,7 @@ The following features should prompt microbiologic assessment, consideration of 
 
 ## See Also
 
-[[clostridioides-difficile]], [[fever-returning-traveler]], [[irritable-bowel-syndrome]], [[crohns-disease]], [[celiac-disease]], [[disorders-of-gut-brain-interaction]], [[salmonella-infection]], [[shigellosis]], [[campylobacter-infection]]
+[[clostridioides-difficile]], [[fever-returning-traveler]], [[irritable-bowel-syndrome]], [[postinfectious-ibs]], [[chronic-diarrhea]], [[crohns-disease]], [[celiac-disease]], [[microscopic-colitis]], [[colon-ischemia]], [[disorders-of-gut-brain-interaction]], [[salmonella-infection]], [[shigellosis]], [[campylobacter-infection]], [[hiv-aids-related-diarrhea]], [[loperamide]], [[nitazoxanide]], [[rifaximin]], [[probiotics]]
 
 ---
 

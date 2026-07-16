@@ -3,7 +3,7 @@ title: "Peptic Ulcer Disease"
 category: disease-script
 tags: [pud, peptic-ulcer, h-pylori, nsaid, upper-gi-bleeding, gastric-ulcer, duodenal-ulcer]
 created: 2026-05-19
-updated: 2026-06-28
+updated: 2026-07-16
 sources: [acg-2021-ugib, asge-2010-pud]
 ---
 
@@ -14,7 +14,7 @@ sources: [acg-2021-ugib, asge-2010-pud]
 - Defined as mucosal break ≥5 mm with depth into submucosa, in stomach (gastric ulcer, GU) or duodenum (duodenal ulcer, DU)
 - Etiology: H. pylori (~50% globally), NSAIDs/aspirin, idiopathic (~20%), Zollinger-Ellison, malignancy (GU), critical illness, viral (CMV, HSV in immunocompromised)
 
-## Differential
+## Differential Diagnosis
 
 - [[gastric-adenocarcinoma|Gastric adenocarcinoma]] (esp non-healing GU), gastric lymphoma (MALT/DLBCL), erosive gastritis, [[dyspepsia]], [[gastroparesis]], biliary pain
 
@@ -40,7 +40,6 @@ sources: [acg-2021-ugib, asge-2010-pud]
 ---
 
 ## See Also
-
 
 [[helicobacter-pylori-infection]], [[upper-gi-bleeding]], [[gastric-adenocarcinoma]], [[dyspepsia]], [[gastroparesis]], [[vonoprazan]], [[upper-endoscopy]]
 

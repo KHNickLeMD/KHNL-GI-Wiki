@@ -3,13 +3,13 @@ title: "Rifaximin"
 category: med
 tags: [rifaximin, antibiotic, sibo, ibs, hepatic-encephalopathy, nonabsorbable, gut-selective]
 created: 2026-05-19
-updated: 2026-05-19
+updated: 2026-07-16
 sources: [acg-2020-sibo, aasld-easl-2014-hepatic-encephalopathy]
 ---
 
 # Rifaximin
 
-A gut-selective, non-absorbable oral antibiotic (rifamycin derivative). Minimal systemic absorption; acts locally in the GI tract. FDA-approved for traveler's diarrhea, [[irritable-bowel-syndrome|IBS-D]], and [[hepatic-encephalopathy|hepatic encephalopathy]]. Used extensively for [[small-intestinal-bacterial-overgrowth]] (SIBO).
+A gut-selective, non-absorbable oral antibiotic (rifamycin derivative). Minimal systemic absorption; acts locally in the GI tract. FDA-approved for [[acute-diarrhea|traveler's diarrhea]], [[irritable-bowel-syndrome|IBS-D]], and [[hepatic-encephalopathy|hepatic encephalopathy]]. Used extensively for [[small-intestinal-bacterial-overgrowth]] (SIBO).
 
 **Mechanism:** Inhibits bacterial RNA polymerase (beta-subunit). Broad-spectrum antibacterial with activity against aerobic and anaerobic Gram-positive and Gram-negative bacteria. Gut-selective due to minimal systemic bioavailability.
 
@@ -36,16 +36,13 @@ A gut-selective, non-absorbable oral antibiotic (rifamycin derivative). Minimal 
 - NOT effective as monotherapy (always add to lactulose)
 - NOT for post-TIPS HE prophylaxis (Grade III, B, 1)
 
-**Advantages:** Gut-selective, low systemic side effects, low CDI risk, minimal effect on systemic flora.
+**Advantages:** Gut-selective, low systemic side effects, low [[clostridioides-difficile|CDI]] risk, minimal effect on systemic flora.
 
 **Limitations:** Expensive; recurrence of SIBO is common (no SIBO-eradication with single course prevents long-term recurrence); no head-to-head data vs. systemic antibiotics in SIBO.
 
-See [[small-intestinal-bacterial-overgrowth]], [[irritable-bowel-syndrome]], [[intestinal-methanogen-overgrowth]].
-
 ## See Also
 
-
-[[small-intestinal-bacterial-overgrowth]], [[irritable-bowel-syndrome]], [[intestinal-methanogen-overgrowth]], [[hepatic-encephalopathy]]
+[[small-intestinal-bacterial-overgrowth]], [[irritable-bowel-syndrome]], [[intestinal-methanogen-overgrowth]], [[hepatic-encephalopathy]], [[acute-diarrhea]], [[clostridioides-difficile]], [[small-bowel-motility]]
 
 ---
 

@@ -3,7 +3,7 @@ title: "Colonoscopy Surveillance Intervals"
 category: concept
 tags: [colonoscopy, surveillance, adenoma, serrated-polyp, crc-screening, polypectomy]
 created: 2026-06-01
-updated: 2026-07-01
+updated: 2026-07-16
 sources: [usmstf-2020-followup-colonoscopy]
 ---
 
@@ -76,7 +76,7 @@ Based on findings at baseline **and** first surveillance:
 
 ## See Also
 
-[[colonoscopy]], [[colorectal-cancer]], [[colorectal-cancer-screening]], [[polypectomy-emr]], [[gastric-polyps]]
+[[colonoscopy]], [[colorectal-cancer]], [[colorectal-cancer-screening]], [[polypectomy-emr]], [[gastric-polyps]], [[serrated-polyposis-syndrome]], [[lynch-syndrome]], [[familial-adenomatous-polyposis]]
 
 ---
 

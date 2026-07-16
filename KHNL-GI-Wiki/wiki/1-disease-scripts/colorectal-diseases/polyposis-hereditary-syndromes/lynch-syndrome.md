@@ -3,7 +3,7 @@ title: "Lynch Syndrome"
 category: disease-script
 tags: [lynch, hnpcc, mmr, msi, hereditary-crc, endometrial-cancer, oncology, genetic-testing, colorectal-cancer]
 created: 2026-05-19
-updated: 2026-05-24
+updated: 2026-07-16
 sources: [acg-2015-hereditary-gi-cancer, usmstf-2014-lynch-syndrome, usmstf-2017-bmmrd]
 ---
 
@@ -121,7 +121,7 @@ LS is classified by the causative gene:
 
 **Gastric and duodenal cancer** [[acg-2015-hereditary-gi-cancer]]:
 
-- Lifetime gastric cancer risk: 0.2–13%; average age 49–55 (highest in East Asian populations)
+- Lifetime [[gastric-adenocarcinoma|gastric cancer]] risk: 0.2–13%; average age 49–55 (highest in East Asian populations)
 - Baseline **[[upper-endoscopy|EGD]] with gastric biopsy** at age **30–35** years; **[[helicobacter-pylori-infection|H. pylori]]** eradication when found (Conditional/VLow)
 - Ongoing gastric surveillance every **3–5 years** may be considered if FH of gastric or duodenal cancer (Conditional/VLow)
 - Small bowel cancer risk 0.4–12%; consider extended duodenoscopy in select individuals
@@ -174,8 +174,7 @@ LS is classified by the causative gene:
 
 ## See Also
 
-
-[[bmmrd-syndrome]], [[familial-adenomatous-polyposis]], [[mutyh-associated-polyposis]], [[colorectal-cancer]], [[colorectal-cancer-screening]], [[colonoscopy]], [[upper-endoscopy]], [[peutz-jeghers-syndrome]], [[serrated-polyposis-syndrome]]
+[[bmmrd-syndrome]], [[familial-adenomatous-polyposis]], [[mutyh-associated-polyposis]], [[colorectal-cancer]], [[colorectal-cancer-screening]], [[colonoscopy]], [[upper-endoscopy]], [[peutz-jeghers-syndrome]], [[serrated-polyposis-syndrome]], [[gastric-adenocarcinoma]]
 
 ---
 

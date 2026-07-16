@@ -3,7 +3,7 @@ title: "Celiac Disease"
 category: disease-script
 tags: [celiac-disease, gluten, malabsorption, small-bowel, ttg, marsh, foregut]
 created: 2026-05-15
-updated: 2026-06-27
+updated: 2026-07-16
 sources: [acg-2022-celiac]
 ---
 
@@ -21,7 +21,7 @@ A permanent immune-mediated enteropathy triggered by gluten (proteins in wheat, 
 
 Classical GI indications:
 
-- [[chronic-diarrhea|Chronic diarrhea]] ± weight loss, steatorrhea, symptomatic malabsorption
+- Chronic diarrhea ± weight loss, steatorrhea, symptomatic malabsorption
 - Unexplained iron deficiency anemia
 - Postprandial bloating and gas
 
@@ -116,6 +116,8 @@ Note: Persistent intraepithelial lymphocytosis (Marsh I) may persist in 56% of t
 ---
 
 ## Differential Diagnosis
+
+*Workup: see [[chronic-diarrhea]].*
 
 **For villous atrophy on duodenal biopsy (seronegative enteropathy):**
 
@@ -318,7 +320,7 @@ Define: persistent symptoms/signs/labs after 6–12 months of GFD. Systematic st
 
 ## See Also
 
-[[irritable-bowel-syndrome]], [[small-intestinal-bacterial-overgrowth]], [[crohns-disease]], [[disorders-of-gut-brain-interaction]], [[atrophic-gastritis]], [[helicobacter-pylori-infection]], [[upper-endoscopy]]
+[[chronic-diarrhea]], [[irritable-bowel-syndrome]], [[small-intestinal-bacterial-overgrowth]], [[crohns-disease]], [[disorders-of-gut-brain-interaction]], [[atrophic-gastritis]], [[helicobacter-pylori-infection]], [[upper-endoscopy]]
 
 ---
 

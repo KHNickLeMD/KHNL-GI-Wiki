@@ -3,7 +3,7 @@ title: "Familial Adenomatous Polyposis"
 category: disease-script
 tags: [fap, apc, afap, map, mutyh, hereditary-crc, polyposis, duodenal-adenoma, desmoid, spigelman, genetic-testing, colorectal-cancer]
 created: 2026-05-19
-updated: 2026-06-29
+updated: 2026-07-16
 sources: [acg-2015-hereditary-gi-cancer, asge-2020-fap]
 ---
 
@@ -17,7 +17,7 @@ Familial adenomatous polyposis (FAP) and its related syndromes — attenuated FA
 
 - Personal history of ≥10 cumulative colorectal adenomas
 - Family history of one of the adenomatous polyposis syndromes
-- Presence of FAP-type extracolonic manifestations: duodenal/ampullary adenomas, desmoid tumors (abdominal > peripheral), papillary thyroid cancer, CHRPE (congenital hypertrophy of the retinal pigment epithelium), epidermal cysts, osteomas (Gardner syndrome)
+- Presence of FAP-type extracolonic manifestations: duodenal/[[ampullary-adenoma|ampullary adenomas]], desmoid tumors (abdominal > peripheral), papillary thyroid cancer, CHRPE (congenital hypertrophy of the retinal pigment epithelium), epidermal cysts, osteomas (Gardner syndrome)
 - ASGE defines **clinical polyposis warranting testing** as **≥10 adenomas on a single endoscopy** *and* **≥20 adenomas over a lifetime**; suspected FAP relatives are tested at 10–12 y, suspected AFAP/MAP at 18–20 y [[asge-2020-fap]]
 
 **Germline testing**: APC gene sequencing + deletion/duplication analysis; if APC-negative and polyp count <100, test MUTYH (both alleles) [[acg-2015-hereditary-gi-cancer]].
@@ -112,11 +112,11 @@ Familial adenomatous polyposis (FAP) and its related syndromes — attenuated FA
 - Spigelman Stage IV risk: 43% duodenal carcinoma by age 60, 50% by age 70
 - Spigelman IV → surgical evaluation; **pancreas-sparing duodenectomy** preferred if no papilla involvement (less morbid than Whipple; Whipple preferred if cancer suspected)
 
-**Gastric polyps**:
+**[[gastric-polyps|Gastric polyps]]**:
 
 - Fundic gland polyps in 23–100% of FAP patients — considered hamartomas, rarely malignant; low-grade dysplasia common (not an indication for surgery)
 - Adenomatous gastric polyps in ~10%; confined mainly to antrum but can occur in body/fundus
-- Lifetime risk of gastric cancer in FAP ~0.6%
+- Lifetime risk of [[gastric-adenocarcinoma|gastric cancer]] in FAP ~0.6%
 - Random gastric biopsies at each EGD; surgery reserved for high-grade dysplasia or cancer (Strong/VLow)
 - For AFAP and MAP, EGD surveillance with side-viewing instrument starting age 25–30, same Spigelman intervals as FAP
 
@@ -126,7 +126,7 @@ Familial adenomatous polyposis (FAP) and its related syndromes — attenuated FA
 - Surveillance EGD should include **random + targeted biopsy sampling** to assess dysplasia and assign an accurate duodenal Spigelman stage; a **baseline Spigelman score of 7** is associated with later development of duodenal HGD
 - **Endoscopically resect gastric and duodenal polyps >1 cm** (dysplasia risk) and **resect all antral polyps** (predilection for gastric adenomas there)
 - **Examine the ampulla/periampullary region carefully with a duodenoscope or cap-assisted gastroscope**; biopsy the ampulla **only if there is an identifiable mucosal abnormality**, taking care to avoid the pancreatic orifice (pancreatitis risk)
-- Routine **chromoendoscopy is not recommended** during duodenal surveillance; routine **deep enteroscopy is not recommended** for small-bowel surveillance
+- Routine **chromoendoscopy is not recommended** during duodenal surveillance; routine **[[device-assisted-enteroscopy|deep enteroscopy]] is not recommended** for small-bowel surveillance
 
 ### Extraintestinal Surveillance
 
@@ -228,8 +228,7 @@ Familial adenomatous polyposis (FAP) and its related syndromes — attenuated FA
 
 ## See Also
 
-
-[[lynch-syndrome]], [[mutyh-associated-polyposis]], [[peutz-jeghers-syndrome]], [[juvenile-polyposis-syndrome]], [[cowden-syndrome]], [[colorectal-cancer]], [[colorectal-cancer-screening]], [[colonoscopy]], [[upper-endoscopy]], [[serrated-polyposis-syndrome]]
+[[lynch-syndrome]], [[mutyh-associated-polyposis]], [[peutz-jeghers-syndrome]], [[juvenile-polyposis-syndrome]], [[cowden-syndrome]], [[colorectal-cancer]], [[colorectal-cancer-screening]], [[colonoscopy]], [[upper-endoscopy]], [[serrated-polyposis-syndrome]], [[ampullary-adenoma]], [[gastric-polyps]], [[gastric-adenocarcinoma]], [[device-assisted-enteroscopy]]
 
 ---
 

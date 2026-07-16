@@ -3,7 +3,7 @@ title: "Gastroparesis"
 category: disease-script
 tags: [gastroparesis, gastric-motility, prokinetics, g-poem, gastric-emptying, foregut]
 created: 2026-05-15
-updated: 2026-07-01
+updated: 2026-07-16
 sources: [acg-2022-gastroparesis, aga-2025-gastroparesis, surjanhata-2025-constipation-gastroparesis]
 ---
 
@@ -65,9 +65,11 @@ sources: [acg-2022-gastroparesis, aga-2025-gastroparesis, surjanhata-2025-consti
 
 ## Differential Diagnosis
 
+*Workup: see [[nausea-and-vomiting]].*
+
 - **Functional [[dyspepsia]] (FD)** — significant overlap; 42% of patients initially diagnosed with GP reclassified on repeat SGE; 37% of FD reclassified as GP. FD has a better prognosis than GP. See [[disorders-of-gut-brain-interaction]]
 - **Mechanical gastric outlet obstruction** — peptic stricture, malignancy, bezoar; must be excluded by [[upper-endoscopy]] or imaging before diagnosing GP
-- **[[gerd|GERD]] / reflux disease** — symptom overlap (nausea, postprandial discomfort); see [[gerd]]
+- **[[gerd|GERD]] / reflux disease** — symptom overlap (nausea, postprandial discomfort)
 - **[[rumination-syndrome|Rumination syndrome]]** — regurgitation of undigested food shortly after meals; distinguished by manometry/impedance
 - **Cyclic vomiting syndrome** — stereotyped episodic vomiting with symptom-free intervals
 - **Superior mesenteric artery (SMA) syndrome** — postprandial nausea/vomiting; positional component; duodenal compression on imaging

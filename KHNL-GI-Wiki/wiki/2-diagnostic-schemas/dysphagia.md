@@ -3,7 +3,7 @@ title: "Dysphagia"
 category: diagnostic-schema
 tags: [dysphagia, esophageal, oropharyngeal, motility, achalasia, eosinophilic-esophagitis, odynophagia, globus]
 created: 2026-06-04
-updated: 2026-06-04
+updated: 2026-07-16
 sources: []
 ---
 
@@ -24,7 +24,7 @@ The single most useful historical discriminator in esophageal dysphagia is **sol
 
 - **Solids only, progressive** → think mechanical obstruction (stricture, ring, [[esophageal-cancer|carcinoma]]).
 - **Solids and liquids equally, from the outset** → think a motility disorder ([[achalasia]], spasm).
-- **Solids intermittent, non-progressive** → think a [[eosinophilic-esophagitis|web/ring]] (e.g. Schatzki ring) or EoE.
+- **Solids intermittent, non-progressive** → think a web/ring (e.g. Schatzki ring) or [[eosinophilic-esophagitis|EoE]].
 
 ---
 

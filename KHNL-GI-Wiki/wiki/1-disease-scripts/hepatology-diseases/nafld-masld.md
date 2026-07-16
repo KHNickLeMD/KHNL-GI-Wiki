@@ -3,7 +3,7 @@ title: "NAFLD / MASLD (Metabolic Dysfunction-Associated Steatotic Liver Disease)
 category: disease-script
 tags: [nafld, masld, nash, mash, steatosis, metabolic-syndrome, fibrosis, fibroscan, hpb, liver, obesity, diabetes, semaglutide, resmetirom, glp-1, nit, essence-trial, liver-transplant, post-transplant, recurrence]
 created: 2026-05-19
-updated: 2026-05-31
+updated: 2026-07-16
 sources: [aasld-2023-nafld, aasld-2023-masld-nomenclature, aasld-2024-resmetirom, aasld-2024-nilda-blood, aasld-2025-semaglutide-mash, acg-2017-liver-chemistries, aasld-ast-2025-liver-transplant-graft-complications]
 ---
 
@@ -17,7 +17,7 @@ sources: [aasld-2023-nafld, aasld-2023-masld-nomenclature, aasld-2024-resmetirom
 
 - **MASLD** = hepatic steatosis + ≥1 cardiometabolic risk factor (CMRF) + no other discernible cause (replaces NAFLD)
 - **MASH** = MASLD + steatohepatitis (replaces NASH); **MASL** = MASLD without steatohepatitis (replaces NAFL)
-- **MetALD** = MASLD + increased alcohol (a continuum); ALD; specific-etiology SLD (DILI, LALD, Wilson, hypobetalipoproteinemia, HCV genotype 3, celiac, HIV); and cryptogenic SLD
+- **MetALD** = MASLD + increased alcohol (a continuum); ALD; specific-etiology SLD (DILI, LALD, Wilson, hypobetalipoproteinemia, [[hepatitis-c|HCV genotype 3]], celiac, HIV); and cryptogenic SLD
 - The new nonexclusionary terminology permits **dual pathology** (e.g. MASLD + [[autoimmune-hepatitis|autoimmune hepatitis]] or viral hepatitis)
 - There is **>99% overlap** between NAFLD- and MASLD-defined populations with near-identical natural history; therefore all NAFLD/NASH guidance recommendations and natural-history/biomarker data apply directly to MASLD/MASH.
 
@@ -29,7 +29,7 @@ sources: [aasld-2023-nafld, aasld-2023-masld-nomenclature, aasld-2024-resmetirom
 4. Triglycerides ≥150 mg/dL OR lipid-lowering treatment
 5. HDL-cholesterol ≤40 mg/dL (M) / ≤50 mg/dL (F) OR lipid-lowering treatment
 
-MASLD/MASH remains a **diagnosis requiring exclusion of alternative etiologies**. Although many individuals with hepatic steatosis on imaging may have normal liver chemistries, the presence of [[abnormal-liver-chemistries|abnormal liver chemistries]] in this setting increases the likelihood of MASH (with inflammation/fibrosis). Aminotransferases are frequently normal even in advanced fibrosis and **must not be used in isolation to exclude clinically significant fibrosis** (GS 15). [[aasld-2023-nafld]]
+MASLD/MASH remains a **diagnosis requiring exclusion of alternative etiologies**. Although many individuals with hepatic steatosis on imaging may have normal liver chemistries, the presence of abnormal liver chemistries in this setting increases the likelihood of MASH (with inflammation/fibrosis). Aminotransferases are frequently normal even in advanced fibrosis and **must not be used in isolation to exclude clinically significant fibrosis** (GS 15). [[aasld-2023-nafld]]
 
 **Pattern of elevation:** Generally ALT > AST (unlike alcoholic liver disease); AST/ALT levels rarely above 300 IU/L; no unique elevation pattern. [[acg-2017-liver-chemistries]]
 
@@ -100,6 +100,8 @@ Distinct from the diagnostic rule-in/rule-out thresholds above, drug labels/guid
 
 ## Differential Diagnosis
 
+*Workup: see [[abnormal-liver-chemistries]].*
+
 - [[alcohol-associated-liver-disease]] — alcohol history; AST:ALT ratio ≥2:1; GGT elevated; can coexist with MASLD; MetALD is the overlapping spectrum
 - [[drug-induced-liver-injury]] — steatohepatitis pattern DILI (amiodarone, tamoxifen, methotrexate, corticosteroids)
 - [[hereditary-hemochromatosis]] — elevated ferritin common in MASLD but TS usually normal; HFE testing
@@ -111,8 +113,6 @@ Distinct from the diagnostic rule-in/rule-out thresholds above, drug labels/guid
 ---
 
 ## Diagnostics
-
-See [[abnormal-liver-chemistries]] for integrated diagnostic algorithm.
 
 **Imaging:**
 
@@ -196,7 +196,7 @@ Oral **thyroid hormone receptor-β (THR-β) agonist**; first FDA-approved pharma
 
 **Dosing:** 100 mg/day (≥100 kg) or 80 mg/day (<100 kg). With a moderate CYP2C8 inhibitor (e.g. clopidogrel): 80 mg (≥100 kg) / 60 mg (<100 kg). Statin DDI max doses: rosuvastatin 20, simvastatin 20, atorvastatin 40, pravastatin 40 mg/day (resmetirom lowers LDL-C).
 
-**Pretreatment / not recommended in:** compensated or decompensated cirrhosis; uncontrolled active liver disease (AIH, PBC); alcohol >20 g/d (♀) / >30 g/d (♂); untreated thyroid dysfunction (optimize first — baseline TSH required); symptomatic gallstone disease (e.g. acute cholecystitis).
+**Pretreatment / not recommended in:** compensated or decompensated cirrhosis; uncontrolled active liver disease (AIH, [[primary-biliary-cholangitis|PBC]]); alcohol >20 g/d (♀) / >30 g/d (♂); untreated thyroid dysfunction (optimize first — baseline TSH required); symptomatic gallstone disease (e.g. acute cholecystitis).
 
 **Monitoring & adverse events:** hepatic function panel at baseline, 3, 6, 12 mo — discontinue for hepatotoxicity per [[drug-induced-liver-injury]] thresholds. Common AEs: diarrhea (24–34%), nausea (12–22%), increased symptomatic gallstones; one severe DILI/AIH-like case. Routine thyroid monitoring not needed if baseline normal.
 
@@ -260,7 +260,7 @@ Per [[aasld-ast-2025-liver-transplant-graft-complications]] (recurrent MASLD pos
 
 - MASLD is now the leading or co-leading indication for LT in the United States
 - Recurrent and de novo MASLD post-LT occurs in 30–40% of recipients in some series
-- Metabolic risk factors (obesity, DM, dyslipidemia, HTN) accumulate post-LT, driven by immunosuppression (corticosteroids, CNIs, mTOR inhibitors)
+- Metabolic risk factors (obesity, DM, dyslipidemia, HTN) accumulate post-LT, driven by immunosuppression (corticosteroids, [[calcineurin-inhibitors|CNIs]], mTOR inhibitors)
 - Recurrent MASLD may progress to cirrhosis of the allograft
 
 **Post-LT Monitoring:**

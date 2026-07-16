@@ -3,10 +3,8 @@ title: "Acute Lower Gastrointestinal Bleeding (LGIB)"
 category: diagnostic-schema
 tags: [lower-gi-bleeding, lgib, hematochezia, diverticular, colonoscopy, hemorrhage, cta, risk-stratification]
 created: 2026-05-15
-updated: 2026-06-22
-sources:
-  - "[[acg-2023-lgib]]"
-  - "[[asge-2014-lgib]]"
+updated: 2026-07-16
+sources: [acg-2023-lgib, asge-2014-lgib]
 ---
 
 ## Definition / Scope
@@ -78,7 +76,7 @@ If [[upper-gi-bleeding|UGIB]] is clinically suspected, perform **urgent [[upper-
 ### Step 1: Initial Assessment (Simultaneous with Resuscitation)
 
 - Focused history: abdominal pain, bowel habit changes, weight loss, prior GI surgery, prior GIB, cardiovascular/oncologic/renal comorbidities
-- Medications: NSAIDs, antiplatelets, anticoagulants
+- Medications: NSAIDs, antiplatelets, [[anticoagulation-gi-bleeding|anticoagulants]]
 - Physical exam: vital signs, volume status, rectal exam (blood vs. melena, anorectal lesions)
 - Labs: CBC (Hgb, platelet count), BMP (BUN:Cr ratio), coagulation studies (INR, aPTT), type and screen
 - IV access; IV fluid resuscitation with crystalloids if hemodynamically unstable
@@ -242,7 +240,7 @@ Scores supplement but do not replace clinical judgment. Low-risk patients (Oakla
 
 ## Key Tests
 
-### Colonoscopy [[colonoscopy]]
+### Colonoscopy
 
 - Diagnostic test of choice for most admitted LGIB
 - Diagnostic yield 68–79% (definitive or presumptive etiology)
@@ -319,8 +317,9 @@ Scores supplement but do not replace clinical judgment. Low-risk patients (Oakla
 - Ongoing NSAID or antiplatelet use after discharge
 - In-hospital rebleeding: median 3 days post-presentation; rate 13.6% overall
 
-## See Also
+---
 
+## See Also
 
 [[upper-gi-bleeding]], [[variceal-upper-gi-bleeding]], [[small-bowel-bleeding]], [[colonoscopy]], [[colon-ischemia]], [[angioectasia]], [[hemorrhoids]], [[heydes-syndrome]], [[colorectal-cancer]], [[inflammatory-bowel-disease]], [[polypectomy-emr]], [[anticoagulation-gi-bleeding]]
 

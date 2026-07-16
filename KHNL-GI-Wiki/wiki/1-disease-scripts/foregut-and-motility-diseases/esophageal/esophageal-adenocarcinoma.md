@@ -3,7 +3,7 @@ title: "Esophageal Adenocarcinoma (EAC)"
 category: disease-script
 tags: [esophageal-adenocarcinoma, barretts-esophagus, dysplasia, foregut, oncology]
 created: 2026-06-04
-updated: 2026-06-18
+updated: 2026-07-16
 sources: [asge-2018-barretts-eet, asge-2019-barretts-screening-surveillance, nccn-2026-esophageal-egj-cancer]
 ---
 
@@ -14,7 +14,6 @@ For invasive and advanced disease, EAC is staged and treated on the [[esophageal
 *Stub — early-neoplasia/EET detail to be expanded; oncologic staging on [[esophageal-cancer]].*
 
 ## See Also
-
 
 [[barretts-esophagus]], [[esophageal-cancer]], [[endoscopic-eradication-therapy]], [[gerd]], [[upper-endoscopy]]
 

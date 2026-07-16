@@ -3,7 +3,7 @@ title: "Portal Vein Thrombosis and Mesenteric Vein Thrombosis"
 category: disease-script
 tags: [portal-vein-thrombosis, pvt, mvt, mesenteric-vein, anticoagulation, cirrhosis, thrombophilia, splenomegaly, mpn, liver-transplant]
 created: 2026-05-21
-updated: 2026-05-25
+updated: 2026-07-16
 sources: [acg-2020-hepatic-mesenteric-circulation, aasld-ast-2025-liver-transplant-candidate-evaluation, aasld-2021-vascular-pvt]
 ---
 
@@ -51,9 +51,9 @@ Portal vein thrombosis (PVT) is the partial or complete occlusion of the portal 
 ## Differential Diagnosis
 
 - **Extrinsic portal vein compression** — [[pancreatic-cancer|pancreatic cancer]], lymphadenopathy, [[cholangiocarcinoma]]; no intravenous thrombus on CT
-- **[[budd-chiari-syndrome|Budd-Chiari syndrome]]** — [[budd-chiari-syndrome]] — hepatic venous outflow obstruction; hepatomegaly, ascites, right upper quadrant pain; caudate lobe hypertrophy
+- **[[budd-chiari-syndrome|Budd-Chiari syndrome]]** — hepatic venous outflow obstruction; hepatomegaly, ascites, right upper quadrant pain; caudate lobe hypertrophy
 - **[[acute-mesenteric-ischemia|Acute mesenteric ischemia]]** — SMA occlusion (arterial embolism/thrombosis); small bowel ischemia; no portal vein thrombus
-- **[[colon-ischemia|Colon ischemia]]** — [[colon-ischemia]] — segmental colonic involvement; CT/[[colonoscopy]] distinguishes
+- **[[colon-ischemia|Colon ischemia]]** — segmental colonic involvement; CT/[[colonoscopy]] distinguishes
 - **Cirrhosis with portal hypertension alone** — no thrombus; variceal bleeding/ascites present; Doppler shows slow or reversed flow without thrombus
 
 ---
@@ -76,7 +76,7 @@ Portal vein thrombosis (PVT) is the partial or complete occlusion of the portal 
 
 **Local/secondary causes:**
 
-- Intra-abdominal inflammation: pancreatitis, appendicitis, diverticulitis, IBD, cholecystitis
+- Intra-abdominal inflammation: [[acute-pancreatitis|pancreatitis]], appendicitis, diverticulitis, [[inflammatory-bowel-disease|IBD]], cholecystitis
 - Surgery: splenectomy (highest PVT risk), liver resection, bowel surgery
 - Pregnancy/postpartum
 - Tumor invasion ([[hepatocellular-carcinoma|hepatocellular carcinoma]] tumor thrombus — enhances on arterial phase CT)
@@ -133,7 +133,7 @@ Portal vein thrombosis (PVT) is the partial or complete occlusion of the portal 
 
 ### Hemostasis in Cirrhosis — Key Principles
 
-Cirrhosis represents rebalanced hemostasis, not auto-anticoagulation [[acg-2020-hepatic-mesenteric-circulation]]:
+Cirrhosis represents [[cirrhosis-hemostasis|rebalanced hemostasis]], not auto-anticoagulation [[acg-2020-hepatic-mesenteric-circulation]]:
 
 - Do NOT use FFP prophylactically before routine procedures (Conditional, Low evidence)
 - Do NOT give prophylactic platelets for routine procedures outside renal dysfunction/active bleeding (Conditional, Very Low evidence)
@@ -153,8 +153,7 @@ Cirrhosis represents rebalanced hemostasis, not auto-anticoagulation [[acg-2020-
 
 ## See Also
 
-
-[[budd-chiari-syndrome]], [[colon-ischemia]], [[spontaneous-bacterial-peritonitis]], [[aki-in-cirrhosis]], [[hepatocellular-carcinoma]], [[cirrhosis-hemostasis]], [[portal-hypertension]], [[variceal-upper-gi-bleeding]], [[acute-mesenteric-ischemia]], [[cholangiocarcinoma]], [[liver-transplantation]], [[ercp]]
+[[budd-chiari-syndrome]], [[colon-ischemia]], [[spontaneous-bacterial-peritonitis]], [[aki-in-cirrhosis]], [[hepatocellular-carcinoma]], [[cirrhosis-hemostasis]], [[portal-hypertension]], [[variceal-upper-gi-bleeding]], [[acute-mesenteric-ischemia]], [[cholangiocarcinoma]], [[pancreatic-cancer]], [[inflammatory-bowel-disease]], [[acute-pancreatitis]], [[upper-endoscopy]], [[liver-transplantation]], [[ercp]]
 
 ---
 

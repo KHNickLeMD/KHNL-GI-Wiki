@@ -3,7 +3,7 @@ title: "Intestinal Methanogen Overgrowth (IMO)"
 category: concept
 tags: [imo, sibo, methane, breath-testing, constipation, methanobrevibacter-smithii, archaea]
 created: 2026-05-19
-updated: 2026-05-19
+updated: 2026-07-16
 sources: [acg-2020-sibo]
 ---
 
@@ -16,7 +16,7 @@ IMO is a term proposed by the ACG 2020 SIBO guideline ([[acg-2020-sibo]]) to des
 - Methanogens are archaea (*Methanobrevibacter smithii* is the predominant species), not bacteria — the "B" in SIBO is technically incorrect
 - *M. smithii* uses hydrogen (H₂) as substrate to produce methane (CH₄): 4H₂ → 1CH₄
 - Methane slows intestinal transit by augmenting contractility and delaying ileal peristaltic conduction velocity
-- IMO is strongly associated with **constipation** (OR 3.51, CI 2.00–6.16); methane level proportional to constipation severity
+- IMO is strongly associated with **[[chronic-idiopathic-constipation|constipation]]** (OR 3.51, CI 2.00–6.16); methane level proportional to constipation severity
 - Methane may occur throughout the intestinal tract (not just small bowel)
 
 **Diagnosis:**
@@ -30,12 +30,9 @@ IMO is a term proposed by the ACG 2020 SIBO guideline ([[acg-2020-sibo]]) to des
 - Neomycin alone: 33%; rifaximin alone: 28%
 - Targeting methanogens may reduce methane production and improve constipation (Key Concept 10)
 
-See [[small-intestinal-bacterial-overgrowth]], [[rifaximin]].
-
 ## See Also
 
-
-[[small-intestinal-bacterial-overgrowth]], [[rifaximin]]
+[[small-intestinal-bacterial-overgrowth]], [[rifaximin]], [[chronic-idiopathic-constipation]], [[small-bowel-motility]], [[irritable-bowel-syndrome]]
 
 ---
 

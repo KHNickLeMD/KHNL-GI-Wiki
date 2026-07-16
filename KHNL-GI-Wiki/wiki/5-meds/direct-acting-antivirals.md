@@ -3,7 +3,7 @@ title: "Direct-Acting Antivirals (DAAs)"
 category: med
 tags: [HCV, hepatitis-c, direct-acting-antivirals, DAA, sofosbuvir, velpatasvir, glecaprevir, pibrentasvir, ledipasvir, NS5A, NS5B, NS3-4A, pangenotypic]
 created: 2026-05-28
-updated: 2026-06-09
+updated: 2026-07-16
 sources: [aasld-idsa-2023-hcv]
 ---
 
@@ -28,14 +28,13 @@ NS3/4A inhibitors are **contraindicated in decompensated cirrhosis** (Child-Pugh
 
 - Cyclosporine: increases elbasvir/grazoprevir and SOF/VEL/VOX AUC; do not coadminister
 - G/P + cyclosporine >100 mg/d: not recommended
-- Calcineurin inhibitor interactions common in post-transplant settings; see [[calcineurin-inhibitors]]
+- Calcineurin inhibitor interactions common in post–[[liver-transplantation|liver transplant]] settings; see [[calcineurin-inhibitors]]
 
 For full treatment tables, resistance-associated substitution guidance, and retreatment algorithms, see [[hepatitis-c]] and [[aasld-idsa-2023-hcv]].
 
 ## See Also
 
-
-[[hepatitis-c]], [[calcineurin-inhibitors]], [[liver-transplantation]]
+[[hepatitis-c]], [[calcineurin-inhibitors]], [[liver-transplantation]], [[hepatitis-c-in-pregnancy]], [[hcc-surveillance]]
 
 ---
 

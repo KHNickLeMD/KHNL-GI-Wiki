@@ -3,7 +3,7 @@ title: "Cholangioscopy"
 category: advanced-procedure
 tags: [cholangioscopy, ercp, biliary-stricture, cholangiocarcinoma, hepatobiliary]
 created: 2026-06-04
-updated: 2026-06-04
+updated: 2026-07-16
 sources: [asge-2023-indeterminate-biliary-strictures]
 ---
 
@@ -11,7 +11,7 @@ sources: [asge-2023-indeterminate-biliary-strictures]
 
 ## Role in Indeterminate Biliary Strictures
 
-Per `[[asge-2023-indeterminate-biliary-strictures]]`, the ASGE suggests cholangioscopic-guided biopsy sampling for [[biliary-stricture|biliary strictures]] of undetermined etiology in (a) nondistal strictures with a high probability of adequate drainage of the critical liver segment, (b) previous nondiagnostic [[ercp|ERCP]] without cholangioscopy, and (c) centers with expertise and easy access to the equipment (conditional, very low quality of evidence).
+Per [[asge-2023-indeterminate-biliary-strictures]], the ASGE suggests cholangioscopic-guided biopsy sampling for [[biliary-stricture|biliary strictures]] of undetermined etiology in (a) nondistal strictures with a high probability of adequate drainage of the critical liver segment, (b) previous nondiagnostic [[ercp|ERCP]] without cholangioscopy, and (c) centers with expertise and easy access to the equipment (conditional, very low quality of evidence).
 
 - Adding cholangioscopy to ERCP raises sensitivity for malignancy to ~0.72 vs ~0.61 without it; incremental yield ~27% (observational) to ~41% (single RCT).
 - Better suited to **nondistal/hilar** strictures; suboptimal for very distal CBD strictures (scope instability, difficulty passing mini-forceps).
@@ -24,8 +24,7 @@ Malignant strictures appear **nodular, papillary, or infiltrative** with irregul
 
 ## See Also
 
-
-[[ercp]], [[endoscopic-ultrasound]], [[brush-cytology]], [[biliary-stricture]], [[cholangiocarcinoma]]
+[[ercp]], [[endoscopic-ultrasound]], [[brush-cytology]], [[biliary-stricture]], [[cholangiocarcinoma]], [[confocal-laser-endomicroscopy]], [[choledocholithiasis]]
 
 ---
 

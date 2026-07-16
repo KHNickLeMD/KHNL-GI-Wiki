@@ -3,7 +3,7 @@ title: "Nutrition in Liver Disease"
 category: disease-script
 tags: [liver, cirrhosis, malnutrition, sarcopenia, hepatic-encephalopathy, bcaa, vitamin-e, mash, masld, ald, coffee, nutrition]
 created: 2026-05-07
-updated: 2026-06-23
+updated: 2026-07-16
 sources: [acg-2025-liver-nutrition, aasld-2021-malnutrition-cirrhosis]
 ---
 
@@ -19,7 +19,7 @@ Malnutrition (most commonly sarcopenia) is a common complication of liver diseas
 
 - **All patients with cirrhosis** — assess for frailty and/or sarcopenia at diagnosis and periodically
 - **Hospitalized cirrhosis** — assess and address nutritional status early
-- **Alcohol-associated hepatitis (AAH)** — detailed dietary assessment essential
+- **[[alcohol-associated-liver-disease|Alcohol-associated hepatitis]] (AAH)** — detailed dietary assessment essential
 
 ### Diagnostic Methods
 
@@ -47,8 +47,8 @@ Malnutrition (most commonly sarcopenia) is a common complication of liver diseas
 Malnutrition in liver disease is multifactorial:
 
 - Poor food availability/quality; anorexia; altered taste/smell
-- Nausea, vomiting, delayed gastric emptying
-- Diarrhea/malabsorption/bacterial overgrowth
+- [[nausea-and-vomiting|Nausea, vomiting]], [[gastroparesis|delayed gastric emptying]]
+- [[chronic-diarrhea|Diarrhea]]/malabsorption/[[small-intestinal-bacterial-overgrowth|bacterial overgrowth]]
 - Unpalatable sodium-restricted or protein-restricted diets
 - Hormonal (decreased testosterone) and cytokine (TNF) effects
 - Complications of liver disease: [[ascites]], [[hepatic-encephalopathy|HE]] impairing dietary intake
@@ -129,7 +129,7 @@ Malnutrition in liver disease is multifactorial:
 
 ## See Also
 
-[[hepatic-encephalopathy]], [[ascites]], [[nafld-masld]], [[alcohol-associated-liver-disease]], [[hepatocellular-carcinoma]], [[rifaximin]], [[liver-transplantation]], [[acute-on-chronic-liver-failure]], [[nutrition-in-hospitalized-patients]]
+[[hepatic-encephalopathy]], [[ascites]], [[nafld-masld]], [[alcohol-associated-liver-disease]], [[hepatocellular-carcinoma]], [[rifaximin]], [[liver-transplantation]], [[acute-on-chronic-liver-failure]], [[nutrition-in-hospitalized-patients]], [[obesity]], [[gastroparesis]], [[small-intestinal-bacterial-overgrowth]], [[chronic-diarrhea]], [[nausea-and-vomiting]]
 
 ---
 

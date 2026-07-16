@@ -3,7 +3,7 @@ title: "Capsule Endoscopy (Video Capsule Endoscopy)"
 category: advanced-procedure
 tags: [capsule-endoscopy, vce, small-bowel, gi-bleeding, crohns-disease, iron-deficiency-anemia]
 created: 2026-05-19
-updated: 2026-06-22
+updated: 2026-07-16
 sources: [acg-2015-small-bowel-bleeding, asge-2017-small-bowel-bleeding]
 ---
 
@@ -16,7 +16,7 @@ sources: [acg-2015-small-bowel-bleeding, asge-2017-small-bowel-bleeding]
 
 ## Indications
 
-- [[small-bowel-bleeding]] (overt or occult, after negative EGD/[[colonoscopy]]).
+- [[small-bowel-bleeding]] (overt or occult, after negative [[upper-endoscopy|EGD]]/[[colonoscopy]]).
 - Suspected small-bowel [[crohns-disease|Crohn's disease]].
 - Iron-deficiency anemia with negative bidirectional endoscopy.
 - Polyposis surveillance ([[peutz-jeghers-syndrome]], [[familial-adenomatous-polyposis]]).
@@ -31,8 +31,7 @@ See [[small-bowel-bleeding]] for the full diagnostic algorithm and sequencing wi
 
 ## See Also
 
-
-[[small-bowel-bleeding]], [[crohns-disease]], [[peutz-jeghers-syndrome]], [[familial-adenomatous-polyposis]], [[device-assisted-enteroscopy]]
+[[small-bowel-bleeding]], [[crohns-disease]], [[peutz-jeghers-syndrome]], [[familial-adenomatous-polyposis]], [[device-assisted-enteroscopy]], [[upper-endoscopy]], [[colonoscopy]]
 
 ---
 

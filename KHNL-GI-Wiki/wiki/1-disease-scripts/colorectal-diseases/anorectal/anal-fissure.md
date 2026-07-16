@@ -3,7 +3,7 @@ title: "Anal Fissure"
 category: disease-script
 tags: [anal-fissure, anorectal, lis, sphincterotomy, botulinum, colorectal]
 created: 2026-05-16
-updated: 2026-07-02
+updated: 2026-07-16
 sources: [acg-2021-anorectal-disorders]
 ---
 
@@ -82,7 +82,7 @@ sources: [acg-2021-anorectal-disorders]
 
 - 5–100 units injected into internal anal sphincter
 - Healing: 60–80%; superior to placebo; not reliably superior to LIS
-- Temporary incontinence to flatus: up to 18% at 2 months; incontinence to stool: 5%
+- Temporary [[fecal-incontinence|incontinence]] to flatus: up to 18% at 2 months; incontinence to stool: 5%
 - Recurrence up to 42% at 2 years; retreatment possible
 - Role: bridge to LIS, for patients who want to avoid surgery, or in Crohn's disease where LIS is relatively contraindicated
 
@@ -95,7 +95,7 @@ sources: [acg-2021-anorectal-disorders]
 - Technique: open or closed; minimal-incision approaches equivalent
 - Complications: small but real incontinence risk (0–16% in literature; most frequently transient incontinence to flatus); urinary retention rare
 - **Use with caution when anal resting pressures are not elevated (normal or low pressures)** — higher incontinence risk
-- Crohn's disease: **LIS with great caution** in Crohn's perianal disease; risk of non-healing and worsening — medical management and Botox preferred; calcium channel blocker first; Crohn's disease [[crohns-disease]]
+- Crohn's disease: **LIS with great caution** in Crohn's perianal disease; risk of non-healing and worsening — medical management and Botox preferred; calcium channel blocker first
 - Anterior fissures: advance flap or V-Y plasty preferred over LIS (higher incontinence risk with anterior LIS)
 
 **Controlled pneumatic balloon dilation:** promising in small series; alternative when considering non-surgical options before LIS referral; not standard.
@@ -103,7 +103,6 @@ sources: [acg-2021-anorectal-disorders]
 ---
 
 ## See Also
-
 [[hemorrhoids]], [[crohns-disease]], [[anorectal-manometry]], [[defecation-disorders]], [[fecal-incontinence]], [[colonoscopy]]
 
 ---

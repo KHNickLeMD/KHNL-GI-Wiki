@@ -3,7 +3,7 @@ title: "Meckel's Diverticulum"
 category: disease-script
 tags: [meckels-diverticulum, small-bowel, gi-bleeding, congenital, ectopic-gastric-mucosa, pediatric]
 created: 2026-05-19
-updated: 2026-05-19
+updated: 2026-07-16
 sources: [acg-2015-small-bowel-bleeding]
 ---
 
@@ -13,18 +13,17 @@ Meckel's diverticulum is the most common congenital anomaly of the GI tract — 
 
 **Rule of 2s (approximate):** 2% prevalence, 2 feet from ileocecal valve, 2 inches long, 2 types of ectopic mucosa, presents before age 2 in pediatric cases.
 
-**Clinical relevance in [[small-bowel-bleeding|small bowel bleeding]]:** A major cause of SBB in patients under age 40. [[small-bowel-bleeding]]
+**Clinical relevance in [[small-bowel-bleeding|small bowel bleeding]]:** A major cause of SBB in patients under age 40.
 
 **Diagnosis:**
 
 - **⁹⁹ᵐTc-pertechnetate (Meckel's) scan:** Detects ectopic gastric mucosa. Sensitivity 50–90%, specificity 9–95%; false positives from AVM, ulcers, intussusception, duplication cysts. Most reliable in children. ACG 2015: Consider in younger patients with ongoing overt bleeding and negative VCE + enterography. *(Conditional/Very Low)*
-- [[capsule-endoscopy|Capsule endoscopy]] and deep enteroscopy may identify the diverticulum.
+- [[capsule-endoscopy|Capsule endoscopy]] and [[device-assisted-enteroscopy|deep enteroscopy]] may identify the diverticulum.
 - CT enterography.
 
 **Treatment:** Surgical resection (diverticulectomy or segmental small bowel resection) for symptomatic or bleeding Meckel's diverticulum.
 
 ## See Also
-
 
 [[small-bowel-bleeding]], [[capsule-endoscopy]], [[device-assisted-enteroscopy]]
 

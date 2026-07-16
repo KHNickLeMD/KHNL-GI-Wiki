@@ -3,7 +3,7 @@ title: "Barrett's Esophagus"
 category: disease-script
 tags: [barretts-esophagus, esophageal, dysplasia, eet, rfa, surveillance, foregut]
 created: 2026-05-15
-updated: 2026-06-04
+updated: 2026-07-16
 sources: [acg-2022-barretts, aga-2025-barretts-surveillance, aga-2024-barretts-eet, asge-2018-barretts-eet, asge-2019-barretts-screening-surveillance]
 ---
 
@@ -293,7 +293,7 @@ See [[endoscopic-eradication-therapy]] for full technique, outcomes, and adverse
 - Always precedes ablation; serves both diagnostic and therapeutic purposes. ASGE 2018 (Rec 4, **strong**): resect ALL visible lesions (nodularity, ulceration, plaque, depression, discoloration), no matter how subtle.
 - ER upstages or downstages histology in 30–40% of cases (ASGE 2018: change in 39%, mostly upstaging); changes management in ~30%
 - **Multiband EMR** (preferred in most cases) or cap-assisted EMR — equivalent efficacy and safety
-- **ESD** for larger lesions (unsuitable for en bloc EMR), post-ablation scarring, or suspected submucosal invasion
+- **[[endoscopic-submucosal-dissection|ESD]]** for larger lesions (unsuitable for en bloc EMR), post-ablation scarring, or suspected submucosal invasion
 - ASGE 2018 (Rec 6, **strong against**): do NOT routinely perform complete EMR of the entire BE segment (cEMR) — far more strictures (OR 4.73), bleeding (OR 6.88), and perforation (OR 7.00) than focal EMR + RFA, with equivalent eradication.
 
 **Step 2 — Ablation of residual BE segment:**
@@ -355,8 +355,7 @@ CEIM defined as: 1–2 surveillance endoscopies with no visible BE and no IM on 
 
 ## See Also
 
-
-[[gerd]], [[eosinophilic-esophagitis]], [[achalasia]], [[esophageal-adenocarcinoma]], [[endoscopic-eradication-therapy]], [[radiofrequency-ablation]], [[polypectomy-emr]], [[upper-endoscopy]], [[endoscopic-ultrasound]], [[antireflux-surgery]]
+[[gerd]], [[eosinophilic-esophagitis]], [[achalasia]], [[esophageal-adenocarcinoma]], [[endoscopic-eradication-therapy]], [[radiofrequency-ablation]], [[polypectomy-emr]], [[upper-endoscopy]], [[endoscopic-ultrasound]], [[antireflux-surgery]], [[endoscopic-submucosal-dissection]]
 
 ---
 

@@ -3,7 +3,7 @@ title: "FLIP Panometry"
 category: advanced-procedure
 tags: [FLIP, panometry, esophageal-motility, EGJ, functional-lumen-imaging, achalasia, EGJOO, foregut]
 created: 2026-05-15
-updated: 2026-06-27
+updated: 2026-07-16
 sources: [dallas-2025-flip-panometry, aga-2025-flip-esophageal]
 ---
 
@@ -71,7 +71,7 @@ Six-category matrix combining EGJ Opening × Contractile Response:
 |---|---|---|---|
 | NEO | Normal | **Normal** | Excludes major motor disorder (NPV >90%) |
 | NEO | Diminished or Absent | **Hypocontractility** | Correlates with [[ineffective-esophageal-motility\|ineffective esophageal motility]] on HRM |
-| NEO | Disordered or Spastic | **Possible Spasm** | Correlates with DES/jackhammer on HRM |
+| NEO | Disordered or Spastic | **Possible Spasm** | Correlates with [[distal-esophageal-spasm\|DES]]/[[hypercontractile-esophagus\|jackhammer]] on HRM |
 | REO | Spastic | **Spastic Obstruction** | Rare; [[achalasia]] type III or spastic motor-obstructive overlap |
 | REO | Normal | **Obstruction with Normal Contractility** | Suggests mechanical obstruction (tight wrap, ring, web) |
 | REO | Diminished or Absent | **Non-spastic Obstruction** | 92% manometric EGJOO; 77% abnormal TBE |
@@ -113,7 +113,7 @@ Six-category matrix combining EGJ Opening × Contractile Response:
 | Performed when | During sedated endoscopy | Separate awake/lightly sedated procedure |
 | EGJ opening | Directly measured (EGJ-DI, max diameter) | Inferred from IRP and IBP |
 | Motor pattern | Contractile response to distension | Peristaltic response to wet swallows |
-| Achalasia exclusion | NPV >90% with Normal pattern | Gold standard (Chicago Classification) |
+| Achalasia exclusion | NPV >90% with Normal pattern | Gold standard ([[chicago-classification-v4\|Chicago Classification]]) |
 | EGJOO | PPV >75% with REO | Defined by IRP + IBP criteria |
 | Expertise required | FLIP panometry interpretation | Chicago Classification 4.0 interpretation |
 | Complementarity | Often used together; FLIP adds at-scope information | Provides subtype detail FLIP cannot |
@@ -122,7 +122,7 @@ Six-category matrix combining EGJ Opening × Contractile Response:
 
 ## Key Clinical Rules
 
-1. **FLIP does not replace HRM for achalasia subtyping** — HRM (Chicago Classification) defines Type I/II/III and guides [[poem|POEM]] vs. PD vs. LHM selection
+1. **FLIP does not replace HRM for achalasia subtyping** — HRM (Chicago Classification) defines Type I/II/III and guides [[poem|POEM]] vs. PD vs. [[heller-myotomy|LHM]] selection
 2. **Normal FLIP excludes achalasia** — a clinically actionable high-NPV result when achalasia is a concern at time of endoscopy
 3. **REO = EGJOO equivalent** — manage as outflow obstruction; HRM for subtyping if not yet done
 4. **Inconclusive EGJ Opening** — report numerically; correlate with symptoms and TBE; consider HRM
@@ -130,18 +130,18 @@ Six-category matrix combining EGJ Opening × Contractile Response:
 
 ### Indications & Use ([[aga-2025-flip-esophageal|AGA 2025 CPU]])
 
-- Perform a **high-quality upper endoscopy immediately before** FLIP; consider FLIP when alternate tests (HRM/TBE) are **inconclusive** in obstructive symptoms, or at index endoscopy when expertise is available.
+- Perform a **high-quality [[upper-endoscopy|upper endoscopy]] immediately before** FLIP; consider FLIP when alternate tests (HRM/TBE) are **inconclusive** in obstructive symptoms, or at index endoscopy when expertise is available.
 - Standard endoscopy sedation (propofol/fentanyl/midazolam) does **not** meaningfully alter FLIP findings.
 - If EGD strongly supports achalasia, FLIP may **confirm** it; if EGD does not, abnormal EGJ opening should **prompt further testing**.
-- **Do not use FLIP to diagnose GERD** or decide on antireflux intervention.
+- **Do not use FLIP to diagnose [[gerd|GERD]]** or decide on antireflux intervention.
 - Consider **intraprocedural FLIP during myotomy** (POEM/LHM) to gauge LES-disruption adequacy, and for **persisting obstructive symptoms after achalasia treatment**.
-- Useful in **EoE** when the mechanism of persistent dysphagia is unclear on endoscopy/histology (esophageal remodeling). Contraindicated with actively bleeding varices.
+- Useful in **[[eosinophilic-esophagitis|EoE]]** when the mechanism of persistent [[dysphagia]] is unclear on endoscopy/histology (esophageal remodeling). Contraindicated with actively [[variceal-upper-gi-bleeding|bleeding varices]].
 
 ---
 
 ## See Also
 
-[[achalasia]], [[high-resolution-manometry]], [[ineffective-esophageal-motility]], [[hrm-antireflux-surgery]], [[endoscopic-ultrasound]]
+[[achalasia]], [[high-resolution-manometry]], [[chicago-classification-v4]], [[ineffective-esophageal-motility]], [[hrm-antireflux-surgery]], [[antireflux-surgery]], [[poem]], [[gerd]], [[endoscopic-ultrasound]]
 
 ---
 

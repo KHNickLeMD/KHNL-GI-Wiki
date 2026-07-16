@@ -3,7 +3,7 @@ title: "Hepatitis D (Delta)"
 category: disease-script
 tags: [hepatitis-delta, hdv, hepatitis-b, cirrhosis, bulevirtide, peg-interferon, hcc, viral-hepatitis]
 created: 2026-06-27
-updated: 2026-06-27
+updated: 2026-07-16
 sources: [aga-2025-hepatitis-delta]
 ---
 
@@ -35,14 +35,14 @@ Hepatitis delta virus (HDV) is a defective RNA virus that replicates **only in t
 
 ### Severity Assessment
 
-- Assess for **cirrhosis** with noninvasive testing — **VCTE** (AUROC 0.90; ≥14.0 kPa: sens 0.78, spec 0.86, NPV 0.93) and **FIB-4** (AUROC 0.88); APRI 0.83.
-- **HCC surveillance in all HDV patients** given elevated risk (see [[hepatocellular-carcinoma]]).
+- Assess for **cirrhosis** with [[noninvasive-liver-disease-assessment|noninvasive testing]] — **VCTE** (AUROC 0.90; ≥14.0 kPa: sens 0.78, spec 0.86, NPV 0.93) and **FIB-4** (AUROC 0.88); APRI 0.83.
+- **[[hcc-surveillance|HCC surveillance]] in all HDV patients** given elevated risk (see [[hepatocellular-carcinoma]]).
 
 ---
 
 ## Differential Diagnosis
 
-*Workup: HDV is confirmed serologically/virologically — see Diagnostics.*
+*Workup: see [[abnormal-liver-chemistries]]; HDV itself is confirmed serologically/virologically — see Diagnostics.*
 
 - [[chronic-hepatitis-b|Chronic hepatitis B]] monoinfection (HDV requires HBV — always coexists)
 - [[hepatitis-c]]
@@ -98,7 +98,7 @@ flowchart TD
 
 ## See Also
 
-[[chronic-hepatitis-b]], [[hepatitis-c]], [[hepatocellular-carcinoma]], [[autoimmune-hepatitis]], [[liver-transplantation]], [[nutrition-in-liver-disease]]
+[[chronic-hepatitis-b]], [[hepatitis-c]], [[hepatocellular-carcinoma]], [[hcc-surveillance]], [[abnormal-liver-chemistries]], [[noninvasive-liver-disease-assessment]], [[autoimmune-hepatitis]], [[drug-induced-liver-injury]], [[liver-transplantation]], [[nutrition-in-liver-disease]]
 
 ---
 

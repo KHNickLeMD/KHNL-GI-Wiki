@@ -3,8 +3,8 @@ title: "Intragastric Balloon (IGB)"
 category: advanced-procedure
 tags: [obesity, intragastric-balloon, endoscopic-bariatric-therapy, weight-management, bariatric]
 created: 2026-06-04
-updated: 2026-06-04
-sources: [aga-2021-intragastric-balloons]
+updated: 2026-07-16
+sources: [aga-2021-intragastric-balloons, aga-2022-obesity-pharm]
 ---
 
 # Intragastric Balloon (IGB)
@@ -53,7 +53,6 @@ A meta-analysis of 22 RCTs found **fluid-filled IGBs achieve ~3% more weight los
 AGA suggests subsequent weight-loss/maintenance interventions — **dietary intervention, pharmacotherapy, repeat (sequential) IGB, or [[bariatric-surgery]]** — chosen by shared decision-making (Rec 7, conditional, low certainty). Sequential IGB gives greater BMI reduction (MD 5.49 kg/m²) but more complications; post-IGB pharmacotherapy (e.g. liraglutide 3 mg, sibutramine) maintained or added to weight loss; IGB can also serve as a bridge before [[bariatric-surgery|bariatric surgery]].
 
 ## See Also
-
 
 [[obesity]], [[semaglutide]], [[bariatric-surgery]], [[upper-gi-bleeding]]
 

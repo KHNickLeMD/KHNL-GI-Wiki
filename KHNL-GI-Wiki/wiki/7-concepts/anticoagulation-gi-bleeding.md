@@ -3,7 +3,7 @@ title: "Anticoagulation Management in GI Bleeding and Periendoscopic Period"
 category: concept
 tags: [anticoagulation, antiplatelets, gi-bleeding, periendoscopic, doac, warfarin, bridging]
 created: 2026-05-15
-updated: 2026-07-01
+updated: 2026-07-16
 sources: [acg-cag-2022-anticoag-gi-bleeding, asge-2016-antithrombotic]
 ---
 
@@ -130,7 +130,7 @@ The periendoscopic framework applies to patients undergoing **scheduled, electiv
 | High bleeding risk (30-day major bleed >2%) | Low/moderate bleeding risk (≤2%) |
 |---|---|
 | [[polypectomy-emr\|Polypectomy ≥1 cm]] | [[upper-endoscopy\|EGD]] ± biopsy |
-| EMR / ESD | [[colonoscopy\|Colonoscopy]] ± biopsy |
+| EMR / [[endoscopic-submucosal-dissection\|ESD]] | [[colonoscopy\|Colonoscopy]] ± biopsy |
 | [[ercp\|ERCP]] with sphincterotomy | Flexible sigmoidoscopy ± biopsy |
 | [[endoscopic-ultrasound\|EUS-FNA]] | EUS without FNA |
 | PEG/PEJ placement | [[ercp\|ERCP]] with stent, without sphincterotomy |
@@ -228,7 +228,7 @@ For patients at low thromboembolic risk on DOACs:
 
 - Suggest **against interruption of ASA** for elective endoscopic procedures (Statement 15, conditional, very low certainty)
 - Bleeding risk of diagnostic procedures and most polypectomies is sufficiently low that ASA continuation is safe
-- Exception: consider ASA interruption for highest-risk procedures (ESD, biliary/pancreatic sphincterotomy, ampullectomy, [[poem|POEM]], RFA) when bleeding risk is particularly high
+- Exception: consider ASA interruption for highest-risk procedures (ESD, biliary/pancreatic sphincterotomy, ampullectomy, POEM, RFA) when bleeding risk is particularly high
 - Primary prevention ASA: stop before higher-risk procedures (minimal CV benefit does not justify bleeding risk)
 
 ### Drug-Specific Hold Intervals and Reversal (ASGE Reference Table)
@@ -281,7 +281,7 @@ Quick-reference duration-of-action, elective hold, and reversal by agent (ASGE 2
 
 ## See Also
 
-[[variceal-upper-gi-bleeding]], [[acute-lower-gi-bleeding]], [[colonoscopy]], [[upper-endoscopy]], [[polypectomy-emr]], [[endoscopic-ultrasound]]
+[[variceal-upper-gi-bleeding]], [[acute-lower-gi-bleeding]], [[colonoscopy]], [[upper-endoscopy]], [[polypectomy-emr]], [[endoscopic-ultrasound]], [[upper-gi-bleeding]], [[cirrhosis-hemostasis]], [[preprocedure-testing]], [[ercp]], [[endoscopic-submucosal-dissection]], [[poem]], [[radiofrequency-ablation]], [[capsule-endoscopy]]
 
 ---
 

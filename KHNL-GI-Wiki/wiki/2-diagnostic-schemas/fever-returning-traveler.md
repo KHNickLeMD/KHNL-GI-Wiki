@@ -3,7 +3,7 @@ title: "Fever in a Returning Traveler"
 category: diagnostic-schema
 tags: [travel-medicine, fever, tropical-infections, travelers-diarrhea, enteric-fever, viral-hepatitis, parasites]
 created: 2026-05-15
-updated: 2026-07-01
+updated: 2026-07-16
 sources: [nejm-2023-fever-returning-traveler]
 ---
 
@@ -19,8 +19,8 @@ This page focuses on GI-relevant diagnoses. Non-GI febrile illnesses (e.g., mala
 
 | Incubation | Diagnoses |
 |-----------|-----------|
-| <2 weeks | Traveler's diarrhea (ETEC, Campylobacter, Salmonella, Shigella), [[norovirus]], hepatitis A (early), dengue (GI manifestations), typhoid fever (early) |
-| 2–6 weeks | Enteric fever (typhoid/paratyphoid), hepatitis A (full picture), hepatitis E, amoebiasis, [[giardiasis]], leptospirosis (hepatitis) |
+| <2 weeks | [[acute-diarrhea\|Traveler's diarrhea]] ([[enterotoxigenic-e-coli\|ETEC]], [[campylobacter-infection\|Campylobacter]], [[salmonella-infection\|Salmonella]], [[shigellosis\|Shigella]]), [[norovirus]], hepatitis A (early), dengue (GI manifestations), typhoid fever (early) |
+| 2–6 weeks | Enteric fever (typhoid/paratyphoid), hepatitis A (full picture), hepatitis E, [[entamoeba-histolytica-infection\|amoebiasis]], [[giardiasis]], leptospirosis (hepatitis) |
 | >6 weeks | Schistosomiasis (acute: Katayama fever), visceral leishmaniasis, [[chronic-hepatitis-b\|chronic hepatitis B]]/E seroconversion, strongyloidiasis |
 
 ### GI-focused differential by presentation
@@ -70,7 +70,7 @@ This page focuses on GI-relevant diagnoses. Non-GI febrile illnesses (e.g., mala
 | Blood cultures × 2 | Enteric fever (Salmonella typhi/paratyphi) — positive in ~50–80% week 1 |
 | Widal test | Enteric fever — low sensitivity/specificity; not preferred |
 | Abdominal ultrasound | Amoebic liver abscess (hypoechoic lesion, right lobe), hepatosplenomegaly |
-| LFTs, bilirubin, PT | Hepatitis severity, leptospirosis |
+| [[abnormal-liver-chemistries\|LFTs]], bilirubin, PT | Hepatitis severity, leptospirosis |
 | CBC with differential | Eosinophilia (parasites, schistosomiasis), leukopenia (enteric fever, dengue), pancytopenia (visceral leishmaniasis) |
 | Dengue NS1 antigen, IgM/IgG | Dengue (within 5 days: NS1; after 5 days: serology) |
 | Schistosoma serology or stool/urine microscopy | Schistosomiasis (serology most sensitive in acute) |
@@ -88,7 +88,7 @@ This page focuses on GI-relevant diagnoses. Non-GI febrile illnesses (e.g., mala
 
 ## See Also
 
-[[acute-diarrhea]], [[entamoeba-histolytica-infection]], [[giardiasis]], [[chronic-hepatitis-b]], [[acute-liver-failure]], [[abnormal-liver-chemistries]]
+[[acute-diarrhea]], [[entamoeba-histolytica-infection]], [[giardiasis]], [[enterotoxigenic-e-coli]], [[campylobacter-infection]], [[salmonella-infection]], [[shigellosis]], [[norovirus]], [[rotavirus]], [[clostridioides-difficile]], [[chronic-hepatitis-b]], [[acute-liver-failure]], [[jaundice]], [[abnormal-liver-chemistries]]
 
 ---
 

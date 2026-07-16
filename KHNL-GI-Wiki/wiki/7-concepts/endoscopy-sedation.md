@@ -3,7 +3,7 @@ title: "Sedation and Anesthesia in GI Endoscopy"
 category: concept
 tags: [sedation, anesthesia, propofol, moderate-sedation, deep-sedation, capnography, asa-class, npo, reversal-agents, endoscopy]
 created: 2026-06-27
-updated: 2026-06-27
+updated: 2026-07-16
 sources: [asge-2018-sedation]
 ---
 
@@ -80,7 +80,7 @@ Consider anesthesia-provider–administered sedation for:
 - Increased airway-obstruction risk from an anatomic variant / risk of airway compromise
 
 ## See Also
-[[upper-endoscopy]], [[colonoscopy]], [[ercp]], [[endoscopic-ultrasound]], [[antibiotic-prophylaxis-endoscopy]]
+[[upper-endoscopy]], [[colonoscopy]], [[ercp]], [[endoscopic-ultrasound]], [[antibiotic-prophylaxis-endoscopy]], [[preprocedure-testing]], [[endoscopy-ergonomics]]
 
 ---
 

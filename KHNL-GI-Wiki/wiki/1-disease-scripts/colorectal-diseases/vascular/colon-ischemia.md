@@ -3,7 +3,7 @@ title: "Colon Ischemia"
 category: disease-script
 tags: [colon-ischemia, ischemic-colitis, mesenteric-ischemia, hematochezia, colonoscopy, surgery, vascular]
 created: 2026-05-21
-updated: 2026-05-21
+updated: 2026-07-16
 sources: [acg-2015-colon-ischemia]
 ---
 
@@ -60,13 +60,15 @@ Severity classification (Table 6, ACG 2015) [[acg-2015-colon-ischemia]]:
 
 ## Differential Diagnosis
 
+*Workup: see [[acute-lower-gi-bleeding]].*
+
 - **[[acute-mesenteric-ischemia|Acute mesenteric ischemia]] (AMI)** — involves small bowel; abrupt severe pain; CT angiography required urgently; does not cause hematochezia early
 - **Infectious colitis** — [[campylobacter-infection|Campylobacter]], STEC O157:H7, [[clostridioides-difficile|Clostridioides difficile]]; stool cultures, CDI testing; younger patients, exposure history
 - **[[crohns-disease]]** — may have right colon predominance like IRCI; chronic course; may have terminal ileal involvement; biopsy shows transmural inflammation + granulomas
 - **[[ulcerative-colitis]]** — continuous disease from rectum; not segmental; usually no abrupt onset
-- **Radiation proctocolitis** — history of pelvic radiation; telangiectasias on endoscopy
+- **[[radiation-proctopathy|Radiation proctocolitis]]** — history of pelvic radiation; telangiectasias on endoscopy
 - **[[microscopic-colitis|Microscopic colitis]]** — watery, nonbloody diarrhea; normal colonoscopy; requires biopsy
-- **Colon adenocarcinoma** — can obstruct mesenteric vessel and cause downstream CI; CT may show mass
+- **[[colorectal-cancer|Colon adenocarcinoma]]** — can obstruct mesenteric vessel and cause downstream CI; CT may show mass
 
 ---
 
@@ -149,9 +151,7 @@ Surgical approach: resection of ischemic segment; primary anastomosis vs. divert
 ---
 
 ## See Also
-
-
-[[acute-lower-gi-bleeding]], [[acute-mesenteric-ischemia]], [[crohns-disease]], [[ulcerative-colitis]], [[colonoscopy]], [[clostridioides-difficile]], [[portal-vein-thrombosis]]
+[[acute-lower-gi-bleeding]], [[acute-mesenteric-ischemia]], [[crohns-disease]], [[ulcerative-colitis]], [[colonoscopy]], [[clostridioides-difficile]], [[portal-vein-thrombosis]], [[radiation-proctopathy]], [[colorectal-cancer]], [[campylobacter-infection]], [[microscopic-colitis]]
 
 ---
 

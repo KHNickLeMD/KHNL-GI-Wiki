@@ -3,7 +3,7 @@ title: "Abnormal Liver Chemistries"
 category: diagnostic-schema
 tags: [liver-chemistries, liver-tests, alt, ast, alkaline-phosphatase, bilirubin, hepatocellular, cholestatic, r-value, hpb, liver, workup]
 created: 2026-05-19
-updated: 2026-05-19
+updated: 2026-07-16
 sources: [acg-2017-liver-chemistries, acg-2016-liver-disease-pregnancy]
 ---
 
@@ -139,7 +139,7 @@ Use the R-ratio and AST:ALT ratio to classify injury pattern → guides the diff
 
 1. History and PE; discontinue hepatotoxic meds and alcohol; evaluate for signs of [[acute-liver-failure|acute liver failure]]
 2. Labs: CBC/platelet count, AST/ALT, Alk Phos, total bilirubin, albumin, PT/INR, HAV IgM, HAV IgG, HBsAg, HBcAb IgM, HBsAb, HCV Ab with PCR, iron panel, ceruloplasmin, ANA, SMA, gamma-globulin; abdominal ultrasound
-3. If signs of acute liver failure → **urgent liver consultation with consideration of transplant center referral**
+3. If signs of acute liver failure → **urgent liver consultation with consideration of [[liver-transplantation|transplant center]] referral**
 4. If diagnostic evaluation negative and medically stable → consider diagnostic liver biopsy
 
 **Tier 4 — Severe elevation (>15× ULN):**
@@ -163,7 +163,7 @@ Use the R-ratio and AST:ALT ratio to classify injury pattern → guides the diff
 1. History and PE; confirm with serum GGT
 2. If GGT normal → evaluate for non-hepatobiliary etiologies (bone, intestinal)
 3. If GGT elevated → obtain RUQ ultrasound; evaluate for hepatotoxic medications; check AMA, ANA, SMA
-4. If ductal dilatation → [[ercp|ERCP]] or MRCP; if AMA positive → evaluate for PBC
+4. If ductal dilatation → [[ercp|ERCP]] or [[mri-mrcp|MRCP]]; if AMA positive → evaluate for PBC
 5. If evaluation negative and Alk Phos >2× ULN → consider liver biopsy; if 1–2× ULN → observation; if persistent after 6 months → consider liver biopsy
 
 **Scenario B — Elevated transaminases ± elevated bilirubin:**
@@ -236,7 +236,7 @@ Use the R-ratio and AST:ALT ratio to classify injury pattern → guides the diff
 - **Doppler ultrasound** — [[budd-chiari-syndrome|Budd-Chiari syndrome]], hepatic vein/[[portal-vein-thrombosis]]
 - **MRI/MRCP** — preferred for biliary anatomy; [[cholangioscopy]] for sclerosing cholangitis evaluation when ERCP not needed for therapy
 - **CT abdomen** — infiltrative disease, malignancy, abscess
-- **FibroScan (vibration-controlled transient elastography)** — non-invasive fibrosis assessment in NAFLD/MASLD; FDA-approved; controlled attenuation parameter (CAP) for steatosis quantification
+- **FibroScan (vibration-controlled transient elastography)** — [[noninvasive-liver-disease-assessment|non-invasive fibrosis assessment]] in NAFLD/MASLD; FDA-approved; controlled attenuation parameter (CAP) for steatosis quantification
 
 ### Liver Biopsy Indications
 
@@ -263,17 +263,14 @@ Biopsy is appropriate when (Strong recommendation, very low evidence) [[acg-2017
 - **Abnormal liver enzymes + neuropsychiatric symptoms** → Wilson's disease
 - **Ferritin >1,000 µg/l + transferrin saturation ≥45%** → hereditary hemochromatosis; assess for end-organ involvement (liver, pancreas, skin, joints, heart)
 - **Alkaline phosphatase + bilirubin + pruritus + fatigue in middle-aged woman** → PBC until proven otherwise
-- **IBD patient with cholestatic LFT pattern** → PSC must be excluded (biliary imaging required)
+- **[[inflammatory-bowel-disease|IBD]] patient with cholestatic LFT pattern** → PSC must be excluded (biliary imaging required)
 - **Pregnancy with elevated liver chemistries** — trimester-specific considerations: cholelithiasis, intrahepatic cholestasis of pregnancy (pruritus, elevated bile acids), pre-eclampsia/HELLP, acute fatty liver of pregnancy (rare but life-threatening with ALF features); note that ALP is normally elevated in pregnancy (placental isoenzyme) and albumin falls due to hemodilution — see [[liver-disease-in-pregnancy]] [[acg-2016-liver-disease-pregnancy]]
 
 ---
 
-*Cross-references: [[drug-induced-liver-injury]], [[alcohol-associated-liver-disease]], [[autoimmune-hepatitis]], [[primary-sclerosing-cholangitis]], [[primary-biliary-cholangitis]], [[wilson-disease]], [[hereditary-hemochromatosis]], [[nafld-masld]], [[acute-liver-failure]], [[chronic-hepatitis-b]], [[celiac-disease]], [[ascites]], [[liver-disease-in-pregnancy]]*
-
 ## See Also
 
-
-[[drug-induced-liver-injury]], [[alcohol-associated-liver-disease]], [[autoimmune-hepatitis]], [[primary-sclerosing-cholangitis]], [[primary-biliary-cholangitis]], [[wilson-disease]], [[hereditary-hemochromatosis]], [[nafld-masld]], [[acute-liver-failure]], [[chronic-hepatitis-b]], [[hepatitis-c]], [[hereditary-hemochromatosis]], [[celiac-disease]], [[budd-chiari-syndrome]], [[liver-disease-in-pregnancy]], [[noninvasive-liver-disease-assessment]]
+[[drug-induced-liver-injury]], [[alcohol-associated-liver-disease]], [[autoimmune-hepatitis]], [[primary-sclerosing-cholangitis]], [[primary-biliary-cholangitis]], [[wilson-disease]], [[hereditary-hemochromatosis]], [[nafld-masld]], [[acute-liver-failure]], [[chronic-hepatitis-b]], [[hepatitis-c]], [[celiac-disease]], [[budd-chiari-syndrome]], [[liver-disease-in-pregnancy]], [[noninvasive-liver-disease-assessment]], [[jaundice]], [[liver-biopsy]], [[mri-mrcp]], [[ascites]]
 
 ---
 

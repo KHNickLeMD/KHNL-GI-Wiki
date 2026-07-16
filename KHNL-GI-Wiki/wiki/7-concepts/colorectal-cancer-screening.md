@@ -3,7 +3,7 @@ title: "Colorectal Cancer Screening"
 category: concept
 tags: [crc, colorectal-cancer, screening, colonoscopy, fit, colonoscopy-quality, adenoma, colorectal]
 created: 2026-05-16
-updated: 2026-06-27
+updated: 2026-07-16
 sources: [acg-2021-crc-screening, aga-2025-crc-blood-tests]
 ---
 
@@ -67,9 +67,9 @@ The age 45 start is shared with the American Cancer Society (strong recommendati
 
 | Program | ↓ CRC incidence | ↓ CRC mortality |
 |---|---|---|
-| Annual [[colorectal-cancer\|FIT]] | 45%–77% | 67%–81% |
+| Annual FIT | 45%–77% | 67%–81% |
 | Triennial MT-sDNA (Cologuard) | 40%–73% | 64%–78% |
-| [[colonoscopy\|Colonoscopy]] q10y | 57%–81% | 72%–88% |
+| Colonoscopy q10y | 57%–81% | 72%–88% |
 | Triennial Guardant Shield | 24%–47% | 53%–59% |
 
 - Freenome projections ≈ Shield. Triennial Shield at $1450 = cost-effective vs no screening ($74,800–$102,300/QALY) but **less effective and more costly** than FIT/colonoscopy; even at $300 it stays inferior to FIT/colonoscopy.
@@ -135,7 +135,7 @@ Low-dose aspirin for CRC chemoprevention in adults aged **50–69** with:
 
 ## See Also
 
-[[colonoscopy]], [[colorectal-cancer]], [[lynch-syndrome]], [[polypectomy-emr]]
+[[colonoscopy]], [[colorectal-cancer]], [[lynch-syndrome]], [[polypectomy-emr]], [[colonoscopy-surveillance]], [[familial-adenomatous-polyposis]], [[capsule-endoscopy]], [[serrated-polyposis-syndrome]]
 
 ---
 

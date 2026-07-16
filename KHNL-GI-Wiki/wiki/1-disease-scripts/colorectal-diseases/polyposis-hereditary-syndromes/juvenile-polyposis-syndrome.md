@@ -3,7 +3,7 @@ title: "Juvenile Polyposis Syndrome"
 category: disease-script
 tags: [juvenile-polyposis, jps, smad4, bmpr1a, hamartoma, hereditary-crc, hht, upper-gi-cancer, genetic-testing]
 created: 2026-05-19
-updated: 2026-07-14
+updated: 2026-07-16
 sources: [acg-2015-hereditary-gi-cancer, aga-2022-hamartomatous-polyposis]
 ---
 
@@ -42,7 +42,7 @@ Juvenile polyposis syndrome (JPS) is an autosomal-dominant hamartomatous polypos
 
 | Cancer | JPS Risk | Average Age of Diagnosis |
 |---|---|---|
-| Colorectal | 38–68% | 34–44 |
+| [[colorectal-cancer\|Colorectal]] | 38–68% | 34–44 |
 | Upper GI (stomach, pancreas, small bowel combined) | 21% | 54 |
 
 ---
@@ -70,7 +70,7 @@ Juvenile polyposis syndrome (JPS) is an autosomal-dominant hamartomatous polypos
 **[[upper-endoscopy|EGD]]** — annually from age 12–15:
 
 - [[upper-endoscopy|Upper endoscopy]] starting age 12 or earlier depending on symptoms
-- Repeat every 1–3 years; small bowel past the duodenum should be periodically surveilled (enteroscopy, [[capsule-endoscopy|capsule endoscopy]], CT enterography) if duodenal polyposis is present or unexplained anemia, protein-losing enteropathy, or other small bowel symptoms are present
+- Repeat every 1–3 years; small bowel past the duodenum should be periodically surveilled ([[device-assisted-enteroscopy|enteroscopy]], [[capsule-endoscopy|capsule endoscopy]], CT enterography) if duodenal polyposis is present or unexplained anemia, protein-losing enteropathy, or other small bowel symptoms are present
 
 **Complete blood count** — annually for anemia surveillance
 
@@ -107,7 +107,7 @@ Juvenile polyposis syndrome (JPS) is an autosomal-dominant hamartomatous polypos
 
 ## See Also
 
-[[peutz-jeghers-syndrome]], [[familial-adenomatous-polyposis]], [[cowden-syndrome]], [[lynch-syndrome]], [[colorectal-cancer]], [[colonoscopy]], [[upper-endoscopy]], [[capsule-endoscopy]], [[hereditary-hemorrhagic-telangiectasia]]
+[[peutz-jeghers-syndrome]], [[familial-adenomatous-polyposis]], [[cowden-syndrome]], [[lynch-syndrome]], [[colorectal-cancer]], [[colonoscopy]], [[upper-endoscopy]], [[capsule-endoscopy]], [[hereditary-hemorrhagic-telangiectasia]], [[device-assisted-enteroscopy]]
 
 ---
 

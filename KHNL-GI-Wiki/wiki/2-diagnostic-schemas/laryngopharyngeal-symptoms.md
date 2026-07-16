@@ -3,7 +3,7 @@ title: "Laryngopharyngeal Symptoms (LPS) and Laryngopharyngeal Reflux Disease (L
 category: diagnostic-schema
 tags: [lpr, lprd, laryngopharyngeal-reflux, gerd, extraesophageal-reflux, cough, dysphonia, throat-clearing, ph-impedance, foregut]
 created: 2026-05-15
-updated: 2026-07-05
+updated: 2026-07-16
 sources: [san-diego-2025-lprd]
 ---
 
@@ -80,7 +80,7 @@ LPS can be caused by multiple mechanisms — reflux is one of several:
 #### Branch B: Isolated LPS (No Esophageal Symptoms)
 
 1. **Do NOT** initiate empiric acid suppression — pre-test probability of [[gerd|GERD]] is low
-2. Proceed directly to **esophageal evaluation**
+2. Proceed directly to **[[reflux-testing|esophageal evaluation]]**
 
 ### Step 3: Esophageal Evaluation
 
@@ -95,7 +95,7 @@ LPS can be caused by multiple mechanisms — reflux is one of several:
 **Ambulatory reflux monitoring (reference standard for LPRD):**
 
 - Perform OFF acid suppression in patients with unproven GERD
-- Required before invasive (endoscopic or surgical) anti-reflux management
+- Required before invasive (endoscopic or [[antireflux-surgery|surgical]]) anti-reflux management
 
 | Modality | Best Use | Key Metrics | Limitations |
 |---|---|---|---|
@@ -158,9 +158,11 @@ LPS can be caused by multiple mechanisms — reflux is one of several:
 - **TCAs:** caution — anticholinergic side effects may worsen LPS (dry mouth, reduced mucosal clearance)
 - **SSRIs/SNRIs:** consider when concomitant anxiety or depression is present
 
+---
+
 ## See Also
 
-[[gerd]], [[barretts-esophagus]], [[ambulatory-reflux-monitoring]], [[reflux-testing]], [[upper-endoscopy]], [[disorders-of-gut-brain-interaction]]
+[[gerd]], [[barretts-esophagus]], [[ambulatory-reflux-monitoring]], [[reflux-testing]], [[upper-endoscopy]], [[antireflux-surgery]], [[esophageal-cancer]], [[dysphagia]], [[disorders-of-gut-brain-interaction]]
 
 ---
 

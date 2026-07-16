@@ -3,7 +3,7 @@ title: "Gastroesophageal Reflux Disease"
 category: disease-script
 tags: [gerd, reflux, esophageal, foregut, motility]
 created: 2026-05-15
-updated: 2026-07-07
+updated: 2026-07-16
 sources: [asge-2024-gerd, acg-2021-gerd, sages-2021-gerd-surgery, lyon-2024-gerd-diagnosis]
 ---
 
@@ -33,7 +33,7 @@ sources: [asge-2024-gerd, acg-2021-gerd, sages-2021-gerd-surgery, lyon-2024-gerd
 
 **Special populations requiring endoscopic evaluation:**
 
-- Post-sleeve gastrectomy (SG) with reflux symptoms: conditional endoscopy; if asymptomatic, screen at 3 years then every 5 years given pooled BE rate of 11.4% post-SG (exceeds ASGE 10% screening threshold)
+- Post-[[bariatric-surgery|sleeve gastrectomy]] (SG) with reflux symptoms: conditional endoscopy; if asymptomatic, screen at 3 years then every 5 years given pooled BE rate of 11.4% post-SG (exceeds ASGE 10% screening threshold)
 - Post-[[poem|POEM]] with symptomatic GERD: conditional endoscopy; consider periodic evaluation even in asymptomatic patients given pooled esophagitis rate ~29% post-POEM (see [[achalasia]])
 
 ### Severity Assessment
@@ -278,7 +278,7 @@ Not recommended outside clinical trials. Under evaluation:
 
 ## See Also
 
-[[barretts-esophagus]], [[eosinophilic-esophagitis]], [[achalasia]], [[laryngopharyngeal-symptoms]], [[ambulatory-reflux-monitoring]], [[high-resolution-manometry]], [[hrm-antireflux-surgery]], [[flip-panometry]], [[antireflux-surgery]], [[vonoprazan]], [[upper-endoscopy]]
+[[barretts-esophagus]], [[eosinophilic-esophagitis]], [[achalasia]], [[laryngopharyngeal-symptoms]], [[ambulatory-reflux-monitoring]], [[high-resolution-manometry]], [[hrm-antireflux-surgery]], [[flip-panometry]], [[antireflux-surgery]], [[vonoprazan]], [[upper-endoscopy]], [[bariatric-surgery]]
 
 ---
 

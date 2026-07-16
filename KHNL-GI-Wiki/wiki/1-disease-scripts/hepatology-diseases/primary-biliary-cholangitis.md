@@ -3,7 +3,7 @@ title: "Primary Biliary Cholangitis (PBC)"
 category: disease-script
 tags: [pbc, primary-biliary-cholangitis, cholestatic, ama, alkaline-phosphatase, ursodiol, udca, oca, obeticholic-acid, fibrates, pruritus, overlap, hpb, liver, autoimmune, pregnancy, cirrhosis]
 created: 2026-05-19
-updated: 2026-05-28
+updated: 2026-07-16
 sources: [aasld-2018-pbc, aasld-2021-pbc, acg-2017-liver-chemistries, acg-2016-liver-disease-pregnancy]
 ---
 
@@ -60,20 +60,21 @@ When criteria 1 + 2 are met, biopsy is not required for diagnosis.
 
 Up to 40% of patients will have an inadequate response by one of these criteria and should be evaluated for second-line therapy.
 
-**Transient elastography:** Liver stiffness >9.6 kPa = 5× more likely to progress to decompensation, death, or transplant. Serial measurements useful for risk stratification. Liver stiffness ≥17 kPa triggers [[hcc-surveillance|HCC surveillance]] and consideration for variceal screening even without confirmed cirrhosis.
+**[[noninvasive-liver-disease-assessment|Transient elastography]]:** Liver stiffness >9.6 kPa = 5× more likely to progress to decompensation, death, or transplant. Serial measurements useful for risk stratification. Liver stiffness ≥17 kPa triggers [[hcc-surveillance|HCC surveillance]] and consideration for variceal screening even without confirmed cirrhosis.
 
 ---
 
 ## Differential Diagnosis
 
-- [[primary-sclerosing-cholangitis]] — cholangiographic findings (MRCP); IBD association; male predominance; AMA-negative; IgG4 testing to exclude IgG4-SC
+*Workup: see [[abnormal-liver-chemistries]] (cholestatic pattern — ALP + GGT elevation).*
+
+- [[primary-sclerosing-cholangitis]] — cholangiographic findings ([[mri-mrcp|MRCP]]); IBD association; male predominance; AMA-negative; IgG4 testing to exclude IgG4-SC
 - [[autoimmune-hepatitis]] — overlap syndrome (PBC-AIH overlap) possible; ANA/SMA elevated; IgG elevated; liver biopsy showing interface hepatitis
 - [[drug-induced-liver-injury]] — medication/HDS history; RUCAM causality; cholestatic R-ratio
-- [[abnormal-liver-chemistries]] — integrated algorithm for cholestatic pattern (ALP + GGT elevation)
 - Secondary biliary cirrhosis — extrinsic biliary obstruction; imaging (MRCP/CT) distinguishes
 - Sarcoidosis — granulomatous hepatitis; systemic findings; ACE level; AMA-negative
 - IgG4-related cholangiopathy — IgG4 level elevated; may mimic PSC or PBC
-- Nonalcoholic/metabolic fatty liver — steatohepatitis can cause cholestatic pattern; may coexist with PBC and cause suboptimal UDCA response
+- [[nafld-masld|Nonalcoholic/metabolic fatty liver]] — steatohepatitis can cause cholestatic pattern; may coexist with PBC and cause suboptimal UDCA response
 
 ---
 
@@ -347,8 +348,7 @@ Risk of developing PBC is increased among first-degree relatives, especially fem
 
 ## See Also
 
-
-[[primary-sclerosing-cholangitis]], [[autoimmune-hepatitis]], [[drug-induced-liver-injury]], [[abnormal-liver-chemistries]], [[portal-hypertension]], [[hepatocellular-carcinoma]], [[hcc-surveillance]], [[liver-transplantation]], [[liver-disease-in-pregnancy]], [[tacrolimus]], [[cholangiocarcinoma]]
+[[primary-sclerosing-cholangitis]], [[autoimmune-hepatitis]], [[drug-induced-liver-injury]], [[abnormal-liver-chemistries]], [[jaundice]], [[portal-hypertension]], [[hepatocellular-carcinoma]], [[hcc-surveillance]], [[liver-transplantation]], [[liver-disease-in-pregnancy]], [[tacrolimus]], [[cholangiocarcinoma]], [[nafld-masld]], [[mri-mrcp]], [[noninvasive-liver-disease-assessment]], [[liver-biopsy]], [[upper-endoscopy]], [[ascites]], [[obesity]]
 
 ---
 

@@ -3,8 +3,8 @@ title: "High-Risk Pancreatic Cancer Surveillance"
 category: concept
 tags: [pancreatic-cancer, screening, surveillance, genetics, brca, eus, mri]
 created: 2026-06-04
-updated: 2026-06-04
-sources: [asge-2022-pancreatic-cancer-screening]
+updated: 2026-07-16
+sources: [asge-2022-pancreatic-cancer-screening, acg-2015-hereditary-gi-cancer]
 ---
 
 High-risk [[pancreatic-cancer|pancreatic cancer]] surveillance is the practice of screening asymptomatic individuals with genetic susceptibility to [[pancreatic-cancer|pancreatic ductal adenocarcinoma]] in order to detect surgically resectable disease or precursor lesions and shift the stage at diagnosis. Population-level screening of average-risk adults is not recommended (2019 USPSTF), but that recommendation explicitly excluded high-risk genetic populations. The [[asge-2022-pancreatic-cancer-screening|ASGE 2022 guideline]] provides the GRADE-based framework summarized here.

@@ -3,7 +3,7 @@ title: "Rumination Syndrome"
 category: disease-script
 tags: [rumination-syndrome, regurgitation, dgbi, gastroduodenal, high-resolution-manometry, impedance, postprandial, foregut]
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-07-16
 sources: [rome-v-2026-dgbi, acg-2020-esophageal-physiologic-testing]
 ---
 
@@ -17,7 +17,7 @@ sources: [rome-v-2026-dgbi, acg-2020-esophageal-physiologic-testing]
 
 **Definition:** Rumination syndrome is diagnosed when patients report **repetitive, effortless regurgitation of recently ingested food into the mouth**, followed by either spitting or remastication and reswallowing, **without nausea, retching, or vomiting**. The regurgitated food is often recognized and has a pleasant taste ([[acg-2020-esophageal-physiologic-testing]]).
 
-It is classified in **Rome V among the gastroduodenal disorders of gut–brain interaction (B4)** ([[rome-v-2026-dgbi]]) — a behavioral condition, not a primary structural or motility disease.
+It is classified in **Rome V among the gastroduodenal [[disorders-of-gut-brain-interaction|disorders of gut–brain interaction]] (B4)** ([[rome-v-2026-dgbi]]) — a behavioral condition, not a primary structural or motility disease.
 
 **Cardinal features** (per the ACG 2020 description):
 
@@ -36,11 +36,11 @@ Because rumination responds poorly to standard antireflux therapy, it is an impo
 
 ## Differential Diagnosis
 
-- **GERD / refractory reflux symptoms** — rumination episodes are **not distinguishable from GERD using standard reflux metrics** on pH-impedance, though more "reflux" tends to **extend to the proximal esophagus** in rumination. Rumination has **suboptimal outcomes with standard antireflux therapies**, an important clinical clue. See [[gerd]].
+- **GERD / refractory reflux symptoms** — rumination episodes are **not distinguishable from GERD using standard reflux metrics** on pH-impedance, though more "reflux" tends to **extend to the proximal esophagus** in rumination. Rumination has **suboptimal outcomes with standard antireflux therapies**, an important clinical clue.
 - **Supragastric belching** — another atypical behavior that can mimic reflux; confirmed on **pH-impedance monitoring** (impedance distinguishes retrograde **gas** of belching from **liquid/food** of rumination). See [[ambulatory-reflux-monitoring]].
-- **[[gastroparesis|Gastroparesis]]** — vomiting of partially digested food hours after meals, preceded by nausea, with delayed gastric emptying. See [[gastroparesis]].
+- **[[gastroparesis|Gastroparesis]]** — vomiting of partially digested food hours after meals, preceded by nausea, with delayed gastric emptying.
 - **Vomiting disorders** — true emesis is forceful and preceded by nausea/retching, distinguishing it from effortless rumination.
-- **[[achalasia|Achalasia]] / esophageal outflow obstruction** — regurgitation of retained undigested food with [[dysphagia]]. See [[achalasia]].
+- **[[achalasia|Achalasia]] / esophageal outflow obstruction** — regurgitation of retained undigested food with [[dysphagia]].
 
 ---
 
@@ -50,7 +50,7 @@ Rumination syndrome is a **clinical diagnosis**; objective testing confirms it i
 
 ### Postprandial High-Resolution Impedance Manometry (HRIM) — Diagnostic Standard
 
-- **ACG Recommendation 15:** HRIM with **postprandial monitoring** is recommended to confirm the diagnosis of rumination when clinically needed.
+- **ACG Recommendation 15:** [[high-resolution-manometry|HRIM]] with **postprandial monitoring** is recommended to confirm the diagnosis of rumination when clinically needed.
 - **Manometric criteria:** increase in **intragastric pressure >30 mm Hg** with **proximal movement of gastric content**, **esophageal pressurization**, and a **clinically recognized rumination episode**.
 - **Performance:** sensitivity **75–80%** and specificity **100%** for HRIM (study of 15 children/adolescents with rumination and 15 controls).
 - **Postprandial protocol increases yield:** monitoring after a refluxogenic meal increases identification of rumination episodes. In a retrospective review of 94 patients with persistent esophageal symptoms despite PPI therapy, **20% had a rumination profile** during postprandial HRIM lasting up to **90 minutes** after the meal.

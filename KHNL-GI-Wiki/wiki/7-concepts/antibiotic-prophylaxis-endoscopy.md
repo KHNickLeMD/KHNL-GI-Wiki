@@ -3,7 +3,7 @@ title: "Antibiotic Prophylaxis for GI Endoscopy"
 category: concept
 tags: [antibiotic-prophylaxis, infective-endocarditis, ercp, peg, eus-fna, cirrhosis, gi-bleeding, bacteremia, endoscopy]
 created: 2026-06-27
-updated: 2026-06-27
+updated: 2026-07-16
 sources: [asge-2015-antibiotic-prophylaxis]
 ---
 
@@ -55,7 +55,7 @@ Framework for when periprocedural antibiotics are — and are not — indicated 
 | Solely to prevent IE | Any | Not recommended | 444B |
 
 ## See Also
-[[ercp]], [[endoscopic-ultrasound]], [[colonoscopy]], [[upper-endoscopy]], [[pancreatic-cysts]], [[antibiotic-prophylaxis-cirrhosis]], [[variceal-upper-gi-bleeding]], [[spontaneous-bacterial-peritonitis]], [[endoscopy-sedation]]
+[[ercp]], [[endoscopic-ultrasound]], [[colonoscopy]], [[upper-endoscopy]], [[pancreatic-cysts]], [[antibiotic-prophylaxis-cirrhosis]], [[variceal-upper-gi-bleeding]], [[spontaneous-bacterial-peritonitis]], [[endoscopy-sedation]], [[preprocedure-testing]], [[primary-sclerosing-cholangitis]], [[nutrition-in-hospitalized-patients]]
 
 ---
 

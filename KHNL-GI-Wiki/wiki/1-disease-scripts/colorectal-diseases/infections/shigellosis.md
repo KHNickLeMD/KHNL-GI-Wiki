@@ -3,7 +3,7 @@ title: "Shigellosis"
 category: disease-script
 tags: [shigella, bacterial-gastroenteritis, dysentery, diarrhea, travelers-diarrhea, azithromycin]
 created: 2026-05-19
-updated: 2026-07-06
+updated: 2026-07-16
 sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
 ---
 
@@ -30,7 +30,7 @@ sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
 
 - Other inflammatory bacterial enteritides — [[campylobacter-infection]], [[salmonella-infection]], [[enterotoxigenic-e-coli|Shiga-toxin *E. coli*]]
 - [[clostridioides-difficile|*C. difficile*]] colitis (antibiotic/healthcare exposure)
-- Inflammatory bowel disease flare
+- [[inflammatory-bowel-disease|Inflammatory bowel disease]] flare
 
 ---
 
@@ -48,7 +48,7 @@ sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
 - **Fluoroquinolones:** historically used; increasing resistance → azithromycin preferred.
 - **Empiric therapy is a named exception to the "no empiric antibiotics" rule:** an ill, febrile, immunocompetent patient with presumptive bacillary dysentery may be treated empirically while awaiting results (a fluoroquinolone or azithromycin per local susceptibility/travel). [[idsa-2017-infectious-diarrhea]]
 - **[[rifaximin|Rifaximin]]: do NOT use** — invasive pathogen; non-absorbable rifaximin is ineffective.
-- **Loperamide:** use with caution in proven shigellosis (antimotility agents may theoretically worsen inflammatory colitis; rare in antibiotic-treated patients).
+- **[[loperamide|Loperamide]]:** use with caution in proven shigellosis (antimotility agents may theoretically worsen inflammatory colitis; rare in antibiotic-treated patients).
 - **Infection control:** very low inoculum → meticulous hand hygiene; exclude symptomatic food handlers / childcare workers.
 
 ---

@@ -3,7 +3,7 @@ title: "Linaclotide"
 category: med
 tags: [linaclotide, gc-c-agonist, secretagogue, ibs-c, cic, constipation]
 created: 2026-05-19
-updated: 2026-05-19
+updated: 2026-07-16
 sources: [acg-2020-ibs, aga-acg-2023-constipation]
 ---
 
@@ -16,7 +16,7 @@ Guanylate cyclase-C (GC-C) agonist; intestinal secretagogue (↑cGMP → ↑Cl�
 ## Indications & Dosing
 
 - **[[chronic-idiopathic-constipation]]**: 145 µg PO daily (72 µg if poor tolerance) — Strong/Moderate ([[aga-acg-2023-constipation]])
-- **[[irritable-bowel-syndrome]]-C**: 290 µg PO daily — Strong/High ([[acg-2020-ibs]])
+- **[[irritable-bowel-syndrome|IBS]]-C**: 290 µg PO daily — Strong/High ([[acg-2020-ibs]])
 - Take ≥30 min before first meal
 
 ## Adverse Effects
@@ -30,8 +30,7 @@ Guanylate cyclase-C (GC-C) agonist; intestinal secretagogue (↑cGMP → ↑Cl�
 
 ## See Also
 
-
-[[chronic-idiopathic-constipation]], [[irritable-bowel-syndrome]], [[plecanatide]], [[lubiprostone]], [[prucalopride]]
+[[chronic-idiopathic-constipation]], [[irritable-bowel-syndrome]], [[plecanatide]], [[lubiprostone]], [[prucalopride]], [[disorders-of-gut-brain-interaction]]
 
 ---
 

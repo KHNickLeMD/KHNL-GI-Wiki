@@ -3,7 +3,7 @@ title: "Drug-Induced Liver Injury (Idiosyncratic)"
 category: disease-script
 tags: [dili, drug-induced-liver-injury, hepatotoxicity, hds, ici, immune-checkpoint, hpb, liver]
 created: 2026-05-16
-updated: 2026-07-06
+updated: 2026-07-16
 sources: [acg-2021-dili, acg-2017-liver-chemistries, aasld-2022-dili]
 ---
 
@@ -147,7 +147,7 @@ Roussel Uclaf Causality Assessment Method — scoring system (−10 to +14):
 - Withhold/delay ICI for moderate-severe hepatotoxicity
 - Corticosteroids (prednisone 0.5–1 mg/kg or methylprednisolone IV for severe)
 - Mycophenolate mofetil for steroid-refractory ICI hepatotoxicity
-- Screen HBV/HCV before ICI initiation; prophylaxis for reactive serology
+- Screen [[chronic-hepatitis-b|HBV]]/HCV before ICI initiation; prophylaxis for reactive serology
 
 ### DILI in Chronic Liver Disease (CLD)
 
@@ -171,7 +171,7 @@ Roussel Uclaf Causality Assessment Method — scoring system (−10 to +14):
 
 ## See Also
 
-[[abnormal-liver-chemistries]], [[acute-liver-failure]], [[autoimmune-hepatitis]], [[inflammatory-bowel-disease]], [[nafld-masld]], [[primary-biliary-cholangitis]], [[primary-sclerosing-cholangitis]], [[wilson-disease]], [[budd-chiari-syndrome]], [[immune-checkpoint-inhibitor-hepatitis]], [[liver-transplantation]], [[ercp]]
+[[abnormal-liver-chemistries]], [[acute-liver-failure]], [[autoimmune-hepatitis]], [[inflammatory-bowel-disease]], [[nafld-masld]], [[primary-biliary-cholangitis]], [[primary-sclerosing-cholangitis]], [[wilson-disease]], [[budd-chiari-syndrome]], [[immune-checkpoint-inhibitor-hepatitis]], [[chronic-hepatitis-b]], [[hepatitis-c]], [[liver-biopsy]], [[jaundice]], [[liver-transplantation]], [[ercp]]
 
 ---
 

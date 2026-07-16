@@ -3,7 +3,7 @@ title: "UC vs Crohn's Disease: Comparison"
 category: synthesis
 tags: [uc, crohns, ibd, comparison]
 created: 2026-05-16
-updated: 2026-07-12
+updated: 2026-07-16
 sources: [acg-2025-uc, acg-2025-crohns]
 ---
 
@@ -37,7 +37,7 @@ sources: [acg-2025-uc, acg-2025-crohns]
 
 ## See Also
 
-[[ulcerative-colitis]], [[crohns-disease]], [[colorectal-cancer]], [[pouchitis]], [[microscopic-colitis]]
+[[ulcerative-colitis]], [[crohns-disease]], [[colorectal-cancer]], [[pouchitis]], [[microscopic-colitis]], [[inflammatory-bowel-disease]], [[ibd-preventive-care]]
 
 ---
 

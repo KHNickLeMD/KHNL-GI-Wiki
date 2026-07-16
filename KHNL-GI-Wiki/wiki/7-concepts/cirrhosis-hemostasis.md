@@ -3,7 +3,7 @@ title: "Hemostasis in Cirrhosis"
 category: concept
 tags: [cirrhosis, coagulopathy, hemostasis, inr, platelets, ffp, teg, rotem, pvt, anticoagulation]
 created: 2026-05-21
-updated: 2026-05-21
+updated: 2026-07-16
 sources: [acg-2020-hepatic-mesenteric-circulation, aga-2021-cirrhosis-coagulation]
 ---
 
@@ -42,7 +42,7 @@ The net effect: hemostasis may be near-normal, impaired, or hypercoagulable depe
 
 **Do NOT use antifibrinolytics prophylactically** (Conditional, Very Low evidence):
 
-- Reserve for confirmed hyperfibrinolysis (seen in [[acute-on-chronic-liver-failure|acute-on-chronic liver failure]], LT anhepatic phase)
+- Reserve for confirmed hyperfibrinolysis (seen in [[acute-on-chronic-liver-failure|acute-on-chronic liver failure]], [[liver-transplantation|LT]] anhepatic phase)
 
 **Use TEG/ROTEM for guidance** (Conditional, Low evidence):
 
@@ -59,15 +59,14 @@ Cirrhotic patients are paradoxically prone to venous thromboembolism [[acg-2020-
 
 - PVT prevalence: ~1% in compensated cirrhosis, up to 25% in pre-transplant patients
 - Elevated vWF, reduced natural anticoagulants, reduced portal flow velocity — all predispose to thrombosis
-- Anticoagulation is safe and effective in cirrhosis; does not increase major bleeding rates in most studies
+- [[anticoagulation-gi-bleeding|Anticoagulation]] is safe and effective in cirrhosis; does not increase major bleeding rates in most studies
 - See [[portal-vein-thrombosis]] for management
 
 ---
 
 ## See Also
 
-
-[[portal-vein-thrombosis]], [[budd-chiari-syndrome]], [[spontaneous-bacterial-peritonitis]], [[aki-in-cirrhosis]], [[acute-on-chronic-liver-failure]], [[anticoagulation-gi-bleeding]]
+[[portal-vein-thrombosis]], [[budd-chiari-syndrome]], [[spontaneous-bacterial-peritonitis]], [[aki-in-cirrhosis]], [[acute-on-chronic-liver-failure]], [[anticoagulation-gi-bleeding]], [[liver-biopsy]], [[liver-transplantation]], [[portal-hypertension]], [[variceal-upper-gi-bleeding]]
 
 ---
 

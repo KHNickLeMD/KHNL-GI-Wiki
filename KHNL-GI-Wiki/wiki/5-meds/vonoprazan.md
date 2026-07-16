@@ -3,7 +3,7 @@ title: "Vonoprazan (PCAB)"
 category: med
 tags: [vonoprazan, pcab, h-pylori, acid-suppression, voquezna, potassium-competitive]
 created: 2026-05-16
-updated: 2026-07-02
+updated: 2026-07-16
 sources: [acg-2024-hp-treatment]
 ---
 
@@ -11,7 +11,7 @@ sources: [acg-2024-hp-treatment]
 
 Potassium-competitive acid blocker (PCAB). Blocks the gastric H+/K+-ATPase competitively at the potassium-binding site. More potent and faster-acting acid suppression than PPIs; not dependent on meal timing or CYP2C19 metabolism.
 
-**Brand name:** Voquezna (FDA-approved 2022 for H. pylori eradication)
+**Brand name:** Voquezna (FDA-approved 2022 for [[helicobacter-pylori-infection|H. pylori]] eradication)
 
 ---
 
@@ -35,7 +35,7 @@ Potassium-competitive acid blocker (PCAB). Blocks the gastric H+/K+-ATPase compe
 
 - Dual therapy avoids clarithromycin entirely — preferred when clarithromycin resistance suspected
 - Triple therapy acceptable where clarithromycin resistance is low or susceptibility confirmed
-- After [[bismuth-quadruple-therapy|BQT]] failure: vonoprazan dual/triple is a second-line option ([[helicobacter-pylori-infection]])
+- After [[bismuth-quadruple-therapy|BQT]] failure: vonoprazan dual/triple is a second-line option
 - After vonoprazan-based failure: switch to BQT or rifabutin triple
 
 ---
@@ -43,7 +43,7 @@ Potassium-competitive acid blocker (PCAB). Blocks the gastric H+/K+-ATPase compe
 ## Dosing
 
 - **H. pylori eradication:** 20 mg PO bid × 14 days (as part of dual or triple regimen)
-- Stop ≥2 weeks before H. pylori testing (urea breath test or stool antigen) — same requirement as PPIs
+- Stop ≥2 weeks before [[test-and-treat|H. pylori testing]] (urea breath test or stool antigen) — same requirement as PPIs
 
 ---
 
@@ -57,7 +57,7 @@ Potassium-competitive acid blocker (PCAB). Blocks the gastric H+/K+-ATPase compe
 
 ## See Also
 
-[[helicobacter-pylori-infection]], [[bismuth-quadruple-therapy]], [[peptic-ulcer-disease]], [[gerd]]
+[[helicobacter-pylori-infection]], [[bismuth-quadruple-therapy]], [[peptic-ulcer-disease]], [[gerd]], [[test-and-treat]], [[clostridioides-difficile]]
 
 ---
 
