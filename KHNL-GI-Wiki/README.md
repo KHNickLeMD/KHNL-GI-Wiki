@@ -46,6 +46,11 @@ The result is a compounding, evidence-linked reference that grows with each new 
 </div>
 
 <div style="background:var(--surface);border:1px solid var(--border);border-radius:10px;padding:14px 16px;">
+<div style="display:flex;align-items:center;gap:8px;font-weight:600;font-size:13px;margin-bottom:6px;">🫀 Anatomy</div>
+<div style="font-size:13px;color:var(--text-muted);line-height:1.5;">Anatomy and histology of the GI tract, liver, and pancreaticobiliary system — the structural groundwork the disease and procedure pages build on.</div>
+</div>
+
+<div style="background:var(--surface);border:1px solid var(--border);border-radius:10px;padding:14px 16px;">
 <div style="display:flex;align-items:center;gap:8px;font-weight:600;font-size:13px;margin-bottom:6px;">💡 Concepts</div>
 <div style="font-size:13px;color:var(--text-muted);line-height:1.5;">Pathophysiology, mechanisms, classification systems, and clinical frameworks that underpin multiple disease pages — e.g. Chicago Classification v4.0, colorectal cancer screening, ambulatory reflux monitoring.</div>
 </div>
