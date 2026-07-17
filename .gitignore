@@ -2,3 +2,5 @@
 .DS_Store
 .claude/
 node_modules/
+KHNL-GI-Wiki/raw/*
+!KHNL-GI-Wiki/raw/assets
