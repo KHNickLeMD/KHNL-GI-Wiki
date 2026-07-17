@@ -31,14 +31,17 @@ sources: [asge-2019-choledocholithiasis]
 - Confirmatory imaging (EUS/[[mri-mrcp|MRCP]]) reserved for **intermediate-probability** patients (see below).
 
 ### Risk Stratification (ASGE 2019)
-*Probability of CBD stones determines the pathway — avoids unnecessary diagnostic [[ercp|ERCP]].*
+*Probability of CBD stones determines the pathway — avoids unnecessary diagnostic [[ercp|ERCP]] (diagnostic ERCP carries a 6–15% adverse-event rate; the 2010 criteria sent 20–30% of patients to ERCP without stones).*
 
-| Probability | Pathway |
-|---|---|
-| **High** | Proceed directly to **[[ercp\|ERCP]]** for stone extraction |
-| **Intermediate** | Confirm first with **[[endoscopic-ultrasound\|EUS]] or MRCP** before ERCP |
-| **Low** | Cholecystectomy with intraoperative cholangiogram as needed |
+| Risk | Stone probability | Criteria | Pathway |
+|---|---|---|---|
+| **High** | >50% | **Any one of:** (1) CBD stone on US or cross-sectional imaging; (2) total bilirubin **>4 mg/dL** ***and*** **dilated CBD**; (3) clinical **ascending cholangitis** | Proceed directly to **[[ercp\|ERCP]]** for stone extraction |
+| **Intermediate** | 10–50% | **Any one of** (without meeting a high-risk criterion): abnormal liver biochemical tests; age **>55 years**; **dilated CBD** on US | Confirm first with **[[endoscopic-ultrasound\|EUS]], MRCP**, laparoscopic IOC, or laparoscopic intraoperative US |
+| **Low** | <10% | No predictors present | Cholecystectomy (for symptomatic cholelithiasis) ± intraoperative cholangiogram or intraoperative US as needed |
 
+- **Dilated CBD** = **>6 mm** in adults with gallbladder in situ; **>8 mm** after cholecystectomy. ([[asge-2019-choledocholithiasis]])
+- Bilirubin >4 mg/dL *alone* or a dilated duct *alone* is only **intermediate** risk — it's the **combination** that is high-risk (revised from 2010: the combined criterion raised specificity from 74% to 94% and PPV from 64% to 85% in validation).
+- **Gallstone [[acute-pancreatitis|pancreatitis]] was removed** as a risk criterion in the 2019 revision — it did not correlate with persistent CBD stones.
 - **EUS and MRCP have comparable high accuracy** for detecting CBD stones — choose by local availability/expertise. ([[asge-2019-choledocholithiasis]])
 
 ## Differential Diagnosis

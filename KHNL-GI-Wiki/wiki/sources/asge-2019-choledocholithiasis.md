@@ -3,7 +3,7 @@ title: "ASGE Guideline: Endoscopic Management of Choledocholithiasis (2019)"
 category: source
 tags: [choledocholithiasis, cbd-stones, ercp, eus, mrcp, gallstone-pancreatitis, guideline, asge]
 created: 2026-06-04
-updated: 2026-06-04
+updated: 2026-07-16
 sources: []
 ---
 
@@ -28,7 +28,11 @@ This guideline risk-stratifies suspected common bile duct (CBD) stones and defin
 
 ## Key Recommendations
 
-- **Risk stratification:** **high-probability** CBD stones → proceed directly to **[[ercp]]**; **intermediate-probability** → confirm first with **EUS or MRCP** (avoid unnecessary ERCP); low-probability → cholecystectomy with intraoperative cholangiogram as needed.
+- **Risk stratification (revised from 2010):**
+  - **High (>50%)** — any of: CBD stone on US/cross-sectional imaging; total bilirubin **>4 mg/dL** *and* dilated CBD; ascending cholangitis → proceed directly to **[[ercp]]**.
+  - **Intermediate (10–50%)** — any of: abnormal liver tests; age **>55 y**; dilated CBD → confirm first with **EUS or MRCP** (or IOC / intraoperative US) to avoid unnecessary ERCP.
+  - **Low (<10%)** — no predictors → cholecystectomy with intraoperative cholangiogram as needed.
+  - Dilated CBD = **>6 mm** (gallbladder in situ) / **>8 mm** (post-cholecystectomy). Bilirubin >4 alone *or* dilation alone is only intermediate — the combination is high-risk. **Gallstone pancreatitis dropped** as a criterion (no correlation with persistent stones).
 - **EUS and MRCP** have comparable high accuracy for detecting CBD stones; choose by availability/expertise.
 - **Large/difficult stones:** **endoscopic papillary large-balloon dilation after sphincterotomy** improves clearance over sphincterotomy alone; consider mechanical lithotripsy/cholangioscopy-guided lithotripsy.
 - **Gallstone pancreatitis:** **early ERCP** for concurrent **cholangitis or persistent biliary obstruction** (not routinely for uncomplicated gallstone pancreatitis).

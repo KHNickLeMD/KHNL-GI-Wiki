@@ -2693,3 +2693,13 @@ Sources covering topics where newer guidelines are already ingested (2025 versio
 - `wiki/syntheses/` — generated analyses
 
 ---
+
+## 2026-07-16 — Choledocholithiasis risk-stratification criteria expanded
+
+**Ask (Nick):** expand [[choledocholithiasis]] with the low/intermediate/high risk criteria.
+
+**Source:** [[asge-2019-choledocholithiasis]] read from the primary PDF (`GI Resources/GI Guidelines/ASGE/ASGE 2019 Choledocholithiasis.pdf`, pp. 1089–1091) — the page previously carried only the *pathways*, never the criteria that assign risk.
+
+**Added:** the ASGE 2019 criteria table (high >50% / intermediate 10–50% / low <10%) with the three high-risk criteria (stone on imaging; total bili >4 mg/dL **and** dilated CBD; ascending cholangitis) and the three intermediate criteria (abnormal liver tests; age >55; dilated CBD). Plus the operative details: dilated CBD = >6 mm in situ / >8 mm post-cholecystectomy; bili-alone and dilation-alone are intermediate, only the *combination* is high (specificity 74%→94%, PPV 64%→85% on validation); **gallstone pancreatitis was removed** as a criterion in the 2019 revision (no correlation with persistent stones). Same criteria mirrored into the source page's Key Recommendations, which had the same gap. Index line updated.
+
+**Health check:** frontmatter, index drift, and `[[link]]` resolution clean.
