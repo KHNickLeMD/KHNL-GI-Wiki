@@ -1229,6 +1229,10 @@
     .home-sections-grid { grid-template-columns: 1fr; }
     .toc-grid { grid-template-columns: 1fr; }
     #page-title { font-size: 30px; }
+    /* iOS Safari auto-zooms the page when focusing an input with font-size
+       < 16px, and the zoom persists after blur — the "site always loads
+       zoomed in" bug. 16px on touch-size screens prevents it. */
+    input[type="text"], input[type="search"], textarea, select { font-size: 16px !important; }
   }
 </style>
 </head>
