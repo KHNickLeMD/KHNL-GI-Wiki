@@ -2703,3 +2703,15 @@ Sources covering topics where newer guidelines are already ingested (2025 versio
 **Added:** the ASGE 2019 criteria table (high >50% / intermediate 10–50% / low <10%) with the three high-risk criteria (stone on imaging; total bili >4 mg/dL **and** dilated CBD; ascending cholangitis) and the three intermediate criteria (abnormal liver tests; age >55; dilated CBD). Plus the operative details: dilated CBD = >6 mm in situ / >8 mm post-cholecystectomy; bili-alone and dilation-alone are intermediate, only the *combination* is high (specificity 74%→94%, PPV 64%→85% on validation); **gallstone pancreatitis was removed** as a criterion in the 2019 revision (no correlation with persistent stones). Same criteria mirrored into the source page's Key Recommendations, which had the same gap. Index line updated.
 
 **Health check:** frontmatter, index drift, and `[[link]]` resolution clean.
+
+## 2026-07-16 — Schema: pages must be decision-sufficient (clinical-reference standard)
+
+**Principle (Nick):** *"I want the wiki to be a clinical reference. So anything that is needed to make medical decisions, I would want on those wiki pages."* Prompted by the [[choledocholithiasis]] gap above — the page had the pathways but not the criteria, so it couldn't answer whether a given patient needs an MRCP, which is the only reason to open it.
+
+**Named failure mode:** capturing the conclusion but not the inputs. It reads as complete (the recommendation is there); what's missing is everything upstream of it.
+
+**Encoded in `CLAUDE.md`** so future passes enforce it rather than remember it:
+- New Content Guide section — *This is a clinical reference — the page must support the decision*, placed above source fidelity as the purpose test. Requires criteria for every named stratum/classification/score/stage, numeric thresholds **with units and qualifiers**, combination rules, doses/intervals, and what changed between guideline versions. Binds source pages equally.
+- **Decision gaps** added to the LINT what-to-look-for list, and made the first check in the stalest-pages validation.
+
+**Bounds:** does not override source fidelity (criteria come from an ingested source or get flagged); not a license to pad — decision-critical content in full, everything else stays concise.

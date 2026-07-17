@@ -69,6 +69,24 @@ You maintain a persistent, compounding wiki of GI knowledge. You are not a chatb
 
 Governs **what goes on a page** — the substance. For **how it's formatted**, see the Style Guide below. Apply both on every ingest, edit, and lint pass.
 
+### This is a clinical reference — the page must support the decision
+
+**The test for every page: could a clinician make the actual clinical decision from this page alone?** If a fact is needed to make a medical decision, it belongs on the page. (Nick, 2026-07-16.)
+
+The failure mode this rule exists to prevent: **capturing the conclusion but not the inputs.** A page that says "high risk → ERCP, intermediate risk → EUS/MRCP" tells the reader what to do *once stratified* while omitting the criteria that assign risk — so it cannot be used to decide whether this patient needs an MRCP, which is the entire reason to open it. [[choledocholithiasis]] had exactly this gap for a month: the pathway table, no criteria table.
+
+So whenever a source's recommendation is **conditional on a classification, threshold, score, or stage**, the thing being conditioned on must reach the page with its operative detail:
+
+- **Classification/risk criteria** — the actual criteria for each stratum, not just the strata names (ASGE high/intermediate/low, Chicago types, Forrest class, Los Angeles grade, Milan criteria).
+- **Numeric thresholds and cutoffs** — with their units and qualifiers (bilirubin >4 mg/dL; CBD >6 mm in situ vs >8 mm post-cholecystectomy). A threshold whose qualifier is dropped is worse than no threshold.
+- **Scores** — the components and their point values, plus what each band implies.
+- **Doses, intervals, durations** where the source gives them.
+- **Combination rules** — when criterion A *and* B is high-risk but either one alone is not, say so explicitly; that distinction is the decision.
+
+Corollary: **if a rule changed between guideline versions, say what changed** (e.g. ASGE 2019 dropped gallstone pancreatitis as a risk criterion; the 2010 version included it). Readers carry the old version in their heads.
+
+This governs both entity pages and source pages — a source page's Key Recommendations has the same obligation. Not a license to pad: it means decision-critical content, in full; everything else stays concise per the Style Guide. And it never overrides **source fidelity** — if the criteria aren't in an ingested source, flag the gap, don't supply them from memory.
+
 ### Source fidelity — most important
 - Every clinical claim comes **directly from an ingested source** (the guidelines, large RCTs, and reliable resources listed in the page's `## Sources`).
 - **Never invent, infer, or pad.** Do not add anything that is not in the raw source files.
@@ -341,10 +359,11 @@ Triggered by user request ("lint the wiki", "health check").
 - **Stub pages that can be expanded from already-ingested sources** — flag any `*Stub — to be expanded.*` page whose topic is substantively covered by a source already in `raw/` (or an existing `wiki/sources/` page).
 - Missing cross-references
 - **Un-linked in-text mentions** — body text that names another entity (disease, med, procedure, concept) which has a page but is written as plain text instead of an inline link. Convert these to inline `[[slug|Displayed Words]]` links (see Cross-references). This is a primary lint job, run on every pass.
+- **Decision gaps — conclusion present, inputs missing.** A page that names a classification, risk stratum, score, stage, or grade but never gives its criteria; a recommendation conditional on a threshold whose number isn't stated; a threshold missing its qualifier/units. Read the page against Content Guide → *This is a clinical reference*: could the decision be made from this page alone? Fix from the ingested source; if the source isn't ingested, flag it.
 - Data gaps that could be filled by a web search or known source
 
 **Behavior (manual and scheduled):**
-- **Validate the stalest pages against the Content + Style Guides (every pass).** Each lint pass, take the **2–3 least-recently-updated pages** (oldest frontmatter `updated:` date first; ties broken arbitrarily) and check each against both guides — source fidelity (no unsourced or fabricated claims), no repetition within or across pages, source algorithms/figures/tables captured (Content Guide); concise/skimmable bullets, ADDT / diagnostic-schema section order, inline `[[links]]` (including a diagnostic-schema link at the top of the Differential Diagnosis section), and the `## See Also` + `## Sources` bottom-section format (Style Guide). Fix what's off and bump the page's `updated:` date. Cap this at 2–3 pages per pass so it fits the token budget; the next pass continues with the next-stalest pages.
+- **Validate the stalest pages against the Content + Style Guides (every pass).** Each lint pass, take the **2–3 least-recently-updated pages** (oldest frontmatter `updated:` date first; ties broken arbitrarily) and check each against both guides — **decision sufficiency** (criteria/thresholds/scores behind every conditional recommendation are on the page — the first thing to check, since it's the reason the page exists), source fidelity (no unsourced or fabricated claims), no repetition within or across pages, source algorithms/figures/tables captured (Content Guide); concise/skimmable bullets, ADDT / diagnostic-schema section order, inline `[[links]]` (including a diagnostic-schema link at the top of the Differential Diagnosis section), and the `## See Also` + `## Sources` bottom-section format (Style Guide). Fix what's off and bump the page's `updated:` date. Cap this at 2–3 pages per pass so it fits the token budget; the next pass continues with the next-stalest pages.
 - **Expand stubs from already-ingested sources only (every pass).** When a pass surfaces a `*Stub — to be expanded.*` page whose subject is substantively covered by a source already in `raw/` (or an existing `wiki/sources/` page), expand it into a full page following the Content + Style Guides (ADDT order for disease scripts; diagnostic-schema order for syndromes) — read the **original raw source** (e.g. the source PDF), capture its definitions/algorithms/recommendations, then update the page's frontmatter (`sources:`, `updated:`), `index.md` description, and append a log entry. **Hard constraint — never pull outside/internet information to expand a stub.** If the ingested raw files do not contain enough to expand it, leave it as a stub and simply flag it (note which source would be needed); do not fill the gap from general knowledge or a web search. Cap at **1–2 stub expansions per pass** to fit the token budget; deeper stubs that need a not-yet-ingested source are reported, not invented.
 - **Never create new folders.** Use only the folders already defined in the Directory Structure above. Do not invent new top-level directories, a second `wiki/`, a `lint-report/`, a `concepts/` outside `7-concepts/`, etc. New pages go into the correct existing schema folder; if you think a genuinely new folder is needed, stop and ask the user first.
 - **Lint reports are ephemeral — never write them to disk.** Deliver the lint findings as your chat response only. Do not create `lint-report.md`, `lint-final-summary.md`, `markdown_files_to_lint.txt`, or any similar report/scratch file in the repo. The durable record of a lint pass is a single `lint` entry appended to `wiki/log.md` (what was fixed + what remains for user triage).
