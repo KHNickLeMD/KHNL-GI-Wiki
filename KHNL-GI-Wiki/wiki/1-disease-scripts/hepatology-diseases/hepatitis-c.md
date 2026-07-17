@@ -3,7 +3,7 @@ title: "Hepatitis C"
 category: disease-script
 tags: [hepatitis-c, HCV, direct-acting-antivirals, DAA, cirrhosis, HCC, SVR, glecaprevir, pibrentasvir, sofosbuvir, velpatasvir, fibrosis, liver, antiviral, screening]
 created: 2026-05-28
-updated: 2026-07-16
+updated: 2026-07-17
 sources: [aasld-idsa-2023-hcv, aasld-idsa-2011-hcv-genotype1]
 ---
 
@@ -11,7 +11,7 @@ sources: [aasld-idsa-2023-hcv, aasld-idsa-2011-hcv-genotype1]
 
 ### Establishing the Diagnosis
 
-HCV is a blood-borne RNA virus (Flaviviridae) infecting ~58 million people globally; ~2.4 million in the US. Leading cause of cirrhosis and [[hepatocellular-carcinoma|hepatocellular carcinoma]]; most common indication for [[liver-transplantation|liver transplantation]] prior to the [[direct-acting-antivirals|DAA]] era.
+HCV is a blood-borne RNA virus (Flaviviridae) infecting ~58 million people globally; ~2.4 million in the US. Leading cause of [[cirrhosis|cirrhosis]] and [[hepatocellular-carcinoma|hepatocellular carcinoma]]; most common indication for [[liver-transplantation|liver transplantation]] prior to the [[direct-acting-antivirals|DAA]] era.
 
 **Screening (universal):**
 

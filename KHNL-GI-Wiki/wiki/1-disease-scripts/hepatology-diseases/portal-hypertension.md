@@ -3,7 +3,7 @@ title: "Portal Hypertension"
 category: disease-script
 tags: [portal-hypertension, cirrhosis, CSPH, HVPG, cACLD, varices, NSBB, carvedilol, TIPS, liver-stiffness, decompensation, variceal-bleeding, ascites]
 created: 2026-05-28
-updated: 2026-07-16
+updated: 2026-07-17
 sources: [aasld-2023-portal-hypertension, acg-2025-perioperative-cirrhosis, aasld-2024-tips, aasld-2022-palliative-cirrhosis]
 ---
 
@@ -11,7 +11,7 @@ sources: [aasld-2023-portal-hypertension, acg-2025-perioperative-cirrhosis, aasl
 
 ### Establishing the Diagnosis
 
-Portal hypertension (PH) is defined as a portocaval pressure gradient (portal vein pressure minus inferior vena cava pressure) >5 mm Hg, measured as the hepatic venous pressure gradient (HVPG). The most common cause by far is cirrhosis (sinusoidal/intrahepatic PH), followed by [[portal-vein-thrombosis|portal vein thrombosis]] (prehepatic) and hepatic outflow obstruction (posthepatic, e.g., [[budd-chiari-syndrome|Budd-Chiari]]).
+Portal hypertension (PH) is defined as a portocaval pressure gradient (portal vein pressure minus inferior vena cava pressure) >5 mm Hg, measured as the hepatic venous pressure gradient (HVPG). The most common cause by far is [[cirrhosis|cirrhosis]] (sinusoidal/intrahepatic PH), followed by [[portal-vein-thrombosis|portal vein thrombosis]] (prehepatic) and hepatic outflow obstruction (posthepatic, e.g., [[budd-chiari-syndrome|Budd-Chiari]]).
 
 **Classification by anatomical site:**
 
@@ -93,7 +93,7 @@ Cirrhosis stages (per clinical features and HVPG):
 | Abdominal ultrasound + Doppler | Portal vein patency, hepatofugal flow, splenomegaly, portosystemic collaterals, ascites |
 | CT/MRI abdomen | Confirms varices, collaterals, ascites, [[hepatocellular-carcinoma\|HCC]] surveillance, PVT anatomy |
 | [[upper-endoscopy\|Upper endoscopy (EGD)]] | Varices detection; high-risk features (large size, red wale marks); needed when TE unavailable or NSBB contraindicated |
-| Child-Pugh score / MELD | Liver synthetic function; prognosis; TIPS candidacy |
+| Child-Pugh score / MELD | Liver synthetic function; prognosis; [[tips|TIPS]] candidacy |
 | Labs | LFTs, INR, albumin, bilirubin, creatinine, CBC (thrombocytopenia = PH marker) |
 | Diagnostic paracentesis | PMN count, culture, albumin (SAAG), total protein for ascites evaluation |
 

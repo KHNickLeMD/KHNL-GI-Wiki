@@ -3,7 +3,7 @@ title: "Gastrointestinal Stromal Tumor (GIST)"
 category: disease-script
 tags: [gist, gastrointestinal-stromal-tumor, subepithelial-lesion, kit, cd117, dog1, pdgfra, sdh-deficient, imatinib, sunitinib, regorafenib, ripretinib, avapritinib, mesenchymal-tumor, nccn, oncology]
 created: 2026-06-18
-updated: 2026-07-16
+updated: 2026-07-17
 sources: [nccn-2026-gist]
 ---
 
@@ -13,6 +13,12 @@ sources: [nccn-2026-gist]
 
 GISTs typically present as a subepithelial mass (often gastric), sometimes with GI bleeding, early satiety, or as an incidental finding. They characteristically express **KIT (CD117)** and **DOG1** on immunohistochemistry. Because GISTs are friable and can rupture/seed, biopsy is approached carefully; [[endoscopic-ultrasound|EUS]]-guided sampling is commonly used for gastric subepithelial lesions, and percutaneous biopsy of a readily resectable lesion is generally avoided. **Mutational testing is essential** — it is both diagnostic and predictive of therapy response.
 
+### Severity Assessment
+
+Malignant potential is estimated from **tumor size, mitotic rate, and primary site** — gastric GISTs behave more favorably than small-bowel or rectal tumors of equivalent size and mitotic rate. **Tumor rupture** (spontaneous or at surgery) confers high risk of recurrence.
+
+⚠ **Decision gap — the operative size/mitotic-rate cutoffs that assign a GIST to a risk stratum are not reproduced here.** [[nccn-2026-gist]] is the page's only source, and NCCN's licence bars reproducing its proprietary risk tables, so the thresholds that trigger adjuvant imatinib cannot be sourced from the wiki. **Consult the original NCCN risk-stratification table directly** before deciding on adjuvant therapy.
+
 ### Classification / Typing
 
 By driver mutation ([[nccn-2026-gist]]):
@@ -20,10 +26,6 @@ By driver mutation ([[nccn-2026-gist]]):
 - **KIT-mutant** — most common; exon 11 (majority, imatinib-sensitive) and exon 9 (requires higher-dose imatinib).
 - **PDGFRA-mutant** — includes the imatinib-resistant **D842V** variant (treated with **avapritinib**).
 - **SDH-deficient ("wild-type")** — lacks KIT/PDGFRA mutations; often gastric, in younger patients; associated with **Carney triad** and **Carney-Stratakis syndrome**; more indolent and less TKI-responsive; prompts germline/syndrome evaluation.
-
-### Risk Stratification
-
-Malignant potential is estimated from **tumor size, mitotic rate, and primary site** — gastric GISTs behave more favorably than small-bowel or rectal tumors of equivalent size and mitotic rate. **Tumor rupture** (spontaneous or at surgery) confers high risk of recurrence.
 
 ## Differential Diagnosis
 

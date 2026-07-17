@@ -3,7 +3,7 @@ title: "Rumination Syndrome"
 category: disease-script
 tags: [rumination-syndrome, regurgitation, dgbi, gastroduodenal, high-resolution-manometry, impedance, postprandial, foregut]
 created: 2026-06-08
-updated: 2026-07-16
+updated: 2026-07-17
 sources: [rome-v-2026-dgbi, acg-2020-esophageal-physiologic-testing]
 ---
 
@@ -15,16 +15,14 @@ sources: [rome-v-2026-dgbi, acg-2020-esophageal-physiologic-testing]
 
 ### Establishing the Diagnosis
 
-**Definition:** Rumination syndrome is diagnosed when patients report **repetitive, effortless regurgitation of recently ingested food into the mouth**, followed by either spitting or remastication and reswallowing, **without nausea, retching, or vomiting**. The regurgitated food is often recognized and has a pleasant taste ([[acg-2020-esophageal-physiologic-testing]]).
+**Definition:** A clinical diagnosis resting on four cardinal features ([[acg-2020-esophageal-physiologic-testing]]):
 
-It is classified in **Rome V among the gastroduodenal [[disorders-of-gut-brain-interaction|disorders of gut–brain interaction]] (B4)** ([[rome-v-2026-dgbi]]) — a behavioral condition, not a primary structural or motility disease.
-
-**Cardinal features** (per the ACG 2020 description):
-
-- **Effortless regurgitation** of recently ingested food into the mouth
+- **Effortless, repetitive regurgitation** of recently ingested food into the mouth
 - Subsequent **spitting or remastication and reswallowing**
 - **No nausea, retching, or vomiting**
 - Regurgitant is **recognized food with a pleasant taste** (not acidic/digested)
+
+It is classified in **Rome V among the gastroduodenal [[disorders-of-gut-brain-interaction|disorders of gut–brain interaction]] (B4)** ([[rome-v-2026-dgbi]]) — a behavioral condition, not a primary structural or motility disease.
 
 ### Pathophysiology
 
@@ -66,15 +64,6 @@ Rumination syndrome is a **clinical diagnosis**; objective testing confirms it i
 ## Therapeutics
 
 > Management of rumination syndrome (behavioral therapy and pharmacologic options) is **not covered in the primary sources currently in this wiki** (Rome V overview; ACG 2020 esophageal physiologic testing). This section is intentionally left as a stub pending a primary source — see note below.
-
----
-
-## Clinical Pearls
-
-- **"Effortless, bland, recently eaten food, no nausea/retching"** — the history that separates rumination from vomiting and from GERD.
-- **Poor response to antireflux therapy** is a red flag: rumination has suboptimal outcomes with PPIs/antireflux measures and is frequently misdiagnosed as refractory GERD.
-- **Standard reflux metrics don't help** — rumination is indistinguishable from GERD on routine pH-impedance numbers; the diagnosis rests on the **postprandial HRIM pattern** (intragastric pressure rise >30 mm Hg with proximal gastric content movement and esophageal pressurization).
-- **EGD first, then HRIM with postprandial monitoring** when clinically needed.
 
 ---
 

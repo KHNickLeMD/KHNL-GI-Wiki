@@ -3,7 +3,7 @@ title: "Portal Vein Thrombosis and Mesenteric Vein Thrombosis"
 category: disease-script
 tags: [portal-vein-thrombosis, pvt, mvt, mesenteric-vein, anticoagulation, cirrhosis, thrombophilia, splenomegaly, mpn, liver-transplant]
 created: 2026-05-21
-updated: 2026-07-16
+updated: 2026-07-17
 sources: [acg-2020-hepatic-mesenteric-circulation, aasld-ast-2025-liver-transplant-candidate-evaluation, aasld-2021-vascular-pvt]
 ---
 
@@ -11,7 +11,7 @@ sources: [acg-2020-hepatic-mesenteric-circulation, aasld-ast-2025-liver-transpla
 
 ### Establishing the Diagnosis
 
-Portal vein thrombosis (PVT) is the partial or complete occlusion of the portal vein by thrombus. Mesenteric vein thrombosis (MVT) involves the superior mesenteric vein and can extend into or from the portal vein. Both conditions may occur in the setting of cirrhosis or in noncirrhotic patients with underlying thrombophilia or local abdominal pathology.
+Portal vein thrombosis (PVT) is the partial or complete occlusion of the portal vein by thrombus. Mesenteric vein thrombosis (MVT) involves the superior mesenteric vein and can extend into or from the portal vein. Both conditions may occur in the setting of [[cirrhosis|cirrhosis]] or in noncirrhotic patients with underlying thrombophilia or local abdominal pathology.
 
 **Presentation:**
 
@@ -43,7 +43,7 @@ Portal vein thrombosis (PVT) is the partial or complete occlusion of the portal 
 | **Noncirrhotic acute PVT** | New-onset thrombus without cirrhosis; thrombophilia or local cause; anticoagulation effective |
 | **Noncirrhotic chronic PVT** | Cavernous transformation; portal biliopathy; anticoagulation reserved for specific indications |
 | **Cirrhotic acute PVT** | Common (1–25% depending on stage); often incidental; may impair response to [[liver-transplantation\|liver transplantation]] |
-| **Cirrhotic chronic PVT** | Cavernoma in cirrhosis; complicates TIPS/transplant planning |
+| **Cirrhotic chronic PVT** | Cavernoma in cirrhosis; complicates [[tips|TIPS]]/transplant planning |
 | **MVT** | SMA/SMV involvement; higher bowel ischemia risk; emergency when bowel infarction present |
 
 ---

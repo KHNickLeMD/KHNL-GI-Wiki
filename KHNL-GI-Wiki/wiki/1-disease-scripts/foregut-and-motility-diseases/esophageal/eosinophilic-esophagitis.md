@@ -3,7 +3,7 @@ title: "Eosinophilic Esophagitis"
 category: disease-script
 tags: [eoe, esophageal, dysphagia, food-impaction, eosinophil, atopic, biologic, dupilumab]
 created: 2026-05-07
-updated: 2026-07-16
+updated: 2026-07-17
 sources: [acg-2025-eoe, aga-2020-eoe, acg-2013-eoe]
 ---
 
@@ -254,7 +254,7 @@ Chronic, immune/antigen-mediated esophageal disease. Characterized by esophageal
 
 ## See Also
 
-[[gerd]], [[achalasia]], [[celiac-disease]], [[barretts-esophagus]], [[upper-endoscopy]]
+[[dysphagia]], [[gerd]], [[achalasia]], [[celiac-disease]], [[barretts-esophagus]], [[inflammatory-bowel-disease]], [[crohns-disease]], [[upper-endoscopy]], [[colonoscopy]]
 
 ---
 

@@ -3,11 +3,11 @@ title: "Noninvasive Liver Disease Assessment (NILDA)"
 category: concept
 tags: [nilda, fibrosis, steatosis, fib-4, elf, vcte, mre, mri-pdff, noninvasive, biomarkers, hpb, liver]
 created: 2026-05-31
-updated: 2026-07-16
+updated: 2026-07-17
 sources: [aasld-2024-nilda-blood, aasld-2023-nafld, aasld-2025-semaglutide-mash, aasld-2024-nilda-imaging, aasld-2024-nilda-portal-htn]
 ---
 
-Noninvasive liver disease assessment (NILDA) is the set of blood-based and imaging-based tools that estimate **hepatic fibrosis** and **steatosis** without [[liver-biopsy|biopsy]]. AASLD published companion 2024 practice guidelines for blood-based and imaging-based NILDA; the framework now drives screening, risk stratification, pharmacotherapy candidacy, and (with caveats) treatment monitoring in [[nafld-masld]].
+Noninvasive liver disease assessment (NILDA) is the set of blood-based and imaging-based tools that estimate **hepatic fibrosis** (up to and including [[cirrhosis]]) and **steatosis** without [[liver-biopsy|biopsy]]. AASLD published companion 2024 practice guidelines for blood-based and imaging-based NILDA; the framework now drives screening, risk stratification, pharmacotherapy candidacy, and (with caveats) treatment monitoring in [[nafld-masld]].
 
 ## Core principle
 
@@ -25,15 +25,12 @@ Most blood/imaging NITs have **high negative predictive value (rule-out)** but *
 - **VCTE (FibroScan)** — point-of-care LSM; rule-out <8 kPa, rule-in ≥12, cirrhosis ≥20. CAP for steatosis (≥288 dB/min).
 - **MRE** — most accurate fibrosis NIT (AUROC ~0.93); rule-out <2.55, advanced ≥3.63, cirrhosis ≥5 kPa; superior in central adiposity / narrow rib space.
 - **MRI-PDFF** — most accurate steatosis quantification (≥5%); tracks dynamic change; ≥30% reduction tracks histologic response.
-- *(The AASLD 2024 imaging-based NILDA guideline and the noninvasive portal-hypertension guideline are not yet ingested — see `raw/GI Guidelines/AASLD/`.)*
 
 ## Uses & cross-links
 
 - Fibrosis staging & at-risk MASH identification in [[nafld-masld]]; pharmacotherapy candidacy ([[semaglutide]], [[resmetirom]]) uses F2–F3 NIT windows.
 - Noninvasive CSPH staging in cirrhosis (LSM + platelets, "Rule of Five") — see [[portal-hypertension]].
 - Fibrosis staging also applies in [[primary-sclerosing-cholangitis]], [[primary-biliary-cholangitis]], and [[hereditary-hemochromatosis]].
-
-*Stub — to be expanded when the AASLD 2024 imaging-based and portal-hypertension NILDA guidelines are ingested.*
 
 ## See Also
 

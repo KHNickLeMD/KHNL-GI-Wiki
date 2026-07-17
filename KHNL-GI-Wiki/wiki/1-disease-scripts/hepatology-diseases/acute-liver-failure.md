@@ -3,7 +3,7 @@ title: "Acute Liver Failure"
 category: disease-script
 tags: [acute-liver-failure, alf, liver, hepatology, transplant, liver-transplant-referral]
 created: 2026-05-15
-updated: 2026-07-16
+updated: 2026-07-17
 sources: [acg-2023-alf, acg-2016-liver-disease-pregnancy, aasld-ast-2025-liver-transplant-candidate-evaluation, aasld-2011-alf]
 ---
 
@@ -14,7 +14,7 @@ sources: [acg-2023-alf, acg-2016-liver-disease-pregnancy, aasld-ast-2025-liver-t
 **Definition (US/European):** Acute liver failure (ALF) requires ALL of the following:
 
 1. **Illness duration < 26 weeks**
-2. **No preexisting liver disease or cirrhosis** (exceptions: [[autoimmune-hepatitis|AIH]], [[budd-chiari-syndrome|Budd-Chiari syndrome]], [[wilson-disease|Wilson disease]] may present acutely with underlying advanced fibrosis)
+2. **No preexisting liver disease or [[cirrhosis|cirrhosis]]** (exceptions: [[autoimmune-hepatitis|AIH]], [[budd-chiari-syndrome|Budd-Chiari syndrome]], [[wilson-disease|Wilson disease]] may present acutely with underlying advanced fibrosis)
 3. **Any degree of [[hepatic-encephalopathy|hepatic encephalopathy (HE)]]**
 4. **Coagulopathy: INR ≥ 1.5**
 
@@ -277,7 +277,7 @@ Not routine. Transjugular [[liver-biopsy|liver biopsy]] (TJLB) preferred over pe
 **[[budd-chiari-syndrome|Budd-Chiari syndrome]]:**
 
 - **IV heparin** immediately (in absence of contraindications)
-- Anticoagulation alone → if fails: **TIPS** (preferred over surgical shunting)
+- Anticoagulation alone → if fails: **[[tips|TIPS]]** (preferred over surgical shunting)
 - Angioplasty/stenting for membranous web obstruction
 - LT if unresponsive to all interventions; status 1A listing; post-LT survival comparable to non-BCS ALF
 
@@ -333,4 +333,4 @@ Not routine. Transjugular [[liver-biopsy|liver biopsy]] (TJLB) preferred over pe
 1. [[acg-2023-alf|ACG 2023: Acute Liver Failure]]
 2. [[acg-2016-liver-disease-pregnancy|ACG Clinical Guideline: Liver Disease and Pregnancy (2016)]]
 3. [[aasld-ast-2025-liver-transplant-candidate-evaluation|AASLD AST 2025: Practice Guideline on Adult Liver Transplantation — Candidate Evaluation]]
-4. [[aasld-2011-alf|AASLD Position Paper: Management of Acute Liver Failure — Update 2011 (historical)]]
+4. [[aasld-2011-alf|AASLD Position Paper: The Management of Acute Liver Failure — Update 2011]] (historical)

@@ -3,13 +3,13 @@ title: "Hepatitis D (Delta)"
 category: disease-script
 tags: [hepatitis-delta, hdv, hepatitis-b, cirrhosis, bulevirtide, peg-interferon, hcc, viral-hepatitis]
 created: 2026-06-27
-updated: 2026-07-16
+updated: 2026-07-17
 sources: [aga-2025-hepatitis-delta]
 ---
 
 # Hepatitis D (Delta)
 
-Hepatitis delta virus (HDV) is a defective RNA virus that replicates **only in the presence of [[chronic-hepatitis-b|HBV]]** (it requires HBsAg to assemble). It is the most aggressive form of viral hepatitis — concurrent HDV substantially increases the risk of cirrhosis, [[hepatocellular-carcinoma|HCC]], and liver-related mortality versus HBV monoinfection.
+Hepatitis delta virus (HDV) is a defective RNA virus that replicates **only in the presence of [[chronic-hepatitis-b|HBV]]** (it requires HBsAg to assemble). It is the most aggressive form of viral hepatitis — concurrent HDV substantially increases the risk of [[cirrhosis|cirrhosis]], [[hepatocellular-carcinoma|HCC]], and liver-related mortality versus HBV monoinfection.
 
 ---
 

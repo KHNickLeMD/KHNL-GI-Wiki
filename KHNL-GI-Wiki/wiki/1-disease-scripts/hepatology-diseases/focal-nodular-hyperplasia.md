@@ -3,7 +3,7 @@ title: "Focal Nodular Hyperplasia"
 category: disease-script
 tags: [fnh, liver, hpb, focal-liver-lesion, benign-liver, gadoxetate, mri]
 created: 2026-05-07
-updated: 2026-07-16
+updated: 2026-07-17
 sources: [acg-2024-focal-liver-lesions]
 ---
 
@@ -47,7 +47,7 @@ Key concern is distinguishing FNH from HCA (very different management) and from 
 *Workup & imaging comparison: see [[focal-liver-lesions]].*
 
 - **[[hepatocellular-adenoma|Hepatocellular adenoma]] (HCA)** — most important distinction; HCA lacks central scar; lacks hepatobiliary phase gadoxetate uptake in typical pattern; management is very different (see [[hepatocellular-adenoma]])
-- **[[hepatocellular-carcinoma|Hepatocellular carcinoma (HCC)]]** — in cirrhotic background; APHE + washout; [[li-rads|LI-RADS]] ≥4; no central scar
+- **[[hepatocellular-carcinoma|Hepatocellular carcinoma (HCC)]]** — in [[cirrhosis|cirrhotic]] background; APHE + washout; [[li-rads|LI-RADS]] ≥4; no central scar
 - **Hypervascular metastasis** — (e.g. from [[gastroenteropancreatic-neuroendocrine-tumors|neuroendocrine tumor]], RCC, thyroid cancer); multiple lesions; clinical context
 - **[[hepatic-hemangioma|Hepatic hemangioma]]** — T2 hyperintense; centripetal fill-in; no central scar; no hepatobiliary phase uptake
 - **Fibrolamellar HCC** — rare; young patients without cirrhosis; large; contains central scar (can mimic FNH); **AFP typically normal**; aggressive biology

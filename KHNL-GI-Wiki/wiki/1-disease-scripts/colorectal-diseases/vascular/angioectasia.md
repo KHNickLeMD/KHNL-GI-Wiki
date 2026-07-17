@@ -3,11 +3,9 @@ title: "Angioectasia (Angiodysplasia)"
 category: disease-script
 tags: [angioectasia, angiodysplasia, small-bowel, gi-bleeding, vascular-lesion, heydes-syndrome, lvad]
 created: 2026-05-19
-updated: 2026-07-16
+updated: 2026-07-17
 sources: [acg-2015-small-bowel-bleeding]
 ---
-
-*Stub — to be expanded.*
 
 Angioectasia (also called angiodysplasia) are acquired vascular ectasias of the GI mucosa and submucosa. They are the **most common cause of [[small-bowel-bleeding|small bowel bleeding]]** overall. [[acg-2015-small-bowel-bleeding]]
 
@@ -38,6 +36,7 @@ Angioectasia (also called angiodysplasia) are acquired vascular ectasias of the 
 - [[heydes-syndrome|Heyde's syndrome]]: aortic valve replacement may resolve bleeding (reduced rebleeding risk per meta-analysis, pooled event rate 0.16 [95% CI: 0.05–0.38]).
 
 ## See Also
+
 [[small-bowel-bleeding]], [[heydes-syndrome]], [[hereditary-hemorrhagic-telangiectasia]], [[upper-gi-bleeding]], [[acute-lower-gi-bleeding]], [[capsule-endoscopy]], [[device-assisted-enteroscopy]], [[somatostatin-analogs]]
 
 ---

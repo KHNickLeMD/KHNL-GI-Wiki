@@ -3,7 +3,7 @@ title: "Primary Biliary Cholangitis (PBC)"
 category: disease-script
 tags: [pbc, primary-biliary-cholangitis, cholestatic, ama, alkaline-phosphatase, ursodiol, udca, oca, obeticholic-acid, fibrates, pruritus, overlap, hpb, liver, autoimmune, pregnancy, cirrhosis]
 created: 2026-05-19
-updated: 2026-07-16
+updated: 2026-07-17
 sources: [aasld-2018-pbc, aasld-2021-pbc, acg-2017-liver-chemistries, acg-2016-liver-disease-pregnancy]
 ---
 
@@ -27,7 +27,7 @@ When criteria 1 + 2 are met, biopsy is not required for diagnosis.
 
 ### Severity Assessment
 
-**Biochemical:** Serum ALP elevation is the cardinal biochemical feature. ALT/AST may be mildly elevated. IgM typically elevated. Bilirubin elevation indicates advanced disease. Serum albumin and platelet count are early indicators of cirrhosis/[[portal-hypertension|portal hypertension]].
+**Biochemical:** Serum ALP elevation is the cardinal biochemical feature. ALT/AST may be mildly elevated. IgM typically elevated. Bilirubin elevation indicates advanced disease. Serum albumin and platelet count are early indicators of [[cirrhosis|cirrhosis]]/[[portal-hypertension|portal hypertension]].
 
 **Prognostic models:**
 
@@ -248,7 +248,7 @@ Portal hypertension may develop as a result of biliary cirrhosis or, in the **pr
 
 - **Variceal screening:** Endoscopic screening at time of suspected cirrhosis diagnosis (Guidance Statement 15). Also consider if platelet count <200,000/mm³ or transient elastography ≥17 kPa.
 - **Variceal management:** Follows standard AASLD portal hypertension guidance (NSBB or endoscopic variceal ligation for primary prophylaxis) — see [[portal-hypertension]]
-- **Variceal bleeding in precirrhotic PBC:** Particularly challenging because TIPS is undesirable when synthetic function is preserved. Distal splenorenal shunts rarely used but have not been associated with accelerated liver failure in PBC.
+- **Variceal bleeding in precirrhotic PBC:** Particularly challenging because [[tips|TIPS]] is undesirable when synthetic function is preserved. Distal splenorenal shunts rarely used but have not been associated with accelerated liver failure in PBC.
 
 ---
 

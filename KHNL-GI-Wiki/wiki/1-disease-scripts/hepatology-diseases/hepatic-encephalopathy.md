@@ -3,7 +3,7 @@ title: "Hepatic Encephalopathy"
 category: disease-script
 tags: [hepatic-encephalopathy, HE, cirrhosis, ammonia, lactulose, rifaximin, TIPS, portal-hypertension, ACLF, minimal-HE, covert-HE, overt-HE, portosystemic-shunting, brain-dysfunction]
 created: 2026-05-28
-updated: 2026-07-16
+updated: 2026-07-17
 sources: [aasld-easl-2014-hepatic-encephalopathy, acg-2026-hepatic-encephalopathy]
 ---
 
@@ -21,7 +21,7 @@ Every bout of HE should be characterized along all four axes simultaneously:
 
 - **Type A** — HE resulting from **[[acute-liver-failure|acute liver failure]]** (ALF); high cerebral edema risk; distinct management (see [[acute-liver-failure]]); NOT covered by this guideline
 - **Type B** — HE resulting predominantly from **portosystemic bypass/shunting** without intrinsic hepatocellular disease
-- **Type C** — HE resulting from **cirrhosis** — the most common type; this guideline's focus
+- **Type C** — HE resulting from **[[cirrhosis|cirrhosis]]** — the most common type; this guideline's focus
 
 ### Axis 2 — Severity (West Haven Criteria + ISHEN; Table 2)
 
@@ -39,7 +39,7 @@ Every bout of HE should be characterized along all four axes simultaneously:
 - **MHE (Minimal HE)** = no clinical signs; diagnosis only by neuropsychological/neurophysiological testing
 - **CHE (Covert HE)** = MHE + West Haven Grade 1 combined category
 - **OHE (Overt HE)** = Grades 2–4 (clinically detectable)
-- OHE is a **defining decompensating event** in cirrhosis; prevalence at time of cirrhosis diagnosis 10–14% (general), 16–21% (decompensated), 10–50% (TIPS patients)
+- OHE is a **defining decompensating event** in cirrhosis; prevalence at time of cirrhosis diagnosis 10–14% (general), 16–21% (decompensated), 10–50% ([[tips|TIPS]] patients)
 - Cumulative OHE in cirrhosis: 30–40% over the course of disease; recurs in most survivors
 
 ### Axis 3 — Time Course

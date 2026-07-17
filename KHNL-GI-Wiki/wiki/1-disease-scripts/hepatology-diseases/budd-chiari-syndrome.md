@@ -3,7 +3,7 @@ title: "Budd-Chiari Syndrome"
 category: disease-script
 tags: [budd-chiari, hepatic-vein, thrombosis, portal-hypertension, liver-failure, mpn, jak2, anticoagulation, tips]
 created: 2026-05-21
-updated: 2026-07-16
+updated: 2026-07-17
 sources: [acg-2020-hepatic-mesenteric-circulation]
 ---
 
@@ -17,7 +17,7 @@ Budd-Chiari syndrome (BCS) is defined by obstruction of hepatic venous outflow, 
 
 - **Acute BCS**: sudden-onset right upper quadrant or epigastric pain, hepatomegaly, rapidly progressive [[ascites]], and [[jaundice]]; fulminant hepatic failure in ~20%
 - **Subacute BCS**: weeks to months course; abdominal discomfort, ascites, splenomegaly, gradual hepatic dysfunction
-- **Chronic BCS**: cirrhosis, established [[portal-hypertension|portal hypertension]], relatively compensated; caudate lobe hypertrophy (drains directly into IVC) is characteristic
+- **Chronic BCS**: [[cirrhosis|cirrhosis]], established [[portal-hypertension|portal hypertension]], relatively compensated; caudate lobe hypertrophy (drains directly into IVC) is characteristic
 
 **Key diagnostic features:**
 
@@ -122,7 +122,7 @@ Step 4: [[liver-transplantation|Liver transplantation]]
 
 - Preferred when no focal stenosis amenable to angioplasty, or when angioplasty fails
 - Decompresses hepatic sinusoids → reduces congestion and allows hepatocyte recovery
-- TIPS patency important: use covered (PTFE) stents
+- **[[tips|TIPS]]** patency important: use covered (PTFE) stents
 - Post-TIPS: continue anticoagulation; monitor for encephalopathy
 - Bridges to [[liver-transplantation|liver transplantation]] if needed
 

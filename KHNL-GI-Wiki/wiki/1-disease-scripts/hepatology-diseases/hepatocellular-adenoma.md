@@ -3,7 +3,7 @@ title: "Hepatocellular Adenoma"
 category: disease-script
 tags: [hca, liver, hpb, focal-liver-lesion, benign-liver-tumor, ocp, hcc-risk, resection]
 created: 2026-05-07
-updated: 2026-07-16
+updated: 2026-07-17
 sources: [acg-2024-focal-liver-lesions]
 ---
 
@@ -21,7 +21,7 @@ sources: [acg-2024-focal-liver-lesions]
 
 - Predominantly women aged 30–50 on oral contraceptive pills (OCPs)
 - Incidence: 3–4 per 100,000 OCP users; rare without OCP use
-- Also associated with: anabolic-androgenic steroid use (especially men), glycogen storage disease type Ia and III, metabolic syndrome/obesity
+- Also associated with: anabolic-androgenic steroid use (especially men), glycogen storage disease type Ia and III, metabolic syndrome/[[obesity]]
 
 **Presentation:**
 
@@ -62,7 +62,7 @@ Risk values below are the ACG Table 5 "Complications" data (hemorrhage / maligna
 
 - **[[focal-nodular-hyperplasia|Focal nodular hyperplasia]] (FNH)** — central scar, spoke-wheel vessels on MRI/CEUS; hepatobiliary phase uptake on gadoxetate; no malignant potential; does not need resection
 - **[[hepatic-hemangioma|Hepatic hemangioma]]** — T2 hyperintense; peripheral nodular enhancement centripetal fill-in; no hepatocellular origin
-- **[[hepatocellular-carcinoma|Hepatocellular carcinoma]] (HCC)** — in cirrhotic background; APHE + washout; [[li-rads|LI-RADS]] ≥4; may be indistinguishable from beta-catenin HCA on imaging
+- **[[hepatocellular-carcinoma|Hepatocellular carcinoma]] (HCC)** — in [[cirrhosis|cirrhotic]] background; APHE + washout; [[li-rads|LI-RADS]] ≥4; may be indistinguishable from beta-catenin HCA on imaging
 - **Metastasis** — in patient with known primary malignancy; multiple lesions; irregular enhancement
 - **Hepatocellular carcinoma in beta-catenin HCA** — malignant transformation; biopsy or resection often required for definitive diagnosis
 

@@ -3,7 +3,7 @@ title: "Primary Sclerosing Cholangitis"
 category: disease-script
 tags: [psc, cholestasis, biliary, ibd, cholangiocarcinoma, liver-transplant, dominant-stricture, igg4, udca, mrcp, fish, liver-stiffness]
 created: 2026-05-19
-updated: 2026-07-16
+updated: 2026-07-17
 sources: [acg-2015-psc, acg-2017-liver-chemistries, aasld-2022-psc]
 ---
 
@@ -54,7 +54,7 @@ PSC is a chronic, cholestatic liver disease likely of autoimmune origin characte
 - ALP persistently <1.5× ULN = better prognosis in adults; GGT <50 U/L in children
 - ALP normalization is a biomarker of improved survival ([[acg-2015-psc]]; [[aasld-2022-psc]])
 - **Liver stiffness (LS) by TE or MRE** = preferred method for fibrosis staging ([[aasld-2022-psc]] GS 9)
-  - TE: 9.6 kPa = F3 (extensive fibrosis); 14.4 kPa = F4 (cirrhosis) — AUC >0.80
+  - TE: 9.6 kPa = F3 (extensive fibrosis); 14.4 kPa = F4 ([[cirrhosis|cirrhosis]]) — AUC >0.80
   - MRE: 4.6 kPa → AUC 0.82 for cirrhosis
   - LS worsening by >0.34 kPa/year = highest risk of hepatic decompensation
 - ELF (Enhanced Liver Fibrosis) test: strongly associated with transplant-free survival; useful surrogate in trials
@@ -142,7 +142,7 @@ PSC is a chronic, cholestatic liver disease likely of autoimmune origin characte
 
 - Same approach as other chronic liver diseases with the exceptions below
 - Baveno-VI criteria for varix screening: LS ≤20 kPa AND platelets >150,000/mm³ → may avoid EGD (0% false-negative for varices needing treatment; 30% of EGDs could be avoided) (GS 17)
-- Non-cirrhotic portal hypertension and infected transjugular intrahepatic portosystemic shunt (TIPS) may rarely occur in PSC with chronically infected bile ducts
+- Non-cirrhotic portal hypertension and infected transjugular intrahepatic portosystemic shunt ([[tips|TIPS]]) may rarely occur in PSC with chronically infected bile ducts
 
 **Vaccination and lifestyle:**
 

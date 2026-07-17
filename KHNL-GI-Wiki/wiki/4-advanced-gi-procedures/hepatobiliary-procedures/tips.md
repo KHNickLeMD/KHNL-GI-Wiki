@@ -35,7 +35,7 @@ sources: [aasld-2024-tips, aasld-2021-ascites-sbp-hrs, aga-2025-ascites-cirrhosi
 
 - **Preemptive TIPS criteria:** Child-Pugh class **C 10–13 points**, or Child-Pugh class **B 8–9 points with active bleeding at initial endoscopy** despite concomitant vasoactive agents → PTFE-covered stent within 72 h (ideally <24 h) of initial [[upper-endoscopy|upper endoscopy]]
   - Encephalopathy, hyperbilirubinemia, and/or [[acute-on-chronic-liver-failure|ACLF]] at time of bleeding had **no impact on survival** in observational data and should **not** contraindicate preemptive TIPS
-  - Caveats: preemptive-TIPS RCTs enrolled mainly alcohol-associated and hepatitis B–related cirrhosis — generalizability to [[nafld-masld|MASH]]-related cirrhosis undetermined; a 2021 RCT (n=58) found similar 1-year survival vs standard of care, and the updated meta-analysis showed lower 6-week rebleeding but **no significant survival benefit**
+  - Caveats: preemptive-TIPS RCTs enrolled mainly alcohol-associated and hepatitis B–related [[cirrhosis]] — generalizability to [[nafld-masld|MASH]]-related cirrhosis undetermined; a 2021 RCT (n=58) found similar 1-year survival vs standard of care, and the updated meta-analysis showed lower 6-week rebleeding but **no significant survival benefit**
 - **Secondary prevention:** TIPS is **second-line** — first-line remains NSBB (propranolol, nadolol, or carvedilol) + endoscopic variceal ligation; TIPS is treatment of choice for rebleeding despite that combination. RCTs consistently show TIPS prevents rebleeding but with **increased HE and no survival difference**
 - **No role in primary prevention** — of either esophageal or gastrofundal variceal bleeding
 - **Salvage/rescue:** controls bleeding in 80–100%, but 6-week mortality **27–55%** (deaths from liver failure, infection, renal failure)
@@ -226,5 +226,4 @@ Priority research areas named by [[aasld-2024-tips]]: optimal intraprocedural PS
 2. [[aasld-2021-ascites-sbp-hrs|AASLD 2021: Diagnosis, Evaluation, and Management of Ascites, SBP, and HRS in Cirrhosis]]
 3. [[aga-2025-ascites-cirrhosis|AGA Clinical Practice Update on the Management of Ascites, Volume Overload, and Hyponatremia in Cirrhosis: Expert Review]]
 4. [[aasld-2021-vascular-pvt|AASLD Practice Guidance: Vascular Liver Disorders, Portal Vein Thrombosis, and Procedural Bleeding in Cirrhosis (2021)]]
-</content>
-</invoke>
+

@@ -3,7 +3,7 @@ title: "Direct-Acting Antivirals (DAAs)"
 category: med
 tags: [HCV, hepatitis-c, direct-acting-antivirals, DAA, sofosbuvir, velpatasvir, glecaprevir, pibrentasvir, ledipasvir, NS5A, NS5B, NS3-4A, pangenotypic]
 created: 2026-05-28
-updated: 2026-07-16
+updated: 2026-07-17
 sources: [aasld-idsa-2023-hcv]
 ---
 
@@ -17,7 +17,7 @@ Direct-acting antivirals (DAAs) are small-molecule antiviral agents targeting sp
 | NS5A inhibitors | Replication complex assembly/trafficking | Pibrentasvir, velpatasvir, ledipasvir, elbasvir |
 | NS5B polymerase inhibitors (nucleotide analog) | RNA-dependent RNA polymerase | Sofosbuvir |
 
-NS3/4A inhibitors are **contraindicated in decompensated cirrhosis** (Child-Pugh B/C) due to significant hepatic metabolism and risk of drug accumulation.
+NS3/4A inhibitors are **contraindicated in decompensated [[cirrhosis]]** (Child-Pugh B/C) due to significant hepatic metabolism and risk of drug accumulation.
 
 ## Pangenotypic Regimens (First-Line)
 

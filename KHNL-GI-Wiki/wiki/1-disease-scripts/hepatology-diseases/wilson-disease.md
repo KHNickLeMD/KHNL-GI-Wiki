@@ -3,7 +3,7 @@ title: "Wilson's Disease"
 category: disease-script
 tags: [wilson-disease, copper, atp7b, hepatic, neuropsychiatric, kayser-fleischer, ceruloplasmin, hpb, liver, genetic, pregnancy, chelation, D-penicillamine, trientine, zinc, Leipzig-score, NWI]
 created: 2026-05-19
-updated: 2026-07-16
+updated: 2026-07-17
 sources: [acg-2017-liver-chemistries, acg-2016-liver-disease-pregnancy, aasld-2022-wilson-disease]
 ---
 
@@ -17,7 +17,7 @@ Wilson disease (WD; hepatolenticular degeneration) is an autosomal recessive dis
 
 | System | Manifestations |
 |---|---|
-| **Hepatic** | Asymptomatic transaminase elevation, fatty liver, chronic hepatitis, AIH-like pattern, cirrhosis (compensated or decompensated), ALF |
+| **Hepatic** | Asymptomatic transaminase elevation, fatty liver, chronic hepatitis, AIH-like pattern, [[cirrhosis|cirrhosis]] (compensated or decompensated), ALF |
 | **Neurological** | Dysarthria (most common, 46–97%), gait abnormality/ataxia (28–75%), dystonia (38–69%), parkinsonism (12–58%), postural tremor (55%), [[dysphagia]], chorea (6–30%), seizures (6–28%) |
 | **Psychiatric** | Depression (MDD most common), bipolar disorder/spectrum, psychosis, personality/behavioral changes, cognitive dysfunction |
 | **Other** | Kayser-Fleischer rings, sunflower cataracts; renal (Fanconi syndrome, nephrolithiasis); skeletal (osteoporosis); cardiomyopathy, dysrhythmias; hypoparathyroidism; infertility/miscarriages; pancreatitis |
@@ -55,7 +55,31 @@ Predicts mortality without LT; uses Bilirubin + INR + AST + WBC + Albumin:
 
 **NWI ≥11** = strong predictor of mortality without LT; NWI ≤6 = survival with chelation predicted. Serial monitoring critical at breakpoint 10–11.
 
-**Leipzig score** (diagnostic): Sum ≥4 = WD highly likely; 2–3 = probable; 0–1 = unlikely (see full table in [[aasld-2022-wilson-disease]]).
+**Leipzig score** (diagnostic — Table 7, [[aasld-2022-wilson-disease]]):
+
+| Parameter | Points |
+|---|---|
+| KF rings (slit-lamp exam): Present | 2 |
+| KF rings: Absent | 0 |
+| Neuropsychiatric symptoms (or typical brain MRI): Present | 2 |
+| Neuropsychiatric symptoms: Absent | 0 |
+| Coombs-negative hemolytic anemia (+ high serum copper): Present | 1 |
+| 24-h urinary copper (in absence of acute hepatitis): Normal | 0 |
+| 24-h urinary Cu: 1–2× ULN | 1 |
+| 24-h urinary Cu: >2× ULN | 2 |
+| 24-h urinary Cu: Normal but >500 μg/day after D-penicillamine challenge | 2 |
+| Liver Cu (quantitative): Normal (<50 μg/g dry weight) | −1 |
+| Liver Cu: Up to 5× ULN | 1 |
+| Liver Cu: >5× ULN | 2 |
+| Rhodanine-positive hepatocytes (if quantitative Cu unavailable): Present | 1 |
+| Serum ceruloplasmin (nephelometric): Normal (≥20 mg/dl) | 0 |
+| Ceruloplasmin: 10–20 mg/dl | 1 |
+| Ceruloplasmin: <10 mg/dl | 2 |
+| ATP7B mutation analysis: Both chromosomes mutated | 4 |
+| One chromosome mutated | 1 |
+| No mutation detected | 0 |
+
+**Score interpretation:** Sum ≥4 = WD highly likely; 2–3 = probable, further evaluation required; 0–1 = unlikely.
 
 ---
 
@@ -87,7 +111,7 @@ Predicts mortality without LT; uses Bilirubin + INR + AST + WBC + Albumin:
 | **ATP7B genetic analysis** | >90% sensitive for detecting nucleotide changes; direct sequencing of entire gene (21 exons) including promoter region preferred. Most efficient for first-degree relative screening if proband genotype known. Provides confirmation when biochemical testing inconclusive. (GS 11) |
 | **Brain MRI** | "Face of the giant panda sign" (T2 hyperintensity in midbrain); T2 changes in basal ganglia, thalami, white matter, pons. Indicated if neurological evaluation abnormal; may aid diagnosis and exclude other causes. (GS 10) |
 | **Serum uric acid** | May be low in WD due to renal tubular dysfunction (Fanconi syndrome) |
-| **Leipzig score** | Composite diagnostic scoring (see source page [[aasld-2022-wilson-disease]], Table 7) — score ≥4 = WD highly likely; 2–3 = probable; 0–1 = unlikely (GS 12) |
+| **Leipzig score** | Composite diagnostic scoring (full point table under Severity Assessment above) — score ≥4 = WD highly likely; 2–3 = probable; 0–1 = unlikely (GS 12) |
 
 **ALF due to WD — Korman Biochemical Criteria (100% sensitive and specific in adults):**
 

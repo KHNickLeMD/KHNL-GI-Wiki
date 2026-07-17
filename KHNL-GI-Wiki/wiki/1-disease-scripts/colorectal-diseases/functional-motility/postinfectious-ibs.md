@@ -3,24 +3,47 @@ title: "Postinfectious Irritable Bowel Syndrome (PI-IBS)"
 category: disease-script
 tags: [ibs, postinfectious-ibs, travelers-diarrhea, gastroenteritis, functional-gi, rome-iv, rome-v]
 created: 2026-05-19
-updated: 2026-07-16
+updated: 2026-07-17
 sources: [acg-2016-acute-diarrhea]
 ---
 
-*Stub — to be expanded.*
+Postinfectious [[irritable-bowel-syndrome|IBS]] (PI-IBS) is a chronic functional sequela of acute infectious gastroenteritis, including traveler's diarrhea (TD). It is a paradigm shift in IBS pathogenesis — an **external event (enteric infection) produces prolonged, permanent changes in GI function that are *not* mediated by persistence of the infectious agent.** [[acg-2016-acute-diarrhea]]
 
-Postinfectious [[irritable-bowel-syndrome|IBS]] (PI-IBS) is a recognized chronic functional gastrointestinal sequela of acute infectious gastroenteritis, including traveler's diarrhea. It represents a paradigm shift in understanding of IBS pathogenesis — an external event (enteric infection) leads to prolonged, permanent changes in gastrointestinal function that do not appear to be directly mediated by persistence of the infectious agent. [[acg-2016-acute-diarrhea]]
+## Assessment
 
-## Key Points
+### Establishing the Diagnosis
 
-- Occurs in an estimated 10–15% of patients following a documented episode of bacterial traveler's diarrhea; higher rates with more severe clinical presentation.
-- More common after bacterial infection and more severe clinical presentations.
-- Diagnosis uses standard IBS criteria (Rome IV/V) in patients who had a well-defined onset after acute gastroenteritis.
-- No commercially available serologic or diagnostic test to confirm PI-IBS specifically.
-- Postinfectious IBS increases with more severe clinical presentation of the acute illness — additional rationale for aggressive treatment of TD.
+- Apply **standard [[irritable-bowel-syndrome|IBS]] criteria (Rome IV/V)** in a patient with a **well-defined symptom onset following acute gastroenteritis**. [[acg-2016-acute-diarrhea]]
+- **No commercially available serologic or diagnostic test confirms PI-IBS specifically** — the diagnosis is clinical, resting on the temporal link. [[acg-2016-acute-diarrhea]]
+
+### Severity Assessment
+
+- **Incidence: ~10–15% after a documented episode of bacterial traveler's diarrhea.** [[acg-2016-acute-diarrhea]]
+- **Risk rises with the severity of the acute illness**, and PI-IBS is more common after **bacterial** infection — which is itself the guideline's rationale for **treating TD aggressively.** [[acg-2016-acute-diarrhea]]
+
+## Differential Diagnosis
+
+*Workup: see [[chronic-diarrhea]].*
+
+- [[irritable-bowel-syndrome|IBS]] without an infectious trigger — same criteria, no antecedent gastroenteritis.
+- Persistent infection — e.g. [[giardiasis]], [[cryptosporidiosis]], [[entamoeba-histolytica-infection|amebiasis]]; PI-IBS is by definition *not* agent persistence, so an unresolved pathogen must be excluded.
+- [[celiac-disease|Celiac disease]], [[microscopic-colitis|microscopic colitis]], [[small-intestinal-bacterial-overgrowth|SIBO]], [[bile-acid-diarrhea|bile acid diarrhea]] — organic mimics of postinfectious bowel symptoms.
+- [[inflammatory-bowel-disease|IBD]] presenting after an enteric infection.
+
+## Diagnostics
+
+- No confirmatory test exists; testing is directed at **excluding persistent infection and organic mimics** rather than at establishing PI-IBS. [[acg-2016-acute-diarrhea]]
+
+## Therapeutics
+
+- Manage as [[irritable-bowel-syndrome|IBS]] — [[acg-2016-acute-diarrhea]] does not give PI-IBS-specific therapy beyond the prevention argument below.
+- **Prevention:** aggressive treatment of the acute TD episode, since PI-IBS risk tracks with acute-illness severity. [[acg-2016-acute-diarrhea]]
+
+> **Gap:** [[acg-2016-acute-diarrhea]] establishes epidemiology and pathogenesis only, and it is the **only ingested source with PI-IBS content** — the ingested IBS guidelines do not address the postinfectious subtype. PI-IBS-specific diagnostic criteria and management therefore have no source and are deliberately absent.
 
 ## See Also
-[[irritable-bowel-syndrome]], [[acute-diarrhea]], [[disorders-of-gut-brain-interaction]]
+
+[[irritable-bowel-syndrome]], [[acute-diarrhea]], [[chronic-diarrhea]], [[disorders-of-gut-brain-interaction]], [[giardiasis]], [[campylobacter-infection]], [[small-intestinal-bacterial-overgrowth]], [[bile-acid-diarrhea]]
 
 ---
 

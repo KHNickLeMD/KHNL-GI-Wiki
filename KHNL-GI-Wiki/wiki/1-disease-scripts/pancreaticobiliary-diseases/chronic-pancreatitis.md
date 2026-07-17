@@ -3,7 +3,7 @@ title: "Chronic Pancreatitis"
 category: disease-script
 tags: [pancreatitis, chronic, pancreas, hpb, exocrine-insufficiency, pain]
 created: 2026-05-16
-updated: 2026-07-16
+updated: 2026-07-17
 sources: [acg-2020-chronic-pancreatitis, acg-2020-sibo, asge-2024-chronic-pancreatitis-endoscopy]
 ---
 
@@ -75,21 +75,7 @@ Key categories:
 - **RAP and SAP:** biliary, post-[[ercp|ERCP]], traumatic, undetermined
 - **Obstructive:** pancreas divisum, ampullary stenosis, main-duct stones, calcifications, strictures, mass
 
-```
-Pathogenic genes implicated in CP
-Acinar cell dysfunction:
-  PRSS1   (AD)        misfolding/ER stress       → RAP, CP
-  CPA1    (complex)   misfolding                 → nonalcoholic CP
-  CEL     (AD)        misfolding/aggregation     → MODY-8 pancreatitis
-  SPINK1  (AR)        loss of trypsin inhibition → severe in homozygotes (~2% pop)
-  CTRC    (AD)        trypsin not degraded       → early-onset CP
-Ductal cell dysfunction:
-  CFTR    (AR)        ductal bicarbonate failure → CF (severe) or CFTR-RD
-Disease-modifying:
-  CASR    (AR)        intracellular Ca dysregulation
-  CTRC + smoking      synergistic risk
-  CLDN2   (Xq)        accelerates RAP → CP in alcoholics
-```
+*Full gene table (inheritance, mechanism, phenotype) lives on [[hereditary-pancreatitis]].*
 
 ---
 

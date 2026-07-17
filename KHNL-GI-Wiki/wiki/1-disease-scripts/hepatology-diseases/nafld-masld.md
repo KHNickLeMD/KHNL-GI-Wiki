@@ -3,7 +3,7 @@ title: "NAFLD / MASLD (Metabolic Dysfunction-Associated Steatotic Liver Disease)
 category: disease-script
 tags: [nafld, masld, nash, mash, steatosis, metabolic-syndrome, fibrosis, fibroscan, hpb, liver, obesity, diabetes, semaglutide, resmetirom, glp-1, nit, essence-trial, liver-transplant, post-transplant, recurrence]
 created: 2026-05-19
-updated: 2026-07-16
+updated: 2026-07-17
 sources: [aasld-2023-nafld, aasld-2023-masld-nomenclature, aasld-2024-resmetirom, aasld-2024-nilda-blood, aasld-2025-semaglutide-mash, acg-2017-liver-chemistries, aasld-ast-2025-liver-transplant-graft-complications]
 ---
 
@@ -11,7 +11,7 @@ sources: [aasld-2023-nafld, aasld-2023-masld-nomenclature, aasld-2024-resmetirom
 
 ### Establishing the Diagnosis
 
-**MASLD (Metabolic dysfunction-Associated Steatotic Liver Disease)** — formerly NAFLD — is a highly prevalent condition (≈25–30% of US adults) associated with the metabolic syndrome, most commonly in patients with co-existing [[obesity]], diabetes mellitus, dyslipidemia, and hypertension. NASH-related cirrhosis is already the leading [[liver-transplantation|liver-transplant]] indication in women and in those >65 years, and is on par with alcohol overall; hepatic decompensation, [[hepatocellular-carcinoma|HCC]], and death are projected to rise 2–3 fold by 2030. [[aasld-2023-nafld]]
+**MASLD (Metabolic dysfunction-Associated Steatotic Liver Disease)** — formerly NAFLD — is a highly prevalent condition (≈25–30% of US adults) associated with the metabolic syndrome, most commonly in patients with co-existing [[obesity]], diabetes mellitus, dyslipidemia, and hypertension. NASH-related [[cirrhosis|cirrhosis]] is already the leading [[liver-transplantation|liver-transplant]] indication in women and in those >65 years, and is on par with alcohol overall; hepatic decompensation, [[hepatocellular-carcinoma|HCC]], and death are projected to rise 2–3 fold by 2030. [[aasld-2023-nafld]]
 
 **Nomenclature (2023 multi-society Delphi consensus — AASLD/EASL/ALEH):** the overarching term is **Steatotic Liver Disease (SLD)**. [[aasld-2023-masld-nomenclature]]
 

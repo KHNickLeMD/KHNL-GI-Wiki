@@ -3,13 +3,11 @@ title: "Hepatopulmonary Syndrome and Portopulmonary Hypertension"
 category: concept
 tags: [hepatopulmonary-syndrome, hps, portopulmonary-hypertension, poph, liver-transplant, portal-hypertension, pulmonary, cirrhosis]
 created: 2026-05-25
-updated: 2026-05-25
+updated: 2026-07-17
 sources: [aasld-ast-2025-liver-transplant-candidate-evaluation]
 ---
 
-*Stub — to be expanded.*
-
-Hepatopulmonary syndrome (HPS) and portopulmonary hypertension (POPH) are pulmonary vascular complications of liver disease and [[portal-hypertension|portal hypertension]]. Both are important LT candidacy considerations. See [[liver-transplantation]] for pre-transplant evaluation guidance.
+Hepatopulmonary syndrome (HPS) and portopulmonary hypertension (POPH) are pulmonary vascular complications of [[cirrhosis|liver disease]] and [[portal-hypertension|portal hypertension]]. Both are important LT candidacy considerations. See [[liver-transplantation]] for pre-transplant evaluation guidance.
 
 ## Hepatopulmonary Syndrome (HPS)
 
@@ -23,6 +21,8 @@ Hepatopulmonary syndrome (HPS) and portopulmonary hypertension (POPH) are pulmon
 - Bubble echocardiography (contrast TTE with agitated saline) is the most sensitive test; recommended when available for all pre-LT candidates (Weak, Level 1)
 - If not routine, add for: dyspnea in absence of cardiac dysfunction, platypnea-orthodeoxia, hypoxemia (Strong, Level 3)
 - If bubble echo confirms IPVDs: pulse oximetry + ABG to determine PaO₂ severity (Strong, Level 3)
+
+> **Gap — HPS severity bands not sourced.** The guideline directs ABG to grade severity, but the PaO₂ cutoffs defining the mild/moderate/severe/very-severe bands are not captured in [[aasld-ast-2025-liver-transplant-candidate-evaluation]]. Needed to act on the recommendation above; requires a source that states them.
 
 **LT considerations:**
 
@@ -51,7 +51,7 @@ Hepatopulmonary syndrome (HPS) and portopulmonary hypertension (POPH) are pulmon
 
 ## See Also
 
-[[liver-transplantation]], [[portal-vein-thrombosis]], [[budd-chiari-syndrome]], [[acute-liver-failure]]
+[[cirrhosis]], [[portal-hypertension]], [[liver-transplantation]], [[portal-vein-thrombosis]], [[budd-chiari-syndrome]], [[acute-liver-failure]]
 
 ---
 

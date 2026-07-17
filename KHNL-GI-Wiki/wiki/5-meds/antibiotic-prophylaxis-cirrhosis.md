@@ -3,11 +3,11 @@ title: "Antibiotic Prophylaxis in Cirrhosis (GI Bleeding)"
 category: med
 tags: [cirrhosis, antibiotic-prophylaxis, ceftriaxone, norfloxacin, variceal-bleeding, sbp-prevention]
 created: 2026-05-15
-updated: 2026-07-16
+updated: 2026-07-17
 sources: [albhaisi-2025-prophylactic-antibiotics-cirrhosis, aasld-2021-ascites-sbp-hrs]
 ---
 
-Prophylactic antibiotics in cirrhotic patients with [[upper-gi-bleeding|upper GI bleeding]] aim to prevent bacterial translocation-driven infections ([[spontaneous-bacterial-peritonitis|spontaneous bacterial peritonitis]], bacteremia) that independently worsen short-term mortality. In the AASLD framework this is a form of **SBP primary prophylaxis** ([[aasld-2021-ascites-sbp-hrs]]).
+Prophylactic antibiotics in [[cirrhosis|cirrhotic]] patients with [[upper-gi-bleeding|upper GI bleeding]] aim to prevent bacterial translocation-driven infections ([[spontaneous-bacterial-peritonitis|spontaneous bacterial peritonitis]], bacteremia) that independently worsen short-term mortality. In the AASLD framework this is a form of **SBP primary prophylaxis** ([[aasld-2021-ascites-sbp-hrs]]).
 
 ## Indications (AASLD 2021)
 

@@ -3,7 +3,7 @@ title: "LI-RADS"
 category: concept
 tags: [li-rads, hcc, liver, imaging, mri, ct, ceus, surveillance, cirrhosis, hpb]
 created: 2026-06-01
-updated: 2026-07-14
+updated: 2026-07-17
 sources: [aasld-2023-hcc, acg-2024-focal-liver-lesions, nccn-2026-hcc]
 ---
 
@@ -26,7 +26,7 @@ LI-RADS is valid **only** in the at-risk population (Figure 7, [[aasld-2023-hcc]
 
 | Apply LI-RADS | Do **not** apply (→ diagnosis requires pathology) |
 |---|---|
-| **Cirrhosis** of any etiology (except vascular/cardiogenic) | Non-cirrhotic patients **without** chronic HBV |
+| **[[cirrhosis\|Cirrhosis]]** of any etiology (except vascular/cardiogenic) | Non-cirrhotic patients **without** chronic HBV |
 | [[chronic-hepatitis-b\|Chronic HBV]] at intermediate/high HCC risk (PAGE-B ≥10) | Cardiogenic or vascular etiologies of cirrhosis (insufficient validation) |
 | Prior history of HCC | Non-cirrhotic HBV with PAGE-B ≤9 (not validated) |
 

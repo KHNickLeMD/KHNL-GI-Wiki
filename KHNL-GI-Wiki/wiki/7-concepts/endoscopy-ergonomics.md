@@ -3,14 +3,14 @@ title: "Endoscopy Ergonomics & Endoscopy-Related Injury (ERI)"
 category: concept
 tags: [ergonomics, endoscopy-related-injury, eri, occupational-health, musculoskeletal, endoscopy]
 created: 2026-06-05
-updated: 2026-06-05
+updated: 2026-07-17
 sources: [asge-2023-ergonomics]
 ---
 
-Endoscopy-related injury (ERI) is musculoskeletal injury caused by repetitive microtrauma to connective tissues during endoscopy. ERIs are common — a pooled meta-analysis of 17 surveys (5227 endoscopists) found an overall rate of **57.7%** — yet they are largely preventable through ergonomic education, work-rest scheduling, and neutral-posture room setup. The [[asge-2023-ergonomics|ASGE 2023 ergonomics guideline]] frames prevention as an occupational-health priority for endoscopists performing [[colonoscopy]], [[upper-endoscopy|EGD]], [[ercp|ERCP]], and [[endoscopic-ultrasound|EUS]].
+Endoscopy-related injury (ERI) is musculoskeletal injury caused by repetitive microtrauma to connective tissues during endoscopy. ERIs affect the majority of endoscopists, yet are largely preventable through ergonomic education, work-rest scheduling, and neutral-posture room setup. The [[asge-2023-ergonomics|ASGE 2023 ergonomics guideline]] frames prevention as an occupational-health priority for endoscopists performing [[colonoscopy]], [[upper-endoscopy|EGD]], [[ercp|ERCP]], and [[endoscopic-ultrasound|EUS]].
 
 ## Epidemiology
-- Overall pooled ERI rate **57.7%** (95% CI 48.8–66.1).
+- Overall pooled ERI rate **57.7%** (95% CI 48.8–66.1) — pooled meta-analysis of 17 surveys, 5227 endoscopists.
 - Most common sites: hands/fingers (35.8%), back (35.3%), upper back/neck (32.6%), thumb alone (29.2%), neck alone (26.1%).
 - 61% of gastroenterologists spend >40% of their time performing endoscopy.
 
@@ -44,7 +44,7 @@ The guideline issues 2 strong and 3 conditional recommendations, **all on very l
 **Conditional recommendation (very low quality).** Use antifatigue mats to offset the effects of prolonged standing (lower-extremity tiredness, venous restriction, low-back pain). An RCT showed less foot/knee/back pain and higher energy persisting 24 h. Mats should be cleanable with beveled edges (contamination/tripping risks).
 
 ## Special Considerations
-- **Lead aprons** — used in fluoroscopic procedures ([[ercp|ERCP]], EUS-guided biliary interventions); 22% of surveyed endoscopists reported lead-apron-related ERI. Two-piece aprons redistribute weight to the hips and reduce discomfort.
+- **Lead aprons** — used in fluoroscopic procedures (ERCP, EUS-guided biliary interventions); 22% of surveyed endoscopists reported lead-apron-related ERI. Two-piece aprons redistribute weight to the hips and reduce discomfort.
 - **Load-reduction devices** — endoscope support stands and antigravity arms are under evaluation but not currently available in the US.
 - **Endoscope maintenance** — worn scopes require greater forces; every unit should run a robust maintenance program to identify suboptimally performing endoscopes.
 

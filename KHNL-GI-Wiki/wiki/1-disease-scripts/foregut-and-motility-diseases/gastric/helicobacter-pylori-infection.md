@@ -3,7 +3,7 @@ title: "Helicobacter pylori Infection"
 category: disease-script
 tags: [h-pylori, peptic-ulcer, gastric-cancer, malt-lymphoma, eradication, dyspepsia, gastric, foregut]
 created: 2026-05-07
-updated: 2026-07-16
+updated: 2026-07-17
 sources: [acg-2017-hp-guidelines, acg-2024-hp-treatment]
 ---
 
@@ -172,7 +172,7 @@ sources: [acg-2017-hp-guidelines, acg-2024-hp-treatment]
 
 ## See Also
 
-[[test-and-treat]], [[bismuth-quadruple-therapy]]
+[[test-and-treat]], [[bismuth-quadruple-therapy]], [[vonoprazan]], [[peptic-ulcer-disease]], [[dyspepsia]], [[gastric-adenocarcinoma]], [[gastric-premalignant-conditions]], [[atrophic-gastritis]], [[gastric-intestinal-metaplasia]], [[gerd]], [[gastroparesis]], [[upper-endoscopy]]
 
 ---
 

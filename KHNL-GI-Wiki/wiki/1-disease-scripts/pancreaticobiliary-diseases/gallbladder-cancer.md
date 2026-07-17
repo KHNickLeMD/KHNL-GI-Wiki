@@ -3,7 +3,7 @@ title: "Gallbladder Cancer"
 category: disease-script
 tags: [gallbladder-cancer, biliary-tract-cancer, hpb, cholecystectomy, incidental-gallbladder-cancer, adenocarcinoma, nccn, oncology]
 created: 2026-06-18
-updated: 2026-07-16
+updated: 2026-07-17
 sources: [nccn-2026-biliary-tract-cancers, asge-2013-biliary-neoplasia]
 ---
 
@@ -18,6 +18,8 @@ Two presentations dominate: (1) **incidental gallbladder cancer** found on histo
 ### Severity Assessment
 
 Stage is driven by depth of tumor invasion (T stage, including whether tumor is confined to the muscularis vs invades the perimuscular connective tissue or liver), nodal status, and distant spread. T-stage at incidental diagnosis determines whether re-resection is warranted.
+
+⚠ **Decision gap — the T-stage cutoff that triggers re-resection after incidental gallbladder cancer is not stated here.** [[nccn-2026-biliary-tract-cancers]] is the source, and NCCN's licence bars reproducing its proprietary staging/algorithm pages, so the threshold cannot be sourced from the wiki. **Consult the original NCCN gallbladder pathway directly** before deciding on re-resection.
 
 ## Differential Diagnosis
 

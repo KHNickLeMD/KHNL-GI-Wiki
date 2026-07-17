@@ -3,15 +3,15 @@ title: "Variceal Upper GI Bleeding"
 category: diagnostic-schema
 tags: [cirrhosis, portal-hypertension, variceal-bleeding, upper-gi-bleeding, hemostasis, antibiotic-prophylaxis, TIPS, EVL, carvedilol, NSBB, gastric-varices, preemptive-TIPS]
 created: 2026-05-15
-updated: 2026-07-16
+updated: 2026-07-17
 sources: [albhaisi-2025-prophylactic-antibiotics-cirrhosis, aasld-2023-portal-hypertension]
 ---
 
 ## Definition / Scope
 
-Acute variceal hemorrhage (AVH) refers to hemorrhage from esophageal or gastric varices in the setting of [[portal-hypertension|portal hypertension]] (PH), most commonly due to cirrhosis. It is a life-threatening emergency with 6-week mortality of approximately 15–20%. Varices form when HVPG exceeds 10–12 mmHg; bleeding risk rises sharply above 12 mmHg; HVPG >20 mmHg at index bleed = high-risk for treatment failure.
+Acute variceal hemorrhage (AVH) refers to hemorrhage from esophageal or gastric varices in the setting of [[portal-hypertension|portal hypertension]] (PH), most commonly due to [[cirrhosis]]. It is a life-threatening emergency with 6-week mortality of approximately 15–20%. Varices form when HVPG exceeds 10–12 mmHg; bleeding risk rises sharply above 12 mmHg; HVPG >20 mmHg at index bleed = high-risk for treatment failure.
 
-Distinct from non-variceal [[upper-gi-bleeding|UGIB]] (peptic ulcer, Mallory-Weiss, Dieulafoy) in management priorities: vasoactive agents, [[antibiotic-prophylaxis-cirrhosis|antibiotic prophylaxis]], and early TIPS consideration are specific to variceal hemorrhage. See [[portal-hypertension]] for PH staging (cACLD/CSPH), surveillance decisions, and primary prophylaxis.
+Distinct from non-variceal [[upper-gi-bleeding|UGIB]] (peptic ulcer, Mallory-Weiss, Dieulafoy) in management priorities: vasoactive agents, [[antibiotic-prophylaxis-cirrhosis|antibiotic prophylaxis]], and early [[tips|TIPS]] consideration are specific to variceal hemorrhage. See [[portal-hypertension]] for PH staging (cACLD/CSPH), surveillance decisions, and primary prophylaxis.
 
 ## Differential Diagnosis
 
@@ -36,9 +36,9 @@ In a cirrhotic patient with UGIB, consider:
    - **Terlipressin** (not FDA approved in US): 2 mg IV q4–6h × 24–48h, then 1 mg q4–6h × 2–5 days
    - Continue vasoactive therapy if PH bleeding confirmed on endoscopy (GS 26)
 
-3. **Start IV antibiotics immediately** (GS 27): **Ceftriaxone 1 g IV q24h up to 5 days** (preferred; especially in Child-Pugh C or high-resistance settings). Norfloxacin 400 mg PO BID × 7 days (alternative in low-resistance, Child-Pugh A/B). De-escalate once bleeding controlled and no active infection. (See antibiotic section below for duration controversy.)
+3. **Start IV antibiotics immediately** (GS 27): **Ceftriaxone 1 g IV q24h up to 5 days** (preferred; especially in Child-Pugh C or high-resistance settings). Norfloxacin 400 mg PO BID × 7 days (alternative in low-resistance, Child-Pugh A/B). De-escalate once bleeding controlled and no active infection. See [[#Antibiotic Prophylaxis]] for the duration controversy.
 
-4. **Risk stratify** using Child-Pugh and MELD:
+4. **Risk stratify** using Child-Pugh and MELD (see [[cirrhosis]] for how these scores are applied):
    - HVPG >20 mmHg at index bleed → high-risk for treatment failure
    - CTP class B score >7 with active bleeding at EGD → preemptive TIPS candidate
    - CTP class C score 10–13 → preemptive TIPS candidate
@@ -70,9 +70,11 @@ In a cirrhotic patient with UGIB, consider:
 
 Standard practice recommends prophylactic antibiotics to prevent bacterial infections ([[spontaneous-bacterial-peritonitis|SBP]], bacteremia) that independently worsen outcomes in variceal UGIB.
 
-**Current guideline recommendation**: Ceftriaxone 1g IV daily × 5–7 days (preferred in Child-Pugh C or high-resistance settings); norfloxacin 400 mg PO BID × 7 days (alternative in low-resistance, Child-Pugh A/B)
+*Regimen and dosing: see step 3 of the [[#Diagnostic Algorithm]] — not repeated here. This section covers the **duration** question only.*
 
-**Evolving evidence** ([[albhaisi-2025-prophylactic-antibiotics-cirrhosis]]): A 2025 systematic review (14 RCTs, n=1,322) found shorter/no antibiotic courses are non-inferior to 5–7 days for all-cause mortality (97.3% probability of non-inferiority; risk difference 0.9%). However:
+**Guideline position** ([[aasld-2023-portal-hypertension]], GS 27): ceftriaxone **1 g/24 h up to 5 days**, tailored to local resistance patterns and allergies; discontinue once bleeding is controlled and no active infection.
+
+**Evolving evidence** ([[albhaisi-2025-prophylactic-antibiotics-cirrhosis]]): a 2025 systematic review (14 RCTs, n=1,322) — which characterizes standard practice as a **5–7 day** course — found shorter/no antibiotic courses are non-inferior to 5–7 days for all-cause mortality (97.3% probability of non-inferiority; risk difference 0.9%). However:
 
 - Shorter courses associated with 15.2% higher bacterial infection rate
 - Evidence quality is low (12/14 studies unblinded; 8/14 high risk of bias)
@@ -102,9 +104,11 @@ Standard practice recommends prophylactic antibiotics to prevent bacterial infec
 - [[hepatic-encephalopathy|Encephalopathy]] → cautious sedation for endoscopy; lactulose/[[rifaximin]]; avoid over-transfusion
 - Rebleed within 5 days → high mortality; escalate to TIPS
 
+---
+
 ## See Also
 
-[[portal-hypertension]], [[upper-gi-bleeding]], [[acute-lower-gi-bleeding]], [[ascites]], [[spontaneous-bacterial-peritonitis]], [[hepatic-encephalopathy]], [[peptic-ulcer-disease]], [[helicobacter-pylori-infection]], [[liver-transplantation]], [[antibiotic-prophylaxis-cirrhosis]], [[somatostatin-analogs]], [[nutrition-in-liver-disease]], [[cirrhosis-hemostasis]], [[rifaximin]], [[upper-endoscopy]]
+[[portal-hypertension]], [[cirrhosis]], [[tips]], [[upper-gi-bleeding]], [[acute-lower-gi-bleeding]], [[ascites]], [[spontaneous-bacterial-peritonitis]], [[hepatic-encephalopathy]], [[peptic-ulcer-disease]], [[helicobacter-pylori-infection]], [[liver-transplantation]], [[antibiotic-prophylaxis-cirrhosis]], [[somatostatin-analogs]], [[nutrition-in-liver-disease]], [[cirrhosis-hemostasis]], [[rifaximin]], [[upper-endoscopy]]
 
 ---
 

@@ -15,7 +15,6 @@ Obesity (commonly BMI ≥30 kg/m², or ≥27 with weight-related comorbidity) af
 
 ## See Also
 
-
 [[intragastric-balloon]], [[semaglutide]], [[bariatric-surgery]]
 
 ---

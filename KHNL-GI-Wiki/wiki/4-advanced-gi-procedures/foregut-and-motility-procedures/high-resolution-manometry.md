@@ -3,7 +3,7 @@ title: "High-Resolution Manometry (HRM)"
 category: advanced-procedure
 tags: [hrm, manometry, esophageal, motility, foregut, chicago-classification, hrem]
 created: 2026-05-16
-updated: 2026-07-16
+updated: 2026-07-17
 sources: [acg-2020-esophageal-physiologic-testing]
 ---
 
@@ -20,30 +20,23 @@ High-resolution manometry uses a solid-state catheter with closely spaced pressu
 - Multiple rapid swallows (MRS) — 5 × 2 mL at 2-second intervals
 - Rapid drink challenge (RDC) — 200 mL water continuous drinking
 
-**Manufacturer-specific IRP thresholds (critical — use the correct threshold for the device):**
-
-| Device | Supine IRP ULN | Upright IRP ULN |
-|---|---|---|
-| Medtronic | ≤15 mmHg | ≤12 mmHg |
-| Laborie | ≤22 mmHg | ≤15 mmHg |
+**IRP thresholds are manufacturer-specific** — using the wrong device threshold misclassifies EGJ outflow obstruction. The thresholds, and all Chicago v4.0 diagnostic cutoffs, live on [[chicago-classification-v4]].
 
 ## Key Metrics
 
-- **IRP (Integrated Relaxation Pressure):** Reflects EGJ relaxation; elevated = outflow obstruction
-- **DCI (Distal Contractile Integral):** Amplitude × duration × length of distal esophageal contraction
-  - Failed: <100 mmHg·s·cm
-  - Weak: 100–450
-  - Normal: 450–8000
-  - Hypercontractile (jackhammer): >8000
-- **Peristaltic integrity:** Breaks >5 cm = failed swallow; breaks 2–5 cm = weak
+What each metric measures (numeric bands and diagnostic cutoffs: see [[chicago-classification-v4]]):
+
+- **IRP (Integrated Relaxation Pressure):** Reflects EGJ relaxation; elevated = outflow obstruction. Threshold varies by catheter manufacturer and by supine vs upright position.
+- **DCI (Distal Contractile Integral):** Amplitude × duration × length of distal esophageal contraction; bands separate failed / weak / normal / hypercontractile swallows.
+- **Peristaltic integrity:** Length of the break in the 20 mmHg isobaric contour separates weak from failed swallows.
 
 ## Diagnostic Outputs
 
-See [[chicago-classification-v4]] for the full algorithm:
+See [[chicago-classification-v4]] for the full algorithm and the criteria defining each diagnosis:
 
 - EGJ outflow obstruction → determine if [[achalasia]] spectrum or isolated EGJOO (requires TBE + [[flip-panometry]] for EGJOO)
 - Absent contractility
-- [[ineffective-esophageal-motility|Ineffective esophageal motility]] (IEM): >70% ineffective or ≥50% failed swallows
+- [[ineffective-esophageal-motility|Ineffective esophageal motility]] (IEM)
 - [[distal-esophageal-spasm|Distal esophageal spasm]] (DES)
 - [[hypercontractile-esophagus|Hypercontractile esophagus]]
 

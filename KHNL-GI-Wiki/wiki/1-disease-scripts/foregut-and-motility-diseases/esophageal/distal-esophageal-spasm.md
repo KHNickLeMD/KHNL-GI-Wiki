@@ -3,7 +3,7 @@ title: "Distal Esophageal Spasm"
 category: disease-script
 tags: [des, spasm, esophageal, motility, dysphagia, chest-pain, chicago-classification]
 created: 2026-05-16
-updated: 2026-07-03
+updated: 2026-07-17
 sources: [chicago-v4-2021-esophageal-dysmotility, aga-2025-flip-esophageal, acg-2020-achalasia]
 ---
 
@@ -16,9 +16,9 @@ sources: [chicago-v4-2021-esophageal-dysmotility, aga-2025-flip-esophageal, acg-
 Distal esophageal spasm (DES) is defined by **Chicago Classification v4.0** criteria on [[high-resolution-manometry]]:
 
 - ≥20% premature (spastic) contractions with DCI >450 mmHg·s·cm
-- IRP normal (unlike [[achalasia]] — see [[achalasia]])
+- IRP normal (unlike [[achalasia]], where IRP is elevated)
 
-**Distinguishes DES from [[hypercontractile-esophagus|hypercontractile esophagus]]:** DES is premature/disordered contraction; hypercontractile esophagus is high-amplitude contraction — see [[hypercontractile-esophagus]].
+**Distinguishes DES from [[hypercontractile-esophagus|hypercontractile esophagus]]:** DES is premature/disordered contraction; hypercontractile esophagus is high-amplitude contraction (DCI >8,000 mmHg·s·cm).
 
 **Symptoms:** [[dysphagia|Dysphagia]] (to solids and liquids), non-cardiac chest pain (NCCP); symptoms episodic and may not correlate with manometric abnormality during study.
 
@@ -31,7 +31,7 @@ Distal esophageal spasm (DES) is defined by **Chicago Classification v4.0** crit
 - [[achalasia]] — elevated IRP distinguishes; absent peristalsis
 - [[hypercontractile-esophagus]] (jackhammer esophagus) — DCI >8000 vs. premature contractions
 - Cardiac chest pain — must exclude before esophageal workup
-- [[gerd|GERD]] — see [[gerd]]; acid exposure can trigger spasm
+- [[gerd|GERD]] — acid exposure can trigger spasm
 
 ---
 
@@ -39,13 +39,13 @@ Distal esophageal spasm (DES) is defined by **Chicago Classification v4.0** crit
 
 - **HRM (required):** Chicago v4.0 criteria — see [[high-resolution-manometry]]
 - **Barium esophagram (TBE):** May show "corkscrew" esophagus during symptomatic episode (low sensitivity)
-- **[[flip-panometry|FLIP panometry]]:** See [[flip-panometry]]; may show disordered contractile response pattern
+- **[[flip-panometry|FLIP panometry]]:** may show disordered contractile response pattern
 
 ---
 
 ## Therapeutics
 
-- Treat co-existent [[gerd|GERD]] first — acid exposure can trigger spasm (see [[gerd]])
+- Treat co-existent [[gerd|GERD]] first — acid exposure can trigger spasm
 - [[poem|POEM]] is an option for refractory dysphagia-predominant spastic disorders; the ACG achalasia guideline frames POEM as favored for spastic (Type III) disease due to longer myotomy reach ([[acg-2020-achalasia]])
 
 *Medical management specific to DES (smooth-muscle relaxants, neuromodulators) is not covered by an ingested source — awaiting a dedicated spastic-disorders / non-cardiac chest pain source.*

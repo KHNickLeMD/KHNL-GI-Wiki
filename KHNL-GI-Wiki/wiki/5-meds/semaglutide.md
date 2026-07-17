@@ -3,7 +3,7 @@ title: "Semaglutide (Wegovy, Ozempic, Rybelsus)"
 category: med
 tags: [semaglutide, wegovy, ozempic, glp-1, glp1-ra, mash, masld, obesity, diabetes, t2dm, cardiovascular, ckd, weight-loss, essence-trial, select-trial, step-trials, hpb]
 created: 2026-05-25
-updated: 2026-07-16
+updated: 2026-07-17
 sources: [aasld-2025-semaglutide-mash, aga-2022-obesity-pharm, hendershot-2025-semaglutide-aud]
 ---
 
@@ -75,7 +75,7 @@ flowchart TD
    - FIB-4 ≥1.3 → proceed to second-line NIT
 2. Confirm F2–F3 range with imaging-based or blood-based NIT:
 
-| NIT | Recommended (F2–F3) | May use (individualized; exclude cirrhosis) | Cirrhosis — NOT approved |
+| NIT | Recommended (F2–F3) | May use (individualized; exclude cirrhosis) | [[cirrhosis\|Cirrhosis]] — NOT approved |
 |---|---|---|---|
 | VCTE LSM (kPa) | 8–15 | 15–20 | >20 |
 | MRE LSM (kPa) | 3.1–4.4 | 4.4–5.0 | >5.0 |

@@ -3,7 +3,7 @@ title: "Ineffective Esophageal Motility"
 category: disease-script
 tags: [iem, motility, esophageal, dysphagia, gerd, chicago-classification]
 created: 2026-05-16
-updated: 2026-07-03
+updated: 2026-07-17
 sources: [chicago-v4-2021-esophageal-dysmotility, aga-2025-flip-esophageal, acg-2020-esophageal-physiologic-testing]
 ---
 
@@ -33,7 +33,7 @@ IEM is defined by **Chicago Classification v4.0** on [[high-resolution-manometry
 *Workup: see [[dysphagia]].*
 
 - Absent contractility — severe form; all swallows failed; see [[achalasia]] (differentiate by IRP)
-- [[gerd]] — IEM often co-exists with [[gerd|GERD]]; reflux can impair peristalsis
+- [[gerd|GERD]] — IEM often co-exists with reflux; reflux can impair peristalsis
 - Scleroderma/systemic sclerosis — IEM with very low LES pressure pattern
 
 ---
@@ -41,16 +41,16 @@ IEM is defined by **Chicago Classification v4.0** on [[high-resolution-manometry
 ## Diagnostics
 
 - **HRM:** Chicago v4.0 criteria — see [[high-resolution-manometry]]
-- **[[flip-panometry|FLIP panometry]]:** See [[flip-panometry]]; Hypocontractility pattern
+- **[[flip-panometry|FLIP panometry]]:** Hypocontractility pattern
 - Rule out obstruction and [[achalasia]] before labeling as IEM
 
 ---
 
 ## Therapeutics
 
-- IEM is a **minor** motility disorder — most patients have mild or no symptoms; management is largely symptomatic
-- Address underlying [[gerd|GERD]] (see [[gerd]]); IEM frequently co-exists with reflux
-- Pre-[[antireflux-surgery|anti-reflux surgery]] caution: impaired peristaltic reserve raises post-wrap [[dysphagia]] risk — HRM assesses peristaltic reserve before ARS ([[acg-2020-esophageal-physiologic-testing]])
+- Management is largely symptomatic (minor disorder — see Assessment)
+- Address underlying [[gerd|GERD]]; IEM frequently co-exists with reflux
+- Pre-[[antireflux-surgery|anti-reflux surgery]] caution: HRM assesses peristaltic reserve before ARS ([[acg-2020-esophageal-physiologic-testing]])
 
 *No IEM-specific pharmacotherapy is supported by an ingested source (prokinetics lack IEM evidence) — awaiting a dedicated source.*
 

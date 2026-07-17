@@ -3,11 +3,11 @@ title: "Antibiotic Prophylaxis for GI Endoscopy"
 category: concept
 tags: [antibiotic-prophylaxis, infective-endocarditis, ercp, peg, eus-fna, cirrhosis, gi-bleeding, bacteremia, endoscopy]
 created: 2026-06-27
-updated: 2026-07-16
+updated: 2026-07-17
 sources: [asge-2015-antibiotic-prophylaxis]
 ---
 
-Framework for when periprocedural antibiotics are — and are not — indicated for GI endoscopy. Bottom line: prophylaxis is **not** given solely to prevent infective endocarditis; it is reserved for a handful of scenarios that prevent local infection (incomplete biliary drainage, PEG/PEJ, EUS-FNA of cysts) plus cirrhotics admitted with GI bleeding. Per [[asge-2015-antibiotic-prophylaxis]].
+Framework for when periprocedural antibiotics are — and are not — indicated for GI endoscopy. Bottom line: prophylaxis is **not** given solely to prevent infective endocarditis; it is reserved for a handful of scenarios that prevent local infection (incomplete biliary drainage, PEG/PEJ, EUS-FNA of cysts) plus [[cirrhosis|cirrhotics]] admitted with GI bleeding. Per [[asge-2015-antibiotic-prophylaxis]].
 
 ## Contents
 - [[#Key Principle — Not for IE]]

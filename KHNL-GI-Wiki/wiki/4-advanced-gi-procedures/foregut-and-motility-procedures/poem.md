@@ -3,13 +3,15 @@ title: "POEM (Peroral Endoscopic Myotomy)"
 category: advanced-procedure
 tags: [poem, achalasia, myotomy, motility, esophageal, foregut, gerd]
 created: 2026-05-16
-updated: 2026-07-16
+updated: 2026-07-17
 sources: [sages-2024-poem, sages-2021-poem]
 ---
 
 *Stub — to be expanded. Referenced in [[achalasia]] (key therapeutic option, preferred for Type III). POEM is also the technique used for G-POEM (gastric outlet) — referenced in [[gastroparesis]].*
 
 ## Indications
+
+*Subtype drives the choice below — achalasia types I/II/III are defined by [[chicago-classification-v4|Chicago Classification v4.0]] on [[high-resolution-manometry|HRM]].*
 
 - **[[achalasia|Achalasia]] Type I and II:** equivalent outcomes to PD and [[heller-myotomy|LHM]] (ACG 2020 [[achalasia]])
 - **Achalasia Type III (spastic):** POEM preferred over LHM — tailored long myotomy achieves higher success rates (93% vs. 71%); myotomy can be extended onto the esophageal body for spastic segments
@@ -49,7 +51,7 @@ sources: [sages-2024-poem, sages-2021-poem]
 
 ## See Also
 
-[[achalasia]], [[heller-myotomy]], [[high-resolution-manometry]], [[flip-panometry]], [[gastroparesis]], [[gerd]], [[distal-esophageal-spasm]], [[hypercontractile-esophagus]]
+[[achalasia]], [[heller-myotomy]], [[high-resolution-manometry]], [[chicago-classification-v4]], [[flip-panometry]], [[gastroparesis]], [[gerd]], [[distal-esophageal-spasm]], [[hypercontractile-esophagus]]
 
 ---
 

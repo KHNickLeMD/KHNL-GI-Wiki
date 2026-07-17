@@ -3,7 +3,7 @@ title: "Chronic Hepatitis B"
 category: disease-script
 tags: [hepatitis-b, HBV, antiviral, nucleoside-analogues, HCC-surveillance, immune-tolerant, indeterminate, functional-cure, pregnancy, co-infection]
 created: 2026-05-15
-updated: 2026-07-16
+updated: 2026-07-17
 sources: [aasld-idsa-2025-chb-treatment, acg-2016-liver-disease-pregnancy, aga-2025-hbv-reactivation]
 ---
 
@@ -32,7 +32,7 @@ CHB is defined as HBsAg-positive for >6 months. Screen all adults ≥18 years at
 
 Non-invasive fibrosis staging preferred:
 
-- **Vibration-controlled transient elastography (VCTE):** ≥7 kPa → F2 (Sn 69%, Sp 83%); ≥11 kPa → cirrhosis
+- **Vibration-controlled transient elastography (VCTE):** ≥7 kPa → F2 (Sn 69%, Sp 83%); ≥11 kPa → [[cirrhosis|cirrhosis]]
 - **FIB-4:** >1.45 → high sensitivity for advanced fibrosis (F3/F4); ≥3.25 → cirrhosis
 - Elastography outperforms FIB-4 overall; neither reliable in pregnancy
 - Liver biopsy: reserved for diagnostic uncertainty or staging ambiguity

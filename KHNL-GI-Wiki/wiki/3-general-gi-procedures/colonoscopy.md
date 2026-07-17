@@ -3,8 +3,8 @@ title: "Colonoscopy"
 category: general-procedure
 tags: [colonoscopy, crc-screening, polypectomy, surveillance, adenoma, serrated-polyp, colorectal, bowel-prep, split-dose, post-resection, crc-surveillance, metachronous]
 created: 2026-05-07
-updated: 2026-07-16
-sources: [usmstf-2020-followup-colonoscopy, usmstf-2021-crc-screening-age, usmstf-2020-endoscopic-removal, usmstf-2025-bowel-prep, acg-2025-bowel-prep, acg-2014-bowel-cleansing, usmstf-2015-crc-surveillance, aga-2025-cade-colonoscopy, asge-2015-scenic-ibd-dysplasia]
+updated: 2026-07-17
+sources: [usmstf-2020-followup-colonoscopy, usmstf-2021-crc-screening-age, usmstf-2020-endoscopic-removal, usmstf-2025-bowel-prep, acg-2025-bowel-prep, acg-2014-bowel-cleansing, asge-2015-bowel-preparation, usmstf-2015-crc-surveillance, aga-2025-cade-colonoscopy, asge-2015-scenic-ibd-dysplasia]
 ---
 
 # Colonoscopy
@@ -25,7 +25,7 @@ sources: [usmstf-2020-followup-colonoscopy, usmstf-2021-crc-screening-age, usmst
 
 All surveillance recommendations assume high-quality examination. [[usmstf-2020-followup-colonoscopy]]
 
-- **ADR:** ≥30% men, ≥20% women; colonoscopist-level benchmark
+- **ADR:** ≥30% men, ≥20% women; colonoscopist-level benchmark [[usmstf-2020-followup-colonoscopy]]
 - **Cecal intubation:** ≥95%; photo document appendiceal orifice, IC valve, or terminal ileum
 - **Adequate bowel prep:** able to visualize polyps >5mm; **target >90%** at endoscopist and unit level [[usmstf-2025-bowel-prep]]
 - **Complete polypectomy:** all visually detected polypoid tissue removed
@@ -172,7 +172,7 @@ GLP-1 receptor agonists ([[semaglutide]], liraglutide, tirzepatide, etc.) delay 
 
 ### High-Risk Patients (Prior Inadequate Prep or Risk Factors)
 
-**Risk factors for inadequate prep (selected):** cirrhosis (OR 3.4), Parkinson's (OR 3.2), dementia (OR 3.0), TCA use (OR 2.0), diabetes (OR 1.8), opioids (OR 1.7), gastroparesis (OR 1.6).
+**Risk factors for inadequate prep (selected):** [[cirrhosis]] (OR 3.4), Parkinson's (OR 3.2), dementia (OR 3.0), TCA use (OR 2.0), diabetes (OR 1.8), opioids (OR 1.7), gastroparesis (OR 1.6).
 
 **Modifications (Strong/Moderate):** ≥1 of — improved instruction delivery, increased navigation, restrict vegetables/legumes 2–3 days prior, clear liquids only day before, promotility agents, treat constipation, hold anticholinergic/opioid meds, switch to high-volume prep.
 
@@ -185,6 +185,19 @@ GLP-1 receptor agonists ([[semaglutide]], liraglutide, tirzepatide, etc.) delay 
 - If patient reports incomplete adherence: insert scope to sigmoid before aborting
 - Inadequate prep → reschedule: within **12 months** for screening/surveillance; within **3 months** for positive non-colonoscopy CRC test
 
+### Preparation Quality Scales
+
+Grade prep **after** all washing/suctioning is complete ([[asge-2015-bowel-preparation]]).
+
+| Scale | Scored on | Range | Anchors |
+|---|---|---|---|
+| **Boston Bowel Preparation Scale (BBPS)** | Each of 3 segments (right, transverse, left), 0–3 each, **after all cleansing maneuvers** | **0** (very poor) – **9** (excellent) | 0 unprepared, stool cannot be cleared; 1 portion of mucosa seen, rest obscured; 2 minor residual material, mucosa generally well seen; 3 entire mucosa well seen |
+| **Ottawa Bowel Preparation Scale** | Each of 3 segments (right, transverse/descending, sigmoid/rectum) 0–4, **plus** whole-colon fluid score (0 small, 1 moderate, 2 large) | **0** (excellent) – **14** (very poor) | Per segment: 0 excellent (mucosal detail clearly visible); 1 good (minimal turbid fluid); 2 fair (must suction to view); 3 poor (must wash and suction); 4 inadequate (solid stool not cleared) |
+| **Aronchick Scale** | Whole colon (segments not evaluated) | **1**–**5** | 1 excellent (>95% mucosa seen); 2 good (clear liquid over ≤25% mucosa, >90% seen); 3 fair (semisolid stool not suctionable, >90% seen); 4 poor (semisolid stool not suctionable, <90% seen); 5 inadequate (repeat prep needed) |
+
+- **BBPS** is validated and reliable; **Aronchick** is a global rating best suited to *comparing preparations* (quality on initial inspection); **Ottawa** was validated against Aronchick ([[asge-2015-bowel-preparation]])
+- USMSTF definition of an **adequate examination**: one allowing confidence that lesions other than small (≤5 mm) polyps were generally not obscured by residual colonic contents ([[asge-2015-bowel-preparation]])
+
 ---
 
 ## Post-CRC Resection Surveillance
@@ -193,7 +206,7 @@ GLP-1 receptor agonists ([[semaglutide]], liraglutide, tirzepatide, etc.) delay 
 
 > Applies to patients after curative-intent resection of colon or rectal cancer (TNM stages I–III). Does NOT apply to [[lynch-syndrome]], [[familial-adenomatous-polyposis]], [[serrated-polyposis-syndrome]], or other hereditary CRC syndromes — those require their own syndrome-specific intervals.
 
-A "high-quality" colonoscopy in this context requires: cecum/anastomosis reached, adequate bowel preparation, and endoscopist meeting ADR benchmarks (>25% in average-risk screening). All surveillance intervals assume high-quality examinations.
+A "high-quality" colonoscopy in this context requires: cecum/anastomosis reached, adequate bowel preparation, complete polypectomy, and an endoscopist meeting ADR benchmarks. All surveillance intervals assume high-quality examinations — see [[#Quality Metrics]] for the sex-specific ADR thresholds ([[usmstf-2020-followup-colonoscopy]]).
 
 ### Perioperative Clearing
 
@@ -253,6 +266,7 @@ High-risk = any of: surgery without TME; transanal local excision (TAE or TEM); 
 4. [[usmstf-2025-bowel-prep|USMSTF 2025: Optimizing Bowel Preparation Quality for Colonoscopy]]
 5. [[acg-2025-bowel-prep|ACG 2025: Optimizing Bowel Preparation Quality for Colonoscopy]]
 6. [[acg-2014-bowel-cleansing|USMSTF 2014: Optimizing Adequacy of Bowel Cleansing for Colonoscopy]]
-7. [[usmstf-2015-crc-surveillance|USMSTF 2015: Colonoscopy Surveillance after Colorectal Cancer Resection]]
-8. [[aga-2025-cade-colonoscopy|AGA Living Guideline: Computer-Aided Detection (CADe)-Assisted Colonoscopy (2025)]]
-9. [[asge-2015-scenic-ibd-dysplasia|SCENIC International Consensus Statement on Surveillance and Management of Dysplasia in IBD (2015)]]
+7. [[asge-2015-bowel-preparation|ASGE 2015: Bowel Preparation Before Colonoscopy]]
+8. [[usmstf-2015-crc-surveillance|USMSTF 2015: Colonoscopy Surveillance after Colorectal Cancer Resection]]
+9. [[aga-2025-cade-colonoscopy|AGA Living Guideline: Computer-Aided Detection (CADe)-Assisted Colonoscopy (2025)]]
+10. [[asge-2015-scenic-ibd-dysplasia|SCENIC International Consensus Statement on Surveillance and Management of Dysplasia in IBD (2015)]]

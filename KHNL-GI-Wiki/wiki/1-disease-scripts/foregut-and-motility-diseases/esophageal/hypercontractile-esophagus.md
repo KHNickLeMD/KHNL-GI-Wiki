@@ -3,7 +3,7 @@ title: "Hypercontractile Esophagus (Jackhammer Esophagus)"
 category: disease-script
 tags: [hypercontractile, jackhammer, esophageal, motility, dysphagia, chest-pain, chicago-classification]
 created: 2026-05-16
-updated: 2026-07-03
+updated: 2026-07-17
 sources: [chicago-v4-2021-esophageal-dysmotility, aga-2025-flip-esophageal, acg-2020-achalasia]
 ---
 
@@ -18,8 +18,6 @@ Hypercontractile esophagus (jackhammer esophagus) is defined by **Chicago Classi
 - ≥20% of swallows with DCI **>8,000 mmHg·s·cm**
 - IRP normal (if IRP elevated → concern for [[achalasia]] spectrum; investigate with TBE/FLIP)
 - Sustained EGJ contractions (SOCs) may occur
-
-**Key clinical note from Padova Consensus (see [[hrm-antireflux-surgery]]):** Hypercontractile esophagus is **NOT an absolute contraindication** to [[antireflux-surgery|anti-reflux surgery (ARS)]] if the patient has objective [[gerd|GERD]] and partial PPI response. Evaluate carefully pre-operatively.
 
 ---
 
@@ -36,14 +34,14 @@ Hypercontractile esophagus (jackhammer esophagus) is defined by **Chicago Classi
 ## Diagnostics
 
 - **HRM:** DCI >8,000 mmHg·s·cm in ≥20% swallows — see [[high-resolution-manometry]]
-- **[[flip-panometry|FLIP panometry]]:** See [[flip-panometry]]; distinguish Spastic Obstruction from other patterns
+- **[[flip-panometry|FLIP panometry]]:** distinguishes Spastic Obstruction from other patterns
 
 ---
 
 ## Therapeutics
 
 - Exclude EGJ obstruction and [[achalasia]] spectrum before treating (elevated IRP → investigate with TBE/FLIP)
-- Treat co-existent [[gerd|GERD]]; hypercontractile esophagus is **not** an absolute contraindication to [[antireflux-surgery|anti-reflux surgery]] when objective GERD is present (Padova consensus — see [[hrm-antireflux-surgery]])
+- Treat co-existent [[gerd|GERD]]; hypercontractile esophagus is **not** an absolute contraindication to [[antireflux-surgery|anti-reflux surgery (ARS)]] when the patient has objective GERD and partial PPI response — evaluate carefully pre-operatively (Padova consensus — see [[hrm-antireflux-surgery]])
 - [[poem|POEM]] considered for refractory [[dysphagia]]-predominant disease ([[acg-2020-achalasia]] frames longer myotomy for spastic disease)
 
 *Medical management specific to hypercontractile esophagus (smooth-muscle relaxants, neuromodulators) is not covered by an ingested source — awaiting a dedicated source.*

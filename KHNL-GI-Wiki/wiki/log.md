@@ -6,6 +6,75 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-07-17] lint | raw/ corpus permanently removed → ingest era closed; 3 unlogged 2026-07-16 pages indexed (incl. cirrhosis); 6-batch parallel pass over 85 files; stubs 34 → 17; unsourced content purged from 3 pages
+
+**⚠ Structural change — `raw/` is no longer a source corpus:**
+
+- Commit `dd214ba` (2026-07-16, Nick) **removed all 208 guideline/RCT PDFs from the repo** ("moved to local GI Resources"); `a466778` added a root `.gitignore` (`KHNL-GI-Wiki/raw/*`, `!KHNL-GI-Wiki/raw/assets`) so the nightly rsync inbox never re-commits them. `raw/` now holds **only `assets/`**.
+- **Consequences, permanent unless the corpus returns:** (1) **Ingest is impossible** — 0 raw source files reachable; the GI Resources folder is outside the sandbox. (2) New raw files will **never appear as untracked** in `git status` — the ignore rule is the point. (3) **`wiki/sources/` (209 pages) is now the sole evidence layer.** Every page in this pass was linted against source pages only; no outside/general-medical knowledge was admitted.
+- **New fragility this introduces:** entity pages carry operative detail (Balthazar bands, Marshall point values, HPS RHC criteria) that their source pages never preserved. That detail is now **unverifiable** — likely captured faithfully from the PDF at ingest, so it was **not deleted**, but it can no longer be checked. Flagged per-page.
+
+**Unlogged 2026-07-16 work found and reconciled (created by the prior session, never indexed or logged):**
+
+- `[[cirrhosis]]` — 231 lines, full ADDT, 9 sources. **The top structural gap flagged by the last two lint passes.** Now indexed; had **zero inbound links** — now linked from 29 pages.
+- `[[tips]]` — 230 lines, 4 sources. Now indexed.
+- `[[asge-2015-bowel-preparation]]` — the long-standing ingest target, ingested just before the PDFs were removed; carries a proper supersession table vs the 2025 statement. Was the wiki's **only orphan** — now resolved.
+- **Tool-call artifacts (`</content>`, `</invoke>`) had leaked into the committed `cirrhosis.md`** and rendered as visible garbage. Stripped from **6 files** total; whole-wiki re-scan clean.
+
+**Ingest:** **0** (impossible — see above). Lectures remain gated regardless.
+
+**Decision-sufficiency fixes (Content Guide → *clinical reference*):**
+
+- `[[colonoscopy]]` — the page told readers to **document prep quality but never defined how to score it**. Added the **BBPS / Ottawa / Aronchick** scales table (ranges + per-segment anchors) + the USMSTF adequate-exam definition from `[[asge-2015-bowel-preparation]]`; source wired into frontmatter + `## Sources`.
+- `[[wilson-disease]]` — Leipzig score had interpretation bands (≥4 / 2–3 / 0–1) but **no criteria**. Full Table 7 point table added; **verified row-by-row against `[[aasld-2022-wilson-disease]]` — 20/20 rows match verbatim.**
+- `[[mesenteric-artery-aneurysm]]` — had *no* criteria at all → SMA ~60%, **<2 cm observe (Conditional/Low) / >2 cm treat (Strong/Low)**.
+- `[[hereditary-pancreatitis]]` — stub → full ADDT: gene table, testing rec (Strong/Low, esp. <35 y), **53-fold** cancer RR, surveillance from **age 40 (flat)**.
+- `[[loperamide]]` — **8 mg/day self-treatment vs 16 mg/24 h with antibiotics** (the qualifier *is* the decision); `[[lubiprostone]]` CIC **24 mcg BID** + grade/qualifier; `[[antireflux-surgery]]` hiatal-size × Hill-grade table; `[[sacral-nerve-stimulation]]` Strong/Low for FI but **not for constipation**.
+
+**⚠ Source-fidelity purges (unsourced clinical content removed — user triage):**
+
+- `[[microscopic-colitis]]` — asserted **budesonide 9 mg daily first-line**, collagen band >10 µm, IELs >20/100, and drug/smoking associations. **No ingested source supports any of it**; its only source (`[[asge-2010-diarrhea]]`) explicitly predates current MC therapy guidance. An unsourced drug dose is the highest-risk failure mode → removed; page rebuilt from what the sources do carry (~10% of chronic-diarrhea referrals, normal mucosa, random R+L biopsies, 7–32% yield). **Needs an ACG/AGA microscopic-colitis guideline.**
+- `[[heller-myotomy]]` — GERD-vs-POEM claim was unsourced (`sources: []`); traced to `[[sages-2024-poem]]` and restated faithfully.
+- `[[noninvasive-liver-disease-assessment]]` — removed two false "not yet ingested (see `raw/GI Guidelines/AASLD/`)" notes; both guidelines are ingested and already in its own frontmatter.
+
+**⚠ Contradictions surfaced (source priority applied; both numbers preserved):**
+
+- `[[rifaximin]]` **reversal** — page asserted *against* rifaximin for post-TIPS HE (AASLD/EASL **2014**, Grade III/B/1). **`[[acg-2026-hepatic-encephalopathy]]`: start 14 days before elective TIPS, continue ≥6 months.** Both guidelines → newer wins; page now asserts ACG 2026 with a `## Contradictions` section, since readers carry the old rule. **Verified against the source page.**
+- `[[acute-pancreatitis]]` **CTSI cutoff conflicts with its own source page** — page says **≥7 = severe**, `[[acg-2024-acute-pancreatitis]]` says **≥8**. Same guideline, raw PDF unreachable → **not adjudicated**; an explicit ⚠ warning was added on-page rather than guessing. **Needs the original PDF.**
+- `[[variceal-upper-gi-bleeding]]` — ceftriaxone "5–7 days" (journal-club characterization) vs AASLD 2023 GS 27 "up to 5 days" → guideline wins.
+- `[[cowden-syndrome]]`-style precedent applied on `[[lubiprostone]]` (ACG 2020 vs AGA 2022 on IBS-C).
+
+**Dedup (one home per fact):** `[[high-resolution-manometry]]` (4 blocks duplicating `[[chicago-classification-v4]]`), `[[liver-transplantation]]` (~30-line duplicated Metabolic Complications section — richer copy retained), `[[chronic-pancreatitis]]` (gene table → `[[hereditary-pancreatitis]]`), `[[achalasia]]` (FLIP), `[[rumination-syndrome]]` (whole `## Clinical Pearls` section restated the page), `[[endoscopy-ergonomics]]`, `[[postinfectious-ibs]]` (fact stated 3×).
+
+**Hygiene:** malformed frontmatter (`sources:` as quoted wiki-links) on `[[achalasia]]`, `[[hepatocellular-carcinoma]]`, `[[liver-transplantation]]`; `sources: []` contradicting the body on `[[endoscopic-submucosal-dissection]]`, `[[heller-myotomy]]`; `## Sources` titles corrected to match source frontmatter verbatim; index list-splitting blank line under `[[hereditary-hemorrhagic-telangiectasia]]`; **`wiki/.fuse_hidden0000000a00000001` deleted** (three prior passes reported this as permission-blocked; it succeeded this time).
+
+**Link integrity:** **0 broken links**, **0 orphans**, 0 broken index links across 411 non-source + 209 source pages. `[[cirrhosis]]` +29 inbound, `[[tips]]` +9.
+
+**Index reconciliation:** was stale at **208 sources / 107 disease scripts / 19 advanced procedures**; on-disk truth is **209 / 108 / 20**. Three missing entries added; **16 descriptions rewritten** (all stub→full transitions + the reversed rifaximin line). Count line + frontmatter dated 2026-07-17.
+
+**Stubs: 34 → 17.** Expanded this pass: `hereditary-pancreatitis`, `antireflux-surgery`, `biofeedback-therapy`, `sacral-nerve-stimulation`, `mesenteric-artery-aneurysm`, `hereditary-hemorrhagic-telangiectasia`, `lubiprostone`, `loperamide`, `familial-pancreatic-cancer`, plus stale markers cleared from substantive pages.
+
+**⛔ Blocked on the removed corpus — cannot fix, needs a source (highest priority first):**
+
+- **Child-Pugh point bands + MELD/MELD-Na formula — absent from the entire wiki.** Independently flagged by 3 agents. Gates decisions on **≥6 pages** (`tips` preemptive CTP C 10–13 / futility MELD >30; `variceal-upper-gi-bleeding` CTP B>7; `ascites` MELD <18; LT listing MELD >14). `cirrhosis` lists component *variables* only. **The single worst decision gap in the wiki.**
+- **LA grade A–D mucosal-break criteria** — nowhere in the wiki, yet `gerd`, `upper-endoscopy`, `laryngopharyngeal-symptoms` all condition actions on it.
+- **Curaçao criteria (HHT)** — the word appears nowhere in the corpus.
+- **`[[ercp]]` reproduces the exact `choledocholithiasis` failure mode** CLAUDE.md names: ASGE high/intermediate/low criteria absent despite citing `asge-2019-choledocholithiasis`; "high-risk for PEP" undefined; SOD types I/II/III missing. **May be fixable from source pages — targeted follow-up recommended.**
+- Others: Hill grade, OLGA/OLGIM matrix, PD-L1 CPS cutoffs, Siewert, Marshall point values, CTSI/Balthazar B–D, Sarin classification, GIST size×mitotic bands and gallbladder-cancer T-stage (both barred by the NCCN licence note), arterial AMI/NOMI, microscopic-colitis therapy, bariatric BMI thresholds.
+
+**For user triage (not actioned):**
+
+- **Mis-routed `7-concepts/` pages that are discrete diseases** (schema: any discrete disease is a disease script): `hepatopulmonary-syndrome-portopulmonary-hypertension` (arguably split into two), `intestinal-methanogen-overgrowth` (its sibling `small-intestinal-bacterial-overgrowth` already is one), `antibody-mediated-rejection-liver-transplant`, `familial-pancreatic-cancer`. Procedures filed as concepts: `liver-biopsy`, `mri-mrcp`, `brush-cytology`, `confocal-laser-endomicroscopy`, `ambulatory-reflux-monitoring`.
+- **Cross-page triplication:** `gastric-premalignant-conditions` / `gastric-intestinal-metaplasia` / `atrophic-gastritis` triplicate Sydney protocol + ACG 2025 high-risk defs + eradication + chemoprevention. `endoscopic-eradication-therapy` ↔ `radiofrequency-ablation` duplicate AE/efficacy tables. `polypectomy-emr` has **two LST tables with conflicting numbers** (0.5% vs <2%; 31.6% vs 32.4%).
+- `achalasia` says "Chicago Classification **v3.0** defines subtypes" while linking the v4 page (ACG 2020 genuinely predates v4.0 — source-faithful but reads as stale).
+- `hepatic-encephalopathy` ADDT violation (top-level `## Definition`/`## Classification`); ~10 diagnostic schemas deviate from the 5-section order (`hiv-aids-related-diarrhea` has none); `dysphagia`/`jaundice`/`nausea-and-vomiting` have `sources: []` and zero citations — attribution unreconstructable without guessing.
+- `irritable-bowel-syndrome` still calls microscopic colitis "older women" — the descriptor just purged as unsourced from `[[microscopic-colitis]]`; may be sourced to `acg-2020-ibs`. **Worth a human check.**
+- `antibody-mediated-rejection-liver-transplant` lists **5** Banff criteria but says "all **4** should ideally be present."
+- 8 pages carry a redundant H1 duplicating the frontmatter title; ~46 don't.
+- `raw/GI Guidelines/AGA/AGA 2026 CPU Hemorrhoids (duplicate).pdf` deletion note is now moot — `raw/` is empty.
+
+---
+
 ## [2026-07-16] lint | Whole-wiki link + structure pass (172 pages), one genuinely uningested guideline found, index reconciled; PDF tooling unavailable so ingest + stub expansion deferred
 
 **Scope:** Parallel subagent pass across all wiki folders (13 batches). Link/structure only — **no clinical claims added or altered**, because PDF tooling was unavailable (see Blocked).

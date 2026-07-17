@@ -3,13 +3,13 @@ title: "Hemostasis in Cirrhosis"
 category: concept
 tags: [cirrhosis, coagulopathy, hemostasis, inr, platelets, ffp, teg, rotem, pvt, anticoagulation]
 created: 2026-05-21
-updated: 2026-07-16
+updated: 2026-07-17
 sources: [acg-2020-hepatic-mesenteric-circulation, aga-2021-cirrhosis-coagulation]
 ---
 
 ## Overview
 
-Cirrhosis disrupts hemostasis in a complex, bidirectional way — simultaneously reducing both pro- and anti-hemostatic factors, resulting in a **rebalanced** rather than simply deficient hemostatic state. This explains why cirrhotic patients bleed AND clot, and why traditional tests (PT/INR, platelet count) are poor predictors of bleeding risk [[acg-2020-hepatic-mesenteric-circulation]].
+[[cirrhosis|Cirrhosis]] disrupts hemostasis in a complex, bidirectional way — simultaneously reducing both pro- and anti-hemostatic factors, resulting in a **rebalanced** rather than simply deficient hemostatic state. This explains why cirrhotic patients bleed AND clot, and why traditional tests (PT/INR, platelet count) are poor predictors of bleeding risk [[acg-2020-hepatic-mesenteric-circulation]].
 
 ---
 

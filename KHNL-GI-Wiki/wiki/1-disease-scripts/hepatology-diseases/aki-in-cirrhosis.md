@@ -3,7 +3,7 @@ title: "AKI in Cirrhosis (including HRS-AKI)"
 category: disease-script
 tags: [aki, cirrhosis, hrs, hepatorenal-syndrome, albumin, terlipressin, liver]
 created: 2026-05-15
-updated: 2026-07-16
+updated: 2026-07-17
 sources: [aga-2022-aki-cirrhosis]
 ---
 
@@ -30,7 +30,7 @@ AKI is diagnosed when **any one** of the following is met:
 
 **Baseline SCr:** use the most recent value within the prior 3 months when no value is available within the prior 7 days.
 
-**Caveat in cirrhosis:** SCr systematically underestimates the degree of GFR reduction due to reduced muscle mass, impaired hepatic creatine synthesis, female sex, and hyperbilirubinemia (interferes with colorimetric assay). A "normal" SCr in cirrhosis may mask significant renal impairment.
+**Caveat in [[cirrhosis|cirrhosis]]:** SCr systematically underestimates the degree of GFR reduction due to reduced muscle mass, impaired hepatic creatine synthesis, female sex, and hyperbilirubinemia (interferes with colorimetric assay). A "normal" SCr in cirrhosis may mask significant renal impairment.
 
 **Epidemiology:** AKI occurs in ~47% of hospitalized patients with cirrhosis complications and ~30% of outpatients with cirrhosis. It carries a 7-fold increase in morbidity and mortality.
 

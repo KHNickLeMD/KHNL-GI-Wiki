@@ -3,7 +3,7 @@ title: "Autoimmune Hepatitis"
 category: disease-script
 tags: [aih, autoimmune, hepatitis, liver, hpb, igg, immunosuppression, pregnancy, azathioprine, budesonide, mycophenolate-mofetil, mmf, tacrolimus, overlap-syndrome, pbc, psc, cirrhosis, liver-transplant]
 created: 2026-05-16
-updated: 2026-07-16
+updated: 2026-07-17
 sources: [acg-2017-liver-chemistries, acg-2016-liver-disease-pregnancy, aasld-2020-autoimmune-hepatitis]
 ---
 
@@ -68,7 +68,7 @@ AIH is an immune-mediated hepatitis characterized by elevated aminotransferases,
 
 **AIH-related ALF:** INR ≥2.0 + [[hepatic-encephalopathy|hepatic encephalopathy]] (any grade) — evaluate directly for [[liver-transplantation|liver transplantation]]; see [[acute-liver-failure]]
 
-**Fibrosis staging:** Ishak/Metavir/Brunt staging on biopsy; MELD score for decompensated AIH cirrhosis
+**Fibrosis staging:** Ishak/Metavir/Brunt staging on biopsy; MELD score for decompensated AIH [[cirrhosis|cirrhosis]]
 
 **Biochemical remission (treatment goal):** Normalization of AST, ALT, AND IgG to within the normal range
 

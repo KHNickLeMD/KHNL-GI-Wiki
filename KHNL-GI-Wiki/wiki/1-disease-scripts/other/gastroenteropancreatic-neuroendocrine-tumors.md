@@ -3,7 +3,7 @@ title: "Gastroenteropancreatic Neuroendocrine Tumors (GEP-NETs)"
 category: disease-script
 tags: [neuroendocrine-tumor, net, gep-net, pannet, carcinoid, gastrinoma, insulinoma, glucagonoma, vipoma, zollinger-ellison, men1, prrt]
 created: 2026-06-18
-updated: 2026-06-18
+updated: 2026-07-17
 sources: [nccn-2026-net]
 ---
 
@@ -42,7 +42,7 @@ Prognosis is driven by **grade, differentiation, primary site, and stage (tumor 
 **Gastric NET subtypes** (mechanistically distinct, dictating therapy):
 
 - **Type 1** — secondary to autoimmune [[atrophic-gastritis]]/hypergastrinemia; multiple small indolent lesions; usually endoscopically managed.
-- **Type 2** — gastrinoma-driven (Zollinger-Ellison), frequently [[#Differential Diagnosis|MEN1]]-associated.
+- **Type 2** — gastrinoma-driven (Zollinger-Ellison), frequently MEN1-associated.
 - **Type 3** — normal gastrin, sporadic, larger and more aggressive; typically surgical.
 
 ## Differential Diagnosis

@@ -3,7 +3,7 @@ title: "Acute Pancreatitis"
 category: disease-script
 tags: [pancreatitis, acute-pancreatitis, hpb, gallstone-pancreatitis, necrotizing-pancreatitis, ercp, bisap, fluid-resuscitation, nutrition]
 created: 2026-05-07
-updated: 2026-07-16
+updated: 2026-07-17
 sources: [acg-2024-acute-pancreatitis, asge-2016-pancreatic-fluid-collections, asge-2015-benign-pancreatic-disease, demadaria-2022-waterfall]
 ---
 
@@ -40,7 +40,7 @@ sources: [acg-2024-acute-pancreatitis, asge-2016-pancreatic-fluid-collections, a
 | **Medications** | Azathioprine, DDI, valproate, furosemide, etc. | Medication review |
 | **Post-[[ercp\|ERCP]]** | Develops within hours of procedure | Clinical context |
 | **Hypercalcemia** | Hyperparathyroidism | Serum calcium, PTH |
-| **Genetic** | Young, recurrent, family history | PRSS1, SPINK1, CFTR mutation panel |
+| **[[hereditary-pancreatitis\|Genetic]]** | Young, recurrent, family history | PRSS1, SPINK1, CFTR mutation panel |
 | **Autoimmune (AIP type 1)** | IgG4-RD features; older male; bile duct involvement | IgG4 level; MRI pancreas |
 | **Idiopathic (~20%)** | After above excluded | [[endoscopic-ultrasound\|EUS]] or [[mri-mrcp\|MRCP]] (microlithiasis, periampullary lesion) |
 
@@ -112,6 +112,7 @@ BISAP ≥3 = high risk for severe AP and mortality
   - Grades A–E: A = normal, E = ≥2 large peripancreatic fluid collections or gas
   - Necrosis: 0% = 0 pts; <30% = 2 pts; 30–50% = 4 pts; >50% = 6 pts
   - CTSI ≥7 = severe; associated with complications
+  - ⚠ **Unresolved discrepancy — do not rely on this cutoff without checking the source.** This page states **≥7**; the [[acg-2024-acute-pancreatitis]] source page records **≥8 = severe**. Both trace to the same guideline, and the raw PDF is no longer in `raw/`, so the conflict cannot be adjudicated from the ingested corpus. Verify against the original ACG 2024 guideline before using CTSI to assign severity.
 - **Postpone CT to 48–72h** — pancreatic necrosis not apparent on early CT (<48h); premature CT may underestimate extent
 - Contrast-enhanced: best for necrosis assessment; consider with-contrast in renal dysfunction → use MRCP instead
 
@@ -268,7 +269,7 @@ BISAP ≥3 = high risk for severe AP and mortality
 
 ## See Also
 
-[[alcohol-associated-liver-disease]], [[chronic-pancreatitis]], [[pancreatic-cysts]], [[ercp]], [[endoscopic-ultrasound]], [[mri-mrcp]], [[peptic-ulcer-disease]], [[acute-mesenteric-ischemia]], [[choledocholithiasis]], [[ampullary-adenoma]], [[nutrition-in-hospitalized-patients]], [[portal-hypertension]]
+[[alcohol-associated-liver-disease]], [[chronic-pancreatitis]], [[hereditary-pancreatitis]], [[pancreatic-cysts]], [[ercp]], [[endoscopic-ultrasound]], [[mri-mrcp]], [[peptic-ulcer-disease]], [[acute-mesenteric-ischemia]], [[choledocholithiasis]], [[ampullary-adenoma]], [[nutrition-in-hospitalized-patients]], [[portal-hypertension]]
 
 ---
 

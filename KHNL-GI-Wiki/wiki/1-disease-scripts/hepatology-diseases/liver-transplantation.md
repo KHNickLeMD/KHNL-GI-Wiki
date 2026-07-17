@@ -3,8 +3,8 @@ title: "Liver Transplantation — Post-Transplant Management"
 category: disease-script
 tags: [liver-transplant, liver-transplantation, immunosuppression, tacrolimus, calcineurin-inhibitor, ckd, metabolic-syndrome, rejection, tcmr, pcr, amr, biliary-stricture, vascular-complications, machine-perfusion, dcd, ldlt, ead, hbv, hcv, pbc, psc, autoimmune-hepatitis, hcc, masld, ald, de-novo-malignancy, post-transplant, bone-health, vaccination, cmv, cancer-surveillance, glp-1, bariatric-surgery, aasld]
 created: 2026-05-19
-updated: 2026-07-16
-sources: ["[[aasld-2012-liver-transplant-long-term]]", "[[aasld-ast-2025-liver-transplant-graft-complications]]", "[[aasld-ast-2025-liver-transplant-candidate-evaluation]]", "[[aasld-ast-2025-liver-transplant-non-graft-complications]]", "[[asge-2023-post-transplant-biliary-strictures]]"]
+updated: 2026-07-17
+sources: [aasld-2012-liver-transplant-long-term, aasld-ast-2025-liver-transplant-graft-complications, aasld-ast-2025-liver-transplant-candidate-evaluation, aasld-ast-2025-liver-transplant-non-graft-complications, asge-2023-post-transplant-biliary-strictures]
 ---
 
 # PART I — PRE-TRANSPLANT CANDIDATE EVALUATION
@@ -307,7 +307,7 @@ This page covers **post-transplant management of the liver transplant recipient*
 
 - Risk factors: technical (kinking, redundancy), recipient PV thrombosis, large portosystemic shunts, hypercoagulable state, extra-anatomic PV reconstruction
 - Early: thrombectomy with surgical revision + anticoagulation
-- Late: anticoagulation, percutaneous thrombolysis, stent, TIPS
+- Late: anticoagulation, percutaneous thrombolysis, stent, [[tips|TIPS]]
 - Long-term: [[portal-hypertension|portal hypertension]] (ascites, varices), graft dysfunction
 
 **PV Stenosis** — incidence 2–3%:
@@ -406,36 +406,6 @@ Biliary complications are addressed both by AASLD-AST 2025 and by the dedicated 
 
 - Diagnosis requires combination of C4d deposition, donor-specific antibodies (DSA), histologic features (microvascular injury), and graft dysfunction
 - Management typically includes plasmapheresis, IVIG, rituximab, and/or bortezomib; evidence largely expert consensus
-
-### Metabolic Complications
-
-**Chronic kidney disease (CKD)** — affects 18–25% at 5 years; 8–10% progress to ESRD ([[aasld-2012-liver-transplant-long-term]], Rec. 10–14):
-
-- CNI nephrotoxicity is primary driver; other contributors: HTN, DM, pre-existing renal disease
-- Monitoring: creatinine + urine microalbumin every 3–6 months
-- Management: CNI minimization (reduce dose or convert to mTOR inhibitor/EVL ± MMF per Recs 30, 33); ACE-I or ARB for proteinuric CKD; nephrology referral for advanced CKD
-- Avoid nephrotoxic agents (NSAIDs, IV contrast — use with caution)
-
-**Post-transplant diabetes mellitus (PTDM)** — 10–63% incidence:
-
-- Risk factors: tacrolimus > cyclosporine, corticosteroids, HCV, [[obesity]], family history
-- Monitoring: fasting glucose and HbA1c annually; delayed TAC start (basiliximab induction) reduces de novo DM
-- Management: steroid minimization, consider tacrolimus → cyclosporine conversion if severe; standard diabetes therapy
-
-**Hypertension (HTN)** — >50% at 1 year:
-
-- Driven by CNIs (vasoconstriction, sodium retention), corticosteroids
-- Target: <130/80 mmHg
-- Management: calcium channel blockers preferred; ACE-I/ARB if proteinuria or CKD
-
-**Dyslipidemia** — up to 43% at 1 year:
-
-- mTOR inhibitors (sirolimus/everolimus) worsen lipids; corticosteroids also contribute
-- Statins first-line; use pravastatin or fluvastatin (less CYP3A4 interaction with CNIs)
-
-**Bone disease / osteoporosis**:
-
-- Calcium 1000–1200 mg/day + vitamin D 400–800 IU/day in all recipients; bisphosphonates for T-score ≤ −2.5
 
 ### Metabolic Complications
 
@@ -623,7 +593,7 @@ Biliary complications are addressed both by AASLD-AST 2025 and by the dedicated 
 
 - Metabolic risk factors (DM, obesity, dyslipidemia, HTN) accumulate post-LT → recurrent or de novo NAFLD/NASH
 - Incidence of de novo NAFLD post-LT: 30–40% in some series
-- Recurrent NAFLD may progress to cirrhosis of the allograft
+- Recurrent NAFLD may progress to [[cirrhosis|cirrhosis]] of the allograft
 - Management: weight management, control of DM, HTN, dyslipidemia; IS minimization (steroids contribute to metabolic syndrome)
 - Lifestyle counseling: structured diet + exercise program (Rec. 85–88)
 

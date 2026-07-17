@@ -3,7 +3,7 @@ title: "Ascites"
 category: diagnostic-schema
 tags: [ascites, cirrhosis, saag, paracentesis, diuretics, tips]
 created: 2026-05-15
-updated: 2026-07-16
+updated: 2026-07-17
 sources: [aasld-2021-ascites-sbp-hrs, aga-2025-ascites-cirrhosis]
 ---
 
@@ -33,7 +33,7 @@ Ascites can be graded by volume and classified by treatment response:
 
 ### Cirrhotic ([[portal-hypertension|portal hypertensive]]) causes — SAAG ≥1.1 g/dL
 
-- Cirrhosis (most common cause in Western world)
+- [[cirrhosis|Cirrhosis]] (most common cause in Western world)
 - Massive liver metastases with portal involvement
 - Right heart failure / constrictive pericarditis (SAAG ≥1.1, but ascitic protein typically high >2.5 g/dL)
 
@@ -148,10 +148,10 @@ SAAG = serum albumin − ascitic fluid albumin (simultaneous samples)
 
 **PPCD (postparacentesis circulatory dysfunction):** Clinically manifest as renal impairment, dilutional hyponatremia, [[hepatic-encephalopathy|hepatic encephalopathy]], or death; prevented by adequate albumin replacement
 
-### TIPS (Refractory Ascites)
+### [[tips|TIPS]] (Refractory Ascites)
 
 - Superior to repeated LVP for ascites control and may confer survival benefit in selected patients
-- **Preferred candidate:** MELD <18, younger age, preserved cardiopulmonary function, without sarcopenia
+- **Preferred candidate:** MELD <18, younger age, preserved cardiopulmonary function, without sarcopenia — see [[tips]] for full candidacy, hemodynamic targets, and futility criteria
 - Stent: 8–10 mm covered (polytetrafluoroethylene) stent preferred to reduce post-TIPS [[hepatic-encephalopathy|hepatic encephalopathy]]
 - Ascites clearance is not immediate; takes 4–6 months for neurohormonal suppression and diuresis
 - ~80% will clear ascites with TIPS
@@ -221,7 +221,7 @@ SAAG = serum albumin − ascitic fluid albumin (simultaneous samples)
 
 ## See Also
 
-[[spontaneous-bacterial-peritonitis]], [[aki-in-cirrhosis]], [[portal-hypertension]], [[hepatic-encephalopathy]], [[liver-transplantation]], [[alcohol-associated-liver-disease]], [[nutrition-in-liver-disease]], [[noninvasive-liver-disease-assessment]]
+[[cirrhosis]], [[tips]], [[spontaneous-bacterial-peritonitis]], [[aki-in-cirrhosis]], [[portal-hypertension]], [[hepatic-encephalopathy]], [[liver-transplantation]], [[alcohol-associated-liver-disease]], [[nutrition-in-liver-disease]], [[noninvasive-liver-disease-assessment]]
 
 ---
 

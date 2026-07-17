@@ -3,8 +3,8 @@ title: "Achalasia"
 category: disease-script
 tags: [achalasia, esophageal-motility, dysphagia, hrm, poem, heller-myotomy, pneumatic-dilation, foregut]
 created: 2026-05-15
-updated: 2026-06-20
-sources: ["[[acg-2020-achalasia]]", "[[asge-2020-achalasia]]", "[[sages-2021-poem]]"]
+updated: 2026-07-17
+sources: [acg-2020-achalasia, asge-2020-achalasia, sages-2021-poem]
 ---
 # Achalasia
 
@@ -33,7 +33,7 @@ sources: ["[[acg-2020-achalasia]]", "[[asge-2020-achalasia]]", "[[sages-2021-poe
 >
 > - HRM has superior inter-rater agreement (k=0.57 vs 0.32) and 3.4x lower odds of incorrect diagnosis vs conventional manometry
 
-**[[flip-panometry|FLIP (Functional Lumen Imaging Probe)]]:** Approved tool measuring EGJ distensibility index. Complementary in equivocal cases or patients who cannot tolerate manometry. Performed during endoscopy under sedation. All 70 manometry-confirmed achalasia patients had reduced EGJ distensibility on FLIP. Role still evolving.
+**[[flip-panometry|FLIP (Functional Lumen Imaging Probe)]]:** Complementary tool when HRM is equivocal or not tolerated — see [[#FLIP (Functional Lumen Imaging Probe)]] under Diagnostics. Role still evolving.
 
 ### Classification / Typing (Chicago Classification — clinically essential)
 
@@ -60,7 +60,7 @@ Disease progresses: Type III → Type II → Type I as esophagus dilates over ti
 
 - **Pseudoachalasia** — malignancy at GEJ (gastric, [[esophageal-cancer|esophageal cancer]], metastatic); shorter history, older age, rapid weight loss → EUS or CT
 - GERD with peptic stricture
-- [[eosinophilic-esophagitis|Eosinophilic esophagitis]] (see [[eosinophilic-esophagitis]])
+- [[eosinophilic-esophagitis|Eosinophilic esophagitis]] — rings/furrows/exudate; ≥15 eos/hpf on biopsy
 - [[distal-esophageal-spasm|Distal esophageal spasm (DES)]] — Type III achalasia shares features; differentiated on HRM
 - Jackhammer esophagus / [[hypercontractile-esophagus|hypercontractile esophagus]]
 - Scleroderma esophagus (absent peristalsis but low LES pressure)
@@ -86,10 +86,10 @@ Barium column height measured at 1, 2, and 5 minutes after large barium bolus in
 
 ### FLIP (Functional Lumen Imaging Probe)
 
-Simultaneous cross-sectional area + pressure → EGJ distensibility index. Useful in:
+Simultaneous cross-sectional area + pressure → EGJ distensibility index. Performed during endoscopy under sedation. All 70 manometry-confirmed achalasia patients had reduced EGJ distensibility on FLIP. Useful in:
 
 - Equivocal manometry with high clinical suspicion
-- Patients who cannot tolerate manometry (performed under sedation during endoscopy)
+- Patients who cannot tolerate manometry
 - Pre- and post-treatment assessment
 
 ### Eckardt Score (ES)

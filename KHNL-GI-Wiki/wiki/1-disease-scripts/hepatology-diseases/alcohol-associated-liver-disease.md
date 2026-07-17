@@ -3,7 +3,7 @@ title: "Alcohol-Associated Liver Disease"
 category: disease-script
 tags: [ald, alcoholic-hepatitis, cirrhosis, liver, hpb, aud, corticosteroids, liver-transplant, lille-score, meld, mdf, nac, pentoxifylline, transplant-candidate-evaluation, post-transplant, recurrence, naltrexone, acamprosate, baclofen, peth, stopah]
 created: 2026-05-07
-updated: 2026-07-16
+updated: 2026-07-17
 sources: [acg-2024-ald, acg-2017-liver-chemistries, aasld-ast-2025-liver-transplant-candidate-evaluation, aasld-ast-2025-liver-transplant-graft-complications, aasld-2020-ald]
 ---
 
@@ -20,7 +20,7 @@ sources: [acg-2024-ald, acg-2017-liver-chemistries, aasld-ast-2025-liver-transpl
 - **Hepatic steatosis** — reversible; develops in 90% with >60g/day alcohol for 2 weeks; usually asymptomatic; reverses with 4–6 weeks abstinence
 - **Alcohol-associated steatohepatitis (ASH) / Alcoholic Hepatitis (AH)** — acute inflammatory injury; 10–35% of heavy drinkers; rapid onset [[jaundice]]; spectrum of severity; histological correlate is ASH
 - **Fibrosis** — 40–50% of those with steatohepatitis; 20–40% regress with abstinence
-- **Cirrhosis (AC)** — 8–20% of heavy drinkers; may develop without prior recognized AH; 20–40% develop decompensation or [[acute-on-chronic-liver-failure|ACLF]]; 3–10% develop HCC
+- **[[cirrhosis|Cirrhosis]] (AC)** — 8–20% of heavy drinkers; may develop without prior recognized AH; 20–40% develop decompensation or [[acute-on-chronic-liver-failure|ACLF]]; 3–10% develop HCC
 - **[[hepatocellular-carcinoma|Hepatocellular carcinoma (HCC)]]** — cirrhosis-associated risk; PNPLA3 and TM6SF2 variants increase HCC risk specifically in ALD [[aasld-2020-ald]]
 
 *ALD is a leading indication for [[liver-transplantation|liver transplantation]] in the United States, surpassing [[hepatitis-c|HCV]] infection; accounted for 20% of all primary LT (>19,000 recipients) from 1988–2009.* [[aasld-2020-ald]]

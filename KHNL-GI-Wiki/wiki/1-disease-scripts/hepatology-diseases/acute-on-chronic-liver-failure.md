@@ -3,7 +3,7 @@ title: "Acute-on-Chronic Liver Failure (ACLF)"
 category: disease-script
 tags: [ACLF, acute-on-chronic-liver-failure, cirrhosis, organ-failure, ICU, NACSELD, EASL-CLIF, terlipressin, HRS, hepatic-encephalopathy, infection, nutrition, liver-transplantation, palliative-care]
 created: 2026-05-28
-updated: 2026-07-16
+updated: 2026-07-17
 sources: [aasld-2024-aclf]
 ---
 
@@ -11,7 +11,7 @@ sources: [aasld-2024-aclf]
 
 ### Establishing the Diagnosis
 
-ACLF is a syndrome in patients with chronic liver disease (CLD) characterized by **acute onset with rapid deterioration**, liver failure, and ≥1 extrahepatic organ failure, with high short-term mortality. Distinct from [[acute-liver-failure]] (which has no prior CLD) and from standard acute decompensation of cirrhosis (which may lack extrahepatic organ failure).
+ACLF is a syndrome in patients with chronic liver disease (CLD) characterized by **acute onset with rapid deterioration**, liver failure, and ≥1 extrahepatic organ failure, with high short-term mortality. Distinct from [[acute-liver-failure]] (which has no prior CLD) and from standard acute decompensation of [[cirrhosis|cirrhosis]] (which may lack extrahepatic organ failure).
 
 **AASLD minimum definition (GS 1):** All three elements required:
 
@@ -123,7 +123,7 @@ Critically ill patients with cirrhosis and ACLF require multidisciplinary ICU ca
 
 - Hepatic hydrothorax, tense ascites → respiratory compromise → therapeutic thoracentesis/paracentesis (GS 18)
 - [[hepatopulmonary-syndrome-portopulmonary-hypertension]] (HPS/POPH): assess in ICU for contribution to hypoxemia
-- POPH: monitor for RV dysfunction; pulmonary vasodilators (inhaled NO, epoprostenol) may be needed; TIPS generally contraindicated in POPH (worsens hepatic decompensation)
+- POPH: monitor for RV dysfunction; pulmonary vasodilators (inhaled NO, epoprostenol) may be needed; [[tips|TIPS]] generally contraindicated in POPH (worsens hepatic decompensation)
 
 **Respiratory support (GS 19–22):**
 

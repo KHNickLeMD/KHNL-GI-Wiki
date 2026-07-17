@@ -3,7 +3,7 @@ title: "Nutrition in Liver Disease"
 category: disease-script
 tags: [liver, cirrhosis, malnutrition, sarcopenia, hepatic-encephalopathy, bcaa, vitamin-e, mash, masld, ald, coffee, nutrition]
 created: 2026-05-07
-updated: 2026-07-16
+updated: 2026-07-17
 sources: [acg-2025-liver-nutrition, aasld-2021-malnutrition-cirrhosis]
 ---
 
@@ -17,7 +17,7 @@ Malnutrition (most commonly sarcopenia) is a common complication of liver diseas
 
 ### Who to Assess
 
-- **All patients with cirrhosis** — assess for frailty and/or sarcopenia at diagnosis and periodically
+- **All patients with [[cirrhosis|cirrhosis]]** — assess for frailty and/or sarcopenia at diagnosis and periodically
 - **Hospitalized cirrhosis** — assess and address nutritional status early
 - **[[alcohol-associated-liver-disease|Alcohol-associated hepatitis]] (AAH)** — detailed dietary assessment essential
 

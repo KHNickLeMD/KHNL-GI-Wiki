@@ -3,7 +3,7 @@ title: "Resmetirom (Rezdiffra)"
 category: med
 tags: [resmetirom, rezdiffra, thr-beta, masld, mash, nash, fibrosis, pharmacotherapy, hpb, liver]
 created: 2026-05-31
-updated: 2026-07-16
+updated: 2026-07-17
 sources: [aasld-2024-resmetirom, aasld-2023-nafld]
 ---
 
@@ -23,7 +23,7 @@ sources: [aasld-2024-resmetirom, aasld-2023-nafld]
 
 ## Not recommended in
 
-Compensated or decompensated cirrhosis; uncontrolled active liver disease ([[autoimmune-hepatitis]], [[primary-biliary-cholangitis]]); alcohol >20 g/d (♀) / >30 g/d (♂); untreated thyroid dysfunction (optimize first; baseline TSH required); symptomatic gallstone disease.
+Compensated or decompensated [[cirrhosis]]; uncontrolled active liver disease ([[autoimmune-hepatitis]], [[primary-biliary-cholangitis]]); alcohol >20 g/d (♀) / >30 g/d (♂); untreated thyroid dysfunction (optimize first; baseline TSH required); symptomatic gallstone disease.
 
 ## Monitoring & adverse events
 
