@@ -17,7 +17,7 @@ Chronic pancreatitis (CP) is a **pathologic fibroinflammatory syndrome of the pa
 
 - Pancreatic atrophy, fibrosis, ductal distortion/strictures, calcifications
 - Pain syndromes (most common symptom)
-- Exocrine pancreatic insufficiency (EPI)
+- [[exocrine-pancreatic-insufficiency|Exocrine pancreatic insufficiency (EPI)]]
 - Endocrine dysfunction (type 3c DM)
 - Dysplasia (increased ductal adenocarcinoma risk)
 

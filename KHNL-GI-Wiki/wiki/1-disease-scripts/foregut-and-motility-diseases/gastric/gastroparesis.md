@@ -71,10 +71,10 @@ sources: [acg-2022-gastroparesis, aga-2025-gastroparesis, surjanhata-2025-consti
 - **Mechanical gastric outlet obstruction** — peptic stricture, malignancy, bezoar; must be excluded by [[upper-endoscopy]] or imaging before diagnosing GP
 - **[[gerd|GERD]] / reflux disease** — symptom overlap (nausea, postprandial discomfort)
 - **[[rumination-syndrome|Rumination syndrome]]** — regurgitation of undigested food shortly after meals; distinguished by manometry/impedance
-- **Cyclic vomiting syndrome** — stereotyped episodic vomiting with symptom-free intervals
+- **[[cyclic-vomiting-syndrome|Cyclic vomiting syndrome]]** — stereotyped episodic vomiting with symptom-free intervals
 - **Superior mesenteric artery (SMA) syndrome** — postprandial nausea/vomiting; positional component; duodenal compression on imaging
 - **Medication-induced GE delay** — opioids (potent effect), GLP-1 receptor agonists, anticholinergics, tricyclic antidepressants
-- **Cannabinoid hyperemesis syndrome** — cyclical vomiting in heavy cannabis users; compulsive hot bathing
+- **[[cannabinoid-hyperemesis-syndrome|Cannabinoid hyperemesis syndrome]]** — cyclical vomiting in heavy cannabis users; compulsive hot bathing
 - **Eating disorders (ARFID, anorexia)** — frequent comorbidity in GP; must be assessed
 
 ---

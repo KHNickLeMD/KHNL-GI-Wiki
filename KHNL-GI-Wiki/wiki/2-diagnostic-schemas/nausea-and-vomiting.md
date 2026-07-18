@@ -42,8 +42,8 @@ Duration frames the differential: **acute** (<1 week — usually infection, drug
 
 ### Functional and Episodic Syndromes
 
-- **Cyclic vomiting syndrome (CVS)** — stereotyped, recurrent discrete episodes of intense vomiting with symptom-free intervals; Rome IV [[disorders-of-gut-brain-interaction|DGBI]]; migraine association
-- **Cannabinoid hyperemesis syndrome (CHS)** — chronic cannabis use, cyclic vomiting relieved by hot showers/baths; resolves with cessation
+- **[[cyclic-vomiting-syndrome|Cyclic vomiting syndrome (CVS)]]** — stereotyped, recurrent discrete episodes of intense vomiting with symptom-free intervals; Rome IV [[disorders-of-gut-brain-interaction|DGBI]]; migraine association
+- **[[cannabinoid-hyperemesis-syndrome|Cannabinoid hyperemesis syndrome (CHS)]]** — chronic cannabis use, cyclic vomiting relieved by hot showers/baths; resolves with cessation
 - **Chronic nausea vomiting syndrome** and **functional vomiting** — Rome IV functional disorders, diagnosed after exclusion
 
 ---
@@ -100,4 +100,4 @@ flowchart TD
 
 ## See Also
 
-[[gastroparesis]], [[dyspepsia]], [[gerd]], [[peptic-ulcer-disease]], [[gastric-adenocarcinoma]], [[achalasia]], [[rumination-syndrome]], [[acute-pancreatitis]], [[choledocholithiasis]], [[upper-endoscopy]], [[upper-gi-bleeding]], [[acute-diarrhea]], [[norovirus]], [[liver-disease-in-pregnancy]], [[disorders-of-gut-brain-interaction]], [[small-bowel-motility]], [[acute-colonic-pseudo-obstruction]], [[colonic-volvulus]]
+[[gastroparesis]], [[cyclic-vomiting-syndrome]], [[cannabinoid-hyperemesis-syndrome]], [[dyspepsia]], [[gerd]], [[peptic-ulcer-disease]], [[gastric-adenocarcinoma]], [[achalasia]], [[rumination-syndrome]], [[acute-pancreatitis]], [[choledocholithiasis]], [[upper-endoscopy]], [[upper-gi-bleeding]], [[acute-diarrhea]], [[norovirus]], [[liver-disease-in-pregnancy]], [[disorders-of-gut-brain-interaction]], [[small-bowel-motility]], [[acute-colonic-pseudo-obstruction]], [[colonic-volvulus]]

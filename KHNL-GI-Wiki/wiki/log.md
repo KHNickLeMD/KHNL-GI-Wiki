@@ -6,6 +6,37 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-07-18] lint | raw/ corpus RESTORED via inbox sync + pdftotext works → ingest era reopened; ingested AGA EPI + AGA CHS CPUs (3 new disease pages); somatostatin-analogs stub expanded; nausea/gastroparesis/pancreatic links wired
+
+**⚠ Structural reversal — ingest is possible again:**
+- The 2026-07-17 entry declared `raw/` permanently removed and the ingest era closed (no PDF tooling). **Both premises are now false.** The inbox sync has repopulated `raw/` with **245 source files** (241 guidelines + 4 RCTs), and **`pdftotext` is installed** (`/usr/bin/pdftotext`), so text extraction and ingest work again.
+- `raw/GI Guidelines/`, `raw/GI RCTs/`, and `raw/GI Lectures+Chalk Talks/` remain **gitignored** (only `raw/assets/` is tracked) — raw PDFs are never committed, per schema. No lecture/chalk-talk files present (0).
+- Uningested gap: ~30+ files, mostly recent **AGA Clinical Practice Updates** (the lowercase-named AGA files) plus a few ASGE/AGA MSTF duplicates of already-ingested USMSTF versions.
+
+**Sources created (2 ingests, tier-1 CPUs — within per-pass cap):**
+- `wiki/sources/aga-2023-epi.md` — AGA CPU Exocrine Pancreatic Insufficiency (all 15 Best Practice Advice statements captured).
+- `wiki/sources/aga-2024-chs.md` — AGA CPU Cannabinoid Hyperemesis Syndrome (CVS Rome IV + proposed CHS criteria).
+
+**Pages created:**
+- [[exocrine-pancreatic-insufficiency]] (`pancreaticobiliary-diseases/`, ADDT) — filled a gap referenced by ≥6 pages; FE-1 thresholds (<100 / 100–200 µg/g), PERT dosing (≥40,000 USP lipase/meal), DXA q1–2y.
+- [[cyclic-vomiting-syndrome]] and [[cannabinoid-hyperemesis-syndrome]] (`foregut-and-motility-diseases/gastric/`, ADDT) — decision criteria + amitriptyline/capsaicin management.
+
+**Stub expanded (from already-ingested sources):**
+- [[somatostatin-analogs]] — octreotide/lanreotide across variceal bleeding ([[aasld-2023-portal-hypertension]]), GEP-NET/carcinoid ([[nccn-2026-net]]), refractory small-bowel bleeding ([[acg-2015-small-bowel-bleeding]]); 1 → 3 sources.
+
+**Links wired:**
+- `nausea-and-vomiting.md` (DDx + See Also), `gastroparesis.md` (DDx) → CVS/CHS inline links.
+- `chronic-diarrhea.md`, `chronic-pancreatitis.md` → EPI inline links.
+
+**Hygiene:** `index.md` updated (3 disease + 2 source entries added, somatostatin-analogs description refreshed, date → 2026-07-18); all new-page wiki-links validated (no broken links); no `.DS_Store`/OS artifacts; stubs 17 → 16.
+
+**Remaining for triage (reported, not done — per-pass ingest cap):**
+- ~30 uningested AGA CPUs on genuinely new topics (e.g. acute hepatic porphyria, alpha-gal syndrome, PCABs/potassium-competitive acid blockers, cyclical vomiting already covered, intestinal ultrasound for IBD, extraesophageal GERD, EPI-adjacent). High-value next targets.
+- Stalest remaining stubs needing not-yet-ingested or thin-coverage sources: [[obesity]], [[post-transplant-lymphoproliferative-disorder]].
+- Duplicate raw files (AGA MSTF 2020/2022 = already-ingested USMSTF versions; ASGE USMSTF 2016/2017; `AGA 2026 CPU Hemorrhoids (duplicate).pdf`) — do not re-ingest.
+
+---
+
 ## [2026-07-17] lint | raw/ corpus permanently removed → ingest era closed; 3 unlogged 2026-07-16 pages indexed (incl. cirrhosis); 6-batch parallel pass over 85 files; stubs 34 → 17; unsourced content purged from 3 pages
 
 **⚠ Structural change — `raw/` is no longer a source corpus:**

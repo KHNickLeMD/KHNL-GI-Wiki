@@ -1,7 +1,7 @@
 ---
 title: "Wiki Index"
 category: index
-updated: 2026-07-17
+updated: 2026-07-18
 ---
 
 # KHNL GI Encyclopedia — Master Index
@@ -46,6 +46,8 @@ updated: 2026-07-17
 - [[peptic-ulcer-disease]] — PUD: ADDT — H. pylori/NSAID etiology, ulcer biopsy (DU not routine, GU individualized), EGD with Forrest classification, PPI BID 4–12 wk, follow-up EGD for gastric ulcers, balloon dilation for benign gastric outlet obstruction (2 sources)
 - [[hereditary-diffuse-gastric-cancer]] — HDGC: ADDT — CDH1, 67%/83% M/F lifetime GC risk, prophylactic gastrectomy after age 20, pre-gastrectomy EGD low sensitivity, lobular breast cancer surveillance (1 source)
 - [[rumination-syndrome]] — Rumination syndrome: ADDT — Rome V gastroduodenal DGBI (B4); effortless regurgitation of bland recently-eaten food without nausea/retching; behavioral mimic of refractory GERD; postprandial HRIM (intragastric pressure rise >30 mm Hg, sens 75–80%/spec 100%) after EGD; Therapeutics pending a primary source (2 sources)
+- [[cyclic-vomiting-syndrome]] — CVS: ADDT — Rome IV criteria (≥3 episodes/yr, 2 in 6 mo, ≥1 wk apart, well between; <1 wk duration; migraine association); 4 phases (Fleisher); clinical Dx; amitriptyline prophylaxis 75–100 mg qhs (1 source)
+- [[cannabinoid-hyperemesis-syndrome]] — CHS: ADDT — CVS subtype from chronic heavy cannabis use; proposed criteria (≥3 episodes/yr, use >1 yr & >4×/wk, resolution ≥6 mo off cannabis); compulsive hot-water bathing (supportive, not pathognomonic); topical capsaicin 0.1% + haloperidol acutely, cannabis cessation + amitriptyline long-term, avoid opioids (1 source)
 
 #### Small Bowel
 
@@ -122,6 +124,7 @@ updated: 2026-07-17
 - [[acute-liver-failure]] — ALF: ADDT — O'Grady classification, INR/encephalopathy criteria, NAC for non-APAP early coma, CRRT for ammonia, no routine coagulopathy correction, no prophylactic antibiotics, KCC/MELD transplant criteria; ALL ALF → urgent LT center referral before formal criteria met per AASLD/AST 2025 (3 sources)
 - [[aki-in-cirrhosis]] — AKI in Cirrhosis/HRS-AKI: ADDT — ICA-AKI staging, HRS-AKI vs. ATN distinction, FEUrea preferred over FENa, terlipressin dosing/contraindications, RRT as bridge to transplant only, MELD paradox (1 source)
 - [[chronic-pancreatitis]] — Chronic pancreatitis: ADDT — Mechanistic vs. clinicopathologic definition; CT/MRI first-line then EUS/sMRCP/histology; TIGAR-O v2.0; M-ANNHEIM scoring; PRSS1/SPINK1/CFTR/CTRC genetics; surgery > endoscopy for obstructive CP (Cahen RCT); PERT for EPI only (not pain); antioxidants/celiac plexus block; alcohol + smoking cessation (Strong); no routine cancer screening (1 source)
+- [[exocrine-pancreatic-insufficiency]] — EPI: ADDT — suspect (CP/recurrent AP/PDAC/CF/pancreatic surgery) vs. consider (celiac/Crohn's/intestinal surgery/diabetes/ZES); fecal elastase-1 initial test (<100 µg/g = EPI, 100–200 indeterminate, valid on PERT); imaging cannot diagnose; PERT ≥40,000 USP lipase/meal with meals + H2/PPI for non-enteric-coated; fat-soluble vitamins + DXA q1–2y (1 source)
 - [[autoimmune-hepatitis]] — AIH: ADDT — simplified score (ANA/SMA/anti-LKM1/IgG/histology), type 1 vs. 2, budesonide contraindicated in cirrhosis/acute severe AIH, MMF preferred second-line over TAC, acute severe AIH/ALF → LT, withdrawal after ≥2y remission (50–87% relapse), AIH-PBC/PSC overlap (Paris criteria), anti-SLA=never withdraw, post-LT recurrence 36–68% at 5y (3 sources)
 - [[hepatocellular-carcinoma]] — HCC: LI-RADS non-invasive diagnosis (LR-1→LR-5/LR-M/LR-TIV), BCLC 2022 staging table, surveillance criteria (Table 1: cirrhosis/non-cirrhotic HBV/PAGE-B), recall algorithm, TACE/TARE locoregional ladder with unsuitability/refractoriness criteria, systemic therapy dosing (atezo+bev, durvalumab+tremelimumab, sorafenib 400 mg BID, lenvatinib 12/8 mg QD, regorafenib, cabozantinib, ramucirumab), adjuvant atezo+bev contraindicated post-resection/ablation (AASLD 2025 GS32R, Strong Level 1; IMbrave050 second-interim HR=0.90 non-significant), transplant criteria (Milan/UCSF/Up-to-seven/Extended Toronto/Kyoto/UNOS-DS; AFP thresholds), post-LT mTOR IS (within-Milan), recurrence management; NCCN 2026 first-line tiering (ipilimumab+nivolumab elevated to Preferred category 1 per CheckMate-9DW; atezo+bev; durvalumab+tremelimumab), strengthened EBRT/SBRT role; emerging-biomarker caveats (GALAD/MCD panels, PAGE-B/REAL-B) per AGA 2026 (7 sources)
 - [[immune-checkpoint-inhibitor-hepatitis]] — ICI hepatitis: onset 4–12 weeks, CTCAE-graded management (withhold ICI + steroids ± MMF), ipilimumab combinations highest rate (2 sources)
@@ -241,7 +244,7 @@ updated: 2026-07-17
 - [[probiotics]] — Probiotics: strain/dose-specific; AGA FOR (C diff prevention, pouchitis, NEC), AGAINST (peds gastroenteritis), trial-only elsewhere (1 source)
 - [[bismuth-quadruple-therapy]] — Bismuth-containing quadruple therapy: components, indications, and efficacy (1 source)
 - [[direct-acting-antivirals]] — DAA drug classes (NS3/4A + NS5A + NS5B); pangenotypic regimens (G/P, SOF/VEL); DDI table (cyclosporine); decompensated cirrhosis contraindications; see [[hepatitis-c]] for treatment tables (1 source)
-- [[somatostatin-analogs]] — Octreotide LAR/lanreotide; symptom + antiproliferative control in SSTR-positive GEP-NETs; carcinoid-syndrome and carcinoid-crisis management; PRRT timing (stub) (1 source)
+- [[somatostatin-analogs]] — Octreotide/lanreotide: SSTR2/5 agonism; acute variceal bleeding (octreotide 50 mcg bolus → 25–50 mcg/hr × 2–5 d); GEP-NET symptom + antiproliferative control and carcinoid crisis; refractory small-bowel vascular bleeding (octreotide LAR 90 mg monthly × 12 mo); biliary/glycemic adverse effects (3 sources)
 ---
 
 ## Anatomy
@@ -415,10 +418,12 @@ updated: 2026-07-17
 - [[aga-2024-pouchitis]] — AGA 2024: Management of Pouchitis and Inflammatory Pouch Disorders — antibiotic first-line, chronic antibiotic-dependent/refractory pathways, biologics for Crohn's-like pouch disease
 - [[aga-2024-fmt]] — AGA 2024: Fecal Microbiota-Based Therapies for Select GI Diseases — conventional FMT and FDA-approved products (RBL, fecal microbiota spores) for recurrent C diff; conditional against routine IBD/IBS use
 - [[aga-2024-barretts-eet]] — AGA 2024: Endoscopic Eradication Therapy of Barrett's Esophagus and Related Neoplasia — EET for HGD/IMC and LGD, EMR-first for visible lesions, post-CE-IM surveillance
+- [[aga-2024-chs]] — AGA 2024 Clinical Practice Update (Commentary): Cannabinoid Hyperemesis Syndrome — CVS Rome IV criteria; proposed CHS criteria (cannabis >1 yr & >4×/wk, resolution ≥6 mo off cannabis); hot-water bathing supportive; topical capsaicin/haloperidol acute, cannabis cessation + amitriptyline long-term, avoid opioids
 - [[aga-2024-upper-endoscopy-quality]] — AGA 2024: Quality Indicators for Upper GI Endoscopy — inspection time >7 min, IET benefit data, missed cancer rates, biopsy protocols (Barrett's ≥8 biopsies, updated Sydney system), GLP-1 RA pre-procedure guidance
 - [[aga-acg-2023-constipation]] — AGA-ACG 2023: Pharmacologic Management of Chronic Idiopathic Constipation — Chang, Chey, Imdad et al. Am J Gastroenterol 2023
 - [[aga-2023-biomarkers-cd]] — AGA 2023: Role of Biomarkers for the Management of Crohn's Disease — fecal calprotectin/CRP thresholds for treat-to-target monitoring vs endoscopy
 - [[aga-2023-biomarkers-uc]] — AGA 2023: Role of Biomarkers for the Management of Ulcerative Colitis — fecal calprotectin/CRP-guided monitoring strategy in symptomatic and remission states
+- [[aga-2023-epi]] — AGA 2023 Clinical Practice Update (Expert Review): Exocrine Pancreatic Insufficiency — 15 Best Practice Advice; fecal elastase-1 initial test (<100 µg/g EPI, valid on PERT); imaging cannot diagnose; PERT ≥40,000 USP lipase/meal + H2/PPI; fat-soluble vitamins + DXA q1–2y
 - [[aga-2022-aki-cirrhosis]] — AGA 2022: Diagnosis and Management of AKI in Cirrhosis — 14 BPA statements; HRS nomenclature update; terlipressin dosing/contraindications; FEUrea over FENa; RRT as bridge to transplant
 - [[aga-2022-hcc-systemic]] — AGA 2022: Systemic Therapy for Hepatocellular Carcinoma — first-line atezo+bev, sequencing of TKIs/IO, Child-Pugh considerations
 - [[aga-2022-ibs-c]] — AGA 2022: Pharmacological Management of IBS-C — linaclotide (strong), plecanatide, tenapanor, tegaserod, lubiprostone, PEG
