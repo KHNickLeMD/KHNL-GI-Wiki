@@ -237,7 +237,7 @@ Before initiating antibiotic therapy: make an objective effort to diagnose SIBO 
 
 ## See Also
 
-[[chronic-diarrhea]], [[irritable-bowel-syndrome]], [[celiac-disease]], [[chronic-pancreatitis]], [[disorders-of-gut-brain-interaction]], [[intestinal-methanogen-overgrowth]], [[acute-colonic-pseudo-obstruction]], [[rifaximin]], [[small-bowel-motility]]
+[[chronic-diarrhea]], [[irritable-bowel-syndrome]], [[celiac-disease]], [[chronic-pancreatitis]], [[disorders-of-gut-brain-interaction]], [[intestinal-methanogen-overgrowth]], [[abdominal-bloating-and-distention]], [[acute-colonic-pseudo-obstruction]], [[rifaximin]], [[small-bowel-motility]]
 
 ---
 

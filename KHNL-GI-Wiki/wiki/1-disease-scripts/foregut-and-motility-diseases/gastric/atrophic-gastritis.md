@@ -11,7 +11,7 @@ tags:
   - gastric-cancer
   - neuroendocrine-tumor
 created: 2026-05-15
-updated: 2026-06-27
+updated: 2026-07-19
 sources:
   - aga-2021-atrophic-gastritis
 ---
@@ -33,7 +33,7 @@ Intestinal metaplasia on gastric histopathology almost invariably implies underl
 
 **Clinical presentation:**
 
-- Typically asymptomatic or nonspecific ([[dyspepsia]], early satiety, epigastric discomfort)
+- Typically asymptomatic or nonspecific (dyspepsia, early satiety, epigastric discomfort)
 - Manifestations of micronutrient deficiency: fatigue, pallor (iron deficiency or B-12 deficiency), glossitis, peripheral neuropathy, macrocytic anemia
 - Pernicious anemia (PA) = late-stage AIG: macrocytic anemia + B-12 deficiency ± subacute combined degeneration
 
@@ -82,6 +82,8 @@ AG severity and extent determine gastric cancer risk. Two validated staging syst
 ---
 
 ## Differential Diagnosis
+
+*Workup: see [[dyspepsia]].*
 
 - **Reactive (chemical) gastropathy:** NSAIDs, bile acid reflux; no gland loss
 - **H. pylori gastritis without atrophy:** active/chronic inflammation present, glands intact
@@ -204,7 +206,7 @@ Metastasis rate: <10% for NETs ≤2 cm; ~20% for NETs >2 cm.
 
 ## See Also
 
-[[gastric-premalignant-conditions]], [[gastric-intestinal-metaplasia]], [[gastric-polyps]], [[gastric-adenocarcinoma]], [[gastroenteropancreatic-neuroendocrine-tumors]], [[helicobacter-pylori-infection]], [[celiac-disease]], [[endoscopic-ultrasound]], [[upper-endoscopy]]
+[[gastric-premalignant-conditions]], [[gastric-intestinal-metaplasia]], [[gastric-polyps]], [[gastric-adenocarcinoma]], [[gastroenteropancreatic-neuroendocrine-tumors]], [[helicobacter-pylori-infection]], [[celiac-disease]], [[endoscopic-ultrasound]], [[upper-endoscopy]], [[dyspepsia]]
 
 ---
 

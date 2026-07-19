@@ -4,7 +4,7 @@ category: disease-script
 tags: [uc, ulcerative-colitis, ibd, 5-asa, biologics, anti-tnf, vedolizumab, asuc, pancolitis, proctitis]
 created: 2026-05-07
 updated: 2026-07-16
-sources: [acg-2025-uc, aga-2024-uc-pharm, aga-2024-pouchitis, aga-2023-biomarkers-uc, acg-2019-uc, asge-2015-scenic-ibd-dysplasia, asge-2015-ibd, aga-2026-inpatient-ibd]
+sources: [acg-2025-uc, aga-2024-uc-pharm, aga-2024-pouchitis, aga-2023-biomarkers-uc, acg-2019-uc, asge-2015-scenic-ibd-dysplasia, asge-2015-ibd, aga-2026-inpatient-ibd, aga-2024-intestinal-ultrasound]
 ---
 
 # Ulcerative Colitis
@@ -99,7 +99,7 @@ Idiopathic chronic inflammatory disorder of the large intestine. Continuous muco
 - **Stool cultures + C. diff testing:** at diagnosis and with suspected flares
 - **[[colonoscopy|Colonoscopy]] with biopsies:** standard; biopsy endoscopically normal segments (histologic disease may extend beyond endoscopic extent)
 - **Sigmoidoscopy:** acceptable in severe disease (lower perforation risk); sufficient to assess severity + CMV biopsy
-- **Intestinal ultrasound (IUS):** noninvasive monitoring tool; BWT >3mm (colon) or >4mm (rectum) = active; detects response in 2 weeks; transperineal approach for rectum
+- **[[intestinal-ultrasound|Intestinal ultrasound (IUS)]]:** noninvasive monitoring tool; BWT >3mm (colon) or >4mm (rectum) = active; response detectable in 2 weeks; absolute BWT <2.8 mm predicts wk-8 endoscopic remission; in acute severe UC, ≥20% BWT reduction within 48h of IV steroids predicts steroid response; transperineal approach for rectum
 - **[[upper-endoscopy|Upper endoscopy]]/SB imaging:** NOT routinely needed if TI normal; order only if symptoms or CD concern
 
 ### Pre-Biologic Screening (same as for CD)
@@ -309,7 +309,7 @@ Idiopathic chronic inflammatory disorder of the large intestine. Continuous muco
 
 ## See Also
 
-[[crohns-disease]], [[inflammatory-bowel-disease]], [[uc-vs-crohns-comparison]], [[ibd-preventive-care]], [[clostridioides-difficile]], [[primary-sclerosing-cholangitis]], [[colorectal-cancer]], [[colonoscopy]], [[colon-ischemia]], [[pouchitis]], [[chronic-diarrhea]]
+[[crohns-disease]], [[inflammatory-bowel-disease]], [[uc-vs-crohns-comparison]], [[ibd-preventive-care]], [[intestinal-ultrasound]], [[clostridioides-difficile]], [[primary-sclerosing-cholangitis]], [[colorectal-cancer]], [[colonoscopy]], [[colon-ischemia]], [[pouchitis]], [[chronic-diarrhea]]
 
 ---
 
@@ -323,3 +323,4 @@ Idiopathic chronic inflammatory disorder of the large intestine. Continuous muco
 6. [[asge-2015-scenic-ibd-dysplasia|SCENIC International Consensus Statement on Surveillance and Management of Dysplasia in IBD (2015)]]
 7. [[asge-2015-ibd|ASGE Guideline: The Role of Endoscopy in Inflammatory Bowel Disease (2015)]]
 8. [[aga-2026-inpatient-ibd|AGA Clinical Practice Update on Inpatient Management of Adults With Inflammatory Bowel Disease: Expert Review (2026)]]
+9. [[aga-2024-intestinal-ultrasound|AGA Clinical Practice Update on the Role of Intestinal Ultrasound in Inflammatory Bowel Disease: Commentary (2024)]]

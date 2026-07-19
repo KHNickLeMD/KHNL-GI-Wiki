@@ -4,7 +4,7 @@ category: disease-script
 tags: [crohns, ibd, biologics, ileitis, colitis, perianal-fistula, stricture, fistula, anti-tnf]
 created: 2026-05-07
 updated: 2026-07-16
-sources: [acg-2025-crohns, aga-2025-crohns-pharm, aga-2021-crohns-pharm, aga-2023-biomarkers-cd, acg-2018-crohns, asge-2015-scenic-ibd-dysplasia, asge-2015-ibd, aga-2026-inpatient-ibd, aga-2026-therapeutic-endoscopy-ibd]
+sources: [acg-2025-crohns, aga-2025-crohns-pharm, aga-2021-crohns-pharm, aga-2023-biomarkers-cd, acg-2018-crohns, asge-2015-scenic-ibd-dysplasia, asge-2015-ibd, aga-2026-inpatient-ibd, aga-2026-therapeutic-endoscopy-ibd, aga-2024-intestinal-ultrasound]
 ---
 
 # Crohn's Disease
@@ -109,7 +109,7 @@ No single pathognomonic test. Diagnosis = integration of:
 
 - **MRE preferred:** young patients (<35y), expected serial imaging; no radiation; sensitivity ~similar to CTE
 - **CTE:** sensitivity ~90% for SB lesions; use when MRE unavailable or emergent
-- **Intestinal ultrasound (IUS):** noninvasive, no radiation; point-of-care; useful for bowel wall assessment and response monitoring; growing use in US
+- **[[intestinal-ultrasound|Intestinal ultrasound (IUS)]]:** noninvasive, no radiation; point-of-care; comparable to MRE for ileal activity; sonographic response = ≥25% BWT reduction, response identifiable within 3 months of biologic; postop recurrence if neo-TI BWT ≥3 mm + FC ≥50 µg/g (PPV 74%); growing use in US
 - **Pelvic MRI or [[endoscopic-ultrasound|EUS]]:** for perianal fistula mapping; >90% accuracy; MRI preferred for complex fistulas
 
 ### Pre-Biologic Screening
@@ -351,7 +351,7 @@ No single pathognomonic test. Diagnosis = integration of:
 
 ## See Also
 
-[[ulcerative-colitis]], [[inflammatory-bowel-disease]], [[uc-vs-crohns-comparison]], [[ibd-preventive-care]], [[clostridioides-difficile]], [[celiac-disease]], [[colorectal-cancer]], [[primary-sclerosing-cholangitis]], [[capsule-endoscopy]], [[colonoscopy]], [[chronic-diarrhea]]
+[[ulcerative-colitis]], [[inflammatory-bowel-disease]], [[uc-vs-crohns-comparison]], [[ibd-preventive-care]], [[intestinal-ultrasound]], [[clostridioides-difficile]], [[celiac-disease]], [[colorectal-cancer]], [[primary-sclerosing-cholangitis]], [[capsule-endoscopy]], [[colonoscopy]], [[chronic-diarrhea]]
 
 ---
 
@@ -366,3 +366,4 @@ No single pathognomonic test. Diagnosis = integration of:
 7. [[asge-2015-ibd|ASGE Guideline: The Role of Endoscopy in Inflammatory Bowel Disease (2015)]]
 8. [[aga-2026-inpatient-ibd|AGA Clinical Practice Update on Inpatient Management of Adults With Inflammatory Bowel Disease: Expert Review (2026)]]
 9. [[aga-2026-therapeutic-endoscopy-ibd|AGA Clinical Practice Update on the Role of Therapeutic Endoscopy in Inflammatory Bowel Disease: Commentary (2026)]]
+10. [[aga-2024-intestinal-ultrasound|AGA Clinical Practice Update on the Role of Intestinal Ultrasound in Inflammatory Bowel Disease: Commentary (2024)]]

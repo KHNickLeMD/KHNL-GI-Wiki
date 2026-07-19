@@ -6,6 +6,35 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-07-19] lint | Ingested 2 AGA CPUs (bloating/belching + intestinal ultrasound → 2 new entity pages); obesity stub expanded; index reconciled (213 sources); atrophic-gastritis validated; 0 broken links wiki-wide
+
+**Sources ingested (2 — guideline/CPU tier, per ingestion priority):**
+- `[[aga-2023-bloating]]` — AGA 2023 CPU on Belching, Abdominal Bloating, and Distention (Gastroenterology 2023;165:791–800). All 15 Best Practice Advice statements captured verbatim.
+- `[[aga-2024-intestinal-ultrasound]]` — AGA 2024 CPU (Commentary) on Intestinal Ultrasound in IBD (Clin Gastroenterol Hepatol 2024;22:1790–1795).
+
+**Pages created:**
+- `[[abdominal-bloating-and-distention]]` (diagnostic schema) — belching subtypes (gastric/supragastric/aerophagia), Rome IV criteria, symptom-driven workup, neuromodulator/behavioral therapy, probiotics-not-recommended, APD.
+- `[[intestinal-ultrasound]]` (concept) — BWT + Doppler metrics, IUS-vs-MRE/CTE table, treat-to-target thresholds (CD sonographic response ≥25% BWT reduction, postop BWT ≥3mm+FC≥50; UC BWT <2.8mm, ASUC ≥20% at 48h), special populations, no-dysplasia-surveillance limit.
+
+**Stub expanded (1):**
+- `[[obesity]]` — full ADDT from ingested AGA obesity-pharm + intragastric-balloon guidelines (ranked pharmacotherapy, IGB peri-procedural detail + safety, lifestyle, bariatric surgery). Was the stalest page (stub since 2026-06-09).
+
+**Pages updated / connectivity:**
+- `[[crohns-disease]]`, `[[ulcerative-colitis]]` — IUS mention converted to inline link + treat-to-target thresholds; source added to frontmatter + See Also + Sources.
+- New bloating schema linked from `[[disorders-of-gut-brain-interaction]]` (B3/C4 rows + See Also), `[[irritable-bowel-syndrome]]`, `[[small-intestinal-bacterial-overgrowth]]`.
+- `[[atrophic-gastritis]]` (stalest non-stub) validated: added `*Workup: see [[dyspepsia]].*` DDx pointer, de-duplicated dyspepsia link, added to See Also, date bumped.
+
+**Hygiene:**
+- Index counts reconciled: **213 sources | 111 disease scripts | 20 diagnostic schemas | 2 general procedures | 20 advanced procedures | 17 meds | 0 anatomy | 37 concepts | 1 synthesis**; index `updated:` → 2026-07-19.
+- Whole-wiki broken-link scan: **0 broken links**. No `.DS_Store`/OS artifacts. No untracked `raw/` files (inbox sync added none this pass).
+
+**Remaining for user triage:**
+- **Decision gap (needs not-yet-ingested source):** `[[atrophic-gastritis]]` names OLGA/OLGIM staging with "Stage III–IV = elevated cancer risk" but lacks the full stage-assignment matrix; the cited AGA 2021 CPU does not contain it — would need the original Rugge/Capelle OLGA/OLGIM papers. Not filled (source fidelity).
+- **Missing entity pages** referenced in atrophic-gastritis DDx (no stubs created): pernicious-anemia, autoimmune-gastritis, reactive-gastropathy, lymphocytic-gastritis, eosinophilic-gastritis, ménétrier-disease, iron-deficiency-anemia, vitamin-b12-deficiency. Create when a supporting ingested source is confirmed.
+- **Uningested queue:** ~28 AGA CPUs remain (lowercase-named PDFs in `raw/GI Guidelines/AGA/`) plus a handful of ACG/ASGE items; all tier-1. Lectures/chalk talks (~60) remain gated — report only, ingest on user naming. 4 RCTs already ingested.
+
+---
+
 ## [2026-07-18] lint | raw/ corpus RESTORED via inbox sync + pdftotext works → ingest era reopened; ingested AGA EPI + AGA CHS CPUs (3 new disease pages); somatostatin-analogs stub expanded; nausea/gastroparesis/pancreatic links wired
 
 **⚠ Structural reversal — ingest is possible again:**

@@ -1,7 +1,7 @@
 ---
 title: "Wiki Index"
 category: index
-updated: 2026-07-18
+updated: 2026-07-19
 ---
 
 # KHNL GI Encyclopedia — Master Index
@@ -150,7 +150,7 @@ updated: 2026-07-18
 
 - [[gastroenteropancreatic-neuroendocrine-tumors]] — GEP-NETs: ADDT — WHO grading (Ki-67/mitoses; NET G1/2/3 vs NEC), gastric types 1/2/3, site/size-based endoscopic vs surgical resection, SSTR-PET, somatostatin analogs, PRRT (Lu-177 dotatate), functioning-tumor syndromes; treatment-algorithm Mermaid (1 source)
 - [[gastrointestinal-stromal-tumor]] — GIST: ADDT — most common GI mesenchymal tumor; KIT(CD117)/DOG1+; KIT/PDGFRA/SDH mutational testing (essential, predictive); risk by size/mitoses/site + rupture; surgery + neoadjuvant/adjuvant imatinib (≥3y high-risk); TKI sequence imatinib→sunitinib→regorafenib→ripretinib, avapritinib for PDGFRA D842V; treatment-algorithm Mermaid (1 source)
-- [[obesity]] — Weight-management framework: lifestyle, pharmacotherapy, endoscopic and surgical bariatric therapy (2 sources)
+- [[obesity]] — Obesity (BMI ≥30, or ≥27 + comorbidity): ranked pharmacotherapy (semaglutide 2.4mg > liraglutide > phentermine-topiramate > naltrexone-bupropion; against orlistat), intragastric balloon (responder rates, PPI prophylaxis, antiemetics, safety), lifestyle foundation, bariatric surgery (2 sources)
 - [[post-transplant-lymphoproliferative-disorder]] — PTLD: EBV-driven lymphoproliferation post-transplant IS, IS reduction first-line, rituximab (stub)
 - [[sclerosing-mesenteritis]] — Sclerosing mesenteritis: ADDT — idiopathic mesenteric fibroinflammation; CT misty mesentery/fat ring sign/pseudocapsule, usually dx without biopsy; only 1–6% need treatment; prednisone + tamoxifen 10 mg BID; surgery non-curative (1 source)
 - [[hypermobile-ehlers-danlos-syndrome]] — Hypermobile EDS / hEDS: ADDT — heritable connective-tissue disorder with GI manifestations; DGBI overlap, POTS/MCAS associations, Beighton/2017 criteria, motility & pelvic-floor testing, multidisciplinary symptom management (1 source)
@@ -162,6 +162,7 @@ updated: 2026-07-18
 - [[dysphagia]] — Dysphagia: oropharyngeal vs. esophageal localization, solids-vs-liquids discriminator, EGD-first algorithm with mandatory EoE biopsies, HRM/FLIP when EGD normal, alarm features for malignancy (0 sources)
 - [[chronic-diarrhea]] — Chronic diarrhea (>4 wk): watery/inflammatory/fatty + secretory/osmotic classification, stool osmotic gap, calprotectin-guided algorithm, microscopic colitis/bile acid diarrhea/celiac/EPI workup, positive IBS-D diagnosis, role of endoscopy (ASGE 2010) (1 source)
 - [[nausea-and-vomiting]] — Nausea & vomiting: vs regurgitation/rumination, acute vs chronic, GI/CNS/metabolic/functional DDx, mandatory pregnancy test, EGD + 4-hr gastric emptying for gastroparesis, CVS/CHS recognition (0 sources)
+- [[abdominal-bloating-and-distention]] — Belching (gastric vs supragastric vs aerophagia), bloating vs distention, Rome IV criteria, symptom-driven workup (2-wk diet trial, celiac serology, anorectal testing), neuromodulator/behavioral therapy, probiotics not recommended, APD (1 source)
 - [[jaundice]] — Jaundice: bilirubin fractionation (unconjugated/conjugated), hemolysis vs Gilbert, R-ratio hepatocellular vs cholestatic, RUQ US → MRCP/EUS/ERCP for biliary dilation, cholangitis/painless-jaundice red flags (0 sources)
 - [[dyspepsia]] — Dyspepsia: ACG/CAG 2017 — age ≥60 → EGD (raised from ≥55); age <60 → H. pylori test-and-treat (Strong/High) → PPI → TCA/prokinetic → psychotherapy; alarm features alone have low PPV; FD subtypes (PDS/EPS) not response-predictive; SSRIs ineffective (1 source)
 - [[laryngopharyngeal-symptoms]] — LPS vs. LPRD: San Diego Consensus algorithm — laryngoscopy → esophageal symptom bifurcation → EGD/pH-impedance/wireless pH; laryngeal hyperresponsiveness; LRT; neuromodulators (1 source)
@@ -282,6 +283,7 @@ updated: 2026-07-18
 - [[inflammatory-bowel-disease]] — IBD overview: Crohn's vs. UC comparison table, shared biologic classes, DILI in IBD, inpatient-management framework (admission, VTE prophylaxis, discharge), links to disease scripts (1 source)
 - [[iron-overload-and-iron-metabolism]] — Iron metabolism: hepcidin-ferroportin axis, intestinal absorption physiology, primary vs. secondary iron overload pathophysiology, key lab interpretation (stub)
 - [[intestinal-methanogen-overgrowth]] — IMO: archaea vs. bacteria distinction, M. smithii, constipation association, CH4 breath test threshold, rifaximin + neomycin treatment (stub)
+- [[intestinal-ultrasound]] — IUS for IBD monitoring: BWT + Doppler hyperemia metrics, comparable to MRE/CTE, treat-to-target thresholds (CD ≥25% BWT reduction; UC BWT <2.8mm, ASUC ≥20% at 48h), pregnancy/comorbid/obese populations, no dysplasia surveillance (1 source)
 - [[small-bowel-motility]] — Small bowel motility: MMC phase III as protective against SIBO, dysmotility causes and SIBO risk (stub)
 - [[antibody-mediated-rejection-liver-transplant]] — AMR in liver transplant: Banff 2022 criteria (C4d + DSA + histology + graft dysfunction); treatment (plasmapheresis/IVIG/rituximab/bortezomib); open questions (1 source)
 - [[hepatopulmonary-syndrome-portopulmonary-hypertension]] — HPS and POPH: bubble echocardiography screening; RHC indications; POPH mPAP ≥45 mmHg + PVR >3 WU = LT contraindication; candidacy thresholds; **HPS severity bands (PaO₂ cutoffs) absent from the surviving source** (1 source)
@@ -420,9 +422,11 @@ updated: 2026-07-18
 - [[aga-2024-barretts-eet]] — AGA 2024: Endoscopic Eradication Therapy of Barrett's Esophagus and Related Neoplasia — EET for HGD/IMC and LGD, EMR-first for visible lesions, post-CE-IM surveillance
 - [[aga-2024-chs]] — AGA 2024 Clinical Practice Update (Commentary): Cannabinoid Hyperemesis Syndrome — CVS Rome IV criteria; proposed CHS criteria (cannabis >1 yr & >4×/wk, resolution ≥6 mo off cannabis); hot-water bathing supportive; topical capsaicin/haloperidol acute, cannabis cessation + amitriptyline long-term, avoid opioids
 - [[aga-2024-upper-endoscopy-quality]] — AGA 2024: Quality Indicators for Upper GI Endoscopy — inspection time >7 min, IET benefit data, missed cancer rates, biopsy protocols (Barrett's ≥8 biopsies, updated Sydney system), GLP-1 RA pre-procedure guidance
+- [[aga-2024-intestinal-ultrasound]] — AGA 2024 Clinical Practice Update (Commentary): Role of Intestinal Ultrasound in IBD — BWT + Doppler hyperemia metrics, comparable to MRE/CTE, treat-to-target thresholds (CD sonographic response ≥25% BWT reduction, postop BWT ≥3mm+FC≥50; UC BWT <2.8mm, ASUC ≥20% at 48h), special populations, no dysplasia surveillance
 - [[aga-acg-2023-constipation]] — AGA-ACG 2023: Pharmacologic Management of Chronic Idiopathic Constipation — Chang, Chey, Imdad et al. Am J Gastroenterol 2023
 - [[aga-2023-biomarkers-cd]] — AGA 2023: Role of Biomarkers for the Management of Crohn's Disease — fecal calprotectin/CRP thresholds for treat-to-target monitoring vs endoscopy
 - [[aga-2023-biomarkers-uc]] — AGA 2023: Role of Biomarkers for the Management of Ulcerative Colitis — fecal calprotectin/CRP-guided monitoring strategy in symptomatic and remission states
+- [[aga-2023-bloating]] — AGA 2023 Clinical Practice Update (Expert Review): Belching, Abdominal Bloating, and Distention — 15 Best Practice Advice; gastric vs supragastric belching (impedance-pH/HRM), Rome IV bloating/distention criteria, symptom-driven testing (2-wk diet trial, celiac serology, anorectal testing for pelvic-floor), central neuromodulators + brain–gut behavioral therapy, probiotics not recommended, APD
 - [[aga-2023-epi]] — AGA 2023 Clinical Practice Update (Expert Review): Exocrine Pancreatic Insufficiency — 15 Best Practice Advice; fecal elastase-1 initial test (<100 µg/g EPI, valid on PERT); imaging cannot diagnose; PERT ≥40,000 USP lipase/meal + H2/PPI; fat-soluble vitamins + DXA q1–2y
 - [[aga-2022-aki-cirrhosis]] — AGA 2022: Diagnosis and Management of AKI in Cirrhosis — 14 BPA statements; HRS nomenclature update; terlipressin dosing/contraindications; FEUrea over FENa; RRT as bridge to transplant
 - [[aga-2022-hcc-systemic]] — AGA 2022: Systemic Therapy for Hepatocellular Carcinoma — first-line atezo+bev, sequencing of TKIs/IO, Child-Pugh considerations
@@ -537,4 +541,4 @@ updated: 2026-07-18
 
 ---
 
-*Total: 209 sources | 108 disease scripts | 19 diagnostic schemas | 2 general procedures | 20 advanced procedures | 17 meds | 0 anatomy | 36 concepts | 1 synthesis (on-disk page counts as of 2026-07-17; index Sources section lists all 209 source pages)*
+*Total: 213 sources | 111 disease scripts | 20 diagnostic schemas | 2 general procedures | 20 advanced procedures | 17 meds | 0 anatomy | 37 concepts | 1 synthesis (on-disk page counts as of 2026-07-19)*
