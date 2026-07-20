@@ -444,7 +444,7 @@ Advance care planning (ACP) should be offered to all patients receiving palliati
 
 ## See Also
 
-[[li-rads]], [[hcc-surveillance]], [[focal-liver-lesions]], [[radiofrequency-ablation]], [[liver-transplantation]], [[portal-hypertension]], [[chronic-hepatitis-b]], [[hepatitis-c]], [[direct-acting-antivirals]], [[alcohol-associated-liver-disease]], [[nafld-masld]], [[hereditary-hemochromatosis]], [[wilson-disease]], [[autoimmune-hepatitis]], [[immune-checkpoint-inhibitor-hepatitis]], [[hepatocellular-adenoma]], [[focal-nodular-hyperplasia]], [[hepatic-hemangioma]], [[hepatic-cysts]], [[budd-chiari-syndrome]], [[post-transplant-lymphoproliferative-disorder]], [[cholangiocarcinoma]], [[calcineurin-inhibitors]], [[tacrolimus]], [[liver-biopsy]], [[upper-endoscopy]], [[hepatic-encephalopathy]], [[ascites]], [[obesity]]
+[[li-rads]], [[hcc-surveillance]], [[focal-liver-lesions]], [[radiofrequency-ablation]], [[liver-transplantation]], [[portal-hypertension]], [[chronic-hepatitis-b]], [[hepatitis-c]], [[direct-acting-antivirals]], [[alcohol-associated-liver-disease]], [[nafld-masld]], [[hereditary-hemochromatosis]], [[wilson-disease]], [[acute-hepatic-porphyria]], [[autoimmune-hepatitis]], [[immune-checkpoint-inhibitor-hepatitis]], [[hepatocellular-adenoma]], [[focal-nodular-hyperplasia]], [[hepatic-hemangioma]], [[hepatic-cysts]], [[budd-chiari-syndrome]], [[post-transplant-lymphoproliferative-disorder]], [[cholangiocarcinoma]], [[calcineurin-inhibitors]], [[tacrolimus]], [[liver-biopsy]], [[upper-endoscopy]], [[hepatic-encephalopathy]], [[ascites]], [[obesity]]
 
 ---
 

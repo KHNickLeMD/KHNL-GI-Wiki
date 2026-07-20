@@ -6,7 +6,31 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
-## [2026-07-19] lint | Ingested 2 AGA CPUs (bloating/belching + intestinal ultrasound → 2 new entity pages); obesity stub expanded; index reconciled (213 sources); atrophic-gastritis validated; 0 broken links wiki-wide
+## [2026-07-20] lint | Ingested 2 AGA CPUs (alpha-gal syndrome + acute hepatic porphyrias → 2 new disease scripts + 2 med stubs); 3 stalest pages validated; index reconciled (215 sources); 0 broken links / 0 orphans wiki-wide
+
+**Sources ingested (2 — guideline/CPU tier, per ingestion priority; no lectures auto-ingested):**
+- `[[aga-2023-alpha-gal-syndrome]]` — AGA 2023 CPU Commentary on Alpha-Gal Syndrome for the GI Clinician (McGill et al., CGH 2023;21:891–896). Take-Home Messages captured verbatim.
+- `[[aga-2023-acute-hepatic-porphyria]]` — AGA 2023 CPU on Diagnosis & Management of Acute Hepatic Porphyrias (Wang et al., Gastroenterology 2023;164:484–491). All 12 Best Practice Advice statements captured verbatim.
+
+**Pages created (4):**
+- `[[alpha-gal-syndrome]]` (`1-disease-scripts/other/`) — ADDT; 3-part diagnosis (symptoms + ↑alpha-gal IgE + ≥1-mo avoidance-diet response; positive IgE alone insufficient, 31–35% asymptomatic seroprevalence); red-flag exclusions; full mammalian-product avoidance list + acceptable foods; acute-exposure management (antihistamine + self-injectable epinephrine); tick/permethrin precautions; cetuximab/gelatin/pancreatic-enzyme/bioprosthetic-valve cross-reactivity; 6–12-mo IgE recheck + quarter-serving self-challenge; cofactors (fat/NSAIDs/exercise/alcohol).
+- `[[acute-hepatic-porphyria]]` (`1-disease-scripts/hepatology-diseases/`) — ADDT; 4-type classification table (AIP/HCP/VP/ALAD, gene/inheritance); diagnostic cutoff (random urine ALA+PBG ≥5× ULN, creatinine-normalized) + testing-timing caveats + genetic confirmation; hemin 3–4 mg/kg/day ×~4d + IV carbohydrate ~300 g/day + porphyrinogenic-drug avoidance; givosiran SC monthly for ≥4 attacks/year; HCC surveillance from age 50 (US q6mo), ferritin >1000 → phlebotomy, ALT >3× ULN monitoring on givosiran, annual eGFR. Tables 1–2 recreated as markdown.
+- `[[givosiran]]`, `[[hemin]]` — sourced med stubs (`5-meds/`).
+
+**Stalest-page validation (Content + Style Guide):**
+- `[[preprocedure-testing]]` — PASS, no changes (all 8 ASGE selective-testing criteria + qualifiers present; links resolve).
+- `[[norovirus]]` — PASS, no changes (antimotility qualifier + supportive-only decision fully stated; DDx schema pointer present).
+- `[[entamoeba-histolytica-infection]]` — fixed Sources #2 alias (stray colon) to match source-page title; `updated:` bumped.
+
+**Connectivity added:** `[[alpha-gal-syndrome]]` → See Also of `[[irritable-bowel-syndrome]]` and `[[chronic-diarrhea]]` (IgE-mediated mimic); `[[acute-hepatic-porphyria]]` → See Also of `[[hepatocellular-carcinoma]]` (predisposing, non-cirrhotic) and `[[liver-transplantation]]` (metabolic indication).
+
+**Hygiene:** whole-wiki scan — 0 broken wiki links, 0 orphan pages, 0 duplicate basenames. Index `updated:` → 2026-07-20; 2 disease + 2 med + 2 source entries added.
+
+**Reported (not actioned this pass):**
+- **Figures uncaptured (pymupdf/fitz still unavailable):** alpha-gal Figs 1–2 (mechanism; dx/mgmt algorithm) and AHP Fig 1 (diagnostic workflow) — decision content is reproduced in text/tables, so no clinical detail lost; screenshot on a future pass when figure tooling returns.
+- **Uningested raw remaining (guideline/CPU tier, per-pass cap = 2):** several AGA CPUs still lack pages — `esophageal immunity and infection`, `ibd pain`, `diet and nutrition in ibd`, AGA `portal vein thrombosis` CPU, and others in `raw/GI Guidelines/AGA/`. Next passes continue at 2/pass.
+- **Missing med pages named as plain text:** `metronidazole`/`tinidazole`/`paromomycin`/`iodoquinol` (referenced across C. diff/SBP/amebiasis) and `amebic-liver-abscess` — deferred; building real pages needs sources beyond the two acute-diarrhea guidelines (no thin stubs invented).
+- **Lectures/chalk talks:** ~60 transcripts remain gated — not auto-ingested; awaiting user selection by name.
 
 **Sources ingested (2 — guideline/CPU tier, per ingestion priority):**
 - `[[aga-2023-bloating]]` — AGA 2023 CPU on Belching, Abdominal Bloating, and Distention (Gastroenterology 2023;165:791–800). All 15 Best Practice Advice statements captured verbatim.

@@ -3,7 +3,7 @@ title: "Entamoeba histolytica Infection (Amebiasis)"
 category: disease-script
 tags: [entamoeba, amebiasis, amebic-dysentery, parasitic-diarrhea, liver-abscess, travelers-diarrhea, metronidazole]
 created: 2026-05-19
-updated: 2026-07-12
+updated: 2026-07-20
 sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
 ---
 
@@ -76,4 +76,4 @@ sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
 ## Sources
 
 1. [[acg-2016-acute-diarrhea|ACG 2016: Diagnosis, Treatment, and Prevention of Acute Diarrheal Infections in Adults]]
-2. [[idsa-2017-infectious-diarrhea|IDSA 2017: Clinical Practice Guidelines for the Diagnosis and Management of Infectious Diarrhea]]
+2. [[idsa-2017-infectious-diarrhea|IDSA 2017 Clinical Practice Guidelines for the Diagnosis and Management of Infectious Diarrhea]]

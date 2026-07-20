@@ -1,7 +1,7 @@
 ---
 title: "Wiki Index"
 category: index
-updated: 2026-07-19
+updated: 2026-07-20
 ---
 
 # KHNL GI Encyclopedia — Master Index
@@ -145,6 +145,7 @@ updated: 2026-07-19
 - [[budd-chiari-syndrome]] — Budd-Chiari: ADDT — hepatic venous outflow obstruction, MPN/JAK2 most common etiology (40–50%), caudate hypertrophy, stepwise management (AC → angioplasty → TIPS → LT), HCC surveillance q6mo regardless of fibrosis, comprehensive thrombophilia workup mandatory (1 source)
 - [[hereditary-hemorrhagic-telangiectasia]] — HHT (Osler-Weber-Rendu): ADDT — hepatic LVMs in 32–73%, no routine LVM screening, escalation ladder to bevacizumab at specialized centers, SMAD4→JPS/HHT overlap; **Curaçao criteria absent from the corpus — needs an HHT-specific source** (3 sources)
 - [[hepatic-encephalopathy]] — HE: 4-axis classification (type A/B/C, WHC severity, time course, precipitants); OHE = diagnosis of exclusion; ammonia alone has NO diagnostic/staging/prognostic value (Rec 9); lactulose first-line (Rec 19); rifaximin add-on after 2nd episode (Rec 26); protein restriction never indicated (1.2–1.5 g/kg/day); late-night snack (Rec 32); 33 recommendations (AASLD/EASL 2014) (1 source)
+- [[acute-hepatic-porphyria]] — AHP: ADDT — inborn errors of heme synthesis (AIP/HCP/VP/ALAD; gene/inheritance table); acute neurovisceral attacks; dx by random urine ALA+PBG ≥5× ULN (creatinine-normalized) → genetic confirmation; hemin 3–4 mg/kg/day ×~4d + IV carbohydrate ~300 g/day, avoid porphyrinogenic drugs; givosiran SC monthly for ≥4 attacks/year; HCC surveillance from age 50 (US q6mo) + annual eGFR (1 source)
 
 ### Other
 
@@ -154,6 +155,7 @@ updated: 2026-07-19
 - [[post-transplant-lymphoproliferative-disorder]] — PTLD: EBV-driven lymphoproliferation post-transplant IS, IS reduction first-line, rituximab (stub)
 - [[sclerosing-mesenteritis]] — Sclerosing mesenteritis: ADDT — idiopathic mesenteric fibroinflammation; CT misty mesentery/fat ring sign/pseudocapsule, usually dx without biopsy; only 1–6% need treatment; prednisone + tamoxifen 10 mg BID; surgery non-curative (1 source)
 - [[hypermobile-ehlers-danlos-syndrome]] — Hypermobile EDS / hEDS: ADDT — heritable connective-tissue disorder with GI manifestations; DGBI overlap, POTS/MCAS associations, Beighton/2017 criteria, motility & pelvic-floor testing, multidisciplinary symptom management (1 source)
+- [[alpha-gal-syndrome]] — Alpha-gal syndrome: ADDT — IgE-mediated mammalian-meat allergy (galactose-α-1,3-galactose) from tick-bite sensitization; GI phenotype of delayed (1–6 h) abdominal pain/diarrhea/nausea; 3-part dx (symptoms + ↑alpha-gal IgE + response to ≥1-mo avoidance; positive IgE alone insufficient); mammalian-product avoidance + tick precautions, epinephrine/antihistamine for acute exposure; cetuximab/gelatin/bioprosthetic-valve cross-reactivity (1 source)
 
 ---
 
@@ -230,6 +232,8 @@ updated: 2026-07-19
 
 - [[antibiotic-prophylaxis-cirrhosis]] — SBP primary prophylaxis in cirrhotic UGB: IV ceftriaxone during acute GI hemorrhage (AASLD 2021); norfloxacin withdrawn from US 2014 → ciprofloxacin; duration controversy (5–7d vs. shorter, 2025 systematic review) (2 sources)
 - [[vonoprazan]] — PCAB; H. pylori dual/triple therapy (FDA-approved 2022); potent acid suppression; no CYP2C19 dependency (1 source)
+- [[givosiran]] — ALAS1-targeting siRNA for recurrent acute hepatic porphyria (≥4 attacks/year); SC monthly; biochem+genetic confirmation, avoid in pregnancy; monitor ALT/eGFR (1 source)
+- [[hemin]] — IV heme therapy for acute AHP attacks & prophylaxis; 3–4 mg/kg/day ×~4 days via high-flow central vein (1 source)
 - [[linaclotide]] — GC-C agonist; IBS-C 290 µg, CIC 145 µg; diarrhea-limiting (stub)
 - [[plecanatide]] — GC-C agonist (uroguanylin analog); IBS-C 3/6 mg, CIC 3 mg (stub)
 - [[prucalopride]] — Selective 5-HT4 agonist; CIC 2 mg daily; no CV signal (stub)
@@ -428,6 +432,8 @@ updated: 2026-07-19
 - [[aga-2023-biomarkers-uc]] — AGA 2023: Role of Biomarkers for the Management of Ulcerative Colitis — fecal calprotectin/CRP-guided monitoring strategy in symptomatic and remission states
 - [[aga-2023-bloating]] — AGA 2023 Clinical Practice Update (Expert Review): Belching, Abdominal Bloating, and Distention — 15 Best Practice Advice; gastric vs supragastric belching (impedance-pH/HRM), Rome IV bloating/distention criteria, symptom-driven testing (2-wk diet trial, celiac serology, anorectal testing for pelvic-floor), central neuromodulators + brain–gut behavioral therapy, probiotics not recommended, APD
 - [[aga-2023-epi]] — AGA 2023 Clinical Practice Update (Expert Review): Exocrine Pancreatic Insufficiency — 15 Best Practice Advice; fecal elastase-1 initial test (<100 µg/g EPI, valid on PERT); imaging cannot diagnose; PERT ≥40,000 USP lipase/meal + H2/PPI; fat-soluble vitamins + DXA q1–2y
+- [[aga-2023-acute-hepatic-porphyria]] — AGA 2023 Clinical Practice Update (Expert Review): Diagnosis and Management of Acute Hepatic Porphyrias (Wang et al., Gastroenterology 2023;164:484–491) — 12 Best Practice Advice; AHP types (AIP/HCP/VP/ALAD); random urine ALA+PBG ≥5× ULN screen → genetic confirmation; hemin/IV carbohydrate for attacks; givosiran for ≥4 attacks/year; HCC + CKD surveillance
+- [[aga-2023-alpha-gal-syndrome]] — AGA 2023 Clinical Practice Update (Commentary): Alpha-Gal Syndrome for the GI Clinician (McGill et al., CGH 2023;21:891–896) — Take-Home Messages; GI-predominant phenotype; 3-part diagnosis (symptoms + ↑alpha-gal IgE + avoidance-diet response); mammalian-product avoidance; tick-bite precautions; cetuximab/gelatin cross-reactivity
 - [[aga-2022-aki-cirrhosis]] — AGA 2022: Diagnosis and Management of AKI in Cirrhosis — 14 BPA statements; HRS nomenclature update; terlipressin dosing/contraindications; FEUrea over FENa; RRT as bridge to transplant
 - [[aga-2022-hcc-systemic]] — AGA 2022: Systemic Therapy for Hepatocellular Carcinoma — first-line atezo+bev, sequencing of TKIs/IO, Child-Pugh considerations
 - [[aga-2022-ibs-c]] — AGA 2022: Pharmacological Management of IBS-C — linaclotide (strong), plecanatide, tenapanor, tegaserod, lubiprostone, PEG

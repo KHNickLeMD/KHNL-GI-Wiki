@@ -136,7 +136,7 @@ Prompt structural evaluation (colonoscopy ± cross-sectional imaging) and lower 
 
 ## See Also
 
-[[acute-diarrhea]], [[irritable-bowel-syndrome]], [[celiac-disease]], [[crohns-disease]], [[ulcerative-colitis]], [[microscopic-colitis]], [[bile-acid-diarrhea]], [[clostridioides-difficile]], [[small-intestinal-bacterial-overgrowth]], [[chronic-pancreatitis]], [[giardiasis]], [[cryptosporidiosis]], [[colon-ischemia]], [[colorectal-cancer]], [[colonoscopy]], [[disorders-of-gut-brain-interaction]]
+[[acute-diarrhea]], [[irritable-bowel-syndrome]], [[celiac-disease]], [[crohns-disease]], [[ulcerative-colitis]], [[microscopic-colitis]], [[bile-acid-diarrhea]], [[clostridioides-difficile]], [[small-intestinal-bacterial-overgrowth]], [[chronic-pancreatitis]], [[giardiasis]], [[cryptosporidiosis]], [[colon-ischemia]], [[colorectal-cancer]], [[alpha-gal-syndrome]], [[colonoscopy]], [[disorders-of-gut-brain-interaction]]
 
 ---
 
