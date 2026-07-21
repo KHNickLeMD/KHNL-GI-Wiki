@@ -64,7 +64,7 @@ All surveillance recommendations assume high-quality examination. [[usmstf-2020-
 
 All intervals assume high-quality colonoscopy with complete polypectomy. [[usmstf-2020-followup-colonoscopy]]
 
-Does NOT apply to: IBD, hereditary syndromes (Lynch, FAP), personal history of CRC, [[serrated-polyposis-syndrome|serrated polyposis syndrome]], malignant polyp.
+Does NOT apply to: IBD, hereditary syndromes ([[lynch-syndrome|Lynch]], [[familial-adenomatous-polyposis|FAP]]), personal history of CRC, [[serrated-polyposis-syndrome|serrated polyposis syndrome]], malignant polyp.
 
 ### Adenomas
 

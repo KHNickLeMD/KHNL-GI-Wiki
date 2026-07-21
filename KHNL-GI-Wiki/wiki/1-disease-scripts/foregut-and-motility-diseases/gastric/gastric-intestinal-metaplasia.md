@@ -122,7 +122,7 @@ GIM affects approximately 5% of the US population. Prevalence is higher in high-
 
 ### 3. Monitoring After H. pylori Eradication
 
-- Confirm eradication with urea breath test or stool antigen test ≥4 weeks after completing treatment and ≥2 weeks after stopping PPIs
+- Confirm eradication with urea breath test or stool antigen test ≥4 weeks after completing treatment and ≥2 weeks after stopping [[proton-pump-inhibitors|PPIs]]
 - GIM may not regress after eradication but progression risk is reduced; surveillance decisions remain as above
 
 ### 4. If Dysplasia Is Found (ACG 2025)

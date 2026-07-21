@@ -199,7 +199,7 @@ Key discharge planning elements:
 
 ## See Also
 
-[[acute-liver-failure]], [[acute-on-chronic-liver-failure]], [[portal-hypertension]], [[aki-in-cirrhosis]], [[spontaneous-bacterial-peritonitis]], [[ascites]], [[variceal-upper-gi-bleeding]], [[liver-transplantation]], [[rifaximin]], [[alcohol-associated-liver-disease]], [[hepatitis-c]]
+[[acute-liver-failure]], [[acute-on-chronic-liver-failure]], [[portal-hypertension]], [[aki-in-cirrhosis]], [[spontaneous-bacterial-peritonitis]], [[ascites]], [[variceal-upper-gi-bleeding]], [[liver-transplantation]], [[rifaximin]], [[alcohol-associated-liver-disease]], [[hepatitis-c]], [[nutrition-in-liver-disease]]
 
 ---
 

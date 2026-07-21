@@ -72,7 +72,7 @@ Chronic, immune/antigen-mediated esophageal disease. Characterized by esophageal
 
 | Condition | Distinguishing features |
 |---|---|
-| [[gerd\|GERD]] | No eosinophils on biopsy or responds to PPI (but PPI response ≠ exclude EoE) |
+| [[gerd\|GERD]] | No eosinophils on biopsy or responds to [[proton-pump-inhibitors\|PPI]] (but PPI response ≠ exclude EoE) |
 | Proton pump inhibitor-responsive esophageal eosinophilia (PPIREE) | Now considered subset of EoE, not separate entity |
 | [[achalasia\|Achalasia]] / motility disorders | Manometry abnormal; esophageal body aperistalsis |
 | Eosinophilic gastroenteritis | Eosinophilia extends beyond esophagus |
@@ -254,7 +254,7 @@ Chronic, immune/antigen-mediated esophageal disease. Characterized by esophageal
 
 ## See Also
 
-[[dysphagia]], [[gerd]], [[achalasia]], [[celiac-disease]], [[barretts-esophagus]], [[inflammatory-bowel-disease]], [[crohns-disease]], [[upper-endoscopy]], [[colonoscopy]]
+[[dysphagia]], [[gerd]], [[achalasia]], [[celiac-disease]], [[barretts-esophagus]], [[inflammatory-bowel-disease]], [[crohns-disease]], [[upper-endoscopy]], [[colonoscopy]], [[proton-pump-inhibitors]]
 
 ---
 

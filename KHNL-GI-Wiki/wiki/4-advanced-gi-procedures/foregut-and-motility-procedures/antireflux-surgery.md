@@ -43,7 +43,7 @@ The hiatal hernia size + Hill grade pair is the operative decision point ([[asge
 | **>2 cm** | **III or IV** | cTIF after multidisciplinary review (Conditional / Very Low), or surgical fundoplication |
 
 - Hill grade I–IV criteria are **not reproduced here** — see [[reflux-testing]] (their home page).
-- TIF 2.0 candidates must also meet **≥1** of: chronic GERD ≥6 months, long-term PPI use ≥6 months, refractory GERD, regurgitation-predominant GERD, or patient preference to avoid long-term PPI ([[asge-2024-gerd]]).
+- TIF 2.0 candidates must also meet **≥1** of: chronic GERD ≥6 months, long-term [[proton-pump-inhibitors|PPI]] use ≥6 months, refractory GERD, regurgitation-predominant GERD, or patient preference to avoid long-term PPI ([[asge-2024-gerd]]).
 
 ---
 

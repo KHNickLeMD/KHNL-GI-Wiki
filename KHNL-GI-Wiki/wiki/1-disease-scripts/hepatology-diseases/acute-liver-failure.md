@@ -118,7 +118,7 @@ ALF must be distinguished from conditions with overlapping presentations:
 **Metabolic:**
 
 - Ceruloplasmin ([[wilson-disease|Wilson disease]] screening)
-- Ferritin (hemochromatosis, Still's disease)
+- Ferritin ([[hereditary-hemochromatosis|hemochromatosis]], Still's disease)
 
 ### Imaging
 

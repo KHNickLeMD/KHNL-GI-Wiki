@@ -34,7 +34,7 @@ Rome V (2026) classifies **34 adult** and **22 pediatric** DGBI across anatomic 
 | Category | Disorders |
 |---|---|
 | **A. Esophageal** | Functional chest pain (A1), Functional heartburn (A2), Reflux hypersensitivity (A3), Globus (A4), Functional [[dysphagia]] (A5) |
-| **B. Gastroduodenal** | Functional [[dyspepsia]] — PDS (B1a), EPS (B1b); [[nausea-and-vomiting\|Nausea/vomiting]]: CNVS (B2a), CVS (B2b), CHS (B2c); [[abdominal-bloating-and-distention|Belching]]: supragastric (B3a), gastric (B3b), **inability to belch** (B3c, *new*); [[rumination-syndrome\|Rumination]] (B4) |
+| **B. Gastroduodenal** | Functional [[dyspepsia]] — PDS (B1a), EPS (B1b); [[nausea-and-vomiting\|Nausea/vomiting]]: CNVS (B2a), [[cyclic-vomiting-syndrome\|CVS]] (B2b), [[cannabinoid-hyperemesis-syndrome\|CHS]] (B2c); [[abdominal-bloating-and-distention|Belching]]: supragastric (B3a), gastric (B3b), **inability to belch** (B3c, *new*); [[rumination-syndrome\|Rumination]] (B4) |
 | **C. Bowel** | [[irritable-bowel-syndrome\|IBS]] with subtypes (C1a–d); [[chronic-idiopathic-constipation\|Chronic constipation]] (C2); Functional diarrhea (C3); [[abdominal-bloating-and-distention|Functional abdominal bloating]] (C4); Unclassified bowel disorders (C5); Opioid-induced constipation (C6) |
 | **D. Centrally mediated GI pain** | CAPS (D1); **Abdominal migraine** (D2, *new adult diagnosis*); Narcotic bowel syndrome (D3) |
 | **E. Gallbladder and SOD** | Biliary-type pain (E1); Dysfunctional gallbladder disorder (E2); Biliary SOD (E3); Pancreatic SOD (E4) |
@@ -196,7 +196,7 @@ Severity-guided biopsychosocial approach:
 
 ## See Also
 
-[[irritable-bowel-syndrome]], [[dyspepsia]], [[abdominal-bloating-and-distention]], [[gastroparesis]], [[test-and-treat]], [[chronic-idiopathic-constipation]], [[rumination-syndrome]], [[postinfectious-ibs]], [[defecation-disorders]], [[proctalgia-syndromes]], [[fecal-incontinence]], [[nausea-and-vomiting]], [[dysphagia]], [[loperamide]], [[biofeedback-therapy]]
+[[irritable-bowel-syndrome]], [[dyspepsia]], [[abdominal-bloating-and-distention]], [[gastroparesis]], [[test-and-treat]], [[chronic-idiopathic-constipation]], [[rumination-syndrome]], [[postinfectious-ibs]], [[defecation-disorders]], [[proctalgia-syndromes]], [[fecal-incontinence]], [[nausea-and-vomiting]], [[cyclic-vomiting-syndrome]], [[cannabinoid-hyperemesis-syndrome]], [[dysphagia]], [[loperamide]], [[biofeedback-therapy]]
 
 ---
 

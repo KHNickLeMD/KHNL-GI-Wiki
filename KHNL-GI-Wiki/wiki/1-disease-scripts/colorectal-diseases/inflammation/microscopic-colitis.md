@@ -28,7 +28,7 @@ sources: [asge-2010-diarrhea, acg-2016-acute-diarrhea, acg-2022-celiac]
 - [[inflammatory-bowel-disease|IBD]] — the other most common colonoscopic finding in chronic diarrhea ([[ulcerative-colitis]], [[crohns-disease]]). [[asge-2010-diarrhea]]
 - [[celiac-disease|Celiac disease]] — and note the reverse: **microscopic colitis is part of the systematic workup for nonresponsive celiac disease** (persistent symptoms despite 6–12 months of a gluten-free diet). [[acg-2022-celiac]]
 - [[irritable-bowel-syndrome|IBS]] — normal mucosa in both; only biopsy separates them.
-- [[small-intestinal-bacterial-overgrowth|SIBO]], pancreatic insufficiency, lactose/fructose intolerance — co-listed in the nonresponsive-celiac differential. [[acg-2022-celiac]]
+- [[small-intestinal-bacterial-overgrowth|SIBO]], [[exocrine-pancreatic-insufficiency|pancreatic insufficiency]], lactose/fructose intolerance — co-listed in the nonresponsive-celiac differential. [[acg-2022-celiac]]
 - Eosinophilic gastroenteritis, Whipple's disease. [[acg-2016-acute-diarrhea]]
 - **Prep- and drug-induced mimics:** sodium phosphate preps can cause mucosal changes mimicking IBD (usually distinguishable on histology); NSAIDs can cause terminal-ileal changes mimicking Crohn's. [[asge-2010-diarrhea]]
 

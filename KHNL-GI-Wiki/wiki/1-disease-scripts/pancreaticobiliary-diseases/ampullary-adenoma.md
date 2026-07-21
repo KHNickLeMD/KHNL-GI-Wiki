@@ -110,7 +110,7 @@ Endoscopic resection has lower adverse-event rates (~14%) than local surgical ex
 - **>33% circumferential** involvement → consider surgery. Giant (>3 cm) hemicircumferential LSTs carry higher adverse-event (bleeding) rates (26.3% vs 3.2% for <3 cm).
 - Minor papilla / pancreas divisum adenomas: dorsal PD stenting reported during resection.
 - Adjuvant APC/electrocoagulation for residual/recurrent superficial tissue.
-- Post-procedure (one high-volume protocol): observe ~4 h, clear liquids day of procedure → normal diet next day, hold antiplatelets 7 days, twice-daily PPI ×2 weeks.
+- Post-procedure (one high-volume protocol): observe ~4 h, clear liquids day of procedure → normal diet next day, hold antiplatelets 7 days, twice-daily [[proton-pump-inhibitors|PPI]] ×2 weeks.
 
 ### Surveillance
 

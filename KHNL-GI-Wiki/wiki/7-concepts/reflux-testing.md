@@ -9,7 +9,7 @@ sources: [asge-2024-gerd, acg-2020-esophageal-physiologic-testing]
 
 ## Overview
 
-Reflux testing refers to the suite of diagnostic tools used to objectively confirm [[gerd|gastroesophageal reflux disease (GERD)]], characterize its severity, and guide procedural decision-making. Clinical diagnosis based on symptoms alone is sufficient for empiric PPI trials, but objective confirmation is required before endoscopic or surgical anti-reflux therapy.
+Reflux testing refers to the suite of diagnostic tools used to objectively confirm [[gerd|gastroesophageal reflux disease (GERD)]], characterize its severity, and guide procedural decision-making. Clinical diagnosis based on symptoms alone is sufficient for empiric [[proton-pump-inhibitors|PPI]] trials, but objective confirmation is required before endoscopic or surgical anti-reflux therapy.
 
 ---
 

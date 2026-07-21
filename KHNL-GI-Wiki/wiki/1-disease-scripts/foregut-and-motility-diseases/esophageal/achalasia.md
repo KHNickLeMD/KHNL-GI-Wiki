@@ -58,7 +58,7 @@ Disease progresses: Type III → Type II → Type I as esophagus dilates over ti
 
 *Workup: see [[dysphagia]].*
 
-- **Pseudoachalasia** — malignancy at GEJ (gastric, [[esophageal-cancer|esophageal cancer]], metastatic); shorter history, older age, rapid weight loss → EUS or CT
+- **Pseudoachalasia** — malignancy at GEJ ([[gastric-adenocarcinoma|gastric]], [[esophageal-cancer|esophageal cancer]], metastatic); shorter history, older age, rapid weight loss → EUS or CT
 - GERD with peptic stricture
 - [[eosinophilic-esophagitis|Eosinophilic esophagitis]] — rings/furrows/exudate; ≥15 eos/hpf on biopsy
 - [[distal-esophageal-spasm|Distal esophageal spasm (DES)]] — Type III achalasia shares features; differentiated on HRM
@@ -136,7 +136,7 @@ flowchart TD
 - Predictors of favorable PD response: age >45y, female sex, non-dilated esophagus, LES pressure post-PD <10 mmHg
 - **Perforation risk:** 1.9% median (range 0–16%); requires surgery if large/mediastinal contamination
 - Do NOT perform routine post-dilation gastrograffin esophagram; reserve for clinical suspicion of perforation
-- GERD occurs in 15–35% post-PD → PPI therapy
+- GERD occurs in 15–35% post-PD → [[proton-pump-inhibitors|PPI]] therapy
 
 > **Recommendation:** Serial PD is the most effective non-surgical treatment. Superior to botulinum toxin. Equivalent to LHM at 5 years. (Strong; High evidence)
 

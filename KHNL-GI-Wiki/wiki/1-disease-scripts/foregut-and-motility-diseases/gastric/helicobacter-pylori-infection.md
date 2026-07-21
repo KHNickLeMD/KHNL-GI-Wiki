@@ -3,8 +3,8 @@ title: "Helicobacter pylori Infection"
 category: disease-script
 tags: [h-pylori, peptic-ulcer, gastric-cancer, malt-lymphoma, eradication, dyspepsia, gastric, foregut]
 created: 2026-05-07
-updated: 2026-07-17
-sources: [acg-2017-hp-guidelines, acg-2024-hp-treatment]
+updated: 2026-07-21
+sources: [acg-2017-hp-guidelines, acg-2024-hp-treatment, aga-2024-pcab]
 ---
 
 # *Helicobacter pylori* Infection
@@ -125,12 +125,13 @@ sources: [acg-2017-hp-guidelines, acg-2024-hp-treatment]
 - **Levofloxacin-based regimens:** only with confirmed levofloxacin susceptibility
 - BQT available as Pylera (bismuth subcitrate + metronidazole + tetracycline, 3 capsules qid); add PPI bid
 
-**Vonoprazan (PCAB) rationale:**
+**Vonoprazan ([[potassium-competitive-acid-blockers|P-CAB]]) rationale:**
 
 - Potassium-competitive acid blocker; faster onset, deeper, more sustained acid suppression than PPIs (pH >6 for longer duration)
 - Superior to PPIs as partner for clarithromycin-based regimens (PHALCON-HP trial)
 - Vonoprazan dual therapy avoids clarithromycin entirely; FDA-approved 2022 (Voquezna)
 - PCAB preferred when available, especially for clarithromycin-containing regimens
+- **AGA 2024 P-CAB CPU** ([[aga-2024-pcab]]) — BPA 7: **use P-CABs in place of PPIs in eradication regimens for most patients**; pooled first-line eradication 92% vs 80% (P-CAB vs PPI), largest benefit in **clarithromycin-resistant** strains; short HP course blunts P-CAB cost/safety concerns. Concordant with 2022 Maastricht VI (100% agreement)
 
 **Susceptibility testing:**
 
@@ -180,3 +181,4 @@ sources: [acg-2017-hp-guidelines, acg-2024-hp-treatment]
 
 1. [[acg-2017-hp-guidelines|ACG Clinical Guideline: Treatment of Helicobacter pylori Infection (2017)]]
 2. [[acg-2024-hp-treatment|ACG Clinical Guideline: Treatment of Helicobacter pylori Infection (2024)]]
+3. [[aga-2024-pcab|AGA Clinical Practice Update on Integrating Potassium-Competitive Acid Blockers Into Clinical Practice (2024)]]

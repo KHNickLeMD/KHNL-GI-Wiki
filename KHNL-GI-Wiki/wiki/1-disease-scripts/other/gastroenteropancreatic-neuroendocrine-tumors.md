@@ -47,7 +47,7 @@ Prognosis is driven by **grade, differentiation, primary site, and stage (tumor 
 
 ## Differential Diagnosis
 
-By presentation: [[pancreatic-cancer|pancreatic adenocarcinoma]] and other solid pancreatic masses, [[pancreatic-cysts|cystic pancreatic neoplasms]], [[colorectal-cancer]] and other GI [[gastric-premalignant-conditions|epithelial malignancies]], lymphoma, [[gastrointestinal-stromal-tumor|GI stromal tumor]] and other subepithelial lesions, metastatic disease, and — for functioning tumors — non-neoplastic causes of the relevant hormonal syndrome (e.g., PPI-induced hypergastrinemia mimicking gastrinoma; reactive hypoglycemia mimicking insulinoma). Multifocal duodenopancreatic NETs, gastrinoma, or coexisting primary hyperparathyroidism should prompt evaluation for **MEN1**.
+By presentation: [[pancreatic-cancer|pancreatic adenocarcinoma]] and other solid pancreatic masses, [[pancreatic-cysts|cystic pancreatic neoplasms]], [[colorectal-cancer]] and other GI [[gastric-premalignant-conditions|epithelial malignancies]], lymphoma, [[gastrointestinal-stromal-tumor|GI stromal tumor]] and [[subepithelial-lesion|other subepithelial lesions]], metastatic disease, and — for functioning tumors — non-neoplastic causes of the relevant hormonal syndrome (e.g., PPI-induced hypergastrinemia mimicking gastrinoma; reactive hypoglycemia mimicking insulinoma). Multifocal duodenopancreatic NETs, gastrinoma, or coexisting primary hyperparathyroidism should prompt evaluation for **MEN1**.
 
 ## Diagnostics
 
@@ -87,7 +87,7 @@ flowchart TD
 
 ## See Also
 
-[[atrophic-gastritis]], [[gastric-premalignant-conditions]], [[peptic-ulcer-disease]], [[pancreatic-cancer]], [[pancreatic-cysts]], [[colorectal-cancer]], [[gastrointestinal-stromal-tumor]], [[somatostatin-analogs]], [[endoscopic-ultrasound]], [[upper-endoscopy]], [[colonoscopy]]
+[[atrophic-gastritis]], [[gastric-premalignant-conditions]], [[peptic-ulcer-disease]], [[pancreatic-cancer]], [[pancreatic-cysts]], [[colorectal-cancer]], [[gastrointestinal-stromal-tumor]], [[subepithelial-lesion]], [[somatostatin-analogs]], [[endoscopic-ultrasound]], [[upper-endoscopy]], [[colonoscopy]]
 
 ---
 

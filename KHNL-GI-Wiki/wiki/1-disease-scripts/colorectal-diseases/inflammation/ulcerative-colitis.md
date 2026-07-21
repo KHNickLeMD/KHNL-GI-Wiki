@@ -81,7 +81,7 @@ Idiopathic chronic inflammatory disorder of the large intestine. Continuous muco
 | C. difficile colitis | Toxin+ PCR; risk factors (antibiotics, hospitalization, [[inflammatory-bowel-disease\|IBD]]) |
 | [[colon-ischemia\|Ischemic colitis]] | Vascular risk factors; watershed distribution; transient course |
 | [[microscopic-colitis\|Microscopic colitis]] | Watery nonbloody diarrhea; normal endoscopy; biopsy required |
-| Radiation proctitis | History of pelvic radiation |
+| [[radiation-proctopathy\|Radiation proctitis]] | History of pelvic radiation |
 | Diversion colitis | Post-ostomy segment; mucous discharge |
 | Medication-induced colitis | NSAID, mycophenolate, checkpoint inhibitor (immune checkpoint colitis) |
 
@@ -309,7 +309,7 @@ Idiopathic chronic inflammatory disorder of the large intestine. Continuous muco
 
 ## See Also
 
-[[crohns-disease]], [[inflammatory-bowel-disease]], [[uc-vs-crohns-comparison]], [[ibd-preventive-care]], [[intestinal-ultrasound]], [[clostridioides-difficile]], [[primary-sclerosing-cholangitis]], [[colorectal-cancer]], [[colonoscopy]], [[colon-ischemia]], [[pouchitis]], [[chronic-diarrhea]]
+[[crohns-disease]], [[inflammatory-bowel-disease]], [[uc-vs-crohns-comparison]], [[ibd-preventive-care]], [[intestinal-ultrasound]], [[clostridioides-difficile]], [[primary-sclerosing-cholangitis]], [[colorectal-cancer]], [[colonoscopy]], [[colon-ischemia]], [[microscopic-colitis]], [[radiation-proctopathy]], [[pouchitis]], [[chronic-diarrhea]]
 
 ---
 

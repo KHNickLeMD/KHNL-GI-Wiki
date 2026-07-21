@@ -117,7 +117,7 @@ Acute hepatic porphyrias (AHP) are rare inborn errors of heme metabolism in whic
 
 ### Prophylaxis for Recurrent Attacks
 - **BPA 7:** for recurrent attacks (**≥4/year**), consider outpatient prophylaxis with **[[hemin|prophylactic heme therapy]]** or **[[givosiran]]**.
-- **Prophylactic IV [[hemin|hemin]]:** off-label; effectiveness at preventing attacks less established than for aborting them; complications include indwelling catheters, infection, and **iron overload** (monitor — see below).
+- **Prophylactic IV [[hemin|hemin]]:** off-label; effectiveness at preventing attacks less established than for aborting them; complications include indwelling catheters, infection, and **[[iron-overload-and-iron-metabolism|iron overload]]** (monitor — see below).
 - **[[givosiran]]:** ALAS1-specific siRNA-GalNAc, **subcutaneous monthly**; FDA-approved for adults (US), EMA for ≥12 y (EU). Prescribe **only for biochemically AND genetically confirmed** recurrent attacks. **Avoid in pregnancy / pregnancy planning.** Monitor liver enzymes, BUN/creatinine, homocysteine, amylase, lipase; may worsen eGFR in a subset.
 
 ### Liver Transplantation
@@ -127,15 +127,15 @@ Acute hepatic porphyrias (AHP) are rare inborn errors of heme metabolism in whic
 - **Genetically screen related living donors** — asymptomatic *HMBS*-variant donors may cause poor post-transplant outcomes. Perform at centers experienced with AHP (including preoperative hemin).
 
 ### Long-Term Monitoring & Surveillance
-- **Liver disease (BPA 9):** monitor **annually**. Aminotransferases elevated in ~13% during attacks (28% at baseline in ENVISION); abnormal LFTs → investigate alternative etiologies (e.g., NASH, iron overload); liver biopsy may help.
+- **Liver disease (BPA 9):** monitor **annually**. Aminotransferases elevated in ~13% during attacks (28% at baseline in ENVISION); abnormal LFTs → investigate alternative etiologies (e.g., [[nafld-masld|NASH]], iron overload); [[liver-biopsy|liver biopsy]] may help.
   - On ≥monthly prophylactic hemin (9% iron by weight): **ferritin and iron every 3–6 months**; if **ferritin >1000 ng/mL → therapeutic phlebotomy.**
   - On [[givosiran]]: **ALT >3× ULN** reported in first 3–6 months → **monitor liver enzymes monthly during that period**; if normal, reduce to twice/year.
-- **HCC surveillance (BPA 10):** risk **1.5%–1.8%**; **begin at age 50 y — [[hepatocellular-carcinoma|liver ultrasound every 6 months]], regardless of symptom severity.** Female predominance 2.5×; HCC (and cholangiocarcinoma) may occur **without fibrosis/cirrhosis**; AFP role unclear (not reliably elevated even with high tumor burden).
+- **[[hcc-surveillance|HCC surveillance]] (BPA 10):** risk **1.5%–1.8%**; **begin at age 50 y — [[hepatocellular-carcinoma|liver ultrasound every 6 months]], regardless of symptom severity.** Female predominance 2.5×; HCC (and [[cholangiocarcinoma]]) may occur **without fibrosis/cirrhosis**; AFP role unclear (not reliably elevated even with high tumor burden).
 - **CKD surveillance (BPA 11):** on treatment, **serum creatinine and eGFR at least annually** (more frequently on givosiran). CKD 29% and hypertension 43% (US Porphyrias Consortium); porphyria-associated kidney disease in up to 59% of symptomatic AIP (eGFR decline ~1 mL/min/1.73 m²/year); EXPLORE — 68% reduced eGFR, 28% stage 3a/3b/4 CKD. **Optimize blood-pressure control.** Kidney transplant is treatment of choice for ESRD (ALA/PBG rise between dialysis sessions; improves AIP symptoms via increased clearance).
 - **Counsel on long-term complications (BPA 12):** neuropathy, CKD, hypertension, HCC, and the need for ongoing monitoring — including asymptomatic high excretors, who merit annual monitoring.
 
 ## See Also
-[[hemin]], [[givosiran]], [[hepatocellular-carcinoma]], [[liver-transplantation]]
+[[hemin]], [[givosiran]], [[hepatocellular-carcinoma]], [[hcc-surveillance]], [[liver-transplantation]], [[liver-biopsy]], [[iron-overload-and-iron-metabolism]]
 
 ---
 

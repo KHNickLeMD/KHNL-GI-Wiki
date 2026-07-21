@@ -15,7 +15,7 @@ sources: [acg-2017-hp-guidelines]
 
 | Drug | Dose | Frequency |
 |---|---|---|
-| PPI (e.g. omeprazole 20mg) | Standard dose | Twice daily |
+| [[proton-pump-inhibitors|PPI]] (e.g. omeprazole 20mg) | Standard dose | Twice daily |
 | Bismuth subsalicylate | 525mg | Four times daily |
 | Metronidazole | 250mg | Four times daily |
 | Tetracycline | 500mg | Four times daily |

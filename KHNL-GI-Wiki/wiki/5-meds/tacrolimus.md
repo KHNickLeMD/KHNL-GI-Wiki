@@ -56,7 +56,7 @@ CYP3A4 substrate — major interactions:
 - Macrolide antibiotics (clarithromycin, erythromycin)
 - Calcium channel blockers (diltiazem, verapamil)
 - Grapefruit juice
-- Amiodarone, danazol, proton pump inhibitors
+- Amiodarone, danazol, [[proton-pump-inhibitors|proton pump inhibitors]]
 - Nirmitrelavir/ritonavir (Paxlovid) — dramatic increase; requires dose adjustment
 
 **Decrease TAC levels (CYP3A4 inducers):**

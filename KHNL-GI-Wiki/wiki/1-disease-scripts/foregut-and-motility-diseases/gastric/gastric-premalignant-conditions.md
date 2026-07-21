@@ -22,7 +22,7 @@ sources:
 
 Histopathologic stages along the Correa cascade that precede [[gastric-adenocarcinoma|gastric adenocarcinoma]]: [[atrophic-gastritis|atrophic gastritis (AG)]] → [[gastric-intestinal-metaplasia|gastric intestinal metaplasia (GIM)]] → dysplasia (LGD/HGD). [[helicobacter-pylori-infection|H. pylori]] is the dominant risk factor (attributable risk 75–89%). US 5-year GC survival is 36%; early detection is curative (>95% 5-year survival for early GC).
 
-**GC disparity:** Incidence is 2–13× higher in non-White US populations (East Asian, Hispanic, Black, AIAN) vs non-Hispanic White. Korean Americans have NCGA rates comparable to CRC in the general population (70/100,000 py).
+**GC disparity:** Incidence is 2–13× higher in non-White US populations (East Asian, Hispanic, Black, AIAN) vs non-Hispanic White. Korean Americans have NCGA rates comparable to [[colorectal-cancer|CRC]] in the general population (70/100,000 py).
 
 ---
 

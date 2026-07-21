@@ -22,7 +22,7 @@ A management strategy for **uninvestigated [[dyspepsia]]** in which patients are
 - H. pylori-associated [[peptic-ulcer-disease|peptic ulcer disease]] is the most common treatable cause of [[dyspepsia]]
 - Eradication resolves dyspepsia in a meaningful proportion (~10% NNT over 12 months)
 - Avoids the cost and risk of early endoscopy in low-risk patients
-- Preferred over empiric PPI therapy or prompt endoscopy in appropriate patients
+- Preferred over empiric [[proton-pump-inhibitors|PPI]] therapy or prompt endoscopy in appropriate patients
 
 ---
 

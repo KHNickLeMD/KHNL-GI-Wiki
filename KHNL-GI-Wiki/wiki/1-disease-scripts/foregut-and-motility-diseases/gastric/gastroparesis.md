@@ -58,7 +58,7 @@ sources: [acg-2022-gastroparesis, aga-2025-gastroparesis, surjanhata-2025-consti
 |---|---|---|
 | **Idiopathic (IG)** | Unknown; ~30–50% of cases | Often young women; may follow viral illness; generally poorer pharmacologic response if dominated by pain + abuse history |
 | **Diabetic (DG)** | Type 1 > Type 2 DM; autonomic neuropathy | Glycemic control directly impacts GE; HbA1c significantly associated with 4-hour retention on GE scan |
-| **Post-surgical (PSG)** | Vagotomy, fundoplication, Nissen, bariatric, esophagectomy | Vagal nerve injury impairs gastric accommodation and antral motor function; pyloromyotomy data strongest for PSG |
+| **Post-surgical (PSG)** | Vagotomy, [[antireflux-surgery|fundoplication]], Nissen, [[bariatric-surgery|bariatric]], esophagectomy | Vagal nerve injury impairs gastric accommodation and antral motor function; pyloromyotomy data strongest for PSG |
 | **Other** | Parkinson's disease, connective tissue disease (scleroderma), hypothyroidism, medications, post-infectious | Parkinson's and dyspeptic idiopathics respond better to prokinetics; connective tissue disease has poor pharmacologic outcomes |
 
 ---

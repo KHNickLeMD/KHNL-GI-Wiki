@@ -6,6 +6,40 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-07-21] lint | Ingested 2 AGA 2024 CPUs (Cyclic Vomiting Syndrome + P-CABs); new P-CAB drug-class + PPI stub; Child-Pugh/MELD/ALBI operative tables added to cirrhosis (top wiki-wide decision gap closed); 14-batch parallel link pass; PTLD stub expanded; index reconciled (217 sources); 0 broken links
+
+**Sources ingested (2 — guideline/CPU tier, per ingestion priority; no lectures auto-ingested):**
+- `[[aga-2024-cvs]]` — AGA 2024 CPU (Commentary) on Diagnosis & Management of Cyclic Vomiting Syndrome (Levinthal, Staller, Venkatesan; Gastroenterology 2024;167:804–811). Rome IV Dx criteria, ANMS-CVSA severity strata, 4-phase model, mimic workup, and the full prophylactic/abortive medication table (Table 1) captured.
+- `[[aga-2024-pcab]]` — AGA 2024 CPU (Expert Review) on Integrating Potassium-Competitive Acid Blockers Into Clinical Practice (Patel, Laine, Moayyedi, Wu; Gastroenterology 2024;167:1228–1238). All 9 Best Practice Advice statements captured verbatim.
+
+**Pages created:**
+- `[[potassium-competitive-acid-blockers]]` — new P-CAB drug-class page (`5-meds/`); mechanism-vs-PPI table + indication-by-indication BPA guidance (GERD/HP/PUD).
+- `[[proton-pump-inhibitors]]` — new PPI stub (`5-meds/`); flagged real core gap — many pages reference PPIs with no home page. Expandable from ingested GERD/PUD/HP sources.
+
+**Pages updated (ingest):**
+- `[[cyclic-vomiting-syndrome]]` — expanded with dedicated CVS CPU: added Severity Assessment (mild vs moderate–severe drives prophylaxis), CVS-vs-CHS boundary, full workup (no routine gastric emptying scan), prophylactic/abortive medication tables, ED management. Now sourced to `aga-2024-cvs` + `aga-2024-chs`.
+- `[[cirrhosis]]` — **added the full Child-Turcotte-Pugh operative point table + class bands, MELD-Na formula, and ALBI grade** (sourced to `[[nccn-2026-hcc]]`). Closes the single most-flagged wiki-wide decision gap: ~10 hepatology/variceal/TIPS/transplant pages name CTP class / MELD thresholds; the score criteria now have a computable home the others defer to.
+- `[[gerd]]`, `[[helicobacter-pylori-infection]]`, `[[peptic-ulcer-disease]]`, `[[vonoprazan]]` — folded in the P-CAB CPU positioning (LA A/B vs C/D split; "P-CABs in place of PPIs for HP" BPA 7; PUD BPA 8–9). Frontmatter + `## Sources` updated.
+
+**Stalest-page validation (3 oldest `updated:`):**
+- `[[post-transplant-lymphoproliferative-disorder]]` (was 2026-06-09, a stub) — **expanded to full ADDT page** from its ingested source `[[aasld-2012-liver-transplant-long-term]]` (incidence, risk factors, histopath-required Dx, IS-reduction-first treatment ladder). Source lacks WHO histologic subclassification/staging → flagged, not invented.
+- `[[preprocedure-testing]]`, `[[norovirus]]` — validated decision-sufficient against their sources; dates bumped only.
+
+**Parallel link + decision-gap pass (14 subagent batches across all wiki folders):**
+- Inline `[[links]]` densified wiki-wide (esp. new `[[proton-pump-inhibitors]]` first-mentions across esophageal/gastric/hepatology/meds/schemas); cross-references added (disease↔med↔concept↔schema). All additive; every target verified.
+- Whole-wiki broken-link scan: **0 broken links** (2 introduced by PTLD expansion — `immunosuppression`, `rituximab` — de-linked rather than stubbed).
+
+**Decision gaps remaining (for user triage / future passes — NOT invented from memory):**
+- **Child-Pugh/MELD now on `[[cirrhosis]]`**, but pages that name it (portal-hypertension, portal-vein-thrombosis, SBP, variceal-UGIB, TIPS, HCC, ACLF, Budd-Chiari, PBC) should be cross-linked to it — partially done; finish next pass.
+- **LA grade A–D esophagitis criteria** have no home page (referenced by GERD, Barrett's, ambulatory-reflux-monitoring, P-CAB). Candidate concept page (criteria in ingested GERD/Barrett's sources).
+- Named-without-criteria: Rutgeerts score (`crohns-disease`), Truelove-Witts numeric cutoffs (`ulcerative-colitis`), CHADS2/CHA2DS2-VASc components (`anticoagulation-gi-bleeding`), Siewert + PD-L1 CPS (`esophageal-cancer`/`gastric-adenocarcinoma`), TNM/IDEA (`colorectal-cancer`), Rockall (`upper-gi-bleeding`). CTSI ≥7-vs-≥8 conflict (`acute-pancreatitis` vs its source) needs the ACG 2024 PDF to adjudicate.
+
+**Missing-page candidates flagged (not created):** reflux-hypersensitivity, EGJOO, Dieulafoy lesion, GAVE, portal-hypertensive-gastropathy, SRUS, cyclosporine, lactulose, mesalamine, ursodeoxycholic-acid, AIP, PERT, amitriptyline/TCA class, IBD biologics (vedolizumab/ustekinumab/infliximab/upadacitinib).
+
+**Uningested raw remaining (guideline/CPU tier — report only, 2-file/pass cap reached):** ~25 AGA lowercase CPUs still uningested (e.g. extraesophageal GERD, gastric-cancer screening, GLP-1 before endoscopy, portal vein thrombosis, ostomies, IBD-pain, nonampullary duodenal lesions, EUS-guided GB drainage, advances in POEM, g-POEM, NIT in MASLD, vasoconstrictors+albumin in cirrhosis). Lectures/chalk-talks present but **gated — not auto-ingested**; await user selection by name.
+
+---
+
 ## [2026-07-20] lint | Ingested 2 AGA CPUs (alpha-gal syndrome + acute hepatic porphyrias → 2 new disease scripts + 2 med stubs); 3 stalest pages validated; index reconciled (215 sources); 0 broken links / 0 orphans wiki-wide
 
 **Sources ingested (2 — guideline/CPU tier, per ingestion priority; no lectures auto-ingested):**

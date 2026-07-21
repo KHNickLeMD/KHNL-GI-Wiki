@@ -46,12 +46,12 @@ Outpatient DDx after excluding structural disease:
 - migraine
 - functional chronic nausea and vomiting syndrome
 
-**ED priority** — exclude life-threatening mimics first: acute abdomen, bowel obstruction, mesenteric ischemia, pancreatitis, myocardial infarction.
+**ED priority** — exclude life-threatening mimics first: acute abdomen, bowel obstruction, [[acute-mesenteric-ischemia|mesenteric ischemia]], [[acute-pancreatitis|pancreatitis]], myocardial infarction.
 
 ## Diagnostics
 
 - **Clinical diagnosis**; no confirmatory test.
-- Limited, suspicion-driven evaluation to exclude mimics: upper endoscopy or CT abdomen/pelvis (exclude obstruction); brain imaging if focal neurologic signs; pregnancy test.
+- Limited, suspicion-driven evaluation to exclude mimics: [[upper-endoscopy|upper endoscopy]] or CT abdomen/pelvis (exclude obstruction); brain imaging if focal neurologic signs; pregnancy test.
 
 ## Therapeutics
 

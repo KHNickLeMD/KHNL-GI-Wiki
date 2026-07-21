@@ -35,7 +35,7 @@ sources: [aga-2024-intestinal-ultrasound]
 
 ## IUS vs Other Modalities
 
-By trained operators, IUS is comparable to **MRE and CTE** ([[mri-mrcp|MRE]]) for ileal CD activity and for detecting complications (fistula, stricture, abscess), with practical advantages: no contrast/radiation, real-time, in-clinic. Interobserver reliability moderate–excellent (higher than serial MRE in one substudy: 82% vs 69% agreement). Ileocolonoscopy/VCE directly visualize mucosa (needed for biopsy, dilation, dysplasia surveillance) but are costlier and require sedation.
+By trained operators, IUS is comparable to **MRE and CTE** ([[mri-mrcp|MRE]]) for ileal CD activity and for detecting complications (fistula, stricture, abscess), with practical advantages: no contrast/radiation, real-time, in-clinic. Interobserver reliability moderate–excellent (higher than serial MRE in one substudy: 82% vs 69% agreement). Ileocolonoscopy/[[capsule-endoscopy|VCE]] directly visualize mucosa (needed for biopsy, dilation, dysplasia surveillance) but are costlier and require sedation.
 
 | Modality | Prep | Radiation/contrast | Key limitation |
 |---|---|---|---|

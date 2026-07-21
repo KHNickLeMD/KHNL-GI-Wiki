@@ -35,7 +35,7 @@ Route into the diagnosis that *is* sourced here:
 
 ### Severity Assessment
 
-- Sourced content defines severity **functionally, not by a score** — management keys off whether hepatic LVMs are *symptomatic* (high-output heart failure, portal hypertensive complications, biliary ischemia) vs. asymptomatic, and off failure of standard medical therapy.
+- Sourced content defines severity **functionally, not by a score** — management keys off whether hepatic LVMs are *symptomatic* (high-output heart failure, [[portal-hypertension|portal hypertensive]] complications, biliary ischemia) vs. asymptomatic, and off failure of standard medical therapy.
 - No graded severity classification for HHT liver disease appears in the ingested sources.
 
 ## Differential Diagnosis

@@ -34,6 +34,8 @@ sources: [acg-2021-anorectal-disorders]
 
 ## Differential Diagnosis
 
+*Anorectal bleeding workup: see [[acute-lower-gi-bleeding]].*
+
 | Condition | Key Features |
 |-----------|-------------|
 | [[hemorrhoids\|Hemorrhoids]] | Painless bright red bleeding; prolapse; visible on anoscopy |
@@ -103,7 +105,7 @@ sources: [acg-2021-anorectal-disorders]
 ---
 
 ## See Also
-[[hemorrhoids]], [[crohns-disease]], [[anorectal-manometry]], [[defecation-disorders]], [[fecal-incontinence]], [[colonoscopy]]
+[[hemorrhoids]], [[crohns-disease]], [[anorectal-manometry]], [[defecation-disorders]], [[fecal-incontinence]], [[colonoscopy]], [[acute-lower-gi-bleeding]]
 
 ---
 

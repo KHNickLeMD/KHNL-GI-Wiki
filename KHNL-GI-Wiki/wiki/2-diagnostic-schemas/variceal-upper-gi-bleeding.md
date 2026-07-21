@@ -57,7 +57,7 @@ In a cirrhotic patient with UGIB, consider:
 
 7. **Post-endoscopy care** (patients NOT receiving preemptive TIPS):
    - Start **NSBB** (carvedilol 6.25 mg daily → 12.5 mg/day) at **discontinuation of vasoactive therapy** (GS 33)
-   - **Discontinue PPI** once AVH confirmed as the bleeding source (unless other indication; GS 37)
+   - **Discontinue [[proton-pump-inhibitors|PPI]]** once AVH confirmed as the bleeding source (unless other indication; GS 37)
    - Start **[[nutrition-in-liver-disease|enteral nutrition]]** once AVH episode controlled; variceal bands do NOT contraindicate NG tube placement (GS 36)
 
 8. **Salvage/Rescue TIPS** (GS 35): Uncontrolled AVH despite vasoactive + EVL ("salvage") or rebleed ("rescue")

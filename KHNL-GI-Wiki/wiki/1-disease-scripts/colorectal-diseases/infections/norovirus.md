@@ -3,7 +3,7 @@ title: "Norovirus Gastroenteritis"
 category: disease-script
 tags: [norovirus, viral-gastroenteritis, diarrhea, infectious-diarrhea, outbreak]
 created: 2026-05-19
-updated: 2026-07-07
+updated: 2026-07-21
 sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
 ---
 

@@ -56,7 +56,7 @@ Pragmatic, treatment-anchored definitions (AGA 2024, Table 5):
 - **Structural/surgical:** anastomotic stricture, pouch outlet obstruction, afferent/efferent limb issues, pelvic sepsis/leak.
 - **Functional:** irritable pouch syndrome (symptoms without endoscopic inflammation).
 - **Other mucosal:** ischemia, infection (including *[[clostridioides-difficile|C. difficile]]*, CMV), NSAID injury.
-- Out of scope of the AGA 2024 guideline: pouches created for **Crohn's** or **FAP**, and pouch dysplasia surveillance.
+- Out of scope of the AGA 2024 guideline: pouches created for **Crohn's** or **[[familial-adenomatous-polyposis|FAP]]**, and pouch dysplasia surveillance.
 
 ---
 

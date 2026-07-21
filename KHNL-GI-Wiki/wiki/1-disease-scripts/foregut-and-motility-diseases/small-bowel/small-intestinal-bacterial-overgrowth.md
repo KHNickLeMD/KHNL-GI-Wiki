@@ -35,7 +35,7 @@ SIBO is a clinical syndrome of GI symptoms caused by the presence of excessive n
 | Systemic disease | Diabetes, scleroderma, amyloidosis, Parkinson disease, chronic renal failure, hypothyroidism |
 | Motility | [[irritable-bowel-syndrome]], pseudo-obstruction, visceral myopathies, mitochondrial diseases |
 | Medications | Opiates, potent antisecretory agents (PPIs) |
-| Malabsorptive | Pancreatic insufficiency (see [[chronic-pancreatitis]]), cirrhosis (altered bile acids), other malabsorptive conditions |
+| Malabsorptive | Pancreatic insufficiency (see [[chronic-pancreatitis]]), [[cirrhosis]] (altered bile acids), other malabsorptive conditions |
 | Immune-related | HIV, common variable immunodeficiency, IgA deficiency |
 | Other | Aging (elderly), small bowel diverticulosis |
 | Colectomy | Loss of ileocecal valve → retrograde colonic flora colonization |
@@ -76,7 +76,7 @@ Symptoms of SIBO are non-specific. The differential includes:
 
 - [[irritable-bowel-syndrome]] — most important overlap; up to 78% of IBS patients may have SIBO by meta-analysis; IBS is both a risk factor for and a mimic of SIBO
 - [[celiac-disease]] — malabsorptive symptoms, diarrhea, bloating; SIBO prevalence in [[celiac-disease|celiac disease]] similar to healthy subjects (lower than IBS)
-- [[chronic-pancreatitis]] / exocrine pancreatic insufficiency — steatorrhea, malabsorption; pancreatic insufficiency is also a SIBO risk factor
+- [[chronic-pancreatitis]] / [[exocrine-pancreatic-insufficiency|exocrine pancreatic insufficiency]] — steatorrhea, malabsorption; pancreatic insufficiency is also a SIBO risk factor
 - [[inflammatory-bowel-disease|Inflammatory bowel disease]] — [[crohns-disease]]: 16.8% in endoscopic remission have SIBO; postsurgical anatomy (ileocolonic anastomosis, ileocecal valve resection) increases risk
 - Functional dyspepsia — bloating, nausea; part of [[disorders-of-gut-brain-interaction]] spectrum
 - [[microscopic-colitis|Microscopic colitis]] — chronic watery diarrhea

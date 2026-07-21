@@ -64,7 +64,7 @@ Obesity is a clinical/anthropometric diagnosis; the reference sources address ma
 - **Suggested** over lifestyle alone in patients who **failed conventional weight-loss strategies** (conditional; US trials limited to BMI 30–40). Greatest %TBWL at **6–8 months**, incrementally smaller benefit thereafter.
 - **Responder rates (6–8 mo):** ≥5% TBWL 85.1% vs 34.6% SOC (RR 2.44); ≥10% TBWL 61.9% vs 13.7% (RR 4.31).
 - **Peri-procedural (per AGA):**
-  - **Strong:** PPI prophylaxis during implantation.
+  - **Strong:** [[proton-pump-inhibitors|PPI]] prophylaxis during implantation.
   - Lowest-nausea anesthetic + perioperative antiemetics; **scheduled antiemetics × 2 weeks** post-placement.
   - **Suggests against** routine perioperative nutritional-deficiency lab screening; suggests **1–2 adult multivitamins daily**.
 - **Safety:** serious AE 5.6% vs 1.1% SOC (RR 3.07) — perforation 0.3%, esophageal mucosal injury 0.8%, gastric ulcer/bleeding 0.76%, obstruction 0.12%; early removal for intolerance 9.4%. Fluid-filled ~3% more weight loss than gas-filled but higher AE / lower tolerability (device choice = shared decision-making).

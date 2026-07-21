@@ -270,7 +270,7 @@ Define: persistent symptoms/signs/labs after 6–12 months of GFD. Systematic st
 2. **Assess GFD adherence** — expert dietitian interview (most common cause = inadvertent gluten exposure); check serology
 3. **Rule out alternative/coexisting conditions:**
    - Lactose intolerance, fructose intolerance, FODMAP sensitivity
-   - Exocrine pancreatic insufficiency
+   - [[exocrine-pancreatic-insufficiency|Exocrine pancreatic insufficiency]]
    - SIBO
    - Microscopic colitis
    - Functional GI disorder ([[disorders-of-gut-brain-interaction]])

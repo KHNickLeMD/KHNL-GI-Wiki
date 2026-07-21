@@ -7,7 +7,7 @@ updated: 2026-07-17
 sources: [asge-2022-pancreatic-cancer-screening, acg-2020-chronic-pancreatitis, acg-2015-hereditary-gi-cancer, acg-2024-acute-pancreatitis]
 ---
 
-Inherited cause of recurrent [[acute-pancreatitis|acute]] and [[chronic-pancreatitis|chronic pancreatitis]]. Classic form is **autosomal-dominant PRSS1** (cationic trypsinogen) disease; sits in the **G (Genetic)** arm of the TIGAR-O v2.0 checklist ([[chronic-pancreatitis|see chronic pancreatitis]]). Carries the **highest relative risk of [[pancreatic-cancer|pancreatic ductal adenocarcinoma]] of any hereditary pancreatic-cancer condition except Peutz-Jeghers** ([[acg-2015-hereditary-gi-cancer]]).
+Inherited cause of recurrent [[acute-pancreatitis|acute]] and [[chronic-pancreatitis|chronic pancreatitis]]. Classic form is **autosomal-dominant PRSS1** (cationic trypsinogen) disease; sits in the **G (Genetic)** arm of the TIGAR-O v2.0 checklist ([[chronic-pancreatitis|see chronic pancreatitis]]). Carries the **highest relative risk of [[pancreatic-cancer|pancreatic ductal adenocarcinoma]] of any hereditary pancreatic-cancer condition except [[peutz-jeghers-syndrome|Peutz-Jeghers]]** ([[acg-2015-hereditary-gi-cancer]]).
 
 ## Contents
 - [[#Assessment]]

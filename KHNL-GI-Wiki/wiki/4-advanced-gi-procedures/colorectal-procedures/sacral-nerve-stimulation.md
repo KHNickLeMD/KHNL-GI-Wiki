@@ -25,7 +25,7 @@ sources: [acg-2021-anorectal-disorders, aga-2026-refractory-constipation]
 | **Moderate–severe [[fecal-incontinence|fecal incontinence]] failing conservative measures** | Sacral nerve stimulation | **Strong / Low** ([[acg-2021-anorectal-disorders]]) |
 | **Constipation** / [[defecation-disorders|defecation disorders]] | **NOT recommended** — no benefit in RCTs | ([[acg-2021-anorectal-disorders]]) |
 
-- "Failing conservative measures" means after first-line therapy: antidiarrheal drugs (loperamide, diphenoxylate + atropine, bile salt binders — Strong/Low) and [[biofeedback-therapy|biofeedback]] pelvic floor rehabilitation (Strong/Moderate).
+- "Failing conservative measures" means after first-line therapy: antidiarrheal drugs ([[loperamide]], diphenoxylate + atropine, bile salt binders — Strong/Low) and [[biofeedback-therapy|biofeedback]] pelvic floor rehabilitation (Strong/Moderate).
 - Workup before advanced FI therapy: Bristol Stool Scale + symptom diary; DRE + [[anorectal-manometry|ARM]] + balloon expulsion test for moderate–severe FI; endoanal US or MRI if surgery is being considered ([[acg-2021-anorectal-disorders]]).
 - The negative recommendation in constipation is echoed in the refractory-constipation pathway, where surgical/device escalation follows confirmed slow transit rather than neuromodulation ([[aga-2026-refractory-constipation]]) — see [[chronic-idiopathic-constipation]].
 

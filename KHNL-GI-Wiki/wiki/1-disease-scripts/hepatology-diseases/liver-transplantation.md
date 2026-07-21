@@ -418,7 +418,7 @@ Biliary complications are addressed both by AASLD-AST 2025 and by the dedicated 
 
 **Post-transplant diabetes mellitus (PTDM)** — 10–63% incidence ([[aasld-2012-liver-transplant-long-term]], Rec. 15–17):
 
-- Risk factors: tacrolimus > cyclosporine, corticosteroids, HCV infection, obesity, family history
+- Risk factors: tacrolimus > cyclosporine, corticosteroids, HCV infection, [[obesity|obesity]], family history
 - Monitoring: fasting glucose and HbA1c annually (Rec. 15)
 - Management: steroid minimization, consider tacrolimus → cyclosporine conversion if severe; standard diabetes therapy (metformin caution with renal impairment; sulfonylureas; insulin)
 

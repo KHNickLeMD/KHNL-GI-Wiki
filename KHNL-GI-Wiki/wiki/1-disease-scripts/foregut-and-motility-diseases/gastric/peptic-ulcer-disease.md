@@ -3,8 +3,8 @@ title: "Peptic Ulcer Disease"
 category: disease-script
 tags: [pud, peptic-ulcer, h-pylori, nsaid, upper-gi-bleeding, gastric-ulcer, duodenal-ulcer]
 created: 2026-05-19
-updated: 2026-07-17
-sources: [acg-2021-ugib, asge-2010-pud]
+updated: 2026-07-21
+sources: [acg-2021-ugib, asge-2010-pud, aga-2024-pcab]
 ---
 
 ## Assessment
@@ -42,12 +42,13 @@ sources: [acg-2021-ugib, asge-2010-pud]
 - **Gastric outlet obstruction:** EGD to confirm and exclude malignancy; endoscopic balloon dilation for *benign* GOO (67–83% short-term relief) but high restenosis (up to 84%), ~51% ultimately need surgery, perforation 4–7%; >2 dilations predicts endoscopic failure [[asge-2010-pud]]
 - **No endoscopy if acute perforation**; endoscopy has no therapeutic role in penetrating ulcers [[asge-2010-pud]]
 - Refractory: maximize PPI, switch to [[vonoprazan]], surgical consult, evaluate Zollinger-Ellison
+- **[[potassium-competitive-acid-blockers|P-CABs]] in PUD (AGA 2024 CPU, [[aga-2024-pcab]]):** generally **not first-line** for treatment or prophylaxis (BPA 8) — noninferior, not superior, to PPIs and higher cost; reserve for PPI failures (excluding non-acid ulcer causes) and secondary prophylaxis after PPI failure. Insufficient evidence for first-line use in bleeding ulcers with high-risk stigmata, though rapid potent acid inhibition may prove useful (BPA 9)
 
 ---
 
 ## See Also
 
-[[helicobacter-pylori-infection]], [[upper-gi-bleeding]], [[gastric-adenocarcinoma]], [[dyspepsia]], [[gastroparesis]], [[vonoprazan]], [[upper-endoscopy]]
+[[helicobacter-pylori-infection]], [[upper-gi-bleeding]], [[gastric-adenocarcinoma]], [[dyspepsia]], [[gastroparesis]], [[vonoprazan]], [[potassium-competitive-acid-blockers]], [[upper-endoscopy]]
 
 ---
 
@@ -55,3 +56,4 @@ sources: [acg-2021-ugib, asge-2010-pud]
 
 1. [[acg-2021-ugib|ACG 2021: Upper Gastrointestinal and Ulcer Bleeding]]
 2. [[asge-2010-pud|ASGE Guideline: The Role of Endoscopy in the Management of Patients With Peptic Ulcer Disease (2010)]]
+3. [[aga-2024-pcab|AGA Clinical Practice Update on Integrating Potassium-Competitive Acid Blockers Into Clinical Practice (2024)]]

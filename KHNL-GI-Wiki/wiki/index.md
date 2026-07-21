@@ -46,7 +46,7 @@ updated: 2026-07-20
 - [[peptic-ulcer-disease]] — PUD: ADDT — H. pylori/NSAID etiology, ulcer biopsy (DU not routine, GU individualized), EGD with Forrest classification, PPI BID 4–12 wk, follow-up EGD for gastric ulcers, balloon dilation for benign gastric outlet obstruction (2 sources)
 - [[hereditary-diffuse-gastric-cancer]] — HDGC: ADDT — CDH1, 67%/83% M/F lifetime GC risk, prophylactic gastrectomy after age 20, pre-gastrectomy EGD low sensitivity, lobular breast cancer surveillance (1 source)
 - [[rumination-syndrome]] — Rumination syndrome: ADDT — Rome V gastroduodenal DGBI (B4); effortless regurgitation of bland recently-eaten food without nausea/retching; behavioral mimic of refractory GERD; postprandial HRIM (intragastric pressure rise >30 mm Hg, sens 75–80%/spec 100%) after EGD; Therapeutics pending a primary source (2 sources)
-- [[cyclic-vomiting-syndrome]] — CVS: ADDT — Rome IV criteria (≥3 episodes/yr, 2 in 6 mo, ≥1 wk apart, well between; <1 wk duration; migraine association); 4 phases (Fleisher); clinical Dx; amitriptyline prophylaxis 75–100 mg qhs (1 source)
+- [[cyclic-vomiting-syndrome]] — CVS: ADDT — Rome IV criteria; ANMS-CVSA mild vs moderate–severe strata (drives prophylaxis decision); 4 phases; workup to exclude mimics (no routine GES); TCA first-line prophylaxis + triptan/antiemetic abortive combos; ED management (2 sources)
 - [[cannabinoid-hyperemesis-syndrome]] — CHS: ADDT — CVS subtype from chronic heavy cannabis use; proposed criteria (≥3 episodes/yr, use >1 yr & >4×/wk, resolution ≥6 mo off cannabis); compulsive hot-water bathing (supportive, not pathognomonic); topical capsaicin 0.1% + haloperidol acutely, cannabis cessation + amitriptyline long-term, avoid opioids (1 source)
 
 #### Small Bowel
@@ -152,7 +152,7 @@ updated: 2026-07-20
 - [[gastroenteropancreatic-neuroendocrine-tumors]] — GEP-NETs: ADDT — WHO grading (Ki-67/mitoses; NET G1/2/3 vs NEC), gastric types 1/2/3, site/size-based endoscopic vs surgical resection, SSTR-PET, somatostatin analogs, PRRT (Lu-177 dotatate), functioning-tumor syndromes; treatment-algorithm Mermaid (1 source)
 - [[gastrointestinal-stromal-tumor]] — GIST: ADDT — most common GI mesenchymal tumor; KIT(CD117)/DOG1+; KIT/PDGFRA/SDH mutational testing (essential, predictive); risk by size/mitoses/site + rupture; surgery + neoadjuvant/adjuvant imatinib (≥3y high-risk); TKI sequence imatinib→sunitinib→regorafenib→ripretinib, avapritinib for PDGFRA D842V; treatment-algorithm Mermaid (1 source)
 - [[obesity]] — Obesity (BMI ≥30, or ≥27 + comorbidity): ranked pharmacotherapy (semaglutide 2.4mg > liraglutide > phentermine-topiramate > naltrexone-bupropion; against orlistat), intragastric balloon (responder rates, PPI prophylaxis, antiemetics, safety), lifestyle foundation, bariatric surgery (2 sources)
-- [[post-transplant-lymphoproliferative-disorder]] — PTLD: EBV-driven lymphoproliferation post-transplant IS, IS reduction first-line, rituximab (stub)
+- [[post-transplant-lymphoproliferative-disorder]] — PTLD: ADDT — EBV-driven lymphoid proliferation post-LT (incidence 0.9–2.9%); risk factors (primary EBV, CMV mismatch, anti-lymphocyte antibodies); histopathology required (EBV viremia not diagnostic); treatment ladder — reduce immunosuppression first, then rituximab/surgery/RT/chemo if no response in 2–4 wk (1 source)
 - [[sclerosing-mesenteritis]] — Sclerosing mesenteritis: ADDT — idiopathic mesenteric fibroinflammation; CT misty mesentery/fat ring sign/pseudocapsule, usually dx without biopsy; only 1–6% need treatment; prednisone + tamoxifen 10 mg BID; surgery non-curative (1 source)
 - [[hypermobile-ehlers-danlos-syndrome]] — Hypermobile EDS / hEDS: ADDT — heritable connective-tissue disorder with GI manifestations; DGBI overlap, POTS/MCAS associations, Beighton/2017 criteria, motility & pelvic-floor testing, multidisciplinary symptom management (1 source)
 - [[alpha-gal-syndrome]] — Alpha-gal syndrome: ADDT — IgE-mediated mammalian-meat allergy (galactose-α-1,3-galactose) from tick-bite sensitization; GI phenotype of delayed (1–6 h) abdominal pain/diarrhea/nausea; 3-part dx (symptoms + ↑alpha-gal IgE + response to ≥1-mo avoidance; positive IgE alone insufficient); mammalian-product avoidance + tick precautions, epinephrine/antihistamine for acute exposure; cetuximab/gelatin/bioprosthetic-valve cross-reactivity (1 source)
@@ -231,7 +231,9 @@ updated: 2026-07-20
 - [[lubiprostone]] — Lubiprostone: ClC-2 chloride-channel activator; **CIC 24 mcg BID (Conditional/Low, OTC-failure qualifier)**; place vs other secretagogues; cost; ACG 2020 vs AGA 2022 contradiction on IBS-C surfaced (IBS-C dose not in any source) (3 sources)
 
 - [[antibiotic-prophylaxis-cirrhosis]] — SBP primary prophylaxis in cirrhotic UGB: IV ceftriaxone during acute GI hemorrhage (AASLD 2021); norfloxacin withdrawn from US 2014 → ciprofloxacin; duration controversy (5–7d vs. shorter, 2025 systematic review) (2 sources)
-- [[vonoprazan]] — PCAB; H. pylori dual/triple therapy (FDA-approved 2022); potent acid suppression; no CYP2C19 dependency (1 source)
+- [[vonoprazan]] — PCAB; H. pylori dual/triple therapy (FDA-approved 2022); potent acid suppression; no CYP2C19 dependency; AGA 2024 P-CAB CPU positioning (severe EE, HP, PUD) (2 sources)
+- [[potassium-competitive-acid-blockers]] — P-CAB drug class (vonoprazan et al.); AGA 2024 Best Practice Advice — not first-line where superiority unproven (cost/safety); **use for severe EE LA C/D & in place of PPIs for H. pylori**; not first-line NERD/mild EE/PUD (2 sources)
+- [[proton-pump-inhibitors]] — PPI drug class; covalent H+/K+-ATPase inhibition; mainstay for GERD/PUD/H. pylori; contrast with P-CABs (stub)
 - [[givosiran]] — ALAS1-targeting siRNA for recurrent acute hepatic porphyria (≥4 attacks/year); SC monthly; biochem+genetic confirmation, avoid in pregnancy; monitor ALT/eGFR (1 source)
 - [[hemin]] — IV heme therapy for acute AHP attacks & prophylaxis; 3–4 mg/kg/day ×~4 days via high-flow central vein (1 source)
 - [[linaclotide]] — GC-C agonist; IBS-C 290 µg, CIC 145 µg; diarrhea-limiting (stub)
@@ -427,6 +429,8 @@ updated: 2026-07-20
 - [[aga-2024-chs]] — AGA 2024 Clinical Practice Update (Commentary): Cannabinoid Hyperemesis Syndrome — CVS Rome IV criteria; proposed CHS criteria (cannabis >1 yr & >4×/wk, resolution ≥6 mo off cannabis); hot-water bathing supportive; topical capsaicin/haloperidol acute, cannabis cessation + amitriptyline long-term, avoid opioids
 - [[aga-2024-upper-endoscopy-quality]] — AGA 2024: Quality Indicators for Upper GI Endoscopy — inspection time >7 min, IET benefit data, missed cancer rates, biopsy protocols (Barrett's ≥8 biopsies, updated Sydney system), GLP-1 RA pre-procedure guidance
 - [[aga-2024-intestinal-ultrasound]] — AGA 2024 Clinical Practice Update (Commentary): Role of Intestinal Ultrasound in IBD — BWT + Doppler hyperemia metrics, comparable to MRE/CTE, treat-to-target thresholds (CD sonographic response ≥25% BWT reduction, postop BWT ≥3mm+FC≥50; UC BWT <2.8mm, ASUC ≥20% at 48h), special populations, no dysplasia surveillance
+- [[aga-2024-cvs]] — AGA 2024 Clinical Practice Update (Commentary): Cyclic Vomiting Syndrome — Rome IV Dx criteria; ANMS-CVSA mild vs moderate–severe strata (drive prophylaxis); 4 phases; workup to exclude mimics (no routine gastric emptying scan); TCA first-line prophylaxis + triptan/antiemetic abortive combos; ED management
+- [[aga-2024-pcab]] — AGA 2024 Clinical Practice Update (Expert Review): Integrating Potassium-Competitive Acid Blockers — 9 Best Practice Advice across GERD/HP/PUD; not first-line where superiority unproven (cost/safety); use for severe EE (LA C/D) & in place of PPIs for H. pylori
 - [[aga-acg-2023-constipation]] — AGA-ACG 2023: Pharmacologic Management of Chronic Idiopathic Constipation — Chang, Chey, Imdad et al. Am J Gastroenterol 2023
 - [[aga-2023-biomarkers-cd]] — AGA 2023: Role of Biomarkers for the Management of Crohn's Disease — fecal calprotectin/CRP thresholds for treat-to-target monitoring vs endoscopy
 - [[aga-2023-biomarkers-uc]] — AGA 2023: Role of Biomarkers for the Management of Ulcerative Colitis — fecal calprotectin/CRP-guided monitoring strategy in symptomatic and remission states
@@ -547,4 +551,4 @@ updated: 2026-07-20
 
 ---
 
-*Total: 213 sources | 111 disease scripts | 20 diagnostic schemas | 2 general procedures | 20 advanced procedures | 17 meds | 0 anatomy | 37 concepts | 1 synthesis (on-disk page counts as of 2026-07-19)*
+*Total: 217 sources | 113 disease scripts | 20 diagnostic schemas | 2 general procedures | 20 advanced procedures | 21 meds | 0 anatomy | 37 concepts | 1 synthesis (on-disk page counts as of 2026-07-21)*

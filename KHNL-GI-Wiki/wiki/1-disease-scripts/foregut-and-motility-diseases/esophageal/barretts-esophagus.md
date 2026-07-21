@@ -58,7 +58,7 @@ The key severity variable is **dysplasia grade**, which determines both cancer r
 
 **Segment length** is an independent risk factor for progression and determines surveillance intervals in NDBE (see Therapeutics).
 
-**Other risk factors for progression:** male sex, smoking, long-segment BE, older age, absence of PPI use.
+**Other risk factors for progression:** male sex, smoking, long-segment BE, older age, absence of [[proton-pump-inhibitors|PPI]] use.
 
 ### Classification / Typing
 
@@ -355,7 +355,7 @@ CEIM defined as: 1–2 surveillance endoscopies with no visible BE and no IM on 
 
 ## See Also
 
-[[gerd]], [[eosinophilic-esophagitis]], [[achalasia]], [[esophageal-adenocarcinoma]], [[endoscopic-eradication-therapy]], [[radiofrequency-ablation]], [[polypectomy-emr]], [[upper-endoscopy]], [[endoscopic-ultrasound]], [[antireflux-surgery]], [[endoscopic-submucosal-dissection]]
+[[gerd]], [[eosinophilic-esophagitis]], [[achalasia]], [[esophageal-adenocarcinoma]], [[endoscopic-eradication-therapy]], [[radiofrequency-ablation]], [[polypectomy-emr]], [[upper-endoscopy]], [[endoscopic-ultrasound]], [[antireflux-surgery]], [[endoscopic-submucosal-dissection]], [[proton-pump-inhibitors]]
 
 ---
 

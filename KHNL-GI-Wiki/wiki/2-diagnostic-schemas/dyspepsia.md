@@ -42,7 +42,7 @@ Dyspepsia refers to one or more of: postprandial fullness, early satiation, epig
 
 1. **Age ≥60** (ACG/CAG 2017 Statement 1, Cond/Very Low) → EGD to exclude upper GI neoplasia. Lower threshold if high-risk (childhood in high-GC-incidence country, family history upper GI malignancy) [[acg-cag-2017-dyspepsia]].
 2. **Age <60 + alarm features** (Statement 2, Cond/Moderate) → Do **NOT** automatically scope; alarm features have low PPV (sensitivity 0.67, specificity 0.66 for upper GI cancer). Use case-by-case clinical judgment. Prominent features (e.g., weight loss >20 lb, rapidly progressive [[dysphagia]]) or combinations warrant EGD.
-3. **Age <60, no high-risk features** (Statement 3, Strong/High) → Non-invasive H. pylori test-and-treat (UBT or stool antigen; hold PPI ≥2 wk and antibiotics ≥4 wk).
+3. **Age <60, no high-risk features** (Statement 3, Strong/High) → Non-invasive H. pylori test-and-treat (UBT or stool antigen; hold [[proton-pump-inhibitors|PPI]] ≥2 wk and antibiotics ≥4 wk).
 4. **H. pylori negative OR symptomatic post-eradication** (Statement 4, Strong/High) → Empiric standard-dose PPI 4–8 weeks.
 5. **PPI/HP-eradication failure** → second-line **prokinetic** (Statement 5, Cond/Very Low) or **TCA** (Statement 6, Cond/Low). No preferred order specified.
 

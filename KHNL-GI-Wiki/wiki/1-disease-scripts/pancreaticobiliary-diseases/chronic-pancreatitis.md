@@ -152,7 +152,7 @@ Experimental (research only): spinal cord stim, transmagnetic stim, radiation (K
 ### Exocrine pancreatic insufficiency (EPI)
 
 - **PERT (Rec 11, Cond/Low):** 40,000–50,000 USP lipase units per meal (half-dose with snacks); titrate to symptoms (steatorrhea, weight, vitamin levels)
-- Take with first bite of meal; if inadequate, add acid suppression (PPI/H2RA) to protect non-enteric-coated formulations
+- Take with first bite of meal; if inadequate, add acid suppression ([[proton-pump-inhibitors|PPI]]/H2RA) to protect non-enteric-coated formulations
 - Periodic monitoring of weight, fat-soluble vitamins, bone density (Key Concept 10)
 - Small frequent meals without fat restriction
 - **SIBO co-occurrence:** Pancreatic insufficiency is a recognized risk factor for [[small-intestinal-bacterial-overgrowth]] (altered bile acid composition + reduced digestive enzyme activity). Consider SIBO evaluation in CP patients with persistent diarrhea/bloating despite adequate PERT.

@@ -72,7 +72,7 @@ Conditions that mimic EPI or blunt the response to enzyme therapy (consider when
 
 - **Dose:** start **≥40,000 USP units of lipase with each meal**; **half that (≈20,000 units) with snacks**. Titrate up by meal size and fat content.
 - **Timing:** take **during** the meal (not before/after).
-- **Acid suppression:** non–enteric-coated preparations require a concurrent **H2 blocker or PPI** (acid inactivates lipase).
+- **Acid suppression:** non–enteric-coated preparations require a concurrent **H2 blocker or [[proton-pump-inhibitors|PPI]]** (acid inactivates lipase).
 - **Diet:** low-to-moderate fat with frequent smaller meals; **avoid very-low-fat diets** (impair fat-soluble vitamin absorption). Routine fat-soluble vitamin supplementation.
 
 **Monitoring**

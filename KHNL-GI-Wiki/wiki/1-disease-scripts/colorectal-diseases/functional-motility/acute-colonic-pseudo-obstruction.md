@@ -70,7 +70,7 @@ flowchart TD
 - Effective in ~85–94%; non-response associated with younger age, postsurgical status, electrolyte imbalance
 - No response → **second dose**; refractory to bolus → **subcutaneous or continuous IV infusion**
 - **Absolute contraindications:** mechanical bowel/urinary obstruction, known hypersensitivity
-- **Relative contraindications:** bradycardia, asthma, renal insufficiency, peptic ulcer disease, recent MI, acidosis
+- **Relative contraindications:** bradycardia, asthma, renal insufficiency, [[peptic-ulcer-disease|peptic ulcer disease]], recent MI, acidosis
 - **Daily PEG via NG tube** reduces recurrence
 
 **Endoscopic decompression** ([[colonoscopy]] with decompression-tube placement) — alternative when neostigmine is unsuitable or fails.

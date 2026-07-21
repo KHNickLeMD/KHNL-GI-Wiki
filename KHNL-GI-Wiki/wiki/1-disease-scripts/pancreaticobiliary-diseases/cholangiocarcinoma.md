@@ -73,13 +73,13 @@ flowchart TD
 
 **Systemic therapy for advanced disease.** First-line treatment is a **gemcitabine + cisplatin backbone plus a checkpoint inhibitor** (durvalumab per TOPAZ-1 or pembrolizumab per KEYNOTE-966); carboplatin may substitute when cisplatin is contraindicated. Biomarker-matched targeted agents (FGFR2-fusion inhibitors, IDH1 inhibitors, HER2-directed therapy, BRAF/MEK inhibitors, NTRK/RET inhibitors, and immunotherapy for MSI-H/dMMR or TMB-H) are used in subsequent lines when the corresponding target is present.
 
-**Liver transplantation for iCCA.** Beyond the established neoadjuvant-protocol pathway for perihilar CCA, NCCN v1.2026 refines transplant-exception criteria for **biopsy-proven unresectable intrahepatic CCA** (or mixed [[hepatocellular-carcinoma|HCC]]-iCCA) in cirrhotic patients after locoregional/systemic therapy with a defined observation period.
+**Liver transplantation for iCCA.** Beyond the established neoadjuvant-protocol pathway for perihilar CCA, NCCN v1.2026 refines transplant-exception criteria for **biopsy-proven unresectable intrahepatic CCA** (or mixed [[hepatocellular-carcinoma|HCC]]-iCCA) in [[cirrhosis|cirrhotic]] patients after locoregional/systemic therapy with a defined observation period.
 
 See [[gallbladder-cancer]] for the gallbladder-specific pathway.
 
 ## See Also
 
-[[primary-sclerosing-cholangitis]], [[biliary-stricture]], [[gallbladder-cancer]], [[pancreatic-cancer]], [[hepatocellular-carcinoma]], [[ercp]], [[endoscopic-ultrasound]], [[cholangioscopy]], [[brush-cytology]], [[fish]], [[confocal-laser-endomicroscopy]], [[chronic-pancreatitis]], [[liver-transplantation]]
+[[primary-sclerosing-cholangitis]], [[biliary-stricture]], [[gallbladder-cancer]], [[pancreatic-cancer]], [[hepatocellular-carcinoma]], [[ercp]], [[endoscopic-ultrasound]], [[cholangioscopy]], [[brush-cytology]], [[fish]], [[confocal-laser-endomicroscopy]], [[chronic-pancreatitis]], [[liver-transplantation]], [[cirrhosis]]
 
 ---
 

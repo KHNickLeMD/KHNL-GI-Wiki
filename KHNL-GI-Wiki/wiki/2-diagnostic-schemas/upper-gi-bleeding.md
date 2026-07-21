@@ -119,7 +119,7 @@ If UGIB is clinically suspected in a patient presenting with apparent LGIB, perf
   - Reduces need for repeat endoscopy (OR 0.51) and hospital length of stay (mean –1.75 days)
   - Does not improve further bleeding or mortality
   - Caution: QT prolongation, especially at higher doses or with repeat administration; check for concurrent QT-prolonging drugs
-- **Pre-endoscopic PPI**: No recommendation for or against (ACG 2021)
+- **Pre-endoscopic [[proton-pump-inhibitors|PPI]]**: No recommendation for or against (ACG 2021)
   - May modestly reduce high-risk stigmata at index endoscopy and need for endoscopic therapy
   - No demonstrated benefit for further bleeding or mortality in properly designed RCTs
   - Reasonable to administer if endoscopy will be substantially delayed or unavailable

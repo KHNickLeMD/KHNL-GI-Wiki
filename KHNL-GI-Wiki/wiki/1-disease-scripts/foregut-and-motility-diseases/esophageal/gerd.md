@@ -3,8 +3,8 @@ title: "Gastroesophageal Reflux Disease"
 category: disease-script
 tags: [gerd, reflux, esophageal, foregut, motility]
 created: 2026-05-15
-updated: 2026-07-17
-sources: [asge-2024-gerd, acg-2021-gerd, sages-2021-gerd-surgery, lyon-2024-gerd-diagnosis]
+updated: 2026-07-21
+sources: [asge-2024-gerd, acg-2021-gerd, sages-2021-gerd-surgery, lyon-2024-gerd-diagnosis, aga-2024-pcab]
 ---
 
 ## Assessment
@@ -161,11 +161,12 @@ Recommend for all patients with GERD symptoms:
 - Inferior to PPIs for erosive esophagitis and uncontrolled GERD
 - Role as adjunct therapy, PRN use, or when faster onset is needed (e.g., nocturnal breakthrough)
 
-**Potassium-competitive acid blockers (PCABs, e.g., [[vonoprazan]])**
+**[[potassium-competitive-acid-blockers|Potassium-competitive acid blockers (P-CABs)]]** (e.g., [[vonoprazan]])
 
 - More potent acid suppression; superior to PPI for erosive esophagitis healing in one RCT
 - Long-term safety data not yet available; positioning relative to PPIs evolving
 - Panel: not yet superior to PPI overall for GERD; likely to be used for confirmed GERD after shared discussion
+- **AGA 2024 P-CAB CPU** ([[aga-2024-pcab]]): generally **not first-line** for uninvestigated heartburn, NERD, or milder erosive esophagitis (**LA grade A/B**) — use in documented reflux failing **twice-daily PPIs**; **may use** for **severe EE (LA grade C/D)** healing/maintenance, though cost limits routine first-line use over standard-dose PPI
 
 **CYP2C19-guided therapy**
 
@@ -288,3 +289,4 @@ Not recommended outside clinical trials. Under evaluation:
 2. [[acg-2021-gerd|ACG 2021 Clinical Guideline: Diagnosis and Management of GERD]]
 3. [[sages-2021-gerd-surgery|SAGES 2021 Guidelines for Surgical Treatment of Gastroesophageal Reflux (GERD)]]
 4. [[lyon-2024-gerd-diagnosis|Lyon Consensus 2.0 (2024): Evidence-Based Diagnosis of GERD]]
+5. [[aga-2024-pcab|AGA Clinical Practice Update on Integrating Potassium-Competitive Acid Blockers Into Clinical Practice (2024)]]

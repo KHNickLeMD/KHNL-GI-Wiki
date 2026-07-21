@@ -136,7 +136,7 @@ LS is classified by the causative gene:
 **[[pancreatic-cancer|Pancreatic cancer]]** [[acg-2015-hereditary-gi-cancer]]:
 
 - 9–11-fold relative risk in LS (standardized incidence ratio ~10.7; cumulative risk ~3.7% by age 70)
-- Consider pancreatic surveillance (MRI ± [[endoscopic-ultrasound|EUS]] from age 50) if a first-degree relative has pancreatic cancer; must weigh risk:benefit carefully
+- Consider [[pancreatic-cancer-screening|pancreatic surveillance]] (MRI ± [[endoscopic-ultrasound|EUS]] from age 50) if a first-degree relative has pancreatic cancer; must weigh risk:benefit carefully
 
 **CNS / sebaceous neoplasms**:
 
@@ -174,7 +174,7 @@ LS is classified by the causative gene:
 
 ## See Also
 
-[[bmmrd-syndrome]], [[familial-adenomatous-polyposis]], [[mutyh-associated-polyposis]], [[colorectal-cancer]], [[colorectal-cancer-screening]], [[colonoscopy]], [[upper-endoscopy]], [[peutz-jeghers-syndrome]], [[serrated-polyposis-syndrome]], [[gastric-adenocarcinoma]]
+[[bmmrd-syndrome]], [[familial-adenomatous-polyposis]], [[mutyh-associated-polyposis]], [[colorectal-cancer]], [[colorectal-cancer-screening]], [[colonoscopy]], [[upper-endoscopy]], [[peutz-jeghers-syndrome]], [[serrated-polyposis-syndrome]], [[gastric-adenocarcinoma]], [[pancreatic-cancer]], [[pancreatic-cancer-screening]]
 
 ---
 

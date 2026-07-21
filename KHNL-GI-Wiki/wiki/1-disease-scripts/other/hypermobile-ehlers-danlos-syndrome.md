@@ -73,7 +73,7 @@ Heritable connective tissue disorder; most common EDS subtype (80–90% of all E
 
 **General GI symptom management:**
 - Nausea/vomiting: antiemetics (ondansetron, promethazine, prochlorperazine, aprepitant), prokinetics (metoclopramide, domperidone, erythromycin, [[prucalopride]]).
-- Abdominal pain: acid suppression (PPI, H2RA), antispasmodics (hyoscyamine, dicyclomine, peppermint oil), neuromodulators (TCA, SSRI, SNRI, pregabalin, gabapentin). **Avoid opioids** — do not use to treat abdominal pain; facilitate cessation if already prescribed.
+- Abdominal pain: acid suppression ([[proton-pump-inhibitors|PPI]], H2RA), antispasmodics (hyoscyamine, dicyclomine, peppermint oil), neuromodulators (TCA, SSRI, SNRI, pregabalin, gabapentin). **Avoid opioids** — do not use to treat abdominal pain; facilitate cessation if already prescribed.
 - Constipation: osmotic/stimulant laxatives, [[lubiprostone]], [[linaclotide]]-type secretagogues, pyridostigmine.
 - Brain-gut behavioral therapy / gut-directed hypnotherapy for stress-worsened, maladaptive-coping patients.
 - Pelvic floor symptoms: treat per general anorectal disorder principles.

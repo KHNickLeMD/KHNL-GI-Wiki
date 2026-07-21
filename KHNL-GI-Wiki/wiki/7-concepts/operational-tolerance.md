@@ -15,7 +15,7 @@ Operational tolerance is the survival and functioning of the transplanted allogr
 
 Per [[aasld-ast-2025-liver-transplant-graft-complications]]:
 
-- Meta-analysis of 15 studies (n=620): likelihood of operational tolerance increases by approximately 7% per year after LT (Rec 36 discussion)
+- Meta-analysis of 15 studies (n=620): likelihood of operational tolerance increases by approximately 7% per year after [[liver-transplantation|LT]] (Rec 36 discussion)
 - More than 40% of highly selected LT recipients can tolerate complete IS withdrawal when performed at a mean of 10.2 years post-LT
 - Early IS withdrawal (within 1–2 years post-LT) is only possible in a very small minority of recipients
 - No reliable biomarkers currently identify ideal candidates; ALT, class II donor-specific antibodies (DSA), and liver stiffness measurement show promise but are not prospectively validated

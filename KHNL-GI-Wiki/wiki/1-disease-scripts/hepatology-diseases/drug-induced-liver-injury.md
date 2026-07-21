@@ -165,7 +165,7 @@ Roussel Uclaf Causality Assessment Method — scoring system (−10 to +14):
 | Anti-TNF agents (infliximab, adalimumab) | Hepatocellular; autoimmune hepatitis-like | Moderate to long | Rare; may need to discontinue biologic |
 | Amoxicillin-clavulanate | Cholestatic; can be hepatocellular | Short to moderate | Most common antibiotic DILI; onset may occur after drug cessation |
 | Isoniazid | Hepatocellular; acute hepatitis-like | Moderate to long | Age-related risk; monitor LFTs; avoid in CLD |
-| Proton pump inhibitors | Hepatocellular; very rare | Short | Worth considering in unexplained hepatitis |
+| [[proton-pump-inhibitors|Proton pump inhibitors]] | Hepatocellular; very rare | Short | Worth considering in unexplained hepatitis |
 
 ---
 

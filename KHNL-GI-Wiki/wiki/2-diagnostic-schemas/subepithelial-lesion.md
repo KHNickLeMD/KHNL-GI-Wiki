@@ -35,7 +35,7 @@ A **subepithelial lesion** is a mass or mass-like structure that projects into t
 | GIST | Stomach (most common) | MM, MP | Yes | Yes |
 | Heterotopic pancreas (pancreatic rest) | Gastric antrum | MM, SM, MP | Extremely rare | No (often) |
 | Schwannoma | Stomach | SM, MP | None | Yes |
-| Neuroendocrine tumor (NET) | Stomach, duodenum, rectum | SM, MP | Yes | Yes |
+| [[gastroenteropancreatic-neuroendocrine-tumors\|Neuroendocrine tumor (NET)]] | Stomach, duodenum, rectum | SM, MP | Yes | Yes |
 | Gallbladder (extrinsic) | Antrum / duodenal bulb | Extrinsic | None | No |
 | Lymphangioma | Small intestine | MP | None | Yes |
 | Lipoma | Colon (most common) | SM | None | No |

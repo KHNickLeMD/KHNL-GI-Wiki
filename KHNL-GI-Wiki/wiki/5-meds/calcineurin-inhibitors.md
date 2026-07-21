@@ -72,7 +72,7 @@ Per [[aasld-ast-2025-liver-transplant-graft-complications]] Rec 28:
 
 Both TAC and CSA are CYP3A4/P-gp substrates. Key interactions:
 
-**Increase CNI levels:** Azole antifungals, macrolides, calcium channel blockers (diltiazem, verapamil), grapefruit juice, nirmitrelavir/ritonavir (Paxlovid — significant; requires dose adjustment), amiodarone, proton pump inhibitors
+**Increase CNI levels:** Azole antifungals, macrolides, calcium channel blockers (diltiazem, verapamil), grapefruit juice, nirmitrelavir/ritonavir (Paxlovid — significant; requires dose adjustment), amiodarone, [[proton-pump-inhibitors|proton pump inhibitors]]
 
 **Decrease CNI levels:** Rifampin, anticonvulsants (phenytoin, carbamazepine, phenobarbital), St. John's Wort, antimycobacterial agents
 

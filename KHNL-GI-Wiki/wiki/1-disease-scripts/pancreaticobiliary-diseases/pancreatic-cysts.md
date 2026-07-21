@@ -220,7 +220,7 @@ Indicated when diagnosis is unclear and results are likely to alter management. 
 
 ### Cyst Ablation
 
-- Ethanol alone or combined with paclitaxel: cyst resolution in 33–79% of cases; adverse events ~12% (fever, abdominal pain, pancreatitis, peritonitis, splenic/portal vein thrombosis)
+- Ethanol alone or combined with paclitaxel: cyst resolution in 33–79% of cases; adverse events ~12% (fever, abdominal pain, pancreatitis, peritonitis, splenic/[[portal-vein-thrombosis|portal vein thrombosis]])
 - Does not eliminate cancer risk (one case of cancer following ethanol ablation)
 - IPMN patients remain at risk for concomitant cancer elsewhere in the parenchyma
 - **Insufficient evidence for routine use** — should ideally be offered only in clinical trials

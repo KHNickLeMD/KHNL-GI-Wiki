@@ -64,7 +64,7 @@ Framework for hepatocellular carcinoma surveillance — who, how, how often, and
 
 ## Prevention (Upstream of Surveillance)
 
-- The best way to reduce HCC morbidity/mortality is to **prevent cirrhosis** (BPA 1): vaccinate and treat viral hepatitis ([[chronic-hepatitis-b|HBV]] nucleos(t)ide analogs; [[hepatitis-c|HCV]] direct-acting antivirals → cure lowers HCC risk), treat alcohol use disorder, manage metabolic syndrome, and address liver disease early.
+- The best way to reduce HCC morbidity/mortality is to **prevent cirrhosis** (BPA 1): vaccinate and treat viral hepatitis ([[chronic-hepatitis-b|HBV]] nucleos(t)ide analogs; [[hepatitis-c|HCV]] [[direct-acting-antivirals|direct-acting antivirals]] → cure lowers HCC risk), treat alcohol use disorder, manage metabolic syndrome, and address liver disease early.
 - Screen HBV patients for HCV, HDV ([[hepatitis-d]]), and HIV coinfection — all raise HCC risk above HBV monoinfection.
 
 ## See Also

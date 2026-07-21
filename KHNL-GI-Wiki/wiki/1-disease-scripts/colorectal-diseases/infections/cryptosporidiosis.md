@@ -53,7 +53,7 @@ sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
 
 ## See Also
 
-[[acute-diarrhea]], [[giardiasis]], [[entamoeba-histolytica-infection]], [[nitazoxanide]]
+[[acute-diarrhea]], [[giardiasis]], [[entamoeba-histolytica-infection]], [[hiv-aids-related-diarrhea]], [[norovirus]], [[rotavirus]], [[enterotoxigenic-e-coli]], [[nitazoxanide]]
 
 ---
 

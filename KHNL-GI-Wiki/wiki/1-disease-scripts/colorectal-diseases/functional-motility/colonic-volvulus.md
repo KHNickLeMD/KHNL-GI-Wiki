@@ -23,7 +23,7 @@ Mechanical **twisting (torsion) of a redundant colon segment along its mesenteri
 
 ### Establishing the Diagnosis
 - Presenting symptoms: nausea, vomiting, abdominal pain, distention, obstipation
-- Risk factors: long redundant colon with narrow mesenteric attachment, chronic constipation, colonic dysmotility, prior abdominal surgery
+- Risk factors: long redundant colon with narrow mesenteric attachment, [[chronic-idiopathic-constipation|chronic constipation]], colonic dysmotility, prior abdominal surgery
 
 ### Classification
 - **Sigmoid volvulus** — most common; older patients, institutionalized/neurologic/constipated

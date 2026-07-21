@@ -41,7 +41,7 @@ Hypercontractile esophagus (jackhammer esophagus) is defined by **Chicago Classi
 ## Therapeutics
 
 - Exclude EGJ obstruction and [[achalasia]] spectrum before treating (elevated IRP → investigate with TBE/FLIP)
-- Treat co-existent [[gerd|GERD]]; hypercontractile esophagus is **not** an absolute contraindication to [[antireflux-surgery|anti-reflux surgery (ARS)]] when the patient has objective GERD and partial PPI response — evaluate carefully pre-operatively (Padova consensus — see [[hrm-antireflux-surgery]])
+- Treat co-existent [[gerd|GERD]]; hypercontractile esophagus is **not** an absolute contraindication to [[antireflux-surgery|anti-reflux surgery (ARS)]] when the patient has objective GERD and partial [[proton-pump-inhibitors|PPI]] response — evaluate carefully pre-operatively (Padova consensus — see [[hrm-antireflux-surgery]])
 - [[poem|POEM]] considered for refractory [[dysphagia]]-predominant disease ([[acg-2020-achalasia]] frames longer myotomy for spastic disease)
 
 *Medical management specific to hypercontractile esophagus (smooth-muscle relaxants, neuromodulators) is not covered by an ingested source — awaiting a dedicated source.*

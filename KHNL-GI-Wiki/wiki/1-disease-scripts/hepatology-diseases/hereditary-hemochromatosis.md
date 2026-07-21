@@ -233,7 +233,7 @@ sources: [acg-2019-hereditary-hemochromatosis, acg-2017-liver-chemistries, aasld
 
 ### Proton Pump Inhibitors
 
-**Recommendation**: Against routine use of PPIs as primary treatment for HH (Rec 9, Strong/Low)
+**Recommendation**: Against routine use of [[proton-pump-inhibitors|PPIs]] as primary treatment for HH (Rec 9, Strong/Low)
 
 - Mechanism: gastric acid facilitates non-heme iron absorption; PPIs reduce dietary iron absorption
 - RCT (Vanclooster, 2017; n=30 C282Y homozygotes): pantoprazole 40 mg/d × 12 months reduced median phlebotomy procedures to 2.6 vs. 1.3 in placebo (P=0.005) when SF >100 ng/mL
@@ -281,7 +281,7 @@ sources: [acg-2019-hereditary-hemochromatosis, acg-2017-liver-chemistries, aasld
 ## See Also
 
 
-[[abnormal-liver-chemistries]], [[alcohol-associated-liver-disease]], [[nafld-masld]], [[autoimmune-hepatitis]], [[drug-induced-liver-injury]], [[hepatocellular-carcinoma]], [[hcc-surveillance]], [[acute-liver-failure]], [[hepatitis-c]], [[chronic-hepatitis-b]], [[iron-overload-and-iron-metabolism]], [[liver-transplantation]]
+[[abnormal-liver-chemistries]], [[alcohol-associated-liver-disease]], [[nafld-masld]], [[autoimmune-hepatitis]], [[drug-induced-liver-injury]], [[hepatocellular-carcinoma]], [[hcc-surveillance]], [[acute-liver-failure]], [[hepatitis-c]], [[chronic-hepatitis-b]], [[iron-overload-and-iron-metabolism]], [[liver-transplantation]], [[proton-pump-inhibitors]]
 
 ---
 

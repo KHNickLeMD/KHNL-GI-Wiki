@@ -3,13 +3,13 @@ title: "Vonoprazan (PCAB)"
 category: med
 tags: [vonoprazan, pcab, h-pylori, acid-suppression, voquezna, potassium-competitive]
 created: 2026-05-16
-updated: 2026-07-16
-sources: [acg-2024-hp-treatment]
+updated: 2026-07-21
+sources: [acg-2024-hp-treatment, aga-2024-pcab]
 ---
 
 # Vonoprazan (PCAB)
 
-Potassium-competitive acid blocker (PCAB). Blocks the gastric H+/K+-ATPase competitively at the potassium-binding site. More potent and faster-acting acid suppression than PPIs; not dependent on meal timing or CYP2C19 metabolism.
+Potassium-competitive acid blocker ([[potassium-competitive-acid-blockers|P-CAB]]) — the only agent of the class available in the US. Blocks the gastric H+/K+-ATPase competitively at the potassium-binding site. More potent and faster-acting acid suppression than PPIs; not dependent on meal timing or CYP2C19 metabolism. For class-level indications and the AGA 2024 Best Practice Advice on when to use a P-CAB, see [[potassium-competitive-acid-blockers]].
 
 **Brand name:** Voquezna (FDA-approved 2022 for [[helicobacter-pylori-infection|H. pylori]] eradication)
 
@@ -55,12 +55,28 @@ Potassium-competitive acid blocker (PCAB). Blocks the gastric H+/K+-ATPase compe
 
 ---
 
+### GERD & PUD (AGA 2024 P-CAB CPU)
+
+- **Severe erosive esophagitis (LA grade C/D):** vonoprazan 20 mg an option for healing + maintenance (healing 92% vs 72% vs lansoprazole at 8 wk); reserve for cost reasons — not clearly superior enough over standard-dose PPI to be routine first-line.
+- **Milder EE (LA A/B), NERD, uninvestigated heartburn:** generally **not first-line**; use only after **twice-daily PPI failure** with documented acid reflux.
+- **PUD treatment/prophylaxis:** noninferior (not superior) to PPIs → generally not first-line.
+- See [[potassium-competitive-acid-blockers]] for the full indication-by-indication guidance.
+
+---
+
+## Safety & Value
+
+- Markedly higher US cost than standard/double-dose PPIs; frequent prior-authorization; less robust long-term safety data than PPIs.
+
+---
+
 ## See Also
 
-[[helicobacter-pylori-infection]], [[bismuth-quadruple-therapy]], [[peptic-ulcer-disease]], [[gerd]], [[test-and-treat]], [[clostridioides-difficile]]
+[[potassium-competitive-acid-blockers]], [[helicobacter-pylori-infection]], [[bismuth-quadruple-therapy]], [[peptic-ulcer-disease]], [[gerd]], [[test-and-treat]], [[clostridioides-difficile]]
 
 ---
 
 ## Sources
 
 1. [[acg-2024-hp-treatment|ACG Clinical Guideline: Treatment of Helicobacter pylori Infection (2024)]]
+2. [[aga-2024-pcab|AGA Clinical Practice Update on Integrating Potassium-Competitive Acid Blockers Into Clinical Practice (2024)]]

@@ -72,7 +72,7 @@ LPS can be caused by multiple mechanisms — reflux is one of several:
 
 #### Branch A: LPS + Concurrent Esophageal Reflux Symptoms
 
-1. **Empiric trial:** PPI BID × 3 months + alginate therapy (4×/day: after meals + bedtime) + lifestyle modification
+1. **Empiric trial:** [[proton-pump-inhibitors|PPI]] BID × 3 months + alginate therapy (4×/day: after meals + bedtime) + lifestyle modification
    - Lifestyle: weight loss, upright posture 2–3h post-meals, head of bed elevation, left lateral sleep, avoid triggers
 2. **If responsive:** Confirms LPRD contribution; consider long-term management with objective testing before permanent therapy
 3. **If unresponsive:** Proceed to esophageal evaluation ([[upper-endoscopy|EGD]] + [[ambulatory-reflux-monitoring|ambulatory reflux monitoring]])
@@ -143,7 +143,7 @@ LPS can be caused by multiple mechanisms — reflux is one of several:
 
 - Indicated only when LPRD is confirmed (objective testing) or when esophageal symptoms are present
 - BID PPI × 3 months ± alginate therapy (first-line trial)
-- PCABs (potassium-competitive acid blockers): emerging alternative to PPI for acid suppression
+- [[potassium-competitive-acid-blockers|PCABs]] (potassium-competitive acid blockers): emerging alternative to PPI for acid suppression
 - Do not escalate to invasive (endoscopic or surgical) anti-reflux management without objective GERD confirmation
 
 ### Behavioral Therapy

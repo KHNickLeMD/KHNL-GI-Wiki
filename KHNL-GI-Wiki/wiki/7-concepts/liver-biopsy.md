@@ -15,7 +15,7 @@ Liver biopsy should be considered when the diagnosis is in question and knowledg
 - **Multiple/coexisting parenchymal diseases** (e.g. steatosis plus HCV or hemochromatosis; overlap syndromes).
 - **Disease-specific roles** — diagnosis, staging, prognosis, or management for [[autoimmune-hepatitis]] (diagnosis, staging, and pre-immunosuppression decisions; portal plasma cell score may predict relapse), [[nafld-masld|NAFLD/MASLD]] (distinguishes steatohepatitis from simple steatosis, stages fibrosis), [[primary-biliary-cholangitis|PBC]] (AMA-negative or suspected overlap; advanced fibrosis predicts poorer UDCA response), [[primary-sclerosing-cholangitis|PSC]] (small-duct disease or overlap), [[wilson-disease|Wilson disease]] (quantitative hepatic copper), [[hereditary-hemochromatosis|hemochromatosis]] (iron quantification, fibrosis staging), and [[drug-induced-liver-injury|DILI]].
 - **Focal/mass lesions** — image-guided biopsy when imaging is indeterminate; core (not aspirate) preferred when neoplasia is suspected. Concerns include sampling error and small tumor-track seeding risk (~0.13%) in [[hepatocellular-carcinoma|HCC]] and [[cholangiocarcinoma]].
-- **[[acute-liver-failure|Acute liver failure]]**, post-transplant allograft dysfunction, and evaluation of cryptogenic cirrhosis.
+- **[[acute-liver-failure|Acute liver failure]]**, post-transplant allograft dysfunction, and evaluation of cryptogenic [[cirrhosis]].
 
 ## Approaches
 
