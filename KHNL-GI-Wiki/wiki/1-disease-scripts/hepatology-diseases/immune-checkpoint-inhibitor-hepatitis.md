@@ -3,7 +3,7 @@ title: "Immune Checkpoint Inhibitor Hepatitis (ICI Hepatotoxicity)"
 category: disease-script
 tags: [ici, immunotherapy, hepatitis, dili, liver, hpb, checkpoint-inhibitor]
 created: 2026-05-16
-updated: 2026-07-12
+updated: 2026-07-22
 sources: [acg-2021-dili, aasld-2022-dili]
 ---
 

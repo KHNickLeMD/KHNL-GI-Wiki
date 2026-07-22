@@ -3,8 +3,8 @@ title: "Semaglutide (Wegovy, Ozempic, Rybelsus)"
 category: med
 tags: [semaglutide, wegovy, ozempic, glp-1, glp1-ra, mash, masld, obesity, diabetes, t2dm, cardiovascular, ckd, weight-loss, essence-trial, select-trial, step-trials, hpb]
 created: 2026-05-25
-updated: 2026-07-17
-sources: [aasld-2025-semaglutide-mash, aga-2022-obesity-pharm, hendershot-2025-semaglutide-aud]
+updated: 2026-07-22
+sources: [aasld-2025-semaglutide-mash, aga-2022-obesity-pharm, hendershot-2025-semaglutide-aud, aga-2024-glp1-endoscopy]
 ---
 
 ## Overview
@@ -147,7 +147,7 @@ For VCTE 15–20 kPa, MRE 4.4–5 kPa, or ELF 10.5–11.3: individualized treatm
 | Hypoglycemia (with insulin/secretagogues) | Monitor glucose in patients on insulin or sulfonylureas; 7.4% vs. 5.4% in ESSENCE (T2DM) | Adjust insulin/sulfonylurea dose; educate on hypoglycemia recognition; higher risk post-[[bariatric-surgery]] |
 | Heart rate increase (chronotropic effect) | Check pulse periodically; ask about palpitations or tachycardia | Caution in arrhythmia-prone patients; reassess if persistent tachycardia |
 | [[gastroparesis]]/delayed gastric emptying | Evaluate baseline gastric motility in at-risk patients; monitor for early satiety, vomiting, retained food | Avoid in severe [[gastroparesis]]; consider gastric emptying evaluation if symptoms persist; retrospective incidence 6.5/1000 person-years |
-| Procedural risks (aspiration/retained gastric contents) | Document GLP-1 RA use pre-procedure; coordinate with local anesthesia for fasting interval | Customize peri-procedural fasting per local guidance; communicate with anesthesia/endoscopy teams |
+| Procedural risks (aspiration/retained gastric contents) | Document GLP-1 RA use pre-procedure; coordinate with local anesthesia for fasting interval | Per [[aga-2024-glp1-endoscopy\|AGA 2024]]: individualized approach, not routine cessation — standard fast (8 h solids/2 h liquids) + no GI symptoms → proceed; ASA consensus alternative is hold day-of (daily dose)/1 wk prior (weekly). Full guidance on [[endoscopy-sedation]] |
 | Diabetic retinopathy and ocular complications | Baseline retinal exam if not recently done in T2DM; periodic ophthalmology evaluation; monitor for blurred vision | Avoid rapid glucose lowering; refer for new visual symptoms; SUSTAIN-6: retinopathy 3.0% vs. 1.8% placebo; increased NAION and wet AMD risk |
 | Lean mass loss/sarcopenia | Assess muscle strength/mass (DEXA, grip test); ensure protein intake and resistance training | Maintain protein intake 1.2–1.5 g/kg/day; encourage resistance training; monitor closely in older/sarcopenic adults; ~13% lean mass loss (39% of total weight loss); appendicular skeletal muscle declines 9–10% over 2 years |
 
@@ -190,7 +190,7 @@ For VCTE 15–20 kPa, MRE 4.4–5 kPa, or ELF 10.5–11.3: individualized treatm
 
 ## See Also
 
-[[nafld-masld]], [[alcohol-associated-liver-disease]], [[acute-pancreatitis]], [[obesity]], [[resmetirom]], [[noninvasive-liver-disease-assessment]], [[liver-biopsy]], [[gastroparesis]], [[bariatric-surgery]], [[portal-hypertension]]
+[[nafld-masld]], [[alcohol-associated-liver-disease]], [[acute-pancreatitis]], [[obesity]], [[resmetirom]], [[noninvasive-liver-disease-assessment]], [[liver-biopsy]], [[gastroparesis]], [[bariatric-surgery]], [[portal-hypertension]], [[endoscopy-sedation]]
 
 ---
 
@@ -199,3 +199,4 @@ For VCTE 15–20 kPa, MRE 4.4–5 kPa, or ELF 10.5–11.3: individualized treatm
 1. [[aasld-2025-semaglutide-mash|Semaglutide Therapy for Metabolic Dysfunction–Associated Steatohepatitis: November 2025 Updates to AASLD Practice Guidance]]
 2. [[aga-2022-obesity-pharm|AGA Clinical Practice Guideline: Pharmacological Interventions for Adults with Obesity (2022)]]
 3. [[hendershot-2025-semaglutide-aud|Once-Weekly Semaglutide in Adults With Alcohol Use Disorder (JAMA Psychiatry 2025)]]
+4. [[aga-2024-glp1-endoscopy|AGA 2024 Rapid Clinical Practice Update: Management of Patients Taking GLP-1 Receptor Agonists Prior to Endoscopy]]

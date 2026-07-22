@@ -1,10 +1,10 @@
 ---
 title: "Sedation and Anesthesia in GI Endoscopy"
 category: concept
-tags: [sedation, anesthesia, propofol, moderate-sedation, deep-sedation, capnography, asa-class, npo, reversal-agents, endoscopy]
+tags: [sedation, anesthesia, propofol, moderate-sedation, deep-sedation, capnography, asa-class, npo, reversal-agents, endoscopy, glp-1]
 created: 2026-06-27
-updated: 2026-07-16
-sources: [asge-2018-sedation]
+updated: 2026-07-22
+sources: [asge-2018-sedation, aga-2024-glp1-endoscopy]
 ---
 
 Framework for procedural sedation across the full continuum used in GI endoscopy — from anxiolysis to general anesthesia — including patient selection (ASA class), agents, monitoring, NPO/aspiration risk, and reversal. Per [[asge-2018-sedation]].
@@ -14,6 +14,7 @@ Framework for procedural sedation across the full continuum used in GI endoscopy
 - [[#Pre-Procedural Assessment]]
   - [[#ASA Physical-Status Class]]
   - [[#NPO / Aspiration Risk]]
+  - [[#GLP-1 Receptor Agonists Before Endoscopy]]
 - [[#Agents]]
   - [[#Benzodiazepine + Opioid (Moderate Sedation)]]
   - [[#Propofol-Based Sedation]]
@@ -48,6 +49,19 @@ Sedation is a drug-induced depression of consciousness on a continuum; patients 
 - Fasting limits aspiration with blunted airway reflexes; no universally accepted standard, no direct fasting-duration ↔ aspiration data.
 - ASA defaults: **≥2 h after clear liquids, ≥6 h after a light meal**.
 - Impaired gastric emptying or emergency → weigh aspiration risk when choosing target depth, delaying the procedure, or protecting the airway (intubation); use a team approach.
+
+### GLP-1 Receptor Agonists Before Endoscopy
+[[semaglutide|GLP-1 receptor agonists]] (semaglutide, tirzepatide, liraglutide, dulaglutide, exenatide) slow gastric emptying → concern for **retained gastric contents and aspiration**, especially at [[upper-endoscopy|EGD]]. GLP-1 RAs retain **solids more than liquids** (liquid emptying T½ ≈ 23 min; abnormal solid emptying = >60% retention at 2 h, >10% at 4 h on scintigraphy).
+
+| Society | Guidance |
+|---|---|
+| **ASA** (consensus, expert opinion) | **Daily-dosed** → hold **day of** procedure. **Weekly-dosed** → hold **1 week prior**. Irrespective of indication/dose/procedure. If not held but no GI symptoms → **"full stomach" precautions**. |
+| **AGA** (2024 Rapid CPU) | **Individualized approach**, not routine cessation. Standard fast (**8 h solids, 2 h liquids**) **+ no symptoms** (nausea, vomiting, dyspepsia, distention) → **proceed** with upper and/or lower endoscopy. |
+
+- Weigh the **indication** — stopping in a patient relying on a GLP-1 RA for **diabetes** may pose more risk than benefit; withholding one dose is reasonable for **weight-loss-only** use but is not mandatory/evidence-based, and may not reliably restore motility.
+- **Symptoms** suggesting retained contents → transabdominal gastric ultrasound if expertise/equipment available (unproven in routine practice); if delay is harmful → consider rapid-sequence intubation (often infeasible in ambulatory settings).
+- Preferred alternative to stopping the drug: **clear/liquid diet the day before** sedated procedures.
+- AGA and a multisociety statement conclude there are **no data to support routinely stopping GLP-1 agonists** prior to elective endoscopy. [[aga-2024-glp1-endoscopy]]
 
 ## Agents
 
@@ -87,3 +101,4 @@ Consider anesthesia-provider–administered sedation for:
 ## Sources
 
 1. [[asge-2018-sedation|ASGE Guidelines for Sedation and Anesthesia in GI Endoscopy (2018)]]
+2. [[aga-2024-glp1-endoscopy|AGA 2024 Rapid Clinical Practice Update: Management of Patients Taking GLP-1 Receptor Agonists Prior to Endoscopy]]

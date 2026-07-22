@@ -3,8 +3,8 @@ title: "Upper Endoscopy (EGD)"
 category: general-procedure
 tags: [egd, upper-endoscopy, esophagogastroduodenoscopy, ugib, barrett-esophagus, peptic-ulcer, gpmc, celiac, quality-indicators]
 created: 2026-05-07
-updated: 2026-07-16
-sources: [acg-2025-egd-quality, aga-2024-upper-endoscopy-quality]
+updated: 2026-07-22
+sources: [acg-2025-egd-quality, aga-2024-upper-endoscopy-quality, aga-2024-glp1-endoscopy]
 ---
 
 # Upper Endoscopy (EGD)
@@ -110,7 +110,7 @@ Document all of: esophagus, GEJ (antegrade), gastric cardia/fundus (retroflexed)
 
 - A meta-analysis of 53,392 patients found 21.7% of EGDs had inappropriate indications; appropriate indication associated with higher diagnostic yield (OR 1.42; 95% CI, 1.36–1.49)
 - Informed consent must document risks, benefits, alternatives, [[endoscopy-sedation|sedation]] plan, and potential therapeutic interventions
-- **GLP-1 receptor agonists (e.g., [[semaglutide]]):** Associated with delayed gastric emptying; ASA advises holding 1 dose before endoscopy to reduce aspiration risk (limited data; watch for updated society guidance)
+- **GLP-1 receptor agonists (e.g., [[semaglutide]]):** Delayed gastric emptying → aspiration risk. ASA (consensus) advises holding day-of (daily dose)/1 wk prior (weekly). **AGA 2024** favors an **individualized** approach over routine cessation — standard fast (8 h solids/2 h liquids) + no GI symptoms → proceed. Full guidance on [[endoscopy-sedation#GLP-1 Receptor Agonists Before Endoscopy|endoscopy-sedation]]. [[aga-2024-glp1-endoscopy]]
 
 ### Mucosal Visualization (BPA 2)
 
@@ -234,3 +234,4 @@ More rigorous documentation is recommended for Barrett's esophagus, gastric inte
 
 1. [[acg-2025-egd-quality|ACG/ASGE 2025: Quality Indicators for Upper GI Endoscopy (EGD)]]
 2. [[aga-2024-upper-endoscopy-quality|AGA 2024: Quality Indicators for Upper GI Endoscopy]]
+3. [[aga-2024-glp1-endoscopy|AGA 2024 Rapid Clinical Practice Update: Management of Patients Taking GLP-1 Receptor Agonists Prior to Endoscopy]]

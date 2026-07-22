@@ -3,8 +3,8 @@ title: "Crohn's Disease"
 category: disease-script
 tags: [crohns, ibd, biologics, ileitis, colitis, perianal-fistula, stricture, fistula, anti-tnf]
 created: 2026-05-07
-updated: 2026-07-16
-sources: [acg-2025-crohns, aga-2025-crohns-pharm, aga-2021-crohns-pharm, aga-2023-biomarkers-cd, acg-2018-crohns, asge-2015-scenic-ibd-dysplasia, asge-2015-ibd, aga-2026-inpatient-ibd, aga-2026-therapeutic-endoscopy-ibd, aga-2024-intestinal-ultrasound]
+updated: 2026-07-22
+sources: [acg-2025-crohns, aga-2025-crohns-pharm, aga-2021-crohns-pharm, aga-2023-biomarkers-cd, acg-2018-crohns, asge-2015-scenic-ibd-dysplasia, asge-2015-ibd, aga-2026-inpatient-ibd, aga-2026-therapeutic-endoscopy-ibd, aga-2024-intestinal-ultrasound, aga-2024-diet-nutrition-ibd]
 ---
 
 # Crohn's Disease
@@ -144,7 +144,17 @@ No single pathognomonic test. Diagnosis = integration of:
 | Budesonide CIR 9mg/day | Induction only (mild-moderate ileocecal) | NOT for maintenance; not for colonic disease; ~10–20% bioavailability |
 | Mesalamine | NOT RECOMMENDED | No efficacy in CD (multiple RCTs) |
 | Sulfasalazine | Only mild colonic CD (weak) | Modestly effective for symptoms; no mucosal healing |
-| Dietary therapy | Low-risk, mild CD | CD exclusion diet, Mediterranean diet; not durable; monitor closely |
+| Dietary therapy | Low-risk, mild CD | [[nutrition-in-ibd#CDED (Partial Enteral Nutrition)\|CD exclusion diet]], [[nutrition-in-ibd#Background / Maintenance Diet\|Mediterranean diet]]; not durable; monitor closely |
+
+---
+
+### Dietary & Nutritional Therapy
+*Full framework (diet by clinical state, EEN/CDED protocols, PN/SBS, malnutrition, micronutrients): [[nutrition-in-ibd]].* [[aga-2024-diet-nutrition-ibd]]
+
+- **[[nutrition-in-ibd#EEN|Exclusive enteral nutrition (EEN)]]** — induces clinical remission + endoscopic response (stronger evidence in children; remission 60–80%, ≈ corticosteroids); **first-line steroid-sparing** in pediatric CD; steroid-sparing **bridge** in adults (limited by adherence). Typically 6–8 wk of polymeric liquid formula only.
+- **[[nutrition-in-ibd#CDED (Partial Enteral Nutrition)|Crohn's disease exclusion diet (CDED)]]** — partial enteral nutrition; effective induction in **mild–moderate CD of short duration**; better tolerated than EEN in children; may salvage biologic loss-of-response.
+- **Preoperative EEN** — in malnourished CD before elective surgery: optimizes nutrition and **reduces postoperative complications** ("prehabilitation").
+- **Malnutrition** — screen all patients (weight loss, fat/muscle loss); serum albumin no longer used to diagnose (nonspecific, inflammation-sensitive). Monitor **vitamin D, iron**; **vitamin B12** with ileal disease/resection >30 cm or ileoanal pouch.
 
 ---
 
@@ -351,7 +361,7 @@ No single pathognomonic test. Diagnosis = integration of:
 
 ## See Also
 
-[[ulcerative-colitis]], [[inflammatory-bowel-disease]], [[uc-vs-crohns-comparison]], [[ibd-preventive-care]], [[intestinal-ultrasound]], [[clostridioides-difficile]], [[celiac-disease]], [[colorectal-cancer]], [[primary-sclerosing-cholangitis]], [[capsule-endoscopy]], [[colonoscopy]], [[chronic-diarrhea]]
+[[ulcerative-colitis]], [[inflammatory-bowel-disease]], [[uc-vs-crohns-comparison]], [[ibd-preventive-care]], [[intestinal-ultrasound]], [[clostridioides-difficile]], [[celiac-disease]], [[colorectal-cancer]], [[primary-sclerosing-cholangitis]], [[capsule-endoscopy]], [[colonoscopy]], [[chronic-diarrhea]], [[nutrition-in-ibd]]
 
 ---
 
@@ -367,3 +377,4 @@ No single pathognomonic test. Diagnosis = integration of:
 8. [[aga-2026-inpatient-ibd|AGA Clinical Practice Update on Inpatient Management of Adults With Inflammatory Bowel Disease: Expert Review (2026)]]
 9. [[aga-2026-therapeutic-endoscopy-ibd|AGA Clinical Practice Update on the Role of Therapeutic Endoscopy in Inflammatory Bowel Disease: Commentary (2026)]]
 10. [[aga-2024-intestinal-ultrasound|AGA Clinical Practice Update on the Role of Intestinal Ultrasound in Inflammatory Bowel Disease: Commentary (2024)]]
+11. [[aga-2024-diet-nutrition-ibd|AGA Clinical Practice Update on Diet and Nutritional Therapies in Patients With IBD: Expert Review (2024)]]

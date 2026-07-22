@@ -3,8 +3,8 @@ title: "Ulcerative Colitis"
 category: disease-script
 tags: [uc, ulcerative-colitis, ibd, 5-asa, biologics, anti-tnf, vedolizumab, asuc, pancolitis, proctitis]
 created: 2026-05-07
-updated: 2026-07-16
-sources: [acg-2025-uc, aga-2024-uc-pharm, aga-2024-pouchitis, aga-2023-biomarkers-uc, acg-2019-uc, asge-2015-scenic-ibd-dysplasia, asge-2015-ibd, aga-2026-inpatient-ibd, aga-2024-intestinal-ultrasound]
+updated: 2026-07-22
+sources: [acg-2025-uc, aga-2024-uc-pharm, aga-2024-pouchitis, aga-2023-biomarkers-uc, acg-2019-uc, asge-2015-scenic-ibd-dysplasia, asge-2015-ibd, aga-2026-inpatient-ibd, aga-2024-intestinal-ultrasound, aga-2024-diet-nutrition-ibd]
 ---
 
 # Ulcerative Colitis
@@ -259,6 +259,16 @@ Idiopathic chronic inflammatory disorder of the large intestine. Continuous muco
 
 ---
 
+### Diet & Nutrition (Adjunct)
+*Diet is adjunctive, not a substitute for medical therapy — full framework: [[nutrition-in-ibd]].* [[aga-2024-diet-nutrition-ibd]]
+
+- **[[nutrition-in-ibd#Background / Maintenance Diet|Mediterranean diet]]** advised for overall health; **low red/processed meat may reduce UC flares** (no diet consistently lowers adult flare rate).
+- Enteral nutrition role in active UC is **limited** (safe, may improve prealbumin in severe flares); EEN/CDED are **CD** therapies, not established for UC.
+- Short-term reduced-fiber/low-FODMAP for symptomatic flares; reintroduce fiber in remission.
+- **Screen all patients for malnutrition** (serum albumin no longer diagnostic); monitor **vitamin D and iron**.
+
+---
+
 ## Monitoring
 
 **Standard monitoring:**
@@ -309,7 +319,7 @@ Idiopathic chronic inflammatory disorder of the large intestine. Continuous muco
 
 ## See Also
 
-[[crohns-disease]], [[inflammatory-bowel-disease]], [[uc-vs-crohns-comparison]], [[ibd-preventive-care]], [[intestinal-ultrasound]], [[clostridioides-difficile]], [[primary-sclerosing-cholangitis]], [[colorectal-cancer]], [[colonoscopy]], [[colon-ischemia]], [[microscopic-colitis]], [[radiation-proctopathy]], [[pouchitis]], [[chronic-diarrhea]]
+[[crohns-disease]], [[inflammatory-bowel-disease]], [[uc-vs-crohns-comparison]], [[ibd-preventive-care]], [[intestinal-ultrasound]], [[clostridioides-difficile]], [[primary-sclerosing-cholangitis]], [[colorectal-cancer]], [[colonoscopy]], [[colon-ischemia]], [[microscopic-colitis]], [[radiation-proctopathy]], [[pouchitis]], [[chronic-diarrhea]], [[nutrition-in-ibd]]
 
 ---
 
@@ -324,3 +334,4 @@ Idiopathic chronic inflammatory disorder of the large intestine. Continuous muco
 7. [[asge-2015-ibd|ASGE Guideline: The Role of Endoscopy in Inflammatory Bowel Disease (2015)]]
 8. [[aga-2026-inpatient-ibd|AGA Clinical Practice Update on Inpatient Management of Adults With Inflammatory Bowel Disease: Expert Review (2026)]]
 9. [[aga-2024-intestinal-ultrasound|AGA Clinical Practice Update on the Role of Intestinal Ultrasound in Inflammatory Bowel Disease: Commentary (2024)]]
+10. [[aga-2024-diet-nutrition-ibd|AGA Clinical Practice Update on Diet and Nutritional Therapies in Patients With IBD: Expert Review (2024)]]

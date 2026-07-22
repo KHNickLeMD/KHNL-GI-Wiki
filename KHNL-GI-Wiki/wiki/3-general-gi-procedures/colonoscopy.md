@@ -3,8 +3,8 @@ title: "Colonoscopy"
 category: general-procedure
 tags: [colonoscopy, crc-screening, polypectomy, surveillance, adenoma, serrated-polyp, colorectal, bowel-prep, split-dose, post-resection, crc-surveillance, metachronous]
 created: 2026-05-07
-updated: 2026-07-17
-sources: [usmstf-2020-followup-colonoscopy, usmstf-2021-crc-screening-age, usmstf-2020-endoscopic-removal, usmstf-2025-bowel-prep, acg-2025-bowel-prep, acg-2014-bowel-cleansing, asge-2015-bowel-preparation, usmstf-2015-crc-surveillance, aga-2025-cade-colonoscopy, asge-2015-scenic-ibd-dysplasia]
+updated: 2026-07-22
+sources: [usmstf-2020-followup-colonoscopy, usmstf-2021-crc-screening-age, usmstf-2020-endoscopic-removal, usmstf-2025-bowel-prep, acg-2025-bowel-prep, acg-2014-bowel-cleansing, asge-2015-bowel-preparation, usmstf-2015-crc-surveillance, aga-2025-cade-colonoscopy, asge-2015-scenic-ibd-dysplasia, aga-2024-glp1-endoscopy]
 ---
 
 # Colonoscopy
@@ -167,7 +167,7 @@ For detailed technique, see [[polypectomy-emr]].
 GLP-1 receptor agonists ([[semaglutide]], liraglutide, tirzepatide, etc.) delay gastric emptying and are associated with increased aspiration risk during [[endoscopy-sedation|procedural sedation]]. The guideline groups them with [[gastroparesis]] for prep-adequacy risk stratification (OR ~1.6).
 
 - Treat patients on GLP-1 agonists as high-risk for inadequate prep — apply high-risk prep modifications (see below)
-- Follow anesthesia unit protocol for medication hold prior to sedation (ASA guidance at time of publication: hold weekly GLP-1 agonists **1 week** before elective procedure)
+- Follow anesthesia unit protocol for medication hold prior to sedation (ASA consensus: hold weekly GLP-1 agonists **1 week** before elective procedure; daily dosing hold day-of). **AGA 2024** favors an individualized approach over routine cessation — standard fast + no GI symptoms → proceed; see [[endoscopy-sedation#GLP-1 Receptor Agonists Before Endoscopy|endoscopy-sedation]]. [[aga-2024-glp1-endoscopy]]
 - Provide enhanced counseling about aspiration risk and prep adherence
 
 ### High-Risk Patients (Prior Inadequate Prep or Risk Factors)
@@ -270,3 +270,4 @@ High-risk = any of: surgery without TME; transanal local excision (TAE or TEM); 
 8. [[usmstf-2015-crc-surveillance|USMSTF 2015: Colonoscopy Surveillance after Colorectal Cancer Resection]]
 9. [[aga-2025-cade-colonoscopy|AGA Living Guideline: Computer-Aided Detection (CADe)-Assisted Colonoscopy (2025)]]
 10. [[asge-2015-scenic-ibd-dysplasia|SCENIC International Consensus Statement on Surveillance and Management of Dysplasia in IBD (2015)]]
+11. [[aga-2024-glp1-endoscopy|AGA 2024 Rapid Clinical Practice Update: Management of Patients Taking GLP-1 Receptor Agonists Prior to Endoscopy]]

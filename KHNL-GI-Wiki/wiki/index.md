@@ -252,6 +252,7 @@ updated: 2026-07-20
 - [[bismuth-quadruple-therapy]] — Bismuth-containing quadruple therapy: components, indications, and efficacy (1 source)
 - [[direct-acting-antivirals]] — DAA drug classes (NS3/4A + NS5A + NS5B); pangenotypic regimens (G/P, SOF/VEL); DDI table (cyclosporine); decompensated cirrhosis contraindications; see [[hepatitis-c]] for treatment tables (1 source)
 - [[somatostatin-analogs]] — Octreotide/lanreotide: SSTR2/5 agonism; acute variceal bleeding (octreotide 50 mcg bolus → 25–50 mcg/hr × 2–5 d); GEP-NET symptom + antiproliferative control and carcinoid crisis; refractory small-bowel vascular bleeding (octreotide LAR 90 mg monthly × 12 mo); biliary/glycemic adverse effects (3 sources)
+- [[glp-2-agonists]] — GLP-2 agonists (teduglutide): trophic to intestinal mucosa; enhance adaptation + facilitate PN weaning in short bowel syndrome; see [[nutrition-in-ibd]] (stub)
 ---
 
 ## Anatomy
@@ -287,6 +288,7 @@ updated: 2026-07-20
 - [[test-and-treat]] — Test-and-treat strategy for H. pylori in uninvestigated dyspepsia (1 source)
 - [[gastric-polyps]] — Gastric Polyps: subtype table (FGP/GHP/GA/pyloric & oxyntic gland adenoma/G-NET) with background mucosa & malignant potential; evaluate polyp + field; test/treat H. pylori; resect largest; surveillance keyed to histology + GIM/atrophic gastritis (1 source)
 - [[inflammatory-bowel-disease]] — IBD overview: Crohn's vs. UC comparison table, shared biologic classes, DILI in IBD, inpatient-management framework (admission, VTE prophylaxis, discharge), links to disease scripts (1 source)
+- [[nutrition-in-ibd]] — Diet & nutritional therapy in IBD: diet-by-clinical-state table, Mediterranean baseline, EEN/CDED induction (CD), PN indications/thresholds + SBS/GLP-2, malnutrition screening (drop serum proteins), vitamin D/iron/B12 monitoring, RD co-management (1 source)
 - [[iron-overload-and-iron-metabolism]] — Iron metabolism: hepcidin-ferroportin axis, intestinal absorption physiology, primary vs. secondary iron overload pathophysiology, key lab interpretation (stub)
 - [[intestinal-methanogen-overgrowth]] — IMO: archaea vs. bacteria distinction, M. smithii, constipation association, CH4 breath test threshold, rifaximin + neomycin treatment (stub)
 - [[intestinal-ultrasound]] — IUS for IBD monitoring: BWT + Doppler hyperemia metrics, comparable to MRE/CTE, treat-to-target thresholds (CD ≥25% BWT reduction; UC BWT <2.8mm, ASUC ≥20% at 48h), pregnancy/comorbid/obese populations, no dysplasia surveillance (1 source)
@@ -297,7 +299,7 @@ updated: 2026-07-20
 - [[nutrition-in-hospitalized-patients]] — Nutrition in hospitalized patients: EN preferred over PN when gut functional, NRS-2002/NUTRIC risk scoring, avoid albumin/prealbumin as nutrition markers, EN within 24–48h for high-risk, permissive underfeeding in early ARDS/obesity, no GRV monitoring, PN deferred 7–10d in low-risk if EN not feasible, EOL autonomy governs nutrition; endoscopic enteral access (30-day nasoenteric-vs-percutaneous rule, PEGJ/DPEJ indications, PEG complications) (3 sources)
 - [[cirrhosis-hemostasis]] — Hemostasis in cirrhosis: rebalanced hemostasis concept, INR/platelet count poor predictors of bleeding, no prophylactic FFP/platelets before routine procedures, TEG/ROTEM preferred for transfusion guidance, PVT paradox in cirrhosis (1 source)
 - [[noninvasive-liver-disease-assessment]] — NILDA: blood (FIB-4/NFS/ELF) + imaging (VCTE/MRE/MRI-PDFF) tools for fibrosis/steatosis; two-tier FIB-4→VCTE/MRE/ELF pathway; rule-out > rule-in; ELF ≥11.3 prognostic; against blood steatosis indices & serial monitoring; hub for MASLD/portal-HTN/cholestatic staging (3 sources)
-- [[endoscopy-sedation]] — Procedural sedation continuum for GI endoscopy: ASA class, NPO/aspiration risk, moderate sedation (benzodiazepine+opioid) vs propofol/MAC, capnography, reversal agents (1 source)
+- [[endoscopy-sedation]] — Procedural sedation continuum for GI endoscopy: ASA class, NPO/aspiration risk, GLP-1 RA before endoscopy (AGA individualized vs ASA hold), moderate sedation (benzodiazepine+opioid) vs propofol/MAC, capnography, reversal agents (2 sources)
 - [[antibiotic-prophylaxis-endoscopy]] — When periprocedural antibiotics are/aren't indicated for endoscopy: not for IE prevention; yes for incomplete biliary drainage, PEG/PEJ, EUS-FNA of cysts, cirrhosis + GI bleed (1 source)
 - [[preprocedure-testing]] — Selective, risk-based laboratory testing before endoscopy: against routine coag/CXR/ECG/type-screen/CBC/UA/chem in healthy patients; test-by-test indications; pregnancy testing before fluoroscopy; abnormal PTT does not predict bleeding (1 source)
 
@@ -431,6 +433,8 @@ updated: 2026-07-20
 - [[aga-2024-intestinal-ultrasound]] — AGA 2024 Clinical Practice Update (Commentary): Role of Intestinal Ultrasound in IBD — BWT + Doppler hyperemia metrics, comparable to MRE/CTE, treat-to-target thresholds (CD sonographic response ≥25% BWT reduction, postop BWT ≥3mm+FC≥50; UC BWT <2.8mm, ASUC ≥20% at 48h), special populations, no dysplasia surveillance
 - [[aga-2024-cvs]] — AGA 2024 Clinical Practice Update (Commentary): Cyclic Vomiting Syndrome — Rome IV Dx criteria; ANMS-CVSA mild vs moderate–severe strata (drive prophylaxis); 4 phases; workup to exclude mimics (no routine gastric emptying scan); TCA first-line prophylaxis + triptan/antiemetic abortive combos; ED management
 - [[aga-2024-pcab]] — AGA 2024 Clinical Practice Update (Expert Review): Integrating Potassium-Competitive Acid Blockers — 9 Best Practice Advice across GERD/HP/PUD; not first-line where superiority unproven (cost/safety); use for severe EE (LA C/D) & in place of PPIs for H. pylori
+- [[aga-2024-diet-nutrition-ibd]] — AGA 2024 Clinical Practice Update (Expert Review): Diet and Nutritional Therapies in IBD — 12 Best Practice Advice; Mediterranean diet baseline; EEN/CDED induction in CD (steroid-sparing, preop prehab); PN for intestinal failure/SBS (thresholds) + GLP-2 agonists; malnutrition screening (drop serum proteins); vitamin D/iron/B12 monitoring; RD co-management
+- [[aga-2024-glp1-endoscopy]] — AGA 2024 Rapid Clinical Practice Update (Communication): GLP-1 Receptor Agonists Prior to Endoscopy — individualized approach over routine cessation; standard fast (8h solid/2h liquid) + no GI symptoms → proceed; ASA consensus (hold day-of daily / 1 wk weekly) surfaced but not evidence-based; liquid diet day-before alternative; multisociety "no data to support stopping"
 - [[aga-acg-2023-constipation]] — AGA-ACG 2023: Pharmacologic Management of Chronic Idiopathic Constipation — Chang, Chey, Imdad et al. Am J Gastroenterol 2023
 - [[aga-2023-biomarkers-cd]] — AGA 2023: Role of Biomarkers for the Management of Crohn's Disease — fecal calprotectin/CRP thresholds for treat-to-target monitoring vs endoscopy
 - [[aga-2023-biomarkers-uc]] — AGA 2023: Role of Biomarkers for the Management of Ulcerative Colitis — fecal calprotectin/CRP-guided monitoring strategy in symptomatic and remission states
@@ -551,4 +555,4 @@ updated: 2026-07-20
 
 ---
 
-*Total: 217 sources | 113 disease scripts | 20 diagnostic schemas | 2 general procedures | 20 advanced procedures | 21 meds | 0 anatomy | 37 concepts | 1 synthesis (on-disk page counts as of 2026-07-21)*
+*Total: 219 sources | 113 disease scripts | 20 diagnostic schemas | 2 general procedures | 20 advanced procedures | 22 meds | 0 anatomy | 38 concepts | 1 synthesis (on-disk page counts as of 2026-07-22)*

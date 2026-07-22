@@ -6,6 +6,37 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-07-22] lint | Ingested 2 AGA 2024 CPUs (GLP-1 RAs before endoscopy + Diet/Nutrition in IBD); new nutrition-in-ibd concept + glp-2-agonists stub; wired into sedation/EGD/colonoscopy/semaglutide + Crohn's/UC; stalest ICI-hepatitis validated; index reconciled (219 sources); 0 broken links
+
+**Sources ingested (2 — guideline/CPU tier, per ingestion priority; no lectures auto-ingested):**
+- `[[aga-2024-glp1-endoscopy]]` — AGA 2024 Rapid CPU (Communication): GLP-1 Receptor Agonists Prior to Endoscopy (Hashash, Thompson, Wang; CGH 2024;22:705–707). Captured ASA consensus hold guidance (day-of daily / 1 wk weekly) vs the AGA individualized position (standard 8h-solid/2h-liquid fast + no GI symptoms → proceed), solid-vs-liquid emptying thresholds, gastric-US and RSI escalation, and the multisociety "no data to support stopping" statement.
+- `[[aga-2024-diet-nutrition-ibd]]` — AGA 2024 CPU (Expert Review): Diet and Nutritional Therapies in IBD (Hashash, Elkins, Lewis, Binion; Gastroenterology 2024;166:521–532). All 12 Best Practice Advice statements captured verbatim, plus Table 1 (diets studied), EEN/CDED protocols, PN indications/thresholds (fistula >500 mL/24 h; ostomy >2000 mL/24 h; <60% goals ×7–10 d; NPO ≥7 d), SBS/GLP-2 weaning, malnutrition criteria, and micronutrient monitoring.
+
+**Pages created:**
+- `[[nutrition-in-ibd]]` (7-concepts) — home page for the diet CPU: diet-by-clinical-state table, Mediterranean baseline + diets-studied table, EEN/CDED (Crohn's), PN & short bowel syndrome, malnutrition screening, micronutrient monitoring.
+- `[[glp-2-agonists]]` (5-meds, **stub**) — teduglutide-class for SBS/PN weaning; flagged that no ingested source covers agent-level dosing/monitoring (needs a dedicated SBS/intestinal-failure source).
+
+**Pages updated (ingest wiring):**
+- `[[endoscopy-sedation]]` — new "GLP-1 Receptor Agonists Before Endoscopy" subsection (ASA vs AGA table) as the home for that guidance; ToC + Sources updated.
+- `[[semaglutide]]`, `[[upper-endoscopy]]`, `[[colonoscopy]]` — periprocedural GLP-1 rows/notes current-ized to the AGA 2024 position and linked to the sedation home; source added to each.
+- `[[crohns-disease]]` — new "Dietary & Nutritional Therapy" subsection (EEN/CDED induction, preop prehab, malnutrition/micronutrients); Mild-Ileocecal diet cell linked to `[[nutrition-in-ibd]]`.
+- `[[ulcerative-colitis]]` — new "Diet & Nutrition (Adjunct)" subsection (Mediterranean, limited EN role, malnutrition screening).
+
+**Stalest-page validation (Content + Style Guides):**
+- `[[immune-checkpoint-inhibitor-hepatitis]]` (was stalest entity page, `updated` 2026-07-12) — checked decision sufficiency: CTCAE ALT/AST cutoffs, grade-directed immunosuppression doses, ICI-vs-other-DILI distinguishing features, DDx schema link, See Also/Sources all present and correct. No changes needed; `updated` bumped to 2026-07-22.
+
+**Hygiene / reconciliation:**
+- `index.md` — added 2 source entries (AGA), `[[nutrition-in-ibd]]` (Concepts), `[[glp-2-agonists]]` (Meds); refreshed `[[endoscopy-sedation]]` description (now 2 sources); totals → **219 sources | 22 meds | 38 concepts** (as of 2026-07-22).
+- Whole-wiki broken-link scan (escaped-pipe/embed-aware): **0 genuinely broken links**.
+
+**Flagged for user / future passes (not fixed — no outside info used):**
+- No `iron-deficiency-anemia` entity page exists (only `[[iron-overload-and-iron-metabolism]]`); `[[aga-2020-ida]]` is already ingested and could seed one — deferred (out of this pass's 2-file scope).
+- No `g-poem` advanced-procedure page (referenced by gastroparesis pages); the AGA 2023 CPU G-POEM is uningested — kept as plain text, not linked.
+- Large uningested AGA CPU backlog remains (~20: e.g. Extraesophageal GERD, G-POEM, Ostomies, EUS-GB drainage, IBD scoring/pain/malignancy, Tailored Polypectomy, Vasoactive+Albumin, Enteral Access, Gastric Cancer Screening, Nonampullary Duodenal, PVT-in-cirrhosis, Advances in POEM, AI/NAFLD-biomarker CPUs). Reported, not ingested (2-file cap).
+- 60 lecture/chalk-talk transcripts remain **gated** — not auto-ingested; awaiting user selection by name.
+
+---
+
 ## [2026-07-21] lint | Ingested 2 AGA 2024 CPUs (Cyclic Vomiting Syndrome + P-CABs); new P-CAB drug-class + PPI stub; Child-Pugh/MELD/ALBI operative tables added to cirrhosis (top wiki-wide decision gap closed); 14-batch parallel link pass; PTLD stub expanded; index reconciled (217 sources); 0 broken links
 
 **Sources ingested (2 — guideline/CPU tier, per ingestion priority; no lectures auto-ingested):**
