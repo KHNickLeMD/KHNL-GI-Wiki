@@ -3,7 +3,7 @@ title: "ERCP (Endoscopic Retrograde Cholangiopancreatography)"
 category: advanced-procedure
 tags: [ercp, biliary, pancreatic, hepatobiliary, sphincterotomy, stent, stone-extraction]
 created: 2026-05-16
-updated: 2026-07-16
+updated: 2026-07-23
 sources: [asge-2024-therapeutic-eus-biliary, asge-2023-post-ercp-pancreatitis, asge-2021-cholangitis, asge-2019-choledocholithiasis, asge-2023-post-transplant-biliary-strictures, asge-2015-ercp-benign-biliary]
 ---
 
@@ -49,7 +49,8 @@ sources: [asge-2024-therapeutic-eus-biliary, asge-2023-post-ercp-pancreatitis, a
 ## Complications
 
 - **Post-ERCP pancreatitis (PEP):** most common complication (~3–5% standard, higher in high-risk patients)
-  - Prophylaxis: rectal indomethacin (standard), aggressive hydration, pancreatic duct stent for high-risk
+  - **High-risk criteria** ([[asge-2023-post-ercp-pancreatitis|ASGE 2023]]) — *patient-related:* suspected sphincter of Oddi dysfunction, prior history of PEP, female sex, age <40, normal serum bilirubin; *procedure-related:* difficult/prolonged cannulation, pancreatic guidewire passage or contrast injection, precut (access) sphincterotomy, pancreatic sphincterotomy, ampullectomy, endoscopic papillary balloon dilation. Risk is cumulative — multiple factors compound.
+  - **Prophylaxis:** rectal indomethacin or diclofenac **100 mg** immediately before/after ERCP (strong rec, all-comers unless contraindicated); aggressive periprocedural lactated Ringer's hydration; **prophylactic pancreatic duct stent (3–5F, preferably 5F)** in high-risk patients when the PD is deeply cannulated/guidewire-passed — NSAID + PD stent combined is optimal for the highest-risk cases
 - **Cholangitis** (post-procedure biliary infection)
 - **Bleeding** (post-sphincterotomy)
 - **Perforation** (rare; retroperitoneal or duodenal)

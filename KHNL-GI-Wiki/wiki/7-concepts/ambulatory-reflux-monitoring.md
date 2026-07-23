@@ -232,7 +232,7 @@ The ACG 2020 guideline [[acg-2020-esophageal-physiologic-testing]] provides the 
 
 ## See Also
 
-[[hrm-antireflux-surgery]], [[flip-panometry]], [[laryngopharyngeal-symptoms]], [[achalasia]], [[reflux-testing]], [[gerd]], [[barretts-esophagus]], [[high-resolution-manometry]], [[chicago-classification-v4]], [[rumination-syndrome]], [[antireflux-surgery]]
+[[hrm-antireflux-surgery]], [[flip-panometry]], [[laryngopharyngeal-symptoms]], [[extraesophageal-reflux]], [[achalasia]], [[reflux-testing]], [[gerd]], [[barretts-esophagus]], [[high-resolution-manometry]], [[chicago-classification-v4]], [[rumination-syndrome]], [[antireflux-surgery]]
 
 ---
 

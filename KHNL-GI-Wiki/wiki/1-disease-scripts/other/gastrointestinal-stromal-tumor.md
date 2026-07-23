@@ -3,8 +3,8 @@ title: "Gastrointestinal Stromal Tumor (GIST)"
 category: disease-script
 tags: [gist, gastrointestinal-stromal-tumor, subepithelial-lesion, kit, cd117, dog1, pdgfra, sdh-deficient, imatinib, sunitinib, regorafenib, ripretinib, avapritinib, mesenchymal-tumor, nccn, oncology]
 created: 2026-06-18
-updated: 2026-07-17
-sources: [nccn-2026-gist]
+updated: 2026-07-23
+sources: [nccn-2026-gist, acg-2023-subepithelial-lesions, asge-2017-subepithelial-lesions]
 ---
 
 ## Assessment
@@ -15,9 +15,11 @@ GISTs typically present as a subepithelial mass (often gastric), sometimes with 
 
 ### Severity Assessment
 
-Malignant potential is estimated from **tumor size, mitotic rate, and primary site** — gastric GISTs behave more favorably than small-bowel or rectal tumors of equivalent size and mitotic rate. **Tumor rupture** (spontaneous or at surgery) confers high risk of recurrence.
+Malignant potential is estimated from **tumor size, mitotic rate, and primary site** — gastric GISTs behave more favorably than small-bowel or rectal tumors of equivalent size and mitotic rate (small-intestinal GISTs ~40–50% malignant vs ~20–25% gastric). **Tumor rupture** (spontaneous or at surgery) confers high risk of recurrence. Metastatic risk rises with size — up to **86%** for >10 cm high-mitotic-rate lesions ([[acg-2023-subepithelial-lesions]], [[asge-2017-subepithelial-lesions]]).
 
-⚠ **Decision gap — the operative size/mitotic-rate cutoffs that assign a GIST to a risk stratum are not reproduced here.** [[nccn-2026-gist]] is the page's only source, and NCCN's licence bars reproducing its proprietary risk tables, so the thresholds that trigger adjuvant imatinib cannot be sourced from the wiki. **Consult the original NCCN risk-stratification table directly** before deciding on adjuvant therapy.
+**EUS features of malignancy** ([[acg-2023-subepithelial-lesions]]): heterogeneous echotexture, large size (>3–5 cm), irregular margins, anechoic/cystic spaces, echogenic foci, malignant-appearing nodes. **≥2 features** → sensitivity for malignancy 80–100%; absence of all of irregular border / echogenic foci / cystic spaces → malignancy in only 0–11%. **Tumor size is the only feature that correlates with mitotic index** — EUS does not reliably predict mitotic rate in 2–5 cm GISTs, so final malignant potential is set by surgical pathology.
+
+⚠ **Decision gap (narrowed).** The surveil-vs-resect thresholds are now on-page (see Therapeutics), but the full **modified-NIH / AFIP size × mitotic-rate prognostic table** that assigns a resected GIST to a recurrence-risk stratum for **adjuvant imatinib** is not reproduced: NCCN's licence bars its proprietary version and [[asge-2017-subepithelial-lesions]] references but did not reproduce the AFIP table. **Consult the AFIP / NCCN risk-stratification table directly** before deciding on adjuvant therapy.
 
 ### Classification / Typing
 
@@ -41,7 +43,11 @@ Other subepithelial lesions: leiomyoma, schwannoma, [[gastroenteropancreatic-neu
 
 Per [[nccn-2026-gist]]:
 
-- **Localized, resectable:** surgical resection with negative margins (no routine lymphadenectomy). Very small (<2 cm) gastric GISTs without high-risk EUS features may be followed with surveillance.
+- **Localized, resectable — resect vs surveil ([[acg-2023-subepithelial-lesions]], [[asge-2017-subepithelial-lesions]]):**
+  - **<2 cm gastric** — surveillance *or* resection both acceptable (insufficient evidence); surveil if **no** high-risk features (irregular borders, cystic spaces, ulceration, echogenic foci, heterogeneity); if resecting, endoscopic methods are an acceptable alternative to surgery.
+  - **>2 cm gastric** — resect.
+  - **All nongastric GIST** (esophageal, small-bowel, colorectal) — resect regardless of size.
+  - Surgical resection is with negative margins (no routine lymphadenectomy); for **very large** GISTs confirm tissue first to permit neoadjuvant imatinib.
 - **Neoadjuvant imatinib:** to downsize marginally resectable tumors or preserve organ function (EGJ, duodenum, rectum); confirm an imatinib-sensitive mutation first.
 - **Adjuvant imatinib for ≥3 years** for high-risk resected GIST (by size/mitotic rate/site; rupture = high risk).
 - **Unresectable/metastatic:** **imatinib first-line** (higher dose for KIT exon 9) → **sunitinib** (2nd) → **regorafenib** (3rd) → **ripretinib** (4th); **avapritinib** for **PDGFRA D842V**. Continue TKI therapy in responding disease; surgery/ablation may be considered for limited/focal progression.
@@ -73,3 +79,5 @@ flowchart TD
 ## Sources
 
 1. [[nccn-2026-gist|NCCN Clinical Practice Guidelines in Oncology: Gastrointestinal Stromal Tumors (GIST) (Version 1.2026)]]
+2. [[acg-2023-subepithelial-lesions|ACG 2023: Diagnosis and Management of Gastrointestinal Subepithelial Lesions]]
+3. [[asge-2017-subepithelial-lesions|ASGE 2017: The Role of Endoscopy in Subepithelial Lesions of the GI Tract]]

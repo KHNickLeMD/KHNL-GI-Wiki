@@ -3,7 +3,7 @@ title: "Liver Transplantation — Post-Transplant Management"
 category: disease-script
 tags: [liver-transplant, liver-transplantation, immunosuppression, tacrolimus, calcineurin-inhibitor, ckd, metabolic-syndrome, rejection, tcmr, pcr, amr, biliary-stricture, vascular-complications, machine-perfusion, dcd, ldlt, ead, hbv, hcv, pbc, psc, autoimmune-hepatitis, hcc, masld, ald, de-novo-malignancy, post-transplant, bone-health, vaccination, cmv, cancer-surveillance, glp-1, bariatric-surgery, aasld]
 created: 2026-05-19
-updated: 2026-07-17
+updated: 2026-07-23
 sources: [aasld-2012-liver-transplant-long-term, aasld-ast-2025-liver-transplant-graft-complications, aasld-ast-2025-liver-transplant-candidate-evaluation, aasld-ast-2025-liver-transplant-non-graft-complications, asge-2023-post-transplant-biliary-strictures]
 ---
 
@@ -22,7 +22,7 @@ Liver transplantation (LT) is a lifesaving procedure for selected patients with 
 **Chronic liver disease — indications for referral** (Recs 1–2, [[aasld-ast-2025-liver-transplant-candidate-evaluation]]):
 
 - Any **decompensating event**: [[ascites]] (with or without [[spontaneous-bacterial-peritonitis|SBP]]), [[hepatic-encephalopathy|hepatic encephalopathy]], [[variceal-upper-gi-bleeding|variceal hemorrhage]], [[hepatopulmonary-syndrome-portopulmonary-hypertension|hepatopulmonary syndrome/portopulmonary hypertension]], HCC (Strong, Level 4)
-- **MELD ≥12** in the absence of portal hypertensive complications — a reasonable threshold; MELD score alone should never be a barrier to referral (Strong, Level 4)
+- **MELD ≥12** in the absence of portal hypertensive complications — a reasonable threshold; MELD score alone should never be a barrier to referral (Strong, Level 4). *MELD-Na formula and Child-Pugh points/classes: see [[cirrhosis]].*
 - [[acute-on-chronic-liver-failure|ACLF]]: refer promptly regardless of MELD; high MELD (>40) and ACLF grade alone are NOT contraindications (Strong, Level 4; Strong, Level 3)
 
 **[[acute-liver-failure|Acute liver failure]] (ALF):** ALL patients should be referred urgently, ideally in the first hours of presentation prior to meeting formal ALF diagnostic criteria (Strong, Level 2). Transplant centers must respond promptly to transfer requests (Strong, Level 5).

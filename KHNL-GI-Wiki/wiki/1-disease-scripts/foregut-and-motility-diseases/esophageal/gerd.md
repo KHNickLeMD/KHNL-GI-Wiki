@@ -3,8 +3,8 @@ title: "Gastroesophageal Reflux Disease"
 category: disease-script
 tags: [gerd, reflux, esophageal, foregut, motility]
 created: 2026-05-15
-updated: 2026-07-21
-sources: [asge-2024-gerd, acg-2021-gerd, sages-2021-gerd-surgery, lyon-2024-gerd-diagnosis, aga-2024-pcab]
+updated: 2026-07-23
+sources: [asge-2024-gerd, acg-2021-gerd, sages-2021-gerd-surgery, lyon-2024-gerd-diagnosis, aga-2024-pcab, aga-2023-extraesophageal-gerd]
 ---
 
 ## Assessment
@@ -83,7 +83,7 @@ Objective severity is assessed endoscopically and with [[reflux-testing|reflux t
 | Functional heartburn | Normal AET on pH study, normal impedance; symptom-reflux correlation absent; Rome V criteria; PPI often ineffective |
 | [[peptic-ulcer-disease\|Peptic ulcer disease]] | Epigastric pain; [[helicobacter-pylori-infection\|H. pylori]] association; EGD shows ulceration; not position-related |
 | Esophageal dysmotility | Dysphagia, chest pain; manometry distinguishes; consider pre-TIF workup |
-| Laryngopharyngeal reflux | Throat-clearing, hoarseness, globus; see [[laryngopharyngeal-symptoms]]; diagnosis challenging, HEMII-pH may be required |
+| Laryngopharyngeal reflux / [[extraesophageal-reflux|extraesophageal reflux]] | Throat-clearing, hoarseness, globus, chronic cough; see [[laryngopharyngeal-symptoms]]; diagnosis challenging, HEMII-pH may be required |
 | [[gastroparesis\|Gastroparesis]] | Postprandial bloating, nausea, early satiety; GERD guideline explicitly excludes this population |
 
 ---
@@ -248,15 +248,18 @@ Not recommended outside clinical trials. Under evaluation:
 - **RYGB:** for obese patients with GERD (Conditional/Low, ACG 2021)
 - **Stretta:** NOT recommended by ACG 2021 (inconsistent, variable evidence); ASGE 2024 similarly does not recommend for most patients
 
-### Extraesophageal GERD Manifestations (ACG 2021)
+### Extraesophageal GERD Manifestations
 
-**Laryngopharyngeal reflux (LPR), chronic cough, asthma:**
+*Full framework: see [[extraesophageal-reflux]] (umbrella) and [[laryngopharyngeal-symptoms|laryngopharyngeal symptoms / LPRD]] (laryngeal-specific).*
 
-- Evaluate for non-GERD causes before attributing symptoms to GERD (Strong/Moderate)
-- If isolated extraesophageal symptoms without typical GERD: perform reflux monitoring BEFORE starting PPI (Strong/Moderate)
-- If BOTH typical AND extraesophageal symptoms: BID PPI for 8–12 weeks (Conditional/Low)
-- No oropharyngeal/pharyngeal pH monitoring
-- No salivary pepsin testing (insufficient evidence)
+**Laryngopharyngeal reflux (LPR), chronic cough, asthma, dental erosions:**
+
+- **No single test conclusively proves GER causes the symptoms**; 50–60% of EER patients don't have GERD ([[aga-2023-extraesophageal-gerd|AGA 2023 CPU]], BPA 3). Evaluate for non-GERD causes first, multidisciplinary approach (ACG 2021, Strong/Moderate)
+- If isolated extraesophageal symptoms without typical GERD: perform reflux monitoring **before** starting PPI (Strong/Moderate; AGA 2023 BPA 4)
+- If BOTH typical AND extraesophageal symptoms: single-dose PPI titrating up to BID, ×8–12 weeks (Conditional/Low)
+- **Symptom improvement on PPI does NOT confirm GERD** (non-acid-suppression mechanisms; AGA 2023 BPA 5). After one failed 12-week trial, pursue objective testing rather than trying different PPIs (BPA 6)
+- Anti-reflux surgery only with objectively-defined GERD; lack of PPI response predicts lack of surgical response (AGA 2023 BPA 10)
+- No oropharyngeal/pharyngeal pH monitoring; no salivary pepsin testing (insufficient evidence)
 
 ### Refractory GERD (ACG 2021)
 
@@ -279,7 +282,7 @@ Not recommended outside clinical trials. Under evaluation:
 
 ## See Also
 
-[[dysphagia]], [[barretts-esophagus]], [[esophageal-adenocarcinoma]], [[eosinophilic-esophagitis]], [[achalasia]], [[peptic-ulcer-disease]], [[gastroparesis]], [[helicobacter-pylori-infection]], [[laryngopharyngeal-symptoms]], [[ambulatory-reflux-monitoring]], [[reflux-testing]], [[high-resolution-manometry]], [[hrm-antireflux-surgery]], [[flip-panometry]], [[antireflux-surgery]], [[poem]], [[vonoprazan]], [[upper-endoscopy]], [[bariatric-surgery]], [[obesity]]
+[[dysphagia]], [[barretts-esophagus]], [[esophageal-adenocarcinoma]], [[eosinophilic-esophagitis]], [[achalasia]], [[peptic-ulcer-disease]], [[gastroparesis]], [[helicobacter-pylori-infection]], [[extraesophageal-reflux]], [[laryngopharyngeal-symptoms]], [[ambulatory-reflux-monitoring]], [[reflux-testing]], [[high-resolution-manometry]], [[hrm-antireflux-surgery]], [[flip-panometry]], [[antireflux-surgery]], [[poem]], [[vonoprazan]], [[upper-endoscopy]], [[bariatric-surgery]], [[obesity]]
 
 ---
 
@@ -290,3 +293,4 @@ Not recommended outside clinical trials. Under evaluation:
 3. [[sages-2021-gerd-surgery|SAGES 2021 Guidelines for Surgical Treatment of Gastroesophageal Reflux (GERD)]]
 4. [[lyon-2024-gerd-diagnosis|Lyon Consensus 2.0 (2024): Evidence-Based Diagnosis of GERD]]
 5. [[aga-2024-pcab|AGA Clinical Practice Update on Integrating Potassium-Competitive Acid Blockers Into Clinical Practice (2024)]]
+6. [[aga-2023-extraesophageal-gerd|AGA Clinical Practice Update on the Diagnosis and Management of Extraesophageal Gastroesophageal Reflux Disease: Expert Review (2023)]]

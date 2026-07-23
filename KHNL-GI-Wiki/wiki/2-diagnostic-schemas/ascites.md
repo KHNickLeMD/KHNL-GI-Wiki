@@ -3,8 +3,8 @@ title: "Ascites"
 category: diagnostic-schema
 tags: [ascites, cirrhosis, saag, paracentesis, diuretics, tips]
 created: 2026-05-15
-updated: 2026-07-17
-sources: [aasld-2021-ascites-sbp-hrs, aga-2025-ascites-cirrhosis]
+updated: 2026-07-23
+sources: [aasld-2021-ascites-sbp-hrs, aga-2025-ascites-cirrhosis, aga-2024-vasoactive-albumin-cirrhosis]
 ---
 
 ## Definition / Scope
@@ -148,6 +148,12 @@ SAAG = serum albumin − ascitic fluid albumin (simultaneous samples)
 
 **PPCD (postparacentesis circulatory dysfunction):** Clinically manifest as renal impairment, dilutional hyponatremia, [[hepatic-encephalopathy|hepatic encephalopathy]], or death; prevented by adequate albumin replacement
 
+**When albumin and vasoconstrictors are NOT indicated (AGA 2024 CPU):**
+
+- **Albumin should NOT be used** (hospitalized or not) in cirrhosis with **uncomplicated ascites** (BPA 6) — a fixed/routine albumin dose has no established benefit here.
+- **Vasoconstrictors have NO role** in uncomplicated ascites, after large-volume paracentesis, or in SBP (BPA 7) — vasoconstrictor therapy in cirrhotic AKI is reserved for [[aki-in-cirrhosis|HRS-AKI]] once criteria are met.
+- In hospitalized patients with cirrhosis and ascites presenting with AKI, **albumin is the volume expander of choice** (BPA 8). [[aga-2024-vasoactive-albumin-cirrhosis]]
+
 ### [[tips|TIPS]] (Refractory Ascites)
 
 - Superior to repeated LVP for ascites control and may confer survival benefit in selected patients
@@ -229,3 +235,4 @@ SAAG = serum albumin − ascitic fluid albumin (simultaneous samples)
 
 1. [[aasld-2021-ascites-sbp-hrs|AASLD 2021: Diagnosis, Evaluation, and Management of Ascites, SBP, and HRS in Cirrhosis]]
 2. [[aga-2025-ascites-cirrhosis|AGA Clinical Practice Update on the Management of Ascites, Volume Overload, and Hyponatremia in Cirrhosis: Expert Review (2025)]]
+3. [[aga-2024-vasoactive-albumin-cirrhosis|AGA 2024 Clinical Practice Update on the Use of Vasoactive Drugs and Intravenous Albumin in Cirrhosis]]

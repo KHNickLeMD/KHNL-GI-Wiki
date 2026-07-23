@@ -3,7 +3,7 @@ title: "Acute Pancreatitis"
 category: disease-script
 tags: [pancreatitis, acute-pancreatitis, hpb, gallstone-pancreatitis, necrotizing-pancreatitis, ercp, bisap, fluid-resuscitation, nutrition]
 created: 2026-05-07
-updated: 2026-07-17
+updated: 2026-07-23
 sources: [acg-2024-acute-pancreatitis, asge-2016-pancreatic-fluid-collections, asge-2015-benign-pancreatic-disease, demadaria-2022-waterfall]
 ---
 
@@ -108,11 +108,9 @@ BISAP ≥3 = high risk for severe AP and mortality
 
 **CT with IV contrast (CECT):**
 
-- **CT Severity Index (CTSI) = Balthazar grade + necrosis score (0–10)**
-  - Grades A–E: A = normal, E = ≥2 large peripancreatic fluid collections or gas
-  - Necrosis: 0% = 0 pts; <30% = 2 pts; 30–50% = 4 pts; >50% = 6 pts
-  - CTSI ≥7 = severe; associated with complications
-  - ⚠ **Unresolved discrepancy — do not rely on this cutoff without checking the source.** This page states **≥7**; the [[acg-2024-acute-pancreatitis]] source page records **≥8 = severe**. Both trace to the same guideline, and the raw PDF is no longer in `raw/`, so the conflict cannot be adjudicated from the ingested corpus. Verify against the original ACG 2024 guideline before using CTSI to assign severity.
+- **Severity is assigned by the Revised Atlanta Classification (organ failure)** — see [[#Severity Assessment]] above. ACG 2024 explicitly cautions that **scoring systems and imaging alone are not accurate** in predicting which patients will develop moderately severe/severe AP, and grades severity by persistent organ failure (Marshall score), *not* by a CT index [[acg-2024-acute-pancreatitis]].
+- **CT Severity Index (CTSI) = Balthazar grade + necrosis score** — a radiologic index correlating necrosis/peripancreatic collections with complications.
+  - ⚠ **No CTSI numeric severity cutoff is sourced.** The [[acg-2024-acute-pancreatitis]] guideline text (re-read from the raw PDF, 2026-07-23) defines severity by the Revised Atlanta Classification and assigns **no CTSI threshold** — so the previously flagged "≥7 vs ≥8" conflict cannot be adjudicated from ACG 2024 because that guideline states no CTSI cutoff at all. The `acg-2024-acute-pancreatitis` source page still lists "≥8 = severe" attributed to this guideline; that attribution is unsupported and should be corrected. Restoring CTSI point values/threshold would require ingesting a dedicated radiology source (e.g., Balthazar/Bollen).
 - **Postpone CT to 48–72h** — pancreatic necrosis not apparent on early CT (<48h); premature CT may underestimate extent
 - Contrast-enhanced: best for necrosis assessment; consider with-contrast in renal dysfunction → use MRCP instead
 

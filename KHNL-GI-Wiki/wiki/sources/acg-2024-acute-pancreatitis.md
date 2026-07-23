@@ -77,7 +77,7 @@ ERCP is indicated in acute gallstone pancreatitis only with concurrent cholangit
 
 **Necrotizing pancreatitis:**
 
-- CT severity index (CTSI): pancreatic necrosis + peripancreatic collections; ≥8 = severe
+- Severity is defined by the **Revised Atlanta classification** (severe = persistent organ failure; moderately severe = transient organ failure or local/systemic complications), **not** by a CT score — ACG 2024 states scoring systems and imaging alone are not accurate for predicting moderately severe/severe AP. (CTSI is a radiologic descriptor of necrosis/collections but ACG 2024 gives no numeric severity cutoff.)
 - **Step-up approach:**
   1. Antibiotics (if infected necrosis)
   2. Percutaneous or endoscopic drainage

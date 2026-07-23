@@ -3,7 +3,7 @@ title: "Vonoprazan (PCAB)"
 category: med
 tags: [vonoprazan, pcab, h-pylori, acid-suppression, voquezna, potassium-competitive]
 created: 2026-05-16
-updated: 2026-07-21
+updated: 2026-07-23
 sources: [acg-2024-hp-treatment, aga-2024-pcab]
 ---
 
@@ -47,15 +47,7 @@ Potassium-competitive acid blocker ([[potassium-competitive-acid-blockers|P-CAB]
 
 ---
 
-## Safety
-
-- Generally well-tolerated in RCTs
-- No established long-term safety data compared to PPIs
-- Same theoretical concerns as PPIs for prolonged acid suppression (hypomagnesemia, C. diff, enteric infections) — not yet well-characterized for PCABs
-
----
-
-### GERD & PUD (AGA 2024 P-CAB CPU)
+## GERD & PUD (AGA 2024 P-CAB CPU)
 
 - **Severe erosive esophagitis (LA grade C/D):** vonoprazan 20 mg an option for healing + maintenance (healing 92% vs 72% vs lansoprazole at 8 wk); reserve for cost reasons — not clearly superior enough over standard-dose PPI to be routine first-line.
 - **Milder EE (LA A/B), NERD, uninvestigated heartburn:** generally **not first-line**; use only after **twice-daily PPI failure** with documented acid reflux.
@@ -66,7 +58,9 @@ Potassium-competitive acid blocker ([[potassium-competitive-acid-blockers|P-CAB]
 
 ## Safety & Value
 
-- Markedly higher US cost than standard/double-dose PPIs; frequent prior-authorization; less robust long-term safety data than PPIs.
+- Generally well-tolerated in RCTs
+- No established long-term safety data compared to PPIs; same theoretical concerns as PPIs for prolonged acid suppression (hypomagnesemia, [[clostridioides-difficile|C. diff]], enteric infections) — not yet well-characterized for PCABs
+- Markedly higher US cost than standard/double-dose PPIs; frequent prior-authorization
 
 ---
 

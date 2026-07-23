@@ -3,7 +3,7 @@ title: "Acute Liver Failure"
 category: disease-script
 tags: [acute-liver-failure, alf, liver, hepatology, transplant, liver-transplant-referral]
 created: 2026-05-15
-updated: 2026-07-17
+updated: 2026-07-23
 sources: [acg-2023-alf, acg-2016-liver-disease-pregnancy, aasld-ast-2025-liver-transplant-candidate-evaluation, aasld-2011-alf]
 ---
 
@@ -47,7 +47,7 @@ sources: [acg-2023-alf, acg-2016-liver-disease-pregnancy, aasld-ast-2025-liver-t
 - *APAP-induced ALF:* Arterial pH <7.3 after resuscitation OR lactate >3 mmol/L **OR** all of: HE >grade 3 + creatinine >3.4 mg/dL + INR >6.5
 - *Non-APAP ALF:* INR >6.5 **OR** any 3 of 5: etiology (indeterminate or [[drug-induced-liver-injury|DILI]]), age >40, jaundice-to-encephalopathy interval >7 days, bilirubin >17.4 mg/dL, INR >3.5
 
-**MELD Score:** Higher sensitivity (74%), lower specificity (67%); MELD >25 = high risk of poor outcome
+**MELD Score:** Higher sensitivity (74%), lower specificity (67%); MELD >25 = high risk of poor outcome (MELD-Na components/formula: see [[cirrhosis]])
 
 **Other criteria:**
 

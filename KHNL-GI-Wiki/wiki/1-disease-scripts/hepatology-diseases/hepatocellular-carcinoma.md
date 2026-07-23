@@ -3,7 +3,7 @@ title: "Hepatocellular Carcinoma"
 category: disease-script
 tags: [hcc, hepatocellular, liver, cancer, hpb, surveillance, cirrhosis, hbv, adjuvant, immunotherapy, liver-transplant, milan-criteria, afp, downstaging, mtor-inhibitor, sirolimus, everolimus, bclc, sorafenib, lenvatinib, atezolizumab, bevacizumab, tace, tare, ablation, resection, li-rads, locoregional]
 created: 2026-05-16
-updated: 2026-07-17
+updated: 2026-07-23
 sources: [aasld-2023-hcc, aasld-2025-hcc-critical-update, aasld-ast-2025-liver-transplant-candidate-evaluation, aasld-ast-2025-liver-transplant-graft-complications, aga-2022-hcc-systemic, nccn-2026-hcc, aga-2026-hcc-surveillance]
 ---
 
@@ -54,7 +54,7 @@ Surveillance is associated with improved survival (pooled HR 0.67, 95% CI 0.61�
 ![[hcc-2023-bclc-algorithm-14.png|700x445]]
 *Figure 9 — Updated Barcelona Clinic Liver Cancer (BCLC) Staging System 2022: tumor characterization, treatment allocation, and expected survival by stage. ([[aasld-2023-hcc]])*
 
-**Barcelona Clinic Liver Cancer (BCLC) 2022 Staging System** is the AASLD-recommended staging system; incorporates tumor burden, liver function (MELD, Child-Pugh, ALBI), performance status (ECOG PS), and biomarkers including AFP. [[aasld-2023-hcc]]
+**Barcelona Clinic Liver Cancer (BCLC) 2022 Staging System** is the AASLD-recommended staging system; incorporates tumor burden, liver function (MELD, Child-Pugh, ALBI — CTP class cutoffs, the MELD-Na formula, and ALBI grade thresholds live on [[cirrhosis]]), performance status (ECOG PS), and biomarkers including AFP. [[aasld-2023-hcc]]
 
 | Stage | Prognosis Basis | Tumor Characterization | 1st Treatment Option | Expected Survival |
 |---|---|---|---|---|

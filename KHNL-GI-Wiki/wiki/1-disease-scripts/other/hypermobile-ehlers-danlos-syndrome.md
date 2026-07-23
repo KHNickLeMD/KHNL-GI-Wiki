@@ -3,7 +3,7 @@ title: "Hypermobile Ehlers-Danlos Syndrome (GI Manifestations)"
 category: disease-script
 tags: [hypermobile-ehlers-danlos, heds, hsd, dgbi, pots, mcas, dysautonomia, motility, gastroparesis, pelvic-floor, celiac-disease]
 created: 2026-06-27
-updated: 2026-07-16
+updated: 2026-07-23
 sources: [aga-2025-heds-gi]
 ---
 
@@ -49,7 +49,7 @@ Heritable connective tissue disorder; most common EDS subtype (80–90% of all E
 *Workup follows the general [[disorders-of-gut-brain-interaction|DGBI]] approach (positive symptom-based diagnosis, limited noninvasive testing), with the hEDS-specific additions below.*
 
 - Other EDS subtypes (esp. **vascular EDS** — higher endoscopy complication risk) and other heritable/acquired connective tissue disorders.
-- [[irritable-bowel-syndrome]] and functional dyspepsia (DGBI overlap; one-third of POTS patients carry an IBS diagnosis).
+- [[irritable-bowel-syndrome]] and [[dyspepsia|functional dyspepsia]] (DGBI overlap; one-third of POTS patients carry an IBS diagnosis).
 - [[gastroparesis]] / GI dysmotility (EDS gene variants enriched in idiopathic gastroparesis).
 - [[celiac-disease]] (elevated risk in hEDS/HSDs and/or POTS).
 - [[defecation-disorders|Functional defecation disorders]] / pelvic floor dysfunction.

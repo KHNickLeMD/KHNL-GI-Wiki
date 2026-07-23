@@ -3,8 +3,8 @@ title: "Spontaneous Bacterial Peritonitis"
 category: disease-script
 tags: [sbp, ascites, cirrhosis, peritonitis, cefotaxime, albumin]
 created: 2026-05-15
-updated: 2026-07-17
-sources: [aasld-2021-ascites-sbp-hrs]
+updated: 2026-07-23
+sources: [aasld-2021-ascites-sbp-hrs, aga-2024-vasoactive-albumin-cirrhosis]
 ---
 
 # Spontaneous Bacterial Peritonitis (SBP)
@@ -160,6 +160,8 @@ IV albumin prevents progression of AKI (the main driver of in-hospital mortality
 
 If following AKI protocol for albumin is preferred clinically, that approach is also appropriate (see [[aki-in-cirrhosis]]).
 
+The [[aga-2024-vasoactive-albumin-cirrhosis|AGA 2024 vasoactive/albumin CPU]] frames albumin in SBP as "may be considered" (BPA 5), with the greatest benefit in high-risk patients (baseline bilirubin >4 mg/dL, creatinine >1.0 mg/dL, BUN >30 mg/dL). **Vasoconstrictors have no role in SBP** (BPA 7) — reserve them for [[aki-in-cirrhosis|HRS-AKI]].
+
 ### Nonselective Beta-Blockers (NSBBs) During SBP
 
 - NSBBs do NOT need to be routinely discontinued at diagnosis of SBP
@@ -212,3 +214,4 @@ Patients with prior SBP have ~68% 1-year recurrence rate without prophylaxis.
 ## Sources
 
 1. [[aasld-2021-ascites-sbp-hrs|AASLD 2021: Diagnosis, Evaluation, and Management of Ascites, SBP, and HRS in Cirrhosis]]
+2. [[aga-2024-vasoactive-albumin-cirrhosis|AGA 2024 Clinical Practice Update on the Use of Vasoactive Drugs and Intravenous Albumin in Cirrhosis]]

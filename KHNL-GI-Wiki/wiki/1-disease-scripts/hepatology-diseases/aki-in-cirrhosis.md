@@ -3,8 +3,8 @@ title: "AKI in Cirrhosis (including HRS-AKI)"
 category: disease-script
 tags: [aki, cirrhosis, hrs, hepatorenal-syndrome, albumin, terlipressin, liver]
 created: 2026-05-15
-updated: 2026-07-17
-sources: [aga-2022-aki-cirrhosis]
+updated: 2026-07-23
+sources: [aga-2022-aki-cirrhosis, aga-2024-vasoactive-albumin-cirrhosis]
 ---
 
 ## Contents
@@ -184,10 +184,14 @@ Vasopressin V1 receptor analog; reverses splanchnic vasodilatation.
   - Titrate every 24–48 hours up to maximum **12 mg/day**
   - Lower total daily dose with similar efficacy; fewer ischemic side effects
 
-**FDA contraindications:**
+**Administration (AGA 2024 CPU):** Terlipressin does **not require ICU monitoring** and can be given through a **peripheral IV line** (BPA 11). The FDA label suggests continuous pulse oximetry; the AGA 2024 CPU notes that vital-sign assessment including pulse oximetry **every 2–4 h** can substitute for continuous monitoring. [[aga-2024-vasoactive-albumin-cirrhosis]]
 
-- SCr ≥5 mg/dL
-- O2 saturation <90%
+**Contraindications / cautions:**
+
+- **FDA label:** SCr ≥5 mg/dL; O2 saturation <90%
+- **Ongoing coronary, peripheral, or mesenteric ischemia** — contraindicated (AGA 2024 CPU, BPA 12)
+- **ACLF grade 3** — use with caution
+- **Benefit may not outweigh risk** when SCr >5 mg/dL, or in patients listed for transplant with **MELD ≥35** (low response rates)
 
 **Response predictors (favorable):** bilirubin <10 mg/dL, SCr <5 mg/dL, lower ACLF grade, sustained MAP increase ≥5–10 mmHg with therapy, presence of systemic inflammatory response (SIRS/sepsis/alcohol-associated hepatitis)
 
@@ -281,3 +285,4 @@ Post-LT: patients can be listed for high-priority kidney transplantation alone i
 ## Sources
 
 1. [[aga-2022-aki-cirrhosis|AGA 2022: Diagnosis and Management of AKI in Cirrhosis]]
+2. [[aga-2024-vasoactive-albumin-cirrhosis|AGA 2024 Clinical Practice Update on the Use of Vasoactive Drugs and Intravenous Albumin in Cirrhosis]]

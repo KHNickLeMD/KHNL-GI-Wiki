@@ -3,15 +3,15 @@ title: "Laryngopharyngeal Symptoms (LPS) and Laryngopharyngeal Reflux Disease (L
 category: diagnostic-schema
 tags: [lpr, lprd, laryngopharyngeal-reflux, gerd, extraesophageal-reflux, cough, dysphonia, throat-clearing, ph-impedance, foregut]
 created: 2026-05-15
-updated: 2026-07-16
-sources: [san-diego-2025-lprd]
+updated: 2026-07-23
+sources: [san-diego-2025-lprd, aga-2023-extraesophageal-gerd]
 ---
 
 ## Definition / Scope
 
 **Laryngopharyngeal symptoms (LPS)** are chronic (≥8 weeks) and frequent (≥2×/week) throat and upper airway symptoms that have potential to be induced by retrograde flow of gastric content to the upper esophagus, pharynx, and larynx. LPS is a symptomatic descriptor — it does not implicate reflux as the etiology.
 
-**Laryngopharyngeal reflux disease (LPRD)** is the diagnosis given when a patient has LPS AND objective evidence supporting a relationship between symptoms and gastroesophageal reflux.
+**Laryngopharyngeal reflux disease (LPRD)** is the diagnosis given when a patient has LPS AND objective evidence supporting a relationship between symptoms and gastroesophageal reflux. LPR is the dominant laryngeal manifestation of [[extraesophageal-reflux|extraesophageal reflux]] — see that page for the broader EER framework (cough, asthma, dental erosions).
 
 **Critical distinction:** LPS ≠ LPRD. Approximately 60% of patients historically diagnosed with "LPR" have normal [[ambulatory-reflux-monitoring|ambulatory reflux monitoring]] on objective evaluation. Only ~35% of LPS patients have objective LPRD when formally tested.
 
@@ -162,10 +162,11 @@ LPS can be caused by multiple mechanisms — reflux is one of several:
 
 ## See Also
 
-[[gerd]], [[barretts-esophagus]], [[ambulatory-reflux-monitoring]], [[reflux-testing]], [[upper-endoscopy]], [[antireflux-surgery]], [[esophageal-cancer]], [[dysphagia]], [[disorders-of-gut-brain-interaction]]
+[[gerd]], [[extraesophageal-reflux]], [[barretts-esophagus]], [[ambulatory-reflux-monitoring]], [[reflux-testing]], [[upper-endoscopy]], [[antireflux-surgery]], [[esophageal-cancer]], [[dysphagia]], [[disorders-of-gut-brain-interaction]]
 
 ---
 
 ## Sources
 
 1. [[san-diego-2025-lprd|San Diego Consensus (2025): Laryngopharyngeal Symptoms and Laryngopharyngeal Reflux Disease]]
+2. [[aga-2023-extraesophageal-gerd|AGA Clinical Practice Update on the Diagnosis and Management of Extraesophageal Gastroesophageal Reflux Disease: Expert Review (2023)]]

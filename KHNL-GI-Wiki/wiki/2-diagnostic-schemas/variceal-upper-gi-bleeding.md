@@ -3,8 +3,8 @@ title: "Variceal Upper GI Bleeding"
 category: diagnostic-schema
 tags: [cirrhosis, portal-hypertension, variceal-bleeding, upper-gi-bleeding, hemostasis, antibiotic-prophylaxis, TIPS, EVL, carvedilol, NSBB, gastric-varices, preemptive-TIPS]
 created: 2026-05-15
-updated: 2026-07-17
-sources: [albhaisi-2025-prophylactic-antibiotics-cirrhosis, aasld-2023-portal-hypertension]
+updated: 2026-07-23
+sources: [albhaisi-2025-prophylactic-antibiotics-cirrhosis, aasld-2023-portal-hypertension, aga-2024-vasoactive-albumin-cirrhosis]
 ---
 
 ## Definition / Scope
@@ -30,11 +30,11 @@ In a cirrhotic patient with UGIB, consider:
 
 1. **Resuscitation**: Large-bore IV access × 2; airway assessment (intubate if GCS altered/aspiration risk before endoscopy). Transfuse pRBCs to target Hgb **~7 g/dL** — restrictive strategy proven superior in cirrhosis (Villa RCT). **No FFP and no platelet transfusions** based on INR or platelet count targets — no evidence of benefit; FFP may cause harm (AASLD 2023 GS 29) [[aasld-2023-portal-hypertension]].
 
-2. **Start vasoactive therapy immediately** (GS 25): do not wait for endoscopy.
-   - **[[somatostatin-analogs|Octreotide]]:** 50 mcg IV bolus → 25–50 mcg/hr infusion × 2–5 days
+2. **Start vasoactive therapy immediately** (GS 25): do not wait for endoscopy. Initiate as soon as variceal bleeding is *suspected*, before diagnostic/therapeutic endoscopy ([[aga-2024-vasoactive-albumin-cirrhosis|AGA 2024 CPU]], BPA 1); **octreotide is the agent of choice in the US** based on its safety profile (BPA 3).
+   - **[[somatostatin-analogs|Octreotide]]:** 50 mcg IV bolus → 25–50 mcg/hr infusion × 2–5 days (repeat boluses for ongoing bleeding)
    - **Somatostatin:** 250 mcg IV bolus → 250–500 mcg/hr × 2–5 days
-   - **Terlipressin** (not FDA approved in US): 2 mg IV q4–6h × 24–48h, then 1 mg q4–6h × 2–5 days
-   - Continue vasoactive therapy if PH bleeding confirmed on endoscopy (GS 26)
+   - **Terlipressin** (not FDA approved in US for AVH): 2 mg IV q4–6h × 24–48h, then 1 mg q4–6h × 2–5 days
+   - Continue vasoactive therapy if PH bleeding confirmed on endoscopy (GS 26); **stop the drug if endoscopy reveals a non-variceal source**. Duration may be shortened to **2 days** in selected low-risk patients (no active bleeding at endoscopy).
 
 3. **Start IV antibiotics immediately** (GS 27): **Ceftriaxone 1 g IV q24h up to 5 days** (preferred; especially in Child-Pugh C or high-resistance settings). Norfloxacin 400 mg PO BID × 7 days (alternative in low-resistance, Child-Pugh A/B). De-escalate once bleeding controlled and no active infection. See [[#Antibiotic Prophylaxis]] for the duration controversy.
 
@@ -116,3 +116,4 @@ Standard practice recommends prophylactic antibiotics to prevent bacterial infec
 
 1. [[albhaisi-2025-prophylactic-antibiotics-cirrhosis|Prophylactic Antibiotics for Upper GI Bleeding in Patients With Cirrhosis — Journal Club (Albhaisi)]]
 2. [[aasld-2023-portal-hypertension|AASLD 2023 Practice Guidance on Portal Hypertension and Varices in Cirrhosis]]
+3. [[aga-2024-vasoactive-albumin-cirrhosis|AGA 2024 Clinical Practice Update on the Use of Vasoactive Drugs and Intravenous Albumin in Cirrhosis]]

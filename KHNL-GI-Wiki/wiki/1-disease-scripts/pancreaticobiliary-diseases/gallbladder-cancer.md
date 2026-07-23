@@ -3,7 +3,7 @@ title: "Gallbladder Cancer"
 category: disease-script
 tags: [gallbladder-cancer, biliary-tract-cancer, hpb, cholecystectomy, incidental-gallbladder-cancer, adenocarcinoma, nccn, oncology]
 created: 2026-06-18
-updated: 2026-07-17
+updated: 2026-07-23
 sources: [nccn-2026-biliary-tract-cancers, asge-2013-biliary-neoplasia]
 ---
 
@@ -54,7 +54,7 @@ Per [[nccn-2026-biliary-tract-cancers]]:
 
 ## See Also
 
-[[cholangiocarcinoma]], [[biliary-stricture]], [[liver-transplantation]], [[hepatocellular-carcinoma]], [[endoscopic-ultrasound]]
+[[cholangiocarcinoma]], [[biliary-stricture]], [[primary-sclerosing-cholangitis]], [[hepatocellular-carcinoma]], [[liver-transplantation]], [[endoscopic-ultrasound]]
 
 ---
 

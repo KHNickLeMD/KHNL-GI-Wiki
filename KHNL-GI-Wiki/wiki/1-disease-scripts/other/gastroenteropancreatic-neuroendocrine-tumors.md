@@ -3,11 +3,9 @@ title: "Gastroenteropancreatic Neuroendocrine Tumors (GEP-NETs)"
 category: disease-script
 tags: [neuroendocrine-tumor, net, gep-net, pannet, carcinoid, gastrinoma, insulinoma, glucagonoma, vipoma, zollinger-ellison, men1, prrt]
 created: 2026-06-18
-updated: 2026-07-17
+updated: 2026-07-23
 sources: [nccn-2026-net]
 ---
-
-# Gastroenteropancreatic Neuroendocrine Tumors (GEP-NETs)
 
 Gastroenteropancreatic neuroendocrine tumors (GEP-NETs) are epithelial neoplasms arising from diffuse neuroendocrine cells of the GI tract and pancreas. They range from indolent, incidentally found lesions to aggressive metastatic disease, and may be **nonfunctioning** (most) or **functioning** (secreting hormones that produce clinical syndromes). Management is site-, size-, and grade-specific and multidisciplinary, spanning endoscopic resection, surgery, somatostatin analogs, peptide receptor radionuclide therapy, and systemic agents ([[nccn-2026-net]]).
 

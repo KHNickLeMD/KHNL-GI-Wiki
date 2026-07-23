@@ -3,7 +3,7 @@ title: "Portal Hypertension"
 category: disease-script
 tags: [portal-hypertension, cirrhosis, CSPH, HVPG, cACLD, varices, NSBB, carvedilol, TIPS, liver-stiffness, decompensation, variceal-bleeding, ascites]
 created: 2026-05-28
-updated: 2026-07-17
+updated: 2026-07-23
 sources: [aasld-2023-portal-hypertension, acg-2025-perioperative-cirrhosis, aasld-2024-tips, aasld-2022-palliative-cirrhosis]
 ---
 
@@ -148,7 +148,7 @@ Cirrhosis stages (per clinical features and HVPG):
 
 **Immediate (before endoscopy):**
 
-1. **Vasoactive therapy** immediately: octreotide (50 mcg IV bolus → 25–50 mcg/hr × 2–5 days), somatostatin (250 mcg bolus → 250–500 mcg/hr), or terlipressin if available (GS 25–26)
+1. **Vasoactive therapy** immediately: [[somatostatin-analogs|octreotide]] (50 mcg IV bolus → 25–50 mcg/hr × 2–5 days), somatostatin (250 mcg bolus → 250–500 mcg/hr), or terlipressin if available (GS 25–26)
 2. **IV antibiotics** immediately: ceftriaxone 1 g IV q24h × 5 days (preferred in Child-Pugh C or high-resistance); de-escalate when bleeding controlled and no active infection (GS 27)
 3. **Restrictive transfusion:** target Hgb ~7 g/dL; avoid overtransfusion (worsens portal pressure) (GS 28)
 4. **No FFP or platelets** based on INR/platelet count targets — no evidence of benefit; FFP may cause harm (GS 29)

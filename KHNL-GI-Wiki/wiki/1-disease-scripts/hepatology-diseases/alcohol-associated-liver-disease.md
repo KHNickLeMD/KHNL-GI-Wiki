@@ -3,7 +3,7 @@ title: "Alcohol-Associated Liver Disease"
 category: disease-script
 tags: [ald, alcoholic-hepatitis, cirrhosis, liver, hpb, aud, corticosteroids, liver-transplant, lille-score, meld, mdf, nac, pentoxifylline, transplant-candidate-evaluation, post-transplant, recurrence, naltrexone, acamprosate, baclofen, peth, stopah]
 created: 2026-05-07
-updated: 2026-07-17
+updated: 2026-07-23
 sources: [acg-2024-ald, acg-2017-liver-chemistries, aasld-ast-2025-liver-transplant-candidate-evaluation, aasld-ast-2025-liver-transplant-graft-complications, aasld-2020-ald]
 ---
 
@@ -261,7 +261,7 @@ All ALD patients should receive AUD treatment [[acg-2024-ald]], [[aasld-2020-ald
 
 - **[[ascites]]/[[spontaneous-bacterial-peritonitis|SBP]]:** diuretics (spironolactone ± furosemide), large-volume paracentesis, prophylactic norfloxacin
 - **[[hepatic-encephalopathy|Hepatic encephalopathy]]:** lactulose, [[rifaximin]]
-- **Hepatorenal syndrome:** midodrine + octreotide + albumin; norepinephrine preferred in ICU
+- **Hepatorenal syndrome:** midodrine + [[somatostatin-analogs|octreotide]] + albumin; norepinephrine preferred in ICU
 - **Esophageal varices:** non-selective beta-blockers (NSBB); endoscopic band ligation (see [[variceal-upper-gi-bleeding|variceal bleeding]])
 
 ### 6. Liver Transplantation

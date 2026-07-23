@@ -3,11 +3,9 @@ title: "Nutrition in Liver Disease"
 category: disease-script
 tags: [liver, cirrhosis, malnutrition, sarcopenia, hepatic-encephalopathy, bcaa, vitamin-e, mash, masld, ald, coffee, nutrition]
 created: 2026-05-07
-updated: 2026-07-17
+updated: 2026-07-23
 sources: [acg-2025-liver-nutrition, aasld-2021-malnutrition-cirrhosis]
 ---
-
-# Nutrition in Liver Disease
 
 Malnutrition (most commonly sarcopenia) is a common complication of liver disease, severity-dependent, and independently associated with higher mortality, waitlist mortality, post-transplant mortality, length of stay, and infections. Malnutrition is underrecognized because weight loss is masked by fluid retention ([[ascites]], edema), and [[obesity]] does not exclude sarcopenic obesity.
 
@@ -28,6 +26,7 @@ Malnutrition (most commonly sarcopenia) is a common complication of liver diseas
 | Anthropometry (BMI, weight, mid-arm circumference) | Easily measured; confounded by edema, ascites, bone density |
 | Waist circumference | Correlates better with metabolic disease risk than BMI; invalid with ascites |
 | Grip strength (handgrip dynamometry) | Inexpensive; surrogate for muscle function; predicts outcomes |
+| Liver Frailty Index (LFI) | Composite of grip strength + chair stands + balance; validated frailty metric in cirrhosis, predicts waitlist mortality [[aasld-2021-malnutrition-cirrhosis]] |
 | 6-minute walk test, sit-to-stand test | Contractile function; predicts outcomes |
 | Bioelectrical impedance | Improving; validates well against gold-standard body potassium |
 | CT at L3 level | Accurate for skeletal muscle and fat mass; often available from routine CLD imaging |
@@ -73,6 +72,15 @@ Malnutrition in liver disease is multifactorial:
 ---
 
 ## Therapeutics
+
+### Energy and Protein Targets
+
+| Target | Value |
+|---|---|
+| **Calories** | **≥35 kcal/kg/day** (non-obese cirrhosis) [[aasld-2021-malnutrition-cirrhosis]] |
+| **Protein** | **1.2–1.5 g/kg/day** — do **NOT** protein-restrict, even with [[hepatic-encephalopathy\|HE]] [[aasld-2021-malnutrition-cirrhosis]] |
+
+- Critically ill / [[acute-on-chronic-liver-failure|ACLF]] inpatients use different (weight-based, IBW) targets — initial 12–25 kcal/kg IBW/day, protein 1.2–2.0 g/kg IBW/day; see [[acute-on-chronic-liver-failure]].
 
 ### Core Nutritional Principles (Stable Outpatient Cirrhosis)
 

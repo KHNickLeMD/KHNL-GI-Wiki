@@ -3,26 +3,26 @@ title: "Hepatitis C in Pregnancy"
 category: disease-script
 tags: [hepatitis-c, hcv, pregnancy, vertical-transmission, perinatal, hpb, liver]
 created: 2026-05-19
-updated: 2026-07-16
-sources: [acg-2016-liver-disease-pregnancy]
+updated: 2026-07-23
+sources: [aasld-idsa-2023-hcv, acg-2016-liver-disease-pregnancy, aasld-2021-reproductive-liver]
 ---
 
-*Stub — to be expanded with dedicated HCV guideline. Core pregnancy-specific management captured in [[liver-disease-in-pregnancy]]. Key points below from ACG 2016 [[acg-2016-liver-disease-pregnancy]].*
+*Pregnancy-specific management of [[hepatitis-c|HCV]]. General pregnancy liver context: [[liver-disease-in-pregnancy]].*
 
 ## Assessment
 
 ### Establishing the Diagnosis
 
-- Screen pregnant women with risk factors for [[hepatitis-c|HCV]] with anti-HCV antibody (Rec 26 — strong, low evidence); universal screening not recommended per 2016 ACG guidance (note: CDC and USPSTF now recommend universal screening in pregnancy — this 2016 guidance is likely superseded)
-- HCV RNA for confirmation and viral load quantification
+- **Universal screening — every pregnancy** with anti-HCV antibody + **reflex HCV RNA** if positive ([[aasld-idsa-2023-hcv]]; multi-society consensus — USPSTF, CDC, ACOG, SMFM). HCV RNA detectable = active infection.
+  - *Change from prior guidance:* the 2016 ACG guideline recommended **risk-based** screening only (Rec 26 — strong, low) and explicitly did not endorse universal screening ([[acg-2016-liver-disease-pregnancy]]); the newer 2023 AASLD-IDSA guidance and USPSTF/CDC now recommend **universal** screening in every pregnancy — the current standard.
+- HCV RNA quantification confirms active infection and gives baseline viral load; genotype for postpartum treatment planning.
 
 ### Key Clinical Facts
 
-- Vertical (MTCT) transmission rate: 3–10% at birth; highest in HIV co-infected women
-- Pregnancy induces relative immune suppression followed by immune reconstitution postpartum; ALT levels decline in second/third trimester then rebound postpartum
-- Viral load fluctuates during pregnancy; peaks in third trimester then returns to pre-pregnancy levels after delivery
-- No perinatal prevention strategy clearly reduces HCV vertical transmission
-- HCV rarely requires urgent therapy; treatment can wait until after delivery
+- **Vertical (mother-to-child) transmission: 3–10%** at birth; higher with **HIV co-infection** and with **high maternal HCV RNA** ([[acg-2016-liver-disease-pregnancy]]).
+- No perinatal intervention has been shown to reliably reduce HCV vertical transmission.
+- Pregnancy induces relative immune suppression then postpartum reconstitution: ALT declines in 2nd/3rd trimester and rebounds postpartum; viral load fluctuates (peaks 3rd trimester, returns to baseline after delivery).
+- HCV rarely requires urgent therapy — treatment can generally wait until after delivery.
 
 ---
 
@@ -30,36 +30,44 @@ sources: [acg-2016-liver-disease-pregnancy]
 
 *Workup: see [[liver-disease-in-pregnancy]].*
 
-- Pregnancy-specific liver diseases (IHCP, AFLP, HELLP) — to distinguish from HCV flare
+- Pregnancy-specific liver diseases — intrahepatic cholestasis of pregnancy (IHCP), acute fatty liver of pregnancy (AFLP), HELLP — distinguish from an HCV flare
 - [[drug-induced-liver-injury]] — medication history
-- [[autoimmune-hepatitis]] — postpartum flare of AIH can mimic HCV
+- [[autoimmune-hepatitis]] — postpartum flare can mimic HCV
+- [[chronic-hepatitis-b]] — test HBsAg (co-infection; also relevant to reactivation)
 
 ---
 
 ## Diagnostics
 
-- Anti-HCV antibody (screening in women with risk factors)
-- HCV RNA if anti-HCV positive
-- HCV genotype (for treatment planning post-delivery)
-- Minimize invasive procedures (amniocentesis, invasive fetal monitoring) — increases vertical transmission risk (Rec 27)
+- Anti-HCV antibody — universal screen each pregnancy; **reflex HCV RNA** if positive
+- HCV RNA — confirm active infection; baseline viral load
+- HCV genotype — for postpartum treatment planning
+- Fibrosis assessment (FIB-4; elastography as needed) — see [[hepatitis-c]] for cutoffs
+- **Minimize invasive procedures** (amniocentesis, invasive fetal monitoring) — increases vertical-transmission risk ([[acg-2016-liver-disease-pregnancy]] Rec 27)
 
 ---
 
 ## Therapeutics
 
-- **No HCV therapy during pregnancy** (Rec 30 — strong, very low evidence): interferon and ribavirin strictly contraindicated; DAA safety data during pregnancy not established as of 2016 (no guideline update as of 2026 with approved indication)
-- Elective C-section does not prevent HCV vertical transmission (Rec 28); vaginal delivery preferred
-- Breastfeeding permitted if no cracked/bleeding nipples (Rec 29)
-- Treat postpartum with [[direct-acting-antivirals|DAA]]-based therapy after delivery
+- **[[direct-acting-antivirals|DAA]] therapy is not FDA-approved in pregnancy.** The 2023 AASLD-IDSA guidance supports **case-by-case DAA consideration during pregnancy** after a shared risk/benefit discussion — small studies and case series are reassuring for safety, but no large-scale RCTs exist ([[aasld-idsa-2023-hcv]]). In practice most patients are treated **postpartum**.
+  - *Older stance:* 2016 ACG recommended **no HCV therapy during pregnancy** (Rec 30 — strong, very low); interferon and **ribavirin are strictly contraindicated** (ribavirin is a teratogen — [[aasld-2021-reproductive-liver]], [[acg-2016-liver-disease-pregnancy]]). The interferon/ribavirin contraindication still stands; the shift is the newer case-by-case DAA option.
+- **Delivery:** elective C-section does **not** prevent HCV vertical transmission — vaginal delivery preferred ([[acg-2016-liver-disease-pregnancy]] Rec 28).
+- **Breastfeeding permitted** unless nipples are cracked/bleeding (Rec 29).
+- **Co-manage with maternal-fetal medicine**; counsel on effective contraception and defer/plan definitive DAA cure ([[aasld-2021-reproductive-liver]]).
+- Treat postpartum with a [[direct-acting-antivirals|DAA]]-based regimen — see [[hepatitis-c]] for regimen selection and SVR12 assessment.
 
 ---
 
 ## See Also
 
-[[hepatitis-c]], [[liver-disease-in-pregnancy]], [[chronic-hepatitis-b]], [[acute-liver-failure]], [[direct-acting-antivirals]], [[autoimmune-hepatitis]], [[drug-induced-liver-injury]]
+[[hepatitis-c]], [[liver-disease-in-pregnancy]], [[chronic-hepatitis-b]], [[direct-acting-antivirals]], [[acute-liver-failure]], [[autoimmune-hepatitis]], [[drug-induced-liver-injury]]
 
 ---
 
 ## Sources
 
-1. [[acg-2016-liver-disease-pregnancy|ACG Clinical Guideline: Liver Disease and Pregnancy (2016)]]
+1. [[aasld-idsa-2023-hcv|AASLD-IDSA 2023 Hepatitis C Guidance Update]]
+2. [[acg-2016-liver-disease-pregnancy|ACG Clinical Guideline: Liver Disease and Pregnancy (2016)]]
+3. [[aasld-2021-reproductive-liver|AASLD Practice Guidance: Reproductive Health and Liver Disease (2021)]]
+</content>
+</invoke>

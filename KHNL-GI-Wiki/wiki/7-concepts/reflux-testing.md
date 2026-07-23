@@ -205,7 +205,7 @@ These diagnoses require [[ambulatory-reflux-monitoring]] with specific protocols
 
 ## See Also
 
-[[gerd]], [[ambulatory-reflux-monitoring]], [[high-resolution-manometry]], [[hrm-antireflux-surgery]], [[flip-panometry]], [[barretts-esophagus]], [[laryngopharyngeal-symptoms]], [[antireflux-surgery]], [[achalasia]], [[upper-endoscopy]], [[dysphagia]], [[rumination-syndrome]], [[disorders-of-gut-brain-interaction]]
+[[gerd]], [[ambulatory-reflux-monitoring]], [[extraesophageal-reflux]], [[high-resolution-manometry]], [[hrm-antireflux-surgery]], [[flip-panometry]], [[barretts-esophagus]], [[laryngopharyngeal-symptoms]], [[antireflux-surgery]], [[achalasia]], [[upper-endoscopy]], [[dysphagia]], [[rumination-syndrome]], [[disorders-of-gut-brain-interaction]]
 
 ---
 
