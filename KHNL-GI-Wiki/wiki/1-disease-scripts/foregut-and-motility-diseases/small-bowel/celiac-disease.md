@@ -22,7 +22,7 @@ A permanent immune-mediated enteropathy triggered by gluten (proteins in wheat, 
 Classical GI indications:
 
 - Chronic diarrhea ± weight loss, steatorrhea, symptomatic malabsorption
-- Unexplained iron deficiency anemia
+- Unexplained [[iron-deficiency-anemia|iron deficiency anemia]]
 - Postprandial bloating and gas
 
 Non-classical / extra-intestinal indications:

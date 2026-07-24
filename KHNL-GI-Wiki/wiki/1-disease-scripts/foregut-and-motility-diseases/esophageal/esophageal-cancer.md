@@ -11,7 +11,7 @@ sources: [nccn-2026-esophageal-egj-cancer]
 
 ### Establishing the Diagnosis
 
-Esophageal and esophagogastric junction (EGJ) cancers present most often with progressive solid-food dysphagia, weight loss, odynophagia, and iron-deficiency anemia — a classic alarm-feature presentation that mandates prompt [[upper-endoscopy|endoscopy]] with biopsy. Diagnosis is histologic; staging follows with endoscopic ultrasound ([[endoscopic-ultrasound|EUS]]) for T and N assessment, CT of chest/abdomen, and PET/CT to detect distant disease.
+Esophageal and esophagogastric junction (EGJ) cancers present most often with progressive solid-food dysphagia, weight loss, odynophagia, and [[iron-deficiency-anemia|iron-deficiency anemia]] — a classic alarm-feature presentation that mandates prompt [[upper-endoscopy|endoscopy]] with biopsy. Diagnosis is histologic; staging follows with endoscopic ultrasound ([[endoscopic-ultrasound|EUS]]) for T and N assessment, CT of chest/abdomen, and PET/CT to detect distant disease.
 
 ### Classification / Typing
 

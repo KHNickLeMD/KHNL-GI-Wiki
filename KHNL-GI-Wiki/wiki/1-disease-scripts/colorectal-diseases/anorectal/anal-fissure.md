@@ -3,7 +3,7 @@ title: "Anal Fissure"
 category: disease-script
 tags: [anal-fissure, anorectal, lis, sphincterotomy, botulinum, colorectal]
 created: 2026-05-16
-updated: 2026-07-16
+updated: 2026-07-24
 sources: [acg-2021-anorectal-disorders]
 ---
 
@@ -80,7 +80,7 @@ sources: [acg-2021-anorectal-disorders]
 - Healing rate: ~50–57% (marginally superior to placebo; inferior evidence to CCB)
 - Main limitation: headache in 6–20% (dose-dependent)
 
-**Botulinum toxin A injection (Conditional/Low — for CCB failure):**
+**Botulinum toxin A injection (Conditional/Low — CCB failure or alternative to CCB):**
 
 - 5–100 units injected into internal anal sphincter
 - Healing: 60–80%; superior to placebo; not reliably superior to LIS

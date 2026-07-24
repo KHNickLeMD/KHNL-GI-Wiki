@@ -124,7 +124,7 @@ Prompt structural evaluation (colonoscopy ± cross-sectional imaging) and lower 
 
 - **Blood in stool** or positive fecal occult blood
 - **Unintentional weight loss**
-- **Iron deficiency anemia**
+- **[[iron-deficiency-anemia|Iron deficiency anemia]]**
 - **Nocturnal diarrhea** (organic, not functional)
 - **Onset after age 50** (or new change in bowel habits)
 - **Family history of IBD, [[celiac-disease|celiac disease]], or [[colorectal-cancer|colorectal cancer]]**

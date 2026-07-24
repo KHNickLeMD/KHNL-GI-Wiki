@@ -257,7 +257,7 @@ Both ACG 2021 and USMSTF 2021 position annual FIT as a **co-equal preferred non-
 
 - **Colonoscopy is the recommended test for follow-up of a positive FIT** in screen-eligible individuals — **Strong recommendation; moderate-quality evidence** [[usmstf-2016-fit-screening]]
 - CT colonography and colon [[capsule-endoscopy|capsule endoscopy]] have been evaluated but have limitations (sensitivity, specificity, and access issues)
-- **A positive FIT + negative colonoscopy should NOT prompt upper GI evaluation** in the absence of signs/symptoms of upper GI pathology or iron-deficiency anemia — **Weak recommendation; very low quality evidence**
+- **A positive FIT + negative colonoscopy should NOT prompt upper GI evaluation** in the absence of signs/symptoms of upper GI pathology or [[iron-deficiency-anemia|iron-deficiency anemia]] — **Weak recommendation; very low quality evidence**
 - **A positive FIT in a patient with a recent negative colonoscopy** (before due for repeat): generally offer repeat colonoscopy — **Weak recommendation; low-quality evidence**
 - PPV for cancer from positive FIT: 2.9–7.8% (range across programs, round 1); PPV for advanced neoplasia: 33–54% (round 1)
 

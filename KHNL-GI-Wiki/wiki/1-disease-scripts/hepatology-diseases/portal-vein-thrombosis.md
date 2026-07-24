@@ -3,8 +3,8 @@ title: "Portal Vein Thrombosis and Mesenteric Vein Thrombosis"
 category: disease-script
 tags: [portal-vein-thrombosis, pvt, mvt, mesenteric-vein, anticoagulation, cirrhosis, thrombophilia, splenomegaly, mpn, liver-transplant]
 created: 2026-05-21
-updated: 2026-07-17
-sources: [acg-2020-hepatic-mesenteric-circulation, aasld-ast-2025-liver-transplant-candidate-evaluation, aasld-2021-vascular-pvt]
+updated: 2026-07-24
+sources: [acg-2020-hepatic-mesenteric-circulation, aasld-ast-2025-liver-transplant-candidate-evaluation, aasld-2021-vascular-pvt, aga-2025-pvt-cirrhosis]
 ---
 
 ## Assessment
@@ -120,16 +120,35 @@ Portal vein thrombosis (PVT) is the partial or complete occlusion of the portal 
 - Partial/segmental PVT in cirrhosis without mesenteric extension: clinical judgment; risk/benefit discussion
 - Chronic PVT in cirrhosis: anticoagulate only for thrombophilia, progression, or bowel ischemia (Conditional, Very Low evidence)
 
-**Preferred agents in cirrhosis:**
+**AGA 2025 chronicity/occlusion stratification** (newest guideline-tier source; Best Practice Advice, unrated) [[aga-2025-pvt-cirrhosis]]. "Recent" = **<6 months**; "chronic" = **>6 months** (PVTs not recanalized by 6 months are unlikely to recanalize with AC):
 
-- LMWH or VKA: best evidence base
-- DOACs: increasing use but limited data in Child-Pugh B/C; use with caution
-- Avoid VKA in Child-Pugh C (unreliable INR due to coagulopathy)
+| Scenario | Action |
+|---|---|
+| **Intestinal ischemia** (any) | **Urgent AC** + multidisciplinary team (GI/hepatology, IR, hematology, surgery); mortality up to 10–20% (BPA 4) |
+| Recent (<6 mo), **<50%** occlusive **or** intrahepatic branches only, no ischemia | **Observe** with cross-sectional imaging **q3 months** until regression (BPA 5) |
+| Recent (<6 mo), **>50%** occlusive **or** main PV / mesenteric involvement | **Consider AC** (BPA 6). Greater benefit: >1 vascular bed, thrombus progression, transplant candidate, inherited thrombophilia |
+| Chronic (>6 mo), **complete occlusion + cavernous transformation** | **AC not advised** — recanalization futile (BPA 7) |
 
-**TIPS** for cirrhotic PVT (Conditional, Very Low evidence):
+- **Do not delay AC** — delay lowers odds of recanalization (initiate within 6 months, ideally <2 weeks); AC does **not** increase portal-hypertensive bleeding (BPA 8).
+- **Do not defer AC for variceal screening** — screen/treat varices per usual; NSBB or variceal ligation may proceed on AC (BPA 8).
+- **Monitoring (BPA 10):** reimage q3 months. If clot regresses, continue AC until transplant or clot resolution (nontransplant); **discontinue for futility in nonresponders after 6 months**. Recurrence after withdrawal up to 38% (2–5 months) → continue AC after resolution in transplant-listed patients. Platelet count **<50 × 10⁹/L** carries bleeding risk (individualize; thromboelastography a promising tool).
+
+**Preferred agents in cirrhosis** — VKA, LMWH, and DOACs are all reasonable; individualize by **Child-Turcotte-Pugh (CTP) class** (BPA 9) [[aga-2025-pvt-cirrhosis]]:
+
+| Agent | CTP class A | CTP class B | CTP class C |
+|---|---|---|---|
+| VKA (warfarin) | ✔ (INR unreliable in cirrhosis) | ✔ | Avoid (unreliable INR) |
+| LMWH | ✔ | ✔ | ✔ (preferred near transplant / high MELD) |
+| Apixaban | ✔ | Caution | **Not advised** |
+| Rivaroxaban | ✔ | **Not advised** | **Not advised** |
+| Dabigatran / Edoxaban | ✔ | Caution / not advised | **Not advised** |
+
+- DOACs offer convenience (no INR monitoring); apixaban has the most CTP-B data; rivaroxaban carries a small hepatotoxicity risk. Reversal: andexanet alfa / idarucizumab / 4-factor PCC.
+
+**PVR-TIPS** (portal vein revascularization with TIPS) for cirrhotic PVT (Conditional; BPA 11) [[aga-2025-pvt-cirrhosis]]:
 
 - Can achieve portal vein recanalization when anticoagulation insufficient
-- Also treats portal hypertension complications (variceal bleeding, refractory ascites)
+- Reserved for those with **additional TIPS indications** (refractory [[ascites]], variceal bleeding) or to enable **transplant technical feasibility** (~98% revascularization in complete/near-complete occlusion in expert series; low-MELD, single-center data — limited generalizability)
 
 ### Hemostasis in Cirrhosis — Key Principles
 
@@ -160,5 +179,6 @@ Cirrhosis represents [[cirrhosis-hemostasis|rebalanced hemostasis]], not auto-an
 ## Sources
 
 1. [[acg-2020-hepatic-mesenteric-circulation|ACG Clinical Guideline: Disorders of the Hepatic and Mesenteric Circulation]]
-2. [[aasld-ast-2025-liver-transplant-candidate-evaluation|AASLD AST 2025: Practice Guideline on Adult Liver Transplantation — Candidate Evaluation]]
-3. [[aasld-2021-vascular-pvt|AASLD Practice Guidance: Vascular Liver Disorders, Portal Vein Thrombosis, and Procedural Bleeding in Cirrhosis (2021)]]
+2. [[aga-2025-pvt-cirrhosis|AGA Clinical Practice Update on Management of Portal Vein Thrombosis in Patients With Cirrhosis: Expert Review]]
+3. [[aasld-ast-2025-liver-transplant-candidate-evaluation|AASLD AST 2025: Practice Guideline on Adult Liver Transplantation — Candidate Evaluation]]
+4. [[aasld-2021-vascular-pvt|AASLD Practice Guidance: Vascular Liver Disorders, Portal Vein Thrombosis, and Procedural Bleeding in Cirrhosis (2021)]]

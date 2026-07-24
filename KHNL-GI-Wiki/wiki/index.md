@@ -1,7 +1,7 @@
 ---
 title: "Wiki Index"
 category: index
-updated: 2026-07-20
+updated: 2026-07-24
 ---
 
 # KHNL GI Encyclopedia — Master Index
@@ -140,7 +140,7 @@ updated: 2026-07-20
 - [[hepatitis-c-in-pregnancy]] — HCV in pregnancy: vertical transmission, universal screening, case-by-case DAA consideration, breastfeeding (stub — see [[hepatitis-c]] for full treatment context)
 - [[cirrhosis]] — Cirrhosis: ADDT — F4 fibrosis; NILDA-first diagnosis (biopsy imperfect reference, AUROC ceiling ~0.9); compensated vs decompensated; severity scores compared (CTP/MELD-Na/Mayo/VOCAL-Penn variable table), low-risk band MELD 6–9 + CTP 5–6 without CSPH; ACLF scores over MELD in critical illness; complication map; treat the underlying disease; nutrition/frailty/sarcopenia; hemostasis + periprocedural; perioperative risk; palliative care; transplant referral (9 sources)
 - [[portal-hypertension]] — Portal hypertension: ADDT — HVPG (gold standard), cACLD/CSPH noninvasive staging ("Rule of Five": LSM + platelet count), carvedilol preferred NSBB (6.25–12.5 mg/day), primary prophylaxis (NSBB or EVL), AVH management (preemptive TIPS for CTP B>7/C 10–13), secondary prophylaxis, gastric/ectopic varices (ECI/TIPS/BRTO), PHG management (1 source)
-- [[portal-vein-thrombosis]] — PVT/MVT: ADDT — noncirrhotic (thrombophilia workup: JAK2/FVL/APLS) vs. cirrhotic PVT, anticoagulate all acute symptomatic noncirrhotic + complete/extending cirrhotic PVT (Strong/Low), LMWH/VKA/DOAC, NSBBs + AC for variceal prophylaxis, TIPS for recanalization; Yerdel grade IV PVT = relative (not absolute) LT contraindication per AASLD/AST 2025 (2 sources)
+- [[portal-vein-thrombosis]] — PVT/MVT: ADDT — noncirrhotic (thrombophilia workup: JAK2/FVL/APLS) vs. cirrhotic PVT, anticoagulate all acute symptomatic noncirrhotic + complete/extending cirrhotic PVT (Strong/Low), LMWH/VKA/DOAC, NSBBs + AC for variceal prophylaxis, TIPS for recanalization; Yerdel grade IV PVT = relative (not absolute) LT contraindication per AASLD/AST 2025; AGA 2025 cirrhotic-PVT stratification (recent <6mo >50%/main-PV/mesenteric → AC; ischemia → urgent AC; chronic cavernoma → no AC) + CTP-class anticoagulant table + PVR-TIPS (4 sources)
 - [[acute-on-chronic-liver-failure]] — ACLF: ADDT — 3 definitions (NACSELD/EASL-CLIF/APASL), ACLF-specific scores over MELD (GS 2), organ-specific management (brain/CV/respiratory/renal/infection/nutrition), terlipressin contraindicated in ACLF-3, protein restriction never indicated, LT candidacy criteria, futility threshold (CLIF-C>70/lactate>9), palliative care mandatory (51 guidance statements) (1 source)
 - [[budd-chiari-syndrome]] — Budd-Chiari: ADDT — hepatic venous outflow obstruction, MPN/JAK2 most common etiology (40–50%), caudate hypertrophy, stepwise management (AC → angioplasty → TIPS → LT), HCC surveillance q6mo regardless of fibrosis, comprehensive thrombophilia workup mandatory (1 source)
 - [[hereditary-hemorrhagic-telangiectasia]] — HHT (Osler-Weber-Rendu): ADDT — hepatic LVMs in 32–73%, no routine LVM screening, escalation ladder to bevacizumab at specialized centers, SMAD4→JPS/HHT overlap; **Curaçao criteria absent from the corpus — needs an HHT-specific source** (3 sources)
@@ -156,6 +156,7 @@ updated: 2026-07-20
 - [[sclerosing-mesenteritis]] — Sclerosing mesenteritis: ADDT — idiopathic mesenteric fibroinflammation; CT misty mesentery/fat ring sign/pseudocapsule, usually dx without biopsy; only 1–6% need treatment; prednisone + tamoxifen 10 mg BID; surgery non-curative (1 source)
 - [[hypermobile-ehlers-danlos-syndrome]] — Hypermobile EDS / hEDS: ADDT — heritable connective-tissue disorder with GI manifestations; DGBI overlap, POTS/MCAS associations, Beighton/2017 criteria, motility & pelvic-floor testing, multidisciplinary symptom management (1 source)
 - [[alpha-gal-syndrome]] — Alpha-gal syndrome: ADDT — IgE-mediated mammalian-meat allergy (galactose-α-1,3-galactose) from tick-bite sensitization; GI phenotype of delayed (1–6 h) abdominal pain/diarrhea/nausea; 3-part dx (symptoms + ↑alpha-gal IgE + response to ≥1-mo avoidance; positive IgE alone insufficient); mammalian-product avoidance + tick precautions, epinephrine/antihistamine for acute exposure; cetuximab/gelatin/bioprosthetic-valve cross-reactivity (1 source)
+- [[iron-deficiency-anemia]] — Iron-deficiency anemia: ADDT — ferritin <45 ng/mL dx (confirmatory TSAT/sTfR/retic-Hgb when inflamed); bidirectional endoscopy + celiac biopsies + H. pylori test-and-treat, capsule for small bowel; oral iron (ferrous sulfate, once-daily/alternate-day, +vitamin C) vs IV iron (1–2 infusion formulations; pseudo-allergy safety); condition-specific repletion (post-bariatric, IBD Hgb<10→IV, PHG, GAVE→EBL/APC, celiac→GFD, small-bowel angioectasias→enteroscopy+APC) (2 sources)
 
 ---
 
@@ -194,6 +195,7 @@ updated: 2026-07-20
 
 - [[colonoscopy]] — CRC screening ages, post-polypectomy surveillance tables, bowel prep standards (incl. GLP-1 agonist guidance), polypectomy quick reference, IBD surveillance technique (SCENIC) (9 sources)
 - [[upper-endoscopy]] — EGD quality standards: UGIB timing, BE surveillance, GPMC biopsy, celiac biopsy, peptic ulcer hemostasis (1 source)
+- [[argon-plasma-coagulation]] — APC: non-contact thermal hemostasis/ablation via ionized argon; GAVE, angioectasias, radiation proctopathy, GI bleeding (**stub**)
 
 ---
 
@@ -473,6 +475,8 @@ updated: 2026-07-20
 - [[aga-2020-gastric-intestinal-metaplasia]] — AGA 2020: Management of Gastric Intestinal Metaplasia — Gupta, Li, El Serag et al. Gastroenterology 2020;158:693–702
 - [[aga-2020-eoe]] — AGA/JTF 2020: Management of Eosinophilic Esophagitis — PPIs, topical steroids, dietary elimination, dilation; conditional GRADE recommendations
 - [[aga-2020-ida]] — AGA 2020: Gastrointestinal Evaluation of Iron-Deficiency Anemia — bidirectional endoscopy, celiac testing, non-invasive H. pylori, capsule for ongoing IDA
+- [[aga-2024-ida-management]] — AGA 2024 CPU: Management of Iron Deficiency Anemia (DeLoughery, Jackson, Ko, Rockey; CGH 2024;22:1575–1583) — 15 Best Practice Advice statements (unrated); oral iron principles (ferrous sulfate, once-daily/alternate-day, vitamin C), IV iron (1–2 infusion formulations, pseudo-allergy), condition-specific repletion (bariatric, IBD, PHG, GAVE, celiac, small-bowel angioectasias); oral + IV iron tables
+- [[aga-2025-pvt-cirrhosis]] — AGA 2025 CPU: Management of Portal Vein Thrombosis in Cirrhosis (Davis, Lim, Francis, Ahn; Gastroenterology 2025;168:396–404) — 11 Best Practice Advice statements (unrated); chronicity/occlusion stratification, urgent AC for intestinal ischemia, no-AC for chronic cavernoma, CTP-class anticoagulant selection table, timing/monitoring, PVR-TIPS
 - [[aga-2020-probiotics]] — AGA 2020: Probiotics in the Management of GI Disorders — Su et al. Gastroenterology 2020;159:697–705 — 8 GRADE recommendations; conditional FOR (C diff prevention on antibiotics, pouchitis 8-strain combo, NEC in preterm infants), conditional AGAINST (pediatric acute gastroenteritis), trial-only (Crohn's/UC/IBS/C diff treatment)
 
 ### ASGE
@@ -584,4 +588,4 @@ updated: 2026-07-20
 
 ---
 
-*Total: 219 sources | 113 disease scripts | 20 diagnostic schemas | 2 general procedures | 20 advanced procedures | 22 meds | 0 anatomy | 38 concepts | 1 synthesis (on-disk page counts as of 2026-07-22)*
+*Total: 234 sources | 119 disease scripts | 21 diagnostic schemas | 4 general procedures | 24 advanced procedures | 23 meds | 0 anatomy | 42 concepts | 1 synthesis (on-disk page counts as of 2026-07-24)*

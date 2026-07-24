@@ -17,7 +17,7 @@ sources: [acg-2021-ugib]
 - **Melena**: black, tarry stools (requires colonic transit time; typically implies proximal source)
 - **Hematochezia**: red or maroon blood per rectum — can indicate UGIB when bleeding is brisk (rapid transit through colon)
 
-**Occult UGIB** (iron-deficiency anemia, fecal occult blood) is a separate clinical scenario and is not covered in this schema, which focuses on overt UGIB requiring acute management.
+**Occult UGIB** ([[iron-deficiency-anemia|iron-deficiency anemia]], fecal occult blood) is a separate clinical scenario and is not covered in this schema, which focuses on overt UGIB requiring acute management.
 
 ### UGIB vs. LGIB Distinction
 

@@ -301,7 +301,7 @@ Scores supplement but do not replace clinical judgment. Low-risk patients (Oakla
 ### Alarm Features Suggesting Alternative Diagnoses
 
 - Unintentional weight loss → colorectal neoplasia
-- Change in bowel habits, iron deficiency anemia → [[colorectal-cancer|colorectal cancer]] or [[inflammatory-bowel-disease|IBD]]
+- Change in bowel habits, [[iron-deficiency-anemia|iron deficiency anemia]] → [[colorectal-cancer|colorectal cancer]] or [[inflammatory-bowel-disease|IBD]]
 - Abdominal pain preceding hematochezia → ischemic colitis, IBD, infectious colitis
 - Recent colonoscopy with polypectomy → postpolypectomy bleeding
 - History of pelvic radiation → radiation proctopathy

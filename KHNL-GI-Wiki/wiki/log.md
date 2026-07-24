@@ -6,6 +6,37 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-07-24] lint | Ingested 2 AGA CPUs (PVT-in-cirrhosis + IDA management); new iron-deficiency-anemia disease script + APC stub; PVT page given AGA-2025 CTP-class AC table; stalest anorectal pages validated; index reconciled (234 sources); 0 broken links
+
+**Sources ingested (2 — guideline/CPU tier, per ingestion priority; all 5 RCTs and both non-lecture backlog RCTs already ingested; no lectures auto-ingested):**
+- `[[aga-2025-pvt-cirrhosis]]` — AGA 2025 CPU: Management of Portal Vein Thrombosis in Cirrhosis (Davis, Lim, Francis, Ahn; *Gastroenterology* 2025;168:396–404). All 11 Best Practice Advice statements captured verbatim, plus Table 1 (AC-treatment studies) and Supplementary Table 1 (anticoagulant properties by CTP class). Newest guideline-tier source specific to **cirrhotic** PVT.
+- `[[aga-2024-ida-management]]` — AGA 2024 CPU: Management of Iron Deficiency Anemia (DeLoughery, Jackson, Ko, Rockey; *CGH* 2024;22:1575–1583). All 15 Best Practice Advice statements verbatim, plus Table 1 (oral iron preparations) and Table 2 (IV iron preparations); the repletion companion to the already-ingested `[[aga-2020-ida]]` (GI evaluation).
+
+**Pages created (2):**
+- `[[iron-deficiency-anemia]]` (1-disease-scripts/other, ADDT) — closes a long-flagged missing-entity gap (dangling `[[iron-deficiency-anemia]]` links already existed on `[[small-bowel-bleeding]]` and `[[capsule-endoscopy]]` — now resolve). Built from both AGA IDA sources: ferritin <45 dx + confirmatory tests, bidirectional-endoscopy workup, oral vs IV iron tables, and a condition-specific repletion table (bariatric/IBD/PHG/GAVE/celiac/small-bowel angioectasias).
+- `[[argon-plasma-coagulation]]` (3-general-gi-procedures, **stub**) — APC was referenced as plain text on ≥6 pages with no page; created a minimal sourced stub so links resolve. Flagged for expansion.
+
+**Pages updated (ingest wiring):**
+- `[[portal-vein-thrombosis]]` — new AGA-2025 cirrhotic-PVT block: chronicity/occlusion stratification table (recent <6mo >50%/main-PV/mesenteric → AC; ischemia → urgent AC; chronic cavernoma → no AC), timing/monitoring (reimage q3mo, futility at 6mo), and a **CTP-class anticoagulant selection table**. Source added to frontmatter + Sources; contradiction surfaced (AGA/AASLD "AC ASAP" vs EASL deferral / Baveno VII ligation-on-VKA).
+- Inline `[[iron-deficiency-anemia]]` links wired on first mention across `[[celiac-disease]]`, `[[helicobacter-pylori-infection]]`, `[[colorectal-cancer]]`, `[[esophageal-cancer]]`, `[[upper-gi-bleeding]]`, `[[acute-lower-gi-bleeding]]`, `[[chronic-diarrhea]]` (7 inline) + See-Also on `[[atrophic-gastritis]]`, `[[angioectasia]]`, `[[iron-overload-and-iron-metabolism]]` (3).
+
+**Stalest-page validation (Content + Style Guides; 2 pages, oldest `updated:`):**
+- `[[anal-fissure]]` — decision sufficiency confirmed vs ACG 2021 (chronic def >8–12wk, topical regimens/doses diltiazem 2%/nifedipine 0.2–0.5%/GTN 0.2–0.4%/Botox 5–100u, LIS escalation, GRADE strengths). Fix: Botox indication corrected to "CCB failure **or** alternative to CCB" (ACG Rec 2). `updated:` → 2026-07-24.
+- `[[hemorrhoids]]` — grade I–IV table verified verbatim vs ACG 2021; fixes: added **bipolar coagulation** as a grade 1–2 RBL alternative (ACG Rec 3), added inline `[[chronic-idiopathic-constipation|constipation]]` link. `updated:` → 2026-07-24.
+
+**Hygiene / reconciliation:**
+- `index.md` — added 2 AGA source entries, `[[iron-deficiency-anemia]]` (Other), `[[argon-plasma-coagulation]]` (General Procedures); refreshed `[[portal-vein-thrombosis]]` description (now 4 sources); totals → **234 sources | 119 disease scripts | 21 diagnostic schemas | 4 general procedures | 24 advanced procedures | 23 meds | 42 concepts | 1 synthesis** (as of 2026-07-24). Frontmatter date bumped.
+- Whole-wiki scan (escaped-pipe/embed-aware): **0 broken links, 0 duplicate basenames**.
+- Git: no untracked files under `raw/` (inbox sync had no new arrivals this pass).
+
+**Flagged for user / future passes (not fixed — no outside info used):**
+- **Missing entity pages surfaced by the IDA CPU:** `gastric-antral-vascular-ectasia` (GAVE) and `portal-hypertensive-gastropathy` (PHG) — both discrete disease entities referenced in-text with no page; the IDA CPU covers them only tangentially. Left as plain text; would benefit from a dedicated source (e.g. a portal-hypertension/GI-bleeding source) before writing.
+- `[[argon-plasma-coagulation]]` stub needs expansion from a hemostasis/LGIB source.
+- Remaining uningested **AGA CPU backlog (~8):** PVT already done this pass; still uningested — Advances in POEM, Esophageal Dysfunction from Immunity/Infection, IBD in Malignancy, Pregnancy-Related GI & Liver Disease, Tailored Polypectomy, AI in Colon Polyps (2023), CRC Screening & Post-Polypectomy Risk (2023), Noninvasive NAFLD Biomarkers (2023). Reported, not ingested (2-file cap).
+- Lecture/chalk-talk transcripts remain **gated** — not auto-ingested; awaiting user selection by name.
+
+---
+
 ## [2026-07-23] update | Reconciled a manual daytime lint against the scheduled cron; re-applied 15 net-new pages the cron hadn't ingested
 
 **Context:** two manual daytime lint passes (stub expansion + ingest) diverged from the nightly scheduled cron, which had independently ingested overlapping AGA CPUs — sometimes under different slugs (`aga-2024-cvs` vs `aga-2024-cyclic-vomiting-syndrome`; `nutrition-in-ibd` vs `ibd-diet-and-nutrition`; `abdominal-bloating-and-distention` vs `bloating-and-distention`; `aga-2023-acute-hepatic-porphyria` vs `…-porphyrias`). Per user: **keep the cron's version for all collisions**, and re-apply only the manual work the cron had *not* produced.

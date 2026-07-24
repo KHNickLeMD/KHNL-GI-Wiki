@@ -23,7 +23,7 @@ sources: [acg-2017-hp-guidelines, acg-2024-hp-treatment, aga-2024-pcab]
 - After endoscopic resection of early [[gastric-adenocarcinoma|gastric cancer]]
 - Uninvestigated [[dyspepsia]] <55 y without alarm features → [[test-and-treat]]
 - Long-term NSAID use (before initiation)
-- Unexplained iron deficiency anemia
+- Unexplained [[iron-deficiency-anemia|iron deficiency anemia]]
 - Immune thrombocytopenic purpura (ITP)
 
 **Clinical presentation:**

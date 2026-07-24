@@ -3,7 +3,7 @@ title: "Hemorrhoids"
 category: disease-script
 tags: [hemorrhoids, anorectal, rectal-bleeding, rubber-band-ligation, hemorrhoidectomy, colorectal]
 created: 2026-05-16
-updated: 2026-07-16
+updated: 2026-07-24
 sources: [acg-2021-anorectal-disorders, asge-2010-anorectal-disorders, aga-2026-hemorrhoids]
 ---
 
@@ -72,7 +72,7 @@ The diagnosis of symptomatic internal hemorrhoids requires exclusion of other so
 **Strong/Moderate recommendation (ACG 2021):**
 
 - Dietary modification: adequate fiber (20–30 g/day), increase fluid intake (6–8 glasses/day)
-- Stool softeners: PEG 3350 or docusate if constipation contributing
+- Stool softeners: PEG 3350 or docusate if [[chronic-idiopathic-constipation|constipation]] contributing
 - Sitz baths: symptomatic relief
 - Avoid prolonged sitting on toilet; avoid straining
 - Discourage use of cell phone on toilet
@@ -86,6 +86,7 @@ The diagnosis of symptomatic internal hemorrhoids requires exclusion of other so
 | **Rubber band ligation (RBL)** | Grade I–III | Strong/Moderate — preferred; lower need for retreatment vs IRC/sclerotherapy. RBL is also the initial endoscopic treatment of choice for bleeding/prolapsing 2nd–3rd-degree internal hemorrhoids failing conservative care *(ASGE 2010)* [[asge-2010-anorectal-disorders]] | Banding at base of hemorrhoid above dentate line; most popular and effective; complications: pain (1–4 days), bleeding (1–2%), thrombosis of external component, rare life-threatening sepsis in immunocompromised |
 | **Infrared coagulation (IRC)** | Grade I–II | Strong/Moderate — similar to RBL for Grade I–II | Faster; less pain than banding; higher retreatment rate |
 | **Sclerotherapy** | Grade I–II | Alternative; similar to IRC | Injection of sclerosing agent; effective for bleeding Grade I–II; useful for patients on [[anticoagulation-gi-bleeding|anticoagulation]] |
+| **Bipolar coagulation** | Grade I–II | Strong/Moderate — ACG-listed alternative to RBL (grouped with IRC/sclerotherapy in the recommendation) | Cauterizes hemorrhoid base; outcomes similar to IRC |
 | **Doppler-guided hemorrhoidal artery ligation (DGHAL)** | Grade III | Conditional/Very Low — similar outcomes to hemorrhoidectomy | Minimally invasive; no tissue excision; Doppler identifies feeding arteries; used in Europe more than US |
 
 **Avoid RBL in:** acute perianal [[crohns-disease|Crohn's disease]]; immunocompromise (high sepsis risk); patients on full anticoagulation.

@@ -206,7 +206,7 @@ Metastasis rate: <10% for NETs ≤2 cm; ~20% for NETs >2 cm.
 
 ## See Also
 
-[[gastric-premalignant-conditions]], [[gastric-intestinal-metaplasia]], [[gastric-polyps]], [[gastric-adenocarcinoma]], [[gastroenteropancreatic-neuroendocrine-tumors]], [[helicobacter-pylori-infection]], [[celiac-disease]], [[endoscopic-ultrasound]], [[upper-endoscopy]], [[dyspepsia]]
+[[gastric-premalignant-conditions]], [[gastric-intestinal-metaplasia]], [[gastric-polyps]], [[gastric-adenocarcinoma]], [[gastroenteropancreatic-neuroendocrine-tumors]], [[helicobacter-pylori-infection]], [[celiac-disease]], [[iron-deficiency-anemia]], [[endoscopic-ultrasound]], [[upper-endoscopy]], [[dyspepsia]]
 
 ---
 

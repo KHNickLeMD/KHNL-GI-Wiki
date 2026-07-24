@@ -51,7 +51,7 @@ sources: [acg-2019-hereditary-hemochromatosis]
 
 ## See Also
 
-[[hereditary-hemochromatosis]], [[nafld-masld]], [[alcohol-associated-liver-disease]], [[drug-induced-liver-injury]], [[liver-biopsy]]
+[[hereditary-hemochromatosis]], [[iron-deficiency-anemia]], [[nafld-masld]], [[alcohol-associated-liver-disease]], [[drug-induced-liver-injury]], [[liver-biopsy]]
 
 ---
 

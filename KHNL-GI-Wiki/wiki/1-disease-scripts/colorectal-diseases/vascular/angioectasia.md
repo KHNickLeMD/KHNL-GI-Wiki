@@ -37,7 +37,7 @@ Angioectasia (also called angiodysplasia) are acquired vascular ectasias of the 
 
 ## See Also
 
-[[small-bowel-bleeding]], [[heydes-syndrome]], [[hereditary-hemorrhagic-telangiectasia]], [[upper-gi-bleeding]], [[acute-lower-gi-bleeding]], [[capsule-endoscopy]], [[device-assisted-enteroscopy]], [[somatostatin-analogs]]
+[[small-bowel-bleeding]], [[heydes-syndrome]], [[hereditary-hemorrhagic-telangiectasia]], [[upper-gi-bleeding]], [[acute-lower-gi-bleeding]], [[iron-deficiency-anemia]], [[capsule-endoscopy]], [[device-assisted-enteroscopy]], [[somatostatin-analogs]]
 
 ---
 
