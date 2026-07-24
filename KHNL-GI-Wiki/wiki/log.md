@@ -6,6 +6,25 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-07-23] update | Reconciled a manual daytime lint against the scheduled cron; re-applied 15 net-new pages the cron hadn't ingested
+
+**Context:** two manual daytime lint passes (stub expansion + ingest) diverged from the nightly scheduled cron, which had independently ingested overlapping AGA CPUs — sometimes under different slugs (`aga-2024-cvs` vs `aga-2024-cyclic-vomiting-syndrome`; `nutrition-in-ibd` vs `ibd-diet-and-nutrition`; `abdominal-bloating-and-distention` vs `bloating-and-distention`; `aga-2023-acute-hepatic-porphyria` vs `…-porphyrias`). Per user: **keep the cron's version for all collisions**, and re-apply only the manual work the cron had *not* produced.
+
+**Resolution:** took origin (cron) as the base wholesale; parked the full manual branch locally (`parked-manual-lint-0723`) for reference. Re-applied only self-contained net-new clusters where origin has neither the page nor a topical-synonym slug.
+
+**Pages re-applied (15) + backing sources (11):**
+- Disease scripts: [[diverticulitis]] (+ [[acg-2026-diverticulitis]]), [[segmental-colitis-associated-with-diverticulosis]], [[acute-cholecystitis]], [[nonampullary-duodenal-adenoma]] (+ [[aga-2025-nonampullary-duodenal]]), [[sphincter-of-oddi-dysfunction]].
+- Procedures: [[enteral-access]] (+ [[aga-2025-endoscopic-enteral-access]]), [[endoscopic-full-thickness-resection]] (+ [[aga-2024-full-thickness-resection]]), [[g-poem]] (+ [[aga-2023-gpoem-gastroparesis]]), [[eus-guided-gallbladder-drainage]] (+ [[aga-2023-eus-gallbladder-drainage]]), [[interventional-eus-vascular]] (+ [[aga-2023-interventional-eus-vascular]]).
+- Meds/concepts: [[albumin]], [[gastric-cancer-screening]] (+ [[aga-2025-gastric-cancer-screening]]), [[ibd-endoscopic-scoring]] (+ [[aga-2024-ibd-endoscopic-scoring]]), [[ibd-pain-management]] (+ [[aga-2024-ibd-pain]]), [[ostomy-management]] (+ [[aga-2023-ostomies]]).
+
+**Deliberately NOT re-applied (cron's version kept, per user):** all topical duplicates — `ibd-diet-and-nutrition`/`aga-2024-ibd-diet-nutrition` (cron: `nutrition-in-ibd`), `bloating-and-distention`+`belching-disorders` (cron: `abdominal-bloating-and-distention`), `extraesophageal-reflux`, `cyclic-vomiting-syndrome`, `cannabinoid-hyperemesis-syndrome`, `intestinal-ultrasound`, `potassium-competitive-acid-blockers`, `alpha-gal-syndrome`, `acute-hepatic-porphyria`, `exocrine-pancreatic-insufficiency`, `glp-1-agonists-periprocedural` (cron folded into `endoscopy-sedation`), plus their duplicate source slugs. The manual stub-expansions of pages the cron also expanded (PTLD, preprocedure-testing, poem, etc.) were dropped in favor of the cron's.
+
+**Validation:** whole-wiki scan after re-apply — **0 broken links, 0 duplicate basenames, 0 index gaps** (all 15 new pages' `sources:` resolve). 467 md files (235 pages / 232 sources).
+
+**Process fix:** added a project `SessionStart` hook (`.claude/settings.json`) running `git pull --ff-only` so a manual daytime session always starts from the cron's latest push — preventing the multi-commit backlog that caused this divergence. Guidance for future daytime lints: pull at start, commit+push same session, and prefer a different work-lane than the cron (targeted decision-gap/link/synthesis work) to avoid duplicate-slug ingests.
+
+---
+
 ## [2026-07-22] lint | Ingested 2 AGA 2024 CPUs (GLP-1 RAs before endoscopy + Diet/Nutrition in IBD); new nutrition-in-ibd concept + glp-2-agonists stub; wired into sedation/EGD/colonoscopy/semaglutide + Crohn's/UC; stalest ICI-hepatitis validated; index reconciled (219 sources); 0 broken links
 
 **Sources ingested (2 — guideline/CPU tier, per ingestion priority; no lectures auto-ingested):**

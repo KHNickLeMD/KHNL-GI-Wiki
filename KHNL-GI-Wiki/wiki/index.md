@@ -159,6 +159,11 @@ updated: 2026-07-20
 
 ---
 
+- [[diverticulitis]] — Colonic diverticulitis: ADDT — modified Hinchey staging, CT-confirmed dx, **selective (not routine) antibiotics** for low-risk uncomplicated disease (with the full low-risk criteria + regimens/doses), post-recovery colonoscopy (strong after complicated, 6–8 wk delay), recurrence-prevention lifestyle bundle, elective surgery for QoL (episode count no longer an indication); against mesalamine/rifaximin/probiotics (1 source)
+- [[segmental-colitis-associated-with-diverticulosis]] — SCAD: chronic segmental colitis in diverticula-bearing colon, rectum spared; histology mimics UC/Crohn's; distinct-entity-vs-IBD unresolved (mgmt not in ingested source) (1 source)
+- [[acute-cholecystitis]] — Acute cholecystitis: ADDT — diagnosis, the non-surgical candidate, and drainage route selection (EUS-guided vs percutaneous cholecystostomy vs transpapillary) (1 source)
+- [[nonampullary-duodenal-adenoma]] — resection by size (cold-snare <20mm / hot-snare EMR >20mm), bleeding risk, surveillance, FAP/Spiegelman (1 source)
+- [[sphincter-of-oddi-dysfunction]] — SOD: sphincter-complex dysmotility (post-cholecystectomy pain / IRAP); biliary (Rome III/Milwaukee) & pancreatic 3-type criteria; treat type I/1 (and manometry-confirmed II/2) with sphincterotomy, **never scope type III/3** (EPISOD); rectal indomethacin ± PD stent prophylaxis (2 sources)
 ## Diagnostic Schemas
 
 - [[dysphagia]] — Dysphagia: oropharyngeal vs. esophageal localization, solids-vs-liquids discriminator, EGD-first algorithm with mandatory EoE biopsies, HRM/FLIP when EGD normal, alarm features for malignancy (0 sources)
@@ -192,6 +197,7 @@ updated: 2026-07-20
 
 ---
 
+- [[enteral-access]] — Choosing and managing enteral tubes: gastric vs small-bowel, nasoenteric vs PEG/PEGJ/DPEJ route selection, periprocedural antibiotics/antithrombotics, technique, and complications (1 source)
 ## Advanced GI Procedures
 
 ### Foregut and Motility Procedures
@@ -227,6 +233,10 @@ updated: 2026-07-20
 
 ---
 
+- [[endoscopic-full-thickness-resection]] — EFTR for GI subepithelial lesions: exposed vs nonexposed (STER, device-assisted FTRD) techniques, size limits, R0/en-bloc rates, adverse events (1 source)
+- [[g-poem]] — G-POEM: endoscopic pyloromyotomy for refractory gastroparesis — selection (GES retention >20% at 4h; GCSI >2, N/V-predominant), success predictors (GCSI >2.6), durable success 50–60% (sham RCT 71% vs 22%), AEs 6–14% (1 source)
+- [[eus-guided-gallbladder-drainage]] — EUS-guided gallbladder drainage (LAMS): indications in the non-surgical candidate, technique, outcomes vs percutaneous and transpapillary drainage, adverse events (1 source)
+- [[interventional-eus-vascular]] — Interventional EUS for vascular investigation and therapy: EUS-guided portal pressure gradient, coil/glue therapy for gastric varices, portal vein sampling (1 source)
 ## Meds
 
 - [[lubiprostone]] — Lubiprostone: ClC-2 chloride-channel activator; **CIC 24 mcg BID (Conditional/Low, OTC-failure qualifier)**; place vs other secretagogues; cost; ACG 2020 vs AGA 2022 contradiction on IBS-C surfaced (IBS-C dose not in any source) (3 sources)
@@ -256,6 +266,7 @@ updated: 2026-07-20
 - [[glp-2-agonists]] — GLP-2 agonists (teduglutide): trophic to intestinal mucosa; enhance adaptation + facilitate PN weaning in short bowel syndrome; see [[nutrition-in-ibd]] (stub)
 ---
 
+- [[albumin]] — IV albumin in cirrhosis: indications and dosing for large-volume paracentesis, SBP, and AKI/HRS (1 source)
 ## Anatomy
 
 *(none yet)*
@@ -306,6 +317,10 @@ updated: 2026-07-20
 
 ---
 
+- [[gastric-cancer-screening]] — GC screening/surveillance framework: who to screen, EGD+Sydney biopsy, intervals by AG/GIM/dysplasia (1 source)
+- [[ibd-endoscopic-scoring]] — Endoscopic scoring indices for IBD: MES, UCEIS, CDEIS, SES-CD, MM-SES-CD, and modified Rutgeerts — components, point bands, and remission/response cutoffs (1 source)
+- [[ibd-pain-management]] — Managing chronic abdominal pain in IBD: central vs peripheral drivers, neuromodulator dosing, opioid avoidance, and brain-gut behavior therapies (1 source)
+- [[ostomy-management]] — Ostomy types, output expectations, high-output ostomy (>1.5 L/d) definitions and treatment ladder, and peristomal/hernia/prolapse complications (1 source)
 ## Sources
 
 ### AASLD
@@ -552,6 +567,17 @@ updated: 2026-07-20
 
 ---
 
+- [[acg-2026-diverticulitis]] — ACG 2026: Colonic Diverticulitis — Peery, Strate, Stollman et al. Am J Gastroenterol 2026;121:1549–1561 — 14 GRADE recs; selective antibiotics, modified Hinchey, post-recovery colonoscopy, recurrence prevention, elective-surgery reversal; against mesalamine/rifaximin/probiotics
+- [[aga-2023-eus-gallbladder-drainage]] — AGA 2023: EUS-Guided Gallbladder Drainage in Acute Cholecystitis — Irani, Sharzehi, Siddiqui. Clin Gastroenterol Hepatol 2023;21(5):1141–1147
+- [[aga-2023-gpoem-gastroparesis]] — AGA 2023: Gastric Peroral Endoscopic Myotomy for Gastroparesis — Khashab, Wang, Cai. Gastroenterology 2023;164(7):1329–1335
+- [[aga-2023-interventional-eus-vascular]] — AGA 2023: Interventional EUS for Vascular Investigation and Therapy — Ryou, DeWitt, Das, Shami. Clin Gastroenterol Hepatol 2023;21(7):1699–1705
+- [[aga-2023-ostomies]] — AGA 2023: Management of Ostomies — Hedrick, Sherman, Cohen-Mekelburg, Gaidos. Clin Gastroenterol Hepatol 2023;21(10):2473–2477
+- [[aga-2024-full-thickness-resection]] — AGA 2024: Endoscopic Full-Thickness Resection for GI Subepithelial Lesions — D'Souza, Yang, Diehl. Gastroenterology 2024;166(2)
+- [[aga-2024-ibd-endoscopic-scoring]] — AGA 2024: Endoscopic Scoring Systems in IBD — Buchner, Farraye, Iacucci. Clin Gastroenterol Hepatol 2024;22(11):2188–2196
+- [[aga-2024-ibd-pain]] — AGA 2024: Pain Management in IBD — Keefer, Hashash, Szigethy, Mayer. Gastroenterology 2024;166(6):1182–1189
+- [[aga-2025-endoscopic-enteral-access]] — AGA 2025: Endoscopic Enteral Access — Micic, Martin, Fang. Gastroenterology 2025;168(1):164–168
+- [[aga-2025-gastric-cancer-screening]] — AGA 2025 CPU: gastric cancer screening & surveillance in increased-risk US individuals; 15 BPAs
+- [[aga-2025-nonampullary-duodenal]] — AGA 2025 CPU: nonampullary duodenal lesions — cold- vs hot-snare EMR by size, surveillance; 13 BPAs
 ## Syntheses
 
 - [[uc-vs-crohns-comparison]] — UC vs. Crohn's: side-by-side comparison of presentation, distribution, histology, biologics, and surgery

@@ -1,0 +1,59 @@
+---
+title: "Albumin (IV)"
+category: med
+tags: [albumin, cirrhosis, ascites, sbp, hrs]
+created: 2026-07-23
+updated: 2026-07-23
+sources: [aga-2024-vasoactive-albumin-cirrhosis]
+---
+
+## Overview
+
+- IV albumin is a **plasma volume expander** used in [[cirrhosis|cirrhosis]] to expand effective arterial blood volume in the vasodilatory–hyperdynamic circulatory state that drives decompensation.
+- Distinct from vasoconstrictors (terlipressin, octreotide, norepinephrine, midodrine), which lower portal pressure via splanchnic vasoconstriction — albumin works by volume expansion.
+- Guidance below is from the **AGA 2024 Clinical Practice Update** (Best Practice Advice, BPA — Expert Review; **no formal evidence/strength ratings**; many statements rest on expert opinion / society guidelines).
+- Core roles: at large-volume paracentesis, in [[spontaneous-bacterial-peritonitis|SBP]], and as the volume expander of choice for AKI in cirrhosis. **Not** for uncomplicated [[ascites]].
+
+## Indications & Dosing by Indication
+
+| Indication | AGA advice | Albumin dose / regimen |
+|---|---|---|
+| **Large-volume (>5 L) paracentesis** | Give IV albumin (BPA 4) | **6–8 g per L of ascites removed** (expert opinion, per society guidelines); **lower doses (4 g/L) may be sufficient** |
+| **LVP in [[acute-on-chronic-liver-failure|ACLF]]** | Give albumin during paracentesis | **6–8 g/L regardless of the volume removed** |
+| **SBP** | Albumin *may be considered* (BPA 5) | **1.5 g/kg body weight on day 1 + 1 g/kg on day 3** (empirical, per society guidelines). Highest-benefit subgroup: bilirubin >4 mg/dL, or AKI at baseline (creatinine >1.0 mg/dL and BUN >30 mg/dL) |
+| **AKI in cirrhosis + ascites (hospitalized)** | Albumin is the **volume expander of choice** (BPA 8) | ⚠ Source gives no specific albumin dose/regimen for AKI volume expansion |
+| **HRS-AKI** | Concurrent albumin *can be considered*, accounting for volume status; terlipressin is the vasoactive drug of choice (BPA 10) | ⚠ Source gives no specific albumin dose for HRS-AKI |
+| **Uncomplicated ascites** (hospitalized or not) | **Do NOT use** albumin (BPA 6) | — |
+
+- Hepatorenal syndrome (HRS-AKI) is treated with a vasoconstrictor (terlipressin — see its own page) plus albumin as above; vasoactive drug dosing is **not** reproduced here.
+- Vasoconstrictors should **not** be used after large-volume paracentesis or in SBP (BPA 7).
+
+## Evidence
+
+**Large-volume paracentesis**
+- Single 5-L LVP does **not** cause deleterious hemodynamic/renal effects.
+- Daily 5-L paracenteses **without** albumin → AKI in 21% (**0% with albumin**); plasma renin/aldosterone rose at 48 h only without albumin ("post-paracentesis circulatory dysfunction," PCD).
+- Albumin vs dextran-70 vs polygeline (RCT, n=289): PCD equal for volumes **<5 L**; for **>5 L**, PCD **18% (albumin)** vs 34% / 38% — confirmed in meta-analysis (8 trials, n=694).
+- A Cochrane meta-analysis found **no mortality/renal-dysfunction difference** for volume expansion after LVP → robust-outcome data still needed.
+
+**SBP**
+- AKI is the strongest predictor of death in SBP.
+- RCT (n=105): antibiotics **+ albumin** → AKI **10% vs 33%**, death **10% vs 29%**.
+- Highest benefit in patients with **bilirubin >4 mg/dL, or baseline AKI** (creatinine >1.0 mg/dL and BUN >30 mg/dL).
+- ⚠ A small RCT using only 10 g/day on days 1–3 is cited but the source text is truncated at this point (outcome not fully captured).
+
+## Cautions
+
+- Adverse events of albumin (all reported in <10%): **fluid overload, pulmonary edema, rigors, hypotension/tachycardia, pyrexia, nausea/vomiting, rash/pruritus.**
+- Adverse events are generally dose-dependent but can occur at lower doses.
+- In HRS-AKI, concurrent albumin should be titrated to the patient's **volume status** to avoid overload.
+
+## See Also
+
+[[cirrhosis]], [[ascites]], [[spontaneous-bacterial-peritonitis]], [[acute-on-chronic-liver-failure]]
+
+---
+
+## Sources
+
+1. [[aga-2024-vasoactive-albumin-cirrhosis|AGA 2024 Clinical Practice Update on the Use of Vasoactive Drugs and Intravenous Albumin in Cirrhosis]]
