@@ -3,11 +3,9 @@ title: "Anorectal Manometry (ARM)"
 category: advanced-procedure
 tags: [arm, anorectal-manometry, defecation, biofeedback, dyssynergia, fecal-incontinence]
 created: 2026-05-19
-updated: 2026-07-16
+updated: 2026-07-25
 sources: [acg-2021-anorectal-disorders, acg-2020-ibs]
 ---
-
-*Stub — to be expanded.*
 
 ## Overview
 

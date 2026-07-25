@@ -3,7 +3,7 @@ title: "ERCP (Endoscopic Retrograde Cholangiopancreatography)"
 category: advanced-procedure
 tags: [ercp, biliary, pancreatic, hepatobiliary, sphincterotomy, stent, stone-extraction]
 created: 2026-05-16
-updated: 2026-07-23
+updated: 2026-07-25
 sources: [asge-2024-therapeutic-eus-biliary, asge-2023-post-ercp-pancreatitis, asge-2021-cholangitis, asge-2019-choledocholithiasis, asge-2023-post-transplant-biliary-strictures, asge-2015-ercp-benign-biliary]
 ---
 
@@ -19,7 +19,7 @@ sources: [asge-2024-therapeutic-eus-biliary, asge-2023-post-ercp-pancreatitis, a
 - **Post–[[liver-transplantation|liver transplant]] biliary stricture** — ERCP is first-line therapy over PTBD ([[asge-2023-post-transplant-biliary-strictures]]); balloon dilation + stenting. For extrahepatic anastomotic (duct-to-duct) strictures, **covered SEMS preferred over multiple plastic stents** (equivalent resolution, fewer procedures, lower cost); cSEMS unsuitable for intrahepatic or near-bifurcation strictures. Give [[antibiotic-prophylaxis-endoscopy|periprocedural antibiotics]] when complete drainage cannot be ensured (note fluoroquinolone–[[tacrolimus]] CYP3A4 interaction)
 - **Bile leak (post-surgical)** — ERCP is *first-line* therapy; biliary sphincterotomy and/or stenting [[asge-2015-ercp-benign-biliary]]
 - [[primary-sclerosing-cholangitis|Primary sclerosing cholangitis]] — dominant stricture palliation
-- **Sphincter of Oddi dysfunction (SOD):** ERCP + sphincterotomy for **type I**; do **not** perform ERCP for **type III** (EPISOD trial — no benefit, significant adverse events). Do not undertake diagnostic ERCP for pancreaticobiliary-type pain without objective imaging/lab abnormalities [[asge-2015-ercp-benign-biliary]]
+- **[[sphincter-of-oddi-dysfunction|Sphincter of Oddi dysfunction (SOD)]]:** ERCP + sphincterotomy for **type I**; do **not** perform ERCP for **type III** (EPISOD trial — no benefit, significant adverse events). Do not undertake diagnostic ERCP for pancreaticobiliary-type pain without objective imaging/lab abnormalities. Type criteria (biliary/pancreatic Milwaukee schemes) that assign the type live on [[sphincter-of-oddi-dysfunction]] [[asge-2015-ercp-benign-biliary]]
 - Congenital choledochocele / choledochal cyst — sphincterotomy may treat secondary cholangitis/pancreatitis; ERCP clarifies diagnosis when [[mri-mrcp|MRCP]]/CT equivocal [[asge-2015-ercp-benign-biliary]]
 - Do **not** perform routine ERCP before laparoscopic cholecystectomy absent objective signs of obstruction/stone [[asge-2015-ercp-benign-biliary]]
 
@@ -64,7 +64,7 @@ sources: [asge-2024-therapeutic-eus-biliary, asge-2023-post-ercp-pancreatitis, a
 
 ## See Also
 
-[[acute-pancreatitis]], [[biliary-stricture]], [[choledocholithiasis]], [[endoscopic-ultrasound]], [[cholangioscopy]], [[chronic-pancreatitis]], [[cholangiocarcinoma]], [[primary-sclerosing-cholangitis]], [[liver-transplantation]], [[brush-cytology]]
+[[acute-pancreatitis]], [[biliary-stricture]], [[choledocholithiasis]], [[endoscopic-ultrasound]], [[cholangioscopy]], [[chronic-pancreatitis]], [[cholangiocarcinoma]], [[primary-sclerosing-cholangitis]], [[sphincter-of-oddi-dysfunction]], [[liver-transplantation]], [[brush-cytology]]
 
 ---
 

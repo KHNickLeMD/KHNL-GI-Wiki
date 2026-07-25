@@ -3,7 +3,7 @@ title: "Clostridioides difficile Infection"
 category: disease-script
 tags: [cdiff, clostridioides-difficile, colitis, vancomycin, fidaxomicin, fmt, colorectal]
 created: 2026-05-15
-updated: 2026-07-16
+updated: 2026-07-25
 sources: [acg-2021-cdiff, aga-2024-fmt, aga-2026-cdiff-ibd, feuerstadt-2022-ser109-cdiff]
 ---
 
@@ -123,7 +123,7 @@ Higher doses of vancomycin (>125 mg QID) are not recommended for severe CDI — 
 - Vancomycin enemas 500 mg in 100 mL NS q6h (conditional) — add if ileus present; theoretical benefit in drug delivery; retrospective data did not show mortality reduction but is mechanistically reasonable
 - Adequate volume resuscitation; monitor renal function and urine output closely
 - Low threshold for cross-sectional imaging (CT) to assess megacolon or perforation
-- If no improvement at 48–72 hours: reassess with multidisciplinary team; consider FMT or surgery
+- If no improvement at 48–72 hours: reassess with multidisciplinary team; consider [[fmt|FMT]] or surgery
 
 **FMT for refractory severe/fulminant CDI:**
 
@@ -135,7 +135,7 @@ Higher doses of vancomycin (>125 mg QID) are not recommended for severe CDI — 
 
 **Surgical therapy:**
 
-- Indications: colonic perforation, toxic megacolon, ischemia, or failure to respond to maximal medical therapy
+- Indications: colonic perforation, [[toxic-megacolon|toxic megacolon]], ischemia, or failure to respond to maximal medical therapy
 - Options (surgeon's judgment based on clinical circumstances and patient tolerance):
   - Total colectomy with end ileostomy + stapled rectal stump — traditional approach; removes infected colon; allows eventual stoma closure
   - Diverting loop ileostomy + intraoperative colonic lavage (8 L PEG) + 10 days postoperative intraluminal vancomycin through ileostomy — less physiologically demanding; adjusted mortality lower (17.2% vs 39.7% in matched cohort)
@@ -246,7 +246,7 @@ Higher doses of vancomycin (>125 mg QID) are not recommended for severe CDI — 
 
 ## See Also
 
-[[ulcerative-colitis]], [[crohns-disease]], [[inflammatory-bowel-disease]], [[colonoscopy]], [[salmonella-infection]], [[campylobacter-infection]], [[norovirus]], [[irritable-bowel-syndrome]], [[microscopic-colitis]], [[colon-ischemia]], [[acute-diarrhea]]
+[[ulcerative-colitis]], [[crohns-disease]], [[inflammatory-bowel-disease]], [[colonoscopy]], [[salmonella-infection]], [[campylobacter-infection]], [[norovirus]], [[irritable-bowel-syndrome]], [[microscopic-colitis]], [[colon-ischemia]], [[acute-diarrhea]], [[fmt]], [[toxic-megacolon]]
 
 ---
 

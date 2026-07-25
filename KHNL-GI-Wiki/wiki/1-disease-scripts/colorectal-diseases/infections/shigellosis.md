@@ -3,7 +3,7 @@ title: "Shigellosis"
 category: disease-script
 tags: [shigella, bacterial-gastroenteritis, dysentery, diarrhea, travelers-diarrhea, azithromycin]
 created: 2026-05-19
-updated: 2026-07-16
+updated: 2026-07-25
 sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
 ---
 
@@ -15,7 +15,7 @@ sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
 
 - Ill, febrile patient with frequent scant **bloody stools**, cramps, and tenesmus (dysentery).
 - **Stool culture / multiplex GI PCR** confirms; *Shigella* is a **notifiable** pathogen — submit isolate. [[idsa-2017-infectious-diarrhea]]
-- Apply **Shiga-toxin–aware diagnostics** when *S. dysenteriae* type 1 is possible (produces Shiga toxin → [[acute-diarrhea|HUS]]).
+- Apply **Shiga-toxin–aware diagnostics** when *S. dysenteriae* type 1 is possible (produces Shiga toxin → [[hemolytic-uremic-syndrome|HUS]]).
 
 ### Severity Assessment
 
@@ -55,7 +55,7 @@ sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
 
 ## See Also
 
-[[acute-diarrhea]], [[salmonella-infection]], [[campylobacter-infection]], [[enterotoxigenic-e-coli]], [[rifaximin]], [[loperamide]], [[inflammatory-bowel-disease]]
+[[acute-diarrhea]], [[salmonella-infection]], [[campylobacter-infection]], [[enterotoxigenic-e-coli]], [[rifaximin]], [[loperamide]], [[inflammatory-bowel-disease]], [[hemolytic-uremic-syndrome]]
 
 ---
 

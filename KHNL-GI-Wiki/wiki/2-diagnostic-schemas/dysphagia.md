@@ -3,7 +3,7 @@ title: "Dysphagia"
 category: diagnostic-schema
 tags: [dysphagia, esophageal, oropharyngeal, motility, achalasia, eosinophilic-esophagitis, odynophagia, globus]
 created: 2026-06-04
-updated: 2026-07-16
+updated: 2026-07-25
 sources: []
 ---
 
@@ -42,7 +42,7 @@ The single most useful historical discriminator in esophageal dysphagia is **sol
 
 - Zenker's diverticulum — regurgitation of undigested food, halitosis, gurgling
 - Cervical osteophytes, head and neck malignancy, prior surgery/radiation
-- Thyromegaly, proximal esophageal web (Plummer-Vinson, with iron deficiency)
+- Thyromegaly, proximal esophageal web (Plummer-Vinson, with [[iron-deficiency-anemia|iron deficiency]])
 
 ### Esophageal Dysphagia
 
@@ -122,4 +122,4 @@ Prompt expedited [[upper-endoscopy|EGD]] (and raise concern for malignancy):
 
 ## See Also
 
-[[eosinophilic-esophagitis]], [[achalasia]], [[gerd]], [[esophageal-cancer]], [[barretts-esophagus]], [[distal-esophageal-spasm]], [[hypercontractile-esophagus]], [[ineffective-esophageal-motility]], [[high-resolution-manometry]], [[chicago-classification-v4]], [[flip-panometry]], [[upper-endoscopy]], [[laryngopharyngeal-symptoms]], [[disorders-of-gut-brain-interaction]]
+[[eosinophilic-esophagitis]], [[achalasia]], [[gerd]], [[esophageal-cancer]], [[barretts-esophagus]], [[distal-esophageal-spasm]], [[hypercontractile-esophagus]], [[ineffective-esophageal-motility]], [[high-resolution-manometry]], [[chicago-classification-v4]], [[flip-panometry]], [[upper-endoscopy]], [[laryngopharyngeal-symptoms]], [[disorders-of-gut-brain-interaction]], [[iron-deficiency-anemia]]

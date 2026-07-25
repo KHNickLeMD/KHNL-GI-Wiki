@@ -3,7 +3,7 @@ title: "Peptic Ulcer Disease"
 category: disease-script
 tags: [pud, peptic-ulcer, h-pylori, nsaid, upper-gi-bleeding, gastric-ulcer, duodenal-ulcer]
 created: 2026-05-19
-updated: 2026-07-21
+updated: 2026-07-25
 sources: [acg-2021-ugib, asge-2010-pud, aga-2024-pcab]
 ---
 
@@ -35,7 +35,7 @@ sources: [acg-2021-ugib, asge-2010-pud, aga-2024-pcab]
 
 ## Therapeutics
 
-- PPI BID × 4–8 weeks (DU) or 8–12 weeks (GU); consider IV PPI for active bleeding ulcers
+- [[proton-pump-inhibitors|PPI]] BID × 4–8 weeks (DU) or 8–12 weeks (GU); consider IV PPI for active bleeding ulcers
 - H. pylori eradication if positive (see [[helicobacter-pylori-infection]] for regimens)
 - Discontinue NSAIDs; if continued NSAID needed, co-prescribe PPI; consider COX-2 selective
 - Acute bleeding: endoscopic hemostasis per Forrest class; perform EGD *early* in hospitalization; repeat endoscopic therapy for rebleeding before surgery/IR; high-dose PPI 80 mg bolus + 8 mg/h × 72h [[asge-2010-pud]]
@@ -48,7 +48,7 @@ sources: [acg-2021-ugib, asge-2010-pud, aga-2024-pcab]
 
 ## See Also
 
-[[helicobacter-pylori-infection]], [[upper-gi-bleeding]], [[gastric-adenocarcinoma]], [[dyspepsia]], [[gastroparesis]], [[vonoprazan]], [[potassium-competitive-acid-blockers]], [[upper-endoscopy]]
+[[helicobacter-pylori-infection]], [[upper-gi-bleeding]], [[gastric-adenocarcinoma]], [[dyspepsia]], [[gastroparesis]], [[proton-pump-inhibitors]], [[vonoprazan]], [[potassium-competitive-acid-blockers]], [[upper-endoscopy]]
 
 ---
 

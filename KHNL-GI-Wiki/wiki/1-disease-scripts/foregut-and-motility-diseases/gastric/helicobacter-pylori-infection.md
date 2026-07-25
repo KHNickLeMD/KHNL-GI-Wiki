@@ -3,7 +3,7 @@ title: "Helicobacter pylori Infection"
 category: disease-script
 tags: [h-pylori, peptic-ulcer, gastric-cancer, malt-lymphoma, eradication, dyspepsia, gastric, foregut]
 created: 2026-05-07
-updated: 2026-07-21
+updated: 2026-07-25
 sources: [acg-2017-hp-guidelines, acg-2024-hp-treatment, aga-2024-pcab]
 ---
 
@@ -83,7 +83,7 @@ sources: [acg-2017-hp-guidelines, acg-2024-hp-treatment, aga-2024-pcab]
 
 ## Diagnostics
 
-**Pre-test requirement:** Stop PPIs ≥2 weeks and antibiotics ≥4 weeks before any test to avoid false negatives.
+**Pre-test requirement:** Stop [[proton-pump-inhibitors|PPIs]] ≥2 weeks and antibiotics ≥4 weeks before any test to avoid false negatives.
 
 ### Non-Invasive Tests
 
@@ -173,7 +173,7 @@ sources: [acg-2017-hp-guidelines, acg-2024-hp-treatment, aga-2024-pcab]
 
 ## See Also
 
-[[test-and-treat]], [[bismuth-quadruple-therapy]], [[vonoprazan]], [[peptic-ulcer-disease]], [[dyspepsia]], [[gastric-adenocarcinoma]], [[gastric-premalignant-conditions]], [[atrophic-gastritis]], [[gastric-intestinal-metaplasia]], [[gerd]], [[gastroparesis]], [[upper-endoscopy]]
+[[test-and-treat]], [[bismuth-quadruple-therapy]], [[proton-pump-inhibitors]], [[vonoprazan]], [[peptic-ulcer-disease]], [[dyspepsia]], [[gastric-adenocarcinoma]], [[gastric-premalignant-conditions]], [[atrophic-gastritis]], [[gastric-intestinal-metaplasia]], [[gerd]], [[gastroparesis]], [[upper-endoscopy]]
 
 ---
 

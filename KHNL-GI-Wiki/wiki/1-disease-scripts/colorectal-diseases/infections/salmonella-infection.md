@@ -3,7 +3,7 @@ title: "Salmonella Infection (Non-typhoidal)"
 category: disease-script
 tags: [salmonella, bacterial-gastroenteritis, diarrhea, foodborne, travelers-diarrhea, bacteremia]
 created: 2026-05-19
-updated: 2026-07-16
+updated: 2026-07-25
 sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
 ---
 
@@ -49,13 +49,13 @@ Non-typhoidal *Salmonella* species are a major cause of foodborne diarrheal illn
 - **Treat** severe illness, bacteremia, immunocompromised hosts, and those at risk for endovascular seeding; enteric fever/sepsis → empiric broad-spectrum therapy after cultures, narrowed on susceptibilities.
 - **[[rifaximin|Rifaximin]]: do NOT use** — non-absorbable; ineffective for this invasive pathogen.
 - **Asymptomatic carriers:** generally not treated in low-risk settings, *except* asymptomatic *S.* Typhi carriers (may treat to reduce transmission) and people in high-risk settings (healthcare, child/elderly care, food service) per local public-health guidance.
-- **Postinfectious:** reactive arthritis is a recognized complication.
+- **Postinfectious:** [[reactive-arthritis|reactive arthritis]] is a recognized complication.
 
 ---
 
 ## See Also
 
-[[acute-diarrhea]], [[fever-returning-traveler]], [[campylobacter-infection]], [[shigellosis]], [[enterotoxigenic-e-coli]], [[clostridioides-difficile]], [[rifaximin]]
+[[acute-diarrhea]], [[fever-returning-traveler]], [[campylobacter-infection]], [[shigellosis]], [[enterotoxigenic-e-coli]], [[clostridioides-difficile]], [[rifaximin]], [[reactive-arthritis]]
 
 ---
 

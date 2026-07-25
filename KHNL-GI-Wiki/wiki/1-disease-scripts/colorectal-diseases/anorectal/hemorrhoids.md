@@ -3,7 +3,7 @@ title: "Hemorrhoids"
 category: disease-script
 tags: [hemorrhoids, anorectal, rectal-bleeding, rubber-band-ligation, hemorrhoidectomy, colorectal]
 created: 2026-05-16
-updated: 2026-07-24
+updated: 2026-07-25
 sources: [acg-2021-anorectal-disorders, asge-2010-anorectal-disorders, aga-2026-hemorrhoids]
 ---
 
@@ -45,7 +45,7 @@ The diagnosis of symptomatic internal hemorrhoids requires exclusion of other so
 |-----------|-------------|
 | [[rectal-prolapse\|Rectal prolapse]] (full-thickness) | Circumferential folds (vs. radial folds of hemorrhoids); palpable thickness; can be confused with Grade IV hemorrhoids |
 | [[anal-fissure\|Anal fissure]] | Painful bright red bleeding; fissure visible at anoscopy |
-| [[colorectal-cancer\|Colorectal cancer]] | Change in bowel habits, weight loss, iron deficiency anemia; [[colonoscopy]] required |
+| [[colorectal-cancer\|Colorectal cancer]] | Change in bowel habits, weight loss, [[iron-deficiency-anemia\|iron deficiency anemia]]; [[colonoscopy]] required |
 | [[inflammatory-bowel-disease\|IBD]] (Crohn's proctitis) | Diarrhea, urgency; risk of complicating any anorectal procedure; [[crohns-disease]] |
 | Rectal polyp/cancer | Digital exam + sigmoidoscopy/colonoscopy |
 | Skin tags | Residual from prior thrombosed external hemorrhoids; painless; no treatment unless cosmetic concern |

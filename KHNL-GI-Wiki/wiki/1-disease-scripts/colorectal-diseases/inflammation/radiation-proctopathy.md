@@ -3,7 +3,7 @@ title: "Radiation Proctopathy"
 category: disease-script
 tags: [radiation-proctopathy, radiation-proctitis, rectal-bleeding, hematochezia, argon-plasma-coagulation, pelvic-radiation, telangiectasia]
 created: 2026-06-22
-updated: 2026-07-16
+updated: 2026-07-25
 sources: [asge-2019-radiation-proctopathy]
 ---
 
@@ -59,7 +59,7 @@ sources: [asge-2019-radiation-proctopathy]
 - **Acute proctopathy:** supportive — hydration, antidiarrheals, discontinuation of radiation; usually self-limited.
 - **Chronic proctopathy, bleeding:** medical/supportive therapy is often insufficient → **endoscopic therapy is the mainstay**. No mandate to treat "cosmetic" bleeding (minor bleeding without anemia).
 - **Effective endoscopic modalities (no proven superiority of one):** *(Conditional, low quality)* [[asge-2019-radiation-proctopathy]]
-  - **Argon plasma coagulation (APC)** — most widely used; pooled clinical success ~87%; power 25–80 W (median 50 W), argon flow 0.6–2.5 L/min (median 1.5); 1–3.7 sessions, 3–4 weeks apart. Target individual vessels — avoid "painting" (confluent ulcers); periodically suction argon gas; **adequate bowel prep required** (colonic explosion reported with poor prep). Pooled serious AE rate ~4%.
+  - **[[argon-plasma-coagulation|Argon plasma coagulation (APC)]]** — most widely used; pooled clinical success ~87%; power 25–80 W (median 50 W), argon flow 0.6–2.5 L/min (median 1.5); 1–3.7 sessions, 3–4 weeks apart. Target individual vessels — avoid "painting" (confluent ulcers); periodically suction argon gas; **adequate bowel prep required** (colonic explosion reported with poor prep). Pooled serious AE rate ~4%.
   - **Bipolar electrocoagulation** — pooled clinical success ~88%.
   - **Heater probe**
   - **[[radiofrequency-ablation|Radiofrequency ablation (RFA)]]**
@@ -68,7 +68,7 @@ sources: [asge-2019-radiation-proctopathy]
 
 ## See Also
 
-[[acute-lower-gi-bleeding]], [[ulcerative-colitis]], [[crohns-disease]], [[colon-ischemia]], [[colorectal-cancer]], [[angioectasia]], [[hemorrhoids]], [[colonoscopy]], [[fecal-incontinence]], [[inflammatory-bowel-disease]], [[radiofrequency-ablation]]
+[[acute-lower-gi-bleeding]], [[ulcerative-colitis]], [[crohns-disease]], [[colon-ischemia]], [[colorectal-cancer]], [[angioectasia]], [[hemorrhoids]], [[colonoscopy]], [[fecal-incontinence]], [[inflammatory-bowel-disease]], [[argon-plasma-coagulation]], [[radiofrequency-ablation]]
 
 ---
 

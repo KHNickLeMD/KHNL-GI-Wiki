@@ -3,7 +3,7 @@ title: "Irritable Bowel Syndrome"
 category: disease-script
 tags: [ibs, dgbi, functional, colorectal, motility, rome-iv, rome-v, fodmap, rifaximin, linaclotide, plecanatide, tca]
 created: 2026-05-16
-updated: 2026-07-17
+updated: 2026-07-25
 sources: [acg-2020-ibs, rome-v-2026-dgbi, acg-2020-sibo, aga-2022-ibs-c, aga-2022-ibs-d]
 ---
 
@@ -105,14 +105,14 @@ Subtypes by Bristol Stool Form Scale **on days with abnormal stools** (assess of
 
 - **[[lubiprostone|Lubiprostone]]** 8 µg BID — chloride channel activator (Strong/Moderate)
 - **[[linaclotide|Linaclotide]]** 290 µg daily, **[[plecanatide]]** 3 or 6 mg daily — GC-C agonists (Strong/High)
-- **Tegaserod** 6 mg BID — 5-HT4 agonist; women <65 with ≤1 CV risk factor failing secretagogues (Strong/conditional/Low)
+- **[[tegaserod|Tegaserod]]** 6 mg BID — 5-HT4 agonist; women <65 with ≤1 CV risk factor failing secretagogues (Strong/conditional/Low)
 - **Against** PEG for global IBS-C (helps stool form only)
 
 ### IBS-D
 
 - **[[rifaximin|Rifaximin]]** 550 mg TID × 14 days (Strong/Moderate); up to 2 retreatments allowed for symptom recurrence
-- **Alosetron** — women with severe IBS-D failing standard therapy (Conditional/Low); REMS due to [[colon-ischemia|ischemic colitis]]
-- **Eluxadoline** 100 mg BID (Conditional/Moderate); **contraindicated post-cholecystectomy** (pancreatitis risk)
+- **[[alosetron|Alosetron]]** — women with severe IBS-D failing standard therapy (Conditional/Low); REMS due to [[colon-ischemia|ischemic colitis]]
+- **[[eluxadoline|Eluxadoline]]** 100 mg BID (Conditional/Moderate); **contraindicated post-cholecystectomy** (pancreatitis risk)
 - **Against** bile-acid sequestrants for global IBS-D symptoms (Conditional/VLow)
 
 ### Stepwise Approach
@@ -125,7 +125,7 @@ Subtypes by Bristol Stool Form Scale **on days with abnormal stools** (assess of
 6. Refractory: re-examine diagnosis; ARM+BET; specialty referral; consider neuromodulators
 
 ## See Also
-[[disorders-of-gut-brain-interaction]], [[abdominal-bloating-and-distention]], [[postinfectious-ibs]], [[chronic-idiopathic-constipation]], [[defecation-disorders]], [[small-intestinal-bacterial-overgrowth]], [[celiac-disease]], [[alpha-gal-syndrome]], [[rifaximin]], [[linaclotide]], [[plecanatide]], [[lubiprostone]], [[anorectal-manometry]]
+[[disorders-of-gut-brain-interaction]], [[abdominal-bloating-and-distention]], [[postinfectious-ibs]], [[chronic-idiopathic-constipation]], [[defecation-disorders]], [[small-intestinal-bacterial-overgrowth]], [[celiac-disease]], [[alpha-gal-syndrome]], [[rifaximin]], [[linaclotide]], [[plecanatide]], [[lubiprostone]], [[alosetron]], [[eluxadoline]], [[tegaserod]], [[anorectal-manometry]]
 
 ---
 

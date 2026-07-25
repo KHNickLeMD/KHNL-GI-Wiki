@@ -3,7 +3,7 @@ title: "Upper Endoscopy (EGD)"
 category: general-procedure
 tags: [egd, upper-endoscopy, esophagogastroduodenoscopy, ugib, barrett-esophagus, peptic-ulcer, gpmc, celiac, quality-indicators]
 created: 2026-05-07
-updated: 2026-07-22
+updated: 2026-07-25
 sources: [acg-2025-egd-quality, aga-2024-upper-endoscopy-quality, aga-2024-glp1-endoscopy]
 ---
 
@@ -21,7 +21,7 @@ Supplementary best practice guidance from AGA 2024 Clinical Practice Update. [[a
 - [[dysphagia|Dysphagia]], odynophagia
 - [[gerd|GERD]] symptoms (alarm features or refractory)
 - Upper abdominal symptoms ([[dyspepsia]], nausea/vomiting)
-- [[upper-gi-bleeding|Upper GI bleeding]] (overt or occult/IDA)
+- [[upper-gi-bleeding|Upper GI bleeding]] (overt or occult/[[iron-deficiency-anemia|IDA]])
 - Evaluation for [[gastric-adenocarcinoma|gastric cancer]] / [[gastric-premalignant-conditions|GPMC]] in high-risk patients
 
 **Screening/surveillance:**

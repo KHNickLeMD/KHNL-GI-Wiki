@@ -3,7 +3,7 @@ title: "Achalasia"
 category: disease-script
 tags: [achalasia, esophageal-motility, dysphagia, hrm, poem, heller-myotomy, pneumatic-dilation, foregut]
 created: 2026-05-15
-updated: 2026-07-17
+updated: 2026-07-25
 sources: [acg-2020-achalasia, asge-2020-achalasia, sages-2021-poem]
 ---
 # Achalasia
@@ -43,7 +43,7 @@ All subtypes share **impaired EGJ relaxation**; distinguished by esophageal body
 
 | Subtype | Prevalence | Pattern | Outcomes | Treatment Implication |
 |---------|-----------|---------|----------|----------------------|
-| **Type I** | 20–40% | 100% aperistalsis, **no** panesophageal pressurization | Good (LHM 81%, PD comparable) | PD, LHM, or [[poem\|POEM]] |
+| **Type I** | 20–40% | 100% aperistalsis, **no** panesophageal pressurization | Good ([[heller-myotomy\|LHM]] 81%, PD comparable) | PD, LHM, or [[poem\|POEM]] |
 | **Type II** | 50–70% (most common) | 100% aperistalsis + **panesophageal pressurization >30 mmHg** | Best outcomes of all subtypes | PD, LHM, or [[poem\|POEM]] — any works well |
 | **Type III** | 5% (least common) | **Spastic contractions** ± panesophageal pressurization | Worst with LES-only therapies (LHM 71%, PD 40%) | POEM preferred (93% success); tailored long myotomy |
 

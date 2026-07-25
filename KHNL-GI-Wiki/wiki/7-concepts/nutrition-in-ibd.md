@@ -3,11 +3,11 @@ title: "Diet and Nutritional Therapy in IBD"
 category: concept
 tags: [ibd, crohns, ulcerative-colitis, diet, nutrition, enteral-nutrition, parenteral-nutrition, cded, een, malnutrition, mediterranean-diet, short-bowel-syndrome]
 created: 2026-07-22
-updated: 2026-07-22
+updated: 2026-07-25
 sources: [aga-2024-diet-nutrition-ibd]
 ---
 
-Framework for diet and nutritional therapy across the IBD spectrum — background/maintenance diet, enteral therapies for active [[crohns-disease]], parenteral nutrition for intestinal failure, and malnutrition screening. Home page for the [[aga-2024-diet-nutrition-ibd|AGA 2024 CPU on Diet and Nutritional Therapies in IBD]]; disease scripts link here rather than reproducing this content.
+Framework for diet and nutritional therapy across the [[inflammatory-bowel-disease|IBD]] spectrum — background/maintenance diet, enteral therapies for active [[crohns-disease]], parenteral nutrition for intestinal failure, and malnutrition screening. Home page for the [[aga-2024-diet-nutrition-ibd|AGA 2024 CPU on Diet and Nutritional Therapies in IBD]]; disease scripts link here rather than reproducing this content.
 
 ## Contents
 - [[#Diet by Clinical State]]
@@ -87,7 +87,7 @@ Framework for diet and nutritional therapy across the IBD spectrum — backgroun
 - Also consider zinc, copper, folate (esp. on methotrexate/sulfasalazine), fat-soluble vitamins; many are acute-phase reactants — recheck in quiescent disease.
 
 ## See Also
-[[crohns-disease]], [[ulcerative-colitis]], [[obesity]], [[glp-2-agonists]], [[pouchitis]]
+[[crohns-disease]], [[ulcerative-colitis]], [[inflammatory-bowel-disease]], [[nutrition-in-hospitalized-patients]], [[obesity]], [[glp-2-agonists]], [[pouchitis]]
 
 ---
 

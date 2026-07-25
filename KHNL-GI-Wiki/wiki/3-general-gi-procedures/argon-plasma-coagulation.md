@@ -3,8 +3,8 @@ title: "Argon Plasma Coagulation (APC)"
 category: general-procedure
 tags: [argon-plasma-coagulation, apc, endoscopic-hemostasis, thermal-therapy, gave, angioectasia]
 created: 2026-07-24
-updated: 2026-07-24
-sources: []
+updated: 2026-07-25
+sources: [aga-2024-ida-management]
 ---
 
 *Stub — to be expanded.*
@@ -16,3 +16,9 @@ Common GI uses (from ingested sources): ablation of **gastric antral vascular ec
 ## See Also
 
 [[angioectasia]], [[radiation-proctopathy]], [[acute-lower-gi-bleeding]], [[upper-gi-bleeding]]
+
+---
+
+## Sources
+
+1. [[aga-2024-ida-management|AGA Clinical Practice Update on Management of Iron Deficiency Anemia: Expert Review]]

@@ -3,7 +3,7 @@ title: "Gastric Adenocarcinoma"
 category: disease-script
 tags: [gastric-cancer, gastric-adenocarcinoma, gastric, malignancy, her2, pd-l1, msi-h, dmmr, claudin-18.2, flot, gastrectomy, endoscopic-resection, trastuzumab, zolbetuximab, nccn, oncology]
 created: 2026-06-01
-updated: 2026-07-16
+updated: 2026-07-25
 sources: [nccn-2026-gastric-cancer, asge-2015-gastric-premalignant]
 ---
 
@@ -22,6 +22,8 @@ Histologic (Lauren) types — **intestinal** (gland-forming, associated with the
 Staging combines [[endoscopic-ultrasound|EUS]] (T/N), CT, PET/CT, and **diagnostic laparoscopy with peritoneal cytology** for locally advanced disease to exclude occult peritoneal spread. For advanced/metastatic disease, biomarker testing — **HER2 (ERBB2), PD-L1 CPS, MSI-H/dMMR, and claudin 18.2** — is integral to treatment selection.
 
 ## Differential Diagnosis
+
+*Workup: see [[dyspepsia]].*
 
 [[gastric-premalignant-conditions|Gastric premalignant lesions]]/dysplasia, gastric lymphoma (MALT), [[gastrointestinal-stromal-tumor|GIST]] and other [[subepithelial-lesion|subepithelial lesions]], gastric [[gastroenteropancreatic-neuroendocrine-tumors|neuroendocrine tumors]], [[peptic-ulcer-disease|benign gastric ulcer]] (always biopsy to exclude malignancy), and metastatic disease.
 

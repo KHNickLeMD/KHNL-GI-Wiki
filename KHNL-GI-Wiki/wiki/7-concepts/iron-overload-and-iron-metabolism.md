@@ -3,13 +3,11 @@ title: "Iron Overload and Iron Metabolism"
 category: concept
 tags: [iron, hepcidin, ferroportin, transferrin, ferritin, transferrin-saturation, iron-overload, hemochromatosis]
 created: 2026-05-19
-updated: 2026-07-16
+updated: 2026-07-25
 sources: [acg-2019-hereditary-hemochromatosis]
 ---
 
 # Iron Overload and Iron Metabolism
-
-*Stub — to be expanded.*
 
 ## Key Concepts (from [[acg-2019-hereditary-hemochromatosis]])
 

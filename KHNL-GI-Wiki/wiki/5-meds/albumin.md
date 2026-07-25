@@ -3,16 +3,16 @@ title: "Albumin (IV)"
 category: med
 tags: [albumin, cirrhosis, ascites, sbp, hrs]
 created: 2026-07-23
-updated: 2026-07-23
+updated: 2026-07-25
 sources: [aga-2024-vasoactive-albumin-cirrhosis]
 ---
 
 ## Overview
 
 - IV albumin is a **plasma volume expander** used in [[cirrhosis|cirrhosis]] to expand effective arterial blood volume in the vasodilatory–hyperdynamic circulatory state that drives decompensation.
-- Distinct from vasoconstrictors (terlipressin, octreotide, norepinephrine, midodrine), which lower portal pressure via splanchnic vasoconstriction — albumin works by volume expansion.
+- Distinct from vasoconstrictors (terlipressin, [[somatostatin-analogs|octreotide]], norepinephrine, midodrine), which lower [[portal-hypertension|portal pressure]] via splanchnic vasoconstriction — albumin works by volume expansion.
 - Guidance below is from the **AGA 2024 Clinical Practice Update** (Best Practice Advice, BPA — Expert Review; **no formal evidence/strength ratings**; many statements rest on expert opinion / society guidelines).
-- Core roles: at large-volume paracentesis, in [[spontaneous-bacterial-peritonitis|SBP]], and as the volume expander of choice for AKI in cirrhosis. **Not** for uncomplicated [[ascites]].
+- Core roles: at large-volume paracentesis, in [[spontaneous-bacterial-peritonitis|SBP]], and as the volume expander of choice for [[aki-in-cirrhosis|AKI in cirrhosis]]. **Not** for uncomplicated [[ascites]].
 
 ## Indications & Dosing by Indication
 
@@ -50,7 +50,7 @@ sources: [aga-2024-vasoactive-albumin-cirrhosis]
 
 ## See Also
 
-[[cirrhosis]], [[ascites]], [[spontaneous-bacterial-peritonitis]], [[acute-on-chronic-liver-failure]]
+[[cirrhosis]], [[ascites]], [[spontaneous-bacterial-peritonitis]], [[acute-on-chronic-liver-failure]], [[aki-in-cirrhosis]], [[portal-hypertension]], [[somatostatin-analogs]]
 
 ---
 

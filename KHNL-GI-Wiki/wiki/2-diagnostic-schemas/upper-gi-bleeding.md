@@ -3,7 +3,7 @@ title: "Upper GI Bleeding"
 category: diagnostic-schema
 tags: [ugib, peptic-ulcer, gi-bleeding, endoscopy, forrest, glasgow-blatchford, melena]
 created: 2026-05-15
-updated: 2026-07-16
+updated: 2026-07-25
 sources: [acg-2021-ugib]
 ---
 
@@ -25,7 +25,7 @@ Severe hematochezia with hemodynamic instability may reflect UGIB in approximate
 
 - Hematemesis or coffee-ground emesis
 - BUN:Cr ratio >30 (LR 7.5 for UGIB); BUN >21 mg/dL alone has 93% specificity
-- History of [[peptic-ulcer-disease|peptic ulcer disease]], NSAIDs/anticoagulants, cirrhosis, or known varices
+- History of [[peptic-ulcer-disease|peptic ulcer disease]], NSAIDs/anticoagulants, [[cirrhosis]], or known varices
 - Melena on rectal exam
 
 Features favoring [[acute-lower-gi-bleeding|LGIB]] (against UGIB):

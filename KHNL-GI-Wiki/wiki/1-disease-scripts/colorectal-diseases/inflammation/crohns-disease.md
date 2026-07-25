@@ -3,7 +3,7 @@ title: "Crohn's Disease"
 category: disease-script
 tags: [crohns, ibd, biologics, ileitis, colitis, perianal-fistula, stricture, fistula, anti-tnf]
 created: 2026-05-07
-updated: 2026-07-22
+updated: 2026-07-25
 sources: [acg-2025-crohns, aga-2025-crohns-pharm, aga-2021-crohns-pharm, aga-2023-biomarkers-cd, acg-2018-crohns, asge-2015-scenic-ibd-dysplasia, asge-2015-ibd, aga-2026-inpatient-ibd, aga-2026-therapeutic-endoscopy-ibd, aga-2024-intestinal-ultrasound, aga-2024-diet-nutrition-ibd]
 ---
 
@@ -100,8 +100,8 @@ No single pathognomonic test. Diagnosis = integration of:
 ### Endoscopy
 
 - **Ileocolonoscopy with biopsies (required):** intubate TI; biopsy involved and uninvolved mucosa; photograph ileum
-- SES-CD for objective scoring: 0–2 = remission; 3–6 mild; 7–15 moderate; >15 severe
-- Rutgeerts score for postoperative assessment at neoterminal ileum
+- [[ibd-endoscopic-scoring|SES-CD]] for objective scoring: 0–2 = remission; 3–6 mild; 7–15 moderate; >15 severe
+- [[ibd-endoscopic-scoring|Rutgeerts score]] for postoperative assessment at neoterminal ileum
 - **[[upper-endoscopy|Upper endoscopy]]:** if upper GI symptoms
 - **[[capsule-endoscopy|Capsule endoscopy]]:** for suspected isolated SB disease; high sensitivity for mucosal lesions; negative NPV 96%; **must get patency capsule/SB imaging first if obstructive symptoms or known stricture**
 
@@ -361,7 +361,7 @@ No single pathognomonic test. Diagnosis = integration of:
 
 ## See Also
 
-[[ulcerative-colitis]], [[inflammatory-bowel-disease]], [[uc-vs-crohns-comparison]], [[ibd-preventive-care]], [[intestinal-ultrasound]], [[clostridioides-difficile]], [[celiac-disease]], [[colorectal-cancer]], [[primary-sclerosing-cholangitis]], [[capsule-endoscopy]], [[colonoscopy]], [[chronic-diarrhea]], [[nutrition-in-ibd]]
+[[ulcerative-colitis]], [[inflammatory-bowel-disease]], [[uc-vs-crohns-comparison]], [[ibd-preventive-care]], [[ibd-endoscopic-scoring]], [[intestinal-ultrasound]], [[clostridioides-difficile]], [[celiac-disease]], [[colorectal-cancer]], [[primary-sclerosing-cholangitis]], [[capsule-endoscopy]], [[colonoscopy]], [[chronic-diarrhea]], [[nutrition-in-ibd]]
 
 ---
 

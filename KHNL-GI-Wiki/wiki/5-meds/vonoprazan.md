@@ -3,13 +3,13 @@ title: "Vonoprazan (PCAB)"
 category: med
 tags: [vonoprazan, pcab, h-pylori, acid-suppression, voquezna, potassium-competitive]
 created: 2026-05-16
-updated: 2026-07-23
+updated: 2026-07-25
 sources: [acg-2024-hp-treatment, aga-2024-pcab]
 ---
 
 # Vonoprazan (PCAB)
 
-Potassium-competitive acid blocker ([[potassium-competitive-acid-blockers|P-CAB]]) — the only agent of the class available in the US. Blocks the gastric H+/K+-ATPase competitively at the potassium-binding site. More potent and faster-acting acid suppression than PPIs; not dependent on meal timing or CYP2C19 metabolism. For class-level indications and the AGA 2024 Best Practice Advice on when to use a P-CAB, see [[potassium-competitive-acid-blockers]].
+Potassium-competitive acid blocker ([[potassium-competitive-acid-blockers|P-CAB]]) — the only agent of the class available in the US. Blocks the gastric H+/K+-ATPase competitively at the potassium-binding site. More potent and faster-acting acid suppression than [[proton-pump-inhibitors|PPIs]]; not dependent on meal timing or CYP2C19 metabolism. For class-level indications and the AGA 2024 Best Practice Advice on when to use a P-CAB, see [[potassium-competitive-acid-blockers]].
 
 **Brand name:** Voquezna (FDA-approved 2022 for [[helicobacter-pylori-infection|H. pylori]] eradication)
 
@@ -66,7 +66,7 @@ Potassium-competitive acid blocker ([[potassium-competitive-acid-blockers|P-CAB]
 
 ## See Also
 
-[[potassium-competitive-acid-blockers]], [[helicobacter-pylori-infection]], [[bismuth-quadruple-therapy]], [[peptic-ulcer-disease]], [[gerd]], [[test-and-treat]], [[clostridioides-difficile]]
+[[potassium-competitive-acid-blockers]], [[proton-pump-inhibitors]], [[helicobacter-pylori-infection]], [[bismuth-quadruple-therapy]], [[peptic-ulcer-disease]], [[gerd]], [[test-and-treat]], [[clostridioides-difficile]]
 
 ---
 

@@ -3,7 +3,7 @@ title: "Ascites"
 category: diagnostic-schema
 tags: [ascites, cirrhosis, saag, paracentesis, diuretics, tips]
 created: 2026-05-15
-updated: 2026-07-23
+updated: 2026-07-25
 sources: [aasld-2021-ascites-sbp-hrs, aga-2025-ascites-cirrhosis, aga-2024-vasoactive-albumin-cirrhosis]
 ---
 
@@ -138,7 +138,7 @@ SAAG = serum albumin − ascitic fluid albumin (simultaneous samples)
 ### Large-Volume Paracentesis (LVP) — Grade 3 and Refractory Ascites
 
 - Defined as drainage >5 L per session
-- **Albumin replacement mandatory when >5 L drained:** 6–8 g albumin per liter of ascites removed
+- **[[albumin|Albumin]] replacement mandatory when >5 L drained:** 6–8 g albumin per liter of ascites removed
   - After 5 L: ~40 g albumin
   - After 8 L: ~64 g albumin
 - Limit to <8 L per session if possible (risk of PPCD increases above 8 L)
@@ -227,7 +227,7 @@ SAAG = serum albumin − ascitic fluid albumin (simultaneous samples)
 
 ## See Also
 
-[[cirrhosis]], [[tips]], [[spontaneous-bacterial-peritonitis]], [[aki-in-cirrhosis]], [[portal-hypertension]], [[hepatic-encephalopathy]], [[liver-transplantation]], [[alcohol-associated-liver-disease]], [[nutrition-in-liver-disease]], [[noninvasive-liver-disease-assessment]]
+[[cirrhosis]], [[tips]], [[spontaneous-bacterial-peritonitis]], [[aki-in-cirrhosis]], [[portal-hypertension]], [[hepatic-encephalopathy]], [[liver-transplantation]], [[alcohol-associated-liver-disease]], [[nutrition-in-liver-disease]], [[noninvasive-liver-disease-assessment]], [[albumin]]
 
 ---
 

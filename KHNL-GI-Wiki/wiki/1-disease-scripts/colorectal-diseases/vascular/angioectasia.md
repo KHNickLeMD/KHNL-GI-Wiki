@@ -3,7 +3,7 @@ title: "Angioectasia (Angiodysplasia)"
 category: disease-script
 tags: [angioectasia, angiodysplasia, small-bowel, gi-bleeding, vascular-lesion, heydes-syndrome, lvad]
 created: 2026-05-19
-updated: 2026-07-17
+updated: 2026-07-25
 sources: [acg-2015-small-bowel-bleeding]
 ---
 
@@ -31,13 +31,13 @@ Angioectasia (also called angiodysplasia) are acquired vascular ectasias of the 
 
 **Treatment:**
 
-- Endoscopic: argon plasma coagulation (APC) via deep enteroscopy; rebleeding rate 20–50% at medium-term follow-up.
+- Endoscopic: [[argon-plasma-coagulation|argon plasma coagulation (APC)]] via deep enteroscopy; rebleeding rate 20–50% at medium-term follow-up.
 - Medical: [[somatostatin-analogs|somatostatin analogs]] (octreotide) — reduces transfusion requirements; thalidomide (antiangiogenic) — RCT-proven benefit but significant adverse effects; hormonal therapy — NOT effective (RCT negative).
 - [[heydes-syndrome|Heyde's syndrome]]: aortic valve replacement may resolve bleeding (reduced rebleeding risk per meta-analysis, pooled event rate 0.16 [95% CI: 0.05–0.38]).
 
 ## See Also
 
-[[small-bowel-bleeding]], [[heydes-syndrome]], [[hereditary-hemorrhagic-telangiectasia]], [[upper-gi-bleeding]], [[acute-lower-gi-bleeding]], [[iron-deficiency-anemia]], [[capsule-endoscopy]], [[device-assisted-enteroscopy]], [[somatostatin-analogs]]
+[[small-bowel-bleeding]], [[heydes-syndrome]], [[hereditary-hemorrhagic-telangiectasia]], [[upper-gi-bleeding]], [[acute-lower-gi-bleeding]], [[iron-deficiency-anemia]], [[capsule-endoscopy]], [[device-assisted-enteroscopy]], [[argon-plasma-coagulation]], [[somatostatin-analogs]]
 
 ---
 

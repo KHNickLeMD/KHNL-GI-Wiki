@@ -3,7 +3,7 @@ title: "Distal Esophageal Spasm"
 category: disease-script
 tags: [des, spasm, esophageal, motility, dysphagia, chest-pain, chicago-classification]
 created: 2026-05-16
-updated: 2026-07-17
+updated: 2026-07-25
 sources: [chicago-v4-2021-esophageal-dysmotility, aga-2025-flip-esophageal, acg-2020-achalasia]
 ---
 
@@ -15,7 +15,7 @@ sources: [chicago-v4-2021-esophageal-dysmotility, aga-2025-flip-esophageal, acg-
 
 Distal esophageal spasm (DES) is defined by **Chicago Classification v4.0** criteria on [[high-resolution-manometry]]:
 
-- ≥20% premature (spastic) contractions with DCI >450 mmHg·s·cm
+- ≥20% premature (spastic) contractions with DCI >450 mmHg·s·cm — **premature = distal latency (DL) <4.5 s** (the operative criterion; see [[chicago-classification-v4]])
 - IRP normal (unlike [[achalasia]], where IRP is elevated)
 
 **Distinguishes DES from [[hypercontractile-esophagus|hypercontractile esophagus]]:** DES is premature/disordered contraction; hypercontractile esophagus is high-amplitude contraction (DCI >8,000 mmHg·s·cm).

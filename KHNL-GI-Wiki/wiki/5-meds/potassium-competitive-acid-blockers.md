@@ -3,7 +3,7 @@ title: "Potassium-Competitive Acid Blockers (P-CABs)"
 category: med
 tags: [pcab, vonoprazan, tegoprazan, acid-suppression, ppi, gerd, h-pylori, peptic-ulcer-disease]
 created: 2026-07-21
-updated: 2026-07-21
+updated: 2026-07-25
 sources: [aga-2024-pcab, acg-2024-hp-treatment]
 ---
 
@@ -32,7 +32,7 @@ Drug **class** of gastric acid suppressants that block the H⁺/K⁺-ATPase **co
 | CYP2C19 variability | Minimal | Significant |
 | Duration | Longer | Shorter |
 
-- Acid inhibition is **as potent or more potent than PPIs**, varying by agent/dose; at some studied doses (e.g. vonoprazan 20 mg, tegoprazan 50–100 mg) inhibition approximates standard PPI doses rather than exceeding them ([[aga-2024-pcab]]).
+- Acid inhibition is **as potent or more potent than [[proton-pump-inhibitors|PPIs]]**, varying by agent/dose; at some studied doses (e.g. vonoprazan 20 mg, tegoprazan 50–100 mg) inhibition approximates standard PPI doses rather than exceeding them ([[aga-2024-pcab]]).
 
 ---
 

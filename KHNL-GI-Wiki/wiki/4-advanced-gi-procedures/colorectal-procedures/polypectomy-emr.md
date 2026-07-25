@@ -3,7 +3,7 @@ title: "Polypectomy and EMR (Colorectal)"
 category: advanced-procedure
 tags: [polypectomy, emr, esd, cold-snare, colonoscopy, colorectal, advanced-polypectomy, malignant-polyp, submucosal-invasion, haggitt, kikuchi, tumor-budding, lymphovascular-invasion]
 created: 2026-05-07
-updated: 2026-07-16
+updated: 2026-07-25
 sources: [usmstf-2020-endoscopic-removal, asge-2020-endoscopic-removal, usmstf-2020-malignant-colorectal-polyps, usmstf-2020-followup-colonoscopy, aga-2025-lifting-agents, aga-2025-endoscopic-resection-crc]
 ---
 
@@ -314,7 +314,7 @@ After endoscopic resection reveals a malignant polyp, histologic features determ
 
 - Suspected T1 CRC should ideally be removed **en bloc** (USMSTF/ESGE/JGES). Piecemeal resection impairs histologic assessment and is itself an **independent risk factor for luminal recurrence**; NCCN states piecemeal-removed T1 inevitably requires adjuvant surgery.
 - **[[endoscopic-submucosal-dissection|ESD]] is often preferred** for suspected superficially invasive T1 CRC — higher en-bloc rate than EMR irrespective of size. Limited by complexity, learning curve, and inability to confidently resect deep SMI; may not be widely available in the community.
-- **eFTR** is a reasonable alternative for select T1 CRC **<2 cm** where deep SMI is suspected.
+- **[[endoscopic-full-thickness-resection|eFTR]]** is a reasonable alternative for select T1 CRC **<2 cm** where deep SMI is suspected.
 - Where optical diagnosis is unclear or CRC is highly suspected, refer to a high-volume center with resection and pathology expertise. Real-world optical-diagnosis sensitivity for T1 CRC is often only 40%–50%.
 
 ### Unified Curative-Resection Criteria (USMSTF / ESGE / JGES) — ALL five required
@@ -383,7 +383,7 @@ After endoscopic resection reveals a malignant polyp, histologic features determ
 
 ## See Also
 
-[[colonoscopy]], [[colonoscopy-surveillance]], [[colorectal-cancer]], [[colorectal-cancer-screening]], [[endoscopic-submucosal-dissection]], [[endoscopic-ultrasound]], [[lynch-syndrome]], [[poem]]
+[[colonoscopy]], [[colonoscopy-surveillance]], [[colorectal-cancer]], [[colorectal-cancer-screening]], [[endoscopic-submucosal-dissection]], [[endoscopic-full-thickness-resection]], [[endoscopic-ultrasound]], [[lynch-syndrome]], [[poem]]
 
 ---
 

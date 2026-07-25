@@ -3,7 +3,7 @@ title: "MUTYH-Associated Polyposis"
 category: disease-script
 tags: [map, mutyh, polyposis, hereditary-crc, colorectal-cancer, recessive-polyposis, afap]
 created: 2026-05-19
-updated: 2026-07-16
+updated: 2026-07-25
 sources: [acg-2015-hereditary-gi-cancer]
 ---
 
@@ -21,6 +21,16 @@ sources: [acg-2015-hereditary-gi-cancer]
 
 - [[colorectal-cancer|CRC]] present in ~60% at diagnosis; average age 48–50
 - 5-year survival after CRC in MAP 78% vs. 63% in matched sporadic CRC controls
+
+---
+
+## Differential Diagnosis
+
+*MAP is managed like attenuated [[familial-adenomatous-polyposis|FAP]]; see that page for full ADDT content.*
+
+- **Classic FAP / attenuated FAP (AFAP)** — APC germline mutation; autosomal **dominant** (vs MAP's autosomal recessive inheritance); overlapping 20–99 adenoma phenotype in AFAP
+- **[[lynch-syndrome]]** — MMR gene mutations; typically fewer polyps; MSI-high tumors
+- **[[serrated-polyposis-syndrome]]** — predominantly serrated/hyperplastic polyps; MUTYH biallelic mutations reported in a subset
 
 ---
 

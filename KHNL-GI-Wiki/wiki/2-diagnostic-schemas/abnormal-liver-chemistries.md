@@ -3,7 +3,7 @@ title: "Abnormal Liver Chemistries"
 category: diagnostic-schema
 tags: [liver-chemistries, liver-tests, alt, ast, alkaline-phosphatase, bilirubin, hepatocellular, cholestatic, r-value, hpb, liver, workup]
 created: 2026-05-19
-updated: 2026-07-16
+updated: 2026-07-25
 sources: [acg-2017-liver-chemistries, acg-2016-liver-disease-pregnancy]
 ---
 
@@ -61,7 +61,7 @@ Laboratory ULN values for ALT are unreliable — they are set from populations t
 
 **Hepatic causes (generally AST>ALT):**
 
-- Alcoholic liver disease, cirrhosis (any etiology), ischemic hepatitis, congestive hepatopathy, acute [[budd-chiari-syndrome|Budd-Chiari syndrome]], TPN
+- Alcoholic liver disease, [[cirrhosis]] (any etiology), ischemic hepatitis, congestive hepatopathy, acute [[budd-chiari-syndrome|Budd-Chiari syndrome]], TPN
 
 **Hepatic causes (generally ALT>AST):**
 

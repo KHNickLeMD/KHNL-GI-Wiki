@@ -3,7 +3,7 @@ title: "Enteral Access"
 category: general-procedure
 tags: [enteral-nutrition, peg, peg-j, nutrition, nasoenteric, dpej, buried-bumper]
 created: 2026-07-23
-updated: 2026-07-23
+updated: 2026-07-25
 sources: [aga-2025-endoscopic-enteral-access]
 ---
 
@@ -47,7 +47,7 @@ sources: [aga-2025-endoscopic-enteral-access]
 | Upper GI obstruction / motility disorder | Head & neck cancer; head/maxillofacial/mandibular/dental/neck trauma; radiation stomatitis; [[esophageal-cancer]]; esophageal stricture; esophageal dysmotility; chronic intestinal pseudo-obstruction; [[gastroparesis]]; superior mesenteric artery syndrome |
 | Altered intestinal anatomy | Bariatric or foregut surgery with impaired intake |
 | Psychiatric | Anorexia nervosa |
-| Increased metabolic requirements | Critical illness, cancer, burn/trauma, cystic fibrosis / chronic lung disease, IBD, liver disease, pancreatitis, renal disease |
+| Increased metabolic requirements | Critical illness, cancer, burn/trauma, cystic fibrosis / chronic lung disease, [[inflammatory-bowel-disease\|IBD]], liver disease, pancreatitis, renal disease |
 | Increased intestinal losses | Short bowel syndrome |
 
 **Severe dementia — special caution:**
@@ -115,11 +115,11 @@ sources: [aga-2025-endoscopic-enteral-access]
 ## Preprocedural Considerations
 
 - **Consent:** patient (with capacity) or legally authorized representative; delineate risks, expected benefits, outcomes.
-- **Antibiotic prophylaxis:** preprocedural antibiotics significantly reduce peristomal infection.
+- **[[antibiotic-prophylaxis-endoscopy|Antibiotic prophylaxis]]:** preprocedural antibiotics significantly reduce peristomal infection.
   - **Single dose of a first-generation cephalosporin immediately before** percutaneous access.
   - Not required if already on systemic antibiotics.
   - Cephalosporin allergy → **clindamycin or vancomycin**.
-- **Antithrombotics:**
+- **[[anticoagulation-gi-bleeding|Antithrombotics]]:**
   - Increasing data support PEG placement **without interruption of dual-antiplatelet therapy** (no significant increase in bleeding).
   - If antithrombotics held, resume ASAP considering indication, in consultation with initiating service.
 - **Laboratory thresholds:** platelets **>50,000/mL**; INR **<1.5**.

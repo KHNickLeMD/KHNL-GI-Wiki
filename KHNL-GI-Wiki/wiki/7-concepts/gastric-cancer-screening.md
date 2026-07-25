@@ -3,13 +3,13 @@ title: "Gastric Cancer Screening"
 category: concept
 tags: [gastric-cancer, gastric-cancer-screening, surveillance, gastric-intestinal-metaplasia, atrophic-gastritis, h-pylori, screening, egd, foregut, gastric]
 created: 2026-07-21
-updated: 2026-07-21
+updated: 2026-07-25
 sources: [aga-2025-gastric-cancer-screening]
 ---
 
 ## Overview
 
-Screening and surveillance framework for **noncardia intestinal-type gastric cancer (GC)** in individuals at increased risk in the United States, per the [[aga-2025-gastric-cancer-screening|AGA 2025 CPU]]. There are **no established US GC screening guidelines**; guidance is expert opinion built on largely indirect (East Asian) evidence. **Cardia GC and hereditary diffuse gastric cancer are out of scope.**
+Screening and surveillance framework for **noncardia intestinal-type [[gastric-adenocarcinoma|gastric cancer]] (GC)** in individuals at increased risk in the United States, per the [[aga-2025-gastric-cancer-screening|AGA 2025 CPU]]. There are **no established US GC screening guidelines**; guidance is expert opinion built on largely indirect (East Asian) evidence. **Cardia GC and hereditary diffuse gastric cancer are out of scope.**
 
 Two-pronged prevention:
 
@@ -30,7 +30,7 @@ Per [[aga-2025-gastric-cancer-screening]], no universal screening — a **person
 - **Chronic H. pylori infection AND ≥1 of:** >20 pack-year tobacco use; chronic high-salt / red-processed-meat diet; living under persistent US poverty (≥20% of residents below federal poverty level over a 4-decade period)
 - **Hereditary GI polyposis / cancer syndromes** — FAP, Peutz-Jeghers, juvenile polyposis, MUTYH-associated polyposis, gastric adenocarcinoma and proximal polyposis of the stomach (GAPPS); Lynch, hereditary breast/ovarian cancer, Li-Fraumeni
 
-**Age of initiation:** ~**45 years** proposed (aligns with average-risk CRC screening → EGD at time of screening colonoscopy; mirrors high-risk-country eligibility: South Korea ≥40, Japan 40–50). Optimal age not evidence-established. Individualize earlier for hereditary syndromes and first-degree family history.
+**Age of initiation:** ~**45 years** proposed (aligns with average-risk [[colorectal-cancer-screening|CRC screening]] → [[upper-endoscopy|EGD]] at time of screening [[colonoscopy]]; mirrors high-risk-country eligibility: South Korea ≥40, Japan 40–50). Optimal age not evidence-established. Individualize earlier for hereditary syndromes and first-degree family history.
 
 **Fitness gate:** Only individuals **fit for endoscopic or potentially surgical treatment** should be screened/surveilled; stop once no longer fit.
 

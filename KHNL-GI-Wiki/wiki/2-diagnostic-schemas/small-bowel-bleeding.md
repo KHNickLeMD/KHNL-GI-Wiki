@@ -3,7 +3,7 @@ title: "Small Bowel Bleeding"
 category: diagnostic-schema
 tags: [small-bowel, gi-bleeding, obscure-gi-bleeding, mid-gi-bleeding, capsule-endoscopy, deep-enteroscopy, angioectasia, vce, dbe, iron-deficiency-anemia]
 created: 2026-05-19
-updated: 2026-07-16
+updated: 2026-07-25
 sources: [acg-2015-small-bowel-bleeding, aga-2020-ida, asge-2017-small-bowel-bleeding]
 ---
 
@@ -18,7 +18,7 @@ This guideline replaces the older term **"obscure GI bleeding (OGIB)"** with ana
 | **Potential small bowel bleeding** | Normal upper and lower endoscopy; small bowel evaluation not yet performed |
 | **Small bowel bleeding** | Source confirmed distal to ampulla of Vater or proximal to ileocecal valve |
 | **Overt SBB** | Melena or hematochezia with a confirmed small bowel source |
-| **Occult SBB** | Iron-deficiency anemia ± guaiac-positive stools with confirmed small bowel source |
+| **Occult SBB** | [[iron-deficiency-anemia|Iron-deficiency anemia]] ± guaiac-positive stools with confirmed small bowel source |
 | **Obscure GI bleeding (OGIB)** | No source found after comprehensive evaluation including upper/lower scope, VCE/enteroscopy, and radiography |
 
 **Relationship to upper and lower GI bleeding:**
@@ -247,7 +247,7 @@ If bleeding persists or recurs and lesion cannot be localized: *(Strong/Moderate
 
 ## See Also
 
-[[upper-gi-bleeding]], [[acute-lower-gi-bleeding]], [[crohns-disease]], [[inflammatory-bowel-disease]], [[angioectasia]], [[meckels-diverticulum]], [[familial-adenomatous-polyposis]], [[peutz-jeghers-syndrome]], [[heydes-syndrome]], [[hereditary-hemorrhagic-telangiectasia]], [[subepithelial-lesion]], [[celiac-disease]], [[capsule-endoscopy]], [[device-assisted-enteroscopy]], [[upper-endoscopy]], [[colonoscopy]], [[peptic-ulcer-disease]], [[somatostatin-analogs]], [[anticoagulation-gi-bleeding]]
+[[upper-gi-bleeding]], [[acute-lower-gi-bleeding]], [[crohns-disease]], [[inflammatory-bowel-disease]], [[angioectasia]], [[meckels-diverticulum]], [[familial-adenomatous-polyposis]], [[peutz-jeghers-syndrome]], [[heydes-syndrome]], [[hereditary-hemorrhagic-telangiectasia]], [[subepithelial-lesion]], [[celiac-disease]], [[capsule-endoscopy]], [[device-assisted-enteroscopy]], [[upper-endoscopy]], [[colonoscopy]], [[peptic-ulcer-disease]], [[somatostatin-analogs]], [[anticoagulation-gi-bleeding]], [[iron-deficiency-anemia]]
 
 ---
 

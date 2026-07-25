@@ -13,7 +13,7 @@ tags:
   - surveillance
   - autoimmune-gastritis
 created: 2026-05-07
-updated: 2026-07-16
+updated: 2026-07-25
 sources:
   - acg-2025-gastric-premalignant
 ---
@@ -71,6 +71,8 @@ Gastric adenocarcinoma
 ---
 
 ## Differential Diagnosis
+
+*Workup: see [[dyspepsia]].*
 
 | Condition | Distinguishing features |
 |---|---|

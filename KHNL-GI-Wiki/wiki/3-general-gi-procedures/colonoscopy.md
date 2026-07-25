@@ -3,7 +3,7 @@ title: "Colonoscopy"
 category: general-procedure
 tags: [colonoscopy, crc-screening, polypectomy, surveillance, adenoma, serrated-polyp, colorectal, bowel-prep, split-dose, post-resection, crc-surveillance, metachronous]
 created: 2026-05-07
-updated: 2026-07-22
+updated: 2026-07-25
 sources: [usmstf-2020-followup-colonoscopy, usmstf-2021-crc-screening-age, usmstf-2020-endoscopic-removal, usmstf-2025-bowel-prep, acg-2025-bowel-prep, acg-2014-bowel-cleansing, asge-2015-bowel-preparation, usmstf-2015-crc-surveillance, aga-2025-cade-colonoscopy, asge-2015-scenic-ibd-dysplasia, aga-2024-glp1-endoscopy]
 ---
 
@@ -16,7 +16,7 @@ sources: [usmstf-2020-followup-colonoscopy, usmstf-2021-crc-screening-age, usmst
 - [[colorectal-cancer-screening|CRC screening]] (average risk: start at 45–50)
 - Positive non-colonoscopy screening test (FIT, Cologuard, FOBT, flexible sig)
 - Surveillance after prior polypectomy or [[colorectal-cancer|CRC]] resection
-- Workup of symptoms (rectal bleeding, IDA, change in bowel habits, weight loss)
+- Workup of symptoms (rectal bleeding, [[iron-deficiency-anemia|IDA]], change in bowel habits, weight loss)
 - [[inflammatory-bowel-disease|IBD]] surveillance — perform with high-definition + dye-spray chromoendoscopy per [[asge-2015-scenic-ibd-dysplasia|SCENIC]]; describe lesions as visible (polypoid/nonpolypoid) vs invisible dysplasia
 
 ---
