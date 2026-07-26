@@ -3,8 +3,8 @@ title: "Chronic Hepatitis B"
 category: disease-script
 tags: [hepatitis-b, HBV, antiviral, nucleoside-analogues, HCC-surveillance, immune-tolerant, indeterminate, functional-cure, pregnancy, co-infection]
 created: 2026-05-15
-updated: 2026-07-17
-sources: [aasld-idsa-2025-chb-treatment, acg-2016-liver-disease-pregnancy, aga-2025-hbv-reactivation]
+updated: 2026-07-26
+sources: [aasld-idsa-2025-chb-treatment, acg-2016-liver-disease-pregnancy, aga-2025-hbv-reactivation, aga-2024-pregnancy-gi-liver]
 ---
 
 ## Assessment
@@ -188,6 +188,15 @@ Switch options: ETV → TDF or TAF; TDF → TAF or ETV; TAF → ETV.
 - **Breastfeeding is permitted** in HBV-infected mothers on appropriate immunoprophylaxis (Rec 25 — strong, very low evidence); avoid if cracked/bleeding nipples; nucleos(t)ides excreted in breast milk at low levels
 - See [[liver-disease-in-pregnancy]] for complete pregnancy context
 
+**AGA 2024 CPU pregnancy guidance** [[aga-2024-pregnancy-gi-liver]] (BPA 12):
+
+- Order serum HBV DNA + liver biochemistries; assess for antiviral treatment **independent of pregnancy** per standard guidelines
+- Untreated + serum HBV DNA **>200,000 IU/mL in the third trimester** → treat with **tenofovir disoproxil fumarate** (start in 3rd trimester); continue until childbirth or up to **12 weeks postpartum**
+- TDF preferred; **growing data support TAF as an alternative**
+- Newborn: HBIG + HBV vaccine at birth to reduce MTCT
+- **Breastfeeding not contraindicated** (on or off antiviral therapy)
+- Risk of **postpartum HBV flare** — continue monitoring after pregnancy
+
 ### HCC Surveillance
 
 Ultrasound + AFP every 6 months. Indication thresholds:
@@ -222,3 +231,4 @@ Goal: HBV DNA <lower limit of quantification. HBV not transmitted by casual cont
 1. [[aasld-idsa-2025-chb-treatment|AASLD/IDSA 2025 Practice Guideline on Treatment of Chronic Hepatitis B]]
 2. [[acg-2016-liver-disease-pregnancy|ACG Clinical Guideline: Liver Disease and Pregnancy (2016)]]
 3. [[aga-2025-hbv-reactivation|AGA Clinical Practice Guideline: Prevention and Treatment of HBV Reactivation (2025)]]
+4. [[aga-2024-pregnancy-gi-liver|AGA Clinical Practice Update on Pregnancy-Related Gastrointestinal and Liver Disease: Expert Review]]

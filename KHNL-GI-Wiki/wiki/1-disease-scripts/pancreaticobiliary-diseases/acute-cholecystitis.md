@@ -3,8 +3,8 @@ title: "Acute Cholecystitis"
 category: disease-script
 tags: [acute-cholecystitis, gallbladder, cholecystectomy, eus-gbd, percutaneous-cholecystostomy, transpapillary-drainage, lams, high-surgical-risk]
 created: 2026-07-23
-updated: 2026-07-23
-sources: [aga-2023-eus-gallbladder-drainage, asge-2024-therapeutic-eus-biliary]
+updated: 2026-07-26
+sources: [aga-2023-eus-gallbladder-drainage, asge-2024-therapeutic-eus-biliary, aga-2024-pregnancy-gi-liver]
 ---
 
 # Acute Cholecystitis
@@ -21,6 +21,7 @@ sources: [aga-2023-eus-gallbladder-drainage, asge-2024-therapeutic-eus-biliary]
   - [[#Gallbladder drainage in high-surgical-risk patients]]
   - [[#Choosing the drainage route]]
   - [[#Follow-up after EUS-GBD]]
+  - [[#Cholecystectomy in Pregnancy]]
 
 *Current ingested coverage is the gallbladder-drainage decision in high-surgical-risk patients ([[aga-2023-eus-gallbladder-drainage]], [[asge-2024-therapeutic-eus-biliary]]). Diagnosis and severity criteria are not yet sourced — see flags below.*
 
@@ -92,11 +93,20 @@ Three routes ([[aga-2023-eus-gallbladder-drainage]]):
 
 - Either per-oral cholecystoscopy at **4–6 weeks** (stone clearance + exchange LAMS for double-pigtail plastic stents) or leave the LAMS permanently in very-high-risk patients — details on [[eus-guided-gallbladder-drainage]].
 
+### Cholecystectomy in Pregnancy
+
+*Full pregnancy-GI context: [[liver-disease-in-pregnancy]].*
+
+- **Cholecystectomy is safe during pregnancy; laparoscopic approach is the standard of care regardless of trimester, ideally the 2nd trimester.** ([[aga-2024-pregnancy-gi-liver]] BPA 9)
+- Gallstone disease is the 2nd leading cause (after appendicitis) of nonobstetric acute abdominal pain in pregnancy. **Laparoscopic cholecystectomy is superior to conservative management** for symptomatic cholelithiasis (conservative → recurrent biliary symptoms in ~60%). SAGES: **laparoscopy safe in any trimester**; after the 1st trimester use left-lateral/partial-left-lateral decubitus.
+- Initial management: IV hydration, analgesia, antiemetics, antibiotics. **Same-admission cholecystectomy** in acute biliary pancreatitis reduces early readmission by **85%**.
+- If hemodynamically unstable or high surgical risk: **[[eus-guided-gallbladder-drainage|percutaneous cholecystostomy]] or gallbladder aspiration as a bridge** (1st→2nd trimester, or 3rd trimester→postpartum) until cholecystectomy can be performed. Late-3rd-trimester biliary pain may be managed by postponing surgery to postpartum if no maternal/fetal risk. ([[aga-2024-pregnancy-gi-liver]])
+
 ---
 
 ## See Also
 
-[[eus-guided-gallbladder-drainage]], [[endoscopic-ultrasound]], [[ercp]], [[choledocholithiasis]], [[gallbladder-cancer]], [[biliary-stricture]], [[ascites]]
+[[eus-guided-gallbladder-drainage]], [[endoscopic-ultrasound]], [[ercp]], [[choledocholithiasis]], [[gallbladder-cancer]], [[biliary-stricture]], [[ascites]], [[acute-pancreatitis]], [[liver-disease-in-pregnancy]]
 
 ---
 
@@ -104,3 +114,4 @@ Three routes ([[aga-2023-eus-gallbladder-drainage]]):
 
 1. [[aga-2023-eus-gallbladder-drainage|AGA 2023 Clinical Practice Update on Role of EUS-Guided Gallbladder Drainage in Acute Cholecystitis]]
 2. [[asge-2024-therapeutic-eus-biliary|ASGE Guideline: Role of Therapeutic EUS in Biliary Tract Disorders (2024)]]
+3. [[aga-2024-pregnancy-gi-liver|AGA Clinical Practice Update on Pregnancy-Related Gastrointestinal and Liver Disease: Expert Review]]

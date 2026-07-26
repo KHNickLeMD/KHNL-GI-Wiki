@@ -29,7 +29,7 @@ Enterotoxigenic *E. coli* (ETEC) is the most common cause of traveler's diarrhea
 *Workup: see [[acute-diarrhea]].*
 
 - Other traveler's-diarrhea pathogens — [[campylobacter-infection]], [[salmonella-infection]], [[shigellosis]]
-- **Enterohemorrhagic *E. coli* (STEC/EHEC)** — bloody diarrhea + [[hemolytic-uremic-syndrome|HUS]]; do **NOT** treat with antibiotics (distinct from ETEC)
+- **Enterohemorrhagic *E. coli* (STEC/EHEC)** — bloody diarrhea + hemolytic uremic syndrome (HUS); do **NOT** treat with antibiotics (distinct from ETEC)
 - Noninfectious causes of watery diarrhea
 
 ---
@@ -51,7 +51,7 @@ Enterotoxigenic *E. coli* (ETEC) is the most common cause of traveler's diarrhea
 
 ## See Also
 
-[[acute-diarrhea]], [[rifaximin]], [[shigellosis]], [[campylobacter-infection]], [[salmonella-infection]], [[hemolytic-uremic-syndrome]]
+[[acute-diarrhea]], [[rifaximin]], [[shigellosis]], [[campylobacter-infection]], [[salmonella-infection]]
 
 ---
 

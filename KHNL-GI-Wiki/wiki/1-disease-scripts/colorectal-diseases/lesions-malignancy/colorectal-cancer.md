@@ -292,7 +292,7 @@ The ACG 2021 and USMSTF 2021 guidelines do not supersede the FIT-specific operat
 
 ## See Also
 
-[[colorectal-cancer-screening]], [[colonoscopy]], [[polypectomy-emr]], [[lynch-syndrome]], [[familial-adenomatous-polyposis]], [[serrated-polyposis-syndrome]], [[endoscopic-ultrasound]], [[colonoscopy-surveillance]], [[inflammatory-bowel-disease]], [[gastroenteropancreatic-neuroendocrine-tumors]], [[endoscopic-submucosal-dissection]], [[capsule-endoscopy]]
+[[colorectal-cancer-screening]], [[colonoscopy]], [[polypectomy-emr]], [[lynch-syndrome]], [[familial-adenomatous-polyposis]], [[serrated-polyposis-syndrome]], [[endoscopic-ultrasound]], [[colonoscopy-surveillance]], [[inflammatory-bowel-disease]], [[ibd-in-malignancy]], [[gastroenteropancreatic-neuroendocrine-tumors]], [[endoscopic-submucosal-dissection]], [[capsule-endoscopy]]
 
 ---
 

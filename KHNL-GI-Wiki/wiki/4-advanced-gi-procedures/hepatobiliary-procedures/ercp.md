@@ -3,8 +3,8 @@ title: "ERCP (Endoscopic Retrograde Cholangiopancreatography)"
 category: advanced-procedure
 tags: [ercp, biliary, pancreatic, hepatobiliary, sphincterotomy, stent, stone-extraction]
 created: 2026-05-16
-updated: 2026-07-25
-sources: [asge-2024-therapeutic-eus-biliary, asge-2023-post-ercp-pancreatitis, asge-2021-cholangitis, asge-2019-choledocholithiasis, asge-2023-post-transplant-biliary-strictures, asge-2015-ercp-benign-biliary]
+updated: 2026-07-26
+sources: [asge-2024-therapeutic-eus-biliary, asge-2023-post-ercp-pancreatitis, asge-2021-cholangitis, asge-2019-choledocholithiasis, asge-2023-post-transplant-biliary-strictures, asge-2015-ercp-benign-biliary, aga-2024-pregnancy-gi-liver]
 ---
 
 *Referenced in [[acute-pancreatitis]] (indications/timing) and [[biliary-stricture]] (tissue sampling, drainage). See [[endoscopic-ultrasound]] for combined EUS+ERCP approach. Now almost exclusively therapeutic — successful cholangiography with relief of obstruction is achievable in >90% of patients [[asge-2015-ercp-benign-biliary]].*
@@ -58,13 +58,33 @@ sources: [asge-2024-therapeutic-eus-biliary, asge-2023-post-ercp-pancreatitis, a
 
 ---
 
+## ERCP in Pregnancy
+
+*Full pregnancy-GI context: [[liver-disease-in-pregnancy]].*
+
+- **Indications (urgent only):** [[choledocholithiasis|choledocholithiasis]], cholangitis, and **some cases of gallstone [[acute-pancreatitis|pancreatitis]]** (acute biliary pancreatitis with a retained CBD stone). Ideally perform in the **second trimester**; if deferral may harm patient/fetus, convene a **multidisciplinary team** to decide. ([[aga-2024-pregnancy-gi-liver]] BPA 8)
+- **Confirm the stone first** to obviate ERCP: **[[mri-mrcp|MRCP]]** (no contrast) or **[[endoscopic-ultrasound|EUS]]** for suspected choledocholithiasis.
+- **Pregnancy is an independent risk factor for [[#Complications|post-ERCP pancreatitis]]** (12% vs 5%; higher at nonteaching hospitals 14.6% vs 9.6% → transfer to a tertiary center when possible). First-trimester ERCP has poorer fetal outcomes → **ASGE recommends deferral to the 2nd trimester when possible**. ([[aga-2024-pregnancy-gi-liver]])
+- **Positioning:** supine or prone in the 1st trimester; **left pelvic tilt / left lateral** in the 2nd and 3rd trimesters (avoid aortocaval compression). Give thromboprophylaxis and antibiotic prophylaxis when indicated.
+- **Fetal radiation:** teratogenic threshold ~**50 mGy**; detrimental outcomes usually >**100 mGy**. Fetal/gonadal shielding is **no longer recommended** (AAPM — minimal benefit; may penetrate lead and inadvertently increase exposure).
+- **Measures to minimize fetal radiation** ([[aga-2024-pregnancy-gi-liver]], Table 2):
+  1. Multidisciplinary team (obstetrician/perinatologist/MFM, radiation safety officer, obstetric anesthesiologist, ERCP endoscopist experienced with radiation in pregnancy)
+  2. Modern fluoroscopy unit with collimation + **pulsed fluoroscopy**
+  3. **Last-image-hold** feature and short taps of fluoroscopy
+  4. Avoid spot films and magnification
+  5. Image intensifier as close to the patient as possible; keep patient away from the radiation source
+  6. Low-radiation-dose protocols and low frame rates
+  7. **Bile-aspiration technique, [[cholangioscopy|cholangioscopy]], or [[endoscopic-ultrasound|EUS]]** to reduce radiation during cannulation/clearance
+  8. If large stones present, **place a stent and plan lithotripsy/stone clearance after delivery**
+  9. Avoid pelvic/gonadal shielding (may increase exposure)
+
 ## Quality Metrics
 
 *Stub — appropriate indication rate, native ampulla cannulation rate, stone clearance rate, PEP rate.*
 
 ## See Also
 
-[[acute-pancreatitis]], [[biliary-stricture]], [[choledocholithiasis]], [[endoscopic-ultrasound]], [[cholangioscopy]], [[chronic-pancreatitis]], [[cholangiocarcinoma]], [[primary-sclerosing-cholangitis]], [[sphincter-of-oddi-dysfunction]], [[liver-transplantation]], [[brush-cytology]]
+[[acute-pancreatitis]], [[biliary-stricture]], [[choledocholithiasis]], [[endoscopic-ultrasound]], [[cholangioscopy]], [[chronic-pancreatitis]], [[cholangiocarcinoma]], [[primary-sclerosing-cholangitis]], [[sphincter-of-oddi-dysfunction]], [[liver-transplantation]], [[brush-cytology]], [[liver-disease-in-pregnancy]], [[mri-mrcp]]
 
 ---
 
@@ -76,3 +96,4 @@ sources: [asge-2024-therapeutic-eus-biliary, asge-2023-post-ercp-pancreatitis, a
 4. [[asge-2019-choledocholithiasis|ASGE Guideline: Endoscopic Management of Choledocholithiasis (2019)]]
 5. [[asge-2023-post-transplant-biliary-strictures|ASGE Guideline on Management of Post–Liver Transplant Biliary Strictures: Summary and Recommendations (2023)]]
 6. [[asge-2015-ercp-benign-biliary|ASGE Guideline: The Role of ERCP in Benign Diseases of the Biliary Tract (2015)]]
+7. [[aga-2024-pregnancy-gi-liver|AGA Clinical Practice Update on Pregnancy-Related Gastrointestinal and Liver Disease: Expert Review]]

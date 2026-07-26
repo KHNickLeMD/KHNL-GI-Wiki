@@ -3,8 +3,8 @@ title: "Choledocholithiasis"
 category: disease-script
 tags: [biliary, gallstones, common-bile-duct, jaundice, cholangitis, ercp, eus, mrcp, gallstone-pancreatitis]
 created: 2026-06-04
-updated: 2026-07-16
-sources: [asge-2019-choledocholithiasis]
+updated: 2026-07-26
+sources: [asge-2019-choledocholithiasis, aga-2024-pregnancy-gi-liver]
 ---
 
 ## Contents
@@ -16,6 +16,7 @@ sources: [asge-2019-choledocholithiasis]
 - [[#Therapeutics]]
   - [[#Stone Clearance]]
   - [[#Gallstone Pancreatitis]]
+  - [[#In Pregnancy]]
 - [[#See Also]]
 - [[#Sources]]
 
@@ -70,12 +71,18 @@ sources: [asge-2019-choledocholithiasis]
 - **Early [[ercp|ERCP]]** for concurrent **cholangitis or persistent biliary obstruction**.
 - **Not** routine for uncomplicated gallstone [[acute-pancreatitis|pancreatitis]] — no mortality/complication benefit absent cholangitis/obstruction. ([[asge-2019-choledocholithiasis]])
 
+### In Pregnancy
+- Confirm the stone with **[[mri-mrcp|MRCP]]** (no contrast) or **[[endoscopic-ultrasound|EUS]]** before ERCP (CT involves radiation and is not typically needed). ([[aga-2024-pregnancy-gi-liver]])
+- **[[ercp|ERCP]] is an urgent indication** in pregnancy for choledocholithiasis, cholangitis, and some gallstone pancreatitis — ideally in the **2nd trimester**, with fetal-radiation minimization (see [[ercp]]). ([[aga-2024-pregnancy-gi-liver]] BPA 8)
+- Full pregnancy context: [[liver-disease-in-pregnancy]].
+
 ## See Also
 
-[[jaundice]], [[abnormal-liver-chemistries]], [[ercp]], [[endoscopic-ultrasound]], [[mri-mrcp]], [[cholangioscopy]], [[acute-pancreatitis]], [[biliary-stricture]], [[pancreatic-cancer]], [[primary-sclerosing-cholangitis]]
+[[jaundice]], [[abnormal-liver-chemistries]], [[ercp]], [[endoscopic-ultrasound]], [[mri-mrcp]], [[cholangioscopy]], [[acute-pancreatitis]], [[acute-cholecystitis]], [[biliary-stricture]], [[pancreatic-cancer]], [[primary-sclerosing-cholangitis]], [[liver-disease-in-pregnancy]]
 
 ---
 
 ## Sources
 
 1. [[asge-2019-choledocholithiasis|ASGE Guideline: Endoscopic Management of Choledocholithiasis (2019)]]
+2. [[aga-2024-pregnancy-gi-liver|AGA Clinical Practice Update on Pregnancy-Related Gastrointestinal and Liver Disease: Expert Review]]

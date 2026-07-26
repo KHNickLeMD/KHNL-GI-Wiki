@@ -3,8 +3,8 @@ title: "Liver Disease in Pregnancy"
 category: diagnostic-schema
 tags: [pregnancy, liver-disease, ihcp, intrahepatic-cholestasis, aflp, acute-fatty-liver, hellp, hyperemesis-gravidarum, preeclampsia, eclampsia, hepatitis-b, hepatitis-c, hpb, liver]
 created: 2026-05-19
-updated: 2026-07-16
-sources: [acg-2016-liver-disease-pregnancy, aasld-2021-reproductive-liver]
+updated: 2026-07-26
+sources: [aga-2024-pregnancy-gi-liver, acg-2016-liver-disease-pregnancy, aasld-2021-reproductive-liver]
 ---
 
 ## Definition / Scope
@@ -91,7 +91,9 @@ Any abnormality in AST/ALT or bilirubin requires evaluation. ALP elevation alone
 
 ### Hyperemesis Gravidarum (HG)
 
-**Definition:** Persistent vomiting with >5% weight loss, dehydration, and ketonuria; occurs 0.3–2% of pregnancies; first trimester, typically resolves by 20 weeks gestation.
+*Full NVP/HG antiemetic ladder and PUQE scoring: see [[nausea-and-vomiting-of-pregnancy]].*
+
+**Definition:** Persistent vomiting with >5% weight loss, dehydration, and ketonuria; occurs 0.3–2% of pregnancies; first trimester, typically resolves by 20 weeks gestation. AGA 2024 adds: **elevated liver enzymes in 40%–50% of HG**; early NVP treatment may reduce progression to HG ([[aga-2024-pregnancy-gi-liver]] BPA 4).
 
 **Liver involvement:** 50–60% of hospitalized patients have mild aminotransferase elevation; AST/ALT can exceed 20× ULN (rarely); [[jaundice]] and hepatic synthetic dysfunction are uncommon.
 
@@ -105,7 +107,9 @@ Any abnormality in AST/ALT or bilirubin requires evaluation. ALP elevation alone
 
 ### Intrahepatic Cholestasis of Pregnancy (IHCP)
 
-**Definition:** Most common pregnancy-specific liver disease; prevalence 0.3–5.6%; second and third trimesters; characterized by pruritus (palms and soles, then generalized) + elevated bile acids.
+*Full disease script: [[intrahepatic-cholestasis-of-pregnancy]].*
+
+**Definition:** Most common pregnancy-specific liver disease; prevalence 0.3–5.6% (AGA 2024: 0.3–0.5%); second and third trimesters; characterized by pruritus (palms and soles, then generalized) + elevated bile acids. Recurs in 45%–70% of subsequent pregnancies ([[aga-2024-pregnancy-gi-liver]]).
 
 **Pathophysiology:** Estrogen/progesterone effect on bile salt export pumps; genetic predisposition; higher prevalence in women with hepatitis C, cholelithiasis, NAFLD.
 
@@ -121,10 +125,11 @@ Any abnormality in AST/ALT or bilirubin requires evaluation. ALP elevation alone
 
 **Management:**
 
-- **UDCA 10–15 mg/kg/day**: first-line for symptomatic improvement; normalizes serum bile acids; improves pruritus; safe for mother and fetus (Rec 13 — strong, moderate evidence); superior to cholestyramine or dexamethasone for pruritus control
+- **UDCA 10–15 mg/kg/day** (total daily dose, divided): first-line for symptomatic improvement; normalizes serum bile acids; improves pruritus; safe for mother and fetus (Rec 13 — strong, moderate evidence); AGA 2024 BPA 10 confirms this dose and notes meta-analysis showing decreased preterm birth and stillbirth ([[aga-2024-pregnancy-gi-liver]]); superior to cholestyramine or dexamethasone for pruritus control. Additional pruritus control: cholestyramine, rifampicin.
 - Dexamethasone may be used adjunctively if needed for fetal lung maturity (higher prematurity rate in IHCP)
-- **Early delivery at 37 weeks**: reduces risk of intrauterine fetal death (Rec 12 — strong, very low evidence); intra-uterine death more common in last month; few deaths before 37 weeks
+- **Delivery timing by total bile acids** ([[aga-2024-pregnancy-gi-liver]]; SMFM/EASL): **≥100 μmol/L → deliver at 36 weeks** (or at diagnosis if after 36 wk; stillbirth risk rises after 35 wk); **<100 μmol/L → 36 or 39 weeks** (if diagnosed later); **<40 μmol/L → term reasonable**. (The 2016 ACG "early delivery at 37 weeks" is superseded by this newer bile-acid-stratified timing.)
 - Fat-soluble vitamin supplementation if malabsorption
+- Pruritus resolves after delivery; if it persists **>6 weeks postpartum**, evaluate for underlying chronic liver disease ([[aga-2024-pregnancy-gi-liver]])
 
 **Post-delivery:** Pruritus and bile acid abnormalities resolve after delivery; jaundice resolves in <25% of cases after delivery. Evaluate for alternative etiology if cholestasis persists.
 
@@ -143,6 +148,7 @@ Any abnormality in AST/ALT or bilirubin requires evaluation. ALP elevation alone
 
 **Management:**
 
+- **Low-dose aspirin prophylaxis** ([[aga-2024-pregnancy-gi-liver]] BPA 11): **81 mg/day beginning weeks 12–16 of gestation, continued until delivery**, for patients with pre-eclampsia risk factors (prior pre-eclampsia, multiple gestation, diabetes mellitus, hypertension, chronic kidney disease, or autoimmune disease); lowers risk of fetal growth restriction and fetal demise.
 - Expectant management advised after 34 weeks to limit fetal morbidity; no advantage to continuing pregnancy after 36–37 weeks
 - **Deliver promptly after 36 weeks for severe preeclampsia** (Rec 14 — strong, very low evidence)
 - Hepatic rupture: surgery for those with enlarging hematomas or hemodynamic instability; percutaneous embolization of hepatic arteries as alternative in stable patients; [[liver-transplantation|liver transplantation]] for continued decompensation
@@ -172,7 +178,9 @@ Any abnormality in AST/ALT or bilirubin requires evaluation. ALP elevation alone
 
 ### Acute Fatty Liver of Pregnancy (AFLP)
 
-**Definition:** Rare, life-threatening; microvesicular fatty infiltration of the liver leading to hepatic failure. Third trimester (median identification at 36 weeks). Incidence ~5 cases per 100,000 maternities.
+*Full disease script: [[acute-fatty-liver-of-pregnancy]].*
+
+**Definition:** Rare, life-threatening; microvesicular fatty infiltration of the liver leading to hepatic failure. Third trimester (median identification at 36 weeks). Incidence ~5 cases per 100,000 maternities (AGA 2024: ~0.01% of pregnancies). AGA 2024 notes the **Swansea criteria have limitations** distinguishing AFLP from other pregnancy liver diseases and from acute liver failure of any cause; **liver biopsy is rarely needed** ([[aga-2024-pregnancy-gi-liver]] BPA 11).
 
 **Risk factors:** Twin pregnancies, low BMI.
 
@@ -366,11 +374,12 @@ See also: [[wilson-disease]]
 
 ## See Also
 
-[[abnormal-liver-chemistries]], [[acute-liver-failure]], [[chronic-hepatitis-b]], [[hepatitis-c-in-pregnancy]], [[autoimmune-hepatitis]], [[primary-biliary-cholangitis]], [[wilson-disease]], [[drug-induced-liver-injury]], [[nafld-masld]], [[portal-hypertension]], [[variceal-upper-gi-bleeding]], [[liver-transplantation]], [[ercp]], [[hepatocellular-adenoma]], [[hepatic-hemangioma]], [[focal-nodular-hyperplasia]], [[hepatic-encephalopathy]], [[acute-pancreatitis]]
+[[intrahepatic-cholestasis-of-pregnancy]], [[acute-fatty-liver-of-pregnancy]], [[nausea-and-vomiting-of-pregnancy]], [[abnormal-liver-chemistries]], [[acute-liver-failure]], [[chronic-hepatitis-b]], [[hepatitis-c-in-pregnancy]], [[autoimmune-hepatitis]], [[primary-biliary-cholangitis]], [[wilson-disease]], [[drug-induced-liver-injury]], [[nafld-masld]], [[portal-hypertension]], [[variceal-upper-gi-bleeding]], [[liver-transplantation]], [[ercp]], [[choledocholithiasis]], [[acute-cholecystitis]], [[hepatocellular-adenoma]], [[hepatic-hemangioma]], [[focal-nodular-hyperplasia]], [[hepatic-encephalopathy]], [[acute-pancreatitis]]
 
 ---
 
 ## Sources
 
-1. [[acg-2016-liver-disease-pregnancy|ACG Clinical Guideline: Liver Disease and Pregnancy (2016)]]
-2. [[aasld-2021-reproductive-liver|AASLD Practice Guidance: Reproductive Health and Liver Disease (2021)]]
+1. [[aga-2024-pregnancy-gi-liver|AGA Clinical Practice Update on Pregnancy-Related Gastrointestinal and Liver Disease: Expert Review]]
+2. [[acg-2016-liver-disease-pregnancy|ACG Clinical Guideline: Liver Disease and Pregnancy (2016)]]
+3. [[aasld-2021-reproductive-liver|AASLD Practice Guidance: Reproductive Health and Liver Disease (2021)]]

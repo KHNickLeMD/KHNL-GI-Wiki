@@ -3,8 +3,8 @@ title: "Crohn's Disease"
 category: disease-script
 tags: [crohns, ibd, biologics, ileitis, colitis, perianal-fistula, stricture, fistula, anti-tnf]
 created: 2026-05-07
-updated: 2026-07-25
-sources: [acg-2025-crohns, aga-2025-crohns-pharm, aga-2021-crohns-pharm, aga-2023-biomarkers-cd, acg-2018-crohns, asge-2015-scenic-ibd-dysplasia, asge-2015-ibd, aga-2026-inpatient-ibd, aga-2026-therapeutic-endoscopy-ibd, aga-2024-intestinal-ultrasound, aga-2024-diet-nutrition-ibd]
+updated: 2026-07-26
+sources: [acg-2025-crohns, aga-2025-crohns-pharm, aga-2021-crohns-pharm, aga-2023-biomarkers-cd, acg-2018-crohns, asge-2015-scenic-ibd-dysplasia, asge-2015-ibd, aga-2026-inpatient-ibd, aga-2026-therapeutic-endoscopy-ibd, aga-2024-intestinal-ultrasound, aga-2024-diet-nutrition-ibd, aga-2024-ibd-malignancy, aga-2024-pregnancy-gi-liver]
 ---
 
 # Crohn's Disease
@@ -348,10 +348,18 @@ No single pathognomonic test. Diagnosis = integration of:
 **Malignancy risk:**
 
 - Colonic CD: [[colorectal-cancer|CRC]] risk increased (same surveillance as UC); start at 8y if >30% colonic involvement
-- Small bowel CD: SB adenocarcinoma risk 18× increased (absolute risk low); high suspicion for abrupt symptom change
-- [[primary-sclerosing-cholangitis|PSC]]: CRC surveillance from diagnosis
+- Small bowel CD: SB adenocarcinoma risk 18× increased (absolute risk low; AGA 2024 aHR 15.8); SB neuroendocrine tumor aHR 5.5; high suspicion for abrupt symptom change
+- Anal/perianal fistulizing CD: ↑ anal SCC (2.6 vs 0.8/10,000 PY); RF = HPV, long-standing perianal disease
+- [[primary-sclerosing-cholangitis|PSC]]: CRC surveillance from diagnosis; ↑ [[cholangiocarcinoma]] (>150× vs no PSC)
+- **Managing IBD drugs when a cancer develops** — see [[ibd-in-malignancy]]. Key: thiopurines/anti-TNF are the drugs of concern (thiopurine → lymphoma/NMSC; anti-TNF → melanoma; combo → hepatosplenic T-cell lymphoma); newer classes (vedolizumab, ustekinumab/anti–IL-23, JAK, S1P) show no malignancy signal. Prior-cancer history alone does **not** mandate withholding effective IBD therapy (reassuring registry data).
 
-**Pregnancy:** Anti-TNF agents safe during preconception, pregnancy, and postpartum. Live vaccines in newborns exposed in utero deferred until 6 months.
+**Pregnancy** (AGA 2024 CPU; full context [[liver-disease-in-pregnancy]], NVP overlap [[nausea-and-vomiting-of-pregnancy]]):
+
+- **Clinical remission before conception, throughout pregnancy, and postpartum is essential** — active CD → ↑ preterm birth, low birth weight, growth retardation, hypertensive disease, cesarean (BPA 7). MFM consult for every pregnant IBD patient; coordinate complex births at a tertiary center (BPA 3).
+- **Continue biologics** throughout pregnancy/postpartum; **stop methotrexate, thalidomide, and ozanimod ≥6 months before conception** (BPA 7).
+- Med safety: mesalamine safe; sulfasalazine + folic acid 1 mg BID; 6-MP/azathioprine safe; **methotrexate contraindicated**. Anti-TNF (infliximab, adalimumab) cross placenta after ~20 wk → **no live vaccines to infant for first 6 months**; certolizumab does not cross placenta. Glucocorticoids OK for flares (caution 1st trimester — ↑ preterm/SGA). Most IBD meds compatible with breastfeeding.
+- Monitoring: fecal calprotectin each trimester; [[intestinal-ultrasound]] (84% Sn/98% Sp); MRI **without gadolinium**; **unsedated flexible sigmoidoscopy preferred** over colonoscopy; elective endoscopy deferred to postpartum, nonemergent → 2nd trimester (BPA 6).
+- Delivery: **avoid vaginal birth with active perianal CD, perianal abscess, or active rectal disease**; consider cesarean for prior complex fistulizing disease ± J-pouch.
 
 ---
 
@@ -361,7 +369,7 @@ No single pathognomonic test. Diagnosis = integration of:
 
 ## See Also
 
-[[ulcerative-colitis]], [[inflammatory-bowel-disease]], [[uc-vs-crohns-comparison]], [[ibd-preventive-care]], [[ibd-endoscopic-scoring]], [[intestinal-ultrasound]], [[clostridioides-difficile]], [[celiac-disease]], [[colorectal-cancer]], [[primary-sclerosing-cholangitis]], [[capsule-endoscopy]], [[colonoscopy]], [[chronic-diarrhea]], [[nutrition-in-ibd]]
+[[ulcerative-colitis]], [[inflammatory-bowel-disease]], [[uc-vs-crohns-comparison]], [[ibd-preventive-care]], [[ibd-endoscopic-scoring]], [[intestinal-ultrasound]], [[clostridioides-difficile]], [[celiac-disease]], [[colorectal-cancer]], [[primary-sclerosing-cholangitis]], [[capsule-endoscopy]], [[colonoscopy]], [[chronic-diarrhea]], [[nutrition-in-ibd]], [[ibd-in-malignancy]], [[liver-disease-in-pregnancy]], [[nausea-and-vomiting-of-pregnancy]]
 
 ---
 
@@ -378,3 +386,5 @@ No single pathognomonic test. Diagnosis = integration of:
 9. [[aga-2026-therapeutic-endoscopy-ibd|AGA Clinical Practice Update on the Role of Therapeutic Endoscopy in Inflammatory Bowel Disease: Commentary (2026)]]
 10. [[aga-2024-intestinal-ultrasound|AGA Clinical Practice Update on the Role of Intestinal Ultrasound in Inflammatory Bowel Disease: Commentary (2024)]]
 11. [[aga-2024-diet-nutrition-ibd|AGA Clinical Practice Update on Diet and Nutritional Therapies in Patients With IBD: Expert Review (2024)]]
+12. [[aga-2024-ibd-malignancy|AGA Clinical Practice Update on Management of IBD in Patients With Malignancy: Commentary (2024)]]
+13. [[aga-2024-pregnancy-gi-liver|AGA Clinical Practice Update on Pregnancy-Related Gastrointestinal and Liver Disease: Expert Review (2024)]]

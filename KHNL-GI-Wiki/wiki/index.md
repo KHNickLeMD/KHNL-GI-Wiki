@@ -1,7 +1,7 @@
 ---
 title: "Wiki Index"
 category: index
-updated: 2026-07-24
+updated: 2026-07-26
 ---
 
 # KHNL GI Encyclopedia — Master Index
@@ -47,6 +47,7 @@ updated: 2026-07-24
 - [[hereditary-diffuse-gastric-cancer]] — HDGC: ADDT — CDH1, 67%/83% M/F lifetime GC risk, prophylactic gastrectomy after age 20, pre-gastrectomy EGD low sensitivity, lobular breast cancer surveillance (1 source)
 - [[rumination-syndrome]] — Rumination syndrome: ADDT — Rome V gastroduodenal DGBI (B4); effortless regurgitation of bland recently-eaten food without nausea/retching; behavioral mimic of refractory GERD; postprandial HRIM (intragastric pressure rise >30 mm Hg, sens 75–80%/spec 100%) after EGD; Therapeutics pending a primary source (2 sources)
 - [[cyclic-vomiting-syndrome]] — CVS: ADDT — Rome IV criteria; ANMS-CVSA mild vs moderate–severe strata (drives prophylaxis decision); 4 phases; workup to exclude mimics (no routine GES); TCA first-line prophylaxis + triptan/antiemetic abortive combos; ED management (2 sources)
+- [[nausea-and-vomiting-of-pregnancy]] — NVP & hyperemesis gravidarum: ADDT — PUQE score, pyridoxine (B6) + doxylamine first-line, hydration/antiemetic ladder, HG management (1 source)
 - [[cannabinoid-hyperemesis-syndrome]] — CHS: ADDT — CVS subtype from chronic heavy cannabis use; proposed criteria (≥3 episodes/yr, use >1 yr & >4×/wk, resolution ≥6 mo off cannabis); compulsive hot-water bathing (supportive, not pathognomonic); topical capsaicin 0.1% + haloperidol acutely, cannabis cessation + amitriptyline long-term, avoid opioids (1 source)
 
 #### Small Bowel
@@ -61,9 +62,10 @@ updated: 2026-07-24
 - [[rectal-prolapse]] — Rectal prolapse: stub — only two sourced fragments exist (anorectal-manometry context, constipation endoscopy); needs a dedicated rectal-prolapse/pelvic-floor source for grading and repair selection (2 sources)
 - [[acute-mesenteric-ischemia]] — Acute mesenteric ischemia: venous (MVT) built from ACG 2020 — anticoagulate, thrombophilia workup; AMI-vs-colon-ischemia distinction; **arterial AMI/NOMI explicitly not covered by any ingested source** (2 sources)
 
-- [[crohns-disease]] — Crohn's disease: ADDT — transmural IBD, biologics (anti-TNF/vedolizumab/IL-23/JAK), perianal fistula, postoperative prevention, HD+chromoendoscopy CRC surveillance (SCENIC), endoscopic balloon dilation of benign strictures ≤4 cm; inpatient CD complications (obstruction/abscess/perianal); therapeutic endoscopy (EBD/stricturotomy/fistula) (9 sources)
-- [[ulcerative-colitis]] — Ulcerative colitis: ADDT — proctitis-to-pancolitis, 5-ASA/biologics/JAK/S1P modulators, ASUC management, ileoscopy (backwash vs CD ileitis), HD+chromoendoscopy dysplasia surveillance (SCENIC) (8 sources)
+- [[crohns-disease]] — Crohn's disease: ADDT — transmural IBD, biologics (anti-TNF/vedolizumab/IL-23/JAK), perianal fistula, postoperative prevention, HD+chromoendoscopy CRC surveillance (SCENIC), endoscopic balloon dilation of benign strictures ≤4 cm; inpatient CD complications (obstruction/abscess/perianal); therapeutic endoscopy (EBD/stricturotomy/fistula); IBD-in-malignancy drug management (10 sources)
+- [[ulcerative-colitis]] — Ulcerative colitis: ADDT — proctitis-to-pancolitis, 5-ASA/biologics/JAK/S1P modulators, ASUC management, ileoscopy (backwash vs CD ileitis), HD+chromoendoscopy dysplasia surveillance (SCENIC) (9 sources)
 - [[pouchitis]] — Ileal pouch inflammation post-IPAA; subtype-driven Tx (intermittent/antibiotic-dependent/refractory, Crohn's-like, cuffitis); antibiotics → advanced therapy (AGA 2024); pouch neoplasia surveillance (ASGE 2015) (3 sources)
+- [[toxic-megacolon]] — Nonobstructive colonic dilation + systemic toxicity complicating fulminant C. difficile / acute severe UC; surgical emergency (stub)
 - [[radiation-proctopathy]] — Radiation proctopathy: acute (inflammatory, self-limiting) vs chronic (obliterative endarteritis/telangiectasias); endoscopy dx (biopsy discouraged); APC/bipolar/heater probe/RFA for chronic bleeding (1 source)
 - [[irritable-bowel-syndrome]] — IBS: ADDT — Rome IV/V criteria, positive diagnostic strategy, calprotectin + celiac serology screen, low-FODMAP, soluble fiber, TCA, secretagogues (linaclotide/plecanatide/lubiprostone/tegaserod) for IBS-C; rifaximin/alosetron/eluxadoline for IBS-D; gut-directed psychotherapy (2 sources)
 - [[colorectal-cancer]] — CRC: TNM staging, surgical resection, adjuvant FOLFOX, TNT for rectal cancer, immunotherapy for MSI-H, post-resection surveillance (perioperative → 1y → 4y → 9y → q5y), Lynch universal testing, FIT screening performance/thresholds, rectal cancer local surveillance; NCCN oncologic mgmt — universal MMR/MSI, RAS/BRAF/HER2/NTRK/DPYD, adjuvant FOLFOX/CAPOX (IDEA duration), biomarker-/sidedness-directed metastatic therapy; early-T1 en-bloc/ESD/eFTR endoscopic resection; treatment-algorithm Mermaid (7 sources)
@@ -138,6 +140,8 @@ updated: 2026-07-24
 - [[liver-transplantation]] — Liver transplantation: candidate evaluation (MELD ≥12 referral, contraindications, cardiac/pulmonary/psychosocial workup, HCC/CCA criteria, ALD no fixed abstinence exclusion); graft complications (machine perfusion, vascular/biliary complications, TCMR/PCR/AMR, IS trough targets 2025, no protocol biopsy Rec 34, mTOR for HCC/CKD); non-graft complications (CMV pre-emptive PCR, hydrophilic statins, GLP-1RA post-LT, cancer surveillance, bone/reproductive health); IS minimization (4 sources)
 - [[hepatitis-c]] — Hepatitis C: ADDT — universal screening (adults ≥18/all pregnancies), simplified algorithm (G/P 8wk or SOF/VEL 12wk pangenotypic), decompensated cirrhosis regimens (SOF/VEL ± RBV; NS3/4A contraindicated), retreatment (SOF/VEL/VOX), incomplete adherence algorithm, post-transplant DAA, HIV/HCV coinfection, post-SVR HCC surveillance (1 source)
 - [[hepatitis-c-in-pregnancy]] — HCV in pregnancy: vertical transmission, universal screening, case-by-case DAA consideration, breastfeeding (stub — see [[hepatitis-c]] for full treatment context)
+- [[intrahepatic-cholestasis-of-pregnancy]] — ICP: ADDT — pruritus + serum bile acids >10 μmol/L (dx), UDCA 10–15 mg/kg/d, bile-acid-stratified delivery timing (≥100 → 35–36 wk); leading cause of pregnancy pruritus (1 source)
+- [[acute-fatty-liver-of-pregnancy]] — AFLP: ADDT — rare 3rd-trimester microvesicular steatosis/liver failure; Swansea criteria; prompt delivery + transplant evaluation; DDx vs HELLP (1 source)
 - [[cirrhosis]] — Cirrhosis: ADDT — F4 fibrosis; NILDA-first diagnosis (biopsy imperfect reference, AUROC ceiling ~0.9); compensated vs decompensated; severity scores compared (CTP/MELD-Na/Mayo/VOCAL-Penn variable table), low-risk band MELD 6–9 + CTP 5–6 without CSPH; ACLF scores over MELD in critical illness; complication map; treat the underlying disease; nutrition/frailty/sarcopenia; hemostasis + periprocedural; perioperative risk; palliative care; transplant referral (9 sources)
 - [[portal-hypertension]] — Portal hypertension: ADDT — HVPG (gold standard), cACLD/CSPH noninvasive staging ("Rule of Five": LSM + platelet count), carvedilol preferred NSBB (6.25–12.5 mg/day), primary prophylaxis (NSBB or EVL), AVH management (preemptive TIPS for CTP B>7/C 10–13), secondary prophylaxis, gastric/ectopic varices (ECI/TIPS/BRTO), PHG management (1 source)
 - [[portal-vein-thrombosis]] — PVT/MVT: ADDT — noncirrhotic (thrombophilia workup: JAK2/FVL/APLS) vs. cirrhotic PVT, anticoagulate all acute symptomatic noncirrhotic + complete/extending cirrhotic PVT (Strong/Low), LMWH/VKA/DOAC, NSBBs + AC for variceal prophylaxis, TIPS for recanalization; Yerdel grade IV PVT = relative (not absolute) LT contraindication per AASLD/AST 2025; AGA 2025 cirrhotic-PVT stratification (recent <6mo >50%/main-PV/mesenteric → AC; ischemia → urgent AC; chronic cavernoma → no AC) + CTP-class anticoagulant table + PVR-TIPS (4 sources)
@@ -252,6 +256,10 @@ updated: 2026-07-24
 - [[linaclotide]] — GC-C agonist; IBS-C 290 µg, CIC 145 µg; diarrhea-limiting (stub)
 - [[plecanatide]] — GC-C agonist (uroguanylin analog); IBS-C 3/6 mg, CIC 3 mg (stub)
 - [[prucalopride]] — Selective 5-HT4 agonist; CIC 2 mg daily; no CV signal (stub)
+- [[alosetron]] — 5-HT3 antagonist; severe IBS-D in women, REMS (ischemic colitis risk) (stub)
+- [[eluxadoline]] — μ-/κ-opioid agonist + δ-antagonist; IBS-D 100 mg BID; contraindicated post-cholecystectomy (stub)
+- [[tegaserod]] — 5-HT4 agonist; IBS-C in women <65 with ≤1 CV risk factor (stub)
+- [[fmt]] — Fecal microbiota-based therapies for recurrent C. difficile (conventional FMT + FDA products); against routine IBD/IBS use (AGA 2024) (stub)
 - [[loperamide]] — Loperamide: peripheral μ-opioid antimotility; **4 mg → 2 mg per loose stool; ceiling 8 mg/day self-treatment vs 16 mg/24 h with antibiotics for traveler's diarrhea** (the qualifier is the decision); indications table; avoid <18 y and in febrile/inflammatory diarrhea (5 sources)
 - [[nitazoxanide]] — Nitazoxanide: antiprotozoal, **500 mg BID ×3 d** for cryptosporidiosis/giardiasis; limited in advanced immunosuppression (1 source)
 - [[rifaximin]] — Rifaximin: non-absorbable antibiotic; SIBO 550 mg TID × 14d; IMO + neomycin combination; IBS-D 550 mg TID × 14d; HE add-on to lactulose (never monotherapy); **ACG 2026 reverses the 2014 rule — start 14 days before elective TIPS and continue ≥6 months** (contradiction surfaced on page) (3 sources)
@@ -322,6 +330,7 @@ updated: 2026-07-24
 - [[gastric-cancer-screening]] — GC screening/surveillance framework: who to screen, EGD+Sydney biopsy, intervals by AG/GIM/dysplasia (1 source)
 - [[ibd-endoscopic-scoring]] — Endoscopic scoring indices for IBD: MES, UCEIS, CDEIS, SES-CD, MM-SES-CD, and modified Rutgeerts — components, point bands, and remission/response cutoffs (1 source)
 - [[ibd-pain-management]] — Managing chronic abdominal pain in IBD: central vs peripheral drivers, neuromodulator dosing, opioid avoidance, and brain-gut behavior therapies (1 source)
+- [[ibd-in-malignancy]] — Cancer risk from IBD inflammation vs from IBD drugs, AGA 2024 Table 1 (what to do with each drug class when a lymphoma/melanoma/NMSC/solid/heme cancer develops), reassuring prior-cancer registry data, cancer-treatment effects on IBD (chemo, hormone therapy, ICI colitis) (1 source)
 - [[ostomy-management]] — Ostomy types, output expectations, high-output ostomy (>1.5 L/d) definitions and treatment ladder, and peristomal/hernia/prolapse complications (1 source)
 ## Sources
 
@@ -452,6 +461,8 @@ updated: 2026-07-24
 - [[aga-2024-cvs]] — AGA 2024 Clinical Practice Update (Commentary): Cyclic Vomiting Syndrome — Rome IV Dx criteria; ANMS-CVSA mild vs moderate–severe strata (drive prophylaxis); 4 phases; workup to exclude mimics (no routine gastric emptying scan); TCA first-line prophylaxis + triptan/antiemetic abortive combos; ED management
 - [[aga-2024-pcab]] — AGA 2024 Clinical Practice Update (Expert Review): Integrating Potassium-Competitive Acid Blockers — 9 Best Practice Advice across GERD/HP/PUD; not first-line where superiority unproven (cost/safety); use for severe EE (LA C/D) & in place of PPIs for H. pylori
 - [[aga-2024-diet-nutrition-ibd]] — AGA 2024 Clinical Practice Update (Expert Review): Diet and Nutritional Therapies in IBD — 12 Best Practice Advice; Mediterranean diet baseline; EEN/CDED induction in CD (steroid-sparing, preop prehab); PN for intestinal failure/SBS (thresholds) + GLP-2 agonists; malnutrition screening (drop serum proteins); vitamin D/iron/B12 monitoring; RD co-management
+- [[aga-2024-ibd-malignancy]] — AGA 2024 Clinical Practice Update (Commentary): Management of IBD in Patients With Malignancy — cancer risk from inflammation vs from drugs; Table 1 (drug-class action per cancer type: thiopurine→stop for lymphoma/NMSC, anti-TNF→stop for melanoma, newer classes no change); reassuring prior-cancer registry data (CESAME/SAPPHIRE); ICI colitis, chemo & hormone-therapy effects on IBD
+- [[aga-2024-pregnancy-gi-liver]] — AGA 2024 Clinical Practice Update (Expert Review): Pregnancy-Related GI and Liver Disease — 13 Best Practice Advice; NVP/hyperemesis (B6+doxylamine), constipation, endoscopy timing (2nd trimester), IBD med safety + delivery, ERCP radiation minimization, cholecystectomy safe (2nd tri), intrahepatic cholestasis (bile acids, UDCA), acute fatty liver, HBV antiviral in 3rd trimester
 - [[aga-2024-glp1-endoscopy]] — AGA 2024 Rapid Clinical Practice Update (Communication): GLP-1 Receptor Agonists Prior to Endoscopy — individualized approach over routine cessation; standard fast (8h solid/2h liquid) + no GI symptoms → proceed; ASA consensus (hold day-of daily / 1 wk weekly) surfaced but not evidence-based; liquid diet day-before alternative; multisociety "no data to support stopping"
 - [[aga-2024-vasoactive-albumin-cirrhosis]] — AGA 2024 Clinical Practice Update (Expert Review): Vasoactive Drugs and IV Albumin in Cirrhosis — 12 Best Practice Advice across AVH, ascites/SBP, and HRS-AKI; octreotide first-choice for AVH (Table 1 regimens) before endoscopy ×2–5 d; albumin 6–8 g/L at LVP >5 L, 1.5→1 g/kg for SBP, NOT for uncomplicated ascites; no vasoconstrictors post-LVP/SBP; terlipressin drug-of-choice for HRS-AKI (peripheral line, no ICU), ischemia/hypoxemia/ACLF-3/MELD≥35 caveats
 - [[aga-acg-2023-constipation]] — AGA-ACG 2023: Pharmacologic Management of Chronic Idiopathic Constipation — Chang, Chey, Imdad et al. Am J Gastroenterol 2023
@@ -588,4 +599,4 @@ updated: 2026-07-24
 
 ---
 
-*Total: 234 sources | 119 disease scripts | 21 diagnostic schemas | 4 general procedures | 24 advanced procedures | 23 meds | 0 anatomy | 42 concepts | 1 synthesis (on-disk page counts as of 2026-07-24)*
+*Total: 238 sources | 123 disease scripts | 21 diagnostic schemas | 4 general procedures | 24 advanced procedures | 27 meds | 0 anatomy | 43 concepts | 1 synthesis (on-disk page counts as of 2026-07-26)*

@@ -3,8 +3,8 @@ title: "Acute Pancreatitis"
 category: disease-script
 tags: [pancreatitis, acute-pancreatitis, hpb, gallstone-pancreatitis, necrotizing-pancreatitis, ercp, bisap, fluid-resuscitation, nutrition]
 created: 2026-05-07
-updated: 2026-07-23
-sources: [acg-2024-acute-pancreatitis, asge-2016-pancreatic-fluid-collections, asge-2015-benign-pancreatic-disease, demadaria-2022-waterfall]
+updated: 2026-07-26
+sources: [acg-2024-acute-pancreatitis, asge-2016-pancreatic-fluid-collections, asge-2015-benign-pancreatic-disease, demadaria-2022-waterfall, aga-2024-pregnancy-gi-liver]
 ---
 
 # Acute Pancreatitis
@@ -263,11 +263,16 @@ BISAP ≥3 = high risk for severe AP and mortality
 
 **[[choledocholithiasis|Choledocholithiasis]]:** ERCP for CBD stone clearance → then cholecystectomy
 
+**Gallstone pancreatitis in pregnancy** ([[aga-2024-pregnancy-gi-liver]]; full context [[liver-disease-in-pregnancy]]):
+
+- **[[ercp|ERCP]]** for urgent indications — cholangitis or acute biliary pancreatitis with a retained CBD stone; ideally 2nd trimester, with fetal-radiation minimization (see [[ercp]]). BPA 8.
+- **Laparoscopic cholecystectomy is safe in any trimester (ideally 2nd)** and preferred over conservative management; **same-admission cholecystectomy** in acute biliary pancreatitis reduces early readmission by ~85% (BPA 9; see [[acute-cholecystitis]]).
+
 ---
 
 ## See Also
 
-[[alcohol-associated-liver-disease]], [[chronic-pancreatitis]], [[hereditary-pancreatitis]], [[pancreatic-cysts]], [[ercp]], [[endoscopic-ultrasound]], [[mri-mrcp]], [[peptic-ulcer-disease]], [[acute-mesenteric-ischemia]], [[choledocholithiasis]], [[ampullary-adenoma]], [[nutrition-in-hospitalized-patients]], [[portal-hypertension]]
+[[alcohol-associated-liver-disease]], [[chronic-pancreatitis]], [[hereditary-pancreatitis]], [[pancreatic-cysts]], [[ercp]], [[endoscopic-ultrasound]], [[mri-mrcp]], [[peptic-ulcer-disease]], [[acute-mesenteric-ischemia]], [[choledocholithiasis]], [[acute-cholecystitis]], [[ampullary-adenoma]], [[nutrition-in-hospitalized-patients]], [[portal-hypertension]], [[liver-disease-in-pregnancy]]
 
 ---
 
@@ -277,3 +282,4 @@ BISAP ≥3 = high risk for severe AP and mortality
 2. [[asge-2016-pancreatic-fluid-collections|ASGE Guideline: The Role of Endoscopy in the Diagnosis and Treatment of Inflammatory Pancreatic Fluid Collections (2016)]]
 3. [[asge-2015-benign-pancreatic-disease|ASGE Guideline: The Role of Endoscopy in Benign Pancreatic Disease (2015)]]
 4. [[demadaria-2022-waterfall|Aggressive or Moderate Fluid Resuscitation in Acute Pancreatitis (WATERFALL, NEJM 2022)]]
+5. [[aga-2024-pregnancy-gi-liver|AGA Clinical Practice Update on Pregnancy-Related Gastrointestinal and Liver Disease: Expert Review]]

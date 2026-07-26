@@ -45,13 +45,13 @@ sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
 - **Azithromycin** is preferred where FQ-resistant *Campylobacter* is prevalent (SE Asia/India): **500 mg daily × 3 days** (or 1,000 mg single dose for noninvasive TD); use the full 3-day course for dysentery/febrile presentations. [[acg-2016-acute-diarrhea]]
 - Adult empiric agent for bloody/inflammatory diarrhea = a fluoroquinolone **or** azithromycin per local susceptibility/travel — azithromycin favored where FQ resistance is high.
 - **[[rifaximin|Rifaximin]]: do NOT use** — not effective against this invasive pathogen.
-- **Postinfectious:** *C. jejuni* is the leading infectious trigger of **[[guillain-barre|Guillain-Barré syndrome]]** (ganglioside molecular mimicry; IDSA Rec 7); [[reactive-arthritis|reactive arthritis]] also occurs.
+- **Postinfectious:** *C. jejuni* is the leading infectious trigger of **Guillain-Barré syndrome** (ganglioside molecular mimicry; IDSA Rec 7); reactive arthritis also occurs.
 
 ---
 
 ## See Also
 
-[[acute-diarrhea]], [[salmonella-infection]], [[shigellosis]], [[enterotoxigenic-e-coli]], [[clostridioides-difficile]], [[rifaximin]], [[guillain-barre]], [[reactive-arthritis]]
+[[acute-diarrhea]], [[salmonella-infection]], [[shigellosis]], [[enterotoxigenic-e-coli]], [[clostridioides-difficile]], [[rifaximin]]
 
 ---
 

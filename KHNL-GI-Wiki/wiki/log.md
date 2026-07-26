@@ -6,6 +6,44 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-07-26] lint | Ingested 2 AGA 2024 CPUs (IBD-in-Malignancy + Pregnancy-Related GI & Liver); new ibd-in-malignancy concept + ICP/AFLP/NVP-of-pregnancy disease scripts; stalest ACPO/volvulus decision-gaps fixed; index reconciled (238 sources); 0 broken links
+
+**Sources ingested (2 — guideline/CPU tier, per ingestion priority; the only uningested non-lecture backlog is 6 AGA CPUs — see below; no lectures auto-ingested):**
+- `[[aga-2024-ibd-malignancy]]` — AGA 2024 CPU Commentary: Management of IBD in Patients With Malignancy (Axelrad, Hashash, Itzkowitz; *CGH* 2024;22:1365–1372). Commentary → no numbered BPA; **Table 1 recreated verbatim** (drug-class action per cancer type) plus quantified cancer-risk data (inflammation-driven and drug-driven) and prior-cancer registry reassurance (CESAME/ENEIDA/NYCCO/SAPPHIRE).
+- `[[aga-2024-pregnancy-gi-liver]]` — AGA 2024 CPU Expert Review: Pregnancy-Related GI and Liver Disease (*Gastroenterology* 2024; DOI 10.1053/j.gastro.2024.06.014). **All 13 Best Practice Advice statements verbatim**; Table 2 (fetal-radiation measures) + Table 3 (ICP/HELLP/AFLP) recreated as Markdown.
+
+**Pages created (4):**
+- `[[ibd-in-malignancy]]` (7-concepts) — home for the malignancy CPU: cancer-risk-by-inflammation table, cancer-risk-by-drug table, AGA Table 1 (drug × cancer-type action grid), prior-cancer data, cancer-treatment effects on IBD (chemo/hormone/ICI colitis).
+- `[[intrahepatic-cholestasis-of-pregnancy]]` (1-disease-scripts/hepatology, ADDT) — dx serum bile acids >10 μmol/L, UDCA 10–15 mg/kg/d, bile-acid-stratified delivery timing.
+- `[[acute-fatty-liver-of-pregnancy]]` (1-disease-scripts/hepatology, ADDT) — Swansea criteria, prompt delivery + LT evaluation, DDx vs HELLP.
+- `[[nausea-and-vomiting-of-pregnancy]]` (1-disease-scripts/foregut-and-motility/gastric, ADDT) — PUQE score, pyridoxine (B6) + doxylamine first-line, HG management (no prior NVP/HG disease page existed; `nausea-and-vomiting` is the schema).
+
+**Pages updated (ingest wiring):**
+- `[[crohns-disease]]` — expanded Pregnancy block (BPA 7: remission before/through/after pregnancy; continue biologics, stop MTX/thalidomide/ozanimod ≥6 mo preconception; med safety; calprotectin/IUS/unsedated flex-sig monitoring; perianal-CD delivery caveat) + Malignancy-risk block pointer to `[[ibd-in-malignancy]]` (thiopurine/anti-TNF as drugs of concern; prior cancer ≠ withhold therapy). 2 AGA sources added.
+- `[[ulcerative-colitis]]` — Malignancy & Pregnancy blocks (UC-weighted: UC exacerbates more than CD in pregnancy). 2 AGA sources added.
+- `[[liver-disease-in-pregnancy]]` (schema) — ICP delivery-timing table, pre-eclampsia aspirin prophylaxis, AFLP; 3 new-page cross-links.
+- `[[chronic-hepatitis-b]]` (BPA 12 antiviral in 3rd trimester; page keeps newer AASLD 2025 week-28 figure — contradiction surfaced), `[[hepatitis-c-in-pregnancy]]`, `[[ercp]]` (ERCP-in-pregnancy + 9 radiation-minimization measures), `[[choledocholithiasis]]`, `[[acute-cholecystitis]]` (laparoscopic cholecystectomy safe, ideally 2nd tri), `[[acute-pancreatitis]]`, `[[nausea-and-vomiting]]` schema.
+- Backlinks to `[[ibd-in-malignancy]]` added from `[[colorectal-cancer]]` and `[[immune-checkpoint-inhibitor-hepatitis]]` See Also.
+
+**Stalest-page validation (Content + Style Guides; 2 pages, oldest `updated: 2026-07-16`; verified against ASGE 2020 ACPO/volvulus PDF):**
+- `[[acute-colonic-pseudo-obstruction]]` — decision gaps closed: **surgery indications broadened** (peritonitis/ischemia/perforation/deterioration/**cecal diameter >12 cm**, not just overt perforation) with cecostomy/subtotal-colectomy options + ~44% surgical mortality with ischemic/perforated bowel; added spontaneous-perforation risk (~3–25%, up to ~50% mortality), neostigmine non-response predictor (male sex), endoscopic decompression success ~95% / ~2% perforation / ~40% recurrence without tube; inline CRC link. `updated:` → 2026-07-26.
+- `[[colonic-volvulus]]` — added endoscopic detorsion success (~55–94%) + predictors, sharpened sigmoid-volvulus demographics; inline CRC link. `updated:` → 2026-07-26.
+
+**Hygiene / reconciliation:**
+- **Broken-link cleanup (8 pre-existing dead links, none from this pass):** created 5 guarded, source-backed stubs so links resolve — `[[alosetron]]`, `[[eluxadoline]]`, `[[tegaserod]]` (5-meds, ACG 2020 IBS), `[[fmt]]` (5-meds, AGA 2024 FMT), `[[toxic-megacolon]]` (1-disease-scripts/inflammation, ACG 2021 CDI + ACG 2025 UC). Unlinked 3 non-GI-entity mentions to plain text (Guillain-Barré, reactive arthritis, HUS) — not encyclopedia entities.
+- `index.md` — 2 source entries, 4 disease-script entries (ICP, AFLP, NVP-of-pregnancy, toxic-megacolon), 4 med stubs, 1 concept entry; crohns 9→10 & UC 8→9 source counts; totals → **238 sources | 123 disease scripts | 21 diagnostic schemas | 4 general procedures | 24 advanced procedures | 27 meds | 43 concepts | 1 synthesis** (as of 2026-07-26); frontmatter date bumped.
+- Whole-wiki scan after edits: **0 broken links, 0 duplicate basenames**.
+- No untracked files under `raw/` (inbox sync had no new arrivals this pass).
+
+**Flagged for user / future passes (not fixed — no outside info used):**
+- **Remaining uningested AGA CPU backlog (6, guideline tier):** AI in Colon Polyp Diagnosis & Management (2023), Advances in POEM (2024), Esophageal Dysfunction from Immunity & Infection (2024), Tailored Polypectomy (2024) — plus IBD-in-Malignancy & Pregnancy done this pass. Reported, not ingested (2-file cap).
+- **Missing entity pages surfaced by ACPO/volvulus validation:** `neostigmine` (med — ASGE 2020 supports it), `large-bowel-obstruction` (schema), `toxic-megacolon`, `percutaneous-endoscopic-colostomy`, `flexible-sigmoidoscopy` — highest value: a `neostigmine` med page. Left as plain text.
+- **Med stubs surfaced by Pregnancy CPU** (ursodeoxycholic-acid, doxylamine, pyridoxine, ondansetron, tenofovir): written as plain text, no stubs created (avoid link-to-nonexistent-page).
+- **No ICI-colitis page** (only `[[immune-checkpoint-inhibitor-hepatitis]]`); this CPU covers ICI colitis only tangentially — needs a dedicated AGA ICI colitis/hepatitis source.
+- Lecture/chalk-talk transcripts remain **gated** — 60 available, not auto-ingested; awaiting user selection by name.
+
+---
+
 ## [2026-07-24] lint | Ingested 2 AGA CPUs (PVT-in-cirrhosis + IDA management); new iron-deficiency-anemia disease script + APC stub; PVT page given AGA-2025 CTP-class AC table; stalest anorectal pages validated; index reconciled (234 sources); 0 broken links
 
 **Sources ingested (2 — guideline/CPU tier, per ingestion priority; all 5 RCTs and both non-lecture backlog RCTs already ingested; no lectures auto-ingested):**

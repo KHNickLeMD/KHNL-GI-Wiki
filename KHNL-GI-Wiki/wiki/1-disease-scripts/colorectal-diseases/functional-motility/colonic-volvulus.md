@@ -3,7 +3,7 @@ title: "Colonic Volvulus"
 category: disease-script
 tags: [colonic-volvulus, sigmoid-volvulus, cecal-volvulus, large-bowel-obstruction, detorsion, colonoscopy]
 created: 2026-06-22
-updated: 2026-07-16
+updated: 2026-07-26
 sources: [asge-2020-acpo-volvulus]
 ---
 
@@ -26,12 +26,12 @@ Mechanical **twisting (torsion) of a redundant colon segment along its mesenteri
 - Risk factors: long redundant colon with narrow mesenteric attachment, [[chronic-idiopathic-constipation|chronic constipation]], colonic dysmotility, prior abdominal surgery
 
 ### Classification
-- **Sigmoid volvulus** — most common; older patients, institutionalized/neurologic/constipated
+- **Sigmoid volvulus** — most common; adult men >70 yr, African Americans, diabetes/neuropsychiatric disorders, institutionalized/constipated
 - **Cecal volvulus** — younger females; behaves differently (surgery-first)
 
 ## Differential Diagnosis
 *Workup: see [[nausea-and-vomiting]] for the broader obstruction evaluation.*
-- Mechanical large-bowel obstruction (malignancy, stricture)
+- Mechanical large-bowel obstruction ([[colorectal-cancer|malignancy]], stricture)
 - [[acute-colonic-pseudo-obstruction]] (functional, no twist)
 - Small-bowel obstruction
 
@@ -43,7 +43,7 @@ Mechanical **twisting (torsion) of a redundant colon segment along its mesenteri
 
 | Type | Initial management | Notes |
 |---|---|---|
-| **Uncomplicated sigmoid volvulus** | **Endoscopic detorsion** (flexible sigmoidoscopy) ± decompression-tube placement | First-line; tube maintains reduction and lowers recurrence |
+| **Uncomplicated sigmoid volvulus** | **Endoscopic detorsion** (flexible sigmoidoscopy) ± decompression-tube placement | First-line; detorsion success ~55–94%; tube maintains reduction and lowers recurrence. Absence of abdominal tenderness, laxative use, and prior open abdominal surgery predict successful detorsion |
 | **Sigmoid volvulus (all)** | + **Surgical consult during index admission** | Recurrence after nonoperative decompression up to **84–86%**; elective **sigmoid colectomy** generally recommended on index admission given high recurrence morbidity/mortality |
 | **Cecal volvulus** | **Surgery first; avoid endoscopy** | Endoscopic reduction rarely effective + high perforation risk |
 | **Any volvulus + perforation/peritonitis** | **Surgery** | — |

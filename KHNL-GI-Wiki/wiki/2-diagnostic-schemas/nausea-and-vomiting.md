@@ -3,7 +3,7 @@ title: "Nausea and Vomiting"
 category: diagnostic-schema
 tags: [nausea, vomiting, gastroparesis, cyclic-vomiting, cannabinoid-hyperemesis, motility, foregut]
 created: 2026-06-04
-updated: 2026-07-16
+updated: 2026-07-26
 sources: []
 ---
 
@@ -35,7 +35,7 @@ Duration frames the differential: **acute** (<1 week — usually infection, drug
 
 ### Metabolic / Endocrine / Drugs
 
-- **Pregnancy** (always test in reproductive-age women — hyperemesis gravidarum; see [[liver-disease-in-pregnancy]] for the hepatic overlap)
+- **Pregnancy** (always test in reproductive-age women) — [[nausea-and-vomiting-of-pregnancy|nausea/vomiting of pregnancy & hyperemesis gravidarum]]; see [[liver-disease-in-pregnancy]] for the hepatic overlap
 - DKA, uremia, hypercalcemia, adrenal insufficiency, thyroid disease
 - **Drugs/toxins** — opioids, chemotherapy, digoxin, antibiotics, NSAIDs, dopamine agonists, GLP-1 agonists; alcohol
 - Postoperative nausea/vomiting
@@ -100,4 +100,4 @@ flowchart TD
 
 ## See Also
 
-[[gastroparesis]], [[cyclic-vomiting-syndrome]], [[cannabinoid-hyperemesis-syndrome]], [[dyspepsia]], [[gerd]], [[peptic-ulcer-disease]], [[gastric-adenocarcinoma]], [[achalasia]], [[rumination-syndrome]], [[acute-pancreatitis]], [[choledocholithiasis]], [[upper-endoscopy]], [[upper-gi-bleeding]], [[acute-diarrhea]], [[norovirus]], [[liver-disease-in-pregnancy]], [[disorders-of-gut-brain-interaction]], [[small-bowel-motility]], [[acute-colonic-pseudo-obstruction]], [[colonic-volvulus]]
+[[gastroparesis]], [[cyclic-vomiting-syndrome]], [[cannabinoid-hyperemesis-syndrome]], [[nausea-and-vomiting-of-pregnancy]], [[dyspepsia]], [[gerd]], [[peptic-ulcer-disease]], [[gastric-adenocarcinoma]], [[achalasia]], [[rumination-syndrome]], [[acute-pancreatitis]], [[choledocholithiasis]], [[upper-endoscopy]], [[upper-gi-bleeding]], [[acute-diarrhea]], [[norovirus]], [[liver-disease-in-pregnancy]], [[disorders-of-gut-brain-interaction]], [[small-bowel-motility]], [[acute-colonic-pseudo-obstruction]], [[colonic-volvulus]]

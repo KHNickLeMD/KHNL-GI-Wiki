@@ -79,7 +79,7 @@ ICI hepatotoxicity is an **immune-related adverse event (irAE)** of PD-1/PD-L1 i
 
 ## See Also
 
-[[drug-induced-liver-injury]], [[autoimmune-hepatitis]], [[abnormal-liver-chemistries]], [[hepatocellular-carcinoma]], [[tacrolimus]], [[acute-liver-failure]]
+[[drug-induced-liver-injury]], [[autoimmune-hepatitis]], [[abnormal-liver-chemistries]], [[hepatocellular-carcinoma]], [[tacrolimus]], [[acute-liver-failure]], [[ibd-in-malignancy]]
 
 ---
 

@@ -15,7 +15,7 @@ sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
 
 - Ill, febrile patient with frequent scant **bloody stools**, cramps, and tenesmus (dysentery).
 - **Stool culture / multiplex GI PCR** confirms; *Shigella* is a **notifiable** pathogen — submit isolate. [[idsa-2017-infectious-diarrhea]]
-- Apply **Shiga-toxin–aware diagnostics** when *S. dysenteriae* type 1 is possible (produces Shiga toxin → [[hemolytic-uremic-syndrome|HUS]]).
+- Apply **Shiga-toxin–aware diagnostics** when *S. dysenteriae* type 1 is possible (produces Shiga toxin → hemolytic uremic syndrome, HUS).
 
 ### Severity Assessment
 
@@ -55,7 +55,7 @@ sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
 
 ## See Also
 
-[[acute-diarrhea]], [[salmonella-infection]], [[campylobacter-infection]], [[enterotoxigenic-e-coli]], [[rifaximin]], [[loperamide]], [[inflammatory-bowel-disease]], [[hemolytic-uremic-syndrome]]
+[[acute-diarrhea]], [[salmonella-infection]], [[campylobacter-infection]], [[enterotoxigenic-e-coli]], [[rifaximin]], [[loperamide]], [[inflammatory-bowel-disease]]
 
 ---
 

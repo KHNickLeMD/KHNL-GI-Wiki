@@ -3,8 +3,8 @@ title: "Ulcerative Colitis"
 category: disease-script
 tags: [uc, ulcerative-colitis, ibd, 5-asa, biologics, anti-tnf, vedolizumab, asuc, pancolitis, proctitis]
 created: 2026-05-07
-updated: 2026-07-25
-sources: [acg-2025-uc, aga-2024-uc-pharm, aga-2024-pouchitis, aga-2023-biomarkers-uc, acg-2019-uc, asge-2015-scenic-ibd-dysplasia, asge-2015-ibd, aga-2026-inpatient-ibd, aga-2024-intestinal-ultrasound, aga-2024-diet-nutrition-ibd]
+updated: 2026-07-26
+sources: [acg-2025-uc, aga-2024-uc-pharm, aga-2024-pouchitis, aga-2023-biomarkers-uc, acg-2019-uc, asge-2015-scenic-ibd-dysplasia, asge-2015-ibd, aga-2026-inpatient-ibd, aga-2024-intestinal-ultrasound, aga-2024-diet-nutrition-ibd, aga-2024-ibd-malignancy, aga-2024-pregnancy-gi-liver]
 ---
 
 # Ulcerative Colitis
@@ -311,6 +311,14 @@ Idiopathic chronic inflammatory disorder of the large intestine. Continuous muco
 
 **5-ASA and advanced therapies:** Do NOT add 5-ASA for efficacy when using biologics/JAK inhibitors
 
+**Malignancy & IBD drugs:** Colitis-associated [[colorectal-cancer|CRC]] risk ~1%/2%/5% at 10/20/>20 y (field cancerization → dysplasia surveillance). When a cancer develops or there is a prior-cancer history, manage IBD medications per [[ibd-in-malignancy]] — thiopurines (lymphoma/NMSC) and anti-TNF (melanoma; combo → hepatosplenic T-cell lymphoma) are the drugs of concern; vedolizumab/anti–IL-23/JAK/S1P show no malignancy signal; prior-cancer history alone does not mandate withholding effective therapy.
+
+**Pregnancy** (AGA 2024 CPU; full context [[liver-disease-in-pregnancy]], NVP overlap [[nausea-and-vomiting-of-pregnancy]]):
+
+- **Remission before conception, throughout pregnancy, and postpartum is essential** — active UC → ↑ preterm birth, low birth weight, growth retardation, hypertensive disease, cesarean; UC tends to exacerbate during pregnancy more than CD (BPA 7). MFM consult for every patient; complex births at a tertiary center (BPA 3).
+- **Continue biologics** throughout; **stop methotrexate, thalidomide, and ozanimod ≥6 months before conception** (BPA 7). Mesalamine/sulfasalazine (+ folic acid 1 mg BID) and thiopurines safe; anti-TNF cross placenta after ~20 wk → **no live vaccines to infant for first 6 months**; certolizumab does not cross placenta. Most meds compatible with breastfeeding.
+- Monitoring: fecal calprotectin each trimester; [[intestinal-ultrasound]]; MRI **without gadolinium**; **unsedated flexible sigmoidoscopy preferred** over colonoscopy; elective endoscopy deferred to postpartum, nonemergent → 2nd trimester (BPA 6).
+
 ---
 
 ## Syntheses
@@ -319,7 +327,7 @@ Idiopathic chronic inflammatory disorder of the large intestine. Continuous muco
 
 ## See Also
 
-[[crohns-disease]], [[inflammatory-bowel-disease]], [[uc-vs-crohns-comparison]], [[ibd-preventive-care]], [[ibd-endoscopic-scoring]], [[intestinal-ultrasound]], [[clostridioides-difficile]], [[primary-sclerosing-cholangitis]], [[colorectal-cancer]], [[colonoscopy]], [[colon-ischemia]], [[microscopic-colitis]], [[radiation-proctopathy]], [[pouchitis]], [[chronic-diarrhea]], [[nutrition-in-ibd]]
+[[crohns-disease]], [[inflammatory-bowel-disease]], [[uc-vs-crohns-comparison]], [[ibd-preventive-care]], [[ibd-endoscopic-scoring]], [[intestinal-ultrasound]], [[clostridioides-difficile]], [[primary-sclerosing-cholangitis]], [[colorectal-cancer]], [[colonoscopy]], [[colon-ischemia]], [[microscopic-colitis]], [[radiation-proctopathy]], [[pouchitis]], [[chronic-diarrhea]], [[nutrition-in-ibd]], [[ibd-in-malignancy]], [[liver-disease-in-pregnancy]], [[nausea-and-vomiting-of-pregnancy]]
 
 ---
 
@@ -335,3 +343,5 @@ Idiopathic chronic inflammatory disorder of the large intestine. Continuous muco
 8. [[aga-2026-inpatient-ibd|AGA Clinical Practice Update on Inpatient Management of Adults With Inflammatory Bowel Disease: Expert Review (2026)]]
 9. [[aga-2024-intestinal-ultrasound|AGA Clinical Practice Update on the Role of Intestinal Ultrasound in Inflammatory Bowel Disease: Commentary (2024)]]
 10. [[aga-2024-diet-nutrition-ibd|AGA Clinical Practice Update on Diet and Nutritional Therapies in Patients With IBD: Expert Review (2024)]]
+11. [[aga-2024-ibd-malignancy|AGA Clinical Practice Update on Management of IBD in Patients With Malignancy: Commentary (2024)]]
+12. [[aga-2024-pregnancy-gi-liver|AGA Clinical Practice Update on Pregnancy-Related Gastrointestinal and Liver Disease: Expert Review (2024)]]
