@@ -6,6 +6,17 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-07-26] update | Visual expansion of polypectomy-emr: 11 source figures embedded; new Style Guide rule for endoscopic classifications
+
+**Page updated:**
+- `[[polypectomy-emr]]` — 11 figures captured at 300 dpi from already-ingested PDFs and embedded with captions: Paris classification (schematic + endoscopic examples), LST-G vs LST-NG, NICE types 1–3 with NBI images, SSL-like features (WASP), non-lifting sign, colorectal lesion management algorithm, cancer depth/AJCC T staging, Kudo pit pattern I–VN, malignant polyp algorithm, Haggitt levels, Kikuchi SM1–3.
+
+**Assets added:** `raw/assets/polypectomy-2020-*.png` (6, from [[usmstf-2020-endoscopic-removal]]), `raw/assets/malignant-polyp-2020-*.png` (5, from [[usmstf-2020-malignant-colorectal-polyps]]).
+
+**Schema change:** CLAUDE.md Style Guide → Images gained a required rule — endoscopic diagnoses and visual classification/grading systems must embed the source's diagrams and example images, not just the criteria table (Nick, 2026-07-26).
+
+---
+
 ## [2026-07-26] lint | Ingested 2 AGA 2024 CPUs (IBD-in-Malignancy + Pregnancy-Related GI & Liver); new ibd-in-malignancy concept + ICP/AFLP/NVP-of-pregnancy disease scripts; stalest ACPO/volvulus decision-gaps fixed; index reconciled (238 sources); 0 broken links
 
 **Sources ingested (2 — guideline/CPU tier, per ingestion priority; the only uningested non-lecture backlog is 6 AGA CPUs — see below; no lectures auto-ingested):**

@@ -3,7 +3,7 @@ title: "Polypectomy and EMR (Colorectal)"
 category: advanced-procedure
 tags: [polypectomy, emr, esd, cold-snare, colonoscopy, colorectal, advanced-polypectomy, malignant-polyp, submucosal-invasion, haggitt, kikuchi, tumor-budding, lymphovascular-invasion]
 created: 2026-05-07
-updated: 2026-07-25
+updated: 2026-07-26
 sources: [usmstf-2020-endoscopic-removal, asge-2020-endoscopic-removal, usmstf-2020-malignant-colorectal-polyps, usmstf-2020-followup-colonoscopy, aga-2025-lifting-agents, aga-2025-endoscopic-resection-crc]
 ---
 
@@ -32,6 +32,9 @@ sources: [usmstf-2020-endoscopic-removal, asge-2020-endoscopic-removal, usmstf-2
 
 - 0-IIc: 27–36% SMI risk; virtually all >20mm 0-IIc lesions have SMI
 
+![[polypectomy-2020-paris-classification-07.png|700x479]]
+*Figure 1 — Paris Endoscopic Classification of superficial (type 0) neoplastic lesions of the colon and rectum: schematic profile of each subtype with matching white-light/chromoendoscopy examples of 0-Is, 0-IIa, and 0-IIc. ([[usmstf-2020-endoscopic-removal]])*
+
 ### Laterally Spreading Tumors (LSTs, ≥10mm)
 
 | Subtype | SMI Risk |
@@ -41,18 +44,35 @@ sources: [usmstf-2020-endoscopic-removal, asge-2020-endoscopic-removal, usmstf-2
 | LST-NG-FE (non-granular flat elevated) | Higher |
 | LST-NG-PD (non-granular pseudodepressed) | ~31.6% |
 
+![[polypectomy-2020-lst-subtypes-08.png|450x330]]
+*Figure 2 — Laterally spreading tumors: granular type (LST-G) with nodular surface (a, b) vs non-granular type (LST-NG) with smooth surface (c, d). The macroscopic distinction predicts cancer risk and submucosal fibrosis, and therefore the difficulty of resection. ([[usmstf-2020-endoscopic-removal]])*
+
 ### Optical Diagnosis
 
 - **NICE classification:**
   - Type 1 = serrated (HP/SSL); can leave rectosigmoid lesions ≤5mm
   - Type 2 = adenoma; remove
   - Type 3 = deep SMI (>1000μm) → biopsy + tattoo + surgical referral
+
+![[polypectomy-2020-nice-classification-09.png|700x448]]
+*Figure 3 — NICE classification (NBI, non-magnified): color, vessel, and surface-pattern criteria for types 1–3 with representative NBI images of each. ([[usmstf-2020-endoscopic-removal]])*
+
 - **WASP criteria:** adds 4 SSL features to NICE for serrated vs HP distinction
+
+![[polypectomy-2020-ssl-features-10.png|450x363]]
+*Figure 4 — Sessile serrated lesion–like features used within NICE type 1: (a) clouded surface, (b) indistinct borders, (c) irregular shape, (d) dark spots inside the crypts. ≥2 features = SSL rather than hyperplastic. ([[usmstf-2020-endoscopic-removal]])*
+
 - Non-lifting sign = SMI or fibrosis (prior polypectomy cautery, colitis)
+
+![[polypectomy-2020-nonlifting-sign-15.png|700x413]]
+*Figure 5 — Non-lifting lesions: the lesion infolds while surrounding normal submucosa expands. Non-lifting from submucosal invasion (a–c); from fibrosis in an LST-NG (d) or prior polypectomy cautery (e, f). ([[usmstf-2020-endoscopic-removal]])*
 
 ---
 
 ## Resection by Lesion Size and Type
+
+![[polypectomy-2020-management-algorithm-11.png|700x534]]
+*Figure 6 — Management algorithm for colorectal lesions by morphology, size, and suspected submucosal invasion. ([[usmstf-2020-endoscopic-removal]])*
 
 ### ≤5mm (Diminutive)
 
@@ -188,6 +208,9 @@ sources: [usmstf-2020-endoscopic-removal, asge-2020-endoscopic-removal, usmstf-2
 
 A **malignant polyp** is a colorectal polyp with neoplastic invasion of the submucosa without extension into the muscularis propria (pT1). Synonymous term: *submucosally invasive lesion*. Prevalence of cancer in colorectal polyps: 0.2–5%. Lesions with high-grade dysplasia confined to the epithelium, lamina propria, or muscularis mucosae (Vienna 4 / "Tis") have no LNM risk and do not require surgical referral.
 
+![[malignant-polyp-2020-cancer-depth-ajcc-02.png|450x219]]
+*Figure 7 — Cancer depth and AJCC T classification: Tis (intramucosal) through T4, showing that a malignant polyp is T1 — through the muscularis mucosae into submucosa, not into muscularis propria. ([[usmstf-2020-malignant-colorectal-polyps]])*
+
 ### Endoscopic Features Predicting Deep Submucosal Invasion (≥1 mm)
 
 **Recommendation 1a (Strong; high-quality evidence):** Both pedunculated and nonpedunculated polyps with NICE type 3 or Kudo type V (VN and VI) should be considered to have deep submucosal invasion.
@@ -202,6 +225,9 @@ A **malignant polyp** is a colorectal polyp with neoplastic invasion of the subm
 
 **NICE 3 accuracy data:** 94% accuracy, 96% negative predictive value for deep SMI (meta-analysis, 80 images, 5 expert endoscopists).
 **Kudo VN data:** Meta-analysis of 20 studies — pooled sensitivity 90.4%, pooled specificity 88.4%.
+
+![[malignant-polyp-2020-kudo-pit-pattern-05.png|560x793]]
+*Figure 8 — Kudo pit pattern classification (chromoendoscopy): types I–VN with schematic and endoscopic examples; VI (irregular) and VN (amorphous/pit loss) indicate deep submucosal invasion. ([[usmstf-2020-malignant-colorectal-polyps]])*
 
 ### Morphology Features Predicting Superficial (but elevated) SMI Risk
 
@@ -220,6 +246,9 @@ A **malignant polyp** is a colorectal polyp with neoplastic invasion of the subm
 
 - **Nonpedunculated with NICE 3 / Kudo V:** Biopsy (at area of surface feature disruption) + tattoo (unless in/near cecum) + surgical referral. Do not attempt endoscopic resection.
 - **Pedunculated with deep SMI features:** Endoscopic polypectomy is still appropriate (histologic features may still be favorable after resection).
+
+![[malignant-polyp-2020-management-algorithm-11.png|700x752]]
+*Figure 9 — Algorithm for malignant polyp assessment and management, from optical diagnosis (NICE/Kudo) and morphology through resection technique, histologic criteria, and surveillance vs surgical evaluation. ([[usmstf-2020-malignant-colorectal-polyps]])*
 
 ### En Bloc Resection for Superficial SMI Risk (Recommendation 2b, Weak; low-quality evidence)
 
@@ -243,6 +272,9 @@ A **malignant polyp** is a colorectal polyp with neoplastic invasion of the subm
 - Haggitt level 4: 27% LNM prevalence; equivalent to all nonpedunculated malignant lesions (limited utility for sessile/flat polyps).
 - **Clinical note:** Pedunculated polyps are transected through the stalk endoscopically; in practice, clinicians rely on resection margin width rather than Haggitt level.
 
+![[malignant-polyp-2020-haggitt-09.png|700x411]]
+*Figure 10 — Haggitt levels 0–4 in a pedunculated adenoma (left) vs a sessile adenoma (right); a sessile lesion with submucosal invasion is Haggitt level 4 by definition. ([[usmstf-2020-malignant-colorectal-polyps]])*
+
 ### Kikuchi Classification (Sessile/Flat Polyps — Depth of Submucosal Invasion)
 
 | Level | Invasion Depth | LNM Risk |
@@ -250,6 +282,9 @@ A **malignant polyp** is a colorectal polyp with neoplastic invasion of the subm
 | SM1 | Superficial 1/3 of submucosa | 1–3% |
 | SM2 | Middle 1/3 | 8% |
 | SM3 | Deepest 1/3 | 23% |
+
+![[malignant-polyp-2020-kikuchi-09.png|700x155]]
+*Figure 11 — Kikuchi levels of submucosal invasion in a sessile lesion: (a) SM1, (b) SM2, (c) SM3. ([[usmstf-2020-malignant-colorectal-polyps]])*
 
 - **In practice:** SM level is often indeterminate in endoscopic resection specimens (muscularis propria absent). Use optical micrometer depth measurement: <1 mm = superficial (SM1 equivalent); ≥1 mm = deep SMI (SM2/3 equivalent) → surgical referral.
 - Meta-analysis (n=7376 polyps): deep SMI (>1 mm) → LNM OR 3.00 (95% CI 1.36–6.62).

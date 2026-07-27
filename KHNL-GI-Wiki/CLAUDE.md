@@ -18,7 +18,7 @@ You maintain a persistent, compounding wiki of GI knowledge. You are not a chatb
 ├── raw/                                 ← Immutable source documents (never modify)
 │   │                                       ⚠ Files must ALWAYS be in a subfolder — never directly in raw/
 │   ├── GI Guidelines/                   ← Published guidelines (subfoldered by society: ACG, AGA, ASGE, AASLD, Other, SAGES)
-│   ├── GI Lectures:Chalk Talks/         ← Lecture transcripts and chalk talk notes
+│   ├── GI Lectures+Chalk Talks/         ← Lecture transcripts and chalk talk notes
 │   ├── GI RCTs/                         ← Primary research / RCTs
 │   └── assets/                          ← Downloaded images referenced in wiki pages
 ├── wiki/                                ← LLM-maintained wiki (you own this layer)
@@ -272,6 +272,7 @@ flowchart TD
   1. Render the source PDF page and crop the figure precisely. Tooling: PyMuPDF (`fitz`) — open the PDF, use `page.get_image_rects(xref)` (or the figure's text-block bounds) to get the bounding box, then `page.get_pixmap(matrix=fitz.Matrix(300/72,300/72), clip=rect).save(out)`. Render at ~300 dpi.
   2. Save to `raw/assets/` named `<topic>-<year>-<descriptor>-<pagenum>.png` (e.g. `achalasia-2020-chicago-subtypes-05.png`).
   3. Embed it in the relevant section with a sizing hint and an italic caption that names the figure and cites the source: `![[file.png|700x183]]` then `*Figure N — caption. ([[source-slug]])*`.
+- **Endoscopic appearance — always capture the pictures (required).** For any page covering an **endoscopic diagnosis, lesion classification, or grading system where the diagnosis is made by looking** (Paris, NICE, Kudo, JNET, LST subtypes, Forrest, Los Angeles, Prague, Kudo/Haggitt/Kikuchi depth schematics, endoscopic severity scores), the criteria table is not enough — embed the source's **diagrams and endoscopic example images** showing what each class actually looks like. Extract them from an ingested source PDF with the figure-capture mechanics above. If no ingested source has the image, note the gap and ask before going outside. (Nick, 2026-07-26.)
 - **Tables: recreate, don't screenshot.** When a source has a **clinically relevant table**, reproduce it as a native Markdown table (so it renders/searches/links cleanly) rather than screenshotting it. Screenshot only figures/algorithms that cannot be faithfully rendered as text.
 
 ---
