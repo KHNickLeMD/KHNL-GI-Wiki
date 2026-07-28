@@ -333,7 +333,7 @@ No single pathognomonic test. Diagnosis = integration of:
 
 **Symptoms do not correlate with mucosal inflammation** — always confirm with objective assessment (endoscopy, CRP, FC) before treatment decisions.
 
-**Exclude before escalating:** C. difficile (up to 5× risk vs general population), CMV, NSAID use, SIBO, dietary intolerance, anxiety/depression.
+**Exclude before escalating:** C. difficile (up to 5× risk vs general population), CMV, NSAID use, [[small-intestinal-bacterial-overgrowth|SIBO]], dietary intolerance, anxiety/depression.
 
 ---
 

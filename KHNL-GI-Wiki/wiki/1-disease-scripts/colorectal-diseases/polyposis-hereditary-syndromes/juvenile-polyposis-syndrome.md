@@ -100,7 +100,7 @@ Juvenile polyposis syndrome (JPS) is an autosomal-dominant hamartomatous polypos
 
 ### Monitoring
 
-- **Annual complete blood count** to monitor for iron deficiency anemia (a frequent complication of JPS)
+- **Annual complete blood count** to monitor for [[iron-deficiency-anemia|iron deficiency anemia]] (a frequent complication of JPS)
 - Post-surgical surveillance of remaining rectum or ileal pouch is necessary
 
 ---

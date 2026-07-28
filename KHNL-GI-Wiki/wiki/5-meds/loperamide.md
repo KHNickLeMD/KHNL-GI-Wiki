@@ -33,7 +33,7 @@ Peripheral μ-opioid receptor agonist; antimotility agent. First-line antimotili
 ## Contraindications / Cautions
 
 - **Children <18 y with acute diarrhea — do NOT give** (Strong/Moderate, [[idsa-2017-infectious-diarrhea]]).
-- **Avoid at any age** in suspected or proven cases where **toxic megacolon may result**, in **inflammatory diarrhea**, or **diarrhea with fever** (Strong/Low, [[idsa-2017-infectious-diarrhea]]).
+- **Avoid at any age** in suspected or proven cases where **[[toxic-megacolon|toxic megacolon]] may result**, in **inflammatory diarrhea**, or **diarrhea with fever** (Strong/Low, [[idsa-2017-infectious-diarrhea]]).
 - Not given in proven bacterial inflammatory colitis — toxic-megacolon risk, though very rare in properly treated patients ([[acg-2016-acute-diarrhea]]).
 
 ## See Also

@@ -115,7 +115,7 @@ Per AGA 2020 [[aga-2020-ida]]:
 | **Portal hypertensive gastropathy (PHG)** | **Oral iron first** (no malabsorptive defect); IV iron if ongoing bleeding/non-response. Consider **nonselective β-blockers** to reduce portal pressure when no other blood-loss source (also [[cirrhosis]]/[[portal-hypertension]]) |
 | **Gastric antral vascular ectasia (GAVE)** | Iron repletion + **endoscopic therapy** if inadequate response — **endoscopic band ligation (EBL)** or thermal ([[argon-plasma-coagulation\|APC]]); EBL favored (fewer sessions, greater transfusion reduction, +0.59 g/dL Hgb) |
 | **[[celiac-disease\|Celiac disease]]** | **Gluten-free diet** is central (restores absorption); oral iron by severity, then **IV iron if stores don't recover**; up to 20% remain iron-deficient despite strict GFD |
-| **Small-bowel [[angioectasia\|angioectasias]]** | **Deep enteroscopy with a distal cap attachment** (improves detection/therapy); treat with **APC or hemostatic clips + iron repletion**. Somatostatin analogues (octreotide > lanreotide) / thalidomide only for **refractory** cases (rebleed: small-bowel 45%) |
+| **Small-bowel [[angioectasia\|angioectasias]]** | **Deep enteroscopy with a distal cap attachment** (improves detection/therapy); treat with **APC or hemostatic clips + iron repletion**. [[somatostatin-analogs\|Somatostatin analogues]] (octreotide > lanreotide) / thalidomide only for **refractory** cases (rebleed: small-bowel 45%) |
 
 ---
 

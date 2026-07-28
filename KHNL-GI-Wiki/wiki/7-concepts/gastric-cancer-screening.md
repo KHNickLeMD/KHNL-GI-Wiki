@@ -9,7 +9,7 @@ sources: [aga-2025-gastric-cancer-screening]
 
 ## Overview
 
-Screening and surveillance framework for **noncardia intestinal-type [[gastric-adenocarcinoma|gastric cancer]] (GC)** in individuals at increased risk in the United States, per the [[aga-2025-gastric-cancer-screening|AGA 2025 CPU]]. There are **no established US GC screening guidelines**; guidance is expert opinion built on largely indirect (East Asian) evidence. **Cardia GC and hereditary diffuse gastric cancer are out of scope.**
+Screening and surveillance framework for **noncardia intestinal-type [[gastric-adenocarcinoma|gastric cancer]] (GC)** in individuals at increased risk in the United States, per the [[aga-2025-gastric-cancer-screening|AGA 2025 CPU]]. There are **no established US GC screening guidelines**; guidance is expert opinion built on largely indirect (East Asian) evidence. **Cardia GC and [[hereditary-diffuse-gastric-cancer|hereditary diffuse gastric cancer]] are out of scope.**
 
 Two-pronged prevention:
 
@@ -28,7 +28,7 @@ Per [[aga-2025-gastric-cancer-screening]], no universal screening — a **person
 - **Family history of GC in a first-degree relative** (begin screening 10 years earlier than the youngest affected relative)
 - **Non-White racial/ethnic groups** with established moderate-to-high GC incidence (noncardia GC incidence 2- to >10-fold higher than non-Hispanic White; Korean Americans ≥50 up to 14.5-fold higher)
 - **Chronic H. pylori infection AND ≥1 of:** >20 pack-year tobacco use; chronic high-salt / red-processed-meat diet; living under persistent US poverty (≥20% of residents below federal poverty level over a 4-decade period)
-- **Hereditary GI polyposis / cancer syndromes** — FAP, Peutz-Jeghers, juvenile polyposis, MUTYH-associated polyposis, gastric adenocarcinoma and proximal polyposis of the stomach (GAPPS); Lynch, hereditary breast/ovarian cancer, Li-Fraumeni
+- **Hereditary GI polyposis / cancer syndromes** — [[familial-adenomatous-polyposis|FAP]], [[peutz-jeghers-syndrome|Peutz-Jeghers]], [[juvenile-polyposis-syndrome|juvenile polyposis]], [[mutyh-associated-polyposis|MUTYH-associated polyposis]], gastric adenocarcinoma and proximal polyposis of the stomach (GAPPS); [[lynch-syndrome|Lynch]], hereditary breast/ovarian cancer, Li-Fraumeni
 
 **Age of initiation:** ~**45 years** proposed (aligns with average-risk [[colorectal-cancer-screening|CRC screening]] → [[upper-endoscopy|EGD]] at time of screening [[colonoscopy]]; mirrors high-risk-country eligibility: South Korea ≥40, Japan 40–50). Optimal age not evidence-established. Individualize earlier for hereditary syndromes and first-degree family history.
 

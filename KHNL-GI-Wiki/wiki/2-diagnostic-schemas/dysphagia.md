@@ -3,7 +3,7 @@ title: "Dysphagia"
 category: diagnostic-schema
 tags: [dysphagia, esophageal, oropharyngeal, motility, achalasia, eosinophilic-esophagitis, odynophagia, globus]
 created: 2026-06-04
-updated: 2026-07-25
+updated: 2026-07-28
 sources: []
 ---
 
@@ -61,11 +61,16 @@ The single most useful historical discriminator in esophageal dysphagia is **sol
 - **EGJ outflow obstruction (EGJOO)** — manometric pattern requiring corroboration with [[flip-panometry|FLIP]]/timed barium and symptoms
 - **[[distal-esophageal-spasm]]** — premature contractions; dysphagia + chest pain
 - **[[hypercontractile-esophagus]]** (jackhammer) and **[[ineffective-esophageal-motility]]**
-- Scleroderma / systemic sclerosis — absent peristalsis + hypotensive LES, severe reflux
+- [[esophageal-dysfunction-systemic-disease|Scleroderma / systemic sclerosis]] — absent peristalsis + hypotensive LES, severe reflux
 
 **Mucosal / inflammatory:**
 
-- Erosive esophagitis from [[gerd]]; infectious esophagitis (Candida, HSV, CMV — especially immunocompromised; usually odynophagia); pill esophagitis (doxycycline, bisphosphonates, NSAIDs, KCl)
+- Erosive esophagitis from [[gerd]]; [[infectious-esophagitis|infectious esophagitis]] (Candida, HSV, CMV — especially immunocompromised; usually odynophagia); pill esophagitis (doxycycline, bisphosphonates, NSAIDs, KCl)
+
+**Immune-mediated / systemic (often nonspecific endoscopy — high index of suspicion):**
+
+- [[lymphocytic-esophagitis|Lymphocytic esophagitis]] — women >60, rings/stricture, dysphagia
+- [[esophageal-dysfunction-systemic-disease|Esophageal manifestations of systemic disease]] — connective tissue disease (SSc, MCTD, SLE, Sjögren's, myositis), esophageal [[crohns-disease|Crohn's]], hypereosinophilic syndrome/EGPA, and dermatologic disease (esophageal lichen planus, pemphigus vulgaris)
 
 ---
 
@@ -122,4 +127,4 @@ Prompt expedited [[upper-endoscopy|EGD]] (and raise concern for malignancy):
 
 ## See Also
 
-[[eosinophilic-esophagitis]], [[achalasia]], [[gerd]], [[esophageal-cancer]], [[barretts-esophagus]], [[distal-esophageal-spasm]], [[hypercontractile-esophagus]], [[ineffective-esophageal-motility]], [[high-resolution-manometry]], [[chicago-classification-v4]], [[flip-panometry]], [[upper-endoscopy]], [[laryngopharyngeal-symptoms]], [[disorders-of-gut-brain-interaction]], [[iron-deficiency-anemia]]
+[[eosinophilic-esophagitis]], [[infectious-esophagitis]], [[lymphocytic-esophagitis]], [[esophageal-dysfunction-systemic-disease]], [[achalasia]], [[gerd]], [[esophageal-cancer]], [[barretts-esophagus]], [[distal-esophageal-spasm]], [[hypercontractile-esophagus]], [[ineffective-esophageal-motility]], [[high-resolution-manometry]], [[chicago-classification-v4]], [[flip-panometry]], [[upper-endoscopy]], [[laryngopharyngeal-symptoms]], [[disorders-of-gut-brain-interaction]], [[iron-deficiency-anemia]]

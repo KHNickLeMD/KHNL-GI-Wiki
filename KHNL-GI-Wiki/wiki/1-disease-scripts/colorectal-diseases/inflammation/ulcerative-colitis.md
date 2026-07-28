@@ -229,7 +229,7 @@ Idiopathic chronic inflammatory disorder of the large intestine. Continuous muco
 
 1. **Exclude C. difficile** (stool toxin PCR)
 2. **Flexible sigmoidoscopy within 24–72h** (CMV biopsies; endoscopic severity)
-3. **Assess for toxic megacolon** (colon >6cm on imaging, systemic toxicity)
+3. **Assess for [[toxic-megacolon|toxic megacolon]]** (colon >6cm on imaging, systemic toxicity)
 4. **Supportive care:**
    - DVT prophylaxis (pharmacologic)
    - Avoid NSAIDs, narcotics, anticholinergics

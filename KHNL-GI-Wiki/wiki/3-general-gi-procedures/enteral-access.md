@@ -45,7 +45,7 @@ sources: [aga-2025-endoscopic-enteral-access]
 |---|---|
 | Impaired nutrient intake (neurologic) | Post-CVA, motor neuron disease, multiple sclerosis, Parkinson's, unconscious/ventilated, cerebral palsy, select dementia |
 | Upper GI obstruction / motility disorder | Head & neck cancer; head/maxillofacial/mandibular/dental/neck trauma; radiation stomatitis; [[esophageal-cancer]]; esophageal stricture; esophageal dysmotility; chronic intestinal pseudo-obstruction; [[gastroparesis]]; superior mesenteric artery syndrome |
-| Altered intestinal anatomy | Bariatric or foregut surgery with impaired intake |
+| Altered intestinal anatomy | [[bariatric-surgery\|Bariatric]] or foregut surgery with impaired intake |
 | Psychiatric | Anorexia nervosa |
 | Increased metabolic requirements | Critical illness, cancer, burn/trauma, cystic fibrosis / chronic lung disease, [[inflammatory-bowel-disease\|IBD]], liver disease, pancreatitis, renal disease |
 | Increased intestinal losses | Short bowel syndrome |

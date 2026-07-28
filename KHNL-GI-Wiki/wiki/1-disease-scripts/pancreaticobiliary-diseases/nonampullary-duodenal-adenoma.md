@@ -9,7 +9,7 @@ sources: [aga-2025-nonampullary-duodenal]
 
 # Nonampullary Duodenal Adenoma
 
-**Nonampullary duodenal adenomas (DAs)** are premalignant epithelial polyps of the duodenum that do **not** involve the major papilla (contrast [[ampullary-adenoma|ampullary adenoma]]). Nonampullary duodenal polyps are found in up to **5% of upper endoscopies** — mostly incidental in asymptomatic patients — and **adenomas make up 10%–20%** of them. DAs occur **sporadically** (up to 0.5% of patients) or with a polyposis syndrome ([[familial-adenomatous-polyposis|FAP]], *MUTYH*-associated polyposis). Most contain only low-grade dysplasia, but **up to 20% progress to high-grade dysplasia (HGD) and ~5% to cancer**, so endoscopic resection is generally recommended.
+**Nonampullary duodenal adenomas (DAs)** are premalignant epithelial polyps of the duodenum that do **not** involve the major papilla (contrast [[ampullary-adenoma|ampullary adenoma]]). Nonampullary duodenal polyps are found in up to **5% of upper endoscopies** — mostly incidental in asymptomatic patients — and **adenomas make up 10%–20%** of them. DAs occur **sporadically** (up to 0.5% of patients) or with a polyposis syndrome ([[familial-adenomatous-polyposis|FAP]], [[mutyh-associated-polyposis|*MUTYH*-associated polyposis]]). Most contain only low-grade dysplasia, but **up to 20% progress to high-grade dysplasia (HGD) and ~5% to cancer**, so endoscopic resection is generally recommended.
 
 ## Contents
 - [[#Assessment]]
@@ -56,8 +56,8 @@ Describe every duodenal polyp by **(BPA 3):**
 
 - **Non-neoplastic epithelial:** metaplastic foveolar epithelium, gastric heterotopia, inflammatory/pseudopolyp (bulb-predominant; no resection unless symptomatic/bleeding).
 - **Brunner gland hamartoma:** uncommon, benign, often solitary pedunculated, up to 2–5 cm, from lobular proliferation of Brunner glands. Resection generally unnecessary unless symptomatic or large (>2 cm → obstruction, pain, bleeding); large lesions may cause GI hemorrhage with iron deficiency; rare dysplasia.
-- **Duodenal hamartoma:** associated with [[peutz-jeghers-syndrome|Peutz-Jeghers]], Cowden, juvenile polyposis; solitary PJ-type polyps can occur **without** PJ syndrome — endoscopic resection generally recommended.
-- **[[subepithelial-lesion|Subepithelial lesions]]:** [[gastroenteropancreatic-neuroendocrine-tumors|neuroendocrine tumor]], GIST, lipoma, leiomyoma.
+- **Duodenal hamartoma:** associated with [[peutz-jeghers-syndrome|Peutz-Jeghers]], [[cowden-syndrome|Cowden]], [[juvenile-polyposis-syndrome|juvenile polyposis]]; solitary PJ-type polyps can occur **without** PJ syndrome — endoscopic resection generally recommended.
+- **[[subepithelial-lesion|Subepithelial lesions]]:** [[gastroenteropancreatic-neuroendocrine-tumors|neuroendocrine tumor]], [[gastrointestinal-stromal-tumor|GIST]], lipoma, leiomyoma.
 - **[[ampullary-adenoma|Ampullary adenoma]] / carcinoma** — exclude papillary involvement.
 
 ---

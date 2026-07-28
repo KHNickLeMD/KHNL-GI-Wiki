@@ -1,7 +1,7 @@
 ---
 title: "Wiki Index"
 category: index
-updated: 2026-07-26
+updated: 2026-07-28
 ---
 
 # KHNL GI Encyclopedia — Master Index
@@ -22,7 +22,9 @@ updated: 2026-07-26
 
 #### Esophageal
 
-- [[eosinophilic-esophagitis]] — EoE: ADDT — dysphagia, eosinophilic inflammation, PPI/STC/diet/dupilumab (2 sources)
+- [[eosinophilic-esophagitis]] — EoE: ADDT — dysphagia, eosinophilic inflammation, PPI/STC/diet/dupilumab; persistent symptoms despite remission → evaluate for stricture/motility disorder (AGA 2024) (4 sources)
+- [[infectious-esophagitis]] — Infectious esophagitis: ADDT — Candida (fluconazole 200–400 mg × 14–21 d), HSV (acyclovir/valacyclovir 10–21 d), CMV (ganciclovir up to 6 wk); endoscopic appearance + biopsy/brushing dx; immunocompromise workup (1 source)
+- [[lymphocytic-esophagitis]] — Lymphocytic esophagitis: ADDT — peripapillary lymphocytosis histology, women >60, dx of exclusion (biopsy off PPI, r/o EoE/Crohn's); PPI/topical steroids/dilation (1 source)
 - [[barretts-esophagus]] — Barrett's Esophagus: ADDT — Prague C&M criteria, IM required, dysplasia grading (NDBE/LGD/HGD/IMC), NDBE surveillance by M-length, EET for confirmed LGD+, EMR first for visible lesions, post-CEIM indefinite surveillance (1 source)
 - [[distal-esophageal-spasm]] — DES: Chicago v4.0 — ≥20% premature contractions, DCI >450, normal IRP; POEM for refractory dysphagia-predominant disease (3 sources)
 - [[hypercontractile-esophagus]] — Jackhammer esophagus: Chicago v4.0 — DCI >8000 in ≥20% swallows; not absolute contraindication to ARS if objective GERD (3 sources)
@@ -32,7 +34,7 @@ updated: 2026-07-26
 
 #### GE Junction
 
-- [[achalasia]] — Achalasia: ADDT — HRM/Chicago Classification subtypes (I/II/III), PD/LHM/POEM equivalence, POEM preferred for Type III, botulinum toxin reserve-only, no routine cancer surveillance (1 source)
+- [[achalasia]] — Achalasia: ADDT — HRM/Chicago Classification subtypes (I/II/III), PD/LHM/POEM equivalence, POEM preferred for Type III, botulinum toxin reserve-only, no routine cancer surveillance; secondary/mimic achalasia (COVID/Chagas/eosinophilic) (AGA 2024) (4 sources)
 - [[gerd]] — GERD: ADDT — Lyon Consensus 2.0 diagnostic framework, empiric PPI trial, endoscopic (TIF 2.0/cTIF) and surgical options, extraesophageal manifestations, refractory GERD workup, hiatal hernia size as key decision point, BE risk after sleeve gastrectomy (4 sources)
 
 #### Gastric
@@ -285,6 +287,7 @@ updated: 2026-07-26
 
 ## Concepts
 
+- [[esophageal-dysfunction-systemic-disease]] — Esophageal dysfunction in systemic immune/inflammatory disease: HES/EGPA (AEC >1500), connective-tissue disease (SSc/MCTD/SLE/Sjögren/myositis), esophageal Crohn's, dermatologic (ELP/pemphigus, DIF), secondary achalasia (COVID/Chagas/eosinophilic); high index of suspicion for nonspecific endoscopy (AGA 2024) (1 source)
 - [[li-rads]] — LI-RADS: applicability (cirrhosis / at-risk HBV only), major features (APHE, nonperipheral washout, capsule, threshold growth), LR-5 size criteria, category-by-category management (LR-3 → 3–6 mo imaging; LR-4 → MDD ± biopsy; LR-5 = HCC, no biopsy; LR-M → biopsy mandatory), MRI vs CT performance (3 sources)
 - [[colonoscopy-surveillance]] — Colonoscopy surveillance intervals (USMSTF 2020): adenoma + serrated-polyp + serial-surveillance interval tables; high-quality-exam prerequisite; 1-2 small adenomas extended to 7-10y; definitions (advanced/high-risk adenoma) (1 source)
 - [[hcc-surveillance]] — HCC Surveillance: at-risk populations (Child-Pugh A/B cirrhosis + select non-cirrhotic HBV), semiannual US+AFP (sens 63% vs 51%), CT/MRI not routine, harms, GALAD/biomarkers not yet ready + no MCD panels, PAGE-B/REAL-B, prevent cirrhosis (2 sources)
@@ -430,6 +433,8 @@ updated: 2026-07-26
 
 ### AGA
 
+- [[aga-2024-tailored-polypectomy]] — AGA 2024 CPU (Expert Review): Appropriate and Tailored Polypectomy — 12 BPA; CSP <10 mm, no hot forceps, cold-vs-hot decision for intermediate 10–19 mm, serrated→cold, HSP for pedunculated >10 mm, clips only ≥20 mm proximal, referral ≥20 mm/difficult/recurrent; optical-diagnosis table (Paris/NICE/WASP/Kudo/JNET)
+- [[aga-2024-esophageal-immunity-infection]] — AGA 2024 CPU (Expert Review): Esophageal Dysfunction Due to Disordered Immunity and Infection — 10 BPA; infectious esophagitis (Candida/HSV/CMV dx + doses), lymphocytic esophagitis, EoE→motility, HES/EGPA (AEC >1500), connective-tissue/dermatologic esophageal disease, secondary achalasia (COVID/Chagas)
 - [[aga-2025-endoscopic-resection-crc]] — AGA 2025 Clinical Practice Update (Commentary): Endoscopic Resection for Early Colorectal Cancer — en-bloc imperative; ESD-preferred / eFTR <2 cm; unified curative-resection criteria; deep submucosal invasion reappraised (~2.6% LNM, not independent) → individualized organ preservation; low- vs high-risk T1 surveillance
 - [[aga-2025-crc-blood-tests]] — AGA 2025 Clinical Practice Update (Commentary): Blood Tests for CRC Screening — cfDNA blood tests (Shield/Freenome) performance + CMS criteria (3-yr, ≥74% sens/≥90% spec); inferior to colonoscopy/FIT/stool-DNA by modeling; best for patients declining other screening; programmatic follow-up colonoscopy after positive; not multicancer panels
 - [[aga-2025-noncolorectal-cancer-ibd]] — AGA 2025 Clinical Practice Update: Noncolorectal Cancer Screening and Vaccinations in IBD — 13 BPA; skin (melanoma/NMSC), cervical, and anal cancer screening; HPV/HepB/pneumococcal/RSV/zoster vaccination by agent and age
@@ -599,4 +604,4 @@ updated: 2026-07-26
 
 ---
 
-*Total: 238 sources | 123 disease scripts | 21 diagnostic schemas | 4 general procedures | 24 advanced procedures | 27 meds | 0 anatomy | 43 concepts | 1 synthesis (on-disk page counts as of 2026-07-26)*
+*Total: 241 sources | 125 disease scripts | 21 diagnostic schemas | 4 general procedures | 24 advanced procedures | 27 meds | 0 anatomy | 44 concepts | 1 synthesis (on-disk page counts as of 2026-07-28)*

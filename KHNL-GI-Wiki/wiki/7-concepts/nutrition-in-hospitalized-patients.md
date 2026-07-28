@@ -127,7 +127,7 @@ Immune-modulating formulas (arginine, glutamine, omega-3 fatty acids) are NOT re
 
 **Liver disease**: see [[nutrition-in-liver-disease]] — protein restriction is NOT recommended; protein goals similar to other ICU patients
 
-**IBD**: see [[inflammatory-bowel-disease]] — EN serves as primary therapy in pediatric Crohn's; adjunctive in adult CD
+**IBD**: see [[inflammatory-bowel-disease]] — EN serves as primary therapy in pediatric [[crohns-disease|Crohn's]]; adjunctive in adult CD
 
 ---
 

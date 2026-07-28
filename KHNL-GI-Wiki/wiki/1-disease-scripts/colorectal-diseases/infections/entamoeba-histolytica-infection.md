@@ -34,7 +34,7 @@ sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
 - Bacterial dysentery — [[shigellosis]], [[campylobacter-infection]], [[salmonella-infection]], Shiga-toxin *E. coli*
 - [[clostridioides-difficile|*C. difficile*]] colitis
 - Other protozoa — [[giardiasis]] (watery, non-bloody), [[cryptosporidiosis]]
-- IBD flare ([[ulcerative-colitis]]) — a key mimic before immunosuppression is started
+- [[inflammatory-bowel-disease|IBD]] flare ([[ulcerative-colitis]]) — a key mimic before immunosuppression is started
 - Travel-associated febrile illness — see [[fever-returning-traveler]]
 
 ---

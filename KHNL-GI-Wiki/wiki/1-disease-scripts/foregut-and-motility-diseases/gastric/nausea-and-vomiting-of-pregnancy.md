@@ -52,7 +52,7 @@ Severity: **≤6 mild, 7–12 moderate, ≥13 severe.** ([[aga-2024-pregnancy-gi
 - [[gastroparesis|Gastroparesis]] and other primary GI dysmotility
 - [[cyclic-vomiting-syndrome|Cyclic vomiting syndrome]] / [[cannabinoid-hyperemesis-syndrome|cannabinoid hyperemesis]]
 - Molar/multiple pregnancy, thyroid disease (hyperthyroidism) — associated with/mimic HG
-- Hepatobiliary, vascular (portal vein thrombosis), or renal causes — ultrasound helps exclude gallstones, molar pregnancy, and assess fetal growth
+- Hepatobiliary, vascular ([[portal-vein-thrombosis|portal vein thrombosis]]), or renal causes — ultrasound helps exclude gallstones, molar pregnancy, and assess fetal growth
 - Pregnancy-specific liver disease — [[intrahepatic-cholestasis-of-pregnancy|ICP]], [[acute-fatty-liver-of-pregnancy|AFLP]], HELLP (see [[liver-disease-in-pregnancy]])
 
 ## Diagnostics
@@ -78,7 +78,7 @@ Overall stepwise sequence (BPA 4): symptom control with **vitamin B6 and doxylam
 - **H1-antagonists** (doxylamine, promethazine, dimenhydrinate) — safe first-line antiemetics.
 - **Metoclopramide** — for NVP/HG; fewer sedation/dystonia adverse effects than promethazine; no increased congenital defects.
 - **Ondansetron** — second-line (some reports of congenital heart defects with 1st-trimester use); use case-by-case for persistent symptoms before 10 weeks.
-- **PPIs** (omeprazole, pantoprazole) or H2-blockers for coexisting heartburn.
+- **[[proton-pump-inhibitors|PPIs]]** (omeprazole, pantoprazole) or H2-blockers for coexisting heartburn.
 
 ### Hyperemesis Gravidarum
 

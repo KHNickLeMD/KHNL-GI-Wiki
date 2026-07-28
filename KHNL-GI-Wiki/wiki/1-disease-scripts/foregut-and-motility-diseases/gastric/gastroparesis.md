@@ -136,7 +136,7 @@ sources: [acg-2022-gastroparesis, aga-2025-gastroparesis, surjanhata-2025-consti
 
 - Measures pyloric diameter, cross-sectional area (CSA), pressure, and distensibility index (DI)
 - Reduced pyloric DI (<10 mm²/mm Hg) associated with greater gastric retention and may predict response to pyloric therapy
-- Post-G-POEM increase in CSA and DI correlates with clinical success
+- Post-[[g-poem|G-POEM]] increase in CSA and DI correlates with clinical success
 - DI threshold 9.2 mm²/mm Hg: 100% specificity, 72.2% sensitivity for G-POEM clinical success (one center)
 - Guideline supports role in characterizing pyloric function and predicting G-POEM outcomes (Conditional, Very Low evidence)
 

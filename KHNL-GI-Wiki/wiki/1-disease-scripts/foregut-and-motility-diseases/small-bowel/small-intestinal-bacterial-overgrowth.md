@@ -218,7 +218,7 @@ Before initiating antibiotic therapy: make an objective effort to diagnose SIBO 
 
 ### Fecal Microbiota Transplant (FMT)
 
-- No basis for FMT in SIBO treatment currently (Key Concept 13)
+- No basis for [[fmt|FMT]] in SIBO treatment currently (Key Concept 13)
 - Concerns: FDA safety alerts re: multi-drug resistant organism transmission
 - Case report: FMT for [[clostridioides-difficile|C. difficile]] → recipient acquired constipation phenotype and methane-positive breath test from donor — possible donor-dependent complication
 

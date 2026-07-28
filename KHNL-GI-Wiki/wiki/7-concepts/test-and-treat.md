@@ -40,7 +40,7 @@ A management strategy for **uninvestigated [[dyspepsia]]** in which patients are
 - Progressive [[dysphagia]]
 - Odynophagia
 - Persistent vomiting
-- GI bleeding / iron deficiency anemia
+- GI bleeding / [[iron-deficiency-anemia|iron deficiency anemia]]
 - Palpable abdominal mass or lymphadenopathy
 - Family history of upper GI malignancy
 - Previous gastric surgery

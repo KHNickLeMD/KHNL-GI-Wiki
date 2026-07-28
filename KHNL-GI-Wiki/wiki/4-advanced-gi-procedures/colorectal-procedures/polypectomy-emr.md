@@ -3,8 +3,8 @@ title: "Polypectomy and EMR (Colorectal)"
 category: advanced-procedure
 tags: [polypectomy, emr, esd, cold-snare, colonoscopy, colorectal, advanced-polypectomy, malignant-polyp, submucosal-invasion, haggitt, kikuchi, tumor-budding, lymphovascular-invasion]
 created: 2026-05-07
-updated: 2026-07-26
-sources: [usmstf-2020-endoscopic-removal, asge-2020-endoscopic-removal, usmstf-2020-malignant-colorectal-polyps, usmstf-2020-followup-colonoscopy, aga-2025-lifting-agents, aga-2025-endoscopic-resection-crc]
+updated: 2026-07-28
+sources: [usmstf-2020-endoscopic-removal, asge-2020-endoscopic-removal, usmstf-2020-malignant-colorectal-polyps, usmstf-2020-followup-colonoscopy, aga-2025-lifting-agents, aga-2025-endoscopic-resection-crc, aga-2024-tailored-polypectomy]
 ---
 
 # Polypectomy and Endoscopic Mucosal Resection (Colorectal)
@@ -115,6 +115,26 @@ sources: [usmstf-2020-endoscopic-removal, asge-2020-endoscopic-removal, usmstf-2
 - **Right colon:** Higher perforation risk; prefer cold snare when feasible; CO2 insufflation mandatory; clip defects ≥20mm prophylactically
 - **Difficult positions (folds, flexures, ileocecal valve):** Consider cap-assisted [[colonoscopy]], position change, water-jet assisted technique; partial resection plus avulsion acceptable if full snare not achievable
 - **Rectal lesions:** [[endoscopic-submucosal-dissection|ESD]] more often feasible given straight working channel; consider peri-anal approach for very distal lesions
+
+### Tailored Technique Selection ([[aga-2024-tailored-polypectomy|AGA 2024 CPU]])
+
+Structured optical assessment (Paris/NICE/WASP/Kudo/JNET — see [[#Optical Diagnosis]]) precedes technique choice; overt deep SMI (NICE 3 / Kudo V) is not resected endoscopically. AGA 2024 Best Practice Advice, by scenario:
+
+| Scenario | Technique |
+|---|---|
+| **<10 mm** | **Cold snare polypectomy (CSP)** (BPA 2) |
+| **1–3 mm, CSP technically difficult** | Cold forceps acceptable — use **large-capacity/jumbo** forceps (large-capacity CFP noninferior for 3-mm polyps in a recent RCT) (BPA 2) |
+| **Any diminutive/small** | **Never hot forceps** (higher incomplete removal + delayed bleeding, esp. right colon) (BPA 3) |
+| **Intermediate 10–19 mm** | Judgment call — be familiar with CSP, HSP, and EMR (BPA 4). Larger/bulkier/**sessile/adenomatous** → hot (HSP ± injection); **flat (Paris IIa/IIb) or serrated** → cold (c-EMR preferred). Cold-snare failure is size-dependent (**~53% incomplete at 16–20 mm**) |
+| **Sessile 10–19 mm** | Consider **lifting agents or underwater EMR** (BPA 5) |
+| **Serrated lesions** | **Cold resection** techniques; add submucosal injection for >10 mm if margins can't be delineated (BPA 6) |
+| **Pedunculated >10 mm** | **Hot snare** (feeding vessel in stalk) (BPA 7) |
+| **≥20 mm, difficult location, or recurrence** | Refer to an **endoscopic referral center** (BPA 9) |
+| **Nonpedunculated with clear SMIC** | **Surgical** evaluation (BPA 11) |
+
+- **Intermediate-size RCT data:** complete resection CSP 81.6% / c-EMR 94.1% / hot-EMR 95.5% (6–20 mm); immediate bleeding higher with cold, delayed bleeding higher with hot. SSLs ≥10 mm resect cold with practically no upper size limit (recurrence 0–10%, no perforations; c-EMR vs h-EMR eliminates the ~5% bleeding / ~3% deep-mural-injury of hot).
+- **Prophylactic clips (BPA 8):** do **not** routinely clip resection sites for polyps **<20 mm** — benefit is limited to **≥20 mm proximal-colon** lesions (individual-patient-data meta-analysis: 38% ↓ delayed bleeding, adjusted OR 0.62). Serrated polyps have low bleeding risk and don't need clipping. *(Consistent with the ≥20 mm / right-colon clipping guidance in [[#Post-Resection]].)*
+- **Electrosurgical generator (BPA 12):** know your suite's ESG settings for polypectomy and post-polypectomy thermal techniques.
 
 ---
 
@@ -430,3 +450,4 @@ After endoscopic resection reveals a malignant polyp, histologic features determ
 4. [[usmstf-2020-followup-colonoscopy|USMSTF 2020: Recommendations for Follow-Up After Colonoscopy and Polypectomy]]
 5. [[aga-2025-lifting-agents|AGA Clinical Practice Update on Endoscopic Lifting Agents: Commentary (2025)]]
 6. [[aga-2025-endoscopic-resection-crc|AGA Clinical Practice Update on Endoscopic Resection for Early Colorectal Cancer: Commentary (2025)]]
+7. [[aga-2024-tailored-polypectomy|AGA Clinical Practice Update on Appropriate and Tailored Polypectomy: Expert Review (2024)]]

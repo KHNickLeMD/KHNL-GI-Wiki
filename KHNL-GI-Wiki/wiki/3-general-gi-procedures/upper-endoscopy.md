@@ -34,10 +34,10 @@ Supplementary best practice guidance from AGA 2024 Clinical Practice Update. [[a
 
 - Hemostasis (UGIB)
 - Dilation (strictures)
-- EMR/[[endoscopic-submucosal-dissection|ESD]] for dysplasia (EoE, BE, early GC)
+- [[polypectomy-emr|EMR]]/[[endoscopic-submucosal-dissection|ESD]] for dysplasia (EoE, BE, early GC)
 - Endobariatrics, third-space endoscopy (out of scope for this document)
 
-**Not indicated (commonly misused):** routine GERD without alarm features on PPI, nonspecific nausea without alarm features.
+**Not indicated (commonly misused):** routine GERD without alarm features on [[proton-pump-inhibitors|PPI]], nonspecific nausea without alarm features.
 
 ---
 
@@ -81,7 +81,7 @@ Document all of: esophagus, GEJ (antegrade), gastric cardia/fundus (retroflexed)
 |---|---|---|
 | Peptic ulcer found | Document stigmata (active bleeding, NBVV, adherent clot, flat spot, clean base) | >98% |
 | Actively bleeding ulcer or NBVV | Endoscopic treatment | >90% |
-| Epinephrine injection for bleeding ulcer | Second treatment modality (thermal, clips, APC) | >98% |
+| Epinephrine injection for bleeding ulcer | Second treatment modality (thermal, clips, [[argon-plasma-coagulation\|APC]]) | >98% |
 | Attempted hemostasis (nonvariceal UGIB) | Document achievement of primary hemostasis | >90% |
 | Bleeding ulcer, successful hemostasis | High-dose PPI (continuous or intermittent ×3d) | >95% |
 | Gastric ulcer | Biopsy or plan follow-up to exclude malignancy | >80% |
@@ -180,7 +180,7 @@ More rigorous documentation is recommended for Barrett's esophagus, gastric inte
 
 - 5 biopsies: greater and lesser curve of gastric body, incisura, greater and lesser curve of antrum
 - Place in 2 labeled jars: body | antrum/incisura
-- Gastric body biopsies are especially important in PPI or PCAB users (H. pylori migrates proximally)
+- Gastric body biopsies are especially important in PPI or [[potassium-competitive-acid-blockers|PCAB]] users (H. pylori migrates proximally)
 - No role for routine esophageal or duodenal biopsies in dyspepsia evaluation
 
 #### Gastric Preneoplasia — Updated Sydney System

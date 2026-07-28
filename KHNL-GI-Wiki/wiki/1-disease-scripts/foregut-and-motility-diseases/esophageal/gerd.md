@@ -23,7 +23,7 @@ sources: [asge-2024-gerd, acg-2021-gerd, sages-2021-gerd-surgery, lyon-2024-gerd
 
 - [[dysphagia|Dysphagia]], odynophagia
 - Weight loss
-- GI bleeding (hematemesis, melena, iron deficiency anemia)
+- GI bleeding (hematemesis, melena, [[iron-deficiency-anemia|iron deficiency anemia]])
 - Persistent vomiting
 
 **Endoscopy is suggested** (conditional, low evidence) for:

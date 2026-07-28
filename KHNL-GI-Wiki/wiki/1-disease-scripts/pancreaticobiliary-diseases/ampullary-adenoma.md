@@ -28,7 +28,7 @@ Adenomas of the **major duodenal papilla (ampullary adenomas)** and of the **non
 
 ### Establishing the Diagnosis
 
-- **Ampullary adenoma** = adenoma of the major duodenal papilla; **nonampullary duodenal adenoma** = duodenal polyp not involving the papilla.
+- **Ampullary adenoma** = adenoma of the major duodenal papilla; **[[nonampullary-duodenal-adenoma|nonampullary duodenal adenoma]]** = duodenal polyp not involving the papilla.
 - Both may be **sporadic** or syndromic ([[familial-adenomatous-polyposis|FAP]], [[peutz-jeghers-syndrome|Peutz-Jeghers]]); endoscopic screening/surveillance of FAP has increased recognition of ampullary adenomas.
 - **Side-viewing duodenoscope** generally required to visualize the papilla — adenomatous change may not be apparent by forward-view inspection alone.
 - **Biopsy is required** before attempted resection to confirm adenoma and exclude cancer.

@@ -7,7 +7,7 @@ updated: 2026-07-26
 sources: [acg-2020-ibs]
 ---
 
-Mixed μ-opioid/κ-opioid agonist and δ-opioid antagonist, **100 mg BID**, for [[irritable-bowel-syndrome|IBS-D]] (ACG 2020, Conditional/Moderate). **Contraindicated after cholecystectomy** and in significant alcohol use (risk of pancreatitis / sphincter of Oddi spasm).
+Mixed μ-opioid/κ-opioid agonist and δ-opioid antagonist, **100 mg BID**, for [[irritable-bowel-syndrome|IBS-D]] (ACG 2020, Conditional/Moderate). **Contraindicated after cholecystectomy** and in significant alcohol use (risk of [[acute-pancreatitis|pancreatitis]] / [[sphincter-of-oddi-dysfunction|sphincter of Oddi spasm]]).
 
 *Stub — to be expanded.*
 

@@ -3,8 +3,8 @@ title: "Achalasia"
 category: disease-script
 tags: [achalasia, esophageal-motility, dysphagia, hrm, poem, heller-myotomy, pneumatic-dilation, foregut]
 created: 2026-05-15
-updated: 2026-07-25
-sources: [acg-2020-achalasia, asge-2020-achalasia, sages-2021-poem]
+updated: 2026-07-28
+sources: [acg-2020-achalasia, asge-2020-achalasia, sages-2021-poem, aga-2024-esophageal-immunity-infection]
 ---
 # Achalasia
 
@@ -65,6 +65,7 @@ Disease progresses: Type III → Type II → Type I as esophagus dilates over ti
 - Jackhammer esophagus / [[hypercontractile-esophagus|hypercontractile esophagus]]
 - Scleroderma esophagus (absent peristalsis but low LES pressure)
 - Chagas disease (secondary achalasia from T. cruzi — clinically indistinguishable)
+- **Secondary ("mimic") achalasia** — consider infectious/inflammatory causes at initial evaluation: recent COVID infection, Chagas risk, and eosinophilic/mast-cell disease; achalasia is hypothesized to be autoimmune (↑ odds of autoimmune conditions, OR up to 3.6). See [[esophageal-dysfunction-systemic-disease]]. (AGA 2024)
 
 ---
 
@@ -215,7 +216,7 @@ flowchart TD
 
 ## See Also
 
-[[dysphagia]], [[high-resolution-manometry]], [[flip-panometry]], [[poem]], [[chicago-classification-v4]], [[distal-esophageal-spasm]], [[hypercontractile-esophagus]], [[gerd]], [[eosinophilic-esophagitis]], [[upper-endoscopy]], [[heller-myotomy]]
+[[dysphagia]], [[high-resolution-manometry]], [[flip-panometry]], [[poem]], [[chicago-classification-v4]], [[distal-esophageal-spasm]], [[hypercontractile-esophagus]], [[gerd]], [[eosinophilic-esophagitis]], [[esophageal-dysfunction-systemic-disease]], [[upper-endoscopy]], [[heller-myotomy]]
 
 ---
 
@@ -224,3 +225,4 @@ flowchart TD
 1. [[acg-2020-achalasia|ACG 2020: Diagnosis and Management of Achalasia]]
 2. [[asge-2020-achalasia|ASGE Guideline: Management of Achalasia (2020)]]
 3. [[sages-2021-poem|SAGES Guidelines for the Use of Peroral Endoscopic Myotomy (POEM) for the Treatment of Achalasia (2021)]]
+4. [[aga-2024-esophageal-immunity-infection|AGA Clinical Practice Update on Esophageal Dysfunction Due to Disordered Immunity and Infection: Expert Review (2024)]]

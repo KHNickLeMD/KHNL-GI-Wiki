@@ -204,7 +204,7 @@ This guideline replaces the older term **"obscure GI bleeding (OGIB)"** with ana
 ### Endoscopic Therapy
 
 - **Indicated** when a source is found on VCE/deep enteroscopy with significant ongoing anemia or active bleeding. *(Strong/Low)*
-- Preferred modality: **argon plasma coagulation (APC)** via deep enteroscopy (since 2001).
+- Preferred modality: **[[argon-plasma-coagulation|argon plasma coagulation]] (APC)** via deep enteroscopy (since 2001).
 - Rebleeding rate after endoscopic treatment of vascular SB lesions: 20–50% at medium-term follow-up (meta-analysis: pooled 34% at mean 22 months; 45% in subset with SB angioectasia only).
 
 ### Conservative Management (No Source Found)

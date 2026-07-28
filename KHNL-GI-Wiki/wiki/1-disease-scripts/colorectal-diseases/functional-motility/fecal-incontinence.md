@@ -3,7 +3,7 @@ title: "Fecal Incontinence"
 category: disease-script
 tags: [fecal-incontinence, anorectal, biofeedback, sacral-nerve-stimulation, pelvic-floor, colorectal]
 created: 2026-05-16
-updated: 2026-07-16
+updated: 2026-07-28
 sources: [acg-2021-anorectal-disorders, asge-2010-anorectal-disorders]
 ---
 

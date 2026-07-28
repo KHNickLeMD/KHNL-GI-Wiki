@@ -11,7 +11,7 @@ sources: [aga-2023-ostomies]
 
 - Enteral stoma = colostomy or ileostomy; ~750,000 Americans live with an ostomy; ~130,000 new ostomy surgeries/year (US).
 - Adequate stomal care improves outcomes and reduces hospitalizations; this page covers care **beyond the immediate perioperative period** (a recognized gap area).
-- Indications span [[colorectal-cancer|CRC]], [[inflammatory-bowel-disease|IBD]] ([[crohns-disease|Crohn's disease]], [[ulcerative-colitis]]), perforated diverticulitis, trauma, colonic dysmotility, and fecal diversion (for [[fecal-incontinence|fecal incontinence]], sacral wound, spinal cord injury).
+- Indications span [[colorectal-cancer|CRC]], [[inflammatory-bowel-disease|IBD]] ([[crohns-disease|Crohn's disease]], [[ulcerative-colitis]]), perforated [[diverticulitis|diverticulitis]], trauma, colonic dysmotility, and fecal diversion (for [[fecal-incontinence|fecal incontinence]], sacral wound, spinal cord injury).
 - Stoma must sit **above skin level** so effluent doesn't seep under the appliance (Brooke technique = suturing to protrude above skin).
 
 ## Ostomy Types & Output Expectations
@@ -51,14 +51,14 @@ sources: [aga-2023-ostomies]
 |---|---|
 | Bulking agents | Psyllium fiber; guar gum; marshmallows |
 | Antimotility agents | [[loperamide\|Loperamide]]; diphenoxylate + atropine; codeine; tincture of opium |
-| Antisecretory agents | PPIs / H2 agonists; somatostatin analogues (octreotide) |
+| Antisecretory agents | [[proton-pump-inhibitors\|PPIs]] / H2 agonists; [[somatostatin-analogs\|somatostatin analogues]] (octreotide) |
 | Anti-inflammatory (if recurrent Crohn's) | Consultation with IBD specialist |
-| Adaptation-promoting | GLP-2 analogues (teduglutide, elsiglutide, glepaglutide, apraglutide) |
+| Adaptation-promoting | [[glp-2-agonists\|GLP-2 analogues]] (teduglutide, elsiglutide, glepaglutide, apraglutide) |
 | Surgical | Reversal of the ostomy with restoration of intestinal continuity when possible |
 
 ## Short-Term Complications
 
-- **Ostomy leakage** — most common and dreaded. Predisposing: obesity, placement in a skin crease, loop configuration, liquid effluent (ileostomy, chronic diarrhea), flush stoma.
+- **Ostomy leakage** — most common and dreaded. Predisposing: [[obesity|obesity]], placement in a skin crease, loop configuration, liquid effluent (ileostomy, chronic diarrhea), flush stoma.
   - Prevention is best (preoperative stomatherapist marking, meticulous technique).
   - Management: thicken stool with antidiarrheals; bolster stoma height (convex appliance, ostomy belt, paste, barrier rings); heat appliance with hair dryer before application; lie flat several minutes after application; dry peristomal skin; stomal powder + skin sealant.
   - Appliance opening cut **one-eighth inch larger than the stoma**; **re-measure stoma at each change for the first 8 weeks** (stoma shrinks). Refractory leakage may need revision.

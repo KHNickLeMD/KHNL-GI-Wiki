@@ -16,7 +16,7 @@ Highly selective 5-HT4 receptor agonist; prokinetic.
 ## Indications & Dosing
 
 - **[[chronic-idiopathic-constipation]]**: 2 mg PO daily (1 mg if renal impairment or elderly) — Strong/Low ([[aga-acg-2023-constipation]])
-- No CV signal in large studies (unlike older 5-HT4 agonists tegaserod/cisapride)
+- No CV signal in large studies (unlike older 5-HT4 agonists [[tegaserod]]/cisapride)
 
 ## Adverse Effects
 

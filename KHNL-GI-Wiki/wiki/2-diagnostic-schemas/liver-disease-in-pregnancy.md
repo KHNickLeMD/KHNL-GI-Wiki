@@ -49,7 +49,7 @@ Any abnormality in AST/ALT or bilirubin requires evaluation. ALP elevation alone
 
 ### Coincident Liver Diseases
 
-- Biliary: cholelithiasis (3.5% in pregnancy), cholecystitis, [[choledocholithiasis]], [[acute-pancreatitis|biliary pancreatitis]]
+- Biliary: cholelithiasis (3.5% in pregnancy), [[acute-cholecystitis|cholecystitis]], [[choledocholithiasis]], [[acute-pancreatitis|biliary pancreatitis]]
 - Viral: [[chronic-hepatitis-b]], [[hepatitis-c|hepatitis C]] ([[hepatitis-c-in-pregnancy]]), HAV, HEV, HSV hepatitis
 - Autoimmune: [[autoimmune-hepatitis]], [[primary-biliary-cholangitis]]
 - Metabolic/genetic: [[wilson-disease]], [[nafld-masld]]

@@ -82,7 +82,7 @@ Inflammation in and around a colonic diverticulum. Lifetime risk ~3% (men) / 5% 
 
 - **CT abdomen/pelvis** — primary confirmatory test (see Assessment); grades modified Hinchey stage.
 - **CRP** — supports diagnosis and stratifies risk (**>140 mg/L** = high-risk feature).
-- **Colonoscopy** — *not* for acute diagnosis; role is post-recovery cancer exclusion, **6–8 weeks after** the episode (see Therapeutics). Earlier scoping risks incomplete exam (3.7%) and perforation (0.2%).
+- **[[colonoscopy|Colonoscopy]]** — *not* for acute diagnosis; role is post-recovery cancer exclusion, **6–8 weeks after** the episode (see Therapeutics). Earlier scoping risks incomplete exam (3.7%) and perforation (0.2%).
 
 ---
 

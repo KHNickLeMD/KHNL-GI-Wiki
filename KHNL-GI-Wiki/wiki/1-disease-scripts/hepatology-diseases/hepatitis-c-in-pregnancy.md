@@ -70,5 +70,3 @@ sources: [aasld-idsa-2023-hcv, acg-2016-liver-disease-pregnancy, aasld-2021-repr
 2. [[acg-2016-liver-disease-pregnancy|ACG Clinical Guideline: Liver Disease and Pregnancy (2016)]]
 3. [[aasld-2021-reproductive-liver|AASLD Practice Guidance: Reproductive Health and Liver Disease (2021)]]
 4. [[aga-2024-pregnancy-gi-liver|AGA Clinical Practice Update on Pregnancy-Related Gastrointestinal and Liver Disease: Expert Review]]
-</content>
-</invoke>

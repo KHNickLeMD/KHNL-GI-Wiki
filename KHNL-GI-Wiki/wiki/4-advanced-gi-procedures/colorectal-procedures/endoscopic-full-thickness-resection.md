@@ -26,7 +26,7 @@ sources: [aga-2024-full-thickness-resection]
 - Less invasive alternative to surgery for **diagnosis and treatment** of GI [[subepithelial-lesion|subepithelial lesions (SELs)]].
 - SELs arise from the wall (muscularis mucosa, submucosa, or muscularis propria); most small/incidental.
   - **~15% have malignant potential**; progression risk varies by size, location, histology.
-  - Definitive tissue Dx often not possible — **EUS-FNA/FNB yield ranges from ~20% to >90%**, highly operator-dependent.
+  - Definitive tissue Dx often not possible — **[[endoscopic-ultrasound|EUS]]-FNA/FNB yield ranges from ~20% to >90%**, highly operator-dependent.
 - **Two technique families:**
   - **Exposed** — resection of all layers *including mucosa*; full-thickness excision completed **before** wall-defect closure.
   - **Nonexposed** — either preserves an overlying mucosal flap (STER) or is a **"close first, then cut"** device-assisted method that avoids the impending perforation.
@@ -34,7 +34,7 @@ sources: [aga-2024-full-thickness-resection]
 
 ## Indications
 
-- Neoplastic SELs (e.g. GIST, neuroendocrine tumor) where en-bloc/complete excision is the goal.
+- Neoplastic SELs (e.g. [[gastrointestinal-stromal-tumor|GIST]], [[gastroenteropancreatic-neuroendocrine-tumors|neuroendocrine tumor]]) where en-bloc/complete excision is the goal.
 - **Expert-opinion indication (exposed EFTR):** consider when **other methods ([[polypectomy-emr|EMR]], [[endoscopic-submucosal-dissection|ESD]], nonexposed EFTR) cannot reliably and completely excise the SEL** due to larger size or difficult location.
 - Also serves a **diagnostic** role when EUS-FNA/FNB is nondiagnostic.
 

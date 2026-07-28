@@ -216,7 +216,7 @@ BISAP ≥3 = high risk for severe AP and mortality
 
 - **Do NOT use diagnostic ERCP for a single episode of AP** (Moderate) — its diagnostic role does not justify the post-ERCP pancreatitis risk.
 - **[[endoscopic-ultrasound|EUS]] is the preferred next test for idiopathic AP in patients >40 y** when history, exam, labs, and CT/MRI are unrevealing (Low) — interrogates microlithiasis, periampullary lesions, and occult malignancy.
-- **Sphincter of Oddi dysfunction (SOD):** treat with biliary and/or pancreatic sphincterotomy in **type 1** SOD, or **type 2** confirmed by manometry (Moderate). For idiopathic acute recurrent pancreatitis with normal EUS/MRCP (suspected type 2 pancreatic SOD), ERCP with sphincter of Oddi manometry may be considered (Low).
+- **[[sphincter-of-oddi-dysfunction|Sphincter of Oddi dysfunction]] (SOD):** treat with biliary and/or pancreatic sphincterotomy in **type 1** SOD, or **type 2** confirmed by manometry (Moderate). For idiopathic acute recurrent pancreatitis with normal EUS/MRCP (suspected type 2 pancreatic SOD), ERCP with sphincter of Oddi manometry may be considered (Low).
 - **Do NOT use ERCP to evaluate type 3 SOD** (recurrent/chronic abdominal pain alone) (**High**) — no benefit and real harm (later confirmed by the EPISOD trial).
 - **Post-ERCP pancreatitis prophylaxis:** rectal indomethacin and/or pancreatic-duct stenting in high-risk patients (High); see [[asge-2023-post-ercp-pancreatitis]] for the current detailed algorithm.
 

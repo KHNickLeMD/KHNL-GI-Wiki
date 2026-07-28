@@ -3,7 +3,7 @@ title: "Defecation Disorders (Dyssynergic Defecation)"
 category: disease-script
 tags: [defecation-disorder, dyssynergia, outlet-obstruction, biofeedback, anorectal-manometry, colorectal, pelvic-floor]
 created: 2026-05-16
-updated: 2026-07-16
+updated: 2026-07-28
 sources: [acg-2021-anorectal-disorders, aga-acg-2023-constipation]
 ---
 

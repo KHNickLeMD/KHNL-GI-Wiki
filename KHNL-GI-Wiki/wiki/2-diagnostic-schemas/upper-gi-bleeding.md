@@ -168,7 +168,7 @@ High-risk stigmata (Forrest Ia, Ib, IIa) mandate endoscopic hemostatic therapy. 
 **Conditionally recommended (Conditional recommendation, lower-quality evidence):**
 
 - Through-the-scope clips (placement over and on both sides of bleeding site)
-- Argon plasma coagulation (APC): 1–2 L/min gas flow, 40–70 W power, probe 2–10 mm from mucosa
+- [[argon-plasma-coagulation|Argon plasma coagulation]] (APC): 1–2 L/min gas flow, 40–70 W power, probe 2–10 mm from mucosa
 - Soft monopolar electrocoagulation (soft coagulation mode, 50–80 W, 1–2 second applications)
 - Hemostatic powder spray TC-325: for actively bleeding ulcers only (does not adhere to nonbleeding lesions); delivery catheter tip 1–2 cm from bleeding site, 1–2 second bursts; high cost limits use as first-line in U.S. (~$2,500 list price)
 - Over-the-scope clips: reserved for **recurrent ulcer bleeding** after previous successful endoscopic hemostasis; superior to standard therapy in this setting (further bleeding 15.2% vs. 57.6%)

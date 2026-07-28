@@ -7,7 +7,7 @@ updated: 2026-07-26
 sources: [acg-2021-cdiff, acg-2025-uc]
 ---
 
-Life-threatening total or segmental nonobstructive **colonic dilation with systemic toxicity**, complicating severe colitis — most often fulminant [[clostridioides-difficile|C. difficile]] infection or acute severe [[ulcerative-colitis]] (also Crohn's, ischemic, and infectious colitis). A surgical emergency: colonic perforation, toxic megacolon, ischemia, or failure of maximal medical therapy are indications for colectomy.
+Life-threatening total or segmental nonobstructive **colonic dilation with systemic toxicity**, complicating severe colitis — most often fulminant [[clostridioides-difficile|C. difficile]] infection or acute severe [[ulcerative-colitis]] (also [[crohns-disease|Crohn's]], ischemic, and infectious colitis). A surgical emergency: colonic perforation, toxic megacolon, ischemia, or failure of maximal medical therapy are indications for colectomy.
 
 *Stub — to be expanded.*
 

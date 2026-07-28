@@ -176,7 +176,7 @@ The ACG 2020 guideline [[acg-2020-esophageal-physiologic-testing]] organizes tes
 - No test should be ordered without a clear clinical hypothesis about what it will provide
 - GERD questionnaires alone are insufficient for conclusive GERD diagnosis (GERDQ ≥9: 66% sensitivity, 64% specificity)
 - AET >4% off PPI is the cardinal predictor of [[antireflux-surgery|antireflux surgery]] outcomes; RSA and MNBI provide adjunctive value
-- Upfront ambulatory testing (vs. empiric BID PPI) is cost-effective: $1,897 vs. $3,033 for patients with suspected extraesophageal reflux
+- Upfront ambulatory testing (vs. empiric BID PPI) is cost-effective: $1,897 vs. $3,033 for patients with suspected [[extraesophageal-reflux|extraesophageal reflux]]
 
 ---
 

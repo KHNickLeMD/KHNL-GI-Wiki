@@ -272,7 +272,7 @@ Small-intestine GISTs are **more aggressive** (40–50% malignant vs 20–25% ga
 | ESMR (ESMR-C cap, ESMR-L ligation) | Mucosal/submucosal lesions ≤20 mm | ESMR-L: band/endoloop then snare; bleeding up to 9%; **caution in duodenum and for MP lesions** (perforation/spillage) |
 | [[endoscopic-submucosal-dissection\|ESD]] | MP-layer lesions | Gastric MP ESD complete resection ~92%, perforation ~14% (managed endoscopically); limited for >5 cm (perforation up to 19%) |
 | STER (submucosal tunneling endoscopic resection) | MP lesions, esophagus/cardia | Mucosal incision ≥5 cm proximal; preserves mucosa; en bloc 78–100%; adverse events 9.4–33% |
-| EFTR (endoscopic full-thickness resection) | MP-infiltrating lesions, esp. GIST, up to ~4 cm | Requires secure defect closure; hybrid endoscopic-laparoscopic variant for small GISTs not needing lymphadenectomy |
+| [[endoscopic-full-thickness-resection\|EFTR]] (endoscopic full-thickness resection) | MP-infiltrating lesions, esp. GIST, up to ~4 cm | Requires secure defect closure; hybrid endoscopic-laparoscopic variant for small GISTs not needing lymphadenectomy |
 
 ---
 

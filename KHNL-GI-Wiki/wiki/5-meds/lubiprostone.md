@@ -20,7 +20,7 @@ Chloride channel activator; intestinal secretagogue.
 ## Place in Therapy
 
 - **CIC** — second-tier: the only secretagogue with a *conditional* rather than strong recommendation in [[aga-acg-2023-constipation]], driven by lower evidence certainty and cost. [[linaclotide]] is the first-choice secretagogue (Strong/Moderate); [[plecanatide]] (Strong/Low) and the prokinetic [[prucalopride]] (Strong/Low) are also strongly recommended ahead of it.
-- **IBS-C** — conditional alternative. [[linaclotide]] is the only strongly recommended agent for IBS-C in [[aga-2022-ibs-c]]; lubiprostone sits with tenapanor, [[plecanatide]], and tegaserod as conditional options.
+- **IBS-C** — conditional alternative. [[linaclotide]] is the only strongly recommended agent for IBS-C in [[aga-2022-ibs-c]]; lubiprostone sits with tenapanor, [[plecanatide]], and [[tegaserod]] as conditional options.
 - **Cost is a significant barrier** — ~$374/month, vs <$50/month for OTC agents ([[aga-acg-2023-constipation]]). Cheapest of the prescription secretagogues/prokinetics nonetheless (linaclotide ~$523, plecanatide ~$526, prucalopride ~$563).
 
 ## Contradictions

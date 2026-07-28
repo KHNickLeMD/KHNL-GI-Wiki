@@ -38,8 +38,8 @@ Framework for diet and nutritional therapy across the [[inflammatory-bowel-disea
 - **Mediterranean diet** for almost all patients: fresh fruit/vegetables, monounsaturated fats, complex carbohydrates, lean protein; **low in ultraprocessed foods, added sugar, salt**. Benefits overall health (CV, metabolic) and may improve symptoms/microbiome.
 - **No diet consistently lowers adult flare rate.** Low red/processed meat may reduce **UC** flares (not CD relapse).
 - Sugar-sweetened beverages and high ultraprocessed-food intake → higher etiopathogenic risk and worse course (CD strongest association).
-- **No** gluten avoidance absent celiac disease/gluten sensitivity.
-- **Low-FODMAP:** improves IBS-like symptoms but depletes butyrate-producing microbiota → **short-term flare use only**.
+- **No** gluten avoidance absent [[celiac-disease|celiac disease]]/gluten sensitivity.
+- **Low-FODMAP:** improves [[irritable-bowel-syndrome|IBS]]-like symptoms but depletes butyrate-producing microbiota → **short-term flare use only**.
 - Breastfeeding (esp. ≥12 mo) associated with lower childhood IBD risk.
 
 ### Diets Studied in IBD

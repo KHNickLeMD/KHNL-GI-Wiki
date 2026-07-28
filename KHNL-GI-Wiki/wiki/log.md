@@ -6,6 +6,44 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-07-28] lint | Ingested 2 AGA 2024 CPUs (Tailored Polypectomy + Esophageal Dysfunction from Immunity/Infection); 3 new esophageal pages; ~53 inline links added via parallel subagents; 3 stalest pages validated; index reconciled (241 sources); 0 broken links/orphans
+
+**Sources ingested (2 — guideline/CPU tier, per ingestion priority; no lectures auto-ingested):**
+- `[[aga-2024-tailored-polypectomy]]` — AGA 2024 CPU (Expert Review): Appropriate and Tailored Polypectomy (Copland, Kahi, Ko, Ginsberg; *CGH* 2024;22:470–479). All **12 Best Practice Advice statements verbatim** + optical-diagnosis Table 1 (Paris/NICE/WASP/Kudo/JNET) and technique-selection thresholds (CSP <10 mm; large-capacity CFP noninferior for 3 mm; intermediate 10–19 mm cold-vs-hot RCT data; clips only ≥20 mm proximal, OR 0.62).
+- `[[aga-2024-esophageal-immunity-infection]]` — AGA 2024 CPU (Expert Review): Esophageal Dysfunction Due to Disordered Immunity and Infection (Reddy, McGowan, Yadlapati, Peterson; *CGH* 2024;22:2378–2387). All **10 Best Practice Advice statements verbatim** + infectious-esophagitis dx/treatment doses, LyE, HES/EGPA (AEC >1500), connective-tissue/dermatologic esophageal disease, secondary achalasia.
+
+**Pages created (3):**
+- `[[infectious-esophagitis]]` (1-disease-scripts/esophageal, ADDT) — Candida (fluconazole 200–400 mg × 14–21 d), HSV (acyclovir/valacyclovir/famciclovir 10–21 d), CMV (ganciclovir up to 6 wk); endoscopic appearance + biopsy/brushing dx; immunocompromise + refractory-symptom pathways.
+- `[[lymphocytic-esophagitis]]` (1-disease-scripts/esophageal, ADDT) — peripapillary lymphocytosis histology, women >60, dx of exclusion (biopsy off PPI ≥2–4 wk, r/o EoE/Crohn's); PPI/topical steroids/dilation.
+- `[[esophageal-dysfunction-systemic-disease]]` (7-concepts) — home for the systemic/immune content: HES/EGPA, connective-tissue disease (SSc/MCTD/SLE/Sjögren/myositis) esophageal involvement, esophageal Crohn's, dermatologic (ELP/pemphigus + DIF), and the secondary-achalasia framework.
+
+**Pages updated (ingest wiring):**
+- `[[polypectomy-emr]]` — new "Tailored Technique Selection (AGA 2024)" subsection: scenario→technique table + intermediate-size RCT data + prophylactic-clip rule; cross-references existing optical-diagnosis/post-resection sections (no duplication). Source added.
+- `[[eosinophilic-esophagitis]]` — BPA 4: persistent symptoms despite histologic+endoscopic remission → evaluate for subtle stricture/motility disorder; EoE→achalasia risk. Source added; See Also wired to 3 new pages.
+- `[[achalasia]]` — BPA 10: secondary/mimic achalasia (COVID/Chagas/eosinophilic/mast-cell; autoimmune hypothesis) added to DDx; source + See Also wired.
+- `[[dysphagia]]` (schema) — DDx expanded with an immune-mediated/systemic category (LyE, connective-tissue disease, esophageal Crohn's, HES/EGPA, ELP/pemphigus) + infectious-esophagitis inline link.
+
+**Parallel lint (4 subagents over disjoint folder batches; ~53 inline links added, no shared-file writes):**
+- Disease-scripts batch: 25 inline links across 13 pages; hygiene — removed stray literal `</content>`/`</invoke>` tags left on `[[hepatitis-c-in-pregnancy]]` by a prior bad write.
+- Schemas/meds batch: 12 inline links (APC/FMT/tegaserod/acute-pancreatitis/etc.); no decision gaps.
+- Procedures/concepts batch: 16 inline links (gastric-cancer-screening polyposis syndromes, HCC-surveillance, APC, etc.).
+- Stalest-page validation (3 oldest entity pages, `updated: 2026-07-16`): `[[chronic-idiopathic-constipation]]`, `[[defecation-disorders]]`, `[[fecal-incontinence]]` — all decision-complete against ingested sources; `updated:` bumped to 2026-07-28.
+
+**Hygiene / reconciliation:**
+- `index.md` — 2 AGA source entries, 2 esophageal disease scripts, 1 concept; EoE/achalasia descriptions + source counts refreshed; totals → **241 sources | 125 disease scripts | 21 diagnostic schemas | 4 general procedures | 24 advanced procedures | 27 meds | 44 concepts | 1 synthesis** (as of 2026-07-28); frontmatter date bumped.
+- Whole-wiki scan (escaped-pipe/embed-aware): **0 broken links, 0 orphans, 0 duplicate basenames**.
+- Git: no untracked files under `raw/` (raw PDFs are gitignored; inbox sync added ACG-2026-Diverticulitis/APA-2014/AGA-2022-recurrent-pancreatitis PDFs since last pass but nothing new to commit — assets unchanged).
+
+**Flagged for user / future passes (not fixed — no outside info used):**
+- **Remaining uningested non-lecture backlog (3, guideline/CPU + RCT tier):** AGA 2024 CPU *Advances in POEM*, AGA 2023 CPU *AI in Colon Polyp Diagnosis & Management*, and the RCT *Antibiotic Prophylaxis for EUS-FNA of Pancreatic Cysts*. Reported, not ingested (2-file cap).
+- **Decision gaps needing a not-yet-ingested scoring source:** Bristol Stool Scale (no page), Wexner/FISI fecal-incontinence scoring, NUTRIC/NRS-2002 and GLIM/PG-SGA nutrition scores, LA-grade/Hill-grade/Forrest home pages, Child-Pugh/MELD component tables (TIPS/antireflux pages reference them without a host page), PAGE-B components. Reported by subagents; fill when the primary scoring papers are ingested.
+- **Cross-batch connections for next pass:** `[[g-poem]]`→`[[gastroparesis]]` backlink; `[[alosetron]]`/`[[tegaserod]]`←`[[colon-ischemia]]` inbound.
+- **Dedup question:** `[[ampullary-adenoma]]` and `[[nonampullary-duodenal-adenoma]]` overlap on nonampullary content — scope decision for a maintainer.
+- **Stub expandable next pass:** `[[small-bowel-motility]]` from ingested `[[acg-2020-sibo]]`; `[[toxic-megacolon]]` from `[[acg-2021-cdiff]]`/`[[acg-2025-uc]]`.
+- Lecture/chalk-talk transcripts remain **gated** — 60 available, not auto-ingested; awaiting user selection by name.
+
+---
+
 ## [2026-07-26] update | Visual expansion of polypectomy-emr: 11 source figures embedded; new Style Guide rule for endoscopic classifications
 
 **Page updated:**

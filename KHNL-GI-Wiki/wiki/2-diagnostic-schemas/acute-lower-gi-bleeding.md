@@ -55,7 +55,7 @@ If [[upper-gi-bleeding|UGIB]] is clinically suspected, perform **urgent [[upper-
 | **[[colon-ischemia\|Ischemic colitis]]** | Acute onset, abdominal pain + hematochezia, watershed distribution (splenic flexure, sigmoid), CT showing bowel wall thickening |
 | **[[inflammatory-bowel-disease\|Inflammatory bowel disease]]** | [[crohns-disease]] or [[ulcerative-colitis]]; chronic course with diarrhea, tenesmus; may present acutely |
 | **Infectious colitis** | Fever, diarrhea, exposure history; stool cultures, [[clostridioides-difficile\|C. diff]] testing |
-| **[[radiation-proctopathy\|Radiation proctopathy]]** | History of pelvic radiation; rectal bleeding, telangiectasias on endoscopy; APC is the mainstay endoscopic therapy |
+| **[[radiation-proctopathy\|Radiation proctopathy]]** | History of pelvic radiation; rectal bleeding, telangiectasias on endoscopy; [[argon-plasma-coagulation\|APC]] is the mainstay endoscopic therapy |
 | **NSAID-induced colitis / ulcers** | NSAID use history; ulcers especially in right colon and ileocecal region |
 
 ### Less Common / Rare

@@ -63,7 +63,7 @@ By trained operators, IUS is comparable to **MRE and CTE** ([[mri-mrcp|MRE]]) fo
 
 - **Pregnancy** — preferred monitoring (no radiation/sedation); sensitivity 84%, specificity 98% vs clinical activity/FC; TI + colon visualized in up to 92% in 3rd trimester.
 - **Serious comorbidities** — renal failure / high sedation risk (avoids IV contrast, sedation).
-- **Obesity** — image quality may drop but findings not significantly different by weight.
+- **[[obesity|Obesity]]** — image quality may drop but findings not significantly different by weight.
 
 ## Limitations
 

@@ -126,7 +126,7 @@ Surgical approach: resection of ischemic segment; primary anastomosis vs. divert
 
 ### Medication Review and Risk Reduction
 
-- Discontinue all potentially causative medications (Strong, Very Low evidence): estrogen-containing contraceptives, NSAIDs, constipating agents (alosetron, tegaserod), sympathomimetics, cocaine, antipsychotics with anticholinergic effects
+- Discontinue all potentially causative medications (Strong, Very Low evidence): estrogen-containing contraceptives, NSAIDs, constipating agents ([[alosetron]], [[tegaserod]]), sympathomimetics, cocaine, antipsychotics with anticholinergic effects
 - Address underlying precipitants: hypovolemia, hypotension, cardiac dysrhythmia, coagulopathy
 
 ### Follow-Up

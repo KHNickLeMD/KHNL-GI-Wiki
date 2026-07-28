@@ -3,8 +3,8 @@ title: "Eosinophilic Esophagitis"
 category: disease-script
 tags: [eoe, esophageal, dysphagia, food-impaction, eosinophil, atopic, biologic, dupilumab]
 created: 2026-05-07
-updated: 2026-07-17
-sources: [acg-2025-eoe, aga-2020-eoe, acg-2013-eoe]
+updated: 2026-07-28
+sources: [acg-2025-eoe, aga-2020-eoe, acg-2013-eoe, aga-2024-esophageal-immunity-infection]
 ---
 
 # Eosinophilic Esophagitis
@@ -58,6 +58,8 @@ Chronic, immune/antigen-mediated esophageal disease. Characterized by esophageal
 
 **Fibrostenotic phenotype:** rings + strictures; transmural inflammation + fibrosis; requires dilation in addition to medical therapy. Endoscopy underestimates stricture severity (sensitivity ~15%); esophagram more accurate.
 
+**Persistent symptoms despite histologic + endoscopic remission** → evaluate for a subtle **stricture** (esophagram) or an esophageal **motility disorder**; some patients with EoE develop dysmotility, and EoE carries an increased risk of [[achalasia]]. Consider further motility evaluation. ([[aga-2024-esophageal-immunity-infection|AGA 2024]])
+
 ### Classification
 
 - **Inflammatory:** edema, furrows, exudates predominate; responsive to medical therapy
@@ -78,7 +80,7 @@ Chronic, immune/antigen-mediated esophageal disease. Characterized by esophageal
 | Eosinophilic gastroenteritis | Eosinophilia extends beyond esophagus |
 | Hypereosinophilic syndrome | Peripheral eosinophilia >1500 with multi-organ involvement |
 | Pill esophagitis | History of medication, focal injury |
-| Infectious esophagitis (Candida, HSV) | Immunocompromise, systemic symptoms; biopsy shows organisms |
+| [[infectious-esophagitis\|Infectious esophagitis]] (Candida, HSV) | Immunocompromise, systemic symptoms; biopsy shows organisms |
 | [[celiac-disease\|Celiac disease]] | Duodenal findings; anti-TTG; responds to gluten-free diet |
 | [[inflammatory-bowel-disease\|IBD]] ([[crohns-disease\|Crohn's]]) | Perianal, small bowel involvement; [[colonoscopy]] findings |
 | Drug hypersensitivity | Temporal association with new medication |
@@ -254,7 +256,7 @@ Chronic, immune/antigen-mediated esophageal disease. Characterized by esophageal
 
 ## See Also
 
-[[dysphagia]], [[gerd]], [[achalasia]], [[celiac-disease]], [[barretts-esophagus]], [[inflammatory-bowel-disease]], [[crohns-disease]], [[upper-endoscopy]], [[colonoscopy]], [[proton-pump-inhibitors]]
+[[dysphagia]], [[gerd]], [[achalasia]], [[infectious-esophagitis]], [[lymphocytic-esophagitis]], [[esophageal-dysfunction-systemic-disease]], [[celiac-disease]], [[barretts-esophagus]], [[inflammatory-bowel-disease]], [[crohns-disease]], [[upper-endoscopy]], [[colonoscopy]], [[proton-pump-inhibitors]]
 
 ---
 
@@ -263,3 +265,4 @@ Chronic, immune/antigen-mediated esophageal disease. Characterized by esophageal
 1. [[acg-2025-eoe|ACG 2025: Diagnosis and Management of Eosinophilic Esophagitis]]
 2. [[aga-2020-eoe|AGA/JTF Clinical Guideline: Management of Eosinophilic Esophagitis (2020)]]
 3. [[acg-2013-eoe|ACG 2013: Esophageal Eosinophilia and Eosinophilic Esophagitis (historical)]]
+4. [[aga-2024-esophageal-immunity-infection|AGA Clinical Practice Update on Esophageal Dysfunction Due to Disordered Immunity and Infection: Expert Review (2024)]]

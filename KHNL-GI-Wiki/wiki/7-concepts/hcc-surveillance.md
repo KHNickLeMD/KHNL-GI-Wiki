@@ -24,7 +24,7 @@ Framework for hepatocellular carcinoma surveillance — who, how, how often, and
 
 | Risk tier | Population | Annual HCC incidence |
 |---|---|---|
-| **Sufficient — surveillance advised** | [[cirrhosis\|Cirrhosis]], Child-Pugh A or B, any etiology ([[hepatitis-c|HCV]] viremic & post-SVR, [[chronic-hepatitis-b|HBV]], [[alcohol-associated-liver-disease|ALD]], [[nafld-masld|MASLD]], PBC/AIH) | Varies, >1.0% |
+| **Sufficient — surveillance advised** | [[cirrhosis\|Cirrhosis]], Child-Pugh A or B, any etiology ([[hepatitis-c|HCV]] viremic & post-SVR, [[chronic-hepatitis-b|HBV]], [[alcohol-associated-liver-disease|ALD]], [[nafld-masld|MASLD]], [[primary-biliary-cholangitis|PBC]]/[[autoimmune-hepatitis|AIH]]) | Varies, >1.0% |
 | | Child-Pugh C **if [[liver-transplantation\|transplant]] candidate** (waitlist tumor detection) | Varies, >1.0% |
 | | Chronic [[chronic-hepatitis-b|HBV]] **without** cirrhosis: men >40y / women >50y from endemic countries; Africans at earlier age; family history of HCC; PAGE-B ≥10 | >0.2% |
 | **Insufficient — not advised** (absent better biomarkers/risk tools) | ≤F3 fibrosis, including MASLD and HCV | <0.2% |

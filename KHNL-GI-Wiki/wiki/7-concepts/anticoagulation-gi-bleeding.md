@@ -134,7 +134,7 @@ The periendoscopic framework applies to patients undergoing **scheduled, electiv
 | [[ercp\|ERCP]] with sphincterotomy | Flexible sigmoidoscopy ± biopsy |
 | [[endoscopic-ultrasound\|EUS-FNA]] | EUS without FNA |
 | PEG/PEJ placement | [[ercp\|ERCP]] with stent, without sphincterotomy |
-| Endoscopic hemostasis (excl. APC) | Push/diagnostic balloon enteroscopy |
+| Endoscopic hemostasis (excl. [[argon-plasma-coagulation\|APC]]) | Push/diagnostic balloon enteroscopy |
 | Variceal treatment (incl. band ligation) | APC |
 | [[poem\|POEM]] | Polypectomy <1 cm |
 | [[radiofrequency-ablation\|Radiofrequency ablation]] | Enteral stent deployment |

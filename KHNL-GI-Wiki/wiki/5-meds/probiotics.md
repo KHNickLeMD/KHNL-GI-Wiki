@@ -42,7 +42,7 @@ The AGA recommends probiotic use **only in the context of a clinical trial** (no
 
 - Probiotic recommendations do **not** transfer across products — match the specific strain/combination and dose to the indication studied.
 - Potential harms (sepsis, especially in immunocompromised or severely ill patients) and cost are relevant trade-offs, particularly for low-risk indications.
-- Probiotics are an attempt to correct microbiome-related dysbiosis; for established recurrent C difficile, fecal microbiota transplantation has stronger evidence than probiotics.
+- Probiotics are an attempt to correct microbiome-related dysbiosis; for established recurrent C difficile, [[fmt|fecal microbiota transplantation]] has stronger evidence than probiotics.
 
 ## See Also
 

@@ -37,7 +37,7 @@ Massive **colonic dilatation without mechanical obstruction**, from altered auto
 - Mechanical large-bowel obstruction ([[colorectal-cancer|malignancy]], stricture) — primary exclusion
 - [[colonic-volvulus]] (sigmoid or cecal) — mechanical twist
 - Postoperative ileus
-- Toxic megacolon ([[clostridioides-difficile]], [[ulcerative-colitis]])
+- [[toxic-megacolon|Toxic megacolon]] ([[clostridioides-difficile]], [[ulcerative-colitis]])
 
 ## Diagnostics
 - **Contrast-enhanced CT** — preferred; excludes mechanical obstruction and assesses cecal diameter/ischemia (plain films cannot always distinguish functional from mechanical)

@@ -53,7 +53,7 @@ sources: [acg-2023-alf, acg-2016-liver-disease-pregnancy, aasld-ast-2025-liver-t
 
 - **Clichy criteria** (France): Factor V <20% in age <30, or <30% in age >30, with HE — low specificity, not widely used in US
 - **Escudie criteria** (mushroom poisoning only): diarrhea within 8 hr of ingestion OR prothrombin index <10% (~INR >6) at ≥4 days post-ingestion — use before HE develops
-- **Swansea criteria** (acute fatty liver of pregnancy): 6+ of 14 clinical/lab findings required
+- **Swansea criteria** ([[acute-fatty-liver-of-pregnancy|acute fatty liver of pregnancy]]): 6+ of 14 clinical/lab findings required
 
 ACG recommends using **either KCC or MELD** for prognostication (conditional, low quality evidence).
 

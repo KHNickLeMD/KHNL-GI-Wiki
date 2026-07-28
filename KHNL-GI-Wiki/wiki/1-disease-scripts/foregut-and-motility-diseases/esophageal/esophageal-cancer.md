@@ -30,7 +30,7 @@ TNM staging is histology-specific. Depth of invasion separates endoscopically cu
 
 *Workup: see [[dysphagia]].*
 
-[[gerd|Peptic stricture]] and other benign strictures, [[eosinophilic-esophagitis|eosinophilic esophagitis]], [[achalasia]] and other motility disorders, esophageal [[gastrointestinal-stromal-tumor|GIST]] or other subepithelial lesions, [[barretts-esophagus|Barrett's]] with dysplasia, and extrinsic compression.
+[[gerd|Peptic stricture]] and other benign strictures, [[eosinophilic-esophagitis|eosinophilic esophagitis]], [[achalasia]] and other motility disorders, esophageal [[gastrointestinal-stromal-tumor|GIST]] or other [[subepithelial-lesion|subepithelial lesions]], [[barretts-esophagus|Barrett's]] with dysplasia, and extrinsic compression.
 
 ## Diagnostics
 
