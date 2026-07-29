@@ -3,7 +3,7 @@ title: "Hemorrhoids"
 category: disease-script
 tags: [hemorrhoids, anorectal, rectal-bleeding, rubber-band-ligation, hemorrhoidectomy, colorectal]
 created: 2026-05-16
-updated: 2026-07-25
+updated: 2026-07-29
 sources: [acg-2021-anorectal-disorders, asge-2010-anorectal-disorders, aga-2026-hemorrhoids]
 ---
 
@@ -106,7 +106,7 @@ The diagnosis of symptomatic internal hemorrhoids requires exclusion of other so
 - Open or closed technique
 - More painful than office procedures; 2–4 weeks recovery
 - Healing 94–98% with minimal recurrence
-- Complications: urinary retention (10–20%), bleeding, infection, anal stricture, incontinence (rare)
+- Complications: urinary retention (10–20%), bleeding, infection, anal stricture, [[fecal-incontinence|incontinence]] (rare)
 
 **Stapled hemorrhoidopexy (PPH):** higher complication and recurrence rates compared to conventional hemorrhoidectomy — generally avoided per ACG 2021.
 

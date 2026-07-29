@@ -3,11 +3,11 @@ title: "Colorectal Cancer"
 category: disease-script
 tags: [crc, colorectal-cancer, adenocarcinoma, oncology, screening, surveillance, post-resection, metachronous, rectal-cancer]
 created: 2026-05-19
-updated: 2026-07-16
+updated: 2026-07-29
 sources: [acg-2015-hereditary-gi-cancer, usmstf-2015-crc-surveillance, usmstf-2016-fit-screening, acg-2021-crc-screening, nccn-2026-colon-cancer, asge-2013-crc-staging-management, aga-2025-endoscopic-resection-crc]
 ---
 
-*Screening is covered in [[colorectal-cancer-screening]] and in detail below (FIT). Hereditary syndromes: [[lynch-syndrome]], [[familial-adenomatous-polyposis]], [[peutz-jeghers-syndrome]], [[juvenile-polyposis-syndrome]], [[cowden-syndrome]], [[serrated-polyposis-syndrome]]. Polyp management: [[polypectomy-emr]] and [[colonoscopy]].*
+*Screening is covered in [[colorectal-cancer-screening]] and in detail below (FIT). Hereditary syndromes: [[lynch-syndrome]], [[familial-adenomatous-polyposis]], [[mutyh-associated-polyposis]], [[peutz-jeghers-syndrome]], [[juvenile-polyposis-syndrome]], [[cowden-syndrome]], [[serrated-polyposis-syndrome]]. Polyp management: [[polypectomy-emr]] and [[colonoscopy]].*
 
 ## Assessment
 
@@ -23,6 +23,8 @@ sources: [acg-2015-hereditary-gi-cancer, usmstf-2015-crc-surveillance, usmstf-20
 - Stage I–IV; LN status drives adjuvant therapy
 
 ## Differential Diagnosis
+
+*Workup: see [[acute-lower-gi-bleeding]].*
 
 - [[inflammatory-bowel-disease|IBD]]-associated dysplasia, large adenoma, [[gastroenteropancreatic-neuroendocrine-tumors|neuroendocrine tumor]], lymphoma, anal canal SCC, metastatic disease
 
@@ -135,7 +137,7 @@ flowchart TD
 | 3rd surveillance | **5 years** later (9 years from surgery) | If 2nd exam negative |
 | Subsequent | **Every 5 years** | Until benefit outweighed by diminished life expectancy |
 
-- If **neoplastic polyps detected** at any examination: shorten interval per published post-polypectomy guidelines (see [[colonoscopy]])
+- If **neoplastic polyps detected** at any examination: shorten interval per published [[colonoscopy-surveillance|post-polypectomy surveillance]] guidelines (see [[colonoscopy]])
 - Surveillance continues lifelong or until age/comorbidity outweigh benefit
 - **These intervals do not apply to patients with [[lynch-syndrome]]**
 

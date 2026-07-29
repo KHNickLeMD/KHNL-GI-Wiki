@@ -3,7 +3,7 @@ title: "Endoscopy Ergonomics & Endoscopy-Related Injury (ERI)"
 category: concept
 tags: [ergonomics, endoscopy-related-injury, eri, occupational-health, musculoskeletal, endoscopy]
 created: 2026-06-05
-updated: 2026-07-17
+updated: 2026-07-29
 sources: [asge-2023-ergonomics]
 ---
 
@@ -50,7 +50,7 @@ The guideline issues 2 strong and 3 conditional recommendations, **all on very l
 
 ## See Also
 
-[[colonoscopy]], [[upper-endoscopy]], [[ercp]], [[endoscopic-ultrasound]]
+[[colonoscopy]], [[upper-endoscopy]], [[ercp]], [[endoscopic-ultrasound]], [[endoscopy-sedation]]
 
 ---
 

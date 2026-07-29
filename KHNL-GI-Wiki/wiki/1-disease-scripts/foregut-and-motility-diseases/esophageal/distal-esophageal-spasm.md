@@ -3,8 +3,8 @@ title: "Distal Esophageal Spasm"
 category: disease-script
 tags: [des, spasm, esophageal, motility, dysphagia, chest-pain, chicago-classification]
 created: 2026-05-16
-updated: 2026-07-25
-sources: [chicago-v4-2021-esophageal-dysmotility, aga-2025-flip-esophageal, acg-2020-achalasia]
+updated: 2026-07-29
+sources: [chicago-v4-2021-esophageal-dysmotility, aga-2025-flip-esophageal, acg-2020-achalasia, aga-2024-poem-advances]
 ---
 
 *Classified under [[chicago-classification-v4|Chicago Classification v4.0]]. Related: [[hypercontractile-esophagus]], [[ineffective-esophageal-motility]].*
@@ -47,6 +47,7 @@ Distal esophageal spasm (DES) is defined by **Chicago Classification v4.0** crit
 
 - Treat co-existent [[gerd|GERD]] first — acid exposure can trigger spasm
 - [[poem|POEM]] is an option for refractory dysphagia-predominant spastic disorders; the ACG achalasia guideline frames POEM as favored for spastic (Type III) disease due to longer myotomy reach ([[acg-2020-achalasia]])
+- **AGA 2024 CPU caveat:** for **nonachalasia** spastic disorders, evidence for POEM is limited — reserve for **case-by-case** use after less invasive options (medical therapy, botulinum toxin, endoscopic dilation) are exhausted, with symptoms correlated to manometry ([[aga-2024-poem-advances|AGA 2024]] BPA 3)
 
 *Medical management specific to DES (smooth-muscle relaxants, neuromodulators) is not covered by an ingested source — awaiting a dedicated spastic-disorders / non-cardiac chest pain source.*
 
@@ -63,3 +64,4 @@ Distal esophageal spasm (DES) is defined by **Chicago Classification v4.0** crit
 1. [[chicago-v4-2021-esophageal-dysmotility|Chicago Classification v4.0: Esophageal Motility Disorders]]
 2. [[aga-2025-flip-esophageal|AGA Clinical Practice Update: Incorporating FLIP Into Esophageal Clinical Practice]]
 3. [[acg-2020-achalasia|ACG 2020: Diagnosis and Management of Achalasia]]
+4. [[aga-2024-poem-advances|AGA Clinical Practice Update on Advances in Per-Oral Endoscopic Myotomy (POEM) and Remaining Questions—What We Have Learned in the Past Decade: Expert Review (2024)]]

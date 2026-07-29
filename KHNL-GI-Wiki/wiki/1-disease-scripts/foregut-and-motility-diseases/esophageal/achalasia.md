@@ -3,8 +3,8 @@ title: "Achalasia"
 category: disease-script
 tags: [achalasia, esophageal-motility, dysphagia, hrm, poem, heller-myotomy, pneumatic-dilation, foregut]
 created: 2026-05-15
-updated: 2026-07-28
-sources: [acg-2020-achalasia, asge-2020-achalasia, sages-2021-poem, aga-2024-esophageal-immunity-infection]
+updated: 2026-07-29
+sources: [acg-2020-achalasia, asge-2020-achalasia, sages-2021-poem, aga-2024-poem-advances, aga-2024-esophageal-immunity-infection]
 ---
 # Achalasia
 
@@ -158,9 +158,11 @@ flowchart TD
 - Myotomy length tailored to spastic segment (especially Type III) — key advantage over LHM
 - Success: >90% in prospective cohorts; 92% at 2 years in the Ponds RCT; equivalent to LHM (83% vs 82%)
 - **Type III: 93% success vs 71% for LHM** (Conditional; Low evidence)
-- **Higher GERD incidence:** 39% abnormal pH monitoring vs 17% for LHM; 29% erosive esophagitis
+- **Higher GERD incidence:** 39% abnormal pH monitoring vs 17% for LHM; 29% erosive esophagitis. AGA 2024 CPU: abnormal acid exposure **41–56%**, esophagitis **41–65%**; **~¼ asymptomatic** → symptoms alone insufficient
+- Empiric acid suppression in immediate post-POEM period, continue **≥3–6 months**; objective reflux testing **6–12 months** post-POEM (off-PPI if GERD in question; on-PPI if GERD established or esophagitis LA grade ≥B)
 - Screen post-POEM patients for erosive esophagitis and [[barretts-esophagus|Barrett's esophagus]]
 - Advise patients lifelong PPI may be needed
+- See [[poem]] for full pre/postprocedure management, myotomy tailoring, and same-day-discharge criteria
 
 > **Recommendation:** POEM is associated with higher GERD incidence compared to LHM + fundoplication or PD. Consider lifelong acid suppression and surveillance for erosive esophagitis/BE. (Strong; Moderate evidence)
 
@@ -201,13 +203,13 @@ flowchart TD
 
 **Failed LHM or POEM → PD:** Safe and effective (89% success post-LHM, comparable post-POEM). (Strong; Moderate evidence)
 
-**Failed PD or LHM → POEM:** Safe option; 94% clinical success post-LHM at 12 months. (Strong; Low evidence)
+**Failed PD or LHM → POEM:** Safe option; 94% clinical success post-LHM at 12 months. (Strong; Low evidence) AGA 2024 CPU: POEM may be superior to PD after failed initial POEM/LHM — RCT after failed LHM showed **POEM 62% vs PD 27%** success, no difference in esophagitis/reflux/adverse events.
 
 **Failed PD + POEM → LHM:** Consider if incomplete myotomy and favorable anatomy (before esophagectomy). (Strong; Very low evidence)
 
 ### Cancer Surveillance
 
-- Achalasia → **28x HR for esophageal squamous cell carcinoma**; ~1 cancer per 300 patient years; adenocarcinoma risk also elevated (but lower)
+- Achalasia → **28x HR for esophageal squamous cell carcinoma**; ~1 cancer per 300 patient years; adenocarcinoma risk also elevated (but lower). (AGA 2024 CPU cites a 9314-patient cohort with **HR 4.6** [95% CI 2.3–9.2] for esophageal cancer overall)
 - Despite elevated risk, >400 endoscopies needed to detect one cancer; poor survival once detected
 - **Do NOT recommend routine endoscopic surveillance** for esophageal carcinoma (Strong; Low evidence)
 - Some experts favor surveillance every 3 years after 10–15 years of disease; individualize decision
@@ -216,7 +218,7 @@ flowchart TD
 
 ## See Also
 
-[[dysphagia]], [[high-resolution-manometry]], [[flip-panometry]], [[poem]], [[chicago-classification-v4]], [[distal-esophageal-spasm]], [[hypercontractile-esophagus]], [[gerd]], [[eosinophilic-esophagitis]], [[esophageal-dysfunction-systemic-disease]], [[upper-endoscopy]], [[heller-myotomy]]
+[[dysphagia]], [[high-resolution-manometry]], [[flip-panometry]], [[poem]], [[chicago-classification-v4]], [[distal-esophageal-spasm]], [[hypercontractile-esophagus]], [[esophagogastric-junction-outflow-obstruction]], [[gerd]], [[eosinophilic-esophagitis]], [[esophageal-dysfunction-systemic-disease]], [[upper-endoscopy]], [[heller-myotomy]]
 
 ---
 
@@ -225,4 +227,5 @@ flowchart TD
 1. [[acg-2020-achalasia|ACG 2020: Diagnosis and Management of Achalasia]]
 2. [[asge-2020-achalasia|ASGE Guideline: Management of Achalasia (2020)]]
 3. [[sages-2021-poem|SAGES Guidelines for the Use of Peroral Endoscopic Myotomy (POEM) for the Treatment of Achalasia (2021)]]
-4. [[aga-2024-esophageal-immunity-infection|AGA Clinical Practice Update on Esophageal Dysfunction Due to Disordered Immunity and Infection: Expert Review (2024)]]
+4. [[aga-2024-poem-advances|AGA Clinical Practice Update on Advances in Per-Oral Endoscopic Myotomy (POEM) and Remaining Questions—What We Have Learned in the Past Decade: Expert Review (2024)]]
+5. [[aga-2024-esophageal-immunity-infection|AGA Clinical Practice Update on Esophageal Dysfunction Due to Disordered Immunity and Infection: Expert Review (2024)]]

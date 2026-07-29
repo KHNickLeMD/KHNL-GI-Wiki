@@ -3,7 +3,7 @@ title: "Segmental Colitis Associated with Diverticulosis (SCAD)"
 category: disease-script
 tags: [scad, diverticular-disease, colitis, colorectal]
 created: 2026-07-23
-updated: 2026-07-23
+updated: 2026-07-29
 sources: [acg-2026-diverticulitis]
 ---
 
@@ -39,7 +39,7 @@ Chronic inflammatory condition affecting colonic segments that bear diverticula,
 
 ## See Also
 
-[[diverticulitis]], [[ulcerative-colitis]], [[crohns-disease]]
+[[diverticulitis]], [[ulcerative-colitis]], [[crohns-disease]], [[inflammatory-bowel-disease]]
 
 ---
 

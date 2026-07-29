@@ -3,7 +3,7 @@ title: "Ulcerative Colitis"
 category: disease-script
 tags: [uc, ulcerative-colitis, ibd, 5-asa, biologics, anti-tnf, vedolizumab, asuc, pancolitis, proctitis]
 created: 2026-05-07
-updated: 2026-07-26
+updated: 2026-07-29
 sources: [acg-2025-uc, aga-2024-uc-pharm, aga-2024-pouchitis, aga-2023-biomarkers-uc, acg-2019-uc, asge-2015-scenic-ibd-dysplasia, asge-2015-ibd, aga-2026-inpatient-ibd, aga-2024-intestinal-ultrasound, aga-2024-diet-nutrition-ibd, aga-2024-ibd-malignancy, aga-2024-pregnancy-gi-liver]
 ---
 
@@ -57,7 +57,7 @@ Idiopathic chronic inflammatory disorder of the large intestine. Continuous muco
 
 - **[[ibd-endoscopic-scoring|Mayo Endoscopic Score (MES)]]:** 0 (normal/inactive) to 3 (severe: spontaneous bleeding, ulcerations)
   - Endoscopic remission = MES 0–1; endoscopic response = ≥1-point reduction
-- **UCEIS:** 0–8 (vascular pattern + bleeding + erosions/ulcers)
+- **[[ibd-endoscopic-scoring|UCEIS]]:** 0–8 (vascular pattern + bleeding + erosions/ulcers)
 
 ### Poor Prognostic Factors (any → treat as moderate-severe)
 

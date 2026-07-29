@@ -3,7 +3,7 @@ title: "Juvenile Polyposis Syndrome"
 category: disease-script
 tags: [juvenile-polyposis, jps, smad4, bmpr1a, hamartoma, hereditary-crc, hht, upper-gi-cancer, genetic-testing]
 created: 2026-05-19
-updated: 2026-07-16
+updated: 2026-07-29
 sources: [acg-2015-hereditary-gi-cancer, aga-2022-hamartomatous-polyposis]
 ---
 
@@ -96,7 +96,7 @@ Juvenile polyposis syndrome (JPS) is an autosomal-dominant hamartomatous polypos
 - When polyps cannot be managed endoscopically
 - Cancer or high-grade dysplasia
 - IRA will later require completion proctectomy in half of patients due to polyp profusion
-- Complete or partial gastrectomy may be needed for advanced gastric dysplasia, gastric cancer, or massive gastric polyposis that cannot be controlled endoscopically
+- Complete or partial gastrectomy may be needed for advanced gastric dysplasia, [[gastric-adenocarcinoma|gastric cancer]], or massive gastric polyposis that cannot be controlled endoscopically
 
 ### Monitoring
 
@@ -107,7 +107,7 @@ Juvenile polyposis syndrome (JPS) is an autosomal-dominant hamartomatous polypos
 
 ## See Also
 
-[[peutz-jeghers-syndrome]], [[familial-adenomatous-polyposis]], [[cowden-syndrome]], [[lynch-syndrome]], [[colorectal-cancer]], [[colonoscopy]], [[upper-endoscopy]], [[capsule-endoscopy]], [[hereditary-hemorrhagic-telangiectasia]], [[device-assisted-enteroscopy]], [[polypectomy-emr]]
+[[peutz-jeghers-syndrome]], [[familial-adenomatous-polyposis]], [[cowden-syndrome]], [[lynch-syndrome]], [[colorectal-cancer]], [[colonoscopy]], [[upper-endoscopy]], [[capsule-endoscopy]], [[gastric-adenocarcinoma]], [[hereditary-hemorrhagic-telangiectasia]], [[device-assisted-enteroscopy]], [[polypectomy-emr]]
 
 ---
 

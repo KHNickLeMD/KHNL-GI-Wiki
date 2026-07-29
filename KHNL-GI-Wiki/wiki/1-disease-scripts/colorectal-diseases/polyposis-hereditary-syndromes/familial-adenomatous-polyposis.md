@@ -3,7 +3,7 @@ title: "Familial Adenomatous Polyposis"
 category: disease-script
 tags: [fap, apc, afap, map, mutyh, hereditary-crc, polyposis, duodenal-adenoma, desmoid, spigelman, genetic-testing, colorectal-cancer]
 created: 2026-05-19
-updated: 2026-07-16
+updated: 2026-07-29
 sources: [acg-2015-hereditary-gi-cancer, asge-2020-fap]
 ---
 
@@ -17,7 +17,7 @@ Familial adenomatous polyposis (FAP) and its related syndromes — attenuated FA
 
 - Personal history of ≥10 cumulative colorectal adenomas
 - Family history of one of the adenomatous polyposis syndromes
-- Presence of FAP-type extracolonic manifestations: duodenal/[[ampullary-adenoma|ampullary adenomas]], desmoid tumors (abdominal > peripheral), papillary thyroid cancer, CHRPE (congenital hypertrophy of the retinal pigment epithelium), epidermal cysts, osteomas (Gardner syndrome)
+- Presence of FAP-type extracolonic manifestations: [[nonampullary-duodenal-adenoma|duodenal]]/[[ampullary-adenoma|ampullary adenomas]], desmoid tumors (abdominal > peripheral), papillary thyroid cancer, CHRPE (congenital hypertrophy of the retinal pigment epithelium), epidermal cysts, osteomas (Gardner syndrome)
 - ASGE defines **clinical polyposis warranting testing** as **≥10 adenomas on a single endoscopy** *and* **≥20 adenomas over a lifetime**; suspected FAP relatives are tested at 10–12 y, suspected AFAP/MAP at 18–20 y [[asge-2020-fap]]
 
 **Germline testing**: APC gene sequencing + deletion/duplication analysis; if APC-negative and polyp count <100, test MUTYH (both alleles) [[acg-2015-hereditary-gi-cancer]].
@@ -228,7 +228,7 @@ Familial adenomatous polyposis (FAP) and its related syndromes — attenuated FA
 
 ## See Also
 
-[[lynch-syndrome]], [[mutyh-associated-polyposis]], [[peutz-jeghers-syndrome]], [[juvenile-polyposis-syndrome]], [[cowden-syndrome]], [[colorectal-cancer]], [[colorectal-cancer-screening]], [[colonoscopy]], [[upper-endoscopy]], [[serrated-polyposis-syndrome]], [[ampullary-adenoma]], [[gastric-polyps]], [[gastric-adenocarcinoma]], [[device-assisted-enteroscopy]], [[polypectomy-emr]]
+[[lynch-syndrome]], [[mutyh-associated-polyposis]], [[peutz-jeghers-syndrome]], [[juvenile-polyposis-syndrome]], [[cowden-syndrome]], [[colorectal-cancer]], [[colorectal-cancer-screening]], [[colonoscopy]], [[upper-endoscopy]], [[serrated-polyposis-syndrome]], [[ampullary-adenoma]], [[nonampullary-duodenal-adenoma]], [[gastric-polyps]], [[gastric-adenocarcinoma]], [[device-assisted-enteroscopy]], [[polypectomy-emr]]
 
 ---
 

@@ -3,7 +3,7 @@ title: "Gastric Adenocarcinoma"
 category: disease-script
 tags: [gastric-cancer, gastric-adenocarcinoma, gastric, malignancy, her2, pd-l1, msi-h, dmmr, claudin-18.2, flot, gastrectomy, endoscopic-resection, trastuzumab, zolbetuximab, nccn, oncology]
 created: 2026-06-01
-updated: 2026-07-25
+updated: 2026-07-29
 sources: [nccn-2026-gastric-cancer, asge-2015-gastric-premalignant]
 ---
 
@@ -62,7 +62,7 @@ flowchart TD
 
 ## See Also
 
-[[gastric-premalignant-conditions]], [[gastric-intestinal-metaplasia]], [[atrophic-gastritis]], [[helicobacter-pylori-infection]], [[hereditary-diffuse-gastric-cancer]], [[esophageal-cancer]], [[gastrointestinal-stromal-tumor]], [[gastroenteropancreatic-neuroendocrine-tumors]], [[upper-endoscopy]], [[endoscopic-ultrasound]]
+[[gastric-premalignant-conditions]], [[gastric-intestinal-metaplasia]], [[atrophic-gastritis]], [[helicobacter-pylori-infection]], [[hereditary-diffuse-gastric-cancer]], [[juvenile-polyposis-syndrome]], [[peutz-jeghers-syndrome]], [[familial-adenomatous-polyposis]], [[lynch-syndrome]], [[esophageal-cancer]], [[gastrointestinal-stromal-tumor]], [[gastroenteropancreatic-neuroendocrine-tumors]], [[upper-endoscopy]], [[endoscopic-ultrasound]]
 
 ---
 

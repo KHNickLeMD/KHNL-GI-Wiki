@@ -3,7 +3,7 @@ title: "Gastroparesis"
 category: disease-script
 tags: [gastroparesis, gastric-motility, prokinetics, g-poem, gastric-emptying, foregut]
 created: 2026-05-15
-updated: 2026-07-17
+updated: 2026-07-29
 sources: [acg-2022-gastroparesis, aga-2025-gastroparesis, surjanhata-2025-constipation-gastroparesis]
 ---
 
@@ -296,7 +296,7 @@ sources: [acg-2022-gastroparesis, aga-2025-gastroparesis, surjanhata-2025-consti
 
 ## See Also
 
-[[disorders-of-gut-brain-interaction]], [[gerd]], [[dyspepsia]], [[rumination-syndrome]], [[flip-panometry]], [[prucalopride]], [[upper-endoscopy]], [[nausea-and-vomiting]]
+[[disorders-of-gut-brain-interaction]], [[gerd]], [[dyspepsia]], [[rumination-syndrome]], [[flip-panometry]], [[g-poem]], [[poem]], [[prucalopride]], [[upper-endoscopy]], [[nausea-and-vomiting]]
 
 ---
 

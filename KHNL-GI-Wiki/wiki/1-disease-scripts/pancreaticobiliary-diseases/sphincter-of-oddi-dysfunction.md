@@ -3,7 +3,7 @@ title: "Sphincter of Oddi Dysfunction"
 category: disease-script
 tags: [sphincter-of-oddi, biliary, pancreatic, ercp, manometry, sphincterotomy, post-cholecystectomy-pain, idiopathic-recurrent-pancreatitis, episod]
 created: 2026-07-17
-updated: 2026-07-17
+updated: 2026-07-29
 sources: [asge-2015-ercp-benign-biliary, asge-2015-benign-pancreatic-disease]
 ---
 
@@ -24,7 +24,7 @@ sources: [asge-2015-ercp-benign-biliary, asge-2015-benign-pancreatic-disease]
 
 - **Sphincter of Oddi dysfunction (SOD)** = abnormal (usually hypertensive) motility of the sphincter complex at the ampulla, causing obstruction to bile and/or pancreatic-juice flow.
 - The sphincter complex has three parts: a **biliary sphincter**, a **pancreatic sphincter**, and a **common sphincter** — SOD may present with biliary and/or pancreatic signs and symptoms. ([[asge-2015-ercp-benign-biliary]])
-- Presents as **biliary- or pancreatic-type pain**, classically **post-cholecystectomy**, or as **idiopathic recurrent acute pancreatitis** ([[acute-pancreatitis|IRAP]]).
+- Presents as **biliary- or pancreatic-type pain**, classically **post-cholecystectomy**, or as **idiopathic [[recurrent-acute-pancreatitis|recurrent acute pancreatitis]]** ([[acute-pancreatitis|IRAP]]).
 - **The type drives management** — objective lab/imaging abnormalities separate the types that benefit from sphincterotomy from those that do not.
 
 ### Establishing the Diagnosis
@@ -62,7 +62,7 @@ Two parallel 3-type schemes — **biliary** (Rome III revision of the Milwaukee 
 - [[choledocholithiasis|CBD stones]] / microlithiasis / biliary sludge.
 - [[biliary-stricture|Biliary stricture]] (benign or malignant).
 - [[chronic-pancreatitis|Chronic pancreatitis]] and pancreatic-duct stones.
-- Pancreas divisum (a structural cause of recurrent pancreatitis, evaluated separately).
+- [[pancreas-divisum|Pancreas divisum]] (a structural cause of recurrent pancreatitis, evaluated separately).
 - Functional biliary-type pain / post-cholecystectomy pain **without** SOD (the type III population).
 
 ## Diagnostics

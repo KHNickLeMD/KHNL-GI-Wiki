@@ -3,7 +3,7 @@ title: "Small Bowel Bleeding"
 category: diagnostic-schema
 tags: [small-bowel, gi-bleeding, obscure-gi-bleeding, mid-gi-bleeding, capsule-endoscopy, deep-enteroscopy, angioectasia, vce, dbe, iron-deficiency-anemia]
 created: 2026-05-19
-updated: 2026-07-25
+updated: 2026-07-29
 sources: [acg-2015-small-bowel-bleeding, aga-2020-ida, asge-2017-small-bowel-bleeding]
 ---
 
@@ -35,7 +35,7 @@ This guideline replaces the older term **"obscure GI bleeding (OGIB)"** with ana
 
 | Age < 40 years | Age > 40 years | Rare (any age) |
 |---|---|---|
-| [[inflammatory-bowel-disease\|Inflammatory bowel disease]] ([[crohns-disease]]) | [[angioectasia\|Angioectasia]] ([[angioectasia]]) | Henoch-Schönlein purpura |
+| [[inflammatory-bowel-disease\|Inflammatory bowel disease]] ([[crohns-disease]]) | [[angioectasia\|Angioectasia]] | Henoch-Schönlein purpura |
 | Dieulafoy's lesions | Dieulafoy's lesions | Amyloidosis |
 | Neoplasia | Neoplasia | Blue rubber bleb nevus syndrome |
 | [[meckels-diverticulum]] | [[peptic-ulcer-disease\|NSAID ulcers]] | Pseudoxanthoma elasticum |

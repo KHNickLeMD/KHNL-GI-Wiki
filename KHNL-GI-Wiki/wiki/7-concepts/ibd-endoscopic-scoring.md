@@ -3,7 +3,7 @@ title: "IBD Endoscopic Scoring Indices"
 category: concept
 tags: [ibd, crohns, ulcerative-colitis, endoscopy, scoring, mayo-endoscopic-score, uceis, ses-cd, cdeis, rutgeerts-score]
 created: 2026-07-23
-updated: 2026-07-23
+updated: 2026-07-29
 sources: [aga-2024-ibd-endoscopic-scoring]
 ---
 
@@ -26,7 +26,7 @@ Standardized endoscopic scoring indices for [[ulcerative-colitis]] (MES, UCEIS) 
 - **Clinical–endoscopic dissociation:** as many as **one-half of patients in clinical remission still have endoscopic evidence of active disease** (in SONIC, only half of those in clinical remission had endoscopic healing) — so patients are under- or over-treated when endoscopy is skipped.
 - **STRIDE-II (IOIBD) treat-to-target sequence:** clinical response/remission → biomarker normalization → endoscopic healing. Reducing inflammation matters most **early**, before irreversible injury.
 - **Histologic healing is not yet a recommended endpoint** requiring medical-therapy adjustment.
-- **Uptake problem:** MES and SES-CD are used by IBD specialists but **not universally by general gastroenterologists**; interobserver agreement for MES ranges from high to only fair/moderate, and CDEIS agreement for superficial vs deep ulceration is only fair. Dedicated training programs can raise less-experienced endoscopists to expert central-reader level.
+- **Uptake problem:** MES and SES-CD are used by [[inflammatory-bowel-disease|IBD]] specialists but **not universally by general gastroenterologists**; interobserver agreement for MES ranges from high to only fair/moderate, and CDEIS agreement for superficial vs deep ulceration is only fair. Dedicated training programs can raise less-experienced endoscopists to expert central-reader level.
 
 | Disease | Index | Range | Validation |
 |---|---|---|---|

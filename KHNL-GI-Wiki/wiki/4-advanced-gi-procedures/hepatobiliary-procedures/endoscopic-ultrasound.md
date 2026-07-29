@@ -3,8 +3,8 @@ title: "Endoscopic Ultrasound (EUS)"
 category: advanced-procedure
 tags: [eus, endoscopic-ultrasound, fna, fnb, pancreatic-mass, pancreatic-cysts, ipmn, mcn, biliary-drainage, eus-guided-drainage, quality-indicators, gastroenterostomy]
 created: 2026-05-07
-updated: 2026-07-16
-sources: [acg-2025-eus-quality, acg-2018-pancreatic-cysts, asge-2024-solid-pancreatic-masses, asge-2011-eus-mediastinal-adenopathy]
+updated: 2026-07-29
+sources: [acg-2025-eus-quality, acg-2018-pancreatic-cysts, asge-2024-solid-pancreatic-masses, asge-2011-eus-mediastinal-adenopathy, aga-2022-recurrent-pancreatitis-endoscopy]
 ---
 
 # Endoscopic Ultrasound (EUS)
@@ -20,6 +20,7 @@ EUS quality standards from ACG/ASGE 2025 Quality Indicator document. [[acg-2025-
 - Staging upper GI malignancies ([[esophageal-cancer|esophageal]], [[gastric-adenocarcinoma|gastric]], [[colorectal-cancer|rectal]] cancers)
 - Characterization of [[subepithelial-lesion|subepithelial lesions]] (SELs)
 - Evaluation of pancreaticobiliary disorders (pancreatic masses, cysts, biliary dilation, [[choledocholithiasis]])
+- **Evaluation of unexplained [[acute-pancreatitis|acute]] / [[recurrent-acute-pancreatitis|recurrent acute pancreatitis]]** — preferred test after unrevealing initial workup (AGA 2022, BPA 1); yields etiology in 29–88% (most often occult biliary lithiasis); perform 2–6 wk after AP resolution
 - EUS-FNA/FNB of pancreatic masses, LN, or other lesions
 - [[pancreatic-cancer-screening|Pancreatic cancer screening]] in high-risk individuals (new indication vs prior)
 
@@ -31,7 +32,7 @@ EUS quality standards from ACG/ASGE 2025 Quality Indicator document. [[acg-2025-
 - EUS-guided gastroenterostomy (EUS-GE)
 - EUS-directed transgastric [[ercp|ERCP]] (EDGE) — for altered anatomy (Roux-en-Y)
 - EUS-guided [[liver-biopsy|liver biopsy]]
-- Celiac plexus block/neurolysis (EUS-CPB/CPN)
+- Celiac plexus block/neurolysis (EUS-CPB/CPN) — for [[chronic-pancreatitis|CP]] pain, **not routine** (AGA 2022, BPA 8): case-by-case for debilitating refractory pain; pain relief 50–60% lasting ≤6 mo, almost all still need analgesics; major AEs <1%
 - Fiducial placement, ablation
 
 Note: Therapeutic EUS now accounts for >50% of accepted EUS indications. Indication target is >90% (not >95%) to allow latitude for novel interventional EUS applications.
@@ -158,7 +159,7 @@ From [[asge-2011-eus-mediastinal-adenopathy]]:
 
 ## See Also
 
-[[pancreatic-cysts]], [[pancreatic-cancer]], [[pancreatic-cancer-screening]], [[ercp]], [[cholangioscopy]], [[subepithelial-lesion]], [[liver-biopsy]], [[choledocholithiasis]], [[acute-pancreatitis]], [[biliary-stricture]]
+[[pancreatic-cysts]], [[pancreatic-cancer]], [[pancreatic-cancer-screening]], [[ercp]], [[cholangioscopy]], [[subepithelial-lesion]], [[liver-biopsy]], [[choledocholithiasis]], [[acute-pancreatitis]], [[recurrent-acute-pancreatitis]], [[chronic-pancreatitis]], [[biliary-stricture]]
 
 ---
 
@@ -168,3 +169,4 @@ From [[asge-2011-eus-mediastinal-adenopathy]]:
 2. [[acg-2018-pancreatic-cysts|ACG 2018: Diagnosis and Management of Pancreatic Cysts]]
 3. [[asge-2024-solid-pancreatic-masses|ASGE Guideline: Role of Endoscopy in Solid Pancreatic Masses (2024)]]
 4. [[asge-2011-eus-mediastinal-adenopathy|ASGE 2011: EUS-Guided FNA in the Diagnosis of Mediastinal Adenopathy]]
+5. [[aga-2022-recurrent-pancreatitis-endoscopy|AGA 2022: Clinical Practice Update on the Endoscopic Approach to Recurrent Acute and Chronic Pancreatitis]]

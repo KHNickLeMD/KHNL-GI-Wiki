@@ -3,8 +3,8 @@ title: "Chronic Pancreatitis"
 category: disease-script
 tags: [pancreatitis, chronic, pancreas, hpb, exocrine-insufficiency, pain]
 created: 2026-05-16
-updated: 2026-07-26
-sources: [acg-2020-chronic-pancreatitis, acg-2020-sibo, asge-2024-chronic-pancreatitis-endoscopy, apa-2014-chronic-pancreatitis]
+updated: 2026-07-29
+sources: [acg-2020-chronic-pancreatitis, acg-2020-sibo, asge-2024-chronic-pancreatitis-endoscopy, apa-2014-chronic-pancreatitis, aga-2022-recurrent-pancreatitis-endoscopy]
 ---
 
 ## Assessment
@@ -186,7 +186,7 @@ Indicated when etiology unclear, family history, early onset, or pediatric/young
 Step 1: Lifestyle (alcohol/smoking cessation), non-opioid analgesics
 Step 2: Consider antioxidants (Cond/Moderate) — selenium 600 µg, ascorbic acid 0.54 g, β-carotene 9000 IU, α-tocopherol 270 IU, methionine 2 g daily; modest effect, mainly early disease
 Step 3: Adjuncts — pregabalin/gabapentin, TCA (extrapolated from chronic pain literature)
-Step 4: Celiac plexus block (Cond/Very Low) — EUS-guided > percutaneous; 3–6 months relief; ~25–96% response
+Step 4: Celiac plexus block (Cond/Very Low) — EUS-guided > percutaneous; 3–6 months relief; ~25–96% response. AGA 2022 (BPA 8): NOT routine — case-by-case for debilitating pain refractory to other measures; pain relief 50–60% lasting ≤6 mo, almost all still need analgesics; AEs = diarrhea/orthostatic hypotension (major AEs <1%)
 Step 5: Endoscopic decompression (ERCP ± ESWL for stones, stricture dilation, PD stent) — first-line for obstructive CP
 Step 6: Surgical drainage (Strong/Moderate) — Puestow / Frey / Beger / Whipple; SUPERIOR to endoscopy for long-term pain in obstructive CP if endoscopy fails or unsuccessful (Cahen RCT: 75% pain relief surgery vs. 32% endoscopy at 2y; Dite study mirrors)
 Step 7: Opiates only when all other options exhausted (Key Concept 7)
@@ -197,6 +197,25 @@ Experimental (research only): spinal cord stim, transmagnetic stim, radiation (K
 ⚠ Active alcohol consumption is a relative contraindication to elective interventional procedures (Key Concept 6) — urgent/emergent procedures still warranted for complications.
 
 ⚠ **PERT does NOT improve pain** (Rec 9, Cond/Low) — only for EPI complications.
+
+### Endoscopic vs surgical therapy for painful obstructive CP (AGA 2022)
+
+- **Surgery is favored over endoscopy for long-term treatment** of painful *obstructive* CP (BPA 4) — 3 RCTs (incl. ESCAPE, n=88 dilated MPD: complete/partial pain relief **58% surgery vs 39% endotherapy** at 18 mo). Surgery is a one-time intervention; endotherapy typically needs serial [[ercp|ERCPs]] over up to 12 months.
+- **Endoscopy is a reasonable alternative** for suboptimal operative candidates or those favoring a less invasive approach — provided they are clearly informed the advice primarily favors surgery.
+- Decompression is **almost never indicated in asymptomatic patients** (rare exception: young patient with unifocal obstruction downstream of viable parenchyma, to slow disease/islet-cell loss).
+
+**MPD stones (BPA 5)** — occur in ~60% of CP (more with alcohol >80 g/d, tobacco >20 cig/d); treat only if symptomatic obstruction:
+- **≤5 mm:** conventional [[ercp|ERCP]] pancreatography + standard extraction (sphincterotomy, dilation, balloon/basket).
+- **>5 mm:** **ESWL** (fragmentation >90%; complete duct clearance in >⅔) ± ERCP, and/or **pancreatoscopy-directed intraductal lithotripsy** (EHL or laser; technical success ~88%, AE ~12%) — often complementary for large/complex stones.
+
+**MPD strictures (BPA 6):**
+- **Prolonged plastic-stent therapy 6–12 months** with dilation + sequential **upsizing / multiple parallel stents** is the preferred approach; relieves pain in up to 85%.
+- **FCSEMS emerging** — vs multiple plastic stents: similar pain improvement (88% vs 89%) and stricture recurrence (8% vs 11%), fewer ERCPs, but **higher adverse-event rate (39% vs 14%)** → role not yet established; additional research needed.
+
+**Benign biliary stricture due to CP (BPA 7)** — occur in ~15% of advanced CP:
+- **ERCP with stent insertion is the preferred treatment.**
+- **FCSEMS favored over multiple plastic stents whenever feasible** — similar efficacy, significantly fewer exchange procedures (plastic requires sessions every 10–12 wk).
+- ⚠ **Caveat — gallbladder in situ:** if the stent will cover the cystic duct orifice, FCSEMS carries increased **cholecystitis** risk → reasonable to use multiple plastic stents instead. Continue stent therapy 6–12 months (depends on severity/type/response). See [[biliary-stricture]].
 
 ### Exocrine pancreatic insufficiency (EPI)
 
@@ -229,7 +248,7 @@ Experimental (research only): spinal cord stim, transmagnetic stim, radiation (K
 
 ## See Also
 
-[[acute-pancreatitis]], [[pancreatic-cancer]], [[pancreatic-cysts]], [[hereditary-pancreatitis]], [[biliary-stricture]], [[endoscopic-ultrasound]], [[ercp]], [[mri-mrcp]], [[pancreatic-cancer-screening]], [[small-intestinal-bacterial-overgrowth]]
+[[acute-pancreatitis]], [[recurrent-acute-pancreatitis]], [[pancreas-divisum]], [[pancreatic-cancer]], [[pancreatic-cysts]], [[hereditary-pancreatitis]], [[biliary-stricture]], [[endoscopic-ultrasound]], [[ercp]], [[mri-mrcp]], [[pancreatic-cancer-screening]], [[small-intestinal-bacterial-overgrowth]]
 
 ---
 
@@ -239,4 +258,5 @@ Experimental (research only): spinal cord stim, transmagnetic stim, radiation (K
 2. [[acg-2020-sibo|ACG 2020: Small Intestinal Bacterial Overgrowth]]
 3. [[asge-2024-chronic-pancreatitis-endoscopy|ASGE Guideline: Role of Endoscopy in Management of Chronic Pancreatitis (2024)]]
 4. [[apa-2014-chronic-pancreatitis|APA 2014: Chronic Pancreatitis — Diagnostic Guidelines]]
-5. Catalano MF, et al. EUS-based criteria for the diagnosis of chronic pancreatitis: the Rosemont classification. *Gastrointest Endosc.* 2009;69(7):1251–61. [PMID 19243769](https://pubmed.ncbi.nlm.nih.gov/19243769/)
+5. [[aga-2022-recurrent-pancreatitis-endoscopy|AGA 2022: Clinical Practice Update on the Endoscopic Approach to Recurrent Acute and Chronic Pancreatitis]]
+6. Catalano MF, et al. EUS-based criteria for the diagnosis of chronic pancreatitis: the Rosemont classification. *Gastrointest Endosc.* 2009;69(7):1251–61. [PMID 19243769](https://pubmed.ncbi.nlm.nih.gov/19243769/)

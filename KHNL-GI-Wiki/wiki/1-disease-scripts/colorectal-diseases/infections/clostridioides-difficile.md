@@ -3,7 +3,7 @@ title: "Clostridioides difficile Infection"
 category: disease-script
 tags: [cdiff, clostridioides-difficile, colitis, vancomycin, fidaxomicin, fmt, colorectal]
 created: 2026-05-15
-updated: 2026-07-25
+updated: 2026-07-29
 sources: [acg-2021-cdiff, aga-2024-fmt, aga-2026-cdiff-ibd, feuerstadt-2022-ser109-cdiff]
 ---
 
@@ -29,7 +29,7 @@ sources: [acg-2021-cdiff, aga-2024-fmt, aga-2026-cdiff-ibd, feuerstadt-2022-ser1
 
 **Why not NAAT alone:** NAAT positivity in colonized (asymptomatic) patients is common — CDI rates rose artificially after NAAT adoption, and asymptomatic carriers may equal or exceed true CDI cases in some settings. NAAT-only testing therefore risks over-treating colonization.
 
-**When to suspect non-CDI diagnosis in test-positive patient:** Lack of response to vancomycin in non-severe cases; chronic intermittent or nonprogressive diarrhea; alternating constipation; post-infection IBS pattern after treated CDI episode.
+**When to suspect non-CDI diagnosis in test-positive patient:** Lack of response to vancomycin in non-severe cases; chronic intermittent or nonprogressive diarrhea; alternating constipation; [[postinfectious-ibs|post-infection IBS]] pattern after treated CDI episode.
 
 ### Severity Assessment
 
@@ -246,7 +246,7 @@ Higher doses of vancomycin (>125 mg QID) are not recommended for severe CDI — 
 
 ## See Also
 
-[[ulcerative-colitis]], [[crohns-disease]], [[inflammatory-bowel-disease]], [[colonoscopy]], [[salmonella-infection]], [[campylobacter-infection]], [[norovirus]], [[irritable-bowel-syndrome]], [[microscopic-colitis]], [[colon-ischemia]], [[acute-diarrhea]], [[fmt]], [[toxic-megacolon]]
+[[ulcerative-colitis]], [[crohns-disease]], [[inflammatory-bowel-disease]], [[colonoscopy]], [[salmonella-infection]], [[campylobacter-infection]], [[norovirus]], [[irritable-bowel-syndrome]], [[postinfectious-ibs]], [[microscopic-colitis]], [[colon-ischemia]], [[acute-diarrhea]], [[fmt]], [[toxic-megacolon]]
 
 ---
 

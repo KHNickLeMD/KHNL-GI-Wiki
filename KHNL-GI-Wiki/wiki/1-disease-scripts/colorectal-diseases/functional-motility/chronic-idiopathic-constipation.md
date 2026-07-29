@@ -3,7 +3,7 @@ title: "Chronic Idiopathic Constipation"
 category: disease-script
 tags: [constipation, cic, laxatives, secretagogues, peg, linaclotide, colorectal, functional]
 created: 2026-05-16
-updated: 2026-07-28
+updated: 2026-07-29
 sources: [aga-acg-2023-constipation, acg-2021-anorectal-disorders, asge-2014-constipation, aga-2026-refractory-constipation]
 ---
 
@@ -133,7 +133,7 @@ Assess impact on quality of life using validated tools (PAC-QoL, PAC-SYM) and st
 - [[linaclotide|Linaclotide]] and [[plecanatide]]: GC-C agonists; accelerate intestinal transit and secretion; diarrhea is main side effect; do not use in known or suspected GI obstruction; linaclotide 72 mcg also approved for CIC
 - [[prucalopride|Prucalopride]]: prokinetic; useful when colon transit is slow; avoid in renal failure (dose reduction)
 - Lubiprostone: FDA-approved for CIC in adults ≥18 years; nausea in 20–30%; limited by cost and need for BID dosing
-- IBS-C note: linaclotide 290 mcg, plecanatide 6 mg, and tegaserod (withdrawn in US) are IBS-C specific doses — do not apply this guideline to IBS-C
+- IBS-C note: linaclotide 290 mcg, plecanatide 6 mg, and [[tegaserod]] (withdrawn in US) are IBS-C specific doses — do not apply this guideline to IBS-C
 
 ### Defecation Disorder: Biofeedback
 

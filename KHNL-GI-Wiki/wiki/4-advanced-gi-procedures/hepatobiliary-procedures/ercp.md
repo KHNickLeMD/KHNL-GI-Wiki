@@ -3,8 +3,8 @@ title: "ERCP (Endoscopic Retrograde Cholangiopancreatography)"
 category: advanced-procedure
 tags: [ercp, biliary, pancreatic, hepatobiliary, sphincterotomy, stent, stone-extraction]
 created: 2026-05-16
-updated: 2026-07-26
-sources: [asge-2024-therapeutic-eus-biliary, asge-2023-post-ercp-pancreatitis, asge-2021-cholangitis, asge-2019-choledocholithiasis, asge-2023-post-transplant-biliary-strictures, asge-2015-ercp-benign-biliary, aga-2024-pregnancy-gi-liver]
+updated: 2026-07-29
+sources: [asge-2024-therapeutic-eus-biliary, asge-2023-post-ercp-pancreatitis, asge-2021-cholangitis, asge-2019-choledocholithiasis, asge-2023-post-transplant-biliary-strictures, asge-2015-ercp-benign-biliary, aga-2024-pregnancy-gi-liver, aga-2022-recurrent-pancreatitis-endoscopy]
 ---
 
 *Referenced in [[acute-pancreatitis]] (indications/timing) and [[biliary-stricture]] (tissue sampling, drainage). See [[endoscopic-ultrasound]] for combined EUS+ERCP approach. Now almost exclusively therapeutic — successful cholangiography with relief of obstruction is achievable in >90% of patients [[asge-2015-ercp-benign-biliary]].*
@@ -26,7 +26,13 @@ sources: [asge-2024-therapeutic-eus-biliary, asge-2023-post-ercp-pancreatitis, a
 **Pancreatic:**
 
 - Acute pancreatitis: ERCP only for **cholangitis** (emergent) or **persistent CBD obstruction** (not for all gallstone pancreatitis — ACG 2024; [[acute-pancreatitis]])
-- [[chronic-pancreatitis|Chronic pancreatitis]] with pancreatic duct stones/stricture — see [[chronic-pancreatitis]]
+- **[[recurrent-acute-pancreatitis|Recurrent acute pancreatitis]] — role of ERCP to reduce AP frequency is controversial** (AGA 2022; not a routine diagnostic step):
+  - **[[pancreas-divisum|Pancreas divisum]]:** minor papilla endotherapy (sphincterotomy ± dilation/stent) may be considered mainly with **objective outflow obstruction** (dilated dorsal duct and/or santorinicele); **no role for pain alone** (BPA 2). Risks: PEP 10–15%, minor-papilla stenosis up to 19%.
+  - **Standard ductal anatomy:** only after shared decision-making about uncertain benefit and severe AE risk; **biliary sphincterotomy alone may be preferable to dual sphincterotomy** (BPA 3).
+- **[[chronic-pancreatitis|Chronic pancreatitis]]** (AGA 2022) — treat symptomatic obstruction:
+  - **MPD stones:** conventional extraction if **≤5 mm**; **ESWL and/or pancreatoscopy-directed lithotripsy** if larger (BPA 5).
+  - **MPD strictures:** prolonged **6–12 mo plastic-stent upsizing** (multiple parallel stents); FCSEMS emerging but higher AE rate (BPA 6). Surgery favored over endoscopy for long-term pain in *obstructive* CP (BPA 4).
+  - **CP-related [[biliary-stricture|benign biliary stricture]]:** ERCP + stent is preferred; **FCSEMS favored over multiple plastic stents** (fewer exchanges) — but avoid FCSEMS covering the cystic duct if gallbladder in situ (cholecystitis risk) (BPA 7).
 - Pancreatic leak/fistula
 
 **Tissue sampling:**
@@ -84,7 +90,7 @@ sources: [asge-2024-therapeutic-eus-biliary, asge-2023-post-ercp-pancreatitis, a
 
 ## See Also
 
-[[acute-pancreatitis]], [[biliary-stricture]], [[choledocholithiasis]], [[endoscopic-ultrasound]], [[cholangioscopy]], [[chronic-pancreatitis]], [[cholangiocarcinoma]], [[primary-sclerosing-cholangitis]], [[sphincter-of-oddi-dysfunction]], [[liver-transplantation]], [[brush-cytology]], [[liver-disease-in-pregnancy]], [[mri-mrcp]]
+[[acute-pancreatitis]], [[recurrent-acute-pancreatitis]], [[pancreas-divisum]], [[biliary-stricture]], [[choledocholithiasis]], [[endoscopic-ultrasound]], [[cholangioscopy]], [[chronic-pancreatitis]], [[cholangiocarcinoma]], [[primary-sclerosing-cholangitis]], [[sphincter-of-oddi-dysfunction]], [[liver-transplantation]], [[brush-cytology]], [[liver-disease-in-pregnancy]], [[mri-mrcp]]
 
 ---
 
@@ -97,3 +103,4 @@ sources: [asge-2024-therapeutic-eus-biliary, asge-2023-post-ercp-pancreatitis, a
 5. [[asge-2023-post-transplant-biliary-strictures|ASGE Guideline on Management of Post–Liver Transplant Biliary Strictures: Summary and Recommendations (2023)]]
 6. [[asge-2015-ercp-benign-biliary|ASGE Guideline: The Role of ERCP in Benign Diseases of the Biliary Tract (2015)]]
 7. [[aga-2024-pregnancy-gi-liver|AGA Clinical Practice Update on Pregnancy-Related Gastrointestinal and Liver Disease: Expert Review]]
+8. [[aga-2022-recurrent-pancreatitis-endoscopy|AGA 2022: Clinical Practice Update on the Endoscopic Approach to Recurrent Acute and Chronic Pancreatitis]]

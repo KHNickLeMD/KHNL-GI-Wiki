@@ -3,7 +3,7 @@ title: "Acute Lower Gastrointestinal Bleeding (LGIB)"
 category: diagnostic-schema
 tags: [lower-gi-bleeding, lgib, hematochezia, diverticular, colonoscopy, hemorrhage, cta, risk-stratification]
 created: 2026-05-15
-updated: 2026-07-16
+updated: 2026-07-29
 sources: [acg-2023-lgib, asge-2014-lgib]
 ---
 
@@ -42,7 +42,7 @@ If [[upper-gi-bleeding|UGIB]] is clinically suspected, perform **urgent [[upper-
 | Etiology                     | Notes                                                                                                                                       |
 | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Diverticular hemorrhage**  | Most common cause; 26–64% of LGIB depending on colonoscopy utilization; painless, arterial, large-volume; from neck or dome of diverticulum |
-| **Ischemic colitis**         | Second most common; typically left colon (watershed areas); associated with hemodynamic compromise, vasopressor use, cardiovascular disease |
+| **[[colon-ischemia\|Ischemic colitis]]**         | Second most common; typically left colon (watershed areas); associated with hemodynamic compromise, vasopressor use, cardiovascular disease |
 | **[[hemorrhoids\|Hemorrhoids]] (internal)**   | Common but often low-volume; not covered by this schema                                                                                     |
 | **[[angioectasia\|Angioectasias]] (AVMs)**     | Typically older patients; often right colon; associated with anticoagulant use, chronic kidney disease, aortic stenosis ([[heydes-syndrome\|Heyde syndrome]])    |
 | **Colorectal neoplasia**     | Malignant lesions found in 2.5% of LGIB colonoscopies; weight loss, anemia, change in bowel habits are alarm features                       |
@@ -52,7 +52,7 @@ If [[upper-gi-bleeding|UGIB]] is clinically suspected, perform **urgent [[upper-
 
 | Etiology | Distinguishing Features |
 |---|---|
-| **[[colon-ischemia\|Ischemic colitis]]** | Acute onset, abdominal pain + hematochezia, watershed distribution (splenic flexure, sigmoid), CT showing bowel wall thickening |
+| **Ischemic colitis** | Acute onset, abdominal pain + hematochezia, watershed distribution (splenic flexure, sigmoid), CT showing bowel wall thickening |
 | **[[inflammatory-bowel-disease\|Inflammatory bowel disease]]** | [[crohns-disease]] or [[ulcerative-colitis]]; chronic course with diarrhea, tenesmus; may present acutely |
 | **Infectious colitis** | Fever, diarrhea, exposure history; stool cultures, [[clostridioides-difficile\|C. diff]] testing |
 | **[[radiation-proctopathy\|Radiation proctopathy]]** | History of pelvic radiation; rectal bleeding, telangiectasias on endoscopy; [[argon-plasma-coagulation\|APC]] is the mainstay endoscopic therapy |

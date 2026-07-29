@@ -3,7 +3,7 @@ title: "Ambulatory Reflux Monitoring"
 category: concept
 tags: [gerd, ph-monitoring, impedance, diagnosis, lyon-consensus]
 created: 2026-05-15
-updated: 2026-07-16
+updated: 2026-07-29
 sources: [lyon-2024-gerd-diagnosis, acg-2020-esophageal-physiologic-testing]
 ---
 
@@ -42,7 +42,7 @@ The Lyon 2.0 framework has two foundational principles:
 | Biopsy-proven [[barretts-esophagus\|Barrett's oesophagus]] | Conclusive |
 | Peptic stricture | Conclusive |
 
-**Key update:** LA grade B is now conclusive. Its AET on wireless pH monitoring is 8.23% (vs. 9.95% for grade C), and on pH-impedance is 6.0% (vs. 8.7% for grade C). PPI response rate is 74% for grade B vs. 70% for grade C — comparable to higher grades.
+**Key update:** LA grade B is now conclusive. Its AET on wireless pH monitoring is 8.23% (vs. 9.95% for grade C), and on pH-impedance is 6.0% (vs. 8.7% for grade C). [[proton-pump-inhibitors|PPI]] response rate is 74% for grade B vs. 70% for grade C — comparable to higher grades.
 
 LA grade A is **borderline** — found in 5–7.5% of healthy subjects; insufficient alone for conclusive diagnosis.
 

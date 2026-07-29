@@ -3,7 +3,7 @@ title: "Diet and Nutritional Therapy in IBD"
 category: concept
 tags: [ibd, crohns, ulcerative-colitis, diet, nutrition, enteral-nutrition, parenteral-nutrition, cded, een, malnutrition, mediterranean-diet, short-bowel-syndrome]
 created: 2026-07-22
-updated: 2026-07-25
+updated: 2026-07-29
 sources: [aga-2024-diet-nutrition-ibd]
 ---
 
@@ -76,7 +76,7 @@ Framework for diet and nutritional therapy across the [[inflammatory-bowel-disea
 
 ## Malnutrition Screening
 - **Screen all IBD patients** (at diagnosis and routinely): unintended weight loss, edema/fluid retention, fat and muscle mass loss → RD evaluation if positive.
-- **Serum proteins (albumin) no longer used** to diagnose malnutrition — nonspecific, inflammation-sensitive. (Hypoalbuminemia still flags surgical-complication and anti-TNF non-response risk.)
+- **Serum proteins ([[albumin]]) no longer used** to diagnose malnutrition — nonspecific, inflammation-sensitive. (Hypoalbuminemia still flags surgical-complication and anti-TNF non-response risk.)
 - **Diagnosis:** ≥2 of — clinically significant weight loss, reduced energy intake, loss of lean mass, loss of subcutaneous fat, fluid accumulation, diminished grip strength. Also **GLIM** and **ESPEN** (BMI <18.5) criteria; validated **abridged PG-SGA** IBD tool.
 - Malnutrition ~5.57× more likely in IBD inpatients vs non-IBD; 16% outpatient prevalence (>½ CD). Associated with more ED visits, hospitalizations, nonelective surgery, higher mortality, poorer therapy response.
 - **RD co-management** for complicated IBD (malnutrition, SBS, enterocutaneous fistula, complex nutrition therapy, CDED); access to an RD for all newly diagnosed patients.

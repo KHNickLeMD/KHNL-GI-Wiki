@@ -3,7 +3,7 @@ title: "Angioectasia (Angiodysplasia)"
 category: disease-script
 tags: [angioectasia, angiodysplasia, small-bowel, gi-bleeding, vascular-lesion, heydes-syndrome, lvad]
 created: 2026-05-19
-updated: 2026-07-25
+updated: 2026-07-29
 sources: [acg-2015-small-bowel-bleeding]
 ---
 
@@ -26,7 +26,7 @@ Angioectasia (also called angiodysplasia) are acquired vascular ectasias of the 
 - Jejunal location
 - Cardiac valvular disease
 - Chronic renal disease
-- Anticoagulant use
+- [[anticoagulation-gi-bleeding|Anticoagulant use]]
 - Need for transfusion
 
 **Treatment:**

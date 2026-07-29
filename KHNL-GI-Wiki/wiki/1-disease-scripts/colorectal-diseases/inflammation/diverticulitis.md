@@ -3,7 +3,7 @@ title: "Colonic Diverticulitis"
 category: disease-script
 tags: [diverticulitis, diverticular-disease, colorectal, antibiotics, hinchey, scad, sudd]
 created: 2026-07-23
-updated: 2026-07-25
+updated: 2026-07-29
 sources: [acg-2026-diverticulitis]
 ---
 
@@ -107,7 +107,7 @@ Inflammation in and around a colonic diverticulum. Lifetime risk ~3% (men) / 5% 
 ### Post-recovery colonoscopy
 
 - **After COMPLICATED diverticulitis → colonoscopy recommended** (*strong, moderate certainty*) — 6-fold higher odds of colon cancer (OR 5.65) vs uncomplicated.
-- **After UNCOMPLICATED diverticulitis → colonoscopy only if** alarm symptoms (unintentional weight loss, change in bowel habits, [[iron-deficiency-anemia|iron-deficiency anemia]], bloody stools, persistent abdominal pain) **or** not current with CRC screening (*conditional, low certainty*). Uncomplicated disease carries near–screening-population cancer risk.
+- **After UNCOMPLICATED diverticulitis → colonoscopy only if** alarm symptoms (unintentional weight loss, change in bowel habits, [[iron-deficiency-anemia|iron-deficiency anemia]], bloody stools, persistent abdominal pain) **or** not current with [[colorectal-cancer-screening|CRC screening]] (*conditional, low certainty*). Uncomplicated disease carries near–screening-population cancer risk.
 - **Timing: not within 6–8 weeks** of the acute episode (inflammation/edema/luminal narrowing → incomplete/unsafe exam).
 - Overall colon-cancer rate after any diverticulitis: **1.6%** (advanced neoplasia 5.5–6.7%).
 
@@ -140,7 +140,7 @@ Recurrence is common and rises with each episode (10-yr risk: ≥22% after 1st, 
 
 ## See Also
 
-[[colorectal-cancer]], [[colonoscopy]], [[colonoscopy-surveillance]], [[acute-lower-gi-bleeding]], [[ulcerative-colitis]], [[crohns-disease]], [[segmental-colitis-associated-with-diverticulosis]], [[disorders-of-gut-brain-interaction]], [[rifaximin]], [[probiotics]], [[iron-deficiency-anemia]]
+[[colorectal-cancer]], [[colorectal-cancer-screening]], [[colonoscopy]], [[colonoscopy-surveillance]], [[acute-lower-gi-bleeding]], [[ulcerative-colitis]], [[crohns-disease]], [[segmental-colitis-associated-with-diverticulosis]], [[disorders-of-gut-brain-interaction]], [[rifaximin]], [[probiotics]], [[iron-deficiency-anemia]]
 
 ---
 

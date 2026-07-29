@@ -3,7 +3,7 @@ title: "Nutrition Therapy in the Hospitalized Patient"
 category: concept
 tags: [nutrition, enteral-nutrition, parenteral-nutrition, malnutrition, icu, critical-care, hospitalized-patient]
 created: 2026-05-21
-updated: 2026-07-16
+updated: 2026-07-29
 sources: [acg-2016-nutrition-hospitalized, asge-2025-gastrostomy-tubes, asge-2011-enteral-feeding]
 ---
 
@@ -22,7 +22,7 @@ Nutrition support in the hospitalized patient encompasses the assessment of nutr
 
 **Biomarkers to avoid as nutrition markers** [[acg-2016-nutrition-hospitalized]]:
 
-- Albumin, prealbumin (transthyretin), transferrin: all acute-phase reactants that fall with inflammation regardless of nutritional status; do not reflect nutritional repletion
+- [[albumin|Albumin]], prealbumin (transthyretin), transferrin: all acute-phase reactants that fall with inflammation regardless of nutritional status; do not reflect nutritional repletion
 - Useful as inflammatory markers, but not as guides to nutrition therapy
 
 **Caloric needs:**
@@ -67,7 +67,7 @@ Nutrition support in the hospitalized patient encompasses the assessment of nutr
 
 Radiologic confirmation of tube position is required before EN initiation (Strong, Moderate evidence) [[acg-2016-nutrition-hospitalized]].
 
-**Duration-based access rule** ([[asge-2011-enteral-feeding]]): choose **nasoenteric** feeding when peroral intake is expected to resume **within 30 days**; use a **percutaneous endoscopic tube** (PEG, or PEGJ/DPEJ for post-pyloric access) when longer-term EN is needed. In acute dysphagic stroke, consider PEG only if a 2-3 week nasoenteric trial fails to improve swallowing.
+**Duration-based access rule** ([[asge-2011-enteral-feeding]]): choose **nasoenteric** feeding when peroral intake is expected to resume **within 30 days**; use a **[[enteral-access|percutaneous endoscopic tube]]** (PEG, or PEGJ/DPEJ for post-pyloric access) when longer-term EN is needed. In acute dysphagic stroke, consider PEG only if a 2-3 week nasoenteric trial fails to improve swallowing.
 
 - **PEGJ / DPEJ** (post-pyloric): indicated for severe [[gerd|GERD]], [[gastroparesis]], or recurrent tube-feed aspiration.
 - **Periprocedural care:** give an IV **[[antibiotic-prophylaxis-endoscopy|prophylactic antibiotic]]** before percutaneous tube placement (reduces peristomal infection); tube feeds may safely start **within 4 hours** of placement.
@@ -142,7 +142,7 @@ Immune-modulating formulas (arginine, glutamine, omega-3 fatty acids) are NOT re
 
 ## See Also
 
-[[acute-pancreatitis]], [[nutrition-in-liver-disease]], [[inflammatory-bowel-disease]], [[aki-in-cirrhosis]], [[obesity]], [[gastroparesis]], [[gerd]], [[antibiotic-prophylaxis-endoscopy]], [[upper-endoscopy]]
+[[acute-pancreatitis]], [[nutrition-in-liver-disease]], [[inflammatory-bowel-disease]], [[aki-in-cirrhosis]], [[obesity]], [[gastroparesis]], [[gerd]], [[antibiotic-prophylaxis-endoscopy]], [[upper-endoscopy]], [[enteral-access]]
 
 ---
 

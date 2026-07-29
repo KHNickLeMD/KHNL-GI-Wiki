@@ -3,7 +3,7 @@ title: "Peutz-Jeghers Syndrome"
 category: disease-script
 tags: [peutz-jeghers, pjs, stk11, lkb1, hamartoma, hereditary-crc, pancreatic-cancer, small-bowel, intussusception, genetic-testing]
 created: 2026-05-19
-updated: 2026-07-16
+updated: 2026-07-29
 sources: [acg-2015-hereditary-gi-cancer, aga-2022-hamartomatous-polyposis]
 ---
 
@@ -129,7 +129,7 @@ SCTAT = sex cord tumor with annular tubules; ~20% become malignant. PJS is assoc
 
 - **Colectomy + IRA** (or occasionally proctocolectomy + IPAA) is indicated for:
   - Cancer, high-grade dysplasia, or polyposis not manageable endoscopically
-- Partial or complete gastrectomy may be needed for massive gastric polyposis or gastric cancer
+- Partial or complete gastrectomy may be needed for massive gastric polyposis or [[gastric-adenocarcinoma|gastric cancer]]
 - Goal of surgery is polyp control; avoid total gastrectomy if possible
 
 ### Chemoprevention
@@ -141,7 +141,7 @@ SCTAT = sex cord tumor with annular tubules; ~20% become malignant. PJS is assoc
 
 ## See Also
 
-[[familial-adenomatous-polyposis]], [[lynch-syndrome]], [[juvenile-polyposis-syndrome]], [[cowden-syndrome]], [[colorectal-cancer]], [[colonoscopy]], [[upper-endoscopy]], [[capsule-endoscopy]], [[endoscopic-ultrasound]], [[pancreatic-cancer]], [[pancreatic-cancer-screening]], [[device-assisted-enteroscopy]], [[polypectomy-emr]]
+[[familial-adenomatous-polyposis]], [[lynch-syndrome]], [[juvenile-polyposis-syndrome]], [[cowden-syndrome]], [[colorectal-cancer]], [[colonoscopy]], [[upper-endoscopy]], [[capsule-endoscopy]], [[endoscopic-ultrasound]], [[pancreatic-cancer]], [[pancreatic-cancer-screening]], [[gastric-adenocarcinoma]], [[device-assisted-enteroscopy]], [[polypectomy-emr]]
 
 ---
 

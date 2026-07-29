@@ -3,7 +3,7 @@ title: "Acute Mesenteric Ischemia"
 category: disease-script
 tags: [acute-mesenteric-ischemia, ami, mesenteric-vein-thrombosis, mvt, small-bowel, vascular-lesion, anticoagulation]
 created: 2026-06-01
-updated: 2026-07-17
+updated: 2026-07-29
 sources: [acg-2015-colon-ischemia, acg-2020-hepatic-mesenteric-circulation]
 ---
 
@@ -33,7 +33,7 @@ sources: [acg-2015-colon-ischemia, acg-2020-hepatic-mesenteric-circulation]
 
 ### Severity Assessment
 
-- The severity anchor in the ingested sources is the presence of **bowel ischemia / intestinal ischemia**, which converts chronic venous thrombosis from an observation problem into an anticoagulation indication (see Therapeutics). [[acg-2020-hepatic-mesenteric-circulation]]
+- The severity anchor in the ingested sources is the presence of **bowel ischemia / intestinal ischemia**, which converts chronic venous thrombosis from an observation problem into an [[anticoagulation-gi-bleeding|anticoagulation]] indication (see Therapeutics). [[acg-2020-hepatic-mesenteric-circulation]]
 - **Red flag from the CI guideline:** when the triad of **hypotension, tachycardia, and abdominal pain is present *without* rectal bleeding, surgical evaluation is urgent.** *(Strong, moderate)* [[acg-2015-colon-ischemia]]
 
 ### Classification / Typing
@@ -70,7 +70,7 @@ sources: [acg-2015-colon-ischemia, acg-2020-hepatic-mesenteric-circulation]
 
 | Setting | Recommendation | Strength / Evidence |
 |---|---|---|
-| Acute symptomatic MVT, **no cirrhosis** | **Anticoagulate all patients** | Strong / Low |
+| Acute symptomatic MVT, **no [[cirrhosis|cirrhosis]]** | **Anticoagulate all patients** | Strong / Low |
 | Acute symptomatic MVT, **no cirrhosis** | Initiate **promptly** to achieve recanalization and **prevent bowel ischemia** | Strong / Low |
 | Agent & duration, **no cirrhosis** | **LMWH or VKA**; duration **≥3–6 months** *(guideline states this for noncirrhotic **PVT**)* | Strong / Low |
 | Chronic MVT, **no cirrhosis** | Anticoagulate **if** thrombophilia, thrombus extension/progression, **or intestinal ischemia** | Conditional / Very Low |

@@ -3,8 +3,8 @@ title: "Hypercontractile Esophagus (Jackhammer Esophagus)"
 category: disease-script
 tags: [hypercontractile, jackhammer, esophageal, motility, dysphagia, chest-pain, chicago-classification]
 created: 2026-05-16
-updated: 2026-07-17
-sources: [chicago-v4-2021-esophageal-dysmotility, aga-2025-flip-esophageal, acg-2020-achalasia]
+updated: 2026-07-29
+sources: [chicago-v4-2021-esophageal-dysmotility, aga-2025-flip-esophageal, acg-2020-achalasia, aga-2024-poem-advances]
 ---
 
 *Classified under [[chicago-classification-v4|Chicago Classification v4.0]]. Related: [[distal-esophageal-spasm]], [[ineffective-esophageal-motility]].*
@@ -43,6 +43,7 @@ Hypercontractile esophagus (jackhammer esophagus) is defined by **Chicago Classi
 - Exclude EGJ obstruction and [[achalasia]] spectrum before treating (elevated IRP → investigate with TBE/FLIP)
 - Treat co-existent [[gerd|GERD]]; hypercontractile esophagus is **not** an absolute contraindication to [[antireflux-surgery|anti-reflux surgery (ARS)]] when the patient has objective GERD and partial [[proton-pump-inhibitors|PPI]] response — evaluate carefully pre-operatively (Padova consensus — see [[hrm-antireflux-surgery]])
 - [[poem|POEM]] considered for refractory [[dysphagia]]-predominant disease ([[acg-2020-achalasia]] frames longer myotomy for spastic disease)
+- **AGA 2024 CPU caveat:** for **nonachalasia** spastic disorders, POEM evidence is limited — reserve for **case-by-case** use after less invasive options (medical therapy, botulinum toxin, endoscopic dilation) are exhausted, with symptoms correlated to manometry ([[aga-2024-poem-advances|AGA 2024]] BPA 3)
 
 *Medical management specific to hypercontractile esophagus (smooth-muscle relaxants, neuromodulators) is not covered by an ingested source — awaiting a dedicated source.*
 
@@ -58,4 +59,6 @@ Hypercontractile esophagus (jackhammer esophagus) is defined by **Chicago Classi
 
 1. [[chicago-v4-2021-esophageal-dysmotility|Chicago Classification v4.0: Esophageal Motility Disorders]]
 2. [[aga-2025-flip-esophageal|AGA Clinical Practice Update: Incorporating FLIP Into Esophageal Clinical Practice]]
+3. [[acg-2020-achalasia|ACG 2020: Diagnosis and Management of Achalasia]]
+4. [[aga-2024-poem-advances|AGA Clinical Practice Update on Advances in Per-Oral Endoscopic Myotomy (POEM) and Remaining Questions—What We Have Learned in the Past Decade: Expert Review (2024)]]
 3. [[acg-2020-achalasia|ACG 2020: Diagnosis and Management of Achalasia]]

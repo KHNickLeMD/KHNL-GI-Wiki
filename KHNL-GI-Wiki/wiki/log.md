@@ -6,6 +6,44 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-07-29] lint | Ingested 2 AGA CPUs (Recurrent AP/CP Endoscopy 2022 + Advances in POEM 2024); 5 new pages; parallel per-folder link/decision-gap sweep; index reconciled (243 sources); 0 broken links
+
+**Sources ingested (2 — guideline/CPU tier, per ingestion priority; no lectures auto-ingested):**
+- `[[aga-2022-recurrent-pancreatitis-endoscopy]]` — AGA 2022 CPU (Strand, Law, Yang, Elmunzer; *Gastroenterology* 2022;163:1107–1114; DOI 10.1053/j.gastro.2022.07.079). All **8 Best Practice Advice statements** captured verbatim (EUS-first eval of unexplained (R)AP; minor-papilla endotherapy in pancreas divisum only with objective outflow obstruction; ERCP controversy in standard anatomy; CP MPD stone ≤5 mm vs ESWL, stricture 6–12 mo plastic upsizing/FCSEMS caveat; surgery > endoscopy for painful obstructive CP per ESCAPE 58% vs 39%; FCSEMS for CP biliary strictures; EUS-CPB not routine).
+- `[[aga-2024-poem-advances]]` — AGA 2024 CPU (Yang, Bechara, Dunst, Konda; *Gastroenterology* 2024;167:1483–1490; DOI 10.1053/j.gastro.2024.08.038). All **12 Best Practice Advice statements** captured near-verbatim (preprocedure workup; achalasia subtype selection, Type III preferred; EGJOO/spastic disorders case-by-case only; single-dose antibiotics; anterior=posterior tunnel; myotomy tailoring/blown-out-myotomy; same-day discharge; post-POEM reflux management ladder + surveillance; failed-myotomy POEM 62% vs PD 27%).
+
+**Pages created (5):**
+- `[[pancreas-divisum]]` — new disease script (ADDT; minor-papilla endotherapy indications, PEP/stenosis risk).
+- `[[recurrent-acute-pancreatitis]]` — new diagnostic schema (≥2 AP episodes ≥3 mo apart; EUS-first algorithm; occult-malignancy red flags).
+- `[[esophagogastric-junction-outflow-obstruction]]` — new disease script (Chicago v4.0 criteria, mimics, less-invasive-first ladder); resolves a previously dangling `[[link]]`.
+- `[[poem]]` — expanded stub → full advanced-procedure page (workup, indications, technique, post-op care, post-POEM reflux, surveillance, adverse events, failed myotomy).
+- 2 source pages above.
+
+**Pages updated (decision-critical content):**
+- `[[acute-pancreatitis]]`, `[[chronic-pancreatitis]]`, `[[ercp]]`, `[[endoscopic-ultrasound]]` — EUS-first eval, CP endotherapy thresholds/stent durations, EUS-CPB caveat.
+- `[[achalasia]]`, `[[distal-esophageal-spasm]]`, `[[hypercontractile-esophagus]]` — post-POEM reflux figures + surveillance, failed-myotomy RCT, spastic-disorder POEM caveat.
+
+**Parallel lint sweep (6 batch subagents: hepatology, colorectal ×7 subfolders, meds/concepts/schemas; + 3 stalest-page validation):**
+- Inline-link/cross-reference densification applied across ~15 pages (hemorrhoids, clostridioides-difficile, ulcerative-colitis, diverticulitis, SCAD, acute-mesenteric-ischemia, angioectasia, FAP, JPS, PJS, fmt, glp-2-agonists, acute-lower-gi-bleeding, nausea-and-vomiting, small-bowel-bleeding, ambulatory-reflux-monitoring, disorders-of-gut-brain-interaction, ibd-endoscopic-scoring, endoscopy-ergonomics, nutrition-in-hospitalized-patients, nutrition-in-ibd) + reciprocal cross-batch links.
+- Stalest pages validated (`[[proctalgia-syndromes]]`, `[[cryptosporidiosis]]`, `[[giardiasis]]`) — decision-sufficient & format-compliant vs ingested sources; no edits.
+- Hepatology (33 pages) & polyposis/hereditary already compliant — minimal edits.
+
+**Hygiene:** 0 real broken links (whole-wiki scan), no `.DS_Store`/OS artifacts, no untracked `raw/` files (corpus gitignored). Footer counts reconciled to on-disk: 243 sources | 127 disease scripts | 22 diagnostic schemas.
+
+**Flagged for user triage (decision gaps needing a NOT-yet-ingested source — not filled from memory):**
+- **UC UCEIS ≥7 threshold** on `[[ulcerative-colitis]]` may conflict with `[[ibd-endoscopic-scoring]]` (AGA 2024 states UCEIS severity bands undefined) — verify provenance against `acg-2025-uc`.
+- **Post-myotomy esophageal-cancer risk magnitude:** AGA 2024 HR 4.6 (all esophageal ca) vs ACG 2020 ~28× (SCC-specific) — both retained on `[[achalasia]]`/`[[poem]]`; different cohorts/endpoints.
+- `[[pouchitis]]` PDAI/mPDAI component criteria absent (source: aga-2024-pouchitis, ingested — candidate for a future targeted pass).
+- LA-grade criteria have no home page (needed by `[[potassium-competitive-acid-blockers]]`/`[[vonoprazan]]`); Rockall point breakdown (`[[upper-gi-bleeding]]`); PAGE-B/REAL-B/GALAD components (`[[hcc-surveillance]]`/`[[li-rads]]`); HHT Curaçao criteria; arterial-AMI & visceral-artery-aneurysm management — all need dedicated sources.
+- **Expandable stubs (already-ingested sources):** `[[toxic-megacolon]]` (acg-2025-uc + acg-2021-cdiff), `proton-pump-inhibitors`, `brca-pathogenic-variants` — deferred to a stub-expansion pass (per-pass cap).
+- **Missing entity pages noticed (insufficient ingested source to write):** solitary-rectal-ulcer-syndrome, sinusoidal-obstruction-syndrome, Dieulafoy lesion, GAVE, portal hypertensive gastropathy, Mallory-Weiss tear, Zenker's diverticulum.
+- Pre-existing mis-alias: "Shiga-toxin E. coli" → `[[enterotoxigenic-e-coli]]` (STEC≠ETEC) on campylobacter/salmonella/shigellosis pages — future fix.
+- No anorectal-pain diagnostic schema exists for the `[[proctalgia-syndromes]]` DDx pointer.
+
+**Figures not captured:** pymupdf/fitz still not installed → could not crop AGA-2022 Fig 1 or AGA-2024 Figs 1–3; all decision-critical content captured as text, so no decision gap (illustrative visuals only).
+
+---
+
 ## [2026-07-28] lint | Ingested 2 AGA 2024 CPUs (Tailored Polypectomy + Esophageal Dysfunction from Immunity/Infection); 3 new esophageal pages; ~53 inline links added via parallel subagents; 3 stalest pages validated; index reconciled (241 sources); 0 broken links/orphans
 
 **Sources ingested (2 — guideline/CPU tier, per ingestion priority; no lectures auto-ingested):**

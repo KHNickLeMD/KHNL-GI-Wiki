@@ -3,7 +3,7 @@ title: "Serrated Polyposis Syndrome"
 category: disease-script
 tags: [serrated-polyposis, sps, hyperplastic-polyposis, sessile-serrated, colorectal-cancer, polyposis, mutyh]
 created: 2026-05-19
-updated: 2026-07-16
+updated: 2026-07-29
 sources: [acg-2015-hereditary-gi-cancer]
 ---
 
@@ -62,8 +62,7 @@ sources: [acg-2015-hereditary-gi-cancer]
 
 ## Diagnostics
 
-- **Colonoscopy** with [[polypectomy-emr|polypectomy]]: complete clearance of all polyps ≥1 cm should be performed when possible [[acg-2015-hereditary-gi-cancer]]
-- Subsequent colonoscopy intervals determined by number and size of polyps and number of concurrent adenomas; generally q1–3 years (Conditional/Low)
+- **Colonoscopy** with [[polypectomy-emr|polypectomy]] is the diagnostic and surveillance tool — polyp-clearance goals and interval recommendations are detailed under [[#Endoscopic Management]] [[acg-2015-hereditary-gi-cancer]]
 - Consider **MUTYH** germline testing when adenomas are concurrently present and/or family history of adenomas exists
 - No established role for tumor molecular profiling in guiding management at this time
 - No extracolonic cancer surveillance is recommended (Conditional/VLow) — data are insufficient; familial extracolonic cancer risks have not been clearly established
