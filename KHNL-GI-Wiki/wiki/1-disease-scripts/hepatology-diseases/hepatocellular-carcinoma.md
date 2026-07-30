@@ -3,7 +3,7 @@ title: "Hepatocellular Carcinoma"
 category: disease-script
 tags: [hcc, hepatocellular, liver, cancer, hpb, surveillance, cirrhosis, hbv, adjuvant, immunotherapy, liver-transplant, milan-criteria, afp, downstaging, mtor-inhibitor, sirolimus, everolimus, bclc, sorafenib, lenvatinib, atezolizumab, bevacizumab, tace, tare, ablation, resection, li-rads, locoregional]
 created: 2026-05-16
-updated: 2026-07-23
+updated: 2026-07-30
 sources: [aasld-2023-hcc, aasld-2025-hcc-critical-update, aasld-ast-2025-liver-transplant-candidate-evaluation, aasld-ast-2025-liver-transplant-graft-complications, aga-2022-hcc-systemic, nccn-2026-hcc, aga-2026-hcc-surveillance]
 ---
 
@@ -189,7 +189,7 @@ flowchart TD
 **GS 38–40, [[aasld-2023-hcc]]:**
 
 - **Solitary tumors ≤5 cm, ineligible for/declining surgery:** Treat with curative intent using local ablative therapies (**Level 1, Strong Recommendation**).
-- **Early-stage HCC ≤3 cm, ineligible for/declining surgery:** Thermal ablation (RFA or microwave ablation) is treatment of choice (**Level 1, Strong Recommendation**).
+- **Early-stage HCC ≤3 cm, ineligible for/declining surgery:** Thermal ablation ([[radiofrequency-ablation|RFA]] or microwave ablation) is treatment of choice (**Level 1, Strong Recommendation**).
   - Ablation yields OS/RFS of 76%/~46% at 3 years for unifocal HCC ≤3 cm.
   - RFA vs. resection: equivalent for tumors <2 cm; resection has superior survival for tumors >2 cm.
   - No advantage of one thermal ablation modality over another (RFA vs. MWA — MWA less susceptible to heat sink effects near large vessels).

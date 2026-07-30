@@ -4,7 +4,7 @@ category: disease-script
 tags: [pancreatic-cysts, ipmn, mcn, serous-cystadenoma, pseudocyst, spn, pancreas, eus-fna, mrcp, surveillance, pancreatic-cancer]
 created: 2026-05-19
 updated: 2026-07-16
-sources: [acg-2018-pancreatic-cysts]
+sources: [acg-2018-pancreatic-cysts, colan-hernandez-2020-eus-fna-panc-cyst-antibiotics, asge-2015-antibiotic-prophylaxis]
 ---
 
 # Pancreatic Cysts
@@ -215,8 +215,9 @@ Indicated when diagnosis is unclear and results are likely to alter management. 
 
 **Antibiotics for EUS-FNA of pancreatic cysts:**
 
-- NOT routinely recommended (RCT showed no difference in infection with vs. without antibiotics) — see [[endoscopic-ultrasound]] quality standards
-- Consider in: immunosuppressed patients, multiple comorbidities, incomplete cyst aspiration, [[ascites]]
+- Guidelines ([[asge-2015-antibiotic-prophylaxis|ASGE 2015]]) *suggest* peri-procedural antibiotics (often continued 3–5 days) — see [[antibiotic-prophylaxis-endoscopy]].
+- However, the first RCT ([[colan-hernandez-2020-eus-fna-panc-cyst-antibiotics|Colán-Hernández 2020]], 226 pts, ciprofloxacin vs placebo) found infection risk **low (0.44%)** and **not increased without prophylaxis** (only infection was in the placebo arm; non-inferior). No difference in fever or adverse events. → antibiotics **not routinely required**.
+- Consider prophylaxis anyway in: immunosuppressed patients, multiple comorbidities, incomplete cyst aspiration, [[ascites]]; RCT excluded mediastinal/enteric **duplication cysts** (higher infection risk — still cover these).
 
 ### Cyst Ablation
 
@@ -300,3 +301,5 @@ Note: Surgery should be performed at a tertiary referral center by experienced s
 ## Sources
 
 1. [[acg-2018-pancreatic-cysts|ACG 2018: Diagnosis and Management of Pancreatic Cysts]]
+2. [[colan-hernandez-2020-eus-fna-panc-cyst-antibiotics|Colán-Hernández 2020: Antibiotic Prophylaxis Is Not Required for EUS-FNA of Pancreatic Cystic Lesions (RCT)]]
+3. [[asge-2015-antibiotic-prophylaxis|ASGE Guideline: Antibiotic Prophylaxis for GI Endoscopy (2015)]]

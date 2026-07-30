@@ -34,7 +34,7 @@ Intestinal metaplasia on gastric histopathology almost invariably implies underl
 **Clinical presentation:**
 
 - Typically asymptomatic or nonspecific (dyspepsia, early satiety, epigastric discomfort)
-- Manifestations of micronutrient deficiency: fatigue, pallor (iron deficiency or B-12 deficiency), glossitis, peripheral neuropathy, macrocytic anemia
+- Manifestations of micronutrient deficiency: fatigue, pallor ([[iron-deficiency-anemia|iron deficiency]] or B-12 deficiency), glossitis, peripheral neuropathy, macrocytic anemia
 - Pernicious anemia (PA) = late-stage AIG: macrocytic anemia + B-12 deficiency ± subacute combined degeneration
 
 **Who to suspect:**

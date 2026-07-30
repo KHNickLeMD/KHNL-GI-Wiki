@@ -3,7 +3,7 @@ title: "Giardiasis"
 category: disease-script
 tags: [giardia, parasitic-diarrhea, diarrhea, travelers-diarrhea, malabsorption, metronidazole, tinidazole]
 created: 2026-05-19
-updated: 2026-07-16
+updated: 2026-07-30
 sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
 ---
 
@@ -53,7 +53,7 @@ sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
 
 ## See Also
 
-[[acute-diarrhea]], [[fever-returning-traveler]], [[cryptosporidiosis]], [[entamoeba-histolytica-infection]], [[postinfectious-ibs]]
+[[acute-diarrhea]], [[fever-returning-traveler]], [[cryptosporidiosis]], [[entamoeba-histolytica-infection]], [[postinfectious-ibs]], [[irritable-bowel-syndrome]], [[celiac-disease]], [[nitazoxanide]]
 
 ---
 

@@ -3,7 +3,7 @@ title: "Entamoeba histolytica Infection (Amebiasis)"
 category: disease-script
 tags: [entamoeba, amebiasis, amebic-dysentery, parasitic-diarrhea, liver-abscess, travelers-diarrhea, metronidazole]
 created: 2026-05-19
-updated: 2026-07-20
+updated: 2026-07-30
 sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
 ---
 
@@ -31,7 +31,7 @@ sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
 
 *Workup: see [[acute-diarrhea]].*
 
-- Bacterial dysentery — [[shigellosis]], [[campylobacter-infection]], [[salmonella-infection]], Shiga-toxin *E. coli*
+- Bacterial dysentery — [[shigellosis]], [[campylobacter-infection]], [[salmonella-infection]], [[enterotoxigenic-e-coli|Shiga-toxin *E. coli*]]
 - [[clostridioides-difficile|*C. difficile*]] colitis
 - Other protozoa — [[giardiasis]] (watery, non-bloody), [[cryptosporidiosis]]
 - [[inflammatory-bowel-disease|IBD]] flare ([[ulcerative-colitis]]) — a key mimic before immunosuppression is started
@@ -69,7 +69,7 @@ sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
 
 ## See Also
 
-[[acute-diarrhea]], [[fever-returning-traveler]], [[hiv-aids-related-diarrhea]], [[giardiasis]], [[cryptosporidiosis]], [[shigellosis]], [[campylobacter-infection]], [[salmonella-infection]], [[loperamide]]
+[[acute-diarrhea]], [[fever-returning-traveler]], [[hiv-aids-related-diarrhea]], [[giardiasis]], [[cryptosporidiosis]], [[shigellosis]], [[campylobacter-infection]], [[salmonella-infection]], [[enterotoxigenic-e-coli]], [[loperamide]]
 
 ---
 

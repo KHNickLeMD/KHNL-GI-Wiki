@@ -24,7 +24,7 @@ Inherited cause of recurrent [[acute-pancreatitis|acute]] and [[chronic-pancreat
 
 ### Establishing the Diagnosis
 
-- Suspect in **recurrent acute pancreatitis or chronic pancreatitis with unclear etiology, young age at onset, or a family history**.
+- Suspect in **[[recurrent-acute-pancreatitis|recurrent acute pancreatitis]] or chronic pancreatitis with unclear etiology, young age at onset, or a family history**.
 - **Genetic testing is a Strong recommendation (Low quality)** when etiology is unclear — **especially in patients <35 years** ([[acg-2020-chronic-pancreatitis]], Rec 4).
 - Sits at **Level B** of the ACG mechanistic diagnostic algorithm (family history, early onset, syndromic features → genetic testing, sweat chloride, secretin-MRCP, exocrine function testing).
 - Genetic variants are also a recognized etiology of [[acute-pancreatitis|acute pancreatitis]] (PRSS1, SPINK1, CFTR) — clue: **young, recurrent, family history** ([[acg-2024-acute-pancreatitis]]).
@@ -112,7 +112,7 @@ No HP-specific management exists in the ingested sources — manage as [[chronic
 
 ## See Also
 
-[[chronic-pancreatitis]], [[acute-pancreatitis]], [[pancreatic-cancer]], [[pancreatic-cancer-screening]], [[pancreatic-cysts]], [[endoscopic-ultrasound]], [[mri-mrcp]], [[ercp]], [[brca-pathogenic-variants]], [[familial-pancreatic-cancer]], [[fammm-syndrome]], [[peutz-jeghers-syndrome]], [[lynch-syndrome]], [[familial-adenomatous-polyposis]]
+[[chronic-pancreatitis]], [[acute-pancreatitis]], [[recurrent-acute-pancreatitis]], [[pancreatic-cancer]], [[pancreatic-cancer-screening]], [[pancreatic-cysts]], [[endoscopic-ultrasound]], [[mri-mrcp]], [[ercp]], [[brca-pathogenic-variants]], [[familial-pancreatic-cancer]], [[fammm-syndrome]], [[peutz-jeghers-syndrome]], [[lynch-syndrome]], [[familial-adenomatous-polyposis]]
 
 ---
 

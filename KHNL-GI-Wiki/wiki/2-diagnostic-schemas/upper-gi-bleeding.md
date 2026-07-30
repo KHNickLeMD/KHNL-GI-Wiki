@@ -292,6 +292,8 @@ High-risk stigmata (Forrest Ia, Ib, IIa) mandate endoscopic hemostatic therapy. 
 - Pulsatile abdominal mass → aortic aneurysm with fistula
 - Concurrent anticoagulation use → increased severity; see [[anticoagulation-gi-bleeding]]
 
+---
+
 ## See Also
 
 [[variceal-upper-gi-bleeding]], [[acute-lower-gi-bleeding]], [[small-bowel-bleeding]], [[peptic-ulcer-disease]], [[helicobacter-pylori-infection]], [[upper-endoscopy]], [[colonoscopy]], [[portal-hypertension]], [[anticoagulation-gi-bleeding]], [[angioectasia]], [[gastric-adenocarcinoma]], [[esophageal-cancer]]

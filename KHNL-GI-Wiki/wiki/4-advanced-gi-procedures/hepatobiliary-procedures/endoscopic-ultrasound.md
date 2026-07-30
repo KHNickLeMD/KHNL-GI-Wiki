@@ -4,7 +4,7 @@ category: advanced-procedure
 tags: [eus, endoscopic-ultrasound, fna, fnb, pancreatic-mass, pancreatic-cysts, ipmn, mcn, biliary-drainage, eus-guided-drainage, quality-indicators, gastroenterostomy]
 created: 2026-05-07
 updated: 2026-07-29
-sources: [acg-2025-eus-quality, acg-2018-pancreatic-cysts, asge-2024-solid-pancreatic-masses, asge-2011-eus-mediastinal-adenopathy, aga-2022-recurrent-pancreatitis-endoscopy]
+sources: [acg-2025-eus-quality, acg-2018-pancreatic-cysts, asge-2024-solid-pancreatic-masses, asge-2011-eus-mediastinal-adenopathy, aga-2022-recurrent-pancreatitis-endoscopy, colan-hernandez-2020-eus-fna-panc-cyst-antibiotics]
 ---
 
 # Endoscopic Ultrasound (EUS)
@@ -45,7 +45,7 @@ Note: Therapeutic EUS now accounts for >50% of accepted EUS indications. Indicat
 
 - **Informed consent** must include EUS-specific risks (pancreatitis, infection, bile leak, perforation, bleeding based on procedure type)
 - **[[antibiotic-prophylaxis-endoscopy|Prophylactic antibiotics]]:**
-  - **NOT routinely needed** for EUS-FNA of [[pancreatic-cysts|pancreatic cysts]] (RCT: no difference in infection with vs without antibiotics)
+  - **NOT routinely needed** for EUS-FNA of [[pancreatic-cysts|pancreatic cysts]] (RCT [[colan-hernandez-2020-eus-fna-panc-cyst-antibiotics|Colán-Hernández 2020]]: infection 0.44%, no difference with vs without ciprofloxacin)
   - Consider antibiotics in: immunosuppressed patients, multiple comorbidities, incomplete cyst aspiration, [[ascites]]
   - Mediastinal cysts: do NOT routinely sample (mediastinitis risk even with antibiotics)
   - Rectal EUS-FNA/FNB: ~15% infection risk despite antibiotics; reserved for cases where benefit outweighs risk
@@ -118,7 +118,7 @@ Cyst fluid CEA cannot distinguish high-grade dysplasia or cancer from low-grade 
 
 **Antibiotic prophylaxis for EUS-FNA of pancreatic cysts:**
 
-- **NOT routinely recommended** — RCT showed no difference in infection rate with vs. without antibiotics [[acg-2025-eus-quality]]
+- **NOT routinely recommended** — RCT ([[colan-hernandez-2020-eus-fna-panc-cyst-antibiotics|Colán-Hernández 2020]]) showed no difference in infection rate with vs. without antibiotics; ASGE 2015 still *suggests* it (44BB) — see [[antibiotic-prophylaxis-endoscopy]] [[acg-2025-eus-quality]]
 - **Consider antibiotics when:** immunosuppressed, multiple comorbidities, incomplete cyst aspiration anticipated, ascites present
 - Mediastinal cysts: do NOT routinely sample (risk of mediastinitis even with antibiotics)
 
@@ -170,3 +170,4 @@ From [[asge-2011-eus-mediastinal-adenopathy]]:
 3. [[asge-2024-solid-pancreatic-masses|ASGE Guideline: Role of Endoscopy in Solid Pancreatic Masses (2024)]]
 4. [[asge-2011-eus-mediastinal-adenopathy|ASGE 2011: EUS-Guided FNA in the Diagnosis of Mediastinal Adenopathy]]
 5. [[aga-2022-recurrent-pancreatitis-endoscopy|AGA 2022: Clinical Practice Update on the Endoscopic Approach to Recurrent Acute and Chronic Pancreatitis]]
+6. [[colan-hernandez-2020-eus-fna-panc-cyst-antibiotics|Colán-Hernández 2020: Antibiotic Prophylaxis Is Not Required for EUS-FNA of Pancreatic Cystic Lesions (RCT)]]

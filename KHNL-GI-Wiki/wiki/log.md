@@ -6,6 +6,40 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-07-30] lint | Ingested AGA 2023 AI-in-Colon-Polyp CPU + Colán-Hernández 2020 EUS-FNA-cyst antibiotic RCT; new AI-in-endoscopy concept page; ESD stub expanded; parallel per-folder link/decision-gap sweep; index reconciled (245 sources); 0 broken links
+
+**Sources ingested (2 — CPU + RCT, per ingestion priority; no lectures auto-ingested; these were the only 2 uningested source files in `raw/`):**
+- `[[aga-2023-ai-colon-polyp]]` — AGA 2023 CPU Commentary (Samarasena, Yang, Berzin; *Gastroenterology* 2023;165:1568–1573; DOI 10.1053/j.gastro.2023.07.010). Expert-commentary CPU (no numbered BPA statements) — full key claims captured: CADe (ADR RR 1.43 meta-analysis vs inconsistent pragmatic/UK-RCT data; Shaukat APC 0.83→1.05), CADx + ASGE PIVI thresholds (≥90% NPV rectosigmoid HP <5 mm; >90% surveillance-interval agreement), computer-aided quality assessment, adoption barriers.
+- `[[colan-hernandez-2020-eus-fna-panc-cyst-antibiotics]]` — RCT (*Gastroenterology* 2020;158:1642–1649; DOI 10.1053/j.gastro.2020.01.025; NCT02261896). First RCT of antibiotic prophylaxis for EUS-FNA of pancreatic cysts: n=226, ciprofloxacin vs placebo, infection 0.44% (only case in placebo arm), non-inferior without prophylaxis; no difference in fever/AEs.
+
+**Pages created (2):**
+- `[[artificial-intelligence-endoscopy]]` — new concept page (CADe/CADx/computer-aided quality assessment); single home integrating the 2023 CPU with the existing `[[aga-2025-cade-colonoscopy]]` living guideline (newer guideline's "no recommendation for/against CADe" governs; CPU is home for CADx/quality content).
+- 2 source pages above.
+
+**Stub expanded (1, from already-ingested source):**
+- `[[endoscopic-submucosal-dissection]]` — stub → full advanced-procedure page from `[[asge-2023-esd]]`: ESD-vs-EMR-vs-surgery lesion/size thresholds (ESCC >15 mm, EAC >20 mm, GAC 20–30 mm intestinal-type), curative-R0 criteria, M1–SM3 depth, gastric absolute/expanded criteria, outcomes (clinical success 93.3% vs 72.1%; recurrence 0.5% vs 5.2%) and AEs (perforation 5.7% vs 0.8%).
+
+**Pages updated (entity, by main agent):**
+- `[[colonoscopy]]` — added AI/CADe·CADx subsection + source; `[[pancreatic-cysts]]`, `[[endoscopic-ultrasound]]`, `[[antibiotic-prophylaxis-endoscopy]]` — added the EUS-FNA-cyst antibiotic RCT with the ASGE-2015-vs-RCT contradiction surfaced (guideline still "suggests"; RCT shows not needed; duplication/mediastinal cysts excluded → still cover).
+
+**Parallel lint sweep (5 folder batches via subagents; shared writes consolidated centrally):** inline `[[links]]` densified on first-mention across all folders (e.g. gerd→PPI, hepatitis-c-in-pregnancy→ICP/AFLP, colorectal-cancer→eFTR, acute-pancreatitis→acute-cholecystitis, HCC→RFA, vonoprazan→NERD/PUD); See-Also enrichment; format fixes (removed duplicate Sources entry on `[[hypercontractile-esophagus]]`; added missing `---` rule before See Also on `[[small-bowel-bleeding]]`, `[[upper-gi-bleeding]]`).
+
+**Hygiene:** whole-wiki broken-link scan = **0 broken links** (table-escaped `\|` and log-only example tokens excluded); index counts reconciled to on-disk (245 sources, 45 concepts).
+
+**Decision gaps flagged for triage (NOT fixed — criteria absent from ingested sources; source-fidelity — do not fill from memory):**
+- `[[gerd]]` — **LA (Los Angeles) grade, Hill grade, AFS grade** defining criteria (mucosal-break sizes / flap-valve appearance) are used for major decisions but the numeric definitions are NOT in `acg-2021-gerd` or `lyon-2024` (verified by text search). Needs the original LA-classification (Lundell 1999) / Hill / AFS sources.
+- `[[budd-chiari-syndrome]]` — AUROC / Rotterdam BCS index components not on page (source `acg-2020-hepatic-mesenteric-circulation`).
+- `[[colorectal-cancer]]` TNM 8th-ed stage groups, `[[cholangiocarcinoma]]`/`[[gallbladder-cancer]]` TNM, `[[gastrointestinal-stromal-tumor]]` NIH/AFIP risk table — blocked by NCCN/AJCC licensing.
+- `[[acute-cholecystitis]]` Tokyo TG18 dx/severity criteria (source not ingested); `[[pouchitis]]` PDAI/mPDAI components; `[[fecal-incontinence]]` Wexner/FISI; `[[upper-gi-bleeding]]` Rockall point values; `[[portal-hypertension]]` Sarin GOV classification; `[[hypermobile-ehlers-danlos-syndrome]]` Beighton cutoffs.
+
+**Stub-expansion candidates for future passes (need not-yet-ingested sources or a later pass):** `[[proton-pump-inhibitors]]` (expandable from acg-2021-gerd/acg-2024-hp-treatment; also lacks a `## Sources` section), `[[toxic-megacolon]]` (from acg-2021-cdiff/acg-2025-uc), `[[argon-plasma-coagulation]]`, `[[heller-myotomy]]`, `[[bariatric-surgery]]` (needs dedicated source), high-value med stubs (IBD biologics, metronidazole/vancomycin/fidaxomicin, neostigmine).
+
+**Uningested raw remaining:** only tier-3 lecture/chalk-talk transcripts (gated — never auto-ingested; awaiting user selection). All guidelines/CPUs/RCTs in `raw/` are now ingested.
+
+**Citation inconsistencies flagged (not auto-changed):** `[[alcohol-associated-liver-disease]]` cites `acg-2019-hereditary-hemochromatosis` inline but not in its Sources; `[[sphincter-of-oddi-dysfunction]]`/`[[acute-pancreatitis]]` cite `asge-2023-post-ercp-pancreatitis` inline as see-also pointers not in Sources.
+
+---
+
 ## [2026-07-29] lint | Ingested 2 AGA CPUs (Recurrent AP/CP Endoscopy 2022 + Advances in POEM 2024); 5 new pages; parallel per-folder link/decision-gap sweep; index reconciled (243 sources); 0 broken links
 
 **Sources ingested (2 — guideline/CPU tier, per ingestion priority; no lectures auto-ingested):**

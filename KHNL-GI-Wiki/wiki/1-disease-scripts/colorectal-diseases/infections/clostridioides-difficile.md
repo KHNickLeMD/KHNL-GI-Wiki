@@ -3,7 +3,7 @@ title: "Clostridioides difficile Infection"
 category: disease-script
 tags: [cdiff, clostridioides-difficile, colitis, vancomycin, fidaxomicin, fmt, colorectal]
 created: 2026-05-15
-updated: 2026-07-29
+updated: 2026-07-30
 sources: [acg-2021-cdiff, aga-2024-fmt, aga-2026-cdiff-ibd, feuerstadt-2022-ser109-cdiff]
 ---
 
@@ -53,7 +53,7 @@ Additional markers of severe/poor-outcome disease (not formal criteria): low ser
 
 *Workup: see [[acute-diarrhea]].*
 
-- Infectious colitis (bacterial: [[salmonella-infection|Salmonella]], [[campylobacter-infection|Campylobacter]], STEC; viral: [[norovirus]], CMV in immunocompromised)
+- Infectious colitis (bacterial: [[salmonella-infection|Salmonella]], [[campylobacter-infection|Campylobacter]], [[enterotoxigenic-e-coli|STEC]]; viral: [[norovirus]], CMV in immunocompromised)
 - [[inflammatory-bowel-disease|Inflammatory bowel disease]] flare ([[ulcerative-colitis]], [[crohns-disease]]) — note: CDI colonization is common in IBD and concurrent CDI + IBD flare must be distinguished from CDI alone or IBD alone
 - [[microscopic-colitis|Microscopic colitis]] (collagenous or lymphocytic)
 - Antibiotic-associated diarrhea without CDI (disrupted microbiome, osmotic)
@@ -246,7 +246,7 @@ Higher doses of vancomycin (>125 mg QID) are not recommended for severe CDI — 
 
 ## See Also
 
-[[ulcerative-colitis]], [[crohns-disease]], [[inflammatory-bowel-disease]], [[colonoscopy]], [[salmonella-infection]], [[campylobacter-infection]], [[norovirus]], [[irritable-bowel-syndrome]], [[postinfectious-ibs]], [[microscopic-colitis]], [[colon-ischemia]], [[acute-diarrhea]], [[fmt]], [[toxic-megacolon]]
+[[ulcerative-colitis]], [[crohns-disease]], [[inflammatory-bowel-disease]], [[colonoscopy]], [[salmonella-infection]], [[campylobacter-infection]], [[enterotoxigenic-e-coli]], [[norovirus]], [[irritable-bowel-syndrome]], [[postinfectious-ibs]], [[microscopic-colitis]], [[colon-ischemia]], [[acute-diarrhea]], [[fmt]], [[toxic-megacolon]]
 
 ---
 

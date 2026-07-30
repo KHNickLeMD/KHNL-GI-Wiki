@@ -17,7 +17,7 @@ sources: [aga-2022-recurrent-pancreatitis-endoscopy]
 - **Most common congenital pancreatic anomaly** — ~6–10% of individuals [[aga-2022-recurrent-pancreatitis-endoscopy]].
 - **Large majority are asymptomatic** — clinical significance in pancreatic disease is controversial. PD by itself is not clearly a cause of pancreatitis; proposed to act with genetic mutations and via impaired dorsal outflow.
 - **Proposed mechanism of disease:** a subset have impaired drainage of secretions through the dorsal-dominant system → increased intraductal pressure → may precipitate [[recurrent-acute-pancreatitis|recurrent acute pancreatitis (RAP)]].
-- Dx by cross-sectional/ductal imaging: **MRI/MRCP** (± secretin) or ERCP demonstrating separate dorsal-dominant drainage through the minor papilla. On EUS evaluation of unexplained AP, MRCP better identifies ductal anatomic variants than EUS.
+- Dx by cross-sectional/ductal imaging: **[[mri-mrcp|MRI/MRCP]]** (± secretin) or [[ercp|ERCP]] demonstrating separate dorsal-dominant drainage through the minor papilla. On EUS evaluation of unexplained AP, MRCP better identifies ductal anatomic variants than EUS.
 
 ### Classification / Typing
 

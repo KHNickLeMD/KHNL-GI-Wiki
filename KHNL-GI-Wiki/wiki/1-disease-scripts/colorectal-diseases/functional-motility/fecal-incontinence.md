@@ -3,7 +3,7 @@ title: "Fecal Incontinence"
 category: disease-script
 tags: [fecal-incontinence, anorectal, biofeedback, sacral-nerve-stimulation, pelvic-floor, colorectal]
 created: 2026-05-16
-updated: 2026-07-28
+updated: 2026-07-30
 sources: [acg-2021-anorectal-disorders, asge-2010-anorectal-disorders]
 ---
 
@@ -79,7 +79,7 @@ The Cleveland Clinic (Wexner) Fecal Incontinence Score or Fecal Incontinence Sev
 
 - **[[loperamide|Loperamide]]** 2–4 mg up to QID: reduces stool frequency and urgency; first-line pharmacotherapy; most evidence
 - **Diphenoxylate/atropine:** alternative antidiarrheal
-- **Bile salt binding agents** (cholestyramine): if bile acid malabsorption (post-cholecystectomy, ileal disease)
+- **Bile salt binding agents** (cholestyramine): if [[bile-acid-diarrhea|bile acid malabsorption]] (post-cholecystectomy, ileal disease)
 - **Anticholinergic agents:** for urgency component (clonidine, others)
 
 **Dietary counseling:**

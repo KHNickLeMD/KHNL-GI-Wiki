@@ -73,7 +73,7 @@ Four phases — recognizing the phase guides treatment (see Figure 1 of [[aga-20
 - [[rumination-syndrome]]
 - pregnancy; migraine
 - **Metabolic/endocrine mimics:** [[acute-hepatic-porphyria]], Addison's disease, hypothyroidism
-- structural: bowel obstruction, mesenteric ischemia
+- structural: bowel obstruction, [[acute-mesenteric-ischemia|mesenteric ischemia]]
 
 ## Diagnostics
 
@@ -82,7 +82,7 @@ Four phases — recognizing the phase guides treatment (see Figure 1 of [[aga-20
 - **One-time EGD or upper-GI imaging** to exclude obstructive lesions. If EGD is done soon after an episode, recognize post-retching epiphenomena (mild gastritis, erythematous streaking, Mallory-Weiss tear, esophagitis) as **non-causal**; **do not repeat** EGD/imaging.
 - **Do not routinely order gastric emptying scans** — few CVS patients have delayed emptying, results during an episode are uninterpretable, and cannabis/opiates confound interpretation.
 - Suspicion-driven testing for mimics: [[acute-hepatic-porphyria]], Addison's, hypothyroidism. **Brain imaging + neurology referral** if any localizing neurologic symptoms.
-- **ED priority:** exclude life-threatening mimics — acute abdomen, bowel obstruction, mesenteric ischemia, pancreatitis, myocardial infarction.
+- **ED priority:** exclude life-threatening mimics — acute abdomen, bowel obstruction, mesenteric ischemia, [[acute-pancreatitis|pancreatitis]], myocardial infarction.
 
 > Evidence base for all CVS pharmacotherapy is **case series / expert opinion** (no RCTs) — evidence quality is low ([[aga-2024-cvs]]).
 

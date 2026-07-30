@@ -3,7 +3,7 @@ title: "Autoimmune Hepatitis"
 category: disease-script
 tags: [aih, autoimmune, hepatitis, liver, hpb, igg, immunosuppression, pregnancy, azathioprine, budesonide, mycophenolate-mofetil, mmf, tacrolimus, overlap-syndrome, pbc, psc, cirrhosis, liver-transplant]
 created: 2026-05-16
-updated: 2026-07-17
+updated: 2026-07-30
 sources: [acg-2017-liver-chemistries, acg-2016-liver-disease-pregnancy, aasld-2020-autoimmune-hepatitis]
 ---
 
@@ -227,7 +227,7 @@ Treatment: prednisone + AZA + UDCA (13–15 mg/kg/day); see [[primary-biliary-ch
 
 - AIH associated with increased risk of fetal prematurity and loss, especially with inadequate disease control [[acg-2016-liver-disease-pregnancy]]
 - **Intrapartum flare risk >20%; postpartum flare risk 30–50%** — close monitoring required throughout pregnancy and postpartum
-- AIH may initially present during pregnancy; differentiate from AFLP, preeclampsia
+- AIH may initially present during pregnancy; differentiate from [[acute-fatty-liver-of-pregnancy|AFLP]], preeclampsia
 - **Continue corticosteroids and/or AZA throughout pregnancy** (ACG 2016 Rec 31 — Strong, Very Low evidence) [[acg-2016-liver-disease-pregnancy]]
   - Corticosteroids: pregnancy category C; population-based data (>51,000 exposures) show no significant increase in orofacial cleft or other congenital abnormalities
   - AZA: pregnancy category D; IBD safety data (>3,000 pregnancies) show no increase in congenital abnormalities; maintaining AIH control outweighs AZA risk

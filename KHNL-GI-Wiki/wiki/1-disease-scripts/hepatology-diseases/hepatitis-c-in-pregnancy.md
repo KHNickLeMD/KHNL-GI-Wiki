@@ -3,7 +3,7 @@ title: "Hepatitis C in Pregnancy"
 category: disease-script
 tags: [hepatitis-c, hcv, pregnancy, vertical-transmission, perinatal, hpb, liver]
 created: 2026-05-19
-updated: 2026-07-26
+updated: 2026-07-30
 sources: [aasld-idsa-2023-hcv, acg-2016-liver-disease-pregnancy, aasld-2021-reproductive-liver, aga-2024-pregnancy-gi-liver]
 ---
 
@@ -30,7 +30,7 @@ sources: [aasld-idsa-2023-hcv, acg-2016-liver-disease-pregnancy, aasld-2021-repr
 
 *Workup: see [[liver-disease-in-pregnancy]].*
 
-- Pregnancy-specific liver diseases — intrahepatic cholestasis of pregnancy (IHCP), acute fatty liver of pregnancy (AFLP), HELLP — distinguish from an HCV flare
+- Pregnancy-specific liver diseases — [[intrahepatic-cholestasis-of-pregnancy|intrahepatic cholestasis of pregnancy]] (IHCP), [[acute-fatty-liver-of-pregnancy|acute fatty liver of pregnancy]] (AFLP), HELLP — distinguish from an HCV flare
 - [[drug-induced-liver-injury]] — medication history
 - [[autoimmune-hepatitis]] — postpartum flare can mimic HCV
 - [[chronic-hepatitis-b]] — test HBsAg (co-infection; also relevant to reactivation)
@@ -60,7 +60,7 @@ sources: [aasld-idsa-2023-hcv, acg-2016-liver-disease-pregnancy, aasld-2021-repr
 
 ## See Also
 
-[[hepatitis-c]], [[liver-disease-in-pregnancy]], [[chronic-hepatitis-b]], [[direct-acting-antivirals]], [[acute-liver-failure]], [[autoimmune-hepatitis]], [[drug-induced-liver-injury]]
+[[hepatitis-c]], [[liver-disease-in-pregnancy]], [[intrahepatic-cholestasis-of-pregnancy]], [[acute-fatty-liver-of-pregnancy]], [[chronic-hepatitis-b]], [[direct-acting-antivirals]], [[acute-liver-failure]], [[autoimmune-hepatitis]], [[drug-induced-liver-injury]]
 
 ---
 

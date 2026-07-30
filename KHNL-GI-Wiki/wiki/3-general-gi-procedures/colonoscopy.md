@@ -4,7 +4,7 @@ category: general-procedure
 tags: [colonoscopy, crc-screening, polypectomy, surveillance, adenoma, serrated-polyp, colorectal, bowel-prep, split-dose, post-resection, crc-surveillance, metachronous]
 created: 2026-05-07
 updated: 2026-07-25
-sources: [usmstf-2020-followup-colonoscopy, usmstf-2021-crc-screening-age, usmstf-2020-endoscopic-removal, usmstf-2025-bowel-prep, acg-2025-bowel-prep, acg-2014-bowel-cleansing, asge-2015-bowel-preparation, usmstf-2015-crc-surveillance, aga-2025-cade-colonoscopy, asge-2015-scenic-ibd-dysplasia, aga-2024-glp1-endoscopy]
+sources: [usmstf-2020-followup-colonoscopy, usmstf-2021-crc-screening-age, usmstf-2020-endoscopic-removal, usmstf-2025-bowel-prep, acg-2025-bowel-prep, acg-2014-bowel-cleansing, asge-2015-bowel-preparation, usmstf-2015-crc-surveillance, aga-2025-cade-colonoscopy, aga-2023-ai-colon-polyp, asge-2015-scenic-ibd-dysplasia, aga-2024-glp1-endoscopy]
 ---
 
 # Colonoscopy
@@ -30,6 +30,13 @@ All surveillance recommendations assume high-quality examination. [[usmstf-2020-
 - **Adequate bowel prep:** able to visualize polyps >5mm; **target >90%** at endoscopist and unit level [[usmstf-2025-bowel-prep]]
 - **Complete polypectomy:** all visually detected polypoid tissue removed
 - Document polyp size ≥10mm with comparison to open snare/forceps of known size
+
+### Artificial Intelligence (CADe / CADx)
+
+See [[artificial-intelligence-endoscopy]] for the full framework.
+
+- **CADe (computer-aided detection):** raises ADR/APC in RCT meta-analyses (ADR RR 1.43), but real-world/pragmatic data are inconsistent, and the [[aga-2025-cade-colonoscopy|AGA 2025 living guideline]] makes **no recommendation for or against** routine use (very low certainty). Gains are mostly small non-advanced adenomas → added polypectomy/surveillance burden. [[aga-2023-ai-colon-polyp]]
+- **CADx (optical diagnosis):** may enable resect-and-discard / diagnose-and-leave for diminutive polyps if it meets the ASGE PIVI thresholds (≥90% NPV for adenoma in rectosigmoid HPs <5 mm; >90% surveillance-interval agreement). Not yet standard of care.
 
 ---
 
@@ -269,5 +276,6 @@ High-risk = any of: surgery without TME; transanal local excision (TAE or TEM); 
 7. [[asge-2015-bowel-preparation|ASGE 2015: Bowel Preparation Before Colonoscopy]]
 8. [[usmstf-2015-crc-surveillance|USMSTF 2015: Colonoscopy Surveillance after Colorectal Cancer Resection]]
 9. [[aga-2025-cade-colonoscopy|AGA Living Guideline: Computer-Aided Detection (CADe)-Assisted Colonoscopy (2025)]]
-10. [[asge-2015-scenic-ibd-dysplasia|SCENIC International Consensus Statement on Surveillance and Management of Dysplasia in IBD (2015)]]
-11. [[aga-2024-glp1-endoscopy|AGA 2024 Rapid Clinical Practice Update: Management of Patients Taking GLP-1 Receptor Agonists Prior to Endoscopy]]
+10. [[aga-2023-ai-colon-polyp|AGA Clinical Practice Update on the Role of Artificial Intelligence in Colon Polyp Diagnosis and Management: Commentary (2023)]]
+11. [[asge-2015-scenic-ibd-dysplasia|SCENIC International Consensus Statement on Surveillance and Management of Dysplasia in IBD (2015)]]
+12. [[aga-2024-glp1-endoscopy|AGA 2024 Rapid Clinical Practice Update: Management of Patients Taking GLP-1 Receptor Agonists Prior to Endoscopy]]

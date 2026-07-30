@@ -73,7 +73,7 @@ BISAP ≥3 = high risk for severe AP and mortality
 ## Differential Diagnosis
 
 - **[[peptic-ulcer-disease|Peptic ulcer disease]] / perforation** — perforated DU; free air on upright CXR or CT; peritoneal signs
-- **Acute cholecystitis** — RUQ pain, Murphy's sign, fever; US shows gallbladder wall thickening; mildly elevated lipase possible
+- **[[acute-cholecystitis|Acute cholecystitis]]** — RUQ pain, Murphy's sign, fever; US shows gallbladder wall thickening; mildly elevated lipase possible
 - **[[acute-mesenteric-ischemia|Mesenteric ischemia]]** — "pain out of proportion to exam"; lactic acidosis; CT angiography
 - **Intestinal obstruction** — colicky pain; distension; air-fluid levels
 - **Aortic aneurysm / dissection** — tearing pain radiating to back; pulsatile mass; hemodynamic instability

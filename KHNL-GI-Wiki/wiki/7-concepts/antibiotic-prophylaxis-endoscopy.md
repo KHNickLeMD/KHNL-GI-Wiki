@@ -4,7 +4,7 @@ category: concept
 tags: [antibiotic-prophylaxis, infective-endocarditis, ercp, peg, eus-fna, cirrhosis, gi-bleeding, bacteremia, endoscopy]
 created: 2026-06-27
 updated: 2026-07-17
-sources: [asge-2015-antibiotic-prophylaxis]
+sources: [asge-2015-antibiotic-prophylaxis, colan-hernandez-2020-eus-fna-panc-cyst-antibiotics]
 ---
 
 Framework for when periprocedural antibiotics are — and are not — indicated for GI endoscopy. Bottom line: prophylaxis is **not** given solely to prevent infective endocarditis; it is reserved for a handful of scenarios that prevent local infection (incomplete biliary drainage, PEG/PEJ, EUS-FNA of cysts) plus [[cirrhosis|cirrhotics]] admitted with GI bleeding. Per [[asge-2015-antibiotic-prophylaxis]].
@@ -28,7 +28,7 @@ Framework for when periprocedural antibiotics are — and are not — indicated 
 ## When Prophylaxis IS Indicated
 - **[[ercp|ERCP]] with anticipated incomplete biliary drainage** (eg, hilar strictures, [[primary-sclerosing-cholangitis|PSC]], post–liver transplant, known/suspected obstruction) → cover biliary flora (enteric gram-negatives + enterococci); **continue after the procedure if drainage remains incomplete**. *Not* needed when complete drainage is expected and no obstruction is suspected.
 - **PEG/PEJ placement** → parenteral **cefazolin** (or equivalent) ~30 min before; reduces peristomal infection (MRSA decolonization where endemic).
-- **EUS-FNA of cystic lesions** (mediastinal and pancreatic/peripancreatic [[pancreatic-cysts|cysts]]) → antibiotics before, often continued 3–5 days, to prevent cyst infection.
+- **EUS-FNA of cystic lesions** (mediastinal and pancreatic/peripancreatic [[pancreatic-cysts|cysts]]) → antibiotics before, often continued 3–5 days, to prevent cyst infection. **Contested for pancreatic cysts:** the first RCT ([[colan-hernandez-2020-eus-fna-panc-cyst-antibiotics|Colán-Hernández 2020]], n=226) found infection risk low (0.44%) and **not** reduced by ciprofloxacin — arguing prophylaxis is **not** routinely needed for pancreatic-cyst FNA. The ASGE 2015 guideline still *suggests* it (44BB); duplication/mediastinal cysts (excluded from the RCT) remain higher-risk and should still be covered.
 - **Cirrhosis admitted with acute GI bleeding** → antibiotics for **all** such patients **at admission, regardless of endoscopy** — IV **ceftriaxone** (or oral **norfloxacin** if intolerant). Reduces infections, rebleeding, and mortality. See [[antibiotic-prophylaxis-cirrhosis]], [[variceal-upper-gi-bleeding]], [[portal-hypertension|portal hypertensive]] bleeding, and [[spontaneous-bacterial-peritonitis|SBP]].
 - **Continuous ambulatory peritoneal dialysis** → *suggested* before lower-GI endoscopy (prevent peritonitis; very-low-quality evidence).
 
@@ -46,7 +46,7 @@ Framework for when periprocedural antibiotics are — and are not — indicated 
 | Bile duct obstruction, incomplete drainage | ERCP | **Recommended**, continue after | 444B |
 | Solid lesion (upper / lower) | EUS-FNA | Not recommended | 4444 / 444B |
 | Mediastinal cyst | EUS-FNA | **Suggested** | 44BB |
-| Pancreatic/peripancreatic cyst | EUS-FNA | **Suggested** | 44BB |
+| Pancreatic/peripancreatic cyst | EUS-FNA | **Suggested** (44BB) — but RCT ([[colan-hernandez-2020-eus-fna-panc-cyst-antibiotics|2020]]) shows not needed | 44BB |
 | All patients | PEG/PEJ placement | **Recommended** (cefazolin) | 4444 |
 | Cirrhosis + acute GI bleed | Any/none | **On admission** (ceftriaxone) | 4444 |
 | Synthetic vascular graft / nonvalvular CV device | Any | Not recommended | 4444 |
@@ -62,3 +62,4 @@ Framework for when periprocedural antibiotics are — and are not — indicated 
 ## Sources
 
 1. [[asge-2015-antibiotic-prophylaxis|ASGE Guideline: Antibiotic Prophylaxis for GI Endoscopy (2015)]]
+2. [[colan-hernandez-2020-eus-fna-panc-cyst-antibiotics|Colán-Hernández 2020: Antibiotic Prophylaxis Is Not Required for EUS-FNA of Pancreatic Cystic Lesions (RCT)]]

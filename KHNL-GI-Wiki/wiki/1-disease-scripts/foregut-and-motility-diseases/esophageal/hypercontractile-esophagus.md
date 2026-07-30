@@ -61,4 +61,3 @@ Hypercontractile esophagus (jackhammer esophagus) is defined by **Chicago Classi
 2. [[aga-2025-flip-esophageal|AGA Clinical Practice Update: Incorporating FLIP Into Esophageal Clinical Practice]]
 3. [[acg-2020-achalasia|ACG 2020: Diagnosis and Management of Achalasia]]
 4. [[aga-2024-poem-advances|AGA Clinical Practice Update on Advances in Per-Oral Endoscopic Myotomy (POEM) and Remaining Questions—What We Have Learned in the Past Decade: Expert Review (2024)]]
-3. [[acg-2020-achalasia|ACG 2020: Diagnosis and Management of Achalasia]]

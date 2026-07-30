@@ -293,6 +293,7 @@ updated: 2026-07-28
 - [[esophageal-dysfunction-systemic-disease]] — Esophageal dysfunction in systemic immune/inflammatory disease: HES/EGPA (AEC >1500), connective-tissue disease (SSc/MCTD/SLE/Sjögren/myositis), esophageal Crohn's, dermatologic (ELP/pemphigus, DIF), secondary achalasia (COVID/Chagas/eosinophilic); high index of suspicion for nonspecific endoscopy (AGA 2024) (1 source)
 - [[li-rads]] — LI-RADS: applicability (cirrhosis / at-risk HBV only), major features (APHE, nonperipheral washout, capsule, threshold growth), LR-5 size criteria, category-by-category management (LR-3 → 3–6 mo imaging; LR-4 → MDD ± biopsy; LR-5 = HCC, no biopsy; LR-M → biopsy mandatory), MRI vs CT performance (3 sources)
 - [[colonoscopy-surveillance]] — Colonoscopy surveillance intervals (USMSTF 2020): adenoma + serrated-polyp + serial-surveillance interval tables; high-quality-exam prerequisite; 1-2 small adenomas extended to 7-10y; definitions (advanced/high-risk adenoma) (1 source)
+- [[artificial-intelligence-endoscopy]] — AI in endoscopy: CADe (detection; ADR RR 1.43 in RCTs, inconsistent real-world; AGA 2025 no recommendation), CADx (optical diagnosis; ASGE PIVI ≥90% NPV / >90% surveillance-agreement thresholds for resect-and-discard/diagnose-and-leave), computer-aided quality assessment; adoption barriers (2 sources)
 - [[hcc-surveillance]] — HCC Surveillance: at-risk populations (Child-Pugh A/B cirrhosis + select non-cirrhotic HBV), semiannual US+AFP (sens 63% vs 51%), CT/MRI not routine, harms, GALAD/biomarkers not yet ready + no MCD panels, PAGE-B/REAL-B, prevent cirrhosis (2 sources)
 - [[pancreatic-cancer-screening]] — High-risk pancreatic cancer surveillance: who qualifies, EUS/MRI modalities, annual interval, condition-specific start ages (1 source)
 - [[mri-mrcp]] — MRI/MRCP for pancreaticobiliary imaging and high-risk pancreatic screening (1 source)
@@ -436,6 +437,7 @@ updated: 2026-07-28
 
 ### AGA
 
+- [[aga-2023-ai-colon-polyp]] — AGA 2023 CPU (Commentary): Role of Artificial Intelligence in Colon Polyp Diagnosis and Management — CADe (ADR RR 1.43, inconsistent real-world), CADx optical diagnosis + ASGE PIVI thresholds (≥90% NPV / >90% surveillance agreement), computer-aided quality assessment; adoption barriers
 - [[aga-2024-tailored-polypectomy]] — AGA 2024 CPU (Expert Review): Appropriate and Tailored Polypectomy — 12 BPA; CSP <10 mm, no hot forceps, cold-vs-hot decision for intermediate 10–19 mm, serrated→cold, HSP for pedunculated >10 mm, clips only ≥20 mm proximal, referral ≥20 mm/difficult/recurrent; optical-diagnosis table (Paris/NICE/WASP/Kudo/JNET)
 - [[aga-2024-esophageal-immunity-infection]] — AGA 2024 CPU (Expert Review): Esophageal Dysfunction Due to Disordered Immunity and Infection — 10 BPA; infectious esophagitis (Candida/HSV/CMV dx + doses), lymphocytic esophagitis, EoE→motility, HES/EGPA (AEC >1500), connective-tissue/dermatologic esophageal disease, secondary achalasia (COVID/Chagas)
 - [[aga-2024-poem-advances]] — AGA 2024 CPU (Expert Review): Advances in POEM — 12 BPA; preprocedure workup (endoscopy/TBE/HRM/FLIP), achalasia subtype selection (Type III preferred), EGJOO/spastic case-by-case, antibiotic/tunnel/myotomy-length questions, post-POEM reflux + surveillance, same-day discharge, failed-myotomy POEM>PD (62% vs 27%)
@@ -583,6 +585,7 @@ updated: 2026-07-28
 - [[feuerstadt-2022-ser109-cdiff]] — RCT (ECOSPOR III, NEJM 2022): SER-109 Oral Microbiome Therapy for Recurrent C. difficile — Feuerstadt et al.; 8-wk recurrence 12% vs 40% (RR 0.32); FDA-approved 2023 fecal microbiota spores
 - [[surjanhata-2025-constipation-gastroparesis]] — Cohort (Neurogastroenterol Motil 2025): Constipation Therapies and Gastroparesis Severity — Surjanhata et al.; treating slow colonic transit improved GCSI in gastroparesis-type patients; whole-gut (WMC) evaluation
 - [[hendershot-2025-semaglutide-aud]] — RCT (JAMA Psychiatry 2025): Once-Weekly Semaglutide in Alcohol Use Disorder — Hendershot et al. (Keck USC); phase 2, n=48; ↓ lab alcohol self-administration, drinks/drinking day, craving; off-label/investigational
+- [[colan-hernandez-2020-eus-fna-panc-cyst-antibiotics]] — RCT (Gastroenterology 2020): Antibiotic Prophylaxis Not Required for EUS-FNA of Pancreatic Cysts — Colán-Hernández et al.; n=226, ciprofloxacin vs placebo; infection 0.44%, non-inferior without prophylaxis; challenges ASGE 2015 routine-prophylaxis suggestion
 
 ### SAGES
 
@@ -609,4 +612,4 @@ updated: 2026-07-28
 
 ---
 
-*Total: 243 sources | 127 disease scripts | 22 diagnostic schemas | 4 general procedures | 24 advanced procedures | 27 meds | 0 anatomy | 44 concepts | 1 synthesis (on-disk page counts as of 2026-07-29)*
+*Total: 245 sources | 127 disease scripts | 22 diagnostic schemas | 4 general procedures | 24 advanced procedures | 27 meds | 0 anatomy | 45 concepts | 1 synthesis (on-disk page counts as of 2026-07-30)*

@@ -3,7 +3,7 @@ title: "Portal Vein Thrombosis and Mesenteric Vein Thrombosis"
 category: disease-script
 tags: [portal-vein-thrombosis, pvt, mvt, mesenteric-vein, anticoagulation, cirrhosis, thrombophilia, splenomegaly, mpn, liver-transplant]
 created: 2026-05-21
-updated: 2026-07-24
+updated: 2026-07-30
 sources: [acg-2020-hepatic-mesenteric-circulation, aasld-ast-2025-liver-transplant-candidate-evaluation, aasld-2021-vascular-pvt, aga-2025-pvt-cirrhosis]
 ---
 
@@ -76,7 +76,7 @@ Portal vein thrombosis (PVT) is the partial or complete occlusion of the portal 
 
 **Local/secondary causes:**
 
-- Intra-abdominal inflammation: [[acute-pancreatitis|pancreatitis]], appendicitis, diverticulitis, [[inflammatory-bowel-disease|IBD]], cholecystitis
+- Intra-abdominal inflammation: [[acute-pancreatitis|pancreatitis]], appendicitis, [[diverticulitis]], [[inflammatory-bowel-disease|IBD]], [[acute-cholecystitis|cholecystitis]]
 - Surgery: splenectomy (highest PVT risk), liver resection, bowel surgery
 - Pregnancy/postpartum
 - Tumor invasion ([[hepatocellular-carcinoma|hepatocellular carcinoma]] tumor thrombus — enhances on arterial phase CT)
@@ -172,7 +172,7 @@ Cirrhosis represents [[cirrhosis-hemostasis|rebalanced hemostasis]], not auto-an
 
 ## See Also
 
-[[budd-chiari-syndrome]], [[colon-ischemia]], [[spontaneous-bacterial-peritonitis]], [[aki-in-cirrhosis]], [[hepatocellular-carcinoma]], [[cirrhosis-hemostasis]], [[portal-hypertension]], [[variceal-upper-gi-bleeding]], [[acute-mesenteric-ischemia]], [[cholangiocarcinoma]], [[pancreatic-cancer]], [[inflammatory-bowel-disease]], [[acute-pancreatitis]], [[upper-endoscopy]], [[liver-transplantation]], [[ercp]]
+[[budd-chiari-syndrome]], [[colon-ischemia]], [[spontaneous-bacterial-peritonitis]], [[aki-in-cirrhosis]], [[hepatocellular-carcinoma]], [[cirrhosis-hemostasis]], [[portal-hypertension]], [[variceal-upper-gi-bleeding]], [[acute-mesenteric-ischemia]], [[cholangiocarcinoma]], [[pancreatic-cancer]], [[inflammatory-bowel-disease]], [[acute-pancreatitis]], [[diverticulitis]], [[acute-cholecystitis]], [[upper-endoscopy]], [[liver-transplantation]], [[ercp]]
 
 ---
 

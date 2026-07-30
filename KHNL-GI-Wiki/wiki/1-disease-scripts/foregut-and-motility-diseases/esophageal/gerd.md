@@ -14,7 +14,7 @@ sources: [asge-2024-gerd, acg-2021-gerd, sages-2021-gerd-surgery, lyon-2024-gerd
 **Clinical diagnosis** is sufficient to initiate empiric treatment in most patients:
 
 - Cardinal symptoms: troublesome heartburn and/or regurgitation (Montreal definition)
-- **8-week empiric PPI trial** for typical symptoms is recommended (Strong/Moderate, ACG 2021); if symptoms resolve, attempt PPI discontinuation (Conditional/Low)
+- **8-week empiric [[proton-pump-inhibitors|PPI]] trial** for typical symptoms is recommended (Strong/Moderate, ACG 2021); if symptoms resolve, attempt PPI discontinuation (Conditional/Low)
 - Symptom-response to empiric PPI trial supports the diagnosis
 - Uncomplicated, typical GERD does not require endoscopy before therapy
 - Reflux monitoring off PPI for patients with unclear GERD diagnosis before procedural therapy (Strong/Low, ACG 2021)
@@ -282,7 +282,7 @@ Not recommended outside clinical trials. Under evaluation:
 
 ## See Also
 
-[[dysphagia]], [[barretts-esophagus]], [[esophageal-adenocarcinoma]], [[eosinophilic-esophagitis]], [[achalasia]], [[peptic-ulcer-disease]], [[gastroparesis]], [[helicobacter-pylori-infection]], [[extraesophageal-reflux]], [[laryngopharyngeal-symptoms]], [[ambulatory-reflux-monitoring]], [[reflux-testing]], [[high-resolution-manometry]], [[hrm-antireflux-surgery]], [[flip-panometry]], [[antireflux-surgery]], [[poem]], [[vonoprazan]], [[upper-endoscopy]], [[bariatric-surgery]], [[obesity]]
+[[dysphagia]], [[barretts-esophagus]], [[esophageal-adenocarcinoma]], [[eosinophilic-esophagitis]], [[achalasia]], [[peptic-ulcer-disease]], [[gastroparesis]], [[helicobacter-pylori-infection]], [[extraesophageal-reflux]], [[laryngopharyngeal-symptoms]], [[ambulatory-reflux-monitoring]], [[reflux-testing]], [[high-resolution-manometry]], [[hrm-antireflux-surgery]], [[flip-panometry]], [[antireflux-surgery]], [[poem]], [[proton-pump-inhibitors]], [[potassium-competitive-acid-blockers]], [[vonoprazan]], [[upper-endoscopy]], [[bariatric-surgery]], [[obesity]]
 
 ---
 
