@@ -96,7 +96,7 @@ Endoscopic resection has lower adverse-event rates (~14%) than local surgical ex
   - Chromoendoscopy (indigo carmine) to define flat-lesion margins.
   - Pancreatic and/or biliary sphincterotomy often performed to aid drainage/access; no consensus.
 - **Post-procedure pancreatitis prophylaxis:** **prophylactic pancreatic duct stent placement + rectal indomethacin** recommended to reduce post-ERCP pancreatitis. Prophylactic biliary stent not routinely recommended unless inadequate biliary drainage or microperforation concern.
-- **Ablation** (residual/recurrent superficial tissue): APC most common (50–60 W); place PD stent before ablating near the PD orifice; biopsy suspicious areas before ablating (ablated tissue not available for pathology).
+- **Ablation** (residual/recurrent superficial tissue): [[argon-plasma-coagulation|APC]] most common (50–60 W); place PD stent before ablating near the PD orifice; biopsy suspicious areas before ablating (ablated tissue not available for pathology).
 - **Outcomes:** clinical success 46–92%; recurrence up to 33%; multiple sessions may be needed. Predictors of long-term success: age >48 y, lesion ≤24 mm, male sex, absence of polyposis syndrome (e.g. [[familial-adenomatous-polyposis|FAP]]). Intraductal growth → lower cure, more surgery.
 - **Adverse events:** pancreatitis (usually mild–moderate), perforation, bleeding, cholangitis, sedation events; late pancreatic/biliary stenosis; death rare.
 - Endoscopic removal of frank **ampullary adenocarcinoma is not endorsed** for routine management.

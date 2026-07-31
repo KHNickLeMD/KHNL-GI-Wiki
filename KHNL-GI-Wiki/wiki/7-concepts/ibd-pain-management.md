@@ -3,7 +3,7 @@ title: "Pain Management in IBD"
 category: concept
 tags: [ibd, crohns, ulcerative-colitis, pain, chronic-pain, neuromodulators, opioids, narcotic-bowel-syndrome, brain-gut-behavior-therapy]
 created: 2026-07-23
-updated: 2026-07-23
+updated: 2026-07-31
 sources: [aga-2024-ibd-pain]
 ---
 
@@ -143,7 +143,7 @@ sources: [aga-2024-ibd-pain]
 
 ## See Also
 
-[[crohns-disease]], [[ulcerative-colitis]], [[disorders-of-gut-brain-interaction]], [[irritable-bowel-syndrome]]
+[[inflammatory-bowel-disease]], [[crohns-disease]], [[ulcerative-colitis]], [[disorders-of-gut-brain-interaction]], [[irritable-bowel-syndrome]]
 
 ---
 

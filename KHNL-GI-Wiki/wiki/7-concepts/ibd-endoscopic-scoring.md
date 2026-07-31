@@ -3,7 +3,7 @@ title: "IBD Endoscopic Scoring Indices"
 category: concept
 tags: [ibd, crohns, ulcerative-colitis, endoscopy, scoring, mayo-endoscopic-score, uceis, ses-cd, cdeis, rutgeerts-score]
 created: 2026-07-23
-updated: 2026-07-29
+updated: 2026-07-31
 sources: [aga-2024-ibd-endoscopic-scoring]
 ---
 
@@ -151,7 +151,7 @@ Standardized endoscopic scoring indices for [[ulcerative-colitis]] (MES, UCEIS) 
 
 ## See Also
 
-[[ulcerative-colitis]], [[crohns-disease]], [[colonoscopy]], [[intestinal-ultrasound]], [[confocal-laser-endomicroscopy]], [[pouchitis]]
+[[inflammatory-bowel-disease]], [[ulcerative-colitis]], [[crohns-disease]], [[colonoscopy]], [[intestinal-ultrasound]], [[confocal-laser-endomicroscopy]], [[pouchitis]]
 
 ---
 

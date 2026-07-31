@@ -44,7 +44,7 @@ Per the ASGE guideline on malignancy in biliary strictures of undetermined etiol
 
 ## Therapeutics
 
-Management is staging- and location-dependent and beyond the scope of this diagnostic-focused page; see [[biliary-stricture]] for the drainage algorithm (SEMS vs plastic stents, sectorial perihilar drainage, endobiliary PDT/RFA) and [[asge-2021-malignant-hilar-obstruction]]. Resectable disease is managed surgically; selected perihilar CCA patients may be candidates for [[liver-transplantation|liver transplantation]] with neoadjuvant protocols — preserving transplant eligibility is why hilar-mass needle sampling is avoided.
+Management is staging- and location-dependent and beyond the scope of this diagnostic-focused page; see [[biliary-stricture]] for the drainage algorithm (SEMS vs plastic stents, sectorial perihilar drainage, endobiliary PDT/[[radiofrequency-ablation|RFA]]) and [[asge-2021-malignant-hilar-obstruction]]. Resectable disease is managed surgically; selected perihilar CCA patients may be candidates for [[liver-transplantation|liver transplantation]] with neoadjuvant protocols — preserving transplant eligibility is why hilar-mass needle sampling is avoided.
 
 ### Oncologic Management (NCCN 2026)
 

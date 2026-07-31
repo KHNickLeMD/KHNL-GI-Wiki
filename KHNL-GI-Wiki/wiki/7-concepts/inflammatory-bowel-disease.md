@@ -3,7 +3,7 @@ title: "Inflammatory Bowel Disease (IBD) — Overview"
 category: concept
 tags: [ibd, crohns, ulcerative-colitis, biologic, immunotherapy]
 created: 2026-05-16
-updated: 2026-07-16
+updated: 2026-07-31
 sources: [aga-2026-inpatient-ibd]
 ---
 
@@ -40,7 +40,7 @@ Inflammatory bowel disease (IBD) comprises two major chronic immune-mediated dis
 
 ## See Also
 
-[[crohns-disease]], [[ulcerative-colitis]], [[ibd-preventive-care]], [[clostridioides-difficile]], [[disorders-of-gut-brain-interaction]], [[drug-induced-liver-injury]], [[nutrition-in-hospitalized-patients]], [[colorectal-cancer]], [[pouchitis]], [[uc-vs-crohns-comparison]], [[probiotics]]
+[[crohns-disease]], [[ulcerative-colitis]], [[ibd-preventive-care]], [[ibd-endoscopic-scoring]], [[ibd-pain-management]], [[ibd-in-malignancy]], [[nutrition-in-ibd]], [[intestinal-ultrasound]], [[clostridioides-difficile]], [[disorders-of-gut-brain-interaction]], [[drug-induced-liver-injury]], [[nutrition-in-hospitalized-patients]], [[colorectal-cancer]], [[pouchitis]], [[uc-vs-crohns-comparison]], [[probiotics]]
 
 ---
 

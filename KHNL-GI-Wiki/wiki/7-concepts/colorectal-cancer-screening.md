@@ -3,7 +3,7 @@ title: "Colorectal Cancer Screening"
 category: concept
 tags: [crc, colorectal-cancer, screening, colonoscopy, fit, colonoscopy-quality, adenoma, colorectal]
 created: 2026-05-16
-updated: 2026-07-16
+updated: 2026-07-31
 sources: [acg-2021-crc-screening, aga-2025-crc-blood-tests]
 ---
 
@@ -135,7 +135,7 @@ Low-dose aspirin for CRC chemoprevention in adults aged **50–69** with:
 
 ## See Also
 
-[[colonoscopy]], [[colorectal-cancer]], [[lynch-syndrome]], [[polypectomy-emr]], [[colonoscopy-surveillance]], [[familial-adenomatous-polyposis]], [[capsule-endoscopy]], [[serrated-polyposis-syndrome]]
+[[colonoscopy]], [[colorectal-cancer]], [[lynch-syndrome]], [[polypectomy-emr]], [[colonoscopy-surveillance]], [[familial-adenomatous-polyposis]], [[capsule-endoscopy]], [[serrated-polyposis-syndrome]], [[artificial-intelligence-endoscopy]]
 
 ---
 

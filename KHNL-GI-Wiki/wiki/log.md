@@ -6,6 +6,21 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-07-31] lint | Expanded toxic-megacolon stub → full disease script (ACG 2025 UC + ACG 2021 C. difficile)
+
+**Page expanded:**
+- `[[toxic-megacolon]]` — full ADDT disease script built strictly from `[[acg-2025-uc]]` and `[[acg-2021-cdiff]]`. Captured: radiographic dilation predictor (transverse colon >5.5 cm on plain film), severe-colitis film features, ASUC systemic-toxicity definition (≥6 BM/day + tachycardia/fever/Hgb <10.5/ESR >30), CDI severity ladder (severe = WBC ≥15k or Cr >1.5; fulminant = severe + hypotension/ileus/megacolon — toxic megacolon = the megacolon limb), colectomy-predictor indices (Oxford/Travis, Ho, UCEIS ≥7), diagnostics (flex-sig within 24–72 h, avoid full colonoscopy, CT only for perforation/extraluminal), and cause-split therapeutics (ASUC IVCS→day-3 rescue infliximab/cyclosporine; fulminant CDI vanc 500 mg PO q6h ± IV metronidazole ± vanc enema, FMT after 48–72 h; surgical indications + procedure choice). Added escalation Mermaid.
+
+**Decision gap flagged (needs a dedicated source — NOT filled from memory):**
+- No ingested source states a formal consensus/Jalan diagnostic-criteria set for toxic megacolon (colonic dilation ≥6 cm + defined toxicity criteria). The classic ≥6 cm cut-point was deliberately omitted; the sourced >5.5 cm figure is a poor-outcome predictor in severe colitis, not an explicit TM definition.
+
+**Cross-batch links wanted but pages absent (not created — no stubs per task):** `colectomy`, `acute-severe-ulcerative-colitis`, `cytomegalovirus-colitis`/`cmv-colitis`, `infliximab`, `cyclosporine`, `fecal-microbiota-transplantation`, `vancomycin`, `fidaxomicin`. ASUC/colectomy mentions currently alias-linked to `[[ulcerative-colitis]]`.
+
+**Hygiene:**
+- `index.md` toxic-megacolon entry updated (stub → 2 sources; description now carries the >5.5 cm threshold).
+
+---
+
 ## [2026-07-30] lint | Ingested AGA 2023 AI-in-Colon-Polyp CPU + Colán-Hernández 2020 EUS-FNA-cyst antibiotic RCT; new AI-in-endoscopy concept page; ESD stub expanded; parallel per-folder link/decision-gap sweep; index reconciled (245 sources); 0 broken links
 
 **Sources ingested (2 — CPU + RCT, per ingestion priority; no lectures auto-ingested; these were the only 2 uningested source files in `raw/`):**

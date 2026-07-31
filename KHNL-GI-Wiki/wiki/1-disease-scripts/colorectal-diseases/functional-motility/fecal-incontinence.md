@@ -46,7 +46,7 @@ The Cleveland Clinic (Wexner) Fecal Incontinence Score or Fecal Incontinence Sev
 | [[inflammatory-bowel-disease\|IBD]] | Diarrhea urgency in [[crohns-disease\|Crohn's]] proctitis or [[ulcerative-colitis\|UC]]; specific treatment of IBD may improve FI |
 | [[rectal-prolapse\|Rectal prolapse]] | Visible prolapse; associated with FI and constipation |
 | Overflow incontinence | Fecal impaction with liquid feces leaking around; rectal exam reveals impaction |
-| [[radiation-proctopathy|Radiation proctopathy]] | History of pelvic radiation; radiation proctitis with urgency |
+| [[radiation-proctopathy\|Radiation proctopathy]] | History of pelvic radiation; radiation proctitis with urgency |
 | Scleroderma | Dysmotility, malabsorption; distinctive manometry pattern |
 | Post-surgical (sphincter disruption) | Prior anorectal surgery, hemorrhoidectomy, fistulotomy, LIS |
 

@@ -33,7 +33,7 @@ Chronic [[disorders-of-gut-brain-interaction|disorder of gut–brain interaction
 **Rome IV criteria (adults):**
 - Stereotypical episodes of acute-onset vomiting lasting **<7 days**.
 - **≥3 discrete episodes in the prior year AND 2 in the past 6 months**, separated by **≥1 week of baseline health**.
-- **Absence of vomiting between episodes** (milder symptoms — nausea, occasional vomiting, dyspepsia — may persist).
+- **Absence of vomiting between episodes** (milder symptoms — nausea, occasional vomiting, [[dyspepsia]] — may persist).
 - *Supportive:* personal or family history of **migraine**.
 
 Diagnosis is **clinical** — consider CVS in any adult with episodic bouts of repetitive vomiting. ~15% have episodes lasting >7 days; **abdominal pain is present in most episodes and does not exclude CVS**.

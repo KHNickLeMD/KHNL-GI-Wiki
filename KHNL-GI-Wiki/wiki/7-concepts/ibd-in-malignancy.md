@@ -3,7 +3,7 @@ title: "IBD in Patients With Malignancy"
 category: concept
 tags: [ibd, crohns, ulcerative-colitis, malignancy, cancer, thiopurines, biologics, lymphoma, immunosuppression]
 created: 2026-07-26
-updated: 2026-07-26
+updated: 2026-07-31
 sources: [aga-2024-ibd-malignancy]
 ---
 
@@ -75,7 +75,7 @@ Framework for two linked decisions: **(1)** how much cancer risk IBD inflammatio
 
 ## See Also
 
-[[crohns-disease]], [[ulcerative-colitis]], [[colorectal-cancer]], [[primary-sclerosing-cholangitis]], [[cholangiocarcinoma]], [[immune-checkpoint-inhibitor-hepatitis]], [[ibd-preventive-care]]
+[[inflammatory-bowel-disease]], [[crohns-disease]], [[ulcerative-colitis]], [[colorectal-cancer]], [[primary-sclerosing-cholangitis]], [[cholangiocarcinoma]], [[immune-checkpoint-inhibitor-hepatitis]], [[ibd-preventive-care]]
 
 ---
 
