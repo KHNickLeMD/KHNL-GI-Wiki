@@ -11,7 +11,7 @@ sources: [aga-2024-pregnancy-gi-liver, acg-2016-liver-disease-pregnancy, aasld-2
 
 [[abnormal-liver-chemistries|Abnormal liver tests]] occur in ~3–5% of pregnancies, even in otherwise healthy women. The differential encompasses:
 
-1. **Diseases coincident with pregnancy** (pre-existing or incidental): viral hepatitis, biliary disease, [[drug-induced-liver-injury|DILI]], [[autoimmune-hepatitis|autoimmune hepatitis]], PBC, [[wilson-disease|Wilson's disease]], cirrhosis
+1. **Diseases coincident with pregnancy** (pre-existing or incidental): viral hepatitis, biliary disease, [[drug-induced-liver-injury|DILI]], [[autoimmune-hepatitis|autoimmune hepatitis]], PBC, [[wilson-disease|Wilson's disease]], [[cirrhosis]]
 2. **Diseases unique to or exacerbated by pregnancy**: hyperemesis gravidarum (HG), intrahepatic cholestasis of pregnancy (IHCP), acute fatty liver of pregnancy (AFLP), preeclampsia/eclampsia with hepatic involvement, HELLP syndrome
 
 Understanding normal physiologic changes is essential before interpreting liver tests in pregnancy.

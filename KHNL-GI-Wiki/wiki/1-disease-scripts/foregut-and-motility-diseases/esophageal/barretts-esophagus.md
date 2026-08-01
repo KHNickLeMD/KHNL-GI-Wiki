@@ -97,7 +97,7 @@ The key severity variable is **dysplasia grade**, which determines both cancer r
 - **[[eosinophilic-esophagitis]]** — proximal/mid-esophageal involvement, atopic features, eosinophil-predominant inflammation; does not predispose to EAC
 - **[[achalasia]]** — [[dysphagia]] to solids and liquids, regurgitation of undigested food; manometry shows absent peristalsis + impaired LES relaxation; esophageal squamous cell carcinoma risk (not EAC)
 - **Esophageal inlet patch** — heterotopic gastric mucosa in the proximal esophagus (cervical inlet); distinct entity, not BE
-- **Candida/infectious esophagitis** — exudative plaques, odynophagia; mimics white plaques but no metaplasia on biopsy
+- **Candida/[[infectious-esophagitis|infectious esophagitis]]** — exudative plaques, odynophagia; mimics white plaques but no metaplasia on biopsy
 
 ---
 

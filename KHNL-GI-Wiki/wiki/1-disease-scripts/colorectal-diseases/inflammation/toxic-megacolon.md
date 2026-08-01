@@ -74,7 +74,7 @@ Underlying etiologies of toxic megacolon named in ingested sources:
 - [[colon-ischemia|Ischemic colitis]]
 - **Superimposed infection to exclude:** CDI (test all ASUC) and **CMV colitis** (biopsy at endoscopy; affects up to a third of steroid-refractory ASUC).
 
-**Precipitants to identify and remove:** antimotility agents (loperamide — increase toxic-megacolon risk; avoid in untreated/fulminant CDI), opioids and anticholinergics (may precipitate colonic dilation and toxicity), and NSAIDs (avoid in ASUC).
+**Precipitants to identify and remove:** antimotility agents ([[loperamide]] — increase toxic-megacolon risk; avoid in untreated/fulminant CDI), opioids and anticholinergics (may precipitate colonic dilation and toxicity), and NSAIDs (avoid in ASUC).
 
 ## Diagnostics
 
@@ -102,7 +102,7 @@ Underlying etiologies of toxic megacolon named in ingested sources:
 - **Add IV metronidazole 500 mg q8h** (conditional) — particularly if ileus impairs oral drug delivery.
 - **If ileus: add vancomycin enemas 500 mg in 100 mL saline q6h** (conditional).
 - Reassess at 48–72 h with the multidisciplinary team if no improvement.
-- **FMT** may be considered after 48–72 h of maximal medical-therapy failure, especially in poor surgical candidates (sequential protocol until pseudomembrane resolution).
+- **[[fmt|FMT]]** may be considered after 48–72 h of maximal medical-therapy failure, especially in poor surgical candidates (sequential protocol until pseudomembrane resolution).
 
 **Surgery — indications (do not delay; delayed surgery → poor outcomes):**
 - **Toxic megacolon, colonic perforation, severe refractory hemorrhage, or medical refractoriness** (ACG UC key concept 54); multiorgan dysfunction.

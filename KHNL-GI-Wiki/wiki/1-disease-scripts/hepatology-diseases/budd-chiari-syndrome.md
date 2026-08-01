@@ -3,8 +3,8 @@ title: "Budd-Chiari Syndrome"
 category: disease-script
 tags: [budd-chiari, hepatic-vein, thrombosis, portal-hypertension, liver-failure, mpn, jak2, anticoagulation, tips]
 created: 2026-05-21
-updated: 2026-07-17
-sources: [acg-2020-hepatic-mesenteric-circulation]
+updated: 2026-08-01
+sources: [acg-2020-hepatic-mesenteric-circulation, baveno-vii-2022-portal-hypertension]
 ---
 
 ## Assessment
@@ -12,6 +12,8 @@ sources: [acg-2020-hepatic-mesenteric-circulation]
 ### Establishing the Diagnosis
 
 Budd-Chiari syndrome (BCS) is defined by obstruction of hepatic venous outflow, which may occur at the level of the hepatic venules, hepatic veins, or the suprahepatic inferior vena cava (IVC). The obstruction causes sinusoidal congestion, centrilobular necrosis, and ultimately [[portal-hypertension|portal hypertension]] and hepatic failure if untreated.
+
+**Primary vs secondary (Baveno VII 8.7–8.8)** [[baveno-vii-2022-portal-hypertension]]: "BCS" is the preferred designation for any **primary** hepatic venous outflow obstruction (thrombosis, endophlebitis, or web). BCS is **secondary** when the mechanism is **extrinsic compression** (e.g. benign or malignant tumour).
 
 **Presentation** [[acg-2020-hepatic-mesenteric-circulation]]:
 
@@ -45,7 +47,9 @@ Budd-Chiari syndrome (BCS) is defined by obstruction of hepatic venous outflow, 
 
 ### Severity Assessment
 
-**AUROC score** and Rotterdam BCS index are validated prognostic tools; Child-Pugh and MELD-Na apply when cirrhosis is present.
+**AUROC score** and Rotterdam BCS index are validated prognostic tools; Child-Pugh and MELD-Na apply when cirrhosis is present. *(Component point values of these indices are not specified in the ingested sources — a decision gap; the actionable TIPS/transplant threshold below is captured.)*
+
+**BCS-TIPS prognostic index score (Baveno VII 8.24–8.25)** [[baveno-vii-2022-portal-hypertension]] — predicts outcome when [[tips|TIPS]] is being considered. A **high score (>7)** should prompt consideration of **liver transplantation before TIPS placement**; transplant is also considered for uncontrolled clinical manifestations despite the stepwise approach.
 
 Key predictors of poor outcome: [[hepatic-encephalopathy|hepatic encephalopathy]], [[ascites]] refractory to medical therapy, liver failure (coagulopathy, jaundice, INR >1.5), failure to respond to anticoagulation + angioplasty within weeks.
 
@@ -105,8 +109,9 @@ Step 4: [[liver-transplantation|Liver transplantation]]
 
 ### Step 1 — Anticoagulation
 
-- Initiate anticoagulation in all BCS patients without contraindications (Strong, Moderate evidence)
+- Initiate anticoagulation in all BCS patients without contraindications (Strong, Moderate evidence); **long-term anticoagulation for all primary BCS** (Baveno VII 8.19) [[baveno-vii-2022-portal-hypertension]]
 - Start: LMWH (enoxaparin); transition to VKA or DOAC
+- **Avoid unfractionated heparin** because of the increased risk of heparin-induced thrombocytopenia; reserve UFH for special situations (GFR <30 mL/min, pending invasive procedures) (Baveno VII 8.20)
 - Anticoagulation should be **indefinite** in most patients given persistent thrombophilia
 - Treat underlying MPN: hydroxyurea (or anagrelide for ET); phlebotomy + aspirin for polycythemia vera; does not replace anticoagulation
 - Antiphospholipid syndrome: indefinite VKA (target INR 2–3); DOACs associated with higher thrombotic recurrence in APLS
@@ -129,6 +134,8 @@ Step 4: [[liver-transplantation|Liver transplantation]]
 ### Step 4 — Liver Transplantation
 
 - For [[acute-liver-failure|acute liver failure]] from BCS, cirrhotic BCS failing all other measures, or uncontrolled portal hypertension
+- **BCS presenting as acute liver failure → urgent liver transplantation**; perform **emergency TIPS if possible, independent of listing** for transplant (Baveno VII 8.26) [[baveno-vii-2022-portal-hypertension]]
+- A **high BCS-TIPS prognostic index score (>7)** favors transplantation over TIPS (see Severity Assessment)
 - Post-transplant: lifelong anticoagulation required (thrombophilia persists)
 - Post-transplant MPN management continues; consider discussion with hematology about stem cell transplant in MPN context
 
@@ -142,10 +149,11 @@ Step 4: [[liver-transplantation|Liver transplantation]]
 
 ## See Also
 
-[[portal-vein-thrombosis]], [[hepatocellular-carcinoma]], [[acute-liver-failure]], [[liver-transplantation]], [[cirrhosis-hemostasis]], [[portal-hypertension]], [[hepatic-encephalopathy]], [[ascites]], [[jaundice]], [[hcc-surveillance]], [[liver-biopsy]], [[mri-mrcp]]
+[[portal-vein-thrombosis]], [[porto-sinusoidal-vascular-disorder]], [[hepatocellular-carcinoma]], [[acute-liver-failure]], [[liver-transplantation]], [[cirrhosis-hemostasis]], [[portal-hypertension]], [[tips]], [[hepatic-encephalopathy]], [[ascites]], [[jaundice]], [[hcc-surveillance]], [[liver-biopsy]], [[mri-mrcp]]
 
 ---
 
 ## Sources
 
 1. [[acg-2020-hepatic-mesenteric-circulation|ACG Clinical Guideline: Disorders of the Hepatic and Mesenteric Circulation]]
+2. [[baveno-vii-2022-portal-hypertension|Baveno VII — Renewing Consensus in Portal Hypertension (2022)]]

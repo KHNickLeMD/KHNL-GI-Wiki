@@ -14,7 +14,7 @@ sources: [aga-2023-extraesophageal-gerd, acg-2021-gerd]
 Two postulated mechanisms:
 
 - **Reflux pathway** — micro-aspiration/direct mucosal injury of the airway by acid or non-acid refluxate.
-- **Reflex pathway** — vagally-mediated airway reactions triggered by distal esophageal acid (no aspiration needed). Because of this pathway, **symptom improvement on a PPI can occur through mechanisms other than acid suppression and does not confirm GERD** (AGA 2023 BPA 5).
+- **Reflex pathway** — vagally-mediated airway reactions triggered by distal esophageal acid (no aspiration needed). Because of this pathway, **symptom improvement on a [[proton-pump-inhibitors|PPI]] can occur through mechanisms other than acid suppression and does not confirm GERD** (AGA 2023 BPA 5).
 
 Diagnosis rests on the **global clinical impression** integrating symptoms, endoscopy, reflux monitoring, and treatment response — ideally multidisciplinary (pulmonology, otolaryngology, dentistry, allergy) (BPA 2–3). For the laryngeal manifestation specifically (LPS/LPRD), see the dedicated [[laryngopharyngeal-symptoms|laryngopharyngeal symptoms / LPRD]] page.
 
@@ -35,7 +35,7 @@ Conditions commonly attributed to EER, each with a large non-reflux differential
 ## Diagnostic Algorithm
 
 1. **Characterize symptoms & screen for typical GERD** (heartburn, regurgitation). The presence or absence of typical symptoms drives the pathway.
-2. **EER symptoms WITHOUT typical GERD symptoms** → consider **objective reflux testing *before* starting a PPI** (BPA 4) — pre-test probability of reflux causation is low and a positive PPI response would be uninterpretable.
+2. **EER symptoms WITHOUT typical GERD symptoms** → consider **objective [[reflux-testing|reflux testing]] *before* starting a PPI** (BPA 4) — pre-test probability of reflux causation is low and a positive PPI response would be uninterpretable.
 3. **EER symptoms WITH typical GERD symptoms** → an **initial single-dose PPI trial, titrating up to twice daily, is reasonable** (BPA 4).
 4. **Failed one PPI trial (up to 12 weeks)** → pursue **objective testing for pathologic GER**; additional trials of *different* PPIs are low-yield (BPA 6). Stop empiric escalation.
 5. **Initial objective testing, tailored to presentation** (BPA 7): [[upper-endoscopy|upper endoscopy]] + [[ambulatory-reflux-monitoring|ambulatory reflux monitoring]]. Perform monitoring **off** acid suppression when GERD is unproven (to establish the diagnosis).
@@ -46,7 +46,7 @@ Conditions commonly attributed to EER, each with a large non-reflux differential
 
 | Test | Role in EER |
 |---|---|
-| Upper endoscopy (EGD) | Erosive esophagitis (LA grade — see [[gerd]]), Barrett's, hiatal hernia; a conclusive GERD sign supports (not proves) reflux causation |
+| Upper endoscopy (EGD) | Erosive esophagitis (LA grade — see [[gerd]]), [[barretts-esophagus|Barrett's]], hiatal hernia; a conclusive GERD sign supports (not proves) reflux causation |
 | Ambulatory reflux monitoring (pH or pH-impedance), **off** PPI | Establish/exclude pathologic reflux when GERD unproven; AET thresholds per [[ambulatory-reflux-monitoring|Lyon 2.0]] (>6% proven, <4% excludes) |
 | pH-impedance **on** PPI | Established GERD with persistent symptoms — quantify ongoing acid/non-acid reflux (BPA 8) |
 | Laryngoscopy (via ENT) | Mandatory to exclude non-reflux laryngeal pathology in laryngeal EER — see [[laryngopharyngeal-symptoms]] |

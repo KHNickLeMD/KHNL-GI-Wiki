@@ -123,7 +123,7 @@ The Cleveland Clinic (Wexner) Fecal Incontinence Score or Fecal Incontinence Sev
 - Best performed shortly after recognized injury; delayed repair less durable
 - Generally recognized shortly after vaginal delivery in women with sphincter disruption and persisting symptoms
 
-**End stoma (Conditional):**
+**[[ostomy-management|End stoma]] (Conditional):**
 
 - Last resort for severe FI not responding to other treatments
 - Significant QoL improvement reported in selected patients who accept stoma

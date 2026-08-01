@@ -46,7 +46,7 @@ Esophageal symptoms arise from involvement of the esophageal **muscle layer** �
 
 Dysphagia can occur from endoscopically visible esophageal mucosal involvement, **even without skin manifestations**.
 
-- **Esophageal lichen planus (ELP)** — the **most common** dermatologic disease to affect the esophagus; **can occur in isolation (33% esophagus-only)**; predilection for **Caucasian females, middle/older age**. Findings: proximal-to-mid esophageal narrowing/multiple strictures, pale edematous mucosa with **peeling/sloughing on contact**, thick white exudates. Biopsy: **Civatte bodies** (<50% diagnostic); DIF mainly to exclude other disease. **Increased esophageal cancer risk.** Treat with swallowed topical steroids (benefit >60%); systemic immunosuppression if refractory.
+- **Esophageal lichen planus (ELP)** — the **most common** dermatologic disease to affect the esophagus; **can occur in isolation (33% esophagus-only)**; predilection for **Caucasian females, middle/older age**. Findings: proximal-to-mid esophageal narrowing/multiple strictures, pale edematous mucosa with **peeling/sloughing on contact**, thick white exudates. Biopsy: **Civatte bodies** (<50% diagnostic); DIF mainly to exclude other disease. **Increased [[esophageal-cancer|esophageal cancer]] risk.** Treat with swallowed topical steroids (benefit >60%); systemic immunosuppression if refractory.
 - **Pemphigus vulgaris (PV)** — most common bullous disorder (ages 40–60); erythema, red longitudinal lines, erosions, blisters/ulcers. **Direct immunofluorescence positive for IgG + C3 is diagnostic.** Send biopsies for DIF from both involved and adjacent uninvolved mucosa (place on saline-soaked gauze / Michel's medium).
 
 ## Secondary (Mimic) Achalasia (BPA 10)

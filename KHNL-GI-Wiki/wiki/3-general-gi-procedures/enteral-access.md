@@ -102,7 +102,7 @@ sources: [aga-2025-endoscopic-enteral-access]
 - **Only ABSOLUTE contraindication** to enteral access for feeding: **mechanical small-bowel obstruction** (unless tube placed for decompression).
 - **Avoid nasal access** with abnormal nasal anatomy, facial trauma, or recent oronasal surgery.
 - **Relative contraindications to percutaneous insertion:**
-  - Active GI bleeding from peptic ulcer
+  - Active GI bleeding from [[peptic-ulcer-disease|peptic ulcer]]
   - Hemodynamic or respiratory instability
 - **Complicate but do NOT necessarily preclude PEG:** large midline wounds, chest tubes, abdominal mesh, ostomies.
 - **NOT absolute contraindications** (but complicate siting or raise aspiration risk; anesthesia support helps): morbid obesity, large hiatal or abdominal wall hernias, peritoneal carcinomatosis, severe dysmotility, esophageal varices.

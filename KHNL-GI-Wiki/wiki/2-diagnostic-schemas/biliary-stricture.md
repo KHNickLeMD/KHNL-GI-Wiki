@@ -154,7 +154,7 @@ If a diagnosis remains elusive after index ERCP:
 - **fcSEMS preferred over MPS** to reduce number of procedures (Conditional, Low evidence); equivalent resolution (~80–90%) and recurrence
 - **Duration:** 12 months for MPS; at least 6 months for fcSEMS (12 months may be superior; exchange at 6 months if targeting 12-month dwell to reduce embedment)
 - Single plastic stent alone: inadequate for most stricture types — not recommended
-- fcSEMS caution: if gallbladder in situ and cystic duct orifice cannot be avoided, favor MPS (fcSEMS covering cystic takeoff → ~7% cholecystitis)
+- fcSEMS caution: if gallbladder in situ and cystic duct orifice cannot be avoided, favor MPS (fcSEMS covering cystic takeoff → ~7% [[acute-cholecystitis|cholecystitis]])
 - Confirm malignancy is excluded before committing to any stent strategy
 
 #### Malignant — Resectable

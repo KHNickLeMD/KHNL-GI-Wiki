@@ -9,7 +9,7 @@ sources: [aga-2024-pcab, acg-2024-hp-treatment]
 
 # Potassium-Competitive Acid Blockers (P-CABs)
 
-Drug **class** of gastric acid suppressants that block the H⁺/K⁺-ATPase **competitively at the potassium-binding site**. Agents: **vonoprazan** (only agent FDA-approved / available in the US), tegoprazan, fexuprazan, keverprazan, zastaprazan (predominantly Asian markets). For the US agent specifics see `[[vonoprazan]]`.
+Drug **class** of gastric acid suppressants that block the H⁺/K⁺-ATPase **competitively at the potassium-binding site**. Agents: **[[vonoprazan]]** (only agent FDA-approved / available in the US), tegoprazan, fexuprazan, keverprazan, zastaprazan (predominantly Asian markets). For the US agent specifics see `[[vonoprazan]]`.
 
 ## Contents
 - [[#Mechanism vs PPIs]]

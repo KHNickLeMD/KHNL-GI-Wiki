@@ -45,7 +45,7 @@ Three prevalent, often-overlapping symptoms; when frequent/severe enough to impa
 - **[[small-intestinal-bacterial-overgrowth|SIBO]]** / **[[intestinal-methanogen-overgrowth]]** (methane, *M. smithii*, esp. IBS-C).
 - **Pelvic floor / defecatory dysfunction** — dyssynergic defecation with retained stool ([[defecation-disorders]]).
 - **Abdominophrenic dyssynergia (APD)** — paradoxical diaphragm descent + anterior abdominal wall relaxation producing visible distention.
-- **Structural / alarm** — ascites, intra-abdominal mass, bowel obstruction/ileus/pseudo-obstruction, ovarian cancer (bloating a presenting symptom, esp. women ≥50), [[chronic-pancreatitis]] (bloating despite enzyme replacement).
+- **Structural / alarm** — [[ascites]], intra-abdominal mass, bowel obstruction/ileus/pseudo-obstruction, ovarian cancer (bloating a presenting symptom, esp. women ≥50), [[chronic-pancreatitis]] (bloating despite enzyme replacement).
 
 ---
 

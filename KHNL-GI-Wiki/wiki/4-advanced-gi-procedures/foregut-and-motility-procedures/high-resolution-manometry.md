@@ -20,7 +20,7 @@ High-resolution manometry uses a solid-state catheter with closely spaced pressu
 - Multiple rapid swallows (MRS) — 5 × 2 mL at 2-second intervals
 - Rapid drink challenge (RDC) — 200 mL water continuous drinking
 
-**IRP thresholds are manufacturer-specific** — using the wrong device threshold misclassifies EGJ outflow obstruction. The thresholds, and all Chicago v4.0 diagnostic cutoffs, live on [[chicago-classification-v4]].
+**IRP thresholds are manufacturer-specific** — using the wrong device threshold misclassifies [[esophagogastric-junction-outflow-obstruction|EGJ outflow obstruction]]. The thresholds, and all Chicago v4.0 diagnostic cutoffs, live on [[chicago-classification-v4]].
 
 ## Key Metrics
 

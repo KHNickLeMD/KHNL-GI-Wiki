@@ -40,7 +40,7 @@ Per [[aga-2025-gastric-cancer-screening]], no universal screening — a **person
 
 - H. pylori is the most common infectious carcinogen (~90% of global GC burden). Eradication → **46% ↓ GC incidence** (RR 0.54; NNT 72) and **39% ↓ GC mortality** (RR 0.61; NNT 135) in non-US RCT meta-analysis.
 - **Opportunistic screening** for H. pylori in individuals at increased GC risk (nonserologic testing). **All** adults who test positive warrant eradication regardless of symptoms (barring contraindications/limited life expectancy). Confirm eradication ≥4 weeks after treatment.
-- **Familial-based testing:** screen adult household members of anyone who tests positive — whole-family test-and-treat had 3-fold higher eradication success and ~70% lower recurrence.
+- **Familial-based testing:** screen adult household members of anyone who tests positive — whole-family [[test-and-treat]] had 3-fold higher eradication success and ~70% lower recurrence.
 - Eradication is an **adjunct** — individuals with advanced histologic changes remain at neoplastic risk even after eradication and still merit endoscopic surveillance.
 
 See [[helicobacter-pylori-infection]] for eradication regimens.

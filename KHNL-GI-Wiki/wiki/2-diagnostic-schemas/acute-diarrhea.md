@@ -197,7 +197,7 @@ Suspect in a febrile traveler (diarrhea often absent) from an endemic area, or w
 ### Antimotility Agents
 
 - **Loperamide:** Initial dose 4 mg orally, then 2 mg after each loose stool, max 8 mg/day (OTC) or 16 mg/day (with antibiotic for TD). Do not use for >48 h in self-treatment. Adjunct with antibiotics for TD shortens illness duration (Recommendation 8, Strong/Moderate).
-  - Use with caution in proven bacterial inflammatory colitis (theoretical toxic megacolon risk, though rare).
+  - Use with caution in proven bacterial inflammatory colitis (theoretical [[toxic-megacolon|toxic megacolon]] risk, though rare).
   - **Do not use for STEC infection.**
 
 ### Bismuth Subsalicylate (BSS)

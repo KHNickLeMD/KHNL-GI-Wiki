@@ -6,6 +6,44 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-08-01] lint | Ingested EASL Baveno VII 2022 (portal hypertension consensus) — sole uningested guideline; new PSVD disease script + LSM concept; embedded rule-of-5 figure; parallel per-folder link sweep; index reconciled (246 sources); 0 broken links
+
+**Source ingested (1 — the only genuinely uningested guideline/RCT in `raw/`; all others verified ingested or duplicate uploads; lectures remain gated):**
+- `[[baveno-vii-2022-portal-hypertension]]` — Baveno VII consensus (de Franchis, Bosch, Garcia-Tsao, Reiberger, Ripoll; *J Hepatol* 2022;76:959–974; DOI 10.1016/j.jhep.2021.12.022). EASL-endorsed, 9 topics, GRADE-graded. Source page captures all decision-critical statements near-verbatim with grades + change-status: CSPH = HVPG ≥10 mmHg; LSM "rule of 5" (10-15-20-25 kPa); LSM <15+plt >150 rules out CSPH / ≥25 rules in; Baveno VI criteria (LSM <20+plt >150) rule out high-risk varices; SSM <21/>50 cutoffs; carvedilol preferred for CSPH (obviates screening endoscopy); pre-emptive TIPS (CP-C <14 / CP-B >7 active bleed / HVPG >20); recompensation criteria; PSVD framework (Table 2); splanchnic-vein-thrombosis (BCS-TIPS PI >7, PVT nomenclature Table 1).
+
+**Figure captured (from prior inbox-synced crop — orphan PNG committed this pass):**
+- `raw/assets/portal-hypertension-2022-baveno7-cacld-csph-algorithm-05.png` (Fig. 1, rule-of-5 cACLD/CSPH algorithm) embedded on `[[portal-hypertension]]`.
+
+**Pages created (2):**
+- `[[porto-sinusoidal-vascular-disorder]]` — NEW disease script (ADDT); filled a real gap (PSVD referenced in DDx across hepatology pages, no page existed). Baveno VII 3-criteria definition + Table 2 (specific/nonspecific PH features + PSVD histology), suspicion triggers (HVPG <10, LSM <10), adequate-biopsy ≥20 mm requirement, PVT coexistence, varices-screening caveat (Baveno VI criteria do NOT apply).
+- `[[liver-stiffness-measurement]]` — NEW concept page (VCTE/pSWE/2D-SWE/MRE modalities, TE cutoff anchors, 12-mo monitoring, confounders); resolves recurring plain-text "liver stiffness measurement" mentions; clinical algorithm kept single-home on `[[portal-hypertension]]`.
+
+**Entity pages updated (decision-critical Baveno content; AASLD 2023 still governs `[[portal-hypertension]]` overlaps — newer guideline):**
+- `[[portal-hypertension]]` — embedded rule-of-5 figure; added SSM rule-in/out (<21/>50) + SSM <40 to avoid endoscopy; HVPG ≥16 mmHg non-hepatic-surgery mortality threshold; recompensation criteria (7.22–7.24); PSVD in DDx; Baveno source added.
+- `[[budd-chiari-syndrome]]` — BCS-TIPS prognostic index >7 → LT before TIPS (partially fills prior AUROC/Rotterdam decision-gap flag; component point values still absent); primary vs secondary definition; long-term AC for all primary BCS + avoid UFH (HIT); ALF → urgent LT + emergency TIPS. Source added.
+- `[[portal-vein-thrombosis]]` — Baveno VII standardized PVT/cavernoma nomenclature (concordant with newer AGA 2025) + PSVD-coexistence in DDx. Source added.
+- `[[cirrhosis]]` — recompensation pointer (detail single-homed on portal-hypertension). Source added.
+
+**Parallel lint sweep (fan-out subagents over non-hepatology folders; ~30 inline links added):**
+- Foregut+colorectal batch: `barretts-esophagus`→infectious-esophagitis; `toxic-megacolon`→loperamide/fmt; `fecal-incontinence`→ostomy-management; `peutz-jeghers-syndrome`→colorectal-cancer.
+- Meds/concepts/schemas/procedures batch: 26 links across 21 pages (most-common gap: EGJOO plain-text on motility pages; also PCAB→vonoprazan, extraesophageal-reflux→PPI/reflux-testing/barretts, several schema→cirrhosis links).
+- Stalest-page validation (3 oldest): `rotavirus` + `bmmrd-syndrome` decision-sufficient/format-clean (no edits); **`cowden-syndrome` — fixed a source-fidelity error**: breast surveillance ages were mis-transcribed from the CDH1/HDGC row → corrected to ACG 2015 Table 10 Cowden values (self-exam monthly from 25; mammography + MRI annual from 30–35); `updated:` bumped.
+
+**Hygiene / reconciliation:**
+- Index footer reconciled: **246 sources | 128 disease scripts | 22 diagnostic schemas | 4 general procedures | 24 advanced procedures | 27 meds | 46 concepts | 1 synthesis** (as of 2026-08-01); frontmatter date bumped. Broken-link scan on all touched pages = **0 broken links**.
+- Ingest-backlog reconciled: the raw `AGA/` folder (113 files vs 76 aga- sources) is **duplicate uploads + terse-named copies**, not a backlog — every candidate verified ingested (hEDS→aga-2025-heds-gi, 2021 CD→aga-2021-crohns-pharm, 2024 FMT→aga-2024-fmt, 2024 IDA→aga-2024-ida-management, extraesoph GERD→aga-2023-extraesophageal-gerd, PCAB/CHS/CVS/EPI/GLP1/PVT all ingested).
+
+**Decision gaps flagged for triage (NOT fixed — criteria absent from ingested sources; source-fidelity):**
+- **LA (Los Angeles) esophagitis grade A–D** criteria still have no home page (needed by `[[gerd]]`, `[[proton-pump-inhibitors]]`, `[[vonoprazan]]`, `[[potassium-competitive-acid-blockers]]`, `[[ambulatory-reflux-monitoring]]`, `[[antireflux-surgery]]`) — needs original Lundell 1999 / LA-classification source.
+- BCS-TIPS PI / Rotterdam BCS index component point values (`[[budd-chiari-syndrome]]`); PAGE-B/REAL-B components (`[[hcc-surveillance]]`/`[[li-rads]]`); Rockall point values + Glasgow-Blatchford (`[[upper-gi-bleeding]]`/`[[upper-endoscopy]]`); Wexner/FISI (`[[fecal-incontinence]]`); IBS-SSS 5 items (`[[irritable-bowel-syndrome]]`); OLGA/OLGIM staging matrix (`[[atrophic-gastritis]]`/`[[gastric-intestinal-metaplasia]]`); CHADS₂/CHA₂DS₂-VASc components (`[[anticoagulation-gi-bleeding]]`); NRS-2002/NUTRIC; Milan criteria components (`[[tacrolimus]]`/`[[calcineurin-inhibitors]]`); TNM/Siewert (`[[esophageal-cancer]]`, licensing); IDEA/high-risk stage II criteria (`[[colorectal-cancer]]`, source ingested — fixable next pass).
+- Empty `sources: []` frontmatter on schemas `[[dysphagia]]`, `[[jaundice]]`, `[[nausea-and-vomiting]]`; `[[dysphagia]]` lacks a `## Sources` section — future hygiene pass.
+
+**Missing entity pages noticed (insufficient ingested source or deferred):** GAVE/gastric antral vascular ectasia, Hirschsprung disease, short bowel syndrome, individual IBD biologics/antibiotics (infliximab, vedolizumab, vancomycin, fidaxomicin, cyclosporine, etc.), amitriptyline/TCAs, metoclopramide, ondansetron, zollinger-ellison-syndrome, gastric-outlet-obstruction. Reported, not created.
+
+**Uningested raw remaining:** only tier-3 lecture/chalk-talk transcripts (60 files, gated — never auto-ingested; awaiting user selection). All guidelines/CPUs/RCTs in `raw/` are now ingested.
+
+---
+
 ## [2026-07-31] lint | Expanded toxic-megacolon stub → full disease script (ACG 2025 UC + ACG 2021 C. difficile)
 
 **Page expanded:**

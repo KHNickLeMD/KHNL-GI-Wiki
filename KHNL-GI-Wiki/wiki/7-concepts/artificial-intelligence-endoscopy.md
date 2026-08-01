@@ -23,7 +23,7 @@ Framework for AI computer-vision tools in GI endoscopy, focused on [[colonoscopy
 - Contemporary tools use deep-learning convolutional neural networks on live video (vs earlier still-image, hand-engineered detectors). [[aga-2023-ai-colon-polyp]]
 
 ## CADe — Computer-Aided Detection
-- **Why it matters:** [[colonoscopy]] detection is operator-dependent — ADR ranges **7%–53%** across colonoscopists; each **1% rise in ADR → ~3% lower** future CRC risk; missed polyps drive post-colonoscopy interval CRC (~8% of all CRC).
+- **Why it matters:** [[colonoscopy]] detection is operator-dependent — ADR ranges **7%–53%** across colonoscopists; each **1% rise in ADR → ~3% lower** future [[colorectal-cancer|CRC]] risk; missed polyps drive post-colonoscopy interval CRC (~8% of all CRC).
 - **Trial-level benefit:** meta-analysis of 10 RCTs (6629 pts) — AI vs routine colonoscopy **ADR RR 1.43**, **PDR RR 1.44** (both P<.001); APC also higher. Shaukat US RCT: **APC 0.83 → 1.05** with **no drop in true-histology rate** (gains not just non-neoplastic lesions).
 - **Real-world caveat:** pragmatic/observational studies (Ladabaum; Levy — ADR 30.3% vs 35.2%, P=.001) and a UK RCT showed **no ADR benefit**. Proposed reasons: ceiling effect in high performers, unconscious degradation of mucosal exposure (false security), unblinding/performance bias.
 - **Downstream burden:** ADR gains are mostly small non-advanced adenomas → more polypectomies and shorter [[colonoscopy-surveillance|surveillance]] intervals (Mori: intensive-surveillance proportion +~35% US / +~20% Europe).

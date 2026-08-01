@@ -45,7 +45,7 @@ Overall risk of developing any cancer by age: 1% (age 20), 3% (age 30), 19% (age
 
 | Cancer Site | General Population Risk | PJS Risk | Average Age of Diagnosis |
 |---|---|---|---|
-| Colorectal | 4.8% | 39% | 42–46 |
+| [[colorectal-cancer\|Colorectal]] | 4.8% | 39% | 42–46 |
 | Stomach | <1% | 29% | 30–40 |
 | Small bowel | <1% | 13% | 37–42 |
 | Pancreas | 1.5% | 11–36% | 41–52 |

@@ -154,7 +154,7 @@ flowchart TD
 
 ### Per-Oral Endoscopic Myotomy (POEM)
 
-- Endoscopic submucosal tunnel → myotomy via ESD knife; minimum 6 cm into esophagus + 2 cm below SCJ onto cardia
+- Endoscopic submucosal tunnel → myotomy via [[endoscopic-submucosal-dissection|ESD]] knife; minimum 6 cm into esophagus + 2 cm below SCJ onto cardia
 - Myotomy length tailored to spastic segment (especially Type III) — key advantage over LHM
 - Success: >90% in prospective cohorts; 92% at 2 years in the Ponds RCT; equivalent to LHM (83% vs 82%)
 - **Type III: 93% success vs 71% for LHM** (Conditional; Low evidence)

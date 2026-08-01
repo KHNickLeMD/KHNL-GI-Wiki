@@ -51,7 +51,7 @@ The hiatal hernia size + Hill grade pair is the operative decision point ([[asge
 
 - **HRM before any antireflux surgical procedure** — Strong ([[acg-2021-gerd]]); ~3% of patients referred for ARS with GERD-like symptoms have [[achalasia|achalasia spectrum disorders]] ([[padova-2025-hrm-antireflux]]).
 - Wrapping an achalasic esophagus → pseudoachalasia and severe [[dysphagia]].
-- The full pre-ARS motor-disorder decision framework (achalasia = contraindicated; EGJOO = treat first; [[hypercontractile-esophagus|jackhammer]], [[distal-esophageal-spasm|DES]], [[ineffective-esophageal-motility|IEM]] handling) lives on [[hrm-antireflux-surgery]] — not duplicated here.
+- The full pre-ARS motor-disorder decision framework (achalasia = contraindicated; [[esophagogastric-junction-outflow-obstruction|EGJOO]] = treat first; [[hypercontractile-esophagus|jackhammer]], [[distal-esophageal-spasm|DES]], [[ineffective-esophageal-motility|IEM]] handling) lives on [[hrm-antireflux-surgery]] — not duplicated here.
 
 ---
 

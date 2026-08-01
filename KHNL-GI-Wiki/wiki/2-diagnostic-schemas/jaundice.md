@@ -33,7 +33,7 @@ Conjugated cases are then split by the **R-ratio / pattern of liver enzymes** in
 - **[[alcohol-associated-liver-disease|Alcohol-associated hepatitis]]** — AST:ALT >2, often very high bilirubin
 - **[[drug-induced-liver-injury]]** — acetaminophen and idiosyncratic DILI; herbal/dietary supplements
 - **[[autoimmune-hepatitis]]**, ischemic hepatitis ("shock liver"), [[wilson-disease|Wilson disease]]
-- **Cirrhosis / decompensation** of any chronic liver disease (e.g. [[nafld-masld|MASLD]])
+- **[[cirrhosis|Cirrhosis]] / decompensation** of any chronic liver disease (e.g. [[nafld-masld|MASLD]])
 - Inherited excretion defects — Dubin-Johnson, Rotor (benign conjugated)
 
 ### Conjugated (Direct) — Cholestatic / Obstructive

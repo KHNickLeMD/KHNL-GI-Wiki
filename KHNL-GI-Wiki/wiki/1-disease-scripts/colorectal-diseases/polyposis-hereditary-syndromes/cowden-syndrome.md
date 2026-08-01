@@ -3,7 +3,7 @@ title: "Cowden Syndrome (PTEN Hamartoma Tumor Syndrome)"
 category: disease-script
 tags: [cowden, pten, phts, hamartoma, hereditary-cancer, breast-cancer, thyroid-cancer, endometrial-cancer, colorectal-cancer, genetic-testing]
 created: 2026-05-19
-updated: 2026-07-16
+updated: 2026-08-01
 sources: [acg-2015-hereditary-gi-cancer, aga-2022-hamartomatous-polyposis]
 ---
 
@@ -70,10 +70,10 @@ Cowden syndrome (CS), also called PTEN hamartoma tumor syndrome (PHTS), is cause
 
 - Annual thyroid exam and baseline ultrasound from **adolescence** (Conditional/Low)
 
-**Breast** (women):
+**Breast** (women) — [[acg-2015-hereditary-gi-cancer|ACG 2015]] Table 10:
 
-- Monthly self-exam from age 18
-- Annual mammography and breast MRI from age 25 (or 5–10 years before earliest breast cancer in family)
+- Monthly self-exam from age 25
+- Annual mammography and breast MRI from age 30–35
 
 **Uterine / endometrial**:
 

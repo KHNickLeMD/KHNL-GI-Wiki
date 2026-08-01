@@ -3,8 +3,8 @@ title: "Portal Hypertension"
 category: disease-script
 tags: [portal-hypertension, cirrhosis, CSPH, HVPG, cACLD, varices, NSBB, carvedilol, TIPS, liver-stiffness, decompensation, variceal-bleeding, ascites]
 created: 2026-05-28
-updated: 2026-07-23
-sources: [aasld-2023-portal-hypertension, acg-2025-perioperative-cirrhosis, aasld-2024-tips, aasld-2022-palliative-cirrhosis]
+updated: 2026-08-01
+sources: [aasld-2023-portal-hypertension, baveno-vii-2022-portal-hypertension, acg-2025-perioperative-cirrhosis, aasld-2024-tips, aasld-2022-palliative-cirrhosis]
 ---
 
 ## Assessment
@@ -39,7 +39,8 @@ Portal hypertension (PH) is defined as a portocaval pressure gradient (portal ve
 - 5–9 mm Hg: PH without CSPH (no varices, mild risk)
 - ≥10 mm Hg: CSPH → risk of complications begins
 - ≥12 mm Hg: variceal bleeding risk threshold
-- ≥20 mm Hg: high-risk feature predicting treatment failure in acute variceal hemorrhage (AVH)
+- ≥16 mm Hg: increased short-term mortality after **non-hepatic abdominal surgery** (Baveno VII 1.19) [[baveno-vii-2022-portal-hypertension]]
+- ≥20 mm Hg: high-risk feature predicting treatment failure in acute variceal hemorrhage (AVH); a criterion for pre-emptive TIPS
 
 HVPG requires transjugular or transfemoral approach; preferred at experienced centers. Balloon occlusion of hepatic vein (WHVP minus FHVP = HVPG). Triplicate measurements; quiet environment; avoid deep sedation.
 
@@ -56,7 +57,12 @@ HVPG requires transjugular or transfemoral approach; preferred at experienced ce
 | 20–24.9 | <150 | Certain cACLD, highly probable CSPH |
 | ≥25 | any | Rules in CSPH |
 
+![[portal-hypertension-2022-baveno7-cacld-csph-algorithm-05.png|750x330]]
+*Figure 4 — Baveno VII "rule of 5" for LSM by transient elastography (10-15-20-25 kPa). <10 kPa excludes cACLD; ≥15 kPa (+platelets >150) begins ruling in cACLD/CSPH; LSM <20 kPa + platelets >150 = Baveno VI criteria to avoid endoscopy; ≥25 kPa assumes CSPH in HCV/HBV/ALD/non-obese NASH. Higher LSM = higher risk of decompensation and liver-related death. ([[baveno-vii-2022-portal-hypertension]])*
+
 **Note:** "Rule of Five" cutoffs are less reliable in [[obesity]]/[[nafld-masld|NAFLD]], PSC with dominant strictures, and elevated ALT (>3× ULN). Non-TE elastography methods (MRE, pSWE, 2D-SWE) not yet validated for these specific cutoffs.
+
+**Spleen stiffness measurement (SSM) by TE (Baveno VII 2.21–2.22)** [[baveno-vii-2022-portal-hypertension]] — in viral-hepatitis cACLD: **SSM <21 kPa rules out** and **SSM >50 kPa rules in** CSPH. In patients not on NSBBs who meet Baveno VI criteria for endoscopy (LSM >20 kPa or platelets <150 K/mm³), **SSM <40 kPa** identifies low probability of high-risk varices → endoscopy can be avoided.
 
 **Annual LSM monitoring** in cACLD without CSPH when underlying disease is active/uncontrolled. A ≥20% increase in LSM correlates with worsening hepatic decompensation; ≥20% decrease correlates with improved mortality.
 
@@ -70,11 +76,19 @@ Cirrhosis stages (per clinical features and HVPG):
 - **First decompensation:** First overt event (ascites, AVH, HE)
 - **Further decompensation:** Recurrent/refractory events; >20 mm Hg HVPG worsens outcomes
 
+**Recompensation (Baveno VII 7.22–7.24)** [[baveno-vii-2022-portal-hypertension]] — at least partial regression of the structural/functional changes of cirrhosis after removing its cause. Clinical recompensation requires **all** of:
+
+1. Removal/suppression/cure of the primary aetiology (HCV cure, sustained HBV suppression, sustained alcohol abstinence)
+2. Resolution of [[ascites]] (off diuretics) and of [[hepatic-encephalopathy|HE]] (off lactulose/rifaximin), and **no recurrent variceal haemorrhage for ≥12 months**
+3. Stable improvement in liver function (albumin, INR, bilirubin)
+
+Because CSPH may persist despite recompensation, **NSBBs should not be discontinued unless CSPH resolves**.
+
 ---
 
 ## Differential Diagnosis
 
-- Noncirrhotic intrahepatic PH: idiopathic portal hypertension, nodular regenerative hyperplasia — biopsy required; HVPG may underestimate PH
+- [[porto-sinusoidal-vascular-disorder|Porto-sinusoidal vascular disorder (PSVD)]] — noncirrhotic intrahepatic PH (idiopathic portal hypertension, nodular regenerative hyperplasia, obliterative portal venopathy); biopsy required; HVPG often <10 mmHg and may underestimate PH. Rule out when signs of PH occur with atypical-for-cirrhosis features (statement 1.13)
 - [[portal-vein-thrombosis]] — presinusoidal; HVPG normal; Doppler ultrasound diagnostic
 - [[budd-chiari-syndrome]] — posthepatic; caudate hypertrophy, hepatic vein outflow obstruction
 - Congestive hepatopathy (right heart failure) — elevated jugular venous pressure; echo confirms; may cause false-positive HVPG
@@ -223,13 +237,14 @@ Indicated for: CTP class B score >7 with active bleeding at endoscopy, OR CTP cl
 ## See Also
 
 
-[[variceal-upper-gi-bleeding]], [[ascites]], [[spontaneous-bacterial-peritonitis]], [[aki-in-cirrhosis]], [[hepatic-encephalopathy]], [[hepatocellular-carcinoma]], [[portal-vein-thrombosis]], [[budd-chiari-syndrome]], [[liver-transplantation]], [[liver-disease-in-pregnancy]], [[hepatopulmonary-syndrome-portopulmonary-hypertension]], [[primary-sclerosing-cholangitis]], [[upper-endoscopy]], [[acute-on-chronic-liver-failure]]
+[[variceal-upper-gi-bleeding]], [[ascites]], [[spontaneous-bacterial-peritonitis]], [[aki-in-cirrhosis]], [[hepatic-encephalopathy]], [[hepatocellular-carcinoma]], [[portal-vein-thrombosis]], [[budd-chiari-syndrome]], [[porto-sinusoidal-vascular-disorder]], [[liver-transplantation]], [[liver-disease-in-pregnancy]], [[hepatopulmonary-syndrome-portopulmonary-hypertension]], [[primary-sclerosing-cholangitis]], [[upper-endoscopy]], [[acute-on-chronic-liver-failure]]
 
 ---
 
 ## Sources
 
 1. [[aasld-2023-portal-hypertension|AASLD 2023 Practice Guidance on Portal Hypertension and Varices in Cirrhosis]]
-2. [[acg-2025-perioperative-cirrhosis|ACG Clinical Guideline: Perioperative Risk Assessment and Management in Cirrhosis (2025)]]
-3. [[aasld-2024-tips|AASLD Practice Guidance: TIPS, Variceal Embolization, and Retrograde Transvenous Obliteration (2024)]]
-4. [[aasld-2022-palliative-cirrhosis|AASLD Practice Guidance: Palliative Care and Symptom-Based Management for Decompensated Cirrhosis (2022)]]
+2. [[baveno-vii-2022-portal-hypertension|Baveno VII — Renewing Consensus in Portal Hypertension (2022)]]
+3. [[acg-2025-perioperative-cirrhosis|ACG Clinical Guideline: Perioperative Risk Assessment and Management in Cirrhosis (2025)]]
+4. [[aasld-2024-tips|AASLD Practice Guidance: TIPS, Variceal Embolization, and Retrograde Transvenous Obliteration (2024)]]
+5. [[aasld-2022-palliative-cirrhosis|AASLD Practice Guidance: Palliative Care and Symptom-Based Management for Decompensated Cirrhosis (2022)]]

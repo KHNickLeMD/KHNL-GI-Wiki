@@ -68,7 +68,7 @@ Standardized endoscopic scoring indices for [[ulcerative-colitis]] (MES, UCEIS) 
 - **Original (11-point) point ranges:** erosions/ulcers (1–4), vascular pattern (1–3), bleeding (1–4).
 - **Endoscopic remission (STRIDE-II)** = **UCEIS 1**.
 - ⚠ **Severity bands undefined:** the source states the specific UCEIS cutoffs corresponding to remission vs mild, moderate, and severe disease **have yet to be defined**. It also does not supply or corroborate any UCEIS ≥7 poor-prognosis threshold.
-- ⚠ UCEIS was **developed on flexible sigmoidoscopy**; the influence of colonoscopy on the score is undetermined, and its advantage over MES "has not been confirmed."
+- ⚠ UCEIS was **developed on flexible sigmoidoscopy**; the influence of [[colonoscopy]] on the score is undetermined, and its advantage over MES "has not been confirmed."
 
 ## CDEIS
 
@@ -145,7 +145,7 @@ Standardized endoscopic scoring indices for [[ulcerative-colitis]] (MES, UCEIS) 
 
 - **PICaSSO** (Paddington International Virtual Chromoendoscopy Score): scores **mucosal changes** (elongated crypts, scars, micro-erosions, ulcers) and **vascular changes** (sparse vessels, vessel dilation, crowding, bleeding); **range 0–15**, **endoscopic remission ≤3**. Strong correlation with 5 histological scores; PICaSSO remission **not inferior** to combined endoscopy + histology for predicting clinical outcomes.
 - **Endocytoscopy and probe-based [[confocal-laser-endomicroscopy]]:** ultra-structural characterization predicting outcomes, but interpretation is subjective and needs high expertise/specialized equipment (referral centers only).
-- **Artificial intelligence:** used to grade UC activity/extent; reduces practice variability and improves endoscopy quality — more studies needed.
+- **[[artificial-intelligence-endoscopy|Artificial intelligence]]:** used to grade UC activity/extent; reduces practice variability and improves endoscopy quality — more studies needed.
 - **Transmural healing** endpoints explored via [[intestinal-ultrasound]] and MRI (MaRIA score).
 - ⚠ **Pouch endoscopic indices are not covered** by this Update — see [[aga-2024-pouchitis]] / [[pouchitis]] for pouch-specific scoring.
 

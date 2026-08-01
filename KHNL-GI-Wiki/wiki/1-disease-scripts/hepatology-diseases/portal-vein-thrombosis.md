@@ -3,8 +3,8 @@ title: "Portal Vein Thrombosis and Mesenteric Vein Thrombosis"
 category: disease-script
 tags: [portal-vein-thrombosis, pvt, mvt, mesenteric-vein, anticoagulation, cirrhosis, thrombophilia, splenomegaly, mpn, liver-transplant]
 created: 2026-05-21
-updated: 2026-07-30
-sources: [acg-2020-hepatic-mesenteric-circulation, aasld-ast-2025-liver-transplant-candidate-evaluation, aasld-2021-vascular-pvt, aga-2025-pvt-cirrhosis]
+updated: 2026-08-01
+sources: [acg-2020-hepatic-mesenteric-circulation, aasld-ast-2025-liver-transplant-candidate-evaluation, aasld-2021-vascular-pvt, aga-2025-pvt-cirrhosis, baveno-vii-2022-portal-hypertension]
 ---
 
 ## Assessment
@@ -55,6 +55,7 @@ Portal vein thrombosis (PVT) is the partial or complete occlusion of the portal 
 - **[[acute-mesenteric-ischemia|Acute mesenteric ischemia]]** — SMA occlusion (arterial embolism/thrombosis); small bowel ischemia; no portal vein thrombus
 - **[[colon-ischemia|Colon ischemia]]** — segmental colonic involvement; CT/[[colonoscopy]] distinguishes
 - **Cirrhosis with portal hypertension alone** — no thrombus; variceal bleeding/ascites present; Doppler shows slow or reversed flow without thrombus
+- **[[porto-sinusoidal-vascular-disorder|Porto-sinusoidal vascular disorder (PSVD)]]** — noncirrhotic intrahepatic PH; PVT and PSVD can **coexist**, so finding PVT does not exclude PSVD (Baveno VII 9.15) [[baveno-vii-2022-portal-hypertension]]
 
 ---
 
@@ -120,7 +121,7 @@ Portal vein thrombosis (PVT) is the partial or complete occlusion of the portal 
 - Partial/segmental PVT in cirrhosis without mesenteric extension: clinical judgment; risk/benefit discussion
 - Chronic PVT in cirrhosis: anticoagulate only for thrombophilia, progression, or bowel ischemia (Conditional, Very Low evidence)
 
-**AGA 2025 chronicity/occlusion stratification** (newest guideline-tier source; Best Practice Advice, unrated) [[aga-2025-pvt-cirrhosis]]. "Recent" = **<6 months**; "chronic" = **>6 months** (PVTs not recanalized by 6 months are unlikely to recanalize with AC):
+**AGA 2025 chronicity/occlusion stratification** (newest guideline-tier source; Best Practice Advice, unrated) [[aga-2025-pvt-cirrhosis]]. "Recent" = **<6 months**; "chronic" = **>6 months** (PVTs not recanalized by 6 months are unlikely to recanalize with AC). This is concordant with the **Baveno VII standardized nomenclature** [[baveno-vii-2022-portal-hypertension]] for documenting PVT (recent/chronic; completely [no lumen] / partially [>50%] / minimally [<50%] occlusive; cavernous transformation; progressive/stable/regressive — full table on the [[baveno-vii-2022-portal-hypertension|source page]]):
 
 | Scenario | Action |
 |---|---|
@@ -172,7 +173,7 @@ Cirrhosis represents [[cirrhosis-hemostasis|rebalanced hemostasis]], not auto-an
 
 ## See Also
 
-[[budd-chiari-syndrome]], [[colon-ischemia]], [[spontaneous-bacterial-peritonitis]], [[aki-in-cirrhosis]], [[hepatocellular-carcinoma]], [[cirrhosis-hemostasis]], [[portal-hypertension]], [[variceal-upper-gi-bleeding]], [[acute-mesenteric-ischemia]], [[cholangiocarcinoma]], [[pancreatic-cancer]], [[inflammatory-bowel-disease]], [[acute-pancreatitis]], [[diverticulitis]], [[acute-cholecystitis]], [[upper-endoscopy]], [[liver-transplantation]], [[ercp]]
+[[budd-chiari-syndrome]], [[porto-sinusoidal-vascular-disorder]], [[colon-ischemia]], [[spontaneous-bacterial-peritonitis]], [[aki-in-cirrhosis]], [[hepatocellular-carcinoma]], [[cirrhosis-hemostasis]], [[portal-hypertension]], [[variceal-upper-gi-bleeding]], [[acute-mesenteric-ischemia]], [[cholangiocarcinoma]], [[pancreatic-cancer]], [[inflammatory-bowel-disease]], [[acute-pancreatitis]], [[diverticulitis]], [[acute-cholecystitis]], [[upper-endoscopy]], [[liver-transplantation]], [[ercp]]
 
 ---
 
@@ -182,3 +183,4 @@ Cirrhosis represents [[cirrhosis-hemostasis|rebalanced hemostasis]], not auto-an
 2. [[aga-2025-pvt-cirrhosis|AGA Clinical Practice Update on Management of Portal Vein Thrombosis in Patients With Cirrhosis: Expert Review]]
 3. [[aasld-ast-2025-liver-transplant-candidate-evaluation|AASLD AST 2025: Practice Guideline on Adult Liver Transplantation — Candidate Evaluation]]
 4. [[aasld-2021-vascular-pvt|AASLD Practice Guidance: Vascular Liver Disorders, Portal Vein Thrombosis, and Procedural Bleeding in Cirrhosis (2021)]]
+5. [[baveno-vii-2022-portal-hypertension|Baveno VII — Renewing Consensus in Portal Hypertension (2022)]]

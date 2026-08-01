@@ -65,7 +65,7 @@ Laboratory ULN values for ALT are unreliable — they are set from populations t
 
 **Hepatic causes (generally ALT>AST):**
 
-- MASLD (steatosis/MASH), chronic and acute viral hepatitis, medications/DILI, [[hereditary-hemochromatosis|hemochromatosis]], [[autoimmune-hepatitis|AIH]], [[wilson-disease|Wilson's disease]], alpha-1 antitrypsin deficiency, [[celiac-disease|celiac disease]], HELLP, acute fatty liver of pregnancy, sepsis, hemophagocytic lymphohistiocytosis
+- MASLD (steatosis/MASH), chronic and acute viral hepatitis, medications/DILI, [[hereditary-hemochromatosis|hemochromatosis]], [[autoimmune-hepatitis|AIH]], [[wilson-disease|Wilson's disease]], alpha-1 antitrypsin deficiency, [[celiac-disease|celiac disease]], HELLP, [[acute-fatty-liver-of-pregnancy|acute fatty liver of pregnancy]], sepsis, hemophagocytic lymphohistiocytosis
 
 **Non-hepatic causes:**
 
@@ -99,7 +99,7 @@ Laboratory ULN values for ALT are unreliable — they are set from populations t
 
 **Elevated conjugated (direct):**
 
-- Bile duct obstruction, viral hepatitis, toxic/ischemic hepatitis, medications/DILI, acute alcoholic hepatitis, cirrhosis, [[primary-sclerosing-cholangitis]], PBC, infiltrative liver diseases, HCC, Wilson's disease, AIH, congestive hepatopathy, sepsis, TPN, intrahepatic cholestasis of pregnancy, Dubin-Johnson syndrome, Rotor syndrome, sickle cell liver crisis, hemophagocytic lymphohistiocytosis
+- Bile duct obstruction, viral hepatitis, toxic/ischemic hepatitis, medications/DILI, acute alcoholic hepatitis, cirrhosis, [[primary-sclerosing-cholangitis]], PBC, infiltrative liver diseases, HCC, Wilson's disease, AIH, congestive hepatopathy, sepsis, TPN, [[intrahepatic-cholestasis-of-pregnancy|intrahepatic cholestasis of pregnancy]], Dubin-Johnson syndrome, Rotor syndrome, sickle cell liver crisis, hemophagocytic lymphohistiocytosis
 
 ---
 

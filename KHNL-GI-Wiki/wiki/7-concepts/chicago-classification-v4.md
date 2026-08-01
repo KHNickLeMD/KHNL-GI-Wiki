@@ -15,7 +15,7 @@ Key advances over v3.0:
 
 1. Standardized protocol with supine + upright swallows + MRS + RDC
 2. Manufacturer-specific IRP thresholds (Medtronic vs. Laborie/Diversatek)
-3. EGJOO reclassified as always manometrically inconclusive — clinical and ancillary test correlation required
+3. [[esophagogastric-junction-outflow-obstruction|EGJOO]] reclassified as always manometrically inconclusive — clinical and ancillary test correlation required
 4. Fragmented peristalsis eliminated as standalone diagnosis — incorporated into IEM
 5. IEM diagnostic criteria revised
 

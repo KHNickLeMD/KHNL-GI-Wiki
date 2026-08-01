@@ -58,7 +58,7 @@ The single most useful historical discriminator in esophageal dysphagia is **sol
 **Motility:**
 
 - **[[achalasia]]** — dysphagia to solids *and* liquids, regurgitation, weight loss; diagnosed on [[high-resolution-manometry|HRM]] ([[chicago-classification-v4|Chicago Classification]] types I–III)
-- **EGJ outflow obstruction (EGJOO)** — manometric pattern requiring corroboration with [[flip-panometry|FLIP]]/timed barium and symptoms
+- **[[esophagogastric-junction-outflow-obstruction|EGJ outflow obstruction (EGJOO)]]** — manometric pattern requiring corroboration with [[flip-panometry|FLIP]]/timed barium and symptoms
 - **[[distal-esophageal-spasm]]** — premature contractions; dysphagia + chest pain
 - **[[hypercontractile-esophagus]]** (jackhammer) and **[[ineffective-esophageal-motility]]**
 - [[esophageal-dysfunction-systemic-disease|Scleroderma / systemic sclerosis]] — absent peristalsis + hypotensive LES, severe reflux

@@ -30,7 +30,7 @@ The **Padova Consensus (2025)** — a 3-year, 29-expert international process us
 | HRM Finding | Decision |
 |---|---|
 | [[achalasia\|Achalasia]] (any type) | ARS contraindicated; treat achalasia first |
-| EGJOO | Must be addressed (e.g., pneumatic dilation, [[poem\|POEM]] evaluation) before ARS; 86% consensus |
+| [[esophagogastric-junction-outflow-obstruction\|EGJOO]] | Must be addressed (e.g., pneumatic dilation, [[poem\|POEM]] evaluation) before ARS; 86% consensus |
 | [[hypercontractile-esophagus\|Hypercontractile esophagus (jackhammer)]] | Not an absolute contraindication **if** objective [[gerd\|GERD]] + partial PPI response; 81% consensus |
 | [[distal-esophageal-spasm\|DES]] with obstructive symptoms | Caution; consider non-surgical options first; 95% consensus |
 | DES without obstructive symptoms + objective GERD | May proceed to ARS; 81% consensus |

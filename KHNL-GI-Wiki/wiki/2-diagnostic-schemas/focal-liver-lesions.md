@@ -15,7 +15,7 @@ sources: [acg-2024-focal-liver-lesions]
 
 - A **focal liver lesion** = discrete mass found on imaging, usually **incidental**.
 - Approach pivots on **background liver**:
-  - **Cirrhosis / chronic liver disease** → assume malignant ([[hepatocellular-carcinoma|HCC]]) until proven otherwise; characterize with [[li-rads|LI-RADS]].
+  - **[[cirrhosis|Cirrhosis]] / chronic liver disease** → assume malignant ([[hepatocellular-carcinoma|HCC]]) until proven otherwise; characterize with [[li-rads|LI-RADS]].
   - **Non-cirrhotic** → most are benign; goal is confident non-invasive characterization to avoid biopsy/surgery.
 - This page is the **single home for the side-by-side imaging comparison**; lesion-specific detail lives on each disease-script page.
 
