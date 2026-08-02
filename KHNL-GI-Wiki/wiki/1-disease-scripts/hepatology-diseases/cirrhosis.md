@@ -12,6 +12,7 @@ sources: [aasld-2023-portal-hypertension, aasld-2024-nilda-blood, aasld-2024-nil
   - [[#Establishing the Diagnosis]]
   - [[#Severity Assessment]]
   - [[#Classification / Typing]]
+  - [[#Recompensation (Baveno VII)]]
 - [[#Differential Diagnosis]]
 - [[#Diagnostics]]
 - [[#Therapeutics]]
@@ -99,13 +100,37 @@ flowchart TD
 
 *The HVPG thresholds, the cACLD concept, and the LSM/platelet "Rule of Five" that subdivide the compensated stage are detailed on [[portal-hypertension]].*
 
-**Recompensation** — the transition can also run backward: after the primary aetiology is removed/cured, cirrhosis may partially regress. [[baveno-vii-2022-portal-hypertension|Baveno VII]] defines clinical **recompensation** by aetiology cure + resolution of ascites/HE (off therapy) + no variceal bleeding ≥12 months + stable improvement in liver function; NSBBs are continued unless CSPH resolves — criteria on [[portal-hypertension]].
+**Baveno VII stage definitions** [[baveno-vii-2022-portal-hypertension]]:
+
+| Stage | Definition |
+|---|---|
+| **Compensated** | No present or past complications of cirrhosis (A.1, 5.1); subdivided by presence/absence of CSPH (A.1, 5.2) |
+| **Decompensated** | Overt [[ascites]] (or pleural effusion with SAAG >1.1 g/dL), overt [[hepatic-encephalopathy\|HE]] (**West Haven grade ≥II**), or [[variceal-upper-gi-bleeding\|variceal bleeding]] (B.1, 5.4) |
+| **Further decompensation** | Any of: (a) a **second** PH-driven decompensating event and/or [[jaundice\|jaundice]]; (b) recurrent variceal bleeding, recurrent ascites (**≥3 large-volume paracenteses in 1 year**), recurrent HE, [[spontaneous-bacterial-peritonitis\|SBP]], and/or [[aki-in-cirrhosis\|HRS-AKI]]; (c) in a patient presenting with bleeding alone, ascites/HE/jaundice developing **after recovery** from the bleed — but not events occurring around the time of the bleed (B.1, 7.1). Higher mortality than first decompensation |
+| **Recompensation** | See below |
+
+*Not yet settled as decompensation* (D.1, 5.6–5.7): imaging-only minimal ascites, minimal HE, occult portal hypertensive gastroenteropathy bleeding, and isolated jaundice in non-cholestatic aetiologies.
+
+**Precipitants of decompensation:** superimposed liver injury — acute alcoholic hepatitis, acute HEV/HAV, HBV flare, [[drug-induced-liver-injury|DILI]] (A.1, 5.12); also [[hepatocellular-carcinoma|HCC]] and major surgery in patients with CSPH (B.1, 5.13); bacterial infections in compensated patients with CSPH (B.1, 5.10).
+
+### Recompensation (Baveno VII)
+
+Cirrhosis can regress. **All three criteria are required** (C.2, 7.23) [[baveno-vii-2022-portal-hypertension]]:
+
+1. **Removal / suppression / cure of the primary aetiology** — HCV eradication, sustained HBV suppression, or sustained alcohol abstinence
+2. **Resolution of decompensating events, sustained ≥12 months** — ascites resolved **off diuretics**, HE resolved **off lactulose/[[rifaximin|rifaximin]]**, and no recurrent variceal haemorrhage
+3. **Stable improvement in liver function tests** — albumin, INR, bilirubin
+
+Two corollaries:
+
+- **Not recompensation** (B.1, 7.25): ascites controlled *on* diuretics or after [[tips|TIPS]], or freedom from rebleeding *on* NSBB + EVL or after TIPS, when the aetiology has not been removed and synthetic function has not improved
+- **Do not stop NSBBs on recompensation** — CSPH may persist; continue unless CSPH itself resolves (B.1, 7.24)
 
 ---
 
 ## Differential Diagnosis
 
-*Workup: see [[abnormal-liver-chemistries]]. Noncirrhotic causes of portal hypertension (idiopathic PH, nodular regenerative hyperplasia, [[portal-vein-thrombosis|portal vein thrombosis]], [[budd-chiari-syndrome|Budd-Chiari syndrome]], congestive hepatopathy, schistosomiasis) are differentiated on [[portal-hypertension]].*
+*Workup: see [[abnormal-liver-chemistries]]. Noncirrhotic causes of portal hypertension ([[porto-sinusoidal-vascular-disorder|PSVD]] — the umbrella term now covering idiopathic PH and nodular regenerative hyperplasia — [[portal-vein-thrombosis|portal vein thrombosis]], [[budd-chiari-syndrome|Budd-Chiari syndrome]], congestive hepatopathy, schistosomiasis) are differentiated on [[portal-hypertension]].*
 
 **Distinguish cirrhosis from:**
 
@@ -232,7 +257,7 @@ Malnutrition, sarcopenia, and frailty are **very common and potentially modifiab
 
 ## See Also
 
-[[portal-hypertension]], [[ascites]], [[spontaneous-bacterial-peritonitis]], [[hepatic-encephalopathy]], [[variceal-upper-gi-bleeding]], [[hepatocellular-carcinoma]], [[hcc-surveillance]], [[aki-in-cirrhosis]], [[acute-on-chronic-liver-failure]], [[acute-liver-failure]], [[portal-vein-thrombosis]], [[budd-chiari-syndrome]], [[cirrhosis-hemostasis]], [[nutrition-in-liver-disease]], [[liver-transplantation]], [[noninvasive-liver-disease-assessment]], [[liver-biopsy]], [[abnormal-liver-chemistries]], [[hepatopulmonary-syndrome-portopulmonary-hypertension]], [[alcohol-associated-liver-disease]], [[nafld-masld]], [[chronic-hepatitis-b]], [[hepatitis-c]], [[primary-biliary-cholangitis]], [[primary-sclerosing-cholangitis]], [[autoimmune-hepatitis]], [[hereditary-hemochromatosis]], [[wilson-disease]], [[upper-endoscopy]], [[tips]], [[rifaximin]], [[direct-acting-antivirals]], [[antibiotic-prophylaxis-cirrhosis]], [[focal-liver-lesions]], [[obesity]], [[bariatric-surgery]]
+[[portal-hypertension]], [[porto-sinusoidal-vascular-disorder]], [[ascites]], [[spontaneous-bacterial-peritonitis]], [[hepatic-encephalopathy]], [[variceal-upper-gi-bleeding]], [[hepatocellular-carcinoma]], [[hcc-surveillance]], [[aki-in-cirrhosis]], [[acute-on-chronic-liver-failure]], [[acute-liver-failure]], [[portal-vein-thrombosis]], [[budd-chiari-syndrome]], [[cirrhosis-hemostasis]], [[nutrition-in-liver-disease]], [[liver-transplantation]], [[noninvasive-liver-disease-assessment]], [[liver-biopsy]], [[abnormal-liver-chemistries]], [[hepatopulmonary-syndrome-portopulmonary-hypertension]], [[alcohol-associated-liver-disease]], [[nafld-masld]], [[chronic-hepatitis-b]], [[hepatitis-c]], [[primary-biliary-cholangitis]], [[primary-sclerosing-cholangitis]], [[autoimmune-hepatitis]], [[hereditary-hemochromatosis]], [[wilson-disease]], [[upper-endoscopy]], [[tips]], [[rifaximin]], [[direct-acting-antivirals]], [[antibiotic-prophylaxis-cirrhosis]], [[focal-liver-lesions]], [[obesity]], [[bariatric-surgery]]
 
 ---
 

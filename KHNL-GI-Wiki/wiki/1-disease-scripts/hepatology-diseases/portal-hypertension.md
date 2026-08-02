@@ -25,7 +25,16 @@ Portal hypertension (PH) is defined as a portocaval pressure gradient (portal ve
 
 **cACLD (Compensated Advanced Chronic Liver Disease):** A new concept denoting patients who are likely close to cirrhosis based on LSM and platelet count, without requiring histological/radiological confirmation. Key threshold: LSM ≥15 kPa by transient elastography [[aasld-2023-portal-hypertension]].
 
+- Baveno VII LSM (TE) criteria: **<10 kPa rules out cACLD** (absent other clinical/imaging signs); **10–15 kPa suggestive**; **>15 kPa highly suggestive** (B.1) [[baveno-vii-2022-portal-hypertension]]
+- "cACLD" and "compensated cirrhosis" are both acceptable terms but **not interchangeable** (B.1)
+- LSM <10 kPa → negligible 3-year risk (≤1%) of decompensation and liver-related death (A.1)
+
 **Clinically significant portal hypertension (CSPH):** HVPG ≥10 mm Hg. CSPH marks the threshold above which clinical decompensation risk rises substantially (varices, [[ascites]], HE). Complications typically manifest when HVPG ≥12 mm Hg.
+
+- HVPG >5 mmHg = sinusoidal PH; **≥10 mmHg = CSPH** (A.1, Baveno VII 1.10 — changed from >10 to ≥10)
+- In [[primary-biliary-cholangitis|PBC]] a presinusoidal component means HVPG **underestimates** PH severity (B.1); in NASH/[[nafld-masld|MASH]] cirrhosis, signs of PH can occur at HVPG <10 mmHg (C.2)
+- Signs of PH with HVPG <10 mmHg → rule out [[porto-sinusoidal-vascular-disorder|PSVD]] (B.1)
+- HVPG ≥16 mmHg predicts increased short-term mortality after **non-hepatic abdominal surgery** (C.1); CSPH predicts decompensation/death after liver resection for [[hepatocellular-carcinoma|HCC]] (A.1)
 
 **Clinical decompensation** is defined by overt [[ascites]], [[variceal-upper-gi-bleeding|variceal hemorrhage]], or overt [[hepatic-encephalopathy|hepatic encephalopathy]]. Once decompensation occurs, median survival decreases from >12 years to <1.5 years.
 
@@ -47,15 +56,19 @@ HVPG requires transjugular or transfemoral approach; preferred at experienced ce
 ![[portal-hypertension-2023-noninvasive-staging-algorithm-09.png|700x378]]
 *Figure 3 — Noninvasive tests for staging and management of compensated advanced chronic liver disease (cACLD): LSM ranges, CSPH probability, endoscopy indications, LSM monitoring, and alternatives to TE. ([[aasld-2023-portal-hypertension]])*
 
-**Noninvasive staging of cACLD (Figure 1B, "Rule of Five"):**
+**Noninvasive staging of cACLD — the "Rule of Five" (10-15-20-25 kPa).** AASLD 2023 Figure 1B and Baveno VII (2.9, 2.15–2.18) give the same ladder; the CSPH rule-out row and ANTICIPATE risk estimates are Baveno VII's wording.
 
-| LSM (kPa) | Platelet (K/mm³) | Interpretation |
+| LSM by TE (kPa) | Platelets (×10⁹/L) | Interpretation |
 |---|---|---|
-| <10 | — | Rules out cACLD |
-| 10–14.9 | — | Possible cACLD; no CSPH |
-| 15–19.9 | <110 | Certain cACLD, probable CSPH |
-| 20–24.9 | <150 | Certain cACLD, highly probable CSPH |
-| ≥25 | any | Rules in CSPH |
+| <10 | — | Rules out cACLD (≤1% 3-yr decompensation/death risk) |
+| 10–15 | — | Suggestive of cACLD |
+| ≤15 | ≥150 | **Rules out CSPH** (Sn/NPV >90%) (B.2) |
+| >15 | — | Highly suggestive of cACLD |
+| 15–20 | <110 | Certain cACLD; **CSPH risk ≥60%** (ANTICIPATE) (B.2) |
+| 20–25 | <150 | Certain cACLD; **CSPH risk ≥60%** (ANTICIPATE) (B.2) |
+| ≥25 | any | **Rules in CSPH** (Sp/PPV >90%) (B.1) — validated in viral/alcohol cACLD and **non-obese (BMI <30) NASH** |
+
+ANTICIPATE-NASH (LSM + platelets + BMI) may be used in NASH-related cACLD but needs validation (C.2) [[baveno-vii-2022-portal-hypertension]].
 
 ![[portal-hypertension-2022-baveno7-cacld-csph-algorithm-05.png|750x330]]
 *Figure 4 — Baveno VII "rule of 5" for LSM by transient elastography (10-15-20-25 kPa). <10 kPa excludes cACLD; ≥15 kPa (+platelets >150) begins ruling in cACLD/CSPH; LSM <20 kPa + platelets >150 = Baveno VI criteria to avoid endoscopy; ≥25 kPa assumes CSPH in HCV/HBV/ALD/non-obese NASH. Higher LSM = higher risk of decompensation and liver-related death. ([[baveno-vii-2022-portal-hypertension]])*
@@ -65,6 +78,15 @@ HVPG requires transjugular or transfemoral approach; preferred at experienced ce
 **Spleen stiffness measurement (SSM) by TE (Baveno VII 2.21–2.22)** [[baveno-vii-2022-portal-hypertension]] — in viral-hepatitis cACLD: **SSM <21 kPa rules out** and **SSM >50 kPa rules in** CSPH. In patients not on NSBBs who meet Baveno VI criteria for endoscopy (LSM >20 kPa or platelets <150 K/mm³), **SSM <40 kPa** identifies low probability of high-risk varices → endoscopy can be avoided.
 
 **Annual LSM monitoring** in cACLD without CSPH when underlying disease is active/uncontrolled. A ≥20% increase in LSM correlates with worsening hepatic decompensation; ≥20% decrease correlates with improved mortality.
+
+![[portal-hypertension-2022-baveno7-cacld-csph-algorithm-05.png|700x306]]
+*Figure 1 — Baveno VII algorithm for the non-invasive determination of cACLD and CSPH ("rule of 5": 10-15-20-25 kPa). ([[baveno-vii-2022-portal-hypertension]])*
+
+**Confirming an abnormal TE:** TE gives false positives — repeat an index LSM ≥10 kPa **fasting**, or corroborate with a serum fibrosis marker: FIB-4 ≥2.67, ELF ≥9.8, FibroTest ≥0.58 (alcohol/viral) or ≥0.48 (NAFLD) (B.2). LSM 7–10 kPa with ongoing liver injury → monitor case-by-case for progression to cACLD (C.2). See [[noninvasive-liver-disease-assessment]].
+
+**Clinically significant LSM *decrease*** (associated with substantially reduced decompensation/death): ≥20% drop with LSM <20 kPa, **or** any drop to <10 kPa (C.2).
+
+**Spleen stiffness (SSM) by TE** — in viral cACLD (untreated HCV; untreated/treated HBV): SSM <21 kPa rules out and >50 kPa rules in CSPH (B.2). In NSBB-ineligible patients who would otherwise need endoscopy by Baveno VI criteria, **SSM ≤40 kPa identifies low probability of high-risk varices → endoscopy can be avoided** (C.2).
 
 ### Classification / Typing
 
@@ -88,7 +110,7 @@ Because CSPH may persist despite recompensation, **NSBBs should not be discontin
 
 ## Differential Diagnosis
 
-- [[porto-sinusoidal-vascular-disorder|Porto-sinusoidal vascular disorder (PSVD)]] — noncirrhotic intrahepatic PH (idiopathic portal hypertension, nodular regenerative hyperplasia, obliterative portal venopathy); biopsy required; HVPG often <10 mmHg and may underestimate PH. Rule out when signs of PH occur with atypical-for-cirrhosis features (statement 1.13)
+- [[porto-sinusoidal-vascular-disorder|Porto-sinusoidal vascular disorder (PSVD)]] — the umbrella term for noncirrhotic intrahepatic PH (idiopathic portal hypertension, nodular regenerative hyperplasia, obliterative portal venopathy); biopsy required; HVPG may underestimate PH, and signs of PH with HVPG <10 mmHg or LSM <10 kPa should prompt this diagnosis (Baveno VII statement 1.13)
 - [[portal-vein-thrombosis]] — presinusoidal; HVPG normal; Doppler ultrasound diagnostic
 - [[budd-chiari-syndrome]] — posthepatic; caudate hypertrophy, hepatic vein outflow obstruction
 - Congestive hepatopathy (right heart failure) — elevated jugular venous pressure; echo confirms; may cause false-positive HVPG
@@ -118,6 +140,30 @@ Because CSPH may persist despite recompensation, **NSBBs should not be discontin
 - When TE IS available and shows CSPH: NSBB initiation can obviate need for screening endoscopy (GS 14)
 - Patients on NSBB therapy: screening EGD generally unnecessary (GS 16)
 
+**Does this patient need a screening EGD? (Baveno VII — the NSBB question comes first)**
+
+Baveno VII reframes screening around **whether the patient will be started on an NSBB**, because the treatment target is preventing decompensation, not finding varices:
+
+- **Started on an NSBB for CSPH → no screening endoscopy** (B.2, 5.17) — the result would not change management (they are already on the drug that both prevents decompensation and prevents first variceal bleed)
+- **Cannot start an NSBB (contraindication/intolerance) → screening endoscopy if LSM ≥20 kPa *or* platelets ≤150×10⁹/L** (A.1, 2.19). Note "or", not "and" — either one alone triggers it
+  - Exception: **SSM ≤40 kPa by TE** in that group identifies low probability of high-risk varices → endoscopy can still be avoided (C.2, 2.22)
+- **Avoiding endoscopy → surveil non-invasively:** repeat TE + platelet count **yearly**; if LSM rises to ≥20 kPa or platelets fall to ≤150×10⁹/L, do the screening EGD (D.1, 2.20)
+- **Ascites and not on an NSBB → screening endoscopy** (B.1, 7.3)
+- **[[porto-sinusoidal-vascular-disorder|PSVD]]:** the non-invasive Baveno criteria **do not apply** — endoscopic screening is required at diagnosis (B.1/C.1, 9.21–9.22)
+
+```mermaid
+flowchart TD
+    A["cACLD/compensated cirrhosis<br/>CSPH present (LSM ≥25 kPa, or<br/>ANTICIPATE ≥60%, or HVPG ≥10)"] --> B{"NSBB candidate?"}
+    B -->|"Yes"| C["Start carvedilol<br/>NO screening endoscopy"]
+    B -->|"No — contraindication<br/>or intolerance"| D{"LSM ≥20 kPa<br/>OR platelets ≤150?"}
+    D -->|"No"| E["No endoscopy<br/>Repeat TE + platelets yearly"]
+    D -->|"Yes"| F{"SSM ≤40 kPa<br/>(if available)?"}
+    F -->|"Yes"| E
+    F -->|"No / not available"| G["Screening EGD<br/>High-risk varices → EVL"]
+```
+
+*Source: [[baveno-vii-2022-portal-hypertension]] statements 2.19–2.22, 5.17, 5.19, 7.3, 9.21–9.22.*
+
 ---
 
 ## Therapeutics
@@ -139,9 +185,24 @@ Because CSPH may persist despite recompensation, **NSBBs should not be discontin
 
 **NSBB dose reduction/discontinuation:** If persistent SBP <90 mm Hg or severe adverse effects → reduce/discontinue; then perform EGD to assess for high-risk varices needing EVL (GS 24)
 
+- With ascites, Baveno VII gives explicit thresholds: dose-reduce or stop for **persistent SBP <90 mmHg or MAP <65 mmHg, and/or HRS-AKI**; **re-initiate/re-titrate once BP recovers or HRS-AKI resolves**; if permanently intolerant → EVL (B.1, 7.7) [[baveno-vii-2022-portal-hypertension]]
+- Baveno VII adds that HVPG measurement is not needed to decide: treat when clinically indicated, independent of the ability to measure HVPG (B.2, 5.16)
+
+**Stopping an NSBB after the aetiology is cured/suppressed** (SVR in HCV, HBV suppression, sustained alcohol abstinence) [[baveno-vii-2022-portal-hypertension]]:
+
+- On NSBB with **no evident CSPH (LSM <25 kPa)** post-cure → repeat endoscopy, preferably after 1–2 years; **if no varices, NSBB can be discontinued** (C.2, 3.9)
+- HCV cACLD with SVR, no co-factors, and consistent improvement to **LSM <12 kPa + platelets >150×10⁹/L** → discharge from portal-hypertension surveillance (LSM and endoscopy) entirely; **continue [[hcc-surveillance|HCC surveillance]]** (B.1, 3.7)
+- Baveno VI criteria (LSM <20 kPa + platelets >150×10⁹/L) remain valid to rule out high-risk varices after SVR/viral suppression (B.1, 3.8)
+- Overweight/obesity, diabetes, and alcohol still drive progression after cure and must be addressed (A.1, 3.3)
+- After **recompensation** (see [[cirrhosis]]), CSPH may persist — **do not stop NSBBs unless CSPH resolves** (B.1, 7.24)
+
 **Treating underlying liver disease:** Antiviral therapy ([[direct-acting-antivirals|HCV DAAs]], [[chronic-hepatitis-b|HBV]] NAs), alcohol cessation, immunosuppression ([[autoimmune-hepatitis|AIH]]) → can reduce HVPG and reverse cirrhosis in long-term follow-up (GS 10). Lifestyle modification (weight, alcohol, diet) is concurrent priority.
 
 **Statins (investigational):** Simvastatin ≤20 mg/d (hepatic dosing; avoid >20 mg/d with decompensation) shows promise for decompensation/survival reduction. Use with caution (rhabdomyolysis risk with high bilirubin); 4 RCTs ongoing.
+
+- Baveno VII: statin use should be **encouraged** where there is an approved statin indication — may lower portal pressure (A.1) and improve survival (B.1); in Child-Pugh B/C cap at simvastatin 20 mg/d with close muscle/liver toxicity monitoring, and use more restrictively in Child-Pugh C where benefit is unproven (4.1–4.2) [[baveno-vii-2022-portal-hypertension]]
+- **Aspirin** should likewise not be discouraged where indicated — may reduce HCC, liver-related complications, and death (B.2, 4.3)
+- **Anticoagulation** should not be discouraged where indicated; may reduce liver-related outcomes with or without [[portal-vein-thrombosis|PVT]] and improve survival (B.1, 4.11)
 
 **TIPS not indicated** for prevention of decompensation or primary variceal hemorrhage prophylaxis (GS 21).
 
@@ -177,6 +238,13 @@ Because CSPH may persist despite recompensation, **NSBBs should not be discontin
 
 **Preemptive TIPS (within 72h, ideally within 24h of endoscopy):**
 Indicated for: CTP class B score >7 with active bleeding at endoscopy, OR CTP class C score 10–13 (GS 32). Polytetrafluoroethylene-covered stents. If TIPS not locally available → transfer. Preemptive TIPS significantly improves bleeding control and survival (PREVENT and TRANSJIP-1 trials).
+
+Baveno VII (6.27–6.31) states the criteria slightly differently and adds two points [[baveno-vii-2022-portal-hypertension]]:
+
+- Criteria: **CTP class C <14 points, or CTP class B >7 with active bleeding at initial endoscopy, or HVPG >20 mmHg at the time of haemorrhage** (A.1) — the HVPG limb is not in the AASLD statement
+- **ACLF, hepatic encephalopathy at admission, and hyperbilirubinaemia are NOT contraindications** to pre-emptive TIPS (B.1, 6.28)
+- **TIPS futility:** may be futile at Child-Pugh ≥14, or MELD >30 with lactate >12 mmol/L, unless short-term transplant is planned — case-by-case (B.1/D.1, 6.31)
+- Haemodynamic target: post-TIPS **PPG <12 mmHg** (near-complete protection from portal hypertensive bleeding); ≥50% relative reduction may also be useful (A.1/B.2, 1.23)
 
 **Post-hemostasis (patients who do NOT receive preemptive TIPS):**
 
@@ -237,7 +305,7 @@ Indicated for: CTP class B score >7 with active bleeding at endoscopy, OR CTP cl
 ## See Also
 
 
-[[variceal-upper-gi-bleeding]], [[ascites]], [[spontaneous-bacterial-peritonitis]], [[aki-in-cirrhosis]], [[hepatic-encephalopathy]], [[hepatocellular-carcinoma]], [[portal-vein-thrombosis]], [[budd-chiari-syndrome]], [[porto-sinusoidal-vascular-disorder]], [[liver-transplantation]], [[liver-disease-in-pregnancy]], [[hepatopulmonary-syndrome-portopulmonary-hypertension]], [[primary-sclerosing-cholangitis]], [[upper-endoscopy]], [[acute-on-chronic-liver-failure]]
+[[cirrhosis]], [[variceal-upper-gi-bleeding]], [[ascites]], [[spontaneous-bacterial-peritonitis]], [[aki-in-cirrhosis]], [[hepatic-encephalopathy]], [[hepatocellular-carcinoma]], [[portal-vein-thrombosis]], [[budd-chiari-syndrome]], [[porto-sinusoidal-vascular-disorder]], [[noninvasive-liver-disease-assessment]], [[liver-stiffness-measurement]], [[hcc-surveillance]], [[liver-transplantation]], [[liver-disease-in-pregnancy]], [[hepatopulmonary-syndrome-portopulmonary-hypertension]], [[primary-sclerosing-cholangitis]], [[primary-biliary-cholangitis]], [[nafld-masld]], [[upper-endoscopy]], [[acute-on-chronic-liver-failure]]
 
 ---
 

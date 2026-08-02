@@ -3,8 +3,8 @@ title: "Variceal Upper GI Bleeding"
 category: diagnostic-schema
 tags: [cirrhosis, portal-hypertension, variceal-bleeding, upper-gi-bleeding, hemostasis, antibiotic-prophylaxis, TIPS, EVL, carvedilol, NSBB, gastric-varices, preemptive-TIPS]
 created: 2026-05-15
-updated: 2026-07-23
-sources: [albhaisi-2025-prophylactic-antibiotics-cirrhosis, aasld-2023-portal-hypertension, aga-2024-vasoactive-albumin-cirrhosis]
+updated: 2026-07-31
+sources: [albhaisi-2025-prophylactic-antibiotics-cirrhosis, aasld-2023-portal-hypertension, baveno-vii-2022-portal-hypertension, aga-2024-vasoactive-albumin-cirrhosis]
 ---
 
 ## Definition / Scope
@@ -52,6 +52,10 @@ In a cirrhotic patient with UGIB, consider:
 
 6. **Preemptive TIPS** (GS 32) — within **72 hours, ideally within 24 hours** of index EGD:
    - **Indications:** CTP class B score >7 with active bleeding on endoscopy, OR CTP class C score 10–13
+   - **Baveno VII (6.27) adds a third limb:** CTP class C **<14 points**, or CTP class B **>7 with active bleeding at initial endoscopy**, or **HVPG >20 mmHg at the time of haemorrhage** [[baveno-vii-2022-portal-hypertension]]
+   - **ACLF, hepatic encephalopathy at admission, and hyperbilirubinaemia are NOT contraindications** to preemptive TIPS (B.1, 6.28)
+   - **TIPS may be futile** at CTP ≥14, or MELD >30 with lactate >12 mmol/L, unless short-term transplant is planned — decide case-by-case (B.1/D.1, 6.31)
+   - Haemodynamic target: post-TIPS PPG **<12 mmHg** (near-complete protection from PH bleeding); ≥50% relative reduction may also suffice (A.1/B.2, 1.23)
    - If TIPS not locally available → transfer to capable center
    - PREVENT and TRANSJIP-1 trials: preemptive TIPS significantly improves bleeding control and survival vs. standard pharmacologic + endoscopic therapy
 
@@ -61,10 +65,24 @@ In a cirrhotic patient with UGIB, consider:
    - Start **[[nutrition-in-liver-disease|enteral nutrition]]** once AVH episode controlled; variceal bands do NOT contraindicate NG tube placement (GS 36)
 
 8. **Salvage/Rescue TIPS** (GS 35): Uncontrolled AVH despite vasoactive + EVL ("salvage") or rebleed ("rescue")
+   - Bridge to TIPS: **balloon tamponade or self-expandable metal stent (SEMS)** — SEMS as efficacious as tamponade and safer (B.1, 6.29) [[baveno-vii-2022-portal-hypertension]]
 
 9. **Secondary prophylaxis** (GS 38–39):
    - Patients who did NOT receive preemptive TIPS: **NSBB + EVL** (repeat EVL every 2–4 weeks until obliteration)
    - TIPS as secondary prophylaxis only when additional TIPS indication exists (e.g., refractory [[ascites]]; GS 39)
+
+**Baveno VII additions to the bundle** [[baveno-vii-2022-portal-hypertension]]:
+
+- **Cross-sectional imaging for everyone:** all patients with AVB should get contrast-enhanced CT or MRI to exclude splanchnic vein thrombosis and [[hepatocellular-carcinoma|HCC]] and to map portosystemic collaterals (D.1, 6.26) — not only gastric/ectopic bleeds
+- **Lactulose (oral or enema) to clear blood from the gut** to prevent HE (B.1, 6.33); treat bouts of HE with lactulose (D.1, 6.32)
+- **Do not chase the coagulopathy** — the target is portal pressure, not INR (B.1, 6.34). PT/INR and aPTT do not reflect haemostasis in advanced liver disease (B.1, 6.35). **No FFP** (B.1, 6.36); **no recombinant factor VIIa and no tranexamic acid** (A.1, 6.38). Platelet count and fibrinogen do not predict failure to control bleeding; correct only case-by-case if bleeding is uncontrolled (D.2, 6.37). See [[cirrhosis-hemostasis]]
+- **Anticoagulants** should be temporarily held until haemorrhage is controlled; length of interruption individualised to the strength of the indication (D.2, 6.39)
+- **Nutrition:** malnutrition worsens AVB outcomes — start oral nutrition as soon as possible (D.2, 6.10); handle NG tubes cautiously (pulmonary infection risk) (D.2, 6.11)
+- **Intubate before endoscopy** for altered consciousness or active haematemesis (D.1, 6.3); **extubate as soon as possible afterwards** (D.2, 6.4)
+- **Terlipressin → monitor sodium** (hyponatraemia, especially with preserved liver function) (B.1, 6.6)
+- **Haemostatic powder is not first-line** endoscopic therapy for AVB (D.1, 6.24)
+- **Five-day treatment failure** = failure to control bleeding *or* rebleeding within the first 5 days (D.1, 6.14); **6-week mortality** is the standard study endpoint (D.1, 6.13)
+- Manage in an **intensive or intermediate care unit** (D.1, 6.20)
 
 ## Antibiotic Prophylaxis
 
@@ -108,7 +126,7 @@ Standard practice recommends prophylactic antibiotics to prevent bacterial infec
 
 ## See Also
 
-[[portal-hypertension]], [[cirrhosis]], [[tips]], [[upper-gi-bleeding]], [[acute-lower-gi-bleeding]], [[ascites]], [[spontaneous-bacterial-peritonitis]], [[hepatic-encephalopathy]], [[peptic-ulcer-disease]], [[helicobacter-pylori-infection]], [[liver-transplantation]], [[antibiotic-prophylaxis-cirrhosis]], [[somatostatin-analogs]], [[nutrition-in-liver-disease]], [[cirrhosis-hemostasis]], [[rifaximin]], [[upper-endoscopy]]
+[[portal-hypertension]], [[cirrhosis]], [[porto-sinusoidal-vascular-disorder]], [[tips]], [[upper-gi-bleeding]], [[acute-lower-gi-bleeding]], [[ascites]], [[spontaneous-bacterial-peritonitis]], [[hepatic-encephalopathy]], [[peptic-ulcer-disease]], [[helicobacter-pylori-infection]], [[liver-transplantation]], [[antibiotic-prophylaxis-cirrhosis]], [[somatostatin-analogs]], [[nutrition-in-liver-disease]], [[cirrhosis-hemostasis]], [[rifaximin]], [[upper-endoscopy]]
 
 ---
 
@@ -116,4 +134,5 @@ Standard practice recommends prophylactic antibiotics to prevent bacterial infec
 
 1. [[albhaisi-2025-prophylactic-antibiotics-cirrhosis|Prophylactic Antibiotics for Upper GI Bleeding in Patients With Cirrhosis — Journal Club (Albhaisi)]]
 2. [[aasld-2023-portal-hypertension|AASLD 2023 Practice Guidance on Portal Hypertension and Varices in Cirrhosis]]
-3. [[aga-2024-vasoactive-albumin-cirrhosis|AGA 2024 Clinical Practice Update on the Use of Vasoactive Drugs and Intravenous Albumin in Cirrhosis]]
+3. [[baveno-vii-2022-portal-hypertension|Baveno VII — Renewing Consensus in Portal Hypertension (J Hepatol 2022)]]
+4. [[aga-2024-vasoactive-albumin-cirrhosis|AGA 2024 Clinical Practice Update on the Use of Vasoactive Drugs and Intravenous Albumin in Cirrhosis]]

@@ -6,6 +6,22 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-08-01] merge | Reconciled two parallel Baveno VII ingests (laptop + server lint pass) — deeper statement capture folded into the lint-pass tree
+
+**Why:** the same Baveno VII ingest ran twice — once in a laptop session whose commit never reached origin (Nextcloud syncs vault files but not `.git`), once in the 05:00 server lint pass, which pushed. Both trees were valid; the laptop's captured statements at greater depth, the server's added the figure embed, `[[liver-stiffness-measurement]]`, and a repo-wide link sweep. Three-way merged against the common ancestor rather than discarding either.
+
+**Resolved toward the deeper capture:**
+- `[[baveno-vii-2022-portal-hypertension]]` — source page rebuilt on the fuller body: **all ~200 GRADE-rated statements verbatim** across the 9 topics (25 KB → 68 KB), with the lint pass's frontmatter/tags and its `### Table 1` (standardised PVT/cavernoma nomenclature) grafted in, plus a `## Contents` TOC.
+- `[[portal-hypertension]]` — union of both: keeps the lint pass's Fig. 1 rule-of-5 embed, SSM cut-offs (21/40/50 kPa) and recompensation block; restores the laptop tree's **"Does this patient need a screening EGD?" decision block + Mermaid** and the expanded Diagnostics section. `[[liver-stiffness-measurement]]` added to See Also.
+- `[[cirrhosis]]` — restored the full **`### Recompensation (Baveno VII)`** section (3 required criteria C.2/7.23, the "not recompensation" corollary B.1/7.25, do-not-stop-NSBBs B.1/7.24) and the Baveno VII stage-definitions table, in place of the one-paragraph pointer.
+- `[[portal-vein-thrombosis]]`, `[[variceal-upper-gi-bleeding]]`, `[[budd-chiari-syndrome]]`, `[[rifaximin]]`, `[[noninvasive-liver-disease-assessment]]` — laptop-tree detail folded in (non-cirrhotic PVT management block, AVB adjuncts, BCS anticoagulation incl. the avoid-UFH statement 8.20, rifaximin's not-indicated-beyond boundary 4.10, the Baveno-vs-AASLD non-interchangeability note).
+
+**Resolved toward the lint pass:** frontmatter dates/tags, `sources:` ordering, source-list numbering, and See Also additions (`[[tips]]` on BCS).
+
+**Hygiene:** no new pages, so `index.md` needs no change (stays 246 sources / 128 disease scripts). Link check over all wiki pages: **0 broken links.**
+
+---
+
 ## [2026-08-01] lint | Ingested EASL Baveno VII 2022 (portal hypertension consensus) — sole uningested guideline; new PSVD disease script + LSM concept; embedded rule-of-5 figure; parallel per-folder link sweep; index reconciled (246 sources); 0 broken links
 
 **Source ingested (1 — the only genuinely uningested guideline/RCT in `raw/`; all others verified ingested or duplicate uploads; lectures remain gated):**

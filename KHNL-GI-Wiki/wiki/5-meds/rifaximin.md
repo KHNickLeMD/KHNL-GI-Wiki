@@ -3,8 +3,8 @@ title: "Rifaximin"
 category: med
 tags: [rifaximin, antibiotic, sibo, ibs, hepatic-encephalopathy, nonabsorbable, gut-selective]
 created: 2026-05-19
-updated: 2026-07-17
-sources: [acg-2020-sibo, acg-2026-hepatic-encephalopathy, aasld-easl-2014-hepatic-encephalopathy]
+updated: 2026-07-31
+sources: [acg-2020-sibo, acg-2026-hepatic-encephalopathy, baveno-vii-2022-portal-hypertension, aasld-easl-2014-hepatic-encephalopathy]
 ---
 
 A gut-selective, non-absorbable oral antibiotic (rifamycin derivative). Minimal systemic absorption; acts locally in the GI tract. FDA-approved for [[acute-diarrhea|traveler's diarrhea]], [[irritable-bowel-syndrome|IBS-D]], and [[hepatic-encephalopathy|hepatic encephalopathy]]. Used extensively for [[small-intestinal-bacterial-overgrowth]] (SIBO).
@@ -35,9 +35,15 @@ A gut-selective, non-absorbable oral antibiotic (rifamycin derivative). Minimal 
 - NOT effective as monotherapy (always add to lactulose)
 - **[[tips|TIPS]]:** start rifaximin **14 days before elective TIPS** and continue **≥6 months** ([[acg-2026-hepatic-encephalopathy]]) — see [[#Contradictions]]
 
+**Where rifaximin is *not* indicated** — Baveno VII draws an explicit boundary [[baveno-vii-2022-portal-hypertension]]:
+
+- Indicated for **secondary prophylaxis of HE** (A.1, 4.8) and **should be considered** for overt-HE prophylaxis in patients with prior overt HE undergoing **elective TIPS** (B.2, 4.9)
+- **Not indicated beyond these** — including **primary or secondary prophylaxis of [[spontaneous-bacterial-peritonitis|SBP]]** (C.1, 4.10). SBP prophylaxis uses the agents on [[antibiotic-prophylaxis-cirrhosis]], not rifaximin
+
 ## Contradictions
 
 - **Rifaximin around TIPS — guidance reversed.** [[aasld-easl-2014-hepatic-encephalopathy|AASLD/EASL 2014]] recommended **against** rifaximin for post-[[tips|TIPS]] HE prophylaxis (Grade III, B, 1). [[acg-2026-hepatic-encephalopathy|ACG 2026]] instead recommends **starting rifaximin 14 days before elective TIPS and continuing ≥6 months**, plus considering embolization of extrahepatic collaterals at TIPS. Both are society guidelines, so the newer ACG 2026 governs this page. Readers carrying the 2014 rule should note the change.
+- **Middle data point on TIPS:** Baveno VII (2022) sits between the two — it *supports* considering rifaximin for elective-TIPS HE prophylaxis in patients with prior overt HE (B.2, 4.9), consistent with the direction ACG 2026 later took.
 - **Threshold for adding rifaximin.** The 2014 guideline framed rifaximin as secondary prophylaxis after **≥2** overt HE episodes; ACG 2026 supports adding it to lactulose for **acute OHE** as well as for recurrence prevention — a broader indication.
 
 **Advantages:** Gut-selective, low systemic side effects, low [[clostridioides-difficile|CDI]] risk, minimal effect on systemic flora.
@@ -46,7 +52,7 @@ A gut-selective, non-absorbable oral antibiotic (rifamycin derivative). Minimal 
 
 ## See Also
 
-[[small-intestinal-bacterial-overgrowth]], [[irritable-bowel-syndrome]], [[intestinal-methanogen-overgrowth]], [[hepatic-encephalopathy]], [[acute-diarrhea]], [[clostridioides-difficile]], [[small-bowel-motility]], [[tips]], [[cirrhosis]]
+[[small-intestinal-bacterial-overgrowth]], [[irritable-bowel-syndrome]], [[intestinal-methanogen-overgrowth]], [[hepatic-encephalopathy]], [[acute-diarrhea]], [[clostridioides-difficile]], [[small-bowel-motility]], [[tips]], [[cirrhosis]], [[spontaneous-bacterial-peritonitis]], [[antibiotic-prophylaxis-cirrhosis]]
 
 ---
 
@@ -55,3 +61,4 @@ A gut-selective, non-absorbable oral antibiotic (rifamycin derivative). Minimal 
 1. [[acg-2020-sibo|ACG 2020: Small Intestinal Bacterial Overgrowth]]
 2. [[acg-2026-hepatic-encephalopathy|ACG Clinical Guideline: Hepatic Encephalopathy (2026)]]
 3. [[aasld-easl-2014-hepatic-encephalopathy|AASLD/EASL 2014 Practice Guideline: Hepatic Encephalopathy in Chronic Liver Disease]]
+4. [[baveno-vii-2022-portal-hypertension|Baveno VII — Renewing Consensus in Portal Hypertension (J Hepatol 2022)]]

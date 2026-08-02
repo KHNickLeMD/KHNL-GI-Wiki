@@ -21,6 +21,10 @@ Budd-Chiari syndrome (BCS) is defined by obstruction of hepatic venous outflow, 
 - **Subacute BCS**: weeks to months course; abdominal discomfort, ascites, splenomegaly, gradual hepatic dysfunction
 - **Chronic BCS**: [[cirrhosis|cirrhosis]], established [[portal-hypertension|portal hypertension]], relatively compensated; caudate lobe hypertrophy (drains directly into IVC) is characteristic
 
+**Primary vs secondary (Baveno VII 8.6–8.8)** [[baveno-vii-2022-portal-hypertension]]: BCS is any obstruction of the hepatic venous outflow tract from the small hepatic veins to the IVC–right atrial junction (A.1) — and **BCS is the preferred designation for any *primary* hepatic venous outflow tract obstruction** (D.1). It is **secondary** when the mechanism is **extrinsic compression** (benign or malignant tumour), and **primary** otherwise (A.1).
+
+**Diagnostic rules (Baveno VII 8.9–8.12):** presentation is extremely diverse, so consider BCS in **any** patient with acute, acute-on-chronic, or chronic liver disease (A.1). Diagnosis = demonstration of **venous luminal obstruction**, or **hepatic vein collaterals plus absence of patent hepatic veins** (A.1). **Do not biopsy** when vascular imaging already shows outflow obstruction (B.1) — but biopsy **is necessary** when small–hepatic-vein obstruction is not visible on imaging (B.1).
+
 **Key diagnostic features:**
 
 - Caudate lobe hypertrophy (spares caudate because it has separate hepatic veins draining directly to IVC)
@@ -109,12 +113,16 @@ Step 4: [[liver-transplantation|Liver transplantation]]
 
 ### Step 1 — Anticoagulation
 
-- Initiate anticoagulation in all BCS patients without contraindications (Strong, Moderate evidence); **long-term anticoagulation for all primary BCS** (Baveno VII 8.19) [[baveno-vii-2022-portal-hypertension]]
+- **Long-term anticoagulation for all patients with primary BCS** (B.1, 8.19) [[baveno-vii-2022-portal-hypertension]]
+- **Avoid unfractionated heparin** (HIT risk); reserve it for special situations such as GFR <30 mL/min or a pending invasive procedure (D.2, 8.20)
+- Initiate anticoagulation in all BCS patients without contraindications (Strong, Moderate evidence)
 - Start: LMWH (enoxaparin); transition to VKA or DOAC
 - **Avoid unfractionated heparin** because of the increased risk of heparin-induced thrombocytopenia; reserve UFH for special situations (GFR <30 mL/min, pending invasive procedures) (Baveno VII 8.20)
 - Anticoagulation should be **indefinite** in most patients given persistent thrombophilia
 - Treat underlying MPN: hydroxyurea (or anagrelide for ET); phlebotomy + aspirin for polycythemia vera; does not replace anticoagulation
 - Antiphospholipid syndrome: indefinite VKA (target INR 2–3); DOACs associated with higher thrombotic recurrence in APLS
+
+**What counts as "improvement" before escalating** (D.1, 8.23) [[baveno-vii-2022-portal-hypertension]]: a combination of several of — decreasing rate of ascites formation, and decreasing serum bilirubin, creatinine, and INR when elevated (or rising factor V on vitamin K antagonists). **Actively look for short-length stenoses amenable to angioplasty/stenting** (B.1, 8.21).
 
 ### Step 2 — Angioplasty / Stenting
 
@@ -133,6 +141,8 @@ Step 4: [[liver-transplantation|Liver transplantation]]
 
 ### Step 4 — Liver Transplantation
 
+- **BCS-TIPS prognostic index score** predicts outcome in TIPS candidates (B.1, 8.24); **PI >7 → consider transplantation *before* TIPS** (C.1, 8.25) [[baveno-vii-2022-portal-hypertension]]
+- **BCS presenting as [[acute-liver-failure|acute liver failure]]:** consider **urgent transplantation**, and perform **emergency TIPS if possible, independently of listing** (C.1, 8.26)
 - For [[acute-liver-failure|acute liver failure]] from BCS, cirrhotic BCS failing all other measures, or uncontrolled portal hypertension
 - **BCS presenting as acute liver failure → urgent liver transplantation**; perform **emergency TIPS if possible, independent of listing** for transplant (Baveno VII 8.26) [[baveno-vii-2022-portal-hypertension]]
 - A **high BCS-TIPS prognostic index score (>7)** favors transplantation over TIPS (see Severity Assessment)
@@ -141,6 +151,7 @@ Step 4: [[liver-transplantation|Liver transplantation]]
 
 ### HCC Surveillance
 
+- **Baveno VII (8.13–8.17)** [[baveno-vii-2022-portal-hypertension]]: hepatic nodules in BCS are frequent and **most often benign**, but HCC occurs — monitor with periodic imaging **and AFP** (B.1); a **6-month interval** can be proposed (C.1); whether ultrasound or MRI is the right surveillance modality is **still unclear** (C.1). Refer nodule-developing patients to experienced centres (D.1); characterise a nodule first with **MRI using hepatobiliary contrast agents**, and **biopsy the lesion for definitive HCC diagnosis** (C.1)
 - US + AFP every 6 months in all BCS patients (Conditional, Low evidence) [[acg-2020-hepatic-mesenteric-circulation]]
 - Elevated HCC risk even without cirrhosis — do not defer surveillance based on absence of fibrosis
 - If HCC found: standard staging and treatment; however, transplant may be needed if LT is planned for BCS anyway
