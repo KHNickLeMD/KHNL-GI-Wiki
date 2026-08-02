@@ -54,7 +54,7 @@ AKI is diagnosed when **any one** of the following is met:
 
 | Old Term | New Term | Definition |
 |---|---|---|
-| HRS Type 1 | **HRS-AKI** | Acute functional renal failure meeting AKI criteria, no response to 2-day albumin challenge |
+| HRS Type 1 | **HRS-AKI** | Acute functional renal failure meeting AKI criteria, no response to 2-day [[albumin]] challenge |
 | HRS Type 2 | **HRS-NAKI / HRS-AKD** | Functional renal failure of <3 months, not meeting AKI criteria (eGFR <60 mL/min or SCr >1.5× baseline within 3 months) |
 | — | **HRS-CKD** | eGFR <60 mL/min for ≥3 months |
 

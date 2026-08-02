@@ -3,7 +3,7 @@ title: "Toxic Megacolon"
 category: disease-script
 tags: [toxic-megacolon, colitis, cdiff, ibd, ulcerative-colitis, asuc, surgical-emergency]
 created: 2026-07-26
-updated: 2026-07-31
+updated: 2026-08-02
 sources: [acg-2025-uc, acg-2021-cdiff]
 ---
 
@@ -110,7 +110,7 @@ Underlying etiologies of toxic megacolon named in ingested sources:
 - Infliximab/cyclosporine exposure does **not** increase postoperative complications — do not defer needed surgery on that basis.
 
 **Surgical procedure:**
-- **ASUC:** subtotal or total colectomy with end ileostomy.
+- **ASUC:** subtotal or total colectomy with [[ostomy-management|end ileostomy]].
 - **Fulminant CDI:** total colectomy with end ileostomy + stapled rectal stump, **OR** diverting loop ileostomy with colonic lavage + intraluminal vancomycin (× 10 days postoperatively) — choice per clinical circumstances, surgical tolerance, and surgeon judgment.
 
 ```mermaid

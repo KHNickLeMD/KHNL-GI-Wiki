@@ -31,7 +31,7 @@ Porto-sinusoidal vascular disorder (PSVD) is a broad clinico-pathological entity
 
 ### Severity Assessment
 
-- Prognosis is generally better than cirrhosis when liver function is preserved; complications derive from portal hypertension (variceal bleeding, ascites) and from associated PVT.
+- Prognosis is generally better than cirrhosis when liver function is preserved; complications derive from portal hypertension ([[variceal-upper-gi-bleeding|variceal bleeding]], [[ascites]]) and from associated PVT.
 - Standard cirrhosis scores are not validated for PSVD; management of complications follows cirrhosis guidelines except where noted below.
 
 ### Classification / Typing

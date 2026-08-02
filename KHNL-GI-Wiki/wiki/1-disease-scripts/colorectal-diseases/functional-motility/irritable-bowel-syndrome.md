@@ -99,7 +99,7 @@ Subtypes by Bristol Stool Form Scale **on days with abnormal stools** (assess of
 | **TCAs** (amitriptyline 50–100, desipramine 25–100, nortriptyline 25–75) | Strong/Moderate |
 | **Gut-directed psychotherapy** (CBT, hypnotherapy, mindfulness) | Conditional/VLow |
 | [[probiotics\|Probiotics]] | Against (Conditional/VLow) |
-| **FMT** | Strong AGAINST (Strong/VLow) |
+| **[[fmt\|FMT]]** | Strong AGAINST (Strong/VLow) |
 
 ### IBS-C
 
@@ -125,7 +125,7 @@ Subtypes by Bristol Stool Form Scale **on days with abnormal stools** (assess of
 6. Refractory: re-examine diagnosis; ARM+BET; specialty referral; consider neuromodulators
 
 ## See Also
-[[disorders-of-gut-brain-interaction]], [[abdominal-bloating-and-distention]], [[postinfectious-ibs]], [[chronic-idiopathic-constipation]], [[defecation-disorders]], [[small-intestinal-bacterial-overgrowth]], [[celiac-disease]], [[alpha-gal-syndrome]], [[rifaximin]], [[linaclotide]], [[plecanatide]], [[lubiprostone]], [[alosetron]], [[eluxadoline]], [[tegaserod]], [[anorectal-manometry]]
+[[disorders-of-gut-brain-interaction]], [[abdominal-bloating-and-distention]], [[postinfectious-ibs]], [[chronic-idiopathic-constipation]], [[defecation-disorders]], [[small-intestinal-bacterial-overgrowth]], [[celiac-disease]], [[alpha-gal-syndrome]], [[rifaximin]], [[linaclotide]], [[plecanatide]], [[lubiprostone]], [[alosetron]], [[eluxadoline]], [[tegaserod]], [[anorectal-manometry]], [[fmt]]
 
 ---
 

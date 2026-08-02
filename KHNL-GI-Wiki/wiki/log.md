@@ -6,6 +6,41 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-08-02] lint | Parallel link/decision-gap sweep; pouchitis + eluxadoline decision-gap fixes; stale CTSI note corrected; index reconciled (246 sources); 0 broken links / 0 orphans
+
+**Ingest status (nothing ingested — correct per rules):**
+- All guidelines/CPUs/RCTs in `raw/` verified ingested (spot-checked the newest 2026 ACG/AGA/NCCN + Rome V, all 6 RCTs incl. Prosty→`[[albhaisi-2025-prophylactic-antibiotics-cirrhosis]]`). Only the **60 gated lecture/chalk-talk transcripts** remain uningested — **not auto-ingested** (unattended pass; awaiting user selection by name).
+
+**Stalest-page validation (2 pages):**
+- `[[pouchitis]]` — **decision-gap fix from `[[aga-2024-pouchitis]]`** (re-read raw PDF): added the sourced cutoffs **active pouchitis = PDAI >7** and **mPDAI remission = score ≤4 + ≥2-point reduction from baseline** (EARNEST endpoint). Full PDAI subscore point-values (Sandborn 1994) are **not** in the AGA source → flagged, not filled. `updated:` bumped.
+- `[[colon-ischemia]]` — validated decision-sufficient + format-clean (severity/typing criteria, DDx schema pointer, See Also/Sources all correct); no edits.
+
+**Stub expanded (1, from ingested sources):**
+- `[[eluxadoline]]` — stub → full med page from `[[aga-2022-ibs-d]]` + `[[acg-2020-ibs]]` (re-read raw PDFs): dosing (100 mg BID; **75 mg** if 100-mg intolerance / mild–moderate hepatic impairment / concomitant OATP1B1 inhibitor; avoid in **Child-Pugh C**), full contraindications (no gallbladder; >3 alcohol/day; pancreatitis or SOD history), efficacy (FDA responder 27.2% vs 16.7%; RR 0.87), AEs, NNH. Index entry updated (stub → 2 sources).
+
+**Parallel link/decision-gap sweep (3 fan-out subagents, per-folder, shared writes centralized):**
+- Disease-scripts batch: **13 inline-link edits** (e.g. hepatology pages → `[[albumin]]`; CHS/CVS → `[[nausea-and-vomiting-of-pregnancy]]`; `[[diverticulitis]]` → C. diff; `[[toxic-megacolon]]` → ostomy; IBS → `[[fmt]]`; PSVD → variceal-UGIB/ascites).
+- Meds/concepts + schemas/procedures batches: already densely linked / format-compliant — **no edits needed**.
+
+**Stale-claim fix:**
+- `[[acute-pancreatitis]]` — corrected an outdated inline note that claimed the `[[acg-2024-acute-pancreatitis]]` source page "still lists ≥8 = severe." The source page was already corrected and now states ACG 2024 assigns **no CTSI cutoff** (Revised Atlanta governs); note rewritten to match. `updated:` bumped.
+
+**Hygiene / reconciliation:**
+- Whole-wiki broken-link scan (escaped `\|` table pipes + code-span/image tokens excluded): **0 broken links.** Orphan scan: **0 orphan entity pages.**
+- Index footer + frontmatter date reconciled to **2026-08-02**; counts unchanged and accurate: **246 sources | 128 disease scripts | 22 diagnostic schemas | 4 general procedures | 24 advanced procedures | 27 meds | 0 anatomy | 46 concepts | 1 synthesis.** No OS artifacts.
+
+**Decision gaps flagged for triage (NOT filled — criteria absent from ingested *text* or corpus; source-fidelity):**
+- **Child-Pugh (CTP) point-value bands / class A-B-C cutoffs** — corpus-wide stratifier; `[[cirrhosis]]` lists the CTP *components* (ACG 2025 Table 4) but not the 1/2/3-point bands, and the full table is **image-locked** in the ingested PDFs (pdftotext yields no table; **pymupdf unavailable** for figure crops). Needs a text-extractable source or a pre-made crop via inbox sync. Same blocker: MELD-Na formula.
+- **Fillable from an ingested source next pass (text-extractable):** `[[gerd]]` Hill/AFS grade criteria; `[[esophageal-cancer]]` Siewert + PD-L1 CPS thresholds (`nccn-2026-esophageal-egj-cancer`); `[[portal-hypertension]]` Sarin GOV/IGV definitions (`aasld-2023-portal-hypertension`); `[[colorectal-cancer]]` TNM 8th-ed stage groups (NCCN/ASGE); `[[fecal-incontinence]]` Wexner/FISI items (`acg-2021-anorectal-disorders`); `[[irritable-bowel-syndrome]]` IBS-SSS 5 items (`acg-2020-ibs`); `[[atrophic-gastritis]]` OLGA/OLGIM 0–3 rule (`aga-2021-atrophic-gastritis`); `[[chronic-pancreatitis]]` Cambridge ductal grades; `[[chronic-hepatitis-b]]` PAGE-B components (`aasld-idsa-2025`).
+- **Corpus-blocked (source not ingested — flag only):** `[[acute-cholecystitis]]` Tokyo TG18; `[[acute-pancreatitis]]` CTSI/Balthazar cutoff (Balthazar/Bollen); `[[budd-chiari-syndrome]]` Rotterdam/AUROC components; `[[microscopic-colitis]]` histologic thresholds; `[[toxic-megacolon]]` Ho index; `[[gallbladder-cancer]]`/`[[gastrointestinal-stromal-tumor]]` NCCN-licensed AJCC/AFIP tables; HHT Curaçao criteria.
+- **Style deferral:** schemas `[[dysphagia]]`, `[[jaundice]]`, `[[nausea-and-vomiting]]` still carry empty `sources: []` and lack a `## Sources` section (navigation syntheses that defer criteria to home pages) — not fabricated; deferred to a deliberate hygiene pass.
+
+**Missing pages noticed (reported, not created — insufficient text-extractable source or out of scope):** meds `terlipressin` (recurs plain-text in `[[albumin]]`/`[[somatostatin-analogs]]`), mesalamine/5-ASA, IBD biologics (infliximab/adalimumab/vedolizumab/ustekinumab/JAK/S1P), C. diff antimicrobials (vancomycin/fidaxomicin/metronidazole/bezlotoxumab), n-acetylcysteine, neostigmine; diseases `zollinger-ellison-syndrome`, `gastric-malt-lymphoma`, `pernicious-anemia`, `autoimmune-pancreatitis`, `acute-cholangitis`, `solitary-rectal-ulcer-syndrome`.
+
+**Uningested raw remaining:** only tier-3 lecture/chalk-talk transcripts (60 files, gated).
+
+---
+
 ## [2026-08-01] merge | Reconciled two parallel Baveno VII ingests (laptop + server lint pass) — deeper statement capture folded into the lint-pass tree
 
 **Why:** the same Baveno VII ingest ran twice — once in a laptop session whose commit never reached origin (Nextcloud syncs vault files but not `.git`), once in the 05:00 server lint pass, which pushed. Both trees were valid; the laptop's captured statements at greater depth, the server's added the figure embed, `[[liver-stiffness-measurement]]`, and a repo-wide link sweep. Three-way merged against the common ancestor rather than discarding either.

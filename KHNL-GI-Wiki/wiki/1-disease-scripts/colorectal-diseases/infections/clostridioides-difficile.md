@@ -193,7 +193,7 @@ Higher doses of vancomycin (>125 mg QID) are not recommended for severe CDI — 
 
 **PPIs/Antisecretory therapy:**
 
-- Do NOT routinely discontinue PPIs in CDI patients when there is an appropriate indication (strong recommendation)
+- Do NOT routinely discontinue [[proton-pump-inhibitors|PPIs]] in CDI patients when there is an appropriate indication (strong recommendation)
 - Association between PPIs and CDI risk is small compared with major CDI risk factors (antibiotics, age, healthcare exposure); discontinuation risks untreated acid-related disease; assess appropriateness of PPI use and discontinue if no valid indication
 
 **Infection control (per IDSA/SHEA guidelines, not formally GRADE-rated in ACG guideline):**

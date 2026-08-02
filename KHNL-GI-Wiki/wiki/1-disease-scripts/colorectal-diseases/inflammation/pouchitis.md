@@ -3,7 +3,7 @@ title: "Pouchitis"
 category: disease-script
 tags: [pouchitis, ipaa, j-pouch, ulcerative-colitis, ibd, cuffitis, crohns-like-disease-of-the-pouch, antibiotics, probiotics, biologics]
 created: 2026-06-04
-updated: 2026-07-16
+updated: 2026-08-02
 sources: [aga-2024-pouchitis, aga-2020-probiotics, asge-2015-ibd]
 ---
 
@@ -62,7 +62,10 @@ Pragmatic, treatment-anchored definitions (AGA 2024, Table 5):
 
 ## Diagnostics
 - **Pouchoscopy + biopsy** — primary diagnostic tool; maps inflammation (pouch body vs cuff vs pre-pouch ileum) and excludes Crohn's-like disease/cuffitis/infection.
-- **PDAI / mPDAI** — composite activity index (symptoms + endoscopy ± histology); endoscopic/histologic outcomes were **not** prioritized as decision-critical in the guideline (clinical improvement is the key outcome).
+- **PDAI / mPDAI** — composite activity index (clinical symptoms + endoscopy ± histology; the modified PDAI drops the histology subscale). Decision-relevant cutoffs used in the AGA 2024 evidence base:
+  - **Active (acute) pouchitis = PDAI >7** (threshold used to define acute pouchitis in the cited treatment cohorts).
+  - **mPDAI remission = mPDAI score ≤4 *and* a ≥2-point reduction from baseline** — the EARNEST trial primary endpoint (week 14). *(The full PDAI subscore point-values originate from Sandborn 1994 and are not reproduced in the AGA source — flagged, not filled.)*
+  - Endoscopic/histologic outcomes were **not** prioritized as decision-critical in the guideline (clinical improvement is the key outcome).
 - Targeted workup when refractory: stool studies (incl. *C. difficile*), CMV on biopsy, cross-sectional/contrast imaging or EUA for suspected stricture/fistula.
 - **Endoscopic + histologic assessment of the pouch and afferent limb is recommended in symptomatic patients** ([[asge-2015-ibd]]).
 - **Pouch neoplasia surveillance** (beyond AGA 2024 scope; [[asge-2015-ibd]]): highest-risk patients — **prior colorectal dysplasia or cancer** — considered for **annual pouchoscopy** with biopsies taken **proximally (within the pouch) and distally (anal transition zone)**. [[primary-sclerosing-cholangitis|PSC]], refractory pouchitis, and type C (atrophic, severely inflamed) pouch mucosa may also warrant surveillance.

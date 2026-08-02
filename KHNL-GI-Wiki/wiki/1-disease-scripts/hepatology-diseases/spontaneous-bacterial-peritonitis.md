@@ -91,7 +91,7 @@ Infections in cirrhosis increase 10% mortality for every hour's delay in antibio
 
 - PMN count (cell count with differential)
 - Total protein
-- Albumin (for SAAG with simultaneous serum albumin)
+- [[albumin|Albumin]] (for SAAG with simultaneous serum albumin)
 - Culture: bedside inoculation, ≥10 mL into aerobic AND anaerobic blood culture bottles, before first dose of antibiotics
 
 **Blood:**

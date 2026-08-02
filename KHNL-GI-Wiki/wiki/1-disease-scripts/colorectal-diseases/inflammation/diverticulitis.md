@@ -3,7 +3,7 @@ title: "Colonic Diverticulitis"
 category: disease-script
 tags: [diverticulitis, diverticular-disease, colorectal, antibiotics, hinchey, scad, sudd]
 created: 2026-07-23
-updated: 2026-07-29
+updated: 2026-08-02
 sources: [acg-2026-diverticulitis]
 ---
 
@@ -101,7 +101,7 @@ Inflammation in and around a colonic diverticulum. Lifetime risk ~3% (men) / 5% 
 | **Monotherapy** | Amoxicillin-clavulanate **875/125 mg PO q12h** *or* moxifloxacin **400 mg PO daily** |
 | **Combination** | Metronidazole **500 mg PO q8h** **plus** one of: TMP-SMX 1 DS tab (160/800 mg) q12h · ciprofloxacin 500 mg q12h · levofloxacin 500 mg q24h |
 
-  - Amoxicillin-clavulanate ≈ metronidazole + fluoroquinolone for outpatient diverticulitis, and may reduce fluoroquinolone harms (incl. *C. difficile*).
+  - Amoxicillin-clavulanate ≈ metronidazole + fluoroquinolone for outpatient diverticulitis, and may reduce fluoroquinolone harms (incl. *[[clostridioides-difficile|C. difficile]]*).
 - **Diet during an acute episode:** limited evidence; a clear-liquid diet for the first few days may ease discomfort (no proof it speeds healing).
 
 ### Post-recovery colonoscopy

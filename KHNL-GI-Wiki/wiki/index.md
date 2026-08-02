@@ -1,7 +1,7 @@
 ---
 title: "Wiki Index"
 category: index
-updated: 2026-08-01
+updated: 2026-08-02
 ---
 
 # KHNL GI Encyclopedia — Master Index
@@ -263,7 +263,7 @@ updated: 2026-08-01
 - [[plecanatide]] — GC-C agonist (uroguanylin analog); IBS-C 3/6 mg, CIC 3 mg (stub)
 - [[prucalopride]] — Selective 5-HT4 agonist; CIC 2 mg daily; no CV signal (stub)
 - [[alosetron]] — 5-HT3 antagonist; severe IBS-D in women, REMS (ischemic colitis risk) (stub)
-- [[eluxadoline]] — μ-/κ-opioid agonist + δ-antagonist; IBS-D 100 mg BID; contraindicated post-cholecystectomy (stub)
+- [[eluxadoline]] — μ-/κ-opioid agonist + δ-antagonist for IBS-D; 100 mg BID (75 mg if hepatic impairment/OATP1B1 inhibitor/intolerance); contraindicated with no gallbladder, >3 alcohol/day, pancreatitis or SOD history; not in Child-Pugh C (2 sources)
 - [[tegaserod]] — 5-HT4 agonist; IBS-C in women <65 with ≤1 CV risk factor (stub)
 - [[fmt]] — Fecal microbiota-based therapies for recurrent C. difficile (conventional FMT + FDA products); against routine IBD/IBS use (AGA 2024) (stub)
 - [[loperamide]] — Loperamide: peripheral μ-opioid antimotility; **4 mg → 2 mg per loose stool; ceiling 8 mg/day self-treatment vs 16 mg/24 h with antibiotics for traveler's diarrhea** (the qualifier is the decision); indications table; avoid <18 y and in febrile/inflammatory diarrhea (5 sources)
@@ -615,4 +615,4 @@ updated: 2026-08-01
 
 ---
 
-*Total: 246 sources | 128 disease scripts | 22 diagnostic schemas | 4 general procedures | 24 advanced procedures | 27 meds | 0 anatomy | 46 concepts | 1 synthesis (on-disk page counts as of 2026-08-01)*
+*Total: 246 sources | 128 disease scripts | 22 diagnostic schemas | 4 general procedures | 24 advanced procedures | 27 meds | 0 anatomy | 46 concepts | 1 synthesis (on-disk page counts as of 2026-08-02)*

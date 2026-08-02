@@ -33,7 +33,7 @@ ICI hepatotoxicity is an **immune-related adverse event (irAE)** of PD-1/PD-L1 i
 | 3 | 5–20× ULN |
 | 4 | >20× ULN |
 
-- Hepatocellular jaundice carries up to **10% mortality** in DILI (Hy's law) — see [[drug-induced-liver-injury]]. [[acg-2021-dili]]
+- Hepatocellular [[jaundice]] carries up to **10% mortality** in DILI (Hy's law) — see [[drug-induced-liver-injury]]. [[acg-2021-dili]]
 - Monitor for progression to [[acute-liver-failure]] and refer for transplant evaluation when indicated. [[aasld-2022-dili]]
 
 ---

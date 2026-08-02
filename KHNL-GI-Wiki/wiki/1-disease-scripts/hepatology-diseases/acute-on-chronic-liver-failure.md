@@ -107,7 +107,7 @@ Critically ill patients with cirrhosis and ACLF require multidisciplinary ICU ca
 **Fluid resuscitation (GS 14):**
 
 - Judicious strategy with hemodynamic monitoring to avoid overresuscitation
-- **Balanced crystalloids** (lactated ringers) preferred; albumin for select indications (SBP, HRS-AKI fluid challenge, paracentesis-induced circulatory dysfunction)
+- **Balanced crystalloids** (lactated ringers) preferred; [[albumin]] for select indications (SBP, HRS-AKI fluid challenge, paracentesis-induced circulatory dysfunction)
 - No benefit from targeting specific albumin serum levels (ATTIRE trial: no improvement in composite primary endpoint)
 
 **Vasopressors (GS 15–17):**

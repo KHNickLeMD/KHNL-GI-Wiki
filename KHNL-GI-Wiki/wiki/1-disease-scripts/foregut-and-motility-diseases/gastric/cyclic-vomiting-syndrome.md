@@ -3,7 +3,7 @@ title: "Cyclic Vomiting Syndrome (CVS)"
 category: disease-script
 tags: [cyclic-vomiting-syndrome, cvs, dgbi, vomiting, migraine, foregut, motility]
 created: 2026-07-18
-updated: 2026-07-21
+updated: 2026-08-02
 sources: [aga-2024-cvs, aga-2024-chs]
 ---
 
@@ -71,7 +71,7 @@ Four phases — recognizing the phase guides treatment (see Figure 1 of [[aga-20
 - functional (chronic) nausea and vomiting syndrome
 - [[gastroparesis]]
 - [[rumination-syndrome]]
-- pregnancy; migraine
+- [[nausea-and-vomiting-of-pregnancy|pregnancy]]; migraine
 - **Metabolic/endocrine mimics:** [[acute-hepatic-porphyria]], Addison's disease, hypothyroidism
 - structural: bowel obstruction, [[acute-mesenteric-ischemia|mesenteric ischemia]]
 
@@ -120,7 +120,7 @@ Highest abort probability when taken **early in the prodrome**. **Nearly all pat
 - **Recovery phase:** electrolyte-rich (sports drinks) / nutrient fluids over 1–2 days.
 
 ## See Also
-[[cannabinoid-hyperemesis-syndrome]], [[nausea-and-vomiting]], [[gastroparesis]], [[rumination-syndrome]], [[acute-hepatic-porphyria]], [[disorders-of-gut-brain-interaction]]
+[[cannabinoid-hyperemesis-syndrome]], [[nausea-and-vomiting]], [[nausea-and-vomiting-of-pregnancy]], [[gastroparesis]], [[rumination-syndrome]], [[acute-hepatic-porphyria]], [[disorders-of-gut-brain-interaction]]
 
 ---
 

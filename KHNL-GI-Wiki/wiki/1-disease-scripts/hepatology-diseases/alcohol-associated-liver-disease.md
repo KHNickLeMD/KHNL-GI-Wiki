@@ -157,7 +157,7 @@ AASLD 2020 GS-1: *"All patients receiving care in primary care and gastroenterol
 - AKI is common in severe AH due to hemodynamic consequences of [[portal-hypertension|portal hypertension]] overlapping with systemic inflammatory response syndrome (SIRS) → hepatorenal syndrome (HRS) [[aasld-2020-ald]]
 - **Serum creatinine >2.5 mg/dL is a relative contraindication to corticosteroids** in most AH clinical trials (insufficient trial data for steroid efficacy with AKI)
 - If AKI resolves, corticosteroid treatment should be reconsidered
-- AKI-avoidance strategies: avoid IV contrast, aminoglycosides, and NSAIDs; use diuretics cautiously; early treatment with albumin and vasoconstrictors if HRS develops
+- AKI-avoidance strategies: avoid IV contrast, aminoglycosides, and NSAIDs; use diuretics cautiously; early treatment with [[albumin]] and vasoconstrictors if HRS develops
 - See [[aki-in-cirrhosis]] for HRS-AKI management details
 
 ### Genetic Susceptibility Factors [[aasld-2020-ald]]

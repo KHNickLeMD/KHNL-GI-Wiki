@@ -141,7 +141,7 @@ All elements initiated simultaneously:
 | Glycerol phenylbutyrate (GPB) | Investigational | Reduces episodes + time-to-event; further validation needed | |
 | [[probiotics\|Probiotics]] | Rec 29 guidance | Not routinely recommended for MHE apart from case-by-case basis | Limited high-quality RCT data |
 | Flumazenil | Not routinely recommended | Transient benefit, no survival effect | Useful diagnostically or to temporize in BZD toxicity |
-| Albumin (IV) | No benefit on HE resolution in RCT | Related to better postdischarge survival | Not standard HE treatment |
+| [[albumin\|Albumin (IV)]] | No benefit on HE resolution in RCT | Related to better postdischarge survival | Not standard HE treatment |
 
 ### Nutrition in HE
 
