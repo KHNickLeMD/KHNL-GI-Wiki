@@ -3002,7 +3002,7 @@ function inlineRender(text) {
   const imgStyle = 'max-width:100%;height:auto;border-radius:8px;margin:8px 0;display:block;';
   // Obsidian image embed: ![[file.png]] (optional |size) — resolved from raw/assets
   out = out.replace(/!\[\[([^\]|]+?)(?:\|[^\]]*)?\]\]/g, (m, fname) => {
-    const f = fname.trim();
+    const f = unescHtml(fname.trim());
     let src = f;
     if (!/^https?:\/\//.test(f)) {
       try {
@@ -3018,7 +3018,10 @@ function inlineRender(text) {
   // Standard markdown image: ![alt](url)
   out = out.replace(/!\[([^\]]*)\]\(([^)]+)\)/g, (m, alt, url) => `<img src="${safeUrl(url)}" alt="${alt}" loading="lazy" style="${imgStyle}">`);
   out = out.replace(/\[\[([^\]|]+)(?:\|([^\]]+))?\]\]/g, (match, target, label) => {
-    target = target.trim();
+    // `out` is already escaped, so the captures are too — decode before slugifying
+    // (else "Crohn's" becomes "crohn&#39;s") and re-escape once for display.
+    target = unescHtml(target.trim());
+    if (label) label = unescHtml(label);
     // Heading anchor link: [[#Heading]] (same page) or [[page#Heading]]
     if (target.includes('#')) {
       const hashIdx = target.indexOf('#');
@@ -3026,14 +3029,14 @@ function inlineRender(text) {
       const heading = target.slice(hashIdx + 1).trim();
       const anchorId = heading.toLowerCase().replace(/[^\w\s-]/g,'').trim().replace(/\s+/g,'-').slice(0,60);
       const display = label || heading || pagePart;
-      if (!pagePart) return `<a class="wiki-link" onclick="scrollToAnchor('${anchorId}')">${escHtml(display)}</a>`;
+      if (!pagePart) return `<a class="wiki-link" onclick="scrollToAnchor('${jsStr(anchorId)}')">${escHtml(display)}</a>`;
       const np = pagePart.toLowerCase().replace(/\s+/g,'-');
-      return `<a class="wiki-link" onclick="navigateTo('${np}')">${escHtml(display)}</a>`;
+      return `<a class="wiki-link" onclick="navigateTo('${jsStr(np)}')">${escHtml(display)}</a>`;
     }
     const display = label || target;
     const ns = target.toLowerCase().replace(/\s+/g,'-');
     const exists = wikiData[ns] || Object.keys(wikiData).some(k=>k.toLowerCase()===ns.toLowerCase());
-    return `<a class="wiki-link${exists?'':' missing'}" onclick="navigateTo('${ns}')">${escHtml(display)}</a>`;
+    return `<a class="wiki-link${exists?'':' missing'}" onclick="navigateTo('${jsStr(ns)}')">${escHtml(display)}</a>`;
   });
   out = out.replace(/\[([^\]]+)\]\(([^)]+)\)/g, (m, label, url) => `<a href="${safeUrl(url)}" target="_blank" rel="noopener">${label}</a>`);
   return out;
@@ -3041,6 +3044,19 @@ function inlineRender(text) {
 
 function escHtml(str) {
   return str.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;').replace(/'/g,'&#39;');
+}
+
+// Inverse of escHtml. Needed because inlineRender escapes the whole line up front,
+// so anything it later parses out of that string (wikilink targets/labels) is escaped.
+function unescHtml(str) {
+  return str.replace(/&lt;/g,'<').replace(/&gt;/g,'>').replace(/&quot;/g,'"').replace(/&#39;/g,"'").replace(/&amp;/g,'&');
+}
+
+// Escape for a single-quoted JS string inside a double-quoted HTML attribute:
+// backslash-escape for the JS parser, then HTML-escape for the attribute parser
+// (which runs first, so the browser hands the JS parser exactly the \' we wrote).
+function jsStr(str) {
+  return escHtml(str.replace(/\\/g,'\\\\').replace(/'/g,"\\'"));
 }
 
 // Allow only safe URL schemes in href/src (blocks javascript:, data:, etc.).
