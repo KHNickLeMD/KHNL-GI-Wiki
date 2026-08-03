@@ -6,6 +6,40 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-08-03] lint | Parallel 5-batch link/decision-gap sweep; Meckel's stub→full ADDT; NRS-2002 scoring added; eluxadoline corruption fixed; 0 broken links / 0 orphans
+
+**Ingest status (nothing ingested — correct per rules):**
+- Verified backlog CLEARED: fuzzy-matched all 283 non-lecture raw files against `wiki/sources/` — only 3 weak matches, all confirmed already ingested (`NIT in MASDL.pdf`→[[aga-2023-nafld-noninvasive-biomarkers]], `GLP1 before endo.pdf`→[[aga-2024-glp1-endoscopy]], `Abx PPX for EUS FNA Panc Cysts RCT.pdf`→[[colan-hernandez-2020-eus-fna-panc-cyst-antibiotics]]). All guidelines/CPUs/RCTs ingested; only **gated lecture/chalk-talk transcripts** remain — **not auto-ingested** (unattended pass; awaiting user selection by name).
+
+**Parallel processing:** 5 read/link subagents (disjoint folder ownership: colorectal; foregut+panc+other; hepatology+schemas; meds+procedures; concepts+syntheses) + 2 follow-up subagents (sourced decision-gap fixes; stub expansion). Shared-file writes (`index.md`, `log.md`) serialized centrally.
+
+**Decision-gap fixes (from ingested sources only):**
+- `nutrition-in-hospitalized-patients` — added full **NRS-2002** scoring table (nutritional-status 0–3, disease-severity 0–3, +1 for age ≥70; ≤3 low / >3 high risk) recreated verbatim from [[acg-2016-nutrition-hospitalized]] Table 5.
+- Corpus-blocked (flagged, NOT filled from memory): **GAHS/ABIC** component point-values (AASLD 2020 ALD lists which variables but not the points → needs Forrest 2005 / Dominguez 2008); **Rockall** point table (ACG 2021 UGIB uses ≥6 only as RCT eligibility → needs Rockall 1996); Tokyo TG18 criteria; CTSI numeric cutoff; NCCN-licensed staging tables; Rotterdam/CLIF-C/NACSELD component weights; Curaçao criteria.
+
+**Stub expansion:**
+- `meckels-diverticulum` — stub → full ADDT from [[acg-2015-small-bowel-bleeding]] + [[asge-2017-small-bowel-bleeding]] (Meckel scan indication/performance, DDx w/ `[[small-bowel-bleeding]]` pointer, therapeutics). **Removed prior unsourced content** (Rule of 2s, "most common congenital anomaly," vitelline-duct anatomy) not present in either SBB source. Index entry + `(2 sources)` updated.
+- `narcotic-bowel-syndrome` — NOT created: no page exists (tag + passing mention only), and [[aga-2024-ibd-pain]] covers it too thinly to build without fabrication. Reported.
+
+**Page-local fixes (24 pages edited):**
+- `eluxadoline` — removed leaked `</content>`/`</invoke>` corruption from a prior bad write.
+- `gerd` — removed redundant double-links in DDx table (one-link-per-entity).
+- `budd-chiari-syndrome` — removed duplicate bullets left by the parallel Baveno VII reconciliation.
+- `liver-disease-in-pregnancy` — replaced stale ACG-2016 "deliver at 37 wk" red flag with AGA-2024 bile-acid-stratified timing (≥100→36 wk; <100→36 or 39 wk), resolving an internal contradiction.
+- `alcohol-associated-liver-disease` — added inline-cited [[acg-2019-hereditary-hemochromatosis]] to frontmatter/Sources (was body-cited only).
+- ~18 inline-link densifications across concepts/hepatology/schemas (LSM↔NILDA reciprocal links completed; scleroderma, ESD, NILDA, HHT, amoebic-abscess, HH, acute-cholecystitis first-mention links, etc.).
+
+**Health check:** 0 broken wiki-links (table-escaped `\|` pipes verified), 0 orphan pages, no OS artifacts, no global count drift. Index `updated:` bumped to 2026-08-03.
+
+**Remaining for user triage:**
+- **Missing high-value pages** (need not-yet-ingested sources): individual IBD biologics (infliximab/adalimumab/vedolizumab/ustekinumab/risankizumab/upadacitinib), terlipressin, short-bowel-syndrome, bariatric-surgery, HELLP, narcotic-bowel-syndrome.
+- **Corpus-blocked decision gaps** (see above) — each needs a specific score's original paper ingested.
+- **3 uncited diagnostic schemas** (`dysphagia`, `jaundice`, `nausea-and-vomiting`) carry decision-sufficient content but empty `sources:` — need source assignment.
+- **Search embeddings** (`website_files/search/`, repo root) not rebuilt — outside this pass's sandbox; rebuild separately.
+- **Gated lectures** — 60 transcripts await user selection by name before ingest.
+
+---
+
 ## [2026-08-02] lint | Parallel link/decision-gap sweep; pouchitis + eluxadoline decision-gap fixes; stale CTSI note corrected; index reconciled (246 sources); 0 broken links / 0 orphans
 
 **Ingest status (nothing ingested — correct per rules):**

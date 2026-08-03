@@ -3,7 +3,7 @@ title: "Wilson's Disease"
 category: disease-script
 tags: [wilson-disease, copper, atp7b, hepatic, neuropsychiatric, kayser-fleischer, ceruloplasmin, hpb, liver, genetic, pregnancy, chelation, D-penicillamine, trientine, zinc, Leipzig-score, NWI]
 created: 2026-05-19
-updated: 2026-07-17
+updated: 2026-08-03
 sources: [acg-2017-liver-chemistries, acg-2016-liver-disease-pregnancy, aasld-2022-wilson-disease]
 ---
 
@@ -11,7 +11,7 @@ sources: [acg-2017-liver-chemistries, acg-2016-liver-disease-pregnancy, aasld-20
 
 ### Establishing the Diagnosis
 
-Wilson disease (WD; hepatolenticular degeneration) is an autosomal recessive disorder of copper metabolism caused by pathogenic variants in *ATP7B*, encoding the P-type ATPase responsible for biliary copper excretion. Estimated prevalence ~1:30,000–1:20,000; carrier frequency up to 1:90. >380 pathogenic ATP7B variants documented; most patients are compound heterozygotes. No dominant mutation — unlike HH.
+Wilson disease (WD; hepatolenticular degeneration) is an autosomal recessive disorder of copper metabolism caused by pathogenic variants in *ATP7B*, encoding the P-type ATPase responsible for biliary copper excretion. Estimated prevalence ~1:30,000–1:20,000; carrier frequency up to 1:90. >380 pathogenic ATP7B variants documented; most patients are compound heterozygotes. No dominant mutation — unlike [[hereditary-hemochromatosis|HH]].
 
 **Clinical presentation (Table 1) — WD should be considered at any age; do NOT exclude based on age alone (GS 1):**
 

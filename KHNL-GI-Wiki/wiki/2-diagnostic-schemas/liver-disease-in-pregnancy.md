@@ -365,7 +365,7 @@ See also: [[wilson-disease]]
 - **Hemolytic anemia + thrombocytopenia + elevated LFTs** → HELLP; delivery after 34 weeks
 - **New hypertension + proteinuria + liver involvement** → severe preeclampsia; deliver after 36 weeks
 - **Fever + anicteric hepatitis with normal or absent mucocutaneous lesions** → suspect HSV hepatitis → empiric acyclovir immediately
-- **Pruritus (especially palms/soles) + elevated bile acids >40 µmol/l** → high-risk IHCP → early delivery planning at 37 weeks
+- **Pruritus (especially palms/soles) + elevated bile acids ≥40 µmol/l** → high-risk IHCP → deliver by bile-acid-stratified timing (≥100 µmol/L → 36 wk; 40–100 µmol/L → 36–39 wk; supersedes the older 37-week rule — see IHCP detail above)
 - **HBV DNA >200,000 IU/ml in third trimester** → antiviral prophylaxis needed despite HBIG/vaccine plan
 - **Epigastric/RUQ pain + elevated transaminases** in preeclamptic patient → suspect subcapsular hematoma or hepatic rupture → CT/MRI urgently
 - **Cirrhosis + pregnancy** → multidisciplinary management mandatory; screen for varices in second trimester

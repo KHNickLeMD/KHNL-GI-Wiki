@@ -39,7 +39,7 @@ This guideline replaces the older term **"obscure GI bleeding (OGIB)"** with ana
 | Dieulafoy's lesions | Dieulafoy's lesions | Amyloidosis |
 | Neoplasia | Neoplasia | Blue rubber bleb nevus syndrome |
 | [[meckels-diverticulum]] | [[peptic-ulcer-disease\|NSAID ulcers]] | Pseudoxanthoma elasticum |
-| Polyposis syndromes ([[familial-adenomatous-polyposis]], [[peutz-jeghers-syndrome]]) | | Osler-Weber-Rendu syndrome (HHT) |
+| Polyposis syndromes ([[familial-adenomatous-polyposis]], [[peutz-jeghers-syndrome]]) | | [[hereditary-hemorrhagic-telangiectasia\|Osler-Weber-Rendu syndrome (HHT)]] |
 | | | Kaposi's sarcoma (AIDS) |
 | | | Plummer-Vinson syndrome |
 | | | Ehlers-Danlos syndrome |

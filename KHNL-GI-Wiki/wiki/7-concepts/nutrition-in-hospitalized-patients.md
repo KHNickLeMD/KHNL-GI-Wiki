@@ -3,7 +3,7 @@ title: "Nutrition Therapy in the Hospitalized Patient"
 category: concept
 tags: [nutrition, enteral-nutrition, parenteral-nutrition, malnutrition, icu, critical-care, hospitalized-patient]
 created: 2026-05-21
-updated: 2026-07-29
+updated: 2026-08-03
 sources: [acg-2016-nutrition-hospitalized, asge-2025-gastrostomy-tubes, asge-2011-enteral-feeding]
 ---
 
@@ -17,8 +17,20 @@ Nutrition support in the hospitalized patient encompasses the assessment of nutr
 
 **Validated screening tools:**
 
-- **NRS-2002** (Nutritional Risk Screening 2002): validated for hospitalized patients; scores based on nutritional status + disease severity
+- **NRS-2002** (Nutritional Risk Screening 2002): validated for hospitalized patients; total = impaired-nutritional-status points + disease-severity points + age point (scoring below)
 - **NUTRIC Score**: validated for ICU patients; incorporates IL-6, APACHE II, SOFA, comorbidities; score ≥5 = high nutritional risk
+
+**NRS-2002 scoring** (ACG 2016 Table 5) [[acg-2016-nutrition-hospitalized]]:
+
+| Impaired nutritional status | Severity of disease |
+|---|---|
+| **0** — normal | **0** — normal requirements |
+| **1** (mild) — wt loss >5% in 3 mo; OR food intake 50–75% of normal in preceding week | **1** (mild) — hip fracture; chronic disease with acute complication ([[cirrhosis]], COPD, chronic hemodialysis, diabetes, oncology) |
+| **2** (moderate) — wt loss >5% in 2 mo; OR BMI 18.5–20.5 + impaired general condition; OR intake 25–50% | **2** (moderate) — major abdominal surgery, stroke, severe pneumonia, hematologic malignancy |
+| **3** (severe) — wt loss >5% in 1 mo (>15% in 3 mo); OR BMI <18.5 + impaired general condition; OR intake <25% | **3** (severe) — head injury, bone marrow transplant, ICU patients (APACHE II >10) |
+
+- **+1 point if age ≥70 years.** Total score = nutritional-status points + disease-severity points + age point.
+- **Interpretation (ACG 2016):** score **≤3 = low** nutritional risk (no outcome benefit from nutrition therapy in the validation cohort); score **>3 = high** nutritional risk (benefits from more aggressive nutrition therapy). Score **≥5** flagged the high-risk stratum in the >1,000-patient elective-surgery validation study. [[acg-2016-nutrition-hospitalized]]
 
 **Biomarkers to avoid as nutrition markers** [[acg-2016-nutrition-hospitalized]]:
 

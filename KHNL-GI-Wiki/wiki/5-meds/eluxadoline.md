@@ -43,5 +43,3 @@ Two phase 3 RCTs (100 mg BID, ~808 vs 809 placebo; 26-week data): [[aga-2022-ibs
 
 1. [[aga-2022-ibs-d|AGA Clinical Practice Guideline: Pharmacological Management of Irritable Bowel Syndrome With Diarrhea (2022)]]
 2. [[acg-2020-ibs|ACG Clinical Guideline: Management of Irritable Bowel Syndrome (2020)]]
-</content>
-</invoke>

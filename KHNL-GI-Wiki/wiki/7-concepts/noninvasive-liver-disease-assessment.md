@@ -22,7 +22,7 @@ Most blood/imaging NITs have **high negative predictive value (rule-out)** but *
 
 ## Imaging-based
 
-- **VCTE (FibroScan)** — point-of-care LSM; rule-out <8 kPa, rule-in ≥12, cirrhosis ≥20. CAP for steatosis (≥288 dB/min).
+- **VCTE (FibroScan)** — point-of-care [[liver-stiffness-measurement|LSM]]; rule-out <8 kPa, rule-in ≥12, cirrhosis ≥20. CAP for steatosis (≥288 dB/min).
 - **MRE** — most accurate fibrosis NIT (AUROC ~0.93); rule-out <2.55, advanced ≥3.63, cirrhosis ≥5 kPa; superior in central adiposity / narrow rib space.
 - **MRI-PDFF** — most accurate steatosis quantification (≥5%); tracks dynamic change; ≥30% reduction tracks histologic response.
 
@@ -49,7 +49,7 @@ Baveno VII builds a parallel, portal-hypertension-oriented ladder on the same LS
 
 ## See Also
 
-[[nafld-masld]], [[semaglutide]], [[portal-hypertension]], [[cirrhosis]], [[porto-sinusoidal-vascular-disorder]], [[primary-sclerosing-cholangitis]], [[primary-biliary-cholangitis]], [[hereditary-hemochromatosis]], [[liver-biopsy]], [[resmetirom]], [[hcc-surveillance]]
+[[nafld-masld]], [[semaglutide]], [[portal-hypertension]], [[cirrhosis]], [[porto-sinusoidal-vascular-disorder]], [[primary-sclerosing-cholangitis]], [[primary-biliary-cholangitis]], [[hereditary-hemochromatosis]], [[liver-biopsy]], [[liver-stiffness-measurement]], [[resmetirom]], [[hcc-surveillance]]
 
 ---
 

@@ -21,7 +21,7 @@ Different polyp types may **coexist** in the same patient (2%–3%) and each ass
 
 | Type | Typical site / appearance | Background / association | Malignant potential |
 |---|---|---|---|
-| **Fundic gland polyp (FGP)** | Body/fundus; multiple, <1 cm, glassy, sessile | PPI-associated or sporadic; or [[familial-adenomatous-polyposis|FAP]]/GAPPS; surrounding mucosa usually normal | <1% sporadic; 25%–48% in FAP-associated; high in GAPPS. Risk ↑ with mucosal "carpeting" or >1 cm |
+| **Fundic gland polyp (FGP)** | Body/fundus; multiple, <1 cm, glassy, sessile | [[proton-pump-inhibitors|PPI]]-associated or sporadic; or [[familial-adenomatous-polyposis|FAP]]/GAPPS; surrounding mucosa usually normal | <1% sporadic; 25%–48% in FAP-associated; high in GAPPS. Risk ↑ with mucosal "carpeting" or >1 cm |
 | **Gastric hyperplastic polyp (GHP)** | Antrum/anywhere; inflamed mucosa | H. pylori gastritis, atrophic gastritis, GIM | Dysplasia ~4%; transformation 0.8%–10% (↑ if >2 cm); adjacent mucosa may harbor dysplasia |
 | **Gastric adenoma (GA)** | Intestinal (56%) & foveolar (41%) most common | GIM/atrophic gastritis field | [[gastric-adenocarcinoma\|Adenocarcinoma]] precursor; risk ↑ with size (esp. >20 mm). Foveolar "raspberry-like" GA in H. pylori-naïve stomach: very low risk |
 | **Pyloric gland adenoma** | — | Autoimmune gastritis | High-grade dysplasia up to 42%; adenocarcinoma 12%–47%; ↑ with size, tubulo-villous architecture |

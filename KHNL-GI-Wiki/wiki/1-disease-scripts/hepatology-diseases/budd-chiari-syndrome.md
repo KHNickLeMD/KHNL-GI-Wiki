@@ -3,7 +3,7 @@ title: "Budd-Chiari Syndrome"
 category: disease-script
 tags: [budd-chiari, hepatic-vein, thrombosis, portal-hypertension, liver-failure, mpn, jak2, anticoagulation, tips]
 created: 2026-05-21
-updated: 2026-08-01
+updated: 2026-08-03
 sources: [acg-2020-hepatic-mesenteric-circulation, baveno-vii-2022-portal-hypertension]
 ---
 
@@ -12,8 +12,6 @@ sources: [acg-2020-hepatic-mesenteric-circulation, baveno-vii-2022-portal-hypert
 ### Establishing the Diagnosis
 
 Budd-Chiari syndrome (BCS) is defined by obstruction of hepatic venous outflow, which may occur at the level of the hepatic venules, hepatic veins, or the suprahepatic inferior vena cava (IVC). The obstruction causes sinusoidal congestion, centrilobular necrosis, and ultimately [[portal-hypertension|portal hypertension]] and hepatic failure if untreated.
-
-**Primary vs secondary (Baveno VII 8.7–8.8)** [[baveno-vii-2022-portal-hypertension]]: "BCS" is the preferred designation for any **primary** hepatic venous outflow obstruction (thrombosis, endophlebitis, or web). BCS is **secondary** when the mechanism is **extrinsic compression** (e.g. benign or malignant tumour).
 
 **Presentation** [[acg-2020-hepatic-mesenteric-circulation]]:
 
@@ -117,7 +115,6 @@ Step 4: [[liver-transplantation|Liver transplantation]]
 - **Avoid unfractionated heparin** (HIT risk); reserve it for special situations such as GFR <30 mL/min or a pending invasive procedure (D.2, 8.20)
 - Initiate anticoagulation in all BCS patients without contraindications (Strong, Moderate evidence)
 - Start: LMWH (enoxaparin); transition to VKA or DOAC
-- **Avoid unfractionated heparin** because of the increased risk of heparin-induced thrombocytopenia; reserve UFH for special situations (GFR <30 mL/min, pending invasive procedures) (Baveno VII 8.20)
 - Anticoagulation should be **indefinite** in most patients given persistent thrombophilia
 - Treat underlying MPN: hydroxyurea (or anagrelide for ET); phlebotomy + aspirin for polycythemia vera; does not replace anticoagulation
 - Antiphospholipid syndrome: indefinite VKA (target INR 2–3); DOACs associated with higher thrombotic recurrence in APLS
@@ -144,8 +141,6 @@ Step 4: [[liver-transplantation|Liver transplantation]]
 - **BCS-TIPS prognostic index score** predicts outcome in TIPS candidates (B.1, 8.24); **PI >7 → consider transplantation *before* TIPS** (C.1, 8.25) [[baveno-vii-2022-portal-hypertension]]
 - **BCS presenting as [[acute-liver-failure|acute liver failure]]:** consider **urgent transplantation**, and perform **emergency TIPS if possible, independently of listing** (C.1, 8.26)
 - For [[acute-liver-failure|acute liver failure]] from BCS, cirrhotic BCS failing all other measures, or uncontrolled portal hypertension
-- **BCS presenting as acute liver failure → urgent liver transplantation**; perform **emergency TIPS if possible, independent of listing** for transplant (Baveno VII 8.26) [[baveno-vii-2022-portal-hypertension]]
-- A **high BCS-TIPS prognostic index score (>7)** favors transplantation over TIPS (see Severity Assessment)
 - Post-transplant: lifelong anticoagulation required (thrombophilia persists)
 - Post-transplant MPN management continues; consider discussion with hematology about stem cell transplant in MPN context
 

@@ -3,7 +3,7 @@ title: "Portal Hypertension"
 category: disease-script
 tags: [portal-hypertension, cirrhosis, CSPH, HVPG, cACLD, varices, NSBB, carvedilol, TIPS, liver-stiffness, decompensation, variceal-bleeding, ascites]
 created: 2026-05-28
-updated: 2026-08-01
+updated: 2026-08-03
 sources: [aasld-2023-portal-hypertension, baveno-vii-2022-portal-hypertension, acg-2025-perioperative-cirrhosis, aasld-2024-tips, aasld-2022-palliative-cirrhosis]
 ---
 
@@ -129,7 +129,7 @@ Because CSPH may persist despite recompensation, **NSBBs should not be discontin
 | Abdominal ultrasound + Doppler | Portal vein patency, hepatofugal flow, splenomegaly, portosystemic collaterals, ascites |
 | CT/MRI abdomen | Confirms varices, collaterals, ascites, [[hepatocellular-carcinoma\|HCC]] surveillance, PVT anatomy |
 | [[upper-endoscopy\|Upper endoscopy (EGD)]] | Varices detection; high-risk features (large size, red wale marks); needed when TE unavailable or NSBB contraindicated |
-| Child-Pugh score / MELD | Liver synthetic function; prognosis; [[tips|TIPS]] candidacy |
+| Child-Pugh score / MELD | Liver synthetic function; prognosis; [[tips|TIPS]] candidacy (scoring components: see [[cirrhosis]]) |
 | Labs | LFTs, INR, albumin, bilirubin, creatinine, CBC (thrombocytopenia = PH marker) |
 | Diagnostic paracentesis | PMN count, culture, albumin (SAAG), total protein for ascites evaluation |
 

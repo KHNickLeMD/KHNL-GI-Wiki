@@ -18,7 +18,7 @@ Per [[aasld-ast-2025-liver-transplant-graft-complications]]:
 - Meta-analysis of 15 studies (n=620): likelihood of operational tolerance increases by approximately 7% per year after [[liver-transplantation|LT]] (Rec 36 discussion)
 - More than 40% of highly selected LT recipients can tolerate complete IS withdrawal when performed at a mean of 10.2 years post-LT
 - Early IS withdrawal (within 1–2 years post-LT) is only possible in a very small minority of recipients
-- No reliable biomarkers currently identify ideal candidates; ALT, class II donor-specific antibodies (DSA), and liver stiffness measurement show promise but are not prospectively validated
+- No reliable biomarkers currently identify ideal candidates; ALT, class II donor-specific antibodies (DSA), and [[liver-stiffness-measurement|liver stiffness measurement]] show promise but are not prospectively validated
 - Patients with autoimmune liver disease and those with a history of rejection are less likely to tolerate IS withdrawal successfully
 
 ## Current Guideline Recommendation
@@ -43,7 +43,7 @@ Per [[aasld-2012-liver-transplant-long-term]] (Rec 9): withdrawal may be underta
 
 ## See Also
 
-[[liver-transplantation]], [[calcineurin-inhibitors]], [[tacrolimus]], [[antibody-mediated-rejection-liver-transplant]], [[liver-biopsy]], [[autoimmune-hepatitis]]
+[[liver-transplantation]], [[calcineurin-inhibitors]], [[tacrolimus]], [[antibody-mediated-rejection-liver-transplant]], [[liver-biopsy]], [[autoimmune-hepatitis]], [[liver-stiffness-measurement]]
 
 ---
 

@@ -87,7 +87,7 @@ Patients with [[inflammatory-bowel-disease|IBD]] ([[crohns-disease]] and [[ulcer
 
 ### Colorectal Dysplasia
 
-- Not addressed in this preventive care guideline; see [[colonoscopy]] for IBD dysplasia surveillance intervals
+- Not addressed in this preventive care guideline; see [[colonoscopy]] for IBD dysplasia [[colonoscopy-surveillance|surveillance intervals]]
 
 ---
 

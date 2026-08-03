@@ -1,7 +1,7 @@
 ---
 title: "Wiki Index"
 category: index
-updated: 2026-08-02
+updated: 2026-08-03
 ---
 
 # KHNL GI Encyclopedia — Master Index
@@ -57,7 +57,7 @@ updated: 2026-08-02
 
 - [[celiac-disease]] — Celiac Disease: ADDT — ≥6 biopsies (bulb + postbulbar), Marsh grading, IgA deficiency caveat, nonbiopsy dx in children, GFD monitoring, refractory CD type 1 vs. 2, EATL risk (1 source)
 - [[small-intestinal-bacterial-overgrowth]] — SIBO/IMO: ADDT — breath test protocols/interpretation, risk factor table, antibiotics (rifaximin ± neomycin for IMO), recurrence prevention, dietary data (1 source)
-- [[meckels-diverticulum]] — Meckel's diverticulum: true diverticulum, rule of 2s, Tc-99m scan, surgical resection (stub)
+- [[meckels-diverticulum]] — Meckel's diverticulum: ectopic gastric mucosa (10–60%) → ulceration/bleeding, a leading small-bowel bleeding cause in <40y; Tc-99m pertechnetate (Meckel) scan for dx; surgical resection (2 sources)
 - [[bile-acid-diarrhea]] — Bile acid diarrhea/malabsorption: Type 1 (ileal)/2 (idiopathic, IBS-D overlap)/3 (post-cholecystectomy, CP, celiac); SeHCAT/C4/FGF19 or empiric sequestrant trial; cholestyramine/colesevelam (stub)
 
 ### Colorectal Diseases

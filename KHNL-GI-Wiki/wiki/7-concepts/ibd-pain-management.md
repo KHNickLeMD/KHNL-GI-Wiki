@@ -23,7 +23,7 @@ sources: [aga-2024-ibd-pain]
 
 ## Overview
 
-- Pain (mostly abdominal) reported by **60–75%** of IBD patients.
+- Pain (mostly abdominal) reported by **60–75%** of [[inflammatory-bowel-disease|IBD]] patients.
 - Expected during active inflammation; the clinical problem is **persistent pain when inflammation is quiescent**.
 - Persistent abdominal pain despite endoscopic remission: **30% of [[ulcerative-colitis]]**, **60% of [[crohns-disease]]** — i.e. not automatically a flare.
 - Reframe chronic pain in IBD as a **distinct, waxing-and-waning disease state** with central mechanisms — managed proactively like IBD itself.

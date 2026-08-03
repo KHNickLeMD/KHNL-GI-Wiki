@@ -69,7 +69,7 @@ Elevated IRP (above these thresholds) = impaired EGJ relaxation = potential obst
 
 | Disorder | Diagnostic Criteria |
 |----------|-------------------|
-| **Absent contractility** | Normal IRP + 100% failed peristalsis; scleroderma pattern; exclude achalasia |
+| **Absent contractility** | Normal IRP + 100% failed peristalsis; [[esophageal-dysfunction-systemic-disease\|scleroderma]] pattern; exclude achalasia |
 | **[[distal-esophageal-spasm\|Distal esophageal spasm]] (DES)** | ≥20% premature contractions (DL <4.5 s) with DCI ≥450; normal IRP |
 | **[[hypercontractile-esophagus\|Hypercontractile esophagus]] (Jackhammer)** | ≥20% hypercontractile swallows (DCI >8,000); EGJ obstruction excluded |
 | **[[ineffective-esophageal-motility\|Ineffective esophageal motility]] (IEM)** | >70% ineffective swallows (failed or weak), OR ≥50% failed swallows |

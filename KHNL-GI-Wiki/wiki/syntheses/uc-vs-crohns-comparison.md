@@ -24,7 +24,7 @@ sources: [acg-2025-uc, acg-2025-crohns]
 | **Bloody diarrhea** | Very common | Less common |
 | **Abdominal mass** | Rare | Common (RLQ) |
 | **Surgical cure** | Yes (colectomy) | No (recurs post-resection) |
-| **Cancer risk** | Higher (pancolitis) | Elevated, but lower than UC |
+| **[[colorectal-cancer\|Cancer]] risk** | Higher (pancolitis) | Elevated, but lower than UC |
 | **ANCA** | pANCA positive (~60–70%) | Less common |
 | **ASCA** | Less common | ASCA positive (~60–70%) |
 | **Cobblestoning** | Absent | Present (endoscopy/imaging) |

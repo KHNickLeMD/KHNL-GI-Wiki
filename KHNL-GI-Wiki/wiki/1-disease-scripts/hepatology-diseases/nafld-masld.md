@@ -3,7 +3,7 @@ title: "NAFLD / MASLD (Metabolic Dysfunction-Associated Steatotic Liver Disease)
 category: disease-script
 tags: [nafld, masld, nash, mash, steatosis, metabolic-syndrome, fibrosis, fibroscan, hpb, liver, obesity, diabetes, semaglutide, resmetirom, glp-1, nit, essence-trial, liver-transplant, post-transplant, recurrence]
 created: 2026-05-19
-updated: 2026-07-17
+updated: 2026-08-03
 sources: [aasld-2023-nafld, aasld-2023-masld-nomenclature, aasld-2024-resmetirom, aasld-2024-nilda-blood, aasld-2025-semaglutide-mash, acg-2017-liver-chemistries, aasld-ast-2025-liver-transplant-graft-complications]
 ---
 
@@ -196,7 +196,7 @@ Oral **thyroid hormone receptor-β (THR-β) agonist**; first FDA-approved pharma
 
 **Dosing:** 100 mg/day (≥100 kg) or 80 mg/day (<100 kg). With a moderate CYP2C8 inhibitor (e.g. clopidogrel): 80 mg (≥100 kg) / 60 mg (<100 kg). Statin DDI max doses: rosuvastatin 20, simvastatin 20, atorvastatin 40, pravastatin 40 mg/day (resmetirom lowers LDL-C).
 
-**Pretreatment / not recommended in:** compensated or decompensated cirrhosis; uncontrolled active liver disease (AIH, [[primary-biliary-cholangitis|PBC]]); alcohol >20 g/d (♀) / >30 g/d (♂); untreated thyroid dysfunction (optimize first — baseline TSH required); symptomatic gallstone disease (e.g. acute cholecystitis).
+**Pretreatment / not recommended in:** compensated or decompensated cirrhosis; uncontrolled active liver disease (AIH, [[primary-biliary-cholangitis|PBC]]); alcohol >20 g/d (♀) / >30 g/d (♂); untreated thyroid dysfunction (optimize first — baseline TSH required); symptomatic gallstone disease (e.g. [[acute-cholecystitis|acute cholecystitis]]).
 
 **Monitoring & adverse events:** hepatic function panel at baseline, 3, 6, 12 mo — discontinue for hepatotoxicity per [[drug-induced-liver-injury]] thresholds. Common AEs: diarrhea (24–34%), nausea (12–22%), increased symptomatic gallstones; one severe DILI/AIH-like case. Routine thyroid monitoring not needed if baseline normal.
 

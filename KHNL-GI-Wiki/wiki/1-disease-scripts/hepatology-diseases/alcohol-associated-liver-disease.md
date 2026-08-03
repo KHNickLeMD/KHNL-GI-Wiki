@@ -3,8 +3,8 @@ title: "Alcohol-Associated Liver Disease"
 category: disease-script
 tags: [ald, alcoholic-hepatitis, cirrhosis, liver, hpb, aud, corticosteroids, liver-transplant, lille-score, meld, mdf, nac, pentoxifylline, transplant-candidate-evaluation, post-transplant, recurrence, naltrexone, acamprosate, baclofen, peth, stopah]
 created: 2026-05-07
-updated: 2026-07-23
-sources: [acg-2024-ald, acg-2017-liver-chemistries, aasld-ast-2025-liver-transplant-candidate-evaluation, aasld-ast-2025-liver-transplant-graft-complications, aasld-2020-ald]
+updated: 2026-08-03
+sources: [acg-2024-ald, acg-2017-liver-chemistries, aasld-ast-2025-liver-transplant-candidate-evaluation, aasld-ast-2025-liver-transplant-graft-complications, aasld-2020-ald, acg-2019-hereditary-hemochromatosis]
 ---
 
 # Alcohol-Associated Liver Disease
@@ -349,3 +349,4 @@ Per [[aasld-ast-2025-liver-transplant-graft-complications]] (recommendations for
 3. [[aasld-ast-2025-liver-transplant-candidate-evaluation|AASLD AST 2025: Practice Guideline on Adult Liver Transplantation — Candidate Evaluation]]
 4. [[aasld-ast-2025-liver-transplant-graft-complications|AASLD/AST 2025: Practice Guideline on Adult Liver Transplantation — Diagnosis and Management of Graft-Related Complications]]
 5. [[aasld-2020-ald|AASLD 2019/2020 Practice Guidance: Diagnosis and Treatment of Alcohol-Associated Liver Diseases]]
+6. [[acg-2019-hereditary-hemochromatosis|ACG 2019: Hereditary Hemochromatosis]]

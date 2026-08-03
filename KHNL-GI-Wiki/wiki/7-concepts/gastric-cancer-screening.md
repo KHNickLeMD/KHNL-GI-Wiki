@@ -68,7 +68,7 @@ Intervals below apply **after** a high-quality index EGD with systematic biopsie
 | **Mild AG and/or focal, complete-type GIM** | Same branch as "no findings" (q3–5y if family history / persistent H. pylori; otherwise not advised) |
 | **Moderate–severe AG and/or multifocal or incomplete-type GIM** (particularly with other GC risk factors) | Surveillance EGD every **3 years** (more frequent if multiple other risk factors) |
 | **Indefinite (IND) or low-grade dysplasia (LGD)** — visible or nonvisible | Confirm by experienced GI pathologist; refer to expert center. If H. pylori+, treat/confirm eradication then repeat EGD + biopsies. Repeat EGD in **6 months** |
-| **High-grade dysplasia (HGD) or early GC (EGC)** | Refer to expert center; **ESD** (en bloc, R0). Repeat EGD **as soon as possible**. H. pylori eradication essential but must not delay intervention |
+| **High-grade dysplasia (HGD) or early GC (EGC)** | Refer to expert center; **[[endoscopic-submucosal-dissection|ESD]]** (en bloc, R0). Repeat EGD **as soon as possible**. H. pylori eradication essential but must not delay intervention |
 
 **Risk stratification of AG/GIM (BPA 9):** all confirmed AG ± GIM must be risk-stratified. **Severe AG and/or multifocal/incomplete GIM** are likely to benefit from surveillance, particularly with other GC risk factors (e.g., family history) → **q3y**, shorter if severe anatomically extensive GIM or multiple risk factors. See [[gastric-intestinal-metaplasia]] and [[atrophic-gastritis]] for full lesion-level management and the ACG 2025 / AGA 2021 interval concordance.
 
@@ -83,7 +83,7 @@ Nonvisible IND/LGD → repeat high-quality EGD with image-enhanced endoscopy wit
 | HGD | **3 months** |
 | Nonvisible GC | Multidisciplinary discussion; **consider surgery** |
 
-If dysplasia/EGC is endoscopically **visualized** → **en bloc endoscopic resection** (typically [[endoscopic-submucosal-dissection|ESD]]; EMR only in select scenarios — lesions <1 cm or confirmed IND histology). Refer to the AGA CPU on ESD for post-curative-ESD surveillance intervals.
+If dysplasia/EGC is endoscopically **visualized** → **en bloc endoscopic resection** (typically ESD; EMR only in select scenarios — lesions <1 cm or confirmed IND histology). Refer to the AGA CPU on ESD for post-curative-ESD surveillance intervals.
 
 **Post-resection (BPA 12):** individuals with successfully resected gastric dysplasia or cancer require **ongoing** surveillance; suggested intervals exist but US data are limited.
 
