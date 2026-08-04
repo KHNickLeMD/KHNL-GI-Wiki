@@ -3,7 +3,7 @@ title: "Acute Hepatic Porphyria"
 category: disease-script
 tags: [porphyria, acute-hepatic-porphyria, aip, hcp, vp, alad, hepatology, metabolic, givosiran, hemin]
 created: 2026-07-20
-updated: 2026-07-20
+updated: 2026-08-04
 sources: [aga-2023-acute-hepatic-porphyria]
 ---
 
@@ -40,7 +40,7 @@ Acute hepatic porphyrias (AHP) are rare inborn errors of heme metabolism in whic
 ### Severity Assessment
 - **Disease-course strata:** >90% of symptomatic patients have only 1 or a few lifetime attacks; **3%–5% have recurrent attacks, defined as ≥4 attacks/year** — this threshold drives prophylaxis and givosiran eligibility.
 - Recurrent attackers: >50% report chronic neurologic symptoms and 35% carry a neuropathy diagnosis; markedly impaired quality of life; ALA/PBG often elevated at baseline between attacks.
-- **Asymptomatic high excretors** (pathogenic variant + elevated ALA/PBG, no attacks) may still be at increased risk of induced attacks, chronic renal/hepatic injury, and HCC.
+- **Asymptomatic high excretors** (pathogenic variant + elevated ALA/PBG, no attacks) may still be at increased risk of induced attacks, chronic renal/hepatic injury, and [[hepatocellular-carcinoma|HCC]].
 - Attacks requiring hospital admission define the threshold for IV [[hemin|hemin]] therapy (BPA 4).
 
 ### Classification / Typing
@@ -130,7 +130,7 @@ Acute hepatic porphyrias (AHP) are rare inborn errors of heme metabolism in whic
 - **Liver disease (BPA 9):** monitor **annually**. Aminotransferases elevated in ~13% during attacks (28% at baseline in ENVISION); abnormal LFTs → investigate alternative etiologies (e.g., [[nafld-masld|NASH]], iron overload); [[liver-biopsy|liver biopsy]] may help.
   - On ≥monthly prophylactic hemin (9% iron by weight): **ferritin and iron every 3–6 months**; if **ferritin >1000 ng/mL → therapeutic phlebotomy.**
   - On [[givosiran]]: **ALT >3× ULN** reported in first 3–6 months → **monitor liver enzymes monthly during that period**; if normal, reduce to twice/year.
-- **[[hcc-surveillance|HCC surveillance]] (BPA 10):** risk **1.5%–1.8%**; **begin at age 50 y — [[hepatocellular-carcinoma|liver ultrasound every 6 months]], regardless of symptom severity.** Female predominance 2.5×; HCC (and [[cholangiocarcinoma]]) may occur **without fibrosis/[[cirrhosis|cirrhosis]]**; AFP role unclear (not reliably elevated even with high tumor burden).
+- **[[hcc-surveillance|HCC surveillance]] (BPA 10):** risk **1.5%–1.8%**; **begin at age 50 y — liver ultrasound every 6 months, regardless of symptom severity.** Female predominance 2.5×; HCC (and [[cholangiocarcinoma]]) may occur **without fibrosis/[[cirrhosis|cirrhosis]]**; AFP role unclear (not reliably elevated even with high tumor burden).
 - **CKD surveillance (BPA 11):** on treatment, **serum creatinine and eGFR at least annually** (more frequently on givosiran). CKD 29% and hypertension 43% (US Porphyrias Consortium); porphyria-associated kidney disease in up to 59% of symptomatic AIP (eGFR decline ~1 mL/min/1.73 m²/year); EXPLORE — 68% reduced eGFR, 28% stage 3a/3b/4 CKD. **Optimize blood-pressure control.** Kidney transplant is treatment of choice for ESRD (ALA/PBG rise between dialysis sessions; improves AIP symptoms via increased clearance).
 - **Counsel on long-term complications (BPA 12):** neuropathy, CKD, hypertension, HCC, and the need for ongoing monitoring — including asymptomatic high excretors, who merit annual monitoring.
 

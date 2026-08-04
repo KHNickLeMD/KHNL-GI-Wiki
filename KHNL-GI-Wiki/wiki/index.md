@@ -1,7 +1,7 @@
 ---
 title: "Wiki Index"
 category: index
-updated: 2026-08-03
+updated: 2026-08-04
 ---
 
 # KHNL GI Encyclopedia — Master Index
@@ -43,7 +43,7 @@ updated: 2026-08-03
 - [[atrophic-gastritis]] — Atrophic gastritis: ADDT — HpAG vs. AIG etiology, OLGA/OLGIM staging, Sydney protocol, pernicious anemia, type I gastric NETs, surveillance intervals (1 source)
 - [[gastroparesis]] — Gastroparesis: ADDT — 4-hour scintigraphy (>10% retention), GCSI, prokinetics (metoclopramide/domperidone/erythromycin), G-POEM preferred pyloric intervention, EndoFLIP for pyloric DI, no botox/GES/nortriptyline; whole-gut (WMC) evaluation — treating coexisting slow colonic transit improves upper-GI symptoms (3 sources)
 - [[gastric-intestinal-metaplasia]] — GIM: ADDT — Correa cascade, H. pylori test-and-treat (32% GC RR reduction), against routine surveillance (AGA 2020) vs. q3y surveillance (ACG 2025/ESGE) for high-risk; incomplete-type/extensive GIM/family history = high risk; ACG 2025 quality-endoscopy + Sydney containering + dysplasia/ESD pathway (2 sources)
-- [[gastric-adenocarcinoma]] — Gastric Adenocarcinoma: intestinal vs diffuse (Lauren), Correa cascade, EUS/CT/PET + diagnostic laparoscopy staging; NCCN ADDT — endoscopic resection (T1a) vs perioperative FLOT + gastrectomy/D2 (± dostarlimab for MSI-H/dMMR) vs metastatic biomarker therapy (HER2→trastuzumab/T-DXd, PD-L1 CPS→nivo/pembro, claudin 18.2→zolbetuximab); treatment-algorithm Mermaid (1 source)
+- [[gastric-adenocarcinoma]] — Gastric Adenocarcinoma: intestinal vs diffuse (Lauren), Correa cascade, EUS/CT/PET + diagnostic laparoscopy staging; NCCN ADDT — endoscopic resection (T1a) vs perioperative FLOT + gastrectomy/D2 (± dostarlimab for MSI-H/dMMR) vs metastatic biomarker therapy (HER2→trastuzumab/T-DXd, PD-L1 CPS→nivo/pembro, claudin 18.2→zolbetuximab); early T1a endoscopic-resection criteria (ESD-preferred); treatment-algorithm Mermaid (3 sources)
 - [[helicobacter-pylori-infection]] — H. pylori: ADDT — epidemiology, pathogenesis, diagnosis, eradication regimens; 2024 update: BQT Strong, vonoprazan, no empiric CTT (2 sources)
 - [[gastric-premalignant-conditions]] — GPMC: ADDT — Correa cascade, GIM surveillance, dysplasia/ESD referral, H. pylori eradication (1 source)
 - [[peptic-ulcer-disease]] — PUD: ADDT — H. pylori/NSAID etiology, ulcer biopsy (DU not routine, GU individualized), EGD with Forrest classification, PPI BID 4–12 wk, follow-up EGD for gastric ulcers, balloon dilation for benign gastric outlet obstruction (2 sources)

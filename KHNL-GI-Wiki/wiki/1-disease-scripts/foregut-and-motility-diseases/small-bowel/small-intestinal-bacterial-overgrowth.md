@@ -3,7 +3,7 @@ title: "Small Intestinal Bacterial Overgrowth (SIBO)"
 category: disease-script
 tags: [sibo, imo, small-bowel, breath-testing, rifaximin, ibs, motility, microbiome, malabsorption]
 created: 2026-05-19
-updated: 2026-07-16
+updated: 2026-08-04
 sources: [acg-2020-sibo]
 ---
 
@@ -34,7 +34,7 @@ SIBO is a clinical syndrome of GI symptoms caused by the presence of excessive n
 | Mechanical | Small bowel tumor, volvulus, intussusception, postsurgical causes (blind loop, Roux-en-Y, ileocolonic anastomosis, adhesions) |
 | Systemic disease | Diabetes, scleroderma, amyloidosis, Parkinson disease, chronic renal failure, hypothyroidism |
 | Motility | [[irritable-bowel-syndrome]], pseudo-obstruction, visceral myopathies, mitochondrial diseases |
-| Medications | Opiates, potent antisecretory agents (PPIs) |
+| Medications | Opiates, potent antisecretory agents ([[proton-pump-inhibitors\|PPIs]]) |
 | Malabsorptive | Pancreatic insufficiency (see [[chronic-pancreatitis]]), [[cirrhosis]] (altered bile acids), other malabsorptive conditions |
 | Immune-related | HIV, common variable immunodeficiency, IgA deficiency |
 | Other | Aging (elderly), small bowel diverticulosis |
@@ -166,7 +166,7 @@ Symptoms of SIBO are non-specific. The differential includes:
 
 **ACG 2020 Recommendation 6** (Conditional/Low): Suggest the use of antibiotics in symptomatic patients with SIBO to eradicate overgrowth and resolve symptoms.
 
-Before initiating antibiotic therapy: make an objective effort to diagnose SIBO (breath test or culture). Consider CDI risk, antibiotic resistance, and adverse effects.
+Before initiating antibiotic therapy: make an objective effort to diagnose SIBO (breath test or culture). Consider [[clostridioides-difficile|CDI]] risk, antibiotic resistance, and adverse effects.
 
 **Preferred agent — [[rifaximin|Rifaximin]] (non-absorbable):**
 
@@ -220,7 +220,7 @@ Before initiating antibiotic therapy: make an objective effort to diagnose SIBO 
 
 - No basis for [[fmt|FMT]] in SIBO treatment currently (Key Concept 13)
 - Concerns: FDA safety alerts re: multi-drug resistant organism transmission
-- Case report: FMT for [[clostridioides-difficile|C. difficile]] → recipient acquired constipation phenotype and methane-positive breath test from donor — possible donor-dependent complication
+- Case report: FMT for C. difficile → recipient acquired constipation phenotype and methane-positive breath test from donor — possible donor-dependent complication
 
 ### Prevention
 

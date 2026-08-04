@@ -3,11 +3,9 @@ title: "Hemin (Heme Therapy)"
 category: med
 tags: [porphyria, acute-hepatic-porphyria, heme]
 created: 2026-07-20
-updated: 2026-07-20
+updated: 2026-08-04
 sources: [aga-2023-acute-hepatic-porphyria]
 ---
-
-*Stub — to be expanded.*
 
 - **Mechanism:** exogenous heme rapidly down-regulates hepatic ALAS1 expression, reducing overproduction of ALA and PBG.
 - **Acute attack dose:** IV hemin 3–4 mg/kg body weight, once daily, typically 4 days (3–5 days), for attacks of [[acute-hepatic-porphyria]] severe enough to require admission. Give into a **high-flow central vein** (PICC or central port) due to thrombophlebitis; heme bound to human serum albumin is preferred. Symptom relief typically requires 48–72 h.

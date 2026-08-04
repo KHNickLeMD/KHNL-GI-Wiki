@@ -6,6 +6,42 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-08-04] lint | Parallel folder-batch link/decision-gap sweep; givosiran+hemin stub markers cleared; gastric-adenocarcinoma T1a-resection gap fixed; Meckel's XML-corruption removed; 0 broken links / 0 orphans
+
+**Ingest status (nothing ingested — correct per rules):**
+- No new raw files (inbox sync brought none; `git status` clean of untracked `raw/`). 399 raw files, 246 sources — backlog remains CLEARED; all guidelines/CPUs/RCTs ingested. Only **gated lecture/chalk-talk transcripts** remain uningested — **not auto-ingested** (unattended pass; awaiting user selection by name).
+
+**Parallel processing:** 4 fan-out lint subagents with disjoint folder ownership (colorectal; foregut+panc+other; hepatology+schemas; meds+procedures+concepts), which further sub-fanned to per-subfolder workers. Each edited only its owned pages; shared files (`index.md`, `log.md`) serialized centrally by orchestrator.
+
+**Stalest-page validation (3 pages, all validated clean, `updated:` bumped):**
+- `[[proctalgia-syndromes]]` — Rome IV duration criteria (chronic ≥20 min / fugax <20 min), ARM+BET indication, biofeedback protocol all present. Decision-sufficient.
+- `[[cryptosporidiosis]]` — dx (EIA / mod acid-fast / multiplex PCR) + tx (nitazoxanide 500 mg BID ×3 d; immune reconstitution) sourced; DDx schema pointer to `[[acute-diarrhea]]` present.
+- `[[rotavirus]]` — recommendation capture with grades; supportive care + vaccine guidance complete.
+
+**Stub markers cleared (2, content already sourced-complete):**
+- `[[givosiran]]`, `[[hemin]]` — carried leftover `*Stub — to be expanded.*` markers despite full source-faithful content (dosing, route, monitoring, cautions) verified against `[[aga-2023-acute-hepatic-porphyria]]`. Markers removed; `updated:` bumped. (Not new expansion — completing pages that were already written.)
+
+**Decision-gap fix (from ingested source):**
+- `[[gastric-adenocarcinoma]]` — "early T1a → endoscopic resection" bullet stated the conclusion but omitted the criteria; added sourced criteria (well-differentiated, nonulcerated, mucosa-confined T1a; ESD preferred over EMR; <20 mm either acceptable) from already-ingested `[[asge-2023-esd]]`; added source to frontmatter + numbered Sources; index count 1→3.
+
+**Page-local fixes (inline links + hygiene, ~11 pages):**
+- `[[meckels-diverticulum]]` — removed leaked `</content>`/`</invoke>` XML corruption from a prior bad write; added `[[hereditary-hemorrhagic-telangiectasia|Osler–Weber–Rendu]]` + `[[gastroenteropancreatic-neuroendocrine-tumors|carcinoid]]` DDx links.
+- `[[barretts-esophagus]]` — added missing `[[esophageal-cancer|esophageal SCC]]` DDx link; removed duplicate second `[[gerd]]` link (one-link-per-entity).
+- `[[acute-hepatic-porphyria]]` — moved `[[hepatocellular-carcinoma]]` link to first mention; fixed mislabeled alias.
+- `[[small-intestinal-bacterial-overgrowth]]` (PPI + CDI links, de-duped later C. diff), `[[chronic-pancreatitis]]` + `[[hereditary-pancreatitis]]` (`[[pancreas-divisum]]`), `[[segmental-colitis-associated-with-diverticulosis]]` (colonoscopy), `[[enteral-access]]` + `[[poem]]` (obesity), `[[interventional-eus-vascular]]` (EGD) — first-mention inline links.
+
+**Health check:** 0 broken wiki-links (escaped `\|` table pipes verified), 0 orphan pages, no OS artifacts, removed one stray `.tmp_all_slugs.txt` scratch file left by a subagent. Index `updated:` → 2026-08-04.
+
+**Remaining for user triage:**
+- **3 uncited diagnostic schemas** (`dysphagia`, `jaundice`, `nausea-and-vomiting`) carry decision-sufficient content but empty `sources:`. Candidate ingested backers identified (jaundice→`acg-2017-liver-chemistries` R-ratio framework; N/V→`acg-2022-gastroparesis`/`aga-2024-cvs`/`aga-2024-chs`; dysphagia→`acg-2025-eoe`/`acg-2020-achalasia`/`chicago-classification-v4`). Left for user to confirm attribution (synthesized schemas — not filled to avoid over-attribution).
+- **Corpus-blocked decision gaps** (each needs a specific score's/guideline's original paper ingested — never filled from memory): GAHS/ABIC component points (Forrest 2005 / Dominguez 2008); Rockall point table (Rockall 1996); Tokyo TG18 dx + severity criteria (acute-cholecystitis); CTSI numeric cutoff; GIST modified-NIH/AFIP recurrence table; Beighton age-adjusted cutoffs (hEDS); Curaçao criteria (HHT); WHO PTLD subclassification; PAGE-B/REAL-B component weights; NCCN-licensed staging tables (gallbladder-cancer re-resection T-stage; gastric PD-L1 CPS cutoff).
+- **Stubs expandable from ingested sources next pass** (reported, not done — cap): `fmt` (→`aga-2024-fmt`), `heller-myotomy` (→`sages-2024-poem`/`acg-2020-achalasia`). Corpus-blocked stubs: `glp-2-agonists` (no SBS/teduglutide source), `bariatric-surgery` (lecture-only/gated), `bile-acid-diarrhea` (no SeHCAT/C4/FGF19 source), `argon-plasma-coagulation` (no dedicated APC technique source).
+- **Missing pages flagged** (need not-yet-ingested sources): `autoimmune-pancreatitis`, `acute-cholangitis`, `hellp-syndrome`, `hepatitis-a`/`hepatitis-e`, `pyogenic-liver-abscess`.
+- **`hepatic-encephalopathy.md` scaffolding** deviates from ADDT (uses Definition/Classification/Epidemiology, no top-level `## Differential Diagnosis`) — content complete, only section headers off; flagged for a dedicated restructure pass.
+- **Gated lectures** — transcripts await user selection by name before ingest.
+
+---
+
 ## [2026-08-03] lint | Parallel 5-batch link/decision-gap sweep; Meckel's stub→full ADDT; NRS-2002 scoring added; eluxadoline corruption fixed; 0 broken links / 0 orphans
 
 **Ingest status (nothing ingested — correct per rules):**

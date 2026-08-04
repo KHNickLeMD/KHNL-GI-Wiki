@@ -3,11 +3,9 @@ title: "Givosiran"
 category: med
 tags: [porphyria, acute-hepatic-porphyria, sirna, alas1]
 created: 2026-07-20
-updated: 2026-07-20
+updated: 2026-08-04
 sources: [aga-2023-acute-hepatic-porphyria]
 ---
-
-*Stub — to be expanded.*
 
 - **Class:** ALAS1-specific small interfering RNA (siRNA) covalently linked to N-acetylgalactosamine (GalNAc); taken up by hepatocytes via the asialoglycoprotein receptor, degrades ALAS1 mRNA → reduced ALA/PBG production.
 - **Route/dose:** subcutaneous, monthly.

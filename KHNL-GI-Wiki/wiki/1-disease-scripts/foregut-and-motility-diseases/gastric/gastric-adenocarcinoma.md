@@ -3,8 +3,8 @@ title: "Gastric Adenocarcinoma"
 category: disease-script
 tags: [gastric-cancer, gastric-adenocarcinoma, gastric, malignancy, her2, pd-l1, msi-h, dmmr, claudin-18.2, flot, gastrectomy, endoscopic-resection, trastuzumab, zolbetuximab, nccn, oncology]
 created: 2026-06-01
-updated: 2026-07-29
-sources: [nccn-2026-gastric-cancer, asge-2015-gastric-premalignant]
+updated: 2026-08-04
+sources: [nccn-2026-gastric-cancer, asge-2015-gastric-premalignant, asge-2023-esd]
 ---
 
 ## Assessment
@@ -37,7 +37,7 @@ Endoscopy with biopsy for histology; EUS for locoregional staging; CT/PET for di
 
 Stage-directed per [[nccn-2026-gastric-cancer]]:
 
-- **Early (selected T1a):** endoscopic resection ([[polypectomy-emr|EMR]]/[[endoscopic-submucosal-dissection|ESD]]) when size/histology/depth criteria are met; otherwise gastrectomy.
+- **Early (selected T1a):** endoscopic resection ([[polypectomy-emr|EMR]]/[[endoscopic-submucosal-dissection|ESD]]) for early, **well-differentiated, nonulcerated, mucosa-confined (T1a)** lesions; **ESD preferred over EMR** (en-bloc resection), and for such lesions **<20 mm either ESD or EMR** is acceptable. Lesions exceeding size/depth criteria → surgical (gastrectomy) evaluation rather than endoscopic resection. [[asge-2023-esd]]
 - **Resectable locally advanced:** **perioperative chemotherapy (FLOT preferred)** with **gastrectomy and D2 lymphadenectomy**. Perioperative/neoadjuvant immunotherapy is considered for **MSI-H/dMMR** tumors (multidisciplinary; **dostarlimab** added as a neoadjuvant option). Gastrectomy remains standard even after radiologic/endoscopic complete response to neoadjuvant immunotherapy, outside prospective organ-preservation trials; if non-operative management is pursued for MSI-H/dMMR disease, immunotherapy continues for **at least 1 year**.
 - **Unresectable:** definitive chemoradiation/chemotherapy.
 - **Palliation of malignant gastric outlet obstruction:** endoscopically placed **self-expanding metal stent (SEMS)** for patients with poor performance status or nonoperable anatomy. [[asge-2015-gastric-premalignant]]
@@ -70,3 +70,4 @@ flowchart TD
 
 1. [[nccn-2026-gastric-cancer|NCCN Clinical Practice Guidelines in Oncology: Gastric Cancer (Version 3.2026)]]
 2. [[asge-2015-gastric-premalignant|ASGE Guideline: The Role of Endoscopy in the Management of Premalignant and Malignant Conditions of the Stomach (2015)]]
+3. [[asge-2023-esd|ASGE Guideline: ESD for Early Esophageal and Gastric Cancer (2023)]]

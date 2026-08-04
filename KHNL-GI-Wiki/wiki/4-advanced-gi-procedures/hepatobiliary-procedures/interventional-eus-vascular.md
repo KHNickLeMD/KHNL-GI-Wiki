@@ -3,7 +3,7 @@ title: "Interventional EUS for Vascular Investigation and Therapy"
 category: advanced-procedure
 tags: [eus, gastric-varices, coil-embolization, cyanoacrylate, eus-ppg, portal-pressure-gradient, portal-vein-sampling, pseudoaneurysm, splenic-artery-embolization, rectal-varices, portal-hypertension]
 created: 2026-07-23
-updated: 2026-07-23
+updated: 2026-08-04
 sources: [aga-2023-interventional-eus-vascular]
 ---
 
@@ -98,7 +98,7 @@ sources: [aga-2023-interventional-eus-vascular]
 - **Discordant data** on the presence/absence of portal hypertension — isolated thrombocytopenia, isolated splenomegaly, normal HVPG but possible presinusoidal portal hypertension
 - **Supplementing preoperative clearance** (including pretransplant workup) in known or suspected [[cirrhosis]]
 - **Monitoring response** to medications or other intervention
-- Strongest argument for use: **when there is already another indication for endoscopy** — variceal screening or [[liver-biopsy|liver biopsy]] — allowing EGD, EUS, PPG, biopsy, and assessment/treatment of portal-hypertensive endoscopic features (varices, portal hypertensive gastropathy) in one session
+- Strongest argument for use: **when there is already another indication for endoscopy** — variceal screening or [[liver-biopsy|liver biopsy]] — allowing [[upper-endoscopy|EGD]], EUS, PPG, biopsy, and assessment/treatment of portal-hypertensive endoscopic features (varices, portal hypertensive gastropathy) in one session
 
 **Evidence:** first human 2014; 28-patient series — excellent correlation between EUS-PPG and endoscopic findings of portal hypertension in suspected cirrhosis; 64-patient retrospective series with concurrent liver biopsy — excellent correlation with **histologic fibrosis stage**, clinical portal hypertension, thrombocytopenia, splenomegaly, **APRI >2**, and **FIB-4 >3.25**, with **no reported adverse events**; 83-patient series — correlated with thrombocytopenia and varices, again no AEs.
 

@@ -3,7 +3,7 @@ title: "Chronic Pancreatitis"
 category: disease-script
 tags: [pancreatitis, chronic, pancreas, hpb, exocrine-insufficiency, pain]
 created: 2026-05-16
-updated: 2026-07-29
+updated: 2026-08-04
 sources: [acg-2020-chronic-pancreatitis, acg-2020-sibo, asge-2024-chronic-pancreatitis-endoscopy, apa-2014-chronic-pancreatitis, aga-2022-recurrent-pancreatitis-endoscopy]
 ---
 
@@ -73,7 +73,7 @@ Key categories:
 - **Genetic:** PRSS1 (AD, [[hereditary-pancreatitis|hereditary pancreatitis]]), SPINK1 (AR, severe), CFTR (cystic fibrosis or CFTR-RD), CTRC, CASR, CLDN2 (alcohol accelerator), CPA1, CEL (MODY-8)
 - **Autoimmune:** AIP type 1 (IgG4-related) / type 2 (IBD-associated)
 - **RAP and SAP:** biliary, post-[[ercp|ERCP]], traumatic, undetermined
-- **Obstructive:** pancreas divisum, ampullary stenosis, main-duct stones, calcifications, strictures, mass
+- **Obstructive:** [[pancreas-divisum|pancreas divisum]], ampullary stenosis, main-duct stones, calcifications, strictures, mass
 
 *Full gene table (inheritance, mechanism, phenotype) lives on [[hereditary-pancreatitis]].*
 

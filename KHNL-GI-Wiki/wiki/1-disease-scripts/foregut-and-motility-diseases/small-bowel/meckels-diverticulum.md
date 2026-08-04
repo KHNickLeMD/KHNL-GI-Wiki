@@ -3,7 +3,7 @@ title: "Meckel's Diverticulum"
 category: disease-script
 tags: [meckels-diverticulum, small-bowel, gi-bleeding, ectopic-gastric-mucosa, pediatric]
 created: 2026-05-19
-updated: 2026-08-03
+updated: 2026-08-04
 sources: [acg-2015-small-bowel-bleeding, asge-2017-small-bowel-bleeding]
 ---
 
@@ -32,8 +32,8 @@ A small-bowel diverticulum that may harbor **ectopic gastric mucosa** (reported 
 Other small-bowel bleeding sources to consider — with an age skew toward the young for Meckel's and IBD (ACG 2015: patients < 40 y are more likely to have **IBD** or Meckel's diverticulum):
 - [[crohns-disease]] / [[inflammatory-bowel-disease|IBD]]
 - NSAID ulcers
-- [[angioectasia|Angioectasias]] / vascular lesions (Dieulafoy's lesion, Osler–Weber–Rendu)
-- Small-bowel neoplasms ([[gastrointestinal-stromal-tumor|GIST]], lymphoma, carcinoid, adenocarcinoma, polypoid lesions)
+- [[angioectasia|Angioectasias]] / vascular lesions (Dieulafoy's lesion, [[hereditary-hemorrhagic-telangiectasia|Osler–Weber–Rendu]])
+- Small-bowel neoplasms ([[gastrointestinal-stromal-tumor|GIST]], lymphoma, [[gastroenteropancreatic-neuroendocrine-tumors|carcinoid]], adenocarcinoma, polypoid lesions)
 - Polyposis syndromes, radiation enteropathy, small-bowel varices, aortoenteric fistula
 
 ## Diagnostics
@@ -67,5 +67,3 @@ Other small-bowel bleeding sources to consider — with an age skew toward the y
 
 1. [[acg-2015-small-bowel-bleeding|ACG 2015: Diagnosis and Management of Small Bowel Bleeding]]
 2. [[asge-2017-small-bowel-bleeding|ASGE 2017: Role of Endoscopy in Suspected Small-Bowel Bleeding]]
-</content>
-</invoke>

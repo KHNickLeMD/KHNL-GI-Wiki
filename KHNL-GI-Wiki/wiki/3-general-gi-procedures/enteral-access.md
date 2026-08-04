@@ -3,7 +3,7 @@ title: "Enteral Access"
 category: general-procedure
 tags: [enteral-nutrition, peg, peg-j, nutrition, nasoenteric, dpej, buried-bumper]
 created: 2026-07-23
-updated: 2026-07-25
+updated: 2026-08-04
 sources: [aga-2025-endoscopic-enteral-access]
 ---
 
@@ -105,7 +105,7 @@ sources: [aga-2025-endoscopic-enteral-access]
   - Active GI bleeding from [[peptic-ulcer-disease|peptic ulcer]]
   - Hemodynamic or respiratory instability
 - **Complicate but do NOT necessarily preclude PEG:** large midline wounds, chest tubes, abdominal mesh, ostomies.
-- **NOT absolute contraindications** (but complicate siting or raise aspiration risk; anesthesia support helps): morbid obesity, large hiatal or abdominal wall hernias, peritoneal carcinomatosis, severe dysmotility, esophageal varices.
+- **NOT absolute contraindications** (but complicate siting or raise aspiration risk; anesthesia support helps): morbid [[obesity]], large hiatal or abdominal wall hernias, peritoneal carcinomatosis, severe dysmotility, esophageal varices.
 
 **Special situations:**
 - **[[ascites]]:** impairs wound healing and gastric–abdominal wall apposition → **drain via paracentesis or intraperitoneal drain**; use T-tacks to improve tract formation.

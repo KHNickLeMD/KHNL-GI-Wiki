@@ -3,7 +3,7 @@ title: "Rotavirus Gastroenteritis"
 category: disease-script
 tags: [rotavirus, viral-gastroenteritis, diarrhea, infectious-diarrhea, vaccine]
 created: 2026-05-19
-updated: 2026-07-16
+updated: 2026-08-04
 sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
 ---
 

@@ -3,7 +3,7 @@ title: "Cryptosporidiosis"
 category: disease-script
 tags: [cryptosporidium, parasitic-diarrhea, diarrhea, travelers-diarrhea, immunocompromised, nitazoxanide]
 created: 2026-05-19
-updated: 2026-07-16
+updated: 2026-08-04
 sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
 ---
 

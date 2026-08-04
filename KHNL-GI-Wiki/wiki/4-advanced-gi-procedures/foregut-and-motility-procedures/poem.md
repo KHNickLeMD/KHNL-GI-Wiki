@@ -3,7 +3,7 @@ title: "POEM (Peroral Endoscopic Myotomy)"
 category: advanced-procedure
 tags: [poem, achalasia, myotomy, motility, esophageal, foregut, gerd, egjoo]
 created: 2026-05-16
-updated: 2026-07-29
+updated: 2026-08-04
 sources: [aga-2024-poem-advances, sages-2024-poem, sages-2021-poem]
 ---
 # POEM (Peroral Endoscopic Myotomy)
@@ -43,7 +43,7 @@ Endoscopic myotomy of the lower esophageal sphincter (LES) and distal esophageal
 | Nonachalasia spastic disorders ([[distal-esophageal-spasm\|DES]], [[hypercontractile-esophagus\|hypercontractile esophagus]]) | Case-by-case only, after medical therapy / botulinum toxin / dilation exhausted (AGA 2024 BPA 3) |
 
 - POEM is **superior to pneumatic dilation and noninferior to [[heller-myotomy|LHM]]** in separate multicenter RCTs.
-- EGJOO is a **manometric finding, not a diagnosis** — must exclude mimics (obesity, hiatal hernia, [[gerd|GERD]], external compression, submucosal mass, opiates, artifact) and confirm symptomatic delayed emptying before intervention.
+- EGJOO is a **manometric finding, not a diagnosis** — must exclude mimics ([[obesity]], hiatal hernia, [[gerd|GERD]], external compression, submucosal mass, opiates, artifact) and confirm symptomatic delayed emptying before intervention.
 
 ## Technique
 
