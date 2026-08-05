@@ -3,7 +3,7 @@ title: "HIV/AIDS-Related Diarrhea"
 category: diagnostic-schema
 tags: [hiv, aids, diarrhea, opportunistic-infections, cd4, immunocompromised, stub]
 created: 2026-06-08
-updated: 2026-07-16
+updated: 2026-08-05
 sources: [acg-2016-acute-diarrhea, asge-2010-diarrhea]
 ---
 
@@ -29,15 +29,9 @@ The only directly relevant primary source currently in the wiki is the **ACG 201
 - **HIV:** suggest flexible sigmoidoscopy **or** [[colonoscopy]] when labs are nondiagnostic; if flex sig is nondiagnostic, do full colonoscopy with biopsy and/or [[upper-endoscopy|EGD]] with biopsy for persistent diarrhea. Colonoscopy has higher yield and is more cost-effective than sigmoidoscopy (39% vs 22%); yield rises with **CD4 <100** (opportunistic infections); proximal-colon biopsies capture pathogens/lymphomas beyond sigmoidoscope reach. A pathogen may be found on biopsy despite negative stool studies.
 - **GVHD** (graft-versus-host disease; post-HSCT secretory diarrhea): flexible sigmoidoscopy with **distal-colon biopsy** is the preferred initial test (distal-colon sensitivity 82–95%); add EGD with biopsies if sigmoidoscopy is negative or upper-GI symptoms predominate. Duodenal biopsy carries hematoma risk (esp. acute GVHD + thrombocytopenia).
 
-## Related Enteric Pathogen Pages (in this wiki)
-
-[[cryptosporidiosis]], [[giardiasis]], [[entamoeba-histolytica-infection]], [[clostridioides-difficile]], [[salmonella-infection]], [[shigellosis]], [[campylobacter-infection]], [[norovirus]]
-
----
-
 ## See Also
 
-[[acute-diarrhea]], [[chronic-diarrhea]], [[cryptosporidiosis]], [[nitazoxanide]], [[colonoscopy]], [[upper-endoscopy]]
+[[acute-diarrhea]], [[chronic-diarrhea]], [[cryptosporidiosis]], [[giardiasis]], [[entamoeba-histolytica-infection]], [[clostridioides-difficile]], [[salmonella-infection]], [[shigellosis]], [[campylobacter-infection]], [[norovirus]], [[nitazoxanide]], [[colonoscopy]], [[upper-endoscopy]]
 
 ---
 

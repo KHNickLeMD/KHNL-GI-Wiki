@@ -3,7 +3,7 @@ title: "Crohn's Disease"
 category: disease-script
 tags: [crohns, ibd, biologics, ileitis, colitis, perianal-fistula, stricture, fistula, anti-tnf]
 created: 2026-05-07
-updated: 2026-07-26
+updated: 2026-08-05
 sources: [acg-2025-crohns, aga-2025-crohns-pharm, aga-2021-crohns-pharm, aga-2023-biomarkers-cd, acg-2018-crohns, asge-2015-scenic-ibd-dysplasia, asge-2015-ibd, aga-2026-inpatient-ibd, aga-2026-therapeutic-endoscopy-ibd, aga-2024-intestinal-ultrasound, aga-2024-diet-nutrition-ibd, aga-2024-ibd-malignancy, aga-2024-pregnancy-gi-liver]
 ---
 
@@ -328,7 +328,7 @@ No single pathognomonic test. Diagnosis = integration of:
 | Clinical response | 2–4 weeks post-induction | Symptom improvement |
 | Objective response | 12–16 weeks | CRP, FC, endoscopy, imaging |
 | TDM (anti-TNF) | At loss of response | Trough levels + antidrug antibodies |
-| CRC surveillance | 8 years of colonic involvement; q1–2y | HD + dye-spray chromoendoscopy preferred ([[asge-2015-scenic-ibd-dysplasia|SCENIC]]) |
+| [[colorectal-cancer|CRC]] surveillance | 8 years of colonic involvement; q1–2y | HD + dye-spray chromoendoscopy preferred ([[asge-2015-scenic-ibd-dysplasia|SCENIC]]) |
 | Postoperative scope | 6–12 months | Rutgeerts score |
 
 **Symptoms do not correlate with mucosal inflammation** — always confirm with objective assessment (endoscopy, CRP, FC) before treatment decisions.
@@ -347,7 +347,7 @@ No single pathognomonic test. Diagnosis = integration of:
 
 **Malignancy risk:**
 
-- Colonic CD: [[colorectal-cancer|CRC]] risk increased (same surveillance as UC); start at 8y if >30% colonic involvement
+- Colonic CD: CRC risk increased (same surveillance as UC); start at 8y if >30% colonic involvement
 - Small bowel CD: SB adenocarcinoma risk 18× increased (absolute risk low; AGA 2024 aHR 15.8); SB neuroendocrine tumor aHR 5.5; high suspicion for abrupt symptom change
 - Anal/perianal fistulizing CD: ↑ anal SCC (2.6 vs 0.8/10,000 PY); RF = HPV, long-standing perianal disease
 - [[primary-sclerosing-cholangitis|PSC]]: CRC surveillance from diagnosis; ↑ [[cholangiocarcinoma]] (>150× vs no PSC)

@@ -3,7 +3,7 @@ title: "Helicobacter pylori Infection"
 category: disease-script
 tags: [h-pylori, peptic-ulcer, gastric-cancer, malt-lymphoma, eradication, dyspepsia, gastric, foregut]
 created: 2026-05-07
-updated: 2026-07-25
+updated: 2026-08-05
 sources: [acg-2017-hp-guidelines, acg-2024-hp-treatment, aga-2024-pcab]
 ---
 
@@ -74,7 +74,7 @@ sources: [acg-2017-hp-guidelines, acg-2024-hp-treatment, aga-2024-pcab]
 
 ### For gastritis
 
-- Autoimmune gastritis (type A; fundus-predominant; anti-parietal cell antibodies; B12 deficiency)
+- [[atrophic-gastritis|Autoimmune gastritis]] (type A; fundus-predominant; anti-parietal cell antibodies; B12 deficiency)
 - Eosinophilic gastritis
 - Lymphocytic gastritis
 - CMV gastritis (immunocompromised)

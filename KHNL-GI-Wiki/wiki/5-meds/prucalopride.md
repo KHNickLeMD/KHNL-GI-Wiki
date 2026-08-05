@@ -3,11 +3,9 @@ title: "Prucalopride"
 category: med
 tags: [prucalopride, 5-ht4-agonist, prokinetic, cic, constipation]
 created: 2026-05-19
-updated: 2026-07-16
+updated: 2026-08-05
 sources: [aga-acg-2023-constipation]
 ---
-
-*Stub.*
 
 ## Class
 

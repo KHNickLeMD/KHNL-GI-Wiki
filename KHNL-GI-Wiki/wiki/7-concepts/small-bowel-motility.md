@@ -3,13 +3,9 @@ title: "Small Bowel Motility"
 category: concept
 tags: [small-bowel, motility, mmc, migrating-motor-complex, sibo, dysmotility]
 created: 2026-05-19
-updated: 2026-07-16
+updated: 2026-08-05
 sources: [acg-2020-sibo]
 ---
-
-# Small Bowel Motility
-
-*Stub — to be expanded.*
 
 Small bowel motility is a key protective mechanism against bacterial overgrowth in the small intestine. The **migrating motor complex (MMC)** is the primary mechanism, occurring during fasting and organized into three phases:
 

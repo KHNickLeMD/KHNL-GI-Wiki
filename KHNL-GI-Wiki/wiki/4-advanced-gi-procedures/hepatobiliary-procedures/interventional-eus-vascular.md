@@ -3,8 +3,8 @@ title: "Interventional EUS for Vascular Investigation and Therapy"
 category: advanced-procedure
 tags: [eus, gastric-varices, coil-embolization, cyanoacrylate, eus-ppg, portal-pressure-gradient, portal-vein-sampling, pseudoaneurysm, splenic-artery-embolization, rectal-varices, portal-hypertension]
 created: 2026-07-23
-updated: 2026-08-04
-sources: [aga-2023-interventional-eus-vascular]
+updated: 2026-08-05
+sources: [aga-2023-interventional-eus-vascular, wang-2026-eus-ppg-delphi-consensus]
 ---
 
 # Interventional EUS for Vascular Investigation and Therapy
@@ -19,6 +19,7 @@ sources: [aga-2023-interventional-eus-vascular]
 - [[#EUS-Guided Portal Pressure Gradient (EUS-PPG)]]
   - [[#Technique — EUS-PPG]]
   - [[#Indications and evidence]]
+  - [[#Best-practice consensus (Wang 2026 Delphi)]]
 - [[#EUS-Guided Portal Vein Sampling]]
 - [[#Emerging Interventions]]
 - [[#Experimental]]
@@ -102,6 +103,34 @@ sources: [aga-2023-interventional-eus-vascular]
 
 **Evidence:** first human 2014; 28-patient series — excellent correlation between EUS-PPG and endoscopic findings of portal hypertension in suspected cirrhosis; 64-patient retrospective series with concurrent liver biopsy — excellent correlation with **histologic fibrosis stage**, clinical portal hypertension, thrombocytopenia, splenomegaly, **APRI >2**, and **FIB-4 >3.25**, with **no reported adverse events**; 83-patient series — correlated with thrombocytopenia and varices, again no AEs.
 
+### Best-practice consensus (Wang 2026 Delphi)
+
+International expert modified-Delphi consensus (53 statements) on how to perform EUS-PPG accurately and safely ([[wang-2026-eus-ppg-delphi-consensus]]). Statement numbers cited in brackets.
+
+**Indications (S1–5):**
+- Include **all indications for [[hepatic-venous-pressure-gradient|HVPG]]** (S1); EUS-PPG correlates well with clinical PH markers — varices, portal hypertensive gastropathy, thrombocytopenia (S2).
+- **Preferred over HVPG when a presinusoidal cause of PH is suspected** (S3, 95% agreement) — HVPG (wedged pressure) underestimates presinusoidal PH; likewise favored for suspected noncirrhotic PH and [[nafld-masld|MASH]], where true portal pressure is better captured directly.
+- **"One-stop-shop":** favored over HVPG when the patient has another EGD/EUS indication (S4) — same session combines variceal-screening EGD to document PH sequelae (S8), EUS liver survey to map targets and rule out [[portal-vein-thrombosis|PVT]] (S9), same-session EUS [[liver-biopsy|liver biopsy]] (safe, S10), and PPG.
+
+**Pre-procedure:**
+- **Anesthesia:** monitored anesthesia care or general anesthesia to minimize movement (S13); keep anesthesia at steady state — avoid boluses during measurements (S41–43).
+- **Coagulation (S11):** **no specific platelet or INR cutoff** can be recommended — these poorly reflect procedural bleeding risk in [[cirrhosis]]; where available, **TEG/TEM** better predicts bleeding risk. (Departs from the platelet <50 K / INR >2.0 thresholds used for other EUS procedures.)
+- **Ascites:** avoid with tense/massive ascites; reasonable in grade 1–2, consider pre-procedural large-volume paracentesis if feasible (S6, S12).
+
+**Intra-procedure protocol (S18–43):**
+
+| Step | Best practice |
+|---|---|
+| Zero & flush | Zero manometer to **atmospheric pressure** before setup (S18); center it at the **right atrium** level (mid-axillary line supine) and fixate it (S15, S22). Once zeroed, flush the entire device with **heparinized or normal saline, taking great care to avoid air bubbles** (S21) |
+| Access route | **Transgastric approach through liver parenchyma** — parenchymal tract provides **tamponade** on needle withdrawal (S23–24); transduodenal occasionally required. Use Doppler to identify hepatic/portal branches (S25) |
+| Ideal targets | Hepatic vein: **left + middle hepatic veins** (S26). Portal vein: **umbilical portion of the left portal vein** (S28). If the hepatic vein is not accessible, the **intrahepatic portion of the IVC** is a reasonable alternative (S30) |
+| Reproducibility | **≥3 sequential measurements per target, within ≤2 mmHg of each other; report the mean** (S31). After each flush, reading should peak, drop, then **plateau ≥10 s within a ≤1 mmHg range** (S32); do not touch the syringe plunger during readings (S33). **Repeat if it takes >60 s to stabilize** (S34); re-access if discrepancies arise (S39) |
+| Steady state | Keep needle intravascular and away from the vessel wall (S36); hold IV fluids and anesthesia at steady state — repeat under stable conditions if they change (S37–38, S41–43) |
+
+**Safety:** aggregate adverse events **<1%**, most common = post-procedural pain (S7). Largest series (n=385) reported **zero bleeding events** despite no platelet/INR exclusion, including 226 (58.7%) with same-session EUS liver biopsy.
+
+**Correlation with HVPG:** ICC 0.82; ENCOUNTER trial r=0.74 overall, and **r=0.91 vs direct transjugular portal pressure in post-[[tips|TIPS]] patients**. (Open caveat: propofol general anesthesia depresses HVPG vs no sedation — anesthesia effect on absolute EUS-PPG values is unstudied.)
+
 ## EUS-Guided Portal Vein Sampling
 
 - The portal circulation carries venous drainage of the entire GI tract and ~**70% of vascular input to the liver**; portal blood may be enriched with metabolites, tumor cells, and xenobiotics filtered out by the liver before reaching peripheral blood.
@@ -135,10 +164,11 @@ sources: [aga-2023-interventional-eus-vascular]
 
 ## See Also
 
-[[endoscopic-ultrasound]], [[variceal-upper-gi-bleeding]], [[portal-hypertension]], [[tips]], [[cirrhosis]], [[liver-biopsy]], [[portal-vein-thrombosis]], [[eus-guided-gallbladder-drainage]]
+[[endoscopic-ultrasound]], [[variceal-upper-gi-bleeding]], [[portal-hypertension]], [[hepatic-venous-pressure-gradient]], [[tips]], [[cirrhosis]], [[liver-biopsy]], [[portal-vein-thrombosis]], [[eus-guided-gallbladder-drainage]]
 
 ---
 
 ## Sources
 
 1. [[aga-2023-interventional-eus-vascular|AGA 2023 Clinical Practice Update on Interventional EUS for Vascular Investigation and Therapy]]
+2. [[wang-2026-eus-ppg-delphi-consensus|International Expert Delphi Consensus on EUS-guided Portosystemic Pressure Gradient: Best Practices and Future Directions (2026)]]

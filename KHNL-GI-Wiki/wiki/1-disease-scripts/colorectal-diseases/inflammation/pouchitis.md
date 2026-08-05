@@ -3,7 +3,7 @@ title: "Pouchitis"
 category: disease-script
 tags: [pouchitis, ipaa, j-pouch, ulcerative-colitis, ibd, cuffitis, crohns-like-disease-of-the-pouch, antibiotics, probiotics, biologics]
 created: 2026-06-04
-updated: 2026-08-02
+updated: 2026-08-05
 sources: [aga-2024-pouchitis, aga-2020-probiotics, asge-2015-ibd]
 ---
 
@@ -79,7 +79,7 @@ Pragmatic, treatment-anchored definitions (AGA 2024, Table 5):
 ### Prevention
 - **Primary prevention — probiotics:** *No recommendation* (knowledge gap).
 - **Primary prevention — antibiotics:** *Suggested against* (very low certainty).
-- **Secondary prevention (after antibiotic-responsive recurrence) — [[probiotics]]:** *Suggested.* The **De Simone (8-strain) formulation** was used in the prevention trials. See [[probiotics]] ([[aga-2020-probiotics]]).
+- **Secondary prevention (after antibiotic-responsive recurrence) — [[probiotics]]:** *Suggested.* The **De Simone (8-strain) formulation** was used in the prevention trials ([[aga-2020-probiotics]]).
 
 ### Treatment by Subtype
 

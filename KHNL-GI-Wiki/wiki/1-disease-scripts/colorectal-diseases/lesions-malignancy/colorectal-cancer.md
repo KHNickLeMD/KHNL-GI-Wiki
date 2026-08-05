@@ -3,7 +3,7 @@ title: "Colorectal Cancer"
 category: disease-script
 tags: [crc, colorectal-cancer, adenocarcinoma, oncology, screening, surveillance, post-resection, metachronous, rectal-cancer]
 created: 2026-05-19
-updated: 2026-07-30
+updated: 2026-08-05
 sources: [acg-2015-hereditary-gi-cancer, usmstf-2015-crc-surveillance, usmstf-2016-fit-screening, acg-2021-crc-screening, nccn-2026-colon-cancer, asge-2013-crc-staging-management, aga-2025-endoscopic-resection-crc]
 ---
 
@@ -19,8 +19,8 @@ sources: [acg-2015-hereditary-gi-cancer, usmstf-2015-crc-surveillance, usmstf-20
 
 ### Severity Assessment / Staging
 
-- TNM 8th edition
-- Stage I–IV; LN status drives adjuvant therapy
+- **TNM 8th edition (AJCC)**; Stage I–IV; **LN (N) status drives adjuvant therapy** (stage III and high-risk stage II)
+- ⚠ *Full T/N/M component definitions, stage-group cutoffs, and the IDEA low- vs high-risk stratification (referenced under Therapeutics) are not reproduced in the ingested [[nccn-2026-colon-cancer]] capture — flagged, not filled from outside sources.*
 
 ## Differential Diagnosis
 

@@ -3,7 +3,7 @@ title: "Tacrolimus"
 category: med
 tags: [tacrolimus, fk506, calcineurin-inhibitor, immunosuppression, transplant, liver-transplant, nephrotoxicity, diabetes, extended-release]
 created: 2026-05-19
-updated: 2026-07-16
+updated: 2026-08-05
 sources: [aasld-2012-liver-transplant-long-term, aasld-ast-2025-liver-transplant-graft-complications]
 ---
 
@@ -57,7 +57,7 @@ CYP3A4 substrate — major interactions:
 - Calcium channel blockers (diltiazem, verapamil)
 - Grapefruit juice
 - Amiodarone, danazol, [[proton-pump-inhibitors|proton pump inhibitors]]
-- Nirmitrelavir/ritonavir (Paxlovid) — dramatic increase; requires dose adjustment
+- Nirmatrelvir/ritonavir (Paxlovid) — dramatic increase; requires dose adjustment
 
 **Decrease TAC levels (CYP3A4 inducers):**
 

@@ -13,7 +13,7 @@ tags:
   - surveillance
   - autoimmune-gastritis
 created: 2026-05-07
-updated: 2026-07-25
+updated: 2026-08-05
 sources:
   - acg-2025-gastric-premalignant
 ---
@@ -155,7 +155,7 @@ Gastric adenocarcinoma
 
 ### GC Screening (For Reference)
 
-- **Against** routine [[upper-endoscopy|upper endoscopy]] GC/GPMC screening in general US population (Conditional/Very low)
+- **Against** routine [[upper-endoscopy|upper endoscopy]] [[gastric-cancer-screening|GC/GPMC screening]] in general US population (Conditional/Very low)
 - **Insufficient evidence** for opportunistic screening in high-risk groups — no formal recommendation
 - **Key concept (individualized):** Consider screening in:
   - Family Hx GC: start EGD at age 45–60 or 10y before youngest affected family member
@@ -213,7 +213,7 @@ Gastric adenocarcinoma
 
 ## See Also
 
-[[helicobacter-pylori-infection]], [[atrophic-gastritis]], [[gastric-intestinal-metaplasia]], [[gastric-polyps]], [[gastric-adenocarcinoma]], [[upper-endoscopy]]
+[[helicobacter-pylori-infection]], [[atrophic-gastritis]], [[gastric-intestinal-metaplasia]], [[gastric-polyps]], [[gastric-adenocarcinoma]], [[gastric-cancer-screening]], [[upper-endoscopy]]
 
 ---
 

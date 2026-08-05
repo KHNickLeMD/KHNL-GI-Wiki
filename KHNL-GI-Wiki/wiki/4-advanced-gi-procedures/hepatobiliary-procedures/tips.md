@@ -3,8 +3,8 @@ title: "TIPS (Transjugular Intrahepatic Portosystemic Shunt)"
 category: advanced-procedure
 tags: [tips, portal-hypertension, variceal-bleeding, refractory-ascites, hepatic-encephalopathy, pspg, ptfe-stent, rto, brto, interventional-radiology]
 created: 2026-07-16
-updated: 2026-07-16
-sources: [aasld-2024-tips, aasld-2021-ascites-sbp-hrs, aga-2025-ascites-cirrhosis, aasld-2021-vascular-pvt]
+updated: 2026-08-05
+sources: [aasld-2024-tips, aasld-2021-ascites-sbp-hrs, aga-2025-ascites-cirrhosis, aasld-2021-vascular-pvt, wang-2026-eus-ppg-delphi-consensus]
 ---
 
 *Percutaneously created portosystemic shunt for complications of [[portal-hypertension|portal hypertension]] — [[variceal-upper-gi-bleeding|variceal hemorrhage]], refractory [[ascites|ascites]], and hepatic hydrothorax. Placed by interventional radiology, not endoscopically; included here because selection, timing, and post-procedure management are hepatology/GI decisions. Evidence below is AASLD **Practice Guidance** — consensus guidance statements from an expert panel, **not GRADE-rated recommendations** ([[aasld-2024-tips]]).*
@@ -103,6 +103,7 @@ sources: [aasld-2024-tips, aasld-2021-ascites-sbp-hrs, aga-2025-ascites-cirrhosi
 - PSPG **≥12 mm Hg** after TIPS → **35%** risk of recurrent portal hypertension complications at 2 years vs **<5%** if <12 mm Hg; PSPG >12 at any point in follow-up → **8.5-fold** increase in recurrence rate
 - Lower PSPG cuts bleeding but raises HE and liver dysfunction — the target must be **individualized by indication and patient profile**
 - If PSPG does not fall below 12 mm Hg despite maximum dilation (10 mm), **add NSBBs** (may reduce portal pressure a further **20–25%**)
+- In post-TIPS patients, **[[interventional-eus-vascular|EUS-PPG]]** correlated strongly with **direct transjugular portal pressure (r=0.91)** — an emerging noninvasive alternative for shunt hemodynamic assessment ([[wang-2026-eus-ppg-delphi-consensus]])
 
 ## Complications
 
@@ -226,4 +227,5 @@ Priority research areas named by [[aasld-2024-tips]]: optimal intraprocedural PS
 2. [[aasld-2021-ascites-sbp-hrs|AASLD 2021: Diagnosis, Evaluation, and Management of Ascites, SBP, and HRS in Cirrhosis]]
 3. [[aga-2025-ascites-cirrhosis|AGA Clinical Practice Update on the Management of Ascites, Volume Overload, and Hyponatremia in Cirrhosis: Expert Review]]
 4. [[aasld-2021-vascular-pvt|AASLD Practice Guidance: Vascular Liver Disorders, Portal Vein Thrombosis, and Procedural Bleeding in Cirrhosis (2021)]]
+5. [[wang-2026-eus-ppg-delphi-consensus|International Expert Delphi Consensus on EUS-guided Portosystemic Pressure Gradient: Best Practices and Future Directions (2026)]]
 

@@ -3,8 +3,8 @@ title: "Jaundice"
 category: diagnostic-schema
 tags: [jaundice, hyperbilirubinemia, cholestasis, hemolysis, biliary-obstruction, conjugated, unconjugated]
 created: 2026-06-04
-updated: 2026-07-16
-sources: []
+updated: 2026-08-05
+sources: [acg-2017-liver-chemistries]
 ---
 
 ## Definition / Scope
@@ -23,7 +23,7 @@ Conjugated cases are then split by the **R-ratio / pattern of liver enzymes** in
 ### Unconjugated (Indirect) Hyperbilirubinemia
 
 - **Hemolysis** — hereditary (G6PD deficiency, spherocytosis, sickle cell) or acquired (autoimmune, microangiopathic); check haptoglobin, LDH, reticulocytes, smear
-- **Gilbert syndrome** — common, benign; mild unconjugated rise with fasting/illness; normal enzymes and CBC
+- **Gilbert syndrome** — common (3–7% of population), benign; mild unconjugated rise with fasting/illness; **total bilirubin <4 mg/dL** with normal enzymes and CBC → presumptive diagnosis, no further workup
 - **Crigler-Najjar** (rare), ineffective erythropoiesis, resorption of large hematoma
 - Neonatal/physiologic jaundice (distinct pediatric pathway)
 
@@ -104,3 +104,9 @@ flowchart TD
 ## See Also
 
 [[abnormal-liver-chemistries]], [[choledocholithiasis]], [[biliary-stricture]], [[cholangiocarcinoma]], [[pancreatic-cancer]], [[gallbladder-cancer]], [[primary-biliary-cholangitis]], [[primary-sclerosing-cholangitis]], [[drug-induced-liver-injury]], [[autoimmune-hepatitis]], [[alcohol-associated-liver-disease]], [[hepatitis-c]], [[chronic-hepatitis-b]], [[wilson-disease]], [[nafld-masld]], [[acute-liver-failure]], [[hepatic-encephalopathy]], [[liver-transplantation]], [[chronic-pancreatitis]], [[ercp]], [[endoscopic-ultrasound]], [[mri-mrcp]], [[liver-biopsy]], [[liver-disease-in-pregnancy]]
+
+---
+
+## Sources
+
+1. [[acg-2017-liver-chemistries|ACG 2017: Evaluation of Abnormal Liver Chemistries]]

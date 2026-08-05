@@ -6,6 +6,59 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-08-05] ingest | EUS-PPG International Expert Delphi Consensus (Wang 2026, CGH) — 53 statements; new HVPG concept page; 4 entity pages updated
+
+**Source created:**
+- `[[wang-2026-eus-ppg-delphi-consensus]]` — International Expert Delphi Consensus on EUS-guided Portosystemic Pressure Gradient: Best Practices and Future Directions (Wang TJ, Chang K, Rubin RA, et al. *Clin Gastroenterol Hepatol* 2026; DOI 10.1016/j.cgh.2025.12.007; © 2025 AGA Institute). Tier-1 consensus. All **53 consensus statements** reproduced verbatim/near-verbatim, grouped by domain (indications, pre-procedure, intra-procedure technique, future research) with % agreement / Likert scores; Round-2 revisions annotated. Arrived via inbox sync (`raw/GI Guidelines/Other/`); was uningested.
+
+**New page created (resolves a would-be broken link):**
+- `[[hepatic-venous-pressure-gradient]]` (7-concepts) — the Wang source links `[[hepatic-venous-pressure-gradient|HVPG]]` and no page existed. Built ONLY from already-ingested `[[baveno-vii-2022-portal-hypertension]]` + `[[aasld-2023-portal-hypertension]]`: definition (WHVP−FHVP), balloon-occlusion technique, interpretation ladder (normal 1–5; >5 sinusoidal PH; ≥10 CSPH; ≥12 variceal bleeding; ≥16/≥20 prognostic), limitations → EUS-PPG segue. Classic "≥20%/<12 mmHg" HVPG-response cutoff deliberately NOT invented (not in ingested material; noted "not established" per Baveno 3.6).
+
+**Entity pages updated (all cite `[[wang-2026-eus-ppg-delphi-consensus]]`):**
+- `[[interventional-eus-vascular]]` (primary technique home) — new best-practice consensus subsection: indications (S1–5), MAC/GA (S13), no platelet/INR cutoff → TEG/TEM (S11), recreated intra-procedure protocol table (zero-to-atmosphere + heparinized-saline flush S18/S21; transgastric-through-parenchyma tamponade S23–24; ideal targets left+middle hepatic veins / umbilical left portal vein / intrahepatic-IVC fallback S26/S28/S30; reproducibility ≥3 within ≤2 mmHg report mean, plateau ≥10 s within ≤1 mmHg, repeat if >60 s S31–34), safety <1% AE, HVPG correlation (ICC 0.82; r=0.91 post-TIPS).
+- `[[portal-hypertension]]`, `[[endoscopic-ultrasound]]`, `[[tips]]` — concise sourced EUS-PPG notes (one-home rule; technique not duplicated).
+
+**Index/log:** index source entry + HVPG concept entry added; per-page source counts bumped (interventional-eus-vascular 1→2, endoscopic-ultrasound stale 4→7, portal-hypertension 5→6, tips 4→5).
+
+**Gap flagged:** Supplementary Fig 1 (intra-procedure checklist) lives in online supplementary material, not the main-article PDF → cannot be cropped from the ingested file.
+
+---
+
+## [2026-08-05] lint | Parallel 4-batch link/decision-gap sweep + EUS-PPG ingest; jaundice source-attributed; UCEIS band + Cowden interval + Gilbert threshold fixed; 2 stub expansions (fmt, heller-myotomy); 0 broken links / 0 orphans
+
+**Parallel processing:** 4 fan-out lint subagents with disjoint folder ownership (colorectal+anorectal; foregut+gastric+SB+panc+other; hepatology+diagnostic-schemas; meds+procedures+concepts+syntheses) + 1 ingest subagent + 1 propagation subagent. Each edited only its owned pages; shared files (`index.md`, `log.md`) serialized centrally by the orchestrator.
+
+**Ingest status:** ONE new tier-1 source ingested this pass — see the `ingest` entry above (Wang 2026 EUS-PPG consensus). Backlog otherwise remains CLEARED; only gated lecture/chalk-talk transcripts uningested (NOT auto-ingested — awaiting user selection by name). A HEIC algorithm image also arrived (see hygiene).
+
+**Stalest-page validation (6 pages, 07-16/07-17):**
+- `[[jaundice]]` — was decision-sufficient but had empty `sources:`; attributed backing `[[acg-2017-liver-chemistries]]` (R-ratio framework faithfully matches) + added `## Sources`; added sourced Gilbert threshold (total bilirubin <4 mg/dL → presumptive, no workup). `updated:` bumped.
+- `[[focal-liver-lesions]]`, `[[prucalopride]]`, `[[probiotics]]`, `[[tacrolimus]]`, `[[reflux-testing]]` — validated decision-sufficient/source-faithful; `tacrolimus` fixed a drug-name typo (Nirmitrelavir→Nirmatrelvir).
+
+**Decision-gap fixes (from ingested sources only):**
+- `[[ulcerative-colitis]]` — added dropped **UCEIS severity-band row** (0–1 remission / 2–4 mild / 5–7 moderate / 7–8 severe) to the ACG UC Activity Index table from `[[acg-2025-uc]]` Table 4 (closes the "UCEIS ≥7" reference gap).
+- `[[cowden-syndrome]]` — replaced vague "interval by polyp burden" with sourced **every-2-years** colonoscopy interval (`[[acg-2015-hereditary-gi-cancer]]`).
+- `[[jaundice]]` — Gilbert threshold (above).
+
+**Stub expansions (2, at cap; from ingested sources):**
+- `[[fmt]]` — stub → Overview / Indications + AGA 2024 recommendations table (7 recs w/ immune-status gates) / Place in Therapy, from `[[aga-2024-fmt]]`.
+- `[[heller-myotomy]]` — stub → Efficacy / Selection-vs-POEM / Salvage-Sequencing, from `[[acg-2020-achalasia]]` + `[[sages-2024-poem]]`.
+
+**Stale stub markers cleared (content already sourced-complete):** `[[prucalopride]]`, `[[linaclotide]]`, `[[plecanatide]]`, `[[small-bowel-motility]]`, `[[brca-pathogenic-variants]]`. Index `(stub)` tags removed for these + fmt + heller-myotomy (7 total).
+
+**Page-local fixes (~13 pages):** `[[crohns-disease]]` (CRC first-mention link relocation), `[[pouchitis]]` (dup probiotics link), `[[hiv-aids-related-diarrhea]]` (non-standard `## Related` heading folded into `## See Also`), `[[gastric-premalignant-conditions]]` + `[[helicobacter-pylori-infection]]` (inline links), plus See-Also/one-link-per-entity hygiene. No XML corruption found this pass.
+
+**Health check:** **0 broken wiki-links** (checker verified after edits; table-escaped `\|` pipes and `#section` anchors resolve), **0 orphan pages**, no OS artifacts, no scratch files.
+
+**Remaining for user triage:**
+- **Corpus-blocked decision gaps** (each needs a specific score's/guideline's original paper ingested — never filled from memory): ABIC/GAHS component points (ALD); GERD **LA A–D** + Hill I–IV + AFS grade (`acg-2021-gerd` omits criteria → needs LA classification paper); Siewert types + TNM (esophageal/CRC — NCCN license); **Cambridge** ductal-morphology grade (chronic-pancreatitis, NEW); Ho index (toxic-megacolon); Tokyo TG18 (acute-cholecystitis); CTSI cutoff; gallbladder-cancer re-resection T-stage; Beighton score (hEDS); Truelove-Witts numeric cutpoints (UC — ACG uses its own Activity Index).
+- **2 uncited diagnostic schemas** — `[[dysphagia]]`, `[[nausea-and-vomiting]]` carry decision-sufficient content but empty `sources:`; no single faithful backer confidently identified → left for user attribution (not over-attributed).
+- **Stubs expandable next pass** (reported, cap hit): `[[tegaserod]]`, `[[alosetron]]` (→`acg-2020-ibs`). Corpus-blocked stubs: `glp-2-agonists`, `bariatric-surgery`, `argon-plasma-coagulation`, `bile-acid-diarrhea` (only gated diarrhea chalk talks would cover it), `rectal-prolapse`, `microscopic-colitis` (Therapeutics).
+- **Missing pages flagged** (need a backing source): Zollinger-Ellison/gastrinoma, gastric MALT lymphoma, Ménétrier's, SMA syndrome, classification homes (los-angeles-classification, siewert-classification, hill-grade, beighton-score), dermatitis-herpetiformis, IgG4-related disease, rituximab, dieulafoy-lesion, paracentesis, acute-abdominal-pain schema (would give acute-pancreatitis its DDx pointer). `[[esophageal-adenocarcinoma]]` is a partial stub expandable from ingested Barrett's/NCCN sources next pass.
+- **New HEIC image** — `raw/assets/Algorithm for Management of Acute Gastric Variceal Bleeding.HEIC` committed as raw source; **could not be converted to PNG or embedded** — ImageMagick `convert` requires an approval not granted in this environment and no other HEIC→PNG tool is installed. Needs conversion + embedding on `[[variceal-upper-gi-bleeding]]`/`[[portal-hypertension]]` once tooling is available.
+- **Gated lectures** — transcripts await user selection by name before ingest.
+
+---
+
 ## [2026-08-04] lint | Parallel folder-batch link/decision-gap sweep; givosiran+hemin stub markers cleared; gastric-adenocarcinoma T1a-resection gap fixed; Meckel's XML-corruption removed; 0 broken links / 0 orphans
 
 **Ingest status (nothing ingested — correct per rules):**

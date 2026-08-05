@@ -3,7 +3,7 @@ title: "Toxic Megacolon"
 category: disease-script
 tags: [toxic-megacolon, colitis, cdiff, ibd, ulcerative-colitis, asuc, surgical-emergency]
 created: 2026-07-26
-updated: 2026-08-02
+updated: 2026-08-05
 sources: [acg-2025-uc, acg-2021-cdiff]
 ---
 
@@ -59,7 +59,7 @@ Toxic megacolon sits at the severe end of two underlying-disease severity framew
 
 **Predictors of steroid failure / colectomy in ASUC** (drive escalation timing):
 - **Oxford (Travis) index:** >8 BM on day 3 of IVCS, **OR** 3–8 BM + CRP >45 mg/L → ~85% colectomy rate.
-- **Ho index:** integrates BM frequency + colonic dilation + hypoalbuminemia.
+- **Ho index:** integrates BM frequency + colonic dilation + hypoalbuminemia. *(Component point values / colectomy-risk cut-point are not reproduced in the ingested sources — flagged, not filled.)*
 - Additional: **ESR >75 mm/hr**, **temp >38 °C**, hypoalbuminemia, **UCEIS ≥7** (higher PPV for colectomy than MES 3), deep colonic ulceration on endoscopy.
 
 ## Differential Diagnosis

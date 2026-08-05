@@ -1,7 +1,7 @@
 ---
 title: "Wiki Index"
 category: index
-updated: 2026-08-04
+updated: 2026-08-05
 ---
 
 # KHNL GI Encyclopedia — Master Index
@@ -147,7 +147,7 @@ updated: 2026-08-04
 - [[intrahepatic-cholestasis-of-pregnancy]] — ICP: ADDT — pruritus + serum bile acids >10 μmol/L (dx), UDCA 10–15 mg/kg/d, bile-acid-stratified delivery timing (≥100 → 35–36 wk); leading cause of pregnancy pruritus (1 source)
 - [[acute-fatty-liver-of-pregnancy]] — AFLP: ADDT — rare 3rd-trimester microvesicular steatosis/liver failure; Swansea criteria; prompt delivery + transplant evaluation; DDx vs HELLP (1 source)
 - [[cirrhosis]] — Cirrhosis: ADDT — F4 fibrosis; NILDA-first diagnosis (biopsy imperfect reference, AUROC ceiling ~0.9); compensated vs decompensated; severity scores compared (CTP/MELD-Na/Mayo/VOCAL-Penn variable table), low-risk band MELD 6–9 + CTP 5–6 without CSPH; ACLF scores over MELD in critical illness; complication map; treat the underlying disease; nutrition/frailty/sarcopenia; hemostasis + periprocedural; perioperative risk; palliative care; transplant referral (9 sources)
-- [[portal-hypertension]] — Portal hypertension: ADDT — HVPG (gold standard; ≥16 non-hepatic surgery risk, >20 pre-emptive TIPS), cACLD/CSPH noninvasive staging ("Rule of Five" figure + spleen-stiffness cutoffs), carvedilol preferred NSBB (6.25–12.5 mg/day), primary prophylaxis (NSBB or EVL), AVH management (preemptive TIPS for CTP B>7/C 10–13), recompensation criteria, secondary prophylaxis, gastric/ectopic varices (ECI/TIPS/BRTO), PHG management (5 sources)
+- [[portal-hypertension]] — Portal hypertension: ADDT — HVPG (gold standard; ≥16 non-hepatic surgery risk, >20 pre-emptive TIPS), cACLD/CSPH noninvasive staging ("Rule of Five" figure + spleen-stiffness cutoffs), carvedilol preferred NSBB (6.25–12.5 mg/day), primary prophylaxis (NSBB or EVL), AVH management (preemptive TIPS for CTP B>7/C 10–13), recompensation criteria, secondary prophylaxis, gastric/ectopic varices (ECI/TIPS/BRTO), PHG management (6 sources)
 - [[portal-vein-thrombosis]] — PVT/MVT: ADDT — noncirrhotic (thrombophilia workup: JAK2/FVL/APLS) vs. cirrhotic PVT, anticoagulate all acute symptomatic noncirrhotic + complete/extending cirrhotic PVT (Strong/Low), LMWH/VKA/DOAC, NSBBs + AC for variceal prophylaxis, TIPS for recanalization; Yerdel grade IV PVT = relative (not absolute) LT contraindication per AASLD/AST 2025; AGA 2025 cirrhotic-PVT stratification (recent <6mo >50%/main-PV/mesenteric → AC; ischemia → urgent AC; chronic cavernoma → no AC) + CTP-class anticoagulant table + PVR-TIPS; Baveno VII standardized nomenclature + PSVD coexistence (5 sources)
 - [[acute-on-chronic-liver-failure]] — ACLF: ADDT — 3 definitions (NACSELD/EASL-CLIF/APASL), ACLF-specific scores over MELD (GS 2), organ-specific management (brain/CV/respiratory/renal/infection/nutrition), terlipressin contraindicated in ACLF-3, protein restriction never indicated, LT candidacy criteria, futility threshold (CLIF-C>70/lactate>9), palliative care mandatory (51 guidance statements) (1 source)
 - [[budd-chiari-syndrome]] — Budd-Chiari: ADDT — hepatic venous outflow obstruction (primary vs secondary/extrinsic per Baveno VII), MPN/JAK2 most common etiology (40–50%), caudate hypertrophy, stepwise management (AC → angioplasty → TIPS → LT), BCS-TIPS prognostic index >7 → LT before TIPS, ALF → urgent LT + emergency TIPS, avoid UFH (HIT), HCC surveillance q6mo regardless of fibrosis (2 sources)
@@ -180,7 +180,7 @@ updated: 2026-08-04
 - [[chronic-diarrhea]] — Chronic diarrhea (>4 wk): watery/inflammatory/fatty + secretory/osmotic classification, stool osmotic gap, calprotectin-guided algorithm, microscopic colitis/bile acid diarrhea/celiac/EPI workup, positive IBS-D diagnosis, role of endoscopy (ASGE 2010) (1 source)
 - [[nausea-and-vomiting]] — Nausea & vomiting: vs regurgitation/rumination, acute vs chronic, GI/CNS/metabolic/functional DDx, mandatory pregnancy test, EGD + 4-hr gastric emptying for gastroparesis, CVS/CHS recognition (0 sources)
 - [[abdominal-bloating-and-distention]] — Belching (gastric vs supragastric vs aerophagia), bloating vs distention, Rome IV criteria, symptom-driven workup (2-wk diet trial, celiac serology, anorectal testing), neuromodulator/behavioral therapy, probiotics not recommended, APD (1 source)
-- [[jaundice]] — Jaundice: bilirubin fractionation (unconjugated/conjugated), hemolysis vs Gilbert, R-ratio hepatocellular vs cholestatic, RUQ US → MRCP/EUS/ERCP for biliary dilation, cholangitis/painless-jaundice red flags (0 sources)
+- [[jaundice]] — Jaundice: bilirubin fractionation (unconjugated/conjugated), hemolysis vs Gilbert, R-ratio hepatocellular vs cholestatic, RUQ US → MRCP/EUS/ERCP for biliary dilation, cholangitis/painless-jaundice red flags (1 source)
 - [[dyspepsia]] — Dyspepsia: ACG/CAG 2017 — age ≥60 → EGD (raised from ≥55); age <60 → H. pylori test-and-treat (Strong/High) → PPI → TCA/prokinetic → psychotherapy; alarm features alone have low PPV; FD subtypes (PDS/EPS) not response-predictive; SSRIs ineffective (1 source)
 - [[laryngopharyngeal-symptoms]] — LPS vs. LPRD: San Diego Consensus algorithm — laryngoscopy → esophageal symptom bifurcation → EGD/pH-impedance/wireless pH; laryngeal hyperresponsiveness; LRT; neuromodulators (2 sources)
 - [[extraesophageal-reflux]] — EER umbrella (laryngitis, chronic cough, asthma, dental erosions): no single test proves GER causation, 50–60% aren't GERD; test-before-PPI without typical symptoms; PPI response ≠ diagnosis; one 12-wk trial → objective testing; on-therapy pH-impedance for refractory; surgery only with objective GERD (2 sources)
@@ -222,7 +222,7 @@ updated: 2026-08-04
 
 - [[high-resolution-manometry]] — HRM: Chicago v4.0 protocol, manufacturer-specific IRP thresholds, key metrics (IRP/DCI/peristaltic integrity), pre-ARS mandatory (stub)
 - [[poem]] — POEM: preprocedure workup (endoscopy/TBE/HRM/FLIP), achalasia type-driven myotomy (Type III preferred, tailored long myotomy), EGJOO/spastic disorders case-by-case only, single-dose antibiotics, anterior=posterior tunnel, post-POEM reflux (acid exposure 41–56%, ¼ asymptomatic) + surveillance, same-day discharge, failed-myotomy POEM 62% vs PD 27%; G-POEM for gastroparesis (AGA 2024 CPU) (3 sources)
-- [[heller-myotomy]] — Laparoscopic Heller myotomy (LHM) + partial fundoplication for achalasia; surgical alternative to POEM/PD; built-in anti-reflux wrap → less post-op GERD than POEM (stub)
+- [[heller-myotomy]] — Laparoscopic Heller myotomy (LHM) + partial fundoplication for achalasia; surgical alternative to POEM/PD; built-in anti-reflux wrap → less post-op GERD than POEM (2 sources)
 - [[endoscopic-submucosal-dissection]] — ESD: en-bloc endoscopic resection for early GI neoplasia (esophageal/gastric/colorectal) (stub)
 - [[flip-panometry]] — FLIP Panometry v2.0: 16-cm EndoFLIP protocol, EGJ Opening (REO/NEO) × Contractile Response → 6-class motility matrix; Normal = high NPV for achalasia; Non-spastic Obstruction = EGJOO equivalent; AGA 2025 indications/use (EGD first, not for GERD, intraprocedural myotomy) (2 sources)
 - [[anorectal-manometry]] — HR-ARM + BET: dyssynergic defecation types I–IV, RAIR, sphincter assessment for fecal incontinence, pre-op evaluation (stub)
@@ -239,16 +239,16 @@ updated: 2026-08-04
 ### Hepatobiliary Procedures
 
 - [[ercp]] — ERCP: choledocholithiasis/cholangitis indications, difficult-stone techniques (EPLBD, cholangioscopy lithotripsy), biliary stricture sampling/drainage (FCSEMS), bile leaks, SOD typing, post-ERCP pancreatitis prevention, altered-anatomy access (6 sources)
-- [[endoscopic-ultrasound]] — EUS quality standards: indications, FNA diagnostic yield, interventional EUS technical success, AE benchmarks; mediastinal adenopathy / lung-cancer staging (EUS vs EBUS stations, combined-modality NPV, lymphoma sampling) (4 sources)
+- [[endoscopic-ultrasound]] — EUS quality standards: indications, FNA diagnostic yield, interventional EUS technical success, AE benchmarks; mediastinal adenopathy / lung-cancer staging (EUS vs EBUS stations, combined-modality NPV, lymphoma sampling) (7 sources)
 - [[cholangioscopy]] — Direct endoscopic biliary visualization with targeted biopsy during ERCP (1 source)
-- [[tips]] — TIPS: physiological effects; indications (variceal bleeding incl. preemptive/rescue, refractory ascites, hepatic hydrothorax, vascular); absolute contraindications (CHF stage C/D or EF <50%, mPAP >45 mm Hg, uncontrolled HE, sepsis) — no MELD threshold contraindicates TIPS; PSPG targets by indication (<12 mm Hg or ≥50% reduction for acute variceal bleed); PTFE stent technique; complications; shunt surveillance; TIPS vs RTO/BRTO (4 sources)
+- [[tips]] — TIPS: physiological effects; indications (variceal bleeding incl. preemptive/rescue, refractory ascites, hepatic hydrothorax, vascular); absolute contraindications (CHF stage C/D or EF <50%, mPAP >45 mm Hg, uncontrolled HE, sepsis) — no MELD threshold contraindicates TIPS; PSPG targets by indication (<12 mm Hg or ≥50% reduction for acute variceal bleed); PTFE stent technique; complications; shunt surveillance; TIPS vs RTO/BRTO (5 sources)
 
 ---
 
 - [[endoscopic-full-thickness-resection]] — EFTR for GI subepithelial lesions: exposed vs nonexposed (STER, device-assisted FTRD) techniques, size limits, R0/en-bloc rates, adverse events (1 source)
 - [[g-poem]] — G-POEM: endoscopic pyloromyotomy for refractory gastroparesis — selection (GES retention >20% at 4h; GCSI >2, N/V-predominant), success predictors (GCSI >2.6), durable success 50–60% (sham RCT 71% vs 22%), AEs 6–14% (1 source)
 - [[eus-guided-gallbladder-drainage]] — EUS-guided gallbladder drainage (LAMS): indications in the non-surgical candidate, technique, outcomes vs percutaneous and transpapillary drainage, adverse events (1 source)
-- [[interventional-eus-vascular]] — Interventional EUS for vascular investigation and therapy: EUS-guided portal pressure gradient, coil/glue therapy for gastric varices, portal vein sampling (1 source)
+- [[interventional-eus-vascular]] — Interventional EUS for vascular investigation and therapy: EUS-guided portal pressure gradient, coil/glue therapy for gastric varices, portal vein sampling; EUS-PPG best-practice consensus (Wang 2026 Delphi) (2 sources)
 ## Meds
 
 - [[lubiprostone]] — Lubiprostone: ClC-2 chloride-channel activator; **CIC 24 mcg BID (Conditional/Low, OTC-failure qualifier)**; place vs other secretagogues; cost; ACG 2020 vs AGA 2022 contradiction on IBS-C surfaced (IBS-C dose not in any source) (3 sources)
@@ -259,13 +259,13 @@ updated: 2026-08-04
 - [[proton-pump-inhibitors]] — PPI drug class; covalent H+/K+-ATPase inhibition; mainstay for GERD/PUD/H. pylori; contrast with P-CABs (stub)
 - [[givosiran]] — ALAS1-targeting siRNA for recurrent acute hepatic porphyria (≥4 attacks/year); SC monthly; biochem+genetic confirmation, avoid in pregnancy; monitor ALT/eGFR (1 source)
 - [[hemin]] — IV heme therapy for acute AHP attacks & prophylaxis; 3–4 mg/kg/day ×~4 days via high-flow central vein (1 source)
-- [[linaclotide]] — GC-C agonist; IBS-C 290 µg, CIC 145 µg; diarrhea-limiting (stub)
-- [[plecanatide]] — GC-C agonist (uroguanylin analog); IBS-C 3/6 mg, CIC 3 mg (stub)
-- [[prucalopride]] — Selective 5-HT4 agonist; CIC 2 mg daily; no CV signal (stub)
+- [[linaclotide]] — GC-C agonist; IBS-C 290 µg, CIC 145 µg; diarrhea-limiting (2 sources)
+- [[plecanatide]] — GC-C agonist (uroguanylin analog); IBS-C 3/6 mg, CIC 3 mg (2 sources)
+- [[prucalopride]] — Selective 5-HT4 agonist; CIC 2 mg daily; no CV signal (1 source)
 - [[alosetron]] — 5-HT3 antagonist; severe IBS-D in women, REMS (ischemic colitis risk) (stub)
 - [[eluxadoline]] — μ-/κ-opioid agonist + δ-antagonist for IBS-D; 100 mg BID (75 mg if hepatic impairment/OATP1B1 inhibitor/intolerance); contraindicated with no gallbladder, >3 alcohol/day, pancreatitis or SOD history; not in Child-Pugh C (2 sources)
 - [[tegaserod]] — 5-HT4 agonist; IBS-C in women <65 with ≤1 CV risk factor (stub)
-- [[fmt]] — Fecal microbiota-based therapies for recurrent C. difficile (conventional FMT + FDA products); against routine IBD/IBS use (AGA 2024) (stub)
+- [[fmt]] — Fecal microbiota-based therapies for recurrent C. difficile (conventional FMT + FDA products); against routine IBD/IBS use (AGA 2024) (1 source)
 - [[loperamide]] — Loperamide: peripheral μ-opioid antimotility; **4 mg → 2 mg per loose stool; ceiling 8 mg/day self-treatment vs 16 mg/24 h with antibiotics for traveler's diarrhea** (the qualifier is the decision); indications table; avoid <18 y and in febrile/inflammatory diarrhea (5 sources)
 - [[nitazoxanide]] — Nitazoxanide: antiprotozoal, **500 mg BID ×3 d** for cryptosporidiosis/giardiasis; limited in advanced immunosuppression (1 source)
 - [[rifaximin]] — Rifaximin: non-absorbable antibiotic; SIBO 550 mg TID × 14d; IMO + neomycin combination; IBS-D 550 mg TID × 14d; HE add-on to lactulose (never monotherapy); **ACG 2026 reverses the 2014 rule — start 14 days before elective TIPS and continue ≥6 months** (contradiction surfaced on page) (3 sources)
@@ -292,13 +292,14 @@ updated: 2026-08-04
 ## Concepts
 
 - [[esophageal-dysfunction-systemic-disease]] — Esophageal dysfunction in systemic immune/inflammatory disease: HES/EGPA (AEC >1500), connective-tissue disease (SSc/MCTD/SLE/Sjögren/myositis), esophageal Crohn's, dermatologic (ELP/pemphigus, DIF), secondary achalasia (COVID/Chagas/eosinophilic); high index of suspicion for nonspecific endoscopy (AGA 2024) (1 source)
+- [[hepatic-venous-pressure-gradient]] — HVPG: gold-standard sinusoidal portal-pressure measurement (WHVP−FHVP); balloon-occlusion technique, interpretation ladder (normal 1–5; >5 sinusoidal PH; ≥10 CSPH; ≥12 variceal bleeding; ≥16/≥20 prognostic), limitations (underestimates presinusoidal PH → EUS-PPG) (3 sources)
 - [[li-rads]] — LI-RADS: applicability (cirrhosis / at-risk HBV only), major features (APHE, nonperipheral washout, capsule, threshold growth), LR-5 size criteria, category-by-category management (LR-3 → 3–6 mo imaging; LR-4 → MDD ± biopsy; LR-5 = HCC, no biopsy; LR-M → biopsy mandatory), MRI vs CT performance (3 sources)
 - [[colonoscopy-surveillance]] — Colonoscopy surveillance intervals (USMSTF 2020): adenoma + serrated-polyp + serial-surveillance interval tables; high-quality-exam prerequisite; 1-2 small adenomas extended to 7-10y; definitions (advanced/high-risk adenoma) (1 source)
 - [[artificial-intelligence-endoscopy]] — AI in endoscopy: CADe (detection; ADR RR 1.43 in RCTs, inconsistent real-world; AGA 2025 no recommendation), CADx (optical diagnosis; ASGE PIVI ≥90% NPV / >90% surveillance-agreement thresholds for resect-and-discard/diagnose-and-leave), computer-aided quality assessment; adoption barriers (2 sources)
 - [[hcc-surveillance]] — HCC Surveillance: at-risk populations (Child-Pugh A/B cirrhosis + select non-cirrhotic HBV), semiannual US+AFP (sens 63% vs 51%), CT/MRI not routine, harms, GALAD/biomarkers not yet ready + no MCD panels, PAGE-B/REAL-B, prevent cirrhosis (2 sources)
 - [[pancreatic-cancer-screening]] — High-risk pancreatic cancer surveillance: who qualifies, EUS/MRI modalities, annual interval, condition-specific start ages (1 source)
 - [[mri-mrcp]] — MRI/MRCP for pancreaticobiliary imaging and high-risk pancreatic screening (1 source)
-- [[brca-pathogenic-variants]] — BRCA1/2 germline variants and pancreatic cancer risk (stub) (1 source)
+- [[brca-pathogenic-variants]] — BRCA1/2 germline variants and pancreatic cancer risk (1 source)
 - [[familial-pancreatic-cancer]] — FPC kindreds: definition, inheritance, who/when to screen; links [[pancreatic-cancer-screening]] for modality/interval rather than duplicating it; FPC risk magnitude by number of affected FDRs absent from sources (1 source)
 - [[brush-cytology]] — ERCP-based exfoliative cytology for biliary strictures (1 source)
 - [[fish]] — FISH cytogenetic adjunct to biliary brush cytology (1 source)
@@ -323,7 +324,7 @@ updated: 2026-08-04
 - [[iron-overload-and-iron-metabolism]] — Iron metabolism: hepcidin-ferroportin axis, intestinal absorption physiology, primary vs. secondary iron overload pathophysiology, key lab interpretation (stub)
 - [[intestinal-methanogen-overgrowth]] — IMO: archaea vs. bacteria distinction, M. smithii, constipation association, CH4 breath test threshold, rifaximin + neomycin treatment (stub)
 - [[intestinal-ultrasound]] — IUS for IBD monitoring: BWT + Doppler hyperemia metrics, comparable to MRE/CTE, treat-to-target thresholds (CD ≥25% BWT reduction; UC BWT <2.8mm, ASUC ≥20% at 48h), pregnancy/comorbid/obese populations, no dysplasia surveillance (1 source)
-- [[small-bowel-motility]] — Small bowel motility: MMC phase III as protective against SIBO, dysmotility causes and SIBO risk (stub)
+- [[small-bowel-motility]] — Small bowel motility: MMC phase III as protective against SIBO, dysmotility causes and SIBO risk (1 source)
 - [[antibody-mediated-rejection-liver-transplant]] — AMR in liver transplant: Banff 2022 criteria (C4d + DSA + histology + graft dysfunction); treatment (plasmapheresis/IVIG/rituximab/bortezomib); open questions (1 source)
 - [[hepatopulmonary-syndrome-portopulmonary-hypertension]] — HPS and POPH: bubble echocardiography screening; RHC indications; POPH mPAP ≥45 mmHg + PVR >3 WU = LT contraindication; candidacy thresholds; **HPS severity bands (PaO₂ cutoffs) absent from the surviving source** (1 source)
 - [[operational-tolerance]] — Operational tolerance: IS-free allograft acceptance; ~7%/year increase in meta-analysis (n=620); biopsy pre-withdrawal; AASLD 2025 Rec 36 against routine withdrawal (Strong, Level 4) (1 source)
@@ -602,6 +603,7 @@ updated: 2026-08-04
 - [[aga-2023-eus-gallbladder-drainage]] — AGA 2023: EUS-Guided Gallbladder Drainage in Acute Cholecystitis — Irani, Sharzehi, Siddiqui. Clin Gastroenterol Hepatol 2023;21(5):1141–1147
 - [[aga-2023-gpoem-gastroparesis]] — AGA 2023: Gastric Peroral Endoscopic Myotomy for Gastroparesis — Khashab, Wang, Cai. Gastroenterology 2023;164(7):1329–1335
 - [[aga-2023-interventional-eus-vascular]] — AGA 2023: Interventional EUS for Vascular Investigation and Therapy — Ryou, DeWitt, Das, Shami. Clin Gastroenterol Hepatol 2023;21(7):1699–1705
+- [[wang-2026-eus-ppg-delphi-consensus]] — International Expert Delphi Consensus on EUS-guided Portosystemic Pressure Gradient (EUS-PPG): Best Practices and Future Directions — Wang, Chang, Rubin et al. Clin Gastroenterol Hepatol 2026 — 53 consensus statements (indications, pre-procedure, technique, research); EUS-PPG preferred for suspected presinusoidal/noncirrhotic PH; reproducibility + ideal-target protocol; safety <1% AE
 - [[aga-2023-ostomies]] — AGA 2023: Management of Ostomies — Hedrick, Sherman, Cohen-Mekelburg, Gaidos. Clin Gastroenterol Hepatol 2023;21(10):2473–2477
 - [[aga-2024-full-thickness-resection]] — AGA 2024: Endoscopic Full-Thickness Resection for GI Subepithelial Lesions — D'Souza, Yang, Diehl. Gastroenterology 2024;166(2)
 - [[aga-2024-ibd-endoscopic-scoring]] — AGA 2024: Endoscopic Scoring Systems in IBD — Buchner, Farraye, Iacucci. Clin Gastroenterol Hepatol 2024;22(11):2188–2196

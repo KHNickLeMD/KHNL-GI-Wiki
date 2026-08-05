@@ -3,7 +3,7 @@ title: "Hypermobile Ehlers-Danlos Syndrome (GI Manifestations)"
 category: disease-script
 tags: [hypermobile-ehlers-danlos, heds, hsd, dgbi, pots, mcas, dysautonomia, motility, gastroparesis, pelvic-floor, celiac-disease]
 created: 2026-06-27
-updated: 2026-07-23
+updated: 2026-08-05
 sources: [aga-2025-heds-gi]
 ---
 
@@ -27,6 +27,8 @@ Heritable connective tissue disorder; most common EDS subtype (80–90% of all E
 1. Generalized joint hypermobility by **Beighton score** (age-adjusted cutoff).
 2. ≥2 of: other connective-tissue features (soft/velvety skin, striae, prolapse) / positive family history / musculoskeletal complications (joint instability, widespread pain).
 3. Absence of unusual skin fragility — prompts exclusion of other EDS subtypes and other heritable/acquired connective tissue or joint disorders.
+
+> *Gap: the ingested source (AGA 2025 CPU) endorses the **Beighton score** as the hypermobility screen and points to the 2017 international hEDS criteria, but does not reproduce the 9 Beighton maneuvers or the age-adjusted positive cutoff (adults vs pre-/post-pubertal children). Apply the 2017 hEDS criteria / Beighton instrument directly for the actual scoring thresholds — a dedicated source would be needed to put them on-page.*
 
 - **HSD** = joint hypermobility + pain not meeting full hEDS criteria.
 - BPA 3: gastroenterologists seeing DGBI patients should **inquire about joint hypermobility** and strongly consider incorporating the Beighton score as a screening tool; if positive, apply the 2017 criteria or refer.

@@ -3,8 +3,8 @@ title: "Endoscopic Ultrasound (EUS)"
 category: advanced-procedure
 tags: [eus, endoscopic-ultrasound, fna, fnb, pancreatic-mass, pancreatic-cysts, ipmn, mcn, biliary-drainage, eus-guided-drainage, quality-indicators, gastroenterostomy]
 created: 2026-05-07
-updated: 2026-07-29
-sources: [acg-2025-eus-quality, acg-2018-pancreatic-cysts, asge-2024-solid-pancreatic-masses, asge-2011-eus-mediastinal-adenopathy, aga-2022-recurrent-pancreatitis-endoscopy, colan-hernandez-2020-eus-fna-panc-cyst-antibiotics]
+updated: 2026-08-05
+sources: [acg-2025-eus-quality, acg-2018-pancreatic-cysts, asge-2024-solid-pancreatic-masses, asge-2011-eus-mediastinal-adenopathy, aga-2022-recurrent-pancreatitis-endoscopy, colan-hernandez-2020-eus-fna-panc-cyst-antibiotics, wang-2026-eus-ppg-delphi-consensus]
 ---
 
 # Endoscopic Ultrasound (EUS)
@@ -32,6 +32,7 @@ EUS quality standards from ACG/ASGE 2025 Quality Indicator document. [[acg-2025-
 - EUS-guided gastroenterostomy (EUS-GE)
 - EUS-directed transgastric [[ercp|ERCP]] (EDGE) — for altered anatomy (Roux-en-Y)
 - EUS-guided [[liver-biopsy|liver biopsy]]
+- EUS-guided portosystemic pressure gradient (EUS-PPG) — direct hepatic + portal vein pressure measurement for [[portal-hypertension|portal hypertension]]; see [[interventional-eus-vascular]] ([[wang-2026-eus-ppg-delphi-consensus]])
 - Celiac plexus block/neurolysis (EUS-CPB/CPN) — for [[chronic-pancreatitis|CP]] pain, **not routine** (AGA 2022, BPA 8): case-by-case for debilitating refractory pain; pain relief 50–60% lasting ≤6 mo, almost all still need analgesics; major AEs <1%
 - Fiducial placement, ablation
 
@@ -171,3 +172,4 @@ From [[asge-2011-eus-mediastinal-adenopathy]]:
 4. [[asge-2011-eus-mediastinal-adenopathy|ASGE 2011: EUS-Guided FNA in the Diagnosis of Mediastinal Adenopathy]]
 5. [[aga-2022-recurrent-pancreatitis-endoscopy|AGA 2022: Clinical Practice Update on the Endoscopic Approach to Recurrent Acute and Chronic Pancreatitis]]
 6. [[colan-hernandez-2020-eus-fna-panc-cyst-antibiotics|Colán-Hernández 2020: Antibiotic Prophylaxis Is Not Required for EUS-FNA of Pancreatic Cystic Lesions (RCT)]]
+7. [[wang-2026-eus-ppg-delphi-consensus|International Expert Delphi Consensus on EUS-guided Portosystemic Pressure Gradient: Best Practices and Future Directions (2026)]]
