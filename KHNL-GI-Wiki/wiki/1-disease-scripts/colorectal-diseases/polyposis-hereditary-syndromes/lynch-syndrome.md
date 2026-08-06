@@ -3,7 +3,7 @@ title: "Lynch Syndrome"
 category: disease-script
 tags: [lynch, hnpcc, mmr, msi, hereditary-crc, endometrial-cancer, oncology, genetic-testing, colorectal-cancer]
 created: 2026-05-19
-updated: 2026-07-16
+updated: 2026-08-06
 sources: [acg-2015-hereditary-gi-cancer, usmstf-2014-lynch-syndrome, usmstf-2017-bmmrd]
 ---
 
@@ -22,7 +22,7 @@ Lynch syndrome (LS), formerly hereditary nonpolyposis [[colorectal-cancer|colore
 
 **Clinical criteria (historical)**:
 
-- Amsterdam II criteria: ≥3 relatives with LS-associated cancer (CRC, endometrial, small bowel, ureter/renal pelvis); ≥2 successive generations; ≥1 diagnosed <50; FAP excluded; tumors verified
+- Amsterdam II criteria (all must be present): ≥3 relatives with LS-associated cancer (CRC, endometrial, small bowel, ureter/renal pelvis), **one a first-degree relative of the other two**; ≥2 successive generations affected; ≥1 diagnosed <50; FAP excluded in CRC case(s); tumors verified pathologically
 - Revised Bethesda guidelines: CRC <50; synchronous/metachronous LS-associated cancers; MSI-H histology <60; CRC + FDR with LS-associated cancer with ≥1 <50; CRC + ≥2 FDR/SDR with LS-related cancer
 - 3-question clinical risk tool: useful for initial screening in busy practice settings
 - **PREMM1,2,6 model**: validated online calculator; ≥5% threshold cost-effective for genetic counseling referral and testing [[usmstf-2014-lynch-syndrome]]

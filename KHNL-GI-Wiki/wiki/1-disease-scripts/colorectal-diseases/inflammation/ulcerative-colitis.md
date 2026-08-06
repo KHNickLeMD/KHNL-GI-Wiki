@@ -3,7 +3,7 @@ title: "Ulcerative Colitis"
 category: disease-script
 tags: [uc, ulcerative-colitis, ibd, 5-asa, biologics, anti-tnf, vedolizumab, asuc, pancolitis, proctitis]
 created: 2026-05-07
-updated: 2026-08-05
+updated: 2026-08-06
 sources: [acg-2025-uc, aga-2024-uc-pharm, aga-2024-pouchitis, aga-2023-biomarkers-uc, acg-2019-uc, asge-2015-scenic-ibd-dysplasia, asge-2015-ibd, aga-2026-inpatient-ibd, aga-2024-intestinal-ultrasound, aga-2024-diet-nutrition-ibd, aga-2024-ibd-malignancy, aga-2024-pregnancy-gi-liver]
 ---
 
@@ -224,7 +224,7 @@ Idiopathic chronic inflammatory disorder of the large intestine. Continuous muco
 ![[uc-2025-asuc-algorithm-29.png|700x998]]
 *Figure 3 — Algorithm for the management of hospitalized patients with acute severe UC. ([[acg-2025-uc]])*
 
-**Diagnosis of ASUC (Truelove-Witts):** >6 bloody stools/day + systemic toxicity (fever, tachycardia, anemia, elevated ESR)
+**Diagnosis of ASUC (Truelove-Witts):** ≥6 bloody stools/day + ≥1 systemic sign of toxicity — tachycardia, fever, anemia (**hemoglobin <10.5 g/dL**), or elevated inflammatory markers (**ESR >30 mm/hr**)
 
 **Step-by-step management:**
 

@@ -3,7 +3,7 @@ title: "Ineffective Esophageal Motility"
 category: disease-script
 tags: [iem, motility, esophageal, dysphagia, gerd, chicago-classification]
 created: 2026-05-16
-updated: 2026-07-17
+updated: 2026-08-06
 sources: [chicago-v4-2021-esophageal-dysmotility, aga-2025-flip-esophageal, acg-2020-esophageal-physiologic-testing]
 ---
 
@@ -24,7 +24,7 @@ IEM is defined by **Chicago Classification v4.0** on [[high-resolution-manometry
 
 - Pre-[[antireflux-surgery|anti-reflux surgery]] evaluation — impaired peristaltic reserve raises [[dysphagia]] risk post-wrap
 - Dysphagia workup when other causes excluded
-- Systemic disease associations (scleroderma, CREST syndrome can cause severe IEM → absent contractility)
+- Systemic disease associations ([[esophageal-dysfunction-systemic-disease|scleroderma, CREST syndrome]] can cause severe IEM → absent contractility)
 
 ---
 
@@ -58,7 +58,7 @@ IEM is defined by **Chicago Classification v4.0** on [[high-resolution-manometry
 
 ## See Also
 
-[[chicago-classification-v4]], [[high-resolution-manometry]], [[distal-esophageal-spasm]], [[hypercontractile-esophagus]], [[achalasia]], [[gerd]], [[flip-panometry]], [[antireflux-surgery]], [[dysphagia]]
+[[chicago-classification-v4]], [[high-resolution-manometry]], [[distal-esophageal-spasm]], [[hypercontractile-esophagus]], [[achalasia]], [[gerd]], [[flip-panometry]], [[antireflux-surgery]], [[esophageal-dysfunction-systemic-disease]], [[dysphagia]]
 
 ---
 
