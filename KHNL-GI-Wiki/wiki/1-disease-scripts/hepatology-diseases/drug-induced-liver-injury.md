@@ -3,7 +3,7 @@ title: "Drug-Induced Liver Injury (Idiosyncratic)"
 category: disease-script
 tags: [dili, drug-induced-liver-injury, hepatotoxicity, hds, ici, immune-checkpoint, hpb, liver]
 created: 2026-05-16
-updated: 2026-07-16
+updated: 2026-08-07
 sources: [acg-2021-dili, acg-2017-liver-chemistries, aasld-2022-dili]
 ---
 
@@ -42,7 +42,7 @@ sources: [acg-2021-dili, acg-2017-liver-chemistries, aasld-2022-dili]
 - Severe: Hy's law criteria, transplant listed, or prolonged hospitalization
 - Fatal or liver transplant required
 
-**Prognostic model:** MELD + Charlson comorbidity index + serum albumin → 6-month mortality (c-statistic 0.89–0.91; web calculator at gihep.com/calculators/hepatology/dili-cam/)
+**Prognostic model:** [[cirrhosis|MELD]] + Charlson comorbidity index + serum albumin → 6-month mortality (c-statistic 0.89–0.91; web calculator at gihep.com/calculators/hepatology/dili-cam/)
 
 ### Classification / Typing
 
@@ -171,7 +171,7 @@ Roussel Uclaf Causality Assessment Method — scoring system (−10 to +14):
 
 ## See Also
 
-[[abnormal-liver-chemistries]], [[acute-liver-failure]], [[autoimmune-hepatitis]], [[inflammatory-bowel-disease]], [[nafld-masld]], [[primary-biliary-cholangitis]], [[primary-sclerosing-cholangitis]], [[wilson-disease]], [[budd-chiari-syndrome]], [[immune-checkpoint-inhibitor-hepatitis]], [[chronic-hepatitis-b]], [[hepatitis-c]], [[liver-biopsy]], [[jaundice]], [[liver-transplantation]], [[ercp]]
+[[abnormal-liver-chemistries]], [[acute-liver-failure]], [[autoimmune-hepatitis]], [[inflammatory-bowel-disease]], [[nafld-masld]], [[primary-biliary-cholangitis]], [[primary-sclerosing-cholangitis]], [[wilson-disease]], [[budd-chiari-syndrome]], [[immune-checkpoint-inhibitor-hepatitis]], [[chronic-hepatitis-b]], [[hepatitis-c]], [[liver-biopsy]], [[jaundice]], [[liver-transplantation]], [[ercp]], [[cirrhosis]]
 
 ---
 

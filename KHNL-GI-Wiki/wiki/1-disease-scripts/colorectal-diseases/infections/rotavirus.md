@@ -3,7 +3,7 @@ title: "Rotavirus Gastroenteritis"
 category: disease-script
 tags: [rotavirus, viral-gastroenteritis, diarrhea, infectious-diarrhea, vaccine]
 created: 2026-05-19
-updated: 2026-08-04
+updated: 2026-08-07
 sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
 ---
 
@@ -64,7 +64,7 @@ Rotavirus — with [[norovirus]] and adenovirus — is one of the viral agents t
 
 - **Rehydration is the foundation:** reduced-osmolarity ORS for mild–moderate dehydration; isotonic IV fluid (LR, NS) for severe dehydration, shock, or ileus. [[idsa-2017-infectious-diarrhea]]
 - Balanced electrolyte rehydration preferred in the **elderly with severe diarrhea** and in any traveler with cholera-like watery diarrhea; most others keep up with water, juices, sports drinks, soups, and saltine crackers *(strong, moderate)*. [[acg-2016-acute-diarrhea]] (Rec 5)
-- [[loperamide]] — **contraindicated <18 years**, and at any age with fever/inflammatory diarrhea or toxic-megacolon risk. [[idsa-2017-infectious-diarrhea]]
+- [[loperamide]] — **contraindicated <18 years**, and at any age with fever/inflammatory diarrhea or [[toxic-megacolon]] risk. [[idsa-2017-infectious-diarrhea]]
 - **Children:** ondansetron may aid ORS tolerance (>4 years); oral zinc shortens diarrhea at 6 months–5 years in zinc-deficient/malnourished settings. [[idsa-2017-infectious-diarrhea]]
 - [[probiotics]] — not recommended for acute diarrhea in adults, except post-antibiotic-associated illness *(strong, moderate)*. [[acg-2016-acute-diarrhea]] (Rec 6)
 

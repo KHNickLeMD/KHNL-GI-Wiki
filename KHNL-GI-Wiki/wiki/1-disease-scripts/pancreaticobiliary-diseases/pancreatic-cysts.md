@@ -3,11 +3,9 @@ title: "Pancreatic Cysts"
 category: disease-script
 tags: [pancreatic-cysts, ipmn, mcn, serous-cystadenoma, pseudocyst, spn, pancreas, eus-fna, mrcp, surveillance, pancreatic-cancer]
 created: 2026-05-19
-updated: 2026-07-16
+updated: 2026-08-07
 sources: [acg-2018-pancreatic-cysts, colan-hernandez-2020-eus-fna-panc-cyst-antibiotics, asge-2015-antibiotic-prophylaxis]
 ---
-
-# Pancreatic Cysts
 
 Pancreatic cysts are a heterogeneous group of lesions, most detected incidentally on cross-sectional imaging. They range from non-neoplastic (pseudocysts) to mucinous neoplasms with malignant potential (IPMNs, MCNs) to benign neoplasms (SCAs) to solid-cystic tumors with generally favorable prognosis (SPNs). Management hinges on accurate cyst typing and risk stratification. [[acg-2018-pancreatic-cysts]]
 

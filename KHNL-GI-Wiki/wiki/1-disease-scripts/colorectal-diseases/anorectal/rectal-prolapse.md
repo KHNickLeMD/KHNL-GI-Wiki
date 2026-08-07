@@ -3,7 +3,7 @@ title: "Rectal Prolapse"
 category: disease-script
 tags: [rectal-prolapse, anorectal, pelvic-floor, rectopexy, solitary-rectal-ulcer-syndrome]
 created: 2026-06-01
-updated: 2026-07-17
+updated: 2026-08-07
 sources: [acg-2021-anorectal-disorders, asge-2014-constipation]
 ---
 
@@ -11,7 +11,7 @@ sources: [acg-2021-anorectal-disorders, asge-2014-constipation]
 
 **What the ingested sources do say:**
 
-- **Surgery in defecation disorders:** operate **only if proven dyssynergia fails [[biofeedback-therapy|biofeedback]] *and* a structural abnormality is present** (e.g., significant rectocele). **Laparoscopic/posterior rectopexy** is the named procedure for **full-thickness rectal prolapse**. [[acg-2021-anorectal-disorders]]
+- **Surgery in [[defecation-disorders|defecation disorders]]:** operate **only if proven dyssynergia fails [[biofeedback-therapy|biofeedback]] *and* a structural abnormality is present** (e.g., significant rectocele). **Laparoscopic/posterior rectopexy** is the named procedure for **full-thickness rectal prolapse**. [[acg-2021-anorectal-disorders]]
   - Note the **combination rule** — failure of biofeedback alone is not an indication; a structural lesion must also be present.
 - **Solitary rectal ulcer syndrome (SRUS)** found at [[colonoscopy|endoscopy]] **suggests rectal prolapse** — an incidental finding that should prompt evaluation for it. [[asge-2014-constipation]]
 

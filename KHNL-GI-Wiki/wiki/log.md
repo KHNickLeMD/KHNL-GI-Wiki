@@ -6,6 +6,40 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-08-07] lint | Parallel 4-batch sweep — EAC stub expanded, decision-gap validation, inline-link densification
+
+**Scope:** Full-wiki health check, fanned out across 4 parallel folder-batch subagents (disease-scripts × 3 regions + procedures/meds/concepts), with whole-wiki concerns (orphans, broken links, ingest queue, index/log) handled centrally.
+
+**Ingest queue:** No tier-1/2 files uningested — all 247 guidelines/CPUs/RCTs in `raw/` have source pages. Remaining uningested `raw/` files are **all gated lecture/chalk-talk transcripts** (~40); per schema these are never auto-ingested — reported, awaiting user selection by name.
+
+**Stub expanded:**
+- `[[esophageal-adenocarcinoma]]` — stub → full ADDT disease script, built strictly from already-ingested `[[asge-2018-barretts-eet]]`, `[[asge-2019-barretts-screening-surveillance]]`, `[[nccn-2026-esophageal-egj-cancer]]`. Centered on the depth-of-invasion decision (Tis/T1a → EET vs T1b sm2–3/poor-diff/LVI → esophagectomy) with the sourced LN-metastasis-risk table (0% / ~0–2% / ≥20%); links out to `[[barretts-esophagus]]`/`[[endoscopic-eradication-therapy]]`/`[[esophageal-cancer]]` per one-home rule rather than duplicating.
+
+**Decision-gap validation (stalest pages per batch):** All validated pages carried their operative criteria/thresholds in full (BMMRD penetrance/surveillance ages; colon-ischemia ACG-2015 severity criteria; Chicago v4.0 IRP/DCI cutoffs; pancreatic-cyst CEA 192/MPD >5 mm/size thresholds; celiac Marsh; GIST size×mitotic-rate). No fillable gaps found.
+
+**Decision gaps flagged (corpus/licensing-blocked — NOT filled from memory):**
+- `[[esophageal-cancer]]` — Siewert classification cm-criteria and PD-L1 CPS cutoffs absent (sole source NCCN 2026, reproduction EULA-blocked; needs a non-NCCN source).
+- `[[drug-induced-liver-injury]]` — Roenigk classification (methotrexate) not in ingested DILI sources.
+- `[[pancreatic-cancer]]` — resectable/borderline-resectable vascular criteria absent (no NCCN pancreatic / surgical source in `raw/`).
+- `[[rectal-prolapse]]`, `[[mesenteric-artery-aneurysm]]`, `[[postinfectious-ibs]]` — grading/imaging/surveillance/PI-IBS-specific detail need dedicated sources not yet ingested (already flagged on-page).
+
+**Inline links / hygiene fixes:**
+- `[[drug-induced-liver-injury]]` — `MELD` → `[[cirrhosis|MELD]]` (score home is cirrhosis.md); added `[[cirrhosis]]` to See Also.
+- `[[rotavirus]]` — linked `[[toxic-megacolon]]` on first mention.
+- `[[diverticulitis]]` — linked `[[inflammatory-bowel-disease|IBD]]` (SCAD bullet).
+- `[[rectal-prolapse]]` — linked `[[defecation-disorders]]` on first mention.
+- `[[pancreatic-cysts]]` — removed a duplicate body `# H1` (title already in frontmatter).
+- `[[chicago-classification-v4]]` — added the missing `## Contents` nested ToC (renderer builds the right-rail outline from it).
+
+**Whole-wiki checks (clean):** 0 orphan pages; 0 broken links in content pages (only placeholder tokens/historical slugs inside this append-only log); no `.DS_Store`/OS artifacts; no empty files; See Also / Sources bottom-section format compliant across all batches; no new contradictions (existing cross-source tensions already surfaced in-page).
+
+**Remaining for user triage:**
+- **Lectures/chalk talks** in `raw/GI Lectures+Chalk Talks/` await explicit selection — name which to ingest.
+- `[[pancreatic-cancer]]` is prose-heavy — candidate for a future bulletization pass (deferred to avoid fidelity risk).
+- Corpus-blocked decision gaps above need their originating sources ingested before they can be filled.
+
+---
+
 ## [2026-08-05] ingest | EUS-PPG International Expert Delphi Consensus (Wang 2026, CGH) — 53 statements; new HVPG concept page; 4 entity pages updated
 
 **Source created:**

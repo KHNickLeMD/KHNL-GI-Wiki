@@ -3,9 +3,25 @@ title: "Chicago Classification v4.0 — Esophageal Motility Disorders"
 category: concept
 tags: [manometry, hrm, chicago-classification, esophageal-motility, achalasia, egjoo, iem, des, dysphagia]
 created: 2026-05-16
-updated: 2026-07-16
+updated: 2026-08-07
 sources: [chicago-v4-2021-esophageal-dysmotility, acg-2020-esophageal-physiologic-testing]
 ---
+
+## Contents
+- [[#Overview]]
+- [[#Required HRM Protocol]]
+- [[#IRP Thresholds (Integrated Relaxation Pressure)]]
+- [[#Key Metrics]]
+- [[#Classification Hierarchy]]
+  - [[#Tier 1: Disorders of EGJ Outflow]]
+  - [[#Tier 2: Disorders of Peristalsis (Normal IRP)]]
+  - [[#Normal Motility]]
+- [[#EGJOO — Key CC v4.0 Paradigm Shift]]
+- [[#IEM — Revised Criteria in CC v4.0]]
+- [[#EGJ Metrics (Descriptive, Not Diagnostic)]]
+- [[#Historical Note: ACG 2020 and Chicago Classification]]
+- [[#See Also]]
+- [[#Sources]]
 
 ## Overview
 
