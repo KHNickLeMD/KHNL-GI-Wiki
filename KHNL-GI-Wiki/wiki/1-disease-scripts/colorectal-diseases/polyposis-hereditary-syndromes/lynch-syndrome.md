@@ -3,7 +3,7 @@ title: "Lynch Syndrome"
 category: disease-script
 tags: [lynch, hnpcc, mmr, msi, hereditary-crc, endometrial-cancer, oncology, genetic-testing, colorectal-cancer]
 created: 2026-05-19
-updated: 2026-08-06
+updated: 2026-08-08
 sources: [acg-2015-hereditary-gi-cancer, usmstf-2014-lynch-syndrome, usmstf-2017-bmmrd]
 ---
 
@@ -59,7 +59,7 @@ LS is classified by the causative gene:
 - **[[bmmrd-syndrome]] (Constitutional mismatch repair deficiency / CMMRD)** — biallelic (homozygous or compound heterozygous) germline mutations in MLH1, MSH2, MSH6, or PMS2; autosomal recessive (both parents are obligate LS carriers); CRC onset median age 16, brain tumors (70% penetrance, median age 9), and lymphoma/leukemia in childhood; café-au-lait macules mimicking NF1; IHC shows MMR protein loss in normal AND tumor tissue (unlike LS); PMS2 biallelic mutations are the most common cause; surveillance starts in the first decade of life with annual [[colonoscopy]] from age 6 and brain MRI q6 months from age 2 [[usmstf-2017-bmmrd]]
 - [[familial-adenomatous-polyposis]] — fewer polyps in LS; FAP excluded per Amsterdam criteria
 - [[mutyh-associated-polyposis]] — recessive; phenotypically overlaps with AFAP
-- **[[serrated-polyposis-syndrome|Serrated polyposis syndrome]]** — sporadic MMR loss possible; see [[serrated-polyposis-syndrome]]
+- **[[serrated-polyposis-syndrome|Serrated polyposis syndrome]]** — sporadic MMR loss possible
 
 ---
 

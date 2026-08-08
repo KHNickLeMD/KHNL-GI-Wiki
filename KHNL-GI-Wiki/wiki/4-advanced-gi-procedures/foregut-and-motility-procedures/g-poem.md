@@ -3,7 +3,7 @@ title: "G-POEM (Gastric Peroral Endoscopic Myotomy)"
 category: advanced-procedure
 tags: [gastroparesis, poem, g-poem, pyloromyotomy, third-space-endoscopy, gcsi, gastric-emptying, pyloric-therapy]
 created: 2026-07-23
-updated: 2026-07-23
+updated: 2026-08-08
 sources: [aga-2023-gpoem-gastroparesis]
 ---
 
@@ -87,7 +87,7 @@ Endoscopic pyloromyotomy (peroral endoscopic pyloromyotomy) for medically refrac
 
 - Often admitted overnight; if no AEs → clear liquids. Optional next-day upper-GI study to exclude contrast leak, then advance. **Considerable pain, tachycardia, and/or fever → CT or upper-GI study.**
 - Diet ladder: **full liquids 5–7 days**, then **5–6 small low-fiber, low-fat solid meals/day** (gastroparesis diet).
-- **8 weeks of PPI** (mucosal healing) + a short course of oral antibiotics.
+- **8 weeks of [[proton-pump-inhibitors|PPI]]** (mucosal healing) + a short course of oral antibiotics.
 - **Same-day discharge** possible at experienced centers for reliable patients with ED access if: high-confidence mucosal closure, no intraoperative AEs, no major comorbidities, oral-controlled pain, liquids tolerated.
 - **Aspirin** (strong indication) may be continued; clopidogrel/warfarin/other antithrombotic resumption individualized.
 

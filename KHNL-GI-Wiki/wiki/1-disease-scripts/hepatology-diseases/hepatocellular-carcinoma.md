@@ -3,7 +3,7 @@ title: "Hepatocellular Carcinoma"
 category: disease-script
 tags: [hcc, hepatocellular, liver, cancer, hpb, surveillance, cirrhosis, hbv, adjuvant, immunotherapy, liver-transplant, milan-criteria, afp, downstaging, mtor-inhibitor, sirolimus, everolimus, bclc, sorafenib, lenvatinib, atezolizumab, bevacizumab, tace, tare, ablation, resection, li-rads, locoregional]
 created: 2026-05-16
-updated: 2026-07-30
+updated: 2026-08-08
 sources: [aasld-2023-hcc, aasld-2025-hcc-critical-update, aasld-ast-2025-liver-transplant-candidate-evaluation, aasld-ast-2025-liver-transplant-graft-complications, aga-2022-hcc-systemic, nccn-2026-hcc, aga-2026-hcc-surveillance]
 ---
 
@@ -169,7 +169,7 @@ flowchart TD
 
 - **Non-cirrhotic HCC:** Surgical resection is the treatment of choice (**Level 2, Strong Recommendation**). 5-year survival >70%; postoperative mortality <3%.
 - **Cirrhotic HCC (BCLC 0/A):** Resection is treatment of choice for limited tumor burden, well-compensated cirrhosis **without clinically significant [[portal-hypertension|portal hypertension]] (CSPH)**, and adequate future liver remnant (FLR) (**Level 2, Strong Recommendation**).
-  - CSPH defined as HVPG ≥10 mmHg; clinical surrogates: varices, splenomegaly, platelets <100 × 10⁹/L, hepatic venous pressure gradient >10 mmHg
+  - CSPH defined as [[hepatic-venous-pressure-gradient|HVPG]] ≥10 mmHg; clinical surrogates: varices, splenomegaly, platelets <100 × 10⁹/L
   - Adequate FLR: typically **>30%** in absence of cirrhosis; **>40%** in cirrhotic patients
   - Assessment of FLR: contrast-enhanced CT or MRI volumetry; if FLR inadequate → portal vein embolization to augment contralateral hepatic lobe
 
@@ -267,7 +267,7 @@ flowchart TD
 - Post-liver transplant (graft loss and death risk — GS 49, Level 4, Strong) → use sorafenib or lenvatinib
 - Recent GI/esophageal bleed within 6 months and high-risk stigmata → prefer durvalumab+tremelimumab or sorafenib/lenvatinib
 
-**Pre-treatment requirement for atezo+bev:** [[upper-endoscopy|EGD]] to assess for high-risk variceal/GI bleed stigmata (GS 46a-i, Level 5, Strong). Patients with large varices: at least one variceal band ligation session prior to initiation; carvedilol may be considered as alternative variceal management.
+**Pre-treatment requirement for atezo+bev:** [[upper-endoscopy|EGD]] to assess for high-risk variceal/GI bleed stigmata (GS 46a-i, Level 5, Strong). Patients with [[variceal-upper-gi-bleeding|large varices]]: at least one variceal band ligation session prior to initiation; carvedilol may be considered as alternative variceal management.
 
 **NCCN 2026 first-line tiering ([[nccn-2026-hcc]]):** NCCN lists three **Preferred, category 1** first-line regimens — atezolizumab + bevacizumab, durvalumab + tremelimumab, and **ipilimumab + nivolumab** — plus durvalumab monotherapy, lenvatinib, and sorafenib as Other Recommended (also category 1). The notable change in Version 1.2026 is that **ipilimumab + nivolumab was elevated from a later-line option to Preferred category 1 first-line** on the strength of CheckMate-9DW (Yau T, et al. Lancet 2025;405:1851-1864), which showed improved OS vs lenvatinib/sorafenib. Caveat: the ipi+nivo arm had a higher rate of death in the first ~6 months and ~29% of patients required high-dose steroids for immune-mediated toxicity — counsel patients about early irAE risk (see [[immune-checkpoint-inhibitor-hepatitis]]). NCCN also strengthens the role of **EBRT/SBRT** (typically 3–5 fractions, image-guided) as a locoregional option for tumors irrespective of location when ablation/embolization is unsuitable, unsuccessful, or contraindicated. SC checkpoint-inhibitor formulations (atezolizumab-, nivolumab-, and pembrolizumab–hyaluronidase) may substitute for their IV counterparts.
 
@@ -444,7 +444,7 @@ Advance care planning (ACP) should be offered to all patients receiving palliati
 
 ## See Also
 
-[[li-rads]], [[hcc-surveillance]], [[focal-liver-lesions]], [[radiofrequency-ablation]], [[liver-transplantation]], [[portal-hypertension]], [[chronic-hepatitis-b]], [[hepatitis-c]], [[direct-acting-antivirals]], [[alcohol-associated-liver-disease]], [[nafld-masld]], [[hereditary-hemochromatosis]], [[wilson-disease]], [[acute-hepatic-porphyria]], [[autoimmune-hepatitis]], [[immune-checkpoint-inhibitor-hepatitis]], [[hepatocellular-adenoma]], [[focal-nodular-hyperplasia]], [[hepatic-hemangioma]], [[hepatic-cysts]], [[budd-chiari-syndrome]], [[post-transplant-lymphoproliferative-disorder]], [[cholangiocarcinoma]], [[calcineurin-inhibitors]], [[tacrolimus]], [[liver-biopsy]], [[upper-endoscopy]], [[hepatic-encephalopathy]], [[ascites]], [[obesity]]
+[[li-rads]], [[hcc-surveillance]], [[focal-liver-lesions]], [[radiofrequency-ablation]], [[liver-transplantation]], [[portal-hypertension]], [[hepatic-venous-pressure-gradient]], [[variceal-upper-gi-bleeding]], [[chronic-hepatitis-b]], [[hepatitis-c]], [[direct-acting-antivirals]], [[alcohol-associated-liver-disease]], [[nafld-masld]], [[hereditary-hemochromatosis]], [[wilson-disease]], [[acute-hepatic-porphyria]], [[autoimmune-hepatitis]], [[immune-checkpoint-inhibitor-hepatitis]], [[hepatocellular-adenoma]], [[focal-nodular-hyperplasia]], [[hepatic-hemangioma]], [[hepatic-cysts]], [[budd-chiari-syndrome]], [[post-transplant-lymphoproliferative-disorder]], [[cholangiocarcinoma]], [[calcineurin-inhibitors]], [[tacrolimus]], [[liver-biopsy]], [[upper-endoscopy]], [[hepatic-encephalopathy]], [[ascites]], [[obesity]]
 
 ---
 

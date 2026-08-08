@@ -3,7 +3,7 @@ title: "Intragastric Balloon (IGB)"
 category: advanced-procedure
 tags: [obesity, intragastric-balloon, endoscopic-bariatric-therapy, weight-management, bariatric]
 created: 2026-06-04
-updated: 2026-07-16
+updated: 2026-08-08
 sources: [aga-2021-intragastric-balloons, aga-2022-obesity-pharm]
 ---
 
@@ -37,7 +37,7 @@ A meta-analysis of 22 RCTs found **fluid-filled IGBs achieve ~3% more weight los
 
 ## Periprocedural Management
 
-- **PPI prophylaxis** is strongly recommended throughout IGB therapy (Rec 3, strong, moderate certainty) to reduce mucosal injury and [[upper-gi-bleeding]]; use the lowest effective dose, frequency, and duration given PPI-associated risks (e.g. [[clostridioides-difficile|C. difficile]], pneumonia, fracture, kidney disease, micronutrient deficiency).
+- **[[proton-pump-inhibitors|PPI]] prophylaxis** is strongly recommended throughout IGB therapy (Rec 3, strong, moderate certainty) to reduce mucosal injury and [[upper-gi-bleeding]]; use the lowest effective dose, frequency, and duration given PPI-associated risks (e.g. [[clostridioides-difficile|C. difficile]], pneumonia, fracture, kidney disease, micronutrient deficiency).
 - **Antiemesis** (Rec 4, conditional, low certainty): use intraoperative anesthetic regimens with the lowest nausea incidence plus perioperative antiemetics, and a **scheduled antiemetic regimen for 2 weeks** after placement; no specific regimen is endorsed.
 - **Nutritional screening** (Rec 5, conditional, low certainty): AGA suggests **against** routine perioperative laboratory screening for nutritional deficiencies.
 - **Supplementation** (Rec 6, conditional, very low certainty): suggests **daily 1–2 adult-dose multivitamins** after placement.
@@ -54,7 +54,7 @@ AGA suggests subsequent weight-loss/maintenance interventions — **dietary inte
 
 ## See Also
 
-[[obesity]], [[semaglutide]], [[bariatric-surgery]], [[upper-gi-bleeding]]
+[[obesity]], [[semaglutide]], [[proton-pump-inhibitors]], [[bariatric-surgery]], [[upper-gi-bleeding]]
 
 ---
 

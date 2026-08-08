@@ -3,7 +3,7 @@ title: "Hepatic Venous Pressure Gradient (HVPG)"
 category: concept
 tags: [hvpg, portal-hypertension, cirrhosis, CSPH, wedged-hepatic-vein-pressure, variceal-bleeding, hemodynamics, endo-hepatology]
 created: 2026-08-05
-updated: 2026-08-05
+updated: 2026-08-08
 sources: [baveno-vii-2022-portal-hypertension, aasld-2023-portal-hypertension, wang-2026-eus-ppg-delphi-consensus]
 ---
 
@@ -44,10 +44,10 @@ Baveno VII methodology statements ([[baveno-vii-2022-portal-hypertension]], 1.1�
 | 1–5 | Normal |
 | >5 | Sinusoidal portal hypertension (1.9) |
 | 5–9 | PH without CSPH — no varices, low complication risk |
-| **≥10** | **Clinically significant portal hypertension (CSPH)** (1.10, changed from >10 to ≥10) — threshold above which varices, [[ascites|ascites]], and decompensation risk rise; predicts decompensation/death after liver resection for [[hepatocellular-carcinoma|HCC]] (1.18) |
+| **≥10** | **Clinically significant portal hypertension (CSPH)** (1.10, changed from >10 to ≥10) — threshold above which varices, [[ascites\|ascites]], and decompensation risk rise; predicts decompensation/death after liver resection for [[hepatocellular-carcinoma\|HCC]] (1.18) |
 | ≥12 | Threshold for **variceal bleeding** risk |
 | ≥16 | Increased **short-term mortality after non-hepatic abdominal surgery** (1.19) |
-| ≥20 | Measured at the time of acute hemorrhage → predicts treatment failure in acute variceal bleeding; a criterion for **pre-emptive [[tips|TIPS]]** (Baveno VII 6.27) |
+| ≥20 | Measured at the time of acute hemorrhage → predicts treatment failure in acute variceal bleeding; a criterion for **pre-emptive [[tips\|TIPS]]** (Baveno VII 6.27) |
 
 *Full noninvasive CSPH staging (LSM "rule of 5", spleen stiffness), and management by stratum, live on [[portal-hypertension]].*
 

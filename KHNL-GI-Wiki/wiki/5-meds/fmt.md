@@ -3,13 +3,13 @@ title: "Fecal Microbiota Transplantation (Fecal Microbiota-Based Therapies)"
 category: med
 tags: [fmt, microbiome, cdiff, recurrent-cdi]
 created: 2026-07-26
-updated: 2026-08-05
+updated: 2026-08-08
 sources: [aga-2024-fmt]
 ---
 
 ## Overview
 
-Transfer of stool-derived microbiota to restore a disrupted gut microbiome. Delivered as **conventional FMT** (donor stool, via colonoscopy, capsule, or enema) or **FDA-approved live biotherapeutic products** — fecal microbiota live-jslm (RBL, rectal) and fecal microbiota spores live-brpk (oral). Established evidence-based role: **recurrent [[clostridioides-difficile|C. difficile]] infection (CDI)** after standard-of-care antibiotics ([[aga-2024-fmt]]).
+Transfer of stool-derived microbiota to restore a disrupted gut microbiome. Delivered as **conventional FMT** (donor stool, via [[colonoscopy]], capsule, or enema) or **FDA-approved live biotherapeutic products** — fecal microbiota live-jslm (RBL, rectal) and fecal microbiota spores live-brpk (oral). Established evidence-based role: **recurrent [[clostridioides-difficile|C. difficile]] infection (CDI)** after standard-of-care antibiotics ([[aga-2024-fmt]]).
 
 ## Indications & AGA 2024 Recommendations
 

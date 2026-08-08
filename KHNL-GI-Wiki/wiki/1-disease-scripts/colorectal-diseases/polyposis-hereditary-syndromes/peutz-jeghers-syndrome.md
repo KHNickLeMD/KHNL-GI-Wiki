@@ -3,7 +3,7 @@ title: "Peutz-Jeghers Syndrome"
 category: disease-script
 tags: [peutz-jeghers, pjs, stk11, lkb1, hamartoma, hereditary-crc, pancreatic-cancer, small-bowel, intussusception, genetic-testing]
 created: 2026-05-19
-updated: 2026-07-29
+updated: 2026-08-08
 sources: [acg-2015-hereditary-gi-cancer, aga-2022-hamartomatous-polyposis]
 ---
 
@@ -62,7 +62,7 @@ SCTAT = sex cord tumor with annular tubules; ~20% become malignant. PJS is assoc
 
 ## Differential Diagnosis
 
-- **[[juvenile-polyposis-syndrome|Juvenile polyposis syndrome]]** ([[juvenile-polyposis-syndrome]]) — juvenile polyps lack arborizing muscularis pattern; SMAD4/BMPR1A
+- **[[juvenile-polyposis-syndrome|Juvenile polyposis syndrome]]** — juvenile polyps lack arborizing muscularis pattern; SMAD4/BMPR1A
 - **[[familial-adenomatous-polyposis]]** — adenomatous polyps, not hamartomas; APC gene
 - **[[cowden-syndrome]]** — PTEN hamartomas; macrocephaly; no mucocutaneous pigmentation
 - **Hereditary mixed polyposis syndrome** — mixed polyp types; GREM1

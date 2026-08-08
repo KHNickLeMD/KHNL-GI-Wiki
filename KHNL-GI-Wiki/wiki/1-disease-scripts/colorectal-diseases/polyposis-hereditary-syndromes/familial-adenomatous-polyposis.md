@@ -3,7 +3,7 @@ title: "Familial Adenomatous Polyposis"
 category: disease-script
 tags: [fap, apc, afap, map, mutyh, hereditary-crc, polyposis, duodenal-adenoma, desmoid, spigelman, genetic-testing, colorectal-cancer]
 created: 2026-05-19
-updated: 2026-07-29
+updated: 2026-08-08
 sources: [acg-2015-hereditary-gi-cancer, asge-2020-fap]
 ---
 
@@ -66,9 +66,9 @@ Familial adenomatous polyposis (FAP) and its related syndromes — attenuated FA
 
 - **[[lynch-syndrome]]** — fewer polyps (usually <10); right-sided; MMR gene mutations
 - **[[serrated-polyposis-syndrome]]** — predominantly serrated/hyperplastic polyps; no clear germline etiology
-- **[[juvenile-polyposis-syndrome|Juvenile polyposis syndrome]]** — hamartomatous polyps; SMAD4/BMPR1A; see [[juvenile-polyposis-syndrome]]
+- **[[juvenile-polyposis-syndrome|Juvenile polyposis syndrome]]** — hamartomatous polyps; SMAD4/BMPR1A
 - **[[peutz-jeghers-syndrome]]** — hamartomas + mucocutaneous pigmentation; STK11
-- **[[cowden-syndrome|Cowden syndrome]]** — hamartomas + PTEN mutation; see [[cowden-syndrome]]
+- **[[cowden-syndrome|Cowden syndrome]]** — hamartomas + PTEN mutation
 - **Hereditary mixed polyposis syndrome (HMPS)** — mixed juvenile-adenomatous and serrated adenomas; linked to GREM1 duplication; may be misdiagnosed as JPS or SPS
 
 ---

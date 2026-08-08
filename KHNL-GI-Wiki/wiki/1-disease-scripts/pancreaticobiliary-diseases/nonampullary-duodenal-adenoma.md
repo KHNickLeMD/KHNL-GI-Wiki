@@ -3,7 +3,7 @@ title: "Nonampullary Duodenal Adenoma"
 category: disease-script
 tags: [duodenal-adenoma, nonampullary-adenoma, endoscopic-mucosal-resection, cold-snare, familial-adenomatous-polyposis, spiegelman, surveillance, gi-bleeding, perforation]
 created: 2026-07-21
-updated: 2026-07-21
+updated: 2026-08-08
 sources: [aga-2025-nonampullary-duodenal]
 ---
 
@@ -55,7 +55,7 @@ Describe every duodenal polyp by **(BPA 3):**
 ## Differential Diagnosis
 
 - **Non-neoplastic epithelial:** metaplastic foveolar epithelium, gastric heterotopia, inflammatory/pseudopolyp (bulb-predominant; no resection unless symptomatic/bleeding).
-- **Brunner gland hamartoma:** uncommon, benign, often solitary pedunculated, up to 2–5 cm, from lobular proliferation of Brunner glands. Resection generally unnecessary unless symptomatic or large (>2 cm → obstruction, pain, bleeding); large lesions may cause GI hemorrhage with iron deficiency; rare dysplasia.
+- **Brunner gland hamartoma:** uncommon, benign, often solitary pedunculated, up to 2–5 cm, from lobular proliferation of Brunner glands. Resection generally unnecessary unless symptomatic or large (>2 cm → obstruction, pain, bleeding); large lesions may cause GI hemorrhage with [[iron-deficiency-anemia|iron deficiency]]; rare dysplasia.
 - **Duodenal hamartoma:** associated with [[peutz-jeghers-syndrome|Peutz-Jeghers]], [[cowden-syndrome|Cowden]], [[juvenile-polyposis-syndrome|juvenile polyposis]]; solitary PJ-type polyps can occur **without** PJ syndrome — endoscopic resection generally recommended.
 - **[[subepithelial-lesion|Subepithelial lesions]]:** [[gastroenteropancreatic-neuroendocrine-tumors|neuroendocrine tumor]], [[gastrointestinal-stromal-tumor|GIST]], lipoma, leiomyoma.
 - **[[ampullary-adenoma|Ampullary adenoma]] / carcinoma** — exclude papillary involvement.

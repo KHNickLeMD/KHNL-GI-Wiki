@@ -3,7 +3,7 @@ title: "POEM (Peroral Endoscopic Myotomy)"
 category: advanced-procedure
 tags: [poem, achalasia, myotomy, motility, esophageal, foregut, gerd, egjoo]
 created: 2026-05-16
-updated: 2026-08-04
+updated: 2026-08-08
 sources: [aga-2024-poem-advances, sages-2024-poem, sages-2021-poem]
 ---
 # POEM (Peroral Endoscopic Myotomy)
@@ -62,7 +62,7 @@ Endoscopic myotomy of the lower esophageal sphincter (LES) and distal esophageal
 
 - **Routine post-POEM esophagram/endoscopy** (AGA 2024 BPA 7): unclear benefit; high false-positive rate and poor correlation with clinically significant outcomes. Most complications are identified at the time of the procedure → **postprocedural testing should be driven by clinical suspicion / intraprocedural events**, not routine.
 - **Same-day discharge** (AGA 2024 BPA 8): feasible in select patients (achieved in 62–79% without post-discharge complications in retrospective series). Criteria: no intraprocedural issues requiring observation, tolerates oral fluids, minimal nausea/pain manageable orally; **contact within 24–48 h**. Consider **admission** for advanced age, significant comorbidities, poor social support, and/or limited access to specialized care — irrespective of symptoms.
-- **Acid suppression** (AGA 2024 BPA 9): strongly consider empiric PPI in the immediate post-POEM healing period given high reflux/esophagitis risk; continue **≥3–6 months** until re-evaluation.
+- **Acid suppression** (AGA 2024 BPA 9): strongly consider empiric [[proton-pump-inhibitors|PPI]] in the immediate post-POEM healing period given high reflux/esophagitis risk; continue **≥3–6 months** until re-evaluation.
 
 ## Post-POEM Reflux
 
@@ -73,7 +73,7 @@ Endoscopic myotomy of the lower esophageal sphincter (LES) and distal esophageal
   - **Off-PPI** pH monitoring if presence of [[gerd|GERD]] is in question.
   - **On-PPI** testing if GERD already established or esophagitis **[[gerd|LA grade B or higher]]** — assesses adequacy of acid suppression.
 - Reflux symptoms after POEM may **not** be acid-related (food stasis, acid fermentation, visceral hypersensitivity) — objective testing discriminates.
-- **Management ladder:** confirm PPI adherence (take 30–60 min before meals) → diet/lifestyle + alginates for mild/breakthrough → potassium-competitive acid blocker (e.g., vonoprazan) a possible future preferred option for difficult erosive esophagitis → **antireflux procedure** (endoscopic or surgical fundoplication) in a small subset after confirming GERD, excluding other etiologies, and failing optimization.
+- **Management ladder:** confirm PPI adherence (take 30–60 min before meals) → diet/lifestyle + alginates for mild/breakthrough → [[potassium-competitive-acid-blockers|potassium-competitive acid blocker]] (e.g., [[vonoprazan]]) a possible future preferred option for difficult erosive esophagitis → **antireflux procedure** (endoscopic or surgical fundoplication) in a small subset after confirming GERD, excluding other etiologies, and failing optimization.
 - Reflux esophagitis and abnormal acid exposure **decrease over time** (ongoing LES healing/remodeling) → favor a stepwise approach.
 
 ## Long-Term Surveillance

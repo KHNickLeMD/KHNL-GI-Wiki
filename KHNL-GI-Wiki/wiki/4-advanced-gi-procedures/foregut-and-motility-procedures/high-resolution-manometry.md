@@ -3,7 +3,7 @@ title: "High-Resolution Manometry (HRM)"
 category: advanced-procedure
 tags: [hrm, manometry, esophageal, motility, foregut, chicago-classification, hrem]
 created: 2026-05-16
-updated: 2026-07-17
+updated: 2026-08-08
 sources: [acg-2020-esophageal-physiologic-testing]
 ---
 
@@ -88,7 +88,7 @@ Manometric hiatal hernia criteria: LES-CD separation >2 cm. Body position affect
 - Among 177 patients with noncardiac chest pain (NCCP) who underwent HRM + [[ambulatory-reflux-monitoring|pH testing]]: 35% had [[gerd|GERD]], 7% had jackhammer esophagus, 5% had distal esophageal spasm, 2% had achalasia — HRM changed management
 - In patients with suspected GERD: 3% undergoing fundoplication had achalasia spectrum disorders on preoperative HRM; 29% of patients treated unsuccessfully for GERD with antisecretory medications ultimately had achalasia
 - Post-prandial HRIM (high-resolution impedance manometry): identifies [[rumination-syndrome|rumination syndrome]] (sensitivity/specificity 75–80%/100%); identifies supragastric belching
-- HRIM for chest pain: HRM complements diagnostic evaluation of chest pain not responsive to PPI therapy (Key concept, ACG 2020)
+- HRIM for chest pain: HRM complements diagnostic evaluation of chest pain not responsive to [[proton-pump-inhibitors|PPI]] therapy (Key concept, ACG 2020)
 
 ---
 

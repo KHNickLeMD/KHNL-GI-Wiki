@@ -3,7 +3,7 @@ title: "Esophageal Dysfunction in Systemic Immune & Inflammatory Disease"
 category: concept
 tags: [esophagus, dysphagia, systemic-sclerosis, mctd, sjogrens, sle, myositis, lichen-planus, pemphigus, hypereosinophilic-syndrome, egpa, secondary-achalasia, dysmotility]
 created: 2026-07-28
-updated: 2026-07-28
+updated: 2026-08-08
 sources: [aga-2024-esophageal-immunity-infection]
 ---
 
@@ -23,7 +23,7 @@ Framework for the **esophageal manifestations of systemic autoimmune, eosinophil
 
 | Entity | Key feature | Esophageal relevance |
 |---|---|---|
-| **Hypereosinophilic syndrome (HES)** | AEC **>1500 cells/µL** + organ damage from eosinophilic infiltration | Up to 38% have GI symptoms; can mimic [[eosinophilic-esophagitis|EoE]] — distinguished by **peripheral eosinophilia** (rare in isolated EoE). Screen for other organ (skin/lung/heart/neuro) involvement. |
+| **Hypereosinophilic syndrome (HES)** | AEC **>1500 cells/µL** + organ damage from eosinophilic infiltration | Up to 38% have GI symptoms; can mimic [[eosinophilic-esophagitis\|EoE]] — distinguished by **peripheral eosinophilia** (rare in isolated EoE). Screen for other organ (skin/lung/heart/neuro) involvement. |
 | **EGPA (Churg-Strauss)** | Eosinophilic vasculitis; 3 stages (allergic prodrome → eosinophilic → vasculitic); only **30–40% ANCA-positive** | Esophageal symptoms rare (eosinophilic infiltration or vasculitic neuropathy); allergy/rheumatology input. |
 
 ## Connective Tissue / Rheumatologic Disease (BPA 7)

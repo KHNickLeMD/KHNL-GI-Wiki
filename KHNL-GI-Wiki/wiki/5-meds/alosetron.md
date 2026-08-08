@@ -3,7 +3,7 @@ title: "Alosetron"
 category: med
 tags: [ibs, ibs-d, 5-ht3-antagonist, serotonin]
 created: 2026-07-26
-updated: 2026-08-06
+updated: 2026-08-08
 sources: [acg-2020-ibs, aga-2022-ibs-d]
 ---
 
@@ -24,9 +24,9 @@ sources: [acg-2020-ibs, aga-2022-ibs-d]
 - **Women with severe [[irritable-bowel-syndrome|IBS-D]]** who have **not responded to conventional therapy** ([[acg-2020-ibs|ACG 2020]], Conditional/Low; [[aga-2022-ibs-d|AGA 2022]], Conditional, moderate certainty).
 - **"Severe" defined as ≥1 of** (AGA 2022):
   - Frequent and severe abdominal pain/discomfort
-  - Frequent bowel urgency or fecal incontinence
+  - Frequent bowel urgency or [[fecal-incontinence|fecal incontinence]]
   - Disability or restriction of daily activities due to IBS
-- **Restricted-distribution risk-management program (REMS).** Originally FDA-approved 2000 for IBS-D in women; **voluntarily withdrawn** due to serious adverse events (**ischemic colitis** and **serious complications of constipation**); reintroduced 2002 restricted to severe IBS-D in women under the risk-management program.
+- **Restricted-distribution risk-management program (REMS).** Originally FDA-approved 2000 for IBS-D in women; **voluntarily withdrawn** due to serious adverse events (**[[colon-ischemia|ischemic colitis]]** and **serious complications of constipation**); reintroduced 2002 restricted to severe IBS-D in women under the risk-management program.
 
 ## Dosing
 Per [[aga-2022-ibs-d|AGA 2022]]:

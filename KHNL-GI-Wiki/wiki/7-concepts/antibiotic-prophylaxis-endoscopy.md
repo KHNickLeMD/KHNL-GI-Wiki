@@ -3,7 +3,7 @@ title: "Antibiotic Prophylaxis for GI Endoscopy"
 category: concept
 tags: [antibiotic-prophylaxis, infective-endocarditis, ercp, peg, eus-fna, cirrhosis, gi-bleeding, bacteremia, endoscopy]
 created: 2026-06-27
-updated: 2026-07-17
+updated: 2026-08-08
 sources: [asge-2015-antibiotic-prophylaxis, colan-hernandez-2020-eus-fna-panc-cyst-antibiotics]
 ---
 
@@ -46,7 +46,7 @@ Framework for when periprocedural antibiotics are — and are not — indicated 
 | Bile duct obstruction, incomplete drainage | ERCP | **Recommended**, continue after | 444B |
 | Solid lesion (upper / lower) | EUS-FNA | Not recommended | 4444 / 444B |
 | Mediastinal cyst | EUS-FNA | **Suggested** | 44BB |
-| Pancreatic/peripancreatic cyst | EUS-FNA | **Suggested** (44BB) — but RCT ([[colan-hernandez-2020-eus-fna-panc-cyst-antibiotics|2020]]) shows not needed | 44BB |
+| Pancreatic/peripancreatic cyst | EUS-FNA | **Suggested** (44BB) — but RCT ([[colan-hernandez-2020-eus-fna-panc-cyst-antibiotics\|2020]]) shows not needed | 44BB |
 | All patients | PEG/PEJ placement | **Recommended** (cefazolin) | 4444 |
 | Cirrhosis + acute GI bleed | Any/none | **On admission** (ceftriaxone) | 4444 |
 | Synthetic vascular graft / nonvalvular CV device | Any | Not recommended | 4444 |

@@ -3,7 +3,7 @@ title: "Endoscopic Submucosal Dissection (ESD)"
 category: advanced-procedure
 tags: [esd, endoscopic-resection, emr, early-gastric-cancer, early-esophageal-cancer, en-bloc, r0-resection]
 created: 2026-06-27
-updated: 2026-07-30
+updated: 2026-08-08
 sources: [asge-2023-esd]
 ---
 
@@ -34,7 +34,7 @@ All recommendations are *conditional* (GRADE "suggest"). Thresholds below are fo
 | Cancer | ESD over EMR | Either ESD or EMR | Surgery |
 |---|---|---|---|
 | **Esophageal SCC (ESCC)** | >15 mm | ≤15 mm | **Against surgery** when endoscopic resection feasible |
-| **Esophageal adenocarcinoma (EAC)** | >20 mm | ≤20 mm | (no comparative ESD-vs-surgery evidence) |
+| **[[esophageal-adenocarcinoma\|Esophageal adenocarcinoma (EAC)]]** | >20 mm | ≤20 mm | (no comparative ESD-vs-surgery evidence) |
 | **Gastric adenocarcinoma (GAC)**, intestinal type | 20–30 mm | <20 mm | **Against surgery** for ≤30 mm; **poorly differentiated (any size) → surgical evaluation** over endoscopy |
 
 - Lesions exceeding size/depth criteria (e.g. deep submucosal invasion) → **surgical evaluation** over endoscopic approaches.
@@ -82,7 +82,7 @@ Meta-analysis (8 observational studies; 821 ESD vs 1306 EMR):
 
 ## See Also
 
-[[polypectomy-emr]], [[endoscopic-eradication-therapy]], [[endoscopic-full-thickness-resection]], [[upper-endoscopy]], [[barretts-esophagus]], [[gastric-adenocarcinoma]], [[gastric-intestinal-metaplasia]], [[esophageal-cancer]], [[colorectal-cancer]], [[endoscopic-oncology]]
+[[polypectomy-emr]], [[endoscopic-eradication-therapy]], [[endoscopic-full-thickness-resection]], [[upper-endoscopy]], [[barretts-esophagus]], [[gastric-adenocarcinoma]], [[gastric-intestinal-metaplasia]], [[esophageal-cancer]], [[esophageal-adenocarcinoma]], [[colorectal-cancer]], [[endoscopic-oncology]]
 
 ---
 

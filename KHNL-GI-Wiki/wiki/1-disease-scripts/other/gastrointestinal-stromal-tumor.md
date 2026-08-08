@@ -3,7 +3,7 @@ title: "Gastrointestinal Stromal Tumor (GIST)"
 category: disease-script
 tags: [gist, gastrointestinal-stromal-tumor, subepithelial-lesion, kit, cd117, dog1, pdgfra, sdh-deficient, imatinib, sunitinib, regorafenib, ripretinib, avapritinib, mesenchymal-tumor, nccn, oncology]
 created: 2026-06-18
-updated: 2026-07-23
+updated: 2026-08-08
 sources: [nccn-2026-gist, acg-2023-subepithelial-lesions, asge-2017-subepithelial-lesions]
 ---
 
@@ -19,7 +19,32 @@ Malignant potential is estimated from **tumor size, mitotic rate, and primary si
 
 **EUS features of malignancy** ([[acg-2023-subepithelial-lesions]]): heterogeneous echotexture, large size (>3–5 cm), irregular margins, anechoic/cystic spaces, echogenic foci, malignant-appearing nodes. **≥2 features** → sensitivity for malignancy 80–100%; absence of all of irregular border / echogenic foci / cystic spaces → malignancy in only 0–11%. **Tumor size is the only feature that correlates with mitotic index** — EUS does not reliably predict mitotic rate in 2–5 cm GISTs, so final malignant potential is set by surgical pathology.
 
-⚠ **Decision gap (narrowed).** The surveil-vs-resect thresholds are now on-page (see Therapeutics), but the full **modified-NIH / AFIP size × mitotic-rate prognostic table** that assigns a resected GIST to a recurrence-risk stratum for **adjuvant imatinib** is not reproduced: NCCN's licence bars its proprietary version and [[asge-2017-subepithelial-lesions]] references but did not reproduce the AFIP table. **Consult the AFIP / NCCN risk-stratification table directly** before deciding on adjuvant therapy.
+**Malignant potential by size × mitotic rate × site (AFIP/Miettinen data; [[asge-2017-subepithelial-lesions]] Tables 3–4)** — metastasis rate or tumor-related mortality. Confirms gastric GISTs behave more favorably than small-intestinal GISTs of equivalent size/mitotic rate.
+
+*Gastric GISTs:*
+
+| Tumor size | Mitotic rate | Metastasis / tumor-related mortality |
+|---|---|---|
+| ≤2 cm | ≤5/50 HPF | 0% |
+| ≤2 cm | >5/50 HPF | <4% |
+| >2–≤10 cm | ≤5/50 HPF | <4% |
+| >2–5 cm | >5/50 HPF | 16% |
+| >5–10 cm | >5/50 HPF | 55% |
+| >10 cm | ≤5/50 HPF | 12% |
+| >10 cm | >5/50 HPF | 86% |
+
+*Small-intestine GISTs:*
+
+| Tumor size | Mitotic rate | Metastasis / tumor-related mortality |
+|---|---|---|
+| ≤2 cm | ≤5/50 HPF | 0% |
+| >2–5 cm | ≤5/50 HPF | 2% |
+| >2–5 cm | >5/50 HPF | 73% |
+| >5–10 cm | ≤5/50 HPF | 25% |
+| >5–10 cm | >5/50 HPF | 85% |
+| >10 cm | >5/50 HPF | 50–90% |
+
+⚠ **Decision gap (residual).** The AFIP/Miettinen size × mitotic-rate × site metastasis-risk data above is now on-page, and the surveil-vs-resect thresholds are in Therapeutics. What is **not** reproduced (not in an ingested source) is the **modified-NIH (Joensuu) recurrence-risk classification** — which adds tumor rupture and uses different size/mitotic bands — that NCCN uses to select **adjuvant imatinib**; NCCN's licence also bars its proprietary version. Consult that classification directly for the adjuvant-therapy stratum.
 
 ### Classification / Typing
 
