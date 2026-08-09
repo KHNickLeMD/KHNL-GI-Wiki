@@ -3,35 +3,37 @@ title: "Bismuth Quadruple Therapy (BQT)"
 category: med
 tags: [h-pylori, eradication, bismuth, tetracycline, metronidazole, ppi, pylera]
 created: 2026-05-07
-updated: 2026-07-16
-sources: [acg-2017-hp-guidelines]
+updated: 2026-08-09
+sources: [acg-2024-hp-treatment, acg-2017-hp-guidelines]
 ---
 
-# Bismuth Quadruple Therapy (BQT)
+## Components ("Optimized" BQT — ACG 2024)
 
----
-
-## Components
+Four drugs × 14 days. **Optimized** BQT = appropriately dosed PPI + bismuth + nitroimidazole (total **1,500–2,000 mg/day** in divided doses) + tetracycline (**not** doxycycline — substituting doxycycline lowers efficacy). [[acg-2024-hp-treatment]]
 
 | Drug | Dose | Frequency |
 |---|---|---|
-| [[proton-pump-inhibitors|PPI]] (e.g. omeprazole 20mg) | Standard dose | Twice daily |
-| Bismuth subsalicylate | 525mg | Four times daily |
-| Metronidazole | 250mg | Four times daily |
-| Tetracycline | 500mg | Four times daily |
+| [[proton-pump-inhibitors|PPI]] (standard dose) | Standard dose, 30–60 min before a meal | Twice daily (b.i.d.) |
+| Bismuth — subcitrate **120–300 mg**, or subsalicylate **300 mg** | as listed | Four times daily (q.i.d.) |
+| Tetracycline | **500 mg** | Four times daily (q.i.d.) |
+| Metronidazole (nitroimidazole; tinidazole an alternative) | **500 mg** (target 1,500–2,000 mg/day) | Three or four times daily (t.i.d.–q.i.d.) |
 
-**Duration:** 10–14 days (14 days preferred per [[acg-2017-hp-guidelines]])
+**Duration:** **14 days preferred** (ACG 2024, Strong / moderate quality). [[acg-2024-hp-treatment]]
 
-**Commercial formulation:** Pylera (bismuth subcitrate potassium 140mg + metronidazole 125mg + tetracycline 125mg per capsule; 3 capsules qid + PPI bid)
+**Commercial formulations (FDA-approved only as combination packs; individual-component BQT is not FDA-approved):**
+- **Pylera** — bismuth subcitrate potassium + metronidazole + tetracycline per capsule; 3 capsules q.i.d. + PPI b.i.d.; **dispensed only as a 10-day regimen**.
+- **Helidac** — bismuth subsalicylate + metronidazole + tetracycline; dispensed as a 14-day regimen (originally approved with an H2RA, but ACG 2024 does **not** recommend H2RAs in eradication regimens).
+
+> **Dosing change vs. earlier practice:** ACG 2024 specifies metronidazole **500 mg t.i.d.–q.i.d.** (1,500–2,000 mg/day). The older under-dosed 250 mg q.i.d. (1,000 mg/day) is no longer the recommended target.
 
 ---
 
 ## Indications
 
-- **Preferred first-line** [[helicobacter-pylori-infection|H. pylori]] eradication in the US (high clarithromycin resistance)
-- Any region with clarithromycin resistance >15%
-- Penicillin allergy (replaces amoxicillin-based regimens)
-- Second-line after failed clarithromycin-based triple therapy
+- **Preferred empiric first-line** for treatment-naive [[helicobacter-pylori-infection|H. pylori]] when antibiotic susceptibility is unknown — **Strong recommendation** (ACG 2024). [[acg-2024-hp-treatment]]
+- Clarithromycin triple therapy is **no longer recommended empirically** in the US (national clarithromycin resistance >15%), so BQT (or [[vonoprazan]]-based regimens) is favored regardless of clarithromycin exposure history.
+- Penicillin allergy — BQT contains no amoxicillin, making it a key regimen for these patients.
+- **Treatment-experienced / persistent infection:** *optimized* BQT is suggested for those who have **not** previously received BQT (including after PPI–clarithromycin triple failure). If BQT has **already** been used, switch to **rifabutin triple therapy** rather than repeating BQT (ACG 2024). [[acg-2024-hp-treatment]]
 
 ---
 
@@ -39,7 +41,8 @@ sources: [acg-2017-hp-guidelines]
 
 - Eradication rates: ~80–90% (intention-to-treat); up to 93% per-protocol
 - Superior to clarithromycin triple therapy in regions with high resistance
-- Less affected by metronidazole resistance than metronidazole-containing dual-drug regimens (high-dose, long-duration partially overcomes resistance)
+- Less affected by metronidazole resistance than metronidazole-containing dual-drug regimens — the "optimized" high total daily dose (1,500–2,000 mg) and 14-day duration partially overcome nitroimidazole resistance
+- Shortening tetracycline BQT to 10 days, or substituting doxycycline for tetracycline, reduced effectiveness in the trials reviewed by ACG 2024
 
 ---
 
@@ -70,10 +73,11 @@ sources: [acg-2017-hp-guidelines]
 
 ## See Also
 
-[[helicobacter-pylori-infection]], [[test-and-treat]], [[vonoprazan]], [[peptic-ulcer-disease]]
+[[helicobacter-pylori-infection]], [[test-and-treat]], [[vonoprazan]], [[proton-pump-inhibitors]], [[peptic-ulcer-disease]], [[dyspepsia]]
 
 ---
 
 ## Sources
 
-1. [[acg-2017-hp-guidelines|ACG Clinical Guideline: Treatment of Helicobacter pylori Infection (2017)]]
+1. [[acg-2024-hp-treatment|ACG Clinical Guideline: Treatment of Helicobacter pylori Infection (2024)]]
+2. [[acg-2017-hp-guidelines|ACG Clinical Guideline: Treatment of Helicobacter pylori Infection (2017)]]

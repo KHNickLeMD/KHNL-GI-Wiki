@@ -3,7 +3,7 @@ title: "Liver Biopsy"
 category: concept
 tags: [liver-biopsy, hepatology, fibrosis-staging, percutaneous, transjugular, eus-guided, coagulation, complications, specimen-adequacy]
 created: 2026-06-04
-updated: 2026-07-16
+updated: 2026-08-09
 sources: [aasld-2009-liver-biopsy, aga-2021-cirrhosis-coagulation]
 ---
 
@@ -32,7 +32,7 @@ Accomplished via a jugular or femoral venous approach under fluoroscopy. Conside
 - **Clinically evident [[ascites]]** (transvenous generally recommended; alternatives are percutaneous after paracentesis, or laparoscopic — Rec 16).
 - **Uncooperative patients** (alternative to general anesthesia — Rec 15).
 - Known/suspected **hemostatic defect**, small/hard cirrhotic liver, morbid [[obesity]] with a difficult flank site.
-- When **hepatic venous pressure gradient** measurement is also desired (relevant to [[portal-hypertension]]).
+- When **[[hepatic-venous-pressure-gradient|hepatic venous pressure gradient]]** measurement is also desired (relevant to [[portal-hypertension]]).
 
 Transvenous biopsy yields smaller specimens (typically 3 cores with a 19-gauge needle to limit sampling error). Bleeding risk appears similar to percutaneous overall, but comparative data are confounded by selection bias.
 
@@ -75,7 +75,7 @@ Serum fibrosis panels and elastography (transient/MR) increasingly assess fibros
 
 ## See Also
 
-[[noninvasive-liver-disease-assessment]], [[cirrhosis-hemostasis]], [[autoimmune-hepatitis]], [[nafld-masld]], [[primary-biliary-cholangitis]], [[primary-sclerosing-cholangitis]], [[wilson-disease]], [[hereditary-hemochromatosis]], [[hepatocellular-carcinoma]], [[cholangiocarcinoma]], [[drug-induced-liver-injury]], [[portal-hypertension]], [[endoscopic-ultrasound]], [[ascites]], [[acute-liver-failure]], [[anticoagulation-gi-bleeding]], [[iron-overload-and-iron-metabolism]], [[liver-transplantation]]
+[[noninvasive-liver-disease-assessment]], [[cirrhosis-hemostasis]], [[autoimmune-hepatitis]], [[nafld-masld]], [[primary-biliary-cholangitis]], [[primary-sclerosing-cholangitis]], [[wilson-disease]], [[hereditary-hemochromatosis]], [[hepatocellular-carcinoma]], [[cholangiocarcinoma]], [[drug-induced-liver-injury]], [[portal-hypertension]], [[hepatic-venous-pressure-gradient]], [[endoscopic-ultrasound]], [[ascites]], [[acute-liver-failure]], [[anticoagulation-gi-bleeding]], [[iron-overload-and-iron-metabolism]], [[liver-transplantation]]
 
 ---
 

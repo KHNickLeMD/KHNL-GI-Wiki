@@ -276,7 +276,7 @@ updated: 2026-08-05
 
 
 - [[probiotics]] — Probiotics: strain/dose-specific; AGA FOR (C diff prevention, pouchitis, NEC), AGAINST (peds gastroenteritis), trial-only elsewhere (1 source)
-- [[bismuth-quadruple-therapy]] — Bismuth-containing quadruple therapy: components, indications, and efficacy (1 source)
+- [[bismuth-quadruple-therapy]] — ACG 2024 preferred first-line H. pylori eradication: optimized components/doses (metronidazole 1,500–2,000 mg/day), indications, efficacy (2 sources)
 - [[direct-acting-antivirals]] — DAA drug classes (NS3/4A + NS5A + NS5B); pangenotypic regimens (G/P, SOF/VEL); DDI table (cyclosporine); decompensated cirrhosis contraindications; see [[hepatitis-c]] for treatment tables (1 source)
 - [[somatostatin-analogs]] — Octreotide/lanreotide: SSTR2/5 agonism; acute variceal bleeding (octreotide 50 mcg bolus → 25–50 mcg/hr × 2–5 d); GEP-NET symptom + antiproliferative control and carcinoid crisis; refractory small-bowel vascular bleeding (octreotide LAR 90 mg monthly × 12 mo); biliary/glycemic adverse effects (3 sources)
 - [[glp-2-agonists]] — GLP-2 agonists (teduglutide): trophic to intestinal mucosa; enhance adaptation + facilitate PN weaning in short bowel syndrome; see [[nutrition-in-ibd]] (stub)

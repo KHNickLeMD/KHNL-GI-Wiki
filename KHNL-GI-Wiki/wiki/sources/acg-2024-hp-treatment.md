@@ -3,7 +3,7 @@ title: "ACG Clinical Guideline: Treatment of Helicobacter pylori Infection (2024
 category: source
 tags: [h-pylori, eradication, bqt, vonoprazan, pcab, clarithromycin-resistance, antibiotics, gastric, foregut]
 created: 2026-05-07
-updated: 2026-05-28
+updated: 2026-08-09
 sources: []
 ---
 
@@ -35,7 +35,7 @@ Susceptibility-guided therapy is strongly advocated before using clarithromycin-
 
 | Regimen | Components | Duration | Strength |
 |---|---|---|---|
-| **Bismuth quadruple therapy (BQT)** | PPI bid + bismuth subsalicylate 525 mg qid + metronidazole 500 mg qid + tetracycline 500 mg qid | 14 days | Strong |
+| **Bismuth quadruple therapy (BQT)** | PPI bid + bismuth subsalicylate 300 mg (or subcitrate 120–300 mg) qid + metronidazole 500 mg tid–qid (1,500–2,000 mg/day) + tetracycline 500 mg qid | 14 days | Strong |
 | **Vonoprazan dual therapy** | Vonoprazan 20 mg bid + amoxicillin 1 g bid | 14 days | Strong |
 | **Vonoprazan triple therapy** | Vonoprazan 20 mg bid + amoxicillin 1 g bid + clarithromycin 500 mg bid | 14 days | Strong |
 | **Concomitant quadruple therapy** | PPI bid + amoxicillin 1 g bid + clarithromycin 500 mg bid + metronidazole 500 mg bid | 14 days | Conditional |
@@ -83,7 +83,7 @@ Susceptibility-guided therapy is strongly advocated before using clarithromycin-
 | Recommendation | Strength | Evidence Quality |
 |---|---|---|
 | **First-Line Therapy** | | |
-| Bismuth quadruple therapy (BQT): PPI bid + bismuth subsalicylate 525 mg qid + metronidazole 500 mg qid + tetracycline 500 mg qid × 14 days | Strong | Moderate |
+| Bismuth quadruple therapy (BQT): PPI bid + bismuth subsalicylate 300 mg (or subcitrate 120–300 mg) qid + metronidazole 500 mg tid–qid (1,500–2,000 mg/day) + tetracycline 500 mg qid × 14 days | Strong | Moderate |
 | Vonoprazan dual therapy: vonoprazan 20 mg bid + amoxicillin 1 g bid × 14 days | Strong | Moderate |
 | Vonoprazan triple therapy: vonoprazan 20 mg bid + amoxicillin 1 g bid + clarithromycin 500 mg bid × 14 days | Strong | Moderate |
 | Concomitant quadruple therapy: PPI bid + amoxicillin 1 g bid + clarithromycin 500 mg bid + metronidazole 500 mg bid × 14 days | Conditional | Moderate |

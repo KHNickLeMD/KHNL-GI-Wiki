@@ -3,11 +3,11 @@ title: "Liver Stiffness Measurement (Elastography)"
 category: concept
 tags: [liver-stiffness, elastography, transient-elastography, vcte, fibroscan, spleen-stiffness, cACLD, CSPH, noninvasive, portal-hypertension, fibrosis]
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-09
 sources: [baveno-vii-2022-portal-hypertension, aasld-2024-nilda-portal-htn, aasld-2023-portal-hypertension]
 ---
 
-Liver stiffness measurement (LSM) is a non-invasive estimate of hepatic fibrosis and portal pressure using elastography — a core [[noninvasive-liver-disease-assessment|NILDA]] tool. It is the point-of-care backbone of the [[portal-hypertension|cACLD/CSPH]] framework, letting clinicians stage [[cirrhosis|compensated advanced chronic liver disease]] and stratify decompensation risk **without biopsy or HVPG**.
+Liver stiffness measurement (LSM) is a non-invasive estimate of hepatic fibrosis and portal pressure using elastography — a core [[noninvasive-liver-disease-assessment|NILDA]] tool. It is the point-of-care backbone of the [[portal-hypertension|cACLD/CSPH]] framework, letting clinicians stage [[cirrhosis|compensated advanced chronic liver disease]] and stratify decompensation risk **without biopsy or [[hepatic-venous-pressure-gradient|HVPG]]**.
 
 ## Modalities
 
@@ -38,7 +38,7 @@ The full **"rule of 5"** algorithm, the cACLD/CSPH rule-in/rule-out cut-offs, th
 
 ## See Also
 
-[[portal-hypertension]], [[cirrhosis]], [[porto-sinusoidal-vascular-disorder]], [[nafld-masld]], [[liver-biopsy]], [[noninvasive-liver-disease-assessment]], [[variceal-upper-gi-bleeding]]
+[[portal-hypertension]], [[hepatic-venous-pressure-gradient]], [[cirrhosis]], [[porto-sinusoidal-vascular-disorder]], [[nafld-masld]], [[liver-biopsy]], [[noninvasive-liver-disease-assessment]], [[variceal-upper-gi-bleeding]]
 
 ---
 

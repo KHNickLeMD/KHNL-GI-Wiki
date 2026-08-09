@@ -3,7 +3,7 @@ title: "Hepatic Venous Pressure Gradient (HVPG)"
 category: concept
 tags: [hvpg, portal-hypertension, cirrhosis, CSPH, wedged-hepatic-vein-pressure, variceal-bleeding, hemodynamics, endo-hepatology]
 created: 2026-08-05
-updated: 2026-08-08
+updated: 2026-08-09
 sources: [baveno-vii-2022-portal-hypertension, aasld-2023-portal-hypertension, wang-2026-eus-ppg-delphi-consensus]
 ---
 
@@ -78,7 +78,7 @@ Where a **presinusoidal/noncirrhotic** cause is suspected (or in MASH), expert c
 
 ## See Also
 
-[[portal-hypertension]], [[cirrhosis]], [[interventional-eus-vascular]], [[tips]], [[variceal-upper-gi-bleeding]], [[porto-sinusoidal-vascular-disorder]], [[primary-biliary-cholangitis]], [[nafld-masld]], [[hepatocellular-carcinoma]], [[noninvasive-liver-disease-assessment]]
+[[portal-hypertension]], [[cirrhosis]], [[interventional-eus-vascular]], [[tips]], [[variceal-upper-gi-bleeding]], [[porto-sinusoidal-vascular-disorder]], [[primary-biliary-cholangitis]], [[nafld-masld]], [[hepatocellular-carcinoma]], [[noninvasive-liver-disease-assessment]], [[liver-stiffness-measurement]]
 
 ---
 

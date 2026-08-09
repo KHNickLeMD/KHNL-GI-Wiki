@@ -3,11 +3,31 @@ title: "Subepithelial Lesion (SEL)"
 category: diagnostic-schema
 tags: [subepithelial-lesion, gist, leiomyoma, carcinoid, net, lipoma, eus, endoscopy]
 created: 2026-05-15
-updated: 2026-07-16
+updated: 2026-08-09
 sources: [acg-2023-subepithelial-lesions, asge-2017-subepithelial-lesions]
 ---
 
 # Subepithelial Lesion (SEL)
+
+## Contents
+- [[#Definition / Scope]]
+- [[#Differential Diagnosis]]
+  - [[#By Location and EUS Wall Layer]]
+  - [[#By EUS Echogenicity]]
+  - [[#Entity-Specific EUS / IHC Features (ASGE 2017)]]
+- [[#Diagnostic Algorithm]]
+  - [[#Step 1 — Initial Endoscopic Assessment]]
+  - [[#Step 2 — EUS Evaluation (preferred for all nonlipomatous SEL)]]
+  - [[#Step 3 — Tissue Acquisition]]
+  - [[#Step 4 — Cross-Sectional Imaging (CT/MRI)]]
+  - [[#Surveillance (if no tissue diagnosis and no resection)]]
+- [[#Key Tests]]
+- [[#Red Flags / Alarm Features]]
+  - [[#Indications for Prompt Resection]]
+  - [[#EUS Features Associated with Malignancy (especially GIST)]]
+- [[#Management Summary by Entity]]
+
+---
 
 ## Definition / Scope
 

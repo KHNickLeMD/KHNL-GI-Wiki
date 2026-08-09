@@ -3,11 +3,18 @@ title: "Focal Liver Lesions"
 category: diagnostic-schema
 tags: [focal-liver-lesion, liver, hpb, mri, gadoxetate, ceus, fnh, hca, hemangioma, hcc]
 created: 2026-06-20
-updated: 2026-07-16
+updated: 2026-08-09
 sources: [acg-2024-focal-liver-lesions]
 ---
 
 # Focal Liver Lesions
+
+## Contents
+- [[#Definition / Scope]]
+- [[#Differential Diagnosis]]
+- [[#Diagnostic Algorithm]]
+- [[#Key Tests]]
+- [[#Red Flags / Alarm Features]]
 
 ---
 

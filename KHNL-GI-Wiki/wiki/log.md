@@ -6,6 +6,36 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-08-09] lint | Parallel sweep — H. pylori BQT dosing correction, stalest-page validation, 7-concepts link densification
+
+**Scope:** Full-wiki health check. Fanned out across 3 parallel subagents (2 stalest-page validators + 1 `7-concepts/` link-densifier); whole-wiki concerns (broken links, orphans, ingest queue, dosing consistency, index/log) reconciled centrally.
+
+**Inbox sync / ingest queue:** No untracked files in `raw/` (git clean) — inbox sync added nothing this pass. All 247 tier-1/2 guidelines/CPUs/RCTs remain ingested; the extra `raw/` files are the known lowercase-shorthand AGA duplicates (+ `AGA 2026 CPU Hemorrhoids (duplicate).pdf`) plus ~40 gated lecture/chalk-talk transcripts. Per schema, lectures are **never auto-ingested** — reported, awaiting user selection by name.
+
+**Decision-critical fix — H. pylori BQT dosing (corrected from raw ACG 2024 PDF):**
+- `[[bismuth-quadruple-therapy]]` was citing only the superseded **ACG 2017** guideline and carried an **under-dosed metronidazole** (250 mg q.i.d. = 1,000 mg/day). Rebuilt to **ACG 2024 "optimized" BQT** and re-sourced (`sources:` → `[acg-2024-hp-treatment, acg-2017-hp-guidelines]`): metronidazole **500 mg t.i.d.–q.i.d. (1,500–2,000 mg/day)**, bismuth subsalicylate **300 mg** or subcitrate 120–300 mg q.i.d., tetracycline 500 mg q.i.d. (doxycycline not an acceptable substitute), PPI b.i.d., **14 days preferred (≥10)**; Pylera-10-day vs Helidac-14-day distinction; first-line-vs-salvage reframed to 2024. Removed redundant body `# H1`.
+- Propagated the corrected dosing to the two other pages that carried the stale figures: `[[helicobacter-pylori-infection]]` first-line table (subsalicylate 525 → 300 mg; metronidazole → t.i.d.–q.i.d. 1,500–2,000 mg/day) and the **source page** `sources/acg-2024-hp-treatment.md` (its regimen tables listed subsalicylate **525 mg** and did not state the nitroimidazole daily total — both corrected against the raw ACG 2024 Table 5; verified no "525" appears anywhere in the source PDF).
+- Left the **ACG 2017 source page** (`sources/acg-2017-hp-guidelines.md`) unchanged — its 525 mg / 250 mg figures faithfully represent that older guideline. Left `acute-diarrhea.md`'s 525 mg (bismuth-for-diarrhea dosing, correct per ACG 2016).
+
+**Stalest-page validation (decision-sufficiency + style):**
+- `[[focal-liver-lesions]]`, `[[subepithelial-lesion]]` (both 2026-07-16) — validated against raw ACG 2024 / ACG 2023 PDFs; both decision-sufficient (multiphasic imaging matrix; GIST size×mitotic-rate, EUS layer-of-origin, NET size thresholds; LI-RADS correctly one-homed on `[[li-rads]]`, not duplicated). Rectal-NET metastasis figures spot-checked against raw ACG 2023 (66%/73%) — exact match. Only fix: added the missing `## Contents` ToC to each; dates bumped.
+- `[[chronic-diarrhea]]`, `[[acute-diarrhea]]` — reviewed, already decision-sufficient (osmotic-gap cutoffs, fever/duration thresholds, full drug doses, alarm features); not churned.
+
+**Link densification (`7-concepts/`, 47 pages):** folder already densely linked from prior passes; added HVPG↔NIT connections — `[[liver-biopsy]]` and `[[liver-stiffness-measurement]]` now inline-link `[[hepatic-venous-pressure-gradient]]`, with the reciprocal `[[liver-stiffness-measurement]]` added to the HVPG See Also.
+
+**Whole-wiki checks (clean):** 0 broken links; 0 orphan pages; 503 pages / 247 sources; no `.DS_Store`/OS artifacts; no empty files; See Also / Sources bottom-section format compliant.
+
+**Stubs (all corpus-blocked — NOT expanded, no fabrication):** `[[microscopic-colitis]]`, `[[bile-acid-diarrhea]]`, `[[argon-plasma-coagulation]]`, `[[bariatric-surgery]]`, `[[rectal-prolapse]]` — each already documents that no dedicated source is ingested; expansion needs a not-yet-ingested source.
+
+**Remaining for user triage:**
+- **Lectures/chalk talks** await explicit selection — name which to ingest.
+- **`## Contents` ToC convention** is inconsistent wiki-wide (only ~1/22 diagnostic-schema and ~6/27 med pages carry one). If the ToC is meant to be standard, a dedicated pass could add it to the rest (cosmetic — the website auto-builds the outline regardless).
+- **`[[subepithelial-lesion]]`** could incorporate `[[aga-2024-full-thickness-resection]]` (ingested, on-topic for EFTR) in a dedicated content pass — currently cites ACG 2023 + ASGE 2017 only.
+- **`[[chronic-diarrhea]]`** mechanistic classification / osmotic-gap cutoffs are standard but not traceable to its sole cited endoscopy-role source (`asge-2010-diarrhea`); a dedicated chronic-diarrhea guideline would properly source them.
+- Possible future disease-script: **systemic sclerosis / scleroderma** (drives esophageal dysmotility + SIBO; currently referenced as plain text across several pages).
+
+---
+
 ## [2026-08-07] lint | Parallel 4-batch sweep — EAC stub expanded, decision-gap validation, inline-link densification
 
 **Scope:** Full-wiki health check, fanned out across 4 parallel folder-batch subagents (disease-scripts × 3 regions + procedures/meds/concepts), with whole-wiki concerns (orphans, broken links, ingest queue, index/log) handled centrally.

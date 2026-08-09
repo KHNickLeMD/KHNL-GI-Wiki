@@ -3,7 +3,7 @@ title: "Helicobacter pylori Infection"
 category: disease-script
 tags: [h-pylori, peptic-ulcer, gastric-cancer, malt-lymphoma, eradication, dyspepsia, gastric, foregut]
 created: 2026-05-07
-updated: 2026-08-05
+updated: 2026-08-09
 sources: [acg-2017-hp-guidelines, acg-2024-hp-treatment, aga-2024-pcab]
 ---
 
@@ -115,7 +115,7 @@ sources: [acg-2017-hp-guidelines, acg-2024-hp-treatment, aga-2024-pcab]
 
 | Regimen | Components | Duration | Strength |
 |---|---|---|---|
-| **[[bismuth-quadruple-therapy\|Bismuth quadruple therapy (BQT)]]** | PPI bid + bismuth subsalicylate 525 mg qid + metronidazole 500 mg qid + tetracycline 500 mg qid | 14 days | **Strong** |
+| **[[bismuth-quadruple-therapy\|Bismuth quadruple therapy (BQT)]]** | PPI bid + bismuth subsalicylate 300 mg (or subcitrate 120–300 mg) qid + metronidazole 500 mg tid–qid (1,500–2,000 mg/day) + tetracycline 500 mg qid | 14 days (≥10) | **Strong** |
 | **[[vonoprazan\|Vonoprazan]] dual therapy** | Vonoprazan 20 mg bid + amoxicillin 1 g bid | 14 days | **Strong** |
 | **Vonoprazan triple therapy** | Vonoprazan 20 mg bid + amoxicillin 1 g bid + clarithromycin 500 mg bid | 14 days | **Strong** |
 | **Concomitant quadruple therapy** | PPI bid + amoxicillin 1 g bid + clarithromycin 500 mg bid + metronidazole 500 mg bid | 14 days | Conditional |
