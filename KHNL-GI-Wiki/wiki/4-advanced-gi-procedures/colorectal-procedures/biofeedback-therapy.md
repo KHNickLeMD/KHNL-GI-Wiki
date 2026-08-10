@@ -22,10 +22,10 @@ sources: [acg-2021-anorectal-disorders, aga-2026-refractory-constipation]
 
 | Indication | Recommendation | Strength / Evidence |
 |---|---|---|
-| **Dyssynergic defecation** ([[defecation-disorders|defecation disorders]]) | Anorectal biofeedback, **4–6 sessions** | **Strong / Moderate** ([[acg-2021-anorectal-disorders]]) |
+| **Dyssynergic defecation** ([[defecation-disorders\|defecation disorders]]) | Anorectal biofeedback, **4–6 sessions** | **Strong / Moderate** ([[acg-2021-anorectal-disorders]]) |
 | **Levator ani syndrome** (chronic proctalgia, see [[proctalgia-syndromes]]) | Biofeedback — the **only** effective therapy | **Strong / Very Low** |
 | Levator ani syndrome where biofeedback unavailable | Galvanic stimulation | Conditional / Very Low |
-| **[[fecal-incontinence|Fecal incontinence]]** not controlled by education/medication | Biofeedback (pelvic floor rehabilitation) | **Strong / Moderate** |
+| **[[fecal-incontinence\|Fecal incontinence]]** not controlled by education/medication | Biofeedback (pelvic floor rehabilitation) | **Strong / Moderate** |
 
 - For dyssynergic defecation, biofeedback is **superior to sham, diazepam, and PEG** in RCTs — it is the cornerstone of management, not an adjunct ([[acg-2021-anorectal-disorders]]).
 - In fecal incontinence, ~**20%** need no further treatment after conservative measures + pelvic floor exercises.

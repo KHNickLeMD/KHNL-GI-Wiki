@@ -328,7 +328,7 @@ No single pathognomonic test. Diagnosis = integration of:
 | Clinical response | 2–4 weeks post-induction | Symptom improvement |
 | Objective response | 12–16 weeks | CRP, FC, endoscopy, imaging |
 | TDM (anti-TNF) | At loss of response | Trough levels + antidrug antibodies |
-| [[colorectal-cancer|CRC]] surveillance | 8 years of colonic involvement; q1–2y | HD + dye-spray chromoendoscopy preferred ([[asge-2015-scenic-ibd-dysplasia|SCENIC]]) |
+| [[colorectal-cancer\|CRC]] surveillance | 8 years of colonic involvement; q1–2y | HD + dye-spray chromoendoscopy preferred ([[asge-2015-scenic-ibd-dysplasia\|SCENIC]]) |
 | Postoperative scope | 6–12 months | Rutgeerts score |
 
 **Symptoms do not correlate with mucosal inflammation** — always confirm with objective assessment (endoscopy, CRP, FC) before treatment decisions.

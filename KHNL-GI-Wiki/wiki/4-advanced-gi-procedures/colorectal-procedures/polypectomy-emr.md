@@ -391,7 +391,7 @@ After endoscopic resection reveals a malignant polyp, histologic features determ
 
 | Risk group | Recurrence | Approach |
 |---|---|---|
-| Low-risk (curative resection) | ~0.7% | [[colonoscopy-surveillance|Surveillance colonoscopy]] alone (no nodal/distant imaging); within 1 year (JSCCR/ESGE/NCCN) |
+| Low-risk (curative resection) | ~0.7% | [[colonoscopy-surveillance\|Surveillance colonoscopy]] alone (no nodal/distant imaging); within 1 year (JSCCR/ESGE/NCCN) |
 | High-risk (noncurative) | ~7.0% | Surgery is standard of care; individualize (>80% of "high-risk" have no LNM at surgery) |
 
 - Timing of recurrences: 60% within 36 months, 96% within 72 months.

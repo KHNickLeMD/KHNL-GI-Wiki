@@ -85,7 +85,7 @@ The diagnosis of symptomatic internal hemorrhoids requires exclusion of other so
 |-----------|-----------|---------|-------|
 | **Rubber band ligation (RBL)** | Grade I–III | Strong/Moderate — preferred; lower need for retreatment vs IRC/sclerotherapy. RBL is also the initial endoscopic treatment of choice for bleeding/prolapsing 2nd–3rd-degree internal hemorrhoids failing conservative care *(ASGE 2010)* [[asge-2010-anorectal-disorders]] | Banding at base of hemorrhoid above dentate line; most popular and effective; complications: pain (1–4 days), bleeding (1–2%), thrombosis of external component, rare life-threatening sepsis in immunocompromised |
 | **Infrared coagulation (IRC)** | Grade I–II | Strong/Moderate — similar to RBL for Grade I–II | Faster; less pain than banding; higher retreatment rate |
-| **Sclerotherapy** | Grade I–II | Alternative; similar to IRC | Injection of sclerosing agent; effective for bleeding Grade I–II; useful for patients on [[anticoagulation-gi-bleeding|anticoagulation]] |
+| **Sclerotherapy** | Grade I–II | Alternative; similar to IRC | Injection of sclerosing agent; effective for bleeding Grade I–II; useful for patients on [[anticoagulation-gi-bleeding\|anticoagulation]] |
 | **Bipolar coagulation** | Grade I–II | Strong/Moderate — ACG-listed alternative to RBL (grouped with IRC/sclerotherapy in the recommendation) | Cauterizes hemorrhoid base; outcomes similar to IRC |
 | **Doppler-guided hemorrhoidal artery ligation (DGHAL)** | Grade III | Conditional/Very Low — similar outcomes to hemorrhoidectomy | Minimally invasive; no tissue excision; Doppler identifies feeding arteries; used in Europe more than US |
 

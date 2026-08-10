@@ -2962,7 +2962,12 @@ function renderTable(lines) {
   if (lines.length < 2) return '';
   // Split on unescaped pipes only, so escaped pipes (\|) inside cells —
   // e.g. Obsidian wiki-links [[slug\|Alias]] — stay within a single cell.
-  const parseRow = l => l.replace(/^\s*\|/,'').replace(/\|\s*$/,'').split(/(?<!\\)\|/).map(c=>c.replace(/\\\|/g,'|').trim());
+  // Pipes inside [[...]] / ![[...]] are masked first, so an *un*escaped alias
+  // pipe ([[slug|Alias]]) doesn't split the cell either.
+  const parseRow = l => l.replace(/^\s*\|/,'').replace(/\|\s*$/,'')
+    .replace(/\[\[[^\]\n]*\]\]/g, m => m.replace(/\\?\|/g,'\u0000'))
+    .split(/(?<!\\)\|/)
+    .map(c=>c.replace(/\\\|/g,'|').replace(/\u0000/g,'|').trim());
   const thHtml = parseRow(lines[0]).map(c=>`<th>${inlineRender(c)}</th>`).join('');
   const trHtml = lines.slice(2).map(l=>`<tr>${parseRow(l).map(c=>`<td>${inlineRender(c)}</td>`).join('')}</tr>`).join('');
   return `<div class="table-wrap"><table><thead><tr>${thHtml}</tr></thead><tbody>${trHtml}</tbody></table></div>\n`;

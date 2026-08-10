@@ -17,7 +17,7 @@ Wilson disease (WD; hepatolenticular degeneration) is an autosomal recessive dis
 
 | System | Manifestations |
 |---|---|
-| **Hepatic** | Asymptomatic transaminase elevation, fatty liver, chronic hepatitis, AIH-like pattern, [[cirrhosis|cirrhosis]] (compensated or decompensated), ALF |
+| **Hepatic** | Asymptomatic transaminase elevation, fatty liver, chronic hepatitis, AIH-like pattern, [[cirrhosis\|cirrhosis]] (compensated or decompensated), ALF |
 | **Neurological** | Dysarthria (most common, 46–97%), gait abnormality/ataxia (28–75%), dystonia (38–69%), parkinsonism (12–58%), postural tremor (55%), [[dysphagia]], chorea (6–30%), seizures (6–28%) |
 | **Psychiatric** | Depression (MDD most common), bipolar disorder/spectrum, psychosis, personality/behavioral changes, cognitive dysfunction |
 | **Other** | Kayser-Fleischer rings, sunflower cataracts; renal (Fanconi syndrome, nephrolithiasis); skeletal (osteoporosis); cardiomyopathy, dysrhythmias; hypoparathyroidism; infertility/miscarriages; pancreatitis |

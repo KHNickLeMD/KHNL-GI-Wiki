@@ -40,7 +40,7 @@ Gallbladder polyps (GBPs) are found in ~4%–7% of the population; most are non-
 | Symptomatic GBP | Cholecystectomy (Moderate) |
 | Asymptomatic GBP >10 mm | Cholecystectomy (Low) |
 | Asymptomatic GBP 6–10 mm, no other risk factors | US surveillance (~every 12 months) (Low) |
-| Any GBP in [[primary-sclerosing-cholangitis|PSC]] | Cholecystectomy (Moderate) |
+| Any GBP in [[primary-sclerosing-cholangitis\|PSC]] | Cholecystectomy (Moderate) |
 
 ## Therapeutics
 

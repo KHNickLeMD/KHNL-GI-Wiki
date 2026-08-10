@@ -27,7 +27,7 @@ Radiofrequency ablation (RFA) delivers controlled thermal energy to destroy a th
 |---|---|---|
 | Flat dysplastic BE (LGD, HGD); residual flat segment after [[polypectomy-emr\|EMR]] | Preferred ablative modality within [[endoscopic-eradication-therapy\|EET]] | [[asge-2018-barretts-eet]], [[acg-2022-barretts]], [[aga-2024-barretts-eet]] |
 | Non-dysplastic BE | **Not** routinely indicated (Rec 3, conditional) | [[aga-2024-barretts-eet]] |
-| Bleeding chronic radiation proctopathy | Suggested option alongside [[argon-plasma-coagulation|APC]], bipolar electrocoagulation, heater probe — no modality shown superior (Rec 1) | [[asge-2019-radiation-proctopathy]] |
+| Bleeding chronic radiation proctopathy | Suggested option alongside [[argon-plasma-coagulation\|APC]], bipolar electrocoagulation, heater probe — no modality shown superior (Rec 1) | [[asge-2019-radiation-proctopathy]] |
 | Unresectable malignant perihilar [[cholangiocarcinoma]] | **Intraductal RFA (or PDT) + plastic stent** over plastic stent alone (conditional, low) — survival advantage; plastic stent preferred over uncovered SEMS when ablative therapy is planned (Rec 9–10) | [[acg-2023-biliary-strictures]] |
 | Early-stage [[hepatocellular-carcinoma]] ≤3 cm, ineligible for/declining surgery | Thermal ablation (RFA or microwave) is the treatment of choice (Level 1, strong); RFA ≈ resection for tumors <2 cm, resection superior for larger (GS 39) | [[aasld-2023-hcc]] |
 

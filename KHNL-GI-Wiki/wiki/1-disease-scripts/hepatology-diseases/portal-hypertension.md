@@ -131,7 +131,7 @@ Because CSPH may persist despite recompensation, **NSBBs should not be discontin
 | Abdominal ultrasound + Doppler | Portal vein patency, hepatofugal flow, splenomegaly, portosystemic collaterals, ascites |
 | CT/MRI abdomen | Confirms varices, collaterals, ascites, [[hepatocellular-carcinoma\|HCC]] surveillance, PVT anatomy |
 | [[upper-endoscopy\|Upper endoscopy (EGD)]] | Varices detection; high-risk features (large size, red wale marks); needed when TE unavailable or NSBB contraindicated |
-| Child-Pugh score / MELD | Liver synthetic function; prognosis; [[tips|TIPS]] candidacy (scoring components: see [[cirrhosis]]) |
+| Child-Pugh score / MELD | Liver synthetic function; prognosis; [[tips\|TIPS]] candidacy (scoring components: see [[cirrhosis]]) |
 | Labs | LFTs, INR, albumin, bilirubin, creatinine, CBC (thrombocytopenia = PH marker) |
 | Diagnostic paracentesis | PMN count, culture, albumin (SAAG), total protein for ascites evaluation |
 

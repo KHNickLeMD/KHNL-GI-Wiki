@@ -54,7 +54,7 @@ The update reviews stoma types and configurations (end vs loop vs mucus fistula 
 | Type of treatment | Examples |
 |---|---|
 | Bulking agents | Psyllium fiber; guar gum; marshmallows |
-| Antimotility agents | [[loperamide|Loperamide]]; diphenoxylate + atropine; codeine; tincture of opium |
+| Antimotility agents | [[loperamide\|Loperamide]]; diphenoxylate + atropine; codeine; tincture of opium |
 | Antisecretory agents | Proton pump inhibitors / H2 agonists; somatostatin analogues (octreotide) |
 | Anti-inflammatory agents (if from recurrent Crohn's) | Consultation with IBD specialist |
 | Adaptation-promoting agents | GLP-2 analogues (teduglutide, elsiglutide, glepaglutide, apraglutide) |

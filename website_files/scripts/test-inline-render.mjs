@@ -10,7 +10,7 @@ import vm from 'node:vm';
 const html = readFileSync(join(dirname(fileURLToPath(import.meta.url)), '../../index.html'), 'utf8');
 
 // Pull the four functions under test straight out of the page so the test can't drift from it.
-const src = ['inlineRender', 'escHtml', 'unescHtml', 'jsStr', 'safeUrl']
+const src = ['inlineRender', 'escHtml', 'unescHtml', 'jsStr', 'safeUrl', 'renderTable']
   .map(fn => {
     const start = html.indexOf(`\nfunction ${fn}(`);
     assert.notStrictEqual(start, -1, `${fn} not found in index.html`);
@@ -44,5 +44,20 @@ const decode = s => vm.runInContext('unescHtml', ctx)(s);
 const onclick = decode(render(`[['); alert(1); //]]`).match(/onclick="([^"]*)"/)[1]);
 const arg = onclick.match(/^navigateTo\('(.*)'\)$/)[1];
 assert.match(arg, /^(?:[^'\\]|\\.)*$/, `unescaped quote in onclick arg: ${arg}`);
+
+// Table cells: an alias pipe inside [[...]] must not split the cell, escaped or not.
+const table = t => vm.runInContext('renderTable', ctx)(t.trim().split('\n'));
+for (const pipe of ['|', '\\|']) {
+  const html = table(`
+| Drug | Dose |
+| --- | --- |
+| [[proton-pump-inhibitors${pipe}PPI]] (standard dose) | Twice daily |
+`);
+  assert.strictEqual((html.match(/<td>/g) || []).length, 2, `alias pipe "${pipe}" split the row: ${html}`);
+  assert.match(html, /<td>.*>PPI<\/a> \(standard dose\)<\/td>/);
+  assert.doesNotMatch(html, /\[\[|\\\|/);
+}
+// A real column separator still separates.
+assert.strictEqual((table('| a | b |\n| --- | --- |\n| x | y |').match(/<td>/g) || []).length, 2);
 
 console.log('inlineRender escaping OK');

@@ -172,7 +172,7 @@ Gastric adenocarcinoma
 | Dysplasia (IND/LGD/HGD) + visible margins | Endoscopic resection (Conditional) |
 | IND/LGD without visible margins | Repeat EGD with HDWLE + IEE by experienced endoscopist; repeat in 12 months if advanced neoplasia confidently ruled out |
 | HGD without visible margins | Repeat EGD within 3 months with expert endoscopist (high probability of prevalent GC or near-term progression) |
-| [[endoscopic-submucosal-dissection|ESD]] appropriate candidate | **Refer to high-volume center** with expertise in gastric neoplasia (Strong/Low) |
+| [[endoscopic-submucosal-dissection\|ESD]] appropriate candidate | **Refer to high-volume center** with expertise in gastric neoplasia (Strong/Low) |
 | Post-complete endoscopic resection | Periodic surveillance (HDWLE + IEE + Sydney protocol biopsies + targeted biopsies); individualize interval |
 
 ### H. pylori Eradication
@@ -198,7 +198,7 @@ Gastric adenocarcinoma
 | Gastric adenoma (any size) | Endoscopic resection; surgical referral if ER not feasible (Conditional/Low) |
 | Hyperplastic polyp >10mm | Insufficient evidence; individualized (consider resection/biopsy + 12-month surveillance) |
 | Fundic gland polyp | No systematic biopsies of surrounding mucosa needed |
-| All [[gastric-polyps|GEP]] except FGP | Sydney protocol biopsies of surrounding flat mucosa — high GPMC/H. pylori/AIG prevalence (Conditional/Very low) |
+| All [[gastric-polyps\|GEP]] except FGP | Sydney protocol biopsies of surrounding flat mucosa — high GPMC/H. pylori/AIG prevalence (Conditional/Very low) |
 
 ---
 

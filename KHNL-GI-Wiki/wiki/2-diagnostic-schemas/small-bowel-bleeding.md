@@ -18,7 +18,7 @@ This guideline replaces the older term **"obscure GI bleeding (OGIB)"** with ana
 | **Potential small bowel bleeding** | Normal upper and lower endoscopy; small bowel evaluation not yet performed |
 | **Small bowel bleeding** | Source confirmed distal to ampulla of Vater or proximal to ileocecal valve |
 | **Overt SBB** | Melena or hematochezia with a confirmed small bowel source |
-| **Occult SBB** | [[iron-deficiency-anemia|Iron-deficiency anemia]] ± guaiac-positive stools with confirmed small bowel source |
+| **Occult SBB** | [[iron-deficiency-anemia\|Iron-deficiency anemia]] ± guaiac-positive stools with confirmed small bowel source |
 | **Obscure GI bleeding (OGIB)** | No source found after comprehensive evaluation including upper/lower scope, VCE/enteroscopy, and radiography |
 
 **Relationship to upper and lower GI bleeding:**

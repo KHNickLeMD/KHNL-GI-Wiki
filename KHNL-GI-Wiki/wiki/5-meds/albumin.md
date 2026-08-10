@@ -19,7 +19,7 @@ sources: [aga-2024-vasoactive-albumin-cirrhosis]
 | Indication | AGA advice | Albumin dose / regimen |
 |---|---|---|
 | **Large-volume (>5 L) paracentesis** | Give IV albumin (BPA 4) | **6–8 g per L of ascites removed** (expert opinion, per society guidelines); **lower doses (4 g/L) may be sufficient** |
-| **LVP in [[acute-on-chronic-liver-failure|ACLF]]** | Give albumin during paracentesis | **6–8 g/L regardless of the volume removed** |
+| **LVP in [[acute-on-chronic-liver-failure\|ACLF]]** | Give albumin during paracentesis | **6–8 g/L regardless of the volume removed** |
 | **SBP** | Albumin *may be considered* (BPA 5) | **1.5 g/kg body weight on day 1 + 1 g/kg on day 3** (empirical, per society guidelines). Highest-benefit subgroup: bilirubin >4 mg/dL, or AKI at baseline (creatinine >1.0 mg/dL and BUN >30 mg/dL) |
 | **AKI in cirrhosis + ascites (hospitalized)** | Albumin is the **volume expander of choice** (BPA 8) | ⚠ Source gives no specific albumin dose/regimen for AKI volume expansion |
 | **HRS-AKI** | Concurrent albumin *can be considered*, accounting for volume status; terlipressin is the vasoactive drug of choice (BPA 10) | ⚠ Source gives no specific albumin dose for HRS-AKI |

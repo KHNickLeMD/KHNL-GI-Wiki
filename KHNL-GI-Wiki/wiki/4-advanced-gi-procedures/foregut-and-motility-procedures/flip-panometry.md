@@ -74,7 +74,7 @@ Six-category matrix combining EGJ Opening × Contractile Response:
 | NEO | Disordered or Spastic | **Possible Spasm** | Correlates with [[distal-esophageal-spasm\|DES]]/[[hypercontractile-esophagus\|jackhammer]] on HRM |
 | REO | Spastic | **Spastic Obstruction** | Rare; [[achalasia]] type III or spastic motor-obstructive overlap |
 | REO | Normal | **Obstruction with Normal Contractility** | Suggests mechanical obstruction (tight wrap, ring, web) |
-| REO | Diminished or Absent | **Non-spastic Obstruction** | 92% manometric [[esophagogastric-junction-outflow-obstruction|EGJOO]]; 77% abnormal TBE |
+| REO | Diminished or Absent | **Non-spastic Obstruction** | 92% manometric [[esophagogastric-junction-outflow-obstruction\|EGJOO]]; 77% abnormal TBE |
 
 ---
 

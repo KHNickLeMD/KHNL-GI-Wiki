@@ -46,8 +46,8 @@ Conditions commonly attributed to EER, each with a large non-reflux differential
 
 | Test | Role in EER |
 |---|---|
-| Upper endoscopy (EGD) | Erosive esophagitis (LA grade — see [[gerd]]), [[barretts-esophagus|Barrett's]], hiatal hernia; a conclusive GERD sign supports (not proves) reflux causation |
-| Ambulatory reflux monitoring (pH or pH-impedance), **off** PPI | Establish/exclude pathologic reflux when GERD unproven; AET thresholds per [[ambulatory-reflux-monitoring|Lyon 2.0]] (>6% proven, <4% excludes) |
+| Upper endoscopy (EGD) | Erosive esophagitis (LA grade — see [[gerd]]), [[barretts-esophagus\|Barrett's]], hiatal hernia; a conclusive GERD sign supports (not proves) reflux causation |
+| Ambulatory reflux monitoring (pH or pH-impedance), **off** PPI | Establish/exclude pathologic reflux when GERD unproven; AET thresholds per [[ambulatory-reflux-monitoring\|Lyon 2.0]] (>6% proven, <4% excludes) |
 | pH-impedance **on** PPI | Established GERD with persistent symptoms — quantify ongoing acid/non-acid reflux (BPA 8) |
 | Laryngoscopy (via ENT) | Mandatory to exclude non-reflux laryngeal pathology in laryngeal EER — see [[laryngopharyngeal-symptoms]] |
 | Salivary pepsin, oropharyngeal (Restech) pH | **Not recommended** — insufficient specificity/evidence |

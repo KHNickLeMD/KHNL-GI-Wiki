@@ -13,7 +13,7 @@ Four drugs × 14 days. **Optimized** BQT = appropriately dosed PPI + bismuth + n
 
 | Drug | Dose | Frequency |
 |---|---|---|
-| [[proton-pump-inhibitors|PPI]] (standard dose) | Standard dose, 30–60 min before a meal | Twice daily (b.i.d.) |
+| [[proton-pump-inhibitors\|PPI]] (standard dose) | Standard dose, 30–60 min before a meal | Twice daily (b.i.d.) |
 | Bismuth — subcitrate **120–300 mg**, or subsalicylate **300 mg** | as listed | Four times daily (q.i.d.) |
 | Tetracycline | **500 mg** | Four times daily (q.i.d.) |
 | Metronidazole (nitroimidazole; tinidazole an alternative) | **500 mg** (target 1,500–2,000 mg/day) | Three or four times daily (t.i.d.–q.i.d.) |

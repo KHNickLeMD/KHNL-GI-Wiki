@@ -37,10 +37,10 @@ Failure of the pancreas to deliver a threshold level of digestive enzymes to the
 
 | Type | Pathomechanism | Example conditions |
 |------|----------------|--------------------|
-| **Loss of pancreatic parenchyma** | ↓ enzyme synthesis/secretion, ↓ bicarbonate | [[chronic-pancreatitis|CP]], [[pancreatic-cancer|pancreatic cancer]], cystic fibrosis, pancreatic resection |
+| **Loss of pancreatic parenchyma** | ↓ enzyme synthesis/secretion, ↓ bicarbonate | [[chronic-pancreatitis\|CP]], [[pancreatic-cancer\|pancreatic cancer]], cystic fibrosis, pancreatic resection |
 | **Ductal obstruction** | ↓ enzyme delivery | ampullary tumors, ductal stenosis, pancreatic cancer |
-| **↓ endogenous stimulation** | reduced CCK-mediated secretion; enteropathy | [[crohns-disease|Crohn's]], [[celiac-disease|celiac]], duodenal resection, somatostatinoma |
-| **Intraluminal inactivation / asynchrony** | enzymes destroyed or mistimed vs. meal | hypersecretory states ([[peptic-ulcer-disease|gastrinoma]]), dumping syndrome, gastric/short-gut surgery |
+| **↓ endogenous stimulation** | reduced CCK-mediated secretion; enteropathy | [[crohns-disease\|Crohn's]], [[celiac-disease\|celiac]], duodenal resection, somatostatinoma |
+| **Intraluminal inactivation / asynchrony** | enzymes destroyed or mistimed vs. meal | hypersecretory states ([[peptic-ulcer-disease\|gastrinoma]]), dumping syndrome, gastric/short-gut surgery |
 
 ## Differential Diagnosis
 

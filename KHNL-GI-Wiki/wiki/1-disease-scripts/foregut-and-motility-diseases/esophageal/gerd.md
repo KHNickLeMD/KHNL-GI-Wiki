@@ -83,7 +83,7 @@ Objective severity is assessed endoscopically and with [[reflux-testing|reflux t
 | Functional heartburn | Normal AET on pH study, normal impedance; symptom-reflux correlation absent; Rome V criteria; PPI often ineffective |
 | [[peptic-ulcer-disease\|Peptic ulcer disease]] | Epigastric pain; [[helicobacter-pylori-infection\|H. pylori]] association; EGD shows ulceration; not position-related |
 | Esophageal dysmotility | Dysphagia, chest pain; manometry distinguishes; consider pre-TIF workup |
-| Laryngopharyngeal reflux / [[extraesophageal-reflux|extraesophageal reflux]] | Throat-clearing, hoarseness, globus, chronic cough; see [[laryngopharyngeal-symptoms]]; diagnosis challenging, HEMII-pH may be required |
+| Laryngopharyngeal reflux / [[extraesophageal-reflux\|extraesophageal reflux]] | Throat-clearing, hoarseness, globus, chronic cough; see [[laryngopharyngeal-symptoms]]; diagnosis challenging, HEMII-pH may be required |
 | [[gastroparesis\|Gastroparesis]] | Postprandial bloating, nausea, early satiety; GERD guideline explicitly excludes this population |
 
 ---

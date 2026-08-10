@@ -70,7 +70,7 @@ sources: [acg-2015-colon-ischemia, acg-2020-hepatic-mesenteric-circulation]
 
 | Setting | Recommendation | Strength / Evidence |
 |---|---|---|
-| Acute symptomatic MVT, **no [[cirrhosis|cirrhosis]]** | **Anticoagulate all patients** | Strong / Low |
+| Acute symptomatic MVT, **no [[cirrhosis\|cirrhosis]]** | **Anticoagulate all patients** | Strong / Low |
 | Acute symptomatic MVT, **no cirrhosis** | Initiate **promptly** to achieve recanalization and **prevent bowel ischemia** | Strong / Low |
 | Agent & duration, **no cirrhosis** | **LMWH or VKA**; duration **≥3–6 months** *(guideline states this for noncirrhotic **PVT**)* | Strong / Low |
 | Chronic MVT, **no cirrhosis** | Anticoagulate **if** thrombophilia, thrombus extension/progression, **or intestinal ischemia** | Conditional / Very Low |

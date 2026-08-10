@@ -56,7 +56,7 @@ Portal vein thrombosis (PVT) is the partial or complete occlusion of the portal 
 | **Noncirrhotic acute PVT** | New-onset thrombus without cirrhosis; thrombophilia or local cause; anticoagulation effective |
 | **Noncirrhotic chronic PVT** | Cavernous transformation; portal biliopathy; anticoagulation reserved for specific indications |
 | **Cirrhotic acute PVT** | Common (1–25% depending on stage); often incidental; may impair response to [[liver-transplantation\|liver transplantation]] |
-| **Cirrhotic chronic PVT** | Cavernoma in cirrhosis; complicates [[tips|TIPS]]/transplant planning |
+| **Cirrhotic chronic PVT** | Cavernoma in cirrhosis; complicates [[tips\|TIPS]]/transplant planning |
 | **MVT** | SMA/SMV involvement; higher bowel ischemia risk; emergency when bowel infarction present |
 
 ---

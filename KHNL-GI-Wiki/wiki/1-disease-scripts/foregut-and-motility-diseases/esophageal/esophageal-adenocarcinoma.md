@@ -24,7 +24,7 @@ The central treatment decision follows depth of invasion and adverse histology, 
 
 | Depth / feature | LN-metastasis risk | Implication |
 |---|---|---|
-| Tis (HGD) | 0% | [[endoscopic-eradication-therapy|EET]] |
+| Tis (HGD) | 0% | [[endoscopic-eradication-therapy\|EET]] |
 | T1a (intramucosal carcinoma, IMC) | ~0%–2% | EET **preferred over esophagectomy** (strong rec) |
 | T1b with submucosal invasion >500 µm (sm2–3), poor differentiation, or lymphovascular invasion | ≥20% | Esophagectomy generally preferred |
 

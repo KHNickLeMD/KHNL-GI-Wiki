@@ -21,7 +21,7 @@ All AGA 2024 recommendations are **conditional** (suggestions).
 | **Mildly/moderately immunocompromised** adults, recurrent CDI | FOR **conventional FMT** (Rec 2) |
 | **Severely immunocompromised** adults, recurrent CDI | **AGAINST** any fecal microbiota–based therapy (Rec 2) |
 | Adults hospitalized with **severe/fulminant CDI not responding** to antimicrobials | FOR **conventional FMT** (Rec 3) |
-| [[ulcerative-colitis|UC]], [[crohns-disease|Crohn's]], [[pouchitis]], [[irritable-bowel-syndrome|IBS]] | **AGAINST** conventional FMT **except within a clinical trial** (Recs 4–7) |
+| [[ulcerative-colitis\|UC]], [[crohns-disease\|Crohn's]], [[pouchitis]], [[irritable-bowel-syndrome\|IBS]] | **AGAINST** conventional FMT **except within a clinical trial** (Recs 4–7) |
 
 - **Key gate:** severe immunocompromise contraindicates fecal microbiota–based therapy even for recurrent CDI.
 - Outside recurrent/refractory CDI, use is investigational — not routine care.
