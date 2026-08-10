@@ -3,7 +3,7 @@ title: "Portal Vein Thrombosis and Mesenteric Vein Thrombosis"
 category: disease-script
 tags: [portal-vein-thrombosis, pvt, mvt, mesenteric-vein, anticoagulation, cirrhosis, thrombophilia, splenomegaly, mpn, liver-transplant]
 created: 2026-05-21
-updated: 2026-08-01
+updated: 2026-08-10
 sources: [acg-2020-hepatic-mesenteric-circulation, aasld-ast-2025-liver-transplant-candidate-evaluation, aasld-2021-vascular-pvt, aga-2025-pvt-cirrhosis, baveno-vii-2022-portal-hypertension]
 ---
 
@@ -205,7 +205,7 @@ Cirrhosis represents [[cirrhosis-hemostasis|rebalanced hemostasis]], not auto-an
 
 ### Surgical / Interventional Options
 
-- **TIPS**: portal decompression; facilitates PVT resolution; bridges to transplant; see [[ercp]] / hepatobiliary procedures
+- **[[tips|TIPS]]**: portal decompression; facilitates PVT resolution; bridges to transplant
 - **Bowel resection**: emergent when MVT causes bowel infarction
 - **[[liver-transplantation|Liver transplantation]]**: PVT is not an absolute contraindication but requires surgical planning; cavernoma may require technical modifications
   - **Yerdel grade IV PVT** (complete splanchnic vein thrombosis without sufficient collateral veins — left gastric vein, pericholedochal collaterals) is a **relative contraindication to isolated LT** ([[aasld-ast-2025-liver-transplant-candidate-evaluation]], Rec 47, Weak, Level 2)

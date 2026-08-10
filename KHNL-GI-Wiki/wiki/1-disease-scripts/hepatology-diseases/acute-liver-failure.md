@@ -3,7 +3,7 @@ title: "Acute Liver Failure"
 category: disease-script
 tags: [acute-liver-failure, alf, liver, hepatology, transplant, liver-transplant-referral]
 created: 2026-05-15
-updated: 2026-07-23
+updated: 2026-08-10
 sources: [acg-2023-alf, acg-2016-liver-disease-pregnancy, aasld-ast-2025-liver-transplant-candidate-evaluation, aasld-2011-alf]
 ---
 
@@ -301,7 +301,7 @@ Not routine. Transjugular [[liver-biopsy|liver biopsy]] (TJLB) preferred over pe
 
 **Absolute contraindication:** Brain death
 
-**Relative contraindications:** Multiorgan dysfunction, sepsis, ARDS, pancreatitis, malignancy (all require multidisciplinary review)
+**Relative contraindications:** Multiorgan dysfunction, sepsis, ARDS, [[acute-pancreatitis|pancreatitis]], malignancy (all require multidisciplinary review)
 
 **Graft options when deceased donor LT (DDLT) unavailable:**
 
@@ -324,7 +324,7 @@ Not routine. Transjugular [[liver-biopsy|liver biopsy]] (TJLB) preferred over pe
 ## See Also
 
 
-[[acute-on-chronic-liver-failure]], [[hepatic-encephalopathy]], [[liver-transplantation]], [[wilson-disease]], [[autoimmune-hepatitis]], [[budd-chiari-syndrome]], [[drug-induced-liver-injury]], [[liver-disease-in-pregnancy]]
+[[acute-on-chronic-liver-failure]], [[hepatic-encephalopathy]], [[liver-transplantation]], [[wilson-disease]], [[autoimmune-hepatitis]], [[budd-chiari-syndrome]], [[drug-induced-liver-injury]], [[liver-disease-in-pregnancy]], [[acute-pancreatitis]]
 
 ---
 

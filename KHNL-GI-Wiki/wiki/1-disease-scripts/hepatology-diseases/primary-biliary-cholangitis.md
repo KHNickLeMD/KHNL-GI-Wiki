@@ -3,7 +3,7 @@ title: "Primary Biliary Cholangitis (PBC)"
 category: disease-script
 tags: [pbc, primary-biliary-cholangitis, cholestatic, ama, alkaline-phosphatase, ursodiol, udca, oca, obeticholic-acid, fibrates, pruritus, overlap, hpb, liver, autoimmune, pregnancy, cirrhosis]
 created: 2026-05-19
-updated: 2026-07-17
+updated: 2026-08-10
 sources: [aasld-2018-pbc, aasld-2021-pbc, acg-2017-liver-chemistries, acg-2016-liver-disease-pregnancy]
 ---
 
@@ -68,7 +68,7 @@ Up to 40% of patients will have an inadequate response by one of these criteria 
 
 *Workup: see [[abnormal-liver-chemistries]] (cholestatic pattern — ALP + GGT elevation).*
 
-- [[primary-sclerosing-cholangitis]] — cholangiographic findings ([[mri-mrcp|MRCP]]); IBD association; male predominance; AMA-negative; IgG4 testing to exclude IgG4-SC
+- [[primary-sclerosing-cholangitis]] — cholangiographic findings ([[mri-mrcp|MRCP]]); [[inflammatory-bowel-disease|IBD]] association; male predominance; AMA-negative; IgG4 testing to exclude IgG4-SC
 - [[autoimmune-hepatitis]] — overlap syndrome (PBC-AIH overlap) possible; ANA/SMA elevated; IgG elevated; liver biopsy showing interface hepatitis
 - [[drug-induced-liver-injury]] — medication/HDS history; RUCAM causality; cholestatic R-ratio
 - Secondary biliary cirrhosis — extrinsic biliary obstruction; imaging (MRCP/CT) distinguishes

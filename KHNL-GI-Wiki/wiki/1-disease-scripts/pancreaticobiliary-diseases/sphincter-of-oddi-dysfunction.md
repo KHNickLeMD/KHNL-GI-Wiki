@@ -3,8 +3,8 @@ title: "Sphincter of Oddi Dysfunction"
 category: disease-script
 tags: [sphincter-of-oddi, biliary, pancreatic, ercp, manometry, sphincterotomy, post-cholecystectomy-pain, idiopathic-recurrent-pancreatitis, episod]
 created: 2026-07-17
-updated: 2026-07-29
-sources: [asge-2015-ercp-benign-biliary, asge-2015-benign-pancreatic-disease]
+updated: 2026-08-10
+sources: [asge-2015-ercp-benign-biliary, asge-2015-benign-pancreatic-disease, asge-2023-post-ercp-pancreatitis]
 ---
 
 ## Contents
@@ -100,3 +100,4 @@ Two parallel 3-type schemes — **biliary** (Rome III revision of the Milwaukee 
 
 1. [[asge-2015-ercp-benign-biliary|ASGE Guideline: The Role of ERCP in Benign Diseases of the Biliary Tract (2015)]]
 2. [[asge-2015-benign-pancreatic-disease|ASGE Guideline: The Role of Endoscopy in Benign Pancreatic Disease (2015)]]
+3. [[asge-2023-post-ercp-pancreatitis|ASGE Guideline: Post-ERCP Pancreatitis Prevention (2023)]]

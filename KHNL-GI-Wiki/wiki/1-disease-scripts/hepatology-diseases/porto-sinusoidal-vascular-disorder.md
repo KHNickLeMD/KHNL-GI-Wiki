@@ -3,7 +3,7 @@ title: "Porto-Sinusoidal Vascular Disorder (PSVD)"
 category: disease-script
 tags: [psvd, non-cirrhotic-portal-hypertension, idiopathic-portal-hypertension, nodular-regenerative-hyperplasia, obliterative-portal-venopathy, portal-hypertension, liver-biopsy, varices]
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-10
 sources: [baveno-vii-2022-portal-hypertension]
 ---
 
@@ -21,7 +21,7 @@ Porto-sinusoidal vascular disorder (PSVD) is a broad clinico-pathological entity
 
 - The **absence of portal hypertension does not rule out PSVD**.
 - Common liver diseases (viral hepatitis, alcohol, metabolic syndrome) and **[[portal-vein-thrombosis|PVT]]** can coexist with PSVD — finding one does not exclude the other.
-- In chronic liver disease with clinical signs of portal hypertension (varices, ascites, collaterals) but **HVPG <10 mmHg**, PSVD must be ruled out (statement 1.13).
+- In chronic liver disease with clinical signs of portal hypertension (varices, ascites, collaterals) but **[[hepatic-venous-pressure-gradient|HVPG]] <10 mmHg**, PSVD must be ruled out (statement 1.13).
 
 **When to suspect PSVD (statement 9.16):**
 
@@ -99,7 +99,7 @@ PSVD is defined **histologically + clinically**, not by a stage. The diagnostic 
 
 ## See Also
 
-[[portal-hypertension]], [[cirrhosis]], [[portal-vein-thrombosis]], [[budd-chiari-syndrome]], [[liver-biopsy]], [[liver-stiffness-measurement]], [[variceal-upper-gi-bleeding]], [[tips]], [[liver-transplantation]]
+[[portal-hypertension]], [[cirrhosis]], [[portal-vein-thrombosis]], [[budd-chiari-syndrome]], [[liver-biopsy]], [[liver-stiffness-measurement]], [[hepatic-venous-pressure-gradient]], [[variceal-upper-gi-bleeding]], [[tips]], [[liver-transplantation]]
 
 ---
 

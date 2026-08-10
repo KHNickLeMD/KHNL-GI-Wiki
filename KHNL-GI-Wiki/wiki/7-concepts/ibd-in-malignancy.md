@@ -3,11 +3,11 @@ title: "IBD in Patients With Malignancy"
 category: concept
 tags: [ibd, crohns, ulcerative-colitis, malignancy, cancer, thiopurines, biologics, lymphoma, immunosuppression]
 created: 2026-07-26
-updated: 2026-07-31
+updated: 2026-08-10
 sources: [aga-2024-ibd-malignancy]
 ---
 
-Framework for two linked decisions: **(1)** how much cancer risk IBD inflammation and IBD drugs confer, and **(2)** what to do with IBD medications when a patient develops an active cancer or has a prior-cancer history. Per the AGA 2024 CPU, the drugs of concern are **thiopurines** and **anti-TNF**; newer classes lack a demonstrated malignancy signal. Age-appropriate cancer screening applies to all IBD patients as in the general population.
+Framework for two linked decisions: **(1)** how much cancer risk [[inflammatory-bowel-disease|IBD]] inflammation and IBD drugs confer, and **(2)** what to do with IBD medications when a patient develops an active cancer or has a prior-cancer history. Per the AGA 2024 CPU, the drugs of concern are **thiopurines** and **anti-TNF**; newer classes lack a demonstrated malignancy signal. Age-appropriate cancer screening applies to all IBD patients as in the general population.
 
 ## Contents
 - [[#Cancer Risk From IBD Inflammation]]
@@ -23,7 +23,7 @@ Framework for two linked decisions: **(1)** how much cancer risk IBD inflammatio
 | Cancer | Magnitude | Key risk factors |
 |---|---|---|
 | **[[colorectal-cancer\|CRC]]** (colitis-associated) | ~1% / 2% / 5% at 10 / 20 / >20 yr from dx (declining vs older 15%/30 yr) | Duration, colonic extent, family hx CRC, concomitant [[primary-sclerosing-cholangitis\|PSC]] (>3× dysplasia/CRC) |
-| Small-bowel adenocarcinoma (Crohn's) | aHR 15.8; absolute low (2.4/10,000 PY CD; 4.6 ileal) | Tobacco, male, childhood-onset, penetrating/stricturing, prior SB resection |
+| Small-bowel adenocarcinoma ([[crohns-disease\|Crohn's]]) | aHR 15.8; absolute low (2.4/10,000 PY CD; 4.6 ileal) | Tobacco, male, childhood-onset, penetrating/stricturing, prior SB resection |
 | Small-bowel neuroendocrine tumor | aHR 5.5 | Small-bowel Crohn's inflammation |
 | Intestinal lymphoma | 2–3× (1–4/10,000 PY CD) | B-cell NHL, often EBV-associated, male |
 | Anal SCC (Crohn's) | 2.6 vs 0.8/10,000 PY (with vs without anal/perianal lesions) | HPV, long-standing perianal fistulizing disease |

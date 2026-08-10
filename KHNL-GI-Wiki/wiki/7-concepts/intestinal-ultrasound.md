@@ -3,7 +3,7 @@ title: "Intestinal Ultrasound (IUS)"
 category: concept
 tags: [intestinal-ultrasound, ibd, crohns, ulcerative-colitis, monitoring, treat-to-target, imaging]
 created: 2026-07-19
-updated: 2026-07-19
+updated: 2026-08-10
 sources: [aga-2024-intestinal-ultrasound]
 ---
 
@@ -20,7 +20,7 @@ sources: [aga-2024-intestinal-ultrasound]
 
 ## Overview
 
-**Intestinal ultrasound (IUS)** — noninvasive, radiation-free, point-of-care transabdominal exam of the bowel wall, mesentery, and adjacent structures used to assess and monitor **[[inflammatory-bowel-disease|IBD]]** activity ([[aga-2024-intestinal-ultrasound]]). No bowel prep, fasting, or contrast required. Supports a **treat-to-target** strategy by giving an objective activity indicator when clinical remission poorly correlates with endoscopic healing and repeat endoscopy/biomarker sampling is burdensome. Can rule out IBD akin to fecal calprotectin, and positive findings expedite ileocolonoscopy for diagnostic confirmation.
+**Intestinal ultrasound (IUS)** — noninvasive, radiation-free, point-of-care transabdominal exam of the bowel wall, mesentery, and adjacent structures used to assess and monitor **[[inflammatory-bowel-disease|IBD]]** activity ([[aga-2024-intestinal-ultrasound]]). No bowel prep, fasting, or contrast required. Supports a **treat-to-target** strategy by giving an objective activity indicator when clinical remission poorly correlates with endoscopic healing and repeat endoscopy/biomarker sampling is burdensome. Can rule out IBD akin to fecal calprotectin, and positive findings expedite [[colonoscopy|ileocolonoscopy]] for diagnostic confirmation.
 
 ## Technique
 
@@ -76,7 +76,7 @@ By trained operators, IUS is comparable to **MRE and CTE** ([[mri-mrcp|MRE]]) fo
 
 ## See Also
 
-[[inflammatory-bowel-disease]], [[crohns-disease]], [[ulcerative-colitis]], [[ibd-preventive-care]], [[mri-mrcp]]
+[[inflammatory-bowel-disease]], [[crohns-disease]], [[ulcerative-colitis]], [[ibd-preventive-care]], [[mri-mrcp]], [[colonoscopy]], [[capsule-endoscopy]]
 
 ---
 

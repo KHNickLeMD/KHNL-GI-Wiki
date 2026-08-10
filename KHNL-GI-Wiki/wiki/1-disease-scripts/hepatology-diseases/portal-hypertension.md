@@ -3,7 +3,7 @@ title: "Portal Hypertension"
 category: disease-script
 tags: [portal-hypertension, cirrhosis, CSPH, HVPG, cACLD, varices, NSBB, carvedilol, TIPS, liver-stiffness, decompensation, variceal-bleeding, ascites]
 created: 2026-05-28
-updated: 2026-08-05
+updated: 2026-08-10
 sources: [aasld-2023-portal-hypertension, baveno-vii-2022-portal-hypertension, acg-2025-perioperative-cirrhosis, aasld-2024-tips, aasld-2022-palliative-cirrhosis, wang-2026-eus-ppg-delphi-consensus]
 ---
 
@@ -265,7 +265,14 @@ Baveno VII (6.27–6.31) states the criteria slightly differently and adds two p
 
 ### Gastric and Ectopic Varices
 
-**Gastric varices (Sarin classification: GOV1/GOV2/IGV1/IGV2):**
+**Gastric varices (Sarin classification):** [[aasld-2023-portal-hypertension]]
+
+| Type | Location | Natural history |
+|---|---|---|
+| **GOV1** | Gastroesophageal varix along the **lesser curvature** (continuation of esophageal varices) | Behaves like esophageal varices; treat comparably |
+| **GOV2** | Gastroesophageal varix along the **greater curvature** / fundus | **Cardiofundal** — higher treatment failure, rebleeding, mortality |
+| **IGV1** | **Isolated** gastric varix in the **fundus** | **Cardiofundal** — higher treatment failure, rebleeding, mortality |
+| **IGV2** | Isolated gastric varix in **other areas** of the stomach (or ectopic) | — |
 
 - All gastric/ectopic varices indicate CSPH; evaluate for [[portal-vein-thrombosis]] (GS 40)
 - Primary prophylaxis: NSBBs preferred; ECI (cyanoacrylate injection) for high-risk cardiofundal (GOV2/IGV1 ≥10 mm, red wale signs, CTP B/C) who cannot receive NSBBs (GS 41)

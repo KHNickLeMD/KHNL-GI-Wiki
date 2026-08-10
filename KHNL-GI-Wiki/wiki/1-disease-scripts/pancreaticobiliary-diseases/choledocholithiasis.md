@@ -3,8 +3,8 @@ title: "Choledocholithiasis"
 category: disease-script
 tags: [biliary, gallstones, common-bile-duct, jaundice, cholangitis, ercp, eus, mrcp, gallstone-pancreatitis]
 created: 2026-06-04
-updated: 2026-07-26
-sources: [asge-2019-choledocholithiasis, aga-2024-pregnancy-gi-liver]
+updated: 2026-08-10
+sources: [asge-2019-choledocholithiasis, aga-2024-pregnancy-gi-liver, asge-2021-cholangitis, jagtap-2026-urgent-vs-early-ercp-cholangitis]
 ---
 
 ## Contents
@@ -67,6 +67,12 @@ sources: [asge-2019-choledocholithiasis, aga-2024-pregnancy-gi-liver]
 - **Large/difficult stones:** **endoscopic papillary large-balloon dilation after sphincterotomy** improves clearance over sphincterotomy alone.
 - Adjuncts for large/difficult stones: **mechanical lithotripsy** or **[[cholangioscopy|cholangioscopy-guided]] (EHL/laser) lithotripsy**. ([[asge-2019-choledocholithiasis]])
 
+### Acute Cholangitis — Drainage Timing
+- **Biliary drainage within 48 h** of presentation ([[asge-2021-cholangitis]]); **[[ercp|ERCP]] over PTBD** as first-line modality.
+- **Severe** cholangitis (≥1 organ failure) → **emergent (<24 h)** drainage.
+- **Mild-to-moderate** cholangitis: **do not reflexively rush to <24 h.** Urgent (<24 h) drainage is **not superior** to early (24–48 h) — same 30-day mortality (3.95% vs 6.58%) and organ failure — and **roughly doubles post-ERCP adverse events** (17.1% vs 9.2%; RR 2.03), mainly **haemorrhage** (10.5% vs 3.3%), from sphincterotomy on an oedematous papilla in an under-resuscitated septic patient. Resuscitate (fluids, coagulopathy correction, antibiotics) then drain within 24–48 h. ([[jagtap-2026-urgent-vs-early-ercp-cholangitis]])
+- **Malignant** biliary obstruction is the dominant predictor of 30-day mortality in cholangitis (HR ~5), not timing. ([[jagtap-2026-urgent-vs-early-ercp-cholangitis]])
+
 ### Gallstone Pancreatitis
 - **Early [[ercp|ERCP]]** for concurrent **cholangitis or persistent biliary obstruction**.
 - **Not** routine for uncomplicated gallstone [[acute-pancreatitis|pancreatitis]] — no mortality/complication benefit absent cholangitis/obstruction. ([[asge-2019-choledocholithiasis]])
@@ -86,3 +92,5 @@ sources: [asge-2019-choledocholithiasis, aga-2024-pregnancy-gi-liver]
 
 1. [[asge-2019-choledocholithiasis|ASGE Guideline: Endoscopic Management of Choledocholithiasis (2019)]]
 2. [[aga-2024-pregnancy-gi-liver|AGA Clinical Practice Update on Pregnancy-Related Gastrointestinal and Liver Disease: Expert Review]]
+3. [[asge-2021-cholangitis|ASGE Guideline: Management of Acute Cholangitis (2021)]]
+4. [[jagtap-2026-urgent-vs-early-ercp-cholangitis|Urgent versus Early ERCP in Mild-to-Moderate Acute Cholangitis: A Randomised Controlled Trial (Jagtap 2026)]]

@@ -3,11 +3,11 @@ title: "Liver Biopsy"
 category: concept
 tags: [liver-biopsy, hepatology, fibrosis-staging, percutaneous, transjugular, eus-guided, coagulation, complications, specimen-adequacy]
 created: 2026-06-04
-updated: 2026-08-09
+updated: 2026-08-10
 sources: [aasld-2009-liver-biopsy, aga-2021-cirrhosis-coagulation]
 ---
 
-Liver biopsy is the procedural acquisition of hepatic tissue for histological assessment. Per the AASLD 2009 position paper ([[aasld-2009-liver-biopsy]]), it serves three major roles: **diagnosis**, **prognosis (disease staging, chiefly fibrosis)**, and **guiding therapeutic management**. Although it remains a reference standard, noninvasive tools — serum panels and elastography ([[noninvasive-liver-disease-assessment|NILDA]]) — increasingly replace it for fibrosis staging, and biopsy is now reserved largely for diagnostic uncertainty or when histology will change management.
+Liver biopsy is the procedural acquisition of hepatic tissue for histological assessment. Per the AASLD 2009 position paper ([[aasld-2009-liver-biopsy]]), it serves three major roles: **diagnosis**, **prognosis (disease staging, chiefly fibrosis)**, and **guiding therapeutic management**. Although it remains a reference standard, noninvasive tools — serum panels and [[liver-stiffness-measurement|elastography]] ([[noninvasive-liver-disease-assessment|NILDA]]) — increasingly replace it for fibrosis staging, and biopsy is now reserved largely for diagnostic uncertainty or when histology will change management.
 
 ## Indications
 Liver biopsy should be considered when the diagnosis is in question and knowledge of a specific diagnosis is likely to alter management (Rec 1, Class I/B), and as a prognostic adjunct when fibrosis stage may guide treatment (Rec 2, Class I/B). Common indications (AASLD Tables 3-4):
@@ -75,7 +75,7 @@ Serum fibrosis panels and elastography (transient/MR) increasingly assess fibros
 
 ## See Also
 
-[[noninvasive-liver-disease-assessment]], [[cirrhosis-hemostasis]], [[autoimmune-hepatitis]], [[nafld-masld]], [[primary-biliary-cholangitis]], [[primary-sclerosing-cholangitis]], [[wilson-disease]], [[hereditary-hemochromatosis]], [[hepatocellular-carcinoma]], [[cholangiocarcinoma]], [[drug-induced-liver-injury]], [[portal-hypertension]], [[hepatic-venous-pressure-gradient]], [[endoscopic-ultrasound]], [[ascites]], [[acute-liver-failure]], [[anticoagulation-gi-bleeding]], [[iron-overload-and-iron-metabolism]], [[liver-transplantation]]
+[[noninvasive-liver-disease-assessment]], [[liver-stiffness-measurement]], [[cirrhosis-hemostasis]], [[autoimmune-hepatitis]], [[nafld-masld]], [[primary-biliary-cholangitis]], [[primary-sclerosing-cholangitis]], [[wilson-disease]], [[hereditary-hemochromatosis]], [[hepatocellular-carcinoma]], [[cholangiocarcinoma]], [[drug-induced-liver-injury]], [[portal-hypertension]], [[hepatic-venous-pressure-gradient]], [[endoscopic-ultrasound]], [[ascites]], [[acute-liver-failure]], [[anticoagulation-gi-bleeding]], [[iron-overload-and-iron-metabolism]], [[liver-transplantation]]
 
 ---
 

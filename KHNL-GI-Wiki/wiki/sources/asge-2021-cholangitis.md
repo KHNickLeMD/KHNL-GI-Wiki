@@ -3,7 +3,7 @@ title: "ASGE Guideline: Management of Acute Cholangitis (2021)"
 category: source
 tags: [cholangitis, ercp, biliary-drainage, choledocholithiasis, ptbd, guideline, asge]
 created: 2026-06-04
-updated: 2026-06-04
+updated: 2026-08-10
 sources: []
 ---
 
@@ -30,6 +30,7 @@ This guideline defines the endoscopic approach to **acute cholangitis** — timi
 
 - **ERCP over percutaneous transhepatic biliary drainage (PTBD)** as the modality of choice for biliary decompression in cholangitis.
 - Perform **ERCP within 48 hours** of presentation (earlier for severe/refractory cases) rather than delaying.
+  - **Refinement (2026 RCT, [[jagtap-2026-urgent-vs-early-ercp-cholangitis]]):** within that 48-h window, compressing to **urgent <24 h confers no benefit in mild-to-moderate cholangitis** (same mortality/organ failure) and **~doubles post-ERCP adverse events** (mainly bleeding). Urgent (<24 h) drainage remains for **severe** cholangitis.
 - **Combine biliary drainage with definitive stone clearance** when feasible at the index ERCP; when complete clearance isn't possible, place a stent and plan repeat ERCP.
 
 ---

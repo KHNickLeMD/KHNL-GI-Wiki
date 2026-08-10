@@ -3,7 +3,7 @@ title: "Abdominal Bloating, Distention, and Belching"
 category: diagnostic-schema
 tags: [bloating, distention, belching, aerophagia, dgbi, functional-gi, sibo, fodmap]
 created: 2026-07-19
-updated: 2026-07-19
+updated: 2026-08-10
 sources: [aga-2023-bloating]
 ---
 
@@ -55,7 +55,7 @@ Three prevalent, often-overlapping symptoms; when frequent/severe enough to impa
 - History + exam ± **impedance-pH / HRM with impedance** differentiates gastric vs supragastric belching vs aerophagia ([[reflux-testing]], [[ambulatory-reflux-monitoring]], [[high-resolution-manometry|HRM]]).
   - Gastric belching: TLES relaxation then air venting; may co-exist with [[gerd]].
   - Supragastric belching: UES opens *before* air influx; rapid, peristalsis-independent; behavioral.
-- Supragastric belching **before** a reflux event does **not** respond to PPI; **after** reflux it may.
+- Supragastric belching **before** a reflux event does **not** respond to [[proton-pump-inhibitors|PPI]]; **after** reflux it may.
 
 ### Bloating and distention
 - Confirm **Rome IV** criteria and exclude overlap DGBIs.

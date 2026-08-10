@@ -3,7 +3,7 @@ title: "Hereditary Diffuse Gastric Cancer"
 category: disease-script
 tags: [hdgc, cdh1, e-cadherin, diffuse-gastric-cancer, signet-ring-cell, lobular-breast-cancer, hereditary-cancer, prophylactic-gastrectomy, genetic-testing]
 created: 2026-05-19
-updated: 2026-07-16
+updated: 2026-08-10
 sources: [acg-2015-hereditary-gi-cancer]
 ---
 
@@ -68,7 +68,7 @@ Cancer risk profile [[acg-2015-hereditary-gi-cancer]]:
 - Detailed 30-minute [[upper-endoscopy|EGD]] with **multiple random biopsies** every 6–12 months beginning 5–10 years before the earliest cancer in the family
 - Enhanced visualization techniques may improve detection: **indigo-carmine staining** or **pH-sensitive congo red dye** followed by **pentagastrin stimulation** — improves detection of early gastric cancer
 - Esophageal and duodenal mucosa should be carefully inspected at the surgical specimen ends (gastric cancer after prophylactic gastrectomy has been reported)
-- Gastric cancer surveillance efficacy is uncertain; sensitivity of pre-gastrectomy EGD is limited — biopsies may be negative even when residual cancer is present (see the systematic-review figures under [[#Prophylactic Gastrectomy]])
+- Gastric cancer surveillance efficacy is uncertain; sensitivity of pre-gastrectomy EGD is limited — biopsies may be negative even when residual cancer is present (see the systematic-review data under [[#Prophylactic Gastrectomy]])
 
 ---
 

@@ -6,6 +6,53 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-08-10] ingest | Jagtap 2026 (Gut) RCT — urgent vs early ERCP in mild-to-moderate acute cholangitis
+
+**Source created:**
+- `[[jagtap-2026-urgent-vs-early-ercp-cholangitis]]` — single-centre open-label superiority RCT (AIG Hyderabad), n=304, NCT05920954. Raw file is named "Rosenbluth" but that name is not among the authors; slugged to the actual first author (Jagtap N).
+
+**Key findings:**
+- Urgent ERCP (<24 h) vs early (24–48 h) in **mild-to-moderate** cholangitis: no difference in 30-day mortality (3.95% vs 6.58%; HR 0.70, 95% CI 0.25–1.93) or organ failure.
+- Urgent ~**doubled post-ERCP adverse events** (17.1% vs 9.2%; RR 2.03), driven by **haemorrhage** (10.5% vs 3.3%). DSMB halted enrolment for lost equipoise (NNT 38 to prevent one death vs NNH 13).
+- Independent predictors: urgent ERCP + biliary sphincterotomy → post-ERCP AE/bleeding; **malignant obstruction the sole predictor of 30-day mortality** (HR ~5), not timing. Underpowered for the observed small mortality difference (~18% power).
+
+**Pages updated:**
+- `[[ercp]]` — cholangitis timing indication refined (<48 h; urgent <24 h only for severe) + post-ERCP bleeding section; +1 source, `updated:` bumped.
+- `[[choledocholithiasis]]` — new "Acute Cholangitis — Drainage Timing" subsection; +2 sources (asge-2021-cholangitis, jagtap-2026); index count 1→4.
+- `[[asge-2021-cholangitis]]` — added RCT refinement + contradiction cross-reference to the "ERCP within 48 h" recommendation.
+- `index.md` — new source entry under Other; ercp (6→9) and choledocholithiasis (1→4) descriptions/counts refreshed.
+
+**Not done (environment limit):** Anki card files for `ercp`/`choledocholithiasis` were not updated — the cards dir is not mounted in this (`/repo`-only) container. Needs a rebuild where the cards dir is reachable.
+
+**Flagged (coverage gap):** the wiki still has **no dedicated acute-cholangitis disease script** (TG18 diagnostic/severity criteria not ingested); cholangitis content lives across choledocholithiasis, jaundice, and ercp.
+
+---
+
+## [2026-08-10] lint | Parallel 4-batch sweep + Jagtap RCT ingest; colon-ischemia + portal-hypertension decision gaps closed; PVT TIPS-mislink fixed; 0 broken links / 0 orphans
+
+**Scope:** Full-wiki health check. Ingested the one new inbox-sync file (Jagtap 2026 RCT, logged separately above). Fanned out across parallel subagents (1 stalest-page validator + folder batches for hepatology/pancreaticobiliary, diagnostic-schemas, meds, and concepts A–L / M–Z); whole-wiki concerns reconciled centrally.
+
+**Decision gaps closed (from ingested sources, PDF-verified):**
+- `[[colon-ischemia]]` — replaced paraphrased severity strata with **ACG 2015 Table 6** operative criteria (moderate = up to 3 of 10 named factors; severe = >3 or any of peritoneal signs / pneumatosis-PVG / gangrene / pancolonic-IRCI). Removed an unsupported CT "sens/spec >80%" claim (guideline calls CT findings nonspecific).
+- `[[portal-hypertension]]` — added the **Sarin gastric-varices classification** (GOV1/GOV2/IGV1/IGV2 criteria) the cyanoacrylate recommendation was conditioned on; sourced to AASLD 2023.
+
+**Stalest-page validation:** `[[colon-ischemia]]`, `[[hereditary-diffuse-gastric-cancer]]` (fixed a false "figures" internal reference), `[[bmmrd-syndrome]]` (verified faithful to USMSTF 2017) — all bumped.
+
+**Link densification / hygiene:** targeted inline first-mention links added across `glp-2-agonists`, `abdominal-bloating-and-distention`, `intestinal-ultrasound`, `nutrition-in-hospitalized-patients`, `liver-biopsy`, `ibd-in-malignancy`, and several hepatology pages; `asge-2023-post-ercp-pancreatitis` added to `[[acute-pancreatitis]]` and `[[sphincter-of-oddi-dysfunction]]` `## Sources` (was inline-cited only); index counts reconciled (acute-pancreatitis 4→7, SOD 2→3).
+- **Correctness fix:** `[[portal-vein-thrombosis]]` TIPS bullet pointed at `[[ercp]]` → retargeted to `[[tips]]`.
+
+**Health:** 0 broken links, 0 orphans, 0 duplicate basenames, 0 broken table-alias-pipes, 0 OS artifacts, 0 stray report files.
+
+**Stubs:** none expandable this pass — all remaining stubs (rectal-prolapse, microscopic-colitis, bile-acid-diarrhea, argon-plasma-coagulation, bariatric-surgery) are correctly documented as source-blocked (bariatric has only a gated lecture).
+
+**Reported for user triage (not fixable without new/ingested sources — no fabrication):**
+- **Missing `## Sources` entirely** on `[[dysphagia]]` and `[[nausea-and-vomiting]]` (empty frontmatter `sources:`) — needs human source attribution (candidates exist in-wiki; retro-attribution would be guessing).
+- **Missing IBD drug-class pages** repeatedly referenced but unlinked: thiopurines, anti-TNF/TNF-inhibitors, vedolizumab, ustekinumab, JAK inhibitors — deferred (each needs careful multi-CPU sourcing; too heavy for this pass's budget).
+- **Corpus-blocked score/criteria gaps** (need original papers, never fill from memory): ABIC/GAHS (alcohol-associated hepatitis), Rockall point values, Tokyo TG18 severity grades, CTSI cutoff, Curaçao criteria (HHT), Roenigk (MTX), PAGE-B/REAL-B components, HPS PaO₂ severity bands, Rotterdam/AUROC BCS, FPC lifetime risk.
+- `[[chronic-pancreatitis]]` Sources #6 (Catalano 2009, Rosemont) is a plain-text citation with no source page and the paper not in `raw/`.
+
+---
+
 ## [2026-08-09] lint | Parallel sweep — H. pylori BQT dosing correction, stalest-page validation, 7-concepts link densification
 
 **Scope:** Full-wiki health check. Fanned out across 3 parallel subagents (2 stalest-page validators + 1 `7-concepts/` link-densifier); whole-wiki concerns (broken links, orphans, ingest queue, dosing consistency, index/log) reconciled centrally.

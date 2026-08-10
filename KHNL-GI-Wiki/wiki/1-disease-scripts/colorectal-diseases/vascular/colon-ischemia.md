@@ -3,7 +3,7 @@ title: "Colon Ischemia"
 category: disease-script
 tags: [colon-ischemia, ischemic-colitis, mesenteric-ischemia, hematochezia, colonoscopy, surgery, vascular]
 created: 2026-05-21
-updated: 2026-07-16
+updated: 2026-08-10
 sources: [acg-2015-colon-ischemia]
 ---
 
@@ -22,7 +22,7 @@ Colon ischemia (CI) is the most common form of intestinal ischemia, resulting fr
 
 **Key diagnostic steps:**
 
-1. **CT abdomen/pelvis with IV and oral contrast** — first-line imaging; sensitivity/specificity >80%; findings: segmental colonic wall thickening, thumbprinting (submucosal edema/hemorrhage), pericolonic fat stranding; also excludes perforation, pneumatosis, or alternative diagnosis
+1. **CT abdomen/pelvis with IV and oral contrast** — first-line imaging (Strong, Moderate) to assess distribution and phase of colitis and exclude alternatives; findings: segmental colonic wall thickening, thumbprinting (submucosal edema/hemorrhage), pericolonic fat stranding — suggestive but **nonspecific** for CI; also excludes perforation, pneumatosis, or alternative diagnosis
 2. **[[colonoscopy|Colonoscopy]] within 48 hours** — confirms diagnosis; characteristic findings: segmental hemorrhagic edematous mucosa with abrupt transition at watershed zones; mucosal hemorrhage, ulceration, cyanotic/necrotic mucosa in severe cases; **biopsy required** to confirm histopathology (ghost cells — ischemic necrosis — and hemosiderin-laden macrophages)
 3. **CT angiography** — NOT routine; reserve for clinical suspicion of AMI or when CI is right-sided (IRCI) suggesting SMA disease
 4. **Labs**: CBC (leukocytosis), metabolic panel, serum lactate, LDH, CK — none diagnostic alone; elevated lactate/CK suggest transmural or severe disease
@@ -31,13 +31,13 @@ Colon ischemia (CI) is the most common form of intestinal ischemia, resulting fr
 
 ### Severity Assessment
 
-Severity classification (Table 6, ACG 2015) [[acg-2015-colon-ischemia]]:
+Severity classification and management (Table 6, ACG 2015) — the moderate/severe strata are defined by **counting** the risk factors below, so classify by the actual factors present [[acg-2015-colon-ischemia]]:
 
 | Severity | Criteria | Management |
 |---|---|---|
-| **Mild** | Clinical resolution within 48–72h with bowel rest/IVF; no peritoneal signs; limited to mucosa/submucosa on CT/colonoscopy | Bowel rest, IV fluids, supportive care; consider antibiotics if clinically uncertain |
-| **Moderate** | Symptoms persist beyond 72h; diarrhea, pain without improvement; no peritoneal signs; may have worsening CT findings | Bowel rest, IV fluids, broad-spectrum antibiotics; repeat CT or colonoscopy to reassess |
-| **Severe** | Peritoneal signs, pneumoperitoneum, pneumatosis, gangrene on colonoscopy, sepsis, failure of conservative management, or high-risk distribution (IRCI, pancolonic) | Surgical consultation urgent; surgical resection usually required |
+| **Mild** | Typical CI symptoms with segmental colitis **not** isolated to the right colon and **none** of the moderate-disease factors below | Observation; supportive care |
+| **Moderate** | CI plus **up to 3** of: male sex; hypotension (SBP <90 mm Hg); tachycardia (HR >100 bpm); abdominal pain without rectal bleeding; BUN >20 mg/dL; Hgb <12 g/dL; LDH >350 U/L; serum sodium <136 mEq/L; WBC >15 ×10⁹/L; colonic mucosal ulceration on colonoscopy | Correct cardiovascular abnormalities (e.g., volume replacement); broad-spectrum antibiotics; surgical consultation |
+| **Severe** | CI plus **>3** of the moderate factors, **or any** of: peritoneal signs; pneumatosis or portal venous gas on imaging; gangrene on colonoscopy; pancolonic distribution or IRCI | Emergent surgical consultation (treatment likely surgical); ICU transfer; correct cardiovascular abnormalities; broad-spectrum antibiotics |
 
 **High-risk patterns:**
 

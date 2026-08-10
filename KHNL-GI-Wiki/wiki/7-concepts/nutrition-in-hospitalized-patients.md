@@ -3,7 +3,7 @@ title: "Nutrition Therapy in the Hospitalized Patient"
 category: concept
 tags: [nutrition, enteral-nutrition, parenteral-nutrition, malnutrition, icu, critical-care, hospitalized-patient]
 created: 2026-05-21
-updated: 2026-08-03
+updated: 2026-08-10
 sources: [acg-2016-nutrition-hospitalized, asge-2025-gastrostomy-tubes, asge-2011-enteral-feeding]
 ---
 
@@ -139,7 +139,7 @@ Immune-modulating formulas (arginine, glutamine, omega-3 fatty acids) are NOT re
 
 **Liver disease**: see [[nutrition-in-liver-disease]] — protein restriction is NOT recommended; protein goals similar to other ICU patients
 
-**IBD**: see [[inflammatory-bowel-disease]] — EN serves as primary therapy in pediatric [[crohns-disease|Crohn's]]; adjunctive in adult CD
+**IBD**: see [[nutrition-in-ibd|diet and nutritional therapy in IBD]] — EN serves as primary therapy in pediatric [[crohns-disease|Crohn's]]; adjunctive in adult CD
 
 ---
 
@@ -154,7 +154,7 @@ Immune-modulating formulas (arginine, glutamine, omega-3 fatty acids) are NOT re
 
 ## See Also
 
-[[acute-pancreatitis]], [[nutrition-in-liver-disease]], [[inflammatory-bowel-disease]], [[aki-in-cirrhosis]], [[obesity]], [[gastroparesis]], [[gerd]], [[antibiotic-prophylaxis-endoscopy]], [[upper-endoscopy]], [[enteral-access]]
+[[acute-pancreatitis]], [[nutrition-in-liver-disease]], [[inflammatory-bowel-disease]], [[nutrition-in-ibd]], [[aki-in-cirrhosis]], [[obesity]], [[gastroparesis]], [[gerd]], [[antibiotic-prophylaxis-endoscopy]], [[upper-endoscopy]], [[enteral-access]]
 
 ---
 

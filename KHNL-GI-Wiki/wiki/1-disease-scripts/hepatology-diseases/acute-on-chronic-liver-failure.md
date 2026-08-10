@@ -3,7 +3,7 @@ title: "Acute-on-Chronic Liver Failure (ACLF)"
 category: disease-script
 tags: [ACLF, acute-on-chronic-liver-failure, cirrhosis, organ-failure, ICU, NACSELD, EASL-CLIF, terlipressin, HRS, hepatic-encephalopathy, infection, nutrition, liver-transplantation, palliative-care]
 created: 2026-05-28
-updated: 2026-07-23
+updated: 2026-08-10
 sources: [aasld-2024-aclf]
 ---
 
@@ -159,7 +159,7 @@ Infection is the most common precipitant of ACLF (~48%). Every hour delay in ant
 **Antibiotic principles (GS 31–33):**
 
 - Choose antibiotics based on etiology, severity, mode of acquisition (community vs. healthcare-associated vs. nosocomial), and local resistance patterns (GS 31)
-- **Minimize PPI use and Foley catheters** to prevent nosocomial infections (GS 32)
+- **Minimize [[proton-pump-inhibitors|PPI]] use and Foley catheters** to prevent nosocomial infections (GS 32)
 - If nosocomial infection not responding to antibiotics after 48h → broaden for MDR organisms and/or fungal infection (GS 33)
 
 **MDR organisms:** Account for ≥40% of culture-positive infections in ACLF; MDR rate ~34% worldwide (highest in Asia). Resistance to first-line community antibiotics up to 75% in culture-negative nosocomial infections.
@@ -234,7 +234,7 @@ Palliative care is essential in ACLF management; frequently underutilized (GS 49
 
 ## See Also
 
-[[acute-liver-failure]], [[aki-in-cirrhosis]], [[spontaneous-bacterial-peritonitis]], [[portal-hypertension]], [[variceal-upper-gi-bleeding]], [[ascites]], [[hepatopulmonary-syndrome-portopulmonary-hypertension]], [[liver-transplantation]], [[hepatic-encephalopathy]], [[alcohol-associated-liver-disease]], [[portal-vein-thrombosis]], [[hepatocellular-carcinoma]], [[nutrition-in-liver-disease]], [[rifaximin]]
+[[acute-liver-failure]], [[aki-in-cirrhosis]], [[spontaneous-bacterial-peritonitis]], [[portal-hypertension]], [[variceal-upper-gi-bleeding]], [[ascites]], [[hepatopulmonary-syndrome-portopulmonary-hypertension]], [[liver-transplantation]], [[hepatic-encephalopathy]], [[alcohol-associated-liver-disease]], [[portal-vein-thrombosis]], [[hepatocellular-carcinoma]], [[nutrition-in-liver-disease]], [[rifaximin]], [[proton-pump-inhibitors]]
 
 ---
 

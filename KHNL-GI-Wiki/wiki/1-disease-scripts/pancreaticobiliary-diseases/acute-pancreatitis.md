@@ -3,8 +3,8 @@ title: "Acute Pancreatitis"
 category: disease-script
 tags: [pancreatitis, acute-pancreatitis, hpb, gallstone-pancreatitis, necrotizing-pancreatitis, ercp, bisap, fluid-resuscitation, nutrition]
 created: 2026-05-07
-updated: 2026-08-02
-sources: [acg-2024-acute-pancreatitis, asge-2016-pancreatic-fluid-collections, asge-2015-benign-pancreatic-disease, demadaria-2022-waterfall, aga-2024-pregnancy-gi-liver, aga-2022-recurrent-pancreatitis-endoscopy]
+updated: 2026-08-10
+sources: [acg-2024-acute-pancreatitis, asge-2016-pancreatic-fluid-collections, asge-2015-benign-pancreatic-disease, demadaria-2022-waterfall, aga-2024-pregnancy-gi-liver, aga-2022-recurrent-pancreatitis-endoscopy, asge-2023-post-ercp-pancreatitis]
 ---
 
 # Acute Pancreatitis
@@ -288,3 +288,4 @@ BISAP ≥3 = high risk for severe AP and mortality
 4. [[demadaria-2022-waterfall|Aggressive or Moderate Fluid Resuscitation in Acute Pancreatitis (WATERFALL, NEJM 2022)]]
 5. [[aga-2024-pregnancy-gi-liver|AGA Clinical Practice Update on Pregnancy-Related Gastrointestinal and Liver Disease: Expert Review]]
 6. [[aga-2022-recurrent-pancreatitis-endoscopy|AGA 2022: Clinical Practice Update on the Endoscopic Approach to Recurrent Acute and Chronic Pancreatitis]]
+7. [[asge-2023-post-ercp-pancreatitis|ASGE Guideline: Post-ERCP Pancreatitis Prevention (2023)]]

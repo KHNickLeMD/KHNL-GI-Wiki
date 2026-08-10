@@ -3,7 +3,7 @@ title: "Biallelic Mismatch Repair Deficiency (BMMRD) Syndrome"
 category: disease-script
 tags: [bmmrd, cmmrd, mismatch-repair, hereditary-crc, colorectal-cancer, brain-tumor, lymphoma, pediatric-cancer, genetic-testing, mmr, cafe-au-lait, pms2, msh6, mlh1, msh2]
 created: 2026-05-24
-updated: 2026-07-16
+updated: 2026-08-10
 sources: [usmstf-2017-bmmrd]
 ---
 

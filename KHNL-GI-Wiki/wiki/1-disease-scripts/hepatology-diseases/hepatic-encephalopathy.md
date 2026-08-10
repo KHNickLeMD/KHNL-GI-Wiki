@@ -3,7 +3,7 @@ title: "Hepatic Encephalopathy"
 category: disease-script
 tags: [hepatic-encephalopathy, HE, cirrhosis, ammonia, lactulose, rifaximin, TIPS, portal-hypertension, ACLF, minimal-HE, covert-HE, overt-HE, portosystemic-shunting, brain-dysfunction]
 created: 2026-05-28
-updated: 2026-07-17
+updated: 2026-08-10
 sources: [aasld-easl-2014-hepatic-encephalopathy, acg-2026-hepatic-encephalopathy]
 ---
 
@@ -57,7 +57,7 @@ Every bout of HE should be characterized along all four axes simultaneously:
 
 ## Epidemiology and Prognosis
 
-- OHE: 5–25% risk within 5 years of cirrhosis diagnosis (depends on presence of prior MHE/CHE, infections, VB, [[ascites]], DM, [[hepatitis-c|hepatitis C]])
+- OHE: 5–25% risk within 5 years of cirrhosis diagnosis (depends on presence of prior MHE/CHE, infections, [[variceal-upper-gi-bleeding|VB]], [[ascites]], DM, [[hepatitis-c|hepatitis C]])
 - Patients with prior OHE: 40% cumulative risk of recurrence at 1 year; 40% risk of another recurrence within 6 months despite lactulose treatment
 - After TIPS: OHE in 10–50% (1-year cumulative); greatest with large-diameter stents or very low portal pressure
 - MHE/CHE: 20–80% prevalence in cirrhosis; reduces QoL and impairs driving performance; predicts OHE development
