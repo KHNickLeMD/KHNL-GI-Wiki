@@ -4,3 +4,6 @@
 node_modules/
 KHNL-GI-Wiki/raw/*
 !KHNL-GI-Wiki/raw/assets
+
+# Anki cards live in the Nextcloud folder beside raw/, not in git
+KHNL-GI-Wiki/cards/
