@@ -1,0 +1,22 @@
+name: Test
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'index.html'
+      - 'website_files/scripts/**'
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      # ponytail: no npm ci — the test only uses node stdlib.
+      - run: npm test
+        working-directory: website_files
