@@ -18,8 +18,8 @@ const SITE = 'https://giwiki.khnicklemd.com'
 // raw/ itself: the lint cron rsyncs raw/ into the repo and commits it.
 const CARDS_DIRS = [
   process.env.CARDS_DIR,
-  '/Users/nickel/Desktop/KHNL Drive/##3Resources/#KHNL GI Wiki/KHNL-GI-Wiki/cards',
-  '/mnt/LeStorage/Drive/KHNL/##3Resources/#KHNL GI Wiki/KHNL-GI-Wiki/cards'
+  '/Users/nickel/Desktop/KHNL Drive/##3Resources/#KHNL GI Wiki/cards',
+  '/mnt/LeStorage/Drive/KHNL/##3Resources/#KHNL GI Wiki/cards'
 ].filter(Boolean)
 const CAPS = { words: 40, bullets: 5, bulletWords: 12 }
 

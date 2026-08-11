@@ -399,8 +399,8 @@ The wiki is large and most lint work is per-page and independent, so a lint pass
 
 **Cards live outside the repo** (moved 2026-08-09), in the Nextcloud tree **beside** `raw/`, so they sync to the server and are shared by link when Nick chooses — never pushed to GitHub on someone else's schedule:
 
-- laptop — `~/Desktop/KHNL Drive/##3Resources/#KHNL GI Wiki/KHNL-GI-Wiki/cards/`
-- server — `/mnt/LeStorage/Drive/KHNL/##3Resources/#KHNL GI Wiki/KHNL-GI-Wiki/cards/`
+- laptop — `~/Desktop/KHNL Drive/##3Resources/#KHNL GI Wiki/cards/`
+- server — `/mnt/LeStorage/Drive/KHNL/##3Resources/#KHNL GI Wiki/cards/`
 
 Never put them **inside** `raw/`: the lint cron rsyncs `raw/` into the repo clone and commits it, which would push every card to GitHub. `KHNL-GI-Wiki/cards/` is in `.gitignore` as a backstop. The exporter (`website_files/scripts/build-anki.mjs`, still in the repo) tries `$CARDS_DIR`, then those two paths, and writes `<cards>/dist/khnl-gi-wiki.txt` — the single file to share for download (stock Cloze, `#guid column`). The `giwiki` container mounts only `/repo`, so the 05:00 cron cannot see or draft cards; card work happens where the cards dir is reachable. Block format: `[6-hex id]{source-slug}` opens a note, `>` lines are Back Extra, blank line separates notes. GUID = `sha1(page + id)` — **reword freely, never change an id**, that's what preserves scheduling.
 
