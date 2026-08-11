@@ -1,6 +1,8 @@
 .obsidian/
 .DS_Store
-.claude/
+.claude/*
+# tracked so the server clone gets it on git pull — CLAUDE.md points card work at it
+!.claude/PLAN-anki-decks.md
 node_modules/
 KHNL-GI-Wiki/raw/*
 !KHNL-GI-Wiki/raw/assets
