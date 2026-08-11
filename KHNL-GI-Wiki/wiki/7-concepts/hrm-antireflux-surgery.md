@@ -3,7 +3,7 @@ title: "HRM Before and After Antireflux Surgery (Padova Classification)"
 category: concept
 tags: [HRM, antireflux-surgery, fundoplication, GERD, esophageal-manometry, EGJ, Padova-classification, PFOO, pseudoachalasia]
 created: 2026-05-15
-updated: 2026-07-16
+updated: 2026-08-11
 sources: [padova-2025-hrm-antireflux]
 ---
 
@@ -12,8 +12,6 @@ sources: [padova-2025-hrm-antireflux]
 [[high-resolution-manometry|High-resolution manometry (HRM)]] plays a dual role in the management of [[antireflux-surgery|antireflux surgery (ARS)]]: **pre-operative screening** to exclude motor disorders that would complicate or contraindicate surgery, and **post-operative diagnosis** of failed or complicated fundoplication. Standard [[chicago-classification-v4|Chicago Classification]] norms do not apply post-ARS; the wrap creates a new anatomic HPZ with predictably altered manometric parameters.
 
 The **Padova Consensus (2025)** — a 3-year, 29-expert international process using RAND/UCLA appropriateness methodology — provides the first systematic framework for both contexts, culminating in the **Padova Classification**: a structured two-step post-ARS HRM algorithm.
-
-**Source:** [[padova-2025-hrm-antireflux]]
 
 ---
 

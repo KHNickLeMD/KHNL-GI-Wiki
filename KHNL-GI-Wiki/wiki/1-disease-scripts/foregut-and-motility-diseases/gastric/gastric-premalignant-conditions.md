@@ -13,7 +13,7 @@ tags:
   - surveillance
   - autoimmune-gastritis
 created: 2026-05-07
-updated: 2026-08-05
+updated: 2026-08-11
 sources:
   - acg-2025-gastric-premalignant
 ---
@@ -153,6 +153,16 @@ Gastric adenocarcinoma
 - None of the high-risk criteria above
 - AG mild in severity
 
+**Where OLGA/OLGIM staging is routinely used** (staging criteria and risk bands live on [[atrophic-gastritis#Severity Assessment|atrophic gastritis]]):
+
+| Stage | Surveillance |
+|---|---|
+| **III–IV** (without dysplasia) | Every **3 years**; consider a **2-year** interval with any additional demographic/clinical risk factor (e.g. family history) |
+| **II** (intermediate risk) | 3-year surveillance **may be considered** if multiple additional high-risk factors are present |
+| **0–I** | Not indicated on stage alone |
+
+**Refractory H. pylori** — infection persisting after several lines of appropriate therapy marks a particularly high-risk patient: offer surveillance endoscopy at a **3-year** interval (expert opinion; shorter if additional GC risk factors).
+
 ### GC Screening (For Reference)
 
 - **Against** routine [[upper-endoscopy|upper endoscopy]] [[gastric-cancer-screening|GC/GPMC screening]] in general US population (Conditional/Very low)
@@ -189,7 +199,7 @@ Gastric adenocarcinoma
 
 - H. pylori: test with nonserological method; eradicate if positive; confirm eradication (Strong/Low)
 - Surveillance: no formal recommendation; individualized surveillance may be considered given risk of type I carcinoids and possible GC (Conditional/Low)
-- Same GPMC risk stratification parameters apply
+- Same GPMC risk stratification parameters apply — **except OLGA/OLGIM, which should not be applied to H. pylori-negative AIG** (atrophy and GIM occur only in the corpus)
 
 ### Gastric Epithelial Polyps
 

@@ -3,7 +3,7 @@ title: "Anticoagulation Management in GI Bleeding and Periendoscopic Period"
 category: concept
 tags: [anticoagulation, antiplatelets, gi-bleeding, periendoscopic, doac, warfarin, bridging]
 created: 2026-05-15
-updated: 2026-07-16
+updated: 2026-08-11
 sources: [acg-cag-2022-anticoag-gi-bleeding, asge-2016-antithrombotic]
 ---
 
@@ -130,7 +130,7 @@ The periendoscopic framework applies to patients undergoing **scheduled, electiv
 | High bleeding risk (30-day major bleed >2%) | Low/moderate bleeding risk (≤2%) |
 |---|---|
 | [[polypectomy\|Polypectomy ≥1 cm]] | [[upper-endoscopy\|EGD]] ± biopsy |
-| EMR / [[colorectal-esd\|ESD]] | [[colonoscopy\|Colonoscopy]] ± biopsy |
+| [[endoscopic-mucosal-resection\|EMR]] / [[endoscopic-submucosal-dissection\|ESD]] | [[colonoscopy\|Colonoscopy]] ± biopsy |
 | [[ercp\|ERCP]] with sphincterotomy | Flexible sigmoidoscopy ± biopsy |
 | [[endoscopic-ultrasound\|EUS-FNA]] | EUS without FNA |
 | PEG/PEJ placement | [[ercp\|ERCP]] with stent, without sphincterotomy |

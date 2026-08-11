@@ -3,7 +3,7 @@ title: "Calcineurin Inhibitors"
 category: med
 tags: [calcineurin-inhibitor, tacrolimus, cyclosporine, immunosuppression, transplant, liver-transplant, nephrotoxicity, basiliximab, induction, cnm-minimization]
 created: 2026-05-19
-updated: 2026-07-16
+updated: 2026-08-11
 sources: [aasld-2012-liver-transplant-long-term, aasld-ast-2025-liver-transplant-graft-complications]
 ---
 
@@ -16,9 +16,8 @@ Calcineurin inhibitors (CNIs) — primarily [[tacrolimus]] (TAC) and cyclosporin
 ### Tacrolimus (FK506)
 
 - Preferred CNI; superior rejection prevention vs. cyclosporine in randomized trials
-- Twice-daily or once-daily extended-release formulation (equivalent efficacy, Rec 31)
-- Trough targets: 7–10 ng/mL (month 1), 4–8 ng/mL (months 2–12), 4 ng/mL (month 12+)
-- See [[tacrolimus]] for full drug page
+- Twice-daily or once-daily extended-release formulation — equivalent efficacy ([[aasld-ast-2025-liver-transplant-graft-complications]], Rec 31)
+- **Dosing and trough targets by time post-LT live on [[tacrolimus]]** — see that page rather than duplicating them here
 
 ### Cyclosporine (CSA)
 

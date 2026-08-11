@@ -3,8 +3,17 @@ title: "Device-Assisted Enteroscopy (Deep Enteroscopy)"
 category: advanced-procedure
 tags: [deep-enteroscopy, dbe, sbe, spiral-enteroscopy, balloon-enteroscopy, small-bowel, gi-bleeding, device-assisted-enteroscopy]
 created: 2026-05-19
-updated: 2026-07-16
+updated: 2026-08-11
 sources: [acg-2015-small-bowel-bleeding, asge-2017-small-bowel-bleeding, asge-2015-deep-enteroscopy]
+---
+
+## Contents
+- [[#Overview]]
+- [[#Route Selection]]
+- [[#Indications]]
+- [[#Therapeutics Deliverable at DAE]]
+- [[#Adverse Events]]
+
 ---
 
 ## Overview
@@ -21,6 +30,29 @@ Device-assisted enteroscopy (DAE), also called deep enteroscopy, encompasses thr
 
 **[[capsule-endoscopy|VCE]] before DAE:** Perform VCE first whenever possible to guide targeted (VCE-guided) DAE, which raises diagnostic yield to 73–93% and therapeutic yield to 57–73%. Initial DAE without prior VCE appropriate only for massive hemorrhage or VCE contraindication. *(ACG 2015: Strong/High)*
 
+**Platform choice** *(ASGE 2015)* [[asge-2015-deep-enteroscopy]]:
+
+- DE is an **effective and safe** technique for small-bowel examination *(High)*.
+- **DBE is the most effective platform for achieving total enteroscopy** *(Moderate)*.
+- **Either DBE or SBE** is acceptable for **retrograde** enteroscopy *(Low)*.
+- SBE's practical advantages over DBE: shorter setup, single balloon cycle, simpler control panel, non-latex balloon.
+- **Short DBE** model: used for difficult ileocolonoscopy, **[[ercp|ERCP]] in surgically altered anatomy**, and proximal small-bowel endoscopy.
+- NaviAid (through-the-scope balloon on a standard adult colonoscope): limited data — **no recommendation**.
+
+---
+
+## Route Selection
+
+The scope reaches only part of the small bowel from either end, so the route is chosen to put the target lesion within reach — VCE transit time is what localizes it.
+
+| Route | Reach (DBE) | Use for |
+|---|---|---|
+| **Antegrade (oral)** | 240–360 cm past the ligament of Treitz | Proximal **two-thirds** of the small bowel |
+| **Retrograde (rectal)** | 102–140 cm past the ileocecal valve | Distal **one-third** |
+
+- Assignment is based on **capsule transit times** on the preceding VCE.
+- **Total enteroscopy** = intubation of the entire small bowel by one or both routes; DBE total-enteroscopy rate **0–86%** across series (highest in Asian populations). Indicated for multiple lesions, a negative initial DBE, or high suspicion after a nondiagnostic VCE.
+
 ## Indications
 
 - Positive VCE requiring therapy; negative VCE with high clinical suspicion; VCE contraindicated; active small-bowel bleeding.
@@ -34,9 +66,36 @@ Device-assisted enteroscopy (DAE), also called deep enteroscopy, encompasses thr
 
 See [[small-bowel-bleeding]] for full algorithm.
 
+---
+
+## Therapeutics Deliverable at DAE
+
+What makes DAE worth doing rather than repeating imaging — it is the only modality that can both see and treat the midgut ([[asge-2015-deep-enteroscopy]]):
+
+- Biopsy and mucosal injection
+- **[[polypectomy]]**
+- **Stricture dilation** (e.g. [[crohns-disease|Crohn's]] strictures within reach)
+- **Hemostasis** — [[argon-plasma-coagulation|APC]], electrocoagulation, hemoclips (used for small-bowel [[angioectasia|angiectasias]])
+- **Foreign-body / retained-capsule retrieval**
+
+---
+
+## Adverse Events
+
+| Measure | Rate |
+|---|---|
+| Pooled DE, all indications — **minor** AEs | **9.1%** |
+| Pooled DE, all indications — **major** AEs | **0.72%** |
+| DBE, diagnostic only | 0.8% |
+| DBE, with therapeutics | up to **4%** |
+| DBE — [[acute-pancreatitis\|pancreatitis]] (most common specific AE) | ~0.3% |
+| Spiral enteroscopy — severe | 0.34% (small-bowel perforation 0.27%) |
+
+The step up from diagnostic to therapeutic DBE roughly **quintuples** the complication rate — a reason to have a defined target (VCE-localized) before booking the procedure.
+
 ## See Also
 
-[[small-bowel-bleeding]], [[capsule-endoscopy]], [[crohns-disease]], [[angioectasia]]
+[[small-bowel-bleeding]], [[capsule-endoscopy]], [[crohns-disease]], [[angioectasia]], [[ercp]], [[polypectomy]], [[argon-plasma-coagulation]], [[acute-pancreatitis]], [[chronic-diarrhea]]
 
 ---
 

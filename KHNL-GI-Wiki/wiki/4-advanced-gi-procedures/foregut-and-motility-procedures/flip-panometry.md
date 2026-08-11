@@ -3,7 +3,7 @@ title: "FLIP Panometry"
 category: advanced-procedure
 tags: [FLIP, panometry, esophageal-motility, EGJ, functional-lumen-imaging, achalasia, EGJOO, foregut]
 created: 2026-05-15
-updated: 2026-07-16
+updated: 2026-08-11
 sources: [dallas-2025-flip-panometry, aga-2025-flip-esophageal]
 ---
 
@@ -141,7 +141,7 @@ Six-category matrix combining EGJ Opening × Contractile Response:
 
 ## See Also
 
-[[achalasia]], [[high-resolution-manometry]], [[chicago-classification-v4]], [[ineffective-esophageal-motility]], [[hrm-antireflux-surgery]], [[antireflux-surgery]], [[poem]], [[gerd]], [[endoscopic-ultrasound]]
+[[achalasia]], [[high-resolution-manometry]], [[chicago-classification-v4]], [[ineffective-esophageal-motility]], [[esophagogastric-junction-outflow-obstruction]], [[distal-esophageal-spasm]], [[hypercontractile-esophagus]], [[hrm-antireflux-surgery]], [[antireflux-surgery]], [[poem]], [[heller-myotomy]], [[gerd]], [[eosinophilic-esophagitis]], [[dysphagia]], [[upper-endoscopy]], [[endoscopic-ultrasound]]
 
 ---
 

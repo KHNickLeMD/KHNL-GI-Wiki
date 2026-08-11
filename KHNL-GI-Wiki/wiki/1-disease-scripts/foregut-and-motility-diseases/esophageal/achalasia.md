@@ -3,8 +3,8 @@ title: "Achalasia"
 category: disease-script
 tags: [achalasia, esophageal-motility, dysphagia, hrm, poem, heller-myotomy, pneumatic-dilation, foregut]
 created: 2026-05-15
-updated: 2026-07-29
-sources: [acg-2020-achalasia, asge-2020-achalasia, sages-2021-poem, aga-2024-poem-advances, aga-2024-esophageal-immunity-infection]
+updated: 2026-08-11
+sources: [acg-2020-achalasia, asge-2020-achalasia, sages-2021-poem, sages-2024-poem, aga-2024-poem-advances, aga-2024-esophageal-immunity-infection, chicago-v4-2021-esophageal-dysmotility]
 ---
 # Achalasia
 
@@ -73,7 +73,7 @@ Disease progresses: Type III → Type II → Type I as esophagus dilates over ti
 
 ### HRM (High-Resolution Manometry)
 
-Gold standard. Use esophageal pressure topography. Reports IRP (integrated relaxation pressure) and body pattern. [[chicago-classification-v4|Chicago Classification]] v3.0 defines subtypes.
+Gold standard. Use esophageal pressure topography. Reports IRP (integrated relaxation pressure) and body pattern. The [[chicago-classification-v4|Chicago Classification]] defines the subtypes — ACG 2020 references CC v3.0; the current framework (manufacturer-specific IRP thresholds, subtype criteria) is **CC v4.0** ([[chicago-v4-2021-esophageal-dysmotility]]).
 
 ### Timed Barium Esophagram (TBE)
 
@@ -141,6 +141,8 @@ flowchart TD
 
 > **Recommendation:** Serial PD is the most effective non-surgical treatment. Superior to botulinum toxin. Equivalent to LHM at 5 years. (Strong; High evidence)
 
+> **Newer guidance — [[sages-2024-poem|SAGES 2024 update]] (conditional):** **POEM over PD** for adults with achalasia; **POEM or LHM** — either acceptable, selection individualized (POEM especially advantageous for type III / spastic disease). Where the two differ, the 2024 update supersedes the 2020 ACG framing of PD as the preferred non-surgical option; counsel on post-POEM reflux.
+
 ### Laparoscopic Heller Myotomy (LHM)
 
 - Divides circular muscle fibers of LES; preferred laparoscopic approach
@@ -159,7 +161,7 @@ flowchart TD
 - Success: >90% in prospective cohorts; 92% at 2 years in the Ponds RCT; equivalent to LHM (83% vs 82%)
 - **Type III: 93% success vs 71% for LHM** (Conditional; Low evidence)
 - **Higher GERD incidence:** 39% abnormal pH monitoring vs 17% for LHM; 29% erosive esophagitis. AGA 2024 CPU: abnormal acid exposure **41–56%**, esophagitis **41–65%**; **~¼ asymptomatic** → symptoms alone insufficient
-- Empiric acid suppression in immediate post-POEM period, continue **≥3–6 months**; objective reflux testing **6–12 months** post-POEM (off-PPI if GERD in question; on-PPI if GERD established or esophagitis LA grade ≥B)
+- Empiric acid suppression in immediate post-POEM period, continue **≥3–6 months**; [[ambulatory-reflux-monitoring|objective reflux testing]] **6–12 months** post-POEM (off-PPI if GERD in question; on-PPI if GERD established or esophagitis [[reflux-testing|LA grade]] ≥B)
 - Screen post-POEM patients for erosive esophagitis and [[barretts-esophagus|Barrett's esophagus]]
 - Advise patients lifelong PPI may be needed
 - See [[poem]] for full pre/postprocedure management, myotomy tailoring, and same-day-discharge criteria
@@ -209,7 +211,7 @@ flowchart TD
 
 ### Cancer Surveillance
 
-- Achalasia → **28x HR for esophageal squamous cell carcinoma**; ~1 cancer per 300 patient years; adenocarcinoma risk also elevated (but lower). (AGA 2024 CPU cites a 9314-patient cohort with **HR 4.6** [95% CI 2.3–9.2] for esophageal cancer overall)
+- Achalasia → **28x HR for esophageal squamous cell carcinoma**; ~1 cancer per 300 patient years; [[esophageal-adenocarcinoma|adenocarcinoma]] risk also elevated (but lower). (AGA 2024 CPU cites a 9314-patient cohort with **HR 4.6** [95% CI 2.3–9.2] for esophageal cancer overall)
 - Despite elevated risk, >400 endoscopies needed to detect one cancer; poor survival once detected
 - **Do NOT recommend routine endoscopic surveillance** for esophageal carcinoma (Strong; Low evidence)
 - Some experts favor surveillance every 3 years after 10–15 years of disease; individualize decision
@@ -218,7 +220,7 @@ flowchart TD
 
 ## See Also
 
-[[dysphagia]], [[high-resolution-manometry]], [[flip-panometry]], [[poem]], [[chicago-classification-v4]], [[distal-esophageal-spasm]], [[hypercontractile-esophagus]], [[esophagogastric-junction-outflow-obstruction]], [[gerd]], [[eosinophilic-esophagitis]], [[esophageal-dysfunction-systemic-disease]], [[upper-endoscopy]], [[heller-myotomy]]
+[[dysphagia]], [[high-resolution-manometry]], [[flip-panometry]], [[poem]], [[chicago-classification-v4]], [[distal-esophageal-spasm]], [[hypercontractile-esophagus]], [[esophagogastric-junction-outflow-obstruction]], [[gerd]], [[eosinophilic-esophagitis]], [[esophageal-dysfunction-systemic-disease]], [[upper-endoscopy]], [[heller-myotomy]], [[esophageal-cancer]], [[esophageal-adenocarcinoma]], [[reflux-testing]], [[ambulatory-reflux-monitoring]]
 
 ---
 
@@ -227,5 +229,7 @@ flowchart TD
 1. [[acg-2020-achalasia|ACG 2020: Diagnosis and Management of Achalasia]]
 2. [[asge-2020-achalasia|ASGE Guideline: Management of Achalasia (2020)]]
 3. [[sages-2021-poem|SAGES Guidelines for the Use of Peroral Endoscopic Myotomy (POEM) for the Treatment of Achalasia (2021)]]
-4. [[aga-2024-poem-advances|AGA Clinical Practice Update on Advances in Per-Oral Endoscopic Myotomy (POEM) and Remaining Questions—What We Have Learned in the Past Decade: Expert Review (2024)]]
-5. [[aga-2024-esophageal-immunity-infection|AGA Clinical Practice Update on Esophageal Dysfunction Due to Disordered Immunity and Infection: Expert Review (2024)]]
+4. [[sages-2024-poem|SAGES Guideline Update: Peroral Endoscopic Myotomy (POEM) for Achalasia (2024)]]
+5. [[aga-2024-poem-advances|AGA Clinical Practice Update on Advances in Per-Oral Endoscopic Myotomy (POEM) and Remaining Questions—What We Have Learned in the Past Decade: Expert Review (2024)]]
+6. [[aga-2024-esophageal-immunity-infection|AGA Clinical Practice Update on Esophageal Dysfunction Due to Disordered Immunity and Infection: Expert Review (2024)]]
+7. [[chicago-v4-2021-esophageal-dysmotility|Chicago Classification v4.0: Esophageal Motility Disorders]]

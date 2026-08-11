@@ -3,7 +3,7 @@ title: "Chronic Diarrhea"
 category: diagnostic-schema
 tags: [diarrhea, chronic, malabsorption, secretory, osmotic, inflammatory, steatorrhea, ibs]
 created: 2026-06-04
-updated: 2026-07-16
+updated: 2026-08-11
 sources: [asge-2010-diarrhea]
 ---
 
@@ -136,7 +136,7 @@ Prompt structural evaluation (colonoscopy ± cross-sectional imaging) and lower 
 
 ## See Also
 
-[[acute-diarrhea]], [[irritable-bowel-syndrome]], [[celiac-disease]], [[crohns-disease]], [[ulcerative-colitis]], [[microscopic-colitis]], [[bile-acid-diarrhea]], [[clostridioides-difficile]], [[small-intestinal-bacterial-overgrowth]], [[chronic-pancreatitis]], [[giardiasis]], [[cryptosporidiosis]], [[colon-ischemia]], [[colorectal-cancer]], [[alpha-gal-syndrome]], [[colonoscopy]], [[disorders-of-gut-brain-interaction]]
+[[acute-diarrhea]], [[irritable-bowel-syndrome]], [[celiac-disease]], [[inflammatory-bowel-disease]], [[crohns-disease]], [[ulcerative-colitis]], [[microscopic-colitis]], [[bile-acid-diarrhea]], [[clostridioides-difficile]], [[small-intestinal-bacterial-overgrowth]], [[exocrine-pancreatic-insufficiency]], [[chronic-pancreatitis]], [[giardiasis]], [[cryptosporidiosis]], [[entamoeba-histolytica-infection]], [[colon-ischemia]], [[colorectal-cancer]], [[gastroenteropancreatic-neuroendocrine-tumors]], [[alpha-gal-syndrome]], [[fecal-incontinence]], [[colonoscopy]], [[upper-endoscopy]], [[capsule-endoscopy]], [[device-assisted-enteroscopy]], [[iron-deficiency-anemia]], [[hiv-aids-related-diarrhea]], [[disorders-of-gut-brain-interaction]]
 
 ---
 

@@ -3,7 +3,7 @@ title: "Acute Liver Failure"
 category: disease-script
 tags: [acute-liver-failure, alf, liver, hepatology, transplant, liver-transplant-referral]
 created: 2026-05-15
-updated: 2026-08-10
+updated: 2026-08-11
 sources: [acg-2023-alf, acg-2016-liver-disease-pregnancy, aasld-ast-2025-liver-transplant-candidate-evaluation, aasld-2011-alf]
 ---
 
@@ -70,6 +70,8 @@ ACG recommends using **either KCC or MELD** for prognostication (conditional, lo
 ---
 
 ## Differential Diagnosis
+
+*Workup: see [[abnormal-liver-chemistries]] for the aetiologic evaluation of the acute hepatitis pattern that precedes ALF.*
 
 ALF must be distinguished from conditions with overlapping presentations:
 

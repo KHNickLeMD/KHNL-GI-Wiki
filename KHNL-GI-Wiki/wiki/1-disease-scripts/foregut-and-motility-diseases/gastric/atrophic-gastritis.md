@@ -11,9 +11,10 @@ tags:
   - gastric-cancer
   - neuroendocrine-tumor
 created: 2026-05-15
-updated: 2026-07-19
+updated: 2026-08-11
 sources:
   - aga-2021-atrophic-gastritis
+  - acg-2025-gastric-premalignant
 ---
 
 Atrophic gastritis (AG) is a preneoplastic condition defined by loss of gastric glands — replaced by connective tissue (nonmetaplastic atrophy) or a non-native epithelium such as intestinal metaplasia or pseudopyloric metaplasia (metaplastic atrophy) — in a background of chronic inflammation. It represents an early committed step in the [[gastric-premalignant-conditions|Correa cascade]]: AG → [[gastric-intestinal-metaplasia|intestinal metaplasia]] → dysplasia → [[gastric-adenocarcinoma|gastric adenocarcinoma]].
@@ -50,24 +51,37 @@ Intestinal metaplasia on gastric histopathology almost invariably implies underl
 
 ### Severity Assessment
 
-AG severity and extent determine gastric cancer risk. Two validated staging systems:
+AG severity and extent determine gastric cancer risk. Two validated staging systems — **OLGA/OLGIM** (histopathologic) and **Kimura-Takemoto** (endoscopic). This page is the wiki's home for both; other pages link here.
 
-**OLGA (Operative Link for Gastritis Assessment):**
+**OLGA (Operative Link for Gastritis Assessment) / OLGIM (Operative Link for [[gastric-intestinal-metaplasia|Gastric Intestinal Metaplasia]] Assessment):**
 
-- Histopathologic severity of atrophy (score 0–3) in antrum/incisura and corpus
-- OLGA Stages III–IV = significantly elevated gastric cancer risk → surveillance indicated
+- Stage = the **combination** of histopathologic severity (score **0–3**) in **each** anatomic compartment — antrum/incisura and corpus — scored for **atrophy** (OLGA) or for **IM** (OLGIM). Requires biopsies jarred separately from the two compartments (see [[#Biopsy Protocol — Updated Sydney Protocol]]) [[aga-2021-atrophic-gastritis]] [[acg-2025-gastric-premalignant]]
+- Stages run **0** (normal pathology) → **IV** (moderate/severe atrophy ± IM of **both** antrum and corpus) [[acg-2025-gastric-premalignant]]
 
-**OLGIM (Operative Link for [[gastric-intestinal-metaplasia|Gastric Intestinal Metaplasia]] Assessment):**
+| Stage | Risk band | Implication |
+|---|---|---|
+| 0–I | Low | No routine surveillance on stage alone |
+| II | **Intermediate** | Individualized; surveillance q3y may be considered if multiple additional high-risk factors |
+| III–IV | **High** | Surveillance q3y (consider q2y with additional demographic/clinical risk factors, e.g. family history) |
 
-- Uses IM extent as surrogate for atrophy severity
-- Similar prognostic value to OLGA; better interobserver reproducibility
-- Limitation: may downstage patients with atrophy but limited IM
+- **OLGIM vs OLGA:** OLGIM has **lower interobserver variability**, but **downstages** some high-risk individuals who have atrophy with limited IM
+- **Do not apply OLGA/OLGIM to autoimmune gastritis in the absence of H. pylori** — in H. pylori-negative AIG, atrophy and IM occur only in the corpus [[acg-2025-gastric-premalignant]]
+- Magnitude of the gradient (Singapore GCEP cohort, largest published GPMC cohort): early gastric neoplasia **543.8 per 10,000 person-years** with OLGIM III/IV vs **21.5** with OLGIM I
+- Adoption: widespread in Europe and some Asian/Latin American centers; only a limited number of US centers stage routinely
 
-**Kimura-Takemoto endoscopic classification (atrophic border extent):**
+**Kimura-Takemoto endoscopic classification** — grades the extent of the **atrophic border** [[aga-2021-atrophic-gastritis]]:
 
-- Closed type (C1–C3): limited to antrum/lesser curvature of proximal body
-- Open type (O1–O3): extends beyond cardia toward greater curvature
-- O2–O3 = extensive atrophy → significantly higher gastric cancer risk
+| Type | Extent of the atrophic border |
+|---|---|
+| **C-1** (closed) | Limited to the antrum |
+| **C-2** | Antrum + lesser curvature of the **distal** gastric body |
+| **C-3** | Antrum + lesser curvature of the **proximal** gastric body |
+| **O-1** (open) | Border spreads beyond the lesser curvature onto the **anterior wall** |
+| **O-2** | Border extends **beyond the cardia**, midway between anterior and posterior walls |
+| **O-3** | Border reaches the **greater curvature** |
+
+- Open (O) types carry higher gastric cancer risk than limited (C-1–C-2) atrophy; **O2–O3 = severe/extensive atrophy → significantly higher risk**
+- Correlates well with OLGA for risk stratification, so it is a usable endoscopic surrogate where histologic staging is not reported
 
 ### Classification
 
@@ -175,6 +189,8 @@ Evaluate and treat proactively in all AG patients, especially corpus-predominant
 
 ### 3. Endoscopic Surveillance
 
+Surveillance is by **high-quality [[upper-endoscopy|EGD]]** with Sydney-protocol biopsies (see above), not a limited exam.
+
 | Scenario | Interval |
 |---|---|
 | Advanced HpAG (OLGA/OLGIM III/IV or O2–O3 Kimura-Takemoto) | Every 3 years |
@@ -213,3 +229,4 @@ Metastasis rate: <10% for NETs ≤2 cm; ~20% for NETs >2 cm.
 ## Sources
 
 1. [[aga-2021-atrophic-gastritis|AGA 2021: Diagnosis and Management of Atrophic Gastritis]]
+2. [[acg-2025-gastric-premalignant|ACG 2025: Diagnosis and Management of Gastric Premalignant Conditions]]

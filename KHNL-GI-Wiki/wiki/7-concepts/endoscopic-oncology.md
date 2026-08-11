@@ -3,7 +3,7 @@ title: "Endoscopic Oncology"
 category: concept
 tags: [endoscopic-oncology, advanced-endoscopy, gi-cancers, esd, eus, staging]
 created: 2026-05-15
-updated: 2026-07-16
+updated: 2026-08-11
 sources: [chang-2024-endoscopic-oncologist, asge-2023-esd]
 ---
 
@@ -16,14 +16,14 @@ Endoscopic oncologists perform procedures across the GI tract with oncologic int
 - **Staging**: EUS-guided fine-needle aspiration/biopsy ([[endoscopic-ultrasound]]) for locoregional staging of [[esophageal-cancer|esophageal]], [[gastric-adenocarcinoma|gastric]], [[pancreatic-cancer|pancreatic]], and [[colorectal-cancer|rectal cancers]]; EUS-guided celiac plexus neurolysis for pain palliation
 - **Curative resection of superficial neoplasia**: [[endoscopic-submucosal-dissection|Endoscopic submucosal dissection (ESD)]] and endoscopic mucosal resection ([[endoscopic-mucosal-resection|EMR]]) for T1a/T1b lesions in the esophagus, stomach, duodenum, and colon
 - **Biliary and pancreatic interventions**: [[ercp|ERCP]]-based stenting, [[cholangioscopy]] with biopsy, EUS-guided biliary drainage for malignant obstruction
-- **Luminal palliation**: Self-expanding metal stents for malignant esophageal, gastric outlet, and colonic obstruction
+- **Luminal palliation**: Self-expanding metal stents for malignant esophageal, gastric outlet, and colonic obstruction; [[enteral-access|enteral access]] for nutritional support
 - **Ablation**: [[radiofrequency-ablation|Radiofrequency ablation (RFA)]] for [[barretts-esophagus|Barrett's esophagus]] and early esophageal neoplasia; photodynamic therapy (historical)
 
 ## Relationship to Other Subspecialties
 
 Endoscopic oncology overlaps with but is distinct from:
 
-- **General GI**: Handles screening/surveillance [[colonoscopy]] and [[upper-endoscopy|EGD]]; refers complex lesions to endoscopic oncology
+- **General GI**: Handles screening/surveillance [[colonoscopy]] and [[upper-endoscopy|EGD]] (see [[colorectal-cancer-screening]], [[colonoscopy-surveillance]]); refers complex lesions to endoscopic oncology
 - **Surgical oncology**: Endoscopic oncology expands the pool of patients who can avoid surgery (organ preservation) when resection margins are achievable endoscopically
 - **Medical oncology**: Endoscopic oncologists provide staging data that drives systemic therapy decisions and may place feeding tubes/stents to enable chemotherapy tolerance
 
@@ -33,7 +33,7 @@ This subspecialty typically requires advanced endoscopy fellowship beyond standa
 
 ## See Also
 
-[[endoscopic-ultrasound]], [[polypectomy]], [[ercp]], [[barretts-esophagus]], [[colorectal-cancer]], [[gastric-adenocarcinoma]], [[endoscopic-submucosal-dissection]], [[esophageal-cancer]], [[pancreatic-cancer]], [[cholangioscopy]], [[radiofrequency-ablation]], [[endoscopic-eradication-therapy]]
+[[endoscopic-ultrasound]], [[polypectomy]], [[ercp]], [[barretts-esophagus]], [[colorectal-cancer]], [[gastric-adenocarcinoma]], [[endoscopic-submucosal-dissection]], [[endoscopic-mucosal-resection]], [[esophageal-cancer]], [[pancreatic-cancer]], [[cholangioscopy]], [[radiofrequency-ablation]], [[endoscopic-eradication-therapy]], [[enteral-access]], [[colonoscopy-surveillance]]
 
 ---
 

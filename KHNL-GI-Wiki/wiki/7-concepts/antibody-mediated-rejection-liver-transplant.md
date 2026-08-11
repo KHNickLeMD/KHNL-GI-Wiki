@@ -3,7 +3,7 @@ title: "Antibody-Mediated Rejection — Liver Transplant"
 category: concept
 tags: [antibody-mediated-rejection, amr, liver-transplant, rejection, dsa, c4d, immunosuppression]
 created: 2026-05-25
-updated: 2026-07-16
+updated: 2026-08-11
 sources: [aasld-ast-2025-liver-transplant-graft-complications]
 ---
 
@@ -32,7 +32,9 @@ AMR in liver transplantation requires a combination of findings (Banff 2022 crit
 
 ## Management
 
-Per [[aasld-ast-2025-liver-transplant-graft-complications]] (Recs 41+; full text in published article):
+Per [[aasld-ast-2025-liver-transplant-graft-complications]]:
+
+> ⚠ **Corpus gap — recommendations not yet ingested.** The AMR recommendations are **Recs 41–57** of the 2025 guideline. The PDF ingested into `raw/` covers **Recs 1–40 only**; the verbatim text of 41–57 lives in the published article (*Liver Transplantation* 2026;32:444–490, DOI 10.1097/LVT.0000000000000715). The management list below is drawn from the guideline's summary narrative, **not** from the graded recommendation text — grades and strengths are therefore not stated. Ingest the full article to close this.
 
 - Plasmapheresis or therapeutic plasma exchange — removes circulating DSA
 - Intravenous immunoglobulin (IVIG)

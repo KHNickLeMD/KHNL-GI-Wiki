@@ -3,7 +3,7 @@ title: "Gastric Intestinal Metaplasia"
 category: disease-script
 tags: [gastric-intestinal-metaplasia, gim, gastric-cancer, h-pylori, correa-cascade, premalignant, foregut, gastric]
 created: 2026-05-16
-updated: 2026-07-25
+updated: 2026-08-11
 sources: [aga-2020-gastric-intestinal-metaplasia, acg-2025-gastric-premalignant]
 ---
 
@@ -13,9 +13,9 @@ sources: [aga-2020-gastric-intestinal-metaplasia, acg-2025-gastric-premalignant]
 
 **Gastric intestinal metaplasia (GIM)** = replacement of normal gastric epithelium by intestinal-type epithelium (goblet cells, absorptive cells, Paneth cells) at any location in the stomach. GIM is a premalignant lesion in the [[gastric-premalignant-conditions|Correa cascade]]: [[helicobacter-pylori-infection|H. pylori]] gastritis → [[atrophic-gastritis|atrophic gastritis]] → GIM → dysplasia → [[gastric-adenocarcinoma|gastric adenocarcinoma]].
 
-**Diagnosis is histological:** goblet cell metaplasia on gastric biopsies. Optimal biopsy protocol = **Sydney protocol** (minimum 5 biopsies: 2 antrum, 2 body/corpus, 1 incisura angularis). ACG 2025 GPMC endorses an **updated Sydney containering scheme**: antrum + incisura in one container, corpus in a second, and any targeted biopsies of visible lesions in separate containers — this preserves anatomic (limited vs. extensive) mapping while cutting container count.
+**Diagnosis is histological:** goblet cell metaplasia on gastric biopsies, obtained by the updated **Sydney protocol** (see [[#Biopsy Protocol]] below).
 
-**High-quality endoscopy is prerequisite (ACG 2025, Strong/Low).** Five components of an adequate gastric exam: (i) high-definition white-light endoscopy (HDWLE); (ii) adequate insufflation (CO₂ preferred); (iii) mucosal cleansing; (iv) standardized photodocumentation; (v) adequate gastric inspection time. A rushed 2–3 minute upper endoscopy is below the standard of care for GPMC evaluation.
+**High-quality endoscopy is prerequisite (ACG 2025, Strong/Low)** — the five mandatory components of an adequate gastric exam are listed on [[gastric-premalignant-conditions#Endoscopic Evaluation (Required)|gastric premalignant conditions]]; a rushed 2–3 minute exam is below the standard of care.
 
 GIM affects approximately 5% of the US population. Prevalence is higher in high-risk groups (see below). Detection often incidental on [[upper-endoscopy|EGD]] performed for other indications.
 
@@ -23,10 +23,7 @@ GIM affects approximately 5% of the US population. Prevalence is higher in high-
 
 ### Severity Assessment
 
-**OLGA/OLGIM staging** (operative link for gastric atrophy/intestinal metaplasia): combines extent (antrum vs. corpus) and severity:
-
-- OLGA/OLGIM Stage I–II: low risk
-- OLGA/OLGIM Stage III–IV: high risk; increased gastric cancer risk; may trigger surveillance in some guidelines
+**OLGA/OLGIM staging** — stages 0–IV from the combination of severity (0–3) in antrum/incisura and corpus. **Full staging criteria, risk bands, and the AIG caveat live on [[atrophic-gastritis#Severity Assessment|atrophic gastritis]].** For GIM decisions: **0–I low, II intermediate, III–IV high risk** (surveillance q3y where OLGA/OLGIM is used).
 
 **GIM extent and type:**
 

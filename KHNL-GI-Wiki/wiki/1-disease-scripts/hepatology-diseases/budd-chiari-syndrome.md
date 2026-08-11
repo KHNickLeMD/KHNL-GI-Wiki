@@ -3,7 +3,7 @@ title: "Budd-Chiari Syndrome"
 category: disease-script
 tags: [budd-chiari, hepatic-vein, thrombosis, portal-hypertension, liver-failure, mpn, jak2, anticoagulation, tips]
 created: 2026-05-21
-updated: 2026-08-03
+updated: 2026-08-11
 sources: [acg-2020-hepatic-mesenteric-circulation, baveno-vii-2022-portal-hypertension]
 ---
 
@@ -49,7 +49,7 @@ Budd-Chiari syndrome (BCS) is defined by obstruction of hepatic venous outflow, 
 
 ### Severity Assessment
 
-**AUROC score** and Rotterdam BCS index are validated prognostic tools; Child-Pugh and MELD-Na apply when cirrhosis is present. *(Component point values of these indices are not specified in the ingested sources — a decision gap; the actionable TIPS/transplant threshold below is captured.)*
+**AUROC score** and Rotterdam BCS index are validated prognostic tools; **Child-Pugh** and **MELD-Na** apply when cirrhosis is present (their point table and formula live on [[cirrhosis]]). *(Component point values of the BCS-specific indices — AUROC and Rotterdam — are not specified in the ingested sources; a decision gap. The actionable TIPS/transplant threshold below is captured.)*
 
 **BCS-TIPS prognostic index score (Baveno VII 8.24–8.25)** [[baveno-vii-2022-portal-hypertension]] — predicts outcome when [[tips|TIPS]] is being considered. A **high score (>7)** should prompt consideration of **liver transplantation before TIPS placement**; transplant is also considered for uncontrolled clinical manifestations despite the stepwise approach.
 
@@ -60,6 +60,8 @@ Key predictors of poor outcome: [[hepatic-encephalopathy|hepatic encephalopathy]
 ---
 
 ## Differential Diagnosis
+
+*Workup: see [[ascites]] for the ascites/portal-hypertension arm and [[abnormal-liver-chemistries]] for the aetiologic liver-test evaluation.*
 
 - **Sinusoidal obstruction syndrome (SOS/VOD)** — occurs after hematopoietic SCT or exposure to pyrrolizidine alkaloids; histologically identical to BCS but no hepatic vein thrombosis on imaging; caudate preserved
 - **Right heart failure / constrictive pericarditis** — elevated JVP, prominent v-waves, hepatojugular reflux; IVC and hepatic vein not occluded; doppler shows pulsatile hepatic venous flow

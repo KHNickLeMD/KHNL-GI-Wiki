@@ -3,7 +3,7 @@ title: "Upper Endoscopy (EGD)"
 category: general-procedure
 tags: [egd, upper-endoscopy, esophagogastroduodenoscopy, ugib, barrett-esophagus, peptic-ulcer, gpmc, celiac, quality-indicators]
 created: 2026-05-07
-updated: 2026-07-25
+updated: 2026-08-11
 sources: [acg-2025-egd-quality, aga-2024-upper-endoscopy-quality, aga-2024-glp1-endoscopy]
 ---
 
@@ -152,14 +152,16 @@ More rigorous documentation is recommended for Barrett's esophagus, gastric inte
 
 ### Standardized Classification Systems (BPA 6)
 
-| Finding | Classification System |
-|---|---|
-| Erosive esophagitis | Los Angeles classification |
-| Barrett's esophagus | Prague C&M criteria |
-| Bleeding peptic ulcers | Forrest classification |
-| Superficial neoplastic lesions | Paris classification |
-| Gastroesophageal flap valve | Hill grade classification |
-| [[eosinophilic-esophagitis\|Eosinophilic esophagitis]] | EREFS; I-SEE (emerging standard for disease activity) |
+| Finding | Classification System | Criteria live on |
+|---|---|---|
+| Erosive esophagitis | Los Angeles (LA) classification | [[gerd]] |
+| [[barretts-esophagus\|Barrett's esophagus]] | Prague C&M criteria | [[barretts-esophagus]] |
+| Bleeding [[peptic-ulcer-disease\|peptic ulcers]] | Forrest classification | [[upper-gi-bleeding]] |
+| Superficial neoplastic lesions | Paris classification | [[polypectomy]] |
+| Gastroesophageal flap valve | Hill grade classification | — |
+| [[eosinophilic-esophagitis\|Eosinophilic esophagitis]] | EREFS; I-SEE (emerging standard for disease activity) | [[eosinophilic-esophagitis]] |
+
+*Report the class, not a free-text description — each system's criteria are held on its home page (linked) rather than duplicated here.*
 
 ### Biopsy Protocols — AGA 2024 (BPA 7)
 
@@ -226,7 +228,7 @@ More rigorous documentation is recommended for Barrett's esophagus, gastric inte
 
 ## See Also
 
-[[gastric-premalignant-conditions]], [[gastric-adenocarcinoma]], [[gastric-intestinal-metaplasia]], [[gastric-polyps]], [[eosinophilic-esophagitis]], [[helicobacter-pylori-infection]], [[peptic-ulcer-disease]], [[barretts-esophagus]], [[endoscopic-eradication-therapy]], [[celiac-disease]], [[upper-gi-bleeding]], [[gerd]], [[dysphagia]], [[endoscopy-sedation]]
+[[gastric-premalignant-conditions]], [[gastric-adenocarcinoma]], [[gastric-intestinal-metaplasia]], [[gastric-polyps]], [[eosinophilic-esophagitis]], [[helicobacter-pylori-infection]], [[peptic-ulcer-disease]], [[barretts-esophagus]], [[endoscopic-eradication-therapy]], [[endoscopic-mucosal-resection]], [[polypectomy]], [[colonoscopy]], [[celiac-disease]], [[upper-gi-bleeding]], [[gerd]], [[dysphagia]], [[proton-pump-inhibitors]], [[potassium-competitive-acid-blockers]], [[endoscopy-sedation]], [[antibiotic-prophylaxis-endoscopy]]
 
 ---
 

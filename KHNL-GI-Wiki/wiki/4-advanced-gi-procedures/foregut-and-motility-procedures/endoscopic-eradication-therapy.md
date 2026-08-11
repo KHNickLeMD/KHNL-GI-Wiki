@@ -3,7 +3,7 @@ title: "Endoscopic Eradication Therapy (EET)"
 category: advanced-procedure
 tags: [barretts-esophagus, eet, rfa, emr, esd, cryotherapy, dysplasia, esophageal-adenocarcinoma, foregut]
 created: 2026-06-04
-updated: 2026-07-16
+updated: 2026-08-11
 sources: [asge-2018-barretts-eet, aga-2024-barretts-eet, acg-2022-barretts, asge-2019-barretts-screening-surveillance, aga-2025-barretts-surveillance]
 ---
 
@@ -13,7 +13,7 @@ Endoscopic eradication therapy (EET) is the minimally invasive, organ-sparing tr
 
 ## Indications
 
-Per [[asge-2018-barretts-eet|ASGE 2018]] (GRADE) and concordant with [[aga-2024-barretts-eet|AGA 2024]] and [[acg-2022-barretts|ACG 2022]]:
+Per [[asge-2018-barretts-eet|ASGE 2018]] (GRADE) and concordant with [[aga-2024-barretts-eet|AGA 2024]] and [[acg-2022-barretts|ACG 2022]]. *The ACG 2022 EET decision algorithm (Figure) is reproduced on [[barretts-esophagus]] — see it there rather than duplicated here.*
 
 | Indication | Recommendation |
 |---|---|
@@ -93,7 +93,7 @@ High-volume centers with access to expert GI pathology, advanced imaging, EMR/ES
 
 ## See Also
 
-[[barretts-esophagus]], [[radiofrequency-ablation]], [[polypectomy]], [[endoscopic-submucosal-dissection]], [[endoscopic-ultrasound]], [[esophageal-adenocarcinoma]], [[upper-endoscopy]], [[endoscopic-oncology]]
+[[barretts-esophagus]], [[radiofrequency-ablation]], [[endoscopic-mucosal-resection]], [[endoscopic-submucosal-dissection]], [[polypectomy]], [[endoscopic-ultrasound]], [[esophageal-adenocarcinoma]], [[esophageal-cancer]], [[gerd]], [[upper-endoscopy]], [[endoscopic-oncology]]
 
 ---
 

@@ -3,7 +3,7 @@ title: "Biliary Stricture"
 category: diagnostic-schema
 tags: [biliary-stricture, ercp, eus, cholangioscopy, obstructive-jaundice, cholangiocarcinoma, hepatobiliary]
 created: 2026-05-15
-updated: 2026-07-16
+updated: 2026-08-11
 sources: [acg-2023-biliary-strictures, asge-2023-indeterminate-biliary-strictures, asge-2023-post-transplant-biliary-strictures]
 ---
 
@@ -76,7 +76,7 @@ The two principal management goals are: **(1) diagnosis** — confirm or exclude
 ### Step 1: Initial Clinical Assessment
 
 - History: painless [[jaundice]], weight loss, prior biliary surgery, known pancreatic disease, alcohol use (→ [[acute-pancreatitis]]/chronic pancreatitis)
-- Labs: LFTs (cholestatic pattern), bilirubin, CA 19-9, CEA, IgG4 level
+- Labs: [[abnormal-liver-chemistries|LFTs]] (cholestatic pattern), bilirubin, CA 19-9, CEA, IgG4 level
   - CA 19-9 and CEA are unreliable: sensitivity/specificity inadequate to confirm or exclude malignancy; CA 19-9 can be markedly elevated in jaundice alone
   - IgG4 elevation suggests IgG4-related disease but is not diagnostic alone
 - Cross-sectional imaging: CT with contrast or MRCP as the first step in most patients
@@ -272,7 +272,7 @@ The following features increase pre-test probability of malignancy and should pr
 
 ## See Also
 
-[[chronic-pancreatitis]], [[acute-pancreatitis]], [[pancreatic-cancer]], [[cholangiocarcinoma]], [[gallbladder-cancer]], [[jaundice]], [[ercp]], [[endoscopic-ultrasound]], [[cholangioscopy]], [[brush-cytology]], [[fish]], [[confocal-laser-endomicroscopy]], [[primary-sclerosing-cholangitis]], [[liver-transplantation]], [[mri-mrcp]], [[radiofrequency-ablation]], [[antibiotic-prophylaxis-endoscopy]], [[tacrolimus]]
+[[chronic-pancreatitis]], [[acute-pancreatitis]], [[pancreatic-cancer]], [[cholangiocarcinoma]], [[gallbladder-cancer]], [[hepatocellular-carcinoma]], [[colorectal-cancer]], [[choledocholithiasis]], [[acute-cholecystitis]], [[jaundice]], [[abnormal-liver-chemistries]], [[ercp]], [[endoscopic-ultrasound]], [[cholangioscopy]], [[brush-cytology]], [[fish]], [[confocal-laser-endomicroscopy]], [[primary-sclerosing-cholangitis]], [[portal-hypertension]], [[liver-transplantation]], [[mri-mrcp]], [[radiofrequency-ablation]], [[antibiotic-prophylaxis-endoscopy]], [[tacrolimus]]
 
 ---
 

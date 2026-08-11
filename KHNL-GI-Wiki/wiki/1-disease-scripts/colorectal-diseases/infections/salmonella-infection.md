@@ -3,7 +3,7 @@ title: "Salmonella Infection (Non-typhoidal)"
 category: disease-script
 tags: [salmonella, bacterial-gastroenteritis, diarrhea, foodborne, travelers-diarrhea, bacteremia]
 created: 2026-05-19
-updated: 2026-07-25
+updated: 2026-08-11
 sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
 ---
 
@@ -21,6 +21,17 @@ Non-typhoidal *Salmonella* species are a major cause of foodborne diarrheal illn
 
 - **Uncomplicated** — immunocompetent host, self-limited gastroenteritis.
 - **Severe / invasive** — high fever, bacteremia, sepsis, or immunocompromise; risk of endovascular seeding (aortitis, mycotic aneurysm) in older/atherosclerotic hosts.
+- Grade illness activity with the ACG mild / moderate / severe definitions — see [[acute-diarrhea]].
+
+**Host features that define "increased risk for invasive infection"** — this is the list that decides whether to give antibiotics at all (see Therapeutics) [[idsa-2017-infectious-diarrhea]] (Table 6):
+
+- Neonates / infants **up to 3 months** of age
+- Persons **>50 years** with **suspected atherosclerosis**
+- **Immunosuppression**
+- **Cardiac disease** — valvular or endovascular
+- **Significant joint disease**
+
+**Blood cultures** are indicated in infants <3 months, any age with sepsis signs or suspected enteric fever, systemic manifestations, immunocompromise, high-risk conditions such as hemolytic anemia, and febrile illness of unknown etiology in travelers to (or contacts of travelers from) enteric-fever–endemic areas *(strong, moderate)*. [[idsa-2017-infectious-diarrhea]] (Rec 9)
 
 ---
 
@@ -39,23 +50,52 @@ Non-typhoidal *Salmonella* species are a major cause of foodborne diarrheal illn
 
 - Stool culture or multiplex GI PCR; isolate submission required (notifiable).
 - **Enteric-fever workup:** blood + stool + urine ± bone-marrow culture; serology not recommended.
-- **Imaging in older/atherosclerotic hosts:** CT/MRI/ultrasound for aortitis or mycotic aneurysm when fever/bacteremia persists despite therapy (endovascular-seeding risk of invasive *Salmonella*). [[idsa-2017-infectious-diarrhea]]
+- **Imaging (ultrasound, CT, or MRI)** to look for aortitis, mycotic aneurysm, peritonitis, free air, [[toxic-megacolon|toxic megacolon]], or extravascular foci — in **older** people with invasive *Salmonella enterica*, when any of: **sustained fever or bacteremia despite adequate therapy**, **underlying atherosclerosis**, or **recent-onset chest / back / abdominal pain** *(weak, low)*. [[idsa-2017-infectious-diarrhea]] (Rec 25)
 
 ---
 
 ## Therapeutics
 
-- **Antibiotics not routine in immunocompetent adults** — do not reduce illness duration and may **prolong intestinal carriage** (meta-analysis evidence). [[acg-2016-acute-diarrhea]]
-- **Treat** severe illness, bacteremia, immunocompromised hosts, and those at risk for endovascular seeding; enteric fever/sepsis → empiric broad-spectrum therapy after cultures, narrowed on susceptibilities.
-- **[[rifaximin|Rifaximin]]: do NOT use** — non-absorbable; ineffective for this invasive pathogen.
-- **Asymptomatic carriers:** generally not treated in low-risk settings, *except* asymptomatic *S.* Typhi carriers (may treat to reduce transmission) and people in high-risk settings (healthcare, child/elderly care, food service) per local public-health guidance.
-- **Postinfectious:** reactive arthritis is a recognized complication.
+### Whom to treat
+
+**Antibiotics are usually NOT indicated for uncomplicated infection** in immunocompetent adults — they do not reduce illness duration and **prolong intestinal carriage / shedding** (meta-analysis evidence). [[acg-2016-acute-diarrhea]], [[idsa-2017-infectious-diarrhea]]
+
+| Situation | Treat? | Agent |
+|---|---|---|
+| Uncomplicated gastroenteritis, immunocompetent | **No** | — |
+| Any host at **increased risk for invasive infection** (list under *Severity Assessment*) | **Yes**, if susceptible | **Ceftriaxone**, **ciprofloxacin**, **TMP-SMX**, or **amoxicillin** |
+| **Invasive disease suspected or confirmed** | **Yes** | **Ceftriaxone preferred over ciprofloxacin** — increasing ciprofloxacin resistance |
+| **Enteric (typhoid/paratyphoid) fever** — *S.* Typhi / Paratyphi | **Yes** | First: **ceftriaxone or ciprofloxacin**; alternatives: **ampicillin, TMP-SMX, or azithromycin** |
+| Sepsis with suspected enteric fever | **Yes — empiric** | Broad-spectrum, started **after** blood + stool + urine cultures; **narrow** when susceptibilities return *(Rec 34)* |
+| Any pathogen-directed course | — | **Modify or stop** antimicrobials once a clinically plausible organism is identified *(Rec 38, strong/high)* |
+
+*Agent selection from [[idsa-2017-infectious-diarrhea]] Table 6; check current US susceptibility patterns (NARMS) when choosing.*
+
+- **[[rifaximin\|Rifaximin]]: do NOT use** — non-absorbable; ineffective for this invasive pathogen. [[acg-2016-acute-diarrhea]]
+- **[[loperamide\|Antimotility agents]]:** avoid at any age with fever or inflammatory diarrhea, and in children <18 years. [[idsa-2017-infectious-diarrhea]] (Rec 47)
+
+### Asymptomatic carriage
+
+- **Nontyphoidal:** adults commonly keep shedding sporadically **for weeks** after acute illness. Carriers who practise hand hygiene and live/work in **low-risk** settings need **no treatment**; the only randomized decolonization trial (Thailand) showed **no benefit over placebo**. Treatment **may be considered** where state/local law mandates negative stool cultures before returning to work. [[idsa-2017-infectious-diarrhea]] (Rec 51)
+- ***S.* Typhi:** asymptomatic shedding is common and can **persist beyond a year**; these carriers **may be treated empirically to reduce transmission** *(weak, low)*.
+- **High-risk occupations** (healthcare, child or elderly care, food service): treat per local public-health guidance *(strong, high)*.
+- **Follow-up cultures:** serial stool specimens may be required by local health authorities before return to child care, employment, or group activities *(Rec 26)*.
+
+### Prevention & public health
+
+- **Notifiable** — report and **submit the isolate** *(Rec 60, strong/high)*.
+- **Typhoid vaccination** (oral and injectable; not routine in the US) for travelers to moderate-to-high-risk areas, people with intimate exposure to a documented *S.* Typhi chronic carrier, and lab personnel routinely exposed to *S.* Typhi cultures; **boosters** while risk continues *(Rec 58, strong/high)*. [[idsa-2017-infectious-diarrhea]]
+- Cook and hold meats and eggs at proper temperatures; avoid cross-contamination *(Rec 54)*.
+
+### Postinfectious sequelae
+
+- **Reactive arthritis**, erythema nodosum, [[postinfectious-ibs|post-infectious IBS]], and intestinal perforation are recognized complications. [[idsa-2017-infectious-diarrhea]]
 
 ---
 
 ## See Also
 
-[[acute-diarrhea]], [[fever-returning-traveler]], [[campylobacter-infection]], [[shigellosis]], [[enterotoxigenic-e-coli]], [[clostridioides-difficile]], [[rifaximin]]
+[[acute-diarrhea]], [[fever-returning-traveler]], [[campylobacter-infection]], [[shigellosis]], [[enterotoxigenic-e-coli]], [[clostridioides-difficile]], [[inflammatory-bowel-disease]], [[toxic-megacolon]], [[rifaximin]], [[loperamide]], [[postinfectious-ibs]]
 
 ---
 

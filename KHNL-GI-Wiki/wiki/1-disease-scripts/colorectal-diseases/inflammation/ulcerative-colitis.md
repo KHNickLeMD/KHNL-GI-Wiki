@@ -34,25 +34,49 @@ Idiopathic chronic inflammatory disorder of the large intestine. Continuous muco
 - **Ileoscopy distinguishes UC backwash ileitis from CD ileitis** ([[asge-2015-ibd]]): backwash = short, contiguous, mild ileal inflammation continuous with cecal disease, no stricture (up to 25% of UC pancolitis); CD ileitis = patchy/extensive inflammation, discrete ulcers, or stricture. A **cecal/periappendiceal patch** with otherwise normal right colon is *not* CD and does not change UC outcomes.
 - **A colon stricture in UC is malignant until proven otherwise** — favor surgery if it cannot be fully examined and biopsied.
 
-**Montreal Classification (extent):**
+**Montreal Classification (extent)** — record extent at the index [[colonoscopy]]; extent broadly affects prognosis but should **not** limit therapeutic options:
 
-- E1 Proctitis: ≤18cm from anal verge (distal to rectosigmoid junction)
-- E2 Left-sided: sigmoid to splenic flexure
-- E3 Extensive: beyond splenic flexure (includes pancolitis)
+- **E1 Proctitis:** inflammation confined to the rectum — usually defined as **≤15 cm** of inflammation
+- **E2 Left-sided:** more than proctitis, but extent stops **at or distal to the splenic flexure**
+- **E3 Extensive:** extension **proximal to the splenic flexure**; *pancolitis* = entire rectum and colon including the cecum
+- ⚠ *Changed in ACG 2025:* ACG 2019 defined E1 as within **18 cm of the anal verge** (distal to the rectosigmoid junction) — the 2025 update states **≤15 cm** ([[acg-2019-uc]] → [[acg-2025-uc]]).
 
 ### Severity Assessment
 
-**ACG UC Activity Index:**
+**ACG UC Activity Index** ([[acg-2025-uc]] Table 4):
 
 | Parameter | Remission | Mild | Moderate-Severe | Fulminant |
 |---|---|---|---|---|
 | Stools/day | Formed | <4 | >6 | >10 |
 | Blood | None | Intermittent | Frequent | Continuous |
-| Urgency | None | Mild | Often | Continuous |
+| Urgency | None | Mild, occasional | Often | Continuous |
+| Hemoglobin | Normal | Normal | <75% of normal | Transfusion required |
+| ESR (mm/hr) | <30 | <30 | >30 | >30 |
 | CRP | Normal | Elevated | Elevated | Elevated |
 | FC (μg/g) | <150–200 | >150–200 | >150–200 | >150–200 |
 | MES | 0–1 | 1 | 2–3 | 3 |
 | UCEIS | 0–1 | 2–4 | 5–8 | 7–8 |
+
+- **Except for remission, a patient does not need to meet every parameter** to be assigned a category. Any patient with **more than mildly active disease is treated per the moderate-severe recommendations.**
+
+**Truelove & Witts (1955) — the classic severity criteria** (simple, useful for deciding on hospitalization; gives no quantitative/longitudinal measure):
+
+- **Mild:** **<4 bowel movements/day** + normal temperature, heart rate, **hemoglobin >11 g/dL**, and **ESR <20 mm/hr**
+- **Severe:** **>6 bowel movements/day** *plus* fever, tachycardia, anemia, or elevated ESR
+- The operational ASUC definition (with its numeric cutoffs) is in [[#Acute Severe UC (ASUC) — Hospitalized Patient]].
+
+**Mayo score — clinical activity index** (4 parameters, each **0–3**; total **0–12**):
+
+| Parameter | 0 | 1 | 2 | 3 |
+|---|---|---|---|---|
+| Stool frequency | Normal no. of stools | 1–2 more than normal | 3–4 more than normal | ≥5 more than normal |
+| Rectal bleeding | No blood seen | Streaks of blood with stool <½ the time | Obvious blood with stool most of the time | Blood alone passed without stool |
+| Findings on endoscopy | Normal/inactive | Mild | Moderate | Severe |
+| Physician's global assessment | Normal | Mild | Moderate | Severe |
+
+- Endoscopy subscore = the **[[ibd-endoscopic-scoring\|MES]]** (full descriptors there).
+- **Modified Mayo score** drops the subjective physician's global assessment — now the standard clinical-trial endpoint. Trial **clinical remission** = MES 0–1 + stool-frequency subscore ≤1 + no rectal bleeding.
+- Of the many clinical indices, **partial Mayo and SCCAI** showed the best validity and responsiveness; all correlate broadly with endoscopic activity.
 
 **Endoscopic scoring:**
 

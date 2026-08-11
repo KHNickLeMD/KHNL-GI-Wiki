@@ -3,13 +3,32 @@ title: "Celiac Disease"
 category: disease-script
 tags: [celiac-disease, gluten, malabsorption, small-bowel, ttg, marsh, foregut]
 created: 2026-05-15
-updated: 2026-07-16
+updated: 2026-08-11
 sources: [acg-2022-celiac]
 ---
 
-# Celiac Disease
-
 A permanent immune-mediated enteropathy triggered by gluten (proteins in wheat, barley, and rye) in genetically susceptible individuals (HLA-DQ2/DQ8). Affects ~1% of the US population. Characterized by small bowel villous injury, crypt hyperplasia, and intraepithelial lymphocytosis, with a wide spectrum of GI and extra-intestinal manifestations.
+
+## Contents
+- [[#Assessment]]
+  - [[#Establishing the Diagnosis]]
+  - [[#Severity Assessment (Marsh Classification)]]
+  - [[#Classification / Typing]]
+- [[#Differential Diagnosis]]
+- [[#Diagnostics]]
+  - [[#Serologic Testing Algorithm]]
+  - [[#Duodenal Biopsy]]
+  - [[#HLA Typing (HLA-DQ2 / DQ8)]]
+  - [[#Monitoring Labs at Diagnosis]]
+- [[#Therapeutics]]
+  - [[#Gluten-Free Diet (GFD)]]
+  - [[#Monitoring After Diagnosis]]
+  - [[#Preventive Care]]
+  - [[#Nonresponsive CD (NRCD) Workup]]
+  - [[#Refractory CD (RCD)]]
+  - [[#Complications]]
+- [[#See Also]]
+- [[#Sources]]
 
 ---
 
@@ -17,31 +36,38 @@ A permanent immune-mediated enteropathy triggered by gluten (proteins in wheat, 
 
 ### Establishing the Diagnosis
 
-**Who to test (case finding — not mass screening):**
+**Who to test — case finding, not mass screening** (both strong recommendations, ACG 2022). Four key concepts:
 
-Classical GI indications:
+1. Test anyone with symptoms/signs/labs suggesting **malabsorption** (chronic diarrhea with weight loss, steatorrhea, abdominal pain, bloating).
+2. **Consider** testing when CD would be a *treatable* cause of the finding.
+3. **Test** a patient with a first-degree family member with confirmed CD — symptomatic or not.
+4. **Consider** testing asymptomatic first-degree relatives. Screening advice extends to **second-degree relatives** as well.
 
-- Chronic diarrhea ± weight loss, steatorrhea, symptomatic malabsorption
-- Unexplained [[iron-deficiency-anemia|iron deficiency anemia]]
-- Postprandial bloating and gas
+| CD occurs more frequently than in the general population (GFD likely beneficial) | CD is a less common but reversible, treatable cause |
+|---|---|
+| Diarrhea with weight loss | Male or female infertility |
+| Chronic diarrhea ± abdominal pain | [[dyspepsia\|Dyspepsia]] |
+| Chronic [[iron-deficiency-anemia\|iron deficiency]] and unexplained anemia | Amenorrhea |
+| Metabolic bone disease and premature osteoporosis | Chronic fatigue |
+| Postprandial bloating and gaseousness | Apparent malabsorption of thyroid replacement medication |
+| Unexplained weight loss | Epilepsy or ataxia |
+| Abnormal elevated liver enzymes | Constipation |
+| Incidental villous atrophy found endoscopically or histologically | Recurrent abdominal pain |
+| Dermatitis herpetiformis | Chronic arthralgia |
+| Peripheral neuropathy | "Brain fog" |
+| Oral aphthous ulcers | Recurrent headache or migraine |
+| Growth failure | Thyroid disease |
+| Discolored teeth / developmentally synchronous enamel loss | [[irritable-bowel-syndrome\|Irritable bowel syndrome]] |
+| | Down and Turner syndromes |
+| | Unexplained recurrent [[acute-pancreatitis\|pancreatitis]] |
 
-Non-classical / extra-intestinal indications:
+*Table — conditions prompting CD testing, recreated from Table 4. ([[acg-2022-celiac]])*
 
-- Unexplained elevated transaminases (gluten-dependent hypertransaminasemia)
-- Metabolic bone disease / early osteoporosis
-- Dermatitis herpetiformis
-- Peripheral neuropathy, ataxia, epilepsy
-- Oral aphthous ulcers
-- Amenorrhea, infertility (male or female)
-- "Brain fog," chronic fatigue
-- Growth failure (children)
+Quantified risks in at-risk groups:
 
-At-risk groups:
-
-- First-degree relatives of confirmed CD patients (test even if asymptomatic; risk ~10–20% in siblings)
-- Type 1 diabetes mellitus (CD prevalence 3–10%; screen if any suggestive symptoms; obtain duodenal biopsies opportunistically at [[upper-endoscopy|upper endoscopy]])
-- Down syndrome, Turner syndrome
-- [[irritable-bowel-syndrome|Irritable bowel syndrome]]-type presentation (rule out CD)
+- **Family members** — up to **20% in siblings** and **10% in other first-degree relatives** in community-based studies; a large US multicenter study found rates as low as **5%** in both first- and second-degree relatives.
+- **Type 1 diabetes mellitus** — CD prevalence **3–10%**. Test if any suggestive symptoms/signs; in children, **yearly or every-other-year serologic screening** has been suggested. Patients with T1DM undergoing [[upper-endoscopy|upper endoscopy]] should have duodenal biopsies if CD testing has not already been done.
+- **Dyspepsia** — biopsy-proven CD prevalence is **1%**, the same as the general population, so systematic screening of dyspeptic patients is **not** recommended.
 
 **Serology (must be on a gluten-containing diet):**
 
@@ -64,21 +90,22 @@ Biopsy protocol (ACG 2022 — strong recommendation):
 - 1–2 biopsies from the **duodenal bulb** (9-o'clock or 12-o'clock position)
 - ≥4 biopsies from the **postbulbar (distal) duodenum**
 - Total: ≥6 specimens in separate labeled jars
-- Rationale: Histological abnormalities are patchy. ≥4 specimens increase new CD diagnosis yield from 0.7% to 1.8% (P<0.0001). Bulb biopsies catch 9–13% of cases with atrophy limited to the bulb.
+- Rationale: Histological abnormalities are patchy. ≥4 specimens increase new CD diagnosis yield from 0.7% to 1.8% (P<0.0001) — yet ≥4 were obtained in only 39% of biopsied patients. Bulb biopsies catch 9–13% of cases with atrophy limited to the bulb; **targeted 9- or 12-o'clock bulb biopsy plus distal duodenal biopsies has 96% sensitivity** for CD.
+- Interpret bulb biopsies cautiously — normal surface architecture overlying Brunner glands and acute peptic duodenitis both mimic injury.
 - See [[upper-endoscopy]] for biopsy technique
 
-**Nonbiopsy diagnosis in children (conditional — ESPGHAN 2020 / ACG 2022):**
+**Nonbiopsy diagnosis in children (conditional recommendation, moderate evidence — ESPGHAN 2020 / ACG 2022):**
 
-- TTG-IgA >10× upper limit of normal (confirmed with positive EMA in a second blood sample)
-- Family must agree with no-biopsy strategy
+- **TTG-IgA >10× upper limit of normal** *and* **positive EMA in a second blood sample** — both required
+- Family must agree with the no-biopsy strategy
 - HLA testing no longer required as a prerequisite
-- Not standard in the US; biopsy remains preferred where feasible
+- Not standard in the US; biopsy remains preferred where feasible. Limits: TTG assays are not standardized, and misdiagnosis is a real risk if the ESPGHAN criteria are not followed strictly.
 
 **Nonbiopsy "likely CD" in adults:**
 
-- Reserved for symptomatic adults unable or unwilling to undergo endoscopy
-- Requires TTG-IgA ≥10× ULN + confirmatory EMA in second sample
-- Regarded as "likely CD" rather than definitive diagnosis; biopsy is preferred whenever possible
+- Reserved for **symptomatic** adults unwilling or unable to undergo upper endoscopy (e.g. endoscopy/biopsy poses cardiovascular or bleeding risk), or already on a GFD with a severe symptomatic response to gluten that makes a challenge inadvisable
+- Requires **TTG-IgA >10× ULN**; a confirmatory EMA in a second sample is also advisable in adults
+- **Why biopsy still wins:** a ≥10-fold TTG-IgA elevation has a positive predictive value of only **95%** in adults — given a lifelong GFD, that may be unacceptably low. This is an "after-the-fact" diagnosis of *likely* CD, not a definitive one.
 
 ### Severity Assessment (Marsh Classification)
 

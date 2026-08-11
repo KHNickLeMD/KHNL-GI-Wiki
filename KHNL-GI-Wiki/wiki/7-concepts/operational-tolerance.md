@@ -3,13 +3,13 @@ title: "Operational Tolerance (Transplant)"
 category: concept
 tags: [operational-tolerance, immunosuppression, liver-transplant, is-withdrawal, tolerance]
 created: 2026-05-19
-updated: 2026-07-16
+updated: 2026-08-11
 sources: [aasld-2012-liver-transplant-long-term, aasld-ast-2025-liver-transplant-graft-complications]
 ---
 
 ## Definition
 
-Operational tolerance is the survival and functioning of the transplanted allograft in the absence of all immunosuppression, usually for more than one year, either spontaneously (due to non-adherence or on medical advice) or following a deliberate immunosuppression withdrawal protocol. The liver is more immune-tolerant than other solid organ allografts because it clears blood-borne pathogens and processes gut-derived food-borne antigens.
+Operational tolerance is the survival and functioning of the transplanted allograft in the absence of all immunosuppression — usually [[calcineurin-inhibitors|calcineurin inhibitor]]-based — usually for more than one year, either spontaneously (due to non-adherence or on medical advice) or following a deliberate immunosuppression withdrawal protocol. The liver is more immune-tolerant than other solid organ allografts because it clears blood-borne pathogens and processes gut-derived food-borne antigens.
 
 ## Prevalence and Predictors
 
@@ -32,7 +32,7 @@ Per [[aasld-2012-liver-transplant-long-term]] (Rec 9): withdrawal may be underta
 - History of rejection
 - Autoimmune liver disease ([[autoimmune-hepatitis|AIH]], [[primary-biliary-cholangitis|PBC]], [[primary-sclerosing-cholangitis|PSC]])
 - Inflammation, fibrosis, or piecemeal necrosis on histology before attempt
-- Elevated donor-specific antibodies (DSA)
+- Elevated donor-specific antibodies (DSA) — see [[antibody-mediated-rejection-liver-transplant|antibody-mediated rejection]]
 
 ## Practical Approach
 

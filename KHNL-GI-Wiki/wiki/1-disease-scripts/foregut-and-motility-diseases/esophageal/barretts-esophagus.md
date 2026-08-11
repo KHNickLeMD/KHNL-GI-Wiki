@@ -3,7 +3,7 @@ title: "Barrett's Esophagus"
 category: disease-script
 tags: [barretts-esophagus, esophageal, dysplasia, eet, rfa, surveillance, foregut]
 created: 2026-05-15
-updated: 2026-08-04
+updated: 2026-08-11
 sources: [acg-2022-barretts, aga-2025-barretts-surveillance, aga-2024-barretts-eet, asge-2018-barretts-eet, asge-2019-barretts-screening-surveillance]
 ---
 
@@ -91,6 +91,8 @@ The key severity variable is **dysplasia grade**, which determines both cancer r
 ---
 
 ## Differential Diagnosis
+
+*Workup: see [[dyspepsia]].*
 
 - **[[gerd]] without BE** — reflux symptoms without IM; Z-line irregularity <1 cm; no goblet cells on biopsy
 - **Cardiac-type (junctional) columnar metaplasia without IM** — columnar-lined esophagus without goblet cells; debated cancer risk; ACG does not classify as BE; no surveillance recommended
@@ -200,7 +202,7 @@ The key severity variable is **dysplasia grade**, which determines both cancer r
 
 **No repeat screening** after a negative index endoscopy.
 
-**Special case:** If esophagitis (LA grade B or worse) is found at index endoscopy, repeat EGD after 8–12 weeks of PPI healing to exclude masked BE.
+**Special case:** If erosive esophagitis ([[reflux-testing|LA grade]] B or worse — grade criteria on that page) is found at index endoscopy, repeat EGD after 8–12 weeks of PPI healing to exclude masked BE.
 
 ### Medical Therapy / Chemoprevention
 
@@ -355,7 +357,7 @@ CEIM defined as: 1–2 surveillance endoscopies with no visible BE and no IM on 
 
 ## See Also
 
-[[gerd]], [[eosinophilic-esophagitis]], [[achalasia]], [[esophageal-adenocarcinoma]], [[endoscopic-eradication-therapy]], [[radiofrequency-ablation]], [[polypectomy]], [[upper-endoscopy]], [[endoscopic-ultrasound]], [[antireflux-surgery]], [[endoscopic-submucosal-dissection]], [[proton-pump-inhibitors]]
+[[gerd]], [[eosinophilic-esophagitis]], [[achalasia]], [[esophageal-adenocarcinoma]], [[esophageal-cancer]], [[endoscopic-eradication-therapy]], [[radiofrequency-ablation]], [[endoscopic-mucosal-resection]], [[endoscopic-submucosal-dissection]], [[polypectomy]], [[upper-endoscopy]], [[endoscopic-ultrasound]], [[antireflux-surgery]], [[proton-pump-inhibitors]], [[reflux-testing]], [[dyspepsia]], [[confocal-laser-endomicroscopy]], [[infectious-esophagitis]]
 
 ---
 

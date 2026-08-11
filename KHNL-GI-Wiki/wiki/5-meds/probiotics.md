@@ -3,8 +3,8 @@ title: "Probiotics"
 category: med
 tags: [probiotics, microbiome, dysbiosis, cdiff, ibd, pouchitis, ibs, nec, infectious-diarrhea]
 created: 2026-06-04
-updated: 2026-07-16
-sources: [aga-2020-probiotics]
+updated: 2026-08-11
+sources: [aga-2020-probiotics, acg-2020-sibo]
 ---
 
 Probiotics are live microorganisms that, when administered in adequate amounts, confer a health benefit on the host (FAO/WHO definition). Their effects are **strain-specific and dose-specific** — different strains, and combinations of strains, have widely different biologic activities, so results from one formulation cannot be generalized to "probiotics" as a class. Because probiotics are sold as supplements (not drugs) in the US and Europe, the industry is largely unregulated, marketing is direct-to-consumer, and product viability/manufacturing details are frequently unavailable. These features make pooled meta-analyses across heterogeneous strains/populations potentially misleading.
@@ -31,6 +31,14 @@ The AGA recommends probiotic use **only in the context of a clinical trial** (no
 - **[[ulcerative-colitis|Ulcerative colitis]]** (induction and maintenance) — *E coli* Nissle 1917 was roughly equivalent to mesalamine for maintenance but pooled data did not show benefit
 - **[[irritable-bowel-syndrome|Irritable bowel syndrome]]** — 76 RCTs of 44 strains, mostly single-study data, very low certainty, publication-bias concern
 
+## SIBO — Not Recommended, and a Possible Cause
+
+Not covered by the AGA guideline; per [[acg-2020-sibo]]:
+
+- **No basis to recommend probiotics** (or [[fmt|FMT]]) for [[small-intestinal-bacterial-overgrowth|SIBO]].
+- Meta-analysis: probiotics appeared to reduce hydrogen production (OR 1.61, 95% CI 1.19–2.17), but the trials were mostly small and of poor quality, and stool frequency was unaffected.
+- **Probiotics may themselves cause SIBO and D-lactic acidosis**, producing gas and bloating; in a controlled study, withdrawal of the probiotic plus a course of antibiotics resolved symptoms.
+
 ## Named Strain Formulations
 
 - ***S boulardii*** — most-studied single agent for [[acute-diarrhea|infectious diarrhea]] and C difficile prevention.
@@ -46,10 +54,11 @@ The AGA recommends probiotic use **only in the context of a clinical trial** (no
 
 ## See Also
 
-[[clostridioides-difficile]], [[crohns-disease]], [[ulcerative-colitis]], [[irritable-bowel-syndrome]], [[pouchitis]], [[acute-diarrhea]], [[inflammatory-bowel-disease]]
+[[clostridioides-difficile]], [[crohns-disease]], [[ulcerative-colitis]], [[irritable-bowel-syndrome]], [[pouchitis]], [[acute-diarrhea]], [[inflammatory-bowel-disease]], [[small-intestinal-bacterial-overgrowth]], [[fmt]]
 
 ---
 
 ## Sources
 
 1. [[aga-2020-probiotics|AGA Clinical Practice Guidelines on the Role of Probiotics in the Management of Gastrointestinal Disorders]]
+2. [[acg-2020-sibo|ACG 2020: Small Intestinal Bacterial Overgrowth]]

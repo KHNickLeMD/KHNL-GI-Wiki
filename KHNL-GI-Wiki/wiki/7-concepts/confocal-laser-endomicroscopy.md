@@ -1,22 +1,49 @@
 ---
 title: "Confocal Laser Endomicroscopy"
 category: concept
-tags: [confocal-laser-endomicroscopy, cle, pcle, biliary-stricture, cholangiocarcinoma]
+tags: [confocal-laser-endomicroscopy, cle, pcle, biliary-stricture, cholangiocarcinoma, optical-biopsy]
 created: 2026-06-04
-updated: 2026-07-16
-sources: [asge-2023-indeterminate-biliary-strictures]
+updated: 2026-08-11
+sources: [acg-2023-biliary-strictures, asge-2023-indeterminate-biliary-strictures]
 ---
 
-**Confocal laser endomicroscopy (CLE)**, in the biliary tree performed as probe-based CLE (pCLE) passed through the working channel during [[ercp|ERCP]] or [[cholangioscopy]], provides real-time microscopic imaging of the duct wall to distinguish benign from malignant [[biliary-stricture|biliary strictures]].
+**Confocal laser endomicroscopy (CLE)** provides real-time microscopic imaging of the duct wall — an "optical biopsy." In the biliary tree it is performed as **probe-based CLE (pCLE)**, with the probe passed through the working channel and introduced into the bile duct during [[ercp|ERCP]] (or via [[cholangioscopy]]), to distinguish inflammatory from malignant [[biliary-stricture|biliary strictures]].
 
-Per [[asge-2023-indeterminate-biliary-strictures]], the **Miami classification** (malignant: thick dark collagen bands, thickened white bands within vessels) and the refined **Paris classification** (benign inflammatory features) guide interpretation. Pooled sensitivity ~90% (95% CI, 86-94) and specificity ~72% (95% CI, 65-79), with a high negative predictive value for malignancy (~94%). No formal recommendation was made; difficulty mastering the technique and cost limit near-term widespread adoption.
+## Interpretation — the two validated classifications
+
+Two validated systems underpin pCLE reading ([[acg-2023-biliary-strictures]], [[asge-2023-indeterminate-biliary-strictures]]):
+
+| System | What it captures |
+|---|---|
+| **Miami** classification (consensus) | Malignant features — thick dark collagen bands, thickened white bands within vessels |
+| **Paris** classification (refined) | Benign **inflammatory** features, added to reduce the false-positive rate of Miami criteria |
+
+## Test Performance
+
+| Metric | Value | Source |
+|---|---|---|
+| Pooled sensitivity | 90% (95% CI, 86–94) | [[asge-2023-indeterminate-biliary-strictures\|ASGE 2023]] |
+| Pooled specificity | 72% (95% CI, 65–79) | [[asge-2023-indeterminate-biliary-strictures\|ASGE 2023]] |
+| Negative predictive value for malignancy | ~94% | [[asge-2023-indeterminate-biliary-strictures\|ASGE 2023]] |
+| Cholangiographic impression + pCLE + histopathology, combined | sensitivity and accuracy ~90% | [[acg-2023-biliary-strictures\|ACG 2023]] |
+
+- The high NPV is the most useful property — pCLE's best application may be **ruling malignancy out**, not ruling it in (specificity is the weak axis).
+
+## Limitations — why neither guideline recommends it
+
+- **Neither society makes a formal recommendation on CLE.** ASGE 2023 reviewed it under "other considerations" only.
+- Performance characteristics of pCLE interpretation **do not meet the threshold needed to drive oncological decision making** at the large majority of institutions — the same limitation as visual interpretation at [[cholangioscopy]] ([[acg-2023-biliary-strictures]]).
+- Difficult to master and expensive; remains an **adjunct at select referral centers**, and widespread adoption is expected to stay limited near-term.
+- It does not obviate tissue: multimodality sampling ([[brush-cytology]], fluoroscopy-directed biopsy, [[fish|FISH]]) still governs the diagnosis — see [[biliary-stricture]].
+- ACG notes that with added molecular markers and [[artificial-intelligence-endoscopy|artificial intelligence]], pCLE-based optical biopsy *may* eventually obviate histopathology (as imaging alone does for [[hepatocellular-carcinoma|HCC]]), but that is aspirational, not current practice.
 
 ## See Also
 
-[[cholangioscopy]], [[ercp]], [[biliary-stricture]], [[cholangiocarcinoma]], [[brush-cytology]], [[fish]]
+[[cholangioscopy]], [[ercp]], [[biliary-stricture]], [[cholangiocarcinoma]], [[brush-cytology]], [[fish]], [[primary-sclerosing-cholangitis]], [[artificial-intelligence-endoscopy]]
 
 ---
 
 ## Sources
 
-1. [[asge-2023-indeterminate-biliary-strictures|ASGE Guideline on the Role of Endoscopy in the Diagnosis of Malignancy in Biliary Strictures of Undetermined Etiology (2023)]]
+1. [[acg-2023-biliary-strictures|ACG 2023: Diagnosis and Management of Biliary Strictures]]
+2. [[asge-2023-indeterminate-biliary-strictures|ASGE Guideline on the Role of Endoscopy in the Diagnosis of Malignancy in Biliary Strictures of Undetermined Etiology (2023)]]

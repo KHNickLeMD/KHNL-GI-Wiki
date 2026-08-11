@@ -3,7 +3,7 @@ title: "Eosinophilic Esophagitis"
 category: disease-script
 tags: [eoe, esophageal, dysphagia, food-impaction, eosinophil, atopic, biologic, dupilumab]
 created: 2026-05-07
-updated: 2026-07-28
+updated: 2026-08-11
 sources: [acg-2025-eoe, aga-2020-eoe, acg-2013-eoe, aga-2024-esophageal-immunity-infection]
 ---
 
@@ -45,7 +45,10 @@ Chronic, immune/antigen-mediated esophageal disease. Characterized by esophageal
 - **E**xudates (white plaques/exudates)
 - **F**urrows (vertical lines)
 - **S**tricture (focal esophageal narrowing)
+- Each of the 5 features is graded **by severity in the worst-appearing area** of the esophagus; the grading scheme yields a total score of **0–9**. Score EREFS in every suspected and established EoE case ([[acg-2025-eoe]])
 - Normal endoscopy does NOT exclude EoE
+
+*Gap: the per-feature point ranges (how many points each of E/R/E/F/S can score) appear only in Figure 2 of [[acg-2025-eoe]], which is not yet captured as an asset — the numeric score cannot be computed from this page alone.*
 
 ### Severity Assessment
 
@@ -60,7 +63,7 @@ Chronic, immune/antigen-mediated esophageal disease. Characterized by esophageal
 
 **Persistent symptoms despite histologic + endoscopic remission** → evaluate for a subtle **stricture** (esophagram) or an esophageal **motility disorder**; some patients with EoE develop dysmotility, and EoE carries an increased risk of [[achalasia]]. Consider further motility evaluation. ([[aga-2024-esophageal-immunity-infection|AGA 2024]])
 
-### Classification
+### Classification / Typing
 
 - **Inflammatory:** edema, furrows, exudates predominate; responsive to medical therapy
 - **Fibrostenotic:** rings, strictures, narrow caliber esophagus; requires dilation
@@ -183,7 +186,7 @@ Chronic, immune/antigen-mediated esophageal disease. Characterized by esophageal
 
 - FDA-approved: ≥12y (2022), 1–11y (≥15kg, 2024)
 - 60% histologic remission (≤6 eos/hpf) vs 5% placebo (phase 3 RCT)
-- Improves symptoms, EREFS, esophageal distensibility (EndoFLIP)
+- Improves symptoms, EREFS, esophageal distensibility ([[flip-panometry|EndoFLIP]])
 - No TB/HIV/hepatitis screening required
 - Check response at 12–24 weeks
 - Cost/access: main barrier; prior auth typically required
@@ -256,7 +259,7 @@ Chronic, immune/antigen-mediated esophageal disease. Characterized by esophageal
 
 ## See Also
 
-[[dysphagia]], [[gerd]], [[achalasia]], [[infectious-esophagitis]], [[lymphocytic-esophagitis]], [[esophageal-dysfunction-systemic-disease]], [[celiac-disease]], [[barretts-esophagus]], [[inflammatory-bowel-disease]], [[crohns-disease]], [[upper-endoscopy]], [[colonoscopy]], [[proton-pump-inhibitors]]
+[[dysphagia]], [[gerd]], [[achalasia]], [[infectious-esophagitis]], [[lymphocytic-esophagitis]], [[esophageal-dysfunction-systemic-disease]], [[celiac-disease]], [[barretts-esophagus]], [[inflammatory-bowel-disease]], [[crohns-disease]], [[upper-endoscopy]], [[colonoscopy]], [[proton-pump-inhibitors]], [[flip-panometry]]
 
 ---
 

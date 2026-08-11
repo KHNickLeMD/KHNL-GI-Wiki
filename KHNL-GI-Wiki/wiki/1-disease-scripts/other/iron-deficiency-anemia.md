@@ -3,7 +3,7 @@ title: "Iron-Deficiency Anemia"
 category: disease-script
 tags: [iron-deficiency-anemia, ida, iron, ferritin, oral-iron, intravenous-iron, gi-bleeding, ibd, gave, celiac, angioectasia, bariatric]
 created: 2026-07-24
-updated: 2026-07-30
+updated: 2026-08-11
 sources: [aga-2020-ida, aga-2024-ida-management]
 ---
 
@@ -77,7 +77,7 @@ Per AGA 2020 [[aga-2020-ida]]:
 ### Oral Iron
 
 - **No formulation is superior; ferrous sulfate preferred** (least expensive). Ferrous salts (sulfate, fumarate, gluconate) are reasonable first choices. [[aga-2024-ida-management]]
-- **Dose once daily at most.** Every-other-day dosing may be better tolerated with equal absorption — an oral dose raises **hepcidin**, blocking further absorption for up to 48 h, so more-frequent dosing adds side effects without more iron.
+- **Dose once daily at most.** Every-other-day dosing may be better tolerated with equal absorption — an oral dose raises **[[iron-overload-and-iron-metabolism|hepcidin]]**, blocking further absorption for up to 48 h, so more-frequent dosing adds side effects without more iron.
 - **Add vitamin C** (~500 mg) to aid absorption; **avoid tea/coffee within 1 h**; taking iron with meat protein helps.
 - **Side effects** (meta-analysis): constipation 12%, nausea 11%, diarrhea 8%.
 - **Response target (adherent, anemic):** Hgb ↑ ~**1 g/dL within 2 weeks**, ferritin ↑ within a month. If not met → switch to IV iron.

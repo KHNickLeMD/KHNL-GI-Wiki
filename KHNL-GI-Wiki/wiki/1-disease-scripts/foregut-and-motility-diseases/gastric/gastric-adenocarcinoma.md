@@ -11,11 +11,24 @@ sources: [nccn-2026-gastric-cancer, asge-2015-gastric-premalignant, asge-2023-es
 
 ### Establishing the Diagnosis
 
-Gastric adenocarcinoma often presents late with weight loss, early satiety, epigastric pain, anemia, or obstruction; alarm features warrant prompt [[upper-endoscopy|endoscopy]] with biopsy. Major risk factors include [[helicobacter-pylori-infection|H. pylori]] infection, the precursor cascade of [[atrophic-gastritis|atrophic gastritis]] → [[gastric-intestinal-metaplasia|intestinal metaplasia]] → dysplasia ([[gastric-premalignant-conditions|gastric premalignant conditions]]), smoking, high-salt diet, and hereditary syndromes including [[hereditary-diffuse-gastric-cancer|hereditary diffuse gastric cancer (CDH1)]]. Diagnosis is histologic via endoscopic biopsy. [[nccn-2026-gastric-cancer]]
+- **Presentation:** often late — weight loss, early satiety, epigastric pain, anemia, obstruction. Alarm features warrant prompt [[upper-endoscopy|endoscopy]] with biopsy; diagnosis is histologic. [[nccn-2026-gastric-cancer]]
+- **Risk factors:** [[helicobacter-pylori-infection|H. pylori]] infection; the precursor cascade of [[atrophic-gastritis|atrophic gastritis]] → [[gastric-intestinal-metaplasia|intestinal metaplasia]] → dysplasia ([[gastric-premalignant-conditions|gastric premalignant conditions]]); smoking; high-salt diet; hereditary syndromes including [[hereditary-diffuse-gastric-cancer|hereditary diffuse gastric cancer (CDH1)]]
+- Who to screen and how to survey precursor lesions: see [[gastric-cancer-screening]]
 
 ### Classification / Typing
 
-Histologic (Lauren) types — **intestinal** (gland-forming, associated with the H. pylori/atrophic-gastritis cascade) and **diffuse** (poorly cohesive/signet-ring, including linitis plastica; associated with CDH1 and a worse prognosis). Diffuse-type biology is relevant to systemic-therapy selection (e.g., diffuse-type EGJ adenocarcinoma did not benefit from added durvalumab in MATTERHORN).
+**Histologic (Lauren) types:**
+
+- **Intestinal** — gland-forming; associated with the H. pylori/atrophic-gastritis cascade
+- **Diffuse** — poorly cohesive/signet-ring, including linitis plastica; associated with CDH1 and a worse prognosis. Diffuse-type biology is relevant to systemic-therapy selection (e.g., diffuse-type EGJ adenocarcinoma did not benefit from added durvalumab in MATTERHORN)
+
+**Siewert classification — assess in *all* adenocarcinomas involving the EGJ, because it decides which guideline governs treatment** [[nccn-2026-gastric-cancer]]:
+
+| Siewert type | Tumor epicenter relative to the EGJ | Treated as |
+|---|---|---|
+| **I** | 1–5 cm **above** the EGJ (lower esophagus; often associated with [[barretts-esophagus\|Barrett esophagus]]) | [[esophageal-cancer\|Esophageal/EGJ cancer]] guidelines |
+| **II** | Within **1 cm above to 2 cm below** the EGJ (true carcinoma of the cardia) | Esophageal/EGJ cancer guidelines |
+| **III** | **2–5 cm below** the EGJ (subcardial), infiltrating the EGJ and lower esophagus | **Gastric** cancer guidelines |
 
 ### Staging
 

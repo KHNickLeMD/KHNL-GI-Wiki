@@ -3,7 +3,7 @@ title: "Portal Vein Thrombosis and Mesenteric Vein Thrombosis"
 category: disease-script
 tags: [portal-vein-thrombosis, pvt, mvt, mesenteric-vein, anticoagulation, cirrhosis, thrombophilia, splenomegaly, mpn, liver-transplant]
 created: 2026-05-21
-updated: 2026-08-10
+updated: 2026-08-11
 sources: [acg-2020-hepatic-mesenteric-circulation, aasld-ast-2025-liver-transplant-candidate-evaluation, aasld-2021-vascular-pvt, aga-2025-pvt-cirrhosis, baveno-vii-2022-portal-hypertension]
 ---
 
@@ -99,7 +99,7 @@ Portal vein thrombosis (PVT) is the partial or complete occlusion of the portal 
 
 > HCC tumor thrombus must be distinguished from bland PVT: tumor thrombus is arterially enhancing, expands the lumen, and often associates with a hepatic mass.
 
-**Liver synthetic function (if cirrhosis present):** Child-Pugh score, MELD-Na; guides anticoagulation safety assessment.
+**Liver synthetic function (if cirrhosis present):** Child-Pugh score, MELD-Na (point table and formula on [[cirrhosis]]); guides anticoagulation safety assessment.
 
 ---
 

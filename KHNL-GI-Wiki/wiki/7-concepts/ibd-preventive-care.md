@@ -3,7 +3,7 @@ title: "IBD Preventive Care"
 category: concept
 tags: [ibd, crohns-disease, ulcerative-colitis, preventive-care, vaccinations, cancer-screening, osteoporosis, depression, anxiety, immune-modifying-therapy]
 created: 2026-05-15
-updated: 2026-07-16
+updated: 2026-08-11
 sources: [acg-2025-ibd-preventive-care, acg-2017-ibd-preventive-care, aga-2025-noncolorectal-cancer-ibd]
 ---
 
@@ -26,9 +26,8 @@ Patients with [[inflammatory-bowel-disease|IBD]] ([[crohns-disease]] and [[ulcer
 | Annual influenza (inactivated, non-live) | All IBD | HD influenza preferred on anti-TNF monotherapy; patients on IMT and household contacts should receive inactivated, not live inhaled |
 | PCV20 or PCV21 | IBD ≥50 (no prior vax); IBD 19–49 on IMT (no prior vax) | Previously vaccinated: follow CDC guidance |
 | Recombinant HZ vaccine (Shingrix), 2-dose | All IBD ≥50; ALL IBD on or planning IMT ≥19 | Recombinant (inactivated) — safe on IMT; do NOT use live HZ vaccine (Zostavax) |
-| RSV vaccine | IBD ≥75; IBD 50–74 with chronic conditions or high-risk features | Per ACIP |
+| RSV vaccine | **ACG/ACIP:** IBD ≥75; IBD 50–74 with chronic conditions or high-risk features | ⚠ **Guidelines differ** — AGA 2025 instead advises all IBD **≥60** (no product preference). Page follows ACG/ACIP as the ACIP-aligned age cut; use AGA's ≥60 if screening more broadly |
 | Hepatitis B (3-dose) | All IBD not immune | Evaluate all adults for latent HBV; if previously fully vaccinated but anti-HBs <10 mIU/mL → see challenge-dose algorithm below |
-| RSV vaccine | AGA 2025: all IBD ≥60 (no product preference) | *Differs from ACG/ACIP listing of ≥75 and 50–74 high-risk above* |
 | Varicella (2-dose) | Non-immune IBD before starting IMT | Serologic testing not recommended in previously vaccinated (high false-negative rate); history of varicella + MMR series = presumptive immunity |
 | HPV | All adults 18–26; ages 27–45 if likely to have a new sexual partner (AGA 2025) | |
 | Tdap, HAV, meningococcus | Per ACIP recommendations | |

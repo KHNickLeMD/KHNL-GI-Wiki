@@ -3,7 +3,7 @@ title: "Gastroenteropancreatic Neuroendocrine Tumors (GEP-NETs)"
 category: disease-script
 tags: [neuroendocrine-tumor, net, gep-net, pannet, carcinoid, gastrinoma, insulinoma, glucagonoma, vipoma, zollinger-ellison, men1, prrt]
 created: 2026-06-18
-updated: 2026-07-23
+updated: 2026-08-11
 sources: [nccn-2026-net]
 ---
 
@@ -44,6 +44,8 @@ Prognosis is driven by **grade, differentiation, primary site, and stage (tumor 
 - **Type 3** — normal gastrin, sporadic, larger and more aggressive; typically surgical.
 
 ## Differential Diagnosis
+
+*Workup of a luminal NET presenting as a mucosal mound: see [[subepithelial-lesion]].*
 
 By presentation: [[pancreatic-cancer|pancreatic adenocarcinoma]] and other solid pancreatic masses, [[pancreatic-cysts|cystic pancreatic neoplasms]], [[colorectal-cancer]] and other GI [[gastric-premalignant-conditions|epithelial malignancies]], lymphoma, [[gastrointestinal-stromal-tumor|GI stromal tumor]] and [[subepithelial-lesion|other subepithelial lesions]], metastatic disease, and — for functioning tumors — non-neoplastic causes of the relevant hormonal syndrome (e.g., PPI-induced hypergastrinemia mimicking gastrinoma; reactive hypoglycemia mimicking insulinoma). Multifocal duodenopancreatic NETs, gastrinoma, or coexisting primary hyperparathyroidism should prompt evaluation for **MEN1**.
 

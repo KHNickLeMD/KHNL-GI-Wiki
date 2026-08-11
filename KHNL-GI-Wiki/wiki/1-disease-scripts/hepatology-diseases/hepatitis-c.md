@@ -3,7 +3,7 @@ title: "Hepatitis C"
 category: disease-script
 tags: [hepatitis-c, HCV, direct-acting-antivirals, DAA, cirrhosis, HCC, SVR, glecaprevir, pibrentasvir, sofosbuvir, velpatasvir, fibrosis, liver, antiviral, screening]
 created: 2026-05-28
-updated: 2026-07-17
+updated: 2026-08-11
 sources: [aasld-idsa-2023-hcv, aasld-idsa-2011-hcv-genotype1]
 ---
 
@@ -37,7 +37,7 @@ Fibrosis staging before treatment to guide duration, regimen selection, and post
 | FIB-4 | <1.30 = low fibrosis; >3.25 = advanced fibrosis/cirrhosis | Age/AST/ALT/platelet; calculated online |
 | VCTE (FibroScan) | ≥12.5 kPa = compensated cirrhosis | Aetiology-specific cutoffs; less reliable with [[obesity]]/elevated ALT |
 | [[liver-biopsy\|Liver biopsy]] | Metavir F0–F4 | Rarely needed; use for diagnostic uncertainty |
-| Child-Pugh score | A/B/C | Decompensated = CTP ≥7 (score B or C); key regimen selection criterion |
+| Child-Pugh score | A/B/C | Decompensated = CTP ≥7 (class B or C); key regimen-selection criterion. Point table on [[cirrhosis]] |
 
 **Cirrhosis determination for treatment selection:**
 

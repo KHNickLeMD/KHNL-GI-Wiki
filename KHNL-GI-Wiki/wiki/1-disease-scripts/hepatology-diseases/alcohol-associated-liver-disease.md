@@ -3,7 +3,7 @@ title: "Alcohol-Associated Liver Disease"
 category: disease-script
 tags: [ald, alcoholic-hepatitis, cirrhosis, liver, hpb, aud, corticosteroids, liver-transplant, lille-score, meld, mdf, nac, pentoxifylline, transplant-candidate-evaluation, post-transplant, recurrence, naltrexone, acamprosate, baclofen, peth, stopah]
 created: 2026-05-07
-updated: 2026-08-03
+updated: 2026-08-11
 sources: [acg-2024-ald, acg-2017-liver-chemistries, aasld-ast-2025-liver-transplant-candidate-evaluation, aasld-ast-2025-liver-transplant-graft-complications, aasld-2020-ald, acg-2019-hereditary-hemochromatosis]
 ---
 
@@ -66,7 +66,7 @@ sources: [acg-2024-ald, acg-2017-liver-chemistries, aasld-ast-2025-liver-transpl
 - MDF <32 = mild-moderate AH (supportive care only)
 - *Note: MDF has decades of experience in AH and is the key inclusion criterion in most AH clinical trials. GAHS ≥9 can further refine which MDF ≥32 patients benefit from steroids (validated in UK only).*
 
-**MELD score** [[aasld-2020-ald]]:
+**MELD score** [[aasld-2020-ald]] *(MELD/MELD-Na formula and Child-Turcotte-Pugh point table live on [[cirrhosis]])*:
 
 - **MELD ≥20 should prompt consideration of steroid treatment** (formal MELD threshold not established in trials — most trials use MDF ≥32 as entry criterion)
 - Continuous scale: MELD ≥21 predicts poor short-term survival; trajectory (rising vs. declining MELD) is also prognostically important
@@ -76,6 +76,7 @@ sources: [acg-2024-ald, acg-2017-liver-chemistries, aasld-ast-2025-liver-transpl
 
 - **ABIC score** (age, bilirubin, INR, creatinine): three-tiered stratification; low risk <6.71; uncertain threshold for initiating steroids
 - **GAHS** (Glasgow AH Score): ≥9 with MDF ≥32 initiates corticosteroids; improves specificity; not validated outside UK
+- ⚠ **Decision gap — the point/weighting formulas for ABIC and GAHS are not in any ingested source.** [[aasld-2020-ald]] names the variables and the cutoffs but does not reproduce the coefficients, so neither score can be *computed* from this page. Use an external calculator, or ingest the original ABIC and GAHS derivation papers — do not reconstruct the formulas from memory.
 
 **Lille score** (calculate at day 7 of prednisolone) [[aasld-2020-ald]]:
 

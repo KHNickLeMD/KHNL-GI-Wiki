@@ -3,7 +3,7 @@ title: "Esophageal Cancer"
 category: disease-script
 tags: [esophagus, malignancy, adenocarcinoma, squamous-cell-carcinoma, egj, dysphagia, her2, pd-l1, msi-h, flot, chemoradiation, esophagectomy, endoscopic-resection, nccn, oncology]
 created: 2026-06-04
-updated: 2026-08-08
+updated: 2026-08-11
 sources: [nccn-2026-esophageal-egj-cancer]
 ---
 
@@ -13,6 +13,31 @@ sources: [nccn-2026-esophageal-egj-cancer]
 
 Esophageal and esophagogastric junction (EGJ) cancers present most often with progressive solid-food dysphagia, weight loss, odynophagia, and [[iron-deficiency-anemia|iron-deficiency anemia]] — a classic alarm-feature presentation that mandates prompt [[upper-endoscopy|endoscopy]] with biopsy. Diagnosis is histologic; staging follows with endoscopic ultrasound ([[endoscopic-ultrasound|EUS]]) for T and N assessment, CT of chest/abdomen, and PET/CT to detect distant disease.
 
+### Severity Assessment (AJCC 8th ed. TNM staging)
+
+Depth of invasion separates endoscopically curable disease (Tis/T1a mucosal) from disease requiring surgery or chemoradiation (T1b and deeper). Stage groups are **histology-specific** (separate tables for SCC and adenocarcinoma) and differ for clinical (cTNM), pathologic (pTNM), and post-neoadjuvant (ypTNM) staging; **grade (G)** and — for SCC — **tumor location** enter the pathologic stage groups ([[nccn-2026-esophageal-egj-cancer]], AJCC 8th ed. 2017).
+
+| T — primary tumor | Definition |
+|---|---|
+| Tis | High-grade dysplasia — malignant cells confined to the epithelium by the basement membrane |
+| T1 | Invades lamina propria, muscularis mucosae, or submucosa |
+| T1a | Invades lamina propria or muscularis mucosae |
+| T1b | Invades submucosa |
+| T2 | Invades muscularis propria |
+| T3 | Invades adventitia |
+| T4a | Invades pleura, pericardium, azygos vein, diaphragm, or peritoneum |
+| T4b | Invades other adjacent structures — aorta, vertebral body, or airway |
+
+| N / M / G | Definition |
+|---|---|
+| N0 / N1 / N2 / N3 | No regional nodes / **1–2** nodes / **3–6** nodes / **≥7** nodes |
+| M0 / M1 | No distant metastasis / distant metastasis |
+| G1 / G2 / G3 | Well / moderately / poorly differentiated or undifferentiated |
+
+**SCC location** (by epicenter of the tumor): **Upper** = cervical esophagus to lower border of the azygos vein; **Middle** = lower border of azygos vein to lower border of the inferior pulmonary vein; **Lower** = lower border of inferior pulmonary vein to the stomach, including the EGJ.
+
+For advanced/metastatic disease, biomarker testing — **HER2 (ERBB2), PD-L1 CPS, and MSI-H/dMMR** — is integral to therapy selection.
+
 ### Classification / Typing
 
 Two dominant histologies drive distinct pathways ([[nccn-2026-esophageal-egj-cancer]]):
@@ -21,10 +46,6 @@ Two dominant histologies drive distinct pathways ([[nccn-2026-esophageal-egj-can
 - **Squamous cell carcinoma (SCC)** — more often mid/upper esophagus; risk factors smoking, alcohol, [[achalasia]], caustic injury, tylosis. SCC is more radiosensitive and more frequently managed with definitive chemoradiation.
 
 EGJ tumors (Siewert classification) straddle the esophageal and [[gastric-adenocarcinoma|gastric]] pathways and share systemic-therapy biomarkers.
-
-### Staging
-
-TNM staging is histology-specific. Depth of invasion separates endoscopically curable disease (Tis/T1a mucosal) from disease requiring surgery or chemoradiation (T1b and deeper). For advanced/metastatic disease, biomarker testing — **HER2 (ERBB2), PD-L1 CPS, and MSI-H/dMMR** — is integral to therapy selection.
 
 ## Differential Diagnosis
 

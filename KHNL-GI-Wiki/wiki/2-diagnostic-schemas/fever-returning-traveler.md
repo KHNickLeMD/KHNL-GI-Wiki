@@ -3,7 +3,7 @@ title: "Fever in a Returning Traveler"
 category: diagnostic-schema
 tags: [travel-medicine, fever, tropical-infections, travelers-diarrhea, enteric-fever, viral-hepatitis, parasites]
 created: 2026-05-15
-updated: 2026-07-16
+updated: 2026-08-11
 sources: [nejm-2023-fever-returning-traveler]
 ---
 
@@ -83,12 +83,12 @@ This page focuses on GI-relevant diagnoses. Non-GI febrile illnesses (e.g., mala
 - **Jaundice + coagulopathy**: Severe hepatitis, leptospirosis (Weil's), yellow fever — ICU-level care
 - **Bloody diarrhea + fever**: Invasive bacterial diarrhea (Shigella, EHEC, Entamoeba) or severe amoebiasis
 - **Right upper quadrant pain + fever + no diarrhea**: Amoebic liver abscess — diagnosis often missed; do not wait for diarrhea
-- **Pregnancy**: Hepatitis E has 25% mortality in third trimester; malaria causes premature labor/fetal loss — both require urgent management
+- **[[liver-disease-in-pregnancy|Pregnancy]]**: Hepatitis E has 25% mortality in third trimester; malaria causes premature labor/fetal loss — both require urgent management
 - **Eosinophilia >1,000/µL in returning traveler**: Parasitic infection (schistosomiasis, strongyloides, toxocara) until proven otherwise
 
 ## See Also
 
-[[acute-diarrhea]], [[entamoeba-histolytica-infection]], [[giardiasis]], [[enterotoxigenic-e-coli]], [[campylobacter-infection]], [[salmonella-infection]], [[shigellosis]], [[norovirus]], [[rotavirus]], [[clostridioides-difficile]], [[chronic-hepatitis-b]], [[acute-liver-failure]], [[jaundice]], [[abnormal-liver-chemistries]]
+[[acute-diarrhea]], [[chronic-diarrhea]], [[entamoeba-histolytica-infection]], [[giardiasis]], [[enterotoxigenic-e-coli]], [[campylobacter-infection]], [[salmonella-infection]], [[shigellosis]], [[norovirus]], [[rotavirus]], [[clostridioides-difficile]], [[chronic-hepatitis-b]], [[acute-liver-failure]], [[liver-disease-in-pregnancy]], [[hiv-aids-related-diarrhea]], [[jaundice]], [[abnormal-liver-chemistries]]
 
 ---
 

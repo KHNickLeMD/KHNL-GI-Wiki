@@ -3,7 +3,7 @@ title: "Colonoscopy Surveillance Intervals"
 category: concept
 tags: [colonoscopy, surveillance, adenoma, serrated-polyp, crc-screening, polypectomy]
 created: 2026-06-01
-updated: 2026-07-16
+updated: 2026-08-11
 sources: [usmstf-2020-followup-colonoscopy]
 ---
 
@@ -37,6 +37,7 @@ All intervals **assume a high-quality exam**: complete to cecum, adequate prep d
 | Tubulovillous / villous histology | 3 y |
 | High-grade dysplasia | 3 y |
 | >10 adenomas on one exam | 1 y + consider genetic testing |
+| **Piecemeal resection of adenoma ≥20 mm** | **6 mo** (verify complete eradication of the resection site) |
 
 ## Serrated Polyp Surveillance
 
@@ -51,6 +52,9 @@ All intervals **assume a high-quality exam**: complete to cecum, adequate prep d
 | SSP with dysplasia | 3 y |
 | Hyperplastic polyp ≥10 mm | 3-5 y |
 | Traditional serrated adenoma (TSA) | 3 y |
+| **Piecemeal resection of SSP ≥20 mm** | **6 mo** (verify complete eradication of the resection site) |
+
+Piecemeal removal of a ≥20 mm lesion is the one finding that overrides the size/histology grid above — the 6-month exam is to confirm the [[endoscopic-mucosal-resection|EMR]] site is clear, not to re-stratify risk.
 
 ## Serial (Second) Surveillance
 
@@ -76,7 +80,7 @@ Based on findings at baseline **and** first surveillance:
 
 ## See Also
 
-[[colonoscopy]], [[colorectal-cancer]], [[colorectal-cancer-screening]], [[polypectomy]], [[gastric-polyps]], [[serrated-polyposis-syndrome]], [[lynch-syndrome]], [[familial-adenomatous-polyposis]]
+[[colonoscopy]], [[colorectal-cancer]], [[colorectal-cancer-screening]], [[polypectomy]], [[endoscopic-mucosal-resection]], [[gastric-polyps]], [[serrated-polyposis-syndrome]], [[lynch-syndrome]], [[familial-adenomatous-polyposis]]
 
 ---
 

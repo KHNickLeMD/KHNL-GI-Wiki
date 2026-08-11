@@ -3,12 +3,8 @@ title: "Test-and-Treat Strategy (H. pylori)"
 category: concept
 tags: [h-pylori, dyspepsia, test-and-treat, non-invasive-testing, urea-breath-test]
 created: 2026-05-07
-updated: 2026-07-16
-sources: [acg-2017-hp-guidelines]
----
-
-# Test-and-Treat Strategy for *H. pylori*
-
+updated: 2026-08-11
+sources: [acg-2017-hp-guidelines, acg-cag-2017-dyspepsia]
 ---
 
 ## Definition
@@ -26,13 +22,15 @@ A management strategy for **uninvestigated [[dyspepsia]]** in which patients are
 
 ---
 
-## Patient Selection (per [[acg-2017-hp-guidelines]])
+## Patient Selection
 
-**Appropriate:**
+**Appropriate — all three must hold:**
 
-- Age <55 years
+- **Age <60 years** ([[acg-cag-2017-dyspepsia]], Statement 3 — Strong recommendation, high quality evidence)
 - No alarm features (see below)
-- H. pylori prevalence in region >10%
+- *H. pylori* prevalence in region **>10%**
+
+> ⚠ **Two guidelines, two age cutoffs.** [[acg-2017-hp-guidelines]] states **<55** (Strong/Moderate); the same-year, dyspepsia-specific [[acg-cag-2017-dyspepsia]] **raised the threshold to <60** and is what this page asserts. Use <60. See [[dyspepsia]].
 
 **Alarm features that prompt endoscopy instead:**
 
@@ -63,7 +61,7 @@ A management strategy for **uninvestigated [[dyspepsia]]** in which patients are
 
 ## Outcome
 
-- If positive → eradicate, then confirm eradication (UBT or SAT ≥4 weeks post-treatment)
+- If positive → eradicate (see [[bismuth-quadruple-therapy]], [[vonoprazan]]), then confirm eradication (UBT or SAT ≥4 weeks post-treatment)
 - If negative (or eradicated and still symptomatic) → consider empiric PPI trial, then endoscopy if no response
 
 ---
@@ -77,3 +75,4 @@ A management strategy for **uninvestigated [[dyspepsia]]** in which patients are
 ## Sources
 
 1. [[acg-2017-hp-guidelines|ACG Clinical Guideline: Treatment of Helicobacter pylori Infection (2017)]]
+2. [[acg-cag-2017-dyspepsia|ACG/CAG 2017: Management of Dyspepsia]]

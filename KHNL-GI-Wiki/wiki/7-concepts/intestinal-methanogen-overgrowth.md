@@ -3,11 +3,9 @@ title: "Intestinal Methanogen Overgrowth (IMO)"
 category: concept
 tags: [imo, sibo, methane, breath-testing, constipation, methanobrevibacter-smithii, archaea]
 created: 2026-05-19
-updated: 2026-07-16
+updated: 2026-08-11
 sources: [acg-2020-sibo]
 ---
-
-# Intestinal Methanogen Overgrowth (IMO)
 
 IMO is a term proposed by the ACG 2020 SIBO guideline ([[acg-2020-sibo]]) to describe the presence of excessive methane-producing organisms (archaea, not bacteria) in the intestinal tract, distinguished from classical hydrogen-predominant [[small-intestinal-bacterial-overgrowth]].
 
@@ -26,8 +24,17 @@ IMO is a term proposed by the ACG 2020 SIBO guideline ([[acg-2020-sibo]]) to des
 
 **Treatment:**
 
-- Combination of [[rifaximin]] (400 mg t.i.d.) + neomycin (500 mg b.i.d.) is most effective (87% methane reduction)
-- Neomycin alone: 33%; rifaximin alone: 28%
+Retrospective chart review of 74 patients with IMO on lactulose breath testing; all arms treated for **10 days**. Endpoint = reduction of methane to undetectable levels (**<3 ppm**) on repeat breath test:
+
+| Regimen | Dose | Duration | Methane normalized (<3 ppm) |
+|---|---|---|---|
+| [[rifaximin]] + neomycin (combination) | 400 mg t.i.d. + 500 mg b.i.d. | 10 days | **87%** |
+| Neomycin alone | 500 mg b.i.d. | 10 days | 33% |
+| [[rifaximin]] alone | 400 mg t.i.d. | 10 days | 28% |
+
+- Note the IMO rifaximin dose (**400 mg t.i.d.**) differs from the SIBO dose (550 mg t.i.d.) — see [[small-intestinal-bacterial-overgrowth]].
+- In a separate placebo-controlled trial of 84 [[irritable-bowel-syndrome|IBS]] patients with IMO, neomycin 500 mg b.i.d. × 10 days reduced methane below 3 ppm in 20% vs 1% with placebo.
+- **Caveat on the thresholds:** both neomycin studies defined positivity as methane **≥3 ppm**, *not* the **≥10 ppm** now recommended by the North American Consensus and used for diagnosis above. Efficacy figures are therefore not directly transferable to patients diagnosed by the current cutoff.
 - Targeting methanogens may reduce methane production and improve constipation (Key Concept 10)
 
 ## See Also

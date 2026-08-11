@@ -3,7 +3,7 @@ title: "Acute Pancreatitis"
 category: disease-script
 tags: [pancreatitis, acute-pancreatitis, hpb, gallstone-pancreatitis, necrotizing-pancreatitis, ercp, bisap, fluid-resuscitation, nutrition]
 created: 2026-05-07
-updated: 2026-08-10
+updated: 2026-08-11
 sources: [acg-2024-acute-pancreatitis, asge-2016-pancreatic-fluid-collections, asge-2015-benign-pancreatic-disease, demadaria-2022-waterfall, aga-2024-pregnancy-gi-liver, aga-2022-recurrent-pancreatitis-endoscopy, asge-2023-post-ercp-pancreatitis]
 ---
 
@@ -71,6 +71,8 @@ BISAP ≥3 = high risk for severe AP and mortality
 ---
 
 ## Differential Diagnosis
+
+*Workup of recurrent or unexplained episodes: see [[recurrent-acute-pancreatitis]].*
 
 - **[[peptic-ulcer-disease|Peptic ulcer disease]] / perforation** — perforated DU; free air on upright CXR or CT; peritoneal signs
 - **[[acute-cholecystitis|Acute cholecystitis]]** — RUQ pain, Murphy's sign, fever; US shows gallbladder wall thickening; mildly elevated lipase possible

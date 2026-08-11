@@ -3,7 +3,7 @@ title: "Chronic Pancreatitis"
 category: disease-script
 tags: [pancreatitis, chronic, pancreas, hpb, exocrine-insufficiency, pain]
 created: 2026-05-16
-updated: 2026-08-04
+updated: 2026-08-11
 sources: [acg-2020-chronic-pancreatitis, acg-2020-sibo, asge-2024-chronic-pancreatitis-endoscopy, apa-2014-chronic-pancreatitis, aga-2022-recurrent-pancreatitis-endoscopy]
 ---
 
@@ -81,11 +81,13 @@ Key categories:
 
 ## Differential Diagnosis
 
+*Workup of the recurrent acute episodes that precede CP: see [[recurrent-acute-pancreatitis]].*
+
 - [[acute-pancreatitis]] — acute flares; RAP is precursor in 30% (overall ~60% of CP evolves from AP/RAP)
 - **[[pancreatic-cancer|Pancreatic adenocarcinoma]]** — new stricture/mass; consider in any new-onset CP, especially older, new diabetes + weight loss
 - **Autoimmune pancreatitis (AIP)** — type 1 (IgG4-related; sausage pancreas, IgG4↑, steroid-responsive) vs. type 2 (IBD-associated, granulocytic epithelial lesions, younger)
 - [[biliary-stricture]] — CP = most common benign cause of extrahepatic [[biliary-stricture|biliary stricture]]
-- **Pancreas divisum / ampullary stenosis** — consider in idiopathic CP
+- **[[pancreas-divisum|Pancreas divisum]] / ampullary stenosis** — consider in idiopathic CP
 - **IPMN / [[pancreatic-cysts|pancreatic cysts]]** — duct dilation can mimic CP
 - Long-standing diabetes with secondary pancreatic changes
 - Renal disease causing secondary pancreatic effects

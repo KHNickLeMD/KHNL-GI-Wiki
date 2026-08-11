@@ -3,7 +3,7 @@ title: "Radiofrequency Ablation (RFA)"
 category: advanced-procedure
 tags: [barretts-esophagus, rfa, ablation, eet, dysplasia, radiation-proctopathy, biliary, foregut]
 created: 2026-06-04
-updated: 2026-07-16
+updated: 2026-08-11
 sources: [asge-2018-barretts-eet, acg-2022-barretts, aga-2024-barretts-eet, asge-2019-radiation-proctopathy, acg-2023-biliary-strictures, aasld-2023-hcc]
 ---
 
@@ -88,7 +88,7 @@ Pooled EET safety (RFA ± EMR; 37 studies, 9,200 patients — [[asge-2018-barret
 
 ## See Also
 
-[[endoscopic-eradication-therapy]], [[barretts-esophagus]], [[polypectomy]], [[endoscopic-submucosal-dissection]], [[esophageal-adenocarcinoma]], [[radiation-proctopathy]], [[cholangiocarcinoma]], [[biliary-stricture]], [[ercp]], [[hepatocellular-carcinoma]], [[upper-endoscopy]], [[anticoagulation-gi-bleeding]]
+[[endoscopic-eradication-therapy]], [[barretts-esophagus]], [[endoscopic-mucosal-resection]], [[endoscopic-submucosal-dissection]], [[polypectomy]], [[argon-plasma-coagulation]], [[esophageal-adenocarcinoma]], [[radiation-proctopathy]], [[cholangiocarcinoma]], [[biliary-stricture]], [[ercp]], [[hepatocellular-carcinoma]], [[upper-endoscopy]], [[anticoagulation-gi-bleeding]]
 
 ---
 

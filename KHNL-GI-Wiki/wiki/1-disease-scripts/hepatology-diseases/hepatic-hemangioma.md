@@ -3,7 +3,7 @@ title: "Hepatic Hemangioma"
 category: disease-script
 tags: [hemangioma, liver, hpb, focal-liver-lesion, benign-liver, mri, cavernous-hemangioma]
 created: 2026-05-07
-updated: 2026-07-17
+updated: 2026-08-11
 sources: [acg-2024-focal-liver-lesions]
 ---
 
@@ -118,7 +118,7 @@ sources: [acg-2024-focal-liver-lesions]
 
 ## See Also
 
-[[focal-liver-lesions]], [[focal-nodular-hyperplasia]], [[hepatocellular-adenoma]], [[hepatic-cysts]], [[hepatocellular-carcinoma]], [[cholangiocarcinoma]], [[li-rads]]
+[[focal-liver-lesions]], [[focal-nodular-hyperplasia]], [[hepatocellular-adenoma]], [[hepatic-cysts]], [[hepatocellular-carcinoma]], [[cholangiocarcinoma]], [[li-rads]], [[liver-biopsy]], [[radiofrequency-ablation]], [[liver-transplantation]], [[cirrhosis]]
 
 ---
 

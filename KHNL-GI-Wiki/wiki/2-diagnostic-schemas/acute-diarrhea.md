@@ -3,7 +3,7 @@ title: "Acute Diarrhea"
 category: diagnostic-schema
 tags: [diarrhea, infectious-diarrhea, travelers-diarrhea, gastroenteritis, acute, dysentery, loperamide, antibiotic, prevention]
 created: 2026-05-19
-updated: 2026-07-16
+updated: 2026-08-11
 sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
 ---
 
@@ -308,7 +308,7 @@ The following features should prompt microbiologic assessment, consideration of 
 
 ## See Also
 
-[[clostridioides-difficile]], [[fever-returning-traveler]], [[irritable-bowel-syndrome]], [[postinfectious-ibs]], [[chronic-diarrhea]], [[crohns-disease]], [[celiac-disease]], [[microscopic-colitis]], [[colon-ischemia]], [[disorders-of-gut-brain-interaction]], [[salmonella-infection]], [[shigellosis]], [[campylobacter-infection]], [[hiv-aids-related-diarrhea]], [[loperamide]], [[nitazoxanide]], [[rifaximin]], [[probiotics]]
+[[clostridioides-difficile]], [[fever-returning-traveler]], [[irritable-bowel-syndrome]], [[postinfectious-ibs]], [[chronic-diarrhea]], [[inflammatory-bowel-disease]], [[crohns-disease]], [[ulcerative-colitis]], [[celiac-disease]], [[microscopic-colitis]], [[colon-ischemia]], [[toxic-megacolon]], [[disorders-of-gut-brain-interaction]], [[norovirus]], [[rotavirus]], [[enterotoxigenic-e-coli]], [[salmonella-infection]], [[shigellosis]], [[campylobacter-infection]], [[giardiasis]], [[cryptosporidiosis]], [[entamoeba-histolytica-infection]], [[hiv-aids-related-diarrhea]], [[colonoscopy]], [[loperamide]], [[nitazoxanide]], [[rifaximin]], [[probiotics]]
 
 ---
 

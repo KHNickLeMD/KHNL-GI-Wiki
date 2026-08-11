@@ -3,7 +3,7 @@ title: "Spontaneous Bacterial Peritonitis"
 category: disease-script
 tags: [sbp, ascites, cirrhosis, peritonitis, cefotaxime, albumin]
 created: 2026-05-15
-updated: 2026-07-23
+updated: 2026-08-11
 sources: [aasld-2021-ascites-sbp-hrs, aga-2024-vasoactive-albumin-cirrhosis]
 ---
 
@@ -195,7 +195,7 @@ Patients with prior SBP have ~68% 1-year recurrence rate without prophylaxis.
 **Indication 2 — High-risk patients without prior SBP or acute hemorrhage:**
 
 - Low ascitic fluid protein (<1.5 g/dL) AND at least one of:
-  - Child-Turcotte-Pugh >9 points with serum bilirubin >3 mg/dL
+  - **Child-Turcotte-Pugh >9 points** *and* serum bilirubin >3 mg/dL (CTP point table on [[cirrhosis]])
   - Serum creatinine >1.2 mg/dL, BUN >25 mg/dL, or serum Na <130 mEq/L
 - 1-year SBP risk without prophylaxis in this group: 20–60% depending on severity of liver/renal dysfunction
 - Norfloxacin trial showed reduction from 60% to 7% first-episode rate; extrapolate to ciprofloxacin in US
