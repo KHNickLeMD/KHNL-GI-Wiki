@@ -1453,6 +1453,7 @@
     </div>
     <!-- Phase 2 (Step 13): The Colon Colony community hub — content rendered by social-layer.js -->
     <div id="colony-view" style="display:none"></div>
+    <div id="anki-view" style="display:none"></div>
 
     <div id="page-view" style="display:none">
       <div id="page-content-wrap">
@@ -1531,6 +1532,7 @@ function viewToPath(view) {
   else if (view === 'howto')         seg = 'how-to-use';
   else if (view === 'graph')         seg = 'graph';
   else if (view === 'colony')        seg = 'colony';
+  else if (view === 'anki')          seg = 'anki';
   else if (view === 'index')         seg = 'all';
   else if (view.startsWith('toc:'))  seg = sectionKeyToSlug(view.slice(4));
   else if (view.startsWith('page:')) seg = view.slice(5);
@@ -1546,6 +1548,7 @@ function pathToView(path) {
   if (s === 'how-to-use') return 'howto';
   if (s === 'graph')      return 'graph';
   if (s === 'colony')     return 'colony';
+  if (s === 'anki')       return 'anki';
   if (s === 'meetup') {
     // Step 15: QR meet-up deep link — /meetup?t=TOKEN. Stash the token before
     // the router's replaceState strips the query, then land on the Colony.
@@ -1586,6 +1589,7 @@ function routeToView(view) {
   if (view === 'index')         return showIndex();
   if (view === 'graph')         return showGraphView();
   if (view === 'colony')        return showColonyView();
+  if (view === 'anki')          return showAnkiView();
   if (view.startsWith('toc:'))  return showTOC(view.slice(4));
   if (view.startsWith('page:')) return navigateTo(view.slice(5));
 }
@@ -1839,7 +1843,7 @@ function showError(msg) {
 }
 
 function hideAllViews() {
-  ['overview-view','about-view','toc-view','graph-view','page-view','colony-view'].forEach(id => {
+  ['overview-view','about-view','toc-view','graph-view','page-view','colony-view','anki-view'].forEach(id => {
     document.getElementById(id).style.display = 'none';
   });
   // Clear the article two-column rail layout when leaving page view
@@ -1880,6 +1884,17 @@ function buildNavTree() {
     el.onclick = item.action;
     tree.appendChild(el);
   }
+
+  // Anki — image icon instead of an emoji, so it gets built by hand
+  const ankiItem = document.createElement('div');
+  ankiItem.className = 'nav-top-item';
+  ankiItem.dataset.navKey = 'anki';
+  ankiItem.innerHTML = '<img src="website_files/icons/anki.png" alt="" style="width:15px;height:15px;border-radius:3px;vertical-align:-3px;margin-right:6px;"> Anki';
+  ankiItem.onclick = () => {
+    if (window.innerWidth <= 768 && typeof closeSidebar === 'function') closeSidebar();
+    showAnkiView();
+  };
+  tree.appendChild(ankiItem);
 
   const divider = document.createElement('div');
   divider.className = 'nav-divider';
@@ -2323,6 +2338,19 @@ function showColonyView() {
   if (!(window.KHNL && window.KHNL.colony)) {
     el.innerHTML = '<div style="padding:60px 20px;text-align:center;color:var(--text-muted);font-size:14px;">Loading The Colon Colony…</div>';
   }
+}
+
+function showAnkiView() {
+  recordNav('anki');
+  hideAllViews();
+  currentView = 'anki';
+  updateActiveNav('anki');
+  document.getElementById('breadcrumb').innerHTML = '<span class="bc-item current">Anki</span>';
+  document.getElementById('page-meta-top').innerHTML = '';
+  const el = document.getElementById('anki-view');
+  el.style.display = 'block';
+  // ponytail: placeholder until the deck browser lands
+  el.innerHTML = '<div style="padding:80px 20px;text-align:center;color:var(--text-muted);font-size:16px;font-weight:600;letter-spacing:0.1em;">IN DEVELOPMENT</div>';
 }
 
 // Phase 2 bridge: the social layer (separate script) needs read access to page
