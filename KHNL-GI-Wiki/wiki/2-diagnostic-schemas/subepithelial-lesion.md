@@ -271,7 +271,7 @@ Small-intestine GISTs are **more aggressive** (40–50% malignant vs 20–25% ga
 
 - Nerve-sheath (Schwann cell) tumor, mostly esophageal; **S-100+**; hypoechoic/homogeneous from mucosa/submucosa.
 - Generally benign; malignant transformation rare (>4 cm); only consensus malignancy criterion is metastasis.
-- Subcentimeter lesions safe to surveil; endoscopic resection (snare/[[polypectomy-emr|EMR]]/[[endoscopic-submucosal-dissection|ESD]]) may obviate surveillance.
+- Subcentimeter lesions safe to surveil; endoscopic resection (snare/[[endoscopic-mucosal-resection|EMR]]/[[endoscopic-submucosal-dissection|ESD]]) may obviate surveillance.
 
 ### Duplication Cyst
 
@@ -298,7 +298,7 @@ Small-intestine GISTs are **more aggressive** (40–50% malignant vs 20–25% ga
 
 ## See Also
 
-[[endoscopic-ultrasound]], [[polypectomy-emr]], [[endoscopic-submucosal-dissection]], [[gastrointestinal-stromal-tumor]], [[gastroenteropancreatic-neuroendocrine-tumors]], [[atrophic-gastritis]], [[colonoscopy]], [[upper-endoscopy]], [[antibiotic-prophylaxis-endoscopy]], [[small-bowel-bleeding]]
+[[endoscopic-ultrasound]], [[polypectomy]], [[endoscopic-submucosal-dissection]], [[gastrointestinal-stromal-tumor]], [[gastroenteropancreatic-neuroendocrine-tumors]], [[atrophic-gastritis]], [[colonoscopy]], [[upper-endoscopy]], [[antibiotic-prophylaxis-endoscopy]], [[small-bowel-bleeding]]
 
 ---
 

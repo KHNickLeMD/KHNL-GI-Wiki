@@ -35,7 +35,7 @@ sources: [aga-2024-full-thickness-resection]
 ## Indications
 
 - Neoplastic SELs (e.g. [[gastrointestinal-stromal-tumor|GIST]], [[gastroenteropancreatic-neuroendocrine-tumors|neuroendocrine tumor]]) where en-bloc/complete excision is the goal.
-- **Expert-opinion indication (exposed EFTR):** consider when **other methods ([[polypectomy-emr|EMR]], [[endoscopic-submucosal-dissection|ESD]], nonexposed EFTR) cannot reliably and completely excise the SEL** due to larger size or difficult location.
+- **Expert-opinion indication (exposed EFTR):** consider when **other methods ([[endoscopic-mucosal-resection|EMR]], [[endoscopic-submucosal-dissection|ESD]], nonexposed EFTR) cannot reliably and completely excise the SEL** due to larger size or difficult location.
 - Also serves a **diagnostic** role when EUS-FNA/FNB is nondiagnostic.
 
 **Site selection (exposed EFTR):**
@@ -138,7 +138,7 @@ sources: [aga-2024-full-thickness-resection]
 
 ## See Also
 
-[[subepithelial-lesion]], [[polypectomy-emr]], [[endoscopic-submucosal-dissection]], [[poem]], [[colorectal-cancer]]
+[[subepithelial-lesion]], [[polypectomy]], [[colorectal-esd]], [[endoscopic-submucosal-dissection]], [[poem]], [[colorectal-cancer]]
 
 ---
 

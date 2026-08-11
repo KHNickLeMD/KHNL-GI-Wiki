@@ -18,7 +18,7 @@ sources: []
 
 ## Summary
 
-Comprehensive update of post-[[colonoscopy]] surveillance intervals. Covers normal colonoscopy, adenoma surveillance (stratified by number, size, histology), and serrated polyp surveillance. Key changes from 2012: 1–2 small adenomas now 7–10y (extended from 5–10y); more granular serrated polyp recommendations. All recommendations assume high-quality colonoscopy (adequate ADR, complete to cecum, adequate prep, complete [[polypectomy-emr|polypectomy]]).
+Comprehensive update of post-[[colonoscopy]] surveillance intervals. Covers normal colonoscopy, adenoma surveillance (stratified by number, size, histology), and serrated polyp surveillance. Key changes from 2012: 1–2 small adenomas now 7–10y (extended from 5–10y); more granular serrated polyp recommendations. All recommendations assume high-quality colonoscopy (adequate ADR, complete to cecum, adequate prep, complete [[polypectomy]]).
 
 ## Key Findings / Claims
 
@@ -121,7 +121,7 @@ Based on findings at baseline AND first surveillance:
 ## Relevance to Wiki
 
 - Primary source for [[colonoscopy]] post-polypectomy surveillance tables
-- Informs [[polypectomy-emr]] — piecemeal EMR follow-up
+- Informs [[endoscopic-mucosal-resection]] — piecemeal EMR follow-up
 
 ## Contradictions / Open Questions
 
@@ -132,4 +132,4 @@ Based on findings at baseline AND first surveillance:
 
 ## See Also
 
-[[colonoscopy]], [[polypectomy-emr]]
+[[colonoscopy]], [[polypectomy]]

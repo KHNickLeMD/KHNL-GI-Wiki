@@ -1,7 +1,7 @@
 ---
 title: "Wiki Index"
 category: index
-updated: 2026-08-05
+updated: 2026-08-11
 ---
 
 # KHNL GI Encyclopedia — Master Index
@@ -204,6 +204,7 @@ updated: 2026-08-05
 ## General GI Procedures
 
 - [[colonoscopy]] — CRC screening ages, post-polypectomy surveillance tables, bowel prep standards (incl. GLP-1 agonist guidance), polypectomy quick reference, IBD surveillance technique (SCENIC) (9 sources)
+- [[polypectomy]] — Colorectal polypectomy: lesion assessment (Paris/LST/NICE/WASP, non-lifting sign), technique by size and morphology incl. AGA 2024 tailored-polypectomy BPAs, tattoo, malignant polyp recognition and management (Haggitt/Kikuchi, favorable vs unfavorable histology, specimen handling, CAP reporting), quality standards and competency tools (4 sources)
 - [[upper-endoscopy]] — EGD quality standards: UGIB timing, BE surveillance, GPMC biopsy, celiac biopsy, peptic ulcer hemostasis (1 source)
 - [[argon-plasma-coagulation]] — APC: non-contact thermal hemostasis/ablation via ionized argon; GAVE, angioectasias, radiation proctopathy, GI bleeding (**stub**)
 
@@ -223,7 +224,7 @@ updated: 2026-08-05
 - [[high-resolution-manometry]] — HRM: Chicago v4.0 protocol, manufacturer-specific IRP thresholds, key metrics (IRP/DCI/peristaltic integrity), pre-ARS mandatory (stub)
 - [[poem]] — POEM: preprocedure workup (endoscopy/TBE/HRM/FLIP), achalasia type-driven myotomy (Type III preferred, tailored long myotomy), EGJOO/spastic disorders case-by-case only, single-dose antibiotics, anterior=posterior tunnel, post-POEM reflux (acid exposure 41–56%, ¼ asymptomatic) + surveillance, same-day discharge, failed-myotomy POEM 62% vs PD 27%; G-POEM for gastroparesis (AGA 2024 CPU) (3 sources)
 - [[heller-myotomy]] — Laparoscopic Heller myotomy (LHM) + partial fundoplication for achalasia; surgical alternative to POEM/PD; built-in anti-reflux wrap → less post-op GERD than POEM (2 sources)
-- [[endoscopic-submucosal-dissection]] — ESD: en-bloc endoscopic resection for early GI neoplasia (esophageal/gastric/colorectal) (stub)
+- [[endoscopic-submucosal-dissection]] — ESD (esophagogastric): en-bloc knife resection of early GI neoplasia; ESD vs EMR vs surgery by lesion size (ESCC >15 mm, EAC >20 mm, GAC 20–30 mm), curative R0 criteria, M1–SM3 depth, gastric absolute/expanded criteria, ESD-vs-EMR outcomes and perforation risk (1 source)
 - [[flip-panometry]] — FLIP Panometry v2.0: 16-cm EndoFLIP protocol, EGJ Opening (REO/NEO) × Contractile Response → 6-class motility matrix; Normal = high NPV for achalasia; Non-spastic Obstruction = EGJOO equivalent; AGA 2025 indications/use (EGD first, not for GERD, intraprocedural myotomy) (2 sources)
 - [[anorectal-manometry]] — HR-ARM + BET: dyssynergic defecation types I–IV, RAIR, sphincter assessment for fecal incontinence, pre-op evaluation (stub)
 - [[capsule-endoscopy]] — Capsule endoscopy: small bowel visualization, SBB first-line investigation, patency capsule pre-DAE, diagnostic yield/timing by indication (2 sources)
@@ -234,7 +235,8 @@ updated: 2026-08-05
 - [[sacral-nerve-stimulation]] — SNS: **Strong/Low for moderate–severe fecal incontinence; explicitly NOT recommended for constipation**; two-stage trial, outcomes, adverse-event and alternatives tables (2 sources)
 - [[biofeedback-therapy]] — Biofeedback: indication/strength table; 5-step protocol; balloon-expulsion gating role; dyssynergia types via [[anorectal-manometry]] (2 sources)
 
-- [[polypectomy-emr]] — Polypectomy technique by lesion size/type; EMR, ESD, hybrid ESD; electrosurgery settings; cold snare/underwater EMR/eFTR data; hot avulsion; competency tools; post-EMR surveillance; submucosal lifting agents (AGA 2025); early-T1 CRC endoscopic resection & surveillance (6 sources)
+- [[colorectal-esd]] — ESD (colorectal): limited indication set (≥20 mm superficial SMI not en-bloc resectable by EMR, fibrosis, residual/recurrent early carcinoma, colitis-associated dysplasia), hybrid ESD, eFTR; early-T1 CRC en-bloc imperative, unified USMSTF/ESGE/JGES curative criteria, solitary deep-SMI reappraisal (~2.6% LNM), post-resection surveillance (2 sources)
+- [[endoscopic-mucosal-resection]] — Colorectal EMR: inject-and-cut technique + electrosurgery settings, submucosal lifting agents (AGA 2025), post-resection margin ablation/clipping and bleeding benchmarks, underwater EMR, cold snare EMR, hot avulsion, post-EMR (piecemeal ≥20mm) surveillance (4 sources)
 
 ### Hepatobiliary Procedures
 
@@ -618,4 +620,4 @@ updated: 2026-08-05
 
 ---
 
-*Total: 246 sources | 128 disease scripts | 22 diagnostic schemas | 4 general procedures | 24 advanced procedures | 27 meds | 0 anatomy | 46 concepts | 1 synthesis (on-disk page counts as of 2026-08-02)*
+*Total: 246 sources | 128 disease scripts | 22 diagnostic schemas | 5 general procedures | 25 advanced procedures | 27 meds | 0 anatomy | 46 concepts | 1 synthesis (on-disk page counts as of 2026-08-11)*

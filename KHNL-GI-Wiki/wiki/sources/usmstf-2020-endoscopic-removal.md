@@ -18,7 +18,7 @@ sources: []
 
 ## Summary
 
-Comprehensive consensus on optimal techniques for endoscopic removal of colorectal lesions. Covers lesion assessment, resection methods by lesion size/morphology, marking, post-[[polypectomy-emr|EMR]] surveillance, and quality standards. Emphasizes that endoscopy should be first-line for all benign colorectal lesions, replacing surgical referral.
+Comprehensive consensus on optimal techniques for endoscopic removal of colorectal lesions. Covers lesion assessment, resection methods by lesion size/morphology, marking, post-[[endoscopic-mucosal-resection|EMR]] surveillance, and quality standards. Emphasizes that endoscopy should be first-line for all benign colorectal lesions, replacing surgical referral.
 
 ## Key Findings / Claims
 
@@ -117,7 +117,7 @@ Comprehensive consensus on optimal techniques for endoscopic removal of colorect
 
 ## Relevance to Wiki
 
-- Informs [[polypectomy-emr]] (advanced colorectal procedures)
+- Informs [[polypectomy]], [[endoscopic-mucosal-resection]], and [[colorectal-esd]] (colorectal ESD indications)
 - Informs [[colonoscopy]] (general GI procedures) — quality, technique, surveillance after EMR
 
 ## Contradictions / Open Questions
@@ -129,4 +129,4 @@ Comprehensive consensus on optimal techniques for endoscopic removal of colorect
 
 ## See Also
 
-[[polypectomy-emr]], [[colonoscopy]]
+[[polypectomy]], [[endoscopic-mucosal-resection]], [[colorectal-esd]], [[colonoscopy]]

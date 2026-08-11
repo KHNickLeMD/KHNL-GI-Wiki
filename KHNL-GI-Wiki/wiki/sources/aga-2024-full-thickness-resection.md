@@ -108,7 +108,7 @@ Site matters: exposed EFTR is **best suited for gastric lesions** and is an alte
 
 - Creates the advanced-procedure page [[endoscopic-full-thickness-resection]] — exposed vs nonexposed taxonomy, device options and their mm size limits, anesthesia/antibiotic/CO₂ setup, en-bloc and R0 rates, adverse-event rates, and when to refer to surgery/LECS instead.
 - Updates [[subepithelial-lesion]]: replaces the single-line EFTR entry in the resection-technique table with technique-specific size limits and a link to the dedicated page; adds the site rule (avoid esophagus/duodenum) and the multidisciplinary preoperative-evaluation requirement.
-- Supplies the FTRD/EFTR device detail that [[polypectomy-emr]] references only for colorectal mucosal lesions, and complements [[endoscopic-submucosal-dissection]] and [[poem]] (STER/POET is a direct clinical application derived from POEM technique).
+- Supplies the FTRD/EFTR device detail that [[polypectomy]] references only for colorectal mucosal lesions, and complements [[colorectal-esd]] and [[poem]] (STER/POET is a direct clinical application derived from POEM technique).
 
 ---
 

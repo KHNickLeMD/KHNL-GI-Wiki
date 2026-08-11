@@ -6,6 +6,28 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-08-11] update | Split polypectomy-emr into polypectomy (general) + EMR and ESD (advanced)
+
+**Rationale:** `polypectomy-emr` bundled a bread-and-butter colonoscopy skill with two advanced-endoscopy techniques on one 453-line page. Polypectomy belongs under General GI Procedures; EMR and ESD are advanced procedures with their own pages.
+
+**Pages created:**
+- `3-general-gi-procedures/polypectomy.md` — lesion assessment (Paris/LST/NICE/WASP/non-lifting), resection by size and morphology incl. AGA 2024 tailored-polypectomy BPAs, tattoo, malignant polyp recognition and management (Haggitt/Kikuchi, favorable vs unfavorable histology, specimen handling, CAP reporting), quality standards and competency tools. 4 sources.
+- `4-advanced-gi-procedures/colorectal-procedures/endoscopic-mucosal-resection.md` — inject-and-cut + ERBE settings, submucosal lifting agents (AGA 2025), post-resection margin ablation/clipping/bleeding benchmarks, underwater EMR, cold snare EMR, hot avulsion, post-EMR piecemeal ≥20mm surveillance. 4 sources.
+
+- `4-advanced-gi-procedures/colorectal-procedures/colorectal-esd.md` — colorectal ESD indications (limited), hybrid ESD, eFTR, and the whole *Early (T1) CRC — Endoscopic Resection (AGA 2025 CPU)* section. Split out from the generic ESD page rather than merged into it: the colon has a narrower indication set, a thinner wall, and a different source base. 2 sources.
+
+**Pages updated:**
+- `[[endoscopic-submucosal-dissection]]` — narrowed to **esophagogastric** ESD (title and lede say so); keeps the generic definitions, en-bloc/R0 principle, depth of invasion, ASGE 2023 lesion-based selection, gastric criteria, outcomes and adverse events. Slug unchanged — most inbound links are foregut, and it stays the landing page for "ESD" in general. Still 1 source (`asge-2023-esd`). No longer a stub.
+- `[[index]]` — `[[polypectomy]]` added under General GI Procedures; `[[endoscopic-mucosal-resection]]` and `[[colorectal-esd]]` under Colorectal Procedures; ESD description rewritten as esophagogastric; footer counts 4 → 5 general, 24 → 25 advanced.
+
+**Page deleted:** `4-advanced-gi-procedures/colorectal-procedures/polypectomy-emr.md` (content fully redistributed, nothing dropped).
+
+**Link rewrite:** 105 `[[polypectomy-emr]]` references across 47 pages retargeted — EMR-worded aliases (`|EMR`, `|Endoscopic mucosal resection`) → `[[endoscopic-mucosal-resection]]`, all others → `[[polypectomy]]`; redundant `[[polypectomy|polypectomy]]` aliases collapsed. Colorectal-context `[[endoscopic-submucosal-dissection]]` links (colorectal-cancer, colonoscopy, polypectomy, EMR, eFTR, anticoagulation table row, and the USMSTF/AGA-CRC/IBD/eFTR source pages) retargeted to `[[colorectal-esd]]`; esophagogastric, duodenal, and generic-technique links left on the original slug. Slugs resolve by basename, so no other path fixes were needed. Whole-wiki link audit: 0 unresolved targets. Historical `log.md` mentions of the old slug left as written.
+
+**Anki:** the one card file split three ways to match (21 polypectomy / 8 EMR / 4 colorectal ESD), all 33 note ids preserved. `build-anki.mjs` gained a `guid_page:` frontmatter field that pins the GUID hash to the original page path, so re-import moves the existing notes into the new decks and retags them **without losing review scheduling** — verified: `sha1(polypectomy-emr.md + id)` still produces every exported guid. Deck tree now `3. General GI Procedures::Polypectomy (Colorectal)` plus two under `4. Advanced GI Procedures::Colorectal Procedures`.
+
+---
+
 ## [2026-08-10] ingest | Jagtap 2026 (Gut) RCT — urgent vs early ERCP in mild-to-moderate acute cholangitis
 
 **Source created:**
@@ -428,7 +450,7 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 - `[[esophageal-dysfunction-systemic-disease]]` (7-concepts) — home for the systemic/immune content: HES/EGPA, connective-tissue disease (SSc/MCTD/SLE/Sjögren/myositis) esophageal involvement, esophageal Crohn's, dermatologic (ELP/pemphigus + DIF), and the secondary-achalasia framework.
 
 **Pages updated (ingest wiring):**
-- `[[polypectomy-emr]]` — new "Tailored Technique Selection (AGA 2024)" subsection: scenario→technique table + intermediate-size RCT data + prophylactic-clip rule; cross-references existing optical-diagnosis/post-resection sections (no duplication). Source added.
+- `[[polypectomy]]` — new "Tailored Technique Selection (AGA 2024)" subsection: scenario→technique table + intermediate-size RCT data + prophylactic-clip rule; cross-references existing optical-diagnosis/post-resection sections (no duplication). Source added.
 - `[[eosinophilic-esophagitis]]` — BPA 4: persistent symptoms despite histologic+endoscopic remission → evaluate for subtle stricture/motility disorder; EoE→achalasia risk. Source added; See Also wired to 3 new pages.
 - `[[achalasia]]` — BPA 10: secondary/mimic achalasia (COVID/Chagas/eosinophilic/mast-cell; autoimmune hypothesis) added to DDx; source + See Also wired.
 - `[[dysphagia]]` (schema) — DDx expanded with an immune-mediated/systemic category (LyE, connective-tissue disease, esophageal Crohn's, HES/EGPA, ELP/pemphigus) + infectious-esophagitis inline link.
@@ -457,7 +479,7 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 ## [2026-07-26] update | Visual expansion of polypectomy-emr: 11 source figures embedded; new Style Guide rule for endoscopic classifications
 
 **Page updated:**
-- `[[polypectomy-emr]]` — 11 figures captured at 300 dpi from already-ingested PDFs and embedded with captions: Paris classification (schematic + endoscopic examples), LST-G vs LST-NG, NICE types 1–3 with NBI images, SSL-like features (WASP), non-lifting sign, colorectal lesion management algorithm, cancer depth/AJCC T staging, Kudo pit pattern I–VN, malignant polyp algorithm, Haggitt levels, Kikuchi SM1–3.
+- `[[polypectomy]]` — 11 figures captured at 300 dpi from already-ingested PDFs and embedded with captions: Paris classification (schematic + endoscopic examples), LST-G vs LST-NG, NICE types 1–3 with NBI images, SSL-like features (WASP), non-lifting sign, colorectal lesion management algorithm, cancer depth/AJCC T staging, Kudo pit pattern I–VN, malignant polyp algorithm, Haggitt levels, Kikuchi SM1–3.
 
 **Assets added:** `raw/assets/polypectomy-2020-*.png` (6, from [[usmstf-2020-endoscopic-removal]]), `raw/assets/malignant-polyp-2020-*.png` (5, from [[usmstf-2020-malignant-colorectal-polyps]]).
 
@@ -825,7 +847,7 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 **Stalest-page validation (3 pages, all `updated: 2026-05-19`):**
 
-- `[[cowden-syndrome]]` — **stale claim superseded by a newer guideline.** Page carried only [[acg-2015-hereditary-gi-cancer]] (colonoscopy **from age 15, q2y**); the newer [[aga-2022-hamartomatous-polyposis|USMSTF/AGA 2022]] hamartomatous-polyposis guideline sets PTEN/Cowden colonoscopy start at **age 35**. Per source priority (same tier → newer publication wins), the page now leads with age 35 and **surfaces the contradiction inline** in Diagnostics. Added the 2022 source to frontmatter + `## Sources`; added cascade-screening/extraintestinal-coordination content; renamed `### Cancer Risk Profile` → `### Severity Assessment — Cancer Risk Profile` (ADDT compliance); fixed See Also spacing; added `[[lynch-syndrome]]`, `[[polypectomy-emr]]`.
+- `[[cowden-syndrome]]` — **stale claim superseded by a newer guideline.** Page carried only [[acg-2015-hereditary-gi-cancer]] (colonoscopy **from age 15, q2y**); the newer [[aga-2022-hamartomatous-polyposis|USMSTF/AGA 2022]] hamartomatous-polyposis guideline sets PTEN/Cowden colonoscopy start at **age 35**. Per source priority (same tier → newer publication wins), the page now leads with age 35 and **surfaces the contradiction inline** in Diagnostics. Added the 2022 source to frontmatter + `## Sources`; added cascade-screening/extraintestinal-coordination content; renamed `### Cancer Risk Profile` → `### Severity Assessment — Cancer Risk Profile` (ADDT compliance); fixed See Also spacing; added `[[lynch-syndrome]]`, `[[polypectomy]]`.
 - `[[juvenile-polyposis-syndrome]]` — same missing-source gap, but **2015 and 2022 are concordant** (colonoscopy + EGD at age 12–15, intervals by polyp burden, *SMAD4*/HHT overlap). Added [[aga-2022-hamartomatous-polyposis]] to frontmatter + `## Sources` with an explicit concordance note; added `[[capsule-endoscopy]]` to See Also; fixed spacing.
 - `[[peutz-jeghers-syndrome]]` — already carried both sources and correct ADDT order; See Also spacing fixed only. All three bumped to `updated: 2026-07-14`.
 
@@ -1154,16 +1176,16 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 **Pages updated (net-new + sources/cross-links):**
 - `[[colorectal-cancer-screening]]` → blood-based screening section (Shield/Freenome performance, CMS criteria, positioning vs FIT/colonoscopy). →2 sources.
-- `[[polypectomy-emr]]` → early-T1 CRC endoscopic resection (en-bloc imperative, ESD/eFTR, curative criteria, deep-SMI reappraisal, surveillance). →6 sources.
+- `[[polypectomy]]` → early-T1 CRC endoscopic resection (en-bloc imperative, ESD/eFTR, curative criteria, deep-SMI reappraisal, surveillance). →6 sources.
 - `[[colorectal-cancer]]` → early-T1 en-bloc/ESD/eFTR bullet pointing detail to polypectomy-emr. →7 sources.
 - `[[ibd-preventive-care]]` → anal cancer surveillance, HPV/HepB seroprotection algorithm, pneumococcal/RSV sequencing, skin-cancer TBSE. →3 sources (was understated as 1 in index — corrected).
 - `[[subepithelial-lesion]]` → EUS entity table, tissue-acquisition yields (FNA/FNB/SINK/unroofing), resection-vs-surveillance thresholds (ACG 2023 remains higher-priority on overlap). →2 sources.
 
 **Lint (this pass):** index updated — 8 source entries (AGA ×4, ASGE ×4, reverse-chron), 2 disease-script entries (`ampullary-adenoma` HPB, `hypermobile-ehlers-danlos-syndrome` Other), 2 concept entries; per-page counts corrected. Footer reconciled to live on-disk counts: **192 sources | 107 disease scripts | 19 diagnostic schemas | 2 general procedures | 19 advanced procedures | 15 meds | 0 anatomy | 35 concepts | 1 synthesis**; index Sources section verified to list all 192. Whole-page `[[link]]` scan on all created/edited pages — all resolve by basename; subagents avoided broken links (POTS/MCAS/dysautonomia, FIT/Cologuard/eFTR/tumor-budding rendered as plain text — candidate future pages). Stalest-page validation (`[[celiac-disease]]`, `[[biliary-stricture]]`, both `2026-05-15`): compliant; fixed double blank line under `## See Also`; `updated:` bumped.
 
-**Contradictions surfaced:** deep submucosal invasion as a surgical trigger (USMSTF 2020) vs AGA 2025 individualized organ-preservation (~2.6% LNM, not independent) — flagged on `[[polypectomy-emr]]`; cervical/melanoma screening intensity and RSV vaccination age — AGA 2025 vs existing ACG/ACIP content surfaced on `[[ibd-preventive-care]]`; ASGE 2017 SEL net-new only under newer ACG 2023.
+**Contradictions surfaced:** deep submucosal invasion as a surgical trigger (USMSTF 2020) vs AGA 2025 individualized organ-preservation (~2.6% LNM, not independent) — flagged on `[[polypectomy]]`; cervical/melanoma screening intensity and RSV vaccination age — AGA 2025 vs existing ACG/ACIP content surfaced on `[[ibd-preventive-care]]`; ASGE 2017 SEL net-new only under newer ACG 2023.
 
-**Remaining for user triage:** `.DS_Store` removal still blocked on mounted volume. Pre-existing source-count drift on `[[polypectomy-emr]]` frontmatter vs `## Sources` (followup-colonoscopy listed in numbered list, not frontmatter) — left as-is. Candidate new pages flagged by subagents: POTS, MCAS, FIT, multitarget-stool-DNA, eFTR. Still-uningested: AGA hemorrhoids duplicate; remaining older ASGE backlog (2010 PUD, 2011 EUS mediastinal/enteral feeding, 2013 biliary neoplasia, 2014 lab testing, 2015 abx-prophylaxis-done, bowel-prep, ERCP benign biliary, benign pancreatic, premalignant stomach, 2016 fluid collections/antithrombotics/solid-pancreatic, 2020 FAP). Persistent source-needed stubs: `[[microscopic-colitis]]`, `[[hiv-aids-related-diarrhea]]`; expandable stub `[[endoscopic-submucosal-dissection]]`.
+**Remaining for user triage:** `.DS_Store` removal still blocked on mounted volume. Pre-existing source-count drift on `[[polypectomy]]` frontmatter vs `## Sources` (followup-colonoscopy listed in numbered list, not frontmatter) — left as-is. Candidate new pages flagged by subagents: POTS, MCAS, FIT, multitarget-stool-DNA, eFTR. Still-uningested: AGA hemorrhoids duplicate; remaining older ASGE backlog (2010 PUD, 2011 EUS mediastinal/enteral feeding, 2013 biliary neoplasia, 2014 lab testing, 2015 abx-prophylaxis-done, bowel-prep, ERCP benign biliary, benign pancreatic, premalignant stomach, 2016 fluid collections/antithrombotics/solid-pancreatic, 2020 FAP). Persistent source-needed stubs: `[[microscopic-colitis]]`, `[[hiv-aids-related-diarrhea]]`; expandable stub `[[endoscopic-submucosal-dissection]]`.
 
 ---
 
@@ -1182,7 +1204,7 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 **Pages updated (net-new + sources/cross-links):**
 - `[[flip-panometry]]` → new "Indications & Use (AGA 2025)" subsection (EGD before FLIP; use when HRM/TBE inconclusive; normal EGJ opening high NPV; not for GERD; intraprocedural myotomy; EoE remodeling). Source added; `updated:` bumped.
-- `[[polypectomy-emr]]` → new "Submucosal Lifting Agents (AGA 2025)" subsection (cushion separates MP, contrast demarcation, saline acceptable, SSLs lift with any agent, ESD needs injection, dynamic injection); added `[[endoscopic-submucosal-dissection]]` See-Also link. Source added; `updated:` bumped.
+- `[[polypectomy]]` → new "Submucosal Lifting Agents (AGA 2025)" subsection (cushion separates MP, contrast demarcation, saline acceptable, SSLs lift with any agent, ESD needs injection, dynamic injection); added `[[endoscopic-submucosal-dissection]]` See-Also link. Source added; `updated:` bumped.
 - `[[crohns-disease]]` → endoscopic stricture-dilation expanded with AGA 2026 therapeutic-endoscopy details (EBD 18–20 mm wire-guided CRE, no intralesional steroids, ≤5 cm predicts surgery-free survival; periprocedural drug holds; fistula drainage > closure). Source added; `## Sources` →9.
 
 **Lint (this pass):** index updated — 4 AGA source entries (reverse-chron in AGA subsection) + `[[sclerosing-mesenteritis]]` (Other disease scripts); per-page counts corrected (`crohns-disease` →9, `flip-panometry` →2, `polypectomy-emr` →5). Footer reconciled to live on-disk counts: **184 sources | 105 disease scripts | 19 diagnostic schemas | 2 general procedures | 19 advanced procedures | 15 meds | 0 anatomy | 33 concepts | 1 synthesis**. Whole-page `[[link]]` scan on all created/edited pages — all resolve by basename (broken candidate links rewritten to plain text or valid slugs: lymphoma/peritoneal carcinomatosis/corticosteroids/mesenteric-panniculitis/EGJOO).

@@ -262,7 +262,7 @@ The key severity variable is **dysplasia grade**, which determines both cancer r
 ![[barretts-2022-eet-algorithm-18.png|700x431]]
 *Figure 4 — Algorithm for patients referred for consideration of EET by dysplasia grade and depth of invasion. ([[acg-2022-barretts]])*
 
-See [[endoscopic-eradication-therapy]] for full technique, outcomes, and adverse-event data. EET combines [[polypectomy-emr|EMR]] of visible lesions with ablation ([[radiofrequency-ablation|RFA]] preferred) of the residual flat segment.
+See [[endoscopic-eradication-therapy]] for full technique, outcomes, and adverse-event data. EET combines [[endoscopic-mucosal-resection|EMR]] of visible lesions with ablation ([[radiofrequency-ablation|RFA]] preferred) of the residual flat segment.
 
 **Indications** (ASGE 2018 / AGA / ACG concordant; [[asge-2018-barretts-eet|ASGE 2018]] GRADE strengths shown):
 
@@ -355,7 +355,7 @@ CEIM defined as: 1–2 surveillance endoscopies with no visible BE and no IM on 
 
 ## See Also
 
-[[gerd]], [[eosinophilic-esophagitis]], [[achalasia]], [[esophageal-adenocarcinoma]], [[endoscopic-eradication-therapy]], [[radiofrequency-ablation]], [[polypectomy-emr]], [[upper-endoscopy]], [[endoscopic-ultrasound]], [[antireflux-surgery]], [[endoscopic-submucosal-dissection]], [[proton-pump-inhibitors]]
+[[gerd]], [[eosinophilic-esophagitis]], [[achalasia]], [[esophageal-adenocarcinoma]], [[endoscopic-eradication-therapy]], [[radiofrequency-ablation]], [[polypectomy]], [[upper-endoscopy]], [[endoscopic-ultrasound]], [[antireflux-surgery]], [[endoscopic-submucosal-dissection]], [[proton-pump-inhibitors]]
 
 ---
 

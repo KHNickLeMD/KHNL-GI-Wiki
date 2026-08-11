@@ -97,7 +97,7 @@ The Update describes how patients should be **evaluated and risk-stratified**, b
 
 - Creates the disease-script page [[nonampullary-duodenal-adenoma]] (assessment/description, resection technique by size/morphology, complications, surveillance, FAP/Spiegelman).
 - Complements the existing [[ampullary-adenoma]] page (which covers ampullary + a brief nonampullary section) with detailed nonampullary-specific technique and thresholds.
-- Cross-links to [[familial-adenomatous-polyposis]] (Spiegelman staging, duodenal surveillance), [[peutz-jeghers-syndrome]] (capsule for small-bowel hamartomas), [[polypectomy-emr]], [[endoscopic-submucosal-dissection]], [[colonoscopy]], [[upper-endoscopy]], [[capsule-endoscopy]], [[subepithelial-lesion]].
+- Cross-links to [[familial-adenomatous-polyposis]] (Spiegelman staging, duodenal surveillance), [[peutz-jeghers-syndrome]] (capsule for small-bowel hamartomas), [[polypectomy]], [[endoscopic-submucosal-dissection]], [[colonoscopy]], [[upper-endoscopy]], [[capsule-endoscopy]], [[subepithelial-lesion]].
 
 ---
 

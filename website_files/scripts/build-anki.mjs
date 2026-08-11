@@ -24,7 +24,7 @@ const CARDS_DIRS = [
 const CAPS = { words: 40, bullets: 5, bulletWords: 12 }
 
 // ponytail: acronym fixups only; add entries when a deck name reads wrong
-const ACRONYMS = { gi: 'GI', emr: 'EMR', esd: 'ESD', ercp: 'ERCP', eus: 'EUS', ibd: 'IBD' }
+const ACRONYMS = { gi: 'GI', emr: 'EMR', esd: 'ESD', ercp: 'ERCP', eus: 'EUS', ibd: 'IBD', and: 'and' }
 
 const guidOf = (page, id) => createHash('sha1').update(page + id).digest('hex').slice(0, 16)
 
@@ -134,8 +134,11 @@ function main () {
     const footerFor = src => `<small><a href="${SITE}/${slug}">${pageFm.title}</a>`
       + ` · <a href="${SITE}/${src}">${srcLabel(src)}</a></small>`
 
+    // Splitting a wiki page moves its cards to new files. `guid_page:` pins the hash to the path
+    // the ids were minted under, so the export still reaches the existing notes and Anki just
+    // re-decks and re-tags them — a page reorganisation costs no review scheduling.
     for (const note of parse(body, page)) {
-      const guid = guidOf(page, note.id)
+      const guid = guidOf(fm.guid_page || page, note.id)
       if (seen.has(guid)) throw new Error(`${page}: duplicate id [${note.id}]`)
       seen.add(guid)
       problems.push(...lint(note, page))

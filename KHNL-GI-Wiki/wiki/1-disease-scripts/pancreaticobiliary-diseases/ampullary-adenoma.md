@@ -103,7 +103,7 @@ Endoscopic resection has lower adverse-event rates (~14%) than local surgical ex
 
 ### Nonampullary Duodenal Adenoma
 
-- Approach mirrors **right-colon polypectomy** given the thin duodenal wall ([[polypectomy-emr|EMR]] is the mainstay).
+- Approach mirrors **right-colon polypectomy** given the thin duodenal wall ([[endoscopic-mucosal-resection|EMR]] is the mainstay).
 - Submucosal injection cushion for flat lesions; **lack of lift suggests malignancy or prior manipulation**.
 - **ESD is not recommended beyond the duodenal bulb** ([[endoscopic-submucosal-dissection|ESD]] perforation rates 23–35% in high-volume series; same group reported no perforations with EMR).
 - Cold-snare polypectomy described for lesions >1 cm to avoid electrocautery injury.
@@ -123,7 +123,7 @@ Endoscopic resection has lower adverse-event rates (~14%) than local surgical ex
 
 ## See Also
 
-[[familial-adenomatous-polyposis]], [[peutz-jeghers-syndrome]], [[ercp]], [[endoscopic-ultrasound]], [[upper-endoscopy]], [[polypectomy-emr]], [[endoscopic-submucosal-dissection]], [[colonoscopy]], [[subepithelial-lesion]], [[brush-cytology]], [[acute-pancreatitis]], [[gastroenteropancreatic-neuroendocrine-tumors]]
+[[familial-adenomatous-polyposis]], [[peutz-jeghers-syndrome]], [[ercp]], [[endoscopic-ultrasound]], [[upper-endoscopy]], [[polypectomy]], [[endoscopic-submucosal-dissection]], [[colonoscopy]], [[subepithelial-lesion]], [[brush-cytology]], [[acute-pancreatitis]], [[gastroenteropancreatic-neuroendocrine-tumors]]
 
 ---
 

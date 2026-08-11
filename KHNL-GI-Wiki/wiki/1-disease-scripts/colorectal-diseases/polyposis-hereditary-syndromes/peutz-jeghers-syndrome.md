@@ -114,7 +114,7 @@ SCTAT = sex cord tumor with annular tubules; ~20% become malignant. PJS is assoc
 
 ### Endoscopic Management
 
-- Endoscopic [[polypectomy-emr|polypectomy]] of polyps >0.5–1 cm (preferably all those >0.5 or 1 cm in diameter)
+- Endoscopic [[polypectomy]] of polyps >0.5–1 cm (preferably all those >0.5 or 1 cm in diameter)
 - Clearing of all polyps preferable but not always achievable; should control colonic polyps
 - [[device-assisted-enteroscopy|Double-balloon enteroscopy]] and intraoperative endoscopy allow extensive small bowel polyp removal
 
@@ -141,7 +141,7 @@ SCTAT = sex cord tumor with annular tubules; ~20% become malignant. PJS is assoc
 
 ## See Also
 
-[[familial-adenomatous-polyposis]], [[lynch-syndrome]], [[juvenile-polyposis-syndrome]], [[cowden-syndrome]], [[colorectal-cancer]], [[colonoscopy]], [[upper-endoscopy]], [[capsule-endoscopy]], [[endoscopic-ultrasound]], [[pancreatic-cancer]], [[pancreatic-cancer-screening]], [[gastric-adenocarcinoma]], [[device-assisted-enteroscopy]], [[polypectomy-emr]]
+[[familial-adenomatous-polyposis]], [[lynch-syndrome]], [[juvenile-polyposis-syndrome]], [[cowden-syndrome]], [[colorectal-cancer]], [[colonoscopy]], [[upper-endoscopy]], [[capsule-endoscopy]], [[endoscopic-ultrasound]], [[pancreatic-cancer]], [[pancreatic-cancer-screening]], [[gastric-adenocarcinoma]], [[device-assisted-enteroscopy]], [[polypectomy]]
 
 ---
 

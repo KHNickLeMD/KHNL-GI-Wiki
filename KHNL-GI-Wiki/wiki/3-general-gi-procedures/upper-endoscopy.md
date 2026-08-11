@@ -34,7 +34,7 @@ Supplementary best practice guidance from AGA 2024 Clinical Practice Update. [[a
 
 - Hemostasis (UGIB)
 - Dilation (strictures)
-- [[polypectomy-emr|EMR]]/[[endoscopic-submucosal-dissection|ESD]] for dysplasia (EoE, BE, early GC)
+- [[endoscopic-mucosal-resection|EMR]]/[[endoscopic-submucosal-dissection|ESD]] for dysplasia (EoE, BE, early GC)
 - Endobariatrics, third-space endoscopy (out of scope for this document)
 
 **Not indicated (commonly misused):** routine GERD without alarm features on [[proton-pump-inhibitors|PPI]], nonspecific nausea without alarm features.

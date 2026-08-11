@@ -74,7 +74,7 @@ CADe was the first target: meta-analytic data show it significantly raises adeno
 
 - Primary home: [[artificial-intelligence-endoscopy]] (new concept page — CADe / CADx / computer-aided quality assessment).
 - Updates [[colonoscopy]] — AI adjuncts within quality metrics (ADR, APC, withdrawal quality).
-- Touches [[colorectal-cancer-screening]] and [[polypectomy-emr]] (resect-and-discard / diagnose-and-leave strategies, PIVI thresholds).
+- Touches [[colorectal-cancer-screening]] and [[polypectomy]] (resect-and-discard / diagnose-and-leave strategies, PIVI thresholds).
 
 ## Contradictions / Open Questions
 

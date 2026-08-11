@@ -1,15 +1,15 @@
 ---
-title: "Endoscopic Submucosal Dissection (ESD)"
+title: "Endoscopic Submucosal Dissection (Esophagogastric)"
 category: advanced-procedure
 tags: [esd, endoscopic-resection, emr, early-gastric-cancer, early-esophageal-cancer, en-bloc, r0-resection]
 created: 2026-06-27
-updated: 2026-08-08
+updated: 2026-08-11
 sources: [asge-2023-esd]
 ---
 
-# Endoscopic Submucosal Dissection (ESD)
+# Endoscopic Submucosal Dissection (Esophagogastric)
 
-En-bloc endoscopic resection of early GI neoplasia using electrosurgical knives (rather than a snare), circumventing the size limit of EMR and enabling accurate R0 assessment of larger lesions. First-line (over surgery) for many early-stage esophageal and gastric cancers; preferred over [[polypectomy-emr|EMR]] for larger lesions where piecemeal EMR would prevent an R0 margin. Per [[asge-2023-esd]].
+En-bloc endoscopic resection of early GI neoplasia using electrosurgical knives (rather than a snare), circumventing the size limit of EMR and enabling accurate R0 assessment of larger lesions. First-line (over surgery) for many early-stage esophageal and gastric cancers; preferred over [[endoscopic-mucosal-resection|EMR]] for larger lesions where piecemeal EMR would prevent an R0 margin. Per [[asge-2023-esd]]. The definitions and principles below are generic to ESD; **colorectal indications, hybrid ESD, and early-T1-CRC resection are on [[colorectal-esd]]** — the colon has a narrower indication set and a thinner wall.
 
 ## Contents
 - [[#Definitions]]
@@ -82,7 +82,7 @@ Meta-analysis (8 observational studies; 821 ESD vs 1306 EMR):
 
 ## See Also
 
-[[polypectomy-emr]], [[endoscopic-eradication-therapy]], [[endoscopic-full-thickness-resection]], [[upper-endoscopy]], [[barretts-esophagus]], [[gastric-adenocarcinoma]], [[gastric-intestinal-metaplasia]], [[esophageal-cancer]], [[esophageal-adenocarcinoma]], [[colorectal-cancer]], [[endoscopic-oncology]]
+[[colorectal-esd]], [[endoscopic-mucosal-resection]], [[polypectomy]], [[endoscopic-eradication-therapy]], [[endoscopic-full-thickness-resection]], [[upper-endoscopy]], [[barretts-esophagus]], [[gastric-adenocarcinoma]], [[gastric-intestinal-metaplasia]], [[esophageal-cancer]], [[esophageal-adenocarcinoma]], [[colorectal-cancer]], [[endoscopic-oncology]]
 
 ---
 

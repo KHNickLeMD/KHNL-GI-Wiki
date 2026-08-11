@@ -70,7 +70,7 @@ The hamartomatous syndromes (PJS, JPS, Cowden) each receive dedicated guidance o
 - Surveillance: [[colonoscopy]] + [[upper-endoscopy|EGD]] + [[capsule-endoscopy|video capsule endoscopy]] all starting age 8 (if polyps found repeat q3y; if none, repeat at age 18 then q3y) (Table 10)
 - Pancreas: MRCP or [[endoscopic-ultrasound|EUS]] starting age 30, q1–2y
 - Breast: MRI ± mammogram from age 25 annually
-- Treatment: endoscopic [[polypectomy-emr|polypectomy]]; colectomy/IRA if polyps uncontrolled; intussusception is major complication (median age 16 years)
+- Treatment: endoscopic [[polypectomy]]; colectomy/IRA if polyps uncontrolled; intussusception is major complication (median age 16 years)
 - Everolimus (mTOR inhibitor) under study as chemopreventive agent
 
 **Juvenile Polyposis Syndrome (JPS)**

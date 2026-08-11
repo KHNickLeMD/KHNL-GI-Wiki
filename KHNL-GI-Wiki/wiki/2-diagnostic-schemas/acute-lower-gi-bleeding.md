@@ -46,7 +46,7 @@ If [[upper-gi-bleeding|UGIB]] is clinically suspected, perform **urgent [[upper-
 | **[[hemorrhoids\|Hemorrhoids]] (internal)**   | Common but often low-volume; not covered by this schema                                                                                     |
 | **[[angioectasia\|Angioectasias]] (AVMs)**     | Typically older patients; often right colon; associated with anticoagulant use, chronic kidney disease, aortic stenosis ([[heydes-syndrome\|Heyde syndrome]])    |
 | **Colorectal neoplasia**     | Malignant lesions found in 2.5% of LGIB colonoscopies; weight loss, anemia, change in bowel habits are alarm features                       |
-| **Postpolypectomy bleeding** | Immediate or delayed (up to 2 weeks); see [[polypectomy-emr]]                                                                               |
+| **Postpolypectomy bleeding** | Immediate or delayed (up to 2 weeks); see [[polypectomy]]                                                                               |
 
 ### Colitis Subtypes
 
@@ -321,7 +321,7 @@ Scores supplement but do not replace clinical judgment. Low-risk patients (Oakla
 
 ## See Also
 
-[[upper-gi-bleeding]], [[variceal-upper-gi-bleeding]], [[small-bowel-bleeding]], [[colonoscopy]], [[colon-ischemia]], [[angioectasia]], [[hemorrhoids]], [[heydes-syndrome]], [[colorectal-cancer]], [[inflammatory-bowel-disease]], [[polypectomy-emr]], [[anticoagulation-gi-bleeding]]
+[[upper-gi-bleeding]], [[variceal-upper-gi-bleeding]], [[small-bowel-bleeding]], [[colonoscopy]], [[colon-ischemia]], [[angioectasia]], [[hemorrhoids]], [[heydes-syndrome]], [[colorectal-cancer]], [[inflammatory-bowel-disease]], [[polypectomy]], [[anticoagulation-gi-bleeding]]
 
 ---
 

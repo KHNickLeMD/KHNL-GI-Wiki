@@ -57,7 +57,7 @@ The goal of EET is **CE-IM** — absence of endoscopically visible BE plus no in
 
 - Updates [[barretts-esophagus]] therapeutics: screening-independent dysplasia management — expert pathology confirmation, EET indications by grade, EMR-first for visible lesions, focal EMR + ablation over complete EMR, EET over esophagectomy for HGD/IMC, post-CE-IM surveillance.
 - Anchors [[endoscopic-eradication-therapy]] (EET technique, RFA/cryotherapy, CE-IM goal, adverse-event rates, recurrence).
-- Cross-links to [[radiofrequency-ablation|RFA]], [[polypectomy-emr|EMR]], [[esophageal-adenocarcinoma]], [[upper-endoscopy]].
+- Cross-links to [[radiofrequency-ablation|RFA]], [[endoscopic-mucosal-resection|EMR]], [[esophageal-adenocarcinoma]], [[upper-endoscopy]].
 
 ## Contradictions / Open Questions
 
@@ -67,4 +67,4 @@ The goal of EET is **CE-IM** — absence of endoscopically visible BE plus no in
 
 ## See Also
 
-[[barretts-esophagus]], [[endoscopic-eradication-therapy]], [[radiofrequency-ablation]], [[polypectomy-emr]], [[esophageal-adenocarcinoma]], [[upper-endoscopy]], [[asge-2019-barretts-screening-surveillance]], [[acg-2022-barretts]], [[aga-2024-barretts-eet]], [[aga-2025-barretts-surveillance]]
+[[barretts-esophagus]], [[endoscopic-eradication-therapy]], [[radiofrequency-ablation]], [[polypectomy]], [[esophageal-adenocarcinoma]], [[upper-endoscopy]], [[asge-2019-barretts-screening-surveillance]], [[acg-2022-barretts]], [[aga-2024-barretts-eet]], [[aga-2025-barretts-surveillance]]

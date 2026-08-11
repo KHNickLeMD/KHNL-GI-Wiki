@@ -42,7 +42,7 @@ Management is stage-based: endoscopic resection for selected early (T1) cancers 
 ## Relevance to Wiki
 
 - Updates [[colorectal-cancer]] (disease script) — adds the NCCN oncologic systemic-therapy framework (universal MMR/MSI, RAS/BRAF/HER2/NTRK/DPYD biomarkers, adjuvant FOLFOX/CAPOX with IDEA duration, biomarker- and sidedness-directed metastatic therapy) and an original algorithm recreation. **Additive only** — the page's extensive ACG/USMSTF screening and post-resection-surveillance content remains primary.
-- Connects to [[lynch-syndrome]] (universal MMR testing), [[colonoscopy]] and [[polypectomy-emr]] (diagnosis/early resection), and the hereditary-syndrome pages already cross-linked from the CRC page.
+- Connects to [[lynch-syndrome]] (universal MMR testing), [[colonoscopy]] and [[polypectomy]] (diagnosis/early resection), and the hereditary-syndrome pages already cross-linked from the CRC page.
 
 ## Contradictions / Open Questions
 

@@ -135,7 +135,7 @@ Low-dose aspirin for CRC chemoprevention in adults aged **50–69** with:
 
 ## See Also
 
-[[colonoscopy]], [[colorectal-cancer]], [[lynch-syndrome]], [[polypectomy-emr]], [[colonoscopy-surveillance]], [[familial-adenomatous-polyposis]], [[capsule-endoscopy]], [[serrated-polyposis-syndrome]], [[artificial-intelligence-endoscopy]]
+[[colonoscopy]], [[colorectal-cancer]], [[lynch-syndrome]], [[polypectomy]], [[colonoscopy-surveillance]], [[familial-adenomatous-polyposis]], [[capsule-endoscopy]], [[serrated-polyposis-syndrome]], [[artificial-intelligence-endoscopy]]
 
 ---
 

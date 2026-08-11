@@ -85,7 +85,7 @@ Does NOT apply to: IBD, hereditary syndromes ([[lynch-syndrome|Lynch]], [[famili
 | Tubulovillous or villous histology | 3 y |
 | High-grade dysplasia | 3 y |
 | >10 adenomas on single exam | 1 y; consider genetic testing |
-| Piecemeal resection of adenoma ≥20mm | 6 mo → then see [[polypectomy-emr]] |
+| Piecemeal resection of adenoma ≥20mm | 6 mo → then see [[polypectomy]] |
 
 ### Serrated Polyps
 
@@ -121,7 +121,7 @@ Does NOT apply to: IBD, hereditary syndromes ([[lynch-syndrome|Lynch]], [[famili
 
 ## Polypectomy — Quick Reference
 
-For detailed technique, see [[polypectomy-emr]].
+For detailed technique, see [[polypectomy]].
 
 | Lesion | Method |
 |---|---|
@@ -138,7 +138,7 @@ For detailed technique, see [[polypectomy-emr]].
 
 ## Complications
 
-- **Perforation:** ~1:1000; right colon highest risk with EMR/[[endoscopic-submucosal-dissection|ESD]]
+- **Perforation:** ~1:1000; right colon highest risk with EMR/[[colorectal-esd|ESD]]
 - **Post-polypectomy bleeding:** immediate or delayed (up to 30d); risk higher with large lesions, right colon, antithrombotics
 - **Coagulation syndrome (post-polypectomy syndrome):** fever, localized pain without free air — manage conservatively
 - **Inadequate prep:** document; consider same-day or next-day repeat if unable to visualize >5mm polyps
@@ -261,7 +261,7 @@ High-risk = any of: surgery without TME; transanal local excision (TAE or TEM); 
 
 ## See Also
 
-[[colorectal-cancer]], [[colorectal-cancer-screening]], [[colonoscopy-surveillance]], [[polypectomy-emr]], [[endoscopic-submucosal-dissection]], [[lynch-syndrome]], [[familial-adenomatous-polyposis]], [[serrated-polyposis-syndrome]], [[inflammatory-bowel-disease]], [[ulcerative-colitis]]
+[[colorectal-cancer]], [[colorectal-cancer-screening]], [[colonoscopy-surveillance]], [[polypectomy]], [[colorectal-esd]], [[lynch-syndrome]], [[familial-adenomatous-polyposis]], [[serrated-polyposis-syndrome]], [[inflammatory-bowel-disease]], [[ulcerative-colitis]]
 
 ---
 

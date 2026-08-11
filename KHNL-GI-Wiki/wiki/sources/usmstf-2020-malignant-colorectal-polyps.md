@@ -21,7 +21,7 @@ sources: []
 
 ## Summary
 
-Malignant colorectal polyps are defined as colorectal lesions with neoplastic invasion of the submucosa without extension into the muscularis propria (pT1). The prevalence of cancer in colorectal polyps ranges from 0.2% to 5%. This guideline addresses three tasks: (1) endoscopic recognition of colorectal polyps with deep submucosal invasion that should be referred directly to surgery; (2) optimal endoscopic resection techniques and specimen handling when superficial submucosal invasion is suspected; and (3) histologic risk stratification after [[polypectomy-emr|polypectomy]] to guide surgical vs. surveillance management.
+Malignant colorectal polyps are defined as colorectal lesions with neoplastic invasion of the submucosa without extension into the muscularis propria (pT1). The prevalence of cancer in colorectal polyps ranges from 0.2% to 5%. This guideline addresses three tasks: (1) endoscopic recognition of colorectal polyps with deep submucosal invasion that should be referred directly to surgery; (2) optimal endoscopic resection techniques and specimen handling when superficial submucosal invasion is suspected; and (3) histologic risk stratification after [[polypectomy]] to guide surgical vs. surveillance management.
 
 The guideline uses GRADE methodology adapted for the USMSTF, with evidence grades A (high), B (moderate), C (low), and D (very low). The document organizes its guidance around six key questions (KQs) with specific numbered recommendations. A companion document addresses optimal resection techniques for large and potentially malignant polyps; this document excludes polyps in inflammatory bowel disease.
 
@@ -251,7 +251,7 @@ Deep submucosal invasion (≥1 mm, "SM2/SM3") carries a 10–18% risk of residua
 
 ## Relevance to Wiki
 
-- **[[polypectomy-emr]]** — Updated with comprehensive malignant polyp section: Haggitt/Kikuchi staging systems, NICE/JNET/Kudo classification for predicting deep SMI, favorable vs. unfavorable histologic criteria, en bloc resection criteria, surgical referral thresholds, specimen handling standards.
+- **[[polypectomy]]** — Updated with comprehensive malignant polyp section: Haggitt/Kikuchi staging systems, NICE/JNET/Kudo classification for predicting deep SMI, favorable vs. unfavorable histologic criteria, en bloc resection criteria, surgical referral thresholds, specimen handling standards.
 - **[[colorectal-cancer]]** — Relevant to pT1 cancer management; Haggitt/Kikuchi staging bridges polypectomy and surgical oncology.
 - **[[colorectal-cancer-screening]]** — Context for polyp malignancy prevalence (0.2–5%) and post-polypectomy decision-making.
 - **[[endoscopic-ultrasound]]** — EUS is referenced as a tool for rectal cancer local staging; mentioned in the companion USMSTF 2015 surveillance document for post-resection rectal surveillance.
@@ -270,4 +270,4 @@ Deep submucosal invasion (≥1 mm, "SM2/SM3") carries a 10–18% risk of residua
 
 ## See Also
 
-[[polypectomy-emr]], [[colorectal-cancer]], [[colorectal-cancer-screening]], [[endoscopic-ultrasound]], [[lynch-syndrome]]
+[[polypectomy]], [[colorectal-cancer]], [[colorectal-cancer-screening]], [[endoscopic-ultrasound]], [[lynch-syndrome]]

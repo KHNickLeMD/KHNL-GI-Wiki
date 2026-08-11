@@ -1,13 +1,15 @@
 ---
-title: "Polypectomy and EMR (Colorectal)"
-category: advanced-procedure
-tags: [polypectomy, emr, esd, cold-snare, colonoscopy, colorectal, advanced-polypectomy, malignant-polyp, submucosal-invasion, haggitt, kikuchi, tumor-budding, lymphovascular-invasion]
+title: "Polypectomy (Colorectal)"
+category: general-procedure
+tags: [polypectomy, cold-snare, colonoscopy, colorectal, paris-classification, nice-classification, malignant-polyp, submucosal-invasion, haggitt, kikuchi, tumor-budding, lymphovascular-invasion]
 created: 2026-05-07
-updated: 2026-07-28
-sources: [usmstf-2020-endoscopic-removal, asge-2020-endoscopic-removal, usmstf-2020-malignant-colorectal-polyps, usmstf-2020-followup-colonoscopy, aga-2025-lifting-agents, aga-2025-endoscopic-resection-crc, aga-2024-tailored-polypectomy]
+updated: 2026-08-11
+sources: [usmstf-2020-endoscopic-removal, asge-2020-endoscopic-removal, usmstf-2020-malignant-colorectal-polyps, aga-2024-tailored-polypectomy]
 ---
 
-# Polypectomy and Endoscopic Mucosal Resection (Colorectal)
+# Polypectomy (Colorectal)
+
+Optical assessment and removal of colorectal polyps at [[colonoscopy]] — the technique choice that follows from lesion size, morphology, and suspected depth of invasion, plus recognition and management of the malignant polyp. Larger and more complex lesions are resected by [[endoscopic-mucosal-resection|EMR]] or [[colorectal-esd|ESD]].
 
 ---
 
@@ -90,7 +92,7 @@ sources: [usmstf-2020-endoscopic-removal, asge-2020-endoscopic-removal, usmstf-2
 ### 10–19mm Non-Pedunculated
 
 - Cold or hot snare ± submucosal injection
-- **EMR preferred** for:
+- **[[endoscopic-mucosal-resection|EMR]] preferred** for:
   - Non-polypoid lesions (0-IIa, 0-IIb, 0-IIc)
   - Serrated lesions (SSPs, TSA) — high incomplete resection with conventional polypectomy
   - LSTs
@@ -114,7 +116,7 @@ sources: [usmstf-2020-endoscopic-removal, asge-2020-endoscopic-removal, usmstf-2
 
 - **Right colon:** Higher perforation risk; prefer cold snare when feasible; CO2 insufflation mandatory; clip defects ≥20mm prophylactically
 - **Difficult positions (folds, flexures, ileocecal valve):** Consider cap-assisted [[colonoscopy]], position change, water-jet assisted technique; partial resection plus avulsion acceptable if full snare not achievable
-- **Rectal lesions:** [[endoscopic-submucosal-dissection|ESD]] more often feasible given straight working channel; consider peri-anal approach for very distal lesions
+- **Rectal lesions:** [[colorectal-esd|ESD]] more often feasible given straight working channel; consider peri-anal approach for very distal lesions
 
 ### Tailored Technique Selection ([[aga-2024-tailored-polypectomy|AGA 2024 CPU]])
 
@@ -133,81 +135,8 @@ Structured optical assessment (Paris/NICE/WASP/Kudo/JNET — see [[#Optical Diag
 | **Nonpedunculated with clear SMIC** | **Surgical** evaluation (BPA 11) |
 
 - **Intermediate-size RCT data:** complete resection CSP 81.6% / c-EMR 94.1% / hot-EMR 95.5% (6–20 mm); immediate bleeding higher with cold, delayed bleeding higher with hot. SSLs ≥10 mm resect cold with practically no upper size limit (recurrence 0–10%, no perforations; c-EMR vs h-EMR eliminates the ~5% bleeding / ~3% deep-mural-injury of hot).
-- **Prophylactic clips (BPA 8):** do **not** routinely clip resection sites for polyps **<20 mm** — benefit is limited to **≥20 mm proximal-colon** lesions (individual-patient-data meta-analysis: 38% ↓ delayed bleeding, adjusted OR 0.62). Serrated polyps have low bleeding risk and don't need clipping. *(Consistent with the ≥20 mm / right-colon clipping guidance in [[#Post-Resection]].)*
+- **Prophylactic clips (BPA 8):** do **not** routinely clip resection sites for polyps **<20 mm** — benefit is limited to **≥20 mm proximal-colon** lesions (individual-patient-data meta-analysis: 38% ↓ delayed bleeding, adjusted OR 0.62). Serrated polyps have low bleeding risk and don't need clipping. *(Consistent with the ≥20 mm / right-colon clipping guidance on [[endoscopic-mucosal-resection]].)*
 - **Electrosurgical generator (BPA 12):** know your suite's ESG settings for polypectomy and post-polypectomy thermal techniques.
-
----
-
-## EMR Technique
-
-### Inject-and-Cut (Standard)
-
-1. Submucosal injection to lift lesion
-2. Snare capture and resection
-
-**Injectants:**
-
-- Viscous solution preferred for ≥20mm: fewer pieces, faster (hydroxyethyl starch, Eleview, ORISE Gel)
-- Add indigo carmine or methylene blue for tissue plane visualization
-- Normal saline: acceptable, dissipates quickly
-- Do NOT use tattoo (carbon particles) as injectant — causes submucosal fibrosis
-
-**Electrosurgery settings (ERBE):** Endocut Q 2/3 1 4 for inject-and-cut EMR
-
-### Post-Resection
-
-- Ablate EMR margins (APC or snare tip soft coagulation) after complete visual resection → reduces recurrence
-- Do NOT ablate visible residual tissue → increased recurrence
-- Inspect defect for perforation features; clip close if risk present
-- Right colon defects ≥20mm: prophylactic clip closure when feasible
-- Intraprocedural bleeding: coagulation forceps / snare-tip soft coag / clips ± dilute epinephrine
-- **Post-polypectomy bleeding benchmark:** Delayed bleeding rate for EMR ≥20mm should be <5% (quality benchmark); hot snare polypectomy ≤9mm benchmark <1%
-- **Prophylactic vessel coagulation (hot forceps / soft coag to visible vessels in defect):** One RCT showed no reduction in delayed post-polypectomy bleeding compared with no prophylactic treatment — routine coagulation of non-bleeding vessels is NOT recommended
-
-### Underwater EMR
-
-- Water immersion instead of submucosal injection; mucosa/submucosa involute, MP remains circular
-- Avoids injection step; useful for flat lesions, some right colon lesions
-- Delayed bleeding 2–5%; 1 case report perforation with retroflexion
-- **Recurrence data:** Underwater EMR recurrence rates 7–15% for ≥20mm lesions (comparable to inject-and-cut EMR); insufficient data to prefer one over the other
-
-### Cold Snare EMR
-
-- Submucosal injection + snare resection without electrocautery
-- Minimizes delayed bleeding and perforation risk
-- Promising for SSPs ≥10mm; long-term data pending
-- **Recurrence data:** Limited data; one RCT showed recurrence rate 7.4% at 6 months for ≥20mm adenomas — similar to hot EMR; delayed bleeding near 0%
-
-### Hot Avulsion Technique
-
-- For small (<10mm) residual or recurrent tissue at EMR scars not amenable to snare resection
-- Technique: grasp with coagulation forceps, tent tissue, apply coagulation current while avulsing
-- Used at surveillance visits; can be combined with snare-tip soft coagulation of remaining margin
-- Also known as "avulsion with soft coagulation" or "hot avulsion"
-
----
-
-## ESD and Hybrid ESD
-
-### Colorectal ESD Indications (limited)
-
-- ≥20mm lesions with suspected superficial SMI (not deep) not amenable to en bloc EMR
-- Mucosal lesions with submucosal fibrosis
-- Local residual/recurrent early carcinoma after prior endoscopic resection
-- Colitis-associated dysplasia (non-polypoid)
-
-### Hybrid ESD
-
-- Partial submucosal dissection + en bloc snare resection
-- Bridge between EMR and full ESD; useful for fibrotic lesions
-
-### Endoscopic Full-Thickness Resection (eFTR)
-
-- For lesions <30mm, especially non-lifting or involving diverticulum
-- Uses full-thickness resection device (OTSC clip system)
-- Allows complete histologic assessment
-- **R0 resection rates:** ~77–80% in published series (histologically complete resection with clear deep and lateral margins); lower for larger lesions (>20mm)
-- Useful for non-lifting adenomas after failed EMR where surgical risk is high
 
 ---
 
@@ -222,7 +151,7 @@ Structured optical assessment (Paris/NICE/WASP/Kudo/JNET — see [[#Optical Diag
 
 ## Malignant Polyp Recognition and Management
 
-*Source: [[usmstf-2020-malignant-colorectal-polyps]]. See also [[colorectal-cancer]], [[colorectal-cancer-screening]], [[endoscopic-ultrasound]], [[lynch-syndrome]].*
+*Source: [[usmstf-2020-malignant-colorectal-polyps]]. See also [[colorectal-cancer]], [[colorectal-cancer-screening]], [[endoscopic-ultrasound]], [[lynch-syndrome]]. For en-bloc modality choice and curative-resection criteria in early (T1) CRC, see [[colorectal-esd]].*
 
 ### Definition
 
@@ -276,7 +205,7 @@ A **malignant polyp** is a colorectal polyp with neoplastic invasion of the subm
 - For LST-G with dominant nodule: at minimum, resect the nodule *en bloc*.
 - All pedunculated polyps (even large): resect *en bloc* regardless of size.
 - *En bloc* resection enables accurate pathologic assessment of depth of invasion and margins.
-- If *en bloc* beyond local expertise, refer to dedicated center with advanced endoscopic skills; ESD achieves highest *en bloc* rates.
+- If *en bloc* beyond local expertise, refer to dedicated center with advanced endoscopic skills; [[colorectal-esd|ESD]] achieves highest *en bloc* rates.
 
 ### Haggitt Classification (Pedunculated Polyps)
 
@@ -331,6 +260,8 @@ After endoscopic resection reveals a malignant polyp, histologic features determ
 
 **Recommendation 4b (Strong; moderate evidence):** Pedunculated malignant polyps should be considered at high risk of residual or recurrent cancer if they have any of: poor tumor differentiation, lymphovascular invasion, or tumor within 1 mm of the resection margin.
 
+*Deep SMI as a **solitary** adverse feature has been reappraised — see [[colorectal-esd]].*
+
 ### Specimen Handling for Potentially Malignant Polyps
 
 **Recommendation 3 / 4a (Weak; low-quality evidence):** Specimens with features associated with submucosally invasive cancer that are removed *en bloc* should be handled to optimize specimen orientation and pathologic assessment.
@@ -361,56 +292,6 @@ After endoscopic resection reveals a malignant polyp, histologic features determ
 
 ---
 
-## Early (T1) CRC — Endoscopic Resection (AGA 2025 CPU)
-
-*Source: [[aga-2025-endoscopic-resection-crc]]. T1 CRC = invasion through muscularis mucosae into submucosa, without muscularis propria invasion ("malignant polyp"). Without SMI the word "cancer" should be avoided (no LNM risk for intramucosal/in-situ adenocarcinoma).*
-
-### En-Bloc Imperative and Modality Choice
-
-- Suspected T1 CRC should ideally be removed **en bloc** (USMSTF/ESGE/JGES). Piecemeal resection impairs histologic assessment and is itself an **independent risk factor for luminal recurrence**; NCCN states piecemeal-removed T1 inevitably requires adjuvant surgery.
-- **[[endoscopic-submucosal-dissection|ESD]] is often preferred** for suspected superficially invasive T1 CRC — higher en-bloc rate than EMR irrespective of size. Limited by complexity, learning curve, and inability to confidently resect deep SMI; may not be widely available in the community.
-- **[[endoscopic-full-thickness-resection|eFTR]]** is a reasonable alternative for select T1 CRC **<2 cm** where deep SMI is suspected.
-- Where optical diagnosis is unclear or CRC is highly suspected, refer to a high-volume center with resection and pathology expertise. Real-world optical-diagnosis sensitivity for T1 CRC is often only 40%–50%.
-
-### Unified Curative-Resection Criteria (USMSTF / ESGE / JGES) — ALL five required
-
-1. Complete resection with histopathologic margins free of tumor
-2. Superficial SMI (<1000 μm)
-3. Absence of [[colorectal-cancer|lymphovascular invasion]] (LVI)
-4. Well-to-moderately differentiated histology (G1/G2)
-5. Low or absent tumor budding
-
-### Deep SMI — Solitary Risk Reappraised
-
-- Deep SMI (≥1000 μm) has traditionally triggered surgery, but emerging data downgrade it **as a solitary criterion**: >95% of patients with deep SMI as the *only* high-risk feature have no LNM.
-- Meta-analysis (Zwager et al, 8 studies, 1146 pts): SMI as a solitary risk factor → absolute LNM risk **2.6%** (pooled incidence 2.83; 95% CI 1.66–4.78); deep SMI was **not** an independent predictor of LNM; 37.9% of deep-SMI cancers had no other high-risk feature.
-- Operative reference: in 5170 surgical T1 CRC pts, 30-day mortality 1.7%, severe adverse events 8.3% — supporting individualized, organ-preserving decisions over automatic surgery.
-- *Contrasts with the historical "≥1 mm = unfavorable → surgery" framing in the table above; the 2025 CPU supports individualized decisions, especially when deep SMI is the only adverse feature.*
-
-### Surveillance After Endoscopic Resection of T1 CRC
-
-| Risk group | Recurrence | Approach |
-|---|---|---|
-| Low-risk (curative resection) | ~0.7% | [[colonoscopy-surveillance\|Surveillance colonoscopy]] alone (no nodal/distant imaging); within 1 year (JSCCR/ESGE/NCCN) |
-| High-risk (noncurative) | ~7.0% | Surgery is standard of care; individualize (>80% of "high-risk" have no LNM at surgery) |
-
-- Timing of recurrences: 60% within 36 months, 96% within 72 months.
-- **Rectal** T1 CRC: higher local-recurrence and LNM risk than colon, but rectal surgery is more morbid → favor organ-preserving options and consider sooner/more frequent surveillance (NCCN recommends more frequent surveillance for rectal than colon).
-- **R1/Rx margins without other risk factors:** intramural residual cancer risk 5%–11%, LNM 8%–9%. ESGE/JSCCR recommend endoscopic surveillance at 3–6 months for isolated lateral margin positivity. **Full-thickness scar resection** (eFTR / TAMIS / combined endoscopic-laparoscopic) is an emerging alternative to completion surgery — retrospective long-term data: recurrence 2.2% (adjuvant surgery) vs 9.0% (eFTR) with similar 5-year metastasis-free and overall survival.
-
----
-
-## Post-EMR Surveillance (Piecemeal, ≥20mm)
-
-- **6 months** (first surveillance)
-- **1 year**
-- **3 years**
-- Each visit: enhanced imaging (chromoendoscopy or NBI) of scar site + targeted biopsies
-- Scar with normal macroscopic AND microscopic (biopsy) findings = highest predictive value for eradication
-- Recurrence: repeat EMR or avulsion ± margin ablation → 6–12 mo until clear → then 1y, 3y
-
----
-
 ## Quality Standards
 
 - Endoscopy first-line for all benign colorectal lesions; refer to advanced endoscopist (not surgery) when unable to remove confidently
@@ -425,20 +306,9 @@ After endoscopic resection reveals a malignant polyp, histologic features determ
 
 ---
 
-### Submucosal Lifting Agents ([[aga-2025-lifting-agents|AGA 2025 CPU]])
-
-- Injection creates a cushion separating the lesion from the **muscularis propria (MP)**; adding a **blue contrast** (indigo carmine or methylene blue) demarcates margins and reveals MP injury during EMR.
-- **Saline ± contrast ("homemade") remains acceptable**; saline dissipates fast, prompting viscous/FDA-approved agents. Saline was non-inferior to other injection-based methods for relevant outcomes.
-- **Sessile serrated lesions** lift well with **any** agent (incl. saline) given minimal fibrosis.
-- **ESD requires submucosal injection** regardless of agent; avoid intralesional injection during ESD (obscuring bleeding). [[poem|POEM]] typically uses normal saline.
-- Add **dilute epinephrine** for cold EMR / EMR with electrocautery to reduce bleeding.
-- Technique: prime needle (avoid air); **dynamic injection** shapes the mound and maximizes MP separation; serial inject-and-snare for large lesions. Papillectomy generally needs no injection.
-
----
-
 ## See Also
 
-[[colonoscopy]], [[colonoscopy-surveillance]], [[colorectal-cancer]], [[colorectal-cancer-screening]], [[endoscopic-submucosal-dissection]], [[endoscopic-full-thickness-resection]], [[endoscopic-ultrasound]], [[lynch-syndrome]], [[poem]]
+[[colonoscopy]], [[colonoscopy-surveillance]], [[endoscopic-mucosal-resection]], [[colorectal-esd]], [[endoscopic-full-thickness-resection]], [[colorectal-cancer]], [[colorectal-cancer-screening]], [[endoscopic-ultrasound]], [[lynch-syndrome]]
 
 ---
 
@@ -447,7 +317,4 @@ After endoscopic resection reveals a malignant polyp, histologic features determ
 1. [[usmstf-2020-endoscopic-removal|USMSTF 2020: Endoscopic Removal of Colorectal Lesions]]
 2. [[asge-2020-endoscopic-removal|ASGE 2020: Endoscopic Removal of Colorectal Lesions]]
 3. [[usmstf-2020-malignant-colorectal-polyps|USMSTF 2020: Endoscopic Recognition and Management Strategies for Malignant Colorectal Polyps]]
-4. [[usmstf-2020-followup-colonoscopy|USMSTF 2020: Recommendations for Follow-Up After Colonoscopy and Polypectomy]]
-5. [[aga-2025-lifting-agents|AGA Clinical Practice Update on Endoscopic Lifting Agents: Commentary (2025)]]
-6. [[aga-2025-endoscopic-resection-crc|AGA Clinical Practice Update on Endoscopic Resection for Early Colorectal Cancer: Commentary (2025)]]
-7. [[aga-2024-tailored-polypectomy|AGA Clinical Practice Update on Appropriate and Tailored Polypectomy: Expert Review (2024)]]
+4. [[aga-2024-tailored-polypectomy|AGA Clinical Practice Update on Appropriate and Tailored Polypectomy: Expert Review (2024)]]

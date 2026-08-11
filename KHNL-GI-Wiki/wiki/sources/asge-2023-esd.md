@@ -43,4 +43,4 @@ ESD enables en-bloc, curative resection of early luminal cancers and is preferre
 
 ## See Also
 
-[[endoscopic-oncology]], [[gastric-adenocarcinoma]], [[barretts-esophagus]], [[polypectomy-emr]]
+[[endoscopic-oncology]], [[gastric-adenocarcinoma]], [[barretts-esophagus]], [[polypectomy]], [[endoscopic-mucosal-resection]]

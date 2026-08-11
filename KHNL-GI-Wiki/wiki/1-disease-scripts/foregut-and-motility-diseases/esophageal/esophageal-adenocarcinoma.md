@@ -16,7 +16,7 @@ Esophageal adenocarcinoma (EAC) is a cancer of the distal esophagus/EGJ arising 
 ### Establishing the Diagnosis
 
 - Detected either on **[[barretts-esophagus|Barrett's surveillance]]** (early lesion, often subtle or endoscopically invisible) or symptomatically — solid-food [[dysphagia]], weight loss, odynophagia, [[iron-deficiency-anemia|iron-deficiency anemia]] (alarm features → prompt [[upper-endoscopy|EGD]] with biopsy).
-- Diagnosis is histologic. **[[polypectomy-emr|Endoscopic mucosal resection]] (EMR) of any visible lesion is the local staging step** — it yields a deep specimen (to muscularis mucosa/submucosa), changing the histologic stage in ~39% of cases (mostly upstaging) and management in ~30% ([[asge-2018-barretts-eet]]). Resect all visible lesions (nodularity, ulceration, plaque, depression, discoloration) "no matter how subtle."
+- Diagnosis is histologic. **[[endoscopic-mucosal-resection|Endoscopic mucosal resection]] (EMR) of any visible lesion is the local staging step** — it yields a deep specimen (to muscularis mucosa/submucosa), changing the histologic stage in ~39% of cases (mostly upstaging) and management in ~30% ([[asge-2018-barretts-eet]]). Resect all visible lesions (nodularity, ulceration, plaque, depression, discoloration) "no matter how subtle."
 
 ### Severity Assessment (Depth of Invasion → LN-metastasis risk)
 
@@ -72,7 +72,7 @@ Stage-directed; depth of invasion is the pivot.
 
 ## See Also
 
-[[barretts-esophagus]], [[esophageal-cancer]], [[endoscopic-eradication-therapy]], [[gerd]], [[dysphagia]], [[upper-endoscopy]], [[endoscopic-ultrasound]], [[polypectomy-emr]]
+[[barretts-esophagus]], [[esophageal-cancer]], [[endoscopic-eradication-therapy]], [[gerd]], [[dysphagia]], [[upper-endoscopy]], [[endoscopic-ultrasound]], [[polypectomy]]
 
 ---
 

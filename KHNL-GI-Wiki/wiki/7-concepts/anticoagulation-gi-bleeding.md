@@ -129,8 +129,8 @@ The periendoscopic framework applies to patients undergoing **scheduled, electiv
 
 | High bleeding risk (30-day major bleed >2%) | Low/moderate bleeding risk (≤2%) |
 |---|---|
-| [[polypectomy-emr\|Polypectomy ≥1 cm]] | [[upper-endoscopy\|EGD]] ± biopsy |
-| EMR / [[endoscopic-submucosal-dissection\|ESD]] | [[colonoscopy\|Colonoscopy]] ± biopsy |
+| [[polypectomy\|Polypectomy ≥1 cm]] | [[upper-endoscopy\|EGD]] ± biopsy |
+| EMR / [[colorectal-esd\|ESD]] | [[colonoscopy\|Colonoscopy]] ± biopsy |
 | [[ercp\|ERCP]] with sphincterotomy | Flexible sigmoidoscopy ± biopsy |
 | [[endoscopic-ultrasound\|EUS-FNA]] | EUS without FNA |
 | PEG/PEJ placement | [[ercp\|ERCP]] with stent, without sphincterotomy |
@@ -281,7 +281,7 @@ Quick-reference duration-of-action, elective hold, and reversal by agent (ASGE 2
 
 ## See Also
 
-[[variceal-upper-gi-bleeding]], [[acute-lower-gi-bleeding]], [[colonoscopy]], [[upper-endoscopy]], [[polypectomy-emr]], [[endoscopic-ultrasound]], [[upper-gi-bleeding]], [[cirrhosis-hemostasis]], [[preprocedure-testing]], [[ercp]], [[endoscopic-submucosal-dissection]], [[poem]], [[radiofrequency-ablation]], [[capsule-endoscopy]]
+[[variceal-upper-gi-bleeding]], [[acute-lower-gi-bleeding]], [[colonoscopy]], [[upper-endoscopy]], [[polypectomy]], [[endoscopic-ultrasound]], [[upper-gi-bleeding]], [[cirrhosis-hemostasis]], [[preprocedure-testing]], [[ercp]], [[endoscopic-submucosal-dissection]], [[poem]], [[radiofrequency-ablation]], [[capsule-endoscopy]]
 
 ---
 

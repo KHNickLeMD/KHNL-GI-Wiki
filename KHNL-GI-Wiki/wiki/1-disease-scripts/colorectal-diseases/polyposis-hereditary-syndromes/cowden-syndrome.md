@@ -95,7 +95,7 @@ Cowden syndrome (CS), also called PTEN hamartoma tumor syndrome (PHTS), is cause
 
 - All surveillance recommendations are expert opinion-based, derived from analogous high-risk syndromes; no prospective studies define optimal intervals [[acg-2015-hereditary-gi-cancer]]
 - Manage symptomatic or large polyps endoscopically; refer for genetic testing and **family cascade screening**; coordinate the intensive extraintestinal surveillance (breast, thyroid, endometrial, renal) with the GI plan [[aga-2022-hamartomatous-polyposis]]
-- Colon polyp management: endoscopic [[polypectomy-emr|polypectomy]] for accessible lesions
+- Colon polyp management: endoscopic [[polypectomy]] for accessible lesions
 - No specific medical therapy for reducing polyp burden in CS is established
 
 ### Surgical Indications
@@ -113,7 +113,7 @@ Cowden syndrome (CS), also called PTEN hamartoma tumor syndrome (PHTS), is cause
 
 ## See Also
 
-[[juvenile-polyposis-syndrome]], [[peutz-jeghers-syndrome]], [[familial-adenomatous-polyposis]], [[lynch-syndrome]], [[colorectal-cancer]], [[colonoscopy]], [[upper-endoscopy]], [[polypectomy-emr]]
+[[juvenile-polyposis-syndrome]], [[peutz-jeghers-syndrome]], [[familial-adenomatous-polyposis]], [[lynch-syndrome]], [[colorectal-cancer]], [[colonoscopy]], [[upper-endoscopy]], [[polypectomy]]
 
 ---
 

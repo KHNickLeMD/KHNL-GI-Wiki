@@ -154,7 +154,7 @@ Key departure from the 2016 guideline: the panel now recommends **against urgent
 - For large right-colon angioectasias: submucosal fluid injection before APC to reduce perforation risk
 - Pooled recurrence risk after endoscopic treatment: 34%
 
-**Postpolypectomy bleeding:** (see also [[polypectomy-emr]])
+**Postpolypectomy bleeding:** (see also [[polypectomy]])
 
 - Colonoscopy indicated for ongoing bleeding with hemodynamic compromise
 - 43% of cases do not require endoscopic hemostasis (managed conservatively)
@@ -227,7 +227,7 @@ Key departure from the 2016 guideline: the panel now recommends **against urgent
 - Authoritative guidance on CTA-first vs. colonoscopy-first approach
 - Establishes that **urgent colonoscopy (<24h) is NOT standard of care** — paradigm shift from prior 2016 guideline
 - Relevant to management of anticoagulated patients with GIB across all etiologies
-- Directly relevant to diverticular disease, [[ulcerative-colitis]], [[crohns-disease]], and [[polypectomy-emr]] complication management
+- Directly relevant to diverticular disease, [[ulcerative-colitis]], [[crohns-disease]], and [[polypectomy]] complication management
 - Provides comparison context for [[variceal-upper-gi-bleeding]] (different pathophysiology, management, and urgency)
 
 ---
@@ -244,4 +244,4 @@ Key departure from the 2016 guideline: the panel now recommends **against urgent
 
 ## See Also
 
-[[crohns-disease]], [[ulcerative-colitis]], [[polypectomy-emr]], [[acute-lower-gi-bleeding]], [[variceal-upper-gi-bleeding]]
+[[crohns-disease]], [[ulcerative-colitis]], [[polypectomy]], [[acute-lower-gi-bleeding]], [[variceal-upper-gi-bleeding]]

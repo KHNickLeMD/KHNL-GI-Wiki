@@ -25,7 +25,7 @@ Radiofrequency ablation (RFA) delivers controlled thermal energy to destroy a th
 
 | Setting | Role | Source |
 |---|---|---|
-| Flat dysplastic BE (LGD, HGD); residual flat segment after [[polypectomy-emr\|EMR]] | Preferred ablative modality within [[endoscopic-eradication-therapy\|EET]] | [[asge-2018-barretts-eet]], [[acg-2022-barretts]], [[aga-2024-barretts-eet]] |
+| Flat dysplastic BE (LGD, HGD); residual flat segment after [[endoscopic-mucosal-resection\|EMR]] | Preferred ablative modality within [[endoscopic-eradication-therapy\|EET]] | [[asge-2018-barretts-eet]], [[acg-2022-barretts]], [[aga-2024-barretts-eet]] |
 | Non-dysplastic BE | **Not** routinely indicated (Rec 3, conditional) | [[aga-2024-barretts-eet]] |
 | Bleeding chronic radiation proctopathy | Suggested option alongside [[argon-plasma-coagulation\|APC]], bipolar electrocoagulation, heater probe — no modality shown superior (Rec 1) | [[asge-2019-radiation-proctopathy]] |
 | Unresectable malignant perihilar [[cholangiocarcinoma]] | **Intraductal RFA (or PDT) + plastic stent** over plastic stent alone (conditional, low) — survival advantage; plastic stent preferred over uncovered SEMS when ablative therapy is planned (Rec 9–10) | [[acg-2023-biliary-strictures]] |
@@ -39,7 +39,7 @@ Radiofrequency ablation (RFA) delivers controlled thermal energy to destroy a th
 
 ### Esophageal RFA
 
-- **Sequence: resect, then ablate.** All visible lesions are resected first ([[polypectomy-emr|EMR]] or [[endoscopic-submucosal-dissection|ESD]]); RFA treats the **remaining flat segment**. Full workflow: [[endoscopic-eradication-therapy]].
+- **Sequence: resect, then ablate.** All visible lesions are resected first ([[endoscopic-mucosal-resection|EMR]] or [[endoscopic-submucosal-dissection|ESD]]); RFA treats the **remaining flat segment**. Full workflow: [[endoscopic-eradication-therapy]].
 - **Catheter types:**
   - **Balloon-based (circumferential)** — long or circumferential segments.
   - **Focal** — short segments, tongues, islands, residual disease at follow-up sessions.
@@ -88,7 +88,7 @@ Pooled EET safety (RFA ± EMR; 37 studies, 9,200 patients — [[asge-2018-barret
 
 ## See Also
 
-[[endoscopic-eradication-therapy]], [[barretts-esophagus]], [[polypectomy-emr]], [[endoscopic-submucosal-dissection]], [[esophageal-adenocarcinoma]], [[radiation-proctopathy]], [[cholangiocarcinoma]], [[biliary-stricture]], [[ercp]], [[hepatocellular-carcinoma]], [[upper-endoscopy]], [[anticoagulation-gi-bleeding]]
+[[endoscopic-eradication-therapy]], [[barretts-esophagus]], [[polypectomy]], [[endoscopic-submucosal-dissection]], [[esophageal-adenocarcinoma]], [[radiation-proctopathy]], [[cholangiocarcinoma]], [[biliary-stricture]], [[ercp]], [[hepatocellular-carcinoma]], [[upper-endoscopy]], [[anticoagulation-gi-bleeding]]
 
 ---
 

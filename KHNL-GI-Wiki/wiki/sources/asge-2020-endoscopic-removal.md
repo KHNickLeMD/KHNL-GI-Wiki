@@ -29,7 +29,7 @@ The text, recommendations, evidence grades, and authorship are identical. The AS
 
 ## Summary
 
-Comprehensive multi-society consensus on optimal techniques for endoscopic removal of colorectal lesions. Covers lesion assessment (Paris classification, LST subtypes, optical diagnosis with NICE/Kudo/JNET), resection methods by lesion size and morphology, [[polypectomy-emr|EMR]] technique (inject-and-cut, underwater EMR, cold snare EMR), ESD and hybrid ESD, endoscopic full-thickness resection (eFTR), lesion marking and tattoo, post-EMR surveillance, and quality standards. Central thesis: endoscopy is first-line for all benign colorectal lesions, replacing surgical referral.
+Comprehensive multi-society consensus on optimal techniques for endoscopic removal of colorectal lesions. Covers lesion assessment (Paris classification, LST subtypes, optical diagnosis with NICE/Kudo/JNET), resection methods by lesion size and morphology, [[endoscopic-mucosal-resection|EMR]] technique (inject-and-cut, underwater EMR, cold snare EMR), ESD and hybrid ESD, endoscopic full-thickness resection (eFTR), lesion marking and tattoo, post-EMR surveillance, and quality standards. Central thesis: endoscopy is first-line for all benign colorectal lesions, replacing surgical referral.
 
 ## Complete Recommendations (Verbatim / Near-Verbatim)
 
@@ -170,7 +170,7 @@ Comprehensive multi-society consensus on optimal techniques for endoscopic remov
 
 ## Relevance to Wiki
 
-- Primary source for [[polypectomy-emr]] (advanced colorectal procedures)
+- Primary source for [[polypectomy]] (advanced colorectal procedures)
 - Companion/identical publication to [[usmstf-2020-endoscopic-removal]]
 - Supports [[colonoscopy]] — quality metrics, tattoo technique, surveillance
 
@@ -184,4 +184,4 @@ Comprehensive multi-society consensus on optimal techniques for endoscopic remov
 
 ## See Also
 
-[[usmstf-2020-endoscopic-removal]], [[polypectomy-emr]], [[colonoscopy]]
+[[usmstf-2020-endoscopic-removal]], [[polypectomy]], [[colonoscopy]]

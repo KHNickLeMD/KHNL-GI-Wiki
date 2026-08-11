@@ -34,7 +34,7 @@ Full-text extraction was not possible from the raw source (PDF not available; no
 ## Relevance to Wiki
 
 - Supports creation of [[endoscopic-oncology]] concept page
-- May overlap with [[endoscopic-ultrasound]], [[polypectomy-emr]], and advanced procedure pages as endoscopic oncology techniques are documented
+- May overlap with [[endoscopic-ultrasound]], [[polypectomy]], and advanced procedure pages as endoscopic oncology techniques are documented
 
 ## Contradictions / Open Questions
 
@@ -43,4 +43,4 @@ Full-text extraction was not possible from the raw source (PDF not available; no
 
 ## See Also
 
-[[endoscopic-oncology]], [[endoscopic-ultrasound]], [[polypectomy-emr]]
+[[endoscopic-oncology]], [[endoscopic-ultrasound]], [[polypectomy]]

@@ -30,7 +30,7 @@ Commentary on therapeutic endoscopy in IBD — strictures, fistulas/abscesses, a
 ## Relevance to Wiki
 - [[crohns-disease]] — strengthens the endoscopic stricture-dilation pathway and adds fistula endotherapy + periprocedural drug holds.
 - [[inflammatory-bowel-disease]], [[ulcerative-colitis]] — therapeutic-endoscopy role; dysplasia resection.
-- [[endoscopic-submucosal-dissection]], [[polypectomy-emr]] — resection of visible IBD-associated dysplasia.
+- [[colorectal-esd]], [[polypectomy]] — resection of visible IBD-associated dysplasia.
 
 ## Contradictions / Open Questions
 - Commentary (no formal ratings). Limited evidence on optimal stent type/dwell and on intralesional therapy adjuncts; balloon size not clearly linked to perforation risk.

@@ -35,7 +35,7 @@ EET is sequential: **resect, then ablate.** Routine complete EMR of the entire B
 ### Step 1 — Endoscopic Resection of Visible Lesions
 
 - **Resect ALL visible lesions** (nodularity, ulceration, plaque, depression, mucosal discoloration), no matter how subtle — strong recommendation (ASGE 2018 Rec 4). Resection always precedes ablation.
-- Diagnostic + therapeutic: [[polypectomy-emr|EMR]] provides a larger/deeper specimen (to muscularis mucosa/submucosa) and **changes the histologic diagnosis in ~39% of cases, usually upstaging**, altering management.
+- Diagnostic + therapeutic: [[endoscopic-mucosal-resection|EMR]] provides a larger/deeper specimen (to muscularis mucosa/submucosa) and **changes the histologic diagnosis in ~39% of cases, usually upstaging**, altering management.
 - **Multiband EMR** (preferred for most cases) or cap-assisted EMR — equivalent efficacy/safety.
 - **[[endoscopic-submucosal-dissection|ESD]]** for larger lesions unsuitable for en-bloc EMR, post-ablation scarring, or suspected submucosal invasion.
 - [[endoscopic-ultrasound|EUS]] is **not** routinely used to differentiate T1a vs T1b before resection ([[asge-2019-barretts-screening-surveillance|ASGE 2019]] Rec 5; EUS T1a/T1b sensitivity only 41%) — resection-based histology is the staging step.
@@ -93,7 +93,7 @@ High-volume centers with access to expert GI pathology, advanced imaging, EMR/ES
 
 ## See Also
 
-[[barretts-esophagus]], [[radiofrequency-ablation]], [[polypectomy-emr]], [[endoscopic-submucosal-dissection]], [[endoscopic-ultrasound]], [[esophageal-adenocarcinoma]], [[upper-endoscopy]], [[endoscopic-oncology]]
+[[barretts-esophagus]], [[radiofrequency-ablation]], [[polypectomy]], [[endoscopic-submucosal-dissection]], [[endoscopic-ultrasound]], [[esophageal-adenocarcinoma]], [[upper-endoscopy]], [[endoscopic-oncology]]
 
 ---
 

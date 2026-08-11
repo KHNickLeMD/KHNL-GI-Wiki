@@ -84,7 +84,7 @@ Juvenile polyposis syndrome (JPS) is an autosomal-dominant hamartomatous polypos
 
 ### Endoscopic Management
 
-- Endoscopic [[polypectomy-emr|polypectomy]] of all accessible polyps
+- Endoscopic [[polypectomy]] of all accessible polyps
 - Patients with limited numbers of polyps in any GI tract area can usually be managed with endoscopic polypectomy
 - Goal: control polyp burden and prevent complications (bleeding, intussusception, protein-losing enteropathy)
 
@@ -107,7 +107,7 @@ Juvenile polyposis syndrome (JPS) is an autosomal-dominant hamartomatous polypos
 
 ## See Also
 
-[[peutz-jeghers-syndrome]], [[familial-adenomatous-polyposis]], [[cowden-syndrome]], [[lynch-syndrome]], [[colorectal-cancer]], [[colonoscopy]], [[upper-endoscopy]], [[capsule-endoscopy]], [[gastric-adenocarcinoma]], [[hereditary-hemorrhagic-telangiectasia]], [[device-assisted-enteroscopy]], [[polypectomy-emr]]
+[[peutz-jeghers-syndrome]], [[familial-adenomatous-polyposis]], [[cowden-syndrome]], [[lynch-syndrome]], [[colorectal-cancer]], [[colonoscopy]], [[upper-endoscopy]], [[capsule-endoscopy]], [[gastric-adenocarcinoma]], [[hereditary-hemorrhagic-telangiectasia]], [[device-assisted-enteroscopy]], [[polypectomy]]
 
 ---
 

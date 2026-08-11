@@ -83,7 +83,7 @@ Describe every duodenal polyp by **(BPA 3):**
 | Lesion | Preferred technique | Key data |
 |---|---|---|
 | **Flat, nonbulky, <20 mm** (esp. with comorbidities) | **Piecemeal cold-snare (CS) resection** | Mitigates postprocedural bleeding; effective; **minimal recurrence** at this size. CS-EMR nearly eliminates bleeding (intraprocedural 2.0% vs 37%; postpolypectomy 4.0% vs 16.7% vs hot-snare) |
-| **>20 mm or large Paris subtype Is components** | **Conventional hot-snare [[polypectomy-emr\|EMR]]** + **thermal ablation of the post-EMR margin** | Margin ablation reduces recurrence to **<2%–5%**; safe and effective (EMR-T recurrence 2.3% vs 17.6% conventional EMR) |
+| **>20 mm or large Paris subtype Is components** | **Conventional hot-snare [[endoscopic-mucosal-resection\|EMR]]** + **thermal ablation of the post-EMR margin** | Margin ablation reduces recurrence to **<2%–5%**; safe and effective (EMR-T recurrence 2.3% vs 17.6% conventional EMR) |
 | ≤20 mm (alternative) | **Underwater EMR** | Recurrence 2%–3%, perforation <1%, delayed bleeding <2% |
 
 - **Recurrence:** conventional hot-snare EMR 10%–15% at 6 mo, size-dependent. **CS-EMR recurrence is higher for large lesions (24.4% vs 2.3%)** and is related to primary-lesion size — so CS is most attractive for lesions **<15 mm**, particularly with significant comorbidities.
@@ -132,7 +132,7 @@ Describe every duodenal polyp by **(BPA 3):**
 
 ## See Also
 
-[[ampullary-adenoma]], [[familial-adenomatous-polyposis]], [[peutz-jeghers-syndrome]], [[polypectomy-emr]], [[endoscopic-submucosal-dissection]], [[colonoscopy]], [[upper-endoscopy]], [[capsule-endoscopy]], [[subepithelial-lesion]], [[gastroenteropancreatic-neuroendocrine-tumors]]
+[[ampullary-adenoma]], [[familial-adenomatous-polyposis]], [[peutz-jeghers-syndrome]], [[polypectomy]], [[endoscopic-submucosal-dissection]], [[colonoscopy]], [[upper-endoscopy]], [[capsule-endoscopy]], [[subepithelial-lesion]], [[gastroenteropancreatic-neuroendocrine-tumors]]
 
 ---
 

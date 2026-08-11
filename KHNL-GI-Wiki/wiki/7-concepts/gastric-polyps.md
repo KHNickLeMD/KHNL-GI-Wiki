@@ -40,7 +40,7 @@ Different polyp types may **coexist** in the same patient (2%–3%) and each ass
 
 ## Resection
 
-- Techniques: snare and biopsy forceps, [[polypectomy-emr|endoscopic mucosal resection (EMR)]], or [[endoscopic-submucosal-dissection|ESD]].
+- Techniques: snare and biopsy forceps, [[endoscopic-mucosal-resection|endoscopic mucosal resection (EMR)]], or [[endoscopic-submucosal-dissection|ESD]].
 - With **numerous polyps of varied size**: resect the **largest** when possible; sample or resect the smaller ones.
 - Older size thresholds for polypectomy when feasible (ASGE 2015): **FGP ≥1 cm, hyperplastic ≥0.5 cm, adenoma of any size**; with multiple hyperplastic/adenomatous polyps, systematically sample the surrounding nonpolypoid mucosa (H. pylori + metaplastic atrophic gastritis). [[asge-2015-gastric-premalignant]]
 
@@ -54,7 +54,7 @@ Surveillance is keyed to **polyp histology + background mucosa**:
 
 ## See Also
 
-[[gastric-intestinal-metaplasia]], [[atrophic-gastritis]], [[gastric-premalignant-conditions]], [[gastric-adenocarcinoma]], [[helicobacter-pylori-infection]], [[familial-adenomatous-polyposis]], [[upper-endoscopy]], [[polypectomy-emr]], [[endoscopic-submucosal-dissection]], [[gastroenteropancreatic-neuroendocrine-tumors]], [[test-and-treat]]
+[[gastric-intestinal-metaplasia]], [[atrophic-gastritis]], [[gastric-premalignant-conditions]], [[gastric-adenocarcinoma]], [[helicobacter-pylori-infection]], [[familial-adenomatous-polyposis]], [[upper-endoscopy]], [[polypectomy]], [[endoscopic-submucosal-dissection]], [[gastroenteropancreatic-neuroendocrine-tumors]], [[test-and-treat]]
 
 ---
 

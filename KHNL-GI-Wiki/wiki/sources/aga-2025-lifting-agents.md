@@ -30,7 +30,7 @@ Practical commentary on submucosal lifting (injection) agents for endoscopic res
 - Papillectomy generally does not require injection (saline with contrast may reassure against MP involvement).
 
 ## Relevance to Wiki
-- [[polypectomy-emr]] — adds lifting-agent selection and injection technique.
+- [[endoscopic-mucosal-resection]] — adds lifting-agent selection and injection technique.
 - [[endoscopic-submucosal-dissection]] — injection mandatory for ESD; avoid intralesional injection.
 
 ## Contradictions / Open Questions

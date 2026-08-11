@@ -14,7 +14,7 @@ Endoscopic oncology is an emerging subspecialty within gastroenterology focused 
 Endoscopic oncologists perform procedures across the GI tract with oncologic intent:
 
 - **Staging**: EUS-guided fine-needle aspiration/biopsy ([[endoscopic-ultrasound]]) for locoregional staging of [[esophageal-cancer|esophageal]], [[gastric-adenocarcinoma|gastric]], [[pancreatic-cancer|pancreatic]], and [[colorectal-cancer|rectal cancers]]; EUS-guided celiac plexus neurolysis for pain palliation
-- **Curative resection of superficial neoplasia**: [[endoscopic-submucosal-dissection|Endoscopic submucosal dissection (ESD)]] and endoscopic mucosal resection (EMR; [[polypectomy-emr]]) for T1a/T1b lesions in the esophagus, stomach, duodenum, and colon
+- **Curative resection of superficial neoplasia**: [[endoscopic-submucosal-dissection|Endoscopic submucosal dissection (ESD)]] and endoscopic mucosal resection ([[endoscopic-mucosal-resection|EMR]]) for T1a/T1b lesions in the esophagus, stomach, duodenum, and colon
 - **Biliary and pancreatic interventions**: [[ercp|ERCP]]-based stenting, [[cholangioscopy]] with biopsy, EUS-guided biliary drainage for malignant obstruction
 - **Luminal palliation**: Self-expanding metal stents for malignant esophageal, gastric outlet, and colonic obstruction
 - **Ablation**: [[radiofrequency-ablation|Radiofrequency ablation (RFA)]] for [[barretts-esophagus|Barrett's esophagus]] and early esophageal neoplasia; photodynamic therapy (historical)
@@ -33,7 +33,7 @@ This subspecialty typically requires advanced endoscopy fellowship beyond standa
 
 ## See Also
 
-[[endoscopic-ultrasound]], [[polypectomy-emr]], [[ercp]], [[barretts-esophagus]], [[colorectal-cancer]], [[gastric-adenocarcinoma]], [[endoscopic-submucosal-dissection]], [[esophageal-cancer]], [[pancreatic-cancer]], [[cholangioscopy]], [[radiofrequency-ablation]], [[endoscopic-eradication-therapy]]
+[[endoscopic-ultrasound]], [[polypectomy]], [[ercp]], [[barretts-esophagus]], [[colorectal-cancer]], [[gastric-adenocarcinoma]], [[endoscopic-submucosal-dissection]], [[esophageal-cancer]], [[pancreatic-cancer]], [[cholangioscopy]], [[radiofrequency-ablation]], [[endoscopic-eradication-therapy]]
 
 ---
 

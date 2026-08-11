@@ -62,7 +62,7 @@ sources: [acg-2015-hereditary-gi-cancer]
 
 ## Diagnostics
 
-- **Colonoscopy** with [[polypectomy-emr|polypectomy]] is the diagnostic and surveillance tool — polyp-clearance goals and interval recommendations are detailed under [[#Endoscopic Management]] [[acg-2015-hereditary-gi-cancer]]
+- **Colonoscopy** with [[polypectomy]] is the diagnostic and surveillance tool — polyp-clearance goals and interval recommendations are detailed under [[#Endoscopic Management]] [[acg-2015-hereditary-gi-cancer]]
 - Consider **MUTYH** germline testing when adenomas are concurrently present and/or family history of adenomas exists
 - No established role for tumor molecular profiling in guiding management at this time
 - No extracolonic cancer surveillance is recommended (Conditional/VLow) — data are insufficient; familial extracolonic cancer risks have not been clearly established
@@ -97,7 +97,7 @@ sources: [acg-2015-hereditary-gi-cancer]
 
 ## See Also
 
-[[familial-adenomatous-polyposis]], [[mutyh-associated-polyposis]], [[lynch-syndrome]], [[juvenile-polyposis-syndrome]], [[colorectal-cancer]], [[colonoscopy]], [[polypectomy-emr]]
+[[familial-adenomatous-polyposis]], [[mutyh-associated-polyposis]], [[lynch-syndrome]], [[juvenile-polyposis-syndrome]], [[colorectal-cancer]], [[colonoscopy]], [[polypectomy]]
 
 ---
 

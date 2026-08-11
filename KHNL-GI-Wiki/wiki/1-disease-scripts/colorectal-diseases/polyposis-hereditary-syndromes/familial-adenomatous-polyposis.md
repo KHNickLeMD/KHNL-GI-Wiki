@@ -157,7 +157,7 @@ Familial adenomatous polyposis (FAP) and its related syndromes — attenuated FA
 - ASGE intervals [[asge-2020-fap]]: **pouch endoscopy or ileoscopy every 1–2 years** (IPAA or ileostomy); **sigmoidoscopy every 6 months–1 year indefinitely** after IRA
 - Examination of ileostomy every **2 years** (Strong/Low)
 - Adenomas may develop in ileal pouch after IPAA; advanced dysplasia/cancer in the pouch is a real risk requiring lifelong surveillance
-- Pouch polyposis may be treated with [[polypectomy-emr|polypectomy]] or chemoprevention with sulindac
+- Pouch polyposis may be treated with [[polypectomy]] or chemoprevention with sulindac
 
 ---
 
@@ -228,7 +228,7 @@ Familial adenomatous polyposis (FAP) and its related syndromes — attenuated FA
 
 ## See Also
 
-[[lynch-syndrome]], [[mutyh-associated-polyposis]], [[peutz-jeghers-syndrome]], [[juvenile-polyposis-syndrome]], [[cowden-syndrome]], [[colorectal-cancer]], [[colorectal-cancer-screening]], [[colonoscopy]], [[upper-endoscopy]], [[serrated-polyposis-syndrome]], [[ampullary-adenoma]], [[nonampullary-duodenal-adenoma]], [[gastric-polyps]], [[gastric-adenocarcinoma]], [[device-assisted-enteroscopy]], [[polypectomy-emr]]
+[[lynch-syndrome]], [[mutyh-associated-polyposis]], [[peutz-jeghers-syndrome]], [[juvenile-polyposis-syndrome]], [[cowden-syndrome]], [[colorectal-cancer]], [[colorectal-cancer-screening]], [[colonoscopy]], [[upper-endoscopy]], [[serrated-polyposis-syndrome]], [[ampullary-adenoma]], [[nonampullary-duodenal-adenoma]], [[gastric-polyps]], [[gastric-adenocarcinoma]], [[device-assisted-enteroscopy]], [[polypectomy]]
 
 ---
 

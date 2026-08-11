@@ -78,7 +78,7 @@ This joint ACG/CAG guideline addresses two clinical contexts: (1) management of 
 
 **Procedural bleeding risk stratification (Table 3):**
 
-- High bleeding risk (30-day major bleed >2%): [[polypectomy-emr|polypectomy]] ≥1 cm, PEG/PEJ, [[ercp|ERCP]] with sphincterotomy, EMR/ESD, [[endoscopic-ultrasound|EUS-FNA]], endoscopic hemostasis (excl. APC), RFA, [[poem|POEM]], variceal treatment (including band ligation), therapeutic balloon enteroscopy, ampullary resection, cystogastrostomy, pneumatic/bougie dilation, laser ablation
+- High bleeding risk (30-day major bleed >2%): [[polypectomy]] ≥1 cm, PEG/PEJ, [[ercp|ERCP]] with sphincterotomy, EMR/ESD, [[endoscopic-ultrasound|EUS-FNA]], endoscopic hemostasis (excl. APC), RFA, [[poem|POEM]], variceal treatment (including band ligation), therapeutic balloon enteroscopy, ampullary resection, cystogastrostomy, pneumatic/bougie dilation, laser ablation
 - Low/moderate bleeding risk (≤2%): [[upper-endoscopy|EGD]] ± biopsy, [[colonoscopy]] ± biopsy, flex sig ± biopsy, ERCP with stent without sphincterotomy, EUS without FNA, push enteroscopy, diagnostic balloon enteroscopy, enteral stent deployment, APC, polypectomy <1 cm, tumor ablation, ERCP without sphincterotomy, marking/clipping/tattooing, video capsule
 
 **Thromboembolic risk stratification (Table 4):**
@@ -148,7 +148,7 @@ This joint ACG/CAG guideline addresses two clinical contexts: (1) management of 
 This is the primary evidence-based reference for anticoagulation management in GI patients, covering both acute GI bleeding reversal decisions and periendoscopic interruption/bridging decisions. It directly informs:
 
 - [[anticoagulation-gi-bleeding]] (concept page)
-- Decision-making around [[colonoscopy]], [[upper-endoscopy]], [[polypectomy-emr]], [[endoscopic-ultrasound]]
+- Decision-making around [[colonoscopy]], [[upper-endoscopy]], [[polypectomy]], [[endoscopic-ultrasound]]
 - Management of patients with [[variceal-upper-gi-bleeding]] and [[acute-lower-gi-bleeding]] who are on antithrombotics
 
 ## Contradictions / Open Questions
@@ -164,4 +164,4 @@ This is the primary evidence-based reference for anticoagulation management in G
 
 ## See Also
 
-[[anticoagulation-gi-bleeding]], [[colonoscopy]], [[upper-endoscopy]], [[polypectomy-emr]], [[endoscopic-ultrasound]], [[variceal-upper-gi-bleeding]], [[acute-lower-gi-bleeding]]
+[[anticoagulation-gi-bleeding]], [[colonoscopy]], [[upper-endoscopy]], [[polypectomy]], [[endoscopic-ultrasound]], [[variceal-upper-gi-bleeding]], [[acute-lower-gi-bleeding]]

@@ -19,7 +19,7 @@ sources: [usmstf-2020-followup-colonoscopy]
 
 ## Overview
 
-Post-[[colonoscopy]] surveillance intervals after [[polypectomy-emr|polypectomy]] are set by the number, size, and histology of polyps found, per USMSTF 2020 ([[usmstf-2020-followup-colonoscopy]]). Key 2020 change from 2012: 1-2 small tubular adenomas extended to **7-10 years**. A normal colonoscopy reduces incident [[colorectal-cancer|CRC]] by 46% and fatal CRC by 88% at 10 years.
+Post-[[colonoscopy]] surveillance intervals after [[polypectomy]] are set by the number, size, and histology of polyps found, per USMSTF 2020 ([[usmstf-2020-followup-colonoscopy]]). Key 2020 change from 2012: 1-2 small tubular adenomas extended to **7-10 years**. A normal colonoscopy reduces incident [[colorectal-cancer|CRC]] by 46% and fatal CRC by 88% at 10 years.
 
 ## Quality Prerequisite
 
@@ -76,7 +76,7 @@ Based on findings at baseline **and** first surveillance:
 
 ## See Also
 
-[[colonoscopy]], [[colorectal-cancer]], [[colorectal-cancer-screening]], [[polypectomy-emr]], [[gastric-polyps]], [[serrated-polyposis-syndrome]], [[lynch-syndrome]], [[familial-adenomatous-polyposis]]
+[[colonoscopy]], [[colorectal-cancer]], [[colorectal-cancer-screening]], [[polypectomy]], [[gastric-polyps]], [[serrated-polyposis-syndrome]], [[lynch-syndrome]], [[familial-adenomatous-polyposis]]
 
 ---
 

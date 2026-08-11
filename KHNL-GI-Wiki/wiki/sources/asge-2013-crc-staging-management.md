@@ -39,7 +39,7 @@ Malignant obstruction: endoscopic alternatives to surgical decompression include
 
 ## Relevance to Wiki
 - Updates [[colorectal-cancer]] — adds endoscopic-specific staging/management (EUS rectal staging performance, malignant-polyp endoscopic-vs-surgical criteria, SEMS for malignant obstruction).
-- Supports [[endoscopic-ultrasound]] and [[polypectomy-emr]].
+- Supports [[endoscopic-ultrasound]] and [[polypectomy]].
 
 ## Contradictions / Open Questions
 - Older (2013) source; oncologic/systemic management is superseded by [[nccn-2026-colon-cancer]]. Endoscopic-staging and malignant-polyp guidance remains complementary and was added without overwriting newer content.
