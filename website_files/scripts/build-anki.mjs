@@ -44,8 +44,11 @@ const frontmatter = src => {
   return [fm, src.slice(m[0].length)]
 }
 
-const titleCase = s => s.replace(/^\d+-/, '').split('-')
-  .map(w => ACRONYMS[w] ?? w[0].toUpperCase() + w.slice(1)).join(' ')
+// Anki sorts decks alphabetically, so the top-level section keeps its wiki number and the
+// deck list reads in index order (1. Disease Scripts … 5. Meds) instead of A–Z.
+const titleCase = (s, keepNum) => (keepNum && /^\d+-/.test(s) ? s.match(/^\d+/)[0] + '. ' : '')
+  + s.replace(/^\d+-/, '').split('-')
+    .map(w => ACRONYMS[w] ?? w[0].toUpperCase() + w.slice(1)).join(' ')
 
 // Strip cloze wrappers, hints, and HTML so length caps measure what you actually read.
 // {{c1::answer::hint}} shows as either the answer or the hint, never both — count the answer.
@@ -116,7 +119,12 @@ function main () {
     }
 
     const slug = page.split('/').pop().replace(/\.md$/, '')
-    const deck = ['KHNL GI Wiki', ...page.split('/').slice(0, -1).map(titleCase), pageFm.title].join('::')
+    const deck = ['KHNL GI Wiki',
+      ...page.split('/').slice(0, -1).map((p, i) => titleCase(p, i === 0)), pageFm.title].join('::')
+    // Hand-authored topic tags (GI::Organs::Colon::ColorectalPolyps …) — the tag tree is Nick's
+    // own naming, so it is written per file, not derived from slugs.
+    const pageTags = (fm.tags || '').split(/\s+/).filter(Boolean)
+    if (!pageTags.length) problems.push(`${page}: frontmatter missing 'tags:'`)
     // One source per card, not the page's whole source list — 7 slugs on every card was
     // noise. Which guideline said it is the useful bit, especially where they disagree.
     const srcLabel = s => {
@@ -132,7 +140,7 @@ function main () {
       seen.add(guid)
       problems.push(...lint(note, page))
 
-      const tags = [`khnl::${page.split('/')[0].replace(/^\d+-/, '')}`, `khnl::${slug}`]
+      const tags = [`khnl::${page.split('/')[0].replace(/^\d+-/, '')}`, `khnl::${slug}`, ...pageTags]
       if (note.section === 'retired') tags.push('khnl::retired')
       if (note.section === 'draft') tags.push('khnl::unreviewed')
 
@@ -195,6 +203,8 @@ async function test () {
   assert.equal(lint({ ...notes[0], text: ['- ' + 'w '.repeat(20)] }, 'p.md').length, 2)
 
   assert.equal(titleCase('4-advanced-gi-procedures'), 'Advanced GI Procedures')
+  assert.equal(titleCase('4-advanced-gi-procedures', true), '4. Advanced GI Procedures')
+  assert.equal(titleCase('colorectal-procedures', true), 'Colorectal Procedures')
   assert.equal(tsv('a\tb\nc'), 'a b<br>c')
   assert.equal(backExtra('note', 'FOOT'), '<hr>note<br>FOOT')
   assert.equal(backExtra('', 'FOOT'), '<hr>FOOT')

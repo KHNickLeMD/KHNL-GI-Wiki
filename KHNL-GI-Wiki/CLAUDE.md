@@ -404,6 +404,14 @@ The wiki is large and most lint work is per-page and independent, so a lint pass
 
 Never put them **inside** `raw/`: the lint cron rsyncs `raw/` into the repo clone and commits it, which would push every card to GitHub. `KHNL-GI-Wiki/cards/` is in `.gitignore` as a backstop. The exporter (`website_files/scripts/build-anki.mjs`, still in the repo) tries `$CARDS_DIR`, then those two paths, and writes `<cards>/dist/khnl-gi-wiki.txt` — the single file to share for download (stock Cloze, `#guid column`). The `giwiki` container mounts only `/repo`, so the 05:00 cron cannot see or draft cards; card work happens where the cards dir is reachable. Block format: `[6-hex id]{source-slug}` opens a note, `>` lines are Back Extra, blank line separates notes. GUID = `sha1(page + id)` — **reword freely, never change an id**, that's what preserves scheduling.
 
+**Decks and tags** (set 2026-08-10). Deck comes free from the wiki path — `KHNL GI Wiki::4. Advanced GI Procedures::Colorectal Procedures::<page title>` — so the deck tree is the wiki index; the section number is kept because Anki sorts decks A–Z, not by index order. Tags are **hand-written per card file** in Nick's own Anki tag tree, as a required space-separated `tags:` frontmatter line:
+
+```markdown
+tags: GI::Organs::Colon::ColorectalPolyps GI::Procedures::Interventional
+```
+
+`GI::Organs::<Organ>::<Topic>` and `GI::Procedures::General|Interventional`, matching the tag names already in his collection (`UC`, `GERD`, `H_Pylori`, `ColorectalCancer`) — **never derive them from the page slug**, the naming is his, not the wiki's. Every card in the file gets them, on top of the automatic `khnl::<section>` and `khnl::<slug>`. A file with no `tags:` line still exports, but the build reports it as a problem.
+
 **Cards test the wiki and nothing else.** Every fact and every image on a card must already exist on the page it belongs to. No outside knowledge, no web lookups, no invented examples — same no-outside-information rule that binds ingest and lint. If a card wants a fact the page doesn't have, fix the page first.
 
 **Cards are generated from the `.md`, and only from the `.md`.** Re-import overwrites Text and Back Extra on the matching note. Never tell the user to fix a card inside Anki — the fix goes in the card file, then rebuild.
