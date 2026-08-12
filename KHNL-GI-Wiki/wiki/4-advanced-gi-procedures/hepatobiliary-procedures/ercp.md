@@ -3,8 +3,8 @@ title: "ERCP (Endoscopic Retrograde Cholangiopancreatography)"
 category: advanced-procedure
 tags: [ercp, biliary, pancreatic, hepatobiliary, sphincterotomy, stent, stone-extraction]
 created: 2026-05-16
-updated: 2026-08-10
-sources: [asge-2024-therapeutic-eus-biliary, asge-2023-post-ercp-pancreatitis, asge-2021-cholangitis, asge-2019-choledocholithiasis, asge-2023-post-transplant-biliary-strictures, asge-2015-ercp-benign-biliary, aga-2024-pregnancy-gi-liver, aga-2022-recurrent-pancreatitis-endoscopy, jagtap-2026-urgent-vs-early-ercp-cholangitis]
+updated: 2026-08-11
+sources: [asge-2024-therapeutic-eus-biliary, asge-2023-post-ercp-pancreatitis, asge-2021-cholangitis, asge-2019-choledocholithiasis, asge-2023-post-transplant-biliary-strictures, asge-2015-ercp-benign-biliary, aga-2024-pregnancy-gi-liver, aga-2022-recurrent-pancreatitis-endoscopy, jagtap-2026-urgent-vs-early-ercp-cholangitis, aloysius-2026-ercp-timing-septic-shock-cholangitis]
 ---
 
 *Referenced in [[acute-pancreatitis]] (indications/timing) and [[biliary-stricture]] (tissue sampling, drainage). See [[endoscopic-ultrasound]] for combined EUS+ERCP approach. Now almost exclusively therapeutic — successful cholangiography with relief of obstruction is achievable in >90% of patients [[asge-2015-ercp-benign-biliary]].*
@@ -14,6 +14,7 @@ sources: [asge-2024-therapeutic-eus-biliary, asge-2023-post-ercp-pancreatitis, a
 **Biliary:**
 
 - [[choledocholithiasis|Choledocholithiasis]] with cholangitis — biliary drainage **within 48 h** ([[asge-2021-cholangitis]]); **severe** cholangitis → emergent (<24 h). **In mild-to-moderate cholangitis, urgent (<24 h) drainage is NOT superior to early (24–48 h)** — same 30-day mortality and organ failure, but ~**2× more post-ERCP adverse events** (mainly bleeding), so resuscitate/optimise then drain within 24–48 h rather than rushing (RCT: 3.95% vs 6.58% mortality, HR 0.70; AE 17.1% vs 9.2%, RR 2.03) [[jagtap-2026-urgent-vs-early-ercp-cholangitis]]
+  - *Severe/TG III with septic shock — under question:* ERCP <24 h of **vasopressor initiation** gave no survival advantage over 24–48 h (HR 1.07, 0.81–1.42) in a matched TriNetX cohort; ⚠ DDW 2026 abstract only, does not displace the guideline's emergent-drainage recommendation ([[aloysius-2026-ercp-timing-septic-shock-cholangitis]]). Timing detail lives on [[choledocholithiasis]].
 - Common bile duct stones with obstruction
 - [[biliary-stricture|Biliary stricture]] evaluation and drainage — see [[biliary-stricture]]
 - **Post–[[liver-transplantation|liver transplant]] biliary stricture** — ERCP is first-line therapy over PTBD ([[asge-2023-post-transplant-biliary-strictures]]); balloon dilation + stenting. For extrahepatic anastomotic (duct-to-duct) strictures, **covered SEMS preferred over multiple plastic stents** (equivalent resolution, fewer procedures, lower cost); cSEMS unsuitable for intrahepatic or near-bifurcation strictures. Give [[antibiotic-prophylaxis-endoscopy|periprocedural antibiotics]] when complete drainage cannot be ensured (note fluoroquinolone–[[tacrolimus]] CYP3A4 interaction)
@@ -105,3 +106,4 @@ sources: [asge-2024-therapeutic-eus-biliary, asge-2023-post-ercp-pancreatitis, a
 7. [[aga-2024-pregnancy-gi-liver|AGA Clinical Practice Update on Pregnancy-Related Gastrointestinal and Liver Disease: Expert Review]]
 8. [[aga-2022-recurrent-pancreatitis-endoscopy|AGA 2022: Clinical Practice Update on the Endoscopic Approach to Recurrent Acute and Chronic Pancreatitis]]
 9. [[jagtap-2026-urgent-vs-early-ercp-cholangitis|Urgent versus Early ERCP in Mild-to-Moderate Acute Cholangitis: A Randomised Controlled Trial (Jagtap 2026)]]
+10. [[aloysius-2026-ercp-timing-septic-shock-cholangitis|Vasopressor-Indexed Timing of ERCP and Survival in Septic Shock from Tokyo Grade III Cholangitis (Aloysius 2026, DDW abstract)]]

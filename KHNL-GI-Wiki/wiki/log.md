@@ -6,6 +6,29 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-08-11] ingest | DDW 2026 abstract — Vasopressor-indexed ERCP timing in TG III cholangitis with septic shock (Aloysius)
+
+**Source created:**
+- `wiki/sources/aloysius-2026-ercp-timing-septic-shock-cholangitis.md` — retrospective TriNetX propensity-matched cohort presented at DDW 2026. Timing of ERCP indexed to **vasopressor initiation** rather than admission. ERCP <24 h (n=887) vs 24–48 h (n=420): 30-day mortality HR 1.07 (0.81–1.42), p=0.65; vs 48–72 h (n=217): HR 1.47 (1.00–2.16), p=0.046; vs 24 h–7 d: HR 1.25 (0.98–1.60), p=0.07. Authors conclude "stabilize, then drain."
+
+**Pages updated:**
+- `[[choledocholithiasis]]` — *Acute Cholangitis — Drainage Timing*: sub-bullet under the severe-cholangitis line flagging that <24 h drainage showed no survival benefit in TG III septic shock, explicitly marked as abstract-level evidence that does **not** displace [[asge-2021-cholangitis]].
+- `[[ercp]]` — same nuance on the cholangitis indication, pointing at [[choledocholithiasis]] for the detail (one home per fact).
+- `[[index]]` — new source entry; choledocholithiasis (4→5 sources) and ercp (9→10 sources) descriptions refreshed; total 246 → 247 sources.
+
+**Evidence handling:** conference abstract + retrospective database ranks below guideline and RCT, so the guideline recommendation (severe cholangitis → emergent drainage) remains what both pages assert; the abstract is surfaced as a contradiction, not adopted.
+
+**Flagged on the source page:**
+- **Internal inconsistency** — Results report higher mortality in the <24 h arm vs 48–72 h (HR 1.47), while the Conclusions state mortality rises when ERCP is delayed beyond 48 h. Opposite directions; the "delay beyond 48 h" claim was deliberately kept **off** entity pages.
+- "1:1 propensity-matched" cohorts are 887 vs 420 and 887 vs 217 — not 1:1.
+- No lactate/vasopressor dose; confounding by indication (authors' own reading of HR 1.47) and immortal-time bias both plausible.
+
+**Still open:** the wiki has no dedicated **acute cholangitis** disease script and TG18 severity criteria are not fully ingested — timing content continues to live on `choledocholithiasis` and `ercp`. Second ingest in a row to hit this gap.
+
+**Raw filed:** two abstract screenshots → `raw/GI RCTs/Aloysius 2026 DDW - Vasopressor-indexed timing of ERCP in TG III cholangitis (abstract|baseline table).png`. Kaplan–Meier figure not embedded — the abstract's curves are unlabelled (no arm legend, no risk table), so the HRs carry the finding better than the picture.
+
+---
+
 ## [2026-08-11] update | Split polypectomy-emr into polypectomy (general) + EMR and ESD (advanced)
 
 **Rationale:** `polypectomy-emr` bundled a bread-and-butter colonoscopy skill with two advanced-endoscopy techniques on one 453-line page. Polypectomy belongs under General GI Procedures; EMR and ESD are advanced procedures with their own pages.
