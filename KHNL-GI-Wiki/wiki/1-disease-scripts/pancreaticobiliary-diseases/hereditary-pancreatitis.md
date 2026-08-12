@@ -3,7 +3,7 @@ title: "Hereditary Pancreatitis"
 category: disease-script
 tags: [pancreas, genetics, pancreatitis, prss1, spink1, cftr, ctrc, hereditary-cancer, pancreatic-cancer, tigar-o]
 created: 2026-06-04
-updated: 2026-08-11
+updated: 2026-08-12
 sources: [asge-2022-pancreatic-cancer-screening, acg-2020-chronic-pancreatitis, acg-2015-hereditary-gi-cancer, acg-2024-acute-pancreatitis]
 ---
 
@@ -104,7 +104,7 @@ No HP-specific management exists in the ingested sources — manage as [[chronic
 
 - **Alcohol and smoking cessation** (both Strong / Very Low) — smoking is separately synergistic with CTRC.
 - **Pain:** stepwise ladder (non-opioid → antioxidants → neuromodulators → celiac plexus block → endoscopic decompression → surgical drainage → opiates last). **PERT does not improve pain.**
-- **Exocrine insufficiency:** PERT 40,000–50,000 USP lipase units per meal (half with snacks).
+- **[[exocrine-pancreatic-insufficiency|Exocrine insufficiency]]:** PERT 40,000–50,000 USP lipase units per meal (half with snacks).
 - **Endocrine (type 3c DM):** annual HbA1c.
 - **TPIAT** — highly selected patients with refractory pain after medical therapy exhausted (Key Concept 8).
 
@@ -114,7 +114,7 @@ No HP-specific management exists in the ingested sources — manage as [[chronic
 
 ## See Also
 
-[[chronic-pancreatitis]], [[acute-pancreatitis]], [[recurrent-acute-pancreatitis]], [[pancreas-divisum]], [[pancreatic-cancer]], [[pancreatic-cancer-screening]], [[pancreatic-cysts]], [[endoscopic-ultrasound]], [[mri-mrcp]], [[ercp]], [[brca-pathogenic-variants]], [[familial-pancreatic-cancer]], [[fammm-syndrome]], [[peutz-jeghers-syndrome]], [[lynch-syndrome]], [[familial-adenomatous-polyposis]]
+[[chronic-pancreatitis]], [[acute-pancreatitis]], [[recurrent-acute-pancreatitis]], [[exocrine-pancreatic-insufficiency]], [[pancreas-divisum]], [[pancreatic-cancer]], [[pancreatic-cancer-screening]], [[pancreatic-cysts]], [[endoscopic-ultrasound]], [[mri-mrcp]], [[ercp]], [[brca-pathogenic-variants]], [[familial-pancreatic-cancer]], [[fammm-syndrome]], [[peutz-jeghers-syndrome]], [[lynch-syndrome]], [[familial-adenomatous-polyposis]]
 
 ---
 

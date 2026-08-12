@@ -3,7 +3,7 @@ title: "Cirrhosis"
 category: disease-script
 tags: [cirrhosis, liver, hpb, decompensation, compensated, meld, child-pugh, vocal-penn, csph, portal-hypertension, fibrosis, f4, nilda, fib-4, elastography, perioperative, frailty, palliative-care, liver-transplant]
 created: 2026-07-16
-updated: 2026-08-01
+updated: 2026-08-12
 sources: [aasld-2023-portal-hypertension, aasld-2024-nilda-blood, aasld-2024-nilda-portal-htn, acg-2025-perioperative-cirrhosis, aasld-2021-ascites-sbp-hrs, aasld-2021-malnutrition-cirrhosis, aasld-2024-aclf, aga-2021-cirrhosis-coagulation, aasld-2022-palliative-cirrhosis, nccn-2026-hcc, baveno-vii-2022-portal-hypertension]
 ---
 
@@ -33,7 +33,7 @@ sources: [aasld-2023-portal-hypertension, aasld-2024-nilda-blood, aasld-2024-nil
 - **Cirrhosis = stage F4 fibrosis.** For staging purposes fibrosis is collapsed to: significant fibrosis ≥F2, advanced fibrosis F3–4, **cirrhosis F4** [[aasld-2024-nilda-blood]]
 - **[[liver-biopsy|Liver biopsy]] is the reference standard — but an imperfect one:** sampling, classification, and spectrum bias; mortality ~1/10,000–1/12,000; major bleeding 0.04%–0.01%. Because of biopsy error, an ideal noninvasive test's AUROC usually does not exceed 0.9 [[aasld-2024-nilda-blood]]
 - **Most cirrhosis is now diagnosed noninvasively.** [[noninvasive-liver-disease-assessment|NILDA]] is the standard route — a cheap first-line blood test (FIB-4) rules out advanced fibrosis, and a confirmatory imaging test or ELF rules it in when FIB-4 ≥1.3. Thresholds and confounders live on the [[noninvasive-liver-disease-assessment|NILDA]] page [[aasld-2024-nilda-blood]]
-- **When fibrosis stage is unknown in known liver disease,** FIB-4 and/or elastography may be used to identify patients likely to have advanced fibrosis/cirrhosis — which changes surgical planning and perioperative management [[acg-2025-perioperative-cirrhosis]]
+- **When fibrosis stage is unknown in known liver disease,** FIB-4 and/or [[liver-stiffness-measurement|elastography]] may be used to identify patients likely to have advanced fibrosis/cirrhosis — which changes surgical planning and perioperative management [[acg-2025-perioperative-cirrhosis]]
 - **Clinical/endoscopic/imaging shortcut:** clinical decompensation, gastroesophageal varices on endoscopy, or portosystemic collaterals / hepatofugal flow on imaging are each sufficient to diagnose clinically significant portal hypertension — see [[portal-hypertension|portal hypertension]] for the CSPH and cACLD framework [[aasld-2023-portal-hypertension]]
 
 **Caveats that degrade noninvasive staging** [[aasld-2024-nilda-blood]]:
@@ -98,7 +98,7 @@ flowchart TD
     H --> I
 ```
 
-*The HVPG thresholds, the cACLD concept, and the LSM/platelet "Rule of Five" that subdivide the compensated stage are detailed on [[portal-hypertension]].*
+*The [[hepatic-venous-pressure-gradient|HVPG]] thresholds, the cACLD concept, and the LSM/platelet "Rule of Five" that subdivide the compensated stage are detailed on [[portal-hypertension]].*
 
 **Baveno VII stage definitions** [[baveno-vii-2022-portal-hypertension]]:
 
@@ -257,7 +257,7 @@ Malnutrition, sarcopenia, and frailty are **very common and potentially modifiab
 
 ## See Also
 
-[[portal-hypertension]], [[porto-sinusoidal-vascular-disorder]], [[ascites]], [[spontaneous-bacterial-peritonitis]], [[hepatic-encephalopathy]], [[variceal-upper-gi-bleeding]], [[hepatocellular-carcinoma]], [[hcc-surveillance]], [[aki-in-cirrhosis]], [[acute-on-chronic-liver-failure]], [[acute-liver-failure]], [[portal-vein-thrombosis]], [[budd-chiari-syndrome]], [[cirrhosis-hemostasis]], [[nutrition-in-liver-disease]], [[liver-transplantation]], [[noninvasive-liver-disease-assessment]], [[liver-biopsy]], [[abnormal-liver-chemistries]], [[hepatopulmonary-syndrome-portopulmonary-hypertension]], [[alcohol-associated-liver-disease]], [[nafld-masld]], [[chronic-hepatitis-b]], [[hepatitis-c]], [[primary-biliary-cholangitis]], [[primary-sclerosing-cholangitis]], [[autoimmune-hepatitis]], [[hereditary-hemochromatosis]], [[wilson-disease]], [[upper-endoscopy]], [[tips]], [[rifaximin]], [[direct-acting-antivirals]], [[antibiotic-prophylaxis-cirrhosis]], [[focal-liver-lesions]], [[obesity]], [[bariatric-surgery]]
+[[portal-hypertension]], [[porto-sinusoidal-vascular-disorder]], [[ascites]], [[spontaneous-bacterial-peritonitis]], [[hepatic-encephalopathy]], [[variceal-upper-gi-bleeding]], [[hepatocellular-carcinoma]], [[hcc-surveillance]], [[aki-in-cirrhosis]], [[acute-on-chronic-liver-failure]], [[acute-liver-failure]], [[portal-vein-thrombosis]], [[budd-chiari-syndrome]], [[cirrhosis-hemostasis]], [[nutrition-in-liver-disease]], [[liver-transplantation]], [[noninvasive-liver-disease-assessment]], [[liver-biopsy]], [[abnormal-liver-chemistries]], [[hepatopulmonary-syndrome-portopulmonary-hypertension]], [[alcohol-associated-liver-disease]], [[nafld-masld]], [[chronic-hepatitis-b]], [[hepatitis-c]], [[primary-biliary-cholangitis]], [[primary-sclerosing-cholangitis]], [[autoimmune-hepatitis]], [[hereditary-hemochromatosis]], [[wilson-disease]], [[upper-endoscopy]], [[tips]], [[rifaximin]], [[direct-acting-antivirals]], [[antibiotic-prophylaxis-cirrhosis]], [[focal-liver-lesions]], [[obesity]], [[bariatric-surgery]], [[liver-stiffness-measurement]], [[hepatic-venous-pressure-gradient]]
 
 ---
 

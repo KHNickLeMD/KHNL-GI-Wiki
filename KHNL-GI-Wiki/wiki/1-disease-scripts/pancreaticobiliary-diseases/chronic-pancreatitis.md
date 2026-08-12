@@ -3,7 +3,7 @@ title: "Chronic Pancreatitis"
 category: disease-script
 tags: [pancreatitis, chronic, pancreas, hpb, exocrine-insufficiency, pain]
 created: 2026-05-16
-updated: 2026-08-11
+updated: 2026-08-12
 sources: [acg-2020-chronic-pancreatitis, acg-2020-sibo, asge-2024-chronic-pancreatitis-endoscopy, apa-2014-chronic-pancreatitis, aga-2022-recurrent-pancreatitis-endoscopy]
 ---
 
@@ -217,7 +217,7 @@ Experimental (research only): spinal cord stim, transmagnetic stim, radiation (K
 **Benign biliary stricture due to CP (BPA 7)** — occur in ~15% of advanced CP:
 - **ERCP with stent insertion is the preferred treatment.**
 - **FCSEMS favored over multiple plastic stents whenever feasible** — similar efficacy, significantly fewer exchange procedures (plastic requires sessions every 10–12 wk).
-- ⚠ **Caveat — gallbladder in situ:** if the stent will cover the cystic duct orifice, FCSEMS carries increased **cholecystitis** risk → reasonable to use multiple plastic stents instead. Continue stent therapy 6–12 months (depends on severity/type/response). See [[biliary-stricture]].
+- ⚠ **Caveat — gallbladder in situ:** if the stent will cover the cystic duct orifice, FCSEMS carries increased **[[acute-cholecystitis|cholecystitis]]** risk → reasonable to use multiple plastic stents instead. Continue stent therapy 6–12 months (depends on severity/type/response). See [[biliary-stricture]].
 
 ### Exocrine pancreatic insufficiency (EPI)
 

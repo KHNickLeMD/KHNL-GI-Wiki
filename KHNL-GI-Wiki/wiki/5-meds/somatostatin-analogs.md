@@ -3,7 +3,7 @@ title: "Somatostatin Analogs"
 category: med
 tags: [somatostatin-analog, octreotide, lanreotide, net, carcinoid, variceal-bleeding, angioectasia]
 created: 2026-06-18
-updated: 2026-07-18
+updated: 2026-08-12
 sources: [nccn-2026-net, aasld-2023-portal-hypertension, acg-2015-small-bowel-bleeding]
 ---
 
@@ -28,7 +28,7 @@ sources: [nccn-2026-net, aasld-2023-portal-hypertension, acg-2015-small-bowel-bl
 
 | Indication | Agent / dose | Notes |
 |-----------|--------------|-------|
-| **Acute variceal bleeding** ([[portal-hypertension]]) | **Octreotide 50 mcg IV bolus → 25–50 mcg/hr infusion × 2–5 days**; somatostatin 250 mcg bolus → 250–500 mcg/hr as alternative | Start immediately on suspicion, before endoscopy ([[aasld-2023-portal-hypertension]]). Octreotide preferred over terlipressin in pregnancy (terlipressin causes uterine stimulation). |
+| **Acute variceal bleeding** ([[portal-hypertension]]) | **Octreotide 50 mcg IV bolus → 25–50 mcg/hr infusion × 2–5 days**; somatostatin 250 mcg bolus → 250–500 mcg/hr as alternative | Start immediately on suspicion, before [[upper-endoscopy\|endoscopy]] ([[aasld-2023-portal-hypertension]]). Octreotide preferred over terlipressin in pregnancy (terlipressin causes uterine stimulation). |
 | **GEP-NET — carcinoid syndrome** ([[gastroenteropancreatic-neuroendocrine-tumors]]) | Octreotide LAR / lanreotide (depot, monthly) | First-line for symptom control in functioning tumors; **octreotide available intraoperatively for carcinoid crisis**; telotristat added for refractory diarrhea ([[nccn-2026-net]]). |
 | **GEP-NET — tumor control** | Octreotide LAR / lanreotide | First-line antiproliferative therapy for SSTR-positive (SSTR-PET-avid) metastatic disease; used around **peptide receptor radionuclide therapy (PRRT, ¹⁷⁷Lu-DOTATATE)** ([[nccn-2026-net]]). |
 | **Refractory small-bowel vascular bleeding** ([[small-bowel-bleeding]], [[angioectasia]]) | **Depot octreotide LAR 90 mg monthly** or lanreotide IM monthly **× 12 months** (range 6–36) | For persistent/recurrent bleeding when the lesion cannot be localized/treated. Reduces transfusion requirement (meta-analysis; no placebo RCT with hard endpoints). Poor-response predictors: age >65, male sex, antiplatelet therapy, COPD, chronic renal failure ([[acg-2015-small-bowel-bleeding]]). |
@@ -40,7 +40,7 @@ sources: [nccn-2026-net, aasld-2023-portal-hypertension, acg-2015-small-bowel-bl
 - Injection-site reactions with depot formulations.
 
 ## See Also
-[[gastroenteropancreatic-neuroendocrine-tumors]], [[portal-hypertension]], [[variceal-upper-gi-bleeding]], [[small-bowel-bleeding]], [[angioectasia]]
+[[gastroenteropancreatic-neuroendocrine-tumors]], [[portal-hypertension]], [[variceal-upper-gi-bleeding]], [[small-bowel-bleeding]], [[angioectasia]], [[upper-endoscopy]]
 
 ---
 

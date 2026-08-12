@@ -3,7 +3,7 @@ title: "Cyclic Vomiting Syndrome (CVS)"
 category: disease-script
 tags: [cyclic-vomiting-syndrome, cvs, dgbi, vomiting, migraine, foregut, motility]
 created: 2026-07-18
-updated: 2026-08-02
+updated: 2026-08-12
 sources: [aga-2024-cvs, aga-2024-chs]
 ---
 
@@ -79,7 +79,7 @@ Four phases — recognizing the phase guides treatment (see Figure 1 of [[aga-20
 
 - **Clinical diagnosis** (Rome IV); no confirmatory test.
 - **Basic workup for uninvestigated episodic vomiting:** CBC, electrolytes, glucose, LFTs, lipase, urinalysis.
-- **One-time EGD or upper-GI imaging** to exclude obstructive lesions. If EGD is done soon after an episode, recognize post-retching epiphenomena (mild gastritis, erythematous streaking, Mallory-Weiss tear, esophagitis) as **non-causal**; **do not repeat** EGD/imaging.
+- **One-time [[upper-endoscopy|EGD]] or upper-GI imaging** to exclude obstructive lesions. If EGD is done soon after an episode, recognize post-retching epiphenomena (mild gastritis, erythematous streaking, Mallory-Weiss tear, esophagitis) as **non-causal**; **do not repeat** EGD/imaging.
 - **Do not routinely order gastric emptying scans** — few CVS patients have delayed emptying, results during an episode are uninterpretable, and cannabis/opiates confound interpretation.
 - Suspicion-driven testing for mimics: [[acute-hepatic-porphyria]], Addison's, hypothyroidism. **Brain imaging + neurology referral** if any localizing neurologic symptoms.
 - **ED priority:** exclude life-threatening mimics — acute abdomen, bowel obstruction, mesenteric ischemia, [[acute-pancreatitis|pancreatitis]], myocardial infarction.
@@ -120,7 +120,7 @@ Highest abort probability when taken **early in the prodrome**. **Nearly all pat
 - **Recovery phase:** electrolyte-rich (sports drinks) / nutrient fluids over 1–2 days.
 
 ## See Also
-[[cannabinoid-hyperemesis-syndrome]], [[nausea-and-vomiting]], [[nausea-and-vomiting-of-pregnancy]], [[gastroparesis]], [[rumination-syndrome]], [[acute-hepatic-porphyria]], [[disorders-of-gut-brain-interaction]]
+[[cannabinoid-hyperemesis-syndrome]], [[nausea-and-vomiting]], [[nausea-and-vomiting-of-pregnancy]], [[gastroparesis]], [[rumination-syndrome]], [[acute-hepatic-porphyria]], [[disorders-of-gut-brain-interaction]], [[upper-endoscopy]]
 
 ---
 

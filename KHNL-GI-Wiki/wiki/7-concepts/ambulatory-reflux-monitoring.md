@@ -3,7 +3,7 @@ title: "Ambulatory Reflux Monitoring"
 category: concept
 tags: [gerd, ph-monitoring, impedance, diagnosis, lyon-consensus]
 created: 2026-05-15
-updated: 2026-07-29
+updated: 2026-08-12
 sources: [lyon-2024-gerd-diagnosis, acg-2020-esophageal-physiologic-testing]
 ---
 
@@ -41,6 +41,8 @@ The Lyon 2.0 framework has two foundational principles:
 | LA grade B, C, or D oesophagitis | Conclusive |
 | Biopsy-proven [[barretts-esophagus\|Barrett's oesophagus]] | Conclusive |
 | Peptic stricture | Conclusive |
+
+*LA grade definitions (size/confluence of mucosal breaks) live on [[reflux-testing]].*
 
 **Key update:** LA grade B is now conclusive. Its AET on wireless pH monitoring is 8.23% (vs. 9.95% for grade C), and on pH-impedance is 6.0% (vs. 8.7% for grade C). [[proton-pump-inhibitors|PPI]] response rate is 74% for grade B vs. 70% for grade C — comparable to higher grades.
 
@@ -155,7 +157,7 @@ The original endoscopic mucosal impedance devices (catheter through biopsy chann
 | Modality | Indication | Notes |
 |---|---|---|
 | **Prolonged wireless pH monitoring (48–96h)** | **Preferred** for unproven GERD with typical symptoms (heartburn, chest pain, regurgitation) | Best diagnostic yield at 96h (AUC 0.63 vs. 0.57 for 48h, p=0.01); better patient tolerance; captures day-to-day AET variability; AET <4% across all 4 days = 10x greater odds of PPI discontinuation |
-| **pH-Impedance monitoring (24h, catheter-based)** | When belching is prominent or supragastric belching/rumination suspected; when pulmonary symptoms evaluated for GERD; when wireless pH unavailable | Detects all reflux types (acidic, weakly acidic, non-acidic, gaseous); gold standard for diagnosing supragastric belching; MNBI measurement available |
+| **pH-Impedance monitoring (24h, catheter-based)** | When belching is prominent or supragastric belching/rumination suspected; when [[extraesophageal-reflux\|pulmonary symptoms]] evaluated for GERD; when wireless pH unavailable | Detects all reflux types (acidic, weakly acidic, non-acidic, gaseous); gold standard for diagnosing supragastric belching; MNBI measurement available |
 | **Catheter-based pH monitoring alone** | When pH-impedance unavailable | Cannot detect supragastric belching/rumination; lower sensitivity for reflux episode counts; compromises symptom-reflux association accuracy |
 
 ### Proven GERD with Persisting Symptoms — Test ON optimised antisecretory therapy

@@ -3,7 +3,7 @@ title: "Resmetirom (Rezdiffra)"
 category: med
 tags: [resmetirom, rezdiffra, thr-beta, masld, mash, nash, fibrosis, pharmacotherapy, hpb, liver]
 created: 2026-05-31
-updated: 2026-07-17
+updated: 2026-08-12
 sources: [aasld-2024-resmetirom, aasld-2023-nafld]
 ---
 
@@ -11,7 +11,7 @@ sources: [aasld-2024-resmetirom, aasld-2023-nafld]
 
 ## Indication & candidacy
 
-- Adults with MASH and F2–F3; [[liver-biopsy|liver biopsy]] NOT required. Identify by imaging-based NILDA (VCTE 8–15 kPa or MRE 3.1–4.4 kPa) or historical biopsy. See [[noninvasive-liver-disease-assessment]].
+- Adults with MASH and F2–F3; [[liver-biopsy|liver biopsy]] NOT required. Identify by imaging-based NILDA ([[liver-stiffness-measurement|VCTE]] 8–15 kPa or MRE 3.1–4.4 kPa) or historical biopsy. See [[noninvasive-liver-disease-assessment]].
 - **Efficacy (MAESTRO-NASH, 52 wk):** MASH resolution without worsening fibrosis 26–30% (vs 10% placebo); ≥1-stage fibrosis improvement 24–26% (vs 14%).
 
 ## Dosing
@@ -40,7 +40,7 @@ Compensated or decompensated [[cirrhosis]]; uncontrolled active liver disease ([
 
 ## See Also
 
-[[nafld-masld]], [[semaglutide]], [[noninvasive-liver-disease-assessment]], [[drug-induced-liver-injury]], [[liver-biopsy]], [[autoimmune-hepatitis]], [[primary-biliary-cholangitis]]
+[[nafld-masld]], [[semaglutide]], [[noninvasive-liver-disease-assessment]], [[liver-stiffness-measurement]], [[drug-induced-liver-injury]], [[liver-biopsy]], [[cirrhosis]], [[autoimmune-hepatitis]], [[primary-biliary-cholangitis]]
 
 ---
 

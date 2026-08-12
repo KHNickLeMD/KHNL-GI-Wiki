@@ -3,7 +3,7 @@ title: "Gastroenteropancreatic Neuroendocrine Tumors (GEP-NETs)"
 category: disease-script
 tags: [neuroendocrine-tumor, net, gep-net, pannet, carcinoid, gastrinoma, insulinoma, glucagonoma, vipoma, zollinger-ellison, men1, prrt]
 created: 2026-06-18
-updated: 2026-08-11
+updated: 2026-08-12
 sources: [nccn-2026-net]
 ---
 
@@ -17,7 +17,7 @@ Diagnosis requires **histology** with neuroendocrine immunohistochemical markers
 
 Biochemical workup is **site- and syndrome-directed** rather than universal:
 
-- **Gastric:** [[upper-endoscopy|EGD]] with mapped biopsies, fasting serum gastrin (off PPI, which falsely elevates it), and gastric pH; vitamin B12 in suspected [[atrophic-gastritis]].
+- **Gastric:** [[upper-endoscopy|EGD]] with mapped biopsies, fasting serum gastrin (off [[proton-pump-inhibitors|PPI]], which falsely elevates it), and gastric pH; vitamin B12 in suspected [[atrophic-gastritis]].
 - **Pancreatic, functioning:** syndrome-specific hormones — gastrin (gastrinoma/[[peptic-ulcer-disease|Zollinger-Ellison]]), insulin/proinsulin/C-peptide during supervised fasting (insulinoma), glucagon (glucagonoma), VIP (VIPoma).
 - **Midgut / suspected carcinoid syndrome:** 24-h urinary 5-HIAA (serotonin metabolite); chromogranin A as a nonspecific adjunct.
 
@@ -87,7 +87,7 @@ flowchart TD
 
 ## See Also
 
-[[atrophic-gastritis]], [[gastric-premalignant-conditions]], [[peptic-ulcer-disease]], [[pancreatic-cancer]], [[pancreatic-cysts]], [[colorectal-cancer]], [[gastrointestinal-stromal-tumor]], [[subepithelial-lesion]], [[somatostatin-analogs]], [[endoscopic-ultrasound]], [[upper-endoscopy]], [[colonoscopy]]
+[[atrophic-gastritis]], [[gastric-premalignant-conditions]], [[peptic-ulcer-disease]], [[pancreatic-cancer]], [[pancreatic-cysts]], [[colorectal-cancer]], [[gastrointestinal-stromal-tumor]], [[subepithelial-lesion]], [[somatostatin-analogs]], [[proton-pump-inhibitors]], [[endoscopic-ultrasound]], [[upper-endoscopy]], [[colonoscopy]]
 
 ---
 

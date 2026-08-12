@@ -17,7 +17,7 @@ Idiopathic chronic inflammatory disorder of the large intestine. Continuous muco
 
 ### Establishing the Diagnosis
 
-**Suspect:** Hematochezia + increased stool frequency + bowel urgency
+**Suspect:** [[acute-lower-gi-bleeding|Hematochezia]] + increased stool frequency + bowel urgency
 
 **Confirm:**
 
@@ -130,7 +130,7 @@ Idiopathic chronic inflammatory disorder of the large intestine. Continuous muco
 ### Pre-Biologic Screening (same as for CD)
 
 - TB (IGRA preferred if BCG-vaccinated)
-- HBV (HBsAg, anti-HBc, anti-HBs); vaccinate if seronegative; antiviral prophylaxis if HBsAg+
+- [[chronic-hepatitis-b|HBV]] (HBsAg, anti-HBc, anti-HBs); vaccinate if seronegative; antiviral prophylaxis if HBsAg+
 - Update all vaccines before immunosuppression; live vaccines contraindicated after
 - **S1P modulators (ozanimod, etrasimod):** cardiac screening required before initiation (risk of bradycardia/AV block)
 

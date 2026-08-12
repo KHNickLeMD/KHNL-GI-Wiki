@@ -3,7 +3,7 @@ title: "Endoscopic Mucosal Resection (Colorectal)"
 category: advanced-procedure
 tags: [emr, endoscopic-resection, polypectomy, cold-snare, underwater-emr, hot-avulsion, lifting-agents, colorectal, post-emr-surveillance]
 created: 2026-08-11
-updated: 2026-08-11
+updated: 2026-08-12
 sources: [usmstf-2020-endoscopic-removal, asge-2020-endoscopic-removal, aga-2025-lifting-agents, usmstf-2020-followup-colonoscopy]
 ---
 
@@ -98,5 +98,5 @@ Snare resection over a submucosal cushion (or under water), the first-line techn
 
 1. [[usmstf-2020-endoscopic-removal|USMSTF 2020: Endoscopic Removal of Colorectal Lesions]]
 2. [[asge-2020-endoscopic-removal|ASGE 2020: Endoscopic Removal of Colorectal Lesions]]
-3. [[aga-2025-lifting-agents|AGA Clinical Practice Update on Endoscopic Lifting Agents: Commentary (2025)]]
+3. [[aga-2025-lifting-agents|AGA Clinical Practice Update on Endoscopic Lifting Agents: Commentary]]
 4. [[usmstf-2020-followup-colonoscopy|USMSTF 2020: Recommendations for Follow-Up After Colonoscopy and Polypectomy]]

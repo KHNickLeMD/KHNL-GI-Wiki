@@ -3,7 +3,7 @@ title: "Interventional EUS for Vascular Investigation and Therapy"
 category: advanced-procedure
 tags: [eus, gastric-varices, coil-embolization, cyanoacrylate, eus-ppg, portal-pressure-gradient, portal-vein-sampling, pseudoaneurysm, splenic-artery-embolization, rectal-varices, portal-hypertension]
 created: 2026-07-23
-updated: 2026-08-05
+updated: 2026-08-12
 sources: [aga-2023-interventional-eus-vascular, wang-2026-eus-ppg-delphi-consensus]
 ---
 
@@ -171,4 +171,4 @@ International expert modified-Delphi consensus (53 statements) on how to perform
 ## Sources
 
 1. [[aga-2023-interventional-eus-vascular|AGA 2023 Clinical Practice Update on Interventional EUS for Vascular Investigation and Therapy]]
-2. [[wang-2026-eus-ppg-delphi-consensus|International Expert Delphi Consensus on EUS-guided Portosystemic Pressure Gradient: Best Practices and Future Directions (2026)]]
+2. [[wang-2026-eus-ppg-delphi-consensus|International Expert Delphi Consensus on Endoscopic Ultrasound-guided Portosystemic Pressure Gradient: Best Practices and Future Directions]]

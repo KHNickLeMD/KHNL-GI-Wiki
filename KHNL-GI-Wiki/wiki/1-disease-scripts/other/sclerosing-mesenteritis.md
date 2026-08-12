@@ -3,7 +3,7 @@ title: "Sclerosing Mesenteritis"
 category: disease-script
 tags: [sclerosing-mesenteritis, mesenteric-panniculitis, misty-mesentery, igg4, tamoxifen, corticosteroids]
 created: 2026-06-27
-updated: 2026-07-16
+updated: 2026-08-12
 sources: [aga-2025-sclerosing-mesenteritis]
 ---
 
@@ -61,4 +61,4 @@ Rare idiopathic fibroinflammatory disorder of the bowel mesentery (spectrum: mes
 
 ## Sources
 
-1. [[aga-2025-sclerosing-mesenteritis|AGA Clinical Practice Update on Sclerosing Mesenteritis: Commentary (2025)]]
+1. [[aga-2025-sclerosing-mesenteritis|AGA Clinical Practice Update on Sclerosing Mesenteritis: Commentary]]

@@ -3,7 +3,7 @@ title: "Hepatic Encephalopathy"
 category: disease-script
 tags: [hepatic-encephalopathy, HE, cirrhosis, ammonia, lactulose, rifaximin, TIPS, portal-hypertension, ACLF, minimal-HE, covert-HE, overt-HE, portosystemic-shunting, brain-dysfunction, west-haven, bristol-stool-scale, sarcopenia]
 created: 2026-05-28
-updated: 2026-08-11
+updated: 2026-08-12
 sources: [aasld-easl-2014-hepatic-encephalopathy, acg-2026-hepatic-encephalopathy]
 ---
 
@@ -220,7 +220,7 @@ All elements initiated simultaneously ([[aasld-easl-2014-hepatic-encephalopathy]
 | [[fmt\|Fecal microbiota transplant]] | **Clinical trials only** | Phase 1/2a trials (enema and capsule) safe with reduced recurrence; route/dose not contributory |
 | Flumazenil | Not routinely recommended | Transient benefit, no survival effect; useful diagnostically or to temporize in benzodiazepine toxicity |
 | [[albumin\|Albumin (IV)]] | Role unclear | Limited data suggest higher complete-reversal rate and lower mortality as an adjunct; no benefit on HE resolution in one RCT |
-| RRT / plasma exchange / albumin dialysis (MARS) | **Not supported in cirrhosis** | Ammonia is dialyzable and early RRT may help in [[acute-liver-failure|ALF]] or urea-cycle disorders; insufficient data in cirrhosis. MARS reduces HE grade but its role is undefined |
+| RRT / plasma exchange / albumin dialysis (MARS) | **Not supported in cirrhosis** | Ammonia is dialyzable and early RRT may help in [[acute-liver-failure\|ALF]] or urea-cycle disorders; insufficient data in cirrhosis. MARS reduces HE grade but its role is undefined |
 | Health-information-technology tools | ACG 2026 Rec 15 (*conditional, very low certainty*) | Patient Buddy App, electronic order sets/clinical reminders — reduced 30-day readmissions ~40% in one study |
 
 **Deprescribing (ACG 2026, Key concept 15):** review the medication list and minimize agents that affect mental-status assessment or HE risk — **opiates** (also slow transit → more ammonia absorption), **benzodiazepines**, **gabapentin/pregabalin**, **sleep aids (zolpidem, zaleplon, eszopiclone)**, and **[[proton-pump-inhibitors|PPIs]]** (increased HE risk, likely via microbiota change from acid suppression). Deprescribe multidisciplinarily and with the patient.

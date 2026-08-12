@@ -3,7 +3,7 @@ title: "Obesity"
 category: disease-script
 tags: [obesity, weight-management, metabolic, semaglutide, glp1, intragastric-balloon]
 created: 2026-06-04
-updated: 2026-07-19
+updated: 2026-08-12
 sources: [aga-2022-obesity-pharm, aga-2021-intragastric-balloons]
 ---
 
@@ -77,7 +77,7 @@ Obesity is a clinical/anthropometric diagnosis; the reference sources address ma
 
 ## See Also
 
-[[semaglutide]], [[intragastric-balloon]], [[bariatric-surgery]], [[nafld-masld]]
+[[semaglutide]], [[intragastric-balloon]], [[bariatric-surgery]], [[nafld-masld]], [[proton-pump-inhibitors]]
 
 ---
 

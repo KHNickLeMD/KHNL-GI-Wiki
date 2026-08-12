@@ -3,7 +3,7 @@ title: "Helicobacter pylori Infection"
 category: disease-script
 tags: [h-pylori, peptic-ulcer, gastric-cancer, malt-lymphoma, eradication, dyspepsia, gastric, foregut]
 created: 2026-05-07
-updated: 2026-08-09
+updated: 2026-08-12
 sources: [acg-2017-hp-guidelines, acg-2024-hp-treatment, aga-2024-pcab]
 ---
 
@@ -46,7 +46,7 @@ sources: [acg-2017-hp-guidelines, acg-2024-hp-treatment, aga-2024-pcab]
 |---|---|
 | Peptic ulcer disease | Gastric or duodenal; risk of bleeding, perforation, obstruction |
 | Gastric MALT lymphoma | Low-grade B-cell lymphoma; eradication alone → remission in ~75% |
-| [[gastric-adenocarcinoma\|Gastric adenocarcinoma]] | Via Correa cascade: chronic gastritis → atrophy → metaplasia → dysplasia → cancer |
+| [[gastric-adenocarcinoma\|Gastric adenocarcinoma]] | Via the [[gastric-premalignant-conditions\|Correa cascade]]: chronic gastritis → atrophy → metaplasia → dysplasia → cancer |
 
 *H. pylori* eradication reduces but does not eliminate cancer risk once atrophy/metaplasia is established.
 
@@ -165,9 +165,9 @@ sources: [acg-2017-hp-guidelines, acg-2024-hp-treatment, aga-2024-pcab]
 
 ### Monitoring / Follow-Up
 
-- **Gastric ulcer:** repeat endoscopy 8–12 weeks post-eradication to confirm healing and exclude malignancy
+- **Gastric ulcer:** repeat [[upper-endoscopy|endoscopy]] 8–12 weeks post-eradication to confirm healing and exclude malignancy
 - **MALT lymphoma:** endoscopic surveillance after eradication (regression expected in ~75% with eradication alone for low-grade)
-- **Gastric cancer risk:** ongoing surveillance endoscopy if atrophy/intestinal metaplasia present at index endoscopy
+- **Gastric cancer risk:** ongoing surveillance endoscopy if atrophy/[[gastric-intestinal-metaplasia|intestinal metaplasia]] present at index endoscopy
 
 ---
 

@@ -3,7 +3,7 @@ title: "Cholangiocarcinoma"
 category: disease-script
 tags: [cholangiocarcinoma, biliary-stricture, hepatobiliary, ercp, eus, cholangioscopy, liver-transplantation]
 created: 2026-06-01
-updated: 2026-08-11
+updated: 2026-08-12
 sources: [nccn-2026-biliary-tract-cancers, asge-2023-indeterminate-biliary-strictures, asge-2021-malignant-hilar-obstruction]
 ---
 
@@ -175,7 +175,7 @@ flowchart TD
 
 ### Molecular Biomarker Testing
 
-Comprehensive multi-gene profiling is recommended for **all patients with unresectable or metastatic disease** who are systemic-therapy candidates, ideally **RNA-/transcriptome-based to maximize detection of gene fusions**. Actionable targets: **FGFR2 fusions/rearrangements** and **IDH1 mutations** (both enriched in iCCA), **BRAF V600E**, **HER2 (ERBB2)**, **NTRK1/2/3 fusions**, **RET fusions**, **NRG1 fusions** (added v1.2026), **KRAS G12C**, plus tumor-agnostic **MSI-H/dMMR** and **TMB-H**. ctDNA may complement tissue testing but can miss fusions. Consider germline testing/genetic counseling for dMMR/MSI-H tumors or a family history suggestive of BRCA1/2 pathogenic variants.
+Comprehensive multi-gene profiling is recommended for **all patients with unresectable or metastatic disease** who are systemic-therapy candidates, ideally **RNA-/transcriptome-based to maximize detection of gene fusions**. Actionable targets: **FGFR2 fusions/rearrangements** and **IDH1 mutations** (both enriched in iCCA), **BRAF V600E**, **HER2 (ERBB2)**, **NTRK1/2/3 fusions**, **RET fusions**, **NRG1 fusions** (added v1.2026), **KRAS G12C**, plus tumor-agnostic **MSI-H/dMMR** and **TMB-H**. ctDNA may complement tissue testing but can miss fusions. Consider germline testing/genetic counseling for dMMR/MSI-H tumors or a family history suggestive of [[brca-pathogenic-variants|BRCA1/2 pathogenic variants]].
 
 ### Systemic Therapy for Advanced Disease
 

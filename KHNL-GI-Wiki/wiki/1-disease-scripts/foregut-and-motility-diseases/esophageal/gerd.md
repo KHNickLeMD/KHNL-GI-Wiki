@@ -76,13 +76,15 @@ Objective severity is assessed endoscopically and with [[reflux-testing|reflux t
 
 ## Differential Diagnosis
 
+*Workup: see [[dyspepsia]].*
+
 | Condition | Key Distinguishing Features |
 |-----------|----------------------------|
 | [[eosinophilic-esophagitis\|Eosinophilic esophagitis]] | Dysphagia-predominant; younger patients; rings/furrows/exudate on EGD; >15 eos/HPF on biopsy; often atopic; PPI trial may partially respond but diagnosis requires biopsy |
 | [[achalasia\|Achalasia]] | Regurgitation of undigested food; dysphagia to liquids and solids; bird-beak on barium; elevated LES pressure on HRM; absent peristalsis |
-| Functional heartburn | Normal AET on pH study, normal impedance; symptom-reflux correlation absent; Rome V criteria; PPI often ineffective |
+| Functional heartburn | Normal AET on pH study, normal impedance; symptom-reflux correlation absent; [[disorders-of-gut-brain-interaction\|Rome V]] criteria; PPI often ineffective |
 | [[peptic-ulcer-disease\|Peptic ulcer disease]] | Epigastric pain; [[helicobacter-pylori-infection\|H. pylori]] association; EGD shows ulceration; not position-related |
-| Esophageal dysmotility | Dysphagia, chest pain; manometry distinguishes; consider pre-TIF workup |
+| [[chicago-classification-v4\|Esophageal dysmotility]] | Dysphagia, chest pain; manometry distinguishes; consider pre-TIF workup |
 | Laryngopharyngeal reflux / [[extraesophageal-reflux\|extraesophageal reflux]] | Throat-clearing, hoarseness, globus, chronic cough; see [[laryngopharyngeal-symptoms]]; diagnosis challenging, HEMII-pH may be required |
 | [[gastroparesis\|Gastroparesis]] | Postprandial bloating, nausea, early satiety; GERD guideline explicitly excludes this population |
 
@@ -154,7 +156,7 @@ Recommend for all patients with GERD symptoms:
 - Recommend for symptomatic confirmed GERD with predominant heartburn, at lowest effective dose for shortest necessary duration
 - Efficacy vs placebo: OR 4.2 for symptom relief, OR 11.4 for esophagitis healing
 - De-escalate after ≥6 months of therapy; address long-term management plans
-- Safety (large RCT, n~17,600, 3 years): no significant increase in cardiovascular events, CKD, C. diff, pneumonia, fractures, or dementia; only confirmed harm is modest enteric infection increase
+- Safety (large RCT, n~17,600, 3 years): no significant increase in cardiovascular events, CKD, [[clostridioides-difficile|C. diff]], pneumonia, fractures, or dementia; only confirmed harm is modest enteric infection increase
 
 **H2 receptor antagonists (H2RAs)**
 

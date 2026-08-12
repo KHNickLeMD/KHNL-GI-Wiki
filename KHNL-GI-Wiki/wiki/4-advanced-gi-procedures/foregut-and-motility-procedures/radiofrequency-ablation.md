@@ -3,7 +3,7 @@ title: "Radiofrequency Ablation (RFA)"
 category: advanced-procedure
 tags: [barretts-esophagus, rfa, ablation, eet, dysplasia, radiation-proctopathy, biliary, foregut]
 created: 2026-06-04
-updated: 2026-08-11
+updated: 2026-08-12
 sources: [asge-2018-barretts-eet, acg-2022-barretts, aga-2024-barretts-eet, asge-2019-radiation-proctopathy, acg-2023-biliary-strictures, aasld-2023-hcc]
 ---
 
@@ -95,8 +95,8 @@ Pooled EET safety (RFA ± EMR; 37 studies, 9,200 patients — [[asge-2018-barret
 ## Sources
 
 1. [[asge-2018-barretts-eet|ASGE Guideline: Endoscopic Eradication Therapy for Patients with Barrett's Esophagus-Associated Dysplasia and Intramucosal Cancer (2018)]]
-2. [[acg-2022-barretts|ACG Clinical Guideline: Diagnosis and Management of Barrett's Esophagus (2022 Update)]]
-3. [[aga-2024-barretts-eet|AGA Clinical Practice Guideline: Endoscopic Eradication Therapy for Barrett's Esophagus (2024)]]
-4. [[asge-2019-radiation-proctopathy|ASGE Guideline: Endoscopy for the Management of Chronic Radiation Proctopathy (2019)]]
-5. [[acg-2023-biliary-strictures|ACG Clinical Guideline: Diagnosis and Management of Biliary Strictures (2023)]]
-6. [[aasld-2023-hcc|AASLD Practice Guidance: Prevention, Diagnosis, and Treatment of Hepatocellular Carcinoma (2023)]]
+2. [[acg-2022-barretts|ACG 2022: Diagnosis and Management of Barrett's Esophagus]]
+3. [[aga-2024-barretts-eet|AGA Clinical Practice Guideline: Endoscopic Eradication Therapy of Barrett's Esophagus and Related Neoplasia (2024)]]
+4. [[asge-2019-radiation-proctopathy|ASGE 2019: Endoscopy for Bleeding from Chronic Radiation Proctopathy]]
+5. [[acg-2023-biliary-strictures|ACG 2023: Diagnosis and Management of Biliary Strictures]]
+6. [[aasld-2023-hcc|AASLD 2023 Practice Guidance on Prevention, Diagnosis, and Treatment of Hepatocellular Carcinoma]]

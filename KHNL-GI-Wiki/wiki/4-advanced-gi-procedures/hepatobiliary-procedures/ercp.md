@@ -3,7 +3,7 @@ title: "ERCP (Endoscopic Retrograde Cholangiopancreatography)"
 category: advanced-procedure
 tags: [ercp, biliary, pancreatic, hepatobiliary, sphincterotomy, stent, stone-extraction]
 created: 2026-05-16
-updated: 2026-08-11
+updated: 2026-08-12
 sources: [asge-2024-therapeutic-eus-biliary, asge-2023-post-ercp-pancreatitis, asge-2021-cholangitis, asge-2019-choledocholithiasis, asge-2023-post-transplant-biliary-strictures, asge-2015-ercp-benign-biliary, aga-2024-pregnancy-gi-liver, aga-2022-recurrent-pancreatitis-endoscopy, jagtap-2026-urgent-vs-early-ercp-cholangitis, aloysius-2026-ercp-timing-septic-shock-cholangitis]
 ---
 
@@ -104,6 +104,6 @@ sources: [asge-2024-therapeutic-eus-biliary, asge-2023-post-ercp-pancreatitis, a
 5. [[asge-2023-post-transplant-biliary-strictures|ASGE Guideline on Management of Post–Liver Transplant Biliary Strictures: Summary and Recommendations (2023)]]
 6. [[asge-2015-ercp-benign-biliary|ASGE Guideline: The Role of ERCP in Benign Diseases of the Biliary Tract (2015)]]
 7. [[aga-2024-pregnancy-gi-liver|AGA Clinical Practice Update on Pregnancy-Related Gastrointestinal and Liver Disease: Expert Review]]
-8. [[aga-2022-recurrent-pancreatitis-endoscopy|AGA 2022: Clinical Practice Update on the Endoscopic Approach to Recurrent Acute and Chronic Pancreatitis]]
+8. [[aga-2022-recurrent-pancreatitis-endoscopy|AGA Clinical Practice Update on the Endoscopic Approach to Recurrent Acute and Chronic Pancreatitis: Expert Review]]
 9. [[jagtap-2026-urgent-vs-early-ercp-cholangitis|Urgent versus Early ERCP in Mild-to-Moderate Acute Cholangitis: A Randomised Controlled Trial (Jagtap 2026)]]
 10. [[aloysius-2026-ercp-timing-septic-shock-cholangitis|Vasopressor-Indexed Timing of ERCP and Survival in Septic Shock from Tokyo Grade III Cholangitis (Aloysius 2026, DDW abstract)]]

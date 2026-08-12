@@ -3,7 +3,7 @@ title: "Laparoscopic Heller Myotomy (LHM)"
 category: advanced-procedure
 tags: [heller-myotomy, lhm, achalasia, myotomy, fundoplication, motility, foregut]
 created: 2026-06-10
-updated: 2026-08-05
+updated: 2026-08-12
 sources: [sages-2024-poem, acg-2020-achalasia]
 ---
 
@@ -17,7 +17,7 @@ Laparoscopic Heller myotomy (LHM) is the surgical anterior myotomy of the lower 
 - **Equivalent to PD and POEM for Type I/II achalasia** ([[chicago-classification-v4|Chicago Classification]] subtypes) — Strong/Moderate–High.
 - **Type III (spastic) achalasia:** LHM success **71%** vs **POEM 93%** — POEM preferred, as it allows a tailorable, longer myotomy (Strong/Moderate).
 - Werner 2019 RCT: POEM 83% vs LHM 82% at 2 years (noninferior).
-- POEM vs LHM meta-analysis: comparable dysphagia relief (POEM 93.5% vs LHM 91.0% at 12 months) but POEM has markedly higher GERD (OR 9.31 erosive esophagitis; 4.30 on pH monitoring).
+- POEM vs LHM meta-analysis: comparable [[dysphagia]] relief (POEM 93.5% vs LHM 91.0% at 12 months) but POEM has markedly higher GERD (OR 9.31 erosive esophagitis; 4.30 on pH monitoring).
 
 ## Selection vs POEM
 
@@ -31,7 +31,7 @@ Laparoscopic Heller myotomy (LHM) is the surgical anterior myotomy of the lower 
 
 ## See Also
 
-[[achalasia]], [[poem]], [[gerd]], [[high-resolution-manometry]], [[antireflux-surgery]], [[chicago-classification-v4]]
+[[achalasia]], [[poem]], [[gerd]], [[dysphagia]], [[high-resolution-manometry]], [[antireflux-surgery]], [[chicago-classification-v4]]
 
 ---
 

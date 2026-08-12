@@ -3,7 +3,7 @@ title: "Colonoscopy"
 category: general-procedure
 tags: [colonoscopy, crc-screening, polypectomy, surveillance, adenoma, serrated-polyp, colorectal, bowel-prep, split-dose, post-resection, crc-surveillance, metachronous]
 created: 2026-05-07
-updated: 2026-07-25
+updated: 2026-08-12
 sources: [usmstf-2020-followup-colonoscopy, usmstf-2021-crc-screening-age, usmstf-2020-endoscopic-removal, usmstf-2025-bowel-prep, acg-2025-bowel-prep, acg-2014-bowel-cleansing, asge-2015-bowel-preparation, usmstf-2015-crc-surveillance, aga-2025-cade-colonoscopy, aga-2023-ai-colon-polyp, asge-2015-scenic-ibd-dysplasia, aga-2024-glp1-endoscopy]
 ---
 
@@ -127,7 +127,7 @@ For detailed technique, see [[polypectomy]].
 |---|---|
 | ≤5mm | Cold snare (CSP) — preferred; NOT cold forceps |
 | 6–9mm | Cold snare |
-| 10–19mm non-pedunculated | Cold or hot snare ± injection; EMR for non-polypoid/serrated |
+| 10–19mm non-pedunculated | Cold or hot snare ± injection; [[endoscopic-mucosal-resection\|EMR]] for non-polypoid/serrated |
 | ≥20mm non-pedunculated | EMR — experienced endoscopist required |
 | Pedunculated ≥10mm | Hot snare |
 | Pedunculated (head ≥20mm or stalk ≥5mm) | Prophylactic loop/clips before hot snare |
@@ -272,10 +272,10 @@ High-risk = any of: surgery without TME; transanal local excision (TAE or TEM); 
 3. [[usmstf-2020-endoscopic-removal|USMSTF 2020: Endoscopic Removal of Colorectal Lesions]]
 4. [[usmstf-2025-bowel-prep|USMSTF 2025: Optimizing Bowel Preparation Quality for Colonoscopy]]
 5. [[acg-2025-bowel-prep|ACG 2025: Optimizing Bowel Preparation Quality for Colonoscopy]]
-6. [[acg-2014-bowel-cleansing|USMSTF 2014: Optimizing Adequacy of Bowel Cleansing for Colonoscopy]]
+6. [[acg-2014-bowel-cleansing|Optimizing Adequacy of Bowel Cleansing for Colonoscopy: Recommendations from the US Multi-Society Task Force on Colorectal Cancer (2014)]]
 7. [[asge-2015-bowel-preparation|ASGE 2015: Bowel Preparation Before Colonoscopy]]
 8. [[usmstf-2015-crc-surveillance|USMSTF 2015: Colonoscopy Surveillance after Colorectal Cancer Resection]]
 9. [[aga-2025-cade-colonoscopy|AGA Living Guideline: Computer-Aided Detection (CADe)-Assisted Colonoscopy (2025)]]
-10. [[aga-2023-ai-colon-polyp|AGA Clinical Practice Update on the Role of Artificial Intelligence in Colon Polyp Diagnosis and Management: Commentary (2023)]]
-11. [[asge-2015-scenic-ibd-dysplasia|SCENIC International Consensus Statement on Surveillance and Management of Dysplasia in IBD (2015)]]
-12. [[aga-2024-glp1-endoscopy|AGA 2024 Rapid Clinical Practice Update: Management of Patients Taking GLP-1 Receptor Agonists Prior to Endoscopy]]
+10. [[aga-2023-ai-colon-polyp|AGA Clinical Practice Update on the Role of Artificial Intelligence in Colon Polyp Diagnosis and Management: Commentary]]
+11. [[asge-2015-scenic-ibd-dysplasia|SCENIC International Consensus Statement on Surveillance and Management of Dysplasia in Inflammatory Bowel Disease (2015)]]
+12. [[aga-2024-glp1-endoscopy|AGA Rapid Clinical Practice Update on the Management of Patients Taking GLP-1 Receptor Agonists Prior to Endoscopy: Communication (2024)]]

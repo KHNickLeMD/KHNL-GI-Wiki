@@ -3,7 +3,7 @@ title: "Crohn's Disease"
 category: disease-script
 tags: [crohns, ibd, biologics, ileitis, colitis, perianal-fistula, stricture, fistula, anti-tnf]
 created: 2026-05-07
-updated: 2026-08-05
+updated: 2026-08-12
 sources: [acg-2025-crohns, aga-2025-crohns-pharm, aga-2021-crohns-pharm, aga-2023-biomarkers-cd, acg-2018-crohns, asge-2015-scenic-ibd-dysplasia, asge-2015-ibd, aga-2026-inpatient-ibd, aga-2026-therapeutic-endoscopy-ibd, aga-2024-intestinal-ultrasound, aga-2024-diet-nutrition-ibd, aga-2024-ibd-malignancy, aga-2024-pregnancy-gi-liver]
 ---
 
@@ -99,7 +99,7 @@ No single pathognomonic test. Diagnosis = integration of:
 
 ### Endoscopy
 
-- **Ileocolonoscopy with biopsies (required):** intubate TI; biopsy involved and uninvolved mucosa; photograph ileum
+- **[[colonoscopy|Ileocolonoscopy]] with biopsies (required):** intubate TI; biopsy involved and uninvolved mucosa; photograph ileum
 - [[ibd-endoscopic-scoring|SES-CD]] for objective scoring: 0–2 = remission; 3–6 mild; 7–15 moderate; >15 severe
 - [[ibd-endoscopic-scoring|Rutgeerts score]] for postoperative assessment at neoterminal ileum
 - **[[upper-endoscopy|Upper endoscopy]]:** if upper GI symptoms
@@ -115,7 +115,7 @@ No single pathognomonic test. Diagnosis = integration of:
 ### Pre-Biologic Screening
 
 - TB: IGRA (preferred over TST especially if BCG-vaccinated) + CXR; treat latent TB before starting biologic
-- HBV: HBsAg, anti-HBc, anti-HBs; vaccinate if seronegative; antiviral prophylaxis if HBsAg+
+- [[chronic-hepatitis-b|HBV]]: HBsAg, anti-HBc, anti-HBs; vaccinate if seronegative; antiviral prophylaxis if HBsAg+
 - HIV: if clinically indicated
 - Varicella IgG; update all vaccines (live vaccines only before starting immunosuppression)
 - Consider: HLA-DQA1*05 if starting anti-TNF (higher immunogenicity risk)
@@ -299,7 +299,7 @@ No single pathognomonic test. Diagnosis = integration of:
 
 - **Endoscopic balloon dilation** for symptomatic **benign** CD strictures (small bowel, colon, or ileocolonic anastomosis) **≤4 cm** in length, when feasible — durable clinical response ~58%, deferring surgery ([[asge-2015-ibd]]).
 - Biopsy strictures to exclude malignancy.
-- **Therapeutic-endoscopy details ([[aga-2026-therapeutic-endoscopy-ibd|AGA 2026 CPU]]):** EBD is first-line (technical/clinical success 74%–100%); best for **short (≤4–5 cm), simple** strictures without deep ulcers or fistula. Target **18–20 mm** with **wire-guided CRE balloons**; reassess after each dilation (perforation possible even with smaller balloons); **no benefit from intralesional steroids**. Stricture **≤5 cm** predicts surgery-free survival (risk ↑ ~8% per added cm). Alternatives: endoscopic stricturotomy, FCSEMS (limited by migration). **Hold antithrombotics, systemic steroids, and GLP-1 RAs** before; **prophylactic antibiotics not required** before EBD. **Fistulas:** optimize medical therapy, pick short/simple tracts, **prioritize drainage over closure**; visible dysplasia → EMR/ESD in expert hands.
+- **Therapeutic-endoscopy details ([[aga-2026-therapeutic-endoscopy-ibd|AGA 2026 CPU]]):** EBD is first-line (technical/clinical success 74%–100%); best for **short (≤4–5 cm), simple** strictures without deep ulcers or fistula. Target **18–20 mm** with **wire-guided CRE balloons**; reassess after each dilation (perforation possible even with smaller balloons); **no benefit from intralesional steroids**. Stricture **≤5 cm** predicts surgery-free survival (risk ↑ ~8% per added cm). Alternatives: endoscopic stricturotomy, FCSEMS (limited by migration). **Hold [[anticoagulation-gi-bleeding|antithrombotics]], systemic steroids, and GLP-1 RAs** before; **[[antibiotic-prophylaxis-endoscopy|prophylactic antibiotics]] not required** before EBD. **Fistulas:** optimize medical therapy, pick short/simple tracts, **prioritize drainage over closure**; visible dysplasia → [[endoscopic-mucosal-resection|EMR]]/[[endoscopic-submucosal-dissection|ESD]] in expert hands.
 
 ---
 
@@ -348,7 +348,7 @@ No single pathognomonic test. Diagnosis = integration of:
 **Malignancy risk:**
 
 - Colonic CD: CRC risk increased (same surveillance as UC); start at 8y if >30% colonic involvement
-- Small bowel CD: SB adenocarcinoma risk 18× increased (absolute risk low; AGA 2024 aHR 15.8); SB neuroendocrine tumor aHR 5.5; high suspicion for abrupt symptom change
+- Small bowel CD: SB adenocarcinoma risk 18× increased (absolute risk low; AGA 2024 aHR 15.8); SB [[gastroenteropancreatic-neuroendocrine-tumors|neuroendocrine tumor]] aHR 5.5; high suspicion for abrupt symptom change
 - Anal/perianal fistulizing CD: ↑ anal SCC (2.6 vs 0.8/10,000 PY); RF = HPV, long-standing perianal disease
 - [[primary-sclerosing-cholangitis|PSC]]: CRC surveillance from diagnosis; ↑ [[cholangiocarcinoma]] (>150× vs no PSC)
 - **Managing IBD drugs when a cancer develops** — see [[ibd-in-malignancy]]. Key: thiopurines/anti-TNF are the drugs of concern (thiopurine → lymphoma/NMSC; anti-TNF → melanoma; combo → hepatosplenic T-cell lymphoma); newer classes (vedolizumab, ustekinumab/anti–IL-23, JAK, S1P) show no malignancy signal. Prior-cancer history alone does **not** mandate withholding effective IBD therapy (reassuring registry data).
@@ -369,7 +369,7 @@ No single pathognomonic test. Diagnosis = integration of:
 
 ## See Also
 
-[[ulcerative-colitis]], [[inflammatory-bowel-disease]], [[uc-vs-crohns-comparison]], [[ibd-preventive-care]], [[ibd-endoscopic-scoring]], [[intestinal-ultrasound]], [[clostridioides-difficile]], [[celiac-disease]], [[colorectal-cancer]], [[primary-sclerosing-cholangitis]], [[capsule-endoscopy]], [[colonoscopy]], [[chronic-diarrhea]], [[nutrition-in-ibd]], [[ibd-in-malignancy]], [[liver-disease-in-pregnancy]], [[nausea-and-vomiting-of-pregnancy]]
+[[ulcerative-colitis]], [[inflammatory-bowel-disease]], [[uc-vs-crohns-comparison]], [[ibd-preventive-care]], [[ibd-endoscopic-scoring]], [[ibd-pain-management]], [[intestinal-ultrasound]], [[clostridioides-difficile]], [[celiac-disease]], [[colorectal-cancer]], [[primary-sclerosing-cholangitis]], [[capsule-endoscopy]], [[colonoscopy]], [[chronic-diarrhea]], [[nutrition-in-ibd]], [[ibd-in-malignancy]], [[toxic-megacolon]], [[pouchitis]], [[liver-disease-in-pregnancy]], [[nausea-and-vomiting-of-pregnancy]]
 
 ---
 

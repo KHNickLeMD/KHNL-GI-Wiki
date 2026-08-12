@@ -3,7 +3,7 @@ title: "POEM (Peroral Endoscopic Myotomy)"
 category: advanced-procedure
 tags: [poem, achalasia, myotomy, motility, esophageal, foregut, gerd, egjoo]
 created: 2026-05-16
-updated: 2026-08-08
+updated: 2026-08-12
 sources: [aga-2024-poem-advances, sages-2024-poem, sages-2021-poem]
 ---
 # POEM (Peroral Endoscopic Myotomy)
@@ -69,7 +69,7 @@ Endoscopic myotomy of the lower esophageal sphincter (LES) and distal esophageal
 *GERD is the main concern after any LES-disrupting myotomy — common, and often asymptomatic.*
 
 - Abnormal acid exposure **41–56%**; esophagitis **41–65%** after POEM; **~one-quarter asymptomatic** → symptoms alone insufficient (AGA 2024 BPA 10).
-- **Objective reflux testing generally 6–12 months post-POEM:**
+- **Objective [[reflux-testing|reflux testing]] generally 6–12 months post-POEM:**
   - **Off-PPI** pH monitoring if presence of [[gerd|GERD]] is in question.
   - **On-PPI** testing if GERD already established or esophagitis **[[gerd|LA grade B or higher]]** — assesses adequacy of acid suppression.
 - Reflux symptoms after POEM may **not** be acid-related (food stasis, acid fermentation, visceral hypersensitivity) — objective testing discriminates.
@@ -81,7 +81,7 @@ Endoscopic myotomy of the lower esophageal sphincter (LES) and distal esophageal
 *Long-term surveillance encouraged for disease progression and GERD complications (AGA 2024 BPA 11).*
 
 - [[achalasia|Achalasia]] is chronic → endoscopic surveillance to detect disease progression and complications of asymptomatic GERD; specific intervals not established. FLIP may be integrated to assess EGJ opening; some programs alternate esophagram and endoscopy.
-- **Esophageal cancer:** achalasia patients had **5-fold higher risk** (HR 4.6; 95% CI 2.3–9.2) vs non-achalasia in a 9314-patient cohort — supports (but is not a routine endorsement of) endoscopic surveillance.
+- **[[esophageal-cancer|Esophageal cancer]]:** achalasia patients had **5-fold higher risk** (HR 4.6; 95% CI 2.3–9.2) vs non-achalasia in a 9314-patient cohort — supports (but is not a routine endorsement of) endoscopic surveillance.
 - Follow-up endoscopy and/or pH monitoring to objectively evaluate abnormal acid exposure; screen for erosive esophagitis and [[barretts-esophagus|Barrett's esophagus]].
 
 ## Adverse Events
@@ -108,12 +108,12 @@ Endoscopic myotomy of the lower esophageal sphincter (LES) and distal esophageal
 
 ## See Also
 
-[[achalasia]], [[heller-myotomy]], [[high-resolution-manometry]], [[chicago-classification-v4]], [[flip-panometry]], [[esophagogastric-junction-outflow-obstruction]], [[distal-esophageal-spasm]], [[hypercontractile-esophagus]], [[g-poem]], [[gastroparesis]], [[gerd]], [[barretts-esophagus]], [[dysphagia]], [[upper-endoscopy]]
+[[achalasia]], [[heller-myotomy]], [[high-resolution-manometry]], [[chicago-classification-v4]], [[flip-panometry]], [[esophagogastric-junction-outflow-obstruction]], [[distal-esophageal-spasm]], [[hypercontractile-esophagus]], [[g-poem]], [[gastroparesis]], [[gerd]], [[reflux-testing]], [[barretts-esophagus]], [[esophageal-cancer]], [[dysphagia]], [[upper-endoscopy]]
 
 ---
 
 ## Sources
 
-1. [[aga-2024-poem-advances|AGA Clinical Practice Update on Advances in Per-Oral Endoscopic Myotomy (POEM) and Remaining Questions—What We Have Learned in the Past Decade: Expert Review (2024)]]
+1. [[aga-2024-poem-advances|AGA Clinical Practice Update on Advances in Per-Oral Endoscopic Myotomy (POEM) and Remaining Questions—What We Have Learned in the Past Decade: Expert Review]]
 2. [[sages-2024-poem|SAGES Guideline Update: Peroral Endoscopic Myotomy (POEM) for Achalasia (2024)]]
 3. [[sages-2021-poem|SAGES Guidelines for the Use of Peroral Endoscopic Myotomy (POEM) for the Treatment of Achalasia (2021)]]

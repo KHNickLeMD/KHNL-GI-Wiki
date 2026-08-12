@@ -3,7 +3,7 @@ title: "AKI in Cirrhosis (including HRS-AKI)"
 category: disease-script
 tags: [aki, cirrhosis, hrs, hepatorenal-syndrome, albumin, terlipressin, liver]
 created: 2026-05-15
-updated: 2026-07-23
+updated: 2026-08-12
 sources: [aga-2022-aki-cirrhosis, aga-2024-vasoactive-albumin-cirrhosis]
 ---
 
@@ -84,6 +84,8 @@ All of the following must be present:
 ---
 
 ## Differential Diagnosis
+
+*Workup: see [[ascites]] for the diagnostic-paracentesis/SBP evaluation that precedes the AKI workup in cirrhosis.*
 
 - **Hypovolemic/pre-renal AKI** — diarrhea (lactulose excess), GI bleeding, over-diuresis, large-volume paracentesis without albumin replacement
 - **HRS-AKI** — functional; triggered by [[spontaneous-bacterial-peritonitis|SBP]] (most common precipitant), other infections, GI bleeding, large-volume paracentesis
@@ -278,7 +280,7 @@ Post-LT: patients can be listed for high-priority kidney transplantation alone i
 
 ## See Also
 
-[[alcohol-associated-liver-disease]], [[chronic-hepatitis-b]], [[acute-liver-failure]], [[nutrition-in-liver-disease]], [[portal-hypertension]], [[acute-on-chronic-liver-failure]], [[spontaneous-bacterial-peritonitis]], [[ascites]], [[liver-transplantation]], [[tips]], [[somatostatin-analogs]]
+[[alcohol-associated-liver-disease]], [[chronic-hepatitis-b]], [[acute-liver-failure]], [[nutrition-in-liver-disease]], [[portal-hypertension]], [[acute-on-chronic-liver-failure]], [[spontaneous-bacterial-peritonitis]], [[ascites]], [[liver-transplantation]], [[tips]], [[somatostatin-analogs]], [[cirrhosis]], [[albumin]], [[antibiotic-prophylaxis-cirrhosis]], [[hepatic-encephalopathy]]
 
 ---
 

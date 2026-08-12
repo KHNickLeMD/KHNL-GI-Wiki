@@ -3,7 +3,7 @@ title: "Bariatric Surgery"
 category: advanced-procedure
 tags: [obesity, bariatric, weight-management, sleeve-gastrectomy, gastric-bypass, masld, gerd, iron-deficiency-anemia]
 created: 2026-06-04
-updated: 2026-08-11
+updated: 2026-08-12
 sources: [aga-2021-intragastric-balloons, aasld-2023-nafld, asge-2024-gerd, acg-2021-gerd, aga-2024-ida-management]
 ---
 
@@ -34,7 +34,7 @@ Per [[aasld-2023-nafld|AASLD 2023]] (Guidance Statement 22):
 > Bariatric surgery should be considered as a therapeutic option in patients who meet criteria for metabolic weight-loss surgery, as it effectively resolves NAFLD or NASH in the majority of patients without cirrhosis and reduces mortality from CVD and malignancy.
 
 - **Efficacy:** resolves NASH **without worsening fibrosis in ~80% at 1 year**, sustained at 5 years.
-- **Absolute contraindication: decompensated cirrhosis.**
+- **Absolute contraindication: decompensated [[cirrhosis]].**
 - **Compensated NASH cirrhosis:** only at high-volume centers, or in the context of [[liver-transplantation|liver transplantation]].
 - Sits within the lifestyle/weight-loss backbone of [[nafld-masld|MASLD]] management (weight-loss thresholds 3–5% for steatosis, 7–10% for steatohepatitis, ≥10% for fibrosis).
 
@@ -77,7 +77,7 @@ Per [[aga-2024-ida-management|AGA 2024]] (Best Practice Advice 7, *unrated*):
 
 ## See Also
 
-[[obesity]], [[intragastric-balloon]], [[semaglutide]], [[nafld-masld]], [[gerd]], [[barretts-esophagus]], [[antireflux-surgery]], [[upper-endoscopy]], [[iron-deficiency-anemia]], [[liver-transplantation]]
+[[obesity]], [[intragastric-balloon]], [[semaglutide]], [[nafld-masld]], [[cirrhosis]], [[gerd]], [[barretts-esophagus]], [[antireflux-surgery]], [[upper-endoscopy]], [[iron-deficiency-anemia]], [[liver-transplantation]]
 
 ---
 

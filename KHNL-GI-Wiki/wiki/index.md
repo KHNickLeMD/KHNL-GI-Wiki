@@ -207,10 +207,10 @@ updated: 2026-08-11
 - [[polypectomy]] — Colorectal polypectomy: lesion assessment (Paris/LST/NICE/WASP, non-lifting sign), technique by size and morphology incl. AGA 2024 tailored-polypectomy BPAs, tattoo, malignant polyp recognition and management (Haggitt/Kikuchi, favorable vs unfavorable histology, specimen handling, CAP reporting), quality standards and competency tools (4 sources)
 - [[upper-endoscopy]] — EGD quality standards: UGIB timing, BE surveillance, GPMC biopsy, celiac biopsy, peptic ulcer hemostasis (1 source)
 - [[argon-plasma-coagulation]] — APC: non-contact thermal hemostasis/ablation via ionized argon; GAVE, angioectasias, radiation proctopathy, GI bleeding (**stub**)
+- [[enteral-access]] — Choosing and managing enteral tubes: gastric vs small-bowel, nasoenteric vs PEG/PEGJ/DPEJ route selection, periprocedural antibiotics/antithrombotics, technique, and complications (1 source)
 
 ---
 
-- [[enteral-access]] — Choosing and managing enteral tubes: gastric vs small-bowel, nasoenteric vs PEG/PEGJ/DPEJ route selection, periprocedural antibiotics/antithrombotics, technique, and complications (1 source)
 ## Advanced GI Procedures
 
 ### Foregut and Motility Procedures

@@ -3,7 +3,7 @@ title: "Post-Transplant Lymphoproliferative Disorder (PTLD)"
 category: disease-script
 tags: [ptld, lymphoma, ebv, transplant, liver-transplant, de-novo-malignancy, immunosuppression]
 created: 2026-05-19
-updated: 2026-08-11
+updated: 2026-08-12
 sources: [aasld-2012-liver-transplant-long-term, aasld-ast-2025-liver-transplant-non-graft-complications]
 ---
 
@@ -77,7 +77,7 @@ Spectrum of lymphoid proliferations arising under immunosuppression after solid-
 
 ## See Also
 
-[[liver-transplantation]], [[calcineurin-inhibitors]], [[tacrolimus]], [[colonoscopy]], [[primary-sclerosing-cholangitis]]
+[[liver-transplantation]], [[antibody-mediated-rejection-liver-transplant]], [[calcineurin-inhibitors]], [[tacrolimus]], [[colonoscopy]], [[primary-sclerosing-cholangitis]]
 
 ---
 

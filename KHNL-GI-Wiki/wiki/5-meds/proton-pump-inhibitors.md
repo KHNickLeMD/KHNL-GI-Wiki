@@ -3,7 +3,7 @@ title: "Proton Pump Inhibitors (PPIs)"
 category: med
 tags: [ppi, acid-suppression, gerd, erosive-esophagitis, peptic-ulcer-disease, h-pylori, eoe, omeprazole, esomeprazole]
 created: 2026-07-21
-updated: 2026-07-31
+updated: 2026-08-12
 sources: [acg-2021-gerd, acg-2024-hp-treatment, acg-2025-eoe, acg-2022-barretts]
 ---
 
@@ -62,9 +62,9 @@ Standard-dose acid-suppression potency standardized to omeprazole = 1.00 ("omepr
 - **Indefinite maintenance PPI** for LA grade **C or D** erosive esophagitis (Strong/Moderate) — nearly 100% of LA grade C relapse within 6 months if stopped; recurrence can occur in as little as 1–2 weeks.
 
 ### Barrett's Esophagus
-- **At least once-daily PPI for all patients** with [[barretts-esophagus]] without contraindication; PPI use associated with reduced progression to HGD/EAC (aHR 0.32) — no evidence twice-daily is superior to once-daily for this purpose ([[acg-2022-barretts]]).
+- **At least once-daily PPI for all patients** with [[barretts-esophagus]] without contraindication; PPI use associated with reduced progression to HGD/[[esophageal-adenocarcinoma|EAC]] (aHR 0.32) — no evidence twice-daily is superior to once-daily for this purpose ([[acg-2022-barretts]]).
 - Combination **PPI + aspirin** for chemoprevention in appropriate candidates.
-- Twice-daily (maximal) acid suppression used periprocedurally before endoscopic resection/ablation.
+- Twice-daily (maximal) acid suppression used periprocedurally before [[endoscopic-eradication-therapy|endoscopic resection/ablation]].
 
 ### Eosinophilic Esophagitis
 - Initial treatment with **"high-dose" PPI = double the approved reflux dose** (e.g. omeprazole/esomeprazole **20–40 mg twice daily**), once-daily or divided before meals ([[acg-2025-eoe]]).
@@ -87,12 +87,12 @@ Standard-dose acid-suppression potency standardized to omeprazole = 1.00 ("omepr
 - First optimize **compliance and timing** (confirm taken 30–60 min before the first meal).
 - For persistent typical symptoms, twice-daily PPI × 8–12 wk may be tried before further testing; twice-daily dosing appears superior to once-daily double-dose.
 - Bedtime **H2RA as needed** may help nocturnal symptoms/nocturnal acid breakthrough (tachyphylaxis develops with scheduled use).
-- If on-therapy reflux monitoring is **negative**, stop the PPI (unless another indication exists).
+- If on-therapy [[ambulatory-reflux-monitoring|reflux monitoring]] is **negative**, stop the PPI (unless another indication exists).
 
 ## Safety / Adverse Effects
 *As stated in [[acg-2021-gerd]] — associations largely from weak observational data.*
 - **Common ADRs** (clinical trials / FDA labels): headache, abdominal pain, nausea, vomiting, diarrhea, constipation, flatulence — infrequent, abate on stopping; can be preparation-specific → switching PPI is reasonable.
-- **Putative serious associations** (chronic use): intestinal infections, pneumonia, stomach cancer, osteoporosis-related fractures, chronic kidney disease, vitamin/mineral deficiencies, myocardial infarction, stroke, dementia, early death. High-quality studies found PPIs do **not** significantly increase risk of any of these **except intestinal infections**; a small increase in others cannot be fully excluded. Benefits generally far outweigh theoretical risks.
+- **Putative serious associations** (chronic use): intestinal infections, pneumonia, [[gastric-adenocarcinoma|stomach cancer]], osteoporosis-related fractures, chronic kidney disease, vitamin/mineral deficiencies, myocardial infarction, stroke, dementia, early death. High-quality studies found PPIs do **not** significantly increase risk of any of these **except intestinal infections**; a small increase in others cannot be fully excluded. Benefits generally far outweigh theoretical risks.
 - **No routine monitoring/supplementation** in patients without other risk factors: calcium/vitamin D/BMD; vitamin B12; serum creatinine.
 - **Clopidogrel:** for LA grade C/D esophagitis or inadequately controlled GERD, benefits outweigh the proposed (highly questionable) cardiovascular risk.
 - **Renal insufficiency:** PPIs may be used with monitoring of renal function / nephrology input.
@@ -106,7 +106,7 @@ Standard-dose acid-suppression potency standardized to omeprazole = 1.00 ("omepr
 
 ## See Also
 
-[[potassium-competitive-acid-blockers]], [[vonoprazan]], [[gerd]], [[barretts-esophagus]], [[eosinophilic-esophagitis]], [[peptic-ulcer-disease]], [[helicobacter-pylori-infection]], [[bismuth-quadruple-therapy]]
+[[potassium-competitive-acid-blockers]], [[vonoprazan]], [[gerd]], [[barretts-esophagus]], [[eosinophilic-esophagitis]], [[peptic-ulcer-disease]], [[helicobacter-pylori-infection]], [[bismuth-quadruple-therapy]], [[ambulatory-reflux-monitoring]], [[endoscopic-eradication-therapy]], [[esophageal-adenocarcinoma]]
 
 ---
 

@@ -3,7 +3,7 @@ title: "Acute Pancreatitis"
 category: disease-script
 tags: [pancreatitis, acute-pancreatitis, hpb, gallstone-pancreatitis, necrotizing-pancreatitis, ercp, bisap, fluid-resuscitation, nutrition]
 created: 2026-05-07
-updated: 2026-08-11
+updated: 2026-08-12
 sources: [acg-2024-acute-pancreatitis, asge-2016-pancreatic-fluid-collections, asge-2015-benign-pancreatic-disease, demadaria-2022-waterfall, aga-2024-pregnancy-gi-liver, aga-2022-recurrent-pancreatitis-endoscopy, asge-2023-post-ercp-pancreatitis]
 ---
 
@@ -125,7 +125,7 @@ BISAP ≥3 = high risk for severe AP and mortality
 **EUS — preferred test for unexplained/idiopathic AP (AGA 2022, BPA 1):**
 
 - Etiology remains unexplained in **16–27%** of AP despite standard workup (history, meds, labs incl. TG/Ca, noninvasive imaging).
-- **EUS is the preferred diagnostic test after an unrevealing initial evaluation** — uncovers a potential etiology in **29–88%**; most common finding is **occult biliary lithiasis / microlithiasis**. Also detects [[ampullary-adenoma|ampullary lesions]], [[pancreatic-cysts|IPMN]], small tumors, early CP.
+- **EUS is the preferred diagnostic test after an unrevealing initial evaluation** — uncovers a potential etiology in **29–88%**; most common finding is **occult biliary lithiasis / microlithiasis**. Also detects [[ampullary-adenoma|ampullary lesions]], [[pancreatic-cysts|IPMN]], small tumors, [[chronic-pancreatitis|early CP]].
 - More likely than MRI to give a probable cause (**OR 3.79**, driven by sensitivity for occult biliary stones); [[mri-mrcp|MRI/MRCP]] is a complementary/alternative test and is better for ductal variants ([[pancreas-divisum|pancreas divisum]], anomalous PB union).
 - **Timing:** short delay of **2–6 weeks after AP resolution** (persistent inflammation obscures subtle lesions).
 - ⚠ **Occult ampullary/pancreatobiliary malignancy** in up to **5%** after a single unexplained AP, up to **12%** with [[recurrent-acute-pancreatitis|recurrent AP]].

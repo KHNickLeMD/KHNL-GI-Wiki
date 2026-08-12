@@ -3,7 +3,7 @@ title: "Recurrent Acute Pancreatitis"
 category: diagnostic-schema
 tags: [recurrent-acute-pancreatitis, idiopathic-pancreatitis, eus, mrcp, ercp, pancreas-divisum]
 created: 2026-07-29
-updated: 2026-07-29
+updated: 2026-08-12
 sources: [aga-2022-recurrent-pancreatitis-endoscopy]
 ---
 
@@ -68,4 +68,4 @@ flowchart TD
 
 ## Sources
 
-1. [[aga-2022-recurrent-pancreatitis-endoscopy|AGA 2022: Clinical Practice Update on the Endoscopic Approach to Recurrent Acute and Chronic Pancreatitis]]
+1. [[aga-2022-recurrent-pancreatitis-endoscopy|AGA Clinical Practice Update on the Endoscopic Approach to Recurrent Acute and Chronic Pancreatitis: Expert Review]]

@@ -3,7 +3,7 @@ title: "Acute-on-Chronic Liver Failure (ACLF)"
 category: disease-script
 tags: [ACLF, acute-on-chronic-liver-failure, cirrhosis, organ-failure, ICU, NACSELD, EASL-CLIF, terlipressin, HRS, hepatic-encephalopathy, infection, nutrition, liver-transplantation, palliative-care]
 created: 2026-05-28
-updated: 2026-08-10
+updated: 2026-08-12
 sources: [aasld-2024-aclf]
 ---
 
@@ -51,6 +51,8 @@ ACLF is a syndrome in patients with chronic liver disease (CLD) characterized by
 ---
 
 ## Differential Diagnosis
+
+*Workup: see [[abnormal-liver-chemistries]] for the aetiologic liver-test evaluation.*
 
 - Acute decompensation without ACLF — [[ascites]]/HE/AVH without extrahepatic organ failure; lower mortality
 - [[acute-liver-failure]] — no prior CLD; INR ≥1.5 + any degree HE; different prognosis/management; King's College Criteria for LT
@@ -234,7 +236,7 @@ Palliative care is essential in ACLF management; frequently underutilized (GS 49
 
 ## See Also
 
-[[acute-liver-failure]], [[aki-in-cirrhosis]], [[spontaneous-bacterial-peritonitis]], [[portal-hypertension]], [[variceal-upper-gi-bleeding]], [[ascites]], [[hepatopulmonary-syndrome-portopulmonary-hypertension]], [[liver-transplantation]], [[hepatic-encephalopathy]], [[alcohol-associated-liver-disease]], [[portal-vein-thrombosis]], [[hepatocellular-carcinoma]], [[nutrition-in-liver-disease]], [[rifaximin]], [[proton-pump-inhibitors]]
+[[acute-liver-failure]], [[aki-in-cirrhosis]], [[spontaneous-bacterial-peritonitis]], [[portal-hypertension]], [[variceal-upper-gi-bleeding]], [[ascites]], [[hepatopulmonary-syndrome-portopulmonary-hypertension]], [[liver-transplantation]], [[hepatic-encephalopathy]], [[alcohol-associated-liver-disease]], [[portal-vein-thrombosis]], [[hepatocellular-carcinoma]], [[nutrition-in-liver-disease]], [[rifaximin]], [[proton-pump-inhibitors]], [[abnormal-liver-chemistries]], [[cirrhosis]], [[albumin]], [[cirrhosis-hemostasis]], [[tips]]
 
 ---
 

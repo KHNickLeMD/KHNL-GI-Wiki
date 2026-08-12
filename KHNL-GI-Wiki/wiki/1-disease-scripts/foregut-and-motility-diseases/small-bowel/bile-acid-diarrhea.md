@@ -3,7 +3,7 @@ title: "Bile Acid Diarrhea"
 category: disease-script
 tags: [small-bowel, chronic-diarrhea, bile-acid-malabsorption, secretory-diarrhea, ibs-d, sehcat, bile-acid-sequestrant]
 created: 2026-06-04
-updated: 2026-08-11
+updated: 2026-08-12
 sources: [acg-2020-ibs, acg-2021-anorectal-disorders, aga-2023-epi, aga-2023-ostomies]
 ---
 
@@ -79,7 +79,7 @@ All rows from [[acg-2020-ibs]].
 |---|---|---|
 | **Colestipol** | Open-label; dose not stated in the guideline | 15/27 (**55.5%**) responders by study definition; significant improvement in IBS severity scores in IBS-D subjects assessed for BAM by SeHCAT, FGF-19 and C4 |
 | **Colesevelam** | **1,875 mg daily**, open-label, n = 12 | Increased bile acid retrieval from stool; **modest reduction in Bristol Stool Score (P = 0.043)** |
-| **Cholestyramine** | Dose not stated in ingested sources | Named (with colesevelam) as a **bile salt–binding agent** among the drugs used to manage diarrhea in [[fecal-incontinence|fecal incontinence with diarrhea]] [[acg-2021-anorectal-disorders]] |
+| **Cholestyramine** | Dose not stated in ingested sources | Named (with colesevelam) as a **bile salt–binding agent** among the drugs used to manage diarrhea in [[fecal-incontinence\|fecal incontinence with diarrhea]] [[acg-2021-anorectal-disorders]] |
 
 - **In ostomates:** bile acid diarrhea is treated as one of the reversible causes of chronic high ostomy output — evaluate for it before escalating antimotility/antisecretory therapy (see [[ostomy-management]]). [[aga-2023-ostomies]]
 - **Evidence quality caveat:** the sequestrant data above are **open-label, single-centre, and small**; ACG explicitly calls for methodologically rigorous, adequately powered trials.

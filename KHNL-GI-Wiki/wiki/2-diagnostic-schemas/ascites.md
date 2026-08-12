@@ -3,7 +3,7 @@ title: "Ascites"
 category: diagnostic-schema
 tags: [ascites, cirrhosis, saag, paracentesis, diuretics, tips]
 created: 2026-05-15
-updated: 2026-07-25
+updated: 2026-08-12
 sources: [aasld-2021-ascites-sbp-hrs, aga-2025-ascites-cirrhosis, aga-2024-vasoactive-albumin-cirrhosis]
 ---
 
@@ -234,5 +234,5 @@ SAAG = serum albumin − ascitic fluid albumin (simultaneous samples)
 ## Sources
 
 1. [[aasld-2021-ascites-sbp-hrs|AASLD 2021: Diagnosis, Evaluation, and Management of Ascites, SBP, and HRS in Cirrhosis]]
-2. [[aga-2025-ascites-cirrhosis|AGA Clinical Practice Update on the Management of Ascites, Volume Overload, and Hyponatremia in Cirrhosis: Expert Review (2025)]]
-3. [[aga-2024-vasoactive-albumin-cirrhosis|AGA 2024 Clinical Practice Update on the Use of Vasoactive Drugs and Intravenous Albumin in Cirrhosis]]
+2. [[aga-2025-ascites-cirrhosis|AGA Clinical Practice Update on the Management of Ascites, Volume Overload, and Hyponatremia in Cirrhosis: Expert Review]]
+3. [[aga-2024-vasoactive-albumin-cirrhosis|AGA Clinical Practice Update on the Use of Vasoactive Drugs and Intravenous Albumin in Cirrhosis: Expert Review (2024)]]

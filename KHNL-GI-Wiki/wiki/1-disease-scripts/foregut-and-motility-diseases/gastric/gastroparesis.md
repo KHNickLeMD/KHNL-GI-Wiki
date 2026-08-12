@@ -3,7 +3,7 @@ title: "Gastroparesis"
 category: disease-script
 tags: [gastroparesis, gastric-motility, prokinetics, g-poem, gastric-emptying, foregut]
 created: 2026-05-15
-updated: 2026-07-29
+updated: 2026-08-12
 sources: [acg-2022-gastroparesis, aga-2025-gastroparesis, surjanhata-2025-constipation-gastroparesis]
 ---
 
@@ -49,7 +49,7 @@ sources: [acg-2022-gastroparesis, aga-2025-gastroparesis, surjanhata-2025-consti
 **Nutritional staging:**
 
 - Mild: able to maintain oral intake with dietary modification
-- Moderate: oral intake inadequate; jejunal tube feeding required
+- Moderate: oral intake inadequate; [[enteral-access|jejunal tube feeding]] required
 - Severe: jejunostomy or parenteral nutrition dependent; refractory to medical therapy
 
 ### Classification / Typing
@@ -296,7 +296,7 @@ sources: [acg-2022-gastroparesis, aga-2025-gastroparesis, surjanhata-2025-consti
 
 ## See Also
 
-[[disorders-of-gut-brain-interaction]], [[gerd]], [[dyspepsia]], [[rumination-syndrome]], [[flip-panometry]], [[g-poem]], [[poem]], [[prucalopride]], [[upper-endoscopy]], [[nausea-and-vomiting]]
+[[disorders-of-gut-brain-interaction]], [[gerd]], [[dyspepsia]], [[rumination-syndrome]], [[cyclic-vomiting-syndrome]], [[cannabinoid-hyperemesis-syndrome]], [[flip-panometry]], [[g-poem]], [[poem]], [[prucalopride]], [[enteral-access]], [[upper-endoscopy]], [[nausea-and-vomiting]]
 
 ---
 

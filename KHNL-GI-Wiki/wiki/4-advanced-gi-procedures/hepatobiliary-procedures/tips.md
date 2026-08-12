@@ -3,7 +3,7 @@ title: "TIPS (Transjugular Intrahepatic Portosystemic Shunt)"
 category: advanced-procedure
 tags: [tips, portal-hypertension, variceal-bleeding, refractory-ascites, hepatic-encephalopathy, pspg, ptfe-stent, rto, brto, interventional-radiology]
 created: 2026-07-16
-updated: 2026-08-05
+updated: 2026-08-12
 sources: [aasld-2024-tips, aasld-2021-ascites-sbp-hrs, aga-2025-ascites-cirrhosis, aasld-2021-vascular-pvt, wang-2026-eus-ppg-delphi-consensus]
 ---
 
@@ -227,5 +227,5 @@ Priority research areas named by [[aasld-2024-tips]]: optimal intraprocedural PS
 2. [[aasld-2021-ascites-sbp-hrs|AASLD 2021: Diagnosis, Evaluation, and Management of Ascites, SBP, and HRS in Cirrhosis]]
 3. [[aga-2025-ascites-cirrhosis|AGA Clinical Practice Update on the Management of Ascites, Volume Overload, and Hyponatremia in Cirrhosis: Expert Review]]
 4. [[aasld-2021-vascular-pvt|AASLD Practice Guidance: Vascular Liver Disorders, Portal Vein Thrombosis, and Procedural Bleeding in Cirrhosis (2021)]]
-5. [[wang-2026-eus-ppg-delphi-consensus|International Expert Delphi Consensus on EUS-guided Portosystemic Pressure Gradient: Best Practices and Future Directions (2026)]]
+5. [[wang-2026-eus-ppg-delphi-consensus|International Expert Delphi Consensus on Endoscopic Ultrasound-guided Portosystemic Pressure Gradient: Best Practices and Future Directions]]
 

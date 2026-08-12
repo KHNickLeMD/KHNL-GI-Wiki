@@ -3,7 +3,7 @@ title: "Chronic Hepatitis B"
 category: disease-script
 tags: [hepatitis-b, HBV, antiviral, nucleoside-analogues, HCC-surveillance, immune-tolerant, indeterminate, functional-cure, pregnancy, co-infection]
 created: 2026-05-15
-updated: 2026-07-26
+updated: 2026-08-12
 sources: [aasld-idsa-2025-chb-treatment, acg-2016-liver-disease-pregnancy, aga-2025-hbv-reactivation, aga-2024-pregnancy-gi-liver]
 ---
 
@@ -32,7 +32,7 @@ CHB is defined as HBsAg-positive for >6 months. Screen all adults ≥18 years at
 
 Non-invasive fibrosis staging preferred:
 
-- **Vibration-controlled transient elastography (VCTE):** ≥7 kPa → F2 (Sn 69%, Sp 83%); ≥11 kPa → [[cirrhosis|cirrhosis]]
+- **[[liver-stiffness-measurement|Vibration-controlled transient elastography (VCTE)]]:** ≥7 kPa → F2 (Sn 69%, Sp 83%); ≥11 kPa → [[cirrhosis|cirrhosis]]
 - **FIB-4:** >1.45 → high sensitivity for advanced fibrosis (F3/F4); ≥3.25 → cirrhosis
 - Elastography outperforms FIB-4 overall; neither reliable in pregnancy
 - Liver biopsy: reserved for diagnostic uncertainty or staging ambiguity
@@ -222,7 +222,7 @@ Goal: HBV DNA <lower limit of quantification. HBV not transmitted by casual cont
 
 ## See Also
 
-[[hepatitis-d]], [[hepatitis-c]], [[hepatocellular-carcinoma]], [[hcc-surveillance]], [[portal-hypertension]], [[acute-on-chronic-liver-failure]], [[liver-transplantation]], [[aki-in-cirrhosis]], [[liver-disease-in-pregnancy]], [[abnormal-liver-chemistries]], [[noninvasive-liver-disease-assessment]], [[autoimmune-hepatitis]], [[drug-induced-liver-injury]], [[alcohol-associated-liver-disease]], [[nafld-masld]], [[wilson-disease]], [[direct-acting-antivirals]], [[liver-biopsy]]
+[[hepatitis-d]], [[hepatitis-c]], [[hepatocellular-carcinoma]], [[hcc-surveillance]], [[portal-hypertension]], [[acute-on-chronic-liver-failure]], [[liver-transplantation]], [[aki-in-cirrhosis]], [[liver-disease-in-pregnancy]], [[abnormal-liver-chemistries]], [[noninvasive-liver-disease-assessment]], [[autoimmune-hepatitis]], [[drug-induced-liver-injury]], [[alcohol-associated-liver-disease]], [[nafld-masld]], [[wilson-disease]], [[direct-acting-antivirals]], [[liver-biopsy]], [[cirrhosis]], [[liver-stiffness-measurement]]
 
 ---
 

@@ -3,7 +3,7 @@ title: "Variceal Upper GI Bleeding"
 category: diagnostic-schema
 tags: [cirrhosis, portal-hypertension, variceal-bleeding, upper-gi-bleeding, hemostasis, antibiotic-prophylaxis, TIPS, EVL, carvedilol, NSBB, gastric-varices, preemptive-TIPS]
 created: 2026-05-15
-updated: 2026-07-31
+updated: 2026-08-12
 sources: [albhaisi-2025-prophylactic-antibiotics-cirrhosis, aasld-2023-portal-hypertension, baveno-vii-2022-portal-hypertension, aga-2024-vasoactive-albumin-cirrhosis]
 ---
 
@@ -134,5 +134,5 @@ Standard practice recommends prophylactic antibiotics to prevent bacterial infec
 
 1. [[albhaisi-2025-prophylactic-antibiotics-cirrhosis|Prophylactic Antibiotics for Upper GI Bleeding in Patients With Cirrhosis — Journal Club (Albhaisi)]]
 2. [[aasld-2023-portal-hypertension|AASLD 2023 Practice Guidance on Portal Hypertension and Varices in Cirrhosis]]
-3. [[baveno-vii-2022-portal-hypertension|Baveno VII — Renewing Consensus in Portal Hypertension (J Hepatol 2022)]]
-4. [[aga-2024-vasoactive-albumin-cirrhosis|AGA 2024 Clinical Practice Update on the Use of Vasoactive Drugs and Intravenous Albumin in Cirrhosis]]
+3. [[baveno-vii-2022-portal-hypertension|Baveno VII — Renewing Consensus in Portal Hypertension (2022)]]
+4. [[aga-2024-vasoactive-albumin-cirrhosis|AGA Clinical Practice Update on the Use of Vasoactive Drugs and Intravenous Albumin in Cirrhosis: Expert Review (2024)]]

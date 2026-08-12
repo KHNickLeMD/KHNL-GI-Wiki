@@ -3,7 +3,7 @@ title: "Antibiotic Prophylaxis for GI Endoscopy"
 category: concept
 tags: [antibiotic-prophylaxis, infective-endocarditis, ercp, peg, eus-fna, cirrhosis, gi-bleeding, bacteremia, endoscopy]
 created: 2026-06-27
-updated: 2026-08-08
+updated: 2026-08-12
 sources: [asge-2015-antibiotic-prophylaxis, colan-hernandez-2020-eus-fna-panc-cyst-antibiotics]
 ---
 
@@ -23,7 +23,7 @@ Framework for when periprocedural antibiotics are — and are not — indicated 
 
 ## Bacteremia Risk by Procedure
 - **High:** esophageal dilation (12–22%; higher with malignant strictures, multiple dilators), variceal sclerotherapy (up to 52%, mean ~14.6%), instrumentation of obstructed bile ducts.
-- **Low:** diagnostic [[upper-endoscopy|EGD]] ± biopsy, [[colonoscopy]] ± biopsy/polypectomy, [[endoscopic-ultrasound|EUS]]-FNA of solid lesions, variceal band ligation.
+- **Low:** diagnostic [[upper-endoscopy|EGD]] ± biopsy, [[colonoscopy]] ± biopsy/[[polypectomy]], [[endoscopic-ultrasound|EUS]]-FNA of solid lesions, variceal band ligation.
 
 ## When Prophylaxis IS Indicated
 - **[[ercp|ERCP]] with anticipated incomplete biliary drainage** (eg, hilar strictures, [[primary-sclerosing-cholangitis|PSC]], post–[[liver-transplantation|liver transplant]], known/suspected obstruction) → cover biliary flora (enteric gram-negatives + enterococci); **continue after the procedure if drainage remains incomplete**. *Not* needed when complete drainage is expected and no obstruction is suspected.

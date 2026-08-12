@@ -3,7 +3,7 @@ title: "Pancreas Divisum"
 category: disease-script
 tags: [pancreas-divisum, congenital-anomaly, recurrent-acute-pancreatitis, minor-papilla, ercp, hpb]
 created: 2026-07-29
-updated: 2026-07-29
+updated: 2026-08-12
 sources: [aga-2022-recurrent-pancreatitis-endoscopy]
 ---
 
@@ -51,7 +51,7 @@ sources: [aga-2022-recurrent-pancreatitis-endoscopy]
 - **No role for ERCP for abdominal pain alone** in PD (BPA 2).
 - **Evidence:** uncontrolled retrospective series suggest endotherapy reduces/eliminates RAP in ~60–80%; only RCT (n=19) showed minor papilla stenting reduced future AP (10% vs 67%, P<.05), but stenting alone does not durably reshape the dorsal system. Ongoing sham-controlled RCT of minor papilla sphincterotomy is underway.
 - **Adverse events (must weigh before proceeding):**
-  - Post-ERCP pancreatitis **10–15%**
+  - Post-ERCP [[acute-pancreatitis|pancreatitis]] **10–15%**
   - Post-papillotomy (minor papilla) **stenosis up to 19% (1 in 5)** — may cause RAP frequency *higher* than baseline
   - Prolonged stent therapy adds risks: frequent exchanges, migration/occlusion, stent-induced ductal injury
 

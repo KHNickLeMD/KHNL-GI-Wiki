@@ -3,7 +3,7 @@ title: "Abdominal Bloating, Distention, and Belching"
 category: diagnostic-schema
 tags: [bloating, distention, belching, aerophagia, dgbi, functional-gi, sibo, fodmap]
 created: 2026-07-19
-updated: 2026-08-10
+updated: 2026-08-12
 sources: [aga-2023-bloating]
 ---
 
@@ -77,7 +77,7 @@ Three prevalent, often-overlapping symptoms; when frequent/severe enough to impa
 | 2-week dietary restriction | First-line, low-cost test for carbohydrate/food intolerance |
 | H₂/CH₄ breath testing (glucose/lactulose) | Carbohydrate intolerance; SIBO/IMO in selected at-risk patients |
 | tTG-IgA + total IgA | Screen for [[celiac-disease]] (biopsy if positive) |
-| Anorectal manometry + balloon expulsion | Pelvic floor dyssynergia when constipation/evacuation difficulty |
+| [[anorectal-manometry\|Anorectal manometry]] + balloon expulsion | Pelvic floor dyssynergia when constipation/evacuation difficulty |
 | Gastric emptying scintigraphy | Only if nausea/vomiting present — not routine |
 | CT/US abdomen | Only with alarm features/abnormal exam (ascites, mass, obstruction) |
 
@@ -89,7 +89,7 @@ Order labs/imaging/endoscopy (BPA 6) when present:
 - Recent worsening dyspepsia or abdominal pain, esp. new onset
 - Vomiting, GI bleeding
 - Unintentional weight loss >10% body weight
-- Chronic diarrhea, signs of malnutrition
+- [[chronic-diarrhea|Chronic diarrhea]], signs of malnutrition
 - Family history of GI malignancy, celiac disease, or IBD
 - Abnormal abdominal exam (mass, tympany, abnormal bowel sounds, succussion splash) → CT/US
 - Woman ≥50 with new bloating → consider ovarian cancer
@@ -111,7 +111,7 @@ Order labs/imaging/endoscopy (BPA 6) when present:
 
 ## See Also
 
-[[disorders-of-gut-brain-interaction]], [[irritable-bowel-syndrome]], [[chronic-idiopathic-constipation]], [[small-intestinal-bacterial-overgrowth]], [[intestinal-methanogen-overgrowth]], [[celiac-disease]], [[gastroparesis]], [[dyspepsia]], [[defecation-disorders]], [[nausea-and-vomiting]], [[gerd]], [[reflux-testing]], [[high-resolution-manometry]]
+[[disorders-of-gut-brain-interaction]], [[irritable-bowel-syndrome]], [[chronic-idiopathic-constipation]], [[small-intestinal-bacterial-overgrowth]], [[intestinal-methanogen-overgrowth]], [[celiac-disease]], [[gastroparesis]], [[dyspepsia]], [[defecation-disorders]], [[chronic-diarrhea]], [[nausea-and-vomiting]], [[gerd]], [[reflux-testing]], [[high-resolution-manometry]], [[anorectal-manometry]], [[biofeedback-therapy]], [[probiotics]]
 
 ---
 

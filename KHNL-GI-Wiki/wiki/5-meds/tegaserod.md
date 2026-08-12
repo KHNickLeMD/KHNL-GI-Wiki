@@ -3,7 +3,7 @@ title: "Tegaserod"
 category: med
 tags: [ibs, ibs-c, 5-ht4-agonist, serotonin]
 created: 2026-07-26
-updated: 2026-08-06
+updated: 2026-08-12
 sources: [acg-2020-ibs, aga-2022-ibs-c]
 ---
 
@@ -23,7 +23,7 @@ sources: [acg-2020-ibs, aga-2022-ibs-c]
 - **Women with [[irritable-bowel-syndrome|IBS-C]]**, per [[acg-2020-ibs|ACG 2020]] used in **women <65 with ≤1 cardiovascular risk factor** who have failed secretagogues ([[linaclotide]], [[plecanatide]], [[lubiprostone]]).
 - [[aga-2022-ibs-c|AGA 2022]] suggests tegaserod (Conditional, moderate certainty); FDA **limited reapproval** is for **women under age 65 without a history of cardiovascular ischemic events** (MI, stroke, TIA, or angina).
 - Regulatory history: FDA-approved 2002 (short-term IBS-C in women) and 2004 ([[chronic-idiopathic-constipation|CIC]] in men and women <65); **withdrawn 2007** after a retrospective analysis showed a small excess of CV ischemic events; later granted the limited reapproval above.
-- **Cardiovascular risk factors** (from the safety analysis; define the ≤1 restriction): hypertension, tobacco use, diabetes, hypercholesterolemia, age ≥55, obesity.
+- **Cardiovascular risk factors** (from the safety analysis; define the ≤1 restriction): hypertension, tobacco use, diabetes, hypercholesterolemia, age ≥55, [[obesity]].
 
 ## Dosing
 - **6 mg twice daily** ([[acg-2020-ibs|ACG 2020]]; [[aga-2022-ibs-c|AGA 2022]]).
@@ -49,11 +49,11 @@ sources: [acg-2020-ibs, aga-2022-ibs-c]
 
 ## See Also
 
-[[irritable-bowel-syndrome]], [[colon-ischemia]], [[linaclotide]], [[plecanatide]], [[lubiprostone]], [[chronic-idiopathic-constipation]], [[disorders-of-gut-brain-interaction]]
+[[irritable-bowel-syndrome]], [[colon-ischemia]], [[linaclotide]], [[plecanatide]], [[lubiprostone]], [[prucalopride]], [[chronic-idiopathic-constipation]], [[obesity]], [[disorders-of-gut-brain-interaction]]
 
 ---
 
 ## Sources
 
-1. [[acg-2020-ibs|ACG Clinical Guideline: Management of Irritable Bowel Syndrome (2020)]]
+1. [[acg-2020-ibs|ACG 2020 Clinical Guideline: Management of Irritable Bowel Syndrome]]
 2. [[aga-2022-ibs-c|AGA Clinical Practice Guideline: Pharmacological Management of IBS-C (2022)]]

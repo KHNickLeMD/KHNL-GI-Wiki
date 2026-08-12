@@ -3,7 +3,7 @@ title: "Subepithelial Lesion (SEL)"
 category: diagnostic-schema
 tags: [subepithelial-lesion, gist, leiomyoma, carcinoid, net, lipoma, eus, endoscopy]
 created: 2026-05-15
-updated: 2026-08-09
+updated: 2026-08-12
 sources: [acg-2023-subepithelial-lesions, asge-2017-subepithelial-lesions]
 ---
 
@@ -259,7 +259,7 @@ Small-intestine GISTs are **more aggressive** (40–50% malignant vs 20–25% ga
 
 - Managed like rectal carcinoids (no duodenal-specific guideline).
 - Nodal-metastasis risk by size: **2%** (<1 cm), **4.7%** (1–2 cm), **20%** (>2 cm).
-- Small (<1 cm) well-differentiated → endoscopic polypectomy/EMR.
+- Small (<1 cm) well-differentiated → endoscopic [[polypectomy]]/[[endoscopic-mucosal-resection|EMR]].
 - Refer for surgery if angioinvasion, muscularis propria invasion, or grade 2/3 histology.
 
 ### Jejunal / Ileal NETs
@@ -298,7 +298,7 @@ Small-intestine GISTs are **more aggressive** (40–50% malignant vs 20–25% ga
 
 ## See Also
 
-[[endoscopic-ultrasound]], [[polypectomy]], [[endoscopic-submucosal-dissection]], [[gastrointestinal-stromal-tumor]], [[gastroenteropancreatic-neuroendocrine-tumors]], [[atrophic-gastritis]], [[colonoscopy]], [[upper-endoscopy]], [[antibiotic-prophylaxis-endoscopy]], [[small-bowel-bleeding]]
+[[endoscopic-ultrasound]], [[polypectomy]], [[endoscopic-mucosal-resection]], [[endoscopic-submucosal-dissection]], [[endoscopic-full-thickness-resection]], [[gastrointestinal-stromal-tumor]], [[gastroenteropancreatic-neuroendocrine-tumors]], [[atrophic-gastritis]], [[colonoscopy]], [[upper-endoscopy]], [[antibiotic-prophylaxis-endoscopy]], [[small-bowel-bleeding]]
 
 ---
 

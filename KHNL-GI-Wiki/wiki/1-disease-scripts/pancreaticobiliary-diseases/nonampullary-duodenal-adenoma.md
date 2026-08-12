@@ -3,7 +3,7 @@ title: "Nonampullary Duodenal Adenoma"
 category: disease-script
 tags: [duodenal-adenoma, nonampullary-adenoma, endoscopic-mucosal-resection, cold-snare, familial-adenomatous-polyposis, spiegelman, surveillance, gi-bleeding, perforation]
 created: 2026-07-21
-updated: 2026-08-11
+updated: 2026-08-12
 sources: [aga-2025-nonampullary-duodenal]
 ---
 
@@ -98,7 +98,7 @@ Describe every duodenal polyp by **(BPA 3):**
 - **Postprocedural bleeding (BPA 10):** duodenal resection has **higher bleeding risk than elsewhere in the GI tract**, usually in the **first 48 h**, risk **proportional to lesion size** — 25% for lesions ≥30 mm; **>25% for lesions >3 cm**, may be life-threatening with hemodynamic compromise. After resuscitation, endoscopic hemostasis is generally effective.
 - **Perforation (BPA 11):** critically **evaluate the postpolypectomy/EMR defect** — unrecognized/untreated perforation may be life-threatening and often **mandates surgery**.
 - **High-risk patients** (multiple comorbidities, anticoagulation, bulky lesions ≥30 mm, significant intraprocedural bleeding, possible/closed perforation): **admit for observation** given the 25% bleeding risk. CS resection nearly eliminates bleeding risk but **bulky DAs are unsuitable for CS**.
-- **Post-procedure orders:** clear-liquid diet overnight, advance as tolerated over 6–8 weeks; **twice-daily PPI × 6–8 weeks**; individualize resumption of anticoagulation/antiplatelet therapy — **hold ≥48 h after resection** if acceptable, with a risk–benefit discussion. Insufficient data to support prophylactic hemostatic spray/topical agents.
+- **Post-procedure orders:** clear-liquid diet overnight, advance as tolerated over 6–8 weeks; **twice-daily [[proton-pump-inhibitors|PPI]] × 6–8 weeks**; individualize resumption of [[anticoagulation-gi-bleeding|anticoagulation/antiplatelet therapy]] — **hold ≥48 h after resection** if acceptable, with a risk–benefit discussion. Insufficient data to support prophylactic hemostatic spray/topical agents.
 
 ### Surveillance
 
@@ -109,7 +109,7 @@ Describe every duodenal polyp by **(BPA 3):**
 
 - In [[familial-adenomatous-polyposis|FAP]], DAs tend to **spare the duodenal bulb** and mostly involve the **descending duodenum**, with **decreasing severity distally** (jejunum, ileum). Most are **flat and subtle**.
 - **Resect (BPA 13)** FAP-associated DAs based on **size (≥1 cm)**, morphologic characteristics, **advanced histology (HGD)**, and/or **Spiegelman criteria**. Because of the mucosal field defect, permanent/complete polyp elimination is unrealistic — the strategy is to **control the disease** and remove larger/morphologically advanced lesions. Polyp removal may **down-stage** the Spiegelman score.
-- **Surveillance** may begin at **age 25**; interval set by Spiegelman stage. Deep enteroscopy/capsule reserved for **advanced polyposis** or polyps extending toward the **ligament of Treitz**. **Chromoendoscopy** increases detection and upstages severity but its clinical value is not established.
+- **Surveillance** may begin at **age 25**; interval set by Spiegelman stage. [[device-assisted-enteroscopy|Deep enteroscopy]]/capsule reserved for **advanced polyposis** or polyps extending toward the **ligament of Treitz**. **Chromoendoscopy** increases detection and upstages severity but its clinical value is not established.
 
 **Spiegelman classification (Table 1):**
 
@@ -134,7 +134,7 @@ Describe every duodenal polyp by **(BPA 3):**
 
 ## See Also
 
-[[ampullary-adenoma]], [[familial-adenomatous-polyposis]], [[peutz-jeghers-syndrome]], [[polypectomy]], [[endoscopic-submucosal-dissection]], [[colonoscopy]], [[upper-endoscopy]], [[capsule-endoscopy]], [[subepithelial-lesion]], [[gastroenteropancreatic-neuroendocrine-tumors]]
+[[ampullary-adenoma]], [[familial-adenomatous-polyposis]], [[peutz-jeghers-syndrome]], [[polypectomy]], [[endoscopic-submucosal-dissection]], [[colonoscopy]], [[upper-endoscopy]], [[capsule-endoscopy]], [[subepithelial-lesion]], [[gastroenteropancreatic-neuroendocrine-tumors]], [[endoscopic-mucosal-resection]], [[proton-pump-inhibitors]], [[anticoagulation-gi-bleeding]], [[device-assisted-enteroscopy]]
 
 ---
 

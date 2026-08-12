@@ -3,7 +3,7 @@ title: "Serrated Polyposis Syndrome"
 category: disease-script
 tags: [serrated-polyposis, sps, hyperplastic-polyposis, sessile-serrated, colorectal-cancer, polyposis, mutyh]
 created: 2026-05-19
-updated: 2026-07-29
+updated: 2026-08-12
 sources: [acg-2015-hereditary-gi-cancer]
 ---
 
@@ -29,7 +29,7 @@ sources: [acg-2015-hereditary-gi-cancer]
 **Epidemiology**:
 
 - True prevalence unknown; estimated 1 in 151 patients in NHS Bowel Cancer Screening Programme met SPS criteria at index [[colonoscopy]]
-- A Barcelona study found SPS prevalence of 8 in 2,355 (0.34%) in fecal immunochemical test-positive patients
+- A Barcelona study found SPS prevalence of 8 in 2,355 (0.34%) in [[colorectal-cancer-screening|fecal immunochemical test]]-positive patients
 - Strong association with cigarette smoking (smoking association is well-established; may intensify phenotypic expression)
 - Mean age at diagnosis ~48 years; pancolonic distribution (89–96% of index cases)
 
@@ -97,7 +97,7 @@ sources: [acg-2015-hereditary-gi-cancer]
 
 ## See Also
 
-[[familial-adenomatous-polyposis]], [[mutyh-associated-polyposis]], [[lynch-syndrome]], [[juvenile-polyposis-syndrome]], [[colorectal-cancer]], [[colonoscopy]], [[polypectomy]]
+[[familial-adenomatous-polyposis]], [[mutyh-associated-polyposis]], [[lynch-syndrome]], [[juvenile-polyposis-syndrome]], [[colorectal-cancer]], [[colorectal-cancer-screening]], [[colonoscopy]], [[polypectomy]]
 
 ---
 

@@ -3,7 +3,7 @@ title: "FLIP Panometry"
 category: advanced-procedure
 tags: [FLIP, panometry, esophageal-motility, EGJ, functional-lumen-imaging, achalasia, EGJOO, foregut]
 created: 2026-05-15
-updated: 2026-08-11
+updated: 2026-08-12
 sources: [dallas-2025-flip-panometry, aga-2025-flip-esophageal]
 ---
 
@@ -131,7 +131,7 @@ Six-category matrix combining EGJ Opening × Contractile Response:
 ### Indications & Use ([[aga-2025-flip-esophageal|AGA 2025 CPU]])
 
 - Perform a **high-quality [[upper-endoscopy|upper endoscopy]] immediately before** FLIP; consider FLIP when alternate tests (HRM/TBE) are **inconclusive** in obstructive symptoms, or at index endoscopy when expertise is available.
-- Standard endoscopy sedation (propofol/fentanyl/midazolam) does **not** meaningfully alter FLIP findings.
+- Standard [[endoscopy-sedation|endoscopy sedation]] (propofol/fentanyl/midazolam) does **not** meaningfully alter FLIP findings.
 - If EGD strongly supports achalasia, FLIP may **confirm** it; if EGD does not, abnormal EGJ opening should **prompt further testing**.
 - **Do not use FLIP to diagnose [[gerd|GERD]]** or decide on antireflux intervention.
 - Consider **intraprocedural FLIP during myotomy** (POEM/LHM) to gauge LES-disruption adequacy, and for **persisting obstructive symptoms after achalasia treatment**.
@@ -148,4 +148,4 @@ Six-category matrix combining EGJ Opening × Contractile Response:
 ## Sources
 
 1. [[dallas-2025-flip-panometry|Dallas Consensus on the Classification of Esophageal Motility Abnormalities: FLIP Panometry (v2.0)]]
-2. [[aga-2025-flip-esophageal|AGA Clinical Practice Update on Incorporating Functional Lumen Imaging Probe Into Esophageal Clinical Practice: Expert Review (2025)]]
+2. [[aga-2025-flip-esophageal|AGA Clinical Practice Update on Incorporating Functional Lumen Imaging Probe Into Esophageal Clinical Practice: Expert Review]]

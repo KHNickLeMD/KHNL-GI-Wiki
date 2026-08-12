@@ -3,7 +3,7 @@ title: "Upper Endoscopy (EGD)"
 category: general-procedure
 tags: [egd, upper-endoscopy, esophagogastroduodenoscopy, ugib, barrett-esophagus, peptic-ulcer, gpmc, celiac, quality-indicators]
 created: 2026-05-07
-updated: 2026-08-11
+updated: 2026-08-12
 sources: [acg-2025-egd-quality, aga-2024-upper-endoscopy-quality, aga-2024-glp1-endoscopy]
 ---
 
@@ -158,7 +158,7 @@ More rigorous documentation is recommended for Barrett's esophagus, gastric inte
 | [[barretts-esophagus\|Barrett's esophagus]] | Prague C&M criteria | [[barretts-esophagus]] |
 | Bleeding [[peptic-ulcer-disease\|peptic ulcers]] | Forrest classification | [[upper-gi-bleeding]] |
 | Superficial neoplastic lesions | Paris classification | [[polypectomy]] |
-| Gastroesophageal flap valve | Hill grade classification | — |
+| Gastroesophageal flap valve | Hill grade classification | [[reflux-testing]] |
 | [[eosinophilic-esophagitis\|Eosinophilic esophagitis]] | EREFS; I-SEE (emerging standard for disease activity) | [[eosinophilic-esophagitis]] |
 
 *Report the class, not a free-text description — each system's criteria are held on its home page (linked) rather than duplicated here.*
@@ -236,4 +236,4 @@ More rigorous documentation is recommended for Barrett's esophagus, gastric inte
 
 1. [[acg-2025-egd-quality|ACG/ASGE 2025: Quality Indicators for Upper GI Endoscopy (EGD)]]
 2. [[aga-2024-upper-endoscopy-quality|AGA 2024: Quality Indicators for Upper GI Endoscopy]]
-3. [[aga-2024-glp1-endoscopy|AGA 2024 Rapid Clinical Practice Update: Management of Patients Taking GLP-1 Receptor Agonists Prior to Endoscopy]]
+3. [[aga-2024-glp1-endoscopy|AGA Rapid Clinical Practice Update on the Management of Patients Taking GLP-1 Receptor Agonists Prior to Endoscopy: Communication (2024)]]

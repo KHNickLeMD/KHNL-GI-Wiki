@@ -3,7 +3,7 @@ title: "Anal Fissure"
 category: disease-script
 tags: [anal-fissure, anorectal, lis, sphincterotomy, botulinum, colorectal]
 created: 2026-05-16
-updated: 2026-07-24
+updated: 2026-08-12
 sources: [acg-2021-anorectal-disorders]
 ---
 
@@ -43,7 +43,7 @@ sources: [acg-2021-anorectal-disorders]
 | Crohn's perianal disease | Multiple/atypical fissures; skin tags; fistulas; [[crohns-disease]] |
 | Anal carcinoma | Persistent non-healing fissure-like lesion; biopsy required for any non-healing chronic fissure |
 | Sexually transmitted infections | Lateral fissures; history; appropriate serologies/cultures |
-| Solitary rectal ulcer syndrome | Rectal location; association with straining/prolapse; distinct histology |
+| [[rectal-prolapse\|Solitary rectal ulcer syndrome]] | Rectal location; association with straining/prolapse; distinct histology |
 
 ---
 
@@ -105,6 +105,7 @@ sources: [acg-2021-anorectal-disorders]
 ---
 
 ## See Also
+
 [[hemorrhoids]], [[crohns-disease]], [[anorectal-manometry]], [[defecation-disorders]], [[fecal-incontinence]], [[colonoscopy]], [[acute-lower-gi-bleeding]]
 
 ---

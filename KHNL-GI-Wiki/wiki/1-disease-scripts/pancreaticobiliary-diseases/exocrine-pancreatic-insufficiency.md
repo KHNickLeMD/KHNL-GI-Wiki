@@ -3,7 +3,7 @@ title: "Exocrine Pancreatic Insufficiency (EPI)"
 category: disease-script
 tags: [exocrine-pancreatic-insufficiency, epi, pert, fecal-elastase, malabsorption, steatorrhea, pancreas, hpb]
 created: 2026-07-18
-updated: 2026-07-18
+updated: 2026-08-12
 sources: [aga-2023-epi]
 ---
 
@@ -39,7 +39,7 @@ Failure of the pancreas to deliver a threshold level of digestive enzymes to the
 |------|----------------|--------------------|
 | **Loss of pancreatic parenchyma** | ↓ enzyme synthesis/secretion, ↓ bicarbonate | [[chronic-pancreatitis\|CP]], [[pancreatic-cancer\|pancreatic cancer]], cystic fibrosis, pancreatic resection |
 | **Ductal obstruction** | ↓ enzyme delivery | ampullary tumors, ductal stenosis, pancreatic cancer |
-| **↓ endogenous stimulation** | reduced CCK-mediated secretion; enteropathy | [[crohns-disease\|Crohn's]], [[celiac-disease\|celiac]], duodenal resection, somatostatinoma |
+| **↓ endogenous stimulation** | reduced CCK-mediated secretion; enteropathy | [[crohns-disease\|Crohn's]], [[celiac-disease\|celiac]], duodenal resection, [[gastroenteropancreatic-neuroendocrine-tumors\|somatostatinoma]] |
 | **Intraluminal inactivation / asynchrony** | enzymes destroyed or mistimed vs. meal | hypersecretory states ([[peptic-ulcer-disease\|gastrinoma]]), dumping syndrome, gastric/short-gut surgery |
 
 ## Differential Diagnosis
@@ -81,7 +81,8 @@ Conditions that mimic EPI or blunt the response to enzyme therapy (consider when
 - Untreated EPI → fat malabsorption, malnutrition, sarcopenia, osteoporosis/fracture, reduced quality of life, higher surgical complication and mortality rates.
 
 ## See Also
-[[chronic-pancreatitis]], [[pancreatic-cancer]], [[hereditary-pancreatitis]], [[celiac-disease]], [[small-intestinal-bacterial-overgrowth]], [[chronic-diarrhea]], [[bile-acid-diarrhea]]
+
+[[chronic-pancreatitis]], [[pancreatic-cancer]], [[hereditary-pancreatitis]], [[celiac-disease]], [[small-intestinal-bacterial-overgrowth]], [[chronic-diarrhea]], [[bile-acid-diarrhea]], [[gastroenteropancreatic-neuroendocrine-tumors]]
 
 ---
 

@@ -3,7 +3,7 @@ title: "Device-Assisted Enteroscopy (Deep Enteroscopy)"
 category: advanced-procedure
 tags: [deep-enteroscopy, dbe, sbe, spiral-enteroscopy, balloon-enteroscopy, small-bowel, gi-bleeding, device-assisted-enteroscopy]
 created: 2026-05-19
-updated: 2026-08-11
+updated: 2026-08-12
 sources: [acg-2015-small-bowel-bleeding, asge-2017-small-bowel-bleeding, asge-2015-deep-enteroscopy]
 ---
 
@@ -62,9 +62,8 @@ The scope reaches only part of the small bowel from either end, so the route is 
 
 - **Small-bowel tumors:** DE for tissue diagnosis and therapy when a tumor is detected by other tests (eg, VCE), or when suspicion is high despite negative initial testing. *(Low)*
 - **[[crohns-disease|Crohn's disease]]:** DE when imaging shows abnormalities within reach of the enteroscope — allows endoscopic + histologic evaluation and therapeutics (hemostasis, stricture dilation, foreign-body retrieval). *(Low)*
-- **Total enteroscopy** = intubation of the entire small bowel by one or both routes; useful for multiple lesions, negative initial DBE, or high suspicion after nondiagnostic VCE. DBE is most effective for achieving total enteroscopy.
 
-See [[small-bowel-bleeding]] for full algorithm.
+See [[small-bowel-bleeding]] for full algorithm; total-enteroscopy indications are under [[#Route Selection]].
 
 ---
 

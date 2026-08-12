@@ -3,7 +3,7 @@ title: "Enteral Access"
 category: general-procedure
 tags: [enteral-nutrition, peg, peg-j, nutrition, nasoenteric, dpej, buried-bumper]
 created: 2026-07-23
-updated: 2026-08-04
+updated: 2026-08-12
 sources: [aga-2025-endoscopic-enteral-access]
 ---
 
@@ -192,4 +192,4 @@ sources: [aga-2025-endoscopic-enteral-access]
 
 ## Sources
 
-1. [[aga-2025-endoscopic-enteral-access|AGA 2025 Clinical Practice Update on Endoscopic Enteral Access: Commentary]]
+1. [[aga-2025-endoscopic-enteral-access|AGA 2025 Clinical Practice Update on Endoscopic Enteral Access]]

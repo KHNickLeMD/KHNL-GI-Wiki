@@ -3,7 +3,7 @@ title: "Iron-Deficiency Anemia"
 category: disease-script
 tags: [iron-deficiency-anemia, ida, iron, ferritin, oral-iron, intravenous-iron, gi-bleeding, ibd, gave, celiac, angioectasia, bariatric]
 created: 2026-07-24
-updated: 2026-08-11
+updated: 2026-08-12
 sources: [aga-2020-ida, aga-2024-ida-management]
 ---
 
@@ -121,7 +121,7 @@ Per AGA 2020 [[aga-2020-ida]]:
 
 ## See Also
 
-[[small-bowel-bleeding]], [[celiac-disease]], [[helicobacter-pylori-infection]], [[inflammatory-bowel-disease]], [[angioectasia]], [[capsule-endoscopy]], [[colonoscopy]], [[upper-endoscopy]], [[bariatric-surgery]], [[obesity]], [[cirrhosis]], [[portal-hypertension]], [[iron-overload-and-iron-metabolism]]
+[[small-bowel-bleeding]], [[celiac-disease]], [[helicobacter-pylori-infection]], [[inflammatory-bowel-disease]], [[angioectasia]], [[capsule-endoscopy]], [[device-assisted-enteroscopy]], [[argon-plasma-coagulation]], [[somatostatin-analogs]], [[colonoscopy]], [[upper-endoscopy]], [[bariatric-surgery]], [[obesity]], [[cirrhosis]], [[portal-hypertension]], [[iron-overload-and-iron-metabolism]]
 
 ---
 

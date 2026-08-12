@@ -3,7 +3,7 @@ title: "Autoimmune Hepatitis"
 category: disease-script
 tags: [aih, autoimmune, hepatitis, liver, hpb, igg, immunosuppression, pregnancy, azathioprine, budesonide, mycophenolate-mofetil, mmf, tacrolimus, overlap-syndrome, pbc, psc, cirrhosis, liver-transplant]
 created: 2026-05-16
-updated: 2026-07-30
+updated: 2026-08-12
 sources: [acg-2017-liver-chemistries, acg-2016-liver-disease-pregnancy, aasld-2020-autoimmune-hepatitis]
 ---
 
@@ -90,7 +90,7 @@ AIH is an immune-mediated hepatitis characterized by elevated aminotransferases,
 - [[wilson-disease]] — young patient (<40 years); Kayser-Fleischer rings; low ceruloplasmin; elevated 24h urine copper; may cause acute hepatitis mimicking AIH
 - Viral hepatitis ([[chronic-hepatitis-b|HBV]], [[hepatitis-c|HCV]], HEV) — serology; HEV can mimic acute AIH in endemic regions; HCV may induce low-titer ANA/SMA
 - [[primary-biliary-cholangitis]] (PBC) — AMA positive (≥1:40); cholestatic pattern (ALP/GGT dominant); can coexist as overlap syndrome
-- [[primary-sclerosing-cholangitis]] — MRCP/ERCP with biliary stricturing; cholangiographic findings diagnostic
+- [[primary-sclerosing-cholangitis]] — [[mri-mrcp|MRCP]]/[[ercp|ERCP]] with biliary stricturing; cholangiographic findings diagnostic
 - Celiac-related hepatitis — TTG-IgA; modest transaminase elevation; resolves with gluten-free diet
 - [[hereditary-hemochromatosis]] — elevated ferritin; transferrin saturation; HFE mutation
 
@@ -123,7 +123,7 @@ AIH is an immune-mediated hepatitis characterized by elevated aminotransferases,
 ### Imaging
 
 - Liver ultrasound — assess for hepatomegaly, splenomegaly, signs of [[portal-hypertension|portal hypertension]], [[hcc-surveillance|HCC surveillance]] in cirrhosis
-- Elastography (VCTE/FibroScan or MRE) — fibrosis staging if biopsy not performed
+- [[liver-stiffness-measurement|Elastography (VCTE/FibroScan or MRE)]] — fibrosis staging if biopsy not performed
 - MRCP — if overlap with PSC suspected (elevated ALP, concomitant IBD)
 
 ### Liver Biopsy
@@ -264,8 +264,7 @@ See [[liver-transplantation]] for broader post-LT context.
 
 ## See Also
 
-
-[[abnormal-liver-chemistries]], [[drug-induced-liver-injury]], [[primary-biliary-cholangitis]], [[primary-sclerosing-cholangitis]], [[wilson-disease]], [[hereditary-hemochromatosis]], [[acute-liver-failure]], [[liver-disease-in-pregnancy]], [[liver-transplantation]], [[alcohol-associated-liver-disease]], [[hcc-surveillance]], [[tacrolimus]], [[portal-hypertension]], [[hepatic-encephalopathy]]
+[[abnormal-liver-chemistries]], [[drug-induced-liver-injury]], [[primary-biliary-cholangitis]], [[primary-sclerosing-cholangitis]], [[wilson-disease]], [[hereditary-hemochromatosis]], [[acute-liver-failure]], [[liver-disease-in-pregnancy]], [[liver-transplantation]], [[alcohol-associated-liver-disease]], [[hcc-surveillance]], [[tacrolimus]], [[portal-hypertension]], [[hepatic-encephalopathy]], [[cirrhosis]], [[liver-biopsy]], [[liver-stiffness-measurement]], [[mri-mrcp]], [[ercp]], [[celiac-disease]], [[inflammatory-bowel-disease]], [[cholangiocarcinoma]]
 
 ---
 

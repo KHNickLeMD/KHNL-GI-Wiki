@@ -9,7 +9,7 @@ sources: [aga-2024-vasoactive-albumin-cirrhosis]
 
 ## Overview
 
-- IV albumin is a **plasma volume expander** used in [[cirrhosis|cirrhosis]] to expand effective arterial blood volume in the vasodilatory–hyperdynamic circulatory state that drives decompensation.
+- IV albumin is a **plasma volume expander** used in [[cirrhosis]] to expand effective arterial blood volume in the vasodilatory–hyperdynamic circulatory state that drives decompensation.
 - Distinct from vasoconstrictors (terlipressin, [[somatostatin-analogs|octreotide]], norepinephrine, midodrine), which lower [[portal-hypertension|portal pressure]] via splanchnic vasoconstriction — albumin works by volume expansion.
 - Guidance below is from the **AGA 2024 Clinical Practice Update** (Best Practice Advice, BPA — Expert Review; **no formal evidence/strength ratings**; many statements rest on expert opinion / society guidelines).
 - Core roles: at large-volume paracentesis, in [[spontaneous-bacterial-peritonitis|SBP]], and as the volume expander of choice for [[aki-in-cirrhosis|AKI in cirrhosis]]. **Not** for uncomplicated [[ascites]].
@@ -21,8 +21,8 @@ sources: [aga-2024-vasoactive-albumin-cirrhosis]
 | **Large-volume (>5 L) paracentesis** | Give IV albumin (BPA 4) | **6–8 g per L of ascites removed** (expert opinion, per society guidelines); **lower doses (4 g/L) may be sufficient** |
 | **LVP in [[acute-on-chronic-liver-failure\|ACLF]]** | Give albumin during paracentesis | **6–8 g/L regardless of the volume removed** |
 | **SBP** | Albumin *may be considered* (BPA 5) | **1.5 g/kg body weight on day 1 + 1 g/kg on day 3** (empirical, per society guidelines). Highest-benefit subgroup: bilirubin >4 mg/dL, or AKI at baseline (creatinine >1.0 mg/dL and BUN >30 mg/dL) |
-| **AKI in cirrhosis + ascites (hospitalized)** | Albumin is the **volume expander of choice** (BPA 8) | ⚠ Source gives no specific albumin dose/regimen for AKI volume expansion |
-| **HRS-AKI** | Concurrent albumin *can be considered*, accounting for volume status; terlipressin is the vasoactive drug of choice (BPA 10) | ⚠ Source gives no specific albumin dose for HRS-AKI |
+| **AKI in cirrhosis + ascites (hospitalized)** | Albumin is the **volume expander of choice** (BPA 8) | AGA 2024 states no dose — the volume-challenge and HRS-AKI albumin regimens live on [[aki-in-cirrhosis]] |
+| **HRS-AKI** | Concurrent albumin *can be considered*, accounting for volume status; terlipressin is the vasoactive drug of choice (BPA 10) | Regimen as above (AKI-in-cirrhosis page); titrate to volume status |
 | **Uncomplicated ascites** (hospitalized or not) | **Do NOT use** albumin (BPA 6) | — |
 
 - Hepatorenal syndrome (HRS-AKI) is treated with a vasoconstrictor (terlipressin — see its own page) plus albumin as above; vasoactive drug dosing is **not** reproduced here.

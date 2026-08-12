@@ -3,7 +3,7 @@ title: "Semaglutide (Wegovy, Ozempic, Rybelsus)"
 category: med
 tags: [semaglutide, wegovy, ozempic, glp-1, glp1-ra, mash, masld, obesity, diabetes, t2dm, cardiovascular, ckd, weight-loss, essence-trial, select-trial, step-trials, hpb]
 created: 2026-05-25
-updated: 2026-07-22
+updated: 2026-08-12
 sources: [aasld-2025-semaglutide-mash, aga-2022-obesity-pharm, hendershot-2025-semaglutide-aud, aga-2024-glp1-endoscopy]
 ---
 
@@ -33,7 +33,7 @@ GLP-1 is an incretin hormone secreted by enteroendocrine L-cells in the distal i
 
 ### FDA Approval and Evidence Base
 
-Semaglutide (Wegovy, 2.4 mg/week SC) received **accelerated FDA approval in August 2025** for treatment of MASH with moderate-to-advanced fibrosis (consistent with stages F2–F3 fibrosis). Full approval awaits completion of the ESSENCE trial (expected 2028 or thereafter). [[aasld-2025-semaglutide-mash]]
+Semaglutide (Wegovy, 2.4 mg/week SC) received **accelerated FDA approval in August 2025** for treatment of [[nafld-masld|MASH]] with moderate-to-advanced fibrosis (consistent with stages F2–F3 fibrosis). Full approval awaits completion of the ESSENCE trial (expected 2028 or thereafter). [[aasld-2025-semaglutide-mash]]
 
 **ESSENCE trial (Phase 3, clinicaltrials.gov NCT04822181):**
 
@@ -77,7 +77,7 @@ flowchart TD
 
 | NIT | Recommended (F2–F3) | May use (individualized; exclude cirrhosis) | [[cirrhosis\|Cirrhosis]] — NOT approved |
 |---|---|---|---|
-| VCTE LSM (kPa) | 8–15 | 15–20 | >20 |
+| [[liver-stiffness-measurement\|VCTE]] LSM (kPa) | 8–15 | 15–20 | >20 |
 | MRE LSM (kPa) | 3.1–4.4 | 4.4–5.0 | >5.0 |
 | ELF score | 9.2–10.5 | 10.5–11.3 | >11.3 |
 | Liver histology | MASH F2–F3 (biopsy ≤6–12 months) | | Cirrhosis |
@@ -142,7 +142,7 @@ For VCTE 15–20 kPa, MRE 4.4–5 kPa, or ELF 10.5–11.3: individualized treatm
 |---|---|---|
 | Acute kidney injury (AKI) | Serum creatinine + eGFR at baseline, during initiation and titration; higher risk with vomiting, diarrhea, dehydration | Ensure adequate hydration; hold or reduce dose during significant GI intolerance; reassess renal function until recovery |
 | [[acute-pancreatitis\|Acute pancreatitis]] | Monitor for severe, persistent abdominal pain (± vomiting); check amylase/lipase if symptomatic | Discontinue immediately if suspected; avoid rechallenge after confirmed episode; contraindicated with history of pancreatitis |
-| Gallbladder disease (cholelithiasis/cholecystitis) | Monitor for right upper quadrant pain or biliary colic; RUQUS if symptomatic | Educate patients on biliary symptoms; caution in patients with history of gallbladder disease; 37% increased risk per meta-analysis (76 RCTs, n=103,371) |
+| Gallbladder disease (cholelithiasis/[[acute-cholecystitis\|cholecystitis]]) | Monitor for right upper quadrant pain or biliary colic; RUQUS if symptomatic | Educate patients on biliary symptoms; caution in patients with history of gallbladder disease; 37% increased risk per meta-analysis (76 RCTs, n=103,371) |
 | Thyroid C-cell tumors (MTC risk) | Review history of MTC/MEN2; monitor for neck mass, hoarseness, [[dysphagia]] | Contraindicated in MTC/MEN2; educate on symptoms; routine calcitonin testing NOT required; no conclusive human evidence for MTC causation |
 | Hypoglycemia (with insulin/secretagogues) | Monitor glucose in patients on insulin or sulfonylureas; 7.4% vs. 5.4% in ESSENCE (T2DM) | Adjust insulin/sulfonylurea dose; educate on hypoglycemia recognition; higher risk post-[[bariatric-surgery]] |
 | Heart rate increase (chronotropic effect) | Check pulse periodically; ask about palpitations or tachycardia | Caution in arrhythmia-prone patients; reassess if persistent tachycardia |
@@ -190,7 +190,7 @@ For VCTE 15–20 kPa, MRE 4.4–5 kPa, or ELF 10.5–11.3: individualized treatm
 
 ## See Also
 
-[[nafld-masld]], [[alcohol-associated-liver-disease]], [[acute-pancreatitis]], [[obesity]], [[resmetirom]], [[noninvasive-liver-disease-assessment]], [[liver-biopsy]], [[gastroparesis]], [[bariatric-surgery]], [[portal-hypertension]], [[endoscopy-sedation]]
+[[nafld-masld]], [[alcohol-associated-liver-disease]], [[acute-pancreatitis]], [[obesity]], [[resmetirom]], [[noninvasive-liver-disease-assessment]], [[liver-stiffness-measurement]], [[liver-biopsy]], [[gastroparesis]], [[acute-cholecystitis]], [[bariatric-surgery]], [[cirrhosis]], [[portal-hypertension]], [[endoscopy-sedation]]
 
 ---
 
