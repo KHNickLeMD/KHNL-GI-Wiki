@@ -3,7 +3,7 @@ title: "Polypectomy (Colorectal)"
 category: general-procedure
 tags: [polypectomy, cold-snare, colonoscopy, colorectal, paris-classification, nice-classification, malignant-polyp, submucosal-invasion, haggitt, kikuchi, tumor-budding, lymphovascular-invasion]
 created: 2026-05-07
-updated: 2026-08-11
+updated: 2026-08-12
 sources: [usmstf-2020-endoscopic-removal, asge-2020-endoscopic-removal, usmstf-2020-malignant-colorectal-polyps, aga-2024-tailored-polypectomy]
 ---
 
@@ -23,19 +23,19 @@ Optical assessment and removal of colorectal polyps at [[colonoscopy]] — the t
 
 ### Paris Classification (type 0 superficial lesions)
 
-| Type | Description |
-|---|---|
-| 0-Ip | Pedunculated |
-| 0-Is | Sessile |
-| 0-IIa | Superficially elevated (<2.5mm above mucosa) |
-| 0-IIb | Flat |
-| 0-IIc | Depressed (below normal mucosa) |
-| 0-IIa+IIc | Mixed elevated + depressed |
+Type 0 = superficial lesions (types 1–5 = advanced cancers). Split by **polypoid (0-I)** — protrudes from mucosa into the lumen — vs **non-polypoid (0-II)** — little to no protrusion; **excavated (0-III)** is rare in the colon. Use it to describe surface morphology in the report (Statement 1, conditional; low-quality evidence).
 
-- 0-IIc: 27–36% SMI risk; virtually all >20mm 0-IIc lesions have SMI
+| Type | Profile | Endoscopic appearance | Description | SMI risk |
+|---|---|---|---|---|
+| **0-Ip** — pedunculated | ![[polypectomy-2020-paris-schematic-0ip-07.png\|180]] | — | Attached to mucosa by a **stalk**; base of the lesion is narrow | — |
+| **0-Is** — sessile | ![[polypectomy-2020-paris-schematic-0is-07.png\|180]] | ![[polypectomy-2020-paris-endoscopic-0is-07.png\|200]] | **No stalk**; base and top of the lesion have the same diameter | — |
+| **0-IIa** — superficially elevated | ![[polypectomy-2020-paris-schematic-0iia-07.png\|180]] | ![[polypectomy-2020-paris-endoscopic-0iia-07.png\|200]] | Height **<2.5 mm** above normal mucosa (alternative definition: height < ½ the lesion diameter) | 0.7–2.4% |
+| **0-IIb** — flat | ![[polypectomy-2020-paris-schematic-0iib-07.png\|180]] | — | **No protrusion** above the mucosa at all | — |
+| **0-IIc** — depressed | ![[polypectomy-2020-paris-schematic-0iic-07.png\|180]] | ![[polypectomy-2020-paris-endoscopic-0iic-07.png\|200]] | Base **lower than** the surrounding normal mucosa; uncommon (1–6% of non-polypoid lesions) | **27–35.9%** — highest of any type; **>40%** if 6–10 mm; virtually all **>20 mm** have SMI |
+| **0-IIa+IIc** — mixed | *(not depicted)* | — | Combined elevated + depressed components | — |
+| **0-III** — excavated | ![[polypectomy-2020-paris-schematic-0iii-07.png\|180]] | — | Ulcerated; **rare in the colon** | — |
 
-![[polypectomy-2020-paris-classification-07.png|700x479]]
-*Figure 1 — Paris Endoscopic Classification of superficial (type 0) neoplastic lesions of the colon and rectum: schematic profile of each subtype with matching white-light/chromoendoscopy examples of 0-Is, 0-IIa, and 0-IIc. ([[usmstf-2020-endoscopic-removal]])*
+*Figure 1 — Paris Endoscopic Classification of superficial (type 0) neoplastic lesions of the colon and rectum. Profile column = schematic side-view of each subtype (red = lesion, dotted line = normal mucosal level). Endoscopic column = matching examples, white light on top, image-enhanced/chromoendoscopy below. Panels cropped from the source figure. ([[usmstf-2020-endoscopic-removal]])*
 
 ### Laterally Spreading Tumors (LSTs, ≥10mm)
 
@@ -78,10 +78,12 @@ Optical assessment and removal of colorectal polyps at [[colonoscopy]] — the t
 
 ### ≤5mm (Diminutive)
 
-- **Cold snare polypectomy (CSP):** standard of care
-- Cold forceps: NOT recommended (9–61% incomplete resection)
-- Hot biopsy forceps: NOT recommended (incomplete resection, poor specimens, complications)
-- Exception: ≤2mm difficult to snare → jumbo forceps acceptable
+- **Cold snare polypectomy (CSP):** standard of care for diminutive (≤5 mm) and small (6–9 mm) lesions (Strong; high-quality)
+- **Cold forceps: NOT recommended for diminutive (≤5 mm) lesions** — 9–61% incomplete resection (Strong; moderate-quality)
+- Hot biopsy forceps: NOT recommended for any colorectal polypectomy (incomplete resection, poor specimens, complications) (Strong; moderate-quality)
+- **Cold-forceps exception — the size cutoff differs between guidelines:**
+  - **≤2 mm**, only when CSP is technically difficult and single-bite resection is anticipated, using jumbo/large-capacity forceps ([[usmstf-2020-endoscopic-removal]], [[asge-2020-endoscopic-removal]])
+  - **1–3 mm** when CSP is technically difficult ([[aga-2024-tailored-polypectomy]] BPA 2 — newer; see the tailored-technique table below). Newer tier-1 source, so 1–3 mm is what this page follows.
 
 ### 6–9mm (Small)
 
@@ -125,7 +127,7 @@ Structured optical assessment (Paris/NICE/WASP/Kudo/JNET — see [[#Optical Diag
 | Scenario | Technique |
 |---|---|
 | **<10 mm** | **Cold snare polypectomy (CSP)** (BPA 2) |
-| **1–3 mm, CSP technically difficult** | Cold forceps acceptable — use **large-capacity/jumbo** forceps (large-capacity CFP noninferior for 3-mm polyps in a recent RCT) (BPA 2) |
+| **1–3 mm, CSP technically difficult** | Cold forceps acceptable — use **large-capacity/jumbo** forceps (noninferior for 3-mm polyps in a recent RCT) (BPA 2) |
 | **Any diminutive/small** | **Never hot forceps** (higher incomplete removal + delayed bleeding, esp. right colon) (BPA 3) |
 | **Intermediate 10–19 mm** | Judgment call — be familiar with CSP, HSP, and EMR (BPA 4). Larger/bulkier/**sessile/adenomatous** → hot (HSP ± injection); **flat (Paris IIa/IIb) or serrated** → cold (c-EMR preferred). Cold-snare failure is size-dependent (**~53% incomplete at 16–20 mm**) |
 | **Sessile 10–19 mm** | Consider **lifting agents or underwater EMR** (BPA 5) |

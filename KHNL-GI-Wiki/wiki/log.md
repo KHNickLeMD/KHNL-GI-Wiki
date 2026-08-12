@@ -6,6 +6,25 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-08-12] update | Paris classification rebuilt as a picture-per-type table; cold-forceps size cutoff reconciled (polypectomy)
+
+**Pages updated:**
+- `wiki/3-general-gi-procedures/polypectomy.md` — Paris section rebuilt as a per-type table: profile schematic + endoscopic example + source definition + SMI risk for each subtype. Adds **0-III (excavated)**, the 0-IIa/0-IIb/0-IIc definitions from Table 2 of [[usmstf-2020-endoscopic-removal]] (0-IIa <2.5 mm, or height < ½ lesion diameter), 0-IIa SMI risk 0.7–2.4%, and 0-IIc detail (1–6% of non-polypoid lesions; >40% SMI at 6–10 mm). Replaces the whole-figure embed — panels are crops of the same Figure 1.
+- Same page, `### ≤5mm (Diminutive)` — **cold-forceps exception was a single unattributed number**; now shows both tier-1 cutoffs and which one the page follows: **≤2 mm** (USMSTF/ASGE 2020, jumbo forceps, single-bite anticipated) vs **1–3 mm** ([[aga-2024-tailored-polypectomy]] BPA 2, newer → what the page follows). Cold forceps remain not recommended for diminutive (≤5 mm) lesions generally; ≤5 mm is the *diminutive* size band, never a cold-forceps indication.
+
+**Assets created (crops of `polypectomy-2020-paris-classification-07.png`):**
+- `raw/assets/polypectomy-2020-paris-schematic-{0ip,0is,0iia,0iib,0iic,0iii}-07.png`
+- `raw/assets/polypectomy-2020-paris-endoscopic-{0is,0iia,0iic}-07.png` (white light + image-enhanced pair)
+- `raw/assets/polypectomy-2020-paris-endoscopic-unlabeled-07.png` (labels cropped off, card front)
+
+**Cards:** `cards/3-general-gi-procedures/polypectomy.md` — `[c22f8a]` 0-IIc SMI risk corrected 27–36% → **27–35.9%** with the 6–10 mm and 0-IIa-contrast figures in Back Extra; new `[5d7b92]` image-front recognition card (name the Paris type of three white-light lesions, labelled figure as the answer key). `[8e4d19]` already carried the AGA 1–3 mm cutoff — unchanged.
+
+**Card hygiene (build now reports 0 problems, 87 notes):**
+- `tags:` added to the 5 files that lacked it — hepatic-encephalopathy, hepatocellular-carcinoma, portal-hypertension (`GI::Organs::Liver::…`), gastrointestinal-stromal-tumor (`GI::Organs::Stomach::GIST`), hepatic-venous-pressure-gradient. Leaf names follow the documented tree but were not dictated by Nick — correct in place if they don't match his collection.
+- Stale-card flags on `hepatic-encephalopathy` and `endoscopic-mucosal-resection` cleared by bumping `page_updated:` only — the 2026-08-12 lint pass changed those pages cosmetically (alias-pipe escape, source-title trim), no clinical content, so no card text needed to change.
+
+---
+
 ## [2026-08-11] ingest | DDW 2026 abstract — Vasopressor-indexed ERCP timing in TG III cholangitis with septic shock (Aloysius)
 
 **Source created:**
