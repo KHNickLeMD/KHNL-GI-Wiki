@@ -3,7 +3,7 @@ title: "Pancreatic Cysts"
 category: disease-script
 tags: [pancreatic-cysts, ipmn, mcn, serous-cystadenoma, pseudocyst, spn, pancreas, eus-fna, mrcp, surveillance, pancreatic-cancer]
 created: 2026-05-19
-updated: 2026-08-07
+updated: 2026-08-13
 sources: [acg-2018-pancreatic-cysts, colan-hernandez-2020-eus-fna-panc-cyst-antibiotics, asge-2015-antibiotic-prophylaxis]
 ---
 
@@ -139,6 +139,8 @@ Pancreatic cysts are a heterogeneous group of lesions, most detected incidentall
 ---
 
 ## Differential Diagnosis
+
+*No diagnostic schema covers the incidentally found pancreatic cyst — the workup algorithm for this page is Figure 1 under [[#Establishing the Diagnosis]] above.*
 
 | Cyst Type | Key Distinguishing Feature | Cancer Risk |
 |---|---|---|

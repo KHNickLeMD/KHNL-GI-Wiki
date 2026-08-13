@@ -3,7 +3,7 @@ title: "Immune Checkpoint Inhibitor Hepatitis (ICI Hepatotoxicity)"
 category: disease-script
 tags: [ici, immunotherapy, hepatitis, dili, liver, hpb, checkpoint-inhibitor]
 created: 2026-05-16
-updated: 2026-07-22
+updated: 2026-08-13
 sources: [acg-2021-dili, aasld-2022-dili]
 ---
 
@@ -34,7 +34,7 @@ ICI hepatotoxicity is an **immune-related adverse event (irAE)** of PD-1/PD-L1 i
 | 4 | >20× ULN |
 
 - Hepatocellular [[jaundice]] carries up to **10% mortality** in DILI (Hy's law) — see [[drug-induced-liver-injury]]. [[acg-2021-dili]]
-- Monitor for progression to [[acute-liver-failure]] and refer for transplant evaluation when indicated. [[aasld-2022-dili]]
+- Monitor for progression to [[acute-liver-failure]] and refer for [[liver-transplantation|transplant]] evaluation when indicated. [[aasld-2022-dili]]
 
 ---
 
@@ -54,7 +54,7 @@ ICI hepatotoxicity is an **immune-related adverse event (irAE)** of PD-1/PD-L1 i
 
 - **LFTs at baseline and each cycle** — the practical surveillance strategy.
 - **Autoantibody panel (ANA, SMA)** — screens for baseline AIH; typically negative in ICI hepatitis.
-- **Liver biopsy** — for grade 3–4 injury or diagnostic uncertainty (biopsy indications per [[acg-2021-dili]]; see [[drug-induced-liver-injury]] for RUCAM/causality and general biopsy criteria).
+- **[[liver-biopsy|Liver biopsy]]** — for grade 3–4 injury or diagnostic uncertainty (biopsy indications per [[acg-2021-dili]]; see [[drug-induced-liver-injury]] for RUCAM/causality and general biopsy criteria).
 - Exclude competing etiologies: viral serologies, imaging for obstruction/metastases. [[aasld-2022-dili]]
 
 ---
@@ -79,7 +79,7 @@ ICI hepatotoxicity is an **immune-related adverse event (irAE)** of PD-1/PD-L1 i
 
 ## See Also
 
-[[drug-induced-liver-injury]], [[autoimmune-hepatitis]], [[abnormal-liver-chemistries]], [[hepatocellular-carcinoma]], [[tacrolimus]], [[acute-liver-failure]], [[ibd-in-malignancy]]
+[[drug-induced-liver-injury]], [[autoimmune-hepatitis]], [[abnormal-liver-chemistries]], [[jaundice]], [[hepatocellular-carcinoma]], [[tacrolimus]], [[liver-biopsy]], [[liver-transplantation]], [[acute-liver-failure]], [[ibd-in-malignancy]]
 
 ---
 

@@ -3,7 +3,7 @@ title: "Chronic Diarrhea"
 category: diagnostic-schema
 tags: [diarrhea, chronic, malabsorption, secretory, osmotic, inflammatory, steatorrhea, ibs]
 created: 2026-06-04
-updated: 2026-08-11
+updated: 2026-08-13
 sources: [asge-2010-diarrhea]
 ---
 
@@ -36,7 +36,7 @@ The most useful framework is to classify by **stool character** into watery, inf
 - **[[microscopic-colitis|Microscopic colitis]]** — collagenous and lymphocytic; older women; normal-appearing [[colonoscopy]] requiring random biopsies; NSAID/PPI/SSRI association
 - **[[bile-acid-diarrhea|Bile acid diarrhea]]** — post-cholecystectomy, ileal disease/resection ([[crohns-disease]]), or idiopathic (overlaps IBS-D)
 - **[[irritable-bowel-syndrome|IBS-D]]** — a positive Rome IV/V diagnosis, not pure exclusion; most common overall
-- Endocrine — hyperthyroidism, **carcinoid syndrome**, VIPoma, gastrinoma ([[peptic-ulcer-disease|Zollinger-Ellison]]), Addison's disease, medullary thyroid carcinoma
+- Endocrine — hyperthyroidism, **[[gastroenteropancreatic-neuroendocrine-tumors|carcinoid syndrome]]**, VIPoma, gastrinoma ([[peptic-ulcer-disease|Zollinger-Ellison]]), Addison's disease, medullary thyroid carcinoma
 - Drugs/toxins — chronic laxative use, metformin, colchicine, SSRIs, alcohol, PPIs
 - **[[small-intestinal-bacterial-overgrowth|SIBO]]** — bloating, malabsorption; post-surgical/dysmotility risk factors
 - Surgical/anatomic — post-cholecystectomy, ileal resection, short bowel
@@ -100,7 +100,7 @@ flowchart TD
 - **[[celiac-disease|Celiac serology]]** — anti-tTG IgA with total IgA (avoid false negatives in IgA deficiency).
 - **[[clostridioides-difficile|C. difficile]] testing, stool O&P / Giardia & Cryptosporidium antigen** — chronic infectious causes.
 - **Bile acid testing** — SeHCAT retention, serum C4 or FGF19; or empiric sequestrant trial ([[bile-acid-diarrhea]]).
-- **Endocrine panel** — TSH; chromogranin A, gastrin, VIP, calcitonin, urinary 5-HIAA when a [[gastroenteropancreatic-neuroendocrine-tumors|neuroendocrine]] secretory cause is suspected.
+- **Endocrine panel** — TSH; chromogranin A, gastrin, VIP, calcitonin, urinary 5-HIAA when a neuroendocrine secretory cause is suspected.
 - **[[colonoscopy]] with random biopsies** — IBD and **[[microscopic-colitis]]** (biopsy mandatory even if mucosa appears normal).
 - **SIBO breath testing** ([[small-intestinal-bacterial-overgrowth]]) and small-bowel imaging (CTE/MRE) in malabsorptive/post-surgical patients.
 

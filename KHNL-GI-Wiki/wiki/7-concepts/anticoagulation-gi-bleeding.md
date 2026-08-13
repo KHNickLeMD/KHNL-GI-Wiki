@@ -133,7 +133,7 @@ The periendoscopic framework applies to patients undergoing **scheduled, electiv
 | [[endoscopic-mucosal-resection\|EMR]] / [[endoscopic-submucosal-dissection\|ESD]] | [[colonoscopy\|Colonoscopy]] ± biopsy |
 | [[ercp\|ERCP]] with sphincterotomy | Flexible sigmoidoscopy ± biopsy |
 | [[endoscopic-ultrasound\|EUS-FNA]] | EUS without FNA |
-| PEG/PEJ placement | [[ercp\|ERCP]] with stent, without sphincterotomy |
+| [[enteral-access\|PEG/PEJ placement]] | [[ercp\|ERCP]] with stent, without sphincterotomy |
 | Endoscopic hemostasis (excl. [[argon-plasma-coagulation\|APC]]) | Push/diagnostic balloon enteroscopy |
 | Variceal treatment (incl. band ligation) | APC |
 | [[poem\|POEM]] | Polypectomy <1 cm |
@@ -281,7 +281,7 @@ Quick-reference duration-of-action, elective hold, and reversal by agent (ASGE 2
 
 ## See Also
 
-[[variceal-upper-gi-bleeding]], [[acute-lower-gi-bleeding]], [[colonoscopy]], [[upper-endoscopy]], [[polypectomy]], [[endoscopic-ultrasound]], [[upper-gi-bleeding]], [[cirrhosis-hemostasis]], [[preprocedure-testing]], [[ercp]], [[endoscopic-submucosal-dissection]], [[poem]], [[radiofrequency-ablation]], [[capsule-endoscopy]]
+[[variceal-upper-gi-bleeding]], [[acute-lower-gi-bleeding]], [[colonoscopy]], [[upper-endoscopy]], [[polypectomy]], [[endoscopic-ultrasound]], [[upper-gi-bleeding]], [[cirrhosis-hemostasis]], [[preprocedure-testing]], [[ercp]], [[endoscopic-mucosal-resection]], [[endoscopic-submucosal-dissection]], [[poem]], [[radiofrequency-ablation]], [[capsule-endoscopy]], [[argon-plasma-coagulation]], [[enteral-access]]
 
 ---
 

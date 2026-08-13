@@ -3,7 +3,7 @@ title: "Achalasia"
 category: disease-script
 tags: [achalasia, esophageal-motility, dysphagia, hrm, poem, heller-myotomy, pneumatic-dilation, foregut]
 created: 2026-05-15
-updated: 2026-08-11
+updated: 2026-08-13
 sources: [acg-2020-achalasia, asge-2020-achalasia, sages-2021-poem, sages-2024-poem, aga-2024-poem-advances, aga-2024-esophageal-immunity-infection, chicago-v4-2021-esophageal-dysmotility]
 ---
 # Achalasia
@@ -146,7 +146,7 @@ flowchart TD
 ### Laparoscopic Heller Myotomy (LHM)
 
 - Divides circular muscle fibers of LES; preferred laparoscopic approach
-- **Always add antireflux procedure:** reduces GERD from 29–31% (myotomy alone) to 8–9% (with fundoplication)
+- **Always add [[antireflux-surgery|antireflux procedure]]:** reduces GERD from 29–31% (myotomy alone) to 8–9% (with fundoplication)
 - **Dor or Toupet fundoplication** — both acceptable (Conditional; Moderate evidence); Toupet may offer slightly better QoL
 - Efficacy: 89% symptom improvement (range 77–100%)
 - Type I/II: 81–92% success; Type III: 71% (inferior to POEM)
@@ -220,7 +220,7 @@ flowchart TD
 
 ## See Also
 
-[[dysphagia]], [[high-resolution-manometry]], [[flip-panometry]], [[poem]], [[chicago-classification-v4]], [[distal-esophageal-spasm]], [[hypercontractile-esophagus]], [[esophagogastric-junction-outflow-obstruction]], [[gerd]], [[eosinophilic-esophagitis]], [[esophageal-dysfunction-systemic-disease]], [[upper-endoscopy]], [[heller-myotomy]], [[esophageal-cancer]], [[esophageal-adenocarcinoma]], [[reflux-testing]], [[ambulatory-reflux-monitoring]]
+[[dysphagia]], [[high-resolution-manometry]], [[flip-panometry]], [[poem]], [[chicago-classification-v4]], [[distal-esophageal-spasm]], [[hypercontractile-esophagus]], [[esophagogastric-junction-outflow-obstruction]], [[gerd]], [[eosinophilic-esophagitis]], [[esophageal-dysfunction-systemic-disease]], [[upper-endoscopy]], [[heller-myotomy]], [[esophageal-cancer]], [[esophageal-adenocarcinoma]], [[reflux-testing]], [[ambulatory-reflux-monitoring]], [[antireflux-surgery]], [[endoscopic-submucosal-dissection]], [[barretts-esophagus]], [[proton-pump-inhibitors]], [[endoscopic-ultrasound]]
 
 ---
 

@@ -3,7 +3,7 @@ title: "Rotavirus Gastroenteritis"
 category: disease-script
 tags: [rotavirus, viral-gastroenteritis, diarrhea, infectious-diarrhea, vaccine]
 created: 2026-05-19
-updated: 2026-08-07
+updated: 2026-08-13
 sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
 ---
 
@@ -77,7 +77,7 @@ Rotavirus — with [[norovirus]] and adenovirus — is one of the viral agents t
 
 ## See Also
 
-[[acute-diarrhea]], [[norovirus]], [[enterotoxigenic-e-coli]], [[giardiasis]], [[cryptosporidiosis]], [[clostridioides-difficile]], [[loperamide]], [[probiotics]], [[postinfectious-ibs]]
+[[acute-diarrhea]], [[norovirus]], [[enterotoxigenic-e-coli]], [[giardiasis]], [[cryptosporidiosis]], [[clostridioides-difficile]], [[irritable-bowel-syndrome]], [[postinfectious-ibs]], [[inflammatory-bowel-disease]], [[toxic-megacolon]], [[loperamide]], [[probiotics]]
 
 ---
 

@@ -3,7 +3,7 @@ title: "Norovirus Gastroenteritis"
 category: disease-script
 tags: [norovirus, viral-gastroenteritis, diarrhea, infectious-diarrhea, outbreak]
 created: 2026-05-19
-updated: 2026-07-21
+updated: 2026-08-13
 sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
 ---
 
@@ -54,7 +54,7 @@ Most common cause of epidemic gastroenteritis in the US. Very low infectious ino
 
 ## See Also
 
-[[acute-diarrhea]], [[rotavirus]], [[loperamide]], [[rifaximin]]
+[[acute-diarrhea]], [[rotavirus]], [[campylobacter-infection]], [[salmonella-infection]], [[shigellosis]], [[clostridioides-difficile]], [[loperamide]], [[rifaximin]]
 
 ---
 

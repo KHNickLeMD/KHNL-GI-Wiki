@@ -3,7 +3,7 @@ title: "AKI in Cirrhosis (including HRS-AKI)"
 category: disease-script
 tags: [aki, cirrhosis, hrs, hepatorenal-syndrome, albumin, terlipressin, liver]
 created: 2026-05-15
-updated: 2026-08-12
+updated: 2026-08-13
 sources: [aga-2022-aki-cirrhosis, aga-2024-vasoactive-albumin-cirrhosis]
 ---
 
@@ -100,7 +100,7 @@ All of the following must be present:
 
 ### Initial Workup
 
-- **History:** nephrotoxin use (NSAIDs, contrast, ACEi/ARB, aminoglycosides), nonselective beta-blocker, diuretics, lactulose excess, alcohol use, vomiting, diarrhea, hematemesis, melena, fever/infection symptoms
+- **History:** nephrotoxin use (NSAIDs, contrast, ACEi/ARB, aminoglycosides), [[portal-hypertension|nonselective beta-blocker]], diuretics, lactulose excess, alcohol use, vomiting, diarrhea, hematemesis, melena, fever/infection symptoms
 - **Exam:** volume status assessment, signs of infection (cellulitis, pneumonia), hepatic and extrahepatic organ failure
 - **Daily SCr** to monitor AKI stage progression
 
@@ -259,7 +259,7 @@ RRT is not a primary therapy for HRS-AKI. Indications:
 
 ### TIPS
 
-- **Not recommended** as treatment for HRS-AKI (BPA 13) — insufficient evidence
+- [[tips|TIPS]] is **not recommended** as treatment for HRS-AKI (BPA 13) — insufficient evidence
 
 ### Liver Transplantation (BPA 14)
 

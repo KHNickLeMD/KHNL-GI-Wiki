@@ -3,7 +3,7 @@ title: "Abdominal Bloating, Distention, and Belching"
 category: diagnostic-schema
 tags: [bloating, distention, belching, aerophagia, dgbi, functional-gi, sibo, fodmap]
 created: 2026-07-19
-updated: 2026-08-12
+updated: 2026-08-13
 sources: [aga-2023-bloating]
 ---
 
@@ -65,7 +65,7 @@ Three prevalent, often-overlapping symptoms; when frequent/severe enough to impa
   - Constipation/difficult evacuation → **anorectal physiology testing + balloon expulsion** to rule out pelvic floor disorder (BPA 8); abdominal x-ray may show stool burden.
   - Suspected SIBO only with **clear risk factors/severe symptoms** → glucose/lactulose breath test or small-bowel aspirate (reference standard); **not routine** (cutoffs non-standardized).
   - Nausea/vomiting present → consider gastric emptying study (not routine for bloating alone, BPA 7); see [[nausea-and-vomiting]].
-  - Refractory upper-GI symptoms + weight loss / suspected neuromyopathy → antroduodenal manometry, wireless motility capsule, whole-gut scintigraphy, radiopaque markers (tertiary referral).
+  - Refractory upper-GI symptoms + weight loss / suspected neuromyopathy → [[small-bowel-motility|antroduodenal manometry]], wireless motility capsule, whole-gut scintigraphy, radiopaque markers (tertiary referral).
 
 ---
 
@@ -90,7 +90,7 @@ Order labs/imaging/endoscopy (BPA 6) when present:
 - Vomiting, GI bleeding
 - Unintentional weight loss >10% body weight
 - [[chronic-diarrhea|Chronic diarrhea]], signs of malnutrition
-- Family history of GI malignancy, celiac disease, or IBD
+- Family history of GI malignancy, celiac disease, or [[inflammatory-bowel-disease|IBD]]
 - Abnormal abdominal exam (mass, tympany, abnormal bowel sounds, succussion splash) → CT/US
 - Woman ≥50 with new bloating → consider ovarian cancer
 
@@ -111,7 +111,7 @@ Order labs/imaging/endoscopy (BPA 6) when present:
 
 ## See Also
 
-[[disorders-of-gut-brain-interaction]], [[irritable-bowel-syndrome]], [[chronic-idiopathic-constipation]], [[small-intestinal-bacterial-overgrowth]], [[intestinal-methanogen-overgrowth]], [[celiac-disease]], [[gastroparesis]], [[dyspepsia]], [[defecation-disorders]], [[chronic-diarrhea]], [[nausea-and-vomiting]], [[gerd]], [[reflux-testing]], [[high-resolution-manometry]], [[anorectal-manometry]], [[biofeedback-therapy]], [[probiotics]]
+[[disorders-of-gut-brain-interaction]], [[irritable-bowel-syndrome]], [[chronic-idiopathic-constipation]], [[small-intestinal-bacterial-overgrowth]], [[intestinal-methanogen-overgrowth]], [[celiac-disease]], [[gastroparesis]], [[dyspepsia]], [[defecation-disorders]], [[chronic-diarrhea]], [[nausea-and-vomiting]], [[gerd]], [[reflux-testing]], [[ambulatory-reflux-monitoring]], [[high-resolution-manometry]], [[anorectal-manometry]], [[biofeedback-therapy]], [[small-bowel-motility]], [[inflammatory-bowel-disease]], [[chronic-pancreatitis]], [[ascites]], [[proton-pump-inhibitors]], [[probiotics]]
 
 ---
 

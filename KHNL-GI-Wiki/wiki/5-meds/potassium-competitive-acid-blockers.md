@@ -46,7 +46,7 @@ Drug **class** of gastric acid suppressants that block the H⁺/K⁺-ATPase **co
 |---|---|---|
 | Uninvestigated heartburn / non-erosive reflux disease ([[gerd\|NERD]]) | Generally **not first-line**; use only in documented acid reflux failing **twice-daily PPIs** | 3 |
 | On-demand therapy (prior antisecretory responders) | Insufficient evidence to use first-line; rapid onset raises possibility of utility | 4 |
-| Milder erosive esophagitis (**Los Angeles [LA] grade A/B**) | Generally **not first-line**; use if documented reflux fails twice-daily PPIs | 5 |
+| Milder erosive esophagitis (**[[reflux-testing\|Los Angeles (LA) grade]] A/B**) | Generally **not first-line**; use if documented reflux fails twice-daily PPIs | 5 |
 | Severe erosive esophagitis (**LA grade C/D**) | **May use** for healing + maintenance; benefit over standard-dose PPI may not justify routine first-line use given cost | 6 |
 
 - Severe-EE data: vonoprazan 20 mg vs lansoprazole 30 mg — healing 92% vs 72% at 8 wk; maintenance 75–77% vs 62% ([[aga-2024-pcab]]).
@@ -79,7 +79,7 @@ Drug **class** of gastric acid suppressants that block the H⁺/K⁺-ATPase **co
 
 ## See Also
 
-[[vonoprazan]], [[proton-pump-inhibitors]], [[gerd]], [[helicobacter-pylori-infection]], [[peptic-ulcer-disease]], [[bismuth-quadruple-therapy]], [[test-and-treat]], [[clostridioides-difficile]]
+[[vonoprazan]], [[proton-pump-inhibitors]], [[gerd]], [[helicobacter-pylori-infection]], [[peptic-ulcer-disease]], [[bismuth-quadruple-therapy]], [[test-and-treat]], [[clostridioides-difficile]], [[reflux-testing]]
 
 ---
 

@@ -3,7 +3,7 @@ title: "Esophageal Cancer"
 category: disease-script
 tags: [esophagus, malignancy, adenocarcinoma, squamous-cell-carcinoma, egj, dysphagia, her2, pd-l1, msi-h, flot, chemoradiation, esophagectomy, endoscopic-resection, nccn, oncology]
 created: 2026-06-04
-updated: 2026-08-11
+updated: 2026-08-13
 sources: [nccn-2026-esophageal-egj-cancer]
 ---
 
@@ -61,7 +61,7 @@ Endoscopy with biopsy establishes histology; EUS assesses T/N stage (and enables
 
 Stage-directed per [[nccn-2026-esophageal-egj-cancer]]:
 
-- **Early (Tis/T1a, mucosal):** endoscopic resection ([[endoscopic-eradication-therapy|EMR/ESD]]) ± ablation.
+- **Early (Tis/T1a, mucosal):** endoscopic resection ([[endoscopic-mucosal-resection|EMR]] / [[endoscopic-submucosal-dissection|ESD]]) ± ablation — see [[endoscopic-eradication-therapy]].
 - **Locally advanced resectable:** neoadjuvant/perioperative therapy then esophagectomy — perioperative **FLOT** (adenocarcinoma) or neoadjuvant **chemoradiation (CROSS-type)** followed by surgery. Adjuvant **nivolumab** is an option after neoadjuvant chemoradiation + R0 resection with residual disease (CheckMate-577). In v3.2026, adding **durvalumab to perioperative FLOT** is positioned for selected adenocarcinoma (clinically node-negative; PD-L1 CPS <1 as category 2B; diffuse-type EGJ as category 2B) per MATTERHORN — with no demonstrated survival advantage in diffuse-type disease.
 - **Definitive chemoradiation:** for SCC and for patients who are not surgical candidates.
 - **Metastatic:** biomarker-directed systemic therapy — first-line **trastuzumab** added to chemotherapy for HER2-overexpressing adenocarcinoma; a checkpoint inhibitor (**nivolumab or pembrolizumab**) added to first-line chemotherapy by **PD-L1 CPS** (tumor is PD-L1–positive at **CPS ≥1**, the threshold to add a checkpoint inhibitor; the benefit is category 1 at **CPS ≥5** for adenocarcinoma/EGJ, and pembrolizumab is category 1 for esophageal SCC at **CPS ≥10**); immunotherapy for MSI-H/dMMR; **trastuzumab deruxtecan** (category 1) in later lines for HER2-positive disease.
@@ -84,7 +84,7 @@ flowchart TD
 
 ## See Also
 
-[[esophageal-adenocarcinoma]], [[gastric-adenocarcinoma]], [[barretts-esophagus]], [[dysphagia]], [[gerd]], [[achalasia]], [[upper-endoscopy]], [[endoscopic-ultrasound]], [[endoscopic-eradication-therapy]]
+[[esophageal-adenocarcinoma]], [[gastric-adenocarcinoma]], [[barretts-esophagus]], [[dysphagia]], [[gerd]], [[achalasia]], [[upper-endoscopy]], [[endoscopic-ultrasound]], [[endoscopic-eradication-therapy]], [[endoscopic-mucosal-resection]], [[endoscopic-submucosal-dissection]], [[subepithelial-lesion]], [[gastrointestinal-stromal-tumor]], [[iron-deficiency-anemia]]
 
 ---
 

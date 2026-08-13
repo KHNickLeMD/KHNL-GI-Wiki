@@ -3,7 +3,7 @@ title: "Intragastric Balloon (IGB)"
 category: advanced-procedure
 tags: [obesity, intragastric-balloon, endoscopic-bariatric-therapy, weight-management, bariatric]
 created: 2026-06-04
-updated: 2026-08-08
+updated: 2026-08-13
 sources: [aga-2021-intragastric-balloons, aga-2022-obesity-pharm]
 ---
 
@@ -54,7 +54,7 @@ AGA suggests subsequent weight-loss/maintenance interventions — **dietary inte
 
 ## See Also
 
-[[obesity]], [[semaglutide]], [[proton-pump-inhibitors]], [[bariatric-surgery]], [[upper-gi-bleeding]]
+[[obesity]], [[semaglutide]], [[proton-pump-inhibitors]], [[bariatric-surgery]], [[upper-gi-bleeding]], [[acute-pancreatitis]], [[clostridioides-difficile]]
 
 ---
 

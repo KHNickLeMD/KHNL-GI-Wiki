@@ -3,7 +3,7 @@ title: "Choledocholithiasis"
 category: disease-script
 tags: [biliary, gallstones, common-bile-duct, jaundice, cholangitis, ercp, eus, mrcp, gallstone-pancreatitis]
 created: 2026-06-04
-updated: 2026-08-11
+updated: 2026-08-13
 sources: [asge-2019-choledocholithiasis, aga-2024-pregnancy-gi-liver, asge-2021-cholangitis, jagtap-2026-urgent-vs-early-ercp-cholangitis, aloysius-2026-ercp-timing-septic-shock-cholangitis]
 ---
 
@@ -15,6 +15,7 @@ sources: [asge-2019-choledocholithiasis, aga-2024-pregnancy-gi-liver, asge-2021-
 - [[#Diagnostics]]
 - [[#Therapeutics]]
   - [[#Stone Clearance]]
+  - [[#Acute Cholangitis — Drainage Timing]]
   - [[#Gallstone Pancreatitis]]
   - [[#In Pregnancy]]
 - [[#See Also]]

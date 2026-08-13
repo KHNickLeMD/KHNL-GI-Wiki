@@ -3,7 +3,7 @@ title: "Acute Liver Failure"
 category: disease-script
 tags: [acute-liver-failure, alf, liver, hepatology, transplant, liver-transplant-referral]
 created: 2026-05-15
-updated: 2026-08-11
+updated: 2026-08-13
 sources: [acg-2023-alf, acg-2016-liver-disease-pregnancy, aasld-ast-2025-liver-transplant-candidate-evaluation, aasld-2011-alf]
 ---
 
@@ -101,7 +101,7 @@ ALF must be distinguished from conditions with overlapping presentations:
 
 **Viral hepatitis panel:**
 
-- HAV IgM, HBsAg, HBcIgM, HBV PCR, HCV PCR
+- HAV IgM, HBsAg, HBcIgM, HBV PCR, [[hepatitis-c|HCV]] PCR
 - HEV PCR (if endemic region or immunocompromised)
 - EBV PCR, CMV PCR, HSV PCR, VZV PCR
 
@@ -187,7 +187,7 @@ Not routine. Transjugular [[liver-biopsy|liver biopsy]] (TJLB) preferred over pe
 **Coagulopathy:**
 
 - Do NOT routinely correct coagulopathy (conditional, very low quality) — INR does not reflect true bleeding risk
-- Viscoelastic testing (rotational thromboelastometry/thromboelastography) preferred over INR to assess bleeding risk
+- [[cirrhosis-hemostasis|Viscoelastic testing]] (rotational thromboelastometry/thromboelastography) preferred over INR to assess bleeding risk
 - Correct with FFP, platelets, or Factor VII only before high-risk invasive procedures (e.g., ICP monitor placement)
 
 **Infection:**
@@ -207,7 +207,7 @@ Not routine. Transjugular [[liver-biopsy|liver biopsy]] (TJLB) preferred over pe
 
 - Glucose: maintain 150–180 mg/dL with continuous D10W; monitor mental status q1–2h
 - Avoid hypotonic fluids (risk of hyponatremia/cerebral edema)
-- Enteral nutrition if unable to eat within 5–7 days; protein 1.0–1.5 g/kg/day
+- [[nutrition-in-liver-disease|Enteral nutrition]] if unable to eat within 5–7 days; protein 1.0–1.5 g/kg/day
 - If severe hyperammonemia (>150 mmol/L): consider delaying/reducing protein for first 24–48h, then restart at 1.0 g/kg/day with ammonia monitoring
 - Monitor Mg and phosphorus q8–12h; replete as needed
 
@@ -325,8 +325,7 @@ Not routine. Transjugular [[liver-biopsy|liver biopsy]] (TJLB) preferred over pe
 
 ## See Also
 
-
-[[acute-on-chronic-liver-failure]], [[hepatic-encephalopathy]], [[liver-transplantation]], [[wilson-disease]], [[autoimmune-hepatitis]], [[budd-chiari-syndrome]], [[drug-induced-liver-injury]], [[liver-disease-in-pregnancy]], [[acute-pancreatitis]]
+[[acute-on-chronic-liver-failure]], [[hepatic-encephalopathy]], [[liver-transplantation]], [[wilson-disease]], [[autoimmune-hepatitis]], [[budd-chiari-syndrome]], [[drug-induced-liver-injury]], [[liver-disease-in-pregnancy]], [[acute-fatty-liver-of-pregnancy]], [[acute-pancreatitis]], [[cirrhosis]], [[abnormal-liver-chemistries]], [[ascites]], [[jaundice]], [[portal-hypertension]], [[aki-in-cirrhosis]], [[hepatitis-c]], [[chronic-hepatitis-b]], [[hepatitis-d]], [[hereditary-hemochromatosis]], [[liver-biopsy]], [[cirrhosis-hemostasis]], [[nutrition-in-liver-disease]], [[rifaximin]], [[tips]]
 
 ---
 

@@ -3,7 +3,7 @@ title: "Infectious Esophagitis"
 category: disease-script
 tags: [esophagus, candida, hsv, cmv, odynophagia, dysphagia, immunocompromise, infectious-esophagitis]
 created: 2026-07-28
-updated: 2026-07-28
+updated: 2026-08-13
 sources: [aga-2024-esophageal-immunity-infection]
 ---
 
@@ -42,7 +42,7 @@ Esophageal infection causing dysphagia, odynophagia, and chest pain. Most common
 - [[eosinophilic-esophagitis]] and [[lymphocytic-esophagitis]] (rings, furrows, exudates can mimic candida)
 - [[gerd|Reflux/pill esophagitis]] (medication-induced ulceration — e.g. doxycycline: 1–2 well-marked ulcers)
 - [[esophageal-dysfunction-systemic-disease|Immune-mediated/systemic esophageal disease]] (lichen planus, pemphigus)
-- Malignancy
+- [[esophageal-cancer|Malignancy]]
 
 ## Diagnostics
 
@@ -61,7 +61,7 @@ Esophageal infection causing dysphagia, odynophagia, and chest pain. Most common
 
 ## See Also
 
-[[eosinophilic-esophagitis]], [[lymphocytic-esophagitis]], [[esophageal-dysfunction-systemic-disease]], [[dysphagia]], [[upper-endoscopy]], [[gerd]]
+[[eosinophilic-esophagitis]], [[lymphocytic-esophagitis]], [[esophageal-dysfunction-systemic-disease]], [[esophageal-cancer]], [[dysphagia]], [[upper-endoscopy]], [[gerd]], [[proton-pump-inhibitors]]
 
 ---
 

@@ -3,7 +3,7 @@ title: "Rumination Syndrome"
 category: disease-script
 tags: [rumination-syndrome, regurgitation, dgbi, gastroduodenal, high-resolution-manometry, impedance, postprandial, foregut]
 created: 2026-06-08
-updated: 2026-07-17
+updated: 2026-08-13
 sources: [rome-v-2026-dgbi, acg-2020-esophageal-physiologic-testing]
 ---
 
@@ -34,11 +34,13 @@ Because rumination responds poorly to standard antireflux therapy, it is an impo
 
 ## Differential Diagnosis
 
+*Workup: see [[nausea-and-vomiting]].*
+
 - **GERD / refractory reflux symptoms** — rumination episodes are **not distinguishable from GERD using standard reflux metrics** on pH-impedance, though more "reflux" tends to **extend to the proximal esophagus** in rumination. Rumination has **suboptimal outcomes with standard antireflux therapies**, an important clinical clue.
 - **Supragastric belching** — another atypical behavior that can mimic reflux; confirmed on **pH-impedance monitoring** (impedance distinguishes retrograde **gas** of belching from **liquid/food** of rumination). See [[ambulatory-reflux-monitoring]].
 - **[[gastroparesis|Gastroparesis]]** — vomiting of partially digested food hours after meals, preceded by nausea, with delayed gastric emptying.
 - **Vomiting disorders** — true emesis is forceful and preceded by nausea/retching, distinguishing it from effortless rumination.
-- **[[achalasia|Achalasia]] / esophageal outflow obstruction** — regurgitation of retained undigested food with [[dysphagia]].
+- **[[achalasia|Achalasia]] / [[esophagogastric-junction-outflow-obstruction|esophageal outflow obstruction]]** — regurgitation of retained undigested food with [[dysphagia]].
 
 ---
 
@@ -69,7 +71,7 @@ Rumination syndrome is a **clinical diagnosis**; objective testing confirms it i
 
 ## See Also
 
-[[disorders-of-gut-brain-interaction]], [[gerd]], [[gastroparesis]], [[achalasia]], [[ambulatory-reflux-monitoring]], [[reflux-testing]], [[upper-endoscopy]], [[chicago-classification-v4]]
+[[nausea-and-vomiting]], [[disorders-of-gut-brain-interaction]], [[gerd]], [[gastroparesis]], [[achalasia]], [[esophagogastric-junction-outflow-obstruction]], [[ambulatory-reflux-monitoring]], [[reflux-testing]], [[high-resolution-manometry]], [[upper-endoscopy]], [[chicago-classification-v4]]
 
 ---
 

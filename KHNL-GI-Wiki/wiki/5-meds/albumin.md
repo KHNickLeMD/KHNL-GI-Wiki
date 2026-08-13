@@ -25,7 +25,7 @@ sources: [aga-2024-vasoactive-albumin-cirrhosis]
 | **HRS-AKI** | Concurrent albumin *can be considered*, accounting for volume status; terlipressin is the vasoactive drug of choice (BPA 10) | Regimen as above (AKI-in-cirrhosis page); titrate to volume status |
 | **Uncomplicated ascites** (hospitalized or not) | **Do NOT use** albumin (BPA 6) | — |
 
-- Hepatorenal syndrome (HRS-AKI) is treated with a vasoconstrictor (terlipressin — see its own page) plus albumin as above; vasoactive drug dosing is **not** reproduced here.
+- Hepatorenal syndrome (HRS-AKI) is treated with a vasoconstrictor (terlipressin) plus albumin as above; vasoactive drug dosing lives on [[aki-in-cirrhosis]] and is **not** reproduced here.
 - Vasoconstrictors should **not** be used after large-volume paracentesis or in SBP (BPA 7).
 
 ## Evidence

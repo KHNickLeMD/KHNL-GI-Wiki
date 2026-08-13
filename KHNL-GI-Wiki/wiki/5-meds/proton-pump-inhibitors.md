@@ -59,7 +59,7 @@ Standard-dose acid-suppression potency standardized to omeprazole = 1.00 ("omepr
 ### GERD / Erosive Esophagitis
 - **8-week empiric PPI trial**, once daily before a meal, for typical GERD symptoms (heartburn/regurgitation) — Strong/Moderate ([[acg-2021-gerd]]).
 - **PPI over H2RA** for healing erosive esophagitis (Strong/High) and for long-term maintenance (Strong/Moderate).
-- **Indefinite maintenance PPI** for LA grade **C or D** erosive esophagitis (Strong/Moderate) — nearly 100% of LA grade C relapse within 6 months if stopped; recurrence can occur in as little as 1–2 weeks.
+- **Indefinite maintenance PPI** for [[reflux-testing|LA grade]] **C or D** erosive esophagitis (Strong/Moderate) — nearly 100% of LA grade C relapse within 6 months if stopped; recurrence can occur in as little as 1–2 weeks.
 
 ### Barrett's Esophagus
 - **At least once-daily PPI for all patients** with [[barretts-esophagus]] without contraindication; PPI use associated with reduced progression to HGD/[[esophageal-adenocarcinoma|EAC]] (aHR 0.32) — no evidence twice-daily is superior to once-daily for this purpose ([[acg-2022-barretts]]).
@@ -106,7 +106,7 @@ Standard-dose acid-suppression potency standardized to omeprazole = 1.00 ("omepr
 
 ## See Also
 
-[[potassium-competitive-acid-blockers]], [[vonoprazan]], [[gerd]], [[barretts-esophagus]], [[eosinophilic-esophagitis]], [[peptic-ulcer-disease]], [[helicobacter-pylori-infection]], [[bismuth-quadruple-therapy]], [[ambulatory-reflux-monitoring]], [[endoscopic-eradication-therapy]], [[esophageal-adenocarcinoma]]
+[[potassium-competitive-acid-blockers]], [[vonoprazan]], [[gerd]], [[barretts-esophagus]], [[eosinophilic-esophagitis]], [[peptic-ulcer-disease]], [[helicobacter-pylori-infection]], [[bismuth-quadruple-therapy]], [[ambulatory-reflux-monitoring]], [[reflux-testing]], [[endoscopic-eradication-therapy]], [[esophageal-adenocarcinoma]]
 
 ---
 

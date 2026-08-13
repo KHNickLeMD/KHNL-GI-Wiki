@@ -3,7 +3,7 @@ title: "Sclerosing Mesenteritis"
 category: disease-script
 tags: [sclerosing-mesenteritis, mesenteric-panniculitis, misty-mesentery, igg4, tamoxifen, corticosteroids]
 created: 2026-06-27
-updated: 2026-08-12
+updated: 2026-08-13
 sources: [aga-2025-sclerosing-mesenteritis]
 ---
 
@@ -19,6 +19,7 @@ Rare idiopathic fibroinflammatory disorder of the bowel mesentery (spectrum: mes
   - **Fat ring sign** — preserved fat halos around encased central mesenteric vessels
   - **Tumoral / fibrotic pseudocapsule** around the mass
 - Up to ~60% of patients with CT findings are **asymptomatic**.
+- **When symptomatic:** abdominal pain is the most common feature; fever in **5%–15%**, unintentional weight loss in **~20%**; a palpable mass is often **absent**.
 
 ### Severity Assessment
 

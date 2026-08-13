@@ -3,7 +3,7 @@ title: "Liver Transplantation — Post-Transplant Management"
 category: disease-script
 tags: [liver-transplant, liver-transplantation, immunosuppression, tacrolimus, calcineurin-inhibitor, ckd, metabolic-syndrome, rejection, tcmr, pcr, amr, biliary-stricture, vascular-complications, machine-perfusion, dcd, ldlt, ead, hbv, hcv, pbc, psc, autoimmune-hepatitis, hcc, masld, ald, de-novo-malignancy, post-transplant, bone-health, vaccination, cmv, cancer-surveillance, glp-1, bariatric-surgery, aasld]
 created: 2026-05-19
-updated: 2026-07-23
+updated: 2026-08-13
 sources: [aasld-2012-liver-transplant-long-term, aasld-ast-2025-liver-transplant-graft-complications, aasld-ast-2025-liver-transplant-candidate-evaluation, aasld-ast-2025-liver-transplant-non-graft-complications, asge-2023-post-transplant-biliary-strictures]
 ---
 
@@ -250,7 +250,7 @@ This page covers **post-transplant management of the liver transplant recipient*
 
 ### Transient Elastography
 
-- Routine use to monitor allograft health cannot be recommended due to insufficient data ([[aasld-ast-2025-liver-transplant-graft-complications]], Rec 35, Weak, Level 3); threshold values vary widely in LT population
+- [[liver-stiffness-measurement|Transient elastography]] routine use to monitor allograft health cannot be recommended due to insufficient data ([[aasld-ast-2025-liver-transplant-graft-complications]], Rec 35, Weak, Level 3); threshold values vary widely in LT population
 - May have utility in detecting graft steatosis and has been independently linked to mortality in 2 cohort studies; further study needed
 
 ### HCC Surveillance Post-Transplant
@@ -804,7 +804,7 @@ Annual screening for HTN, obesity, DM, and hyperlipidemia for all LT recipients 
 
 ## See Also
 
-[[abnormal-liver-chemistries]], [[acute-liver-failure]], [[acute-on-chronic-liver-failure]], [[alcohol-associated-liver-disease]], [[portal-vein-thrombosis]], [[portal-hypertension]], [[chronic-hepatitis-b]], [[hepatitis-c]], [[direct-acting-antivirals]], [[hepatocellular-carcinoma]], [[hcc-surveillance]], [[nafld-masld]], [[primary-sclerosing-cholangitis]], [[primary-biliary-cholangitis]], [[autoimmune-hepatitis]], [[acute-hepatic-porphyria]], [[cholangiocarcinoma]], [[biliary-stricture]], [[ercp]], [[mri-mrcp]], [[liver-biopsy]], [[tacrolimus]], [[calcineurin-inhibitors]], [[post-transplant-lymphoproliferative-disorder]], [[operational-tolerance]], [[antibody-mediated-rejection-liver-transplant]], [[semaglutide]], [[bariatric-surgery]], [[obesity]], [[nutrition-in-liver-disease]], [[colorectal-cancer]], [[colonoscopy]], [[inflammatory-bowel-disease]], [[gastroenteropancreatic-neuroendocrine-tumors]], [[hepatopulmonary-syndrome-portopulmonary-hypertension]], [[hepatic-encephalopathy]], [[ascites]], [[spontaneous-bacterial-peritonitis]], [[variceal-upper-gi-bleeding]]
+[[abnormal-liver-chemistries]], [[acute-liver-failure]], [[acute-on-chronic-liver-failure]], [[alcohol-associated-liver-disease]], [[portal-vein-thrombosis]], [[portal-hypertension]], [[chronic-hepatitis-b]], [[hepatitis-c]], [[direct-acting-antivirals]], [[hepatocellular-carcinoma]], [[hcc-surveillance]], [[nafld-masld]], [[primary-sclerosing-cholangitis]], [[primary-biliary-cholangitis]], [[autoimmune-hepatitis]], [[acute-hepatic-porphyria]], [[cholangiocarcinoma]], [[biliary-stricture]], [[ercp]], [[mri-mrcp]], [[liver-biopsy]], [[tacrolimus]], [[calcineurin-inhibitors]], [[post-transplant-lymphoproliferative-disorder]], [[operational-tolerance]], [[antibody-mediated-rejection-liver-transplant]], [[semaglutide]], [[bariatric-surgery]], [[obesity]], [[nutrition-in-liver-disease]], [[colorectal-cancer]], [[colonoscopy]], [[inflammatory-bowel-disease]], [[gastroenteropancreatic-neuroendocrine-tumors]], [[hepatopulmonary-syndrome-portopulmonary-hypertension]], [[hepatic-encephalopathy]], [[ascites]], [[spontaneous-bacterial-peritonitis]], [[variceal-upper-gi-bleeding]], [[cirrhosis]], [[liver-stiffness-measurement]], [[tips]], [[rotavirus]]
 
 ---
 

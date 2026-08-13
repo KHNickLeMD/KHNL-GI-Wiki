@@ -24,19 +24,29 @@ No single pathognomonic test. Diagnosis = integration of:
 - **Histology:** transmural inflammation, granulomas (present in <33%), focal cryptitis
 - **Imaging:** mural thickening, mesenteric stranding, fistulas, abscesses
 
-**Location (Montreal classification):**
+**Montreal classification (2005 revision of the Vienna classification) — age of onset + location + behavior** ([[acg-2018-crohns]]):
 
-- L1: Ileal
+**Age at onset (A):**
+
+- A1: ≤16 years
+- A2: 17–40 years
+- A3: >40 years
+
+**Location (L):**
+
+- L1: Ileal (terminal ileum)
 - L2: Colonic
 - L3: Ileocolonic (~1/3 each at presentation)
 - L4: Upper GI (modifier; up to 16% occult)
 
-**Behavior:**
+**Behavior (B):**
 
 - B1: Inflammatory (nonstricturing, nonpenetrating) — 56–81% at diagnosis
 - B2: Stricturing
 - B3: Penetrating (fistula/abscess)
-- p: Perianal modifier
+- p: Perianal modifier (appended to the B subtype)
+
+- **Location tends to remain stable; behavior tends to progress** B1 → B2 or B3 over the disease course. [[acg-2018-crohns]]
 
 ### Severity Assessment
 
@@ -117,7 +127,7 @@ No single pathognomonic test. Diagnosis = integration of:
 - TB: IGRA (preferred over TST especially if BCG-vaccinated) + CXR; treat latent TB before starting biologic
 - [[chronic-hepatitis-b|HBV]]: HBsAg, anti-HBc, anti-HBs; vaccinate if seronegative; antiviral prophylaxis if HBsAg+
 - HIV: if clinically indicated
-- Varicella IgG; update all vaccines (live vaccines only before starting immunosuppression)
+- Varicella IgG; [[ibd-preventive-care|update all vaccines]] (live vaccines only before starting immunosuppression)
 - Consider: HLA-DQA1*05 if starting anti-TNF (higher immunogenicity risk)
 - **TPMT testing before AZA or 6-MP** (identifies myelosuppression risk); consider NUDT15 (especially East Asian, Latino, Native American)
 

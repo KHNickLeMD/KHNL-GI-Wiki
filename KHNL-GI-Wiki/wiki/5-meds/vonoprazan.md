@@ -49,7 +49,7 @@ Potassium-competitive acid blocker ([[potassium-competitive-acid-blockers|P-CAB]
 
 ## GERD & PUD (AGA 2024 P-CAB CPU)
 
-- **Severe erosive esophagitis (LA grade C/D):** vonoprazan 20 mg an option for healing + maintenance (healing 92% vs 72% vs lansoprazole at 8 wk); reserve for cost reasons — not clearly superior enough over standard-dose PPI to be routine first-line.
+- **Severe erosive esophagitis ([[reflux-testing|LA grade]] C/D):** vonoprazan 20 mg an option for healing + maintenance (healing 92% vs 72% vs lansoprazole at 8 wk); reserve for cost reasons — not clearly superior enough over standard-dose PPI to be routine first-line.
 - **Milder EE (LA A/B), [[gerd|NERD]], uninvestigated heartburn:** generally **not first-line**; use only after **twice-daily PPI failure** with documented acid reflux.
 - **[[peptic-ulcer-disease|PUD]] treatment/prophylaxis:** noninferior (not superior) to PPIs → generally not first-line.
 - See [[potassium-competitive-acid-blockers]] for the full indication-by-indication guidance.
@@ -66,7 +66,7 @@ Potassium-competitive acid blocker ([[potassium-competitive-acid-blockers|P-CAB]
 
 ## See Also
 
-[[potassium-competitive-acid-blockers]], [[proton-pump-inhibitors]], [[helicobacter-pylori-infection]], [[bismuth-quadruple-therapy]], [[peptic-ulcer-disease]], [[gerd]], [[test-and-treat]], [[clostridioides-difficile]]
+[[potassium-competitive-acid-blockers]], [[proton-pump-inhibitors]], [[helicobacter-pylori-infection]], [[bismuth-quadruple-therapy]], [[peptic-ulcer-disease]], [[gerd]], [[test-and-treat]], [[clostridioides-difficile]], [[reflux-testing]]
 
 ---
 

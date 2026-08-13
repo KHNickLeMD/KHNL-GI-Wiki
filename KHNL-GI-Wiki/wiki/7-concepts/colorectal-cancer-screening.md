@@ -94,7 +94,7 @@ The age 45 start is shared with the American Cancer Society (strong recommendati
 | Adenoma detection rate (ADR) | ≥25% overall (aspirational: 45–50%) | Strong/Low; every 1% increase in ADR → 3% reduction in CRC incidence |
 | Bowel preparation quality | Document; reschedule if inadequate | — |
 
-ADR is the most important quality metric. Gastroenterologists with higher ADRs detect more polyps and prevent more CRCs in their patients.
+ADR is the most important quality metric. Gastroenterologists with higher ADRs detect more polyps and prevent more CRCs in their patients. Computer-aided detection as a lever on ADR is covered on [[artificial-intelligence-endoscopy]].
 
 ---
 

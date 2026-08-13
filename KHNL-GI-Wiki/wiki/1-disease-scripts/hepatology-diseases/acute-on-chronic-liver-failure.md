@@ -3,7 +3,7 @@ title: "Acute-on-Chronic Liver Failure (ACLF)"
 category: disease-script
 tags: [ACLF, acute-on-chronic-liver-failure, cirrhosis, organ-failure, ICU, NACSELD, EASL-CLIF, terlipressin, HRS, hepatic-encephalopathy, infection, nutrition, liver-transplantation, palliative-care]
 created: 2026-05-28
-updated: 2026-08-12
+updated: 2026-08-13
 sources: [aasld-2024-aclf]
 ---
 
@@ -65,7 +65,7 @@ ACLF is a syndrome in patients with chronic liver disease (CLD) characterized by
 
 | Test | Purpose |
 |---|---|
-| AST, ALT, bilirubin, albumin, INR | Liver failure parameters; Child-Pugh/MELD |
+| AST, ALT, bilirubin, albumin, INR | Liver failure parameters; [[cirrhosis\|Child-Pugh/MELD]] |
 | Creatinine, BUN, urinalysis + urine culture | Renal failure staging; HRS-AKI vs. ATN |
 | CBC | Cytopenias, thrombocytopenia, WBC (NACSELD score) |
 | Lactate | Prognostic (MELD-LA, CLIF-C ACLF lactate); severity of tissue hypoperfusion |

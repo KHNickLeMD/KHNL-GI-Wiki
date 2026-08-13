@@ -3,7 +3,7 @@ title: "POEM (Peroral Endoscopic Myotomy)"
 category: advanced-procedure
 tags: [poem, achalasia, myotomy, motility, esophageal, foregut, gerd, egjoo]
 created: 2026-05-16
-updated: 2026-08-12
+updated: 2026-08-13
 sources: [aga-2024-poem-advances, sages-2024-poem, sages-2021-poem]
 ---
 # POEM (Peroral Endoscopic Myotomy)
@@ -104,7 +104,8 @@ Endoscopic myotomy of the lower esophageal sphincter (LES) and distal esophageal
 | Achalasia type III | ~93% (vs ~71% [[heller-myotomy\|LHM]]) |
 | [[esophagogastric-junction-outflow-obstruction\|EGJOO]] | ~80–85% long-term |
 | POEM after failed LHM (vs PD) | 62% vs 27% |
-| [[g-poem\|G-POEM]] (gastroparesis) | 88.2% symptom improvement; GE normalization 61.3% |
+
+*G-POEM (pyloromyotomy for gastroparesis) outcomes live on [[g-poem]] — the dedicated AGA 2023 CPU reports durable clinical success ~50–60%, and explicitly flags the older short-term pooled figures (71–82%) as overestimates.*
 
 ## See Also
 

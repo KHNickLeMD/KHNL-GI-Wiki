@@ -3,7 +3,7 @@ title: "Shigellosis"
 category: disease-script
 tags: [shigella, bacterial-gastroenteritis, dysentery, diarrhea, travelers-diarrhea, azithromycin]
 created: 2026-05-19
-updated: 2026-07-25
+updated: 2026-08-13
 sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
 ---
 
@@ -44,8 +44,15 @@ sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
 ## Therapeutics
 
 - **Antibiotics:** azithromycin is the treatment of choice — widespread ampicillin and TMP-SMX resistance. Emerging reduced azithromycin susceptibility in *S. sonnei* in the US (surveillance through 2016). [[acg-2016-acute-diarrhea]]
-- **Duration:** single-dose or 3-day course for most species; *S. dysenteriae* may require 5 days.
-- **Fluoroquinolones:** historically used; increasing resistance → azithromycin preferred.
+
+| | Agent | Dose / duration |
+|---|---|---|
+| **First choice** | **Azithromycin** | **1,000 mg PO single dose** OR **500 mg PO once daily × 3 days** (ACG Table 4 regimens — see [[acute-diarrhea]]); use the **3-day** course, which is the recommended duration for fever or dysentery [[acg-2016-acute-diarrhea]] |
+| First choice (alt) | Ciprofloxacin or ceftriaxone | IDSA Table 6 first-choice alternatives [[idsa-2017-infectious-diarrhea]] |
+| Alternative | TMP-SMX or ampicillin | **Only if susceptible** [[idsa-2017-infectious-diarrhea]] |
+
+- **Duration:** single-dose or 3-day course for most species; *S. dysenteriae* may require 5 days. [[acg-2016-acute-diarrhea]]
+- **Fluoroquinolones:** historically used; increasing resistance → azithromycin preferred. **Do not prescribe a fluoroquinolone if the ciprofloxacin MIC is ≥0.12 µg/mL — even when the laboratory reports the isolate as susceptible.** [[idsa-2017-infectious-diarrhea]] (Table 6)
 - **Empiric therapy is a named exception to the "no empiric antibiotics" rule:** an ill, febrile, immunocompetent patient with presumptive bacillary dysentery may be treated empirically while awaiting results (a fluoroquinolone or azithromycin per local susceptibility/travel). [[idsa-2017-infectious-diarrhea]]
 - **[[rifaximin|Rifaximin]]: do NOT use** — invasive pathogen; non-absorbable rifaximin is ineffective.
 - **[[loperamide|Loperamide]]:** use with caution in proven shigellosis (antimotility agents may theoretically worsen inflammatory colitis; rare in antibiotic-treated patients).
@@ -55,7 +62,7 @@ sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
 
 ## See Also
 
-[[acute-diarrhea]], [[salmonella-infection]], [[campylobacter-infection]], [[enterotoxigenic-e-coli]], [[rifaximin]], [[loperamide]], [[inflammatory-bowel-disease]]
+[[acute-diarrhea]], [[salmonella-infection]], [[campylobacter-infection]], [[enterotoxigenic-e-coli]], [[clostridioides-difficile]], [[rifaximin]], [[loperamide]], [[inflammatory-bowel-disease]]
 
 ---
 

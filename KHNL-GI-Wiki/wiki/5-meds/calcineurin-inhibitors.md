@@ -21,7 +21,7 @@ Calcineurin inhibitors (CNIs) — primarily [[tacrolimus]] (TAC) and cyclosporin
 
 ### Cyclosporine (CSA)
 
-- Alternative to [[tacrolimus]]; less DM but more HTN, dyslipidemia, hirsutism, gingival hyperplasia
+- Alternative to [[tacrolimus]] — side-effect trade-offs in the [[#Side Effects Comparison]] table below
 - Dosing: 2 mg/kg PO twice daily, adjusted to trough
 - Trough targets: 250–300 ng/mL (C0, first 3 months); 100–250 ng/mL (month 3 onward)
 - [[direct-acting-antivirals|Direct antiviral]] interactions: sofosbuvir, glecaprevir, voxilaprevir (increased CSA levels)

@@ -3,7 +3,7 @@ title: "Acute Fatty Liver of Pregnancy"
 category: disease-script
 tags: [pregnancy, acute-fatty-liver, aflp, swansea-criteria, acute-liver-failure, liver-transplant, hpb, liver, dic]
 created: 2026-07-26
-updated: 2026-07-26
+updated: 2026-08-13
 sources: [aga-2024-pregnancy-gi-liver]
 ---
 
@@ -29,7 +29,7 @@ Rare, life-threatening liver disease unique to pregnancy; frequency **~0.01%** o
   - *(Full Swansea criteria list and thresholds are reproduced on [[liver-disease-in-pregnancy]].)*
 - **Pre-eclampsia is present in ~50%** of AFLP cases.
 - Clinical picture: abdominal pain, vomiting, polydipsia/polyuria, [[hepatic-encephalopathy|hepatic encephalopathy]], progressing to liver failure and DIC.
-- **Liver biopsy is rarely needed** and should not be obtained unless it will change management. ([[aga-2024-pregnancy-gi-liver]])
+- **[[liver-biopsy|Liver biopsy]] is rarely needed** and should not be obtained unless it will change management. ([[aga-2024-pregnancy-gi-liver]])
 
 ### Severity Assessment
 
@@ -49,7 +49,7 @@ Rare, life-threatening liver disease unique to pregnancy; frequency **~0.01%** o
 ## Diagnostics
 
 - **Labs:** total bilirubin <5 mg/dL, **hypoglycemia**, elevated creatinine, ±proteinuria and thrombocytopenia, elevated ammonia, **ALT <500 U/L**, prolonged PT, **DIC >75%**. ([[aga-2024-pregnancy-gi-liver]], Table 3)
-- **Imaging:** fatty infiltration, sometimes ascites.
+- **Imaging:** fatty infiltration, sometimes [[ascites]].
 - **Swansea criteria** workup (see [[liver-disease-in-pregnancy]]); liver biopsy rarely required.
 
 ## Therapeutics
@@ -60,7 +60,7 @@ Rare, life-threatening liver disease unique to pregnancy; frequency **~0.01%** o
 
 ## See Also
 
-[[liver-disease-in-pregnancy]], [[intrahepatic-cholestasis-of-pregnancy]], [[nausea-and-vomiting-of-pregnancy]], [[acute-liver-failure]], [[liver-transplantation]], [[hepatic-encephalopathy]], [[chronic-hepatitis-b]], [[hepatitis-c-in-pregnancy]], [[drug-induced-liver-injury]]
+[[liver-disease-in-pregnancy]], [[intrahepatic-cholestasis-of-pregnancy]], [[nausea-and-vomiting-of-pregnancy]], [[acute-liver-failure]], [[liver-transplantation]], [[hepatic-encephalopathy]], [[chronic-hepatitis-b]], [[hepatitis-c-in-pregnancy]], [[drug-induced-liver-injury]], [[liver-biopsy]], [[ascites]]
 
 ---
 

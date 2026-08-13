@@ -3,7 +3,7 @@ title: "Upper GI Bleeding"
 category: diagnostic-schema
 tags: [ugib, peptic-ulcer, gi-bleeding, endoscopy, forrest, glasgow-blatchford, melena]
 created: 2026-05-15
-updated: 2026-07-25
+updated: 2026-08-13
 sources: [acg-2021-ugib]
 ---
 
@@ -296,7 +296,7 @@ High-risk stigmata (Forrest Ia, Ib, IIa) mandate endoscopic hemostatic therapy. 
 
 ## See Also
 
-[[variceal-upper-gi-bleeding]], [[acute-lower-gi-bleeding]], [[small-bowel-bleeding]], [[peptic-ulcer-disease]], [[helicobacter-pylori-infection]], [[upper-endoscopy]], [[colonoscopy]], [[portal-hypertension]], [[anticoagulation-gi-bleeding]], [[angioectasia]], [[gastric-adenocarcinoma]], [[esophageal-cancer]]
+[[variceal-upper-gi-bleeding]], [[acute-lower-gi-bleeding]], [[small-bowel-bleeding]], [[peptic-ulcer-disease]], [[helicobacter-pylori-infection]], [[upper-endoscopy]], [[colonoscopy]], [[portal-hypertension]], [[cirrhosis]], [[anticoagulation-gi-bleeding]], [[angioectasia]], [[gastric-adenocarcinoma]], [[esophageal-cancer]], [[argon-plasma-coagulation]], [[proton-pump-inhibitors]], [[iron-deficiency-anemia]], [[dysphagia]], [[jaundice]], [[ascites]]
 
 ---
 

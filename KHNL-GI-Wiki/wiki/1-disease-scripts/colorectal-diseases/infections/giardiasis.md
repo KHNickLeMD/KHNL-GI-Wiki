@@ -3,7 +3,7 @@ title: "Giardiasis"
 category: disease-script
 tags: [giardia, parasitic-diarrhea, diarrhea, travelers-diarrhea, malabsorption, metronidazole, tinidazole]
 created: 2026-05-19
-updated: 2026-07-30
+updated: 2026-08-13
 sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
 ---
 
@@ -13,7 +13,7 @@ sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
 
 - *Giardia intestinalis* (aka *G. lamblia* / *G. duodenalis*) — most common intestinal **parasitic** infection in the US; leading parasitic cause of persistent and [[fever-returning-traveler|traveler's]] diarrhea.
 - **Transmission:** contaminated water (lakes, streams, municipal supply), food, person-to-person fecal-oral. Cysts are **chlorine-resistant**.
-- **Clinical hallmark:** prolonged/persistent (often 14–30 days) watery-to-semi-formed, **malodorous** diarrhea; bloating; flatulence; may cause **malabsorption** and weight loss.
+- **Clinical hallmark:** prolonged/[[chronic-diarrhea|persistent]] (often 14–30 days) watery-to-semi-formed, **malodorous** diarrhea; bloating; flatulence; may cause **malabsorption** and weight loss.
 - Asymptomatic cyst carriage is common in endemic areas — a positive multiplex GI panel requires clinical correlation before treating.
 
 ### Severity Assessment
@@ -53,7 +53,7 @@ sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
 
 ## See Also
 
-[[acute-diarrhea]], [[fever-returning-traveler]], [[cryptosporidiosis]], [[entamoeba-histolytica-infection]], [[postinfectious-ibs]], [[irritable-bowel-syndrome]], [[celiac-disease]], [[nitazoxanide]]
+[[acute-diarrhea]], [[chronic-diarrhea]], [[fever-returning-traveler]], [[cryptosporidiosis]], [[entamoeba-histolytica-infection]], [[campylobacter-infection]], [[salmonella-infection]], [[shigellosis]], [[postinfectious-ibs]], [[irritable-bowel-syndrome]], [[celiac-disease]], [[nitazoxanide]]
 
 ---
 

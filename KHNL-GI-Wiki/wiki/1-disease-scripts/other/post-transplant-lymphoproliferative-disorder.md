@@ -3,7 +3,7 @@ title: "Post-Transplant Lymphoproliferative Disorder (PTLD)"
 category: disease-script
 tags: [ptld, lymphoma, ebv, transplant, liver-transplant, de-novo-malignancy, immunosuppression]
 created: 2026-05-19
-updated: 2026-08-12
+updated: 2026-08-13
 sources: [aasld-2012-liver-transplant-long-term, aasld-ast-2025-liver-transplant-non-graft-complications]
 ---
 
@@ -16,7 +16,7 @@ Spectrum of lymphoid proliferations arising under immunosuppression after solid-
 - [[#Differential Diagnosis]]
 - [[#Diagnostics]]
 - [[#Therapeutics]]
-- [[#Guideline Recommendations (AASLD/AST 2012)]]
+- [[#Guideline Recommendations]]
 - [[#See Also]]
 - [[#Sources]]
 
@@ -55,7 +55,7 @@ Spectrum of lymphoid proliferations arising under immunosuppression after solid-
 
 ## Therapeutics
 
-- **First-line: reduction of immunosuppression.**
+- **First-line: reduction of [[calcineurin-inhibitors|immunosuppression]].**
 - **If no clinical response within 2–4 weeks**, add:
   - **Anti-CD20 monoclonal antibody (rituximab)**,
   - **surgical therapy**,

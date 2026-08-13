@@ -13,7 +13,7 @@ tags:
   - surveillance
   - autoimmune-gastritis
 created: 2026-05-07
-updated: 2026-08-11
+updated: 2026-08-13
 sources:
   - acg-2025-gastric-premalignant
 ---
@@ -210,14 +210,10 @@ Gastric adenocarcinoma
 | Fundic gland polyp | No systematic biopsies of surrounding mucosa needed |
 | All [[gastric-polyps\|GEP]] except FGP | Sydney protocol biopsies of surrounding flat mucosa — high GPMC/H. pylori/AIG prevalence (Conditional/Very low) |
 
----
+### Monitoring
 
-## Monitoring
-
-- Surveillance endoscopy: HDWLE + IEE + systematic Sydney protocol biopsies + targeted biopsies of abnormalities
+- Every surveillance exam: HDWLE + IEE + systematic Sydney protocol biopsies + targeted biopsies of abnormalities
 - Coordinate with pathology to ensure full reporting (subtype, extent, severity, dysplasia grade)
-- H. pylori confirmation 4–8 weeks post-eradication (nonserological test)
-- Post-ESD: interval per expert discretion; shorter intervals if additional GC risk factors
 
 ---
 

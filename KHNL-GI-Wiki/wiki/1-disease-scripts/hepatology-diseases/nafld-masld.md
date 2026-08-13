@@ -3,7 +3,7 @@ title: "NAFLD / MASLD (Metabolic Dysfunction-Associated Steatotic Liver Disease)
 category: disease-script
 tags: [nafld, masld, nash, mash, steatosis, metabolic-syndrome, fibrosis, fibroscan, hpb, liver, obesity, diabetes, semaglutide, resmetirom, glp-1, nit, essence-trial, liver-transplant, post-transplant, recurrence]
 created: 2026-05-19
-updated: 2026-08-03
+updated: 2026-08-13
 sources: [aasld-2023-nafld, aasld-2023-masld-nomenclature, aasld-2024-resmetirom, aasld-2024-nilda-blood, aasld-2025-semaglutide-mash, acg-2017-liver-chemistries, aasld-ast-2025-liver-transplant-graft-complications]
 ---
 
@@ -120,7 +120,7 @@ Distinct from the diagnostic rule-in/rule-out thresholds above, drug labels/guid
 - CT — hepatic attenuation assessment for steatosis; radiation exposure
 - MRI-PDFF — most accurate non-invasive quantification of liver fat content
 - MRE (magnetic resonance elastography) — most accurate imaging-based LSM; superior to VCTE in obesity and central adiposity
-- FibroScan (VCTE) — point-of-care LSM (fibrosis) + CAP (steatosis); widely available; limitations in severe obesity (BMI >40), narrow rib spaces
+- [[liver-stiffness-measurement|FibroScan (VCTE)]] — point-of-care LSM (fibrosis) + CAP (steatosis); widely available; limitations in severe obesity (BMI >40), narrow rib spaces
 
 **Laboratory:**
 
@@ -284,8 +284,7 @@ Per [[aasld-ast-2025-liver-transplant-graft-complications]] (recurrent MASLD pos
 
 ## See Also
 
-
-[[alcohol-associated-liver-disease]], [[hepatocellular-carcinoma]], [[liver-transplantation]], [[semaglutide]], [[resmetirom]], [[portal-hypertension]], [[acute-on-chronic-liver-failure]], [[noninvasive-liver-disease-assessment]], [[drug-induced-liver-injury]], [[hereditary-hemochromatosis]], [[wilson-disease]], [[autoimmune-hepatitis]], [[celiac-disease]], [[abnormal-liver-chemistries]]
+[[alcohol-associated-liver-disease]], [[hepatocellular-carcinoma]], [[liver-transplantation]], [[semaglutide]], [[resmetirom]], [[portal-hypertension]], [[acute-on-chronic-liver-failure]], [[noninvasive-liver-disease-assessment]], [[liver-stiffness-measurement]], [[liver-biopsy]], [[cirrhosis]], [[obesity]], [[bariatric-surgery]], [[intragastric-balloon]], [[calcineurin-inhibitors]], [[primary-biliary-cholangitis]], [[drug-induced-liver-injury]], [[hereditary-hemochromatosis]], [[wilson-disease]], [[autoimmune-hepatitis]], [[celiac-disease]], [[hepatitis-c]], [[abnormal-liver-chemistries]]
 
 ---
 

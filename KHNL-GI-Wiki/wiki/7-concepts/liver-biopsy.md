@@ -53,7 +53,7 @@ A central message: **conventional coagulation tests poorly predict post-biopsy b
 - **Antiplatelet agents:** discontinue several to 10 days before (Rec 5, Class I/C); may restart 48-72 hours after (Rec 7).
 - **Warfarin:** discontinue ≥5 days prior (Rec 6); may restart the day after biopsy (Rec 8).
 - **Heparin/related:** discontinue 12-24 hours prior (Rec 6).
-- In all cases weigh thrombotic risk of stopping against bleeding risk.
+- In all cases weigh thrombotic risk of stopping against bleeding risk; agent-by-agent hold intervals and reversal are on [[anticoagulation-gi-bleeding]].
 
 ## Complications
 - **Pain** — most common, up to 84%; usually mild, managed with small narcotic doses. Pain out of proportion should prompt evaluation for bleeding or gallbladder puncture.

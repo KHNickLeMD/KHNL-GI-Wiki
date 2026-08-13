@@ -9,7 +9,7 @@ sources: [aga-2024-diet-nutrition-ibd, aga-2023-ostomies, aga-2025-endoscopic-en
 
 # GLP-2 Agonists (Teduglutide)
 
-Glucagon-like peptide-2 (GLP-2) agonists are **intestinotrophic** peptides used to enhance **intestinal adaptation** and facilitate weaning from long-term **parenteral nutrition (PN)** in **short bowel syndrome (SBS) / intestinal failure**, including [[inflammatory-bowel-disease|IBD]]-associated (typically post-resection [[crohns-disease|Crohn's]]) intestinal failure. Distinct from **GLP-1** agonists (e.g. [[semaglutide]]), which are used for weight/glycemic management — GLP-2 is trophic to the gut, not an incretin weight-loss agent.
+Glucagon-like peptide-2 (GLP-2) agonists are **intestinotrophic** peptides used to enhance **intestinal adaptation** and facilitate weaning from long-term **[[nutrition-in-hospitalized-patients|parenteral nutrition (PN)]]** in **short bowel syndrome (SBS) / intestinal failure**, including [[inflammatory-bowel-disease|IBD]]-associated (typically post-resection [[crohns-disease|Crohn's]]) intestinal failure. Distinct from **GLP-1** agonists (e.g. [[semaglutide]]), which are used for weight/glycemic management — GLP-2 is trophic to the gut, not an incretin weight-loss agent.
 
 ## Contents
 - [[#Mechanism]]
@@ -36,7 +36,7 @@ Glucagon-like peptide-2 (GLP-2) agonists are **intestinotrophic** peptides used 
 - **Gap — not in ingested sources.** The ingested AGA clinical practice updates reference GLP-2 agonists only for their *role* in SBS/HOO management; they give **no dosing, monitoring, or adverse-effect detail**. A dedicated SBS / intestinal-failure guideline or the teduglutide (STEPS) trial is needed to add agent-level dosing and safety. Do not fill from memory.
 
 ## See Also
-[[nutrition-in-ibd]], [[crohns-disease]], [[inflammatory-bowel-disease]], [[ostomy-management]], [[semaglutide]], [[enteral-access]]
+[[nutrition-in-ibd]], [[nutrition-in-hospitalized-patients]], [[crohns-disease]], [[inflammatory-bowel-disease]], [[ostomy-management]], [[semaglutide]], [[enteral-access]]
 
 ---
 

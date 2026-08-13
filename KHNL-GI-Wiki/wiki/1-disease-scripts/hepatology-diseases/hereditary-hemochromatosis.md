@@ -3,7 +3,7 @@ title: "Hereditary Hemochromatosis"
 category: disease-script
 tags: [hemochromatosis, iron-overload, hfe, c282y, phlebotomy, liver, hpb, genetics, ferritin, transferrin-saturation, cirrhosis, hcc, arthropathy, cardiomyopathy, endocrine]
 created: 2026-05-19
-updated: 2026-07-17
+updated: 2026-08-13
 sources: [acg-2019-hereditary-hemochromatosis, acg-2017-liver-chemistries, aasld-2011-hemochromatosis]
 ---
 
@@ -71,7 +71,7 @@ sources: [acg-2019-hereditary-hemochromatosis, acg-2017-liver-chemistries, aasld
 2. Hepatic iron concentration (HIC) >71 µmol/g dry weight
 3. Hepatic iron index (HII = HIC ÷ patient age in years) ≥1.9
 
-**Fibrosis staging note**: SF level is a better surrogate for fibrosis than HIC for long-term risk. Transient elastography has not been validated in HH (does not correlate with SF).
+**Fibrosis staging note**: SF level is a better surrogate for fibrosis than HIC for long-term risk. [[liver-stiffness-measurement|Transient elastography]] has not been validated in HH (does not correlate with SF).
 
 ### Classification / Typing
 
@@ -253,7 +253,7 @@ sources: [acg-2019-hereditary-hemochromatosis, acg-2017-liver-chemistries, aasld
 - LT is curative for liver disease and normalizes hepcidin levels and iron metabolism
 - Historically inferior outcomes reported (more infectious and cardiovascular complications); more recent series show similar 1- and 5-year post-transplant survival vs. other etiologies
 - Pre-transplant iron depletion is preferred but inability to de-iron preoperatively is NOT a contraindication to transplantation
-- HCC in the setting of HH: follow standard HCC transplant criteria (Milan, etc.) [[hepatocellular-carcinoma]]
+- HCC in the setting of HH: follow standard HCC transplant criteria (Milan criteria and AFP thresholds are stated on [[hepatocellular-carcinoma]])
 
 ---
 
@@ -280,8 +280,7 @@ sources: [acg-2019-hereditary-hemochromatosis, acg-2017-liver-chemistries, aasld
 
 ## See Also
 
-
-[[abnormal-liver-chemistries]], [[alcohol-associated-liver-disease]], [[nafld-masld]], [[autoimmune-hepatitis]], [[drug-induced-liver-injury]], [[hepatocellular-carcinoma]], [[hcc-surveillance]], [[acute-liver-failure]], [[hepatitis-c]], [[chronic-hepatitis-b]], [[iron-overload-and-iron-metabolism]], [[liver-transplantation]], [[proton-pump-inhibitors]]
+[[abnormal-liver-chemistries]], [[alcohol-associated-liver-disease]], [[nafld-masld]], [[autoimmune-hepatitis]], [[drug-induced-liver-injury]], [[hepatocellular-carcinoma]], [[hcc-surveillance]], [[acute-liver-failure]], [[hepatitis-c]], [[chronic-hepatitis-b]], [[iron-overload-and-iron-metabolism]], [[liver-transplantation]], [[liver-biopsy]], [[liver-stiffness-measurement]], [[cirrhosis]], [[direct-acting-antivirals]], [[proton-pump-inhibitors]]
 
 ---
 

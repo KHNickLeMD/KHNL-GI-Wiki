@@ -3,7 +3,7 @@ title: "Esophageal Adenocarcinoma (EAC)"
 category: disease-script
 tags: [esophageal-adenocarcinoma, barretts-esophagus, dysplasia, intramucosal-carcinoma, eet, esophagectomy, foregut, oncology]
 created: 2026-06-04
-updated: 2026-08-07
+updated: 2026-08-13
 sources: [asge-2018-barretts-eet, asge-2019-barretts-screening-surveillance, nccn-2026-esophageal-egj-cancer]
 ---
 
@@ -34,7 +34,7 @@ The central treatment decision follows depth of invasion and adverse histology, 
 ### Classification / Typing
 
 - **Histology:** adenocarcinoma (distal esophagus/EGJ; [[barretts-esophagus|Barrett's]]-associated). For the two-histology framework (adenocarcinoma vs squamous cell) and EGJ/Siewert considerations, see [[esophageal-cancer]].
-- **Visible-lesion morphology** graded by the Paris classification (0-I and 0-IIc carry higher submucosal-invasion rates; 0-III suggests deep invasion) — see [[barretts-esophagus]].
+- **Visible-lesion morphology** graded by the [[polypectomy|Paris classification]] (0-I and 0-IIc carry higher submucosal-invasion rates; 0-III suggests deep invasion) — subtype criteria on that page; BE-specific application on [[barretts-esophagus]].
 - **Dysplasia grading** and precursor detail live on [[barretts-esophagus]].
 
 ---
@@ -52,7 +52,7 @@ The central treatment decision follows depth of invasion and adverse histology, 
 
 ## Diagnostics
 
-- **EGD + biopsy** establishes histology; **EMR/ESD of the visible lesion** is the definitive local (T) staging tool — superior to imaging.
+- **EGD + biopsy** establishes histology; **EMR/[[endoscopic-submucosal-dissection|ESD]] of the visible lesion** is the definitive local (T) staging tool — superior to imaging.
 - **[[endoscopic-ultrasound|EUS]]:** [[asge-2019-barretts-screening-surveillance|ASGE 2019]] **strongly recommends against** routine EUS to differentiate T1a vs T1b mucosal/submucosal disease (pooled sensitivity only 41%, high false-positive rate) — resection histology is the staging step. EUS retains a role for confirmed/advanced EAC (deeper T-stage, nodal assessment and FNA).
 - **CT chest/abdomen + PET/CT** for T1b and beyond, to detect distant disease ([[nccn-2026-esophageal-egj-cancer]]).
 - **Biomarkers** (HER2/ERBB2, PD-L1 CPS, MSI-H/dMMR) on advanced/metastatic tumors to direct systemic therapy — see [[esophageal-cancer]].
@@ -72,7 +72,7 @@ Stage-directed; depth of invasion is the pivot.
 
 ## See Also
 
-[[barretts-esophagus]], [[esophageal-cancer]], [[endoscopic-eradication-therapy]], [[gerd]], [[dysphagia]], [[upper-endoscopy]], [[endoscopic-ultrasound]], [[polypectomy]]
+[[barretts-esophagus]], [[esophageal-cancer]], [[endoscopic-eradication-therapy]], [[endoscopic-mucosal-resection]], [[endoscopic-submucosal-dissection]], [[gerd]], [[dysphagia]], [[upper-endoscopy]], [[endoscopic-ultrasound]], [[polypectomy]]
 
 ---
 

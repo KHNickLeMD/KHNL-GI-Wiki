@@ -3,7 +3,7 @@ title: "Enteral Access"
 category: general-procedure
 tags: [enteral-nutrition, peg, peg-j, nutrition, nasoenteric, dpej, buried-bumper]
 created: 2026-07-23
-updated: 2026-08-12
+updated: 2026-08-13
 sources: [aga-2025-endoscopic-enteral-access]
 ---
 
@@ -36,7 +36,7 @@ sources: [aga-2025-endoscopic-enteral-access]
 ## Indications
 
 **Timing of access (hospitalized adults):**
-- Low nutritional risk + unable to meet caloric requirements over **5–7 days** → pursue enteral access.
+- Low [[nutrition-in-hospitalized-patients|nutritional risk]] + unable to meet caloric requirements over **5–7 days** → pursue enteral access.
 - Severely malnourished + unable to maintain oral nutrition → within **24–48 h** of admission.
 
 **Indication categories (source Table 1):**
@@ -105,7 +105,7 @@ sources: [aga-2025-endoscopic-enteral-access]
   - Active GI bleeding from [[peptic-ulcer-disease|peptic ulcer]]
   - Hemodynamic or respiratory instability
 - **Complicate but do NOT necessarily preclude PEG:** large midline wounds, chest tubes, abdominal mesh, ostomies.
-- **NOT absolute contraindications** (but complicate siting or raise aspiration risk; anesthesia support helps): morbid [[obesity]], large hiatal or abdominal wall hernias, peritoneal carcinomatosis, severe dysmotility, esophageal varices.
+- **NOT absolute contraindications** (but complicate siting or raise aspiration risk; anesthesia support helps): morbid [[obesity]], large hiatal or abdominal wall hernias, peritoneal carcinomatosis, severe dysmotility, [[variceal-upper-gi-bleeding|esophageal varices]].
 
 **Special situations:**
 - **[[ascites]]:** impairs wound healing and gastric–abdominal wall apposition → **drain via paracentesis or intraperitoneal drain**; use T-tacks to improve tract formation.
@@ -186,7 +186,7 @@ sources: [aga-2025-endoscopic-enteral-access]
 
 ## See Also
 
-[[upper-endoscopy]], [[gastroparesis]], [[ascites]], [[cirrhosis]], [[esophageal-cancer]], [[nutrition-in-hospitalized-patients]], [[antibiotic-prophylaxis-endoscopy]], [[anticoagulation-gi-bleeding]]
+[[upper-endoscopy]], [[gastroparesis]], [[ascites]], [[cirrhosis]], [[esophageal-cancer]], [[obesity]], [[bariatric-surgery]], [[peptic-ulcer-disease]], [[inflammatory-bowel-disease]], [[variceal-upper-gi-bleeding]], [[nutrition-in-hospitalized-patients]], [[antibiotic-prophylaxis-endoscopy]], [[anticoagulation-gi-bleeding]]
 
 ---
 

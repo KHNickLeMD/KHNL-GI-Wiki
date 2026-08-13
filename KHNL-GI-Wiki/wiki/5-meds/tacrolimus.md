@@ -44,7 +44,7 @@ Per [[aasld-ast-2025-liver-transplant-graft-complications]] (Table 4):
 - **Hyperlipidemia**: Less than cyclosporine
 - **Alopecia**, **GI symptoms**
 
-Compared to cyclosporine: TAC causes more DM and neurotoxicity; less hypertension, dyslipidemia, hirsutism, gingival hyperplasia.
+*Head-to-head TAC vs cyclosporine side-effect comparison lives on [[calcineurin-inhibitors]].*
 
 ## Drug Interactions
 

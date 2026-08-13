@@ -3,7 +3,7 @@ title: "Esophagogastric Junction Outflow Obstruction (EGJOO)"
 category: disease-script
 tags: [egjoo, esophageal-motility, dysphagia, hrm, chicago-classification, foregut]
 created: 2026-07-29
-updated: 2026-07-29
+updated: 2026-08-13
 sources: [aga-2024-poem-advances]
 ---
 # Esophagogastric Junction Outflow Obstruction (EGJOO)
@@ -26,7 +26,7 @@ A **manometric finding, not a diagnosis** — impaired EGJ relaxation with prese
 
 EGJOO is associated with a multitude of alternative causes that must be excluded before it is treated as a primary motility disorder:
 
-- **Mechanical / structural:** obstructive hiatal hernia, external compression, submucosal mass, [[achalasia|early/evolving achalasia]]
+- **Mechanical / structural:** obstructive hiatal hernia, external compression, [[subepithelial-lesion|submucosal mass]], [[achalasia|early/evolving achalasia]]
 - **Other:** [[obesity]], [[gerd|GERD]], opiate-induced esophageal dysfunction, manometric artifact
 - **Related spastic disorders:** [[distal-esophageal-spasm|distal esophageal spasm]], [[hypercontractile-esophagus|hypercontractile esophagus]]
 
@@ -46,7 +46,7 @@ EGJOO is associated with a multitude of alternative causes that must be excluded
 
 ## See Also
 
-[[achalasia]], [[dysphagia]], [[high-resolution-manometry]], [[chicago-classification-v4]], [[flip-panometry]], [[poem]], [[distal-esophageal-spasm]], [[hypercontractile-esophagus]], [[gerd]], [[upper-endoscopy]]
+[[achalasia]], [[dysphagia]], [[high-resolution-manometry]], [[chicago-classification-v4]], [[flip-panometry]], [[poem]], [[distal-esophageal-spasm]], [[hypercontractile-esophagus]], [[gerd]], [[upper-endoscopy]], [[subepithelial-lesion]], [[obesity]]
 
 ---
 

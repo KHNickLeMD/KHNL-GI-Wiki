@@ -3,7 +3,7 @@ title: "Polypectomy (Colorectal)"
 category: general-procedure
 tags: [polypectomy, cold-snare, colonoscopy, colorectal, paris-classification, nice-classification, malignant-polyp, submucosal-invasion, haggitt, kikuchi, tumor-budding, lymphovascular-invasion]
 created: 2026-05-07
-updated: 2026-08-12
+updated: 2026-08-13
 sources: [usmstf-2020-endoscopic-removal, asge-2020-endoscopic-removal, usmstf-2020-malignant-colorectal-polyps, aga-2024-tailored-polypectomy]
 ---
 
@@ -39,12 +39,14 @@ Type 0 = superficial lesions (types 1–5 = advanced cancers). Split by **polypo
 
 ### Laterally Spreading Tumors (LSTs, ≥10mm)
 
-| Subtype | SMI Risk |
-|---|---|
-| LST-G-H (granular homogenous) | ~0.5% |
-| LST-G-NM (granular nodular mixed) | Intermediate |
-| LST-NG-FE (non-granular flat elevated) | Higher |
-| LST-NG-PD (non-granular pseudodepressed) | ~31.6% |
+Single home for LST submucosal-invasion risk — the two USMSTF 2020 documents describe the same four subtypes with different granularity, so both are given side by side:
+
+| Subtype | SMI risk ([[usmstf-2020-endoscopic-removal]]) | SMI risk by size ([[usmstf-2020-malignant-colorectal-polyps]]) |
+|---|---|---|
+| LST-G-H (granular homogenous — even-sized nodules) | ~0.5% | <2% |
+| LST-G-NM (granular nodular mixed — dominant nodule) | Intermediate | 7.1% (<20 mm) → 38% (>30 mm) |
+| LST-NG-FE (non-granular flat elevated) | Higher | Lower than sessile/depressed |
+| LST-NG-PD (non-granular pseudodepressed — sessile/depressed) | ~31.6% | 12.5% (10–19 mm); 32.4% (20–29 mm); 83.3% (≥30 mm) |
 
 ![[polypectomy-2020-lst-subtypes-08.png|450x330]]
 *Figure 2 — Laterally spreading tumors: granular type (LST-G) with nodular surface (a, b) vs non-granular type (LST-NG) with smooth surface (c, d). The macroscopic distinction predicts cancer risk and submucosal fibrosis, and therefore the difficulty of resection. ([[usmstf-2020-endoscopic-removal]])*
@@ -184,14 +186,7 @@ A **malignant polyp** is a colorectal polyp with neoplastic invasion of the subm
 
 **Recommendation 2a (Weak; moderate-quality evidence):** LST-NG with sessile shape or depression, and LST-G with a dominant nodule, predict a higher risk of submucosally invasive cancer.
 
-**LST subtype SMI risk:**
-
-| LST Subtype | SMI Risk |
-|---|---|
-| LST-G, even-sized nodules | <2% |
-| LST-G, mixed nodules (dominant nodule) | 7.1% (<20mm) → 38% (>30mm) |
-| LST-NG, flat elevated | Lower |
-| LST-NG, sessile/depressed | 12.5% (10–19mm); 32.4% (20–29mm); 83.3% (≥30mm) |
+*Subtype-by-size SMI risk percentages: see [[#Laterally Spreading Tumors (LSTs, ≥10mm)]] above — one table, not repeated here.*
 
 ### Management by Deep SMI Features (Recommendation 1b, Weak; low-quality evidence)
 

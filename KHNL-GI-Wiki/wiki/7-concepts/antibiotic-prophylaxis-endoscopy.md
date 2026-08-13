@@ -23,11 +23,11 @@ Framework for when periprocedural antibiotics are — and are not — indicated 
 
 ## Bacteremia Risk by Procedure
 - **High:** esophageal dilation (12–22%; higher with malignant strictures, multiple dilators), variceal sclerotherapy (up to 52%, mean ~14.6%), instrumentation of obstructed bile ducts.
-- **Low:** diagnostic [[upper-endoscopy|EGD]] ± biopsy, [[colonoscopy]] ± biopsy/[[polypectomy]], [[endoscopic-ultrasound|EUS]]-FNA of solid lesions, variceal band ligation.
+- **Low:** diagnostic [[upper-endoscopy|EGD]] ± biopsy, [[colonoscopy]] ± biopsy/[[polypectomy]], [[endoscopic-ultrasound|EUS]]-FNA of solid lesions, [[variceal-upper-gi-bleeding|variceal band ligation]].
 
 ## When Prophylaxis IS Indicated
 - **[[ercp|ERCP]] with anticipated incomplete biliary drainage** (eg, hilar strictures, [[primary-sclerosing-cholangitis|PSC]], post–[[liver-transplantation|liver transplant]], known/suspected obstruction) → cover biliary flora (enteric gram-negatives + enterococci); **continue after the procedure if drainage remains incomplete**. *Not* needed when complete drainage is expected and no obstruction is suspected.
-- **PEG/PEJ placement** → parenteral **cefazolin** (or equivalent) ~30 min before; reduces peristomal infection (MRSA decolonization where endemic).
+- **[[enteral-access|PEG/PEJ placement]]** → parenteral **cefazolin** (or equivalent) ~30 min before; reduces peristomal infection (MRSA decolonization where endemic).
 - **EUS-FNA of cystic lesions** (mediastinal and pancreatic/peripancreatic [[pancreatic-cysts|cysts]]) → antibiotics before, often continued 3–5 days, to prevent cyst infection. **Contested for pancreatic cysts:** the first RCT ([[colan-hernandez-2020-eus-fna-panc-cyst-antibiotics|Colán-Hernández 2020]], n=226) found infection risk low (0.44%) and **not** reduced by ciprofloxacin — arguing prophylaxis is **not** routinely needed for pancreatic-cyst FNA. The ASGE 2015 guideline still *suggests* it (44BB); duplication/mediastinal cysts (excluded from the RCT) remain higher-risk and should still be covered.
 - **Cirrhosis admitted with acute GI bleeding** → antibiotics for **all** such patients **at admission, regardless of endoscopy** — IV **ceftriaxone** (or oral **norfloxacin** if intolerant). Reduces infections, rebleeding, and mortality. See [[antibiotic-prophylaxis-cirrhosis]], [[variceal-upper-gi-bleeding]], [[portal-hypertension|portal hypertensive]] bleeding, and [[spontaneous-bacterial-peritonitis|SBP]].
 - **Continuous ambulatory peritoneal dialysis** → *suggested* before lower-GI endoscopy (prevent peritonitis; very-low-quality evidence).
@@ -55,7 +55,7 @@ Framework for when periprocedural antibiotics are — and are not — indicated 
 | Solely to prevent IE | Any | Not recommended | 444B |
 
 ## See Also
-[[ercp]], [[endoscopic-ultrasound]], [[colonoscopy]], [[upper-endoscopy]], [[pancreatic-cysts]], [[antibiotic-prophylaxis-cirrhosis]], [[variceal-upper-gi-bleeding]], [[spontaneous-bacterial-peritonitis]], [[endoscopy-sedation]], [[preprocedure-testing]], [[primary-sclerosing-cholangitis]], [[nutrition-in-hospitalized-patients]]
+[[ercp]], [[endoscopic-ultrasound]], [[colonoscopy]], [[upper-endoscopy]], [[pancreatic-cysts]], [[antibiotic-prophylaxis-cirrhosis]], [[variceal-upper-gi-bleeding]], [[spontaneous-bacterial-peritonitis]], [[endoscopy-sedation]], [[preprocedure-testing]], [[primary-sclerosing-cholangitis]], [[nutrition-in-hospitalized-patients]], [[enteral-access]]
 
 ---
 

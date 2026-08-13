@@ -3,7 +3,7 @@ title: "Colonoscopy"
 category: general-procedure
 tags: [colonoscopy, crc-screening, polypectomy, surveillance, adenoma, serrated-polyp, colorectal, bowel-prep, split-dose, post-resection, crc-surveillance, metachronous]
 created: 2026-05-07
-updated: 2026-08-12
+updated: 2026-08-13
 sources: [usmstf-2020-followup-colonoscopy, usmstf-2021-crc-screening-age, usmstf-2020-endoscopic-removal, usmstf-2025-bowel-prep, acg-2025-bowel-prep, acg-2014-bowel-cleansing, asge-2015-bowel-preparation, usmstf-2015-crc-surveillance, aga-2025-cade-colonoscopy, aga-2023-ai-colon-polyp, asge-2015-scenic-ibd-dysplasia, aga-2024-glp1-endoscopy]
 ---
 
@@ -69,53 +69,12 @@ See [[artificial-intelligence-endoscopy]] for the full framework.
 
 ## Post-Polypectomy Surveillance
 
-All intervals assume high-quality colonoscopy with complete polypectomy. [[usmstf-2020-followup-colonoscopy]]
+**The full USMSTF 2020 interval grids — adenomas, serrated polyps, and serial (second) surveillance — live on [[colonoscopy-surveillance]].** They are not reproduced here. [[usmstf-2020-followup-colonoscopy]]
 
-Does NOT apply to: IBD, hereditary syndromes ([[lynch-syndrome|Lynch]], [[familial-adenomatous-polyposis|FAP]]), personal history of CRC, [[serrated-polyposis-syndrome|serrated polyposis syndrome]], malignant polyp.
+Two prerequisites that belong to the *procedure* rather than the interval table:
 
-### Adenomas
-
-| Baseline Finding | Next Colonoscopy |
-|---|---|
-| Normal (no adenoma, SSP, TSA, HP ≥10mm) | 10 y |
-| 1–2 tubular adenomas <10mm | **7–10 y** |
-| 3–4 tubular adenomas <10mm | 3–5 y |
-| 5–10 tubular adenomas <10mm | 3 y |
-| Any adenoma ≥10mm | 3 y |
-| Tubulovillous or villous histology | 3 y |
-| High-grade dysplasia | 3 y |
-| >10 adenomas on single exam | 1 y; consider genetic testing |
-| Piecemeal resection of adenoma ≥20mm | 6 mo → then see [[polypectomy]] |
-
-### Serrated Polyps
-
-| Baseline Finding | Next Colonoscopy |
-|---|---|
-| HPs ≤20 in rectum/sigmoid, <10mm | 10 y |
-| HPs proximal to sigmoid, <10mm | 10 y |
-| 1–2 SSPs <10mm | 5–10 y |
-| 3–4 SSPs <10mm | 3–5 y |
-| 5–10 SSPs <10mm | 3 y |
-| SSP ≥10mm | 3 y |
-| SSP with dysplasia | 3 y |
-| HP ≥10mm | 3–5 y* |
-| TSA | 3 y |
-| Piecemeal resection of SSP ≥20mm | 6 mo |
-
-*3y if uncertain SSP vs HP distinction, incomplete resection concern, or inadequate prep; 5y if confident
-
-### Serial Surveillance (After Two Prior Colonoscopies)
-
-| Baseline | 1st Surveillance | Next |
-|---|---|---|
-| 1–2 tubular <10mm | Normal | 10 y |
-| 1–2 tubular <10mm | Any adenoma | 7–10 y |
-| 1–2 tubular <10mm | Advanced† | 3 y |
-| 3–4 tubular <10mm | Normal | 10 y |
-| Advanced† | Normal | 5 y |
-| Advanced† | Advanced† | 3 y |
-
-†Advanced = adenoma ≥10mm, tubulovillous/villous, HGD, or 5–10 adenomas <10mm
+- All intervals assume a **high-quality colonoscopy with complete polypectomy** — see [[#Quality Metrics]]. A low-quality exam warrants earlier repeat, not the published interval.
+- The grid does **not** apply to: IBD, hereditary syndromes ([[lynch-syndrome|Lynch]], [[familial-adenomatous-polyposis|FAP]]), personal history of CRC (see [[#Post-CRC Resection Surveillance]]), [[serrated-polyposis-syndrome|serrated polyposis syndrome]], or a malignant polyp (see [[polypectomy]]).
 
 ---
 
@@ -234,7 +193,7 @@ A "high-quality" colonoscopy in this context requires: cecum/anastomosis reached
 | 3rd surveillance | **5 years** after 2nd surveillance (= 9 years from surgery) | Strong/Low |
 | Subsequent | **Every 5 years** until benefit outweighed by diminished life expectancy | Strong/Low |
 
-- If neoplastic polyps found at any exam: shorten interval per post-polypectomy surveillance guidelines (see table above)
+- If neoplastic polyps found at any exam: shorten interval per the post-polypectomy grids on [[colonoscopy-surveillance]]
 - [[lynch-syndrome|Lynch syndrome]]: these intervals do NOT apply — see [[lynch-syndrome]] for gene-specific schedules
 - Cumulative metachronous CRC risk ~0.3–0.35%/year, lifelong; ~30% of metachronous cancers occur within 2 years of surgery
 
@@ -261,7 +220,7 @@ High-risk = any of: surgery without TME; transanal local excision (TAE or TEM); 
 
 ## See Also
 
-[[colorectal-cancer]], [[colorectal-cancer-screening]], [[colonoscopy-surveillance]], [[polypectomy]], [[colorectal-esd]], [[lynch-syndrome]], [[familial-adenomatous-polyposis]], [[serrated-polyposis-syndrome]], [[inflammatory-bowel-disease]], [[ulcerative-colitis]]
+[[colorectal-cancer]], [[colorectal-cancer-screening]], [[colonoscopy-surveillance]], [[polypectomy]], [[endoscopic-mucosal-resection]], [[colorectal-esd]], [[lynch-syndrome]], [[familial-adenomatous-polyposis]], [[serrated-polyposis-syndrome]], [[inflammatory-bowel-disease]], [[ulcerative-colitis]], [[artificial-intelligence-endoscopy]], [[endoscopy-sedation]], [[endoscopic-ultrasound]], [[iron-deficiency-anemia]]
 
 ---
 

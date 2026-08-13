@@ -3,7 +3,7 @@ title: "Enterotoxigenic Escherichia coli (ETEC)"
 category: disease-script
 tags: [etec, e-coli, bacterial-gastroenteritis, travelers-diarrhea, diarrhea, heat-labile-toxin, heat-stable-toxin]
 created: 2026-05-19
-updated: 2026-07-25
+updated: 2026-08-13
 sources: [acg-2016-acute-diarrhea]
 ---
 
@@ -21,6 +21,7 @@ Enterotoxigenic *E. coli* (ETEC) is the most common cause of traveler's diarrhea
 
 - **Mild** — tolerable, non-limiting → oral rehydration ± [[loperamide]] alone.
 - **Moderate-to-severe** — distressing or function-limiting diarrhea → antibiotics + loperamide.
+- Grade illness with the ACG mild / moderate / severe activity definitions — see [[acute-diarrhea]].
 
 ---
 
@@ -43,7 +44,7 @@ Enterotoxigenic *E. coli* (ETEC) is the most common cause of traveler's diarrhea
 
 ## Therapeutics
 
-- **Antibiotics:** fluoroquinolone or azithromycin for moderate-to-severe TD; **loperamide adjunct recommended with antibiotics** (ACG 2016 Recommendation 8, Strong/Moderate). [[acg-2016-acute-diarrhea]]
+- **Antibiotics:** fluoroquinolone or azithromycin for moderate-to-severe TD — single dose or 3-day course; agent-by-agent doses are in the ACG Table 4 TD regimens on [[acute-diarrhea]]. **Loperamide adjunct recommended with antibiotics** (ACG 2016 Recommendation 8, Strong/Moderate). [[acg-2016-acute-diarrhea]]
 - **[[rifaximin|Rifaximin]]:** effective against non-invasive diarrheagenic *E. coli* including ETEC — 200 mg TID × 3 days. Appropriate for ETEC TD but **NOT** for invasive pathogens.
 - Oral rehydration is the foundation of supportive care.
 
@@ -51,7 +52,7 @@ Enterotoxigenic *E. coli* (ETEC) is the most common cause of traveler's diarrhea
 
 ## See Also
 
-[[acute-diarrhea]], [[rifaximin]], [[shigellosis]], [[campylobacter-infection]], [[salmonella-infection]]
+[[acute-diarrhea]], [[rifaximin]], [[loperamide]], [[shigellosis]], [[campylobacter-infection]], [[salmonella-infection]]
 
 ---
 

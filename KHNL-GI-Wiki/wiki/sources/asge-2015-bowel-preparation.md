@@ -7,7 +7,7 @@ updated: 2026-07-16
 sources: []
 ---
 
-> ⚠ **Historical / superseded source.** This ASGE Standards of Practice Committee guideline is **superseded by [[usmstf-2025-bowel-prep|USMSTF 2025: Optimizing Bowel Preparation Quality for Colonoscopy]]** (published simultaneously in *Gastrointest Endosc*, ASGE's own journal — see also [[acg-2025-bowel-prep]]). Several of its core recommendations are **directly contradicted** by the 2025 statement (4 L as criterion standard, the 3–8 h second-dose window, multi-day low-residue diet, simethicone, non-simethicone adjuncts) — see [[#Contradictions / Open Questions]]. Per source priority, entity pages assert the 2025 claims. Captured here for landmark reference and for the **non-conflicting detail it still uniquely supplies**: the product-level preparation table, the bowel-preparation scoring scales, and agent-specific safety cautions.
+> ⚠ **Historical / superseded source.** This ASGE Standards of Practice Committee guideline is **superseded by [[usmstf-2025-bowel-prep|USMSTF 2025: Optimizing Bowel Preparation Quality for Colonoscopy]]** (published simultaneously in *Gastrointest Endosc*, ASGE's own journal; also cited as "ACG 2025 Bowel Prep"). Several of its core recommendations are **directly contradicted** by the 2025 statement (4 L as criterion standard, the 3–8 h second-dose window, multi-day low-residue diet, simethicone, non-simethicone adjuncts) — see [[#Contradictions / Open Questions]]. Per source priority, entity pages assert the 2025 claims. Captured here for landmark reference and for the **non-conflicting detail it still uniquely supplies**: the product-level preparation table, the bowel-preparation scoring scales, and agent-specific safety cautions.
 
 ## Bibliographic Info
 - **Article:** [ASGE Standards of Practice Committee; Saltzman JR, Cash BD, Pasha SF, et al. Bowel preparation before colonoscopy. Gastrointest Endosc 2015;81:781-794.](https://doi.org/10.1016/j.gie.2014.09.048)
@@ -115,7 +115,7 @@ All **9 recommendations, verbatim**, with GRADE quality of evidence as given. (T
 
 ## Contradictions / Open Questions
 
-**Superseded by [[usmstf-2025-bowel-prep]] / [[acg-2025-bowel-prep]] (2025 wins per source priority — Guidelines tier, newer publication date):**
+**Superseded by [[usmstf-2025-bowel-prep]] (2025 wins per source priority — Guidelines tier, newer publication date):**
 
 | Topic | ASGE 2015 | USMSTF/ACG 2025 | Resolution |
 |---|---|---|---|

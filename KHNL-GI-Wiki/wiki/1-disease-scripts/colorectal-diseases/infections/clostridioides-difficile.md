@@ -3,7 +3,7 @@ title: "Clostridioides difficile Infection"
 category: disease-script
 tags: [cdiff, clostridioides-difficile, colitis, vancomycin, fidaxomicin, fmt, colorectal]
 created: 2026-05-15
-updated: 2026-07-30
+updated: 2026-08-13
 sources: [acg-2021-cdiff, aga-2024-fmt, aga-2026-cdiff-ibd, feuerstadt-2022-ser109-cdiff]
 ---
 
@@ -137,7 +137,7 @@ Higher doses of vancomycin (>125 mg QID) are not recommended for severe CDI — 
 
 - Indications: colonic perforation, [[toxic-megacolon|toxic megacolon]], ischemia, or failure to respond to maximal medical therapy
 - Options (surgeon's judgment based on clinical circumstances and patient tolerance):
-  - Total colectomy with end ileostomy + stapled rectal stump — traditional approach; removes infected colon; allows eventual stoma closure
+  - Total colectomy with [[ostomy-management|end ileostomy]] + stapled rectal stump — traditional approach; removes infected colon; allows eventual stoma closure
   - Diverting loop ileostomy + intraoperative colonic lavage (8 L PEG) + 10 days postoperative intraluminal vancomycin through ileostomy — less physiologically demanding; adjusted mortality lower (17.2% vs 39.7% in matched cohort)
 - Avoid delaying surgery too long — increased postoperative mortality with late intervention; also avoid operating too early under assumption that diversion is low-risk
 
@@ -203,9 +203,7 @@ Higher doses of vancomycin (>125 mg QID) are not recommended for severe CDI — 
 - Hand hygiene with soap and water (alcohol-based hand sanitizers less effective against C. difficile spores)
 - Not required for asymptomatic carriers
 
----
-
-**Special Populations**
+### Special Populations
 
 **IBD ([[ulcerative-colitis]], [[crohns-disease]]):**
 
@@ -244,9 +242,11 @@ Higher doses of vancomycin (>125 mg QID) are not recommended for severe CDI — 
 - Organ transplant recipients have ~9× higher CDI risk than baseline hospitalization risk
 - OVP highly effective in allogeneic hematopoietic stem cell recipients (0% CDI on prophylaxis vs 20% without)
 
+---
+
 ## See Also
 
-[[ulcerative-colitis]], [[crohns-disease]], [[inflammatory-bowel-disease]], [[colonoscopy]], [[salmonella-infection]], [[campylobacter-infection]], [[enterotoxigenic-e-coli]], [[norovirus]], [[irritable-bowel-syndrome]], [[postinfectious-ibs]], [[microscopic-colitis]], [[colon-ischemia]], [[acute-diarrhea]], [[fmt]], [[toxic-megacolon]]
+[[acute-diarrhea]], [[ulcerative-colitis]], [[crohns-disease]], [[inflammatory-bowel-disease]], [[colonoscopy]], [[salmonella-infection]], [[campylobacter-infection]], [[enterotoxigenic-e-coli]], [[norovirus]], [[irritable-bowel-syndrome]], [[postinfectious-ibs]], [[microscopic-colitis]], [[colon-ischemia]], [[toxic-megacolon]], [[ostomy-management]], [[fmt]], [[probiotics]], [[loperamide]], [[rifaximin]], [[proton-pump-inhibitors]]
 
 ---
 

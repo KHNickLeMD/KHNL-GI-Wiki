@@ -3,7 +3,7 @@ title: "Iron-Deficiency Anemia"
 category: disease-script
 tags: [iron-deficiency-anemia, ida, iron, ferritin, oral-iron, intravenous-iron, gi-bleeding, ibd, gave, celiac, angioectasia, bariatric]
 created: 2026-07-24
-updated: 2026-08-12
+updated: 2026-08-13
 sources: [aga-2020-ida, aga-2024-ida-management]
 ---
 
@@ -27,7 +27,7 @@ sources: [aga-2020-ida, aga-2024-ida-management]
 
 - **Iron deficiency (ID):** the most common nutritional deficiency worldwide. **Iron-deficiency anemia (IDA)** = ID with anemia.
 - **Diagnostic marker — ferritin.** Diagnose ID with a **ferritin cutoff <45 ng/mL (µg/L)** in an anemic patient (AGA 2020 — replaces older <15 ng/mL; optimal sensitivity/specificity). [[aga-2020-ida]]
-  - **Caveat (inflammation):** ferritin is an acute-phase reactant. Patients with inflammatory conditions can have ID/IDA despite ferritin **>45 (usually <100) ng/mL**. Confirm in this setting with **transferrin saturation (TSAT), soluble transferrin receptor (sTfR), or reticulocyte hemoglobin equivalent**. [[aga-2024-ida-management]]
+  - **Caveat (inflammation):** ferritin is an acute-phase reactant. Patients with inflammatory conditions can have ID/IDA despite ferritin **>45 (usually <100) ng/mL**. Confirm in this setting with **transferrin saturation (TSAT), soluble transferrin receptor (sTfR), or reticulocyte hemoglobin equivalent** *(neither ingested AGA source gives a numeric cutoff for these three confirmatory tests)*. [[aga-2024-ida-management]]
 - After ID is identified, undertake an etiologic work-up: dietary iron intake, menstrual losses (premenopausal women), and a search for GI causes of poor absorption or blood loss (including [[helicobacter-pylori-infection|*H. pylori*]]).
 
 ### Severity Assessment
@@ -64,7 +64,7 @@ Per AGA 2020 [[aga-2020-ida]]:
 
 - **Bidirectional endoscopy** ([[upper-endoscopy|EGD]] **and** [[colonoscopy]]) is the recommended initial structural evaluation for IDA to find a GI source.
 - **Duodenal biopsies for [[celiac-disease|celiac disease]]** during EGD.
-- **Noninvasive [[helicobacter-pylori-infection|*H. pylori*]] test-and-treat** when bidirectional endoscopy is unrevealing.
+- **Noninvasive [[helicobacter-pylori-infection|*H. pylori*]] [[test-and-treat]]** when bidirectional endoscopy is unrevealing.
 - **[[capsule-endoscopy|Capsule endoscopy]]** for the small bowel if bidirectional endoscopy is negative and suspicion persists → see [[small-bowel-bleeding]].
 - **Post-bariatric IDA:** EGD to exclude an **anastomotic (marginal) ulcer** as a bleeding source.
 
@@ -121,7 +121,7 @@ Per AGA 2020 [[aga-2020-ida]]:
 
 ## See Also
 
-[[small-bowel-bleeding]], [[celiac-disease]], [[helicobacter-pylori-infection]], [[inflammatory-bowel-disease]], [[angioectasia]], [[capsule-endoscopy]], [[device-assisted-enteroscopy]], [[argon-plasma-coagulation]], [[somatostatin-analogs]], [[colonoscopy]], [[upper-endoscopy]], [[bariatric-surgery]], [[obesity]], [[cirrhosis]], [[portal-hypertension]], [[iron-overload-and-iron-metabolism]]
+[[small-bowel-bleeding]], [[celiac-disease]], [[helicobacter-pylori-infection]], [[test-and-treat]], [[inflammatory-bowel-disease]], [[angioectasia]], [[capsule-endoscopy]], [[device-assisted-enteroscopy]], [[argon-plasma-coagulation]], [[somatostatin-analogs]], [[colonoscopy]], [[upper-endoscopy]], [[bariatric-surgery]], [[obesity]], [[cirrhosis]], [[portal-hypertension]], [[iron-overload-and-iron-metabolism]]
 
 ---
 

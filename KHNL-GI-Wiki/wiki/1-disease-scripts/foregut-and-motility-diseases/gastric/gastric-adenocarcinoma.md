@@ -3,7 +3,7 @@ title: "Gastric Adenocarcinoma"
 category: disease-script
 tags: [gastric-cancer, gastric-adenocarcinoma, gastric, malignancy, her2, pd-l1, msi-h, dmmr, claudin-18.2, flot, gastrectomy, endoscopic-resection, trastuzumab, zolbetuximab, nccn, oncology]
 created: 2026-06-01
-updated: 2026-08-04
+updated: 2026-08-13
 sources: [nccn-2026-gastric-cancer, asge-2015-gastric-premalignant, asge-2023-esd]
 ---
 
@@ -14,6 +14,10 @@ sources: [nccn-2026-gastric-cancer, asge-2015-gastric-premalignant, asge-2023-es
 - **Presentation:** often late — weight loss, early satiety, epigastric pain, anemia, obstruction. Alarm features warrant prompt [[upper-endoscopy|endoscopy]] with biopsy; diagnosis is histologic. [[nccn-2026-gastric-cancer]]
 - **Risk factors:** [[helicobacter-pylori-infection|H. pylori]] infection; the precursor cascade of [[atrophic-gastritis|atrophic gastritis]] → [[gastric-intestinal-metaplasia|intestinal metaplasia]] → dysplasia ([[gastric-premalignant-conditions|gastric premalignant conditions]]); smoking; high-salt diet; hereditary syndromes including [[hereditary-diffuse-gastric-cancer|hereditary diffuse gastric cancer (CDH1)]]
 - Who to screen and how to survey precursor lesions: see [[gastric-cancer-screening]]
+
+### Severity Assessment (Staging)
+
+Staging combines [[endoscopic-ultrasound|EUS]] (T/N), CT, PET/CT, and **diagnostic laparoscopy with peritoneal cytology** for locally advanced disease to exclude occult peritoneal spread. For advanced/metastatic disease, biomarker testing — **HER2 (ERBB2), PD-L1 CPS, MSI-H/dMMR, and claudin 18.2** — is integral to treatment selection.
 
 ### Classification / Typing
 
@@ -29,10 +33,6 @@ sources: [nccn-2026-gastric-cancer, asge-2015-gastric-premalignant, asge-2023-es
 | **I** | 1–5 cm **above** the EGJ (lower esophagus; often associated with [[barretts-esophagus\|Barrett esophagus]]) | [[esophageal-cancer\|Esophageal/EGJ cancer]] guidelines |
 | **II** | Within **1 cm above to 2 cm below** the EGJ (true carcinoma of the cardia) | Esophageal/EGJ cancer guidelines |
 | **III** | **2–5 cm below** the EGJ (subcardial), infiltrating the EGJ and lower esophagus | **Gastric** cancer guidelines |
-
-### Staging
-
-Staging combines [[endoscopic-ultrasound|EUS]] (T/N), CT, PET/CT, and **diagnostic laparoscopy with peritoneal cytology** for locally advanced disease to exclude occult peritoneal spread. For advanced/metastatic disease, biomarker testing — **HER2 (ERBB2), PD-L1 CPS, MSI-H/dMMR, and claudin 18.2** — is integral to treatment selection.
 
 ## Differential Diagnosis
 

@@ -3,7 +3,7 @@ title: "Campylobacter Infection"
 category: disease-script
 tags: [campylobacter, bacterial-gastroenteritis, diarrhea, travelers-diarrhea, dysentery, fluoroquinolone-resistance, guillain-barre]
 created: 2026-05-19
-updated: 2026-08-11
+updated: 2026-08-13
 sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
 ---
 
@@ -52,7 +52,7 @@ Antibiotics are **not routine** in immunocompetent hosts — the benefit of trea
 | Immunocompetent, uncomplicated | **No** — self-limited; risks outweigh modest benefit |
 | Particularly **prolonged or severe** disease | **Yes** — reasonable |
 | **Immunocompromised**, even with otherwise uncomplicated gastroenteritis | **Yes** — reasonable; fatal infection is rare but more common in severe immunocompromise |
-| Empiric, before the organism is known | Only per the [[acute-diarrhea]] empiric exceptions (ill febrile returning traveler ≥38.5 °C or sepsis signs; presumptive bacillary dysentery) |
+| Empiric, before the organism is known | Only per the [[acute-diarrhea]] empiric exceptions ([[fever-returning-traveler\|ill febrile returning traveler]] ≥38.5 °C or sepsis signs; presumptive bacillary dysentery) |
 
 Unlike [[salmonella-infection|nontyphoidal *Salmonella*]], there is **no evidence that antimicrobial therapy prolongs the carrier state or provokes relapse** in campylobacteriosis — so the downside of treating is comparatively small. [[idsa-2017-infectious-diarrhea]]
 
@@ -85,7 +85,7 @@ Unlike [[salmonella-infection|nontyphoidal *Salmonella*]], there is **no evidenc
 
 ## See Also
 
-[[acute-diarrhea]], [[salmonella-infection]], [[shigellosis]], [[enterotoxigenic-e-coli]], [[clostridioides-difficile]], [[inflammatory-bowel-disease]], [[rifaximin]], [[loperamide]], [[postinfectious-ibs]]
+[[acute-diarrhea]], [[fever-returning-traveler]], [[salmonella-infection]], [[shigellosis]], [[enterotoxigenic-e-coli]], [[clostridioides-difficile]], [[inflammatory-bowel-disease]], [[rifaximin]], [[loperamide]], [[postinfectious-ibs]]
 
 ---
 

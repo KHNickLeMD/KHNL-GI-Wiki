@@ -3,7 +3,7 @@ title: "Barrett's Esophagus"
 category: disease-script
 tags: [barretts-esophagus, esophageal, dysplasia, eet, rfa, surveillance, foregut]
 created: 2026-05-15
-updated: 2026-08-11
+updated: 2026-08-13
 sources: [acg-2022-barretts, aga-2025-barretts-surveillance, aga-2024-barretts-eet, asge-2018-barretts-eet, asge-2019-barretts-screening-surveillance]
 ---
 
@@ -84,7 +84,7 @@ The key severity variable is **dysplasia grade**, which determines both cancer r
 
 **Visible lesion characterization:**
 
-- Paris classification for superficial neoplasia: 0-I (polypoid), 0-IIa/b/c (flat), 0-III (excavated/ulcerated)
+- [[polypectomy|Paris classification]] for superficial neoplasia: 0-I (polypoid), 0-IIa/b/c (flat), 0-III (excavated/ulcerated) — full subtype criteria and schematics on that page
 - Paris 0-I and 0-IIc have higher rates of submucosal invasion
 - Paris 0-III (deep ulceration) suggests deep submucosal invasion — less suitable for endoscopic resection
 

@@ -3,7 +3,7 @@ title: "Cryptosporidiosis"
 category: disease-script
 tags: [cryptosporidium, parasitic-diarrhea, diarrhea, travelers-diarrhea, immunocompromised, nitazoxanide]
 created: 2026-05-19
-updated: 2026-08-04
+updated: 2026-08-13
 sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
 ---
 
@@ -20,7 +20,7 @@ sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
 ### Severity Assessment
 
 - **Immunocompetent** — self-limited, ~1–2 weeks.
-- **Immunocompromised** (esp. low CD4) — severe, chronic, high-volume, potentially biliary (AIDS cholangiopathy); severity tracks the degree of immunosuppression.
+- **Immunocompromised** (esp. low CD4) — severe, [[chronic-diarrhea|chronic]], high-volume, potentially biliary (AIDS cholangiopathy); severity tracks the degree of immunosuppression.
 
 ---
 
@@ -53,7 +53,7 @@ sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
 
 ## See Also
 
-[[acute-diarrhea]], [[giardiasis]], [[entamoeba-histolytica-infection]], [[hiv-aids-related-diarrhea]], [[norovirus]], [[rotavirus]], [[enterotoxigenic-e-coli]], [[nitazoxanide]]
+[[acute-diarrhea]], [[chronic-diarrhea]], [[giardiasis]], [[entamoeba-histolytica-infection]], [[hiv-aids-related-diarrhea]], [[norovirus]], [[rotavirus]], [[enterotoxigenic-e-coli]], [[nitazoxanide]]
 
 ---
 

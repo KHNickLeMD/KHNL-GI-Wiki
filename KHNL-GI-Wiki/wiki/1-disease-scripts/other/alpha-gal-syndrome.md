@@ -3,7 +3,7 @@ title: "Alpha-Gal Syndrome"
 category: disease-script
 tags: [alpha-gal-syndrome, food-allergy, mammalian-meat-allergy, ige, tick-bite, abdominal-pain, diarrhea, anaphylaxis]
 created: 2026-07-20
-updated: 2026-07-20
+updated: 2026-08-13
 sources: [aga-2023-alpha-gal-syndrome]
 ---
 
@@ -34,7 +34,7 @@ IgE-mediated allergy to **galactose-alpha-1,3-galactose (alpha-gal)**, an oligos
 2. **Increased serum alpha-gal IgE titer** *(no specific numeric cutoff is given in the source)*.
 3. **Symptom resolution/improvement after an alpha-gal–avoidance diet** trial (≥1 month).
 
-- A **positive alpha-gal IgE alone is NOT sufficient**, especially with isolated GI distress — sensitized individuals are commonly asymptomatic (seroprevalence 31% in a NC colonoscopy screening cohort; 35% in German hunters/forest workers, most tolerating meat).
+- A **positive alpha-gal IgE alone is NOT sufficient**, especially with isolated GI distress — sensitized individuals are commonly asymptomatic (seroprevalence 31% in a North Carolina [[colonoscopy]] screening cohort; 35% in German hunters/forest workers, most tolerating meat).
 - **When to consider it:** unexplained GI symptoms in a patient who lives/has lived in an alpha-gal–prevalent area (see below). Features raising likelihood:
   - **Nighttime awakening from sleep with GI distress** (fits the hours-long ingestion-to-reaction delay)
   - History of **tick bites** or outdoor pursuits
@@ -80,6 +80,7 @@ IgE-mediated allergy to **galactose-alpha-1,3-galactose (alpha-gal)**, an oligos
 | Processed foods; restaurant meals | Animal-derived additives; cross-contamination |
 | Aerosolized alpha-gal | Some react to inhaling fumes from frying bacon/beef |
 
+- **Expected response:** in two GI observational cohorts (16 patients in North Carolina; 359 in Virginia) **~three-quarters** of alpha-gal IgE–positive GI patients improved on an avoidance diet.
 - **Acceptable:** fish, seafood, turkey, chicken, and other fowl.
 - Work with **dieticians**; raise their awareness of alpha-gal before referral.
 - No evidence supports **acupuncture** as treatment.
@@ -108,7 +109,7 @@ IgE-mediated allergy to **galactose-alpha-1,3-galactose (alpha-gal)**, an oligos
 
 ## See Also
 
-[[irritable-bowel-syndrome]], [[chronic-diarrhea]], [[colorectal-cancer]]
+[[irritable-bowel-syndrome]], [[chronic-diarrhea]], [[colonoscopy]], [[colorectal-cancer]]
 
 ---
 

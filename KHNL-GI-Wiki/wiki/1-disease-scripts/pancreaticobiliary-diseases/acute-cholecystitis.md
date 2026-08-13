@@ -3,7 +3,7 @@ title: "Acute Cholecystitis"
 category: disease-script
 tags: [acute-cholecystitis, gallbladder, cholecystectomy, eus-gbd, percutaneous-cholecystostomy, transpapillary-drainage, lams, high-surgical-risk]
 created: 2026-07-23
-updated: 2026-07-26
+updated: 2026-08-13
 sources: [aga-2023-eus-gallbladder-drainage, asge-2024-therapeutic-eus-biliary, aga-2024-pregnancy-gi-liver]
 ---
 
@@ -22,6 +22,8 @@ sources: [aga-2023-eus-gallbladder-drainage, asge-2024-therapeutic-eus-biliary, 
   - [[#Choosing the drainage route]]
   - [[#Follow-up after EUS-GBD]]
   - [[#Cholecystectomy in Pregnancy]]
+- [[#See Also]]
+- [[#Sources]]
 
 *Current ingested coverage is the gallbladder-drainage decision in high-surgical-risk patients ([[aga-2023-eus-gallbladder-drainage]], [[asge-2024-therapeutic-eus-biliary]]). Diagnosis and severity criteria are not yet sourced — see flags below.*
 
@@ -60,7 +62,7 @@ sources: [aga-2023-eus-gallbladder-drainage, asge-2024-therapeutic-eus-biliary, 
 Per [[aga-2023-eus-gallbladder-drainage]]:
 
 - **High surgical risk** = significant medical comorbidities that would make laparoscopic cholecystectomy **excessively risky** (the conventional trigger for percutaneous drainage). No numeric score/criteria are given in the CPU — judgment + surgical consultation.
-- To be an **endoscopic** drainage candidate the patient must additionally: tolerate anesthesia and a therapeutic endoscopic procedure; for the transmural (EUS) route, have **no free gallbladder perforation**.
+- To be an **endoscopic** drainage candidate the patient must additionally: tolerate anesthesia and a therapeutic endoscopic procedure; for the transmural ([[endoscopic-ultrasound|EUS]]) route, have **no free gallbladder perforation**.
 - **Future surgical candidacy must be clarified with the surgeon before EUS-GBD** — transmural drainage creates a cholecystoenteric fistula that requires repair at later cholecystectomy (postoperative leak risk); transpapillary drainage preserves normal anatomy.
 
 ### Gallbladder drainage in high-surgical-risk patients
@@ -100,7 +102,7 @@ Three routes ([[aga-2023-eus-gallbladder-drainage]]):
 - **Cholecystectomy is safe during pregnancy; laparoscopic approach is the standard of care regardless of trimester, ideally the 2nd trimester.** ([[aga-2024-pregnancy-gi-liver]] BPA 9)
 - Gallstone disease is the 2nd leading cause (after appendicitis) of nonobstetric acute abdominal pain in pregnancy. **Laparoscopic cholecystectomy is superior to conservative management** for symptomatic cholelithiasis (conservative → recurrent biliary symptoms in ~60%). SAGES: **laparoscopy safe in any trimester**; after the 1st trimester use left-lateral/partial-left-lateral decubitus.
 - Initial management: IV hydration, analgesia, antiemetics, antibiotics. **Same-admission cholecystectomy** in [[acute-pancreatitis|acute biliary pancreatitis]] reduces early readmission by **85%**.
-- If hemodynamically unstable or high surgical risk: **[[eus-guided-gallbladder-drainage|percutaneous cholecystostomy]] or gallbladder aspiration as a bridge** (1st→2nd trimester, or 3rd trimester→postpartum) until cholecystectomy can be performed. Late-3rd-trimester biliary pain may be managed by postponing surgery to postpartum if no maternal/fetal risk. ([[aga-2024-pregnancy-gi-liver]])
+- If hemodynamically unstable or high surgical risk: **percutaneous cholecystostomy or gallbladder aspiration as a bridge** (1st→2nd trimester, or 3rd trimester→postpartum) until cholecystectomy can be performed. Late-3rd-trimester biliary pain may be managed by postponing surgery to postpartum if no maternal/fetal risk. ([[aga-2024-pregnancy-gi-liver]])
 
 ---
 

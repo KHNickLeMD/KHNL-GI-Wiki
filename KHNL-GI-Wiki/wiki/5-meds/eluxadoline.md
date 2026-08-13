@@ -11,7 +11,7 @@ Minimally absorbed, **peripherally acting mixed μ-/κ-opioid receptor agonist a
 
 ## Dosing
 - **100 mg PO BID** — standard/generally recommended dose. [[aga-2022-ibs-d]]
-- **75 mg PO BID** — use when the patient cannot tolerate 100 mg, has **mild–moderate hepatic impairment**, or is on a **concomitant OATP1B1 inhibitor** (e.g., cyclosporine, gemfibrozil). Benefit is very similar to 100 mg.
+- **75 mg PO BID** — use when the patient cannot tolerate 100 mg, has **mild–moderate hepatic impairment**, or is on a **concomitant OATP1B1 inhibitor** (e.g., [[calcineurin-inhibitors|cyclosporine]], gemfibrozil). Benefit is very similar to 100 mg.
 - **Do not use** in **severe hepatic impairment (Child-Pugh class C)**. [[acg-2020-ibs]]
 
 ## Contraindications (decision-critical)

@@ -3,7 +3,7 @@ title: "Acute Pancreatitis"
 category: disease-script
 tags: [pancreatitis, acute-pancreatitis, hpb, gallstone-pancreatitis, necrotizing-pancreatitis, ercp, bisap, fluid-resuscitation, nutrition]
 created: 2026-05-07
-updated: 2026-08-12
+updated: 2026-08-13
 sources: [acg-2024-acute-pancreatitis, asge-2016-pancreatic-fluid-collections, asge-2015-benign-pancreatic-disease, demadaria-2022-waterfall, aga-2024-pregnancy-gi-liver, aga-2022-recurrent-pancreatitis-endoscopy, asge-2023-post-ercp-pancreatitis]
 ---
 
@@ -54,7 +54,9 @@ sources: [acg-2024-acute-pancreatitis, asge-2016-pancreatic-fluid-collections, a
 | **Moderately severe** | Transient OF (<48h) OR local complications (peripancreatic fluid, necrosis, pseudocyst) OR comorbidity exacerbation | ~8% |
 | **Severe** | Persistent organ failure (>48h) — respiratory, cardiovascular, or renal | ~30–50% |
 
-**Modified Marshall Score** — defines organ failure: PaO₂/FiO₂, creatinine, systolic BP with vasopressor need; ≥2 = organ failure
+**Modified Marshall Score** — the instrument behind the Atlanta organ-failure definitions; scores three systems — respiratory (PaO₂/FiO₂), renal (creatinine), cardiovascular (systolic BP, vasopressor responsiveness); **≥2 = organ failure**
+
+- ⚠ **Decision gap — the per-domain point cut-points are not in any ingested source.** [[acg-2024-acute-pancreatitis]] adopts the Revised Atlanta definitions and names the Marshall score but does not reproduce its scoring table, so the score cannot be computed from this page. Would require ingesting the original Atlanta 2012 revision (Banks) / Marshall paper — do not infer the thresholds.
 
 **BISAP Score** (bedside, at presentation):
 

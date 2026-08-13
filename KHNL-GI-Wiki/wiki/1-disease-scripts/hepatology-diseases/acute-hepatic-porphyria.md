@@ -3,7 +3,7 @@ title: "Acute Hepatic Porphyria"
 category: disease-script
 tags: [porphyria, acute-hepatic-porphyria, aip, hcp, vp, alad, hepatology, metabolic, givosiran, hemin]
 created: 2026-07-20
-updated: 2026-08-04
+updated: 2026-08-13
 sources: [aga-2023-acute-hepatic-porphyria]
 ---
 
@@ -25,6 +25,8 @@ Acute hepatic porphyrias (AHP) are rare inborn errors of heme metabolism in whic
   - [[#Prophylaxis for Recurrent Attacks]]
   - [[#Liver Transplantation]]
   - [[#Long-Term Monitoring & Surveillance]]
+- [[#See Also]]
+- [[#Sources]]
 
 ## Assessment
 
@@ -127,7 +129,7 @@ Acute hepatic porphyrias (AHP) are rare inborn errors of heme metabolism in whic
 - **Genetically screen related living donors** — asymptomatic *HMBS*-variant donors may cause poor post-transplant outcomes. Perform at centers experienced with AHP (including preoperative hemin).
 
 ### Long-Term Monitoring & Surveillance
-- **Liver disease (BPA 9):** monitor **annually**. Aminotransferases elevated in ~13% during attacks (28% at baseline in ENVISION); abnormal LFTs → investigate alternative etiologies (e.g., [[nafld-masld|NASH]], iron overload); [[liver-biopsy|liver biopsy]] may help.
+- **Liver disease (BPA 9):** monitor **annually**. Aminotransferases elevated in ~13% during attacks (28% at baseline in ENVISION); [[abnormal-liver-chemistries|abnormal LFTs]] → investigate alternative etiologies (e.g., [[nafld-masld|NASH]], iron overload); [[liver-biopsy|liver biopsy]] may help.
   - On ≥monthly prophylactic hemin (9% iron by weight): **ferritin and iron every 3–6 months**; if **ferritin >1000 ng/mL → therapeutic phlebotomy.**
   - On [[givosiran]]: **ALT >3× ULN** reported in first 3–6 months → **monitor liver enzymes monthly during that period**; if normal, reduce to twice/year.
 - **[[hcc-surveillance|HCC surveillance]] (BPA 10):** risk **1.5%–1.8%**; **begin at age 50 y — liver ultrasound every 6 months, regardless of symptom severity.** Female predominance 2.5×; HCC (and [[cholangiocarcinoma]]) may occur **without fibrosis/[[cirrhosis|cirrhosis]]**; AFP role unclear (not reliably elevated even with high tumor burden).
@@ -135,7 +137,7 @@ Acute hepatic porphyrias (AHP) are rare inborn errors of heme metabolism in whic
 - **Counsel on long-term complications (BPA 12):** neuropathy, CKD, hypertension, HCC, and the need for ongoing monitoring — including asymptomatic high excretors, who merit annual monitoring.
 
 ## See Also
-[[hemin]], [[givosiran]], [[hepatocellular-carcinoma]], [[hcc-surveillance]], [[liver-transplantation]], [[liver-biopsy]], [[iron-overload-and-iron-metabolism]]
+[[hemin]], [[givosiran]], [[hepatocellular-carcinoma]], [[hcc-surveillance]], [[liver-transplantation]], [[liver-biopsy]], [[iron-overload-and-iron-metabolism]], [[abnormal-liver-chemistries]], [[cirrhosis]], [[cholangiocarcinoma]], [[nafld-masld]]
 
 ---
 

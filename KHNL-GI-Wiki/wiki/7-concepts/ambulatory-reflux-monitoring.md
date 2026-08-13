@@ -80,7 +80,7 @@ Any monitoring study where AET falls between 4.0% and 6.0% — and does not meet
 ### Normal Study Definition
 
 - **AET <4.0% on all days of wireless pH monitoring + negative reflux-symptom association** = GERD excluded
-- **AET <4.0% on all days + positive reflux-symptom association** = meets criteria for **reflux hypersensitivity** (not GERD; treat with neuromodulators complementing or replacing antisecretory therapy)
+- **AET <4.0% on all days + positive reflux-symptom association** = meets criteria for **[[disorders-of-gut-brain-interaction|reflux hypersensitivity]]** (not GERD; treat with neuromodulators complementing or replacing antisecretory therapy)
 
 ---
 
@@ -146,7 +146,7 @@ The original endoscopic mucosal impedance devices (catheter through biopsy chann
 | Off therapy | Hiatus hernia | **Supportive adjunctive** evidence |
 | On optimised PPI therapy | LA B, C, D; recurrent peptic stricture | **Refractory GERD** |
 
-**Endoscopy timing:** In unproven GERD, endoscopy should be performed **2–4 weeks after PPI discontinuation** to maximise diagnostic yield. Mucosal healing occurs in ~80% after 8 weeks of PPI, obscuring the true oesophagitis grade. Even within 2 weeks, oesophagitis can recur significantly (10/12 patients with healed grade C oesophagitis had recurrence within 1 week in one prospective study).
+**Endoscopy timing:** In unproven GERD, [[upper-endoscopy|endoscopy]] should be performed **2–4 weeks after PPI discontinuation** to maximise diagnostic yield. Mucosal healing occurs in ~80% after 8 weeks of PPI, obscuring the true oesophagitis grade. Even within 2 weeks, oesophagitis can recur significantly (10/12 patients with healed grade C oesophagitis had recurrence within 1 week in one prospective study).
 
 ---
 
@@ -234,7 +234,7 @@ The ACG 2020 guideline [[acg-2020-esophageal-physiologic-testing]] provides the 
 
 ## See Also
 
-[[hrm-antireflux-surgery]], [[flip-panometry]], [[laryngopharyngeal-symptoms]], [[extraesophageal-reflux]], [[achalasia]], [[reflux-testing]], [[gerd]], [[barretts-esophagus]], [[high-resolution-manometry]], [[chicago-classification-v4]], [[rumination-syndrome]], [[antireflux-surgery]]
+[[hrm-antireflux-surgery]], [[flip-panometry]], [[laryngopharyngeal-symptoms]], [[extraesophageal-reflux]], [[achalasia]], [[reflux-testing]], [[gerd]], [[barretts-esophagus]], [[high-resolution-manometry]], [[chicago-classification-v4]], [[rumination-syndrome]], [[antireflux-surgery]], [[upper-endoscopy]], [[disorders-of-gut-brain-interaction]], [[proton-pump-inhibitors]]
 
 ---
 

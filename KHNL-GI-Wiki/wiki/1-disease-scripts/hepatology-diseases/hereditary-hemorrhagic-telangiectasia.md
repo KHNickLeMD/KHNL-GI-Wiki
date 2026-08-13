@@ -3,7 +3,7 @@ title: "Hereditary Hemorrhagic Telangiectasia (HHT)"
 category: disease-script
 tags: [hht, osler-weber-rendu, telangiectasia, avm, hepatic-vascular-malformation, lvm, bevacizumab, gi-bleeding, smad4]
 created: 2026-05-21
-updated: 2026-07-17
+updated: 2026-08-13
 sources: [acg-2020-hepatic-mesenteric-circulation, acg-2015-hereditary-gi-cancer, aga-2022-hamartomatous-polyposis]
 ---
 
@@ -52,7 +52,7 @@ Route into the diagnosis that *is* sourced here:
 | Setting | Recommendation | Strength | Evidence |
 |---|---|---|---|
 | Asymptomatic HHT | **Do NOT** routinely screen for hepatic LVMs | Strong | Low |
-| Symptomatic hepatic LVMs | Contrast **CT** or **MRI/MRCP** | Strong | Low |
+| Symptomatic hepatic LVMs | Contrast **CT** or **[[mri-mrcp\|MRI/MRCP]]** | Strong | Low |
 
 *([[acg-2020-hepatic-mesenteric-circulation]])*
 
@@ -84,7 +84,7 @@ flowchart TD
 
 ## See Also
 
-[[juvenile-polyposis-syndrome]], [[angioectasia]], [[small-bowel-bleeding]], [[portal-vein-thrombosis]], [[budd-chiari-syndrome]], [[mesenteric-artery-aneurysm]], [[liver-transplantation]], [[portal-hypertension]]
+[[juvenile-polyposis-syndrome]], [[angioectasia]], [[small-bowel-bleeding]], [[portal-vein-thrombosis]], [[budd-chiari-syndrome]], [[mesenteric-artery-aneurysm]], [[liver-transplantation]], [[portal-hypertension]], [[mri-mrcp]], [[primary-sclerosing-cholangitis]]
 
 ---
 

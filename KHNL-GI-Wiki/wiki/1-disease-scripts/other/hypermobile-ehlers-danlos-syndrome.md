@@ -3,7 +3,7 @@ title: "Hypermobile Ehlers-Danlos Syndrome (GI Manifestations)"
 category: disease-script
 tags: [hypermobile-ehlers-danlos, heds, hsd, dgbi, pots, mcas, dysautonomia, motility, gastroparesis, pelvic-floor, celiac-disease]
 created: 2026-06-27
-updated: 2026-08-12
+updated: 2026-08-13
 sources: [aga-2025-heds-gi]
 ---
 
@@ -37,7 +37,7 @@ Heritable connective tissue disorder; most common EDS subtype (80–90% of all E
 
 | Condition | Definition | GI clues |
 |---|---|---|
-| **POTS** | HR ↑ ≥30 bpm within 10 min upright (≥40 bpm if 12–19 yr), no orthostatic hypotension; orthostatic-intolerance symptoms ≥6 mo | Nausea, abdominal pain, vomiting, diarrhea, bloating, severe constipation; **nausea, pain, early satiety most predictive of abnormal GI motility** |
+| **POTS** | HR ↑ ≥30 bpm within 10 min upright (≥40 bpm if 12–19 yr), no orthostatic hypotension; orthostatic-intolerance symptoms ≥6 mo | Nausea, abdominal pain, vomiting, diarrhea, [[abdominal-bloating-and-distention\|bloating]], severe [[chronic-idiopathic-constipation\|constipation]]; **nausea, pain, early satiety most predictive of abnormal GI motility** |
 | **MCAS** | Episodic systemic mast-cell activation across ≥2 organ systems; tryptase rise of baseline +20% +2 ng/mL | Nausea, vomiting, heartburn, [[dysphagia]], abdominal pain, atypical chest pain, bowel dysfunction — overlap DGBI |
 
 - Associations (data limited): in 139 MCAS patients with refractory GI symptoms — 23.7% EDS, 25.2% POTS, 15.1% both; 37.5% of hEDS/HSD patients report POTS; >60% of hEDS/HSDs have ≥1 GI symptom.
@@ -74,7 +74,7 @@ Heritable connective tissue disorder; most common EDS subtype (80–90% of all E
 **Overarching (BPA 12, 16):** treat the most prominent GI symptoms and abnormal function-test results; follow general [[disorders-of-gut-brain-interaction|DGBI]]/motility management plus targeted POTS/MCAS treatment. **Integrated multidisciplinary care** (cardiology, neurology, rheumatology, dietitian, psychology). Largely expert opinion — few trials.
 
 **General GI symptom management:**
-- Nausea/vomiting: antiemetics (ondansetron, promethazine, prochlorperazine, aprepitant), prokinetics (metoclopramide, domperidone, erythromycin, [[prucalopride]]).
+- [[nausea-and-vomiting|Nausea/vomiting]]: antiemetics (ondansetron, promethazine, prochlorperazine, aprepitant), prokinetics (metoclopramide, domperidone, erythromycin, [[prucalopride]]).
 - Abdominal pain: acid suppression ([[proton-pump-inhibitors|PPI]], H2RA), antispasmodics (hyoscyamine, dicyclomine, peppermint oil), neuromodulators (TCA, SSRI, SNRI, pregabalin, gabapentin). **Avoid opioids** — do not use to treat abdominal pain; facilitate cessation if already prescribed.
 - Constipation: osmotic/stimulant laxatives, [[lubiprostone]], [[linaclotide]]-type secretagogues, pyridostigmine.
 - Brain-gut behavioral therapy / gut-directed hypnotherapy for stress-worsened, maladaptive-coping patients.
@@ -88,7 +88,7 @@ Heritable connective tissue disorder; most common EDS subtype (80–90% of all E
 
 ## See Also
 
-[[disorders-of-gut-brain-interaction]], [[gastroparesis]], [[irritable-bowel-syndrome]], [[celiac-disease]], [[anorectal-manometry]], [[defecation-disorders]], [[dysphagia]], [[proton-pump-inhibitors]], [[lubiprostone]], [[linaclotide]], [[prucalopride]]
+[[disorders-of-gut-brain-interaction]], [[gastroparesis]], [[irritable-bowel-syndrome]], [[celiac-disease]], [[anorectal-manometry]], [[defecation-disorders]], [[dysphagia]], [[nausea-and-vomiting]], [[abdominal-bloating-and-distention]], [[chronic-idiopathic-constipation]], [[proton-pump-inhibitors]], [[lubiprostone]], [[linaclotide]], [[prucalopride]]
 
 ---
 

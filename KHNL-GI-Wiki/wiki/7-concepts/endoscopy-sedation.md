@@ -40,6 +40,7 @@ Sedation is a drug-induced depression of consciousness on a continuum; patients 
 - History: snoring/stridor/**OSA**, drug allergies/interactions, prior adverse sedation reaction, last oral intake, tobacco/alcohol/substance use.
 - Focused exam: vitals, heart/lung auscultation, baseline consciousness, **airway/Mallampati class**; pregnancy test in women of childbearing age (some sedatives teratogenic).
 - Documented assessment + procedural time-out are required quality metrics (Joint Commission).
+- Laboratory work-up before the procedure is **selective, not routine** — see [[preprocedure-testing]].
 
 ### ASA Physical-Status Class
 - **I** normal/healthy · **II** mild systemic disease, no activity limit (controlled HTN/DM) · **III** moderate–severe systemic disease, no activity limit (stable angina, DM with sequelae) · **IV** severe systemic disease, constant threat to life (severe CHF, ESRD) · **V** moribund, death likely within 24 h · **E** emergency suffix.

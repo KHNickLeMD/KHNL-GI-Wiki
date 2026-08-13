@@ -3,7 +3,7 @@ title: "Endoscopic Mucosal Resection (Colorectal)"
 category: advanced-procedure
 tags: [emr, endoscopic-resection, polypectomy, cold-snare, underwater-emr, hot-avulsion, lifting-agents, colorectal, post-emr-surveillance]
 created: 2026-08-11
-updated: 2026-08-12
+updated: 2026-08-13
 sources: [usmstf-2020-endoscopic-removal, asge-2020-endoscopic-removal, aga-2025-lifting-agents, usmstf-2020-followup-colonoscopy]
 ---
 
@@ -40,7 +40,7 @@ Snare resection over a submucosal cushion (or under water), the first-line techn
 
 ## Post-Resection
 
-- Ablate EMR margins (APC or snare tip soft coagulation) after complete visual resection → reduces recurrence
+- Ablate EMR margins ([[argon-plasma-coagulation|APC]] or snare tip soft coagulation) after complete visual resection → reduces recurrence
 - Do NOT ablate visible residual tissue → increased recurrence
 - Inspect defect for perforation features; clip close if risk present
 - Right colon defects ≥20mm: prophylactic clip closure when feasible

@@ -7,7 +7,7 @@ updated: 2026-06-10
 sources: []
 ---
 
-> ⚠ **Historical / superseded source.** Captured for landmark reference. This 2014 US Multi-Society Task Force (USMSTF, published in *Am J Gastroenterol*) bowel-prep guidance is superseded by [[acg-2025-bowel-prep|ACG 2025: Bowel Prep Quality]] and [[usmstf-2025-bowel-prep|USMSTF 2025 Bowel Prep]]. Many of its foundational principles (split dosing, the ≥85% adequate-prep quality benchmark) remain standard and are additive; defer to the newer sources for current agent selection and thresholds.
+> ⚠ **Historical / superseded source.** Captured for landmark reference. This 2014 US Multi-Society Task Force (USMSTF, published in *Am J Gastroenterol*) bowel-prep guidance is superseded by [[usmstf-2025-bowel-prep|USMSTF 2025: Optimizing Bowel Preparation Quality for Colonoscopy]] (also cited as "ACG 2025 Bowel Prep" — same document). Many of its foundational principles (split dosing, the ≥85% adequate-prep quality benchmark) remain standard and are additive; defer to the newer sources for current agent selection and thresholds.
 
 ## Bibliographic Info
 - **Article:** [Johnson DA, Barkun AN, Cohen LB, et al. Optimizing Adequacy of Bowel Cleansing for Colonoscopy: Recommendations From the US Multi-Society Task Force on Colorectal Cancer. Am J Gastroenterol 2014;109:1528–1545.](https://doi.org/10.1038/ajg.2014.272)
@@ -50,7 +50,7 @@ All 23 recommendations, near-verbatim (strength + evidence quality as stated):
 23. Waking the patient entirely from sedation and continuing with further oral ingestion of cathartic with same-day or next-day colonoscopy has been associated with better outcomes than delayed colonoscopy. (Weak recommendation, low-quality evidence)
 
 ## Relevance to Wiki
-- Provides the foundational evidence base for bowel-prep content on [[colonoscopy]] and [[colonoscopy-surveillance]]: split-dose superiority, the 4–6 h/2 h timing rule, the ≥85% adequate-prep per-physician benchmark, and population-specific cautions (CKD, IBD, elderly). Added as a historical source; current agent-specific thresholds defer to [[acg-2025-bowel-prep]] / [[usmstf-2025-bowel-prep]].
+- Provides the foundational evidence base for bowel-prep content on [[colonoscopy]] and [[colonoscopy-surveillance]]: split-dose superiority, the 4–6 h/2 h timing rule, the ≥85% adequate-prep per-physician benchmark, and population-specific cautions (CKD, IBD, elderly). Added as a historical source; current agent-specific thresholds defer to [[usmstf-2025-bowel-prep]].
 
 ## Contradictions / Open Questions
 - No major contradiction with the 2025 guidance on the core principle of split dosing. Newer guidelines incorporate agents and data not available in 2014 (e.g. newer low-volume and sulfate-based preparations); use them for current product-level recommendations and thresholds.
