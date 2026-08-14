@@ -132,8 +132,10 @@ alongside the existing ingest rules:
 "CI never calls an LLM," so no card reached reviews without a human diff. Rule 1 breaks that. Fix,
 reusing the retirement mechanism: cron-drafted cards go in a `# Draft` section and export tagged
 `khnl::unreviewed` — importable and studiable, but `tag:khnl::unreviewed` shows what Nick hasn't
-vetted. Promoting a card = moving it out of `# Draft`. Live in `lint-cron.sh` (job 7, 05:00): a
-second `claude -p` pass after the lint drafts 5 pages/night at `--effort high`, then runs
+vetted. Promoting a card = moving it out of `# Draft`. Live in `lint-cron.sh` (job 7). **Updated
+2026-08-13:** the lint/ingest pass now runs **every 5h** (00/05/10/15/20), but the card pass stays
+**once a day** — it is guarded to the 05:00 tick — and drafts **3 pages/night**, down from 5, at
+`--effort high`, then runs
 `CARDS_DIR=/cards node /repo/website_files/scripts/build-anki.mjs`. Commits nothing — the `giwiki`
 container bind-mounts the Nextcloud cards dir at `/cards`.
 

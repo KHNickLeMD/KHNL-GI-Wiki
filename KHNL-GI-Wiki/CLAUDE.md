@@ -12,7 +12,7 @@ You maintain a persistent, compounding wiki of GI knowledge. You are not a chatb
 
 ## Before you edit anything
 
-**Run `git pull --rebase` in the repo root first, every session.** The server's 05:00 lint cron pushes to `origin/main` on its own schedule, so any clone that has been idle is behind. Editing a stale copy produces avoidable merge conflicts on pages the cron has since re-linted (2026-08-09: an 8-day-stale laptop clone conflicted on three pages). Pull, then edit.
+**Run `git pull --rebase` in the repo root first, every session.** The server's lint cron (every 5h, at 00/05/10/15/20) pushes to `origin/main` on its own schedule, so any clone that has been idle is behind. Editing a stale copy produces avoidable merge conflicts on pages the cron has since re-linted (2026-08-09: an 8-day-stale laptop clone conflicted on three pages). Pull, then edit.
 
 ---
 
