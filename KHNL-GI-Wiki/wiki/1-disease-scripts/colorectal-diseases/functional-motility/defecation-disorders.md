@@ -128,7 +128,7 @@ Severity based on symptom burden, laxative dependence, impact on QoL (PAC-QoL, P
 ---
 
 ## See Also
-[[chronic-idiopathic-constipation]], [[fecal-incontinence]], [[hemorrhoids]], [[anal-fissure]], [[rectal-prolapse]], [[anorectal-manometry]], [[biofeedback-therapy]], [[sacral-nerve-stimulation]]
+[[chronic-idiopathic-constipation]], [[fecal-incontinence]], [[proctalgia-syndromes]], [[irritable-bowel-syndrome]], [[hemorrhoids]], [[anal-fissure]], [[rectal-prolapse]], [[anorectal-manometry]], [[high-resolution-manometry]], [[biofeedback-therapy]], [[sacral-nerve-stimulation]]
 
 ---
 

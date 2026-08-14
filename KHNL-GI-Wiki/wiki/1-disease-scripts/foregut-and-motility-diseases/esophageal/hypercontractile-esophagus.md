@@ -51,7 +51,7 @@ Hypercontractile esophagus (jackhammer esophagus) is defined by **Chicago Classi
 
 ## See Also
 
-[[chicago-classification-v4]], [[high-resolution-manometry]], [[distal-esophageal-spasm]], [[ineffective-esophageal-motility]], [[achalasia]], [[flip-panometry]], [[hrm-antireflux-surgery]], [[antireflux-surgery]], [[poem]], [[dysphagia]], [[gerd]]
+[[chicago-classification-v4]], [[high-resolution-manometry]], [[distal-esophageal-spasm]], [[ineffective-esophageal-motility]], [[achalasia]], [[flip-panometry]], [[hrm-antireflux-surgery]], [[antireflux-surgery]], [[poem]], [[dysphagia]], [[gerd]], [[proton-pump-inhibitors]], [[esophagogastric-junction-outflow-obstruction]]
 
 ---
 

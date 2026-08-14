@@ -105,7 +105,7 @@ sources: [acg-2022-gastroparesis, aga-2025-gastroparesis, surjanhata-2025-consti
 - Alternative to SGE (GRADE Conditional, Low evidence)
 - Provides GE time, gastric contractile amplitude, and pan-GI transit (small bowel + colon)
 - Overall agreement with SGE ~75.7% (kappa 0.42); detects more delays in non-diabetics, fewer in diabetics compared to SGE
-- Advantage: identifies extragastric dysmotility (45.6% of suspected GP patients have delay beyond stomach; 22.8% small bowel, 31.5% colon)
+- Advantage: identifies extragastric dysmotility (45.6% of suspected GP patients have delay beyond stomach; 22.8% [[small-bowel-motility|small bowel]], 31.5% colon)
 - Disadvantage: capsule is >1.5 cm solid nondigestible object — different kinetics from solid food
 
 ### ¹³C-Spirulina Breath Test
@@ -288,7 +288,7 @@ sources: [acg-2022-gastroparesis, aga-2025-gastroparesis, surjanhata-2025-consti
 
 ## Clinical Pearls
 
-- **Treating coexisting slow colonic transit can improve upper-GI symptoms** [[surjanhata-2025-constipation-gastroparesis]]: in patients with GP-type symptoms + slow colonic transit, new/changed constipation therapy improved GCSI (P = 0.007) and constipation scores — driven by the delayed-emptying subgroup (↓ nausea/vomiting, ↓ early satiety). Patients with **normal** colonic transit showed no GCSI benefit. Supports whole-gut evaluation over gastric-emptying testing alone.
+- **Treating coexisting slow colonic transit can improve upper-GI symptoms** [[surjanhata-2025-constipation-gastroparesis]]: in patients with GP-type symptoms + slow colonic transit, new/changed [[chronic-idiopathic-constipation|constipation therapy]] improved GCSI (P = 0.007) and constipation scores — driven by the delayed-emptying subgroup (↓ nausea/vomiting, ↓ early satiety). Patients with **normal** colonic transit showed no GCSI benefit. Supports whole-gut evaluation over gastric-emptying testing alone.
 - **Consider repeat SGE if the diagnosis is uncertain** — ~40% of patients are reclassified between GP and functional dyspepsia on repeat GE testing.
 - **No FDA-approved therapy for GP beyond metoclopramide (≤12 weeks):** domperidone, erythromycin, 5-HT4 agonists, and antiemetics are all off-label or under expanded access — this is a significant unmet need.
 
@@ -296,7 +296,7 @@ sources: [acg-2022-gastroparesis, aga-2025-gastroparesis, surjanhata-2025-consti
 
 ## See Also
 
-[[disorders-of-gut-brain-interaction]], [[gerd]], [[dyspepsia]], [[rumination-syndrome]], [[cyclic-vomiting-syndrome]], [[cannabinoid-hyperemesis-syndrome]], [[flip-panometry]], [[g-poem]], [[poem]], [[prucalopride]], [[enteral-access]], [[upper-endoscopy]], [[nausea-and-vomiting]]
+[[disorders-of-gut-brain-interaction]], [[gerd]], [[dyspepsia]], [[rumination-syndrome]], [[cyclic-vomiting-syndrome]], [[cannabinoid-hyperemesis-syndrome]], [[chronic-idiopathic-constipation]], [[small-bowel-motility]], [[flip-panometry]], [[g-poem]], [[poem]], [[antireflux-surgery]], [[bariatric-surgery]], [[prucalopride]], [[enteral-access]], [[upper-endoscopy]], [[nausea-and-vomiting]]
 
 ---
 

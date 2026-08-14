@@ -3,7 +3,7 @@ title: "Proctalgia Syndromes"
 category: disease-script
 tags: [proctalgia, levator-ani, chronic-proctalgia, proctalgia-fugax, anorectal, pelvic-floor, colorectal]
 created: 2026-05-16
-updated: 2026-08-04
+updated: 2026-08-14
 sources: [acg-2021-anorectal-disorders]
 ---
 
@@ -34,7 +34,7 @@ sources: [acg-2021-anorectal-disorders]
 
 | Condition | Key Features |
 |-----------|-------------|
-| Solitary rectal ulcer syndrome | Endoscopic ulceration; straining history |
+| [[rectal-prolapse\|Solitary rectal ulcer syndrome]] | Endoscopic ulceration; straining history |
 | Coccydynia | Tailbone pain; tenderness over coccyx |
 | Chronic pelvic pain | Women; gynecological source; pelvic examination |
 | Prostatitis (men) | Perineal/prostatic tenderness; urinary symptoms |
@@ -60,9 +60,9 @@ Note: concurrent anal fissures, prolapsed [[hemorrhoids]], or other anorectal pa
 
 ### Levator Ani Syndrome
 
-**Biofeedback — Strong recommendation, Very Low evidence (ACG 2021):**
+**[[biofeedback-therapy|Biofeedback]] — Strong recommendation, Very Low evidence (ACG 2021):**
 
-- Cornerstone of treatment; single best-studied RCT showed [[biofeedback-therapy|biofeedback]] superior to electrogalvanic stimulation (EGS) and conservative management in levator syndrome with levator tenderness and abnormal ARM
+- Cornerstone of treatment; single best-studied RCT showed biofeedback superior to electrogalvanic stimulation (EGS) and conservative management in levator syndrome with levator tenderness and abnormal ARM
 - No independent replication in 10 years; guideline maintains Strong recommendation given absence of effective alternatives and no significant risks
 - 4–6 sessions; same protocol as for [[defecation-disorders]]
 
@@ -91,7 +91,7 @@ Note: concurrent anal fissures, prolapsed [[hemorrhoids]], or other anorectal pa
 ---
 
 ## See Also
-[[defecation-disorders]], [[fecal-incontinence]], [[anal-fissure]], [[hemorrhoids]], [[crohns-disease]], [[biofeedback-therapy]], [[anorectal-manometry]]
+[[defecation-disorders]], [[fecal-incontinence]], [[anal-fissure]], [[hemorrhoids]], [[rectal-prolapse]], [[crohns-disease]], [[biofeedback-therapy]], [[anorectal-manometry]], [[colonoscopy]]
 
 ---
 

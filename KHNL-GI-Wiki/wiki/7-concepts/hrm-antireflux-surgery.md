@@ -3,7 +3,7 @@ title: "HRM Before and After Antireflux Surgery (Padova Classification)"
 category: concept
 tags: [HRM, antireflux-surgery, fundoplication, GERD, esophageal-manometry, EGJ, Padova-classification, PFOO, pseudoachalasia]
 created: 2026-05-15
-updated: 2026-08-11
+updated: 2026-08-14
 sources: [padova-2025-hrm-antireflux]
 ---
 
@@ -29,7 +29,7 @@ The **Padova Consensus (2025)** — a 3-year, 29-expert international process us
 |---|---|
 | [[achalasia\|Achalasia]] (any type) | ARS contraindicated; treat achalasia first |
 | [[esophagogastric-junction-outflow-obstruction\|EGJOO]] | Must be addressed (e.g., pneumatic dilation, [[poem\|POEM]] evaluation) before ARS; 86% consensus |
-| [[hypercontractile-esophagus\|Hypercontractile esophagus (jackhammer)]] | Not an absolute contraindication **if** objective [[gerd\|GERD]] + partial PPI response; 81% consensus |
+| [[hypercontractile-esophagus\|Hypercontractile esophagus (jackhammer)]] | Not an absolute contraindication **if** objective [[gerd\|GERD]] + partial [[proton-pump-inhibitors\|PPI]] response; 81% consensus |
 | [[distal-esophageal-spasm\|DES]] with obstructive symptoms | Caution; consider non-surgical options first; 95% consensus |
 | DES without obstructive symptoms + objective GERD | May proceed to ARS; 81% consensus |
 | [[ineffective-esophageal-motility\|Ineffective esophageal motility (IEM)]] | Insufficient evidence for absolute contraindication; partial wrap preferred by many |
@@ -173,7 +173,7 @@ Normal basal + Normal IRP + Intact/normal peristalsis
 
 ## See Also
 
-[[high-resolution-manometry]], [[antireflux-surgery]], [[gerd]], [[achalasia]], [[chicago-classification-v4]], [[flip-panometry]], [[poem]], [[reflux-testing]], [[ambulatory-reflux-monitoring]], [[dysphagia]], [[hypercontractile-esophagus]], [[distal-esophageal-spasm]], [[ineffective-esophageal-motility]]
+[[high-resolution-manometry]], [[antireflux-surgery]], [[gerd]], [[achalasia]], [[chicago-classification-v4]], [[flip-panometry]], [[poem]], [[reflux-testing]], [[ambulatory-reflux-monitoring]], [[dysphagia]], [[hypercontractile-esophagus]], [[distal-esophageal-spasm]], [[ineffective-esophageal-motility]], [[proton-pump-inhibitors]]
 
 ---
 

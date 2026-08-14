@@ -481,7 +481,7 @@ Biliary complications are addressed both by AASLD-AST 2025 and by the dedicated 
 **[[colorectal-cancer|Colorectal cancer]]** (Rec. 37–39):
 
 - Especially elevated risk in PSC recipients (coexisting [[inflammatory-bowel-disease|IBD]] + field defect)
-- PSC + IBD recipients: annual surveillance colonoscopy beginning at LT (Rec. 37)
+- PSC + IBD recipients: annual [[colonoscopy-surveillance|surveillance colonoscopy]] beginning at LT (Rec. 37)
 - All other recipients: standard [[colorectal-cancer-screening|colonoscopy screening]] per age-based guidelines; begin at 50 or sooner based on LT-related risk (Rec. 38)
 
 **Cervical and gynecologic cancers** (Rec. 40–41):
@@ -804,7 +804,7 @@ Annual screening for HTN, obesity, DM, and hyperlipidemia for all LT recipients 
 
 ## See Also
 
-[[abnormal-liver-chemistries]], [[acute-liver-failure]], [[acute-on-chronic-liver-failure]], [[alcohol-associated-liver-disease]], [[portal-vein-thrombosis]], [[portal-hypertension]], [[chronic-hepatitis-b]], [[hepatitis-c]], [[direct-acting-antivirals]], [[hepatocellular-carcinoma]], [[hcc-surveillance]], [[nafld-masld]], [[primary-sclerosing-cholangitis]], [[primary-biliary-cholangitis]], [[autoimmune-hepatitis]], [[acute-hepatic-porphyria]], [[cholangiocarcinoma]], [[biliary-stricture]], [[ercp]], [[mri-mrcp]], [[liver-biopsy]], [[tacrolimus]], [[calcineurin-inhibitors]], [[post-transplant-lymphoproliferative-disorder]], [[operational-tolerance]], [[antibody-mediated-rejection-liver-transplant]], [[semaglutide]], [[bariatric-surgery]], [[obesity]], [[nutrition-in-liver-disease]], [[colorectal-cancer]], [[colorectal-cancer-screening]], [[colonoscopy]], [[antibiotic-prophylaxis-endoscopy]], [[inflammatory-bowel-disease]], [[gastroenteropancreatic-neuroendocrine-tumors]], [[hepatopulmonary-syndrome-portopulmonary-hypertension]], [[hepatic-encephalopathy]], [[ascites]], [[spontaneous-bacterial-peritonitis]], [[variceal-upper-gi-bleeding]], [[cirrhosis]], [[liver-stiffness-measurement]], [[tips]], [[rotavirus]]
+[[abnormal-liver-chemistries]], [[acute-liver-failure]], [[acute-on-chronic-liver-failure]], [[alcohol-associated-liver-disease]], [[portal-vein-thrombosis]], [[portal-hypertension]], [[chronic-hepatitis-b]], [[hepatitis-c]], [[direct-acting-antivirals]], [[hepatocellular-carcinoma]], [[hcc-surveillance]], [[nafld-masld]], [[primary-sclerosing-cholangitis]], [[primary-biliary-cholangitis]], [[autoimmune-hepatitis]], [[acute-hepatic-porphyria]], [[cholangiocarcinoma]], [[biliary-stricture]], [[ercp]], [[mri-mrcp]], [[liver-biopsy]], [[tacrolimus]], [[calcineurin-inhibitors]], [[post-transplant-lymphoproliferative-disorder]], [[operational-tolerance]], [[antibody-mediated-rejection-liver-transplant]], [[semaglutide]], [[bariatric-surgery]], [[obesity]], [[nutrition-in-liver-disease]], [[colorectal-cancer]], [[colorectal-cancer-screening]], [[colonoscopy]], [[antibiotic-prophylaxis-endoscopy]], [[inflammatory-bowel-disease]], [[gastroenteropancreatic-neuroendocrine-tumors]], [[hepatopulmonary-syndrome-portopulmonary-hypertension]], [[hepatic-encephalopathy]], [[ascites]], [[spontaneous-bacterial-peritonitis]], [[variceal-upper-gi-bleeding]], [[cirrhosis]], [[liver-stiffness-measurement]], [[tips]], [[rotavirus]], [[colonoscopy-surveillance]]
 
 ---
 

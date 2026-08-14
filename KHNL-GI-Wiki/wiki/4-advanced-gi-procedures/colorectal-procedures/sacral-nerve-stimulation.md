@@ -3,7 +3,7 @@ title: "Sacral Nerve Stimulation"
 category: advanced-procedure
 tags: [sacral-nerve-stimulation, sns, neuromodulation, fecal-incontinence, constipation, pelvic-floor, anorectal, implantable-device]
 created: 2026-06-01
-updated: 2026-07-17
+updated: 2026-08-14
 sources: [acg-2021-anorectal-disorders, aga-2026-refractory-constipation]
 ---
 
@@ -11,6 +11,8 @@ sources: [acg-2021-anorectal-disorders, aga-2026-refractory-constipation]
 
 ## Contents
 - [[#Indications]]
+  - [[#What has to fail first]]
+  - [[#How "moderate–severe" is judged]]
 - [[#Two-Stage Approach]]
 - [[#Outcomes]]
 - [[#Adverse Events]]
@@ -22,11 +24,26 @@ sources: [acg-2021-anorectal-disorders, aga-2026-refractory-constipation]
 
 | Indication | Recommendation | Strength / Evidence |
 |---|---|---|
-| **Moderate–severe [[fecal-incontinence\|fecal incontinence]] failing conservative measures** | Sacral nerve stimulation | **Strong / Low** ([[acg-2021-anorectal-disorders]]) |
+| **Moderate–severe [[fecal-incontinence\|fecal incontinence]]** that has **failed conservative measures, biofeedback, and other low-cost, low-risk techniques** | Sacral nerve stimulation | **Strong / Low** ([[acg-2021-anorectal-disorders]]) |
 | **Constipation** / [[defecation-disorders\|defecation disorders]] | **NOT recommended** — no benefit in RCTs | ([[acg-2021-anorectal-disorders]]) |
 
-- "Failing conservative measures" means after first-line therapy: antidiarrheal drugs ([[loperamide]], diphenoxylate + atropine, bile salt binders — Strong/Low) and [[biofeedback-therapy|biofeedback]] pelvic floor rehabilitation (Strong/Moderate).
-- Workup before advanced FI therapy: Bristol Stool Scale + symptom diary; DRE + [[anorectal-manometry|ARM]] + balloon expulsion test for moderate–severe FI; endoanal US or MRI if surgery is being considered ([[acg-2021-anorectal-disorders]]).
+### What has to fail first
+
+All three clauses of the recommendation are gates — SNS is not an alternative to any of them ([[acg-2021-anorectal-disorders]]):
+
+1. **Conservative measures** — three components: (i) educating the patient that diarrhea and constipation cause FI; (ii) drugs — antidiarrheals when FI is accompanied by diarrhea ([[loperamide]], diphenoxylate with atropine, bile salt binding agents, anticholinergics, clonidine — Strong/Low), fiber and/or laxatives for constipation; (iii) **daily pelvic floor exercises**. A bowel diary monitors progress.
+2. **[[biofeedback-therapy|Biofeedback]]** — pelvic floor rehabilitative techniques with visual or auditory feedback (Strong/Moderate).
+3. **Other low-cost, low-risk techniques** — anal plugs, vaginal balloons, injectable bulking agents (see the alternatives table below).
+
+### How "moderate–severe" is judged
+
+ACG gives **no single validated score or cutoff**; severity is gauged clinically and it drives the choice of therapy:
+
+- Ask about the **type, amount** (small / medium / large), and **frequency** of leakage, plus the presence of **urgency** — together these index severity and correlate strongly with quality-of-life impact and with whether the patient seeks care.
+- **Urge vs passive** incontinence localizes the defect: urge (aware of the desire, cannot reach the toilet) → reduced squeeze pressure/duration or reduced rectal capacity with hypersensitivity, i.e. external sphincter; passive (unaware) → low resting pressure, i.e. internal sphincter.
+- **The mild end is explicitly excluded:** most people with FI have it **less than once a month** or have only staining of underclothes — these patients "might benefit from less costly interventions," not SNS.
+- Comorbidity moderates the choice (e.g. dementia limits biofeedback).
+- Workup before advanced FI therapy: Bristol Stool Scale + symptom diary; DRE + [[anorectal-manometry|ARM]] + balloon expulsion test + rectal sensation for moderate–severe FI (i.e. those failing conservative measures); endoanal US or MRI if pressures are weak or surgery is being considered.
 - The negative recommendation in constipation is echoed in the refractory-constipation pathway, where surgical/device escalation follows confirmed slow transit rather than neuromodulation ([[aga-2026-refractory-constipation]]) — see [[chronic-idiopathic-constipation]].
 
 ---

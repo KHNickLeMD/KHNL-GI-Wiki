@@ -31,9 +31,11 @@ sources: [acg-2021-anorectal-disorders, asge-2010-anorectal-disorders]
 
 ### Severity Assessment
 
-The Cleveland Clinic (Wexner) Fecal Incontinence Score or Fecal Incontinence Severity Index (FISI) quantifies frequency and type of leakage. Severity predicts need for specialist consultation and drives treatment escalation.
+Severity is graded from **symptom burden** (type, frequency, and amount of leakage; urgency), **impact on quality of life**, and **response to conservative management** — together with patient age, probable etiology, and test availability these determine which diagnostic tests are done and when to escalate ([[acg-2021-anorectal-disorders]]).
 
 **Factors predicting worse outcomes:** older age, diarrhea-predominant bowel habits, rectal urgency, more severe FI, multiple comorbidities.
+
+> **Gap:** named FI severity instruments (Cleveland Clinic/Wexner score, Fecal Incontinence Severity Index) are **not defined in any ingested source** — their items and point values are therefore deliberately absent. Ingesting the original score papers would close this.
 
 ---
 
@@ -138,7 +140,7 @@ The Cleveland Clinic (Wexner) Fecal Incontinence Score or Fecal Incontinence Sev
 ---
 
 ## See Also
-[[defecation-disorders]], [[chronic-idiopathic-constipation]], [[chronic-diarrhea]], [[hemorrhoids]], [[anal-fissure]], [[rectal-prolapse]], [[sacral-nerve-stimulation]], [[biofeedback-therapy]], [[anorectal-manometry]], [[loperamide]], [[ostomy-management]]
+[[defecation-disorders]], [[proctalgia-syndromes]], [[chronic-idiopathic-constipation]], [[chronic-diarrhea]], [[hemorrhoids]], [[anal-fissure]], [[rectal-prolapse]], [[radiation-proctopathy]], [[sacral-nerve-stimulation]], [[biofeedback-therapy]], [[anorectal-manometry]], [[loperamide]], [[bile-acid-diarrhea]], [[ostomy-management]]
 
 ---
 

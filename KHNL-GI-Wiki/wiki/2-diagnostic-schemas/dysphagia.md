@@ -4,7 +4,7 @@ category: diagnostic-schema
 tags: [dysphagia, esophageal, oropharyngeal, motility, achalasia, eosinophilic-esophagitis, odynophagia, globus]
 created: 2026-06-04
 updated: 2026-08-14
-sources: []
+sources: [acg-2020-esophageal-physiologic-testing, chicago-v4-2021-esophageal-dysmotility, acg-2025-egd-quality, aga-2024-esophageal-immunity-infection, acg-2020-achalasia]
 ---
 
 ## Definition / Scope
@@ -101,7 +101,7 @@ flowchart TD
 ## Key Tests
 
 - **[[upper-endoscopy|EGD]]** — first-line for esophageal dysphagia; direct visualization, biopsy (mucosal disease, EoE, malignancy), and therapeutic dilation of strictures/rings.
-- **Esophageal biopsies for EoE** — ≥6 biopsies from ≥2 levels; required even with normal-appearing mucosa.
+- **Esophageal biopsies for EoE** — **≥6 biopsies from ≥2 levels (proximal/mid *and* distal)** for dysphagia without an endoscopic etiology; required even with normal-appearing mucosa. This is a formal EGD quality indicator with a **>90% performance target** ([[acg-2025-egd-quality]]).
 - **Modified barium swallow / videofluoroscopy** — test of choice for **oropharyngeal** dysphagia; assesses transfer mechanics and aspiration.
 - **Barium esophagram / timed barium esophagram** — structural and functional overview; sensitive for rings, webs, subtle strictures, extrinsic compression; timed barium quantifies achalasia emptying.
 - **[[high-resolution-manometry|High-resolution manometry]]** — gold standard for esophageal motility disorders; interpreted by [[chicago-classification-v4|Chicago Classification v4.0]].
@@ -128,3 +128,13 @@ Prompt expedited [[upper-endoscopy|EGD]] (and raise concern for malignancy):
 ## See Also
 
 [[eosinophilic-esophagitis]], [[infectious-esophagitis]], [[lymphocytic-esophagitis]], [[esophageal-dysfunction-systemic-disease]], [[achalasia]], [[gerd]], [[esophageal-cancer]], [[barretts-esophagus]], [[distal-esophageal-spasm]], [[hypercontractile-esophagus]], [[ineffective-esophageal-motility]], [[esophagogastric-junction-outflow-obstruction]], [[high-resolution-manometry]], [[chicago-classification-v4]], [[flip-panometry]], [[reflux-testing]], [[ambulatory-reflux-monitoring]], [[upper-endoscopy]], [[laryngopharyngeal-symptoms]], [[disorders-of-gut-brain-interaction]], [[iron-deficiency-anemia]]
+
+---
+
+## Sources
+
+1. [[acg-2020-esophageal-physiologic-testing|ACG 2020: Clinical Use of Esophageal Physiologic Testing]]
+2. [[chicago-v4-2021-esophageal-dysmotility|Chicago Classification v4.0: Esophageal Motility Disorders]]
+3. [[acg-2025-egd-quality|ACG/ASGE 2025: Quality Indicators for Upper GI Endoscopy (EGD)]]
+4. [[aga-2024-esophageal-immunity-infection|AGA Clinical Practice Update on Esophageal Dysfunction Due to Disordered Immunity and Infection: Expert Review (2024)]]
+5. [[acg-2020-achalasia|ACG 2020: Diagnosis and Management of Achalasia]]

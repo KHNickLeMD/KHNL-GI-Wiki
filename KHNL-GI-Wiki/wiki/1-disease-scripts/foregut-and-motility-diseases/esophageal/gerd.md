@@ -3,7 +3,7 @@ title: "Gastroesophageal Reflux Disease"
 category: disease-script
 tags: [gerd, reflux, esophageal, foregut, motility]
 created: 2026-05-15
-updated: 2026-08-13
+updated: 2026-08-14
 sources: [asge-2024-gerd, acg-2021-gerd, sages-2021-gerd-surgery, lyon-2024-gerd-diagnosis, aga-2024-pcab, aga-2023-extraesophageal-gerd]
 ---
 
@@ -23,7 +23,7 @@ sources: [asge-2024-gerd, acg-2021-gerd, sages-2021-gerd-surgery, lyon-2024-gerd
 
 - [[dysphagia|Dysphagia]], odynophagia
 - Weight loss
-- GI bleeding (hematemesis, melena, [[iron-deficiency-anemia|iron deficiency anemia]])
+- [[upper-gi-bleeding|GI bleeding]] (hematemesis, melena, [[iron-deficiency-anemia|iron deficiency anemia]])
 - Persistent vomiting
 
 **Endoscopy is suggested** (conditional, low evidence) for:
@@ -177,78 +177,34 @@ Recommend for all patients with GERD symptoms:
 
 ### Step 3: Endoscopic Anti-Reflux Therapies
 
-Patient selection requires:
+*Full procedure comparison — TIF 2.0, cTIF, Stretta, and the investigational techniques, with their efficacy, safety, and cost data — lives on [[antireflux-surgery]]. Only the eligibility gate is stated here.*
 
-1. Confirmed (objectively documented) GERD
-2. Complete endoscopic assessment of GEJ (hiatal hernia size, Hill grade)
-3. Multidisciplinary review (especially for cTIF)
+**The gate — all three required before any endoscopic antireflux therapy:**
 
-#### TIF 2.0 (Transoral Incisionless Fundoplication) — Conditional, Low Evidence
+1. **Confirmed (objectively documented) GERD** — not a symptom diagnosis
+2. **Complete endoscopic assessment of the GEJ** — hiatal hernia size and Hill grade (criteria on [[reflux-testing]])
+3. **Multidisciplinary review** (especially for cTIF)
 
-**Indications** — confirmed GERD with hiatal hernia ≤2 cm and Hill grade I or II, plus any of:
+**Plus mandatory [[high-resolution-manometry|HRM]] before any antireflux procedure** to exclude a major motility disorder — ~3% of patients referred with GERD-like symptoms have [[achalasia|achalasia-spectrum disease]].
 
-- Chronic GERD ≥6 months
-- Long-term PPI use ≥6 months
-- Refractory GERD (persistent symptoms on double-dose PPI ≥8 weeks with documented pathologic reflux)
-- Regurgitation-predominant GERD
-- Patient preference to avoid long-term PPI
+**The anatomy decides the procedure** ([[asge-2024-gerd]]) — hernia size + Hill grade is the operative decision point:
 
-**Efficacy:**
+| Hiatal hernia | Hill grade | Option |
+|---|---|---|
+| **≤2 cm** | **I or II** | TIF 2.0 (Conditional / Low) — Stretta only if TIF and surgical fundoplication are unavailable/infeasible |
+| **>2 cm** | **III or IV** | cTIF after multidisciplinary review (Conditional / Very Low), or surgical fundoplication |
 
-- PPI discontinuation: 77.6% vs 6.3% (RCT, RR 12.7 at 6 months)
-- Symptom resolution: 68.2% vs 32.4% (4 RCTs, RR 2.12)
-- Durable symptom resolution at 5 years: 86.4% (1 RCT)
-- Acid exposure time: lower vs sham; not lower vs PPI
-- 28.6% still using PPI at ~19 months post-TIF in cohort data; ~34% completely off PPI at 8–10 years
-
-**Safety:**
-
-- Overall adverse events higher than PPI/sham (37.8% vs 14.3%), but serious AEs not statistically different (8% vs 1.9%)
-- Perforation 0.9%, bleeding 0.6%, pneumothorax 0.5%; post-TIF dysphagia 3.6%
-- Cost: ~$13,979; cost-effective vs PPI ($3,047 incremental cost/0.29 QALY)
-
-#### cTIF (Combined Hiatal Hernia Repair + TIF 2.0) — Conditional, Very Low Evidence
-
-**Indication:** confirmed GERD with hiatal hernia >2 cm and Hill grade III or IV
-
-- Requires multidisciplinary review; surgical hernia repair performed first, then TIF endoscopically
-- PPI use: 94.6% at baseline → 37.5% at follow-up (~9 months)
-- GERD-HRQL improvement: MD 21.87
-- Serious adverse events 0.56%; dysphagia 5.6%
-- No RCTs yet (NCT04795934 ongoing); all evidence from cohort studies
-- May serve as alternative to surgical anti-reflux procedures for selected patients
-
-#### Stretta (Radiofrequency Energy to LES) — Best Practice Advice Only
-
-**When to consider:** confirmed GERD with hiatal hernia <2 cm and Hill grade I or II, when TIF and surgical fundoplication are not available or feasible
-
-- RCT evidence: no statistically significant benefit over sham/PPI for PPI discontinuation, AET reduction, or symptom resolution
-- Cohort data show 47% PPI discontinuation at 25 months vs 97% at baseline
-- High AE rate in RCTs (42% vs 11.1%), though serious AEs low (0.3% in large cohort)
-- Reimbursement challenges; limited adoption; considered second-line when preferred alternatives unavailable
-
-#### Novel Endoscopic Therapies (Investigational Only)
-
-Not recommended outside clinical trials. Under evaluation:
-
-- Antireflux mucosectomy (ARMS): 80.1% clinical response, 11.4% dysphagia/stricture; RCT underway
-- Antireflux mucosal ablation (ARMA): 81% short-term success; RCT underway
-- GERDx (EFTP): promising early RCT data; 62.8% off PPI at 23 months vs 11.4%
-- MUSE: high serious AE rate (3.5–13.9%) — not recommended over TIF 2.0
+**TIF 2.0 also requires ≥1 of:** chronic GERD ≥6 months; long-term [[proton-pump-inhibitors|PPI]] use ≥6 months; refractory GERD (persistent symptoms on double-dose PPI ≥8 weeks with documented pathologic reflux); regurgitation-predominant GERD; or patient preference to avoid long-term PPI.
 
 ### Step 4: Surgical Options
 
-**Indications for [[antireflux-surgery|antireflux surgery]] (Strong/Moderate, ACG 2021):** LA grade C/D erosive esophagitis, large hiatal hernia, troublesome regurgitation/symptoms. HRM before any anti-reflux procedure to exclude major motility disorder.
+**Indications for [[antireflux-surgery|antireflux surgery]] (Strong/Moderate, [[acg-2021-gerd|ACG 2021]]):** LA grade C/D erosive esophagitis, large hiatal hernia, or troublesome regurgitation/symptoms.
 
-**Surgical approaches (SAGES 2021 — all conditional, very low–low evidence):**
+- **[[antireflux-surgery|Magnetic sphincter augmentation (MSA/LINX)]]** — alternative to fundoplication for **regurgitation-predominant GERD** (Strong/Moderate, ACG 2021); caution with [[ineffective-esophageal-motility|dysmotility]].
+- **RYGB** — for patients with [[obesity|obesity]] and GERD (Conditional/Low, ACG 2021).
+- **Stretta is NOT recommended** by ACG 2021 (inconsistent, variable evidence); ASGE 2024 likewise does not recommend it for most patients.
 
-- **Surgery > continued medical management** for adults with confirmed chronic/refractory GERD (Conditional/Very Low): 79.2% vs 62.6% long-term symptom control; 72% of medical patients still on PPI at long-term follow-up vs 25% surgical
-- **Robotic vs. laparoscopic fundoplication:** either acceptable; shared decision-making; trivial efficacy/safety differences; robotic may favor long-term PPI reduction; laparoscopic may favor short-term symptom control and lower reoperation risk
-- **Complete vs. partial fundoplication:** either acceptable based on patient values; complete = better reflux control; partial = less long-term dysphagia (7.4% less at >5 years); no difference in reoperation rates
-- **Division vs. preservation of short gastric vessels:** either acceptable; division may improve long-term symptom control (13.2% greater at 10y, single RCT) but associated with 21.8% more gas-bloat symptoms at 10–20y
-- **Magnetic sphincter augmentation (MSA/LINX):** alternative to fundoplication for regurgitation-predominant GERD (Strong/Moderate, ACG 2021); use caution in patients with dysmotility
-- **RYGB:** for obese patients with GERD (Conditional/Low, ACG 2021)
-- **Stretta:** NOT recommended by ACG 2021 (inconsistent, variable evidence); ASGE 2024 similarly does not recommend for most patients
+*The surgery-vs-medical-management data and every technique trade-off (robotic vs laparoscopic, complete vs partial wrap, short-gastric division) live on [[antireflux-surgery]] — not duplicated here.*
 
 ### Extraesophageal GERD Manifestations
 
@@ -284,7 +240,7 @@ Not recommended outside clinical trials. Under evaluation:
 
 ## See Also
 
-[[dysphagia]], [[barretts-esophagus]], [[esophageal-adenocarcinoma]], [[eosinophilic-esophagitis]], [[achalasia]], [[peptic-ulcer-disease]], [[gastroparesis]], [[helicobacter-pylori-infection]], [[extraesophageal-reflux]], [[laryngopharyngeal-symptoms]], [[ambulatory-reflux-monitoring]], [[reflux-testing]], [[high-resolution-manometry]], [[hrm-antireflux-surgery]], [[flip-panometry]], [[antireflux-surgery]], [[poem]], [[proton-pump-inhibitors]], [[potassium-competitive-acid-blockers]], [[vonoprazan]], [[upper-endoscopy]], [[bariatric-surgery]], [[obesity]]
+[[dysphagia]], [[dyspepsia]], [[barretts-esophagus]], [[esophageal-adenocarcinoma]], [[eosinophilic-esophagitis]], [[achalasia]], [[ineffective-esophageal-motility]], [[chicago-classification-v4]], [[peptic-ulcer-disease]], [[gastroparesis]], [[helicobacter-pylori-infection]], [[upper-gi-bleeding]], [[extraesophageal-reflux]], [[laryngopharyngeal-symptoms]], [[ambulatory-reflux-monitoring]], [[reflux-testing]], [[high-resolution-manometry]], [[hrm-antireflux-surgery]], [[flip-panometry]], [[antireflux-surgery]], [[poem]], [[proton-pump-inhibitors]], [[potassium-competitive-acid-blockers]], [[vonoprazan]], [[upper-endoscopy]], [[bariatric-surgery]], [[obesity]], [[iron-deficiency-anemia]]
 
 ---
 

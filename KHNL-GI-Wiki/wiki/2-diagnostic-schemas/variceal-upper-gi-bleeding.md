@@ -119,14 +119,14 @@ Standard practice recommends prophylactic antibiotics to prevent bacterial infec
 - Active spurting at endoscopy with failed EVL → surgical/IR consult for rescue TIPS or shunt
 - Child-Pugh C (score 10–13) or MELD >19 → early TIPS within 72 hours of presentation
 - Fundal/cardiofundal gastric varices (GOV2, IGV1) → do not band; require glue or BRTO/TIPS
-- [[hepatic-encephalopathy|Encephalopathy]] → cautious sedation for endoscopy; lactulose/[[rifaximin]]; avoid over-transfusion
+- [[hepatic-encephalopathy|Encephalopathy]] → cautious [[endoscopy-sedation|sedation for endoscopy]]; lactulose/[[rifaximin]]; avoid over-transfusion
 - Rebleed within 5 days → high mortality; escalate to TIPS
 
 ---
 
 ## See Also
 
-[[portal-hypertension]], [[cirrhosis]], [[porto-sinusoidal-vascular-disorder]], [[tips]], [[upper-gi-bleeding]], [[acute-lower-gi-bleeding]], [[ascites]], [[spontaneous-bacterial-peritonitis]], [[hepatic-encephalopathy]], [[peptic-ulcer-disease]], [[helicobacter-pylori-infection]], [[liver-transplantation]], [[antibiotic-prophylaxis-cirrhosis]], [[somatostatin-analogs]], [[nutrition-in-liver-disease]], [[cirrhosis-hemostasis]], [[rifaximin]], [[upper-endoscopy]], [[hepatic-venous-pressure-gradient]], [[acute-on-chronic-liver-failure]], [[portal-vein-thrombosis]]
+[[portal-hypertension]], [[cirrhosis]], [[porto-sinusoidal-vascular-disorder]], [[tips]], [[upper-gi-bleeding]], [[acute-lower-gi-bleeding]], [[ascites]], [[spontaneous-bacterial-peritonitis]], [[hepatic-encephalopathy]], [[peptic-ulcer-disease]], [[helicobacter-pylori-infection]], [[liver-transplantation]], [[antibiotic-prophylaxis-cirrhosis]], [[somatostatin-analogs]], [[nutrition-in-liver-disease]], [[cirrhosis-hemostasis]], [[rifaximin]], [[upper-endoscopy]], [[hepatic-venous-pressure-gradient]], [[acute-on-chronic-liver-failure]], [[portal-vein-thrombosis]], [[endoscopy-sedation]]
 
 ---
 

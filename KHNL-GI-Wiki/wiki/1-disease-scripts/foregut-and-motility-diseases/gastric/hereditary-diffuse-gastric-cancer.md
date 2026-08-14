@@ -45,11 +45,13 @@ Cancer risk profile [[acg-2015-hereditary-gi-cancer]]:
 
 ## Differential Diagnosis
 
+*Workup: see [[dyspepsia]].*
+
 - **Sporadic diffuse gastric cancer** — no CDH1 mutation; accounts for ~99% of diffuse gastric cancer cases
 - **Hereditary intestinal gastric cancer** — component tumor in [[lynch-syndrome]] and [[familial-adenomatous-polyposis]]
 - **[[peutz-jeghers-syndrome]]** — 29% gastric cancer risk; intestinal-type histology; STK11 mutations
 - **[[gastric-premalignant-conditions]]** — Correa cascade leading to intestinal-type GC; [[helicobacter-pylori-infection|H. pylori]] driven; not CDH1
-- Familial clustering without identified mutation (most FPC families)
+- **Familial clustering without an identified mutation** — most families meeting the HDGC clinical criteria have **no** detectable CDH1 mutation (mutation yield only 10.5–47%) [[acg-2015-hereditary-gi-cancer]]
 
 ---
 
@@ -100,7 +102,7 @@ Key data:
 
 ## See Also
 
-[[gastric-premalignant-conditions]], [[gastric-intestinal-metaplasia]], [[gastric-adenocarcinoma]], [[helicobacter-pylori-infection]], [[lynch-syndrome]], [[familial-adenomatous-polyposis]], [[peutz-jeghers-syndrome]], [[brca-pathogenic-variants]], [[colorectal-cancer]], [[upper-endoscopy]], [[colonoscopy]]
+[[gastric-premalignant-conditions]], [[gastric-intestinal-metaplasia]], [[gastric-adenocarcinoma]], [[gastric-cancer-screening]], [[helicobacter-pylori-infection]], [[lynch-syndrome]], [[familial-adenomatous-polyposis]], [[peutz-jeghers-syndrome]], [[brca-pathogenic-variants]], [[colorectal-cancer]], [[dyspepsia]], [[upper-endoscopy]], [[colonoscopy]]
 
 ---
 

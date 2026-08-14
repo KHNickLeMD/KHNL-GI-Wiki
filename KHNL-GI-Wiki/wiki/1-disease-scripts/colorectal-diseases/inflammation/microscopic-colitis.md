@@ -3,11 +3,11 @@ title: "Microscopic Colitis"
 category: disease-script
 tags: [colon, chronic-diarrhea, collagenous-colitis, lymphocytic-colitis, watery-diarrhea]
 created: 2026-06-04
-updated: 2026-07-17
-sources: [asge-2010-diarrhea, acg-2016-acute-diarrhea, acg-2022-celiac]
+updated: 2026-08-14
+sources: [asge-2010-diarrhea, acg-2016-acute-diarrhea, acg-2020-ibs, acg-2022-celiac]
 ---
 
-> **Stub — to be expanded. No dedicated microscopic-colitis guideline is ingested.** The ingested sources cover only **how the diagnosis is made endoscopically**. [[asge-2010-diarrhea]] explicitly **predates current microscopic-colitis therapy guidance**, so **no therapy — including first-line budesonide, dosing, or drug/smoking associations — is stated here**, and the defining histologic thresholds for the two subtypes are likewise unsourced. An ACG/AGA microscopic-colitis guideline would be needed to close these.
+> **Partial page — no dedicated microscopic-colitis guideline is ingested.** The ingested sources cover **who to scope, how the diagnosis is made endoscopically, and where it sits in the differential**. They do **not** cover therapy — [[asge-2010-diarrhea]] explicitly predates current microscopic-colitis therapy guidance, so **no therapy (including first-line budesonide, dosing, or drug/smoking associations) is stated here**, and the defining histologic thresholds for the two subtypes are likewise unsourced. An ACG/AGA microscopic-colitis guideline would be needed to close these.
 
 ## Assessment
 
@@ -21,13 +21,25 @@ sources: [asge-2010-diarrhea, acg-2016-acute-diarrhea, acg-2022-celiac]
   - **Left-sided-only sampling (e.g. flexible sigmoidoscopy alone) can miss the diagnosis.** Sigmoidoscopy is an alternative option but may miss right-sided organic disease. [[asge-2010-diarrhea]]
 - Diagnostic yield of [[colonoscopy|colonoscopy]] in chronic diarrhea is **7–32%**; **IBD and microscopic colitis are the most common findings.** [[asge-2010-diarrhea]], [[acg-2016-acute-diarrhea]]
 
+### Who to Scope — Deciding When to Look for It
+
+The common indication "colonoscopy to rule out microscopic colitis" in suspected [[irritable-bowel-syndrome|IBS-D]] is **not** justified across the board; the guideline names the risk factors that do justify it. [[acg-2020-ibs]]
+
+| | Criteria |
+|---|---|
+| **Higher risk of microscopic colitis → colonoscopy supported** | **Age >60**, **female sex**, and **more intense diarrhea** (all three named together) |
+| **Routine colonoscopy NOT justified** | IBS symptoms **<45 years** with **no alarm features** *(conditional recommendation; low quality of evidence)* |
+| **≥45 years** | A **recent negative colonoscopy** (for CRC screening or other indication) should mitigate the need for repeat colonoscopy for IBS symptoms **in the absence of new alarm features** |
+
+- **Symptom criteria cannot exclude it:** **32.5% of patients with microscopic colitis meet Rome criteria for IBS-D**, and others meet Rome criteria for functional diarrhea. A positive Rome-based IBS diagnosis therefore does not rule microscopic colitis out. [[acg-2020-ibs]]
+
 ## Differential Diagnosis
 
 *Workup: see [[chronic-diarrhea]].*
 
 - [[inflammatory-bowel-disease|IBD]] — the other most common colonoscopic finding in chronic diarrhea ([[ulcerative-colitis]], [[crohns-disease]]). [[asge-2010-diarrhea]]
 - [[celiac-disease|Celiac disease]] — and note the reverse: **microscopic colitis is part of the systematic workup for nonresponsive celiac disease** (persistent symptoms despite 6–12 months of a gluten-free diet). [[acg-2022-celiac]]
-- [[irritable-bowel-syndrome|IBS]] — normal mucosa in both; only biopsy separates them.
+- [[irritable-bowel-syndrome|IBS]] — normal mucosa in both; only biopsy separates them. **Rome criteria overlap heavily** (32.5% of microscopic colitis meets Rome IBS-D criteria), so the two cannot be separated symptomatically. [[acg-2020-ibs]]
 - [[small-intestinal-bacterial-overgrowth|SIBO]], [[exocrine-pancreatic-insufficiency|pancreatic insufficiency]], lactose/fructose intolerance — co-listed in the nonresponsive-celiac differential. [[acg-2022-celiac]]
 - Eosinophilic gastroenteritis, Whipple's disease. [[acg-2016-acute-diarrhea]]
 - **Prep- and drug-induced mimics:** sodium phosphate preps can cause mucosal changes mimicking IBD (usually distinguishable on histology); NSAIDs can cause terminal-ileal changes mimicking Crohn's. [[asge-2010-diarrhea]]
@@ -40,6 +52,7 @@ sources: [asge-2010-diarrhea, acg-2016-acute-diarrhea, acg-2022-celiac]
 | **Terminal ileum intubation** | Recommended during chronic-diarrhea colonoscopy *(Rec 3, moderate)*; routine biopsy of a normal-appearing TI is low yield (0–4.2%) [[asge-2010-diarrhea]] |
 | **Flexible sigmoidoscopy alone** | Alternative, but **may miss right-sided disease** [[asge-2010-diarrhea]] |
 | **Stool / laboratory testing** | First-line before endoscopy in chronic diarrhea [[asge-2010-diarrhea]] |
+| **Rome symptom criteria** | **Cannot exclude the diagnosis** — 32.5% of microscopic colitis meets Rome IBS-D criteria [[acg-2020-ibs]] |
 
 ## Therapeutics
 
@@ -55,4 +68,5 @@ sources: [asge-2010-diarrhea, acg-2016-acute-diarrhea, acg-2022-celiac]
 
 1. [[asge-2010-diarrhea|ASGE Guideline: The Role of Endoscopy in the Management of Patients With Diarrhea (2010)]]
 2. [[acg-2016-acute-diarrhea|ACG 2016: Diagnosis, Treatment, and Prevention of Acute Diarrheal Infections in Adults]]
-3. [[acg-2022-celiac|ACG 2022: Diagnosis and Management of Celiac Disease]]
+3. [[acg-2020-ibs|ACG 2020 Clinical Guideline: Management of Irritable Bowel Syndrome]]
+4. [[acg-2022-celiac|ACG 2022: Diagnosis and Management of Celiac Disease]]

@@ -3,7 +3,7 @@ title: "Focal Nodular Hyperplasia"
 category: disease-script
 tags: [fnh, liver, hpb, focal-liver-lesion, benign-liver, gadoxetate, mri]
 created: 2026-05-07
-updated: 2026-07-17
+updated: 2026-08-14
 sources: [acg-2024-focal-liver-lesions]
 ---
 
@@ -19,7 +19,7 @@ sources: [acg-2024-focal-liver-lesions]
 
 **Epidemiology:**
 
-- Prevalence: ~0.3% in autopsy studies; predominantly women 20–50 years
+- Prevalence: **0.3%–3%** on autopsy series; predominantly women 20–50 years
 - Often found incidentally on imaging; not driven by OCP use (unlike HCA)
 - Can occur in any age group; does not change significantly with OCP discontinuation
 
@@ -77,7 +77,9 @@ Key concern is distinguishing FNH from HCA (very different management) and from 
 - Homogeneous arterial hyperenhancement; may see central scar (hypodense)
 - Less reliable than MRI for definitive characterization; central scar may not be visible on CT in small lesions
 
-**Biopsy:** rarely required; reserved for atypical imaging findings where management would change; histology shows large arteries in fibrous stroma, bile ductule proliferation, inflammatory cells, no hepatocyte atypia
+**[[liver-biopsy|Biopsy]]:** rarely required (KC 19); reserved for atypical imaging findings where management would change; histology shows large arteries in fibrous stroma, bile ductule proliferation, inflammatory cells, no hepatocyte atypia
+
+**Diagnostic pitfall:** atypical inflammatory and beta-catenin [[hepatocellular-adenoma|HCA]] can express OATP1B1/B3 and retain gadoxetic acid, producing **hepatobiliary-phase hyperintensity that mimics FNH** ([[acg-2024-focal-liver-lesions]]). Management of these indeterminate lesions is below.
 
 ---
 
@@ -85,35 +87,39 @@ Key concern is distinguishing FNH from HCA (very different management) and from 
 
 ### Once Definitively Characterized as FNH
 
-**No follow-up required** [[acg-2024-focal-liver-lesions]]:
+**No follow-up required** (Rec, Strong / Moderate; KC 20) [[acg-2024-focal-liver-lesions]]:
 
 - FNH has no malignant potential
 - No bleeding risk
 - Does not change in size in the vast majority of patients
+- Biopsy is **not routinely needed** once multiphase MRI with hepatobiliary-specific contrast confirms the diagnosis (KC 19)
 
-**OCP use:**
+**OCP use (Rec 10, Conditional / Very low):**
 
-- OCP use does not increase FNH risk
-- OCP discontinuation does not cause FNH regression (unlike HCA)
-- Inform patient that OCP continuation is safe with confirmed FNH
+- **Do not routinely discontinue oral contraceptives** in a patient diagnosed with FNH
+- OCP use does not increase FNH risk; discontinuation does not cause FNH regression (unlike [[hepatocellular-adenoma|HCA]])
 
-**Surgical resection:**
+**Sex and pregnancy:** men with FNH need **no different** evaluation, monitoring, or treatment than women (KC 23); FNH does **not require monitoring during pregnancy** (no evidence of change in FNH during pregnancy).
 
-- Indicated only for symptomatic FNH (persistent pain, increasing size causing symptoms)
-- Not indicated for asymptomatic FNH regardless of size
+**Surgical resection** (Rec, Conditional / Low):
+
+- Indicated **only for symptomatic** FNH — not for asymptomatic FNH regardless of size
+- **Growth alone is not an indication**: once the diagnosis is confirmed, resection is not required even if the lesion grows (KC 21)
+- If resection is considered for symptoms, counsel the patient that **symptoms may not improve** after surgery, since FNH rarely causes symptoms (KC 21)
+- Symptomatic FNH where surgery is not an option (comorbidities, anatomy) → **transarterial embolization ± bleomycin** may be considered to decrease size (KC 22)
 
 ### If Imaging is Indeterminate (Cannot Definitively Distinguish FNH from HCA)
 
 - Repeat MRI with gadoxetate at a center with hepatic MRI expertise
 - Consider CEUS if MRI results remain indeterminate
 - [[liver-biopsy|Liver biopsy]] with immunostaining (LFABP, CRP/SAA, beta-catenin/glutamine synthetase) may be needed to subtype
-- Manage as HCA until definitive characterization achieved (more conservative approach)
+- Per [[acg-2024-focal-liver-lesions]], lesions that are definitive for neither FNH nor HCA are **biopsied, followed, and/or discussed at a multidisciplinary liver tumor board** (KC 2) — inadequately characterized or atypical focal liver lesions should be reviewed at tumor board
 
 ---
 
 ## See Also
 
-[[focal-liver-lesions]], [[hepatocellular-adenoma]], [[hepatic-hemangioma]], [[hepatocellular-carcinoma]], [[hepatic-cysts]], [[li-rads]]
+[[focal-liver-lesions]], [[hepatocellular-adenoma]], [[hepatic-hemangioma]], [[hepatocellular-carcinoma]], [[hepatic-cysts]], [[li-rads]], [[liver-biopsy]], [[cirrhosis]]
 
 ---
 

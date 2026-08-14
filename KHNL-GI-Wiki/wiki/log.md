@@ -6,6 +6,41 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-08-14] lint | Parallel 4-batch sweep — five source-fidelity defects corrected, rectal-prolapse stub → full ADDT, gastric-MALT-lymphoma created, GERD/antireflux dedup; 0 broken links / 0 orphans
+
+**Ingest status:** no new inbox files (working tree clean at session start). All tier-1/tier-2 raw files remain ingested — a full filename-vs-source-page diff found only duplicate PDFs (`AGA 2026 CPU Hemorrhoids (duplicate).pdf`, the lowercase-named AGA set) and the **gated lecture/chalk-talk transcripts**, which were not auto-ingested per schema. No ingest this pass.
+
+**Source-fidelity defects corrected (highest-value finding of the pass):**
+- `wiki/sources/acg-2024-focal-liver-lesions.md` — carried a **fabricated graded recommendation**, "Avoid pregnancy while HCA >5 cm | Strong | Moderate." The phrase appears **nowhere** in the guideline, which states close to the opposite (HCA <5 cm nonexophytic is safely monitored; preemptive treatment of HCAs without high-risk features is *not* recommended). Removed and replaced with the real Rec 5/6/7 text, KC 13–18, and the sourced pregnancy pathway. Also corrected the surveillance interval (Rec 6 is **q6 mo × 2 y then annually**, not "q6–12 mo") and the subtype frequencies (Table 4: inflammatory ~35–45%, HNF-1α ~35–40%, β-catenin exon 3 ~10%, sonic hedgehog <5%).
+- `wiki/syntheses/uc-vs-crohns-comparison.md` — three claims **contradicted its own cited guidelines**: granulomas as "pathognomonic" (ACG 2025: minority, **up to 33%**, helpful but *not required*), perianal disease "30–40%" (actual **10–26%**, up to one-quarter, 26% cumulative at 20 y), and "ASCA positive ~60–70%" in CD (in neither cited guideline). Rebuilt against source; added the "colon-only inflammation" clue list, UC extent categories, and the explicit ACG statement that **ANCA/ASCA are not used to establish or rule out UC**. Unsourceable classical teaching (cobblestoning, lead-pipe colon, creeping fat) moved to a labelled *not asserted by the cited guidelines* section.
+- `1-disease-scripts/.../fecal-incontinence.md` — Cleveland Clinic (Wexner)/FISI severity scoring was asserted but appears in **neither** ingested source; replaced with what ACG 2021 actually says and flagged.
+- `2-diagnostic-schemas/acute-diarrhea.md`, `.../infections/cryptosporidiosis.md`, `.../infections/giardiasis.md`, `5-meds/nitazoxanide.md` — **antiparasitic doses were unsourced corpus-wide** and misattributed to [[acg-2016-acute-diarrhea]]. Verified directly against both raw PDFs: ACG 2016 names agents only in prose and **IDSA 2017 Table 6 has no dose column**. Removed nitazoxanide 500 mg BID × 3 d, tinidazole 2 g, metronidazole 250 mg TID, TMP-SMX DS BID and albendazole 400 mg BID; replaced with a sourced agent-per-pathogen table plus an explicit dose-gap callout.
+- `1-disease-scripts/.../hepatocellular-adenoma.md` — wrong surveillance interval corrected; unsourced "avoid contact sports" and the mis-graded pregnancy recommendation removed.
+
+**Stub expansions:**
+- `rectal-prolapse` — **stub → full ADDT.** The stub claimed its sources mentioned prolapse "only in passing"; [[acg-2021-anorectal-disorders]] in fact carries the full-thickness vs mucosal vs internal-intussusception distinction, the **left-lateral → squatting/commode re-exam** maneuver, graded Recommendation 2, laparoscopic rectopexy vs Altemeier (**27% recurrence**), ventral mesh rectopexy constipation improvement (66–86%), 5–15% perioperative complications, the worse-outcome groups, and the SRUS pathway (78% ulcer healing). [[aga-2026-hemorrhoids]] supplied the **circular vs radial folds** bedside discriminator.
+- `microscopic-colitis` — added the "who to scope" criteria (**age >60, female, more intense diarrhea**) and the finding that **32.5% of microscopic colitis meets Rome IBS-D criteria**, so symptom criteria cannot exclude it ([[acg-2020-ibs]]). Therapy and histologic thresholds remain corpus-blocked and are still flagged.
+
+**Pages created:**
+- `1-disease-scripts/foregut-and-motility-diseases/gastric/gastric-malt-lymphoma.md` — flagged independently by two batches as an unlinkable recurring mention. Built from [[acg-2024-hp-treatment]] + [[asge-2015-gastric-premalignant]]: eradication as primary therapy for early stage (**75.2% complete remission**, meta-analysis of 2,936 patients), EUS for depth/nodal prognosis, and post-eradication surveillance **q3–6 mo × 2 y then q6–12 mo**. Existing plain-text mentions on [[helicobacter-pylori-infection]] and [[gastric-premalignant-conditions]] now link to it.
+
+**Dedup (one home per fact):**
+- ~75 duplicated lines removed from [[gerd]] Steps 3–4 (TIF 2.0 / cTIF / Stretta / ARMS / ARMA / GERDx / MUSE efficacy, safety and cost figures; SAGES technique trade-offs) that restated [[antireflux-surgery]] almost verbatim. gerd.md now carries the **eligibility gate** (objective GERD, GEJ assessment, MDT review, mandatory HRM) and the hernia-size/Hill-grade decision table; the unique detail it held (cTIF cohort data, Stretta RCT/cohort figures, the investigational-technique table) was **moved to** antireflux-surgery.md rather than dropped.
+
+**Decision gaps closed:** Goligher's classification named with the source's own dentate-line criteria ([[hemorrhoids]]); AJCC 8th-ed T/N/M tables + high-risk stage II features + IDEA duration table ([[colorectal-cancer]]); pancreatic-cancer relative-risk table ([[fammm-syndrome]]); ACG 2021 Table 3 biofeedback protocol, 7 components ([[biofeedback-therapy]]); the full "what must fail first" criteria ([[sacral-nerve-stimulation]]); Siewert classification pointer ([[esophageal-cancer]]); 4-hour gastric-emptying protocol qualifiers ([[nausea-and-vomiting]]); EoE biopsy rule qualifiers ([[dysphagia]]); AGA 2021 PICO 1A–6 table ([[cirrhosis-hemostasis]]); DAA doses and CTP ≥7 decompensation definition ([[direct-acting-antivirals]]).
+
+**Hygiene:** `dysphagia` and `nausea-and-vomiting` had **empty frontmatter `sources:`** — populated (5 and 4 verified slugs) and `## Sources` sections added. `hiv-aids-related-diarrhea` restructured into diagnostic-schema section order. Index reconciled (129 disease scripts; dysphagia/nausea/nitazoxanide/DAA/cirrhosis-hemostasis descriptions refreshed). **0 broken links, 0 orphans, 0 unescaped alias pipes, 0 OS artifacts across 508 pages.**
+
+**Remaining for user triage:**
+- **Blocked on tooling, not corpus:** the **OLGA/OLGIM stage-assignment matrix** ([[atrophic-gastritis]]), the **Bristol Stool Scale** figure, and **EREFS per-feature point ranges** ([[eosinophilic-esophagitis]]) all exist only as figures in already-ingested PDFs. `pdftoppm`/`pdfimages`/`convert` are permission-blocked and PyMuPDF is not installed in the container, so none could be captured. Flagged on-page rather than filled from memory.
+- **Corpus-blocked (never fill from memory):** Wexner/St. Mark's FI scores; IBS-SSS components; PDAI/mPDAI subscore point values; toxic-megacolon formal criteria + Ho index; CDAI item weights; Tokyo TG18 cholecystitis grades; Blumgart T-stages; modified-NIH/Joensuu GIST risk; Curaçao criteria; PREMM1,2,6 components; AFS hiatal-hernia grade; Barcelona/Toronto cleanliness scales; LA grade A–D; antiparasitic dosing.
+- **Structural gaps proposed, not created (need your call):** a **constipation diagnostic schema** (four pages currently have no schema pointer because none fits) and a **colonic-polyposis schema** (seven polyposis pages likewise); a `bristol-stool-scale` concept page.
+- **Candidate pages with ingested support:** `fibrolamellar-hepatocellular-carcinoma` (ACG 2024 KC 37–39), `zollinger-ellison-syndrome`, `ursodeoxycholic-acid`, `cholestyramine`, `rifampin`, `glp-1-receptor-agonists`, *Cyclospora cayetanensis*, *Cystoisospora belli*.
+- **Cards not updated this pass** — the cards directory is outside the sandbox for this session; the nightly 05:00 card pass will pick up the edited pages.
+- `raw/GI Guidelines/AGA/AGA 2026 CPU Hemorrhoids (duplicate).pdf` is a duplicate of its neighbour and can be deleted.
+
+---
+
 ## [2026-08-12] update | Paris classification rebuilt as a picture-per-type table; cold-forceps size cutoff reconciled (polypectomy)
 
 **Pages updated:**

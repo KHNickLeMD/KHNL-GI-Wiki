@@ -19,7 +19,7 @@ sources: [acg-2017-hp-guidelines, acg-2024-hp-treatment, aga-2024-pcab]
 
 - Active [[peptic-ulcer-disease|peptic ulcer disease]] (gastric or duodenal)
 - History of PUD not previously tested/treated for H. pylori
-- Low-grade gastric MALT lymphoma
+- Low-grade [[gastric-malt-lymphoma|gastric MALT lymphoma]]
 - After endoscopic resection of early [[gastric-adenocarcinoma|gastric cancer]]
 - Uninvestigated dyspepsia <55 y without alarm features → [[test-and-treat]]
 - Long-term NSAID use (before initiation)
@@ -173,7 +173,7 @@ sources: [acg-2017-hp-guidelines, acg-2024-hp-treatment, aga-2024-pcab]
 
 ## See Also
 
-[[test-and-treat]], [[bismuth-quadruple-therapy]], [[proton-pump-inhibitors]], [[vonoprazan]], [[peptic-ulcer-disease]], [[dyspepsia]], [[upper-gi-bleeding]], [[gastric-adenocarcinoma]], [[gastric-premalignant-conditions]], [[atrophic-gastritis]], [[gastric-intestinal-metaplasia]], [[gerd]], [[gastroparesis]], [[upper-endoscopy]]
+[[test-and-treat]], [[bismuth-quadruple-therapy]], [[proton-pump-inhibitors]], [[vonoprazan]], [[potassium-competitive-acid-blockers]], [[peptic-ulcer-disease]], [[dyspepsia]], [[upper-gi-bleeding]], [[gastric-adenocarcinoma]], [[gastric-malt-lymphoma]], [[gastric-premalignant-conditions]], [[gastric-cancer-screening]], [[atrophic-gastritis]], [[gastric-intestinal-metaplasia]], [[iron-deficiency-anemia]], [[gerd]], [[gastroparesis]], [[upper-endoscopy]]
 
 ---
 

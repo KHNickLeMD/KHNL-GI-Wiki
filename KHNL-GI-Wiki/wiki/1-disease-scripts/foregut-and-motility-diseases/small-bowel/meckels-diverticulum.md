@@ -59,7 +59,7 @@ Other small-bowel bleeding sources to consider — with an age skew toward the y
 
 ## See Also
 
-[[small-bowel-bleeding]], [[capsule-endoscopy]], [[device-assisted-enteroscopy]], [[crohns-disease]], [[inflammatory-bowel-disease]], [[angioectasia]], [[peptic-ulcer-disease]], [[iron-deficiency-anemia]]
+[[small-bowel-bleeding]], [[capsule-endoscopy]], [[device-assisted-enteroscopy]], [[crohns-disease]], [[inflammatory-bowel-disease]], [[angioectasia]], [[hereditary-hemorrhagic-telangiectasia]], [[gastrointestinal-stromal-tumor]], [[gastroenteropancreatic-neuroendocrine-tumors]], [[peptic-ulcer-disease]], [[iron-deficiency-anemia]]
 
 ---
 

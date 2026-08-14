@@ -3,7 +3,7 @@ title: "Diet and Nutritional Therapy in IBD"
 category: concept
 tags: [ibd, crohns, ulcerative-colitis, diet, nutrition, enteral-nutrition, parenteral-nutrition, cded, een, malnutrition, mediterranean-diet, short-bowel-syndrome]
 created: 2026-07-22
-updated: 2026-07-29
+updated: 2026-08-14
 sources: [aga-2024-diet-nutrition-ibd]
 ---
 
@@ -65,7 +65,7 @@ Framework for diet and nutritional therapy across the [[inflammatory-bowel-disea
 
 ### Preoperative EEN
 - In **malnourished CD** before elective surgery: optimizes nutrition and **reduces postoperative complications** (anastomotic leak, abscess, SSI, ileus, unplanned stoma, reoperation) — "prehabilitation."
-- Oral EEN when feasible; enteral access device for severe malnutrition/elemental feeds.
+- Oral EEN when feasible; [[enteral-access|enteral access device]] for severe malnutrition/elemental feeds.
 - Data on EN in active **UC** limited (safe, may improve prealbumin in severe flares).
 
 ## Parenteral Nutrition & Short Bowel Syndrome
@@ -87,7 +87,8 @@ Framework for diet and nutritional therapy across the [[inflammatory-bowel-disea
 - Also consider zinc, copper, folate (esp. on methotrexate/sulfasalazine), fat-soluble vitamins; many are acute-phase reactants — recheck in quiescent disease.
 
 ## See Also
-[[crohns-disease]], [[ulcerative-colitis]], [[inflammatory-bowel-disease]], [[nutrition-in-hospitalized-patients]], [[obesity]], [[glp-2-agonists]], [[pouchitis]], [[celiac-disease]], [[irritable-bowel-syndrome]], [[iron-deficiency-anemia]]
+
+[[crohns-disease]], [[ulcerative-colitis]], [[inflammatory-bowel-disease]], [[nutrition-in-hospitalized-patients]], [[enteral-access]], [[obesity]], [[glp-2-agonists]], [[pouchitis]], [[celiac-disease]], [[irritable-bowel-syndrome]], [[iron-deficiency-anemia]]
 
 ---
 

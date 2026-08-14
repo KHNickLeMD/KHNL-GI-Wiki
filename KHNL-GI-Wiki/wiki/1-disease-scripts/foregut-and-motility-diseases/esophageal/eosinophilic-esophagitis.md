@@ -253,13 +253,13 @@ Chronic, immune/antigen-mediated esophageal disease. Characterized by esophageal
 - Growth monitoring (height, weight, BMI) required — failure to thrive in up to 1/3 at presentation
 - Topical steroids generally safe; STC as monotherapy rarely causes clinical adrenal insufficiency
 - Dupilumab (1–11y, ≥15kg): 68% histologic response (16 weeks); weight-based dosing q2w
-- Unsedated transnasal endoscopy: option to minimize sedation/anesthesia exposure
+- Unsedated transnasal endoscopy: option to minimize [[endoscopy-sedation|sedation]]/anesthesia exposure
 
 ---
 
 ## See Also
 
-[[dysphagia]], [[gerd]], [[achalasia]], [[infectious-esophagitis]], [[lymphocytic-esophagitis]], [[esophageal-dysfunction-systemic-disease]], [[celiac-disease]], [[barretts-esophagus]], [[inflammatory-bowel-disease]], [[crohns-disease]], [[upper-endoscopy]], [[colonoscopy]], [[proton-pump-inhibitors]], [[flip-panometry]], [[high-resolution-manometry]]
+[[dysphagia]], [[gerd]], [[achalasia]], [[infectious-esophagitis]], [[lymphocytic-esophagitis]], [[esophageal-dysfunction-systemic-disease]], [[celiac-disease]], [[barretts-esophagus]], [[inflammatory-bowel-disease]], [[crohns-disease]], [[upper-endoscopy]], [[colonoscopy]], [[proton-pump-inhibitors]], [[flip-panometry]], [[high-resolution-manometry]], [[endoscopy-sedation]]
 
 ---
 

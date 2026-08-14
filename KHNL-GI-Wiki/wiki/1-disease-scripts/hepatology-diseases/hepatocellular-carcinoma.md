@@ -3,7 +3,7 @@ title: "Hepatocellular Carcinoma"
 category: disease-script
 tags: [hcc, hepatocellular, liver, cancer, hpb, surveillance, cirrhosis, hbv, adjuvant, immunotherapy, liver-transplant, milan-criteria, afp, downstaging, mtor-inhibitor, sirolimus, everolimus, bclc, sorafenib, lenvatinib, atezolizumab, bevacizumab, tace, tare, ablation, resection, li-rads, locoregional]
 created: 2026-05-16
-updated: 2026-08-08
+updated: 2026-08-14
 sources: [aasld-2023-hcc, aasld-2025-hcc-critical-update, aasld-ast-2025-liver-transplant-candidate-evaluation, aasld-ast-2025-liver-transplant-graft-complications, aga-2022-hcc-systemic, nccn-2026-hcc, aga-2026-hcc-surveillance]
 ---
 
@@ -127,7 +127,7 @@ If no lesion found but AFP significantly elevated (≥200 ng/mL) without explana
 
 ### Diagnostic Biomarkers
 
-- **AFP:** Diagnostic threshold of 400 ng/mL no longer recommended for HCC diagnosis (>40% of HCC have normal AFP; elevated in intrahepatic CCA, gastric cancer, germ cell tumors). AFP is used for surveillance recall (threshold ≥20 ng/mL) and transplant eligibility (must be <1000 ng/mL; if ever ≥1000, must fall to <500 ng/mL with LRT). AFP ≥400 ng/mL = eligibility criterion for ramucirumab. [[aasld-2023-hcc]]
+- **AFP:** Diagnostic threshold of 400 ng/mL no longer recommended for HCC diagnosis (>40% of HCC have normal AFP; elevated in intrahepatic CCA, [[gastric-adenocarcinoma|gastric cancer]], germ cell tumors). AFP is used for surveillance recall (threshold ≥20 ng/mL) and transplant eligibility (must be <1000 ng/mL; if ever ≥1000, must fall to <500 ng/mL with LRT). AFP ≥400 ng/mL = eligibility criterion for ramucirumab. [[aasld-2023-hcc]]
 - **AFP-L3 (Lens culinaris lectin subfraction):** FDA-approved for risk stratification (not HCC diagnosis); sensitivity 62%, specificity 90%; insufficient alone for early HCC detection.
 - **DCP (Des-gamma carboxyprothrombin / PIVKA-II):** FDA-approved for risk stratification (not diagnosis); sensitivity 40%, specificity 81%.
 - **GALAD score** (Gender, Age, AFP-L3%, AFP, DCP): sensitivity 54–72%, specificity 90%; Phase 3 HEDS study validation data available; not yet recommended for routine practice.
@@ -444,7 +444,7 @@ Advance care planning (ACP) should be offered to all patients receiving palliati
 
 ## See Also
 
-[[li-rads]], [[hcc-surveillance]], [[focal-liver-lesions]], [[radiofrequency-ablation]], [[liver-transplantation]], [[portal-hypertension]], [[hepatic-venous-pressure-gradient]], [[variceal-upper-gi-bleeding]], [[chronic-hepatitis-b]], [[hepatitis-c]], [[direct-acting-antivirals]], [[alcohol-associated-liver-disease]], [[nafld-masld]], [[hereditary-hemochromatosis]], [[wilson-disease]], [[acute-hepatic-porphyria]], [[autoimmune-hepatitis]], [[immune-checkpoint-inhibitor-hepatitis]], [[hepatocellular-adenoma]], [[focal-nodular-hyperplasia]], [[hepatic-hemangioma]], [[hepatic-cysts]], [[budd-chiari-syndrome]], [[post-transplant-lymphoproliferative-disorder]], [[cholangiocarcinoma]], [[calcineurin-inhibitors]], [[tacrolimus]], [[liver-biopsy]], [[upper-endoscopy]], [[hepatic-encephalopathy]], [[ascites]], [[obesity]]
+[[li-rads]], [[hcc-surveillance]], [[focal-liver-lesions]], [[radiofrequency-ablation]], [[liver-transplantation]], [[portal-hypertension]], [[hepatic-venous-pressure-gradient]], [[variceal-upper-gi-bleeding]], [[chronic-hepatitis-b]], [[hepatitis-c]], [[direct-acting-antivirals]], [[alcohol-associated-liver-disease]], [[nafld-masld]], [[hereditary-hemochromatosis]], [[wilson-disease]], [[acute-hepatic-porphyria]], [[autoimmune-hepatitis]], [[immune-checkpoint-inhibitor-hepatitis]], [[hepatocellular-adenoma]], [[focal-nodular-hyperplasia]], [[hepatic-hemangioma]], [[hepatic-cysts]], [[budd-chiari-syndrome]], [[post-transplant-lymphoproliferative-disorder]], [[cholangiocarcinoma]], [[calcineurin-inhibitors]], [[tacrolimus]], [[liver-biopsy]], [[upper-endoscopy]], [[hepatic-encephalopathy]], [[ascites]], [[obesity]], [[gastric-adenocarcinoma]]
 
 ---
 

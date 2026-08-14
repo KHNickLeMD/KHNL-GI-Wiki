@@ -3,7 +3,7 @@ title: "Wilson's Disease"
 category: disease-script
 tags: [wilson-disease, copper, atp7b, hepatic, neuropsychiatric, kayser-fleischer, ceruloplasmin, hpb, liver, genetic, pregnancy, chelation, D-penicillamine, trientine, zinc, Leipzig-score, NWI]
 created: 2026-05-19
-updated: 2026-08-03
+updated: 2026-08-14
 sources: [acg-2017-liver-chemistries, acg-2016-liver-disease-pregnancy, aasld-2022-wilson-disease]
 ---
 
@@ -93,7 +93,7 @@ Predicts mortality without LT; uses Bilirubin + INR + AST + WBC + Albumin:
 - [[nafld-masld]] — metabolic risk factors; steatosis; hepatic copper usually very low (unlike WD)
 - [[acute-liver-failure]] — WD-ALF triad: Coombs-negative hemolysis + coagulopathy + [[hepatic-encephalopathy|encephalopathy]] ± modest ALT (<2000 IU/L); ALP characteristically very low
 - [[hereditary-hemochromatosis]] — iron overload vs. copper overload; TS + SF elevated in HH; distinct genetics
-- [[primary-sclerosing-cholangitis]] — biliary disease; MRCP cholangiographic changes; normal copper
+- [[primary-sclerosing-cholangitis]] — biliary disease; [[mri-mrcp|MRCP]] cholangiographic changes; normal copper
 - [[primary-biliary-cholangitis]] — AMA+; elevated ALP; elevated copper in cholestasis can mimic WD (MDR3 deficiency similarly)
 
 **Genetic mimics of WD (Table 5):** Aceruloplasminemia (absent ceruloplasmin, no copper overload, neurological), MDR3 deficiency (*ABCB4*, cholestatic), MEDNIK syndrome (*AP1S1*), Niemann-Pick type C, congenital disorders of glycosylation (PGM1-CDG, CCDC115-CDG, TMEM119-CDG) — low ceruloplasmin, hepatic copper, may mimic WD; distinguish by genetic analysis [[aasld-2022-wilson-disease]]
@@ -253,8 +253,7 @@ Effective copper removal often improves neurological symptoms but adjunctive the
 
 ## See Also
 
-
-[[autoimmune-hepatitis]], [[drug-induced-liver-injury]], [[nafld-masld]], [[acute-liver-failure]], [[hereditary-hemochromatosis]], [[primary-biliary-cholangitis]], [[primary-sclerosing-cholangitis]], [[hepatocellular-carcinoma]], [[hcc-surveillance]], [[liver-transplantation]], [[liver-disease-in-pregnancy]], [[abnormal-liver-chemistries]], [[cholangiocarcinoma]]
+[[autoimmune-hepatitis]], [[drug-induced-liver-injury]], [[nafld-masld]], [[acute-liver-failure]], [[hereditary-hemochromatosis]], [[primary-biliary-cholangitis]], [[primary-sclerosing-cholangitis]], [[hepatocellular-carcinoma]], [[hcc-surveillance]], [[liver-transplantation]], [[liver-disease-in-pregnancy]], [[abnormal-liver-chemistries]], [[cholangiocarcinoma]], [[cirrhosis]], [[liver-biopsy]], [[mri-mrcp]], [[hepatic-encephalopathy]], [[portal-hypertension]], [[dysphagia]]
 
 ---
 

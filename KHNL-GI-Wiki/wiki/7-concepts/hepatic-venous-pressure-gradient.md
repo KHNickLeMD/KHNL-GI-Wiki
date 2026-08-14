@@ -3,7 +3,7 @@ title: "Hepatic Venous Pressure Gradient (HVPG)"
 category: concept
 tags: [hvpg, portal-hypertension, cirrhosis, CSPH, wedged-hepatic-vein-pressure, variceal-bleeding, hemodynamics, endo-hepatology]
 created: 2026-08-05
-updated: 2026-08-09
+updated: 2026-08-14
 sources: [baveno-vii-2022-portal-hypertension, aasld-2023-portal-hypertension, wang-2026-eus-ppg-delphi-consensus]
 ---
 
@@ -35,7 +35,7 @@ Baveno VII methodology statements ([[baveno-vii-2022-portal-hypertension]], 1.1�
 - **Stabilization:** WHVP requires a **minimum 1-minute** recording with attention to stability over the last 20–30 s; record **in triplicate** (1.6).
 - **FHVP:** measure within **2–3 cm of the hepatic vein–IVC confluence**; also measure IVC pressure as an internal control at the hepatic vein ostium. If FHVP is **>2 mmHg above IVC**, rule out hepatic vein outflow obstruction with contrast (1.8).
 - **Reference gradient:** the **wedged-to-free** gradient has superior prognostic value to wedged-to-right-atrial and is the standard; right atrial pressure can be measured to rule out a post-hepatic component (1.7).
-- **Sedation:** deep sedation causes inaccurate HVPG (1.4); if light sedation is needed, **low-dose midazolam 0.02 mg/kg** does not alter HVPG and is acceptable.
+- **[[endoscopy-sedation|Sedation]]:** deep sedation causes inaccurate HVPG (1.4); if light sedation is needed, **low-dose midazolam 0.02 mg/kg** does not alter HVPG and is acceptable.
 
 ## Interpretation — pressure ladder
 
@@ -78,7 +78,7 @@ Where a **presinusoidal/noncirrhotic** cause is suspected (or in MASH), expert c
 
 ## See Also
 
-[[portal-hypertension]], [[cirrhosis]], [[interventional-eus-vascular]], [[tips]], [[variceal-upper-gi-bleeding]], [[porto-sinusoidal-vascular-disorder]], [[primary-biliary-cholangitis]], [[nafld-masld]], [[hepatocellular-carcinoma]], [[noninvasive-liver-disease-assessment]], [[liver-stiffness-measurement]]
+[[portal-hypertension]], [[cirrhosis]], [[interventional-eus-vascular]], [[tips]], [[variceal-upper-gi-bleeding]], [[porto-sinusoidal-vascular-disorder]], [[primary-biliary-cholangitis]], [[nafld-masld]], [[hepatocellular-carcinoma]], [[noninvasive-liver-disease-assessment]], [[liver-stiffness-measurement]], [[endoscopy-sedation]]
 
 ---
 

@@ -226,7 +226,7 @@ AASLD 2020 GS-17: *"Patients with AH should have malnutrition addressed and trea
 
 - [[nutrition-in-liver-disease|Malnutrition]] is near-universal in AH; daily caloric intake <21.5 kcal/kg/day associated with increased infection and 6-month mortality (65.8% vs. 33.1%; P<0.0001)
 - **Enteral nutrition goal: >21 kcal/kg/day** (per AASLD 2020 treatment algorithm Fig. 3)
-- High-calorie, high-protein enteral nutrition preferred (1.2–1.5 g/kg/day protein); NG tube if oral intake inadequate
+- High-calorie, high-protein [[enteral-access|enteral nutrition]] preferred (1.2–1.5 g/kg/day protein); NG tube if oral intake inadequate
 - *Intensive EN compared with conventional nutrition in the STOPAH setting showed no additional survival benefit and poor NG tube tolerance — high-quality intensive EN does not replace corticosteroids*
 - **Zinc** supplementation should be considered in moderate-severe AH (zinc deficiency near-universal in chronic alcohol use; zinc supports gut mucosal barrier)
 - Antioxidant supplements (vitamins A, C, E, selenium, beta-carotene): meta-analysis showed no benefit; antioxidant arm had worse outcomes in one comparison — do NOT use routine antioxidant supplementation [[aasld-2020-ald]]
@@ -339,7 +339,7 @@ Per [[aasld-ast-2025-liver-transplant-graft-complications]] (recommendations for
 
 ## See Also
 
-[[abnormal-liver-chemistries]], [[liver-transplantation]], [[aki-in-cirrhosis]], [[acute-pancreatitis]], [[nafld-masld]], [[hereditary-hemochromatosis]], [[portal-hypertension]], [[acute-on-chronic-liver-failure]], [[hepatic-encephalopathy]], [[hepatocellular-carcinoma]], [[autoimmune-hepatitis]], [[wilson-disease]], [[drug-induced-liver-injury]], [[variceal-upper-gi-bleeding]], [[spontaneous-bacterial-peritonitis]], [[ascites]], [[portal-vein-thrombosis]], [[hepatitis-c]], [[chronic-hepatitis-b]], [[liver-biopsy]], [[mri-mrcp]], [[upper-gi-bleeding]], [[rifaximin]], [[hcc-surveillance]], [[nutrition-in-liver-disease]], [[antibiotic-prophylaxis-cirrhosis]]
+[[abnormal-liver-chemistries]], [[liver-transplantation]], [[aki-in-cirrhosis]], [[acute-pancreatitis]], [[nafld-masld]], [[hereditary-hemochromatosis]], [[portal-hypertension]], [[acute-on-chronic-liver-failure]], [[hepatic-encephalopathy]], [[hepatocellular-carcinoma]], [[autoimmune-hepatitis]], [[wilson-disease]], [[drug-induced-liver-injury]], [[variceal-upper-gi-bleeding]], [[spontaneous-bacterial-peritonitis]], [[ascites]], [[portal-vein-thrombosis]], [[hepatitis-c]], [[chronic-hepatitis-b]], [[liver-biopsy]], [[mri-mrcp]], [[upper-gi-bleeding]], [[rifaximin]], [[hcc-surveillance]], [[nutrition-in-liver-disease]], [[antibiotic-prophylaxis-cirrhosis]], [[enteral-access]]
 
 ---
 

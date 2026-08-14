@@ -3,7 +3,7 @@ title: "Primary Sclerosing Cholangitis"
 category: disease-script
 tags: [psc, cholestasis, biliary, ibd, cholangiocarcinoma, liver-transplant, dominant-stricture, igg4, udca, mrcp, fish, liver-stiffness]
 created: 2026-05-19
-updated: 2026-07-17
+updated: 2026-08-14
 sources: [acg-2015-psc, acg-2017-liver-chemistries, aasld-2022-psc]
 ---
 
@@ -53,13 +53,13 @@ PSC is a chronic, cholestatic liver disease likely of autoimmune origin characte
 
 - ALP persistently <1.5× ULN = better prognosis in adults; GGT <50 U/L in children
 - ALP normalization is a biomarker of improved survival ([[acg-2015-psc]]; [[aasld-2022-psc]])
-- **Liver stiffness (LS) by TE or MRE** = preferred method for fibrosis staging ([[aasld-2022-psc]] GS 9)
+- **[[liver-stiffness-measurement|Liver stiffness (LS)]] by TE or MRE** = preferred method for fibrosis staging ([[aasld-2022-psc]] GS 9)
   - TE: 9.6 kPa = F3 (extensive fibrosis); 14.4 kPa = F4 ([[cirrhosis|cirrhosis]]) — AUC >0.80
   - MRE: 4.6 kPa → AUC 0.82 for cirrhosis
   - LS worsening by >0.34 kPa/year = highest risk of hepatic decompensation
 - ELF (Enhanced Liver Fibrosis) test: strongly associated with transplant-free survival; useful surrogate in trials
 - Liver biopsy: **NOT recommended for fibrosis staging** in clinical practice — high sampling variability ([[aasld-2022-psc]] GS 10)
-- MELD: drives transplant priority; decompensation = [[ascites]], variceal bleed, [[hepatic-encephalopathy|hepatic encephalopathy]], recurrent cholangitis
+- MELD: drives transplant priority (full MELD-Na/Child-Pugh point tables live on the cirrhosis page); decompensation = [[ascites]], [[variceal-upper-gi-bleeding|variceal bleed]], [[hepatic-encephalopathy|hepatic encephalopathy]], recurrent cholangitis
 
 ### Classification / Typing
 
@@ -77,8 +77,7 @@ PSC is a chronic, cholestatic liver disease likely of autoimmune origin characte
 
 *Workup: see [[biliary-stricture]].*
 
-- Biliary stricture — broader diagnostic schema; PSC is one cause; secondary sclerosing cholangitis must be systematically excluded (Table 2, [[aasld-2022-psc]])
-- **Secondary sclerosing cholangitis** — HIV-related, recurrent pyogenic cholangitis, ischemic (critically ill patients/HHT/intra-arterial chemotherapy/hepatic artery thrombosis), parasitic, eosinophilic, IgG4-associated, post-surgical, cystic fibrosis, portal hypertensive biliopathy
+- **Secondary sclerosing cholangitis** — must be systematically excluded before PSC is diagnosed (Table 2, [[aasld-2022-psc]]) — HIV-related, recurrent pyogenic cholangitis, ischemic (critically ill patients/[[hereditary-hemorrhagic-telangiectasia|HHT]]/intra-arterial chemotherapy/hepatic artery thrombosis), parasitic, eosinophilic, IgG4-associated, post-surgical, cystic fibrosis, portal hypertensive biliopathy
 - **[[cholangiocarcinoma]]** — must be considered in any PSC patient with new dominant/relevant stricture; 160–400× higher risk than general population
 - **IgG4-sclerosing cholangitis** — steroid-responsive; exclude with serum IgG4 (measure in all PSC patients)
 - **[[primary-biliary-cholangitis|Primary biliary cholangitis]]** (PBC) — AMA+, female predominance, intrahepatic small-duct; test AMA to exclude
@@ -141,7 +140,7 @@ PSC is a chronic, cholestatic liver disease likely of autoimmune origin characte
 **[[portal-hypertension|Portal hypertension]]/cirrhosis management:**
 
 - Same approach as other chronic liver diseases with the exceptions below
-- Baveno-VI criteria for varix screening: LS ≤20 kPa AND platelets >150,000/mm³ → may avoid EGD (0% false-negative for varices needing treatment; 30% of EGDs could be avoided) (GS 17)
+- Baveno-VI criteria for varix screening: LS ≤20 kPa AND platelets >150,000/mm³ → may avoid [[upper-endoscopy|EGD]] (0% false-negative for varices needing treatment; 30% of EGDs could be avoided) (GS 17)
 - Non-cirrhotic portal hypertension and infected transjugular intrahepatic portosystemic shunt ([[tips|TIPS]]) may rarely occur in PSC with chronically infected bile ducts
 
 **Vaccination and lifestyle:**
@@ -316,8 +315,7 @@ Histological and cholangiographic assessment required to distinguish rPSC from a
 
 ## See Also
 
-
-[[abnormal-liver-chemistries]], [[primary-biliary-cholangitis]], [[autoimmune-hepatitis]], [[biliary-stricture]], [[cholangiocarcinoma]], [[ulcerative-colitis]], [[crohns-disease]], [[inflammatory-bowel-disease]], [[ercp]], [[liver-transplantation]], [[colonoscopy]], [[colorectal-cancer]], [[portal-hypertension]], [[hcc-surveillance]]
+[[abnormal-liver-chemistries]], [[primary-biliary-cholangitis]], [[autoimmune-hepatitis]], [[biliary-stricture]], [[cholangiocarcinoma]], [[ulcerative-colitis]], [[crohns-disease]], [[inflammatory-bowel-disease]], [[ercp]], [[liver-transplantation]], [[colonoscopy]], [[colorectal-cancer]], [[portal-hypertension]], [[hcc-surveillance]], [[liver-stiffness-measurement]], [[liver-biopsy]], [[mri-mrcp]], [[brush-cytology]], [[fish]], [[gallbladder-cancer]], [[variceal-upper-gi-bleeding]], [[upper-endoscopy]], [[tips]], [[cirrhosis]]
 
 ---
 

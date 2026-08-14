@@ -3,8 +3,8 @@ title: "Nausea and Vomiting"
 category: diagnostic-schema
 tags: [nausea, vomiting, gastroparesis, cyclic-vomiting, cannabinoid-hyperemesis, motility, foregut]
 created: 2026-06-04
-updated: 2026-07-29
-sources: []
+updated: 2026-08-14
+sources: [acg-2022-gastroparesis, aga-2024-cvs, aga-2024-chs, asge-2020-acpo-volvulus]
 ---
 
 ## Definition / Scope
@@ -68,7 +68,11 @@ flowchart TD
 2. **Always test pregnancy** in reproductive-age women before imaging or pharmacotherapy.
 3. **Labs** — CMP (electrolytes, renal, glucose/ketones), calcium, TSH, lipase, LFTs; CBC; consider cortisol/morning if adrenal insufficiency suspected; drug review (opioids, GLP-1 agonists, chemo).
 4. **Exclude obstruction and mucosal disease** — abdominal X-ray/CT for suspected obstruction; **[[upper-endoscopy|EGD]]** for chronic symptoms, [[dysphagia]], weight loss, or suspected [[peptic-ulcer-disease|PUD]]/malignancy.
-5. **If structural causes excluded** → **gastric emptying scintigraphy** (4-hour) for [[gastroparesis]]; >10% retention at 4 h is diagnostic. (Stop opioids/GLP-1 agonists and correct hyperglycemia first — both delay emptying and confound the test.)
+5. **If structural causes excluded** → **scintigraphic gastric emptying** for [[gastroparesis]]. The threshold only means something with its protocol attached ([[acg-2022-gastroparesis]]):
+   - **Solid meal, standard 255-kcal, 2% fat Egg Beaters meal**; imaging at **0, 1, 2, and 4 h**.
+   - **≥3 h of imaging required, 4 h optimal** (3 h acceptable only if >90% emptied by 3 h).
+   - **Delayed emptying = >10% retention at 4 h.** A 2-h or non-standard-meal study does not establish the diagnosis.
+   - Stop opioids/GLP-1 agonists and correct hyperglycemia first — both delay emptying and confound the test.
 6. **Neuroimaging** (CT/MRI brain) if headache, papilledema, focal deficits, or early-morning vomiting suggest a CNS cause.
 7. **Recognize episodic syndromes** — stereotyped attacks with well intervals = CVS; cannabis use + relief with hot bathing = CHS (treat with cessation).
 
@@ -80,7 +84,7 @@ flowchart TD
 - **Metabolic labs** — CMP, calcium, glucose/ketones, TSH, lipase, LFTs; identifies DKA, uremia, hypercalcemia, thyroid/adrenal disease, biliary/pancreatic disease.
 - **Abdominal imaging** — upright X-ray/CT for obstruction; ultrasound for biliary causes.
 - **[[upper-endoscopy|EGD]]** — excludes gastric outlet obstruction, [[peptic-ulcer-disease|PUD]], and [[gastric-adenocarcinoma|malignancy]] in chronic/refractory cases.
-- **Gastric emptying scintigraphy (4-hour)** — confirms [[gastroparesis]]; gold standard. Wireless motility capsule and ¹³C breath testing are alternatives.
+- **Scintigraphic gastric emptying (4-hour, standard solid meal)** — confirms [[gastroparesis]]; gold standard (protocol and cutoff above). Wireless motility capsule and ¹³C breath testing are alternatives.
 - **Brain CT/MRI** — when CNS features are present.
 - **[[small-bowel-motility|Antroduodenal manometry]]** — selected refractory cases to evaluate for chronic intestinal pseudo-obstruction.
 
@@ -101,3 +105,12 @@ flowchart TD
 ## See Also
 
 [[gastroparesis]], [[cyclic-vomiting-syndrome]], [[cannabinoid-hyperemesis-syndrome]], [[nausea-and-vomiting-of-pregnancy]], [[dyspepsia]], [[gerd]], [[peptic-ulcer-disease]], [[gastric-adenocarcinoma]], [[achalasia]], [[rumination-syndrome]], [[acute-pancreatitis]], [[choledocholithiasis]], [[acute-cholecystitis]], [[upper-endoscopy]], [[upper-gi-bleeding]], [[acute-diarrhea]], [[norovirus]], [[liver-disease-in-pregnancy]], [[disorders-of-gut-brain-interaction]], [[small-bowel-motility]], [[acute-colonic-pseudo-obstruction]], [[colonic-volvulus]]
+
+---
+
+## Sources
+
+1. [[acg-2022-gastroparesis|ACG 2022: Gastroparesis]]
+2. [[aga-2024-cvs|AGA Clinical Practice Update on Diagnosis and Management of Cyclic Vomiting Syndrome (2024)]]
+3. [[aga-2024-chs|AGA Clinical Practice Update on Diagnosis and Management of Cannabinoid Hyperemesis Syndrome: Commentary]]
+4. [[asge-2020-acpo-volvulus|ASGE Guideline on the Role of Endoscopy in the Management of Acute Colonic Pseudo-Obstruction and Colonic Volvulus (2020)]]

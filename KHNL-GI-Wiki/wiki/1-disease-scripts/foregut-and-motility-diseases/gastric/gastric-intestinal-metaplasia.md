@@ -3,7 +3,7 @@ title: "Gastric Intestinal Metaplasia"
 category: disease-script
 tags: [gastric-intestinal-metaplasia, gim, gastric-cancer, h-pylori, correa-cascade, premalignant, foregut, gastric]
 created: 2026-05-16
-updated: 2026-08-11
+updated: 2026-08-14
 sources: [aga-2020-gastric-intestinal-metaplasia, acg-2025-gastric-premalignant]
 ---
 
@@ -140,7 +140,7 @@ GIM affects approximately 5% of the US population. Prevalence is higher in high-
 
 ## See Also
 
-[[helicobacter-pylori-infection]], [[atrophic-gastritis]], [[gastric-premalignant-conditions]], [[gastric-polyps]], [[gastric-adenocarcinoma]], [[upper-endoscopy]]
+[[helicobacter-pylori-infection]], [[test-and-treat]], [[bismuth-quadruple-therapy]], [[proton-pump-inhibitors]], [[atrophic-gastritis]], [[gastric-premalignant-conditions]], [[gastric-polyps]], [[gastric-adenocarcinoma]], [[gastric-cancer-screening]], [[endoscopic-submucosal-dissection]], [[endoscopic-mucosal-resection]], [[dyspepsia]], [[upper-endoscopy]]
 
 ---
 

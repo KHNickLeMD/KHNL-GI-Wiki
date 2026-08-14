@@ -3,7 +3,7 @@ title: "Inflammatory Bowel Disease (IBD) — Overview"
 category: concept
 tags: [ibd, crohns, ulcerative-colitis, biologic, immunotherapy]
 created: 2026-05-16
-updated: 2026-07-31
+updated: 2026-08-14
 sources: [aga-2026-inpatient-ibd]
 ---
 
@@ -35,12 +35,12 @@ Inflammatory bowel disease (IBD) comprises two major chronic immune-mediated dis
 - **When to admit:** severe disease refractory to outpatient therapy, high suspicion for an IBD-related complication (intestinal obstruction, intra-abdominal abscess), or significant nutritional risk/failure to thrive. Increasingly patients are admitted for **failing outpatient therapy** rather than fulminant presentation.
 - **Initial workup:** IBD-tailored history/exam; CBC (anemia), CRP and/or fecal calprotectin; assess disease activity with **biomarkers + endoscopy when indicated**; evaluate for IBD-related complications and **concomitant infections** ([[clostridioides-difficile|C. difficile]], CMV). Preparatory labs for anticipated drugs: fasting lipid panel before cyclosporine/JAK inhibitor; latent TB (TST or IGRA — IGRA preferred if BCG-vaccinated) and [[chronic-hepatitis-b|HBV]] testing; [[nutrition-in-hospitalized-patients|malnutrition screen]] (e.g., MUST).
 - **Supportive care:** IV hydration/electrolytes, treat anemia, pain control; avoid NSAIDs.
-- **VTE prophylaxis:** all hospitalized IBD patients should receive **prophylactic anticoagulation** (open question: benefit of continuing at discharge).
+- **VTE prophylaxis:** all hospitalized IBD patients should receive **prophylactic [[anticoagulation-gi-bleeding|anticoagulation]]** (open question: benefit of continuing at discharge).
 - **Discharge:** appropriate after resolution/stabilization of the acute indication — does **not** require CRP or imaging normalization; establish a clear outpatient transition plan (named responsible clinician, patient education) to reduce readmission.
 
 ## See Also
 
-[[crohns-disease]], [[ulcerative-colitis]], [[ibd-preventive-care]], [[ibd-endoscopic-scoring]], [[ibd-pain-management]], [[ibd-in-malignancy]], [[nutrition-in-ibd]], [[intestinal-ultrasound]], [[clostridioides-difficile]], [[disorders-of-gut-brain-interaction]], [[drug-induced-liver-injury]], [[nutrition-in-hospitalized-patients]], [[colorectal-cancer]], [[pouchitis]], [[uc-vs-crohns-comparison]], [[probiotics]]
+[[crohns-disease]], [[ulcerative-colitis]], [[ibd-preventive-care]], [[ibd-endoscopic-scoring]], [[ibd-pain-management]], [[ibd-in-malignancy]], [[nutrition-in-ibd]], [[intestinal-ultrasound]], [[clostridioides-difficile]], [[disorders-of-gut-brain-interaction]], [[drug-induced-liver-injury]], [[nutrition-in-hospitalized-patients]], [[colorectal-cancer]], [[pouchitis]], [[uc-vs-crohns-comparison]], [[probiotics]], [[anticoagulation-gi-bleeding]]
 
 ---
 

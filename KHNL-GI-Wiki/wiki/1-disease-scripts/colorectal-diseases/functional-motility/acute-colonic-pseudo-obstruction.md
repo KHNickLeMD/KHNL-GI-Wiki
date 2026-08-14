@@ -3,7 +3,7 @@ title: "Acute Colonic Pseudo-Obstruction (Ogilvie's Syndrome)"
 category: disease-script
 tags: [acpo, ogilvie, colonic-dysmotility, large-bowel-obstruction, neostigmine, colonoscopy]
 created: 2026-06-22
-updated: 2026-07-26
+updated: 2026-08-14
 sources: [asge-2020-acpo-volvulus]
 ---
 
@@ -18,6 +18,8 @@ Massive **colonic dilatation without mechanical obstruction**, from altered auto
 - [[#Differential Diagnosis]]
 - [[#Diagnostics]]
 - [[#Therapeutics]]
+- [[#See Also]]
+- [[#Sources]]
 
 ## Assessment
 
@@ -29,7 +31,7 @@ Massive **colonic dilatation without mechanical obstruction**, from altered auto
 
 ### Severity Assessment
 - **Cecal diameter** is the key risk marker — perforation risk rises with cecal diameter **>10–12 cm** and with distention duration **>6 days**
-- ~10% have some degree of right-colon ischemia; spontaneous perforation risk ~3–25%, with up to ~50% mortality once perforation occurs
+- ~10% have some degree of right-[[colon-ischemia|colon ischemia]]; spontaneous perforation risk ~3–25%, with up to ~50% mortality once perforation occurs
 - "Complicated" = ischemia, peritonitis, cecal diameter >12 cm, or significant abdominal pain
 
 ## Differential Diagnosis
@@ -81,7 +83,7 @@ flowchart TD
 **Surgery** — for peritonitis, ischemia, perforation, clinical deterioration, or **cecal diameter >12 cm**. Options: surgically placed cecostomy, percutaneous cecostomy, or subtotal colectomy; surgical mortality up to ~44% with ischemic/perforated bowel, so nonoperative management is preferred where feasible.
 
 ## See Also
-[[colonic-volvulus]], [[colonoscopy]], [[chronic-idiopathic-constipation]], [[nausea-and-vomiting]], [[clostridioides-difficile]]
+[[colonic-volvulus]], [[colonoscopy]], [[chronic-idiopathic-constipation]], [[nausea-and-vomiting]], [[clostridioides-difficile]], [[colon-ischemia]], [[toxic-megacolon]], [[peptic-ulcer-disease]]
 
 ---
 

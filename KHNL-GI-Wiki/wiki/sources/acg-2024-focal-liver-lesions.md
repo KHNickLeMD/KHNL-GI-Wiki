@@ -3,7 +3,7 @@ title: "ACG Clinical Guideline: Focal Liver Lesions (2024)"
 category: source
 tags: [liver, focal-liver-lesion, hca, fnh, hemangioma, hepatic-cysts, hcc, li-rads, hpb]
 created: 2026-05-07
-updated: 2026-05-28
+updated: 2026-08-14
 sources: []
 ---
 
@@ -54,16 +54,27 @@ Hepatocellular adenoma (HCA) carries the highest management stakes: it has four 
 
 **Hepatocellular Adenoma (HCA):**
 
-- Four molecular subtypes (Bordeaux classification):
-  1. **HNF1α-inactivated** (30–40%): steatotic on imaging; lowest malignant potential
-  2. **Inflammatory** (40–50%): elevated CRP/SAA; associated with obesity, metabolic syndrome, alcohol; moderate bleed risk
-  3. **Beta-catenin activated** (10–15%): highest HCC risk; often in men, anabolic steroid users
-  4. **Unclassified** (~10%)
+- Molecular subtypes and their frequencies *(Table 4)*:
+  1. **Inflammatory** (~35%–45%): activated JAK/STAT; elevated alkaline phosphatase, CRP ± fibrinogen. Risk factors — moderate estrogen association, obesity, hepatic steatosis, excess alcohol, glycogen storage disease
+  2. **HNF-1α-inactivated** (~35%–40%): steatotic on imaging; associated with MODY3
+  3. **β-catenin activated** (exon 3 **~10%**, male predominant; CTNNB1 exon 7/8 **<10%**): highest malignant-transformation risk — **resect regardless of size** *(KC 11)*. Risk factors — strong estrogen association, androgen/anabolic steroid use, glycogen storage disease
+  4. **Sonic hedgehog** (**<5%**): INHBE/GLI1 fusion; exogenous hormonal stimuli and obesity
+- **MRI subtyping is only partly reliable** — useful for inflammatory and HNF-1α subtypes, **not specific** for β-catenin, sonic hedgehog, or unclassified adenomas *(KC 9)*
 - Management:
-  - Discontinue OCP → repeat MRI in 6 months (regression may occur, especially HNF1α)
-  - **Resect if** >5 cm (all subtypes), male patient (high HCC risk regardless of size), beta-catenin subtype (regardless of size), pregnancy-related growth
-  - Surveillance: ≤5 cm, female, non–beta-catenin → MRI q6–12 months
-  - Avoid pregnancy while HCA >5 cm (high bleed risk in pregnancy)
+  - **Women, HCA <5 cm:** discontinue exogenous hormones + advise weight loss if overweight/obese *(Rec 5)*; surveillance with contrast-enhanced imaging **every 6 months for 2 years, then annually thereafter** *(Rec 6)*
+  - **Women, HCA ≥5 cm:** modify risk factors, **observe 6–12 months**, and **resect if the lesion does not regress to <5 cm** *(KC 13)*
+  - **Men:** surgical resection **regardless of lesion size** (commonly β-catenin mutated, elevated malignant transformation risk) *(KC 12, KC 14)*
+  - Growth during surveillance ≥20% (extrapolated from RECIST) → consider resection or definitive treatment
+  - Unable to undergo resection → **embolization or ablation** as alternatives *(Rec 7)*
+  - Any size with imaging concerning for malignant transformation → treat as HCC *(KC 16)*
+  - **Hepatic adenomatosis** = **≥10 adenomas** *(KC 17)*; liver transplantation for those meeting OPTN policy *(KC 18)*
+  - After resection/embolization/ablation → continue surveillance imaging **q6–12 months** (frequency and duration not well established)
+- **Pregnancy** *(KC 15)* — monitor regularly; **treat if growth to >6.5 cm or high-risk features for hemorrhagic rupture** (e.g. exophytic):
+  - Repeat **ultrasound every 6–12 weeks** is a recommended strategy; greatest complication risk is the **third trimester**
+  - **<5 cm, nonexophytic, no growth → safely monitored**; does not affect mode of delivery
+  - Growth >6.5 cm or high-risk features → **resection if early in pregnancy, or embolization before 26 weeks**; **emergent surgery** for hemorrhagic rupture in the third trimester
+  - **Preemptive treatment during pregnancy of HCAs without high-risk features is NOT recommended** (added risks in pregnancy)
+  - **Before planned conception:** HCA <5 cm considered for resection/embolization only if at particularly high risk of growth or hemorrhage (prior hormonal growth, exophytic); **HCA ≥5 cm should be treated** to minimize the need for treatment during pregnancy
 
 **Hepatic Cysts:**
 
@@ -93,10 +104,9 @@ Hepatocellular adenoma (HCA) carries the highest management stakes: it has four 
 | No follow-up needed once FNH is definitively characterized | Strong | Moderate |
 | Resect only if symptomatic | Conditional | Low |
 | **Hepatocellular Adenoma (HCA)** | | |
-| Discontinue OCP and repeat MRI in 6 months after HCA diagnosis | Strong | Moderate |
-| Resect if >5 cm (all subtypes), male patient, beta-catenin subtype, or pregnancy-related growth | Strong | Moderate |
-| Surveillance with MRI q6–12 months for ≤5 cm, female, non–beta-catenin HCA | Conditional | Low |
-| Avoid pregnancy while HCA >5 cm | Strong | Moderate |
+| **Rec 5** — In women with hepatic adenomas <5 cm, we suggest discontinuation of exogenous hormones and advise weight loss, if applicable, for overweight or obese individuals | Conditional | Very low |
+| **Rec 6** — In women with hepatic adenomas <5 cm, we suggest surveillance with contrast-enhanced imaging modalities **every 6 months for 2 years, then annually thereafter** | Conditional | Low |
+| **Rec 7** — In patients with hepatic adenomas requiring treatment who are unable to undergo surgical resection, we suggest embolization or ablation as alternative treatment approaches | Conditional | Low |
 | **Hepatic Cysts** | | |
 | Simple cysts: no follow-up needed | Strong | Moderate |
 | Complex cysts (septa, mural nodularity): MRI characterization to exclude cystic neoplasm | Strong | Moderate |

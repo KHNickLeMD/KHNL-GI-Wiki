@@ -46,7 +46,7 @@ Non-contact thermal ablation: monopolar current delivered to tissue through a je
 | Bleeding peptic ulcer ([[peptic-ulcer-disease\|PUD]], [[upper-gi-bleeding\|UGIB]]) | **Suggest** APC (with clips or soft monopolar electrocoagulation) — second tier behind bipolar electrocoagulation, heater probe, or absolute ethanol injection, which are *recommended* ([[acg-2021-ugib]], rec 9) | Conditional, very-low to low |
 | Post-[[endoscopic-mucosal-resection\|EMR]] margin, **no** visible residual adenoma | Suggest adjuvant thermal ablation of the post-EMR margin; **insufficient evidence to pick APC vs snare-tip soft coagulation** ([[usmstf-2020-endoscopic-removal]], [[asge-2020-endoscopic-removal]]) | Conditional, moderate |
 | Endoscopically **visible residual** polyp tissue | **Recommend against** ablative techniques (APC, snare-tip soft coagulation) — associated with increased recurrence ([[usmstf-2020-endoscopic-removal]], [[asge-2020-endoscopic-removal]]) | Strong, moderate |
-| [[ampullary-adenoma\|Ampullary]] and duodenal adenomas | Not primary therapy; ablative therapies (APC, laser, PDT, mono-/bipolar electrocoagulation) used to destroy **residual or recurrent superficial adenomatous tissue** left after snare resection — APC the most frequently used ([[asge-2015-ampullary-duodenal-adenomas]]) | — |
+| [[ampullary-adenoma\|Ampullary]] and [[nonampullary-duodenal-adenoma\|duodenal adenomas]] | Not primary therapy; ablative therapies (APC, laser, PDT, mono-/bipolar electrocoagulation) used to destroy **residual or recurrent superficial adenomatous tissue** left after snare resection — APC the most frequently used ([[asge-2015-ampullary-duodenal-adenomas]]) | — |
 | [[barretts-esophagus\|Barrett's esophagus]] after EMR of visible lesions | Ablation of the remaining Barrett's segment is suggested over no ablation, but the supporting trial used PDT/APC and the guideline explicitly notes **APC is not the current standard** ([[asge-2018-barretts-eet]]); hybrid-APC is one of several ablation options, while **RFA has the highest-quality and most extensive RCT evidence** ([[aga-2024-barretts-eet]]) | Conditional, low |
 
 **Decision line for colorectal resection:** APC is for the *margin of a defect with nothing visible left*, never for tissue you can still see — the same guideline both recommends against it (visible residual tissue, strong) and suggests it (clean margin, conditional).
@@ -118,7 +118,7 @@ Unresolved: no ingested source reports a trial of APC vs sham or of treating onl
 
 ## See Also
 
-[[radiation-proctopathy]], [[angioectasia]], [[acute-lower-gi-bleeding]], [[upper-gi-bleeding]], [[small-bowel-bleeding]], [[peptic-ulcer-disease]], [[iron-deficiency-anemia]], [[ampullary-adenoma]], [[barretts-esophagus]], [[endoscopic-mucosal-resection]], [[polypectomy]], [[radiofrequency-ablation]], [[device-assisted-enteroscopy]], [[capsule-endoscopy]], [[endoscopic-ultrasound]], [[colonoscopy]], [[portal-hypertension]], [[tips]], [[anticoagulation-gi-bleeding]]
+[[radiation-proctopathy]], [[angioectasia]], [[acute-lower-gi-bleeding]], [[upper-gi-bleeding]], [[small-bowel-bleeding]], [[peptic-ulcer-disease]], [[iron-deficiency-anemia]], [[ampullary-adenoma]], [[nonampullary-duodenal-adenoma]], [[barretts-esophagus]], [[endoscopic-mucosal-resection]], [[polypectomy]], [[radiofrequency-ablation]], [[device-assisted-enteroscopy]], [[capsule-endoscopy]], [[endoscopic-ultrasound]], [[colonoscopy]], [[portal-hypertension]], [[tips]], [[anticoagulation-gi-bleeding]]
 
 ---
 

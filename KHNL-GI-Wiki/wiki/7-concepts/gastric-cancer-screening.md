@@ -3,7 +3,7 @@ title: "Gastric Cancer Screening"
 category: concept
 tags: [gastric-cancer, gastric-cancer-screening, surveillance, gastric-intestinal-metaplasia, atrophic-gastritis, h-pylori, screening, egd, foregut, gastric]
 created: 2026-07-21
-updated: 2026-08-08
+updated: 2026-08-14
 sources: [aga-2025-gastric-cancer-screening]
 ---
 
@@ -83,7 +83,7 @@ Nonvisible IND/LGD → repeat high-quality EGD with image-enhanced endoscopy wit
 | HGD | **3 months** |
 | Nonvisible GC | Multidisciplinary discussion; **consider surgery** |
 
-If dysplasia/EGC is endoscopically **visualized** → **en bloc endoscopic resection** (typically ESD; EMR only in select scenarios — lesions <1 cm or confirmed IND histology). Refer to the AGA CPU on ESD for post-curative-ESD surveillance intervals.
+If dysplasia/EGC is endoscopically **visualized** → **en bloc endoscopic resection** (typically ESD; [[endoscopic-mucosal-resection|EMR]] only in select scenarios — lesions <1 cm or confirmed IND histology). Refer to the AGA CPU on ESD for post-curative-ESD surveillance intervals.
 
 **Post-resection (BPA 12):** individuals with successfully resected gastric dysplasia or cancer require **ongoing** surveillance; suggested intervals exist but US data are limited.
 
@@ -111,7 +111,7 @@ GC in the US epitomizes racial/ethnic disparity across incidence, stage at diagn
 
 ## See Also
 
-[[gastric-intestinal-metaplasia]], [[atrophic-gastritis]], [[gastric-premalignant-conditions]], [[helicobacter-pylori-infection]], [[gastric-adenocarcinoma]], [[upper-endoscopy]], [[endoscopic-submucosal-dissection]], [[colorectal-cancer-screening]]
+[[gastric-intestinal-metaplasia]], [[atrophic-gastritis]], [[gastric-premalignant-conditions]], [[helicobacter-pylori-infection]], [[gastric-adenocarcinoma]], [[upper-endoscopy]], [[endoscopic-submucosal-dissection]], [[endoscopic-mucosal-resection]], [[colorectal-cancer-screening]]
 
 ---
 

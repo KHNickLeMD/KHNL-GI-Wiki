@@ -321,7 +321,7 @@ Scores supplement but do not replace clinical judgment. Low-risk patients (Oakla
 
 ## See Also
 
-[[upper-gi-bleeding]], [[variceal-upper-gi-bleeding]], [[small-bowel-bleeding]], [[colonoscopy]], [[upper-endoscopy]], [[colon-ischemia]], [[angioectasia]], [[hemorrhoids]], [[heydes-syndrome]], [[colorectal-cancer]], [[inflammatory-bowel-disease]], [[crohns-disease]], [[ulcerative-colitis]], [[clostridioides-difficile]], [[radiation-proctopathy]], [[peptic-ulcer-disease]], [[polypectomy]], [[argon-plasma-coagulation]], [[anticoagulation-gi-bleeding]], [[iron-deficiency-anemia]], [[portal-hypertension]]
+[[upper-gi-bleeding]], [[variceal-upper-gi-bleeding]], [[small-bowel-bleeding]], [[colonoscopy]], [[upper-endoscopy]], [[colon-ischemia]], [[angioectasia]], [[hemorrhoids]], [[heydes-syndrome]], [[colorectal-cancer]], [[inflammatory-bowel-disease]], [[crohns-disease]], [[ulcerative-colitis]], [[clostridioides-difficile]], [[radiation-proctopathy]], [[anal-fissure]], [[peptic-ulcer-disease]], [[polypectomy]], [[argon-plasma-coagulation]], [[anticoagulation-gi-bleeding]], [[iron-deficiency-anemia]], [[portal-hypertension]]
 
 ---
 

@@ -3,7 +3,7 @@ title: "Gastric Adenocarcinoma"
 category: disease-script
 tags: [gastric-cancer, gastric-adenocarcinoma, gastric, malignancy, her2, pd-l1, msi-h, dmmr, claudin-18.2, flot, gastrectomy, endoscopic-resection, trastuzumab, zolbetuximab, nccn, oncology]
 created: 2026-06-01
-updated: 2026-08-13
+updated: 2026-08-14
 sources: [nccn-2026-gastric-cancer, asge-2015-gastric-premalignant, asge-2023-esd]
 ---
 
@@ -75,7 +75,7 @@ flowchart TD
 
 ## See Also
 
-[[gastric-premalignant-conditions]], [[gastric-intestinal-metaplasia]], [[atrophic-gastritis]], [[helicobacter-pylori-infection]], [[hereditary-diffuse-gastric-cancer]], [[juvenile-polyposis-syndrome]], [[peutz-jeghers-syndrome]], [[familial-adenomatous-polyposis]], [[lynch-syndrome]], [[esophageal-cancer]], [[gastrointestinal-stromal-tumor]], [[gastroenteropancreatic-neuroendocrine-tumors]], [[upper-endoscopy]], [[endoscopic-ultrasound]]
+[[gastric-premalignant-conditions]], [[gastric-intestinal-metaplasia]], [[atrophic-gastritis]], [[gastric-cancer-screening]], [[helicobacter-pylori-infection]], [[hereditary-diffuse-gastric-cancer]], [[juvenile-polyposis-syndrome]], [[peutz-jeghers-syndrome]], [[familial-adenomatous-polyposis]], [[lynch-syndrome]], [[esophageal-cancer]], [[esophageal-adenocarcinoma]], [[gastric-malt-lymphoma]], [[barretts-esophagus]], [[gastrointestinal-stromal-tumor]], [[subepithelial-lesion]], [[gastroenteropancreatic-neuroendocrine-tumors]], [[endoscopic-submucosal-dissection]], [[endoscopic-mucosal-resection]], [[dyspepsia]], [[upper-endoscopy]], [[endoscopic-ultrasound]]
 
 ---
 

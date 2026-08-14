@@ -3,7 +3,7 @@ title: "HCC Surveillance"
 category: concept
 tags: [hcc, hepatocellular-carcinoma, surveillance, cirrhosis, hepatitis-b, biomarker, afp, galad]
 created: 2026-06-01
-updated: 2026-08-08
+updated: 2026-08-14
 sources: [aga-2026-hcc-surveillance, aasld-2023-hcc]
 ---
 
@@ -38,7 +38,7 @@ Framework for hepatocellular carcinoma surveillance — who, how, how often, and
 
 - **Semiannual ultrasound + α-fetoprotein (AFP) in combination** is the preferred strategy (BPA 2).
   - US + AFP sensitivity **63%** vs **51%** US alone; small specificity trade-off but higher diagnostic odds ratio and cost-effective.
-  - US limited by operator dependence and worse performance in obesity, severe steatosis, or decompensation.
+  - US limited by operator dependence and worse performance in [[obesity]], severe steatosis, or decompensation.
 - **CT / MRI not for routine surveillance** — radiation/contrast exposure, cost, limited radiology capacity. MRI-based surveillance may be cost-effective only in select high-incidence groups (ICER varies with incidence, etiology, test cost).
 - A positive surveillance test triggers diagnostic recall imaging → see [[li-rads]] and [[hepatocellular-carcinoma]].
 
@@ -69,7 +69,7 @@ Framework for hepatocellular carcinoma surveillance — who, how, how often, and
 
 ## See Also
 
-[[hepatocellular-carcinoma]], [[li-rads]], [[chronic-hepatitis-b]], [[hepatitis-c]], [[nafld-masld]], [[alcohol-associated-liver-disease]], [[noninvasive-liver-disease-assessment]], [[liver-transplantation]], [[hepatitis-d]], [[direct-acting-antivirals]], [[portal-hypertension]]
+[[hepatocellular-carcinoma]], [[li-rads]], [[chronic-hepatitis-b]], [[hepatitis-c]], [[nafld-masld]], [[alcohol-associated-liver-disease]], [[noninvasive-liver-disease-assessment]], [[liver-transplantation]], [[hepatitis-d]], [[direct-acting-antivirals]], [[portal-hypertension]], [[obesity]]
 
 ---
 

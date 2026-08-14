@@ -3,7 +3,7 @@ title: "Hepatocellular Adenoma"
 category: disease-script
 tags: [hca, liver, hpb, focal-liver-lesion, benign-liver-tumor, ocp, hcc-risk, resection]
 created: 2026-05-07
-updated: 2026-07-17
+updated: 2026-08-14
 sources: [acg-2024-focal-liver-lesions]
 ---
 
@@ -20,8 +20,9 @@ sources: [acg-2024-focal-liver-lesions]
 **Epidemiology:**
 
 - Predominantly women aged 30–50 on oral contraceptive pills (OCPs)
-- Incidence: 3–4 per 100,000 OCP users; rare without OCP use
-- Also associated with: anabolic-androgenic steroid use (especially men), glycogen storage disease type Ia and III, metabolic syndrome/[[obesity]]
+- Incidence: **3–4 per 100,000** OCP users vs. **0.13–1.0 per 100,000** in non-users
+- Also associated with (KC 5): anabolic-androgenic steroid use and androgen therapy (especially men), glycogen storage disease type Ia and III, metabolic syndrome/[[obesity]], polycystic ovarian syndrome, and exogenous hormonal therapy in men, women, and transgender individuals
+- Any lesion arising in a [[cirrhosis|cirrhotic]] liver must be considered [[hepatocellular-carcinoma|HCC]] until proven otherwise — benign lesions rarely form de novo in cirrhosis
 
 **Presentation:**
 
@@ -44,15 +45,16 @@ Risk values below are the ACG Table 5 "Complications" data (hemorrhage / maligna
 
 ### Severity Assessment
 
-**Risk stratification for management decisions:**
+**The four variables that drive management** — symptoms, subtype, size, and sex (plus number of lesions); the resulting pathway is in Therapeutics below.
 
 | Risk factor | Significance |
 |---|---|
-| Size **>5 cm** | High bleed and malignant transformation risk → resect |
-| **Male sex** | High HCC risk regardless of size → resect |
-| **Beta-catenin subtype** | High HCC risk → resect regardless of size |
-| **Pregnancy** | High bleed risk in pregnancy (estrogen-driven growth) |
+| Size **≥5 cm** | Complications (hemorrhage, malignant transformation) typically occur >5 cm — **but can arise in smaller lesions** |
+| **Male sex** | Higher malignant-transformation risk — men are more commonly diagnosed with the beta-catenin mutated variant |
+| **Beta-catenin subtype** | Highest malignant-transformation risk of any subtype (up to 46% for exon 3) |
+| **Pregnancy** | Estrogen-driven growth; greatest hemorrhage risk in the **third trimester** |
 | **Anabolic steroid use** | Withdraw steroids; significant regression possible |
+| **≥10 lesions (adenomatosis)** | Distinct variant; steatosis or glycogen storage disease background |
 
 ---
 
@@ -78,6 +80,8 @@ Risk values below are the ACG Table 5 "Complications" data (hemorrhage / maligna
 - HNF1α-inactivated HCA: T1 hyperintense (fat); signal dropout on in/out-of-phase images
 - Inflammatory HCA: persistent enhancement; often difficult to distinguish from HCC without biopsy
 - Beta-catenin HCA: heterogeneous, may mimic HCC; may show partial gadoxetate uptake
+- **Subtyping by MRI is only reliable for two subtypes** — MRI features are beneficial for inflammatory and HNF-1α HCA, but are **not specific** for beta-catenin, sonic hedgehog, or unclassified HCA (KC 9, [[acg-2024-focal-liver-lesions]])
+- Atypical inflammatory and beta-catenin HCA can express the biliary transporter OATP1B1/B3 → gadoxetic acid retention → **hyperintense** hepatobiliary phase, mimicking FNH; these lesions are neither definitively FNH nor HCA → biopsy, follow, and/or discuss at multidisciplinary tumor board
 
 **Contrast-Enhanced Ultrasound (CEUS):**
 
@@ -103,60 +107,69 @@ Risk values below are the ACG Table 5 "Complications" data (hemorrhage / maligna
 
 ### 1. Initial Management
 
-**Discontinue OCP** (or anabolic steroids):
+**Risk-factor modification — first step in every patient** [[acg-2024-focal-liver-lesions]]:
 
-- Significant regression possible (especially HNF1α subtype; smaller lesions <5 cm)
-- Repeat MRI in **6 months** after OCP cessation to document change in size
+- **Discontinue exogenous hormones** — oral contraceptives **and hormone-impregnated intrauterine devices** (Rec 2, Strong / Low); also anabolic-androgenic steroids
+- **Encourage weight loss** in overweight or [[obesity|obese]] patients (Rec 3, Conditional / Very low; Rec 5 for women with HCA <5 cm, Conditional / Very low)
+- Significant regression possible (especially HNF1α subtype; smaller lesions <5 cm) with elimination of hormonal stimuli and aggressive management of metabolic risk factors
 
-**Activity restriction:**
+### 2. Size- and Sex-Based Pathway (the operative thresholds)
 
-- Avoid contact sports and strenuous activity while HCA >5 cm (bleed risk)
+| Group | What to do | Source statement |
+|---|---|---|
+| **Woman, HCA <5 cm** | Discontinue exogenous hormones + weight loss if overweight/obese → **surveillance imaging** (see below); no resection | Rec 5, Rec 6 |
+| **Woman, HCA ≥5 cm** | Modify risk factors → **observe 6–12 months** → **resect if the lesion does not regress to <5 cm** | KC 13 |
+| **Man, HCA of any size** | **Surgical resection regardless of size** — commonly beta-catenin mutated, higher malignant-transformation risk | KC 12, KC 14 |
+| **Beta-catenin activated subtype** | **Resect regardless of size** | KC 11 |
+| **Any size, imaging features concerning for malignant transformation** | Treat **as [[hepatocellular-carcinoma\|HCC]]** — surgical resection, locoregional therapy, and/or [[liver-transplantation\|liver transplantation]] | KC 16 |
+| **Requires treatment but cannot undergo resection** | **Embolization or ablation** as alternative (Conditional / Low) | Rec 7 |
 
-### 2. Resection Criteria (Surgical or Ablative)
+**Hepatic adenomatosis** = variant with **≥10 hepatic adenomas**; more commonly associated with background steatosis ([[nafld-masld|MASLD]]) or glycogen storage disease (KC 17).
 
-**Resect if ANY of the following** [[acg-2024-focal-liver-lesions]]:
+**[[liver-transplantation|Liver transplantation]]** — consider in patients meeting OPTN policy, especially glycogen storage disease, unresectable beta-catenin–positive adenoma, or unresectable HCA with hemorrhagic or malignant transformation (KC 18).
 
-| Indication | Rationale |
-|---|---|
-| Size **>5 cm** (after 6 months OCP cessation) | High bleed risk; HCC risk regardless of subtype |
-| **Male sex** | High HCC risk (beta-catenin activation more common in men) |
-| **Beta-catenin activated subtype** | HCC transformation risk; resect regardless of size |
-| **Spontaneous hemorrhage** | After stabilization |
-| **HCC transformation suspected** | AFP elevation, imaging evolution |
-| **Planned pregnancy** with lesion >5 cm | Prevent bleeding during pregnancy |
+### 3. Surveillance (Women with HCA <5 cm)
 
-### 3. Surveillance (Non-Surgical Candidates)
-
-**Criteria for surveillance (all must be met):**
+**Criteria for surveillance:**
 
 - Female patient
-- ≤5 cm
+- <5 cm
 - Non–beta-catenin subtype (or subtype unknown but low-risk features)
-- OCP discontinued
+- Exogenous hormones discontinued
 
-**Surveillance schedule:**
+**Surveillance schedule (Rec 6, Conditional / Low):**
 
-- MRI at 6 months after OCP cessation → if stable, every 12 months
+- Contrast-enhanced imaging **every 6 months for 2 years, then annually thereafter**
 - Goal: confirm regression or stability
-- Upgrade to resection if: growth >5 cm, change to beta-catenin features, pregnancy desired
+- Upgrade to resection if: growth to ≥5 cm without regression after 6–12 months of risk-factor modification, beta-catenin features, or imaging change concerning for malignant transformation
 
 ### 4. Hemorrhage Management
 
-- Hemodynamically stable: supportive care ± transarterial embolization (TAE)
-- Hemodynamically unstable: emergency TAE or surgical resection
+- Presentation: acute abdominal pain, anemia, and/or hemorrhagic shock
+- Emergent cross-sectional imaging to assess for hemorrhagic rupture → angiography for potential embolization of active extravasation
+- **Ruptured HCA: hemodynamic stabilization followed by embolization and/or surgical resection** (Rec 8, Conditional / Very low)
 - After hemorrhage control: interval resection when stable
 
-### 5. Pregnancy
+### 5. Post-Treatment Surveillance
 
-- HCA risk in pregnancy: estrogen-driven growth → increased hemorrhage risk (particularly in second and third trimester)
-- **Avoid pregnancy while HCA >5 cm**; advise OCP cessation + repeat imaging before attempting pregnancy
-- If pregnant with known HCA: serial ultrasound monitoring; avoid strenuous activity; low threshold for emergency evaluation
+- After resection, embolization, or ablation: continue surveillance imaging **every 6–12 months** — frequency and duration are **not well established**
+
+### 6. Pregnancy
+
+- HCAs may grow and progress in pregnancy; **greatest complication (hemorrhage) risk is in the third trimester**, from increased hepatic vascularity and hyperdynamic circulation
+- No single validated monitoring approach; **repeat ultrasound every 6–12 weeks** is a recommended strategy
+- **HCA that stays <5 cm, nonexophytic, and without growth** during pregnancy → safely monitored, and **does not change the mode of delivery**
+- **Growth during pregnancy, particularly to >6.5 cm, or high-risk features for hemorrhagic rupture (including exophytic lesions)** → **resection if early in pregnancy, or embolization before 26 weeks' gestation** (KC 15)
+- **Third trimester:** emergent surgery for hemorrhagic rupture, done jointly with obstetrics
+- Lesions **>6.5 cm** carry demonstrated hemorrhage risk during pregnancy, delivery, and immediately postpartum
+- **Preemptive treatment during pregnancy of HCAs without high-risk features is NOT recommended**
+- Preconception counseling should cover the risk and the optimal management strategy for a previously diagnosed HCA
 
 ---
 
 ## See Also
 
-[[focal-liver-lesions]], [[focal-nodular-hyperplasia]], [[hepatic-hemangioma]], [[hepatocellular-carcinoma]], [[hepatic-cysts]], [[li-rads]]
+[[focal-liver-lesions]], [[focal-nodular-hyperplasia]], [[hepatic-hemangioma]], [[hepatocellular-carcinoma]], [[hepatic-cysts]], [[li-rads]], [[liver-biopsy]], [[liver-transplantation]], [[nafld-masld]], [[obesity]], [[cirrhosis]]
 
 ---
 

@@ -3,7 +3,7 @@ title: "Chronic Diarrhea"
 category: diagnostic-schema
 tags: [diarrhea, chronic, malabsorption, secretory, osmotic, inflammatory, steatorrhea, ibs]
 created: 2026-06-04
-updated: 2026-08-13
+updated: 2026-08-14
 sources: [asge-2010-diarrhea]
 ---
 
@@ -33,9 +33,10 @@ The most useful framework is to classify by **stool character** into watery, inf
 
 ### Watery — Secretory
 
-- **[[microscopic-colitis|Microscopic colitis]]** — collagenous and lymphocytic; older women; normal-appearing [[colonoscopy]] requiring random biopsies; NSAID/PPI/SSRI association
+- **[[microscopic-colitis|Microscopic colitis]]** — collagenous and lymphocytic; older women; normal-appearing [[colonoscopy]] requiring random biopsies; NSAID/[[proton-pump-inhibitors|PPI]]/SSRI association
 - **[[bile-acid-diarrhea|Bile acid diarrhea]]** — post-cholecystectomy, ileal disease/resection ([[crohns-disease]]), or idiopathic (overlaps IBS-D)
 - **[[irritable-bowel-syndrome|IBS-D]]** — a positive Rome IV/V diagnosis, not pure exclusion; most common overall
+- **[[postinfectious-ibs|Post-infectious IBS]]** — new-onset IBS-D following an episode of infectious gastroenteritis
 - Endocrine — hyperthyroidism, **[[gastroenteropancreatic-neuroendocrine-tumors|carcinoid syndrome]]**, VIPoma, gastrinoma ([[peptic-ulcer-disease|Zollinger-Ellison]]), Addison's disease, medullary thyroid carcinoma
 - Drugs/toxins — chronic laxative use, metformin, colchicine, SSRIs, alcohol, PPIs
 - **[[small-intestinal-bacterial-overgrowth|SIBO]]** — bloating, malabsorption; post-surgical/dysmotility risk factors
@@ -50,9 +51,10 @@ The most useful framework is to classify by **stool character** into watery, inf
 ### Inflammatory
 
 - **[[inflammatory-bowel-disease|Inflammatory bowel disease]]** — [[crohns-disease]], [[ulcerative-colitis]] (bloody, urgency, nocturnal, systemic features)
-- **Microscopic colitis** — watery, *non-bloody*, but histologically inflammatory
+- **[[microscopic-colitis|Microscopic colitis]]** — watery, *non-bloody*, but histologically inflammatory
+- **[[pouchitis]]** — in the post-IPAA patient; this page is its workup schema
 - Chronic infections — [[clostridioides-difficile|C. difficile]], [[giardiasis|Giardia]], [[cryptosporidiosis|Cryptosporidium]], [[entamoeba-histolytica-infection|Entamoeba]], CMV (immunocompromised)
-- Ischemic colitis ([[colon-ischemia]]); radiation enteritis/colitis
+- Ischemic colitis ([[colon-ischemia]]); [[radiation-proctopathy|radiation enteritis/colitis]]
 - **[[colorectal-cancer]]** / colonic neoplasia
 
 ### Fatty (Malabsorptive / Steatorrhea)
@@ -60,7 +62,7 @@ The most useful framework is to classify by **stool character** into watery, inf
 - **[[celiac-disease]]** — small-bowel villous atrophy; screen with anti-tTG IgA
 - **[[exocrine-pancreatic-insufficiency|Exocrine pancreatic insufficiency]]** — [[chronic-pancreatitis]], [[pancreatic-cancer|pancreatic cancer]]; low fecal elastase
 - **[[small-intestinal-bacterial-overgrowth|SIBO]]**, Whipple's disease, tropical sprue
-- Short bowel syndrome, mesenteric ischemia, bile acid deficiency (cholestasis)
+- Short bowel syndrome, [[acute-mesenteric-ischemia|mesenteric ischemia]], bile acid deficiency (cholestasis)
 
 ---
 
@@ -136,7 +138,7 @@ Prompt structural evaluation (colonoscopy ± cross-sectional imaging) and lower 
 
 ## See Also
 
-[[acute-diarrhea]], [[irritable-bowel-syndrome]], [[celiac-disease]], [[inflammatory-bowel-disease]], [[crohns-disease]], [[ulcerative-colitis]], [[microscopic-colitis]], [[bile-acid-diarrhea]], [[clostridioides-difficile]], [[small-intestinal-bacterial-overgrowth]], [[exocrine-pancreatic-insufficiency]], [[chronic-pancreatitis]], [[giardiasis]], [[cryptosporidiosis]], [[entamoeba-histolytica-infection]], [[colon-ischemia]], [[colorectal-cancer]], [[gastroenteropancreatic-neuroendocrine-tumors]], [[alpha-gal-syndrome]], [[fecal-incontinence]], [[colonoscopy]], [[upper-endoscopy]], [[capsule-endoscopy]], [[device-assisted-enteroscopy]], [[iron-deficiency-anemia]], [[hiv-aids-related-diarrhea]], [[disorders-of-gut-brain-interaction]]
+[[acute-diarrhea]], [[irritable-bowel-syndrome]], [[celiac-disease]], [[inflammatory-bowel-disease]], [[crohns-disease]], [[ulcerative-colitis]], [[microscopic-colitis]], [[bile-acid-diarrhea]], [[clostridioides-difficile]], [[small-intestinal-bacterial-overgrowth]], [[exocrine-pancreatic-insufficiency]], [[chronic-pancreatitis]], [[giardiasis]], [[cryptosporidiosis]], [[entamoeba-histolytica-infection]], [[colon-ischemia]], [[colorectal-cancer]], [[gastroenteropancreatic-neuroendocrine-tumors]], [[alpha-gal-syndrome]], [[fecal-incontinence]], [[colonoscopy]], [[upper-endoscopy]], [[capsule-endoscopy]], [[device-assisted-enteroscopy]], [[iron-deficiency-anemia]], [[hiv-aids-related-diarrhea]], [[disorders-of-gut-brain-interaction]], [[acute-mesenteric-ischemia]], [[proton-pump-inhibitors]], [[pouchitis]], [[postinfectious-ibs]], [[radiation-proctopathy]]
 
 ---
 

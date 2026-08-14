@@ -3,7 +3,7 @@ title: "Anal Fissure"
 category: disease-script
 tags: [anal-fissure, anorectal, lis, sphincterotomy, botulinum, colorectal]
 created: 2026-05-16
-updated: 2026-08-12
+updated: 2026-08-14
 sources: [acg-2021-anorectal-disorders]
 ---
 
@@ -106,7 +106,7 @@ sources: [acg-2021-anorectal-disorders]
 
 ## See Also
 
-[[hemorrhoids]], [[crohns-disease]], [[anorectal-manometry]], [[defecation-disorders]], [[fecal-incontinence]], [[colonoscopy]], [[acute-lower-gi-bleeding]]
+[[hemorrhoids]], [[crohns-disease]], [[anorectal-manometry]], [[defecation-disorders]], [[proctalgia-syndromes]], [[fecal-incontinence]], [[rectal-prolapse]], [[colonoscopy]], [[acute-lower-gi-bleeding]]
 
 ---
 

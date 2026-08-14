@@ -104,7 +104,7 @@ sources: [aga-2025-endoscopic-enteral-access]
 - **Relative contraindications to percutaneous insertion:**
   - Active GI bleeding from [[peptic-ulcer-disease|peptic ulcer]]
   - Hemodynamic or respiratory instability
-- **Complicate but do NOT necessarily preclude PEG:** large midline wounds, chest tubes, abdominal mesh, ostomies.
+- **Complicate but do NOT necessarily preclude PEG:** large midline wounds, chest tubes, abdominal mesh, [[ostomy-management|ostomies]].
 - **NOT absolute contraindications** (but complicate siting or raise aspiration risk; anesthesia support helps): morbid [[obesity]], large hiatal or abdominal wall hernias, peritoneal carcinomatosis, severe dysmotility, [[variceal-upper-gi-bleeding|esophageal varices]].
 
 **Special situations:**

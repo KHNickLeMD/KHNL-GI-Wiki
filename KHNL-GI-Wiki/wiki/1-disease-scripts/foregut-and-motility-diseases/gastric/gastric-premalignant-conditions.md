@@ -13,7 +13,7 @@ tags:
   - surveillance
   - autoimmune-gastritis
 created: 2026-05-07
-updated: 2026-08-13
+updated: 2026-08-14
 sources:
   - acg-2025-gastric-premalignant
 ---
@@ -80,7 +80,7 @@ Gastric adenocarcinoma
 | H. pylori-associated gastritis | Active H. pylori infection; antrum-predominant; resolved with eradication |
 | Reactive (chemical) gastropathy | NSAID use, bile reflux; foveolar hyperplasia, no atrophy or GIM |
 | Ménétrier's disease | Giant gastric folds; protein-losing gastropathy; TGF-α excess |
-| Gastric MALT lymphoma | H. pylori-driven; monoclonal B-cell proliferation; treat H. pylori first |
+| [[gastric-malt-lymphoma\|Gastric MALT lymphoma]] | H. pylori-driven; monoclonal B-cell proliferation; treat H. pylori first |
 | Early gastric cancer | Flat or slightly raised lesion; requires ESD/resection |
 
 ---
@@ -219,7 +219,7 @@ Gastric adenocarcinoma
 
 ## See Also
 
-[[helicobacter-pylori-infection]], [[atrophic-gastritis]], [[gastric-intestinal-metaplasia]], [[gastric-polyps]], [[gastric-adenocarcinoma]], [[gastric-cancer-screening]], [[upper-endoscopy]]
+[[helicobacter-pylori-infection]], [[atrophic-gastritis]], [[gastric-intestinal-metaplasia]], [[gastric-polyps]], [[gastric-adenocarcinoma]], [[hereditary-diffuse-gastric-cancer]], [[gastric-cancer-screening]], [[gastroenteropancreatic-neuroendocrine-tumors]], [[endoscopic-submucosal-dissection]], [[dyspepsia]], [[upper-endoscopy]]
 
 ---
 

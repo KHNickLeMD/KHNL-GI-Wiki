@@ -3,7 +3,7 @@ title: "Ostomy Management"
 category: concept
 tags: [ostomy, ileostomy, colostomy, nutrition]
 created: 2026-07-23
-updated: 2026-07-23
+updated: 2026-08-14
 sources: [aga-2023-ostomies]
 ---
 
@@ -58,7 +58,7 @@ sources: [aga-2023-ostomies]
 
 ## Short-Term Complications
 
-- **Ostomy leakage** — most common and dreaded. Predisposing: [[obesity|obesity]], placement in a skin crease, loop configuration, liquid effluent (ileostomy, chronic diarrhea), flush stoma.
+- **Ostomy leakage** — most common and dreaded. Predisposing: [[obesity|obesity]], placement in a skin crease, loop configuration, liquid effluent (ileostomy, [[chronic-diarrhea|chronic diarrhea]]), flush stoma.
   - Prevention is best (preoperative stomatherapist marking, meticulous technique).
   - Management: thicken stool with antidiarrheals; bolster stoma height (convex appliance, ostomy belt, paste, barrier rings); heat appliance with hair dryer before application; lie flat several minutes after application; dry peristomal skin; stomal powder + skin sealant.
   - Appliance opening cut **one-eighth inch larger than the stoma**; **re-measure stoma at each change for the first 8 weeks** (stoma shrinks). Refractory leakage may need revision.
@@ -72,7 +72,7 @@ sources: [aga-2023-ostomies]
 - **Appliance allergy** — itching/redness in the shape of the offending product → skin sealant, pouching-system change, temporary steroid spray.
 - **Fungal infection** (moisture/heat) — itchy maculopapular rash with satellite borders → antifungal powder sealed with sealant; no improvement at 2 weeks → surgeon/enterostomal therapist.
 - **Peristomal pyoderma gangrenosum** — painful ulcers with purple halo (esp. IBD) → interdisciplinary GI/dermatology/wound-care management.
-- **Peristomal varices** — minor bleeding at appliance changes is normal; persistent/severe bleeding or purplish concentric peristomal discoloration → work up.
+- **Peristomal [[variceal-upper-gi-bleeding|varices]]** — minor bleeding at appliance changes is normal; persistent/severe bleeding or purplish concentric peristomal discoloration → work up.
 
 **Parastomal hernia** — up to **50% of ostomates within 5 years**.
 
@@ -99,7 +99,7 @@ sources: [aga-2023-ostomies]
 
 ## See Also
 
-[[crohns-disease]], [[ulcerative-colitis]], [[inflammatory-bowel-disease]], [[colorectal-cancer]], [[fecal-incontinence]], [[clostridioides-difficile]], [[microscopic-colitis]], [[bile-acid-diarrhea]], [[loperamide]], [[pouchitis]]
+[[crohns-disease]], [[ulcerative-colitis]], [[inflammatory-bowel-disease]], [[colorectal-cancer]], [[fecal-incontinence]], [[clostridioides-difficile]], [[microscopic-colitis]], [[bile-acid-diarrhea]], [[chronic-diarrhea]], [[loperamide]], [[pouchitis]], [[obesity]], [[variceal-upper-gi-bleeding]]
 
 ---
 

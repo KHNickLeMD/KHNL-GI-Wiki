@@ -61,7 +61,7 @@ Laboratory ULN values for ALT are unreliable — they are set from populations t
 
 **Hepatic causes (generally AST>ALT):**
 
-- Alcoholic liver disease, [[cirrhosis]] (any etiology), ischemic hepatitis, congestive hepatopathy, acute [[budd-chiari-syndrome|Budd-Chiari syndrome]], TPN
+- Alcoholic liver disease, [[cirrhosis]] (any etiology), ischemic hepatitis, congestive hepatopathy, acute [[budd-chiari-syndrome|Budd-Chiari syndrome]], [[nutrition-in-hospitalized-patients|TPN]]
 
 **Hepatic causes (generally ALT>AST):**
 
@@ -256,7 +256,7 @@ Biopsy is appropriate when (Strong recommendation, very low evidence) [[acg-2017
 ## Red Flags / Alarm Features
 
 - **Elevated prothrombin time + encephalopathy** in patient without prior liver disease → fulminant hepatic failure → **immediate hepatology referral ± transplant center evaluation** (Strong/Very Low) [[acg-2017-liver-chemistries]]
-- **Jaundice + signs of liver decompensation** ([[ascites]], encephalopathy, variceal bleeding) → advanced liver disease requiring urgent evaluation
+- **Jaundice + signs of liver decompensation** ([[ascites]], encephalopathy, [[variceal-upper-gi-bleeding|variceal bleeding]]) → advanced liver disease requiring urgent evaluation
 - **Massive ALT elevation (>10,000 IU/l)** → ischemic hepatitis, acetaminophen overdose, toxic hepatitis (Amanita), acute Wilson's disease with fulminant presentation — requires immediate workup and hepatology consultation
 - **Alkaline phosphatase elevation with weight loss, painless jaundice** → malignant biliary obstruction; CT/MRCP urgently
 - **Young patient (<40 years) with unexplained liver disease** → Wilson's disease must be excluded (can present with hepatic, neurologic, and/or psychiatric features)
@@ -270,7 +270,7 @@ Biopsy is appropriate when (Strong recommendation, very low evidence) [[acg-2017
 
 ## See Also
 
-[[drug-induced-liver-injury]], [[alcohol-associated-liver-disease]], [[autoimmune-hepatitis]], [[primary-sclerosing-cholangitis]], [[primary-biliary-cholangitis]], [[wilson-disease]], [[hereditary-hemochromatosis]], [[nafld-masld]], [[acute-liver-failure]], [[chronic-hepatitis-b]], [[hepatitis-c]], [[celiac-disease]], [[budd-chiari-syndrome]], [[liver-disease-in-pregnancy]], [[noninvasive-liver-disease-assessment]], [[liver-stiffness-measurement]], [[iron-overload-and-iron-metabolism]], [[jaundice]], [[liver-biopsy]], [[mri-mrcp]], [[ercp]], [[cholangioscopy]], [[cirrhosis]], [[portal-hypertension]], [[portal-vein-thrombosis]], [[hepatic-encephalopathy]], [[hepatocellular-carcinoma]], [[liver-transplantation]], [[choledocholithiasis]], [[biliary-stricture]], [[ascites]]
+[[drug-induced-liver-injury]], [[alcohol-associated-liver-disease]], [[autoimmune-hepatitis]], [[primary-sclerosing-cholangitis]], [[primary-biliary-cholangitis]], [[wilson-disease]], [[hereditary-hemochromatosis]], [[nafld-masld]], [[acute-liver-failure]], [[chronic-hepatitis-b]], [[hepatitis-c]], [[celiac-disease]], [[budd-chiari-syndrome]], [[liver-disease-in-pregnancy]], [[noninvasive-liver-disease-assessment]], [[liver-stiffness-measurement]], [[iron-overload-and-iron-metabolism]], [[jaundice]], [[liver-biopsy]], [[mri-mrcp]], [[ercp]], [[cholangioscopy]], [[cirrhosis]], [[portal-hypertension]], [[portal-vein-thrombosis]], [[hepatic-encephalopathy]], [[hepatocellular-carcinoma]], [[liver-transplantation]], [[choledocholithiasis]], [[biliary-stricture]], [[ascites]], [[variceal-upper-gi-bleeding]], [[nutrition-in-hospitalized-patients]]
 
 ---
 

@@ -3,13 +3,13 @@ title: "Loperamide"
 category: med
 tags: [loperamide, antimotility, antidiarrheal, opioid-agonist]
 created: 2026-07-07
-updated: 2026-07-17
+updated: 2026-08-14
 sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea, aga-2022-ibs-d, acg-2021-anorectal-disorders, aga-2026-cdiff-ibd]
 ---
 
 ## Class
 
-Peripheral μ-opioid receptor agonist; antimotility agent. First-line antimotility drug for symptomatic control of [[acute-diarrhea|acute diarrhea]] ([[acg-2016-acute-diarrhea]]).
+Peripheral μ-opioid receptor agonist; antimotility agent. First-line antimotility drug for symptomatic control of [[acute-diarrhea|acute diarrhea]] — preferred over diphenoxylate because it has **less central opiate effect** ([[acg-2016-acute-diarrhea]]).
 
 ## Dosing
 
@@ -30,15 +30,19 @@ Peripheral μ-opioid receptor agonist; antimotility agent. First-line antimotili
 | [[irritable-bowel-syndrome\|IBS]]-D | Suggested for diarrhea control — limited effect on **global** symptoms | Conditional | [[aga-2022-ibs-d]] |
 | [[clostridioides-difficile\|C. difficile]] in [[inflammatory-bowel-disease\|IBD]] | May consider **only** when inflammation and infection are improving but diarrhea persists | Expert review | [[aga-2026-cdiff-ibd]] |
 
+## Adverse Effects
+
+- **Post-treatment constipation** is the common complaint — **use the lowest dose that controls the diarrhea** ([[acg-2016-acute-diarrhea]]).
+- Toxic dilatation of the colon or prolonged illness when used in **bacterial inflammatory** diarrhea — rare, and seen with *otherwise untreated* diarrhea from highly inflammatory pathogens; potentiation is very unlikely when the inflammatory colitis is itself being treated with an antimicrobial ([[acg-2016-acute-diarrhea]]).
+
 ## Contraindications / Cautions
 
 - **Children <18 y with acute diarrhea — do NOT give** (Strong/Moderate, [[idsa-2017-infectious-diarrhea]]).
 - **Avoid at any age** in suspected or proven cases where **[[toxic-megacolon|toxic megacolon]] may result**, in **inflammatory diarrhea**, or **diarrhea with fever** (Strong/Low, [[idsa-2017-infectious-diarrhea]]).
-- Not given in proven bacterial inflammatory colitis — toxic-megacolon risk, though very rare in properly treated patients ([[acg-2016-acute-diarrhea]]).
 
 ## See Also
 
-[[acute-diarrhea]], [[irritable-bowel-syndrome]], [[fecal-incontinence]], [[clostridioides-difficile]], [[rifaximin]], [[disorders-of-gut-brain-interaction]]
+[[acute-diarrhea]], [[chronic-diarrhea]], [[irritable-bowel-syndrome]], [[fecal-incontinence]], [[clostridioides-difficile]], [[inflammatory-bowel-disease]], [[toxic-megacolon]], [[rifaximin]], [[nitazoxanide]], [[eluxadoline]], [[alosetron]], [[disorders-of-gut-brain-interaction]]
 
 ---
 

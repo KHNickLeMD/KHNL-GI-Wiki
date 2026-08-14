@@ -3,7 +3,7 @@ title: "Toxic Megacolon"
 category: disease-script
 tags: [toxic-megacolon, colitis, cdiff, ibd, ulcerative-colitis, asuc, surgical-emergency]
 created: 2026-07-26
-updated: 2026-08-05
+updated: 2026-08-14
 sources: [acg-2025-uc, acg-2021-cdiff]
 ---
 
@@ -45,7 +45,7 @@ Toxic megacolon sits at the severe end of two underlying-disease severity framew
 | Anemia | hemoglobin < 10.5 g/dL |
 | Elevated inflammatory markers | ESR > 30 mm/hr |
 
-- ASUC substrate for toxic megacolon corresponds to the **Fulminant** column of the ACG UC Activity Index (>10 stools/day, continuous bleeding, transfusion-requiring anemia, MES 3, UCEIS 7–8) — see [[ulcerative-colitis]].
+- ASUC substrate for toxic megacolon corresponds to the **Fulminant** column of the ACG UC Activity Index (>10 stools/day, continuous bleeding, transfusion-requiring anemia, [[ibd-endoscopic-scoring|MES]] 3, UCEIS 7–8) — see [[ulcerative-colitis]].
 
 **CDI severity (ACG C. difficile):**
 
@@ -130,7 +130,7 @@ flowchart TD
 
 ## See Also
 
-[[ulcerative-colitis]], [[crohns-disease]], [[clostridioides-difficile]], [[colon-ischemia]], [[inflammatory-bowel-disease]], [[colonoscopy]], [[diverticulitis]]
+[[ulcerative-colitis]], [[crohns-disease]], [[clostridioides-difficile]], [[colon-ischemia]], [[inflammatory-bowel-disease]], [[colonoscopy]], [[diverticulitis]], [[ibd-endoscopic-scoring]], [[ostomy-management]], [[fmt]], [[loperamide]]
 
 ---
 

@@ -3,7 +3,7 @@ title: "Cannabinoid Hyperemesis Syndrome (CHS)"
 category: disease-script
 tags: [cannabinoid-hyperemesis-syndrome, chs, cyclic-vomiting-syndrome, cannabis, dgbi, capsaicin, amitriptyline, foregut]
 created: 2026-07-18
-updated: 2026-08-02
+updated: 2026-08-14
 sources: [aga-2024-chs]
 ---
 
@@ -66,7 +66,7 @@ Outpatient DDx after excluding structural disease:
 - Co-manage with psychology/psychiatry for refractory disease or psychiatric comorbidity (anxiety/depression common).
 
 ## See Also
-[[cyclic-vomiting-syndrome]], [[nausea-and-vomiting]], [[nausea-and-vomiting-of-pregnancy]], [[gastroparesis]], [[rumination-syndrome]], [[disorders-of-gut-brain-interaction]]
+[[cyclic-vomiting-syndrome]], [[nausea-and-vomiting]], [[nausea-and-vomiting-of-pregnancy]], [[gastroparesis]], [[rumination-syndrome]], [[disorders-of-gut-brain-interaction]], [[upper-endoscopy]]
 
 ---
 

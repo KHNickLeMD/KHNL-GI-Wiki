@@ -3,9 +3,19 @@ title: "Peptic Ulcer Disease"
 category: disease-script
 tags: [pud, peptic-ulcer, h-pylori, nsaid, upper-gi-bleeding, gastric-ulcer, duodenal-ulcer]
 created: 2026-05-19
-updated: 2026-07-25
+updated: 2026-08-14
 sources: [acg-2021-ugib, asge-2010-pud, aga-2024-pcab]
 ---
+
+## Contents
+- [[#Assessment]]
+  - [[#Establishing the Diagnosis]]
+  - [[#Severity Assessment]]
+- [[#Differential Diagnosis]]
+- [[#Diagnostics]]
+- [[#Therapeutics]]
+- [[#See Also]]
+- [[#Sources]]
 
 ## Assessment
 

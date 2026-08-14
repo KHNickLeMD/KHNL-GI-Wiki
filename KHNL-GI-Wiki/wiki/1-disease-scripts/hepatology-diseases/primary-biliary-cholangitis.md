@@ -3,7 +3,7 @@ title: "Primary Biliary Cholangitis (PBC)"
 category: disease-script
 tags: [pbc, primary-biliary-cholangitis, cholestatic, ama, alkaline-phosphatase, ursodiol, udca, oca, obeticholic-acid, fibrates, pruritus, overlap, hpb, liver, autoimmune, pregnancy, cirrhosis]
 created: 2026-05-19
-updated: 2026-08-10
+updated: 2026-08-14
 sources: [aasld-2018-pbc, aasld-2021-pbc, acg-2017-liver-chemistries, acg-2016-liver-disease-pregnancy]
 ---
 
@@ -281,7 +281,7 @@ PBC confers a slightly elevated [[hepatocellular-carcinoma|HCC]] risk (3.9 cases
 
 **Outcomes:** Excellent — among the best of all liver disease indications. 1/3/5/10-year graft survival: 85%/80%/78%/72%; patient survival: 90%/87%/84%/79%.
 
-**Pregnancy and transplant listing:** Estrogens promote cholestasis; pruritus can worsen significantly during pregnancy and may not resolve after delivery. Standard variceal screening in second trimester for cirrhotic patients; short second stage of labor preferred to avoid Valsalva-precipitated variceal hemorrhage.
+**Pregnancy and transplant listing:** Estrogens promote cholestasis; pruritus can worsen significantly during pregnancy and may not resolve after delivery. Standard variceal screening in second trimester for cirrhotic patients; short second stage of labor preferred to avoid Valsalva-precipitated [[variceal-upper-gi-bleeding|variceal hemorrhage]].
 
 **Post-transplant:**
 
@@ -315,7 +315,7 @@ Present in 1–14.2% of PBC patients (higher in Hispanic patients). Worse outcom
 - PBC predominantly affects older women; pregnancy is infrequent but possible
 - Estrogens promote cholestasis; oral contraceptive pills and estrogen supplements may induce or worsen pruritus
 - During pregnancy, itching may become severe early and may fail to resolve completely after delivery
-- **Continue UDCA during pregnancy** (ACG 2016 [[acg-2016-liver-disease-pregnancy]] Rec 32 — Strong, very low evidence); potential risks of discontinuation (disease flare, hepatic decompensation) outweigh risks of UDCA use; growing safety evidence from use in intrahepatic cholestasis of pregnancy supports safety
+- **Continue UDCA during pregnancy** (ACG 2016 [[acg-2016-liver-disease-pregnancy]] Rec 32 — Strong, very low evidence); potential risks of discontinuation (disease flare, hepatic decompensation) outweigh risks of UDCA use; growing safety evidence from use in [[intrahepatic-cholestasis-of-pregnancy|intrahepatic cholestasis of pregnancy]] supports safety
 - **Variceal screening:** Second trimester (when maternal blood volume increases markedly); beta-blockers safe in pregnancy for variceal prophylaxis
 - **Labor:** Short second stage preferred to avoid Valsalva-precipitated variceal hemorrhage
 - Postpartum disease flare has been reported; close monitoring recommended
@@ -348,7 +348,7 @@ Risk of developing PBC is increased among first-degree relatives, especially fem
 
 ## See Also
 
-[[primary-sclerosing-cholangitis]], [[autoimmune-hepatitis]], [[drug-induced-liver-injury]], [[abnormal-liver-chemistries]], [[jaundice]], [[portal-hypertension]], [[hepatocellular-carcinoma]], [[hcc-surveillance]], [[liver-transplantation]], [[liver-disease-in-pregnancy]], [[tacrolimus]], [[cholangiocarcinoma]], [[nafld-masld]], [[mri-mrcp]], [[noninvasive-liver-disease-assessment]], [[liver-biopsy]], [[upper-endoscopy]], [[ascites]], [[obesity]]
+[[primary-sclerosing-cholangitis]], [[autoimmune-hepatitis]], [[drug-induced-liver-injury]], [[abnormal-liver-chemistries]], [[jaundice]], [[portal-hypertension]], [[hepatocellular-carcinoma]], [[hcc-surveillance]], [[liver-transplantation]], [[liver-disease-in-pregnancy]], [[tacrolimus]], [[cholangiocarcinoma]], [[nafld-masld]], [[mri-mrcp]], [[noninvasive-liver-disease-assessment]], [[liver-biopsy]], [[upper-endoscopy]], [[ascites]], [[obesity]], [[variceal-upper-gi-bleeding]], [[intrahepatic-cholestasis-of-pregnancy]]
 
 ---
 

@@ -3,7 +3,7 @@ title: "Noninvasive Liver Disease Assessment (NILDA)"
 category: concept
 tags: [nilda, fibrosis, steatosis, fib-4, elf, vcte, mre, mri-pdff, noninvasive, biomarkers, hpb, liver]
 created: 2026-05-31
-updated: 2026-07-31
+updated: 2026-08-14
 sources: [aasld-2024-nilda-blood, baveno-vii-2022-portal-hypertension, aasld-2023-nafld, aasld-2025-semaglutide-mash, aasld-2024-nilda-imaging, aasld-2024-nilda-portal-htn]
 ---
 
@@ -37,7 +37,7 @@ Baveno VII builds a parallel, portal-hypertension-oriented ladder on the same LS
 - **Repeat LSM every 12 months** in cACLD (B.2)
 - **Confirm a positive TE:** an index LSM ≥10 kPa should be repeated **fasting**, or corroborated with a serum marker — **FIB-4 ≥2.67, ELF ≥9.8, FibroTest ≥0.58** (alcohol/viral) or **≥0.48** (NAFLD) (B.2)
 - **Clinically significant *decrease*:** ≥20% drop with LSM <20 kPa, or any drop to <10 kPa (C.2)
-- **Spleen stiffness (SSM) by TE** in viral cACLD: <21 kPa rules out and >50 kPa rules in CSPH (B.2); ≤40 kPa identifies low probability of high-risk varices in NSBB-ineligible patients (C.2)
+- **Spleen stiffness (SSM) by TE** in viral cACLD: <21 kPa rules out and >50 kPa rules in CSPH (B.2); ≤40 kPa identifies low probability of high-risk [[variceal-upper-gi-bleeding|varices]] in NSBB-ineligible patients (C.2)
 
 *Note the divergence from the AASLD VCTE cut-offs above (rule-out <8, rule-in ≥12, cirrhosis ≥20 kPa): Baveno VII's ladder targets **CSPH and decompensation risk**, not histologic fibrosis stage, so the numbers are not interchangeable.*
 
@@ -49,7 +49,7 @@ Baveno VII builds a parallel, portal-hypertension-oriented ladder on the same LS
 
 ## See Also
 
-[[nafld-masld]], [[semaglutide]], [[portal-hypertension]], [[cirrhosis]], [[porto-sinusoidal-vascular-disorder]], [[primary-sclerosing-cholangitis]], [[primary-biliary-cholangitis]], [[hereditary-hemochromatosis]], [[liver-biopsy]], [[liver-stiffness-measurement]], [[resmetirom]], [[hcc-surveillance]]
+[[nafld-masld]], [[semaglutide]], [[portal-hypertension]], [[cirrhosis]], [[porto-sinusoidal-vascular-disorder]], [[primary-sclerosing-cholangitis]], [[primary-biliary-cholangitis]], [[hereditary-hemochromatosis]], [[liver-biopsy]], [[liver-stiffness-measurement]], [[resmetirom]], [[hcc-surveillance]], [[variceal-upper-gi-bleeding]], [[hepatic-venous-pressure-gradient]]
 
 ---
 

@@ -103,7 +103,7 @@ Cirrhosis stages (per clinical features and HVPG):
 **Recompensation (Baveno VII 7.22–7.24)** [[baveno-vii-2022-portal-hypertension]] — at least partial regression of the structural/functional changes of cirrhosis after removing its cause. Clinical recompensation requires **all** of:
 
 1. Removal/suppression/cure of the primary aetiology (HCV cure, sustained HBV suppression, sustained alcohol abstinence)
-2. Resolution of [[ascites]] (off diuretics) and of [[hepatic-encephalopathy|HE]] (off lactulose/rifaximin), and **no recurrent variceal haemorrhage for ≥12 months**
+2. Resolution of [[ascites]] (off diuretics) and of [[hepatic-encephalopathy|HE]] (off lactulose/[[rifaximin]]), and **no recurrent variceal haemorrhage for ≥12 months**
 3. Stable improvement in liver function (albumin, INR, bilirubin)
 
 Because CSPH may persist despite recompensation, **NSBBs should not be discontinued unless CSPH resolves**.
@@ -315,8 +315,7 @@ Baveno VII (6.27–6.31) states the criteria slightly differently and adds two p
 
 ## See Also
 
-
-[[cirrhosis]], [[variceal-upper-gi-bleeding]], [[ascites]], [[spontaneous-bacterial-peritonitis]], [[aki-in-cirrhosis]], [[hepatic-encephalopathy]], [[hepatocellular-carcinoma]], [[portal-vein-thrombosis]], [[budd-chiari-syndrome]], [[porto-sinusoidal-vascular-disorder]], [[noninvasive-liver-disease-assessment]], [[liver-stiffness-measurement]], [[hcc-surveillance]], [[liver-transplantation]], [[liver-disease-in-pregnancy]], [[hepatopulmonary-syndrome-portopulmonary-hypertension]], [[primary-sclerosing-cholangitis]], [[primary-biliary-cholangitis]], [[nafld-masld]], [[upper-endoscopy]], [[acute-on-chronic-liver-failure]], [[hepatic-venous-pressure-gradient]], [[interventional-eus-vascular]], [[abnormal-liver-chemistries]], [[liver-biopsy]], [[antibiotic-prophylaxis-cirrhosis]], [[proton-pump-inhibitors]], [[somatostatin-analogs]], [[enteral-access]], [[tips]]
+[[cirrhosis]], [[variceal-upper-gi-bleeding]], [[ascites]], [[spontaneous-bacterial-peritonitis]], [[aki-in-cirrhosis]], [[hepatic-encephalopathy]], [[hepatocellular-carcinoma]], [[portal-vein-thrombosis]], [[budd-chiari-syndrome]], [[porto-sinusoidal-vascular-disorder]], [[noninvasive-liver-disease-assessment]], [[liver-stiffness-measurement]], [[hcc-surveillance]], [[liver-transplantation]], [[liver-disease-in-pregnancy]], [[hepatopulmonary-syndrome-portopulmonary-hypertension]], [[primary-sclerosing-cholangitis]], [[primary-biliary-cholangitis]], [[nafld-masld]], [[upper-endoscopy]], [[acute-on-chronic-liver-failure]], [[hepatic-venous-pressure-gradient]], [[interventional-eus-vascular]], [[abnormal-liver-chemistries]], [[liver-biopsy]], [[antibiotic-prophylaxis-cirrhosis]], [[proton-pump-inhibitors]], [[somatostatin-analogs]], [[enteral-access]], [[tips]], [[rifaximin]]
 
 ---
 

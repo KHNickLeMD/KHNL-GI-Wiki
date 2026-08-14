@@ -3,7 +3,7 @@ title: "Cyclic Vomiting Syndrome (CVS)"
 category: disease-script
 tags: [cyclic-vomiting-syndrome, cvs, dgbi, vomiting, migraine, foregut, motility]
 created: 2026-07-18
-updated: 2026-08-12
+updated: 2026-08-14
 sources: [aga-2024-cvs, aga-2024-chs]
 ---
 
@@ -120,7 +120,7 @@ Highest abort probability when taken **early in the prodrome**. **Nearly all pat
 - **Recovery phase:** electrolyte-rich (sports drinks) / nutrient fluids over 1–2 days.
 
 ## See Also
-[[cannabinoid-hyperemesis-syndrome]], [[nausea-and-vomiting]], [[nausea-and-vomiting-of-pregnancy]], [[gastroparesis]], [[rumination-syndrome]], [[acute-hepatic-porphyria]], [[disorders-of-gut-brain-interaction]], [[upper-endoscopy]]
+[[cannabinoid-hyperemesis-syndrome]], [[nausea-and-vomiting]], [[nausea-and-vomiting-of-pregnancy]], [[gastroparesis]], [[rumination-syndrome]], [[dyspepsia]], [[acute-hepatic-porphyria]], [[disorders-of-gut-brain-interaction]], [[upper-endoscopy]]
 
 ---
 

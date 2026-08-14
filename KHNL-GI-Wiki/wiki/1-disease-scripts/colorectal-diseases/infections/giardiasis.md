@@ -46,7 +46,8 @@ sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
 
 - **Tinidazole 2 g single dose** — preferred (high efficacy, single dose).
 - **Metronidazole 250 mg TID × 5–7 days** — effective alternative.
-- **[[nitazoxanide|Nitazoxanide]] 500 mg BID × 3 days** — alternative.
+- **[[nitazoxanide|Nitazoxanide]]** — a first-choice option alongside tinidazole; **metronidazole is the alternative**. [[idsa-2017-infectious-diarrhea]]
+  - **Dose gap:** no ingested source gives a dose or duration for nitazoxanide, tinidazole, or metronidazole in giardiasis (IDSA 2017 Table 6 has no dose column; ACG 2016 names the agents only in prose). Previously stated regimens were unsourced and have been removed — a CDC/IDSA parasitic-disease treatment table would be needed.
 - Treat symptomatic infection; weigh treatment of incidental molecular-panel positives against symptoms and exposure.
 
 ---

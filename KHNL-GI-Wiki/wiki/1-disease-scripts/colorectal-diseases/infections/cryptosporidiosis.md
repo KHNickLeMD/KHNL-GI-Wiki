@@ -44,7 +44,9 @@ sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
 
 ## Therapeutics
 
-- **[[nitazoxanide]] 500 mg BID × 3 days** in immunocompetent hosts. [[acg-2016-acute-diarrhea]]
+- **[[nitazoxanide]]** is the named agent for cryptosporidiosis in immunocompetent hosts. [[acg-2016-acute-diarrhea]], [[idsa-2017-infectious-diarrhea]]
+  - **In HIV infection, nitazoxanide only in combination with effective cART** — with effective cART the agent is not applicable, since immune reconstitution itself drives microbiologic and clinical response. [[idsa-2017-infectious-diarrhea]]
+  - **Dose gap:** neither ingested source states a nitazoxanide dose or duration. The commonly cited "500 mg BID × 3 days" is **not in the corpus** and has been removed rather than asserted — a CDC/IDSA parasitic-disease treatment table would be needed.
 - **Immunocompromised:** restore immunity — **antiretroviral therapy / immune reconstitution** is the key intervention; nitazoxanide has limited efficacy in advanced immunosuppression.
 - **Supportive:** aggressive rehydration for high-volume losses.
 - **Public health / prevention:** chlorine-resistant oocysts → water treatment needs **filtration, UV, or ozone**; exclude from recreational water while symptomatic.

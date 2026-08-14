@@ -3,7 +3,7 @@ title: "Eluxadoline"
 category: med
 tags: [ibs, ibs-d, mu-opioid-agonist, delta-opioid-antagonist, viberzi]
 created: 2026-07-26
-updated: 2026-08-02
+updated: 2026-08-14
 sources: [aga-2022-ibs-d, acg-2020-ibs]
 ---
 
@@ -35,7 +35,7 @@ Two phase 3 RCTs (100 mg BID, ~808 vs 809 placebo; 26-week data): [[aga-2022-ibs
 
 ## See Also
 
-[[irritable-bowel-syndrome]], [[alosetron]], [[rifaximin]], [[sphincter-of-oddi-dysfunction]], [[acute-pancreatitis]]
+[[irritable-bowel-syndrome]], [[alosetron]], [[rifaximin]], [[loperamide]], [[sphincter-of-oddi-dysfunction]], [[acute-pancreatitis]], [[calcineurin-inhibitors]], [[disorders-of-gut-brain-interaction]]
 
 ---
 

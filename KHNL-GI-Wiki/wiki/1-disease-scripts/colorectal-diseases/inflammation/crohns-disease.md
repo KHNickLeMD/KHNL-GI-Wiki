@@ -3,7 +3,7 @@ title: "Crohn's Disease"
 category: disease-script
 tags: [crohns, ibd, biologics, ileitis, colitis, perianal-fistula, stricture, fistula, anti-tnf]
 created: 2026-05-07
-updated: 2026-08-12
+updated: 2026-08-14
 sources: [acg-2025-crohns, aga-2025-crohns-pharm, aga-2021-crohns-pharm, aga-2023-biomarkers-cd, acg-2018-crohns, asge-2015-scenic-ibd-dysplasia, asge-2015-ibd, aga-2026-inpatient-ibd, aga-2026-therapeutic-endoscopy-ibd, aga-2024-intestinal-ultrasound, aga-2024-diet-nutrition-ibd, aga-2024-ibd-malignancy, aga-2024-pregnancy-gi-liver]
 ---
 
@@ -137,7 +137,7 @@ No single pathognomonic test. Diagnosis = integration of:
 
 ### Treatment Goals
 
-- Clinical remission (CDAI <150; symptom-free)
+- Clinical remission (CDAI <150; symptom-free — i.e. no increased stool frequency or abdominal pain). **CDAI is a clinical-trial instrument, not a practice tool** ([[acg-2025-crohns]]): at the bedside grade activity by symptoms (abdominal pain, stool frequency) **plus** elevated biomarkers or activity on endoscopy/imaging.
 - Endoscopic remission (no ulceration; SES-CD ≤2)
 - Steroid-free maintenance
 - Prevention of complications (stricture, fistula, surgery)
@@ -164,7 +164,7 @@ No single pathognomonic test. Diagnosis = integration of:
 - **[[nutrition-in-ibd#EEN|Exclusive enteral nutrition (EEN)]]** — induces clinical remission + endoscopic response (stronger evidence in children; remission 60–80%, ≈ corticosteroids); **first-line steroid-sparing** in pediatric CD; steroid-sparing **bridge** in adults (limited by adherence). Typically 6–8 wk of polymeric liquid formula only.
 - **[[nutrition-in-ibd#CDED (Partial Enteral Nutrition)|Crohn's disease exclusion diet (CDED)]]** — partial enteral nutrition; effective induction in **mild–moderate CD of short duration**; better tolerated than EEN in children; may salvage biologic loss-of-response.
 - **Preoperative EEN** — in malnourished CD before elective surgery: optimizes nutrition and **reduces postoperative complications** ("prehabilitation").
-- **Malnutrition** — screen all patients (weight loss, fat/muscle loss); serum albumin no longer used to diagnose (nonspecific, inflammation-sensitive). Monitor **vitamin D, iron**; **vitamin B12** with ileal disease/resection >30 cm or ileoanal pouch.
+- **Malnutrition** — screen all patients (weight loss, fat/muscle loss); serum albumin no longer used to diagnose (nonspecific, inflammation-sensitive). Monitor **vitamin D, iron**; **vitamin B12** with ileal disease/resection >30 cm or [[pouchitis|ileoanal pouch]].
 
 ---
 

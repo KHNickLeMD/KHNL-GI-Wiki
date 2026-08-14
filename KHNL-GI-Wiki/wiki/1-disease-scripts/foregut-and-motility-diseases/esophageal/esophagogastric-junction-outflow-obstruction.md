@@ -3,7 +3,7 @@ title: "Esophagogastric Junction Outflow Obstruction (EGJOO)"
 category: disease-script
 tags: [egjoo, esophageal-motility, dysphagia, hrm, chicago-classification, foregut]
 created: 2026-07-29
-updated: 2026-08-13
+updated: 2026-08-14
 sources: [aga-2024-poem-advances]
 ---
 # Esophagogastric Junction Outflow Obstruction (EGJOO)
@@ -18,7 +18,7 @@ A **manometric finding, not a diagnosis** — impaired EGJ relaxation with prese
   - Elevated **median integrated relaxation pressure (IRP)** in **both supine and upright** positions, **and**
   - Elevated **intrabolus pressure in ≥20% of supine swallows**.
 - Not pathognomonic for any single disease; a clinically relevant diagnosis requires correlating manometry with symptoms and confirmatory compliance testing.
-- **Confirmatory / supportive testing:** [[flip-panometry|FLIP]] (impedance planimetry), timed barium esophagram, and pH study — to exclude [[gerd|GERD]] and document symptomatic delayed esophageal emptying.
+- **Confirmatory / supportive testing:** [[flip-panometry|FLIP]] (impedance planimetry), timed barium esophagram, and [[ambulatory-reflux-monitoring|pH study]] — to exclude [[gerd|GERD]] and document symptomatic delayed esophageal emptying.
 
 ## Differential Diagnosis
 
@@ -46,7 +46,7 @@ EGJOO is associated with a multitude of alternative causes that must be excluded
 
 ## See Also
 
-[[achalasia]], [[dysphagia]], [[high-resolution-manometry]], [[chicago-classification-v4]], [[flip-panometry]], [[poem]], [[distal-esophageal-spasm]], [[hypercontractile-esophagus]], [[gerd]], [[upper-endoscopy]], [[subepithelial-lesion]], [[obesity]]
+[[achalasia]], [[dysphagia]], [[high-resolution-manometry]], [[chicago-classification-v4]], [[flip-panometry]], [[poem]], [[distal-esophageal-spasm]], [[hypercontractile-esophagus]], [[gerd]], [[upper-endoscopy]], [[subepithelial-lesion]], [[obesity]], [[ambulatory-reflux-monitoring]], [[ineffective-esophageal-motility]]
 
 ---
 

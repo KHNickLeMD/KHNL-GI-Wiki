@@ -125,7 +125,7 @@ Subtypes by Bristol Stool Form Scale **on days with abnormal stools** (assess of
 6. Refractory: re-examine diagnosis; ARM+BET; specialty referral; consider neuromodulators
 
 ## See Also
-[[disorders-of-gut-brain-interaction]], [[abdominal-bloating-and-distention]], [[postinfectious-ibs]], [[chronic-idiopathic-constipation]], [[defecation-disorders]], [[small-intestinal-bacterial-overgrowth]], [[celiac-disease]], [[alpha-gal-syndrome]], [[rifaximin]], [[linaclotide]], [[plecanatide]], [[lubiprostone]], [[alosetron]], [[eluxadoline]], [[tegaserod]], [[anorectal-manometry]], [[fmt]]
+[[disorders-of-gut-brain-interaction]], [[abdominal-bloating-and-distention]], [[postinfectious-ibs]], [[chronic-idiopathic-constipation]], [[defecation-disorders]], [[small-intestinal-bacterial-overgrowth]], [[intestinal-methanogen-overgrowth]], [[microscopic-colitis]], [[bile-acid-diarrhea]], [[celiac-disease]], [[alpha-gal-syndrome]], [[rifaximin]], [[linaclotide]], [[plecanatide]], [[lubiprostone]], [[alosetron]], [[eluxadoline]], [[tegaserod]], [[anorectal-manometry]], [[fmt]]
 
 ---
 

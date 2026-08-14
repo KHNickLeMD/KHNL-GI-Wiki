@@ -218,7 +218,7 @@ Higher doses of vancomycin (>125 mg QID) are not recommended for severe CDI — 
 
 - **Initial CDI in IBD → prefer fidaxomicin** (vancomycin if fidaxomicin unavailable/cost-prohibitive); **metronidazole should not be used** (newer same-tier guidance — see Contradiction note below)
 - Use a **multistep toxin-based assay** (NAAT alone over-diagnoses colonization, which is common in IBD)
-- Exclude/treat CDI in patients with an **end ileostomy or ileo-anal pouch** and worsening diarrhea; retest if diarrhea recurs after successful treatment
+- Exclude/treat CDI in patients with an **end ileostomy or [[pouchitis|ileo-anal pouch]]** and worsening diarrhea; retest if diarrhea recurs after successful treatment
 - Strongly consider **hospitalization** for severe colitis/systemic toxicity (>6 BM/day, severe pain, marked leukocytosis, hemodynamic instability, sepsis)
 - **Continue immunosuppressive IBD therapy** during acute CDI (immunomodulators, biologics, small molecules; steroids if needed) — **no drug class has a differential CDI risk**, so choose the best IBD therapy
 - If symptoms persist **48–72 h** after starting CDI treatment → endoscopic evaluation for IBD activity **and exclude CMV**
@@ -246,7 +246,7 @@ Higher doses of vancomycin (>125 mg QID) are not recommended for severe CDI — 
 
 ## See Also
 
-[[acute-diarrhea]], [[ulcerative-colitis]], [[crohns-disease]], [[inflammatory-bowel-disease]], [[colonoscopy]], [[salmonella-infection]], [[campylobacter-infection]], [[enterotoxigenic-e-coli]], [[norovirus]], [[irritable-bowel-syndrome]], [[postinfectious-ibs]], [[microscopic-colitis]], [[colon-ischemia]], [[toxic-megacolon]], [[ostomy-management]], [[fmt]], [[probiotics]], [[loperamide]], [[rifaximin]], [[proton-pump-inhibitors]]
+[[acute-diarrhea]], [[ulcerative-colitis]], [[crohns-disease]], [[inflammatory-bowel-disease]], [[colonoscopy]], [[salmonella-infection]], [[campylobacter-infection]], [[enterotoxigenic-e-coli]], [[norovirus]], [[irritable-bowel-syndrome]], [[postinfectious-ibs]], [[microscopic-colitis]], [[colon-ischemia]], [[toxic-megacolon]], [[ostomy-management]], [[pouchitis]], [[fmt]], [[probiotics]], [[loperamide]], [[rifaximin]], [[proton-pump-inhibitors]]
 
 ---
 

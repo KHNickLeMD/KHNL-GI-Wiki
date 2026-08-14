@@ -3,7 +3,7 @@ title: "Pouchitis"
 category: disease-script
 tags: [pouchitis, ipaa, j-pouch, ulcerative-colitis, ibd, cuffitis, crohns-like-disease-of-the-pouch, antibiotics, probiotics, biologics]
 created: 2026-06-04
-updated: 2026-08-05
+updated: 2026-08-14
 sources: [aga-2024-pouchitis, aga-2020-probiotics, asge-2015-ibd]
 ---
 
@@ -11,6 +11,7 @@ Pouchitis is non-specific inflammation of the ileal pouch reservoir — the most
 
 ## Contents
 - [[#Assessment]]
+  - [[#Epidemiology / Scope]]
   - [[#Establishing the Diagnosis]]
   - [[#Subtype Classification]]
 - [[#Differential Diagnosis]]
@@ -51,10 +52,13 @@ Pragmatic, treatment-anchored definitions (AGA 2024, Table 5):
 ---
 
 ## Differential Diagnosis
+
+*Workup: see [[chronic-diarrhea]].*
+
 - **[[crohns-disease|Crohn's]]-like disease of the pouch** — fistula, stricture, pre-pouch ileitis (drives escalation to steroids/biologics).
 - **Cuffitis** — residual UC in the rectal cuff; responds to UC-directed topical therapy.
 - **Structural/surgical:** anastomotic stricture, pouch outlet obstruction, afferent/efferent limb issues, pelvic sepsis/leak.
-- **Functional:** irritable pouch syndrome (symptoms without endoscopic inflammation).
+- **[[disorders-of-gut-brain-interaction|Functional]]:** irritable pouch syndrome (symptoms without endoscopic inflammation).
 - **Other mucosal:** ischemia, infection (including *[[clostridioides-difficile|C. difficile]]*, CMV), NSAID injury.
 - Out of scope of the AGA 2024 guideline: pouches created for **Crohn's** or **[[familial-adenomatous-polyposis|FAP]]**, and pouch dysplasia surveillance.
 
@@ -131,7 +135,7 @@ All 13 AGA 2024 statements (9 actionable conditional recommendations + 4 "no rec
 
 ## See Also
 
-[[ulcerative-colitis]], [[crohns-disease]], [[inflammatory-bowel-disease]], [[probiotics]], [[colonoscopy]], [[primary-sclerosing-cholangitis]], [[clostridioides-difficile]], [[rifaximin]]
+[[ulcerative-colitis]], [[crohns-disease]], [[inflammatory-bowel-disease]], [[probiotics]], [[colonoscopy]], [[primary-sclerosing-cholangitis]], [[clostridioides-difficile]], [[rifaximin]], [[chronic-diarrhea]], [[ibd-endoscopic-scoring]], [[disorders-of-gut-brain-interaction]], [[ostomy-management]]
 
 ---
 

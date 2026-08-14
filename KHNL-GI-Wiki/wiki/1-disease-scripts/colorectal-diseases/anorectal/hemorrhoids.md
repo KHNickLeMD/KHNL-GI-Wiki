@@ -26,14 +26,17 @@ The diagnosis of symptomatic internal hemorrhoids requires exclusion of other so
 
 ### Severity Assessment / Classification
 
-**Internal hemorrhoid grade (based on prolapse degree):**
+**Goligher's classification** — internal hemorrhoids graded by **degree of prolapse relative to the dentate line**; grading is based mostly on **history** (findings can be confirmed on exam, but a good history classifies the grade) *(Table 1, [[aga-2026-hemorrhoids|AGA 2026]])*:
 
 | Grade | Description |
 |-------|-------------|
-| Grade I | Bulge into anal canal but do not prolapse |
-| Grade II | Prolapse with straining/defecation; reduce spontaneously |
-| Grade III | Prolapse; require manual reduction |
-| Grade IV | Prolapsed and irreducible; incarcerated |
+| Grade 1 | Do **not** prolapse below the dentate line; bleeding only |
+| Grade 2 | Prolapse below the dentate line during defecation but **spontaneously reduce** |
+| Grade 3 | Prolapse below the dentate line and require **manual reduction** |
+| Grade 4 | Prolapse and **stay** below the dentate line; **not reducible** |
+
+- Grade is the main driver of treatment selection — see Therapeutics.
+- **No standard classification exists for external hemorrhoids** — description is frequently subjective. Bleeding is more likely from internal hemorrhoids, itching from external. *(AGA 2026)*
 
 ---
 
@@ -43,8 +46,8 @@ The diagnosis of symptomatic internal hemorrhoids requires exclusion of other so
 
 | Condition | Key Features |
 |-----------|-------------|
-| [[rectal-prolapse\|Rectal prolapse]] (full-thickness) | Circumferential folds (vs. radial folds of hemorrhoids); palpable thickness; can be confused with Grade IV hemorrhoids |
-| [[anal-fissure\|Anal fissure]] | Painful bright red bleeding; fissure visible at anoscopy |
+| [[rectal-prolapse\|Rectal prolapse]] (full-thickness) | Circumferential folds (vs. radial folds of hemorrhoids); palpable thickness; can be confused with Grade 4 hemorrhoids |
+| [[anal-fissure\|Anal fissure]] | Sharp pain on defecation or on digital rectal exam; fissure visible at anoscopy. **Coexists with hemorrhoid disease in up to 20%** — when both are present, **treat the fissure first** *(AGA 2026)* |
 | [[colorectal-cancer\|Colorectal cancer]] | Change in bowel habits, weight loss, [[iron-deficiency-anemia\|iron deficiency anemia]]; [[colonoscopy]] required |
 | [[inflammatory-bowel-disease\|IBD]] (Crohn's proctitis) | Diarrhea, urgency; risk of complicating any anorectal procedure; [[crohns-disease]] |
 | Rectal polyp/cancer | Digital exam + sigmoidoscopy/colonoscopy |
@@ -79,15 +82,15 @@ The diagnosis of symptomatic internal hemorrhoids requires exclusion of other so
 - Topical agents (anesthetics, witch hazel, corticosteroids, vasoactive agents): limited efficacy data; **topical steroids ≤2 weeks at a time** *(AGA 2026)*
 - **Anoscopy on every new patient before treatment** to confirm the diagnosis; counsel patients during informed consent about rare **pelvic sepsis** (present to ED if symptomatic) *(AGA 2026)*
 
-### Office-Based Procedures (Grades I–III, Medical Therapy Failures)
+### Office-Based Procedures (Grades 1–3, Medical Therapy Failures)
 
 | Procedure | Indication | Efficacy | Notes |
 |-----------|-----------|---------|-------|
-| **Rubber band ligation (RBL)** | Grade I–III | Strong/Moderate — preferred; lower need for retreatment vs IRC/sclerotherapy. RBL is also the initial endoscopic treatment of choice for bleeding/prolapsing 2nd–3rd-degree internal hemorrhoids failing conservative care *(ASGE 2010)* [[asge-2010-anorectal-disorders]] | Banding at base of hemorrhoid above dentate line; most popular and effective; complications: pain (1–4 days), bleeding (1–2%), thrombosis of external component, rare life-threatening sepsis in immunocompromised |
-| **Infrared coagulation (IRC)** | Grade I–II | Strong/Moderate — similar to RBL for Grade I–II | Faster; less pain than banding; higher retreatment rate |
-| **Sclerotherapy** | Grade I–II | Alternative; similar to IRC | Injection of sclerosing agent; effective for bleeding Grade I–II; useful for patients on [[anticoagulation-gi-bleeding\|anticoagulation]] |
-| **Bipolar coagulation** | Grade I–II | Strong/Moderate — ACG-listed alternative to RBL (grouped with IRC/sclerotherapy in the recommendation) | Cauterizes hemorrhoid base; outcomes similar to IRC |
-| **Doppler-guided hemorrhoidal artery ligation (DGHAL)** | Grade III | Conditional/Very Low — similar outcomes to hemorrhoidectomy | Minimally invasive; no tissue excision; Doppler identifies feeding arteries; used in Europe more than US |
+| **Rubber band ligation (RBL)** | Grade 1–3 | Strong/Moderate — preferred; lower need for retreatment vs IRC/sclerotherapy. RBL is also the initial endoscopic treatment of choice for bleeding/prolapsing 2nd–3rd-degree internal hemorrhoids failing conservative care *(ASGE 2010)* [[asge-2010-anorectal-disorders]] | Banding at base of hemorrhoid above dentate line; most popular and effective; complications: pain (1–4 days), bleeding (1–2%), thrombosis of external component, rare life-threatening sepsis in immunocompromised |
+| **Infrared coagulation (IRC)** | Grade 1–2 | Strong/Moderate — similar to RBL for Grade 1–2 | Faster; less pain than banding; higher retreatment rate |
+| **Sclerotherapy** | Grade 1–2 | Alternative; similar to IRC | Injection of sclerosing agent; effective for bleeding Grade 1–2; useful for patients on [[anticoagulation-gi-bleeding\|anticoagulation]] |
+| **Bipolar coagulation** | Grade 1–2 | Strong/Moderate — ACG-listed alternative to RBL (grouped with IRC/sclerotherapy in the recommendation) | Cauterizes hemorrhoid base; outcomes similar to IRC |
+| **Doppler-guided hemorrhoidal artery ligation (DGHAL)** | Grade 3 | Conditional/Very Low — similar outcomes to hemorrhoidectomy | Minimally invasive; no tissue excision; Doppler identifies feeding arteries; used in Europe more than US |
 
 **Avoid RBL in:** acute perianal [[crohns-disease|Crohn's disease]]; immunocompromise (high sepsis risk); patients on full anticoagulation.
 
@@ -99,9 +102,9 @@ The diagnosis of symptomatic internal hemorrhoids requires exclusion of other so
 - After 4 days: conservative management (sitz baths, analgesia, stool softeners) as symptoms typically improving by then
 - Conservative management alone: acceptable; clot reabsorbs in 2–3 weeks but may leave skin tag
 
-### Surgery (Grade III–IV, Office Procedure Failures)
+### Surgery (Grade 3–4, Office Procedure Failures)
 
-**Traditional hemorrhoidectomy** remains the gold standard for Grade IV and refractory Grade III:
+**Traditional hemorrhoidectomy** remains the gold standard for Grade 4 and refractory Grade 3:
 
 - Open or closed technique
 - More painful than office procedures; 2–4 weeks recovery
@@ -110,7 +113,7 @@ The diagnosis of symptomatic internal hemorrhoids requires exclusion of other so
 
 **Stapled hemorrhoidopexy (PPH):** higher complication and recurrence rates compared to conventional hemorrhoidectomy — generally avoided per ACG 2021.
 
-**DGHAL/mucopexy:** alternative to hemorrhoidectomy for Grade III; Conditional/Very Low evidence.
+**DGHAL/mucopexy:** alternative to hemorrhoidectomy for Grade 3; Conditional/Very Low evidence.
 
 ### Special Populations (AGA 2026)
 
@@ -119,7 +122,7 @@ The diagnosis of symptomatic internal hemorrhoids requires exclusion of other so
 | Active [[crohns-disease\|Crohn's]] or [[ulcerative-colitis\|UC]] | **Defer hemorrhoid treatment until complete remission** |
 | Pregnancy | Hemorrhoids in up to ⅔ of women; conservative first (fiber, treat constipation, topical ointments); banding/IRC if symptoms persist postpartum or further pregnancies planned |
 | [[cirrhosis\|Cirrhosis]] / [[portal-hypertension\|portal hypertension]] | Carefully distinguish hemorrhoids from **rectal varices**; banding or IRC both acceptable; **IRC preferred over banding if significant coagulopathy** (platelets <50,000/µL or INR >2.0); portal hypertension itself does not change the approach |
-| Grade III failing banding or with external component | Offer **surgical consultation**; large isolated skin tags removable without hemorrhoidectomy |
+| Grade 3 failing banding or with external component | Offer **surgical consultation**; large isolated skin tags removable without hemorrhoidectomy |
 
 ---
 

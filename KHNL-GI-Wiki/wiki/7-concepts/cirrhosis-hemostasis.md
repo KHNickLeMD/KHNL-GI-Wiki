@@ -3,7 +3,7 @@ title: "Hemostasis in Cirrhosis"
 category: concept
 tags: [cirrhosis, coagulopathy, hemostasis, inr, platelets, ffp, teg, rotem, pvt, anticoagulation]
 created: 2026-05-21
-updated: 2026-07-17
+updated: 2026-08-14
 sources: [acg-2020-hepatic-mesenteric-circulation, aga-2021-cirrhosis-coagulation]
 ---
 
@@ -27,29 +27,39 @@ The net effect: hemostasis may be near-normal, impaired, or hypercoagulable depe
 
 ---
 
-## Clinical Implications
+## Periprocedural Management — AGA 2021 Recommendations
 
-**Do NOT use FFP prophylactically before procedures** (Conditional, Low evidence) [[acg-2020-hepatic-mesenteric-circulation]]:
+Scope — the guideline's "common gastrointestinal procedures" are exactly six: **paracentesis, thoracentesis, variceal banding ([[variceal-upper-gi-bleeding|EVL]]), colonic [[polypectomy]], [[ercp|ERCP]], and [[liver-biopsy|liver biopsy]]** ([[aga-2021-cirrhosis-coagulation]]). Every recommendation below is scoped to **stable** cirrhosis undergoing those procedures.
 
-- FFP does not reliably correct INR in cirrhosis
-- Volume overload risk without hemostatic benefit
-- Reserve for active bleeding + documented coagulation factor deficiency
+| PICO | Recommendation (stable cirrhosis, common GI procedures) | Strength / certainty |
+|---|---|---|
+| 1A — viscoelastic testing (VET: TEG/ROTEM) before procedures | **No recommendation** — labelled a knowledge gap | No recommendation (knowledge gap) |
+| 1B — PT/INR + platelet testing before procedures | **Against** extensive preprocedural testing, including **repeated** PT/INR or platelet measurement | Conditional / very low |
+| 2A — preprocedural FFP or platelet transfusion | **Against routine** blood products for bleeding prophylaxis | Conditional / very low |
+| 2B — TPO receptor agonists (avatrombopag, lusutrombopag) | **Against routine** use for bleeding prophylaxis, particularly before "low-risk" procedures | Conditional / very low |
+| 3 — VTE prophylaxis in **hospitalized** cirrhosis | **Standard anticoagulation prophylaxis** when the patient otherwise meets standard VTE-prophylaxis criteria | Conditional / very low |
+| 4 — routine screening for [[portal-vein-thrombosis\|PVT]] | **Against** routine screening. Does **not** apply to patients listed for [[liver-transplantation\|liver transplantation]] | Conditional / very low |
+| 5 — treatment of acute/subacute **nontumoral** PVT | **Anticoagulation over no anticoagulation** | Conditional / very low |
+| 6 — atrial fibrillation with an anticoagulation indication | **Anticoagulation over no anticoagulation**. Reasonable to decline in CTP class C and/or low CHA₂DS₂-VASc | Conditional / very low |
 
-**Do NOT give prophylactic platelets for routine procedures** (Conditional, Very Low evidence):
+**Qualifiers that carry the decision** ([[aga-2021-cirrhosis-coagulation]]):
 
-- Platelet count alone does not predict periprocedural bleeding in cirrhosis
-- Exception: very low platelet count (<50,000) before high-risk procedures + renal dysfunction may warrant discussion
+- The 2A recommendation applies to the **majority** of stable patients — those *without* severe thrombocytopenia or severe coagulopathy. With **severe derangement + a high-bleeding-risk procedure**, discuss prophylactic transfusion (benefits, transfusion reactions, procedure delay) **in consultation with a hematologist**.
+- **No threshold defines "severe."** The literature supported **no** PT/INR or platelet cutoff predicting bleeding; the threshold for severe thrombocytopenia/coagulopathy "could not be clearly defined" and remains clinical judgment. The studies reviewed typically defined coagulopathy as **INR >1.8 and/or platelets <50,000/µL**, and *in vitro* data suggest **platelets >55,000/µL** provide adequate substrate for thrombin generation — but neither is a validated clinical trigger.
+- **What does track with bleeding:** progressive decompensation by Child-Turcotte-Pugh class (after variceal banding, polypectomy — especially larger polyps — and endoscopic sphincterotomy), [[acute-on-chronic-liver-failure|ACLF]], and [[aki-in-cirrhosis|acute kidney injury]]. Lower platelet counts trended with higher bleeding risk without a defined cutoff.
+- Procedures were split **low- vs high-bleeding-risk at a 1.5% threshold** (literature review + expert interpretation).
+- **TPO-RA harm:** ~**1% thrombotic-event risk at 30 days** for avatrombopag and lusutrombopag — the reason the recommendation runs against routine use.
+- **VTE prophylaxis:** VTE incidence in cirrhosis is typically **0.5–1.9%**; use standard risk-assessment models (**Padua Prediction Score**, **IMPROVE**) and weigh VTE against bleeding risk.
 
-**Do NOT use antifibrinolytics prophylactically** (Conditional, Very Low evidence):
+**Antifibrinolytics** — do not use prophylactically (Conditional, very low) [[acg-2020-hepatic-mesenteric-circulation]]; reserve for confirmed hyperfibrinolysis (seen in ACLF and the liver-transplant anhepatic phase).
 
-- Reserve for confirmed hyperfibrinolysis (seen in [[acute-on-chronic-liver-failure|acute-on-chronic liver failure]], [[liver-transplantation|LT]] anhepatic phase)
+**Why FFP fails here** [[acg-2020-hepatic-mesenteric-circulation]]: it does not reliably correct INR in cirrhosis and adds volume-overload risk without hemostatic benefit — reserve it for active bleeding with a documented factor deficiency.
 
-**Use TEG/ROTEM for guidance** (Conditional, Low evidence):
+---
 
-- Whole-blood viscoelastic tests assess clot formation, strength, and lysis in real time
-- Better reflects global hemostasis than PT/INR + platelet count
-- Can identify specific defects (fibrinolysis, platelet dysfunction, factor deficiency)
-- Used to avoid unnecessary blood product transfusion before procedures
+## Contradictions / Open Questions
+
+- **TEG/ROTEM (VET).** [[acg-2020-hepatic-mesenteric-circulation|ACG 2020]] suggested using viscoelastic testing to guide periprocedural transfusion (Conditional, low). [[aga-2021-cirrhosis-coagulation|AGA 2021]] reviewed the same question and made **no recommendation**, labelling it an evidence gap: VET did not change post-procedural bleeding (RR 0.33, 95% CI 0.01–7.87) or 90-day mortality (RR 1.05, 95% CI 0.45–2.44), though it trended toward **lower blood-product use**. Both are society guidelines, so the **newer AGA 2021 position governs this page** — VET is not established for periprocedural risk prediction. Readers carrying the 2020 rule should note the change.
 
 ---
 
@@ -66,7 +76,7 @@ Cirrhotic patients are paradoxically prone to venous thromboembolism [[acg-2020-
 
 ## See Also
 
-[[portal-vein-thrombosis]], [[budd-chiari-syndrome]], [[spontaneous-bacterial-peritonitis]], [[aki-in-cirrhosis]], [[acute-on-chronic-liver-failure]], [[anticoagulation-gi-bleeding]], [[liver-biopsy]], [[liver-transplantation]], [[portal-hypertension]], [[variceal-upper-gi-bleeding]]
+[[cirrhosis]], [[portal-vein-thrombosis]], [[budd-chiari-syndrome]], [[spontaneous-bacterial-peritonitis]], [[aki-in-cirrhosis]], [[acute-on-chronic-liver-failure]], [[anticoagulation-gi-bleeding]], [[liver-biopsy]], [[liver-transplantation]], [[portal-hypertension]], [[variceal-upper-gi-bleeding]], [[ercp]], [[polypectomy]], [[antibiotic-prophylaxis-cirrhosis]]
 
 ---
 

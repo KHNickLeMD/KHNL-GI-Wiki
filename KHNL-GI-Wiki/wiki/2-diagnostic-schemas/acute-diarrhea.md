@@ -3,7 +3,7 @@ title: "Acute Diarrhea"
 category: diagnostic-schema
 tags: [diarrhea, infectious-diarrhea, travelers-diarrhea, gastroenteritis, acute, dysentery, loperamide, antibiotic, prevention]
 created: 2026-05-19
-updated: 2026-08-11
+updated: 2026-08-14
 sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
 ---
 
@@ -67,7 +67,7 @@ Acute diarrhea is defined as an increase in stool frequency or looseness above t
 - [[clostridioides-difficile]] — postantibiotic; healthcare-associated; always test if recent antibiotics (covered by separate ACG guideline [[acg-2021-cdiff]])
 - [[irritable-bowel-syndrome]] — particularly [[postinfectious-ibs|postinfectious IBS]] — onset after acute gastroenteritis; Rome IV/V criteria
 - [[inflammatory-bowel-disease|Inflammatory bowel disease]] ([[crohns-disease]], [[ulcerative-colitis]]) — flare or new diagnosis
-- [[microscopic-colitis|Microscopic colitis]] — watery, non-bloody; older women; NSAIDs/PPIs/SSRIs
+- [[microscopic-colitis|Microscopic colitis]] — watery, non-bloody; older women; NSAIDs/[[proton-pump-inhibitors|PPIs]]/SSRIs
 - [[celiac-disease|Celiac disease]] — malabsorptive; persistent
 - Medication-induced diarrhea (antibiotics, metformin, colchicine)
 - [[colon-ischemia|Ischemic colitis]] — sudden onset bloody diarrhea; elderly with vascular disease
@@ -243,12 +243,19 @@ Suspect in a febrile traveler (diarrhea often absent) from an endemic area, or w
 
 **Parasite-Specific Antibiotic Therapy:**
 
-- [[giardiasis]]: metronidazole 250 mg TID × 5–7 days, OR tinidazole 2 g single dose, OR [[nitazoxanide]] 500 mg BID × 3 days
-- [[entamoeba-histolytica-infection]]: metronidazole 500–750 mg TID × 7–10 days, OR tinidazole 2 g QD × 3 days
-- [[cryptosporidiosis]]: nitazoxanide 500 mg BID × 3 days (immunocompetent)
-- *Cyclospora/Cystoisospora*: trimethoprim/sulfamethoxazole DS BID × 7–10 days
-- *Enterocytozoon bieneusi*: albendazole 400 mg BID, OR iodoquinol
-- *Dientamoeba fragilis*: iodoquinol
+**Agent selection is sourced; doses are not.** ACG 2016 names these agents in prose and IDSA 2017 Table 6 has **no dose column** — so the agent-per-pathogen mapping below is what the corpus supports:
+
+| Pathogen | Agent(s) |
+|---|---|
+| [[giardiasis\|*Giardia*]] | **Tinidazole** or **[[nitazoxanide]]** (first choice); **metronidazole** alternative [[idsa-2017-infectious-diarrhea]] |
+| [[entamoeba-histolytica-infection\|*Entamoeba histolytica*]] | **Metronidazole** or **tinidazole** [[acg-2016-acute-diarrhea]] |
+| [[cryptosporidiosis\|*Cryptosporidium*]] | **[[nitazoxanide]]** — in HIV infection, only with effective cART [[idsa-2017-infectious-diarrhea]] |
+| *Cyclospora cayetanensis* | **TMP-SMX**; nitazoxanide alternative (limited data) [[idsa-2017-infectious-diarrhea]] |
+| *Cystoisospora belli* | **TMP-SMX** or **pyrimethamine**; second-line ciprofloxacin or nitazoxanide [[idsa-2017-infectious-diarrhea]] |
+| *Enterocytozoon bieneusi* | **Albendazole** [[acg-2016-acute-diarrhea]] |
+| *Dientamoeba fragilis* | **Iodoquinol** [[acg-2016-acute-diarrhea]] |
+
+> **Dose gap — deliberately not filled.** No ingested source states doses or durations for any of these antiparasitic regimens. The previously listed figures (metronidazole 250 mg TID × 5–7 d, tinidazole 2 g single dose, nitazoxanide 500 mg BID × 3 d, TMP-SMX DS BID × 7–10 d, albendazole 400 mg BID) were **not traceable to the corpus** and have been removed. A CDC/IDSA parasitic-disease treatment table would be needed to restore them.
 
 ### Empiric Antibiotic Decision (IDSA 2017)
 
@@ -308,7 +315,7 @@ The following features should prompt microbiologic assessment, consideration of 
 
 ## See Also
 
-[[clostridioides-difficile]], [[fever-returning-traveler]], [[irritable-bowel-syndrome]], [[postinfectious-ibs]], [[chronic-diarrhea]], [[inflammatory-bowel-disease]], [[crohns-disease]], [[ulcerative-colitis]], [[celiac-disease]], [[microscopic-colitis]], [[colon-ischemia]], [[toxic-megacolon]], [[disorders-of-gut-brain-interaction]], [[norovirus]], [[rotavirus]], [[enterotoxigenic-e-coli]], [[salmonella-infection]], [[shigellosis]], [[campylobacter-infection]], [[giardiasis]], [[cryptosporidiosis]], [[entamoeba-histolytica-infection]], [[hiv-aids-related-diarrhea]], [[colonoscopy]], [[loperamide]], [[nitazoxanide]], [[rifaximin]], [[probiotics]]
+[[clostridioides-difficile]], [[fever-returning-traveler]], [[irritable-bowel-syndrome]], [[postinfectious-ibs]], [[chronic-diarrhea]], [[inflammatory-bowel-disease]], [[crohns-disease]], [[ulcerative-colitis]], [[celiac-disease]], [[microscopic-colitis]], [[colon-ischemia]], [[toxic-megacolon]], [[disorders-of-gut-brain-interaction]], [[norovirus]], [[rotavirus]], [[enterotoxigenic-e-coli]], [[salmonella-infection]], [[shigellosis]], [[campylobacter-infection]], [[giardiasis]], [[cryptosporidiosis]], [[entamoeba-histolytica-infection]], [[hiv-aids-related-diarrhea]], [[colonoscopy]], [[loperamide]], [[nitazoxanide]], [[rifaximin]], [[probiotics]], [[proton-pump-inhibitors]]
 
 ---
 

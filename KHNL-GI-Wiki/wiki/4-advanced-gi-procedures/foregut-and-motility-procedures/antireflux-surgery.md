@@ -31,7 +31,7 @@ Surgery is **not** for undifferentiated heartburn — GERD must be objectively c
 | Regurgitation-predominant GERD, as alternative to fundoplication | **MSA (LINX)** | Strong / Moderate ([[acg-2021-gerd]]) |
 | Confirmed chronic or refractory GERD in adults | Fundoplication suggested **over** continued long-term medical management | Conditional / Very Low ([[sages-2021-gerd-surgery]]) |
 
-- **MSA caveat:** concern for dysphagia when placed in patients with dysmotility ([[acg-2021-gerd]]) — one reason preoperative [[high-resolution-manometry|HRM]] is mandatory.
+- **MSA caveat:** concern for dysphagia when placed in patients with [[ineffective-esophageal-motility|dysmotility]] ([[acg-2021-gerd]]) — one reason preoperative [[high-resolution-manometry|HRM]] is mandatory.
 
 ### Procedure Choice by Anatomy
 
@@ -93,9 +93,29 @@ All conditional recommendations — outcomes are broadly equivalent, so these ar
 - PPI discontinuation: RCT pooled RR 12.7 (**77.6% vs 6.3% at 6 months**); cohorts 98.8% on PPI at baseline → 28.6% at ~19 months.
 - Adverse events overall higher than PPI/sham (37.8% vs 14.3%); serious AEs not statistically different (8% vs 1.9%). Perforation 0.9%, bleeding 0.6%, pneumothorax 0.5%. Post-TIF dysphagia pooled **3.6%**.
 - Cost: TIF 2.0 ~$13,979 < laparoscopic Nissen ~$17,658, but > PPI ~$10,931; ICUR $3,047/0.29 QALY.
+- Symptom resolution **68.2% vs 32.4%** (4 RCTs, RR 2.12); durable symptom resolution at 5 years **86.4%** (1 RCT); ~34% completely off PPI at 8–10 years.
 - **Caveat:** TIF beats sham but **not PPI** for AET normalization — mechanism of symptom benefit unresolved.
 
-**Not recommended:** GERDx (EFTP), MUSE, antireflux mucosectomy (ARMS), antireflux mucosal ablation (ARMA), resection and plication (RAP) — insufficient controlled data. MUSE serious AE 3.5–13.9% (empyema, hemorrhage, perforation) — not recommended over TIF 2.0.
+**cTIF (hiatal hernia repair + TIF 2.0)** — hernia >2 cm, Hill III/IV; surgical hernia repair first, then TIF endoscopically; **multidisciplinary review required** (Conditional / Very Low, [[asge-2024-gerd]]):
+
+- PPI use **94.6% at baseline → 37.5%** at ~9 months; GERD-HRQL improvement **MD 21.87**.
+- Serious adverse events **0.56%**; dysphagia **5.6%**.
+- **No RCTs yet** (NCT04795934 ongoing) — all evidence from cohort studies. May serve as an alternative to surgical antireflux procedures in selected patients.
+
+**Stretta (radiofrequency energy to the LES)** — Best Practice Advice only; hernia <2 cm, Hill I/II, **when TIF and surgical fundoplication are unavailable or infeasible** ([[asge-2024-gerd]]). **Not recommended by [[acg-2021-gerd|ACG 2021]]** (inconsistent, variable evidence); ASGE 2024 likewise does not recommend it for most patients:
+
+- RCTs: **no statistically significant benefit** over sham/PPI for PPI discontinuation, AET reduction, or symptom resolution.
+- Cohort data: 47% PPI discontinuation at 25 months (vs 97% on PPI at baseline). High AE rate in RCTs (**42% vs 11.1%**), though serious AEs low (0.3% in a large cohort).
+- Reimbursement challenges and limited adoption — second-line only when preferred alternatives are unavailable.
+
+**Not recommended / investigational only** — outside clinical trials ([[asge-2024-gerd]]): GERDx (EFTP), MUSE, antireflux mucosectomy (ARMS), antireflux mucosal ablation (ARMA), resection and plication (RAP) — insufficient controlled data.
+
+| Investigational technique | Reported data |
+|---|---|
+| **ARMS** (antireflux mucosectomy) | 80.1% clinical response; 11.4% dysphagia/stricture; RCT underway |
+| **ARMA** (antireflux mucosal ablation) | 81% short-term success; RCT underway |
+| **GERDx** (EFTP) | Promising early RCT data — 62.8% off PPI at 23 months vs 11.4% |
+| **MUSE** | Serious AE **3.5%–13.9%** (empyema, hemorrhage, perforation) — **not recommended over TIF 2.0** |
 
 ---
 

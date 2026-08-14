@@ -3,7 +3,7 @@ title: "Angioectasia (Angiodysplasia)"
 category: disease-script
 tags: [angioectasia, angiodysplasia, small-bowel, gi-bleeding, vascular-lesion, heydes-syndrome, lvad]
 created: 2026-05-19
-updated: 2026-08-08
+updated: 2026-08-14
 sources: [acg-2015-small-bowel-bleeding]
 ---
 
@@ -50,7 +50,7 @@ sources: [acg-2015-small-bowel-bleeding]
 
 ## See Also
 
-[[small-bowel-bleeding]], [[heydes-syndrome]], [[hereditary-hemorrhagic-telangiectasia]], [[upper-gi-bleeding]], [[acute-lower-gi-bleeding]], [[iron-deficiency-anemia]], [[capsule-endoscopy]], [[device-assisted-enteroscopy]], [[argon-plasma-coagulation]], [[somatostatin-analogs]]
+[[small-bowel-bleeding]], [[heydes-syndrome]], [[hereditary-hemorrhagic-telangiectasia]], [[upper-gi-bleeding]], [[acute-lower-gi-bleeding]], [[iron-deficiency-anemia]], [[capsule-endoscopy]], [[device-assisted-enteroscopy]], [[argon-plasma-coagulation]], [[somatostatin-analogs]], [[anticoagulation-gi-bleeding]]
 
 ---
 

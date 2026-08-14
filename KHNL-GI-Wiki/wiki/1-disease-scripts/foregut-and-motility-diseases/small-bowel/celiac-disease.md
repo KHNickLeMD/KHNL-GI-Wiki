@@ -3,7 +3,7 @@ title: "Celiac Disease"
 category: disease-script
 tags: [celiac-disease, gluten, malabsorption, small-bowel, ttg, marsh, foregut]
 created: 2026-05-15
-updated: 2026-08-11
+updated: 2026-08-14
 sources: [acg-2022-celiac]
 ---
 
@@ -347,7 +347,7 @@ Define: persistent symptoms/signs/labs after 6–12 months of GFD. Systematic st
 
 ## See Also
 
-[[chronic-diarrhea]], [[irritable-bowel-syndrome]], [[small-intestinal-bacterial-overgrowth]], [[crohns-disease]], [[disorders-of-gut-brain-interaction]], [[atrophic-gastritis]], [[helicobacter-pylori-infection]], [[upper-endoscopy]]
+[[chronic-diarrhea]], [[irritable-bowel-syndrome]], [[small-intestinal-bacterial-overgrowth]], [[crohns-disease]], [[microscopic-colitis]], [[exocrine-pancreatic-insufficiency]], [[disorders-of-gut-brain-interaction]], [[dyspepsia]], [[atrophic-gastritis]], [[helicobacter-pylori-infection]], [[iron-deficiency-anemia]], [[probiotics]], [[upper-endoscopy]]
 
 ---
 

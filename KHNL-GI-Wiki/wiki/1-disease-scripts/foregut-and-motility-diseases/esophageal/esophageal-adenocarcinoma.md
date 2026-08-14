@@ -72,7 +72,7 @@ Stage-directed; depth of invasion is the pivot.
 
 ## See Also
 
-[[barretts-esophagus]], [[esophageal-cancer]], [[endoscopic-eradication-therapy]], [[endoscopic-mucosal-resection]], [[endoscopic-submucosal-dissection]], [[gerd]], [[dysphagia]], [[upper-endoscopy]], [[endoscopic-ultrasound]], [[polypectomy]]
+[[barretts-esophagus]], [[esophageal-cancer]], [[endoscopic-eradication-therapy]], [[endoscopic-mucosal-resection]], [[endoscopic-submucosal-dissection]], [[gerd]], [[dysphagia]], [[upper-endoscopy]], [[endoscopic-ultrasound]], [[polypectomy]], [[eosinophilic-esophagitis]], [[achalasia]], [[subepithelial-lesion]], [[gastrointestinal-stromal-tumor]], [[iron-deficiency-anemia]]
 
 ---
 

@@ -3,7 +3,7 @@ title: "Esophageal Cancer"
 category: disease-script
 tags: [esophagus, malignancy, adenocarcinoma, squamous-cell-carcinoma, egj, dysphagia, her2, pd-l1, msi-h, flot, chemoradiation, esophagectomy, endoscopic-resection, nccn, oncology]
 created: 2026-06-04
-updated: 2026-08-13
+updated: 2026-08-14
 sources: [nccn-2026-esophageal-egj-cancer]
 ---
 
@@ -45,7 +45,7 @@ Two dominant histologies drive distinct pathways ([[nccn-2026-esophageal-egj-can
 - **Adenocarcinoma** — distal esophagus/EGJ; arises through the metaplasia–dysplasia sequence from [[barretts-esophagus|Barrett's esophagus]]; risk factors [[gerd|GERD]], [[obesity]], male sex. See [[esophageal-adenocarcinoma]].
 - **Squamous cell carcinoma (SCC)** — more often mid/upper esophagus; risk factors smoking, alcohol, [[achalasia]], caustic injury, tylosis. SCC is more radiosensitive and more frequently managed with definitive chemoradiation.
 
-EGJ tumors (Siewert classification) straddle the esophageal and [[gastric-adenocarcinoma|gastric]] pathways and share systemic-therapy biomarkers.
+EGJ tumors straddle the esophageal and gastric pathways and share systemic-therapy biomarkers. **Siewert type (I / II / III, by tumor epicenter relative to the EGJ) decides which guideline governs treatment** — types I and II are treated as esophageal/EGJ cancer, type III as gastric cancer; the cm-criteria table is on [[gastric-adenocarcinoma]].
 
 ## Differential Diagnosis
 
@@ -84,7 +84,7 @@ flowchart TD
 
 ## See Also
 
-[[esophageal-adenocarcinoma]], [[gastric-adenocarcinoma]], [[barretts-esophagus]], [[dysphagia]], [[gerd]], [[achalasia]], [[upper-endoscopy]], [[endoscopic-ultrasound]], [[endoscopic-eradication-therapy]], [[endoscopic-mucosal-resection]], [[endoscopic-submucosal-dissection]], [[subepithelial-lesion]], [[gastrointestinal-stromal-tumor]], [[iron-deficiency-anemia]]
+[[esophageal-adenocarcinoma]], [[gastric-adenocarcinoma]], [[barretts-esophagus]], [[dysphagia]], [[gerd]], [[achalasia]], [[upper-endoscopy]], [[endoscopic-ultrasound]], [[endoscopic-eradication-therapy]], [[endoscopic-mucosal-resection]], [[endoscopic-submucosal-dissection]], [[subepithelial-lesion]], [[gastrointestinal-stromal-tumor]], [[iron-deficiency-anemia]], [[obesity]]
 
 ---
 

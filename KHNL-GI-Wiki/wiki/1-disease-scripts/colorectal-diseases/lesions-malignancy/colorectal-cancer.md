@@ -3,11 +3,37 @@ title: "Colorectal Cancer"
 category: disease-script
 tags: [crc, colorectal-cancer, adenocarcinoma, oncology, screening, surveillance, post-resection, metachronous, rectal-cancer]
 created: 2026-05-19
-updated: 2026-08-05
+updated: 2026-08-14
 sources: [acg-2015-hereditary-gi-cancer, usmstf-2015-crc-surveillance, usmstf-2016-fit-screening, acg-2021-crc-screening, nccn-2026-colon-cancer, asge-2013-crc-staging-management, aga-2025-endoscopic-resection-crc]
 ---
 
 *Screening is covered in [[colorectal-cancer-screening]] and in detail below (FIT). Hereditary syndromes: [[lynch-syndrome]], [[familial-adenomatous-polyposis]], [[mutyh-associated-polyposis]], [[peutz-jeghers-syndrome]], [[juvenile-polyposis-syndrome]], [[cowden-syndrome]], [[serrated-polyposis-syndrome]]. Polyp management: [[polypectomy]] and [[colonoscopy]].*
+
+## Contents
+- [[#Assessment]]
+  - [[#Establishing the Diagnosis]]
+  - [[#Severity Assessment / Staging]]
+- [[#Differential Diagnosis]]
+- [[#Diagnostics]]
+- [[#Therapeutics]]
+  - [[#Oncologic Management (NCCN 2026)]]
+  - [[#Endoscopic Staging & Management (ASGE 2013)]]
+- [[#Post-Resection Surveillance]]
+  - [[#Epidemiology of Post-Resection Risk]]
+  - [[#Universal Lynch Syndrome Testing]]
+  - [[#Step 1 — Perioperative Clearing Colonoscopy]]
+  - [[#Step 2 — First Postoperative Surveillance Colonoscopy]]
+  - [[#Step 3 — Subsequent Surveillance Intervals]]
+  - [[#Additional Considerations for Rectal Cancer]]
+  - [[#Fecal Testing in Post-Resection Surveillance]]
+- [[#FIT Screening for CRC — Primary Screening (Average-Risk)]]
+  - [[#FIT Performance Characteristics — Single Application]]
+  - [[#Threshold (Hemoglobin Cut-off Value)]]
+  - [[#Qualitative vs. Quantitative FIT]]
+  - [[#Number of Samples]]
+  - [[#Follow-up of a Positive FIT]]
+  - [[#Programmatic Quality Targets (USMSTF 2016)]]
+  - [[#Conflict with 2021 Guidelines]]
 
 ## Assessment
 
@@ -19,14 +45,53 @@ sources: [acg-2015-hereditary-gi-cancer, usmstf-2015-crc-surveillance, usmstf-20
 
 ### Severity Assessment / Staging
 
-- **TNM 8th edition (AJCC)**; Stage I–IV; **LN (N) status drives adjuvant therapy** (stage III and high-risk stage II)
-- ⚠ *Full T/N/M component definitions, stage-group cutoffs, and the IDEA low- vs high-risk stratification (referenced under Therapeutics) are not reproduced in the ingested [[nccn-2026-colon-cancer]] capture — flagged, not filled from outside sources.*
+**TNM 8th edition (AJCC, 2017)** — as reproduced in [[nccn-2026-colon-cancer]]. **LN (N) status drives adjuvant therapy** (stage III and high-risk stage II).
+
+| T | Definition |
+|---|---|
+| Tis | Carcinoma in situ / intramucosal — lamina propria, **no** extension through muscularis mucosae |
+| T1 | Invades **submucosa** (through muscularis mucosae, not into muscularis propria) |
+| T2 | Invades **muscularis propria** |
+| T3 | Invades **through** muscularis propria into pericolorectal tissues |
+| T4a | Invades **through the visceral peritoneum** (incl. gross perforation of bowel through tumor) |
+| T4b | **Directly invades or adheres to** adjacent organ or structure |
+
+| N | Definition |
+|---|---|
+| N0 | No regional lymph node metastasis |
+| N1 | **1–3** positive nodes (tumor ≥0.2 mm), **or** any number of tumor deposits with all identifiable nodes negative |
+| N1a / N1b | 1 positive node / 2–3 positive nodes |
+| N1c | No positive nodes, but **tumor deposits** in subserosa, mesentery, or nonperitonealized pericolic/perirectal-mesorectal tissue |
+| N2 | **≥4** positive nodes |
+| N2a / N2b | 4–6 / ≥7 positive nodes |
+
+| M | Definition |
+|---|---|
+| M0 | No distant metastasis |
+| M1a / M1b | Metastasis to **one** site/organ / **≥2** sites or organs — without peritoneal metastasis |
+| M1c | **Peritoneal** metastasis, alone or with other sites |
+
+**Prognostic (stage) groups:**
+
+| Stage | T | N | M |
+|---|---|---|---|
+| 0 | Tis | N0 | M0 |
+| I | T1–T2 | N0 | M0 |
+| IIA / IIB / IIC | T3 / T4a / T4b | N0 | M0 |
+| IIIA | T1–T2 · T1 | N1/N1c · N2a | M0 |
+| IIIB | T3–T4a · T2–T3 · T1–T2 | N1/N1c · N2a · N2b | M0 |
+| IIIC | T4a · T3–T4a · T4b | N2a · N2b · N1–N2 | M0 |
+| IVA / IVB / IVC | Any T | Any N | M1a / M1b / M1c |
+
+**High-risk stage II** — historical high-risk factors for recurrence (**exclusive of MSI-H** cancers); **any one** qualifies: poorly differentiated/undifferentiated histology · lymphatic/vascular invasion · bowel obstruction · **<12 lymph nodes examined** · perineural invasion · localized perforation · close, indeterminate, or positive margins · high-tier tumor budding. No data correlate which risk feature should drive **choice** of chemotherapy; ctDNA is **prognostic, not predictive** (not for de-escalation outside a trial). [[nccn-2026-colon-cancer]]
+
+- **≥12 nodes** must be examined for adequate staging (AJCC/CAP); if <12 in stage II (pN0), the specimen should be re-examined for additional nodes.
 
 ## Differential Diagnosis
 
 *Workup: see [[acute-lower-gi-bleeding]].*
 
-- [[inflammatory-bowel-disease|IBD]]-associated dysplasia, large adenoma, [[gastroenteropancreatic-neuroendocrine-tumors|neuroendocrine tumor]], lymphoma, anal canal SCC, metastatic disease
+- [[inflammatory-bowel-disease|IBD]]-associated dysplasia (surveillance + SCENIC technique: [[ulcerative-colitis]]), large adenoma, [[gastroenteropancreatic-neuroendocrine-tumors|neuroendocrine tumor]], lymphoma, anal canal SCC, metastatic disease
 
 ## Diagnostics
 
@@ -44,6 +109,16 @@ sources: [acg-2015-hereditary-gi-cancer, usmstf-2015-crc-surveillance, usmstf-20
 Per [[nccn-2026-colon-cancer]]. **Universal MMR/MSI testing** is recommended for all colon cancers (Lynch screening — see [[lynch-syndrome]] — and immunotherapy candidacy). For metastatic disease, profile **RAS (KRAS/NRAS), BRAF V600E, HER2 (ERBB2), and NTRK**; **DPYD** testing informs fluoropyrimidine toxicity risk before treatment.
 
 **Localized disease** is treated with endoscopic resection (selected favorable T1 cancers) or colectomy with regional lymphadenectomy (≥12 nodes for adequate staging). **Adjuvant FOLFOX or CAPOX** is given for stage III and high-risk stage II disease, with duration (3 vs 6 months) **risk-stratified per IDEA**; MSI-H stage II tumors generally do not benefit from single-agent fluoropyrimidine.
+
+**IDEA duration stratification (stage III):**
+
+| Risk group | Definition | Preferred adjuvant duration |
+|---|---|---|
+| **Low-risk stage III** | **T1–3, N1** | CAPEOX **3 mo**, or FOLFOX **3–6 mo** |
+| **High-risk stage III** | **T4, N1–2** *or* **any T, N2** | CAPEOX **3–6 mo**, or FOLFOX **6 mo** |
+
+- Alternatives in either group: capecitabine or fluorouracil/leucovorin × 6 mo.
+- **High-risk stage II:** the IDEA pooled analysis did **not** show noninferiority of 3 vs 6 months — do not shorten by analogy with low-risk stage III.
 
 **Metastatic therapy is biomarker- and sidedness-directed:**
 
@@ -294,7 +369,7 @@ The ACG 2021 and USMSTF 2021 guidelines do not supersede the FIT-specific operat
 
 ## See Also
 
-[[colorectal-cancer-screening]], [[colonoscopy]], [[polypectomy]], [[lynch-syndrome]], [[familial-adenomatous-polyposis]], [[serrated-polyposis-syndrome]], [[endoscopic-ultrasound]], [[colonoscopy-surveillance]], [[inflammatory-bowel-disease]], [[ibd-in-malignancy]], [[gastroenteropancreatic-neuroendocrine-tumors]], [[colorectal-esd]], [[capsule-endoscopy]]
+[[colorectal-cancer-screening]], [[colonoscopy]], [[polypectomy]], [[lynch-syndrome]], [[familial-adenomatous-polyposis]], [[serrated-polyposis-syndrome]], [[endoscopic-ultrasound]], [[colonoscopy-surveillance]], [[inflammatory-bowel-disease]], [[ulcerative-colitis]], [[ibd-in-malignancy]], [[gastroenteropancreatic-neuroendocrine-tumors]], [[colorectal-esd]], [[capsule-endoscopy]], [[endoscopic-mucosal-resection]], [[endoscopic-full-thickness-resection]], [[acute-lower-gi-bleeding]]
 
 ---
 

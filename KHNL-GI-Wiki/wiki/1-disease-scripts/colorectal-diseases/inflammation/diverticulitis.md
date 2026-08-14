@@ -3,7 +3,7 @@ title: "Colonic Diverticulitis"
 category: disease-script
 tags: [diverticulitis, diverticular-disease, colorectal, antibiotics, hinchey, scad, sudd]
 created: 2026-07-23
-updated: 2026-08-07
+updated: 2026-08-14
 sources: [acg-2026-diverticulitis]
 ---
 
@@ -63,7 +63,7 @@ Inflammation in and around a colonic diverticulum. Lifetime risk ~3% (men) / 5% 
 **Other presentations:**
 - **Smoldering / chronic diverticulitis** — inflammation persisting weeks to months; partial/complete improvement on antibiotics then relapse shortly after stopping (contrast with recurrent disease, which has inflammation-free intervals). 6% of new diagnoses at 6-month follow-up. Confirm with cross-sectional imaging; some ultimately need segmental resection.
 - **[[segmental-colitis-associated-with-diverticulosis|SCAD]]** — chronic inflammation of diverticula-bearing segments, sparing the rectum; histology can resemble [[ulcerative-colitis]] or [[crohns-disease]]; unclear whether distinct entity or [[inflammatory-bowel-disease|IBD]] manifestation.
-- **SUDD** (symptomatic uncomplicated diverticular disease) — controversial: bloating, chronic/recurrent abdominal pain, or altered bowel habits with diverticulosis, without systemic inflammation or overt diverticulitis. (Diverticulosis itself is **not** associated with chronic GI symptoms in US population studies.)
+- **SUDD** (symptomatic uncomplicated diverticular disease) — controversial: [[abdominal-bloating-and-distention|bloating]], chronic/recurrent abdominal pain, or altered bowel habits with diverticulosis, without systemic inflammation or overt diverticulitis. (Diverticulosis itself is **not** associated with chronic GI symptoms in US population studies.)
 
 ---
 
@@ -140,7 +140,7 @@ Recurrence is common and rises with each episode (10-yr risk: ≥22% after 1st, 
 
 ## See Also
 
-[[colorectal-cancer]], [[colorectal-cancer-screening]], [[colonoscopy]], [[colonoscopy-surveillance]], [[acute-lower-gi-bleeding]], [[ulcerative-colitis]], [[crohns-disease]], [[segmental-colitis-associated-with-diverticulosis]], [[disorders-of-gut-brain-interaction]], [[rifaximin]], [[probiotics]], [[iron-deficiency-anemia]]
+[[colorectal-cancer]], [[colorectal-cancer-screening]], [[colonoscopy]], [[colonoscopy-surveillance]], [[acute-lower-gi-bleeding]], [[ulcerative-colitis]], [[crohns-disease]], [[segmental-colitis-associated-with-diverticulosis]], [[disorders-of-gut-brain-interaction]], [[rifaximin]], [[probiotics]], [[iron-deficiency-anemia]], [[abdominal-bloating-and-distention]], [[clostridioides-difficile]]
 
 ---
 

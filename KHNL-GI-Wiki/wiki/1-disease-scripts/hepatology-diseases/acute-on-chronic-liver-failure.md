@@ -3,7 +3,7 @@ title: "Acute-on-Chronic Liver Failure (ACLF)"
 category: disease-script
 tags: [ACLF, acute-on-chronic-liver-failure, cirrhosis, organ-failure, ICU, NACSELD, EASL-CLIF, terlipressin, HRS, hepatic-encephalopathy, infection, nutrition, liver-transplantation, palliative-care]
 created: 2026-05-28
-updated: 2026-08-13
+updated: 2026-08-14
 sources: [aasld-2024-aclf]
 ---
 
@@ -145,7 +145,7 @@ Critically ill patients with cirrhosis and ACLF require multidisciplinary ICU ca
   - **Vasoconstrictors + albumin (20–40 g/day)** for Stage 2+ HRS-AKI without contraindications (GS 24)
   - **Terlipressin (0.5–2.0 mg IV q6h or 2 g/24h continuous infusion):** indicated for Stage 2+ [[aki-in-cirrhosis|HRS-AKI]] without ACLF-3 (EASL-CLIF) or major cardiopulmonary/vascular disease (GS 25). Contraindicated in ACLF-3 due to CONFIRM trial respiratory failure signal
   - **Norepinephrine:** alternative to terlipressin; preferred in shock (GS 26)
-  - Midodrine + octreotide: inferior to terlipressin continuous infusion; acceptable in non-ICU setting
+  - Midodrine + [[somatostatin-analogs|octreotide]]: inferior to terlipressin continuous infusion; acceptable in non-ICU setting
 - **RRT:** individualized; recommended for HRS-AKI failing pharmacotherapy in LT candidates as bridge (GS 27); continuous RRT preferred over intermittent in hemodynamically unstable patients; no preemptive benefit
 - **LT is definitive treatment** for HRS-AKI; consider in context of multiorgan failure and LT candidacy (GS 28). Simultaneous liver-kidney transplant for prolonged RRT (>6 weeks) or sCr persistently elevated post-LT
 
@@ -236,7 +236,7 @@ Palliative care is essential in ACLF management; frequently underutilized (GS 49
 
 ## See Also
 
-[[acute-liver-failure]], [[aki-in-cirrhosis]], [[spontaneous-bacterial-peritonitis]], [[portal-hypertension]], [[variceal-upper-gi-bleeding]], [[ascites]], [[hepatopulmonary-syndrome-portopulmonary-hypertension]], [[liver-transplantation]], [[hepatic-encephalopathy]], [[alcohol-associated-liver-disease]], [[portal-vein-thrombosis]], [[hepatocellular-carcinoma]], [[nutrition-in-liver-disease]], [[rifaximin]], [[proton-pump-inhibitors]], [[abnormal-liver-chemistries]], [[cirrhosis]], [[albumin]], [[cirrhosis-hemostasis]], [[tips]]
+[[acute-liver-failure]], [[aki-in-cirrhosis]], [[spontaneous-bacterial-peritonitis]], [[portal-hypertension]], [[variceal-upper-gi-bleeding]], [[ascites]], [[hepatopulmonary-syndrome-portopulmonary-hypertension]], [[liver-transplantation]], [[hepatic-encephalopathy]], [[alcohol-associated-liver-disease]], [[portal-vein-thrombosis]], [[hepatocellular-carcinoma]], [[nutrition-in-liver-disease]], [[rifaximin]], [[proton-pump-inhibitors]], [[abnormal-liver-chemistries]], [[cirrhosis]], [[albumin]], [[cirrhosis-hemostasis]], [[tips]], [[somatostatin-analogs]]
 
 ---
 

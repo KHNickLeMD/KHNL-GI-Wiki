@@ -91,7 +91,7 @@ Goals: prevent dehydration, correct electrolytes, support maternal (and fetal) n
 
 ## See Also
 
-[[nausea-and-vomiting]], [[liver-disease-in-pregnancy]], [[intrahepatic-cholestasis-of-pregnancy]], [[acute-fatty-liver-of-pregnancy]], [[gastroparesis]], [[cyclic-vomiting-syndrome]], [[cannabinoid-hyperemesis-syndrome]], [[gerd]]
+[[nausea-and-vomiting]], [[liver-disease-in-pregnancy]], [[intrahepatic-cholestasis-of-pregnancy]], [[acute-fatty-liver-of-pregnancy]], [[gastroparesis]], [[cyclic-vomiting-syndrome]], [[cannabinoid-hyperemesis-syndrome]], [[gerd]], [[proton-pump-inhibitors]]
 
 ---
 

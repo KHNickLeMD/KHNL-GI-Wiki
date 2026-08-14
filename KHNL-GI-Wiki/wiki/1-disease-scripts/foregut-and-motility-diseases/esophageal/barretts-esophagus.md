@@ -357,7 +357,7 @@ CEIM defined as: 1–2 surveillance endoscopies with no visible BE and no IM on 
 
 ## See Also
 
-[[gerd]], [[eosinophilic-esophagitis]], [[achalasia]], [[esophageal-adenocarcinoma]], [[esophageal-cancer]], [[endoscopic-eradication-therapy]], [[radiofrequency-ablation]], [[endoscopic-mucosal-resection]], [[endoscopic-submucosal-dissection]], [[polypectomy]], [[upper-endoscopy]], [[endoscopic-ultrasound]], [[antireflux-surgery]], [[proton-pump-inhibitors]], [[reflux-testing]], [[dyspepsia]], [[confocal-laser-endomicroscopy]], [[infectious-esophagitis]], [[high-resolution-manometry]]
+[[gerd]], [[eosinophilic-esophagitis]], [[achalasia]], [[esophageal-adenocarcinoma]], [[esophageal-cancer]], [[endoscopic-eradication-therapy]], [[radiofrequency-ablation]], [[endoscopic-mucosal-resection]], [[endoscopic-submucosal-dissection]], [[polypectomy]], [[upper-endoscopy]], [[endoscopic-ultrasound]], [[antireflux-surgery]], [[proton-pump-inhibitors]], [[reflux-testing]], [[dyspepsia]], [[dysphagia]], [[confocal-laser-endomicroscopy]], [[infectious-esophagitis]], [[high-resolution-manometry]], [[obesity]]
 
 ---
 

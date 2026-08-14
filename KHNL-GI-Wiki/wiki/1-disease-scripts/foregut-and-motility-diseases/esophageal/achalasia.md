@@ -63,9 +63,10 @@ Disease progresses: Type III → Type II → Type I as esophagus dilates over ti
 - [[eosinophilic-esophagitis|Eosinophilic esophagitis]] — rings/furrows/exudate; ≥15 eos/hpf on biopsy
 - [[distal-esophageal-spasm|Distal esophageal spasm (DES)]] — Type III achalasia shares features; differentiated on HRM
 - Jackhammer esophagus / [[hypercontractile-esophagus|hypercontractile esophagus]]
-- Scleroderma esophagus (absent peristalsis but low LES pressure)
+- [[esophagogastric-junction-outflow-obstruction|EGJOO]] — elevated IRP but preserved (or only partially disordered) peristalsis; a manometric finding with many mimics, not a diagnosis in itself
+- [[esophageal-dysfunction-systemic-disease|Scleroderma esophagus]] (absent peristalsis but low LES pressure)
 - Chagas disease (secondary achalasia from T. cruzi — clinically indistinguishable)
-- **Secondary ("mimic") achalasia** — consider infectious/inflammatory causes at initial evaluation: recent COVID infection, Chagas risk, and eosinophilic/mast-cell disease; achalasia is hypothesized to be autoimmune (↑ odds of autoimmune conditions, OR up to 3.6). See [[esophageal-dysfunction-systemic-disease]]. (AGA 2024)
+- **Secondary ("mimic") achalasia** — consider infectious/inflammatory causes at initial evaluation: recent COVID infection, Chagas risk, and eosinophilic/mast-cell disease; achalasia is hypothesized to be autoimmune (↑ odds of autoimmune conditions, OR up to 3.6). (AGA 2024)
 
 ---
 
