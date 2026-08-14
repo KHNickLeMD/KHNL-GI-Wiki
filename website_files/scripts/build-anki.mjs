@@ -93,6 +93,12 @@ export function lint (note, page) {
 
 const tsv = s => s.replace(/\t/g, ' ').replace(/\n/g, '<br>')
 
+// The TSV format has no suspended flag, so new notes get tagged instead and you suspend
+// `tag:khnl::new` once after import. The next build drops the tag (Anki replaces tags on
+// update), so the search only ever holds cards from the latest deck.
+// No manifest yet (first run, or it was deleted) → tag nothing, or the whole deck reads as new.
+const isNew = (prev, guid) => !!prev && !prev.has(guid)
+
 // Rule sits above everything on the back, extra notes included — not just the source line.
 const backExtra = (extra, footer) => '<hr>' + (extra ? extra + '<br>' : '') + footer
 
@@ -105,6 +111,10 @@ function main () {
   const rows = []
   const problems = []
   const seen = new Set()
+  const manifest = join(cardsDir, 'dist', 'khnl-gi-wiki.guids')
+  const prev = existsSync(manifest)
+    ? new Set(readFileSync(manifest, 'utf8').split('\n').filter(Boolean))
+    : null
 
   for (const file of walk(cardsDir)) {
     const [fm, body] = frontmatter(readFileSync(file, 'utf8'))
@@ -145,6 +155,7 @@ function main () {
 
       const tags = [`khnl::${page.split('/')[0].replace(/^\d+-/, '')}`, `khnl::${slug}`, ...pageTags]
       if (note.section === 'retired') tags.push('khnl::retired')
+      else if (isNew(prev, guid)) tags.push('khnl::new')
       if (note.section === 'draft') tags.push('khnl::unreviewed')
 
       if (!existsSync(join(ROOT, 'wiki', 'sources', `${note.source}.md`))) {
@@ -165,6 +176,7 @@ function main () {
     '#guid column:1', '#deck column:2', '#tags column:3',
     '#columns:guid\tdeck\ttags\tText\tBack Extra', ''
   ].join('\n') + '\n' + rows.join('\n') + '\n')
+  writeFileSync(manifest, [...seen].join('\n') + '\n')
 
   if (problems.length) {
     process.stderr.write(`\n${problems.length} problem(s):\n` + problems.join('\n') + '\n')
@@ -204,6 +216,11 @@ async function test () {
   assert.equal(wordCount('a {{c1::b::a long hint here}} d'), 3)
   assert.equal(lint(notes[0], 'p.md').length, 0)
   assert.equal(lint({ ...notes[0], text: ['- ' + 'w '.repeat(20)] }, 'p.md').length, 2)
+
+  // khnl::new only for guids missing from an existing manifest
+  assert.equal(isNew(new Set(['a']), 'b'), true)
+  assert.equal(isNew(new Set(['a']), 'a'), false)
+  assert.equal(isNew(null, 'b'), false)
 
   assert.equal(titleCase('4-advanced-gi-procedures'), 'Advanced GI Procedures')
   assert.equal(titleCase('4-advanced-gi-procedures', true), '4. Advanced GI Procedures')
