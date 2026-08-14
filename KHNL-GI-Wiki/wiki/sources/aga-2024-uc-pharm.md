@@ -3,7 +3,7 @@ title: "AGA Living Guideline: Pharmacologic Management of Moderate-to-Severe Ulc
 category: source
 tags: [ulcerative-colitis, ibd, advanced-therapy, biologics, jak-inhibitor, guideline, aga]
 created: 2026-06-04
-updated: 2026-06-04
+updated: 2026-08-14
 sources: []
 ---
 
@@ -45,3 +45,9 @@ Mirrors the Crohn's strategy: efficacy-first, early advanced therapy, and de-emp
 ## See Also
 
 [[ulcerative-colitis]], [[inflammatory-bowel-disease]], [[crohns-disease]], [[ibd-preventive-care]]
+
+## Relevance to Wiki
+
+Wiki pages built on or citing this source:
+
+- [[ulcerative-colitis|Ulcerative Colitis]]

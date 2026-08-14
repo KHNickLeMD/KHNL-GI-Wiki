@@ -3,7 +3,7 @@ title: "Hemorrhoids"
 category: disease-script
 tags: [hemorrhoids, anorectal, rectal-bleeding, rubber-band-ligation, hemorrhoidectomy, colorectal]
 created: 2026-05-16
-updated: 2026-08-12
+updated: 2026-08-14
 sources: [acg-2021-anorectal-disorders, asge-2010-anorectal-disorders, aga-2026-hemorrhoids]
 ---
 
@@ -118,14 +118,14 @@ The diagnosis of symptomatic internal hemorrhoids requires exclusion of other so
 |-----------|----------|
 | Active [[crohns-disease\|Crohn's]] or [[ulcerative-colitis\|UC]] | **Defer hemorrhoid treatment until complete remission** |
 | Pregnancy | Hemorrhoids in up to ⅔ of women; conservative first (fiber, treat constipation, topical ointments); banding/IRC if symptoms persist postpartum or further pregnancies planned |
-| Cirrhosis / [[portal-hypertension\|portal hypertension]] | Carefully distinguish hemorrhoids from **rectal varices**; banding or IRC both acceptable; **IRC preferred over banding if significant coagulopathy** (platelets <50,000/µL or INR >2.0); portal hypertension itself does not change the approach |
+| [[cirrhosis\|Cirrhosis]] / [[portal-hypertension\|portal hypertension]] | Carefully distinguish hemorrhoids from **rectal varices**; banding or IRC both acceptable; **IRC preferred over banding if significant coagulopathy** (platelets <50,000/µL or INR >2.0); portal hypertension itself does not change the approach |
 | Grade III failing banding or with external component | Offer **surgical consultation**; large isolated skin tags removable without hemorrhoidectomy |
 
 ---
 
 ## See Also
 
-[[anal-fissure]], [[fecal-incontinence]], [[rectal-prolapse]], [[colorectal-cancer]], [[colorectal-cancer-screening]], [[crohns-disease]], [[colonoscopy]], [[acute-lower-gi-bleeding]], [[anticoagulation-gi-bleeding]]
+[[anal-fissure]], [[fecal-incontinence]], [[rectal-prolapse]], [[colorectal-cancer]], [[colorectal-cancer-screening]], [[crohns-disease]], [[ulcerative-colitis]], [[colonoscopy]], [[acute-lower-gi-bleeding]], [[anticoagulation-gi-bleeding]], [[chronic-idiopathic-constipation]], [[cirrhosis]], [[portal-hypertension]]
 
 ---
 

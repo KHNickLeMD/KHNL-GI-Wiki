@@ -3,7 +3,7 @@ title: "AGA Clinical Practice Guideline: Surveillance of Barrett's Esophagus (20
 category: source
 tags: [barretts-esophagus, surveillance, dysplasia, ppi, biopsy-protocol, esophageal-adenocarcinoma, guideline, aga]
 created: 2026-06-04
-updated: 2026-06-04
+updated: 2026-08-14
 sources: []
 ---
 
@@ -47,3 +47,10 @@ Confirms ~3-year surveillance for NDBE with disciplined Seattle-protocol samplin
 ## See Also
 
 [[barretts-esophagus]], [[gerd]], [[upper-endoscopy]], [[endoscopic-oncology]], [[gastric-premalignant-conditions]]
+
+## Relevance to Wiki
+
+Wiki pages built on or citing this source:
+
+- [[barretts-esophagus|Barrett's Esophagus]]
+- [[endoscopic-eradication-therapy|Endoscopic Eradication Therapy (EET)]]

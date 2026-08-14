@@ -3,7 +3,7 @@ title: "ERCP (Endoscopic Retrograde Cholangiopancreatography)"
 category: advanced-procedure
 tags: [ercp, biliary, pancreatic, hepatobiliary, sphincterotomy, stent, stone-extraction]
 created: 2026-05-16
-updated: 2026-08-12
+updated: 2026-08-14
 sources: [asge-2024-therapeutic-eus-biliary, asge-2023-post-ercp-pancreatitis, asge-2021-cholangitis, asge-2019-choledocholithiasis, asge-2023-post-transplant-biliary-strictures, asge-2015-ercp-benign-biliary, aga-2024-pregnancy-gi-liver, aga-2022-recurrent-pancreatitis-endoscopy, jagtap-2026-urgent-vs-early-ercp-cholangitis, aloysius-2026-ercp-timing-septic-shock-cholangitis]
 ---
 
@@ -33,7 +33,7 @@ sources: [asge-2024-therapeutic-eus-biliary, asge-2023-post-ercp-pancreatitis, a
 - **[[chronic-pancreatitis|Chronic pancreatitis]]** (AGA 2022) — treat symptomatic obstruction:
   - **MPD stones:** conventional extraction if **≤5 mm**; **ESWL and/or pancreatoscopy-directed lithotripsy** if larger (BPA 5).
   - **MPD strictures:** prolonged **6–12 mo plastic-stent upsizing** (multiple parallel stents); FCSEMS emerging but higher AE rate (BPA 6). Surgery favored over endoscopy for long-term pain in *obstructive* CP (BPA 4).
-  - **CP-related [[biliary-stricture|benign biliary stricture]]:** ERCP + stent is preferred; **FCSEMS favored over multiple plastic stents** (fewer exchanges) — but avoid FCSEMS covering the cystic duct if gallbladder in situ (cholecystitis risk) (BPA 7).
+  - **CP-related [[biliary-stricture|benign biliary stricture]]:** ERCP + stent is preferred; **FCSEMS favored over multiple plastic stents** (fewer exchanges) — but avoid FCSEMS covering the cystic duct if gallbladder in situ ([[acute-cholecystitis|cholecystitis]] risk) (BPA 7).
 - Pancreatic leak/fistula
 
 **Tissue sampling:**
@@ -59,7 +59,7 @@ sources: [asge-2024-therapeutic-eus-biliary, asge-2023-post-ercp-pancreatitis, a
   - **High-risk criteria** ([[asge-2023-post-ercp-pancreatitis|ASGE 2023]]) — *patient-related:* suspected sphincter of Oddi dysfunction, prior history of PEP, female sex, age <40, normal serum bilirubin; *procedure-related:* difficult/prolonged cannulation, pancreatic guidewire passage or contrast injection, precut (access) sphincterotomy, pancreatic sphincterotomy, ampullectomy, endoscopic papillary balloon dilation. Risk is cumulative — multiple factors compound.
   - **Prophylaxis:** rectal indomethacin or diclofenac **100 mg** immediately before/after ERCP (strong rec, all-comers unless contraindicated); aggressive periprocedural lactated Ringer's hydration; **prophylactic pancreatic duct stent (3–5F, preferably 5F)** in high-risk patients when the PD is deeply cannulated/guidewire-passed — NSAID + PD stent combined is optimal for the highest-risk cases
 - **Cholangitis** (post-procedure biliary infection)
-- **Bleeding** (post-sphincterotomy) — biliary **sphincterotomy** is a strong independent driver (OR ~9–10). Risk is amplified by draining an **incompletely resuscitated cholangitis patient <24 h** (oedematous/hyperaemic papilla, sepsis coagulopathy): urgent (<24 h) ERCP independently predicted post-ERCP haemorrhage (10.5% vs 3.3% for 24–48 h) [[jagtap-2026-urgent-vs-early-ercp-cholangitis]]. Withhold sphincterotomy in patients on antiplatelets/anticoagulants.
+- **Bleeding** (post-sphincterotomy) — biliary **sphincterotomy** is a strong independent driver (OR ~9–10). Risk is amplified by draining an **incompletely resuscitated cholangitis patient <24 h** (oedematous/hyperaemic papilla, sepsis coagulopathy): urgent (<24 h) ERCP independently predicted post-ERCP haemorrhage (10.5% vs 3.3% for 24–48 h) [[jagtap-2026-urgent-vs-early-ercp-cholangitis]]. Withhold sphincterotomy in patients on [[anticoagulation-gi-bleeding|antiplatelets/anticoagulants]].
 - **Perforation** (rare; retroperitoneal or duodenal)
 - **Cholecystitis** (cystic duct occlusion by stent)
 
@@ -89,9 +89,11 @@ sources: [asge-2024-therapeutic-eus-biliary, asge-2023-post-ercp-pancreatitis, a
 
 *Stub — appropriate indication rate, native ampulla cannulation rate, stone clearance rate, PEP rate.*
 
+---
+
 ## See Also
 
-[[acute-pancreatitis]], [[recurrent-acute-pancreatitis]], [[pancreas-divisum]], [[biliary-stricture]], [[choledocholithiasis]], [[endoscopic-ultrasound]], [[cholangioscopy]], [[chronic-pancreatitis]], [[cholangiocarcinoma]], [[primary-sclerosing-cholangitis]], [[sphincter-of-oddi-dysfunction]], [[liver-transplantation]], [[brush-cytology]], [[liver-disease-in-pregnancy]], [[mri-mrcp]]
+[[acute-pancreatitis]], [[recurrent-acute-pancreatitis]], [[pancreas-divisum]], [[biliary-stricture]], [[choledocholithiasis]], [[endoscopic-ultrasound]], [[cholangioscopy]], [[chronic-pancreatitis]], [[cholangiocarcinoma]], [[primary-sclerosing-cholangitis]], [[sphincter-of-oddi-dysfunction]], [[liver-transplantation]], [[brush-cytology]], [[liver-disease-in-pregnancy]], [[mri-mrcp]], [[acute-cholecystitis]], [[anticoagulation-gi-bleeding]], [[antibiotic-prophylaxis-endoscopy]], [[device-assisted-enteroscopy]], [[fish]]
 
 ---
 

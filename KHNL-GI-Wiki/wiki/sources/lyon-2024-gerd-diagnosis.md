@@ -3,7 +3,7 @@ title: "Lyon Consensus 2.0 (2024): Evidence-Based Diagnosis of GERD"
 category: source
 tags: [gerd, reflux, ph-monitoring, impedance, diagnosis, lyon-consensus]
 created: 2026-05-15
-updated: 2026-05-28
+updated: 2026-08-14
 sources: []
 ---
 
@@ -16,6 +16,7 @@ sources: []
 - **Year:** 2024
 - **Citation:** Gut 2024;73:361–371
 - **DOI:** [10.1136/gutjnl-2023-330616](https://doi.org/10.1136/gutjnl-2023-330616)
+- **Type:** guideline (international expert consensus statement)
 - **Published online first:** 21 September 2023
 - **Open access:** CC BY-NC 4.0
 

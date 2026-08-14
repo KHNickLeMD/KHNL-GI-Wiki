@@ -3,7 +3,7 @@ title: "ACG 2022: Diagnosis and Management of Barrett's Esophagus"
 category: source
 tags: [barretts-esophagus, esophageal, dysplasia, eet, rfa, surveillance]
 created: 2026-05-15
-updated: 2026-05-28
+updated: 2026-08-14
 sources: []
 ---
 
@@ -11,6 +11,7 @@ sources: []
 
 - **Article:** [ACG 2022: Diagnosis and Management of Barrett's Esophagus.](https://doi.org/10.14309/ajg.0000000000001680)
 - **DOI:** [10.14309/ajg.0000000000001680](https://doi.org/10.14309/ajg.0000000000001680)
+- **Type:** guideline (ACG Clinical Guideline, GRADE)
 Shaheen NJ, Falk GW, Iyer PG, Souza RF, Yadlapati RH, Sauer BG, Wani S. Diagnosis and Management of Barrett's Esophagus: An Updated ACG Guideline. *Am J Gastroenterol*. 2022;117(4):559–587. <https://doi.org/10.14309/ajg.0000000000001680>
 
 - Authors: Nicholas J. Shaheen (UNC Chapel Hill), Gary W. Falk (UPenn), Prasad G. Iyer (Mayo Clinic MN), Rhonda F. Souza (Baylor), Rena H. Yadlapati (UCSD, GRADE methodologist), Bryan G. Sauer (UVA, GRADE methodologist), Sachin Wani (U Colorado)

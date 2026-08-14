@@ -3,7 +3,7 @@ title: "SAGES Guideline Update: Peroral Endoscopic Myotomy (POEM) for Achalasia 
 category: source
 tags: [poem, achalasia, peroral-endoscopic-myotomy, heller-myotomy, pneumatic-dilation, guideline, sages]
 created: 2026-06-04
-updated: 2026-06-04
+updated: 2026-08-14
 sources: []
 ---
 
@@ -44,3 +44,11 @@ Confirms POEM as a first-line achalasia therapy — superior to pneumatic dilati
 ## See Also
 
 [[poem]], [[achalasia]], [[high-resolution-manometry]], [[gerd]]
+
+## Relevance to Wiki
+
+Wiki pages built on or citing this source:
+
+- [[achalasia|Achalasia]]
+- [[heller-myotomy|Laparoscopic Heller Myotomy (LHM)]]
+- [[poem|POEM (Peroral Endoscopic Myotomy)]]

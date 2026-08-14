@@ -3,7 +3,7 @@ title: "ASGE Guideline: Role of Therapeutic EUS in Biliary Tract Disorders (2024
 category: source
 tags: [eus, biliary-drainage, eus-bd, eus-gbd, ercp, biliary-obstruction, guideline, asge]
 created: 2026-06-04
-updated: 2026-06-04
+updated: 2026-08-14
 sources: []
 ---
 
@@ -43,3 +43,11 @@ Establishes therapeutic EUS as a mainstream rescue/primary route for biliary and
 ## See Also
 
 [[endoscopic-ultrasound]], [[ercp]], [[biliary-stricture]], [[cholangiocarcinoma]]
+
+## Relevance to Wiki
+
+Wiki pages built on or citing this source:
+
+- [[acute-cholecystitis|Acute Cholecystitis]]
+- [[ercp|ERCP (Endoscopic Retrograde Cholangiopancreatography)]]
+- [[eus-guided-gallbladder-drainage|EUS-Guided Gallbladder Drainage (EUS-GBD)]]

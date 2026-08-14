@@ -3,7 +3,7 @@ title: "ASGE Guideline: Role of Endoscopy in Solid Pancreatic Masses (2024)"
 category: source
 tags: [eus, pancreatic-mass, fnb, fna, tissue-acquisition, biliary-drainage, guideline, asge]
 created: 2026-06-04
-updated: 2026-06-04
+updated: 2026-08-14
 sources: []
 ---
 
@@ -43,3 +43,10 @@ Cements **EUS-FNB as the first-choice sampling technique** for solid pancreatic 
 ## See Also
 
 [[endoscopic-ultrasound]], [[ercp]], [[pancreatic-cysts]]
+
+## Relevance to Wiki
+
+Wiki pages built on or citing this source:
+
+- [[endoscopic-ultrasound|Endoscopic Ultrasound (EUS)]]
+- [[pancreatic-cancer|Pancreatic Ductal Adenocarcinoma (Pancreatic Cancer)]]

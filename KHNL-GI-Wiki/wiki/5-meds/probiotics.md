@@ -3,7 +3,7 @@ title: "Probiotics"
 category: med
 tags: [probiotics, microbiome, dysbiosis, cdiff, ibd, pouchitis, ibs, nec, infectious-diarrhea]
 created: 2026-06-04
-updated: 2026-08-11
+updated: 2026-08-14
 sources: [aga-2020-probiotics, acg-2020-sibo]
 ---
 
@@ -37,7 +37,7 @@ Not covered by the AGA guideline; per [[acg-2020-sibo]]:
 
 - **No basis to recommend probiotics** (or [[fmt|FMT]]) for [[small-intestinal-bacterial-overgrowth|SIBO]].
 - Meta-analysis: probiotics appeared to reduce hydrogen production (OR 1.61, 95% CI 1.19–2.17), but the trials were mostly small and of poor quality, and stool frequency was unaffected.
-- **Probiotics may themselves cause SIBO and D-lactic acidosis**, producing gas and bloating; in a controlled study, withdrawal of the probiotic plus a course of antibiotics resolved symptoms.
+- **Probiotics may themselves cause SIBO and D-lactic acidosis**, producing gas and [[abdominal-bloating-and-distention|bloating]]; in a controlled study, withdrawal of the probiotic plus a course of antibiotics resolved symptoms.
 
 ## Named Strain Formulations
 
@@ -54,7 +54,7 @@ Not covered by the AGA guideline; per [[acg-2020-sibo]]:
 
 ## See Also
 
-[[clostridioides-difficile]], [[crohns-disease]], [[ulcerative-colitis]], [[irritable-bowel-syndrome]], [[pouchitis]], [[acute-diarrhea]], [[inflammatory-bowel-disease]], [[small-intestinal-bacterial-overgrowth]], [[fmt]]
+[[clostridioides-difficile]], [[crohns-disease]], [[ulcerative-colitis]], [[irritable-bowel-syndrome]], [[pouchitis]], [[acute-diarrhea]], [[inflammatory-bowel-disease]], [[small-intestinal-bacterial-overgrowth]], [[fmt]], [[abdominal-bloating-and-distention]]
 
 ---
 

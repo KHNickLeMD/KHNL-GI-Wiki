@@ -3,7 +3,7 @@ title: "G-POEM (Gastric Peroral Endoscopic Myotomy)"
 category: advanced-procedure
 tags: [gastroparesis, poem, g-poem, pyloromyotomy, third-space-endoscopy, gcsi, gastric-emptying, pyloric-therapy]
 created: 2026-07-23
-updated: 2026-08-08
+updated: 2026-08-14
 sources: [aga-2023-gpoem-gastroparesis]
 ---
 
@@ -52,7 +52,7 @@ Endoscopic pyloromyotomy (peroral endoscopic pyloromyotomy) for medically refrac
 | Cause | Notes |
 |---|---|
 | Endocrine | Diabetes ~25% of cases |
-| Post-surgical | Vagotomy (intended/unintended: esophagectomy, Billroth II, fundoplication, hernia repair); common after **lung or heart–lung transplant** (microaspiration → graft failure) |
+| Post-surgical | Vagotomy (intended/unintended: esophagectomy, Billroth II, [[antireflux-surgery\|fundoplication]], hernia repair); common after **lung or heart–lung transplant** (microaspiration → graft failure) |
 | Endoscopic sleeve gastroplasty | Constrains mid/distal stomach → delayed emptying |
 | Medications | Anticholinergics, GLP-1 receptor agonists; **opioids** (iatrogenic, reversible) |
 | Post-viral | Usually self-limited |
@@ -67,7 +67,7 @@ Endoscopic pyloromyotomy (peroral endoscopic pyloromyotomy) for medically refrac
 ## Technique
 
 - **Operator:** interventional endoscopists with expertise/training in **third-space endoscopy**. ESD experience not mandatory but shortens the learning curve; combined E-POEM + ESD expertise is immensely beneficial.
-- **Prep:** liquid diet ≥24 h; periprocedural antibiotics active against enteric pathogens; general anesthesia, **supine preferred** (easier detection of capnoperitoneum; tension pneumoperitoneum → percutaneous needle decompression).
+- **Prep:** liquid diet ≥24 h; [[antibiotic-prophylaxis-endoscopy|periprocedural antibiotics]] active against enteric pathogens; general anesthesia, **supine preferred** (easier detection of capnoperitoneum; tension pneumoperitoneum → percutaneous needle decompression).
 - **Equipment:** HD gastroscope with waterjet + clear distal cap; **low-flow CO₂ insufflation required — room air completely avoided**; impedance-modulating electrosurgical generator.
 
 **Steps:**
@@ -89,7 +89,7 @@ Endoscopic pyloromyotomy (peroral endoscopic pyloromyotomy) for medically refrac
 - Diet ladder: **full liquids 5–7 days**, then **5–6 small low-fiber, low-fat solid meals/day** (gastroparesis diet).
 - **8 weeks of [[proton-pump-inhibitors|PPI]]** (mucosal healing) + a short course of oral antibiotics.
 - **Same-day discharge** possible at experienced centers for reliable patients with ED access if: high-confidence mucosal closure, no intraoperative AEs, no major comorbidities, oral-controlled pain, liquids tolerated.
-- **Aspirin** (strong indication) may be continued; clopidogrel/warfarin/other antithrombotic resumption individualized.
+- **Aspirin** (strong indication) may be continued; clopidogrel/warfarin/other [[anticoagulation-gi-bleeding|antithrombotic]] resumption individualized.
 
 ## Follow-up and Efficacy Definitions
 
@@ -134,7 +134,7 @@ Endoscopic pyloromyotomy (peroral endoscopic pyloromyotomy) for medically refrac
 
 ## See Also
 
-[[gastroparesis]], [[poem]], [[endoscopic-submucosal-dissection]], [[flip-panometry]], [[upper-endoscopy]]
+[[gastroparesis]], [[poem]], [[endoscopic-submucosal-dissection]], [[flip-panometry]], [[upper-endoscopy]], [[antireflux-surgery]], [[antibiotic-prophylaxis-endoscopy]], [[anticoagulation-gi-bleeding]], [[proton-pump-inhibitors]]
 
 ---
 

@@ -3,7 +3,7 @@ title: "Ulcerative Colitis"
 category: disease-script
 tags: [uc, ulcerative-colitis, ibd, 5-asa, biologics, anti-tnf, vedolizumab, asuc, pancolitis, proctitis]
 created: 2026-05-07
-updated: 2026-08-06
+updated: 2026-08-14
 sources: [acg-2025-uc, aga-2024-uc-pharm, aga-2024-pouchitis, aga-2023-biomarkers-uc, acg-2019-uc, asge-2015-scenic-ibd-dysplasia, asge-2015-ibd, aga-2026-inpatient-ibd, aga-2024-intestinal-ultrasound, aga-2024-diet-nutrition-ibd, aga-2024-ibd-malignancy, aga-2024-pregnancy-gi-liver]
 ---
 
@@ -107,7 +107,7 @@ Idiopathic chronic inflammatory disorder of the large intestine. Continuous muco
 | [[colon-ischemia\|Ischemic colitis]] | Vascular risk factors; watershed distribution; transient course |
 | [[microscopic-colitis\|Microscopic colitis]] | Watery nonbloody diarrhea; normal endoscopy; biopsy required |
 | [[radiation-proctopathy\|Radiation proctitis]] | History of pelvic radiation |
-| Diversion colitis | Post-ostomy segment; mucous discharge |
+| Diversion colitis | Post-[[ostomy-management\|ostomy]] segment; mucous discharge |
 | Medication-induced colitis | NSAID, mycophenolate, checkpoint inhibitor (immune checkpoint colitis) |
 
 ---
@@ -265,7 +265,7 @@ Idiopathic chronic inflammatory disorder of the large intestine. Continuous muco
    - Hydrocortisone 100 mg TID or QID
 6. **Day 3 assessment:**
    - Adequate response: continue IVCS; transition to oral steroid + advanced therapy
-   - **Inadequate response → RESCUE: infliximab OR cyclosporine**
+   - **Inadequate response → RESCUE: infliximab OR [[calcineurin-inhibitors|cyclosporine]]**
      - IFX preferred if: prior immunomodulator failure; no prior anti-TNF use; albumin normal
      - Cyclosporine preferred if: no prior thiopurine; need bridging; provider experience
      - **IFX dose intensification** (10 mg/kg, or accelerated dosing) if albumin <2.5 g/dL
@@ -352,7 +352,7 @@ Idiopathic chronic inflammatory disorder of the large intestine. Continuous muco
 
 ## See Also
 
-[[crohns-disease]], [[inflammatory-bowel-disease]], [[uc-vs-crohns-comparison]], [[ibd-preventive-care]], [[ibd-endoscopic-scoring]], [[intestinal-ultrasound]], [[clostridioides-difficile]], [[primary-sclerosing-cholangitis]], [[colorectal-cancer]], [[colonoscopy]], [[colon-ischemia]], [[microscopic-colitis]], [[radiation-proctopathy]], [[pouchitis]], [[chronic-diarrhea]], [[nutrition-in-ibd]], [[ibd-in-malignancy]], [[liver-disease-in-pregnancy]], [[nausea-and-vomiting-of-pregnancy]]
+[[crohns-disease]], [[inflammatory-bowel-disease]], [[uc-vs-crohns-comparison]], [[ibd-preventive-care]], [[ibd-endoscopic-scoring]], [[intestinal-ultrasound]], [[clostridioides-difficile]], [[primary-sclerosing-cholangitis]], [[colorectal-cancer]], [[colonoscopy]], [[colon-ischemia]], [[microscopic-colitis]], [[radiation-proctopathy]], [[pouchitis]], [[chronic-diarrhea]], [[nutrition-in-ibd]], [[ibd-in-malignancy]], [[liver-disease-in-pregnancy]], [[nausea-and-vomiting-of-pregnancy]], [[ostomy-management]], [[calcineurin-inhibitors]]
 
 ---
 

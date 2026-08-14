@@ -3,7 +3,7 @@ title: "Distal Esophageal Spasm"
 category: disease-script
 tags: [des, spasm, esophageal, motility, dysphagia, chest-pain, chicago-classification]
 created: 2026-05-16
-updated: 2026-08-11
+updated: 2026-08-14
 sources: [chicago-v4-2021-esophageal-dysmotility, aga-2025-flip-esophageal, acg-2020-achalasia, aga-2024-poem-advances]
 ---
 
@@ -20,7 +20,7 @@ Distal esophageal spasm (DES) is defined by **Chicago Classification v4.0** crit
 
 **Distinguishes DES from [[hypercontractile-esophagus|hypercontractile esophagus]]:** DES is premature/disordered contraction; hypercontractile esophagus is high-amplitude contraction (DCI >8,000 mmHg·s·cm).
 
-**Symptoms:** [[dysphagia|Dysphagia]] (to solids and liquids), non-cardiac chest pain (NCCP); symptoms episodic and may not correlate with manometric abnormality during study.
+**Symptoms:** Dysphagia (to solids and liquids), non-cardiac chest pain (NCCP); symptoms episodic and may not correlate with manometric abnormality during study.
 
 ---
 

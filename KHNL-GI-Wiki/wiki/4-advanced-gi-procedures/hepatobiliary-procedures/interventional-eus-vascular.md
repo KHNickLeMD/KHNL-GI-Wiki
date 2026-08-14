@@ -3,7 +3,7 @@ title: "Interventional EUS for Vascular Investigation and Therapy"
 category: advanced-procedure
 tags: [eus, gastric-varices, coil-embolization, cyanoacrylate, eus-ppg, portal-pressure-gradient, portal-vein-sampling, pseudoaneurysm, splenic-artery-embolization, rectal-varices, portal-hypertension]
 created: 2026-07-23
-updated: 2026-08-12
+updated: 2026-08-14
 sources: [aga-2023-interventional-eus-vascular, wang-2026-eus-ppg-delphi-consensus]
 ---
 
@@ -85,7 +85,7 @@ sources: [aga-2023-interventional-eus-vascular, wang-2026-eus-ppg-delphi-consens
 ([[aga-2023-interventional-eus-vascular]])
 
 1. Patient **supine**, preferably under **general anesthesia** to minimize movement.
-2. **One dose of prophylactic antibiotics** (e.g., ciprofloxacin or cefazolin).
+2. **One dose of [[antibiotic-prophylaxis-endoscopy|prophylactic antibiotics]]** (e.g., ciprofloxacin or cefazolin).
 3. **Level the compact manometer at the midaxillary line / level of the right heart** and keep it there for the entire procedure.
 4. Linear echoendoscope: identify hepatic veins anatomically, confirm by Doppler; target the **middle or left hepatic vein with a 25-gauge needle via a transgastric approach**.
 5. Take **≥3 consecutive pressure measurements** (one-needle-stick approach) and average them.
@@ -101,7 +101,7 @@ sources: [aga-2023-interventional-eus-vascular, wang-2026-eus-ppg-delphi-consens
 - **Monitoring response** to medications or other intervention
 - Strongest argument for use: **when there is already another indication for endoscopy** — variceal screening or [[liver-biopsy|liver biopsy]] — allowing [[upper-endoscopy|EGD]], EUS, PPG, biopsy, and assessment/treatment of portal-hypertensive endoscopic features (varices, portal hypertensive gastropathy) in one session
 
-**Evidence:** first human 2014; 28-patient series — excellent correlation between EUS-PPG and endoscopic findings of portal hypertension in suspected cirrhosis; 64-patient retrospective series with concurrent liver biopsy — excellent correlation with **histologic fibrosis stage**, clinical portal hypertension, thrombocytopenia, splenomegaly, **APRI >2**, and **FIB-4 >3.25**, with **no reported adverse events**; 83-patient series — correlated with thrombocytopenia and varices, again no AEs.
+**Evidence:** first human 2014; 28-patient series — excellent correlation between EUS-PPG and endoscopic findings of portal hypertension in suspected cirrhosis; 64-patient retrospective series with concurrent liver biopsy — excellent correlation with **histologic fibrosis stage**, clinical portal hypertension, thrombocytopenia, splenomegaly, **APRI >2**, and **[[noninvasive-liver-disease-assessment|FIB-4]] >3.25**, with **no reported adverse events**; 83-patient series — correlated with thrombocytopenia and varices, again no AEs.
 
 ### Best-practice consensus (Wang 2026 Delphi)
 
@@ -115,7 +115,7 @@ International expert modified-Delphi consensus (53 statements) on how to perform
 **Pre-procedure:**
 - **Anesthesia:** monitored anesthesia care or general anesthesia to minimize movement (S13); keep anesthesia at steady state — avoid boluses during measurements (S41–43).
 - **Coagulation (S11):** **no specific platelet or INR cutoff** can be recommended — these poorly reflect procedural bleeding risk in [[cirrhosis]]; where available, **TEG/TEM** better predicts bleeding risk. (Departs from the platelet <50 K / INR >2.0 thresholds used for other EUS procedures.)
-- **Ascites:** avoid with tense/massive ascites; reasonable in grade 1–2, consider pre-procedural large-volume paracentesis if feasible (S6, S12).
+- **[[ascites|Ascites]]:** avoid with tense/massive ascites; reasonable in grade 1–2, consider pre-procedural large-volume paracentesis if feasible (S6, S12).
 
 **Intra-procedure protocol (S18–43):**
 
@@ -164,7 +164,7 @@ International expert modified-Delphi consensus (53 statements) on how to perform
 
 ## See Also
 
-[[endoscopic-ultrasound]], [[variceal-upper-gi-bleeding]], [[portal-hypertension]], [[hepatic-venous-pressure-gradient]], [[tips]], [[cirrhosis]], [[liver-biopsy]], [[portal-vein-thrombosis]], [[eus-guided-gallbladder-drainage]]
+[[endoscopic-ultrasound]], [[variceal-upper-gi-bleeding]], [[portal-hypertension]], [[hepatic-venous-pressure-gradient]], [[tips]], [[cirrhosis]], [[liver-biopsy]], [[portal-vein-thrombosis]], [[eus-guided-gallbladder-drainage]], [[ascites]], [[noninvasive-liver-disease-assessment]], [[antibiotic-prophylaxis-endoscopy]]
 
 ---
 

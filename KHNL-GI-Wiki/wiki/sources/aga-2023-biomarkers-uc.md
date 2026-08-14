@@ -3,7 +3,7 @@ title: "AGA Clinical Practice Guideline: Role of Biomarkers for the Management o
 category: source
 tags: [ulcerative-colitis, biomarkers, fecal-calprotectin, fecal-lactoferrin, crp, treat-to-target, ibd, guideline, aga]
 created: 2026-06-04
-updated: 2026-06-04
+updated: 2026-08-14
 sources: []
 ---
 
@@ -43,3 +43,9 @@ Integrates stool and serum biomarkers (calprotectin <150 to rule out, >150 to ru
 ## See Also
 
 [[ulcerative-colitis]], [[inflammatory-bowel-disease]], [[crohns-disease]]
+
+## Relevance to Wiki
+
+Wiki pages built on or citing this source:
+
+- [[ulcerative-colitis|Ulcerative Colitis]]

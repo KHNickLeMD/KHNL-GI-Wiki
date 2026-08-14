@@ -3,7 +3,7 @@ title: "AGA Clinical Practice Guideline: Pharmacological Interventions for Adult
 category: source
 tags: [obesity, weight-management, semaglutide, glp1, pharmacotherapy, guideline, aga]
 created: 2026-06-04
-updated: 2026-06-04
+updated: 2026-08-14
 sources: []
 ---
 
@@ -44,3 +44,11 @@ Establishes drug therapy as standard adjunct to lifestyle, with **[[semaglutide]
 ## See Also
 
 [[semaglutide]], [[nafld-masld]]
+
+## Relevance to Wiki
+
+Wiki pages built on or citing this source:
+
+- [[intragastric-balloon|Intragastric Balloon (IGB)]]
+- [[obesity|Obesity]]
+- [[semaglutide|Semaglutide (Wegovy, Ozempic, Rybelsus)]]

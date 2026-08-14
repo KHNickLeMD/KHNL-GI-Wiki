@@ -3,7 +3,7 @@ title: "ACG 2023: Diagnosis and Management of Biliary Strictures"
 category: source
 tags: [biliary-stricture, ercp, eus, cholangioscopy, hepatobiliary]
 created: 2026-05-15
-updated: 2026-05-28
+updated: 2026-08-14
 sources: []
 ---
 
@@ -11,6 +11,7 @@ sources: []
 
 - **Article:** [ACG 2023: Diagnosis and Management of Biliary Strictures.](https://doi.org/10.14309/ajg.0000000000002190)
 - **DOI:** [10.14309/ajg.0000000000002190](https://doi.org/10.14309/ajg.0000000000002190)
+- **Type:** guideline (ACG Clinical Guideline, GRADE)
 Elmunzer BJ, Maranki JL, Gómez V, Tavakkoli A, Sauer BG, Limketkai BN, et al. ACG Clinical Guideline: Diagnosis and Management of Biliary Strictures. *Am J Gastroenterol* 2023;118:405–426. doi:10.14309/ajg.0000000000002190. Published online January 17, 2023.
 
 Evidence graded using GRADE framework. Recommendations rated Strong or Conditional; evidence quality rated High, Moderate, Low, or Very Low.

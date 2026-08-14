@@ -3,7 +3,7 @@ title: "AASLD Practice Guidance: Reproductive Health and Liver Disease (2021)"
 category: source
 tags: [pregnancy, liver-disease, contraception, cirrhosis-pregnancy, intrahepatic-cholestasis, guidance, aasld]
 created: 2026-06-04
-updated: 2026-06-04
+updated: 2026-08-14
 sources: []
 ---
 
@@ -43,3 +43,10 @@ Provides contraception guidance, variceal screening in cirrhotic pregnancy, MFM 
 ## See Also
 
 [[liver-disease-in-pregnancy]], [[portal-hypertension]], [[autoimmune-hepatitis]], [[hepatitis-c-in-pregnancy]]
+
+## Relevance to Wiki
+
+Wiki pages built on or citing this source:
+
+- [[hepatitis-c-in-pregnancy|Hepatitis C in Pregnancy]]
+- [[liver-disease-in-pregnancy|Liver Disease in Pregnancy]]

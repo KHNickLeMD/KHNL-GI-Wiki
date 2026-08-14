@@ -3,7 +3,7 @@ title: "Lubiprostone"
 category: med
 tags: [lubiprostone, chloride-channel-activator, secretagogue, ibs-c, cic, constipation]
 created: 2026-06-01
-updated: 2026-07-17
+updated: 2026-08-14
 sources: [acg-2020-ibs, aga-2022-ibs-c, aga-acg-2023-constipation]
 ---
 
@@ -13,7 +13,7 @@ Chloride channel activator; intestinal secretagogue.
 
 ## Indications & Dosing
 
-- **[[chronic-idiopathic-constipation]]**: 24 mcg PO BID — Conditional/Low ([[aga-acg-2023-constipation]]). Indicated only **when OTC agents fail** (fiber, PEG, stimulant laxatives tried first).
+- **[[chronic-idiopathic-constipation|Chronic idiopathic constipation]]**: 24 mcg PO BID — Conditional/Low ([[aga-acg-2023-constipation]]). Indicated only **when OTC agents fail** (fiber, PEG, stimulant laxatives tried first).
 - **[[irritable-bowel-syndrome|IBS]]-C**: *suggested* (conditional) ([[aga-2022-ibs-c]]); ACG 2020 graded it Strong/Moderate for global IBS-C symptoms ([[acg-2020-ibs]]) — see [[#Contradictions]].
   - *Dose for IBS-C is not specified in the ingested sources.*
 

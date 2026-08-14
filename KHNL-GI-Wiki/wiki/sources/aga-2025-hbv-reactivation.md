@@ -3,7 +3,7 @@ title: "AGA Clinical Practice Guideline: Prevention and Treatment of HBV Reactiv
 category: source
 tags: [hepatitis-b, hbv-reactivation, antiviral-prophylaxis, immunosuppression, rituximab, guideline, aga]
 created: 2026-06-04
-updated: 2026-06-04
+updated: 2026-08-14
 sources: []
 ---
 
@@ -46,3 +46,9 @@ Test-before-treat is universal; prophylaxis is mandatory in high-risk (especiall
 ## See Also
 
 [[chronic-hepatitis-b]], [[abnormal-liver-chemistries]]
+
+## Relevance to Wiki
+
+Wiki pages built on or citing this source:
+
+- [[chronic-hepatitis-b|Chronic Hepatitis B]]

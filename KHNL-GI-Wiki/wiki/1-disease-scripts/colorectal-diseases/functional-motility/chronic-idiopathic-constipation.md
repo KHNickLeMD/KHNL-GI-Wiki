@@ -3,7 +3,7 @@ title: "Chronic Idiopathic Constipation"
 category: disease-script
 tags: [constipation, cic, laxatives, secretagogues, peg, linaclotide, colorectal, functional]
 created: 2026-05-16
-updated: 2026-07-29
+updated: 2026-08-14
 sources: [aga-acg-2023-constipation, acg-2021-anorectal-disorders, asge-2014-constipation, aga-2026-refractory-constipation]
 ---
 
@@ -67,7 +67,7 @@ Assess impact on quality of life using validated tools (PAC-QoL, PAC-SYM) and st
 - Rectal bleeding not explained by [[hemorrhoids]]
 - Unexplained weight loss ≥10 lbs
 - Family history of CRC or [[inflammatory-bowel-disease|IBD]]
-- Iron deficiency anemia
+- [[iron-deficiency-anemia|Iron deficiency anemia]]
 - Positive stool blood test
 
 ---
@@ -91,9 +91,9 @@ Assess impact on quality of life using validated tools (PAC-QoL, PAC-SYM) and st
 
 [[asge-2014-constipation]] — endoscopy is **not** part of the initial workup of chronic constipation absent alarm features or organic-disease suspicion. Yield of colonoscopy for isolated constipation is **low** (comparable to average-risk screening); meta-analysis shows no increased CRC risk.
 
-- **Scope when:** alarm features (above), before surgery for constipation, or age-appropriate CRC screening not yet done. Flexible sigmoidoscopy may suffice in younger patients to exclude distal disease; suspected Hirschsprung needs [[anorectal-manometry|ARM]] + deep biopsy.
+- **Scope when:** alarm features (above), before surgery for constipation, or age-appropriate [[colorectal-cancer-screening|CRC screening]] not yet done. Flexible sigmoidoscopy may suffice in younger patients to exclude distal disease; suspected Hirschsprung needs [[anorectal-manometry|ARM]] + deep biopsy.
 - **Incidental findings:** solitary rectal ulcer syndrome (suggests [[rectal-prolapse]]), [[anal-fissure]], melanosis coli (chronic laxative use).
-- **Therapeutic role:** dilation of benign colonic strictures (IBD, surgical, ischemic); percutaneous endoscopic cecostomy/colostomy for refractory neurogenic bowel. **No role in stool disimpaction.**
+- **Therapeutic role:** dilation of benign colonic strictures (IBD, surgical, [[colon-ischemia|ischemic]]); percutaneous endoscopic cecostomy/colostomy for refractory neurogenic bowel. **No role in stool disimpaction.**
 - Chronic constipation is an independent risk factor for inadequate bowel prep → use a more aggressive cleansing regimen.
 
 ---
@@ -166,7 +166,7 @@ If defecation disorder is identified (abnormal ARM + BET), **[[biofeedback-thera
 - Preoperative work-up: **regional gut transit testing** + **psychological evaluation**.
 - **Colectomy with ileorectal anastomosis** only in patients without ongoing defecatory disorder.
 - Relative contraindications: severe untreated psychiatric disease (incl. active eating disorders, unresolved sexual trauma), bloating/abdominal-pain–predominant symptoms, reversible secondary causes, significant upper-gut dysmotility.
-- A **diverting loop ileostomy** can serve as a reversible **diagnostic trial** of surgery when efficacy or contraindications are uncertain.
+- A **[[ostomy-management|diverting loop ileostomy]]** can serve as a reversible **diagnostic trial** of surgery when efficacy or contraindications are uncertain.
 
 ---
 

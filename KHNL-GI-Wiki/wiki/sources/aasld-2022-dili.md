@@ -3,7 +3,7 @@ title: "AASLD Practice Guidance: Drug, Herbal, and Dietary Supplement-Induced Li
 category: source
 tags: [dili, drug-induced-liver-injury, herbal-supplement, hepatotoxicity, rucam, guidance, aasld]
 created: 2026-06-04
-updated: 2026-06-04
+updated: 2026-08-14
 sources: []
 ---
 
@@ -44,3 +44,10 @@ Frames DILI workup (exclude virals/AIH/obstruction, assess causality, scrutinize
 ## See Also
 
 [[drug-induced-liver-injury]], [[immune-checkpoint-inhibitor-hepatitis]], [[acute-liver-failure]], [[abnormal-liver-chemistries]]
+
+## Relevance to Wiki
+
+Wiki pages built on or citing this source:
+
+- [[drug-induced-liver-injury|Drug-Induced Liver Injury (Idiosyncratic)]]
+- [[immune-checkpoint-inhibitor-hepatitis|Immune Checkpoint Inhibitor Hepatitis (ICI Hepatotoxicity)]]

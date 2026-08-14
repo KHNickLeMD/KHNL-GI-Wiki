@@ -3,7 +3,7 @@ title: "Hepatic Cysts"
 category: disease-script
 tags: [hepatic-cysts, liver, hpb, focal-liver-lesion, simple-cyst, complex-cyst, polycystic-liver]
 created: 2026-05-07
-updated: 2026-08-03
+updated: 2026-08-14
 sources: [acg-2024-focal-liver-lesions]
 ---
 
@@ -44,7 +44,7 @@ sources: [acg-2024-focal-liver-lesions]
 **For a cystic liver lesion:**
 
 - **Pyogenic liver abscess** — fever, elevated WBC, right-sided pleuritic pain; internal debris/air; travel history or recent biliary intervention; [[entamoeba-histolytica-infection|amoebic abscess]] (tropical exposure, elevated serology)
-- **[[hepatocellular-carcinoma|HCC]] with necrosis** — in cirrhotic background; [[li-rads|LI-RADS]] features; solid areas
+- **[[hepatocellular-carcinoma|HCC]] with necrosis** — in [[cirrhosis|cirrhotic]] background; [[li-rads|LI-RADS]] features; solid areas
 - **Mucinous cystic neoplasm (MCN)** — middle-aged women; cystic + solid components; does not communicate with bile ducts; ovarian-type stroma on histology
 - **Intraductal papillary mucinous neoplasm (IPMN) — biliary type** (BT-IPMN): communicates with bile duct; ductal dilation on [[mri-mrcp|MRCP]]
 - **Metastasis (cystic)** — [[gastroenteropancreatic-neuroendocrine-tumors|neuroendocrine tumor]], [[gastrointestinal-stromal-tumor|GI stromal tumor]]; known primary malignancy
@@ -116,7 +116,7 @@ sources: [acg-2024-focal-liver-lesions]
 
 ## See Also
 
-[[focal-liver-lesions]], [[hepatocellular-adenoma]], [[focal-nodular-hyperplasia]], [[hepatic-hemangioma]], [[hepatocellular-carcinoma]], [[cholangiocarcinoma]], [[li-rads]]
+[[focal-liver-lesions]], [[hepatocellular-adenoma]], [[focal-nodular-hyperplasia]], [[hepatic-hemangioma]], [[hepatocellular-carcinoma]], [[cholangiocarcinoma]], [[li-rads]], [[cirrhosis]], [[liver-transplantation]], [[somatostatin-analogs]], [[mri-mrcp]]
 
 ---
 

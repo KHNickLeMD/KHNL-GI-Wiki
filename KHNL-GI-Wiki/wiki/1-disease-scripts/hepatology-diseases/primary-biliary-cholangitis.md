@@ -101,7 +101,7 @@ Up to 40% of patients will have an inadequate response by one of these criteria 
 
 - **Ultrasound (first-line):** Required to exclude biliary obstruction and evaluate for cirrhosis/portal hypertension.
 - **MRCP or cholangiography:** Indicated if diagnosis is uncertain; excludes PSC or other biliary tract disease.
-- **Transient elastography:** Useful for fibrosis staging, risk stratification, and treatment monitoring. Liver stiffness stable in noncirrhotic PBC on UDCA; significantly increases in patients with cirrhosis.
+- **[[liver-stiffness-measurement|Transient elastography]]:** Useful for fibrosis staging, risk stratification, and treatment monitoring. Liver stiffness stable in noncirrhotic PBC on UDCA; significantly increases in patients with cirrhosis.
 
 ### Liver Biopsy
 
@@ -254,7 +254,7 @@ Portal hypertension may develop as a result of biliary cirrhosis or, in the **pr
 
 ### Hepatocellular Carcinoma Surveillance
 
-PBC confers a slightly elevated [[hepatocellular-carcinoma|HCC]] risk (3.9 cases per 1,000 person-years), lower than viral hepatitis or hemochromatosis but clinically relevant. Men and patients with advanced disease are at highest risk. Suboptimal UDCA response is an important risk factor.
+PBC confers a slightly elevated [[hepatocellular-carcinoma|HCC]] risk (3.9 cases per 1,000 person-years), lower than viral hepatitis or [[hereditary-hemochromatosis|hemochromatosis]] but clinically relevant. Men and patients with advanced disease are at highest risk. Suboptimal UDCA response is an important risk factor.
 
 **[[hcc-surveillance|HCC surveillance]] with cross-sectional imaging ± AFP every 6 months** is currently advised for (Guidance Statement 16):
 

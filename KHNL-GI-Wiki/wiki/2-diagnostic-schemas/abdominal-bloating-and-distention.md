@@ -3,7 +3,7 @@ title: "Abdominal Bloating, Distention, and Belching"
 category: diagnostic-schema
 tags: [bloating, distention, belching, aerophagia, dgbi, functional-gi, sibo, fodmap]
 created: 2026-07-19
-updated: 2026-08-13
+updated: 2026-08-14
 sources: [aga-2023-bloating]
 ---
 
@@ -45,7 +45,7 @@ Three prevalent, often-overlapping symptoms; when frequent/severe enough to impa
 - **[[small-intestinal-bacterial-overgrowth|SIBO]]** / **[[intestinal-methanogen-overgrowth]]** (methane, *M. smithii*, esp. IBS-C).
 - **Pelvic floor / defecatory dysfunction** — dyssynergic defecation with retained stool ([[defecation-disorders]]).
 - **Abdominophrenic dyssynergia (APD)** — paradoxical diaphragm descent + anterior abdominal wall relaxation producing visible distention.
-- **Structural / alarm** — [[ascites]], intra-abdominal mass, bowel obstruction/ileus/pseudo-obstruction, ovarian cancer (bloating a presenting symptom, esp. women ≥50), [[chronic-pancreatitis]] (bloating despite enzyme replacement).
+- **Structural / alarm** — [[ascites]], intra-abdominal mass, bowel obstruction/ileus/[[acute-colonic-pseudo-obstruction|pseudo-obstruction]], ovarian cancer (bloating a presenting symptom, esp. women ≥50), [[chronic-pancreatitis]] (bloating despite enzyme replacement).
 
 ---
 
@@ -111,7 +111,7 @@ Order labs/imaging/endoscopy (BPA 6) when present:
 
 ## See Also
 
-[[disorders-of-gut-brain-interaction]], [[irritable-bowel-syndrome]], [[chronic-idiopathic-constipation]], [[small-intestinal-bacterial-overgrowth]], [[intestinal-methanogen-overgrowth]], [[celiac-disease]], [[gastroparesis]], [[dyspepsia]], [[defecation-disorders]], [[chronic-diarrhea]], [[nausea-and-vomiting]], [[gerd]], [[reflux-testing]], [[ambulatory-reflux-monitoring]], [[high-resolution-manometry]], [[anorectal-manometry]], [[biofeedback-therapy]], [[small-bowel-motility]], [[inflammatory-bowel-disease]], [[chronic-pancreatitis]], [[ascites]], [[proton-pump-inhibitors]], [[probiotics]]
+[[disorders-of-gut-brain-interaction]], [[irritable-bowel-syndrome]], [[chronic-idiopathic-constipation]], [[small-intestinal-bacterial-overgrowth]], [[intestinal-methanogen-overgrowth]], [[celiac-disease]], [[gastroparesis]], [[dyspepsia]], [[defecation-disorders]], [[chronic-diarrhea]], [[nausea-and-vomiting]], [[gerd]], [[reflux-testing]], [[ambulatory-reflux-monitoring]], [[high-resolution-manometry]], [[anorectal-manometry]], [[biofeedback-therapy]], [[small-bowel-motility]], [[inflammatory-bowel-disease]], [[chronic-pancreatitis]], [[ascites]], [[acute-colonic-pseudo-obstruction]], [[proton-pump-inhibitors]], [[probiotics]]
 
 ---
 

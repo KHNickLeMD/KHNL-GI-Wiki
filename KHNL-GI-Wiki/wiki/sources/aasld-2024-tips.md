@@ -3,7 +3,7 @@ title: "AASLD Practice Guidance: TIPS, Variceal Embolization, and Retrograde Tra
 category: source
 tags: [tips, portal-hypertension, variceal-bleeding, refractory-ascites, brto, rifaximin, guidance, aasld]
 created: 2026-06-04
-updated: 2026-06-04
+updated: 2026-08-14
 sources: []
 ---
 
@@ -45,3 +45,10 @@ Defines modern TIPS practice: covered stents, gradient-guided dilation, early TI
 ## See Also
 
 [[portal-hypertension]], [[variceal-upper-gi-bleeding]], [[ascites]], [[hepatic-encephalopathy]], [[rifaximin]], [[portal-vein-thrombosis]], [[budd-chiari-syndrome]]
+
+## Relevance to Wiki
+
+Wiki pages built on or citing this source:
+
+- [[portal-hypertension|Portal Hypertension]]
+- [[tips|TIPS (Transjugular Intrahepatic Portosystemic Shunt)]]

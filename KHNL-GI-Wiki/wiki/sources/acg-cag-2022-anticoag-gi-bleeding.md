@@ -3,7 +3,7 @@ title: "ACG/CAG 2022: Management of Anticoagulants and Antiplatelets During Acut
 category: source
 tags: [anticoagulation, antiplatelets, gi-bleeding, periendoscopic, doac, warfarin, bridging]
 created: 2026-05-15
-updated: 2026-05-28
+updated: 2026-08-14
 sources: []
 ---
 
@@ -15,6 +15,7 @@ sources: []
 - **Year:** 2022
 - **Volume/Pages:** 117:542–558
 - **DOI:** [10.14309/ajg.0000000000001627](https://doi.org/10.14309/ajg.0000000000001627)
+- **Type:** guideline (joint ACG/CAG Clinical Guideline, GRADE)
 - **Published online:** March 17, 2022
 - **Methodology:** GRADE-based systematic review; 18 PICO questions; 6 voting content experts (4 gastroenterologists, 1 cardiologist, 1 thrombosis expert); consensus threshold 75%
 

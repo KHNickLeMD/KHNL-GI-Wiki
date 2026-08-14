@@ -3,7 +3,7 @@ title: "Calcineurin Inhibitors"
 category: med
 tags: [calcineurin-inhibitor, tacrolimus, cyclosporine, immunosuppression, transplant, liver-transplant, nephrotoxicity, basiliximab, induction, cnm-minimization]
 created: 2026-05-19
-updated: 2026-08-11
+updated: 2026-08-14
 sources: [aasld-2012-liver-transplant-long-term, aasld-ast-2025-liver-transplant-graft-complications]
 ---
 
@@ -79,7 +79,7 @@ Both TAC and CSA are CYP3A4/P-gp substrates. Key interactions:
 
 ## Complete IS Withdrawal
 
-Complete IS withdrawal ([[operational-tolerance]]) is not routinely recommended ([[aasld-ast-2025-liver-transplant-graft-complications]], Rec 36, Strong, Level 4). See [[operational-tolerance]] for full discussion.
+Complete IS withdrawal ([[operational-tolerance|operational tolerance]]) is not routinely recommended ([[aasld-ast-2025-liver-transplant-graft-complications]], Rec 36, Strong, Level 4). See that page for full discussion.
 
 ## See Also
 

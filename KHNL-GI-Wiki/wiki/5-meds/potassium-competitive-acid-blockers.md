@@ -3,7 +3,7 @@ title: "Potassium-Competitive Acid Blockers (P-CABs)"
 category: med
 tags: [pcab, vonoprazan, tegoprazan, acid-suppression, ppi, gerd, h-pylori, peptic-ulcer-disease]
 created: 2026-07-21
-updated: 2026-08-12
+updated: 2026-08-14
 sources: [aga-2024-pcab, acg-2024-hp-treatment]
 ---
 
@@ -63,7 +63,7 @@ Drug **class** of gastric acid suppressants that block the H⁺/K⁺-ATPase **co
 | Scenario | Guidance | BPA |
 |---|---|---|
 | Treatment / prophylaxis of [[peptic-ulcer-disease\|PUD]] | Generally **not first-line** (noninferior, not superior, to PPIs; higher cost) | 8 |
-| Bleeding gastroduodenal ulcer, high-risk stigmata | Insufficient evidence for first-line use; rapid potent acid inhibition raises possibility of utility | 9 |
+| [[upper-gi-bleeding\|Bleeding gastroduodenal ulcer]], high-risk stigmata | Insufficient evidence for first-line use; rapid potent acid inhibition raises possibility of utility | 9 |
 
 - Noninferior to lansoprazole for gastric/duodenal ulcer healing and for secondary prophylaxis (low-dose aspirin / NSAIDs). Potential (scant-evidence) role in Zollinger-Ellison syndrome. Post-hemostasis, oral vonoprazan noninferior to high-dose IV PPI for rebleeding ([[aga-2024-pcab]]).
 
@@ -79,7 +79,7 @@ Drug **class** of gastric acid suppressants that block the H⁺/K⁺-ATPase **co
 
 ## See Also
 
-[[vonoprazan]], [[proton-pump-inhibitors]], [[gerd]], [[helicobacter-pylori-infection]], [[peptic-ulcer-disease]], [[bismuth-quadruple-therapy]], [[test-and-treat]], [[clostridioides-difficile]], [[reflux-testing]]
+[[vonoprazan]], [[proton-pump-inhibitors]], [[gerd]], [[helicobacter-pylori-infection]], [[peptic-ulcer-disease]], [[upper-gi-bleeding]], [[bismuth-quadruple-therapy]], [[test-and-treat]], [[clostridioides-difficile]], [[reflux-testing]]
 
 ---
 

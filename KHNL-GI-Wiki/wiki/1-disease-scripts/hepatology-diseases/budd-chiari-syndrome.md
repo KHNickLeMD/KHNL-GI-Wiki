@@ -3,7 +3,7 @@ title: "Budd-Chiari Syndrome"
 category: disease-script
 tags: [budd-chiari, hepatic-vein, thrombosis, portal-hypertension, liver-failure, mpn, jak2, anticoagulation, tips]
 created: 2026-05-21
-updated: 2026-08-11
+updated: 2026-08-14
 sources: [acg-2020-hepatic-mesenteric-circulation, baveno-vii-2022-portal-hypertension]
 ---
 
@@ -148,7 +148,7 @@ Step 4: [[liver-transplantation|Liver transplantation]]
 
 ### HCC Surveillance
 
-- **Baveno VII (8.13–8.17)** [[baveno-vii-2022-portal-hypertension]]: hepatic nodules in BCS are frequent and **most often benign**, but HCC occurs — monitor with periodic imaging **and AFP** (B.1); a **6-month interval** can be proposed (C.1); whether ultrasound or MRI is the right surveillance modality is **still unclear** (C.1). Refer nodule-developing patients to experienced centres (D.1); characterise a nodule first with **MRI using hepatobiliary contrast agents**, and **biopsy the lesion for definitive HCC diagnosis** (C.1)
+- **Baveno VII (8.13–8.17)** [[baveno-vii-2022-portal-hypertension]]: [[focal-liver-lesions|hepatic nodules]] in BCS are frequent and **most often benign**, but HCC occurs — monitor with periodic imaging **and AFP** (B.1); a **6-month interval** can be proposed (C.1); whether ultrasound or MRI is the right surveillance modality is **still unclear** (C.1). Refer nodule-developing patients to experienced centres (D.1); characterise a nodule first with **MRI using hepatobiliary contrast agents**, and **biopsy the lesion for definitive HCC diagnosis** (C.1)
 - US + AFP every 6 months in all BCS patients (Conditional, Low evidence) [[acg-2020-hepatic-mesenteric-circulation]]
 - Elevated HCC risk even without cirrhosis — do not defer surveillance based on absence of fibrosis
 - If HCC found: standard staging and treatment; however, transplant may be needed if LT is planned for BCS anyway
@@ -157,7 +157,7 @@ Step 4: [[liver-transplantation|Liver transplantation]]
 
 ## See Also
 
-[[portal-vein-thrombosis]], [[porto-sinusoidal-vascular-disorder]], [[hepatocellular-carcinoma]], [[acute-liver-failure]], [[liver-transplantation]], [[cirrhosis-hemostasis]], [[portal-hypertension]], [[tips]], [[hepatic-encephalopathy]], [[ascites]], [[jaundice]], [[hcc-surveillance]], [[liver-biopsy]], [[mri-mrcp]]
+[[portal-vein-thrombosis]], [[porto-sinusoidal-vascular-disorder]], [[hepatocellular-carcinoma]], [[acute-liver-failure]], [[liver-transplantation]], [[cirrhosis-hemostasis]], [[portal-hypertension]], [[tips]], [[hepatic-encephalopathy]], [[ascites]], [[jaundice]], [[hcc-surveillance]], [[liver-biopsy]], [[mri-mrcp]], [[focal-liver-lesions]]
 
 ---
 

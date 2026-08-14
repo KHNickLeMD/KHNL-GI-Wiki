@@ -3,7 +3,7 @@ title: "APA Practice Guidelines in Chronic Pancreatitis: Diagnostic Guidelines (
 category: source
 tags: [chronic-pancreatitis, diagnosis, eus, rosemont, cambridge, pancreatic-function-testing, mrcp, guideline, apa]
 created: 2026-07-26
-updated: 2026-07-26
+updated: 2026-08-14
 sources: []
 ---
 
@@ -11,7 +11,7 @@ sources: []
 
 ## Bibliographic Info
 
-- **Article:** Conwell DL, Lee LS, Yadav D, et al. American Pancreatic Association Practice Guidelines in Chronic Pancreatitis: Evidence-Based Report on Diagnostic Guidelines. *Pancreas.* 2014;43(8):1143–1162.
+- **Article:** [Conwell DL, Lee LS, Yadav D, et al. American Pancreatic Association Practice Guidelines in Chronic Pancreatitis: Evidence-Based Report on Diagnostic Guidelines. *Pancreas.* 2014;43(8):1143–1162.](https://doi.org/10.1097/MPA.0000000000000237)
 - **First author:** Darwin L. Conwell, MD
 - **Year:** 2014
 - **Journal:** Pancreas
@@ -66,3 +66,9 @@ The reference for *how confidently* CP can be diagnosed at each rung of the work
 ## See Also
 
 [[chronic-pancreatitis]], [[endoscopic-ultrasound]], [[ercp]], [[mri-mrcp]], [[exocrine-pancreatic-insufficiency]], [[acg-2020-chronic-pancreatitis]]
+
+## Relevance to Wiki
+
+Wiki pages built on or citing this source:
+
+- [[chronic-pancreatitis|Chronic Pancreatitis]]

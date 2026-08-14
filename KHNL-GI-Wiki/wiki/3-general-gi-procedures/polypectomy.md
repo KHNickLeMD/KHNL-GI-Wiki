@@ -3,7 +3,7 @@ title: "Polypectomy (Colorectal)"
 category: general-procedure
 tags: [polypectomy, cold-snare, colonoscopy, colorectal, paris-classification, nice-classification, malignant-polyp, submucosal-invasion, haggitt, kikuchi, tumor-budding, lymphovascular-invasion]
 created: 2026-05-07
-updated: 2026-08-13
+updated: 2026-08-14
 sources: [usmstf-2020-endoscopic-removal, asge-2020-endoscopic-removal, usmstf-2020-malignant-colorectal-polyps, aga-2024-tailored-polypectomy]
 ---
 
@@ -66,7 +66,7 @@ Single home for LST submucosal-invasion risk — the two USMSTF 2020 documents d
 ![[polypectomy-2020-ssl-features-10.png|450x363]]
 *Figure 4 — Sessile serrated lesion–like features used within NICE type 1: (a) clouded surface, (b) indistinct borders, (c) irregular shape, (d) dark spots inside the crypts. ≥2 features = SSL rather than hyperplastic. ([[usmstf-2020-endoscopic-removal]])*
 
-- Non-lifting sign = SMI or fibrosis (prior polypectomy cautery, colitis)
+- Non-lifting sign = SMI or fibrosis (prior polypectomy cautery, [[inflammatory-bowel-disease|colitis]])
 
 ![[polypectomy-2020-nonlifting-sign-15.png|700x413]]
 *Figure 5 — Non-lifting lesions: the lesion infolds while surrounding normal submucosa expands. Non-lifting from submucosal invasion (a–c); from fibrosis in an LST-NG (d) or prior polypectomy cautery (e, f). ([[usmstf-2020-endoscopic-removal]])*
@@ -305,7 +305,7 @@ After endoscopic resection reveals a malignant polyp, histologic features determ
 
 ## See Also
 
-[[colonoscopy]], [[colonoscopy-surveillance]], [[endoscopic-mucosal-resection]], [[colorectal-esd]], [[endoscopic-full-thickness-resection]], [[colorectal-cancer]], [[colorectal-cancer-screening]], [[endoscopic-ultrasound]], [[lynch-syndrome]]
+[[colonoscopy]], [[colonoscopy-surveillance]], [[endoscopic-mucosal-resection]], [[colorectal-esd]], [[endoscopic-full-thickness-resection]], [[colorectal-cancer]], [[colorectal-cancer-screening]], [[endoscopic-ultrasound]], [[lynch-syndrome]], [[inflammatory-bowel-disease]]
 
 ---
 

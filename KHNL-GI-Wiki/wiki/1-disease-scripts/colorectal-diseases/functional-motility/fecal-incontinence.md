@@ -3,7 +3,7 @@ title: "Fecal Incontinence"
 category: disease-script
 tags: [fecal-incontinence, anorectal, biofeedback, sacral-nerve-stimulation, pelvic-floor, colorectal]
 created: 2026-05-16
-updated: 2026-07-30
+updated: 2026-08-14
 sources: [acg-2021-anorectal-disorders, asge-2010-anorectal-disorders]
 ---
 
@@ -20,7 +20,7 @@ sources: [acg-2021-anorectal-disorders, asge-2010-anorectal-disorders]
 - Type (urge vs. passive vs. staining)
 - Frequency and amount (small/medium/large)
 - Presence of urgency
-- Associated symptoms (diarrhea, constipation)
+- Associated symptoms ([[chronic-diarrhea|diarrhea]], [[chronic-idiopathic-constipation|constipation]])
 - Obstetric history (vaginal delivery, tears, forceps)
 - Neurologic conditions, prior pelvic/anorectal surgery, radiation
 
@@ -48,7 +48,7 @@ The Cleveland Clinic (Wexner) Fecal Incontinence Score or Fecal Incontinence Sev
 | Overflow incontinence | Fecal impaction with liquid feces leaking around; rectal exam reveals impaction |
 | [[radiation-proctopathy\|Radiation proctopathy]] | History of pelvic radiation; radiation proctitis with urgency |
 | Scleroderma | Dysmotility, malabsorption; distinctive manometry pattern |
-| Post-surgical (sphincter disruption) | Prior anorectal surgery, hemorrhoidectomy, fistulotomy, LIS |
+| Post-surgical (sphincter disruption) | Prior anorectal surgery, [[hemorrhoids\|hemorrhoidectomy]], fistulotomy, LIS |
 
 ---
 
@@ -138,7 +138,7 @@ The Cleveland Clinic (Wexner) Fecal Incontinence Score or Fecal Incontinence Sev
 ---
 
 ## See Also
-[[defecation-disorders]], [[hemorrhoids]], [[anal-fissure]], [[rectal-prolapse]], [[sacral-nerve-stimulation]], [[biofeedback-therapy]], [[anorectal-manometry]]
+[[defecation-disorders]], [[chronic-idiopathic-constipation]], [[chronic-diarrhea]], [[hemorrhoids]], [[anal-fissure]], [[rectal-prolapse]], [[sacral-nerve-stimulation]], [[biofeedback-therapy]], [[anorectal-manometry]], [[loperamide]], [[ostomy-management]]
 
 ---
 

@@ -3,7 +3,7 @@ title: "AGA/JTF Clinical Guideline: Management of Eosinophilic Esophagitis (2020
 category: source
 tags: [eosinophilic-esophagitis, ppi, topical-steroid, diet-elimination, dilation, guideline, aga]
 created: 2026-06-04
-updated: 2026-06-04
+updated: 2026-08-14
 sources: []
 ---
 
@@ -45,3 +45,9 @@ PPIs, swallowed topical steroids, and diet elimination are co-equal first-line a
 ## See Also
 
 [[eosinophilic-esophagitis]], [[gerd]], [[upper-endoscopy]]
+
+## Relevance to Wiki
+
+Wiki pages built on or citing this source:
+
+- [[eosinophilic-esophagitis|Eosinophilic Esophagitis]]

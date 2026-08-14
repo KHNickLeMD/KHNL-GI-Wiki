@@ -3,7 +3,7 @@ title: "Upper Endoscopy (EGD)"
 category: general-procedure
 tags: [egd, upper-endoscopy, esophagogastroduodenoscopy, ugib, barrett-esophagus, peptic-ulcer, gpmc, celiac, quality-indicators]
 created: 2026-05-07
-updated: 2026-08-12
+updated: 2026-08-14
 sources: [acg-2025-egd-quality, aga-2024-upper-endoscopy-quality, aga-2024-glp1-endoscopy]
 ---
 
@@ -20,7 +20,7 @@ Supplementary best practice guidance from AGA 2024 Clinical Practice Update. [[a
 
 - [[dysphagia|Dysphagia]], odynophagia
 - [[gerd|GERD]] symptoms (alarm features or refractory)
-- Upper abdominal symptoms ([[dyspepsia]], nausea/vomiting)
+- Upper abdominal symptoms ([[dyspepsia]], [[nausea-and-vomiting|nausea/vomiting]])
 - [[upper-gi-bleeding|Upper GI bleeding]] (overt or occult/[[iron-deficiency-anemia|IDA]])
 - Evaluation for [[gastric-adenocarcinoma|gastric cancer]] / [[gastric-premalignant-conditions|GPMC]] in high-risk patients
 
@@ -128,7 +128,7 @@ Document all of: esophagus, GEJ (antegrade), gastric cardia/fundus (retroflexed)
 - **Gastric lesions (multicenter RCT):** NBI detected more focal gastric lesions than HD-WLE (40.6% vs. 29%; P=.003) and more [[gastric-intestinal-metaplasia|gastric intestinal metaplasia]] (17.7% vs. 7.7%; P=.001)
 - **LCI tandem trial:** Missed upper GI neoplasia rate significantly lower with LCI vs. HD-WLE (0.67% vs. 3.5%; RR 0.19; 95% CI, 0.07–0.50)
 - Comparative data between IETs are limited; no head-to-head superiority established; developing familiarity with any IET is emphasized
-- AI-assisted detection systems for upper endoscopy are in early phases of development — not yet validated for routine clinical use
+- [[artificial-intelligence-endoscopy|AI-assisted detection systems]] for upper endoscopy are in early phases of development — not yet validated for routine clinical use
 
 ### Inspection Time (BPA 5)
 
@@ -228,7 +228,7 @@ More rigorous documentation is recommended for Barrett's esophagus, gastric inte
 
 ## See Also
 
-[[gastric-premalignant-conditions]], [[gastric-adenocarcinoma]], [[gastric-intestinal-metaplasia]], [[gastric-polyps]], [[eosinophilic-esophagitis]], [[helicobacter-pylori-infection]], [[peptic-ulcer-disease]], [[barretts-esophagus]], [[endoscopic-eradication-therapy]], [[endoscopic-mucosal-resection]], [[polypectomy]], [[colonoscopy]], [[celiac-disease]], [[upper-gi-bleeding]], [[gerd]], [[dysphagia]], [[proton-pump-inhibitors]], [[potassium-competitive-acid-blockers]], [[endoscopy-sedation]], [[antibiotic-prophylaxis-endoscopy]]
+[[gastric-premalignant-conditions]], [[gastric-adenocarcinoma]], [[gastric-intestinal-metaplasia]], [[gastric-polyps]], [[eosinophilic-esophagitis]], [[helicobacter-pylori-infection]], [[peptic-ulcer-disease]], [[barretts-esophagus]], [[endoscopic-eradication-therapy]], [[endoscopic-mucosal-resection]], [[polypectomy]], [[colonoscopy]], [[celiac-disease]], [[upper-gi-bleeding]], [[gerd]], [[dysphagia]], [[dyspepsia]], [[nausea-and-vomiting]], [[proton-pump-inhibitors]], [[potassium-competitive-acid-blockers]], [[endoscopy-sedation]], [[antibiotic-prophylaxis-endoscopy]], [[artificial-intelligence-endoscopy]]
 
 ---
 

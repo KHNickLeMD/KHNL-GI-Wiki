@@ -3,7 +3,7 @@ title: "Acute Mesenteric Ischemia"
 category: disease-script
 tags: [acute-mesenteric-ischemia, ami, mesenteric-vein-thrombosis, mvt, small-bowel, vascular-lesion, anticoagulation]
 created: 2026-06-01
-updated: 2026-07-29
+updated: 2026-08-14
 sources: [acg-2015-colon-ischemia, acg-2020-hepatic-mesenteric-circulation]
 ---
 
@@ -78,13 +78,13 @@ sources: [acg-2015-colon-ischemia, acg-2020-hepatic-mesenteric-circulation]
 
 - Recanalization with anticoagulation in **noncirrhotic acute PVT**: **40–75%** with LMWH; VKA or DOAC equivalently effective. [[acg-2020-hepatic-mesenteric-circulation]]
 - **DOAC safety in cirrhosis (especially Child-Pugh B/C) is not established** — most trial data are with LMWH and VKA. [[acg-2020-hepatic-mesenteric-circulation]]
-- Variceal prophylaxis: **NSBBs are the preferred first-line prophylaxis for variceal bleeding** in patients with **noncirrhotic PVT** receiving anticoagulation. *(Strong, low)* [[acg-2020-hepatic-mesenteric-circulation]]
+- Variceal prophylaxis: **NSBBs are the preferred first-line prophylaxis for [[variceal-upper-gi-bleeding|variceal bleeding]]** in patients with **noncirrhotic PVT** receiving anticoagulation. *(Strong, low)* [[acg-2020-hepatic-mesenteric-circulation]]
 
 **Arterial AMI:** revascularization strategy (embolectomy, stenting, thrombolysis), timing, and bowel-resection thresholds are **not addressed by any ingested source** — see the coverage-gap note at the top of this page.
 
 ## See Also
 
-[[colon-ischemia]], [[mesenteric-artery-aneurysm]], [[portal-vein-thrombosis]], [[budd-chiari-syndrome]], [[acute-lower-gi-bleeding]], [[portal-hypertension]], [[cirrhosis-hemostasis]], [[colonoscopy]], [[anticoagulation-gi-bleeding]]
+[[colon-ischemia]], [[mesenteric-artery-aneurysm]], [[portal-vein-thrombosis]], [[budd-chiari-syndrome]], [[acute-lower-gi-bleeding]], [[portal-hypertension]], [[variceal-upper-gi-bleeding]], [[cirrhosis]], [[cirrhosis-hemostasis]], [[colonoscopy]], [[anticoagulation-gi-bleeding]]
 
 ---
 

@@ -3,7 +3,7 @@ title: "Giardiasis"
 category: disease-script
 tags: [giardia, parasitic-diarrhea, diarrhea, travelers-diarrhea, malabsorption, metronidazole, tinidazole]
 created: 2026-05-19
-updated: 2026-08-13
+updated: 2026-08-14
 sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
 ---
 
@@ -13,7 +13,7 @@ sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
 
 - *Giardia intestinalis* (aka *G. lamblia* / *G. duodenalis*) — most common intestinal **parasitic** infection in the US; leading parasitic cause of persistent and [[fever-returning-traveler|traveler's]] diarrhea.
 - **Transmission:** contaminated water (lakes, streams, municipal supply), food, person-to-person fecal-oral. Cysts are **chlorine-resistant**.
-- **Clinical hallmark:** prolonged/[[chronic-diarrhea|persistent]] (often 14–30 days) watery-to-semi-formed, **malodorous** diarrhea; bloating; flatulence; may cause **malabsorption** and weight loss.
+- **Clinical hallmark:** prolonged/[[chronic-diarrhea|persistent]] (often 14–30 days) watery-to-semi-formed, **malodorous** diarrhea; [[abdominal-bloating-and-distention|bloating]]; flatulence; may cause **malabsorption** and weight loss.
 - Asymptomatic cyst carriage is common in endemic areas — a positive multiplex GI panel requires clinical correlation before treating.
 
 ### Severity Assessment
@@ -38,7 +38,7 @@ sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
 - **Stool antigen EIA** — sensitive, convenient; preferred first-line test.
 - **Real-time PCR / multiplex molecular panel** — lower limit of detection ~10² organisms/mL vs. microscopy >10⁶/mL; *Giardia* is a common panel target.
 - **Microscopy (O&P)** — lower sensitivity, requires expertise; cyst shedding is intermittent (multiple specimens improve yield).
-- **Duodenal aspirate** — may be considered for suspected *Giardia*, *Strongyloides*, *Cystoisospora*, or microsporidia in select patients (e.g. persistent diarrhea, AIDS) *(IDSA 2017: weak, low)*.
+- **Duodenal aspirate** — may be considered for suspected *Giardia*, *Strongyloides*, *Cystoisospora*, or microsporidia in select patients (e.g. persistent diarrhea, [[hiv-aids-related-diarrhea|AIDS]]) *(IDSA 2017: weak, low)*.
 
 ---
 
@@ -53,7 +53,7 @@ sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
 
 ## See Also
 
-[[acute-diarrhea]], [[chronic-diarrhea]], [[fever-returning-traveler]], [[cryptosporidiosis]], [[entamoeba-histolytica-infection]], [[campylobacter-infection]], [[salmonella-infection]], [[shigellosis]], [[postinfectious-ibs]], [[irritable-bowel-syndrome]], [[celiac-disease]], [[nitazoxanide]]
+[[acute-diarrhea]], [[chronic-diarrhea]], [[fever-returning-traveler]], [[hiv-aids-related-diarrhea]], [[cryptosporidiosis]], [[entamoeba-histolytica-infection]], [[campylobacter-infection]], [[salmonella-infection]], [[shigellosis]], [[postinfectious-ibs]], [[irritable-bowel-syndrome]], [[celiac-disease]], [[abdominal-bloating-and-distention]], [[nitazoxanide]]
 
 ---
 

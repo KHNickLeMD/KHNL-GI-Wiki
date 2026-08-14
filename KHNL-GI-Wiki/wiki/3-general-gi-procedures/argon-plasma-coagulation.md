@@ -3,7 +3,7 @@ title: "Argon Plasma Coagulation (APC)"
 category: general-procedure
 tags: [argon-plasma-coagulation, apc, endoscopic-hemostasis, thermal-therapy, ablation, gave, angioectasia, radiation-proctopathy]
 created: 2026-07-24
-updated: 2026-08-12
+updated: 2026-08-14
 sources: [asge-2019-radiation-proctopathy, asge-2010-anorectal-disorders, asge-2014-lgib, acg-2023-lgib, acg-2021-ugib, acg-2015-small-bowel-bleeding, asge-2017-small-bowel-bleeding, aga-2024-ida-management, baveno-vii-2022-portal-hypertension, usmstf-2020-endoscopic-removal, asge-2020-endoscopic-removal, asge-2015-ampullary-duodenal-adenomas, asge-2018-barretts-eet, aga-2024-barretts-eet, asge-2016-antithrombotic]
 ---
 
@@ -42,7 +42,7 @@ Non-contact thermal ablation: monopolar current delivered to tissue through a je
 | Small-bowel angioectasias | APC primarily used as the **treatment of choice since 2001**, delivered via [[device-assisted-enteroscopy\|deep enteroscopy]] ([[acg-2015-small-bowel-bleeding]]); small-bowel angioectasias may be treated with ablative thermal therapy such as APC or with clips ([[aga-2024-ida-management]], BPA 14) | — |
 | Lesions within reach of a standard scope in [[small-bowel-bleeding\|small-bowel bleeding]] | APC listed among appropriate therapies (with electrocautery, injection, clips/bands, or combination) ([[asge-2017-small-bowel-bleeding]]) | — |
 | Gastric antral vascular ectasia (GAVE) with [[iron-deficiency-anemia\|IDA]] and inadequate response to iron | Consider endoscopic band ligation **or** thermal methods such as APC ([[aga-2024-ida-management]], BPA 12); APC/RFA/band ligation may be used ([[baveno-vii-2022-portal-hypertension]] 6.25) | Best-practice advice / C.2 |
-| Portal hypertensive gastropathy (PHG) bleeding | APC (or RFA or band ligation) may be used for local treatment of PHG bleeding ([[baveno-vii-2022-portal-hypertension]] 6.25); APC or hemospray may be used for **recurrent** PHG bleeding (7.14) — NSBBs remain first-line for prevention (7.13), TIPS for transfusion-dependent PHG (7.15) | C.2 / D.1 |
+| [[portal-hypertension\|Portal hypertensive]] gastropathy (PHG) bleeding | APC (or RFA or band ligation) may be used for local treatment of PHG bleeding ([[baveno-vii-2022-portal-hypertension]] 6.25); APC or hemospray may be used for **recurrent** PHG bleeding (7.14) — NSBBs remain first-line for prevention (7.13), [[tips\|TIPS]] for transfusion-dependent PHG (7.15) | C.2 / D.1 |
 | Bleeding peptic ulcer ([[peptic-ulcer-disease\|PUD]], [[upper-gi-bleeding\|UGIB]]) | **Suggest** APC (with clips or soft monopolar electrocoagulation) — second tier behind bipolar electrocoagulation, heater probe, or absolute ethanol injection, which are *recommended* ([[acg-2021-ugib]], rec 9) | Conditional, very-low to low |
 | Post-[[endoscopic-mucosal-resection\|EMR]] margin, **no** visible residual adenoma | Suggest adjuvant thermal ablation of the post-EMR margin; **insufficient evidence to pick APC vs snare-tip soft coagulation** ([[usmstf-2020-endoscopic-removal]], [[asge-2020-endoscopic-removal]]) | Conditional, moderate |
 | Endoscopically **visible residual** polyp tissue | **Recommend against** ablative techniques (APC, snare-tip soft coagulation) — associated with increased recurrence ([[usmstf-2020-endoscopic-removal]], [[asge-2020-endoscopic-removal]]) | Strong, moderate |
@@ -86,7 +86,7 @@ Non-contact thermal ablation: monopolar current delivered to tissue through a je
 - **Perforation risk in the thin-walled right colon** drives the lower power/flow settings and the option of pre-injection ([[asge-2014-lgib]], [[acg-2023-lgib]]).
 - Head-to-head in proctopathy, bleeding from treatment ulcers during therapy was numerically **less** with APC than bipolar electrocoagulation (6.7% vs 33.3%, P = .17) ([[asge-2019-radiation-proctopathy]]).
 - Ablation of visible residual polyp tissue causes submucosal fibrosis and **increases recurrence** — an efficacy harm, not just a safety one ([[usmstf-2020-endoscopic-removal]]).
-- **Antithrombotics ([[anticoagulation-gi-bleeding\|periprocedural management]]):** APC is classified as a **low-risk** procedure for bleeding, alongside Barrett's ablation, EUS without FNA, and capsule endoscopy; therapeutic balloon-assisted enteroscopy is high risk *other than* when the therapy is APC. Tumor ablation of the esophagus, stomach, colon, or rectum is **high risk** ([[asge-2016-antithrombotic]]).
+- **Antithrombotics ([[anticoagulation-gi-bleeding\|periprocedural management]]):** APC is classified as a **low-risk** procedure for bleeding, alongside Barrett's ablation, [[endoscopic-ultrasound|EUS]] without FNA, and [[capsule-endoscopy|capsule endoscopy]]; therapeutic balloon-assisted enteroscopy is high risk *other than* when the therapy is APC. Tumor ablation of the esophagus, stomach, colon, or rectum is **high risk** ([[asge-2016-antithrombotic]]).
 
 ---
 
@@ -118,7 +118,7 @@ Unresolved: no ingested source reports a trial of APC vs sham or of treating onl
 
 ## See Also
 
-[[radiation-proctopathy]], [[angioectasia]], [[acute-lower-gi-bleeding]], [[upper-gi-bleeding]], [[small-bowel-bleeding]], [[peptic-ulcer-disease]], [[iron-deficiency-anemia]], [[ampullary-adenoma]], [[barretts-esophagus]], [[endoscopic-mucosal-resection]], [[polypectomy]], [[radiofrequency-ablation]], [[device-assisted-enteroscopy]], [[colonoscopy]], [[portal-hypertension]], [[anticoagulation-gi-bleeding]]
+[[radiation-proctopathy]], [[angioectasia]], [[acute-lower-gi-bleeding]], [[upper-gi-bleeding]], [[small-bowel-bleeding]], [[peptic-ulcer-disease]], [[iron-deficiency-anemia]], [[ampullary-adenoma]], [[barretts-esophagus]], [[endoscopic-mucosal-resection]], [[polypectomy]], [[radiofrequency-ablation]], [[device-assisted-enteroscopy]], [[capsule-endoscopy]], [[endoscopic-ultrasound]], [[colonoscopy]], [[portal-hypertension]], [[tips]], [[anticoagulation-gi-bleeding]]
 
 ---
 

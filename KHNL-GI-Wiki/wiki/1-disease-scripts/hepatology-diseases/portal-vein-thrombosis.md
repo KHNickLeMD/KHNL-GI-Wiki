@@ -3,7 +3,7 @@ title: "Portal Vein Thrombosis and Mesenteric Vein Thrombosis"
 category: disease-script
 tags: [portal-vein-thrombosis, pvt, mvt, mesenteric-vein, anticoagulation, cirrhosis, thrombophilia, splenomegaly, mpn, liver-transplant]
 created: 2026-05-21
-updated: 2026-08-11
+updated: 2026-08-14
 sources: [acg-2020-hepatic-mesenteric-circulation, aasld-ast-2025-liver-transplant-candidate-evaluation, aasld-2021-vascular-pvt, aga-2025-pvt-cirrhosis, baveno-vii-2022-portal-hypertension]
 ---
 
@@ -63,6 +63,8 @@ Portal vein thrombosis (PVT) is the partial or complete occlusion of the portal 
 
 ## Differential Diagnosis
 
+*Workup: see [[ascites]] for the ascites/portal-hypertension arm of the presentation; the vascular diagnosis itself is made on Doppler ultrasound and cross-sectional imaging — see Diagnostics.*
+
 - **Extrinsic portal vein compression** — [[pancreatic-cancer|pancreatic cancer]], lymphadenopathy, [[cholangiocarcinoma]]; no intravenous thrombus on CT
 - **[[budd-chiari-syndrome|Budd-Chiari syndrome]]** — hepatic venous outflow obstruction; hepatomegaly, ascites, right upper quadrant pain; caudate lobe hypertrophy
 - **[[acute-mesenteric-ischemia|Acute mesenteric ischemia]]** — SMA occlusion (arterial embolism/thrombosis); small bowel ischemia; no portal vein thrombus
@@ -88,7 +90,7 @@ Portal vein thrombosis (PVT) is the partial or complete occlusion of the portal 
 - CBC and peripheral smear (for underlying MPN/polycythemia)
 - Bone marrow biopsy if JAK2 negative but MPN suspected
 - **Baveno VII detail** (8.2–8.5) [[baveno-vii-2022-portal-hypertension]]: finding one risk factor does **not** stop the workup — combinations are common (A.1). If JAK2 V617F is negative, pursue somatic **calreticulin (CALR)** and **JAK2 exon 12** mutations and next-generation sequencing (A.1). In any adult with primary splanchnic vein thrombosis and **no MPN driver mutation**, discuss **bone marrow biopsy with haematology irrespective of blood counts** (B.2) — particularly when no major thrombosis risk factor is present. After abdominal surgery or pancreatitis, weigh bone-marrow/liver biopsy individually given low yield (C.2)
-- **If the liver is dysmorphic or liver tests persistently abnormal:** liver biopsy **and** HVPG to rule out cirrhosis or [[porto-sinusoidal-vascular-disorder|PSVD]] (B.1); LSM may help exclude cirrhosis but no cut-off can yet be proposed (C.2)
+- **If the liver is dysmorphic or liver tests persistently abnormal:** [[liver-biopsy|liver biopsy]] **and** [[hepatic-venous-pressure-gradient|HVPG]] to rule out cirrhosis or [[porto-sinusoidal-vascular-disorder|PSVD]] (B.1); [[liver-stiffness-measurement|LSM]] may help exclude cirrhosis but no cut-off can yet be proposed (C.2)
 
 **Local/secondary causes:**
 
@@ -182,7 +184,7 @@ Portal vein thrombosis (PVT) is the partial or complete occlusion of the portal 
 
 **Baveno VII cirrhotic-PVT points** (older than AGA 2025 — the stratification above governs; these add detail) [[baveno-vii-2022-portal-hypertension]]:
 
-- **Screen for PVT in all potential liver transplant candidates, at the time of HCC screening** (D.2, 9.3)
+- **Screen for PVT in all potential liver transplant candidates, at the time of [[hcc-surveillance|HCC screening]]** (D.2, 9.3)
 - AC **recommended** for: recent (<6 mo) completely or **partially (>50%) occlusive** PV trunk thrombosis ± SMV extension; **symptomatic** PVT regardless of extension; or PVT in a **potential transplant candidate** regardless of degree/extension (C.2, 9.5)
 - AC **should be considered** for minimally occlusive (<50%) trunk thrombosis that **progresses at 1–3 months** or **compromises the SMV** (C.2, 9.7)
 - Duration: until recanalisation or **minimum 6 months**; continue after recanalisation in transplant candidates; consider continuing in everyone else, balancing recurrence prevention against bleeding (C.1, 9.8)
@@ -216,7 +218,7 @@ Cirrhosis represents [[cirrhosis-hemostasis|rebalanced hemostasis]], not auto-an
 
 ## See Also
 
-[[budd-chiari-syndrome]], [[porto-sinusoidal-vascular-disorder]], [[colon-ischemia]], [[spontaneous-bacterial-peritonitis]], [[aki-in-cirrhosis]], [[hepatocellular-carcinoma]], [[cirrhosis-hemostasis]], [[portal-hypertension]], [[variceal-upper-gi-bleeding]], [[acute-mesenteric-ischemia]], [[cholangiocarcinoma]], [[pancreatic-cancer]], [[inflammatory-bowel-disease]], [[acute-pancreatitis]], [[diverticulitis]], [[acute-cholecystitis]], [[upper-endoscopy]], [[liver-transplantation]], [[ercp]]
+[[budd-chiari-syndrome]], [[porto-sinusoidal-vascular-disorder]], [[colon-ischemia]], [[spontaneous-bacterial-peritonitis]], [[aki-in-cirrhosis]], [[hepatocellular-carcinoma]], [[cirrhosis-hemostasis]], [[portal-hypertension]], [[variceal-upper-gi-bleeding]], [[acute-mesenteric-ischemia]], [[cholangiocarcinoma]], [[pancreatic-cancer]], [[inflammatory-bowel-disease]], [[acute-pancreatitis]], [[diverticulitis]], [[acute-cholecystitis]], [[upper-endoscopy]], [[liver-transplantation]], [[ercp]], [[cirrhosis]], [[ascites]], [[tips]], [[liver-biopsy]], [[hepatic-venous-pressure-gradient]], [[liver-stiffness-measurement]], [[hcc-surveillance]]
 
 ---
 

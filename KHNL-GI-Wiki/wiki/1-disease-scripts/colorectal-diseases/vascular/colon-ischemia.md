@@ -3,7 +3,7 @@ title: "Colon Ischemia"
 category: disease-script
 tags: [colon-ischemia, ischemic-colitis, mesenteric-ischemia, hematochezia, colonoscopy, surgery, vascular]
 created: 2026-05-21
-updated: 2026-08-10
+updated: 2026-08-14
 sources: [acg-2015-colon-ischemia]
 ---
 
@@ -122,7 +122,7 @@ Surgery is required (Strong, Moderate evidence) when:
 - IRCI or pancolonic distribution
 - Triad of hypotension + tachycardia + abdominal pain without rectal bleeding (transmural ischemia likely)
 
-Surgical approach: resection of ischemic segment; primary anastomosis vs. diverting stoma based on patient condition.
+Surgical approach: resection of ischemic segment; primary anastomosis vs. [[ostomy-management|diverting stoma]] based on patient condition.
 
 ### Medication Review and Risk Reduction
 
@@ -151,7 +151,8 @@ Surgical approach: resection of ischemic segment; primary anastomosis vs. divert
 ---
 
 ## See Also
-[[acute-lower-gi-bleeding]], [[acute-mesenteric-ischemia]], [[crohns-disease]], [[ulcerative-colitis]], [[colonoscopy]], [[clostridioides-difficile]], [[portal-vein-thrombosis]], [[radiation-proctopathy]], [[colorectal-cancer]], [[campylobacter-infection]], [[microscopic-colitis]]
+
+[[acute-lower-gi-bleeding]], [[acute-mesenteric-ischemia]], [[crohns-disease]], [[ulcerative-colitis]], [[colonoscopy]], [[clostridioides-difficile]], [[portal-vein-thrombosis]], [[radiation-proctopathy]], [[colorectal-cancer]], [[campylobacter-infection]], [[microscopic-colitis]], [[ostomy-management]]
 
 ---
 

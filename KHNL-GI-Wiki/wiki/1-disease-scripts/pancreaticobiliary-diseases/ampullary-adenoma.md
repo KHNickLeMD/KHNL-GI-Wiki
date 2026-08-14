@@ -3,7 +3,7 @@ title: "Ampullary & Duodenal Adenoma"
 category: disease-script
 tags: [ampullary-adenoma, duodenal-adenoma, papilla-of-vater, endoscopic-papillectomy, fap, ercp, eus, post-ercp-pancreatitis, surveillance]
 created: 2026-06-27
-updated: 2026-08-12
+updated: 2026-08-14
 sources: [asge-2015-ampullary-duodenal-adenomas]
 ---
 
@@ -123,7 +123,7 @@ Endoscopic resection has lower adverse-event rates (~14%) than local surgical ex
 
 ## See Also
 
-[[familial-adenomatous-polyposis]], [[peutz-jeghers-syndrome]], [[ercp]], [[endoscopic-ultrasound]], [[upper-endoscopy]], [[polypectomy]], [[endoscopic-submucosal-dissection]], [[colonoscopy]], [[subepithelial-lesion]], [[brush-cytology]], [[acute-pancreatitis]], [[gastroenteropancreatic-neuroendocrine-tumors]]
+[[nonampullary-duodenal-adenoma]], [[familial-adenomatous-polyposis]], [[peutz-jeghers-syndrome]], [[ercp]], [[endoscopic-ultrasound]], [[upper-endoscopy]], [[polypectomy]], [[endoscopic-mucosal-resection]], [[endoscopic-submucosal-dissection]], [[argon-plasma-coagulation]], [[colonoscopy]], [[subepithelial-lesion]], [[brush-cytology]], [[acute-pancreatitis]], [[pancreas-divisum]], [[gastroenteropancreatic-neuroendocrine-tumors]], [[proton-pump-inhibitors]]
 
 ---
 

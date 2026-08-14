@@ -3,7 +3,7 @@ title: "Acute Pancreatitis"
 category: disease-script
 tags: [pancreatitis, acute-pancreatitis, hpb, gallstone-pancreatitis, necrotizing-pancreatitis, ercp, bisap, fluid-resuscitation, nutrition]
 created: 2026-05-07
-updated: 2026-08-13
+updated: 2026-08-14
 sources: [acg-2024-acute-pancreatitis, asge-2016-pancreatic-fluid-collections, asge-2015-benign-pancreatic-disease, demadaria-2022-waterfall, aga-2024-pregnancy-gi-liver, aga-2022-recurrent-pancreatitis-endoscopy, asge-2023-post-ercp-pancreatitis]
 ---
 
@@ -280,7 +280,7 @@ BISAP ≥3 = high risk for severe AP and mortality
 
 ## See Also
 
-[[alcohol-associated-liver-disease]], [[chronic-pancreatitis]], [[recurrent-acute-pancreatitis]], [[pancreas-divisum]], [[hereditary-pancreatitis]], [[pancreatic-cysts]], [[ercp]], [[endoscopic-ultrasound]], [[mri-mrcp]], [[peptic-ulcer-disease]], [[acute-mesenteric-ischemia]], [[choledocholithiasis]], [[acute-cholecystitis]], [[ampullary-adenoma]], [[nutrition-in-hospitalized-patients]], [[portal-hypertension]], [[liver-disease-in-pregnancy]]
+[[alcohol-associated-liver-disease]], [[chronic-pancreatitis]], [[recurrent-acute-pancreatitis]], [[pancreas-divisum]], [[hereditary-pancreatitis]], [[pancreatic-cysts]], [[ercp]], [[endoscopic-ultrasound]], [[mri-mrcp]], [[peptic-ulcer-disease]], [[acute-mesenteric-ischemia]], [[choledocholithiasis]], [[acute-cholecystitis]], [[sphincter-of-oddi-dysfunction]], [[ampullary-adenoma]], [[nutrition-in-hospitalized-patients]], [[portal-hypertension]], [[liver-disease-in-pregnancy]]
 
 ---
 

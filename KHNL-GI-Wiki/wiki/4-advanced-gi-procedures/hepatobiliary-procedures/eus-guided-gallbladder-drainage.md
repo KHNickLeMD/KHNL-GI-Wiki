@@ -3,7 +3,7 @@ title: "EUS-Guided Gallbladder Drainage (EUS-GBD)"
 category: advanced-procedure
 tags: [eus-gbd, lams, acute-cholecystitis, gallbladder-drainage, cholecystoscopy, percutaneous-cholecystostomy, transpapillary-drainage, therapeutic-eus]
 created: 2026-07-23
-updated: 2026-07-23
+updated: 2026-08-14
 sources: [aga-2023-eus-gallbladder-drainage, asge-2024-therapeutic-eus-biliary, acg-2025-eus-quality]
 ---
 
@@ -28,7 +28,7 @@ Transmural gallbladder decompression: a stent (now standardly a **lumen-apposing
 
 1. **Gallbladder drainage in high-surgical-risk patients with [[acute-cholecystitis|acute cholecystitis]]** (the core indication)
 2. **Conversion of percutaneous cholecystostomy to internal drainage** in patients who will never be cholecystectomy candidates (removes the external drain)
-3. **Rescue drainage of malignant biliary obstruction** in select patients after failed [[ercp|ERCP]] *and* failed EUS-guided biliary drainage
+3. **Rescue drainage of [[biliary-stricture|malignant biliary obstruction]]** in select patients after failed [[ercp|ERCP]] *and* failed EUS-guided biliary drainage
 
 ## Patient Selection
 

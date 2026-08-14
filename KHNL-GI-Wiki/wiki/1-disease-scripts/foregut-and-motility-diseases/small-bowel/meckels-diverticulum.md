@@ -3,7 +3,7 @@ title: "Meckel's Diverticulum"
 category: disease-script
 tags: [meckels-diverticulum, small-bowel, gi-bleeding, ectopic-gastric-mucosa, pediatric]
 created: 2026-05-19
-updated: 2026-08-04
+updated: 2026-08-14
 sources: [acg-2015-small-bowel-bleeding, asge-2017-small-bowel-bleeding]
 ---
 
@@ -31,7 +31,7 @@ A small-bowel diverticulum that may harbor **ectopic gastric mucosa** (reported 
 
 Other small-bowel bleeding sources to consider — with an age skew toward the young for Meckel's and IBD (ACG 2015: patients < 40 y are more likely to have **IBD** or Meckel's diverticulum):
 - [[crohns-disease]] / [[inflammatory-bowel-disease|IBD]]
-- NSAID ulcers
+- [[peptic-ulcer-disease|NSAID ulcers]]
 - [[angioectasia|Angioectasias]] / vascular lesions (Dieulafoy's lesion, [[hereditary-hemorrhagic-telangiectasia|Osler–Weber–Rendu]])
 - Small-bowel neoplasms ([[gastrointestinal-stromal-tumor|GIST]], lymphoma, [[gastroenteropancreatic-neuroendocrine-tumors|carcinoid]], adenocarcinoma, polypoid lesions)
 - Polyposis syndromes, radiation enteropathy, small-bowel varices, aortoenteric fistula
@@ -59,7 +59,7 @@ Other small-bowel bleeding sources to consider — with an age skew toward the y
 
 ## See Also
 
-[[small-bowel-bleeding]], [[capsule-endoscopy]], [[device-assisted-enteroscopy]], [[crohns-disease]], [[inflammatory-bowel-disease]], [[angioectasia]], [[iron-deficiency-anemia]]
+[[small-bowel-bleeding]], [[capsule-endoscopy]], [[device-assisted-enteroscopy]], [[crohns-disease]], [[inflammatory-bowel-disease]], [[angioectasia]], [[peptic-ulcer-disease]], [[iron-deficiency-anemia]]
 
 ---
 

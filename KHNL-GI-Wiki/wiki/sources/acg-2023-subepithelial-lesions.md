@@ -3,7 +3,7 @@ title: "ACG 2023: Diagnosis and Management of Gastrointestinal Subepithelial Les
 category: source
 tags: [subepithelial-lesion, gist, leiomyoma, carcinoid, eus, endoscopy]
 created: 2026-05-15
-updated: 2026-05-28
+updated: 2026-08-14
 sources: []
 ---
 
@@ -15,6 +15,7 @@ sources: []
 - **Year:** 2023 (published online September 6, 2022)
 - **Volume/Pages:** 118:46–58
 - **DOI:** [10.14309/ajg.0000000000002100](https://doi.org/10.14309/ajg.0000000000002100)
+- **Type:** guideline (ACG Clinical Guideline, GRADE)
 - **Organization:** American College of Gastroenterology (ACG)
 - **Methodology:** GRADE (Grading of Recommendations Assessment, Development, and Evaluation)
 - **Literature search:** EMBASE, PubMed, Cochrane, 2000–December 2020; 1,562 citations after deduplication; 444 reviewed; 11 final recommendations

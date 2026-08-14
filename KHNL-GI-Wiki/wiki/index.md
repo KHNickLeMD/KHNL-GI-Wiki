@@ -1,7 +1,7 @@
 ---
 title: "Wiki Index"
 category: index
-updated: 2026-08-11
+updated: 2026-08-14
 ---
 
 # KHNL GI Encyclopedia — Master Index
@@ -282,9 +282,10 @@ updated: 2026-08-11
 - [[direct-acting-antivirals]] — DAA drug classes (NS3/4A + NS5A + NS5B); pangenotypic regimens (G/P, SOF/VEL); DDI table (cyclosporine); decompensated cirrhosis contraindications; see [[hepatitis-c]] for treatment tables (1 source)
 - [[somatostatin-analogs]] — Octreotide/lanreotide: SSTR2/5 agonism; acute variceal bleeding (octreotide 50 mcg bolus → 25–50 mcg/hr × 2–5 d); GEP-NET symptom + antiproliferative control and carcinoid crisis; refractory small-bowel vascular bleeding (octreotide LAR 90 mg monthly × 12 mo); biliary/glycemic adverse effects (3 sources)
 - [[glp-2-agonists]] — GLP-2 agonists (teduglutide): trophic to intestinal mucosa; enhance adaptation + facilitate PN weaning in short bowel syndrome; see [[nutrition-in-ibd]] (stub)
+- [[albumin]] — IV albumin in cirrhosis: indications and dosing for large-volume paracentesis, SBP, and AKI/HRS (1 source)
+
 ---
 
-- [[albumin]] — IV albumin in cirrhosis: indications and dosing for large-volume paracentesis, SBP, and AKI/HRS (1 source)
 ## Anatomy
 
 *(none yet)*
@@ -299,7 +300,7 @@ updated: 2026-08-11
 - [[colonoscopy-surveillance]] — Colonoscopy surveillance intervals (USMSTF 2020): adenoma + serrated-polyp + serial-surveillance interval tables; high-quality-exam prerequisite; 1-2 small adenomas extended to 7-10y; definitions (advanced/high-risk adenoma) (1 source)
 - [[artificial-intelligence-endoscopy]] — AI in endoscopy: CADe (detection; ADR RR 1.43 in RCTs, inconsistent real-world; AGA 2025 no recommendation), CADx (optical diagnosis; ASGE PIVI ≥90% NPV / >90% surveillance-agreement thresholds for resect-and-discard/diagnose-and-leave), computer-aided quality assessment; adoption barriers (2 sources)
 - [[hcc-surveillance]] — HCC Surveillance: at-risk populations (Child-Pugh A/B cirrhosis + select non-cirrhotic HBV), semiannual US+AFP (sens 63% vs 51%), CT/MRI not routine, harms, GALAD/biomarkers not yet ready + no MCD panels, PAGE-B/REAL-B, prevent cirrhosis (2 sources)
-- [[pancreatic-cancer-screening]] — High-risk pancreatic cancer surveillance: who qualifies, EUS/MRI modalities, annual interval, condition-specific start ages (1 source)
+- [[pancreatic-cancer-screening]] — High-risk pancreatic cancer surveillance: eligibility criteria and family-history rules by gene, risk magnitudes, condition-specific start ages, EUS/MRI choice, annual interval, what an abnormal finding triggers, yield/harms; ACG 2015 vs ASGE 2022 comparison; who NOT to screen (2 sources)
 - [[mri-mrcp]] — MRI/MRCP for pancreaticobiliary imaging and high-risk pancreatic screening (1 source)
 - [[brca-pathogenic-variants]] — BRCA1/2 germline variants and pancreatic cancer risk (1 source)
 - [[familial-pancreatic-cancer]] — FPC kindreds: definition, inheritance, who/when to screen; links [[pancreatic-cancer-screening]] for modality/interval rather than duplicating it; FPC risk magnitude by number of affected FDRs absent from sources (1 source)
@@ -440,6 +441,7 @@ updated: 2026-08-11
 - [[acg-2013-eoe]] — ACG 2013: Esophageal Eosinophilia and Eosinophilic Esophagitis — Dellon et al. Am J Gastroenterol 2013;108:679–692 (historical; PPI-REE construct + mandatory PPI trial; 21 recs; superseded by acg-2025-eoe)
 - [[usmstf-2014-lynch-syndrome]] — US Multi-Society Task Force 2014: Genetic Evaluation and Management of Lynch Syndrome — Giardiello et al. Am J Gastroenterol 2014;109:1159–1179 — universal tumor testing; Amsterdam II/Bethesda criteria; Tables 10 and 12 surveillance/management; aspirin CAPP2; genetic counseling 14-component framework
 - [[acg-2014-bowel-cleansing]] — USMSTF 2014: Optimizing Adequacy of Bowel Cleansing for Colonoscopy — Johnson, Barkun, Cohen et al. Am J Gastroenterol 2014;109:1528–1545 (foundational; 23 GRADE recs; split-dose superiority, 4–6 h/2 h timing, ≥85% adequate-prep per-physician benchmark, avoid Mg/NaP in CKD/IBD/elderly; superseded for products by acg-2025-bowel-prep)
+- [[acg-2026-diverticulitis]] — ACG 2026: Colonic Diverticulitis — Peery, Strate, Stollman et al. Am J Gastroenterol 2026;121:1549–1561 — 14 GRADE recs; selective antibiotics, modified Hinchey, post-recovery colonoscopy, recurrence prevention, elective-surgery reversal; against mesalamine/rifaximin/probiotics
 
 ### AGA
 
@@ -509,6 +511,16 @@ updated: 2026-08-11
 - [[aga-2024-ida-management]] — AGA 2024 CPU: Management of Iron Deficiency Anemia (DeLoughery, Jackson, Ko, Rockey; CGH 2024;22:1575–1583) — 15 Best Practice Advice statements (unrated); oral iron principles (ferrous sulfate, once-daily/alternate-day, vitamin C), IV iron (1–2 infusion formulations, pseudo-allergy), condition-specific repletion (bariatric, IBD, PHG, GAVE, celiac, small-bowel angioectasias); oral + IV iron tables
 - [[aga-2025-pvt-cirrhosis]] — AGA 2025 CPU: Management of Portal Vein Thrombosis in Cirrhosis (Davis, Lim, Francis, Ahn; Gastroenterology 2025;168:396–404) — 11 Best Practice Advice statements (unrated); chronicity/occlusion stratification, urgent AC for intestinal ischemia, no-AC for chronic cavernoma, CTP-class anticoagulant selection table, timing/monitoring, PVR-TIPS
 - [[aga-2020-probiotics]] — AGA 2020: Probiotics in the Management of GI Disorders — Su et al. Gastroenterology 2020;159:697–705 — 8 GRADE recommendations; conditional FOR (C diff prevention on antibiotics, pouchitis 8-strain combo, NEC in preterm infants), conditional AGAINST (pediatric acute gastroenteritis), trial-only (Crohn's/UC/IBS/C diff treatment)
+- [[aga-2023-eus-gallbladder-drainage]] — AGA 2023: EUS-Guided Gallbladder Drainage in Acute Cholecystitis — Irani, Sharzehi, Siddiqui. Clin Gastroenterol Hepatol 2023;21(5):1141–1147
+- [[aga-2023-gpoem-gastroparesis]] — AGA 2023: Gastric Peroral Endoscopic Myotomy for Gastroparesis — Khashab, Wang, Cai. Gastroenterology 2023;164(7):1329–1335
+- [[aga-2023-interventional-eus-vascular]] — AGA 2023: Interventional EUS for Vascular Investigation and Therapy — Ryou, DeWitt, Das, Shami. Clin Gastroenterol Hepatol 2023;21(7):1699–1705
+- [[aga-2023-ostomies]] — AGA 2023: Management of Ostomies — Hedrick, Sherman, Cohen-Mekelburg, Gaidos. Clin Gastroenterol Hepatol 2023;21(10):2473–2477
+- [[aga-2024-full-thickness-resection]] — AGA 2024: Endoscopic Full-Thickness Resection for GI Subepithelial Lesions — D'Souza, Yang, Diehl. Gastroenterology 2024;166(2)
+- [[aga-2024-ibd-endoscopic-scoring]] — AGA 2024: Endoscopic Scoring Systems in IBD — Buchner, Farraye, Iacucci. Clin Gastroenterol Hepatol 2024;22(11):2188–2196
+- [[aga-2024-ibd-pain]] — AGA 2024: Pain Management in IBD — Keefer, Hashash, Szigethy, Mayer. Gastroenterology 2024;166(6):1182–1189
+- [[aga-2025-endoscopic-enteral-access]] — AGA 2025: Endoscopic Enteral Access — Micic, Martin, Fang. Gastroenterology 2025;168(1):164–168
+- [[aga-2025-gastric-cancer-screening]] — AGA 2025 CPU: gastric cancer screening & surveillance in increased-risk US individuals; 15 BPAs
+- [[aga-2025-nonampullary-duodenal]] — AGA 2025 CPU: nonampullary duodenal lesions — cold- vs hot-snare EMR by size, surveillance; 13 BPAs
 
 ### ASGE
 
@@ -578,6 +590,7 @@ updated: 2026-08-11
 - [[dallas-2025-flip-panometry]] — Dallas Consensus (2025): FLIP Panometry Motility Classification v2.0 — Carlson, Pandolfino et al.
 - [[padova-2025-hrm-antireflux]] — Padova Consensus (2025): HRM Before and After Antireflux Surgery — Salvador, Pandolfino, Gyawali, Yadlapati et al.
 - [[san-diego-2025-lprd]] — San Diego Consensus 2025: Laryngopharyngeal Symptoms and LPRD — Yadlapati, Gyawali, Pandolfino et al. (LPS vs. LPRD distinction; diagnostic algorithm; ambulatory monitoring; LRT)
+- [[wang-2026-eus-ppg-delphi-consensus]] — International Expert Delphi Consensus on EUS-guided Portosystemic Pressure Gradient (EUS-PPG): Best Practices and Future Directions — Wang, Chang, Rubin et al. Clin Gastroenterol Hepatol 2026 — 53 consensus statements (indications, pre-procedure, technique, research); EUS-PPG preferred for suspected presinusoidal/noncirrhotic PH; reproducibility + ideal-target protocol; safety <1% AE
 - [[chang-2024-endoscopic-oncologist]] — Editorial: The Vital Role of the Endoscopic Oncologist — Chang et al. (GI Endoscopy Clinics NA, 2024)
 - [[lyon-2024-gerd-diagnosis]] — Lyon Consensus 2.0 (2024): Evidence-Based Diagnosis of GERD — Gyawali et al. Gut 2024; AET thresholds, reflux episode counts, MNBI, LA grade B now conclusive, PSPW retired
 - [[idsa-2017-infectious-diarrhea]] — IDSA 2017: Diagnosis and Management of Infectious Diarrhea — Shane et al. Clin Infect Dis 2017;65:e45–e80 — 60 GRADE recommendations; enteric-fever workup, STEC/HUS monitoring, empiric-antibiotic exceptions, pediatric ancillary care (zinc, ondansetron, no loperamide <18), rotavirus/typhoid/cholera vaccines, notifiable-disease reporting
@@ -606,22 +619,10 @@ updated: 2026-08-11
 
 ---
 
-- [[acg-2026-diverticulitis]] — ACG 2026: Colonic Diverticulitis — Peery, Strate, Stollman et al. Am J Gastroenterol 2026;121:1549–1561 — 14 GRADE recs; selective antibiotics, modified Hinchey, post-recovery colonoscopy, recurrence prevention, elective-surgery reversal; against mesalamine/rifaximin/probiotics
-- [[aga-2023-eus-gallbladder-drainage]] — AGA 2023: EUS-Guided Gallbladder Drainage in Acute Cholecystitis — Irani, Sharzehi, Siddiqui. Clin Gastroenterol Hepatol 2023;21(5):1141–1147
-- [[aga-2023-gpoem-gastroparesis]] — AGA 2023: Gastric Peroral Endoscopic Myotomy for Gastroparesis — Khashab, Wang, Cai. Gastroenterology 2023;164(7):1329–1335
-- [[aga-2023-interventional-eus-vascular]] — AGA 2023: Interventional EUS for Vascular Investigation and Therapy — Ryou, DeWitt, Das, Shami. Clin Gastroenterol Hepatol 2023;21(7):1699–1705
-- [[wang-2026-eus-ppg-delphi-consensus]] — International Expert Delphi Consensus on EUS-guided Portosystemic Pressure Gradient (EUS-PPG): Best Practices and Future Directions — Wang, Chang, Rubin et al. Clin Gastroenterol Hepatol 2026 — 53 consensus statements (indications, pre-procedure, technique, research); EUS-PPG preferred for suspected presinusoidal/noncirrhotic PH; reproducibility + ideal-target protocol; safety <1% AE
-- [[aga-2023-ostomies]] — AGA 2023: Management of Ostomies — Hedrick, Sherman, Cohen-Mekelburg, Gaidos. Clin Gastroenterol Hepatol 2023;21(10):2473–2477
-- [[aga-2024-full-thickness-resection]] — AGA 2024: Endoscopic Full-Thickness Resection for GI Subepithelial Lesions — D'Souza, Yang, Diehl. Gastroenterology 2024;166(2)
-- [[aga-2024-ibd-endoscopic-scoring]] — AGA 2024: Endoscopic Scoring Systems in IBD — Buchner, Farraye, Iacucci. Clin Gastroenterol Hepatol 2024;22(11):2188–2196
-- [[aga-2024-ibd-pain]] — AGA 2024: Pain Management in IBD — Keefer, Hashash, Szigethy, Mayer. Gastroenterology 2024;166(6):1182–1189
-- [[aga-2025-endoscopic-enteral-access]] — AGA 2025: Endoscopic Enteral Access — Micic, Martin, Fang. Gastroenterology 2025;168(1):164–168
-- [[aga-2025-gastric-cancer-screening]] — AGA 2025 CPU: gastric cancer screening & surveillance in increased-risk US individuals; 15 BPAs
-- [[aga-2025-nonampullary-duodenal]] — AGA 2025 CPU: nonampullary duodenal lesions — cold- vs hot-snare EMR by size, surveillance; 13 BPAs
 ## Syntheses
 
 - [[uc-vs-crohns-comparison]] — UC vs. Crohn's: side-by-side comparison of presentation, distribution, histology, biologics, and surgery
 
 ---
 
-*Total: 247 sources | 128 disease scripts | 22 diagnostic schemas | 5 general procedures | 25 advanced procedures | 27 meds | 0 anatomy | 46 concepts | 1 synthesis (on-disk page counts as of 2026-08-11)*
+*Total: 249 sources | 128 disease scripts | 22 diagnostic schemas | 5 general procedures | 25 advanced procedures | 27 meds | 0 anatomy | 47 concepts | 1 synthesis (on-disk page counts as of 2026-08-14)*

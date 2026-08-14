@@ -3,7 +3,7 @@ title: "ACG 2022: Diagnosis and Management of Celiac Disease"
 category: source
 tags: [celiac-disease, gluten, malabsorption, small-bowel, ttg, marsh]
 created: 2026-05-15
-updated: 2026-05-28
+updated: 2026-08-14
 sources: []
 ---
 
@@ -11,6 +11,7 @@ sources: []
 
 - **Article:** [ACG 2022: Diagnosis and Management of Celiac Disease.](https://doi.org/10.14309/ajg.0000000000002075)
 - **DOI:** [10.14309/ajg.0000000000002075](https://doi.org/10.14309/ajg.0000000000002075)
+- **Type:** guideline (ACG Clinical Guideline, GRADE)
 Rubio-Tapia A, Hill ID, Semrad C, Kelly CP, Greer KB, Limketkai BN, Lebwohl B. American College of Gastroenterology Guidelines Update: Diagnosis and Management of Celiac Disease. *Am J Gastroenterol* 2023;118:59–76. Published online September 21, 2022. <https://doi.org/10.14309/ajg.0000000000002075>
 
 Update to the 2013 ACG celiac disease guidelines. Uses GRADE methodology. Seven authors with no declared competing interests.

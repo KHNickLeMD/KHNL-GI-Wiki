@@ -3,7 +3,7 @@ title: "AGA Clinical Practice Guideline: Pharmacological Management of IBS-D (20
 category: source
 tags: [ibs-d, irritable-bowel-syndrome, rifaximin, eluxadoline, alosetron, guideline, aga]
 created: 2026-06-04
-updated: 2026-06-04
+updated: 2026-08-14
 sources: []
 ---
 
@@ -45,3 +45,12 @@ This guideline ranks drug therapy for diarrhea-predominant [[irritable-bowel-syn
 ## See Also
 
 [[irritable-bowel-syndrome]], [[rifaximin]], [[disorders-of-gut-brain-interaction]], [[postinfectious-ibs]]
+
+## Relevance to Wiki
+
+Wiki pages built on or citing this source:
+
+- [[alosetron|Alosetron]]
+- [[eluxadoline|Eluxadoline]]
+- [[irritable-bowel-syndrome|Irritable Bowel Syndrome]]
+- [[loperamide|Loperamide]]

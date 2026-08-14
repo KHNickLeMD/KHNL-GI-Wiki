@@ -3,7 +3,7 @@ title: "Irritable Bowel Syndrome"
 category: disease-script
 tags: [ibs, dgbi, functional, colorectal, motility, rome-iv, rome-v, fodmap, rifaximin, linaclotide, plecanatide, tca]
 created: 2026-05-16
-updated: 2026-07-25
+updated: 2026-08-14
 sources: [acg-2020-ibs, rome-v-2026-dgbi, acg-2020-sibo, aga-2022-ibs-c, aga-2022-ibs-d]
 ---
 
@@ -11,7 +11,7 @@ sources: [acg-2020-ibs, rome-v-2026-dgbi, acg-2020-sibo, aga-2022-ibs-c, aga-202
 
 ### Establishing the Diagnosis
 
-IBS is a [[disorders-of-gut-brain-interaction]] defined by recurrent abdominal pain associated with altered bowel habits without structural or biochemical explanation. ACG 2020 endorses a **positive diagnostic strategy** using Rome criteria + a focused, limited testing panel rather than a diagnosis of exclusion ([[acg-2020-ibs]] Recs 5–6; Strong/High for cost-effectiveness).
+IBS is a [[disorders-of-gut-brain-interaction|disorder of gut–brain interaction]] defined by recurrent abdominal pain associated with altered bowel habits without structural or biochemical explanation. ACG 2020 endorses a **positive diagnostic strategy** using Rome criteria + a focused, limited testing panel rather than a diagnosis of exclusion ([[acg-2020-ibs]] Recs 5–6; Strong/High for cost-effectiveness).
 
 **Rome IV criteria** (used in ACG 2020): Recurrent abdominal pain on average ≥1 day/week in the last 3 months, associated with ≥2 of:
 
@@ -81,7 +81,7 @@ Subtypes by Bristol Stool Form Scale **on days with abnormal stools** (assess of
 - Bile acid diarrhea testing (SeHCAT — limited US availability; serum C4 or fecal bile acids)
 - Breath testing (lactose, fructose, [[small-intestinal-bacterial-overgrowth|SIBO]]) — ACG 2020 SIBO guideline suggests glucose or lactulose H₂ breath test in IBS patients (Conditional/Very Low); up to 78% of IBS subjects may have SIBO by meta-analysis; [[rifaximin]] IBS-D efficacy may be partly mediated by SIBO/microbiome dysbiosis
 
-**Alarm features warranting workup**: hematochezia/melena, unintentional weight loss, onset >50, family history of IBD/CRC/celiac, nocturnal symptoms, anemia.
+**Alarm features warranting workup**: hematochezia/melena, unintentional weight loss, onset >50, family history of [[inflammatory-bowel-disease|IBD]]/[[colorectal-cancer|CRC]]/celiac, nocturnal symptoms, anemia.
 
 ---
 

@@ -3,7 +3,7 @@ title: "Liver Disease in Pregnancy"
 category: diagnostic-schema
 tags: [pregnancy, liver-disease, ihcp, intrahepatic-cholestasis, aflp, acute-fatty-liver, hellp, hyperemesis-gravidarum, preeclampsia, eclampsia, hepatitis-b, hepatitis-c, hpb, liver]
 created: 2026-05-19
-updated: 2026-07-26
+updated: 2026-08-14
 sources: [aga-2024-pregnancy-gi-liver, acg-2016-liver-disease-pregnancy, aasld-2021-reproductive-liver]
 ---
 
@@ -293,7 +293,7 @@ See also: [[autoimmune-hepatitis]]
 
 - AIH associated with increased risk of fetal prematurity and loss; worse outcomes with inadequate disease control
 - **Maintain corticosteroids and/or AZA during pregnancy** (Rec 31 — strong, very low evidence)
-- AZA: pregnancy category D; however, IBD safety data (>3,000 pregnancies) show no increase in congenital abnormalities
+- AZA: pregnancy category D; however, [[inflammatory-bowel-disease|IBD]] safety data (>3,000 pregnancies) show no increase in congenital abnormalities
 - Intrapartum flare risk >20%; postpartum flare risk 30–50%
 - AIH may initially present during pregnancy; differential includes preeclampsia and AFLP
 - Corticosteroid monotherapy used for flare management (AZA historically limited in pregnancy, though evidence supports continuation)
@@ -326,7 +326,7 @@ See also: [[wilson-disease]]
   - Propranolol: pregnancy category C; used for fetal arrhythmias, hypertension — overall safe; risks of IUGR, neonatal bradycardia, hypoglycemia
   - Nadolol: category C but long half-life, low protein-binding — less preferred
   - Band ligation: safe in pregnancy; evidence extrapolated from non-pregnant patients
-- Octreotide: pregnancy category B; safe as adjunct in acute variceal bleeding
+- [[somatostatin-analogs|Octreotide]]: pregnancy category B; safe as adjunct in acute variceal bleeding
 - Cesarean section may carry increased surgical bleeding risk; no comparative data vs. vaginal delivery
 - Multidisciplinary management with maternal-fetal medicine + hepatology essential
 
@@ -374,7 +374,7 @@ See also: [[wilson-disease]]
 
 ## See Also
 
-[[intrahepatic-cholestasis-of-pregnancy]], [[acute-fatty-liver-of-pregnancy]], [[nausea-and-vomiting-of-pregnancy]], [[abnormal-liver-chemistries]], [[acute-liver-failure]], [[chronic-hepatitis-b]], [[hepatitis-c-in-pregnancy]], [[autoimmune-hepatitis]], [[primary-biliary-cholangitis]], [[wilson-disease]], [[drug-induced-liver-injury]], [[nafld-masld]], [[portal-hypertension]], [[variceal-upper-gi-bleeding]], [[liver-transplantation]], [[ercp]], [[choledocholithiasis]], [[acute-cholecystitis]], [[hepatocellular-adenoma]], [[hepatic-hemangioma]], [[focal-nodular-hyperplasia]], [[hepatic-encephalopathy]], [[acute-pancreatitis]]
+[[intrahepatic-cholestasis-of-pregnancy]], [[acute-fatty-liver-of-pregnancy]], [[nausea-and-vomiting-of-pregnancy]], [[abnormal-liver-chemistries]], [[acute-liver-failure]], [[chronic-hepatitis-b]], [[hepatitis-c-in-pregnancy]], [[autoimmune-hepatitis]], [[primary-biliary-cholangitis]], [[wilson-disease]], [[drug-induced-liver-injury]], [[nafld-masld]], [[portal-hypertension]], [[variceal-upper-gi-bleeding]], [[liver-transplantation]], [[ercp]], [[choledocholithiasis]], [[acute-cholecystitis]], [[hepatocellular-adenoma]], [[hepatic-hemangioma]], [[focal-nodular-hyperplasia]], [[hepatic-encephalopathy]], [[acute-pancreatitis]], [[somatostatin-analogs]], [[inflammatory-bowel-disease]]
 
 ---
 

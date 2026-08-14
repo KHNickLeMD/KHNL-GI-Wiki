@@ -3,7 +3,7 @@ title: "AASLD Practice Guidance: Vascular Liver Disorders, Portal Vein Thrombosi
 category: source
 tags: [portal-vein-thrombosis, budd-chiari, vascular-liver, anticoagulation, sos-vod, guidance, aasld]
 created: 2026-06-04
-updated: 2026-06-04
+updated: 2026-08-14
 sources: []
 ---
 
@@ -43,3 +43,10 @@ Provides the anticoagulation-and-escalation framework for PVT and Budd-Chiari, w
 ## See Also
 
 [[portal-vein-thrombosis]], [[budd-chiari-syndrome]], [[cirrhosis-hemostasis]], [[portal-hypertension]]
+
+## Relevance to Wiki
+
+Wiki pages built on or citing this source:
+
+- [[portal-vein-thrombosis|Portal Vein Thrombosis and Mesenteric Vein Thrombosis]]
+- [[tips|TIPS (Transjugular Intrahepatic Portosystemic Shunt)]]

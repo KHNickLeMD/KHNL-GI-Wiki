@@ -3,7 +3,7 @@ title: "AGA Living Guideline: Computer-Aided Detection (CADe)-Assisted Colonosco
 category: source
 tags: [colonoscopy, cade, artificial-intelligence, adenoma-detection, colorectal-cancer-screening, guideline, aga]
 created: 2026-06-04
-updated: 2026-06-04
+updated: 2026-08-14
 sources: []
 ---
 
@@ -44,3 +44,10 @@ CADe is a tool that may modestly raise ADR but, on current evidence, does not wa
 ## See Also
 
 [[colonoscopy]], [[colorectal-cancer-screening]], [[colonoscopy-surveillance]], [[colorectal-cancer]], [[endoscopic-oncology]]
+
+## Relevance to Wiki
+
+Wiki pages built on or citing this source:
+
+- [[artificial-intelligence-endoscopy|Artificial Intelligence in Endoscopy]]
+- [[colonoscopy|Colonoscopy]]

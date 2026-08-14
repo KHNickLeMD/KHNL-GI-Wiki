@@ -3,7 +3,7 @@ title: "AGA Clinical Practice Guideline: Gastrointestinal Evaluation of Iron-Def
 category: source
 tags: [iron-deficiency-anemia, ferritin, bidirectional-endoscopy, gi-bleeding, h-pylori, guideline, aga]
 created: 2026-06-04
-updated: 2026-06-04
+updated: 2026-08-14
 sources: []
 ---
 
@@ -43,3 +43,10 @@ Sets ferritin <45 ng/mL as the practical iron-deficiency threshold and mandates 
 ## See Also
 
 [[small-bowel-bleeding]], [[celiac-disease]], [[helicobacter-pylori-infection]], [[capsule-endoscopy]]
+
+## Relevance to Wiki
+
+Wiki pages built on or citing this source:
+
+- [[iron-deficiency-anemia|Iron-Deficiency Anemia]]
+- [[small-bowel-bleeding|Small Bowel Bleeding]]

@@ -3,7 +3,7 @@ title: "AASLD Practice Guidance: Malnutrition, Frailty, and Sarcopenia in Cirrho
 category: source
 tags: [cirrhosis, malnutrition, frailty, sarcopenia, nutrition, liver-frailty-index, guidance, aasld]
 created: 2026-06-04
-updated: 2026-06-04
+updated: 2026-08-14
 sources: []
 ---
 
@@ -43,3 +43,10 @@ Operationalizes nutrition (≥35 kcal/kg, 1.2–1.5 g/kg protein, late-evening s
 ## See Also
 
 [[nutrition-in-liver-disease]], [[hepatic-encephalopathy]], [[portal-hypertension]], [[liver-transplantation]]
+
+## Relevance to Wiki
+
+Wiki pages built on or citing this source:
+
+- [[cirrhosis|Cirrhosis]]
+- [[nutrition-in-liver-disease|Nutrition in Liver Disease]]

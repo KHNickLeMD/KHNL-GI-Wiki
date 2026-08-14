@@ -3,7 +3,7 @@ title: "Immune Checkpoint Inhibitor Hepatitis (ICI Hepatotoxicity)"
 category: disease-script
 tags: [ici, immunotherapy, hepatitis, dili, liver, hpb, checkpoint-inhibitor]
 created: 2026-05-16
-updated: 2026-08-13
+updated: 2026-08-14
 sources: [acg-2021-dili, aasld-2022-dili]
 ---
 
@@ -45,7 +45,7 @@ ICI hepatotoxicity is an **immune-related adverse event (irAE)** of PD-1/PD-L1 i
 - [[autoimmune-hepatitis]] — clinical/histologic overlap; biopsy may be needed to distinguish
 - Other [[drug-induced-liver-injury|DILI]] from co-medications or herbal/dietary supplements
 - Hepatic metastases / disease progression ([[hepatocellular-carcinoma]] and other malignancy)
-- Viral hepatitis reactivation — check HBsAg/anti-HBc before ICI initiation
+- Viral hepatitis reactivation — check [[chronic-hepatitis-b|HBsAg]]/anti-HBc before ICI initiation
 - Biliary obstruction
 
 ---
@@ -79,7 +79,7 @@ ICI hepatotoxicity is an **immune-related adverse event (irAE)** of PD-1/PD-L1 i
 
 ## See Also
 
-[[drug-induced-liver-injury]], [[autoimmune-hepatitis]], [[abnormal-liver-chemistries]], [[jaundice]], [[hepatocellular-carcinoma]], [[tacrolimus]], [[liver-biopsy]], [[liver-transplantation]], [[acute-liver-failure]], [[ibd-in-malignancy]]
+[[drug-induced-liver-injury]], [[autoimmune-hepatitis]], [[abnormal-liver-chemistries]], [[jaundice]], [[hepatocellular-carcinoma]], [[tacrolimus]], [[liver-biopsy]], [[liver-transplantation]], [[acute-liver-failure]], [[ibd-in-malignancy]], [[chronic-hepatitis-b]]
 
 ---
 

@@ -3,7 +3,7 @@ title: "Proton Pump Inhibitors (PPIs)"
 category: med
 tags: [ppi, acid-suppression, gerd, erosive-esophagitis, peptic-ulcer-disease, h-pylori, eoe, omeprazole, esomeprazole]
 created: 2026-07-21
-updated: 2026-08-12
+updated: 2026-08-14
 sources: [acg-2021-gerd, acg-2024-hp-treatment, acg-2025-eoe, acg-2022-barretts]
 ---
 
@@ -94,7 +94,7 @@ Standard-dose acid-suppression potency standardized to omeprazole = 1.00 ("omepr
 - **Common ADRs** (clinical trials / FDA labels): headache, abdominal pain, nausea, vomiting, diarrhea, constipation, flatulence — infrequent, abate on stopping; can be preparation-specific → switching PPI is reasonable.
 - **Putative serious associations** (chronic use): intestinal infections, pneumonia, [[gastric-adenocarcinoma|stomach cancer]], osteoporosis-related fractures, chronic kidney disease, vitamin/mineral deficiencies, myocardial infarction, stroke, dementia, early death. High-quality studies found PPIs do **not** significantly increase risk of any of these **except intestinal infections**; a small increase in others cannot be fully excluded. Benefits generally far outweigh theoretical risks.
 - **No routine monitoring/supplementation** in patients without other risk factors: calcium/vitamin D/BMD; vitamin B12; serum creatinine.
-- **Clopidogrel:** for LA grade C/D esophagitis or inadequately controlled GERD, benefits outweigh the proposed (highly questionable) cardiovascular risk.
+- **[[anticoagulation-gi-bleeding|Clopidogrel]]:** for LA grade C/D esophagitis or inadequately controlled GERD, benefits outweigh the proposed (highly questionable) cardiovascular risk.
 - **Renal insufficiency:** PPIs may be used with monitoring of renal function / nephrology input.
 - **Pregnancy:** all PPIs FDA category **B except omeprazole** (category C).
 
@@ -106,7 +106,7 @@ Standard-dose acid-suppression potency standardized to omeprazole = 1.00 ("omepr
 
 ## See Also
 
-[[potassium-competitive-acid-blockers]], [[vonoprazan]], [[gerd]], [[barretts-esophagus]], [[eosinophilic-esophagitis]], [[peptic-ulcer-disease]], [[helicobacter-pylori-infection]], [[bismuth-quadruple-therapy]], [[ambulatory-reflux-monitoring]], [[reflux-testing]], [[endoscopic-eradication-therapy]], [[esophageal-adenocarcinoma]]
+[[potassium-competitive-acid-blockers]], [[vonoprazan]], [[gerd]], [[barretts-esophagus]], [[eosinophilic-esophagitis]], [[peptic-ulcer-disease]], [[helicobacter-pylori-infection]], [[bismuth-quadruple-therapy]], [[ambulatory-reflux-monitoring]], [[reflux-testing]], [[endoscopic-eradication-therapy]], [[esophageal-adenocarcinoma]], [[anticoagulation-gi-bleeding]]
 
 ---
 

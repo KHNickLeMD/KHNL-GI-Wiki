@@ -3,7 +3,7 @@ title: "Gastroparesis"
 category: disease-script
 tags: [gastroparesis, gastric-motility, prokinetics, g-poem, gastric-emptying, foregut]
 created: 2026-05-15
-updated: 2026-08-12
+updated: 2026-08-14
 sources: [acg-2022-gastroparesis, aga-2025-gastroparesis, surjanhata-2025-constipation-gastroparesis]
 ---
 
@@ -15,7 +15,7 @@ sources: [acg-2022-gastroparesis, aga-2025-gastroparesis, surjanhata-2025-consti
 
 ### Establishing the Diagnosis
 
-**Definition:** GP is a motility disorder characterized by delayed gastric emptying (GE) of solid food in the absence of mechanical obstruction, accompanied by symptoms including postprandial fullness, nausea, vomiting, and upper abdominal pain. Mechanical obstruction must be excluded before confirming the diagnosis (by [[upper-endoscopy]] or radiology).
+**Definition:** GP is a motility disorder characterized by delayed gastric emptying (GE) of solid food in the absence of mechanical obstruction, accompanied by symptoms including postprandial fullness, nausea, vomiting, and upper abdominal pain. Mechanical obstruction must be excluded before confirming the diagnosis (by [[upper-endoscopy|upper endoscopy]] or radiology).
 
 **Cardinal symptoms:**
 
@@ -29,7 +29,7 @@ sources: [acg-2022-gastroparesis, aga-2025-gastroparesis, surjanhata-2025-consti
 
 - Opioids, cannabinoids, and many medications (cardiovascular agents, acid suppressants) retard GE and must be excluded as causes
 - Opioids worsen GP and should NOT be used to treat pain in GP — tramadol (retards orocecal transit) and tapentadol (retards GE) included; opioid use is associated with worse outcomes
-- Retained gastric food on [[upper-endoscopy]] has a PPV of only 55% for delayed GE overall (32% without risk factors, 79% in type 1 DM) — not diagnostic alone
+- Retained gastric food on upper endoscopy has a PPV of only 55% for delayed GE overall (32% without risk factors, 79% in type 1 DM) — not diagnostic alone
 
 ### Severity Assessment (GCSI, symptom domains)
 
@@ -68,7 +68,7 @@ sources: [acg-2022-gastroparesis, aga-2025-gastroparesis, surjanhata-2025-consti
 *Workup: see [[nausea-and-vomiting]].*
 
 - **Functional [[dyspepsia]] (FD)** — significant overlap; 42% of patients initially diagnosed with GP reclassified on repeat SGE; 37% of FD reclassified as GP. FD has a better prognosis than GP. See [[disorders-of-gut-brain-interaction]]
-- **Mechanical gastric outlet obstruction** — peptic stricture, malignancy, bezoar; must be excluded by [[upper-endoscopy]] or imaging before diagnosing GP
+- **Mechanical gastric outlet obstruction** — peptic stricture, malignancy, bezoar; must be excluded by upper endoscopy or imaging before diagnosing GP
 - **[[gerd|GERD]] / reflux disease** — symptom overlap (nausea, postprandial discomfort)
 - **[[rumination-syndrome|Rumination syndrome]]** — regurgitation of undigested food shortly after meals; distinguished by manometry/impedance
 - **[[cyclic-vomiting-syndrome|Cyclic vomiting syndrome]]** — stereotyped episodic vomiting with symptom-free intervals
@@ -212,7 +212,7 @@ sources: [acg-2022-gastroparesis, aga-2025-gastroparesis, surjanhata-2025-consti
 #### 5-HT4 Agonists (Conditional, Low Evidence)
 
 - **[[prucalopride|Prucalopride]] 2 mg/d** (Carbone 2019, RCT): significant improvement in GCSI total and all subscales + GE T½ — but benefit confined to idiopathic GP subgroup
-- **[[prucalopride|Prucalopride]] 4 mg/d** (Andrews 2021, RCT): GE improved; GCSI not significantly different from placebo
+- **Prucalopride 4 mg/d** (Andrews 2021, RCT): GE improved; GCSI not significantly different from placebo
 - **Velusetrag, felcisetrag:** investigational agents showing GE acceleration in phase 2 RCTs
 - **Overall:** Conditionally recommended to improve GE; inconsistent data for symptom improvement
 

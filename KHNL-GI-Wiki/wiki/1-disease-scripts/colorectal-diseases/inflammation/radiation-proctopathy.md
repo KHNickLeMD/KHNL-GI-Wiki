@@ -3,7 +3,7 @@ title: "Radiation Proctopathy"
 category: disease-script
 tags: [radiation-proctopathy, radiation-proctitis, rectal-bleeding, hematochezia, argon-plasma-coagulation, pelvic-radiation, telangiectasia]
 created: 2026-06-22
-updated: 2026-07-30
+updated: 2026-08-14
 sources: [asge-2019-radiation-proctopathy]
 ---
 
@@ -34,7 +34,7 @@ sources: [asge-2019-radiation-proctopathy]
 |---|---|---|
 | **Timing** | During / ≤3 months of RT | ≥3 months; median onset 8–12 months |
 | **Histology** | Superficial epithelial depletion + **acute inflammatory infiltrate** | Obliterative/ischemic endarteritis, submucosal fibrosis, neovascularization; **relative lack of inflammatory infiltrate** |
-| **Presentation** | Abd/pelvic pain, tenesmus, diarrhea, urgency; usually self-limiting | Rectal bleeding, fecal incontinence; stricture/fistula |
+| **Presentation** | Abd/pelvic pain, tenesmus, diarrhea, urgency; usually self-limiting | Rectal bleeding, [[fecal-incontinence\|fecal incontinence]]; stricture/fistula |
 | **Management** | Supportive (hydration, antidiarrheals, ± hold RT) | Endoscopic therapy for bleeding |
 
 ## Differential Diagnosis

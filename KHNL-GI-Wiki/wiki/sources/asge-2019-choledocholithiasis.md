@@ -3,7 +3,7 @@ title: "ASGE Guideline: Endoscopic Management of Choledocholithiasis (2019)"
 category: source
 tags: [choledocholithiasis, cbd-stones, ercp, eus, mrcp, gallstone-pancreatitis, guideline, asge]
 created: 2026-06-04
-updated: 2026-07-16
+updated: 2026-08-14
 sources: []
 ---
 
@@ -48,3 +48,10 @@ ERCP for high-probability stones, EUS/MRCP to triage intermediate-probability ca
 ## See Also
 
 [[ercp]], [[endoscopic-ultrasound]], [[biliary-stricture]], [[acute-pancreatitis]]
+
+## Relevance to Wiki
+
+Wiki pages built on or citing this source:
+
+- [[choledocholithiasis|Choledocholithiasis]]
+- [[ercp|ERCP (Endoscopic Retrograde Cholangiopancreatography)]]

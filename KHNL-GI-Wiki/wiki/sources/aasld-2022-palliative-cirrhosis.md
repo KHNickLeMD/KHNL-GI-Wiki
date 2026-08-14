@@ -3,7 +3,7 @@ title: "AASLD Practice Guidance: Palliative Care and Symptom-Based Management fo
 category: source
 tags: [cirrhosis, palliative-care, symptom-management, advance-care-planning, quality-of-life, guidance, aasld]
 created: 2026-06-04
-updated: 2026-06-04
+updated: 2026-08-14
 sources: []
 ---
 
@@ -43,3 +43,10 @@ Normalizes early, concurrent palliative care and structured symptom management i
 ## See Also
 
 [[portal-hypertension]], [[hepatic-encephalopathy]], [[ascites]], [[nutrition-in-liver-disease]], [[liver-transplantation]]
+
+## Relevance to Wiki
+
+Wiki pages built on or citing this source:
+
+- [[cirrhosis|Cirrhosis]]
+- [[portal-hypertension|Portal Hypertension]]

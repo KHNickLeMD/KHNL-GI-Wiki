@@ -3,7 +3,7 @@ title: "Liver Transplantation — Post-Transplant Management"
 category: disease-script
 tags: [liver-transplant, liver-transplantation, immunosuppression, tacrolimus, calcineurin-inhibitor, ckd, metabolic-syndrome, rejection, tcmr, pcr, amr, biliary-stricture, vascular-complications, machine-perfusion, dcd, ldlt, ead, hbv, hcv, pbc, psc, autoimmune-hepatitis, hcc, masld, ald, de-novo-malignancy, post-transplant, bone-health, vaccination, cmv, cancer-surveillance, glp-1, bariatric-surgery, aasld]
 created: 2026-05-19
-updated: 2026-08-13
+updated: 2026-08-14
 sources: [aasld-2012-liver-transplant-long-term, aasld-ast-2025-liver-transplant-graft-complications, aasld-ast-2025-liver-transplant-candidate-evaluation, aasld-ast-2025-liver-transplant-non-graft-complications, asge-2023-post-transplant-biliary-strictures]
 ---
 
@@ -345,7 +345,7 @@ Biliary complications are addressed both by AASLD-AST 2025 and by the dedicated 
 - Irreversible symptomatic biliary disease or progressive ischemic cholangiopathy: retransplantation (AASLD Rec 24, Strong, Level 4)
 - DCD recipients with persistent cholestasis (bilirubin >2 mg/dL), recurrent cholangitis, or non-anastomotic strictures unresponsive to treatment receive increased waitlist priority
 
-**Periprocedural antibiotics during elective ERCP** ([[asge-2023-post-transplant-biliary-strictures]] Rec 4, Conditional, Very Low): suggested when **complete biliary drainage is technically challenging** (ischemic cholangiopathy, multiple strictures, failed stenting, or contrast injected across a stricture not dilated/stented). Patients with cholangitis are excluded (already require antibiotics). Otherwise antibiotics are not routine (pooled infection rate ~1.1%); weigh fluoroquinolone AEs — including CYP3A4 inhibition that raises [[tacrolimus]] levels — and resistance risk.
+**Periprocedural [[antibiotic-prophylaxis-endoscopy|antibiotics]] during elective ERCP** ([[asge-2023-post-transplant-biliary-strictures]] Rec 4, Conditional, Very Low): suggested when **complete biliary drainage is technically challenging** (ischemic cholangiopathy, multiple strictures, failed stenting, or contrast injected across a stricture not dilated/stented). Patients with cholangitis are excluded (already require antibiotics). Otherwise antibiotics are not routine (pooled infection rate ~1.1%); weigh fluoroquinolone AEs — including CYP3A4 inhibition that raises [[tacrolimus]] levels — and resistance risk.
 
 ### Immunosuppression (IS)
 
@@ -482,7 +482,7 @@ Biliary complications are addressed both by AASLD-AST 2025 and by the dedicated 
 
 - Especially elevated risk in PSC recipients (coexisting [[inflammatory-bowel-disease|IBD]] + field defect)
 - PSC + IBD recipients: annual surveillance colonoscopy beginning at LT (Rec. 37)
-- All other recipients: standard colonoscopy screening per age-based guidelines; begin at 50 or sooner based on LT-related risk (Rec. 38)
+- All other recipients: standard [[colorectal-cancer-screening|colonoscopy screening]] per age-based guidelines; begin at 50 or sooner based on LT-related risk (Rec. 38)
 
 **Cervical and gynecologic cancers** (Rec. 40–41):
 
@@ -804,7 +804,7 @@ Annual screening for HTN, obesity, DM, and hyperlipidemia for all LT recipients 
 
 ## See Also
 
-[[abnormal-liver-chemistries]], [[acute-liver-failure]], [[acute-on-chronic-liver-failure]], [[alcohol-associated-liver-disease]], [[portal-vein-thrombosis]], [[portal-hypertension]], [[chronic-hepatitis-b]], [[hepatitis-c]], [[direct-acting-antivirals]], [[hepatocellular-carcinoma]], [[hcc-surveillance]], [[nafld-masld]], [[primary-sclerosing-cholangitis]], [[primary-biliary-cholangitis]], [[autoimmune-hepatitis]], [[acute-hepatic-porphyria]], [[cholangiocarcinoma]], [[biliary-stricture]], [[ercp]], [[mri-mrcp]], [[liver-biopsy]], [[tacrolimus]], [[calcineurin-inhibitors]], [[post-transplant-lymphoproliferative-disorder]], [[operational-tolerance]], [[antibody-mediated-rejection-liver-transplant]], [[semaglutide]], [[bariatric-surgery]], [[obesity]], [[nutrition-in-liver-disease]], [[colorectal-cancer]], [[colonoscopy]], [[inflammatory-bowel-disease]], [[gastroenteropancreatic-neuroendocrine-tumors]], [[hepatopulmonary-syndrome-portopulmonary-hypertension]], [[hepatic-encephalopathy]], [[ascites]], [[spontaneous-bacterial-peritonitis]], [[variceal-upper-gi-bleeding]], [[cirrhosis]], [[liver-stiffness-measurement]], [[tips]], [[rotavirus]]
+[[abnormal-liver-chemistries]], [[acute-liver-failure]], [[acute-on-chronic-liver-failure]], [[alcohol-associated-liver-disease]], [[portal-vein-thrombosis]], [[portal-hypertension]], [[chronic-hepatitis-b]], [[hepatitis-c]], [[direct-acting-antivirals]], [[hepatocellular-carcinoma]], [[hcc-surveillance]], [[nafld-masld]], [[primary-sclerosing-cholangitis]], [[primary-biliary-cholangitis]], [[autoimmune-hepatitis]], [[acute-hepatic-porphyria]], [[cholangiocarcinoma]], [[biliary-stricture]], [[ercp]], [[mri-mrcp]], [[liver-biopsy]], [[tacrolimus]], [[calcineurin-inhibitors]], [[post-transplant-lymphoproliferative-disorder]], [[operational-tolerance]], [[antibody-mediated-rejection-liver-transplant]], [[semaglutide]], [[bariatric-surgery]], [[obesity]], [[nutrition-in-liver-disease]], [[colorectal-cancer]], [[colorectal-cancer-screening]], [[colonoscopy]], [[antibiotic-prophylaxis-endoscopy]], [[inflammatory-bowel-disease]], [[gastroenteropancreatic-neuroendocrine-tumors]], [[hepatopulmonary-syndrome-portopulmonary-hypertension]], [[hepatic-encephalopathy]], [[ascites]], [[spontaneous-bacterial-peritonitis]], [[variceal-upper-gi-bleeding]], [[cirrhosis]], [[liver-stiffness-measurement]], [[tips]], [[rotavirus]]
 
 ---
 

@@ -3,7 +3,7 @@ title: "Hepatic Encephalopathy"
 category: disease-script
 tags: [hepatic-encephalopathy, HE, cirrhosis, ammonia, lactulose, rifaximin, TIPS, portal-hypertension, ACLF, minimal-HE, covert-HE, overt-HE, portosystemic-shunting, brain-dysfunction, west-haven, bristol-stool-scale, sarcopenia]
 created: 2026-05-28
-updated: 2026-08-12
+updated: 2026-08-14
 sources: [aasld-easl-2014-hepatic-encephalopathy, acg-2026-hepatic-encephalopathy]
 ---
 
@@ -148,7 +148,7 @@ Every bout should be characterized along **all axes simultaneously** — the 201
 
 - **Who to prioritize for MHE testing** (ACG 2026, Key concept 3) — cirrhosis plus ≥1 of:
   - Hypoalbuminemia
-  - Decompensated cirrhosis (ascites, variceal bleeding, or jaundice)
+  - Decompensated cirrhosis (ascites, variceal bleeding, or [[jaundice|jaundice]])
   - Clinically significant portal hypertension or portosystemic shunts (see [[portal-hypertension]])
   - Nonspecific cognitive complaints, difficulty concentrating, impaired QoL, navigation issues/traffic violations, falls
   - Difficulty operating heavy machinery
@@ -280,7 +280,7 @@ All elements initiated simultaneously ([[aasld-easl-2014-hepatic-encephalopathy]
 
 ## See Also
 
-[[acute-liver-failure]], [[acute-on-chronic-liver-failure]], [[cirrhosis]], [[portal-hypertension]], [[tips]], [[aki-in-cirrhosis]], [[spontaneous-bacterial-peritonitis]], [[ascites]], [[variceal-upper-gi-bleeding]], [[upper-gi-bleeding]], [[liver-transplantation]], [[rifaximin]], [[albumin]], [[probiotics]], [[fmt]], [[proton-pump-inhibitors]], [[alcohol-associated-liver-disease]], [[hepatitis-c]], [[nutrition-in-liver-disease]], [[disorders-of-gut-brain-interaction]]
+[[acute-liver-failure]], [[acute-on-chronic-liver-failure]], [[cirrhosis]], [[portal-hypertension]], [[tips]], [[aki-in-cirrhosis]], [[spontaneous-bacterial-peritonitis]], [[ascites]], [[variceal-upper-gi-bleeding]], [[upper-gi-bleeding]], [[liver-transplantation]], [[rifaximin]], [[albumin]], [[probiotics]], [[fmt]], [[proton-pump-inhibitors]], [[alcohol-associated-liver-disease]], [[hepatitis-c]], [[nutrition-in-liver-disease]], [[disorders-of-gut-brain-interaction]], [[jaundice]]
 
 ---
 

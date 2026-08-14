@@ -3,7 +3,7 @@ title: "Antireflux Surgery"
 category: advanced-procedure
 tags: [gerd, antireflux-surgery, fundoplication, nissen, msa, linx, tif, ctif, stretta, foregut, hiatal-hernia]
 created: 2026-06-01
-updated: 2026-07-17
+updated: 2026-08-14
 sources: [sages-2021-gerd-surgery, acg-2021-gerd, asge-2024-gerd, padova-2025-hrm-antireflux]
 ---
 
@@ -80,7 +80,7 @@ All conditional recommendations — outcomes are broadly equivalent, so these ar
 | **Robotic vs laparoscopic** | Trivial differences overall. Robotic may favor long-term PPI reduction (needs certification, higher cost); laparoscopic may favor short-term symptom control and lower reoperation risk | Conditional / Low (adults); Very Low (children) |
 | **Complete (Nissen) vs partial** | Complete: **5.1% better** symptom control at >5 y, lower long-term PPI use. Partial: **7.4% less** long-term dysphagia at >5 y, slightly better short-term QoL | Conditional / Low |
 | **Short gastric division vs preservation** | Division: 13.2% better symptom control at 10 y (single RCT, n=82) but **21.8% more gas-bloat at 10–20 y**. Division is necessary only when a tension-free wrap cannot otherwise be achieved | Conditional / Very Low |
-| **Pediatric dissection extent** | Minimal dissection (no violation of phrenoesophageal membrane) preferred without large hiatal hernia — 9.3% fewer EGD/dilations, 3.2% less postoperative PPI use | Conditional / Moderate |
+| **Pediatric dissection extent** | Minimal dissection (no violation of phrenoesophageal membrane) preferred without large hiatal hernia — 9.3% fewer [[upper-endoscopy\|EGD]]/dilations, 3.2% less postoperative PPI use | Conditional / Moderate |
 
 - Rule of thumb: prioritizing **reflux control** → complete wrap; prioritizing **dysphagia avoidance** → partial wrap.
 

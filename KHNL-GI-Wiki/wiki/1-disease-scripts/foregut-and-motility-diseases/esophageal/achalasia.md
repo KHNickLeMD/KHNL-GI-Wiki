@@ -3,7 +3,7 @@ title: "Achalasia"
 category: disease-script
 tags: [achalasia, esophageal-motility, dysphagia, hrm, poem, heller-myotomy, pneumatic-dilation, foregut]
 created: 2026-05-15
-updated: 2026-08-13
+updated: 2026-08-14
 sources: [acg-2020-achalasia, asge-2020-achalasia, sages-2021-poem, sages-2024-poem, aga-2024-poem-advances, aga-2024-esophageal-immunity-infection, chicago-v4-2021-esophageal-dysmotility]
 ---
 # Achalasia
@@ -87,7 +87,7 @@ Barium column height measured at 1, 2, and 5 minutes after large barium bolus in
 
 ### FLIP (Functional Lumen Imaging Probe)
 
-Simultaneous cross-sectional area + pressure → EGJ distensibility index. Performed during endoscopy under sedation. All 70 manometry-confirmed achalasia patients had reduced EGJ distensibility on FLIP. Useful in:
+Simultaneous cross-sectional area + pressure → EGJ distensibility index. Performed during endoscopy under [[endoscopy-sedation|sedation]]. All 70 manometry-confirmed achalasia patients had reduced EGJ distensibility on FLIP. Useful in:
 
 - Equivocal manometry with high clinical suspicion
 - Patients who cannot tolerate manometry
@@ -220,7 +220,7 @@ flowchart TD
 
 ## See Also
 
-[[dysphagia]], [[high-resolution-manometry]], [[flip-panometry]], [[poem]], [[chicago-classification-v4]], [[distal-esophageal-spasm]], [[hypercontractile-esophagus]], [[esophagogastric-junction-outflow-obstruction]], [[gerd]], [[eosinophilic-esophagitis]], [[esophageal-dysfunction-systemic-disease]], [[upper-endoscopy]], [[heller-myotomy]], [[esophageal-cancer]], [[esophageal-adenocarcinoma]], [[reflux-testing]], [[ambulatory-reflux-monitoring]], [[antireflux-surgery]], [[endoscopic-submucosal-dissection]], [[barretts-esophagus]], [[proton-pump-inhibitors]], [[endoscopic-ultrasound]]
+[[dysphagia]], [[high-resolution-manometry]], [[flip-panometry]], [[poem]], [[chicago-classification-v4]], [[distal-esophageal-spasm]], [[hypercontractile-esophagus]], [[esophagogastric-junction-outflow-obstruction]], [[gerd]], [[eosinophilic-esophagitis]], [[esophageal-dysfunction-systemic-disease]], [[upper-endoscopy]], [[heller-myotomy]], [[esophageal-cancer]], [[esophageal-adenocarcinoma]], [[reflux-testing]], [[ambulatory-reflux-monitoring]], [[antireflux-surgery]], [[endoscopic-submucosal-dissection]], [[barretts-esophagus]], [[proton-pump-inhibitors]], [[endoscopic-ultrasound]], [[endoscopy-sedation]]
 
 ---
 

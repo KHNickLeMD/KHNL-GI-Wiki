@@ -3,7 +3,7 @@ title: "TIPS (Transjugular Intrahepatic Portosystemic Shunt)"
 category: advanced-procedure
 tags: [tips, portal-hypertension, variceal-bleeding, refractory-ascites, hepatic-encephalopathy, pspg, ptfe-stent, rto, brto, interventional-radiology]
 created: 2026-07-16
-updated: 2026-08-12
+updated: 2026-08-14
 sources: [aasld-2024-tips, aasld-2021-ascites-sbp-hrs, aga-2025-ascites-cirrhosis, aasld-2021-vascular-pvt, wang-2026-eus-ppg-delphi-consensus]
 ---
 
@@ -35,7 +35,7 @@ sources: [aasld-2024-tips, aasld-2021-ascites-sbp-hrs, aga-2025-ascites-cirrhosi
 
 - **Preemptive TIPS criteria:** Child-Pugh class **C 10–13 points**, or Child-Pugh class **B 8–9 points with active bleeding at initial endoscopy** despite concomitant vasoactive agents → PTFE-covered stent within 72 h (ideally <24 h) of initial [[upper-endoscopy|upper endoscopy]]
   - Encephalopathy, hyperbilirubinemia, and/or [[acute-on-chronic-liver-failure|ACLF]] at time of bleeding had **no impact on survival** in observational data and should **not** contraindicate preemptive TIPS
-  - Caveats: preemptive-TIPS RCTs enrolled mainly alcohol-associated and hepatitis B–related [[cirrhosis]] — generalizability to [[nafld-masld|MASH]]-related cirrhosis undetermined; a 2021 RCT (n=58) found similar 1-year survival vs standard of care, and the updated meta-analysis showed lower 6-week rebleeding but **no significant survival benefit**
+  - Caveats: preemptive-TIPS RCTs enrolled mainly [[alcohol-associated-liver-disease|alcohol-associated]] and [[chronic-hepatitis-b|hepatitis B]]–related [[cirrhosis]] — generalizability to [[nafld-masld|MASH]]-related cirrhosis undetermined; a 2021 RCT (n=58) found similar 1-year survival vs standard of care, and the updated meta-analysis showed lower 6-week rebleeding but **no significant survival benefit**
 - **Secondary prevention:** TIPS is **second-line** — first-line remains NSBB (propranolol, nadolol, or carvedilol) + endoscopic variceal ligation; TIPS is treatment of choice for rebleeding despite that combination. RCTs consistently show TIPS prevents rebleeding but with **increased HE and no survival difference**
 - **No role in primary prevention** — of either esophageal or gastrofundal variceal bleeding
 - **Salvage/rescue:** controls bleeding in 80–100%, but 6-week mortality **27–55%** (deaths from liver failure, infection, renal failure)
@@ -89,7 +89,7 @@ sources: [aasld-2024-tips, aasld-2021-ascites-sbp-hrs, aga-2025-ascites-cirrhosi
 
 ## Hemodynamic Targets
 
-- **HVPG** = portal vein pressure − hepatic vein pressure
+- **[[hepatic-venous-pressure-gradient|HVPG]]** = portal vein pressure − hepatic vein pressure
 - **PSPG** (portosystemic pressure gradient) = portal pressure − **suprahepatic (intra-abdominal) IVC pressure** — correlates better with clinical outcomes than using right atrial pressure
   - If IVC pressure is not measurable, right atrial pressure is substituted, but this **overestimates PSPG** (atrial pressure is generally lower than IVC)
   - Gradients recorded under general anesthesia/sedation in fasting conditions may not reflect the "real" PSPG
@@ -215,9 +215,11 @@ Retrograde (RTO) and anterograde (ATO) transvenous obliteration act **directly o
 
 Priority research areas named by [[aasld-2024-tips]]: optimal intraprocedural PSPG decrease by bleed source and the best way to measure it (internal zero — IVC vs right atrium — and timing of post-TIPS measurement); whether initial 8-mm placement independent of post-TIPS PSPG reduces complications while maintaining efficacy; TIPS + portomesenteric thrombectomy vs anticoagulation in PVT; NSBBs as adjuvant therapy to TIPS; optimal technical approach to RTO; whether TIPS results depend on cirrhosis etiology (extrapolation to MASH-related cirrhosis); larger trials to clarify preemptive-TIPS patient selection; optimal primary prophylaxis of gastrofundal varices; and TIPS vs RTO vs endoscopic therapy for secondary prevention of gastric variceal hemorrhage with a GRS.
 
+---
+
 ## See Also
 
-[[portal-hypertension]], [[variceal-upper-gi-bleeding]], [[ascites]], [[hepatic-encephalopathy]], [[cirrhosis]], [[portal-vein-thrombosis]], [[budd-chiari-syndrome]], [[rifaximin]], [[liver-transplantation]], [[upper-endoscopy]], [[endoscopic-ultrasound]], [[acute-on-chronic-liver-failure]], [[aki-in-cirrhosis]], [[cirrhosis-hemostasis]], [[hepatopulmonary-syndrome-portopulmonary-hypertension]], [[hepatic-cysts]], [[nafld-masld]]
+[[portal-hypertension]], [[variceal-upper-gi-bleeding]], [[ascites]], [[hepatic-encephalopathy]], [[cirrhosis]], [[portal-vein-thrombosis]], [[budd-chiari-syndrome]], [[rifaximin]], [[liver-transplantation]], [[upper-endoscopy]], [[endoscopic-ultrasound]], [[acute-on-chronic-liver-failure]], [[aki-in-cirrhosis]], [[cirrhosis-hemostasis]], [[hepatopulmonary-syndrome-portopulmonary-hypertension]], [[hepatic-cysts]], [[nafld-masld]], [[hepatic-venous-pressure-gradient]], [[interventional-eus-vascular]], [[alcohol-associated-liver-disease]], [[chronic-hepatitis-b]]
 
 ---
 

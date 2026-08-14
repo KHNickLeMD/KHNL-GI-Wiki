@@ -3,7 +3,7 @@ title: "Chronic Hepatitis B"
 category: disease-script
 tags: [hepatitis-b, HBV, antiviral, nucleoside-analogues, HCC-surveillance, immune-tolerant, indeterminate, functional-cure, pregnancy, co-infection]
 created: 2026-05-15
-updated: 2026-08-12
+updated: 2026-08-14
 sources: [aasld-idsa-2025-chb-treatment, acg-2016-liver-disease-pregnancy, aga-2025-hbv-reactivation, aga-2024-pregnancy-gi-liver]
 ---
 
@@ -207,7 +207,7 @@ Ultrasound + AFP every 6 months. Indication thresholds:
 | CHB without cirrhosis: men from endemic country >40, women >50, person from Africa (earlier), family Hx HCC, PAGE-B ≥10 | Yes |
 | **HBV/HDV co-infection** | Yes — all adults, regardless of cirrhosis [[aasld-idsa-2025-chb-treatment]] |
 | **HBV/HIV co-infection** | Yes — men ≥18 years, women ≥40 years [[aasld-idsa-2025-chb-treatment]] |
-| HBV/HCV co-infection | Treat HCV first; then per HBV mono-infection criteria |
+| HBV/HCV co-infection | [[direct-acting-antivirals\|Treat HCV first]]; then per HBV mono-infection criteria |
 | **Post-HBsAg loss** | Yes if: cirrhosis, family Hx HCC, male >40 at loss, female >50 at loss [[aasld-idsa-2025-chb-treatment]] |
 
 Triple/quadruple co-infections: follow surveillance criteria for the co-infection with highest HCC risk (e.g., HBV+HDV+HCV → follow HDV criteria).

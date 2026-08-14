@@ -3,7 +3,7 @@ title: "Entamoeba histolytica Infection (Amebiasis)"
 category: disease-script
 tags: [entamoeba, amebiasis, amebic-dysentery, parasitic-diarrhea, liver-abscess, travelers-diarrhea, metronidazole]
 created: 2026-05-19
-updated: 2026-07-30
+updated: 2026-08-14
 sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
 ---
 
@@ -69,7 +69,7 @@ sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
 
 ## See Also
 
-[[acute-diarrhea]], [[fever-returning-traveler]], [[hiv-aids-related-diarrhea]], [[giardiasis]], [[cryptosporidiosis]], [[shigellosis]], [[campylobacter-infection]], [[salmonella-infection]], [[enterotoxigenic-e-coli]], [[loperamide]]
+[[acute-diarrhea]], [[fever-returning-traveler]], [[hiv-aids-related-diarrhea]], [[giardiasis]], [[cryptosporidiosis]], [[shigellosis]], [[campylobacter-infection]], [[salmonella-infection]], [[enterotoxigenic-e-coli]], [[clostridioides-difficile]], [[inflammatory-bowel-disease]], [[ulcerative-colitis]], [[loperamide]]
 
 ---
 

@@ -1,215 +1,210 @@
 ---
 title: "Reflux Testing"
 category: concept
-tags: [gerd, reflux, ph-monitoring, impedance, manometry, diagnostics]
+tags: [gerd, reflux, ph-monitoring, impedance, manometry, endoscopy, diagnostics]
 created: 2026-05-15
-updated: 2026-07-16
-sources: [asge-2024-gerd, acg-2020-esophageal-physiologic-testing]
+updated: 2026-08-14
+sources: [acg-2021-gerd, asge-2024-gerd, acg-2020-esophageal-physiologic-testing]
 ---
 
-## Overview
+*Which objective test to order for suspected or refractory [[gerd|GERD]], when to order it, and whether to test on or off antisecretory therapy — plus the endoscopic grading systems used to characterise the antireflux barrier.*
 
-Reflux testing refers to the suite of diagnostic tools used to objectively confirm [[gerd|gastroesophageal reflux disease (GERD)]], characterize its severity, and guide procedural decision-making. Clinical diagnosis based on symptoms alone is sufficient for empiric [[proton-pump-inhibitors|PPI]] trials, but objective confirmation is required before endoscopic or surgical anti-reflux therapy.
+**Interpretation thresholds are not on this page.** Acid exposure time (AET) bands, reflux-episode counts, MNBI, PSPW status, and SAP/SI cut-offs live on [[ambulatory-reflux-monitoring]] (Lyon Consensus 2.0) — their single home in this wiki.
 
----
-
-## Ambulatory pH Monitoring
-
-### Principle
-
-Measures esophageal acid exposure as percentage of time intraluminal pH is <4 (acid exposure time, AET).
-
-### Methods
-
-| Method | Details |
-|---|---|
-| Catheter-based pH study | 24-hour; transnasal placement; patient diary correlates symptoms with pH events |
-| Wireless pH capsule (Bravo) | 48-hour (or 96-hour extended protocol); clipped to esophageal mucosa; no catheter; better patient tolerance; allows off-PPI testing for longer duration |
-
-### Key Threshold
-
-- Normal AET: <4–6% (protocol-specific; Lyon Consensus suggests <4% clearly normal, >6% clearly abnormal, 4–6% borderline)
-- Pathologic acid reflux confirmed when AET exceeds the normal threshold
-
-### Clinical Indication
-
-- Objective confirmation of [[gerd|GERD]] before TIF 2.0, cTIF, or surgical fundoplication
-- Evaluation of PPI-refractory symptoms (study should be done off PPI, typically after 7-day washout, unless testing for incomplete acid suppression)
-- Distinguishing true GERD from functional heartburn (symptom-reflux correlation absent despite normal AET)
-
-### Refractory GERD Definition (ASGE 2024)
-
-Persistent troublesome GERD symptoms despite double-dose PPI for ≥8 weeks in the setting of ongoing documented pathologic reflux on ambulatory pH testing.
+## Contents
+- [[#Why Test]]
+- [[#Test Selection: Which Test, When]]
+  - [[#Key Concepts (ACG 2021, ungraded)]]
+  - [[#Off vs On Antisecretory Therapy]]
+  - [[#Symptom-Category Routing (ACG 2020)]]
+- [[#Reflux Monitoring Modalities]]
+- [[#Endoscopic Evaluation of the GEJ]]
+  - [[#Erosive Esophagitis: Los Angeles (LA) Grade]]
+  - [[#Gastroesophageal Flap Valve: Hill Grade]]
+  - [[#Mucosal Cleanliness]]
+- [[#High-Resolution Manometry]]
+- [[#Rumination and Supragastric Belching]]
+- [[#CYP2C19 Genotyping]]
+- [[#Diagnostic Algorithm]]
 
 ---
 
-## Combined pH-Impedance Monitoring (MII-pH)
+## Why Test
 
-### Principle
+- Symptoms and PPI response are **not** diagnostic: empiric [[proton-pump-inhibitors|PPI]] trial 78% sensitive / 54% specific for GERD (80% sensitive for noncardiac chest pain); GERDQ ≥9 66% sensitive / 64% specific ([[acg-2020-esophageal-physiologic-testing]]).
+- [[upper-endoscopy|Endoscopy]] has high specificity but low sensitivity — 20–30% of partial PPI responders have mucosal breaks ([[acg-2020-esophageal-physiologic-testing]]).
+- **Objective confirmation of GERD is required before any endoscopic or surgical antireflux therapy** ([[acg-2021-gerd]], [[asge-2024-gerd]]).
+- EGD precedes physiologic testing, and **no test is ordered without a clear clinical hypothesis** about what it will add ([[acg-2020-esophageal-physiologic-testing]]).
 
-Multi-channel intraluminal impedance (MII) detects fluid movement in the esophagus regardless of pH. Combined with pH electrode, it characterizes:
+---
 
-- Acid reflux (pH <4)
-- Weakly acidic reflux (pH 4–7)
-- Non-acid (alkaline) reflux (pH >7)
+## Test Selection: Which Test, When
 
-### Clinical Advantage
+GRADE-rated recommendations, [[acg-2021-gerd]]:
 
-- Detects non-acid and weakly acidic reflux episodes missed by pH alone
-- Particularly useful in:
-  - Regurgitation-predominant GERD on adequate PPI therapy (may have weakly acidic reflux)
-  - Evaluation for laryngopharyngeal reflux (see [[laryngopharyngeal-symptoms]])
-  - Patients on PPIs (study on-therapy captures breakthrough reflux)
+| Clinical situation | What to do | Strength / Quality |
+|---|---|---|
+| Classic heartburn/regurgitation, no alarm features | **8-week empiric [[proton-pump-inhibitors\|PPI]]**, once daily before a meal — a treatment trial, not a diagnostic test | Strong / Moderate |
+| Symptoms respond to the 8-week trial | Attempt PPI **discontinuation** | Conditional / Low |
+| Inadequate response to 8 weeks, or symptoms return when PPI stopped | Diagnostic [[upper-endoscopy\|EGD]], ideally **after PPIs stopped 2–4 weeks** | Strong / Low |
+| [[dysphagia\|Dysphagia]] or other alarm features (weight loss, GI bleeding); multiple [[barretts-esophagus\|Barrett's]] risk factors | **EGD first** | Strong / Low |
+| Chest pain without heartburn, cardiac disease excluded | Objective testing — EGD and/or reflux monitoring | Conditional / Low |
+| GERD suspected but unclear, and EGD shows no objective evidence | [[ambulatory-reflux-monitoring\|Reflux monitoring]] **off** therapy | Strong / Low |
+| Known **LA grade C or D** esophagitis, or **long-segment Barrett's** | **Do not** perform off-therapy reflux monitoring solely to diagnose GERD — already established | Strong / Low |
+| Any | **Barium swallow is not** a diagnostic test for GERD | Conditional / Low |
+| Any | **HRM is not** a diagnostic test for GERD (key concept) | — |
+| Refractory symptoms, GERD never objectively established | pH monitoring **off** PPI — wireless capsule, catheter pH, or catheter pH-impedance | Conditional / Low |
+| Established GERD, inadequate response to **twice-daily** PPI | **pH-impedance on** PPI | Conditional / Low |
 
-### Symptom-Reflux Correlation Indices
+### Key Concepts (ACG 2021, ungraded)
 
-- Symptom Index (SI): percentage of symptoms associated with reflux episodes (>50% positive)
-- Symptom Association Probability (SAP): statistical probability of symptom-reflux association (>95% positive)
+- Refractory GERD with **normal EGD and normal reflux monitoring** → add esophageal manometry; also indicated before surgical or endoscopic treatment.
+- **Negative test → stop the drug.** Normal off-PPI pH study, or normal on-PPI pH-impedance including negative SI and SAP → discontinue PPIs unless another indication exists (42% of patients kept taking PPIs after a negative refractory-GERD evaluation).
+- **Extraesophageal symptoms** not responding to twice-daily PPI → EGD, ideally off PPI 2–4 weeks; if normal, consider reflux monitoring. Erosive esophagitis on EGD does **not** prove the extraesophageal symptoms are reflux-driven — pH-impedance may still be needed. Oropharyngeal/pharyngeal pH monitoring is **not** routinely recommended (see [[extraesophageal-reflux]]).
+- Refractory-GERD definition and the management ladder live on [[gerd]].
+
+### Off vs On Antisecretory Therapy
+
+| | **Off therapy** | **On therapy** |
+|---|---|---|
+| Who | Unproven GERD, unclear diagnosis, or before antireflux surgery / endoscopic therapy | Proven GERD (erosive esophagitis, Barrett's, or prior positive off-PPI study) with symptoms not responding to PPI |
+| PPI handling | **Stop PPI 7 days** before the study | **Continue PPI twice daily** through the study |
+| Modality | Wireless capsule (48–96 h), catheter pH, or catheter pH-impedance | Catheter **pH-impedance** — impedance is required |
+| Why | Documents abnormal acid reflux where it has never been shown | pH alone has very low yield — **<10%** of patients on twice-daily PPI have persistently abnormal acid reflux; impedance captures weakly acidic/nonacid reflux and symptom association |
+
+Both columns per [[acg-2021-gerd]]; Lyon 2.0's parallel off/on framework and its thresholds are on [[ambulatory-reflux-monitoring]].
+
+### Symptom-Category Routing (ACG 2020)
+
+[[acg-2020-esophageal-physiologic-testing]] organises test selection by dominant symptom category:
+
+| Symptom category | Primary tests | Notes |
+|---|---|---|
+| **Obstructive** ([[dysphagia\|dysphagia]], regurgitation) | [[high-resolution-manometry\|HRM]] ± provocative maneuvers (MRS, RDC, solid test meal); barium esophagram with tablet; [[flip-panometry\|FLIP]] if HRM borderline or catheter placement fails | HRM over conventional line-tracing manometry (Strong / Moderate); provocative maneuvers, barium tablet, and FLIP all Conditional |
+| **Typical reflux** (heartburn, regurgitation, chest pain) | Ambulatory monitoring **off** PPI (unproven GERD); pH-impedance **on** PPI (proven GERD with persisting symptoms) | Monitoring preferred over questionnaires, PPI-trial response, or endoscopy alone for a conclusive diagnosis |
+| **Extraesophageal/atypical** (cough, hoarseness, globus, belching, rumination) | pH-impedance **off** acid suppression (Strong / Low); upfront over an empiric PPI trial when there are no concurrent typical symptoms (Conditional / Very low) | Laryngoscopy is 86% sensitive but only **9% specific** vs reflux monitoring — unusable as the primary diagnostic test |
+
+- Upfront ambulatory testing beats empiric twice-daily PPI on cost in suspected [[extraesophageal-reflux|extraesophageal reflux]]: **$1,897 vs $3,033** per patient.
+
+---
+
+## Reflux Monitoring Modalities
+
+| Modality | What it measures | Duration | Order it when |
+|---|---|---|---|
+| Catheter pH (transnasal) | AET (% time pH <4); symptom diary correlation | 24 h | pH-impedance unavailable — pH alone misses weakly acidic/nonacid reflux, bolus clearance, and proximal extent |
+| Wireless pH capsule | AET across consecutive days, capturing day-to-day variability | 48 h, extendable to 96 h | Off-therapy testing; infrequent or day-to-day variable symptoms; better tolerance (no catheter) |
+| Catheter pH-impedance | All reflux regardless of pH — acid (pH <4), weakly acidic (pH 4–7), nonacid (pH >7), liquid vs gas; MNBI; symptom association | 24 h | On-therapy testing (mandatory); belching/rumination suspected; extraesophageal evaluation |
+
+- **No capsule system exists for impedance** — impedance requires a transnasal catheter ([[acg-2021-gerd]]).
+- Modality preference (wireless 96 h preferred in unproven GERD) and every interpretive threshold: [[ambulatory-reflux-monitoring]].
+- *Corpus gap — DeMeester score.* [[acg-2021-gerd]] names total AET **and the composite DeMeester score** as the most consistently reliable variables on both wireless and catheter studies, but no ingested source states the score's components or its abnormal cut-off. Needs the original DeMeester/Johnson reference before it can be reproduced here — do not fill from memory.
 
 ---
 
 ## Endoscopic Evaluation of the GEJ
 
-Endoscopy is the primary tool for characterizing the anti-reflux barrier and GEJ integrity. High-quality documentation is required before any procedural anti-reflux therapy (ASGE 2024 strong recommendation).
+Careful endoscopic evaluation, reporting, and **photo-documentation** of the following is a **strong** recommendation (very low quality evidence, [[asge-2024-gerd]]):
 
-### Required Elements
-
-| Element | Classification System |
-|---|---|
-| Erosive esophagitis | Los Angeles (LA) classification: Grade A (small breaks <5 mm), B (≥5 mm, not confluent), C (confluent, <75% circumference), D (≥75% circumference) |
-| [[barretts-esophagus\|Barrett's esophagus]] | Prague C&M classification: C = circumferential extent (cm), M = maximal extent (cm) |
-| Hiatal hernia size | Axial length in cm; measured as distance from GEJ to diaphragmatic impression |
-| Flap valve morphology | Hill grade (I–IV) or American Foregut Society (AFS) classification; assessed in forward view and retroflexion |
-| GEJ landmarks | Top of gastric folds, Z-line, diaphragmatic impression |
-
-### Hill Grade of Gastroesophageal Flap Valve
-
-| Grade | Description | Significance |
+| Element | Reporting system | Criteria live |
 |---|---|---|
-| I | Prominent fold, tight collar | Competent valve |
-| II | Fold present, less prominent; occasional opening with respiration | Mildly compromised |
+| Erosive esophagitis | Los Angeles (LA) grade A–D | Below |
+| [[barretts-esophagus\|Barrett's esophagus]] | Prague C&M | [[barretts-esophagus]] |
+| Peptic stricture | Present / absent | — |
+| Hiatal hernia | Axial length in cm (GEJ to diaphragmatic impression) | — |
+| Flap valve morphology | Hill grade I–IV or American Foregut Society (AFS) grade, in **forward view and retroflexion** | Below (Hill); AFS not in corpus |
+| GEJ landmarks | Top of gastric folds, Z-line, diaphragmatic impression | — |
+| Prior fundoplication | Describe if present | — |
+
+- **Hiatal hernia size + Hill grade is the procedural decision point** (≤2 cm with Hill I/II vs >2 cm with Hill III/IV) — the TIF / cTIF / surgery table and the TIF eligibility criteria live on [[antireflux-surgery]].
+- HRM detects hiatal hernia with higher sensitivity than endoscopy (see below).
+
+### Erosive Esophagitis: Los Angeles (LA) Grade
+
+| Grade | Mucosal break |
+|---|---|
+| A | Small breaks <5 mm |
+| B | ≥5 mm, not confluent between fold tops |
+| C | Confluent, <75% of circumference |
+| D | ≥75% of circumference |
+
+> **Source gap (flagged, not fixed).** [[acg-2021-gerd]], [[asge-2024-gerd]], [[acg-2020-esophageal-physiologic-testing]] and Lyon 2.0 all *use* LA grades without ever defining them (verified by full-text search). The criteria above predate this lint pass and are **not traceable to an ingested source** — ingest the original Lundell 1999 LA-classification paper to verify. Grade-specific significance (LA A borderline, LA B conclusive per Lyon 2.0) is on [[ambulatory-reflux-monitoring]].
+
+### Gastroesophageal Flap Valve: Hill Grade
+
+| Grade | Endoscopic appearance (retroflexed) | Significance |
+|---|---|---|
+| I | Prominent fold, tight collar around the endoscope | Competent valve |
+| II | Fold present, less prominent; opens occasionally with respiration | Mildly compromised |
 | III | No fold; gastric mucosa visible above the diaphragm | Moderately compromised |
-| IV | No fold; hiatal hernia always open; squamous epithelium visible in hernia | Severely compromised |
+| IV | No fold; hiatal hernia always open; squamous epithelium visible in the hernia | Severely compromised |
 
-**Therapeutic implication (ASGE 2024):**
+> **Source gap (flagged, not fixed).** [[asge-2024-gerd]] grades hernias by Hill classification but cites Hill & Kozarek (1996) rather than reproducing it; no ingested source defines grades I–IV, and none defines the AFS classification at all. Verify against the original references before relying on the wording above.
 
-- Hill I or II + hernia ≤2 cm: candidate for TIF 2.0
-- Hill III or IV + hernia >2 cm: requires cTIF or surgical repair
+**Figure gap:** flap-valve grading is a *look-at-it* classification, so this page should carry the retroflexed endoscopic images of Hill I–IV per the Style Guide. No ingested source contains them, and figure extraction (PyMuPDF) is unavailable in this environment — reported, not invented.
 
 ### Mucosal Cleanliness
 
-- Barcelona scale or Toronto Upper GI Cleaning Score should be used to ensure adequate visualization before documentation of GEJ landmarks and detection of precancerous lesions
+- Grade with the **Barcelona scale** or the **Toronto Upper GI Cleaning Score** before documenting GEJ landmarks and before calling a segment free of precancerous lesions — a high-quality inspection is a precondition for every classification above ([[asge-2024-gerd]]).
 
 ---
 
-## High-Resolution Manometry (HRM)
+## High-Resolution Manometry
 
-### Role in GERD
+- **Not a diagnostic test for GERD** ([[acg-2021-gerd]] key concept) — it is a gatekeeper, not a confirmer.
+- **Before antireflux surgery or endoscopic therapy:** [[high-resolution-manometry|HRM]] to exclude [[achalasia]] and absent contractility; in ineffective esophageal motility, include provocative testing (multiple rapid swallows) for contractile reserve ([[acg-2021-gerd]]). Achalasia is found in ~3% of patients referred for planned fundoplication ([[acg-2020-esophageal-physiologic-testing]]). Full pre-operative motor-disorder framework: [[hrm-antireflux-surgery]].
+- **Hiatal hernia detection:** 94.3% sensitivity, 91.5% specificity — superior to endoscopy and barium ([[acg-2020-esophageal-physiologic-testing]]).
+- [[flip-panometry|FLIP]] complements HRM when findings are borderline or catheter placement fails (Conditional / Low); it does not replace HRM.
 
-[[high-resolution-manometry|HRM]] is not a primary diagnostic test for GERD but is performed in specific contexts:
+---
 
-1. Pre-operative evaluation before [[antireflux-surgery|anti-reflux surgery]] or TIF to exclude major motility disorder ([[achalasia]], absent contractility)
-2. Assessment of GEJ morphology and LES function (integrated relaxation pressure, LES resting pressure)
-3. Characterization of contractile reserve
+## Rumination and Supragastric Belching
 
-See [[hrm-antireflux-surgery]] and [[flip-panometry]] for detailed HRM protocols in the context of anti-reflux surgery evaluation.
+Both are captured by reflux testing and both mimic refractory GERD.
+
+- **[[rumination-syndrome|Rumination syndrome]]:** postprandial high-resolution impedance manometry (HRIM) is the diagnostic standard ([[acg-2020-esophageal-physiologic-testing]]). Manometric criteria, test performance, and the postprandial protocol live on [[rumination-syndrome]].
+- **Supragastric belching:** confirmed on pH-impedance — sensitivity 93.4%, specificity 75%, PPV 96.8%; supragastric belches were identified in **48%** of 50 consecutive patients referred for reflux evaluation. Episodes occur almost exclusively upright (**37.8 ± 6.1/h upright vs 0.9 ± 0.5/h supine**) and are suppressed during sleep ([[acg-2020-esophageal-physiologic-testing]]). Both belong on the differential for PPI-refractory symptoms alongside the [[disorders-of-gut-brain-interaction|functional esophageal disorders]].
 
 ---
 
 ## CYP2C19 Genotyping
 
-### Relevance to Reflux Testing
+Not a GERD diagnostic test — it explains a poor PPI response.
 
-Not a diagnostic test for GERD per se, but guides PPI selection and dosing in patients with suboptimal response.
-
-- Metabolizer phenotypes: poor, intermediate, normal (wild-type), rapid, ultrarapid
-- Rapid metabolizers: OR 1.6 for PPI refractoriness; GERD resolution rates 52.2% vs 61.3% (poor metabolizers)
-- ASGE 2024 conditional recommendation: test CYP2C19 in patients with suboptimal PPI response and adjust PPI choice/dose accordingly
-- Not yet widely implemented; clinical utility remains evolving
+- **Test CYP2C19 polymorphism in patients with suboptimal clinical response to PPI therapy and adjust PPI dose and selection accordingly** — Conditional, very low quality ([[asge-2024-gerd]]).
+- Metabolizer phenotypes: poor, intermediate, normal (wild-type), rapid, ultrarapid.
+- Rapid metabolizers vs poor metabolizers: **OR 1.6** for being refractory to PPI therapy; GERD resolution **52.2% (315/604) vs 61.3% (138/225)**.
+- Which agent/dose to switch to is on [[proton-pump-inhibitors]] (and [[potassium-competitive-acid-blockers]] for CYP2C19-independent alternatives).
 
 ---
 
-## Diagnostic Algorithm for Objective GERD Confirmation
+## Diagnostic Algorithm
 
-```
-Suspected GERD
-    |
-    v
-Empiric PPI trial (4-8 weeks)
-    |
-    +---> Symptom resolution: clinical GERD, continue management
-    |
-    +---> Partial/no response OR planning procedural therapy
-              |
-              v
-         Upper endoscopy (if not done)
-         - Document LA grade, hiatal hernia size, Hill grade, GEJ landmarks
-         - Rule out alarm pathology, Barrett's, stricture
-              |
-              v
-         Ambulatory pH monitoring (off PPI x 7 days)
-         - Confirms/refutes pathologic acid reflux
-         - AET >4-6%: confirmed GERD
-         - AET normal: consider pH-impedance on-PPI, functional heartburn, other diagnosis
-              |
-              v
-         If procedural therapy planned:
-         - HRM to exclude motility disorder
-         - GEJ integrity by endoscopy (Hill grade, hernia size)
-         - Multidisciplinary review if cTIF or surgery considered
+```mermaid
+flowchart TD
+    A["Typical GERD symptoms<br/>no alarm features"] --> B["8-week empiric PPI<br/>once daily before a meal"]
+    B -->|"Symptoms resolve"| C["Attempt PPI discontinuation<br/>no further testing"]
+    B -->|"Inadequate response, or relapse off PPI"| D["EGD, ideally off PPI 2-4 weeks<br/>LA grade, hernia size in cm, Hill grade, GEJ landmarks"]
+    A2["Dysphagia or alarm features<br/>or multiple Barrett's risk factors"] --> D
+    D -->|"LA grade C/D or long-segment Barrett's"| E["GERD already established<br/>do NOT test off therapy"]
+    D -->|"No objective GERD evidence"| F["Ambulatory monitoring OFF therapy<br/>stop PPI 7 days"]
+    D -->|"Proven GERD, symptoms persist on twice-daily PPI"| G["pH-impedance ON therapy<br/>PPI continued twice daily"]
+    F --> H["Interpret with Lyon 2.0 thresholds<br/>see ambulatory-reflux-monitoring"]
+    G --> H
+    H -->|"Normal study, negative SI and SAP"| I["Stop PPI; consider functional heartburn,<br/>rumination, supragastric belching"]
+    H -->|"Objective GERD confirmed"| J["Procedural therapy considered:<br/>HRM to exclude achalasia and absent contractility<br/>hernia size plus Hill grade select TIF, cTIF, or surgery"]
 ```
 
 ---
-
-## Symptom-Category Routing (ACG 2020)
-
-The ACG 2020 guideline [[acg-2020-esophageal-physiologic-testing]] organizes test selection by dominant symptom category. EGD is the mandatory first step for all categories to exclude structural/mucosal pathology before ordering physiologic tests.
-
-| Symptom Category | Primary Tests | Notes |
-|---|---|---|
-| **Obstructive** ([[dysphagia]], regurgitation) | HRM ± provocative maneuvers; barium esophagram with tablet; FLIP if HRM borderline or catheter placement fails | Strong: HRM over conventional manometry (Moderate quality) |
-| **Typical reflux** (heartburn, regurgitation, chest pain) | Ambulatory monitoring off PPI (unproven GERD); pH impedance on PPI (proven GERD with persisting symptoms) | Empiric PPI: 78% sensitive, 54% specific — insufficient for conclusive diagnosis |
-| **Extraesophageal/atypical** (cough, hoarseness, globus, belching, rumination) | pH impedance off acid suppression (Strong/Low); upfront over empiric PPI for isolated extraesophageal symptoms (Conditional/Very low) | Laryngoscopy: 86% sensitive, only 9% specific for reflux — unreliable as primary diagnostic test |
-
-### Key Principles (ACG 2020)
-
-- No test should be ordered without a clear clinical hypothesis about what it will provide
-- GERD questionnaires alone are insufficient for conclusive GERD diagnosis (GERDQ ≥9: 66% sensitivity, 64% specificity)
-- AET >4% off PPI is the cardinal predictor of [[antireflux-surgery|antireflux surgery]] outcomes; RSA and MNBI provide adjunctive value
-- Upfront ambulatory testing (vs. empiric BID PPI) is cost-effective: $1,897 vs. $3,033 for patients with suspected [[extraesophageal-reflux|extraesophageal reflux]]
-
----
-
-## Rumination Syndrome and Supragastric Belching Testing
-
-These diagnoses require [[ambulatory-reflux-monitoring]] with specific protocols:
-
-- **[[rumination-syndrome|Rumination syndrome]]**: HRIM (high-resolution impedance manometry) with postprandial monitoring protocol; sensitivity/specificity 75–80%/100% (HRIM). Manometric criteria: intragastric pressure rise >30 mmHg + proximal gastric content movement + esophageal pressurization coinciding with recognized rumination episode. See [[disorders-of-gut-brain-interaction]] for Rome IV/V criteria.
-- **Supragastric belching**: pH impedance monitoring confirms; sensitivity 93.4%, specificity 75%, PPV 96.8%; supragastric belches identified in 48% of reflux referral patients; occur almost exclusively upright (37.8 ± 6.1 episodes/hr upright vs. 0.9 ± 0.5 supine)
-
----
-
-## Summary Table: Reflux Testing Modalities
-
-| Test | Primary Use | Key Output | When to Order |
-|---|---|---|---|
-| 24h catheter pH | Confirm pathologic acid reflux | AET (% time pH <4) | Pre-procedural; off-PPI |
-| 48h–96h Bravo pH | Same as above; better tolerance; day-to-day variability | AET; symptom correlation | Pre-procedural; off-PPI; infrequent/variable symptoms |
-| MII-pH off PPI | Non-acid/weakly acidic reflux; belching/rumination | All reflux events + pH; SI, SAP; MNBI | Unproven GERD with supragastric belching, rumination, or pulmonary symptoms |
-| MII-pH on PPI | Ongoing reflux burden on therapy | On-therapy AET; weakly acidic episodes; MNBI | Proven GERD + persisting symptoms on optimized PPI |
-| [[upper-endoscopy\|Upper endoscopy]] | Structural assessment, complications | LA grade, Hill grade, hernia size, Barrett's | All planned procedural therapy; alarm symptoms |
-| HRM | Exclude motility disorder; pre-ARS evaluation; hiatal hernia identification | LES pressure, peristalsis, IRP | Pre-TIF, pre-surgical evaluation; HRM 94.3% sensitive for hiatal hernia |
-| Barium esophagram | Bolus transit; [[achalasia]] outcome monitoring | Barium height at 1 and 5 min; tablet passage | Obstructive symptoms; achalasia follow-up |
-| FLIP | Borderline HRM; catheter placement failure; intraprocedural achalasia treatment | EGJ distensibility, CSA | Borderline HRM findings; as adjunct — not HRM replacement |
-| CYP2C19 genotype | PPI pharmacogenomics | Metabolizer phenotype | Suboptimal PPI response |
 
 ## See Also
 
-[[gerd]], [[ambulatory-reflux-monitoring]], [[extraesophageal-reflux]], [[high-resolution-manometry]], [[hrm-antireflux-surgery]], [[flip-panometry]], [[barretts-esophagus]], [[laryngopharyngeal-symptoms]], [[antireflux-surgery]], [[achalasia]], [[upper-endoscopy]], [[dysphagia]], [[rumination-syndrome]], [[disorders-of-gut-brain-interaction]]
+[[gerd]], [[ambulatory-reflux-monitoring]], [[extraesophageal-reflux]], [[high-resolution-manometry]], [[hrm-antireflux-surgery]], [[flip-panometry]], [[chicago-classification-v4]], [[barretts-esophagus]], [[laryngopharyngeal-symptoms]], [[antireflux-surgery]], [[achalasia]], [[upper-endoscopy]], [[dysphagia]], [[rumination-syndrome]], [[disorders-of-gut-brain-interaction]], [[proton-pump-inhibitors]], [[potassium-competitive-acid-blockers]]
 
 ---
 
 ## Sources
 
-1. [[asge-2024-gerd|ASGE 2024: Diagnosis and Management of GERD]]
-2. [[acg-2020-esophageal-physiologic-testing|ACG 2020: Clinical Use of Esophageal Physiologic Testing]]
+1. [[acg-2021-gerd|ACG 2021 Clinical Guideline: Diagnosis and Management of GERD]]
+2. [[asge-2024-gerd|ASGE 2024: Diagnosis and Management of GERD]]
+3. [[acg-2020-esophageal-physiologic-testing|ACG 2020: Clinical Use of Esophageal Physiologic Testing]]

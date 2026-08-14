@@ -49,7 +49,7 @@ Sedation is a drug-induced depression of consciousness on a continuum; patients 
 ### NPO / Aspiration Risk
 - Fasting limits aspiration with blunted airway reflexes; no universally accepted standard, no direct fasting-duration ↔ aspiration data.
 - ASA defaults: **≥2 h after clear liquids, ≥6 h after a light meal**.
-- Impaired gastric emptying or emergency → weigh aspiration risk when choosing target depth, delaying the procedure, or protecting the airway (intubation); use a team approach.
+- [[gastroparesis|Impaired gastric emptying]] or emergency → weigh aspiration risk when choosing target depth, delaying the procedure, or protecting the airway (intubation); use a team approach.
 
 ### GLP-1 Receptor Agonists Before Endoscopy
 [[semaglutide|GLP-1 receptor agonists]] (semaglutide, tirzepatide, liraglutide, dulaglutide, exenatide) slow gastric emptying → concern for **retained gastric contents and aspiration**, especially at [[upper-endoscopy|EGD]]. GLP-1 RAs retain **solids more than liquids** (liquid emptying T½ ≈ 23 min; abnormal solid emptying = >60% retention at 2 h, >10% at 4 h on scintigraphy).
@@ -57,7 +57,7 @@ Sedation is a drug-induced depression of consciousness on a continuum; patients 
 | Society | Guidance |
 |---|---|
 | **ASA** (consensus, expert opinion) | **Daily-dosed** → hold **day of** procedure. **Weekly-dosed** → hold **1 week prior**. Irrespective of indication/dose/procedure. If not held but no GI symptoms → **"full stomach" precautions**. |
-| **AGA** (2024 Rapid CPU) | **Individualized approach**, not routine cessation. Standard fast (**8 h solids, 2 h liquids**) **+ no symptoms** (nausea, vomiting, dyspepsia, distention) → **proceed** with upper and/or lower endoscopy. |
+| **AGA** (2024 Rapid CPU) | **Individualized approach**, not routine cessation. Standard fast (**8 h solids, 2 h liquids**) **+ no symptoms** (nausea, vomiting, [[dyspepsia]], distention) → **proceed** with upper and/or lower endoscopy. |
 
 - Weigh the **indication** — stopping in a patient relying on a GLP-1 RA for **diabetes** may pose more risk than benefit; withholding one dose is reasonable for **weight-loss-only** use but is not mandatory/evidence-based, and may not reliably restore motility.
 - **Symptoms** suggesting retained contents → transabdominal gastric ultrasound if expertise/equipment available (unproven in routine practice); if delay is harmful → consider rapid-sequence intubation (often infeasible in ambulatory settings).

@@ -3,7 +3,7 @@ title: "Hereditary Diffuse Gastric Cancer"
 category: disease-script
 tags: [hdgc, cdh1, e-cadherin, diffuse-gastric-cancer, signet-ring-cell, lobular-breast-cancer, hereditary-cancer, prophylactic-gastrectomy, genetic-testing]
 created: 2026-05-19
-updated: 2026-08-10
+updated: 2026-08-14
 sources: [acg-2015-hereditary-gi-cancer]
 ---
 
@@ -39,7 +39,7 @@ Cancer risk profile [[acg-2015-hereditary-gi-cancer]]:
 
 - **Gastric cancer**: 67% lifetime risk in males; 83% in females; mean age of diagnosis 38–40 years (range 14–85 years)
 - **Lobular breast cancer**: 39% cumulative lifetime risk in female CDH1 carriers
-- Signet-ring cell colon cancer: also at increased risk (exact risk unknown)
+- Signet-ring cell [[colorectal-cancer|colon cancer]]: also at increased risk (exact risk unknown)
 
 ---
 
@@ -100,7 +100,7 @@ Key data:
 
 ## See Also
 
-[[gastric-premalignant-conditions]], [[gastric-intestinal-metaplasia]], [[gastric-adenocarcinoma]], [[helicobacter-pylori-infection]], [[lynch-syndrome]], [[familial-adenomatous-polyposis]], [[peutz-jeghers-syndrome]], [[brca-pathogenic-variants]], [[upper-endoscopy]], [[colonoscopy]]
+[[gastric-premalignant-conditions]], [[gastric-intestinal-metaplasia]], [[gastric-adenocarcinoma]], [[helicobacter-pylori-infection]], [[lynch-syndrome]], [[familial-adenomatous-polyposis]], [[peutz-jeghers-syndrome]], [[brca-pathogenic-variants]], [[colorectal-cancer]], [[upper-endoscopy]], [[colonoscopy]]
 
 ---
 

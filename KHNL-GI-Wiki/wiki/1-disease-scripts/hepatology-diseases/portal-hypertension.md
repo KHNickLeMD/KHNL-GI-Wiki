@@ -3,7 +3,7 @@ title: "Portal Hypertension"
 category: disease-script
 tags: [portal-hypertension, cirrhosis, CSPH, HVPG, cACLD, varices, NSBB, carvedilol, TIPS, liver-stiffness, decompensation, variceal-bleeding, ascites]
 created: 2026-05-28
-updated: 2026-08-10
+updated: 2026-08-14
 sources: [aasld-2023-portal-hypertension, baveno-vii-2022-portal-hypertension, acg-2025-perioperative-cirrhosis, aasld-2024-tips, aasld-2022-palliative-cirrhosis, wang-2026-eus-ppg-delphi-consensus]
 ---
 
@@ -53,7 +53,7 @@ Portal hypertension (PH) is defined as a portocaval pressure gradient (portal ve
 
 HVPG requires transjugular or transfemoral approach; preferred at experienced centers. Balloon occlusion of hepatic vein (WHVP minus FHVP = HVPG). Triplicate measurements; quiet environment; avoid deep sedation. Full technique and interpretation: [[hepatic-venous-pressure-gradient]].
 
-**EUS-PPG (emerging alternative).** [[interventional-eus-vascular|EUS-guided portosystemic pressure gradient]] directly and sequentially measures **hepatic vein and portal vein pressures** by needle puncture (gradient = mean portal − mean hepatic vein pressure), rather than using wedged pressure as an indirect proxy. Because it measures portal pressure directly, expert consensus favors it **over [[hepatic-venous-pressure-gradient|HVPG]] when a presinusoidal or noncirrhotic cause of PH is suspected** (where wedged pressure underestimates severity) and in MASH; its indications include all HVPG indications, and it enables a same-session "one-stop-shop" with variceal-screening EGD and EUS liver biopsy ([[wang-2026-eus-ppg-delphi-consensus]]). Technique lives on [[interventional-eus-vascular]].
+**EUS-PPG (emerging alternative).** [[interventional-eus-vascular|EUS-guided portosystemic pressure gradient]] directly and sequentially measures **hepatic vein and portal vein pressures** by needle puncture (gradient = mean portal − mean hepatic vein pressure), rather than using wedged pressure as an indirect proxy. Because it measures portal pressure directly, expert consensus favors it **over [[hepatic-venous-pressure-gradient|HVPG]] when a presinusoidal or noncirrhotic cause of PH is suspected** (where wedged pressure underestimates severity) and in MASH; its indications include all HVPG indications, and it enables a same-session "one-stop-shop" with variceal-screening EGD and EUS [[liver-biopsy|liver biopsy]] ([[wang-2026-eus-ppg-delphi-consensus]]). Technique lives on [[interventional-eus-vascular]].
 
 ![[portal-hypertension-2023-noninvasive-staging-algorithm-09.png|700x378]]
 *Figure 3 — Noninvasive tests for staging and management of compensated advanced chronic liver disease (cACLD): LSM ranges, CSPH probability, endoscopy indications, LSM monitoring, and alternatives to TE. ([[aasld-2023-portal-hypertension]])*
@@ -111,6 +111,8 @@ Because CSPH may persist despite recompensation, **NSBBs should not be discontin
 ---
 
 ## Differential Diagnosis
+
+*Workup: see [[ascites]] for the ascites/portal-hypertension arm and [[abnormal-liver-chemistries]] for the aetiologic liver-test evaluation.*
 
 - [[porto-sinusoidal-vascular-disorder|Porto-sinusoidal vascular disorder (PSVD)]] — the umbrella term for noncirrhotic intrahepatic PH (idiopathic portal hypertension, nodular regenerative hyperplasia, obliterative portal venopathy); biopsy required; HVPG may underestimate PH, and signs of PH with HVPG <10 mmHg or LSM <10 kPa should prompt this diagnosis (Baveno VII statement 1.13)
 - [[portal-vein-thrombosis]] — presinusoidal; HVPG normal; Doppler ultrasound diagnostic
@@ -226,7 +228,7 @@ flowchart TD
 **Immediate (before endoscopy):**
 
 1. **Vasoactive therapy** immediately: [[somatostatin-analogs|octreotide]] (50 mcg IV bolus → 25–50 mcg/hr × 2–5 days), somatostatin (250 mcg bolus → 250–500 mcg/hr), or terlipressin if available (GS 25–26)
-2. **IV antibiotics** immediately: ceftriaxone 1 g IV q24h × 5 days (preferred in Child-Pugh C or high-resistance); de-escalate when bleeding controlled and no active infection (GS 27)
+2. **IV [[antibiotic-prophylaxis-cirrhosis|antibiotics]]** immediately: ceftriaxone 1 g IV q24h × 5 days (preferred in Child-Pugh C or high-resistance); de-escalate when bleeding controlled and no active infection (GS 27)
 3. **Restrictive transfusion:** target Hgb ~7 g/dL; avoid overtransfusion (worsens portal pressure) (GS 28)
 4. **No FFP or platelets** based on INR/platelet count targets — no evidence of benefit; FFP may cause harm (GS 29)
 5. **Airway assessment:** endotracheal intubation before endoscopy if altered mental status or aspiration risk
@@ -244,15 +246,15 @@ Indicated for: CTP class B score >7 with active bleeding at endoscopy, OR CTP cl
 Baveno VII (6.27–6.31) states the criteria slightly differently and adds two points [[baveno-vii-2022-portal-hypertension]]:
 
 - Criteria: **CTP class C <14 points, or CTP class B >7 with active bleeding at initial endoscopy, or HVPG >20 mmHg at the time of haemorrhage** (A.1) — the HVPG limb is not in the AASLD statement
-- **ACLF, hepatic encephalopathy at admission, and hyperbilirubinaemia are NOT contraindications** to pre-emptive TIPS (B.1, 6.28)
-- **TIPS futility:** may be futile at Child-Pugh ≥14, or MELD >30 with lactate >12 mmol/L, unless short-term transplant is planned — case-by-case (B.1/D.1, 6.31)
+- **[[acute-on-chronic-liver-failure|ACLF]], hepatic encephalopathy at admission, and hyperbilirubinaemia are NOT contraindications** to pre-emptive TIPS (B.1, 6.28)
+- **TIPS futility:** may be futile at Child-Pugh ≥14, or MELD >30 with lactate >12 mmol/L, unless short-term [[liver-transplantation|transplant]] is planned — case-by-case (B.1/D.1, 6.31)
 - Haemodynamic target: post-TIPS **PPG <12 mmHg** (near-complete protection from portal hypertensive bleeding); ≥50% relative reduction may also be useful (A.1/B.2, 1.23)
 
 **Post-hemostasis (patients who do NOT receive preemptive TIPS):**
 
 - Start NSBB at discontinuation of vasoactive therapy (GS 33)
-- Discontinue PPI once AVH confirmed as bleeding source (no other indications) (GS 37)
-- Start enteral feeding once AVH controlled; variceal bands do not contraindicate NG tube (GS 36)
+- Discontinue [[proton-pump-inhibitors|PPI]] once AVH confirmed as bleeding source (no other indications) (GS 37)
+- Start [[enteral-access|enteral feeding]] once AVH controlled; variceal bands do not contraindicate NG tube (GS 36)
 
 **Salvage/Rescue TIPS:**
 
@@ -297,7 +299,7 @@ Baveno VII (6.27–6.31) states the criteria slightly differently and adds two p
 - NSBB for primary prophylaxis of VH and decompensation prevention in HCC with CSPH
 - Occlusive PVT: EGD to screen for varices; NSBBs or EVL when detected
 
-**Pregnancy (GS 55–56):**
+**[[liver-disease-in-pregnancy|Pregnancy]] (GS 55–56):**
 
 - All patients with cirrhosis or noncirrhotic PH planning pregnancy: EGD within 1 year of conception
 - Unscreened pregnant patients: EGD early in second trimester
@@ -314,7 +316,7 @@ Baveno VII (6.27–6.31) states the criteria slightly differently and adds two p
 ## See Also
 
 
-[[cirrhosis]], [[variceal-upper-gi-bleeding]], [[ascites]], [[spontaneous-bacterial-peritonitis]], [[aki-in-cirrhosis]], [[hepatic-encephalopathy]], [[hepatocellular-carcinoma]], [[portal-vein-thrombosis]], [[budd-chiari-syndrome]], [[porto-sinusoidal-vascular-disorder]], [[noninvasive-liver-disease-assessment]], [[liver-stiffness-measurement]], [[hcc-surveillance]], [[liver-transplantation]], [[liver-disease-in-pregnancy]], [[hepatopulmonary-syndrome-portopulmonary-hypertension]], [[primary-sclerosing-cholangitis]], [[primary-biliary-cholangitis]], [[nafld-masld]], [[upper-endoscopy]], [[acute-on-chronic-liver-failure]], [[hepatic-venous-pressure-gradient]], [[interventional-eus-vascular]]
+[[cirrhosis]], [[variceal-upper-gi-bleeding]], [[ascites]], [[spontaneous-bacterial-peritonitis]], [[aki-in-cirrhosis]], [[hepatic-encephalopathy]], [[hepatocellular-carcinoma]], [[portal-vein-thrombosis]], [[budd-chiari-syndrome]], [[porto-sinusoidal-vascular-disorder]], [[noninvasive-liver-disease-assessment]], [[liver-stiffness-measurement]], [[hcc-surveillance]], [[liver-transplantation]], [[liver-disease-in-pregnancy]], [[hepatopulmonary-syndrome-portopulmonary-hypertension]], [[primary-sclerosing-cholangitis]], [[primary-biliary-cholangitis]], [[nafld-masld]], [[upper-endoscopy]], [[acute-on-chronic-liver-failure]], [[hepatic-venous-pressure-gradient]], [[interventional-eus-vascular]], [[abnormal-liver-chemistries]], [[liver-biopsy]], [[antibiotic-prophylaxis-cirrhosis]], [[proton-pump-inhibitors]], [[somatostatin-analogs]], [[enteral-access]], [[tips]]
 
 ---
 

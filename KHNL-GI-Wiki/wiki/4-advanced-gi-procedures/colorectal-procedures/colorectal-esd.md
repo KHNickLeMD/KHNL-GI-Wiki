@@ -3,7 +3,7 @@ title: "Endoscopic Submucosal Dissection (Colorectal)"
 category: advanced-procedure
 tags: [esd, hybrid-esd, endoscopic-resection, en-bloc, colorectal, t1-crc, malignant-polyp, submucosal-invasion, eftr]
 created: 2026-08-11
-updated: 2026-08-11
+updated: 2026-08-14
 sources: [usmstf-2020-endoscopic-removal, aga-2025-endoscopic-resection-crc]
 ---
 
@@ -16,6 +16,10 @@ Electrosurgical-knife dissection of colorectal lesions that cannot be taken en b
 - [[#Hybrid ESD]]
 - [[#Endoscopic Full-Thickness Resection (eFTR)]]
 - [[#Early (T1) CRC — Endoscopic Resection (AGA 2025 CPU)]]
+  - [[#En-Bloc Imperative and Modality Choice]]
+  - [[#Unified Curative-Resection Criteria (USMSTF / ESGE / JGES) — ALL five required]]
+  - [[#Deep SMI — Solitary Risk Reappraised]]
+  - [[#Surveillance After Endoscopic Resection of T1 CRC]]
 
 ---
 
@@ -26,7 +30,7 @@ Electrosurgical-knife dissection of colorectal lesions that cannot be taken en b
 - ≥20mm lesions with suspected superficial SMI (not deep) not amenable to en bloc [[endoscopic-mucosal-resection|EMR]]
 - Mucosal lesions with submucosal fibrosis
 - Local residual/recurrent early carcinoma after prior endoscopic resection
-- Colitis-associated dysplasia (non-polypoid)
+- [[inflammatory-bowel-disease|Colitis]]-associated dysplasia (non-polypoid)
 - **Rectal lesions:** more often feasible than elsewhere in the colon given the straight working channel
 
 ## Hybrid ESD
@@ -85,7 +89,7 @@ Electrosurgical-knife dissection of colorectal lesions that cannot be taken en b
 
 ## See Also
 
-[[endoscopic-submucosal-dissection]], [[endoscopic-mucosal-resection]], [[polypectomy]], [[endoscopic-full-thickness-resection]], [[colonoscopy]], [[colonoscopy-surveillance]], [[colorectal-cancer]], [[endoscopic-oncology]]
+[[endoscopic-submucosal-dissection]], [[endoscopic-mucosal-resection]], [[polypectomy]], [[endoscopic-full-thickness-resection]], [[colonoscopy]], [[colonoscopy-surveillance]], [[colorectal-cancer]], [[inflammatory-bowel-disease]], [[endoscopic-oncology]]
 
 ---
 

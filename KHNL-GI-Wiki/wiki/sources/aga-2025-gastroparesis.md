@@ -3,7 +3,7 @@ title: "AGA Clinical Practice Guideline: Management of Gastroparesis (2025)"
 category: source
 tags: [gastroparesis, prokinetics, metoclopramide, erythromycin, gastric-emptying, g-poem, guideline, aga]
 created: 2026-06-04
-updated: 2026-06-04
+updated: 2026-08-14
 sources: []
 ---
 
@@ -52,3 +52,9 @@ Reaffirms metoclopramide and erythromycin as the evidence-supported prokinetics 
 ## See Also
 
 [[gastroparesis]], [[prucalopride]], [[dyspepsia]], [[disorders-of-gut-brain-interaction]], [[poem]]
+
+## Relevance to Wiki
+
+Wiki pages built on or citing this source:
+
+- [[gastroparesis|Gastroparesis]]

@@ -3,11 +3,11 @@ title: "Alpha-Gal Syndrome"
 category: disease-script
 tags: [alpha-gal-syndrome, food-allergy, mammalian-meat-allergy, ige, tick-bite, abdominal-pain, diarrhea, anaphylaxis]
 created: 2026-07-20
-updated: 2026-08-13
+updated: 2026-08-14
 sources: [aga-2023-alpha-gal-syndrome]
 ---
 
-IgE-mediated allergy to **galactose-alpha-1,3-galactose (alpha-gal)**, an oligosaccharide on the cells of all nonprimate mammals. Reactions occur **1 to several hours after** ingesting mammalian meat or mammalian-derived products (delayed because the antigen is absorbed bound to fat via chylomicrons, ~2 h to circulation, before binding GI mast-cell IgE). Sensitization follows a **tick bite** (US: Lone Star tick, *Amblyomma americanum*) or parasitic infection. An increasingly recognized **GI phenotype** presents with abdominal pain, diarrhea, nausea, and vomiting **without** predominant skin, respiratory, or circulatory symptoms — and is frequently mislabeled as [[irritable-bowel-syndrome]].
+IgE-mediated allergy to **galactose-alpha-1,3-galactose (alpha-gal)**, an oligosaccharide on the cells of all nonprimate mammals. Reactions occur **1 to several hours after** ingesting mammalian meat or mammalian-derived products (delayed because the antigen is absorbed bound to fat via chylomicrons, ~2 h to circulation, before binding GI mast-cell IgE). Sensitization follows a **tick bite** (US: Lone Star tick, *Amblyomma americanum*) or parasitic infection. An increasingly recognized **GI phenotype** presents with abdominal pain, diarrhea, [[nausea-and-vomiting|nausea, and vomiting]] **without** predominant skin, respiratory, or circulatory symptoms — and is frequently mislabeled as [[irritable-bowel-syndrome]].
 
 ## Contents
 - [[#Assessment]]
@@ -94,7 +94,7 @@ IgE-mediated allergy to **galactose-alpha-1,3-galactose (alpha-gal)**, an oligos
 ### Tick-bite avoidance & medical products
 
 - **Avoid further tick bites** — additional bites drive alpha-gal IgE titers higher and worsen the allergy: perform tick checks and shower after wooded areas, pull tight mesh socks over pant cuffs, treat clothes/boots with **permethrin**.
-- **Alpha-gal–containing medical products** (can react in sensitized patients): **cetuximab** (original 2007 severe-infusion-reaction signal in anti-EGFR therapy for [[colorectal-cancer]]), porcine **pancreatic enzymes**, bioprosthetic (bovine/porcine) **cardiac valves/patches/veins** (≥2 post-valve anaphylaxis reports; early device failure not proven). Alpha-gal–free (Revivicor) devices/pork exist but are not yet widely available.
+- **Alpha-gal–containing medical products** (can react in sensitized patients): **cetuximab** (original 2007 severe-infusion-reaction signal in anti-EGFR therapy for [[colorectal-cancer]]), porcine **[[exocrine-pancreatic-insufficiency|pancreatic enzymes]]**, bioprosthetic (bovine/porcine) **cardiac valves/patches/veins** (≥2 post-valve anaphylaxis reports; early device failure not proven). Alpha-gal–free (Revivicor) devices/pork exist but are not yet widely available.
 
 ### Follow-up & re-challenge
 
@@ -109,7 +109,7 @@ IgE-mediated allergy to **galactose-alpha-1,3-galactose (alpha-gal)**, an oligos
 
 ## See Also
 
-[[irritable-bowel-syndrome]], [[chronic-diarrhea]], [[colonoscopy]], [[colorectal-cancer]]
+[[irritable-bowel-syndrome]], [[chronic-diarrhea]], [[nausea-and-vomiting]], [[colonoscopy]], [[colorectal-cancer]], [[exocrine-pancreatic-insufficiency]]
 
 ---
 

@@ -3,7 +3,7 @@ title: "Esophageal Adenocarcinoma (EAC)"
 category: disease-script
 tags: [esophageal-adenocarcinoma, barretts-esophagus, dysplasia, intramucosal-carcinoma, eet, esophagectomy, foregut, oncology]
 created: 2026-06-04
-updated: 2026-08-13
+updated: 2026-08-14
 sources: [asge-2018-barretts-eet, asge-2019-barretts-screening-surveillance, nccn-2026-esophageal-egj-cancer]
 ---
 
@@ -15,7 +15,7 @@ Esophageal adenocarcinoma (EAC) is a cancer of the distal esophagus/EGJ arising 
 
 ### Establishing the Diagnosis
 
-- Detected either on **[[barretts-esophagus|Barrett's surveillance]]** (early lesion, often subtle or endoscopically invisible) or symptomatically — solid-food [[dysphagia]], weight loss, odynophagia, [[iron-deficiency-anemia|iron-deficiency anemia]] (alarm features → prompt [[upper-endoscopy|EGD]] with biopsy).
+- Detected either on **[[barretts-esophagus|Barrett's surveillance]]** (early lesion, often subtle or endoscopically invisible) or symptomatically — solid-food dysphagia, weight loss, odynophagia, [[iron-deficiency-anemia|iron-deficiency anemia]] (alarm features → prompt [[upper-endoscopy|EGD]] with biopsy).
 - Diagnosis is histologic. **[[endoscopic-mucosal-resection|Endoscopic mucosal resection]] (EMR) of any visible lesion is the local staging step** — it yields a deep specimen (to muscularis mucosa/submucosa), changing the histologic stage in ~39% of cases (mostly upstaging) and management in ~30% ([[asge-2018-barretts-eet]]). Resect all visible lesions (nodularity, ulceration, plaque, depression, discoloration) "no matter how subtle."
 
 ### Severity Assessment (Depth of Invasion → LN-metastasis risk)

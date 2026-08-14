@@ -3,7 +3,7 @@ title: "ASGE Guideline: Role of Endoscopy in Management of Chronic Pancreatitis 
 category: source
 tags: [chronic-pancreatitis, ercp, eswl, pancreatic-duct-stent, celiac-plexus-block, eus, guideline, asge]
 created: 2026-06-04
-updated: 2026-06-04
+updated: 2026-08-14
 sources: []
 ---
 
@@ -44,3 +44,9 @@ Frames a stepwise approach to painful [[chronic-pancreatitis]]: favor surgical d
 ## See Also
 
 [[chronic-pancreatitis]], [[ercp]], [[endoscopic-ultrasound]]
+
+## Relevance to Wiki
+
+Wiki pages built on or citing this source:
+
+- [[chronic-pancreatitis|Chronic Pancreatitis]]

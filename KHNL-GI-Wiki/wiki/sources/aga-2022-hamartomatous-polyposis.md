@@ -3,7 +3,7 @@ title: "US Multi-Society Task Force Guideline: GI Hamartomatous Polyposis Syndro
 category: source
 tags: [peutz-jeghers, juvenile-polyposis, pten-cowden, hamartomatous-polyposis, surveillance, guideline, usmstf]
 created: 2026-06-04
-updated: 2026-06-04
+updated: 2026-08-14
 sources: []
 ---
 
@@ -43,3 +43,12 @@ Sets concrete surveillance start ages and intervals across PJS, JPS, and Cowden,
 ## See Also
 
 [[peutz-jeghers-syndrome]], [[juvenile-polyposis-syndrome]], [[cowden-syndrome]], [[colorectal-cancer]]
+
+## Relevance to Wiki
+
+Wiki pages built on or citing this source:
+
+- [[cowden-syndrome|Cowden Syndrome (PTEN Hamartoma Tumor Syndrome)]]
+- [[hereditary-hemorrhagic-telangiectasia|Hereditary Hemorrhagic Telangiectasia (HHT)]]
+- [[juvenile-polyposis-syndrome|Juvenile Polyposis Syndrome]]
+- [[peutz-jeghers-syndrome|Peutz-Jeghers Syndrome]]

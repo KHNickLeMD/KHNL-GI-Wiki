@@ -3,7 +3,7 @@ title: "Small Intestinal Bacterial Overgrowth (SIBO)"
 category: disease-script
 tags: [sibo, imo, small-bowel, breath-testing, rifaximin, ibs, motility, microbiome, malabsorption]
 created: 2026-05-19
-updated: 2026-08-04
+updated: 2026-08-14
 sources: [acg-2020-sibo]
 ---
 
@@ -21,7 +21,7 @@ SIBO is a clinical syndrome of GI symptoms caused by the presence of excessive n
 
 **Clinical presentation:**
 
-- Most common symptom: **bloating** (present in >2/3 of patients)
+- Most common symptom: **[[abdominal-bloating-and-distention|bloating]]** (present in >2/3 of patients)
 - Other symptoms: abdominal pain, flatulence, distension, diarrhea, nausea, abdominal cramping
 - IMO pattern: constipation predominant
 - Severe/structural SIBO: steatorrhea, weight loss, fat-soluble vitamin deficiencies (B12, D, iron); note that **folate may be elevated** (bacteria synthesize folate)

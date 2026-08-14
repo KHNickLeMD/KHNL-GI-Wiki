@@ -3,7 +3,7 @@ title: "Recurrent Acute Pancreatitis"
 category: diagnostic-schema
 tags: [recurrent-acute-pancreatitis, idiopathic-pancreatitis, eus, mrcp, ercp, pancreas-divisum]
 created: 2026-07-29
-updated: 2026-08-12
+updated: 2026-08-14
 sources: [aga-2022-recurrent-pancreatitis-endoscopy]
 ---
 
@@ -57,12 +57,12 @@ flowchart TD
 ## Red Flags / Alarm Features
 
 - **Occult ampullary or pancreatobiliary malignancy** — up to 5% (single unexplained AP) / 12% (RAP): scrutinize the ampulla and pancreatobiliary tree.
-- Progression toward [[chronic-pancreatitis|CP]] (~35% of RAP) — screen for pain, EPI, and endocrine dysfunction.
+- Progression toward [[chronic-pancreatitis|CP]] (~35% of RAP) — screen for pain, [[exocrine-pancreatic-insufficiency|EPI]], and endocrine dysfunction.
 - Post-ERCP pancreatitis and post-papillotomy stenosis are real, potentially severe iatrogenic risks — weigh before any ERCP.
 
 ## See Also
 
-[[acute-pancreatitis]], [[chronic-pancreatitis]], [[pancreas-divisum]], [[endoscopic-ultrasound]], [[ercp]], [[mri-mrcp]], [[sphincter-of-oddi-dysfunction]], [[hereditary-pancreatitis]], [[choledocholithiasis]]
+[[acute-pancreatitis]], [[chronic-pancreatitis]], [[pancreas-divisum]], [[endoscopic-ultrasound]], [[ercp]], [[mri-mrcp]], [[sphincter-of-oddi-dysfunction]], [[hereditary-pancreatitis]], [[choledocholithiasis]], [[exocrine-pancreatic-insufficiency]]
 
 ---
 

@@ -3,7 +3,7 @@ title: "AGA Living Guideline: Pharmacologic Management of Moderate-to-Severe Cro
 category: source
 tags: [crohns-disease, ibd, advanced-therapy, biologics, jak-inhibitor, infliximab, upadacitinib, guideline, aga]
 created: 2026-06-04
-updated: 2026-06-04
+updated: 2026-08-14
 sources: []
 ---
 
@@ -47,3 +47,9 @@ Reinforces an aggressive, efficacy-first, early-advanced-therapy strategy for mo
 ## See Also
 
 [[crohns-disease]], [[inflammatory-bowel-disease]], [[ibd-preventive-care]]
+
+## Relevance to Wiki
+
+Wiki pages built on or citing this source:
+
+- [[crohns-disease|Crohn's Disease]]

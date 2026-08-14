@@ -3,7 +3,7 @@ title: "Barrett's Esophagus"
 category: disease-script
 tags: [barretts-esophagus, esophageal, dysplasia, eet, rfa, surveillance, foregut]
 created: 2026-05-15
-updated: 2026-08-13
+updated: 2026-08-14
 sources: [acg-2022-barretts, aga-2025-barretts-surveillance, aga-2024-barretts-eet, asge-2018-barretts-eet, asge-2019-barretts-screening-surveillance]
 ---
 
@@ -97,7 +97,7 @@ The key severity variable is **dysplasia grade**, which determines both cancer r
 - **[[gerd]] without BE** — reflux symptoms without IM; Z-line irregularity <1 cm; no goblet cells on biopsy
 - **Cardiac-type (junctional) columnar metaplasia without IM** — columnar-lined esophagus without goblet cells; debated cancer risk; ACG does not classify as BE; no surveillance recommended
 - **[[eosinophilic-esophagitis]]** — proximal/mid-esophageal involvement, atopic features, eosinophil-predominant inflammation; does not predispose to EAC
-- **[[achalasia]]** — [[dysphagia]] to solids and liquids, regurgitation of undigested food; manometry shows absent peristalsis + impaired LES relaxation; [[esophageal-cancer|esophageal squamous cell carcinoma]] risk (not EAC)
+- **[[achalasia]]** — [[dysphagia]] to solids and liquids, regurgitation of undigested food; [[high-resolution-manometry|manometry]] shows absent peristalsis + impaired LES relaxation; [[esophageal-cancer|esophageal squamous cell carcinoma]] risk (not EAC)
 - **Esophageal inlet patch** — heterotopic gastric mucosa in the proximal esophagus (cervical inlet); distinct entity, not BE
 - **Candida/[[infectious-esophagitis|infectious esophagitis]]** — exudative plaques, odynophagia; mimics white plaques but no metaplasia on biopsy
 
@@ -357,7 +357,7 @@ CEIM defined as: 1–2 surveillance endoscopies with no visible BE and no IM on 
 
 ## See Also
 
-[[gerd]], [[eosinophilic-esophagitis]], [[achalasia]], [[esophageal-adenocarcinoma]], [[esophageal-cancer]], [[endoscopic-eradication-therapy]], [[radiofrequency-ablation]], [[endoscopic-mucosal-resection]], [[endoscopic-submucosal-dissection]], [[polypectomy]], [[upper-endoscopy]], [[endoscopic-ultrasound]], [[antireflux-surgery]], [[proton-pump-inhibitors]], [[reflux-testing]], [[dyspepsia]], [[confocal-laser-endomicroscopy]], [[infectious-esophagitis]]
+[[gerd]], [[eosinophilic-esophagitis]], [[achalasia]], [[esophageal-adenocarcinoma]], [[esophageal-cancer]], [[endoscopic-eradication-therapy]], [[radiofrequency-ablation]], [[endoscopic-mucosal-resection]], [[endoscopic-submucosal-dissection]], [[polypectomy]], [[upper-endoscopy]], [[endoscopic-ultrasound]], [[antireflux-surgery]], [[proton-pump-inhibitors]], [[reflux-testing]], [[dyspepsia]], [[confocal-laser-endomicroscopy]], [[infectious-esophagitis]], [[high-resolution-manometry]]
 
 ---
 

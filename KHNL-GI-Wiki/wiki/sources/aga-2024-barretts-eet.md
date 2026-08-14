@@ -3,7 +3,7 @@ title: "AGA Clinical Practice Guideline: Endoscopic Eradication Therapy of Barre
 category: source
 tags: [barretts-esophagus, eet, dysplasia, rfa, emr, esophageal-adenocarcinoma, guideline, aga]
 created: 2026-06-04
-updated: 2026-06-04
+updated: 2026-08-14
 sources: []
 ---
 
@@ -43,3 +43,12 @@ EET is standard of care for HGD and favored for LGD; NDBE should not be routinel
 ## See Also
 
 [[barretts-esophagus]], [[endoscopic-oncology]], [[gerd]], [[upper-endoscopy]]
+
+## Relevance to Wiki
+
+Wiki pages built on or citing this source:
+
+- [[argon-plasma-coagulation|Argon Plasma Coagulation (APC)]]
+- [[barretts-esophagus|Barrett's Esophagus]]
+- [[endoscopic-eradication-therapy|Endoscopic Eradication Therapy (EET)]]
+- [[radiofrequency-ablation|Radiofrequency Ablation (RFA)]]

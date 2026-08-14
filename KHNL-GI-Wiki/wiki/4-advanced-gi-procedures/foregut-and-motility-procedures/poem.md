@@ -3,7 +3,7 @@ title: "POEM (Peroral Endoscopic Myotomy)"
 category: advanced-procedure
 tags: [poem, achalasia, myotomy, motility, esophageal, foregut, gerd, egjoo]
 created: 2026-05-16
-updated: 2026-08-13
+updated: 2026-08-14
 sources: [aga-2024-poem-advances, sages-2024-poem, sages-2021-poem]
 ---
 # POEM (Peroral Endoscopic Myotomy)
@@ -47,7 +47,7 @@ Endoscopic myotomy of the lower esophageal sphincter (LES) and distal esophageal
 
 ## Technique
 
-- Mucosal incision → submucosal tunnel with an ESD knife → selective myotomy → mucosal closure with clips.
+- Mucosal incision → submucosal tunnel with an [[endoscopic-submucosal-dissection|ESD]] knife → selective myotomy → mucosal closure with clips.
 - **Tunnel orientation** (AGA 2024 BPA 5): anterior (2 o'clock) vs posterior (5 o'clock) — **equivalent** clinical success, adverse events, and post-POEM reflux (meta-analysis 18 studies, 1247 patients); posterior slightly shorter procedure time. For **prior LHM or POEM, choose the approach opposite the prior surgery** (avoids dense fibrosis plane).
 - **Myotomy length** (AGA 2024 BPA 6): optimal length **undetermined**.
   - Original Inoue technique: 7–8 cm esophageal + 2–3 cm gastric.
@@ -56,7 +56,7 @@ Endoscopic myotomy of the lower esophageal sphincter (LES) and distal esophageal
   - **Type III:** long esophageal myotomy tailored to the proximal spasm extent on [[high-resolution-manometry|HRM]] — key advantage over LHM.
   - Long myotomy may predispose to **blown-out myotomy** (weak point vulnerable to retained contractions).
   - Real-time intraprocedure [[flip-panometry|FLIP]] may help tailor/confirm myotomy adequacy.
-- **Antibiotic prophylaxis** (AGA 2024 BPA 4): a **single dose at the time of POEM may suffice** (RCT n=124: single-dose vs short-course — no difference in inflammation, transient bacteremia, or infection at day 5). No routine antifungal prophylaxis; incidental esophageal candidiasis → full antifungal course (14–21 days), does not preclude POEM.
+- **[[antibiotic-prophylaxis-endoscopy|Antibiotic prophylaxis]]** (AGA 2024 BPA 4): a **single dose at the time of POEM may suffice** (RCT n=124: single-dose vs short-course — no difference in inflammation, transient bacteremia, or infection at day 5). No routine antifungal prophylaxis; incidental [[infectious-esophagitis|esophageal candidiasis]] → full antifungal course (14–21 days), does not preclude POEM.
 
 ## Immediate Post-Procedure Care
 
@@ -73,7 +73,7 @@ Endoscopic myotomy of the lower esophageal sphincter (LES) and distal esophageal
   - **Off-PPI** pH monitoring if presence of [[gerd|GERD]] is in question.
   - **On-PPI** testing if GERD already established or esophagitis **[[gerd|LA grade B or higher]]** — assesses adequacy of acid suppression.
 - Reflux symptoms after POEM may **not** be acid-related (food stasis, acid fermentation, visceral hypersensitivity) — objective testing discriminates.
-- **Management ladder:** confirm PPI adherence (take 30–60 min before meals) → diet/lifestyle + alginates for mild/breakthrough → [[potassium-competitive-acid-blockers|potassium-competitive acid blocker]] (e.g., [[vonoprazan]]) a possible future preferred option for difficult erosive esophagitis → **antireflux procedure** (endoscopic or surgical fundoplication) in a small subset after confirming GERD, excluding other etiologies, and failing optimization.
+- **Management ladder:** confirm PPI adherence (take 30–60 min before meals) → diet/lifestyle + alginates for mild/breakthrough → [[potassium-competitive-acid-blockers|potassium-competitive acid blocker]] (e.g., [[vonoprazan]]) a possible future preferred option for difficult erosive esophagitis → **[[antireflux-surgery|antireflux procedure]]** (endoscopic or surgical fundoplication) in a small subset after confirming GERD, excluding other etiologies, and failing optimization.
 - Reflux esophagitis and abnormal acid exposure **decrease over time** (ongoing LES healing/remodeling) → favor a stepwise approach.
 
 ## Long-Term Surveillance
@@ -109,7 +109,7 @@ Endoscopic myotomy of the lower esophageal sphincter (LES) and distal esophageal
 
 ## See Also
 
-[[achalasia]], [[heller-myotomy]], [[high-resolution-manometry]], [[chicago-classification-v4]], [[flip-panometry]], [[esophagogastric-junction-outflow-obstruction]], [[distal-esophageal-spasm]], [[hypercontractile-esophagus]], [[g-poem]], [[gastroparesis]], [[gerd]], [[reflux-testing]], [[barretts-esophagus]], [[esophageal-cancer]], [[dysphagia]], [[upper-endoscopy]]
+[[achalasia]], [[heller-myotomy]], [[high-resolution-manometry]], [[chicago-classification-v4]], [[flip-panometry]], [[esophagogastric-junction-outflow-obstruction]], [[distal-esophageal-spasm]], [[hypercontractile-esophagus]], [[g-poem]], [[gastroparesis]], [[gerd]], [[reflux-testing]], [[barretts-esophagus]], [[esophageal-cancer]], [[dysphagia]], [[upper-endoscopy]], [[antireflux-surgery]], [[endoscopic-submucosal-dissection]], [[antibiotic-prophylaxis-endoscopy]], [[infectious-esophagitis]], [[proton-pump-inhibitors]], [[potassium-competitive-acid-blockers]]
 
 ---
 

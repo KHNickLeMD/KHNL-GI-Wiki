@@ -3,7 +3,7 @@ title: "Nausea and Vomiting of Pregnancy (& Hyperemesis Gravidarum)"
 category: disease-script
 tags: [pregnancy, nausea, vomiting, nvp, hyperemesis-gravidarum, puqe, doxylamine, pyridoxine, ondansetron, antiemetics]
 created: 2026-07-26
-updated: 2026-07-26
+updated: 2026-08-14
 sources: [aga-2024-pregnancy-gi-liver]
 ---
 
@@ -23,7 +23,7 @@ sources: [aga-2024-pregnancy-gi-liver]
 
 ## Assessment
 
-Nausea and vomiting of pregnancy (NVP) is common (heartburn/nausea/vomiting frequency 30%–90% in pregnancy). NVP begins at **4–6 weeks**, peaks at **8–12 weeks**, and usually subsides by **week 20**. Associated with elevated hCG and estrogen and progesterone-mediated delayed gastric emptying. ([[aga-2024-pregnancy-gi-liver]])
+Nausea and vomiting of pregnancy (NVP) is common ([[gerd|heartburn]]/nausea/vomiting frequency 30%–90% in pregnancy). NVP begins at **4–6 weeks**, peaks at **8–12 weeks**, and usually subsides by **week 20**. Associated with elevated hCG and estrogen and progesterone-mediated delayed gastric emptying. ([[aga-2024-pregnancy-gi-liver]])
 
 ### Establishing the Diagnosis
 

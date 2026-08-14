@@ -3,7 +3,7 @@ title: "Helicobacter pylori Infection"
 category: disease-script
 tags: [h-pylori, peptic-ulcer, gastric-cancer, malt-lymphoma, eradication, dyspepsia, gastric, foregut]
 created: 2026-05-07
-updated: 2026-08-12
+updated: 2026-08-14
 sources: [acg-2017-hp-guidelines, acg-2024-hp-treatment, aga-2024-pcab]
 ---
 
@@ -21,7 +21,7 @@ sources: [acg-2017-hp-guidelines, acg-2024-hp-treatment, aga-2024-pcab]
 - History of PUD not previously tested/treated for H. pylori
 - Low-grade gastric MALT lymphoma
 - After endoscopic resection of early [[gastric-adenocarcinoma|gastric cancer]]
-- Uninvestigated [[dyspepsia]] <55 y without alarm features → [[test-and-treat]]
+- Uninvestigated dyspepsia <55 y without alarm features → [[test-and-treat]]
 - Long-term NSAID use (before initiation)
 - Unexplained [[iron-deficiency-anemia|iron deficiency anemia]]
 - Immune thrombocytopenic purpura (ITP)
@@ -29,9 +29,9 @@ sources: [acg-2017-hp-guidelines, acg-2024-hp-treatment, aga-2024-pcab]
 **Clinical presentation:**
 
 - Most patients are **asymptomatic**
-- Epigastric pain/discomfort, bloating, nausea, [[dyspepsia]]
+- Epigastric pain/discomfort, bloating, nausea, dyspepsia
 - [[peptic-ulcer-disease|Peptic ulcer disease]] (gastric or duodenal)
-- GI bleeding (hematemesis, melena) — when ulcer complicated
+- [[upper-gi-bleeding|GI bleeding]] (hematemesis, melena) — when ulcer complicated
 - Extraintestinal: iron deficiency anemia, ITP (less established)
 
 **Pathogenesis (key virulence factors):**
@@ -173,7 +173,7 @@ sources: [acg-2017-hp-guidelines, acg-2024-hp-treatment, aga-2024-pcab]
 
 ## See Also
 
-[[test-and-treat]], [[bismuth-quadruple-therapy]], [[proton-pump-inhibitors]], [[vonoprazan]], [[peptic-ulcer-disease]], [[dyspepsia]], [[gastric-adenocarcinoma]], [[gastric-premalignant-conditions]], [[atrophic-gastritis]], [[gastric-intestinal-metaplasia]], [[gerd]], [[gastroparesis]], [[upper-endoscopy]]
+[[test-and-treat]], [[bismuth-quadruple-therapy]], [[proton-pump-inhibitors]], [[vonoprazan]], [[peptic-ulcer-disease]], [[dyspepsia]], [[upper-gi-bleeding]], [[gastric-adenocarcinoma]], [[gastric-premalignant-conditions]], [[atrophic-gastritis]], [[gastric-intestinal-metaplasia]], [[gerd]], [[gastroparesis]], [[upper-endoscopy]]
 
 ---
 

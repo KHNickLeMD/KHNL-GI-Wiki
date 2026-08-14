@@ -3,7 +3,7 @@ title: "Obesity"
 category: disease-script
 tags: [obesity, weight-management, metabolic, semaglutide, glp1, intragastric-balloon]
 created: 2026-06-04
-updated: 2026-08-13
+updated: 2026-08-14
 sources: [aga-2022-obesity-pharm, aga-2021-intragastric-balloons]
 ---
 
@@ -25,7 +25,7 @@ sources: [aga-2022-obesity-pharm, aga-2021-intragastric-balloons]
 ### Establishing the Diagnosis
 
 - **Definition (treatment thresholds):** BMI **≥30 kg/m²**, or **≥27 kg/m² with a weight-related comorbidity** — the population for whom AGA endorses adding drug therapy ([[aga-2022-obesity-pharm]]).
-- Affects ~**40% of US adults**; yet only ~1.1% of eligible patients receive primary bariatric surgery and <5% seeking weight loss are aware of endoscopic options ([[aga-2021-intragastric-balloons]]).
+- Affects ~**40% of US adults**; yet only ~1.1% of eligible patients receive primary [[bariatric-surgery|bariatric surgery]] and <5% seeking weight loss are aware of endoscopic options ([[aga-2021-intragastric-balloons]]).
 - Drives GI/metabolic comorbidities — [[nafld-masld|MASLD]], type 2 diabetes, hypertension, dyslipidemia (each shows improved remission with effective weight loss).
 
 ---
@@ -68,7 +68,7 @@ sources: [aga-2022-obesity-pharm, aga-2021-intragastric-balloons]
   - Lowest-nausea anesthetic + perioperative antiemetics; **scheduled antiemetics × 2 weeks** post-placement.
   - **Suggests against** routine perioperative nutritional-deficiency lab screening; suggests **1–2 adult multivitamins daily**.
 - **Safety:** serious AE 5.6% vs 1.1% SOC (RR 3.07) — perforation 0.3%, esophageal mucosal injury 0.8%, gastric ulcer/bleeding 0.76%, obstruction 0.12%; early removal for intolerance 9.4%. Fluid-filled ~3% more weight loss than gas-filled but higher AE / lower tolerability (device choice = shared decision-making).
-- **After removal:** subsequent maintenance via diet, pharmacotherapy, repeat IGB, or [[bariatric-surgery|bariatric surgery]] (shared decision-making).
+- **After removal:** subsequent maintenance via diet, pharmacotherapy, repeat IGB, or bariatric surgery (shared decision-making).
 
 ### Bariatric Surgery
 - Definitive option for eligible patients; see [[bariatric-surgery]]. Also a post-IGB maintenance pathway.

@@ -3,7 +3,7 @@ title: "AGA Clinical Practice Guideline: Coagulation Disorders in Cirrhosis (202
 category: source
 tags: [cirrhosis, coagulopathy, hemostasis, vte-prophylaxis, periprocedural, ffp, platelets, guideline, aga]
 created: 2026-06-04
-updated: 2026-06-04
+updated: 2026-08-14
 sources: []
 ---
 
@@ -43,3 +43,11 @@ Reframes cirrhosis coagulopathy: stop "fixing the INR," avoid prophylactic FFP/p
 ## See Also
 
 [[cirrhosis-hemostasis]], [[portal-hypertension]], [[anticoagulation-gi-bleeding]]
+
+## Relevance to Wiki
+
+Wiki pages built on or citing this source:
+
+- [[cirrhosis|Cirrhosis]]
+- [[cirrhosis-hemostasis|Hemostasis in Cirrhosis]]
+- [[liver-biopsy|Liver Biopsy]]

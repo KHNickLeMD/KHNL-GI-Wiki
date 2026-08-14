@@ -3,7 +3,7 @@ title: "ASGE Guideline: ESD for Early Esophageal and Gastric Cancer (2023)"
 category: source
 tags: [esd, emr, esophageal-cancer, gastric-adenocarcinoma, endoscopic-resection, guideline, asge]
 created: 2026-06-04
-updated: 2026-06-04
+updated: 2026-08-14
 sources: []
 ---
 
@@ -44,3 +44,11 @@ ESD enables en-bloc, curative resection of early luminal cancers and is preferre
 ## See Also
 
 [[endoscopic-oncology]], [[gastric-adenocarcinoma]], [[barretts-esophagus]], [[polypectomy]], [[endoscopic-mucosal-resection]]
+
+## Relevance to Wiki
+
+Wiki pages built on or citing this source:
+
+- [[endoscopic-oncology|Endoscopic Oncology]]
+- [[endoscopic-submucosal-dissection|Endoscopic Submucosal Dissection (Esophagogastric)]]
+- [[gastric-adenocarcinoma|Gastric Adenocarcinoma]]

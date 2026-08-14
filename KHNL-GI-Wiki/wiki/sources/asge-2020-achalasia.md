@@ -3,7 +3,7 @@ title: "ASGE Guideline: Management of Achalasia (2020)"
 category: source
 tags: [achalasia, poem, pneumatic-dilation, heller-myotomy, botulinum-toxin, guideline, asge]
 created: 2026-06-04
-updated: 2026-06-04
+updated: 2026-08-14
 sources: []
 ---
 
@@ -44,3 +44,9 @@ POEM, pneumatic dilation, and Heller myotomy are the durable options (botox for 
 ## See Also
 
 [[achalasia]], [[poem]], [[high-resolution-manometry]], [[gerd]]
+
+## Relevance to Wiki
+
+Wiki pages built on or citing this source:
+
+- [[achalasia|Achalasia]]

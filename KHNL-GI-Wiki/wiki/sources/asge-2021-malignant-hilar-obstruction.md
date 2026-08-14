@@ -3,7 +3,7 @@ title: "ASGE Guideline: Endoscopic Management of Malignant Hilar Obstruction (20
 category: source
 tags: [malignant-hilar-obstruction, cholangiocarcinoma, biliary-drainage, ercp, sems, guideline, asge]
 created: 2026-06-04
-updated: 2026-06-04
+updated: 2026-08-14
 sources: []
 ---
 
@@ -43,3 +43,9 @@ Endoscopy-first drainage, bilateral stenting when no atrophy, and SEMS for durab
 ## See Also
 
 [[cholangiocarcinoma]], [[ercp]], [[biliary-stricture]], [[endoscopic-ultrasound]]
+
+## Relevance to Wiki
+
+Wiki pages built on or citing this source:
+
+- [[cholangiocarcinoma|Cholangiocarcinoma]]

@@ -3,7 +3,7 @@ title: "ASGE Guideline: Management of Acute Cholangitis (2021)"
 category: source
 tags: [cholangitis, ercp, biliary-drainage, choledocholithiasis, ptbd, guideline, asge]
 created: 2026-06-04
-updated: 2026-08-10
+updated: 2026-08-14
 sources: []
 ---
 
@@ -44,3 +44,10 @@ Early **[[ercp]] (<48 h)** with stone clearance/stenting is the standard for acu
 ## See Also
 
 [[ercp]], [[biliary-stricture]], [[endoscopic-ultrasound]]
+
+## Relevance to Wiki
+
+Wiki pages built on or citing this source:
+
+- [[choledocholithiasis|Choledocholithiasis]]
+- [[ercp|ERCP (Endoscopic Retrograde Cholangiopancreatography)]]

@@ -3,7 +3,7 @@ title: "ACG 2023: Management of Patients With Acute Lower Gastrointestinal Bleed
 category: source
 tags: [lower-gi-bleeding, lgib, colonoscopy, hemorrhage, diverticular]
 created: 2026-05-15
-updated: 2026-05-28
+updated: 2026-08-14
 sources: []
 ---
 
@@ -14,6 +14,7 @@ sources: []
 - **Journal:** American Journal of Gastroenterology
 - **Volume/Year:** 118:208–231, February 2023
 - **DOI:** [10.14309/ajg.0000000000002130](https://doi.org/10.14309/ajg.0000000000002130)
+- **Type:** guideline (ACG Clinical Guideline, GRADE)
 - **Published online:** September 21, 2022
 - **Methodology:** GRADE (Grading of Recommendations, Assessment, Development, and Evaluation)
 - **Literature search:** March 2, 2015 – December 1, 2021 (EMBASE, Ovid MEDLINE, ISI Web of Science); updated April 1, 2022

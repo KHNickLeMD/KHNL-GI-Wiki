@@ -3,7 +3,7 @@ title: "ACG Clinical Guideline: Perioperative Risk Assessment and Management in 
 category: source
 tags: [cirrhosis, perioperative, surgical-risk, vocal-penn, meld, portal-hypertension, guideline, acg]
 created: 2026-06-04
-updated: 2026-06-04
+updated: 2026-08-14
 sources: []
 ---
 
@@ -50,3 +50,10 @@ Shifts perioperative liver risk from CTP/MELD alone to VOCAL-Penn–anchored, CS
 ## See Also
 
 [[portal-hypertension]], [[noninvasive-liver-disease-assessment]], [[ascites]], [[hepatic-encephalopathy]], [[cirrhosis-hemostasis]], [[liver-transplantation]]
+
+## Relevance to Wiki
+
+Wiki pages built on or citing this source:
+
+- [[cirrhosis|Cirrhosis]]
+- [[portal-hypertension|Portal Hypertension]]

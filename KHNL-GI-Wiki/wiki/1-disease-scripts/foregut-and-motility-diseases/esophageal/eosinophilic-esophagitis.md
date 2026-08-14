@@ -3,7 +3,7 @@ title: "Eosinophilic Esophagitis"
 category: disease-script
 tags: [eoe, esophageal, dysphagia, food-impaction, eosinophil, atopic, biologic, dupilumab]
 created: 2026-05-07
-updated: 2026-08-11
+updated: 2026-08-14
 sources: [acg-2025-eoe, aga-2020-eoe, acg-2013-eoe, aga-2024-esophageal-immunity-infection]
 ---
 
@@ -29,7 +29,7 @@ Chronic, immune/antigen-mediated esophageal disease. Characterized by esophageal
 |---|---|
 | Infants/toddlers | Feeding refusal, vomiting, failure to thrive |
 | School-age children | Abdominal pain, vomiting, regurgitation |
-| Adolescents/adults | [[dysphagia\|Dysphagia]], food impaction |
+| Adolescents/adults | Dysphagia, food impaction |
 
 **IMPACT behaviors** (adaptive behaviors masking symptoms):
 
@@ -79,7 +79,7 @@ Chronic, immune/antigen-mediated esophageal disease. Characterized by esophageal
 |---|---|
 | [[gerd\|GERD]] | No eosinophils on biopsy or responds to [[proton-pump-inhibitors\|PPI]] (but PPI response ≠ exclude EoE) |
 | Proton pump inhibitor-responsive esophageal eosinophilia (PPIREE) | Now considered subset of EoE, not separate entity |
-| [[achalasia\|Achalasia]] / motility disorders | Manometry abnormal; esophageal body aperistalsis |
+| [[achalasia\|Achalasia]] / motility disorders | [[high-resolution-manometry\|Manometry]] abnormal; esophageal body aperistalsis |
 | Eosinophilic gastroenteritis | Eosinophilia extends beyond esophagus |
 | Hypereosinophilic syndrome | Peripheral eosinophilia >1500 with multi-organ involvement |
 | Pill esophagitis | History of medication, focal injury |
@@ -259,7 +259,7 @@ Chronic, immune/antigen-mediated esophageal disease. Characterized by esophageal
 
 ## See Also
 
-[[dysphagia]], [[gerd]], [[achalasia]], [[infectious-esophagitis]], [[lymphocytic-esophagitis]], [[esophageal-dysfunction-systemic-disease]], [[celiac-disease]], [[barretts-esophagus]], [[inflammatory-bowel-disease]], [[crohns-disease]], [[upper-endoscopy]], [[colonoscopy]], [[proton-pump-inhibitors]], [[flip-panometry]]
+[[dysphagia]], [[gerd]], [[achalasia]], [[infectious-esophagitis]], [[lymphocytic-esophagitis]], [[esophageal-dysfunction-systemic-disease]], [[celiac-disease]], [[barretts-esophagus]], [[inflammatory-bowel-disease]], [[crohns-disease]], [[upper-endoscopy]], [[colonoscopy]], [[proton-pump-inhibitors]], [[flip-panometry]], [[high-resolution-manometry]]
 
 ---
 

@@ -3,7 +3,7 @@ title: "Abnormal Liver Chemistries"
 category: diagnostic-schema
 tags: [liver-chemistries, liver-tests, alt, ast, alkaline-phosphatase, bilirubin, hepatocellular, cholestatic, r-value, hpb, liver, workup]
 created: 2026-05-19
-updated: 2026-07-25
+updated: 2026-08-14
 sources: [acg-2017-liver-chemistries, acg-2016-liver-disease-pregnancy]
 ---
 
@@ -82,7 +82,7 @@ Laboratory ULN values for ALT are unreliable — they are set from populations t
 
 **Hepatobiliary:**
 
-- Bile duct obstruction (choledocholithiasis, malignant obstruction, bile duct flukes), bile duct stricture, AIDS cholangiopathy, PBC, [[primary-sclerosing-cholangitis]], medications/DILI, infiltrative liver diseases (sarcoid, TB, amyloid, metastatic cancer, lymphoma), hepatic abscess, [[hepatocellular-carcinoma|hepatocellular carcinoma]], vanishing bile duct syndrome, ischemic cholangiopathy, alcoholic hepatitis, hepatic allograft rejection, sickle cell liver crisis, sepsis, congestive hepatopathy
+- Bile duct obstruction (choledocholithiasis, malignant obstruction, bile duct flukes), bile duct stricture, AIDS cholangiopathy, PBC, PSC, medications/DILI, infiltrative liver diseases (sarcoid, TB, amyloid, metastatic cancer, lymphoma), hepatic abscess, [[hepatocellular-carcinoma|hepatocellular carcinoma]], vanishing bile duct syndrome, ischemic cholangiopathy, alcoholic hepatitis, hepatic allograft rejection, sickle cell liver crisis, sepsis, congestive hepatopathy
 
 **Non-hepatic:**
 
@@ -99,7 +99,7 @@ Laboratory ULN values for ALT are unreliable — they are set from populations t
 
 **Elevated conjugated (direct):**
 
-- Bile duct obstruction, viral hepatitis, toxic/ischemic hepatitis, medications/DILI, acute alcoholic hepatitis, cirrhosis, [[primary-sclerosing-cholangitis]], PBC, infiltrative liver diseases, HCC, Wilson's disease, AIH, congestive hepatopathy, sepsis, TPN, [[intrahepatic-cholestasis-of-pregnancy|intrahepatic cholestasis of pregnancy]], Dubin-Johnson syndrome, Rotor syndrome, sickle cell liver crisis, hemophagocytic lymphohistiocytosis
+- Bile duct obstruction, viral hepatitis, toxic/ischemic hepatitis, medications/DILI, acute alcoholic hepatitis, cirrhosis, PSC, PBC, infiltrative liver diseases, HCC, Wilson's disease, AIH, congestive hepatopathy, sepsis, TPN, [[intrahepatic-cholestasis-of-pregnancy|intrahepatic cholestasis of pregnancy]], Dubin-Johnson syndrome, Rotor syndrome, sickle cell liver crisis, hemophagocytic lymphohistiocytosis
 
 ---
 
@@ -209,7 +209,7 @@ Use the R-ratio and AST:ALT ratio to classify injury pattern → guides the diff
 - **AST, ALT, alkaline phosphatase, total bilirubin, albumin, PT/INR** — establish pattern and synthetic function
 - **HBsAg, anti-HBc (total or IgM), anti-HBs** — [[chronic-hepatitis-b|hepatitis B]] status
 - **Anti-HCV ± HCV RNA** — [[hepatitis-c|hepatitis C]] (RNA required if antibody positive or high suspicion with negative antibody)
-- **Iron panel** — transferrin saturation ≥45% or elevated ferritin → HFE mutation analysis for [[hereditary-hemochromatosis|hereditary hemochromatosis]]
+- **[[iron-overload-and-iron-metabolism|Iron panel]]** — transferrin saturation ≥45% or elevated ferritin → HFE mutation analysis for [[hereditary-hemochromatosis|hereditary hemochromatosis]]
 - **Abdominal ultrasound** — hepatic parenchyma, biliary dilatation, portal hypertension stigmata
 
 ### Expanded Evaluation (if initial panel negative/persists)
@@ -233,10 +233,10 @@ Use the R-ratio and AST:ALT ratio to classify injury pattern → guides the diff
 ### Imaging
 
 - **Abdominal ultrasound** — first-line for all patterns; hepatomegaly, steatosis, biliary dilatation, portal hypertension, vascular patency
-- **Doppler ultrasound** — [[budd-chiari-syndrome|Budd-Chiari syndrome]], hepatic vein/[[portal-vein-thrombosis]]
+- **Doppler ultrasound** — [[budd-chiari-syndrome|Budd-Chiari syndrome]], hepatic vein/[[portal-vein-thrombosis|portal vein thrombosis]]
 - **MRI/MRCP** — preferred for biliary anatomy; [[cholangioscopy]] for sclerosing cholangitis evaluation when ERCP not needed for therapy
 - **CT abdomen** — infiltrative disease, malignancy, abscess
-- **FibroScan (vibration-controlled transient elastography)** — [[noninvasive-liver-disease-assessment|non-invasive fibrosis assessment]] in NAFLD/MASLD; FDA-approved; controlled attenuation parameter (CAP) for steatosis quantification
+- **[[liver-stiffness-measurement|FibroScan]] (vibration-controlled transient elastography)** — [[noninvasive-liver-disease-assessment|non-invasive fibrosis assessment]] in NAFLD/MASLD; FDA-approved; controlled attenuation parameter (CAP) for steatosis quantification
 
 ### Liver Biopsy Indications
 
@@ -270,7 +270,7 @@ Biopsy is appropriate when (Strong recommendation, very low evidence) [[acg-2017
 
 ## See Also
 
-[[drug-induced-liver-injury]], [[alcohol-associated-liver-disease]], [[autoimmune-hepatitis]], [[primary-sclerosing-cholangitis]], [[primary-biliary-cholangitis]], [[wilson-disease]], [[hereditary-hemochromatosis]], [[nafld-masld]], [[acute-liver-failure]], [[chronic-hepatitis-b]], [[hepatitis-c]], [[celiac-disease]], [[budd-chiari-syndrome]], [[liver-disease-in-pregnancy]], [[noninvasive-liver-disease-assessment]], [[jaundice]], [[liver-biopsy]], [[mri-mrcp]], [[ascites]]
+[[drug-induced-liver-injury]], [[alcohol-associated-liver-disease]], [[autoimmune-hepatitis]], [[primary-sclerosing-cholangitis]], [[primary-biliary-cholangitis]], [[wilson-disease]], [[hereditary-hemochromatosis]], [[nafld-masld]], [[acute-liver-failure]], [[chronic-hepatitis-b]], [[hepatitis-c]], [[celiac-disease]], [[budd-chiari-syndrome]], [[liver-disease-in-pregnancy]], [[noninvasive-liver-disease-assessment]], [[liver-stiffness-measurement]], [[iron-overload-and-iron-metabolism]], [[jaundice]], [[liver-biopsy]], [[mri-mrcp]], [[ercp]], [[cholangioscopy]], [[cirrhosis]], [[portal-hypertension]], [[portal-vein-thrombosis]], [[hepatic-encephalopathy]], [[hepatocellular-carcinoma]], [[liver-transplantation]], [[choledocholithiasis]], [[biliary-stricture]], [[ascites]]
 
 ---
 

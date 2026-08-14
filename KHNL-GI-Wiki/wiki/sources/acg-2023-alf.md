@@ -3,7 +3,7 @@ title: "ACG 2023: Acute Liver Failure"
 category: source
 tags: [acute-liver-failure, alf, liver, hepatology]
 created: 2026-05-15
-updated: 2026-05-28
+updated: 2026-08-14
 sources: []
 ---
 
@@ -11,6 +11,7 @@ sources: []
 
 - **Article:** [ACG 2023: Acute Liver Failure.](https://doi.org/10.14309/ajg.0000000000002340)
 - **DOI:** [10.14309/ajg.0000000000002340](https://doi.org/10.14309/ajg.0000000000002340)
+- **Type:** guideline (ACG Clinical Guideline, GRADE)
 Shingina A, Mukhtar N, Wakim-Fleming J, Alqahtani S, Wong RJ, Limketkai BN, Larson AM, Grant L. Acute Liver Failure Guidelines. *Am J Gastroenterol.* 2023;118:1128–1153. <https://doi.org/10.14309/ajg.0000000000002340>. Published online March 20, 2023.
 
 American College of Gastroenterology (ACG). GRADE methodology applied. Literature search through January 2022.

@@ -3,7 +3,7 @@ title: "AGA Clinical Practice Guideline: Systemic Therapy for Hepatocellular Car
 category: source
 tags: [hepatocellular-carcinoma, systemic-therapy, atezolizumab, bevacizumab, immunotherapy, guideline, aga]
 created: 2026-06-04
-updated: 2026-06-04
+updated: 2026-08-14
 sources: []
 ---
 
@@ -42,3 +42,9 @@ Establishes **atezolizumab + bevacizumab** as preferred first-line for advanced 
 ## See Also
 
 [[hepatocellular-carcinoma]], [[hcc-surveillance]], [[portal-hypertension]], [[liver-transplantation]]
+
+## Relevance to Wiki
+
+Wiki pages built on or citing this source:
+
+- [[hepatocellular-carcinoma|Hepatocellular Carcinoma]]

@@ -3,7 +3,7 @@ title: "Pancreatic Cysts"
 category: disease-script
 tags: [pancreatic-cysts, ipmn, mcn, serous-cystadenoma, pseudocyst, spn, pancreas, eus-fna, mrcp, surveillance, pancreatic-cancer]
 created: 2026-05-19
-updated: 2026-08-13
+updated: 2026-08-14
 sources: [acg-2018-pancreatic-cysts, colan-hernandez-2020-eus-fna-panc-cyst-antibiotics, asge-2015-antibiotic-prophylaxis]
 ---
 
@@ -294,7 +294,7 @@ Note: Surgery should be performed at a tertiary referral center by experienced s
 
 ## See Also
 
-[[acute-pancreatitis]], [[chronic-pancreatitis]], [[pancreatic-cancer]], [[pancreatic-cancer-screening]], [[endoscopic-ultrasound]], [[ercp]], [[mri-mrcp]], [[gastroenteropancreatic-neuroendocrine-tumors]], [[jaundice]]
+[[acute-pancreatitis]], [[chronic-pancreatitis]], [[pancreatic-cancer]], [[pancreatic-cancer-screening]], [[endoscopic-ultrasound]], [[ercp]], [[mri-mrcp]], [[antibiotic-prophylaxis-endoscopy]], [[gastroenteropancreatic-neuroendocrine-tumors]], [[jaundice]]
 
 ---
 

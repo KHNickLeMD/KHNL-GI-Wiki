@@ -3,7 +3,7 @@ title: "Lymphocytic Esophagitis"
 category: disease-script
 tags: [esophagus, lymphocytic-esophagitis, dysphagia, esophageal-rings, histology]
 created: 2026-07-28
-updated: 2026-07-28
+updated: 2026-08-14
 sources: [aga-2024-esophageal-immunity-infection]
 ---
 
@@ -49,7 +49,7 @@ Histologically defined esophageal disorder characterized by a **dense peripapill
 
 ## See Also
 
-[[eosinophilic-esophagitis]], [[infectious-esophagitis]], [[esophageal-dysfunction-systemic-disease]], [[dysphagia]], [[upper-endoscopy]], [[proton-pump-inhibitors]]
+[[eosinophilic-esophagitis]], [[infectious-esophagitis]], [[esophageal-dysfunction-systemic-disease]], [[crohns-disease]], [[gerd]], [[dysphagia]], [[upper-endoscopy]], [[proton-pump-inhibitors]]
 
 ---
 

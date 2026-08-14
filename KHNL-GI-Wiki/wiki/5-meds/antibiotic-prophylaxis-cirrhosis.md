@@ -3,7 +3,7 @@ title: "Antibiotic Prophylaxis in Cirrhosis (GI Bleeding)"
 category: med
 tags: [cirrhosis, antibiotic-prophylaxis, ceftriaxone, norfloxacin, variceal-bleeding, sbp-prevention]
 created: 2026-05-15
-updated: 2026-07-17
+updated: 2026-08-14
 sources: [albhaisi-2025-prophylactic-antibiotics-cirrhosis, aasld-2021-ascites-sbp-hrs]
 ---
 
@@ -12,7 +12,7 @@ Prophylactic antibiotics in [[cirrhosis|cirrhotic]] patients with [[upper-gi-ble
 ## Indications (AASLD 2021)
 
 - **Acute GI hemorrhage** in cirrhosis → IV ceftriaxone until the hemorrhage has resolved (5–7 days) [[aasld-2021-ascites-sbp-hrs]]
-- (Other SBP primary-prophylaxis indication, non-bleeding: low ascitic protein <1.5 g/dL **plus** advanced hepatic/renal dysfunction — see [[spontaneous-bacterial-peritonitis]])
+- (Other SBP primary-prophylaxis indication, non-bleeding: low [[ascites|ascitic]] protein <1.5 g/dL **plus** advanced hepatic/renal dysfunction — see [[spontaneous-bacterial-peritonitis]])
 
 ## Standard Agents
 
@@ -27,7 +27,7 @@ See [[variceal-upper-gi-bleeding]] for full clinical context.
 
 ## See Also
 
-[[variceal-upper-gi-bleeding]], [[spontaneous-bacterial-peritonitis]], [[upper-gi-bleeding]], [[antibiotic-prophylaxis-endoscopy]], [[cirrhosis-hemostasis]]
+[[variceal-upper-gi-bleeding]], [[spontaneous-bacterial-peritonitis]], [[upper-gi-bleeding]], [[cirrhosis]], [[ascites]], [[antibiotic-prophylaxis-endoscopy]], [[cirrhosis-hemostasis]]
 
 ---
 

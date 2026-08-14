@@ -3,7 +3,7 @@ title: "AGA Clinical Practice Guideline: Fecal Microbiota-Based Therapies for Se
 category: source
 tags: [fmt, fecal-microbiota, c-difficile, ulcerative-colitis, crohns, ibs, guideline, aga]
 created: 2026-06-04
-updated: 2026-06-04
+updated: 2026-08-14
 sources: []
 ---
 
@@ -43,3 +43,10 @@ FMT's evidence-based home is **recurrent and refractory CDI** (with immune-statu
 ## See Also
 
 [[clostridioides-difficile]], [[ulcerative-colitis]], [[crohns-disease]], [[irritable-bowel-syndrome]]
+
+## Relevance to Wiki
+
+Wiki pages built on or citing this source:
+
+- [[clostridioides-difficile|Clostridioides difficile Infection]]
+- [[fmt|Fecal Microbiota Transplantation (Fecal Microbiota-Based Therapies)]]

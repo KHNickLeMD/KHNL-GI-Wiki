@@ -3,7 +3,7 @@ title: "ASGE Guideline: Gastrostomy Feeding Tubes (2025)"
 category: source
 tags: [peg, gastrostomy, enteral-nutrition, antithrombotics, endoscopy, guideline, asge]
 created: 2026-06-04
-updated: 2026-06-04
+updated: 2026-08-14
 sources: []
 ---
 
@@ -45,3 +45,9 @@ Codifies PEG-first enteral access, feeding within 4 hours, and no routine interr
 ## See Also
 
 [[upper-endoscopy]], [[nutrition-in-hospitalized-patients]], [[anticoagulation-gi-bleeding]]
+
+## Relevance to Wiki
+
+Wiki pages built on or citing this source:
+
+- [[nutrition-in-hospitalized-patients|Nutrition Therapy in the Hospitalized Patient]]

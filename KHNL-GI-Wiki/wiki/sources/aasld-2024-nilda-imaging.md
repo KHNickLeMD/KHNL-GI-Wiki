@@ -3,7 +3,7 @@ title: "AASLD Practice Guideline: Imaging-Based Noninvasive Liver Disease Assess
 category: source
 tags: [nilda, elastography, vcte, fibroscan, mre, cap, fibrosis, steatosis, guidance, aasld]
 created: 2026-06-04
-updated: 2026-06-04
+updated: 2026-08-14
 sources: []
 ---
 
@@ -43,3 +43,9 @@ Operationalizes elastography-first fibrosis/steatosis staging that minimizes bio
 ## See Also
 
 [[noninvasive-liver-disease-assessment]], [[nafld-masld]], [[hcc-surveillance]], [[portal-hypertension]]
+
+## Relevance to Wiki
+
+Wiki pages built on or citing this source:
+
+- [[noninvasive-liver-disease-assessment|Noninvasive Liver Disease Assessment (NILDA)]]

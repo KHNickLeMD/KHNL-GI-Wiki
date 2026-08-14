@@ -3,7 +3,7 @@ title: "AGA 2022: Diagnosis and Management of AKI in Cirrhosis"
 category: source
 tags: [aki, cirrhosis, hrs, hepatorenal-syndrome, albumin, terlipressin]
 created: 2026-05-15
-updated: 2026-05-28
+updated: 2026-08-14
 sources: []
 ---
 
@@ -11,6 +11,7 @@ sources: []
 
 - **Article:** [AGA 2022: Diagnosis and Management of AKI in Cirrhosis.](https://doi.org/10.1016/j.cgh.2022.08.033)
 - **DOI:** [10.1016/j.cgh.2022.08.033](https://doi.org/10.1016/j.cgh.2022.08.033)
+- **Type:** guideline (AGA Clinical Practice Update - Expert Review; Best Practice Advice, unrated)
 Flamm SL, Wong F, Ahn J, Kamath PS. "AGA Clinical Practice Update on the Evaluation and Management of Acute Kidney Injury in Patients With Cirrhosis: Expert Review." *Clinical Gastroenterology and Hepatology* 2022;20:2707–2716. <https://doi.org/10.1016/j.cgh.2022.08.033>
 
 - Type: Expert review / Best Practice Advice (not a formal systematic review)

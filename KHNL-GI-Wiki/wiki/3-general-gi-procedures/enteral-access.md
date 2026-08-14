@@ -3,7 +3,7 @@ title: "Enteral Access"
 category: general-procedure
 tags: [enteral-nutrition, peg, peg-j, nutrition, nasoenteric, dpej, buried-bumper]
 created: 2026-07-23
-updated: 2026-08-13
+updated: 2026-08-14
 sources: [aga-2025-endoscopic-enteral-access]
 ---
 
@@ -44,10 +44,10 @@ sources: [aga-2025-endoscopic-enteral-access]
 | Category | Examples |
 |---|---|
 | Impaired nutrient intake (neurologic) | Post-CVA, motor neuron disease, multiple sclerosis, Parkinson's, unconscious/ventilated, cerebral palsy, select dementia |
-| Upper GI obstruction / motility disorder | Head & neck cancer; head/maxillofacial/mandibular/dental/neck trauma; radiation stomatitis; [[esophageal-cancer]]; esophageal stricture; esophageal dysmotility; chronic intestinal pseudo-obstruction; [[gastroparesis]]; superior mesenteric artery syndrome |
+| Upper GI obstruction / motility disorder | Head & neck cancer; head/maxillofacial/mandibular/dental/neck trauma; radiation stomatitis; [[esophageal-cancer\|esophageal cancer]]; esophageal stricture; esophageal dysmotility; chronic intestinal pseudo-obstruction; [[gastroparesis]]; superior mesenteric artery syndrome |
 | Altered intestinal anatomy | [[bariatric-surgery\|Bariatric]] or foregut surgery with impaired intake |
 | Psychiatric | Anorexia nervosa |
-| Increased metabolic requirements | Critical illness, cancer, burn/trauma, cystic fibrosis / chronic lung disease, [[inflammatory-bowel-disease\|IBD]], liver disease, pancreatitis, renal disease |
+| Increased metabolic requirements | Critical illness, cancer, burn/trauma, cystic fibrosis / chronic lung disease, [[inflammatory-bowel-disease\|IBD]], [[nutrition-in-liver-disease\|liver disease]], pancreatitis, renal disease |
 | Increased intestinal losses | Short bowel syndrome |
 
 **Severe dementia — special caution:**
@@ -186,7 +186,7 @@ sources: [aga-2025-endoscopic-enteral-access]
 
 ## See Also
 
-[[upper-endoscopy]], [[gastroparesis]], [[ascites]], [[cirrhosis]], [[esophageal-cancer]], [[obesity]], [[bariatric-surgery]], [[peptic-ulcer-disease]], [[inflammatory-bowel-disease]], [[variceal-upper-gi-bleeding]], [[nutrition-in-hospitalized-patients]], [[antibiotic-prophylaxis-endoscopy]], [[anticoagulation-gi-bleeding]]
+[[upper-endoscopy]], [[gastroparesis]], [[ascites]], [[cirrhosis]], [[esophageal-cancer]], [[obesity]], [[bariatric-surgery]], [[peptic-ulcer-disease]], [[inflammatory-bowel-disease]], [[variceal-upper-gi-bleeding]], [[nutrition-in-hospitalized-patients]], [[nutrition-in-liver-disease]], [[antibiotic-prophylaxis-endoscopy]], [[anticoagulation-gi-bleeding]]
 
 ---
 

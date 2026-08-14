@@ -3,7 +3,7 @@ title: "AGA Clinical Practice Guideline: Pharmacological Management of IBS-C (20
 category: source
 tags: [ibs-c, irritable-bowel-syndrome, secretagogues, linaclotide, tenapanor, guideline, aga]
 created: 2026-06-04
-updated: 2026-06-04
+updated: 2026-08-14
 sources: []
 ---
 
@@ -45,3 +45,11 @@ Linaclotide is the only strongly recommended agent for IBS-C; secretagogues (ten
 ## See Also
 
 [[irritable-bowel-syndrome]], [[linaclotide]], [[plecanatide]], [[lubiprostone]], [[chronic-idiopathic-constipation]], [[disorders-of-gut-brain-interaction]]
+
+## Relevance to Wiki
+
+Wiki pages built on or citing this source:
+
+- [[irritable-bowel-syndrome|Irritable Bowel Syndrome]]
+- [[lubiprostone|Lubiprostone]]
+- [[tegaserod|Tegaserod]]

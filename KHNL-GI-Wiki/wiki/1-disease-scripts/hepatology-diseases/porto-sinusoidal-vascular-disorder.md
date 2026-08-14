@@ -3,7 +3,7 @@ title: "Porto-Sinusoidal Vascular Disorder (PSVD)"
 category: disease-script
 tags: [psvd, non-cirrhotic-portal-hypertension, idiopathic-portal-hypertension, nodular-regenerative-hyperplasia, obliterative-portal-venopathy, portal-hypertension, liver-biopsy, varices]
 created: 2026-08-01
-updated: 2026-08-10
+updated: 2026-08-14
 sources: [baveno-vii-2022-portal-hypertension]
 ---
 
@@ -53,7 +53,7 @@ PSVD is defined **histologically + clinically**, not by a stage. The diagnostic 
 
 ## Diagnostics
 
-**Diagnostic requirement (statements 9.18–9.19):** an **adequate liver biopsy** (specimen ≥20 mm, minimal fragmentation, or otherwise deemed adequate by an expert pathologist) is **required**. Diagnosis needs **exclusion of cirrhosis and other causes of portal hypertension**, PLUS **one** of the following three criteria:
+**Diagnostic requirement (statements 9.18–9.19):** an **adequate [[liver-biopsy|liver biopsy]]** (specimen ≥20 mm, minimal fragmentation, or otherwise deemed adequate by an expert pathologist) is **required**. Diagnosis needs **exclusion of cirrhosis and other causes of portal hypertension**, PLUS **one** of the following three criteria:
 
 1. ≥1 feature **specific** for portal hypertension; **or**
 2. ≥1 histologic lesion **specific** for PSVD; **or**
@@ -78,7 +78,7 @@ PSVD is defined **histologically + clinically**, not by a stage. The diagnostic 
 
 **Portal hypertension complications** — managed according to [[portal-hypertension|cirrhosis/portal-hypertension guidelines]], with these PSVD-specific caveats [[baveno-vii-2022-portal-hypertension]]:
 
-- **Variceal screening:** endoscopic screening for gastro-oesophageal varices is **required at diagnosis** (9.21). The **non-invasive Baveno VII varices criteria used in cirrhosis cannot be applied to PSVD** (9.22) — do not use LSM/platelet cut-offs to avoid endoscopy here.
+- **Variceal screening:** [[upper-endoscopy|endoscopic screening]] for gastro-oesophageal varices is **required at diagnosis** (9.21). The **non-invasive Baveno VII varices criteria used in cirrhosis cannot be applied to PSVD** (9.22) — do not use LSM/platelet cut-offs to avoid endoscopy here.
 - Follow-up variceal-screening interval is not yet defined; manage varices per cirrhosis guidelines **except stopping rules** (9.23).
 - Insufficient data on which therapy to prefer for portal-hypertension prophylaxis in PSVD (9.24).
 
@@ -99,7 +99,7 @@ PSVD is defined **histologically + clinically**, not by a stage. The diagnostic 
 
 ## See Also
 
-[[portal-hypertension]], [[cirrhosis]], [[portal-vein-thrombosis]], [[budd-chiari-syndrome]], [[liver-biopsy]], [[liver-stiffness-measurement]], [[hepatic-venous-pressure-gradient]], [[variceal-upper-gi-bleeding]], [[tips]], [[liver-transplantation]]
+[[portal-hypertension]], [[cirrhosis]], [[portal-vein-thrombosis]], [[budd-chiari-syndrome]], [[liver-biopsy]], [[liver-stiffness-measurement]], [[hepatic-venous-pressure-gradient]], [[variceal-upper-gi-bleeding]], [[tips]], [[liver-transplantation]], [[upper-endoscopy]], [[ascites]]
 
 ---
 

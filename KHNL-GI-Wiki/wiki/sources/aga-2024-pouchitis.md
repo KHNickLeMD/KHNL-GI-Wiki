@@ -3,7 +3,7 @@ title: "AGA Clinical Practice Guideline: Management of Pouchitis and Inflammator
 category: source
 tags: [pouchitis, ipaa, ulcerative-colitis, ibd, antibiotics, probiotics, guideline, aga]
 created: 2026-06-04
-updated: 2026-06-04
+updated: 2026-08-14
 sources: []
 ---
 
@@ -46,3 +46,11 @@ Provides a stepwise antibiotic-first algorithm with escalation to biologics for 
 ## See Also
 
 [[ulcerative-colitis]], [[inflammatory-bowel-disease]], [[crohns-disease]]
+
+## Relevance to Wiki
+
+Wiki pages built on or citing this source:
+
+- [[ibd-endoscopic-scoring|IBD Endoscopic Scoring Indices]]
+- [[pouchitis|Pouchitis]]
+- [[ulcerative-colitis|Ulcerative Colitis]]

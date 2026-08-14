@@ -3,7 +3,7 @@ title: "AASLD Practice Guideline: Noninvasive Assessment of Portal Hypertension 
 category: source
 tags: [nilda, portal-hypertension, csph, lsm, spleen-stiffness, baveno, varices, guidance, aasld]
 created: 2026-06-04
-updated: 2026-06-04
+updated: 2026-08-14
 sources: []
 ---
 
@@ -43,3 +43,11 @@ Lets clinicians noninvasively triage [[portal-hypertension]] severity and **safe
 ## See Also
 
 [[portal-hypertension]], [[noninvasive-liver-disease-assessment]], [[variceal-upper-gi-bleeding]], [[upper-endoscopy]]
+
+## Relevance to Wiki
+
+Wiki pages built on or citing this source:
+
+- [[cirrhosis|Cirrhosis]]
+- [[liver-stiffness-measurement|Liver Stiffness Measurement (Elastography)]]
+- [[noninvasive-liver-disease-assessment|Noninvasive Liver Disease Assessment (NILDA)]]

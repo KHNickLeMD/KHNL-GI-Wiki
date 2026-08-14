@@ -3,7 +3,7 @@ title: "ACG Clinical Guideline: Hepatic Encephalopathy (2026)"
 category: source
 tags: [hepatic-encephalopathy, cirrhosis, lactulose, rifaximin, liver-transplant, guideline, acg]
 created: 2026-06-04
-updated: 2026-06-04
+updated: 2026-08-14
 sources: []
 ---
 
@@ -61,3 +61,10 @@ Reinforces lactulose → add rifaximin as the backbone, formally deprioritizes a
 ## See Also
 
 [[hepatic-encephalopathy]], [[rifaximin]], [[liver-transplantation]], [[portal-hypertension]], [[nutrition-in-liver-disease]], [[acute-on-chronic-liver-failure]]
+
+## Relevance to Wiki
+
+Wiki pages built on or citing this source:
+
+- [[hepatic-encephalopathy|Hepatic Encephalopathy]]
+- [[rifaximin|Rifaximin]]

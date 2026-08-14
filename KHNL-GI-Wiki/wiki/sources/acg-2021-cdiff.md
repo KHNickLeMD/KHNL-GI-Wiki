@@ -3,7 +3,7 @@ title: "ACG 2021: Prevention, Diagnosis, and Treatment of Clostridioides diffici
 category: source
 tags: [cdiff, clostridioides-difficile, colitis, vancomycin, fidaxomicin, fmt]
 created: 2026-05-15
-updated: 2026-05-28
+updated: 2026-08-14
 sources: []
 ---
 
@@ -11,6 +11,7 @@ sources: []
 
 - **Article:** [ACG 2021: Prevention, Diagnosis, and Treatment of Clostridioides difficile Infections.](https://doi.org/10.14309/ajg.0000000000001278)
 - **DOI:** [10.14309/ajg.0000000000001278](https://doi.org/10.14309/ajg.0000000000001278)
+- **Type:** guideline (ACG Clinical Guideline, GRADE)
 Kelly CR, Fischer M, Allegretti JR, LaPlante K, Stewart DB, Limketkai BN, Stollman NH. ACG Clinical Guidelines: Prevention, Diagnosis, and Treatment of Clostridioides difficile Infections. Am J Gastroenterol. 2021;116(6):1124–1147. <https://doi.org/10.14309/ajg.0000000000001278>. Published online May 18, 2021.
 
 Guideline body: American College of Gastroenterology (ACG). Evidence graded using GRADE methodology. Complementary to 2018 IDSA/SHEA guidelines.

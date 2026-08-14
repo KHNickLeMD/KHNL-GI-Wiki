@@ -3,7 +3,7 @@ title: "Norovirus Gastroenteritis"
 category: disease-script
 tags: [norovirus, viral-gastroenteritis, diarrhea, infectious-diarrhea, outbreak]
 created: 2026-05-19
-updated: 2026-08-13
+updated: 2026-08-14
 sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
 ---
 
@@ -13,7 +13,7 @@ Most common cause of epidemic gastroenteritis in the US. Very low infectious ino
 
 ### Establishing the Diagnosis
 
-- Abrupt onset of **vomiting** (often prominent) + watery, **non-bloody** diarrhea, cramps, low-grade fever; self-limited over **24–72 h**.
+- Abrupt onset of **[[nausea-and-vomiting|vomiting]]** (often prominent) + watery, **non-bloody** diarrhea, cramps, low-grade fever; self-limited over **24–72 h**.
 - Usually a **clinical/epidemiologic diagnosis** in an outbreak; confirm with **multiplex GI PCR** when etiology is needed. Fresh stool is the preferred specimen for viral agents. [[idsa-2017-infectious-diarrhea]]
 - Serology, fecal leukocytes, and lactoferrin should **not** be used to establish etiology. [[idsa-2017-infectious-diarrhea]]
 
@@ -54,7 +54,7 @@ Most common cause of epidemic gastroenteritis in the US. Very low infectious ino
 
 ## See Also
 
-[[acute-diarrhea]], [[rotavirus]], [[campylobacter-infection]], [[salmonella-infection]], [[shigellosis]], [[clostridioides-difficile]], [[loperamide]], [[rifaximin]]
+[[acute-diarrhea]], [[nausea-and-vomiting]], [[rotavirus]], [[campylobacter-infection]], [[salmonella-infection]], [[shigellosis]], [[clostridioides-difficile]], [[loperamide]], [[rifaximin]]
 
 ---
 

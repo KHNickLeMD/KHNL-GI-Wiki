@@ -3,7 +3,7 @@ title: "Chronic Pancreatitis"
 category: disease-script
 tags: [pancreatitis, chronic, pancreas, hpb, exocrine-insufficiency, pain]
 created: 2026-05-16
-updated: 2026-08-12
+updated: 2026-08-14
 sources: [acg-2020-chronic-pancreatitis, acg-2020-sibo, asge-2024-chronic-pancreatitis-endoscopy, apa-2014-chronic-pancreatitis, aga-2022-recurrent-pancreatitis-endoscopy]
 ---
 
@@ -250,7 +250,7 @@ Experimental (research only): spinal cord stim, transmagnetic stim, radiation (K
 
 ## See Also
 
-[[acute-pancreatitis]], [[recurrent-acute-pancreatitis]], [[pancreas-divisum]], [[pancreatic-cancer]], [[pancreatic-cysts]], [[hereditary-pancreatitis]], [[biliary-stricture]], [[endoscopic-ultrasound]], [[ercp]], [[mri-mrcp]], [[pancreatic-cancer-screening]], [[small-intestinal-bacterial-overgrowth]]
+[[acute-pancreatitis]], [[recurrent-acute-pancreatitis]], [[pancreas-divisum]], [[pancreatic-cancer]], [[pancreatic-cysts]], [[hereditary-pancreatitis]], [[exocrine-pancreatic-insufficiency]], [[biliary-stricture]], [[acute-cholecystitis]], [[endoscopic-ultrasound]], [[ercp]], [[mri-mrcp]], [[pancreatic-cancer-screening]], [[small-intestinal-bacterial-overgrowth]], [[proton-pump-inhibitors]]
 
 ---
 

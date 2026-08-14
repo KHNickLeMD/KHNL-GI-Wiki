@@ -3,13 +3,13 @@ title: "Variceal Upper GI Bleeding"
 category: diagnostic-schema
 tags: [cirrhosis, portal-hypertension, variceal-bleeding, upper-gi-bleeding, hemostasis, antibiotic-prophylaxis, TIPS, EVL, carvedilol, NSBB, gastric-varices, preemptive-TIPS]
 created: 2026-05-15
-updated: 2026-08-12
+updated: 2026-08-14
 sources: [albhaisi-2025-prophylactic-antibiotics-cirrhosis, aasld-2023-portal-hypertension, baveno-vii-2022-portal-hypertension, aga-2024-vasoactive-albumin-cirrhosis]
 ---
 
 ## Definition / Scope
 
-Acute variceal hemorrhage (AVH) refers to hemorrhage from esophageal or gastric varices in the setting of [[portal-hypertension|portal hypertension]] (PH), most commonly due to [[cirrhosis]]. It is a life-threatening emergency with 6-week mortality of approximately 15–20%. Varices form when HVPG exceeds 10–12 mmHg; bleeding risk rises sharply above 12 mmHg; HVPG >20 mmHg at index bleed = high-risk for treatment failure.
+Acute variceal hemorrhage (AVH) refers to hemorrhage from esophageal or gastric varices in the setting of [[portal-hypertension|portal hypertension]] (PH), most commonly due to [[cirrhosis]]. It is a life-threatening emergency with 6-week mortality of approximately 15–20%. Varices form when [[hepatic-venous-pressure-gradient|HVPG]] exceeds 10–12 mmHg; bleeding risk rises sharply above 12 mmHg; HVPG >20 mmHg at index bleed = high-risk for treatment failure.
 
 Distinct from non-variceal [[upper-gi-bleeding|UGIB]] (peptic ulcer, Mallory-Weiss, Dieulafoy) in management priorities: vasoactive agents, [[antibiotic-prophylaxis-cirrhosis|antibiotic prophylaxis]], and early [[tips|TIPS]] consideration are specific to variceal hemorrhage. See [[portal-hypertension]] for PH staging (cACLD/CSPH), surveillance decisions, and primary prophylaxis.
 
@@ -53,7 +53,7 @@ In a cirrhotic patient with UGIB, consider:
 6. **Preemptive TIPS** (GS 32) — within **72 hours, ideally within 24 hours** of index EGD:
    - **Indications:** CTP class B score >7 with active bleeding on endoscopy, OR CTP class C score 10–13
    - **Baveno VII (6.27) adds a third limb:** CTP class C **<14 points**, or CTP class B **>7 with active bleeding at initial endoscopy**, or **HVPG >20 mmHg at the time of haemorrhage** [[baveno-vii-2022-portal-hypertension]]
-   - **ACLF, hepatic encephalopathy at admission, and hyperbilirubinaemia are NOT contraindications** to preemptive TIPS (B.1, 6.28)
+   - **[[acute-on-chronic-liver-failure|ACLF]], hepatic encephalopathy at admission, and hyperbilirubinaemia are NOT contraindications** to preemptive TIPS (B.1, 6.28)
    - **TIPS may be futile** at CTP ≥14, or MELD >30 with lactate >12 mmol/L, unless short-term transplant is planned — decide case-by-case (B.1/D.1, 6.31)
    - Haemodynamic target: post-TIPS PPG **<12 mmHg** (near-complete protection from PH bleeding); ≥50% relative reduction may also suffice (A.1/B.2, 1.23)
    - If TIPS not locally available → transfer to capable center
@@ -73,7 +73,7 @@ In a cirrhotic patient with UGIB, consider:
 
 **Baveno VII additions to the bundle** [[baveno-vii-2022-portal-hypertension]]:
 
-- **Cross-sectional imaging for everyone:** all patients with AVB should get contrast-enhanced CT or MRI to exclude splanchnic vein thrombosis and [[hepatocellular-carcinoma|HCC]] and to map portosystemic collaterals (D.1, 6.26) — not only gastric/ectopic bleeds
+- **Cross-sectional imaging for everyone:** all patients with AVB should get contrast-enhanced CT or MRI to exclude [[portal-vein-thrombosis|splanchnic vein thrombosis]] and [[hepatocellular-carcinoma|HCC]] and to map portosystemic collaterals (D.1, 6.26) — not only gastric/ectopic bleeds
 - **Lactulose (oral or enema) to clear blood from the gut** to prevent HE (B.1, 6.33); treat bouts of HE with lactulose (D.1, 6.32)
 - **Do not chase the coagulopathy** — the target is portal pressure, not INR (B.1, 6.34). PT/INR and aPTT do not reflect haemostasis in advanced liver disease (B.1, 6.35). **No FFP** (B.1, 6.36); **no recombinant factor VIIa and no tranexamic acid** (A.1, 6.38). Platelet count and fibrinogen do not predict failure to control bleeding; correct only case-by-case if bleeding is uncontrolled (D.2, 6.37). See [[cirrhosis-hemostasis]]
 - **Anticoagulants** should be temporarily held until haemorrhage is controlled; length of interruption individualised to the strength of the indication (D.2, 6.39)
@@ -126,7 +126,7 @@ Standard practice recommends prophylactic antibiotics to prevent bacterial infec
 
 ## See Also
 
-[[portal-hypertension]], [[cirrhosis]], [[porto-sinusoidal-vascular-disorder]], [[tips]], [[upper-gi-bleeding]], [[acute-lower-gi-bleeding]], [[ascites]], [[spontaneous-bacterial-peritonitis]], [[hepatic-encephalopathy]], [[peptic-ulcer-disease]], [[helicobacter-pylori-infection]], [[liver-transplantation]], [[antibiotic-prophylaxis-cirrhosis]], [[somatostatin-analogs]], [[nutrition-in-liver-disease]], [[cirrhosis-hemostasis]], [[rifaximin]], [[upper-endoscopy]]
+[[portal-hypertension]], [[cirrhosis]], [[porto-sinusoidal-vascular-disorder]], [[tips]], [[upper-gi-bleeding]], [[acute-lower-gi-bleeding]], [[ascites]], [[spontaneous-bacterial-peritonitis]], [[hepatic-encephalopathy]], [[peptic-ulcer-disease]], [[helicobacter-pylori-infection]], [[liver-transplantation]], [[antibiotic-prophylaxis-cirrhosis]], [[somatostatin-analogs]], [[nutrition-in-liver-disease]], [[cirrhosis-hemostasis]], [[rifaximin]], [[upper-endoscopy]], [[hepatic-venous-pressure-gradient]], [[acute-on-chronic-liver-failure]], [[portal-vein-thrombosis]]
 
 ---
 

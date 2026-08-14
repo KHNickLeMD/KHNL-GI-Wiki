@@ -3,7 +3,7 @@ title: "AGA Clinical Practice Guideline: Role of Biomarkers for the Management o
 category: source
 tags: [crohns-disease, biomarkers, fecal-calprotectin, crp, treat-to-target, ibd, guideline, aga]
 created: 2026-06-04
-updated: 2026-06-04
+updated: 2026-08-14
 sources: []
 ---
 
@@ -44,3 +44,9 @@ Embeds noninvasive biomarkers (calprotectin <150, CRP) into [[crohns-disease]] m
 ## See Also
 
 [[crohns-disease]], [[inflammatory-bowel-disease]], [[ulcerative-colitis]]
+
+## Relevance to Wiki
+
+Wiki pages built on or citing this source:
+
+- [[crohns-disease|Crohn's Disease]]

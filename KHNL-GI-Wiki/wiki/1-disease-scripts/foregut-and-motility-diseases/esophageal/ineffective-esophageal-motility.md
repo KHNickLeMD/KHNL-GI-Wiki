@@ -3,7 +3,7 @@ title: "Ineffective Esophageal Motility"
 category: disease-script
 tags: [iem, motility, esophageal, dysphagia, gerd, chicago-classification]
 created: 2026-05-16
-updated: 2026-08-06
+updated: 2026-08-14
 sources: [chicago-v4-2021-esophageal-dysmotility, aga-2025-flip-esophageal, acg-2020-esophageal-physiologic-testing]
 ---
 
@@ -22,7 +22,7 @@ IEM is defined by **Chicago Classification v4.0** on [[high-resolution-manometry
 
 **Clinical significance:** IEM is a minor motility disorder; most patients have mild or no symptoms. Clinical significance is primarily in:
 
-- Pre-[[antireflux-surgery|anti-reflux surgery]] evaluation — impaired peristaltic reserve raises [[dysphagia]] risk post-wrap
+- Pre-[[antireflux-surgery|anti-reflux surgery]] evaluation — impaired peristaltic reserve raises dysphagia risk post-wrap
 - Dysphagia workup when other causes excluded
 - Systemic disease associations ([[esophageal-dysfunction-systemic-disease|scleroderma, CREST syndrome]] can cause severe IEM → absent contractility)
 

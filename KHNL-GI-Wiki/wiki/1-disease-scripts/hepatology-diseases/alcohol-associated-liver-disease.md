@@ -3,7 +3,7 @@ title: "Alcohol-Associated Liver Disease"
 category: disease-script
 tags: [ald, alcoholic-hepatitis, cirrhosis, liver, hpb, aud, corticosteroids, liver-transplant, lille-score, meld, mdf, nac, pentoxifylline, transplant-candidate-evaluation, post-transplant, recurrence, naltrexone, acamprosate, baclofen, peth, stopah]
 created: 2026-05-07
-updated: 2026-08-11
+updated: 2026-08-14
 sources: [acg-2024-ald, acg-2017-liver-chemistries, aasld-ast-2025-liver-transplant-candidate-evaluation, aasld-ast-2025-liver-transplant-graft-complications, aasld-2020-ald, acg-2019-hereditary-hemochromatosis]
 ---
 
@@ -143,7 +143,7 @@ AASLD 2020 GS-1: *"All patients receiving care in primary care and gastroenterol
 
 ### Imaging
 
-- **Liver ultrasound (US):** first-line; evaluate echogenicity (steatosis), [[portal-hypertension|portal hypertension]] signs, exclude biliary obstruction, screen for HCC
+- **Liver ultrasound (US):** first-line; evaluate echogenicity (steatosis), [[portal-hypertension|portal hypertension]] signs, exclude biliary obstruction, [[hcc-surveillance|screen for HCC]]
 - **CT abdomen with contrast:** evaluate for complications ([[ascites]], [[portal-vein-thrombosis|portal vein thrombosis]]), mass lesions; not required routinely
 - **[[mri-mrcp|MRCP]]:** if biliary obstruction suspected
 
@@ -224,7 +224,7 @@ ALD risk is influenced by genetic variants in lipid metabolism and alcohol oxida
 
 AASLD 2020 GS-17: *"Patients with AH should have malnutrition addressed and treated, preferably with enteral nutrition."* [[aasld-2020-ald]]
 
-- Malnutrition is near-universal in AH; daily caloric intake <21.5 kcal/kg/day associated with increased infection and 6-month mortality (65.8% vs. 33.1%; P<0.0001)
+- [[nutrition-in-liver-disease|Malnutrition]] is near-universal in AH; daily caloric intake <21.5 kcal/kg/day associated with increased infection and 6-month mortality (65.8% vs. 33.1%; P<0.0001)
 - **Enteral nutrition goal: >21 kcal/kg/day** (per AASLD 2020 treatment algorithm Fig. 3)
 - High-calorie, high-protein enteral nutrition preferred (1.2–1.5 g/kg/day protein); NG tube if oral intake inadequate
 - *Intensive EN compared with conventional nutrition in the STOPAH setting showed no additional survival benefit and poor NG tube tolerance — high-quality intensive EN does not replace corticosteroids*
@@ -260,7 +260,7 @@ All ALD patients should receive AUD treatment [[acg-2024-ald]], [[aasld-2020-ald
 
 ### 5. Management of Complications
 
-- **[[ascites]]/[[spontaneous-bacterial-peritonitis|SBP]]:** diuretics (spironolactone ± furosemide), large-volume paracentesis, prophylactic norfloxacin
+- **[[ascites]]/[[spontaneous-bacterial-peritonitis|SBP]]:** diuretics (spironolactone ± furosemide), large-volume paracentesis, [[antibiotic-prophylaxis-cirrhosis|prophylactic norfloxacin]]
 - **[[hepatic-encephalopathy|Hepatic encephalopathy]]:** lactulose, [[rifaximin]]
 - **Hepatorenal syndrome:** midodrine + [[somatostatin-analogs|octreotide]] + albumin; norepinephrine preferred in ICU
 - **Esophageal varices:** non-selective beta-blockers (NSBB); endoscopic band ligation (see [[variceal-upper-gi-bleeding|variceal bleeding]])
@@ -339,7 +339,7 @@ Per [[aasld-ast-2025-liver-transplant-graft-complications]] (recommendations for
 
 ## See Also
 
-[[abnormal-liver-chemistries]], [[liver-transplantation]], [[aki-in-cirrhosis]], [[acute-pancreatitis]], [[nafld-masld]], [[hereditary-hemochromatosis]], [[portal-hypertension]], [[acute-on-chronic-liver-failure]], [[hepatic-encephalopathy]], [[hepatocellular-carcinoma]], [[autoimmune-hepatitis]], [[wilson-disease]], [[drug-induced-liver-injury]], [[variceal-upper-gi-bleeding]], [[spontaneous-bacterial-peritonitis]], [[ascites]], [[portal-vein-thrombosis]], [[hepatitis-c]], [[chronic-hepatitis-b]], [[liver-biopsy]], [[mri-mrcp]], [[upper-gi-bleeding]], [[rifaximin]]
+[[abnormal-liver-chemistries]], [[liver-transplantation]], [[aki-in-cirrhosis]], [[acute-pancreatitis]], [[nafld-masld]], [[hereditary-hemochromatosis]], [[portal-hypertension]], [[acute-on-chronic-liver-failure]], [[hepatic-encephalopathy]], [[hepatocellular-carcinoma]], [[autoimmune-hepatitis]], [[wilson-disease]], [[drug-induced-liver-injury]], [[variceal-upper-gi-bleeding]], [[spontaneous-bacterial-peritonitis]], [[ascites]], [[portal-vein-thrombosis]], [[hepatitis-c]], [[chronic-hepatitis-b]], [[liver-biopsy]], [[mri-mrcp]], [[upper-gi-bleeding]], [[rifaximin]], [[hcc-surveillance]], [[nutrition-in-liver-disease]], [[antibiotic-prophylaxis-cirrhosis]]
 
 ---
 

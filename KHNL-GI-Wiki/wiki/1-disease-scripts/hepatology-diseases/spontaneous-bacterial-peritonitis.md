@@ -3,7 +3,7 @@ title: "Spontaneous Bacterial Peritonitis"
 category: disease-script
 tags: [sbp, ascites, cirrhosis, peritonitis, cefotaxime, albumin]
 created: 2026-05-15
-updated: 2026-08-11
+updated: 2026-08-14
 sources: [aasld-2021-ascites-sbp-hrs, aga-2024-vasoactive-albumin-cirrhosis]
 ---
 
@@ -176,7 +176,7 @@ The [[aga-2024-vasoactive-albumin-cirrhosis|AGA 2024 vasoactive/albumin CPU]] fr
 
 **Indication:** Prior documented episode of SBP
 
-Patients with prior SBP have ~68% 1-year recurrence rate without prophylaxis.
+Patients with prior SBP have ~68% 1-year recurrence rate without [[antibiotic-prophylaxis-cirrhosis|antibiotic prophylaxis]].
 
 - **Oral ciprofloxacin 500 mg/day** (preferred agent in the US since norfloxacin was withdrawn from US market in 2014)
   - Norfloxacin data: reduces 1-year recurrence from 68% to 20%

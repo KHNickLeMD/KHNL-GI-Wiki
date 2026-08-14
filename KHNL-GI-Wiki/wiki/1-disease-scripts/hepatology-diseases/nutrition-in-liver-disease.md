@@ -3,7 +3,7 @@ title: "Nutrition in Liver Disease"
 category: disease-script
 tags: [liver, cirrhosis, malnutrition, sarcopenia, hepatic-encephalopathy, bcaa, vitamin-e, mash, masld, ald, coffee, nutrition]
 created: 2026-05-07
-updated: 2026-07-23
+updated: 2026-08-14
 sources: [acg-2025-liver-nutrition, aasld-2021-malnutrition-cirrhosis]
 ---
 
@@ -51,7 +51,7 @@ Malnutrition in liver disease is multifactorial:
 - Unpalatable sodium-restricted or protein-restricted diets
 - Hormonal (decreased testosterone) and cytokine (TNF) effects
 - Complications of liver disease: [[ascites]], [[hepatic-encephalopathy|HE]] impairing dietary intake
-- Fasting for procedures; interruption of feeding in hospital
+- Fasting for procedures; interruption of [[nutrition-in-hospitalized-patients|feeding in hospital]]
 - Alcohol calories ("empty calories") replacing protein-rich food in AUD
 
 ---
@@ -95,7 +95,7 @@ Malnutrition in liver disease is multifactorial:
 |---|---|---|
 | Hospitalized cirrhosis with poor oral intake | Early oral/enteral nutrition supplementation | Conditional/Low |
 | Cirrhosis or AAH | Nutritional supplementation therapy | Conditional/Very low |
-| Preferred route | Enteral (over parenteral) | — |
+| Preferred route | [[enteral-access\|Enteral]] (over parenteral) | — |
 
 ### Disease-Specific Nutritional Recommendations
 
@@ -137,7 +137,7 @@ Malnutrition in liver disease is multifactorial:
 
 ## See Also
 
-[[hepatic-encephalopathy]], [[ascites]], [[nafld-masld]], [[alcohol-associated-liver-disease]], [[hepatocellular-carcinoma]], [[rifaximin]], [[liver-transplantation]], [[acute-on-chronic-liver-failure]], [[nutrition-in-hospitalized-patients]], [[obesity]], [[gastroparesis]], [[small-intestinal-bacterial-overgrowth]], [[chronic-diarrhea]], [[nausea-and-vomiting]]
+[[hepatic-encephalopathy]], [[ascites]], [[nafld-masld]], [[alcohol-associated-liver-disease]], [[hepatocellular-carcinoma]], [[rifaximin]], [[liver-transplantation]], [[acute-on-chronic-liver-failure]], [[nutrition-in-hospitalized-patients]], [[obesity]], [[gastroparesis]], [[small-intestinal-bacterial-overgrowth]], [[chronic-diarrhea]], [[nausea-and-vomiting]], [[enteral-access]], [[cirrhosis]]
 
 ---
 

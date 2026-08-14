@@ -3,7 +3,7 @@ title: "Hypercontractile Esophagus (Jackhammer Esophagus)"
 category: disease-script
 tags: [hypercontractile, jackhammer, esophageal, motility, dysphagia, chest-pain, chicago-classification]
 created: 2026-05-16
-updated: 2026-07-29
+updated: 2026-08-14
 sources: [chicago-v4-2021-esophageal-dysmotility, aga-2025-flip-esophageal, acg-2020-achalasia, aga-2024-poem-advances]
 ---
 
@@ -42,7 +42,7 @@ Hypercontractile esophagus (jackhammer esophagus) is defined by **Chicago Classi
 
 - Exclude EGJ obstruction and [[achalasia]] spectrum before treating (elevated IRP → investigate with TBE/FLIP)
 - Treat co-existent [[gerd|GERD]]; hypercontractile esophagus is **not** an absolute contraindication to [[antireflux-surgery|anti-reflux surgery (ARS)]] when the patient has objective GERD and partial [[proton-pump-inhibitors|PPI]] response — evaluate carefully pre-operatively (Padova consensus — see [[hrm-antireflux-surgery]])
-- [[poem|POEM]] considered for refractory [[dysphagia]]-predominant disease ([[acg-2020-achalasia]] frames longer myotomy for spastic disease)
+- [[poem|POEM]] considered for refractory dysphagia-predominant disease ([[acg-2020-achalasia]] frames longer myotomy for spastic disease)
 - **AGA 2024 CPU caveat:** for **nonachalasia** spastic disorders, POEM evidence is limited — reserve for **case-by-case** use after less invasive options (medical therapy, botulinum toxin, endoscopic dilation) are exhausted, with symptoms correlated to manometry ([[aga-2024-poem-advances|AGA 2024]] BPA 3)
 
 *Medical management specific to hypercontractile esophagus (smooth-muscle relaxants, neuromodulators) is not covered by an ingested source — awaiting a dedicated source.*

@@ -3,7 +3,7 @@ title: "Upper GI Bleeding"
 category: diagnostic-schema
 tags: [ugib, peptic-ulcer, gi-bleeding, endoscopy, forrest, glasgow-blatchford, melena]
 created: 2026-05-15
-updated: 2026-08-13
+updated: 2026-08-14
 sources: [acg-2021-ugib]
 ---
 
@@ -61,7 +61,7 @@ If UGIB is clinically suspected in a patient presenting with apparent LGIB, perf
 
 - Hemobilia (biliary source — trauma, instrumentation)
 - Hemosuccus pancreaticus (pancreatic pseudoaneurysm)
-- Esophagitis / erosive esophagitis (rarely massive)
+- Esophagitis / [[gerd|erosive esophagitis]] (rarely massive)
 
 ---
 
@@ -296,7 +296,7 @@ High-risk stigmata (Forrest Ia, Ib, IIa) mandate endoscopic hemostatic therapy. 
 
 ## See Also
 
-[[variceal-upper-gi-bleeding]], [[acute-lower-gi-bleeding]], [[small-bowel-bleeding]], [[peptic-ulcer-disease]], [[helicobacter-pylori-infection]], [[upper-endoscopy]], [[colonoscopy]], [[portal-hypertension]], [[cirrhosis]], [[anticoagulation-gi-bleeding]], [[angioectasia]], [[gastric-adenocarcinoma]], [[esophageal-cancer]], [[argon-plasma-coagulation]], [[proton-pump-inhibitors]], [[iron-deficiency-anemia]], [[dysphagia]], [[jaundice]], [[ascites]]
+[[variceal-upper-gi-bleeding]], [[acute-lower-gi-bleeding]], [[small-bowel-bleeding]], [[peptic-ulcer-disease]], [[helicobacter-pylori-infection]], [[upper-endoscopy]], [[colonoscopy]], [[portal-hypertension]], [[cirrhosis]], [[anticoagulation-gi-bleeding]], [[angioectasia]], [[gastric-adenocarcinoma]], [[esophageal-cancer]], [[argon-plasma-coagulation]], [[proton-pump-inhibitors]], [[iron-deficiency-anemia]], [[dysphagia]], [[jaundice]], [[ascites]], [[gerd]]
 
 ---
 

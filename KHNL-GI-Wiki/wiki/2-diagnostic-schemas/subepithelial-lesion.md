@@ -3,7 +3,7 @@ title: "Subepithelial Lesion (SEL)"
 category: diagnostic-schema
 tags: [subepithelial-lesion, gist, leiomyoma, carcinoid, net, lipoma, eus, endoscopy]
 created: 2026-05-15
-updated: 2026-08-12
+updated: 2026-08-14
 sources: [acg-2023-subepithelial-lesions, asge-2017-subepithelial-lesions]
 ---
 
@@ -50,7 +50,7 @@ A **subepithelial lesion** is a mass or mass-like structure that projects into t
 | Leiomyoma | Esophagus | MM, MP | None | Yes |
 | Granular cell tumor | Esophagus | MM, SM | Rare | Yes |
 | Duplication/bronchogenic cyst | Esophagus/mediastinum | Any/extrinsic | Extremely rare | No |
-| Esophageal varices | Esophagus | SM | None | No |
+| [[variceal-upper-gi-bleeding\|Esophageal varices]] | Esophagus | SM | None | No |
 | Spine / xyphoid | Fundus | Extrinsic | None | No |
 | GIST | Stomach (most common) | MM, MP | Yes | Yes |
 | Heterotopic pancreas (pancreatic rest) | Gastric antrum | MM, SM, MP | Extremely rare | No (often) |
@@ -298,7 +298,7 @@ Small-intestine GISTs are **more aggressive** (40–50% malignant vs 20–25% ga
 
 ## See Also
 
-[[endoscopic-ultrasound]], [[polypectomy]], [[endoscopic-mucosal-resection]], [[endoscopic-submucosal-dissection]], [[endoscopic-full-thickness-resection]], [[gastrointestinal-stromal-tumor]], [[gastroenteropancreatic-neuroendocrine-tumors]], [[atrophic-gastritis]], [[colonoscopy]], [[upper-endoscopy]], [[antibiotic-prophylaxis-endoscopy]], [[small-bowel-bleeding]]
+[[endoscopic-ultrasound]], [[polypectomy]], [[endoscopic-mucosal-resection]], [[endoscopic-submucosal-dissection]], [[endoscopic-full-thickness-resection]], [[gastrointestinal-stromal-tumor]], [[gastroenteropancreatic-neuroendocrine-tumors]], [[atrophic-gastritis]], [[colonoscopy]], [[upper-endoscopy]], [[antibiotic-prophylaxis-endoscopy]], [[small-bowel-bleeding]], [[variceal-upper-gi-bleeding]]
 
 ---
 
