@@ -3,8 +3,8 @@ title: "Intrahepatic Cholestasis of Pregnancy"
 category: disease-script
 tags: [pregnancy, intrahepatic-cholestasis, icp, ihcp, bile-acids, pruritus, udca, liver, hpb, stillbirth]
 created: 2026-07-26
-updated: 2026-07-26
-sources: [aga-2024-pregnancy-gi-liver]
+updated: 2026-08-14
+sources: [aga-2024-pregnancy-gi-liver, acg-2016-liver-disease-pregnancy]
 ---
 
 # Intrahepatic Cholestasis of Pregnancy
@@ -24,7 +24,9 @@ sources: [aga-2024-pregnancy-gi-liver]
 
 ## Assessment
 
-Most common pregnancy-specific liver disease; frequency **0.3–0.5%**. Onset in the **second or third trimester**. Family history often present; associated with multiparity and multifetal pregnancy. Recurs in **45%–70%** of subsequent pregnancies. ([[aga-2024-pregnancy-gi-liver]])
+Most common pregnancy-specific liver disease; frequency **0.3–0.5%**. Onset in the **second or third trimester**. Family history often present; associated with multiparity and multifetal pregnancy. Recurs in **45%–70%** of subsequent pregnancies. Fetal stillbirth risk; fetal mortality **0.4%–1%**. ([[aga-2024-pregnancy-gi-liver]])
+
+> ⚠ **Source disagreement (prevalence):** the older [[acg-2016-liver-disease-pregnancy|ACG 2016]] guideline quotes prevalence **0.3%–5.6%**. The newer AGA 2024 figure (0.3%–0.5%) is what this page asserts.
 
 ### Establishing the Diagnosis
 
@@ -59,9 +61,11 @@ Most common pregnancy-specific liver disease; frequency **0.3–0.5%**. Onset in
 
 ### Ursodeoxycholic Acid
 
-- **Oral ursodeoxycholic acid (UDCA) 10–15 mg/kg/day** (total daily dose, divided) — first-line. ([[aga-2024-pregnancy-gi-liver]] BPA 10)
+- **Oral ursodeoxycholic acid (UDCA) 10–15 mg/kg/day** (total daily dose, divided) — first-line. ([[aga-2024-pregnancy-gi-liver]] BPA 10; [[acg-2016-liver-disease-pregnancy|ACG 2016]] — *strong recommendation, moderate level of evidence*)
 - Improves pruritus and lowers serum bile acids and ALT; meta-analysis found decreased adverse outcomes including **preterm birth and stillbirth**.
+- UDCA is **more effective than cholestyramine or dexamethasone** for controlling pruritus; it increases bile salt export pump expression and placental bile transporters. ([[acg-2016-liver-disease-pregnancy]])
 - Additional pruritus control: **cholestyramine** and **rifampicin**. ([[aga-2024-pregnancy-gi-liver]])
+- **Dexamethasone** may be used to promote fetal lung maturity before delivery, given the higher rate of prematurity in ICP. ([[acg-2016-liver-disease-pregnancy]])
 
 ### Delivery Timing (by total bile acids)
 
@@ -72,6 +76,8 @@ Delivery is advised based on **total serum bile acid levels** ([[aga-2024-pregna
 | **≥100 μmol/L** | **36 weeks** (or at diagnosis if diagnosed after 36 wk) — SMFM; EASL: consider early delivery as stillbirth risk rises after 35 wk |
 | **<100 μmol/L** | **36 or 39 weeks** (if diagnosed later) |
 | **<40 μmol/L** | Delivery at **term** reasonable; individualize |
+
+> ⚠ **Superseded recommendation:** [[acg-2016-liver-disease-pregnancy|ACG 2016]] recommended **early delivery at 37 weeks for all ICP** (*strong recommendation, very low level of evidence*), without bile-acid stratification. The bile-acid–stratified timing above (AGA 2024) is newer and is what this page asserts — but readers carrying the flat 37-week rule should know it changed.
 
 ### Postpartum
 
@@ -87,3 +93,4 @@ Delivery is advised based on **total serum bile acid levels** ([[aga-2024-pregna
 ## Sources
 
 1. [[aga-2024-pregnancy-gi-liver|AGA Clinical Practice Update on Pregnancy-Related Gastrointestinal and Liver Disease: Expert Review]]
+2. [[acg-2016-liver-disease-pregnancy|ACG Clinical Guideline: Liver Disease and Pregnancy (2016)]]

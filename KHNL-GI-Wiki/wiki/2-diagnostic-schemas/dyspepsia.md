@@ -4,7 +4,7 @@ category: diagnostic-schema
 tags: [dyspepsia, functional, stomach, foregut, dgbi, test-and-treat]
 created: 2026-05-16
 updated: 2026-08-14
-sources: [acg-cag-2017-dyspepsia]
+sources: [acg-cag-2017-dyspepsia, rome-v-2026-dgbi]
 ---
 
 ## Definition / Scope
@@ -13,10 +13,12 @@ Dyspepsia refers to one or more of: postprandial fullness, early satiation, epig
 
 **Uninvestigated dyspepsia:** Symptoms present without prior EGD. The test-and-treat strategy for H. pylori (see [[test-and-treat]]) applies in patients **<60** without alarm features (ACG/CAG 2017 raised the age threshold from <55 to <60 in older ACG guidance).
 
-**Functional dyspepsia subtypes (Rome V):**
+**Functional dyspepsia subtypes** — Rome V classifies FD as **B1**, with two subtypes [[rome-v-2026-dgbi]]:
 
-- Postprandial Distress Syndrome (PDS): meal-induced postprandial fullness/early satiation
-- Epigastric Pain Syndrome (EPS): epigastric pain or burning unrelated to meals
+- **B1a — Postprandial Distress Syndrome (PDS):** meal-induced postprandial fullness / early satiation
+- **B1b — Epigastric Pain Syndrome (EPS):** epigastric pain or burning unrelated to meals
+
+Subtype-guided therapy is **not recommended** — no evidence that PDS vs. EPS predicts treatment response [[acg-cag-2017-dyspepsia]].
 
 ---
 
@@ -60,11 +62,7 @@ Dyspepsia refers to one or more of: postprandial fullness, early satiation, epig
 - **Statement 13:** Against routine motility studies
 - **Statement 14:** Motility studies in selected FD where [[gastroparesis]] strongly suspected
 
-**Rome V FD subtypes:**
-
-- Postprandial Distress Syndrome (PDS): meal-induced postprandial fullness/early satiation
-- Epigastric Pain Syndrome (EPS): epigastric pain/burning unrelated to meals
-- Subtype-guided therapy is **not recommended** (ACG/CAG 2017 — no evidence PDS vs. EPS predicts response)
+*FD subtypes (PDS / EPS) and why they do not steer therapy: see [[#Definition / Scope]].*
 
 ---
 

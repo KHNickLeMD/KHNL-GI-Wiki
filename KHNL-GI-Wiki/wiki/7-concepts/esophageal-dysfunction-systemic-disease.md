@@ -3,11 +3,9 @@ title: "Esophageal Dysfunction in Systemic Immune & Inflammatory Disease"
 category: concept
 tags: [esophagus, dysphagia, systemic-sclerosis, mctd, sjogrens, sle, myositis, lichen-planus, pemphigus, hypereosinophilic-syndrome, egpa, secondary-achalasia, dysmotility]
 created: 2026-07-28
-updated: 2026-08-08
+updated: 2026-08-14
 sources: [aga-2024-esophageal-immunity-infection]
 ---
-
-# Esophageal Dysfunction in Systemic Immune & Inflammatory Disease
 
 Framework for the **esophageal manifestations of systemic autoimmune, eosinophilic, and dermatologic disease**, and for **secondary (mimic) achalasia**. These are underrecognized causes of dysphagia, odynophagia, chest pain, and heartburn; endoscopic findings are often nonspecific (rings, edema, exudates, strictures, or a normal esophagus), so diagnosis depends on a high index of suspicion, directed history, and targeted testing.
 

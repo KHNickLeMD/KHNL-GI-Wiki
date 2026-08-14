@@ -9,7 +9,13 @@ sources: [albhaisi-2025-prophylactic-antibiotics-cirrhosis, aasld-2023-portal-hy
 
 ## Definition / Scope
 
-Acute variceal hemorrhage (AVH) refers to hemorrhage from esophageal or gastric varices in the setting of [[portal-hypertension|portal hypertension]] (PH), most commonly due to [[cirrhosis]]. It is a life-threatening emergency with 6-week mortality of approximately 15–20%. Varices form when [[hepatic-venous-pressure-gradient|HVPG]] exceeds 10–12 mmHg; bleeding risk rises sharply above 12 mmHg; HVPG >20 mmHg at index bleed = high-risk for treatment failure.
+Acute variceal hemorrhage (AVH) refers to hemorrhage from esophageal or gastric varices in the setting of [[portal-hypertension|portal hypertension]] (PH), most commonly due to [[cirrhosis]]. Even with modern therapy, **6-week mortality is 10–15%** ([[aasld-2023-portal-hypertension]]) — and 6-week mortality is the standard study endpoint (Baveno VII 6.13), predicted most consistently by Child-Pugh class C, MELD, and failure to achieve primary haemostasis (6.15).
+
+**[[hepatic-venous-pressure-gradient|HVPG]] thresholds as the sources actually state them:**
+
+- **≥10 mmHg = clinically significant portal hypertension (CSPH)** — the pressure at which portosystemic collaterals form and decompensation typically begins (AASLD 2023; Baveno VII 1.10). *(>5 mmHg merely indicates sinusoidal PH, Baveno 1.9.)*
+- **>20 mmHg at the time of haemorrhage** = high risk for treatment failure and a preemptive-TIPS criterion.
+- **<12 mmHg is a post-TIPS haemodynamic target**, not a bleeding-risk threshold — see step 6.
 
 Distinct from non-variceal [[upper-gi-bleeding|UGIB]] (peptic ulcer, Mallory-Weiss, Dieulafoy) in management priorities: vasoactive agents, [[antibiotic-prophylaxis-cirrhosis|antibiotic prophylaxis]], and early [[tips|TIPS]] consideration are specific to variceal hemorrhage. See [[portal-hypertension]] for PH staging (cACLD/CSPH), surveillance decisions, and primary prophylaxis.
 
@@ -38,10 +44,7 @@ In a cirrhotic patient with UGIB, consider:
 
 3. **Start IV antibiotics immediately** (GS 27): **Ceftriaxone 1 g IV q24h up to 5 days** (preferred; especially in Child-Pugh C or high-resistance settings). Norfloxacin 400 mg PO BID × 7 days (alternative in low-resistance, Child-Pugh A/B). De-escalate once bleeding controlled and no active infection. See [[#Antibiotic Prophylaxis]] for the duration controversy.
 
-4. **Risk stratify** using Child-Pugh and MELD (see [[cirrhosis]] for how these scores are applied):
-   - HVPG >20 mmHg at index bleed → high-risk for treatment failure
-   - CTP class B score >7 with active bleeding at EGD → preemptive TIPS candidate
-   - CTP class C score 10–13 → preemptive TIPS candidate
+4. **Risk stratify** using Child-Pugh and MELD (see [[cirrhosis]] for the CTP/MELD-Na criteria themselves). The purpose is to identify preemptive-TIPS candidates — criteria in step 6.
 
 5. **Endoscopy within 12 hours** of presentation (GS 30):
    - IV erythromycin 125–250 mg × 30–120 min before [[upper-endoscopy|EGD]] improves visualization
@@ -117,7 +120,7 @@ Standard practice recommends prophylactic antibiotics to prevent bacterial infec
 
 - Hemodynamic instability not responding to resuscitation → emergent endoscopy/TIPS consultation
 - Active spurting at endoscopy with failed EVL → surgical/IR consult for rescue TIPS or shunt
-- Child-Pugh C (score 10–13) or MELD >19 → early TIPS within 72 hours of presentation
+- CTP class C (score 10–13), or CTP class B >7 with active bleeding at endoscopy, or HVPG >20 mmHg → preemptive TIPS within 72 hours (ideally <24 h). **MELD is not an indication** — AASLD notes only that retrospective series show high mortality despite intervention at **MELD >19**, where early TIPS still beats standard therapy and transplant candidacy should be assessed promptly
 - Fundal/cardiofundal gastric varices (GOV2, IGV1) → do not band; require glue or BRTO/TIPS
 - [[hepatic-encephalopathy|Encephalopathy]] → cautious [[endoscopy-sedation|sedation for endoscopy]]; lactulose/[[rifaximin]]; avoid over-transfusion
 - Rebleed within 5 days → high mortality; escalate to TIPS

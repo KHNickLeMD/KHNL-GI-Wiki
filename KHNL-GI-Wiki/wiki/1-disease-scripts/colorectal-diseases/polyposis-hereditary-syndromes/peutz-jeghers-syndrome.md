@@ -3,7 +3,7 @@ title: "Peutz-Jeghers Syndrome"
 category: disease-script
 tags: [peutz-jeghers, pjs, stk11, lkb1, hamartoma, hereditary-crc, pancreatic-cancer, small-bowel, intussusception, genetic-testing]
 created: 2026-05-19
-updated: 2026-08-08
+updated: 2026-08-14
 sources: [acg-2015-hereditary-gi-cancer, aga-2022-hamartomatous-polyposis]
 ---
 
@@ -33,11 +33,11 @@ Peutz-Jeghers syndrome (PJS) is an autosomal-dominant hamartomatous polyposis sy
 - Histologically distinct hamartomatous polyps in 88–100% of patients
 - Polyps are nondysplastic; have normal overlying epithelium specific to the GI segment in which found; arborizing growth pattern with muscularis mucosae extending into branching fronds
 - Epithelial infolding may cause pseudoinvasion (can be misdiagnosed as cancer)
-- Adenoma and cancer can occur within PJS polyps in ~50%
+- Adenoma and cancer **may** occur within PJS polyps (no frequency given by the source)
 - Polyp distribution by segment: small bowel 96%, stomach 24%, colon 27%, rectum 24%
 - Polyp sizes range from 0.1 to 3 cm; polyp growth begins in first decade but symptoms typically appear in second or third decade
 
-**Genetic testing**: STK11 gene sequencing + deletion/duplication analysis; up to 94% of PJS families have mutations (majority are large deletions); no clear genotype-phenotype correlations [[acg-2015-hereditary-gi-cancer]].
+**Genetic testing**: STK11 gene sequencing + deletion/duplication analysis; up to 94% of PJS families have mutations, **up to a third of which are large deletions**; no clear genotype-phenotype correlations [[acg-2015-hereditary-gi-cancer]].
 
 ### Severity Assessment — Cancer Risks
 
@@ -86,10 +86,13 @@ SCTAT = sex cord tumor with annular tubules; ~20% become malignant. PJS is assoc
 
 - Colonoscopy + EGD + capsule endoscopy q3y from age 18 onward if polyps are found; if no polyps on first exam, repeat at age 18 then q3y
 
-**[[pancreatic-cancer-screening|Pancreatic surveillance]]** (Table 10):
+**[[pancreatic-cancer-screening|Pancreatic surveillance]]** — **MRI/MRCP or [[endoscopic-ultrasound|EUS]] annually starting at age 35** *(Weak, low)* [[aga-2022-hamartomatous-polyposis]]:
 
-- MRI/MRCP or [[endoscopic-ultrasound|EUS]] starting at age **30**, every 1–2 years
-- PJS carries 11–36% lifetime risk of pancreatic adenocarcinoma (up to 132-fold relative risk)
+- Ideally **alternate MRCP and EUS** on an annual basis — they are complementary
+- Add **fasting glucose + HbA1c** at initiation of screening (Cancer of the Pancreas Screening Consortium)
+- Pancreatic cancer lifetime risk and relative risk: see [[#Severity Assessment — Cancer Risks]]
+
+> **Start age — sources differ.** [[acg-2015-hereditary-gi-cancer|ACG 2015]] Table 10 lists pancreas surveillance from **age 30, every 1–2 years**, while its own graded Recommendation 23 says PJS should start at **age 35**. The newer [[aga-2022-hamartomatous-polyposis|USMSTF 2022]] resolves this as **annual, from age 35** (NCCN starts 30–35), which is what this page asserts per source priority (same tier → newer publication wins).
 
 **Breast surveillance** (women):
 
@@ -102,7 +105,7 @@ SCTAT = sex cord tumor with annular tubules; ~20% become malignant. PJS is assoc
 
 **Testicular**:
 
-- Annual testicular exam from birth; ultrasound if abnormalities palpated or feminization occurs; 10–20% of SCTAT become malignant
+- Annual testicular exam from birth (to teenage years); ultrasound if abnormalities palpated or feminization occurs; **10–20% of benign Sertoli cell tumors become malignant**
 
 **Lung**:
 

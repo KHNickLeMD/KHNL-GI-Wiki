@@ -93,7 +93,7 @@ GIM affects approximately 5% of the US population. Prevalence is higher in high-
 
 - H. pylori eradication in GIM patients → pooled RR 0.68 (32% reduction) in GC incidence; RR 0.67 in GC mortality
 - Test all GIM patients; treat if positive
-- Refer to [[helicobacter-pylori-infection]] for current eradication regimens (clarithromycin triple therapy if local resistance <15%; [[bismuth-quadruple-therapy|bismuth quadruple therapy]] or rifabutin triple for penicillin allergy or after first failure)
+- Refer to [[helicobacter-pylori-infection]] for current eradication regimens. **Note the regimen landscape changed after AGA 2020:** ACG 2024 makes optimized [[bismuth-quadruple-therapy|bismuth quadruple therapy]] the only Strong first-line recommendation and removes empiric PPI-clarithromycin triple therapy given US clarithromycin resistance
 
 ### 2. Surveillance Endoscopy — Guideline Disagreement
 

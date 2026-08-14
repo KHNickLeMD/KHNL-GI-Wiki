@@ -68,7 +68,7 @@ Document all of: esophagus, GEJ (antegrade), gastric cardia/fundus (retroflexed)
 | BE surveillance | HDWLE + virtual chromoendoscopy (or dye-based) | >90% |
 | Known BE surveillance | 4-quadrant biopsies every 2 cm throughout involved segment | >90% |
 | Known BE with visible lesion | Visible lesion biopsied/resected separately from systematic biopsies | >90% |
-| Nondysplastic BE (no prior dysplasia hx) | Surveillance no sooner than 3 years | >80% |
+| Nondysplastic BE (no prior dysplasia hx), **if systematic surveillance biopsy sampling was performed** | Surveillance no sooner than 3 years | >80% |
 | LA grade C/D erosive esophagitis | Recommend repeat EGD after acid suppression course | >90% |
 | Peptic esophageal stricture dilation | Recommend PPI (if no allergy/contraindication) | >98% |
 | BE with dysplasia or IMC undergoing [[endoscopic-eradication-therapy\|EET]] | Complete IM eradication within 18 months | >75% |
@@ -86,7 +86,7 @@ Document all of: esophagus, GEJ (antegrade), gastric cardia/fundus (retroflexed)
 | Bleeding ulcer, successful hemostasis | High-dose PPI (continuous or intermittent ×3d) | >95% |
 | Gastric ulcer | Biopsy or plan follow-up to exclude malignancy | >80% |
 | GPMC, high-risk GC, or endoscopic concern for GPMC | Systematic biopsies: Sydney protocol (corpus, antrum, incisura) | >90% |
-| GPMC/high-risk GC/suspected GPMC | HDWLE + virtual (or dye-based) chromoendoscopy | >90% |
+| GPMC/high-risk GC/suspected GPMC | **High-definition white-light endoscopy + virtual chromoendoscopy** (dye-based is offered only for BE surveillance, QI 10) | >90% |
 | [[gastric-polyps\|Gastric polyp]] (non-FGP appearance) >10mm | Biopsy or resect | >80% |
 | [[helicobacter-pylori-infection\|H. pylori]]–associated conditions (GPMC, PUD) | Document plan to test for H. pylori | >95% |
 | Endoscopically diagnosed H. pylori | Document plan to treat AND confirm eradication | >95% |
@@ -160,6 +160,8 @@ More rigorous documentation is recommended for Barrett's esophagus, gastric inte
 | Superficial neoplastic lesions | Paris classification | [[polypectomy]] |
 | Gastroesophageal flap valve | Hill grade classification | [[reflux-testing]] |
 | [[eosinophilic-esophagitis\|Eosinophilic esophagitis]] | EREFS; I-SEE (emerging standard for disease activity) | [[eosinophilic-esophagitis]] |
+
+- ⚠ **Scope note:** the 27 indicators on this page are the **EGD-specific** set. [[acg-2025-egd-quality|ACG/ASGE 2025]] explicitly places the indicators **common to all endoscopy** — informed consent, antithrombotic management, team pause/time-out, sedation monitoring, discharge criteria — in a **separate document** that is not yet ingested. Treat this list as complete for EGD only.
 
 *Report the class, not a free-text description — each system's criteria are held on its home page (linked) rather than duplicated here.*
 

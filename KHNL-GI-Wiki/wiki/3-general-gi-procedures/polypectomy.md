@@ -11,6 +11,30 @@ sources: [usmstf-2020-endoscopic-removal, asge-2020-endoscopic-removal, usmstf-2
 
 Optical assessment and removal of colorectal polyps at [[colonoscopy]] — the technique choice that follows from lesion size, morphology, and suspected depth of invasion, plus recognition and management of the malignant polyp. Larger and more complex lesions are resected by [[endoscopic-mucosal-resection|EMR]] or [[colorectal-esd|ESD]].
 
+## Contents
+- [[#Lesion Assessment]]
+  - [[#Required Documentation (all lesions ≥10mm)]]
+  - [[#Paris Classification (type 0 superficial lesions)]]
+  - [[#Laterally Spreading Tumors (LSTs, ≥10mm)]]
+  - [[#Optical Diagnosis]]
+- [[#Resection by Lesion Size and Type]]
+  - [[#≤5mm (Diminutive)]]
+  - [[#6–9mm (Small)]]
+  - [[#10–19mm Non-Pedunculated]]
+  - [[#≥20mm Non-Pedunculated]]
+  - [[#Pedunculated]]
+  - [[#Difficult Locations]]
+- [[#Lesion Marking / Tattoo]]
+- [[#Malignant Polyp Recognition and Management]]
+  - [[#Definition]]
+  - [[#Endoscopic Features Predicting Deep Submucosal Invasion (≥1 mm)]]
+  - [[#Haggitt Classification (Pedunculated Polyps)]]
+  - [[#Kikuchi Classification (Sessile/Flat Polyps — Depth of Submucosal Invasion)]]
+  - [[#Favorable vs. Unfavorable Histologic Criteria]]
+  - [[#Specimen Handling for Potentially Malignant Polyps]]
+  - [[#Pathology Reporting Standards]]
+- [[#Quality Standards]]
+
 ---
 
 ## Lesion Assessment
@@ -292,14 +316,19 @@ After endoscopic resection reveals a malignant polyp, histologic features determ
 ## Quality Standards
 
 - Endoscopy first-line for all benign colorectal lesions; refer to advanced endoscopist (not surgery) when unable to remove confidently
-- Report proportion of patients referred to surgery for benign lesions (quality metric)
 - Use CO2 insufflation (reduces post-procedure pain, faster absorption if perforation)
 
-### Competency Assessment Tools
+**Graded quality recommendations ([[usmstf-2020-endoscopic-removal]]):**
 
-- **DOPyS (Direct Observation of Polypectomy Skills):** Validated tool for direct observation and scoring of polypectomy competency; covers pre-procedure assessment, injection, snare placement, electrosurgery, defect inspection, and complication recognition
-- **CSPAT (Cold Snare Polypectomy Assessment Tool):** Purpose-built assessment tool for cold snare polypectomy specifically; evaluates snare positioning, margin inclusion, specimen retrieval; complements DOPyS for lower-risk polyp removal assessment
-- Both tools designed for training programs and credentialing; use alongside procedural volume thresholds
+| Statement | Grade |
+|---|---|
+| *"We recommend endoscopists engage in a local (institution-, hospital-, or practice-based) **quality-assurance program**, including measuring and reporting of **post-polypectomy adverse events**."* | **Strong; moderate**-quality evidence |
+| *"We suggest measuring and reporting the **proportion of patients undergoing colonoscopy who are referred to surgery for benign colorectal lesion management**."* | **Conditional; moderate**-quality evidence |
+| *"We suggest the use of polypectomy **competency assessment tools**, such as **Direct Observation of Polypectomy Skills (DOPyS)** and/or the **Cold Snare Polypectomy Competency Assessment Tool (CSPAT)**, in endoscopic training programs, and in practice improvement programs."* | **Conditional; low**-quality evidence |
+
+- **Why competency is measured separately from detection:** polypectomy competency varies widely between colonoscopists — a prospective observational study of 13 high-volume screening colonoscopists at a US academic center found **overall competency rates of 30%–90%**, and those scores **did not correlate with [[colonoscopy|adenoma detection rate or withdrawal time]]**. Detection skills and resection skills are separate.
+- Adverse events to measure and report: **bleeding, perforation, hospital admissions, and the number of benign colorectal lesions referred for surgical management.** Resection method should be documented in the procedure report.
+- ⚠ The guideline does not enumerate the individual scored items within DOPyS or CSPAT in the ingested text (it points to its Appendix 4, which is not in the ingested file) — the tools' item lists are a gap, not stated here.
 
 ---
 

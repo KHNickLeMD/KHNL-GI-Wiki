@@ -7,8 +7,6 @@ updated: 2026-08-14
 sources: [baveno-vii-2022-portal-hypertension, aasld-2023-portal-hypertension, wang-2026-eus-ppg-delphi-consensus]
 ---
 
-# Hepatic Venous Pressure Gradient (HVPG)
-
 The reference (gold-standard) method for measuring **sinusoidal portal pressure** and diagnosing/staging [[portal-hypertension|portal hypertension]] in cirrhosis. Obtained transjugularly (or transfemorally) at experienced centers.
 
 ## Contents

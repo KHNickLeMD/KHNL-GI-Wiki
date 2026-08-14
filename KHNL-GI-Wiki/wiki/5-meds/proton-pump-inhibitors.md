@@ -72,7 +72,7 @@ Standard-dose acid-suppression potency standardized to omeprazole = 1.00 ("omepr
 - Step-down possible in responders (some relapse on reduction, regain remission on re-escalation).
 
 ### H. pylori Eradication
-- PPI **twice daily** is the acid-suppression backbone of [[bismuth-quadruple-therapy|bismuth quadruple]], concomitant, and rifabutin regimens ([[acg-2024-hp-treatment]]).
+- PPI **twice daily** (standard dose, 30–60 min before a meal) is the acid-suppression backbone of [[bismuth-quadruple-therapy|bismuth quadruple]] and rifabutin regimens ([[acg-2024-hp-treatment]]). Concomitant therapy also contains a PPI but is **not suggested over BQT** (Rec 5).
 - **Potent acid suppression is key**: high intragastric pH promotes active H. pylori replication (↑ antibiotic susceptibility) and stabilizes acid-labile antibiotics (clarithromycin, amoxicillin) → higher intragastric concentration.
 - **CYP2C19 pharmacogenetics:** for rapid/ultrarapid metabolizers, increase omeprazole/lansoprazole/pantoprazole starting daily dose by 50–100% (rapid) or 100% (ultrarapid), **or** use esomeprazole/rabeprazole (bypass CYP2C19), **or** a P-CAB-based regimen.
 - P-CABs ([[vonoprazan]]) provide deeper/more sustained suppression and are superior to PPIs in eradication regimens.

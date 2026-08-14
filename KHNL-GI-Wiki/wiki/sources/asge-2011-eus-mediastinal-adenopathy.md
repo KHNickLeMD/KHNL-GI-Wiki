@@ -1,9 +1,9 @@
 ---
-title: "ASGE 2011: The Role of Endoscopy in the Assessment and Treatment of Esophageal Cancer / EUS for Mediastinal Adenopathy"
+title: "ASGE 2011: Role of EUS-Guided Fine-Needle Aspiration in the Diagnosis of Mediastinal Adenopathy"
 category: source
 tags: [eus, ebus, mediastinal-adenopathy, lung-cancer, staging, lymphoma, fna, asge]
 created: 2026-07-01
-updated: 2026-07-01
+updated: 2026-08-14
 sources: []
 ---
 

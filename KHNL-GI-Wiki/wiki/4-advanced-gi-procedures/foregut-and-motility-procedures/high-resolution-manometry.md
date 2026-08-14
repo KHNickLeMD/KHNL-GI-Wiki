@@ -3,22 +3,27 @@ title: "High-Resolution Manometry (HRM)"
 category: advanced-procedure
 tags: [hrm, manometry, esophageal, motility, foregut, chicago-classification, hrem]
 created: 2026-05-16
-updated: 2026-08-08
+updated: 2026-08-14
 sources: [acg-2020-esophageal-physiologic-testing]
 ---
 
 *Also referred to as esophageal manometry or HREM. Canonical slug: `high-resolution-manometry`. See [[chicago-classification-v4]] for the diagnostic framework applied to HRM data and [[hrm-antireflux-surgery]] for pre/post-operative HRM.*
 
+## Contents
+- [[#Overview]]
+- [[#Key Metrics]]
+- [[#Diagnostic Outputs]]
+- [[#Provocative Maneuvers]]
+- [[#HRM Performance Characteristics (vs. Conventional Manometry)]]
+- [[#HRM for Hiatal Hernia Detection]]
+- [[#HRM for Extraesophageal/Atypical Symptoms]]
+- [[#Clinical Applications]]
+
 ## Overview
 
 High-resolution manometry uses a solid-state catheter with closely spaced pressure sensors to generate esophageal pressure topography (EPT) plots, interpreted using the **[[chicago-classification-v4|Chicago Classification v4.0]]**.
 
-**Standard protocol (Chicago v4.0):**
-
-- 10 supine wet swallows (5 mL water each)
-- 5+ upright wet swallows
-- Multiple rapid swallows (MRS) — 5 × 2 mL at 2-second intervals
-- Rapid drink challenge (RDC) — 200 mL water continuous drinking
+**Standard protocol:** **10 supine test swallows** ([[acg-2020-esophageal-physiologic-testing]]). Provocative maneuvers are added on top of this — their exact specifications are in [[#Provocative Maneuvers]] below (single home; not repeated here). The full Chicago v4.0 acquisition protocol and position-specific requirements live on [[chicago-classification-v4]].
 
 **IRP thresholds are manufacturer-specific** — using the wrong device threshold misclassifies [[esophagogastric-junction-outflow-obstruction|EGJ outflow obstruction]]. The thresholds, and all Chicago v4.0 diagnostic cutoffs, live on [[chicago-classification-v4]].
 
@@ -52,7 +57,8 @@ Supplementary provocative maneuvers improve diagnostic yield beyond the standard
 | **Rapid drink challenge (RDC)** | Free drinking of 100–200 mL water through straw in upright position | Elevates LES postswallow residual pressure/panesophageal pressurization in EGJ outflow obstruction; detects obstruction not evident on single swallows |
 | **Solid test meal (STM)** | Cooked rice/gravy or cheese-and-onion pasty | Increases diagnostic yield for EGJ outflow obstruction and spasm; reproduces symptoms |
 
-Conditional recommendation (Low quality): supplementary/provocative maneuvers with HRM protocol to improve diagnostic yield for obstructive esophageal symptoms.
+- **Recommendation 2 (Strong; moderate quality):** *"We recommend HRM over conventional line tracing manometry for the diagnosis of esophageal motility disorders in patients with obstructive esophageal symptoms."*
+- **Conditional recommendation (low quality):** supplementary/provocative maneuvers added to the HRM protocol to improve diagnostic yield for obstructive esophageal symptoms.
 
 ---
 
@@ -107,7 +113,7 @@ Manometric hiatal hernia criteria: LES-CD separation >2 cm. Body position affect
 
 ## See Also
 
-[[chicago-classification-v4]], [[hrm-antireflux-surgery]], [[antireflux-surgery]], [[flip-panometry]], [[gerd]], [[achalasia]], [[dysphagia]], [[ambulatory-reflux-monitoring]]
+[[chicago-classification-v4]], [[hrm-antireflux-surgery]], [[antireflux-surgery]], [[flip-panometry]], [[gerd]], [[achalasia]], [[dysphagia]], [[ambulatory-reflux-monitoring]], [[esophagogastric-junction-outflow-obstruction]], [[ineffective-esophageal-motility]], [[distal-esophageal-spasm]], [[hypercontractile-esophagus]], [[rumination-syndrome]], [[upper-endoscopy]], [[reflux-testing]], [[poem]]
 
 ---
 

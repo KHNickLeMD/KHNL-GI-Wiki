@@ -3,7 +3,7 @@ title: "Juvenile Polyposis Syndrome"
 category: disease-script
 tags: [juvenile-polyposis, jps, smad4, bmpr1a, hamartoma, hereditary-crc, hht, upper-gi-cancer, genetic-testing]
 created: 2026-05-19
-updated: 2026-07-29
+updated: 2026-08-14
 sources: [acg-2015-hereditary-gi-cancer, aga-2022-hamartomatous-polyposis]
 ---
 
@@ -36,7 +36,6 @@ Juvenile polyposis syndrome (JPS) is an autosomal-dominant hamartomatous polypos
 **SMAD4 mutation — additional consideration**:
 
 - SMAD4 mutations are associated with **[[hereditary-hemorrhagic-telangiectasia|hereditary hemorrhagic telangiectasia (HHT)]]**; cardiovascular examination and evaluation for HHT should be performed for all SMAD4 mutation carriers (Conditional/VLow)
-- In women with POLD1 mutation, pelvic ultrasound and selective endometrial biopsy should be considered
 
 ### Severity Assessment — Cancer Risks
 

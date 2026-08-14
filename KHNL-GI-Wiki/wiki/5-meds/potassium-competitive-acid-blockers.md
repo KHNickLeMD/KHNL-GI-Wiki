@@ -7,9 +7,7 @@ updated: 2026-08-14
 sources: [aga-2024-pcab, acg-2024-hp-treatment]
 ---
 
-# Potassium-Competitive Acid Blockers (P-CABs)
-
-Drug **class** of gastric acid suppressants that block the H⁺/K⁺-ATPase **competitively at the potassium-binding site**. Agents: **[[vonoprazan]]** (only agent FDA-approved / available in the US), tegoprazan, fexuprazan, keverprazan, zastaprazan (predominantly Asian markets). For the US agent specifics see `[[vonoprazan]]`.
+Drug **class** of gastric acid suppressants that block the H⁺/K⁺-ATPase **competitively at the potassium-binding site**. Agents: **[[vonoprazan]]** (only agent FDA-approved / available in the US), tegoprazan, fexuprazan, keverprazan, zastaprazan (predominantly Asian markets). For the US agent specifics see [[vonoprazan]].
 
 ## Contents
 - [[#Mechanism vs PPIs]]
@@ -55,8 +53,9 @@ Drug **class** of gastric acid suppressants that block the H⁺/K⁺-ATPase **co
 
 - **BPA 7 — use P-CABs in place of PPIs in eradication regimens for most patients** with [[helicobacter-pylori-infection|H. pylori]] infection.
 - First-line eradication vonoprazan vs PPI: **92% vs 80%** (Asian RCT meta-analysis); largest incremental benefit in **clarithromycin-resistant** strains.
-- Duration **14 days** generally advised; **vonoprazan dual therapy** (vonoprazan + amoxicillin) can match triple therapy — see `[[vonoprazan]]` for regimens.
+- Duration **14 days** generally advised; **vonoprazan dual therapy** (vonoprazan + amoxicillin) can match triple therapy — see [[vonoprazan]] for regimens (dual = vonoprazan b.i.d. + amoxicillin t.i.d.).
 - Short treatment course blunts the cost/safety concerns that limit P-CABs elsewhere.
+- **Societies differ in emphasis:** AGA's BPA 7 favors P-CABs over PPIs in eradication regimens generally, whereas ACG 2024 grades both vonoprazan regimens **conditional (moderate quality)** and reserves its only *strong* first-line recommendation for optimized [[bismuth-quadruple-therapy|BQT]]; ACG makes **no recommendation** for P-CAB-based salvage after BQT failure ([[acg-2024-hp-treatment]]).
 
 ### Peptic Ulcer Disease
 
@@ -73,7 +72,7 @@ Drug **class** of gastric acid suppressants that block the H⁺/K⁺-ATPase **co
 
 - **Cost:** US P-CAB markedly more expensive than standard- or double-dose PPIs; often requires prior authorization.
 - **Safety:** long-term data less robust than PPIs; theoretical prolonged-acid-suppression concerns (hypomagnesemia, [[clostridioides-difficile|C. diff]], enteric infections) not yet well-characterized for the class.
-- **Stop ≥2 weeks before [[test-and-treat|H. pylori testing]]** (urea breath / stool antigen), as with PPIs.
+- **Before [[test-and-treat|H. pylori]] urea breath / fecal antigen testing:** PPIs must be stopped **2 weeks** in advance; ACG states the same will *probably* apply to P-CABs but that **this has not been adequately studied** — do not assert it as established ([[acg-2024-hp-treatment]]).
 
 ---
 

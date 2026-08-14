@@ -3,7 +3,7 @@ title: "Tegaserod"
 category: med
 tags: [ibs, ibs-c, 5-ht4-agonist, serotonin]
 created: 2026-07-26
-updated: 2026-08-12
+updated: 2026-08-14
 sources: [acg-2020-ibs, aga-2022-ibs-c]
 ---
 
@@ -49,7 +49,7 @@ sources: [acg-2020-ibs, aga-2022-ibs-c]
 
 ## See Also
 
-[[irritable-bowel-syndrome]], [[colon-ischemia]], [[linaclotide]], [[plecanatide]], [[lubiprostone]], [[prucalopride]], [[chronic-idiopathic-constipation]], [[obesity]], [[disorders-of-gut-brain-interaction]]
+[[irritable-bowel-syndrome]], [[colon-ischemia]], [[linaclotide]], [[plecanatide]], [[lubiprostone]], [[tenapanor]], [[prucalopride]], [[chronic-idiopathic-constipation]], [[obesity]], [[disorders-of-gut-brain-interaction]]
 
 ---
 

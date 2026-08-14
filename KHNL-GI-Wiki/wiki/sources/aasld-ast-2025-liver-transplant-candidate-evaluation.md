@@ -3,7 +3,7 @@ title: "AASLD AST 2025: Practice Guideline on Adult Liver Transplantation — Ca
 category: source
 tags: [liver-transplant, liver-transplantation, candidate-evaluation, meld, hcc, cholangiocarcinoma, alf, aclf, cardiac, pulmonary, hepatopulmonary-syndrome, portopulmonary-hypertension, nutrition, frailty, psychosocial, aasld, ast, 2025]
 created: 2026-05-25
-updated: 2026-05-28
+updated: 2026-08-14
 sources: []
 ---
 
@@ -41,8 +41,9 @@ The guideline emphasizes equity and access, noting that patients with ALD, Afric
 
 - All evaluations should be multidisciplinary
 - Cardiac: ECG + comprehensive TTE for all; risk-factor-based coronary artery disease assessment; CCTA preferred noninvasive test; multidisciplinary management of significant asymptomatic CAD
-- Pulmonary: chest imaging for all; PFTs not routine unless lung disease risk factors; bubble echocardiography is most sensitive for [[hepatopulmonary-syndrome-portopulmonary-hypertension|HPS]] screening; right heart catheterization required when RVSP ≥45 mmHg or RV abnormalities on TTE
-- Portopulmonary hypertension (POPH): mPAP ≥45 mmHg + PVR >3 WU despite treatment = contraindication
+- Pulmonary: chest imaging for all; PFTs not routine unless lung disease risk factors; bubble echocardiography is most sensitive for [[hepatopulmonary-syndrome-portopulmonary-hypertension|HPS]] screening; right heart catheterization required when **RVSP >45 mm Hg** or RV abnormalities on TTE (screening threshold is stated as estimated **PASP >45 mm Hg**)
+- Portopulmonary hypertension (POPH): **mPAP 45 mm Hg with PVR >3 WU** on optimized therapy = contraindication to transplantation (Strong, Level 1)
+- **POPH standard MELD exception criteria** — requires a response to medical treatment, defined as **mPAP <35 mm Hg and PVR <5 WU**, *or* **mPAP 35–45 mm Hg and PVR <3 WU**. At least 50% of patients have resolution of POPH after LT; the greatest survival benefit is in medical-therapy responders with more advanced liver disease (MELD >15).
 - Infection: comprehensive screening per Table 1; age-appropriate vaccinations
 - Cancer: HCC q6mo surveillance; individualized breast, cervical, colorectal, lung, prostate screening
 - Nutrition: registered dietitian assessment for all; interventions in moderate-to-high malnutrition risk
@@ -88,7 +89,7 @@ The guideline emphasizes equity and access, noting that patients with ALD, Afric
 | 19. Echocardiography with agitated saline contrast is the most sensitive screening test to detect intrapulmonary vascular dilatations and HPS and is recommended for screening when available for use in the pre-LT setting. | Weak | Level 1 |
 | 20. In centers not using echocardiography with agitated saline contrast for routine screening, the presence of pulmonary symptoms or oxygenation abnormalities should include this test to detect potential HPS. | Strong | Level 3 |
 | 21. In patients with positive contrast echocardiography confirming the presence of intrapulmonary vascular dilatations, pulse oximetry, and arterial blood gases can be considered to determine severity and urgency for transplantation. | Strong | Level 3 |
-| 22. The presence of an elevated right ventricular systolic pressure (≥45 mm Hg) or abnormalities in right ventricular structure or function on transthoracic echocardiogram requires a right heart catheterization to evaluate for portopulmonary hypertension, with subsequent subspecialty consultation if the diagnosis is confirmed. | Strong | Level 1 |
+| 22. The presence of an elevated right ventricular systolic pressure (>45 mm Hg) or abnormalities in right ventricular structure or function on transthoracic echocardiogram requires a right heart catheterization to evaluate for portopulmonary hypertension, with subsequent subspecialty consultation if the diagnosis is confirmed. | Strong | Level 1 |
 | 23. In those with portopulmonary hypertension and a sustained response to medical therapy, LT can be considered, particularly in those with more advanced liver disease. | Weak | Level 2 |
 | 24. In the patient undergoing treatment for portopulmonary hypertension on optimized therapies as determined by a pulmonary hypertension specialist, a mean pulmonary artery pressure of 45 mm Hg with a pulmonary vascular resistance >3 Wood units (WU) should be considered a contraindication to transplantation. | Strong | Level 1 |
 | 25. All candidates should receive screening for infections that may pose a peritransplant or post-transplant risk. This screening may differ based on age and geography and should be directed by guidance from both the liver transplant and infectious disease communities. | Strong | Level 3 |

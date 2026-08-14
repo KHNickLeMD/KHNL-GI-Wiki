@@ -3,7 +3,7 @@ title: "Drug-Induced Liver Injury (Idiosyncratic)"
 category: disease-script
 tags: [dili, drug-induced-liver-injury, hepatotoxicity, hds, ici, immune-checkpoint, hpb, liver]
 created: 2026-05-16
-updated: 2026-08-07
+updated: 2026-08-14
 sources: [acg-2021-dili, acg-2017-liver-chemistries, aasld-2022-dili]
 ---
 
@@ -28,21 +28,25 @@ sources: [acg-2021-dili, acg-2017-liver-chemistries, aasld-2022-dili]
 
 ### Severity Assessment
 
-**Hy's Law** — approximately 10% mortality if ALL three criteria met:
+**Hy's Law** — ~10% mortality risk if **all 3** criteria met ([[acg-2021-dili]]):
 
-1. Serum ALT or AST >3× ULN
-2. Serum total bilirubin elevated >2× ULN
-3. No cholestasis (elevated alkaline phosphatase is absent as primary finding)
-4. No other reason for the combination
+1. Serum ALT or AST **>3× ULN**
+2. Serum total bilirubin **>2× ULN**, *without* initial findings of cholestasis (elevated serum alkaline phosphatase)
+3. **No other reason** can be found to explain the combined aminotransferase + bilirubin rise (viral hepatitis A/B/C, other pre-existing or acute liver disease)
 
-**Severity grades (DILIN criteria):**
+Corollary: if drug-induced hepatocellular injury causes [[jaundice]], **~1 in 10 jaundiced patients develops [[acute-liver-failure|ALF]]**.
 
-- Mild: ALT/Alk P elevated but bilirubin and INR normal
-- Moderate: bilirubin elevated or symptomatic hospitalization
-- Severe: Hy's law criteria, transplant listed, or prolonged hospitalization
-- Fatal or liver transplant required
+**Prognostic thresholds — predicting liver-related death within 26 weeks of onset** ([[acg-2021-dili]]):
 
-**Prognostic model:** [[cirrhosis|MELD]] + Charlson comorbidity index + serum albumin → 6-month mortality (c-statistic 0.89–0.91; web calculator at gihep.com/calculators/hepatology/dili-cam/)
+| Predictor | Cutoff | c-statistic |
+|---|---|---|
+| [[cirrhosis\|MELD]] score | **≥19** | 0.83 |
+| "nr Hy's law" (modified) | bilirubin **≥2.5 mg/dL** *and* R-value **>5** | 0.73 |
+| Ghabril model — serum **albumin + MELD + Charlson comorbidity index** → 6-month mortality | (nomogram; calculator at gihep.com/calculators/hepatology/dili-cam/) | 0.89 discovery / 0.91 validation |
+
+**Outcome benchmarks** ([[acg-2021-dili]]): outcomes of idiosyncratic DILI are relatively favorable — only ~10% reach the ALF threshold (coagulopathy + encephalopathy) and <20% develop chronic liver injury. Once DILI causes ALF the prognosis is poor: **40% require liver transplant, 42% die**; advanced coma grade and high MELD predict poor outcome. In the US ALF Study Group, 11% of ALF cases were adjudicated as DILI, with 3-week transplant-free survival of only 27%.
+
+> ⚠ **Decision gap — no formal DILI severity grading scale is in an ingested source.** The DILIN 1–5 severity grades are referenced widely in practice but neither [[acg-2021-dili]] nor [[aasld-2022-dili]] reproduces the grade definitions. (An earlier version of this page carried unsourced grade definitions; they were removed 2026-08-14.) The **original DILIN severity-scale paper** would be needed to add them.
 
 ### Classification / Typing
 
@@ -161,17 +165,32 @@ Roussel Uclaf Causality Assessment Method — scoring system (−10 to +14):
 | Agent | Pattern | Latency | Notes |
 |-------|---------|---------|-------|
 | Azathioprine/6-MP | Cholestatic or hepatocellular; hepatoportal sclerosis | Moderate to long | Monitor CBC + LFTs regularly in [[inflammatory-bowel-disease\|IBD]] patients |
-| Methotrexate | Fatty liver, fibrosis (with cumulative dosing) | Long | Roenigk classification for methotrexate hepatotoxicity; cumulative dose threshold |
+| Methotrexate | Insidious hepatic steatosis + fibrosis | Long | See monitoring thresholds below |
 | Anti-TNF agents (infliximab, adalimumab) | Hepatocellular; autoimmune hepatitis-like | Moderate to long | Rare; may need to discontinue biologic |
 | Amoxicillin-clavulanate | Cholestatic; can be hepatocellular | Short to moderate | Most common antibiotic DILI; onset may occur after drug cessation |
 | Isoniazid | Hepatocellular; acute hepatitis-like | Moderate to long | Age-related risk; monitor LFTs; avoid in CLD |
 | [[proton-pump-inhibitors\|Proton pump inhibitors]] | Hepatocellular; very rare | Short | Worth considering in unexplained hepatitis |
 
+### Methotrexate — monitoring thresholds ([[aasld-2022-dili]])
+
+- Risk factors for accelerated methotrexate liver injury: **active alcohol use, pre-existing liver disease, diabetes, hyperlipidemia, [[obesity]]**.
+- **Cumulative dose ≥3.5–4.0 g** → transient elastography and/or [[liver-biopsy|liver biopsy]] recommended for **all** methotrexate recipients.
+- Laboratory monitoring baseline then **every 3–6 months** (2020 dermatology/psoriasis guidance); ACR 2008 rheumatoid arthritis schedule was baseline → every 2–4 weeks for the first 3 months → every 8–12 weeks for 3–6 months → every 12 weeks thereafter.
+- 2021 ACR guidance restricts methotrexate in suspected [[nafld-masld|NAFLD]] to those with **normal liver tests and no advanced fibrosis (stage 3–4)** on noninvasive testing.
+- Liver biopsy otherwise reserved for abnormal elastography or persistent liver test elevations.
+- ⚠ **Decision gap:** [[acg-2021-dili]] names the **Roenigk Classification System** as the recognized histologic grading system for methotrexate-induced fibrosis/fatty change, but **neither ingested source gives the Roenigk grade criteria.** The original Roenigk paper would be needed.
+
+### Isoniazid — monitoring ([[aasld-2022-dili]])
+
+- Baseline liver assessment has **not** been shown superior to assessing for clinical symptoms of hepatitis at detecting toxicity.
+- **Monthly** liver test monitoring is reserved for: baseline liver test abnormalities, viral hepatitis, heavy alcohol use, other hepatotoxic medications, underlying liver disease, or HIV.
+- Isoniazid remains a leading cause of DILI-related [[acute-liver-failure|ALF]]; latent TB treatment has shifted from 6–9 months of isoniazid monotherapy to 3–4-month combination regimens with lower hepatotoxicity risk.
+
 ---
 
 ## See Also
 
-[[abnormal-liver-chemistries]], [[acute-liver-failure]], [[autoimmune-hepatitis]], [[inflammatory-bowel-disease]], [[nafld-masld]], [[primary-biliary-cholangitis]], [[primary-sclerosing-cholangitis]], [[wilson-disease]], [[budd-chiari-syndrome]], [[immune-checkpoint-inhibitor-hepatitis]], [[chronic-hepatitis-b]], [[hepatitis-c]], [[liver-biopsy]], [[jaundice]], [[liver-transplantation]], [[ercp]], [[cirrhosis]]
+[[abnormal-liver-chemistries]], [[acute-liver-failure]], [[autoimmune-hepatitis]], [[inflammatory-bowel-disease]], [[nafld-masld]], [[primary-biliary-cholangitis]], [[primary-sclerosing-cholangitis]], [[wilson-disease]], [[budd-chiari-syndrome]], [[immune-checkpoint-inhibitor-hepatitis]], [[chronic-hepatitis-b]], [[hepatitis-c]], [[liver-biopsy]], [[jaundice]], [[liver-transplantation]], [[ercp]], [[cirrhosis]], [[obesity]]
 
 ---
 

@@ -3,7 +3,7 @@ title: "Lynch Syndrome"
 category: disease-script
 tags: [lynch, hnpcc, mmr, msi, hereditary-crc, endometrial-cancer, oncology, genetic-testing, colorectal-cancer]
 created: 2026-05-19
-updated: 2026-08-08
+updated: 2026-08-14
 sources: [acg-2015-hereditary-gi-cancer, usmstf-2014-lynch-syndrome, usmstf-2017-bmmrd]
 ---
 
@@ -15,8 +15,8 @@ Lynch syndrome (LS), formerly hereditary nonpolyposis [[colorectal-cancer|colore
 
 **Universal tumor screening** of all newly diagnosed CRCs is recommended [[acg-2015-hereditary-gi-cancer]] [[usmstf-2014-lynch-syndrome]]:
 
-1. **IHC** for MLH1, MSH2, MSH6, PMS2 protein expression — sensitivity 83%, specificity 89%
-2. **MSI testing** — sensitivity 90%; MSI-H prevalence in population-based CRC series 7–19%
+1. **IHC** for MLH1, MSH2, MSH6, PMS2 protein expression — sensitivity **83%** (regardless of gene), specificity **89%**
+2. **MSI testing** — specificity **90%**; sensitivity is **gene-dependent: 80–91%** for MLH1/MSH2 mutations but only **55–77%** for MSH6/PMS2 (so a negative MSI result is least reassuring in the low-penetrance genes). MSI-H prevalence in population-based CRC series 7–19%
 3. If **MLH1 protein is lost**: proceed to **BRAF V600E** mutation testing OR **MLH1 promoter methylation** analysis — almost no LS tumors carry BRAF mutation; 68% of sporadic MMR-deficient tumors do
 4. Individuals with evidence of MMR deficiency (without BRAF mutation or MLH1 hypermethylation), plus those with a known family mutation or PREMM1,2,6 model score ≥5%, should undergo **germline testing** of MLH1, MSH2, MSH6, PMS2, and/or EPCAM (or the gene indicated by IHC)
 
@@ -68,7 +68,7 @@ LS is classified by the causative gene:
 ### Tumor Testing
 
 - **IHC** (preferred): MLH1/MSH2/MSH6/PMS2 protein expression on preoperative biopsy specimen if possible; protein staining easier to perform widely than MSI PCR
-- **MSI PCR**: MSI-H defined as instability at ≥2 of 5 standard markers; MSI and IHC results are highly correlated
+- **MSI PCR**: MSI-H defined as instability at ≥2 of 5 standard markers; MSI and IHC results are highly correlated (performance figures above)
 - **BRAF V600E** and/or **MLH1 promoter methylation**: required when MLH1 is lost to exclude sporadic epigenetic silencing (BRAF mutation essentially rules out LS)
 - IHC pattern guides germline gene to test:
   - MLH1/PMS2 co-loss → test MLH1 first (after BRAF/methylation)

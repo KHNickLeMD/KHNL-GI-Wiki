@@ -3,7 +3,7 @@ title: "AASLD/AST 2025: Practice Guideline on Adult Liver Transplantation — Di
 category: source
 tags: [liver-transplant, liver-transplantation, graft-complications, immunosuppression, rejection, biliary-stricture, vascular-complications, machine-perfusion, dcd, ldlt, tacrolimus, mtor-inhibitor, aasld, ast, guidelines, 2025]
 created: 2026-05-25
-updated: 2026-05-25
+updated: 2026-08-14
 sources: []
 ---
 
@@ -123,9 +123,30 @@ The recurrent disease section covers updated recommendations for recurrent alcoh
 | 38. In addition to augmentation of existing immunosuppression, which includes a change from cyclosporine to tacrolimus if applicable, moderate or severe early or late T-cell–mediated rejection in adult liver transplant recipients should be treated with high-dose intravenous corticosteroids and consideration of addition of another class of immunosuppression if applicable (eg, an antimetabolite or mammalian target of rapamycin inhibitor). | Strong | Level 3 |
 | 39. A second course of corticosteroids or lymphocyte-depleting therapy should be considered for adult liver transplant recipients with refractory T-cell–mediated rejection who do not respond to an initial course of corticosteroids. | Strong | Level 4 |
 | 40. In adult liver transplant recipients, plasma cell-rich rejection should be treated with corticosteroids and existing immunosuppression should be augmented, followed by consideration of an antimetabolite and/or low-dose maintenance corticosteroid (eg, prednisone 5–10 mg daily). | Strong | Level 4 |
-| 41–57. [Antibody-mediated rejection, recurrent ALD, recurrent MASLD, recurrent immune-mediated liver diseases — recommendations 41–57; full text published in *Liver Transplantation* 2026;32:444–490] | Various | Various |
+| 41. In adult liver transplant recipients, peripheral blood biomarkers alone should not be used to diagnose or exclude T-cell–mediated rejection and other forms of allograft injury. | Strong | Level 4 |
+| 42. In adult liver transplant recipients, peripheral blood biomarkers that measure intracellular ATP after CD4 cell activation may be considered to determine the immunological status of the transplant recipient, risk of infection, and need for adjustment of immunosuppression. | Weak | Level 3 |
+| 43. In adult liver transplant recipients, chronic ductopenic rejection should be treated early (when there is <50% bile duct loss or ductopenia on liver biopsy) with augmentation of existing immunosuppression, in order to maximize treatment response and reversibility. | Strong | Level 4 |
+| 44. Adult liver transplant recipients with chronic ductopenic rejection who are taking cyclosporine should be switched to tacrolimus if there are no contraindications. | Strong | Level 3 |
+| 45. Mycophenolate mofetil or a mammalian target of rapamycin inhibitor may be added in adult liver transplant recipients with chronic ductopenic rejection who are on tacrolimus monotherapy. | Weak | Level 4 |
+| 46. Adult liver transplant recipients with progressive chronic ductopenic rejection despite adjustments in immunosuppressive therapy should be considered for retransplantation. | Strong | Level 3 |
+| 47. In adult liver transplant recipients, acute antibody-mediated rejection should be suspected in a recipient with unexplained graft dysfunction, thrombocytopenia, and hypocomplementemia. Donor-specific antibody testing and liver biopsy should be obtained with C4d staining to assess for signature histologic features. | Strong | Level 3 |
+| 48. Initial treatment of acute antibody-mediated rejection in adult liver transplant recipients should include high-dose corticosteroids, augmentation of existing immunosuppression with or without the addition of an immunosuppressant from a different class. | Strong | Level 3 |
+| 49. In adult liver transplant recipients, treatment with intravenous immunoglobulin and plasma exchange with or without anti-CD20 agents may be considered for acute antibody-mediated rejection refractory to initial therapy. | Weak | Level 4 |
+| 50. In adult liver transplant recipients, the diagnosis of chronic antibody-mediated rejection is challenging; workup should include donor-specific antibodies and typical findings on liver biopsy. Other liver diseases that may cause a similar pattern of liver injury should be excluded. | Strong | Level 4 |
+| 51. In adult liver transplant recipients, augmentation of existing immunosuppression, with or without the addition of a second class of immunosuppressant, should be considered as initial therapy for chronic antibody-mediated rejection. | Strong | Level 5 |
+| 52. There are insufficient data to recommend the use of anti-CD20 therapy, proteosome therapy, plasma exchange, or intravenous immunoglobulin in adult liver transplant recipients with chronic antibody-mediated rejection. | Strong | Level 4 |
+| 53. In adult liver transplant recipients, retransplantation should be considered for acute or chronic antibody-mediated rejection that results in graft failure. | Strong | Level 5 |
+| 54. In adult liver transplant recipients, donor-specific antibodies should be assessed in the setting of severe or steroid-resistant rejection, plasma cell-rich rejection, antibody-mediated rejection, or allograft dysfunction of unknown etiology. | Strong | Level 3 |
+| 55. Since high donor-specific antibodies are not always associated with graft complications, and mean fluorescence intensity thresholds and measurement techniques have not been standardized, routine pre-transplant donor-specific antibody testing for all adult liver transplant candidates cannot be recommended. | Weak | Level 3 |
+| 56. In adult liver transplant recipients, the performance of serial measurement of donor-specific antibodies can be individualized in the setting of verified or suspected antibody-mediated rejection that is being treated or monitored. | Weak | Level 4 |
+| 57. In adult liver transplant recipients who are hepatitis B surface antigen-negative and who receive anti-hepatitis B core-positive grafts, first-line prophylaxis with either entecavir, tenofovir disoproxil, or tenofovir alafenamide should be administered indefinitely to prevent reactivation. | Strong | Level 3 |
 
-*Note: Recommendations 41–57 cover antibody-mediated rejection (AMR) diagnosis and management, recurrent alcohol-associated liver disease, recurrent MASLD/steatotic liver disease, and recurrent immune-mediated liver diseases (AIH, PBC, PSC). Full verbatim text of these recommendations is in the published article (DOI: 10.1097/LVT.0000000000000715). The PDF provided for ingest contained pages covering recommendations 1–40 in full detail.*
+**Supporting detail for Recs 47–57 (from the same PDF):**
+- Acute AMR: unexplained graft dysfunction, thrombocytopenia, hypocomplementemia, and vasculitis on biopsy with **diffuse C4d staining**; rare in ABO-compatible grafts because of hepatic regenerative capacity, the large sinusoidal network, and secretion of soluble class I HLA that binds DSA.
+- **Preformed DSA of potential clinical significance was tentatively defined as MFI ≥5,000** at the 2015 Banff Conference — but the positivity cutoff varies by laboratory, so the optimal range is undetermined. This is why Rec 55 declines routine pre-transplant testing.
+- HBsAg-negative recipient of an HBcAb-positive graft: transmission risk **up to 75%**, higher if HBsAb- and HBcAb-negative, lower if HBsAb-positive. **No HBIG requirement.** De novo HBV infection → lifelong nucleos(t)ide analogue.
+
+*Note: recommendations 58–69 (chronic hepatitis B/D, recurrent HCV, and recurrent disease management) are also present in the ingested PDF and are summarized in the sections below.*
 
 ## Relevance to Wiki
 

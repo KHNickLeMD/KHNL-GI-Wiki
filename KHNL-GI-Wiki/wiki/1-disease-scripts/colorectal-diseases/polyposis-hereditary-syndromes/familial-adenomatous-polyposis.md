@@ -3,7 +3,7 @@ title: "Familial Adenomatous Polyposis"
 category: disease-script
 tags: [fap, apc, afap, map, mutyh, hereditary-crc, polyposis, duodenal-adenoma, desmoid, spigelman, genetic-testing, colorectal-cancer]
 created: 2026-05-19
-updated: 2026-08-08
+updated: 2026-08-14
 sources: [acg-2015-hereditary-gi-cancer, asge-2020-fap]
 ---
 
@@ -118,7 +118,7 @@ Familial adenomatous polyposis (FAP) and its related syndromes — attenuated FA
 - Adenomatous gastric polyps in ~10%; confined mainly to antrum but can occur in body/fundus
 - Lifetime risk of [[gastric-adenocarcinoma|gastric cancer]] in FAP ~0.6%
 - Random gastric biopsies at each EGD; surgery reserved for high-grade dysplasia or cancer (Strong/VLow)
-- For AFAP and MAP, EGD surveillance with side-viewing instrument starting age 25–30, same Spigelman intervals as FAP
+- **Upper-GI start ages differ by syndrome** ([[acg-2015-hereditary-gi-cancer]] Table 10): FAP and **AFAP** begin EGD with a side-viewing instrument at **25–30**; **[[mutyh-associated-polyposis|MAP]]** begins at **30–35** (guideline text: "around age 30"). All three then follow the same Spigelman intervals — MAP's duodenal cancer risk is similar to AFAP/FAP
 
 **Endoscopic management of upper-GI polyposis** (ASGE 2020) [[asge-2020-fap]]:
 

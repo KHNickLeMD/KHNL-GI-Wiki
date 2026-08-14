@@ -12,7 +12,7 @@ sources: [acg-2015-hereditary-gi-cancer]
 ### Establishing the Diagnosis
 
 - Autosomal-dominant hereditary cancer syndrome caused by germline pathogenic variants in **CDH1** (E-cadherin) [[acg-2015-hereditary-gi-cancer]]
-- Responsible for ~1–3% of all [[gastric-adenocarcinoma|gastric cancers]]
+- Responsible for ~1–3% of **diffuse** [[gastric-adenocarcinoma|gastric cancers]] (not of all gastric cancers) — it is the only hereditary syndrome known to cause diffuse gastric cancer
 
 **Clinical criteria — genetic evaluation for HDGC is indicated if any one criterion is met** [[acg-2015-hereditary-gi-cancer]]:
 
@@ -25,7 +25,7 @@ sources: [acg-2015-hereditary-gi-cancer]
 
 - 10.5–47% of individuals meeting these criteria carry a CDH1 mutation
 - Testing must include sequencing (3–50% of mutations are sequence changes) AND deletion/duplication analysis (4% are large rearrangements)
-- **Test all at-risk individuals beginning at age 16** — early ages of gastric cancer diagnosis in some families
+- **Once a mutation has been identified in the family**, all at-risk individuals should be tested **beginning at age 16** — the precondition matters: age-16 cascade testing follows an identified familial mutation, it is not screening of unselected at-risk people
 
 **Genetic etiology**:
 
@@ -37,9 +37,15 @@ sources: [acg-2015-hereditary-gi-cancer]
 
 Cancer risk profile [[acg-2015-hereditary-gi-cancer]]:
 
-- **Gastric cancer**: 67% lifetime risk in males; 83% in females; mean age of diagnosis 38–40 years (range 14–85 years)
-- **Lobular breast cancer**: 39% cumulative lifetime risk in female CDH1 carriers
-- Signet-ring cell [[colorectal-cancer|colon cancer]]: also at increased risk (exact risk unknown)
+Two consortium estimates are reported, and they differ — the newer one is why the management recommendation is phrased as ">80% risk by age 80":
+
+| Source | Gastric cancer lifetime risk | Lobular breast cancer lifetime risk |
+|---|---|---|
+| International consortium study of 11 families (CDH1-positive, ≥3 diffuse GC cases) | **67% males / 83% females** | **39%** in women |
+| More recent international consortium analysis | **80% in both men and women** | **60%** in women |
+
+- Mean age at gastric cancer diagnosis **38–40 years** (range 14–85)
+- Signet-ring cell [[colorectal-cancer|colon cancer]]: also at increased risk (exact risk estimates not known)
 
 ---
 
@@ -90,8 +96,8 @@ Key data:
 
 **Post-gastrectomy**:
 
-- Annual breast surveillance (MRI + mammography) from age 35 in women (equivalent to [[brca-pathogenic-variants|BRCA1/BRCA2]]-based protocols given 39% lobular breast cancer risk)
-- [[colonoscopy]] beginning at age 40 in families that include colon cancer (Conditional/Low)
+- **Breast cancer surveillance in women beginning at age 35: annual mammography AND annual breast MRI, plus clinical breast examination every 6 months.** Because data in HDGC are limited, these guidelines are **extrapolated from [[brca-pathogenic-variants|BRCA1/BRCA2]] protocols**; annual MRI is included specifically because **lobular breast cancers are difficult to detect by clinical examination and mammography**
+- [[colonoscopy]] beginning at age 40 in families that include colon cancer (Conditional/Low; based on limited evidence)
 
 ### Surveillance for Those Declining Gastrectomy
 

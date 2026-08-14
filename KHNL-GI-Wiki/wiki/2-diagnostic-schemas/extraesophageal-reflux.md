@@ -3,7 +3,7 @@ title: "Extraesophageal Reflux (EER)"
 category: diagnostic-schema
 tags: [gerd, extraesophageal-reflux, eer, lpr, chronic-cough, asthma, laryngitis, dental-erosions, ppi, reflux-testing, foregut]
 created: 2026-07-23
-updated: 2026-07-23
+updated: 2026-08-14
 sources: [aga-2023-extraesophageal-gerd, acg-2021-gerd]
 ---
 
@@ -16,7 +16,9 @@ Two postulated mechanisms:
 - **Reflux pathway** — micro-aspiration/direct mucosal injury of the airway by acid or non-acid refluxate.
 - **Reflex pathway** — vagally-mediated airway reactions triggered by distal esophageal acid (no aspiration needed). Because of this pathway, **symptom improvement on a [[proton-pump-inhibitors|PPI]] can occur through mechanisms other than acid suppression and does not confirm GERD** (AGA 2023 BPA 5).
 
-Diagnosis rests on the **global clinical impression** integrating symptoms, endoscopy, reflux monitoring, and treatment response — ideally multidisciplinary (pulmonology, otolaryngology, dentistry, allergy) (BPA 2–3). For the laryngeal manifestation specifically (LPS/LPRD), see the dedicated [[laryngopharyngeal-symptoms|laryngopharyngeal symptoms / LPRD]] page.
+Diagnosis rests on the **global clinical impression** integrating symptoms, endoscopy, reflux monitoring, and treatment response — ideally multidisciplinary (pulmonology, otolaryngology, dentistry, allergy) (BPA 2–3).
+
+**Scope split (read this first).** This page is the **general EER framework** — the four suspected manifestations, the reflux-vs-reflex mechanisms, and the AGA 2023 testing/treatment pathway that applies across all of them. The **laryngeal** manifestation has its own, more granular workup (LPS vs LPRD terminology, laryngoscopy/videostroboscopy, choice of reflux-monitoring modality, laryngeal hyperresponsiveness and behavioral therapy) on [[laryngopharyngeal-symptoms|laryngopharyngeal symptoms / LPRD]] — go there for any patient whose complaint is throat-predominant, and do not duplicate that content here.
 
 ## Differential Diagnosis
 
@@ -35,10 +37,10 @@ Conditions commonly attributed to EER, each with a large non-reflux differential
 ## Diagnostic Algorithm
 
 1. **Characterize symptoms & screen for typical GERD** (heartburn, regurgitation). The presence or absence of typical symptoms drives the pathway.
-2. **EER symptoms WITHOUT typical GERD symptoms** → consider **objective [[reflux-testing|reflux testing]] *before* starting a PPI** (BPA 4) — pre-test probability of reflux causation is low and a positive PPI response would be uninterpretable.
+2. **EER symptoms WITHOUT typical GERD symptoms** → consider **objective [[reflux-testing|reflux testing]] *before* starting a PPI** (BPA 4) — pre-test probability of reflux causation is low and a positive PPI response would be uninterpretable. Cost-effectiveness data also favor early reflux monitoring over an empiric PPI trial in EER.
 3. **EER symptoms WITH typical GERD symptoms** → an **initial single-dose PPI trial, titrating up to twice daily, is reasonable** (BPA 4).
 4. **Failed one PPI trial (up to 12 weeks)** → pursue **objective testing for pathologic GER**; additional trials of *different* PPIs are low-yield (BPA 6). Stop empiric escalation.
-5. **Initial objective testing, tailored to presentation** (BPA 7): [[upper-endoscopy|upper endoscopy]] + [[ambulatory-reflux-monitoring|ambulatory reflux monitoring]]. Perform monitoring **off** acid suppression when GERD is unproven (to establish the diagnosis).
+5. **Initial objective testing, tailored to presentation** (BPA 7): [[upper-endoscopy|upper endoscopy]] + [[ambulatory-reflux-monitoring|ambulatory reflux monitoring]]. Perform monitoring **off** acid suppression **unless previous objective evidence of GERD (e.g. a positive pH study) already exists**. Strongest confidence in EER comes from pathologic acid exposure **plus** a positive symptom–reflux association for the EER symptom.
 6. **Established GERD not responding to high-dose acid suppression** → **pH-impedance monitoring *on* therapy** to assess ongoing acid vs non-acid reflux as the symptom driver (BPA 8).
 7. **Refractory / considering escalation** → alternative treatments (step below) and, only with objectively-defined GERD, shared decision-making about anti-reflux surgery.
 
@@ -50,19 +52,23 @@ Conditions commonly attributed to EER, each with a large non-reflux differential
 | Ambulatory reflux monitoring (pH or pH-impedance), **off** PPI | Establish/exclude pathologic reflux when GERD unproven; AET thresholds per [[ambulatory-reflux-monitoring\|Lyon 2.0]] (>6% proven, <4% excludes) |
 | pH-impedance **on** PPI | Established GERD with persistent symptoms — quantify ongoing acid/non-acid reflux (BPA 8) |
 | Laryngoscopy (via ENT) | Mandatory to exclude non-reflux laryngeal pathology in laryngeal EER — see [[laryngopharyngeal-symptoms]] |
-| Salivary pepsin, oropharyngeal (Restech) pH | **Not recommended** — insufficient specificity/evidence |
+| Empiric PPI trial (as a *test*) | Poor discriminator: meta-analysis in **classic** heartburn/regurgitation gives sensitivity 71–78%, specificity 41–54% vs esophagitis or pH monitoring — performance in EER is expected to be substantially lower still |
+| Salivary pepsin, oropharyngeal (Restech) pH | **Not recommended** — poor concordance with esophageal reflux monitoring and overlapping results between healthy controls and symptomatic patients; currently unlikely to be sufficiently reliable or accurate for EER |
+
+**Threshold gap — proximal reflux.** pH-impedance can count proximal reflux episodes, but there is **no well-established threshold** defining clinically relevant "pathologic" proximal reflux, so proximal event counts cannot be used as a diagnostic cutoff (AGA 2023).
 
 ## Red Flags / Alarm Features
 
-- Hoarseness >4–6 weeks (esp. smoker or age >50) → urgent laryngoscopy to exclude malignancy.
-- [[dysphagia|Dysphagia]], odynophagia, weight loss, GI bleeding → EGD to exclude [[esophageal-cancer|malignancy]]/stricture.
-- Hemoptysis, progressive dyspnea, or abnormal thoracic imaging → pulmonary evaluation.
-- Symptoms refractory to any therapy → revisit the non-reflux differential; reflux may not be the driver.
+- **GI alarm symptoms — [[dysphagia]], weight loss, bleeding, vomiting, and/or anemia** → perform [[upper-endoscopy|endoscopy]] **as soon as feasible** to exclude [[esophageal-cancer|malignancy]] and other mucosal disease ([[acg-2021-gerd]]).
+- **Any laryngeal complaint** → laryngoscopy is required to exclude non-reflux laryngopharyngeal pathology including neoplasia — see [[laryngopharyngeal-symptoms]].
+- **Symptoms refractory to therapy** → revisit the non-reflux differential above; reflux is not the driver in 50–60% of EER presentations, and further PPI trials are low-yield (BPA 6).
+
+> **Gap flag:** no ingested source specifies a *duration* or *age/smoking* threshold that makes hoarseness an urgent-laryngoscopy indication. An ENT/head-and-neck hoarseness guideline would be needed to state one — do not infer it.
 
 ## Treatment Framework
 
 - **Acid suppression** — PPI (single dose → BID) is the mainstay when GERD is documented or typical symptoms coexist; do not equate PPI response with a GERD diagnosis (BPA 5).
-- **Alternatives to acid suppression** (BPA 9): lifestyle modification, alginate-containing antacids, external upper-esophageal-sphincter compression device, cognitive-behavioral therapy, and neuromodulators (esp. for cough via vagal hypersensitivity — see [[laryngopharyngeal-symptoms]]).
+- **Alternatives to acid suppression** (BPA 9): lifestyle modification, alginate-containing antacids, external upper-esophageal-sphincter compression device, cognitive-behavioral therapy, and neuromodulators (esp. for cough via vagal hypersensitivity).
 - **Anti-reflux surgery** (BPA 10): only with **clear, objectively-defined GERD** and shared decision-making; a **lack of PPI response predicts lack of surgical response** and must factor into the decision. See [[antireflux-surgery]].
 
 ---

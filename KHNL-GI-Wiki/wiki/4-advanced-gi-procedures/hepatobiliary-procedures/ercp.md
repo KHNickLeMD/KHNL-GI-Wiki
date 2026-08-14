@@ -13,9 +13,11 @@ sources: [asge-2024-therapeutic-eus-biliary, asge-2023-post-ercp-pancreatitis, a
 
 **Biliary:**
 
-- [[choledocholithiasis|Choledocholithiasis]] with cholangitis — biliary drainage **within 48 h** ([[asge-2021-cholangitis]]); **severe** cholangitis → emergent (<24 h). **In mild-to-moderate cholangitis, urgent (<24 h) drainage is NOT superior to early (24–48 h)** — same 30-day mortality and organ failure, but ~**2× more post-ERCP adverse events** (mainly bleeding), so resuscitate/optimise then drain within 24–48 h rather than rushing (RCT: 3.95% vs 6.58% mortality, HR 0.70; AE 17.1% vs 9.2%, RR 2.03) [[jagtap-2026-urgent-vs-early-ercp-cholangitis]]
-  - *Severe/TG III with septic shock — under question:* ERCP <24 h of **vasopressor initiation** gave no survival advantage over 24–48 h (HR 1.07, 0.81–1.42) in a matched TriNetX cohort; ⚠ DDW 2026 abstract only, does not displace the guideline's emergent-drainage recommendation ([[aloysius-2026-ercp-timing-septic-shock-cholangitis]]). Timing detail lives on [[choledocholithiasis]].
-- Common bile duct stones with obstruction
+- [[choledocholithiasis|Choledocholithiasis]] with cholangitis — biliary drainage **within 48 h** ([[asge-2021-cholangitis]]).
+  - **What ASGE 2021 actually concludes:** ERCP at <24 h or 24–48 h vs >48 h **shortens length of hospitalization but does not change inpatient or 30-day mortality, organ failure, or other core clinical outcomes.** Only in patients **in septic shock who do not respond to fluid resuscitation** does delay associate with adverse events, and there ERCP **<24 h "may be considered"** — not a graded recommendation. *(Note the guideline's own figure legends label <48 h "emergent" and >48 h "urgent" — the reverse of common usage; this page avoids both labels.)*
+  - **In mild-to-moderate cholangitis, urgent (<24 h) drainage is NOT superior to early (24–48 h)** — same 30-day mortality and organ failure, but ~**2× more post-ERCP adverse events** (mainly bleeding), so resuscitate/optimise then drain within 24–48 h rather than rushing (RCT: 3.95% vs 6.58% mortality, HR 0.70; AE 17.1% vs 9.2%, **RR 2.03, 95% CI 1.02–4.07, nominal p=0.042 — not significant after Holm-Bonferroni adjustment** for multiple secondary outcomes; the mortality comparison had only ~18% power) [[jagtap-2026-urgent-vs-early-ercp-cholangitis]]
+  - *Severe/TG III with septic shock — under question:* ERCP <24 h of **vasopressor initiation** gave no survival advantage over 24–48 h (HR 1.07, 0.81–1.42) in a matched TriNetX cohort; ⚠ DDW 2026 abstract only ([[aloysius-2026-ercp-timing-septic-shock-cholangitis]]). Timing detail lives on [[choledocholithiasis]].
+- Common bile duct stones with obstruction. **Whether a patient needs ERCP at all is decided by the [[asge-2019-choledocholithiasis|ASGE 2019]] risk stratification** — high risk (>50%) → direct ERCP; intermediate (10–50%) → [[endoscopic-ultrasound|EUS]]/[[mri-mrcp|MRCP]]/IOC first. The full criteria table (including the combination rule that bilirubin >4 mg/dL is high-risk **only with** a dilated duct, and the >6 mm in-situ vs >8 mm post-cholecystectomy CBD qualifiers) is on **[[choledocholithiasis]]** — one home, not repeated here.
 - [[biliary-stricture|Biliary stricture]] evaluation and drainage — see [[biliary-stricture]]
 - **Post–[[liver-transplantation|liver transplant]] biliary stricture** — ERCP is first-line therapy over PTBD ([[asge-2023-post-transplant-biliary-strictures]]); balloon dilation + stenting. For extrahepatic anastomotic (duct-to-duct) strictures, **covered SEMS preferred over multiple plastic stents** (equivalent resolution, fewer procedures, lower cost); cSEMS unsuitable for intrahepatic or near-bifurcation strictures. Give [[antibiotic-prophylaxis-endoscopy|periprocedural antibiotics]] when complete drainage cannot be ensured (note fluoroquinolone–[[tacrolimus]] CYP3A4 interaction)
 - **Bile leak (post-surgical)** — ERCP is *first-line* therapy; biliary sphincterotomy and/or stenting [[asge-2015-ercp-benign-biliary]]
@@ -55,9 +57,20 @@ sources: [asge-2024-therapeutic-eus-biliary, asge-2023-post-ercp-pancreatitis, a
 
 ## Complications
 
-- **Post-ERCP pancreatitis (PEP):** most common complication (~3–5% standard, higher in high-risk patients)
-  - **High-risk criteria** ([[asge-2023-post-ercp-pancreatitis|ASGE 2023]]) — *patient-related:* suspected sphincter of Oddi dysfunction, prior history of PEP, female sex, age <40, normal serum bilirubin; *procedure-related:* difficult/prolonged cannulation, pancreatic guidewire passage or contrast injection, precut (access) sphincterotomy, pancreatic sphincterotomy, ampullectomy, endoscopic papillary balloon dilation. Risk is cumulative — multiple factors compound.
-  - **Prophylaxis:** rectal indomethacin or diclofenac **100 mg** immediately before/after ERCP (strong rec, all-comers unless contraindicated); aggressive periprocedural lactated Ringer's hydration; **prophylactic pancreatic duct stent (3–5F, preferably 5F)** in high-risk patients when the PD is deeply cannulated/guidewire-passed — NSAID + PD stent combined is optimal for the highest-risk cases
+- **Post-ERCP pancreatitis (PEP):** the **most frequent serious adverse event of GI endoscopy** — occurs in **~8% of average-risk and ~15% of high-risk procedures** ([[asge-2023-post-ercp-pancreatitis|ASGE 2023]]).
+  - **High-risk criteria** ([[asge-2023-post-ercp-pancreatitis|ASGE 2023]]) — *patient-related:* suspected [[sphincter-of-oddi-dysfunction|sphincter of Oddi dysfunction]], prior history of PEP, female sex, age <40, normal serum bilirubin; *procedure-related:* difficult/prolonged/traumatic cannulation with repeated PD injection or deep guidewire access, **precut sphincterotomy without fistulotomy technique**, ampullectomy, **fully covered SEMS placement**. Risk is cumulative — multiple factors compound.
+
+**PEP prophylaxis ([[asge-2023-post-ercp-pancreatitis|ASGE 2023]]) — with grades and the actual regimens:**
+
+| Intervention | Regimen | Strength |
+|---|---|---|
+| **Rectal NSAID** | Indomethacin or diclofenac **100 mg PR**, given **>30 min before or during the procedure** (studies gave it preprocedurally in all but 3) | **Strong** |
+| **Prophylactic PD stent — repeated/deep PD access *or* ampullectomy** | **3F–5F (preferably 5F), no internal flange, 3–7 cm**; short **2–3 cm** stent if the wire cannot pass beyond the pancreatic head. Abdominal x-ray to confirm spontaneous migration; **remove at 2–4 weeks if retained**. Technical success **97%** | **Strong** (Rec 4a) |
+| **Prophylactic PD stent — other high-risk groups** (difficult cannulation, history of PEP, precut sphincterotomy without fistulotomy) | Same spec; place **only if PD access can be easily achieved** | **Conditional** (Rec 4b) |
+| **Aggressive periprocedural hydration** | **Lactated Ringer's 20 mL/kg bolus, then 3 mL/kg/h × 8 h**. **Avoid** in congestive heart failure, renal insufficiency, or advanced liver disease | **Conditional; moderate** |
+| **Wire-guided cannulation** over contrast-guided | Cannulate, then advance the wire; **avoid forceful or repeated wire advancement into the PD**. RR 0.50 (95% CI 0.31–0.72) | **Conditional; moderate** |
+
+- ⚠ **Whether NSAID + PD stent beats NSAID alone is unresolved** — comparative trials to date are **underpowered**; a large multicenter RCT is ongoing.
 - **Cholangitis** (post-procedure biliary infection)
 - **Bleeding** (post-sphincterotomy) — biliary **sphincterotomy** is a strong independent driver (OR ~9–10). Risk is amplified by draining an **incompletely resuscitated cholangitis patient <24 h** (oedematous/hyperaemic papilla, sepsis coagulopathy): urgent (<24 h) ERCP independently predicted post-ERCP haemorrhage (10.5% vs 3.3% for 24–48 h) [[jagtap-2026-urgent-vs-early-ercp-cholangitis]]. Withhold sphincterotomy in patients on [[anticoagulation-gi-bleeding|antiplatelets/anticoagulants]].
 - **Perforation** (rare; retroperitoneal or duodenal)
@@ -87,7 +100,16 @@ sources: [asge-2024-therapeutic-eus-biliary, asge-2023-post-ercp-pancreatitis, a
 
 ## Quality Metrics
 
-*Stub — appropriate indication rate, native ampulla cannulation rate, stone clearance rate, PEP rate.*
+Benchmarks stated in the ingested sources ([[asge-2015-ercp-benign-biliary]]):
+
+| Metric | Target |
+|---|---|
+| Successful endoscopic cholangiography **with relief of biliary obstruction** | **>90% of patients** |
+| Endoscopic sphincterotomy **and stone extraction** | **>90% of cases** |
+| Overall adverse-event rate (sphincterotomy + stone extraction, expert hands) | **~5%** |
+| Mortality (expert hands) | **<1%** |
+
+- ⚠ **Gap:** no **native-papilla cannulation-rate** benchmark, appropriate-indication rate, or PEP-rate target exists in any source cited on this page. Adding the ASGE/ACG *Quality Indicators for ERCP* document would close it — do not supply these numbers from memory.
 
 ---
 

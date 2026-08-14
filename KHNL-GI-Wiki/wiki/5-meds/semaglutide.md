@@ -9,7 +9,7 @@ sources: [aasld-2025-semaglutide-mash, aga-2022-obesity-pharm, hendershot-2025-s
 
 ## Overview
 
-Semaglutide is a glucagon-like peptide-1 receptor agonist (GLP-1 RA) — a long-acting analogue of human GLP-1 that incorporates structural modifications to slow dipeptidyl peptidase-4 (DPP-4) cleavage and prolong receptor activation. It shares 94% sequence homology with human GLP-1 and has a half-life of ~5–7 days, enabling once-weekly subcutaneous dosing. [[aasld-2025-semaglutide-mash]]
+Semaglutide is a [[glp-1-receptor-agonists|glucagon-like peptide-1 receptor agonist (GLP-1 RA)]] — a long-acting analogue of human GLP-1 that incorporates structural modifications to slow dipeptidyl peptidase-4 (DPP-4) cleavage and prolong receptor activation. It shares 94% sequence homology with human GLP-1 and has a half-life of ~5–7 days, enabling once-weekly subcutaneous dosing. [[aasld-2025-semaglutide-mash]]
 
 **Formulations and FDA-approved indications:**
 
@@ -190,7 +190,7 @@ For VCTE 15–20 kPa, MRE 4.4–5 kPa, or ELF 10.5–11.3: individualized treatm
 
 ## See Also
 
-[[nafld-masld]], [[alcohol-associated-liver-disease]], [[acute-pancreatitis]], [[obesity]], [[resmetirom]], [[noninvasive-liver-disease-assessment]], [[liver-stiffness-measurement]], [[liver-biopsy]], [[gastroparesis]], [[acute-cholecystitis]], [[bariatric-surgery]], [[cirrhosis]], [[portal-hypertension]], [[endoscopy-sedation]]
+[[glp-1-receptor-agonists]], [[nafld-masld]], [[alcohol-associated-liver-disease]], [[acute-pancreatitis]], [[obesity]], [[resmetirom]], [[noninvasive-liver-disease-assessment]], [[liver-stiffness-measurement]], [[liver-biopsy]], [[gastroparesis]], [[acute-cholecystitis]], [[bariatric-surgery]], [[cirrhosis]], [[portal-hypertension]], [[endoscopy-sedation]]
 
 ---
 
@@ -200,6 +200,3 @@ For VCTE 15–20 kPa, MRE 4.4–5 kPa, or ELF 10.5–11.3: individualized treatm
 2. [[aga-2022-obesity-pharm|AGA Clinical Practice Guideline: Pharmacological Interventions for Adults with Obesity (2022)]]
 3. [[hendershot-2025-semaglutide-aud|Once-Weekly Semaglutide in Adults With Alcohol Use Disorder: A Randomized Clinical Trial]]
 4. [[aga-2024-glp1-endoscopy|AGA Rapid Clinical Practice Update on the Management of Patients Taking GLP-1 Receptor Agonists Prior to Endoscopy: Communication (2024)]]
-2. [[aga-2022-obesity-pharm|AGA Clinical Practice Guideline: Pharmacological Interventions for Adults with Obesity (2022)]]
-3. [[hendershot-2025-semaglutide-aud|Once-Weekly Semaglutide in Adults With Alcohol Use Disorder (JAMA Psychiatry 2025)]]
-4. [[aga-2024-glp1-endoscopy|AGA 2024 Rapid Clinical Practice Update: Management of Patients Taking GLP-1 Receptor Agonists Prior to Endoscopy]]

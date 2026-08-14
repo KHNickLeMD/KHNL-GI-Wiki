@@ -241,18 +241,18 @@ Small-intestine GISTs are **more aggressive** (40–50% malignant vs 20–25% ga
 
 | Type | Background | Behavior | Management |
 |---|---|---|---|
-| Type 1 | [[atrophic-gastritis\|Atrophic gastritis]] → hypergastrinemia | Indolent; multifocal common | EMR or ESD for prominent tumors ≤10 mm; ESD has higher R0 but clinical significance unclear |
+| Type 1 | [[atrophic-gastritis\|Atrophic gastritis]] → hypergastrinemia (antral G cells) | Indolent; multifocal common | **EMR or ESD** for prominent tumors ≤10 mm — no preference (Rec 9). Comparative data actually favor EMR: R0 **95% (EMR) vs 83% (ESD)** (P = 0.17) and less vertical-margin involvement (**3% vs 17%**, P = 0.04) |
 | Type 2 | MEN-1 syndrome → hypergastrinemia | Low metastatic rate; multifocal | Endoscopic resection for debulking or bleeding control; EMR vs. ESD per local expertise |
 | Type 3 | Sporadic; no hypergastrinemia | More aggressive | ESD preferred for small (<1 cm), low-grade, no lymphadenopathy; positive margins require surgical resection |
 
 ### Rectal NETs
 
-- <1 cm, low-grade: endoscopic resection (EMR or ESD — no proven superiority)
+- **Metastatic risk by size:** **3%** if ≤10 mm, **66%** at 11–19 mm, **73%** if ≥20 mm — this size ladder is the decision
+- <1 cm, low-grade: endoscopic resection (EMR or ESD — no proven superiority, Rec 11)
   - Band ligation EMR: 96–100% R0 resection rate
   - Underwater EMR: equivalent to ESD in R0 rate with shorter procedure time
   - ESD: may have lower R0 than band EMR in some studies (54–75%)
-- 11–19 mm: 66% metastatic risk → more aggressive approach warranted
-- ≥20 mm: 73% metastatic risk → surgical evaluation
+- 11–19 mm → more aggressive approach warranted; ≥20 mm → surgical evaluation
 - EUS for lymphadenopathy staging: not mandatory for small (<1 cm) incidental rectal NETs found at [[colonoscopy]] — primary excision often performed at time of discovery
 
 ### Duodenal NETs

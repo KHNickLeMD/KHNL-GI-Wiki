@@ -190,10 +190,16 @@ Before initiating antibiotic therapy: make an objective effort to diagnose SIBO 
 
 **IMO-specific treatment (methane/constipation):**
 
-- Rifaximin alone (400 mg t.i.d.) + neomycin (500 mg b.i.d.) combination most effective: 87% methane reduction to <3 ppm on repeat breath testing
-- Neomycin alone: 33% methane reduction
-- Rifaximin alone: 28% methane reduction
+Retrospective chart review of 74 patients with IMO (lactulose breath test), 10 days of therapy. The figures are the **proportion of patients whose methane fell to undetectable levels (<3 ppm)** on repeat breath testing — not the percentage by which methane fell:
+
+| Regimen | Patients reaching CH₄ <3 ppm |
+|---|---|
+| **Rifaximin 400 mg t.i.d. + neomycin 500 mg b.i.d.** | **87%** |
+| Neomycin 500 mg b.i.d. alone | 33% |
+| Rifaximin 400 mg t.i.d. alone | 28% |
+
 - Combination superior to either monotherapy for IMO
+- Separately, 10 days of neomycin 500 mg b.i.d. reduced methane to <3 ppm in **20%** of patients vs **1%** on placebo
 
 **Recurrence:**
 

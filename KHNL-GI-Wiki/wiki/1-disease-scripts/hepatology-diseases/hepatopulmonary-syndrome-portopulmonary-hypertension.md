@@ -1,0 +1,101 @@
+---
+title: "Hepatopulmonary Syndrome and Portopulmonary Hypertension"
+category: disease-script
+tags: [hepatopulmonary-syndrome, hps, portopulmonary-hypertension, poph, liver-transplant, portal-hypertension, pulmonary, cirrhosis]
+created: 2026-05-25
+updated: 2026-08-14
+sources: [aasld-ast-2025-liver-transplant-candidate-evaluation]
+---
+
+Two pulmonary **vascular** complications of liver disease and [[portal-hypertension|portal hypertension]] — unique to liver disease, relatively common, and both may resolve after [[liver-transplantation|liver transplant (LT)]]. Both are decisive for LT candidacy: HPS earns exception points and is cured by LT, whereas uncontrolled POPH is a contraindication to it.
+
+## Contents
+- [[#Assessment]]
+  - [[#Establishing the Diagnosis]]
+  - [[#Severity Assessment]]
+- [[#Differential Diagnosis]]
+- [[#Diagnostics]]
+- [[#Therapeutics]]
+
+## Assessment
+
+### Establishing the Diagnosis
+
+| | **Hepatopulmonary syndrome (HPS)** | **Portopulmonary hypertension (POPH)** |
+|---|---|---|
+| Lesion | Intrapulmonary vascular dilatations (IPVDs) → abnormal oxygenation | Vasoconstriction + remodeling of pulmonary arterial resistance vessels |
+| Setting | Chronic liver disease and/or portal hypertension | [[cirrhosis]] and/or portal hypertension |
+| Class | — | Pulmonary arterial hypertension, WHO **group 1** |
+| Criteria | **Both** required: (1) microbubbles in the left heart **≥3 cardiac cycles** after right-heart microbubbles, following **10 mL** agitated saline injected in a peripheral arm vein on bubble echocardiography; **and** (2) alveolar–arterial gradient **>15 mm Hg** (**>20 mm Hg** if age >64) | Screen by TTE, **confirm by right heart catheterization (RHC)** — elevated mean pulmonary artery pressure (mPAP) with increased pulmonary vascular resistance (PVR) |
+
+> ⚠ **Gap — POPH hemodynamic definition not in an ingested source.** [[aasld-ast-2025-liver-transplant-candidate-evaluation]] requires RHC to confirm "elevated mPAP and increased PVR" but never states the diagnostic mPAP / PVR / wedge-pressure cutoffs; only the *candidacy* thresholds below are given. The ILTS practice guideline on HPS and POPH (Krowka 2016, *Transplantation* 100:1440–52 — cited by AASLD but not ingested) would close this. Do not infer the numbers.
+
+### Severity Assessment
+
+- **HPS** — graded by PaO₂ on arterial blood gas (ABG). Decision points captured by the source:
+  - PaO₂ **<60 mm Hg** with portal hypertension and no other pulmonary etiology → qualifies for **MELD exception points** (US; see OPTN policy for the full non-malignancy exception list).
+  - **No PaO₂ cutoff excludes LT** — select patients with PaO₂ **<50 mm Hg** have been transplanted successfully.
+
+  > ⚠ **Gap — HPS severity bands not sourced.** Rec 21 directs ABG "to determine severity and urgency," but the PaO₂ cutoffs defining the mild/moderate/severe/very-severe bands are not stated anywhere in [[aasld-ast-2025-liver-transplant-candidate-evaluation]]. Same ILTS source needed.
+
+- **POPH** — graded by mPAP + PVR **on optimized therapy**, which is what sets candidacy (see [[#Therapeutics]]).
+
+## Differential Diagnosis
+
+Pulmonary disease in the LT candidate falls into three groups; HPS/POPH are group 3, and the other two must be excluded before attributing hypoxemia or pulmonary hypertension to the liver:
+
+1. **Disorders affecting both organs** — cystic fibrosis, alpha-1 antitrypsin deficiency, sarcoidosis, [[hereditary-hemorrhagic-telangiectasia|hereditary hemorrhagic telangiectasia]]. Uncommon, and usually recognized before LT consideration.
+2. **Lung disorders independent of liver disease** — asthma, COPD, interstitial lung disease, lung nodules. No established screening protocol, but testing is common.
+3. **Pulmonary vascular complications of liver disease** — HPS and POPH.
+
+- For POPH specifically, RHC must exclude **left heart disease** as the cause of the elevated pressures.
+- Other cirrhosis-related causes of respiratory compromise (hepatic hydrothorax, tense [[ascites]]) are treated on their own terms — see [[acute-on-chronic-liver-failure]].
+
+## Diagnostics
+
+*Graded statements from [[aasld-ast-2025-liver-transplant-candidate-evaluation]] (Recs 17–22).*
+
+| Test | Recommendation | Grade |
+|---|---|---|
+| Chest imaging | Perform in **all** LT candidates (covers differential groups 1–2) | Strong, Level 4 |
+| Pulmonary function tests | **Not** indicated routinely absent concomitant lung disease or significant pulmonary risk factors (tobacco, occupational, environmental) | Strong, Level 2 |
+| Bubble echocardiography (agitated saline contrast) | **Most sensitive** test for IPVDs/HPS; recommended for screening when available pre-LT | Weak, Level 1 |
+| Bubble echocardiography — targeted use | In centers not screening routinely, perform when **pulmonary symptoms or oxygenation abnormalities** are present (dyspnea without cardiac dysfunction, platypnea, orthodeoxia) | Strong, Level 3 |
+| Pulse oximetry + ABG | Consider once contrast echo confirms IPVDs, to determine **severity and urgency for transplantation** | Strong, Level 3 |
+| Right heart catheterization | Required when TTE shows **RVSP >45 mm Hg** or abnormal RV structure/function, with subspecialty consultation if POPH is confirmed | Strong, Level 1 |
+
+- The guideline authors could **not reach consensus** on routine bubble echo for every candidate — hence "when available and when HPS is suspected."
+- Pulse oximetry alone is insensitive for HPS; pair it with ABG.
+
+## Therapeutics
+
+**HPS**
+
+- **LT is curative** — no PaO₂ threshold precludes it.
+- Extracorporeal membrane oxygenation (ECMO) can support oxygenation perioperatively in the most severe cases.
+
+**POPH — candidacy is the therapeutic decision**
+
+| mPAP | PVR | On optimized therapy → status |
+|---|---|---|
+| <35 mm Hg | <5 WU | Standard **MELD exception** criteria |
+| 35–45 mm Hg | <3 WU | Standard **MELD exception** criteria |
+| 45 mm Hg | >3 WU | **Contraindication to transplantation** (Strong, Level 1) |
+
+- Optimization must be directed by a **pulmonary hypertension specialist**; subspecialty consultation is required once POPH is confirmed.
+- Sustained response to medical therapy → LT can be considered, **particularly with more advanced liver disease** (Weak, Level 2); the survival benefit of LT in responders is greatest at **MELD >15**.
+- Poorly controlled POPH carries poor 5-year survival; targeted medications have improved control and prolonged survival.
+- **≥50%** of POPH patients have resolution after LT, and long-term post-LT survival is excellent in medical-therapy responders — the basis for the standard MELD exception.
+- Intraoperative extracorporeal support to bridge higher-risk POPH patients is of increasing interest but has **not** shown long-term survival benefit (too few supported patients reaching LT).
+
+> ⚠ **Gap — POPH drug therapy not sourced.** [[aasld-ast-2025-liver-transplant-candidate-evaluation]] refers only to "multiple new targeted medications" and never names the PAH drug classes or agents. A previously listed set of classes (endothelin receptor antagonists, PDE-5 inhibitors, prostacyclin analogues) was **not supported by any ingested source and has been removed**. A PAH/ILTS guideline would be needed.
+
+## See Also
+
+[[cirrhosis]], [[portal-hypertension]], [[liver-transplantation]], [[portal-vein-thrombosis]], [[budd-chiari-syndrome]], [[acute-liver-failure]], [[acute-on-chronic-liver-failure]], [[hereditary-hemorrhagic-telangiectasia]], [[ascites]]
+
+---
+
+## Sources
+
+1. [[aasld-ast-2025-liver-transplant-candidate-evaluation|AASLD AST 2025: Practice Guideline on Adult Liver Transplantation — Candidate Evaluation]]

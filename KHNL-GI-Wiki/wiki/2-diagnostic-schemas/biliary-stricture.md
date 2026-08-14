@@ -3,7 +3,7 @@ title: "Biliary Stricture"
 category: diagnostic-schema
 tags: [biliary-stricture, ercp, eus, cholangioscopy, obstructive-jaundice, cholangiocarcinoma, hepatobiliary]
 created: 2026-05-15
-updated: 2026-08-11
+updated: 2026-08-14
 sources: [acg-2023-biliary-strictures, asge-2023-indeterminate-biliary-strictures, asge-2023-post-transplant-biliary-strictures]
 ---
 
@@ -154,6 +154,9 @@ If a diagnosis remains elusive after index ERCP:
 - **fcSEMS preferred over MPS** to reduce number of procedures (Conditional, Low evidence); equivalent resolution (~80–90%) and recurrence
 - **Duration:** 12 months for MPS; at least 6 months for fcSEMS (12 months may be superior; exchange at 6 months if targeting 12-month dwell to reduce embedment)
 - Single plastic stent alone: inadequate for most stricture types — not recommended
+- **When is the stricture "resolved"?** Cholangiographic resolution = **residual stricture diameter no less than 75% of the duct above and below**. Other proposed endpoints: complete disappearance of the stricture, and/or the ability to pass an extraction balloon across it with minimal-to-no resistance (especially in the upstream direction)
+- MPS technique: exchange/upsize every ~3 months to the maximum number of **10-French** stents the stricture accepts, for a median of 12 months (Rome protocol; 89% long-term response at 4 years)
+- Favor MPS over fcSEMS when the stricture is **within 1–1.5 cm of the hepatic hilum**, when the cystic duct orifice cannot be avoided, when fcSEMS has previously migrated or was not tolerated, or after recurrence following fcSEMS removal
 - fcSEMS caution: if gallbladder in situ and cystic duct orifice cannot be avoided, favor MPS (fcSEMS covering cystic takeoff → ~7% [[acute-cholecystitis|cholecystitis]])
 - Confirm malignancy is excluded before committing to any stent strategy
 
@@ -166,6 +169,7 @@ If a diagnosis remains elusive after index ERCP:
 #### Malignant — Unresectable or Borderline Resectable
 
 - **SEMS over plastic stent** (Strong, Moderate evidence) — longer patency, fewer cholangitis events, fewer chemotherapy interruptions, better QOL
+- **Drainage target:** reduce serum bilirubin to a level at which chemotherapy can be safely given — typically **~2.5–3.5 mg/dL**. (In perihilar disease, a meaningful response has been defined as bilirubin ≤2 mg/dL or a 50% fall from the pre-ERCP value; QOL gains are lost if bilirubin stays ≥14 mg/dL)
 - uSEMS vs fcSEMS: **insufficient evidence** to prefer one; roughly equivalent patency. Favor uSEMS if cystic duct takeoff cannot be avoided
 - **Confirm malignancy before uSEMS placement** — uSEMS becomes permanently embedded; misplacement in benign disease causes lifelong complications
 - If patient is a potential pancreaticoduodenectomy candidate and uSEMS is placed: position proximal end **≥1.5 cm below the biliary confluence**

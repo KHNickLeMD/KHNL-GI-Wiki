@@ -24,16 +24,23 @@ sources: [acg-2015-hereditary-gi-cancer, usmstf-2015-crc-surveillance, usmstf-20
   - [[#Step 1 — Perioperative Clearing Colonoscopy]]
   - [[#Step 2 — First Postoperative Surveillance Colonoscopy]]
   - [[#Step 3 — Subsequent Surveillance Intervals]]
+  - [[#Post-Resection Surveillance Summary Schedule]]
   - [[#Additional Considerations for Rectal Cancer]]
   - [[#Fecal Testing in Post-Resection Surveillance]]
 - [[#FIT Screening for CRC — Primary Screening (Average-Risk)]]
+  - [[#Overview and Rationale]]
   - [[#FIT Performance Characteristics — Single Application]]
   - [[#Threshold (Hemoglobin Cut-off Value)]]
   - [[#Qualitative vs. Quantitative FIT]]
   - [[#Number of Samples]]
+  - [[#Interval]]
+  - [[#FIT vs. gFOBT]]
   - [[#Follow-up of a Positive FIT]]
+  - [[#Practical Considerations]]
   - [[#Programmatic Quality Targets (USMSTF 2016)]]
   - [[#Conflict with 2021 Guidelines]]
+- [[#See Also]]
+- [[#Sources]]
 
 ## Assessment
 

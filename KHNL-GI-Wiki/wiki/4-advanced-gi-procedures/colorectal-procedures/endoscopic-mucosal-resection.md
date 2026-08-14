@@ -3,7 +3,7 @@ title: "Endoscopic Mucosal Resection (Colorectal)"
 category: advanced-procedure
 tags: [emr, endoscopic-resection, polypectomy, cold-snare, underwater-emr, hot-avulsion, lifting-agents, colorectal, post-emr-surveillance]
 created: 2026-08-11
-updated: 2026-08-13
+updated: 2026-08-14
 sources: [usmstf-2020-endoscopic-removal, asge-2020-endoscopic-removal, aga-2025-lifting-agents, usmstf-2020-followup-colonoscopy]
 ---
 
@@ -45,7 +45,7 @@ Snare resection over a submucosal cushion (or under water), the first-line techn
 - Inspect defect for perforation features; clip close if risk present
 - Right colon defects ≥20mm: prophylactic clip closure when feasible
 - Intraprocedural bleeding: coagulation forceps / snare-tip soft coag / clips ± dilute epinephrine
-- **Post-polypectomy bleeding benchmark:** Delayed bleeding rate for EMR ≥20mm should be <5% (quality benchmark); hot snare polypectomy ≤9mm benchmark <1%
+- ⚠ **No numeric delayed-bleeding quality benchmark is stated in the ingested sources.** [[usmstf-2020-endoscopic-removal|USMSTF]]/[[asge-2020-endoscopic-removal|ASGE 2020]] instead direct endoscopists to a **local quality-assurance program that measures and reports post-polypectomy adverse events** (bleeding, perforation, hospital admissions) — Strong recommendation, moderate-quality evidence; see [[polypectomy]]. A target threshold would require ingesting the ASGE/ACG colonoscopy quality-indicator document.
 - **Prophylactic vessel coagulation (hot forceps / soft coag to visible vessels in defect):** One RCT showed no reduction in delayed post-polypectomy bleeding compared with no prophylactic treatment — routine coagulation of non-bleeding vessels is NOT recommended
 
 ---
@@ -54,7 +54,7 @@ Snare resection over a submucosal cushion (or under water), the first-line techn
 
 - Water immersion instead of submucosal injection; mucosa/submucosa involute, MP remains circular
 - Avoids injection step; useful for flat lesions, some right colon lesions
-- Delayed bleeding 2–5%; 1 case report perforation with retroflexion
+- Delayed bleeding **2–5%** for colon lesions ≥10 mm; **1 case report** of perforation (proximal colon lesion removed in retroflexion) ([[asge-2020-endoscopic-removal]])
 - **Recurrence data:** Underwater EMR recurrence rates 7–15% for ≥20mm lesions (comparable to inject-and-cut EMR); insufficient data to prefer one over the other
 
 ---

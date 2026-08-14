@@ -31,12 +31,16 @@ Chronic, immune/antigen-mediated esophageal disease. Characterized by esophageal
 | School-age children | Abdominal pain, vomiting, regurgitation |
 | Adolescents/adults | Dysphagia, food impaction |
 
-**IMPACT behaviors** (adaptive behaviors masking symptoms):
+**IMPACT behaviors** — adaptive behaviors that mask dysphagia; ask about each while taking the history ([[acg-2025-eoe]], Table 4):
 
-- Eating slowly, cutting food small, chewing excessively
-- Avoiding bread, meat, rice
-- Drinking excess liquid with meals
-- Avoiding eating in public
+| | Behavior | What to ask about |
+|---|---|---|
+| **I** | Imbibe fluids | Drinking a lot of liquid to get each bite down |
+| **M** | Modify foods | Cutting food into small pieces, pureeing |
+| **P** | Prolong meal times | Eating slowly; "last one at the table" |
+| **A** | Avoid hard-texture foods | Meats, crusty breads, sticky-consistency foods removed from diet |
+| **C** | Chew excessively | Chewing to a mush-like consistency before swallowing |
+| **T** | Turn away tablets/pills | Pill dysphagia — often the only sign of swallowing dysfunction |
 
 **Endoscopic findings (EREFS scoring, 0–9 scale):**
 
@@ -52,14 +56,15 @@ Chronic, immune/antigen-mediated esophageal disease. Characterized by esophageal
 
 ### Severity Assessment
 
-| Domain | Mild | Moderate-Severe |
-|---|---|---|
-| Symptoms | Occasional dysphagia, no impactions | Frequent dysphagia, food impactions, weight loss |
-| Endoscopy | Furrows/exudates, EREFS ≤4 | Rings, stricture, crepe-paper mucosa, EREFS >4 |
-| Histology | 15–50 eos/hpf | >50 eos/hpf |
-| Phenotype | Inflammatory | Fibrostenotic |
+Severity is assessed across three domains — **symptoms, endoscopic activity (EREFS), and histologic activity** — not by any one of them alone ([[acg-2025-eoe]]):
 
-**Fibrostenotic phenotype:** rings + strictures; transmural inflammation + fibrosis; requires dilation in addition to medical therapy. Endoscopy underestimates stricture severity (sensitivity ~15%); esophagram more accurate.
+- **Peak eosinophil count must be quantified, not just reported as ">15 eos/hpf"** — the number is needed to gauge treatment effect (200 → 150 is no meaningful response; 200 → 20 is). But the count does **not** scale with clinical severity: a patient with 200 eos/hpf is not twice as severe as one with 100.
+- **Report other histologic features** alongside the count — basal zone hyperplasia, dilated intercellular spaces, lamina propria fibrosis — which can indicate ongoing activity despite a low eosinophil count.
+- **I-SEE (Index of Severity in EoE):** ACG 2025 advises providers **could consider** using I-SEE to assess baseline severity; it is developed but still undergoing validation, and its role in matching severity to treatment/monitoring is an explicit knowledge gap.
+
+*Gap: the I-SEE components and point values are not reproduced in [[acg-2025-eoe]] (cited to a separate 2022 paper, not ingested) — the score cannot be computed from this page. Needed source: Dellon ES, Khoury P, Muir AB, et al. A clinical severity index for EoE.*
+
+**Fibrostenotic phenotype:** rings + strictures; transmural inflammation + fibrosis; requires dilation in addition to medical therapy. Endoscopy badly underestimates stricture severity — esophagram (and EndoFLIP) are more accurate; the sensitivity data are under Adjunct: Esophageal Dilation.
 
 **Persistent symptoms despite histologic + endoscopic remission** → evaluate for a subtle **stricture** (esophagram) or an esophageal **motility disorder**; some patients with EoE develop dysmotility, and EoE carries an increased risk of [[achalasia]]. Consider further motility evaluation. ([[aga-2024-esophageal-immunity-infection|AGA 2024]])
 
@@ -205,7 +210,7 @@ Chronic, immune/antigen-mediated esophageal disease. Characterized by esophageal
 - **Safety:** clinical improvement 95%; perforation <0.5%; hospitalization <1%
 - **ALWAYS pair with anti-inflammatory therapy** — dilation does not treat EoE
 - Technique: start conservative; work to "dilation effect" (mucosal disruption); use multiple sessions if needed
-- Empiric dilation may help even without endoscopically visible stricture (endoscopy misses ~85% of strictures)
+- Empiric dilation may help even without an endoscopically visible stricture — endoscopy detects a narrowed esophagus with sensitivity of only **14.7%** (specificity 79.2%), rising to just **25%** at a ≤15 mm cutoff; **71%** of patients with no perceived narrowing at endoscopy still responded symptomatically to dilation
 - Pediatric: esophagram before dilation to detect unrecognized narrowing
 
 ### Maintenance Therapy

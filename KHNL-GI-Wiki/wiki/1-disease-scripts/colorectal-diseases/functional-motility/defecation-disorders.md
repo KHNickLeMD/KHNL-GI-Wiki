@@ -62,10 +62,10 @@ Severity based on symptom burden, laxative dependence, impact on QoL (PAC-QoL, P
 **[[anorectal-manometry|Anorectal manometry]] (ARM) + balloon expulsion test (BET) — both required:**
 
 - ARM: documents resting tone, squeeze, push effort pressures; rectoanal inhibitory reflex; defecation dynamics
-  - Dyssynergia pattern: failure to reduce anal sphincter pressure to <50% of baseline (or paradoxical increase) during push maneuver; poor or absent rectal propulsion
+  - Dyssynergia pattern: **impaired relaxation or paradoxical contraction** of the external anal sphincter and/or puborectalis during the push maneuver, and/or **inadequate rectal propulsive forces**. *(A specific "<50% of baseline" anal-pressure cutoff is **not** stated in [[acg-2021-anorectal-disorders]] — the previously listed threshold was unsourced and has been removed.)*
   - [[high-resolution-manometry|High-resolution manometry]] is preferred; provides spatial pressure mapping
 - BET: balloon filled with 50 mL water expelled in seated position; normal ≤1 minute (commercial Mui Scientific balloon); >1 minute = abnormal
-  - Sensitivity ~80%, specificity ~56% for dyssynergia
+  - Against defecography as the reference: **sensitivity and specificity both ~88%**, **PPV 64%, NPV 97%** (106 functional-constipation + 24 DD patients). The high NPV is the operative number — a normal BET largely excludes a defecation disorder, while a positive one needs corroboration. Test mechanics live on [[anorectal-manometry]].
   - Not performed with Foley catheter (upper limit 2 minutes with Foley — misclassifies 25% of healthy individuals)
 - Both ARM + BET required; single test insufficient (concordance >70% but tests assess different aspects)
 

@@ -21,8 +21,12 @@ sources: [acg-2021-ugib, asge-2010-pud, aga-2024-pcab]
 
 ### Establishing the Diagnosis
 
-- Defined as mucosal break ≥5 mm with depth into submucosa, in stomach (gastric ulcer, GU) or duodenum (duodenal ulcer, DU)
-- Etiology: [[helicobacter-pylori-infection|H. pylori]] (~50% globally), NSAIDs/aspirin, idiopathic (~20%), Zollinger-Ellison, malignancy (GU), critical illness, viral (CMV, HSV in immunocompromised)
+- A mucosal ulcer of the stomach (gastric ulcer, **GU**) or duodenum (duodenal ulcer, **DU**)
+- **Uncomplicated PUD** = absence of GI bleeding, obstruction, and perforation [[asge-2010-pud]]
+- Etiology: [[helicobacter-pylori-infection|H. pylori]] and NSAIDs/aspirin are the two treatable causes ASGE directs management at; also idiopathic (H. pylori-negative, NSAID-negative), gastrin-hypersecretory states (Zollinger-Ellison), and malignancy (GU) [[asge-2010-pud]]
+- **Large ulcers (>2 cm) carry a higher incidence of complications** — bleeding, penetration, and perforation [[asge-2010-pud]]
+
+> **Sourcing gap:** the size/depth definition of an ulcer (mucosal break ≥5 mm extending into submucosa) and the proportion of PUD attributable to each etiology are **not stated in any ingested source** and are deliberately not asserted here. A dedicated PUD guideline or textbook chapter would be needed.
 
 ### Severity Assessment
 
@@ -36,19 +40,20 @@ sources: [acg-2021-ugib, asge-2010-pud, aga-2024-pcab]
 
 ## Diagnostics
 
-- [[upper-endoscopy|EGD]] with biopsy of gastric ulcers (rule out malignancy; ≥4 biopsies of ulcer base + edge)
-- All GU require biopsy + follow-up EGD at 8–12 weeks to confirm healing
-- **DU:** routine biopsy *not* recommended (rarely malignant); no EGD needed for benign-appearing, uncomplicated DU seen on imaging [[asge-2010-pud]]
-- **GU biopsy/surveillance individualize** — most GU should be biopsied (malignant GU can look benign), but low-risk settings (eg, young NSAID user, multiple benign-appearing ulcers) may not need it; surveillance EGD for GU that stays symptomatic, lacks a clear etiology, or was not biopsied at index EGD [[asge-2010-pud]]
-- H. pylori testing in all PUD (Strong)
-- Fasting gastrin if recurrent/refractory/multiple → Zollinger-Ellison
+- **GU: biopsy most, but individualize** [[asge-2010-pud]] — malignant GU can look benign, so ASGE suggests **most** gastric ulcers undergo biopsy; in low-risk settings (e.g. a young NSAID user with multiple benign-appearing shallow flat antral ulcers) the malignancy risk is very low and the decision to biopsy is individualized. Where the ulcer looks suspicious (irregular base, heaped/uneven borders, abnormal adjacent folds), biopsy. **Brushings add little and are not an alternative or adjunct to biopsy**
+- **False-negative index biopsies occur in 2%–5%** — so an endoscopically suspicious GU warrants surveillance EGD and repeat biopsy **even when the index biopsy was benign**
+- **Surveillance EGD for GU** that remains symptomatic, lacks a defined etiology, or was not biopsied at the index EGD; **any ulcer unhealed after 8–12 weeks of medical therapy should be biopsied** [[asge-2010-pud]]
+- **DU:** routine biopsy *not* recommended (extremely unlikely to be malignant); no EGD needed for benign-appearing, uncomplicated DU seen on imaging [[asge-2010-pud]]
+- **Test for [[helicobacter-pylori-infection|H. pylori]] in all PUD** — endoscopic options are biopsy for histology, culture, or rapid urease test [[asge-2010-pud]]
+- Consider gastrin-hypersecretory states (Zollinger-Ellison) among the causes of persistent non-healing PUD; surgical consultation may be considered [[asge-2010-pud]]
 
 ## Therapeutics
 
-- [[proton-pump-inhibitors|PPI]] BID × 4–8 weeks (DU) or 8–12 weeks (GU); consider IV PPI for active bleeding ulcers
+- **Ulcer healing:** [[proton-pump-inhibitors|PPI]] acid suppression; ASGE frames non-healing as ulcer persisting after **8–12 weeks** of antisecretory therapy [[asge-2010-pud]]
 - H. pylori eradication if positive (see [[helicobacter-pylori-infection]] for regimens)
-- Discontinue NSAIDs; if continued NSAID needed, co-prescribe PPI; consider COX-2 selective
-- Acute bleeding: endoscopic hemostasis per Forrest class; perform EGD *early* in hospitalization; repeat endoscopic therapy for rebleeding before surgery/IR; high-dose PPI 80 mg bolus + 8 mg/h × 72h [[asge-2010-pud]]
+- Discontinue NSAIDs; if continued NSAID needed, co-prescribe PPI; maintain antisecretory therapy when aspirin must be continued [[asge-2010-pud]]
+- **Acute bleeding — high-dose PPI after successful endoscopic hemostasis:** continuously **or intermittently for 3 days** (ACG 2021 Rec 13, **Strong**). *High dose* = **≥80 mg daily for at least 3 days**; the continuous regimen studied is an **80-mg bolus followed by 8 mg/hr infusion**, and intermittent regimens studied include **40 mg orally b.i.d., 20 mg orally q6h, and an 80-mg bolus followed by 40 mg q8h or q12h** — meta-analysis found no difference in treatment effect between continuous and intermittent [[acg-2021-ugib]]
+- Acute bleeding: endoscopic hemostasis per Forrest class; perform EGD *early* in hospitalization; repeat endoscopic therapy for rebleeding before surgery/IR — rebleeding after initial endotherapy is managed with repeat endotherapy plus high-dose PPI [[asge-2010-pud]]
 - **Gastric outlet obstruction:** EGD to confirm and exclude malignancy; endoscopic balloon dilation for *benign* GOO (67–83% short-term relief) but high restenosis (up to 84%), ~51% ultimately need surgery, perforation 4–7%; >2 dilations predicts endoscopic failure [[asge-2010-pud]]
 - **No endoscopy if acute perforation**; endoscopy has no therapeutic role in penetrating ulcers [[asge-2010-pud]]
 - Refractory: maximize PPI, switch to [[vonoprazan]], surgical consult, evaluate Zollinger-Ellison

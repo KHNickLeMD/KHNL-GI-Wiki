@@ -3,7 +3,7 @@ title: "Cowden Syndrome (PTEN Hamartoma Tumor Syndrome)"
 category: disease-script
 tags: [cowden, pten, phts, hamartoma, hereditary-cancer, breast-cancer, thyroid-cancer, endometrial-cancer, colorectal-cancer, genetic-testing]
 created: 2026-05-19
-updated: 2026-08-05
+updated: 2026-08-14
 sources: [acg-2015-hereditary-gi-cancer, aga-2022-hamartomatous-polyposis]
 ---
 
@@ -55,12 +55,12 @@ Cowden syndrome (CS), also called PTEN hamartoma tumor syndrome (PHTS), is cause
 
 ## Diagnostics
 
-**[[colonoscopy|Colonoscopy]] — start at age 35** (earlier if symptomatic) — **[[aga-2022-hamartomatous-polyposis|USMSTF/AGA 2022]]** (newer guideline; supersedes the earlier start age):
+**[[colonoscopy|Colonoscopy]] — begin at age 35, repeat at intervals no greater than 5 years, depending on polyp burden** *(Weak, low)* — [[aga-2022-hamartomatous-polyposis|USMSTF/AGA 2022]]:
 
-- Colon cancer risk 9–16%; one multicenter study found 13% of PTEN carriers had colon cancer, all <50 years of age
-- **Repeat every 2 years** ([[acg-2015-hereditary-gi-cancer|ACG 2015]] interval — the 2022 guideline sets the start age but does not specify a Cowden-specific repeat interval), shortening for higher polyp burden
+- **Start earlier — 10 years younger than the age of any relative with [[colorectal-cancer|colorectal cancer]]** (the guideline's general rule: where very-early-onset cancers occur, start 10 years before the youngest family diagnosis)
+- Colon cancer risk 9–16%; one multicenter study found 13% of PTEN carriers had colon cancer, all <50 years of age — so shorten the interval well inside 5 years for a meaningful polyp burden
 
-> **Contradiction (surfaced, not silently resolved):** [[acg-2015-hereditary-gi-cancer|ACG 2015]] advised colonoscopy **from age 15, every 2 years** (conditional, low). The newer [[aga-2022-hamartomatous-polyposis|USMSTF 2022]] hamartomatous-polyposis guideline sets the start age at **35**. Per source priority (same tier → newer publication wins), the page follows 2022; symptomatic patients are scoped earlier regardless.
+> **Contradiction (surfaced, not silently resolved):** [[acg-2015-hereditary-gi-cancer|ACG 2015]] advised colonoscopy **from age 15, every 2 years** (conditional, low). The newer [[aga-2022-hamartomatous-polyposis|USMSTF 2022]] guideline sets **age 35, interval ≤5 years**. Per source priority (same tier → newer publication wins), the page follows 2022. Note this is a *later* start with a *longer* maximum interval — the older ACG schedule is the more intensive of the two.
 
 **[[upper-endoscopy|EGD]]/Upper GI and small bowel** — from age 15, every 2–3 years ([[acg-2015-hereditary-gi-cancer]]):
 
@@ -70,10 +70,11 @@ Cowden syndrome (CS), also called PTEN hamartoma tumor syndrome (PHTS), is cause
 
 - Annual thyroid exam and baseline ultrasound from **adolescence** (Conditional/Low)
 
-**Breast** (women) — [[acg-2015-hereditary-gi-cancer|ACG 2015]] Table 10:
+**Breast** (women) — [[aga-2022-hamartomatous-polyposis|USMSTF 2022]]:
 
-- Monthly self-exam from age 25
-- Annual mammography and breast MRI from age 30–35
+- **Clinical breast examination every 6–12 months from age 25** (ACG 2015 instead advised monthly self-exam from 25)
+- **Annual mammography + breast MRI from age 30–35**, or **5–10 years before the earliest known breast cancer in the family**
+- Refer to a breast specialist; involve a breast surgeon in any prophylactic-mastectomy discussion
 
 **Uterine / endometrial**:
 

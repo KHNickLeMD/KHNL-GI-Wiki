@@ -44,6 +44,13 @@ Note: Therapeutic EUS now accounts for >50% of accepted EUS indications. Indicat
 
 ### Preprocedure
 
+| Indicator ([[acg-2025-eus-quality]]) | Target |
+|---|---|
+| Appropriate, documented indication (**priority indicator**) | **>90%** |
+| **Informed consent** obtained and fully documented | **>98%** |
+| **Prophylactic antibiotics** administered for appropriate indications *(level 1B)* | **>98%** |
+| EUS performed or supervised by a **fully trained, credentialed endosonographer** | **>98%** |
+
 - **Informed consent** must include EUS-specific risks (pancreatitis, infection, bile leak, perforation, bleeding based on procedure type)
 - **[[antibiotic-prophylaxis-endoscopy|Prophylactic antibiotics]]:**
   - **NOT routinely needed** for EUS-FNA of [[pancreatic-cysts|pancreatic cysts]] (RCT [[colan-hernandez-2020-eus-fna-panc-cyst-antibiotics|Colán-Hernández 2020]]: infection 0.44%, no difference with vs without ciprofloxacin)
@@ -59,7 +66,7 @@ Note: Therapeutic EUS now accounts for >50% of accepted EUS indications. Indicat
 | Relevant structures visualized and documented (indication-specific) | >98% |
 | Luminal GI cancers: AJCC/UICC TNM staging documented | >98% |
 | Subepithelial masses: echogenicity + wall layer of origin documented (priority) | >98% |
-| EUS-guided liver biopsy: diagnostically adequate sample | ≥85% |
+| EUS-guided liver biopsy: diagnostically adequate sample | >85% |
 | Pancreatic mass ≥10mm: identification | ≥90% |
 | Pancreatic mass: measurements, vascular/LN, liver mets, ascites documented | ≥90% |
 | EUS-guided sampling of malignant pancreatic mass: diagnostic specimen (priority) | ≥87% |
@@ -70,9 +77,28 @@ Note: Therapeutic EUS now accounts for >50% of accepted EUS indications. Indicat
 |---|---|
 | EUS-guided pancreatic fluid collection drainage (priority) | ≥92% |
 | EUS-guided gallbladder drainage (EUS-GBD) | >90% |
-| EUS-guided biliary drainage (EUS-BD) | ≥85% |
-| EUS-guided gastroenterostomy (EUS-GE) | ≥85% |
-| EUS-directed transgastric ERCP (EDGE) | ≥92% |
+| EUS-guided biliary drainage (EUS-BD) | >85% |
+| EUS-guided gastroenterostomy (EUS-GE) | >85% |
+| EUS-directed transgastric ERCP (EDGE) | >92% |
+
+### Postprocedure
+
+| Indicator ([[acg-2025-eus-quality]]) | Target |
+|---|---|
+| Complete procedure report created | **>98%** |
+| **Adverse events after diagnostic and interventional EUS documented** (**priority indicator**) | **>98%** |
+
+### FNA vs FNB — Diagnostic Yield
+
+The ≥87% sampling target rests on these pooled figures ([[acg-2025-eus-quality]]):
+
+| Measure | Value |
+|---|---|
+| Pooled diagnostic accuracy — **FNB** | **87% (95% CI 85–89)** |
+| Pooled diagnostic accuracy — **FNA** | **80% (95% CI 78–82)** |
+| Pooled sensitivity / specificity (EUS-guided sampling) | **85% (84–86) / 98% (97–99)**; in a later analysis **86.8% (85.5–87.9) / 95.8% (94.6–96.7)** |
+| EUS detection of pancreatic cancer | sensitivity **93–100%**, specificity **53–100%** |
+| EUS detection of pancreatic cancer **in [[chronic-pancreatitis\|chronic pancreatitis]]** | sensitivity **85%**, specificity **58%** — the reason a negative EUS is much less reassuring in a chronically inflamed gland |
 
 ### Adverse Event Rate Benchmarks
 
@@ -112,8 +138,7 @@ From [[acg-2018-pancreatic-cysts]]:
 | CEA (cutoff 192 ng/mL) | Identify mucinous cysts (IPMN/MCN) | 63% | 93% |
 | Amylase (<250 IU/L) | Exclude pseudocyst | High (excludes in 98%) | — |
 | Cytology | Detect high-grade dysplasia or cancer when imaging alone insufficient | 64.8% | 90.6% |
-| KRAS mutation | Identify IPMN/MCN | 84–96% | 80–100% |
-| GNAS mutation | Identify IPMN (nearly specific) | 80–100% | 80–100% |
+| **KRAS and/or GNAS mutation** | Identify IPMN/MCN | 84–96% | 80–100% |
 
 Cyst fluid CEA cannot distinguish high-grade dysplasia or cancer from low-grade — do not use alone for surgical decision-making.
 
@@ -127,13 +152,14 @@ Cyst fluid CEA cannot distinguish high-grade dysplasia or cancer from low-grade 
 
 - EUS is an acceptable primary surveillance tool for patients who cannot or prefer not to have [[mri-mrcp|MRI/MRCP]]
 - For cysts 2–3 cm: MRI or EUS q6–12 months initially
-- For cysts >3 cm: MRI alternating with EUS q6 months initially (multidisciplinary group involvement recommended)
+- For cysts >3 cm: **consider referral** to a multidisciplinary group, and MRI alternating with EUS **q6 months × 3 years**
 
-**EUS indications in cyst high-risk features:**
+**EUS indications in cyst high-risk features** (Rec 11, **Strong/Very low** — each triggers EUS±FNA + multidisciplinary referral):
 
-- Mural nodule or solid component detected on cross-sectional imaging → EUS±FNA + multidisciplinary referral (Rec 11, Strong/VLow)
-- MPD >5 mm, obstructing lesion, cyst ≥3 cm → EUS±FNA + multidisciplinary referral
-- New-onset DM or cyst growth >3 mm/year during surveillance → short-interval EUS±FNA (Conditional/VLow)
+- **(a) Symptom/lab triggers:** jaundice secondary to the cyst, acute [[acute-pancreatitis|pancreatitis]] secondary to the cyst, or **significantly elevated serum CA 19-9**
+- **(b) Imaging triggers:** mural nodule or solid component; **main pancreatic duct >5 mm**; a change in duct caliber with upstream atrophy; **mucin-producing cyst ≥3 cm**; increased cyst growth rate (>3 mm/y)
+- **(c) Cytology:** high-grade dysplasia or pancreatic cancer on cytology
+- **New-onset diabetes, or cyst growth >3 mm/year during surveillance** → short-interval **MRI or EUS±FNA** (Rec 10, Conditional/Very low)
 
 See [[pancreatic-cysts]] for full diagnostic algorithm and surveillance intervals.
 
@@ -169,7 +195,7 @@ From [[asge-2011-eus-mediastinal-adenopathy]]:
 1. [[acg-2025-eus-quality|ACG/ASGE 2025: Quality Indicators for EUS]]
 2. [[acg-2018-pancreatic-cysts|ACG 2018: Diagnosis and Management of Pancreatic Cysts]]
 3. [[asge-2024-solid-pancreatic-masses|ASGE Guideline: Role of Endoscopy in Solid Pancreatic Masses (2024)]]
-4. [[asge-2011-eus-mediastinal-adenopathy|ASGE 2011: The Role of Endoscopy in the Assessment and Treatment of Esophageal Cancer / EUS for Mediastinal Adenopathy]]
+4. [[asge-2011-eus-mediastinal-adenopathy|ASGE 2011: Role of EUS for the Evaluation of Mediastinal Adenopathy]]
 5. [[aga-2022-recurrent-pancreatitis-endoscopy|AGA Clinical Practice Update on the Endoscopic Approach to Recurrent Acute and Chronic Pancreatitis: Expert Review]]
 6. [[colan-hernandez-2020-eus-fna-panc-cyst-antibiotics|Antibiotic Prophylaxis Is Not Required for EUS-Guided Fine-Needle Aspiration of Pancreatic Cystic Lesions, Based on a Randomized Trial]]
 7. [[wang-2026-eus-ppg-delphi-consensus|International Expert Delphi Consensus on Endoscopic Ultrasound-guided Portosystemic Pressure Gradient: Best Practices and Future Directions]]

@@ -4,7 +4,7 @@ category: advanced-procedure
 tags: [gastroparesis, poem, g-poem, pyloromyotomy, third-space-endoscopy, gcsi, gastric-emptying, pyloric-therapy]
 created: 2026-07-23
 updated: 2026-08-14
-sources: [aga-2023-gpoem-gastroparesis]
+sources: [aga-2025-gastroparesis, aga-2023-gpoem-gastroparesis]
 ---
 
 # G-POEM (Gastric Peroral Endoscopic Myotomy)
@@ -26,9 +26,21 @@ Endoscopic pyloromyotomy (peroral endoscopic pyloromyotomy) for medically refrac
 
 ## Patient Selection
 
+> **Governing recommendation — [[aga-2025-gastroparesis]] Rec 10 (Conditional, very low certainty):** *"In patients with gastroparesis refractory to medical therapy, the AGA suggests **against the routine use** of gastric peroral endoscopic pyloromyotomy (G-POEM)."* G-POEM is **not a default step** in refractory gastroparesis — it is reserved for select patients, via shared decision-making with those who weigh potential symptom improvement above adverse-event risk. This 2025 guideline is newer than [[aga-2023-gpoem-gastroparesis]] and governs the page.
+
+**AGA 2025 candidacy criteria (implementation considerations for Rec 10) — all three:**
+
+1. Gastroparesis diagnosed on an **appropriately performed 4-hour gastric emptying study**, generally with **at least moderate delay — 20% retention at 4 hours with the Eggbeaters meal**.
+2. **At least 6–12 months of moderate symptoms**, with the cardinal symptoms of nausea, vomiting, and/or postprandial fullness.
+3. A **trial of other therapies** before G-POEM is considered.
+
+Related AGA 2025 procedural positions: **gastric electrical stimulation** — suggests against routine use (Rec 12, Conditional, low); **surgical pyloromyotomy/pyloroplasty** — no recommendation, an explicit **knowledge gap** (Rec 11).
+
+---
+
 **Medically refractory gastroparesis** = persistent symptoms with objectively confirmed gastric-emptying delay **despite dietary adjustment and metoclopramide** (first-line agent).
 
-**Offer G-POEM to adults who meet all three:**
+**Additional selection detail from [[aga-2023-gpoem-gastroparesis]]** — applies once a patient is a candidate under AGA 2025 above:
 
 1. [[upper-endoscopy|EGD]] confirming **no mechanical gastric-outlet obstruction**.
 2. **Solid-phase gastric emptying scan (GES)** confirming delay — preferably **retention >20% at 4 hours** (independent predictor of clinical success). Normal 4-hour retention is **<10%** (scintigraphy, low-fat 2% chicken-egg-white meal).
@@ -36,7 +48,7 @@ Endoscopic pyloromyotomy (peroral endoscopic pyloromyotomy) for medically refrac
 
 - **Independent predictors of 12-month success:** baseline **GCSI >2.6** (OR 3.23) and baseline **4-hour retention >20%** (OR 3.65).
 - Decide on the **full clinical picture**, not GES or GCSI alone. Nausea/vomiting-predominant patients respond better; **abdominal-pain-predominant respond less well**.
-- **Prior failed therapy is not a prerequisite** — patients who failed gastric electrical stimulation, pyloric stenting, or botulinum toxin should also be offered G-POEM. Whether response to botulinum toxin or transpyloric stenting predicts G-POEM success is unknown.
+- **⚠ Guideline conflict on prior therapy.** [[aga-2023-gpoem-gastroparesis]] states prior failed therapy is *not* a prerequisite and that patients who failed gastric electrical stimulation, pyloric stenting, or botulinum toxin should also be offered G-POEM. **[[aga-2025-gastroparesis]] is newer and requires a trial of other therapies plus 6–12 months of moderate symptoms before consideration — that is what the page follows.** Whether response to botulinum toxin or transpyloric stenting predicts G-POEM success remains unknown.
 - **Opioids:** wean off whenever possible and **re-evaluate gastric emptying first** (opioids are a common, reversible cause of pyloric dysfunction / gastric stasis).
 - **FLIP:** pyloric cross-sectional area and distensibility index on [[flip-panometry|impedance planimetry (FLIP)]] may aid selection (data limited).
 - **Special populations:** insufficient evidence in **children**; **post-lung-transplant** severe gastroparesis is an emerging, promising indication.
@@ -140,4 +152,5 @@ Endoscopic pyloromyotomy (peroral endoscopic pyloromyotomy) for medically refrac
 
 ## Sources
 
-1. [[aga-2023-gpoem-gastroparesis|AGA 2023 Clinical Practice Update on Gastric Peroral Endoscopic Myotomy for Gastroparesis: Commentary]]
+1. [[aga-2025-gastroparesis|AGA Clinical Practice Guideline on Management of Gastroparesis (2025)]]
+2. [[aga-2023-gpoem-gastroparesis|AGA 2023 Clinical Practice Update on Gastric Peroral Endoscopic Myotomy for Gastroparesis: Commentary]]

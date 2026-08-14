@@ -145,7 +145,7 @@ Recommend for all patients with GERD symptoms:
 | Weight loss | Dose-dependent: BMI decrease >3.5 units → OR 0.64–1.98 for reflux symptom reduction; 81% symptom score improvement in one RCT with BMI 34.7→30.2 |
 | Smoking cessation | OR 5.67 for symptom improvement in normal-weight daily smokers on medical therapy |
 | Head of bed elevation | Fewer reflux episodes (102 vs 148, P<0.01); reduced AET on pH study |
-| Avoid meals within 3 hours of bedtime | Late meal significantly increases supine reflux (pH <4 time: 2.3 vs 7.5) |
+| Avoid meals within 3 hours of bedtime | Late meal significantly increases supine reflux — % supine time pH <4 was 2.3 ± 0.8 with an early meal, with a mean increase of 5.2 ± 1.6 for the late meal (P=.002) |
 | Alcohol cessation | Insufficient evidence for formal recommendation |
 | Dietary restriction (citrus, spicy foods, caffeine) | No evidence supporting avoidance; not recommended as isolated interventions |
 

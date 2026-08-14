@@ -96,24 +96,40 @@ Subtypes by Bristol Stool Form Scale **on days with abnormal stools** (assess of
 | **Low-FODMAP** (limited trial, 4–6 wk → reintroduce) | Conditional/VLow |
 | Peppermint oil | Conditional/Low |
 | Antispasmodics (global symptoms) | Against (Conditional/Low) |
-| **TCAs** (amitriptyline 50–100, desipramine 25–100, nortriptyline 25–75) | Strong/Moderate |
+| **TCAs** (amitriptyline 50–100, desipramine 25–100, nortriptyline 25–75) | Strong/Moderate — *also* AGA 2022: suggests using TCAs (Conditional/Low) |
+| SSRIs | — (ACG silent); **AGA 2022 suggests AGAINST** (Conditional/Low) |
 | **Gut-directed psychotherapy** (CBT, hypnotherapy, mindfulness) | Conditional/VLow |
 | [[probiotics\|Probiotics]] | Against (Conditional/VLow) |
 | **[[fmt\|FMT]]** | Strong AGAINST (Strong/VLow) |
 
+> **Contradiction (surfaced) — antispasmodics.** [[acg-2020-ibs|ACG 2020]] recommends **against** antispasmodics for global IBS symptoms (Conditional/Low); the newer [[aga-2022-ibs-c|AGA 2022]] IBS-C **and** [[aga-2022-ibs-d|IBS-D]] guidelines both **suggest using** them (Conditional/Low). Same tier, so the newer guideline governs: antispasmodics are a reasonable adjunct, with the ACG's negative appraisal noted. The same split applies to **PEG laxatives in IBS-C** (ACG against for global symptoms; AGA 2022 suggests using — Conditional/Low).
+
 ### IBS-C
 
-- **[[lubiprostone|Lubiprostone]]** 8 µg BID — chloride channel activator (Strong/Moderate)
-- **[[linaclotide|Linaclotide]]** 290 µg daily, **[[plecanatide]]** 3 or 6 mg daily — GC-C agonists (Strong/High)
-- **[[tegaserod|Tegaserod]]** 6 mg BID — 5-HT4 agonist; women <65 with ≤1 CV risk factor failing secretagogues (Strong/conditional/Low)
-- **Against** PEG for global IBS-C (helps stool form only)
+| Agent | Dose | ACG 2020 | AGA 2022 ([[aga-2022-ibs-c]]) |
+|---|---|---|---|
+| **[[linaclotide\|Linaclotide]]** (GC-C agonist) | 290 µg daily | Strong/High | **Strong**/High |
+| **[[plecanatide]]** (GC-C agonist) | 3 or 6 mg daily | Strong/High | Conditional/Moderate |
+| **[[lubiprostone\|Lubiprostone]]** (Cl⁻ channel activator) | 8 µg BID | Strong/Moderate | Conditional/Moderate |
+| **Tenapanor** (NHE3 inhibitor) | **50 mg BID** | not addressed | Conditional/Moderate |
+| **[[tegaserod\|Tegaserod]]** (5-HT4 agonist) | 6 mg BID | Strong (Conditional)/Low | Conditional/Moderate |
+| PEG laxatives | — | Against (global symptoms; helps stool form only) | Suggests using (Conditional/Low) |
+
+- **Tegaserod eligibility (both guidelines):** women **<65** without a history of cardiovascular ischemic events (MI, stroke, TIA, angina) — ACG adds ≤1 CV risk factor and failure of secretagogues.
 
 ### IBS-D
 
-- **[[rifaximin|Rifaximin]]** 550 mg TID × 14 days (Strong/Moderate); up to 2 retreatments allowed for symptom recurrence
-- **[[alosetron|Alosetron]]** — women with severe IBS-D failing standard therapy (Conditional/Low); REMS due to [[colon-ischemia|ischemic colitis]]
-- **[[eluxadoline|Eluxadoline]]** 100 mg BID (Conditional/Moderate); **contraindicated post-cholecystectomy** (pancreatitis risk)
-- **Against** bile-acid sequestrants for global IBS-D symptoms (Conditional/VLow)
+| Agent | Dose | ACG 2020 | AGA 2022 ([[aga-2022-ibs-d]]) |
+|---|---|---|---|
+| **[[rifaximin\|Rifaximin]]** | 550 mg TID × 14 days | Strong/Moderate | Conditional/Moderate |
+| Rifaximin **retreatment** on symptom recurrence | same course, up to 2 retreatments (ACG) | Strong/Moderate | Conditional/Moderate |
+| **[[alosetron\|Alosetron]]** (5-HT3 antagonist) | — | Conditional/Low | Conditional/Moderate |
+| **[[eluxadoline\|Eluxadoline]]** (mixed opioid receptor agent) | 100 mg BID | Conditional/Moderate | Conditional/Moderate |
+| **[[loperamide\|Loperamide]]** | — | not addressed | Conditional/Very low |
+| Bile-acid sequestrants | — | Against (global symptoms) (Conditional/VLow) | not addressed |
+
+- **Alosetron** carries a REMS because of [[colon-ischemia|ischemic colitis]]; reserve for women with severe IBS-D failing standard therapy.
+- **Eluxadoline is contraindicated in patients without a gallbladder** *and* **in those who drink >3 alcoholic beverages/day** — both, because of pancreatitis risk ([[aga-2022-ibs-d]]).
 
 ### Stepwise Approach
 

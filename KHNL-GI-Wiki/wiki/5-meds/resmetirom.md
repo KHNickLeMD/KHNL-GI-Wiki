@@ -3,7 +3,7 @@ title: "Resmetirom (Rezdiffra)"
 category: med
 tags: [resmetirom, rezdiffra, thr-beta, masld, mash, nash, fibrosis, pharmacotherapy, hpb, liver]
 created: 2026-05-31
-updated: 2026-08-12
+updated: 2026-08-14
 sources: [aasld-2024-resmetirom, aasld-2023-nafld]
 ---
 
@@ -33,7 +33,7 @@ Compensated or decompensated [[cirrhosis]]; uncontrolled active liver disease ([
 
 ## Notes
 
-- Combination with GLP-1 RAs ([[semaglutide]], tirzepatide) not formally studied; relative efficacy unestablished.
+- Combination with [[glp-1-receptor-agonists|GLP-1 RAs]] ([[semaglutide]], tirzepatide) not formally studied; relative efficacy unestablished.
 - Lifestyle modification and cardiometabolic risk management remain foundational regardless of resmetirom (see [[nafld-masld]]).
 
 *Stub — expand with long-term MAESTRO-NASH outcome data when available.*

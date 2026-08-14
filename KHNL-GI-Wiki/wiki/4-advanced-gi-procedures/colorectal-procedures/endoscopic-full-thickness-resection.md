@@ -3,8 +3,8 @@ title: "Endoscopic Full-Thickness Resection (EFTR)"
 category: advanced-procedure
 tags: [eftr, subepithelial-lesion, resection, ster, ftrd, gist, neuroendocrine-tumor]
 created: 2026-07-23
-updated: 2026-07-23
-sources: [aga-2024-full-thickness-resection]
+updated: 2026-08-14
+sources: [aga-2024-full-thickness-resection, asge-2017-subepithelial-lesions]
 ---
 
 ## Contents
@@ -62,11 +62,11 @@ sources: [aga-2024-full-thickness-resection]
 
 ## Preoperative Setup
 
-- **General anesthesia with endotracheal intubation** (as with other third-space interventions).
+- **[[endoscopy-sedation|General anesthesia with endotracheal intubation]]** (as with other third-space interventions).
 - **Positive-pressure ventilation** to reduce effects of capnoperitoneum/capnomediastinum.
 - **Constant neuromuscular relaxation** to reduce respiratory variability/movement.
 - **Peak airway pressures** monitored as surrogate for raised intra-abdominal pressure → may signal need for **needle decompression**.
-- **Prophylactic IV antibiotics** at time of procedure (peritoneal/mediastinal contamination risk).
+- **[[antibiotic-prophylaxis-endoscopy|Prophylactic IV antibiotics]]** at time of procedure (peritoneal/mediastinal contamination risk).
 - **CO₂ insufflation mandatory** (faster absorption, lower AE risk than air).
 - Perform in a **hospital-based endoscopy unit** with surgical backup readily available.
 - Fully equipped with ESD devices: single- and dual-channel gastroscopes, distal attachments, electrosurgical knives, hemostatic forceps, closure devices (over-the-scope clips, through-the-scope clips, suture devices), peritoneal decompression needles — ideally on a **dedicated cart**.
@@ -88,7 +88,7 @@ sources: [aga-2024-full-thickness-resection]
 - **Steps:** submucosal tunnel initiated **3–5 cm proximal** to lesion, dissection extended **1–2 cm distal**; resect within tunnel, extract lesion, **close the mucosotomy** to restore luminal integrity.
 - **Advantages:** tunnel gives scope stability/traction; mucosal flap minimizes extraluminal leakage/contamination; mucosal-flap closure easier than a large exposed-EFTR defect.
 - **Anatomic suitability:** lesions reachable **in a straight line** — esophagus, gastric cardia, certain antrum, rectum.
-- ⚠ Tunnel-start distance differs by source (ASGE 2017: ≥5 cm proximal).
+- ⚠ **Tunnel-start distance differs by source** — [[asge-2017-subepithelial-lesions|ASGE 2017]] specifies a mucosal incision **at least 5 cm proximal** to the lesion; this CPU says 3–5 cm.
 
 ### Device-Assisted EFTR (FTRD)
 
@@ -138,10 +138,11 @@ sources: [aga-2024-full-thickness-resection]
 
 ## See Also
 
-[[subepithelial-lesion]], [[polypectomy]], [[colorectal-esd]], [[endoscopic-submucosal-dissection]], [[poem]], [[colorectal-cancer]]
+[[subepithelial-lesion]], [[polypectomy]], [[colorectal-esd]], [[endoscopic-submucosal-dissection]], [[endoscopic-mucosal-resection]], [[poem]], [[colorectal-cancer]], [[endoscopic-ultrasound]], [[gastrointestinal-stromal-tumor]], [[gastroenteropancreatic-neuroendocrine-tumors]], [[endoscopy-sedation]], [[antibiotic-prophylaxis-endoscopy]], [[endoscopic-oncology]]
 
 ---
 
 ## Sources
 
 1. [[aga-2024-full-thickness-resection|AGA 2024 Clinical Practice Update on Endoscopic Full-Thickness Resection for the Management of Gastrointestinal Subepithelial Lesions]]
+2. [[asge-2017-subepithelial-lesions|ASGE 2017: The Role of Endoscopy in Subepithelial Lesions of the GI Tract]]

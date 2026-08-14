@@ -36,6 +36,21 @@ Depth of invasion separates endoscopically curable disease (Tis/T1a mucosal) fro
 
 **SCC location** (by epicenter of the tumor): **Upper** = cervical esophagus to lower border of the azygos vein; **Middle** = lower border of azygos vein to lower border of the inferior pulmonary vein; **Lower** = lower border of inferior pulmonary vein to the stomach, including the EGJ.
 
+**Clinical stage groups (cTNM) — the stage that drives the pretreatment decision.** Note the two histologies group differently at the same T/N (e.g. cT2N1: stage II for SCC, stage III for adenocarcinoma):
+
+| Stage | Squamous cell carcinoma | Adenocarcinoma |
+|---|---|---|
+| 0 | Tis N0 | Tis N0 |
+| I | T1 N0–1 | T1 N0 |
+| IIA | — | T1 N1 |
+| IIB | — | T2 N0 |
+| II | T2 N0–1; T3 N0 | — |
+| III | T3 N1; T1–3 N2 | T2 N1; T3 N0–1; T4a N0–1 |
+| IVA | T4 N0–2; any T N3 | T1–4a N2; T4b N0–2; any T N3 |
+| IVB | Any T, any N, **M1** | Any T, any N, **M1** |
+
+*All rows are M0 except stage IVB. Pathologic (pTNM) and post-neoadjuvant (ypTNM) groupings differ from the above and additionally require **grade (G)** — and, for SCC, **tumor location** — to assign the stage.*
+
 For advanced/metastatic disease, biomarker testing — **HER2 (ERBB2), PD-L1 CPS, and MSI-H/dMMR** — is integral to therapy selection.
 
 ### Classification / Typing

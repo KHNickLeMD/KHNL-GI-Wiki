@@ -3,9 +3,13 @@ title: "Fever in a Returning Traveler"
 category: diagnostic-schema
 tags: [travel-medicine, fever, tropical-infections, travelers-diarrhea, enteric-fever, viral-hepatitis, parasites]
 created: 2026-05-15
-updated: 2026-08-11
+updated: 2026-08-14
 sources: [nejm-2023-fever-returning-traveler]
 ---
+
+> ⚠️ **Source-fidelity flag — this page's clinical content is currently uncited (2026-08-14 lint).** The sole source in the frontmatter, [[nejm-2023-fever-returning-traveler]], is a **placeholder**: the referenced PDF (`NEJM_Fever_in_a_Returning_Traveler.pdf`) **does not exist anywhere in `raw/`**, no full text has ever been extracted, and no authors/DOI/volume are known. The only artifact on disk is a 294-byte Notion export stub in `raw/GI Lectures+Chalk Talks/` — which would also make it **tier-3, lecture-gated** material even if it were present. Every incubation window, test-performance figure, and percentage below was therefore written without a verifiable source and must be treated as **unverified** pending user triage.
+>
+> **To resolve, either:** (1) add the actual article to `raw/`, or (2) re-source this page to guidelines already ingested — [[idsa-2017-infectious-diarrhea]] and [[acg-2016-acute-diarrhea]] cover part of the diarrhea differential, and [[acg-2016-liver-disease-pregnancy]] covers hepatitis E in pregnancy; neither covers malaria, enteric fever, Katayama fever, or leptospirosis. Content was flagged rather than deleted so it can be re-sourced; **do not cite this page clinically until that is done.**
 
 ## Definition / Scope
 

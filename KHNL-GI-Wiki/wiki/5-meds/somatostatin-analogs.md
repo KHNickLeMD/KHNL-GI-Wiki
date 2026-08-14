@@ -3,11 +3,9 @@ title: "Somatostatin Analogs"
 category: med
 tags: [somatostatin-analog, octreotide, lanreotide, net, carcinoid, variceal-bleeding, angioectasia]
 created: 2026-06-18
-updated: 2026-08-12
+updated: 2026-08-14
 sources: [nccn-2026-net, aasld-2023-portal-hypertension, acg-2015-small-bowel-bleeding]
 ---
-
-# Somatostatin Analogs
 
 **Octreotide** (short-acting SC/IV and long-acting **LAR**) and **lanreotide** bind somatostatin receptors (chiefly SSTR2/5), suppressing splanchnic and endocrine secretion and exerting an antiproliferative effect on neuroendocrine cells. Three main GI/hepatology uses: acute variceal bleeding, neuroendocrine tumors, and refractory small-bowel vascular bleeding.
 

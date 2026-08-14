@@ -11,9 +11,10 @@ sources: []
 
 - **Article:** [Desai M, Ruan W, Thosani NC, et al. American Society for Gastrointestinal Endoscopy guideline on the diagnosis and management of GERD: methodology and review of evidence. *VideoGIE* 2025;10:81–137.](https://doi.org/10.1016/j.vgie.2024.10.001)
 - **DOI:** [10.1016/j.vgie.2024.10.001](https://doi.org/10.1016/j.vgie.2024.10.001)
+- **Authors:** Desai M, Ruan W, Thosani NC, et al. (ASGE Standards of Practice Committee)
+- **Year:** 2025 (online ahead of print 2024; the wiki slug `asge-2024-gerd` predates the final citation and is retained only to avoid breaking inbound links — **treat this as a 2025 guideline** when applying source-priority rules)
+- **Journal/Publisher:** *VideoGIE* 2025;10:81–137
 - **Type:** guideline (ASGE Standards of Practice Committee, GRADE)
-
-Desai M, Ruan W, Thosani NC, et al. American Society for Gastrointestinal Endoscopy guideline on the diagnosis and management of GERD: methodology and review of evidence. *Gastrointest Endosc* 2025;10:81–137. <https://doi.org/10.1016/j.vgie.2024.10.001>
 
 - Prepared by: ASGE Standards of Practice Committee
 - GRADE methodology; evidence panel convened March 10, 2023

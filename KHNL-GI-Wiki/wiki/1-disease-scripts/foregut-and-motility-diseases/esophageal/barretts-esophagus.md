@@ -135,11 +135,15 @@ The key severity variable is **dysplasia grade**, which determines both cancer r
 - Minimum 8 biopsies for any suspected BE segment
 - Seattle protocol for segments >4 cm: 4-quadrant biopsies every 2 cm from LES to SCJ, plus targeted biopsies of any visible lesions
 
-**Surveillance examination (NDBE):**
+**Surveillance examination — structured biopsy protocol** ([[aga-2025-barretts-surveillance|AGA 2025]] Rec 3 implementation; the interval depends on dysplasia history):
 
-- Seattle protocol: 4-quadrant biopsies every 1–2 cm throughout the BE segment
-- Targeted biopsies of any mucosal abnormalities (before random biopsies)
-- Do NOT substitute chromoendoscopy-directed targeted biopsies alone for the Seattle protocol
+| Dysplasia history | Random 4-quadrant biopsies |
+|---|---|
+| No history of dysplasia | Every **2 cm** |
+| Any history of dysplasia (incl. current LGD on surveillance) | Every **1 cm** |
+
+- Plus targeted biopsies of any visible lesion (take these **before** random biopsies)
+- Do NOT substitute chromoendoscopy-directed targeted biopsies alone for the structured protocol — CE-directed biopsies are an **adjunct** to it, not a replacement
 
 **Post-CEIM surveillance:**
 
@@ -151,16 +155,17 @@ The key severity variable is **dysplasia grade**, which determines both cancer r
 
 - **Goblet cell confirmation:** Required for BE diagnosis; identified by mucin-secreting cells with a "goblet" shape on H&E. IHC for TFF3 (trefoil factor 3) can confirm IM.
 - **Expert GI pathologist review is mandatory for all dysplasia grades (strong recommendation):** At least 5 years of pathologist experience reduces major diagnostic errors (OR 0.48); working in a non-teaching hospital increases errors (OR 1.76).
-- **p53 IHC:** Aberrant p53 expression (overexpression or loss) is associated with progression risk (OR 4–17 across meta-analyses); sensitivity 62%, specificity 80% for overexpression. No routine recommendation pending better validation — can be considered as adjunct.
-- **TissueCypher:** 15-biomarker tissue systems pathology risk score (0–10); predicts 5-year HGD/EAC risk. Sensitivity 30%/specificity 95% in NDBE; 68%/79% for LGD 2-tier classification. No routine recommendation.
-- **WATS-3D:** Computer-assisted 3D cytology brush — increases dysplasia detection by ~2% absolute vs forceps biopsy alone. ACG: no recommendation (no chromoendoscopy + WATS-3D data; false-positive concern). [[asge-2019-barretts-screening-surveillance|ASGE 2019]] **suggests WATS-3D as an adjunct to** Seattle-protocol biopsies (conditional, low quality; relative dysplasia-detection increase 48%, mostly LGD).
+- **p53 IHC:** Aberrant p53 expression (overexpression or loss) is associated with progression risk (OR 4–17 across meta-analyses); sensitivity 62%, specificity 80% for overexpression. No routine recommendation pending better validation — can be considered as adjunct ([[aga-2025-barretts-surveillance|AGA 2025]] Rec 5: **no recommendation** for or against, in NDBE/IND/LGD — knowledge gap).
+- **TissueCypher:** 15-biomarker tissue systems pathology risk score (0–10); predicts 5-year HGD/EAC risk. Sensitivity 30%/specificity 95% in NDBE; 68%/79% for LGD 2-tier classification. No routine recommendation (AGA 2025 Rec 6: **no recommendation**, knowledge gap).
+- **WATS-3D:** Computer-assisted 3D cytology brush — increases dysplasia detection by ~2% absolute vs forceps biopsy alone. ACG: no recommendation (no chromoendoscopy + WATS-3D data; false-positive concern). [[asge-2019-barretts-screening-surveillance|ASGE 2019]] **suggests WATS-3D as an adjunct to** Seattle-protocol biopsies (conditional, low quality; relative dysplasia-detection increase 48%, mostly LGD). AGA 2025 (Rec 4) makes **no recommendation** — ASGE 2019 is the only society endorsing it.
+  - If dysplasia is diagnosed **only** on WATS-3D: repeat endoscopy within **3–6 months** with a structured biopsy protocol + resection of any visible lesion. For crypt dysplasia, IND, or LGD diagnosed solely on WATS-3D: repeat endoscopy by an expert endoscopist on high-dose acid suppression **within 6 months** (AGA 2025).
 
-**ASGE 2019 advanced-imaging positions (GRADE):**
+**Advanced-imaging positions (GRADE):**
 
-- **Chromoendoscopy (dye-based or virtual/VC):** **Strongly recommended** in addition to white-light + Seattle protocol (moderate quality) — absolute dysplasia-detection increase 9%, relative increase ~30%; VC ≈ dye-based. Acetic acid sensitivity 96.6%, NBI/VC sensitivity 94.2%.
-- **[[confocal-laser-endomicroscopy|Confocal laser endomicroscopy]] (CLE):** **Suggested against** routine use (conditional, low quality) — relative detection increase not statistically significant; high false-positive rate; endoscope-based CLE no longer available.
-- **EUS for T1a vs T1b:** **Strongly recommended against** routine use to differentiate mucosal vs submucosal disease (moderate quality) — sensitivity only 41%, high false-positive rate; resection-based histology is the staging step.
-- **Volumetric laser endomicroscopy (VLE):** no recommendation (insufficient evidence).
+- **Chromoendoscopy (dye-based or virtual/VC):** **Strongly recommended** in addition to high-definition white light — the one concordant strong recommendation across societies. [[asge-2019-barretts-screening-surveillance|ASGE 2019]] (moderate quality): absolute dysplasia-detection increase 9%, relative increase ~30%; VC ≈ dye-based; acetic acid sensitivity 96.6%, NBI/VC sensitivity 94.2%. [[aga-2025-barretts-surveillance|AGA 2025]] (Rec 3, **strong / moderate**): HD-WLE **plus** CE over WLE alone; choice of dye-based vs virtual CE by endoscopist/center expertise.
+- **[[confocal-laser-endomicroscopy|Confocal laser endomicroscopy]] (CLE):** ASGE 2019 **suggests against** routine use (conditional, low quality) — relative detection increase not statistically significant; high false-positive rate; endoscope-based CLE no longer available.
+- **EUS for T1a vs T1b:** ASGE 2019 **strongly recommends against** routine use to differentiate mucosal vs submucosal disease (moderate quality) — sensitivity only 41%, high false-positive rate; resection-based histology is the staging step.
+- **Volumetric laser endomicroscopy (VLE):** ASGE 2019 — no recommendation (insufficient evidence).
 
 ### Adjunct Staging Tests
 
@@ -208,7 +213,8 @@ The key severity variable is **dysplasia grade**, which determines both cancer r
 
 **Acid suppression:**
 
-- PPI at least once daily for all BE patients without contraindication (conditional recommendation)
+- PPI at least once daily for all BE patients without contraindication (conditional recommendation; [[aga-2025-barretts-surveillance|AGA 2025]] Rec 7 — **daily PPI over no PPI**, conditional / low certainty)
+- Also counsel **tobacco cessation** and **weight loss** if overweight/obese (AGA 2025 Rec 7 implementation)
 - Reduces HGD/EAC risk by approximately 71% in observational meta-analyses (adjusted OR 0.29)
 - Higher-dose (twice daily) PPI considered for patients with ongoing reflux symptoms or persistent acid exposure on testing
 - Long-term PPI safety is generally reassuring; statistically significant but clinically small risk of enteric infections (OR 1.33, NNH >900/yr)
@@ -220,7 +226,7 @@ The key severity variable is **dysplasia grade**, which determines both cancer r
 
 **[[antireflux-surgery|Antireflux surgery]]:**
 
-- NOT recommended as antineoplastic therapy in BE
+- NOT recommended as antineoplastic therapy in BE — [[aga-2025-barretts-surveillance|AGA 2025]] Rec 8: **PPIs over antireflux surgery** to prevent progression to HGD/EAC (conditional / low certainty)
 - Laparoscopic fundoplication does not convincingly reduce neoplastic progression vs medical therapy; incurs procedural risks
 
 ### Surveillance Intervals
@@ -229,35 +235,45 @@ The key severity variable is **dysplasia grade**, which determines both cancer r
 
 - High-definition white light endoscopy
 - Chromoendoscopy (acetic acid or virtual/electronic)
-- Seattle protocol biopsy (or adapted protocol)
+- Structured (Seattle) protocol biopsy — 4-quadrant spacing per dysplasia history (see Biopsy Protocols)
 - Expert GI pathologist review for any dysplasia
+- **Refer any BE-related neoplasia — including LGD and IND, not just HGD** — to a high-volume endoscopist with EET expertise, a pathologist with BE-neoplasia expertise, and multidisciplinary care ([[aga-2025-barretts-surveillance|AGA 2025]] general implementation)
 
-**NDBE surveillance (by Prague M segment length):**
+**Should surveillance be done at all?** [[aga-2025-barretts-surveillance|AGA 2025]] Rec 1: **suggests** surveillance over no surveillance in NDBE (**conditional / low certainty**). The BOSS RCT (n=3,453; surveillance q2y vs at-need endoscopy, median follow-up 12.8 y) found **no overall-survival difference** (HR 0.95, 95% CI 0.82–1.10) but **more early-stage EAC/HGD detected** (3.3% vs 1.2%; RR 2.82). Observational data suggest reduced EAC-specific mortality (RR 0.60). Discuss this uncertainty in shared decision making.
 
-| Segment | Interval |
+**NDBE surveillance interval:**
+
+| Source | Interval |
 |---|---|
-| NDBE, M <3 cm | Every 5 years |
-| NDBE, M ≥3 cm | Every 3 years |
+| **[[aga-2025-barretts-surveillance\|AGA 2025]] (governing — newest guideline)** | **Every 3 years**; may extend to **every 5 years** in lower-risk patients, e.g. short-segment BE (**<3 cm**) |
+| [[acg-2022-barretts\|ACG 2022]] | Prague M <3 cm → every 5 years; M ≥3 cm → every 3 years |
+
+*Contradiction surfaced: ACG 2022 makes the 5-year interval the default for short segments; AGA 2025 makes 3 years the default for everyone and treats 5 years as a permissible extension in lower-risk patients. Both bracket the same 3–5-year range; segment length is the discriminator in each.*
+
+**Columnar-lined esophagus <1 cm with intestinal metaplasia, without neoplasia:** AGA 2025 Rec 2 — **suggests against** surveillance endoscopy (conditional / very low certainty). Consistent with the ACG position that a <1 cm segment is not BE.
 
 **IND (Indefinite for Dysplasia):**
 
 1. Confirm with expert GI pathologist
-2. Intensify PPI to twice daily
-3. Repeat EGD in 6 months
+2. Intensify PPI to twice daily (30–45 min before meals, ≥2 months)
+3. Repeat EGD by an **expert endoscopist within 6 months** on high-dose acid suppression, with structured-protocol sampling + resection of any visible lesion — the purpose is to rule out **prevalent HGD/EAC**, since regenerative change from uncontrolled reflux mimics dysplasia
    - If downgraded to NDBE: use NDBE intervals
    - If confirmed as LGD: use LGD pathway
-   - If persistent IND: EGD annually
+   - If IND confirmed: **annual EGD** until the histologic grade changes (AGA 2025)
+4. **Do NOT perform EET for confirmed IND** (AGA 2025)
 
 **Confirmed LGD — Surveillance pathway (alternative to EET):**
 
-- EGD at 6 months from diagnosis
-- EGD at 12 months from diagnosis
-- EGD annually thereafter (as long as LGD persists)
-- If no dysplasia seen: revert to NDBE intervals
+- Same confirmatory EGD within 6 months on high-dose acid suppression to exclude prevalent HGD/EAC
+- Continue high-dose (twice-daily) acid suppression throughout
+- EGD at **6-month intervals for 1 year** (i.e. 6 and 12 months), then **annually**, until the histologic grade changes
+- Sample with random 4-quadrant biopsies **every 1 cm** + targeted sampling/resection of visible lesions
+- If findings revert to NDBE: resume 3-year intervals
+- Rationale for the shorter interval: expert-confirmed LGD progresses to HGD/EAC at **5.7%/yr** per AGA 2025 (ACG 2022 cites a wider 1.73–9.1%/yr range — see Severity Assessment)
 
 **HGD:** Surveillance alone is NOT an appropriate management strategy; proceed to EET.
 
-**Cessation of surveillance:** Consider when patient is no longer fit for EET, has estimated survival <5 years, or cannot tolerate endoscopy or subsequent intervention. Discussion at approximately age 75 is clinically reasonable.
+**Cessation of surveillance:** Consider when patient is no longer fit for EET, has estimated survival <5 years, or cannot tolerate endoscopy or subsequent intervention. Discontinuation should be driven by **age and comorbidity** (AGA 2025); discussion at approximately age 75 is clinically reasonable.
 
 ### Endoscopic Eradication Therapy (EET)
 
@@ -266,14 +282,14 @@ The key severity variable is **dysplasia grade**, which determines both cancer r
 
 See [[endoscopic-eradication-therapy]] for full technique, outcomes, and adverse-event data. EET combines [[endoscopic-mucosal-resection|EMR]] of visible lesions with ablation ([[radiofrequency-ablation|RFA]] preferred) of the residual flat segment.
 
-**Indications** (ASGE 2018 / AGA / ACG concordant; [[asge-2018-barretts-eet|ASGE 2018]] GRADE strengths shown):
+**Indications** — ASGE 2018 / AGA 2024 / ACG concordant on direction; GRADE strengths from [[asge-2018-barretts-eet|ASGE 2018]] and [[aga-2024-barretts-eet|AGA 2024]]:
 
-| Indication | Strength |
-|---|---|
-| Confirmed HGD | EET over surveillance (**strong**) and EET over esophagectomy (**strong**) |
-| IMC (T1a EAC) | EET over esophagectomy (**strong**); LN-metastasis risk ~0%-2% |
-| Confirmed LGD | EET over surveillance (**conditional**); shared decision making |
-| NDBE | EET **not** routinely recommended |
+| Indication | ASGE 2018 | AGA 2024 |
+|---|---|---|
+| Confirmed HGD | EET over surveillance (**strong**) and EET over esophagectomy (**strong**) | EET over surveillance — **strong / moderate certainty** (Rec 1) |
+| IMC (T1a EAC) | EET over esophagectomy (**strong**); LN-metastasis risk ~0%-2% | Refer suspected T1 EAC for EET consideration (Rec 5) |
+| Confirmed LGD | EET over surveillance (**conditional**); shared decision making | EET over surveillance — **conditional / low certainty** (Rec 2); patients weighting the well-defined harms above the uncertain mortality benefit may reasonably choose surveillance |
+| NDBE | EET **not** routinely recommended | **Suggests against** routine EET — conditional / very low certainty (Rec 3) |
 
 **Dysplasia confirmation:** ASGE 2018 (Rec 1, conditional) — confirm LGD/HGD with ≥1 expert GI pathologist or panel before EET (expert review changes diagnosis in ~55%).
 
@@ -295,12 +311,12 @@ See [[endoscopic-eradication-therapy]] for full technique, outcomes, and adverse
 - Always precedes ablation; serves both diagnostic and therapeutic purposes. ASGE 2018 (Rec 4, **strong**): resect ALL visible lesions (nodularity, ulceration, plaque, depression, discoloration), no matter how subtle.
 - ER upstages or downstages histology in 30–40% of cases (ASGE 2018: change in 39%, mostly upstaging); changes management in ~30%
 - **Multiband EMR** (preferred in most cases) or cap-assisted EMR — equivalent efficacy and safety
-- **[[endoscopic-submucosal-dissection|ESD]]** for larger lesions (unsuitable for en bloc EMR), post-ablation scarring, or suspected submucosal invasion
+- **[[endoscopic-submucosal-dissection|ESD]]** for larger lesions (unsuitable for en bloc EMR), post-ablation scarring, or suspected submucosal invasion. [[aga-2024-barretts-eet|AGA 2024]] (Rec 5, conditional): **the vast majority of neoplastic lesions are managed with EMR**; choose ESD specifically for large bulky lesions, lesions highly suspicious of ≥T1b invasion (**depressed, Paris 0-IIc, or 0-IIa+c**), or previously failed EMR
 - ASGE 2018 (Rec 6, **strong against**): do NOT routinely perform complete EMR of the entire BE segment (cEMR) — far more strictures (OR 4.73), bleeding (OR 6.88), and perforation (OR 7.00) than focal EMR + RFA, with equivalent eradication.
 
 **Step 2 — Ablation of residual BE segment:**
 
-ASGE 2018 (Rec 5, **conditional**): after EMR of visible lesions, ablate the remaining flat segment (lack of ablation predicts recurrence, RR 2.5; metachronous neoplasia 16.5% with ablation vs 29.9% without).
+ASGE 2018 (Rec 5, **conditional**) and [[aga-2024-barretts-eet|AGA 2024]] (Rec 4, conditional / very low): after EMR of visible lesions, ablate the remaining flat segment rather than resecting the whole segment; **RFA is the preferred ablative modality**. Lack of ablation predicts recurrence (RR 2.5; metachronous neoplasia 16.5% with ablation vs 29.9% without). Exception (AGA 2024): with only a small area of BE beyond the visible lesion, completion resection in the same setting is acceptable and may be preferred over a second procedure for ablation.
 
 - **[[radiofrequency-ablation|Radiofrequency Ablation (RFA)]]** — preferred primary ablative modality (widest RCT evidence, safety data)
   - Achieved CEIM in ~80% of patients in landmark AIM Dysplasia RCT
@@ -339,8 +355,8 @@ CEIM defined as: 1–2 surveillance endoscopies with no visible BE and no IM on 
 
 | Pretreatment histology | Schedule |
 |---|---|
-| LGD | 1 yr after CEIM → 3 yr after CEIM → every 2 yr thereafter |
-| HGD | 3 mo → 6 mo → 12 mo → annually thereafter |
+| LGD | 1 yr after CEIM → 3 yr after CEIM → then **revert to NDBE intervals** ([[aga-2024-barretts-eet\|AGA 2024]] Rec 2 implementation; [[acg-2022-barretts\|ACG 2022]] instead says every 2 yr thereafter) |
+| HGD | 3 mo → 6 mo → 12 mo → annually thereafter (AGA 2024 Rec 1 implementation; concordant with ACG) |
 | IMC | 3 mo → 6 mo → 12 mo → annually thereafter |
 
 **Post-CEIM biopsy protocol:**

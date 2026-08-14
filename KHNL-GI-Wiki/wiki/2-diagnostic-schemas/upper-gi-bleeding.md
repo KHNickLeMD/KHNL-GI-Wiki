@@ -4,7 +4,7 @@ category: diagnostic-schema
 tags: [ugib, peptic-ulcer, gi-bleeding, endoscopy, forrest, glasgow-blatchford, melena]
 created: 2026-05-15
 updated: 2026-08-14
-sources: [acg-2021-ugib]
+sources: [acg-2021-ugib, acg-2023-lgib]
 ---
 
 ## Definition / Scope
@@ -136,22 +136,21 @@ If UGIB is clinically suspected in a patient presenting with apparent LGIB, perf
 - **Resuscitation must precede endoscopy** in hemodynamically unstable patients — endoscopy before adequate resuscitation carries risk
 - Exception: patients with hypotensive shock not responding to initial resuscitation require urgent endoscopic or interventional radiology intervention (expert opinion)
 
-### Step 5: Endoscopic Evaluation — Forrest Classification of Ulcer Stigmata
+### Step 5: Endoscopic Evaluation — Ulcer Stigmata
 
-Used to stratify rebleeding risk and guide endoscopic therapy decisions for peptic ulcer bleeding:
+**Source note.** [[acg-2021-ugib|ACG 2021]] does **not** use or define the Forrest classification, and prints **no** table of class-specific rebleeding percentages. It stratifies by *descriptive* stigmata only. The Forrest class labels below are the familiar shorthand for the same findings, but their numbering and any class-specific rebleed percentages are **not supported by an ingested source** — the Forrest 1974 primary paper is not in `raw/`. Only the ACG-sourced figures are stated as data here.
 
-| Forrest Class | Finding | Rebleeding Risk (without therapy) | Endoscopic Therapy |
-|---|---|---|---|
-| **Ia** | Active spurting | ~55% | **Required** (Strong recommendation) |
-| **Ib** | Active oozing | ~55% (pooled active bleeding; 39% in oozing-specific data) | **Required** (Strong recommendation) |
-| **IIa** | Nonbleeding visible vessel (NBVV) | ~43% | **Required** (Strong recommendation) |
-| **IIb** | Adherent clot | ~22% | No recommendation (conflicting evidence; high-dose PPI alone may suffice) |
-| **IIc** | Flat pigmented spot | ~7–10% | Not indicated |
-| **III** | Clean base | ~3–5% | Not indicated |
+| Stigma (Forrest label) | ACG 2021 position on endoscopic therapy | ACG-sourced data |
+|---|---|---|
+| **Active spurting** (Ia) | **Recommended** — Statement 6 (strong, moderate) | Spurting is much less common than oozing — 68/397 (17%) of actively bleeding ulcers in a large prospective trial; further bleeding appears **more frequent with spurting than oozing** |
+| **Active oozing** (Ib) | **Recommended** — Statement 6 (strong, moderate) | Pooled further bleeding **39% (range 10–100%)** across 8 prospective trials of oozing managed *without* endoscopic therapy |
+| Combined **active bleeding** | — | Endoscopic vs no endoscopic therapy: further bleeding **RR 0.29 (0.20–0.43), NNT 2** |
+| **Nonbleeding visible vessel** (IIa) | **Recommended** — Statement 6 (strong, moderate) | Further bleeding **RR 0.49 (0.40–0.59), NNT 5** |
+| **Adherent clot** resistant to vigorous irrigation (IIb) | **No recommendation for or against** — Statement 7 | Meta-analysis showed no benefit of endoscopic therapy: further bleeding **RR 0.31 (0.06–1.77)**, mortality **RR 0.90 (0.23–3.58)**. PPI alone may suffice — recurrent bleeding **0/64 on PPI vs 13/61 (21%) on placebo** without endoscopic therapy in either arm |
+| **Flat pigmented spot** (IIc) / **clean base** (III) | Not addressed as an indication for therapy | Mortality benefit of endoscopic therapy was **not** documented for any stigma |
 
-*Rebleeding percentages are approximate historical values from pre-treatment cohorts; exact figures vary by series. ACG 2021 cites pooled further bleeding in oozing managed without therapy of 39% across 8 prospective trials (range 10–100%).* [[acg-2021-ugib]]
-
-High-risk stigmata (Forrest Ia, Ib, IIa) mandate endoscopic hemostatic therapy. Forrest IIb (adherent clot) — vigorous irrigation to assess underlying stigma; if clot persists after irrigation, evidence for endoscopic therapy is conflicting (consider high-dose PPI alone as an option).
+- **Definition caveat:** "the definition of oozing may vary widely among endoscopists"; some trials require continuous bleeding over 5 minutes of observation to call it active oozing.
+- **Adherent clot:** irrigate vigorously to expose the underlying stigma; if the clot resists irrigation, ACG could not reach a recommendation — high-dose PPI alone is a reasonable option.
 
 ### Step 6: Choice of Endoscopic Hemostatic Therapy (Ulcer Bleeding)
 
@@ -229,15 +228,17 @@ High-risk stigmata (Forrest Ia, Ib, IIa) mandate endoscopic hemostatic therapy. 
 
 ### Rockall Score
 
-- Post-endoscopic risk stratification incorporating endoscopic findings
-- Variables: age, hemodynamic status, comorbidities, endoscopic diagnosis, stigmata of recent hemorrhage
-- Rockall ≥6 = high-risk; used to identify patients who benefit from extended (twice-daily) outpatient PPI
-- Not explicitly re-validated in this guideline but used as the eligibility criterion for the extended PPI RCT
+- **Not endorsed or defined by [[acg-2021-ugib|ACG 2021]].** It appears exactly once in that guideline, as the **enrollment criterion (Rockall ≥6)** of the single RCT supporting extended twice-daily PPI (Statement 14) — so "high risk" for the day-4–14 PPI decision operationally means *met that trial's entry criterion*.
+- **Decision gap — flagged, not filled:** the Rockall component variables and point values are **not in any ingested source**; the primary Rockall paper is not in `raw/`. Do not infer them. *(Same corpus block as GAHS/ABIC, Tokyo TG18, CTSI, LA grade.)*
 
 ### AIMS65 Score
 
-- Pre-endoscopic score using albumin <3 g/dL, INR >1.5, altered mental status, systolic BP ≤90, age ≥65
-- Predicts in-hospital mortality; less studied for discharge decision-making than GBS
+- **Not mentioned anywhere in [[acg-2021-ugib|ACG 2021]]** — no components, no threshold, no endorsement. Flagged as a corpus gap; would need the primary AIMS65 derivation paper ingested. (It is referenced comparatively in [[acg-2023-lgib|ACG 2023 LGIB]], where the ABC score is reported as superior to AIMS65 and GBS.)
+
+### Machine-Learning Risk Models
+
+- ACG notes the **Shung machine-learning model** also reaches ~99% sensitivity (lower CI bound 97–98%), matching GBS 0–1, but recommends **only GBS** by name — the Shung model has been evaluated in a single setting.
+- Any future tool may be substituted if it discriminates transfusion/hemostatic intervention/death with **99–100% sensitivity (0–1% false negatives)**.
 
 ### CT Angiography
 
@@ -245,9 +246,9 @@ High-risk stigmata (Forrest Ia, Ib, IIa) mandate endoscopic hemostatic therapy. 
 - Role: when endoscopy fails or is unavailable; planning for interventional radiology (TAE)
 - Can guide TAE by identifying site of active extravasation
 
-### Forrest Classification
+### Ulcer Stigmata at Endoscopy
 
-- Applied at endoscopy to characterize ulcer stigmata and guide hemostatic therapy decisions (see Step 5 above)
+- Characterized at endoscopy to guide hemostatic therapy decisions — see [[#Step 5: Endoscopic Evaluation — Ulcer Stigmata]], including the source caveat on Forrest labelling
 
 ---
 
@@ -271,9 +272,9 @@ High-risk stigmata (Forrest Ia, Ib, IIa) mandate endoscopic hemostatic therapy. 
 
 ### Endoscopic High-Risk Stigmata (Requiring Therapy)
 
-- Forrest Ia: active spurting — highest risk (~55% rebleeding without therapy)
-- Forrest Ib: active oozing — high risk (further bleeding 39% pooled without therapy)
-- Forrest IIa: nonbleeding visible vessel — significant risk (~43% without therapy)
+- **Active spurting** — endoscopic therapy required; less common than oozing (17% of actively bleeding ulcers) but higher further-bleeding rate
+- **Active oozing** — endoscopic therapy required; 39% pooled further bleeding without therapy
+- **Nonbleeding visible vessel** — endoscopic therapy required (NNT 5 to prevent further bleeding)
 
 ### Rebleeding Warning Signs
 
@@ -303,3 +304,4 @@ High-risk stigmata (Forrest Ia, Ib, IIa) mandate endoscopic hemostatic therapy. 
 ## Sources
 
 1. [[acg-2021-ugib|ACG 2021: Upper Gastrointestinal and Ulcer Bleeding]]
+2. [[acg-2023-lgib|ACG 2023: Management of Patients With Acute Lower Gastrointestinal Bleeding]]

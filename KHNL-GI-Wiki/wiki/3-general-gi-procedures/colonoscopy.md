@@ -25,10 +25,12 @@ sources: [usmstf-2020-followup-colonoscopy, usmstf-2021-crc-screening-age, usmst
 
 All surveillance recommendations assume high-quality examination. [[usmstf-2020-followup-colonoscopy]]
 
-- **ADR:** ≥30% men, ≥20% women; colonoscopist-level benchmark [[usmstf-2020-followup-colonoscopy]]
+- **ADR:** ≥30% men, ≥20% women; colonoscopist-level benchmark [[usmstf-2020-followup-colonoscopy]]. ⚠ **Denominator qualifier is not stated by this source.** [[usmstf-2015-crc-surveillance]] and [[usmstf-2021-crc-screening-age]] instead give an **overall ADR >25% (≥25%) in average-risk screening colonoscopies**. The two figures are not reconciled in any ingested source — apply the one whose population matches the exam you are auditing, and note which document you are using.
 - **Cecal intubation:** ≥95%; photo document appendiceal orifice, IC valve, or terminal ileum
-- **Adequate bowel prep:** able to visualize polyps >5mm; **target >90%** at endoscopist and unit level [[usmstf-2025-bowel-prep]]
-- **Complete polypectomy:** all visually detected polypoid tissue removed
+- **Adequate bowel prep:** able to visualize polyps >5mm; **target >90%** at endoscopist and unit level [[usmstf-2025-bowel-prep]]. Segment-level adequacy cutoff: see [[#Preparation Quality Scales]].
+- **Post-polypectomy bleeding rate:** **≤1 per 100 colonoscopies** — see [[#Complications]].
+- **Complete polypectomy:** all visually detected polypoid tissue removed. ⚠ No numeric target rate is given in any source cited on this page.
+- ⚠ **No withdrawal-time indicator** (the conventional ≥6 min in normal-exam colonoscopies) appears in any source cited here — closing this needs the ASGE/ACG *Quality Indicators for Colonoscopy* document ingested. Do not supply it from memory.
 - Document polyp size ≥10mm with comparison to open snare/forceps of known size
 
 ### Artificial Intelligence (CADe / CADx)
@@ -48,8 +50,8 @@ See [[artificial-intelligence-endoscopy]] for the full framework.
 |---|---|---|
 | 45–49, average risk | Offer CRC screening | Weak |
 | ≥50, not yet screened | Recommend CRC screening | Strong |
-| 75, up-to-date with negative prior screens | Consider stopping | Weak |
-| 76–85 | Individualize (prior screening hx, life expectancy, comorbidities, preference) | — |
+| 75, up-to-date with negative prior screens | Consider stopping **at age 75 or when life expectancy is <10 years** | Weak / low |
+| 76–85, **no prior screening** | Consider **screening up to age 85**, depending on age and comorbidities | Weak / low |
 | >85 | Do not screen | — |
 
 **Average risk** = no personal/family history of CRC or colorectal neoplasia, no IBD, no hereditary syndrome
@@ -64,6 +66,7 @@ See [[artificial-intelligence-endoscopy]] for the full framework.
 - FIT–fecal DNA (Cologuard) q3y
 - CT colonography q5y
 - Flexible sigmoidoscopy q5–10y
+- **Capsule colonoscopy q5y** (weak recommendation, low-quality evidence)
 
 ---
 
@@ -97,8 +100,8 @@ For detailed technique, see [[polypectomy]].
 
 ## Complications
 
-- **Perforation:** ~1:1000; right colon highest risk with EMR/[[colorectal-esd|ESD]]
-- **Post-polypectomy bleeding:** immediate or delayed (up to 30d); risk higher with large lesions, right colon, [[anticoagulation-gi-bleeding|antithrombotics]]
+- **Perforation:** **0.08% (95% CI 0.06–0.1)** from polypectomy overall — rare but the most serious complication; **1.5% (95% CI 1.2–1.7)** for endoscopic resection of **≥20 mm** lesions (meta-analysis, 50 studies, 6779 lesions). Right colon highest risk with EMR/[[colorectal-esd|ESD]]. [[usmstf-2020-endoscopic-removal]]
+- **Post-polypectomy bleeding:** pooled **9.8 per 1000 colonoscopies (95% CI 7.7–12.1)**; immediate or delayed (up to 30d); risk higher with large lesions, right colon, [[anticoagulation-gi-bleeding|antithrombotics]]. **Benchmark: post-polypectomy bleeding rate should be ≤1 per 100 colonoscopies** (ASGE/ACG Task Force on Quality in Endoscopy, as cited by [[usmstf-2020-endoscopic-removal]]).
 - **Coagulation syndrome (post-polypectomy syndrome):** fever, localized pain without free air — manage conservatively
 - **Inadequate prep:** document; consider same-day or next-day repeat if unable to visualize >5mm polyps
 
@@ -119,10 +122,16 @@ For detailed technique, see [[polypectomy]].
 | Timing (split-dose) | Second dose: begin 4–6 hr before; complete ≥2 hr before scope insertion | Strong/Moderate |
 | Same-day (afternoon scope) | Acceptable alternative to split-dose | Strong/High |
 | Same-day (morning scope) | Inferior to split-dose | Weak/Low |
-| Purgative choice | No single agent superior — choose based on medical history, medications, prior prep quality | Strong/High |
+| Purgative choice | **No single purgative is superior** to others | Strong/High |
+| Regimen selection | Select a regimen that considers **medical history, medications, and (when available) prep adequacy reported from prior colonoscopies** | Strong/**Moderate** |
 | Diet | Low-residue or full liquids for early/midday meals day before; restrict diet only 1 day prior | Strong/High |
 | Adjunct | Simethicone ≥320 mg (suggest) | Weak/Moderate |
-| Patient education | Verbal + written instructions required | Strong/High |
+| Patient education | Verbal **and** written instructions for **all components** of the preparation | Strong/High |
+| Patient navigation | Some form of navigation — **telephonic or virtual, including automated electronic messaging** — for **all** patients undergoing colonoscopy | Weak/Moderate |
+| Irrigation pumps | **Routine use** to assist with bowel preparation **during** colonoscopy | Weak/Very low |
+| Same-day salvage | Use same-day salvage maneuvers **when feasible** for inadequate preparations | Weak/Moderate |
+
+**Salvage options when the prep is inadequate on insertion:** concerted washing/suctioning (converted 75% of poor/fair preps to good/excellent in one prospective series of 525 patients); right-colon **enema** instillation with the patient in right lateral decubitus, then recovery, spontaneous evacuation and repeat colonoscopy later the same day (**PEG 500–1000 mL or bisacodyl 10 mg**; success **53–100%**); or waking the patient fully and giving further oral purgative — **an additional 2 L PEG beat a 1 L PEG enema, 82% vs 53%** — with same-day colonoscopy (allowing 2 h from the last purgative dose) or, more often feasibly, next-day.
 
 **Against:** Hyperosmotic agents in volume overload/electrolyte disturbance risk (Strong/High); non-simethicone adjuncts routinely (Weak/Low).
 
@@ -130,9 +139,9 @@ For detailed technique, see [[polypectomy]].
 
 [[acg-2025-bowel-prep]]
 
-GLP-1 receptor agonists ([[semaglutide]], liraglutide, tirzepatide, etc.) delay gastric emptying and are associated with increased aspiration risk during [[endoscopy-sedation|procedural sedation]]. The guideline groups them with [[gastroparesis]] for prep-adequacy risk stratification (OR ~1.6).
+GLP-1 receptor agonists ([[semaglutide]], liraglutide, tirzepatide, etc.) delay gastric emptying and are associated with increased aspiration risk during [[endoscopy-sedation|procedural sedation]].
 
-- Treat patients on GLP-1 agonists as high-risk for inadequate prep — apply high-risk prep modifications (see below)
+- ⚠ **The bowel-prep guideline addresses GLP-1 RAs only in the aspiration / purgative-timing context** — *"newer agents such as GLP-1 receptor agonists that delay gastric emptying may also affect the timing of when to cease drinking a bowel preparation purgative."* GLP-1 use is **not** among the listed risk factors for inadequate preparation, and no source recommends applying high-risk prep modifications for it. (An earlier version of this page attributed the [[gastroparesis]] OR 1.6 to GLP-1 RAs — that OR belongs to gastroparesis alone.)
 - Follow anesthesia unit protocol for medication hold prior to sedation (ASA consensus: hold weekly GLP-1 agonists **1 week** before elective procedure; daily dosing hold day-of). **AGA 2024** favors an individualized approach over routine cessation — standard fast + no GI symptoms → proceed; see [[endoscopy-sedation#GLP-1 Receptor Agonists Before Endoscopy|endoscopy-sedation]]. [[aga-2024-glp1-endoscopy]]
 - Provide enhanced counseling about aspiration risk and prep adherence
 
@@ -161,6 +170,7 @@ Grade prep **after** all washing/suctioning is complete ([[asge-2015-bowel-prepa
 | **Ottawa Bowel Preparation Scale** | Each of 3 segments (right, transverse/descending, sigmoid/rectum) 0–4, **plus** whole-colon fluid score (0 small, 1 moderate, 2 large) | **0** (excellent) – **14** (very poor) | Per segment: 0 excellent (mucosal detail clearly visible); 1 good (minimal turbid fluid); 2 fair (must suction to view); 3 poor (must wash and suction); 4 inadequate (solid stool not cleared) |
 | **Aronchick Scale** | Whole colon (segments not evaluated) | **1**–**5** | 1 excellent (>95% mucosa seen); 2 good (clear liquid over ≤25% mucosa, >90% seen); 3 fair (semisolid stool not suctionable, >90% seen); 4 poor (semisolid stool not suctionable, <90% seen); 5 inadequate (repeat prep needed) |
 
+- **Adequacy cutoff (the actionable rule, [[acg-2025-bowel-prep]]):** a **BBPS segment score of 2 or 3 in *all* segments = adequate**. Consider a **total BBPS <6 caused by any segment scoring <2 to be inadequate, requiring repeat colonoscopy as soon as feasible within 12 months.**
 - **BBPS** is validated and reliable; **Aronchick** is a global rating best suited to *comparing preparations* (quality on initial inspection); **Ottawa** was validated against Aronchick ([[asge-2015-bowel-preparation]])
 - USMSTF definition of an **adequate examination**: one allowing confidence that lesions other than small (≤5 mm) polyps were generally not obscured by residual colonic contents ([[asge-2015-bowel-preparation]])
 
@@ -172,7 +182,7 @@ Grade prep **after** all washing/suctioning is complete ([[asge-2015-bowel-prepa
 
 > Applies to patients after curative-intent resection of colon or rectal cancer (TNM stages I–III). Does NOT apply to [[lynch-syndrome]], [[familial-adenomatous-polyposis]], [[serrated-polyposis-syndrome]], or other hereditary CRC syndromes — those require their own syndrome-specific intervals.
 
-A "high-quality" colonoscopy in this context requires: cecum/anastomosis reached, adequate bowel preparation, complete polypectomy, and an endoscopist meeting ADR benchmarks. All surveillance intervals assume high-quality examinations — see [[#Quality Metrics]] for the sex-specific ADR thresholds ([[usmstf-2020-followup-colonoscopy]]).
+A "high-quality" colonoscopy in this context requires: **cecum or anastomosis reached, adequate bowel preparation, and meticulous examination by an appropriately trained operator meeting adenoma-detection benchmarks — i.e. conventional ADR >25% in average-risk screening colonoscopies** ([[usmstf-2015-crc-surveillance]]; [[usmstf-2021-crc-screening-age]] likewise uses "a colonoscopist with a ≥25% overall adenoma detection rate"). All surveillance intervals assume high-quality examinations. ⚠ This **>25% overall** figure and the **sex-specific 30%/20%** thresholds in [[#Quality Metrics]] come from different documents and are not reconciled by any ingested source.
 
 ### Perioperative Clearing
 

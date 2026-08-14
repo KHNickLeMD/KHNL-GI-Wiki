@@ -3,7 +3,7 @@ title: "Laryngopharyngeal Symptoms (LPS) and Laryngopharyngeal Reflux Disease (L
 category: diagnostic-schema
 tags: [lpr, lprd, laryngopharyngeal-reflux, gerd, extraesophageal-reflux, cough, dysphonia, throat-clearing, ph-impedance, foregut]
 created: 2026-05-15
-updated: 2026-07-23
+updated: 2026-08-14
 sources: [san-diego-2025-lprd, aga-2023-extraesophageal-gerd]
 ---
 
@@ -13,7 +13,7 @@ sources: [san-diego-2025-lprd, aga-2023-extraesophageal-gerd]
 
 **Laryngopharyngeal reflux disease (LPRD)** is the diagnosis given when a patient has LPS AND objective evidence supporting a relationship between symptoms and gastroesophageal reflux. LPR is the dominant laryngeal manifestation of [[extraesophageal-reflux|extraesophageal reflux]] — see that page for the broader EER framework (cough, asthma, dental erosions).
 
-**Critical distinction:** LPS ≠ LPRD. Approximately 60% of patients historically diagnosed with "LPR" have normal [[ambulatory-reflux-monitoring|ambulatory reflux monitoring]] on objective evaluation. Only ~35% of LPS patients have objective LPRD when formally tested.
+**Critical distinction:** LPS ≠ LPRD. As many as 60% of patients historically diagnosed with "LPR" have normal [[ambulatory-reflux-monitoring|ambulatory reflux monitoring]] on objective evaluation, and only ~35% of LPS patients have objective LPRD when formally tested. Correspondingly, **fewer than 50% of LPS patients respond to antisecretory therapy**, and [[antireflux-surgery|anti-reflux surgery]] frequently yields suboptimal outcomes — because LPS arises from neurogenic, inflammatory, behavioral, and motility mechanisms that anti-reflux therapy does not address.
 
 **Recognized LPS** (San Diego Consensus, ≥80% agreement):
 
@@ -64,7 +64,8 @@ LPS can be caused by multiple mechanisms — reflux is one of several:
 - **Mandatory** to exclude non-reflux laryngeal pathology (malignancy, vocal fold lesions, vascular lesions)
 - If hoarseness is not explained by white-light flexible laryngoscopy → add **videostroboscopy** to assess vibratory parameters (symmetry, amplitude, mucosal wave, glottic closure)
 - Do NOT use Reflux Finding Score (RFS) or Reflux Sign Assessment (RSA) to diagnose LPRD — suboptimal specificity
-- After laryngoscopy:
+- White-light findings often ascribed to reflux (infraglottic edema, interarytenoid mucosal hypertrophy, erythema, post-cricoid edema) are **non-specific** — also seen in other laryngeal inflammation and in healthy asymptomatic individuals
+- Vocal process granuloma is **not** pathognomonic for LPRD — surveyed laryngologists ranked phonotrauma (88%) above reflux (67%) and glottic insufficiency (48%) as the likely etiology
 
 ### Step 2: Assess for Concurrent Esophageal Reflux Symptoms
 
@@ -72,8 +73,8 @@ LPS can be caused by multiple mechanisms — reflux is one of several:
 
 #### Branch A: LPS + Concurrent Esophageal Reflux Symptoms
 
-1. **Empiric trial:** [[proton-pump-inhibitors|PPI]] BID × 3 months + alginate therapy (4×/day: after meals + bedtime) + lifestyle modification
-   - Lifestyle: weight loss, upright posture 2–3h post-meals, head of bed elevation, left lateral sleep, avoid triggers
+1. **Empiric trial:** unit/standard-dose [[proton-pump-inhibitors|PPI]] (e.g. omeprazole 20 mg) up to **twice daily × 3 months** + alginate therapy (4×/day: after meals + bedtime) + lifestyle modification
+   - Lifestyle: weight loss and avoiding tight abdominal clothing (↓ intragastric pressure); upright posture / no recumbency 2–3h post-meals and diaphragmatic breathing (↓ post-prandial reflux); head-of-bed elevation and left lateral sleep (nocturnal reflux); avoid trigger foods
 2. **If responsive:** Confirms LPRD contribution; consider long-term management with objective testing before permanent therapy
 3. **If unresponsive:** Proceed to esophageal evaluation ([[upper-endoscopy|EGD]] + [[ambulatory-reflux-monitoring|ambulatory reflux monitoring]])
 
@@ -89,21 +90,24 @@ LPS can be caused by multiple mechanisms — reflux is one of several:
 - Conclusive [[gerd|GERD]] evidence: LA grade B, C, D esophagitis or biopsy-proven [[barretts-esophagus|Barrett's esophagus]]
 - Adjunctive evidence: hiatal hernia, disrupted EGJ
 - Up to 47% of LPS patients have erosive findings and/or hiatal hernia on EGD
-- Transnasal esophagoscopy (TNE): acceptable alternative if performed by trained provider
+- Transnasal esophagoscopy (TNE): acceptable alternative if performed by a provider with specialized esophageal-endoscopy training
+- **Cervical inlet patch** (heterotopic gastric mucosa in the proximal esophagus, may secrete acid/mucus/pepsin) is associated with LPS and globus, but the panel reached **no agreement** on whether identifying or ablating it reduces LPS — evidence limited to small case series
 - If endoscopy is non-diagnostic for GERD → proceed to ambulatory reflux monitoring
 
 **Ambulatory reflux monitoring (reference standard for LPRD):**
 
 - Perform OFF acid suppression in patients with unproven GERD
-- Required before invasive (endoscopic or [[antireflux-surgery|surgical]]) anti-reflux management
+- Required before invasive (endoscopic or surgical) anti-reflux management
 
 | Modality | Best Use | Key Metrics | Limitations |
 |---|---|---|---|
-| 24h pH-impedance (esp. HEMII-pH) | Isolated LPS; detecting proximal/pharyngeal reflux; understanding mechanism | Hypopharyngeal events, proximal reflux, weakly-acidic episodes | Single-day snapshot; does not capture day-to-day variability |
-| 96h wireless pH monitoring | LPS with esophageal symptoms; prior to invasive treatment; ruling out GERD | AET >6.0% = proven GERD; AET <4.0% on all 4 days = physiologic → predicts PPI failure | No pharyngeal/proximal data; no baseline impedance |
-| Oropharyngeal pH (Restech) | Not recommended as standalone | — | Poor specificity; cannot detect non-acidic reflux |
+| 24h pH-impedance (esp. HEMII-pH) | Isolated LPS; detecting proximal/pharyngeal reflux; understanding mechanism | Hypopharyngeal events, proximal reflux, weakly-acidic episodes | Single-day snapshot; does not capture day-to-day variability; diagnostic yield for GERD in LPS **27%** |
+| 96h wireless pH monitoring | LPS with esophageal symptoms; prior to invasive treatment; ruling out GERD | Distal AET, day-by-day | No pharyngeal/proximal data; no baseline impedance; requires sedated endoscopy for placement — diagnostic yield for GERD in LPS **50%** |
+| Oropharyngeal pH (Restech) | Not recommended as standalone | — | Poor specificity; cannot detect weakly-acidic/non-acidic reflux; poor concordance with pH-impedance |
 
-**AET thresholds:** >6.0% = proven GERD; <4.0% = physiologic; 4.0–6.0% = indeterminate (consider symptoms, impedance)
+**Distal AET thresholds** (per [[ambulatory-reflux-monitoring|Lyon 2.0]], applied unchanged to LPRD): **>6.0% = proven GERD**; **<4.0% = physiologic** — and <4.0% on *all four* days of a 96h study predicts low likelihood of response to antisecretory therapy.
+
+**No agreed threshold for reflux-event counts.** The panel could **not** reach agreement on >80 esophageal reflux events or >10 hypopharyngeal events as abnormal — do not treat these as diagnostic cutoffs.
 
 ### Step 4: Address Laryngeal Hyperresponsiveness / Hypervigilance
 
@@ -119,21 +123,23 @@ LPS can be caused by multiple mechanisms — reflux is one of several:
 |---|---|
 | Laryngoscopy ± videostroboscopy | Rule out non-reflux laryngeal pathology; mandatory first step |
 | EGD (off acid suppression if possible) | Diagnose GERD evidence (LA B–D, Barrett's, hiatal hernia) |
-| 96h wireless pH monitoring | Best for ruling GERD in/out; guides anti-reflux therapy decisions |
-| 24h pH-impedance / HEMII-pH | Detect proximal and non-acidic reflux events; best for isolated LPS mechanism |
+| Ambulatory reflux monitoring (96h wireless pH *or* 24h pH-impedance/HEMII-pH) | Reference standard for LPRD — the two modalities are complementary, not interchangeable; see the modality table in Step 3 for how to choose |
 | LCAT questionnaire | Identify laryngeal hypervigilance/anxiety for behavioral therapy referral |
-| RSI / RSS | Track symptom severity over time (NOT for diagnosis) |
+| RSI / RSS | Track symptom severity over time (NOT for diagnosis). The historic **RSI ≥13** cutoff does not distinguish increased proximal/pharyngeal reflux or symptom correlation on HEMII-pH; RSS is more specific but still not diagnostic of LPRD |
+| Risk-stratification tools (HAS-BEER, COuGH RefluX) | Promising for triaging LPRD likelihood, but the panel judged data insufficient for adoption — **not** part of the consensus algorithm |
 | Spirometry / chest CT | Rule out pulmonary causes of chronic cough if clinically indicated |
 
 ---
 
 ## Red Flags / Alarm Features
 
-- Hoarseness lasting >4–6 weeks, especially in smoker or >50 years → urgent laryngoscopy to exclude malignancy
-- Dysphagia, odynophagia, weight loss → EGD to exclude [[esophageal-cancer|esophageal cancer]]/stricture
-- Hemoptysis → pulmonary evaluation
-- Rapidly progressive stridor or airway compromise → emergent evaluation
-- Failure of LPS to respond to any therapy → revisit laryngoscopy and consider malignancy, autoimmune disease, or neurologic etiology
+- **Laryngoscopy is mandatory in every LPS presentation** — its primary purpose is to exclude neoplasia and other non-reflux laryngeal pathology (keratotic, pre-malignant dysplastic, and malignant lesions of epithelial origin are common causes of dysphonia and throat clearing wrongly ascribed to reflux).
+- **Hoarseness not explained by white-light flexible laryngoscopy** → videostroboscopy to assess symmetry, amplitude, mucosal wave, and glottic closure.
+- **Dysphagia is explicitly *not* an LPS** (did not reach consensus agreement) — if present, work it up on its own terms via the dysphagia schema (linked above) rather than attributing it to reflux. The same applies to tongue burning, nasal burning, post-nasal drip, halitosis, and belching.
+- **Failure to respond to anti-reflux therapy is expected, not alarming** (<50% of LPS respond) — it should redirect to the non-reflux differential and to laryngeal hyperresponsiveness/hypervigilance, not to escalating acid suppression.
+- **GI alarm symptoms** (weight loss, bleeding, vomiting, anemia) → see [[extraesophageal-reflux|EER red flags]] for the endoscopy trigger.
+
+> **Gap flag:** the San Diego Consensus gives no *duration* or *age/smoking* threshold that converts hoarseness into an urgent-laryngoscopy indication, and does not enumerate airway red flags (stridor, hemoptysis). An ENT/head-and-neck hoarseness guideline would be needed — do not infer thresholds.
 
 ---
 
@@ -142,8 +148,9 @@ LPS can be caused by multiple mechanisms — reflux is one of several:
 ### Anti-reflux Therapy
 
 - Indicated only when LPRD is confirmed (objective testing) or when esophageal symptoms are present
-- BID PPI × 3 months ± alginate therapy (first-line trial)
-- [[potassium-competitive-acid-blockers|PCABs]] (potassium-competitive acid blockers): emerging alternative to PPI for acid suppression
+- Unit-dose PPI up to BID × 3 months ± alginate therapy (first-line trial; see algorithm above for dosing)
+- [[potassium-competitive-acid-blockers|PCABs]]: approved for non-erosive reflux disease and erosive esophagitis and **could be used in place of PPI**; LPS-specific outcome data are not yet available
+- Alginates are inexpensive and well tolerated, may reduce globus perception, and may add benefit over PPI monotherapy
 - Do not escalate to invasive (endoscopic or surgical) anti-reflux management without objective GERD confirmation
 
 ### Behavioral Therapy
@@ -162,7 +169,7 @@ LPS can be caused by multiple mechanisms — reflux is one of several:
 
 ## See Also
 
-[[gerd]], [[extraesophageal-reflux]], [[barretts-esophagus]], [[ambulatory-reflux-monitoring]], [[reflux-testing]], [[upper-endoscopy]], [[antireflux-surgery]], [[esophageal-cancer]], [[dysphagia]], [[disorders-of-gut-brain-interaction]]
+[[gerd]], [[extraesophageal-reflux]], [[barretts-esophagus]], [[ambulatory-reflux-monitoring]], [[reflux-testing]], [[upper-endoscopy]], [[antireflux-surgery]], [[proton-pump-inhibitors]], [[potassium-competitive-acid-blockers]], [[dysphagia]], [[disorders-of-gut-brain-interaction]]
 
 ---
 
