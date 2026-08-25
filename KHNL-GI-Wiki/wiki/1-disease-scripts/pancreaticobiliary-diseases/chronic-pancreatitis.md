@@ -62,6 +62,33 @@ CT/MRI first-line; EUS only if cross-sectional imaging non-diagnostic and suspic
 
 **Severity bands:** A Minor 0–5 · B Increased 6–10 · C Advanced 11–15 · D Marked 16–20 · E Exacerbated >20.
 
+#### Imaging morphology grade — the criteria behind the "Cambridge" row
+
+APA 2014 **Table 6, Pancreas Morphology Imaging Grade (I–IV)** — the graded morphology that the M-ANNHEIM imaging row and the diagnostic-evidence tiers (below) are scored from ([[apa-2014-chronic-pancreatitis]]). **Ultrasound is graded on the same criteria as CT.**
+
+| Modality | Equivocal (I) | Mild (II) | Moderate (III) | Marked (IV) |
+|---|---|---|---|---|
+| **CT / MRI** (US same as CT) | **1** of: main duct enlarged **2–4 mm**; slight gland enlargement; heterogeneous parenchyma; small cavities **<10 mm**; irregular ducts; focal pancreatitis; increased echogenicity of main-duct wall; irregular head/body contour | **≥2** of the same list | Cannot be distinguished from mild | Moderate changes **plus ≥1** of: large cavities **>10 mm**, gland enlargement, intraductal filling defects/calculi, duct obstruction, stricture, or gross irregularity |
+| **EUS** (conventional 0–9 criteria) | 0–2 features | 3–4 features | ≥5 features | *not separately defined in Table 6* |
+| **MRCP / ERCP** | **<3** abnormal side-branch changes | **≥3** abnormal side-branch changes | Abnormal main duct **+ >3** abnormal side branches | Moderate changes **plus 1** of: obstruction, filling defects, severe irregularity/dilation of the main duct |
+
+**What counts as an abnormal duct on pancreatography** ([[apa-2014-chronic-pancreatitis]], Cambridge criteria):
+
+- Average **normal** main-duct diameter **3.6 / 2.7 / 1.6 mm** (head / body / tail); reported **upper limit of normal as high as 6.5 / 5 / 3 mm**.
+- Dilation is **general** (>⅔ of the main duct) or **local** (<⅔). **Severe dilation = >1 cm.**
+- Main-duct abnormalities: dilation, narrowing, strictures, filling defects, leaks/cavities. Side-branch abnormalities: decreased number, shortened length, dilated or narrowed caliber — **the normal/abnormal boundary for side branches is not clearly defined in the source**.
+- Cambridge–histology correlation is **highest in advanced disease** (77% for moderate/marked vs 67% for normal/equivocal/mild). Confounders: age-related ductal change, post-AP change, PanIN-related branch-duct change — ductal abnormalities **alone** misdiagnose CP (81% of a post-mortem series without CP had "abnormal" pancreatograms).
+
+#### Diagnostic evidence tiers (APA 2014, Table 5)
+
+Interpret only in a patient whose history/exam is suspicious for CP (pain, prior AP, PERT-responsive steatorrhea, heavy alcohol/smoking, genetic or family risk).
+
+| Tier | Criteria |
+|---|---|
+| **Definitive** | **Any one of:** moderate/marked imaging morphology (ductal **and** parenchymal abnormalities) · pancreatic calcifications · histologic confirmation |
+| **Probable** | (**Mild** imaging morphology **or** recurrent pseudocyst/pancreatitis) **plus** abnormal pancreatic physiology (secretin test, diabetes, steatorrhea) |
+| **Insufficient** | **Equivocal** imaging morphology, **or** abdominal pain with any of: no history of pancreatitis (lipase <3× ULN), normal imaging, family history of pancreatitis, prior ERCP with PD stenting, presence of TIGAR-O risk factors (smoking, alcohol) |
+
 ### Classification — TIGAR-O v2.0 risk/etiology checklist
 
 **T**oxic-metabolic · **I**diopathic · **G**enetic · **A**utoimmune · **R**ecurrent [[acute-pancreatitis|acute pancreatitis]] · **O**bstructive
@@ -158,7 +185,7 @@ The [[apa-2014-chronic-pancreatitis|APA 2014 guideline]] text states parenchymal
 |---|---|---|
 | CCK stimulation | Hormonal (acinar) | Direct, detects subtle EPI; cumbersome, Dreiling tube |
 | Secretin stimulation (ePFT) | Hormonal (ductal) | Endoscopic, measures bicarbonate; not widely available |
-| Fecal elastase-1 | Nonhormonal | Universally available; <200 µg/g = EPI; <100 = severe; high false-positive in diarrhea |
+| Fecal elastase-1 | Nonhormonal | Universally available and the most easily obtained test for EPI. **Accuracy depends on the cutoff chosen: <200 µg/g has a high false-positive rate; lowering to <100 µg/g improves specificity but lowers sensitivity** ([[acg-2020-chronic-pancreatitis]]). Specificity further limited by watery stool and small-bowel disease ([[apa-2014-chronic-pancreatitis]]) |
 | ¹³C-mixed triglyceride breath test | Nonhormonal | High sensitivity (~90%); not universally available; 4–6 hr |
 | Serum trypsinogen/trypsin | Nonhormonal | Easy; nonspecific; elevated with pancreatic pain |
 
@@ -221,8 +248,8 @@ Experimental (research only): spinal cord stim, transmagnetic stim, radiation (K
 
 ### Exocrine pancreatic insufficiency (EPI)
 
-- **PERT (Rec 11, Cond/Low):** 40,000–50,000 USP lipase units per meal (half-dose with snacks); titrate to symptoms (steatorrhea, weight, vitamin levels)
-- Take with first bite of meal; if inadequate, add acid suppression ([[proton-pump-inhibitors|PPI]]/H2RA) to protect non-enteric-coated formulations
+- **PERT (Rec 11, Cond/Low):** **at least 40,000–50,000 USP units of lipase with each meal**, administered **during** the meal ([[acg-2020-chronic-pancreatitis]]); titrate to symptoms (steatorrhea, weight, vitamin levels). Snack dosing and the full EPI work-up/monitoring set live on the EPI page above
+- If inadequate, add acid suppression ([[proton-pump-inhibitors|PPI]]/H2RA) to protect non-enteric-coated formulations
 - Periodic monitoring of weight, fat-soluble vitamins, bone density (Key Concept 10)
 - Small frequent meals without fat restriction
 - **SIBO co-occurrence:** Pancreatic insufficiency is a recognized risk factor for [[small-intestinal-bacterial-overgrowth]] (altered bile acid composition + reduced digestive enzyme activity). Consider SIBO evaluation in CP patients with persistent diarrhea/bloating despite adequate PERT.

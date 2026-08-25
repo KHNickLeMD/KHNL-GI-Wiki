@@ -3,7 +3,7 @@ title: "Dyspepsia"
 category: diagnostic-schema
 tags: [dyspepsia, functional, stomach, foregut, dgbi, test-and-treat]
 created: 2026-05-16
-updated: 2026-08-14
+updated: 2026-08-25
 sources: [acg-cag-2017-dyspepsia, rome-v-2026-dgbi]
 ---
 
@@ -90,7 +90,7 @@ Per ACG/CAG 2017, alarm features alone in patients <60 have **low PPV** for uppe
 
 ---
 
-## PPI safety considerations
+## PPI Safety Considerations
 
 ACG/CAG 2017 reviewed associations between long-term PPI and hip fracture, CAP, [[clostridioides-difficile|C. difficile]], electrolyte disturbance, and dementia — concluded most likely residual confounding; even if causal, NNH >1,000 in most studies. Continue PPI when benefit is clear; reassess every 6–12 months and discontinue if no longer needed (consistent with FDA guidance).
 
@@ -105,3 +105,4 @@ ACG/CAG 2017 reviewed associations between long-term PPI and hip fracture, CAP, 
 ## Sources
 
 1. [[acg-cag-2017-dyspepsia|ACG/CAG 2017: Management of Dyspepsia]]
+2. [[rome-v-2026-dgbi|Disorders of Gut–Brain Interaction and the Rome V Process]]

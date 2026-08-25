@@ -3,7 +3,7 @@ title: "Tacrolimus"
 category: med
 tags: [tacrolimus, fk506, calcineurin-inhibitor, immunosuppression, transplant, liver-transplant, nephrotoxicity, diabetes, extended-release]
 created: 2026-05-19
-updated: 2026-08-05
+updated: 2026-08-25
 sources: [aasld-2012-liver-transplant-long-term, aasld-ast-2025-liver-transplant-graft-complications]
 ---
 
@@ -17,7 +17,7 @@ Per [[aasld-ast-2025-liver-transplant-graft-complications]] (Table 4):
 
 | Time Post-LT | Dose | Target Trough |
 |---|---|---|
-| Month 1 | 0.1–0.15 mg/kg PO twice daily | 7–10 ng/mL |
+| Month 1 | **0.1–0.15 mg/kg/day PO, given in two divided doses** (twice daily) | 7–10 ng/mL |
 | Months 2–12 | Adjusted to trough | 4–8 ng/mL |
 | Month 12 onward | Adjusted to trough | 4 ng/mL |
 
@@ -48,24 +48,12 @@ Per [[aasld-ast-2025-liver-transplant-graft-complications]] (Table 4):
 
 ## Drug Interactions
 
-CYP3A4 substrate — major interactions:
+TAC is a **CYP3A substrate**; the full class interaction list (shared with cyclosporine) lives on **[[calcineurin-inhibitors]]** — see that page rather than duplicating it here. TAC-specific points:
 
-**Increase TAC levels (CYP3A4 inhibitors):**
-
-- Azole antifungals (fluconazole, voriconazole, posaconazole) — dramatic increase
-- Macrolide antibiotics (clarithromycin, erythromycin)
-- Calcium channel blockers (diltiazem, verapamil)
-- Grapefruit juice
-- Amiodarone, danazol, [[proton-pump-inhibitors|proton pump inhibitors]]
-- Nirmatrelvir/ritonavir (Paxlovid) — dramatic increase; requires dose adjustment
-
-**Decrease TAC levels (CYP3A4 inducers):**
-
-- Rifampin — dramatic decrease
-- Anticonvulsants (phenytoin, carbamazepine, phenobarbital)
-- St. John's Wort
-
-**Serotonin reuptake inhibitors, allopurinol, benzodiazepines (diazepam, alprazolam)**: increased TAC levels
+- **Voriconazole is contraindicated** with CNIs; other triazoles (ketoconazole, posaconazole > itraconazole, fluconazole) markedly raise levels ([[aasld-2012-liver-transplant-long-term]], Table 4).
+- **Rifamycins** markedly *decrease* levels — with rifampin coadministration for TB, the CNI dose must be increased **2- to 5-fold** at treatment initiation; rifabutin may be substituted to blunt the effect ([[aasld-2012-liver-transplant-long-term]]).
+- **Nirmatrelvir–ritonavir (Paxlovid)** raises TAC levels and requires dose adjustment with close trough monitoring ([[aasld-ast-2025-liver-transplant-graft-complications]]).
+- Any new antimicrobial warrants attention to CNI interactions; HIV-infected recipients on ART need **frequent trough monitoring** ([[aasld-2012-liver-transplant-long-term]], Recs 62-2, 67).
 
 ## Monitoring
 

@@ -3,15 +3,25 @@ title: "Defecation Disorders (Dyssynergic Defecation)"
 category: disease-script
 tags: [defecation-disorder, dyssynergia, outlet-obstruction, biofeedback, anorectal-manometry, colorectal, pelvic-floor]
 created: 2026-05-16
-updated: 2026-08-14
-sources: [acg-2021-anorectal-disorders, aga-acg-2023-constipation]
+updated: 2026-08-25
+sources: [acg-2021-anorectal-disorders, aga-acg-2023-constipation, rome-v-2026-dgbi]
 ---
 
 ## Assessment
 
 ### Establishing the Diagnosis
 
-**Defecation disorder (DD)** = difficulty evacuating stool from the rectum due to impaired coordination of the pelvic floor muscles, inadequate rectal propulsive force, or outlet structural abnormality. The diagnosis requires **both** symptom criteria **AND** ≥2 abnormal anorectal tests.
+**Defecation disorder (DD)** = difficulty evacuating stool from the rectum due to impaired coordination of the pelvic floor muscles, inadequate rectal propulsive force, or outlet structural abnormality. Diagnosis = **symptom criteria + objective evidence of disordered evacuation**; the number of abnormal tests required changed between guideline versions (below).
+
+**How many abnormal tests? — the rule changed:**
+
+| Source | Test requirement |
+|---|---|
+| [[rome-v-2026-dgbi\|Rome V]] (2026, current) | **1 of 3** abnormal tests — balloon expulsion, anorectal manometry, **or** imaging (defecography). **EMG dropped** as a criterion |
+| [[acg-2021-anorectal-disorders\|ACG 2021]] | **≥2** abnormal tests (ARM **and** BET both required; a single test held insufficient) |
+
+- ⚠ **Contradiction, resolved by recency:** Rome V is the newer tier-1 consensus, so the page asserts the 1-of-3 rule; ACG 2021's two-test requirement is kept in view because the test descriptions under [[#Required Tests for Diagnosis]] are written against it and many labs still apply it. [[rome-v-2026-dgbi]]
+- **Nomenclature:** Rome V **removed the umbrella category "functional defecation disorders"** (too broad — it swept in structural conditions such as rectal prolapse); the retained DGBI entity is **F3 dyssynergic defecation**. [[rome-v-2026-dgbi]]
 
 **Clinical features (Rome IV-compatible):** excessive straining during ≥25% of defecations, sense of anorectal blockage during ≥25% of defecations, use of digital or manual maneuvers during ≥25% of defecations, sense of incomplete evacuation.
 
@@ -31,6 +41,8 @@ Severity based on symptom burden, laxative dependence, impact on QoL (PAC-QoL, P
 ---
 
 ## Differential Diagnosis
+
+*No diagnostic schema for chronic constipation exists yet in the wiki; the stepwise evaluation algorithm is under [[#Diagnostic Algorithm]] below.*
 
 | Condition | Key Features |
 |-----------|-------------|
@@ -67,7 +79,7 @@ Severity based on symptom burden, laxative dependence, impact on QoL (PAC-QoL, P
 - BET: balloon filled with 50 mL water expelled in seated position; normal ≤1 minute (commercial Mui Scientific balloon); >1 minute = abnormal
   - Against defecography as the reference: **sensitivity and specificity both ~88%**, **PPV 64%, NPV 97%** (106 functional-constipation + 24 DD patients). The high NPV is the operative number — a normal BET largely excludes a defecation disorder, while a positive one needs corroboration. Test mechanics live on [[anorectal-manometry]].
   - Not performed with Foley catheter (upper limit 2 minutes with Foley — misclassifies 25% of healthy individuals)
-- Both ARM + BET required; single test insufficient (concordance >70% but tests assess different aspects)
+- ACG 2021 requires **both** ARM + BET (concordance >70%, but the tests assess different aspects); **Rome V accepts any 1 of balloon expulsion / manometry / imaging** — see the test-requirement table under [[#Establishing the Diagnosis]]
 
 **Defecography (barium or MRI) — for structural evaluation:**
 
@@ -136,3 +148,4 @@ Severity based on symptom burden, laxative dependence, impact on QoL (PAC-QoL, P
 
 1. [[acg-2021-anorectal-disorders|ACG 2021 Clinical Guidelines: Management of Benign Anorectal Disorders]]
 2. [[aga-acg-2023-constipation|AGA-ACG 2023 Pharmacologic Management of Chronic Idiopathic Constipation]]
+3. [[rome-v-2026-dgbi|Disorders of Gut–Brain Interaction and the Rome V Process]]

@@ -3,8 +3,8 @@ title: "Chronic Idiopathic Constipation"
 category: disease-script
 tags: [constipation, cic, laxatives, secretagogues, peg, linaclotide, colorectal, functional]
 created: 2026-05-16
-updated: 2026-08-14
-sources: [aga-acg-2023-constipation, acg-2021-anorectal-disorders, asge-2014-constipation, aga-2026-refractory-constipation]
+updated: 2026-08-25
+sources: [aga-acg-2023-constipation, acg-2021-anorectal-disorders, asge-2014-constipation, aga-2026-refractory-constipation, rome-v-2026-dgbi]
 ---
 
 ## Assessment
@@ -12,6 +12,8 @@ sources: [aga-acg-2023-constipation, acg-2021-anorectal-disorders, asge-2014-con
 ### Establishing the Diagnosis
 
 **Chronic idiopathic constipation (CIC)** = chronic constipation without identifiable structural, metabolic, or pharmacologic cause. Diagnosis is clinical, based on symptom criteria.
+
+- **Nomenclature ([[rome-v-2026-dgbi|Rome V]], 2026):** the word "functional" was dropped — **"functional constipation" is now "chronic constipation"** (bowel-DGBI category **C2**); opioid-induced constipation is a separate category (C6). [[rome-v-2026-dgbi]]
 
 **Rome IV criteria for functional constipation** (at least 2 of the following for ≥6 months):
 
@@ -24,7 +26,7 @@ sources: [aga-acg-2023-constipation, acg-2021-anorectal-disorders, asge-2014-con
 
 **Exclusions (not CIC):**
 
-- [[irritable-bowel-syndrome|IBS-C]]: abdominal pain is predominant (Rome IV: pain ≥1 day/week for ≥3 months)
+- [[irritable-bowel-syndrome|IBS-C]]: abdominal pain is predominant — Rome IV set the bar at **pain ≥1 day/week for ≥3 months**; **Rome V lowered it to ≥3 days/month in the last 3 months** and re-added "abdominal discomfort" as qualifying, so more patients now sort into IBS-C rather than chronic constipation. [[rome-v-2026-dgbi]]
 - Opioid-induced constipation (OIC)
 - Secondary causes: hypothyroidism, hypercalcemia, diabetes, Parkinson's disease, medications (opioids, anticholinergics, calcium channel blockers, iron, NSAIDs), pregnancy
 
@@ -49,6 +51,8 @@ Assess impact on quality of life using validated tools (PAC-QoL, PAC-SYM) and st
 ---
 
 ## Differential Diagnosis
+
+*No diagnostic schema for chronic constipation exists yet in the wiki; the stepwise workup is under [[#Diagnostics]] below, and the outlet-dysfunction arm on [[defecation-disorders]].*
 
 | Condition | Key Features |
 |-----------|-------------|
@@ -181,3 +185,4 @@ If defecation disorder is identified (abnormal ARM + BET), **[[biofeedback-thera
 2. [[acg-2021-anorectal-disorders|ACG 2021 Clinical Guidelines: Management of Benign Anorectal Disorders]]
 3. [[asge-2014-constipation|ASGE 2014: The Role of Endoscopy in the Management of Constipation]]
 4. [[aga-2026-refractory-constipation|AGA Clinical Practice Update on Evaluation and Management of Refractory Constipation: Expert Review (2026)]]
+5. [[rome-v-2026-dgbi|Disorders of Gut–Brain Interaction and the Rome V Process]]

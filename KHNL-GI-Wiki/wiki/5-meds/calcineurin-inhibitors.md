@@ -22,9 +22,20 @@ Calcineurin inhibitors (CNIs) — primarily [[tacrolimus]] (TAC) and cyclosporin
 ### Cyclosporine (CSA)
 
 - Alternative to [[tacrolimus]] — side-effect trade-offs in the [[#Side Effects Comparison]] table below
-- Dosing: 2 mg/kg PO twice daily, adjusted to trough
+- Dosing: **2 mg/kg/day PO, given in two divided doses**, adjusted to trough ([[aasld-ast-2025-liver-transplant-graft-complications]], Table 4)
 - Trough targets: 250–300 ng/mL (C0, first 3 months); 100–250 ng/mL (month 3 onward)
 - [[direct-acting-antivirals|Direct antiviral]] interactions: sofosbuvir, glecaprevir, voxilaprevir (increased CSA levels)
+
+### mTOR Inhibitors (used to reduce or replace the CNI)
+
+Not calcineurin inhibitors, but the agents CNI-minimization converts to ([[aasld-ast-2025-liver-transplant-graft-complications]], Table 4):
+
+| Agent | Dose | Target trough |
+|---|---|---|
+| Everolimus | 1 mg PO twice daily **after month 1** | 3–8 ng/mL |
+| Sirolimus (off-label in LT) | 2 mg PO daily **after month 1** | 4–10 ng/mL |
+
+- Class adverse effects: GI intolerance, leukopenia, hyperlipidemia, proteinuria, peripheral edema, impaired wound healing, aphthous stomatitis, interstitial pneumonitis, and hepatic artery thrombosis (sirolimus) — hence the ≥1-month post-LT start.
 
 ## Induction — Delaying CNI Start
 
@@ -71,11 +82,13 @@ Per [[aasld-ast-2025-liver-transplant-graft-complications]] Rec 28:
 
 Both TAC and CSA are CYP3A4/P-gp substrates. Key interactions:
 
-**Increase CNI levels:** Azole antifungals, macrolides, calcium channel blockers (diltiazem, verapamil), grapefruit juice, nirmitrelavir/ritonavir (Paxlovid — significant; requires dose adjustment), amiodarone, [[proton-pump-inhibitors|proton pump inhibitors]]
+**Increase CNI levels** (grapefruit juice, or CYP3A inhibitors): macrolide antibiotics (erythromycin > clarithromycin > azithromycin), azole antifungals (ketoconazole/voriconazole/posaconazole > itraconazole/fluconazole — **voriconazole contraindicated**), calcium channel blockers (diltiazem, verapamil), protease inhibitors, **nirmatrelvir–ritonavir (Paxlovid)**, antimalarial agents, benzodiazepines (diazepam, alprazolam), serotonin reuptake inhibitors, allopurinol, amiodarone, danazol, [[proton-pump-inhibitors|proton pump inhibitors]], and fluoroquinolones (ofloxacin > ciprofloxacin).
 
-**Decrease CNI levels:** Rifampin, anticonvulsants (phenytoin, carbamazepine, phenobarbital), St. John's Wort, antimycobacterial agents
+**Decrease CNI levels** (CYP3A inducers): antimycobacterial agents — **rifamycins (rifampin > rifabutin) markedly decrease levels; CNI dose must be raised 2- to 5-fold when rifampin is started** — anticonvulsants, and St. John's wort.
 
-**CSA-specific**: Direct antiviral interactions (sofosbuvir, glecaprevir, voxilaprevir), serotonin uptake inhibitors, allopurinol
+**CSA-specific**: [[direct-acting-antivirals|direct antiviral]] interactions (sofosbuvir, glecaprevir, voxilaprevir).
+
+*Sources for this section: [[aasld-ast-2025-liver-transplant-graft-complications]] Table 4 and [[aasld-2012-liver-transplant-long-term]] Table 4 / Recs 62-2, 65–67.*
 
 ## Complete IS Withdrawal
 

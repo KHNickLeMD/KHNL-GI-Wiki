@@ -3,8 +3,8 @@ title: "Enteral Access"
 category: general-procedure
 tags: [enteral-nutrition, peg, peg-j, nutrition, nasoenteric, dpej, buried-bumper]
 created: 2026-07-23
-updated: 2026-08-14
-sources: [aga-2025-endoscopic-enteral-access]
+updated: 2026-08-25
+sources: [aga-2025-endoscopic-enteral-access, asge-2025-gastrostomy-tubes]
 ---
 
 ## Contents
@@ -31,6 +31,7 @@ sources: [aga-2025-endoscopic-enteral-access]
   - **Oral/nasal flexible tubes** — OG, NG, NJ.
   - **Percutaneous tubes** — surgical, radiologic, or endoscopic (PEG, PEGJ, DPEJ).
 - Endoscopically placed tubes: favorable safety profile vs surgical or radiologic placement.
+- **PEG is the preferred initial gastrostomy technique over interventional-radiology gastrostomy (IR-G)** in patients with **normal foregut anatomy** needing enteral access (Rec 1, [[asge-2025-gastrostomy-tubes]]).
 - Multidisciplinary team advised: speech pathology, dietitians, nutrition nurses, gastroenterologists, co-managing physicians, palliative care when appropriate.
 
 ## Indications
@@ -120,7 +121,8 @@ sources: [aga-2025-endoscopic-enteral-access]
   - Not required if already on systemic antibiotics.
   - Cephalosporin allergy → **clindamycin or vancomycin**.
 - **[[anticoagulation-gi-bleeding|Antithrombotics]]:**
-  - Increasing data support PEG placement **without interruption of dual-antiplatelet therapy** (no significant increase in bleeding).
+  - **Antiplatelets — do NOT routinely withhold** before PEG (Rec 2a, [[asge-2025-gastrostomy-tubes]]); increasing data support PEG placement **without interruption of dual-antiplatelet therapy** (no significant increase in bleeding).
+  - **Anticoagulants — individualize** periprocedural management, balancing thrombotic against bleeding risk; they are handled differently from antiplatelets (Rec 2b, [[asge-2025-gastrostomy-tubes]]).
   - If antithrombotics held, resume ASAP considering indication, in consultation with initiating service.
 - **Laboratory thresholds:** platelets **>50,000/mL**; INR **<1.5**.
   - **Unfractionated heparin:** hold for percutaneous placement; can give **2–6 h after** procedure.
@@ -136,6 +138,7 @@ sources: [aga-2025-endoscopic-enteral-access]
 
 **Percutaneous gastrostomy routes:**
 - **Transoral** — pull or push.
+- PEG tubes may be placed by either the **transoral "pull"** or the **transcutaneous** technique (Rec 3, [[asge-2025-gastrostomy-tubes]]).
 - **Transabdominal** — radiologic OR endoscopic "introducer"/Russell technique: T-tack gastropexy → tract dilation → tube through dilated tract. Reserved for **head & neck cancer** (minimize tumor seeding) and upper GI strictures/obstruction.
 
 **PEG (pull) technique:**
@@ -160,7 +163,9 @@ sources: [aga-2025-endoscopic-enteral-access]
 ## Post-procedure Care
 
 - **NG/NJ:** use immediately after confirmation (usually abdominal radiography).
-- **PEG: medications immediately; tube feeds after 4 hours.**
+- **PEG: medications immediately; tube feeds after 4 hours** ([[aga-2025-endoscopic-enteral-access]]).
+  - ⚠ **Two 2025 tier-1 sources word this differently and are not reconciled:** [[aga-2025-endoscopic-enteral-access|AGA 2025]] says feeds **after** 4 hours; [[asge-2025-gastrostomy-tubes|ASGE 2025]] states tube feeding can be **safely started within 4 hours** of gastrostomy. Both permit feeding on the day of placement; ASGE is the more permissive of the two.
+- **External bumper:** tightening it for **~24 h** after placement is reasonable (Rec 3, [[asge-2025-gastrostomy-tubes]]) — then restore the **1-cm** skin-to-bumper breadth to avoid a buried bumper (see [[#Complications]]).
 - Multidisciplinary follow-up (dietitians for formula/volume/free water/delivery; nursing/APCs for site assessment).
 - **Bridling** transnasal tubes reduces dislodgement, allows greater caloric intake.
 - Transnasal tubes typically **≤3–4 weeks** (sinusitis risk); rarely longer with close monitoring.
@@ -184,12 +189,15 @@ sources: [aga-2025-endoscopic-enteral-access]
 | **Internal migration** | External bumper too loose | Internal bumper/balloon obstructs pylorus or proximal duodenum — tube tight to skin and/or severe bilious leakage |
 | **Peristomal leakage** (gastric/bilious) | Motility-altering meds (opiates), gastroparesis, vagal nerve injury | Do **NOT** upsize tube (enlarges hole, worsens leakage). Trial promotility agents with intermittent feeds and/or continuous pump feeding at reduced rate; if unsuccessful → **convert gastric to jejunal feeding** (vent stomach while feeding); rarely remove tube temporarily for partial stoma closure or re-site |
 
+---
+
 ## See Also
 
-[[upper-endoscopy]], [[gastroparesis]], [[ascites]], [[cirrhosis]], [[esophageal-cancer]], [[obesity]], [[bariatric-surgery]], [[peptic-ulcer-disease]], [[inflammatory-bowel-disease]], [[variceal-upper-gi-bleeding]], [[nutrition-in-hospitalized-patients]], [[nutrition-in-liver-disease]], [[antibiotic-prophylaxis-endoscopy]], [[anticoagulation-gi-bleeding]]
+[[upper-endoscopy]], [[gastroparesis]], [[ascites]], [[cirrhosis]], [[esophageal-cancer]], [[obesity]], [[bariatric-surgery]], [[peptic-ulcer-disease]], [[inflammatory-bowel-disease]], [[variceal-upper-gi-bleeding]], [[nutrition-in-hospitalized-patients]], [[nutrition-in-liver-disease]], [[ostomy-management]], [[antibiotic-prophylaxis-endoscopy]], [[anticoagulation-gi-bleeding]]
 
 ---
 
 ## Sources
 
 1. [[aga-2025-endoscopic-enteral-access|AGA 2025 Clinical Practice Update on Endoscopic Enteral Access]]
+2. [[asge-2025-gastrostomy-tubes|ASGE Guideline: Gastrostomy Feeding Tubes (2025)]]

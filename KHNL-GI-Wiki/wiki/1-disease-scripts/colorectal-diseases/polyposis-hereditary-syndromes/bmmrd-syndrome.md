@@ -3,7 +3,7 @@ title: "Biallelic Mismatch Repair Deficiency (BMMRD) Syndrome"
 category: disease-script
 tags: [bmmrd, cmmrd, mismatch-repair, hereditary-crc, colorectal-cancer, brain-tumor, lymphoma, pediatric-cancer, genetic-testing, mmr, cafe-au-lait, pms2, msh6, mlh1, msh2]
 created: 2026-05-24
-updated: 2026-08-10
+updated: 2026-08-25
 sources: [usmstf-2017-bmmrd]
 ---
 
@@ -71,6 +71,8 @@ BMMRD is classified by the causative gene (all autosomal recessive):
 ---
 
 ## Differential Diagnosis
+
+*No dedicated diagnostic schema covers colorectal polyposis; the workup runs phenotype (polyp count, histology, extracolonic features) → MMR IHC → germline testing, as under [[#Diagnostics]].*
 
 - **[[lynch-syndrome]]** — monoallelic MMR mutation; autosomal dominant; CRC onset in adulthood (median 27–60 years depending on gene); no café-au-lait macules; no childhood brain tumors or hematologic malignancies; IHC shows MMR protein loss in tumor but expression preserved in normal tissue
 - **[[familial-adenomatous-polyposis]]** — APC germline mutation; colonic polyposis (≥100 adenomas); extracolonic manifestations (CHRPE, desmoids, osteomas); no brain tumors or leukemias; IHC shows normal MMR protein expression

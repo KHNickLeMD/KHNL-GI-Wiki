@@ -3,7 +3,7 @@ title: "Acute Hepatic Porphyria"
 category: disease-script
 tags: [porphyria, acute-hepatic-porphyria, aip, hcp, vp, alad, hepatology, metabolic, givosiran, hemin]
 created: 2026-07-20
-updated: 2026-08-13
+updated: 2026-08-25
 sources: [aga-2023-acute-hepatic-porphyria]
 ---
 
@@ -63,7 +63,7 @@ Acute hepatic porphyrias (AHP) are rare inborn errors of heme metabolism in whic
 
 ## Differential Diagnosis
 
-*The AGA CPU frames AHP as a consideration only after an initial workup excludes common causes of recurrent severe abdominal pain (no dedicated abdominal-pain diagnostic schema exists in this wiki).*
+*Workup: see [[nausea-and-vomiting]] — the closest schema for the recurrent neurovisceral attack (severe abdominal pain with nausea/vomiting); this wiki has no dedicated recurrent-abdominal-pain schema. The AGA CPU frames AHP as a consideration only **after** an initial workup excludes common causes of recurrent severe abdominal pain.*
 
 - **Common causes of recurrent/acute abdominal pain** — AHP is suspected when severe pain occurs **without peritoneal signs or cross-sectional imaging abnormalities** and is not ascribable to common etiologies.
 - **Secondary porphyrinurias** — mild, nondiagnostic elevations in urinary porphyrins are frequently misread as AHP and cause **overdiagnosis**; urine porphyrins alone must not be used to screen.
@@ -137,7 +137,7 @@ Acute hepatic porphyrias (AHP) are rare inborn errors of heme metabolism in whic
 - **Counsel on long-term complications (BPA 12):** neuropathy, CKD, hypertension, HCC, and the need for ongoing monitoring — including asymptomatic high excretors, who merit annual monitoring.
 
 ## See Also
-[[hemin]], [[givosiran]], [[hepatocellular-carcinoma]], [[hcc-surveillance]], [[liver-transplantation]], [[liver-biopsy]], [[iron-overload-and-iron-metabolism]], [[abnormal-liver-chemistries]], [[cirrhosis]], [[cholangiocarcinoma]], [[nafld-masld]]
+[[hemin]], [[givosiran]], [[nausea-and-vomiting]], [[hepatocellular-carcinoma]], [[hcc-surveillance]], [[liver-transplantation]], [[liver-biopsy]], [[iron-overload-and-iron-metabolism]], [[abnormal-liver-chemistries]], [[cirrhosis]], [[cholangiocarcinoma]], [[nafld-masld]]
 
 ---
 

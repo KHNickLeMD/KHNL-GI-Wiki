@@ -3,7 +3,7 @@ title: "Portal Hypertension"
 category: disease-script
 tags: [portal-hypertension, cirrhosis, CSPH, HVPG, cACLD, varices, NSBB, carvedilol, TIPS, liver-stiffness, decompensation, variceal-bleeding, ascites]
 created: 2026-05-28
-updated: 2026-08-14
+updated: 2026-08-25
 sources: [aasld-2023-portal-hypertension, baveno-vii-2022-portal-hypertension, acg-2025-perioperative-cirrhosis, aasld-2024-tips, aasld-2022-palliative-cirrhosis, wang-2026-eus-ppg-delphi-consensus]
 ---
 
@@ -49,7 +49,7 @@ Portal hypertension (PH) is defined as a portocaval pressure gradient (portal ve
 - ≥10 mm Hg: CSPH → risk of complications begins
 - ≥12 mm Hg: variceal bleeding risk threshold
 - ≥16 mm Hg: increased short-term mortality after **non-hepatic abdominal surgery** (Baveno VII 1.19) [[baveno-vii-2022-portal-hypertension]]
-- ≥20 mm Hg: high-risk feature predicting treatment failure in acute variceal hemorrhage (AVH); a criterion for pre-emptive TIPS
+- ≥20 mm Hg: high-risk feature predicting treatment failure in acute variceal hemorrhage (AVH); a criterion for pre-emptive [[tips|TIPS]]
 
 HVPG requires transjugular or transfemoral approach; preferred at experienced centers. Balloon occlusion of hepatic vein (WHVP minus FHVP = HVPG). Triplicate measurements; quiet environment; avoid deep sedation. Full technique and interpretation: [[hepatic-venous-pressure-gradient]].
 
@@ -77,18 +77,16 @@ ANTICIPATE-NASH (LSM + platelets + BMI) may be used in NASH-related cACLD but ne
 
 **Note:** "Rule of Five" cutoffs are less reliable in [[obesity]]/[[nafld-masld|NAFLD]], PSC with dominant strictures, and elevated ALT (>3× ULN). Non-TE elastography methods (MRE, pSWE, 2D-SWE) not yet validated for these specific cutoffs.
 
-**Spleen stiffness measurement (SSM) by TE (Baveno VII 2.21–2.22)** [[baveno-vii-2022-portal-hypertension]] — in viral-hepatitis cACLD: **SSM <21 kPa rules out** and **SSM >50 kPa rules in** CSPH. In patients not on NSBBs who meet Baveno VI criteria for endoscopy (LSM >20 kPa or platelets <150 K/mm³), **SSM <40 kPa** identifies low probability of high-risk varices → endoscopy can be avoided.
+**Spleen stiffness measurement (SSM) by TE (Baveno VII 2.21–2.22)** [[baveno-vii-2022-portal-hypertension]]:
+
+- Viral-hepatitis cACLD (untreated HCV; untreated or treated HBV): **SSM <21 kPa rules out** and **SSM >50 kPa rules in** CSPH (B.2). Cut-offs for the 100 Hz probe, pSWE, and 2D-SWE are not yet validated.
+- NSBB-ineligible patients (contraindication/intolerance) who would otherwise need endoscopy by the Baveno VI criteria (**LSM ≥20 kPa or platelets ≤150×10⁹/L**): **SSM ≤40 kPa** identifies low probability of high-risk varices → endoscopy can be avoided (C.2).
 
 **Annual LSM monitoring** in cACLD without CSPH when underlying disease is active/uncontrolled. A ≥20% increase in LSM correlates with worsening hepatic decompensation; ≥20% decrease correlates with improved mortality.
-
-![[portal-hypertension-2022-baveno7-cacld-csph-algorithm-05.png|700x306]]
-*Figure 1 — Baveno VII algorithm for the non-invasive determination of cACLD and CSPH ("rule of 5": 10-15-20-25 kPa). ([[baveno-vii-2022-portal-hypertension]])*
 
 **Confirming an abnormal TE:** TE gives false positives — repeat an index LSM ≥10 kPa **fasting**, or corroborate with a serum fibrosis marker: FIB-4 ≥2.67, ELF ≥9.8, FibroTest ≥0.58 (alcohol/viral) or ≥0.48 (NAFLD) (B.2). LSM 7–10 kPa with ongoing liver injury → monitor case-by-case for progression to cACLD (C.2). See [[noninvasive-liver-disease-assessment]].
 
 **Clinically significant LSM *decrease*** (associated with substantially reduced decompensation/death): ≥20% drop with LSM <20 kPa, **or** any drop to <10 kPa (C.2).
-
-**Spleen stiffness (SSM) by TE** — in viral cACLD (untreated HCV; untreated/treated HBV): SSM <21 kPa rules out and >50 kPa rules in CSPH (B.2). In NSBB-ineligible patients who would otherwise need endoscopy by Baveno VI criteria, **SSM ≤40 kPa identifies low probability of high-risk varices → endoscopy can be avoided** (C.2).
 
 ### Classification / Typing
 
@@ -133,7 +131,7 @@ Because CSPH may persist despite recompensation, **NSBBs should not be discontin
 | Abdominal ultrasound + Doppler | Portal vein patency, hepatofugal flow, splenomegaly, portosystemic collaterals, ascites |
 | CT/MRI abdomen | Confirms varices, collaterals, ascites, [[hepatocellular-carcinoma\|HCC]] surveillance, PVT anatomy |
 | [[upper-endoscopy\|Upper endoscopy (EGD)]] | Varices detection; high-risk features (large size, red wale marks); needed when TE unavailable or NSBB contraindicated |
-| Child-Pugh score / MELD | Liver synthetic function; prognosis; [[tips\|TIPS]] candidacy (scoring components: see [[cirrhosis]]) |
+| Child-Pugh score / MELD | Liver synthetic function; prognosis; TIPS candidacy (scoring components: see [[cirrhosis]]) |
 | Labs | LFTs, INR, albumin, bilirubin, creatinine, CBC (thrombocytopenia = PH marker) |
 | Diagnostic paracentesis | PMN count, culture, albumin (SAAG), total protein for ascites evaluation |
 

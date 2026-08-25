@@ -3,7 +3,7 @@ title: "NAFLD / MASLD (Metabolic Dysfunction-Associated Steatotic Liver Disease)
 category: disease-script
 tags: [nafld, masld, nash, mash, steatosis, metabolic-syndrome, fibrosis, fibroscan, hpb, liver, obesity, diabetes, semaglutide, resmetirom, glp-1, nit, essence-trial, liver-transplant, post-transplant, recurrence]
 created: 2026-05-19
-updated: 2026-08-13
+updated: 2026-08-25
 sources: [aasld-2023-nafld, aasld-2023-masld-nomenclature, aasld-2024-resmetirom, aasld-2024-nilda-blood, aasld-2025-semaglutide-mash, acg-2017-liver-chemistries, aasld-ast-2025-liver-transplant-graft-complications]
 ---
 
@@ -71,17 +71,7 @@ See [[noninvasive-liver-disease-assessment]] for the cross-disease NILDA framewo
 - **Blood NITs rule OUT (high NPV) but do not reliably rule IN (low PPV)** — FIB-4 alone must not select pharmacotherapy candidates in low-prevalence settings. A primary-care FIB-4 → ELF pathway can cut secondary-care referrals ~80%. [[aasld-2024-nilda-blood]]
 - **Confounders of platelet-based scores (FIB-4/APRI/NFS):** falsely *lowered* by splenectomy; falsely *raised* by non-portal-hypertensive thrombocytopenia and active inflammation (high AST/ALT); CKD lowers estimates; NFS distorted by albumin (malnutrition) and postprandial glucose. AASLD **suggests against** blood-based NILDA for serial tracking of fibrosis progression/regression. [[aasld-2024-nilda-blood]]
 
-#### Pharmacotherapy-candidacy windows (F2–F3 "recommended" ranges)
-
-Distinct from the diagnostic rule-in/rule-out thresholds above, drug labels/guidance target an F2–F3 window: [[aasld-2025-semaglutide-mash]] [[aasld-2024-resmetirom]]
-
-| NIT | Recommended (F2–F3) | Individualized | Cirrhosis — not recommended |
-|---|---|---|---|
-| VCTE (kPa) | 8–15 | 15–20 (exclude cirrhosis) | >20 |
-| MRE (kPa) | 3.1–4.4 | 4.4–5.0 (exclude cirrhosis) | >5.0 |
-| ELF | 9.2–10.5 | 10.5–11.3 (exclude cirrhosis) | >11.3 |
-
-**Signs of cirrhosis/[[portal-hypertension|portal hypertension]] (contraindication to [[semaglutide]]/[[resmetirom]]):** VCTE >20 kPa, MRE >5.0 kPa, ELF >11.3, nodular liver contour on cross-sectional imaging, platelet count <150,000/mm³.
+> **The drug-candidacy NIT windows are a different set of numbers.** The narrower F2–F3 ranges that select patients for [[semaglutide]] and [[resmetirom]] — and the NIT signs of cirrhosis/[[portal-hypertension|portal hypertension]] that contraindicate both — are stated with the prescribing decision under [[#Pharmacotherapy]] below, not here. [[aasld-2025-semaglutide-mash]] [[aasld-2024-resmetirom]]
 
 **Non-invasive steatosis assessment:** [[aasld-2023-nafld]]
 
@@ -142,21 +132,18 @@ Distinct from the diagnostic rule-in/rule-out thresholds above, drug labels/guid
 
 ### Lifestyle Modification (First-Line for All Stages)
 
-Lifestyle modification is the cornerstone of MASLD/MASH management regardless of pharmacotherapy status. [[aasld-2025-semaglutide-mash]]
+Lifestyle modification is the cornerstone of MASLD/MASH management regardless of pharmacotherapy status: caloric restriction, increased physical activity, behavioral modification, and optimization of metabolic comorbidities (T2DM, hypertension, dyslipidemia). [[aasld-2025-semaglutide-mash]]
 
-**Weight loss targets:**
-
-- ≥5% weight loss → reduces steatosis
-- 7–10% weight loss → targets inflammation
-- ≥10% weight loss → reverses fibrosis
-
-Approaches include caloric restriction, increased physical activity, behavioral modification, and optimization of metabolic comorbidities (T2DM, hypertension, dyslipidemia).
+- **Weight-loss dose-response (GS 20):** **3–5%** improves steatosis; **7–10%** improves NASH/inflammation; **>10%** improves or reverses fibrosis. [[aasld-2023-nafld]] ([[aasld-2025-semaglutide-mash]] gives the same ladder as ≥5% / 7–10% / ≥10%.)
+- **Diet:** caloric deficit; **Mediterranean diet** preferred (limited carbs/saturated fat, high fiber/unsaturated fat) for added CV benefit; limit fructose/sugar-sweetened beverages.
+- **Exercise** strongly encouraged, benefit independent of weight loss (GS 21); **coffee ≥3 cups/day** associated with less advanced liver disease.
+- **Alcohol** is a cofactor for progression — assess regularly (GS 6); patients with ≥F2 fibrosis should **abstain completely** (GS 7). [[aasld-2023-nafld]]
 
 ### Pharmacotherapy
 
 #### Semaglutide (Wegovy) — FDA-Approved August 2025 for MASH F2–F3
 
-[[semaglutide]] is a GLP-1 receptor agonist (GLP-1 RA) approved for MASH with moderate-to-advanced fibrosis (consistent with stages F2–F3). See [[semaglutide]] for full drug page. [[aasld-2025-semaglutide-mash]]
+[[semaglutide]] is a [[glp-1-receptor-agonists|GLP-1 receptor agonist (GLP-1 RA)]] approved for MASH with moderate-to-advanced fibrosis (consistent with stages F2–F3). See [[semaglutide]] for full drug page. [[aasld-2025-semaglutide-mash]]
 
 **Candidacy (NIT-based selection):** [[aasld-2025-semaglutide-mash]]
 
@@ -169,7 +156,7 @@ Approaches include caloric restriction, increased physical activity, behavioral 
 
 Sequential strategy: Calculate FIB-4 first → if ≥1.3, proceed to elastography or ELF → confirm F2–F3 range.
 
-**Contraindications:** Cirrhosis (VCTE >20 kPa, MRE >5.0 kPa, ELF >11.3, or portal hypertension evidence); personal/family history of medullary thyroid carcinoma (MTC) or MEN2; pregnancy; active suicidal ideation at initiation.
+**Contraindications:** Cirrhosis — **VCTE >20 kPa, MRE >5.0 kPa, ELF >11.3, nodular liver contour on cross-sectional imaging, or platelet count <150,000/mm³** (these same NIT signs of cirrhosis/portal hypertension also contraindicate [[resmetirom]]); personal/family history of medullary thyroid carcinoma (MTC) or MEN2; pregnancy; active suicidal ideation at initiation.
 
 **Dosing:** 2.4 mg subcutaneous injection once weekly (titrated)
 
@@ -213,13 +200,6 @@ Oral **thyroid hormone receptor-β (THR-β) agonist**; first FDA-approved pharma
 - **Do NOT use** metformin, UDCA, DPP-4 inhibitors, statins (for NASH per se), or silymarin to treat NASH — no meaningful histologic benefit (GS 28).
 - No established pharmacotherapy for simple steatosis (MASL).
 
-#### Lifestyle (foundation for all stages) [[aasld-2023-nafld]]
-
-- **Weight-loss dose-response:** 3–5% improves steatosis; 7–10% improves NASH; >10% improves/reverses fibrosis (GS 20).
-- **Diet:** caloric deficit; **Mediterranean diet** preferred (limited carbs/saturated fat, high fiber/unsaturated fat) for added CV benefit; limit fructose/sugar-sweetened beverages.
-- **Exercise** strongly encouraged, benefit independent of weight loss (GS 21); **coffee ≥3 cups/day** associated with less advanced liver disease.
-- **Alcohol** is a cofactor for progression — assess regularly (GS 6); patients with ≥F2 fibrosis should **abstain completely** (GS 7).
-
 #### Bariatric / Metabolic Surgery and Endoscopic Interventions [[aasld-2023-nafld]]
 
 - [[bariatric-surgery|Bariatric surgery]] (RYGB, sleeve gastrectomy) resolves NASH without worsening fibrosis in ~80% at 1 y (sustained at 5 y); reduces CV/malignancy mortality — consider for eligible non-cirrhotic patients (GS 22).
@@ -228,8 +208,7 @@ Oral **thyroid hormone receptor-β (THR-β) agonist**; first FDA-approved pharma
 
 #### Liver Transplantation
 
-- For decompensated MASH cirrhosis; MASH recurrence in graft possible
-- MASH is now a leading indication for liver transplant in the United States
+- Indicated for decompensated MASH cirrhosis; recurrent and de novo MASLD in the allograft is common — see [[#Post-Liver-Transplant MASLD Management]] below.
 
 ### Cardiometabolic Risk Management in MASLD
 
@@ -284,7 +263,7 @@ Per [[aasld-ast-2025-liver-transplant-graft-complications]] (recurrent MASLD pos
 
 ## See Also
 
-[[alcohol-associated-liver-disease]], [[hepatocellular-carcinoma]], [[liver-transplantation]], [[semaglutide]], [[resmetirom]], [[portal-hypertension]], [[acute-on-chronic-liver-failure]], [[noninvasive-liver-disease-assessment]], [[liver-stiffness-measurement]], [[liver-biopsy]], [[cirrhosis]], [[obesity]], [[bariatric-surgery]], [[intragastric-balloon]], [[calcineurin-inhibitors]], [[primary-biliary-cholangitis]], [[drug-induced-liver-injury]], [[hereditary-hemochromatosis]], [[wilson-disease]], [[autoimmune-hepatitis]], [[celiac-disease]], [[hepatitis-c]], [[abnormal-liver-chemistries]]
+[[alcohol-associated-liver-disease]], [[hepatocellular-carcinoma]], [[liver-transplantation]], [[semaglutide]], [[glp-1-receptor-agonists]], [[resmetirom]], [[portal-hypertension]], [[acute-on-chronic-liver-failure]], [[noninvasive-liver-disease-assessment]], [[liver-stiffness-measurement]], [[liver-biopsy]], [[cirrhosis]], [[obesity]], [[bariatric-surgery]], [[intragastric-balloon]], [[calcineurin-inhibitors]], [[primary-biliary-cholangitis]], [[drug-induced-liver-injury]], [[hereditary-hemochromatosis]], [[wilson-disease]], [[autoimmune-hepatitis]], [[celiac-disease]], [[hepatitis-c]], [[abnormal-liver-chemistries]]
 
 ---
 

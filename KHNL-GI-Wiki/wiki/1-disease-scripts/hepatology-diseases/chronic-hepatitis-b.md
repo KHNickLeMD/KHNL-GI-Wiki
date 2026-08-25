@@ -1,9 +1,9 @@
 ---
 title: "Chronic Hepatitis B"
 category: disease-script
-tags: [hepatitis-b, HBV, antiviral, nucleoside-analogues, HCC-surveillance, immune-tolerant, indeterminate, functional-cure, pregnancy, co-infection]
+tags: [hepatitis-b, HBV, antiviral, nucleoside-analogues, HCC-surveillance, immune-tolerant, indeterminate, functional-cure, pregnancy, co-infection, hbv-reactivation, antiviral-prophylaxis]
 created: 2026-05-15
-updated: 2026-08-14
+updated: 2026-08-25
 sources: [aasld-idsa-2025-chb-treatment, acg-2016-liver-disease-pregnancy, aga-2025-hbv-reactivation, aga-2024-pregnancy-gi-liver]
 ---
 
@@ -165,6 +165,54 @@ Post-discontinuation monitoring: HBV DNA + ALT every 1–3 months × 6 months, t
 
 Switch options: ETV → TDF or TAF; TDF → TAF or ETV; TAF → ETV.
 
+### HBV Reactivation on Immunosuppression
+
+*Prophylaxis-vs-monitoring decision per [[aga-2025-hbv-reactivation]] (2025 update; supersedes the 2014 AGA HBVr guideline).*
+
+**Who is at risk:** HBVr = loss of immunologic suppression of HBV activity in persons who are **HBsAg-positive** *or* **anti-HBc–positive**. "Resolved infection" here = HBsAg-negative + HBV DNA–negative + anti-HBc–positive — still at risk.
+
+**Rec 4 (Strong, moderate certainty) — test before immunosuppression:** HBsAg + total anti-HBc (± anti-HBs); reflex to **HBV DNA** if HBsAg and/or anti-HBc is positive. Because CDC advises universal one-time screening of all adults ≥18 y, **stratifying *screening* by magnitude of HBVr risk is no longer needed** (change from 2014).
+
+**Risk tiers → strategy:**
+
+| Baseline HBVr risk off prophylaxis | Strategy | Recommendation |
+|---|---|---|
+| **High (>10%)** | **Antiviral prophylaxis** over monitoring alone | Rec 1 — Strong, moderate certainty |
+| **Moderate (1–10%)** | Antiviral prophylaxis *suggested* over monitoring alone; shared decision-making (monitoring reasonable for patients weighting cost/long-term antiviral exposure heavily, esp. if HBsAg-negative) | Rec 2 — Conditional, moderate certainty |
+| **Low (<1%)** | **Monitoring alone** over routine prophylaxis; assumes reliable follow-up | Rec 3 — Conditional, moderate certainty |
+
+**Implementation:**
+
+- Use an antiviral with a **high barrier to resistance** (assumption behind Recs 1–2).
+- **Start prophylaxis before** the risk-imposing therapy; **continue ≥6 months after** it stops — **≥12 months after B-cell–depleting agents**.
+- **If monitoring instead of prophylaxis:** every **1–3 months**, and it **must include HBV DNA**, not ALT alone.
+- Risk estimates assume **single-agent** exposure and cover the duration of the risk-imposing state or **up to 1 year**; combinations (e.g., plus corticosteroids) raise risk — re-categorize if the risk-imposing state changes.
+- Absolute benefit: at a representative 5% baseline risk, prophylaxis yields **41 fewer HBVr and 39 fewer HBV flares per 1000**; at 0.1% baseline, ~**1 fewer per 1000**.
+
+**Baseline HBVr risk by exposure and serology** ([[aga-2025-hbv-reactivation]], Table 6):
+
+| Exposure (example agents) | HBsAg-positive | HBsAg-negative / anti-HBc–positive |
+|---|---|---|
+| Anthracyclines (doxorubicin, epirubicin) | High | Moderate |
+| Anti-TNF (infliximab, adalimumab) | High | Low |
+| Anti–IL-6 (tocilizumab) | High | Moderate |
+| Anti–T-cell (abatacept) | Moderate | Moderate |
+| **B-cell–depleting (rituximab, ofatumumab)** | **High** | **High** |
+| CAR-T cell therapy | High | Moderate |
+| Cytokine/integrin inhibitors (ustekinumab, secukinumab) | High | Moderate |
+| HCV co-infection undergoing [[direct-acting-antivirals\|DAA]] therapy | High | Low |
+| Immune checkpoint inhibitors (nivolumab, pembrolizumab, ipilimumab) | Moderate | Low |
+| JAK inhibitors (tofacitinib, baricitinib) | High | Moderate |
+| TACE (for HCC) | High | Moderate |
+| TKIs (imatinib, sunitinib) | High | Moderate |
+| Methotrexate, 6-mercaptopurine, azathioprine | Low | Low |
+| Corticosteroid **≥4 wk**, moderate (10–20 mg prednisone-equiv) or high (>20 mg) dose | High | Moderate |
+| Corticosteroid **≥4 wk**, low dose (<10 mg) | Moderate | Low |
+| Corticosteroid **<1 wk**, any dose | Low | Low |
+| Corticosteroid, intra-articular injection | Low | Low |
+
+*Prednisone-equivalent dose bands: low <10 mg, moderate 10–20 mg, high >20 mg daily. The corticosteroid categorization is carried over unchanged from the 2014 AGA guideline. ([[aga-2025-hbv-reactivation]])*
+
 ### Prevention of Mother-to-Child Transmission (MTCT)
 
 **AASLD/IDSA 2025 recommendations** [[aasld-idsa-2025-chb-treatment]]:
@@ -211,6 +259,9 @@ Ultrasound + AFP every 6 months. Indication thresholds:
 | **Post-HBsAg loss** | Yes if: cirrhosis, family Hx HCC, male >40 at loss, female >50 at loss [[aasld-idsa-2025-chb-treatment]] |
 
 Triple/quadruple co-infections: follow surveillance criteria for the co-infection with highest HCC risk (e.g., HBV+HDV+HCV → follow HDV criteria).
+
+- PAGE-B was **validated in antiviral-treated persons**; REACH-B was validated in **untreated** persons; REAL-B may also be considered. Surveillance may start as early as the **third decade** given a median age of 46 y at HCC diagnosis. [[aasld-idsa-2025-chb-treatment]]
+- ⚠ **Decision gap — the PAGE-B component variables and point values are not in any ingested source.** [[aasld-idsa-2025-chb-treatment]] gives only the ≥10 threshold. Use an external calculator, or ingest the original PAGE-B derivation paper — do not reconstruct the score from memory. (Same for REACH-B/REAL-B.)
 
 ### Horizontal Transmission Prevention
 

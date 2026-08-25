@@ -3,7 +3,7 @@ title: "Antibody-Mediated Rejection — Liver Transplant"
 category: disease-script
 tags: [antibody-mediated-rejection, amr, liver-transplant, rejection, dsa, c4d, immunosuppression]
 created: 2026-05-25
-updated: 2026-08-14
+updated: 2026-08-25
 sources: [aasld-ast-2025-liver-transplant-graft-complications]
 ---
 
@@ -16,6 +16,8 @@ Rejection of a liver allograft mediated by **donor-specific antibodies (DSA)** a
 - [[#Differential Diagnosis]]
 - [[#Diagnostics]]
 - [[#Therapeutics]]
+- [[#See Also]]
+- [[#Sources]]
 
 ## Assessment
 
@@ -39,6 +41,8 @@ Histologic signature features ([[aasld-ast-2025-liver-transplant-graft-complicat
 - **Chronic AMR score** — histologic findings + presence of DSA + exclusion of other etiologies; associated with graft loss, **AUC 0.70–0.81**.
 
 ## Differential Diagnosis
+
+*Workup: see [[abnormal-liver-chemistries]] — allograft rejection sits in that schema's cholestatic/hepatocellular DDx, and the post-LT presentation is unexplained graft dysfunction.*
 
 - **T-cell–mediated rejection (TCMR)**, early and late — the main alternative; late TCMR shows fewer blastic lymphocytes, more interface/perivenular necroinflammation, less venous endotheliitis.
 - **Plasma cell-rich rejection (PCR)** — >30% plasma cells in portal/perivenular infiltrates, prevalent central perivenulitis, higher incidence of portal microvascular C4d deposition. Whether PCR is a presentation of AMR or a separate entity is unresolved; in one series DSA was positive in 6/19 and C4d in 9/10, so **evaluate for DSA and C4d whenever PCR is diagnosed** to detect a coexistent AMR component.
@@ -75,7 +79,7 @@ Histologic signature features ([[aasld-ast-2025-liver-transplant-graft-complicat
 
 ## See Also
 
-[[liver-transplantation]], [[calcineurin-inhibitors]], [[post-transplant-lymphoproliferative-disorder]], [[tacrolimus]], [[operational-tolerance]], [[liver-biopsy]]
+[[liver-transplantation]], [[calcineurin-inhibitors]], [[post-transplant-lymphoproliferative-disorder]], [[tacrolimus]], [[operational-tolerance]], [[liver-biopsy]], [[abnormal-liver-chemistries]]
 
 ---
 

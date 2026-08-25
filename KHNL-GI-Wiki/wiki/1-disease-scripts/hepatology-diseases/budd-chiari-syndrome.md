@@ -3,7 +3,7 @@ title: "Budd-Chiari Syndrome"
 category: disease-script
 tags: [budd-chiari, hepatic-vein, thrombosis, portal-hypertension, liver-failure, mpn, jak2, anticoagulation, tips]
 created: 2026-05-21
-updated: 2026-08-14
+updated: 2026-08-25
 sources: [acg-2020-hepatic-mesenteric-circulation, baveno-vii-2022-portal-hypertension]
 ---
 
@@ -28,7 +28,6 @@ Budd-Chiari syndrome (BCS) is defined by obstruction of hepatic venous outflow, 
 - Caudate lobe hypertrophy (spares caudate because it has separate hepatic veins draining directly to IVC)
 - Absent or reversed hepatic venous flow on Doppler
 - Characteristic "comma-shaped" or enlarged caudate lobe on cross-sectional imaging
-- [[hepatocellular-carcinoma|HCC]] risk elevated even in absence of cirrhosis
 
 **Underlying etiology** — thrombophilia in ~75% of cases [[acg-2020-hepatic-mesenteric-circulation]]:
 
@@ -41,7 +40,7 @@ Budd-Chiari syndrome (BCS) is defined by obstruction of hepatic venous outflow, 
 | Paroxysmal nocturnal hemoglobinuria (PNH) | ~10% |
 | Pregnancy / postpartum / OCP use | ~12% |
 | Behçet disease | Especially in Mediterranean/Middle Eastern populations; IVC involvement common |
-| Tumor invasion (IVC) | HCC, renal cell carcinoma, adrenal carcinoma |
+| Tumor invasion (IVC) | [[hepatocellular-carcinoma\|HCC]], renal cell carcinoma, adrenal carcinoma |
 | Membranous obstruction of IVC | More common in Asia/Africa; may have better prognosis |
 | Idiopathic | ~20% |
 
@@ -51,7 +50,7 @@ Budd-Chiari syndrome (BCS) is defined by obstruction of hepatic venous outflow, 
 
 **AUROC score** and Rotterdam BCS index are validated prognostic tools; **Child-Pugh** and **MELD-Na** apply when cirrhosis is present (their point table and formula live on [[cirrhosis]]). *(Component point values of the BCS-specific indices — AUROC and Rotterdam — are not specified in the ingested sources; a decision gap. The actionable TIPS/transplant threshold below is captured.)*
 
-**BCS-TIPS prognostic index score (Baveno VII 8.24–8.25)** [[baveno-vii-2022-portal-hypertension]] — predicts outcome when [[tips|TIPS]] is being considered. A **high score (>7)** should prompt consideration of **liver transplantation before TIPS placement**; transplant is also considered for uncontrolled clinical manifestations despite the stepwise approach.
+**BCS-TIPS prognostic index score** [[baveno-vii-2022-portal-hypertension]] — predicts outcome when [[tips|TIPS]] is being considered (B.1, 8.24). A **high score (>7)** should prompt consideration of **liver transplantation before TIPS placement** (C.1, 8.25); transplant is also considered for uncontrolled clinical manifestations despite the stepwise approach.
 
 Key predictors of poor outcome: [[hepatic-encephalopathy|hepatic encephalopathy]], [[ascites]] refractory to medical therapy, liver failure (coagulopathy, jaundice, INR >1.5), failure to respond to anticoagulation + angioplasty within weeks.
 
@@ -89,7 +88,7 @@ Key predictors of poor outcome: [[hepatic-encephalopathy|hepatic encephalopathy]
 
 **[[liver-biopsy|Liver biopsy]]**: usually not required if imaging is diagnostic; histology shows centrilobular congestion, sinusoidal dilation, hepatocyte necrosis in pericentral zones; useful when SOS vs. BCS uncertain.
 
-**[[hcc-surveillance|HCC surveillance]]**: US + AFP every 6 months in all BCS patients (Conditional, Low evidence) — start at diagnosis, regardless of fibrosis stage.
+**[[hcc-surveillance|HCC surveillance]]**: begins at diagnosis — modality, interval, and nodule characterisation are under *Therapeutics → HCC Surveillance* below.
 
 ---
 
@@ -140,9 +139,8 @@ Step 4: [[liver-transplantation|Liver transplantation]]
 
 ### Step 4 — Liver Transplantation
 
-- **BCS-TIPS prognostic index score** predicts outcome in TIPS candidates (B.1, 8.24); **PI >7 → consider transplantation *before* TIPS** (C.1, 8.25) [[baveno-vii-2022-portal-hypertension]]
-- **BCS presenting as [[acute-liver-failure|acute liver failure]]:** consider **urgent transplantation**, and perform **emergency TIPS if possible, independently of listing** (C.1, 8.26)
-- For [[acute-liver-failure|acute liver failure]] from BCS, cirrhotic BCS failing all other measures, or uncontrolled portal hypertension
+- Triggered by the **BCS-TIPS prognostic index >7** (see *Severity Assessment*), by cirrhotic BCS failing all other measures, or by uncontrolled portal hypertension
+- **BCS presenting as [[acute-liver-failure|acute liver failure]]:** consider **urgent transplantation**, and perform **emergency TIPS if possible, independently of listing** (C.1, 8.26) [[baveno-vii-2022-portal-hypertension]]
 - Post-transplant: lifelong anticoagulation required (thrombophilia persists)
 - Post-transplant MPN management continues; consider discussion with hematology about stem cell transplant in MPN context
 
@@ -150,7 +148,7 @@ Step 4: [[liver-transplantation|Liver transplantation]]
 
 - **Baveno VII (8.13–8.17)** [[baveno-vii-2022-portal-hypertension]]: [[focal-liver-lesions|hepatic nodules]] in BCS are frequent and **most often benign**, but HCC occurs — monitor with periodic imaging **and AFP** (B.1); a **6-month interval** can be proposed (C.1); whether ultrasound or MRI is the right surveillance modality is **still unclear** (C.1). Refer nodule-developing patients to experienced centres (D.1); characterise a nodule first with **MRI using hepatobiliary contrast agents**, and **biopsy the lesion for definitive HCC diagnosis** (C.1)
 - US + AFP every 6 months in all BCS patients (Conditional, Low evidence) [[acg-2020-hepatic-mesenteric-circulation]]
-- Elevated HCC risk even without cirrhosis — do not defer surveillance based on absence of fibrosis
+- Do **not** defer surveillance for absence of fibrosis — the elevated risk is independent of cirrhosis (see *Severity Assessment*)
 - If HCC found: standard staging and treatment; however, transplant may be needed if LT is planned for BCS anyway
 
 ---

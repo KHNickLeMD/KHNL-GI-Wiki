@@ -3,15 +3,15 @@ title: "Proctalgia Syndromes"
 category: disease-script
 tags: [proctalgia, levator-ani, chronic-proctalgia, proctalgia-fugax, anorectal, pelvic-floor, colorectal]
 created: 2026-05-16
-updated: 2026-08-14
-sources: [acg-2021-anorectal-disorders]
+updated: 2026-08-25
+sources: [acg-2021-anorectal-disorders, rome-v-2026-dgbi]
 ---
 
 ## Assessment
 
 ### Establishing the Diagnosis
 
-**Proctalgia syndromes** are characterized by recurrent episodes of anorectal pain in the absence of other identifiable causes. Two distinct subtypes:
+**Proctalgia syndromes** are characterized by recurrent episodes of anorectal pain in the absence of other identifiable causes. Classified in [[rome-v-2026-dgbi|Rome V]] as **F2 anorectal pain** within the anorectal [[disorders-of-gut-brain-interaction|disorders of gut–brain interaction]]. [[rome-v-2026-dgbi]] Two distinct subtypes:
 
 **1. Chronic proctalgia syndrome (levator ani syndrome):**
 
@@ -31,6 +31,8 @@ sources: [acg-2021-anorectal-disorders]
 ---
 
 ## Differential Diagnosis
+
+*No diagnostic schema for anorectal pain exists yet in the wiki; the workup is history + DRE, with the escalation steps under [[#Diagnostics]] below.*
 
 | Condition | Key Features |
 |-----------|-------------|
@@ -91,10 +93,11 @@ Note: concurrent anal fissures, prolapsed [[hemorrhoids]], or other anorectal pa
 ---
 
 ## See Also
-[[defecation-disorders]], [[fecal-incontinence]], [[anal-fissure]], [[hemorrhoids]], [[rectal-prolapse]], [[crohns-disease]], [[biofeedback-therapy]], [[anorectal-manometry]], [[colonoscopy]]
+[[defecation-disorders]], [[fecal-incontinence]], [[anal-fissure]], [[hemorrhoids]], [[rectal-prolapse]], [[crohns-disease]], [[biofeedback-therapy]], [[anorectal-manometry]], [[colonoscopy]], [[disorders-of-gut-brain-interaction]]
 
 ---
 
 ## Sources
 
 1. [[acg-2021-anorectal-disorders|ACG 2021 Clinical Guidelines: Management of Benign Anorectal Disorders]]
+2. [[rome-v-2026-dgbi|Disorders of Gut–Brain Interaction and the Rome V Process]]

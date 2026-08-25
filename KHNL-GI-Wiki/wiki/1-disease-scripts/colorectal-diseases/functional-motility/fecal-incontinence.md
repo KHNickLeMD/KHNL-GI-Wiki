@@ -3,8 +3,8 @@ title: "Fecal Incontinence"
 category: disease-script
 tags: [fecal-incontinence, anorectal, biofeedback, sacral-nerve-stimulation, pelvic-floor, colorectal]
 created: 2026-05-16
-updated: 2026-08-14
-sources: [acg-2021-anorectal-disorders, asge-2010-anorectal-disorders]
+updated: 2026-08-25
+sources: [acg-2021-anorectal-disorders, asge-2010-anorectal-disorders, rome-v-2026-dgbi]
 ---
 
 ## Assessment
@@ -12,6 +12,9 @@ sources: [acg-2021-anorectal-disorders, asge-2010-anorectal-disorders]
 ### Establishing the Diagnosis
 
 **Fecal incontinence (FI)** = involuntary loss of solid or liquid feces (including staining of underwear); the broader term **anal incontinence** includes involuntary flatus.
+
+- **Diagnostic threshold changed in [[rome-v-2026-dgbi|Rome V]] (2026):** FI (DGBI category **F1**) now requires **≥2 episodes** — the previous qualitative wording "recurrent" was replaced by an explicit episode count. [[rome-v-2026-dgbi]]
+  - ⚠ The **time window** over which the ≥2 episodes must occur is not stated in the ingested Rome V source and is deliberately not supplied here.
 
 **Prevalence:** 2.2–25% community; ~9% age-adjusted in US. **Significantly underreported** — physicians must actively ask, particularly in patients with predisposing conditions.
 
@@ -40,6 +43,8 @@ Severity is graded from **symptom burden** (type, frequency, and amount of leaka
 ---
 
 ## Differential Diagnosis
+
+*No diagnostic schema for anorectal symptoms exists yet in the wiki; the stepwise evaluation is under [[#Diagnostics]] below.*
 
 | Cause | Key Features |
 |-------|-------------|
@@ -148,3 +153,4 @@ Severity is graded from **symptom burden** (type, frequency, and amount of leaka
 
 1. [[acg-2021-anorectal-disorders|ACG 2021 Clinical Guidelines: Management of Benign Anorectal Disorders]]
 2. [[asge-2010-anorectal-disorders|ASGE 2010: The Role of Endoscopy in Patients With Anorectal Disorders]]
+3. [[rome-v-2026-dgbi|Disorders of Gut–Brain Interaction and the Rome V Process]]

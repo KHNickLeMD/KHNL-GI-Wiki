@@ -3,7 +3,7 @@ title: "Nausea and Vomiting"
 category: diagnostic-schema
 tags: [nausea, vomiting, gastroparesis, cyclic-vomiting, cannabinoid-hyperemesis, motility, foregut]
 created: 2026-06-04
-updated: 2026-08-14
+updated: 2026-08-25
 sources: [acg-2022-gastroparesis, aga-2024-cvs, aga-2024-chs, asge-2020-acpo-volvulus]
 ---
 
@@ -26,7 +26,7 @@ Duration frames the differential: **acute** (<1 week — usually infection, drug
 - **[[gastroparesis]]** — delayed gastric emptying without obstruction; postprandial fullness, early satiety, bloating; diabetic, post-surgical, idiopathic
 - **Peptic disease / [[dyspepsia]]**, [[gerd]], biliary disease ([[choledocholithiasis]], [[acute-cholecystitis|cholecystitis]]), [[acute-pancreatitis|pancreatitis]], appendicitis, hepatitis
 - **Infectious gastroenteritis** ([[acute-diarrhea|see acute diarrhea]]; [[norovirus]], food poisoning)
-- [[crohns-disease|Crohn's]] with stricturing, intestinal pseudo-obstruction
+- [[crohns-disease|Crohn's]] with stricturing; [[acute-colonic-pseudo-obstruction|colonic pseudo-obstruction (Ogilvie's)]] and [[colonic-volvulus|colonic volvulus]] — both present with distension and vomiting and are diagnosed on imaging ([[asge-2020-acpo-volvulus]])
 
 ### CNS / Vestibular
 

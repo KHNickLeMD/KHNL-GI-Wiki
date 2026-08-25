@@ -3,7 +3,7 @@ title: "Serrated Polyposis Syndrome"
 category: disease-script
 tags: [serrated-polyposis, sps, hyperplastic-polyposis, sessile-serrated, colorectal-cancer, polyposis, mutyh]
 created: 2026-05-19
-updated: 2026-08-12
+updated: 2026-08-25
 sources: [acg-2015-hereditary-gi-cancer]
 ---
 
@@ -51,6 +51,8 @@ sources: [acg-2015-hereditary-gi-cancer]
 ---
 
 ## Differential Diagnosis
+
+*No dedicated diagnostic schema covers colorectal polyposis; the workup runs polyp phenotype (number, size, site, histology) at colonoscopy → syndrome criteria → selective germline testing, as under [[#Diagnostics]].*
 
 - **[[familial-adenomatous-polyposis]] / AFAP / [[mutyh-associated-polyposis|MAP]]** — predominantly adenomatous polyps; APC or MUTYH mutations; consider if adenomas co-occur
 - **Hereditary mixed polyposis syndrome (HMPS)** — mixed juvenile-adenomatous-hyperplastic polyps; GREM1

@@ -3,7 +3,7 @@ title: "Portal Vein Thrombosis and Mesenteric Vein Thrombosis"
 category: disease-script
 tags: [portal-vein-thrombosis, pvt, mvt, mesenteric-vein, anticoagulation, cirrhosis, thrombophilia, splenomegaly, mpn, liver-transplant]
 created: 2026-05-21
-updated: 2026-08-14
+updated: 2026-08-25
 sources: [acg-2020-hepatic-mesenteric-circulation, aasld-ast-2025-liver-transplant-candidate-evaluation, aasld-2021-vascular-pvt, aga-2025-pvt-cirrhosis, baveno-vii-2022-portal-hypertension]
 ---
 
@@ -50,6 +50,7 @@ Portal vein thrombosis (PVT) is the partial or complete occlusion of the portal 
 | | **Cavernous transformation** | Gross porto-portal collaterals, original PV not seen |
 | Interval change | **Progressive / Stable / Regressive** | Thrombus larger or more occlusive / unchanged / smaller or less occlusive |
 
+**Clinical subtypes** (drive the treatment pathway under [[#Therapeutics]]):
 
 | Type | Characteristics |
 |---|---|
@@ -157,7 +158,7 @@ Portal vein thrombosis (PVT) is the partial or complete occlusion of the portal 
 - Partial/segmental PVT in cirrhosis without mesenteric extension: clinical judgment; risk/benefit discussion
 - Chronic PVT in cirrhosis: anticoagulate only for thrombophilia, progression, or bowel ischemia (Conditional, Very Low evidence)
 
-**AGA 2025 chronicity/occlusion stratification** (newest guideline-tier source; Best Practice Advice, unrated) [[aga-2025-pvt-cirrhosis]]. "Recent" = **<6 months**; "chronic" = **>6 months** (PVTs not recanalized by 6 months are unlikely to recanalize with AC). This is concordant with the **Baveno VII standardized nomenclature** [[baveno-vii-2022-portal-hypertension]] for documenting PVT (recent/chronic; completely [no lumen] / partially [>50%] / minimally [<50%] occlusive; cavernous transformation; progressive/stable/regressive — full table on the [[baveno-vii-2022-portal-hypertension|source page]]):
+**AGA 2025 chronicity/occlusion stratification** (newest guideline-tier source; Best Practice Advice, unrated) [[aga-2025-pvt-cirrhosis]]. "Recent" = **<6 months**; "chronic" = **>6 months** (PVTs not recanalized by 6 months are unlikely to recanalize with AC) — concordant with the Baveno VII standardized nomenclature under [[#Classification / Typing]] above:
 
 | Scenario | Action |
 |---|---|
