@@ -3,7 +3,7 @@ title: "Gastroenteropancreatic Neuroendocrine Tumors (GEP-NETs)"
 category: disease-script
 tags: [neuroendocrine-tumor, net, gep-net, pannet, carcinoid, gastrinoma, insulinoma, glucagonoma, vipoma, zollinger-ellison, men1, prrt]
 created: 2026-06-18
-updated: 2026-08-12
+updated: 2026-08-26
 sources: [nccn-2026-net]
 ---
 
@@ -27,21 +27,29 @@ Prognosis is driven by **grade, differentiation, primary site, and stage (tumor 
 
 ### Classification / Typing
 
-**WHO grading (well-differentiated NET vs NEC), by Ki-67 and mitoses:**
+**2019 WHO classification and grading** (reproduced in [[nccn-2026-net]], Principles of Pathology):
 
-| Category | Differentiation | Ki-67 | Mitoses (/2 mm²) |
+| Terminology | Differentiation | Grade | Mitotic rate (/2 mm²) | Ki-67 index |
+|---|---|---|---|---|
+| NET, G1 | Well | Low | <2 | <3% |
+| NET, G2 | Well | Intermediate | 2–20 | 3%–20% |
+| NET, G3 | Well | High | >20 | >20% |
+| NEC, small cell (SCNEC) | Poor | High (not formally graded — high by definition) | >20 | >20% |
+| NEC, large cell (LCNEC) | Poor | High (not formally graded) | >20 | >20% |
+| MiNEN | Well or poor (variable) | Variable | Variable | Variable |
+
+- **Grade-assignment rule (the part that decides):** mitotic rate is counted per **2 mm²** (= 10 HPF at 40×, ocular field 0.5 mm) over a total area of 10 mm²; Ki-67 is counted in ≥500 cells in the **hot spot**. **The final grade is whichever of the two indexes places the tumor in the *higher* grade category** — they are not averaged and Ki-67 does not automatically win.
+- Report the **exact** Ki-67 percentage, not a range, and repeat Ki-67 on every metachronously sampled specimen (grade drifts over time).
+- **Ki-67 55% is a separate, therapy-level cutoff**, not a grading boundary — see [[#Well-Differentiated G3 — the 55% Split]].
+
+**Gastric NET subtypes** — NCCN describes **four** categories (types 1, 2, 3, and "other"); the first three are mechanistically distinct and dictate therapy:
+
+| Type | Gastrin | Mechanism / setting | Behavior |
 |---|---|---|---|
-| NET G1 | Well | <3% | <2 |
-| NET G2 | Well | 3–20% | 2–20 |
-| NET G3 | Well | >20% | >20 |
-| NEC (small/large cell) | Poor | typically >20% (often >55%) | >20 |
-| MiNEN | Mixed | — | — |
-
-**Gastric NET subtypes** (mechanistically distinct, dictating therapy):
-
-- **Type 1** — secondary to autoimmune [[atrophic-gastritis]]/hypergastrinemia; multiple small indolent lesions; usually endoscopically managed.
-- **Type 2** — gastrinoma-driven (Zollinger-Ellison), frequently MEN1-associated.
-- **Type 3** — normal gastrin, sporadic, larger and more aggressive; typically surgical.
+| **Type 1** | High | Antrum-sparing [[atrophic-gastritis\|chronic atrophic gastritis]] → high gastric pH → loss of acid feedback on antral G cells → hypergastrinemia → ECL hyperplasia. Supportive findings (not all required): atrophic gastritis on biopsy, elevated gastric pH, B-12 deficiency, positive anti-intrinsic factor antibodies | Indolent, typically **multifocal**; metastases **<5%** |
+| **Type 2** | High | Gastrinoma / [[peptic-ulcer-disease\|Zollinger-Ellison]] with **low** gastric pH (acid hypersecretion), frequently MEN1-associated | Rare; multifocal |
+| **Type 3** | **Normal** | Sporadic, unifocal | More aggressive; usually surgical |
+| **"Other"** | — | Residual NCCN category | — |
 
 ## Differential Diagnosis
 
@@ -60,13 +68,36 @@ By presentation: [[pancreatic-cancer|pancreatic adenocarcinoma]] and other solid
 
 ## Therapeutics
 
-- **Endoscopic resection** — preferred for small, low-grade, superficial luminal tumors without nodal involvement: most gastric type 1 lesions, small (<1 cm, sometimes ≤2 cm) rectal NETs, and select small non-ampullary duodenal NETs.
-- **Surgical resection** — for larger, higher-grade, deeper, or node-positive tumors and most type 3 gastric NETs; appendiceal NETs **>2 cm** (or incompletely resected / node-positive) warrant right hemicolectomy, whereas tumors <1 cm are cured by simple appendectomy. Pancreatic resection (enucleation or formal pancreatectomy) for PanNETs, with observation reasonable for very small (<1–2 cm) nonfunctioning PanNETs in selected patients.
+**Localized disease — the size/site thresholds that decide endoscopy vs surgery** ([[nccn-2026-net]]):
+
+| Site | Endoscopic / local resection | Surgical resection | Surveillance after resection |
+|---|---|---|---|
+| **Gastric, type 1** (hypergastrinemic) | Endoscopic resection of tumors **>1 cm**; smaller lesions managed endoscopically/observed | Rare; type 1 tumors **>2 cm** need multiphasic CT/MRI workup first | EGD at **1 y**, then every **1–3 y**. Gastrin and chromogranin A are **uninformative** in type 1 (gastrin stays high) — after baseline, don't follow them |
+| **Gastric, type 2** (gastrinoma) | Endoscopic resection of tumors **>1 cm** | Per gastrinoma pathway — find and treat the gastrin-producing tumor | EGD at **1 y**, then as clinically indicated (if endoscopically resected) |
+| **Gastric, type 3** (normal gastrin) | Only for **small (<1 cm), superficial, low-grade** tumors; wedge resection also an option if **no** regional lymphadenopathy on [[endoscopic-ultrasound\|EUS]]/imaging | Partial or total gastrectomy with regional lymphadenectomy (**preferred**), by tumor location | — |
+| **Rectal** | **<1 cm incidental** → complete endoscopic resection with negative margins may suffice. **≤2 cm or T1 (minimally invasive)** → endoscopic or transanal excision. For **1–2 cm**, consider exam under anesthesia and/or EUS *before* the procedure — go to radical resection if muscularis propria invasion or node-positive | **>2 cm, node-positive, or T2–T4** → low anterior resection (rarely APR); neoadjuvant/definitive chemoRT in selected cases | If margins indeterminate + **G1** → endoscopy at **6–12 mo** for residual disease; residual or **G2** → follow the all-other-rectal-tumors pathway. **1–2 cm:** imaging at 6 and 12 mo, then as indicated |
+| **Appendiceal** | **≤2 cm** → simple appendectomy is sufficient for most (metastases uncommon) | **>2 cm**, or *any* size with incomplete resection or positive nodes/margins → stage with multiphasic CT/MRI ± SSTR imaging, then **right hemicolectomy**. For **1–2 cm with poor prognostic features** (lymphovascular or mesoappendiceal invasion, atypical histology) some NCCN institutions also do right hemicolectomy | **<1 cm:** none. **1–2 cm:** optional multiphasic imaging q2–5 y by clinicopathologic features. **>2 cm:** multiphasic CT/MRI at 12 wk–12 mo post-resection, then q12–24 mo for **10 years** |
+| **Pancreatic (PanNET), nonfunctioning** | — | Enucleation or formal pancreatectomy | **G1 PanNET <2 cm can be safely observed — that is the recommended course**; **G2** PanNETs of the same size should be considered for **surgery**. Grade, not size alone, is the decision |
+| **Duodenal, non-ampullary** | Select small lesions endoscopically | Larger/deeper/node-positive | — |
+
+- **Rectal NETs are not uniformly benign despite the best overall prognosis of any NET site** — a retrospective review found metastases in **66% of 87** patients with well-differentiated rectal NETs measuring **11–19 mm**, which is why the 1–2 cm band gets pre-procedure EUS/EUA rather than reflex snare.
 - **Somatostatin analogs** ([[somatostatin-analogs|octreotide LAR, lanreotide]]) — first-line for symptom control in functioning tumors and for antiproliferative tumor-growth control in SSTR-positive metastatic disease.
 - **Peptide receptor radionuclide therapy (PRRT)** — lutetium **Lu 177 dotatate** for progressive SSTR-positive disease; the NETTER-2 trial supports first-line use in advanced grade 2–3 GEP-NETs.
 - **Targeted/cytotoxic systemic therapy** — everolimus (GI and pancreatic NET), sunitinib (PanNET), and chemotherapy regimens (e.g., capecitabine/temozolomide for PanNET; platinum-based for high-grade NEC) depending on grade, site, and burden.
 - **Liver-directed therapy** — resection, ablation, or embolization for dominant hepatic metastatic disease.
 - **Carcinoid syndrome management** — somatostatin analogs ± telotristat (for refractory diarrhea); octreotide must be available intraoperatively to treat carcinoid crisis.
+- **5-HIAA collection is diet- and drug-sensitive** — for 48 h before and during a 24-h urine collection, avoid avocado, banana, cantaloupe, eggplant, pineapple, plum, tomato, hickory nuts/pecans, plantain, kiwi, dates, grapefruit, honeydew, walnuts; acetaminophen, ephedrine, diazepam, nicotine, guaifenesin, and phenobarbital raise 5-HIAA. A normal 5-HIAA does **not** exclude a NET in a symptomatic patient.
+
+### Well-Differentiated G3 — the 55% Split
+
+For **locally advanced / metastatic well-differentiated G3 NETs**, NCCN routes by tumor biology rather than grade alone:
+
+| Biology | Features | Implication |
+|---|---|---|
+| **Favorable** | Relatively **low Ki-67 (<55%)**, slow growing, **SSTR-PET positive** | NET-directed pathway (SSA, PRRT, targeted agents) |
+| **Unfavorable** | Relatively **high Ki-67 (≥55%)**, faster growing, **SSTR-PET negative** | Behaves like NEC — chemotherapy-led pathway; neoadjuvant chemo considered case-by-case |
+
+NCCN flags the 55% cutoff explicitly as **data-limited**: Ki-67 is heterogeneous within a tumor and drifts across serial biopsies, so pathologic *and* clinical features must both inform the decision. Consider both FDG-PET and DOTATATE-PET when PRRT is on the table.
 
 ### NCCN Treatment Algorithm
 

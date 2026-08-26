@@ -3,7 +3,7 @@ title: "Semaglutide Therapy for Metabolic Dysfunction–Associated Steatohepatit
 category: source
 tags: [mash, masld, nafld, nash, semaglutide, wegovy, glp-1, glp1-ra, fibrosis, non-invasive-tests, nit, essence-trial, aasld, practice-guidance, fatty-liver, hpb]
 created: 2026-05-25
-updated: 2026-05-25
+updated: 2026-08-26
 sources: []
 ---
 
@@ -35,9 +35,9 @@ Treatment response is assessed by the same NITs used for candidacy selection at 
   - ≥1 stage fibrosis reduction without MASH worsening: 36.8% vs. 22.4% placebo (p<0.001)
 - **Liver biopsy not required** for semaglutide candidacy; NITs are preferred for patient selection
 - **NIT candidacy thresholds:**
-  - VCTE LSM 8–15 kPa (recommended); 15–20 kPa (may be used with individualized decision)
-  - MRE LSM 3.1–4.4 kPa (recommended); 4.4–5.0 kPa (may be used with exclusion of cirrhosis)
-  - ELF 9.2–10.5 (recommended); 10.5–11.3 (may be used with exclusion of cirrhosis)
+  - VCTE LSM 8–15 kPa (recommended); 15–20 kPa (individualized decision — this band was present in **up to 19% of ESSENCE participants**)
+  - MRE LSM 3.1–4.4 kPa (recommended); **4.4–5.0 kPa** per the abstract / **4.5–5.0 kPa** per the body text (individualized, with cirrhosis and portal hypertension excluded)
+  - ELF 9.2–10.5 (recommended); 10.5–11.3 (individualized, with cirrhosis and portal hypertension excluded)
   - FIB-4 <1.3 rules out advanced fibrosis (F3+) in 99% of primary care patients; do NOT use alone as a rule-in test for semaglutide eligibility
 - **Cirrhosis exclusion:** VCTE >20 kPa, MRE >5.0 kPa, or ELF >11.3 with/or portal hypertension evidence → semaglutide not approved for this indication
 - **Alcohol:** Mild use (up to 20/30 g/day in women/men) was permitted in ESSENCE; higher use requires individualized decision and PEth/AUDIT-C assessment
@@ -47,7 +47,7 @@ Treatment response is assessed by the same NITs used for candidacy selection at 
 - **Hepatic safety:** Favorable in ESSENCE — no discontinuations due to elevated liver enzymes; routine LFT monitoring only as clinically indicated
 - **Key GI adverse events:** Nausea 36.2% vs. 13.2%; diarrhea 26.9% vs. 12.2%; constipation 22.2% vs. 8.4%; vomiting 18.6% vs. 5.6%; decreased appetite 14.0% vs. 2.8%
 - **Gallbladder disease:** Meta-analysis of 103,371 patients shows 37% increased risk with GLP-1 RAs; cholelithiasis 1.6% vs. 0.7% in ESSENCE
-- **Lean mass loss:** ~13% of total weight loss is lean mass; ~39% of weight lost is lean mass; appendicular skeletal muscle declining 9–10% over 2 years; monitor with protein intake 1.2–1.5 g/kg/day and resistance training
+- **Lean mass loss (two distinct denominators — do not conflate):** in a DEXA subgroup of 140 subjects, semaglutide recipients lost **6.92 kg of lean mass vs 1.48 kg** on placebo, an **~13% reduction in lean mass relative to baseline**; separately, lean mass loss constitutes **~39% of total weight reduction**. Appendicular skeletal muscle volume declines **9–10% over 2 years**, most pronounced in older adults and those with baseline sarcopenia. Mitigate with protein intake 1.2–1.5 g/kg/day and resistance training; sarcopenia carries prognostic weight in chronic liver disease
 - **[[resmetirom|Resmetirom]] combination:** Combined use at semaglutide 2.4 mg/week has not been studied; combination was not excluded from MAESTRO-NASH; no notable safety signals in subgroup data
 - **Lifestyle modification** remains cornerstone of MASLD/MASH management alongside semaglutide
 - **CV benefit:** SELECT trial (n>17,000) showed 1.5% absolute risk reduction in composite CV outcomes over 40 months in non-diabetic individuals with obesity/overweight and established CV disease
@@ -82,20 +82,23 @@ Treatment response is assessed by the same NITs used for candidacy selection at 
 
 ## Relevance to Wiki
 
-- **[[nafld-masld]]** (disease script) — Major update needed: semaglutide now FDA-approved for MASH F2–F3; replace "emerging/not yet approved" language with current approval status; expand Therapeutics and Diagnostics sections with NIT candidacy framework and treatment response monitoring
-- **[[semaglutide]]** (5-meds) — New page needed for semaglutide covering MASH indication, dosing, candidacy, monitoring, safety profile
-- This source updates and supersedes the "emerging data, not yet FDA-approved" language in [[nafld-masld]] regarding semaglutide
+- **[[nafld-masld]]** (disease script) — semaglutide is now FDA-approved for MASH F2–F3; supplies the NIT candidacy framework, cirrhosis-exclusion thresholds, and treatment-response monitoring for the Diagnostics and Therapeutics sections.
+- **[[semaglutide]]** (5-meds) — MASH indication, 2.4 mg/week dosing, candidacy, monitoring schedule, and safety profile.
+- **[[resmetirom]]** — the combination question: co-administration at semaglutide 2.4 mg/week has not been studied.
+- **[[gastroparesis]]** — baseline gastric-motility evaluation in at-risk patients; contraindicated in severe gastroparesis.
+- This source supersedes any "emerging data, not yet FDA-approved" framing of semaglutide in MASH.
 
 ## Contradictions / Open Questions
 
-- **Conflict with existing nafld-masld.md stub:** The current disease script states semaglutide is "emerging data, not yet FDA-approved specifically for MASH" — this is now outdated. The August 2025 accelerated FDA approval of Wegovy for MASH F2–F3 supersedes this. Updated accordingly in the disease script.
+- **Superseded framing:** earlier wiki text described semaglutide in MASH as "emerging data, not yet FDA-approved." The August 2025 accelerated FDA approval of Wegovy for MASH F2–F3 supersedes that; [[nafld-masld]] has been updated.
 - **Resmetirom + semaglutide combination:** Whether these two FDA-approved MASH agents can or should be combined remains unstudied. MAESTRO-NASH subgroup data shows similar rates of MASH resolution when GLP-1 RAs were taken alongside resmetirom at baseline, but formal combination therapy has not been evaluated.
 - **Long-term outcomes:** FDA approval is accelerated; full approval awaits the complete ESSENCE trial results expected in 2028 or later. Long-term durability, discontinuation effects (STEP 1 extension: reversal of cardiometabolic improvements on withdrawal), and survival benefit remain to be proven in MASH.
 - **NIT correlation with histology:** No individual NIT reliably predicts histologic response at the patient level. The thresholds for treatment response (VCTE ≥30%, ELF ≥0.5, etc.) are based on aggregate ESSENCE data, not validated at individual level.
 - **MASH cirrhosis:** Semaglutide is not approved for cirrhosis. Phase 2 data (Cusi 2023) in compensated cirrhosis did not identify liver safety concerns, but this is insufficient for recommendation outside of the approved indication.
 - **Lean mass loss concern:** The 13% reduction in lean mass (~39% of total weight lost) is clinically important especially for older/sarcopenic patients with chronic liver disease, where sarcopenia carries prognostic significance. Optimal mitigation strategies are based on expert consensus, not RCT data in MASH.
 - **Alcohol use:** NIT cutpoints used for semaglutide candidacy may differ in patients with higher alcohol use (MetALD range), and this must be considered until additional data are available.
+- **Internal inconsistency in the source itself:** the abstract gives the MRE individualized-decision band as **4.4–5 kPa** while the body text gives **4.5–5.0 kPa** — which leaves 4.4 kPa simultaneously in the candidacy band (3.1–4.4) and the individualized band by the abstract's reading. Both figures are recorded above rather than silently picking one.
 
 ## See Also
 
-[[nafld-masld]], [[semaglutide]]
+[[nafld-masld]], [[semaglutide]], [[resmetirom]], [[gastroparesis]], [[liver-stiffness-measurement]], [[noninvasive-liver-disease-assessment]]

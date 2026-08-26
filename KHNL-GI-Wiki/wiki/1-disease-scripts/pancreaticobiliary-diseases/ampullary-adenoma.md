@@ -3,8 +3,8 @@ title: "Ampullary & Duodenal Adenoma"
 category: disease-script
 tags: [ampullary-adenoma, duodenal-adenoma, papilla-of-vater, endoscopic-papillectomy, fap, ercp, eus, post-ercp-pancreatitis, surveillance]
 created: 2026-06-27
-updated: 2026-08-14
-sources: [asge-2015-ampullary-duodenal-adenomas]
+updated: 2026-08-26
+sources: [asge-2015-ampullary-duodenal-adenomas, aga-2025-nonampullary-duodenal]
 ---
 
 # Ampullary & Duodenal Adenoma
@@ -21,6 +21,8 @@ Adenomas of the **major duodenal papilla (ampullary adenomas)** and of the **non
   - [[#Ampullary Adenoma — Endoscopic Papillectomy]]
   - [[#Nonampullary Duodenal Adenoma]]
   - [[#Surveillance]]
+- [[#See Also]]
+- [[#Sources]]
 
 ---
 
@@ -103,14 +105,14 @@ Endoscopic resection has lower adverse-event rates (~14%) than local surgical ex
 
 ### Nonampullary Duodenal Adenoma
 
-- Approach mirrors **right-colon [[polypectomy|polypectomy]]** given the thin duodenal wall ([[endoscopic-mucosal-resection|EMR]] is the mainstay).
-- Submucosal injection cushion for flat lesions; **lack of lift suggests malignancy or prior manipulation**.
-- **ESD is not recommended beyond the duodenal bulb** ([[endoscopic-submucosal-dissection|ESD]] perforation rates 23–35% in high-volume series; same group reported no perforations with EMR).
-- Cold-snare polypectomy described for lesions >1 cm to avoid electrocautery injury.
-- **>33% circumferential** involvement → consider surgery. Giant (>3 cm) hemicircumferential LSTs carry higher adverse-event (bleeding) rates (26.3% vs 3.2% for <3 cm).
-- Minor papilla / [[pancreas-divisum|pancreas divisum]] adenomas: dorsal PD stenting reported during resection.
-- Adjuvant APC/electrocoagulation for residual/recurrent superficial tissue.
-- Post-procedure (one high-volume protocol): observe ~4 h, clear liquids day of procedure → normal diet next day, hold antiplatelets 7 days, twice-daily [[proton-pump-inhibitors|PPI]] ×2 weeks.
+**The full resection, complication, surveillance and FAP/Spiegelman framework lives on [[nonampullary-duodenal-adenoma]]** — it is built on the newer [[aga-2025-nonampullary-duodenal|AGA 2025 CPU]] and governs where the two guidelines differ. Points specific to this page's source ([[asge-2015-ampullary-duodenal-adenomas]]) and not duplicated there:
+
+- Approach mirrors **right-colon [[polypectomy|polypectomy]]** given the thin duodenal wall ([[endoscopic-mucosal-resection|EMR]] is the mainstay); submucosal injection cushion for flat lesions, and **lack of lift suggests malignancy or prior manipulation**.
+- **>33% circumferential** involvement → consider surgery. Giant (>3 cm) hemicircumferential LSTs carry a higher bleeding rate (**26.3% vs 3.2%** for lesions <3 cm).
+- **Minor papilla / [[pancreas-divisum|pancreas divisum]] adenomas:** dorsal PD stenting reported during resection.
+- Adjuvant [[argon-plasma-coagulation|APC]]/electrocoagulation for residual or recurrent superficial tissue.
+
+> ⚠ **Superseded — periprocedural orders.** ASGE 2015 described one high-volume protocol (observe ~4 h; clear liquids the day of the procedure → normal diet next day; hold antiplatelets 7 days; twice-daily [[proton-pump-inhibitors|PPI]] × 2 weeks). The newer [[aga-2025-nonampullary-duodenal|AGA 2025 CPU]] instead advises **twice-daily PPI × 6–8 weeks**, diet advanced as tolerated over the same window, and holding **antithrombotics ≥48 h**. Same guideline tier, newer publication date — **follow AGA 2025** (see [[nonampullary-duodenal-adenoma]]).
 
 ### Surveillance
 
@@ -130,3 +132,4 @@ Endoscopic resection has lower adverse-event rates (~14%) than local surgical ex
 ## Sources
 
 1. [[asge-2015-ampullary-duodenal-adenomas|ASGE 2015: The Role of Endoscopy in Ampullary and Duodenal Adenomas]]
+2. [[aga-2025-nonampullary-duodenal|AGA 2025 Clinical Practice Update on Nonampullary Duodenal Lesions]]

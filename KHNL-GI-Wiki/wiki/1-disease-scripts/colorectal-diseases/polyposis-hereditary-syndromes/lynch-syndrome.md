@@ -3,7 +3,7 @@ title: "Lynch Syndrome"
 category: disease-script
 tags: [lynch, hnpcc, mmr, msi, hereditary-crc, endometrial-cancer, oncology, genetic-testing, colorectal-cancer]
 created: 2026-05-19
-updated: 2026-08-14
+updated: 2026-08-26
 sources: [acg-2015-hereditary-gi-cancer, usmstf-2014-lynch-syndrome, usmstf-2017-bmmrd]
 ---
 
@@ -85,7 +85,25 @@ LS is classified by the causative gene:
 
 ### Relevant Risk Prediction Tools
 
-- **PREMM1,2,6** model (<http://premm.dfci.harvard.edu>): validated online calculator; ≥5% threshold is cost-effective for referral to genetic counseling and testing
+**Head-to-head performance for diagnosing LS** — [[usmstf-2014-lynch-syndrome]] Table 7:
+
+| Strategy | Sensitivity (range) | Specificity (range) |
+|---|---|---|
+| Amsterdam II criteria | 0.22 (0.13–0.67) | 0.98 (0.97–1.0) |
+| Revised Bethesda guidelines | 0.82 (0.78–0.91) | 0.77 (0.75–0.79) |
+| MMRpredict | 0.69 (0.68–0.75) | 0.90 (0.86–0.94) |
+| MMRpro | 0.89 (0.60–1.0) | 0.85 (0.60–1.0) |
+| **PREMM1,2,6** | **0.90 (0.60–1.0)** | **0.67 (0.60–1.0)** |
+| MSI (tumor) | 0.85 (0.75–0.93) | 0.90 (0.87–0.93) |
+| IHC (tumor) | 0.83 (0.75–0.89) | 0.89 (0.68–0.95) |
+
+- **PREMM1,2,6** (<http://premm.dfci.harvard.edu>) — **inputs: proband sex; personal and/or family history of colorectal, endometrial, or other LS-associated cancers**. Outputs a specific estimate of the probability of an MLH1, MSH2, or MSH6 mutation. Best sensitivity, worst specificity of the three models. **≥5% cutoff** is the cost-effective threshold for proceeding to germline testing.
+- **MMRpredict** — sex, age at CRC diagnosis, tumor location (proximal vs distal), synchronous/metachronous CRC, endometrial cancer in any FDR, age at CRC diagnosis in FDRs. Best specificity.
+- **MMRpro** — personal and family history of colorectal and endometrial cancer, ages at diagnosis, and MMR molecular testing results when available; also projects future cancer risk in presymptomatic carriers.
+- **3-question CRC risk assessment tool** — a quick initial screen for busy practice; "yes" to all 3 identified 95% of germline-mutation carriers (cumulative sensitivity 77%).
+- Caveat: **specificity of both MSI and IHC falls with increasing age** because somatic MLH1 hypermethylation becomes more prevalent — above age 70, reflex BRAF testing on MLH1 loss is what separates sporadic from germline.
+
+> **Gap:** no ingested source prints the PREMM1,2,6 regression coefficients / point weights, so the score cannot be hand-calculated from this page — use the online calculator. The Kastrinos 2011 model paper would be needed.
 
 ---
 
@@ -95,10 +113,11 @@ LS is classified by the causative gene:
 
 **Colonoscopy screening** [[acg-2015-hereditary-gi-cancer]]:
 
-- Every **1–2 years** beginning age **20–25** for MLH1/MSH2 carriers (**Strong recommendation, Moderate quality** for screening interval; Very Low quality for age of initiation)
+- **Rec 1:** in individuals at risk for or affected with LS, colonoscopy **at least every 2 years, beginning between ages 20 and 25** *(Strong recommendation; moderate quality of evidence for screening, very low quality for annual surveillance and for the age of initiation)*
 - Age **25–30** may be appropriate start for MSH6/PMS2 carriers given later onset
 - **Annual colonoscopy** should be considered in confirmed mutation carriers
 - Colonoscopic surveillance has demonstrated 62–72% reductions in CRC mortality in prospective and long-term observational cohorts
+- **Why the short interval:** LS patients develop few (usually <10) early-onset adenomas, but the adenoma–carcinoma sequence is accelerated — **polyp-to-cancer dwell time ~35 months vs 10–15 years sporadically**. Precursor lesions are often proximal, sometimes flat, with villous features, high-grade dysplasia, and tumor-infiltrating lymphocytes
 
 **Surgical management of CRC** [[acg-2015-hereditary-gi-cancer]]:
 

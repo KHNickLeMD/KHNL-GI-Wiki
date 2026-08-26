@@ -3,8 +3,8 @@ title: "Esophageal Cancer"
 category: disease-script
 tags: [esophagus, malignancy, adenocarcinoma, squamous-cell-carcinoma, egj, dysphagia, her2, pd-l1, msi-h, flot, chemoradiation, esophagectomy, endoscopic-resection, nccn, oncology]
 created: 2026-06-04
-updated: 2026-08-14
-sources: [nccn-2026-esophageal-egj-cancer]
+updated: 2026-08-26
+sources: [nccn-2026-esophageal-egj-cancer, asge-2023-esd]
 ---
 
 ## Assessment
@@ -76,7 +76,17 @@ Endoscopy with biopsy establishes histology; EUS assesses T/N stage (and enables
 
 Stage-directed per [[nccn-2026-esophageal-egj-cancer]]:
 
-- **Early (Tis/T1a, mucosal):** endoscopic resection ([[endoscopic-mucosal-resection|EMR]] / [[endoscopic-submucosal-dissection|ESD]]) ± ablation — see [[endoscopic-eradication-therapy]].
+- **Early (Tis/T1a, mucosal):** endoscopic resection ([[endoscopic-mucosal-resection|EMR]] / [[endoscopic-submucosal-dissection|ESD]]) ± ablation — see [[endoscopic-eradication-therapy]]. **Which of EMR vs ESD turns on histology and lesion size** ([[asge-2023-esd]], all Conditional / low quality):
+
+| Lesion | Recommendation |
+|---|---|
+| Squamous dysplasia / early ESCC, well-differentiated, nonulcerated, no submucosal invasion, **>15 mm** | **ESD over EMR** |
+| Same, **≤15 mm** | No recommendation either way — **either ESD or EMR** |
+| Squamous dysplasia / early well-differentiated nonulcerated ESCC without submucosal invasion | **Against surgery**, whenever possible |
+| Early EAC (T1) or nodular [[barretts-esophagus\|Barrett's]] dysplasia, well-differentiated, nonulcerated, **>20 mm** | **ESD over EMR** |
+| Same, **≤20 mm** | No recommendation either way — **either ESD or EMR** |
+
+  Note the size thresholds differ by histology — **15 mm for squamous, 20 mm for adenocarcinoma** — and both are recommendations about *technique*, not about whether to resect endoscopically at all (that is set by depth; see [[esophageal-adenocarcinoma]]).
 - **Locally advanced resectable:** neoadjuvant/perioperative therapy then esophagectomy — perioperative **FLOT** (adenocarcinoma) or neoadjuvant **chemoradiation (CROSS-type)** followed by surgery. Adjuvant **nivolumab** is an option after neoadjuvant chemoradiation + R0 resection with residual disease (CheckMate-577). In v3.2026, adding **durvalumab to perioperative FLOT** is positioned for selected adenocarcinoma (clinically node-negative; PD-L1 CPS <1 as category 2B; diffuse-type EGJ as category 2B) per MATTERHORN — with no demonstrated survival advantage in diffuse-type disease.
 - **Definitive chemoradiation:** for SCC and for patients who are not surgical candidates.
 - **Metastatic:** biomarker-directed systemic therapy — first-line **trastuzumab** added to chemotherapy for HER2-overexpressing adenocarcinoma; a checkpoint inhibitor (**nivolumab or pembrolizumab**) added to first-line chemotherapy by **PD-L1 CPS** (tumor is PD-L1–positive at **CPS ≥1**, the threshold to add a checkpoint inhibitor; the benefit is category 1 at **CPS ≥5** for adenocarcinoma/EGJ, and pembrolizumab is category 1 for esophageal SCC at **CPS ≥10**); immunotherapy for MSI-H/dMMR; **trastuzumab deruxtecan** (category 1) in later lines for HER2-positive disease.
@@ -106,3 +116,4 @@ flowchart TD
 ## Sources
 
 1. [[nccn-2026-esophageal-egj-cancer|NCCN Clinical Practice Guidelines in Oncology: Esophageal and Esophagogastric Junction Cancers (Version 3.2026)]]
+2. [[asge-2023-esd|ASGE Guideline: ESD for Early Esophageal and Gastric Cancer (2023)]]

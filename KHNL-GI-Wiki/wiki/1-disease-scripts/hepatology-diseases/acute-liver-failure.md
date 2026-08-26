@@ -3,7 +3,7 @@ title: "Acute Liver Failure"
 category: disease-script
 tags: [acute-liver-failure, alf, liver, hepatology, transplant, liver-transplant-referral]
 created: 2026-05-15
-updated: 2026-08-13
+updated: 2026-08-26
 sources: [acg-2023-alf, acg-2016-liver-disease-pregnancy, aasld-ast-2025-liver-transplant-candidate-evaluation, aasld-2011-alf]
 ---
 
@@ -42,16 +42,18 @@ sources: [acg-2023-alf, acg-2016-liver-disease-pregnancy, aasld-ast-2025-liver-t
 
 **Prognostic scoring — when to list for [[liver-transplantation|liver transplantation]]:**
 
-**King's College Criteria (KCC):** High specificity (82–93%), moderate sensitivity (65–68%)
+**King's College Criteria (KCC)** — rules *in* the need for transplant, but a negative KCC does not rule it out: [[acg-2023-alf]]
 
-- *APAP-induced ALF:* Arterial pH <7.3 after resuscitation OR lactate >3 mmol/L **OR** all of: HE >grade 3 + creatinine >3.4 mg/dL + INR >6.5
-- *Non-APAP ALF:* INR >6.5 **OR** any 3 of 5: etiology (indeterminate or [[drug-induced-liver-injury|DILI]]), age >40, jaundice-to-encephalopathy interval >7 days, bilirubin >17.4 mg/dL, INR >3.5
+| Subtype | Criteria | Sens | Spec |
+|---|---|---|---|
+| **APAP-induced** | Arterial pH <7.3 after resuscitation **OR** lactate >3 mmol/L **OR** all three of: HE >grade 3 + creatinine >3.4 mg/dL + INR >6.5 | 65% | **93%** |
+| **Non-APAP** | INR >6.5 **OR** any **3 of 5**: etiology (indeterminate or [[drug-induced-liver-injury\|DILI]]) · age >40 · jaundice-to-encephalopathy interval >7 days · total bilirubin >17.4 mg/dL · INR >3.5 | 68% | **82%** |
 
 **MELD Score:** Higher sensitivity (74%), lower specificity (67%); MELD >25 = high risk of poor outcome (MELD-Na components/formula: see [[cirrhosis]])
 
 **Other criteria:**
 
-- **Clichy criteria** (France): Factor V <20% in age <30, or <30% in age >30, with HE — low specificity, not widely used in US
+- **Clichy criteria** (France): HE **plus** factor V <20% if age <30, or factor V <30% if age >30 — sensitivity only 56% (APAP) / 50% (non-APAP); not widely used in the US
 - **Escudie criteria** (mushroom poisoning only): diarrhea within 8 hr of ingestion OR prothrombin index <10% (~INR >6) at ≥4 days post-ingestion — use before HE develops
 - **Swansea criteria** ([[acute-fatty-liver-of-pregnancy|acute fatty liver of pregnancy]]): 6+ of 14 clinical/lab findings required
 
@@ -249,8 +251,8 @@ Not routine. Transjugular [[liver-biopsy|liver biopsy]] (TJLB) preferred over pe
 - Contact poison control immediately
 - Gastric lavage within 1 hour if feasible; activated charcoal 50 g q4h (or 25 g q2h)
 - IV hydration to maintain urine output 100–200 mL/hr for 4–5 days
-- **IV silibinin dihemisuccinate** 20–50 mg/kg/day for 48–96 hr (conditional recommendation, very low quality); not FDA-approved in US but available for compassionate use
-- IV penicillin G if silibinin unavailable: 1,000,000 IU/kg day 1, 1,500,000 IU/kg days 2–3
+- **IV silibinin dihemisuccinate** 20–50 mg/kg/day for 48–96 hr, or alternatively 5 mg/kg IV over 1 hour (conditional recommendation, very low quality); not FDA-approved in US but available for compassionate use
+- IV penicillin G if silibinin unavailable — results are **inferior** to silibinin: 1,000,000 IU/kg day 1, 1,500,000 IU/kg days 2–3
 - IV NAC as adjunct (standard APAP dosing protocol)
 - Hemodialysis, hemoperfusion, plasmapheresis: not effective
 - Use Escudie criteria for early LT evaluation (before HE develops)

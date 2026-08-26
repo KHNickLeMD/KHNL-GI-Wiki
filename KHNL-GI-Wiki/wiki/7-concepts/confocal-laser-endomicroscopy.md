@@ -3,7 +3,7 @@ title: "Confocal Laser Endomicroscopy"
 category: concept
 tags: [confocal-laser-endomicroscopy, cle, pcle, biliary-stricture, cholangiocarcinoma, optical-biopsy]
 created: 2026-06-04
-updated: 2026-08-11
+updated: 2026-08-26
 sources: [acg-2023-biliary-strictures, asge-2023-indeterminate-biliary-strictures]
 ---
 
@@ -11,12 +11,14 @@ sources: [acg-2023-biliary-strictures, asge-2023-indeterminate-biliary-stricture
 
 ## Interpretation — the two validated classifications
 
-Two validated systems underpin pCLE reading ([[acg-2023-biliary-strictures]], [[asge-2023-indeterminate-biliary-strictures]]):
+Two systems underpin pCLE reading ([[asge-2023-indeterminate-biliary-strictures|ASGE 2023]]). Read them together: Miami names malignancy, Paris names the benign inflammatory mimics.
 
-| System | What it captures |
-|---|---|
-| **Miami** classification (consensus) | Malignant features — thick dark collagen bands, thickened white bands within vessels |
-| **Paris** classification (refined) | Benign **inflammatory** features, added to reduce the false-positive rate of Miami criteria |
+| System | Reads for | Actual criteria |
+|---|---|---|
+| **Miami** (consensus, endoscopist-derived) | **Malignant** stricture | **Thick dark bands of the collagen fibrils**; **thickened white bands within the vessels** |
+| **Paris** (subsequent refinement) | **Benign inflammatory** stricture | **Vascular congestion**; **dark granular patterns with scales**; **increased interglandular space**; **thickened reticular structures** |
+
+⚠ **Miami's stated limitation is low interobserver agreement** — Paris was developed to further define the benign-inflammatory criteria.
 
 ## Test Performance
 

@@ -438,7 +438,7 @@ Key evidence:
 
 Per [[aasld-2023-hcc]] (GS 50, Level 5, Weak):
 
-Advance care planning (ACP) should be offered to all patients receiving palliative-intent therapy or best supportive care for HCC, regardless of transplant eligibility. ACP should be offered early for patients with large tumor burden or BCLC D disease. HCC treatment cascade is unpredictable, making early goals-of-care discussion critical. See [[aasld-2024-aclf]] and [[portal-hypertension]] for ACP guidance in decompensated cirrhosis context.
+Advance care planning (ACP) should be offered to all patients receiving palliative-intent therapy or best supportive care for HCC, regardless of transplant eligibility. ACP should be offered early for patients with large tumor burden or BCLC D disease. HCC treatment cascade is unpredictable, making early goals-of-care discussion critical. See [[acute-on-chronic-liver-failure]] and [[portal-hypertension]] for ACP guidance in the decompensated-cirrhosis context.
 
 ---
 

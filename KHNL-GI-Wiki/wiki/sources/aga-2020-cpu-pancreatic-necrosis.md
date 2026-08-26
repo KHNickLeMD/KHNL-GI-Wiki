@@ -3,7 +3,7 @@ title: "AGA Clinical Practice Update: Management of Pancreatic Necrosis (2020)"
 category: source
 tags: [pancreatitis, pancreatic-necrosis, walled-off-necrosis, necrosectomy, lams, step-up, dpds, nutrition, antibiotics, guideline, aga]
 created: 2026-08-25
-updated: 2026-08-25
+updated: 2026-08-26
 sources: []
 ---
 
@@ -158,8 +158,7 @@ The interventional sections lay out percutaneous drainage, endoscopic transmural
 
 ## Relevance to Wiki
 
-- **[[pancreatic-necrosis]]** — created from this source; the home page for necrosis-specific antibiotics, nutrition, drainage route/timing, stent selection, DEN, surgical approaches, DPDS, and the step-up sequence.
-- **[[acute-pancreatitis]]** — the parent disease; diagnosis, severity grading, and initial fluid resuscitation stay there, with necrosis management delegated to the new page.
+- **[[acute-pancreatitis]]** — the home page for necrosis management (§*Necrotizing Pancreatitis*). This source supplies the drainage-route choice (percutaneous vs transmural endoscopic), stent selection (LAMS vs plastic), when direct endoscopic necrosectomy is indicated, the minimally invasive surgical menu, and disconnected pancreatic duct syndrome. **No separate `pancreatic-necrosis` page exists or should be created** — necrosis is covered in depth on [[acute-pancreatitis]] and a second page would duplicate it. Where this 2020 CPU overlaps [[acg-2024-acute-pancreatitis]] (prophylactic antibiotics, FNA, the 4-week delay, step-up sequencing), the newer graded guideline governs the page.
 - **[[endoscopic-ultrasound]]** — EUS-guided transmural entry for WON drainage and for temporizing DPDS.
 - **[[ercp]]**, **[[asge-2016-pancreatic-fluid-collections]]** — pancreatic fluid collection nomenclature and endoscopic drainage technique.
 - **[[recurrent-acute-pancreatitis]]** — listed in BPA 5 as an indication for drainage/debridement of sterile necrosis.

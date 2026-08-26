@@ -3,7 +3,7 @@ title: "Gastroesophageal Reflux Disease"
 category: disease-script
 tags: [gerd, reflux, esophageal, foregut, motility]
 created: 2026-05-15
-updated: 2026-08-14
+updated: 2026-08-26
 sources: [asge-2024-gerd, acg-2021-gerd, sages-2021-gerd-surgery, lyon-2024-gerd-diagnosis, aga-2024-pcab, aga-2023-extraesophageal-gerd]
 ---
 
@@ -112,9 +112,14 @@ Perform [[upper-endoscopy|upper endoscopy]] per indications above. High-quality 
 
 - Indication: objective confirmation of pathologic acid reflux before procedural therapy (TIF, cTIF, surgery); evaluation of PPI-refractory symptoms
 - Standard: 24-hour or 48-hour ambulatory pH study (Bravo capsule for extended monitoring)
-- Endpoint: AET (% time esophageal pH <4); **Lyon Consensus 2.0 thresholds (conclusive):** AET >6% = conclusive GERD; AET 4–6% = inconclusive (requires adjuncts); AET <4% on all recording days = GERD excluded
+- Endpoint: AET (% time esophageal pH <4); **Lyon Consensus 2.0 thresholds** ([[lyon-2024-gerd-diagnosis]]) — note the qualifiers, they carry the decision:
+  - **AET >6% off PPI** = diagnostic of GERD (on wireless monitoring, requires ≥2 days above 6%)
+  - **AET 4–6%** = inconclusive; requires adjunctive evidence
+  - **AET <4% on *all* recording days *with a negative* reflux-symptom association** = GERD excluded. **AET <4% on all days *with a positive* symptom association = reflux hypersensitivity**, not exclusion — the association is what separates the two
 - **LA grade B on endoscopy is now CONCLUSIVE for GERD** per Lyon 2.0 (upgraded from "borderline" in Lyon 1.0; ACG 2021 predates this update)
-- >80 reflux episodes/day supports GERD; <40/day argues against; PSPW index retired
+- Reflux episode counts (off PPI): **>80/day** = adjunctive evidence *for* GERD; **40–80/day** = inconclusive as a stand-alone metric; **<40/day** = adjunctive evidence *against* pathologic GERD
+- **AET >4% *and* >80 reflux episodes on an optimized antisecretory regimen** = actionable refractory GERD (the combination, not either alone)
+- **PSPW (post-reflux swallow-induced peristaltic wave) index is not a diagnostic metric** — Lyon 2.0 keeps it as a predominantly *research* tool for phenotyping patients with already-proven GERD; MNBI, by contrast, is retained as adjunctive diagnostic evidence
 - Combined pH-impedance testing: detects non-acid and weakly acid reflux episodes; useful for regurgitation-predominant or PPI-refractory presentations
 - See [[ambulatory-reflux-monitoring]] for full Lyon 2.0 framework and test selection guidance
 
@@ -185,7 +190,7 @@ Recommend for all patients with GERD symptoms:
 2. **Complete endoscopic assessment of the GEJ** — hiatal hernia size and Hill grade (criteria on [[reflux-testing]])
 3. **Multidisciplinary review** (especially for cTIF)
 
-**Plus mandatory [[high-resolution-manometry|HRM]] before any antireflux procedure** to exclude a major motility disorder — ~3% of patients referred with GERD-like symptoms have [[achalasia|achalasia-spectrum disease]].
+**Plus mandatory [[high-resolution-manometry|HRM]] before any antireflux procedure or endoscopic therapy** to rule out [[achalasia]] and absent contractility (Strong/Low, [[acg-2021-gerd]]) — among patients with **refractory** GERD, manometry finds achalasia in **1%–3%**, and **esophageal aperistalsis in roughly 3%** of manometry studies done to evaluate GERD; the aperistalsis group responds poorly to antireflux surgery.
 
 **The anatomy decides the procedure** ([[asge-2024-gerd]]) — hernia size + Hill grade is the operative decision point:
 

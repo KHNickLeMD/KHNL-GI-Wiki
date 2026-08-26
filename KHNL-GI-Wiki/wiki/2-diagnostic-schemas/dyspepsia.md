@@ -3,8 +3,8 @@ title: "Dyspepsia"
 category: diagnostic-schema
 tags: [dyspepsia, functional, stomach, foregut, dgbi, test-and-treat]
 created: 2026-05-16
-updated: 2026-08-25
-sources: [acg-cag-2017-dyspepsia, rome-v-2026-dgbi]
+updated: 2026-08-26
+sources: [acg-cag-2017-dyspepsia, rome-v-2026-dgbi, acg-2022-gastroparesis]
 ---
 
 ## Definition / Scope
@@ -25,7 +25,7 @@ Subtype-guided therapy is **not recommended** — no evidence that PDS vs. EPS p
 ## Differential Diagnosis
 
 - [[helicobacter-pylori-infection]] — most common treatable cause
-- [[gastroparesis]] — significant overlap with PDS; ~40% of patients reclassified on repeat gastric emptying study
+- [[gastroparesis]] — significant overlap with PDS; on repeat scintigraphic gastric emptying, **42%** of patients initially labelled gastroparesis and **37%** labelled FD were reclassified by the presence/absence of delay, despite unchanged symptoms ([[acg-2022-gastroparesis]]). Abnormal gastric accommodation is present in up to **40%** of FD ([[acg-cag-2017-dyspepsia]])
 - [[peptic-ulcer-disease|Peptic ulcer disease]] — structural; detected on EGD
 - [[gastric-intestinal-metaplasia]] / [[gastric-premalignant-conditions]] — [[upper-endoscopy|upper endoscopy]] if alarm features
 - [[gerd|GERD]] — heartburn/regurgitation predominant
@@ -43,7 +43,7 @@ Subtype-guided therapy is **not recommended** — no evidence that PDS vs. EPS p
 *Figure 1 — Algorithm for the management of undiagnosed dyspepsia. ([[acg-cag-2017-dyspepsia]])*
 
 1. **Age ≥60** (ACG/CAG 2017 Statement 1, Cond/Very Low) → EGD to exclude upper GI neoplasia. Lower threshold if high-risk (childhood in high-GC-incidence country, family history upper GI malignancy) [[acg-cag-2017-dyspepsia]].
-2. **Age <60 + alarm features** (Statement 2, Cond/Moderate) → Do **NOT** automatically scope; alarm features have low PPV (sensitivity 0.67, specificity 0.66 for upper GI cancer). Use case-by-case clinical judgment. Prominent features (e.g., weight loss >20 lb, rapidly progressive [[dysphagia]]) or combinations warrant EGD.
+2. **Age <60 + alarm features** (Statement 2, Cond/Moderate) → Do **NOT** automatically scope; alarm features have low PPV. Pooled across 7 studies / 46,011 patients: **sensitivity 0.67 (0.54–0.83), specificity 0.66 (0.55–0.79)** against a **0.3% pre-test probability** of upper GI cancer; individual features (weight loss, anemia, dysphagia) carry a **positive LR of only 2.74 (1.47–5.24)** — a 2–3× relative risk on a very small baseline, so absolute risk stays **<1%** under 60. Use case-by-case clinical judgment. Prominent features (e.g., weight loss >20 lb, rapidly progressive [[dysphagia]]) or combinations warrant EGD.
 3. **Age <60, no high-risk features** (Statement 3, Strong/High) → Non-invasive H. pylori test-and-treat (UBT or stool antigen; hold [[proton-pump-inhibitors|PPI]] ≥2 wk and antibiotics ≥4 wk).
 4. **H. pylori negative OR symptomatic post-eradication** (Statement 4, Strong/High) → Empiric standard-dose PPI 4–8 weeks.
 5. **PPI/HP-eradication failure** → second-line **prokinetic** (Statement 5, Cond/Very Low) or **TCA** (Statement 6, Cond/Low). No preferred order specified.
@@ -68,7 +68,7 @@ Subtype-guided therapy is **not recommended** — no evidence that PDS vs. EPS p
 
 ## Key Tests
 
-- **H. pylori noninvasive testing:** UBT (sensitivity 88–95%, specificity 95–100%) or stool antigen (sensitivity 94%, specificity 97%); hold PPIs 2 weeks and antibiotics 4 weeks before testing
+- **H. pylori noninvasive testing:** urea breath test or stool antigen — hold [[proton-pump-inhibitors|PPIs]] ≥2 weeks and antibiotics ≥4 weeks before testing. Test operating characteristics live on [[helicobacter-pylori-infection]]
 - **Upper endoscopy:** Age ≥60, high-risk demographics, prominent/multiple alarm features, or empiric-therapy failure
 - **Gastric emptying scintigraphy:** Only for selected FD with predominant severe/refractory nausea-vomiting (Statement 14) — routine motility testing not recommended (Statement 13)
 - **Pancreatic imaging:** Not routinely indicated <60 ([[pancreatic-cancer|pancreatic cancer]] prevalence <0.01% in this group), but consider if pain radiates to back
@@ -77,7 +77,7 @@ Subtype-guided therapy is **not recommended** — no evidence that PDS vs. EPS p
 
 ## Red Flags / Alarm Features
 
-Per ACG/CAG 2017, alarm features alone in patients <60 have **low PPV** for upper GI malignancy (overall prevalence 0.3%; sensitivity 0.67, specificity 0.66). They should prompt **clinical judgment**, not automatic EGD:
+Per ACG/CAG 2017, alarm features alone in patients <60 have **low PPV** for upper GI malignancy — see the pooled operating characteristics in [[#Diagnostic Algorithm]]. They should prompt **clinical judgment**, not automatic EGD:
 
 - Age ≥60 with new-onset symptoms (independent threshold)
 - Weight loss (unintentional, especially >20 lb)
@@ -106,3 +106,4 @@ ACG/CAG 2017 reviewed associations between long-term PPI and hip fracture, CAP, 
 
 1. [[acg-cag-2017-dyspepsia|ACG/CAG 2017: Management of Dyspepsia]]
 2. [[rome-v-2026-dgbi|Disorders of Gut–Brain Interaction and the Rome V Process]]
+3. [[acg-2022-gastroparesis|ACG 2022: Gastroparesis]]

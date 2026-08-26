@@ -3,7 +3,7 @@ title: "Variceal Upper GI Bleeding"
 category: diagnostic-schema
 tags: [cirrhosis, portal-hypertension, variceal-bleeding, upper-gi-bleeding, hemostasis, antibiotic-prophylaxis, TIPS, EVL, carvedilol, NSBB, gastric-varices, preemptive-TIPS]
 created: 2026-05-15
-updated: 2026-08-14
+updated: 2026-08-26
 sources: [albhaisi-2025-prophylactic-antibiotics-cirrhosis, aasld-2023-portal-hypertension, baveno-vii-2022-portal-hypertension, aga-2024-vasoactive-albumin-cirrhosis]
 ---
 
@@ -63,7 +63,7 @@ In a cirrhotic patient with UGIB, consider:
    - PREVENT and TRANSJIP-1 trials: preemptive TIPS significantly improves bleeding control and survival vs. standard pharmacologic + endoscopic therapy
 
 7. **Post-endoscopy care** (patients NOT receiving preemptive TIPS):
-   - Start **NSBB** (carvedilol 6.25 mg daily → 12.5 mg/day) at **discontinuation of vasoactive therapy** (GS 33)
+   - Start **NSBB** (carvedilol 6.25 mg daily → 12.5 mg/day) at **discontinuation of vasoactive therapy** (GS 33) — full titration, down-titration (SBP <90 mmHg), and CTP B/C dose caveats live on [[portal-hypertension]]
    - **Discontinue [[proton-pump-inhibitors|PPI]]** once AVH confirmed as the bleeding source (unless other indication; GS 37)
    - Start **[[nutrition-in-liver-disease|enteral nutrition]]** once AVH episode controlled; variceal bands do NOT contraindicate NG tube placement (GS 36)
 

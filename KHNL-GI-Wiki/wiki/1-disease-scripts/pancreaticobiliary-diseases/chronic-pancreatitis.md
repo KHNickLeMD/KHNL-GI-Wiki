@@ -3,9 +3,36 @@ title: "Chronic Pancreatitis"
 category: disease-script
 tags: [pancreatitis, chronic, pancreas, hpb, exocrine-insufficiency, pain]
 created: 2026-05-16
-updated: 2026-08-14
+updated: 2026-08-26
 sources: [acg-2020-chronic-pancreatitis, acg-2020-sibo, asge-2024-chronic-pancreatitis-endoscopy, apa-2014-chronic-pancreatitis, aga-2022-recurrent-pancreatitis-endoscopy]
 ---
+
+## Contents
+- [[#Assessment]]
+  - [[#Establishing the Diagnosis]]
+  - [[#Severity Assessment — M-ANNHEIM scoring]]
+    - [[#Imaging morphology grade — the criteria behind the "Cambridge" row]]
+    - [[#Diagnostic evidence tiers (APA 2014, Table 5)]]
+  - [[#Classification — TIGAR-O v2.0 risk/etiology checklist]]
+- [[#Differential Diagnosis]]
+- [[#Diagnostics]]
+  - [[#Imaging]]
+    - [[#Conventional (unweighted) EUS criteria]]
+    - [[#Rosemont classification (EUS)]]
+  - [[#Pancreatic function tests]]
+  - [[#Genetic testing]]
+  - [[#Other labs]]
+- [[#Therapeutics]]
+  - [[#Lifestyle]]
+  - [[#Pain management — stepwise]]
+  - [[#Endoscopic vs surgical therapy for painful obstructive CP (AGA 2022)]]
+  - [[#Exocrine pancreatic insufficiency (EPI)]]
+  - [[#Endocrine dysfunction (type 3c DM)]]
+  - [[#Genetic and family counseling]]
+  - [[#Surveillance]]
+  - [[#Pregnancy / fertility]]
+- [[#See Also]]
+- [[#Sources]]
 
 ## Assessment
 
@@ -37,14 +64,17 @@ Genetic testing recommended if etiology unclear (especially <35 yr) [[acg-2020-c
 - **B:** Family history, early onset, CF organ involvement, syndromic features → genetic testing, sweat chloride, sMRCP, exocrine function testing
 - **C:** IBD/IgG4 disease, response to therapy (analgesics, PERT, steroid trial for AIP type 2) → histology
 
-**Imaging modality test characteristics** (systematic review, n=3,460):
+**Imaging modality test characteristics** — systematic review/meta-analysis of 43 studies, 3,460 patients with suspected CP ([[acg-2020-chronic-pancreatitis]]). **The sensitivities did not differ significantly from one another**, so modality choice is driven by specificity, invasiveness, and availability rather than by pick-up rate.
 
-| Modality | Sensitivity | Specificity |
+| Modality | Sensitivity (95% CI) | Specificity (95% CI) |
 |---|---|---|
-| EUS | 90% (82–95) | 94% (87–98) |
-| MRI | 78% (69–85) | 96% (90–98) |
+| [[endoscopic-ultrasound\|EUS]] | **81%** (70–89) | 90% (82–95) |
+| MRI | 78% (69–85) | **96%** (90–98) |
 | CT | 75% (66–83) | 91% (81–96) |
-| US | — | 98% (89–100) |
+| [[ercp\|ERCP]] | not reported | 94% (87–98) |
+| Transabdominal US | not reported | **98%** (89–100) |
+
+*Caveat stated by the meta-analysis: not all included studies used a histologic gold standard.*
 
 CT/MRI first-line; EUS only if cross-sectional imaging non-diagnostic and suspicion persists; sMRCP next; histology = gold standard but limited by sampling and subjectivity.
 
@@ -134,50 +164,48 @@ Key categories:
 
 Predates Rosemont and is still what the APA guideline grades: all features count equally, and you count them. **≥5 features strongly suggests** CP; **≤2 strongly refutes** it; 3–4 is a grey zone. The ideal threshold was never firmly established (strong recommendation, low-quality evidence) [[apa-2014-chronic-pancreatitis]].
 
-> Don't transplant this threshold onto Rosemont. Under Rosemont, ≥5 minor features with no major feature is only **"suggestive"** — you cannot reach "consistent" without a Major A feature.
+> Don't transplant this threshold onto Rosemont. Every Rosemont combination that reaches **"consistent with CP"** contains a Major A feature (see below) — so counting to five *minor* features is not the same call.
 
 #### Rosemont classification (EUS)
 
-Consensus-derived weighted system (Catalano et al., 2009; 32 endosonographers, >⅔ agreement required) that replaced simple "count the features" scoring. Features are weighted **Major A**, **Major B**, or **Minor** — the subdivision into A vs. B reflects a *perceived* difference in predictive accuracy — and combinations map to one of four diagnostic categories.
+Consensus-derived weighted system (Catalano 2009 consensus conference, 32 internationally recognised endosonographers) that replaced simple "count the features" scoring. Features are weighted **Major A**, **Major B**, or **Minor** — the A/B subdivision reflects a *perceived* difference in predictive accuracy — and combinations map to one of four diagnostic categories. As reported in [[apa-2014-chronic-pancreatitis]]:
 
-| Feature | Definition | Weight |
+| Feature | Compartment | Weight |
 |---|---|---|
-| Hyperechoic foci **with** shadowing | Echogenic foci ≥2 mm in length *and* width, casting acoustic shadow (= parenchymal calcification) | **Major A** |
-| Main duct calculi | Echogenic structure(s) within the MPD **with** acoustic shadowing | **Major A** |
-| Lobularity **with** honeycombing | ≥3 contiguous lobules | **Major B** |
-| Lobularity **without** honeycombing | Well-circumscribed ≥5 mm structures, echo-rich rim / echo-poor center, non-contiguous | Minor |
-| Hyperechoic foci **without** shadowing | ≥2 mm in length and width, no shadow | Minor |
-| Hyperechoic stranding | Hyperechoic lines ≥3 mm in ≥2 different directions | Minor |
-| Cysts | Anechoic, rounded/elliptical, ± septations | Minor |
-| Irregular MPD contour | Uneven/irregular outline with ectatic course | Minor |
-| Dilated side branches | ≥3 anechoic tubular structures, each ≥1 mm wide, budding from MPD | Minor |
-| MPD dilation | ≥3.5 mm body **or** ≥1.5 mm tail | Minor |
-| Hyperechoic MPD margin | Echogenic, distinct duct wall over >50% of MPD in body and tail | Minor |
+| Hyperechoic foci **with** shadowing | Parenchymal | **Major A** |
+| Main pancreatic duct (MPD) calculi | Ductal | **Major A** |
+| Lobularity **with** honeycombing | Parenchymal | **Major B** |
+| Lobularity with **non-contiguous** lobules | Parenchymal | Minor |
+| Hyperechoic foci **without** shadowing | Parenchymal | Minor |
+| Hyperechoic stranding | Parenchymal | Minor |
+| Cysts | Parenchymal | Minor |
+| MPD dilation — **body ≥3.5 mm** or **tail ≥1.5 mm** | Ductal | Minor |
+| Irregular MPD contour | Ductal | Minor |
+| Dilated side branches **≥1 mm** | Ductal | Minor |
+| Hyperechoic MPD margin | Ductal | Minor |
+
+⚠ **Decision gap — the operational definitions behind each feature are not in any ingested source.** APA 2014 names the features and gives only the ductal cutoffs shown above; it does not state how large a hyperechoic focus must be, how many contiguous lobules constitute honeycombing, or what proportion of the duct margin must be echogenic. Adding those would require ingesting the primary Rosemont paper (Catalano MF et al., *Gastrointest Endosc* 2009;69:1251–61) — do not infer them.
 
 **Diagnostic categories:**
 
 | Category | Criteria |
 |---|---|
-| **Consistent with CP** | 2 Major A **or** 1 Major A + Major B **or** 1 Major A + ≥3 minor |
-| **Suggestive of CP** | 1 Major A + <3 minor **or** Major B + ≥3 minor **or** ≥5 minor (any) |
-| **Indeterminate for CP** | 3–4 minor, no major **or** Major B alone or with <3 minor |
-| **Normal** | ≤2 minor, no major |
-
-The "consistent" row is the one reproduced verbatim in [[apa-2014-chronic-pancreatitis]]; APA collapses the rest into "all other combinations."
+| **Consistent with CP** | **2 Major A** · **or** 1 Major A **+** Major B · **or** 1 Major A **+ ≥3 minor** |
+| Suggestive / Indeterminate / Normal | ⚠ [[apa-2014-chronic-pancreatitis]] reproduces only the "consistent" combinations and collapses everything else into *"all other combinations of features."* The specific splits are **not in any ingested source** (Catalano 2009 needed) |
 
 **Caveats:**
 
 - Only two Major A features exist — **parenchymal hyperechoic foci with shadowing** and **MPD calculi**. Both require **acoustic shadowing**; the same foci without shadowing drop to minor. This distinction drives the whole classification
-- Lobularity is **never** Major A. It is one feature split two ways: honeycombing (≥3 contiguous lobules) = Major B, non-contiguous = minor. See the source discrepancy note below
+- Lobularity is **never** Major A. It is one feature split two ways: honeycombing = Major B, non-contiguous lobules = minor. See the source discrepancy note below
 - Based **solely on expert opinion** — never validated against a histologic gold standard, and not shown superior to conventional EUS criteria for clinical outcomes [[apa-2014-chronic-pancreatitis]]
-- Interobserver agreement is good for Major A features and MPD dilation, but poor for lobularity and stranding — the features that carry most "suggestive"/"indeterminate" calls. APA grades poor IOA as a moderate-evidence limit on EUS utility overall
-- Low specificity: EUS features are **not necessarily pathologic** — normal aging, normal variants, and asymptomatic non-pathologic fibrosis (without exocrine/endocrine dysfunction) all produce them, as do heavy alcohol use, smoking, recent [[acute-pancreatitis]] (wait ≥6–8 weeks), and parenchyma adjacent to a mass
+- **Interobserver agreement is the main practical limit.** Across 11 expert endosonographers scoring the 9 conventional criteria, agreement was good only for **duct dilatation (κ 0.60)** and **lobularity (κ 0.51)**; the other 7 features were poor (**κ <0.4**), and agreement on the final diagnosis of CP was only moderate (**κ 0.45**). APA treats poor IOA as a moderate-evidence limit on EUS utility overall
+- Low specificity: EUS features are **not necessarily pathologic** — normal aging, normal anatomic variants, and asymptomatic non-diagnostic fibrosis (without exocrine or endocrine dysfunction) all produce them. Such fibrosis is reported in **up to 60% of alcoholics with no clinical evidence of CP**, whereas the **lifetime risk of CP in alcoholics is only 2%–5%** — so the finding vastly outnumbers the disease
 - APA's explicit posture: **err toward more stringent criteria**, accepting missed diagnoses, to avoid over-diagnosis and "unnecessary and potentially risky therapies" — justified by the lack of reliably effective CP treatments
 - Bottom line: "consistent with CP" is meaningful in a patient with a compatible clinical picture; "suggestive"/"indeterminate" is not a diagnosis — pair with function testing (fecal elastase, sMRCP) rather than treating the score as definitive
 
 **⚠ Source discrepancy — Rosemont lobularity:**
 
-The [[apa-2014-chronic-pancreatitis|APA 2014 guideline]] text states parenchymal Major A criteria were "(1) hyperechoic foci with shadowing and (2) **well-circumscribed lobularity**." This is an error, and self-contradictory — the same paragraph assigns lobularity-with-honeycombing to Major B and lobularity-with-noncontiguous-lobules to minor, leaving no lobularity variant left for Major A. In the primary Rosemont paper, "well-circumscribed, ≥5 mm structures with hyperechoic rims relative to their central areas" is the **definition of lobularity**, not a separate Major A criterion. The feature table above follows Catalano 2009; APA's *diagnostic combinations* are correct and are reproduced faithfully.
+The [[apa-2014-chronic-pancreatitis|APA 2014 guideline]] text states parenchymal Major A criteria were "(1) hyperechoic foci with shadowing and (2) **well-circumscribed lobularity**." That sentence is **self-contradictory within the same paragraph**, which then assigns lobularity-with-honeycombing to Major B and lobularity-with-non-contiguous-lobules to minor — leaving no lobularity variant available for Major A. The table above therefore omits lobularity from Major A. Adjudicating the discrepancy definitively requires the primary Rosemont paper, which is **not ingested**.
 
 ### Pancreatic function tests
 
@@ -288,4 +316,3 @@ Experimental (research only): spinal cord stim, transmagnetic stim, radiation (K
 3. [[asge-2024-chronic-pancreatitis-endoscopy|ASGE Guideline: Role of Endoscopy in Management of Chronic Pancreatitis (2024)]]
 4. [[apa-2014-chronic-pancreatitis|APA 2014: Chronic Pancreatitis — Diagnostic Guidelines]]
 5. [[aga-2022-recurrent-pancreatitis-endoscopy|AGA 2022: Clinical Practice Update on the Endoscopic Approach to Recurrent Acute and Chronic Pancreatitis]]
-6. Catalano MF, et al. EUS-based criteria for the diagnosis of chronic pancreatitis: the Rosemont classification. *Gastrointest Endosc.* 2009;69(7):1251–61. [PMID 19243769](https://pubmed.ncbi.nlm.nih.gov/19243769/)

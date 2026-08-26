@@ -3,8 +3,8 @@ title: "Nonampullary Duodenal Adenoma"
 category: disease-script
 tags: [duodenal-adenoma, nonampullary-adenoma, endoscopic-mucosal-resection, cold-snare, familial-adenomatous-polyposis, spiegelman, surveillance, gi-bleeding, perforation]
 created: 2026-07-21
-updated: 2026-08-12
-sources: [aga-2025-nonampullary-duodenal]
+updated: 2026-08-26
+sources: [aga-2025-nonampullary-duodenal, asge-2015-ampullary-duodenal-adenomas]
 ---
 
 # Nonampullary Duodenal Adenoma
@@ -22,6 +22,8 @@ sources: [aga-2025-nonampullary-duodenal]
   - [[#Complications & Periprocedural Care]]
   - [[#Surveillance]]
   - [[#FAP-Associated Duodenal Adenomas]]
+- [[#See Also]]
+- [[#Sources]]
 
 ---
 
@@ -89,7 +91,7 @@ Describe every duodenal polyp by **(BPA 3):**
 | ≤20 mm (alternative) | **Underwater EMR** | Recurrence 2%–3%, perforation <1%, delayed bleeding <2% |
 
 - **Recurrence:** conventional hot-snare EMR 10%–15% at 6 mo, size-dependent. **CS-EMR recurrence is higher for large lesions (24.4% vs 2.3%)** and is related to primary-lesion size — so CS is most attractive for lesions **<15 mm**, particularly with significant comorbidities.
-- **[[endoscopic-submucosal-dissection|ESD]] offers no clear advantage** over piecemeal EMR (covert adenocarcinoma within a DA is rare, ≤1%) and, given the **thin duodenal muscularis propria**, is associated with **high perforation rates** — not advised.
+- **[[endoscopic-submucosal-dissection|ESD]] offers no clear advantage** over piecemeal EMR (covert adenocarcinoma within a DA is rare, ≤1%) and, given the **thin duodenal muscularis propria**, is associated with **high perforation rates** — not advised. [[asge-2015-ampullary-duodenal-adenomas|ASGE 2015]] puts a number on it: **perforation rates as high as 23%–35%** with duodenal ESD in high-volume series, with **no perforations** reported by the same group using EMR — hence ESD is not recommended beyond the duodenal bulb.
 - **Clip closure** of the post-EMR defect is generally only effective for **defects ≤15 mm** (the thin, fixed retroperitoneal duodenal wall tears easily on the muscular layer; close **mucosa-to-mucosa**, avoid clipping the deep muscle). Hot-snare excision itself carries ~1% perforation risk.
 - **Surgery** is reserved for lesions not amenable to safe endoscopic resection; factor comorbidities and longevity.
 
@@ -141,3 +143,4 @@ Describe every duodenal polyp by **(BPA 3):**
 ## Sources
 
 1. [[aga-2025-nonampullary-duodenal|AGA 2025 Clinical Practice Update on Nonampullary Duodenal Lesions]]
+2. [[asge-2015-ampullary-duodenal-adenomas|ASGE 2015: The Role of Endoscopy in Ampullary and Duodenal Adenomas]]

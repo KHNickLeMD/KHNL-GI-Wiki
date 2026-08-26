@@ -3,7 +3,7 @@ title: "Hereditary Hemochromatosis"
 category: disease-script
 tags: [hemochromatosis, iron-overload, hfe, c282y, phlebotomy, liver, hpb, genetics, ferritin, transferrin-saturation, cirrhosis, hcc, arthropathy, cardiomyopathy, endocrine]
 created: 2026-05-19
-updated: 2026-08-13
+updated: 2026-08-26
 sources: [acg-2019-hereditary-hemochromatosis, acg-2017-liver-chemistries, aasld-2011-hemochromatosis]
 ---
 
@@ -116,7 +116,7 @@ sources: [acg-2019-hereditary-hemochromatosis, acg-2017-liver-chemistries, aasld
 - SF <200 ng/mL (premenopausal women) or <300 ng/mL (men/postmenopausal women) with TS <45% → NPV 97% for excluding iron overload
 - SF <1,000 ng/mL + normal liver enzymes in C282Y homozygote → liver biopsy not indicated
 - SF >1,000 ng/mL → liver biopsy for fibrosis staging (strong)
-- SF >2,000 ng/mL → particularly high HCC risk; [[cirrhosis|cirrhosis]] very likely
+- SF >2,000 ng/mL at diagnosis → sharply elevated liver-disease and liver-cancer mortality (see [[#Prognosis]])
 
 **Algorithm**:
 

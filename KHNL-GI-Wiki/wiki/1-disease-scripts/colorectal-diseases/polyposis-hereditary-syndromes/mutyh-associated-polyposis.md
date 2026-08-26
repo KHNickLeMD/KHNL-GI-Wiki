@@ -3,8 +3,8 @@ title: "MUTYH-Associated Polyposis"
 category: disease-script
 tags: [map, mutyh, polyposis, hereditary-crc, colorectal-cancer, recessive-polyposis, afap]
 created: 2026-05-19
-updated: 2026-08-14
-sources: [acg-2015-hereditary-gi-cancer]
+updated: 2026-08-26
+sources: [acg-2015-hereditary-gi-cancer, asge-2020-fap]
 ---
 
 *Covered in detail within [[familial-adenomatous-polyposis]] (MAP/AFAP/FAP section) — see that page for comprehensive ADDT content.*
@@ -40,15 +40,19 @@ sources: [acg-2015-hereditary-gi-cancer]
 
 ## Diagnostics
 
-Surveillance mirrors AFAP — [[acg-2015-hereditary-gi-cancer]] Table 10 (start age / interval):
+Surveillance mirrors AFAP (start age / interval):
 
 | Site | Start age | Interval | Procedure |
 |---|---|---|---|
-| Colon | **25–30** | **every 1–2 y** (shorten with rising polyp burden) | [[colonoscopy\|Colonoscopy]] |
-| Upper GI | **30–35** | baseline, then per duodenal findings (as for FAP/AFAP) | [[upper-endoscopy\|EGD]] **with a side-viewing instrument** |
-| Thyroid | — | **annual** | Thyroid ultrasound *(Rec 11; conditional, low)* — applies to FAP, MAP, and attenuated polyposis |
+| Colon | **18–20** ([[asge-2020-fap\|ASGE 2020]]) | **every 1–2 y** (shorten with rising polyp burden) | [[colonoscopy\|Colonoscopy]] — flexible sigmoidoscopy is inadequate (rectum may be spared) |
+| Upper GI | **30–35** ([[acg-2015-hereditary-gi-cancer\|ACG 2015]] Table 10) | baseline, then per duodenal Spigelman stage (as for FAP/AFAP) | [[upper-endoscopy\|EGD]] **with a side-viewing instrument** |
+| Thyroid | — | **annual** | Thyroid ultrasound *(ACG Rec 11; conditional, low)* — applies to FAP, MAP, and attenuated polyposis |
+
+> **Contradiction (surfaced):** [[acg-2015-hereditary-gi-cancer|ACG 2015]] Table 10 starts colon surveillance in MAP at **25–30**; [[asge-2020-fap|ASGE 2020]] Table 3 starts it at **18–20**. Same tier → the newer ASGE age is asserted here.
 
 - Genetic testing for suspected adenomatous polyposis should include **both APC and MUTYH** analysis (a negative APC test alone does not exclude polyposis).
+- **When to send MUTYH specifically** [[asge-2020-fap]] — any one of: ≥20 colorectal adenomas over multiple colonoscopies; known family history of MAP; ≥10 adenomas on a single colonoscopy; or [[serrated-polyposis-syndrome|SPS]] criteria met with at least some adenomas present.
+- **Monoallelic carriers:** minimal or no excess risk, and ACG states there is no consensus on intensified screening. If a monoallelic carrier also has an **FDR with CRC**, ASGE advises [[colonoscopy]] from **age 40, or 10 y before that relative's CRC diagnosis, every 5 y**; with **no** family history the interval is listed as unknown.
 
 ---
 
@@ -76,3 +80,4 @@ Surveillance mirrors AFAP — [[acg-2015-hereditary-gi-cancer]] Table 10 (start 
 ## Sources
 
 1. [[acg-2015-hereditary-gi-cancer|ACG 2015: Genetic Testing and Management of Hereditary Gastrointestinal Cancer Syndromes]]
+2. [[asge-2020-fap|ASGE Guideline: The Role of Endoscopy in Familial Adenomatous Polyposis Syndromes (2020)]]

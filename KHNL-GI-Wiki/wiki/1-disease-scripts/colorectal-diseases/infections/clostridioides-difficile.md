@@ -39,7 +39,11 @@ sources: [acg-2021-cdiff, aga-2024-fmt, aga-2026-cdiff-ibd, feuerstadt-2022-ser1
 | **Severe** | WBC ≥15,000 cells/mm³ OR serum creatinine >1.5 mg/dL |
 | **Fulminant** | Severe CDI criteria PLUS: hypotension/shock OR ileus OR megacolon |
 
-Additional markers of severe/poor-outcome disease (not formal criteria): low serum albumin, fecal calprotectin >2,000 µg/g, peripheral eosinopenia, fever >38.5°C (rare, ~1% of severe CDI), pseudomembranes on [[colonoscopy]], NAP1/BI/027 strain.
+These are the **IDSA 2018** criteria, which [[acg-2021-cdiff|ACG 2021]] endorses for clinical practice.
+
+> **What changed between versions:** the **2010** IDSA rule defined severe CDI as WBC >15,000 **or serum creatinine ≥1.5× above baseline**. The **2018** update replaced the ratio with an **absolute creatinine >1.5 mg/dL**, because a baseline creatinine is often unavailable at diagnosis — while acknowledging the absolute cutoff is **not helpful in patients with underlying renal disease**. [[acg-2021-cdiff]]
+
+Additional markers of severe/poor-outcome disease (not formal criteria): low serum albumin, fecal calprotectin >2,000 µg/g, peripheral eosinopenia, fever >38.5°C (rare, ~1% of severe CDI), pseudomembranes on [[colonoscopy]], NAP1/BI/027 strain. Note the fulminant criteria could **not** be validated in the VA database study (it could not separate ileus from megacolon). [[acg-2021-cdiff]]
 
 ### Classification / Typing
 

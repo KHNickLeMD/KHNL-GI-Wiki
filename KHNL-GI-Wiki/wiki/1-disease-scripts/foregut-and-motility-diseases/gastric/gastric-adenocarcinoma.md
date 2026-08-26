@@ -3,7 +3,7 @@ title: "Gastric Adenocarcinoma"
 category: disease-script
 tags: [gastric-cancer, gastric-adenocarcinoma, gastric, malignancy, her2, pd-l1, msi-h, dmmr, claudin-18.2, flot, gastrectomy, endoscopic-resection, trastuzumab, zolbetuximab, nccn, oncology]
 created: 2026-06-01
-updated: 2026-08-14
+updated: 2026-08-26
 sources: [nccn-2026-gastric-cancer, asge-2015-gastric-premalignant, asge-2023-esd]
 ---
 
@@ -50,7 +50,16 @@ Endoscopy with biopsy for histology; EUS for locoregional staging; CT/PET for di
 
 Stage-directed per [[nccn-2026-gastric-cancer]]:
 
-- **Early (selected T1a):** endoscopic resection ([[endoscopic-mucosal-resection|EMR]]/[[endoscopic-submucosal-dissection|ESD]]) for early, **well-differentiated, nonulcerated, mucosa-confined (T1a)** lesions; **ESD preferred over EMR** (en-bloc resection), and for such lesions **<20 mm either ESD or EMR** is acceptable. Lesions exceeding size/depth criteria → surgical (gastrectomy) evaluation rather than endoscopic resection. [[asge-2023-esd]]
+- **Early (selected T1a) — ESD vs EMR vs surgery is decided by differentiation, ulceration, histologic type, and size** ([[asge-2023-esd]], all recommendations Conditional / low quality):
+
+| Lesion | Recommendation |
+|---|---|
+| Well- or moderately differentiated, **nonulcerated, intestinal-type** early GAC **<20 mm** | **No recommendation for or against** [[endoscopic-submucosal-dissection\|ESD]] vs [[endoscopic-mucosal-resection\|EMR]] — either is acceptable |
+| Well- or moderately differentiated, nonulcerated, intestinal-type early GAC **20–30 mm** | **ESD over EMR** (en-bloc resection) |
+| Well- or moderately differentiated, intestinal-type early GAC **≤30 mm** | **Against surgery** — resect endoscopically |
+| **Poorly differentiated** early GAC, **any size** | **Surgical evaluation over endoscopic approaches** |
+
+  The **absolute** ESD indication is mucosal (T1a) adenocarcinoma/HGD, **intestinal type, ≤2 cm**; expanded criteria add intestinal-type G1/G2 of any size without ulceration, intestinal-type G1/G2 with submucosal invasion <500 µm, intestinal-type G1/G2 ≤3 cm with ulceration, and diffuse-type G3/G4 ≤2 cm without ulceration. [[asge-2023-esd]]
 - **Resectable locally advanced:** **perioperative chemotherapy (FLOT preferred)** with **gastrectomy and D2 lymphadenectomy**. Perioperative/neoadjuvant immunotherapy is considered for **MSI-H/dMMR** tumors (multidisciplinary; **dostarlimab** added as a neoadjuvant option). Gastrectomy remains standard even after radiologic/endoscopic complete response to neoadjuvant immunotherapy, outside prospective organ-preservation trials; if non-operative management is pursued for MSI-H/dMMR disease, immunotherapy continues for **at least 1 year**.
 - **Unresectable:** definitive chemoradiation/chemotherapy.
 - **Palliation of malignant gastric outlet obstruction:** endoscopically placed **self-expanding metal stent (SEMS)** for patients with poor performance status or nonoperable anatomy. [[asge-2015-gastric-premalignant]]

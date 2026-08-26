@@ -3,7 +3,7 @@ title: "Calcineurin Inhibitors"
 category: med
 tags: [calcineurin-inhibitor, tacrolimus, cyclosporine, immunosuppression, transplant, liver-transplant, nephrotoxicity, basiliximab, induction, cnm-minimization]
 created: 2026-05-19
-updated: 2026-08-14
+updated: 2026-08-26
 sources: [aasld-2012-liver-transplant-long-term, aasld-ast-2025-liver-transplant-graft-complications]
 ---
 
@@ -21,9 +21,9 @@ Calcineurin inhibitors (CNIs) — primarily [[tacrolimus]] (TAC) and cyclosporin
 
 ### Cyclosporine (CSA)
 
-- Alternative to [[tacrolimus]] — side-effect trade-offs in the [[#Side Effects Comparison]] table below
+- Alternative to [[tacrolimus]] — side-effect trade-offs in [[#Side Effects — Which CNI Owns Which]] below
 - Dosing: **2 mg/kg/day PO, given in two divided doses**, adjusted to trough ([[aasld-ast-2025-liver-transplant-graft-complications]], Table 4)
-- Trough targets: 250–300 ng/mL (C0, first 3 months); 100–250 ng/mL (month 3 onward)
+- Trough targets: **250–300 ng/mL for the first 3 months; 100–250 ng/mL from month 3 onward**
 - [[direct-acting-antivirals|Direct antiviral]] interactions: sofosbuvir, glecaprevir, voxilaprevir (increased CSA levels)
 
 ### mTOR Inhibitors (used to reduce or replace the CNI)
@@ -65,18 +65,23 @@ Per [[aasld-ast-2025-liver-transplant-graft-complications]] Rec 28:
 - Corticosteroid avoidance/withdrawal reduces HTN (RR 0.76) and DM (RR 0.81) but these benefits are offset by higher rejection rates and increased serum creatinine (mean difference 0.11 mg/dL)
 - Long-term steroid use should be minimized where possible, but abrupt steroid elimination increases rejection risk
 
-## Side Effects Comparison
+## Side Effects — Which CNI Owns Which
 
-| Side Effect | Tacrolimus | Cyclosporine |
-|---|---|---|
-| Nephrotoxicity | ++ | ++ |
-| Neurotoxicity | ++ | + |
-| De novo diabetes | +++ | + |
-| Hypertension | + | +++ |
-| Dyslipidemia | + | +++ |
-| Hirsutism | — | +++ |
-| Gingival hyperplasia | — | +++ |
-| Electrolyte disorders | + | + |
+[[aasld-ast-2025-liver-transplant-graft-complications]] Table 4 gives one shared adverse-effect list for the class and marks only the agent-specific ones; [[aasld-2012-liver-transplant-long-term]] adds the metabolic attributions. Both are reproduced as stated — the guidelines do **not** grade these severities against each other.
+
+| Side effect | Attribution as stated in the sources |
+|---|---|
+| Nephrotoxicity | **Class effect** — the primary driver of post-LT CKD |
+| Electrolyte disorders | Class effect |
+| Neurotoxicity | Class effect |
+| Anemia | Class effect |
+| Systemic hypertension | **Both** [[tacrolimus\|TAC]] and cyclosporine promote it (AASLD 2012) |
+| Diabetes | **More with TAC** — "corticosteroids and tacrolimus promote diabetes" |
+| Gingival hyperplasia | **Cyclosporine only** |
+| Hirsutism | **Cyclosporine only** |
+| Hyperlipidemia | **Not a CNI effect in these sources — attributed to sirolimus** (see mTOR class effects above) |
+
+> **Corpus gap.** A previous version of this page carried a `+ / ++ / +++` severity grid comparing TAC with cyclosporine across eight effects. No ingested source grades CNI adverse effects that way, and two of its rows contradicted the sources (it put dyslipidemia and hypertension as predominantly cyclosporine). The grid was removed 2026-08-26. A transplant pharmacology reference would be needed to state relative severities.
 
 ## Drug Interactions
 

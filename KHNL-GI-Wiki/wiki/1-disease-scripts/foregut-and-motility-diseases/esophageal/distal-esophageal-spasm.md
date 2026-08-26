@@ -3,7 +3,7 @@ title: "Distal Esophageal Spasm"
 category: disease-script
 tags: [des, spasm, esophageal, motility, dysphagia, chest-pain, chicago-classification]
 created: 2026-05-16
-updated: 2026-08-14
+updated: 2026-08-26
 sources: [chicago-v4-2021-esophageal-dysmotility, aga-2025-flip-esophageal, acg-2020-achalasia, aga-2024-poem-advances]
 ---
 
@@ -15,8 +15,10 @@ sources: [chicago-v4-2021-esophageal-dysmotility, aga-2025-flip-esophageal, acg-
 
 Distal esophageal spasm (DES) is defined by **Chicago Classification v4.0** criteria on [[high-resolution-manometry]]:
 
-- ≥20% premature (spastic) contractions with DCI >450 mmHg·s·cm — **premature = distal latency (DL) <4.5 s** (the operative criterion; see [[chicago-classification-v4]])
-- IRP normal (unlike [[achalasia]] and [[esophagogastric-junction-outflow-obstruction|EGJOO]], where IRP is elevated; manufacturer-specific IRP cutoffs on [[chicago-classification-v4]])
+- Normal median IRP (unlike [[achalasia]] and [[esophagogastric-junction-outflow-obstruction|EGJOO]], where IRP is elevated; manufacturer-specific IRP cutoffs on [[chicago-classification-v4]])
+- **≥20% swallows with a premature/spastic contraction**, where premature = **distal latency (DL) <4.5 s in the setting of DCI ≥450 mmHg·s·cm** — *both* halves are required
+- **DL <4.5 s with DCI <450 does NOT count** — ≥20% such swallows is explicitly **inconclusive** for a manometric diagnosis of spasm (CCv4.0)
+- **A DES pattern alone is of unclear clinical relevance.** CCv4.0 flags DES (like [[hypercontractile-esophagus]] and EGJOO) as a manometric pattern requiring **clinically relevant symptoms and/or supportive testing** (TBE, [[flip-panometry|FLIP]]) before it is called a conclusive diagnosis
 
 **Distinguishes DES from [[hypercontractile-esophagus|hypercontractile esophagus]]:** DES is premature/disordered contraction; hypercontractile esophagus is high-amplitude contraction (DCI >8,000 mmHg·s·cm).
 

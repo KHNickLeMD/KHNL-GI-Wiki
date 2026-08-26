@@ -7,27 +7,42 @@ updated: 2026-08-14
 sources: [acg-2015-colon-ischemia]
 ---
 
+## Contents
+- [[#Assessment]]
+  - [[#Establishing the Diagnosis]]
+  - [[#Severity Assessment]]
+  - [[#Classification / Typing]]
+- [[#Differential Diagnosis]]
+- [[#Diagnostics]]
+- [[#Therapeutics]]
+- [[#See Also]]
+- [[#Sources]]
+
 ## Assessment
 
 ### Establishing the Diagnosis
 
-Colon ischemia (CI) is the most common form of intestinal ischemia, resulting from reduced or absent blood flow to a segment of colon. Unlike [[acute-mesenteric-ischemia|acute mesenteric ischemia]] (AMI) — which involves the small bowel and is a surgical emergency — CI is usually segmental and affects the watershed areas of the colon supplied by the marginal artery of Drummond (splenic flexure, sigmoid/descending junction).
+Colon ischemia (CI) results when blood flow to the colon falls below the level needed to sustain colonocyte metabolic function. Unlike [[acute-mesenteric-ischemia|acute mesenteric ischemia]] (AMI) — which involves the small bowel and drives urgent angiographic evaluation — CI is usually **segmental**. Watershed segments lie between two vascular supplies: the **splenic flexure (Griffith's point)** and the **sigmoid colon (Sudeck's point)**; the rectum is uncommonly involved because of its dual splanchnic + systemic supply. CI causes **9–24% of all hospitalizations for [[acute-lower-gi-bleeding|acute lower GI bleeding]]**, ranking first to third behind [[colorectal-cancer|colorectal malignancy]] in large epidemiologic surveys. [[acg-2015-colon-ischemia]]
 
-**Classic presentation** [[acg-2015-colon-ischemia]]:
+**Classic presentation** *(Strong, very low)* [[acg-2015-colon-ischemia]]:
 
-- Sudden-onset crampy left lower abdominal pain
-- Urgency to defecate
-- Passage of bright red blood or bloody diarrhea within 24 hours
-- Peaks after age 60; females slightly predominant
+- Sudden cramping, **mild** abdominal pain
+- Urgent desire to defecate
+- Passage within 24 h of bright red or maroon blood per rectum, or bloody diarrhea
+- **Hematochezia points to non-IRCI** *(Strong, very low)* — patients with **IRCI more often have pain than bleeding** (only 25–46% of IRCI have rectal bleeding)
+- Occurs at all ages but **rises with age, especially after 49 y**; **women are 57–76%** of large series, with female predominance greatest after age 69
+
+**Epidemiology / course:** annual incidence 15.6–17.7/100,000. Symptoms generally resolve in 2–3 days and the colon heals in 1–2 weeks; severe injury may take up to 6 months to heal (patient usually asymptomatic meanwhile). Cumulative recurrence ≈3% at 1 y, 5% at 2–3 y, 6% at 4 y, 10% at 5–6 y. [[acg-2015-colon-ischemia]]
 
 **Key diagnostic steps:**
 
-1. **CT abdomen/pelvis with IV and oral contrast** — first-line imaging (Strong, Moderate) to assess distribution and phase of colitis and exclude alternatives; findings: segmental colonic wall thickening, thumbprinting (submucosal edema/hemorrhage), pericolonic fat stranding — suggestive but **nonspecific** for CI; also excludes perforation, pneumatosis, or alternative diagnosis
-2. **[[colonoscopy|Colonoscopy]] within 48 hours** — confirms diagnosis; characteristic findings: segmental hemorrhagic edematous mucosa with abrupt transition at watershed zones; mucosal hemorrhage, ulceration, cyanotic/necrotic mucosa in severe cases; **biopsy required** to confirm histopathology (ghost cells — ischemic necrosis — and hemosiderin-laden macrophages)
-3. **CT angiography** — NOT routine; reserve for clinical suspicion of AMI or when CI is right-sided (IRCI) suggesting SMA disease
-4. **Labs**: CBC (leukocytosis), metabolic panel, serum lactate, LDH, CK — none diagnostic alone; elevated lactate/CK suggest transmural or severe disease
+1. **CT abdomen/pelvis with IV and oral contrast** — first imaging modality of choice, to assess **distribution and phase** of colitis *(Strong, moderate)*. Findings that suggest CI: segmental bowel wall thickening, edema, **thumbprinting**, pericolonic fat stranding ± ascites *(Strong, moderate)* — but **nonspecific** (only 36.4% of ED patients with CT colitis had ischemia). Also excludes [[diverticulitis]] and other mimics.
+2. **[[colonoscopy|Colonoscopy]] within 48 h of presentation** — confirms the diagnosis *(Strong, low)*. **Insufflate minimally** *(Conditional, very low)*. Characteristic: segmental hemorrhagic, edematous mucosa with abrupt transition; ulceration; cyanotic/necrotic mucosa when severe. **Biopsy the mucosa except in gangrene** *(Strong, very low)*.
+3. **Multiphasic CT angiography (CTA)** — perform in **suspected IRCI** or **any patient in whom AMI cannot be excluded** *(Strong, moderate)*. If CI may herald AMI (IRCI, severe pain without bleeding, atrial fibrillation) and multiphasic CT is negative for occlusive disease, **consider traditional splanchnic angiography** *(Conditional, low)*.
+4. **Colonic pneumatosis and portomesenteric venous gas on CT or MRI predict transmural infarction** *(Strong, moderate)*.
+5. **Labs**: CBC, metabolic panel, lactate, LDH, CK. Laboratory testing should be used **to help predict severity**, not to make the diagnosis; **decreased hemoglobin, low serum albumin, and metabolic acidosis predict severity**.
 
-> [[colonoscopy|Colonoscopy]] must **not** be performed in the setting of peritoneal signs or pneumoperitoneum — proceed directly to surgical evaluation.
+> [[colonoscopy|Colonoscopy]] must **not** be performed with signs of acute peritonitis or evidence of irreversible ischemic damage (gangrene, pneumatosis) *(Strong, very low)* — proceed to surgical evaluation. In **severe CI**, use CT to map distribution and perform only a **limited colonoscopy halted at the distalmost extent of disease** *(Strong, low)*.
 
 ### Severity Assessment
 
@@ -41,20 +56,51 @@ Severity classification and management (Table 6, ACG 2015) — the moderate/seve
 
 **High-risk patterns:**
 
-- **IRCI (isolated right colon ischemia)**: caused by SMA compromise or shock states; associated with higher in-hospital mortality (25–75%); consider CT angiography for SMA evaluation; surgery often required
-- **Pancolonic ischemia**: rare; ~75% require surgery; associated with sepsis and multiorgan failure; highest mortality
+- **IRCI (isolated right colon ischemia)** — SMA compromise or shock states; **30-day mortality 20.3–22.5% vs 9.0–11.9%** for non-IRCI; **surgical intervention 54.9% vs 10.9%**; unfavorable outcome (death and/or colectomy) **33.6–40.9%**. Severe chronic kidney disease is ~3× as common in IRCI. Perform CTA for SMA evaluation.
+- **Pancolonic ischemia** (7.3% of cases) — **similarly poor prognosis to IRCI**: mortality **21.7%**; sepsis was the etiology in 70%. IRCI + pancolonic together accounted for **61% of episodes requiring surgery** (HR 14.6 for surgery or death).
+
+**Perioperative mortality — ICMR (Ischemic Colitis Mortality Risk) score.** When considering mortality risk for a patient going to surgery for acute CI, the ICMR factors should be used (best-practice summary statement; GRADE not applicable). **One point each** (Table 11): [[acg-2015-colon-ischemia]]
+
+- Low-output heart failure (e.g. cardiac ejection fraction <20% on echocardiogram)
+- Acute kidney injury
+- Subtotal or total colectomy
+- Lactate >2.5 mmol/L
+- Pre- and intraoperative catecholamine administration
+
+| ICMR points | Mortality |
+|---|---|
+| 0 | 10.5% |
+| 1 | 28.9% |
+| 2 | 37.1% |
+| 3 | 50.0% |
+| 4 | 76.7% |
+| 5 | 100.0% |
+
+- On external validation, only **elevated preoperative lactate**, **renal failure requiring hemodialysis**, and **intraoperative vasopressor requirement** independently predicted death; the total ICMR score itself remained predictive (OR 2.11, 95% CI 1.44–3.22).
+- Context: overall, **80.3% of CI is managed medically (6.2% mortality)** and **19.6% surgically (39.3% mortality)**; post-surgical mortality across series ranges **37–47%**.
 
 ### Classification / Typing
 
+**By etiology (infrequently used clinically, but it changes therapy):** [[acg-2015-colon-ischemia]]
+
+| Type | Definition | Implication |
+|---|---|---|
+| **Type I** | No specific cause identified — localized nonocclusive ischemia, likely small-vessel disease (most cases) | Broad supportive treatment |
+| **Type II** | Etiology identified — most often systemic hypotension, decreased cardiac output, or aortic surgery | Therapy targeted at the underlying cause |
+
+**By pattern / reversibility:** [[acg-2015-colon-ischemia]]
+
 | Type | Characteristics |
 |---|---|
-| **Reversible ischemic colopathy** | Mucosal and submucosal disease; resolves within 2 weeks; most common (~80%) |
-| **Transient segmental ischemic colitis** | Mucosal disease that heals; may lead to stricture in 5–10% |
-| **Chronic segmental ischemic colitis** | Persistent symptoms >3 weeks; risk of perforation; may require surgery |
-| **Ischemic stricture** | Fibrotic narrowing after healing; occurs in 5–10%; may cause obstruction |
-| **Ischemic gangrene** | Transmural necrosis with perforation risk; surgical emergency |
-| **Universal/pancolonic CI** | Fulminant; most require colectomy |
-| **IRCI** | Right colon isolated; SMA/hemodynamic etiology; high mortality |
+| **Reversible ischemic colopathy** | Subepithelial hemorrhage/edema that resorbs; **>50% of cases are reversible** |
+| **Transient segmental ischemic colitis** | Mucosal disease that heals; may leave a stricture |
+| **Chronic segmental ischemic colitis** | **>3 months** of typical symptoms with biopsy confirmation; recurrent fever/leukocytosis/septicemia signal a persisting portal of bacterial entry; resection of the unhealed segment is curative |
+| **Ischemic stricture** | Muscularis propria replaced by fibrous tissue in **3.3–9.4%** of cases (**14.3%** with moderate CI); **most are asymptomatic** — symptomatic strictures are rare |
+| **Gangrenous colitis** | Transmural infarction — increasing tenderness, guarding, rebound, fever, ileus; **9.9%** of cases; surgical emergency |
+| **Universal fulminant colitis** | Toxic colitis with peritonitis and rapid progression; **2.5%** of cases |
+| **IRCI** | Right colon isolated; SMA/hemodynamic etiology; high mortality (above) |
+
+- Rare: **anal passage of a colonic "cast"** (25–120 cm, typically 2–4 weeks after the insult, always left-sided) — full-thickness casts require **urgent surgery**.
 
 ---
 

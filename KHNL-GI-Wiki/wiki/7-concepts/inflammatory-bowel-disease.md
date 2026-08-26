@@ -3,7 +3,7 @@ title: "Inflammatory Bowel Disease (IBD) — Overview"
 category: concept
 tags: [ibd, crohns, ulcerative-colitis, biologic, immunotherapy]
 created: 2026-05-16
-updated: 2026-08-14
+updated: 2026-08-26
 sources: [aga-2026-inpatient-ibd]
 ---
 
@@ -11,22 +11,24 @@ sources: [aga-2026-inpatient-ibd]
 
 ## Overview
 
-Inflammatory bowel disease (IBD) comprises two major chronic immune-mediated disorders of the GI tract:
+Inflammatory bowel disease (IBD) comprises two major chronic immune-mediated disorders of the GI tract: [[crohns-disease]] and [[ulcerative-colitis]].
 
-| Feature | [[crohns-disease]] | [[ulcerative-colitis]] |
-|---|---|---|
-| Distribution | Any GI tract (mouth–anus); transmural; skip lesions | Colon only; continuous; mucosal |
-| Histology | Transmural inflammation, granulomas | Mucosal/submucosal inflammation, cryptitis |
-| Smoking | Worsens Crohn's | Protective for UC (slightly) |
-| Surgery | Non-curative; strictureplasty/resection | Colectomy = curative |
-| Cancer risk | Small bowel adenocarcinoma; colon (if colonic) | [[colorectal-cancer\|Colorectal cancer]] (extent/duration-dependent) |
+**Distinguishing the two lives in one place — [[uc-vs-crohns-comparison]].** That page carries the guideline-sourced distribution/depth/granuloma/smoking/surgery comparison (ACG 2025 UC and ACG 2025 Crohn's) and flags which classical teachings the guidelines do *not* assert. Do not duplicate it here.
 
-## Common Management Themes
+## Where Each Topic Lives
 
-- **Biologic therapy:** Anti-TNF (infliximab, adalimumab), vedolizumab, IL-12/23 inhibitors (ustekinumab), IL-23 inhibitors (risankizumab, guselkumab, mirikizumab), JAK inhibitors (upadacitinib, tofacitinib), S1P modulators (ozanimod, etrasimod)
-- **Preventive care:** See [[ibd-preventive-care]] — vaccinations, cancer screening, osteoporosis, mental health
-- **Therapeutic drug monitoring (TDM):** Trough levels + antibody levels guide optimization
-- **DILI in IBD:** Thiopurines (azathioprine, 6-MP) and methotrexate can cause hepatotoxicity — see [[drug-induced-liver-injury]]
+| Topic | Page |
+|---|---|
+| Disease-specific diagnosis and therapy | [[crohns-disease]], [[ulcerative-colitis]] |
+| UC vs CD distinguishing features | [[uc-vs-crohns-comparison]] |
+| Endoscopic activity scoring (MES, UCEIS, SES-CD, Rutgeerts) | [[ibd-endoscopic-scoring]] |
+| Vaccination, cancer screening, bone/mental health | [[ibd-preventive-care]] |
+| Cancer screening in IBD with a prior/active malignancy | [[ibd-in-malignancy]] |
+| Diet and nutritional therapy | [[nutrition-in-ibd]] |
+| Pain management | [[ibd-pain-management]] |
+| Transmural monitoring | [[intestinal-ultrasound]] |
+| Pouch disorders | [[pouchitis]] |
+| Thiopurine / methotrexate hepatotoxicity | [[drug-induced-liver-injury]] |
 
 ## Inpatient Management of Hospitalized IBD
 

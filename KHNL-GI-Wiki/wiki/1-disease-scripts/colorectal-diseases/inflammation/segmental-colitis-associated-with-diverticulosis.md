@@ -3,11 +3,9 @@ title: "Segmental Colitis Associated with Diverticulosis (SCAD)"
 category: disease-script
 tags: [scad, diverticular-disease, colitis, colorectal]
 created: 2026-07-23
-updated: 2026-08-08
+updated: 2026-08-26
 sources: [acg-2026-diverticulitis]
 ---
-
-# Segmental Colitis Associated with Diverticulosis (SCAD)
 
 Chronic inflammatory condition affecting colonic segments that bear diverticula, **typically sparing the rectum**. Inflammation is usually centered on and around the diverticula.
 

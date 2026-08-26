@@ -3,7 +3,7 @@ title: "USMSTF 2017: Recommendations on Surveillance and Management of Biallelic
 category: source
 tags: [bmmrd, cmmrd, mismatch-repair, hereditary-crc, colorectal-cancer, brain-tumor, lymphoma, pediatric-cancer, genetic-testing, mmr, lynch-syndrome, msi]
 created: 2026-05-24
-updated: 2026-05-24
+updated: 2026-08-26
 sources: []
 ---
 
@@ -56,7 +56,13 @@ The guideline acknowledges that evidence is exclusively from case series, kindre
 | Leukemia | 10–40% | 8 (2–21) |
 | Endometrial cancer | <10% | 19–44 |
 | Urinary tract cancer | <10% | 10–22 |
-| Other (neuroblastoma, Wilms, rhabdomyosarcoma, osteosarcoma, breast, melanoma, ovarian neuroectodermal tumor, pilomatricoma, hepatic adenoma) | <10 each | 1–35 |
+| Other sites (neuroblastoma, Wilms, rhabdomyosarcoma, osteosarcoma, breast, melanoma, ovarian neuroectodermal tumor, pilomatricoma, hepatic adenoma) | <10 | 1–35 |
+
+*Table 1 footnotes — these qualify the numbers above and change how they are read:*
+- *Small-bowel and colorectal **adenomas**: low- and high-grade, with probable rapid progression.*
+- ***The 70% CRC penetrance is conditioned on management** — patients undergo subtotal colectomy with ileal–rectal anastomosis, resulting in a decreased risk of colorectal cancer. It is not the untreated natural-history risk.*
+- *High-grade brain tumors = high-grade glioma, medulloblastoma, and primitive neuroectodermal tumors.*
+- *"Other sites" = **fewer than 5 reported cases of each** of the listed neoplasms.*
 
 **Clinical Clues to Suspect BMMRD (Table 2)**
 

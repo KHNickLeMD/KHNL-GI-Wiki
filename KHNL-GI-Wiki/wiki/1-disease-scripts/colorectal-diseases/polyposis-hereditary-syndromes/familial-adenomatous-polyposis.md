@@ -3,7 +3,7 @@ title: "Familial Adenomatous Polyposis"
 category: disease-script
 tags: [fap, apc, afap, map, mutyh, hereditary-crc, polyposis, duodenal-adenoma, desmoid, spigelman, genetic-testing, colorectal-cancer]
 created: 2026-05-19
-updated: 2026-08-14
+updated: 2026-08-26
 sources: [acg-2015-hereditary-gi-cancer, asge-2020-fap]
 ---
 
@@ -18,7 +18,7 @@ Familial adenomatous polyposis (FAP) and its related syndromes — attenuated FA
 - Personal history of ≥10 cumulative colorectal adenomas
 - Family history of one of the adenomatous polyposis syndromes
 - Presence of FAP-type extracolonic manifestations: [[nonampullary-duodenal-adenoma|duodenal]]/[[ampullary-adenoma|ampullary adenomas]], desmoid tumors (abdominal > peripheral), papillary thyroid cancer, CHRPE (congenital hypertrophy of the retinal pigment epithelium), epidermal cysts, osteomas (Gardner syndrome)
-- ASGE defines **clinical polyposis warranting testing** as **≥10 adenomas on a single endoscopy** *and* **≥20 adenomas over a lifetime**; suspected FAP relatives are tested at 10–12 y, suspected AFAP/MAP at 18–20 y [[asge-2020-fap]]
+- **MUTYH testing specifically** should be considered if **any one** of the following is met [[asge-2020-fap]]: (1) **≥20 colorectal adenomas over multiple colonoscopies**; (2) known family history of MAP; (3) **≥10 adenomas on a single colonoscopy**; or (4) meets [[serrated-polyposis-syndrome|serrated polyposis syndrome]] criteria **with at least some adenomas** on the exam. Genetic testing of children for MAP is postponed to adulthood (later disease onset; screening begins in adulthood)
 
 **Germline testing**: APC gene sequencing + deletion/duplication analysis; if APC-negative and polyp count <100, test MUTYH (both alleles) [[acg-2015-hereditary-gi-cancer]].
 
@@ -39,8 +39,8 @@ Familial adenomatous polyposis (FAP) and its related syndromes — attenuated FA
 
 - <100 adenomas at presentation; autosomal dominant; APC mutations at the far proximal (5') or far distal (3') end of gene, or certain exon 9 locations
 - Average ~25 polyps; more proximal colonic distribution; polyp number highly variable
-- CRC risk ~69%; average age of CRC diagnosis 54–58 years (range 29–81)
-- Onset of examination may be delayed to late teens/mid-20s; [[colonoscopy]] every 1–2 years from age 18–20
+- CRC risk ~69%; average age of CRC diagnosis 54–58 years (range 29–81) — roughly 10–15 years later than classic FAP
+- Adenomas develop in nearly all carriers (111 of 120 gene carriers by mean age 41); **median 25 adenomas, range 0–470** — polyp formation is highly variable even within one mutation [[asge-2020-fap]]
 
 **[[mutyh-associated-polyposis|MUTYH-Associated Polyposis]] (MAP)**:
 
@@ -48,8 +48,9 @@ Familial adenomatous polyposis (FAP) and its related syndromes — attenuated FA
 - MUTYH is a base excision repair gene; failure → G:C→T:A transversions in APC and KRAS
 - Phenotype: 20–99 adenomas (rarely >500); average age of CRC diagnosis 48–50; CRC present in ~60% at MAP diagnosis
 - Two predominant MUTYH mutations in Western populations: Y179C (formerly Y165C) and G396D (formerly G382D); together account for >80% of MAP mutations in European ancestry
-- Monoallelic MUTYH carriers: slightly elevated CRC risk (~1.5–2-fold above general population); no formal surveillance consensus; consider [[colonoscopy]] from 5 years before earliest family CRC
-- MAP CRCs are predominantly distal; multiple hyperplastic and/or sessile serrated adenomas may co-occur
+- Biallelic MAP lifetime CRC risk approaches **80%**; risk is **28-fold** the general population [[asge-2020-fap]]
+- **Monoallelic (heterozygous) MUTYH carriers:** minimal or no additional risk over biallelic-negative individuals, and [[acg-2015-hereditary-gi-cancer|ACG 2015]] states there is **no consensus** that monoallelic mutations warrant increased screening. One cohort did find increased CRC risk in monoallelic carriers **who also had an FDR with CRC** — for that subgroup [[asge-2020-fap|ASGE 2020]] Table 3 advises **colonoscopy from age 40, or 10 years before the FDR's age at CRC diagnosis, every 5 years** *(low quality)*. For a monoallelic carrier with **no** family history of CRC, ASGE lists the appropriate age and interval as **unknown**
+- CRC location in MAP is unsettled: [[acg-2015-hereditary-gi-cancer|ACG 2015]] notes it has been **predominantly distal in some studies and proximal in others**, while the newer [[asge-2020-fap|ASGE 2020]] reports a **right-sided preponderance** for both polyps and cancer. Multiple hyperplastic and/or sessile serrated adenomas may co-occur
 - Polymerase proofreading-associated polyposis (POLE/POLD1): newly described syndrome; oligo-adenomatous polyposis; autosomal dominant; high penetrance; POLD1 mutation associated with endometrial and possibly brain tumors in women
 
 ### Cumulative Cancer Risks
@@ -77,18 +78,22 @@ Familial adenomatous polyposis (FAP) and its related syndromes — attenuated FA
 
 ### Colonoscopic Evaluation
 
-**FAP (classic)**:
+**ACG Rec 8** *(Strong, moderate)*: in individuals at risk for or affected with the classic adenomatous polyposis syndromes, screen by **annual colonoscopy or flexible sigmoidoscopy beginning at puberty**; in AFAP or MAP families, surveillance must be by **colonoscopy** (sigmoidoscopy is inadequate — these patients may have no rectal polyps) [[acg-2015-hereditary-gi-cancer]].
 
-- Annual **sigmoidoscopy or colonoscopy** beginning at **puberty** (age 10–15) for classic FAP (Strong/Moderate) [[acg-2015-hereditary-gi-cancer]]
-- Colonoscopy preferred if polyps are found on sigmoidoscopy; flexible sigmoidoscopy is reasonable initially for classic FAP families
+| Condition | Start age — [[acg-2015-hereditary-gi-cancer\|ACG 2015]] Table 10 | Start age — [[asge-2020-fap\|ASGE 2020]] Table 3 | Interval | Exam |
+|---|---|---|---|---|
+| Classic FAP | 10–15 y | 10–12 y | 1–2 y | Flexible sigmoidoscopy **or** colonoscopy; colonoscopy once polyps found |
+| Attenuated FAP | 18–20 y | 18–20 y | 1–2 y | Colonoscopy |
+| [[mutyh-associated-polyposis\|MAP]] | **25–30 y** | **18–20 y** | 1–2 y | Colonoscopy |
+| After proctocolectomy + IPAA | — | 1 y after surgery | 1–2 y (**6 mo** if advanced adenoma incl. HGD) | Pouch endoscopy |
+| After subtotal colectomy + IRA | — | 6 mo after surgery | 6 mo–1 y | Sigmoidoscopy |
+
+> **Contradiction (surfaced):** the two guidelines disagree on when MAP surveillance starts — ACG 2015 Table 10 says **25–30**, ASGE 2020 Table 3 says **18–20**. Same tier, so the **newer ASGE 2020 (18–20 y)** is what this page asserts.
+
+- If no polyps on the initial sigmoidoscopy, re-screen at **2-year intervals**; a child with rectosigmoid polyps gets a full colonoscopy to grade severity and resect large polyps. In a mutation carrier with a negative initial exam, repeat colonoscopy in the **late teenage years and every 2 years to age 40** [[asge-2020-fap]]
 - Record number, size, and distribution of polyps; biopsy several representative polyps
-- Colonic adenocarcinoma is inevitable unless the colon is removed; colon cancer has been reported as early as age 9 (though malignancy before adolescence is very unusual)
-
-**AFAP and MAP**:
-
-- Colonoscopy from age **18–20**; annually once polyps emerge; every 1–2 years at baseline (Strong/Moderate)
-- Onset of colonoscopy for AFAP may be delayed to late teens/mid-20s
-- MAP managed like AFAP for colonoscopic surveillance
+- Colonic adenocarcinoma is inevitable unless the colon is removed. Polyps follow the adenoma–carcinoma sequence over **~15–20 years**; CRC risk begins in the second decade — **no CRC before age 10, 0.2% by age 15, 1.3% by age 20**; a 26-registry survey found only 1 invasive cancer before age 17
+- Once the polyp burden is no longer endoscopically manageable, colectomy is recommended. Routine **chromoendoscopy is not recommended** for colorectal surveillance in this population
 
 ### Upper GI Surveillance (Duodenal / Gastric)
 
@@ -165,19 +170,23 @@ Familial adenomatous polyposis (FAP) and its related syndromes — attenuated FA
 
 ### Surgical Management
 
-**Absolute indications for immediate colectomy** [[acg-2015-hereditary-gi-cancer]] (Strong/Low):
+**When to operate — [[acg-2015-hereditary-gi-cancer]] Rec 9** *(Strong recommendation, low quality)*; same criteria for FAP, AFAP, and MAP. The absolute/relative split is the decision — an absolute indication means immediate colectomy, a relative one means weigh it:
 
-- Documented or suspected cancer
-- Significant symptoms attributable to polyposis
-- Multiple adenomas >6 mm that cannot be adequately surveyed
-- Significant increase in adenoma number between exams
-- High-grade dysplasia
-- Inability to adequately survey the colon because of multiple diminutive polyps
+| | Indication |
+|---|---|
+| **Absolute** (immediate colectomy) | Documented or suspected cancer · significant symptoms |
+| **Relative** | Multiple adenomas **>6 mm** · a significant **increase in adenoma number** between exams · an adenoma with **high-grade dysplasia** · inability to adequately survey the colon because of multiple diminutive polyps |
 
 **Surgical options for classic FAP**:
 
-- **Colectomy with ileorectal anastomosis (IRA)**: single-stage; less morbidity than IPAA; residual rectal cancer risk remains (cumulative rectal cancer risk 20 years after IRA ~12.1%); requires yearly proctoscopy post-op
-- **Proctocolectomy with IPAA**: preferred for severe rectal polyposis (>20 rectal adenomas), polyps >3 cm, HGD in rectum, or >1,000 colonic adenomas; also indicated if patient declines surveillance
+**Choosing IRA vs IPAA is a polyp-count decision** [[acg-2015-hereditary-gi-cancer]]:
+
+| Procedure | Use when | Trade-off |
+|---|---|---|
+| **Colectomy + ileorectal anastomosis (IRA)** | **<20 rectal** adenomas **and <1,000 colonic** adenomas | Single stage, slightly less morbidity; residual rectal cancer risk (**cumulative rectal cancer 12.1% at 20 y** after IRA); mandatory yearly proctoscopy |
+| **Proctocolectomy + ileal pouch–anal anastomosis (IPAA)** | Severe/profuse adenomas: **>20 rectal** adenomas or **>1,000 colonic** adenomas | Adenomas and cancers still occur in the **anal transition zone and pouch** → lifelong surveillance; some loss of fertility in women and sexual function in men |
+
+- Both carry increased bowel frequency and incontinence. A Finnish registry comparison found **improved long-term survival with IPAA** and no difference in short-term outcomes — likely reflecting the long-term rectal cancer risk after IRA [[asge-2020-fap]]
 - APC mutation location may guide surgical choice — mutations in the mutation cluster region correlate with more severe rectal polyposis and may predict future IRA-to-IPAA conversion
 - Laparoscopic approach now commonly used for both procedures
 

@@ -3,7 +3,7 @@ title: "Alcohol-Associated Liver Disease"
 category: disease-script
 tags: [ald, alcoholic-hepatitis, cirrhosis, liver, hpb, aud, corticosteroids, liver-transplant, lille-score, meld, mdf, nac, pentoxifylline, transplant-candidate-evaluation, post-transplant, recurrence, naltrexone, acamprosate, baclofen, peth, stopah]
 created: 2026-05-07
-updated: 2026-08-14
+updated: 2026-08-26
 sources: [acg-2024-ald, acg-2017-liver-chemistries, aasld-ast-2025-liver-transplant-candidate-evaluation, aasld-ast-2025-liver-transplant-graft-complications, aasld-2020-ald, acg-2019-hereditary-hemochromatosis]
 ---
 
@@ -59,31 +59,35 @@ sources: [acg-2024-ald, acg-2017-liver-chemistries, aasld-ast-2025-liver-transpl
 
 ### Severity Assessment
 
-**Maddrey Discriminant Function (MDF)** [[aasld-2020-ald]]:
+**MELD is the operative score — MELD >20 defines severe AH** [[acg-2024-ald]] *(MELD/MELD-Na formula and Child-Turcotte-Pugh point table live on [[cirrhosis]])*:
+
+- **Severe AH = MELD >20** → treat with corticosteroids if no contraindication (ACG 2024 **Rec 17**, *strong, moderate*). Use the **original MELD**, not MELD-Na — the recommendations were derived on original MELD
+- **Moderate AH = MELD ≤20** (ACG 2024 Key concept 21) — significant morbidity and mortality but no steroid indication
+- **MELD 25–39 derives maximum benefit** from corticosteroids; **weigh risks carefully if MELD >50** (Key concept 26)
+- MELD >20 carries ~20% 90-day mortality
+- MELD is the best available score for short-term mortality in AH (ROC >0.77); MELD 3.0 performs equivalently but needs further validation
+- Continuous scale: trajectory (rising vs. declining MELD) is also prognostically important
+- MELD + Lille combination: MELD ≥21 AND Lille ≥0.45 = 1.9-fold higher risk of death at 2 months vs. MELD 21 and Lille 0.16 (23.7% vs. 12.5%) [[aasld-2020-ald]]
+
+**Maddrey Discriminant Function (MDF) — historical, now second-line:**
 
 - MDF = 4.6 × (PT_patient − PT_control) + total bilirubin (mg/dL)
-- **MDF ≥32 = severe AH** → assess for corticosteroid eligibility (primary threshold for initiating steroids)
-- MDF <32 = mild-moderate AH (supportive care only)
-- *Note: MDF has decades of experience in AH and is the key inclusion criterion in most AH clinical trials. GAHS ≥9 can further refine which MDF ≥32 patients benefit from steroids (validated in UK only).*
-
-**MELD score** [[aasld-2020-ald]] *(MELD/MELD-Na formula and Child-Turcotte-Pugh point table live on [[cirrhosis]])*:
-
-- **MELD ≥20 should prompt consideration of steroid treatment** (formal MELD threshold not established in trials — most trials use MDF ≥32 as entry criterion)
-- Continuous scale: MELD ≥21 predicts poor short-term survival; trajectory (rising vs. declining MELD) is also prognostically important
-- MELD + Lille combination: MELD ≥21 AND Lille ≥0.45 = 1.9-fold higher risk of death at 2 months vs. MELD 21 and Lille 0.16 (23.7% vs. 12.5%)
+- **MDF ≥32** predicts ~20–50% 30-day mortality; historically the steroid-eligibility threshold, and still the entry criterion in most AH trials [[aasld-2020-ald]]
+- ⚠ **What changed:** in the STOPAH post-hoc analysis (n = 1,068), mDF was **inferior** (ROC 0.67) to MELD, GAHS, and ABIC (ROC 0.704–0.726) for 28- and 90-day mortality, and ACG 2024 accordingly recommends on MELD, not mDF [[acg-2024-ald]]. Readers carrying "MDF ≥32" in their heads should switch to MELD >20
+- All these scores rule *out* severe disease well (86–100%) but have **low positive predictive value (17–50%)**
 
 **Additional scoring systems** [[aasld-2020-ald]]:
 
 - **ABIC score** (age, bilirubin, INR, creatinine): three-tiered stratification; low risk <6.71; uncertain threshold for initiating steroids
-- **GAHS** (Glasgow AH Score): ≥9 with MDF ≥32 initiates corticosteroids; improves specificity; not validated outside UK
+- **GAHS** (Glasgow AH Score): ≥9 with MDF ≥32 initiates corticosteroids; improves specificity; not validated outside UK [[aasld-2020-ald]]
 - ⚠ **Decision gap — the point/weighting formulas for ABIC and GAHS are not in any ingested source.** [[aasld-2020-ald]] names the variables and the cutoffs but does not reproduce the coefficients, so neither score can be *computed* from this page. Use an external calculator, or ingest the original ABIC and GAHS derivation papers — do not reconstruct the formulas from memory.
 
-**Lille score** (calculate at day 7 of prednisolone) [[aasld-2020-ald]]:
+**Lille score** — assess response at **day 7 or day 4** of prednisolone (ACG 2024 Rec 27) [[acg-2024-ald]]:
 
 - Incorporates age, creatinine, albumin, PT, bilirubin at day 0 and day 7
-- **Lille ≥0.45 = non-responder** → discontinue prednisolone; consider early LT referral or palliative care
-- **Lille <0.45 = responder** → continue prednisolone for 28 days total
-- *Day-4 Lille score has been validated and may reduce unnecessary steroid exposure; requires additional validation before replacing day-7 assessment*
+- **Lille >0.45 = non-responder** → discontinue prednisolone
+- **Lille ≤0.45 = responder** → continue prednisolone to 28 days total
+- Day-4 Lille is as accurate as day-7 for predicting outcome, and spares 3 days of unnecessary steroid exposure in non-responders
 
 ---
 
@@ -178,7 +182,7 @@ ALD risk is influenced by genetic variants in lipid metabolism and alcohol oxida
 
 ## Therapeutics
 
-### 1. Severe Alcoholic Hepatitis (MDF ≥32 or MELD ≥20)
+### 1. Severe Alcoholic Hepatitis (MELD >20; historically MDF ≥32)
 
 ![[ald-2024-aah-management-algorithm-12.png|700x475]]
 *Figure 3 — Algorithmic approach toward diagnosis and management of alcohol-associated hepatitis. ([[acg-2024-ald]])*
@@ -209,14 +213,11 @@ ALD risk is influenced by genetic variants in lipid metabolism and alcohol oxida
 - AASLD 2020 GS-19: *"Pentoxifylline is no longer recommended in the treatment of AH."*
 - STOPAH trial: no survival benefit at any time point. IPD meta-analysis of individual patient data and two French rescue trials all failed to demonstrate benefit. *This is a major change from the 2010 AASLD guideline, which recommended pentoxifylline.*
 
-**Lille score at day 7:**
+**Assess response with the [[#Severity Assessment|Lille score]] at day 4 or 7.** Non-response (>0.45) → stop prednisolone; consider early LT referral or palliative care. **Four or more organ failures + steroid non-response + ineligible for early LT → engage palliative care** (ACG 2024 Rec 28). [[acg-2024-ald]]
 
-- ≥0.45: non-response → **stop prednisolone**; consider early LT referral or palliative care
-- <0.45: response → complete 28-day course
+### 2. Moderate AH (MELD ≤20)
 
-### 2. Mild-Moderate AH (MELD <20 or MDF <32)
-
-- No benefit from corticosteroids in mild-moderate AH
+- No corticosteroid indication below MELD >20 — but ACG 2024 flags moderate AH as carrying **significant morbidity and mortality**, and as an under-studied phenotype (Key concept 21); do not read "moderate" as benign
 - Supportive care: alcohol abstinence, nutrition, management of complications
 - AUD treatment: initiate early
 

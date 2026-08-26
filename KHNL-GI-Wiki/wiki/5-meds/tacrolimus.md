@@ -3,7 +3,7 @@ title: "Tacrolimus"
 category: med
 tags: [tacrolimus, fk506, calcineurin-inhibitor, immunosuppression, transplant, liver-transplant, nephrotoxicity, diabetes, extended-release]
 created: 2026-05-19
-updated: 2026-08-25
+updated: 2026-08-26
 sources: [aasld-2012-liver-transplant-long-term, aasld-ast-2025-liver-transplant-graft-complications]
 ---
 
@@ -38,13 +38,13 @@ Per [[aasld-ast-2025-liver-transplant-graft-complications]] (Table 4):
 ## Side Effects
 
 - **Nephrotoxicity**: Leading cause of post-LT CKD; contributes to ESRD in 8–10% at 10 years
-- **Neurotoxicity**: Tremor, headache, peripheral neuropathy, posterior reversible encephalopathy syndrome (PRES)
-- **Diabetes mellitus**: De novo DM in 10–51% (higher than cyclosporine); basiliximab induction with delayed TAC start reduces de novo DM (Hashim 2020: 10.6% vs. 4.7%, p=0.001)
-- **Hypertension**: Less than cyclosporine
-- **Hyperlipidemia**: Less than cyclosporine
-- **Alopecia**, **GI symptoms**
+- **Diabetes mellitus**: TAC (with corticosteroids) is a named promoter of post-LT diabetes, **more so than cyclosporine**; de novo DM in 10–51%. Basiliximab induction with delayed TAC start reduces it (10.6% → 4.7%, *P*=0.001)
+- **Systemic hypertension**: promoted by TAC — and by cyclosporine; the sources do not rank them
+- **Class effects shared with cyclosporine**: neurotoxicity, electrolyte disorders, anemia
 
-*Head-to-head TAC vs cyclosporine side-effect comparison lives on [[calcineurin-inhibitors]].*
+> **Corpus gap.** The ingested guidelines list TAC's adverse effects only as the class list above. Specific neurologic manifestations (tremor, PRES, peripheral neuropathy), alopecia, and a TAC-vs-cyclosporine hyperlipidemia/hypertension ranking were removed 2026-08-26 as unsourced — AASLD 2012 attributes **hyperlipidemia to sirolimus**, not to either CNI. FDA labeling would be needed to restore the neurotoxicity detail.
+
+*Which CNI owns which adverse effect lives on [[calcineurin-inhibitors]].*
 
 ## Drug Interactions
 
@@ -57,15 +57,26 @@ TAC is a **CYP3A substrate**; the full class interaction list (shared with cyclo
 
 ## Monitoring
 
-- Trough levels with every dose change and periodically in stable patients
-- Renal function (creatinine, GFR) and urine microalbumin every 3–6 months
-- Fasting glucose and HbA1c annually (de novo DM surveillance)
-- Blood pressure monitoring
+Intervals below are [[aasld-2012-liver-transplant-long-term]] (Recs 27–28, Table 8) — TAC's two signature toxicities, kidney and glucose, drive the schedule:
+
+| What | Interval |
+|---|---|
+| TAC trough level | With every dose change; periodically once stable |
+| **Renal function** — GFR by an **estimating equation** (Rec 27) | Ongoing surveillance for CKD |
+| **Urine protein-to-creatinine ratio**, spot specimen (Rec 28) | **At least once yearly** |
+| **Fasting plasma glucose** | **Every 3 months in the first year**, then annually |
+| **HbA1c** | **Every 3 months** — intervene at **≥7.0%** |
+| Microalbuminuria; retinopathy screening (if DM) | Annually |
+
+- **CNI reduction or withdrawal is the appropriate response to CKD** developing after LT (Rec 29, grade 1 level A) — see [[calcineurin-inhibitors]] for the minimization ladder.
 
 ## Special Populations
 
-- **Pregnancy**: Generally acceptable; associated with prematurity and IUGR; monitor troughs frequently (levels unpredictable in pregnancy); most preferred IS in pregnancy ([[aasld-2012-liver-transplant-long-term]], Rec 48)
-- **Cyclosporine → TAC conversion**: Indicated for poor glycemic control on CSA, renal dysfunction, or inadequate rejection control; TAC superior for rejection prevention
+- **Pregnancy** ([[aasld-2012-liver-transplant-long-term]]):
+  - **TAC monotherapy is the ideal regimen**, maintained at **therapeutic levels throughout** pregnancy; cyclosporine, azathioprine, and prednisone may also be used if necessary (Rec 48, grade 1 level B).
+  - **Monitoring schedule (Rec 49, grade 1 level B):** allograft function and CNI levels **every 4 weeks until 32 weeks → every 2 weeks → weekly until delivery.**
+  - Outcomes: higher incidence of **prematurity (29%–50%)** and **low birth weight (17%–57%)**.
+- **TAC → cyclosporine conversion** for **poor glycemic control**: consideration can be given to converting *from tacrolimus to cyclosporine* (Rec 34), since TAC is the more diabetogenic CNI. Poor control also prompts steroid discontinuation. *(Note the direction — the conversion runs TAC → CSA, not the reverse.)*
 
 ## See Also
 

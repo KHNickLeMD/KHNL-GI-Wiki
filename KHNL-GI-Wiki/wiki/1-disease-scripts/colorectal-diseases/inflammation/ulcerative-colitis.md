@@ -3,11 +3,9 @@ title: "Ulcerative Colitis"
 category: disease-script
 tags: [uc, ulcerative-colitis, ibd, 5-asa, biologics, anti-tnf, vedolizumab, asuc, pancolitis, proctitis]
 created: 2026-05-07
-updated: 2026-08-14
+updated: 2026-08-26
 sources: [acg-2025-uc, aga-2024-uc-pharm, aga-2024-pouchitis, aga-2023-biomarkers-uc, acg-2019-uc, asge-2015-scenic-ibd-dysplasia, asge-2015-ibd, aga-2026-inpatient-ibd, aga-2024-intestinal-ultrasound, aga-2024-diet-nutrition-ibd, aga-2024-ibd-malignancy, aga-2024-pregnancy-gi-liver]
 ---
-
-# Ulcerative Colitis
 
 Idiopathic chronic inflammatory disorder of the large intestine. Continuous mucosal inflammation starting in rectum and extending proximally. Relapsing-remitting course; goal of therapy is sustained steroid-free endoscopic remission.
 
@@ -254,7 +252,7 @@ Idiopathic chronic inflammatory disorder of the large intestine. Continuous muco
 
 1. **Exclude C. difficile** (stool toxin PCR)
 2. **Flexible sigmoidoscopy within 24–72h** (CMV biopsies; endoscopic severity)
-3. **Assess for [[toxic-megacolon|toxic megacolon]]** (colon >6cm on imaging, systemic toxicity)
+3. **Assess every ASUC patient for [[toxic-megacolon|toxic megacolon]]** (Rec 49) — on plain film, **transverse colon diameter >5.5 cm** with systemic toxicity predicts a worse outcome
 4. **Supportive care:**
    - DVT prophylaxis (pharmacologic)
    - Avoid NSAIDs, narcotics, anticholinergics
@@ -294,7 +292,7 @@ Idiopathic chronic inflammatory disorder of the large intestine. Continuous muco
 
 ---
 
-## Monitoring
+### Monitoring
 
 **Standard monitoring:**
 
@@ -324,7 +322,7 @@ Idiopathic chronic inflammatory disorder of the large intestine. Continuous muco
 
 ---
 
-## Special Considerations
+### Special Considerations
 
 **Smoking cessation:** Can precipitate UC flares — counsel appropriately
 
@@ -345,10 +343,6 @@ Idiopathic chronic inflammatory disorder of the large intestine. Continuous muco
 - Monitoring: fecal calprotectin each trimester; [[intestinal-ultrasound]]; MRI **without gadolinium**; **unsedated flexible sigmoidoscopy preferred** over colonoscopy; elective endoscopy deferred to postpartum, nonemergent → 2nd trimester (BPA 6).
 
 ---
-
-## Syntheses
-
-- [[uc-vs-crohns-comparison]] — Feature-by-feature comparison of UC vs Crohn's disease
 
 ## See Also
 

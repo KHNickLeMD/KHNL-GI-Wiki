@@ -3,7 +3,7 @@ title: "Upper Endoscopy (EGD)"
 category: general-procedure
 tags: [egd, upper-endoscopy, esophagogastroduodenoscopy, ugib, barrett-esophagus, peptic-ulcer, gpmc, celiac, quality-indicators]
 created: 2026-05-07
-updated: 2026-08-25
+updated: 2026-08-26
 sources: [acg-2025-egd-quality, aga-2024-upper-endoscopy-quality, aga-2024-glp1-endoscopy]
 ---
 
@@ -43,9 +43,10 @@ Supplementary best practice guidance from AGA 2024 Clinical Practice Update. [[a
 
 ## Timing for UGIB
 
-- **EGD within 24 hours** for admitted/observed overt UGIB (target: >80%)
-- **Optimal window:** 6–24 hours (mortality benefit; urgent <6h has no added benefit per RCT)
-- Excludes low-risk UGIB (Glasgow-Blatchford score ≤1 — can be discharged from ED without EGD)
+- **EGD within 24 hours** for admitted/observed overt UGIB (QI 2; target: >80%)
+- **Optimal window:** 6–24 hours — mortality benefit vs both urgent (<6 h) and delayed (24–48 h) EGD in a territory-wide cohort of 6,474 UGIB patients; urgent <6 h gave no difference in 30-day mortality or further bleeding in the RCT of high-risk patients (GBS ≥12)
+- In **ASA III–IV** ulcer bleeding, both **very early (<12 h) and very late (>36 h)** EGD carried increased mortality (nationwide retrospective cohort)
+- Excludes low-risk UGIB (Glasgow-Blatchford score ≤1 — can be discharged from ED without EGD); see [[upper-gi-bleeding]]
 
 ---
 
@@ -118,7 +119,7 @@ Document all of: esophagus, GEJ (antegrade), gastric cardia/fundus (retroflexed)
 - [[esophageal-adenocarcinoma|Esophageal adenocarcinoma]] missed rate: 23.9% (95% CI, 15.3–35.4%) diagnosed within 1 year of a negative EGD in nondysplastic Barrett's patients
 - Achieve visualization via aspiration of luminal contents, full insufflation, and mucosal cleansing
 - **Pre-procedure agents:** Simethicone and pronase each improve mucosal visualization in most trials; adding N-acetylcysteine to simethicone provides further benefit in some (not all) studies; administer 15–30 min before endoscopy
-- **Simethicone safety note:** Risk of biofilm in endoscope channels; if used, limit to 0.5% concentration and deliver via working channel (not waterjet channel)
+- **Simethicone safety note:** Risk of biofilm in endoscope channels; if used, use the **lowest concentration (0.5%)** and **smallest volume**, delivered via the **working channel** rather than the waterjet channel
 
 ### High-Definition Endoscopy and Image Enhancement Technologies (BPA 3 and 4)
 
@@ -161,7 +162,7 @@ More rigorous documentation is recommended for Barrett's esophagus, gastric inte
 | Gastroesophageal flap valve | Hill grade classification | [[reflux-testing]] |
 | [[eosinophilic-esophagitis\|Eosinophilic esophagitis]] | EREFS; I-SEE (emerging standard for disease activity) | [[eosinophilic-esophagitis]] |
 
-- ⚠ **Scope note:** the 27 indicators on this page are the **EGD-specific** set. [[acg-2025-egd-quality|ACG/ASGE 2025]] explicitly places the indicators **common to all endoscopy** — informed consent, antithrombotic management, team pause/time-out, sedation monitoring, discharge criteria — in a **separate document** that is not yet ingested. Treat this list as complete for EGD only.
+- ⚠ **Scope note:** the 29 indicators on this page ([[acg-2025-egd-quality|ACG/ASGE 2025]] Table 1, QI 1–29) are the **EGD-specific** set. [[acg-2025-egd-quality|ACG/ASGE 2025]] explicitly places the indicators **common to all endoscopy** — informed consent, antithrombotic management, team pause/time-out, sedation monitoring, discharge criteria — in a **separate document** that is not yet ingested. Treat this list as complete for EGD only.
 
 *Report the class, not a free-text description — each system's criteria are held on its home page (linked) rather than duplicated here.*
 

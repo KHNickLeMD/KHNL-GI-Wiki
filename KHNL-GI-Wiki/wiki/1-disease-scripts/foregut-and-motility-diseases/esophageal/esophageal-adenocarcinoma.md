@@ -3,7 +3,7 @@ title: "Esophageal Adenocarcinoma (EAC)"
 category: disease-script
 tags: [esophageal-adenocarcinoma, barretts-esophagus, dysplasia, intramucosal-carcinoma, eet, esophagectomy, foregut, oncology]
 created: 2026-06-04
-updated: 2026-08-14
+updated: 2026-08-26
 sources: [asge-2018-barretts-eet, asge-2019-barretts-screening-surveillance, nccn-2026-esophageal-egj-cancer]
 ---
 
@@ -63,7 +63,7 @@ The central treatment decision follows depth of invasion and adverse histology, 
 
 Stage-directed; depth of invasion is the pivot.
 
-- **Tis (HGD) / T1a (IMC), no high-risk features → [[endoscopic-eradication-therapy|EET]].** EMR of the visible lesion plus ablation of the residual flat [[barretts-esophagus|Barrett's]] segment. EET over esophagectomy is a **strong** recommendation given LN-metastasis risk ~0%–2%, with fewer major adverse events than surgery; >95% of post-EET recurrences are successfully re-treated endoscopically ([[asge-2018-barretts-eet]]). Full technique, outcomes, and adverse-event data: [[endoscopic-eradication-therapy]] and [[barretts-esophagus]].
+- **Tis (HGD) / T1a (IMC), no high-risk features → [[endoscopic-eradication-therapy|EET]].** EMR of the visible lesion plus ablation of the residual flat [[barretts-esophagus|Barrett's]] segment. EET over esophagectomy is a **strong** recommendation given LN-metastasis risk ~0%–2%, with fewer major adverse events than surgery; >95% of post-EET recurrences are successfully re-treated endoscopically ([[asge-2018-barretts-eet]]). Full technique, outcomes, and adverse-event data: [[endoscopic-eradication-therapy]] and [[barretts-esophagus]]. **Choosing EMR vs ESD** for the visible lesion is size-driven (ESD over EMR for well-differentiated nonulcerated EAC **>20 mm**; either technique at ≤20 mm) — table on [[esophageal-cancer]].
 - **T1b sm2–3 (>500 µm), poorly differentiated, or lymphovascular invasion → esophagectomy** (LN-metastasis risk ≥20%; operative mortality ~2%) ([[asge-2018-barretts-eet]]).
 - **Locally advanced resectable → oncologic pathway** ([[esophageal-cancer]]; [[nccn-2026-esophageal-egj-cancer]]): perioperative **FLOT** (± durvalumab in selected tumors) followed by esophagectomy; adjuvant **nivolumab** if residual disease after neoadjuvant chemoradiation + R0 resection (CheckMate-577).
 - **Metastatic → biomarker-directed systemic therapy:** HER2-overexpressing → first-line trastuzumab (later-line trastuzumab deruxtecan); PD-L1 CPS → add nivolumab or pembrolizumab; MSI-H/dMMR → immunotherapy. Detail on [[esophageal-cancer]].

@@ -3,7 +3,7 @@ title: "GLP-1 Receptor Agonists (GLP-1 RAs)"
 category: med
 tags: [glp-1, glp1-ra, semaglutide, liraglutide, obesity, weight-loss, gastric-emptying, endoscopy, incretin]
 created: 2026-08-14
-updated: 2026-08-14
+updated: 2026-08-26
 sources: [aga-2022-obesity-pharm, aga-2024-glp1-endoscopy]
 ---
 
@@ -88,7 +88,7 @@ The full periprocedural algorithm (standard fast, symptom assessment, gastric ul
 
 ## See Also
 
-[[semaglutide]], [[obesity]], [[endoscopy-sedation]], [[gastroparesis]], [[acute-pancreatitis]], [[upper-endoscopy]], [[nafld-masld]]
+[[semaglutide]], [[glp-2-agonists]], [[obesity]], [[endoscopy-sedation]], [[gastroparesis]], [[acute-pancreatitis]], [[upper-endoscopy]], [[nafld-masld]], [[resmetirom]], [[bariatric-surgery]]
 
 ---
 

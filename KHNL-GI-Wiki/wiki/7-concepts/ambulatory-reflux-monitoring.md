@@ -3,7 +3,7 @@ title: "Ambulatory Reflux Monitoring"
 category: concept
 tags: [gerd, ph-monitoring, impedance, diagnosis, lyon-consensus]
 created: 2026-05-15
-updated: 2026-08-12
+updated: 2026-08-26
 sources: [lyon-2024-gerd-diagnosis, acg-2020-esophageal-physiologic-testing]
 ---
 
@@ -42,7 +42,7 @@ The Lyon 2.0 framework has two foundational principles:
 | Biopsy-proven [[barretts-esophagus\|Barrett's oesophagus]] | Conclusive |
 | Peptic stricture | Conclusive |
 
-*LA grade definitions (size/confluence of mucosal breaks) live on [[reflux-testing]].*
+*⚠ No ingested source defines LA grades A–D — see the corpus-gap note on [[reflux-testing]]. Lyon 2.0 uses the grades without reproducing their criteria.*
 
 **Key update:** LA grade B is now conclusive. Its AET on wireless pH monitoring is 8.23% (vs. 9.95% for grade C), and on pH-impedance is 6.0% (vs. 8.7% for grade C). [[proton-pump-inhibitors|PPI]] response rate is 74% for grade B vs. 70% for grade C — comparable to higher grades.
 
@@ -54,7 +54,9 @@ LA grade A is **borderline** — found in 5–7.5% of healthy subjects; insuffic
 
 ### pH-Impedance Monitoring (off therapy — catheter-based)
 
-- **Total AET >6% off PPI** = diagnostic of GERD
+- **Total AET >6% off PPI** = diagnostic of GERD — the most reproducible and specific metric for identifying GERD that will respond to medical or surgical treatment.
+
+⚠ **The 4% "normal" ceiling is system- and region-dependent.** Expert consensus analysis of **391** impedance-pH tracings worldwide substantiated the Lyon <4% threshold overall, but found **significant differences between systems — Diversatek 95th percentile 2.8% vs Laborie 95th percentile 5.0%** — and significant differences across countries and regions. Interpret a borderline AET against the system used, not the number alone.
 
 ---
 

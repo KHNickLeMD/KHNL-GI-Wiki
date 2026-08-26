@@ -3,7 +3,7 @@ title: "Small Bowel Bleeding"
 category: diagnostic-schema
 tags: [small-bowel, gi-bleeding, obscure-gi-bleeding, mid-gi-bleeding, capsule-endoscopy, deep-enteroscopy, angioectasia, vce, dbe, iron-deficiency-anemia]
 created: 2026-05-19
-updated: 2026-08-13
+updated: 2026-08-26
 sources: [acg-2015-small-bowel-bleeding, aga-2020-ida, asge-2017-small-bowel-bleeding]
 ---
 
@@ -77,7 +77,7 @@ This guideline replaces the older term **"obscure GI bleeding (OGIB)"** with ana
 1. Ensure [[upper-endoscopy|upper endoscopy]] ([[upper-gi-bleeding]]) and [[colonoscopy]] ([[acute-lower-gi-bleeding]]) have been performed adequately.
 2. **Second-look upper endoscopy** for recurrent hematemesis, melena, or incomplete prior exam. *(Strong/Low)*
 3. **Second-look colonoscopy** if recurrent hematochezia or lower source suspected. *(Conditional/Very Low)*
-4. **Push enteroscopy** may be used as a second-look exam — reaches distal duodenum and proximal jejunum (~70 cm beyond Treitz). *(Conditional/Moderate)*
+4. **Push enteroscopy** may be used as a second-look exam — reaches distal duodenum and proximal jejunum (~70 cm distal to Treitz; only 45–60 cm when a pediatric colonoscope is used instead of a dedicated push enteroscope). *(Conditional/Moderate)*
    - Useful because ~25% of "SBB" lesions are within reach of standard upper endoscopy.
 
 ### Step 2: Small Bowel Evaluation (Figure 1 Algorithm)
@@ -138,7 +138,7 @@ This guideline replaces the older term **"obscure GI bleeding (OGIB)"** with ana
 
 ### Push Enteroscopy
 
-- Extended upper endoscopy reaching 45–60 cm beyond Treitz with pediatric colonoscope or push enteroscope (~250 cm length).
+- Extended upper endoscopy with a dedicated push enteroscope (~250 cm) or a pediatric colonoscope; limited to the proximal small bowel — **~70 cm distal to Treitz** with a push enteroscope, **45–60 cm** when a colonoscope is used.
 - Diagnostic yield 3–70% (majority of findings are vascular lesions).
 - Key role: second-look for proximal lesions missed by VCE; important because ~25% of "SBB" lesions are within reach of standard EGD. *(Strong/Very Low for proximal lesion concern)*
 
@@ -183,6 +183,7 @@ This guideline replaces the older term **"obscure GI bleeding (OGIB)"** with ana
 - **Not a diagnostic test** in patients without overt bleeding. *(Conditional/Very Low)*
 - Therapeutic: superselective transarterial embolization — 82% technical success, 95% overall clinical success, 76% 30-day success, 12% rebleed rate (15 studies, n=309).
 - Predictors of positive angiography: hemodynamic instability, transfusion ≥5 U, non-diverticular etiology, lower hemoglobin levels.
+- Predictors of **failure to achieve 30-day hemostasis after embolization**: Hgb <8 g/dL, coagulopathy, upper-GI bleeding source, contrast extravasation, >1 vessel embolized. Bowel infarction 4%.
 
 ### Meckel's Scan (⁹⁹ᵐTc-pertechnetate)
 
@@ -218,7 +219,7 @@ This guideline replaces the older term **"obscure GI bleeding (OGIB)"** with ana
 If bleeding persists or recurs and lesion cannot be localized: *(Strong/Moderate)*
 
 - **[[somatostatin-analogs|Somatostatin analogs]] (octreotide):** Depot octreotide LAR 90 mg monthly or lanreotide IM monthly for 12 months (range 6–36). Meta-analysis confirms benefit in reducing transfusion requirements; no placebo-controlled RCT with hard endpoints. Age >65, male sex, antiplatelet therapy, COPD, and chronic renal failure are predictors of poor response.
-- **Thalidomide (antiangiogenic):** One RCT — 71% of patients achieved ≥50% reduction in bleeding episodes vs. 4% on iron alone (p<0.001); 25 mg QID × 4 months with Hgb <8 g/dl entry criterion. Adverse effects in 73% (fatigue, constipation, somnolence). Off-label use — significant teratogenicity risk.
+- **Thalidomide (antiangiogenic):** Open-label RCT — **25 mg QID × 4 months** vs iron 100 mg/day; entry criterion was **≥6 bleeding episodes** (immunoassay FOBT-positive), ≥12-month follow-up. Primary endpoint (≥50% reduction in bleeding episodes) met in **20/28 (71%) vs 1/27 (4%)**, p<0.001. Adverse effects in 73% vs 34% (fatigue, constipation, somnolence). Off-label use — significant teratogenicity risk.
 - **Hormonal therapy (estrogen/progesterone):** NOT recommended — multicenter Spanish RCT showed no benefit vs. placebo. *(Evidence level: definitively resolved against)*
 - **Iron (oral or IV):** Standard supportive care regardless of other interventions.
 - **[[anticoagulation-gi-bleeding|Anticoagulation]]/antiplatelet:** Discontinue if possible. *(Conditional/Very Low)*

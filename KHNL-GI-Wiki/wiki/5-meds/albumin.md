@@ -3,14 +3,14 @@ title: "Albumin (IV)"
 category: med
 tags: [albumin, cirrhosis, ascites, sbp, hrs]
 created: 2026-07-23
-updated: 2026-07-25
+updated: 2026-08-26
 sources: [aga-2024-vasoactive-albumin-cirrhosis]
 ---
 
 ## Overview
 
 - IV albumin is a **plasma volume expander** used in [[cirrhosis]] to expand effective arterial blood volume in the vasodilatory–hyperdynamic circulatory state that drives decompensation.
-- Distinct from vasoconstrictors (terlipressin, [[somatostatin-analogs|octreotide]], norepinephrine, midodrine), which lower [[portal-hypertension|portal pressure]] via splanchnic vasoconstriction — albumin works by volume expansion.
+- Distinct from vasoconstrictors (terlipressin, [[somatostatin-analogs|octreotide]], norepinephrine, midodrine), which lower [[portal-hypertension|portal pressure]] via splanchnic vasoconstriction — albumin works by volume expansion. Adverse effects of the **vasoactive** drugs are tabled on [[somatostatin-analogs]].
 - Guidance below is from the **AGA 2024 Clinical Practice Update** (Best Practice Advice, BPA — Expert Review; **no formal evidence/strength ratings**; many statements rest on expert opinion / society guidelines).
 - Core roles: at large-volume paracentesis, in [[spontaneous-bacterial-peritonitis|SBP]], and as the volume expander of choice for [[aki-in-cirrhosis|AKI in cirrhosis]]. **Not** for uncomplicated [[ascites]].
 
@@ -40,7 +40,7 @@ sources: [aga-2024-vasoactive-albumin-cirrhosis]
 - AKI is the strongest predictor of death in SBP.
 - RCT (n=105): antibiotics **+ albumin** → AKI **10% vs 33%**, death **10% vs 29%**.
 - Highest benefit in patients with **bilirubin >4 mg/dL, or baseline AKI** (creatinine >1.0 mg/dL and BUN >30 mg/dL).
-- ⚠ A small RCT using only 10 g/day on days 1–3 is cited but the source text is truncated at this point (outcome not fully captured).
+- **Lower doses may also work:** in a small RCT giving only **10 g/day on days 1–3**, patients still had lower renal dysfunction (**7% vs 20%**) and in-hospital mortality (**27% vs 40%**) than controls — consistent with another small trial. 4 of the 5 RCTs in the recent meta-analysis used the standard empirical 1.5 g/kg + 1 g/kg regimen.
 
 ## Cautions
 

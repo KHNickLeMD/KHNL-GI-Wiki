@@ -3,7 +3,7 @@ title: "Reflux Testing"
 category: concept
 tags: [gerd, reflux, ph-monitoring, impedance, manometry, endoscopy, diagnostics]
 created: 2026-05-15
-updated: 2026-08-14
+updated: 2026-08-26
 sources: [acg-2021-gerd, asge-2024-gerd, acg-2020-esophageal-physiologic-testing]
 ---
 
@@ -121,27 +121,17 @@ Careful endoscopic evaluation, reporting, and **photo-documentation** of the fol
 
 ### Erosive Esophagitis: Los Angeles (LA) Grade
 
-| Grade | Mucosal break |
-|---|---|
-| A | Small breaks <5 mm |
-| B | ≥5 mm, not confluent between fold tops |
-| C | Confluent, <75% of circumference |
-| D | ≥75% of circumference |
-
-> **Source gap (flagged, not fixed).** [[acg-2021-gerd]], [[asge-2024-gerd]], [[acg-2020-esophageal-physiologic-testing]] and Lyon 2.0 all *use* LA grades without ever defining them (verified by full-text search). The criteria above predate this lint pass and are **not traceable to an ingested source** — ingest the original Lundell 1999 LA-classification paper to verify. Grade-specific significance (LA A borderline, LA B conclusive per Lyon 2.0) is on [[ambulatory-reflux-monitoring]].
+> ⚠ **Corpus-blocked — criteria deliberately absent.** [[acg-2021-gerd]], [[asge-2024-gerd]], [[acg-2020-esophageal-physiologic-testing]] and Lyon 2.0 all *use* LA grades A–D without ever defining them (verified by full-text search of all four PDFs). A previously written A–D criteria table was **removed at the 2026-08-26 lint** because it came from general knowledge, not a source — and it had already drifted (LA C was rendered as "confluent, <75% of circumference," dropping the *continuous between the tops of ≥2 mucosal folds* element). **Ingest the original Lundell 1999 LA-classification paper** to restore this table; do not refill it from memory.
+>
+> What *is* sourced: grade-specific significance (LA A borderline, LA B conclusive per Lyon 2.0) on [[ambulatory-reflux-monitoring]]; and **LA C/D as sufficient objective evidence of GERD** (see the test-selection table above — do not test off therapy).
 
 ### Gastroesophageal Flap Valve: Hill Grade
 
-| Grade | Endoscopic appearance (retroflexed) | Significance |
-|---|---|---|
-| I | Prominent fold, tight collar around the endoscope | Competent valve |
-| II | Fold present, less prominent; opens occasionally with respiration | Mildly compromised |
-| III | No fold; gastric mucosa visible above the diaphragm | Moderately compromised |
-| IV | No fold; hiatal hernia always open; squamous epithelium visible in the hernia | Severely compromised |
+> ⚠ **Corpus-blocked — criteria deliberately absent.** [[asge-2024-gerd]] grades the flap valve by Hill classification and drives a real decision off it, but **cites Hill & Kozarek, *J Clin Gastroenterol* 1996 rather than reproducing the criteria**; no ingested source defines grades I–IV, and none defines the American Foregut Society (AFS) classification at all. A previously written I–IV appearance table was **removed at the 2026-08-26 lint** as untraceable. **Ingest Hill & Kozarek 1996** (and an AFS source) to restore it.
+>
+> What *is* sourced and decision-bearing: **hiatal hernia ≤2 cm + Hill I/II** vs **>2 cm + Hill III/IV** routes the patient between endoscopic and surgical antireflux therapy ([[asge-2024-gerd]]) — that pathway lives on [[antireflux-surgery]].
 
-> **Source gap (flagged, not fixed).** [[asge-2024-gerd]] grades hernias by Hill classification but cites Hill & Kozarek (1996) rather than reproducing it; no ingested source defines grades I–IV, and none defines the AFS classification at all. Verify against the original references before relying on the wording above.
-
-**Figure gap:** flap-valve grading is a *look-at-it* classification, so this page should carry the retroflexed endoscopic images of Hill I–IV per the Style Guide. No ingested source contains them, and figure extraction (PyMuPDF) is unavailable in this environment — reported, not invented.
+**Figure gap:** flap-valve grading is a *look-at-it* classification, so this page should carry retroflexed endoscopic images of Hill I–IV per the Style Guide. No ingested source contains them, and figure extraction (PyMuPDF) is unavailable in this environment — reported, not invented.
 
 ### Mucosal Cleanliness
 

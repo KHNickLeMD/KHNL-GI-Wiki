@@ -3,7 +3,7 @@ title: "Chicago Classification v4.0 — Esophageal Motility Disorders"
 category: concept
 tags: [manometry, hrm, chicago-classification, esophageal-motility, achalasia, egjoo, iem, des, dysphagia]
 created: 2026-05-16
-updated: 2026-08-07
+updated: 2026-08-26
 sources: [chicago-v4-2021-esophageal-dysmotility, acg-2020-esophageal-physiologic-testing]
 ---
 
@@ -12,6 +12,7 @@ sources: [chicago-v4-2021-esophageal-dysmotility, acg-2020-esophageal-physiologi
 - [[#Required HRM Protocol]]
 - [[#IRP Thresholds (Integrated Relaxation Pressure)]]
 - [[#Key Metrics]]
+- [[#Provocative Maneuvers — Normal Response and Obstruction Criteria]]
 - [[#Classification Hierarchy]]
   - [[#Tier 1: Disorders of EGJ Outflow]]
   - [[#Tier 2: Disorders of Peristalsis (Normal IRP)]]
@@ -64,9 +65,25 @@ Elevated IRP (above these thresholds) = impaired EGJ relaxation = potential obst
 
 | Metric | Normal Range | Abnormal |
 |--------|-------------|---------|
-| Distal contractile integral (DCI) | 450–8,000 mmHg·s·cm | <100 = failed; 100–450 = weak; >8,000 = hypercontractile |
-| Distal latency (DL) | ≥4.5 seconds | <4.5 s = premature (with DCI ≥450) |
-| Transition zone (TZ) defect | None | >5 cm break with DCI ≥450 = fragmented (subsumed into IEM in CC v4.0) |
+| Distal contractile integral (DCI) | 450–8,000 mmHg·s·cm | <100 = failed peristalsis; 100–<450 = weak; >8,000 = hypercontractile swallow (8,000 threshold suitable across HRM systems) |
+| Distal latency (DL) | ≥4.5 seconds | <4.5 s = premature/spastic — **only if DCI ≥450**; DL <4.5 s with DCI <450 is *inconclusive*, not DES |
+| Transition zone (TZ) defect | None | >5 cm break under the 20 mmHg isobaric contour with DCI ≥450 = fragmented swallow (an *ineffective* swallow in CC v4.0, not a standalone diagnosis) |
+| Panesophageal pressurization | Absent | Cut-off **30 mmHg** using the isobaric contour tool |
+| Intrabolus pressurization (IBP) | Normal | Supine wet-swallow threshold **20 mmHg** (Medtronic), isobaric contour tool |
+
+**"Ineffective swallow"** = weak *or* failed *or* fragmented. This composite is what the >70% IEM threshold counts.
+
+---
+
+## Provocative Maneuvers — Normal Response and Obstruction Criteria
+
+| Maneuver | Protocol | Normal (intact) response |
+|---|---|---|
+| **MRS** | 5 × 2-mL swallows, 2–3 s apart (10-mL syringe); repeat up to 3× if failed/abnormal | Absent esophageal body contractility (DCI <100) with complete deglutitive LES inhibition **during** MRS, **plus post-MRS augmentation** (post-MRS DCI > mean single-swallow DCI) |
+| **RDC** | 200 mL water, as fast as possible through a straw | Absent body contractility (DCI <100) with complete deglutitive LES inhibition during RDC and no major motility disorder post-RDC |
+| **Solid test swallow** | 10 × ~1 cm³ soft solid (bread, soft-boiled rice, marshmallow) | >20% of pharyngeal swallows followed by an effective contraction (DCI >1,000) without a >5 cm break |
+
+**Outflow-obstruction criteria on provocation** (Medtronic software): IRP **>12 mmHg** over the first 30 s of the RDC, **and/or** panesophageal pressurization **>20 mmHg** during RDC (Low GRADE, Conditional); IRP **>25 mmHg** with solid swallows. These are *supportive*, not required, for [[esophagogastric-junction-outflow-obstruction|EGJOO]].
 
 ---
 
@@ -74,21 +91,32 @@ Elevated IRP (above these thresholds) = impaired EGJ relaxation = potential obst
 
 ### Tier 1: Disorders of EGJ Outflow
 
-| Disorder | IRP | Peristalsis | Key Criteria |
-|----------|-----|-------------|--------------|
-| **[[achalasia\|Achalasia]] Type I** | Elevated | 100% failed (aperistalsis) | No pressurization |
-| **Achalasia Type II** | Elevated | ≥20% panesophageal pressurization | Most common type; best response to therapy |
-| **Achalasia Type III** | Elevated | ≥20% premature/spastic contractions | Spastic; may respond to [[poem\|POEM]] over dilation |
-| **EGJOO** | Elevated | Some preserved peristalsis | See EGJOO section below |
+*Verbatim criteria from CC v4.0 Table 3. Subtype-directed therapy lives on [[achalasia]] — this page assigns the class only.*
+
+| Disorder | Full diagnostic definition |
+|----------|---------------------------|
+| **[[achalasia\|Achalasia]] Type I** | Abnormal median IRP **&** 100% failed peristalsis |
+| **Achalasia Type II** | Abnormal median IRP, **100% failed peristalsis**, **&** ≥20% swallows with panesophageal pressurization |
+| **Achalasia Type III** | Abnormal median IRP **&** ≥20% swallows with premature/spastic contraction **and no evidence of peristalsis** (no normal *or* ineffective swallows) |
+| **[[esophagogastric-junction-outflow-obstruction\|EGJOO]]** \* | Abnormal median IRP **in both supine and upright**, **≥20% swallows with elevated intrabolus pressure (supine)**, **&** not meeting criteria for achalasia (i.e. evidence of peristalsis is present) |
+
+\* Always manometrically inconclusive — see below.
+
+- **Type I vs II is not a hard clinical divide:** CC v4.0 states the panesophageal-pressurization cut-off is a guide rather than a hard threshold, and that the type I/II distinction "does not have important clinical implications" beyond the very low pressures (typically <15 mmHg) of a dilated, non-pressurizing esophagus. Panesophageal pressurization **>70 mmHg** may indicate embedded spasm, which may affect outcome.
+- **Position change matters:** appreciable peristalsis appearing with a change in position, in a study that looked like type I/II achalasia in the primary position, shifts the diagnosis to *inconclusive* and mandates supportive testing.
+- **Opioids are associated with type III achalasia** — study patients off opioids when possible (Low GRADE, Conditional); time discontinuation to the drug's half-life.
+- **Inconclusive type III** = abnormal IRP + spasm + evidence of peristalsis. If it meets strict EGJOO criteria, classify as **EGJOO with spastic features** (may be an achalasia variant).
 
 ### Tier 2: Disorders of Peristalsis (Normal IRP)
 
-| Disorder | Diagnostic Criteria |
-|----------|-------------------|
-| **Absent contractility** | Normal IRP + 100% failed peristalsis; [[esophageal-dysfunction-systemic-disease\|scleroderma]] pattern; exclude achalasia |
-| **[[distal-esophageal-spasm\|Distal esophageal spasm]] (DES)** | ≥20% premature contractions (DL <4.5 s) with DCI ≥450; normal IRP |
-| **[[hypercontractile-esophagus\|Hypercontractile esophagus]] (Jackhammer)** | ≥20% hypercontractile swallows (DCI >8,000); EGJ obstruction excluded |
-| **[[ineffective-esophageal-motility\|Ineffective esophageal motility]] (IEM)** | >70% ineffective swallows (failed or weak), OR ≥50% failed swallows |
+| Disorder | Full diagnostic definition | Inconclusive band |
+|----------|---------------------------|-------------------|
+| **Absent contractility** | Normal median IRP **in both supine and upright** & 100% failed peristalsis (DCI <100); [[esophageal-dysfunction-systemic-disease\|scleroderma]] pattern; exclude achalasia | — |
+| **[[distal-esophageal-spasm\|Distal esophageal spasm]] (DES)** \* | Normal median IRP & ≥20% swallows with premature/spastic contraction (DL <4.5 s **with DCI ≥450**) | ≥20% swallows with DL <4.5 s but **DCI <450** → inconclusive for DES |
+| **[[hypercontractile-esophagus\|Hypercontractile esophagus]] (Jackhammer)** \* | Normal median IRP & ≥20% hypercontractile swallows (DCI >8,000) | — |
+| **[[ineffective-esophageal-motility\|Ineffective esophageal motility]] (IEM)** | Normal median IRP & **>70% ineffective swallows** *or* **≥50% failed peristalsis** | **50–70% ineffective swallows → inconclusive** for IEM |
+
+\* Denotes a manometric pattern of **unclear clinical relevance** — a conclusive diagnosis requires clinically relevant symptoms and/or supportive testing.
 
 ### Normal Motility
 
@@ -98,31 +126,44 @@ All metrics within normal ranges; no criteria for above disorders met.
 
 ## EGJOO — Key CC v4.0 Paradigm Shift
 
-**EGJOO is manometrically inconclusive by definition in CC v4.0.**
+**A manometric diagnosis of EGJOO is always considered clinically inconclusive** (Strong Recommendation). Nearly 10% of patients undergoing HRM show an EGJOO pattern, and **more than one-third of cases may be clinically irrelevant** — mechanical effects, opioid use, artifact.
 
-A clinical EGJOO diagnosis requires ALL of:
+**Manometric** EGJOO (Low GRADE, Conditional) requires **all three**:
 
-1. Elevated IRP (meeting manufacturer threshold) with preserved peristalsis
-2. Supportive symptoms ([[dysphagia]] or non-cardiac chest pain [NCCP])
-3. Positive ancillary testing: timed barium esophagram (TBE) showing retained contrast at 5 min, OR [[flip-panometry|FLIP panometry]] showing elevated EGJ distensibility plateau
+1. Elevated median IRP in the **primary *and* secondary position** (i.e. supine *and* upright, at the manufacturer threshold)
+2. **≥20% of supine swallows with elevated intrabolus pressure** (IBP >20 mmHg, Medtronic)
+3. Evidence of peristalsis (otherwise it is achalasia)
 
-Without #2 and #3, the manometric finding is documented but the clinical entity is not diagnosed — no treatment indicated. This prevents over-treatment of manometric artifacts.
+⚠ **Isolated abnormalities are inconclusive, not EGJOO** (Low GRADE, Strong) — isolated elevated supine IRP, isolated elevated upright IRP, or isolated elevated supine IBP each fail the definition on their own. The combination rule is the diagnosis.
+
+**Clinically relevant conclusive** EGJOO (Moderate GRADE, Conditional) = manometric EGJOO **+** clinically relevant symptoms ([[dysphagia]] and/or non-cardiac chest pain) **+** ≥1 supportive investigation showing obstruction — timed barium esophagram (TBE, preferably with tablet) and/or [[flip-panometry|FLIP]]. Without symptoms and supportive testing, the finding is documented but the entity is not diagnosed and no treatment is indicated.
+
+**Not required but supportive:** outflow obstruction/esophageal pressurization on RDC; outflow obstruction on solid test meal, especially if temporally associated with symptoms; abnormal EGJ function after pharmacologic provocation.
+
+**Always describe EGJOO by its peristaltic pattern:** EGJOO with spastic features (type III achalasia features), with hypercontractile features, with ineffective motility, or with no evidence of disordered peristalsis.
 
 ---
 
 ## IEM — Revised Criteria in CC v4.0
 
-**IEM** = >70% ineffective swallows (failed DCI <100 or weak DCI 100–450) OR ≥50% failed swallows.
+**IEM** = normal median IRP with **>70% ineffective swallows** OR **≥50% failed peristalsis** (Very Low GRADE, Strong). An *ineffective* swallow is weak (DCI 100–<450), failed (DCI <100), **or fragmented**.
 
-**Fragmented peristalsis** (TZ break >5 cm with DCI ≥450) is **no longer a standalone disorder**. When it exceeds IEM threshold, it is incorporated into IEM. When below threshold, it is a descriptive finding without diagnostic significance in CC v4.0.
+**50–70% ineffective swallows is inconclusive** for IEM — it is not a diagnosis.
+
+**Fragmented peristalsis** (TZ defect >5 cm under the 20 mmHg isobaric contour with DCI ≥450) is **no longer a standalone disorder** (Very Low GRADE, Strong) — it now counts as one flavor of ineffective swallow feeding the IEM thresholds above.
 
 ---
 
 ## EGJ Metrics (Descriptive, Not Diagnostic)
 
-- **EGJ-contractile integral (EGJ-CI):** <25 mmHg·cm suggests hypotensive EGJ; no consensus diagnostic threshold established
-- **LES-CD separation:** displacement of LES from crural diaphragm; >2 cm correlates with hiatal hernia on HRM
-- **Respiratory inversion point (RIP):** level at which respiratory pressure deflections reverse polarity; used to identify LES-CD relationship
+- **EGJ-contractile integral (EGJ-CI):** referenced to intragastric pressure, expressed in mmHg·cm. **<25 mmHg·cm** was *suggested* as hypotensive EGJ — explicitly **not met with agreement** in CC v4.0, so it is not a consensus threshold.
+- **LES-CD separation:** scored as the distance between the **center of the crural diaphragm and the LES signal during inspiration** (at expiration if obscured). *CC v4.0 gives no numeric cut-off* — do not quote one.
+- **Respiratory inversion point (RIP):** the axial location where the inspiratory pressure change flips from an inspiratory *increase* (intra-abdominal) to an inspiratory *decrease* (intrathoracic).
+- **EGJ morphology — 3 subtypes** (define the EGJ complex from LES-CD separation + RIP location; Low GRADE, Conditional):
+  1. Normal — CD superimposed on LES, RIP proximal to the complex
+  2. LES-CD separation with RIP proximal to the **CD**
+  3. LES-CD separation with RIP proximal to the **LES**
+  - ⚠ No consensus on the naming scheme (I/II/III vs A/C/B); both are acceptable.
 
 ---
 
@@ -134,7 +175,7 @@ The ACG 2020 guideline [[acg-2020-esophageal-physiologic-testing]] predates CC v
 
 ## See Also
 
-[[achalasia]], [[flip-panometry]], [[high-resolution-manometry]], [[reflux-testing]], [[distal-esophageal-spasm]], [[hypercontractile-esophagus]], [[ineffective-esophageal-motility]], [[gerd]], [[dysphagia]], [[poem]], [[ambulatory-reflux-monitoring]], [[hrm-antireflux-surgery]]
+[[achalasia]], [[esophagogastric-junction-outflow-obstruction]], [[flip-panometry]], [[high-resolution-manometry]], [[reflux-testing]], [[distal-esophageal-spasm]], [[hypercontractile-esophagus]], [[ineffective-esophageal-motility]], [[gerd]], [[dysphagia]], [[poem]], [[ambulatory-reflux-monitoring]], [[hrm-antireflux-surgery]], [[esophageal-dysfunction-systemic-disease]]
 
 ---
 

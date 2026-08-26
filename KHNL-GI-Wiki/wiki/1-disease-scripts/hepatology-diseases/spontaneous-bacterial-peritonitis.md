@@ -3,7 +3,7 @@ title: "Spontaneous Bacterial Peritonitis"
 category: disease-script
 tags: [sbp, ascites, cirrhosis, peritonitis, cefotaxime, albumin]
 created: 2026-05-15
-updated: 2026-08-14
+updated: 2026-08-26
 sources: [aasld-2021-ascites-sbp-hrs, aga-2024-vasoactive-albumin-cirrhosis]
 ---
 
@@ -165,7 +165,7 @@ The [[aga-2024-vasoactive-albumin-cirrhosis|AGA 2024 vasoactive/albumin CPU]] fr
 ### Nonselective Beta-Blockers (NSBBs) During SBP
 
 - NSBBs do NOT need to be routinely discontinued at diagnosis of SBP
-- **Hold if:** mean arterial pressure <65 mmHg (hypotension/hemodynamic instability)
+- **Hold temporarily if:** mean arterial pressure <65 mmHg **or** [[aki-in-cirrhosis|AKI]] develops
 - **Restart:** when systemic arterial blood pressure recovers
 
 ---

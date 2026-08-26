@@ -3,7 +3,7 @@ title: "AKI in Cirrhosis (including HRS-AKI)"
 category: disease-script
 tags: [aki, cirrhosis, hrs, hepatorenal-syndrome, albumin, terlipressin, liver]
 created: 2026-05-15
-updated: 2026-08-13
+updated: 2026-08-26
 sources: [aga-2022-aki-cirrhosis, aga-2024-vasoactive-albumin-cirrhosis]
 ---
 
@@ -185,6 +185,8 @@ Vasopressin V1 receptor analog; reverses splanchnic vasodilatation.
   - Start: **2 mg/day** IV continuous infusion
   - Titrate every 24–48 hours up to maximum **12 mg/day**
   - Lower total daily dose with similar efficacy; fewer ischemic side effects
+- **FDA-approved US schedule (CONFIRM):** 1 mg IV **q6h**, increased to **2 mg q6h on day 4** if response is insufficient (**<30%** decrease in creatinine); continue up to **14 days**; may stop **24 h after creatinine falls below 1.5 mg/dL** [[aga-2024-vasoactive-albumin-cirrhosis]]
+- **Start early — pretreatment creatinine drives failure.** Every 1 mg/dL fall in creatinine on treatment carries a **27% relative reduction in mortality**, so even small reductions are worth pursuing
 
 **Administration (AGA 2024 CPU):** Terlipressin does **not require ICU monitoring** and can be given through a **peripheral IV line** (BPA 11). The FDA label suggests continuous pulse oximetry; the AGA 2024 CPU notes that vital-sign assessment including pulse oximetry **every 2–4 h** can substitute for continuous monitoring. [[aga-2024-vasoactive-albumin-cirrhosis]]
 
@@ -202,7 +204,8 @@ Vasopressin V1 receptor analog; reverses splanchnic vasodilatation.
 **Side effects:**
 
 - Ischemic complications: angina, digital ischemia, splanchnic ischemia, arrhythmia
-- Respiratory failure (~30% in CONFIRM trial, especially in ACLF with multi-organ failure — monitor SpO2)
+- Respiratory failure: 30% of the terlipressin arm in CONFIRM, especially with concomitant organ failure; associated with higher baseline INR, MAP, and O2 saturation [[aga-2022-aki-cirrhosis]]. *(The newer [[aga-2024-vasoactive-albumin-cirrhosis]] reports the same trial as 14% vs 5% on placebo, with death from respiratory failure 11% vs 2% — likely a narrower endpoint definition; both are the same CONFIRM dataset.)*
+- Excess albumin is itself a driver of respiratory failure — judicious albumin before and during terlipressin is required
 - **Do not resume** after cardiac or ischemic symptoms, even if resolved
 - Start at lowest dose and titrate to minimize ischemic risk
 
@@ -215,7 +218,8 @@ Alpha-1 adrenergic agonist (midodrine) + [[somatostatin-analogs|somatostatin ana
 - **Midodrine:** start **7.5 mg PO TID**, titrate to **12.5 mg PO TID**
 - **Octreotide:** start **100 mcg SQ TID**, titrate to **200 mcg SQ TID**
 - Octreotide alone is ineffective; must be used in combination
-- Works slowly; HRS reversal possible but less likely than with terlipressin
+- Works **very slowly**; HRS reversal possible but less likely than with terlipressin
+- Octreotide's rationale: somatostatin analog inhibiting glucagon (a splanchnic vasodilator) plus a direct splanchnic vasoconstrictive effect — but it has no effect alone
 
 **Side effects:** Midodrine — headache, blurred vision, palpitations, rash; Octreotide — fatigue, nausea, vomiting, abdominal pain, back pain
 
@@ -223,9 +227,9 @@ Alpha-1 adrenergic agonist (midodrine) + [[somatostatin-analogs|somatostatin ana
 
 Alpha-1 adrenergic agonist; requires ICU monitoring.
 
-- Start: **0.5 mcg/h IV** continuous infusion
-- Increase by **0.5 mcg/h every 4 hours**
-- Maximum: **3 mcg/h**
+- Start: **0.5 mg/h IV** continuous infusion
+- Increase by **0.5 mg/h every 4 hours**
+- Maximum: **3 mg/h**
 - Goal: MAP increase ≥10 mmHg AND/OR urine output >50 mL/h for ≥4 hours
 - Efficacy comparable to terlipressin in non-ACLF settings (HRS reversal 39–70%)
 - ICU requirement adds to cost; small feasibility study supports use outside ICU but not yet standard

@@ -3,7 +3,7 @@ title: "Polypectomy (Colorectal)"
 category: general-procedure
 tags: [polypectomy, cold-snare, colonoscopy, colorectal, paris-classification, nice-classification, malignant-polyp, submucosal-invasion, haggitt, kikuchi, tumor-budding, lymphovascular-invasion]
 created: 2026-05-07
-updated: 2026-08-14
+updated: 2026-08-26
 sources: [usmstf-2020-endoscopic-removal, asge-2020-endoscopic-removal, usmstf-2020-malignant-colorectal-polyps, aga-2024-tailored-polypectomy]
 ---
 
@@ -24,15 +24,20 @@ Optical assessment and removal of colorectal polyps at [[colonoscopy]] — the t
   - [[#≥20mm Non-Pedunculated]]
   - [[#Pedunculated]]
   - [[#Difficult Locations]]
+  - [[#Tailored Technique Selection (AGA 2024 CPU)]]
 - [[#Lesion Marking / Tattoo]]
 - [[#Malignant Polyp Recognition and Management]]
   - [[#Definition]]
   - [[#Endoscopic Features Predicting Deep Submucosal Invasion (≥1 mm)]]
+  - [[#Morphology Features Predicting Superficial (but elevated) SMI Risk]]
+  - [[#Management by Deep SMI Features (Recommendation 1b, Weak; low-quality evidence)]]
+  - [[#En Bloc Resection for Superficial SMI Risk (Recommendation 2b, Weak; low-quality evidence)]]
   - [[#Haggitt Classification (Pedunculated Polyps)]]
   - [[#Kikuchi Classification (Sessile/Flat Polyps — Depth of Submucosal Invasion)]]
   - [[#Favorable vs. Unfavorable Histologic Criteria]]
   - [[#Specimen Handling for Potentially Malignant Polyps]]
   - [[#Pathology Reporting Standards]]
+  - [[#Multidisciplinary Management]]
 - [[#Quality Standards]]
 
 ---
@@ -146,9 +151,9 @@ Single home for LST submucosal-invasion risk — the two USMSTF 2020 documents d
 - **Difficult positions (folds, flexures, ileocecal valve):** Consider cap-assisted [[colonoscopy]], position change, water-jet assisted technique; partial resection plus avulsion acceptable if full snare not achievable
 - **Rectal lesions:** [[colorectal-esd|ESD]] more often feasible given straight working channel; consider peri-anal approach for very distal lesions
 
-### Tailored Technique Selection ([[aga-2024-tailored-polypectomy|AGA 2024 CPU]])
+### Tailored Technique Selection (AGA 2024 CPU)
 
-Structured optical assessment (Paris/NICE/WASP/Kudo/JNET — see [[#Optical Diagnosis]]) precedes technique choice; overt deep SMI (NICE 3 / Kudo V) is not resected endoscopically. AGA 2024 Best Practice Advice, by scenario:
+Structured optical assessment (Paris/NICE/WASP/Kudo/JNET — see [[#Optical Diagnosis]]) precedes technique choice; overt deep SMI (NICE 3 / Kudo V) is not resected endoscopically. [[aga-2024-tailored-polypectomy|AGA 2024]] Best Practice Advice, by scenario:
 
 | Scenario | Technique |
 |---|---|

@@ -3,7 +3,7 @@ title: "Subepithelial Lesion (SEL)"
 category: diagnostic-schema
 tags: [subepithelial-lesion, gist, leiomyoma, carcinoid, net, lipoma, eus, endoscopy]
 created: 2026-05-15
-updated: 2026-08-14
+updated: 2026-08-26
 sources: [acg-2023-subepithelial-lesions, asge-2017-subepithelial-lesions]
 ---
 
@@ -89,7 +89,7 @@ A **subepithelial lesion** is a mass or mass-like structure that projects into t
 | Metastasis | Any/all | Hypoechoic, heterogeneous | Stomach body/fundus, central depression; **endoscopic biopsy diagnostic >90%** (breast, lung, esophagus, RCC, melanoma) |
 | Lymphoma | 2nd, 3rd, or 4th | Hypoechoic | — |
 
-**Pillow sign caveat:** lipoma pillow sign is 98% specific (low sensitivity). **Duplication cyst:** anechoic, 3–5 layer wall ("duplication" of gut wall), submucosal or extrinsic — **avoid FNA when clearly anechoic** (infection risk); if FNA needed for a solid/hypoechoic component, use [[antibiotic-prophylaxis-endoscopy|antibiotic prophylaxis]].
+**Pillow sign caveat:** see [[#Definition / Scope]] — 99% specific / 40% sensitive ([[acg-2023-subepithelial-lesions]]); [[asge-2017-subepithelial-lesions]] quotes 98% specific, "not very sensitive." **Duplication cyst:** anechoic, 3–5 layer wall ("duplication" of gut wall), submucosal or extrinsic — **avoid FNA when clearly anechoic** (infection risk); if FNA needed for a solid/hypoechoic component, use [[antibiotic-prophylaxis-endoscopy|antibiotic prophylaxis]].
 
 ---
 
@@ -241,17 +241,17 @@ Small-intestine GISTs are **more aggressive** (40–50% malignant vs 20–25% ga
 
 | Type | Background | Behavior | Management |
 |---|---|---|---|
-| Type 1 | [[atrophic-gastritis\|Atrophic gastritis]] → hypergastrinemia (antral G cells) | Indolent; multifocal common | **EMR or ESD** for prominent tumors ≤10 mm — no preference (Rec 9). Comparative data actually favor EMR: R0 **95% (EMR) vs 83% (ESD)** (P = 0.17) and less vertical-margin involvement (**3% vs 17%**, P = 0.04) |
+| Type 1 | [[atrophic-gastritis\|Atrophic gastritis]] → hypergastrinemia (antral G cells) | Indolent; multifocal common | **EMR or ESD** for prominent tumors ≤10 mm — no preference (Rec 9). Comparative data favor **ESD** on margins: R0 **95% (ESD) vs 83% (EMR)** (P = 0.17, NS) and **lower vertical-margin involvement, 3% (ESD) vs 17% (EMR)** (P = 0.04); a smaller series found 0% vs 67%. ACG's reasoning for making no preference: the **indolent nature** of type 1 gNET makes it unclear whether ESD's higher R0 is clinically meaningful, and EMR has significantly shorter procedure time |
 | Type 2 | MEN-1 syndrome → hypergastrinemia | Low metastatic rate; multifocal | Endoscopic resection for debulking or bleeding control; EMR vs. ESD per local expertise |
 | Type 3 | Sporadic; no hypergastrinemia | More aggressive | ESD preferred for small (<1 cm), low-grade, no lymphadenopathy; positive margins require surgical resection |
 
 ### Rectal NETs
 
 - **Metastatic risk by size:** **3%** if ≤10 mm, **66%** at 11–19 mm, **73%** if ≥20 mm — this size ladder is the decision
-- <1 cm, low-grade: endoscopic resection (EMR or ESD — no proven superiority, Rec 11)
-  - Band ligation EMR: 96–100% R0 resection rate
+- <1 cm, low-grade: endoscopic resection (EMR or ESD — no proven superiority, Rec 11). **Which EMR matters more than EMR-vs-ESD:**
+  - **ESD vs conventional injection-and-snare EMR:** ESD R0 **90–97% vs 71–77%** (statistically higher), but longer procedure time (**11.4–20.4 vs 4.2–6.6 min**)
+  - **Band-ligation EMR vs ESD:** band EMR R0 **96–100% vs 54–75%** for ESD (statistically higher, 2 studies, n=159) — band EMR draws up more deep submucosal tissue (speculative mechanism)
   - Underwater EMR: equivalent to ESD in R0 rate with shorter procedure time
-  - ESD: may have lower R0 than band EMR in some studies (54–75%)
 - 11–19 mm → more aggressive approach warranted; ≥20 mm → surgical evaluation
 - EUS for lymphadenopathy staging: not mandatory for small (<1 cm) incidental rectal NETs found at [[colonoscopy]] — primary excision often performed at time of discovery
 

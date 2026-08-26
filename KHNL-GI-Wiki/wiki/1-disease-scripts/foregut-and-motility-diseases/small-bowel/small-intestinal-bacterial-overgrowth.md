@@ -3,7 +3,7 @@ title: "Small Intestinal Bacterial Overgrowth (SIBO)"
 category: disease-script
 tags: [sibo, imo, small-bowel, breath-testing, rifaximin, ibs, motility, microbiome, malabsorption]
 created: 2026-05-19
-updated: 2026-08-14
+updated: 2026-08-26
 sources: [acg-2020-sibo]
 ---
 
@@ -190,7 +190,7 @@ Before initiating antibiotic therapy: make an objective effort to diagnose SIBO 
 
 **IMO-specific treatment (methane/constipation):**
 
-Retrospective chart review of 74 patients with IMO (lactulose breath test), 10 days of therapy. The figures are the **proportion of patients whose methane fell to undetectable levels (<3 ppm)** on repeat breath testing — not the percentage by which methane fell:
+Retrospective chart review of 74 patients with IMO (lactulose breath test), 10 days of therapy. The figures are the **proportion of patients whose methane fell to undetectable levels (<3 ppm)** on repeat breath testing — not the percentage by which methane fell. **Caveat on the entry criterion:** both neomycin/IMO studies defined a positive test as CH₄ **≥3 ppm**, not the ≥10 ppm now recommended by the North American Consensus — so the treated cohorts are not identical to patients diagnosed with IMO by the current cutoff.
 
 | Regimen | Patients reaching CH₄ <3 ppm |
 |---|---|

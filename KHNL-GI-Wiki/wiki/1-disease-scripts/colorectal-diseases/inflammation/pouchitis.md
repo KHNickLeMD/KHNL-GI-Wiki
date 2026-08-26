@@ -3,7 +3,7 @@ title: "Pouchitis"
 category: disease-script
 tags: [pouchitis, ipaa, j-pouch, ulcerative-colitis, ibd, cuffitis, crohns-like-disease-of-the-pouch, antibiotics, probiotics, biologics]
 created: 2026-06-04
-updated: 2026-08-14
+updated: 2026-08-26
 sources: [aga-2024-pouchitis, aga-2020-probiotics, asge-2015-ibd]
 ---
 
@@ -100,8 +100,17 @@ Pragmatic, treatment-anchored definitions (AGA 2024, Table 5):
 **Chronic antibiotic-refractory pouchitis → advanced therapy (± corticosteroids).**
 - **Advanced immunosuppressive therapies** suggested — **vedolizumab has the strongest evidence** (only RCT).
   - **EARNEST RCT (vedolizumab):** mPDAI remission at week 14 in **18/51 (vedolizumab) vs 5/51 (placebo)**; patients also received concomitant ciprofloxacin 500 mg BID through week 4. *(low certainty)*
-  - Observational pooled response: **ustekinumab ~72%**, **tofacitinib ~31%**; no significant difference between advanced therapies.
-  - Class includes: TNF antagonists (infliximab, adalimumab, golimumab, certolizumab), vedolizumab, ustekinumab, risankizumab, ozanimod, tofacitinib, upadacitinib.
+  - Observational pooled response rates by class — **no significant difference between advanced therapies (P = .24)**, and the small-cohort estimates have uninformative confidence intervals, so do not read the point estimates as a ranking:
+
+| Class | Cohorts / n | Pooled response (95% CI) |
+|---|---|---|
+| TNF-α antagonists | 14 cohorts, n = 245 | **54% (42–66)** |
+| Vedolizumab | 9 cohorts, n = 194 | **52% (39–65)** |
+| Ustekinumab | 2 cohorts, n = 31 | 72% (**4–99**) |
+| Tofacitinib | 2 cohorts, n = 13 | 31% (**2–92**) |
+
+  - Class includes: TNF antagonists (infliximab, adalimumab, golimumab, certolizumab pegol), vedolizumab, ustekinumab, risankizumab, ozanimod, tofacitinib, upadacitinib. **Vedolizumab is the only agent with regulatory approval for this indication (EMA).**
+  - Therapies used before colectomy may be reconsidered; a subset keeps deriving partial benefit from continued antibiotics alongside advanced therapy.
 - **Corticosteroids** also an option — oral **budesonide** or **beclomethasone** pooled response ~**77%** (small case series).
 - **Mesalamine:** *no recommendation* (knowledge gap).
 

@@ -3,7 +3,7 @@ title: "Helicobacter pylori Infection"
 category: disease-script
 tags: [h-pylori, peptic-ulcer, gastric-cancer, malt-lymphoma, eradication, dyspepsia, gastric, foregut]
 created: 2026-05-07
-updated: 2026-08-14
+updated: 2026-08-26
 sources: [acg-2017-hp-guidelines, acg-2024-hp-treatment, aga-2024-pcab]
 ---
 
@@ -129,7 +129,7 @@ sources: [acg-2017-hp-guidelines, acg-2024-hp-treatment, aga-2024-pcab]
 **Getting the regimens right — the details that decide success:**
 
 - **"Optimized" BQT means all four components dosed adequately:** nitroimidazole **1,500–2,000 mg/day in divided doses**, and **tetracycline — doxycycline is not an acceptable substitution**. PPIs dosed 30–60 min before a meal.
-- **Proprietary BQT packs are not interchangeable with 14 days.** *Pylera* (bismuth subcitrate + metronidazole + tetracycline) is dispensed **only as a 10-day regimen** and must be given with a b.i.d. PPI. *Helidac* is a 14-day pack originally approved with an H2RA — **ACG does not recommend H2RAs in any eradication regimen**, so Helidac is not further considered.
+- **Proprietary BQT packs are not interchangeable with 14 days.** *Pylera* (bismuth subcitrate + metronidazole + tetracycline) is dispensed **only as a 10-day regimen** and must be given with a b.i.d. PPI. *Helidac* is a 14-day pack originally approved with an H2RA (and restricted to duodenal ulcer) — **ACG does not recommend H2RAs in any eradication regimen**, so Table 5 does not further consider it; the salvage table (Table 6) nonetheless accepts **Helidac dosed with a b.i.d. PPI for 14 days** as an appropriate BQT selection.
 - **Bismuth subsalicylate is contraindicated in salicylate allergy** — use subcitrate.
 - **Rifabutin triple daily totals** (Talicia, 4 capsules t.i.d. × 14 d): omeprazole **120 mg/day** (40 mg t.i.d.), amoxicillin **3,000 mg/day** (1,000 mg t.i.d.), rifabutin **150 mg/day** (50 mg t.i.d.). Talicia is the only rifabutin regimen FDA-approved and the only one evaluated as first-line. Advantage: very low rifabutin resistance and no clarithromycin, so no pretreatment sensitivity testing is required.
 - **Vonoprazan dual therapy is NOT b.i.d. amoxicillin** — vonoprazan 20 mg b.i.d. with amoxicillin 1,000 mg **three times daily**.

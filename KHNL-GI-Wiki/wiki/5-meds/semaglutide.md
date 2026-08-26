@@ -3,7 +3,7 @@ title: "Semaglutide (Wegovy, Ozempic, Rybelsus)"
 category: med
 tags: [semaglutide, wegovy, ozempic, glp-1, glp1-ra, mash, masld, obesity, diabetes, t2dm, cardiovascular, ckd, weight-loss, essence-trial, select-trial, step-trials, hpb]
 created: 2026-05-25
-updated: 2026-08-14
+updated: 2026-08-26
 sources: [aasld-2025-semaglutide-mash, aga-2022-obesity-pharm, hendershot-2025-semaglutide-aud, aga-2024-glp1-endoscopy]
 ---
 
@@ -53,14 +53,14 @@ Semaglutide (Wegovy, 2.4 mg/week SC) received **accelerated FDA approval in Augu
 
 ```mermaid
 flowchart TD
-    A["[[nafld-masld|MASLD/MASH]] suspected<br/>Metabolic risk factors + elevated ALT"] --> B{"FIB-4<br/>(age × AST / [plt × √ALT])"}
+    A["MASLD/MASH suspected<br/>Metabolic risk factors + elevated ALT"] --> B{"FIB-4<br/>(age × AST / plt × √ALT)"}
     B -->|"< 1.3"| C["Advanced fibrosis excluded<br/>(99% NPV)<br/>Reassess in 1–2 years"]
     B -->|"≥ 1.3"| D["Second-line NIT"]
     D --> E{"Imaging or<br/>blood-based NIT"}
     E -->|"VCTE LSM 8–15 kPa<br/>MRE 3.1–4.4 kPa<br/>ELF 9.2–10.5"| F["✓ Candidate<br/>F2–F3 confirmed"]
     E -->|"VCTE 15–20 kPa<br/>MRE 4.4–5.0 kPa<br/>ELF 10.5–11.3"| G{"Exclude cirrhosis:<br/>no nodular liver<br/>no portal HTN signs<br/>platelets ≥150k"}
     G -->|"Cirrhosis excluded"| F
-    G -->|"Cirrhosis likely"| H["✗ Not approved<br/>Manage as cirrhosis<br/>(see [[nafld-masld]])"]
+    G -->|"Cirrhosis likely"| H["✗ Not approved<br/>Manage as cirrhosis"]
     E -->|"VCTE >20 kPa<br/>MRE >5.0 kPa<br/>ELF >11.3"| H
     F --> I["Initiate Wegovy 2.4 mg SC weekly<br/>with standard titration<br/>Assess response at 72 weeks"]
     style F fill:#2d6a2d,color:#fff
@@ -92,8 +92,10 @@ For VCTE 15–20 kPa, MRE 4.4–5 kPa, or ELF 10.5–11.3: individualized treatm
 - Personal or family history of medullary thyroid carcinoma (MTC)
 - Multiple endocrine neoplasia syndrome type 2 (MEN2)
 - Pregnancy
-- Severe [[gastroparesis]] (relative contraindication — avoid)
+- **Severe [[gastroparesis]] — contraindicated** (AASLD wording; obtain baseline gastric motility assessment in anyone with a pre-existing motility disorder)
 - Active suicidal ideation at initiation (defer until patient is stable and under mental health care)
+
+*Not* a contraindication: a **history of gallbladder disease** — that is a caution, not an absolute contraindication.
 
 **Note on compensated cirrhosis:** Patients with compensated cirrhosis receiving semaglutide for another FDA-approved indication (obesity, T2DM) should be monitored carefully; a phase 2 trial (Cusi 2023, Lancet Gastroenterol Hepatol) did not identify liver-related safety concerns in this population.
 
@@ -146,7 +148,7 @@ For VCTE 15–20 kPa, MRE 4.4–5 kPa, or ELF 10.5–11.3: individualized treatm
 | Thyroid C-cell tumors (MTC risk) | Review history of MTC/MEN2; monitor for neck mass, hoarseness, [[dysphagia]] | Contraindicated in MTC/MEN2; educate on symptoms; routine calcitonin testing NOT required; no conclusive human evidence for MTC causation |
 | Hypoglycemia (with insulin/secretagogues) | Monitor glucose in patients on insulin or sulfonylureas; 7.4% vs. 5.4% in ESSENCE (T2DM) | Adjust insulin/sulfonylurea dose; educate on hypoglycemia recognition; higher risk post-[[bariatric-surgery]] |
 | Heart rate increase (chronotropic effect) | Check pulse periodically; ask about palpitations or tachycardia | Caution in arrhythmia-prone patients; reassess if persistent tachycardia |
-| [[gastroparesis]]/delayed gastric emptying | Evaluate baseline gastric motility in at-risk patients; monitor for early satiety, vomiting, retained food | Avoid in severe [[gastroparesis]]; consider gastric emptying evaluation if symptoms persist; retrospective incidence 6.5/1000 person-years |
+| Gastroparesis/delayed gastric emptying | Evaluate baseline gastric motility in at-risk patients; monitor for early satiety, vomiting, retained food | **Contraindicated in severe gastroparesis**; consider gastric emptying evaluation if symptoms persist; retrospective incidence 6.5/1000 person-years |
 | Procedural risks (aspiration/retained gastric contents) | Document GLP-1 RA use pre-procedure; coordinate with local anesthesia for fasting interval | Per [[aga-2024-glp1-endoscopy\|AGA 2024]]: individualized approach, not routine cessation — standard fast (8 h solids/2 h liquids) + no GI symptoms → proceed; ASA consensus alternative is hold day-of (daily dose)/1 wk prior (weekly). Full guidance on [[endoscopy-sedation]] |
 | Diabetic retinopathy and ocular complications | Baseline retinal exam if not recently done in T2DM; periodic ophthalmology evaluation; monitor for blurred vision | Avoid rapid glucose lowering; refer for new visual symptoms; SUSTAIN-6: retinopathy 3.0% vs. 1.8% placebo; increased NAION and wet AMD risk |
 | Lean mass loss/sarcopenia | Assess muscle strength/mass (DEXA, grip test); ensure protein intake and resistance training | Maintain protein intake 1.2–1.5 g/kg/day; encourage resistance training; monitor closely in older/sarcopenic adults; ~13% lean mass loss (39% of total weight loss); appendicular skeletal muscle declines 9–10% over 2 years |

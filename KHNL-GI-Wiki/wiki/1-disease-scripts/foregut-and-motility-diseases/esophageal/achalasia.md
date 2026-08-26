@@ -3,7 +3,7 @@ title: "Achalasia"
 category: disease-script
 tags: [achalasia, esophageal-motility, dysphagia, hrm, poem, heller-myotomy, pneumatic-dilation, foregut]
 created: 2026-05-15
-updated: 2026-08-14
+updated: 2026-08-26
 sources: [acg-2020-achalasia, asge-2020-achalasia, sages-2021-poem, sages-2024-poem, aga-2024-poem-advances, aga-2024-esophageal-immunity-infection, chicago-v4-2021-esophageal-dysmotility]
 ---
 # Achalasia
@@ -23,11 +23,10 @@ sources: [acg-2020-achalasia, asge-2020-achalasia, sages-2021-poem, sages-2024-p
 
 **Always perform [[upper-endoscopy|upper endoscopy]] first** to rule out pseudoachalasia from obstructing mass (especially in elderly with significant short-term weight loss → cross-sectional imaging ± [[endoscopic-ultrasound|EUS]]).
 
-**Diagnostic criteria (any 2 of 3):**
+**How the diagnosis is actually made** ([[acg-2020-achalasia]]) — the three tests are *not* interchangeable criteria; they sit in sequence:
 
-1. Endoscopic: retained saliva, puckered/tight GEJ requiring pressure to traverse, dilated esophagus
-2. Barium esophagram: dilated esophagus with "bird beaking" at GEJ, retained barium at 1–5 min (TBE)
-3. [[high-resolution-manometry|HRM]]: elevated integrated relaxation pressure (IRP) + absent/disordered peristalsis — **gold standard**
+1. **Suggestive** — endoscopy (retained saliva/food, dilated esophagus, puckered/tight GEJ requiring more-than-usual pressure to traverse) and/or barium esophagram (dilated esophagus, "bird beaking" at the GEJ, retained barium at 1–5 min on TBE). *In the appropriate clinical setting*, either of these can raise the diagnosis.
+2. **Confirmatory** — [[high-resolution-manometry|HRM]] is the **gold standard**: impaired EGJ relaxation (elevated integrated relaxation pressure, IRP) plus absent/disordered peristalsis. Esophagram is complementary when manometry is equivocal or non-classic.
 
 > **Recommendation:** Use esophageal pressure topography (HRM) over conventional line tracing for the diagnosis of achalasia. (Strong; High evidence)
 >
@@ -106,7 +105,7 @@ Symptom score: dysphagia + regurgitation + chest pain + weight loss (each 0–3)
 
 ### Treatment Algorithm
 
-![[achalasia-2020-treatment-algorithm-15.png|697|700x396]]
+![[achalasia-2020-treatment-algorithm-15.png|700x396]]
 *Figure 8 — Diagnostic and treatment algorithm for achalasia. FLIP: functional lumen imaging probe; HRM: high-resolution manometry; PPI: proton pump inhibitor. ([[acg-2020-achalasia]])*
 
 ```mermaid

@@ -7,8 +7,6 @@ updated: 2026-08-14
 sources: [acg-2025-crohns, aga-2025-crohns-pharm, aga-2021-crohns-pharm, aga-2023-biomarkers-cd, acg-2018-crohns, asge-2015-scenic-ibd-dysplasia, asge-2015-ibd, aga-2026-inpatient-ibd, aga-2026-therapeutic-endoscopy-ibd, aga-2024-intestinal-ultrasound, aga-2024-diet-nutrition-ibd, aga-2024-ibd-malignancy, aga-2024-pregnancy-gi-liver]
 ---
 
-# Crohn's Disease
-
 Idiopathic, transmural, granulomatous inflammatory disorder of the GI tract. Can involve any segment mouth-to-anus; discontinuous, skip lesions. Chronic progressive course with risk of stricture, fistula, abscess, and surgery.
 
 ---
@@ -68,10 +66,13 @@ No single pathognomonic test. Diagnosis = integration of:
 
 ### Natural History Key Facts
 
-- 10-yr cumulative surgery risk: ~30% (biologic era) to 46% (pre-biologic)
-- 50% will develop intestinal complication (stricture/abscess/fistula) within 20 years
-- 5-yr symptomatic postoperative recurrence: ~50%
-- Perianal fistulizing CD: up to 26% lifetime incidence
+*Key concepts from [[acg-2025-crohns|ACG 2025]] — these carry the case for early advanced therapy:*
+
+- **Only 20–30% have a nonprogressive/indolent course** over long observation; most will need therapy that controls bowel inflammation (KC 8)
+- **10-yr cumulative risk of major abdominal surgery 40–55%**, possibly down to **~30%** in the biologic era (KC 14); **10-yr risk of a second resection after the first 35%** (recent data closer to 30%)
+- Among those presenting with **inflammatory (B1) behavior**, cumulative risk of an intestinal complication (stricture/abscess/fistula) is **51% at 20 years**. Ileal, ileocolonic, or upper-GI location accelerates progression; **colonic disease is protective**
+- **5-yr symptomatic postoperative recurrence ~50%** (KC 15); 5-yr clinical recurrence after major abdominal surgery 40–50%; **endoscopic recurrence approaches 90%**
+- **Perianal fistulizing CD in up to one-quarter of patients** (KC 10): population-based frequency 10–26%, cumulative risk 26% at 20 y in one cohort; systematic review prevalence 18.7% with 10-y progression 18.9%. Perianal disease may **precede** luminal CD (3.8%)
 
 ---
 
@@ -137,7 +138,7 @@ No single pathognomonic test. Diagnosis = integration of:
 
 ### Treatment Goals
 
-- Clinical remission (CDAI <150; symptom-free — i.e. no increased stool frequency or abdominal pain). **CDAI is a clinical-trial instrument, not a practice tool** ([[acg-2025-crohns]]): at the bedside grade activity by symptoms (abdominal pain, stool frequency) **plus** elevated biomarkers or activity on endoscopy/imaging.
+- Clinical remission (CDAI <150; symptom-free — i.e. no increased stool frequency or abdominal pain). **CDAI is a clinical-trial instrument, not a practice tool** ([[acg-2025-crohns]]): at the bedside grade activity by symptoms (abdominal pain, stool frequency) **plus** elevated biomarkers or activity on endoscopy/imaging. CDAI does **not** correlate with SES-CD, CRP, fecal calprotectin, or lactoferrin — do not treat symptoms alone (KC 9). *(The CDAI's 8 component variables and their weightings are not printed in any ingested source — flagged, not filled; the original Best 1976 index would be needed.)*
 - Endoscopic remission (no ulceration; SES-CD ≤2)
 - Steroid-free maintenance
 - Prevention of complications (stricture, fistula, surgery)
@@ -329,7 +330,7 @@ No single pathognomonic test. Diagnosis = integration of:
 
 ---
 
-## Monitoring
+### Monitoring
 
 **Goals:** Clinical response within 2–4 weeks; maximal improvement by 12–16 weeks
 
@@ -347,7 +348,7 @@ No single pathognomonic test. Diagnosis = integration of:
 
 ---
 
-## Special Considerations
+### Special Considerations
 
 **Smoking:** Worsens CD (penetrating phenotype, ↑relapse, ↑surgery); cessation counseling at every visit.
 
@@ -372,10 +373,6 @@ No single pathognomonic test. Diagnosis = integration of:
 - Delivery: **avoid vaginal birth with active perianal CD, perianal abscess, or active rectal disease**; consider cesarean for prior complex fistulizing disease ± J-pouch.
 
 ---
-
-## Syntheses
-
-- [[uc-vs-crohns-comparison]] — Feature-by-feature comparison of UC vs Crohn's disease
 
 ## See Also
 

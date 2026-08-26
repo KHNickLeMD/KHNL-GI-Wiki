@@ -3,7 +3,7 @@ title: "Ineffective Esophageal Motility"
 category: disease-script
 tags: [iem, motility, esophageal, dysphagia, gerd, chicago-classification]
 created: 2026-05-16
-updated: 2026-08-14
+updated: 2026-08-26
 sources: [chicago-v4-2021-esophageal-dysmotility, aga-2025-flip-esophageal, acg-2020-esophageal-physiologic-testing]
 ---
 
@@ -15,10 +15,14 @@ sources: [chicago-v4-2021-esophageal-dysmotility, aga-2025-flip-esophageal, acg-
 
 IEM is defined by **Chicago Classification v4.0** on [[high-resolution-manometry]]:
 
-- **≥70% ineffective swallows** (DCI <450 mmHg·s·cm), OR
-- **≥50% failed swallows** (DCI <100 mmHg·s·cm)
+Normal median IRP (supine **and** upright), **plus** either:
 
-**Chicago v4.0 revision:** Fragmented peristalsis was **eliminated** as a standalone disorder and absorbed into IEM. The thresholds above replaced the prior v3.0 criteria (>50% ineffective).
+- **>70% ineffective swallows** — ineffective = weak (DCI 100 to <450 mmHg·s·cm) **or** failed (DCI <100), OR
+- **≥50% failed peristalsis** (DCI <100 mmHg·s·cm)
+
+Note the two signs differ: **>70%** for ineffective, **≥50%** for failed.
+
+**Chicago v4.0 revision:** Fragmented peristalsis was **eliminated** as a standalone disorder and absorbed into IEM. The thresholds above replaced the prior v3.0 criteria (≥50% ineffective).
 
 **Clinical significance:** IEM is a minor motility disorder; most patients have mild or no symptoms. Clinical significance is primarily in:
 

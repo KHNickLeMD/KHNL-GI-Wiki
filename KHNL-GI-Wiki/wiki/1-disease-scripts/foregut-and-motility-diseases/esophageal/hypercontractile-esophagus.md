@@ -3,7 +3,7 @@ title: "Hypercontractile Esophagus (Jackhammer Esophagus)"
 category: disease-script
 tags: [hypercontractile, jackhammer, esophageal, motility, dysphagia, chest-pain, chicago-classification]
 created: 2026-05-16
-updated: 2026-08-14
+updated: 2026-08-26
 sources: [chicago-v4-2021-esophageal-dysmotility, aga-2025-flip-esophageal, acg-2020-achalasia, aga-2024-poem-advances]
 ---
 
@@ -15,9 +15,10 @@ sources: [chicago-v4-2021-esophageal-dysmotility, aga-2025-flip-esophageal, acg-
 
 Hypercontractile esophagus (jackhammer esophagus) is defined by **Chicago Classification v4.0** on [[high-resolution-manometry]]:
 
-- ≥20% of swallows with DCI **>8,000 mmHg·s·cm**
-- IRP normal (if IRP elevated → concern for [[achalasia]] spectrum; investigate with TBE/FLIP)
+- Normal median IRP (if IRP elevated → concern for [[achalasia]] spectrum / [[esophagogastric-junction-outflow-obstruction|EGJOO]] with hypercontractile features; investigate with TBE/[[flip-panometry|FLIP]])
+- **≥20% hypercontractile swallows**, hypercontractile = DCI **>8,000 mmHg·s·cm**
 - Sustained EGJ contractions (SOCs) may occur
+- **A hypercontractile pattern alone is of unclear clinical relevance.** CCv4.0 requires **clinically relevant symptoms and/or supportive testing** before calling it a conclusive diagnosis — the same caveat it applies to [[distal-esophageal-spasm|DES]] and EGJOO
 
 ---
 

@@ -3,7 +3,7 @@ title: "Chronic Diarrhea"
 category: diagnostic-schema
 tags: [diarrhea, chronic, malabsorption, secretory, osmotic, inflammatory, steatorrhea, ibs]
 created: 2026-06-04
-updated: 2026-08-25
+updated: 2026-08-26
 sources: [asge-2010-diarrhea]
 ---
 
@@ -17,7 +17,7 @@ The most useful framework is to classify by **stool character** into watery, inf
 
 ## Mechanistic Classification
 
-> ⚠ **Source-provenance flag (flagged, not filled).** The only source ingested for this page is [[asge-2010-diarrhea]], an ASGE **role-of-endoscopy** document. It supports the **>4-week** definition and everything in [[#Role of Endoscopy (ASGE 2010)]] — but it does **not** contain the secretory/osmotic/inflammatory/fatty mechanistic scheme, the stool osmotic-gap formula or its **<50 / >75 mOsm/kg** cutoffs, the endocrine panel, or the bile-acid testing modalities below. Those predate this lint pass and are **not traceable to any ingested source** (verified by full-corpus search: no ingested source mentions "osmotic gap"). Treat the cutoffs as unverified until a chronic-diarrhea guideline (e.g. an ACG/AGA chronic diarrhea guideline, or the primary stool-electrolyte literature) is added to `raw/`. **Do not supply them from memory.**
+> ⚠ **Source-provenance flag (flagged, not filled).** The only source ingested for this page is [[asge-2010-diarrhea]], an ASGE **role-of-endoscopy** document. It supports the **>4-week** definition and everything in [[#Role of Endoscopy (ASGE 2010)]] — but it does **not** contain the secretory/osmotic/inflammatory/fatty mechanistic scheme, the stool osmotic-gap formula or its **<50 / >75 mOsm/kg** cutoffs, the endocrine panel, the bile-acid testing modalities below, or the **Bristol 6–7** stool-consistency anchor in [[#Definition / Scope]] (the Bristol Stool Form Scale itself exists in the corpus only as a figure and inside an ungated lecture — no page defines its 7 types). Those predate this lint pass and are **not traceable to any ingested source** (verified by full-corpus search: no ingested source mentions "osmotic gap"). Treat the cutoffs as unverified until a chronic-diarrhea guideline (e.g. an ACG/AGA chronic diarrhea guideline, or the primary stool-electrolyte literature) is added to `raw/`. **Do not supply them from memory.**
 
 | Type | Mechanism | Stool osmotic gap | Fasting response |
 |---|---|---|---|

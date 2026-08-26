@@ -3,7 +3,7 @@ title: "Abdominal Bloating, Distention, and Belching"
 category: diagnostic-schema
 tags: [bloating, distention, belching, aerophagia, dgbi, functional-gi, sibo, fodmap]
 created: 2026-07-19
-updated: 2026-08-14
+updated: 2026-08-26
 sources: [aga-2023-bloating]
 ---
 
@@ -40,7 +40,7 @@ Three prevalent, often-overlapping symptoms; when frequent/severe enough to impa
 
 - **Primary (functional) bloating/distention** — Rome IV DGBI (diagnosis of the criteria above once overlap syndromes excluded).
 - **Overlapping DGBIs** — [[irritable-bowel-syndrome|IBS]] (esp. IBS-C), [[chronic-idiopathic-constipation|functional constipation]], functional dyspepsia ([[dyspepsia]]), [[gastroparesis]].
-- **Food intolerance / malabsorption** — carbohydrate enzyme deficiency (lactase, sucrase), fructose intolerance (most common, ~60% across DGBIs), artificial sweeteners/sugar alcohols, fructans.
+- **Food intolerance / malabsorption** — carbohydrate enzyme deficiency (lactase, sucrase), artificial sweeteners/sugar alcohols, fructans. In the largest DGBI cohort, **fructose intolerance was the most common (60%)**, above **lactose intolerance (51%)**, with similar prevalence across DGBI types except IBS-C.
 - **[[celiac-disease]]** and nonceliac gluten sensitivity.
 - **[[small-intestinal-bacterial-overgrowth|SIBO]]** / **[[intestinal-methanogen-overgrowth]]** (methane, *M. smithii*, esp. IBS-C).
 - **Pelvic floor / defecatory dysfunction** — dyssynergic defecation with retained stool ([[defecation-disorders]]).

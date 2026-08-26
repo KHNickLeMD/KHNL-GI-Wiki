@@ -3,8 +3,8 @@ title: "Somatostatin Analogs"
 category: med
 tags: [somatostatin-analog, octreotide, lanreotide, net, carcinoid, variceal-bleeding, angioectasia]
 created: 2026-06-18
-updated: 2026-08-14
-sources: [nccn-2026-net, aasld-2023-portal-hypertension, acg-2015-small-bowel-bleeding]
+updated: 2026-08-26
+sources: [nccn-2026-net, aasld-2023-portal-hypertension, acg-2015-small-bowel-bleeding, aga-2024-vasoactive-albumin-cirrhosis]
 ---
 
 **Octreotide** (short-acting SC/IV and long-acting **LAR**) and **lanreotide** bind somatostatin receptors (chiefly SSTR2/5), suppressing splanchnic and endocrine secretion and exerting an antiproliferative effect on neuroendocrine cells. Three main GI/hepatology uses: acute variceal bleeding, neuroendocrine tumors, and refractory small-bowel vascular bleeding.
@@ -12,6 +12,9 @@ sources: [nccn-2026-net, aasld-2023-portal-hypertension, acg-2015-small-bowel-bl
 ## Contents
 - [[#Mechanism]]
 - [[#Indications & Dosing]]
+  - [[#Acute Variceal Bleeding]]
+  - [[#GEP-NET — Symptom and Tumor Control]]
+  - [[#Refractory Small-Bowel Vascular Bleeding]]
 - [[#Adverse Effects & Monitoring]]
 - [[#See Also]]
 - [[#Sources]]
@@ -24,21 +27,62 @@ sources: [nccn-2026-net, aasld-2023-portal-hypertension, acg-2015-small-bowel-bl
 
 ## Indications & Dosing
 
-| Indication | Agent / dose | Notes |
-|-----------|--------------|-------|
-| **Acute variceal bleeding** ([[portal-hypertension]]) | **Octreotide 50 mcg IV bolus → 25–50 mcg/hr infusion × 2–5 days**; somatostatin 250 mcg bolus → 250–500 mcg/hr as alternative | Start immediately on suspicion, before [[upper-endoscopy\|endoscopy]] ([[aasld-2023-portal-hypertension]]). Octreotide preferred over terlipressin in pregnancy (terlipressin causes uterine stimulation). |
-| **GEP-NET — carcinoid syndrome** ([[gastroenteropancreatic-neuroendocrine-tumors]]) | Octreotide LAR / lanreotide (depot, monthly) | First-line for symptom control in functioning tumors; **octreotide available intraoperatively for carcinoid crisis**; telotristat added for refractory diarrhea ([[nccn-2026-net]]). |
-| **GEP-NET — tumor control** | Octreotide LAR / lanreotide | First-line antiproliferative therapy for SSTR-positive (SSTR-PET-avid) metastatic disease; used around **peptide receptor radionuclide therapy (PRRT, ¹⁷⁷Lu-DOTATATE)** ([[nccn-2026-net]]). |
-| **Refractory small-bowel vascular bleeding** ([[small-bowel-bleeding]], [[angioectasia]]) | **Depot octreotide LAR 90 mg monthly** or lanreotide IM monthly **× 12 months** (range 6–36) | For persistent/recurrent bleeding when the lesion cannot be localized/treated. Reduces transfusion requirement (meta-analysis; no placebo RCT with hard endpoints). Poor-response predictors: age >65, male sex, antiplatelet therapy, COPD, chronic renal failure ([[acg-2015-small-bowel-bleeding]]). |
+### Acute Variceal Bleeding
+In [[portal-hypertension]], a vasoactive drug is started immediately on suspicion, before [[upper-endoscopy|endoscopy]] ([[aasld-2023-portal-hypertension]] Table 5):
+
+| Agent | Dosing | Duration |
+|---|---|---|
+| **Octreotide** | IV bolus **50 mcg** → infusion **25–50 mcg/hr** | 2–5 d |
+| **Somatostatin** | IV bolus **250 mcg** → infusion **250–500 mcg/hr** | 2–5 d |
+| Terlipressin (comparator; **not FDA-approved for this indication in North America**) | 2 mg IV q4–6h × first 24–48 h, then 1 mg IV q4–6h | 2–5 d |
+
+- **Pregnancy:** avoid terlipressin (stimulates uterine contraction) — **somatostatin or octreotide may be used** instead.
+
+### GEP-NET — Symptom and Tumor Control
+In GEP-NETs, standard SSA dosing is the same whether the goal is hormonal symptom control or antiproliferative tumor control ([[nccn-2026-net]]):
+
+| Agent / setting | Dose |
+|---|---|
+| **Octreotide acetate LAR** (depot) | **20–30 mg IM every 4 weeks** |
+| **Lanreotide** (depot) | **120 mg SC every 4 weeks** |
+| **Short-acting octreotide** — breakthrough / rapid symptom relief | **100–250 mcg SC TID**; can be added to a depot SSA (therapeutic levels are not reached until **10–14 d** after an LAR injection) |
+| **Above-label dosing** if progression on standard doses | Octreotide LAR up to **60 mg monthly**, or lanreotide up to **120 mg every 14 days**, in select cases — higher doses have been shown to be safe |
+| Refractory carcinoid-syndrome diarrhea | Add **telotristat 250 mg PO TID** |
+
+- **Antiproliferative use** is for SSTR-positive (SSTR-PET–avid) disease; on clinically significant progression, SSAs are **discontinued for non-functional tumors** but **continued for functional tumors**.
+- **Around PRRT (¹⁷⁷Lu-DOTATATE):** SSAs can be given **4–24 h after** each treatment. The customary 4-week withhold before each cycle rests on theoretical SSTR-binding competition with little supporting evidence; the panel notes it need not be strictly 28 days.
+- **Carcinoid crisis:** octreotide should be **available** during surgery for patients with carcinoid syndrome who become hemodynamically unstable — **100–500 mcg IV**, optionally followed by infusion **50–300 mcg/hr**. **Prophylactic octreotide is likely ineffective at preventing** intraoperative carcinoid crisis, and giving it must **not delay vasopressors and fluids**.
+- **Insulinoma:** use an SSA **only if SSTR-based imaging is positive**, and then with caution — SSAs may **transiently worsen hypoglycemia**, and in the absence of SSTRs they can worsen it **profoundly**.
+
+### Refractory Small-Bowel Vascular Bleeding
+For persistent/recurrent [[small-bowel-bleeding]] from [[angioectasia]] when the lesion cannot be localized or treated ([[acg-2015-small-bowel-bleeding]]). Proposed mechanism: inhibition of angiogenesis, decreased splanchnic flow, increased vascular resistance, improved platelet aggregation.
+
+| Regimen (as studied) | Detail |
+|---|---|
+| Depot **octreotide LAR IM monthly** *or* **lanreotide 90 mg monthly** | Refractory bleeding defined as **>5 U blood within 3 months** after conventional treatment; given for a **mean of 12 months (range 6–36)**. Transfusions fell to 2 U (0–14) vs 10 U (6–24) pre-treatment (*P*<0.001); patients with a bleeding episode 20% vs 73% (*P*=0.001). |
+| **Octreotide 100 mcg SC TID × 1 month**, then depot **20 mg monthly × 6 months** | Retrospective, n=98: 40% complete responders, 32% partial, 26% non-responders. |
+
+- **Poor-response predictors** (multivariate): age >65, male sex, antiplatelet therapy, COPD, chronic renal failure.
+- A meta-analysis confirms the value of octreotide and its analogs in this setting (whereas hormonal therapy has no role).
 
 ## Adverse Effects & Monitoring
-- **GI:** nausea, bloating, cramping, steatorrhea/malabsorption.
-- **Biliary:** gallstones/biliary sludge with chronic depot use.
-- **Metabolic:** hyper- or hypoglycemia (glucose homeostasis effects); bradycardia.
-- Injection-site reactions with depot formulations.
+
+By frequency, per [[aga-2024-vasoactive-albumin-cirrhosis]] Table 2. **Adverse events are generally dose-dependent but still occur at lower doses.**
+
+| Agent | Reported in ≥10% | Reported in <10% |
+|---|---|---|
+| **Octreotide** | Bradycardia; cardiac conduction abnormalities; diarrhea; loose stool; nausea; abdominal discomfort; **hyperglycemia** | Arrhythmia; abdominal distension; severe epigastric pain; **hypoglycemia**; headache; dizziness; fatigue |
+| **Somatostatin** | Diarrhea; abdominal pain; nausea | Constipation; flatulence; vomiting; loose stool; arthralgia; headache |
+
+Additional effects tied to long-term SSA use in NETs:
+
+- **Biliary — the practice-changing one:** long-term SSA use raises the risk of **biliary symptoms and cholecystitis**, so **cholecystectomy is recommended when operating for advanced NETs in a patient anticipated to receive long-term SSAs** ([[nccn-2026-net]]).
+- **Diarrhea** can be a direct side effect of SSAs; SSAs also cause **[[exocrine-pancreatic-insufficiency|pancreatic exocrine insufficiency]] with steatorrhea**. If diarrhea/steatorrhea worsens on an SSA, trial **pancreatic enzymes** before escalating anti-secretory therapy, and consider the other causes of diarrhea in this population ([[bile-acid-diarrhea|bile-acid malabsorption]] after ileocecectomy or cholecystectomy, short-gut).
+- **Injection-site complications:** if they occur, **switch to the other SSA**.
+- **Hypoglycemia** in insulinoma (see above).
 
 ## See Also
-[[gastroenteropancreatic-neuroendocrine-tumors]], [[portal-hypertension]], [[variceal-upper-gi-bleeding]], [[small-bowel-bleeding]], [[angioectasia]], [[upper-endoscopy]]
+[[gastroenteropancreatic-neuroendocrine-tumors]], [[portal-hypertension]], [[variceal-upper-gi-bleeding]], [[small-bowel-bleeding]], [[angioectasia]], [[upper-endoscopy]], [[exocrine-pancreatic-insufficiency]], [[bile-acid-diarrhea]], [[albumin]]
 
 ---
 
@@ -47,3 +91,4 @@ sources: [nccn-2026-net, aasld-2023-portal-hypertension, acg-2015-small-bowel-bl
 1. [[nccn-2026-net|NCCN Clinical Practice Guidelines in Oncology: Neuroendocrine and Adrenal Tumors (Version 1.2026)]]
 2. [[aasld-2023-portal-hypertension|AASLD 2023: Portal Hypertensive Bleeding in Cirrhosis — Risk Stratification, Diagnosis, and Management]]
 3. [[acg-2015-small-bowel-bleeding|ACG 2015: Diagnosis and Management of Small Bowel Bleeding]]
+4. [[aga-2024-vasoactive-albumin-cirrhosis|AGA 2024 Clinical Practice Update on the Use of Vasoactive Drugs and Intravenous Albumin in Cirrhosis]]

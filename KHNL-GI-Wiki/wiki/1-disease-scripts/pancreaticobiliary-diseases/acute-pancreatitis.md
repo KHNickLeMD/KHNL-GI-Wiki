@@ -3,8 +3,8 @@ title: "Acute Pancreatitis"
 category: disease-script
 tags: [pancreatitis, acute-pancreatitis, hpb, gallstone-pancreatitis, necrotizing-pancreatitis, ercp, bisap, fluid-resuscitation, nutrition]
 created: 2026-05-07
-updated: 2026-08-14
-sources: [acg-2024-acute-pancreatitis, asge-2016-pancreatic-fluid-collections, asge-2015-benign-pancreatic-disease, demadaria-2022-waterfall, aga-2024-pregnancy-gi-liver, aga-2022-recurrent-pancreatitis-endoscopy, asge-2023-post-ercp-pancreatitis]
+updated: 2026-08-26
+sources: [acg-2024-acute-pancreatitis, asge-2016-pancreatic-fluid-collections, asge-2015-benign-pancreatic-disease, demadaria-2022-waterfall, aga-2024-pregnancy-gi-liver, aga-2022-recurrent-pancreatitis-endoscopy, asge-2023-post-ercp-pancreatitis, aga-2020-cpu-pancreatic-necrosis]
 ---
 
 # Acute Pancreatitis
@@ -25,6 +25,8 @@ sources: [acg-2024-acute-pancreatitis, asge-2016-pancreatic-fluid-collections, a
   - [[#5. ERCP]]
   - [[#6. Necrotizing Pancreatitis (Step-Up Approach)]]
   - [[#7. Gallstone Pancreatitis — Definitive Management]]
+- [[#See Also]]
+- [[#Sources]]
 
 ---
 
@@ -270,6 +272,18 @@ sources: [acg-2024-acute-pancreatitis, asge-2016-pancreatic-fluid-collections, a
 - **Acute necrotic collection (ANC):** necrosis ± fluid; first 4 weeks
 - **Walled-off necrosis (WON):** encapsulated necrosis >4 weeks; treat if infected or symptomatic
 
+**Choosing the drainage route, the stent, and whether to necrosectomize** ([[aga-2020-cpu-pancreatic-necrosis]] — an AGA *expert review*; its Best Practice Advice statements carry **no GRADE strength or evidence quality**. Where it overlaps ACG 2024 above — prophylactic antibiotics, FNA, the 4-week delay, step-up sequencing — **ACG 2024 governs**; the points below are net-new):
+
+| Question | Answer (BPA) |
+|---|---|
+| **Percutaneous or transmural endoscopic drainage of WON?** | **Both are appropriate first-line, nonsurgical approaches.** Transmural endoscopic drainage **may be preferred — it avoids creating a pancreatocutaneous fistula** (BPA 7). One large prospective study: fistula **32% (percutaneous/VARD) vs 5% (endoscopic)**, P<.01 |
+| **When is percutaneous drainage the right first move?** | Infected or symptomatic necrotic collections in the **early, acute period (<2 weeks)**; **WON in a patient too ill** for endoscopic or surgical intervention. Also strongly consider it **as an adjunct** to endoscopic drainage when WON extends **deep into the paracolic gutters and pelvis** (dependent portions won't drain through a superiorly placed transmural stent), or as **salvage after endoscopic/surgical debridement leaves residual necrosis** (BPA 8) |
+| **Which transmural stent?** | **Lumen-apposing metal stents (LAMS) appear superior to plastic stents** (BPA 9). ⚠ The same document notes a **randomised trial that did not show superiority over plastic stents** — treat BPA 9 as expert opinion, not settled evidence |
+| **When is direct endoscopic necrosectomy (DEN) indicated rather than drainage alone?** | **Reserve DEN** for **limited necrosis that does not respond adequately** to transmural drainage with large-bore SEMS/LAMS alone, or plastic stents plus irrigation. DEN is also an option for **large amounts of infected necrosis** — but only **at referral centers** with the endoscopic expertise plus **interventional-radiology and surgical backup** (BPA 10). Risks: **air embolism, intracavitary bleeding, perforation** |
+| **Which minimally invasive operation?** | **Videoscopic-assisted retroperitoneal debridement (VARD), laparoscopic transgastric debridement, and open transgastric debridement** are all feasible and effective; choose by **pattern of disease, patient physiology, team experience/expertise, and available resources** (BPA 12). VARD suits **centrally distributed necrosis extending into the left paracolic gutter** and is **ineffective for necrosis right of the mesenteric vessels**; transgastric approaches suit **centrally located** necrosis |
+| **Is there still a role for open debridement?** | **Yes** — for cases **not amenable to less invasive endoscopic and/or surgical procedures** (BPA 13); best undertaken with a **large burden of necrosis distributed diffusely** through the abdomen |
+| **Disconnected left pancreatic remnant** after mid-body necrosis | **Distal pancreatectomy** in patients with **reasonable operative candidacy**. **Insufficient evidence** supports managing it with **long-term transenteric endoscopic stenting** (BPA 14) — EUS-guided transmural stenting is a **temporizing** measure. ⚠ No newer ingested source covers DPDS |
+
 **Endoscopic drainage of fluid collections — indications & approach [[asge-2016-pancreatic-fluid-collections]]:**
 
 - **Before drainage:** exclude cystic neoplasm and pseudoaneurysm; wait for cyst-wall maturation
@@ -312,3 +326,4 @@ sources: [acg-2024-acute-pancreatitis, asge-2016-pancreatic-fluid-collections, a
 5. [[aga-2024-pregnancy-gi-liver|AGA Clinical Practice Update on Pregnancy-Related Gastrointestinal and Liver Disease: Expert Review]]
 6. [[aga-2022-recurrent-pancreatitis-endoscopy|AGA 2022: Clinical Practice Update on the Endoscopic Approach to Recurrent Acute and Chronic Pancreatitis]]
 7. [[asge-2023-post-ercp-pancreatitis|ASGE Guideline: Post-ERCP Pancreatitis Prevention (2023)]]
+8. [[aga-2020-cpu-pancreatic-necrosis|AGA Clinical Practice Update: Management of Pancreatic Necrosis (2020)]]

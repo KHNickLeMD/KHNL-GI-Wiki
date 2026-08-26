@@ -3,7 +3,7 @@ title: "Exocrine Pancreatic Insufficiency (EPI)"
 category: disease-script
 tags: [exocrine-pancreatic-insufficiency, epi, pert, fecal-elastase, malabsorption, steatorrhea, pancreas, hpb]
 created: 2026-07-18
-updated: 2026-08-12
+updated: 2026-08-26
 sources: [aga-2023-epi]
 ---
 
@@ -70,8 +70,10 @@ Conditions that mimic EPI or blunt the response to enzyme therapy (consider when
 
 **Pancreatic enzyme replacement therapy (PERT) — required once EPI is diagnosed.** All formulations are porcine-derived and equally effective at equivalent doses.
 
-- **Dose:** start **≥40,000 USP units of lipase with each meal**; **half that (≈20,000 units) with snacks**. Titrate up by meal size and fat content.
-- **Timing:** take **during** the meal (not before/after).
+- **Dose:** start **≥40,000 USP units of lipase with each meal** (**40,000–50,000** is a reasonable initial dose); **one-half that amount with snacks**. Titrate **up** for larger or higher-fat meals, **down** for smaller or low-fat meals.
+  - **Ceiling:** doses **>120,000 USP units of lipase per meal are seldom required.**
+  - **Weight-based alternative** (children and adults with advanced [[chronic-pancreatitis|CP]], as in cystic fibrosis): **500 units lipase/kg/meal** and **250 units lipase/kg/snack** (≈40,000 and 20,000 units for an 80-kg patient). **Cystic-fibrosis maximum: <10,000 units lipase/kg/day, or <4,000 units per gram of dietary fat per day.**
+- **Timing:** take **during** the meal (not before/after) — maximizes mixing with the meal.
 - **Acid suppression:** non–enteric-coated preparations require a concurrent **H2 blocker or [[proton-pump-inhibitors|PPI]]** (acid inactivates lipase).
 - **Diet:** low-to-moderate fat with frequent smaller meals; **avoid very-low-fat diets** (impair fat-soluble vitamin absorption). Routine fat-soluble vitamin supplementation.
 
