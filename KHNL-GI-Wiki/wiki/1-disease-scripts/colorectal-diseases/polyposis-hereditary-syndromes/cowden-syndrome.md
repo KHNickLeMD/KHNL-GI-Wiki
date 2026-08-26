@@ -3,7 +3,7 @@ title: "Cowden Syndrome (PTEN Hamartoma Tumor Syndrome)"
 category: disease-script
 tags: [cowden, pten, phts, hamartoma, hereditary-cancer, breast-cancer, thyroid-cancer, endometrial-cancer, colorectal-cancer, genetic-testing]
 created: 2026-05-19
-updated: 2026-08-14
+updated: 2026-08-26
 sources: [acg-2015-hereditary-gi-cancer, aga-2022-hamartomatous-polyposis]
 ---
 
@@ -44,6 +44,8 @@ Cowden syndrome (CS), also called PTEN hamartoma tumor syndrome (PHTS), is cause
 ---
 
 ## Differential Diagnosis
+
+*No dedicated diagnostic schema covers colorectal polyposis; the workup runs polyp phenotype and **histology** at [[colonoscopy]] + extraintestinal features (macrocephaly, mucocutaneous lesions) → the criteria above → germline PTEN testing, as under [[#Diagnostics]].*
 
 - **[[juvenile-polyposis-syndrome]]** — SMAD4/BMPR1A; no breast/thyroid/endometrial high-risk; distinct histology
 - **[[peutz-jeghers-syndrome]]** — STK11; mucocutaneous pigmentation; arborizing hamartomas

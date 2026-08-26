@@ -15,8 +15,8 @@ Lynch syndrome (LS), formerly hereditary nonpolyposis [[colorectal-cancer|colore
 
 **Universal tumor screening** of all newly diagnosed CRCs is recommended [[acg-2015-hereditary-gi-cancer]] [[usmstf-2014-lynch-syndrome]]:
 
-1. **IHC** for MLH1, MSH2, MSH6, PMS2 protein expression — sensitivity **83%** (regardless of gene), specificity **89%**
-2. **MSI testing** — specificity **90%**; sensitivity is **gene-dependent: 80–91%** for MLH1/MSH2 mutations but only **55–77%** for MSH6/PMS2 (so a negative MSI result is least reassuring in the low-penetrance genes). MSI-H prevalence in population-based CRC series 7–19%
+1. **IHC** for MLH1, MSH2, MSH6, PMS2 protein expression — preferred first test (protein staining is more widely feasible than DNA analysis)
+2. **MSI testing** — sensitivity is **gene-dependent: 80–91%** for MLH1/MSH2 mutations but only **55–77%** for MSH6/PMS2, so a negative MSI result is least reassuring in the low-penetrance genes. MSI-H prevalence in population-based CRC series **7–19%**. (Head-to-head sensitivity/specificity for MSI vs IHC vs the clinical models: table under [[#Relevant Risk Prediction Tools]])
 3. If **MLH1 protein is lost**: proceed to **BRAF V600E** mutation testing OR **MLH1 promoter methylation** analysis — almost no LS tumors carry BRAF mutation; 68% of sporadic MMR-deficient tumors do
 4. Individuals with evidence of MMR deficiency (without BRAF mutation or MLH1 hypermethylation), plus those with a known family mutation or PREMM1,2,6 model score ≥5%, should undergo **germline testing** of MLH1, MSH2, MSH6, PMS2, and/or EPCAM (or the gene indicated by IHC)
 
@@ -54,9 +54,11 @@ LS is classified by the causative gene:
 
 ## Differential Diagnosis
 
+*No dedicated diagnostic schema covers hereditary CRC; the workup runs universal tumour MMR testing → BRAF/methylation reflex → germline testing, as under [[#Diagnostics]].*
+
 - **Sporadic MMR-deficient CRC** — somatic MLH1 methylation with BRAF V600E; excluded by BRAF/methylation testing
 - **Lynch-like syndrome** — somatic biallelic MMR inactivation in tumor; no germline mutation found; managed similarly to LS
-- **[[bmmrd-syndrome]] (Constitutional mismatch repair deficiency / CMMRD)** — biallelic (homozygous or compound heterozygous) germline mutations in MLH1, MSH2, MSH6, or PMS2; autosomal recessive (both parents are obligate LS carriers); CRC onset median age 16, brain tumors (70% penetrance, median age 9), and lymphoma/leukemia in childhood; café-au-lait macules mimicking NF1; IHC shows MMR protein loss in normal AND tumor tissue (unlike LS); PMS2 biallelic mutations are the most common cause; surveillance starts in the first decade of life with annual [[colonoscopy]] from age 6 and brain MRI q6 months from age 2 [[usmstf-2017-bmmrd]]
+- **[[bmmrd-syndrome]] (Constitutional mismatch repair deficiency / CMMRD)** — *biallelic* germline MMR mutations, autosomal recessive (both parents are obligate LS carriers); childhood-onset CRC, brain tumours and haematologic malignancy; café-au-lait macules; MMR protein loss on IHC in **normal as well as tumour** tissue (unlike LS). Criteria and paediatric surveillance schedule on that page. [[usmstf-2017-bmmrd]]
 - [[familial-adenomatous-polyposis]] — fewer polyps in LS; FAP excluded per Amsterdam criteria
 - [[mutyh-associated-polyposis]] — recessive; phenotypically overlaps with AFAP
 - **[[serrated-polyposis-syndrome|Serrated polyposis syndrome]]** — sporadic MMR loss possible
@@ -116,14 +118,14 @@ LS is classified by the causative gene:
 - **Rec 1:** in individuals at risk for or affected with LS, colonoscopy **at least every 2 years, beginning between ages 20 and 25** *(Strong recommendation; moderate quality of evidence for screening, very low quality for annual surveillance and for the age of initiation)*
 - Age **25–30** may be appropriate start for MSH6/PMS2 carriers given later onset
 - **Annual colonoscopy** should be considered in confirmed mutation carriers
-- Colonoscopic surveillance has demonstrated 62–72% reductions in CRC mortality in prospective and long-term observational cohorts
+- Observational cohorts: **62% fewer CRCs** in screened at-risk relatives (Järvinen) and an estimated **72% decrease in death from CRC** in those undergoing surveillance (Dove-Edwin)
 - **Why the short interval:** LS patients develop few (usually <10) early-onset adenomas, but the adenoma–carcinoma sequence is accelerated — **polyp-to-cancer dwell time ~35 months vs 10–15 years sporadically**. Precursor lesions are often proximal, sometimes flat, with villous features, high-grade dysplasia, and tumor-infiltrating lymphocytes
 
 **Surgical management of CRC** [[acg-2015-hereditary-gi-cancer]]:
 
 - **Colectomy with ileorectal anastomosis (IRA)** is the preferred treatment for LS patients with colon cancer or neoplasia not controllable endoscopically (Conditional/Moderate)
-- Rationale: high rate of metachronous CRC — 16% at 10 years, 41% at 20 years after segmental resection; extensive colectomy reduces this substantially (0–3.4%)
-- Segmental colectomy is an option when the patient is >60–65 years old or unsuitable for total colectomy if regular post-op surveillance is conducted
+- Rationale: high rate of metachronous CRC after segmental/partial resection — **16% at 10 y, 41% at 20 y, 62% at 30 y** (10-y cumulative risk reported as 16–19% across studies, even under vigilant colonoscopic surveillance); extensive colectomy reduces this substantially (0–3.4%)
+- **Consideration for less extensive surgery** should be given in patients **older than 60–65 years** and those with underlying sphincter dysfunction *(Strong, level III / GRADE moderate)* — note NCCN and the Mallorca group recommend colectomy + IRA **with no deference to age**
 - Prophylactic colectomy may be discussed with confirmed mutation carriers who have endoscopically normal colons, particularly in high-penetrance families
 - Life expectancy modeling: total colectomy preferred over hemicolectomy at ages 27 and 47; hemicolectomy may be comparable at age 67
 
@@ -154,8 +156,10 @@ LS is classified by the causative gene:
 
 **[[pancreatic-cancer|Pancreatic cancer]]** [[acg-2015-hereditary-gi-cancer]]:
 
-- 9–11-fold relative risk in LS (standardized incidence ratio ~10.7; cumulative risk ~3.7% by age 70)
-- Consider [[pancreatic-cancer-screening|pancreatic surveillance]] (MRI ± [[endoscopic-ultrasound|EUS]] from age 50) if a first-degree relative has pancreatic cancer; must weigh risk:benefit carefully
+- **9- to 11-fold** relative risk vs general population (ACG 2015 Table 12). Two cohorts: SIR **10.7** (95% CI 2.7–47.7) with a **10-year cumulative risk 0.95%**; and an **8.6-fold** increase (95% CI 4.7–15.7) with **cumulative risk 3.7% by age 70**. A third cohort using dedicated histologic review found **no** excess risk
+- Because LS carries a *lower* relative risk than PJS/FAMMM/hereditary pancreatitis, **surveillance is limited to carriers with a first- or second-degree relative affected by pancreatic cancer** *(Conditional; very low)* — and should be done at experienced centres, ideally under research conditions
+- When performed: **[[endoscopic-ultrasound|EUS]] and/or MRI annually, starting age 50** — or **10 years younger than the earliest pancreatic cancer in the family** *(ACG 2015 Rec 23)*. See [[pancreatic-cancer-screening]]
+- [[usmstf-2014-lynch-syndrome]] states routine pancreatic screening is **not** recommended (benefit unestablished at this magnitude of risk); ACG 2015 is the newer source and its conditional criteria govern this page
 
 **CNS / sebaceous neoplasms**:
 
@@ -166,7 +170,8 @@ LS is classified by the causative gene:
 
 **Aspirin** [[acg-2015-hereditary-gi-cancer]]:
 
-- CAPP2 randomized placebo-controlled trial (n=727 LS carriers): aspirin 600 mg/d for ≤4 years
+- CAPP2 randomized placebo-controlled trial, 2×2 design (resistant starch 30 g/d and aspirin **600 mg/d** for ≤4 years); **693 randomized between aspirin and placebo** (727 to starch vs placebo)
+- At mean follow-up 29 months: **no** effect of aspirin, starch, or both on incidence of colorectal neoplasia
 - Intention-to-treat: CRC HR 0.63 (95% CI 0.35–1.13, P=0.12) — did not reach significance for CRC alone
 - All LS-related cancers (colorectal, endometrial, ovarian, pancreatic, small bowel, urinary, gastric, brain): HR 0.65 (95% CI 0.42–1.00, P=0.05)
 - CAPP3 trial ongoing to establish optimal dose and duration
@@ -174,8 +179,8 @@ LS is classified by the causative gene:
 
 **Lifestyle factors**:
 
-- Smoking increases colorectal adenoma risk (HR 6.1 vs. non-smokers) in LS
-- [[obesity|Obesity]] (BMI >25 kg/m²) associated with elevated adenoma risk in men with LS
+- Colorectal adenoma risk by smoking status (n=386 LS patients under surveillance): **current smokers HR 6.1 vs past smokers 3.0 vs never smokers 1.0**
+- [[obesity|Excess body weight]] (BMI **>25 kg/m²**) — adenoma **HR 8.7** vs normal weight, in **men** with LS; no elevated risk found in women
 
 ### Advanced/Metastatic Disease
 
@@ -187,7 +192,7 @@ LS is classified by the causative gene:
 - All genetic testing should occur in the context of pre- and post-test counseling [[usmstf-2014-lynch-syndrome]]
 - Once a pathogenic variant is identified in the proband, all at-risk relatives should be offered mutation-specific testing (Strong, Level III, GRADE Moderate)
 - 14-component informed consent framework includes: GINA protections, VUS implications, psychological impact, data privacy, insurance implications, reproductive options, implications for blood relatives, and right not to know [[usmstf-2014-lynch-syndrome]]
-- LS accounts for ~2–4% of all CRCs; population prevalence ~1 in 279 individuals carry a pathogenic MMR variant
+- LS accounts for **1–3%** of newly diagnosed CRC ([[acg-2015-hereditary-gi-cancer]]; ~3% per [[usmstf-2014-lynch-syndrome]])
 
 ---
 

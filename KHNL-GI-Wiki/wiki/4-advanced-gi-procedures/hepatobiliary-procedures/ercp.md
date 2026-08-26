@@ -13,7 +13,7 @@ sources: [asge-2024-therapeutic-eus-biliary, asge-2023-post-ercp-pancreatitis, a
 
 **Biliary:**
 
-- [[choledocholithiasis|Choledocholithiasis]] with cholangitis — biliary drainage **within 48 h** ([[asge-2021-cholangitis]]).
+- [[choledocholithiasis|Choledocholithiasis]] with [[acute-cholangitis|acute cholangitis]] — biliary drainage **within 48 h** ([[asge-2021-cholangitis]]). Severity grading (Tokyo TG18 I/II/III), which decides urgency, is on [[acute-cholangitis]].
   - **What ASGE 2021 actually concludes:** ERCP at <24 h or 24–48 h vs >48 h **shortens length of hospitalization but does not change inpatient or 30-day mortality, organ failure, or other core clinical outcomes.** Only in patients **in septic shock who do not respond to fluid resuscitation** does delay associate with adverse events, and there ERCP **<24 h "may be considered"** — not a graded recommendation. *(Note the guideline's own figure legends label <48 h "emergent" and >48 h "urgent" — the reverse of common usage; this page avoids both labels.)*
   - **In mild-to-moderate cholangitis, urgent (<24 h) drainage is NOT superior to early (24–48 h)** — same 30-day mortality and organ failure, but ~**2× more post-ERCP adverse events** (mainly bleeding), so resuscitate/optimise then drain within 24–48 h rather than rushing (RCT: 3.95% vs 6.58% mortality, HR 0.70; AE 17.1% vs 9.2%, **RR 2.03, 95% CI 1.02–4.07, nominal p=0.042 — not significant after Holm-Bonferroni adjustment** for multiple secondary outcomes; the mortality comparison had only ~18% power) [[jagtap-2026-urgent-vs-early-ercp-cholangitis]]
   - *Severe/TG III with septic shock — under question:* ERCP <24 h of **vasopressor initiation** gave no survival advantage over 24–48 h (HR 1.07, 0.81–1.42) in a matched TriNetX cohort; ⚠ DDW 2026 abstract only ([[aloysius-2026-ercp-timing-septic-shock-cholangitis]]). Timing detail lives on [[choledocholithiasis]].
@@ -115,7 +115,7 @@ Benchmarks stated in the ingested sources ([[asge-2015-ercp-benign-biliary]]):
 
 ## See Also
 
-[[acute-pancreatitis]], [[recurrent-acute-pancreatitis]], [[pancreas-divisum]], [[biliary-stricture]], [[choledocholithiasis]], [[endoscopic-ultrasound]], [[cholangioscopy]], [[chronic-pancreatitis]], [[cholangiocarcinoma]], [[primary-sclerosing-cholangitis]], [[sphincter-of-oddi-dysfunction]], [[liver-transplantation]], [[brush-cytology]], [[liver-disease-in-pregnancy]], [[mri-mrcp]], [[acute-cholecystitis]], [[anticoagulation-gi-bleeding]], [[antibiotic-prophylaxis-endoscopy]], [[device-assisted-enteroscopy]], [[fish]]
+[[acute-pancreatitis]], [[recurrent-acute-pancreatitis]], [[pancreas-divisum]], [[biliary-stricture]], [[choledocholithiasis]], [[acute-cholangitis]], [[endoscopic-ultrasound]], [[cholangioscopy]], [[chronic-pancreatitis]], [[cholangiocarcinoma]], [[primary-sclerosing-cholangitis]], [[sphincter-of-oddi-dysfunction]], [[liver-transplantation]], [[brush-cytology]], [[liver-disease-in-pregnancy]], [[mri-mrcp]], [[acute-cholecystitis]], [[anticoagulation-gi-bleeding]], [[antibiotic-prophylaxis-endoscopy]], [[device-assisted-enteroscopy]], [[fish]]
 
 ---
 

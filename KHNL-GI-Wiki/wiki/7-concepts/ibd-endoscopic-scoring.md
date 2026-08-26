@@ -3,7 +3,7 @@ title: "IBD Endoscopic Scoring Indices"
 category: concept
 tags: [ibd, crohns, ulcerative-colitis, endoscopy, scoring, mayo-endoscopic-score, uceis, ses-cd, cdeis, rutgeerts-score]
 created: 2026-07-23
-updated: 2026-07-31
+updated: 2026-08-26
 sources: [aga-2024-ibd-endoscopic-scoring]
 ---
 
@@ -94,12 +94,12 @@ Standardized endoscopic scoring indices for [[ulcerative-colitis]] (MES, UCEIS) 
 
 | Variable | 0 | 1 | 2 | 3 |
 |---|---|---|---|---|
-| **Ulcers** (size) | Absent | 0.1–0.5 cm | *[band missing as printed]* | Larger than 2 cm |
+| **Ulcers** (size) | Absent | 0.1–0.5 cm | Larger than 2 cm *(as printed)* | *[level missing as printed]* |
 | **Ulcerated surface** | None | <10% of segment | 10–20% of segment | >30% of segment |
 | **Affected surface** | None | <50% of segment | 50–75% of segment | >75% of segment |
 | **Narrowing** | None | Single, passable by scope | Multiple, passable by scope | Not passable |
 
-> ⚠ **Fidelity flag — Table 2 as published is internally incomplete.** The **Ulcers** row lists only 3 of 4 point levels (0, 1, 2/">2 cm") and skips the band between 0.5 cm and 2 cm; the **Ulcerated surface** row jumps from "10–20%" to ">30%", leaving 20–30% unassigned. The four variables are stated elsewhere to be scored **0–3 in the same 5 segments**, so a level is missing as printed. Reproduced as published; the missing bands are **not** supplied from outside sources.
+> ⚠ **Fidelity flag — Table 2 as published is internally incomplete.** Verbatim: *"Ulcers: 0 if absent, 1 if between 0.1–0.5 cm, 2 if larger than 2 cm"* — only 3 of the 4 levels are printed, the 0.5–2 cm band is absent, and ">2 cm" carries **2 points, not 3**, as published. The **Ulcerated surface** row jumps from "10–20%" (2) to ">30%" (3), leaving 20–30% unassigned. The four variables are stated elsewhere in the same source to be scored **0–3 in the same 5 ileocolonic segments**, so a level is missing as printed. Reproduced as published; the missing bands are **not** supplied from outside sources.
 
 - **Stricture localization rules (novel simplified CD score):** strictures confined to the **ileocecal valve are counted in the ileum score**; **non-intubation of the ileum without stricture** is scored "not assessed"; **every stricture should be scored before endoscopic therapeutic management**.
 - **Reliability (central reading):** intraobserver ICC 0.91 (95% CI 0.87–0.94); interobserver ICC 0.83 (95% CI 0.75–0.89).

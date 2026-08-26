@@ -29,7 +29,8 @@ Familial adenomatous polyposis (FAP) and its related syndromes — attenuated FA
 - ≥100 synchronous colorectal adenomas; autosomal dominant; APC gene (5q21)
 - Prevalence: 1 in 6,850–31,250 live births (~2.29–3.2 per 100,000 individuals)
 - Near-100% lifetime CRC risk if untreated; average age of CRC diagnosis 38–41 years
-- De novo mutations account for ~25–33% of newly diagnosed FAP cases
+- **Up to one-third** of newly diagnosed cases not belonging to a previously identified family are de novo germline mutations or mosaicism ([[acg-2015-hereditary-gi-cancer|ACG 2015]]; "up to 30% of FAP and AFAP" per [[asge-2020-fap|ASGE 2020]]) — **absent family history does not exclude FAP**
+- **25% of newly diagnosed FAP patients outside known families already have colon cancer** at diagnosis
 - Mean age of polyp onset: 15.9 years (range 8–34); polyps emerge in 2nd–3rd decade
 - Adenomatous polyps usually distributed throughout colon; 90% are <0.5 cm in diameter in fully developed syndrome
 - APC mutation cluster region: exon 15 (5' end); location correlates with extracolonic phenotype including desmoid tumor occurrence and CHRPE
@@ -51,7 +52,11 @@ Familial adenomatous polyposis (FAP) and its related syndromes — attenuated FA
 - Biallelic MAP lifetime CRC risk approaches **80%**; risk is **28-fold** the general population [[asge-2020-fap]]
 - **Monoallelic (heterozygous) MUTYH carriers:** minimal or no additional risk over biallelic-negative individuals, and [[acg-2015-hereditary-gi-cancer|ACG 2015]] states there is **no consensus** that monoallelic mutations warrant increased screening. One cohort did find increased CRC risk in monoallelic carriers **who also had an FDR with CRC** — for that subgroup [[asge-2020-fap|ASGE 2020]] Table 3 advises **colonoscopy from age 40, or 10 years before the FDR's age at CRC diagnosis, every 5 years** *(low quality)*. For a monoallelic carrier with **no** family history of CRC, ASGE lists the appropriate age and interval as **unknown**
 - CRC location in MAP is unsettled: [[acg-2015-hereditary-gi-cancer|ACG 2015]] notes it has been **predominantly distal in some studies and proximal in others**, while the newer [[asge-2020-fap|ASGE 2020]] reports a **right-sided preponderance** for both polyps and cancer. Multiple hyperplastic and/or sessile serrated adenomas may co-occur
-- Polymerase proofreading-associated polyposis (POLE/POLD1): newly described syndrome; oligo-adenomatous polyposis; autosomal dominant; high penetrance; POLD1 mutation associated with endometrial and possibly brain tumors in women
+**Polymerase proofreading-associated polyposis (PPAP — POLE / POLD1)** — a *separate* newly described syndrome, not a MAP variant [[acg-2015-hereditary-gi-cancer]]:
+
+- Phenotype: **oligo-adenomatous polyposis** + early-onset colorectal **and endometrial** cancer; dominantly inherited; penetrance appears high
+- Only a few families characterized; in 858 familial/early-onset CRC and polyposis cases, 1 known POLE and 1 new POLD1 germline mutation were found
+- **Action:** in women with a **POLD1** mutation, **pelvic ultrasound and selective endometrial biopsy may be considered** — POLD1 is associated with endometrial and possibly brain tumors
 
 ### Cumulative Cancer Risks
 
@@ -64,6 +69,8 @@ Familial adenomatous polyposis (FAP) and its related syndromes — attenuated FA
 ---
 
 ## Differential Diagnosis
+
+*No dedicated diagnostic schema covers colorectal polyposis; the workup runs polyp phenotype (number, size, site, histology) at [[colonoscopy]] → syndrome criteria → germline APC + MUTYH testing, as under [[#Diagnostics]].*
 
 - **[[lynch-syndrome]]** — fewer polyps (usually <10); right-sided; MMR gene mutations
 - **[[serrated-polyposis-syndrome]]** — predominantly serrated/hyperplastic polyps; no clear germline etiology
@@ -114,7 +121,7 @@ Familial adenomatous polyposis (FAP) and its related syndromes — attenuated FA
 
 *Scoring: Polyp number (<4=1pt, 5–20=2pt, >20=3pt) + Size (0–4mm=1pt, 5–10mm=2pt, >10mm=3pt) + Histology (Tubular=1pt, Tubulovillous=2pt, Villous=3pt) + Dysplasia (Mild=1pt, Moderate=2pt, Severe=3pt)*
 
-- Spigelman Stage IV risk: 43% duodenal carcinoma by age 60, 50% by age 70
+- **Why stage IV drives surgery:** duodenal cancer risk rises to **36% within 10 years** in Spigelman stage IV; and the risk of *reaching* stage IV is **43% by age 60, 50% by age 70**
 - Spigelman IV → surgical evaluation; **pancreas-sparing duodenectomy** preferred if no papilla involvement (less morbid than Whipple; Whipple preferred if cancer suspected)
 
 **[[gastric-polyps|Gastric polyps]]**:

@@ -3,7 +3,7 @@ title: "Gallbladder Cancer"
 category: disease-script
 tags: [gallbladder-cancer, biliary-tract-cancer, hpb, cholecystectomy, incidental-gallbladder-cancer, gallbladder-polyp, adenocarcinoma, nccn, oncology]
 created: 2026-06-18
-updated: 2026-08-14
+updated: 2026-08-26
 sources: [nccn-2026-biliary-tract-cancers, asge-2013-biliary-neoplasia]
 ---
 
@@ -22,6 +22,8 @@ Most common biliary tract malignancy; typically adenocarcinoma of the gallbladde
   - [[#Resectable Disease]]
   - [[#Adjuvant Therapy]]
   - [[#Advanced / Metastatic Disease]]
+- [[#See Also]]
+- [[#Sources]]
 
 ## Assessment
 
@@ -77,6 +79,10 @@ Depth of invasion (T), nodal burden (N), and distant spread (M) drive both progn
 
 - Detected in **4%–7%** of healthy subjects; most are non-neoplastic. GB adenoma is the commonest neoplastic type and can progress to adenocarcinoma.
 - **Size is the key predictor** of gallbladder carcinoma. On CT/MRI, size ≥10 mm and **sessile** shape favor a neoplastic polyp; TUS detects polyps well (sensitivity 90%, specificity 94%) but is **inaccurate for typing** them.
+- **[[endoscopic-ultrasound|EUS]] types the polyp better than TUS** (97% vs 71% correct type assignment) — and typing is what separates the polyp that needs surgery from the one that does not:
+  - **Echogenic spots** — pathognomonic for a **cholesterol polyp**; **comet-tail artifact** — pathognomonic for **adenomyomatosis**. A polyp with *neither* feature predicts adenoma or adenocarcinoma.
+  - Three EUS variables predict a **neoplastic** polyp: (1) continuous maximum diameter **≥11 mm**, (2) **heterogeneous** internal echo pattern, (3) **absence** of hyperechoic spots.
+  - ⚠ Data are conflicting — one series found TUS *more* sensitive than EUS for GB cancer (90% vs 86%) and superior to both CT and EUS for staging.
 - **"Other risk factors" for GB cancer** in a polyp patient, as defined by the source: **age ≥60 y, coexisting gallstones, sessile morphology**. ASGE notes these patients with polyps ≥6 mm *may* benefit from cholecystectomy, but calls the evidence insufficient to advocate it.
 
 Management ([[asge-2013-biliary-neoplasia]]; grade in parentheses):

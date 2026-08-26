@@ -1,36 +1,74 @@
-import os, re, collections
+import os,re,collections
 
-root = 'wiki'
-pages = {}
-for dp, _, fns in os.walk(root):
-    for fn in fns:
+pages={}
+for root,d,files in os.walk('wiki'):
+    for fn in files:
         if fn.endswith('.md'):
-            pages[fn[:-3]] = os.path.join(dp, fn)
+            pages[fn[:-3]]=os.path.join(root,fn)
+print("total pages:",len(pages))
 
-links = collections.defaultdict(set)
-broken = collections.defaultdict(set)
-for slug, path in pages.items():
-    txt = open(path, encoding='utf-8').read()
-    txt = re.sub(r'```.*?```', '', txt, flags=re.S)
-    txt = re.sub(r'`[^`]*`', '', txt)
-    for m in re.finditer(r'(!?)\[\[([^\]#]+)\]\]', txt):
-        if m.group(1) == '!':
-            continue
-        t = m.group(2).replace('\\|', '|').strip().split('|')[0].strip().rstrip('\\').strip()
-        if not t or t.startswith('#'):
-            continue
-        t = re.sub(r'\.md$', '', t)
-        if t in pages:
-            links[t].add(slug)
-        else:
-            broken[t].add(slug)
+txt={k:open(v,encoding='utf-8',errors='replace').read() for k,v in pages.items()}
 
-skip = {'index', 'log', 'overview', 'README'}
-orphans = [s for s in pages if s not in skip and not (links[s] - {s})]
-print("TOTAL PAGES:", len(pages))
-print("\n=== ORPHANS (no inbound links) ===")
-for o in sorted(orphans):
-    print("  ", o, "->", pages[o])
-print("\n=== BROKEN LINKS (no page with that basename) ===")
-for t, srcs in sorted(broken.items()):
-    print("  [[%s]]  <- %s" % (t, sorted(srcs)[:4]))
+link_re=re.compile(r'\[\[([^\]\|#\\]+)\\?(?:\|[^\]]*)?\]\]')
+broken=collections.defaultdict(list)
+inbound=collections.Counter()
+for k,t in txt.items():
+    t2=re.sub(r'```.*?```','',t,flags=re.S)
+    t2=re.sub(r'`[^`]*`','',t2)
+    for m in link_re.finditer(t2):
+        tgt=m.group(1).strip()
+        if tgt.lower().endswith(('.png','.jpg','.jpeg','.gif','.svg')): continue
+        if tgt.startswith('#'): continue
+        if tgt not in pages: broken[k].append(tgt)
+        elif tgt!=k: inbound[tgt]+=1
+
+print("pages with broken links:",len(broken))
+for k,v in list(broken.items())[:40]:
+    print("   ",k,"->",sorted(set(v)))
+
+skip={'index','log','overview','README'}
+orph=[k for k in pages if inbound[k]==0 and k not in skip]
+print("orphans:",len(orph))
+print("   ",orph[:60])
+
+stubs=[k for k,t in txt.items() if 'Stub' in t and 'to be expanded' in t]
+print("stubs:",len(stubs),stubs)
+
+bad=[]
+for k,t in txt.items():
+    for i,line in enumerate(t.split('\n'),1):
+        if line.strip().startswith('|') and re.search(r'\[\[[^\]]*[^\\]\|',line):
+            bad.append((k,i,line[:110]))
+print("unescaped alias pipes in tables:",len(bad))
+for b in bad[:25]: print("   ",b)
+
+rows=[]
+for k,t in txt.items():
+    if k in skip: continue
+    m=re.search(r'^---\n(.*?)\n---',t,re.S)
+    if not m:
+        rows.append(('NO-FRONTMATTER',k,pages[k])); continue
+    fm=m.group(1)
+    up=re.search(r'^updated:\s*(\S+)',fm,re.M)
+    rows.append(((up.group(1) if up else 'NONE'),k,pages[k]))
+rows.sort()
+print("--- 15 stalest pages ---")
+for r in rows[:15]: print("   ",r)
+
+print("--- empty sources: frontmatter (non-source, non-stub) ---")
+for k,t in txt.items():
+    if k in skip or '/sources/' in pages[k]: continue
+    if re.search(r'^sources:\s*\[\s*\]\s*$',t,re.M) and 'to be expanded' not in t:
+        print("   ",pages[k])
+
+print("--- missing ## See Also or ## Sources ---")
+n=0
+for k,t in txt.items():
+    if k in skip or '/sources/' in pages[k]: continue
+    miss=[]
+    if '## See Also' not in t: miss.append('SeeAlso')
+    if '## Sources' not in t: miss.append('Sources')
+    if miss:
+        n+=1
+        if n<=40: print("   ",pages[k],miss)
+print("   total:",n)

@@ -3,7 +3,7 @@ title: "Liver Disease in Pregnancy"
 category: diagnostic-schema
 tags: [pregnancy, liver-disease, ihcp, intrahepatic-cholestasis, aflp, acute-fatty-liver, hellp, hyperemesis-gravidarum, preeclampsia, eclampsia, hepatitis-b, hepatitis-c, hpb, liver]
 created: 2026-05-19
-updated: 2026-08-14
+updated: 2026-08-26
 sources: [aga-2024-pregnancy-gi-liver, acg-2016-liver-disease-pregnancy, aasld-2021-reproductive-liver]
 ---
 

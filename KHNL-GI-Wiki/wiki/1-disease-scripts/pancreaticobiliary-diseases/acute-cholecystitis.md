@@ -3,8 +3,8 @@ title: "Acute Cholecystitis"
 category: disease-script
 tags: [acute-cholecystitis, gallbladder, cholecystectomy, eus-gbd, percutaneous-cholecystostomy, transpapillary-drainage, lams, high-surgical-risk]
 created: 2026-07-23
-updated: 2026-08-13
-sources: [aga-2023-eus-gallbladder-drainage, asge-2024-therapeutic-eus-biliary, aga-2024-pregnancy-gi-liver]
+updated: 2026-08-26
+sources: [aga-2023-eus-gallbladder-drainage, asge-2024-therapeutic-eus-biliary, aga-2024-pregnancy-gi-liver, tg18-2018-cholangitis-flowchart]
 ---
 
 # Acute Cholecystitis
@@ -25,31 +25,52 @@ sources: [aga-2023-eus-gallbladder-drainage, asge-2024-therapeutic-eus-biliary, 
 - [[#See Also]]
 - [[#Sources]]
 
-*Current ingested coverage is the gallbladder-drainage decision in high-surgical-risk patients ([[aga-2023-eus-gallbladder-drainage]], [[asge-2024-therapeutic-eus-biliary]]). Diagnosis and severity criteria are not yet sourced — see flags below.*
+*Ingested coverage is strongest on the gallbladder-drainage decision in high-surgical-risk patients ([[aga-2023-eus-gallbladder-drainage]], [[asge-2024-therapeutic-eus-biliary]]); the Tokyo Guidelines material below comes from the ingested TG18 **cholangitis** flowchart paper, which covers acute biliary infection generally but defers the cholecystitis-specific criteria tables to a companion paper — see flags.*
 
 ## Assessment
 
 ### Establishing the Diagnosis
 
-- ⚠ **Gap — no ingested source provides the diagnostic criteria** for acute cholecystitis. The AGA 2023 CPU cites the **Tokyo Guidelines (TG18 / TG07)** for diagnostic criteria and severity assessment but does not reproduce them; ingest the Tokyo Guidelines (Mori 2018, *J Hepatobiliary Pancreat Sci*; Hirota 2007, *J Hepatobiliary Pancreat Surg*) to fill this section.
+- **Suspect on any ONE of:** fever, chills, abdominal pain, [[jaundice|jaundice]], nausea, vomiting, disturbance of consciousness — the same trigger set as [[acute-cholangitis|acute cholangitis]]; one symptom is enough to start the workup. ([[tg18-2018-cholangitis-flowchart]])
+- **Take vital signs first** (BP, HR, respiratory rate, temperature, urine volume, SpO₂, consciousness) to decide whether the situation is urgent. **If urgent, start treatment immediately — do not wait for the definitive diagnosis.**
+- **Murphy's sign — the exam finding specific to acute cholecystitis, and TG18 says it must always be confirmed:** compression of the right upper quadrant makes the patient catch their breath from pain on deep inspiration. (Its absence points instead toward cholangitis or [[choledocholithiasis|choledocholithiasis]].)
+- **Blood tests** are drawn for diagnosis *and* grading: WBC, platelets, CRP, albumin; ALP, GGT, AST, ALT, bilirubin; BUN, creatinine, PT/PT-INR; blood gas; **blood culture preferably if high fever is present**.
 - Common condition in the US; imaging (ultrasound/CT) identifies cholecystitis and screens for **gallbladder perforation** — a key branch point in the drainage algorithm below. ([[aga-2023-eus-gallbladder-drainage]])
+
+> ⚠ **Gap — the formal TG13/18 diagnostic criteria for acute cholecystitis (Table 2)** (the A local signs / B systemic signs / C imaging structure) are **not reproduced in the ingested source.** The TG18 flowchart paper in `raw/` covers acute cholangitis and cites Table 2 to a companion paper (Yokoe et al., *TG18 Diagnostic criteria and severity grading of acute cholecystitis*) that is **not ingested**. Ingesting it would fill this section; do not reconstruct the criteria from memory.
 
 ### Severity Assessment
 
-- ⚠ **Gap — Tokyo severity grading (Grade I–III) not in any ingested source.** Needed to reproduce the standard severity-directed management; flag for Tokyo Guidelines ingest.
+- ⚠ **Gap — TG18 severity grading for cholecystitis (Grade I–III) is likewise not in any ingested source.** The ingested TG18 paper reproduces the severity criteria for **cholangitis** only (those live on [[acute-cholangitis]]) and cites the cholecystitis grades (Table 4) to the same un-ingested Yokoe companion paper. **Do not carry the cholangitis grades across** — the two organs use different criteria.
+- **General status is graded alongside severity** in both biliary infections, using the **Charlson Comorbidity Index (CCI)** and the **ASA Physical Status classification**. ([[tg18-2018-cholangitis-flowchart]])
 
 ## Differential Diagnosis
 
-*Workup of RUQ pain/suspected biliary disease: no dedicated diagnostic schema yet; related workups on [[biliary-stricture]] and [[choledocholithiasis]].*
+*Workup: no diagnostic schema covers undifferentiated RUQ pain — the closest algorithms are [[jaundice]] (cholestasis) and [[biliary-stricture]] (obstruction).*
 
-- [[choledocholithiasis|Choledocholithiasis]] and cholangitis — may coexist; concurrent need for [[ercp|ERCP]] changes the drainage route (below)
+- [[acute-cholangitis|Acute cholangitis]] — the other acute biliary infection; obstructed duct rather than obstructed cystic duct, and **Murphy's sign is absent**. May coexist.
+- [[choledocholithiasis|Choledocholithiasis]] — may coexist; a concurrent need for [[ercp|ERCP]] changes the drainage route (below)
 - [[gallbladder-cancer|Gallbladder cancer]] / malignant cystic duct obstruction — tumor occluding the cystic duct takeoff is a specific indication for EUS-guided drainage
+- [[acute-pancreatitis|Acute pancreatitis]] — overlapping upper-abdominal pain; gallstone AP shares the etiology
 - ⚠ Full differential not covered by ingested sources.
 
 ## Diagnostics
 
-- Ultrasound- or CT-based diagnosis; assess for **free gallbladder perforation** (contraindicates transmural endoscopic drainage) and gallbladder-to-GI-wall distance (**<10 mm required** for safe LAMS deployment). ([[aga-2023-eus-gallbladder-drainage]])
-- ⚠ Sensitivity/specificity of imaging and lab criteria not in ingested sources.
+**Imaging — do at least one of abdominal ultrasound or CT; ultrasound first** (minimally invasive, widely available, simple, cheap; limited by operator skill and patient condition). ([[tg18-2018-cholangitis-flowchart]])
+
+**Distinctive sonographic/CT signs of acute cholecystitis** ([[tg18-2018-cholangitis-flowchart]]):
+
+- Enlargement of the gallbladder
+- Gallbladder **wall thickening**
+- Gallbladder **calculi**
+- **Fluid retention around** the gallbladder (pericholecystic fluid)
+- **Abscess around** the gallbladder
+- **Sludge / debris** within the gallbladder
+- **Sonographic Murphy's sign** — pain when the probe presses on the gallbladder
+
+**Imaging also answers the two drainage questions** ([[aga-2023-eus-gallbladder-drainage]]): is there **free gallbladder perforation** (contraindicates transmural endoscopic drainage), and what is the gallbladder-to-GI-wall distance (**<10 mm required** for safe LAMS deployment)?
+
+- ⚠ Sensitivity/specificity for these imaging signs, and the lab thresholds that enter the TG18 criteria, are **not** given in any ingested source.
 
 ## Therapeutics
 
@@ -108,7 +129,7 @@ Three routes ([[aga-2023-eus-gallbladder-drainage]]):
 
 ## See Also
 
-[[eus-guided-gallbladder-drainage]], [[endoscopic-ultrasound]], [[ercp]], [[choledocholithiasis]], [[gallbladder-cancer]], [[biliary-stricture]], [[ascites]], [[acute-pancreatitis]], [[liver-disease-in-pregnancy]]
+[[eus-guided-gallbladder-drainage]], [[endoscopic-ultrasound]], [[ercp]], [[acute-cholangitis]], [[choledocholithiasis]], [[gallbladder-cancer]], [[biliary-stricture]], [[jaundice]], [[ascites]], [[acute-pancreatitis]], [[liver-disease-in-pregnancy]]
 
 ---
 
@@ -117,3 +138,4 @@ Three routes ([[aga-2023-eus-gallbladder-drainage]]):
 1. [[aga-2023-eus-gallbladder-drainage|AGA 2023 Clinical Practice Update on Role of EUS-Guided Gallbladder Drainage in Acute Cholecystitis]]
 2. [[asge-2024-therapeutic-eus-biliary|ASGE Guideline: Role of Therapeutic EUS in Biliary Tract Disorders (2024)]]
 3. [[aga-2024-pregnancy-gi-liver|AGA Clinical Practice Update on Pregnancy-Related Gastrointestinal and Liver Disease: Expert Review]]
+4. [[tg18-2018-cholangitis-flowchart|Tokyo Guidelines 2018: Initial Management of Acute Biliary Infection and Flowchart for Acute Cholangitis]]

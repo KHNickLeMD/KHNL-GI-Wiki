@@ -162,7 +162,24 @@ Key categories:
 
 #### Conventional (unweighted) EUS criteria
 
-Predates Rosemont and is still what the APA guideline grades: all features count equally, and you count them. **≥5 features strongly suggests** CP; **≤2 strongly refutes** it; 3–4 is a grey zone. The ideal threshold was never firmly established (strong recommendation, low-quality evidence) [[apa-2014-chronic-pancreatitis]].
+Predates Rosemont and is still what the APA guideline grades: all features count equally, and you count them. Derived by the International Working Group using **minimum standard terminology (MST)**, each feature tied to a histologic correlate ([[apa-2014-chronic-pancreatitis]], Table 4):
+
+| # | Feature | Compartment | Histologic correlate |
+|---|---|---|---|
+| 1 | Hyperechoic foci | Parenchymal | Focal fibrosis |
+| 2 | Hyperechoic strands | Parenchymal | Bridging fibrosis |
+| 3 | Lobular contour | Parenchymal | Interlobular fibrosis |
+| 4 | Cysts | Parenchymal | Cyst / pseudocyst |
+| 5 | Main duct dilatation — **>3 mm head, >2 mm body, >1 mm tail** | Ductal | Ductal dilation |
+| 6 | Duct irregularity | Ductal | Focal dilatation / narrowing |
+| 7 | Hyperechoic duct margins | Ductal | Periductal fibrosis |
+| 8 | Visible side branches | Ductal | Side-branch dilation |
+| 9 | Stones | Ductal | Calcified stones |
+
+- MST lists these **9** features; some endosonographers add two more — **an enlarged pancreas** and **narrowing of the pancreatic duct**.
+- **Counting:** broad prior agreement was that **≥5 features reliably establishes** CP and **absence of all features reliably excludes** it. APA's own caveat: because some features are physiologic rather than pathologic, the 5-feature threshold **may not be appropriate** — it has been suggested that **1–2 features = a normal gland** and **3–4 features may indicate early or mild CP**. The ideal threshold has **never been firmly established** (strong recommendation, low-quality evidence).
+- **Diagnosing CP on minimal EUS criteria alone, with otherwise negative or inconclusive findings, is strongly discouraged** — correlate with clinical, structural, and functional testing.
+- **Which features carry the most weight:** in 120 patients scanned for non-pancreaticobiliary indications, ≥1 abnormal feature was present in **28%** (rising with age: 23% <40 y, 25% 40–60 y, 39% >60 y), and hyperechoic stranding was the commonest incidental finding. The most **specific** features regardless of age were **ductal or parenchymal calculi, duct narrowing, duct dilatation, or the presence of >3 features**.
 
 > Don't transplant this threshold onto Rosemont. Every Rosemont combination that reaches **"consistent with CP"** contains a Major A feature (see below) — so counting to five *minor* features is not the same call.
 

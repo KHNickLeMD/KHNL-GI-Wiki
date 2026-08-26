@@ -3,7 +3,7 @@ title: "Endoscopy Ergonomics & Endoscopy-Related Injury (ERI)"
 category: concept
 tags: [ergonomics, endoscopy-related-injury, eri, occupational-health, musculoskeletal, endoscopy]
 created: 2026-06-05
-updated: 2026-07-29
+updated: 2026-08-26
 sources: [asge-2023-ergonomics]
 ---
 
@@ -17,7 +17,7 @@ Endoscopy-related injury (ERI) is musculoskeletal injury caused by repetitive mi
 ## Risk Factors
 - **Female sex** — ERI 62.4% (female) vs 45.5% (male); OR **1.79** (95% CI 1.35–2.38).
 - **Procedure exposure** — higher volume and more hours/week performing endoscopy; independent predictors include >15 years in practice, >20 endoscopies/week, and >16 endoscopy hours/week.
-- **Hand size** — data inconsistent; small-handed endoscopists (≥97% of whom are women) showed longer colonoscope insertion times and more injury sites in one study, but national glove-size data found no significant ERI difference.
+- **Hand size** — data inconsistent; small-handed endoscopists (97.4% of trainees with glove size ≤6.5 were women) showed longer colonoscope insertion times (**9.4 vs 8.2 min**, P=.04) and more injury sites (P=.03) in one study, but national glove-size data found no significant ERI difference (small glove 78.1% vs large/XL 77.1%, P=.27).
 
 ## Neutral Posture
 "Neutral posture" is the body position where muscles are at resting length and joints are naturally aligned — joints held near the middle of their range of motion, maximizing control and strength while minimizing stress on joints and spine. It is the unifying principle behind monitor, bed-height, and stance recommendations.
@@ -44,8 +44,9 @@ The guideline issues 2 strong and 3 conditional recommendations, **all on very l
 **Conditional recommendation (very low quality).** Use antifatigue mats to offset the effects of prolonged standing (lower-extremity tiredness, venous restriction, low-back pain). An RCT showed less foot/knee/back pain and higher energy persisting 24 h. Mats should be cleanable with beveled edges (contamination/tripping risks).
 
 ## Special Considerations
-- **Lead aprons** — used in fluoroscopic procedures (ERCP, EUS-guided biliary interventions); 22% of surveyed endoscopists reported lead-apron-related ERI. Two-piece aprons redistribute weight to the hips and reduce discomfort.
-- **Load-reduction devices** — endoscope support stands and antigravity arms are under evaluation but not currently available in the US.
+- **Ancillary/assist devices for small hands** — the guideline abstract *suggests* using ancillary devices in those with risk factors predisposing to ERI (this suggestion is not one of the 5 numbered recommendations). Options are **2 reusable dial adaptors** clipped onto the right/left angulation knob: **Olympus MAJ-1072 auxiliary angle knob cover** (recently discontinued by the manufacturer) and **Pentax OE-B1 right/left assistant knob**. Pilot data (hand span <19 cm): trend toward shorter procedure time, no significant difference in duration or ease, but **retroflexion rated significantly easier** by all endoscopists. Inexpensive, reusable, reprocessed per manufacturer instructions. The panel urged units to stock them and to dispel stigma around their use.
+- **Lead aprons** — used in fluoroscopic procedures (ERCP, EUS-guided biliary interventions, luminal stent placement); **222/1277 (22%)** of those surveyed reported lead-apron-related ERI. Two-piece aprons redistribute weight to the hips and reduce discomfort. Not systematically studied in ERCP.
+- **Load-reduction devices** — endoscope support stands and antigravity arms are under evaluation but **not currently available in the US**.
 - **Endoscope maintenance** — worn scopes require greater forces; every unit should run a robust maintenance program to identify suboptimally performing endoscopes.
 
 ## See Also

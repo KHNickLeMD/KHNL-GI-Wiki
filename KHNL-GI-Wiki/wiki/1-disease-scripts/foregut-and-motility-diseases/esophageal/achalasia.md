@@ -95,7 +95,9 @@ Simultaneous cross-sectional area + pressure → EGJ distensibility index. Perfo
 
 ### Eckardt Score (ES)
 
-Symptom score: dysphagia + regurgitation + chest pain + weight loss (each 0–3); range 0–12. ES >3 = suboptimal outcome. Standard outcome measure but limited by dysphagia component dominating; **do not use ES or HRM alone to define treatment failure** — use TBE.
+Symptom score built from the 3 cardinal symptoms — **dysphagia, regurgitation, chest pain** — plus **weight loss** as a marker of the ability to maintain nutrition. **All 4 components are equally weighted, each scored 0–3, cumulative range 0–12**; **treatment success = ES ≤3** (ES >3 = suboptimal outcome). It is the standard metric in almost all achalasia treatment trials, preferred over the Vantrappen classification and the Modified Achalasia Dysphagia Score, but its widespread use rests on **expert opinion**; it is limited by the dysphagia component dominating, and post-treatment bolus retention is somewhat discordant with the ES. **Do not use ES or HRM alone to define treatment failure** — use TBE. ([[acg-2020-achalasia]], [[asge-2020-achalasia]])
+
+> **Decision gap (corpus-blocked):** the **per-item anchors** — what earns 0 vs 1 vs 2 vs 3 for each of dysphagia, regurgitation, chest pain (symptom frequency) and weight loss (kg) — are **not printed in any ingested source**; ACG 2020 and ASGE 2020 both describe the score's structure only. The score therefore cannot be *computed* from this page. Needed: Eckardt VF, Aignherr C, Bernhard G. Predictors of outcome in patients with achalasia treated by pneumatic dilation. *Gastroenterology* 1992.
 
 ---
 

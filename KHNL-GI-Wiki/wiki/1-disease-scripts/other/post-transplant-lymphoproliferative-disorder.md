@@ -3,7 +3,7 @@ title: "Post-Transplant Lymphoproliferative Disorder (PTLD)"
 category: disease-script
 tags: [ptld, lymphoma, ebv, transplant, liver-transplant, de-novo-malignancy, immunosuppression]
 created: 2026-05-19
-updated: 2026-08-13
+updated: 2026-08-26
 sources: [aasld-2012-liver-transplant-long-term, aasld-ast-2025-liver-transplant-non-graft-complications]
 ---
 
@@ -16,7 +16,6 @@ Spectrum of lymphoid proliferations arising under immunosuppression after solid-
 - [[#Differential Diagnosis]]
 - [[#Diagnostics]]
 - [[#Therapeutics]]
-- [[#Guideline Recommendations]]
 - [[#See Also]]
 - [[#Sources]]
 
@@ -24,10 +23,9 @@ Spectrum of lymphoid proliferations arising under immunosuppression after solid-
 
 ### Establishing the Diagnosis
 
-- **Requires a high index of suspicion** — consider in LT recipients (especially high-risk individuals) presenting with **undiagnosed fever, unexplained lymphadenopathy, or cytopenias**.
+- **Requires a high index of suspicion** — consider in LT recipients (especially high-risk individuals) presenting with **undiagnosed fever, unexplained lymphadenopathy, or cytopenias** ([[aasld-2012-liver-transplant-long-term]] Rec 58, *grade 1, level A*).
 - **Manifestations** — lymphadenopathy, cytopenias, unexplained fever, and disturbances of the **GI tract, lungs, spleen, and CNS**.
-- **Histopathological diagnosis is required** — biopsy of involved tissue is mandatory; the clinical syndrome alone does not establish PTLD.
-- **EBV viremia is NOT diagnostic** — detection of EBV by nucleic acid testing supports suspicion but cannot establish the diagnosis.
+- **Histopathological diagnosis is required, and EBV viremia is NOT diagnostic** — detection of EBV by nucleic acid testing supports suspicion but cannot establish the diagnosis; biopsy of involved tissue is mandatory ([[aasld-2012-liver-transplant-long-term]] Rec 59, *grade 1, level A*).
 - **Timing** — risk is greatest during the period of maximal immunosuppression (months 3–6 post-LT), when opportunistic pathogens (CMV, EBV, fungi) predominate.
 - **Risk factors** — primary EBV infection, CMV donor–recipient mismatch or CMV disease, and augmented immunosuppression (especially anti-lymphocyte antibodies). It is uncertain whether the etiology of the underlying liver disease influences PTLD development.
 
@@ -62,18 +60,6 @@ Spectrum of lymphoid proliferations arising under immunosuppression after solid-
   - **radiation therapy**, and/or
   - **cytotoxic chemotherapy**.
 - **Antiviral therapy** — addition has **not** been proven to affect outcomes.
-
-## Guideline Recommendations
-
-**AASLD/AST 2012:**
-
-> **58.** PTLD should be considered in LT recipients (especially high-risk individuals) who present with unexplained fever, lymphadenopathy, or cytopenias (grade 1, level A).
->
-> **59.** Although EBV may be associated with the development of PTLD, the detection of EBV viremia is not diagnostic for PTLD; a histopathological diagnosis is required (grade 1, level A).
-
-**AASLD/AST 2025:**
-
-> **52.** Serial EBV PCR monitoring for PTLD is not routinely recommended (weak, level 3).
 
 ## See Also
 

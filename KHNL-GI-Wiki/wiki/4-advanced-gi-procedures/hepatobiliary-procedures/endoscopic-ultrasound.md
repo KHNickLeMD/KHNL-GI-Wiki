@@ -3,7 +3,7 @@ title: "Endoscopic Ultrasound (EUS)"
 category: advanced-procedure
 tags: [eus, endoscopic-ultrasound, fna, fnb, pancreatic-mass, pancreatic-cysts, ipmn, mcn, biliary-drainage, eus-guided-drainage, quality-indicators, gastroenterostomy]
 created: 2026-05-07
-updated: 2026-08-14
+updated: 2026-08-26
 sources: [acg-2025-eus-quality, acg-2018-pancreatic-cysts, asge-2024-solid-pancreatic-masses, asge-2011-eus-mediastinal-adenopathy, aga-2022-recurrent-pancreatitis-endoscopy, colan-hernandez-2020-eus-fna-panc-cyst-antibiotics, wang-2026-eus-ppg-delphi-consensus]
 ---
 
@@ -97,8 +97,9 @@ The ≥87% sampling target rests on these pooled figures ([[acg-2025-eus-quality
 | Pooled diagnostic accuracy — **FNB** | **87% (95% CI 85–89)** |
 | Pooled diagnostic accuracy — **FNA** | **80% (95% CI 78–82)** |
 | Pooled sensitivity / specificity (EUS-guided sampling) | **85% (84–86) / 98% (97–99)**; in a later analysis **86.8% (85.5–87.9) / 95.8% (94.6–96.7)** |
-| EUS detection of pancreatic cancer | sensitivity **93–100%**, specificity **53–100%** |
-| EUS detection of pancreatic cancer **in [[chronic-pancreatitis\|chronic pancreatitis]]** | sensitivity **85%**, specificity **58%** — the reason a negative EUS is much less reassuring in a chronically inflamed gland |
+| EUS detection of [[pancreatic-cancer\|pancreatic cancer]] | sensitivity **93–100%**, specificity **53–100%** |
+| EUS in suspected pancreatic cancer with **indeterminate multidetector CT** (meta-analysis, 206 subjects; mean lesion 2.1 ± 0.12 cm) | sensitivity **85% (69–94)**, specificity **58% (40–74)** — the specificity collapse is why EUS resolves a CT-indeterminate gland only in one direction |
+| EUS-FNA in [[chronic-pancreatitis\|chronic pancreatitis]] | **sensitivity is lower** — stated qualitatively only; ⚠ no number given in any ingested source (elastography is being explored for this setting) |
 
 ### Adverse Event Rate Benchmarks
 
@@ -138,9 +139,10 @@ From [[acg-2018-pancreatic-cysts]]:
 | CEA (cutoff 192 ng/mL) | Identify mucinous cysts (IPMN/MCN) | 63% | 93% |
 | Amylase (<250 IU/L) | Exclude pseudocyst | High (excludes in 98%) | — |
 | Cytology | Detect high-grade dysplasia or cancer when imaging alone insufficient | 64.8% | 90.6% |
-| **KRAS and/or GNAS mutation** | Identify IPMN/MCN | 84–96% | 80–100% |
+| **KRAS and/or GNAS mutation** (highly sensitive techniques) | Identify IPMN/MCN | 84–96% | 80–100% |
 
-Cyst fluid CEA cannot distinguish high-grade dysplasia or cancer from low-grade — do not use alone for surgical decision-making.
+- Cyst fluid CEA cannot distinguish high-grade dysplasia or cancer from low-grade — do not use alone for surgical decision-making.
+- **Molecular testing is gated, not routine:** KRAS/GNAS is **costly and does not determine cancer risk**. ACG 2018 advises analysing these mutations only *"in cases in which the diagnosis is unclear, and a change in diagnosis will alter management."* Integrating molecular testing with cyst clinical features raises sensitivity/specificity for identifying IPMN/MCN.
 
 **Antibiotic prophylaxis for EUS-FNA of pancreatic cysts:**
 
@@ -151,7 +153,7 @@ Cyst fluid CEA cannot distinguish high-grade dysplasia or cancer from low-grade 
 **EUS as surveillance modality:**
 
 - EUS is an acceptable primary surveillance tool for patients who cannot or prefer not to have [[mri-mrcp|MRI/MRCP]]
-- For cysts 2–3 cm: MRI or EUS q6–12 months initially
+- For cysts 2–3 cm: MRI or EUS **q6–12 months × 3 years**
 - For cysts >3 cm: **consider referral** to a multidisciplinary group, and MRI alternating with EUS **q6 months × 3 years**
 
 **EUS indications in cyst high-risk features** (Rec 11, **Strong/Very low** — each triggers EUS±FNA + multidisciplinary referral):

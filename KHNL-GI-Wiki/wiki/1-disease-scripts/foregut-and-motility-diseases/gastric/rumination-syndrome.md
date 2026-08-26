@@ -3,11 +3,23 @@ title: "Rumination Syndrome"
 category: disease-script
 tags: [rumination-syndrome, regurgitation, dgbi, gastroduodenal, high-resolution-manometry, impedance, postprandial, foregut]
 created: 2026-06-08
-updated: 2026-08-14
+updated: 2026-08-26
 sources: [rome-v-2026-dgbi, acg-2020-esophageal-physiologic-testing]
 ---
 
 # Rumination Syndrome
+
+## Contents
+- [[#Assessment]]
+  - [[#Establishing the Diagnosis]]
+  - [[#Pathophysiology]]
+- [[#Differential Diagnosis]]
+- [[#Diagnostics]]
+  - [[#Postprandial High-Resolution Impedance Manometry (HRIM) — Diagnostic Standard]]
+  - [[#Adjunctive Testing]]
+- [[#Therapeutics]]
+- [[#See Also]]
+- [[#Sources]]
 
 ---
 
@@ -28,7 +40,7 @@ It is classified in **Rome V among the gastroduodenal [[disorders-of-gut-brain-i
 
 During rumination episodes there is movement of gastric content **from the intra-abdominal cavity into the thorax, driven by an increase in intra-abdominal pressure at the onset of the episode** ([[acg-2020-esophageal-physiologic-testing]]). The corresponding manometric signature is an **increase in intragastric pressure of >30 mm Hg** associated with **proximal movement of gastric content** and **esophageal pressurization**, accompanying a clinically recognized rumination episode.
 
-Because rumination responds poorly to standard antireflux therapy, it is an important behavioral mimic of [[gerd|GERD]] to identify.
+It is an important behavioral mimic of [[gerd|GERD]] to identify (see [[#Differential Diagnosis]]).
 
 ---
 
@@ -65,7 +77,9 @@ Rumination syndrome is a **clinical diagnosis**; objective testing confirms it i
 
 ## Therapeutics
 
-> Management of rumination syndrome (behavioral therapy and pharmacologic options) is **not covered in the primary sources currently in this wiki** (Rome V overview; ACG 2020 esophageal physiologic testing). This section is intentionally left as a stub pending a primary source — see note below.
+> **Corpus gap — no treatment recommendation can be made from the ingested sources.** Neither ingested source describes management: the Rome V material in `raw/` is the criteria/classification listing only (it places rumination at **B4** but gives no therapy), and [[acg-2020-esophageal-physiologic-testing]] covers only diagnosis. Diaphragmatic-breathing/behavioral therapy, baclofen, and neuromodulators are **deliberately not asserted here** — a dedicated rumination or gastroduodenal-DGBI management source is required.
+>
+> The one management-relevant statement that *is* sourced is in the differential above — recognizing rumination should **stop** escalation of acid suppression, not start it.
 
 ---
 

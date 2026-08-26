@@ -3,11 +3,30 @@ title: "Pancreatic Cysts"
 category: disease-script
 tags: [pancreatic-cysts, ipmn, mcn, serous-cystadenoma, pseudocyst, spn, pancreas, eus-fna, mrcp, surveillance, pancreatic-cancer]
 created: 2026-05-19
-updated: 2026-08-14
+updated: 2026-08-26
 sources: [acg-2018-pancreatic-cysts, colan-hernandez-2020-eus-fna-panc-cyst-antibiotics, asge-2015-antibiotic-prophylaxis]
 ---
 
 Pancreatic cysts are a heterogeneous group of lesions, most detected incidentally on cross-sectional imaging. They range from non-neoplastic (pseudocysts) to mucinous neoplasms with malignant potential (IPMNs, MCNs) to benign neoplasms (SCAs) to solid-cystic tumors with generally favorable prognosis (SPNs). Management hinges on accurate cyst typing and risk stratification. [[acg-2018-pancreatic-cysts]]
+
+## Contents
+- [[#Assessment]]
+  - [[#Establishing the Diagnosis]]
+  - [[#Classification / Typing]]
+  - [[#Severity Assessment]]
+- [[#Differential Diagnosis]]
+- [[#Diagnostics]]
+  - [[#Imaging]]
+  - [[#EUS-FNA and Cyst Fluid Analysis (Rec 6 — Conditional/VLow)]]
+  - [[#Cyst Ablation]]
+- [[#Therapeutics]]
+  - [[#Who Does Not Need Further Evaluation or Surveillance (Recs 4 & 5)]]
+  - [[#Surveillance Program — Who, What, How Often (Recs 9, 13, 14)]]
+  - [[#When to Refer to Multidisciplinary Group and Consider Surgery (Rec 11 — Strong/VLow)]]
+  - [[#When to Stop Surveillance (Recs 15 & 16)]]
+  - [[#Post-Surgical Surveillance (Recs 17–20)]]
+- [[#See Also]]
+- [[#Sources]]
 
 ---
 
@@ -32,16 +51,7 @@ Pancreatic cysts are a heterogeneous group of lesions, most detected incidentall
 3. Are there any high-risk features (see Table 3 below)?
 4. What is the cyst size?
 
-**Imaging — preferred modality:**
-
-- **MRI/[[mri-mrcp|MRCP]]:** First-line. Non-invasive, no radiation, superior accuracy for assessing MPD communication (key for IPMN classification) and for detecting mural nodules. Detection rate 19.9% vs. 1.2–2.6% with CT. (Conditional/VLow)
-- **CT (pancreatic protocol):** Excellent alternative when MRI not possible. Accuracy 71–80% for benign vs. malignant. Good for calcifications and vascular involvement.
-- **EUS:** Not first-line for small, clearly benign cysts. Higher resolution than cross-sectional imaging; more accurate for mural nodule detection; enables FNA. Sensitivity 86–96% for malignant vs. benign; specificity 30–99%. Favored when FNA/fluid analysis needed. (Conditional/VLow)
-- **[[ercp|ERCP]]:** No longer recommended for routine cyst diagnosis or surveillance; limited role in evaluation of main duct IPMN. See [[ercp]].
-- **PET-CT:** Insufficient evidence to support routine use.
-- **Secretin-MRCP:** Visualizes MPD communication in only 5% additional patients beyond standard MRCP; marginal added value.
-
-**Imaging accuracy caveat:** MRI/MRCP accuracy for cyst type diagnosis is only 40–50%; accuracy for benign vs. malignant is 55–76%. CT and EUS without FNA have similar accuracy. (Conditional/VLow)
+**Imaging:** MRI/[[mri-mrcp|MRCP]] is first-line, with [[endoscopic-ultrasound|EUS]] ± FNA reserved for unclear diagnoses and high-risk features — modality-by-modality performance and the accuracy caveat live under [[#Imaging]].
 
 ### Classification / Typing
 
@@ -209,9 +219,9 @@ Indicated when diagnosis is unclear and results are likely to alter management. 
 
 **Molecular markers (Rec 8 — Conditional/VLow):**
 
-- KRAS mutation: sensitivity 84–96%, specificity 80–100% for IPMN/MCN identification
-- GNAS mutation: sensitivity 80–100%, specificity 80–100% for IPMN/MCN identification (GNAS nearly specific for IPMN)
-- Use when diagnosis is unclear and result would change management; not routine standard of care — costly
+- **KRAS *and/or* GNAS mutation** (a single combined test characteristic in the source, not two separate markers): **sensitivity 84%–96%, specificity 80%–100%** for identifying an IPMN or MCN, using highly sensitive techniques.
+- Integrating molecular testing with the cyst's clinical features raises both sensitivity and specificity further.
+- **Limits:** costly, and **has not helped determine cancer risk** — molecular testing identifies cyst *type*, not grade. Use when diagnosis is unclear and the result would change management; not routine standard of care.
 
 **Antibiotics for EUS-FNA of pancreatic cysts:**
 
@@ -262,11 +272,7 @@ Indicated when diagnosis is unclear and results are likely to alter management. 
 
 ### When to Refer to Multidisciplinary Group and Consider Surgery (Rec 11 — Strong/VLow)
 
-Triggered by any high-risk feature (Table 3 above):
-
-- Symptomatic: jaundice, pancreatitis from cyst, elevated CA 19-9
-- Imaging: mural nodule/solid component, MPD >5 mm, upstream atrophy, size ≥3 cm
-- Cytology: high-grade dysplasia or cancer
+Triggered by **any** high-risk feature — the full list with its supporting odds ratios is under [[#Severity Assessment]]; do not re-derive it here.
 
 Note: Surgery should be performed at a tertiary referral center by experienced surgeons performing large numbers of pancreatic operations. Mortality for pancreaticoduodenectomy is ~11–15% at low-volume centers vs. ~1–5% at high-volume centers.
 

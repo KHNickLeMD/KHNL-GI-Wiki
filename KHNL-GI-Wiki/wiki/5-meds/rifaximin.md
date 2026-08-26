@@ -22,9 +22,9 @@ A gut-selective, non-absorbable oral antibiotic (rifamycin derivative). Minimal 
 - **Rifaximin 400 mg t.i.d. + neomycin 500 mg b.i.d. × 10 days** — the combination is what works, not either drug alone.
 - Retrospective series (n=74), methane driven below 3 ppm: **87% with both** vs **33% neomycin alone** vs **28% rifaximin alone**.
 
-**IBS-D** — [[acg-2020-ibs]] **Rec 20: strong recommendation, moderate quality evidence**:
+**IBS-D — 550 mg t.i.d. × 14 days**, the FDA-approved dose and course ([[aga-2022-ibs-d]]). [[acg-2020-ibs]] **Rec 20: strong recommendation, moderate quality evidence**:
 
-- **A 2-week course**, with **up to 2 additional retreatment courses** approved for symptom recurrence. *(ACG states the course length but not the mg dose; 550 mg t.i.d. comes from FDA labeling, which is not in the ingested corpus.)*
+- **Retreatment: up to 2 further courses at the same 550 mg t.i.d. × 14 d regimen** for symptom recurrence ([[aga-2022-ibs-d]]).
 - Efficacy: pooled TARGET 1/2 — improvement in both abdominal pain and stool consistency in **40.8% vs 31.7%** placebo (*P*<0.001); meta-analysis of 5 trials **NNT 9**.
 - Retreatment (TARGET 3): 44% responded to open-label rifaximin; of responders **36% never relapsed**, and the 64% who did were superior to placebo on retreatment.
 - **Who responds:** a **positive breath test** predicted a **56%** FDA-endpoint response vs **25%** with a negative breath test — baseline microbiome abnormality is the response predictor.

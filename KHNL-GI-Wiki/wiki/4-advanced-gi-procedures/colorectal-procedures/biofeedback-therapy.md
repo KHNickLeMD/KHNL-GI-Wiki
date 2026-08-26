@@ -3,7 +3,7 @@ title: "Biofeedback Therapy"
 category: advanced-procedure
 tags: [biofeedback, pelvic-floor, dyssynergic-defecation, defecation-disorders, fecal-incontinence, levator-ani, constipation, anorectal]
 created: 2026-06-01
-updated: 2026-08-14
+updated: 2026-08-26
 sources: [acg-2021-anorectal-disorders, aga-2026-refractory-constipation]
 ---
 
@@ -60,7 +60,7 @@ Suggested treatment protocol for anorectal biofeedback — ACG 2021 Table 3 ([[a
 - Digital rectal examination is recommended in all patients with suspected defecation disorder — **75% sensitivity, 87% specificity** for dyssynergia. It also identifies structural abnormalities ([[anal-fissure|anal fissures]], [[hemorrhoids]], fecal impaction, descending perineum syndrome, anorectal cancer) and grades sphincter function.
 - **Symptoms that suggest a defecation disorder:** excessive straining, sense of anorectal blockage, manual maneuvers to facilitate evacuation, sense of incomplete evacuation.
 - **Baseline ARM + BET predict the outcome** and guide how the course is aimed.
-- Dyssynergia types I–IV are defined on [[anorectal-manometry]] (their home page) — not reproduced here.
+- ⚠ **Dyssynergia subtypes (types I–IV) are not defined in any ingested source.** [[acg-2021-anorectal-disorders]] recommends biofeedback for dyssynergic defecation without subtyping it, and neither it nor [[aga-2026-refractory-constipation]] reproduces the type I–IV scheme — so the wiki does not state it. What the guideline *does* give for selecting and aiming the course is on [[anorectal-manometry]] (rectoanal gradient, anal relaxation on push, rectal sensation, BET). Closing this needs a source that defines the subtypes; do not supply them from memory.
 - Distinguish from slow-transit constipation: colonic transit study if BET is normal **or** biofeedback fails. Up to **50%** of defecation-disorder patients have delayed colonic transit (usually secondary).
 
 ---

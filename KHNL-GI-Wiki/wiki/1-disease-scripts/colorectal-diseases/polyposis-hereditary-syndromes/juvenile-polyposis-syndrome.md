@@ -3,7 +3,7 @@ title: "Juvenile Polyposis Syndrome"
 category: disease-script
 tags: [juvenile-polyposis, jps, smad4, bmpr1a, hamartoma, hereditary-crc, hht, upper-gi-cancer, genetic-testing]
 created: 2026-05-19
-updated: 2026-08-14
+updated: 2026-08-26
 sources: [acg-2015-hereditary-gi-cancer, aga-2022-hamartomatous-polyposis]
 ---
 
@@ -35,7 +35,7 @@ Juvenile polyposis syndrome (JPS) is an autosomal-dominant hamartomatous polypos
 
 **SMAD4 mutation — additional consideration**:
 
-- SMAD4 mutations are associated with **[[hereditary-hemorrhagic-telangiectasia|hereditary hemorrhagic telangiectasia (HHT)]]**; cardiovascular examination and evaluation for HHT should be performed for all SMAD4 mutation carriers (Conditional/VLow)
+- SMAD4 mutations are associated with **[[hereditary-hemorrhagic-telangiectasia|hereditary hemorrhagic telangiectasia (HHT)]]** — cardiovascular examination and evaluation for HHT **should be considered** in SMAD4 carriers *(ACG 2015 Rec 17; conditional, very low)*; [[aga-2022-hamartomatous-polyposis|USMSTF 2022]] adds screening for and appropriate management of **cerebral and pulmonary AVMs** *(weak, very low)*
 
 ### Severity Assessment — Cancer Risks
 
@@ -47,6 +47,8 @@ Juvenile polyposis syndrome (JPS) is an autosomal-dominant hamartomatous polypos
 ---
 
 ## Differential Diagnosis
+
+*No dedicated diagnostic schema covers colorectal polyposis; the workup runs polyp phenotype (number, site, **histology** — the discriminator among the hamartomatous syndromes) at [[colonoscopy]] → clinical criteria → germline testing, as under [[#Diagnostics]].*
 
 - **[[peutz-jeghers-syndrome]]** — arborizing muscularis mucosae pattern in polyps; mucocutaneous pigmentation; STK11
 - **[[cowden-syndrome]]** — PTEN mutations; macrocephaly; mixed polyp types including ganglioneuromas
@@ -60,16 +62,15 @@ Juvenile polyposis syndrome (JPS) is an autosomal-dominant hamartomatous polypos
 
 *Start ages below are concordant across [[acg-2015-hereditary-gi-cancer|ACG 2015]] and the newer [[aga-2022-hamartomatous-polyposis|USMSTF/AGA 2022]] hamartomatous-polyposis guideline (colonoscopy + upper endoscopy at **age 12–15**, earlier if symptomatic; intervals set by polyp burden; test for *SMAD4* — HHT overlap — and *BMPR1A*).*
 
-**[[colonoscopy|Colonoscopy]]** — annually from age 12–15 (Conditional/VLow) [[acg-2015-hereditary-gi-cancer]]:
+**[[colonoscopy|Colonoscopy]]** — begin **age 12–15** (earlier if symptomatic, especially rectal bleeding), **every 1–3 years** depending on polyp burden *(ACG 2015 Table 10, conditional/very low; same in [[aga-2022-hamartomatous-polyposis|USMSTF 2022]] — weak, low)*:
 
-- Annual [[colonoscopy]] beginning at age 12 years or earlier if symptoms (especially rectal bleeding)
-- Repeat every 1–3 years depending on polyp burden; polyps ≥5 mm should be removed
+- Polyps ≥5 mm should be removed
 - Colonic polyps: 70% in proximal colon in one study
 
-**[[upper-endoscopy|EGD]]** — annually from age 12–15:
+**[[upper-endoscopy|EGD]]** — same schedule: begin **age 12–15** (earlier if symptomatic), **every 1–3 years**. Stomach surveillance is an explicit recommendation in both guidelines:
 
-- [[upper-endoscopy|Upper endoscopy]] starting age 12 or earlier depending on symptoms
-- Repeat every 1–3 years; small bowel past the duodenum should be periodically surveilled ([[device-assisted-enteroscopy|enteroscopy]], [[capsule-endoscopy|capsule endoscopy]], CT enterography) if duodenal polyposis is present or unexplained anemia, protein-losing enteropathy, or other small bowel symptoms are present
+- Small bowel beyond the duodenum has a **rare, undefined** lifetime risk — surveil periodically ([[device-assisted-enteroscopy|enteroscopy]], [[capsule-endoscopy|capsule endoscopy]], CT enterography) **only if** duodenal polyposis is present, or with unexplained anemia, protein-losing enteropathy, or other small bowel symptoms
+- Pancreas: rare, undefined lifetime risk — **no screening recommendation given**
 
 **Complete blood count** — annually for anemia surveillance
 

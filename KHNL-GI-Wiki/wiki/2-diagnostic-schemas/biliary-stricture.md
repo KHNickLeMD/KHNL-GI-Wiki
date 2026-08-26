@@ -3,7 +3,7 @@ title: "Biliary Stricture"
 category: diagnostic-schema
 tags: [biliary-stricture, ercp, eus, cholangioscopy, obstructive-jaundice, cholangiocarcinoma, hepatobiliary]
 created: 2026-05-15
-updated: 2026-08-14
+updated: 2026-08-26
 sources: [acg-2023-biliary-strictures, asge-2023-indeterminate-biliary-strictures, asge-2023-post-transplant-biliary-strictures]
 ---
 
@@ -163,7 +163,7 @@ If a diagnosis remains elusive after index ERCP:
 #### Malignant — Resectable
 
 - **Avoid routine preoperative biliary drainage** (Conditional, Low evidence)
-- Drainage warranted for: acute cholangitis, bilirubin >14.6 mg/dL, severe pruritus, neoadjuvant therapy planned, anticipated delay to surgery >2 weeks
+- Drainage warranted for: **[[acute-cholangitis|acute cholangitis]]** (grade it first — TG18 I/II/III sets drainage timing), **bilirubin >14.6 mg/dL**, severe pruritus, neoadjuvant therapy planned, anticipated delay to surgery >2 weeks
 - If drainage is performed pre-op, SEMS (not plastic) preferred for patients undergoing neoadjuvant therapy
 
 #### Malignant — Unresectable or Borderline Resectable
@@ -276,7 +276,7 @@ The following features increase pre-test probability of malignancy and should pr
 
 ## See Also
 
-[[chronic-pancreatitis]], [[acute-pancreatitis]], [[pancreatic-cancer]], [[cholangiocarcinoma]], [[gallbladder-cancer]], [[hepatocellular-carcinoma]], [[colorectal-cancer]], [[choledocholithiasis]], [[acute-cholecystitis]], [[jaundice]], [[abnormal-liver-chemistries]], [[ercp]], [[endoscopic-ultrasound]], [[cholangioscopy]], [[brush-cytology]], [[fish]], [[confocal-laser-endomicroscopy]], [[primary-sclerosing-cholangitis]], [[portal-hypertension]], [[liver-transplantation]], [[mri-mrcp]], [[radiofrequency-ablation]], [[antibiotic-prophylaxis-endoscopy]], [[tacrolimus]]
+[[chronic-pancreatitis]], [[acute-pancreatitis]], [[pancreatic-cancer]], [[cholangiocarcinoma]], [[gallbladder-cancer]], [[hepatocellular-carcinoma]], [[colorectal-cancer]], [[choledocholithiasis]], [[acute-cholangitis]], [[acute-cholecystitis]], [[jaundice]], [[abnormal-liver-chemistries]], [[ercp]], [[endoscopic-ultrasound]], [[cholangioscopy]], [[brush-cytology]], [[fish]], [[confocal-laser-endomicroscopy]], [[primary-sclerosing-cholangitis]], [[portal-hypertension]], [[liver-transplantation]], [[mri-mrcp]], [[radiofrequency-ablation]], [[antibiotic-prophylaxis-endoscopy]], [[tacrolimus]]
 
 ---
 

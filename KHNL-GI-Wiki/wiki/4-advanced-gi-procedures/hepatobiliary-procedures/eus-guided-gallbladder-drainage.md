@@ -33,7 +33,7 @@ Transmural gallbladder decompression: a stent (now standardly a **lumen-apposing
 ## Patient Selection
 
 - Requirements: high surgical risk, **no evidence of free gallbladder perforation**, able to tolerate anesthesia and a therapeutic endoscopic procedure. ([[aga-2023-eus-gallbladder-drainage]])
-- **Prefer ET-GBD first** when the patient: already needs ERCP ([[choledocholithiasis]], suspected cholangitis); is a **potential future cholecystectomy candidate** (ET-GBD preserves normal anatomy); has coagulopathy or large-volume [[ascites]].
+- **Prefer ET-GBD first** when the patient: already needs ERCP ([[choledocholithiasis]], suspected [[acute-cholangitis|cholangitis]]); is a **potential future cholecystectomy candidate** (ET-GBD preserves normal anatomy); has coagulopathy or large-volume [[ascites]].
 - **Prefer EUS-GBD** when: **in-dwelling uncovered metal biliary stent obstructing the cystic duct takeoff**; malignant cystic duct obstruction; **large cholelithiasis burden** or other indication for per-oral cholecystoscopy; poor candidate for repeat interventions.
 - **Discussion with the surgical team before EUS-GBD is imperative** — later cholecystectomy requires fistula repair (postoperative leak risk); clarify future surgical candidacy and the surgeon's comfort with a transmural stent. Cholecystectomy after EUS-GBD appears safe/feasible in limited data.
 - [[asge-2024-therapeutic-eus-biliary|ASGE 2024]] (conditional recommendation): in nonsurgical candidates, **EUS-GBD favored over percutaneous cholecystostomy** where expertise exists. Route-selection algorithm (incl. failure cascades) lives on [[acute-cholecystitis]].
@@ -108,7 +108,7 @@ From [[acg-2025-eus-quality|ACG/ASGE 2025 EUS quality indicators]]:
 
 ## See Also
 
-[[acute-cholecystitis]], [[endoscopic-ultrasound]], [[ercp]], [[choledocholithiasis]], [[gallbladder-cancer]], [[biliary-stricture]], [[ascites]], [[interventional-eus-vascular]]
+[[acute-cholecystitis]], [[acute-cholangitis]], [[endoscopic-ultrasound]], [[ercp]], [[choledocholithiasis]], [[gallbladder-cancer]], [[biliary-stricture]], [[ascites]], [[interventional-eus-vascular]]
 
 ---
 

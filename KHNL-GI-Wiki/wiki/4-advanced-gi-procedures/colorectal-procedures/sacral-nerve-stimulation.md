@@ -3,16 +3,17 @@ title: "Sacral Nerve Stimulation"
 category: advanced-procedure
 tags: [sacral-nerve-stimulation, sns, neuromodulation, fecal-incontinence, constipation, pelvic-floor, anorectal, implantable-device]
 created: 2026-06-01
-updated: 2026-08-14
+updated: 2026-08-26
 sources: [acg-2021-anorectal-disorders, aga-2026-refractory-constipation]
 ---
 
-*Implanted sacral neuromodulation device. **Strong recommendation for moderate–severe [[fecal-incontinence|fecal incontinence]] failing conservative measures; explicitly NOT recommended for constipation.** A temporary trial phase precedes permanent implantation.*
+*Implanted sacral neuromodulation device — peripheral nerve stimulation of the **S3 or S4 nerve roots** in the sacral foramina ([[acg-2021-anorectal-disorders]]). **Strong recommendation for moderate–severe [[fecal-incontinence|fecal incontinence]] failing conservative measures; explicitly NOT recommended for constipation.** A temporary trial phase precedes permanent implantation.*
 
 ## Contents
 - [[#Indications]]
   - [[#What has to fail first]]
   - [[#How "moderate–severe" is judged]]
+  - [[#Who the evidence excludes]]
 - [[#Two-Stage Approach]]
 - [[#Outcomes]]
 - [[#Adverse Events]]
@@ -46,6 +47,19 @@ ACG gives **no single validated score or cutoff**; severity is gauged clinically
 - Workup before advanced FI therapy: Bristol Stool Scale + symptom diary; DRE + [[anorectal-manometry|ARM]] + balloon expulsion test + rectal sensation for moderate–severe FI (i.e. those failing conservative measures); endoanal US or MRI if pressures are weak or surgery is being considered.
 - The negative recommendation in constipation is echoed in the refractory-constipation pathway, where surgical/device escalation follows confirmed slow transit rather than neuromodulation ([[aga-2026-refractory-constipation]]) — see [[chronic-idiopathic-constipation]].
 
+### Who the evidence excludes
+
+The efficacy figures below come from the pivotal North American multicenter study (2002–2008, **n = 133**), which enrolled patients with **>2 incontinent episodes per week for >6 months**, or for **>12 months after childbirth**, who had failed or were not candidates for conservative therapy. It **excluded** ([[acg-2021-anorectal-disorders]]):
+
+- Chronic diarrhea
+- **Large sphincter defects**
+- Chronic [[inflammatory-bowel-disease|inflammatory bowel disease]]
+- Visible sequelae of pelvic radiation
+- Active anal inflammation
+- Neurologic disease — clinically significant peripheral neuropathy or complete spinal cord injury
+
+These are the patients in whom the Strong recommendation is *not* supported by the trial data.
+
 ---
 
 ## Two-Stage Approach
@@ -57,7 +71,16 @@ ACG gives **no single validated score or cutoff**; severity is gauged clinically
 
 ## Outcomes
 
-- **50% achieve complete continence at 3 years** ([[acg-2021-anorectal-disorders]]).
+At **3-year** follow-up of implanted patients in the pivotal study ([[acg-2021-anorectal-disorders]]):
+
+| Endpoint | Result |
+|---|---|
+| **Therapeutic success** — ≥50% reduction in incontinent episodes/week | **86%** |
+| **Complete continence** | **40%** |
+| Incontinent episodes, baseline → 12 months | mean **9.4/week → 1.7/week** |
+| FI Quality of Life instrument | significant improvement in **all 4 scales** at 12, 24, and 36 months |
+
+- ⚠ **SNS has had no significant effect on measured anorectal function** ([[anorectal-manometry|ARM]] parameters) despite the symptom benefit — the mechanism is not sphincter strengthening, and the pivotal study was uncontrolled.
 
 ---
 
@@ -67,10 +90,11 @@ Device-related complications are substantial and are the main counterweight to t
 
 | Complication | Rate |
 |---|---|
-| Pain | **28%** |
+| Implant-site pain | **28%** |
 | Paresthesias | **15%** |
+| Change in the sensation of stimulation | **12%** |
 | Infection | **10%** |
-| Any device-related AE at 60 months | **61%** (one study) |
+| Any device-related AE at 60 months | **61%** (one long-term follow-up study) |
 
 ---
 
@@ -92,7 +116,7 @@ For FI failing conservative therapy ([[acg-2021-anorectal-disorders]]):
 
 ## See Also
 
-[[fecal-incontinence]], [[biofeedback-therapy]], [[anorectal-manometry]], [[defecation-disorders]], [[chronic-idiopathic-constipation]], [[proctalgia-syndromes]], [[rectal-prolapse]], [[loperamide]]
+[[fecal-incontinence]], [[biofeedback-therapy]], [[anorectal-manometry]], [[defecation-disorders]], [[chronic-idiopathic-constipation]], [[proctalgia-syndromes]], [[rectal-prolapse]], [[loperamide]], [[inflammatory-bowel-disease]]
 
 ---
 

@@ -3,9 +3,24 @@ title: "Gastric Intestinal Metaplasia"
 category: disease-script
 tags: [gastric-intestinal-metaplasia, gim, gastric-cancer, h-pylori, correa-cascade, premalignant, foregut, gastric]
 created: 2026-05-16
-updated: 2026-08-14
-sources: [aga-2020-gastric-intestinal-metaplasia, acg-2025-gastric-premalignant]
+updated: 2026-08-26
+sources: [aga-2020-gastric-intestinal-metaplasia, acg-2025-gastric-premalignant, aga-2021-atrophic-gastritis]
 ---
+
+## Contents
+- [[#Assessment]]
+  - [[#Establishing the Diagnosis]]
+  - [[#Severity Assessment]]
+  - [[#Classification / Typing]]
+- [[#Differential Diagnosis]]
+- [[#Diagnostics]]
+  - [[#Biopsy Protocol]]
+  - [[#H. pylori Testing]]
+  - [[#Serum Markers]]
+  - [[#Enhanced Imaging]]
+- [[#Therapeutics]]
+- [[#See Also]]
+- [[#Sources]]
 
 ## Assessment
 
@@ -17,7 +32,7 @@ sources: [aga-2020-gastric-intestinal-metaplasia, acg-2025-gastric-premalignant]
 
 **High-quality endoscopy is prerequisite (ACG 2025, Strong/Low)** — the five mandatory components of an adequate gastric exam are listed on [[gastric-premalignant-conditions#Endoscopic Evaluation (Required)|gastric premalignant conditions]]; a rushed 2–3 minute exam is below the standard of care.
 
-GIM affects approximately 5% of the US population. Prevalence is higher in high-risk groups (see below). Detection often incidental on [[upper-endoscopy|EGD]] performed for other indications.
+**Prevalence:** pooled prevalence of GIM among **897,371 individuals who underwent gastric biopsies was 4.8% (95% CI 4.8%–4.9%)** — this is the yield *among biopsied patients*, not a general-population estimate ([[aga-2020-gastric-intestinal-metaplasia]]). Prevalence is higher in high-risk groups (see below). Detection is often incidental on [[upper-endoscopy|EGD]] performed for other indications.
 
 **On endoscopy:** GIM may appear as pale, slightly raised mucosal patches with fine villous surface texture. Enhanced imaging (narrow-band imaging [NBI], chromoendoscopy) improves detection but is not required for diagnosis.
 
@@ -38,7 +53,7 @@ GIM affects approximately 5% of the US population. Prevalence is higher in high-
 |---------|-----------|------------|
 | Extent | Antrum-limited | Involving corpus/extensive |
 | Histologic subtype | Complete (type I) | Incomplete (types IIa/IIb/III) |
-| OLGIM staging | I–II | III–IV |
+| OLGA/OLGIM stage | 0–I (low); **II is intermediate**, not low | III–IV |
 | Family history | None | First-degree relative with gastric cancer |
 | Ethnicity | Non-immigrant, low-incidence region | Hispanic, Asian, African American, immigrant from high-incidence region |
 
@@ -74,9 +89,9 @@ GIM affects approximately 5% of the US population. Prevalence is higher in high-
 
 ### Serum Markers
 
-- **Pepsinogen I/II ratio** (<3): marker of corpus atrophy; lower ratio correlates with higher GC risk; not widely used in US practice
-- **Serum anti-parietal cell antibodies** and **intrinsic factor antibodies**: if autoimmune gastritis suspected
-- **H. pylori serology** (IgG): useful for past infection documentation; not for active infection status
+- **Serum pepsinogens** — **PG I <70 µg/L *and* PG I:II ratio <3.0** have high sensitivity/specificity for **severe corpus atrophy** (data mostly from high-incidence East Asian regions); **not available for routine clinical use in the US** [[aga-2021-atrophic-gastritis]]. ACG 2025 recommends **against** noninvasive biomarkers (serum pepsinogens, anti-H. pylori IgG) for GPMC screening or surveillance in the US (very low evidence) [[acg-2025-gastric-premalignant]]
+- **Serum anti-parietal cell antibodies** (most sensitive for AIG) and **intrinsic factor antibodies** (low sensitivity <30%, high specificity): if autoimmune gastritis suspected — see [[atrophic-gastritis]]
+- **H. pylori serology** (IgG): cannot distinguish active from past infection; not for active infection status or test of cure
 
 ### Enhanced Imaging
 
@@ -104,7 +119,7 @@ GIM affects approximately 5% of the US population. Prevalence is higher in high-
 | **AGA 2020** | AGAINST routine surveillance (Conditional/Very Low); shared SDM for high-risk patients; if surveillance done, q3–5y with antrum + body biopsies |
 | **ACG 2025 GPMC** | Surveillance **q3y for high-risk GIM** and for severe GIM/AG in antrum or corpus (both Conditional/Very Low); **against surveillance for low-risk GIM or mild AG** |
 | **AGA 2021 Atrophic Gastritis** | Surveillance at 3 years for OLGA/OLGIM III/IV |
-| **ESGE** | Surveillance at 3 years for high-risk GIM (incomplete-type, extensive, family history) |
+| **ESGE** *(not an ingested guideline — as summarized inside [[aga-2020-gastric-intestinal-metaplasia]])* | Strong rec: surveillance **every 3 years** for severe gastric atrophy or GIM in **both antrum and body** and/or OLGA/OLGIM III–IV. Weak rec: surveillance at 3 years for **single-location GIM plus** family history of GC, incomplete GIM, or persistent H. pylori gastritis. Weak rec: consider **1–2-year** surveillance for family history plus those findings. GIM at a single location alone does **not** justify surveillance in most cases |
 
 **ACG 2025 risk definitions:**
 
@@ -148,3 +163,4 @@ GIM affects approximately 5% of the US population. Prevalence is higher in high-
 
 1. [[aga-2020-gastric-intestinal-metaplasia|AGA 2020 Clinical Practice Update: Management of Gastric Intestinal Metaplasia]]
 2. [[acg-2025-gastric-premalignant|ACG 2025 Guideline: Diagnosis and Management of Gastric Premalignant Conditions]]
+3. [[aga-2021-atrophic-gastritis|AGA 2021: Diagnosis and Management of Atrophic Gastritis]]

@@ -235,6 +235,7 @@ sources: [acg-2024-acute-pancreatitis, asge-2016-pancreatic-fluid-collections, a
 | **Acute biliary pancreatitis *without* cholangitis** | *"We suggest **medical therapy over early (within the first 72 hr) ERCP**"* — i.e. **do not** rush to ERCP | **Rec 5 — conditional, low quality** |
 | **No cholangitis and/or jaundice, CBD stone suspected** | Screen with **[[mri-mrcp\|MRCP]] or [[endoscopic-ultrasound\|EUS]] before ERCP**; **diagnostic ERCP should be avoided** | Key concept 14 (ungraded) |
 
+- **The threshold that triggers urgent ERCP absent cholangitis.** In predicted-severe gallstone AP (APACHE >8, Imrie >3, or CRP >150 mg/dL), early (<24 h) ERCP did **not** reduce complications or mortality, though it reduced readmission for recurrent AP/cholangitis. ACG 2024's conclusion: **urgent ERCP is indicated only for cholangitis, or for progressive cholestasis defined by a *rising* bilirubin >3–5 mg/dL in the setting of severe or moderately severe AP.** A single elevated bilirubin that is falling is not the trigger — the trajectory is.
 - Risk of post-ERCP pancreatitis is **higher in the patient with a normal-caliber CBD and normal bilirubin (OR 3.4)** than in the jaundiced patient with a dilated CBD (OR 0.2) — which is exactly why MRCP/EUS is used first in that group.
 - **ERCP with sphincterotomy** does not benefit AP without concurrent biliary obstruction or cholangitis — multiple RCTs.
 

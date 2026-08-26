@@ -15,9 +15,43 @@ sources: [nccn-2026-gastric-cancer, asge-2015-gastric-premalignant, asge-2023-es
 - **Risk factors:** [[helicobacter-pylori-infection|H. pylori]] infection; the precursor cascade of [[atrophic-gastritis|atrophic gastritis]] → [[gastric-intestinal-metaplasia|intestinal metaplasia]] → dysplasia ([[gastric-premalignant-conditions|gastric premalignant conditions]]); smoking; high-salt diet; hereditary syndromes including [[hereditary-diffuse-gastric-cancer|hereditary diffuse gastric cancer (CDH1)]]
 - Who to screen and how to survey precursor lesions: see [[gastric-cancer-screening]]
 
-### Severity Assessment (Staging)
+### Severity Assessment (AJCC 8th ed. TNM staging)
 
 Staging combines [[endoscopic-ultrasound|EUS]] (T/N), CT, PET/CT, and **diagnostic laparoscopy with peritoneal cytology** for locally advanced disease to exclude occult peritoneal spread. For advanced/metastatic disease, biomarker testing — **HER2 (ERBB2), PD-L1 CPS, MSI-H/dMMR, and claudin 18.2** — is integral to treatment selection.
+
+Depth of invasion separates endoscopically curable disease (Tis/T1a mucosal) from disease requiring gastrectomy or systemic therapy. Stage groups differ for clinical (cTNM), pathologic (pTNM), and post-neoadjuvant (ypTNM) staging ([[nccn-2026-gastric-cancer]], AJCC 8th ed. 2017):
+
+| T — primary tumor | Definition |
+|---|---|
+| Tis | Carcinoma in situ — intraepithelial tumor without invasion of the lamina propria; high-grade dysplasia |
+| T1a | Invades **lamina propria or muscularis mucosae** |
+| T1b | Invades **submucosa** |
+| T2 | Invades **muscularis propria** (extension into the gastrocolic/gastrohepatic ligaments or omentum **without** perforation of the visceral peritoneum is still T3; perforation → T4) |
+| T3 | Penetrates **subserosal connective tissue** without invasion of the visceral peritoneum or adjacent structures |
+| T4a | Invades the **serosa** (visceral peritoneum) |
+| T4b | Invades **adjacent structures/organs** (spleen, transverse colon, liver, diaphragm, pancreas, abdominal wall, adrenal, kidney, small intestine, retroperitoneum) |
+
+*Intramural extension to duodenum or esophagus is **not** an adjacent structure — classify by the greatest depth of invasion at any of those sites.*
+
+| N / M / G | Definition |
+|---|---|
+| N0 / N1 / N2 / N3 | No regional nodes / **1–2** nodes / **3–6** nodes / **≥7** nodes (**N3a** = 7–15; **N3b** = ≥16) |
+| M0 / M1 | No distant metastasis / distant metastasis |
+| G1 / G2 / G3 | Well / moderately / poorly differentiated or undifferentiated |
+
+**Clinical stage groups (cTNM) — the stage that drives the pretreatment decision** (all M0 except IVB):
+
+| Stage | cT / cN |
+|---|---|
+| 0 | Tis N0 |
+| I | T1 N0; T2 N0 |
+| IIA | T1 N1–3; T2 N1–3 |
+| IIB | T3 N0; T4a N0 |
+| III | T3 N1–3; T4a N1–3 |
+| IVA | T4b, any N |
+| IVB | Any T, any N, **M1** |
+
+*Pathologic (pTNM) and post-neoadjuvant (ypTNM) groupings differ from the clinical groups — pTNM subdivides IA/IB and IIIA/IIIB/IIIC using N3a vs N3b. Use the pTNM/ypTNM tables in [[nccn-2026-gastric-cancer]] for resected specimens.*
 
 ### Classification / Typing
 
