@@ -3,7 +3,7 @@ title: "Choledocholithiasis"
 category: disease-script
 tags: [biliary, gallstones, common-bile-duct, jaundice, cholangitis, ercp, eus, mrcp, gallstone-pancreatitis]
 created: 2026-06-04
-updated: 2026-08-13
+updated: 2026-08-27
 sources: [asge-2019-choledocholithiasis, aga-2024-pregnancy-gi-liver, asge-2021-cholangitis, jagtap-2026-urgent-vs-early-ercp-cholangitis, aloysius-2026-ercp-timing-septic-shock-cholangitis]
 ---
 
@@ -42,8 +42,9 @@ sources: [asge-2019-choledocholithiasis, aga-2024-pregnancy-gi-liver, asge-2021-
 | **Low** | <10% | No predictors present | Cholecystectomy (for symptomatic cholelithiasis) ± intraoperative cholangiogram or intraoperative US as needed |
 
 - **Dilated CBD** = **>6 mm** in adults with gallbladder in situ; **>8 mm** after cholecystectomy. ([[asge-2019-choledocholithiasis]])
-- Bilirubin >4 mg/dL *alone* or a dilated duct *alone* is only **intermediate** risk — it's the **combination** that is high-risk (revised from 2010: the combined criterion raised specificity from 74% to 94% and PPV from 64% to 85% in validation).
-- **Gallstone [[acute-pancreatitis|pancreatitis]] was removed** as a risk criterion in the 2019 revision — it did not correlate with persistent CBD stones.
+- Bilirubin >4 mg/dL *alone* or a dilated duct *alone* is only **intermediate** risk — it's the **combination** that is high-risk (the combined criterion raised specificity from 74% to 94% and PPV from 64% to 85% in validation).
+- **What changed from ASGE 2010** (readers carry the old version): 2010 counted **total bilirubin 1.8–4.0 mg/dL *plus* duct dilation**, *or* **total bilirubin >4 mg/dL alone**, as high-risk; 2019 requires **both** bilirubin >4 mg/dL **and** duct dilation. The 2010 criteria sent 20–30% of patients to diagnostic ERCP. ([[asge-2019-choledocholithiasis]])
+- **Gallstone [[acute-pancreatitis|pancreatitis]] was removed** as an **intermediate**-risk criterion in the 2019 revision — the panel cited a lack of correlation with persistent CBD stones. (It was an intermediate-risk criterion in 2010.)
 - **EUS and MRCP have comparable high accuracy** for detecting CBD stones — choose by local availability/expertise. ([[asge-2019-choledocholithiasis]])
 
 ## Differential Diagnosis
@@ -66,7 +67,10 @@ sources: [asge-2019-choledocholithiasis, aga-2024-pregnancy-gi-liver, asge-2021-
 ### Stone Clearance
 - **[[ercp|ERCP]] with sphincterotomy** — mainstay for high-probability stones.
 - **Large/difficult stones:** **endoscopic papillary large-balloon dilation after sphincterotomy** improves clearance over sphincterotomy alone.
-- Adjuncts for large/difficult stones: **mechanical lithotripsy** or **[[cholangioscopy|cholangioscopy-guided]] (EHL/laser) lithotripsy**. ([[asge-2019-choledocholithiasis]])
+- Adjuncts for large/difficult stones: **mechanical lithotripsy** or **[[cholangioscopy|cholangioscopy-guided]] (EHL/laser) lithotripsy**. Intraductal therapy and conventional therapy with papillary dilation are both acceptable — choose by local expertise, cost, and preference (Rec 4). ([[asge-2019-choledocholithiasis]])
+- **Bile duct stents** (plastic or covered metal) may facilitate removal of difficult stones but **require planned exchange or removal** — never leave them indefinitely (Rec 9).
+- **Timing vs cholecystectomy:** pre-operative ERCP, post-operative ERCP, or laparoscopic bile-duct clearance are all acceptable for high-risk patients or a positive intraoperative cholangiogram — decided by local surgical/endoscopic expertise (Rec 7).
+- **Mirizzi syndrome:** per-oral [[cholangioscopy|cholangioscopic]] therapy may substitute for surgical stone management where expertise exists, but **gallbladder resection is still required regardless of strategy**. **Hepatolithiasis** needs a multidisciplinary approach (endoscopy + IR + surgery) (Rec 8).
 
 ### Acute Cholangitis — Drainage Timing
 - **Biliary drainage within 48 h** of presentation ([[asge-2021-cholangitis]]); **[[ercp|ERCP]] over PTBD** as first-line modality.
@@ -76,8 +80,10 @@ sources: [asge-2019-choledocholithiasis, aga-2024-pregnancy-gi-liver, asge-2021-
 - **Malignant** biliary obstruction is the dominant predictor of 30-day mortality in cholangitis (HR ~5), not timing. ([[jagtap-2026-urgent-vs-early-ercp-cholangitis]])
 
 ### Gallstone Pancreatitis
-- **Early [[ercp|ERCP]]** for concurrent **cholangitis or persistent biliary obstruction**.
-- **Not** routine for uncomplicated gallstone [[acute-pancreatitis|pancreatitis]] — no mortality/complication benefit absent cholangitis/obstruction. ([[asge-2019-choledocholithiasis]])
+- **Recommend *against* urgent (<48 h) [[ercp|ERCP]]** in gallstone [[acute-pancreatitis|pancreatitis]] **without** cholangitis or biliary obstruction/choledocholithiasis (Rec 2) — no mortality/systemic/local-complication benefit, including in predicted-severe disease. ([[asge-2019-choledocholithiasis]])
+- **Do** proceed with early ERCP when **cholangitis** or **persistent biliary obstruction/choledocholithiasis** coexists — those patients were explicitly excluded from the recommendation against early ERCP.
+- **Same-admission cholecystectomy is recommended for mild gallstone pancreatitis** (Rec 5) — interval cholecystectomy leaves a substantial readmission risk for recurrent pancreatitis and other biliary events. ([[asge-2019-choledocholithiasis]])
+- **ERCP with prophylactic sphincterotomy is not a substitute for cholecystectomy** — reserve it for patients in whom surgery is absolutely contraindicated. ([[asge-2019-choledocholithiasis]])
 
 ### In Pregnancy
 - Confirm the stone with **[[mri-mrcp|MRCP]]** (no contrast) or **[[endoscopic-ultrasound|EUS]]** before ERCP (CT involves radiation and is not typically needed). ([[aga-2024-pregnancy-gi-liver]])

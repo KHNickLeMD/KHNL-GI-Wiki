@@ -3,7 +3,7 @@ title: "Sphincter of Oddi Dysfunction"
 category: disease-script
 tags: [sphincter-of-oddi, biliary, pancreatic, ercp, manometry, sphincterotomy, post-cholecystectomy-pain, idiopathic-recurrent-pancreatitis, episod]
 created: 2026-07-17
-updated: 2026-08-10
+updated: 2026-08-27
 sources: [asge-2015-ercp-benign-biliary, asge-2015-benign-pancreatic-disease, asge-2023-post-ercp-pancreatitis]
 ---
 
@@ -31,7 +31,7 @@ sources: [asge-2015-ercp-benign-biliary, asge-2015-benign-pancreatic-disease, as
 - Clinical (biliary- or pancreatic-type pain) **plus** objective evidence: abnormal liver or pancreatic enzymes documented on ≥2 occasions, and/or a dilated bile or pancreatic duct.
 - **Exclude structural disease first** — stones, sludge, [[chronic-pancreatitis]], malignancy — with cross-sectional imaging, [[mri-mrcp|MRCP]], and/or [[endoscopic-ultrasound|EUS]] before invasive testing. ([[asge-2015-benign-pancreatic-disease]])
 - **Sphincter of Oddi manometry (SOM)** at [[ercp|ERCP]] is the reference test for sphincter hypertension but is invasive and itself raises post-ERCP pancreatitis risk — reserved for selected type II cases, not needed for type I. ([[asge-2015-ercp-benign-biliary]])
-- **Do not pursue diagnostic [[ercp|ERCP]] for pancreaticobiliary-type pain when other imaging/labs are normal** (Moderate) — this is the type III scenario, where ERCP has no benefit and real harm. ([[asge-2015-ercp-benign-biliary]])
+- **Do not pursue diagnostic [[ercp|ERCP]] for pancreaticobiliary-type pain when other imaging/labs are normal** — this is the type III scenario, where ERCP has no benefit and real harm (grade under *Therapeutics*). ([[asge-2015-ercp-benign-biliary]])
 
 ### Classification / Typing
 

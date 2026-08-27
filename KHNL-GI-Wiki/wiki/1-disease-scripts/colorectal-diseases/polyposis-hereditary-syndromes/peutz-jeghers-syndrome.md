@@ -56,14 +56,14 @@ Overall risk of developing any cancer by age: 1% (age 20), 3% (age 30), 19% (age
 | Breast (F) | 12.4% | 32–54% | 37–59 |
 | Ovarian (mostly SCTAT) | 1.6% | 21% | 28 |
 | Uterus | 2.7% | 9% | 43 |
-| Cervix (adenoma malignum) | <1% | 10% | 34–40 |
+| Cervix (adenoma malignum) | <1% | **10–23%** (USMSTF 2022; ACG 2015 listed 10%) | 34–40 |
 | Testicular (**Sertoli cell tumor**) | <1% | 9% | **6–9** |
 | Lung | 6.9% | 7–17% | 47 |
 
 - SCTAT = sex cord tumor with annular tubules; **almost all women with PJS develop SCTAT and ~20% become malignant**. Testicular Sertoli cell tumours present as a mass and may cause gynecomastia/hyperestrogenism or accelerated growth; **10–20% of benign Sertoli cell tumors become malignant**
 - PJS carries the **highest relative risk of [[pancreatic-cancer|pancreatic cancer]] of any hereditary syndrome (up to 132-fold)**; 95% of PJS pancreatic cancers occur after age 24
 - Cumulative **lung** cancer risk exceeds **5% by age 55**; the relative risk is comparable to a >30-pack-year smoker who quit 10–15 years ago, but has never been adjusted for smoking status [[aga-2022-hamartomatous-polyposis]]
-- The newer [[aga-2022-hamartomatous-polyposis|USMSTF 2022]] gives the female breast-cancer lifetime risk as **24–54%** (vs ACG's 32–54%) and notes it sits in the same band as BRCA1/BRCA2 carriers (40–85%)
+- Female **breast** lifetime risk is **32–54%** in *both* guidelines ([[acg-2015-hereditary-gi-cancer|ACG 2015]] Table 7 and [[aga-2022-hamartomatous-polyposis|USMSTF 2022]] Table 3); USMSTF notes this overlaps the band conferred by [[brca-pathogenic-variants|BRCA1/BRCA2]] pathogenic variants (**40–85%** lifetime). *(ACG's narrative text prints "24–54%", inconsistent with its own Table 7 — the tabulated 32–54% is what both guidelines assert.)*
 
 ---
 
@@ -74,7 +74,7 @@ Overall risk of developing any cancer by age: 1% (age 20), 3% (age 30), 19% (age
 - **[[juvenile-polyposis-syndrome|Juvenile polyposis syndrome]]** — juvenile polyps lack arborizing muscularis pattern; SMAD4/BMPR1A
 - **[[familial-adenomatous-polyposis]]** — adenomatous polyps, not hamartomas; APC gene
 - **[[cowden-syndrome]]** — PTEN hamartomas; macrocephaly; no mucocutaneous pigmentation
-- **Hereditary mixed polyposis syndrome** — mixed polyp types; GREM1
+- **[[hereditary-mixed-polyposis-syndrome|Hereditary mixed polyposis syndrome]]** — mixed juvenile–adenomatous–hyperplastic polyps; GREM1 duplication
 - **Bannayan-Riley-Ruvalcaba syndrome** — PTEN; genital lentigines, macrocephaly, lipomas; allelic to Cowden
 - Sporadic gastric juvenile/hamartomatous polyps
 
@@ -171,7 +171,7 @@ Overall risk of developing any cancer by age: 1% (age 20), 3% (age 30), 19% (age
 
 ## See Also
 
-[[familial-adenomatous-polyposis]], [[lynch-syndrome]], [[juvenile-polyposis-syndrome]], [[cowden-syndrome]], [[colorectal-cancer]], [[colonoscopy]], [[upper-endoscopy]], [[capsule-endoscopy]], [[endoscopic-ultrasound]], [[pancreatic-cancer]], [[pancreatic-cancer-screening]], [[gastric-adenocarcinoma]], [[device-assisted-enteroscopy]], [[polypectomy]]
+[[colorectal-polyposis]], [[familial-adenomatous-polyposis]], [[lynch-syndrome]], [[juvenile-polyposis-syndrome]], [[cowden-syndrome]], [[hereditary-mixed-polyposis-syndrome]], [[brca-pathogenic-variants]], [[colorectal-cancer]], [[colonoscopy]], [[upper-endoscopy]], [[capsule-endoscopy]], [[endoscopic-ultrasound]], [[pancreatic-cancer]], [[pancreatic-cancer-screening]], [[gastric-adenocarcinoma]], [[device-assisted-enteroscopy]], [[polypectomy]]
 
 ---
 

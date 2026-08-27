@@ -3,11 +3,21 @@ title: "Pancreas Divisum"
 category: disease-script
 tags: [pancreas-divisum, congenital-anomaly, recurrent-acute-pancreatitis, minor-papilla, ercp, hpb]
 created: 2026-07-29
-updated: 2026-08-12
+updated: 2026-08-27
 sources: [aga-2022-recurrent-pancreatitis-endoscopy]
 ---
 
 # Pancreas Divisum
+
+## Contents
+- [[#Assessment]]
+  - [[#Establishing the Diagnosis]]
+  - [[#Classification / Typing]]
+- [[#Differential Diagnosis]]
+- [[#Diagnostics]]
+- [[#Therapeutics]]
+- [[#See Also]]
+- [[#Sources]]
 
 ## Assessment
 

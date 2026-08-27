@@ -3,7 +3,7 @@ title: "Acute Lower Gastrointestinal Bleeding (LGIB)"
 category: diagnostic-schema
 tags: [lower-gi-bleeding, lgib, hematochezia, diverticular, colonoscopy, hemorrhage, cta, risk-stratification]
 created: 2026-05-15
-updated: 2026-08-13
+updated: 2026-08-27
 sources: [acg-2023-lgib, asge-2014-lgib]
 ---
 
@@ -26,10 +26,11 @@ Any of the following suggests hemodynamically significant LGIB requiring immedia
 Severe hematochezia with hemodynamic instability may reflect a **brisk UGIB source** in 15% of cases. Features that raise suspicion for proximal source:
 
 - History of [[peptic-ulcer-disease|peptic ulcer disease]], decompensated liver disease, hematemesis
-- BUN:Cr ratio >30 (LR 7.5 for UGIB); BUN alone >21 mg/dL (specificity 93%)
+- **BUN:Cr ratio >30** — LR 7.5 (95% CI 2.8–12.0) for UGIB. Caveat: in another accuracy study the ratio discriminated upper vs lower source poorly overall (**AUROC 0.63**); a higher cutoff of **35** gave specificity 90.1% / PPV 89.1%
+- **BUN alone >21 mg/dL** — specificity **93.0%** for an upper source (strongest single variable in that study)
 - Melena on rectal exam (argues against colonic source)
-- Absence of blood clots in stool (LR 0.05 for UGIB — clots favor LGIB)
-- Nasogastric aspirate is unreliable (sensitivity only 28%) — routine NG tube NOT recommended
+- **Blood clots in stool argue *against* UGIB** — their **presence** carries LR **0.05** (95% CI 0.01–0.38) for an upper source
+- Nasogastric aspirate is unreliable (sensitivity only 28% for an upper source; NPV <1%) — routine NG tube NOT recommended
 
 If [[upper-gi-bleeding|UGIB]] is clinically suspected, perform **urgent [[upper-endoscopy|EGD]] before [[colonoscopy]]**.
 
@@ -89,7 +90,7 @@ If [[upper-gi-bleeding|UGIB]] is clinically suspected, perform **urgent [[upper-
 |---|---|
 | Age <40 yr | 0 |
 | Age 40–69 yr | 1 |
-| Age ≥70 yr | 2 |
+| Age >70 yr | 2 |
 | Female sex | 0 |
 | Male sex | 1 |
 | No prior LGIB admission | 0 |
@@ -99,22 +100,40 @@ If [[upper-gi-bleeding|UGIB]] is clinically suspected, perform **urgent [[upper-
 | Heart rate <70 bpm | 0 |
 | Heart rate 70–89 bpm | 1 |
 | Heart rate 90–109 bpm | 2 |
-| Heart rate ≥110 bpm | 3 |
+| Heart rate >110 bpm | 3 |
 | SBP 50–89 mm Hg | 5 |
 | SBP 90–119 mm Hg | 4 |
 | SBP 120–129 mm Hg | 3 |
 | SBP 130–159 mm Hg | 2 |
-| SBP ≥160 mm Hg | 0 |
+| SBP >160 mm Hg | 0 |
 | Hgb 3.6–6.9 g/dL | 22 |
 | Hgb 7.0–8.9 g/dL | 17 |
 | Hgb 9.0–10.9 g/dL | 13 |
 | Hgb 11.0–12.9 g/dL | 8 |
 | Hgb 13.0–15.9 g/dL | 4 |
-| Hgb ≥16.0 g/dL | 0 |
+| Hgb >16.0 g/dL | 0 |
 
-**Oakland Score ≤8**: 95% probability of safe discharge; sensitivity 98% for safe discharge (AUROC 0.87 in U.S. validation). "Safe discharge" = no rebleeding, transfusion, therapeutic intervention, or 28-day readmission.
+*(Cut-points reproduced as printed in [[acg-2023-lgib|ACG 2023]] Table 3.)*
 
-**SHA2PE Score** (alternative): Score ≤1 predicts low risk. Variables: SBP <100 (+1), Hgb <10.5 (+2) or 10.5–12 (+1), antiplatelet use (+1), anticoagulant use (+1), pulse >100 (+1), ED bleeding (+1).
+**Oakland Score ≤8**: 95% probability of safe discharge; sensitivity **98%** for safe discharge in U.S. external validation (**AUROC 0.87**, across 140 hospitals, and despite DRE being unavailable in that data set). Extending the cut-point to **≤10** still gives **96%** sensitivity.
+
+**"Safe discharge" is a defined composite** — absence of *all* of: rebleeding (further transfusion requirement **or** a further fall in hematocrit of **≥20% after 24 hours of clinical stability**), red-cell transfusion, therapeutic intervention to control bleeding (endoscopic, radiologic, or surgical hemostasis), in-hospital death, and readmission with further LGIB within **28 days**.
+
+**SHA2PE Score** (alternative) — **score ≤1 means hospital-based intervention is unlikely** ("hospital-based intervention" = red-cell transfusion, endoscopic hemostatic therapy, arterial embolization, or surgery):
+
+| Variable | Points |
+|---|---|
+| Systolic pressure <100 mm Hg | 1 |
+| Hemoglobin <10.5 g/dL | 2 |
+| Hemoglobin 10.5–12.0 g/dL | 1 |
+| Antiplatelet therapy | 1 |
+| Anticoagulant therapy | 1 |
+| Pulse >100 bpm | 1 |
+| Emergency department bleeding | 1 |
+
+AUROC 0.83 in derivation; an external validation of 251 patients **misclassified 14 patients as low-risk who did in fact require a hospital-based intervention**.
+
+**Neither tool is yet proven as an ED discharge strategy** — ACG notes the absence of prospective multicenter data on using either score to manage LGIB patients as outpatients.
 
 Scores supplement but do not replace clinical judgment. Low-risk patients (Oakland ≤8) without ongoing bleeding who have had a high-quality colonoscopy within 12 months can be considered for early discharge with outpatient follow-up.
 

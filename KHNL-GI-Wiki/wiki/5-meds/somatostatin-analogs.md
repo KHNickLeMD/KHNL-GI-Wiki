@@ -28,15 +28,22 @@ sources: [nccn-2026-net, aasld-2023-portal-hypertension, acg-2015-small-bowel-bl
 ## Indications & Dosing
 
 ### Acute Variceal Bleeding
-In [[portal-hypertension]], a vasoactive drug is started immediately on suspicion, before [[upper-endoscopy|endoscopy]] ([[aasld-2023-portal-hypertension]] Table 5):
+**Octreotide is the vasoactive drug of choice for variceal hemorrhage, on its safety profile** ([[aga-2024-vasoactive-albumin-cirrhosis]] BPA 3). In [[portal-hypertension]], start it **as soon as variceal bleeding is suspected or confirmed — preferably before diagnostic/therapeutic [[upper-endoscopy|endoscopy]]** (BPA 1).
 
 | Agent | Dosing | Duration |
 |---|---|---|
-| **Octreotide** | IV bolus **50 mcg** → infusion **25–50 mcg/hr** | 2–5 d |
-| **Somatostatin** | IV bolus **250 mcg** → infusion **250–500 mcg/hr** | 2–5 d |
+| **Octreotide** | IV bolus **50 mcg** → infusion **25–50 mcg/hr** (AASLD) / **50 mcg/hr** (AGA); extra IV boluses allowed for ongoing bleeding | 2–5 d |
+| **Somatostatin** | IV bolus **250 mcg** → infusion **250–500 mcg/hr**; extra IV boluses allowed for ongoing bleeding | 2–5 d |
 | Terlipressin (comparator; **not FDA-approved for this indication in North America**) | 2 mg IV q4–6h × first 24–48 h, then 1 mg IV q4–6h | 2–5 d |
 
-- **Pregnancy:** avoid terlipressin (stimulates uterine contraction) — **somatostatin or octreotide may be used** instead.
+*Doses from [[aasld-2023-portal-hypertension]] Table 5 and [[aga-2024-vasoactive-albumin-cirrhosis]] Table 1.*
+
+**How long to continue** ([[aga-2024-vasoactive-albumin-cirrhosis]] BPA 2):
+- After initial endoscopic hemostasis, **continue 2–5 days** to prevent early rebleeding.
+- **Stop the drug if endoscopy shows a non-variceal upper GI source** — vasoactive drugs are not expected to work in e.g. [[peptic-ulcer-disease|peptic ulcer bleeding]].
+- Shortening to **2 days is reasonable only** in selected patients with **Child-Pugh A or B** cirrhosis and **no active bleeding seen at endoscopy**. Data are insufficient for a firm optimal-duration recommendation.
+
+- **Pregnancy:** avoid terlipressin (stimulates uterine contraction) — **somatostatin or octreotide may be used** instead ([[aasld-2023-portal-hypertension]]).
 
 ### GEP-NET — Symptom and Tumor Control
 In GEP-NETs, standard SSA dosing is the same whether the goal is hormonal symptom control or antiproliferative tumor control ([[nccn-2026-net]]):
@@ -60,7 +67,7 @@ For persistent/recurrent [[small-bowel-bleeding]] from [[angioectasia]] when the
 | Regimen (as studied) | Detail |
 |---|---|
 | Depot **octreotide LAR IM monthly** *or* **lanreotide 90 mg monthly** | Refractory bleeding defined as **>5 U blood within 3 months** after conventional treatment; given for a **mean of 12 months (range 6–36)**. Transfusions fell to 2 U (0–14) vs 10 U (6–24) pre-treatment (*P*<0.001); patients with a bleeding episode 20% vs 73% (*P*=0.001). |
-| **Octreotide 100 mcg SC TID × 1 month**, then depot **20 mg monthly × 6 months** | Retrospective, n=98: 40% complete responders, 32% partial, 26% non-responders. |
+| **Octreotide 100 mcg SC TID × 1 month**, with depot **20 mg monthly × 6 months** started **at 2 weeks** | Retrospective, n=98, mean follow-up 78 months: 40% complete responders, 32% partial, 26% non-responders; transfusion requirements fell. |
 
 - **Poor-response predictors** (multivariate): age >65, male sex, antiplatelet therapy, COPD, chronic renal failure.
 - A meta-analysis confirms the value of octreotide and its analogs in this setting (whereas hormonal therapy has no role).
@@ -74,6 +81,8 @@ By frequency, per [[aga-2024-vasoactive-albumin-cirrhosis]] Table 2. **Adverse e
 | **Octreotide** | Bradycardia; cardiac conduction abnormalities; diarrhea; loose stool; nausea; abdominal discomfort; **hyperglycemia** | Arrhythmia; abdominal distension; severe epigastric pain; **hypoglycemia**; headache; dizziness; fatigue |
 | **Somatostatin** | Diarrhea; abdominal pain; nausea | Constipation; flatulence; vomiting; loose stool; arthralgia; headache |
 
+- **Octreotide can cause *both* hypoglycemia and hyperglycemia — insulin dose may need adjustment.** Bradycardia and pancreatitis have also been reported, though it is unclear whether these are drug- or comorbidity-driven ([[aga-2024-vasoactive-albumin-cirrhosis]]).
+
 Additional effects tied to long-term SSA use in NETs:
 
 - **Biliary — the practice-changing one:** long-term SSA use raises the risk of **biliary symptoms and cholecystitis**, so **cholecystectomy is recommended when operating for advanced NETs in a patient anticipated to receive long-term SSAs** ([[nccn-2026-net]]).
@@ -82,7 +91,7 @@ Additional effects tied to long-term SSA use in NETs:
 - **Hypoglycemia** in insulinoma (see above).
 
 ## See Also
-[[gastroenteropancreatic-neuroendocrine-tumors]], [[portal-hypertension]], [[variceal-upper-gi-bleeding]], [[small-bowel-bleeding]], [[angioectasia]], [[upper-endoscopy]], [[exocrine-pancreatic-insufficiency]], [[bile-acid-diarrhea]], [[albumin]]
+[[gastroenteropancreatic-neuroendocrine-tumors]], [[portal-hypertension]], [[variceal-upper-gi-bleeding]], [[peptic-ulcer-disease]], [[small-bowel-bleeding]], [[angioectasia]], [[upper-endoscopy]], [[exocrine-pancreatic-insufficiency]], [[bile-acid-diarrhea]], [[albumin]]
 
 ---
 

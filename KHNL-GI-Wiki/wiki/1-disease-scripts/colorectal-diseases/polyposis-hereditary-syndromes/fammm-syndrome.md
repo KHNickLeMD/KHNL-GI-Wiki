@@ -3,7 +3,7 @@ title: "Familial Atypical Multiple Mole Melanoma (FAMMM) Syndrome"
 category: disease-script
 tags: [genetics, hereditary-cancer, melanoma, pancreatic-cancer, cdkn2a]
 created: 2026-06-04
-updated: 2026-08-14
+updated: 2026-08-27
 sources: [asge-2022-pancreatic-cancer-screening, acg-2015-hereditary-gi-cancer]
 ---
 
@@ -50,6 +50,8 @@ sources: [asge-2022-pancreatic-cancer-screening, acg-2015-hereditary-gi-cancer]
 
 ## Differential Diagnosis
 
+*Workup: see [[pancreatic-cancer-screening]].*
+
 - **[[peutz-jeghers-syndrome]]** — STK11; the other very-high-risk (RR ≥10) pancreatic syndrome; hamartomatous polyps + mucocutaneous pigmentation rather than atypical nevi.
 - **[[familial-pancreatic-cancer|Familial pancreatic cancer (FPC)]]** — ≥2 first-degree relatives with pancreatic cancer **without** an association with a known hereditary cancer syndrome. [[asge-2022-pancreatic-cancer-screening]]
 - **[[brca-pathogenic-variants|BRCA1/2]] and PALB2/ATM carriers** — lower RR; different age-to-start.
@@ -60,13 +62,15 @@ sources: [asge-2022-pancreatic-cancer-screening, acg-2015-hereditary-gi-cancer]
 - **[[endoscopic-ultrasound|EUS]] is the preferred initial screening test** in FAMMM, because it is one of the very-high-risk conditions. [[asge-2022-pancreatic-cancer-screening]]
   - A **linear-array** echoendoscope may be preferable to radial (RCT: more pancreatic lesions detected, 82% vs 67%, *P* < .001).
   - EUS is also preferred when it can be combined with screening [[upper-endoscopy|upper endoscopy]] or [[colonoscopy]], or when MRI is contraindicated (claustrophobia, contrast allergy, implanted metal, renal failure).
-- ACG 2015 surveillance for hereditary pancreatic cancer generally: **EUS ± [[mri-mrcp|MRI/MRCP]]**, at experienced centers, ideally under research conditions. *(Conditional / very low.)* [[acg-2015-hereditary-gi-cancer]]
+- ACG 2015 surveillance for hereditary pancreatic cancer generally: **EUS and/or [[mri-mrcp|MRI]] of the pancreas, annually**, at experienced centers, ideally under research conditions *(Rec 22–23; conditional / very low)* [[acg-2015-hereditary-gi-cancer]]
+- MRI technique when used for screening: **with and without IV contrast, minimum 1.5-T magnet** (3-T may add detection of small lesions) [[asge-2022-pancreatic-cancer-screening]]
 - Cystic pancreatic lesions found on surveillance require specialist evaluation.
 
 ## Therapeutics
 
 - Management is **surveillance**, not treatment of the syndrome itself — see [[pancreatic-cancer-screening]] for the full program.
-- **Age to start (FAMMM): age 40, or 10 years earlier than the youngest relative with pancreatic cancer.** [[asge-2022-pancreatic-cancer-screening]]
+- **Age to start (FAMMM): age 40, or 10 years earlier than the youngest relative with pancreatic cancer** *(ASGE 2022 Table 1e)* [[asge-2022-pancreatic-cancer-screening]]
+- **Interval: annual** *(ASGE 2022 Rec 4; conditional, very low)* — the same annual cadence ACG 2015 Rec 23 gives [[asge-2022-pancreatic-cancer-screening]]
   - Contrast: the generic hereditary-pancreatic-cancer start age is 50 (or 10 y before earliest family cancer); Peutz-Jeghers starts at 35. [[acg-2015-hereditary-gi-cancer]]
 - Detected lesions are managed as [[pancreatic-cancer|pancreatic cancer]] per that page.
 
