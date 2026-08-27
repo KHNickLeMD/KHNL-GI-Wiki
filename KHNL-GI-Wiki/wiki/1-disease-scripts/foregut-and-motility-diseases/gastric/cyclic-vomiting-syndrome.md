@@ -3,7 +3,7 @@ title: "Cyclic Vomiting Syndrome (CVS)"
 category: disease-script
 tags: [cyclic-vomiting-syndrome, cvs, dgbi, vomiting, migraine, foregut, motility]
 created: 2026-07-18
-updated: 2026-08-14
+updated: 2026-08-27
 sources: [aga-2024-cvs, aga-2024-chs]
 ---
 
@@ -108,8 +108,15 @@ Goal: lengthen the inter-episodic phase and/or reduce emetic severity.
 Highest abort probability when taken **early in the prodrome**. **Nearly all patients need 2-agent combinations** (typically triptan + antiemetic).
 
 - **Triptans:** sumatriptan **20 mg intranasal** (head-forward) or **6 mg SC**; may repeat ×1 at 2 h, **max 2 doses/24 h**. Contraindicated in ischemic heart disease, stroke, PVD, uncontrolled HTN, pregnancy.
-- **Antiemetics:** ondansetron **8 mg SL q4–6h** (baseline ECG advised — QTc); promethazine or prochlorperazine (both available PR; promethazine adds useful sedation).
-- **Sedatives** ("abortive cocktail"): diphenhydramine 12.5–25 mg q4–6h; benzodiazepines (alprazolam available SL/PR; lorazepam).
+- **Antiemetics** (all dosed **during the episode**):
+
+| Agent | Dose | Cautions |
+|---|---|---|
+| Ondansetron | **8 mg sublingual q4–6h** | Baseline ECG advised — prolonged QTc; constipation with frequent doses |
+| Promethazine | **12.5–25 mg PO or PR q4–6h** | Peripheral IV administration can cause tissue injury (gangrene, thrombophlebitis); adds useful sedation |
+| Prochlorperazine | **5–10 mg q6–8h**, or **25 mg suppository q12h** | Caution with leukopenia/neutropenia, dementia, glaucoma, seizure disorder; drug-induced leukopenia, rare NMS |
+
+- **Sedatives** ("abortive cocktail"): diphenhydramine **12.5–25 mg q4–6h**; benzodiazepines — **alprazolam or lorazepam 0.5–2 mg q4–6h** (alprazolam available SL/PR). Caution in pregnancy and with a history of substance use.
 
 ### ED / Recovery Management
 

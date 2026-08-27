@@ -3,7 +3,7 @@ title: "Defecation Disorders (Dyssynergic Defecation)"
 category: disease-script
 tags: [defecation-disorder, dyssynergia, outlet-obstruction, biofeedback, anorectal-manometry, colorectal, pelvic-floor]
 created: 2026-05-16
-updated: 2026-08-25
+updated: 2026-08-27
 sources: [acg-2021-anorectal-disorders, aga-acg-2023-constipation, rome-v-2026-dgbi]
 ---
 
@@ -42,7 +42,7 @@ Severity based on symptom burden, laxative dependence, impact on QoL (PAC-QoL, P
 
 ## Differential Diagnosis
 
-*No diagnostic schema for chronic constipation exists yet in the wiki; the stepwise evaluation algorithm is under [[#Diagnostic Algorithm]] below.*
+*Workup: see [[chronic-constipation]].*
 
 | Condition | Key Features |
 |-----------|-------------|
@@ -140,7 +140,7 @@ Severity based on symptom burden, laxative dependence, impact on QoL (PAC-QoL, P
 ---
 
 ## See Also
-[[chronic-idiopathic-constipation]], [[fecal-incontinence]], [[proctalgia-syndromes]], [[irritable-bowel-syndrome]], [[hemorrhoids]], [[anal-fissure]], [[rectal-prolapse]], [[anorectal-manometry]], [[high-resolution-manometry]], [[biofeedback-therapy]], [[sacral-nerve-stimulation]]
+[[chronic-constipation]], [[chronic-idiopathic-constipation]], [[fecal-incontinence]], [[proctalgia-syndromes]], [[irritable-bowel-syndrome]], [[hemorrhoids]], [[anal-fissure]], [[rectal-prolapse]], [[anorectal-manometry]], [[high-resolution-manometry]], [[biofeedback-therapy]], [[sacral-nerve-stimulation]]
 
 ---
 

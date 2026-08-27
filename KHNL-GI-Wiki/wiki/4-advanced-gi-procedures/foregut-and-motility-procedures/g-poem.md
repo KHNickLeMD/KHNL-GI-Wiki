@@ -3,16 +3,18 @@ title: "G-POEM (Gastric Peroral Endoscopic Myotomy)"
 category: advanced-procedure
 tags: [gastroparesis, poem, g-poem, pyloromyotomy, third-space-endoscopy, gcsi, gastric-emptying, pyloric-therapy]
 created: 2026-07-23
-updated: 2026-08-14
+updated: 2026-08-27
 sources: [aga-2025-gastroparesis, aga-2023-gpoem-gastroparesis]
 ---
 
 # G-POEM (Gastric Peroral Endoscopic Myotomy)
 
-Endoscopic pyloromyotomy (peroral endoscopic pyloromyotomy) for medically refractory [[gastroparesis|gastroparesis]]. A third-space-endoscopy technique — a natural extension of [[endoscopic-submucosal-dissection|ESD]] and esophageal [[poem|POEM]] (first porcine model Kawai 2012; first human case Khashab 2013). Efficacious across **diabetic, post-surgical, and idiopathic** gastroparesis. All content per [[aga-2023-gpoem-gastroparesis]] (AGA 2023 CPU Commentary — expert advice, **no numbered BPA statements or evidence grades**).
+Endoscopic pyloromyotomy (peroral endoscopic pyloromyotomy) for medically refractory [[gastroparesis]]. A third-space-endoscopy technique — a natural extension of [[endoscopic-submucosal-dissection|ESD]] and esophageal [[poem|POEM]] (first porcine model Kawai 2012; first human case Khashab 2013). Efficacious across **diabetic, post-surgical, and idiopathic** gastroparesis. All content per [[aga-2023-gpoem-gastroparesis]] (AGA 2023 CPU Commentary — expert advice, **no numbered BPA statements or evidence grades**).
 
 ## Contents
 - [[#Patient Selection]]
+  - [[#GCSI (Gastroparesis Cardinal Symptom Index)]]
+  - [[#Causes of Gastroparesis (context for selection)]]
 - [[#Poor Candidates / Discouraged Use]]
 - [[#Technique]]
 - [[#Post-Procedural Care]]

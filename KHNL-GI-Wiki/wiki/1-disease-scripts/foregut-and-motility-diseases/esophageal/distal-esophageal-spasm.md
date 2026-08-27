@@ -3,7 +3,7 @@ title: "Distal Esophageal Spasm"
 category: disease-script
 tags: [des, spasm, esophageal, motility, dysphagia, chest-pain, chicago-classification]
 created: 2026-05-16
-updated: 2026-08-26
+updated: 2026-08-27
 sources: [chicago-v4-2021-esophageal-dysmotility, aga-2025-flip-esophageal, acg-2020-achalasia, aga-2024-poem-advances]
 ---
 
@@ -18,11 +18,18 @@ Distal esophageal spasm (DES) is defined by **Chicago Classification v4.0** crit
 - Normal median IRP (unlike [[achalasia]] and [[esophagogastric-junction-outflow-obstruction|EGJOO]], where IRP is elevated; manufacturer-specific IRP cutoffs on [[chicago-classification-v4]])
 - **≥20% swallows with a premature/spastic contraction**, where premature = **distal latency (DL) <4.5 s in the setting of DCI ≥450 mmHg·s·cm** — *both* halves are required
 - **DL <4.5 s with DCI <450 does NOT count** — ≥20% such swallows is explicitly **inconclusive** for a manometric diagnosis of spasm (CCv4.0)
-- **A DES pattern alone is of unclear clinical relevance.** CCv4.0 flags DES (like [[hypercontractile-esophagus]] and EGJOO) as a manometric pattern requiring **clinically relevant symptoms and/or supportive testing** (TBE, [[flip-panometry|FLIP]]) before it is called a conclusive diagnosis
+- **A DES pattern alone is of unclear clinical relevance.** A *clinically relevant* diagnosis of DES requires the conclusive manometric diagnosis **plus clinically relevant symptoms**, which CCv4.0 defines as **dysphagia and non-cardiac chest pain**. Supportive testing (TBE, [[flip-panometry|FLIP]]) strengthens confidence. Same two-bar structure CCv4.0 applies to [[hypercontractile-esophagus]] and EGJOO
+- **Caveat on measurement:** the DL criterion depends on identifying the contractile deceleration point (CDP), which CCv4.0 acknowledges **may be difficult to identify** — when it is, alternative methodologies must be considered before calling DES (**strong**)
 
 **Distinguishes DES from [[hypercontractile-esophagus|hypercontractile esophagus]]:** DES is premature/disordered contraction; hypercontractile esophagus is high-amplitude contraction (DCI >8,000 mmHg·s·cm).
 
 **Symptoms:** Dysphagia (to solids and liquids), non-cardiac chest pain (NCCP); symptoms episodic and may not correlate with manometric abnormality during study.
+
+### Severity Assessment
+
+- **CCv4.0 defines no graded severity scale for DES** — the diagnosis is binary (conclusive / inconclusive / clinically relevant), not staged.
+- But the **20% cutoff is explicitly arbitrary**, and CCv4.0 states that **confidence increases with a higher proportion of premature/spastic swallows**. Treat 25% and 90% premature swallows as different findings even though both clear the same bar; report the actual percentage.
+- Because a normal median IRP is required, escalating spasticity with an *elevated* IRP is not "severe DES" — it is a **type III [[achalasia]] variant**, a different disease with a different treatment path.
 
 ---
 

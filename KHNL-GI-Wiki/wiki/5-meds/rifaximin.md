@@ -3,8 +3,8 @@ title: "Rifaximin"
 category: med
 tags: [rifaximin, antibiotic, sibo, ibs, hepatic-encephalopathy, nonabsorbable, gut-selective]
 created: 2026-05-19
-updated: 2026-08-26
-sources: [acg-2020-sibo, acg-2020-ibs, acg-2026-hepatic-encephalopathy, baveno-vii-2022-portal-hypertension, aasld-easl-2014-hepatic-encephalopathy]
+updated: 2026-08-27
+sources: [acg-2020-sibo, acg-2020-ibs, aga-2022-ibs-d, acg-2026-hepatic-encephalopathy, baveno-vii-2022-portal-hypertension, aasld-easl-2014-hepatic-encephalopathy]
 ---
 
 A gut-selective, non-absorbable oral antibiotic (rifamycin derivative). Minimal systemic absorption; acts locally in the GI tract. FDA-approved for [[acute-diarrhea|traveler's diarrhea]], [[irritable-bowel-syndrome|IBS-D]], and [[hepatic-encephalopathy|hepatic encephalopathy]]. Used extensively for [[small-intestinal-bacterial-overgrowth]] (SIBO).
@@ -67,7 +67,8 @@ A gut-selective, non-absorbable oral antibiotic (rifamycin derivative). Minimal 
 ## Sources
 
 1. [[acg-2020-sibo|ACG 2020: Small Intestinal Bacterial Overgrowth]]
-2. [[acg-2020-ibs|ACG Clinical Guideline: Management of Irritable Bowel Syndrome]]
-3. [[acg-2026-hepatic-encephalopathy|ACG Clinical Guideline: Hepatic Encephalopathy (2026)]]
-4. [[aasld-easl-2014-hepatic-encephalopathy|AASLD/EASL 2014 Practice Guideline: Hepatic Encephalopathy in Chronic Liver Disease]]
-5. [[baveno-vii-2022-portal-hypertension|Baveno VII — Renewing Consensus in Portal Hypertension (J Hepatol 2022)]]
+2. [[acg-2020-ibs|ACG 2020 Clinical Guideline: Management of Irritable Bowel Syndrome]]
+3. [[aga-2022-ibs-d|AGA Clinical Practice Guideline: Pharmacological Management of IBS-D (2022)]]
+4. [[acg-2026-hepatic-encephalopathy|ACG Clinical Guideline: Hepatic Encephalopathy (2026)]]
+5. [[aasld-easl-2014-hepatic-encephalopathy|AASLD/EASL 2014 Practice Guideline: Hepatic Encephalopathy in Chronic Liver Disease]]
+6. [[baveno-vii-2022-portal-hypertension|Baveno VII — Renewing Consensus in Portal Hypertension (J Hepatol 2022)]]

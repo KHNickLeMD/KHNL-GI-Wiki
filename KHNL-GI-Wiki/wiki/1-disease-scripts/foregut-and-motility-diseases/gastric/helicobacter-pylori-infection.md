@@ -3,7 +3,7 @@ title: "Helicobacter pylori Infection"
 category: disease-script
 tags: [h-pylori, peptic-ulcer, gastric-cancer, malt-lymphoma, eradication, dyspepsia, gastric, foregut]
 created: 2026-05-07
-updated: 2026-08-26
+updated: 2026-08-27
 sources: [acg-2017-hp-guidelines, acg-2024-hp-treatment, aga-2024-pcab]
 ---
 
@@ -15,22 +15,34 @@ sources: [acg-2017-hp-guidelines, acg-2024-hp-treatment, aga-2024-pcab]
 
 ### Establishing the Diagnosis
 
-**Who to test** (per [[acg-2017-hp-guidelines]]):
+**Who to test and treat — [[acg-2024-hp-treatment|ACG 2024]] Table 4** (supersedes the narrower [[acg-2017-hp-guidelines|ACG 2017]] list; note the age cutoff for uninvestigated dyspepsia moved from **<55 y (2017) to <60 y (2024)**):
 
-- Active [[peptic-ulcer-disease|peptic ulcer disease]] (gastric or duodenal)
-- History of PUD not previously tested/treated for H. pylori
-- Low-grade [[gastric-malt-lymphoma|gastric MALT lymphoma]]
-- After endoscopic resection of early [[gastric-adenocarcinoma|gastric cancer]]
-- Uninvestigated dyspepsia <55 y without alarm features → [[test-and-treat]]
-- Long-term NSAID use (before initiation)
-- Unexplained [[iron-deficiency-anemia|iron deficiency anemia]]
-- Immune thrombocytopenic purpura (ITP)
+| Category | Indication |
+|---|---|
+| Ulcer disease | [[peptic-ulcer-disease\|Peptic ulcer disease]] — **prior history or active disease** |
+| Lymphoma | Marginal zone B-cell lymphoma, MALT type ([[gastric-malt-lymphoma\|gastric MALT lymphoma]]) |
+| Dyspepsia | **Uninvestigated dyspepsia age <60 y** → [[test-and-treat]]. **In populations at high risk for gastric cancer, test and treat at age 45–50 y** |
+| | **Functional dyspepsia** |
+| Household | **Adult household members** of a person with a **positive non-serological test** |
+| Drugs | Long-term NSAIDs, **or starting long-term low-dose aspirin** |
+| Hematologic | Unexplained [[iron-deficiency-anemia\|iron deficiency anemia]]; idiopathic (autoimmune) thrombocytopenic purpura (ITP) |
+| Gastric-cancer prevention (primary + secondary) | Current or prior [[gastric-premalignant-conditions\|gastric premalignant conditions]] ([[atrophic-gastritis\|atrophic gastritis]], [[gastric-intestinal-metaplasia\|intestinal metaplasia]], dysplasia) |
+| | Current or prior **early [[gastric-adenocarcinoma\|gastric cancer]] resection**, or current/prior gastric adenocarcinoma |
+| | **[[gastric-polyps\|Gastric adenomas or hyperplastic polyps]]** (often have associated GPMC) |
+| | **First-degree relative with gastric cancer**† |
+| | Increased gastric-cancer risk: certain non-White racial/ethnic groups, immigrants from high-incidence regions, hereditary cancer syndromes† |
+| | **Autoimmune gastritis** |
+
+†*Decision to test and treat should follow shared decision-making.*
+
+- **Treat everyone who tests positive** by a non-serological test, absent contraindications [[acg-2024-hp-treatment]]
+- **Serological testing is not recommended in low-prevalence populations** without a high pre-test probability (e.g. peptic ulcer) [[acg-2024-hp-treatment]]
 
 **Clinical presentation:**
 
 - Most patients are **asymptomatic**
 - Epigastric pain/discomfort, bloating, nausea, dyspepsia
-- [[peptic-ulcer-disease|Peptic ulcer disease]] (gastric or duodenal)
+- Peptic ulcer disease (gastric or duodenal)
 - [[upper-gi-bleeding|GI bleeding]] (hematemesis, melena) — when ulcer complicated
 - Extraintestinal: iron deficiency anemia, ITP (less established)
 
@@ -46,7 +58,7 @@ sources: [acg-2017-hp-guidelines, acg-2024-hp-treatment, aga-2024-pcab]
 |---|---|
 | Peptic ulcer disease | Gastric or duodenal; risk of bleeding, perforation, obstruction |
 | Gastric MALT lymphoma | Low-grade B-cell lymphoma; eradication alone → remission in ~75% |
-| [[gastric-adenocarcinoma\|Gastric adenocarcinoma]] | Via the [[gastric-premalignant-conditions\|Correa cascade]]: chronic gastritis → atrophy → metaplasia → dysplasia → cancer |
+| Gastric adenocarcinoma | Via the **Correa cascade**: chronic gastritis → atrophy → metaplasia → dysplasia → cancer |
 
 *H. pylori* eradication reduces but does not eliminate cancer risk once atrophy/metaplasia is established.
 
@@ -89,18 +101,22 @@ sources: [acg-2017-hp-guidelines, acg-2024-hp-treatment, aga-2024-pcab]
 
 | Test | Sensitivity | Specificity | Notes |
 |---|---|---|---|
-| Urea breath test (UBT) | 88–95% | 95–100% | Preferred for diagnosis and post-treatment confirmation; requires 2-week PPI hold |
-| Stool antigen test (SAT) | ~94% | ~97% | Monoclonal antibody-based preferred; acceptable alternative to UBT |
-| Serology (IgG) | ~85% | ~79% | Cannot distinguish active from past infection; **not** for post-treatment confirmation |
+| Urea breath test (UBT) | 88–95% | 95–100% | Preferred for diagnosis and post-treatment confirmation; requires 2-week PPI hold [[acg-2017-hp-guidelines]] |
+| Stool antigen test (SAT) | ~94% | ~97% | Acceptable alternative to UBT [[acg-2017-hp-guidelines]] |
+| Serology (IgG) | *not stated* | *not stated* | Cannot distinguish active from past infection; **not** for post-treatment confirmation. **Not recommended in low-prevalence populations** absent a high pre-test probability (e.g. peptic ulcer) [[acg-2024-hp-treatment]] |
+
+> **Sourcing gap:** no ingested source gives sensitivity/specificity figures for **serology**, for the biopsy-based tests, or for the monoclonal-vs-polyclonal SAT distinction — the ACG 2017 PDF is no longer in `raw/` and ACG 2024 is a treatment guideline that does not cover test performance. Numbers are deliberately not asserted. An ACG/AGA H. pylori **diagnosis** guideline would be needed.
 
 ### Invasive Tests (Endoscopy-Based)
 
+Endoscopic sampling is what enables **antibiotic susceptibility testing**, which drives regimen choice (see [[#Therapeutics]]) [[acg-2024-hp-treatment]]:
+
 | Test | Notes |
 |---|---|
-| Rapid urease test (RUT) | Fast, inexpensive; hold PPIs ≥2 weeks; false negatives with active bleeding |
-| Histology | Gold standard overall; allows assessment of gastritis pattern, atrophy, metaplasia |
-| Culture | Best for antibiotic susceptibility testing; technically demanding |
-| PCR | Detects resistance mutations; increasing availability |
+| Rapid urease test (RUT) | Biopsy urease test; usable for test of cure when endoscopy is needed anyway — sensitivity reduced by recent PPI (possibly PCAB), bismuth, or antibiotics |
+| Histology | Hematoxylin & eosin staining of gastric biopsies; also shows gastritis pattern, atrophy, metaplasia. Usable for test of cure, with the same drug-hold caveat |
+| Culture | Phenotypic susceptibility testing; **technically demanding** and requires endoscopic biopsy |
+| Molecular (PCR / next-generation sequencing) | Detects **clarithromycin resistance (23S rRNA mutations)** and **levofloxacin resistance (gyrA mutations)**; increasingly available in the US |
 
 ---
 
@@ -176,7 +192,7 @@ sources: [acg-2017-hp-guidelines, acg-2024-hp-treatment, aga-2024-pcab]
 | Regimen | Drugs (doses) | Frequency | Susceptibility testing needed first? |
 |---|---|---|---|
 | Optimized BQT | Same as first-line (PPI b.i.d.; bismuth q.i.d.; tetracycline 500 mg q.i.d.; metronidazole 500 mg t.i.d.–q.i.d.) | — | No |
-| Rifabutin triple | PPI (standard to double dose) b.i.d. + amoxicillin 1,000 mg b.i.d.–t.i.d. + rifabutin 50–300 mg/day | see note | No |
+| Rifabutin triple | PPI (standard **to double** dose) b.i.d. + amoxicillin 1,000 mg b.i.d. **or** t.i.d. + rifabutin **50–300 mg q.d. or b.i.d.** | see note | No |
 | Levofloxacin triple | PPI (standard dose) b.i.d. + levofloxacin 500 mg q.d. + amoxicillin 1,000 mg b.i.d. | — | **Yes** |
 
 - **Rifabutin dosing differs between first-line and salvage.** The optimal salvage strategy is unclear and 50 mg tablets are not commercially available; Talicia's 50 mg t.i.d. has **not** been evaluated as salvage. When prescribing the components separately, ACG suggests **rifabutin 150 mg b.i.d. or 300 mg q.d.**
@@ -207,7 +223,7 @@ sources: [acg-2017-hp-guidelines, acg-2024-hp-treatment, aga-2024-pcab]
 
 ## See Also
 
-[[test-and-treat]], [[bismuth-quadruple-therapy]], [[proton-pump-inhibitors]], [[vonoprazan]], [[potassium-competitive-acid-blockers]], [[probiotics]], [[peptic-ulcer-disease]], [[dyspepsia]], [[upper-gi-bleeding]], [[gastric-adenocarcinoma]], [[gastric-malt-lymphoma]], [[gastric-premalignant-conditions]], [[gastric-cancer-screening]], [[atrophic-gastritis]], [[gastric-intestinal-metaplasia]], [[iron-deficiency-anemia]], [[gerd]], [[gastroparesis]], [[upper-endoscopy]]
+[[test-and-treat]], [[bismuth-quadruple-therapy]], [[proton-pump-inhibitors]], [[vonoprazan]], [[potassium-competitive-acid-blockers]], [[probiotics]], [[peptic-ulcer-disease]], [[dyspepsia]], [[upper-gi-bleeding]], [[gastric-adenocarcinoma]], [[gastric-malt-lymphoma]], [[gastric-premalignant-conditions]], [[gastric-polyps]], [[gastric-cancer-screening]], [[atrophic-gastritis]], [[gastric-intestinal-metaplasia]], [[iron-deficiency-anemia]], [[gerd]], [[gastroparesis]], [[upper-endoscopy]]
 
 ---
 

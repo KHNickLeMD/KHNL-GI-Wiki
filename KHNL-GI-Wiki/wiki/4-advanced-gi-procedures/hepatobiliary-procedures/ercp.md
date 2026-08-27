@@ -3,7 +3,7 @@ title: "ERCP (Endoscopic Retrograde Cholangiopancreatography)"
 category: advanced-procedure
 tags: [ercp, biliary, pancreatic, hepatobiliary, sphincterotomy, stent, stone-extraction]
 created: 2026-05-16
-updated: 2026-08-14
+updated: 2026-08-27
 sources: [asge-2024-therapeutic-eus-biliary, asge-2023-post-ercp-pancreatitis, asge-2021-cholangitis, asge-2019-choledocholithiasis, asge-2023-post-transplant-biliary-strictures, asge-2015-ercp-benign-biliary, aga-2024-pregnancy-gi-liver, aga-2022-recurrent-pancreatitis-endoscopy, jagtap-2026-urgent-vs-early-ercp-cholangitis, aloysius-2026-ercp-timing-septic-shock-cholangitis]
 ---
 
@@ -64,11 +64,11 @@ sources: [asge-2024-therapeutic-eus-biliary, asge-2023-post-ercp-pancreatitis, a
 
 | Intervention | Regimen | Strength |
 |---|---|---|
-| **Rectal NSAID** | Indomethacin or diclofenac **100 mg PR**, given **>30 min before or during the procedure** (studies gave it preprocedurally in all but 3) | **Strong** |
+| **Rectal NSAID** — *unselected* **and** *high-risk* patients (two separate recommendations, same grade) | Indomethacin or diclofenac **100 mg PR** in adults, given **>30 min before or during the procedure** (studies gave it preprocedurally in all but 3). **Avoid in recent peptic ulcer disease or renal insufficiency.** Unselected patients: OR 0.49 (0.37–0.65) for PEP | **Strong; moderate** |
 | **Prophylactic PD stent — repeated/deep PD access *or* ampullectomy** | **3F–5F (preferably 5F), no internal flange, 3–7 cm**; short **2–3 cm** stent if the wire cannot pass beyond the pancreatic head. Abdominal x-ray to confirm spontaneous migration; **remove at 2–4 weeks if retained**. Technical success **97%** | **Strong** (Rec 4a) |
 | **Prophylactic PD stent — other high-risk groups** (difficult cannulation, history of PEP, precut sphincterotomy without fistulotomy) | Same spec; place **only if PD access can be easily achieved** | **Conditional** (Rec 4b) |
-| **Aggressive periprocedural hydration** | **Lactated Ringer's 20 mL/kg bolus, then 3 mL/kg/h × 8 h**. **Avoid** in congestive heart failure, renal insufficiency, or advanced liver disease | **Conditional; moderate** |
-| **Wire-guided cannulation** over contrast-guided | Cannulate, then advance the wire; **avoid forceful or repeated wire advancement into the PD**. RR 0.50 (95% CI 0.31–0.72) | **Conditional; moderate** |
+| **Aggressive periprocedural + postprocedural hydration** (*unselected* patients) | **Lactated Ringer's 20 mL/kg bolus, then 3 mL/kg/h × 8 h post-procedure**; may be started pre- or intraprocedure. **Avoid** in congestive heart failure, renal insufficiency, or advanced liver disease. More feasible for inpatients | **Conditional; moderate** |
+| **Wire-guided cannulation** over contrast-guided (*unselected* patients) | Cannulate, then advance the wire; the **endoscopist or an experienced operator** performs the wire manipulation; **avoid forceful or repeated wire advancement into the PD**. RR 0.50 (95% CI 0.31–0.72) | **Conditional; moderate** |
 
 - ⚠ **Whether NSAID + PD stent beats NSAID alone is unresolved** — comparative trials to date are **underpowered**; a large multicenter RCT is ongoing.
 - **Cholangitis** (post-procedure biliary infection)

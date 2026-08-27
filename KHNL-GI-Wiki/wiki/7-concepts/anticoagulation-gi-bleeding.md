@@ -3,7 +3,7 @@ title: "Anticoagulation Management in GI Bleeding and Periendoscopic Period"
 category: concept
 tags: [anticoagulation, antiplatelets, gi-bleeding, periendoscopic, doac, warfarin, bridging]
 created: 2026-05-15
-updated: 2026-08-11
+updated: 2026-08-27
 sources: [acg-cag-2022-anticoag-gi-bleeding, asge-2016-antithrombotic]
 ---
 
@@ -121,7 +121,18 @@ Clinical principles to guide individual decisions:
 
 ## Periendoscopic Period
 
-The periendoscopic framework applies to patients undergoing **scheduled, elective** endoscopic procedures. Patients at very high thromboembolic risk (within 3 months of ACS, within 6 months of drug-eluting stent, within 1 month of bare-metal stent, or meeting high-risk criteria in Table 4) should have elective procedures deferred if possible.
+The periendoscopic framework applies to patients undergoing **scheduled, elective** endoscopic procedures. All 9 periendoscopic statements **exclude** patients at high thromboembolic risk, in whom the elective procedure should be **deferred**. The stent windows differ by whether there was an ACS event — don't drop the qualifier:
+
+| Situation | Defer elective endoscopy within |
+|---|---|
+| Acute coronary syndrome (ACS) event | **3 months** |
+| Drug-eluting stent, **no** ACS history | **6 months** |
+| Bare-metal stent, **no** ACS history | **1 month** |
+| Drug-eluting stent placed **after an ACS event** | **12 months** |
+| Bare-metal stent placed **after an ACS event** | **2 months** |
+| High-risk mechanical valve / AF / VTE strata | per Table 4 below |
+
+- Recent data suggest DAPT can be converted to **P2Y12 monotherapy at ≤3 months** in patients with a drug-eluting stent placed after an ACS event.
 
 ### Risk Stratification (Procedural Bleeding and Thrombotic Risk)
 
@@ -154,10 +165,12 @@ The periendoscopic framework applies to patients undergoing **scheduled, electiv
 
 ### Low Thrombotic Risk Patients
 
-For patients at low thromboembolic risk on warfarin:
+**Warfarin — Statement 11 (conditional, very low certainty)** is written *without* a thrombotic-risk qualifier: for **any** patient on warfarin undergoing an elective/planned endoscopic GI procedure, **continue** warfarin rather than temporarily interrupt it (1–7 d). The guideline's own operational conclusion adds the procedure-type qualifier that makes it usable:
 
-- **Continue warfarin** for low/moderate bleeding risk procedures (Statement 11)
-- If interrupted for high-risk procedures: no bridging needed; resume warfarin after procedure
+> Continue warfarin **unless the patient is undergoing an advanced endoscopic procedure** (the high-bleeding-risk column above), in which case **5 days of temporary interruption, without bridging heparin**, is appropriate.
+
+- Evidence base is very low certainty: pooled continuous-warfarin arms of 5 studies gave **0/239** post-procedural bleeding events (95% CI 0%–12.5%) — i.e. the true risk could be anywhere from 0% to 12.5%.
+- There are **no studies in advanced endoscopic procedures**, which is why the carve-out above exists.
 
 For patients at low thromboembolic risk on DOACs:
 
@@ -178,7 +191,7 @@ For patients at low thromboembolic risk on DOACs:
 
 **Definition:** Heparin bridging = subcutaneous therapeutic-dose LMWH administered 3 days before and 3–5 days after a procedure, during the period of warfarin interruption.
 
-**Guideline recommendation (Statement 12):** For warfarin-interrupted patients undergoing elective GI procedures, **suggest against bridging** (conditional, low certainty) — except in patients with mechanical heart valve.
+**Guideline recommendation (Statement 12):** For warfarin-interrupted patients undergoing elective GI procedures, **suggest against bridging** (conditional, **low** certainty — note this is the one periendoscopic statement rated *low* rather than *very low*). The recommendation itself carries **no carve-out**; the "may be appropriate" subset below comes from the guideline's Conclusions paragraph, not from the graded statement.
 
 **Evidence:**
 

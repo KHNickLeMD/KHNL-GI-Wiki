@@ -3,7 +3,7 @@ title: "Biallelic Mismatch Repair Deficiency (BMMRD) Syndrome"
 category: disease-script
 tags: [bmmrd, cmmrd, mismatch-repair, hereditary-crc, colorectal-cancer, brain-tumor, lymphoma, pediatric-cancer, genetic-testing, mmr, cafe-au-lait, pms2, msh6, mlh1, msh2]
 created: 2026-05-24
-updated: 2026-08-25
+updated: 2026-08-27
 sources: [usmstf-2017-bmmrd]
 ---
 
@@ -55,9 +55,16 @@ BMMRD is characterized by three major tumor domains, all with childhood onset [[
 | Lymphoma (predominantly T-cell non-Hodgkin) | 20–40% | 5 (0.4–30) |
 | Leukemia | 10–40% | 8 (2–21) |
 
-**Other tumors** (each <10% penetrance; age range 1–35 years): endometrial cancer (age 19–44), urinary tract cancer (age 10–22), [[hepatocellular-adenoma|hepatic adenomas]], neuroblastoma, Wilms tumor, rhabdomyosarcoma, osteosarcoma, melanoma, pilomatricoma.
+**Other tumors**: endometrial cancer (<10% penetrance; age 19–44) and urinary tract cancer (<10%; age 10–22). "Other sites" (<10%; age range 1–35 y) are those with **fewer than 5 reported cases each**: neuroblastoma, Wilms tumor, rhabdomyosarcoma, osteosarcoma, breast cancer, melanoma, ovarian neuroectodermal tumor, pilomatricoma, and [[hepatocellular-adenoma|hepatic adenoma]].
 
-The rate of adenoma-to-cancer progression in BMMRD is the most rapid of any inherited colorectal cancer syndrome. Left-sided CRC predominates (in contrast to the right-sided predominance in LS). Synchronous and metachronous GI cancers are frequent: 20% of patients present with multiple synchronous CRCs; in one registry, half of patients followed developed metachronous GI cancers.
+The rate of adenoma-to-cancer progression in BMMRD is the most rapid of any inherited colorectal cancer syndrome — BMMRD tumours acquire early somatic mutations in the polymerase proofreading genes **POLE and POLD1**, which on top of the underlying MMR defect produce **ultra-hypermutated** tumours with a massive substitution burden. Left-sided CRC predominates (in contrast to the right-sided predominance in LS), probably reflecting the preponderance of PMS2 genotypes. Colonic adenomatous **oligo**polyposis is typically diagnosed between ages 5 and 10, which can be mistaken for [[familial-adenomatous-polyposis|FAP]].
+
+Synchronous and metachronous GI cancers are frequent:
+
+- **20%** of patients present with **multiple synchronous CRCs** (range 2–10 malignancies)
+- Roughly **one third** of BMMRD patients with small-bowel cancer have **multiple synchronous small-bowel tumours**
+- Small-bowel cancer prevalence is reported at **10–16%** (Table 1 penetrance estimate 10%)
+- In the International BMMRD Consortium cohort, **half** of patients followed developed metachronous GI cancers
 
 ### Classification / Typing
 
@@ -72,7 +79,7 @@ BMMRD is classified by the causative gene (all autosomal recessive):
 
 ## Differential Diagnosis
 
-*No dedicated diagnostic schema covers colorectal polyposis; the workup runs phenotype (polyp count, histology, extracolonic features) → MMR IHC → germline testing, as under [[#Diagnostics]].*
+*Workup: see [[colorectal-polyposis]].*
 
 - **[[lynch-syndrome]]** — monoallelic MMR mutation; autosomal dominant; CRC onset in adulthood (median 27–60 years depending on gene); no café-au-lait macules; no childhood brain tumors or hematologic malignancies; IHC shows MMR protein loss in tumor but expression preserved in normal tissue
 - **[[familial-adenomatous-polyposis]]** — APC germline mutation; colonic polyposis (≥100 adenomas); extracolonic manifestations (CHRPE, desmoids, osteomas); no brain tumors or leukemias; IHC shows normal MMR protein expression
@@ -90,8 +97,10 @@ BMMRD is classified by the causative gene (all autosomal recessive):
 In BMMRD, **all tissues lack MMR protein expression**, unlike in LS where MMR protein is lost only in tumor tissue. This means:
 
 - Standard tumor IHC will show MMR protein loss — but this pattern alone cannot distinguish BMMRD from LS
-- The **diagnostic clue is MMR protein loss in normal (non-neoplastic) tissue** alongside tumor tissue — a pattern not seen in LS
-- Standard MSI testing may be **falsely negative** in BMMRD because the hypermutated phenotype is so extreme (POLE/POLD1 mutations generate ultra-hypermutation with frameshift patterns distinct from classic MSI)
+- The **diagnostic clue is MMR protein loss in normal (non-neoplastic) tissue** alongside tumor tissue — a pattern not seen in LS, and one pathologists may misread because they expect full protein expression in non-neoplastic cells
+- **Some BMMRD cancers fail to show MSI** on standard testing — the reason is unresolved and is listed by the guideline as an open research question, so a negative MSI result does not exclude BMMRD
+- Because family history is usually non-contributory, [[usmstf-2017-bmmrd|USMSTF 2017]] considers it reasonable to perform **universal IHC + MSI testing on all small- and large-bowel cancers in children**
+- Diagnosis **requires confirmation of biallelic deleterious germline MMR mutations**
 
 ### Germline Testing
 
@@ -102,7 +111,7 @@ In BMMRD, **all tissues lack MMR protein expression**, unlike in LS where MMR pr
 
 ### Tumor Molecular Features
 
-- **Ultra-hypermutation**: BMMRD tumors often acquire somatic POLE/POLD1 mutations → extremely high mutational burden
+- **Ultra-hypermutation** (mechanism under [[#Severity Assessment]]) — a hypermutated tumour in any child or adult is itself a clue to BMMRD
 - **MSI**: may be absent or atypical on standard PCR-based MSI testing
 - **IHC**: MMR protein absent in tumor AND normal tissue (key distinction from LS)
 - Driver genes: TGFβR2 and ACVR2A commonly mutated (single base-pair deletions at mononucleotide repeats leading to frameshift mutations in coding exons)
@@ -111,7 +120,7 @@ In BMMRD, **all tissues lack MMR protein expression**, unlike in LS where MMR pr
 
 - **CBC with differential**: hematologic malignancy screening (q6 months from age 1)
 - **Brain MRI**: high-grade glioma screening (q6 months from age 2)
-- **[[upper-endoscopy|Upper endoscopy]] and video [[capsule-endoscopy|capsule endoscopy]] (VCE)**: small-bowel cancer surveillance (annually from age 8); hemoglobin monitoring every 6 months
+- **[[upper-endoscopy|Upper endoscopy]] and video [[capsule-endoscopy|capsule endoscopy]] (VCE)**: small-bowel cancer surveillance (annually from age 8); **hemoglobin every 6 months, also from age 8**
 - **Urinalysis**: urinary tract cancer (annually from age 10); MRI an alternative
 - **TVUS + pelvic exam + endometrial sampling**: endometrial cancer (annually from age 20)
 
@@ -126,13 +135,23 @@ All surveillance recommendations are **weak, low to very low quality evidence** 
 | Intervention | Recommendation | Alternative |
 |---|---|---|
 | [[colonoscopy\|Colonoscopy]] | Annually beginning at age 6; every 6 months once polyps identified | — |
-| [[upper-endoscopy\|Upper endoscopy]] + VCE | Annually beginning at age 8 | — |
-| Brain MRI | Every 6 months beginning at age 2 | Head ultrasound until fontanel fusion |
-| CBC | Every 6 months beginning at age 1 | Abdominal ultrasound q6 months (European Consortium) |
-| Pelvic exam + endometrial sampling | Annually beginning at age 20 (women) | — |
+| [[upper-endoscopy\|Upper endoscopy]] + VCE | Annually beginning at age 8 (plus hemoglobin q6 mo from age 8) | — |
+| Brain MRI | Every 6 months beginning at age 2 | Head ultrasound **from 6 months** until fusion of the fontanel |
+| CBC | Every 6 months beginning at age 1 | Optional abdominal ultrasound q6 mo **from age 1** (European Consortium) |
+| TVUS + pelvic exam + endometrial sampling | Annually beginning at age 20 (women) | — |
 | Urinalysis | Annually beginning at age 10 | MRI |
 | Total-body MRI | Uncertain; not yet recommended | — |
-| Hepatic adenoma surveillance | Not recommended | — |
+| Hepatic adenoma surveillance | Not recommended (only 3 reported patients) | — |
+
+**Where the two consortia differ** — [[usmstf-2017-bmmrd|USMSTF 2017]] adopts the earlier start age in each case:
+
+| Item | International BMMRD Consortium | European Consortium Care for CMMRD | USMSTF 2017 |
+|---|---|---|---|
+| [[colonoscopy\|Colonoscopy]] start | Age **6** | Age **8** | **Age 6**, annually |
+| Urinalysis start | Age **10** | Age **20** | **Age 10**, annually |
+
+- Brain MRI (q6 mo from age 2), upper endoscopy + VCE (annual from age 8), and endometrial surveillance (annual from age 20) are **concordant** across both consortia
+- Recognise [[hepatocellular-adenoma|hepatic adenoma]] so it is not misread as metastatic disease — use abdominal MRI to distinguish; hepatic adenomatosis with nodules up to 5 cm occurs, natural history unknown
 
 ### Surgical Management of Colorectal Neoplasia
 
@@ -156,7 +175,7 @@ All surveillance recommendations are **weak, low to very low quality evidence** 
 ### Genetic Counseling
 
 - Both parents of a BMMRD proband are obligate LS carriers — they should follow LS surveillance guidelines regardless of personal cancer history [[usmstf-2017-bmmrd]]
-- Siblings of the proband are at risk for BMMRD (25%), LS (50%), or carrier only (25%) — germline testing determines surveillance protocol
+- Siblings of the proband may have **BMMRD, Lynch syndrome, or neither** — germline testing is required to determine which surveillance protocol applies (they differ in both the type of screening and the age to start)
 - Small family sizes, parental consanguinity, and low-penetrance heterozygous mutations (especially PMS2) may make the syndrome appear sporadic
 - Prenatal and preimplantation genetic diagnosis options should be discussed given the severity of the syndrome
 - Genetic counselors can identify additional at-risk relatives (grandparents, aunts, uncles, cousins) who may carry monoallelic LS mutations
@@ -165,7 +184,7 @@ All surveillance recommendations are **weak, low to very low quality evidence** 
 
 ## See Also
 
-[[lynch-syndrome]], [[familial-adenomatous-polyposis]], [[mutyh-associated-polyposis]], [[colorectal-cancer]], [[juvenile-polyposis-syndrome]], [[colonoscopy]], [[upper-endoscopy]], [[capsule-endoscopy]], [[hepatocellular-adenoma]]
+[[colorectal-polyposis]], [[lynch-syndrome]], [[familial-adenomatous-polyposis]], [[mutyh-associated-polyposis]], [[colorectal-cancer]], [[juvenile-polyposis-syndrome]], [[colonoscopy]], [[upper-endoscopy]], [[capsule-endoscopy]], [[hepatocellular-adenoma]]
 
 ---
 

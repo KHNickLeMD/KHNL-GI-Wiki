@@ -3,7 +3,7 @@ title: "ACG 2021 Colorectal Cancer Screening Guidelines"
 category: source
 tags: [crc, colorectal-cancer, screening, colonoscopy, fit, colorectal]
 created: 2026-05-16
-updated: 2026-05-28
+updated: 2026-08-27
 sources: []
 ---
 
@@ -104,9 +104,10 @@ The guideline recommends initiating CRC screening at age 45 for average-risk adu
 
 ## Contradictions / Open Questions
 
-- Age 45–49 screening: conditional vs strong (vs ACS which is strong) — evolving evidence; NordICC trial raised questions about colonoscopy mortality benefit
-- Multi-target stool DNA: cost-effectiveness debated; some newer data on specificity concerns
-- Aspirin: USPSTF 2022 subsequently recommended against aspirin for primary prevention of cardiovascular disease in most adults ≥60 — this may affect the CRC aspirin recommendation context
+- **Age 45–49 start — ACG *conditional*, and the guideline's own characterization of ACS is *qualified*, not strong.** ACG 2021 states that "in 2018, the American Cancer Society published guidelines with a **qualified** recommendation to lower the starting age for CRC screening from 50 to 45 years of age in the average-risk adult population," noting that USPSTF and MSTF recommendations at the time still began at 50. The ingested guideline is the only source here for what ACS said; the ACS 2018 statement itself is **not in `raw/`**.
+- Multi-target stool DNA: the guideline discusses cost-effectiveness and specificity trade-offs; no ingested source resolves them.
+- ⚠ **Two previously asserted claims removed as unsourced** (2026-08-27 lint): a reference to the **NordICC** trial questioning colonoscopy mortality benefit, and a statement that **USPSTF 2022** subsequently recommended against aspirin for primary CVD prevention in adults ≥60. Neither document is in `raw/`, and neither claim appears in ACG 2021 — the guideline cites only the **USPSTF 2016** systematic review on aspirin (no CRC effect within 10 y, RR 0.99 [0.85–1.15]; 40% risk reduction at 10–19 y, RR 0.60 [0.47–0.76]). Restore only if the underlying documents are ingested.
+- **Corpus gap:** the ACS 2018 and USPSTF CRC-screening statements are not ingested, so their grades cannot be asserted anywhere in the wiki. [[aga-2023-crc-screening-risk-stratification]] Table 1 is the only ingested cross-guideline comparison and is the current best proxy.
 
 ## See Also
 

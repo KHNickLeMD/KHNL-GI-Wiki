@@ -3,7 +3,7 @@ title: "Familial Adenomatous Polyposis"
 category: disease-script
 tags: [fap, apc, afap, map, mutyh, hereditary-crc, polyposis, duodenal-adenoma, desmoid, spigelman, genetic-testing, colorectal-cancer]
 created: 2026-05-19
-updated: 2026-08-26
+updated: 2026-08-27
 sources: [acg-2015-hereditary-gi-cancer, asge-2020-fap]
 ---
 
@@ -19,6 +19,18 @@ Familial adenomatous polyposis (FAP) and its related syndromes — attenuated FA
 - Family history of one of the adenomatous polyposis syndromes
 - Presence of FAP-type extracolonic manifestations: [[nonampullary-duodenal-adenoma|duodenal]]/[[ampullary-adenoma|ampullary adenomas]], desmoid tumors (abdominal > peripheral), papillary thyroid cancer, CHRPE (congenital hypertrophy of the retinal pigment epithelium), epidermal cysts, osteomas (Gardner syndrome)
 - **MUTYH testing specifically** should be considered if **any one** of the following is met [[asge-2020-fap]]: (1) **≥20 colorectal adenomas over multiple colonoscopies**; (2) known family history of MAP; (3) **≥10 adenomas on a single colonoscopy**; or (4) meets [[serrated-polyposis-syndrome|serrated polyposis syndrome]] criteria **with at least some adenomas** on the exam. Genetic testing of children for MAP is postponed to adulthood (later disease onset; screening begins in adulthood)
+
+**ASGE 2020 Rec 1** *(44BB)*: refer for genetic counseling and testing when there is **clinical polyposis**, defined as **≥10 adenomas on a single endoscopy** *and* **≥20 adenomas over a lifetime**. **Rec 2** *(44BB)*: test **all first-degree relatives** of a confirmed polyposis-syndrome patient [[asge-2020-fap]].
+
+**When to test the relative — the age depends on the suspected syndrome** [[asge-2020-fap]]:
+
+| Suspected syndrome | Age at which the at-risk relative is tested |
+|---|---|
+| **FAP** | **10–12 years** |
+| **AFAP** | **18–20 years** |
+| **[[mutyh-associated-polyposis\|MAP]]** | **18–20 years** (children are deferred to adulthood so they can consent; onset and screening both begin later) |
+| **Age 6 months – 5 years, parents agreeable** | Confirmatory **APC** testing may be done early **specifically to enable hepatoblastoma screening** (AFP + liver ultrasound every 6 months); otherwise defer to ages 10–12 |
+| **Mutation-negative child** | Follow **average-risk** [[colorectal-cancer-screening\|CRC screening]] |
 
 **Germline testing**: APC gene sequencing + deletion/duplication analysis; if APC-negative and polyp count <100, test MUTYH (both alleles) [[acg-2015-hereditary-gi-cancer]].
 
@@ -70,14 +82,14 @@ Familial adenomatous polyposis (FAP) and its related syndromes — attenuated FA
 
 ## Differential Diagnosis
 
-*No dedicated diagnostic schema covers colorectal polyposis; the workup runs polyp phenotype (number, size, site, histology) at [[colonoscopy]] → syndrome criteria → germline APC + MUTYH testing, as under [[#Diagnostics]].*
+*Workup: see [[colorectal-polyposis]].*
 
 - **[[lynch-syndrome]]** — fewer polyps (usually <10); right-sided; MMR gene mutations
 - **[[serrated-polyposis-syndrome]]** — predominantly serrated/hyperplastic polyps; no clear germline etiology
 - **[[juvenile-polyposis-syndrome|Juvenile polyposis syndrome]]** — hamartomatous polyps; SMAD4/BMPR1A
 - **[[peutz-jeghers-syndrome]]** — hamartomas + mucocutaneous pigmentation; STK11
 - **[[cowden-syndrome|Cowden syndrome]]** — hamartomas + PTEN mutation
-- **Hereditary mixed polyposis syndrome (HMPS)** — mixed juvenile-adenomatous and serrated adenomas; linked to GREM1 duplication; may be misdiagnosed as JPS or SPS
+- **[[hereditary-mixed-polyposis-syndrome|Hereditary mixed polyposis syndrome (HMPS)]]** — mixed juvenile-adenomatous and serrated adenomas; linked to GREM1 duplication; may be misdiagnosed as JPS or SPS
 
 ---
 
@@ -168,7 +180,7 @@ Familial adenomatous polyposis (FAP) and its related syndromes — attenuated FA
 - Yearly endoscopy of **rectum or ileal pouch** after colectomy with IRA or IPAA (Strong/Low)
 - ASGE intervals [[asge-2020-fap]]: **pouch endoscopy or ileoscopy every 1–2 years** (IPAA or ileostomy); **sigmoidoscopy every 6 months–1 year indefinitely** after IRA
 - Examination of ileostomy every **2 years** (Strong/Low)
-- Adenomas may develop in ileal pouch after IPAA; advanced dysplasia/cancer in the pouch is a real risk requiring lifelong surveillance
+- **How real the pouch risk is** [[asge-2020-fap]]: cumulative risk of developing a **pouch adenoma is 45% at 10 years** after proctocolectomy + IPAA; **12%** of those patients had an adenoma with **advanced pathology**; cumulative **pouch cancer risk stayed low at 1% at 10 years**. Adenomas also arise in the **ileum, rectal cuff, and anal transition zone** after both IPAA and IRA — hence lifelong surveillance of whichever remnant the patient has
 - Pouch polyposis may be treated with [[polypectomy]] or chemoprevention with sulindac
 
 ---
@@ -244,7 +256,7 @@ Familial adenomatous polyposis (FAP) and its related syndromes — attenuated FA
 
 ## See Also
 
-[[lynch-syndrome]], [[mutyh-associated-polyposis]], [[peutz-jeghers-syndrome]], [[juvenile-polyposis-syndrome]], [[cowden-syndrome]], [[colorectal-cancer]], [[colorectal-cancer-screening]], [[colonoscopy]], [[upper-endoscopy]], [[serrated-polyposis-syndrome]], [[ampullary-adenoma]], [[nonampullary-duodenal-adenoma]], [[gastric-polyps]], [[gastric-adenocarcinoma]], [[device-assisted-enteroscopy]], [[polypectomy]]
+[[colorectal-polyposis]], [[lynch-syndrome]], [[mutyh-associated-polyposis]], [[peutz-jeghers-syndrome]], [[juvenile-polyposis-syndrome]], [[cowden-syndrome]], [[hereditary-mixed-polyposis-syndrome]], [[colorectal-cancer]], [[colorectal-cancer-screening]], [[colonoscopy]], [[upper-endoscopy]], [[serrated-polyposis-syndrome]], [[ampullary-adenoma]], [[nonampullary-duodenal-adenoma]], [[gastric-polyps]], [[gastric-adenocarcinoma]], [[device-assisted-enteroscopy]], [[polypectomy]], [[pouchitis]]
 
 ---
 

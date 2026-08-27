@@ -3,11 +3,34 @@ title: "Alcohol-Associated Liver Disease"
 category: disease-script
 tags: [ald, alcoholic-hepatitis, cirrhosis, liver, hpb, aud, corticosteroids, liver-transplant, lille-score, meld, mdf, nac, pentoxifylline, transplant-candidate-evaluation, post-transplant, recurrence, naltrexone, acamprosate, baclofen, peth, stopah]
 created: 2026-05-07
-updated: 2026-08-26
-sources: [acg-2024-ald, acg-2017-liver-chemistries, aasld-ast-2025-liver-transplant-candidate-evaluation, aasld-ast-2025-liver-transplant-graft-complications, aasld-2020-ald, acg-2019-hereditary-hemochromatosis]
+updated: 2026-08-27
+sources: [acg-2024-ald, acg-2017-liver-chemistries, aasld-ast-2025-liver-transplant-candidate-evaluation, aasld-ast-2025-liver-transplant-graft-complications, aasld-2020-ald, acg-2019-hereditary-hemochromatosis, lee-2018-accelerate-ah]
 ---
 
 # Alcohol-Associated Liver Disease
+
+## Contents
+- [[#Assessment]]
+  - [[#Establishing the Diagnosis]]
+  - [[#Severity Assessment]]
+- [[#Differential Diagnosis]]
+- [[#Diagnostics]]
+  - [[#Laboratory Panel]]
+  - [[#Alcohol Use Screening and Biomarkers]]
+  - [[#Imaging]]
+  - [[#Liver Biopsy]]
+  - [[#AKI in AH]]
+  - [[#Genetic Susceptibility Factors]]
+- [[#Therapeutics]]
+  - [[#1. Severe Alcoholic Hepatitis (MELD >20; historically MDF ≥32)]]
+  - [[#2. Moderate AH (MELD ≤20)]]
+  - [[#3. Nutritional Support]]
+  - [[#4. Alcohol Use Disorder Treatment]]
+  - [[#5. Management of Complications]]
+  - [[#6. Liver Transplantation]]
+  - [[#7. Post-Liver-Transplant ALD Management]]
+- [[#See Also]]
+- [[#Sources]]
 
 ---
 
@@ -165,9 +188,9 @@ AASLD 2020 GS-1: *"All patients receiving care in primary care and gastroenterol
 - AKI-avoidance strategies: avoid IV contrast, aminoglycosides, and NSAIDs; use diuretics cautiously; early treatment with [[albumin]] and vasoconstrictors if HRS develops
 - See [[aki-in-cirrhosis]] for HRS-AKI management details
 
-### Genetic Susceptibility Factors [[aasld-2020-ald]]
+### Genetic Susceptibility Factors
 
-ALD risk is influenced by genetic variants in lipid metabolism and alcohol oxidation genes (Table 5):
+ALD risk is influenced by genetic variants in lipid metabolism and alcohol oxidation genes ([[aasld-2020-ald]] Table 5):
 
 - **PNPLA3 I148M** — increased risk of ALD, ASH, AH; also associated with increased HCC risk in ALD
 - **TM6SF2** — increased risk of ALD and cirrhosis; also associated with HCC risk
@@ -294,10 +317,35 @@ All ALD patients should receive AUD treatment [[acg-2024-ald]], [[aasld-2020-ald
 **Early Liver Transplantation (ELT) for severe AH** [[aasld-2020-ald]], [[acg-2024-ald]]:
 
 - AASLD 2020 GS-22 supports ELT in carefully selected severe AH non-responders with favorable psychosocial profiles.
-- **Mathurin et al. (France/Belgium) seminal RCT:** 26 patients meeting rigorous selection criteria; 6-month survival 77% ± 8% vs. 23% ± 8% in historical controls (P <0.001); low relapse. Comprehensive psychosocial assessment by addiction specialist performed.
-- **American multicenter retrospective study (Lee et al., 12 US centers, n=147):** Median MELD 39; no prior liver disease or prior AH episodes; cumulative survival 94% at 1 year, 84% at 3 years; sustained alcohol use 10% at 1 year (95% CI 6–18%), 17% at 3 years (95% CI 10–27%).
-- At least 25% of UNOS-region centers have performed at least one early AH LT; growing adoption but not yet universal.
-- SALT score (4 pre-LT variables predicting sustained alcohol use post-LT): >10 drinks/day at presentation (4 points), multiple prior rehabilitation attempts (4 points), prior alcohol-associated legal issues (2 points), prior illicit substance use (1 point) — SALT <5 has 95% NPV for sustained alcohol use post-LT.
+- **Mathurin et al. (France/Belgium) — a prospective multicenter study, *not* an RCT** (comparison was against historical controls). 26 patients transplanted after a rigorous process requiring complete consensus of multiple medical teams plus addiction-specialist psychosocial assessment; **6-month survival 77% ± 8% vs 23% ± 8%** (P <0.001); low relapse. **The selection number that frames the result: ~90% of steroid-non-responding severe AH patients were excluded for poor psychosocial profiles** before the 26 were transplanted. [[aasld-2020-ald]]
+
+**ACCELERATE-AH — the US multicenter cohort (retrospective, 147 patients, 12 centers / 8 UNOS regions)** [[lee-2018-accelerate-ah]]:
+
+| | |
+|---|---|
+| Who was transplanted | Severe AH by **Maddrey DF ≥32**, **no prior liver disease and no prior AH episode**; median DF 78, median day-7 Lille **0.82**, median **MELD-Na 39** at LT ⚠ |
+| Abstinence before LT | Median **55 days** (IQR 36–91) — **no mandated interval** |
+| Survival | **94% at 1 y** (95% CI 89–97), **84% at 3 y** (95% CI 75–90) |
+| **Any** post-LT alcohol use | **25% at 1 y** (95% CI 18–34), **34% at 3 y** (95% CI 25–44); median time to first drink 160 days |
+| **Sustained** post-LT use | **10% at 1 y** (95% CI 6–18), **17% at 3 y** (95% CI 10–27) |
+| What actually costs lives | **Sustained** use, not a slip — HR **4.59** for death (95% CI 1.45–14.54, P=.01). 3-year survival 97% (no use) vs 75% (any use), P=.03 |
+| Who got selected | Of 432 severe-AH patients presented to committee, **35.9% listed, 29.1% transplanted**; between-center listing rates ranged **13%–100%** |
+
+- ⚠ **MELD vs MELD-Na:** the primary paper reports **MELD-Na** 39; [[aasld-2020-ald]] restates it as "median MELD score of 39." The steroid threshold on this page (MELD >20) is **original MELD** — do not mix the two scales.
+- ⚠ **Selection, not treatment effect.** These are outcomes of a rigorously selected, transplanted cohort — they cannot be transported to unselected severe AH.
+- **Adoption:** at least **one-quarter of all US centers** have performed at least one early AH LT — **but most fewer than five** — with representation from every UNOS region, so consultation with such a center can be considered for a minority of appropriate patients. [[aasld-2020-ald]]
+
+**SALT score** (4 pre-LT variables predicting **sustained** alcohol use post-LT; derived from the ACCELERATE-AH cohort, **requires validation**) [[aasld-2020-ald]]:
+
+| Variable | Points |
+|---|---|
+| >10 drinks/day at initial presentation | **4** |
+| Multiple prior rehabilitation attempts | **4** |
+| Prior alcohol-associated legal issues | **2** |
+| Prior illicit substance use | **1** |
+
+- **SALT <5 → 95% NPV** (95% CI 89%–98%) for sustained alcohol use post-LT.
+- ⚠ **The score rules out, it does not rule in.** [[acg-2024-ald]]: SALT's **NPV is 90%–95% but its PPV is only 25%–50%** — like the other psychosocial instruments, it is accurate at predicting a *low* likelihood of relapse and **not** accurate at identifying who is truly high-risk. ACG 2024 positions SALT (alongside SIPAT, the High Risk for Alcohol Relapse score, Michigan Alcoholism Prognostics Score and the Hopkins Psychosocial Score) as usable **"in addition to the addiction team's evaluation"** — an adjunct, never a substitute.
 - **Candidate criteria for ELT in severe AH** (not universal; center-dependent):
   - Severe AH as first liver-decompensating event (no prior ALD diagnosis or prior AH episodes)
   - Non-responder to medical therapy (Lille ≥0.45)
@@ -306,9 +354,7 @@ All ALD patients should receive AUD treatment [[acg-2024-ald]], [[aasld-2020-ald
   - Absence of severe ongoing multiorgan failure precluding surgery
   - Favorable psychosocial profile (requires addiction specialist evaluation)
 
----
-
-## Post-Liver-Transplant ALD Management
+### 7. Post-Liver-Transplant ALD Management
 
 Per [[aasld-ast-2025-liver-transplant-graft-complications]] (recommendations for recurrent ALD post-LT):
 
@@ -352,3 +398,4 @@ Per [[aasld-ast-2025-liver-transplant-graft-complications]] (recommendations for
 4. [[aasld-ast-2025-liver-transplant-graft-complications|AASLD/AST 2025: Practice Guideline on Adult Liver Transplantation — Diagnosis and Management of Graft-Related Complications]]
 5. [[aasld-2020-ald|AASLD 2019/2020 Practice Guidance: Diagnosis and Treatment of Alcohol-Associated Liver Diseases]]
 6. [[acg-2019-hereditary-hemochromatosis|ACG 2019: Hereditary Hemochromatosis]]
+7. [[lee-2018-accelerate-ah|Outcomes of Early Liver Transplantation for Patients With Severe Alcoholic Hepatitis (ACCELERATE-AH)]]

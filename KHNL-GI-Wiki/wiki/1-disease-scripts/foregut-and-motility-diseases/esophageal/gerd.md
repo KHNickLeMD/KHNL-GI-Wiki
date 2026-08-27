@@ -3,7 +3,7 @@ title: "Gastroesophageal Reflux Disease"
 category: disease-script
 tags: [gerd, reflux, esophageal, foregut, motility]
 created: 2026-05-15
-updated: 2026-08-26
+updated: 2026-08-27
 sources: [asge-2024-gerd, acg-2021-gerd, sages-2021-gerd-surgery, lyon-2024-gerd-diagnosis, aga-2024-pcab, aga-2023-extraesophageal-gerd]
 ---
 
@@ -130,8 +130,16 @@ Perform [[upper-endoscopy|upper endoscopy]] per indications above. High-quality 
 
 ### CYP2C19 Genotyping
 
-- Conditional, very low evidence: consider in patients with suboptimal PPI response despite adherence
-- Rapid metabolizers have OR 1.6 for PPI refractoriness; efficacy rates: 52.2% (rapid) vs 61.3% (poor metabolizer)
+- Conditional, very low evidence: consider in patients with suboptimal PPI response despite adherence ([[asge-2024-gerd|ASGE 2025]])
+- **Rapid metabolizers *with reflux esophagitis* are more likely to be refractory to PPI than *poor* metabolizers — OR 1.6 (95% CI 1.02–2.66; P=.04)**; note the comparator and the erosive-disease qualifier, both of which are part of the finding
+- Efficacy of PPI for GERD resolution falls stepwise across genotypes (ITT, P=.047):
+
+| CYP2C19 phenotype | GERD resolution |
+|---|---|
+| Rapid metabolizer | **52.2%** (315/604) |
+| Intermediate metabolizer | **56.7%** (298/526) |
+| Poor metabolizer | **61.3%** (138/225) |
+
 - Not yet widely adopted in practice
 
 ---
@@ -192,7 +200,7 @@ Recommend for all patients with GERD symptoms:
 
 **Plus mandatory [[high-resolution-manometry|HRM]] before any antireflux procedure or endoscopic therapy** to rule out [[achalasia]] and absent contractility (Strong/Low, [[acg-2021-gerd]]) — among patients with **refractory** GERD, manometry finds achalasia in **1%–3%**, and **esophageal aperistalsis in roughly 3%** of manometry studies done to evaluate GERD; the aperistalsis group responds poorly to antireflux surgery.
 
-**The anatomy decides the procedure** ([[asge-2024-gerd]]) — hernia size + Hill grade is the operative decision point:
+**The anatomy decides the procedure** ([[asge-2024-gerd|ASGE 2025]]) — hernia size + Hill grade is the operative decision point:
 
 | Hiatal hernia | Hill grade | Option |
 |---|---|---|
@@ -251,7 +259,7 @@ Recommend for all patients with GERD symptoms:
 
 ## Sources
 
-1. [[asge-2024-gerd|ASGE 2024: Diagnosis and Management of GERD]]
+1. [[asge-2024-gerd|ASGE Guideline on the Diagnosis and Management of GERD (2025)]]
 2. [[acg-2021-gerd|ACG 2021 Clinical Guideline: Diagnosis and Management of GERD]]
 3. [[sages-2021-gerd-surgery|SAGES 2021 Guidelines for Surgical Treatment of Gastroesophageal Reflux (GERD)]]
 4. [[lyon-2024-gerd-diagnosis|Lyon Consensus 2.0 (2024): Evidence-Based Diagnosis of GERD]]

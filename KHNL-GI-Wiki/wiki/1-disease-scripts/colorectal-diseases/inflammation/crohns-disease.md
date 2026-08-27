@@ -3,7 +3,7 @@ title: "Crohn's Disease"
 category: disease-script
 tags: [crohns, ibd, biologics, ileitis, colitis, perianal-fistula, stricture, fistula, anti-tnf]
 created: 2026-05-07
-updated: 2026-08-14
+updated: 2026-08-27
 sources: [acg-2025-crohns, aga-2025-crohns-pharm, aga-2021-crohns-pharm, aga-2023-biomarkers-cd, acg-2018-crohns, asge-2015-scenic-ibd-dysplasia, asge-2015-ibd, aga-2026-inpatient-ibd, aga-2026-therapeutic-endoscopy-ibd, aga-2024-intestinal-ultrasound, aga-2024-diet-nutrition-ibd, aga-2024-ibd-malignancy, aga-2024-pregnancy-gi-liver]
 ---
 
@@ -19,7 +19,7 @@ No single pathognomonic test. Diagnosis = integration of:
 
 - **History:** [[chronic-diarrhea|chronic diarrhea]], abdominal pain, fatigue, weight loss; rectal sparing; perianal disease; EIMs
 - **Endoscopy:** aphthous ulcers, linear/serpiginous ulcers, cobblestoning, strictures, fistulas; skip areas; rectal sparing
-- **Histology:** transmural inflammation, granulomas (present in <33%), focal cryptitis
+- **Histology:** transmural inflammation, granulomas (in a minority — **up to 33%**; helpful but **not required** for diagnosis), focal cryptitis
 - **Imaging:** mural thickening, mesenteric stranding, fistulas, abscesses
 
 **Montreal classification (2005 revision of the Vienna classification) — age of onset + location + behavior** ([[acg-2018-crohns]]):
@@ -35,7 +35,7 @@ No single pathognomonic test. Diagnosis = integration of:
 - L1: Ileal (terminal ileum)
 - L2: Colonic
 - L3: Ileocolonic (~1/3 each at presentation)
-- L4: Upper GI (modifier; up to 16% occult)
+- L4: Upper GI (modifier). Prevalence looks low retrospectively (0.3–5%) but prospective evaluation finds endoscopic + histologic upper-GI CD in **~16%**, of whom **only ~37% are symptomatic** — hence "occult." These mild changes carry no established clinical significance, so **scope the upper GI tract only for upper-GI signs/symptoms.**
 
 **Behavior (B):**
 
@@ -102,8 +102,9 @@ No single pathognomonic test. Diagnosis = integration of:
 
 - **CBC:** anemia, thrombocytosis
 - **CMP:** albumin (malnutrition), LFTs
-- **CRP:** elevated in ~60%; useful short-term marker (t½ = 19h)
-- **Fecal calprotectin:** >50–100 mg/g distinguishes [[inflammatory-bowel-disease|IBD]] from functional disease (sensitivity 88%); use to monitor activity
+- **CRP:** elevated in **a subset** of CD patients (not all); short half-life (**19 h**) makes it responsive for detecting and monitoring inflammation. ⚠ **Up to 40% of IBD patients with mild inflammation have a normal CRP *and* ESR** — a normal CRP does not exclude active disease.
+- **ESR:** nonspecific; does **not** discriminate IBD from IBS or healthy controls — of limited use except in an individual patient followed serially.
+- **Fecal calprotectin:** cutoff **>50–100 μg/g** to differentiate inflammatory from noninflammatory colonic disease *(Strong/Moderate)*. At **50 μg/g**, sensitivity **88%**, specificity **72%** for distinguishing [[inflammatory-bowel-disease|IBD]] from functional GI disease. Also used to monitor activity and treatment response.
 - **Stool cultures + C. diff testing:** rule out infectious triggers
 - **Do NOT order:** anti-Saccharomyces antibodies (ASCA), perinuclear ANCA routinely — not useful for diagnosis
 - **Do NOT order:** genetic testing for diagnosis
@@ -111,7 +112,16 @@ No single pathognomonic test. Diagnosis = integration of:
 ### Endoscopy
 
 - **[[colonoscopy|Ileocolonoscopy]] with biopsies (required):** intubate TI; biopsy involved and uninvolved mucosa; photograph ileum
-- [[ibd-endoscopic-scoring|SES-CD]] for objective scoring: 0–2 = remission; 3–6 mild; 7–15 moderate; >15 severe
+- [[ibd-endoscopic-scoring|SES-CD]] for objective scoring — the simplest of the endoscopic indices to use:
+
+| SES-CD | Activity | What it looks like |
+|---|---|---|
+| 0–2 | Endoscopic remission | — |
+| 3–6 | Mild | Limited aphthous erosions <10% of surface area, and/or altered vascular pattern, erythema, edema affecting <50% of surface area |
+| 7–15 | Moderate | Erosions or superficial ulcers occupying >10% but <30% of surface area |
+| >15 | Severe | Large ulcers **>2 cm** |
+
+  - **Severe endoscopic lesions (Allez):** large, confluent, **deep** ulcers occupying **>10% of the surface area of at least one colonic segment** — especially in ileum and rectum, more refractory to medical therapy.
 - [[ibd-endoscopic-scoring|Rutgeerts score]] for postoperative assessment at neoterminal ileum
 - **[[upper-endoscopy|Upper endoscopy]]:** if upper GI symptoms
 - **[[capsule-endoscopy|Capsule endoscopy]]:** for suspected isolated SB disease; high sensitivity for mucosal lesions; negative NPV 96%; **must get patency capsule/SB imaging first if obstructive symptoms or known stricture**
@@ -144,7 +154,7 @@ No single pathognomonic test. Diagnosis = integration of:
 - Prevention of complications (stricture, fistula, surgery)
 - Deep remission (all 3 domains) — ideal goal
 
-**Top-down therapy preferred:** Early advanced therapy (biologic ± immunomodulator) significantly outperforms step-up in newly diagnosed active CD (PROFILE trial: 79% vs 15% steroid-free/surgery-free remission at 48wk). AGA 2021 first formalized this anti–step-up stance: suggests **early introduction of a biologic** (± immunomodulator) rather than delaying until after failure of 5-ASA and/or corticosteroids (Conditional), and recommends **biologic monotherapy over thiopurine monotherapy** for induction (Strong); supported by REACT (lower major disease-related complications at 24 mo, HR 0.73).
+**Top-down therapy preferred:** [[acg-2025-crohns|ACG 2025]] rec 3 **suggests against requiring failure of conventional therapy before starting advanced therapy** *(Conditional / Very low)*, and calls top-down treatment **the standard of care for newly diagnosed active CD**. Basis: PROFILE (open-label RCT) — early combined immunosuppression (infliximab + immunomodulator) vs accelerated step-up gave **79% vs 15%** sustained steroid-free, surgery-free remission at week 48; biomarker stratification added nothing. Anti-TNF agents also work better given **within 2 years of disease onset**. AGA 2021 first formalized this anti–step-up stance: suggests **early introduction of a biologic** (± immunomodulator) rather than delaying until after failure of 5-ASA and/or corticosteroids (Conditional), and recommends **biologic monotherapy over thiopurine monotherapy** for induction (Strong); supported by REACT (lower major disease-related complications at 24 mo, HR 0.73).
 
 ---
 
@@ -180,30 +190,36 @@ No single pathognomonic test. Diagnosis = integration of:
 
 ### Immunomodulators (Maintenance; Combo Only)
 
-| Drug | Dose | Use |
-|---|---|---|
-| Azathioprine | 1.5–2.5 mg/kg/day | Maintenance after steroid induction; combo with anti-TNF to reduce immunogenicity |
-| 6-Mercaptopurine | 0.75–1.5 mg/kg/day | Same as AZA |
-| Methotrexate | 25 mg SQ/IM weekly → taper to 15 mg | Maintenance; steroid-sparing; teratogenic — contraception required |
+| Drug | Dose | Use | [[acg-2025-crohns\|ACG 2025]] |
+|---|---|---|---|
+| Azathioprine | **1.5–2.5 mg/kg/day** | Maintenance after steroid induction; combo with anti-TNF to reduce immunogenicity | Maintenance *Conditional* (rec 9); **against induction Strong** (rec 8) |
+| 6-Mercaptopurine | **0.75–1.5 mg/kg/day** | Same as AZA | Same recs 8/9 |
+| Methotrexate | **Up to 25 mg SQ/IM once weekly**; after 4 months of maintained remission may drop to **15 mg/week** | Maintenance; steroid-sparing; teratogenic — contraception required | Maintenance *Conditional* (rec 11) |
 
-- **NOT for induction** (onset 8–12 weeks)
-- TPMT testing required before AZA/6-MP
+- **Thiopurines are not induction agents** — ACG recommends *against* AZA/6-MP for induction (Strong/Moderate).
+- **Route matters for methotrexate:** oral bioavailability is variable at higher doses, especially with malabsorption → **parenteral preferred**. [[aga-2025-crohns-pharm|AGA 2025]] suggests **SC/IM methotrexate monotherapy** over no treatment *(Conditional/Moderate)* but **against oral methotrexate monotherapy** *(Conditional/Very low)*; give **daily folic acid** with it.
+- Monitor CBC and LFTs routinely on thiopurines and methotrexate.
+- **TPMT testing required before AZA/6-MP** (Strong)
 - Combo AZA + anti-TNF: more effective than monotherapy; but risk of hepatosplenic T-cell lymphoma (rare, young males). AGA 2021 *suggests* combination infliximab or adalimumab + thiopurine over anti-TNF monotherapy in biologic- and immunomodulator-naïve patients (Conditional); makes no recommendation on combining vedolizumab/ustekinumab with an immunomodulator (knowledge gap), nor on withdrawing the immunomodulator vs the biologic once quiescent on combination therapy
-- MTX preferred when AZA/6-MP toxicity concern or as combo with anti-TNF at reduced dose (12.5–15mg PO weekly)
+- MTX preferred when AZA/6-MP toxicity is a concern; as an **adjunct to reduce anti-TNF immunogenicity** a reduced dose is used — methotrexate **12.5–15 mg PO once weekly** (or a thiopurine at reduced dose)
 
 ---
 
 ### Advanced Therapies: Biologic Positioning
 
-**General positioning framework:**
+**Efficacy tiers — the current positioning framework** ([[aga-2025-crohns-pharm|AGA 2025]] recs 3–4; *Conditional*, low-to-high certainty). Pick the tier first, then individualize by age, comorbidity, frailty, pregnancy, adherence, and route:
 
-| Patient | Preferred options |
-|---|---|
-| Biologic-naive, moderate-severe | IFX + immunomodulator (combo) OR vedolizumab OR ustekinumab |
-| Biologic-naive, fistulizing | IFX (strongest evidence) |
-| Anti-TNF experienced | Risankizumab (superior in SEQUENCE trial); vedolizumab; ustekinumab; upadacitinib |
-| Vedolizumab preferred | IBD + active EIMs where gut-selectivity matters less; pregnancy; concurrent infection risk |
-| Upadacitinib | Requires prior anti-TNF exposure (FDA mandate) |
+| Prior advanced therapy | Higher efficacy | Intermediate efficacy | Lower efficacy (avoid) |
+|---|---|---|---|
+| **Naïve** | Infliximab · adalimumab · vedolizumab · ustekinumab · risankizumab · mirikizumab · guselkumab | — | Certolizumab pegol · **upadacitinib** |
+| **≥1 prior advanced therapy (esp. anti-TNF)** | Adalimumab · risankizumab · guselkumab · **upadacitinib** | Ustekinumab · mirikizumab | **Vedolizumab** · certolizumab pegol |
+
+- ⚠ **The tiers invert for two drugs.** **Upadacitinib** is *lower* efficacy in the naïve patient but *higher* after anti-TNF exposure (and the FDA label requires prior anti-TNF exposure anyway). **Vedolizumab** is the reverse — *higher* efficacy naïve, *lower* after anti-TNF failure. Prior exposure, not the drug alone, sets the ranking.
+- **Second-line anti-TNF** (infliximab or adalimumab) can work if the first anti-TNF was stopped for **immunogenicity or intolerance after an initial response**; it is unlikely to work after **primary non-response** or loss of response despite adequate troughs → switch mechanism instead.
+- **Risankizumab over ustekinumab** in anti-TNF–experienced patients *(Strong/Moderate, [[acg-2025-crohns|ACG 2025]] rec 19; SEQUENCE)*.
+- **Two maintenance doses exist for risankizumab, guselkumab and upadacitinib** — prefer the **higher** dose with a high inflammatory burden, more severe disease, or prior anti-TNF failure.
+- Extended induction or dose escalation may rescue a partial responder before the agent is abandoned.
+- **Avoid JAK inhibitors** in women contemplating pregnancy, and in older adults with CV risk factors (smoking, hypertension, HDL <40 mg/dL, diabetes, family history of premature CHD, extra-articular RA, prior CV disease).
 
 **Original AGA positioning by anti-TNF response status** (AGA 2021; predates IL-23 inhibitors and JAK inhibitors — superseded for sequencing by [[aga-2025-crohns-pharm]] but still the basis for the primary-vs-secondary-nonresponse framework):
 
@@ -281,28 +297,32 @@ No single pathognomonic test. Diagnosis = integration of:
 **Step 2: Biologic therapy** (do NOT start before drainage)
 **Step 3: Assess response** — fistula closure, seton removal
 
-| Biologic | Evidence | Strength |
-|---|---|---|
-| Infliximab | Phase 3 RCT; highest-quality data | Strong |
-| Adalimumab | Phase 3 data; less robust than IFX | Conditional |
-| Vedolizumab | Limited fistula data | Conditional |
-| Ustekinumab | Observational data | Conditional |
-| Upadacitinib | Very limited | Conditional |
+| Biologic (induction of remission) | [[acg-2025-crohns\|ACG 2025]] strength / evidence |
+|---|---|
+| Infliximab | **Strong** / Moderate — highest-quality data (rec 24) |
+| Adalimumab | Conditional / Low (rec 25) |
+| Vedolizumab | Conditional / Very low (rec 27) |
+| Ustekinumab | Conditional / Very low (rec 28) |
+| Upadacitinib | Conditional / Very low (rec 29) |
 
-- Antibiotics (metronidazole/ciprofloxacin) adjunctive with biologics; imidazoles alone for simple fistulas
+- **Antibiotics combined with infliximab or adalimumab** to improve clinical response *(Conditional / Very low, rec 26)* — and adjunctively to treat the pelvic sepsis of complex fistulas. Antibiotics **alone** only for simple, superficial fistulas with minimal sphincter involvement: metronidazole **10–20 mg/kg/day PO**, and/or ciprofloxacin **500 mg PO BID**, or levofloxacin **500–750 mg daily** — each **for 4–8 weeks**. Mesalamine and corticosteroids are ineffective for fistulizing CD. **Antibiotics rarely replace surgical drainage when an abscess is present.**
 - Higher anti-TNF trough levels associated with better fistula healing (use TDM)
-- Complex fistula + abscess: surgical resection may be required
+- **Intra-abdominal abscess >2 cm:** treat with antibiotics **plus a drainage procedure**, and **hold immunosuppression until drainage is achieved** (radiologic or surgical) *(Conditional / Low, rec 35)*. Complex fistula + abscess may still require resection.
 
 ---
 
 ### Postoperative CD Prevention
 
-**Step 1:** Ileoscopy 6–12 months post-resection; Rutgeerts score guides next steps
+**Step 1:** Endoscopic assessment of the neoterminal ileum at **6–12 months** post-resection rather than no monitoring *(Conditional/Moderate)*; Rutgeerts score guides next steps — endoscopic recurrence shows up well before clinical recurrence.
 
-| Risk | Treatment |
-|---|---|
-| Low risk | Metronidazole 1–2 g/day × 3 months + observation |
-| High risk (prior resection, penetrating, smoking, short disease duration) | Anti-TNF (IFX preferred) **Strong rec** OR vedolizumab **Conditional rec** |
+| Postoperative risk | Treatment | Strength |
+|---|---|---|
+| **Low** | Continued **observation** rather than immediate medical therapy | Conditional / Very low |
+| Any, after **small-intestinal resection** | Imidazole antibiotics (metronidazole) **1–2 g/day** | Conditional / Low |
+| **High** (prior resection, penetrating phenotype, smoking, short disease duration) | **Anti-TNF** | **Strong** / Moderate |
+| **High** | **Vedolizumab** | Conditional / Low |
+
+- Metronidazole is poorly tolerated — **~50% of patients were intolerant** in placebo-controlled trials, so it is not sustainable as a long-term strategy. Combining metronidazole **1 g/day × 3 months** with azathioprine **100–150 mg/day × 12 months** reduced endoscopic recurrence (Rutgeerts i2–4) at 1 year versus metronidazole alone.
 
 ---
 

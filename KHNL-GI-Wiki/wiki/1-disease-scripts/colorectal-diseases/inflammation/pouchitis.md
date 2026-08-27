@@ -3,7 +3,7 @@ title: "Pouchitis"
 category: disease-script
 tags: [pouchitis, ipaa, j-pouch, ulcerative-colitis, ibd, cuffitis, crohns-like-disease-of-the-pouch, antibiotics, probiotics, biologics]
 created: 2026-06-04
-updated: 2026-08-26
+updated: 2026-08-27
 sources: [aga-2024-pouchitis, aga-2020-probiotics, asge-2015-ibd]
 ---
 
@@ -67,7 +67,7 @@ Pragmatic, treatment-anchored definitions (AGA 2024, Table 5):
 ## Diagnostics
 - **Pouchoscopy + biopsy** — primary diagnostic tool; maps inflammation (pouch body vs cuff vs pre-pouch ileum) and excludes Crohn's-like disease/cuffitis/infection.
 - **PDAI / mPDAI** — composite activity index (clinical symptoms + endoscopy ± histology; the modified PDAI drops the histology subscale). Decision-relevant cutoffs used in the AGA 2024 evidence base:
-  - **Active (acute) pouchitis = PDAI >7** (threshold used to define acute pouchitis in the cited treatment cohorts).
+  - **Active (acute) pouchitis = PDAI >7 lasting <4 weeks** (threshold used to define acute pouchitis in the cited treatment cohorts).
   - **mPDAI remission = mPDAI score ≤4 *and* a ≥2-point reduction from baseline** — the EARNEST trial primary endpoint (week 14). *(The full PDAI subscore point-values originate from Sandborn 1994 and are not reproduced in the AGA source — flagged, not filled.)*
   - Endoscopic/histologic outcomes were **not** prioritized as decision-critical in the guideline (clinical improvement is the key outcome).
 - Targeted workup when refractory: stool studies (incl. *C. difficile*), CMV on biopsy, cross-sectional/contrast imaging or EUA for suspected stricture/fistula.
@@ -83,7 +83,7 @@ Pragmatic, treatment-anchored definitions (AGA 2024, Table 5):
 ### Prevention
 - **Primary prevention — probiotics:** *No recommendation* (knowledge gap).
 - **Primary prevention — antibiotics:** *Suggested against* (very low certainty).
-- **Secondary prevention (after antibiotic-responsive recurrence) — [[probiotics]]:** *Suggested.* The **De Simone (8-strain) formulation** was used in the prevention trials ([[aga-2020-probiotics]]).
+- **Secondary prevention (after antibiotic-responsive recurrence) — [[probiotics]]:** *Suggested.* The **De Simone (8-strain) formulation** is the one used in the prevention trials ([[aga-2020-probiotics]]) — 3 RCTs, meta-analysed: **87% lower risk of relapse over 12 months** (6/45 on probiotic vs 36/41 on control). Do not substitute an arbitrary probiotic.
 
 ### Treatment by Subtype
 
@@ -94,7 +94,12 @@ Pragmatic, treatment-anchored definitions (AGA 2024, Table 5):
 - Probiotics for *treatment* of an acute episode: *no recommendation* (knowledge gap).
 
 **Chronic antibiotic-dependent pouchitis → chronic antibiotics OR advanced therapy.**
-- **Chronic/continuous antibiotics** to maintain remission (suggested); rotate agents and watch for long-term antibiotic risks (resistance, *C. diff*, neuropathy/tendinopathy).
+- **Confirm inflammation on pouchoscopy first** and rule out alternative etiologies before committing to chronic therapy.
+- **Chronic/continuous antibiotics** to maintain remission (suggested), at the **lowest effective dose**, to limit antimicrobial resistance:
+  - e.g. **ciprofloxacin 500 mg daily or 250 mg BID**
+  - **intermittent gap periods** — roughly **1 week off per month**
+  - or **cyclical rotation** between ciprofloxacin, metronidazole and vancomycin **every 1–2 weeks**
+  - watch long-term antibiotic risks (resistance, *C. diff*, neuropathy/tendinopathy).
 - **Advanced immunosuppressive therapy** (biologic/small molecule) is the alternative — preferred when antibiotic-intolerant or concerned about long-term antibiotics; therapies used **before colectomy** may be reconsidered.
 
 **Chronic antibiotic-refractory pouchitis → advanced therapy (± corticosteroids).**
@@ -111,15 +116,17 @@ Pragmatic, treatment-anchored definitions (AGA 2024, Table 5):
 
   - Class includes: TNF antagonists (infliximab, adalimumab, golimumab, certolizumab pegol), vedolizumab, ustekinumab, risankizumab, ozanimod, tofacitinib, upadacitinib. **Vedolizumab is the only agent with regulatory approval for this indication (EMA).**
   - Therapies used before colectomy may be reconsidered; a subset keeps deriving partial benefit from continued antibiotics alongside advanced therapy.
-- **Corticosteroids** also an option — oral **budesonide** or **beclomethasone** pooled response ~**77%** (small case series).
+- **Corticosteroids** also an option — oral **budesonide** or **beclomethasone**, pooled response ~**77%** (95% CI 58–88; 2 case series, n=30).
+  - **Controlled ileal-release budesonide is the preferred formulation.**
+  - Use for a **short duration (<8–12 weeks)**, with a steroid-sparing agent planned for anything longer.
 - **Mesalamine:** *no recommendation* (knowledge gap).
 
 **Crohn's-like disease of the pouch → corticosteroids + advanced immunosuppressive therapy.**
 - Both suggested; mirrors [[crohns-disease|luminal Crohn's]] management. Manage strictures/fistulas structurally as needed.
 
 **Cuffitis → UC-directed topical therapy first.**
-- **First-line: topical mesalamine** (suppositories) or **topical corticosteroids** (suppositories / ointment to the cuff).
-- Escalate to oral/advanced UC therapies if refractory.
+- **First-line: topical mesalamine** (suppositories) or **topical corticosteroids** (suppositories / ointment applied directly to the cuff).
+- Refractory → the UC-approved advanced therapies (TNF antagonists, vedolizumab, ustekinumab, risankizumab, ozanimod, tofacitinib, upadacitinib). There are almost no direct data — the recommendation is **extrapolated from the AGA UC guidelines**, because the cuff is retained rectal mucosa.
 
 ### Recommendation Summary
 All 13 AGA 2024 statements (9 actionable conditional recommendations + 4 "no recommendation" knowledge gaps). All actionable recommendations are **conditional**; certainty **very low** unless noted. [[aga-2024-pouchitis]]

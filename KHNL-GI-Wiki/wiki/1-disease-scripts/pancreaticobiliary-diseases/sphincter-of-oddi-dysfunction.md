@@ -49,11 +49,12 @@ Two parallel 3-type schemes — **biliary** (Rome III revision of the Milwaukee 
 
 | Type | Criteria |
 |---|---|
-| **Type 1** | Pancreatic-type pain **+** abnormal pancreatic enzymes (on 2 occasions) **+** dilated pancreatic duct |
+| **Type 1** | Pancreatic-type pain **+** abnormal pancreatic enzymes (on **2 occasions**) **+** dilated pancreatic duct |
 | **Type 2** | Pancreatic-type pain **+ either** abnormal enzymes **or** a dilated PD |
 | **Type 3** | "Pancreatic-type" pain **alone** |
 
 - **The distinction that matters:** *both* the lab abnormality *and* the ductal dilation define type I/1; *one* of them defines type II/2; *neither* is type III/3. Type III/3 is pain only — the type that must **not** be evaluated or treated with ERCP.
+- ⚠ **Decision gap — the pancreatic scheme is the vaguer of the two, and the source is why.** Unlike the biliary criteria (which carry both an enzyme multiple, **>2× normal**, and a duct threshold with its modality, **>8 mm on US**), [[asge-2015-benign-pancreatic-disease]] specifies **no enzyme multiple** ("abnormal pancreatic enzymes") and **no millimetre cutoff or ductal segment** for "a dilated PD". Those numbers are **not in any ingested source** — do not supply them from memory. In practice this makes the **biliary** criteria the operative ones when a patient could be classified either way.
 
 ## Differential Diagnosis
 

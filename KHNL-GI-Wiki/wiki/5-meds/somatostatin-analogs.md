@@ -3,7 +3,7 @@ title: "Somatostatin Analogs"
 category: med
 tags: [somatostatin-analog, octreotide, lanreotide, net, carcinoid, variceal-bleeding, angioectasia]
 created: 2026-06-18
-updated: 2026-08-26
+updated: 2026-08-27
 sources: [nccn-2026-net, aasld-2023-portal-hypertension, acg-2015-small-bowel-bleeding, aga-2024-vasoactive-albumin-cirrhosis]
 ---
 
@@ -77,7 +77,7 @@ By frequency, per [[aga-2024-vasoactive-albumin-cirrhosis]] Table 2. **Adverse e
 Additional effects tied to long-term SSA use in NETs:
 
 - **Biliary — the practice-changing one:** long-term SSA use raises the risk of **biliary symptoms and cholecystitis**, so **cholecystectomy is recommended when operating for advanced NETs in a patient anticipated to receive long-term SSAs** ([[nccn-2026-net]]).
-- **Diarrhea** can be a direct side effect of SSAs; SSAs also cause **[[exocrine-pancreatic-insufficiency|pancreatic exocrine insufficiency]] with steatorrhea**. If diarrhea/steatorrhea worsens on an SSA, trial **pancreatic enzymes** before escalating anti-secretory therapy, and consider the other causes of diarrhea in this population ([[bile-acid-diarrhea|bile-acid malabsorption]] after ileocecectomy or cholecystectomy, short-gut).
+- **Diarrhea** can be a direct side effect of SSAs; SSAs also cause **[[exocrine-pancreatic-insufficiency|pancreatic exocrine insufficiency]] with steatorrhea**. If diarrhea/steatorrhea worsens on an SSA, consider a trial of **pancreatic enzymes**, and consider the other causes of diarrhea in this population ([[bile-acid-diarrhea|bile-acid malabsorption]] after ileocecectomy or cholecystectomy, short-gut).
 - **Injection-site complications:** if they occur, **switch to the other SSA**.
 - **Hypoglycemia** in insulinoma (see above).
 

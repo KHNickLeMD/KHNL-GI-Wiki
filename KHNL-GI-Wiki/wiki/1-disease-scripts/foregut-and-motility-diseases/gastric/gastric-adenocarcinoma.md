@@ -72,7 +72,7 @@ Depth of invasion separates endoscopically curable disease (Tis/T1a mucosal) fro
 
 *Workup: see [[dyspepsia]].*
 
-[[gastric-premalignant-conditions|Gastric premalignant lesions]]/dysplasia, gastric lymphoma (MALT), [[gastrointestinal-stromal-tumor|GIST]] and other [[subepithelial-lesion|subepithelial lesions]], gastric [[gastroenteropancreatic-neuroendocrine-tumors|neuroendocrine tumors]], [[peptic-ulcer-disease|benign gastric ulcer]] (always biopsy to exclude malignancy), and metastatic disease.
+[[gastric-premalignant-conditions|Gastric premalignant lesions]]/dysplasia, [[gastric-malt-lymphoma|gastric lymphoma (MALT)]], [[gastrointestinal-stromal-tumor|GIST]] and other [[subepithelial-lesion|subepithelial lesions]], gastric [[gastroenteropancreatic-neuroendocrine-tumors|neuroendocrine tumors]], [[peptic-ulcer-disease|benign gastric ulcer]] (always biopsy to exclude malignancy), and metastatic disease.
 
 ## Diagnostics
 

@@ -3,7 +3,7 @@ title: "Endoscopic Submucosal Dissection (Colorectal)"
 category: advanced-procedure
 tags: [esd, hybrid-esd, endoscopic-resection, en-bloc, colorectal, t1-crc, malignant-polyp, submucosal-invasion, eftr]
 created: 2026-08-11
-updated: 2026-08-14
+updated: 2026-08-27
 sources: [usmstf-2020-endoscopic-removal, aga-2025-endoscopic-resection-crc]
 ---
 
@@ -65,7 +65,7 @@ Electrosurgical-knife dissection of colorectal lesions that cannot be taken en b
 2. Superficial SMI (<1000 μm)
 3. Absence of [[colorectal-cancer|lymphovascular invasion]] (LVI)
 4. Well-to-moderately differentiated histology (G1/G2)
-5. Low or absent tumor budding
+5. Low tumor budding — **Bd 1 (0–4 buds)**; **Bd 2 (5–9)** or **Bd 3 (≥10)** is high-risk (Zwager meta-analysis: **OR 2.83** for LNM). Definition, grading, and the reproducibility caveat live on [[polypectomy]].
 
 ### Deep SMI — Solitary Risk Reappraised
 

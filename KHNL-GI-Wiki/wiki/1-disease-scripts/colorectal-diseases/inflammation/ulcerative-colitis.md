@@ -3,7 +3,7 @@ title: "Ulcerative Colitis"
 category: disease-script
 tags: [uc, ulcerative-colitis, ibd, 5-asa, biologics, anti-tnf, vedolizumab, asuc, pancolitis, proctitis]
 created: 2026-05-07
-updated: 2026-08-26
+updated: 2026-08-27
 sources: [acg-2025-uc, aga-2024-uc-pharm, aga-2024-pouchitis, aga-2023-biomarkers-uc, acg-2019-uc, asge-2015-scenic-ibd-dysplasia, asge-2015-ibd, aga-2026-inpatient-ibd, aga-2024-intestinal-ultrasound, aga-2024-diet-nutrition-ibd, aga-2024-ibd-malignancy, aga-2024-pregnancy-gi-liver]
 ---
 
@@ -34,10 +34,10 @@ Idiopathic chronic inflammatory disorder of the large intestine. Continuous muco
 
 **Montreal Classification (extent)** — record extent at the index [[colonoscopy]]; extent broadly affects prognosis but should **not** limit therapeutic options:
 
-- **E1 Proctitis:** inflammation confined to the rectum — usually defined as **≤15 cm** of inflammation
-- **E2 Left-sided:** more than proctitis, but extent stops **at or distal to the splenic flexure**
-- **E3 Extensive:** extension **proximal to the splenic flexure**; *pancolitis* = entire rectum and colon including the cecum
-- ⚠ *Changed in ACG 2025:* ACG 2019 defined E1 as within **18 cm of the anal verge** (distal to the rectosigmoid junction) — the 2025 update states **≤15 cm** ([[acg-2019-uc]] → [[acg-2025-uc]]).
+- **E1 Proctitis:** inflammation confined to the rectum
+- **E2 Left-sided:** more than proctitis, extending from the sigmoid up to **the splenic flexure**
+- **E3 Extensive:** extension **beyond the splenic flexure**; *pancolitis* = entire colorectum
+- ⚠ **Two proctitis cut-points appear in [[acg-2025-uc|ACG 2025]] itself** — Key Concept 4 defines proctitis as **within 18 cm of the anal verge, distal to the rectosigmoid junction** (the same wording as [[acg-2019-uc|ACG 2019]]), while the body text says E1 is "usually defined as **≤15 cm** of inflammation." The guideline does not reconcile them; use either boundary with the caveat that E1 is rectum-only disease.
 
 ### Severity Assessment
 
@@ -50,12 +50,14 @@ Idiopathic chronic inflammatory disorder of the large intestine. Continuous muco
 | Urgency | None | Mild, occasional | Often | Continuous |
 | Hemoglobin | Normal | Normal | <75% of normal | Transfusion required |
 | ESR (mm/hr) | <30 | <30 | >30 | >30 |
-| CRP | Normal | Elevated | Elevated | Elevated |
+| CRP (mg/L) | Normal | Elevated | Elevated | Elevated |
 | FC (μg/g) | <150–200 | >150–200 | >150–200 | >150–200 |
 | MES | 0–1 | 1 | 2–3 | 3 |
 | UCEIS | 0–1 | 2–4 | 5–8 | 7–8 |
+| [[intestinal-ultrasound\|IUS]] | Colonic BWT ≤3 mm · rectal BWT ≤4 mm · mLimberg 0 | — | Colonic BWT >3 mm · rectal BWT >4 mm · mLimberg >0 | — |
 
 - **Except for remission, a patient does not need to meet every parameter** to be assigned a category. Any patient with **more than mildly active disease is treated per the moderate-severe recommendations.**
+- *Modified Limberg score* (submucosal hypervascularity on color Doppler): **0** absent · **1** small spots (single vessels) within the wall · **2** long stretches within the wall · **3** long stretches extending into the mesentery.
 
 **Truelove & Witts (1955) — the classic severity criteria** (simple, useful for deciding on hospitalization; gives no quantitative/longitudinal measure):
 
@@ -82,7 +84,9 @@ Idiopathic chronic inflammatory disorder of the large intestine. Continuous muco
   - Endoscopic remission = MES 0–1; endoscopic response = ≥1-point reduction
 - **[[ibd-endoscopic-scoring|UCEIS]]:** 0–8 (vascular pattern + bleeding + erosions/ulcers)
 
-### Poor Prognostic Factors (any → treat as moderate-severe)
+### Poor Prognostic Factors
+
+*Factors associated with increased risk of hospitalization/colectomy ([[acg-2025-uc]] Table 8):*
 
 - Age <40 at diagnosis
 - Extensive colitis
@@ -90,6 +94,8 @@ Idiopathic chronic inflammatory disorder of the large intestine. Continuous muco
 - Prior hospitalization for colitis
 - Elevated CRP
 - Low serum albumin
+
+**How to use them (KC 18):** mildly-to-moderately active UC with **a number of** these factors → treat with **moderate-to-severe** therapies. The greater the number of factors, the worse the prognosis — but **each factor carries a different weight**, so this is not a one-factor trigger: *age alone is a weaker prognostic factor than severe endoscopic activity*, while **young age combined with another factor** may be sufficient to justify advanced therapy. Shared decision-making.
 
 ---
 
@@ -122,15 +128,17 @@ Idiopathic chronic inflammatory disorder of the large intestine. Continuous muco
 - **Stool cultures + C. diff testing:** at diagnosis and with suspected flares
 - **[[colonoscopy|Colonoscopy]] with biopsies:** standard; biopsy endoscopically normal segments (histologic disease may extend beyond endoscopic extent)
 - **Sigmoidoscopy:** acceptable in severe disease (lower perforation risk); sufficient to assess severity + CMV biopsy
-- **[[intestinal-ultrasound|Intestinal ultrasound (IUS)]]:** noninvasive monitoring tool; BWT >3mm (colon) or >4mm (rectum) = active; response detectable in 2 weeks; absolute BWT <2.8 mm predicts wk-8 endoscopic remission; in acute severe UC, ≥20% BWT reduction within 48h of IV steroids predicts steroid response; transperineal approach for rectum
+- **Intestinal ultrasound (IUS):** noninvasive monitoring tool (activity thresholds in the Severity Assessment table); response detectable in 2 weeks; absolute BWT <2.8 mm predicts wk-8 endoscopic remission; in acute severe UC, ≥20% BWT reduction within 48h of IV steroids predicts steroid response; transabdominal scanning does **not** reach the rectum — use a transperineal approach
 - **[[upper-endoscopy|Upper endoscopy]]/SB imaging:** NOT routinely needed if TI normal; order only if symptoms or CD concern
 
 ### Pre-Biologic Screening (same as for CD)
 
 - TB (IGRA preferred if BCG-vaccinated)
 - [[chronic-hepatitis-b|HBV]] (HBsAg, anti-HBc, anti-HBs); vaccinate if seronegative; antiviral prophylaxis if HBsAg+
-- Update all vaccines before immunosuppression; live vaccines contraindicated after
-- **S1P modulators (ozanimod, etrasimod):** cardiac screening required before initiation (risk of bradycardia/AV block)
+- Update all vaccines before immunosuppression; live vaccines contraindicated after. Influenza, pneumococcal and **herpes zoster** vaccination — the last **particularly before an S1P modulator or JAK inhibitor**
+- **S1P modulators (ozanimod, etrasimod):** **baseline ECG** before initiation (bradycardia/AV block)
+- TPMT before a thiopurine
+- Assess comorbidity, frailty, functional status, concomitant meds, and **thromboembolic/cardiovascular risk** before choosing an advanced therapy; monitor CBC, chemistries and transaminases on treatment per label
 
 ---
 
@@ -179,7 +187,8 @@ Idiopathic chronic inflammatory disorder of the large intestine. Continuous muco
 - Once-daily vs divided dosing: equivalent efficacy; choose based on patient adherence preference
 - If failing maximally dosed 5-ASA (oral ≥2–4.8g/day + rectal ≥1g/day): do NOT switch 5-ASA formulation; advance therapy class
 - Do NOT use corticosteroids for maintenance (any route)
-- Any patient with poor prognostic factors → treat as moderate-severe regardless of symptoms
+- Poor prognostic factors (see Assessment) shift a mildly-to-moderately active patient into the moderate-severe algorithm
+- **Reassess response to induction within 8 weeks** (KC 19); non-response or intolerance to 5-ASA → treat as moderate-severe (KC 24)
 
 ---
 
@@ -187,48 +196,66 @@ Idiopathic chronic inflammatory disorder of the large intestine. Continuous muco
 
 **Induction options** (all strong recommendations unless noted):
 
-| Therapy | Class | Strength | Notes |
+| Therapy | Class | ACG 2025 strength/quality | Notes |
 |---|---|---|---|
-| Infliximab + thiopurine | Anti-TNF | Strong/High | Preferred anti-TNF; combo required with thiopurine |
-| Upadacitinib 45mg/day | JAK-1 inhibitor | Strong/High | Highest RCT efficacy data |
-| Vedolizumab IV | Anti-integrin | Strong/Moderate | Preferred over adalimumab (VARSITY); gut-selective |
-| Ozanimod/etrasimod | S1P modulator | Strong/Moderate | Oral; cardiac screening required |
-| Guselkumab | Anti-IL-23 (p19) | Strong/Moderate | IV induction |
-| Mirikizumab | Anti-IL-23 (p19) | Strong/Moderate | IV induction |
-| Risankizumab | Anti-IL-23 (p19) | Strong/Moderate | IV induction |
-| Ustekinumab | Anti-IL-12/23 (p40) | Strong/Moderate | IV induction |
-| Adalimumab | Anti-TNF | Strong/Moderate | Inferior to vedolizumab (VARSITY) |
+| Infliximab + thiopurine | Anti-TNF | Strong/High (combo Strong/Moderate) | Preferred anti-TNF (KC 45); combination-therapy data in UC exist **only** for infliximab + thiopurines (KC 27) |
+| Upadacitinib 45 mg/day ×8 wk | JAK-1 inhibitor | Strong/High | Maintenance 15 or 30 mg/day — **30 mg preferred in prior anti-TNF exposure**. US label restricts to prior anti-TNF failure/intolerance |
+| Vedolizumab IV | Anti-integrin | Strong/Moderate | Recommended **over adalimumab** for induction *and* maintenance (Strong/Moderate; VARSITY); gut-selective |
+| Ozanimod / etrasimod | S1P modulator | Strong/Moderate | Oral; **baseline ECG** before initiation |
+| Guselkumab | Anti-IL-23 (p19) | Strong/Moderate | |
+| Mirikizumab | Anti-IL-23 (p19) | Strong/Moderate | |
+| Risankizumab | Anti-IL-23 (p19) | Strong/Moderate | |
+| Ustekinumab | Anti-IL-12/23 (p40) | Strong/Moderate | Weight-based (~6 mg/kg) IV induction → 90 mg SQ q8–12wk |
+| Adalimumab | Anti-TNF | Strong/Moderate | Lower efficacy than vedolizumab (VARSITY) |
 | Golimumab | Anti-TNF | Strong/Moderate | SQ only |
-| Tofacitinib 10mg bid | JAK (pan) | Strong/Moderate | Boxed warning; reserve for anti-TNF failures |
-| Budesonide MMX 9mg/day | Topical steroid | Strong/Moderate | Moderately active only |
-| Oral prednisone | Systemic steroid | Strong/Low | Bridge to steroid-sparing therapy; NOT for maintenance |
+| Tofacitinib 10 mg BID | JAK (pan) | Strong/Moderate | US label restricts to **after anti-TNF failure**; caution with CV/VTE risk factors (ORAL Surveillance) |
+| Budesonide MMX 9 mg/day | Topical steroid | Strong/Moderate | **Moderately** active only — in severely active disease use systemic steroids |
+| Oral prednisone | Systemic steroid | Strong/Low | Bridge only; may be **omitted entirely** when another effective induction strategy is planned (KC 25d) |
 
 **Against for induction:**
 
-- Thiopurine or methotrexate monotherapy (too slow; no mucosal healing)
-- 5-ASA when using advanced therapies (no added efficacy)
+- Thiopurine or methotrexate **monotherapy** (Strong/Low)
+- 5-ASA added on top of a biologic/JAK inhibitor — no added efficacy (Conditional/Very low); stop 5-ASA once escalated ([[aga-2024-uc-pharm|AGA 2024]] rec 13). *Exception in the AGA implementation notes: a partial responder — especially with residual proctitis — may still benefit from rectal 5-ASA.*
 
 **Maintenance:**
 
-- Continue whichever agent induced remission
-- Against methotrexate for maintenance (Conditional)
-- Against corticosteroids for maintenance (Strong)
-- Thiopurine for maintenance if corticosteroid induction only (Conditional)
-- Biosimilars (IFX, ADA, UST): equivalent; switch acceptable
+- **Continue whichever agent induced remission** (all continuation recs Strong/Moderate)
+- ⚠ *Guidelines differ on non-infliximab combination therapy:* [[acg-2025-uc|ACG 2025]] KC 27 states combination anti-TNF + immunomodulator data in UC exist **only** for infliximab + thiopurines; [[aga-2024-uc-pharm|AGA 2024]] rec 9 additionally suggests **adalimumab or golimumab + an immunomodulator over either alone** (Conditional/Low). The page follows the newer ACG statement; AGA also makes **no recommendation** on combining non-TNF biologics with an immunomodulator (rec 10, knowledge gap).
+- Against methotrexate (Conditional/Low); against systemic corticosteroids (Strong/Moderate)
+- Thiopurine monotherapy if remission was induced by corticosteroids (Conditional/Low)
+- Combination anti-TNF + immunomodulator, ≥6 months steroid-free: AGA suggests **against withdrawing the TNF antagonist** (Conditional/Very low); **no recommendation** either way on withdrawing the immunomodulator (knowledge gap)
+- Biosimilars (IFX, ADA, UST) are acceptable substitutes; **do not delay switching**, but notify the patient (KC 30)
+- SC infliximab and SC vedolizumab ≈ standard IV **maintenance** dosing; SC equivalence for *induction* or as a substitute for escalated dosing is **not** established (KC 31)
+
+**Efficacy tiers for choosing the agent** ([[aga-2024-uc-pharm|AGA 2024]] recs 3–4; *Conditional, low certainty* — position by tier, then by patient factors):
+
+| Prior advanced therapy | Higher efficacy | Intermediate efficacy | Lower efficacy (avoid) |
+|---|---|---|---|
+| **Naïve** | Infliximab · vedolizumab · ozanimod · etrasimod · upadacitinib* · risankizumab · guselkumab | Golimumab · ustekinumab · tofacitinib* · filgotinib* · mirikizumab | Adalimumab |
+| **≥1 prior advanced therapy (esp. anti-TNF)** | Tofacitinib* · upadacitinib* · ustekinumab | Filgotinib* · mirikizumab · risankizumab · guselkumab | Adalimumab · vedolizumab · ozanimod · etrasimod |
+
+\* JAK inhibitors: the US FDA label restricts use to patients with **prior failure or intolerance to a TNF antagonist**, so despite the "higher efficacy" ranking they are not first-line in the naïve patient. EMA advises caution as a first-line agent if **age ≥65, current/former long-term smoker, prior cardiovascular disease, or prior cancer**.
+
+*Note the tiers invert for several drugs:* vedolizumab, ozanimod and etrasimod are **higher** efficacy in the naïve patient and **lower** efficacy after anti-TNF exposure — prior exposure, not the drug alone, decides.
 
 ---
 
 ### Positioning Framework
 
-**Infliximab** — preferred anti-TNF; requires combo with thiopurine; use IV; SC option for maintenance
+**Extent does not restrict the choice.** Moderately-to-severely active disease is treated with proven-efficacy therapies **regardless of extent — including isolated proctitis** (KC 26, 39).
 
-**Vedolizumab** — preferred over adalimumab (VARSITY trial: higher clinical/endoscopic remission); gut-selective; good safety profile; appropriate for patients with high infection risk
+**First therapy beats later ones.** Response and remission rates are highest with the first advanced therapy and fall after each failure (KC 42) — an argument against saving agents.
 
-**Upadacitinib** — highest overall efficacy in RCTs; no prior anti-TNF requirement for UC (unlike CD); JAK class boxed warning; use after anti-TNF failure or where biologics not appropriate/failed
+**Choose by comorbidity and by extraintestinal manifestation, not by network meta-analysis.** ACG explicitly declined to use post hoc/indirect data for positioning (KC 44) — network meta-analyses are hypothesis-generating only.
 
-**IL-23 inhibitors (guselkumab, mirikizumab, risankizumab)** — all equivalent evidence; good safety; appropriate for high infection risk patients
-
-**S1P modulators (ozanimod, etrasimod)** — oral; avoid in cardiac conditions (bradycardia risk); independent mechanism; useful after biologic failure
+| Patient feature | Favored strategy |
+|---|---|
+| Higher risk of infectious complications | Vedolizumab or an anti–IL-23 strategy over more systemically immunosuppressive options (KC 46) |
+| Inflammatory arthritis (not arthralgia alone) | Anti-TNF or JAK inhibitor |
+| Psoriasis / inflammatory skin disease — especially anti-TNF–induced | IL-23–based strategy |
+| Cardiac disease, bradycardia/AV block risk | Avoid S1P modulators |
+| Age ≥65, CV disease, smoking, prior cancer, VTE risk | Avoid or use JAK inhibitors with caution |
+| Contemplating pregnancy | Avoid JAK inhibitors and S1P modulators (limited safety data) |
 
 **Anti-TNF loss of response:** Check trough levels + antidrug antibodies
 
@@ -246,7 +273,10 @@ Idiopathic chronic inflammatory disorder of the large intestine. Continuous muco
 ![[uc-2025-asuc-algorithm-29.png|700x998]]
 *Figure 3 — Algorithm for the management of hospitalized patients with acute severe UC. ([[acg-2025-uc]])*
 
-**Diagnosis of ASUC (Truelove-Witts):** ≥6 bloody stools/day + ≥1 systemic sign of toxicity — tachycardia, fever, anemia (**hemoglobin <10.5 g/dL**), or elevated inflammatory markers (**ESR >30 mm/hr**)
+**Diagnosis of ASUC (Truelove-Witts):** **≥6 bowel movements/day** + **≥1** systemic sign of toxicity — tachycardia, fever, anemia (**hemoglobin <10.5 g/dL**), or elevated inflammatory markers (**ESR >30 mm/hr**)
+
+- Up to **one-quarter** of UC patients develop ASUC requiring hospitalization; historical cohorts report colectomy in up to **40%** of those admissions.
+- Endoscopic severity predicts the course: in a hospitalized ASUC cohort, **UCEIS ≥5** carried a **50%** likelihood of needing rescue therapy and a **33%** colectomy rate; deep ulceration correlates with corticosteroid failure. No endoscopic score is specific to ASUC.
 
 **Step-by-step management:**
 
@@ -294,31 +324,37 @@ Idiopathic chronic inflammatory disorder of the large intestine. Continuous muco
 
 ### Monitoring
 
-**Standard monitoring:**
+**Timeline after starting an advanced therapy** ([[aga-2024-uc-pharm|AGA 2024]] key considerations; ACG asks that every agent be assessed at a defined point, **6–12 weeks**):
 
-- Reassess response to induction within 8 weeks
-- Fecal calprotectin: assess response to therapy, monitor for relapse
-- Endoscopy (flexible sig or colonoscopy): confirm mucosal healing
-- IUS: noninvasive alternative for monitoring between endoscopies
-- Routine labs: CBC, CMP, CRP
+| Target | By when |
+|---|---|
+| Symptomatic response | **≤3 months** |
+| Symptomatic **and** biochemical remission (FC, CRP) | **3–6 months** |
+| Endoscopic improvement / remission | **6–12 months** |
+
+- Confirm active inflammation (symptoms **plus** biomarkers and/or endoscopy) **before** starting an advanced therapy — do not escalate on symptoms alone.
+- Fecal calprotectin: assess response to therapy, monitor for relapse (Strong/Moderate); benchmark to the level at the diagnostic endoscopy so later values are interpretable.
+- Endoscopy (flexible sig or colonoscopy): confirm mucosal healing; IUS is a noninvasive alternative between endoscopies.
+- Routine labs: CBC, CMP, CRP.
+- **Corticosteroid-free remission** = symptomatic + endoscopic remission with no corticosteroid for a sustained period, **usually >12 weeks** (KC 11).
 
 **Endoscopic target:** MES 0–1
 **Symptomatic target:** Normal stool frequency, no rectal bleeding, no urgency
 **Deep remission (preferred):** Both symptomatic + endoscopic
 
-**CRC surveillance:**
+**CRC surveillance — who and when** ([[acg-2019-uc]] rec 47, *conditional / very low*):
 
-- After 8–10 years of UC with E2 or E3 extent
-- PSC: start at time of PSC diagnosis
-- Every 1–2 years with chromoendoscopy
-- Factors associated with higher CRC risk: disease duration, extent, PSC, family history, active inflammation
+- **Screen and survey any patient with UC extending beyond the rectum** — extent-based, not limited to E2/E3.
+- **Start after 8 years of disease.** (The familiar "8–10 years" is *previous* guidance; ACG moved to 8 y because CRC is occurring earlier in some patients and the older models did not adjust for degree of inflammation.)
+- **PSC is the exception: begin at the time of the UC diagnosis and repeat annually** — the CRC risk is high enough, and PSC-associated UC tends to be less symptomatic (so present longer than recognized) with more proximal histologic activity.
+- **Intervals are risk-adjusted, not fixed** — shorter with more risk factors, longer when histologic inflammation is under excellent control. Risk factors: disease duration, extent, PSC, family history, and **active inflammation**. Control of mucosal inflammation may itself lower dysplasia risk (KC 14).
 
-**Surveillance technique ([[asge-2015-scenic-ibd-dysplasia|SCENIC]] consensus):**
-- High-definition colonoscopy preferred over standard-definition
-- **Dye-spray chromoendoscopy** (methylene blue / indigo carmine) recommended over white-light with SD scopes; suggested even with HD scopes
-- NBI not a substitute for white-light or chromoendoscopy
-- Terminology: **visible** (polypoid/nonpolypoid, per modified Paris) vs **invisible** dysplasia; terms DALM / adenoma-like abandoned
-- **Management:** completely resected endoscopically-resectable visible dysplasia (polypoid or nonpolypoid) → continued surveillance, not colectomy; **invisible** dysplasia (GI-pathologist–confirmed) → refer to an IBD-surveillance/chromoendoscopy expert
+**Surveillance technique:**
+- High-definition colonoscopy preferred over standard-definition.
+- **Standard-definition scope → dye-spray chromoendoscopy** (methylene blue / indigo carmine) *(Strong / low, ACG 2019 rec 48)*.
+- **High-definition scope → white-light with NBI *or* dye-spray chromoendoscopy** *(Conditional / low, ACG 2019 rec 49)*. ⚠ **Guidelines differ:** the older [[asge-2015-scenic-ibd-dysplasia|SCENIC 2015]] consensus held that **NBI is not a substitute** for white-light or chromoendoscopy; the newer ACG 2019 accepts NBI with HD scopes. The page follows ACG 2019 (newer, same tier).
+- Terminology ([[asge-2015-scenic-ibd-dysplasia|SCENIC]]): **visible** (polypoid/nonpolypoid, per modified Paris) vs **invisible** dysplasia; the terms DALM / adenoma-like are abandoned.
+- **Management:** completely resected endoscopically-resectable visible dysplasia (polypoid or nonpolypoid) → continued surveillance, **not** colectomy; **invisible** dysplasia (GI-pathologist–confirmed) → refer to an IBD-surveillance/chromoendoscopy expert.
 
 ---
 

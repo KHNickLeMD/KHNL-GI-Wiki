@@ -3,7 +3,7 @@ title: "Acute Mesenteric Ischemia"
 category: disease-script
 tags: [acute-mesenteric-ischemia, ami, mesenteric-vein-thrombosis, mvt, small-bowel, vascular-lesion, anticoagulation]
 created: 2026-06-01
-updated: 2026-08-14
+updated: 2026-08-27
 sources: [acg-2015-colon-ischemia, acg-2020-hepatic-mesenteric-circulation]
 ---
 
@@ -50,7 +50,8 @@ sources: [acg-2015-colon-ischemia, acg-2020-hepatic-mesenteric-circulation]
 
 *Workup of the hematochezia presentation: see [[acute-lower-gi-bleeding]].*
 
-- [[colon-ischemia|Colon ischemia]] — the principal mimic; colonic watershed rather than small bowel. **Isolated right colon ischemia (IRCI) is the overlap case** — it is associated with **SMA disease** or shock and carries 25–75% mortality, so it should prompt consideration of concurrent AMI. [[acg-2015-colon-ischemia]]
+- [[colon-ischemia|Colon ischemia]] — the principal mimic; colonic watershed rather than small bowel. **Isolated right colon ischemia (IRCI) is the overlap case** — it shares the SMA territory with AMI, arises in shock states, and has markedly worse outcomes than other CI patterns (**30-day mortality 22.5% vs. 9.0%**; the full outcome figures are on [[colon-ischemia]]). IRCI should therefore prompt consideration of concurrent AMI and **multiphasic CTA** *(strong, moderate)*. [[acg-2015-colon-ischemia]]
+  - **The presentation flips the usual rule:** IRCI patients **more commonly have pain than rectal bleeding** — only **25–46% of IRCI patients bleed per rectum** — so hematochezia argues *against* IRCI and for non-IRCI *(strong, very low)*. Suspect IRCI in acute severe abdominal pain **without** bleeding, especially with dialysis or sepsis. [[acg-2015-colon-ischemia]]
 - [[mesenteric-artery-aneurysm|Mesenteric artery aneurysm]] — may thrombose or rupture.
 - [[portal-vein-thrombosis|Portal vein thrombosis]] — contiguous venous territory; often coexists with MVT.
 - [[acute-colonic-pseudo-obstruction|Acute colonic pseudo-obstruction]] and [[colonic-volvulus|colonic volvulus]] — other causes of acute abdomen with distension.

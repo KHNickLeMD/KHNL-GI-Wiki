@@ -3,11 +3,9 @@ title: "Small Intestinal Bacterial Overgrowth (SIBO)"
 category: disease-script
 tags: [sibo, imo, small-bowel, breath-testing, rifaximin, ibs, motility, microbiome, malabsorption]
 created: 2026-05-19
-updated: 2026-08-26
+updated: 2026-08-27
 sources: [acg-2020-sibo]
 ---
-
-# Small Intestinal Bacterial Overgrowth (SIBO)
 
 SIBO is a clinical syndrome of GI symptoms caused by the presence of excessive numbers of bacteria within the small intestine. The normal small bowel maintains relative sterility compared to the colon; SIBO represents a significant disruption of this balance. Bacteria are typically coliforms — predominantly Gram-negative aerobic and anaerobic species — that ferment carbohydrates, producing gas and short-chain fatty acids. SIBO is almost always an epiphenomenon of an underlying condition that leads to stasis, anatomic disruption, immune dysfunction, or altered motility in the small intestine. See [[acg-2020-sibo]].
 
@@ -132,7 +130,7 @@ Symptoms of SIBO are non-specific. The differential includes:
 
 ### Small Bowel Aspirate and Culture (Historical Gold Standard)
 
-- **Diagnostic threshold:** ≥10³ CFU/mL in duodenal/jejunal aspirate (North American Consensus; replaces older ≥10⁵ cutoff which was too stringent)
+- **Diagnostic threshold:** **≥10³ CFU/mL** in duodenal/jejunal aspirate (ACG 2020 Key Concept 6). This **replaced the historical ≥10⁵ CFU/mL** cutoff — a threshold whose version matters, because ≥10⁵ is almost exclusively seen in post-gastrectomy/blind-loop anatomy and would miss most SIBO. Normal small bowel is <10³ CFU/mL.
 - Invasive, expensive, requires endoscopy and aseptic technique; impractical in routine care
 - Results reported as precise colony counts (CFU/mL), not just positive/negative
 - Diagnostic agreement between culture and breath testing ~65% — single method may not be definitive

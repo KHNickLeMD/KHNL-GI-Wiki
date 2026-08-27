@@ -61,6 +61,19 @@ for k,t in txt.items():
     if re.search(r'^sources:\s*\[\s*\]\s*$',t,re.M) and 'to be expanded' not in t:
         print("   ",pages[k])
 
+print("--- disease scripts lacking a *Workup: see [[schema]].* pointer at top of ## Differential Diagnosis ---")
+miss=[]
+for k,t in txt.items():
+    if '/1-disease-scripts/' not in pages[k]: continue
+    m=re.search(r'^## Differential Diagnosis\s*\n+(.{0,200})',t,re.S|re.M)
+    if not m:
+        miss.append((k,'NO-DDX-SECTION')); continue
+    head=m.group(1).lstrip()
+    if not (head.startswith('*') and 'see [[' in head[:180].lower()):
+        miss.append((k,head.split('\n')[0][:70]))
+print("   total:",len(miss))
+for k,v in sorted(miss): print("   ",k,"|",v)
+
 print("--- missing ## See Also or ## Sources ---")
 n=0
 for k,t in txt.items():

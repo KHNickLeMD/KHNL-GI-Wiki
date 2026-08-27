@@ -3,7 +3,7 @@ title: "Esophageal Cancer"
 category: disease-script
 tags: [esophagus, malignancy, adenocarcinoma, squamous-cell-carcinoma, egj, dysphagia, her2, pd-l1, msi-h, flot, chemoradiation, esophagectomy, endoscopic-resection, nccn, oncology]
 created: 2026-06-04
-updated: 2026-08-26
+updated: 2026-08-27
 sources: [nccn-2026-esophageal-egj-cancer, asge-2023-esd]
 ---
 
@@ -89,7 +89,17 @@ Stage-directed per [[nccn-2026-esophageal-egj-cancer]]:
   Note the size thresholds differ by histology — **15 mm for squamous, 20 mm for adenocarcinoma** — and both are recommendations about *technique*, not about whether to resect endoscopically at all (that is set by depth; see [[esophageal-adenocarcinoma]]).
 - **Locally advanced resectable:** neoadjuvant/perioperative therapy then esophagectomy — perioperative **FLOT** (adenocarcinoma) or neoadjuvant **chemoradiation (CROSS-type)** followed by surgery. Adjuvant **nivolumab** is an option after neoadjuvant chemoradiation + R0 resection with residual disease (CheckMate-577). In v3.2026, adding **durvalumab to perioperative FLOT** is positioned for selected adenocarcinoma (clinically node-negative; PD-L1 CPS <1 as category 2B; diffuse-type EGJ as category 2B) per MATTERHORN — with no demonstrated survival advantage in diffuse-type disease.
 - **Definitive chemoradiation:** for SCC and for patients who are not surgical candidates.
-- **Metastatic:** biomarker-directed systemic therapy — first-line **trastuzumab** added to chemotherapy for HER2-overexpressing adenocarcinoma; a checkpoint inhibitor (**nivolumab or pembrolizumab**) added to first-line chemotherapy by **PD-L1 CPS** (tumor is PD-L1–positive at **CPS ≥1**, the threshold to add a checkpoint inhibitor; the benefit is category 1 at **CPS ≥5** for adenocarcinoma/EGJ, and pembrolizumab is category 1 for esophageal SCC at **CPS ≥10**); immunotherapy for MSI-H/dMMR; **trastuzumab deruxtecan** (category 1) in later lines for HER2-positive disease.
+- **Metastatic:** biomarker-directed systemic therapy — first-line **trastuzumab** added to chemotherapy for HER2-overexpressing adenocarcinoma; immunotherapy for MSI-H/dMMR **independent of PD-L1 status**; **trastuzumab deruxtecan** (category 1) in later lines for HER2-positive disease.
+
+  **PD-L1 CPS thresholds — the number and the *line of therapy* both matter:**
+
+| Setting | Threshold | Strength |
+|---|---|---|
+| Definition of PD-L1–**positive** | **CPS ≥1** | — |
+| Add a checkpoint inhibitor to **first-line** chemotherapy (adenocarcinoma/EGJ **and** SCC) | **CPS ≥1** | Category 1 for SCC; for adenocarcinoma/EGJ, recommended at CPS ≥1 but **category 1 only at CPS ≥5** |
+| **Second-line or subsequent** pembrolizumab monotherapy, **esophageal SCC only** | **CPS ≥10** | Category 1 |
+
+  **CPS and tumor area positivity (TAP) score have high concordance and may be used interchangeably** (v3.2026 revision) — so a lab reporting TAP ≥1% satisfies the CPS ≥1 gate.
 
 ### NCCN Treatment Algorithm
 

@@ -3,7 +3,7 @@ title: "Variceal Upper GI Bleeding"
 category: diagnostic-schema
 tags: [cirrhosis, portal-hypertension, variceal-bleeding, upper-gi-bleeding, hemostasis, antibiotic-prophylaxis, TIPS, EVL, carvedilol, NSBB, gastric-varices, preemptive-TIPS]
 created: 2026-05-15
-updated: 2026-08-26
+updated: 2026-08-27
 sources: [albhaisi-2025-prophylactic-antibiotics-cirrhosis, aasld-2023-portal-hypertension, baveno-vii-2022-portal-hypertension, aga-2024-vasoactive-albumin-cirrhosis]
 ---
 
@@ -79,7 +79,7 @@ In a cirrhotic patient with UGIB, consider:
 - **Cross-sectional imaging for everyone:** all patients with AVB should get contrast-enhanced CT or MRI to exclude [[portal-vein-thrombosis|splanchnic vein thrombosis]] and [[hepatocellular-carcinoma|HCC]] and to map portosystemic collaterals (D.1, 6.26) — not only gastric/ectopic bleeds
 - **Lactulose (oral or enema) to clear blood from the gut** to prevent HE (B.1, 6.33); treat bouts of HE with lactulose (D.1, 6.32)
 - **Do not chase the coagulopathy** — the target is portal pressure, not INR (B.1, 6.34). PT/INR and aPTT do not reflect haemostasis in advanced liver disease (B.1, 6.35). **No FFP** (B.1, 6.36); **no recombinant factor VIIa and no tranexamic acid** (A.1, 6.38). Platelet count and fibrinogen do not predict failure to control bleeding; correct only case-by-case if bleeding is uncontrolled (D.2, 6.37). See [[cirrhosis-hemostasis]]
-- **Anticoagulants** should be temporarily held until haemorrhage is controlled; length of interruption individualised to the strength of the indication (D.2, 6.39)
+- **[[anticoagulation-gi-bleeding|Anticoagulants]]** should be temporarily held until haemorrhage is controlled; length of interruption individualised to the strength of the indication (D.2, 6.39)
 - **Nutrition:** malnutrition worsens AVB outcomes — start oral nutrition as soon as possible (D.2, 6.10); handle NG tubes cautiously (pulmonary infection risk) (D.2, 6.11)
 - **Intubate before endoscopy** for altered consciousness or active haematemesis (D.1, 6.3); **extubate as soon as possible afterwards** (D.2, 6.4)
 - **Terlipressin → monitor sodium** (hyponatraemia, especially with preserved liver function) (B.1, 6.6)
@@ -129,7 +129,7 @@ Standard practice recommends prophylactic antibiotics to prevent bacterial infec
 
 ## See Also
 
-[[portal-hypertension]], [[cirrhosis]], [[porto-sinusoidal-vascular-disorder]], [[tips]], [[upper-gi-bleeding]], [[acute-lower-gi-bleeding]], [[ascites]], [[spontaneous-bacterial-peritonitis]], [[hepatic-encephalopathy]], [[peptic-ulcer-disease]], [[helicobacter-pylori-infection]], [[liver-transplantation]], [[antibiotic-prophylaxis-cirrhosis]], [[somatostatin-analogs]], [[nutrition-in-liver-disease]], [[cirrhosis-hemostasis]], [[rifaximin]], [[upper-endoscopy]], [[hepatic-venous-pressure-gradient]], [[acute-on-chronic-liver-failure]], [[portal-vein-thrombosis]], [[endoscopy-sedation]]
+[[portal-hypertension]], [[cirrhosis]], [[porto-sinusoidal-vascular-disorder]], [[tips]], [[upper-gi-bleeding]], [[acute-lower-gi-bleeding]], [[ascites]], [[spontaneous-bacterial-peritonitis]], [[hepatic-encephalopathy]], [[peptic-ulcer-disease]], [[helicobacter-pylori-infection]], [[liver-transplantation]], [[antibiotic-prophylaxis-cirrhosis]], [[somatostatin-analogs]], [[nutrition-in-liver-disease]], [[cirrhosis-hemostasis]], [[rifaximin]], [[upper-endoscopy]], [[hepatic-venous-pressure-gradient]], [[acute-on-chronic-liver-failure]], [[portal-vein-thrombosis]], [[endoscopy-sedation]], [[anticoagulation-gi-bleeding]]
 
 ---
 

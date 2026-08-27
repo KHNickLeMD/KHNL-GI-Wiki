@@ -3,7 +3,7 @@ title: "TIPS (Transjugular Intrahepatic Portosystemic Shunt)"
 category: advanced-procedure
 tags: [tips, portal-hypertension, variceal-bleeding, refractory-ascites, hepatic-encephalopathy, pspg, ptfe-stent, rto, brto, interventional-radiology]
 created: 2026-07-16
-updated: 2026-08-14
+updated: 2026-08-27
 sources: [aasld-2024-tips, aasld-2021-ascites-sbp-hrs, aga-2025-ascites-cirrhosis, aasld-2021-vascular-pvt, wang-2026-eus-ppg-delphi-consensus]
 ---
 
@@ -71,7 +71,7 @@ sources: [aasld-2024-tips, aasld-2021-ascites-sbp-hrs, aga-2025-ascites-cirrhosi
 
 ## Technique
 
-- Performed by interventional radiology under real-time fluoroscopic and ultrasound guidance; transjugular venous approach under general anesthesia or deep sedation
+- Performed by interventional radiology under real-time fluoroscopic and ultrasound guidance; transjugular venous approach under general anesthesia or deep [[endoscopy-sedation|sedation]]
 - Hepatic vein catheterized → portal vein punctured with a long-curved needle → portal venography + hemodynamic assessment → dilation and measurement of the intrahepatic parenchymal tract → expandable **PTFE-covered stent-graft** lines the tract from portal vein entry to hepatic vein ostium
 - **Stent must cover the hepatic vein up to its ostium into the IVC** to prevent dysfunction; the uncovered portion sits in the portal vein
 - **Bare metallic stents are no longer used** — higher stenosis/occlusion than PTFE-covered; PTFE also associates with decreased bleeding and improved survival
@@ -219,7 +219,7 @@ Priority research areas named by [[aasld-2024-tips]]: optimal intraprocedural PS
 
 ## See Also
 
-[[portal-hypertension]], [[variceal-upper-gi-bleeding]], [[ascites]], [[hepatic-encephalopathy]], [[cirrhosis]], [[portal-vein-thrombosis]], [[budd-chiari-syndrome]], [[rifaximin]], [[liver-transplantation]], [[upper-endoscopy]], [[endoscopic-ultrasound]], [[acute-on-chronic-liver-failure]], [[aki-in-cirrhosis]], [[cirrhosis-hemostasis]], [[hepatopulmonary-syndrome-portopulmonary-hypertension]], [[hepatic-cysts]], [[nafld-masld]], [[hepatic-venous-pressure-gradient]], [[interventional-eus-vascular]], [[alcohol-associated-liver-disease]], [[chronic-hepatitis-b]]
+[[portal-hypertension]], [[variceal-upper-gi-bleeding]], [[ascites]], [[hepatic-encephalopathy]], [[cirrhosis]], [[portal-vein-thrombosis]], [[budd-chiari-syndrome]], [[rifaximin]], [[liver-transplantation]], [[upper-endoscopy]], [[endoscopic-ultrasound]], [[acute-on-chronic-liver-failure]], [[aki-in-cirrhosis]], [[cirrhosis-hemostasis]], [[hepatopulmonary-syndrome-portopulmonary-hypertension]], [[hepatic-cysts]], [[nafld-masld]], [[hepatic-venous-pressure-gradient]], [[interventional-eus-vascular]], [[alcohol-associated-liver-disease]], [[chronic-hepatitis-b]], [[endoscopy-sedation]]
 
 ---
 

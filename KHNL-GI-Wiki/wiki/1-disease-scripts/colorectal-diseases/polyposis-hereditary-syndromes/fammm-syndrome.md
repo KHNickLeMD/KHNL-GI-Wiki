@@ -34,13 +34,17 @@ sources: [asge-2022-pancreatic-cancer-screening, acg-2015-hereditary-gi-cancer]
 
 | Syndrome | RR for pancreatic cancer |
 |---|---|
-| [[hereditary-pancreatitis\|Hereditary pancreatitis]] | 53-fold |
-| [[peutz-jeghers-syndrome\|Peutz-Jeghers syndrome]] | 132-fold |
+| [[peutz-jeghers-syndrome\|Peutz-Jeghers syndrome]] (STK11) | Up to 132-fold |
+| [[hereditary-pancreatitis\|Hereditary pancreatitis]] (PRSS1) | 53-fold |
 | **FAMMM (CDKN2A)** | **13–39-fold** |
-| [[lynch-syndrome\|Lynch syndrome]] | 9–11-fold |
-| [[familial-adenomatous-polyposis\|FAP]] | 5-fold |
+| [[familial-pancreatic-cancer\|FPC]] — **≥3 affected FDRs** | 17–32-fold |
+| [[lynch-syndrome\|Lynch syndrome]] (MLH1/MSH2/MSH6/PMS2) | 9–11-fold |
 | [[brca-pathogenic-variants\|BRCA2]] | 3–9-fold |
-| ATM | ~3-fold |
+| [[familial-pancreatic-cancer\|FPC]] — **1 or 2 affected FDRs** | 4–7-fold |
+| [[familial-adenomatous-polyposis\|FAP]] (APC) | 5-fold |
+| ATM (ataxia–telangiectasia) | 3-fold |
+| [[brca-pathogenic-variants\|BRCA1]] | 2-fold |
+| PALB2 (Fanconi anemia, breast CA) · p53 (Li–Fraumeni) | **Unknown** |
 
 - RR ≥10 places FAMMM in the **very-high-risk** tier, which is why screening starts **2 standard deviations** below the mean age of pancreatic cancer diagnosis (vs 1 SD for lower-risk conditions). [[asge-2022-pancreatic-cancer-screening]]
 

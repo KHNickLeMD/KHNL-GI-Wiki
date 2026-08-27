@@ -3,8 +3,8 @@ title: "Peptic Ulcer Disease"
 category: disease-script
 tags: [pud, peptic-ulcer, h-pylori, nsaid, upper-gi-bleeding, gastric-ulcer, duodenal-ulcer]
 created: 2026-05-19
-updated: 2026-08-14
-sources: [acg-2021-ugib, asge-2010-pud, aga-2024-pcab]
+updated: 2026-08-27
+sources: [acg-2021-ugib, asge-2010-pud, aga-2024-pcab, acg-2024-hp-treatment]
 ---
 
 ## Contents
@@ -36,7 +36,7 @@ sources: [acg-2021-ugib, asge-2010-pud, aga-2024-pcab]
 
 *Workup: see [[dyspepsia]].*
 
-- [[gastric-adenocarcinoma|Gastric adenocarcinoma]] (esp non-healing GU), gastric lymphoma (MALT/DLBCL), erosive gastritis, functional dyspepsia, [[gastroparesis]], biliary pain
+- [[gastric-adenocarcinoma|Gastric adenocarcinoma]] (esp non-healing GU), [[gastric-malt-lymphoma|gastric lymphoma (MALT/DLBCL)]], erosive gastritis, functional dyspepsia, [[gastroparesis]], biliary pain, [[atrophic-gastritis|atrophic gastritis]] / [[helicobacter-pylori-infection|H. pylori]] gastritis without ulcer
 
 ## Diagnostics
 
@@ -44,7 +44,7 @@ sources: [acg-2021-ugib, asge-2010-pud, aga-2024-pcab]
 - **False-negative index biopsies occur in 2%–5%** — so an endoscopically suspicious GU warrants surveillance EGD and repeat biopsy **even when the index biopsy was benign**
 - **Surveillance EGD for GU** that remains symptomatic, lacks a defined etiology, or was not biopsied at the index EGD; **any ulcer unhealed after 8–12 weeks of medical therapy should be biopsied** [[asge-2010-pud]]
 - **DU:** routine biopsy *not* recommended (extremely unlikely to be malignant); no EGD needed for benign-appearing, uncomplicated DU seen on imaging [[asge-2010-pud]]
-- **Test for [[helicobacter-pylori-infection|H. pylori]] in all PUD** — endoscopic options are biopsy for histology, culture, or rapid urease test [[asge-2010-pud]]
+- **Test for [[helicobacter-pylori-infection|H. pylori]] in all PUD** — endoscopic options are biopsy for histology, culture, or rapid urease test [[asge-2010-pud]]. **[[acg-2024-hp-treatment|ACG 2024]] Table 4 makes the indication "peptic ulcer disease: prior history *or* active disease"** — a healed or historical ulcer still warrants testing, and treatment is offered to anyone positive by a **non-serological** test. PUD is also the worked example of a **high pre-test probability** in which serology remains acceptable
 - Consider gastrin-hypersecretory states (Zollinger-Ellison) among the causes of persistent non-healing PUD; surgical consultation may be considered [[asge-2010-pud]]
 
 ## Therapeutics
@@ -52,7 +52,7 @@ sources: [acg-2021-ugib, asge-2010-pud, aga-2024-pcab]
 - **Ulcer healing:** [[proton-pump-inhibitors|PPI]] acid suppression; ASGE frames non-healing as ulcer persisting after **8–12 weeks** of antisecretory therapy [[asge-2010-pud]]
 - H. pylori eradication if positive (see [[helicobacter-pylori-infection]] for regimens)
 - Discontinue NSAIDs; if continued NSAID needed, co-prescribe PPI; maintain antisecretory therapy when aspirin must be continued [[asge-2010-pud]]
-- **Acute bleeding — high-dose PPI after successful endoscopic hemostasis:** continuously **or intermittently for 3 days** (ACG 2021 Rec 13, **Strong**). *High dose* = **≥80 mg daily for at least 3 days**; the continuous regimen studied is an **80-mg bolus followed by 8 mg/hr infusion**, and intermittent regimens studied include **40 mg orally b.i.d., 20 mg orally q6h, and an 80-mg bolus followed by 40 mg q8h or q12h** — meta-analysis found no difference in treatment effect between continuous and intermittent [[acg-2021-ugib]]
+- **Acute bleeding — high-dose PPI after successful endoscopic hemostasis:** continuously **or intermittently for 3 days** (ACG 2021 Rec 13, **Strong**). *High dose* = **≥80 mg daily for at least 3 days**; the continuous regimen studied is an **80-mg bolus followed by 8 mg/hr infusion**, and the intermittent regimens in the RCTs supporting this statement were **40 mg orally b.i.d., 20 mg orally q6h, and an 80-mg bolus followed by 40 mg q12h IV** — meta-analysis found no difference in treatment effect between continuous and intermittent [[acg-2021-ugib]]
 - Acute bleeding: endoscopic hemostasis per Forrest class; perform EGD *early* in hospitalization; repeat endoscopic therapy for rebleeding before surgery/IR — rebleeding after initial endotherapy is managed with repeat endotherapy plus high-dose PPI [[asge-2010-pud]]
 - **Gastric outlet obstruction:** EGD to confirm and exclude malignancy; endoscopic balloon dilation for *benign* GOO (67–83% short-term relief) but high restenosis (up to 84%), ~51% ultimately need surgery, perforation 4–7%; >2 dilations predicts endoscopic failure [[asge-2010-pud]]
 - **No endoscopy if acute perforation**; endoscopy has no therapeutic role in penetrating ulcers [[asge-2010-pud]]
@@ -63,7 +63,7 @@ sources: [acg-2021-ugib, asge-2010-pud, aga-2024-pcab]
 
 ## See Also
 
-[[helicobacter-pylori-infection]], [[upper-gi-bleeding]], [[gastric-adenocarcinoma]], [[dyspepsia]], [[gastroparesis]], [[proton-pump-inhibitors]], [[vonoprazan]], [[potassium-competitive-acid-blockers]], [[upper-endoscopy]]
+[[helicobacter-pylori-infection]], [[upper-gi-bleeding]], [[gastric-adenocarcinoma]], [[gastric-malt-lymphoma]], [[atrophic-gastritis]], [[dyspepsia]], [[gastroparesis]], [[proton-pump-inhibitors]], [[vonoprazan]], [[potassium-competitive-acid-blockers]], [[bismuth-quadruple-therapy]], [[upper-endoscopy]]
 
 ---
 
@@ -72,3 +72,4 @@ sources: [acg-2021-ugib, asge-2010-pud, aga-2024-pcab]
 1. [[acg-2021-ugib|ACG 2021: Upper Gastrointestinal and Ulcer Bleeding]]
 2. [[asge-2010-pud|ASGE Guideline: The Role of Endoscopy in the Management of Patients With Peptic Ulcer Disease (2010)]]
 3. [[aga-2024-pcab|AGA Clinical Practice Update on Integrating Potassium-Competitive Acid Blockers Into Clinical Practice (2024)]]
+4. [[acg-2024-hp-treatment|ACG Clinical Guideline: Treatment of Helicobacter pylori Infection (2024)]]

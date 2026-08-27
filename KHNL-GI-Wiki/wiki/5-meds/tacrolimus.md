@@ -3,7 +3,7 @@ title: "Tacrolimus"
 category: med
 tags: [tacrolimus, fk506, calcineurin-inhibitor, immunosuppression, transplant, liver-transplant, nephrotoxicity, diabetes, extended-release]
 created: 2026-05-19
-updated: 2026-08-26
+updated: 2026-08-27
 sources: [aasld-2012-liver-transplant-long-term, aasld-ast-2025-liver-transplant-graft-complications]
 ---
 
@@ -68,7 +68,7 @@ Intervals below are [[aasld-2012-liver-transplant-long-term]] (Recs 27–28, Tab
 | **HbA1c** | **Every 3 months** — intervene at **≥7.0%** |
 | Microalbuminuria; retinopathy screening (if DM) | Annually |
 
-- **CNI reduction or withdrawal is the appropriate response to CKD** developing after LT (Rec 29, grade 1 level A) — see [[calcineurin-inhibitors]] for the minimization ladder.
+- **CNI reduction or withdrawal is the appropriate response to CKD** developing after LT — [[aasld-2012-liver-transplant-long-term]] **Rec 29, grade 1 level A** (*not* the AASLD/AST 2025 Rec 29 cited above under Monotherapy; the two guidelines number independently). See [[calcineurin-inhibitors]] for the minimization ladder.
 
 ## Special Populations
 

@@ -3,7 +3,7 @@ title: "MUTYH-Associated Polyposis"
 category: disease-script
 tags: [map, mutyh, polyposis, hereditary-crc, colorectal-cancer, recessive-polyposis, afap]
 created: 2026-05-19
-updated: 2026-08-26
+updated: 2026-08-27
 sources: [acg-2015-hereditary-gi-cancer, asge-2020-fap]
 ---
 
@@ -30,7 +30,7 @@ sources: [acg-2015-hereditary-gi-cancer, asge-2020-fap]
 
 ## Differential Diagnosis
 
-*MAP is managed like attenuated [[familial-adenomatous-polyposis|FAP]]; see that page for full ADDT content.*
+*Workup: see [[colorectal-polyposis]]. MAP is managed like attenuated [[familial-adenomatous-polyposis|FAP]]; see that page for full ADDT content.*
 
 - **Classic FAP / attenuated FAP (AFAP)** — APC germline mutation; autosomal **dominant** (vs MAP's autosomal recessive inheritance); overlapping 20–99 adenoma phenotype in AFAP
 - **[[lynch-syndrome]]** — MMR gene mutations; typically fewer polyps; MSI-high tumors
@@ -51,6 +51,8 @@ Surveillance mirrors AFAP (start age / interval):
 > **Contradiction (surfaced):** [[acg-2015-hereditary-gi-cancer|ACG 2015]] Table 10 starts colon surveillance in MAP at **25–30**; [[asge-2020-fap|ASGE 2020]] Table 3 starts it at **18–20**. Same tier → the newer ASGE age is asserted here.
 
 - Genetic testing for suspected adenomatous polyposis should include **both APC and MUTYH** analysis (a negative APC test alone does not exclude polyposis).
+- **Age to test an at-risk relative: 18–20 years** *(ASGE 2020 Rec 2)* — deliberately deferred out of childhood so the individual can make their own informed decision, since MAP's onset and its screening both begin in adulthood (contrast **FAP, tested at 10–12**).
+- Once a proband is confirmed to have MAP, **screen his or her relatives for MUTYH mutations** [[asge-2020-fap]].
 - **When to send MUTYH specifically** [[asge-2020-fap]] — any one of: ≥20 colorectal adenomas over multiple colonoscopies; known family history of MAP; ≥10 adenomas on a single colonoscopy; or [[serrated-polyposis-syndrome|SPS]] criteria met with at least some adenomas present.
 - **Monoallelic carriers:** minimal or no excess risk, and ACG states there is no consensus on intensified screening. If a monoallelic carrier also has an **FDR with CRC**, ASGE advises [[colonoscopy]] from **age 40, or 10 y before that relative's CRC diagnosis, every 5 y**; with **no** family history the interval is listed as unknown.
 
@@ -58,12 +60,7 @@ Surveillance mirrors AFAP (start age / interval):
 
 ## Therapeutics
 
-**When to operate — [[acg-2015-hereditary-gi-cancer]] Rec 9** *(Strong, low)*; identical criteria for FAP, AFAP, and MAP:
-
-| | Indication |
-|---|---|
-| **Absolute** (immediate colectomy) | Documented or suspected cancer · significant symptoms |
-| **Relative** | Multiple adenomas **>6 mm** · a significant **increase in adenoma number** · inability to adequately survey the colon because of multiple diminutive polyps |
+**When to operate:** [[acg-2015-hereditary-gi-cancer|ACG 2015]] Rec 9 *(Strong, low)* gives **identical absolute and relative indications for FAP, AFAP, and MAP** — the criteria table lives on [[familial-adenomatous-polyposis]] and is not repeated here.
 
 - **Colectomy + IRA** when polyps become endoscopically uncontrollable; **restorative proctocolectomy + IPAA** if the rectum is substantially involved. IRA may be the better option for MAP patients with relative rectal sparing.
 - **Postsurgical surveillance** *(Strong, low)*: yearly endoscopy of the rectum or ileal pouch; examine an ileostomy every 2 years.
@@ -73,7 +70,7 @@ Surveillance mirrors AFAP (start age / interval):
 
 ## See Also
 
-[[familial-adenomatous-polyposis]], [[lynch-syndrome]], [[serrated-polyposis-syndrome]], [[colorectal-cancer]], [[colonoscopy]], [[upper-endoscopy]]
+[[colorectal-polyposis]], [[familial-adenomatous-polyposis]], [[lynch-syndrome]], [[serrated-polyposis-syndrome]], [[hereditary-mixed-polyposis-syndrome]], [[colorectal-cancer]], [[colorectal-cancer-screening]], [[colonoscopy]], [[upper-endoscopy]], [[nonampullary-duodenal-adenoma]], [[polypectomy]]
 
 ---
 

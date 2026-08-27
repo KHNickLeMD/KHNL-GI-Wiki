@@ -3,7 +3,7 @@ title: "Resmetirom (Rezdiffra)"
 category: med
 tags: [resmetirom, rezdiffra, thr-beta, masld, mash, nash, fibrosis, pharmacotherapy, hpb, liver]
 created: 2026-05-31
-updated: 2026-08-26
+updated: 2026-08-27
 sources: [aasld-2024-resmetirom, aasld-2023-nafld]
 ---
 
@@ -23,12 +23,18 @@ sources: [aasld-2024-resmetirom, aasld-2023-nafld]
 
 ## Not recommended in
 
-Compensated or decompensated [[cirrhosis]]; uncontrolled active liver disease ([[autoimmune-hepatitis]], [[primary-biliary-cholangitis]]); alcohol >20 g/d (♀) / >30 g/d (♂); untreated thyroid dysfunction (optimize first; baseline TSH required); symptomatic gallstone disease.
+Compensated or decompensated [[cirrhosis]]; uncontrolled active liver disease ([[autoimmune-hepatitis]], [[primary-biliary-cholangitis]]); alcohol >20 g/d (♀) / >30 g/d (♂); untreated thyroid dysfunction — do not start until thyroid function is optimized (baseline thyroid assessment required); symptomatic gallstone-related conditions such as [[acute-cholecystitis|acute cholecystitis]].
+
+- **"Untreated hypothyroidism," as operationalized in MAESTRO-NASH exclusion criteria:** TSH **>10 mIU/L without symptoms**, or TSH **>7 mIU/L with symptoms**; active hyperthyroidism likewise excluded.
 
 ## Monitoring & adverse events
 
-- Hepatic function panel at baseline, 3, 6, 12 months; discontinue for hepatotoxicity per [[drug-induced-liver-injury]] thresholds.
-- Common AEs: diarrhea (24–34%), nausea (12–22%, onset usually <12 wk); increased symptomatic gallstones; one severe DILI/AIH-like case reported. Routine thyroid monitoring not needed if baseline normal. ↑ SHBG (↑ total testosterone in men, free unchanged).
+- Hepatic function panel (total protein, albumin, ALP, total + direct bilirubin, ALT, AST) at **baseline and periodically — e.g. 3, 6, 12 months**. Beyond 12 months there are insufficient data for a recommendation, but continued panels **every 6 months** are suggested.
+- **Stop resmetirom** for clinically significant hepatotoxicity, defined per the AASLD [[drug-induced-liver-injury|DILI]] guidance as **any one** of:
+  - **AST or ALT >5× ULN**, *or* **ALP >2× ULN** (or >2× pretreatment baseline if baseline abnormal) — **on 2 occasions**
+  - **Total bilirubin >2.5 mg/dL** *plus* elevated AST, ALT, or ALP
+  - **INR >1.5** *plus* elevated AST, ALT, or ALP
+- Common AEs: diarrhea (24–34%), nausea (12–22%, onset usually <12 wk); increased symptomatic gallstones; one severe DILI/AIH-like case reported. Routine thyroid monitoring not needed if baseline normal; **on thyroid hormone replacement or known thyroid disease, monitor TSH + free T4** (resmetirom caused mild reductions in both, most marked in replacement-treated patients). ↑ SHBG (↑ total testosterone in men, free unchanged).
 - **Efficacy/futility at 12 mo:** repeat candidacy NIT — VCTE improvement ≥25% or MRE ≥20% = continue; ALT rise or NILDA fibrosis progression → consider stopping; MRI-PDFF reduction <30% at 52 wk = futility signal (CAP not useful). Fibrosis *stabilization* may still benefit advanced fibrosis.
 
 ## Notes
@@ -40,7 +46,7 @@ Compensated or decompensated [[cirrhosis]]; uncontrolled active liver disease ([
 
 ## See Also
 
-[[nafld-masld]], [[semaglutide]], [[noninvasive-liver-disease-assessment]], [[liver-stiffness-measurement]], [[drug-induced-liver-injury]], [[liver-biopsy]], [[cirrhosis]], [[autoimmune-hepatitis]], [[primary-biliary-cholangitis]]
+[[nafld-masld]], [[semaglutide]], [[glp-1-receptor-agonists]], [[noninvasive-liver-disease-assessment]], [[liver-stiffness-measurement]], [[drug-induced-liver-injury]], [[liver-biopsy]], [[cirrhosis]], [[autoimmune-hepatitis]], [[primary-biliary-cholangitis]], [[acute-cholecystitis]]
 
 ---
 

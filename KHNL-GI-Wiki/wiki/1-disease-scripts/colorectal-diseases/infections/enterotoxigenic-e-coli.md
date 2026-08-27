@@ -3,7 +3,7 @@ title: "Enterotoxigenic Escherichia coli (ETEC)"
 category: disease-script
 tags: [etec, e-coli, bacterial-gastroenteritis, travelers-diarrhea, diarrhea, heat-labile-toxin, heat-stable-toxin]
 created: 2026-05-19
-updated: 2026-08-13
+updated: 2026-08-27
 sources: [acg-2016-acute-diarrhea]
 ---
 
@@ -13,8 +13,8 @@ Enterotoxigenic *E. coli* (ETEC) is the most common cause of traveler's diarrhea
 
 ### Establishing the Diagnosis
 
-- Watery, non-bloody diarrhea with cramps and nausea, typically **no fever**, self-limited in 3–5 days, after travel to an endemic region.
-- Most common bacterial cause of TD in the Western Hemisphere.
+- Watery, non-bloody diarrhea with cramps and nausea, typically **no fever**, after travel to an endemic region.
+- **Diarrheagenic *E. coli* are the most common bacterial pathogens in the Western Hemisphere.** [[acg-2016-acute-diarrhea]]
 - Routine stool testing not required for uncomplicated TD; diarrheagenic *E. coli* pathotypes require specialized/molecular assays if pursued.
 
 ### Severity Assessment
@@ -38,21 +38,23 @@ Enterotoxigenic *E. coli* (ETEC) is the most common cause of traveler's diarrhea
 ## Diagnostics
 
 - Clinical diagnosis in the TD setting; multiplex GI PCR can identify diarrheagenic *E. coli* if testing pursued.
-- High infectious inoculum (≈10⁶ organisms) — contrasts with the very low inoculum of *[[shigellosis|Shigella]]*.
+- **High inoculum requirement** — this is why hand hygiene helps less against ETEC than against the low-inoculum pathogens *[[shigellosis|Shigella]]* and [[norovirus]]. [[acg-2016-acute-diarrhea]]
 
 ---
 
 ## Therapeutics
 
-- **Antibiotics:** fluoroquinolone or azithromycin for moderate-to-severe TD — single dose or 3-day course; agent-by-agent doses are in the ACG Table 4 TD regimens on [[acute-diarrhea]]. **Loperamide adjunct recommended with antibiotics** (ACG 2016 Recommendation 8, Strong/Moderate). [[acg-2016-acute-diarrhea]]
-- **[[rifaximin|Rifaximin]]:** effective against non-invasive diarrheagenic *E. coli* including ETEC — 200 mg TID × 3 days. Appropriate for ETEC TD but **NOT** for invasive pathogens.
+- **Antibiotics:** fluoroquinolone or azithromycin for moderate-to-severe TD — single dose or 3-day course; agent-by-agent doses are in the ACG Table 4 TD regimens on [[acute-diarrhea]]. If a single dose has not resolved symptoms by **24 h**, complete a 3-day course. [[acg-2016-acute-diarrhea]]
+  - **Azithromycin is the empiric first line if *resistant ETEC* is suspected** (as it is in Southeast Asia and India for [[campylobacter-infection|Campylobacter]]). [[acg-2016-acute-diarrhea]] (Table 4, footnote c)
+- **[[rifaximin|Rifaximin]] 200 mg PO three times daily × 3 days** — effective against non-invasive diarrheagenic *E. coli* including ETEC. Appropriate for ETEC TD, but **do NOT use if there is clinical suspicion for [[campylobacter-infection|Campylobacter]], [[salmonella-infection|Salmonella]], [[shigellosis|Shigella]], or other causes of invasive diarrhea.** [[acg-2016-acute-diarrhea]] (Table 4, footnote e)
+- **[[loperamide|Loperamide]] adjunct is recommended with antibiotics** for TD — decreases duration and increases chance of cure *(strong recommendation, moderate level of evidence)*. Dosing when combined with an antibiotic regimen: **4 mg first dose, then 2 mg after each loose stool, not to exceed 16 mg in 24 h.** [[acg-2016-acute-diarrhea]] (Rec 8; Table 4 footnote a)
 - Oral rehydration is the foundation of supportive care.
 
 ---
 
 ## See Also
 
-[[acute-diarrhea]], [[rifaximin]], [[loperamide]], [[shigellosis]], [[campylobacter-infection]], [[salmonella-infection]]
+[[acute-diarrhea]], [[rifaximin]], [[loperamide]], [[shigellosis]], [[campylobacter-infection]], [[salmonella-infection]], [[norovirus]], [[postinfectious-ibs]]
 
 ---
 

@@ -3,7 +3,7 @@ title: "Radiofrequency Ablation (RFA)"
 category: advanced-procedure
 tags: [barretts-esophagus, rfa, ablation, eet, dysplasia, radiation-proctopathy, biliary, foregut]
 created: 2026-06-04
-updated: 2026-08-12
+updated: 2026-08-27
 sources: [asge-2018-barretts-eet, acg-2022-barretts, aga-2024-barretts-eet, asge-2019-radiation-proctopathy, acg-2023-biliary-strictures, aasld-2023-hcc]
 ---
 
@@ -44,7 +44,7 @@ Radiofrequency ablation (RFA) delivers controlled thermal energy to destroy a th
   - **Balloon-based (circumferential)** — long or circumferential segments.
   - **Focal** — short segments, tongues, islands, residual disease at follow-up sessions.
 - **Sessions:** most patients reach **complete eradication of intestinal metaplasia (CE-IM)** in **~3 ablation sessions** ([[asge-2018-barretts-eet]]).
-- Ablating the residual flat segment after EMR is what prevents metachronous neoplasia: **16.5%** (EMR + ablation) vs **29.9%** (EMR alone); lack of ablation predicts recurrence (RR 2.5).
+- *Why the flat segment is ablated at all* (metachronous-neoplasia data, ASGE 2018 Rec 5) lives on [[endoscopic-eradication-therapy]] — not repeated here.
 
 ### Intraductal (Biliary) RFA
 
@@ -55,9 +55,8 @@ Radiofrequency ablation (RFA) delivers controlled thermal energy to destroy a th
 
 ## Outcomes
 
-- **LGD:** RFA reduces progression to HGD/[[esophageal-adenocarcinoma|EAC]] vs surveillance — SURF RCT **26.5% → 1.5%** (P<0.001) ([[acg-2022-barretts]]); pooled progression RR **0.14–0.16** ([[asge-2018-barretts-eet]]).
-- **HGD:** progression RR **0.22–0.42** vs surveillance.
-- **Post-CE-IM recurrence** (why surveillance is mandatory): any recurrence **7.5/100 patient-years**; IM **4.8**; dysplasia **2.0**. Most occur in the first 3 years; **75% at the GEJ**, where **~80% are endoscopically invisible** ([[acg-2022-barretts]]). Surveillance intervals live on [[barretts-esophagus]].
+- **BE progression outcomes vs surveillance (LGD and HGD), and EET vs esophagectomy** — see [[endoscopic-eradication-therapy]]; the SURF RCT detail is on [[barretts-esophagus]]. Not repeated here.
+- **Where post-CE-IM recurrence happens** (the part that changes how you scope): **75% at the GEJ**, and **~80% of recurrences are endoscopically invisible** — so biopsy the cardia below the Z line rather than relying on inspection ([[acg-2022-barretts]]). Recurrence *rates* are on [[endoscopic-eradication-therapy]]; surveillance intervals on [[barretts-esophagus]].
 - **Subsquamous ("buried") BE:** random biopsies of normal-appearing neosquamous epithelium yield ~1% recurrence — low ([[acg-2022-barretts]]).
 - **Chronic radiation proctopathy:** effective in available series; no head-to-head superiority over APC (pooled success 87%) or bipolar electrocoagulation (88%) ([[asge-2019-radiation-proctopathy]]).
 
@@ -65,16 +64,9 @@ Radiofrequency ablation (RFA) delivers controlled thermal energy to destroy a th
 
 ## Adverse Events
 
-Pooled EET safety (RFA ± EMR; 37 studies, 9,200 patients — [[asge-2018-barretts-eet]]):
+*The pooled EET safety table (RFA ± EMR; 37 studies, 9,200 patients) has one home — [[endoscopic-eradication-therapy]]. The RFA-specific split is here:*
 
-| Event | Rate (95% CI) |
-|---|---|
-| Any serious adverse event | **8.8%** (6.5–11.9) |
-| **Stricture** (most common) | **5.6%** (4.2–7.4) |
-| Bleeding | 1.0% (0.8–1.3) |
-| Perforation | 0.6% (0.4–0.9) |
-
-- Adverse events are **substantially higher when RFA is combined with EMR** than with RFA alone: **22.2% vs 5%** (RR 4.4; P=.015).
+- **RFA alone 5%** (95% CI 2.9–8.3) vs **EMR + RFA 22.2%** (95% CI 16.4–29.4) — **RR 4.4, P=.015** ([[asge-2018-barretts-eet]]). Adding resection to the ablation, not the ablation itself, drives the adverse-event burden.
 - **Intraductal RFA:** abdominal pain; **hemobilia ~4%** (proximity to hepatic vasculature) ([[acg-2023-biliary-strictures]]).
 - RFA is treated as a **high-bleeding-risk** procedure for periprocedural antithrombotic management — see [[anticoagulation-gi-bleeding]].
 
@@ -84,7 +76,7 @@ Pooled EET safety (RFA ± EMR; 37 studies, 9,200 patients — [[asge-2018-barret
 
 - **Cryotherapy** (spray liquid nitrogen or cryoballoon) — acceptable alternative in BE, especially **RFA-refractory** disease; no RCT vs RFA. CED/CE-IM: 81–88%/57–61% (spray), 76%/72% (cryoballoon) ([[acg-2022-barretts]]).
 - **Argon plasma coagulation (APC)** — the most-used endoscopic modality for radiation proctopathy; note reported **colonic gas explosion** with inadequate bowel prep ([[asge-2019-radiation-proctopathy]]).
-- **Complete EMR of the entire BE segment** — **strongly recommended against** in favor of focal EMR + RFA: far more strictures (OR 4.73), bleeding (OR 6.88), and perforation (OR 7.00) with equivalent eradication ([[asge-2018-barretts-eet]] Rec 6).
+- **Complete EMR of the entire BE segment** — **strongly recommended against** in favor of focal EMR + RFA ([[asge-2018-barretts-eet]] Rec 6); the comparative stricture/bleeding/perforation odds ratios live on [[endoscopic-eradication-therapy]].
 
 ## See Also
 

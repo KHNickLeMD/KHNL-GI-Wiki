@@ -3,24 +3,43 @@ title: "Esophagogastric Junction Outflow Obstruction (EGJOO)"
 category: disease-script
 tags: [egjoo, esophageal-motility, dysphagia, hrm, chicago-classification, foregut]
 created: 2026-07-29
-updated: 2026-08-26
+updated: 2026-08-27
 sources: [aga-2024-poem-advances, chicago-v4-2021-esophageal-dysmotility]
 ---
-# Esophagogastric Junction Outflow Obstruction (EGJOO)
-
 A **manometric finding, not a diagnosis** — impaired EGJ relaxation with preserved (or only partially disordered) peristalsis, distinguishing it from [[achalasia]]. In isolation it should **not** justify any permanent intervention; it has many mimics and requires correlation with symptoms and confirmatory testing.
 
 ## Assessment
 
 ### Establishing the Diagnosis
 
-- **[[chicago-classification-v4|Chicago Classification v4.0]] criteria (on [[high-resolution-manometry|HRM]])** — all three required:
-  - Abnormal **median integrated relaxation pressure (IRP)** in **both supine and upright** positions, **and**
-  - Elevated **intrabolus pressure in ≥20% of supine swallows**, **and**
-  - **Not** meeting criteria for [[achalasia]] (i.e. appreciable peristalsis is present — that preserved peristalsis is what lowers the pre-test probability of true LES dysfunction and is why the upright confirmation is demanded).
+**Two separate bars must be cleared: a *manometric* diagnosis, then a *clinically relevant conclusive* diagnosis.** A manometric EGJOO on its own is, in CCv4.0's words, **always clinically inconclusive**.
+
+**Bar 1 — manometric diagnosis of EGJOO** ([[chicago-classification-v4|Chicago Classification v4.0]], Low GRADE / conditional). **All three** required on [[high-resolution-manometry|HRM]]:
+
+| # | Criterion | Operative threshold |
+|---|---|---|
+| 1 | Elevated **median integrated relaxation pressure (IRP)** in **both** the primary **and** secondary position (i.e. supine **and** upright) | Manufacturer-specific IRP cutoffs — see [[chicago-classification-v4]] |
+| 2 | **≥20% of supine swallows with elevated intrabolus pressure** | Intrabolus pressure threshold = **20 mmHg** for supine wet swallows on the Medtronic system, by the isobaric contour tool (Moderate GRADE, **strong**) |
+| 3 | **Evidence of peristalsis** (i.e. does not meet [[achalasia]] criteria) | Preserved peristalsis is what separates EGJOO from achalasia and is why upright confirmation is demanded |
+
+- **Combination rule — any one abnormality alone is NOT EGJOO.** CCv4.0 calls each of these **inconclusive** for a manometric diagnosis (Low GRADE, **strong**): isolated elevated **supine** IRP; isolated elevated **upright** IRP; isolated elevated **supine intrabolus pressure**. It is the conjunction that makes the diagnosis.
+- **Artifact has a named pattern:** IRP elevated **in the absence** of intrabolus pressurization is likely artifactual, not EGJOO.
+
+**Bar 2 — clinically relevant conclusive diagnosis of EGJOO** (Moderate GRADE, conditional). Requires **all three**:
+
+1. A manometric diagnosis of EGJOO (Bar 1), **and**
+2. **Clinically relevant symptoms** — defined by CCv4.0 as **dysphagia and/or non-cardiac chest pain**, **and**
+3. **≥1 supportive investigation showing obstruction** — timed barium esophagram (**preferably with a tablet**) and/or [[flip-panometry|FLIP]]
+
 - **Sub-classify by the accompanying peristaltic pattern** (CCv4.0) — it names the coexisting disorder and shapes therapy: EGJOO **with spastic features** (≥20% premature swallows), **with hypercontractile features**, **with ineffective motility**, or **with no evidence of disordered peristalsis**.
-- Not pathognomonic for any single disease; CCv4.0 explicitly labels EGJOO a manometric pattern of **unclear clinical relevance** — a conclusive diagnosis requires correlating manometry with clinically relevant symptoms **and/or** supportive testing.
-- **Confirmatory / supportive testing:** [[flip-panometry|FLIP]] (impedance planimetry), timed barium esophagram, and [[ambulatory-reflux-monitoring|pH study]] — to exclude [[gerd|GERD]] and document symptomatic delayed esophageal emptying.
+- Also useful but **not required**: outflow obstruction and esophageal pressurization during the rapid drink challenge (RDC) are supportive of a manometric EGJOO.
+- An [[ambulatory-reflux-monitoring|pH study]] is used to exclude [[gerd|GERD]] as the driver rather than to confirm EGJOO.
+
+### Severity Assessment
+
+- **No graded severity scale exists** — CCv4.0 stratifies EGJOO by *diagnostic certainty* (inconclusive → manometric → clinically relevant conclusive), not by severity.
+- The nearest severity surrogate is **objective obstruction on supportive testing**: retained barium on a tablet TBE and reduced EGJ distensibility on [[flip-panometry|FLIP]]. These, not the IRP value, are what justify escalating from observation to intervention.
+- Sub-classification by the **accompanying peristaltic pattern** (above) does more work than any severity grade, because it names the coexisting disorder.
 
 ## Differential Diagnosis
 
@@ -36,7 +55,7 @@ EGJOO is associated with a multitude of alternative causes that must be excluded
 
 - **[[high-resolution-manometry|HRM]]** — establishes the manometric pattern (see criteria above).
 - **[[upper-endoscopy|Upper endoscopy]]** — exclude mechanical obstruction, mucosal disease, submucosal mass; retroflexed exam.
-- **Timed barium esophagram** — document delayed emptying / EGJ narrowing (13-mm barium tablet elicits subtle narrowing).
+- **Timed barium esophagram** — document delayed emptying / EGJ narrowing; CCv4.0 prefers the **tablet** protocol, which elicits subtle narrowing a liquid-only study misses.
 - **[[flip-panometry|FLIP]]** — reduced EGJ distensibility supports clinically relevant obstruction.
 - **pH study** — exclude GERD as a driver.
 

@@ -3,7 +3,7 @@ title: "Gastroparesis"
 category: disease-script
 tags: [gastroparesis, gastric-motility, prokinetics, g-poem, gastric-emptying, foregut]
 created: 2026-05-15
-updated: 2026-08-14
+updated: 2026-08-27
 sources: [acg-2022-gastroparesis, aga-2025-gastroparesis, surjanhata-2025-constipation-gastroparesis]
 ---
 
@@ -102,7 +102,7 @@ sources: [acg-2022-gastroparesis, aga-2025-gastroparesis, surjanhata-2025-consti
 
 - **Meal:** 255 kcal, 2% fat Egg Beaters (solid, radiolabeled with Tc-99m) — *ACG 2022 states 255 kcal; AGA 2025 states 250 kcal for the same meal*
 - **Imaging:** at 0, 1, 2, and 4 hours postprandially
-- **Threshold for delayed GE:** >10% retention at 4 hours
+- **Threshold for delayed GE:** **>10% retention at 4 hours** — this is the *only* retention cutoff defined by either guideline. **Neither [[acg-2022-gastroparesis|ACG 2022]] nor [[aga-2025-gastroparesis|AGA 2025]] states a 2-hour retention cutoff**, so a report giving only a 2-hour value cannot diagnose or exclude GP; obtain the 4-hour value
 - **Early stop rule:** study may end at 3 hours if >90% of meal has emptied
 - **Minimum protocol:** solid meal + at least 3 hours of imaging (ACG 2022: GRADE Strong, Moderate evidence). **AGA 2025 is stricter** — it recommends against studies shorter than 4 hours; follow AGA 2025 as the newer guideline
 

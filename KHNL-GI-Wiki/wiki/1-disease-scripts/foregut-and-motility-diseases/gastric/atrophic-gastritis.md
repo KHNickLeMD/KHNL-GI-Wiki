@@ -11,7 +11,7 @@ tags:
   - gastric-cancer
   - neuroendocrine-tumor
 created: 2026-05-15
-updated: 2026-08-14
+updated: 2026-08-27
 sources:
   - aga-2021-atrophic-gastritis
   - acg-2025-gastric-premalignant
@@ -69,7 +69,7 @@ AG severity and extent determine gastric cancer risk. Two validated staging syst
 - Magnitude of the gradient (Singapore GCEP cohort, largest published GPMC cohort): early gastric neoplasia **543.8 per 10,000 person-years** with OLGIM III/IV vs **21.5** with OLGIM I
 - Adoption: widespread in Europe and some Asian/Latin American centers; only a limited number of US centers stage routinely
 
-> **Gap — the stage-assignment matrix is not on this page.** The compartment scores (0–3), the stage range (0→IV), and the risk bands above are all sourced, but the grid that maps *antrum score × corpus score → stage* exists in [[acg-2025-gastric-premalignant]] only as **Figure 4** (an image, p.14) and could not be captured this pass. Until it is embedded, a reader can interpret a reported OLGA/OLGIM stage from this page but **cannot assign one** from raw compartment scores.
+> **Gap — the stage-assignment matrix is not on this page.** The compartment scores (0–3), the stage range (0→IV), and the risk bands above are all sourced, but the grid that maps *antrum score × corpus score → stage* exists **only as an image** in both ingested sources — [[acg-2025-gastric-premalignant]] **Figure 4** (p.14) and [[aga-2021-atrophic-gastritis]] **Supplementary Figure 1A/B**. Neither prints it as text, and image extraction is still blocked in this environment (PyMuPDF absent; `pdftoppm`/`pdfimages` unavailable — only `pdftotext` runs), so it could not be captured or recreated this pass. **Do not reconstruct the grid from memory.** Until it is embedded, a reader can interpret a reported OLGA/OLGIM stage from this page but **cannot assign one** from raw compartment scores.
 
 **Kimura-Takemoto endoscopic classification** — grades the extent of the **atrophic border** [[aga-2021-atrophic-gastritis]]:
 

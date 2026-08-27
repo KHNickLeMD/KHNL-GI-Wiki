@@ -3,7 +3,7 @@ title: "Hemorrhoids"
 category: disease-script
 tags: [hemorrhoids, anorectal, rectal-bleeding, rubber-band-ligation, hemorrhoidectomy, colorectal]
 created: 2026-05-16
-updated: 2026-08-14
+updated: 2026-08-27
 sources: [acg-2021-anorectal-disorders, asge-2010-anorectal-disorders, aga-2026-hemorrhoids]
 ---
 
@@ -93,6 +93,8 @@ The diagnosis of symptomatic internal hemorrhoids requires exclusion of other so
 | **Doppler-guided hemorrhoidal artery ligation (DGHAL)** | Grade 3 | Conditional/Very Low — similar outcomes to hemorrhoidectomy | Minimally invasive; no tissue excision; Doppler identifies feeding arteries; used in Europe more than US |
 
 **Avoid RBL in:** acute perianal [[crohns-disease|Crohn's disease]]; immunocompromise (high sepsis risk); patients on full anticoagulation.
+
+**Pelvic sepsis — the timing that decides the workup:** it is the most feared complication of banding and can develop **any time between 3 and 10 days** after the procedure. Counsel every banded patient at consent to present to the ED within that window for fever, worsening pain, or urinary retention. *(AGA 2026)*
 
 ### Thrombosed External Hemorrhoids
 

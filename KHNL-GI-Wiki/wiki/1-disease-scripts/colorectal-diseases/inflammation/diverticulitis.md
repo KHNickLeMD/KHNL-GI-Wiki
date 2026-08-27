@@ -3,7 +3,7 @@ title: "Colonic Diverticulitis"
 category: disease-script
 tags: [diverticulitis, diverticular-disease, colorectal, antibiotics, hinchey, scad, sudd]
 created: 2026-07-23
-updated: 2026-08-26
+updated: 2026-08-27
 sources: [acg-2026-diverticulitis]
 ---
 
@@ -40,6 +40,7 @@ Inflammation in and around a colonic diverticulum. Lifetime risk ~3% (men) / 5% 
 
 - **Uncomplicated:** localized inflammation without abscess, perforation, stricture, or fistula.
 - **Complicated:** inflammation + **phlegmon, abscess, perforation, peritonitis, stricture, or fistula.** Abscess is the most common complication.
+  - **Risk of complicated disease is highest at the *initial* presentation and falls with each subsequent recurrence** — the empirical basis for abandoning episode-count–driven surgery (see Therapeutics).
 - **High-risk features** predicting progression (~5% of uncomplicated cases complicate within 3 months, most in the first 10 days):
   - Significant comorbidities · symptom duration **>5 days** · vomiting · **CRP >140 mg/L** · fluid collection on imaging · longer segment of colonic inflammation.
 
@@ -61,7 +62,8 @@ Inflammation in and around a colonic diverticulum. Lifetime risk ~3% (men) / 5% 
 **Other presentations:**
 - **Smoldering / chronic diverticulitis** — inflammation persisting weeks to months; partial/complete improvement on antibiotics then relapse shortly after stopping (contrast with recurrent disease, which has inflammation-free intervals). 6% of new diagnoses at 6-month follow-up. Confirm with cross-sectional imaging; some ultimately need segmental resection.
 - **[[segmental-colitis-associated-with-diverticulosis|SCAD]]** — chronic inflammation of diverticula-bearing segments, sparing the rectum; histology can resemble [[ulcerative-colitis]] or [[crohns-disease]]; unclear whether distinct entity or [[inflammatory-bowel-disease|IBD]] manifestation.
-- **SUDD** (symptomatic uncomplicated diverticular disease) — controversial: [[abdominal-bloating-and-distention|bloating]], chronic/recurrent abdominal pain, or altered bowel habits with diverticulosis, without systemic inflammation or overt diverticulitis. (Diverticulosis itself is **not** associated with chronic GI symptoms in US population studies.)
+- **SUDD** (symptomatic uncomplicated diverticular disease) — controversial: [[abdominal-bloating-and-distention|bloating]], chronic/recurrent abdominal pain, or altered bowel habits (diarrhea or constipation) with diverticulosis, without systemic inflammation or overt diverticulitis. (Diverticulosis itself is **not** associated with chronic GI symptoms in US population studies.)
+- **Diverticulosis** — mucosa and submucosa herniating through the muscularis propria at the points where the vasa recta penetrate the wall. **Among people with diverticulosis, only ~1%–4% develop diverticulitis over 7 years of follow-up** — an incidental finding, not a disease.
 
 ---
 
@@ -72,7 +74,7 @@ Inflammation in and around a colonic diverticulum. Lifetime risk ~3% (men) / 5% 
 - **[[colorectal-cancer]]** — can be misdiagnosed as diverticulitis; the reason post-recovery colonoscopy matters (see Therapeutics). Cancers cluster in the same colonic region as the presumed diverticulitis.
 - [[ulcerative-colitis]] / [[crohns-disease]] — especially when [[segmental-colitis-associated-with-diverticulosis|SCAD]] histology mimics IBD.
 - [[colon-ischemia]], infectious colitis, appendicitis, gynecologic causes (left-sided), [[irritable-bowel-syndrome]].
-- Chronic post-diverticulitis symptoms may reflect a [[disorders-of-gut-brain-interaction|disorder of gut-brain interaction]] rather than active disease.
+- Chronic post-diverticulitis symptoms may reflect a [[disorders-of-gut-brain-interaction|disorder of gut-brain interaction]] rather than active disease — **more than one-third of patients report persistent abdominal pain or altered bowel habits 1–2 years after an episode.** Do not assume recurrent disease without imaging.
 
 ---
 
@@ -105,9 +107,9 @@ Inflammation in and around a colonic diverticulum. Lifetime risk ~3% (men) / 5% 
 ### Post-recovery colonoscopy
 
 - **After COMPLICATED diverticulitis → colonoscopy recommended** (*strong, moderate certainty*) — 6-fold higher odds of colon cancer (OR 5.65) vs uncomplicated.
-- **After UNCOMPLICATED diverticulitis → colonoscopy only if** alarm symptoms (unintentional weight loss, change in bowel habits, [[iron-deficiency-anemia|iron-deficiency anemia]], bloody stools, persistent abdominal pain) **or** not current with [[colorectal-cancer-screening|CRC screening]] (*conditional, low certainty*). Uncomplicated disease carries near–screening-population cancer risk.
+- **After UNCOMPLICATED diverticulitis → colonoscopy only if** alarm symptoms (unintentional weight loss, change in bowel habits, [[iron-deficiency-anemia|iron-deficiency anemia]], bloody stools, persistent abdominal pain) **or** not current with [[colorectal-cancer-screening|CRC screening]] (*conditional, low certainty*). Cancer odds are close to the screening population (**OR 1.57**, 95% CI 0.70–3.51) and advanced neoplasia is actually **less** likely (**OR 0.68**, 0.52–0.90).
 - **Timing: not within 6–8 weeks** of the acute episode (inflammation/edema/luminal narrowing → incomplete/unsafe exam).
-- Overall colon-cancer rate after any diverticulitis: **1.6%** (advanced neoplasia 5.5–6.7%).
+- Overall colon-cancer rate after any diverticulitis: **1.6%** (95% CI 1.1–2.1); advanced neoplasia **5.5–6.7%** (not stratified by severity). Complicated disease: cancer **OR 5.65** (2.95–10.8), advanced neoplasia **OR 3.85** (2.11–7.03) vs uncomplicated; vs a screening population, **OR 3.57** (1.59–8.01). Cancers sit in the **same colonic region** as the presumed diverticulitis — the signature of misdiagnosis.
 
 ### Preventing recurrence
 

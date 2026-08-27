@@ -3,8 +3,8 @@ title: "Polypectomy (Colorectal)"
 category: general-procedure
 tags: [polypectomy, cold-snare, colonoscopy, colorectal, paris-classification, nice-classification, malignant-polyp, submucosal-invasion, haggitt, kikuchi, tumor-budding, lymphovascular-invasion]
 created: 2026-05-07
-updated: 2026-08-26
-sources: [usmstf-2020-endoscopic-removal, asge-2020-endoscopic-removal, usmstf-2020-malignant-colorectal-polyps, aga-2024-tailored-polypectomy]
+updated: 2026-08-27
+sources: [usmstf-2020-endoscopic-removal, asge-2020-endoscopic-removal, usmstf-2020-malignant-colorectal-polyps, aga-2024-tailored-polypectomy, aga-2025-endoscopic-resection-crc]
 ---
 
 # Polypectomy (Colorectal)
@@ -274,7 +274,14 @@ After endoscopic resection reveals a malignant polyp, histologic features determ
 | Resection margin | Tumor-free ≥1 mm (ideally 2 mm) | <1 mm or positive margin |
 | Grade of differentiation | Well or moderate | Poor |
 | Lymphovascular invasion | Absent | Present |
-| Tumor budding | Absent | Present |
+| Tumor budding | **Bd 1** (0–4 buds) | **Bd 2–3** (≥5 buds) — see grading below |
+
+**Tumor budding — definition and grading** (the operative rule behind the "absent/present" shorthand; [[aga-2025-endoscopic-resection-crc]]):
+
+- **Definition:** a single tumor cell, **or a cluster of ≤4 tumor cells**, at the **invasive margin** of the polyp (ITBCC 2016).
+- Graded by **bud count**: **Bd 1 = 0–4** (low), **Bd 2 = 5–9** (intermediate), **Bd 3 = ≥10** (high).
+- In pT1 CRC, **Bd 2 and Bd 3** carry the increased LNM risk and are what USMSTF, JSCCR, and ESGE recognise as the high-risk criterion.
+- ⚠ **Staining methods are not standardised**, so budding grade is the least reproducible of the five criteria — weigh it accordingly.
 
 **Key data:**
 
@@ -349,3 +356,4 @@ After endoscopic resection reveals a malignant polyp, histologic features determ
 2. [[asge-2020-endoscopic-removal|ASGE 2020: Endoscopic Removal of Colorectal Lesions]]
 3. [[usmstf-2020-malignant-colorectal-polyps|USMSTF 2020: Endoscopic Recognition and Management Strategies for Malignant Colorectal Polyps]]
 4. [[aga-2024-tailored-polypectomy|AGA Clinical Practice Update on Appropriate and Tailored Polypectomy: Expert Review (2024)]]
+5. [[aga-2025-endoscopic-resection-crc|AGA Clinical Practice Update on Endoscopic Resection for Early Colorectal Cancer: Commentary (2025)]]

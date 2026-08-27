@@ -3,11 +3,11 @@ title: "Shigellosis"
 category: disease-script
 tags: [shigella, bacterial-gastroenteritis, dysentery, diarrhea, travelers-diarrhea, azithromycin]
 created: 2026-05-19
-updated: 2026-08-13
+updated: 2026-08-27
 sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
 ---
 
-*Shigella* species (*S. sonnei*, *S. flexneri*, *S. dysenteriae*, *S. boydii*) cause classic bacillary dysentery. Extremely low infectious inoculum (10–200 organisms) → high person-to-person transmission. Common cause of traveler's diarrhea and endemic diarrhea in developing regions. [[acg-2016-acute-diarrhea]]
+*Shigella* species (*S. sonnei*, *S. flexneri*, *S. dysenteriae*, *S. boydii*) cause classic bacillary dysentery. With [[norovirus|noroviruses]], *Shigella* strains are the **most contagious enteric pathogens** — low inoculum requirement plus environmental stability — so hand washing should be pursued aggressively wherever it is likely (cruise-ship travel, community or institutional outbreak). Common cause of traveler's diarrhea and endemic diarrhea in developing regions. [[acg-2016-acute-diarrhea]]
 
 ## Assessment
 
@@ -51,18 +51,26 @@ sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
 | First choice (alt) | Ciprofloxacin or ceftriaxone | IDSA Table 6 first-choice alternatives [[idsa-2017-infectious-diarrhea]] |
 | Alternative | TMP-SMX or ampicillin | **Only if susceptible** [[idsa-2017-infectious-diarrhea]] |
 
-- **Duration:** single-dose or 3-day course for most species; *S. dysenteriae* may require 5 days. [[acg-2016-acute-diarrhea]]
+- **Duration — the decision rule** [[acg-2016-acute-diarrhea]]:
+  - For most antibiotics, **single-dose or up to 3 days** is usually sufficient to resolve symptoms.
+  - **A 3-day course is recommended for anyone presenting with fever or dysentery** — i.e. the typical shigellosis presentation.
+  - ***S. dysenteriae* is the named exception: 5 days of therapy appears superior to single-dose or 3-day therapy.**
+  - If a single dose has not resolved symptoms by **24 h**, complete a 3-day course.
 - **Fluoroquinolones:** historically used; increasing resistance → azithromycin preferred. **Do not prescribe a fluoroquinolone if the ciprofloxacin MIC is ≥0.12 µg/mL — even when the laboratory reports the isolate as susceptible.** [[idsa-2017-infectious-diarrhea]] (Table 6)
 - **Empiric therapy is a named exception to the "no empiric antibiotics" rule:** an ill, febrile, immunocompetent patient with presumptive bacillary dysentery may be treated empirically while awaiting results (a fluoroquinolone or azithromycin per local susceptibility/travel). [[idsa-2017-infectious-diarrhea]]
 - **[[rifaximin|Rifaximin]]: do NOT use** — invasive pathogen; non-absorbable rifaximin is ineffective.
 - **[[loperamide|Loperamide]]:** use with caution in proven shigellosis (antimotility agents may theoretically worsen inflammatory colitis; rare in antibiotic-treated patients).
 - **Infection control:** very low inoculum → meticulous hand hygiene; exclude symptomatic food handlers / childcare workers.
 
+### Postinfectious sequelae
+
+- **Reactive arthritis**, **erythema nodosum**, **intestinal perforation**, and [[postinfectious-ibs|post-infectious IBS]] are recognized *Shigella* sequelae. [[idsa-2017-infectious-diarrhea]] (Table 5)
+
 ---
 
 ## See Also
 
-[[acute-diarrhea]], [[salmonella-infection]], [[campylobacter-infection]], [[enterotoxigenic-e-coli]], [[clostridioides-difficile]], [[rifaximin]], [[loperamide]], [[inflammatory-bowel-disease]]
+[[acute-diarrhea]], [[salmonella-infection]], [[campylobacter-infection]], [[enterotoxigenic-e-coli]], [[clostridioides-difficile]], [[norovirus]], [[postinfectious-ibs]], [[rifaximin]], [[loperamide]], [[inflammatory-bowel-disease]]
 
 ---
 

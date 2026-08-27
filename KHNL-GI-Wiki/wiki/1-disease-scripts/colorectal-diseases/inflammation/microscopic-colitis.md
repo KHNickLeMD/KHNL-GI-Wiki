@@ -3,7 +3,7 @@ title: "Microscopic Colitis"
 category: disease-script
 tags: [colon, chronic-diarrhea, collagenous-colitis, lymphocytic-colitis, watery-diarrhea]
 created: 2026-06-04
-updated: 2026-08-14
+updated: 2026-08-27
 sources: [asge-2010-diarrhea, acg-2016-acute-diarrhea, acg-2020-ibs, acg-2022-celiac]
 ---
 
@@ -18,7 +18,8 @@ sources: [asge-2010-diarrhea, acg-2016-acute-diarrhea, acg-2020-ibs, acg-2022-ce
 
 - **The colonoscopic appearance is typically normal** — the diagnosis is histologic, so a normal-looking mucosa does **not** exclude it. [[asge-2010-diarrhea]]
 - **Distribution is patchy → random biopsies of BOTH the right and left colon are required, even when the mucosa is normal.** *(ASGE Rec 2, low quality)* [[asge-2010-diarrhea]]
-  - **Left-sided-only sampling (e.g. flexible sigmoidoscopy alone) can miss the diagnosis.** Sigmoidoscopy is an alternative option but may miss right-sided organic disease. [[asge-2010-diarrhea]]
+  - **Left-sided-only sampling (e.g. flexible sigmoidoscopy alone) can miss the diagnosis.** Sigmoidoscopy is an alternative option but may miss right-sided organic disease; in chronic diarrhea overall, **colonoscopy out-yields sigmoidoscopy 39% vs 22%** (P = .009) and is more cost-effective. [[asge-2010-diarrhea]]
+  - *The counter-argument in the same guideline:* in one retrospective series of 809 patients, **>99% of abnormal pathology (and most microscopic colitis) was identifiable on distal colonic biopsies** — but multiple other studies show patchy distribution, which is why right **and** left sampling is the recommendation. [[asge-2010-diarrhea]]
 - Diagnostic yield of [[colonoscopy|colonoscopy]] in chronic diarrhea is **7–32%**; **IBD and microscopic colitis are the most common findings.** [[asge-2010-diarrhea]], [[acg-2016-acute-diarrhea]]
 
 ### Who to Scope — Deciding When to Look for It
@@ -38,7 +39,7 @@ The common indication "colonoscopy to rule out microscopic colitis" in suspected
 *Workup: see [[chronic-diarrhea]].*
 
 - [[inflammatory-bowel-disease|IBD]] — the other most common colonoscopic finding in chronic diarrhea ([[ulcerative-colitis]], [[crohns-disease]]). [[asge-2010-diarrhea]]
-- [[celiac-disease|Celiac disease]] — and note the reverse: **microscopic colitis is part of the systematic workup for nonresponsive celiac disease** (persistent symptoms despite 6–12 months of a gluten-free diet). [[acg-2022-celiac]]
+- [[celiac-disease|Celiac disease]] — the association runs **both ways**. Concurrent celiac disease and microscopic colitis are common, so in a patient with **established microscopic colitis who does not respond to treatment**, check **celiac serology and/or [[upper-endoscopy|upper endoscopy]] with proximal small-bowel biopsy** (minimum **4 duodenal biopsy specimens**). [[asge-2010-diarrhea]] Conversely, **microscopic colitis is part of the systematic workup for nonresponsive celiac disease** (persistent symptoms despite 6–12 months of a gluten-free diet). [[acg-2022-celiac]]
 - [[irritable-bowel-syndrome|IBS]] — normal mucosa in both; only biopsy separates them. **Rome criteria overlap heavily** (32.5% of microscopic colitis meets Rome IBS-D criteria), so the two cannot be separated symptomatically. [[acg-2020-ibs]]
 - [[small-intestinal-bacterial-overgrowth|SIBO]], [[exocrine-pancreatic-insufficiency|pancreatic insufficiency]], lactose/fructose intolerance — co-listed in the nonresponsive-celiac differential. [[acg-2022-celiac]]
 - Eosinophilic gastroenteritis, Whipple's disease. [[acg-2016-acute-diarrhea]]
@@ -51,7 +52,8 @@ The common indication "colonoscopy to rule out microscopic colitis" in suspected
 | **Colonoscopy with random right + left colon biopsies** | **Required** — establishes the diagnosis; patchy disease, normal-appearing mucosa *(Rec 2, low)* [[asge-2010-diarrhea]] |
 | **Terminal ileum intubation** | Recommended during chronic-diarrhea colonoscopy *(Rec 3, moderate)*; routine biopsy of a normal-appearing TI is low yield (0–4.2%) [[asge-2010-diarrhea]] |
 | **Flexible sigmoidoscopy alone** | Alternative, but **may miss right-sided disease** [[asge-2010-diarrhea]] |
-| **Stool / laboratory testing** | First-line before endoscopy in chronic diarrhea [[asge-2010-diarrhea]] |
+| **Stool / laboratory testing** | First-line before endoscopy in chronic diarrhea *(Rec 1)* [[asge-2010-diarrhea]] |
+| **Celiac serology ± EGD with ≥4 duodenal biopsies** | Consider in **established microscopic colitis not responding to treatment** — concurrent celiac disease is common [[asge-2010-diarrhea]] |
 | **Rome symptom criteria** | **Cannot exclude the diagnosis** — 32.5% of microscopic colitis meets Rome IBS-D criteria [[acg-2020-ibs]] |
 
 ## Therapeutics
@@ -60,7 +62,7 @@ The common indication "colonoscopy to rule out microscopic colitis" in suspected
 
 ## See Also
 
-[[chronic-diarrhea]], [[colonoscopy]], [[irritable-bowel-syndrome]], [[celiac-disease]], [[inflammatory-bowel-disease]], [[ulcerative-colitis]], [[crohns-disease]], [[small-intestinal-bacterial-overgrowth]], [[acute-diarrhea]]
+[[chronic-diarrhea]], [[colonoscopy]], [[upper-endoscopy]], [[irritable-bowel-syndrome]], [[celiac-disease]], [[inflammatory-bowel-disease]], [[ulcerative-colitis]], [[crohns-disease]], [[small-intestinal-bacterial-overgrowth]], [[exocrine-pancreatic-insufficiency]], [[acute-diarrhea]]
 
 ---
 

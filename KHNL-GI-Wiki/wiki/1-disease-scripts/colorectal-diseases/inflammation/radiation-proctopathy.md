@@ -3,7 +3,7 @@ title: "Radiation Proctopathy"
 category: disease-script
 tags: [radiation-proctopathy, radiation-proctitis, rectal-bleeding, hematochezia, argon-plasma-coagulation, pelvic-radiation, telangiectasia]
 created: 2026-06-22
-updated: 2026-08-14
+updated: 2026-08-27
 sources: [asge-2019-radiation-proctopathy]
 ---
 
@@ -57,14 +57,21 @@ sources: [asge-2019-radiation-proctopathy]
 ## Therapeutics
 
 - **Acute proctopathy:** supportive — hydration, antidiarrheals, discontinuation of radiation; usually self-limited.
-- **Chronic proctopathy, bleeding:** medical/supportive therapy is often insufficient → **endoscopic therapy is the mainstay**. No mandate to treat "cosmetic" bleeding (minor bleeding without anemia).
-- **Effective endoscopic modalities (no proven superiority of one):** *(Conditional, low quality)* [[asge-2019-radiation-proctopathy]]
-  - **[[argon-plasma-coagulation|Argon plasma coagulation (APC)]]** — most widely used; pooled clinical success ~87%; power 25–80 W (median 50 W), argon flow 0.6–2.5 L/min (median 1.5); 1–3.7 sessions, 3–4 weeks apart. Target individual vessels — avoid "painting" (confluent ulcers); periodically suction argon gas; **adequate bowel prep required** (colonic explosion reported with poor prep). Pooled serious AE rate ~4%.
-  - **Bipolar electrocoagulation** — pooled clinical success ~88%.
-  - **Heater probe**
-  - **[[radiofrequency-ablation|Radiofrequency ablation (RFA)]]**
-- **Suggest *against* 4% formalin compared with APC** — higher adverse-event rate (comparable bleeding control). *(Conditional, low quality)*
-- **Newer-generation cryoablation:** insufficient evidence for or against. *(No recommendation)*
+- **Chronic proctopathy, bleeding:** medical/supportive therapy is often insufficient → **endoscopic therapy is the mainstay**. **No mandate to treat "cosmetic" bleeding** — minor rectal bleeding *without anemia* has no evidence supporting endoscopic management. Before treating, discuss the natural history, the options, **how many sessions and how far apart**, and the follow-up duration; weigh patient preference, comorbidities, life expectancy, and which modalities are locally available.
+- **Four modalities are all endorsed and none is proven superior** — APC, bipolar electrocoagulation, heater probe, and RFA. *(Conditional, low quality)* [[asge-2019-radiation-proctopathy]]
+
+| Modality | Pooled clinical success | Sessions (mean/median) | Interval between sessions | Settings | Adverse events |
+|---|---|---|---|---|---|
+| **[[argon-plasma-coagulation\|APC]]** — most widely used | **87%** (95% CI 85–90) | 1–3.7 | 2–8 wk; **most used 3–4 wk** (lets injured mucosa heal) | Power **25–80 W** (median **50 W**); argon flow **0.6–2.5 L/min** (median **1.5**). Success similar at ≤1 vs >1 L/min (87% vs 86%) | Pooled **serious AE 4%** (3–6); most common is abdominal/rectal pain |
+| **Bipolar electrocoagulation** | **88%** (95% CI 68–96) | 2.9–4 | 4–6 wk | Contact, electrical current | One series: worsening bleeding in **33%**, **rectal stenosis in 27%** (1 of 4 symptomatic); no perforation or fistula reported |
+| **Heater probe** | Similar to bipolar (**67% vs 75%** in the one randomized comparison, n=21, 12-mo follow-up) | — | — | Contact, direct heat rather than current | No serious AEs in the randomized trial |
+| **[[radiofrequency-ablation\|RFA]]** | 88% (15/17) and 100% (39/39) in case series (n=66 total; **no comparative trials**) | 1.5–1.9 | 1 month to 12–16 wk | Focal ablation catheter; **2 applications per site**; energy density **12–15 J/cm²** at power density **40 W/cm²** | **No serious AEs reported**; mild anorectal pain in up to **12% of sessions** |
+
+- **APC technique:** target individual vessels — avoid "painting" (produces confluent ulcers); periodically suction argon gas; **adequate bowel prep required** (colonic explosion reported with poor prep).
+- **RFA technique:** ablate to ~**1 mm proximal to the dentate line** (protects anal sensory mucosa) and restrict to a short segment (**<6 cm from the dentate line**); withdraw and clean the electrode every **8 applications**; **leave the coagulum in place** (promotes hemostasis).
+- *Serious adverse event* was defined a priori across modalities as **colonic fistula, perforation, explosion, or stricture.**
+- **Suggest *against* 4% formalin compared with APC** — higher adverse-event rate (comparable bleeding control; in a randomized comparison bleeding ceased in 94% with APC vs 100% with formalin, but the APC group had fewer adverse events — nausea, vomiting, rectal pain, fever). *(Conditional, low quality)*
+- **Newer-generation cryoablation:** insufficient evidence for or against. *(No recommendation)* Only 2 small case series; one reported 100% success in 7 refractory patients using liquid nitrogen, mean 3.7 sessions **2–3 days apart**.
 
 ## See Also
 

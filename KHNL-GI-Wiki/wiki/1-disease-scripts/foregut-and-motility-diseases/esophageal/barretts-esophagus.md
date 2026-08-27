@@ -3,7 +3,7 @@ title: "Barrett's Esophagus"
 category: disease-script
 tags: [barretts-esophagus, esophageal, dysplasia, eet, rfa, surveillance, foregut]
 created: 2026-05-15
-updated: 2026-08-14
+updated: 2026-08-27
 sources: [acg-2022-barretts, aga-2025-barretts-surveillance, aga-2024-barretts-eet, asge-2018-barretts-eet, asge-2019-barretts-screening-surveillance]
 ---
 
@@ -52,7 +52,7 @@ The key severity variable is **dysplasia grade**, which determines both cancer r
 | NDBE (<3 cm) | ~0.07%/yr | Very low risk |
 | NDBE (≥3 cm) | ~0.25–0.31%/yr | Still low, but segment length matters |
 | Indefinite for dysplasia (IND) | ~0.6%/yr (HGD/EAC) | May reflect inflammation; optimize acid suppression |
-| LGD (confirmed) | ~1.73–9.1%/yr (wide range) | Expert confirmation essential; community LGD downstaged 73% on expert review |
+| LGD (confirmed) | **1.73–11.8%/yr** (very wide range) | Range anchors: meta-analysis of 24 studies = **1.73%/pt-yr**; SURF RCT surveillance arm = **11.8%/pt-yr**. Expert confirmation essential; community LGD downstaged 73% on expert review |
 | HGD | Substantially higher | Actionable — surveillance alone is not appropriate |
 | IMC (intramucosal carcinoma) | — | Risk of LN metastasis ~0–2%; EET preferred over esophagectomy |
 
@@ -78,9 +78,19 @@ The key severity variable is **dysplasia grade**, which determines both cancer r
 | LGD (Low-Grade Dysplasia) | Low-grade cytologic dysplasia | MUST be confirmed by a second expert GI pathologist before any management change |
 | HGD (High-Grade Dysplasia) | High-grade cytologic dysplasia | MUST be confirmed by a second expert GI pathologist |
 | IMC (Intramucosal Carcinoma) | EAC confined to mucosa (lamina propria / muscularis mucosa), no submucosal invasion | LN metastasis risk ~0–2% |
-| T1b EAC | Submucosal invasion | LN metastasis risk rises to 20–30% with mid-deep invasion; surgery generally preferred |
+| T1b EAC | Submucosal invasion | Sub-staged sm1 vs sm2/sm3 by depth — this sub-stage decides EET vs esophagectomy (criteria in [[#Endoscopic Eradication Therapy (EET)]]) |
 
-**Critical caveat on LGD:** Interobserver agreement among pathologists is only 42% for LGD and 23% for IND (vs 79% for NDBE and 71% for HGD). Community diagnosis of LGD is downstaged to IND or NDBE in 73% of cases on expert panel review. Confirmed LGD (by an expert) progresses to HGD/EAC at 9.1%/pt-year; downstaged cases progress at only 0.6–0.9%/pt-year.
+**Critical caveat on LGD:** Interobserver agreement among pathologists is only 42% for LGD and 23% for IND (vs 79% for NDBE and 71% for HGD). Community diagnosis of LGD is downstaged to IND or NDBE in 73% of cases on expert panel review (confirmed in only 27%). Confirmed LGD (by an expert) progresses to HGD/EAC at 9.1%/pt-year; downstaged-to-IND cases at 0.9%/pt-year and downstaged-to-NDBE at 0.6%/pt-year.
+
+**How much confirmation — the number of concurring pathologists is itself the risk stratifier.** In 255 patients with a community LGD diagnosis re-read by 3 pathologists, annual progression rose with the number who agreed [[acg-2022-barretts]]:
+
+| Pathologists agreeing on LGD | Annual progression to HGD/EAC |
+|---|---|
+| 1 | 2.4% |
+| 2 | 6.3% |
+| 3 | 20% |
+
+Pathologic confirmation was also associated with **prevalent** HGD/carcinoma — i.e. a concordant LGD read should trigger a search for missed neoplasia, not only a shorter interval.
 
 **Visible lesion characterization:**
 
@@ -293,11 +303,25 @@ See [[endoscopic-eradication-therapy]] for full technique, outcomes, and adverse
 
 **Dysplasia confirmation:** ASGE 2018 (Rec 1, conditional) — confirm LGD/HGD with ≥1 expert GI pathologist or panel before EET (expert review changes diagnosis in ~55%).
 
-**Contraindications / factors favoring esophagectomy:**
+**T1b EAC — the sm1 exception (this is the decision, so the criteria are here):**
 
-- T1b EAC with submucosal invasion >500 µm (sm2/sm3)
+Esophagectomy has been the default for any submucosal (T1b) invasion because of lymph-node risk, but ACG 2022 notes an expanding role for EET in **superficial** submucosal invasion. EET is a viable alternative **only when all of the following hold** [[acg-2022-barretts]]:
+
+| Criterion | Threshold for EET eligibility |
+|---|---|
+| Depth of submucosal invasion | **sm1** = upper third of the submucosa, **<500 µm** |
+| Deep (vertical) margin | **Negative** |
+| Differentiation | **Well or moderately** differentiated |
+| Lymphovascular invasion | **Absent** |
+
+- With these low-risk features, post-EET LN-metastasis risk in T1b sm1 appears **lower than the mortality of esophagectomy**.
+- Depth matters because LN metastasis is rare in T1a but reaches **20–30%** once invasion is **mid-to-deep submucosa** (sm2/sm3).
+
+**Factors favoring esophagectomy (any one):**
+
+- Submucosal invasion **>500 µm** (sm2/sm3)
 - Lymphovascular invasion
-- Poor differentiation (poorly differentiated)
+- Poor differentiation
 - Patient is not a candidate for endoscopic follow-up
 
 **EET Goals (primary endpoints):**

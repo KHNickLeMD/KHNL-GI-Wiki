@@ -3,7 +3,7 @@ title: "Toxic Megacolon"
 category: disease-script
 tags: [toxic-megacolon, colitis, cdiff, ibd, ulcerative-colitis, asuc, surgical-emergency]
 created: 2026-07-26
-updated: 2026-08-14
+updated: 2026-08-27
 sources: [acg-2025-uc, acg-2021-cdiff]
 ---
 
@@ -58,7 +58,7 @@ Toxic megacolon sits at the severe end of two underlying-disease severity framew
 - **Toxic megacolon is the "megacolon" limb that upgrades severe CDI to fulminant CDI.**
 
 **Predictors of steroid failure / colectomy in ASUC** (drive escalation timing):
-- **Oxford (Travis) index:** >8 BM on day 3 of IVCS, **OR** 3–8 BM + CRP >45 mg/L → ~85% colectomy rate.
+- **Oxford (Travis) index** — the most widely recognized: on **day 3 of IV corticosteroids**, **>8 bowel movements**, *or* **3–8 BM together with CRP >45 mg/L** → colectomy in **85%**. For contrast, colectomy occurred in **40%** of partial responders and **5%** of complete responders.
 - **Ho index:** integrates BM frequency + colonic dilation + hypoalbuminemia. *(Component point values / colectomy-risk cut-point are not reproduced in the ingested sources — flagged, not filled.)*
 - Additional: **ESR >75 mm/hr**, **temp >38 °C**, hypoalbuminemia, **UCEIS ≥7** (higher PPV for colectomy than MES 3), deep colonic ulceration on endoscopy.
 
@@ -74,7 +74,7 @@ Underlying etiologies of toxic megacolon named in ingested sources:
 - [[colon-ischemia|Ischemic colitis]]
 - **Superimposed infection to exclude:** CDI (test all ASUC) and **CMV colitis** (biopsy at endoscopy; affects up to a third of steroid-refractory ASUC).
 
-**Precipitants to identify and remove:** antimotility agents ([[loperamide]] — increase toxic-megacolon risk; avoid in untreated/fulminant CDI), opioids and anticholinergics (may precipitate colonic dilation and toxicity), and NSAIDs (avoid in ASUC).
+**Precipitants to identify and remove:** antimotility agents ([[loperamide]] — retained toxin is the theoretical mechanism; the patients who died or had complications were given antimotility agents **alone, without an appropriate antibiotic**. Avoid in **untreated** CDI and in **fulminant** infection; once anti-CDI therapy is running they can be used safely as needed), opioids and anticholinergics (may precipitate colonic dilation and toxicity; associated with infection and mortality), and NSAIDs (linked to IBD hospitalizations and relapse in up to a third of patients — avoid in ASUC).
 
 ## Diagnostics
 
@@ -95,14 +95,15 @@ Underlying etiologies of toxic megacolon named in ingested sources:
 **ASUC substrate:**
 - **IV corticosteroids:** methylprednisolone 60 mg/day **OR** hydrocortisone 100 mg TID–QID.
 - **Day-3 assessment:** if inadequate response, **rescue with infliximab or cyclosporine**. Choice by provider experience, prior immunomodulator/anti-TNF failure, and albumin; if albumin <2.5 g/dL, consider infliximab **dose intensification (10 mg/kg)**. Insufficient data to use tofacitinib/upadacitinib after IVCS or infliximab failure in ASUC.
-- Treat **CMV colitis** if identified in refractory disease — ganciclovir IV → oral, 14-day course; do not defer colectomy in nonresponders.
+- Treat **CMV colitis** if identified in refractory disease — ganciclovir **IV then oral, 14-day course** (response ~**70%**); **valganciclovir** may be appropriate in selected patients. Do **not** withhold colitis therapy while treating CMV, and **do not defer colectomy** to complete the antiviral course in nonresponders.
 
 **Fulminant CDI substrate:**
 - **Vancomycin 500 mg PO q6h** × first 48–72 h; if improving, step down to **125 mg q6h × additional 10 days**.
 - **Add IV metronidazole 500 mg q8h** (conditional) — particularly if ileus impairs oral drug delivery.
 - **If ileus: add vancomycin enemas 500 mg in 100 mL saline q6h** (conditional).
 - Reassess at 48–72 h with the multidisciplinary team if no improvement.
-- **[[fmt|FMT]]** may be considered after 48–72 h of maximal medical-therapy failure, especially in poor surgical candidates (sequential protocol until pseudomembrane resolution).
+- **[[fmt|FMT]]** for severe/fulminant CDI **refractory to antibiotic therapy**, particularly in **poor surgical candidates** *(strong recommendation, low quality)* — sequential protocol until pseudomembrane resolution.
+- **No routine role** for adjunctive IV immunoglobulin or bedside PEG colonic lavage; fidaxomicin has no data in fulminant CDI.
 
 **Surgery — indications (do not delay; delayed surgery → poor outcomes):**
 - **Toxic megacolon, colonic perforation, severe refractory hemorrhage, or medical refractoriness** (ACG UC key concept 54); multiorgan dysfunction.
@@ -110,8 +111,10 @@ Underlying etiologies of toxic megacolon named in ingested sources:
 - Infliximab/cyclosporine exposure does **not** increase postoperative complications — do not defer needed surgery on that basis.
 
 **Surgical procedure:**
-- **ASUC:** subtotal or total colectomy with [[ostomy-management|end ileostomy]].
-- **Fulminant CDI:** total colectomy with end ileostomy + stapled rectal stump, **OR** diverting loop ileostomy with colonic lavage + intraluminal vancomycin (× 10 days postoperatively) — choice per clinical circumstances, surgical tolerance, and surgeon judgment.
+- **ASUC:** subtotal or total colectomy with [[ostomy-management|end ileostomy]] is the preferred operation.
+- **Fulminant CDI:** total colectomy with end ileostomy + stapled rectal stump, **OR** diverting loop ileostomy with **antegrade colonic lavage (8 L PEG via the distal limb)** + **intraluminal vancomycin × 10 days postoperatively** — choice per clinical circumstances, surgical tolerance, and surgeon judgment.
+  - **Avoid partial colectomy** — 16% reoperation rate for persistent sepsis requiring further resection. Total colectomy carried a mortality OR of **0.7** (0.49–0.99) vs continued medical therapy; the loop-ileostomy approach reported lower mortality than historical total-colectomy controls (**19% vs 50%**).
+  - Postoperative mortality after total colectomy is higher in patients who preoperatively have **acute renal failure, vasopressor requirement, or mechanical ventilation** — an argument for operating *before* those develop.
 
 ```mermaid
 flowchart TD

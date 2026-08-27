@@ -3,11 +3,9 @@ title: "Achalasia"
 category: disease-script
 tags: [achalasia, esophageal-motility, dysphagia, hrm, poem, heller-myotomy, pneumatic-dilation, foregut]
 created: 2026-05-15
-updated: 2026-08-26
+updated: 2026-08-27
 sources: [acg-2020-achalasia, asge-2020-achalasia, sages-2021-poem, sages-2024-poem, aga-2024-poem-advances, aga-2024-esophageal-immunity-infection, chicago-v4-2021-esophageal-dysmotility]
 ---
-# Achalasia
-
 ## Assessment
 
 ### Establishing the Diagnosis
@@ -33,6 +31,23 @@ sources: [acg-2020-achalasia, asge-2020-achalasia, sages-2021-poem, sages-2024-p
 > - HRM has superior inter-rater agreement (k=0.57 vs 0.32) and 3.4x lower odds of incorrect diagnosis vs conventional manometry
 
 **[[flip-panometry|FLIP (Functional Lumen Imaging Probe)]]:** Complementary tool when HRM is equivocal or not tolerated — see [[#FLIP (Functional Lumen Imaging Probe)]] under Diagnostics. Role still evolving.
+
+### Severity Assessment
+
+**Eckardt Score (ES) — the standard severity/response metric.** Built from the 3 cardinal symptoms — **dysphagia, regurgitation, chest pain** — plus **weight loss** as a marker of the ability to maintain nutrition.
+
+| Property | Value |
+|---|---|
+| Components | Dysphagia, regurgitation, chest pain, weight loss — **all 4 equally weighted** |
+| Per-item range | **0–3** each |
+| Cumulative range | **0–12** |
+| **Treatment success** | **ES ≤3** (ES >3 = suboptimal outcome) |
+
+- Standard metric in almost all achalasia treatment trials; preferred over the Vantrappen classification and the Modified Achalasia Dysphagia Score — but that preference rests on **expert opinion**.
+- Limitations: the **dysphagia component dominates** the total, and post-treatment bolus retention is somewhat discordant with the ES. ([[acg-2020-achalasia]], [[asge-2020-achalasia]])
+- How to use it for failure assessment is under [[#Post-Therapy Monitoring and Retreatment]].
+
+> **Decision gap (corpus-blocked):** the **per-item anchors** — what earns 0 vs 1 vs 2 vs 3 for each of dysphagia, regurgitation, chest pain (symptom frequency) and weight loss (kg) — are **not printed in any ingested source**; ACG 2020 and ASGE 2020 both describe the score's structure only. The score therefore cannot be *computed* from this page. Needed: Eckardt VF, Aignherr C, Bernhard G. Predictors of outcome in patients with achalasia treated by pneumatic dilation. *Gastroenterology* 1992.
 
 ### Classification / Typing (Chicago Classification — clinically essential)
 
@@ -93,12 +108,6 @@ Simultaneous cross-sectional area + pressure → EGJ distensibility index. Perfo
 - Patients who cannot tolerate manometry
 - Pre- and post-treatment assessment
 
-### Eckardt Score (ES)
-
-Symptom score built from the 3 cardinal symptoms — **dysphagia, regurgitation, chest pain** — plus **weight loss** as a marker of the ability to maintain nutrition. **All 4 components are equally weighted, each scored 0–3, cumulative range 0–12**; **treatment success = ES ≤3** (ES >3 = suboptimal outcome). It is the standard metric in almost all achalasia treatment trials, preferred over the Vantrappen classification and the Modified Achalasia Dysphagia Score, but its widespread use rests on **expert opinion**; it is limited by the dysphagia component dominating, and post-treatment bolus retention is somewhat discordant with the ES. **Do not use ES or HRM alone to define treatment failure** — use TBE. ([[acg-2020-achalasia]], [[asge-2020-achalasia]])
-
-> **Decision gap (corpus-blocked):** the **per-item anchors** — what earns 0 vs 1 vs 2 vs 3 for each of dysphagia, regurgitation, chest pain (symptom frequency) and weight loss (kg) — are **not printed in any ingested source**; ACG 2020 and ASGE 2020 both describe the score's structure only. The score therefore cannot be *computed* from this page. Needed: Eckardt VF, Aignherr C, Bernhard G. Predictors of outcome in patients with achalasia treated by pneumatic dilation. *Gastroenterology* 1992.
-
 ---
 
 ## Therapeutics
@@ -137,7 +146,7 @@ flowchart TD
 - Initial 3.0 cm → reassess at 4–6 weeks; advance size if still symptomatic
 - **Young men (<45y):** Start at 3.5 cm or consider LHM/POEM (thicker LES musculature → worse PD response)
 - Predictors of favorable PD response: age >45y, female sex, non-dilated esophagus, LES pressure post-PD <10 mmHg
-- **Perforation risk:** 1.9% median (range 0–16%); requires surgery if large/mediastinal contamination
+- **Perforation risk:** overall reported 1.9% (range 0–10%); **median 1.9% (range 0–16%) in experienced hands** (operators with >100 patients treated). Requires surgery if large/mediastinal contamination
 - Do NOT perform routine post-dilation gastrograffin esophagram; reserve for clinical suspicion of perforation
 - GERD occurs in 15–35% post-PD → [[proton-pump-inhibitors|PPI]] therapy
 
@@ -148,7 +157,8 @@ flowchart TD
 ### Laparoscopic Heller Myotomy (LHM)
 
 - Divides circular muscle fibers of LES; preferred laparoscopic approach
-- **Always add [[antireflux-surgery|antireflux procedure]]:** reduces GERD from 29–31% (myotomy alone) to 8–9% (with fundoplication)
+- **Always add an [[antireflux-surgery|antireflux procedure]].** Post-myotomy GERD frequency is similar across surgical approaches **without** fundoplication — thoracotomy 29%, laparotomy 28%, thoracoscopy 28%, **laparoscopy 31%** — and adding fundoplication drops it to **thoracotomy 14%, laparotomy 8%, laparoscopy 9%** (no fundoplication data after thoracoscopic myotomy).
+  - Confirmed in a double-blind RCT: abnormal acid exposure on pH monitoring in **47% without** an antireflux procedure vs **9% with** a posterior Dor fundoplication (**RR 0.11**, 95% CI 0.02–0.59).
 - **Dor or Toupet fundoplication** — both acceptable (Conditional; Moderate evidence); Toupet may offer slightly better QoL
 - Efficacy: 89% symptom improvement (range 77–100%)
 - Type I/II: 81–92% success; Type III: 71% (inferior to POEM)

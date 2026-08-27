@@ -3,7 +3,7 @@ title: "Chronic Idiopathic Constipation"
 category: disease-script
 tags: [constipation, cic, laxatives, secretagogues, peg, linaclotide, colorectal, functional]
 created: 2026-05-16
-updated: 2026-08-25
+updated: 2026-08-27
 sources: [aga-acg-2023-constipation, acg-2021-anorectal-disorders, asge-2014-constipation, aga-2026-refractory-constipation, rome-v-2026-dgbi]
 ---
 
@@ -52,7 +52,7 @@ Assess impact on quality of life using validated tools (PAC-QoL, PAC-SYM) and st
 
 ## Differential Diagnosis
 
-*No diagnostic schema for chronic constipation exists yet in the wiki; the stepwise workup is under [[#Diagnostics]] below, and the outlet-dysfunction arm on [[defecation-disorders]].*
+*Workup: see [[chronic-constipation]]. The outlet-dysfunction arm is on [[defecation-disorders]].*
 
 | Condition | Key Features |
 |-----------|-------------|
@@ -113,21 +113,23 @@ Assess impact on quality of life using validated tools (PAC-QoL, PAC-SYM) and st
 
 ### Step 2: OTC Pharmacotherapy (AGA-ACG 2023)
 
-| Agent | Dose | Strength/Evidence | Notes |
-|-------|------|------------------|-------|
-| **Polyethylene glycol (PEG)** | 17 g daily | Strong/Moderate | First-line OTC osmotic; cost <$25–50/month |
-| **Bisacodyl** | 5 mg daily | Strong/Moderate | OTC stimulant laxative |
-| **Sodium picosulfate (SPS)** | 5 mg daily | Strong/Moderate | OTC stimulant; similar to bisacodyl |
-| **Psyllium (fiber supplement)** | As tolerated | Conditional/Low | Start low, titrate; best evidence among fibers |
-| **Senna** | 8.6–17.2 mg daily | Conditional/Low | Inexpensive stimulant; melanosis coli long-term |
-| **Magnesium oxide** | 400–500 mg | Conditional/Low | Avoid in renal insufficiency |
-| **Lactulose** | 15 g daily | Conditional/Very Low | Behind PEG; bloating limits tolerability |
+| Agent | Starting dose | Maximum dose | Strength/Evidence | Notes |
+|-------|------|------|------------------|-------|
+| **Polyethylene glycol (PEG)** | 17 g daily | **No clear maximum** | Strong/Moderate | First-line OTC osmotic; titrate per symptom response; cost $10–45/month |
+| **Bisacodyl** | 5 mg daily | **10 mg orally daily** | Strong/Moderate | OTC stimulant; recommended for short-term use |
+| **Sodium picosulfate (SPS)** | 5 mg daily | **10 mg orally daily** | Strong/Moderate | OTC stimulant; grouped with bisacodyl in the guideline |
+| **Psyllium (fiber supplement)** | As tolerated | — | Conditional/Low | Start low, titrate; best evidence among fibers |
+| **Senna** | 8.6–17.2 mg daily | **No clear maximum** | Conditional/Low | Inexpensive stimulant; also present in many combination laxatives |
+| **Magnesium oxide** | 400–500 mg daily | **No clear maximum** | Conditional/Low | Use with caution / avoid in renal insufficiency |
+| **Lactulose** | 15 g daily | **No clear maximum** | Conditional/Very Low | The only osmotic agent studied in the elderly; bloating limits tolerability |
+
+*Titrate every agent per symptom response, not on a fixed schedule ([[aga-acg-2023-constipation|AGA-ACG 2023]] Table 1).*
 
 ### Step 3: Prescription Agents (when OTC fails)
 
 | Agent | Class | Dose | Strength/Evidence | Cost/month |
 |-------|-------|------|------------------|-----------|
-| **[[linaclotide\|Linaclotide]]** | GC-C agonist | 145 mcg daily (CIC dose) | Strong/Moderate | ~$523 |
+| **[[linaclotide\|Linaclotide]]** | GC-C agonist | 72–145 mcg daily (CIC doses); **max 290 mcg daily** | Strong/Moderate | ~$523 |
 | **[[plecanatide\|Plecanatide]]** | GC-C agonist | 3 mg daily | Strong/Low | ~$526 |
 | **[[prucalopride\|Prucalopride]]** | 5-HT4 agonist (prokinetic) | 1–2 mg daily | Strong/Low | ~$563 |
 | **[[lubiprostone\|Lubiprostone]]** | ClC-2 chloride channel activator | 24 mcg BID | Conditional/Low | ~$374 |
@@ -175,7 +177,7 @@ If defecation disorder is identified (abnormal ARM + BET), **[[biofeedback-thera
 ---
 
 ## See Also
-[[defecation-disorders]], [[irritable-bowel-syndrome]], [[colorectal-cancer]], [[biofeedback-therapy]], [[linaclotide]], [[plecanatide]], [[prucalopride]], [[lubiprostone]], [[anorectal-manometry]], [[acute-colonic-pseudo-obstruction]]
+[[chronic-constipation]], [[defecation-disorders]], [[irritable-bowel-syndrome]], [[colorectal-cancer]], [[biofeedback-therapy]], [[linaclotide]], [[plecanatide]], [[prucalopride]], [[lubiprostone]], [[anorectal-manometry]], [[acute-colonic-pseudo-obstruction]]
 
 ---
 

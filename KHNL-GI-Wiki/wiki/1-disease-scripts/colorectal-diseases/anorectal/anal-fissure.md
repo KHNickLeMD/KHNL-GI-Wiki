@@ -3,7 +3,7 @@ title: "Anal Fissure"
 category: disease-script
 tags: [anal-fissure, anorectal, lis, sphincterotomy, botulinum, colorectal]
 created: 2026-05-16
-updated: 2026-08-14
+updated: 2026-08-27
 sources: [acg-2021-anorectal-disorders]
 ---
 
@@ -38,7 +38,7 @@ sources: [acg-2021-anorectal-disorders]
 
 | Condition | Key Features |
 |-----------|-------------|
-| [[hemorrhoids\|Hemorrhoids]] | Painless bright red bleeding; prolapse; visible on anoscopy |
+| [[hemorrhoids\|Hemorrhoids]] | Painless bright red bleeding; prolapse; visible on anoscopy. Not either/or — the two **coexist in up to 20%**, and when both are present the **fissure is treated first** (see [[hemorrhoids]]) |
 | Perianal abscess/fistula | Fluctuant or indurated perianal tissue; constant pain (not just with defecation); tract opening visible |
 | Crohn's perianal disease | Multiple/atypical fissures; skin tags; fistulas; [[crohns-disease]] |
 | Anal carcinoma | Persistent non-healing fissure-like lesion; biopsy required for any non-healing chronic fissure |
@@ -67,26 +67,29 @@ sources: [acg-2021-anorectal-disorders]
 
 ### Chronic Fissure — Medical Management (First Line)
 
-**Topical calcium channel blocker (first-line; Strong/Low, ACG 2021):**
+**Topical calcium channel blocker (first-line; Strong/Low, ACG 2021):** *"We recommend that local application of a calcium channel blocker should be the initial medical treatment of chronic anal fissure."*
 
-- Topical diltiazem 2% or nifedipine 0.2–0.5% ointment applied 2–3× daily to anal margin and intersphincteric groove for 8–12 weeks
-- Healing rate: 67–90%
-- Side effects: headache in ~20%; mild local irritation
-- Recurrence ~30% at 1 year (lower than nitrates)
+- Agents studied: **topical diltiazem 2%**, **nifedipine 0.5%**. No study reports a dose escalation.
+- **Healing 67–90%**; **long-term healing ~70%**.
+- Side effects: **headache in ~20%**; ~**10% stop treatment** because of it. Headache occurs **less frequently than with topical nitrates**.
+- Head-to-head: **diltiazem 2% healing 91.7% vs. nitroglycerine 0.2% 60%**; nifedipine 80% vs. GTN 0.2% 73% vs. placebo 33%.
 
 **Topical nitroglycerin (GTN, second choice):**
 
-- 0.2–0.4% ointment applied TID
-- Healing rate: ~50–57% (marginally superior to placebo; inferior evidence to CCB)
-- Main limitation: headache in 6–20% (dose-dependent)
+- **Applied twice daily for 8 weeks.** **Extending treatment beyond this does not increase healing rates** — so a non-responder at 8 weeks should be escalated, not continued.
+- Healing is **dose-non-monotonic** — 0.1% → **50%**, 0.2% → **36%**, 0.4% → **57%**, vs. **26% placebo**. Cochrane: **48.9% vs. 35.5%** placebo — i.e. only marginally better than placebo.
+- Main limitation: **headache in 6–20%**, dose-related.
+
+**Recurrence after topical therapy** *(head-to-head trial)*: **nifedipine 12%**, **nitroglycerine 32%**, **placebo 50%** — the durability gap, not the healing rate, is the main argument for CCB first.
 
 **Botulinum toxin A injection (Conditional/Low — CCB failure or alternative to CCB):**
 
-- 5–100 units injected into internal anal sphincter
-- Healing: 60–80%; superior to placebo; not reliably superior to LIS
-- Temporary [[fecal-incontinence|incontinence]] to flatus: up to 18% at 2 months; incontinence to stool: 5%
-- Recurrence up to 42% at 2 years; retreatment possible
-- Role: bridge to LIS, for patients who want to avoid surgery, or in Crohn's disease where LIS is relatively contraindicated
+- **5–100 units** injected into internal anal sphincter. **No consensus on dosage, precise site of administration, or number of injections** — and there is **little evidence that efficacy is dose-related**, or that dose relates to incontinence risk.
+- Healing: **60–80%**, higher than placebo. Cochrane counters that it is only **marginally better than placebo**.
+- Temporary [[fecal-incontinence|incontinence]] to **flatus up to 18%**, to **stool 5%**.
+- **Recurrence up to 42%**; retreatment gives similar results to the first treatment.
+- Predictors of efficacy: **female sex, satisfaction with the first procedure, lower BMI.** Topical nitrates may potentiate botulinum toxin in refractory fissure.
+- Role: bridge to LIS, for patients who want to avoid surgery, or in Crohn's disease where LIS is relatively contraindicated. **ACG consensus: the role of botulinum toxin A remains uncertain** — perhaps an attempt to avoid sphincterotomy after a CCB fails.
 
 ### Chronic Fissure — Surgical (Medical Therapy Failures)
 

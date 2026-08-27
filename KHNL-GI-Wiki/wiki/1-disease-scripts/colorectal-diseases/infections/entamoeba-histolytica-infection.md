@@ -3,7 +3,7 @@ title: "Entamoeba histolytica Infection (Amebiasis)"
 category: disease-script
 tags: [entamoeba, amebiasis, amebic-dysentery, parasitic-diarrhea, liver-abscess, travelers-diarrhea, metronidazole]
 created: 2026-05-19
-updated: 2026-08-14
+updated: 2026-08-27
 sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
 ---
 
@@ -21,7 +21,7 @@ sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
 ### Severity Assessment
 
 - **Non-invasive luminal colonization** — asymptomatic cyst passage.
-- **Invasive intestinal disease** — amebic dysentery/colitis (treat with a tissue agent *plus* a luminal agent).
+- **Invasive intestinal disease** — amebic dysentery/colitis.
 - **Extraintestinal** — amebic liver abscess.
 - **Immunocompromised / AIDS with persistent diarrhea** — broaden the differential (culture, viral studies, parasite exam) *(strong, moderate)*. [[idsa-2017-infectious-diarrhea]] (Rec 12) See [[hiv-aids-related-diarrhea]].
 
@@ -53,13 +53,10 @@ sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
 
 ## Therapeutics
 
-**Two-step: tissue (nitroimidazole) agent, then luminal agent.** [[acg-2016-acute-diarrhea]]
+- **Agents: metronidazole *or* tinidazole.** [[acg-2016-acute-diarrhea]] names these two as the antimicrobial therapy for *E. histolytica* and rates the evidence for treating specific parasitic causes of acute diarrhea as **strong**.
+- Treat *when the organism is identified* — and only when it is speciated as *E. histolytica*, since *E. dispar* is non-pathogenic (see *Establishing the Diagnosis*).
 
-| Step | Agent | Notes |
-|---|---|---|
-| Invasive disease (tissue) | **Metronidazole** 500–750 mg TID × 7–10 d | ACG parasite-specific therapy: metronidazole *or* tinidazole [[acg-2016-acute-diarrhea]] |
-| Alternative (tissue) | **Tinidazole** 2 g daily × 3 d | May be better tolerated |
-| Then, always | **Luminal agent** — paromomycin or iodoquinol | Required after nitroimidazole to eradicate intraluminal cysts |
+> **Regimen gap — flagged, not filled.** Neither ingested source states a **dose, interval, or duration** for amebiasis: [[acg-2016-acute-diarrhea]] names the agents in prose only, and [[idsa-2017-infectious-diarrhea]] Table 6 does **not list *E. histolytica* at all** (and has no dose column). Previously stated regimens ("metronidazole 500–750 mg TID × 7–10 d", "tinidazole 2 g daily × 3 d") were unsourced and have been removed. The **two-step tissue-then-luminal-agent strategy (paromomycin / iodoquinol)** is likewise **absent from both sources** — ACG mentions iodoquinol only for *Dientamoeba fragilis* — so it has been removed pending a CDC/IDSA parasitic-disease treatment table.
 
 - Empiric antibacterial therapy is otherwise not indicated for bloody diarrhea in immunocompetent hosts; treat *when the organism is identified*. Exception — empiric antibacterials should be considered in **immunocompromised people with severe illness and bloody diarrhea** *(strong, low)*. [[idsa-2017-infectious-diarrhea]] (Rec 32)
 - [[loperamide]] — avoid in febrile/inflammatory (bloody) diarrhea; contraindicated <18 years. [[idsa-2017-infectious-diarrhea]]

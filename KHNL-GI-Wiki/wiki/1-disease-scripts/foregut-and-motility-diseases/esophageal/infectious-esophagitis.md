@@ -3,17 +3,16 @@ title: "Infectious Esophagitis"
 category: disease-script
 tags: [esophagus, candida, hsv, cmv, odynophagia, dysphagia, immunocompromise, infectious-esophagitis]
 created: 2026-07-28
-updated: 2026-08-26
+updated: 2026-08-27
 sources: [aga-2024-esophageal-immunity-infection]
 ---
-
-# Infectious Esophagitis
 
 Esophageal infection causing dysphagia, odynophagia, and chest pain. Most common organisms: **Candida, herpes simplex virus (HSV), cytomegalovirus (CMV)**. More common in immunosuppressed hosts but can occur in the immunocompetent. Candida esophagitis is the **most commonly encountered** infectious esophagitis. ([[aga-2024-esophageal-immunity-infection]])
 
 ## Contents
 - [[#Assessment]]
   - [[#Establishing the Diagnosis]]
+  - [[#Severity Assessment]]
   - [[#Organism-specific features]]
   - [[#Risk Factors (candida esophagitis)]]
 - [[#Differential Diagnosis]]
@@ -31,6 +30,11 @@ Esophageal infection causing dysphagia, odynophagia, and chest pain. Most common
 - **[[upper-endoscopy|EGD]] with biopsies ± brushings** is the diagnostic test — endoscopic appearance suggests the organism; biopsy/cytology confirms.
 - Identify **immunocompromise** — if an esophageal infection is found, assess whether accompanying signs/symptoms suggest a more systemic infection (consult infectious disease). (BPA 2)
 - **If symptoms do not improve after therapy**, evaluate for refractory infection or an additional underlying esophageal/immunologic disorder. (BPA 3)
+
+### Severity Assessment
+
+- **No severity score or grading system exists in [[aga-2024-esophageal-immunity-infection]]** — the only graded descriptor the source uses is endoscopic extent for Candida ("in severe cases, may **carpet the entire esophagus**").
+- Practical severity drivers, all sourced: **degree of immunosuppression** (which decides whether to look for systemic infection and whether to consult ID, BPA 2), **ulcer depth** (shallow HSV vs **deep** CMV), and **failure to improve on therapy** (BPA 3 — triggers reassessment for resistant infection or a coexisting immune-mediated disorder).
 
 ### Organism-specific features
 
@@ -82,9 +86,11 @@ The source's Table 1 links the pertinent history to what to look for — the pra
 
 | Organism | Treatment |
 |---|---|
-| **Candida** | **Fluconazole 200–400 mg/day × 14–21 days** — the preferred treatment per the available guidelines cited by [[aga-2024-esophageal-immunity-infection]]. Nystatin for prophylaxis in high-risk patients or when colonization vs infection is unclear. In immunocompetent hosts candida may resolve when the inciting risk is removed; whether asymptomatic candidiasis warrants treatment is unclear (asymptomatic candidiasis rarely becomes symptomatic). |
-| **HSV** | **Acyclovir, valacyclovir, or famciclovir** — up to **10 days (immunocompetent)** or **21 days (immunosuppressed)**. |
-| **CMV** | **Ganciclovir (or valganciclovir)** — up to **6 weeks**. |
+| **Candida** | **Fluconazole** is the preferred agent ("available guidelines recommend fluconazole as the preferred treatment"). **Dose and duration are not stated** by [[aga-2024-esophageal-immunity-infection]] — see the gap note below. **Nystatin** for prophylaxis in patients at high risk, or when it is unclear whether this is infection vs colonization. Treatment of candida "is not well-studied, and there is little guidance": in immunocompetent hosts candida may resolve on its own once the inciting risk is removed, and whether **asymptomatic** candidiasis warrants treatment at all remains unclear. |
+| **HSV** | **Acyclovir, valacyclovir, or famciclovir** — up to **10 days (immunocompetent)** or **21 days (immunosuppressed)**. Dose not stated by the source. |
+| **CMV** | **Ganciclovir (or valganciclovir)** — up to **6 weeks** may be needed. Dose not stated by the source. |
+
+> **Decision gap (corpus-blocked — do not fill from memory):** [[aga-2024-esophageal-immunity-infection]] names the drugs and, for the viruses, the treatment *durations*, but gives **no doses for any of the three organisms** and **no duration for fluconazole**. A previous version of this page carried "fluconazole 200–400 mg/day × 14–21 days"; that dose is **not in any ingested source** and has been removed. Closing this needs a dedicated infectious-disease source (e.g. an IDSA candidiasis guideline), which is not in `raw/`.
 
 - Refractory symptoms after appropriate therapy → reassess for resistant/refractory infection or a coexisting immune-mediated esophageal disorder. (BPA 3)
 

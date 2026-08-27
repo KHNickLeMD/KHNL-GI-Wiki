@@ -3,8 +3,8 @@ title: "Cryptosporidiosis"
 category: disease-script
 tags: [cryptosporidium, parasitic-diarrhea, diarrhea, travelers-diarrhea, immunocompromised, nitazoxanide]
 created: 2026-05-19
-updated: 2026-08-13
-sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
+updated: 2026-08-27
+sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea, acg-2020-ibs]
 ---
 
 *Cryptosporidium parvum* and *C. hominis* are intracellular protozoa causing watery diarrhea. Oocysts resist standard chlorination → waterborne (recreational and drinking-water) outbreaks. Immunocompromised hosts (HIV/AIDS, transplant) are at highest risk for severe, chronic disease. [[acg-2016-acute-diarrhea]]
@@ -51,11 +51,15 @@ sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
 - **Supportive:** aggressive rehydration for high-volume losses.
 - **Public health / prevention:** chlorine-resistant oocysts → water treatment needs **filtration, UV, or ozone**; exclude from recreational water while symptomatic.
 
+### Postinfectious sequelae
+
+- *Cryptosporidium* is one of the named triggers of [[postinfectious-ibs|postinfection IBS]]. **Parasitic** enteritis carries a markedly higher risk than bacterial — **41.9% vs. 13.8%** develop IBS. [[acg-2020-ibs]]
+
 ---
 
 ## See Also
 
-[[acute-diarrhea]], [[chronic-diarrhea]], [[giardiasis]], [[entamoeba-histolytica-infection]], [[hiv-aids-related-diarrhea]], [[norovirus]], [[rotavirus]], [[enterotoxigenic-e-coli]], [[nitazoxanide]]
+[[acute-diarrhea]], [[chronic-diarrhea]], [[giardiasis]], [[entamoeba-histolytica-infection]], [[hiv-aids-related-diarrhea]], [[norovirus]], [[rotavirus]], [[enterotoxigenic-e-coli]], [[postinfectious-ibs]], [[nitazoxanide]]
 
 ---
 
@@ -63,3 +67,4 @@ sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
 
 1. [[acg-2016-acute-diarrhea|ACG 2016: Diagnosis, Treatment, and Prevention of Acute Diarrheal Infections in Adults]]
 2. [[idsa-2017-infectious-diarrhea|IDSA 2017 Clinical Practice Guidelines for the Diagnosis and Management of Infectious Diarrhea]]
+3. [[acg-2020-ibs|ACG 2020 Clinical Guideline: Management of Irritable Bowel Syndrome]]

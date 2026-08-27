@@ -3,13 +3,32 @@ title: "Eosinophilic Esophagitis"
 category: disease-script
 tags: [eoe, esophageal, dysphagia, food-impaction, eosinophil, atopic, biologic, dupilumab]
 created: 2026-05-07
-updated: 2026-08-14
+updated: 2026-08-27
 sources: [acg-2025-eoe, aga-2020-eoe, acg-2013-eoe, aga-2024-esophageal-immunity-infection]
 ---
 
-# Eosinophilic Esophagitis
-
 Chronic, immune/antigen-mediated esophageal disease. Characterized by esophageal symptoms + eosinophilic inflammation confined to the esophagus. Food antigen-driven in most; part of the atopic march.
+
+## Contents
+- [[#Assessment]]
+  - [[#Establishing the Diagnosis]]
+  - [[#Severity Assessment]]
+  - [[#Classification / Typing]]
+- [[#Differential Diagnosis]]
+- [[#Diagnostics]]
+  - [[#Endoscopy with Biopsies (required)]]
+  - [[#Diagnostic Workup Sequence]]
+  - [[#Tests NOT Recommended]]
+- [[#Therapeutics]]
+  - [[#Treatment Goals]]
+  - [[#First-Line Options (choose 1; equal standing)]]
+  - [[#Second-Line / Refractory]]
+  - [[#Adjunct: Esophageal Dilation]]
+  - [[#Maintenance Therapy]]
+  - [[#Monitoring]]
+  - [[#Special Populations]]
+- [[#See Also]]
+- [[#Sources]]
 
 ---
 
@@ -52,7 +71,7 @@ Chronic, immune/antigen-mediated esophageal disease. Characterized by esophageal
 - Each of the 5 features is graded **by severity in the worst-appearing area** of the esophagus; the grading scheme yields a total score of **0–9**. Score EREFS in every suspected and established EoE case ([[acg-2025-eoe]])
 - Normal endoscopy does NOT exclude EoE
 
-*Gap: the per-feature point ranges (how many points each of E/R/E/F/S can score) appear only in Figure 2 of [[acg-2025-eoe]], which is not yet captured as an asset — the numeric score cannot be computed from this page alone.*
+*Gap (tooling-blocked, not corpus-blocked): the per-feature point ranges — how many points each of E/R/E/F/S can score — exist **only inside Figure 2 ("EREFS with example scoring") on PDF page 7 of [[acg-2025-eoe]]**; the guideline text gives the 0–9 total and the worst-area rule but never the per-feature scale. Capturing the figure needs a PDF render/crop step that is unavailable in this environment (pymupdf absent, pdftoppm not permitted). Until `raw/assets/eoe-2025-erefs-scoring-07.png` is produced, the numeric score cannot be computed from this page alone.*
 
 ### Severity Assessment
 
@@ -142,19 +161,33 @@ Severity is assessed across three domains — **symptoms, endoscopic activity (E
 **1. PPI**
 
 - Mechanism: anti-inflammatory (beyond acid suppression)
-- Adults: omeprazole 20mg bid (or equivalent); Children: 2mg/kg/day
+- **Dose = double the approved reflux dose** ([[acg-2025-eoe]] Table 6). ACG could not recommend a specific PPI agent (trials mixed omeprazole/esomeprazole/rabeprazole/lansoprazole at varying doses):
+
+| Population | Initial dosing |
+|---|---|
+| Adults | Double the approved reflux dose per day — e.g. **omeprazole 20 mg b.i.d. or 40 mg daily**, or other PPI equivalent |
+| Children | **2 mg/kg/day** (or **1 mg/kg b.i.d.**) |
+
+- **Split the dose — this is the decision, not a detail.** In 305 newly diagnosed patients (overall histologic remission 42.3%), remission was **53–54% with omeprazole 20–40 mg twice daily vs only 10–12% with 20–40 mg once daily** (P<0.0001). ACG still permits once-daily or divided dosing on adherence grounds because "dosing efficacy data are variable," but the once-daily arm performs far worse in the one cohort that compared them.
 - Duration: 8–12 weeks → endoscopy with biopsies
-- ~50% histologic remission
+- Histologic remission **50.5%** (95% CI 42.2–58.7) in the 2016 meta-analysis of 33 studies
 - Maintain indefinitely if effective; 70–85% sustain response at 1y
+- **Stepping down to once daily after remission:** ~30% of initial responders relapsed but regained histologic remission on re-escalation to twice daily; a separate prospective cohort found >80% maintained remission after step-down. Re-scope if you step down.
 
 **2. Topical Steroids (STC)**
 
 - Histologic remission 60–70%
-- **Budesonide oral suspension (BOS):** 2mg bid adults — FDA-approved 2024 ✓
-- **Budesonide orodispersible tablet (BOT):** 1mg bid — EMA-approved ✓
-- **Fluticasone MDI (swallowed, off-label):** 1760mcg/day adults (880mcg bid); children: 110–880mcg/day
-- Off-label viscous budesonide (mix with sucralose/honey, ~10mL total): alternative
-- Side effects: candidal esophagitis (4–24%); adrenal insufficiency uncommon short-term; test cortisol with long-term multi-steroid use
+- **Total daily dose ranges** ([[acg-2025-eoe]] Table 6):
+
+| Agent | Children | Adults |
+|---|---|---|
+| Budesonide (any formulation) | **1–2 mg/day** (by age/height/weight; may be divided b.i.d.) | **2–4 mg/day** (may be divided b.i.d.) |
+| Fluticasone (swallowed MDI, off-label) | **110–880 µg/day** in a divided dose | **1,760 µg/day** in a divided dose |
+
+- **Budesonide oral suspension (BOS):** approved dosing **2 mg b.i.d.** — FDA-approved 2024 ✓
+- **Budesonide orodispersible tablet (BOT):** 1 mg b.i.d. — EMA-approved ✓
+- Off-label viscous budesonide is compounded to the same total daily dose
+- Side effects: candidal esophagitis (4–24%); adrenal insufficiency uncommon — identified in **≤5%** in induction trials — test cortisol with long-term multi-steroid use
 - Check response at 8–12 weeks
 - Dose reduction acceptable after remission (BOT 0.5mg bid effective for maintenance)
 
@@ -222,9 +255,7 @@ Severity is assessed across three domains — **symptoms, endoscopic activity (E
 - If switching therapies or dose-reducing: repeat endoscopy with biopsies to confirm maintained remission
 - Gaps in care ≥2y → increased risk of fibrostenosis
 
----
-
-## Monitoring
+### Monitoring
 
 **Response assessment:** symptoms + EREFS + biopsies at every monitoring endoscopy
 
@@ -245,11 +276,9 @@ Severity is assessed across three domains — **symptoms, endoscopic activity (E
 
 **Adrenal function testing:** not routine for short-term STC; consider with long-term use or multiple concurrent corticosteroids.
 
----
+### Special Populations
 
-## Special Populations
-
-### Pediatric
+**Pediatric:**
 
 - Symptom assessment challenging; EREFS and biopsies remain required for diagnosis and monitoring
 - Esophagram recommended before dilation to detect unrecognized strictures

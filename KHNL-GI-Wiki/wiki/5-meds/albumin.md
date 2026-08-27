@@ -3,7 +3,7 @@ title: "Albumin (IV)"
 category: med
 tags: [albumin, cirrhosis, ascites, sbp, hrs]
 created: 2026-07-23
-updated: 2026-08-26
+updated: 2026-08-27
 sources: [aga-2024-vasoactive-albumin-cirrhosis]
 ---
 
@@ -20,7 +20,7 @@ sources: [aga-2024-vasoactive-albumin-cirrhosis]
 |---|---|---|
 | **Large-volume (>5 L) paracentesis** | Give IV albumin (BPA 4) | **6–8 g per L of ascites removed** (expert opinion, per society guidelines); **lower doses (4 g/L) may be sufficient** |
 | **LVP in [[acute-on-chronic-liver-failure\|ACLF]]** | Give albumin during paracentesis | **6–8 g/L regardless of the volume removed** |
-| **SBP** | Albumin *may be considered* (BPA 5) | **1.5 g/kg body weight on day 1 + 1 g/kg on day 3** (empirical, per society guidelines). Highest-benefit subgroup: bilirubin >4 mg/dL, or AKI at baseline (creatinine >1.0 mg/dL and BUN >30 mg/dL) |
+| **SBP** | Albumin *may be considered* (BPA 5) | **1.5 g/kg body weight on day 1 + 1 g/kg on day 3** (empirical, per society guidelines). Highest-benefit subgroup (RCT subgroup analysis): bilirubin >4 mg/dL **and** AKI at baseline (creatinine >1.0 mg/dL **and** BUN >30 mg/dL) — all three together. Society guidelines themselves phrase the target more loosely, as **AKI and/or jaundice** |
 | **AKI in cirrhosis + ascites (hospitalized)** | Albumin is the **volume expander of choice** (BPA 8) | AGA 2024 states no dose — the volume-challenge and HRS-AKI albumin regimens live on [[aki-in-cirrhosis]] |
 | **HRS-AKI** | Concurrent albumin *can be considered*, accounting for volume status; terlipressin is the vasoactive drug of choice (BPA 10) | Regimen as above (AKI-in-cirrhosis page); titrate to volume status |
 | **Uncomplicated ascites** (hospitalized or not) | **Do NOT use** albumin (BPA 6) | — |
@@ -39,7 +39,7 @@ sources: [aga-2024-vasoactive-albumin-cirrhosis]
 **SBP**
 - AKI is the strongest predictor of death in SBP.
 - RCT (n=105): antibiotics **+ albumin** → AKI **10% vs 33%**, death **10% vs 29%**.
-- Highest benefit in patients with **bilirubin >4 mg/dL, or baseline AKI** (creatinine >1.0 mg/dL and BUN >30 mg/dL).
+- Subgroup at highest risk of AKI and most likely to benefit: **bilirubin >4 mg/dL *and* baseline AKI** (creatinine >1.0 mg/dL **and** BUN >30 mg/dL) — the criteria are conjunctive in the trial's subgroup analysis, though society guidelines restate the target as **AKI and/or jaundice**.
 - **Lower doses may also work:** in a small RCT giving only **10 g/day on days 1–3**, patients still had lower renal dysfunction (**7% vs 20%**) and in-hospital mortality (**27% vs 40%**) than controls — consistent with another small trial. 4 of the 5 RCTs in the recent meta-analysis used the standard empirical 1.5 g/kg + 1 g/kg regimen.
 
 ## Cautions

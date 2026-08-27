@@ -3,7 +3,7 @@ title: "Colonic Volvulus"
 category: disease-script
 tags: [colonic-volvulus, sigmoid-volvulus, cecal-volvulus, large-bowel-obstruction, detorsion, colonoscopy]
 created: 2026-06-22
-updated: 2026-08-14
+updated: 2026-08-27
 sources: [asge-2020-acpo-volvulus]
 ---
 
@@ -44,7 +44,7 @@ Mechanical **twisting (torsion) of a redundant colon segment along its mesenteri
 | Type | Initial management | Notes |
 |---|---|---|
 | **Uncomplicated sigmoid volvulus** | **Endoscopic detorsion** ([[colonoscopy\|flexible sigmoidoscopy]]) ± decompression-tube placement | First-line; detorsion success ~55–94%; tube maintains reduction and lowers recurrence. Absence of abdominal tenderness, laxative use, and prior open abdominal surgery predict successful detorsion |
-| **Sigmoid volvulus (all)** | + **Surgical consult during index admission** | Recurrence after nonoperative decompression up to **84–86%**; elective **sigmoid colectomy** generally recommended on index admission given high recurrence morbidity/mortality |
+| **Sigmoid volvulus (all)** | + **Surgical consult during index admission** | Recurrence after nonoperative decompression up to **86%**; in a 168-patient cohort, **84% recurred within a median of 58 days**, with a **median of 2 recurrences** (another series: 46.2%). Because mortality is higher with recurrent sigmoid volvulus, elective **sigmoid colectomy** is generally recommended **during the index admission or shortly thereafter** in surgical candidates |
 | **Cecal volvulus** | **Surgery first; avoid endoscopy** | Endoscopic reduction rarely effective + high perforation risk |
 | **Any volvulus + perforation/peritonitis** | **Surgery** | — |
 | **Poor surgical candidate, recurrent sigmoid** | PEC (percutaneous endoscopic colostomy) / endoscopic sigmoidopexy | High immediate + delayed adverse-event rates (PEC ~21% morbidity, ~5% mortality) |
@@ -52,6 +52,7 @@ Mechanical **twisting (torsion) of a redundant colon segment along its mesenteri
 **Key principles ([[asge-2020-acpo-volvulus|ASGE 2020]]):**
 - Endoscopic detorsion is therapeutic and diagnostic (assess mucosal viability) for sigmoid volvulus but **only temporizing** — definitive surgery prevents the high recurrence
 - Endoscopy is **contraindicated as primary therapy for cecal volvulus** and for any volvulus with peritonitis/perforation
+- **Immediate surgical referral** for three triggers: **peritonitis**, **perforation**, or **recurrent or unsuccessful nonoperative decompression**
 
 ## See Also
 [[acute-colonic-pseudo-obstruction]], [[colonoscopy]], [[chronic-idiopathic-constipation]], [[nausea-and-vomiting]]

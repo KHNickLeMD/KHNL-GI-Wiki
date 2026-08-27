@@ -3,7 +3,7 @@ title: "Celiac Disease"
 category: disease-script
 tags: [celiac-disease, gluten, malabsorption, small-bowel, ttg, marsh, foregut]
 created: 2026-05-15
-updated: 2026-08-14
+updated: 2026-08-27
 sources: [acg-2022-celiac]
 ---
 
@@ -98,7 +98,8 @@ Biopsy protocol (ACG 2022 — strong recommendation):
 
 - **TTG-IgA >10× upper limit of normal** *and* **positive EMA in a second blood sample** — both required
 - Family must agree with the no-biopsy strategy
-- HLA testing no longer required as a prerequisite
+- HLA testing no longer required as a prerequisite (ESPGHAN dropped it in the 2020 update)
+- ESPGHAN 2020 additionally extends the biopsy-free approach to **asymptomatic** children, using the same two criteria (conditional)
 - Not standard in the US; biopsy remains preferred where feasible. Limits: TTG assays are not standardized, and misdiagnosis is a real risk if the ESPGHAN criteria are not followed strictly.
 
 **Nonbiopsy "likely CD" in adults:**
@@ -215,6 +216,8 @@ Note: Persistent intraepithelial lymphocytosis (Marsh I) may persist in 56% of t
   - Serology-histology discordance
   - Patient already on GFD before evaluation (negative HLA rules out CD; positive HLA justifies gluten challenge)
   - Family members being evaluated for risk stratification
+
+> **Decision gap:** [[acg-2022-celiac]] endorses offering a **gluten challenge** in an HLA-compatible patient already on a GFD but does **not** state the gluten dose (g/day) or the duration before re-biopsy. Those numbers are deliberately absent rather than supplied from memory — a dedicated gluten-challenge protocol source would be needed.
 
 ### Monitoring Labs at Diagnosis
 

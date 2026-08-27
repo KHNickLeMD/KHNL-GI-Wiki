@@ -3,7 +3,7 @@ title: "Endoscopic Eradication Therapy (EET)"
 category: advanced-procedure
 tags: [barretts-esophagus, eet, rfa, emr, esd, cryotherapy, dysplasia, esophageal-adenocarcinoma, foregut]
 created: 2026-06-04
-updated: 2026-08-11
+updated: 2026-08-27
 sources: [asge-2018-barretts-eet, aga-2024-barretts-eet, acg-2022-barretts, asge-2019-barretts-screening-surveillance, aga-2025-barretts-surveillance]
 ---
 
@@ -70,7 +70,7 @@ RFA ± EMR pooled (37 studies, 9200 patients):
 | Bleeding | 1% (.8%-1.3%) |
 | Perforation | 0.6% (.4%-.9%) |
 
-Adverse events are significantly higher for RFA **with** EMR than RFA alone (RR 4.4).
+The burden falls on the *resection* step, not the ablation — the RFA-alone vs EMR + RFA split (RR 4.4) is on [[radiofrequency-ablation]].
 
 ---
 

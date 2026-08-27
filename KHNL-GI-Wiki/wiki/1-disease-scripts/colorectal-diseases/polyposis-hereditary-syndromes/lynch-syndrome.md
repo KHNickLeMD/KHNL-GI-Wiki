@@ -3,7 +3,7 @@ title: "Lynch Syndrome"
 category: disease-script
 tags: [lynch, hnpcc, mmr, msi, hereditary-crc, endometrial-cancer, oncology, genetic-testing, colorectal-cancer]
 created: 2026-05-19
-updated: 2026-08-26
+updated: 2026-08-27
 sources: [acg-2015-hereditary-gi-cancer, usmstf-2014-lynch-syndrome, usmstf-2017-bmmrd]
 ---
 
@@ -22,9 +22,24 @@ Lynch syndrome (LS), formerly hereditary nonpolyposis [[colorectal-cancer|colore
 
 **Clinical criteria (historical)**:
 
-- Amsterdam II criteria (all must be present): ≥3 relatives with LS-associated cancer (CRC, endometrial, small bowel, ureter/renal pelvis), **one a first-degree relative of the other two**; ≥2 successive generations affected; ≥1 diagnosed <50; FAP excluded in CRC case(s); tumors verified pathologically
-- Revised Bethesda guidelines: CRC <50; synchronous/metachronous LS-associated cancers; MSI-H histology <60; CRC + FDR with LS-associated cancer with ≥1 <50; CRC + ≥2 FDR/SDR with LS-related cancer
-- 3-question clinical risk tool: useful for initial screening in busy practice settings
+- Amsterdam II criteria (all must be present): ≥3 relatives with LS-associated cancer (CRC, endometrial, small bowel, ureter/renal pelvis), **one a first-degree relative of the other two**; ≥2 successive generations affected; ≥1 relative diagnosed <50; FAP excluded in the CRC case(s) (if any); tumors verified pathologically whenever possible
+- **Revised Bethesda guidelines** — test the tumour for MSI if **any one** applies ([[acg-2015-hereditary-gi-cancer]] Table 3):
+
+| # | Situation |
+|---|---|
+| 1 | CRC diagnosed **<50 years** |
+| 2 | **Synchronous or metachronous** colorectal or other LS-related tumour*, **regardless of age** |
+| 3 | CRC with **MSI-high histology**† diagnosed **<60 years** |
+| 4 | CRC + **≥1 first-degree relative** with an LS-related cancer, **one of the cancers diagnosed <50** |
+| 5 | CRC + **≥2 first- or second-degree relatives** with LS-related cancer, **any age** |
+
+  - \* **LS-related cancers** = colorectal, endometrial, gastric, ovarian, pancreas, ureter and renal pelvis, biliary tract, brain (usually glioblastoma), small intestinal, plus sebaceous gland adenomas and keratoacanthomas
+  - † **MSI-high histology** = tumour-infiltrating lymphocytes, Crohn's-like lymphocytic reaction, mucinous/signet-ring differentiation, **or** medullary growth pattern
+
+- **3-question colorectal cancer risk assessment tool** — a "yes" to **any** question triggers a full family-history evaluation ([[acg-2015-hereditary-gi-cancer]] Table 3, adapted from Kastrinos *et al.*):
+  1. Do you have a **first-degree relative** (mother, father, brother, sister, child) diagnosed **before age 50** with colon/rectal cancer, **or** cancer of the uterus, ovary, stomach, small intestine, urinary tract (kidney, ureter, bladder), bile ducts, pancreas, or brain?
+  2. Have **you** had colon/rectal cancer **or** colon/rectal polyps diagnosed **before age 50**?
+  3. Do you have **≥3 relatives** with a history of colon or rectal cancer (parents, siblings, children, grandparents, aunts, uncles, cousins)?
 - **PREMM1,2,6 model**: validated online calculator; ≥5% threshold cost-effective for genetic counseling referral and testing [[usmstf-2014-lynch-syndrome]]
 
 ### Severity Assessment
@@ -54,7 +69,7 @@ LS is classified by the causative gene:
 
 ## Differential Diagnosis
 
-*No dedicated diagnostic schema covers hereditary CRC; the workup runs universal tumour MMR testing → BRAF/methylation reflex → germline testing, as under [[#Diagnostics]].*
+*Workup: see [[colorectal-polyposis]].*
 
 - **Sporadic MMR-deficient CRC** — somatic MLH1 methylation with BRAF V600E; excluded by BRAF/methylation testing
 - **Lynch-like syndrome** — somatic biallelic MMR inactivation in tumor; no germline mutation found; managed similarly to LS
@@ -123,9 +138,17 @@ LS is classified by the causative gene:
 
 **Surgical management of CRC** [[acg-2015-hereditary-gi-cancer]]:
 
-- **Colectomy with ileorectal anastomosis (IRA)** is the preferred treatment for LS patients with colon cancer or neoplasia not controllable endoscopically (Conditional/Moderate)
-- Rationale: high rate of metachronous CRC after segmental/partial resection — **16% at 10 y, 41% at 20 y, 62% at 30 y** (10-y cumulative risk reported as 16–19% across studies, even under vigilant colonoscopic surveillance); extensive colectomy reduces this substantially (0–3.4%)
-- **Consideration for less extensive surgery** should be given in patients **older than 60–65 years** and those with underlying sphincter dysfunction *(Strong, level III / GRADE moderate)* — note NCCN and the Mallorca group recommend colectomy + IRA **with no deference to age**
+- **Rec 2:** **colectomy with ileorectal anastomosis (IRA)** is the preferred treatment for LS patients with colon cancer or colonic neoplasia not controllable by endoscopy. **Segmental colectomy is an option in patients unsuitable for total colectomy *if* regular postoperative surveillance is conducted** *(Conditional; moderate quality)*
+- Rationale — metachronous CRC risk after less-than-extensive surgery:
+
+| After | 10 y | 20 y | 30 y |
+|---|---|---|---|
+| Segmental / partial resection | **16%** | **41%** | — |
+| Proctectomy for rectal cancer (n=79, Win *et al.*) | **19%** | **47%** | **69%** |
+| Extensive colectomy | **0–3.4%** (overall) | | |
+
+  - Across studies the **10-year** cumulative risk after partial colectomy is **16–19%**, even under vigilant colonoscopic surveillance [[usmstf-2014-lynch-syndrome]] — which is why total proctocolectomy + IPAA is an option to discuss in LS **rectal** cancer
+- **Consideration for less extensive surgery** should be given in patients **older than 60–65 years** and those with **underlying sphincter dysfunction** *(Strong; level III evidence / GRADE moderate)* [[usmstf-2014-lynch-syndrome]] — note NCCN and the Mallorca group recommend colectomy + IRA **with no deference to patient age**
 - Prophylactic colectomy may be discussed with confirmed mutation carriers who have endoscopically normal colons, particularly in high-penetrance families
 - Life expectancy modeling: total colectomy preferred over hemicolectomy at ages 27 and 47; hemicolectomy may be comparable at age 67
 
@@ -172,8 +195,8 @@ LS is classified by the causative gene:
 
 - CAPP2 randomized placebo-controlled trial, 2×2 design (resistant starch 30 g/d and aspirin **600 mg/d** for ≤4 years); **693 randomized between aspirin and placebo** (727 to starch vs placebo)
 - At mean follow-up 29 months: **no** effect of aspirin, starch, or both on incidence of colorectal neoplasia
-- Intention-to-treat: CRC HR 0.63 (95% CI 0.35–1.13, P=0.12) — did not reach significance for CRC alone
-- All LS-related cancers (colorectal, endometrial, ovarian, pancreatic, small bowel, urinary, gastric, brain): HR 0.65 (95% CI 0.42–1.00, P=0.05)
+- Longer follow-up (mean 55.7 months), intention-to-treat, time to first CRC: HR **0.63** (95% CI 0.35–1.13, P=0.12) — did not reach significance for CRC alone
+- All LS cancers (colorectal, endometrial, ovarian, pancreatic, small bowel, **gallbladder, ureter, stomach, kidney**, and brain), ITT: HR **0.65** (95% CI 0.42–1.00, P=0.05); no excess adverse events vs placebo
 - CAPP3 trial ongoing to establish optimal dose and duration
 - Current recommendation: evidence suggests aspirin may decrease risk, but is not sufficiently robust to recommend standard use (Conditional/Moderate)
 
@@ -198,7 +221,7 @@ LS is classified by the causative gene:
 
 ## See Also
 
-[[bmmrd-syndrome]], [[familial-adenomatous-polyposis]], [[mutyh-associated-polyposis]], [[colorectal-cancer]], [[colorectal-cancer-screening]], [[colonoscopy]], [[upper-endoscopy]], [[peutz-jeghers-syndrome]], [[serrated-polyposis-syndrome]], [[gastric-adenocarcinoma]], [[pancreatic-cancer]], [[pancreatic-cancer-screening]]
+[[colorectal-polyposis]], [[bmmrd-syndrome]], [[familial-adenomatous-polyposis]], [[mutyh-associated-polyposis]], [[colorectal-cancer]], [[colorectal-cancer-screening]], [[colonoscopy]], [[upper-endoscopy]], [[peutz-jeghers-syndrome]], [[serrated-polyposis-syndrome]], [[gastric-adenocarcinoma]], [[pancreatic-cancer]], [[pancreatic-cancer-screening]]
 
 ---
 

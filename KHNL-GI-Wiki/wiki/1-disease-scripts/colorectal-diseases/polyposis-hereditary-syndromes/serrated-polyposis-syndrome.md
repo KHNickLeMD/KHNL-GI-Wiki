@@ -3,7 +3,7 @@ title: "Serrated Polyposis Syndrome"
 category: disease-script
 tags: [serrated-polyposis, sps, hyperplastic-polyposis, sessile-serrated, colorectal-cancer, polyposis, mutyh]
 created: 2026-05-19
-updated: 2026-08-26
+updated: 2026-08-27
 sources: [acg-2015-hereditary-gi-cancer]
 ---
 
@@ -39,7 +39,7 @@ sources: [acg-2015-hereditary-gi-cancer]
 
 - Clear genetic etiology has not been defined for SPS; routine genetic testing is NOT currently recommended
 - Overlap with [[mutyh-associated-polyposis|MAP]] runs in one direction more than the other: **3 of 17 biallelic MUTYH carriers (18%) met SPS criteria**, whereas only **1 of 126 SPS patients (0.8%)** carried biallelic MUTYH. In both series the patients meeting SPS criteria also had a history of adenomas — hence testing MUTYH only when adenomas are concurrent and/or there is a family history of adenomas
-- GREM1 duplication has been described in hereditary mixed polyposis syndrome (HMPS), which may overlap with SPS
+- GREM1 duplication has been described in [[hereditary-mixed-polyposis-syndrome|HMPS]], which may overlap with SPS
 - Conventional adenomas are found in the majority of SPS patients (78–80%). In CRCs arising in SPS patients: **BRAF V600E in 18 of 39 (46%)**, **KRAS in 2 of 40 (5.0%)**, and **loss of MLH1/PMS2 expression on IHC in 17 of 45 (38%)**
 
 ### Severity Assessment
@@ -54,10 +54,10 @@ sources: [acg-2015-hereditary-gi-cancer]
 
 ## Differential Diagnosis
 
-*No dedicated diagnostic schema covers colorectal polyposis; the workup runs polyp phenotype (number, size, site, histology) at colonoscopy → syndrome criteria → selective germline testing, as under [[#Diagnostics]].*
+*Workup: see [[colorectal-polyposis]].*
 
 - **[[familial-adenomatous-polyposis]] / AFAP / [[mutyh-associated-polyposis|MAP]]** — predominantly adenomatous polyps; APC or MUTYH mutations; consider if adenomas co-occur
-- **Hereditary mixed polyposis syndrome (HMPS)** — mixed juvenile-adenomatous-hyperplastic polyps; GREM1
+- **[[hereditary-mixed-polyposis-syndrome|Hereditary mixed polyposis syndrome (HMPS)]]** — mixed juvenile-adenomatous-hyperplastic polyps; GREM1 duplication; HMPS and SPS are misdiagnosed for one another in both directions
 - **[[lynch-syndrome]]** — fewer polyps; MMR gene mutations; MSI-H; may co-exist with SPS (MLH1/PMS2 loss found in some SPS CRCs)
 - Sporadic serrated/hyperplastic polyps — isolated polyps without meeting SPS criteria
 - **[[juvenile-polyposis-syndrome]]** — hamartomatous polyps; SMAD4/BMPR1A
@@ -106,7 +106,7 @@ sources: [acg-2015-hereditary-gi-cancer]
 
 ## See Also
 
-[[familial-adenomatous-polyposis]], [[mutyh-associated-polyposis]], [[lynch-syndrome]], [[juvenile-polyposis-syndrome]], [[colorectal-cancer]], [[colorectal-cancer-screening]], [[colonoscopy]], [[polypectomy]]
+[[colorectal-polyposis]], [[familial-adenomatous-polyposis]], [[mutyh-associated-polyposis]], [[hereditary-mixed-polyposis-syndrome]], [[lynch-syndrome]], [[juvenile-polyposis-syndrome]], [[colorectal-cancer]], [[colorectal-cancer-screening]], [[colonoscopy]], [[polypectomy]]
 
 ---
 

@@ -19,6 +19,8 @@ Standardized endoscopic scoring indices for [[ulcerative-colitis]] (MES, UCEIS) 
 - [[#Modified Rutgeerts Score]]
 - [[#Response and Remission Cutoffs]]
 - [[#Emerging Indices]]
+- [[#See Also]]
+- [[#Sources]]
 
 ## Overview
 

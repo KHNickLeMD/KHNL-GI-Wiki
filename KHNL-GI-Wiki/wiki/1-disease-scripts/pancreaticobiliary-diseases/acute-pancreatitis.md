@@ -3,7 +3,7 @@ title: "Acute Pancreatitis"
 category: disease-script
 tags: [pancreatitis, acute-pancreatitis, hpb, gallstone-pancreatitis, necrotizing-pancreatitis, ercp, bisap, fluid-resuscitation, nutrition]
 created: 2026-05-07
-updated: 2026-08-26
+updated: 2026-08-27
 sources: [acg-2024-acute-pancreatitis, asge-2016-pancreatic-fluid-collections, asge-2015-benign-pancreatic-disease, demadaria-2022-waterfall, aga-2024-pregnancy-gi-liver, aga-2022-recurrent-pancreatitis-endoscopy, asge-2023-post-ercp-pancreatitis, aga-2020-cpu-pancreatic-necrosis]
 ---
 
@@ -213,6 +213,11 @@ sources: [acg-2024-acute-pancreatitis, asge-2016-pancreatic-fluid-collections, a
 - **Route: nasogastric is preferred over nasojejunal** — comparable safety and efficacy (Key concept 20). If given by tube, **continuous infusion is preferred** over cyclic or bolus; a small-peptide, medium-chain-TG formula may improve tolerance.
 - **[[nutrition-in-hospitalized-patients|Parenteral nutrition]] should be avoided** unless the enteral route is **not possible, not tolerated, or not meeting caloric needs** (Key concept 19) — TPN carries infectious and line-related complications.
 
+**The two timing numbers for the patient who cannot eat** ([[aga-2020-cpu-pancreatic-necrosis]]):
+
+- **Start nutritional support within the first 24–72 hours** when oral intake is not tolerated. (A trial of oral nutrition goes ahead **immediately** in anyone without nausea, vomiting, ileus, or luminal obstruction.)
+- **If nasoenteric feeding is not tolerated (e.g. nasal irritation) or enteral nutrition is anticipated to run >30 days → place an [[enteral-access|endoscopic feeding tube]].** PEG if nasogastric feeds are tolerated; **direct PEJ** if gastric feeds are not tolerated or aspiration risk is high.
+
 ### 4. Antibiotics
 
 - *"We suggest **against prophylactic antibiotics** in patients with severe AP"* ([[acg-2024-acute-pancreatitis]] Rec 8 — conditional, very low quality). Antibiotics should not be used in **sterile** necrosis (Key concept 15).
@@ -248,6 +253,8 @@ sources: [acg-2024-acute-pancreatitis, asge-2016-pancreatic-fluid-collections, a
 
 ### 6. Necrotizing Pancreatitis (Step-Up Approach)
 
+**Why this section carries the mortality:** necrosis of the gland, peripancreatic tissue, or both complicates **10%–20%** of AP, and mortality reaches **20%–30% once the necrotic collection becomes infected** ([[aga-2020-cpu-pancreatic-necrosis]]).
+
 **Step-up approach** (preferred over primary surgery) [[acg-2024-acute-pancreatitis]]:
 
 1. **Antibiotics** — for infected necrosis as above
@@ -279,11 +286,13 @@ sources: [acg-2024-acute-pancreatitis, asge-2016-pancreatic-fluid-collections, a
 |---|---|
 | **Percutaneous or transmural endoscopic drainage of WON?** | **Both are appropriate first-line, nonsurgical approaches.** Transmural endoscopic drainage **may be preferred — it avoids creating a pancreatocutaneous fistula** (BPA 7). One large prospective study: fistula **32% (percutaneous/VARD) vs 5% (endoscopic)**, P<.01 |
 | **When is percutaneous drainage the right first move?** | Infected or symptomatic necrotic collections in the **early, acute period (<2 weeks)**; **WON in a patient too ill** for endoscopic or surgical intervention. Also strongly consider it **as an adjunct** to endoscopic drainage when WON extends **deep into the paracolic gutters and pelvis** (dependent portions won't drain through a superiorly placed transmural stent), or as **salvage after endoscopic/surgical debridement leaves residual necrosis** (BPA 8) |
-| **Which transmural stent?** | **Lumen-apposing metal stents (LAMS) appear superior to plastic stents** (BPA 9). ⚠ The same document notes a **randomised trial that did not show superiority over plastic stents** — treat BPA 9 as expert opinion, not settled evidence |
+| **What caliber percutaneous drain?** | Series used **8F–24F**. **Choose ≥24F if VARD is anticipated** — a 24F-or-larger drain reduces the dissection needed at VARD, because its tract becomes the entry portal for the debridement |
+| **Which transmural stent, and what size?** | **Lumen-apposing metal stents (LAMS) appear superior to plastic stents** (BPA 9). Sizing that drives the choice: **large-diameter SEMS = 15 mm** (better egress of necrotic material, and wide enough to pass the scope for necrosectomy); **LAMS length ~1 cm**, vs covered esophageal SEMS which are **no shorter than 6–7 cm**. Consider **double-pigtail plastic stents placed through the LAMS** to reduce early occlusion by necrotic tissue and LAMS migration. ⚠ **BPA 9 conflicts with the same document's body text**, which states a **randomised trial did not show LAMS superiority over plastic stents**; "superior" rests on a *non-randomised* comparison of egress. Treat BPA 9 as expert opinion, not settled evidence |
 | **When is direct endoscopic necrosectomy (DEN) indicated rather than drainage alone?** | **Reserve DEN** for **limited necrosis that does not respond adequately** to transmural drainage with large-bore SEMS/LAMS alone, or plastic stents plus irrigation. DEN is also an option for **large amounts of infected necrosis** — but only **at referral centers** with the endoscopic expertise plus **interventional-radiology and surgical backup** (BPA 10). Risks: **air embolism, intracavitary bleeding, perforation** |
-| **Which minimally invasive operation?** | **Videoscopic-assisted retroperitoneal debridement (VARD), laparoscopic transgastric debridement, and open transgastric debridement** are all feasible and effective; choose by **pattern of disease, patient physiology, team experience/expertise, and available resources** (BPA 12). VARD suits **centrally distributed necrosis extending into the left paracolic gutter** and is **ineffective for necrosis right of the mesenteric vessels**; transgastric approaches suit **centrally located** necrosis |
+| **Which minimally invasive operation?** | **Videoscopic-assisted retroperitoneal debridement (VARD), laparoscopic transgastric debridement, and open transgastric debridement** are all feasible and effective; choose by **pattern of disease, patient physiology, team experience/expertise, and available resources** (BPA 12). **The anatomy picks the operation:** VARD suits a **central distribution of necrosis extending down into the *left* paracolic gutter** (accessed via the left flank) and can be **ineffective at reaching necrosis right of the mesenteric vessels**; **transgastric** approaches suit **centrally located** necrosis, and **extension into *either* paracolic gutter can leave the debridement incomplete** |
 | **Is there still a role for open debridement?** | **Yes** — for cases **not amenable to less invasive endoscopic and/or surgical procedures** (BPA 13); best undertaken with a **large burden of necrosis distributed diffusely** through the abdomen |
 | **Disconnected left pancreatic remnant** after mid-body necrosis | **Distal pancreatectomy** in patients with **reasonable operative candidacy**. **Insufficient evidence** supports managing it with **long-term transenteric endoscopic stenting** (BPA 14) — EUS-guided transmural stenting is a **temporizing** measure. ⚠ No newer ingested source covers DPDS |
+| **When do you resect the disconnected remnant?** | Two windows, and the trade is stated: **subacute — within the first 30–60 days of illness, concurrent with debridement** (one procedure, concise disease course, but relatively high periprocedural morbidity: transfusion, postoperative pancreatic fistula, longer stay, readmission); or **elective distal pancreatectomy several months later**, after the patient's physiology recovers. Either way, expect **laparotomy with concomitant splenectomy** — inflammation and fibrosis obliterate tissue planes and splenic vein thrombosis with sinistral hypertension is common. Consider **concurrent islet autotransplantation** when the remnant is of substantive size, since new diabetes is common after DPDS even without resection |
 
 **Endoscopic drainage of fluid collections — indications & approach [[asge-2016-pancreatic-fluid-collections]]:**
 
@@ -314,7 +323,7 @@ sources: [acg-2024-acute-pancreatitis, asge-2016-pancreatic-fluid-collections, a
 
 ## See Also
 
-[[alcohol-associated-liver-disease]], [[chronic-pancreatitis]], [[recurrent-acute-pancreatitis]], [[pancreas-divisum]], [[hereditary-pancreatitis]], [[pancreatic-cysts]], [[ercp]], [[endoscopic-ultrasound]], [[mri-mrcp]], [[peptic-ulcer-disease]], [[acute-mesenteric-ischemia]], [[choledocholithiasis]], [[acute-cholecystitis]], [[sphincter-of-oddi-dysfunction]], [[ampullary-adenoma]], [[nutrition-in-hospitalized-patients]], [[portal-hypertension]], [[liver-disease-in-pregnancy]]
+[[alcohol-associated-liver-disease]], [[chronic-pancreatitis]], [[recurrent-acute-pancreatitis]], [[pancreas-divisum]], [[hereditary-pancreatitis]], [[pancreatic-cysts]], [[ercp]], [[endoscopic-ultrasound]], [[mri-mrcp]], [[peptic-ulcer-disease]], [[acute-mesenteric-ischemia]], [[choledocholithiasis]], [[acute-cholecystitis]], [[sphincter-of-oddi-dysfunction]], [[ampullary-adenoma]], [[nutrition-in-hospitalized-patients]], [[enteral-access]], [[portal-hypertension]], [[liver-disease-in-pregnancy]]
 
 ---
 

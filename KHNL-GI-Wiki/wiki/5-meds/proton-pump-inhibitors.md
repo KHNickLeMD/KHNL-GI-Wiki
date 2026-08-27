@@ -22,6 +22,8 @@ Drug class that inhibits the gastric H⁺/K⁺-ATPase (proton pump); the mainsta
 - [[#PPI-Refractory Symptoms]]
 - [[#Safety / Adverse Effects]]
 - [[#PPIs vs P-CABs]]
+- [[#See Also]]
+- [[#Sources]]
 
 ## Mechanism
 - Bind only to **actively secreting** proton pumps → premeal dosing (meals stimulate pump activity) maximizes acid control ([[acg-2021-gerd]]).

@@ -3,11 +3,9 @@ title: "Lymphocytic Esophagitis"
 category: disease-script
 tags: [esophagus, lymphocytic-esophagitis, dysphagia, esophageal-rings, histology]
 created: 2026-07-28
-updated: 2026-08-14
+updated: 2026-08-27
 sources: [aga-2024-esophageal-immunity-infection]
 ---
-
-# Lymphocytic Esophagitis (LyE)
 
 Histologically defined esophageal disorder characterized by a **dense peripapillary lymphocytic infiltrate with peripapillary spongiosis, without significant eosinophilic or neutrophilic infiltrate**. Its status as a distinct clinical entity is uncertain — lymphocytic recruitment may be a nonspecific response to esophageal injury.
 
@@ -19,13 +17,17 @@ Histologically defined esophageal disorder characterized by a **dense peripapill
 - **Diagnosis of exclusion** — first rule out:
   - EoE-like disease: biopsy obtained **off [[proton-pump-inhibitors|PPI]] for ≥2–4 weeks**
   - [[crohns-disease|Crohn's disease]] (can look histopathologically similar)
-- Endoscopy is abnormal in ~**70–75%** — most common findings are rings, esophagitis, and stricture; ~1/3 are endoscopically suspected to be EoE.
+- Endoscopy is abnormal in ~**70–75%** (single-centre series, n=81) — most common findings, in order, are **rings, esophagitis, and stricture**; EoE was endoscopically suspected in **1/3** of patients who turned out to have LyE.
 
-### Epidemiology
+### Severity Assessment
 
-- Rare: ~**0.1%** of adults undergoing EGD with esophageal biopsy (vs 2.8% for EoE).
-- Predominantly **women >60 years** (contrast with EoE).
-- Dysphagia is the primary symptom in ~2/3 (similar frequency to EoE).
+- **No severity score or grading system for LyE exists in any ingested source** — [[aga-2024-esophageal-immunity-infection]] treats LyE as a histologic pattern of uncertain nosologic status, not a graded disease. Severity is judged by symptom burden and by the presence of rings/stricture driving dysphagia.
+
+**Epidemiology (for pretest probability):**
+
+- Rare: ~**0.1%** of adults undergoing EGD with esophageal biopsy (vs **2.8%** for EoE) — in a retrospective review of **129,252** adults.
+- Predominantly **women above age 60** (contrast with EoE).
+- Dysphagia is the primary symptom in ~2/3 — the same frequency as in EoE, so symptom pattern does **not** discriminate LyE from EoE.
 
 ## Differential Diagnosis
 
