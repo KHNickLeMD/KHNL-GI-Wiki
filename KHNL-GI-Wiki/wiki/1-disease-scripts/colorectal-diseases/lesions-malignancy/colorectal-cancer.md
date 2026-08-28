@@ -3,7 +3,7 @@ title: "Colorectal Cancer"
 category: disease-script
 tags: [crc, colorectal-cancer, adenocarcinoma, oncology, screening, surveillance, post-resection, metachronous, rectal-cancer]
 created: 2026-05-19
-updated: 2026-08-14
+updated: 2026-08-28
 sources: [acg-2015-hereditary-gi-cancer, usmstf-2015-crc-surveillance, usmstf-2016-fit-screening, acg-2021-crc-screening, nccn-2026-colon-cancer, asge-2013-crc-staging-management, aga-2025-endoscopic-resection-crc]
 ---
 
@@ -183,7 +183,7 @@ flowchart TD
 
 - Up to 40% of patients with locoregional CRC develop recurrent cancer; 90% occur within 5 years
 - Cumulative incidence of metachronous CRC: ~0.3–0.35%/year, lifelong
-- ~30% of metachronous cancers occur within 2 years of surgery
+- In studies that explicitly excluded [[lynch-syndrome|Lynch syndrome]], **~33% of metachronous cancers were diagnosed within 3 years of surgery** — most plausibly prevalent cancers/advanced adenomas missed at the index exam, not true de novo lesions
 - In a Netherlands registry study (n=5,157 CRC patients), metachronous cancers attributed to: missed lesions 43%, nonadherence 43%, incomplete resection 5.4%, de novo only 5.4%
 - Surveillance colonoscopy associated with improved overall survival (OR=0.73, Cochrane meta-analysis; HR=0.75, 11-RCT meta-analysis) but NOT improved cancer-specific mortality
 - Increased intensity of colonoscopy frequency does not improve survival beyond the standard schedule and may increase harm
@@ -218,8 +218,8 @@ flowchart TD
 | Timepoint | Interval from Surgery | Notes |
 |---|---|---|
 | 1st surveillance | **1 year** after surgery or perioperative colonoscopy | |
-| 2nd surveillance | **3 years** after surgery (4 years from perioperative scope) | If 1-year exam negative |
-| 3rd surveillance | **5 years** later (9 years from surgery) | If 2nd exam negative |
+| 2nd surveillance | **3 years after the 1-year exam** — i.e. **4 years** after surgery / perioperative colonoscopy | If 1-year exam negative |
+| 3rd surveillance | **5 years after the 2nd exam** — i.e. **9 years** after surgery | If 2nd exam negative |
 | Subsequent | **Every 5 years** | Until benefit outweighed by diminished life expectancy |
 
 - If **neoplastic polyps detected** at any examination: shorten interval per published [[colonoscopy-surveillance|post-polypectomy surveillance]] guidelines (see [[colonoscopy]])

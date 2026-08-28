@@ -3,7 +3,7 @@ title: "Irritable Bowel Syndrome"
 category: disease-script
 tags: [ibs, dgbi, functional, colorectal, motility, rome-iv, rome-v, fodmap, rifaximin, linaclotide, plecanatide, tca]
 created: 2026-05-16
-updated: 2026-08-14
+updated: 2026-08-28
 sources: [acg-2020-ibs, rome-v-2026-dgbi, acg-2020-sibo, aga-2022-ibs-c, aga-2022-ibs-d]
 ---
 
@@ -29,7 +29,23 @@ Symptom onset ≥6 months prior to diagnosis.
 
 ### Severity Assessment
 
-- **IBS-SSS** (5 items, 0–500): mild <175, moderate 175–300, severe >300
+**Severity should guide treatment intensity** — [[rome-v-2026-dgbi|Rome V]] Table 4 gives the profile that assigns the stratum (not the score alone):
+
+| Feature | Mild | Moderate | Severe |
+|---|---|---|---|
+| Estimated proportion | 40% | 35% | 25% |
+| **FBDSI** | <36 | 36–109 | >109 |
+| **IBS-SSS** | 75–175 | 176–300 | >300 |
+| Physiology | Primarily bowel dysfunction | Bowel dysfunction + CNS pain dysregulation | Primarily CNS pain dysregulation |
+| Psychosocial | None/mild distress | Moderate distress | High distress, psychiatric comorbidity, catastrophizing, trauma history |
+| Abdominal pain | Mild/intermittent | Moderate, frequent | Severe/very frequent |
+| Other symptoms (n) | 1–3 | 4–6 | ≥7 |
+| Health-care utilization | 0–1/y | 2–4/y | ≥5/y |
+| Activity restriction | 0–15 d | 15–50 d | >50 d |
+| Work disability | <5% | 6–10% | ≥11% |
+
+*FBDSI = Functional Bowel Disorder Severity Index; IBS-SSS = IBS Symptom Severity Scale. ([[rome-v-2026-dgbi]])*
+
 - Impact on QoL, work, and food avoidance more clinically meaningful than RCT global response metrics
 
 ### Classification / Typing
@@ -101,6 +117,8 @@ Subtypes by Bristol Stool Form Scale **on days with abnormal stools** (assess of
 | **Gut-directed psychotherapy** (CBT, hypnotherapy, mindfulness) | Conditional/VLow |
 | [[probiotics\|Probiotics]] | Against (Conditional/VLow) |
 | **[[fmt\|FMT]]** | Strong AGAINST (Strong/VLow) |
+
+- **TCA titration:** start low — **10 mg amitriptyline or 10 mg desipramine** — and titrate gradually upward to the target range above. [[acg-2020-ibs]]
 
 > **Contradiction (surfaced) — antispasmodics.** [[acg-2020-ibs|ACG 2020]] recommends **against** antispasmodics for global IBS symptoms (Conditional/Low); the newer [[aga-2022-ibs-c|AGA 2022]] IBS-C **and** [[aga-2022-ibs-d|IBS-D]] guidelines both **suggest using** them (Conditional/Low). Same tier, so the newer guideline governs: antispasmodics are a reasonable adjunct, with the ACG's negative appraisal noted. The same split applies to **PEG laxatives in IBS-C** (ACG against for global symptoms; AGA 2022 suggests using — Conditional/Low).
 

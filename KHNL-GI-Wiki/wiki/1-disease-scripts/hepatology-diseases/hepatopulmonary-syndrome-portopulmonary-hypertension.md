@@ -3,7 +3,7 @@ title: "Hepatopulmonary Syndrome and Portopulmonary Hypertension"
 category: disease-script
 tags: [hepatopulmonary-syndrome, hps, portopulmonary-hypertension, poph, liver-transplant, portal-hypertension, pulmonary, cirrhosis]
 created: 2026-05-25
-updated: 2026-08-14
+updated: 2026-08-28
 sources: [aasld-ast-2025-liver-transplant-candidate-evaluation]
 ---
 
@@ -41,6 +41,8 @@ Two pulmonary **vascular** complications of liver disease and [[portal-hypertens
 - **POPH** — graded by mPAP + PVR **on optimized therapy**, which is what sets candidacy (see [[#Therapeutics]]).
 
 ## Differential Diagnosis
+
+*No diagnostic schema covers dyspnea/hypoxemia in liver disease — the workup is the pulmonary arm of the LT candidate evaluation, laid out under [[#Diagnostics]] below. For the hepatic side of the assessment see [[abnormal-liver-chemistries]] and [[cirrhosis]].*
 
 Pulmonary disease in the LT candidate falls into three groups; HPS/POPH are group 3, and the other two must be excluded before attributing hypoxemia or pulmonary hypertension to the liver:
 
@@ -80,8 +82,10 @@ Pulmonary disease in the LT candidate falls into three groups; HPS/POPH are grou
 |---|---|---|
 | <35 mm Hg | <5 WU | Standard **MELD exception** criteria |
 | 35–45 mm Hg | <3 WU | Standard **MELD exception** criteria |
-| 45 mm Hg | >3 WU | **Contraindication to transplantation** (Strong, Level 1) |
+| 45 mm Hg ⚠ | >3 WU | **Contraindication to transplantation** (Strong, Level 1) |
 
+- ⚠ **The contraindication row is missing its operator in the source.** Rec 24 reads verbatim: *"a mean pulmonary artery pressure of 45 mm Hg with a pulmonary vascular resistance > 3 Wood units (WU) should be considered a contraindication to transplantation."* The `>` on PVR is present, but **no `≥` or `>` is printed before the 45 mm Hg** (and `≥` renders correctly elsewhere in the same PDF, so this is the guideline's own text, not an extraction artifact). Read alongside the exception rows, the intent is a ceiling at 45 — but do not assert `≥45` or `>45` as the sourced cutoff.
+- **The rows are not exhaustive** — the guideline gives no status for mPAP 35–45 mm Hg with PVR 3–5 WU, nor for mPAP <35 mm Hg with PVR ≥5 WU. Those combinations fall outside both the exception criteria and the contraindication as written.
 - Optimization must be directed by a **pulmonary hypertension specialist**; subspecialty consultation is required once POPH is confirmed.
 - Sustained response to medical therapy → LT can be considered, **particularly with more advanced liver disease** (Weak, Level 2); the survival benefit of LT in responders is greatest at **MELD >15**.
 - Poorly controlled POPH carries poor 5-year survival; targeted medications have improved control and prolonged survival.

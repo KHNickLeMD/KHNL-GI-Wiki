@@ -3,7 +3,7 @@ title: "Bismuth Quadruple Therapy (BQT)"
 category: med
 tags: [h-pylori, eradication, bismuth, tetracycline, metronidazole, ppi, pylera]
 created: 2026-05-07
-updated: 2026-08-26
+updated: 2026-08-28
 sources: [acg-2024-hp-treatment, acg-2017-hp-guidelines]
 ---
 
@@ -23,7 +23,7 @@ Four drugs × 14 days. **Optimized** BQT = appropriately dosed PPI + bismuth + n
 > **Internal discrepancy in ACG 2024 — bismuth dose.** Tables 5 and 6 both list bismuth subcitrate **120–300 mg** or subsalicylate **300 mg** q.i.d. The Recommendation 6 narrative instead defines optimized BQT as bismuth **"300 mg 4 times daily at least."** Both appear in the same guideline; the tables are identical for first-line and salvage, so this is **not** a first-line-vs-salvage difference. Dosing at **300 mg q.i.d.** satisfies both readings.
 
 **Commercial formulations (FDA-approved only as combination packs; individual-component BQT is not FDA-approved):**
-- **Pylera** — bismuth subcitrate potassium + metronidazole + tetracycline per capsule; 3 capsules q.i.d. + PPI b.i.d.; **dispensed only as a 10-day regimen**.
+- **Pylera** — bismuth subcitrate + metronidazole + tetracycline per capsule; FDA-approved combined with omeprazole; **dispensed only as a 10-day regimen**. Combination formulations are given with a PPI taken b.i.d.
 - **Helidac** — bismuth subsalicylate + metronidazole + tetracycline; dispensed as a 14-day regimen (originally approved with an H2RA, but ACG 2024 does **not** recommend H2RAs in eradication regimens).
 
 > **Dosing change vs. earlier practice:** ACG 2024 specifies metronidazole **500 mg t.i.d.–q.i.d.** (1,500–2,000 mg/day). The older under-dosed 250 mg q.i.d. (1,000 mg/day) is no longer the recommended target.
@@ -33,7 +33,7 @@ Four drugs × 14 days. **Optimized** BQT = appropriately dosed PPI + bismuth + n
 ## Indications
 
 - **Preferred empiric first-line** for treatment-naive [[helicobacter-pylori-infection|H. pylori]] when antibiotic susceptibility is unknown — **Rec 1: strong recommendation, moderate quality evidence**; the only *strong* recommendation in the guideline (all other first-line and salvage options are conditional). [[acg-2024-hp-treatment]]
-- Clarithromycin triple therapy is **no longer recommended empirically** in the US (national clarithromycin resistance >15%), so BQT (or [[vonoprazan]]-based regimens) is favored regardless of clarithromycin exposure history.
+- Clarithromycin triple therapy is **no longer recommended empirically** in the US, so BQT (or [[vonoprazan]]-based regimens) is favored. ACG 2024: "it is no longer appropriate to use clarithromycin- or levofloxacin-containing treatment regimens empirically" — measured US clarithromycin resistance **22.2%** (US/Europe RCT) to **31.5%** (2011–2021 US meta-analysis), vs **<5%** for amoxicillin, tetracycline, and rifabutin. The **>15% resistance threshold** for abandoning empiric clarithromycin triple therapy comes from [[acg-2017-hp-guidelines]].
 - **Concomitant therapy is *not* suggested over BQT** in treatment-naive patients (Rec 5, conditional / low quality).
 - Penicillin allergy — BQT contains no amoxicillin, and is the **only** first-line or salvage regimen suitable for true penicillin allergy. If BQT is not an appropriate option, ACG suggests allergist referral to confirm the allergy and consider penicillin desensitization (<1% of the population has true type-1 IgE-mediated penicillin allergy).
 

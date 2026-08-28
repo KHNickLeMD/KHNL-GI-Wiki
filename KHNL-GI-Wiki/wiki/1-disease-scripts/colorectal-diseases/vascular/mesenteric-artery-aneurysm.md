@@ -3,7 +3,7 @@ title: "Mesenteric Artery Aneurysm"
 category: disease-script
 tags: [mesenteric-artery-aneurysm, splanchnic-aneurysm, pseudoaneurysm, sma, vascular-lesion, rupture]
 created: 2026-06-01
-updated: 2026-08-14
+updated: 2026-08-28
 sources: [acg-2020-hepatic-mesenteric-circulation]
 ---
 
@@ -31,6 +31,7 @@ sources: [acg-2020-hepatic-mesenteric-circulation]
 
 ### Severity Assessment
 
+- **Rupture is the event that matters: mortality after rupture is as high as 70%.** [[acg-2020-hepatic-mesenteric-circulation]]
 - **Factors associated with rupture are uncertain** — the guideline states management decisions therefore require thorough discussion with the patient. **Pseudoaneurysms carry a higher rupture risk than true aneurysms.**
 - Patients with [[acute-pancreatitis|acute pancreatitis]] are at increased risk of **pseudoaneurysm** from local enzymatic vascular injury; **mortality 30–50%** when these rupture.
 - Splenic artery aneurysm rupture in **pregnancy** may be low-probability but carries high maternal and fetal mortality — the reason childbearing-age women are treated regardless of size.

@@ -6,6 +6,34 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-08-28] lint | Six unlogged cron passes (2026-08-25 → 08-28) reconstructed from the commit record
+
+**Why this entry exists:** the scheduled lint cron ran six passes between 2026-08-25 and 2026-08-28 that committed real work but **never appended to `wiki/log.md`** — the log jumped straight from 2026-08-14 to today. The durable record was missing for **181 files changed, +6,926/−2,269 lines**. The entries below are reconstructed from `git log`/`git diff --diff-filter=A` and record *what was created*; per-pass fix detail was not recoverable and is not invented here.
+
+**Sources ingested across the six passes (6):**
+
+- `tg18-2018-cholangitis-flowchart` — Tokyo Guidelines 2018, initial management of acute biliary infection (08-25). **This closes a long-standing corpus-blocked gap** — TG18 severity grading had been listed as un-fillable in every prior lint report.
+- `aga-2020-cpu-pancreatic-necrosis` — AGA CPU, management of pancreatic necrosis (08-25)
+- `lee-2018-accelerate-ah` — ACCELERATE-AH, early liver transplant for severe alcoholic hepatitis (08-26)
+- `afs-2023-transoral-incisionless-fundoplication` — AFS white paper on TIF (08-27)
+- `uspg-2025-disconnected-pancreatic-duct` — USPG 2025, disconnected pancreatic duct in pancreatic necrosis (08-27)
+- `asge-2011-foreign-body-ingestion` — ASGE guideline, foreign body ingestion (08-28)
+
+**Pages created across the six passes (6):**
+
+- `1-disease-scripts/pancreaticobiliary-diseases/acute-cholangitis.md` (08-25)
+- `1-disease-scripts/foregut-and-motility-diseases/gastric/gastric-polyps.md` (08-26)
+- `1-disease-scripts/colorectal-diseases/polyposis-hereditary-syndromes/hereditary-mixed-polyposis-syndrome.md` (08-27)
+- `2-diagnostic-schemas/colorectal-polyposis.md` (08-27) — **closes a structural gap flagged on 2026-08-14**: the 9 polyposis pages previously had no schema to point at.
+- `2-diagnostic-schemas/chronic-constipation.md` (08-27) — **closes the second structural gap flagged on 2026-08-14** (constipation/anorectal).
+- `2-diagnostic-schemas/ingested-foreign-body.md` (08-28)
+
+**Defects the unlogged passes left behind** (all corrected in the 2026-08-28 pass below): two ingests were left half-finished — `afs-2023-transoral-incisionless-fundoplication` and `uspg-2025-disconnected-pancreatic-duct` were written as orphans with no inbound links and dangling `[[hiatal-hernia]]` / `[[disconnected-pancreatic-duct-syndrome]]` targets — and **12 pages were never added to `wiki/index.md`**.
+
+**Process note:** an unattended pass that does not append its entry leaves no way to audit what it asserted. Worth checking that the cron's lint prompt still carries the log-append step.
+
+---
+
 ## [2026-08-14] lint | Parallel 6-batch sweep — ~40 source-fidelity defects corrected across every folder; 4 misfiled disease pages relocated out of 7-concepts; tenapanor + GLP-1 RA class pages created; two phantom sources exposed
 
 **Ingest status:** working tree clean at session start; **no new inbox files**. A full raw-vs-`wiki/sources/` diff confirms **every tier-1 and tier-2 file is ingested** — the only uningested material is the **gated lecture/chalk-talk transcripts** (~60 files), which were not auto-ingested per schema, plus known duplicate PDFs. **No ingest this pass.**

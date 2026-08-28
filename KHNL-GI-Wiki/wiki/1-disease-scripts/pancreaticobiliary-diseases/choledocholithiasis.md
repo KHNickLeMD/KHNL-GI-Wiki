@@ -3,7 +3,7 @@ title: "Choledocholithiasis"
 category: disease-script
 tags: [biliary, gallstones, common-bile-duct, jaundice, cholangitis, ercp, eus, mrcp, gallstone-pancreatitis]
 created: 2026-06-04
-updated: 2026-08-27
+updated: 2026-08-28
 sources: [asge-2019-choledocholithiasis, aga-2024-pregnancy-gi-liver, asge-2021-cholangitis, jagtap-2026-urgent-vs-early-ercp-cholangitis, aloysius-2026-ercp-timing-septic-shock-cholangitis]
 ---
 
@@ -24,8 +24,8 @@ sources: [asge-2019-choledocholithiasis, aga-2024-pregnancy-gi-liver, asge-2021-
 ## Assessment
 
 - Gallstones in the **common bile duct (CBD)** — most common cause of **obstructive jaundice** in adults.
-- Precipitant of **acute cholangitis** and gallstone [[acute-pancreatitis|pancreatitis]].
-- Charcot's triad (fever, jaundice, RUQ pain) → cholangitis = urgent biliary drainage + antibiotics.
+- Precipitant of **[[acute-cholangitis|acute cholangitis]]** and gallstone [[acute-pancreatitis|pancreatitis]].
+- Suspect cholangitis on **any one** of fever, chills, abdominal pain, [[jaundice]], nausea, vomiting, or disturbance of consciousness → grade it, then drain. Diagnostic and TG18 severity criteria: [[acute-cholangitis]]. *("Charcot's triad" is not defined in any ingested source and is deliberately not asserted here — see the provenance flag on [[acute-cholangitis]].)*
 
 ### Establishing the Diagnosis
 - Clinical + biochemical (cholestatic [[abnormal-liver-chemistries|liver chemistries]], ↑total bilirubin) + imaging.
@@ -37,7 +37,7 @@ sources: [asge-2019-choledocholithiasis, aga-2024-pregnancy-gi-liver, asge-2021-
 
 | Risk | Stone probability | Criteria | Pathway |
 |---|---|---|---|
-| **High** | >50% | **Any one of:** (1) CBD stone on US or cross-sectional imaging; (2) total bilirubin **>4 mg/dL** ***and*** **dilated CBD**; (3) clinical **ascending cholangitis** | Proceed directly to **[[ercp\|ERCP]]** for stone extraction |
+| **High** | >50% | **Any one of:** (1) CBD stone on US or cross-sectional imaging; (2) total bilirubin **>4 mg/dL** ***and*** **dilated CBD**; (3) clinical **[[acute-cholangitis\|ascending cholangitis]]** | Proceed directly to **[[ercp\|ERCP]]** for stone extraction |
 | **Intermediate** | 10–50% | **Any one of** (without meeting a high-risk criterion): abnormal liver biochemical tests; age **>55 years**; **dilated CBD** on US | Confirm first with **[[endoscopic-ultrasound\|EUS]], MRCP**, laparoscopic IOC, or laparoscopic intraoperative US |
 | **Low** | <10% | No predictors present | Cholecystectomy (for symptomatic cholelithiasis) ± intraoperative cholangiogram or intraoperative US as needed |
 
@@ -74,7 +74,7 @@ sources: [asge-2019-choledocholithiasis, aga-2024-pregnancy-gi-liver, asge-2021-
 
 ### Acute Cholangitis — Drainage Timing
 - **Biliary drainage within 48 h** of presentation ([[asge-2021-cholangitis]]); **[[ercp|ERCP]] over PTBD** as first-line modality.
-- **Severe** cholangitis (≥1 organ failure) → **emergent (<24 h)** drainage ([[asge-2021-cholangitis]] — the standing recommendation).
+- **ASGE does *not* recommend <24 h for severe (Tokyo Grade III) cholangitis.** Its own reading: "ERCP in <24 hours or 24 to 48 hours versus >48 hours appears to shorten the length of hospitalization but **does not impact inpatient or 30-day mortality, organ failure, or other core clinical outcomes.**" The single carve-out is narrower than "severe" — **in septic shock *not responding to fluid resuscitation*, ERCP <24 h "may be considered"** (a suggestion, conditioned on refractoriness, not on Tokyo grade). ([[asge-2021-cholangitis]]) Grade definitions and the grade-driven flowchart: [[acute-cholangitis]].
   - *Under question in septic shock:* in **TG III cholangitis with septic shock**, ERCP **<24 h of vasopressor initiation** gave **no survival advantage** over 24–48 h (30-d mortality HR 1.07, 95% CI 0.81–1.42) and looked worse than 48–72 h (HR 1.47, 1.00–2.16) — likely the sickest patients drained first. Elderly, comorbid cohort (mean age 73). ⚠ **DDW 2026 abstract, retrospective TriNetX** — below guideline and RCT evidence; hypothesis-generating, does **not** change the emergent-drainage recommendation. ([[aloysius-2026-ercp-timing-septic-shock-cholangitis]])
 - **Mild-to-moderate** cholangitis: **do not reflexively rush to <24 h.** Urgent (<24 h) drainage is **not superior** to early (24–48 h) — same 30-day mortality (3.95% vs 6.58%) and organ failure — and **roughly doubles post-ERCP adverse events** (17.1% vs 9.2%; RR 2.03), mainly **haemorrhage** (10.5% vs 3.3%), from sphincterotomy on an oedematous papilla in an under-resuscitated septic patient. Resuscitate (fluids, coagulopathy correction, antibiotics) then drain within 24–48 h. ([[jagtap-2026-urgent-vs-early-ercp-cholangitis]])
 - **Malignant** biliary obstruction is the dominant predictor of 30-day mortality in cholangitis (HR ~5), not timing. ([[jagtap-2026-urgent-vs-early-ercp-cholangitis]])
@@ -92,7 +92,7 @@ sources: [asge-2019-choledocholithiasis, aga-2024-pregnancy-gi-liver, asge-2021-
 
 ## See Also
 
-[[jaundice]], [[abnormal-liver-chemistries]], [[ercp]], [[endoscopic-ultrasound]], [[mri-mrcp]], [[cholangioscopy]], [[acute-pancreatitis]], [[acute-cholecystitis]], [[biliary-stricture]], [[pancreatic-cancer]], [[primary-sclerosing-cholangitis]], [[liver-disease-in-pregnancy]]
+[[acute-cholangitis]], [[jaundice]], [[abnormal-liver-chemistries]], [[ercp]], [[endoscopic-ultrasound]], [[mri-mrcp]], [[cholangioscopy]], [[acute-pancreatitis]], [[acute-cholecystitis]], [[biliary-stricture]], [[pancreatic-cancer]], [[primary-sclerosing-cholangitis]], [[liver-disease-in-pregnancy]]
 
 ---
 

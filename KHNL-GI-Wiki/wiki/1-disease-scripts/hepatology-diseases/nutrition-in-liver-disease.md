@@ -3,7 +3,7 @@ title: "Nutrition in Liver Disease"
 category: disease-script
 tags: [liver, cirrhosis, malnutrition, sarcopenia, hepatic-encephalopathy, bcaa, vitamin-e, mash, masld, ald, coffee, nutrition]
 created: 2026-05-07
-updated: 2026-08-14
+updated: 2026-08-28
 sources: [acg-2025-liver-nutrition, aasld-2021-malnutrition-cirrhosis]
 ---
 
@@ -26,10 +26,10 @@ Malnutrition (most commonly sarcopenia) is a common complication of liver diseas
 | Anthropometry (BMI, weight, mid-arm circumference) | Easily measured; confounded by edema, ascites, bone density |
 | Waist circumference | Correlates better with metabolic disease risk than BMI; invalid with ascites |
 | Grip strength (handgrip dynamometry) | Inexpensive; surrogate for muscle function; predicts outcomes |
-| Liver Frailty Index (LFI) | Composite of grip strength + chair stands + balance; validated frailty metric in cirrhosis, predicts waitlist mortality [[aasld-2021-malnutrition-cirrhosis]] |
+| Liver Frailty Index (LFI) | Cirrhosis-specific, ~3 min, ambulatory **and** inpatient. Composite of grip strength + timed chair stands + balance testing; changes in LFI track outcomes. Cut-points below. [[aasld-2021-malnutrition-cirrhosis]] |
 | 6-minute walk test, sit-to-stand test | Contractile function; predicts outcomes |
 | Bioelectrical impedance | Improving; validates well against gold-standard body potassium |
-| CT at L3 level | Accurate for skeletal muscle and fat mass; often available from routine CLD imaging |
+| CT at L3 level | **Most consistent and reproducible** method to quantify muscle mass in cirrhosis; skeletal muscle index (SMI) cut-points below. **Do not order CT solely for muscle mass** (radiation) — quantify when an abdominal CT is obtained for clinical care, or when contractile-function testing is impractical (acutely ill, very young). MRI theoretically equivalent but **not validated** in cirrhosis. No bedside tool has sufficient data to substitute. [[aasld-2021-malnutrition-cirrhosis]] |
 | Subjective global assessment (SGA) | Requires training; subjective |
 | Serum albumin/prealbumin | Unreliable as nutritional markers (synthesized by liver) |
 
@@ -39,9 +39,24 @@ Malnutrition (most commonly sarcopenia) is a common complication of liver diseas
 - **Sarcopenic obesity:** muscle loss + excess fat; adverse outcomes from both components
 - **Cachexia:** malnutrition + inflammation; combination of muscle + fat loss
 
+### Severity Assessment — Validated Cut-Points
+
+*The tools above only support a decision once they are graded. All cut-points from [[aasld-2021-malnutrition-cirrhosis]].*
+
+| Metric | Bands | What it predicts |
+|---|---|---|
+| **Liver Frailty Index** | **Robust <3.2** · **Prefrail 3.2–4.3** · **Frail ≥4.4** | Frailty severity; one of only two tools (with KPS) whose *longitudinal* change has been tied to outcomes in cirrhosis. Each **0.1-unit** change in LFI is an increment of risk |
+| **CT skeletal muscle index (L3)** | Sarcopenic if **<39 cm²/m² in women**, **<50 cm²/m² in men** | **Waitlist mortality.** Derived in ~400 North American LT candidates, validated in a separate all-White cohort — ⚠ derivation cohort predominantly non-Hispanic and Hispanic White; validation in more diverse cohorts still needed |
+| **Karnofsky Performance Status (KPS)** | **High 80–100** · **Moderate 50–70** · **Low 10–40** | Performance status; longitudinally validated in cirrhosis |
+
+- Pooled CT-defined sarcopenia (across heterogeneous cut-points, 2000–2015): waitlist mortality **HR 1.72** (95% CI 0.99–3.00), post-transplant mortality **HR 1.84** (1.11–3.05).
+- ⚠ **The guidance stops short of recommending a specific threshold for intervention** — it grades severity but does not name an LFI or SMI value at which a given therapy is triggered.
+
 ---
 
 ## Differential Diagnosis
+
+*No diagnostic schema covers malnutrition — this is a contributor list, not a list of competing diagnoses, and the assessment tools above are the workup. For the liver disease driving it, see [[cirrhosis]] and [[abnormal-liver-chemistries]].*
 
 Malnutrition in liver disease is multifactorial:
 
@@ -137,7 +152,7 @@ Malnutrition in liver disease is multifactorial:
 
 ## See Also
 
-[[hepatic-encephalopathy]], [[ascites]], [[nafld-masld]], [[alcohol-associated-liver-disease]], [[hepatocellular-carcinoma]], [[rifaximin]], [[liver-transplantation]], [[acute-on-chronic-liver-failure]], [[nutrition-in-hospitalized-patients]], [[obesity]], [[gastroparesis]], [[small-intestinal-bacterial-overgrowth]], [[chronic-diarrhea]], [[nausea-and-vomiting]], [[enteral-access]], [[cirrhosis]]
+[[hepatic-encephalopathy]], [[ascites]], [[nafld-masld]], [[alcohol-associated-liver-disease]], [[hepatocellular-carcinoma]], [[rifaximin]], [[liver-transplantation]], [[acute-on-chronic-liver-failure]], [[nutrition-in-hospitalized-patients]], [[obesity]], [[gastroparesis]], [[small-intestinal-bacterial-overgrowth]], [[chronic-diarrhea]], [[nausea-and-vomiting]], [[enteral-access]], [[cirrhosis]], [[abnormal-liver-chemistries]]
 
 ---
 

@@ -3,7 +3,7 @@ title: "Somatostatin Analogs"
 category: med
 tags: [somatostatin-analog, octreotide, lanreotide, net, carcinoid, variceal-bleeding, angioectasia]
 created: 2026-06-18
-updated: 2026-08-27
+updated: 2026-08-28
 sources: [nccn-2026-net, aasld-2023-portal-hypertension, acg-2015-small-bowel-bleeding, aga-2024-vasoactive-albumin-cirrhosis]
 ---
 
@@ -74,7 +74,7 @@ For persistent/recurrent [[small-bowel-bleeding]] from [[angioectasia]] when the
 
 ## Adverse Effects & Monitoring
 
-By frequency, per [[aga-2024-vasoactive-albumin-cirrhosis]] Table 2. **Adverse events are generally dose-dependent but still occur at lower doses.**
+By frequency, per [[aga-2024-vasoactive-albumin-cirrhosis]] Table 2. Table note: **"In general, adverse events are dose-dependent."**
 
 | Agent | Reported in ≥10% | Reported in <10% |
 |---|---|---|

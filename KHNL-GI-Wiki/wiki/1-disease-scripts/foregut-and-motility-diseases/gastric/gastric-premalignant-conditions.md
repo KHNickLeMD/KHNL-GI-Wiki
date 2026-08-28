@@ -20,7 +20,7 @@ sources:
 
 # Gastric Premalignant Conditions
 
-Histopathologic stages along the Correa cascade that precede [[gastric-adenocarcinoma|gastric adenocarcinoma]]: [[atrophic-gastritis|atrophic gastritis (AG)]] → [[gastric-intestinal-metaplasia|gastric intestinal metaplasia (GIM)]] → dysplasia (LGD/HGD). [[helicobacter-pylori-infection|H. pylori]] is the dominant risk factor (attributable risk 75–89%). US 5-year GC survival is 36%; early detection is curative (>95% 5-year survival for early GC).
+Histopathologic stages along the Correa cascade that precede [[gastric-adenocarcinoma|gastric adenocarcinoma]]: [[atrophic-gastritis|atrophic gastritis (AG)]] → [[gastric-intestinal-metaplasia|gastric intestinal metaplasia (GIM)]] → dysplasia (LGD/HGD). [[helicobacter-pylori-infection|H. pylori]] is the dominant risk factor — **attributable risk 75%–89% for *noncardia* gastric adenocarcinoma** (the qualifier matters; the figure is not for cardia GC). US 5-year GC survival is **36%**, because only ~15% are diagnosed at the curable early stage; resection of early GC is typically curative (**>95% 5-year overall survival**).
 
 **GC disparity:** Incidence is 2–13× higher in non-White US populations (East Asian, Hispanic, Black, AIAN) vs non-Hispanic White. Korean Americans have NCGA rates comparable to [[colorectal-cancer|CRC]] in the general population (70/100,000 py).
 
@@ -36,13 +36,14 @@ Histopathologic stages along the Correa cascade that precede [[gastric-adenocarc
 - Family history of GC in first-degree relative (2–10× increased risk)
 - Race/ethnicity: East Asian, Latino/a, Black, AIAN
 - Foreign-born, first-generation immigrant from high-GC country (East Asia, Eastern Europe, Central/Andean South America)
+- Inherited cancer syndromes — e.g. [[hereditary-diffuse-gastric-cancer|HDGC (CDH1)]], [[lynch-syndrome]], [[familial-adenomatous-polyposis|FAP]], [[peutz-jeghers-syndrome|Peutz–Jeghers]]
 - Tobacco use
 - Male sex
 
-**Lesion-level risk factors (after endoscopy):**
+**Lesion-level risk factors (after endoscopy)** — with the magnitudes ACG cites, because these are what set the surveillance interval:
 
-- GIM subtype: **incomplete** > complete (higher progression risk)
-- GIM extent: **corpus-extension** (antrum + incisura + corpus) > limited (antrum/incisura only)
+- GIM subtype: **incomplete** > complete — **OR 4.06 (95% CI 2.79–5.91)** for GC vs no GIM
+- GIM extent: **corpus-extension** (antrum + incisura + corpus) > limited (antrum/incisura only) — **OR 7.39** vs no GIM; antrum-limited GIM was not significant (OR 2.1, 95% CI 0.7–6.6)
 - GIM/AG severity: proportion of atrophy or GIM on biopsy per compartment
 - Dysplasia grade: HGD > LGD > IND
 

@@ -3,7 +3,7 @@ title: "Acute Cholangitis"
 category: disease-script
 tags: [cholangitis, biliary-infection, tokyo-guidelines, severity-grading, biliary-drainage, ercp, choledocholithiasis, sepsis]
 created: 2026-08-25
-updated: 2026-08-27
+updated: 2026-08-28
 sources: [tg18-2018-cholangitis-flowchart, asge-2021-cholangitis, jagtap-2026-urgent-vs-early-ercp-cholangitis, aloysius-2026-ercp-timing-septic-shock-cholangitis, asge-2019-choledocholithiasis]
 ---
 
@@ -57,13 +57,13 @@ Bacterial infection of an obstructed biliary tree. Two decisions drive the whole
 | Grade | Rule | Criteria |
 |---|---|---|
 | **III — severe** | **any ONE** organ dysfunction | **Cardiovascular:** dopamine ≥5 μg/kg/min **or** noradrenaline required · **Neurological:** disturbance of consciousness · **Respiratory:** PaO₂/FiO₂ <300 · **Renal:** oliguria **or** creatinine >2.0 mg/dL · **Hepatic:** PT-INR >1.5 · **Coagulation:** platelet count <10⁴/μL ⚠ |
-| **II — moderate** | **any TWO** of five | WBC **≥12,000** or **<4,000** ⚠ · temperature **≥39 °C** · age **≥75 y** · total bilirubin **≥5 mg/dL** · albumin **< (lower limit of normal × 0.7) g/dL** ⚠ |
+| **II — moderate** | **any TWO** of five | WBC **>12,000** or **<4,000** ⚠ · temperature **≥39 °C** · age **≥75 y** · total bilirubin **≥5 mg/dL** · albumin **< (lower limit of normal × 0.7) g/dL** ⚠ |
 | **I — mild** | meets **neither** Grade II nor Grade III | — |
 
 - **The rules differ and the difference is the decision:** Grade III needs only **one** organ dysfunction; Grade II needs **two** of the five criteria — a single criterion (age ≥75 alone, bilirubin ≥5 alone) does **not** make cholangitis moderate.
 - **Grade II is defined by its therapeutic implication:** not severe, but **requires early biliary drainage**.
 - **Grade III is sepsis-induced organ damage**, not simply "sick-looking."
-- ⚠ **Three caveats, all from the same cause — the source's Table 3 is missing and these are transcribed from its running text.** (1) The **WBC** criterion is printed **without units** (published tables give cells/mm³ — not in the ingested file, so not asserted here). (2) The **albumin** cutoff is printed as "<(lower limit of normal value × 0.73 g/dL)", whose parenthesis placement is internally inconsistent. (3) The **platelet** cutoff is printed as **<10⁴/μL** (i.e. <10,000/μL), far below the usual coagulation-dysfunction threshold and likely a typesetting loss. See [[tg18-2018-cholangitis-flowchart]] before relying on any of the three.
+- ⚠ **Four caveats, all from the same cause — the source's Table 3 is missing and these are transcribed from its running text.** (1) **The comparison operators are not recoverable from the ingested file.** In the accepted manuscript the `<`, `>`, `≥` and `μ` glyphs are unmapped and drop out of text extraction: the sentence reads literally *"WBC 12,000 or 4000, temperature 39 ºC, age 75 years, total bilirubin 5 mg/dL"* and *"dopamine 5 g/kg/min … PaO2/FiO2 ratio 300 … PT-INR 1.5 … platelet count 104/L"*. **The only operator that survives verbatim is creatinine ">2.0".** Every other direction shown in the table above is read off the criterion's clinical sense, not off the source text — do not quote them as verbatim TG18 wording. (2) The **WBC** criterion is printed **without units** (not in the ingested file, so not asserted here). (3) The **albumin** cutoff is printed as "<(lower limit of normal value × 0.73 g/dL)", whose parenthesis placement is internally inconsistent. (4) The **platelet** cutoff is printed as **<10⁴/μL** (i.e. <10,000/μL), far below the usual coagulation-dysfunction threshold and likely a typesetting loss. See [[tg18-2018-cholangitis-flowchart]] before relying on any of these.
 - **General status** is graded alongside severity, using the **Charlson Comorbidity Index (CCI)** and the **ASA Physical Status classification**.
 
 ---

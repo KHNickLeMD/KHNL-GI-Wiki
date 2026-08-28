@@ -10,7 +10,7 @@ tags:
   - small-bowel
   - vascular-lesion
 created: 2026-05-19
-updated: 2026-08-14
+updated: 2026-08-28
 sources:
   - acg-2015-small-bowel-bleeding
 ---
@@ -36,11 +36,12 @@ sources:
 
 ### Mechanism
 
-- **Acquired type 2 von Willebrand deficiency.**
-  - High shear stress across the stenotic aortic valve → conformational change in vWF.
-  - Proteolytic cleavage of high-molecular-weight vWF multimers by ADAMTS13.
-  - Impaired platelet adhesion at vascular malformations → bleeding.
-- **Same mechanism with left ventricular assist devices (LVADs)** — continuous non-pulsatile flow generates analogous shear stress → acquired vWF deficiency → recurrent GI bleeding from angioectasia.
+- [[acg-2015-small-bowel-bleeding|ACG 2015]] calls the aortic-stenosis/[[angioectasia]] link a **controversial association**, thought to be secondary to an **acquired type 2 von Willebrand deficiency**.
+- Support for the relationship: some patients with aortic stenosis have resolution of GI bleeding after **aortic valve replacement**.
+- **Left ventricular assist device (LVAD) patients are likewise at risk** for angioectasia and recurrent bleeding, again secondary to an acquired von Willebrand deficiency syndrome.
+- Pilot studies: **decreased vWF levels predict recurrent bleeding** from small bowel angioectasia.
+
+> **Gap:** the guideline does not describe the shear-stress → HMW-multimer-cleavage cascade; a hematology source would be needed to state the mechanism in more detail. Do not fill from memory.
 
 ## Differential Diagnosis
 

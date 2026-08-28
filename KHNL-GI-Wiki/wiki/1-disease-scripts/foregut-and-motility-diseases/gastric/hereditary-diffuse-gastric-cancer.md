@@ -3,7 +3,7 @@ title: "Hereditary Diffuse Gastric Cancer"
 category: disease-script
 tags: [hdgc, cdh1, e-cadherin, diffuse-gastric-cancer, signet-ring-cell, lobular-breast-cancer, hereditary-cancer, prophylactic-gastrectomy, genetic-testing]
 created: 2026-05-19
-updated: 2026-08-14
+updated: 2026-08-28
 sources: [acg-2015-hereditary-gi-cancer]
 ---
 
@@ -75,7 +75,6 @@ Two consortium estimates are reported, and they differ — the newer one is why 
 
 - Detailed 30-minute [[upper-endoscopy|EGD]] with **multiple random biopsies** every 6–12 months beginning 5–10 years before the earliest cancer in the family
 - Enhanced visualization techniques may improve detection: **indigo-carmine staining** or **pH-sensitive congo red dye** followed by **pentagastrin stimulation** — improves detection of early gastric cancer
-- Esophageal and duodenal mucosa should be carefully inspected at the surgical specimen ends (gastric cancer after prophylactic gastrectomy has been reported)
 - Gastric cancer surveillance efficacy is uncertain; sensitivity of pre-gastrectomy EGD is limited — biopsies may be negative even when residual cancer is present (see the systematic-review data under [[#Prophylactic Gastrectomy]])
 
 ---
@@ -92,7 +91,9 @@ Key data:
 - Among 169 who underwent surgery, 62.7% had negative preoperative EGD biopsies
 - 12.4% tested positive for cancer on preoperative EGD; 87% of surgical specimens had positive histopathology (early signet-ring cells through linitis plastica); only 10% had completely negative final pathology
 
-**Extent of surgery**: total gastrectomy is required; partial gastrectomy is not appropriate given field effect and inability to survey residual gastric tissue.
+**Specimen handling**: identify **both the esophageal and duodenal mucosa at the ends of the surgical specimen** — gastric cancer after prophylactic gastrectomy has been reported [[acg-2015-hereditary-gi-cancer]].
+
+> **Corpus gap — extent of resection.** [[acg-2015-hereditary-gi-cancer]] recommends "prophylactic gastrectomy after age 20 years" but **does not state total vs partial gastrectomy**, reconstruction, or perioperative management, and no other ingested source covers it. Not asserted here from general knowledge; an IGCLC/NCCN HDGC-specific source would be needed.
 
 **Post-gastrectomy**:
 

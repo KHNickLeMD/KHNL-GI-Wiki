@@ -19,13 +19,37 @@ Ascites can be graded by volume and classified by treatment response:
 | Grade 2 | Moderate — symmetric abdominal distension | Sodium restriction + diuretics |
 | Grade 3 | Large/gross — marked abdominal distension | LVP first-line |
 
-**Treatment response categories:**
+**Treatment response categories** (AASLD 2021 Table 5):
 
-- **Responsive ascites:** Fully mobilized or reduced to grade 1 with medical therapy
-- **Recurrent ascites:** Recurs ≥3 times within 12 months despite sodium restriction and adequate diuretics
-- **Refractory ascites (RA):** Cannot be mobilized or early recurrence (within 4 weeks of mobilization) cannot be prevented by medical therapy; affects ~5–10% of cirrhotic ascites patients; 6-month survival ~50%
-  - *Diuretic-resistant:* No response to maximum doses (furosemide 160 mg/day + spironolactone 400 mg/day for ≥1 week)
-  - *Diuretic-intractable:* Side effects prevent adequate dosing
+- **Responsive ascites:** fully mobilized or limited to grade 1 with diuretics ± moderate dietary sodium restriction
+- **Recurrent ascites:** recurs on ≥3 occasions within a 12-month period despite dietary sodium restriction and adequate diuretic dosage — may be a forerunner of RA
+- **Refractory ascites (RA):** cannot be mobilized, or early recurrence (i.e. after LVP) cannot be satisfactorily prevented by medical therapy; ~5–10% of all patients with [[cirrhosis|cirrhosis]] and ascites; 6-month survival ~50%
+
+### Refractory Ascites — Diagnostic Criteria
+
+All three of the following must be met (AASLD 2021 Fig. 3): compliance with sodium restriction, failure of maximum diuretics *or* diuretic complications, and minimal urinary sodium excretion.
+
+| Criterion | Operative definition (AASLD 2021 Table 7) |
+|---|---|
+| Fails sodium restriction | 88 mmol (2,000 mg) sodium/day |
+| Fails maximum diuretic doses | Spironolactone 400 mg/day **or** amiloride 30 mg/day, **plus** furosemide 160 mg/day — **both for at least 1 week** |
+| Lack of treatment response | Mean weight loss <0.8 kg over 4 days, **and** urinary sodium less than sodium intake |
+| Early recurrence of ascites | Reappearance of grade 2 or grade 3 ascites **within 4 weeks** of initial mobilization |
+
+- **Diuretic-resistant RA:** ascites cannot be mobilized / early recurrence cannot be prevented **because of lack of response** to sodium restriction + maximal diuretics.
+- **Diuretic-intractable RA:** same, but **because of diuretic-induced complications** that preclude effective doses —
+  - renal impairment: increase in serum creatinine by **>100% to a value >2.0 mg/dL**
+  - hyponatremia: decrease of **>10 mmol/L** or an absolute value **<125 mmol/L**
+  - hypo- or hyperkalemia: K **<3 mmol/L** or **>6 mmol/L**
+  - [[hepatic-encephalopathy|hepatic encephalopathy]]
+
+**Related "refractory" definitions (AGA 2025 Table 1):**
+
+| Term | Definition |
+|---|---|
+| Refractory hepatic hydrothorax | HH unresponsive to salt restriction and diuretic therapy, requiring therapeutic thoracentesis |
+| Refractory hyponatremia | Ongoing hyponatremia despite maximal medical therapy |
+| Refractory anasarca | Lack of improvement in volume status despite maximal diuretics **and** persistent low urine sodium |
 
 ---
 
