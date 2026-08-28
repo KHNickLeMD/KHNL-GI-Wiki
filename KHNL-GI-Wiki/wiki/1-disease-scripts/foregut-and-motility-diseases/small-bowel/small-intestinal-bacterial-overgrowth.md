@@ -3,7 +3,7 @@ title: "Small Intestinal Bacterial Overgrowth (SIBO)"
 category: disease-script
 tags: [sibo, imo, small-bowel, breath-testing, rifaximin, ibs, motility, microbiome, malabsorption]
 created: 2026-05-19
-updated: 2026-08-27
+updated: 2026-08-28
 sources: [acg-2020-sibo]
 ---
 
@@ -126,7 +126,7 @@ Symptoms of SIBO are non-specific. The differential includes:
 - Glucose preferred in diabetics (lactulose avoided due to risk of acute hyperglycemia and gut dysmotility interference; fructose evaluated as alternative with similar sensitivity/specificity/accuracy ~48–71–58%)
 - Lactulose may be preferred for suspected distal SIBO
 
-**After treatment:** Retesting may correlate with symptom improvement; normalization of H₂ or CH₄ levels confirms eradication (Key Concept 15).
+*Post-treatment retesting: see [[#Monitoring]].*
 
 ### Small Bowel Aspirate and Culture (Historical Gold Standard)
 
@@ -186,18 +186,7 @@ Before initiating antibiotic therapy: make an objective effort to diagnose SIBO 
 | Tetracycline | 250 mg q.i.d. | 87.5% |
 | TMP-SMX | 160/800 mg b.i.d. | 95% |
 
-**IMO-specific treatment (methane/constipation):**
-
-Retrospective chart review of 74 patients with IMO (lactulose breath test), 10 days of therapy. The figures are the **proportion of patients whose methane fell to undetectable levels (<3 ppm)** on repeat breath testing — not the percentage by which methane fell. **Caveat on the entry criterion:** both neomycin/IMO studies defined a positive test as CH₄ **≥3 ppm**, not the ≥10 ppm now recommended by the North American Consensus — so the treated cohorts are not identical to patients diagnosed with IMO by the current cutoff.
-
-| Regimen | Patients reaching CH₄ <3 ppm |
-|---|---|
-| **Rifaximin 400 mg t.i.d. + neomycin 500 mg b.i.d.** | **87%** |
-| Neomycin 500 mg b.i.d. alone | 33% |
-| Rifaximin 400 mg t.i.d. alone | 28% |
-
-- Combination superior to either monotherapy for IMO
-- Separately, 10 days of neomycin 500 mg b.i.d. reduced methane to <3 ppm in **20%** of patients vs **1%** on placebo
+**IMO-specific treatment (methane/constipation):** the antibiotic regimens, doses, response rates, and the ≥3 ppm vs ≥10 ppm entry-criterion caveat live on **[[intestinal-methanogen-overgrowth]]** — note only that the IMO [[rifaximin]] dose (**400 mg t.i.d.**) is *not* the SIBO dose (550 mg t.i.d.) above, and that combination rifaximin + neomycin outperformed either monotherapy.
 
 **Recurrence:**
 

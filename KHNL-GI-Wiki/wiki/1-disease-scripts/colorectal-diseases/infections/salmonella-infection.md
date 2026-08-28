@@ -3,7 +3,7 @@ title: "Salmonella Infection (Non-typhoidal)"
 category: disease-script
 tags: [salmonella, bacterial-gastroenteritis, diarrhea, foodborne, travelers-diarrhea, bacteremia]
 created: 2026-05-19
-updated: 2026-08-11
+updated: 2026-08-28
 sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
 ---
 
@@ -39,7 +39,8 @@ Non-typhoidal *Salmonella* species are a major cause of foodborne diarrheal illn
 
 *Workup: see [[acute-diarrhea]].*
 
-- Other inflammatory bacterial enteritides — [[campylobacter-infection]], [[shigellosis]], [[enterotoxigenic-e-coli|Shiga-toxin *E. coli*]]
+- Other inflammatory bacterial enteritides — [[campylobacter-infection]], [[shigellosis]], *Yersinia enterocolitica*
+- **Shiga toxin–producing *E. coli* (STEC/EHEC)** — bloody diarrhea ± hemolytic uremic syndrome. **The one bloody-diarrhea pathogen you must NOT treat:** avoid antimicrobials for STEC O157 and any STEC producing Shiga toxin 2, *or when the toxin genotype is unknown* *(strong, moderate)*; for non–toxin-2 STEC the benefit/harm is undefined, so avoidance is still advised *(strong, low)*. [[idsa-2017-infectious-diarrhea]] (Rec 35) — antibacterials appear to increase HUS risk. [[acg-2016-acute-diarrhea]] likewise directs pathogen-directed therapy in febrile prolonged diarrhea **"for all but STEC infection."** *(Distinct from [[enterotoxigenic-e-coli|ETEC]], which is watery and noninvasive.)*
 - [[clostridioides-difficile|*C. difficile*]] colitis (antibiotic/healthcare exposure)
 - [[inflammatory-bowel-disease|Inflammatory bowel disease]] flare
 - Typhoid/enteric fever (*S.* Typhi/Paratyphi) — see [[fever-returning-traveler]]
@@ -70,6 +71,8 @@ Non-typhoidal *Salmonella* species are a major cause of foodborne diarrheal illn
 | Any pathogen-directed course | — | **Modify or stop** antimicrobials once a clinically plausible organism is identified *(Rec 38, strong/high)* |
 
 *Agent selection from [[idsa-2017-infectious-diarrhea]] Table 6; check current US susceptibility patterns (NARMS) when choosing.*
+
+> **Dose / duration gap — flagged, not filled.** Neither ingested source gives a **dose, route, or duration** for any of these agents in salmonellosis: [[idsa-2017-infectious-diarrhea]] Table 6 lists first-choice and alternative agents with **no dose column**, and [[acg-2016-acute-diarrhea]] Table 4 doses only the traveler's-diarrhea regimens (azithromycin, fluoroquinolones, [[rifaximin\|rifaximin]]) — not ceftriaxone, TMP-SMX, or amoxicillin, and not the longer courses used for invasive disease or enteric fever. The familiar "7–10 days, 14 days if immunocompromised or bacteremic" is **not in the corpus** and is deliberately not asserted. An IDSA/CDC enteric-fever or NTS treatment table would be needed to close this.
 
 - **[[rifaximin\|Rifaximin]]: do NOT use** — non-absorbable; ineffective for this invasive pathogen. [[acg-2016-acute-diarrhea]]
 - **[[loperamide\|Antimotility agents]]:** avoid at any age with fever or inflammatory diarrhea, and in children <18 years. [[idsa-2017-infectious-diarrhea]] (Rec 47)

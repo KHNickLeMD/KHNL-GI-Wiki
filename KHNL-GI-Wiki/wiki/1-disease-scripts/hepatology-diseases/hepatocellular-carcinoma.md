@@ -3,8 +3,34 @@ title: "Hepatocellular Carcinoma"
 category: disease-script
 tags: [hcc, hepatocellular, liver, cancer, hpb, surveillance, cirrhosis, hbv, adjuvant, immunotherapy, liver-transplant, milan-criteria, afp, downstaging, mtor-inhibitor, sirolimus, everolimus, bclc, sorafenib, lenvatinib, atezolizumab, bevacizumab, tace, tare, ablation, resection, li-rads, locoregional]
 created: 2026-05-16
-updated: 2026-08-14
-sources: [aasld-2023-hcc, aasld-2025-hcc-critical-update, aasld-ast-2025-liver-transplant-candidate-evaluation, aasld-ast-2025-liver-transplant-graft-complications, aga-2022-hcc-systemic, nccn-2026-hcc, aga-2026-hcc-surveillance]
+updated: 2026-08-28
+sources: [aasld-2023-hcc, aasld-2025-hcc-critical-update, aasld-ast-2025-liver-transplant-candidate-evaluation, aasld-ast-2025-liver-transplant-graft-complications, aga-2022-hcc-systemic, nccn-2026-hcc, aga-2026-hcc-surveillance, aasld-idsa-2025-chb-treatment]
+---
+
+## Contents
+- [[#Assessment]]
+  - [[#Establishing the Diagnosis]]
+  - [[#HCC Surveillance]]
+  - [[#Severity Assessment — BCLC Staging]]
+- [[#Differential Diagnosis]]
+- [[#Diagnostics]]
+  - [[#Imaging Diagnosis]]
+  - [[#Surveillance Recall Algorithm]]
+  - [[#Diagnostic Biomarkers]]
+- [[#Therapeutics]]
+  - [[#Multidisciplinary Care]]
+  - [[#Surgical Resection]]
+  - [[#Local Ablative Therapy]]
+  - [[#Locoregional Therapy — TACE and TARE]]
+  - [[#Systemic Therapy — Advanced HCC]]
+    - [[#First-Line Systemic Therapy Dosing]]
+    - [[#Second-Line and Beyond Systemic Therapy Dosing]]
+  - [[#Liver Transplantation for HCC]]
+  - [[#(Neo)Adjuvant Therapy After Resection or Local Ablation]]
+  - [[#Management of Recurrence After Resection or Local Ablation]]
+  - [[#Post-Transplant Immunosuppression for HCC Recipients]]
+  - [[#Advance Care Planning]]
+
 ---
 
 ## Assessment
@@ -457,3 +483,4 @@ Advance care planning (ACP) should be offered to all patients receiving palliati
 5. [[aga-2022-hcc-systemic|AGA Clinical Practice Guideline: Systemic Therapy for Hepatocellular Carcinoma (2022)]]
 6. [[nccn-2026-hcc|NCCN Clinical Practice Guidelines in Oncology: Hepatocellular Carcinoma (Version 1.2026)]]
 7. [[aga-2026-hcc-surveillance|AGA Clinical Practice Update on Risk Stratification and Emerging Surveillance Strategies for Hepatocellular Carcinoma: Expert Review]]
+8. [[aasld-idsa-2025-chb-treatment|AASLD/IDSA 2025 Practice Guideline on Treatment of Chronic Hepatitis B]]

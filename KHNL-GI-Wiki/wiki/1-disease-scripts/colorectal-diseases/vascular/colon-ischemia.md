@@ -3,7 +3,7 @@ title: "Colon Ischemia"
 category: disease-script
 tags: [colon-ischemia, ischemic-colitis, mesenteric-ischemia, hematochezia, colonoscopy, surgery, vascular]
 created: 2026-05-21
-updated: 2026-08-14
+updated: 2026-08-28
 sources: [acg-2015-colon-ischemia]
 ---
 
@@ -15,6 +15,10 @@ sources: [acg-2015-colon-ischemia]
 - [[#Differential Diagnosis]]
 - [[#Diagnostics]]
 - [[#Therapeutics]]
+  - [[#Initial Management]]
+  - [[#Medication Review and Risk Reduction]]
+  - [[#Follow-Up]]
+  - [[#Special Situations]]
 - [[#See Also]]
 - [[#Sources]]
 
@@ -32,7 +36,17 @@ Colon ischemia (CI) results when blood flow to the colon falls below the level n
 - **Hematochezia points to non-IRCI** *(Strong, very low)* — patients with **IRCI more often have pain than bleeding** (only 25–46% of IRCI have rectal bleeding)
 - Occurs at all ages but **rises with age, especially after 49 y**; **women are 57–76%** of large series, with female predominance greatest after age 69
 
-**Epidemiology / course:** annual incidence 15.6–17.7/100,000. Symptoms generally resolve in 2–3 days and the colon heals in 1–2 weeks; severe injury may take up to 6 months to heal (patient usually asymptomatic meanwhile). Cumulative recurrence ≈3% at 1 y, 5% at 2–3 y, 6% at 4 y, 10% at 5–6 y. [[acg-2015-colon-ischemia]]
+**Epidemiology / course:** annual incidence 15.6–17.7/100,000. Symptoms generally resolve in 2–3 days and the colon heals in 1–2 weeks; severe injury may take up to 6 months to heal (patient usually asymptomatic meanwhile). Cumulative recurrence ≈3% at 1 y, 5% at 2–3 y, 6% at 4 y, 10% at 5–6 y. Mortality across large series **4–12%**. [[acg-2015-colon-ischemia]]
+
+**Who to suspect — risk factors (best-practice summary statements; GRADE not applicable)** [[acg-2015-colon-ischemia]]:
+
+- **Comorbid cardiovascular disease and diabetes mellitus** should increase consideration of CI when the clinical features are typical
+- Seek a history of **[[irritable-bowel-syndrome|IBS]] and constipation**
+- **Selective cardiology consultation** is justified, particularly if a cardiac source of embolism is suspected
+- **Chronic kidney disease and COPD** are associated with **increased mortality** from CI
+- **Evaluation for thrombophilia** should be considered in **young patients with CI** and in **all patients with recurrent CI**
+- **Surgery in which the IMA has been sacrificed** (AAA repair, other abdominal operations) should increase consideration of CI
+- Seek a **medication and drug history** — especially constipation-inducing drugs, immunomodulators, and illicit drugs
 
 **Key diagnostic steps:**
 
@@ -120,25 +134,25 @@ Severity classification and management (Table 6, ACG 2015) — the moderate/seve
 
 ## Diagnostics
 
-**Imaging:**
+*The core sequence (CT → colonoscopy within 48 h → CTA when AMI is in play) and its grades are under [[#Establishing the Diagnosis]]; this section covers what those tests add and what is **not** indicated.*
 
-- CT abdomen/pelvis with IV and oral contrast: first-line (Strong, Moderate evidence) [[acg-2015-colon-ischemia]]
-- CT angiography: not routine; reserve for IRCI, clinical AMI concern, or when surgical planning requires vascular map
-- Plain abdominal film: limited; may show thumbprinting, pneumatosis, or free air in advanced disease
-- MRI: not recommended acutely; CT superior for speed and specificity
+**Imaging — supporting points** [[acg-2015-colon-ischemia]]:
 
-**Endoscopy:**
+- CT is worth obtaining specifically in **moderate or severe CI** (Table 6 strata) even if not done on admission — these patients are at highest risk of poor outcome and the distribution changes management
+- CTA is **not routine**; reserve for suspected IRCI, clinical concern for [[acute-mesenteric-ischemia|AMI]], or surgical vascular mapping
+- **Barium enema is obsolete for diagnosis** — replaced by CT and colonoscopy; its residual use is following an ischemic stricture (CT colonography or other imaging can serve the same purpose)
 
-- Colonoscopy within 48h: diagnostic standard (Strong, Low evidence); identify distribution, depth, biopsy [[acg-2015-colon-ischemia]]
-- Biopsy: required for histopathologic confirmation (Strong, Low evidence); not needed if peritonitis present
-- Follow-up colonoscopy at 4–6 weeks: documents healing or identifies stricture (Strong, Low evidence)
+**Endoscopy — supporting points:**
+
+- Colonoscopy defines distribution and depth and allows mucosal biopsy, which is what BE/CT cannot do
+- **Do not routinely repeat colonoscopy to document mucosal healing** once the patient is asymptomatic after the index episode — **there are no data supporting a benefit** [[acg-2015-colon-ischemia]]. Re-evaluate only for persisting symptoms, suspected stricture, or recurrence
 
 **Laboratory:**
 
-- CBC, CMP, coagulation studies, blood cultures
-- Serum lactate, LDH, CK: elevated values suggest severe/transmural disease
-- Stool culture + CDI PCR: exclude infectious colitis before finalizing diagnosis
-- Hypercoagulable workup (factor V Leiden, prothrombin mutation, JAK2, antiphospholipid, antithrombin III, protein C/S): consider in young patients, right-sided CI, recurrent CI, or no identifiable precipitant
+- Labs are used **to predict severity, not to make the diagnosis** — no single test is diagnostic [[acg-2015-colon-ischemia]]
+- **Decreased hemoglobin, low serum albumin, and metabolic acidosis** predict severity; lactate, LDH, and CK are obtained as part of the same assessment
+- Stool studies to exclude infectious colitis ([[clostridioides-difficile|CDI]] testing, enteric pathogens) before finalizing the diagnosis
+- **Thrombophilia evaluation** — consider in **young patients with CI** and in **all patients with recurrent CI** *(best-practice summary statement)*. Reported associations include **antiphospholipid syndrome** (notably the "catastrophic" variant) and **factor V Leiden**; the guideline does not specify a required panel
 
 ---
 
@@ -146,17 +160,20 @@ Severity classification and management (Table 6, ACG 2015) — the moderate/seve
 
 ### Initial Management
 
-**Mild CI** [[acg-2015-colon-ischemia]]:
+**Most cases of CI resolve spontaneously and require no specific therapy** *(Strong, low)* [[acg-2015-colon-ischemia]].
 
-- NPO, IV fluids, bowel rest
-- No antibiotics required for purely mild disease (though often given in practice)
-- Monitor for clinical deterioration; most resolve within 48–72h
+**Mild CI:**
 
-**Moderate CI** [[acg-2015-colon-ischemia]]:
+- Supportive care — bowel rest, IV fluids, correction of cardiovascular abnormalities
+- **Antimicrobials are not recommended at this stratum** — the graded recommendation restricts them to moderate/severe disease
+- Symptoms generally resolve in 2–3 days; monitor for deterioration and for restratification into moderate/severe
 
-- NPO, IV fluids
-- Broad-spectrum antibiotics covering gram-negative organisms and anaerobes (Strong, Very Low evidence) — e.g., piperacillin-tazobactam or ceftriaxone + metronidazole
-- Repeat CT or colonoscopy if no improvement at 72h
+**Moderate CI:**
+
+- Supportive care as above plus **antimicrobial therapy** *(Strong, very low)* — the guideline says **"broad-spectrum"** and deliberately specifies **no agent, combination, or duration**; no randomized human trial stratified by severity exists
+- Surgical consultation (Table 6)
+
+> **Decision gap (source-blocked):** [[acg-2015-colon-ischemia]] gives no antibiotic regimen, dose, or duration for CI, and states a properly designed RCT of antibiotics stratified by severity is unlikely ever to be performed. Do not infer a regimen — an intra-abdominal-infection guideline (e.g. IDSA/SIS) would be needed.
 
 **Severe CI / Surgical Indications** [[acg-2015-colon-ischemia]]:
 Surgery is required (Strong, Moderate evidence) when:
@@ -172,33 +189,54 @@ Surgical approach: resection of ischemic segment; primary anastomosis vs. [[osto
 
 ### Medication Review and Risk Reduction
 
-- Discontinue all potentially causative medications (Strong, Very Low evidence): estrogen-containing contraceptives, NSAIDs, constipating agents ([[alosetron]], [[tegaserod]]), sympathomimetics, cocaine, antipsychotics with anticholinergic effects
-- Address underlying precipitants: hypovolemia, hypotension, cardiac dysrhythmia, coagulopathy
+Review and stop implicated drugs, and address precipitants (hypovolemia, hypotension, low cardiac output, dysrhythmia). **Drugs proposed to predispose to CI** ([[acg-2015-colon-ischemia]] Table 3 — strength of association varies widely, and several are single case reports):
+
+| Class | Evidence in Table 3 |
+|---|---|
+| **Constipation-inducing drugs** | Predicted CI in patients with abdominal pain **OR 2.8** (1.1–7.1); opioids **1.96** (1.43–2.67), nonopioids **1.75** (1.25–2.44) |
+| **Antibiotics** | **OR 3.3** (2.19–4.96) — antibiotic-associated colitis also mimics CI (usually right-sided) |
+| **Diuretics** | **OR 1.6** (1.2–2.1) |
+| **Female hormones** | **OR 1.88** (1.30–2.73). **Oral contraceptives OR 1.05** (1.00–1.10) in one study, risk **unaffected** in two others; **estrogen replacement risk unaffected** — do not overstate these |
+| **Illicit drugs** | Cocaine used by **20%** of CI patients at 2 inner-city hospitals (37% right-sided, **26% mortality**); amphetamines case reports |
+| **Immunomodulators** | Anti-TNF-α, interferon-α/β — FDA AERS case clusters |
+| Chemotherapy (taxanes, vinca alkaloids), decongestants (pseudoephedrine, phenylephrine), ergot alkaloids, appetite suppressants, laxatives | Case reports / weak or null case–control signal |
+
+- [[irritable-bowel-syndrome|IBS]] entered the risk-factor conversation because **[[alosetron]]** (for diarrhea-predominant IBS) was withdrawn from the US market after reports of CI among users in the first months after launch
 
 ### Follow-Up
 
-- Colonoscopy at 4–6 weeks post-episode to document healing and assess for stricture (Strong, Low evidence)
-- If symptoms persist beyond 2–3 weeks: re-evaluate for chronic segmental ischemia (Strong, Low evidence)
-- Recurrent CI: review medications, hypercoagulable workup, CT angiography for mesenteric vessel disease
+- **Do not routinely re-scope an asymptomatic patient** to prove healing — see [[#Diagnostics]]
+- **Symptoms persisting >2 weeks** are associated with a higher incidence of acute complications and irreversible disease (gangrene, perforation, segmental ulcerating colitis, stricture) — re-evaluate rather than continue observing
+- **Chronic segmental ischemic colitis** (defined under [[#Classification / Typing]]) — resection of the unhealed segment is curative
+- **Ischemic stricture** — may even resolve over months to years. **Operate only when it becomes symptomatic**; segmental resection is adequate, and transendoscopic dilation is an alternative but an unproven one
+- Recurrent CI: review medications, consider thrombophilia evaluation
 
 ### Special Situations
 
-**Post-aortic surgery CI:**
+**Post-aortic-surgery CI** — the mechanism is **sacrifice of the IMA**, so this applies to AAA repair and other IMA-sacrificing abdominal operations (including surgery for [[colorectal-cancer|colon carcinoma]]) [[acg-2015-colon-ischemia]]:
 
-- Most common affected segment: sigmoid colon (IMA ligation during aortic repair)
-- Incidence up to 7% after aortic surgery
-- Flexible sigmoidoscopy within 24–48h post-op is reasonable if clinical concern
+| Setting | Postoperative CI rate |
+|---|---|
+| All AAA repairs (survey of 89,967 admissions) | **2.2%** |
+| **Ruptured** AAA repair | **8.9%** |
+| Open elective AAA repair | **1.9%** |
+| Endovascular AAA repair | **0.5%** |
+
+- Routine postoperative sigmoidoscopy after AAA repair shows **mild CI is far more common than symptomatic CI**
+- Conversely, prior AAA repair preceded CI in only **<1–2%** of all reported CI cases — it is a strong risk factor but a small share of the caseload
 
 **Hemodialysis patients:**
 
-- Higher incidence of CI due to hemodynamic instability during dialysis sessions
-- Consider CI in dialysis patients with abdominal pain post-session
+- Hemodialysis **independently predicted CI** in patients presenting with acute lower abdominal pain; the proposed mechanism is fluctuation in fluid balance with a fall in circulating blood volume
+- **Right-sided disease occurred in 3× as many patients on hemodialysis** as in others — dialysis is one of the clinical scenarios that should raise suspicion for **IRCI** specifically
+
+**Post-colonoscopy CI:** reduced colonic blood flow from luminal distention and raised intraluminal pressure, both **more pronounced with air than CO₂ insufflation** — the mechanistic basis for the "insufflate minimally" recommendation above
 
 ---
 
 ## See Also
 
-[[acute-lower-gi-bleeding]], [[acute-mesenteric-ischemia]], [[crohns-disease]], [[ulcerative-colitis]], [[colonoscopy]], [[clostridioides-difficile]], [[portal-vein-thrombosis]], [[radiation-proctopathy]], [[colorectal-cancer]], [[campylobacter-infection]], [[microscopic-colitis]], [[ostomy-management]]
+[[acute-lower-gi-bleeding]], [[acute-mesenteric-ischemia]], [[crohns-disease]], [[ulcerative-colitis]], [[colonoscopy]], [[clostridioides-difficile]], [[portal-vein-thrombosis]], [[radiation-proctopathy]], [[colorectal-cancer]], [[campylobacter-infection]], [[microscopic-colitis]], [[ostomy-management]], [[diverticulitis]], [[irritable-bowel-syndrome]], [[alosetron]], [[mesenteric-artery-aneurysm]]
 
 ---
 

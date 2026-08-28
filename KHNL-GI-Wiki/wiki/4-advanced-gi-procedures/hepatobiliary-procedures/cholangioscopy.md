@@ -3,7 +3,7 @@ title: "Cholangioscopy"
 category: advanced-procedure
 tags: [cholangioscopy, ercp, biliary-stricture, cholangiocarcinoma, hepatobiliary]
 created: 2026-06-04
-updated: 2026-08-11
+updated: 2026-08-28
 sources: [asge-2023-indeterminate-biliary-strictures, acg-2023-biliary-strictures, asge-2015-ercp-benign-biliary]
 ---
 
@@ -28,7 +28,25 @@ Per [[asge-2023-indeterminate-biliary-strictures]], the ASGE suggests cholangios
 
 ### Visual characterization
 
-Malignant strictures appear **nodular, papillary, or infiltrative** with irregular mucosa and neovascularization; benign strictures lack these features. Standardized visual systems include the Miami and Paris classifications for adjunctive [[confocal-laser-endomicroscopy]].
+Malignant strictures take one of **three cholangioscopic morphologies** — knowing which one you are looking at is what targets the mini-forceps bite ([[asge-2023-indeterminate-biliary-strictures]]):
+
+| Malignant morphology | Distinguishing features |
+|---|---|
+| **Nodular** | Irregular mucosa with **severe neovascularization**; the mass can obstruct the lumen |
+| **Papillary** | **Numerous papillary projections**, **less** neovascularization than nodular |
+| **Infiltrative** | Luminal narrowing **without a discrete mass**; more **whitish mucosal discoloration** plus neovascularization |
+
+Benign strictures lack these features.
+
+**Adjunctive [[confocal-laser-endomicroscopy|probe-based confocal laser endomicroscopy (pCLE)]] — what each classification actually calls:**
+
+| System | Criteria |
+|---|---|
+| **Miami** (consensus; benign vs malignant) | *Malignant:* **thick dark bands** of collagen fibrils; **thickened white bands** within the vessels. ⚠ Limitation: **low interobserver agreement** |
+| **Paris** (refinement; defines the *benign inflammatory* stricture) | **Vascular congestion**, **dark granular patterns with scales**, **increased interglandular space**, **thickened reticular structures** |
+
+- Pooled pCLE performance: **sensitivity 90% (95% CI 86–94), specificity 72% (65–79)**; best application is its **NPV ~94%** for malignancy.
+- ASGE panel position: pCLE is **difficult to master and expensive** — widespread adoption unlikely in the near future. ([[asge-2023-indeterminate-biliary-strictures]])
 
 ---
 

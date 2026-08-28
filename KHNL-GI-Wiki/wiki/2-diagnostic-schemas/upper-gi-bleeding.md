@@ -3,8 +3,34 @@ title: "Upper GI Bleeding"
 category: diagnostic-schema
 tags: [ugib, peptic-ulcer, gi-bleeding, endoscopy, forrest, glasgow-blatchford, melena]
 created: 2026-05-15
-updated: 2026-08-14
+updated: 2026-08-28
 sources: [acg-2021-ugib, acg-2023-lgib]
+---
+
+## Contents
+- [[#Definition / Scope]]
+  - [[#UGIB vs. LGIB Distinction]]
+- [[#Differential Diagnosis]]
+  - [[#Most Common (Non-Variceal)]]
+  - [[#Variceal / Portal Hypertensive]]
+  - [[#Less Common]]
+- [[#Diagnostic Algorithm]]
+  - [[#Step 1: Initial Assessment and Resuscitation (Simultaneous)]]
+  - [[#Step 2: Risk Stratification in the Emergency Department]]
+  - [[#Step 3: Pre-Endoscopic Management]]
+  - [[#Step 4: Timing of Endoscopy]]
+  - [[#Step 5: Endoscopic Evaluation — Ulcer Stigmata]]
+  - [[#Step 6: Choice of Endoscopic Hemostatic Therapy (Ulcer Bleeding)]]
+  - [[#Step 7: Post-Endoscopic Management (Ulcer Bleeding)]]
+  - [[#Step 8: Recurrent Bleeding]]
+- [[#Key Tests]]
+  - [[#Glasgow-Blatchford Score]]
+  - [[#Rockall Score]]
+  - [[#AIMS65 Score]]
+  - [[#Machine-Learning Risk Models]]
+  - [[#CT Angiography]]
+- [[#Red Flags / Alarm Features]]
+
 ---
 
 ## Definition / Scope
@@ -78,7 +104,8 @@ If UGIB is clinically suspected in a patient presenting with apparent LGIB, perf
 - Labs: CBC, BMP (BUN:Cr ratio), coagulation studies (INR, aPTT), liver function tests, type and screen
 - Large-bore IV access (2 peripheral IVs); IV fluid resuscitation for hemodynamic instability
 - **Transfusion threshold: Hgb 7 g/dL** for hemodynamically stable patients
-  - 8 g/dL for pre-existing cardiovascular disease
+  - **8 g/dL** for **pre-existing cardiovascular disease**
+  - **>8 g/dL may be considered** in UGIB with **acute coronary syndrome** — a higher threshold than the CV-disease rule ([[acg-2021-ugib]])
   - Hypotensive patients may receive transfusion above 7 g/dL before hemoglobin equilibrates with resuscitation
   - Do not transfuse to a target of 9 g/dL — restrictive strategy reduces further bleeding and mortality
 
@@ -104,8 +131,10 @@ If UGIB is clinically suspected in a patient presenting with apparent LGIB, perf
 | **Heart rate ≥100 bpm** | 1 |
 | **Melena** | 1 |
 | **Syncope** | 2 |
-| **Hepatic disease** | 2 |
-| **Cardiac failure** | 2 |
+| **Hepatic disease** ᵃ | 2 |
+| **Cardiac failure** ᵃ | 2 |
+
+ᵃ **Definitional caveat you must know before scoring:** hepatic disease and cardiac failure were **not defined in the original GBS report**. [[acg-2021-ugib|ACG 2021]] cites a later study defining **hepatic disease** as *known history, or clinical and laboratory evidence, of chronic or acute liver disease*, and **cardiac failure** as *known history, or clinical and echocardiographic evidence, of cardiac failure*. All other variables are objective — these two are where scoring drifts between raters.
 
 **GBS 0–1**: Very low risk — 99% sensitivity (95% CI lower bound 97–98%) for hospital-based intervention or death. Safe for discharge with outpatient follow-up. Represents 19–24% of UGIB ED presentations. [[acg-2021-ugib]]
 
@@ -115,16 +144,18 @@ If UGIB is clinically suspected in a patient presenting with apparent LGIB, perf
 
 ### Step 3: Pre-Endoscopic Management
 
-- **Erythromycin 250 mg IV** infused over 20–30 minutes, administered 20–90 minutes before endoscopy
+- **Erythromycin 250 mg IV** infused over **5–30 min (most often 20–30 min)**, with endoscopy **20–90 min later** ([[acg-2021-ugib]] — 250 mg because that or a similar dose was used in the RCTs)
   - Reduces need for repeat endoscopy (OR 0.51) and hospital length of stay (mean –1.75 days)
   - Does not improve further bleeding or mortality
-  - Caution: QT prolongation, especially at higher doses or with repeat administration; check for concurrent QT-prolonging drugs
+  - Benefit was **not restricted to any subgroup** in the RCT enrollment criteria — so it is not reserved for suspected large clot burden
+  - Caution: QT prolongation, related to infusion rate and dose; torsade is very rare and reported with **repeated and/or higher** doses. Trials variably excluded baseline QT prolongation, cardiac disease, electrolyte abnormalities, hepatic dysfunction, concurrent antiarrhythmics, and QT-prolonging CYP3A4 substrates
+- **Metoclopramide is NOT a substitute** — evidence is scant (older abstracts only) and does **not** support its use ([[acg-2021-ugib]])
 - **Pre-endoscopic [[proton-pump-inhibitors|PPI]]**: No recommendation for or against (ACG 2021)
   - May modestly reduce high-risk stigmata at index endoscopy and need for endoscopic therapy
   - No demonstrated benefit for further bleeding or mortality in properly designed RCTs
   - Reasonable to administer if endoscopy will be substantially delayed or unavailable
 
-### Step 4: Timing of Endoscopy [[upper-endoscopy]]
+### Step 4: Timing of Endoscopy
 
 **Endoscopy within 24 hours of presentation** for all hospitalized UGIB patients (conditional recommendation). [[acg-2021-ugib]]
 
@@ -212,7 +243,7 @@ If UGIB is clinically suspected in a patient presenting with apparent LGIB, perf
 
 ## Key Tests
 
-### Endoscopy [[upper-endoscopy]]
+### Endoscopy
 
 - Diagnostic and therapeutic gold standard for UGIB
 - Identifies source in >90% of cases when performed within 24 hours

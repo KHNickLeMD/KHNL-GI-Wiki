@@ -3,7 +3,7 @@ title: "Dysphagia"
 category: diagnostic-schema
 tags: [dysphagia, esophageal, oropharyngeal, motility, achalasia, eosinophilic-esophagitis, odynophagia, globus]
 created: 2026-06-04
-updated: 2026-08-14
+updated: 2026-08-28
 sources: [acg-2020-esophageal-physiologic-testing, chicago-v4-2021-esophageal-dysmotility, acg-2025-egd-quality, aga-2024-esophageal-immunity-infection, acg-2020-achalasia]
 ---
 
@@ -121,13 +121,13 @@ Prompt expedited [[upper-endoscopy|EGD]] (and raise concern for malignancy):
 - **Age ≥ 60 with new-onset dysphagia**
 - **Recurrent aspiration or aspiration pneumonia**
 - **A palpable neck/supraclavicular mass or lymphadenopathy**
-- **Food impaction** (acute, with inability to handle secretions) — emergent endoscopy; strongly associated with [[eosinophilic-esophagitis|EoE]] and rings
+- **[[ingested-foreign-body|Food impaction]]** (acute, with inability to handle secretions) — emergent endoscopy; strongly associated with [[eosinophilic-esophagitis|EoE]] and rings
 
 ---
 
 ## See Also
 
-[[eosinophilic-esophagitis]], [[infectious-esophagitis]], [[lymphocytic-esophagitis]], [[esophageal-dysfunction-systemic-disease]], [[achalasia]], [[gerd]], [[esophageal-cancer]], [[barretts-esophagus]], [[distal-esophageal-spasm]], [[hypercontractile-esophagus]], [[ineffective-esophageal-motility]], [[esophagogastric-junction-outflow-obstruction]], [[high-resolution-manometry]], [[chicago-classification-v4]], [[flip-panometry]], [[reflux-testing]], [[ambulatory-reflux-monitoring]], [[upper-endoscopy]], [[laryngopharyngeal-symptoms]], [[disorders-of-gut-brain-interaction]], [[iron-deficiency-anemia]]
+[[eosinophilic-esophagitis]], [[infectious-esophagitis]], [[lymphocytic-esophagitis]], [[esophageal-dysfunction-systemic-disease]], [[achalasia]], [[gerd]], [[esophageal-cancer]], [[barretts-esophagus]], [[distal-esophageal-spasm]], [[hypercontractile-esophagus]], [[ineffective-esophageal-motility]], [[esophagogastric-junction-outflow-obstruction]], [[high-resolution-manometry]], [[chicago-classification-v4]], [[flip-panometry]], [[reflux-testing]], [[ambulatory-reflux-monitoring]], [[upper-endoscopy]], [[laryngopharyngeal-symptoms]], [[disorders-of-gut-brain-interaction]], [[iron-deficiency-anemia]], [[ingested-foreign-body]]
 
 ---
 

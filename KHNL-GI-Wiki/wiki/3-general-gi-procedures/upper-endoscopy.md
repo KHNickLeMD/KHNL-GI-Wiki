@@ -3,8 +3,8 @@ title: "Upper Endoscopy (EGD)"
 category: general-procedure
 tags: [egd, upper-endoscopy, esophagogastroduodenoscopy, ugib, barrett-esophagus, peptic-ulcer, gpmc, celiac, quality-indicators]
 created: 2026-05-07
-updated: 2026-08-26
-sources: [acg-2025-egd-quality, aga-2024-upper-endoscopy-quality, aga-2024-glp1-endoscopy]
+updated: 2026-08-28
+sources: [acg-2025-egd-quality, aga-2024-upper-endoscopy-quality, aga-2024-glp1-endoscopy, asge-2011-foreign-body-ingestion]
 ---
 
 # Upper Endoscopy (EGD)
@@ -35,6 +35,7 @@ Supplementary best practice guidance from AGA 2024 Clinical Practice Update. [[a
 - Hemostasis (UGIB)
 - Dilation (strictures)
 - [[endoscopic-mucosal-resection|EMR]]/[[endoscopic-submucosal-dissection|ESD]] for dysplasia (EoE, BE, early GC)
+- [[ingested-foreign-body|Foreign body retrieval and food bolus impaction]] — flexible endoscopy is first-line (0 perforations in 76 cases vs 2/63, 3.2%, with rigid esophagoscopy); esophageal objects and food impactions removed within 24 h ([[asge-2011-foreign-body-ingestion]])
 - Endobariatrics, third-space endoscopy (out of scope for this document)
 
 **Not indicated (commonly misused):** routine GERD without alarm features on [[proton-pump-inhibitors|PPI]], nonspecific nausea without alarm features.
@@ -231,7 +232,7 @@ More rigorous documentation is recommended for Barrett's esophagus, gastric inte
 
 ## See Also
 
-[[gastric-premalignant-conditions]], [[gastric-adenocarcinoma]], [[gastric-intestinal-metaplasia]], [[gastric-polyps]], [[eosinophilic-esophagitis]], [[helicobacter-pylori-infection]], [[peptic-ulcer-disease]], [[barretts-esophagus]], [[endoscopic-eradication-therapy]], [[endoscopic-mucosal-resection]], [[polypectomy]], [[colonoscopy]], [[celiac-disease]], [[upper-gi-bleeding]], [[gerd]], [[dysphagia]], [[dyspepsia]], [[nausea-and-vomiting]], [[proton-pump-inhibitors]], [[potassium-competitive-acid-blockers]], [[endoscopy-sedation]], [[antibiotic-prophylaxis-endoscopy]], [[artificial-intelligence-endoscopy]], [[reflux-testing]]
+[[gastric-premalignant-conditions]], [[gastric-adenocarcinoma]], [[gastric-intestinal-metaplasia]], [[gastric-polyps]], [[eosinophilic-esophagitis]], [[helicobacter-pylori-infection]], [[peptic-ulcer-disease]], [[barretts-esophagus]], [[endoscopic-eradication-therapy]], [[endoscopic-mucosal-resection]], [[polypectomy]], [[colonoscopy]], [[celiac-disease]], [[upper-gi-bleeding]], [[gerd]], [[dysphagia]], [[dyspepsia]], [[nausea-and-vomiting]], [[proton-pump-inhibitors]], [[potassium-competitive-acid-blockers]], [[endoscopy-sedation]], [[antibiotic-prophylaxis-endoscopy]], [[artificial-intelligence-endoscopy]], [[reflux-testing]], [[ingested-foreign-body]]
 
 ---
 
@@ -240,3 +241,4 @@ More rigorous documentation is recommended for Barrett's esophagus, gastric inte
 1. [[acg-2025-egd-quality|ACG/ASGE 2025: Quality Indicators for Upper GI Endoscopy (EGD)]]
 2. [[aga-2024-upper-endoscopy-quality|AGA 2024: Quality Indicators for Upper GI Endoscopy]]
 3. [[aga-2024-glp1-endoscopy|AGA Rapid Clinical Practice Update on the Management of Patients Taking GLP-1 Receptor Agonists Prior to Endoscopy: Communication (2024)]]
+4. [[asge-2011-foreign-body-ingestion|ASGE Guideline: Management of Ingested Foreign Bodies and Food Impactions (2011)]]

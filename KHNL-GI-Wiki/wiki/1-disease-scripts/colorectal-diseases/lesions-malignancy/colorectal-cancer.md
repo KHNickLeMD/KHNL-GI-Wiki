@@ -98,18 +98,21 @@ sources: [acg-2015-hereditary-gi-cancer, usmstf-2015-crc-surveillance, usmstf-20
 
 *Workup: see [[acute-lower-gi-bleeding]].*
 
-- [[inflammatory-bowel-disease|IBD]]-associated dysplasia (surveillance + SCENIC technique: [[ulcerative-colitis]]), large adenoma, [[gastroenteropancreatic-neuroendocrine-tumors|neuroendocrine tumor]], lymphoma, anal canal SCC, metastatic disease
+- **[[inflammatory-bowel-disease|IBD]]-associated dysplasia** — long-standing [[ulcerative-colitis]] or colonic [[crohns-disease|Crohn's]]; surveyed and resected by SCENIC technique rather than treated as sporadic adenoma
+- **Large adenoma / [[polypectomy|malignant polyp]]** — the key distinction is depth of submucosal invasion and adverse histology, which decides endoscopic vs surgical management (criteria on [[polypectomy]])
+- **[[gastroenteropancreatic-neuroendocrine-tumors|Neuroendocrine tumor]]** — submucosal, yellowish, often rectal; graded by Ki-67/mitotic rate, not by TNM alone
+- **Lymphoma**, **anal canal squamous cell carcinoma**, and **metastatic disease** to the colon
+- **[[colon-ischemia|Colon ischemia]]** and **[[diverticulitis]]** — segmental wall thickening on CT that mimics an annular mass
+- **Hereditary syndromes are not a differential but a modifier** — [[lynch-syndrome]], [[familial-adenomatous-polyposis]], [[mutyh-associated-polyposis]], and [[serrated-polyposis-syndrome]] change the resection and the surveillance interval, so establish syndrome status before choosing the operation
 
 ## Diagnostics
 
-- [[colonoscopy|Colonoscopy]], biopsy, CT, MRI rectum, CEA, MMR/MSI testing (Lynch screen), BRAF/KRAS/NRAS for metastatic
+*Diagnosis and staging tests are listed under [[#Establishing the Diagnosis]]; molecular testing is covered under [[#Oncologic Management (NCCN 2026)]]. Not repeated here.*
+
+- **Adequate nodal yield is a pathology requirement, not an option** — **≥12 nodes**; if <12 in a stage II (pN0) specimen, the specimen is re-examined for additional nodes ([[#Severity Assessment / Staging]])
+- **[[artificial-intelligence-endoscopy|Computer-aided detection]]** and structured optical diagnosis at [[colonoscopy]] bear on detection of the precursor lesion rather than on staging an established cancer
 
 ## Therapeutics
-
-- Surgery (segmental resection, TME for rectal), endoscopic resection for early CRC (T1)
-- Adjuvant chemo (FOLFOX/CAPOX) for stage III, high-risk stage II
-- Neoadjuvant chemoradiation or total neoadjuvant therapy (TNT) for locally advanced rectal cancer
-- Metastatic: FOLFOX/FOLFIRI ± bevacizumab/cetuximab; immunotherapy for MSI-H
 
 ### Oncologic Management (NCCN 2026)
 

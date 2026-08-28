@@ -3,7 +3,7 @@ title: "Shigellosis"
 category: disease-script
 tags: [shigella, bacterial-gastroenteritis, dysentery, diarrhea, travelers-diarrhea, azithromycin]
 created: 2026-05-19
-updated: 2026-08-27
+updated: 2026-08-28
 sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
 ---
 
@@ -28,7 +28,8 @@ sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
 
 *Workup: see [[acute-diarrhea]].*
 
-- Other inflammatory bacterial enteritides — [[campylobacter-infection]], [[salmonella-infection]], [[enterotoxigenic-e-coli|Shiga-toxin *E. coli*]]
+- Other inflammatory bacterial enteritides — [[campylobacter-infection]], [[salmonella-infection]], *Yersinia enterocolitica*
+- **Shiga toxin–producing *E. coli* (STEC/EHEC)** — the critical look-alike: also bloody diarrhea, but **antimicrobials must be avoided** (STEC O157, any Shiga-toxin-2 producer, or unknown toxin genotype) *(strong, moderate)*, whereas shigellosis is one of the few dysenteries you *do* treat empirically. [[idsa-2017-infectious-diarrhea]] (Rec 35). Note *S. dysenteriae* type 1 makes Shiga toxin itself. Distinct from [[enterotoxigenic-e-coli|ETEC]] (watery, noninvasive).
 - [[clostridioides-difficile|*C. difficile*]] colitis (antibiotic/healthcare exposure)
 - [[inflammatory-bowel-disease|Inflammatory bowel disease]] flare
 

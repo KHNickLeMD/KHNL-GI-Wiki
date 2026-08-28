@@ -3,8 +3,8 @@ title: "Eosinophilic Esophagitis"
 category: disease-script
 tags: [eoe, esophageal, dysphagia, food-impaction, eosinophil, atopic, biologic, dupilumab]
 created: 2026-05-07
-updated: 2026-08-27
-sources: [acg-2025-eoe, aga-2020-eoe, acg-2013-eoe, aga-2024-esophageal-immunity-infection]
+updated: 2026-08-28
+sources: [acg-2025-eoe, aga-2020-eoe, acg-2013-eoe, aga-2024-esophageal-immunity-infection, asge-2011-foreign-body-ingestion]
 ---
 
 Chronic, immune/antigen-mediated esophageal disease. Characterized by esophageal symptoms + eosinophilic inflammation confined to the esophagus. Food antigen-driven in most; part of the atopic march.
@@ -48,7 +48,7 @@ Chronic, immune/antigen-mediated esophageal disease. Characterized by esophageal
 |---|---|
 | Infants/toddlers | Feeding refusal, vomiting, failure to thrive |
 | School-age children | Abdominal pain, vomiting, regurgitation |
-| Adolescents/adults | Dysphagia, food impaction |
+| Adolescents/adults | Dysphagia, [[ingested-foreign-body\|food impaction]] |
 
 **IMPACT behaviors** — adaptive behaviors that mask dysphagia; ask about each while taking the history ([[acg-2025-eoe]], Table 4):
 
@@ -83,7 +83,7 @@ Severity is assessed across three domains — **symptoms, endoscopic activity (E
 
 *Gap: the I-SEE components and point values are not reproduced in [[acg-2025-eoe]] (cited to a separate 2022 paper, not ingested) — the score cannot be computed from this page. Needed source: Dellon ES, Khoury P, Muir AB, et al. A clinical severity index for EoE.*
 
-**Fibrostenotic phenotype:** rings + strictures; transmural inflammation + fibrosis; requires dilation in addition to medical therapy. Endoscopy badly underestimates stricture severity — esophagram (and EndoFLIP) are more accurate; the sensitivity data are under Adjunct: Esophageal Dilation.
+**Fibrostenotic phenotype:** rings + strictures; transmural inflammation + fibrosis; requires dilation in addition to medical therapy. Endoscopy badly underestimates stricture severity — esophagram (and [[flip-panometry|EndoFLIP]]) are more accurate; the sensitivity data are under Adjunct: Esophageal Dilation.
 
 **Persistent symptoms despite histologic + endoscopic remission** → evaluate for a subtle **stricture** (esophagram) or an esophageal **motility disorder**; some patients with EoE develop dysmotility, and EoE carries an increased risk of [[achalasia]]. Consider further motility evaluation. ([[aga-2024-esophageal-immunity-infection|AGA 2024]])
 
@@ -186,7 +186,7 @@ Severity is assessed across three domains — **symptoms, endoscopic activity (E
 
 - **Budesonide oral suspension (BOS):** approved dosing **2 mg b.i.d.** — FDA-approved 2024 ✓
 - **Budesonide orodispersible tablet (BOT):** 1 mg b.i.d. — EMA-approved ✓
-- Off-label viscous budesonide is compounded to the same total daily dose
+- Off-label viscous budesonide is compounded to the same total daily dose. **How to compound it** ([[acg-2025-eoe]] Table 6, footnote): when an asthma preparation is adapted for EoE, mix the **aqueous budesonide to a syrup-like consistency** with sucralose, honey, maple syrup or similar, to a **goal total volume ~10 mL**
 - Side effects: candidal esophagitis (4–24%); adrenal insufficiency uncommon — identified in **≤5%** in induction trials — test cortisol with long-term multi-steroid use
 - Check response at 8–12 weeks
 - Dose reduction acceptable after remission (BOT 0.5mg bid effective for maintenance)
@@ -224,7 +224,7 @@ Severity is assessed across three domains — **symptoms, endoscopic activity (E
 
 - FDA-approved: ≥12y (2022), 1–11y (≥15kg, 2024)
 - 60% histologic remission (≤6 eos/hpf) vs 5% placebo (phase 3 RCT)
-- Improves symptoms, EREFS, esophageal distensibility ([[flip-panometry|EndoFLIP]])
+- Improves symptoms, EREFS, esophageal distensibility (EndoFLIP)
 - No TB/HIV/hepatitis screening required
 - Check response at 12–24 weeks
 - Cost/access: main barrier; prior auth typically required
@@ -245,6 +245,7 @@ Severity is assessed across three domains — **symptoms, endoscopic activity (E
 - Technique: start conservative; work to "dilation effect" (mucosal disruption); use multiple sessions if needed
 - Empiric dilation may help even without an endoscopically visible stricture — endoscopy detects a narrowed esophagus with sensitivity of only **14.7%** (specificity 79.2%), rising to just **25%** at a ≤15 mm cutoff; **71%** of patients with no perceived narrowing at endoscopy still responded symptomatically to dilation
 - Pediatric: esophagram before dilation to detect unrecognized narrowing
+- **After an acute food bolus impaction:** EoE is found in as many as **33%** of food bolus impactions, so take biopsies of the **mid and distal esophagus** at that endoscopy and **defer dilation pending pathology**; use caution after a prolonged impaction ([[asge-2011-foreign-body-ingestion]])
 
 ### Maintenance Therapy
 
@@ -293,7 +294,7 @@ Severity is assessed across three domains — **symptoms, endoscopic activity (E
 
 ## See Also
 
-[[dysphagia]], [[gerd]], [[achalasia]], [[infectious-esophagitis]], [[lymphocytic-esophagitis]], [[esophageal-dysfunction-systemic-disease]], [[celiac-disease]], [[barretts-esophagus]], [[inflammatory-bowel-disease]], [[crohns-disease]], [[upper-endoscopy]], [[colonoscopy]], [[proton-pump-inhibitors]], [[flip-panometry]], [[high-resolution-manometry]], [[endoscopy-sedation]]
+[[dysphagia]], [[gerd]], [[achalasia]], [[infectious-esophagitis]], [[lymphocytic-esophagitis]], [[esophageal-dysfunction-systemic-disease]], [[celiac-disease]], [[barretts-esophagus]], [[inflammatory-bowel-disease]], [[crohns-disease]], [[upper-endoscopy]], [[colonoscopy]], [[proton-pump-inhibitors]], [[flip-panometry]], [[high-resolution-manometry]], [[endoscopy-sedation]], [[ingested-foreign-body]]
 
 ---
 
@@ -303,3 +304,4 @@ Severity is assessed across three domains — **symptoms, endoscopic activity (E
 2. [[aga-2020-eoe|AGA/JTF Clinical Guideline: Management of Eosinophilic Esophagitis (2020)]]
 3. [[acg-2013-eoe|ACG 2013: Esophageal Eosinophilia and Eosinophilic Esophagitis (historical)]]
 4. [[aga-2024-esophageal-immunity-infection|AGA Clinical Practice Update on Esophageal Dysfunction Due to Disordered Immunity and Infection: Expert Review (2024)]]
+5. [[asge-2011-foreign-body-ingestion|ASGE Guideline: Management of Ingested Foreign Bodies and Food Impactions (2011)]]

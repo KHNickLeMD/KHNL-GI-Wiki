@@ -3,8 +3,8 @@ title: "Cirrhosis"
 category: disease-script
 tags: [cirrhosis, liver, hpb, decompensation, compensated, meld, child-pugh, vocal-penn, csph, portal-hypertension, fibrosis, f4, nilda, fib-4, elastography, perioperative, frailty, palliative-care, liver-transplant]
 created: 2026-07-16
-updated: 2026-08-14
-sources: [aasld-2023-portal-hypertension, aasld-2024-nilda-blood, aasld-2024-nilda-portal-htn, acg-2025-perioperative-cirrhosis, aasld-2021-ascites-sbp-hrs, aasld-2021-malnutrition-cirrhosis, aasld-2024-aclf, aga-2021-cirrhosis-coagulation, aasld-2022-palliative-cirrhosis, nccn-2026-hcc, baveno-vii-2022-portal-hypertension]
+updated: 2026-08-28
+sources: [aasld-2023-portal-hypertension, aasld-2024-nilda-blood, aasld-2024-nilda-portal-htn, acg-2025-perioperative-cirrhosis, aasld-2021-ascites-sbp-hrs, aasld-2021-malnutrition-cirrhosis, aasld-2024-aclf, aga-2021-cirrhosis-coagulation, aasld-2022-palliative-cirrhosis, nccn-2026-hcc, baveno-vii-2022-portal-hypertension, aasld-ast-2025-liver-transplant-candidate-evaluation]
 ---
 
 ## Contents
@@ -74,6 +74,8 @@ Scores mix liver-disease severity, non-hepatic patient factors, and (for surgery
 **MELD-Na** = 1.33 (if female) + [4.56 × logₑ(bilirubin)] + [0.82 × (137−Na)] − [0.24 × (137−Na) × logₑ(bilirubin)] + [9.09 × logₑ(INR)] + [11.14 × logₑ(creatinine)] + [1.85 × (3.5−albumin)] − [1.83 × (3.5−albumin) × logₑ(creatinine)] + 6 ([[nccn-2026-hcc]]).
 
 **ALBI grade** (bilirubin + albumin only; no subjective ascites/encephalopathy): score = [log₁₀ bilirubin (µmol/L) × 0.66] + [albumin (g/L) × −0.085]. **Grade 1 ≤ −2.60; Grade 2 > −2.60 to ≤ −1.39; Grade 3 > −1.39** ([[nccn-2026-hcc]]).
+
+> ⚠ **Decision gap — only MELD-Na can be computed from the wiki.** Several pages condition management on a *different* MELD variant: [[alcohol-associated-liver-disease|ALD]] defines severe alcohol-associated hepatitis by **original MELD >20** and explicitly says to use original MELD rather than MELD-Na, and both [[hepatic-encephalopathy|HE]] and [[liver-transplantation|LT]] reference **MELD 3.0**. Neither the **original MELD** nor the **MELD 3.0** formula/coefficients appear in any ingested source — [[aasld-ast-2025-liver-transplant-candidate-evaluation]] cites MELD 3.0 to Kim WR et al. rather than reproducing it. Use an external calculator, or ingest the Kamath 2001 (MELD) and Kim 2021 (MELD 3.0) derivation papers. **Do not reconstruct the coefficients from memory.**
 
 **Key severity anchors:**
 
@@ -215,9 +217,11 @@ Malnutrition, sarcopenia, and frailty are **very common and potentially modifiab
 
 - **Cirrhosis affects both prothrombotic and antithrombotic pathways**; the net hemostatic effect is **not accurately reflected** by PT/INR, aPTT, or platelet count [[acg-2025-perioperative-cirrhosis]]. INR should not be used to gauge bleeding risk [[aasld-2024-aclf]]
 - **PT/INR is not independently associated with procedural bleeding** in cirrhosis; vitamin K or blood products to correct INR before major surgery have not been shown to reduce bleeding risk [[acg-2025-perioperative-cirrhosis]]
-- **Very low platelet counts (<50–75/μL)** are independently associated with procedural bleeding and adverse postoperative outcomes — though this may reflect severity of liver dysfunction and portal hypertension rather than thrombocytopenia itself [[acg-2025-perioperative-cirrhosis]]
+- **Very low platelet counts (<50–75/μL as printed)** are independently associated with procedural bleeding and adverse postoperative outcomes — though this may reflect severity of liver dysfunction and portal hypertension rather than thrombocytopenia itself (Key concept 6) [[acg-2025-perioperative-cirrhosis]]
+  - ⚠ **The source's platelet units are internally inconsistent** — ACG 2025 prints the same threshold three ways: "<50,000 K/mm³" (Rec 2), "<50 K/mm³" (Key concept 19), and "<50–75/μL" (Key concept 6). The operative number is a platelet count of **50 K/mm³ (= 50,000/μL)**; the "K" and the "/μL" forms are typesetting variants of it, not different thresholds. Quoted here as printed rather than silently normalised.
 - **Hospitalized patients should receive standard VTE pharmacologic prophylaxis** — cirrhosis is not protective against venous thromboembolism [[aga-2021-cirrhosis-coagulation]]
-- Viscoelastic testing (e.g., thromboelastography) may be considered to guide perioperative coagulopathy management rather than relying on traditional markers alone [[acg-2025-perioperative-cirrhosis]]
+- Viscoelastic testing (e.g., thromboelastography), **if available**, may be considered to guide perioperative coagulopathy management rather than relying on traditional markers alone (Key concept 18) [[acg-2025-perioperative-cirrhosis]]
+- **If viscoelastic testing is *not* available:** it is reasonable to **correct severe thrombocytopenia (<50 K/mm³) before major surgery** (Key concept 19) — this is the fallback rule that decides whether to transfuse/treat when TEG/ROTEM cannot be obtained [[acg-2025-perioperative-cirrhosis]]
 
 > **Contradiction to surface — thrombopoietin receptor agonists.** [[aga-2021-cirrhosis-coagulation]] (2021) **suggests against** routine TPO receptor agonists solely to raise platelets before most procedures. [[acg-2025-perioperative-cirrhosis]] (2025) **recommends** TPO receptor agonists dosed to baseline platelet count in cirrhosis with **severe thrombocytopenia (<50,000/mm³) undergoing invasive procedures** (strong recommendation, moderate quality). Both are guideline-tier; the **newer ACG 2025 statement governs this page** for the severe-thrombocytopenia/invasive-procedure scenario, while the AGA position still stands for routine use in stable patients before low-risk procedures.
 
@@ -231,7 +235,8 @@ Malnutrition, sarcopenia, and frailty are **very common and potentially modifiab
 - **Rec 3 (conditional, very low quality):** in cirrhosis + CSPH with an alternative [[tips|TIPS]] indication (e.g., refractory ascites), consider **preoperative TIPS**
 - **Rec 4 (conditional, very low quality):** for **major hepatic surgery**, refer to a high-volume liver surgery and/or transplant center when feasible
 - **Cholecystectomy:** laparoscopic approach generally favored in CTP A and B; most **CTP class C** patients have prohibitive risk and may benefit from supportive care and alternative drainage (percutaneous cholecystostomy, [[eus-guided-gallbladder-drainage|endoscopic drainage]], gallbladder aspiration)
-- **[[bariatric-surgery|Bariatric surgery]]** can be safely performed in selected patients with well-compensated cirrhosis; **laparoscopic sleeve gastrectomy is the procedure of choice** (see [[obesity]])
+- **[[bariatric-surgery|Bariatric surgery]]** can be safely performed in selected patients with well-compensated cirrhosis; **laparoscopic sleeve gastrectomy is the procedure of choice** (Key concept 25; see [[obesity]]). In [[liver-transplantation|LT]] candidates with a bariatric indication, **sleeve gastrectomy before or at the time of transplantation** may be considered based on center expertise — data for bariatric surgery *after* LT are limited (Key concept 26)
+- **Nonhepatic comorbidities require independent assessment** — they affect postoperative mortality in cirrhosis and are not captured by CTP/MELD (Key concept 8); **preoperative frailty assessment** further informs risk (Key concept 13)
 - **Abdominal hernia:** surgical consultation after optimizing ascites control for elective repair may reduce incarceration or spontaneous rupture requiring higher-risk emergent repair
 - **Preoperative [[liver-transplantation|transplant]] evaluation** in selected elective patients — proposed trigger is projected **90-day postoperative mortality >15%** (estimable from VOCAL-Penn)
 
@@ -272,5 +277,6 @@ Malnutrition, sarcopenia, and frailty are **very common and potentially modifiab
 7. [[aasld-2024-aclf|AASLD 2024 Practice Guidance on Acute-on-Chronic Liver Failure]]
 8. [[aga-2021-cirrhosis-coagulation|AGA Clinical Practice Guideline: Coagulation Disorders in Cirrhosis (2021)]]
 9. [[aasld-2022-palliative-cirrhosis|AASLD Practice Guidance: Palliative Care and Symptom-Based Management for Decompensated Cirrhosis (2022)]]
-10. [[nccn-2026-hcc|NCCN Clinical Practice Guidelines in Oncology: Hepatocellular Carcinoma (2026)]]
+10. [[nccn-2026-hcc|NCCN Clinical Practice Guidelines in Oncology: Hepatocellular Carcinoma (Version 1.2026)]]
 11. [[baveno-vii-2022-portal-hypertension|Baveno VII — Renewing Consensus in Portal Hypertension (2022)]]
+12. [[aasld-ast-2025-liver-transplant-candidate-evaluation|AASLD AST 2025: Practice Guideline on Adult Liver Transplantation — Candidate Evaluation]]

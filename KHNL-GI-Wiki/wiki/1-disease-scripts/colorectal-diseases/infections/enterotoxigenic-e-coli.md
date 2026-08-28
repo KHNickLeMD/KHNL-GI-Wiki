@@ -3,8 +3,8 @@ title: "Enterotoxigenic Escherichia coli (ETEC)"
 category: disease-script
 tags: [etec, e-coli, bacterial-gastroenteritis, travelers-diarrhea, diarrhea, heat-labile-toxin, heat-stable-toxin]
 created: 2026-05-19
-updated: 2026-08-27
-sources: [acg-2016-acute-diarrhea]
+updated: 2026-08-28
+sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
 ---
 
 Enterotoxigenic *E. coli* (ETEC) is the most common cause of traveler's diarrhea (TD) worldwide and a leading cause of diarrheal illness in developing countries. Produces heat-labile (LT) and/or heat-stable (ST) enterotoxins → watery, non-bloody diarrhea. [[acg-2016-acute-diarrhea]]
@@ -30,7 +30,7 @@ Enterotoxigenic *E. coli* (ETEC) is the most common cause of traveler's diarrhea
 *Workup: see [[acute-diarrhea]].*
 
 - Other traveler's-diarrhea pathogens — [[campylobacter-infection]], [[salmonella-infection]], [[shigellosis]]
-- **Enterohemorrhagic *E. coli* (STEC/EHEC)** — bloody diarrhea + hemolytic uremic syndrome (HUS); do **NOT** treat with antibiotics (distinct from ETEC)
+- **Shiga toxin–producing / enterohemorrhagic *E. coli* (STEC/EHEC)** — bloody diarrhea + hemolytic uremic syndrome (HUS); a **different pathotype from ETEC** and the reason to identify which *E. coli* you have. **Do NOT give antimicrobials** for STEC O157 or any STEC producing Shiga toxin 2 — *or when the toxin genotype is unknown* *(strong, moderate)*; for non–toxin-2 STEC the evidence is insufficient either way *(strong, low)*. [[idsa-2017-infectious-diarrhea]] (Rec 35). Antibacterials appear to **increase HUS risk** in Shiga-toxin disease, and [[acg-2016-acute-diarrhea]] directs pathogen-targeted therapy in febrile, prolonged diarrhea **"for all but STEC infection."**
 - Noninfectious causes of watery diarrhea
 
 ---
@@ -61,3 +61,4 @@ Enterotoxigenic *E. coli* (ETEC) is the most common cause of traveler's diarrhea
 ## Sources
 
 1. [[acg-2016-acute-diarrhea|ACG 2016: Diagnosis, Treatment, and Prevention of Acute Diarrheal Infections in Adults]]
+2. [[idsa-2017-infectious-diarrhea|IDSA 2017 Clinical Practice Guidelines for the Diagnosis and Management of Infectious Diarrhea]]

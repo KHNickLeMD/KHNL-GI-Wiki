@@ -3,7 +3,7 @@ title: "Biliary Stricture"
 category: diagnostic-schema
 tags: [biliary-stricture, ercp, eus, cholangioscopy, obstructive-jaundice, cholangiocarcinoma, hepatobiliary]
 created: 2026-05-15
-updated: 2026-08-26
+updated: 2026-08-28
 sources: [acg-2023-biliary-strictures, asge-2023-indeterminate-biliary-strictures, asge-2023-post-transplant-biliary-strictures]
 ---
 
@@ -119,7 +119,7 @@ If a diagnosis remains elusive after index ERCP:
 
 - Consider **next-generation sequencing (NGS)** of biliary specimens — improves sensitivity to 77% (brushings) and 83% (biopsies) in prospective data; not yet widely available
 - **Repeat ERCP adding [[cholangioscopy]] and/or [[endoscopic-ultrasound|EUS]]** — per [[asge-2023-indeterminate-biliary-strictures]], a prior nondiagnostic ERCP without cholangioscopy is itself an indication to add cholangioscopic biopsy (nondistal strictures) or EUS (distal strictures, or when nodal/metastatic disease is seen)
-- **Probe-based [[confocal-laser-endomicroscopy|confocal laser endomicroscopy (pCLE)]]** — sensitivity/accuracy ~90% in combination with cholangiography (Miami/Paris classifications); high NPV (~94%); limited to select referral centers; not yet an accepted stand-alone oncological standard
+- **Probe-based [[confocal-laser-endomicroscopy|confocal laser endomicroscopy (pCLE)]]** — pooled **sensitivity 90% (95% CI 86–94)** but **specificity only 72% (65–79)**, so its value is the **NPV ~94%** (ruling malignancy *out*), not ruling it in; limited to select referral centers; not yet an accepted stand-alone oncological standard. *Miami (malignant) and Paris (benign inflammatory) criteria are on [[cholangioscopy#Visual characterization|cholangioscopy]].* ([[asge-2023-indeterminate-biliary-strictures]])
 - **Intraductal ultrasound (IDUS)** — accuracy up to 92%; IDUS-guided transpapillary biopsy more accurate than transpapillary biopsy alone (90.8% vs 76.9%); cannot acquire tissue itself; declining availability
 - **Multidisciplinary tumor board review** — advisable at any point; essential after 2 negative sampling sessions with persistent malignancy concern
 - **Surgical consultation** if suspicion remains high despite negative tissue — resection may be appropriate in select patients with clinical features strongly suggestive of malignancy

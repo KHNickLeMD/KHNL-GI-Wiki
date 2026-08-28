@@ -3,8 +3,8 @@ title: "Pouchitis"
 category: disease-script
 tags: [pouchitis, ipaa, j-pouch, ulcerative-colitis, ibd, cuffitis, crohns-like-disease-of-the-pouch, antibiotics, probiotics, biologics]
 created: 2026-06-04
-updated: 2026-08-27
-sources: [aga-2024-pouchitis, aga-2020-probiotics, asge-2015-ibd]
+updated: 2026-08-28
+sources: [aga-2024-pouchitis, aga-2020-probiotics, asge-2015-ibd, aga-2024-fmt]
 ---
 
 Pouchitis is non-specific inflammation of the ileal pouch reservoir — the most common complication after restorative proctocolectomy with **ileal pouch–anal anastomosis (IPAA, "J-pouch")** for [[ulcerative-colitis|ulcerative colitis]]. The [[aga-2024-pouchitis|AGA 2024 guideline]] frames management by clinical pattern (intermittent → chronic antibiotic-dependent → chronic antibiotic-refractory) plus two related inflammatory pouch disorders: Crohn's-like disease of the pouch and cuffitis. [[aga-2024-pouchitis]]
@@ -80,6 +80,8 @@ Pragmatic, treatment-anchored definitions (AGA 2024, Table 5):
 
 > Treat by subtype. Antibiotics are first-line for active symptoms; escalate to advanced immunosuppressive therapy for antibiotic-dependent (alternative) or antibiotic-refractory disease.
 
+- **[[fmt|Fecal microbiota transplantation]] is *not* a pouchitis therapy** — [[aga-2024-fmt|AGA 2024]] suggests **against conventional FMT for pouchitis except within a clinical trial** *(Rec 6, conditional / very low)*. This is separate from treating recurrent or fulminant *[[clostridioides-difficile|C. difficile]]* infection **in** a pouch patient, where fecal microbiota–based therapy is still indicated under that guideline's Recs 1–3.
+
 ### Prevention
 - **Primary prevention — probiotics:** *No recommendation* (knowledge gap).
 - **Primary prevention — antibiotics:** *Suggested against* (very low certainty).
@@ -151,7 +153,7 @@ All 13 AGA 2024 statements (9 actionable conditional recommendations + 4 "no rec
 
 ## See Also
 
-[[ulcerative-colitis]], [[crohns-disease]], [[inflammatory-bowel-disease]], [[probiotics]], [[colonoscopy]], [[primary-sclerosing-cholangitis]], [[clostridioides-difficile]], [[rifaximin]], [[chronic-diarrhea]], [[ibd-endoscopic-scoring]], [[disorders-of-gut-brain-interaction]], [[ostomy-management]]
+[[ulcerative-colitis]], [[crohns-disease]], [[inflammatory-bowel-disease]], [[probiotics]], [[fmt]], [[colonoscopy]], [[primary-sclerosing-cholangitis]], [[clostridioides-difficile]], [[rifaximin]], [[chronic-diarrhea]], [[ibd-endoscopic-scoring]], [[disorders-of-gut-brain-interaction]], [[ostomy-management]]
 
 ---
 
@@ -160,3 +162,4 @@ All 13 AGA 2024 statements (9 actionable conditional recommendations + 4 "no rec
 1. [[aga-2024-pouchitis|AGA Clinical Practice Guideline: Management of Pouchitis and Inflammatory Pouch Disorders (2024)]]
 2. [[aga-2020-probiotics|AGA Clinical Practice Guidelines on the Role of Probiotics in the Management of Gastrointestinal Disorders]]
 3. [[asge-2015-ibd|ASGE Guideline: The Role of Endoscopy in Inflammatory Bowel Disease (2015)]]
+4. [[aga-2024-fmt|AGA Clinical Practice Guideline: Fecal Microbiota-Based Therapies for Select GI Diseases (2024)]]

@@ -3,8 +3,8 @@ title: "Bariatric Surgery"
 category: advanced-procedure
 tags: [obesity, bariatric, weight-management, sleeve-gastrectomy, gastric-bypass, masld, gerd, iron-deficiency-anemia]
 created: 2026-06-04
-updated: 2026-08-12
-sources: [aga-2021-intragastric-balloons, aasld-2023-nafld, asge-2024-gerd, acg-2021-gerd, aga-2024-ida-management]
+updated: 2026-08-28
+sources: [aga-2021-intragastric-balloons, aasld-2023-nafld, asge-2024-gerd, acg-2021-gerd, aga-2024-ida-management, aga-2022-obesity-pharm]
 ---
 
 Surgical weight-loss procedures — laparoscopic **sleeve gastrectomy (SG)**, **Roux-en-Y gastric bypass (RYGB)**, adjustable gastric banding, duodenal switch — for [[obesity]]. Only ~**1.1% of eligible patients** receive primary bariatric surgery, and **<5%** of patients seeking weight loss are aware of endoscopic alternatives ([[aga-2021-intragastric-balloons]]).
@@ -33,6 +33,7 @@ Per [[aasld-2023-nafld|AASLD 2023]] (Guidance Statement 22):
 
 > Bariatric surgery should be considered as a therapeutic option in patients who meet criteria for metabolic weight-loss surgery, as it effectively resolves NAFLD or NASH in the majority of patients without cirrhosis and reduces mortality from CVD and malignancy.
 
+- ⚠ **Decision gap — flagged, not filled:** *"criteria for metabolic weight-loss surgery"* (the BMI/comorbidity eligibility thresholds) are **not defined in any ingested source**. [[obesity]] carries only the **pharmacotherapy** thresholds (BMI ≥30, or ≥27 with a weight-related comorbidity, [[aga-2022-obesity-pharm]]) — those are **not** the surgical criteria and must not be read as such. Closing this needs an ASMBS/IFSO or equivalent metabolic-surgery indications document ingested. Do not supply from memory.
 - **Efficacy:** resolves NASH **without worsening fibrosis in ~80% at 1 year**, sustained at 5 years.
 - **Absolute contraindication: decompensated [[cirrhosis]].**
 - **Compensated NASH cirrhosis:** only at high-volume centers, or in the context of [[liver-transplantation|liver transplantation]].
@@ -88,3 +89,4 @@ Per [[aga-2024-ida-management|AGA 2024]] (Best Practice Advice 7, *unrated*):
 3. [[asge-2024-gerd|ASGE 2024: Diagnosis and Management of GERD]]
 4. [[acg-2021-gerd|ACG 2021 Clinical Guideline: Diagnosis and Management of GERD]]
 5. [[aga-2024-ida-management|AGA Clinical Practice Update on Management of Iron Deficiency Anemia: Expert Review]]
+6. [[aga-2022-obesity-pharm|AGA Clinical Practice Guideline: Pharmacological Interventions for Adults with Obesity (2022)]]

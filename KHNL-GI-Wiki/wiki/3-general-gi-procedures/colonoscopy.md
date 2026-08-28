@@ -3,11 +3,32 @@ title: "Colonoscopy"
 category: general-procedure
 tags: [colonoscopy, crc-screening, polypectomy, surveillance, adenoma, serrated-polyp, colorectal, bowel-prep, split-dose, post-resection, crc-surveillance, metachronous]
 created: 2026-05-07
-updated: 2026-08-14
-sources: [usmstf-2020-followup-colonoscopy, usmstf-2021-crc-screening-age, usmstf-2020-endoscopic-removal, usmstf-2025-bowel-prep, acg-2025-bowel-prep, acg-2014-bowel-cleansing, asge-2015-bowel-preparation, usmstf-2015-crc-surveillance, aga-2025-cade-colonoscopy, aga-2023-ai-colon-polyp, asge-2015-scenic-ibd-dysplasia, aga-2024-glp1-endoscopy]
+updated: 2026-08-28
+sources: [usmstf-2020-followup-colonoscopy, usmstf-2021-crc-screening-age, usmstf-2020-endoscopic-removal, usmstf-2025-bowel-prep, acg-2025-bowel-prep, acg-2014-bowel-cleansing, asge-2015-bowel-preparation, usmstf-2015-crc-surveillance, aga-2025-cade-colonoscopy, aga-2023-ai-colon-polyp, asge-2015-scenic-ibd-dysplasia, aga-2024-glp1-endoscopy, aga-2026-therapeutic-endoscopy-ibd]
 ---
 
 # Colonoscopy
+
+## Contents
+- [[#Indications]]
+- [[#Quality Metrics]]
+  - [[#Artificial Intelligence (CADe / CADx)]]
+- [[#CRC Screening — When to Start and Stop]]
+- [[#Post-Polypectomy Surveillance]]
+- [[#Polypectomy — Quick Reference]]
+- [[#Complications]]
+- [[#Bowel Preparation]]
+  - [[#Standard Regimen (Average-Risk Ambulatory Patient)]]
+  - [[#GLP-1 Receptor Agonists]]
+  - [[#High-Risk Patients (Prior Inadequate Prep or Risk Factors)]]
+  - [[#Quality and Tracking]]
+  - [[#Preparation Quality Scales]]
+- [[#Post-CRC Resection Surveillance]]
+  - [[#Perioperative Clearing]]
+  - [[#Post-Resection Colonoscopy Schedule]]
+  - [[#Rectal Cancer Additional Local Surveillance (High-Risk Patients)]]
+  - [[#Fecal Testing Post-Resection]]
+  - [[#Serrated Polyposis Syndrome (SPS) Consideration]]
 
 ---
 
@@ -18,6 +39,7 @@ sources: [usmstf-2020-followup-colonoscopy, usmstf-2021-crc-screening-age, usmst
 - Surveillance after prior polypectomy or [[colorectal-cancer|CRC]] resection
 - Workup of symptoms (rectal bleeding, [[iron-deficiency-anemia|IDA]], change in bowel habits, weight loss)
 - [[inflammatory-bowel-disease|IBD]] surveillance — perform with high-definition + dye-spray chromoendoscopy per [[asge-2015-scenic-ibd-dysplasia|SCENIC]]; describe lesions as visible (polypoid/nonpolypoid) vs invisible dysplasia
+- **Therapeutic endoscopy in IBD** — endoscopic balloon dilation of symptomatic benign strictures, fistula endotherapy, and resection of visible dysplasia. Selection criteria, target balloon diameter, and periprocedural drug holds live on [[crohns-disease#Endoscopic Stricture Dilation|crohns-disease]]. [[aga-2026-therapeutic-endoscopy-ibd]]
 
 ---
 
@@ -230,7 +252,7 @@ High-risk = any of: surgery without TME; transanal local excision (TAE or TEM); 
 
 ## See Also
 
-[[colorectal-cancer]], [[colorectal-cancer-screening]], [[colonoscopy-surveillance]], [[polypectomy]], [[endoscopic-mucosal-resection]], [[colorectal-esd]], [[lynch-syndrome]], [[familial-adenomatous-polyposis]], [[serrated-polyposis-syndrome]], [[inflammatory-bowel-disease]], [[ulcerative-colitis]], [[artificial-intelligence-endoscopy]], [[endoscopy-sedation]], [[endoscopic-ultrasound]], [[anticoagulation-gi-bleeding]], [[iron-deficiency-anemia]]
+[[colorectal-cancer]], [[colorectal-cancer-screening]], [[colonoscopy-surveillance]], [[polypectomy]], [[endoscopic-mucosal-resection]], [[colorectal-esd]], [[lynch-syndrome]], [[familial-adenomatous-polyposis]], [[serrated-polyposis-syndrome]], [[inflammatory-bowel-disease]], [[ulcerative-colitis]], [[crohns-disease]], [[artificial-intelligence-endoscopy]], [[endoscopy-sedation]], [[endoscopic-ultrasound]], [[anticoagulation-gi-bleeding]], [[iron-deficiency-anemia]]
 
 ---
 
@@ -248,3 +270,4 @@ High-risk = any of: surgery without TME; transanal local excision (TAE or TEM); 
 10. [[aga-2023-ai-colon-polyp|AGA Clinical Practice Update on the Role of Artificial Intelligence in Colon Polyp Diagnosis and Management: Commentary]]
 11. [[asge-2015-scenic-ibd-dysplasia|SCENIC International Consensus Statement on Surveillance and Management of Dysplasia in Inflammatory Bowel Disease (2015)]]
 12. [[aga-2024-glp1-endoscopy|AGA Rapid Clinical Practice Update on the Management of Patients Taking GLP-1 Receptor Agonists Prior to Endoscopy: Communication (2024)]]
+13. [[aga-2026-therapeutic-endoscopy-ibd|AGA Clinical Practice Update on the Role of Therapeutic Endoscopy in Inflammatory Bowel Disease: Commentary]]

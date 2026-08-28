@@ -3,7 +3,7 @@ title: "Hereditary Pancreatitis"
 category: disease-script
 tags: [pancreas, genetics, pancreatitis, prss1, spink1, cftr, ctrc, hereditary-cancer, pancreatic-cancer, tigar-o]
 created: 2026-06-04
-updated: 2026-08-12
+updated: 2026-08-28
 sources: [asge-2022-pancreatic-cancer-screening, acg-2020-chronic-pancreatitis, acg-2015-hereditary-gi-cancer, acg-2024-acute-pancreatitis]
 ---
 
@@ -64,19 +64,8 @@ Pathogenic genes implicated in hereditary/genetic pancreatitis ([[acg-2020-chron
 ## Diagnostics
 
 - **Genetic testing** — minimum panel PRSS1, SPINK1, CFTR, CTRC (above). Genetic counselor referral preferred; nongeneticist clinicians can order the minimum panel ([[acg-2020-chronic-pancreatitis]]).
-- **Cancer risk quantification — relative risk by syndrome** ([[acg-2015-hereditary-gi-cancer]]):
-
-| Syndrome | RR of pancreatic cancer |
-|---|---|
-| Peutz-Jeghers | 132-fold |
-| **Hereditary pancreatitis** | **53-fold** |
-| [[fammm-syndrome\|FAMMM]] (CDKN2A) | 13–39-fold |
-| [[lynch-syndrome\|Lynch syndrome]] | 9–11-fold |
-| [[familial-adenomatous-polyposis\|FAP]] | 5-fold |
-| [[brca-pathogenic-variants\|BRCA2]] | 3–9-fold |
-| ATM | ~3-fold |
-
-- Imaging, EUS (Rosemont criteria), and pancreatic function testing follow the general [[chronic-pancreatitis]] pathway — not HP-specific.
+- **Cancer risk quantification:** hereditary pancreatitis carries a **53-fold relative risk** of pancreatic ductal adenocarcinoma ([[acg-2015-hereditary-gi-cancer]]) — second only to [[peutz-jeghers-syndrome|Peutz-Jeghers]] among hereditary conditions. *The full cross-syndrome relative-risk table — [[peutz-jeghers-syndrome|PJS]], HP, [[fammm-syndrome|FAMMM]], [[lynch-syndrome|Lynch]], [[familial-adenomatous-polyposis|FAP]], [[brca-pathogenic-variants|BRCA2]], ATM — lives on [[pancreatic-cancer-screening]]; do not reproduce it here.*
+- Imaging, EUS (Rosemont criteria), and pancreatic function testing follow the general [[chronic-pancreatitis]] pathway — not HP-specific; the Rosemont parenchymal/ductal feature list lives there.
 - ⚠ **No absolute/lifetime pancreatic-cancer risk percentage for hereditary pancreatitis exists in any ingested source** — only the 53-fold RR above.
 
 ## Therapeutics

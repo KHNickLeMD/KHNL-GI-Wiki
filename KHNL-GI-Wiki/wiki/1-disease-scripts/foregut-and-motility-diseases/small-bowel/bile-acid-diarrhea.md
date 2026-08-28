@@ -3,7 +3,7 @@ title: "Bile Acid Diarrhea"
 category: disease-script
 tags: [small-bowel, chronic-diarrhea, bile-acid-malabsorption, secretory-diarrhea, ibs-d, sehcat, bile-acid-sequestrant]
 created: 2026-06-04
-updated: 2026-08-12
+updated: 2026-08-28
 sources: [acg-2020-ibs, acg-2021-anorectal-disorders, aga-2023-epi, aga-2023-ostomies]
 ---
 
@@ -28,7 +28,9 @@ sources: [acg-2020-ibs, acg-2021-anorectal-disorders, aga-2023-epi, aga-2023-ost
 - Presents as **watery (secretory) [[chronic-diarrhea|chronic diarrhea]]**; overlaps heavily with diarrhea-predominant [[irritable-bowel-syndrome|IBS-D]] — bile acid diarrhea is thought to contribute to symptoms in a **subset** of IBS-D patients. [[acg-2020-ibs]]
 - **How common in IBS-D:** pooled data from **6 SeHCAT studies — 28.1% (95% CI 22.6–34%)** of IBS-D patients met the studies' predefined SeHCAT threshold for BAM (random-effects model; substantial heterogeneity, I² 72.1%). [[acg-2020-ibs]]
 - **Diagnosis is often made by treatment, not by testing:** ACG states testing for BAM in the United States "remains limited and incompletely validated," no study has compared testing against empiric therapy, and an **empiric bile acid sequestrant trial is a reasonable course of action if BAM is suspected** (see [[#Therapeutics]]). [[acg-2020-ibs]]
-- **Settings that should raise the question:** post-ileal-resection, post-cholecystectomy, and idiopathic (see [[#Classification / Typing]]); also consider it in an ostomate with **chronic (late) high ostomy output** — persistent or new high output **>3 weeks** after stoma creation, where bile acid diarrhea is one of the listed etiologies. [[aga-2023-ostomies]]
+- **Settings that should raise the question:** post-ileal-resection, post-cholecystectomy, and idiopathic (see [[#Classification / Typing]]); also consider it in an ostomate with **chronic (late) high ostomy output**, where bile acid diarrhea is one of the listed etiologies alongside infection, stomal stricture/obstruction/fistula, recurrent [[crohns-disease|Crohn's disease]], and [[microscopic-colitis|microscopic colitis]]. [[aga-2023-ostomies]]
+  - **High ostomy output (HOO) is defined by volume, not just symptoms:** ostomy output **greater than fluid intake — typically >1.5 L/d** — resulting in dehydration. [[aga-2023-ostomies]]
+  - **Early vs chronic HOO is a 3-week rule:** *early* = HOO within **3 weeks** of stoma formation (evaluate for infection, ileus, medication effects). *Chronic/late* = **persistent HOO >3 weeks after surgery, or new-onset HOO occurring >3 weeks after ostomy creation** — this is the group in which bile acid diarrhea is on the differential. More likely with a jejunostomy, with **short bowel (<200 cm of small intestine remaining)**, or when the small bowel fails to adapt. [[aga-2023-ostomies]]
 
 ### Severity Assessment
 
@@ -52,7 +54,7 @@ sources: [acg-2020-ibs, acg-2021-anorectal-disorders, aga-2023-epi, aga-2023-ost
 
 - [[irritable-bowel-syndrome|IBS-D]] — the dominant overlap; BAM is present in a subset of IBS-D patients and IBS-D is also the label most such patients already carry. [[acg-2020-ibs]]
 - [[exocrine-pancreatic-insufficiency|Exocrine pancreatic insufficiency]] — bile acid diarrhea is named among the mimics that overlap EPI and **blunt the response to PERT**, so it should be considered when PERT fails. [[aga-2023-epi]]
-- [[microscopic-colitis|Microscopic colitis]] — grouped with bile acid diarrhea among the common adult diarrhea causes to look for in a patient with high ostomy output. [[aga-2023-ostomies]]
+- Microscopic colitis — grouped with bile acid diarrhea among the common adult diarrhea causes to look for in a patient with high ostomy output. [[aga-2023-ostomies]]
 - [[small-intestinal-bacterial-overgrowth|SIBO]], [[celiac-disease|celiac disease]], [[giardiasis|Giardia]] and the rest of the watery-diarrhea differential — see the schema.
 
 ## Diagnostics

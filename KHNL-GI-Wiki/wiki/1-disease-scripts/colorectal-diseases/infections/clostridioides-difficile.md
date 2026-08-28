@@ -3,7 +3,7 @@ title: "Clostridioides difficile Infection"
 category: disease-script
 tags: [cdiff, clostridioides-difficile, colitis, vancomycin, fidaxomicin, fmt, colorectal]
 created: 2026-05-15
-updated: 2026-08-14
+updated: 2026-08-28
 sources: [acg-2021-cdiff, aga-2024-fmt, aga-2026-cdiff-ibd, feuerstadt-2022-ser109-cdiff]
 ---
 
@@ -57,7 +57,7 @@ Additional markers of severe/poor-outcome disease (not formal criteria): low ser
 
 *Workup: see [[acute-diarrhea]].*
 
-- Infectious colitis (bacterial: [[salmonella-infection|Salmonella]], [[campylobacter-infection|Campylobacter]], [[enterotoxigenic-e-coli|STEC]]; viral: [[norovirus]], CMV in immunocompromised)
+- Infectious colitis (bacterial: [[salmonella-infection|Salmonella]], [[campylobacter-infection|Campylobacter]], [[shigellosis|Shigella]], Shiga toxin–producing *E. coli* (STEC) — **not** to be treated with antimicrobials, unlike the others; viral: [[norovirus]], CMV in immunocompromised). *(For the watery, noninvasive pathotype see [[enterotoxigenic-e-coli|ETEC]].)*
 - [[inflammatory-bowel-disease|Inflammatory bowel disease]] flare ([[ulcerative-colitis]], [[crohns-disease]]) — note: CDI colonization is common in IBD and concurrent CDI + IBD flare must be distinguished from CDI alone or IBD alone
 - [[microscopic-colitis|Microscopic colitis]] (collagenous or lymphocytic)
 - Antibiotic-associated diarrhea without CDI (disrupted microbiome, osmotic)
@@ -131,7 +131,9 @@ Higher doses of vancomycin (>125 mg QID) are not recommended for severe CDI — 
 
 **FMT for refractory severe/fulminant CDI:**
 
-- Consider FMT after 48–72 hours of maximal medical therapy failure, especially when patient is a poor surgical candidate (strong recommendation, low quality evidence)
+- Consider FMT after 48–72 hours of maximal medical therapy failure, especially when patient is a poor surgical candidate (strong recommendation, low quality evidence). [[aga-2024-fmt|AGA 2024]] frames the same window as **generally within 2–5 days of initiating CDI treatment** *(Rec 3, conditional/very low)*; the **same eligibility gate applies** (no FMT with perforation, obstruction, or severe immunocompromise — see Recurrent CDI above)
+- **First dose via [[colonoscopy]] or flexible sigmoidoscopy** — it confirms the diagnosis and grades severity; there is **no evidence for the FDA-approved products** (live-jslm, spores live-brpk) in severe/fulminant disease, and insufficient evidence for enema or capsule delivery here. [[aga-2024-fmt]]
+- **After colitis resolves:** continue **suppressive vancomycin at discharge** and perform a **final fecal microbiota–based therapy as an outpatient** to prevent recurrence (colonoscopy, capsule, or enema). [[aga-2024-fmt]]
 - Sequential FMT protocol: colonoscopy every 3–5 days until complete pseudomembrane resolution; continue vancomycin 125 mg q6h (or fidaxomicin 200 mg q12h) between FMTs while pseudomembrane persists
 - Do not use nasoenteric tube for FMT in severe/fulminant CDI (aspiration risk)
 - 100% cure rate for severe CDI, 87% for fulminant CDI in retrospective series using pseudomembrane-driven sequential protocol
@@ -157,6 +159,14 @@ Higher doses of vancomycin (>125 mg QID) are not recommended for severe CDI — 
 
 **Second or further recurrence — FMT:**
 
+> **Eligibility gate — check immune status before offering any fecal microbiota–based therapy** ([[aga-2024-fmt|AGA 2024]], all conditional / very low). The recommendation *flips* on the stratum:
+> - **Immunocompetent** → **for** fecal microbiota–based therapy (conventional FMT or an FDA-approved product) after completing standard-of-care antibiotics *(Rec 1)*
+> - **Mildly / moderately immunocompromised** → **for conventional FMT only** *(Rec 2)*. There is **insufficient evidence for fecal microbiota live-jslm or spores live-brpk in *any* immunocompromised patient** — do not substitute the products here.
+> - **Severely immunocompromised** → **against all fecal microbiota–based therapies** *(Rec 2)*. The criteria that define "severe" (active cytotoxic therapy, CAR-T/HCT **while neutropenic**, *any* neutropenia, severe primary immunodeficiency, advanced/untreated HIV) are on [[fmt]] — read them before offering FMT.
+> - Also contraindicated with **bowel perforation or obstruction.**
+
+- **Timing / washout** ([[aga-2024-fmt|AGA 2024]]): give **after completing** the antibiotic course — fecal microbiota–based therapy **prevents recurrence, it does not treat active CDI**. **Bridge with suppressive vancomycin** until it is given, then stop anti-CDI antibiotics **1–3 days before conventional FMT** (**1 day** if a bowel purge is given, **3 days** if not). Efficacy is diminished in patients needing frequent or long-term systemic antibiotics.
+- **When to offer earlier than the third episode:** after the **second recurrence (third episode)** is the usual trigger, but consider it sooner in patients at high risk of a morbid recurrence — recovered from **severe, fulminant, or particularly treatment-refractory CDI**, or with significant comorbidities. [[aga-2024-fmt]]
 - FMT strongly recommended (strong recommendation, moderate quality)
 - Preferred delivery: colonoscopy or oral capsules (both strong recommendations); enema if others unavailable (conditional, lower efficacy)
   - Colonoscopy and capsules are equivalent in efficacy (96.2% vs 96.2% in one RCT)
@@ -177,6 +187,7 @@ Higher doses of vancomycin (>125 mg QID) are not recommended for severe CDI — 
 - NNT = 10 overall; NNT = 6 for age ≥65 with ≥1 prior CDI in past 6 months
 - Do NOT use in CHF — higher rates of serious adverse events and deaths in phase 3 trials; use with caution in severe cardiovascular disease
 - No benefit over placebo in low-risk patients (age <65 without additional risk factors)
+- **IBD is not itself a qualifying risk factor** — the post hoc IBD subgroup (n=44) only trended toward benefit, so there is insufficient evidence to give bezlotoxumab for IBD **in the absence of the risk factors listed above**. [[acg-2021-cdiff]]
 
 **Suppressive/prophylactic vancomycin:**
 
@@ -215,7 +226,7 @@ Higher doses of vancomycin (>125 mg QID) are not recommended for severe CDI — 
 - Use two-step algorithm — colonization is common in IBD; NAAT alone will over-diagnose
 - Vancomycin 125 mg QID × minimum 14 days (longer than standard 10-day course) — reduces readmissions and lengths of stay vs metronidazole; longer courses (21–42 days) reduce recurrence further
 - Do NOT hold immunosuppressive IBD therapy — continue maintenance therapy; if no improvement at 3 days, escalate IBD therapy
-- FMT for rCDI in IBD: 79–91% success for CDI; 7–25% may experience IBD worsening; FMT is safe and well-tolerated in IBD overall
+- FMT for rCDI in IBD: 79–91% success for CDI; 7–25% may experience IBD worsening; FMT is safe and well-tolerated in IBD overall. **Keep the two indications separate:** [[aga-2024-fmt|AGA 2024]] suggests **against conventional FMT as a treatment for [[ulcerative-colitis|UC]], [[crohns-disease|CD]], or [[pouchitis]] itself, except in a clinical trial** *(Recs 4–6)* — recurrent/severe/fulminant CDI **in** an IBD patient is still managed by Recs 1–3
 - IBD patients rarely have pseudomembranes on endoscopy (mucopurulent exudate instead) — limits endoscopic severity assessment
 
 *Newer dedicated guidance — [[aga-2026-cdiff-ibd|AGA 2026 CPU on CDI in IBD]]:*
@@ -243,6 +254,7 @@ Higher doses of vancomycin (>125 mg QID) are not recommended for severe CDI — 
 **Immunocompromised patients:**
 
 - Vancomycin or fidaxomicin first-line (key concept); avoid metronidazole
+- **Fecal microbiota–based therapy is gated by the degree of immunocompromise, not simply permitted** — conventional FMT only if mildly/moderately immunocompromised; **against any such therapy if severely immunocompromised** (criteria on [[fmt]]). [[aga-2024-fmt]]
 - Organ transplant recipients have ~9× higher CDI risk than baseline hospitalization risk
 - OVP highly effective in allogeneic hematopoietic stem cell recipients (0% CDI on prophylaxis vs 20% without)
 
@@ -250,7 +262,7 @@ Higher doses of vancomycin (>125 mg QID) are not recommended for severe CDI — 
 
 ## See Also
 
-[[acute-diarrhea]], [[ulcerative-colitis]], [[crohns-disease]], [[inflammatory-bowel-disease]], [[colonoscopy]], [[salmonella-infection]], [[campylobacter-infection]], [[enterotoxigenic-e-coli]], [[norovirus]], [[irritable-bowel-syndrome]], [[postinfectious-ibs]], [[microscopic-colitis]], [[colon-ischemia]], [[toxic-megacolon]], [[ostomy-management]], [[pouchitis]], [[fmt]], [[probiotics]], [[loperamide]], [[rifaximin]], [[proton-pump-inhibitors]]
+[[acute-diarrhea]], [[ulcerative-colitis]], [[crohns-disease]], [[inflammatory-bowel-disease]], [[colonoscopy]], [[salmonella-infection]], [[campylobacter-infection]], [[shigellosis]], [[enterotoxigenic-e-coli]], [[norovirus]], [[irritable-bowel-syndrome]], [[postinfectious-ibs]], [[microscopic-colitis]], [[colon-ischemia]], [[toxic-megacolon]], [[ostomy-management]], [[pouchitis]], [[fmt]], [[probiotics]], [[loperamide]], [[rifaximin]], [[proton-pump-inhibitors]]
 
 ---
 

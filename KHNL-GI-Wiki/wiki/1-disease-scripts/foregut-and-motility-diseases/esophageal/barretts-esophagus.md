@@ -3,7 +3,7 @@ title: "Barrett's Esophagus"
 category: disease-script
 tags: [barretts-esophagus, esophageal, dysplasia, eet, rfa, surveillance, foregut]
 created: 2026-05-15
-updated: 2026-08-27
+updated: 2026-08-28
 sources: [acg-2022-barretts, aga-2025-barretts-surveillance, aga-2024-barretts-eet, asge-2018-barretts-eet, asge-2019-barretts-screening-surveillance]
 ---
 
@@ -47,18 +47,20 @@ Barrett's esophagus (BE) is a metaplastic condition in which the normal squamous
 
 The key severity variable is **dysplasia grade**, which determines both cancer risk and management pathway.
 
-| Grade | Annual EAC progression risk | Notes |
-|---|---|---|
-| NDBE (<3 cm) | ~0.07%/yr | Very low risk |
-| NDBE (≥3 cm) | ~0.25–0.31%/yr | Still low, but segment length matters |
-| Indefinite for dysplasia (IND) | ~0.6%/yr (HGD/EAC) | May reflect inflammation; optimize acid suppression |
-| LGD (confirmed) | **1.73–11.8%/yr** (very wide range) | Range anchors: meta-analysis of 24 studies = **1.73%/pt-yr**; SURF RCT surveillance arm = **11.8%/pt-yr**. Expert confirmation essential; community LGD downstaged 73% on expert review |
-| HGD | Substantially higher | Actionable — surveillance alone is not appropriate |
-| IMC (intramucosal carcinoma) | — | Risk of LN metastasis ~0–2%; EET preferred over esophagectomy |
+**Quote the right endpoint.** The published rates split into *EAC alone* and the combined *HGD or EAC* endpoint, and they differ by roughly 3–4×. Citing the EAC-only number where the decision rests on HGD/EAC materially understates risk — the two are listed separately below.
 
-**Segment length** is an independent risk factor for progression and determines surveillance intervals in NDBE (see Therapeutics).
+| Grade | Annual **EAC** risk | Annual **HGD or EAC** risk | Notes |
+|---|---|---|---|
+| NDBE, segment **<3 cm** | **0.07%/yr** ([[acg-2022-barretts\|ACG 2022]]); 0.06%/yr ([[aga-2025-barretts-surveillance\|AGA 2025]]) | **0.29%/yr** | Very low risk |
+| NDBE, segment **≥3 cm** | **0.25%/yr** (ACG 2022); 0.31%/yr (AGA 2025) | **0.91%/yr** | Length is the discriminator; HGD/EAC risk roughly **doubles per 4 cm** of segment length (AGA 2025) |
+| Indefinite for dysplasia (IND) | **0.6%/yr** (95% CI 0.1–1.1) | **1.5%/yr** (95% CI 1.0–2.0) — ACG 2022 calls this *comparable to LGD* | May reflect inflammation; optimize acid suppression, then re-scope. IND is found in **4.3–8.4%** of BE biopsies |
+| LGD (confirmed) | — | **1.73–11.8%/yr** (very wide range) | Range anchors: meta-analysis of 24 studies = **1.73%/pt-yr**; SURF RCT surveillance arm = **11.8%/pt-yr**. Expert confirmation essential; community LGD downstaged 73% on expert review |
+| HGD | — | Substantially higher | Actionable — surveillance alone is not appropriate |
+| IMC (intramucosal carcinoma) | — | — | Risk of LN metastasis ~0–2%; EET preferred over esophagectomy |
 
-**Other risk factors for progression:** male sex, smoking, long-segment BE, older age, absence of [[proton-pump-inhibitors|PPI]] use.
+**Segment length** is an independent risk factor for progression and determines surveillance intervals in NDBE (see Therapeutics) — each additional centimetre raises HGD/EAC odds (OR 1.25, 95% CI 1.16–1.36).
+
+**Other risk factors for progression:** male sex, **smoking (~1.5× odds of progression**, AGA 2025), long-segment BE, older age, absence of [[proton-pump-inhibitors|PPI]] use.
 
 ### Classification / Typing
 
@@ -176,6 +178,7 @@ Pathologic confirmation was also associated with **prevalent** HGD/carcinoma —
 - **[[confocal-laser-endomicroscopy|Confocal laser endomicroscopy]] (CLE):** ASGE 2019 **suggests against** routine use (conditional, low quality) — relative detection increase not statistically significant; high false-positive rate; endoscope-based CLE no longer available.
 - **EUS for T1a vs T1b:** ASGE 2019 **strongly recommends against** routine use to differentiate mucosal vs submucosal disease (moderate quality) — sensitivity only 41%, high false-positive rate; resection-based histology is the staging step.
 - **Volumetric laser endomicroscopy (VLE):** ASGE 2019 — no recommendation (insufficient evidence).
+- **[[artificial-intelligence-endoscopy|Computer-aided detection (CADe)]]:** not yet a recommendation. ACG 2022 notes a validated deep-learning CADe system (Netherlands/US) that delineates neoplastic areas within the Barrett's segment and demarcates the most abnormal region, outperforming **53 nonexpert endoscopists**, with promising live-endoscopy pilot data.
 
 ### Adjunct Staging Tests
 
@@ -205,7 +208,7 @@ Pathologic confirmation was also associated with **prevalent** HGD/carcinoma —
 
 - Swallowable nonendoscopic capsule sponge device (Cytosponge, EsophaCap, EsoCheck) combined with a biomarker (TFF3 or methylated DNA markers)
 - Sensitivity 80–94%, specificity 62–94% across devices (enriched case-control populations)
-- Office-administered, no sedation required; appropriate for high-risk patients who decline endoscopy
+- Office-administered, no [[endoscopy-sedation|sedation]] required; appropriate for high-risk patients who decline endoscopy
 
 **ASGE 2019 at-risk stratification** ([[asge-2019-barretts-screening-surveillance|ASGE 2019]]): evidence is insufficient to confirm that screening reduces mortality, but if screening is performed it should target an at-risk population —
 
@@ -217,7 +220,7 @@ Pathologic confirmation was also associated with **prevalent** HGD/carcinoma —
 
 **No repeat screening** after a negative index endoscopy.
 
-**Special case:** If erosive esophagitis ([[reflux-testing|LA grade]] B or worse — grade criteria on that page) is found at index endoscopy, repeat EGD after 8–12 weeks of PPI healing to exclude masked BE.
+**Special case:** If erosive esophagitis ([[reflux-testing|LA grade]] B or worse) is found at index endoscopy, repeat EGD after 8–12 weeks of PPI healing to exclude masked BE. *(The A–D grade definitions are **corpus-blocked** — no ingested source defines them; see the standing note on [[reflux-testing]].)*
 
 ### Medical Therapy / Chemoprevention
 
@@ -279,7 +282,7 @@ Pathologic confirmation was also associated with **prevalent** HGD/carcinoma —
 - EGD at **6-month intervals for 1 year** (i.e. 6 and 12 months), then **annually**, until the histologic grade changes
 - Sample with random 4-quadrant biopsies **every 1 cm** + targeted sampling/resection of visible lesions
 - If findings revert to NDBE: resume 3-year intervals
-- Rationale for the shorter interval: expert-confirmed LGD progresses to HGD/EAC at **5.7%/yr** per AGA 2025 (ACG 2022 cites a wider 1.73–9.1%/yr range — see Severity Assessment)
+- Rationale for the shorter interval: expert-confirmed LGD progresses to HGD/EAC at **5.7%/yr** per AGA 2025; ACG 2022 puts expert-confirmed LGD at **9.1%/pt-yr** within an overall 1.73–11.8%/yr literature range (see Severity Assessment)
 
 **HGD:** Surveillance alone is NOT an appropriate management strategy; proceed to EET.
 
@@ -397,7 +400,7 @@ CEIM defined as: 1–2 surveillance endoscopies with no visible BE and no IM on 
 
 ## See Also
 
-[[gerd]], [[eosinophilic-esophagitis]], [[achalasia]], [[esophageal-adenocarcinoma]], [[esophageal-cancer]], [[endoscopic-eradication-therapy]], [[radiofrequency-ablation]], [[endoscopic-mucosal-resection]], [[endoscopic-submucosal-dissection]], [[polypectomy]], [[upper-endoscopy]], [[endoscopic-ultrasound]], [[antireflux-surgery]], [[proton-pump-inhibitors]], [[reflux-testing]], [[dyspepsia]], [[dysphagia]], [[confocal-laser-endomicroscopy]], [[infectious-esophagitis]], [[high-resolution-manometry]], [[obesity]]
+[[gerd]], [[eosinophilic-esophagitis]], [[achalasia]], [[esophageal-adenocarcinoma]], [[esophageal-cancer]], [[endoscopic-eradication-therapy]], [[radiofrequency-ablation]], [[endoscopic-mucosal-resection]], [[endoscopic-submucosal-dissection]], [[polypectomy]], [[upper-endoscopy]], [[endoscopic-ultrasound]], [[antireflux-surgery]], [[proton-pump-inhibitors]], [[reflux-testing]], [[dyspepsia]], [[dysphagia]], [[confocal-laser-endomicroscopy]], [[artificial-intelligence-endoscopy]], [[endoscopy-sedation]], [[infectious-esophagitis]], [[high-resolution-manometry]], [[obesity]]
 
 ---
 

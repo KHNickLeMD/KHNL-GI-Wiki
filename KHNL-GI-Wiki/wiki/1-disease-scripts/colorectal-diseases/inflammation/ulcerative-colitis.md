@@ -4,7 +4,7 @@ category: disease-script
 tags: [uc, ulcerative-colitis, ibd, 5-asa, biologics, anti-tnf, vedolizumab, asuc, pancolitis, proctitis]
 created: 2026-05-07
 updated: 2026-08-27
-sources: [acg-2025-uc, aga-2024-uc-pharm, aga-2024-pouchitis, aga-2023-biomarkers-uc, acg-2019-uc, asge-2015-scenic-ibd-dysplasia, asge-2015-ibd, aga-2026-inpatient-ibd, aga-2024-intestinal-ultrasound, aga-2024-diet-nutrition-ibd, aga-2024-ibd-malignancy, aga-2024-pregnancy-gi-liver]
+sources: [acg-2025-uc, aga-2024-uc-pharm, aga-2024-pouchitis, aga-2023-biomarkers-uc, acg-2019-uc, asge-2015-scenic-ibd-dysplasia, asge-2015-ibd, aga-2026-inpatient-ibd, aga-2024-intestinal-ultrasound, aga-2024-diet-nutrition-ibd, aga-2024-ibd-malignancy, aga-2024-pregnancy-gi-liver, aga-2024-fmt]
 ---
 
 Idiopathic chronic inflammatory disorder of the large intestine. Continuous mucosal inflammation starting in rectum and extending proximally. Relapsing-remitting course; goal of therapy is sustained steroid-free endoscopic remission.
@@ -215,6 +215,7 @@ Idiopathic chronic inflammatory disorder of the large intestine. Continuous muco
 **Against for induction:**
 
 - Thiopurine or methotrexate **monotherapy** (Strong/Low)
+- **Conventional [[fmt|fecal microbiota transplantation]] as UC therapy** — [[aga-2024-fmt|AGA 2024]] suggests **against it except within a clinical trial** *(Rec 4, Conditional/Very low)*; outside a trial it is reasonable only as expanded access when no comparable alternative exists. This says nothing about FMT for recurrent or fulminant *[[clostridioides-difficile|C. difficile]]* **in** a UC patient, which stays indicated under that guideline's Recs 1–3.
 - 5-ASA added on top of a biologic/JAK inhibitor — no added efficacy (Conditional/Very low); stop 5-ASA once escalated ([[aga-2024-uc-pharm|AGA 2024]] rec 13). *Exception in the AGA implementation notes: a partial responder — especially with residual proctitis — may still benefit from rectal 5-ASA.*
 
 **Maintenance:**

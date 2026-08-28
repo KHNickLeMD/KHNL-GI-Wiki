@@ -146,11 +146,21 @@ flowchart TD
 - Initial 3.0 cm → reassess at 4–6 weeks; advance size if still symptomatic
 - **Young men (<45y):** Start at 3.5 cm or consider LHM/POEM (thicker LES musculature → worse PD response)
 - Predictors of favorable PD response: age >45y, female sex, non-dilated esophagus, LES pressure post-PD <10 mmHg
-- **Perforation risk:** overall reported 1.9% (range 0–10%); **median 1.9% (range 0–16%) in experienced hands** (operators with >100 patients treated). Requires surgery if large/mediastinal contamination
+- **Pooled efficacy:** clinical success (**ES ≤3**) in **83% (95% CI 79–85%)** across 52 uncontrolled studies / 4,166 patients, at 3–6 months' follow-up; mean LES pressure falls 34.5 → 20.8 mmHg ([[asge-2020-achalasia]])
+- **Perforation risk:** ACG 2020 — overall reported 1.9% (range 0–10%); **median 1.9% (range 0–16%) in experienced hands** (operators with >100 patients treated). *Contradiction surfaced:* the [[asge-2020-achalasia|ASGE 2020]] meta-analysis pools perforation at **2.8% (95% CI 2.3–3.5%)** and bleeding requiring intervention at **2%** — same year, different study sets; quote both. Requires surgery if large/mediastinal contamination
 - Do NOT perform routine post-dilation gastrograffin esophagram; reserve for clinical suspicion of perforation
-- GERD occurs in 15–35% post-PD → [[proton-pump-inhibitors|PPI]] therapy
+- GERD occurs in 15–35% post-PD → [[proton-pump-inhibitors|PPI]] therapy (ASGE 2020 pools *symptomatic* GERD lower, at **9%**, 95% CI 5–16%, at ~6 months — the two figures use different GERD definitions)
 
 > **Recommendation:** Serial PD is the most effective non-surgical treatment. Superior to botulinum toxin. Equivalent to LHM at 5 years. (Strong; High evidence)
+
+**The numbers behind "superior to botulinum toxin"** — pooled RCT data, and note the gap *widens* with time ([[asge-2020-achalasia]]):
+
+| Follow-up | PD | Botulinum toxin | Risk ratio |
+|---|---|---|---|
+| 6 months | **80.7%** (46/57) | **51.8%** (29/56) | 1.57 (95% CI 1.19–2.08; P=.0015) |
+| 12 months | **73.3%** (55/75) | **37.5%** (27/72) | 1.88 (95% CI 1.35–2.61; P=.0002) |
+
+*(At <4 weeks the two are indistinguishable — the difference is durability, not initial response.)*
 
 > **Newer guidance — [[sages-2024-poem|SAGES 2024 update]] (conditional):** **POEM over PD** for adults with achalasia; **POEM or LHM** — either acceptable, selection individualized (POEM especially advantageous for type III / spastic disease). Where the two differ, the 2024 update supersedes the 2020 ACG framing of PD as the preferred non-surgical option; counsel on post-POEM reflux.
 

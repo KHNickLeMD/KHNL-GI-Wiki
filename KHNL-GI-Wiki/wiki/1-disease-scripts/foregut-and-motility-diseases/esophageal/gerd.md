@@ -3,7 +3,7 @@ title: "Gastroesophageal Reflux Disease"
 category: disease-script
 tags: [gerd, reflux, esophageal, foregut, motility]
 created: 2026-05-15
-updated: 2026-08-27
+updated: 2026-08-28
 sources: [asge-2024-gerd, acg-2021-gerd, sages-2021-gerd-surgery, lyon-2024-gerd-diagnosis, aga-2024-pcab, aga-2023-extraesophageal-gerd]
 ---
 
@@ -38,7 +38,9 @@ sources: [asge-2024-gerd, acg-2021-gerd, sages-2021-gerd-surgery, lyon-2024-gerd
 
 ### Severity Assessment
 
-Objective severity is assessed endoscopically and with [[reflux-testing|reflux testing]] — the **LA classification (break size/confluence) and Hill grade I–IV criteria tables live on that page**:
+Objective severity is assessed endoscopically and with [[reflux-testing|reflux testing]], which is the home page for what each endoscopic descriptor is used for.
+
+> ⚠ **Decision gap — corpus-blocked, do not fill from memory.** Every ingested GERD source (**[[acg-2021-gerd]], [[asge-2024-gerd]], [[acg-2020-esophageal-physiologic-testing]], [[lyon-2024-gerd-diagnosis|Lyon 2.0]]**) *uses* the **Los Angeles A–D** and **Hill I–IV** grades to drive real decisions, but **none of them defines the grades**, and no ingested source defines the **AFS** flap-valve grade at all. Needed: **Lundell 1999** (LA classification) and **Hill & Kozarek, *J Clin Gastroenterol* 1996** (flap valve), plus an AFS source. See the standing note on [[reflux-testing]].
 
 **Endoscopic findings — required documentation elements (strong, very low evidence):**
 
@@ -57,7 +59,7 @@ Objective severity is assessed endoscopically and with [[reflux-testing|reflux t
 
 **Reflux testing** (for objective confirmation before procedural therapy):
 
-- 24- or 48-hour ambulatory pH monitoring: acid exposure time (AET) = % time pH <4; normal <4–6% depending on protocol
+- 24- or 48-hour ambulatory pH monitoring: acid exposure time (AET) = % time pH <4. The Lyon 2.0 cut-points that actually decide the case (>6% / 4–6% / <4%, each with its qualifier) are under [[#pH Monitoring]] — not repeated here
 - Refractory GERD definition: persistent troublesome GERD symptoms despite double-dose PPI for ≥8 weeks with documented pathologic reflux on testing
 
 ### Classification / Typing
@@ -195,7 +197,7 @@ Recommend for all patients with GERD symptoms:
 **The gate — all three required before any endoscopic antireflux therapy:**
 
 1. **Confirmed (objectively documented) GERD** — not a symptom diagnosis
-2. **Complete endoscopic assessment of the GEJ** — hiatal hernia size and Hill grade (criteria on [[reflux-testing]])
+2. **Complete endoscopic assessment of the GEJ** — hiatal hernia axial length in cm and Hill grade (grade definitions corpus-blocked — see Severity Assessment)
 3. **Multidisciplinary review** (especially for cTIF)
 
 **Plus mandatory [[high-resolution-manometry|HRM]] before any antireflux procedure or endoscopic therapy** to rule out [[achalasia]] and absent contractility (Strong/Low, [[acg-2021-gerd]]) — among patients with **refractory** GERD, manometry finds achalasia in **1%–3%**, and **esophageal aperistalsis in roughly 3%** of manometry studies done to evaluate GERD; the aperistalsis group responds poorly to antireflux surgery.

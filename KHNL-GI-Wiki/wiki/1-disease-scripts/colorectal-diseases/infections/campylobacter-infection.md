@@ -3,7 +3,7 @@ title: "Campylobacter Infection"
 category: disease-script
 tags: [campylobacter, bacterial-gastroenteritis, diarrhea, travelers-diarrhea, dysentery, fluoroquinolone-resistance, guillain-barre]
 created: 2026-05-19
-updated: 2026-08-13
+updated: 2026-08-28
 sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
 ---
 
@@ -28,7 +28,8 @@ sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
 
 *Workup: see [[acute-diarrhea]].*
 
-- Other inflammatory bacterial enteritides — [[salmonella-infection]], [[shigellosis]], [[enterotoxigenic-e-coli|Shiga-toxin *E. coli*]]
+- Other inflammatory bacterial enteritides — [[salmonella-infection]], [[shigellosis]], *Yersinia enterocolitica*
+- **Shiga toxin–producing *E. coli* (STEC/EHEC)** — bloody diarrhea ± HUS; **do NOT give antimicrobials** for STEC O157, any Shiga-toxin-2 producer, or when the toxin genotype is unknown *(strong, moderate)*. [[idsa-2017-infectious-diarrhea]] (Rec 35). Not the same organism as [[enterotoxigenic-e-coli|ETEC]] (watery, noninvasive).
 - [[clostridioides-difficile|*C. difficile*]] colitis
 - [[inflammatory-bowel-disease|Inflammatory bowel disease]] flare
 

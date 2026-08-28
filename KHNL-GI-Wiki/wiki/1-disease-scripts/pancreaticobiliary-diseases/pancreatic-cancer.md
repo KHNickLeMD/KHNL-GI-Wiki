@@ -82,6 +82,8 @@ Germline pathogenic variants account for a meaningful share of PDAC — [[brca-p
 - **[[lynch-syndrome|Lynch syndrome]]** with a first- or second-degree relative with pancreatic cancer.
 - **[[hereditary-pancreatitis|Autosomal-dominant hereditary pancreatitis]]**.
 
+*The list above is ordinal, not quantitative: the **relative risk of pancreatic cancer for each syndrome** (from Peutz-Jeghers at the top down to ATM), paired with its screening start age, is tabulated on [[pancreatic-cancer-screening]] from [[acg-2015-hereditary-gi-cancer]] — consult it before deciding whether a given carrier crosses the threshold to screen.*
+
 Per [[asge-2022-pancreatic-cancer-screening|ASGE 2022]], BRCA1/2 carriers should be considered for screening **regardless of family history** of pancreatic cancer, because ~2 of 3 BRCA-associated cancers would otherwise be missed. A family history of pancreatic cancer *not* meeting FPC criteria confers ~2-fold increased risk but is generally not an indication for screening on its own; diabetes, older age, smoking, [[obesity]], and [[chronic-pancreatitis|chronic pancreatitis]] raise risk to a lesser degree than the genetic conditions above.
 
 ### High-Risk Surveillance
