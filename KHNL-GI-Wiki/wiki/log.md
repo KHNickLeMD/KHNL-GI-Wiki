@@ -6,6 +6,54 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-08-29] lint | Second consecutive orphaned tier-1 source integrated (AGA 2023 NITs in NAFLD); 96 stale index source counts corrected; mri-mrcp rebuilt
+
+**Ingest status:** working tree clean; **no new inbox files** (newest file in `raw/` is dated 2026-08-27 and all three of that date are already ingested; `raw/assets/` fully tracked, 68/68). A stricter raw-vs-`wiki/sources/` match than prior passes used — best-match scoring of all **294 non-lecture raw files** against every source page's slug, `title:`, and `**Article:**` line — surfaced 5 weak matches, **all five verified ingested by opening the PDF**, not by filename:
+
+- `NIT in MASDL.pdf` → [[aga-2023-nafld-noninvasive-biomarkers]] (Wattacheril, *Gastroenterology* 2023;165:1080–1088)
+- `cannabis hyperemesis.pdf` → [[aga-2024-chs]]; `cyclical vomiting.pdf` → [[aga-2024-cvs]]; `extraesoph gerd.pdf` → [[aga-2023-extraesophageal-gerd]]; `tailed polypectomy.pdf` → [[aga-2024-tailored-polypectomy]]
+- `ACG 2018 Management of Irritable Bowel Syndrome.pdf` is **misnamed** — the PDF is the Lacy et al. guideline already ingested as [[acg-2020-ibs]]. Filename year is wrong; `raw/` is immutable, so this is recorded here rather than fixed.
+
+**No ingest this pass.** The only uningested material is the **gated lecture/chalk-talk corpus (60 transcripts)**.
+
+**The finding that mattered — the same defect class as last pass, a different source:**
+
+- [[aga-2023-nafld-noninvasive-biomarkers]] was a **true orphan** — cited by nothing but `index.md`, inert since 2026-07-25. Its own `## Relevance to Wiki` names the four pages it was supposed to update; none of them cited it. **This is the second consecutive pass to find a fully-extracted tier-1 source that never reached an entity page**, after the AFS TIF white paper on 08-28.
+- Its content is **not** merely duplicative of the AASLD 2024 NILDA material already on the target pages. Net-new decision content now landed on [[noninvasive-liver-disease-assessment]], all verified against the source PDF rather than taken from the source page:
+  - **Rule-in cutoff + AUROC table** for AF (F3–4) — adds **APRI >0.84** (0.76) and **SWE >8.0 kPa** (0.89); **SWE as a modality was entirely absent from the wiki**, with its own performance figures (sens 89.9%, spec 91.8% at 3.02–10.6 kPa cutoffs)
+  - **NPV is prevalence-dependent** — FIB-4 <1.3 gives NPV ~90% in specialty populations, **96% at 10% AF prevalence, 73% at 50%**. The page previously stated the cutoff as if it travelled unchanged between primary care and a hepatology clinic; it does not
+  - **The sequential combination rule**, stated as a combination per the Content Guide: rule out = FIB-4 <1.3 **and** VCTE <8.0; rule in cirrhosis = FIB-4 ≥3.48 **and** VCTE ≥20 — **cuts biopsy need 33% → 19%** (IPD meta-analysis, 37 studies, n=5735)
+  - **MEFIB (MRE+FIB-4) vs FAST** for at-risk MASH — AUROC 0.901 vs 0.733; PPV 95.3% vs 83.5%, NPV 90.1% vs 71.8%
+  - **Biopsy triggers** — indeterminate/discordant NITs, conflict with other clinical/lab/radiologic findings, suspected alternative etiology. **This was a decision gap on [[nafld-masld]]**: the page said biopsy was "not routinely required" and never said what *would* require it. Now stated there too
+  - **Manufacturer-specification caveat** — not in patients with ascites or with pacemakers; probe selection (M vs XL); VCTE false positives with inexperience, high BMI, non-fasting state, high ALT
+  - **F3/F4 on NITs is itself the surveillance trigger** — [[hcc-surveillance|HCC screening]] + variceal screening per Baveno, then serial LSM
+- **Contradiction surfaced:** AASLD 2024 **suggests against blood-based** NILDA for serial fibrosis tracking, while this AGA CPU endorses serial monitoring. Resolved on the page rather than papered over — they are compatible once the modality is named (**track with elastography, not FIB-4**), and per source priority the newer AASLD guideline governs where cutoffs overlap.
+
+**Stalest-page validation (3 pages):**
+
+- **`mri-mrcp.md`** (2026-08-08, stalest non-source page) — **rebuilt.** It was four prose paragraphs on a single source, and failed decision-sufficiency for a modality used across the whole pancreaticobiliary corpus. Now carries a **technique-standards table** (1.5-T minimum, 3-T for small pancreatic lesions, phased-array coils, **T2w 3D MRCP with 1-mm slices preferred over 2D**), a **limitations section** that says when MRCP is the *wrong* test (**a normal MRCP does not exclude PSC — 30% false-negative at high pretest probability**; EUS more sensitive for small solid pancreatic lesions; **cholangitis or high pretest stricture → go straight to ERCP**; metallic implants/claustrophobia), and a **routing table** of the seven settings where MRCP carries the decision. Per *one home per fact*, the disease-specific performance figures were **not** copied here — they stay on [[liver-transplantation]] and [[primary-sclerosing-cholangitis]], which already own them. Sources 1 → 7.
+- **`ibd-in-malignancy.md`** (2026-08-10) — content verified decision-sufficient (AGA 2024 Table 1 reproduced in full, risk magnitudes with denominators). Style pass only: inline links added to [[ibd-preventive-care]], [[colonoscopy-surveillance]], and [[ibd-endoscopic-scoring]] on first mention; See Also extended.
+- **`noninvasive-liver-disease-assessment.md`** (2026-08-14) — validated as the integration target above.
+
+**Index reconciliation — a wiki-wide mechanical defect, not a few pages:**
+
+- **96 index entries carried a stale `(N sources)` count.** Every one was audited against the page's own frontmatter `sources:` list and corrected; nearly all were *under*-counted, i.e. pages had gained sources over months without the index following. Examples: `cirrhosis` 9→12, `crohns-disease` 10→13, `ulcerative-colitis` 9→13, `chronic-pancreatitis` 2→5, `chronic-hepatitis-b` 1→4, `acute-cholecystitis` 1→4. Re-audited to **0 remaining mismatches**.
+- **Totals line:** disease scripts 139 → **138** (on-disk count; the 08-28 entry set 139).
+- Descriptions rewritten for the two substantively changed pages.
+
+**Whole-wiki checks — re-run after the edits, not before:** 0 pages missing from index, 0 index entries without a page, 0 orphans (was 1), 0 broken `[[link]]` targets (4 residual hits are documentation examples inside this log's own prose), 0 unescaped alias pipes in tables (**1 introduced by this pass's own edit, caught and fixed**), 0 duplicate basenames, 0 stubs, 0 OS artifacts.
+
+**Remaining for user triage:**
+
+- **Gated lectures/chalk talks (60 transcripts) are the only uningested material** — name which to ingest; never auto-ingested.
+- **No page exists for any IBD immunomodulator or biologic class** — `thiopurines`, `tnf-inhibitors`, `vedolizumab`, `ustekinumab`, JAK inhibitors are written as plain text across 5–9 entity pages each. **Deliberately not created this pass:** the ingested corpus ([[aga-2024-uc-pharm]], [[aga-2025-crohns-pharm]]) supports *positioning* statements only, with no dosing, TPMT/NUDT15 testing, metabolite targets, or lab-monitoring intervals — a page built from it would fail decision-sufficiency, and the rest cannot come from memory. **A drug-specific ACG/AGA IBD guideline would close this**; it is the largest single connectivity gap left in the wiki.
+- **14 scratch files are committed at the repo root** (`.lint-*.txt`, `.*.py`) — the five `.lint-*.txt` files are stale generated dumps from 2026-08-08 and are exactly the artifact class the schema forbids ("never write lint reports to disk"). **Removal was attempted this pass and denied by the permission layer**, so they remain. The `.py` helpers are reusable tooling and are worth keeping if the `.txt` dumps go.
+- **Two phantom sources still unresolved from 08-14** — `nejm-2023-fever-returning-traveler` and `chang-2024-endoscopic-oncologist`. Unchanged.
+- **Corpus-blocked criteria, unchanged:** LA grade A–D (Lundell 1999), Hill grade I–IV / AFS EGJ classification (Hill & Kozarek 1996), TG18 Tables 1/3 (Kiriyama 2018), Curaçao criteria (an HHT source). None invented.
+- **Duplicate file in `raw/`:** `AGA 2026 CPU Hemorrhoids (duplicate).pdf` alongside `AGA 2026 CPU Hemorrhoids.pdf`. `raw/` is immutable, so noted rather than removed.
+
+---
+
 ## [2026-08-29] lint | AFS TIF white paper landed on an entity page after two passes claimed it; hiatal-hernia created; 13 pages restored to the index
 
 **Ingest status:** working tree clean; **no new inbox files**. Full raw-vs-`wiki/sources/` diff confirms **every tier-1 and tier-2 file is ingested**. The two files dated after the last pass are both already-ingested duplicates: `GI RCTs/Rosenbluth Urgent versus early ERCP…pdf` is the **same Jagtap trial** as `jagtap-2026-urgent-vs-early-ercp-cholangitis` (verified by reading the PDF byline — Jagtap, Rughwani, Talukdar et al.), and `EASL 2021 Baveno VII.pdf` is `baveno-vii-2022-portal-hypertension`. Remaining uningested material is the **gated lecture/chalk-talk corpus (~60 files)**, not auto-ingested per schema. **No ingest this pass.**

@@ -3,8 +3,8 @@ title: "NAFLD / MASLD (Metabolic Dysfunction-Associated Steatotic Liver Disease)
 category: disease-script
 tags: [nafld, masld, nash, mash, steatosis, metabolic-syndrome, fibrosis, fibroscan, hpb, liver, obesity, diabetes, semaglutide, resmetirom, glp-1, nit, essence-trial, liver-transplant, post-transplant, recurrence]
 created: 2026-05-19
-updated: 2026-08-25
-sources: [aasld-2023-nafld, aasld-2023-masld-nomenclature, aasld-2024-resmetirom, aasld-2024-nilda-blood, aasld-2025-semaglutide-mash, acg-2017-liver-chemistries, aasld-ast-2025-liver-transplant-graft-complications]
+updated: 2026-08-29
+sources: [aasld-2023-nafld, aasld-2023-masld-nomenclature, aasld-2024-resmetirom, aasld-2024-nilda-blood, aasld-2025-semaglutide-mash, acg-2017-liver-chemistries, aasld-ast-2025-liver-transplant-graft-complications, aga-2023-nafld-noninvasive-biomarkers]
 ---
 
 ## Assessment
@@ -124,6 +124,7 @@ See [[noninvasive-liver-disease-assessment]] for the cross-disease NILDA framewo
 
 - Definitive for diagnosis and staging (Brunt criteria; NAS scoring system)
 - Not routinely required for pharmacotherapy candidacy in most patients
+- **When to biopsy anyway** — reserve it for NITs that are **indeterminate or discordant**, NITs that **conflict** with other clinical/laboratory/radiologic findings, or **suspected alternative etiology**. Applying the sequential NIT pair instead of a single test (see [[noninvasive-liver-disease-assessment]]) cut biopsy need from 33% → 19%. [[aga-2023-nafld-noninvasive-biomarkers]]
 - If biopsy performed within prior 6–12 months without substantial interval weight change, disease stage can be used to inform pharmacotherapy decisions; obtaining a baseline NIT before initiating therapy remains beneficial for longitudinal monitoring [[aasld-2025-semaglutide-mash]]
 
 ---
@@ -276,3 +277,4 @@ Per [[aasld-ast-2025-liver-transplant-graft-complications]] (recurrent MASLD pos
 5. [[aasld-2025-semaglutide-mash|Semaglutide Therapy for Metabolic Dysfunction–Associated Steatohepatitis: November 2025 Updates to AASLD Practice Guidance]]
 6. [[acg-2017-liver-chemistries|ACG 2017: Evaluation of Abnormal Liver Chemistries]]
 7. [[aasld-ast-2025-liver-transplant-graft-complications|AASLD/AST 2025: Practice Guideline on Adult Liver Transplantation — Diagnosis and Management of Graft-Related Complications]]
+8. [[aga-2023-nafld-noninvasive-biomarkers|AGA Clinical Practice Update on the Role of Noninvasive Biomarkers in the Evaluation and Management of Nonalcoholic Fatty Liver Disease: Expert Review (2023)]]
