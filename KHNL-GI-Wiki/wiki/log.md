@@ -6,6 +6,49 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-08-29] lint | AFS TIF white paper landed on an entity page after two passes claimed it; hiatal-hernia created; 13 pages restored to the index
+
+**Ingest status:** working tree clean; **no new inbox files**. Full raw-vs-`wiki/sources/` diff confirms **every tier-1 and tier-2 file is ingested**. The two files dated after the last pass are both already-ingested duplicates: `GI RCTs/Rosenbluth Urgent versus early ERCP…pdf` is the **same Jagtap trial** as `jagtap-2026-urgent-vs-early-ercp-cholangitis` (verified by reading the PDF byline — Jagtap, Rughwani, Talukdar et al.), and `EASL 2021 Baveno VII.pdf` is `baveno-vii-2022-portal-hypertension`. Remaining uningested material is the **gated lecture/chalk-talk corpus (~60 files)**, not auto-ingested per schema. **No ingest this pass.**
+
+**The finding that mattered — a source page that no page cited:**
+
+- `afs-2023-transoral-incisionless-fundoplication` was a **true orphan** (zero inbound links) and its `[[hiatal-hernia]]` target did not exist. **The 2026-08-28 entry states both defects were "all corrected in the 2026-08-28 pass below." They were not.** A rich, fully extracted tier-1 source page had been sitting inert since 08-27 — its decision-critical content had never reached any entity page.
+- **Now integrated into [[antireflux-surgery]]** (net-new; ASGE 2025 remains what the page asserts where the two overlap — they agree on the selection rule):
+  - **EsophyX relative-contraindication table** — the page previously said when TIF *is* appropriate and never when it is not
+  - **TIF-specific 5-item preoperative workup**, including the divergence that matters: **HRM only if dysphagia**, unlike pre-LNF practice, because TIF is a partial fundoplication over a 60 Fr device
+  - **Technical safety points** — CO₂ at 15 mmHg, advance 0.5–1.0 cm below the EGJ before firing (above it fasteners can cross the diaphragm → mediastinitis/abscess/leak), 4/6/8 o'clock risk, 20-fastener minimum, never re-fire over prior fasteners, immediate post-TIF endoscopy
+  - **cTIF hard stop** — the determinant is **2–3 cm of intra-abdominal esophageal length, not hernia size**; if it cannot be obtained, do not perform the TIF
+  - **Full post-TIF protocol** — antiemetic regimen, antibiotics within 30 min, staged 6-week diet, PPI 4–6 wk, lifting ≤15 lb × 8 wk
+  - BMI ≥35 recorded as the **relative** exclusion the source actually describes, not an absolute bar
+
+**Page created:**
+
+- `1-disease-scripts/foregut-and-motility-diseases/esophageal/hiatal-hernia.md` — closes the dangling link. Built strictly from the ingested GERD/antireflux corpus: two-dimension sizing (axial length **and** transverse hiatal diameter, either >2 cm disqualifying TIF), endoscopy-underestimates-vs-laparoscopy caution, HRM as most sensitive test (94.3%/91.5%), hernia measured in only **51%** of endoscopy reports, paraesophageal hernia as TIF contraindication, Cameron lesions. Carries an explicit **corpus-scope banner**: no dedicated hiatal hernia guideline is ingested, so **type I–IV classification, asymptomatic PEH repair indications, and volvulus/incarceration are deliberately absent** — a SAGES hiatal hernia guideline would close them. Not filled from memory.
+
+**Index reconciliation — the same defect, twice over:**
+
+- **13 pages were absent from `wiki/index.md`.** The 08-28 entry claims it fixed "12 pages [that] were never added to `wiki/index.md`"; they were still missing. All 13 are now added with full descriptions: `hereditary-mixed-polyposis-syndrome`, `acute-cholangitis`, `disconnected-pancreatic-duct-syndrome`, `chronic-constipation`, `colorectal-polyposis`, `ingested-foreign-body`, `glp-1-receptor-agonists`, `tenapanor`, and the source pages `afs-2023-transoral-incisionless-fundoplication`, `aga-2020-cpu-pancreatic-necrosis`, `asge-2011-foreign-body-ingestion`, `tg18-2018-cholangitis-flowchart`, `uspg-2025-disconnected-pancreatic-duct`.
+- **Totals line was stale in every field.** Corrected 249→**255** sources, 129→**139** disease scripts, 22→**25** schemas, 27→**29** meds, 47→**42** concepts (the last reflects the four disease pages relocated out of `7-concepts/` on 08-14).
+
+**Stalest-page validation (3 pages):**
+
+- **`overview.md`** (2026-05-26, stalest in the wiki) — verified correct: it is an intentional pointer deferring to `README.md`. It had become a **permanent false positive at the head of the staleness queue**; date bumped so future passes advance to real work.
+- **`alosetron.md`** (2026-08-08) — decision-sufficient and source-faithful; RR figures verified verbatim against the AGA 2022 IBS-D PDF. Added a reading note: the page reproduced the guideline's own "superior to placebo in improving global symptoms (RR 0.60)" wording, where **RR <1 favors alosetron** because the pooled outcome is non-response. As written it invited the opposite reading.
+- **`disorders-of-gut-brain-interaction.md`** (2026-08-08) — content sound and decision-sufficient. Style fixes: added the missing **`## Contents` ToC** (long page, no ToC), and converted the biopsychosocial model from **ASCII art in a fenced code block to a Mermaid flowchart** per the Style Guide.
+
+**Connectivity:** inline `[[hiatal-hernia]]` links added on first mention in [[gerd]], [[reflux-testing]], and [[upper-gi-bleeding]] (Cameron lesions); [[antireflux-surgery]] and the index entry cross-linked.
+
+**Whole-wiki checks — all clean after fixes:** 0 pages missing from index, 0 orphan pages, 0 broken `[[link]]` targets (the 4 residual hits are documentation examples in this log's own prose), 0 unescaped alias pipes in tables, 0 duplicate basenames, 0 stub pages, 0 OS artifacts.
+
+**Remaining for user triage:**
+
+- **Gated lectures/chalk talks (~60 transcripts) are the only uningested material** — name which to ingest and they will be done; they are never auto-ingested.
+- **Two phantom sources still unresolved from 08-14** — `nejm-2023-fever-returning-traveler` (PDF has never existed in `raw/`; [[fever-returning-traveler]] cites it as its sole source) and `chang-2024-endoscopic-oncologist`. Both still flagged in place, awaiting a decision to source or delete.
+- **Corpus-blocked criteria, unchanged:** LA grade A–D (needs Lundell 1999), Hill grade I–IV and the AFS EGJ classification (needs Hill & Kozarek 1996), TG18 Tables 1/3 items and operators (needs Kiriyama 2018), Curaçao criteria (needs an HHT source). None invented.
+- **Process:** this is the **second consecutive pass** whose predecessor logged fixes that had not landed. Worth verifying the cron's lint prompt actually re-checks its own assertions before writing the log entry.
+
+---
+
 ## [2026-08-28] lint | Six unlogged cron passes (2026-08-25 → 08-28) reconstructed from the commit record
 
 **Why this entry exists:** the scheduled lint cron ran six passes between 2026-08-25 and 2026-08-28 that committed real work but **never appended to `wiki/log.md`** — the log jumped straight from 2026-08-14 to today. The durable record was missing for **181 files changed, +6,926/−2,269 lines**. The entries below are reconstructed from `git log`/`git diff --diff-filter=A` and record *what was created*; per-pass fix detail was not recoverable and is not invented here.

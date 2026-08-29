@@ -3,8 +3,25 @@ title: "Disorders of Gut–Brain Interaction (DGBI)"
 category: concept
 tags: [DGBI, functional-gi, IBS, rome-criteria, biopsychosocial, brain-gut-axis, motility, visceral-hypersensitivity]
 created: 2026-05-15
-updated: 2026-08-08
+updated: 2026-08-29
 sources: [rome-v-2026-dgbi]
+---
+
+## Contents
+- [[#Definition]]
+- [[#Rome V Classification]]
+  - [[#Adult DGBI (Categories A–F)]]
+  - [[#Pediatric DGBI (Categories G–H)]]
+- [[#Rome V Diagnostic Criteria Framework]]
+  - [[#Standard Rome V Research Criteria]]
+  - [[#Rome Clinical Criteria (New in Rome V)]]
+- [[#Biopsychosocial Model]]
+- [[#Brain–Gut Axis]]
+- [[#IBS Severity Classification (Rome V, Table 4)]]
+- [[#Treatment Framework]]
+- [[#Key Changes from Rome IV to Rome V]]
+- [[#Epidemiology]]
+
 ---
 
 ## Definition
@@ -74,21 +91,15 @@ Designed for clinical practice. More inclusive than research criteria.
 
 The central conceptual framework for DGBI. Factors operate bidirectionally:
 
-```
-Early Life Factors
-(genetics, culture, trauma, infection, parental behaviors)
-          ↓
-Psychosocial Factors ←→ Gut Physiology
-(stress, personality,      (motility, visceral
- coping, social support)    hypersensitivity,
-          ↕                 immune/microbiome/diet)
-      Brain–Gut Axis (CNS ↔ ENS)
-          ↓
-DGBI Clinical Presentation
-(symptoms, severity, comorbidity, behaviors)
-          ↓
-Outcome
-(healthcare use, daily function, QoL, costs)
+```mermaid
+flowchart TD
+    A["Early life factors<br/>genetics, culture, trauma,<br/>infection, parental behaviors"] --> B["Psychosocial factors<br/>stress, personality,<br/>coping, social support"]
+    A --> C["Gut physiology<br/>motility, visceral hypersensitivity,<br/>immune / microbiome / diet"]
+    B <--> D["Brain-gut axis<br/>CNS and ENS"]
+    C <--> D
+    B <--> C
+    D --> E["DGBI clinical presentation<br/>symptoms, severity,<br/>comorbidity, behaviors"]
+    E --> F["Outcome<br/>healthcare use, daily function,<br/>QoL, costs"]
 ```
 
 **Key psychosocial principles:**

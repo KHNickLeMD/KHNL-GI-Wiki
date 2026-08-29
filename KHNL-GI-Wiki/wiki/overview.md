@@ -3,7 +3,7 @@ title: "GI Encyclopedia — Overview"
 category: overview
 tags: [gastroenterology, overview]
 created: 2026-05-07
-updated: 2026-05-26
+updated: 2026-08-29
 sources: []
 ---
 

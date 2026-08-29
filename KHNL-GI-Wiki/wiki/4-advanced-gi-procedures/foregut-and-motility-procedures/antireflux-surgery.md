@@ -3,8 +3,8 @@ title: "Antireflux Surgery"
 category: advanced-procedure
 tags: [gerd, antireflux-surgery, fundoplication, nissen, msa, linx, tif, ctif, stretta, foregut, hiatal-hernia]
 created: 2026-06-01
-updated: 2026-08-14
-sources: [sages-2021-gerd-surgery, acg-2021-gerd, asge-2024-gerd, padova-2025-hrm-antireflux]
+updated: 2026-08-29
+sources: [sages-2021-gerd-surgery, acg-2021-gerd, asge-2024-gerd, padova-2025-hrm-antireflux, afs-2023-transoral-incisionless-fundoplication]
 ---
 
 *Surgical and endoscopic mechanical therapy for [[gerd|GERD]] — fundoplication, magnetic sphincter augmentation (MSA), and incisionless endoscopic alternatives (TIF/cTIF). Selection turns on **objective GERD confirmation**, **hiatal hernia size**, and **[[reflux-testing|Hill grade]]**; technique choice is largely values-based.*
@@ -12,10 +12,14 @@ sources: [sages-2021-gerd-surgery, acg-2021-gerd, asge-2024-gerd, padova-2025-hr
 ## Contents
 - [[#Patient Selection]]
   - [[#Procedure Choice by Anatomy]]
+  - [[#TIF — Relative Contraindications]]
 - [[#Mandatory Preoperative Workup]]
+  - [[#TIF-Specific Workup]]
 - [[#Surgery vs Medical Management]]
 - [[#Technique Decisions]]
 - [[#Endoscopic Alternatives]]
+  - [[#TIF 2.0 — Technical Safety Points]]
+  - [[#Post-TIF Care]]
 - [[#Outcomes and Adverse Effects]]
 - [[#Postoperative Evaluation]]
 
@@ -44,6 +48,24 @@ The hiatal hernia size + Hill grade pair is the operative decision point ([[asge
 
 - Hill grade I–IV criteria are **not reproduced here** — see [[reflux-testing]] (their home page).
 - TIF 2.0 candidates must also meet **≥1** of: chronic GERD ≥6 months, long-term [[proton-pump-inhibitors|PPI]] use ≥6 months, refractory GERD, regurgitation-predominant GERD, or patient preference to avoid long-term PPI ([[asge-2024-gerd]]).
+- **Measure the hernia in two dimensions** — axial length **and** greatest transverse diameter of the diaphragmatic hiatus; either one >2 cm pushes to cTIF/LARS ([[afs-2023-transoral-incisionless-fundoplication]]).
+- **Sizing caution:** hernia size at laparoscopic repair is **often larger than it appeared endoscopically** — apply extra caution even when it measures <2 cm on [[upper-endoscopy|EGD]] ([[afs-2023-transoral-incisionless-fundoplication]]).
+- The **AFS endoscopic EGJ classification** (axial length **L**, hiatal aperture diameter **D**, flap valve present/absent **F**) is **not yet a selection criterion** — the society states it requires validation in independent studies first.
+
+### TIF — Relative Contraindications
+
+Conditions of specific or relative contraindication to TIF with the EsophyX device ([[afs-2023-transoral-incisionless-fundoplication]]):
+
+| Category | Contraindication |
+|---|---|
+| **Anatomic — hiatus** | [[hiatal-hernia\|Hiatal hernia]] >2 cm; paraesophageal hernia |
+| **Anatomic — esophagus** | Diverticula; stenosis; strictures; obstruction; varices; any anatomy that will not permit device insertion |
+| **Mucosal** | Severe esophagitis (**LA grade C and D**); esophageal infection or fungal disease |
+| **Positioning / access** | Limited neck mobility; osteophytes of the spine |
+| **Other** | Bleeding disorders; **BMI ≥35** |
+
+- **BMI nuance:** ≥35 appears in the relative-contraindication table, but the same document's conclusions state patients with BMI >35 **may still be candidates**, though they "may be better served overall with bariatric surgery." Treat as a **relative** exclusion with a bariatric-referral preference, not an absolute bar.
+- **Barrett's:** TIF efficacy in the setting of endoscopic eradication of [[barretts-esophagus|Barrett's]] is **not yet defined** — very limited data, trial ongoing.
 
 ---
 
@@ -52,6 +74,23 @@ The hiatal hernia size + Hill grade pair is the operative decision point ([[asge
 - **HRM before any antireflux surgical procedure** — Strong ([[acg-2021-gerd]]); ~3% of patients referred for ARS with GERD-like symptoms have [[achalasia|achalasia spectrum disorders]] ([[padova-2025-hrm-antireflux]]).
 - Wrapping an achalasic esophagus → pseudoachalasia and severe [[dysphagia]].
 - The full pre-ARS motor-disorder decision framework (achalasia = contraindicated; [[esophagogastric-junction-outflow-obstruction|EGJOO]] = treat first; [[hypercontractile-esophagus|jackhammer]], [[distal-esophageal-spasm|DES]], [[ineffective-esophageal-motility|IEM]] handling) lives on [[hrm-antireflux-surgery]] — not duplicated here.
+
+### TIF-Specific Workup
+
+**No guideline defines a pre-TIF workup** — [[afs-2023-transoral-incisionless-fundoplication|AFS 2023]] advises following the pre-fundoplication principles above with modifications, then enumerates five items:
+
+| # | Study | What it must establish |
+|---|---|---|
+| 1 | **EGD with biopsies within 1 year** (essential) | Hill grade; hernia axial length **and** greatest hiatal diameter; GERD complications |
+| 2 | **pH monitoring off PPI** ± impedance | Highly recommended in **non-erosive** reflux disease |
+| 3 | **Barium esophagram** | Presence, size, type of hernia; alerts to **short esophagus** |
+| 4 | **HRM — only if dysphagia** | Rule out achalasia / major motility disorder |
+| 5 | **4-hour gastric emptying study** | Case-by-case, when dyspeptic symptoms suggest [[gastroparesis]] |
+
+- **When objective reflux testing can be skipped vs is mandatory:** LA grade **C/D** esophagitis and **long-segment** Barrett's **obviate** pH testing. LA grade **A/B** and **short-segment** Barrett's have high inter-observer variability and **do require** formal testing.
+- **Wireless pH off PPI for 96 h** out-yields 48 h, and both out-yield 24-h catheter-based testing ([[ambulatory-reflux-monitoring]]).
+- **Manometry policy differs from pre-LNF practice** — GERD patients without dysphagia do **not** routinely need [[high-resolution-manometry|HRM]] before TIF. Rationale: TIF is a partial fundoplication built over a 60 Fr device, so **IEM carries less dysphagia risk** than it does before a laparoscopic wrap, where an IEM diagnosis may change the type of fundoplication.
+- **[[flip-panometry|FLIP]] is an acceptable alternative to routine HRM** for pre-TIF achalasia/EGJOO screening, and can be done at the same session as the diagnostic endoscopy.
 
 ---
 
@@ -101,6 +140,42 @@ All conditional recommendations — outcomes are broadly equivalent, so these ar
 - PPI use **94.6% at baseline → 37.5%** at ~9 months; GERD-HRQL improvement **MD 21.87**.
 - Serious adverse events **0.56%**; dysphagia **5.6%**.
 - **No RCTs yet** (NCT04795934 ongoing) — all evidence from cohort studies. May serve as an alternative to surgical antireflux procedures in selected patients.
+- **The real determinant is intra-abdominal esophageal length, not hernia size** ([[afs-2023-transoral-incisionless-fundoplication]]). Dissect as high in the mediastinum as possible to obtain **2–3 cm** of intra-abdominal esophagus. **Hard stop: if adequate intra-abdominal length cannot be obtained, do not perform the TIF** — firing T-fasteners may injure mediastinal structures. Published series span hernias up to **8 cm**; no RCT has defined a size ceiling.
+- **Do not fixate the stomach to the crura** — it impedes the tissue mobility the TIF portion needs. Crural repair per surgeon preference (interrupted sutures more common than running); mesh is discretionary and **unstudied in cTIF**.
+
+### TIF 2.0 — Technical Safety Points
+
+Where the procedure goes wrong, from [[afs-2023-transoral-incisionless-fundoplication|AFS 2023]]:
+
+| Step | Rule | Why |
+|---|---|---|
+| **Insufflation** | **CO₂ only, 15 mmHg** — air is discouraged | — |
+| **Device passage** | Pre-dilate to **57–60 Fr (18–20 mm)** Savary over a wire, or 18–20 mm TTS balloon; advance gently, never with force | Mucosal tear/perforation happens at introduction past the cervical esophagus |
+| **Depth before firing** | Advance **0.5–1.0 cm into the stomach**, to the pre-procedure EGJ measurement, before deploying | Fasteners deployed above this landmark can pass **through the diaphragm** → mediastinitis, abscess, leak |
+| **Fastener positions** | Start posteriorly at **11 o'clock**; ≥3 plications posterior, 3 anterior, then 4, 6, and 8 o'clock | 4/6/8 o'clock is where the diaphragm sits closest to the esophagus |
+| **Fastener count** | First **20 fasteners (10 plications)** is the **minimum** | — |
+| **Re-firing** | **Never place fasteners over prior fasteners** | Esophageal injury, mediastinal infection/abscess, fistula, perforation |
+| **Final valve** | **270°–320°** circumference, **3–4 cm** long | — |
+| **Before withdrawal** | **Immediate post-TIF endoscopy** after removing the device | Detect bleeding or injury |
+
+- **Mediastinal abscess in <2% of cases.** T-fasteners deploy transmurally through esophageal and gastric wall — a bacterial-translocation route, and the reason for pre-procedural antibiotics. Abscess → CT, admit for IV fluids and antibiotics, **immediate surgical consultation**.
+- **Bleeding at helical/fastener sites:** first maneuver is **pressure** — clamp tissue in the mold, tighten, hold several minutes; this resolves most. Then clips, epinephrine injection, or fibrin glue.
+
+### Post-TIF Care
+
+Retching and vomiting can **disrupt the hiatus and the new valve** — hence the aggressive antiemetic protocol ([[afs-2023-transoral-incisionless-fundoplication]]):
+
+| Element | Protocol |
+|---|---|
+| **Disposition** | TIF alone — brief observation, **same-day discharge on clear liquids**. cTIF — NPO, overnight observation for hydration and nausea control |
+| **Antiemetics** | Preop **scopolamine patch**; intraop **ondansetron + dexamethasone**; postop scheduled for the first few days, doubled or tripled if no contraindication (ondansetron 8 mg, droperidol 0.625 mg, aprepitant 80 mg) |
+| **Antibiotics** | Broad-spectrum **within 30 min preop**, covering enteric gram-negatives, anaerobes, and enterococci |
+| **Diet** | Full liquid **2 wk** → pureed **1–2 wk** → soft **1–2 wk** → **regular at week 6** |
+| **PPI** | **Continue 4–6 weeks** — gastric mucosal healing, avoids ulceration/bleeding at fastener sites |
+| **Activity** | **Lifting ≤15 lbs for 8 weeks** — heavy lifting can cause hiatal recurrence |
+| **Adjuncts** | Bowel regimen (e.g. polyethylene glycol) to avoid straining; simethicone for bloating; hyoscyamine for esophageal spasm |
+
+- **Expected, not complications:** sore throat, left shoulder pain, substernal chest pain (full-thickness plication).
 
 **Stretta (radiofrequency energy to the LES)** — Best Practice Advice only; hernia <2 cm, Hill I/II, **when TIF and surgical fundoplication are unavailable or infeasible** ([[asge-2024-gerd]]). **Not recommended by [[acg-2021-gerd|ACG 2021]]** (inconsistent, variable evidence); ASGE 2024 likewise does not recommend it for most patients:
 
@@ -137,7 +212,7 @@ All conditional recommendations — outcomes are broadly equivalent, so these ar
 
 ## See Also
 
-[[gerd]], [[hrm-antireflux-surgery]], [[high-resolution-manometry]], [[reflux-testing]], [[flip-panometry]], [[chicago-classification-v4]], [[achalasia]], [[barretts-esophagus]], [[upper-endoscopy]], [[dysphagia]], [[hypercontractile-esophagus]], [[distal-esophageal-spasm]], [[ineffective-esophageal-motility]], [[ambulatory-reflux-monitoring]]
+[[gerd]], [[hiatal-hernia]], [[hrm-antireflux-surgery]], [[high-resolution-manometry]], [[reflux-testing]], [[flip-panometry]], [[chicago-classification-v4]], [[achalasia]], [[barretts-esophagus]], [[upper-endoscopy]], [[dysphagia]], [[gastroparesis]], [[hypercontractile-esophagus]], [[distal-esophageal-spasm]], [[ineffective-esophageal-motility]], [[ambulatory-reflux-monitoring]]
 
 ---
 
@@ -147,3 +222,4 @@ All conditional recommendations — outcomes are broadly equivalent, so these ar
 2. [[acg-2021-gerd|ACG 2021 Clinical Guideline: Diagnosis and Management of GERD]]
 3. [[asge-2024-gerd|ASGE 2024: Diagnosis and Management of GERD]]
 4. [[padova-2025-hrm-antireflux|Padova Consensus: High-Resolution Manometry Before and After Antireflux Surgery]]
+5. [[afs-2023-transoral-incisionless-fundoplication|American Foregut Society White Paper on Transoral Incisionless Fundoplication (2023)]]

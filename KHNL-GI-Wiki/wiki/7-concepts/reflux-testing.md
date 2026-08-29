@@ -111,7 +111,7 @@ Careful endoscopic evaluation, reporting, and **photo-documentation** of the fol
 | Erosive esophagitis | Los Angeles (LA) grade A–D | Below |
 | [[barretts-esophagus\|Barrett's esophagus]] | Prague C&M | [[barretts-esophagus]] |
 | Peptic stricture | Present / absent | — |
-| Hiatal hernia | Axial length in cm (GEJ to diaphragmatic impression) | — |
+| [[hiatal-hernia\|Hiatal hernia]] | Axial length in cm (GEJ to diaphragmatic impression) | [[hiatal-hernia]] |
 | Flap valve morphology | Hill grade I–IV or American Foregut Society (AFS) grade, in **forward view and retroflexion** | Below (Hill); AFS not in corpus |
 | GEJ landmarks | Top of gastric folds, Z-line, diaphragmatic impression | — |
 | Prior fundoplication | Describe if present | — |

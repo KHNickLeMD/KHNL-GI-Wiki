@@ -3,7 +3,7 @@ title: "Alosetron"
 category: med
 tags: [ibs, ibs-d, 5-ht3-antagonist, serotonin]
 created: 2026-07-26
-updated: 2026-08-08
+updated: 2026-08-29
 sources: [acg-2020-ibs, aga-2022-ibs-d]
 ---
 
@@ -47,6 +47,8 @@ Per [[aga-2022-ibs-d|AGA 2022]]:
 |---|---|
 | Global symptom improvement | RR 0.60 (0.54–0.67) |
 | IBS pain and discomfort | RR 0.83 (0.79–0.88) |
+
+> **Reading the direction:** [[aga-2022-ibs-d|AGA 2022]] states alosetron "was superior to placebo in improving global symptoms" with these risk ratios — i.e. **RR <1 favors alosetron** (the pooled outcome is non-response). Do not read RR 0.60 as reduced improvement.
 
 - Also improved **urgency, stool consistency, and IBS-QOL** (individual studies).
 - Overall certainty in evidence: **moderate** (AGA 2022).

@@ -75,7 +75,7 @@ If UGIB is clinically suspected in a patient presenting with apparent LGIB, perf
 | **[[gastric-adenocarcinoma\|Gastric]] / [[esophageal-cancer\|esophageal]] malignancy** | Weight loss, [[dysphagia]], early satiety; iron-deficiency anemia; mass on imaging |
 | **[[angioectasia\|Angiodysplasia / AVM]]** | Older patients; anticoagulant use; often right-sided gastric or duodenal lesions; vascular ectasia on endoscopy |
 | **Aortoenteric fistula** | History of aortic graft surgery; sentinel bleed followed by massive exsanguination; CT imaging urgently |
-| **Cameron lesions** | Erosions at diaphragmatic hiatal hernia; chronic iron-deficiency more than overt bleeding |
+| **Cameron lesions** | Erosions at the diaphragmatic hiatus in a [[hiatal-hernia\|hiatal hernia]]; chronic iron-deficiency more than overt bleeding |
 | **GAVE (gastric antral vascular ectasia)** | Chronic occult or overt bleeding; "watermelon stomach" pattern; associated with [[portal-hypertension\|portal hypertension]] and autoimmune disease |
 
 ### Variceal / Portal Hypertensive

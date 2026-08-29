@@ -49,7 +49,7 @@ Objective severity is assessed endoscopically and with [[reflux-testing|reflux t
   - LA-C/D: severe esophagitis; LA-D is associated with Barrett's
 - [[barretts-esophagus|Barrett's esophagus]]: describe by Prague C&M classification
 - Peptic stricture
-- Hiatal hernia: measure axial length in cm; classify by Hill grade or AFS grade
+- [[hiatal-hernia|Hiatal hernia]]: measure axial length in cm; classify by Hill grade or AFS grade
 - GEJ landmarks: top of gastric folds, Z-line, diaphragmatic impression (forward view and retroflexion)
 
 **Hiatal hernia classification for therapeutic planning:**
