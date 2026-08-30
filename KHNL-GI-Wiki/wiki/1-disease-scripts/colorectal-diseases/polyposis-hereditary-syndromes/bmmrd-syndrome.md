@@ -3,7 +3,7 @@ title: "Biallelic Mismatch Repair Deficiency (BMMRD) Syndrome"
 category: disease-script
 tags: [bmmrd, cmmrd, mismatch-repair, hereditary-crc, colorectal-cancer, brain-tumor, lymphoma, pediatric-cancer, genetic-testing, mmr, cafe-au-lait, pms2, msh6, mlh1, msh2]
 created: 2026-05-24
-updated: 2026-08-27
+updated: 2026-08-30
 sources: [usmstf-2017-bmmrd]
 ---
 
@@ -71,9 +71,10 @@ Synchronous and metachronous GI cancers are frequent:
 BMMRD is classified by the causative gene (all autosomal recessive):
 
 - **PMS2**: most common BMMRD genotype; low heterozygous penetrance means parents are often undiagnosed LS carriers; 20 pseudogenes complicate molecular testing
-- **MSH6**: second most common in BMMRD; later-onset LS in heterozygous parents
-- **MLH1**: rarer in BMMRD; early and severe phenotype; homozygous MLH1 mutations may be embryonic lethal in some contexts
-- **MSH2**: rarest in BMMRD; potentially embryonic lethal in homozygous state
+- **MSH6**: also over-represented in BMMRD; later-onset LS in heterozygous parents
+- **MLH1** and **MSH2**: biallelic mutations are *under*-represented in BMMRD relative to their dominance in LS
+
+> **Open question, not an established fact** — [[usmstf-2017-bmmrd|USMSTF 2017]] lists the reason for the PMS2/MSH6 skew as unresolved and poses two candidate explanations: biallelic *MSH2* and *MLH1* mutations may be **embryonic lethal**, *or* the population prevalence of low-penetrance PMS2/MSH6 mutations may simply be much higher than appreciated. No ingested source settles it.
 
 ---
 
@@ -162,8 +163,9 @@ All surveillance recommendations are **weak, low to very low quality evidence** 
 
 ### Chemoprevention
 
-- **Aspirin**: LS data (CAPP2 trial) demonstrated >60% CRC incidence reduction with 600 mg/day for ≥2 years; extrapolation to BMMRD is biologically plausible but untested; a controlled prevention trial in BMMRD has been proposed [[usmstf-2017-bmmrd]]
-- No established chemoprevention regimen specific to BMMRD at this time
+- **Aspirin**: [[usmstf-2017-bmmrd|USMSTF 2017]] cites the LS aspirin data — **600 mg/day**, and those who took it **for at least 2 years** had a **>60% reduction in CRC incidence** (median age of treated patients 45; no excess aspirin-related toxicity vs placebo). Whether any benefit carries over to BMMRD is **unknown** — the biology differs — and the guideline proposes a controlled prevention trial rather than recommending aspirin
+  - **Contradiction with [[lynch-syndrome]] (surfaced):** that page reports the same CAPP2 trial from [[acg-2015-hereditary-gi-cancer|ACG 2015]] as **intention-to-treat HR 0.63 (95% CI 0.35–1.13, P=0.12) — not significant for CRC alone**. The ">60%" figure is the ≥2-years-of-aspirin analysis; the HR 0.63 is ITT. Both are faithful to their source; the two guidelines quote different analyses of one trial, and neither recommends routine aspirin
+- **Dose, optimal agent, and starting age in BMMRD are all listed by the guideline as open research questions.** No established chemoprevention regimen specific to BMMRD at this time
 
 ### Immunotherapy Considerations
 

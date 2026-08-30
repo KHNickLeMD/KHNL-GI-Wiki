@@ -3,7 +3,7 @@ title: "Porto-Sinusoidal Vascular Disorder (PSVD)"
 category: disease-script
 tags: [psvd, non-cirrhotic-portal-hypertension, idiopathic-portal-hypertension, nodular-regenerative-hyperplasia, obliterative-portal-venopathy, portal-hypertension, liver-biopsy, varices]
 created: 2026-08-01
-updated: 2026-08-14
+updated: 2026-08-30
 sources: [baveno-vii-2022-portal-hypertension]
 ---
 
@@ -21,9 +21,10 @@ Porto-sinusoidal vascular disorder (PSVD) is a broad clinico-pathological entity
 
 - The **absence of portal hypertension does not rule out PSVD**.
 - Common liver diseases (viral hepatitis, alcohol, metabolic syndrome) and **[[portal-vein-thrombosis|PVT]]** can coexist with PSVD — finding one does not exclude the other.
-- In chronic liver disease with clinical signs of portal hypertension (varices, ascites, collaterals) but **[[hepatic-venous-pressure-gradient|HVPG]] <10 mmHg**, PSVD must be ruled out (statement 1.13).
+- In chronic liver disease with clinical signs of portal hypertension (gastro-oesophageal varices, ascites, portosystemic collateral vessels) but **[[hepatic-venous-pressure-gradient|HVPG]] <10 mmHg**, PSVD **must be ruled out** (statement 1.13, B.1).
+- PSVD can be present with **no clinical, laboratory or imaging feature of portal hypertension at all** (9.17, B.1).
 
-**When to suspect PSVD (statement 9.16):**
+**When to suspect PSVD (statement 9.16, B.1)** — *any one* of the three:
 
 1. Signs of portal hypertension **contrasting with atypical features for cirrhosis** — e.g. HVPG <10 mmHg; [[liver-stiffness-measurement|liver stiffness measurement]] <10 kPa; smooth liver surface with no atrophy of segment IV; hepatic vein-to-vein communications (none is pathognomonic); **or**
 2. Liver-test abnormalities or portal hypertension in a patient with a condition known to be associated with PSVD (immunological, prothrombotic, genetic disorders; drug/toxin exposure); **or**
@@ -53,7 +54,7 @@ PSVD is defined **histologically + clinically**, not by a stage. The diagnostic 
 
 ## Diagnostics
 
-**Diagnostic requirement (statements 9.18–9.19):** an **adequate [[liver-biopsy|liver biopsy]]** (specimen ≥20 mm, minimal fragmentation, or otherwise deemed adequate by an expert pathologist) is **required**. Diagnosis needs **exclusion of cirrhosis and other causes of portal hypertension**, PLUS **one** of the following three criteria:
+**Diagnostic requirement (statements 9.18 C.1 / 9.19 B.1+C.2):** an **adequate [[liver-biopsy|liver biopsy]]** (specimen of adequate size, **>20 mm**, with minimal fragmentation — or otherwise deemed adequate for interpretation by an expert pathologist) is **required**. Diagnosis needs **exclusion of cirrhosis and other causes of portal hypertension**, PLUS **one** of the following three criteria:
 
 1. ≥1 feature **specific** for portal hypertension; **or**
 2. ≥1 histologic lesion **specific** for PSVD; **or**
@@ -64,7 +65,7 @@ PSVD is defined **histologically + clinically**, not by a stage. The diagnostic 
 | | Feature of portal hypertension | Histologic lesion (assessed by expert pathologist) |
 |---|---|---|
 | **Specific** | Gastric, oesophageal, or ectopic varices; portal hypertensive bleeding; portosystemic collaterals on imaging | Obliterative portal venopathy (vessel-wall thickening, lumen occlusion, vanishing portal veins); nodular regenerative hyperplasia; incomplete septal fibrosis (*explant only, not biopsy*) |
-| **Not specific / compatible** | Ascites; platelet count <150,000/mm³; spleen >13 cm (largest axis) | Portal tract abnormalities (multiplication, dilated arteries, periportal/aberrant vessels); architectural disturbance (irregular portal-tract/central-vein distribution); non-zonal sinusoidal dilatation; mild perisinusoidal fibrosis |
+| **Not specific / compatible** | Ascites; platelet count **<150,000/mm³**; spleen size **≥13 cm** in the largest axis | Portal tract abnormalities (multiplication, dilated arteries, periportal/aberrant vessels); architectural disturbance (irregular portal-tract/central-vein distribution); non-zonal sinusoidal dilatation; mild perisinusoidal fibrosis |
 
 **Adjunct workup:**
 
@@ -84,7 +85,7 @@ PSVD is defined **histologically + clinically**, not by a stage. The diagnostic 
 
 **PVT surveillance and treatment:**
 
-- Screen for [[portal-vein-thrombosis|PVT]] — no established best method/interval; **Doppler ultrasound every 6 months** is suggested when features of portal hypertension are present; cross-sectional imaging if abdominal pain, to exclude splanchnic vein thrombosis (9.26).
+- Screen for [[portal-vein-thrombosis|PVT]] — no data on the best method or interval (9.26, D.2); **Doppler ultrasound every 6 months** is suggested when features of portal hypertension are present (C.1); if abdominal pain → Doppler US **or** cross-sectional imaging to rule out splanchnic vein thrombosis (B.1).
 - **No recommendation** for or against anticoagulation to *prevent* PVT in PSVD (9.27).
 - If PVT develops → anticoagulate per **non-cirrhotic PVT** recommendations (9.28).
 

@@ -3,7 +3,7 @@ title: "Pancreatic Cysts"
 category: disease-script
 tags: [pancreatic-cysts, ipmn, mcn, serous-cystadenoma, pseudocyst, spn, pancreas, eus-fna, mrcp, surveillance, pancreatic-cancer]
 created: 2026-05-19
-updated: 2026-08-26
+updated: 2026-08-30
 sources: [acg-2018-pancreatic-cysts, colan-hernandez-2020-eus-fna-panc-cyst-antibiotics, asge-2015-antibiotic-prophylaxis]
 ---
 
@@ -133,18 +133,20 @@ Pancreatic cysts are a heterogeneous group of lesions, most detected incidentall
   - OR for malignancy: 9.3 (95% CI 5.3–16.1) — meta-analysis >1,400 patients
 - Main pancreatic duct diameter >5 mm
   - MPD >6 mm: OR 7.27 (95% CI 3.0–17.4) for high-grade dysplasia/cancer
-- Focal change in MPD caliber with upstream atrophy
-- Size ≥3 cm
-- Increase in cyst size ≥3 mm/year
+- Focal change in MPD caliber with upstream atrophy — equivalently, *focal dilation of the pancreatic duct concerning for main-duct IPMN, or an obstructing lesion* (Rec 11b wording)
+- Size **≥3 cm** (Rec 11b: "mucin-producing cysts measuring ≥3 cm in diameter"; Table 3 prints ">3 cm" — the source is internally inconsistent by 1 mm)
+- Increase in cyst size **>3 mm/year** (Table 3)
 
 *Cytology:*
 
 - High-grade dysplasia or pancreatic cancer
 
-**Intermediate Concern (Rec 10 — Conditional/VLow) — Warrant Short-Interval Surveillance (MRI or EUS±FNA):**
+**Which of these actually triggers referral — the two lists are not the same:** Table 3's "high-risk features" and **Rec 11**'s referral triggers differ in one place. **Rec 11 does *not* include growth rate.** A cyst growing >3 mm/year without any other feature is a **Rec 10** trigger (short-interval imaging), *not* a Rec 11 trigger (EUS±FNA / multidisciplinary referral).
+
+**Intermediate Concern (Rec 10 — Conditional/VLow) — Warrant Short-Interval Surveillance (MRI or EUS±FNA at 6 months):**
 
 - New-onset or worsening diabetes mellitus (~1% of adults >50 with new-onset DM will develop pancreatic cancer within 3 years; ~2/3 of patients with pancreatic cancer have DM)
-- Rapid increase in cyst size >3 mm/year
+- Rapid increase in cyst size **>3 mm/year** (Rec 10 and Table 3 both print `>`; **Figure 2's footnote and the discussion print `≥3 mm/year`** — the surveillance table below follows Figure 2)
 
 ---
 
@@ -272,7 +274,7 @@ Indicated when diagnosis is unclear and results are likely to alter management. 
 
 ### When to Refer to Multidisciplinary Group and Consider Surgery (Rec 11 — Strong/VLow)
 
-Triggered by **any** high-risk feature — the full list with its supporting odds ratios is under [[#Severity Assessment]]; do not re-derive it here.
+Triggered by **any** Rec 11 feature — symptom/sign (a), imaging (b), or cytology (c). The full list with its supporting odds ratios is under [[#Severity Assessment]]; do not re-derive it here. **Growth rate alone is not on the Rec 11 list** — see the note there.
 
 Note: Surgery should be performed at a tertiary referral center by experienced surgeons performing large numbers of pancreatic operations. Mortality for pancreaticoduodenectomy is ~11–15% at low-volume centers vs. ~1–5% at high-volume centers.
 

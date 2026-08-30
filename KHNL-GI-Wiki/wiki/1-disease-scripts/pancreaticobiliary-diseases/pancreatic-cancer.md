@@ -3,7 +3,7 @@ title: "Pancreatic Ductal Adenocarcinoma (Pancreatic Cancer)"
 category: disease-script
 tags: [pancreatic-cancer, pdac, oncology, screening, genetics, brca, eus, hpb]
 created: 2026-06-04
-updated: 2026-08-11
+updated: 2026-08-30
 sources: [asge-2022-pancreatic-cancer-screening, asge-2024-solid-pancreatic-masses, asge-2016-solid-pancreatic-neoplasia, acg-2018-pancreatic-cysts, acg-2015-hereditary-gi-cancer]
 ---
 
@@ -88,7 +88,13 @@ Per [[asge-2022-pancreatic-cancer-screening|ASGE 2022]], BRCA1/2 carriers should
 
 ### High-Risk Surveillance
 
-Full ASGE 2022 framework lives on [[pancreatic-cancer-screening|high-risk pancreatic cancer surveillance]]. In brief: screening is suggested for individuals at increased genetic risk; modality is [[endoscopic-ultrasound|EUS]], MRI/MRCP, or EUS alternating with MRI; interval is **annual**; starting age varies by condition (BRCA1/2, PALB2, FPC, ATM, Lynch → age 50 or 10 years before the youngest affected relative; FAMMM → 40; Peutz-Jeghers → 35; [[hereditary-pancreatitis|hereditary pancreatitis]] → 40).
+Full ASGE 2022 framework — modality choice, imaging technique standards, and what to do with findings — lives on [[pancreatic-cancer-screening|high-risk pancreatic cancer surveillance]]. In brief: screening is suggested for individuals at increased genetic risk; modality is [[endoscopic-ultrasound|EUS]], MRI/[[mri-mrcp|MRCP]], or EUS alternating with MRI; interval is **annual**.
+
+Starting age varies by condition (per-condition table with relative risks on [[pancreatic-cancer-screening]]): BRCA1/2, PALB2, FPC, ATM, and Lynch → **50**; FAMMM → **40**; Peutz-Jeghers → **35**; hereditary pancreatitis → **40**.
+
+- **The qualifier matters:** for every condition *except* hereditary pancreatitis the rule is "that age **or 10 years earlier than the youngest relative with pancreatic cancer**," so the listed age is a ceiling, not a fixed start ([[asge-2022-pancreatic-cancer-screening|ASGE 2022]], Rec 6). Hereditary pancreatitis is given as **age 40 only**, with no such clause.
+- **Combination rule:** for **ATM** and **Lynch**, the affected-relative requirement is part of the indication — the recommendation covers ATM heterozygotes and Lynch patients **who also have a first- or second-degree relative with pancreatic cancer**. Neither is covered on the genotype alone.
+- **FPC:** screening is recommended for **all first-degree relatives** of affected family members.
 
 ## Differential Diagnosis
 
@@ -122,13 +128,12 @@ flowchart TD
 ### Imaging
 
 - **CT (pancreas protocol)** — most widely available; multidetector CT with fast contrast injection and precisely timed acquisition. Stages and assesses resectability by detecting tumor extension, liver metastases, and vascular invasion. **Insensitive for lesions <2 cm.**
-- **MRI / [[mri-mrcp|MRCP]]** — comparable to CT; may be superior for tumor detection and better characterizes small hepatic lesions.
-- **MRI/MRCP for surveillance** — contrast-enhanced, ≥1.5-T magnet with phased-array coils (3-T may better detect small lesions); preferred when avoiding invasive testing or anesthesia risk.
+- **MRI / [[mri-mrcp|MRCP]]** — comparable to CT; may be superior for tumor detection and better characterizes small hepatic lesions. (Magnet strength, contrast, and coil standards live on [[mri-mrcp]]; surveillance-specific modality choice on [[pancreatic-cancer-screening]].)
 - **Percutaneous (CT-guided) biopsy** — sensitivity up to 95%, but **needle-track seeding is reported** and peritoneal carcinomatosis was significantly more common after percutaneous than EUS-guided sampling (16.3% vs 2.2%, *P* < .025) — hence EUS is preferred for tissue.
 
 ### EUS Tissue Acquisition
 
-[[endoscopic-ultrasound|EUS]] is the most sensitive modality for small solid lesions (in surveillance, almost all solid cancers were detected only by EUS, not MRI); a **linear-array** echoendoscope outperforms a radial one for detecting pancreatic lesions (82% vs 67%). ASGE 2024 recommendations for EUS-guided tissue acquisition (EUS-TA):
+[[endoscopic-ultrasound|EUS]] is the most sensitive modality for small solid lesions; the linear-vs-radial detection data and the surveillance-modality comparison live on [[pancreatic-cancer-screening]]. ASGE 2024 recommendations for EUS-guided tissue acquisition (EUS-TA):
 
 | Recommendation | Strength / evidence |
 |---|---|
@@ -164,11 +169,11 @@ flowchart TD
 | Pancreatic mass with **unconfirmed** malignancy | **Against uncovered SEMS** (strong/low) |
 | Simultaneous EUS-TA + high suspicion of malignancy | Covered SEMS |
 | No simultaneous EUS-TA | ERCP with tissue acquisition + plastic stent |
-| Liver metastases or expected survival **<3 mo** | Plastic |
+| **Pancreatic head** cancer with liver metastasis, or expected survival **<3 mo** | Plastic |
 | Surgical resection planned **within 3 mo** | Plastic |
 
-- Technique: consider biliary sphincterotomy before stent insertion in a native papilla; use a **10-mm** fully or partially covered SEMS; shortest length that bridges the stricture while remaining **2 cm below the hepatic hilum**; with the gallbladder in situ, terminate the proximal end **below the cystic duct take-off**.
-- **Avoid preoperative [[ercp|ERCP]]** for resectable PDAC with obstructive jaundice in the absence of cholangitis unless operative resection will be substantially delayed — preoperative biliary drainage increases perioperative complications ([[asge-2016-solid-pancreatic-neoplasia]]).
+- Technique: consider biliary sphincterotomy before stent insertion in a native papilla; use a **10-mm** fully or partially covered SEMS; select the **shortest stent length that bridges the stricture by 10 mm and still ends 2 cm below the hepatic hilum**; with the gallbladder in situ, terminate the proximal end **below the cystic duct take-off**.
+- **Avoid preoperative ERCP** for resectable PDAC with obstructive jaundice in the absence of cholangitis unless operative resection will be substantially delayed — preoperative biliary drainage increases perioperative complications ([[asge-2016-solid-pancreatic-neoplasia]]).
 
 **Pain — celiac plexus neurolysis (CPN).** In unresectable pancreatic cancer with abdominal pain, ASGE 2024 suggests CPN as an **adjunct to** medical analgesic therapy (conditional/low):
 

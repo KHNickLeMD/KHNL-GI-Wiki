@@ -52,10 +52,7 @@ Objective severity is assessed endoscopically and with [[reflux-testing|reflux t
 - [[hiatal-hernia|Hiatal hernia]]: measure axial length in cm; classify by Hill grade or AFS grade
 - GEJ landmarks: top of gastric folds, Z-line, diaphragmatic impression (forward view and retroflexion)
 
-**Hiatal hernia classification for therapeutic planning:**
-
-- Small hiatal hernia: ≤2 cm; Hill grade I or II — eligible for TIF 2.0
-- Large hiatal hernia: >2 cm; Hill grade III or IV — requires cTIF or surgical approach
+**Hiatal hernia size + Hill grade is the operative decision point** — the procedure-selection table is under [[#Step 3: Endoscopic Anti-Reflux Therapies]] (not repeated here); sizing in two dimensions and the rest of the hernia workup are on [[hiatal-hernia]].
 
 **Reflux testing** (for objective confirmation before procedural therapy):
 

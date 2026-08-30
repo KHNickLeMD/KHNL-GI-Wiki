@@ -3,7 +3,7 @@ title: "Cholangiocarcinoma"
 category: disease-script
 tags: [cholangiocarcinoma, biliary-stricture, hepatobiliary, ercp, eus, cholangioscopy, liver-transplantation]
 created: 2026-06-01
-updated: 2026-08-13
+updated: 2026-08-30
 sources: [nccn-2026-biliary-tract-cancers, asge-2023-indeterminate-biliary-strictures, asge-2021-malignant-hilar-obstruction]
 ---
 
@@ -71,7 +71,17 @@ Reproduced in [[nccn-2026-biliary-tract-cancers]]. Each site has its own T defin
 | T3 | Tumor perforating the visceral peritoneum |
 | T4 | Tumor involving local extrahepatic structures by direct invasion |
 
-N0/N1 = absent/present regional nodal metastasis. Stage IIIB = T4 N0 M0 **or** any T N1 M0; Stage IV = any M1.
+N0/N1 = absent/present regional nodal metastasis (iCCA has **no N2 category**).
+
+| Stage | T | N | M |
+|---|---|---|---|
+| 0 | Tis | N0 | M0 |
+| IA | T1a | N0 | M0 |
+| IB | T1b | N0 | M0 |
+| II | T2 | N0 | M0 |
+| IIIA | T3 | N0 | M0 |
+| IIIB | T4 N0 M0 **or** any T N1 M0 | | |
+| IV | Any T | Any N | M1 |
 
 **Perihilar bile duct**
 
@@ -89,7 +99,16 @@ N0/N1 = absent/present regional nodal metastasis. Stage IIIB = T4 N0 M0 **or** a
 | N1 | **1–3** positive nodes (hilar, cystic duct, common bile duct, hepatic artery, posterior pancreatoduodenal, portal vein) |
 | N2 | **≥4** positive nodes from those sites |
 
-Stage IIIB = T4 N0 M0; IIIC = any T N1 M0; IVA = any T N2 M0; IVB = M1.
+| Stage | T | N | M |
+|---|---|---|---|
+| 0 | Tis | N0 | M0 |
+| I | T1 | N0 | M0 |
+| II | T2a–b | N0 | M0 |
+| IIIA | T3 | N0 | M0 |
+| IIIB | T4 | N0 | M0 |
+| IIIC | Any T | N1 | M0 |
+| IVA | Any T | N2 | M0 |
+| IVB | Any T | Any N | M1 |
 
 **Distal bile duct** — staged by **depth of invasion into the duct wall**:
 
@@ -100,7 +119,19 @@ Stage IIIB = T4 N0 M0; IIIC = any T N1 M0; IVA = any T N2 M0; IVB = M1.
 | T3 | Depth **>12 mm** |
 | T4 | Involves the **celiac axis, superior mesenteric artery, and/or common hepatic artery** |
 
-N1 = 1–3 nodes; N2 = ≥4 nodes. Stage IIIB = T4 with any N, M0; Stage IV = M1.
+N1 = 1–3 nodes; N2 = ≥4 nodes.
+
+| Stage | T | N | M |
+|---|---|---|---|
+| 0 | Tis | N0 | M0 |
+| I | T1 | N0 | M0 |
+| IIA | T1 N1 M0 **or** T2 N0 M0 | | |
+| IIB | T2 N1 M0 **or** T3 N0 M0 **or** T3 N1 M0 | | |
+| IIIA | T1–T3 | N2 | M0 |
+| IIIB | T4 | Any N | M0 |
+| IV | Any T | Any N | M1 |
+
+*Note the site difference: **nodal burden drives stage differently by site** — for **distal** CCA any N2 is Stage IIIA (not IV), while for **perihilar** CCA any N2 is Stage IVA. iCCA has no N2 category at all, so a single positive node makes it Stage IIIB.*
 
 Histologic grade (all sites): G1 well / G2 moderately / G3 poorly differentiated.
 
@@ -164,7 +195,8 @@ flowchart TD
 
 ### Liver Transplantation
 
-- **Perihilar CCA:** patients with **unresectable** perihilar/hilar CCA measuring **≤3 cm in radial diameter**, with **no intrahepatic or extrahepatic metastases** and **no nodal disease** — and likewise patients with [[primary-sclerosing-cholangitis|PSC]] — may be considered for transplantation **at a center with a UNOS-approved CCA transplant protocol** (neoadjuvant protocol). All three conditions must hold together; any one failing removes the pathway.
+- **Perihilar CCA:** patients with **unresectable** perihilar/hilar CCA measuring **≤3 cm in radial diameter**, with **no intrahepatic or extrahepatic metastases** and **no nodal disease** — and likewise patients with [[primary-sclerosing-cholangitis|PSC]] — may be considered for transplantation **at a center with a UNOS-approved CCA transplant protocol**. All three tumor conditions must hold together; any one failing removes the pathway. The regimen is **neoadjuvant chemoradiation followed by transplant**, most effective in PSC patients.
+  - NCCN's discussion adds a second gate: transplant is for **highly selected** patients with **either** unresectable disease and otherwise **normal biliary and hepatic function**, **or** underlying **chronic liver disease precluding surgery**.
 - **iCCA (transplant exception points, NCCN v1.2026):** **biopsy-proven** iCCA or mixed [[hepatocellular-carcinoma|HCC]]-iCCA **and** presence of [[cirrhosis|cirrhosis]] **and** unresectable **and** having received locoregional or systemic therapy **and** **6 months** from diagnosis or last treatment **with no new lesions and no extrahepatic disease**. Consider hepatology referral.
 
 ### Adjuvant Therapy

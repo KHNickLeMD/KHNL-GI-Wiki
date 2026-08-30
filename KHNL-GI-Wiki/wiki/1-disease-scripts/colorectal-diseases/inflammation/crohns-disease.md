@@ -48,11 +48,13 @@ No single pathognomonic test. Diagnosis = integration of:
 
 ### Severity Assessment
 
+*Definitions per [[acg-2025-crohns|ACG 2025]]:*
+
 | Severity | Clinical features |
 |---|---|
-| Mild | No systemic toxicity; tolerate oral intake; CRP/FC normal to mildly elevated; scattered aphthous erosions |
-| Moderate-severe | Fever, significant weight loss, abdominal pain/tenderness, nausea/vomiting; ↑CRP/FC/albumin; deep ulcers, strictures, perianal/penetrating disease |
-| Fulminant | Refractory to corticosteroids/biologics; high fever, obstruction, peritoneal signs, cachexia; abscess |
+| Mild | No systemic toxicity (no fever, unintentional weight loss, or inability to tolerate oral intake); CRP/FC normal to slightly elevated; limited anatomic involvement — scattered aphthous erosions or few superficial ulcers; **no severe endoscopic lesions, strictures, fistulizing or perianal disease**. Lower risk of progression/surgery |
+| Moderate-severe | **Failed treatment for mild–moderate disease**, *or* more prominent symptoms — fever, significant weight loss, abdominal pain/tenderness, intermittent nausea/vomiting. Biomarkers (CRP, **albumin**, FC) more likely **abnormal** (albumin low, not high); anemia and vitamin/mineral deficiencies may be present. Greater endoscopic burden: larger/deeper ulcers, strictures, extensive disease, and/or stricturing, penetrating or perianal disease |
+| Severe / fulminant | Persistent symptoms **despite conventional corticosteroids and/or advanced therapies**, *or* high fevers, intestinal obstruction, peritoneal signs (involuntary guarding/rebound), cachexia, or abscess — **usually requiring hospitalization**; endoscopic or radiographic evidence of severe mucosal disease |
 
 **High-risk features for disease progression:**
 
@@ -292,6 +294,20 @@ No single pathognomonic test. Diagnosis = integration of:
 ---
 
 ### Perianal Fistulizing CD
+
+**Simple vs complex — the classification that drives the pathway** ([[acg-2025-crohns|ACG 2025]]):
+
+| | Definition |
+|---|---|
+| **Simple** | **Distal to the dentate line**, primarily in the anal sphincter region, **single tract** |
+| **Complex** | **Trans-, supra-, or intersphincteric** location; may have **multiple tracts**; or involving the anal sphincter or vagina, or accompanied by an abscess |
+
+- **Asymptomatic simple** perianal fistulas may need **no medical or surgical treatment**.
+- Any fistula **with an abscess**, and any **complex** fistula, must be **drained** — seton is the usual method — **before** immunosuppression. (Smaller abscesses may not require surgical drainage.)
+- Symptomatic or complex fistula → **surgical consult for EUA** before advanced therapy.
+- **Simple fistula, no active rectal mucosal involvement** → may respond to **fistulotomy or mucosal advancement flap**. **With** rectal mucosal involvement → **seton rather than fistulotomy**, plus concomitant advanced therapy.
+- **Refractory disease:** proximal diversion (long-term success very low), then proctectomy/total proctocolectomy with permanent stoma in the most severe scenarios; advancement flaps improve long-term healing when combined with anti-TNF.
+- **Internal fistulas** (rectovaginal, enterovesical/colovesical, enteroenteric) — limited trial data; **infliximab ± an immunomodulator** is the usual initial approach before surgery (ACCENT II included rectovaginal fistulae).
 
 **Step 1: Examination under anesthesia** — classify fistula, drain abscess, place seton
 **Step 2: Biologic therapy** (do NOT start before drainage)

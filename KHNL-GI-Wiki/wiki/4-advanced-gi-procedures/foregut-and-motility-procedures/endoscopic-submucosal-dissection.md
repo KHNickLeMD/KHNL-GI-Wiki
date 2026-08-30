@@ -35,9 +35,10 @@ All recommendations are *conditional*, low quality (GRADE "suggest"). Thresholds
 |---|---|---|---|
 | **Esophageal SCC (ESCC)**, nonulcerated | >15 mm | ≤15 mm | **Against surgery** when endoscopic resection feasible |
 | **[[esophageal-adenocarcinoma\|Esophageal adenocarcinoma (EAC)]]**, nonulcerated | >20 mm | ≤20 mm | (no comparative ESD-vs-surgery evidence) |
-| **Gastric adenocarcinoma (GAC)**, intestinal type | 20–30 mm — **with *or without* ulceration** | <20 mm — **nonulcerated only** | **Against surgery** for ≤30 mm; **poorly differentiated (any size) → surgical evaluation** over endoscopy |
+| **Gastric adenocarcinoma (GAC)**, intestinal type | 20–30 mm ⚠ *see ulceration note* | <20 mm — **nonulcerated only** | **Against surgery** for ≤30 mm, **intestinal type** (this row carries *no* ulceration qualifier); **poorly differentiated (any size) → surgical evaluation** over endoscopy |
 
-- The GAC decision turns on **4 factors**: differentiation (well/moderate vs poor), morphology (ulcerated vs nonulcerated), type (intestinal vs diffuse), and size. Ulceration disqualifies a <20 mm lesion from the "either modality" option but does **not** disqualify a 20–30 mm lesion from ESD.
+- The GAC decision turns on **4 factors**: differentiation (well/moderate vs poor), morphology (ulcerated vs nonulcerated), type (intestinal vs diffuse), and size.
+- ⚠ **Unresolved — [[asge-2023-esd|ASGE 2023]] contradicts itself on ulceration in the 20–30 mm GAC row.** The abstract and the summary PICO table both specify "**nonulcerated**, intestinal type… measuring 20 to 30 mm"; the Question 3a recommendation text in the body says "measuring 20 to 30 mm, **with or without ulceration**, intestinal type." The guideline gives no reconciliation. The **conservative reading is *nonulcerated*** — it is the version that appears twice, and the same document states that ulceration "indicates a high likelihood of invasion into the submucosa, and thus ulcerated lesions should not be" resected endoscopically on that basis, and lists "clear ulceration" among the features that should push toward surgical evaluation. Flagged for user triage; do not resolve it from outside the source.
 
 - Lesions exceeding size/depth criteria (e.g. deep submucosal invasion) → **surgical evaluation** over endoscopic approaches.
 - Applies to early [[esophageal-cancer|ESCC/EAC]], early [[gastric-adenocarcinoma|GAC]], and their precursor lesions ([[barretts-esophagus|Barrett's]] dysplasia, gastric [[gastric-intestinal-metaplasia|intestinal metaplasia]]/dysplasia).

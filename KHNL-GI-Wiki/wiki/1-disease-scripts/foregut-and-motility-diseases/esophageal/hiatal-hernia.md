@@ -75,7 +75,7 @@ Diagnosed anatomically, and in practice as part of a [[gerd|GERD]] evaluation �
 | **[[high-resolution-manometry\|HRM]]** | Most sensitive detection (94.3% / 91.5%); mandatory before any antireflux procedure to exclude [[achalasia]] and absent contractility | [[acg-2020-esophageal-physiologic-testing]], [[acg-2021-gerd]] |
 | **[[ambulatory-reflux-monitoring\|pH monitoring off PPI]]** | Objective GERD confirmation — required before procedural therapy unless LA C/D esophagitis or long-segment Barrett's is present | [[afs-2023-transoral-incisionless-fundoplication]] |
 
-- **Cameron lesions** — linear erosions on the gastric folds at the level of the diaphragmatic hiatus in a hiatal hernia; present as chronic **[[iron-deficiency-anemia|iron-deficiency anemia]]** more often than overt bleeding ([[upper-gi-bleeding]]).
+> **Sourcing gap — Cameron lesions.** Erosions at the diaphragmatic hiatus in a hiatal hernia are a recognised cause of occult blood loss and [[iron-deficiency-anemia|iron-deficiency anemia]] (they are listed on [[upper-gi-bleeding]]), but **the term appears in no ingested source** — not in [[asge-2024-gerd]], [[acg-2021-gerd]], [[afs-2023-transoral-incisionless-fundoplication]], [[sages-2021-gerd-surgery]], [[acg-2020-esophageal-physiologic-testing]], nor in the ingested UGIB, small-bowel-bleeding, or iron-deficiency-anemia guidelines. Their appearance, bleeding phenotype, prevalence, and management are therefore **deliberately not asserted here**. Closing this needs a hiatal-hernia guideline or a UGIB/IDA source that covers them.
 
 ---
 

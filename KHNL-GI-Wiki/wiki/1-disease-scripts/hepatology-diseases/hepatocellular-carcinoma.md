@@ -47,31 +47,9 @@ HCC is the most common primary liver cancer (75–86% of all primary liver cance
 
 ### HCC Surveillance
 
-**Target populations for [[hcc-surveillance|HCC surveillance]] (Table 1, [[aasld-2023-hcc]]):**
+**Survey with ultrasound + AFP every 6 months** (GS 10, Level 2, Strong): [[cirrhosis|Child-Pugh A–B cirrhosis]] of any etiology, Child-Pugh C **only if a [[liver-transplantation|transplant]] candidate**, and defined non-cirrhotic [[chronic-hepatitis-b|chronic HBV]] subsets (age/country-of-origin thresholds, family history, PAGE-B ≥10, HDV or HIV co-infection, higher-risk persons after HBsAg loss). **Do not** survey non-cirrhotic [[nafld-masld|MASLD]] or [[hepatitis-c|HCV]] stage-3 fibrosis, Child-Pugh C non-transplant candidates, or patients with life expectancy <1–2 years. [[aasld-2023-hcc]], [[aasld-idsa-2025-chb-treatment]]
 
-| Population | Annual HCC Incidence | Surveillance |
-|---|---|---|
-| **Child-Pugh A–B cirrhosis, any etiology** (HBV, HCV viremic or post-SVR, alcohol-associated, NAFLD/NASH, other) | ≥1.0%/year | US + AFP every 6 months |
-| **Child-Pugh C cirrhosis, transplant candidate** | ≥1.0%/year | US + AFP every 6 months |
-| Child-Pugh C cirrhosis, NOT LT candidate | — | No surveillance |
-| **Non-cirrhotic chronic HBV:** Male from endemic country, age >40 | ≥0.2%/year | US + AFP every 6 months |
-| **Non-cirrhotic chronic HBV:** Female from endemic country, age >50 | ≥0.2%/year | US + AFP every 6 months |
-| **Non-cirrhotic chronic HBV:** Person from Africa (earlier onset — median age 46) | ≥0.2%/year | US + AFP every 6 months |
-| **Non-cirrhotic chronic HBV:** Family history of HCC | ≥0.2%/year | US + AFP every 6 months |
-| **Non-cirrhotic chronic HBV:** PAGE-B score ≥10 | ≥0.2%/year | US + AFP every 6 months |
-| HCV post-SVR with advanced fibrosis (no cirrhosis) | <0.2%/year | Not routinely recommended |
-| Non-cirrhotic NAFLD | <0.2%/year | Not routinely recommended |
-| Life-limiting comorbidities (life expectancy <1–2 years, not LT-remediable) | — | No surveillance |
-
-**Expanded HBV surveillance criteria** (per [[chronic-hepatitis-b]], [[aasld-idsa-2025-chb-treatment]]):
-
-- HBV/HDV co-infection: all adults
-- HBV/HIV co-infection: men ≥18, women ≥40
-- Post-HBsAg loss in high-risk subgroups: continue surveillance per guidelines
-
-**Recommended surveillance test:** Ultrasound + AFP at semiannual (~every 6 months) intervals. This combination achieves sensitivity of **63%** for early-stage HCC vs. **~51% for US alone** ([[aga-2026-hcc-surveillance]]). ⚠ [[aasld-2023-hcc]] gives US-alone sensitivity as **53%** (95% CI 35–70%); the newer 2026 CPU figure is followed here per source priority, and the two overlap within the AASLD confidence interval. AFP cutoff of 20 ng/mL most common threshold. CT or MRI-based surveillance not recommended routinely (Level 5, Weak); may consider MRI in patients with obesity, alcohol/NASH cirrhosis, or CTP B/C where US is suboptimal. [[aasld-2023-hcc]]
-
-Surveillance is associated with improved survival (pooled HR 0.67, 95% CI 0.61–0.72 across 12 cohort studies; Figure 3). Benefits include earlier detection, curative treatment receipt, and improved survival. Surveillance harms (~10% of patients with cirrhosis experience false-positives, most mild).
+→ **Full indication table with every criterion, incidence threshold, and qualifier (endemic-country definition, co-infection rules, test performance, modality caveats, the case-by-case advanced-fibrosis exception, and the benefit/harm data) lives on [[hcc-surveillance]]** — that is the single home for it; it is not repeated here.
 
 ---
 
@@ -147,7 +125,9 @@ Surveillance is associated with improved survival (pooled HR 0.67, 95% CI 0.61�
 5. **AFP ≥20 ng/mL (even without lesion on US)** → Diagnostic contrast-enhanced multiphasic MRI or CT
 6. **Rising AFP on 2 consecutive tests or doubling** → Diagnostic multiphasic MRI or CT
 
-If no lesion found but AFP significantly elevated (≥200 ng/mL) without explanation: alternative CT/MRI modality ± chest/pelvic CT. If still negative, consider PET CT.
+If no lesion found but AFP significantly elevated without explanation: alternative CT/MRI modality ± chest/pelvic CT. If still negative, consider PET CT. *(Figure 5 footnote 4 — no clear threshold is established for "significantly elevated"; **AFP ≥200 ng/mL or ≥400 ng/mL** may be considered significant depending on clinical context.)*
+
+**Choice of recall modality** (Figure 5 footnote 3, [[aasld-2023-hcc]]): **CT/MRI may be preferred** in patients with [[obesity]], [[alcohol-associated-liver-disease|alcohol]]- or NASH-related [[cirrhosis]], or **Child-Pugh class B or C** cirrhosis. This applies to the recall/diagnostic step, **not** to the choice of routine surveillance test — for surveillance, US + AFP remains the recommended modality (see [[hcc-surveillance]]).
 
 ---
 
@@ -159,7 +139,7 @@ If no lesion found but AFP significantly elevated (≥200 ng/mL) without explana
 - **GALAD score** (Gender, Age, AFP-L3%, AFP, DCP): sensitivity 54–72%, specificity 90%; Phase 3 HEDS study validation data available; not yet recommended for routine practice.
 - **Liquid biopsy / ctDNA:** Investigational; insufficient data to recommend for routine clinical use.
 - **AFP alone or liquid biopsy are NOT recommended for HCC diagnosis** (Level 3, Weak Recommendation). [[aasld-2023-hcc]]
-- **Emerging-biomarker caveats ([[aga-2026-hcc-surveillance|AGA 2026]]):** GALAD and other novel blood/radiologic biomarkers are commercially available but evidence is insufficient to replace guideline tests; **multicancer detection (MCD) blood panels should NOT be used** for HCC screening/surveillance. Among **non-cirrhotic chronic HBV**, **PAGE-B and REAL-B** scores stratify future HCC risk (PAGE-B ≥10 = sufficient risk to survey). Full framework: [[hcc-surveillance]].
+- **Biomarkers in the surveillance setting** — which assays may be used to *screen* (and which must not, e.g. multicancer detection panels), plus the PAGE-B/REAL-B risk scores: see [[hcc-surveillance]]. This section covers biomarkers for **diagnosis** only.
 
 ---
 

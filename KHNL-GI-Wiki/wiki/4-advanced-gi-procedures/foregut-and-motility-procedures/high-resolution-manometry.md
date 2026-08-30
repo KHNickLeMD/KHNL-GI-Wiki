@@ -76,16 +76,24 @@ From [[acg-2020-esophageal-physiologic-testing]] (multicenter RCT of 247 patient
 
 ## HRM for Hiatal Hernia Detection
 
-HRM is superior to [[upper-endoscopy|endoscopy]] and barium radiography for detecting sliding [[hiatal-hernia|hiatal hernia]] [[acg-2020-esophageal-physiologic-testing]]:
+HRM has **higher sensitivity** than [[upper-endoscopy|endoscopy]] or barium radiography for sliding [[hiatal-hernia|hiatal hernia]] — but ACG's own conclusion is that the three studies below are **complementary**, not that HRM supersedes the others ([[acg-2020-esophageal-physiologic-testing]]).
 
-| Method | Sensitivity | Specificity | Source |
-|---|---|---|---|
-| HRM (vs. surgical gold standard) | 94.3% | 91.5% | Prospective 100-patient study |
-| Conventional manometry | 28% | 97% | Retrospective 215-patient study |
-| Endoscopy (in morbid [[obesity]]) | ≤40% | ≥94% | |
-| Barium radiography | 77.4% (obese); 44.0% | Variable | |
+⚠ **Every row must be read against its reference standard** — they are not the same, so the numbers are not directly comparable across studies.
 
-Manometric hiatal hernia criteria: LES-CD separation >2 cm. Body position affects detection: higher detection in upright or standing vs. supine positions.
+| Study (n) | Reference standard | Method | Sens | Spec |
+|---|---|---|---|---|
+| Prospective, 100 consecutive | **Surgery** | **HRM** | **94.3%** | **91.5%** |
+| " | " | Endoscopy | 96.2% | 74.5% |
+| " | " | Barium radiography | 69.8% | 97.9% |
+| Prospective, 34 pre-bariatric [[obesity\|obese]] | **Surgery** | HRM | 88.9% | 60.0% |
+| " | " | Barium radiography | **77.4%** | **44.0%** |
+| Retrospective, 215 | **Endoscopy** (not surgery) | Conventional manometry (CM) | 28% | 97% (PPV 82%) |
+| 92 pre-bariatric obese | **Barium radiography** (not surgery) | Endoscopy | ≤40% | ≥94% |
+
+- The CM row is interpreted with caution by ACG itself: it used CM, and endoscopy — its reference standard — has poor sensitivity for hiatal hernia despite high specificity.
+- Retrospective series of 83 laparoscopic-fundoplication patients: preoperative HRM **false-positive 5% vs endoscopy 32%** (P=0.01); false-negative rates similar (48% vs 45%, NS).
+- **Body position affects detection** — higher detection rate upright or standing than supine.
+- ⚠ **Decision gap — no numeric manometric cut-off.** Neither [[acg-2020-esophageal-physiologic-testing|ACG 2020]] nor [[chicago-classification-v4|CC v4.0]] defines a numeric LES–CD separation threshold for calling a hiatal hernia; CC v4.0 states the separation only as a measured distance feeding the **EGJ morphology subtypes** (see [[chicago-classification-v4]]). Do not quote a "> 2 cm" cut-off — the >2 cm in ACG's text is the *surgical* hernia size in one cited cohort, not a manometric criterion.
 
 ---
 

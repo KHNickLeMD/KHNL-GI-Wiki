@@ -3,7 +3,7 @@ title: "Clostridioides difficile Infection"
 category: disease-script
 tags: [cdiff, clostridioides-difficile, colitis, vancomycin, fidaxomicin, fmt, colorectal]
 created: 2026-05-15
-updated: 2026-08-28
+updated: 2026-08-30
 sources: [acg-2021-cdiff, aga-2024-fmt, aga-2026-cdiff-ibd, feuerstadt-2022-ser109-cdiff]
 ---
 
@@ -184,7 +184,7 @@ Higher doses of vancomycin (>125 mg QID) are not recommended for severe CDI — 
 
 - Single weight-based IV infusion during a course of anti-CDI treatment (half-life 19 days)
 - Consider for patients at high risk of recurrence: age ≥65 with ≥1 additional risk factor (second CDI episode within past 6 months, immunocompromised, or severe CDI)
-- NNT = 10 overall; NNT = 6 for age ≥65 with ≥1 prior CDI in past 6 months
+- NNT = 10 overall; NNT = 6 in **each** of two separate subgroups — age ≥65, **and** ≥1 CDI episode within the past 6 months (the guideline reports these as two subgroups, not as a combined stratum). [[acg-2021-cdiff]]
 - Do NOT use in CHF — higher rates of serious adverse events and deaths in phase 3 trials; use with caution in severe cardiovascular disease
 - No benefit over placebo in low-risk patients (age <65 without additional risk factors)
 - **IBD is not itself a qualifying risk factor** — the post hoc IBD subgroup (n=44) only trended toward benefit, so there is insufficient evidence to give bezlotoxumab for IBD **in the absence of the risk factors listed above**. [[acg-2021-cdiff]]
@@ -222,7 +222,7 @@ Higher doses of vancomycin (>125 mg QID) are not recommended for severe CDI — 
 
 **IBD ([[ulcerative-colitis]], [[crohns-disease]]):**
 
-- Test all IBD patients with acute flare + diarrhea (strong recommendation); CDI risk 4.8× higher in IBD; higher recurrence rates (33% vs 24%)
+- Test all IBD patients with acute flare + diarrhea (strong recommendation); CDI risk **4.8-fold** higher in IBD (Manitoba population study); recurrent CDI **32% vs 24%** vs the general population — i.e. IBD patients are **33% more likely** to recur (the 33% is the relative increase, not the event rate). [[acg-2021-cdiff]], corroborated by [[aga-2026-cdiff-ibd]]
 - Use two-step algorithm — colonization is common in IBD; NAAT alone will over-diagnose
 - Vancomycin 125 mg QID × minimum 14 days (longer than standard 10-day course) — reduces readmissions and lengths of stay vs metronidazole; longer courses (21–42 days) reduce recurrence further
 - Do NOT hold immunosuppressive IBD therapy — continue maintenance therapy; if no improvement at 3 days, escalate IBD therapy
@@ -231,11 +231,13 @@ Higher doses of vancomycin (>125 mg QID) are not recommended for severe CDI — 
 
 *Newer dedicated guidance — [[aga-2026-cdiff-ibd|AGA 2026 CPU on CDI in IBD]]:*
 
-- **Initial CDI in IBD → prefer fidaxomicin** (vancomycin if fidaxomicin unavailable/cost-prohibitive); **metronidazole should not be used** (newer same-tier guidance — see Contradiction note below)
+- **Initial CDI in IBD → prefer fidaxomicin** (lower recurrence rates; vancomycin if fidaxomicin unavailable/cost-prohibitive); **metronidazole should not be used** (newer same-tier guidance — see Contradiction note below)
+- **Duration/regimen (AGA 2026, Table 1):** typically **10 days**; consider the **fidaxomicin EXTEND regimen — 200 mg PO BID × 5 days, then 200 mg once every other day on days 7–25**. Alternatives: **prolonged vancomycin 21–42 days** for initial infection, or **vancomycin taper-pulse** for complicated/recurrent cases
 - Use a **multistep toxin-based assay** (NAAT alone over-diagnoses colonization, which is common in IBD)
 - Exclude/treat CDI in patients with an **end ileostomy or [[pouchitis|ileo-anal pouch]]** and worsening diarrhea; retest if diarrhea recurs after successful treatment
 - Strongly consider **hospitalization** for severe colitis/systemic toxicity (>6 BM/day, severe pain, marked leukocytosis, hemodynamic instability, sepsis)
-- **Continue immunosuppressive IBD therapy** during acute CDI (immunomodulators, biologics, small molecules; steroids if needed) — **no drug class has a differential CDI risk**, so choose the best IBD therapy
+- **Continue immunosuppressive IBD therapy** during acute CDI (immunomodulators, biologics, small molecules; steroids may be continued/initiated if concern for concurrent moderate–severe flare, with close monitoring) — **no class or mechanism of action has a differential CDI risk**, so choose the therapy best for the IBD *(Best Practice Advice 6)*
+  - **Exception — fulminant CDI:** consider a **temporary hold of nonessential immunosuppressants** until there is some clinical improvement of the CDI
 - If symptoms persist **48–72 h** after starting CDI treatment → endoscopic evaluation for IBD activity **and exclude CMV**
 - **Loperamide** may be considered when inflammation/infection are improving but diarrhea persists
 - After **≥1 recurrence** → offer microbiome-based therapy: FDA-approved fecal microbiota live-jslm (RBL), fecal microbiota spores live-brpk (VOS), or unapproved FMT

@@ -47,11 +47,15 @@ sources: [aga-2020-gastric-intestinal-metaplasia, acg-2025-gastric-premalignant,
 - **Complete-type (type I):** small intestinal phenotype; lower risk
 - **Incomplete-type (types IIa/IIb/III):** colonic phenotype; ~3-fold increased GC risk vs. complete-type; associated with progression to dysplasia
 
+**Histologic severity — a third axis, graded by proportion of glands involved** ([[acg-2025-gastric-premalignant]]): **mild ≤1/3**, **moderate ≤2/3**, **severe >2/3**, assessed within individual biopsies from **each** compartment (antrum, incisura, corpus). Severity predicts progression **independently of anatomic extent** — do not downgrade moderate-to-severe antrum-limited GIM to low risk.
+
 ### Classification / Typing
 
 | Feature | Lower Risk | Higher Risk |
 |---------|-----------|------------|
 | Extent | Antrum-limited | Involving corpus/extensive |
+| Histologic severity (proportion of glands) | Mild (**≤1/3**) | Moderate (**≤2/3**) or severe (**>2/3**) — counts as high risk **independently of extent** |
+| Focality | Unifocal (**1** biopsy with GIM) | Multifocal (**≥2** biopsies with GIM) |
 | Histologic subtype | Complete (type I) | Incomplete (types IIa/IIb/III) |
 | OLGA/OLGIM stage | 0–I (low); **II is intermediate**, not low | III–IV |
 | Family history | None | First-degree relative with gastric cancer |
@@ -126,16 +130,18 @@ sources: [aga-2020-gastric-intestinal-metaplasia, acg-2025-gastric-premalignant,
 
 **ACG 2025 risk definitions:**
 
-- **High-risk GIM** = incomplete GIM subtype **OR** corpus extension **OR** ≥1 of: family history of GC, foreign-born from a high-GC country, high-risk race/ethnicity (East Asian, Latino, Black, AIAN) → surveillance q3y
-- **Low-risk GIM** = complete subtype only, limited to antrum, and none of the above high-risk criteria → no surveillance
+- **High-risk GIM** = incomplete GIM subtype **OR** corpus extension **OR** **moderate-to-severe histologic severity** **OR** ≥1 of: family history of GC, foreign-born from a high-GC country, high-risk race/ethnicity (East Asian, Latino, Black, AIAN) → surveillance q3y
+  - **Severity is a *separate* axis from extent and has its own cutoff:** severity = the proportion of glands with GIM in individual biopsies from each compartment — **≤1/3 mild, ≤2/3 moderate, >2/3 severe**. It raises risk **independently of anatomic extent**, so **moderate-to-severe GIM confined to the antrum is still high-risk** [[acg-2025-gastric-premalignant]]
+  - **Focality:** unifocal = GIM in **1** biopsy specimen; multifocal = GIM in **≥2** — unifocal carries lower risk. Both depend on adequate Sydney-protocol sampling
+- **Low-risk GIM** = complete subtype only, limited to antrum, **mild severity (≤1/3 of glands)**, and none of the above high-risk criteria → no surveillance
 - **Multiple risk factors** (e.g., extensive GIM + family history of GC): consider shortening to **q1–2y**
 - **Against** routine repeat EGD at <12 months for nondysplastic GPMC unless there was a quality/protocol concern on the index exam
 
 **Practical approach (incorporating all guidelines):**
 
 - ALL patients: [[test-and-treat|test and treat]] H. pylori
-- **Low-risk GIM** (limited to antrum, complete-type, no other mucosal risk factor): No routine surveillance; follow up with H. pylori eradication confirmation. Per [[aga-2026-gastric-polyps|AGA 2026]], **family history or ethnicity alone does not move a patient out of this group** — see the contradiction note above
-- **High-risk GIM by mucosal findings** (any of: incomplete-type, extensive/corpus-involving, OLGA/OLGIM III/IV, persistent H. pylori): Shared decision-making for surveillance; if proceeding, EGD every 3 years with Sydney protocol biopsies
+- **Low-risk GIM** (limited to antrum, complete-type, **mild severity**, no other mucosal risk factor): No routine surveillance; follow up with H. pylori eradication confirmation. Per [[aga-2026-gastric-polyps|AGA 2026]], **family history or ethnicity alone does not move a patient out of this group** — see the contradiction note above
+- **High-risk GIM by mucosal findings** (any of: incomplete-type, extensive/corpus-involving, **moderate-to-severe severity even if antrum-limited**, OLGA/OLGIM III/IV, persistent H. pylori): Shared decision-making for surveillance; if proceeding, EGD every 3 years with Sydney protocol biopsies
 - **Mucosal finding *plus* demography** (e.g. mild/focal GIM + family history of GC; extensive GIM + family history): q3y, and consider shortening to **q1–2y** when multiple risk factors stack — the one band where ACG 2025 and AGA 2026 agree
 
 ### 3. Monitoring After H. pylori Eradication
@@ -143,12 +149,9 @@ sources: [aga-2020-gastric-intestinal-metaplasia, acg-2025-gastric-premalignant,
 - Confirm eradication with urea breath test or stool antigen test ≥4 weeks after completing treatment and ≥2 weeks after stopping [[proton-pump-inhibitors|PPIs]]
 - GIM may not regress after eradication but progression risk is reduced; surveillance decisions remain as above
 
-### 4. If Dysplasia Is Found (ACG 2025)
+### 4. If Dysplasia Is Found
 
-- **Dysplasia (IND/LGD/HGD) with visible, delineated margins:** endoscopic resection — [[endoscopic-submucosal-dissection|ESD]] preferred over [[endoscopic-mucosal-resection|EMR]] for en-bloc removal (Conditional/Low)
-- **Dysplasia without a visible lesion:** repeat EGD with HDWLE + IEE by an experienced endoscopist to localize before resection (Conditional/Low). IND/LGD → repeat in 12 months; HGD → repeat within 3 months
-- **Refer to a high-volume center** with expertise in gastric neoplasia for endoscopic resection, especially ESD (Strong/Low)
-- **After complete resection:** endoscopic surveillance with HDWLE + IEE + systematic and targeted biopsies (Strong/Low)
+Dysplasia is the next stage of the Correa cascade, not a GIM finding, so it is managed off this page. **The ACG 2025 dysplasia pathway — resection when margins are visible, the repeat-EGD intervals when they are not (IND/LGD 12 months, HGD 3 months), the referral threshold, and post-resection surveillance — lives with its algorithm figure on [[gastric-premalignant-conditions#Dysplasia Management|gastric premalignant conditions]].**
 
 ### 5. No Proven Chemopreventive Agents
 

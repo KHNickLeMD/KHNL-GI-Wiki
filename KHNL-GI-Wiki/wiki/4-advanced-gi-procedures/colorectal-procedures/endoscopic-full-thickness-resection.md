@@ -3,9 +3,13 @@ title: "Endoscopic Full-Thickness Resection (EFTR)"
 category: advanced-procedure
 tags: [eftr, subepithelial-lesion, resection, ster, ftrd, gist, neuroendocrine-tumor]
 created: 2026-07-23
-updated: 2026-08-14
+updated: 2026-08-30
 sources: [aga-2024-full-thickness-resection, asge-2017-subepithelial-lesions]
 ---
+
+# Endoscopic Full-Thickness Resection (EFTR)
+
+Resection of a [[subepithelial-lesion|subepithelial lesion]] through the full wall thickness — the endoscopic alternative to surgery when [[endoscopic-mucosal-resection|EMR]] or [[endoscopic-submucosal-dissection|ESD]] cannot excise the lesion completely. Colorectal eFTR for *mucosal* lesions (non-lifting adenomas, early T1 CRC) is covered on [[colorectal-esd]].
 
 ## Contents
 - [[#Overview]]
@@ -34,7 +38,8 @@ sources: [aga-2024-full-thickness-resection, asge-2017-subepithelial-lesions]
 
 ## Indications
 
-- Neoplastic SELs (e.g. [[gastrointestinal-stromal-tumor|GIST]], [[gastroenteropancreatic-neuroendocrine-tumors|neuroendocrine tumor]]) where en-bloc/complete excision is the goal.
+- **Layer of origin is the indication.** SELs **arising from or infiltrating the muscularis propria — especially [[gastrointestinal-stromal-tumor|GIST]] — require a full-thickness resection** for reliable and complete removal; lesions confined to mucosa/submucosa do not ([[asge-2017-subepithelial-lesions]]).
+- Neoplastic SELs (e.g. GIST, [[gastroenteropancreatic-neuroendocrine-tumors|neuroendocrine tumor]]) where en-bloc/complete excision is the goal.
 - **Expert-opinion indication (exposed EFTR):** consider when **other methods ([[endoscopic-mucosal-resection|EMR]], [[endoscopic-submucosal-dissection|ESD]], nonexposed EFTR) cannot reliably and completely excise the SEL** due to larger size or difficult location.
 - Also serves a **diagnostic** role when EUS-FNA/FNB is nondiagnostic.
 
@@ -96,6 +101,8 @@ sources: [aga-2024-full-thickness-resection, asge-2017-subepithelial-lesions]
 - Variants: "banding without resection" (autoamputation); "suck, ligate, unroof, biopsy."
 - **FTRD device (Ovesco, Tübingen):** approved for **colon and upper GI**; **23-mm deep cap** with dedicated over-the-scope clip + **integrated cautery snare**; **cap inner diameter 12–13 mm** limits the SEL size that can be drawn in and resected.
 - **Maneuverability:** wide outer cap diameter can make passage through upper GI/colon challenging or prohibitive.
+  - ⚠ **Approved sites changed between sources.** [[asge-2017-subepithelial-lesions|ASGE 2017]] reported the device's **21-mm outer diameter** made per-oral passage difficult and limited its use to **colon lesions**; the newer [[aga-2024-full-thickness-resection|AGA 2024 CPU]] states it is approved for **colon and upper GI** — the 2024 position is what this page follows.
+- **Precursor OTSC technique** (clip over the lesion in esophagus/stomach/duodenum/rectum, then snare above the clip): R0 in **87.5% (7/8)**, but full-thickness resection achieved in only **25%**; mean lesion size **13.4 mm**, no adverse events ([[asge-2017-subepithelial-lesions]]).
 - **Main limitation = lesion size.** Grasp/retrieval hindered by lesion slippage under overlying mucosa, especially **gastric SELs**.
 - Adjunctive **unroofing before FTRD** reported but **not well studied**.
 - Short learning curve; **careful case selection paramount** for complete resection.
@@ -112,6 +119,7 @@ sources: [aga-2024-full-thickness-resection, asge-2017-subepithelial-lesions]
 | | Complete (R0) resection | only **68–76%** |
 | **Exposed EFTR vs surgery** (2 retrospective cohorts) | En-bloc / complete / AE rates | **No difference** vs surgery |
 | | Endoscopic arm | Faster, less blood loss, shorter stay (but lesions more intraluminal/smaller) |
+| **Exposed EFTR, gastric MP-origin SELs** (n = 26, ESD technique + endoclip closure) | Complete resection | **100%**; mean tumor 2.8 cm (range 1.2–4.5 cm); no major adverse events ([[asge-2017-subepithelial-lesions]]) |
 
 - Evidence base overall scarce — mostly small retrospective cohorts/case series; FTRD-for-SEL data thin (mostly extrapolated from colorectal *mucosal*-lesion registries). No head-to-head data among the three EFTR families.
 
@@ -133,8 +141,10 @@ sources: [aga-2024-full-thickness-resection, asge-2017-subepithelial-lesions]
 | Technique | Pros | Cons |
 |---|---|---|
 | **Exposed — EFTR/ESD** | Any size; any wall layer | High likelihood of full-thickness defect (muscularis propria lesions) needing complex closure; peritoneal/mediastinal contamination risk; hypothetical tumor spillage; compromised insufflation |
-| **Nonexposed — STER** | Tunnel gives resection stability; easier tunnel-incision closure; mucosal flap limits extraluminal leak/contamination | Limited to **≤3 cm**; not feasible if overlying mucosa compromised; tunneling not feasible in all locations |
-| **Nonexposed — FTRD / device-assisted** | Any wall layer; short learning curve | Limited to **<15 mm**; device malfunction (clip slippage, inadequate/failed closure); high incomplete-resection rates |
+| **Nonexposed — STER** | Tunnel gives resection stability; easier tunnel-incision closure; mucosal flap limits extraluminal leak/contamination | Size-limited (see [[#Size Limits & Patient Selection]]); not feasible if overlying mucosa compromised; tunneling not feasible in all locations |
+| **Nonexposed — FTRD / device-assisted** | Any wall layer; short learning curve | Size-limited (see [[#Size Limits & Patient Selection]]); device malfunction (clip slippage, inadequate/failed closure); high incomplete-resection rates |
+
+---
 
 ## See Also
 

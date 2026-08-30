@@ -3,7 +3,7 @@ title: "Colorectal Cancer"
 category: disease-script
 tags: [crc, colorectal-cancer, adenocarcinoma, oncology, screening, surveillance, post-resection, metachronous, rectal-cancer]
 created: 2026-05-19
-updated: 2026-08-28
+updated: 2026-08-30
 sources: [acg-2015-hereditary-gi-cancer, usmstf-2015-crc-surveillance, usmstf-2016-fit-screening, acg-2021-crc-screening, nccn-2026-colon-cancer, asge-2013-crc-staging-management, aga-2025-endoscopic-resection-crc]
 ---
 
@@ -109,7 +109,7 @@ sources: [acg-2015-hereditary-gi-cancer, usmstf-2015-crc-surveillance, usmstf-20
 
 *Diagnosis and staging tests are listed under [[#Establishing the Diagnosis]]; molecular testing is covered under [[#Oncologic Management (NCCN 2026)]]. Not repeated here.*
 
-- **Adequate nodal yield is a pathology requirement, not an option** — **≥12 nodes**; if <12 in a stage II (pN0) specimen, the specimen is re-examined for additional nodes ([[#Severity Assessment / Staging]])
+- **Adequate nodal yield is a pathology requirement, not an option** — the ≥12-node rule and its consequence for a pN0 stage II specimen are under [[#Severity Assessment / Staging]]
 - **[[artificial-intelligence-endoscopy|Computer-aided detection]]** and structured optical diagnosis at [[colonoscopy]] bear on detection of the precursor lesion rather than on staging an established cancer
 
 ## Therapeutics
@@ -165,7 +165,7 @@ flowchart TD
 
 - **EUS for rectal staging:** preoperative locoregional [[endoscopic-ultrasound|EUS]] guides therapy. T-staging sensitivity 80–96%, specificity 75–98% (T0–T3); T-accuracy generally higher than other cross-sectional imaging. Nodal staging modest (67% sens, 78% spec) — not significantly better than CT/MRI. EUS-FNA samples suspicious perirectal nodes. Goal: separate T1–2N0 from T3/N1–2 (latter gets chemoradiation).
 - **Malignant polyp — endoscopic vs surgical:**
-  - **Endoscopic** management for pedunculated polyps with cancer confined to submucosa of polyp/stalk **and favorable histology**.
+  - **Endoscopic** management for pedunculated polyps with cancer confined to submucosa of polyp/stalk **and favorable histology** (the favorable-vs-unfavorable criteria — depth of submucosal invasion, margin, grade, budding, lymphovascular invasion — live on [[polypectomy]]).
   - **Surgery** for any malignant polyp with **unfavorable histology**, for sessile/flat neoplasia with submucosal invasion, or for sessile/flat lesions found malignant after **piecemeal** resection (if surgical candidate).
   - Attempt EMR only if complete resection is anticipated (see [[endoscopic-mucosal-resection]]).
   - **Early (T1) CRC, AGA 2025:** suspected T1 CRC should be removed **en bloc** ([[colorectal-esd|ESD]] preferred; [[endoscopic-full-thickness-resection|eFTR]] for select <2 cm with deep SMI). For high-risk T1 CRC surgery is standard, but >80% have no LNM at surgery — individualize against operative morbidity; deep submucosal invasion *as a solitary feature* carries only ~2.6% LNM risk. Detailed criteria, LNM data, and post-resection surveillance: [[polypectomy]].

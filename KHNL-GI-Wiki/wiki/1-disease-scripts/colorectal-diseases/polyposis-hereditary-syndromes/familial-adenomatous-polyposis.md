@@ -132,9 +132,20 @@ Familial adenomatous polyposis (FAP) and its related syndromes — attenuated FA
 | III | 7–8 | Every 6–12 months |
 | IV | 9–12 | Every 3–6 months + Surgical evaluation |
 
-*Scoring: Polyp number (<4=1pt, 5–20=2pt, >20=3pt) + Size (0–4mm=1pt, 5–10mm=2pt, >10mm=3pt) + Histology (Tubular=1pt, Tubulovillous=2pt, Villous=3pt) + Dysplasia (Mild=1pt, Moderate=2pt, Severe=3pt)*
+*Scoring (each of 4 variables scores 1/2/3 points; total 0–12):*
 
-- **Why stage IV drives surgery:** duodenal cancer risk rises to **36% within 10 years** in Spigelman stage IV; and the risk of *reaching* stage IV is **43% by age 60, 50% by age 70**
+| Variable | 1 point | 2 points | 3 points |
+|---|---|---|---|
+| Polyp **number** | <4 | 5–20 | >20 |
+| Polyp **size** | 0–4 mm | 5–10 mm | >10 mm |
+| **Histology** | Tubular | Tubulovillous | Villous |
+| **Dysplasia** — ACG 2015 Table 9 | Mild | Moderate | Severe |
+| **Dysplasia** — *modified* Spigelman, [[asge-2020-fap\|ASGE 2020]] Table 4 | **Low-grade dysplasia** | *not applicable* | **High-grade dysplasia** |
+
+> **What changed:** [[asge-2020-fap|ASGE 2020]] prints a **modified** Spigelman system in which the dysplasia row is re-scored to the current 2-tier dysplasia classification — **LGD = 1 point, HGD = 3 points, no 2-point tier** — replacing ACG 2015's mild/moderate/severe. Since contemporary pathology reports LGD/HGD, use the ASGE mapping (newer source, same tier). Number, size, histology and the stage cut-points (0 = 0; I = 1–4; II = 5–6; III = 7–8; IV = 9–12) are identical in both.
+
+- **Why stage IV drives surgery:** in a 10-year follow-up study the duodenal cancer risk by *initial* Spigelman stage was **stage II 2.3%, stage III 2.4%, stage IV 36%** — the jump is at IV, not a gradient [[asge-2020-fap]]; and the risk of *reaching* stage IV is **43% by age 60 (95% CI 35.7–50%), 50% by age 70 (95% CI 42.9–57.1%)**
+- **The score does not cover the ampulla** — Spigelman "does not take into account ampullary lesions and is not validated for the management of isolated ampullary disease" [[asge-2020-fap]], so a normal-stage duodenum does not exclude ampullary disease; the ampulla is assessed separately (see below)
 - Spigelman IV → surgical evaluation; **pancreas-sparing duodenectomy** preferred if no papilla involvement (less morbid than Whipple; Whipple preferred if cancer suspected)
 
 **[[gastric-polyps|Gastric polyps]]**:

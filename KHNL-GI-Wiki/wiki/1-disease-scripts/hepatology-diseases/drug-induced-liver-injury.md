@@ -3,7 +3,7 @@ title: "Drug-Induced Liver Injury (Idiosyncratic)"
 category: disease-script
 tags: [dili, drug-induced-liver-injury, hepatotoxicity, hds, ici, immune-checkpoint, hpb, liver]
 created: 2026-05-16
-updated: 2026-08-14
+updated: 2026-08-30
 sources: [acg-2021-dili, acg-2017-liver-chemistries, aasld-2022-dili]
 ---
 
@@ -20,11 +20,13 @@ sources: [acg-2021-dili, acg-2017-liver-chemistries, aasld-2022-dili]
 3. Systematic exclusion of competing etiologies based on R-value
 4. Causality assessment (RUCAM score as framework)
 
-**R-value = (ALT/ULN) ÷ (Alk P/ULN):**
+**R-value = (ALT/ULN) ÷ (Alk P/ULN)** — by common convention ([[acg-2021-dili]]):
 
-- R ≥5: **hepatocellular** pattern
-- R ≤2: **cholestatic** pattern
-- R 2–5: **mixed** pattern
+- **R > 5** → **hepatocellular** DILI
+- **R < 2** → **cholestatic** DILI
+- **2 < R < 5** → **mixed** DILI
+
+Caveats stated by the source: the cutoffs of 2 and 5 "serve only as a guideline"; the R-value is taken **at presentation** and **may change as the DILI evolves** (a case can start hepatocellular and evolve, or vice versa); the same drug can present with different laboratory profiles in different patients.
 
 ### Severity Assessment
 
@@ -40,9 +42,9 @@ Corollary: if drug-induced hepatocellular injury causes [[jaundice]], **~1 in 10
 
 | Predictor | Cutoff | c-statistic |
 |---|---|---|
-| [[cirrhosis\|MELD]] score | **≥19** | 0.83 |
-| "nr Hy's law" (modified) | bilirubin **≥2.5 mg/dL** *and* R-value **>5** | 0.73 |
-| Ghabril model — serum **albumin + MELD + Charlson comorbidity index** → 6-month mortality | (nomogram; calculator at gihep.com/calculators/hepatology/dili-cam/) | 0.89 discovery / 0.91 validation |
+| [[cirrhosis\|MELD]] score | cutoff **19** | 0.83 |
+| "nr Hy's law" (modified Hy's law) | bilirubin **≥2.5 mg/dL** **AND** [(ALT/ULN) ÷ (Alk P/ULN)] **>5** — *both* required | 0.73 |
+| Ghabril model — serum **albumin + MELD + Charlson comorbidity index** → 6-month mortality (Rec 4, Conditional / Low) | nomogram; calculator at gihep.com/calculators/hepatology/dili-cam/ | 0.89 discovery (n=306) / 0.91 validation (n=254) |
 
 **Outcome benchmarks** ([[acg-2021-dili]]): outcomes of idiosyncratic DILI are relatively favorable — only ~10% reach the ALF threshold (coagulopathy + encephalopathy) and <20% develop chronic liver injury. Once DILI causes ALF the prognosis is poor: **40% require liver transplant, 42% die**; advanced coma grade and high MELD predict poor outcome. In the US ALF Study Group, 11% of ALF cases were adjudicated as DILI, with 3-week transplant-free survival of only 27%.
 
@@ -52,9 +54,9 @@ Corollary: if drug-induced hepatocellular injury causes [[jaundice]], **~1 in 10
 
 | Injury Pattern | R-value | Key Competing Diagnoses | First-Line Tests |
 |---------------|---------|------------------------|-----------------|
-| Hepatocellular | ≥5 | Acute viral hepatitis A/B/C/E, [[autoimmune-hepatitis\|AIH]], [[wilson-disease\|Wilson disease]], ischemic hepatitis, [[budd-chiari-syndrome\|Budd-Chiari]] | Viral serologies + HCV RNA, ANA/ASMA/IgG, ceruloplasmin, imaging |
-| Cholestatic | ≤2 | Biliary obstruction, [[primary-biliary-cholangitis\|PBC]], [[primary-sclerosing-cholangitis\|PSC]] | Abdominal imaging (US/CT/MRI); limit [[ercp\|ERCP]] to cases where imaging can't exclude stones/stricture/malignancy |
-| Mixed | 2–5 | Both hepatocellular and cholestatic differential | Both workups above |
+| Hepatocellular | >5 | Acute viral hepatitis A/B/C/E, [[autoimmune-hepatitis\|AIH]], [[wilson-disease\|Wilson disease]], ischemic hepatitis, [[budd-chiari-syndrome\|Budd-Chiari]] | Viral serologies + HCV RNA, ANA/ASMA/IgG, ceruloplasmin, imaging |
+| Cholestatic | <2 | Biliary obstruction, [[primary-biliary-cholangitis\|PBC]], [[primary-sclerosing-cholangitis\|PSC]] | Abdominal imaging (US/CT/MRI); limit [[ercp\|ERCP]] to cases where imaging can't exclude stones/stricture/malignancy |
+| Mixed | 2–5 (2 < R < 5) | Both hepatocellular and cholestatic differential | Both workups above |
 
 ---
 
@@ -100,21 +102,30 @@ Corollary: if drug-induced hepatocellular injury causes [[jaundice]], **~1 in 10
 
 ### Causality Assessment — RUCAM
 
-Roussel Uclaf Causality Assessment Method — scoring system (−10 to +14):
+Roussel Uclaf Causality Assessment Method — **point sum**, not an "any one of" checklist. Updated RUCAM score range **−9 to +14** ([[aasld-2022-dili]], Table 5):
 
-- ≤0: excluded; 1–2: unlikely; 3–5: possible; 6–8: probable; ≥9: highly probable
-- Scores timing of drug start/stop relative to liver enzyme onset and recovery, risk factors, competing diagnoses, prior reports, rechallenge
-- **Suboptimal reliability (reliability coefficient 0.51)** — use as framework to organize history, not as standalone diagnostic tool
-- Expert consensus opinion is gold standard but not feasible outside DILIN centers
+| RUCAM total | DILI likelihood |
+|---|---|
+| **≥9** | Definite |
+| **6–8** | Probable |
+| **3–5** | Possible |
+| **1–2** | Unlikely |
+| **≤0** | Excluded |
+
+- Scored domains: time to onset, course after stopping, risk factors, concomitant medication, exclusion of competing causes, track record of the drug/HDS for hepatotoxicity, response to rechallenge
+- **Suboptimal retest reliability (reliability coefficient 0.51, upper 95% CL 0.76)** — should **not** be used as a sole diagnostic tool; use as a framework to organize history and exclude competing etiologies ([[acg-2021-dili]] KC 1)
+- Consensus **expert opinion** after thorough evaluation is the current gold standard but is not widely available, so it cannot be recommended for clinical practice ([[acg-2021-dili]] KC 2); seek expert consultation if uncertainty persists (KC 3)
 
 ### Liver Biopsy Indications (Conditional unless specified)
 
-- AIH remains on differential + immunosuppression being considered: **Strong/Low**
-- Unrelenting rise in liver biochemistries despite stopping agent: Conditional/Low
-- ALT not fallen >50% at 30–60 days (hepatocellular): Conditional/Low
-- Alk P not fallen >50% at 180 days (cholestatic): Conditional/Low
-- Continued use or rechallenge with implicated agent contemplated: Conditional/Low
-- Biochemistries persist >180 days (evaluate for chronic DILI): Conditional/Low
+All thresholds below are judged **despite having stopped the suspected offending agent** ([[acg-2021-dili]] Rec 3a–e):
+
+- [[autoimmune-hepatitis|AIH]] remains a competing etiology **and** immunosuppressive therapy is contemplated (both conditions): **Strong / Low** (3a)
+- Unrelenting rise in liver biochemistries **or** signs of worsening liver function: Conditional / **Very low** (3b)
+- **Peak ALT** has not fallen by **>50% at 30–60 days after onset** (hepatocellular DILI): Conditional / **Very low** (3c)
+- **Peak Alk P** has not fallen by **>50% at 180 days** (cholestatic DILI): Conditional / **Very low** (3c)
+- Continued use or re-exposure to the implicated agent is contemplated: Conditional / **Very low** (3d)
+- Liver biochemistry abnormalities persist **beyond 180 days**, especially with symptoms (itching) or signs ([[jaundice]], hepatomegaly) — evaluate for chronic liver disease and chronic DILI: Conditional / **Very low** (3e)
 
 ---
 
@@ -128,9 +139,10 @@ Roussel Uclaf Causality Assessment Method — scoring system (−10 to +14):
 
 ### Treatment of DILI-Associated ALF
 
-- **N-acetylcysteine (NAC)** for early ALF (coma grade I–II): Conditional/Low
-  - DILI-ALF RCT: transplant-free survival 58% (NAC) vs 27% (placebo) in early coma grade patients
-  - **Against NAC for children with severe DILI-ALF**: Conditional/Low
+- **N-acetylcysteine (NAC)** — consider in **adults with early-stage ALF** (Rec 7, Conditional / Low), on the basis of good safety profile and some efficacy evidence in early coma-stage patients
+  - Non-APAP ALF RCT: overall survival endpoint **not met**; in the **early coma grade (I–II)** subgroup transplant-free survival was **52% NAC vs 30% placebo**
+  - Within that trial's **DILI subgroup (n=42)**: transplant-free survival **58% NAC vs 27% no NAC**
+  - **Against NAC for children with severe DILI-ALF** (Rec 8, Conditional / Low) — IV NAC in children with non-APAP ALF showed a *lower* 1-year survival
   - NAC has good safety profile; reasonable to use given evidence in early-stage ALF
 - **[[liver-transplantation|Liver transplant]] evaluation**: Strong recommendation — for DILI-induced [[acute-liver-failure|ALF]] or severe cholestatic injury from HDS, promptly refer
 
@@ -148,10 +160,7 @@ Roussel Uclaf Causality Assessment Method — scoring system (−10 to +14):
 
 ### ICI Hepatotoxicity Management
 
-- Withhold/delay ICI for moderate-severe hepatotoxicity
-- Corticosteroids (prednisone 0.5–1 mg/kg or methylprednisolone IV for severe)
-- Mycophenolate mofetil for steroid-refractory ICI hepatotoxicity
-- Screen [[chronic-hepatitis-b|HBV]]/HCV before ICI initiation; prophylaxis for reactive serology
+CTCAE grade criteria (ALT / bilirubin cutoffs) and the grade-directed hold/steroid/MMF algorithm live on **[[immune-checkpoint-inhibitor-hepatitis]]** — do not duplicate here. Note [[acg-2021-dili]] explicitly places ICI treatment algorithms **beyond its scope**; the algorithm is from [[aasld-2022-dili]].
 
 ### DILI in Chronic Liver Disease (CLD)
 
@@ -174,8 +183,9 @@ Roussel Uclaf Causality Assessment Method — scoring system (−10 to +14):
 ### Methotrexate — monitoring thresholds ([[aasld-2022-dili]])
 
 - Risk factors for accelerated methotrexate liver injury: **active alcohol use, pre-existing liver disease, diabetes, hyperlipidemia, [[obesity]]**.
-- **Cumulative dose ≥3.5–4.0 g** → transient elastography and/or [[liver-biopsy|liver biopsy]] recommended for **all** methotrexate recipients.
-- Laboratory monitoring baseline then **every 3–6 months** (2020 dermatology/psoriasis guidance); ACR 2008 rheumatoid arthritis schedule was baseline → every 2–4 weeks for the first 3 months → every 8–12 weeks for 3–6 months → every 12 weeks thereafter.
+- **After 3.5–4.0 g cumulative dose exposure** → transient elastography and/or [[liver-biopsy|liver biopsy]] recommended for **all** methotrexate recipients.
+- Laboratory monitoring baseline then **every 3–6 months** (2020 dermatology/psoriasis guidance); that guidance also advises **FIB-4 and transient elastography at baseline and annually** in patients with hepatotoxicity risk factors. ACR 2008 rheumatoid arthritis schedule was baseline → every 2–4 weeks for the first 3 months → every 8–12 weeks for 3–6 months → every 12 weeks thereafter.
+- **AASLD guidance statement 57:** **annual liver elastography** is recommended to monitor hepatotoxicity of drugs like methotrexate that cause *silent fibrosis* — explicitly **not** generalizable to most other DILI-causing drugs.
 - 2021 ACR guidance restricts methotrexate in suspected [[nafld-masld|NAFLD]] to those with **normal liver tests and no advanced fibrosis (stage 3–4)** on noninvasive testing.
 - Liver biopsy otherwise reserved for abnormal elastography or persistent liver test elevations.
 - ⚠ **Decision gap:** [[acg-2021-dili]] names the **Roenigk Classification System** as the recognized histologic grading system for methotrexate-induced fibrosis/fatty change, but **neither ingested source gives the Roenigk grade criteria.** The original Roenigk paper would be needed.
@@ -183,7 +193,7 @@ Roussel Uclaf Causality Assessment Method — scoring system (−10 to +14):
 ### Isoniazid — monitoring ([[aasld-2022-dili]])
 
 - Baseline liver assessment has **not** been shown superior to assessing for clinical symptoms of hepatitis at detecting toxicity.
-- **Monthly** liver test monitoring is reserved for: baseline liver test abnormalities, viral hepatitis, heavy alcohol use, other hepatotoxic medications, underlying liver disease, or HIV.
+- **Monthly** liver test monitoring is generally reserved for: baseline liver test abnormalities, viral hepatitis, heavy alcohol use, use of other hepatotoxic medications, underlying liver disease, HIV infection, or **current/recently pregnant women**. Periodic liver tests can also be performed in those **older than 35 years**. (Specific details are left to local/state TB programs.)
 - Isoniazid remains a leading cause of DILI-related [[acute-liver-failure|ALF]]; latent TB treatment has shifted from 6–9 months of isoniazid monotherapy to 3–4-month combination regimens with lower hepatotoxicity risk.
 
 ---

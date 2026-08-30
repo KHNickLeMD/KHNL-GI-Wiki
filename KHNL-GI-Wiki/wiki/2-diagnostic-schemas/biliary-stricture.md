@@ -26,6 +26,10 @@ A **biliary stricture** is an abnormal narrowing of the ductal drainage system o
 
 The two principal management goals are: **(1) diagnosis** — confirm or exclude malignancy; and **(2) drainage** — restore bile flow to the duodenum.
 
+**Indeterminate biliary stricture — definition** ([[acg-2023-biliary-strictures]]): a stricture **for which a diagnosis has not been established despite initial [[ercp|ERCP]] with intraductal sampling**. It is a stage in the pathway, not an etiology, and is what triggers the additional-modality workup below.
+
+**Stent/drainage shorthand used on this page:** PS = plastic stent · MPS = multiple plastic stents (placed side by side and serially upsized) · SEMS = self-expanding metal stent, subtyped as uSEMS (uncovered), fcSEMS (fully covered), cSEMS (covered) · PTBD = percutaneous transhepatic biliary drainage.
+
 ---
 
 ## Differential Diagnosis
@@ -138,7 +142,7 @@ If a diagnosis remains elusive after index ERCP:
 | ERCP brush cytology | First-line intraductal sampling | 41–60% | Always include; inadequate alone for perihilar |
 | ERCP forceps biopsy | Intraductal sampling | 40–88% | Adds yield in combination with cytology |
 | Cholangioscopy biopsy | Indeterminate / perihilar | 60–75% | Higher yield than brushings or forceps; requires single-operator scope |
-| FISH | Adjunct to cytology | Adds ~20% absolute | Polysomy OR >77 for malignancy; attenuated in PSC |
+| FISH | Adjunct to cytology | 42.9% with FISH added vs 20.1% cytology alone | Polysomy on FISH is the abnormality associated with carcinoma; attenuated in PSC |
 | NGS panel (biliary) | Indeterminate stricture | Sensitivity 77–83% | Evolving; not widely available |
 | pCLE | Indeterminate stricture | ~90% (combined) | Select centers; not a stand-alone oncological standard |
 

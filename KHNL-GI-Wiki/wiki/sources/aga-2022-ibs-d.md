@@ -3,7 +3,7 @@ title: "AGA Clinical Practice Guideline: Pharmacological Management of IBS-D (20
 category: source
 tags: [ibs-d, irritable-bowel-syndrome, rifaximin, eluxadoline, alosetron, guideline, aga]
 created: 2026-06-04
-updated: 2026-08-14
+updated: 2026-08-30
 sources: []
 ---
 
@@ -26,13 +26,20 @@ This guideline ranks drug therapy for diarrhea-predominant [[irritable-bowel-syn
 
 ---
 
-## Key Recommendations (conditional)
+## Recommendations
 
-- **[[rifaximin]]** — suggested; **retreatment with rifaximin** suggested for recurrent symptoms after initial response.
-- **Eluxadoline** — suggested (avoid in patients without a gallbladder, with sphincter-of-Oddi dysfunction, or heavy alcohol use — pancreatitis risk).
-- **Alosetron** — suggested for women with severe IBS-D (REMS due to ischemic colitis/constipation risk).
-- **Loperamide** — suggested for diarrhea control (limited effect on global symptoms).
-- **TCAs** — suggested (central neuromodulation); **antispasmodics** suggested; **against routine SSRIs**.
+Executive Summary of Recommendations (verbatim). *For all recommendation statements, the comparator was no drug treatment.* All 8 recommendations are conditional.
+
+| # | Recommendation | Strength | Certainty in evidence |
+|---|---|---|---|
+| 1 | In patients with IBS-D, the AGA suggests using [[eluxadoline]]<br/>*Implementation remark:* eluxadoline is contraindicated in patients without a gallbladder or those who drink more than 3 alcoholic beverages per day | Conditional | Moderate |
+| 2a | In patients with IBS-D, the AGA suggests using [[rifaximin]] | Conditional | Moderate |
+| 2b | In patients with IBS-D with initial response to rifaximin who develop recurrent symptoms, the AGA suggests retreatment with rifaximin | Conditional | Moderate |
+| 3 | In patients with IBS-D, the AGA suggests using [[alosetron]] | Conditional | Moderate |
+| 4 | In patients with IBS-D, the AGA suggests using [[loperamide]] | Conditional | Very low |
+| 5 | In patients with IBS, the AGA suggests using TCAs | Conditional | Low |
+| 6 | In patients with IBS, the AGA suggests **against** using SSRIs | Conditional | Low |
+| 7 | In patients with IBS, the AGA suggests using antispasmodics | Conditional | Low |
 
 ---
 

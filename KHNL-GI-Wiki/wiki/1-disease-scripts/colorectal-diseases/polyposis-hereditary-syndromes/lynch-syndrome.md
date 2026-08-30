@@ -3,7 +3,7 @@ title: "Lynch Syndrome"
 category: disease-script
 tags: [lynch, hnpcc, mmr, msi, hereditary-crc, endometrial-cancer, oncology, genetic-testing, colorectal-cancer]
 created: 2026-05-19
-updated: 2026-08-27
+updated: 2026-08-30
 sources: [acg-2015-hereditary-gi-cancer, usmstf-2014-lynch-syndrome, usmstf-2017-bmmrd]
 ---
 
@@ -57,13 +57,14 @@ MSH6 and PMS2 carriers have later onset and lower penetrance than MLH1/MSH2 carr
 
 ### Classification / Typing
 
-LS is classified by the causative gene:
+LS is classified by the causative gene. Share of LS families and the identifying molecular feature (penetrance numbers are under [[#Severity Assessment]] and [[#Extracolonic Cancer Surveillance]] — not repeated here) [[usmstf-2014-lynch-syndrome]]:
 
-- **MLH1**: most common; chromosome 3p21; highest CRC and endometrial cancer penetrance
-- **MSH2**: second most common; chromosome 2p21; elevated urothelial tract cancer risk
-- **MSH6**: later onset; lower CRC risk but significant endometrial cancer risk (16–71%)
-- **PMS2**: lowest penetrance of MMR genes (~20% CRC by 70); often MSI-L rather than MSI-H
-- **EPCAM deletion**: inactivates MSH2 via promoter methylation; MSH2 protein lost on IHC
+| Gene | Share of LS families | Identifying feature |
+|---|---|---|
+| **MLH1** + **MSH2** | together **up to 90%** of mutations | MLH1 loss requires BRAF V600E / methylation testing to exclude sporadic silencing |
+| **MSH6** | **~10%** | Later onset of colorectal *and* endometrial cancer than the other MMR genes |
+| **PMS2** | **6%** of all LS families | Historically under-detected — multiple **PMS2 pseudogenes** confound genetic diagnostics |
+| **EPCAM** deletion | — | Terminal-codon deletion silences **MSH2** in EPCAM-expressing tissue → **MSH2 protein lost on IHC**. Deletion sparing the MSH2 promoter gives a **colon-only** phenotype; deletion including critical promoter portions gives a full LS phenotype |
 
 ---
 
@@ -85,7 +86,11 @@ LS is classified by the causative gene:
 ### Tumor Testing
 
 - **IHC** (preferred): MLH1/MSH2/MSH6/PMS2 protein expression on preoperative biopsy specimen if possible; protein staining easier to perform widely than MSI PCR
-- **MSI PCR**: MSI-H defined as instability at ≥2 of 5 standard markers; MSI and IHC results are highly correlated (performance figures above)
+- **MSI PCR** — grading is by the **proportion of markers unstable** [[usmstf-2014-lynch-syndrome]]:
+  - **MSI-high** = **≥30%** of markers unstable
+  - **MSI-low** = **<30%** unstable (significance controversial; sometimes MSH6 germline, more often somatic MSH3 inactivation, which is common and not inherited)
+  - **MS-stable** = **no** markers unstable
+  - MSI is present in **>90%** of colon cancers in LS and in **12%** of sporadic CRC (somatic MLH1 hypermethylation). Most LS CRCs are MSI-high. MSI and IHC results are highly correlated (performance figures above)
 - **BRAF V600E** and/or **MLH1 promoter methylation**: required when MLH1 is lost to exclude sporadic epigenetic silencing (BRAF mutation essentially rules out LS)
 - IHC pattern guides germline gene to test:
   - MLH1/PMS2 co-loss → test MLH1 first (after BRAF/methylation)
@@ -199,6 +204,7 @@ LS is classified by the causative gene:
 - All LS cancers (colorectal, endometrial, ovarian, pancreatic, small bowel, **gallbladder, ureter, stomach, kidney**, and brain), ITT: HR **0.65** (95% CI 0.42–1.00, P=0.05); no excess adverse events vs placebo
 - CAPP3 trial ongoing to establish optimal dose and duration
 - Current recommendation: evidence suggests aspirin may decrease risk, but is not sufficiently robust to recommend standard use (Conditional/Moderate)
+- **Contradiction (surfaced):** [[usmstf-2017-bmmrd|USMSTF 2017]] cites this same trial as showing a **>60% reduction in CRC incidence** among those who took aspirin **for at least 2 years** — a different analysis of CAPP2 than the ITT HR 0.63 above. Neither guideline recommends routine aspirin; see [[bmmrd-syndrome]]
 
 **Lifestyle factors**:
 

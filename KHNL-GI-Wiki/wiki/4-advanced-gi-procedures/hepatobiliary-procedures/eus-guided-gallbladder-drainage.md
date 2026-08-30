@@ -3,7 +3,7 @@ title: "EUS-Guided Gallbladder Drainage (EUS-GBD)"
 category: advanced-procedure
 tags: [eus-gbd, lams, acute-cholecystitis, gallbladder-drainage, cholecystoscopy, percutaneous-cholecystostomy, transpapillary-drainage, therapeutic-eus]
 created: 2026-07-23
-updated: 2026-08-14
+updated: 2026-08-30
 sources: [aga-2023-eus-gallbladder-drainage, asge-2024-therapeutic-eus-biliary, acg-2025-eus-quality]
 ---
 
@@ -33,7 +33,9 @@ Transmural gallbladder decompression: a stent (now standardly a **lumen-apposing
 ## Patient Selection
 
 - Requirements: high surgical risk, **no evidence of free gallbladder perforation**, able to tolerate anesthesia and a therapeutic endoscopic procedure. ([[aga-2023-eus-gallbladder-drainage]])
-- **Prefer ET-GBD first** when the patient: already needs ERCP ([[choledocholithiasis]], suspected [[acute-cholangitis|cholangitis]]); is a **potential future cholecystectomy candidate** (ET-GBD preserves normal anatomy); has coagulopathy or large-volume [[ascites]].
+- **What counts as "high surgical risk"?** The AGA CPU defines it only qualitatively — **"significant medical comorbidities that would make laparoscopic cholecystectomy excessively risky"**; patients "may be deemed inoperable because of comorbidities." Method selection then turns on **comorbidities, gallbladder position, cystic duct characteristics, an in-dwelling metal biliary stent, presence of ascites, future surgical candidacy, and local endoscopic/radiographic/surgical expertise**.
+  - ⚠ **Decision gap — no numeric risk threshold in the corpus.** Neither [[aga-2023-eus-gallbladder-drainage]] nor [[asge-2024-therapeutic-eus-biliary]] gives an ASA class, Charlson score, or other cutoff; ASGE 2024 says only "not surgical candidates at the time of intervention." The AGA CPU cites **Tokyo Guidelines 2018** for severity assessment and drainage strategy, but **TG18 is not ingested** — do not reconstruct its grading from memory. Ingesting TG18 would close this gap and the parallel one on [[acute-cholecystitis]].
+- **Prefer ET-GBD first** when the patient: already needs ERCP for another reason ([[choledocholithiasis]], suspected [[acute-cholangitis|cholangitis]]); is a **potential future cholecystectomy candidate** (ET-GBD preserves normal anatomy for surgery); has **coagulopathy**, **large-volume [[ascites]]**, or comorbidities that would preclude optimal percutaneous drain placement *or* EUS-GBD; or needs drainage only as a **temporizing measure**.
 - **Prefer EUS-GBD** when: **in-dwelling uncovered metal biliary stent obstructing the cystic duct takeoff**; malignant cystic duct obstruction; **large cholelithiasis burden** or other indication for per-oral cholecystoscopy; poor candidate for repeat interventions.
 - **Discussion with the surgical team before EUS-GBD is imperative** — later cholecystectomy requires fistula repair (postoperative leak risk); clarify future surgical candidacy and the surgeon's comfort with a transmural stent. Cholecystectomy after EUS-GBD appears safe/feasible in limited data.
 - [[asge-2024-therapeutic-eus-biliary|ASGE 2024]] (conditional recommendation): in nonsurgical candidates, **EUS-GBD favored over percutaneous cholecystostomy** where expertise exists. Route-selection algorithm (incl. failure cascades) lives on [[acute-cholecystitis]].

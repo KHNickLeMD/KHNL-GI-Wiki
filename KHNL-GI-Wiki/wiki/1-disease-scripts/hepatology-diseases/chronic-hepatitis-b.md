@@ -3,7 +3,7 @@ title: "Chronic Hepatitis B"
 category: disease-script
 tags: [hepatitis-b, HBV, antiviral, nucleoside-analogues, HCC-surveillance, immune-tolerant, indeterminate, functional-cure, pregnancy, co-infection, hbv-reactivation, antiviral-prophylaxis]
 created: 2026-05-15
-updated: 2026-08-25
+updated: 2026-08-30
 sources: [aasld-idsa-2025-chb-treatment, acg-2016-liver-disease-pregnancy, aga-2025-hbv-reactivation, aga-2024-pregnancy-gi-liver]
 ---
 
@@ -247,21 +247,9 @@ Switch options: ETV → TDF or TAF; TDF → TAF or ETV; TAF → ETV.
 
 ### HCC Surveillance
 
-Ultrasound + AFP every 6 months. Indication thresholds:
+Ultrasound + AFP every 6 months. Survey **all CHB with cirrhosis** (Child-Pugh A–B, or transplant-eligible C) and the **non-cirrhotic subsets with increased risk** — defined by age plus country of origin, family history of HCC, PAGE-B ≥10, [[hepatitis-d|HDV]] or HIV co-infection, and higher-risk persons after HBsAg loss ([[aasld-idsa-2025-chb-treatment]] Table 4, Recs 6–9).
 
-| Population | Surveillance indicated? |
-|---|---|
-| CHB with cirrhosis (Child-Pugh A-B, or transplant-eligible C) | Yes |
-| CHB without cirrhosis: men from endemic country >40, women >50, person from Africa (earlier), family Hx HCC, PAGE-B ≥10 | Yes |
-| **HBV/HDV co-infection** | Yes — all adults, regardless of cirrhosis [[aasld-idsa-2025-chb-treatment]] |
-| **HBV/HIV co-infection** | Yes — men ≥18 years, women ≥40 years [[aasld-idsa-2025-chb-treatment]] |
-| HBV/HCV co-infection | [[direct-acting-antivirals\|Treat HCV first]]; then per HBV mono-infection criteria |
-| **Post-HBsAg loss** | Yes if: cirrhosis, family Hx HCC, male >40 at loss, female >50 at loss [[aasld-idsa-2025-chb-treatment]] |
-
-Triple/quadruple co-infections: follow surveillance criteria for the co-infection with highest HCC risk (e.g., HBV+HDV+HCV → follow HDV criteria).
-
-- PAGE-B was **validated in antiviral-treated persons**; REACH-B was validated in **untreated** persons; REAL-B may also be considered. Surveillance may start as early as the **third decade** given a median age of 46 y at HCC diagnosis. [[aasld-idsa-2025-chb-treatment]]
-- ⚠ **Decision gap — the PAGE-B component variables and point values are not in any ingested source.** [[aasld-idsa-2025-chb-treatment]] gives only the ≥10 threshold. Use an external calculator, or ingest the original PAGE-B derivation paper — do not reconstruct the score from memory. (Same for REACH-B/REAL-B.)
+→ **Every criterion in operative form** — the age/sex cutoffs, the ≥2%-prevalence definition of "endemic country", the co-infection age thresholds, the post-HBsAg-loss triggers, the triple/quadruple-co-infection rule, and the PAGE-B/REACH-B validation caveats — **is on [[hcc-surveillance]]**, the single home for the surveillance-indication table. HBV/HCV co-infection: [[direct-acting-antivirals|treat HCV first]], then survey per HBV mono-infection criteria (Rec 9).
 
 ### Horizontal Transmission Prevention
 

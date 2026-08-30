@@ -3,7 +3,7 @@ title: "Acute Cholangitis"
 category: disease-script
 tags: [cholangitis, biliary-infection, tokyo-guidelines, severity-grading, biliary-drainage, ercp, choledocholithiasis, sepsis]
 created: 2026-08-25
-updated: 2026-08-28
+updated: 2026-08-30
 sources: [tg18-2018-cholangitis-flowchart, asge-2021-cholangitis, jagtap-2026-urgent-vs-early-ercp-cholangitis, aloysius-2026-ercp-timing-septic-shock-cholangitis, asge-2019-choledocholithiasis]
 ---
 
@@ -23,6 +23,8 @@ Bacterial infection of an obstructed biliary tree. Two decisions drive the whole
   - [[#Grade-Specific Management]]
   - [[#Treating the Underlying Cause]]
   - [[#Transfer]]
+- [[#See Also]]
+- [[#Sources]]
 
 ---
 
@@ -89,7 +91,8 @@ Bacterial infection of an obstructed biliary tree. Two decisions drive the whole
 - ALP, GGT, AST, ALT, bilirubin
 - BUN, creatinine, PT and **PT-INR**
 - **Blood gas analysis**
-- **Blood culture — preferably if high fever is present**
+- **Blood culture — preferably if high fever is present.** If it was not drawn as part of the initial response, **it must be taken before antibiotics are given.** ([[tg18-2018-cholangitis-flowchart]])
+- **If biliary drainage is performed, bile samples must always be sent for culture.**
 
 *Note how directly this maps onto the grading table: platelets, albumin, bilirubin, creatinine, PT-INR and WBC are all severity criteria, which is why they are sent at presentation rather than reactively.*
 
@@ -107,6 +110,8 @@ Bacterial infection of an obstructed biliary tree. Two decisions drive the whole
 ### Initial Treatment — All Grades
 
 - **Sufficient IV fluids, antibiotics, and analgesia**, monitoring BP, heart rate, and urine volume. **In shock, start before the definitive diagnosis.** ([[tg18-2018-cholangitis-flowchart]])
+  - ⚠ **Gap — no antimicrobial regimen is in the corpus.** *Drainage and antibiotics are the two pillars of treatment*, but the ingested TG18 flowchart article deliberately defers all agent choice, dose, and duration to a companion paper: **Gomi H. *TG18: Antimicrobial therapy for acute cholangitis and cholecystitis*, J Hepatobiliary Pancreat Sci 2018** (TG18 ref [13]), which is **not ingested**. [[asge-2021-cholangitis]] does not supply one either. Do not write a regimen from memory.
+- **When acute cholecystitis coexists** (it sometimes does), decide the strategy on the **severity of both diseases plus the patient's general status** — not on the cholangitis grade alone. ([[tg18-2018-cholangitis-flowchart]])
 - **Fast the patient in principle**, so emergency drainage can proceed immediately. *(No high-quality evidence either way.)*
 - **Give analgesia proactively and early.** An RCT of IV morphine vs placebo in ER abdominal pain found **no difference in diagnostic accuracy** — fear of masking physical signs should not delay it.
   - ⚠ **Caution:** opioids (morphine, pentazocine, and similar non-opioids) **contract the sphincter of Oddi** and may raise biliary pressure.

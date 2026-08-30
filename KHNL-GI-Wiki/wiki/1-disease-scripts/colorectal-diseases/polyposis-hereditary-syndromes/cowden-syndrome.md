@@ -3,7 +3,7 @@ title: "Cowden Syndrome (PTEN Hamartoma Tumor Syndrome)"
 category: disease-script
 tags: [cowden, pten, phts, hamartoma, hereditary-cancer, breast-cancer, thyroid-cancer, endometrial-cancer, colorectal-cancer, genetic-testing]
 created: 2026-05-19
-updated: 2026-08-27
+updated: 2026-08-30
 sources: [acg-2015-hereditary-gi-cancer, aga-2022-hamartomatous-polyposis]
 ---
 
@@ -21,9 +21,11 @@ Cowden syndrome (CS), also called PTEN hamartoma tumor syndrome (PHTS), is cause
 - Personal history of: BRRS, adult Lhermitte-Duclos disease, autism spectrum disorder with macrocephaly, ≥2 biopsy-proven trichilemmomas, ≥2 major criteria (one must be macrocephaly), ≥3 major criteria without macrocephaly, ≥1 major + ≥3 minor criteria, or ≥4 minor criteria
 - At-risk individual with one major or two minor criteria and a relative with clinical CS or BRRS for whom testing has not been performed
 
-**Major criteria**: breast cancer, endometrial cancer, follicular thyroid cancer, multiple GI hamartomas or ganglioneuromas, macrocephaly (≥97th percentile), macular pigmentation of glans penis, mucocutaneous lesions (trichilemmoma, multiple palmoplantar keratoses, multifocal/extensive oral mucosal papillomatosis, multiple cutaneous facial papules)
+**Major criteria**: breast cancer · endometrial cancer · follicular thyroid cancer · **multiple** GI hamartomas or ganglioneuromas · macrocephaly (**megalocephaly, ≥97th percentile**) · macular pigmentation of glans penis · **mucocutaneous lesions — counts as a major criterion only if** one biopsy-proven trichilemmoma, **or** multiple palmoplantar keratoses, **or** multifocal/extensive oral mucosal papillomatosis, **or** multiple cutaneous facial papules (often verrucous)
 
-**Minor criteria**: autism spectrum disorder, [[colorectal-cancer|colon cancer]], esophageal glycogenic acanthosis (≥3 lesions), lipomas, mental retardation, papillary or follicular variant of papillary thyroid cancer, thyroid structural lesions (adenoma/nodule/goiter), renal cell carcinoma, single GI hamartoma or ganglioneuroma, testicular lipomatosis, vascular anomalies
+**Minor criteria**: autism spectrum disorder · [[colorectal-cancer|colon cancer]] · esophageal glycogenic acanthosis (**≥3** lesions) · lipomas · mental retardation (**IQ ≤75**) · papillary or follicular variant of papillary thyroid cancer · thyroid structural lesions (adenoma, nodule(s), goiter) · renal cell carcinoma · **single** GI hamartoma or ganglioneuroma · testicular lipomatosis · vascular anomalies (including multiple intracranial developmental venous anomalies)
+
+> **Counting rule (ACG 2015 Table 11 footnote b):** if a patient has **≥2 major criteria but no macrocephaly**, one of those major criteria **may be counted as one of the three minor criteria** to meet testing criteria — so the "1 major + ≥3 minor" pathway can be satisfied using a surplus major criterion.
 
 **GI findings** [[acg-2015-hereditary-gi-cancer]]:
 
@@ -127,7 +129,7 @@ Cowden syndrome (CS), also called PTEN hamartoma tumor syndrome (PHTS), is cause
 
 ## See Also
 
-[[colorectal-polyposis]], [[juvenile-polyposis-syndrome]], [[peutz-jeghers-syndrome]], [[familial-adenomatous-polyposis]], [[lynch-syndrome]], [[colorectal-cancer]], [[colonoscopy]], [[upper-endoscopy]], [[polypectomy]]
+[[colorectal-polyposis]], [[juvenile-polyposis-syndrome]], [[peutz-jeghers-syndrome]], [[familial-adenomatous-polyposis]], [[hereditary-mixed-polyposis-syndrome]], [[lynch-syndrome]], [[colorectal-cancer]], [[colonoscopy]], [[upper-endoscopy]], [[polypectomy]]
 
 ---
 

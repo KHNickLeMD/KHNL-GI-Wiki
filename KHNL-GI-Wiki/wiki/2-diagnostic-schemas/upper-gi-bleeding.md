@@ -224,7 +224,8 @@ If UGIB is clinically suspected in a patient presenting with apparent LGIB, perf
 
 **H. pylori testing and treatment:**
 
-- All patients with peptic ulcer bleeding should be tested for [[helicobacter-pylori-infection]] and treated if positive — prevents ulcer recurrence and rebleeding (not specifically re-addressed in this guideline; established practice)
+- **Not addressed by [[acg-2021-ugib|ACG 2021]]** — the UGIB guideline neither tests nor treats *H. pylori* anywhere in its recommendations. The obligation comes from the eradication guideline instead: **active or prior peptic ulcer disease is a test-and-treat indication** ([[acg-2024-hp-treatment]], Table 4), and persistent untreated infection leaves the patient at risk of the sequelae of infection including peptic ulcer. So test every patient with [[peptic-ulcer-disease|peptic ulcer]] bleeding for [[helicobacter-pylori-infection]] and treat if positive
+  - Treatment is offered on a **positive non-serological test** (active infection), absent contraindications ([[acg-2024-hp-treatment]]). Regimens, resistance-driven choice, and test-of-cure live on [[helicobacter-pylori-infection]]
 
 ### Step 8: Recurrent Bleeding
 

@@ -29,6 +29,7 @@ Histopathologic stages along the Correa cascade that precede [[gastric-adenocarc
 
 ## Contents
 - [[#Assessment]]
+  - [[#Establishing the Diagnosis]]
   - [[#Severity Assessment — Risk Factors for GPMC/GC]]
   - [[#Classification / Typing — Correa Cascade]]
 - [[#Differential Diagnosis]]
@@ -52,6 +53,13 @@ Histopathologic stages along the Correa cascade that precede [[gastric-adenocarc
 
 ## Assessment
 
+### Establishing the Diagnosis
+
+- GPMC is a **histopathologic** diagnosis — made on gastric biopsies, not on symptoms, serum tests, or endoscopic appearance alone. There is no clinical presentation specific to AG, GIM, or dysplasia; most are found incidentally at an [[upper-endoscopy|EGD]] done for another indication.
+- **Noninvasive biomarkers (serum pepsinogens, anti-H. pylori IgG) are recommended *against*** for GPMC screening or surveillance in the US (Very low) — so a normal serum panel does not exclude GPMC and cannot substitute for biopsy.
+- The diagnosis therefore depends entirely on exam quality and sampling: high-quality endoscopy plus the updated Sydney protocol, both under [[#Diagnostics]].
+- The three histopathologic stages each have their own page — [[atrophic-gastritis|AG]], [[gastric-intestinal-metaplasia|GIM]], and dysplasia (IND/LGD/HGD, managed under [[#Dysplasia Management]]).
+
 ### Severity Assessment — Risk Factors for GPMC/GC
 
 **Patient-level risk factors:**
@@ -68,7 +76,8 @@ Histopathologic stages along the Correa cascade that precede [[gastric-adenocarc
 
 - GIM subtype: **incomplete** > complete — **OR 4.06 (95% CI 2.79–5.91)** for GC vs no GIM
 - GIM extent: **corpus-extension** (antrum + incisura + corpus) > limited (antrum/incisura only) — **OR 7.39** vs no GIM; antrum-limited GIM was not significant (OR 2.1, 95% CI 0.7–6.6)
-- GIM/AG severity: proportion of atrophy or GIM on biopsy per compartment
+- **GIM/AG severity — the proportion of atrophy or GIM within individual biopsies from each compartment (antrum, incisura, corpus), and it has an operative cutoff.** GIM in **up to one-third** of glands = **mild**; **up to two-thirds** = **moderate**; **greater than two-thirds** = **severe**. (Mild *atrophy* is hard to appreciate histologically; extensive gland loss is readily apparent.) Increased severity raises progression risk **independently of anatomic extent** — so **moderate-to-severe AG/GIM is high-risk and warrants consideration of surveillance even when it is anatomically limited to the antrum**, which is the case a "limited GIM = low risk" reading misses
+- **Focality:** **unifocal** = AG/GIM in **1** biopsy specimen; **multifocal** = AG/GIM in **≥2** biopsy specimens. Unifocal carries lower risk. Both determinations depend on having taken enough biopsies (Sydney protocol)
 - Dysplasia grade: HGD > LGD > IND
 
 ### Classification / Typing — Correa Cascade
@@ -168,7 +177,7 @@ Gastric adenocarcinoma
 - OR any GIM with: family Hx GC (first-degree) | foreign-born from high-GC country | high-risk race/ethnicity (East Asian, Latino/a, Black, AIAN)
   - ⚠ **This third criterion is contradicted by the newer [[aga-2026-gastric-polyps|AGA 2026]]**, which says surveillance frequency should not be altered for ethnicity or family history *alone*. Both agree once demography is paired with a mucosal finding. **Full contradiction and its resolution: [[gastric-intestinal-metaplasia#2. Surveillance Endoscopy — Guideline Disagreement|gastric intestinal metaplasia]].**
 
-**Severe GIM or AG → surveillance q3y (Conditional/Very low)**
+**Moderate/severe GIM or AG → surveillance q3y (Conditional/Very low)** — severity is graded by the proportion-of-glands cutoffs under [[#Severity Assessment — Risk Factors for GPMC/GC]] (>2/3 = severe), and it qualifies **even if the disease is limited to the antrum**
 
 **Multiple risk factors** (e.g., extensive GIM + family Hx GC): consider q1–2y interval
 
@@ -177,7 +186,7 @@ Gastric adenocarcinoma
 - Complete GIM only (no incomplete component)
 - Anatomically limited to antrum
 - None of the high-risk criteria above
-- AG mild in severity
+- **Mild in severity** — AG mild, and GIM in **≤1/3 of glands**. Antrum-limited disease that is *moderate or severe* does **not** belong in this group
 
 **Where OLGA/OLGIM staging is routinely used** (staging criteria and risk bands live on [[atrophic-gastritis#Severity Assessment|atrophic gastritis]]):
 

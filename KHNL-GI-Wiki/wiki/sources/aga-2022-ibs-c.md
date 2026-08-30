@@ -3,7 +3,7 @@ title: "AGA Clinical Practice Guideline: Pharmacological Management of IBS-C (20
 category: source
 tags: [ibs-c, irritable-bowel-syndrome, secretagogues, linaclotide, tenapanor, guideline, aga]
 created: 2026-06-04
-updated: 2026-08-14
+updated: 2026-08-30
 sources: []
 ---
 
@@ -26,13 +26,21 @@ This guideline ranks drug therapy for constipation-predominant [[irritable-bowel
 
 ---
 
-## Key Recommendations
+## Recommendations
 
-- **[[linaclotide]]** — *recommended* (strong).
-- **Tenapanor**, **[[plecanatide]]**, **tegaserod**, and **[[lubiprostone]]** — *suggested* (conditional).
-- **PEG laxatives** — suggested (low-cost option, though limited effect on global IBS symptoms/pain).
-- **Tricyclic antidepressants (TCAs)** — suggested for IBS (central neuromodulation).
-- **Antispasmodics** — suggested; **against routine SSRIs** for IBS.
+Table 1 — Executive Summary of Recommendations (verbatim). *For all recommendation statements, the comparator was no drug treatment.* The panel agreed on **9 recommendations**: one strong (linaclotide) and eight conditional.
+
+| # | Recommendation | Strength | Certainty of evidence |
+|---|---|---|---|
+| 1 | In patients with IBS-C, the AGA suggests using tenapanor | Conditional | Moderate |
+| 2 | In patients with IBS-C, the AGA suggests using [[plecanatide]] | Conditional | Moderate |
+| 3 | In patients with IBS-C, the AGA **recommends** using [[linaclotide]] | **Strong** | High |
+| 4 | In patients with IBS-C, the AGA suggests using tegaserod<br/>*Implementation remark:* Tegaserod was reapproved for women under the age of 65 years without a history of cardiovascular ischemic events (such as myocardial infarction, stroke, TIA, or angina) | Conditional | Moderate |
+| 5 | In patients with IBS-C, the AGA suggests using [[lubiprostone]] | Conditional | Moderate |
+| 6 | In patients with IBS-C, the AGA suggests using PEG laxatives | Conditional | Low |
+| 7 | In patients with IBS, the AGA suggests using TCAs | Conditional | Low |
+| 8 | In patients with IBS, the AGA suggests **against** using SSRIs | Conditional | Low |
+| 9 | In patients with IBS, the AGA suggests using antispasmodics | Conditional | Low |
 
 ---
 

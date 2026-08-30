@@ -11,7 +11,7 @@ tags:
   - gastric-cancer
   - neuroendocrine-tumor
 created: 2026-05-15
-updated: 2026-08-27
+updated: 2026-08-30
 sources:
   - aga-2021-atrophic-gastritis
   - acg-2025-gastric-premalignant
@@ -57,6 +57,8 @@ AG severity and extent determine gastric cancer risk. Two validated staging syst
 
 - Stage = the **combination** of histopathologic severity (score **0–3**) in **each** anatomic compartment — antrum/incisura and corpus — scored for **atrophy** (OLGA) or for **IM** (OLGIM). Requires biopsies jarred separately from the two compartments (see [[#Biopsy Protocol — Updated Sydney Protocol]]) [[aga-2021-atrophic-gastritis]] [[acg-2025-gastric-premalignant]]
 - Stages run **0** (normal pathology) → **IV** (moderate/severe atrophy ± IM of **both** antrum and corpus) [[acg-2025-gastric-premalignant]]
+- **What "severity" means per compartment — the proportion of glands involved in the individual biopsies from that compartment** ([[acg-2025-gastric-premalignant]]): **IM in up to one-third of glands = mild; up to two-thirds = moderate; greater than two-thirds = severe.** Mild *atrophy* is hard to appreciate histologically, whereas extensive gland loss is readily apparent. Severity raises progression risk **independently of anatomic extent**, so moderate-to-severe AG/GIM is high-risk **even when limited to the antrum**
+- **Focality** (a separate descriptor): **unifocal** = AG/GIM in **1** biopsy specimen; **multifocal** = **≥2**. Unifocal carries lower risk; both readings depend on adequate Sydney-protocol sampling
 
 | Stage | Risk band | Implication |
 |---|---|---|
@@ -69,7 +71,7 @@ AG severity and extent determine gastric cancer risk. Two validated staging syst
 - Magnitude of the gradient (Singapore GCEP cohort, largest published GPMC cohort): early gastric neoplasia **543.8 per 10,000 person-years** with OLGIM III/IV vs **21.5** with OLGIM I
 - Adoption: widespread in Europe and some Asian/Latin American centers; only a limited number of US centers stage routinely
 
-> **Gap — the stage-assignment matrix is not on this page.** The compartment scores (0–3), the stage range (0→IV), and the risk bands above are all sourced, but the grid that maps *antrum score × corpus score → stage* exists **only as an image** in both ingested sources — [[acg-2025-gastric-premalignant]] **Figure 4** (p.14) and [[aga-2021-atrophic-gastritis]] **Supplementary Figure 1A/B**. Neither prints it as text — [[acg-2025-gastric-premalignant|ACG 2025]] **Box 1**, the figure's companion text, gives the 0→IV range and the risk bands but not the grid. Image extraction remains blocked on the lint server, though **not** because the tools are missing: PyMuPDF is absent, but `pdftoppm`, `pdfimages`, `pdftocairo` and `convert` are all installed and are refused by the sandbox permission layer. **A run with those commands approved (or a local Obsidian session) can capture Figure 4 and close this gap.** **Do not reconstruct the grid from memory.** Until it is embedded, a reader can interpret a reported OLGA/OLGIM stage from this page but **cannot assign one** from raw compartment scores.
+> **Gap — the stage-assignment matrix is not on this page.** The compartment scores (0–3), the per-compartment severity grading (the ≤1/3 / ≤2/3 / >2/3 proportions above), the stage range (0→IV), and the risk bands are all now sourced, but the grid that maps *antrum score × corpus score → stage* exists **only as an image** in both ingested sources — [[acg-2025-gastric-premalignant]] **Figure 4** (p.14) and [[aga-2021-atrophic-gastritis]] **Supplementary Figure 1A/B**. Neither prints it as text — [[acg-2025-gastric-premalignant|ACG 2025]] **Box 1**, the figure's companion text, gives the 0→IV range and the risk bands but not the grid. Image extraction remains blocked on the lint server, though **not** because the tools are missing: PyMuPDF is absent, but `pdftoppm`, `pdfimages`, `pdftocairo` and `convert` are all installed and are refused by the sandbox permission layer. **A run with those commands approved (or a local Obsidian session) can capture Figure 4 and close this gap.** **Do not reconstruct the grid from memory.** Until it is embedded, a reader can interpret a reported OLGA/OLGIM stage from this page but **cannot assign one** from raw compartment scores.
 
 **Kimura-Takemoto endoscopic classification** — grades the extent of the **atrophic border** [[aga-2021-atrophic-gastritis]]:
 

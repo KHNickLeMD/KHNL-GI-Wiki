@@ -3,7 +3,7 @@ title: "Endoscopic Submucosal Dissection (Colorectal)"
 category: advanced-procedure
 tags: [esd, hybrid-esd, endoscopic-resection, en-bloc, colorectal, t1-crc, malignant-polyp, submucosal-invasion, eftr]
 created: 2026-08-11
-updated: 2026-08-27
+updated: 2026-08-30
 sources: [usmstf-2020-endoscopic-removal, aga-2025-endoscopic-resection-crc]
 ---
 
@@ -27,11 +27,14 @@ Electrosurgical-knife dissection of colorectal lesions that cannot be taken en b
 
 *Source: [[usmstf-2020-endoscopic-removal]].*
 
-- ≥20mm lesions with suspected superficial SMI (not deep) not amenable to en bloc [[endoscopic-mucosal-resection|EMR]]
-- Mucosal lesions with submucosal fibrosis
-- Local residual/recurrent early carcinoma after prior endoscopic resection
-- [[inflammatory-bowel-disease|Colitis]]-associated dysplasia (non-polypoid)
-- **Rectal lesions:** more often feasible than elsewhere in the colon given the straight working channel
+Most colorectal neoplasms are benign and resectable by piecemeal [[endoscopic-mucosal-resection|EMR]] with minimal recurrence risk, so the indication set is narrow. The gate is a **lesion >20 mm that is destined for endoscopic (not surgical) resection and in which en-bloc inject-and-cut EMR would be difficult** — within that gate:
+
+- **Suspected submucosal invasion** — operatively, a **large depressed lesion** or a **pseudodepressed LST-NG** lesion (see [[polypectomy]] for the Paris/LST criteria)
+- Mucosal lesions with **submucosal fibrosis**
+- **Local residual early carcinoma** after prior endoscopic resection
+- **Non-polypoid dysplasia in [[inflammatory-bowel-disease|IBD]]** (colitis-associated dysplasia)
+
+**Difficult locations are not a contraindication.** Anorectal lesions near the **dentate line** and lesions at a **flexure behind a fold** have been removed successfully with EMR, ESD, or hybrid methods — refer such patients to an endoscopist proficient in these techniques **before** referring for surgery ([[usmstf-2020-endoscopic-removal]]).
 
 ## Hybrid ESD
 
@@ -40,11 +43,11 @@ Electrosurgical-knife dissection of colorectal lesions that cannot be taken en b
 
 ## Endoscopic Full-Thickness Resection (eFTR)
 
-- For lesions <30mm, especially non-lifting or involving diverticulum
-- Uses full-thickness resection device (OTSC clip system)
-- Allows complete histologic assessment
-- **R0 resection rates:** ~77–80% in published series (histologically complete resection with clear deep and lateral margins); lower for larger lesions (>20mm)
-- Useful for non-lifting adenomas after failed EMR where surgical risk is high — see [[endoscopic-full-thickness-resection]]
+- Suggested indications: lesions **<30 mm**, particularly **non-lifting** lesions or those **involving a diverticulum**
+- Uses the full-thickness resection device (OTSC clip system with integrated snare); removes all layers of the colon wall → allows complete histologic assessment
+- **R0 resection is size-dependent — this is the selection rule.** In a prospective multicenter study of 181 patients (9 German centers), R0 (margins of the resected specimen free of neoplasia) fell to **58.1% for lesions >20 mm vs 81.2% for lesions ≤20 mm** (P = .0038). Effectiveness was best for difficult-to-resect lesions (non-lifting, challenging locations) **≤20 mm**.
+- Likely mechanism of the size effect: difficulty judging whether the lesion margin is fully contained in the cap once the lesion is drawn in
+- Device mechanics, adverse-event rates, and use for subepithelial lesions — see [[endoscopic-full-thickness-resection]]
 
 ---
 

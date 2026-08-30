@@ -3,7 +3,7 @@ title: "Gallbladder Cancer"
 category: disease-script
 tags: [gallbladder-cancer, biliary-tract-cancer, hpb, cholecystectomy, incidental-gallbladder-cancer, gallbladder-polyp, adenocarcinoma, nccn, oncology]
 created: 2026-06-18
-updated: 2026-08-26
+updated: 2026-08-30
 sources: [nccn-2026-biliary-tract-cancers, asge-2013-biliary-neoplasia]
 ---
 
@@ -58,7 +58,20 @@ Depth of invasion (T), nodal burden (N), and distant spread (M) drive both progn
 
 ### Classification / Typing
 
-**AJCC prognostic groups** ([[nccn-2026-biliary-tract-cancers]]): 0 = Tis N0; I = T1 N0; IIA = T2a N0; IIB = T2b N0; IIIA = T3 N0; IIIB = T1–3 N1; IVA = T4 N0–1; IVB = any T N2, or any M1. Histologic grade G1 (well) / G2 (moderately) / G3 (poorly differentiated).
+**AJCC prognostic groups** ([[nccn-2026-biliary-tract-cancers]]) — all rows M0 except the last:
+
+| Stage | T | N |
+|---|---|---|
+| 0 | Tis | N0 |
+| I | T1 | N0 |
+| IIA | T2a | N0 |
+| IIB | T2b | N0 |
+| IIIA | T3 | N0 |
+| IIIB | T1–T3 | N1 |
+| IVA | T4 | N0–N1 |
+| IVB | Any T N2 M0, **or** any T any N **M1** | |
+
+Histologic grade G1 (well) / G2 (moderately) / G3 (poorly differentiated).
 
 ## Differential Diagnosis
 
