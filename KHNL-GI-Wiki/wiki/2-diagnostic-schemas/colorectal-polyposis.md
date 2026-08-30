@@ -3,7 +3,7 @@ title: "Colorectal Polyposis"
 category: diagnostic-schema
 tags: [polyposis, colorectal, hereditary-cancer, germline-testing, adenoma, hamartoma, serrated, apc, mutyh]
 created: 2026-08-27
-updated: 2026-08-27
+updated: 2026-08-30
 sources: [acg-2015-hereditary-gi-cancer, aga-2022-hamartomatous-polyposis, asge-2020-fap, usmstf-2020-followup-colonoscopy, usmstf-2017-bmmrd]
 ---
 
@@ -162,7 +162,7 @@ Any **one** of the following makes the clinical diagnosis, as reproduced in [[ac
 - **FAP-type extracolonic manifestations** — duodenal/ampullary adenomas, desmoid tumours (abdominal > peripheral), papillary thyroid cancer (cribriform morular variant), CHRPE (multifocal/bilateral), epidermal cysts, osteomas, hepatoblastoma [[acg-2015-hereditary-gi-cancer]], [[usmstf-2020-followup-colonoscopy]]
 - **Mucocutaneous pigmentation crossing the vermilion border** → [[peutz-jeghers-syndrome]]
 - **Macrocephaly, trichilemmomas, oral papillomatosis** with GI hamartomas → [[cowden-syndrome]]
-- ***SMAD4* carrier** — screen for **hereditary haemorrhagic telangiectasia**, including cardiovascular examination (epistaxis, mucocutaneous telangiectasias, AVMs) [[acg-2015-hereditary-gi-cancer]], [[aga-2022-hamartomatous-polyposis]]
+- ***SMAD4* carrier** — screen for **[[hereditary-hemorrhagic-telangiectasia|hereditary haemorrhagic telangiectasia]]**, including cardiovascular examination (epistaxis, mucocutaneous telangiectasias, AVMs) [[acg-2015-hereditary-gi-cancer]], [[aga-2022-hamartomatous-polyposis]]
 
 **Push toward [[bmmrd-syndrome|BMMRD]]** [[usmstf-2017-bmmrd]] — any one of:
 
@@ -179,7 +179,7 @@ Any **one** of the following makes the clinical diagnosis, as reproduced in [[ac
 
 ## See Also
 
-[[familial-adenomatous-polyposis]], [[mutyh-associated-polyposis]], [[serrated-polyposis-syndrome]], [[peutz-jeghers-syndrome]], [[juvenile-polyposis-syndrome]], [[cowden-syndrome]], [[hereditary-mixed-polyposis-syndrome]], [[bmmrd-syndrome]], [[lynch-syndrome]], [[colorectal-cancer]], [[colorectal-cancer-screening]], [[colonoscopy-surveillance]], [[colonoscopy]], [[polypectomy]], [[gastric-polyps]], [[familial-pancreatic-cancer]], [[hereditary-diffuse-gastric-cancer]]
+[[familial-adenomatous-polyposis]], [[mutyh-associated-polyposis]], [[serrated-polyposis-syndrome]], [[peutz-jeghers-syndrome]], [[juvenile-polyposis-syndrome]], [[cowden-syndrome]], [[hereditary-mixed-polyposis-syndrome]], [[bmmrd-syndrome]], [[lynch-syndrome]], [[colorectal-cancer]], [[colorectal-cancer-screening]], [[colonoscopy-surveillance]], [[colonoscopy]], [[polypectomy]], [[gastric-polyps]], [[familial-pancreatic-cancer]], [[hereditary-diffuse-gastric-cancer]], [[hereditary-hemorrhagic-telangiectasia]]
 
 ---
 

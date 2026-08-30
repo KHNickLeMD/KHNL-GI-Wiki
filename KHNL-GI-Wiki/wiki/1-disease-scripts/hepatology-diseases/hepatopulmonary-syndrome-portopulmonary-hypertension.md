@@ -3,7 +3,7 @@ title: "Hepatopulmonary Syndrome and Portopulmonary Hypertension"
 category: disease-script
 tags: [hepatopulmonary-syndrome, hps, portopulmonary-hypertension, poph, liver-transplant, portal-hypertension, pulmonary, cirrhosis]
 created: 2026-05-25
-updated: 2026-08-28
+updated: 2026-08-30
 sources: [aasld-ast-2025-liver-transplant-candidate-evaluation]
 ---
 
@@ -93,6 +93,8 @@ Pulmonary disease in the LT candidate falls into three groups; HPS/POPH are grou
 - Intraoperative extracorporeal support to bridge higher-risk POPH patients is of increasing interest but has **not** shown long-term survival benefit (too few supported patients reaching LT).
 
 > ⚠ **Gap — POPH drug therapy not sourced.** [[aasld-ast-2025-liver-transplant-candidate-evaluation]] refers only to "multiple new targeted medications" and never names the PAH drug classes or agents. A previously listed set of classes (endothelin receptor antagonists, PDE-5 inhibitors, prostacyclin analogues) was **not supported by any ingested source and has been removed**. A PAH/ILTS guideline would be needed.
+
+---
 
 ## See Also
 

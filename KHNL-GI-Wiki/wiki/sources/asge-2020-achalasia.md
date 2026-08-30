@@ -3,7 +3,7 @@ title: "ASGE Guideline: Management of Achalasia (2020)"
 category: source
 tags: [achalasia, poem, pneumatic-dilation, heller-myotomy, botulinum-toxin, guideline, asge]
 created: 2026-06-04
-updated: 2026-08-14
+updated: 2026-08-30
 sources: []
 ---
 
@@ -43,10 +43,12 @@ POEM, pneumatic dilation, and Heller myotomy are the durable options (botox for 
 
 ## See Also
 
-[[achalasia]], [[poem]], [[high-resolution-manometry]], [[gerd]]
+[[achalasia]], [[poem]], [[heller-myotomy]], [[high-resolution-manometry]], [[gerd]]
 
 ## Relevance to Wiki
 
 Wiki pages built on or citing this source:
 
 - [[achalasia|Achalasia]]
+- [[heller-myotomy|Heller myotomy]] — this guideline's meta-analysis (53 studies, 5,834 patients) supplies the page's LHM efficacy figures, the post-myotomy GERD rates, and the LHM-vs-pneumatic-dilation equivalence by 2 years
+- [[pneumatic-dilation|Pneumatic dilation]] — supplies the pooled PD clinical-success rate (83%, ES ≤3, 52 studies / 4,166 patients), the LES pressure fall (34.5 → 20.8 mm Hg), and the pooled perforation (2.8%) and symptomatic-GERD (9%) rates that sit alongside — and disagree with — the ACG 2020 figures

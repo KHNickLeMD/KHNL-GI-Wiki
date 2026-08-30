@@ -3,7 +3,7 @@ title: "Abnormal Liver Chemistries"
 category: diagnostic-schema
 tags: [liver-chemistries, liver-tests, alt, ast, alkaline-phosphatase, bilirubin, hepatocellular, cholestatic, r-value, hpb, liver, workup]
 created: 2026-05-19
-updated: 2026-08-14
+updated: 2026-08-30
 sources: [acg-2017-liver-chemistries, acg-2016-liver-disease-pregnancy]
 ---
 
@@ -77,6 +77,8 @@ Laboratory ULN values for ALT are unreliable — they are set from populations t
 - ~90% of alcoholic liver disease patients have AST>ALT; >70% have ratio >2
 - ALT > AST: most other liver conditions (MASLD, chronic viral hepatitis)
 - AST:ALT ratio is typically not >2:1 in cirrhosis from non-alcoholic causes (mean ratio 1.05 in HCV cirrhotics)
+- **Magnitude ceiling:** in both alcohol-associated liver disease and MASLD/MASH, aminotransferases are **rarely >300 IU/l** — a higher value should redirect the workup (viral, ischemic, toxic, autoimmune) rather than be attributed to alcohol or steatosis
+- **"Significant" alcohol intake is a defined quantity:** **>210 g/week in men, >140 g/week in women** — the threshold used when attributing liver chemistry abnormalities to alcohol. GGT is complementary; alcohol cessation is recommended [[acg-2017-liver-chemistries]]
 
 ### Causes of Elevated Alkaline Phosphatase
 
@@ -160,7 +162,7 @@ Use the R-ratio and AST:ALT ratio to classify injury pattern → guides the diff
 
 **Scenario A — Normal total bilirubin and transaminases (isolated alkaline phosphatase elevation):**
 
-1. History and PE; confirm with serum GGT
+1. History and PE; confirm hepatic origin with **serum GGT or alkaline phosphatase fractionation** (alkaline phosphatase also arises from bone, placenta, intestine, kidney)
 2. If GGT normal → evaluate for non-hepatobiliary etiologies (bone, intestinal)
 3. If GGT elevated → obtain RUQ ultrasound; evaluate for hepatotoxic medications; check AMA, ANA, SMA
 4. If ductal dilatation → [[ercp|ERCP]] or [[mri-mrcp|MRCP]]; if AMA positive → evaluate for PBC
@@ -208,7 +210,7 @@ Use the R-ratio and AST:ALT ratio to classify injury pattern → guides the diff
 - **CBC with platelet count** — thrombocytopenia suggests [[portal-hypertension|portal hypertension]]/chronic liver disease
 - **AST, ALT, alkaline phosphatase, total bilirubin, albumin, PT/INR** — establish pattern and synthetic function
 - **HBsAg, anti-HBc (total or IgM), anti-HBs** — [[chronic-hepatitis-b|hepatitis B]] status
-- **Anti-HCV ± HCV RNA** — [[hepatitis-c|hepatitis C]] (RNA required if antibody positive or high suspicion with negative antibody)
+- **Anti-HCV ± HCV RNA** — [[hepatitis-c|hepatitis C]]; anti-HCV **sensitivity 92–97%**, so HCV RNA is required to confirm chronic infection if the antibody is positive, and also when suspicion is high with a negative antibody (acute HCV = anti-HCV + HCV RNA)
 - **[[iron-overload-and-iron-metabolism|Iron panel]]** — transferrin saturation ≥45% or elevated ferritin → HFE mutation analysis for [[hereditary-hemochromatosis|hereditary hemochromatosis]]
 - **Abdominal ultrasound** — hepatic parenchyma, biliary dilatation, portal hypertension stigmata
 

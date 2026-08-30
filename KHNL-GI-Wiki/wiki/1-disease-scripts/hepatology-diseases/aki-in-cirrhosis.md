@@ -3,8 +3,8 @@ title: "AKI in Cirrhosis (including HRS-AKI)"
 category: disease-script
 tags: [aki, cirrhosis, hrs, hepatorenal-syndrome, albumin, terlipressin, liver]
 created: 2026-05-15
-updated: 2026-08-26
-sources: [aga-2022-aki-cirrhosis, aga-2024-vasoactive-albumin-cirrhosis]
+updated: 2026-08-30
+sources: [aga-2022-aki-cirrhosis, aga-2024-vasoactive-albumin-cirrhosis, aasld-2024-aclf]
 ---
 
 ## Contents
@@ -194,7 +194,7 @@ Vasopressin V1 receptor analog; reverses splanchnic vasodilatation.
 
 - **FDA label:** SCr ≥5 mg/dL; O2 saturation <90%
 - **Ongoing coronary, peripheral, or mesenteric ischemia** — contraindicated (AGA 2024 CPU, BPA 12)
-- **ACLF grade 3** — use with caution
+- **[[acute-on-chronic-liver-failure|ACLF-3]] (EASL-CLIF; ≥3 organ failures) — CONTRAINDICATED**, not merely a caution. [[aasld-2024-aclf]] GS 25 restricts terlipressin to Stage 2+ HRS-AKI **without ACLF-3**, on the CONFIRM-trial respiratory-failure signal; **norepinephrine is preferred in shock**. ⚠ This supersedes the softer "use with caution" framing carried by the older CPU — the newer guideline governs. Grade definitions on [[acute-on-chronic-liver-failure]].
 - **Benefit may not outweigh risk** when SCr >5 mg/dL, or in patients listed for transplant with **MELD ≥35** (low response rates)
 
 **Response predictors (favorable):** bilirubin <10 mg/dL, SCr <5 mg/dL, lower ACLF grade, sustained MAP increase ≥5–10 mmHg with therapy, presence of systemic inflammatory response (SIRS/sepsis/alcohol-associated hepatitis)
@@ -292,3 +292,4 @@ Post-LT: patients can be listed for high-priority kidney transplantation alone i
 
 1. [[aga-2022-aki-cirrhosis|AGA 2022: Diagnosis and Management of AKI in Cirrhosis]]
 2. [[aga-2024-vasoactive-albumin-cirrhosis|AGA 2024 Clinical Practice Update on the Use of Vasoactive Drugs and Intravenous Albumin in Cirrhosis]]
+3. [[aasld-2024-aclf|AASLD 2024 Practice Guidance on Acute-on-Chronic Liver Failure]]

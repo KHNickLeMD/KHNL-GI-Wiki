@@ -3,7 +3,7 @@ title: "Test-and-Treat Strategy (H. pylori)"
 category: concept
 tags: [h-pylori, dyspepsia, test-and-treat, non-invasive-testing, urea-breath-test]
 created: 2026-05-07
-updated: 2026-08-11
+updated: 2026-08-30
 sources: [acg-2017-hp-guidelines, acg-cag-2017-dyspepsia]
 ---
 
@@ -32,7 +32,7 @@ A management strategy for **uninvestigated [[dyspepsia]]** in which patients are
 
 > ⚠ **Two guidelines, two age cutoffs.** [[acg-2017-hp-guidelines]] states **<55** (Strong/Moderate); the same-year, dyspepsia-specific [[acg-cag-2017-dyspepsia]] **raised the threshold to <60** and is what this page asserts. Use <60. See [[dyspepsia]].
 
-**Alarm features that prompt endoscopy instead:**
+**Alarm features:**
 
 - Unintentional weight loss
 - Progressive [[dysphagia]]
@@ -43,19 +43,23 @@ A management strategy for **uninvestigated [[dyspepsia]]** in which patients are
 - Family history of upper GI malignancy
 - Previous gastric surgery
 
+> ⚠ **An alarm feature alone does *not* mandate endoscopy under 60.** [[acg-cag-2017-dyspepsia]] **Statement 2 (Conditional, moderate quality)** recommends **against routinely scoping patients <60 for alarm features alone** — they have low positive predictive value for upper GI cancer, so it is the **age-<60 threshold, not the alarm list**, that gates this strategy. Use case-by-case clinical judgment; prominent or combined features still warrant EGD. This reverses older guidance mandating EGD for any alarm feature at any age. The pooled operating characteristics live on **[[dyspepsia]]**.
+
 ---
 
 ## Preferred Diagnostic Tests
 
+Both preferred over serology ([[acg-2017-hp-guidelines]], Strong / Moderate):
+
 1. **Urea breath test (UBT)** — sensitivity 88–95%, specificity 95–100%
 2. **Stool antigen test (SAT)** — sensitivity ~94%, specificity ~97%
 
-**Avoid serology** — cannot distinguish active from past infection; low specificity.
+**Avoid serology** — cannot distinguish active from past infection; low specificity, and it is **never** appropriate for post-treatment testing.
 
 **Pre-test requirements:**
 
-- Hold PPI ≥2 weeks before testing
-- Hold antibiotics ≥4 weeks before testing
+- Hold [[proton-pump-inhibitors|PPI]] ≥2 weeks before testing. Whether the same applies to [[potassium-competitive-acid-blockers|P-CABs]] has **not been adequately studied** — do not assume it.
+- Hold antibiotics (and bismuth) ≥4 weeks before testing
 
 ---
 
@@ -68,7 +72,7 @@ A management strategy for **uninvestigated [[dyspepsia]]** in which patients are
 
 ## See Also
 
-[[helicobacter-pylori-infection]], [[dyspepsia]], [[upper-endoscopy]], [[peptic-ulcer-disease]], [[bismuth-quadruple-therapy]], [[vonoprazan]], [[dysphagia]], [[gastric-polyps]]
+[[helicobacter-pylori-infection]], [[dyspepsia]], [[upper-endoscopy]], [[peptic-ulcer-disease]], [[bismuth-quadruple-therapy]], [[vonoprazan]], [[potassium-competitive-acid-blockers]], [[proton-pump-inhibitors]], [[gastric-cancer-screening]], [[dysphagia]], [[gastric-polyps]]
 
 ---
 

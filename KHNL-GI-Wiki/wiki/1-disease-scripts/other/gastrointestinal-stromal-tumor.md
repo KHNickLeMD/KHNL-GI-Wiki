@@ -3,9 +3,21 @@ title: "Gastrointestinal Stromal Tumor (GIST)"
 category: disease-script
 tags: [gist, gastrointestinal-stromal-tumor, subepithelial-lesion, kit, cd117, dog1, pdgfra, sdh-deficient, imatinib, sunitinib, regorafenib, ripretinib, avapritinib, mesenchymal-tumor, nccn, oncology]
 created: 2026-06-18
-updated: 2026-08-13
+updated: 2026-08-30
 sources: [nccn-2026-gist, acg-2023-subepithelial-lesions, asge-2017-subepithelial-lesions]
 ---
+
+## Contents
+- [[#Assessment]]
+  - [[#Establishing the Diagnosis]]
+  - [[#Severity Assessment]]
+  - [[#Classification / Typing]]
+- [[#Differential Diagnosis]]
+- [[#Diagnostics]]
+- [[#Therapeutics]]
+  - [[#NCCN Treatment Algorithm]]
+- [[#See Also]]
+- [[#Sources]]
 
 ## Assessment
 
@@ -94,6 +106,8 @@ flowchart TD
 ```
 
 *Algorithm — NCCN GIST management, recreated in original form (not an NCCN figure). ([[nccn-2026-gist]])*
+
+---
 
 ## See Also
 

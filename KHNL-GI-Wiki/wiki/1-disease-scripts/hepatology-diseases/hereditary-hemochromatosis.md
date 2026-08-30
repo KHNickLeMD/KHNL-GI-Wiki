@@ -3,7 +3,7 @@ title: "Hereditary Hemochromatosis"
 category: disease-script
 tags: [hemochromatosis, iron-overload, hfe, c282y, phlebotomy, liver, hpb, genetics, ferritin, transferrin-saturation, cirrhosis, hcc, arthropathy, cardiomyopathy, endocrine]
 created: 2026-05-19
-updated: 2026-08-26
+updated: 2026-08-30
 sources: [acg-2019-hereditary-hemochromatosis, acg-2017-liver-chemistries, aasld-2011-hemochromatosis]
 ---
 
@@ -255,9 +255,7 @@ sources: [acg-2019-hereditary-hemochromatosis, acg-2017-liver-chemistries, aasld
 - Pre-transplant iron depletion is preferred but inability to de-iron preoperatively is NOT a contraindication to transplantation
 - HCC in the setting of HH: follow standard HCC transplant criteria (Milan criteria and AFP thresholds are stated on [[hepatocellular-carcinoma]])
 
----
-
-## Monitoring
+### Monitoring
 
 - **During induction phlebotomy**: Hgb before each session (maintain >11 g/dL); SF monthly
 - **Maintenance**: SF and TS every 3–6 months; once stable, can extend to annually
@@ -266,9 +264,7 @@ sources: [acg-2019-hereditary-hemochromatosis, acg-2017-liver-chemistries, aasld
 - **Endocrine**: testosterone/LH/FSH if hypogonadism suspected; glucose/HbA1c for diabetes (does not improve with phlebotomy)
 - **Cardiac**: ECG/echocardiography if symptoms or SF >1,000 ng/mL; cardiomyopathy second leading cause of HH mortality
 
----
-
-## Prognosis
+### Prognosis
 
 - **Without cirrhosis**: survival not different from general population
 - **With cirrhosis**: significantly reduced survival; HCC accounts for ~45% of deaths

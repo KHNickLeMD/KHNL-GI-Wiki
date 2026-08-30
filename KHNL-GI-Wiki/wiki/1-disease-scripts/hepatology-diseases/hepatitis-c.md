@@ -3,7 +3,7 @@ title: "Hepatitis C"
 category: disease-script
 tags: [hepatitis-c, HCV, direct-acting-antivirals, DAA, cirrhosis, HCC, SVR, glecaprevir, pibrentasvir, sofosbuvir, velpatasvir, fibrosis, liver, antiviral, screening]
 created: 2026-05-28
-updated: 2026-08-14
+updated: 2026-08-30
 sources: [aasld-idsa-2023-hcv, aasld-idsa-2011-hcv-genotype1]
 ---
 
@@ -41,8 +41,11 @@ Fibrosis staging before treatment to guide duration, regimen selection, and post
 
 **Cirrhosis determination for treatment selection:**
 
-- Cirrhosis assumed if: liver stiffness >12.5 kPa, FIB-4 >3.25, [[noninvasive-liver-disease-assessment|noninvasive serologic test]] (FibroSure/ELF) positive, liver biopsy, liver nodularity/splenomegaly on imaging, or platelet <150,000/mm³
-- **Decompensated cirrhosis:** Child-Pugh ≥7 (presence of [[ascites]], [[hepatic-encephalopathy|HE]], total bilirubin >2.0 mg/dL, albumin ≤3.5 g/dL, or INR ≥1.7) — affects regimen selection (NS3/4A protease inhibitors contraindicated)
+- Cirrhosis assumed if **any one** of: [[liver-stiffness-measurement|liver stiffness]] >12.5 kPa; FIB-4 >3.25; [[noninvasive-liver-disease-assessment|noninvasive serologic test]] (FibroSure/ELF) positive; [[liver-biopsy|liver biopsy]]; liver nodularity/splenomegaly on imaging; platelet <150,000/mm³
+  - *Gap: [[aasld-idsa-2023-hcv]] gives no numeric cut-off for "FibroSure/ELF positive" — the other five criteria are quantified, this one is not. Use the reporting lab's own threshold.*
+- **Decompensated cirrhosis = Child-Turcotte-Pugh class B or C (total score ≥7).** ⚠ CTP is a **point sum across five variables** — [[ascites]], [[hepatic-encephalopathy|HE]], total bilirubin, albumin, INR — **not** a "presence of any one of" rule. A single abnormal variable (e.g. albumin 3.4 g/dL alone) does **not** make a patient decompensated. Score the full table on [[cirrhosis]].
+  - Clinical anchors that commonly drive a class B/C score: ascites, HE, bilirubin >2.0 mg/dL, albumin ≤3.5 g/dL, INR ≥1.7.
+  - **Decision this gates:** NS3/4A protease inhibitors (glecaprevir, voxilaprevir, grazoprevir) are **contraindicated** in decompensated ([[cirrhosis|CTP B/C]]) disease — see Therapeutics.
 
 ---
 

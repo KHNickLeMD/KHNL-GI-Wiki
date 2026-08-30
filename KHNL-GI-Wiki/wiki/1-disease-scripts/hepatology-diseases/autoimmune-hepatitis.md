@@ -3,7 +3,7 @@ title: "Autoimmune Hepatitis"
 category: disease-script
 tags: [aih, autoimmune, hepatitis, liver, hpb, igg, immunosuppression, pregnancy, azathioprine, budesonide, mycophenolate-mofetil, mmf, tacrolimus, overlap-syndrome, pbc, psc, cirrhosis, liver-transplant]
 created: 2026-05-16
-updated: 2026-08-26
+updated: 2026-08-30
 sources: [acg-2017-liver-chemistries, acg-2016-liver-disease-pregnancy, aasld-2020-autoimmune-hepatitis]
 ---
 
@@ -50,8 +50,8 @@ AIH is an immune-mediated hepatitis characterized by elevated aminotransferases,
 
 - In children, simplified criteria: sensitivity 77%, specificity 95%; ~17% false negatives, associated with seronegative AIH
 - Reassess with the **revised** system whenever the simplified system yields a low score
-- **Neither system should be used to assess overlap syndromes**; both lack prospective validation and are inaccurate in concurrent PSC/PBC/MASLD-MASH, post-LT, or fulminant failure
-- *Gap: the point values of the simplified score sit in the guidance's Supporting Table S2, which is not in the ingested PDF — currently uncited on this page. Would need the Hennes 2008 primary paper ingested.*
+- **Neither system should be used to assess overlap syndromes**; both lack prospective validation and are inaccurate in concurrent [[primary-sclerosing-cholangitis|PSC]]/[[primary-biliary-cholangitis|PBC]]/[[nafld-masld|MASLD-MASH]], post-LT, or fulminant failure
+- *Gap: **neither score is computable from this page.** The point values of the **simplified** score sit in the guidance's Supporting Table S2, which is not in the ingested PDF; the **revised 1999** criteria — the fallback the page directs you to when the simplified score is low — are absent entirely, as are the numeric bands for "low score", "probable", and "definite". Would need the Hennes 2008 and Alvarez 1999 primary papers ingested.*
 
 **Key histologic features:**
 
@@ -272,7 +272,7 @@ Requires **2 of the 3 PBC criteria**, plus — on a background of **interface he
 
 - Incidence: **8–12% within the first year after LT; 36–68% after 5 years**
 - Diagnosis: rising AST/ALT/IgG + same autoantibodies as pre-LT AIH (ANA/SMA common, anti-LKM1 rare); histology is lobular hepatitis/focal necrosis/pseudorosettes early → interface hepatitis + lymphoplasmacytic infiltration late. May be detectable **only** on biopsy
-- Treatment: predniso(lo)ne **30 mg daily** + AZA 1–2 mg/kg daily, reducing predniso(lo)ne to 5–10 mg daily over 4–8 weeks, then predniso(lo)ne + AZA maintenance; continue the calcineurin inhibitor. Empiric rescue: swap AZA→MMF, switch calcineurin inhibitor, or rapamycin
+- Treatment: predniso(lo)ne **30 mg daily** + AZA 1–2 mg/kg daily, reducing predniso(lo)ne to 5–10 mg daily over 4–8 weeks, then predniso(lo)ne + AZA maintenance; continue the [[calcineurin-inhibitors|calcineurin inhibitor]]. Empiric rescue: swap AZA→MMF, switch calcineurin inhibitor, or rapamycin
 - Outcomes: 5-y patient survival 86–100%; graft failure 8–50%; retransplantation 33–60%; AIH recurs in the retransplanted liver in 33–100%
 - AIH recipients have more acute and chronic rejection than other indications (late acute rejection 9%; chronic rejection 14–17% vs 2% in alcohol-associated cirrhosis)
 - Gradual glucocorticoid withdrawal per center-specific protocol post-LT (Conditional, Very Low certainty)
@@ -297,7 +297,7 @@ See [[liver-transplantation]] for broader post-LT context.
 
 ## See Also
 
-[[abnormal-liver-chemistries]], [[jaundice]], [[drug-induced-liver-injury]], [[primary-biliary-cholangitis]], [[primary-sclerosing-cholangitis]], [[wilson-disease]], [[hereditary-hemochromatosis]], [[acute-liver-failure]], [[liver-disease-in-pregnancy]], [[liver-transplantation]], [[alcohol-associated-liver-disease]], [[hcc-surveillance]], [[tacrolimus]], [[portal-hypertension]], [[portal-vein-thrombosis]], [[hepatic-encephalopathy]], [[cirrhosis]], [[liver-biopsy]], [[liver-stiffness-measurement]], [[mri-mrcp]], [[ercp]], [[celiac-disease]], [[inflammatory-bowel-disease]], [[cholangiocarcinoma]], [[hepatitis-c]]
+[[abnormal-liver-chemistries]], [[jaundice]], [[drug-induced-liver-injury]], [[primary-biliary-cholangitis]], [[primary-sclerosing-cholangitis]], [[wilson-disease]], [[hereditary-hemochromatosis]], [[acute-liver-failure]], [[liver-disease-in-pregnancy]], [[liver-transplantation]], [[alcohol-associated-liver-disease]], [[hcc-surveillance]], [[tacrolimus]], [[portal-hypertension]], [[portal-vein-thrombosis]], [[hepatic-encephalopathy]], [[cirrhosis]], [[liver-biopsy]], [[liver-stiffness-measurement]], [[mri-mrcp]], [[ercp]], [[celiac-disease]], [[inflammatory-bowel-disease]], [[cholangiocarcinoma]], [[hepatitis-c]], [[nafld-masld]], [[calcineurin-inhibitors]]
 
 ---
 

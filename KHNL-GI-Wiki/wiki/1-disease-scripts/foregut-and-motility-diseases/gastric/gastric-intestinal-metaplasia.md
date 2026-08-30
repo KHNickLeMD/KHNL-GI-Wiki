@@ -3,8 +3,8 @@ title: "Gastric Intestinal Metaplasia"
 category: disease-script
 tags: [gastric-intestinal-metaplasia, gim, gastric-cancer, h-pylori, correa-cascade, premalignant, foregut, gastric]
 created: 2026-05-16
-updated: 2026-08-26
-sources: [aga-2020-gastric-intestinal-metaplasia, acg-2025-gastric-premalignant, aga-2021-atrophic-gastritis]
+updated: 2026-08-30
+sources: [aga-2020-gastric-intestinal-metaplasia, acg-2025-gastric-premalignant, aga-2021-atrophic-gastritis, aga-2026-gastric-polyps]
 ---
 
 ## Contents
@@ -120,6 +120,9 @@ sources: [aga-2020-gastric-intestinal-metaplasia, acg-2025-gastric-premalignant,
 | **ACG 2025 GPMC** | Surveillance **q3y for high-risk GIM** and for severe GIM/AG in antrum or corpus (both Conditional/Very Low); **against surveillance for low-risk GIM or mild AG** |
 | **AGA 2021 Atrophic Gastritis** | Surveillance at 3 years for OLGA/OLGIM III/IV |
 | **ESGE** *(not an ingested guideline — as summarized inside [[aga-2020-gastric-intestinal-metaplasia]])* | Strong rec: surveillance **every 3 years** for severe gastric atrophy or GIM in **both antrum and body** and/or OLGA/OLGIM III–IV. Weak rec: surveillance at 3 years for **single-location GIM plus** family history of GC, incomplete GIM, or persistent H. pylori gastritis. Weak rec: consider **1–2-year** surveillance for family history plus those findings. GIM at a single location alone does **not** justify surveillance in most cases |
+| **AGA 2026 Gastric Polyps** | Targeted biopsies **q3y** considered for persistent H. pylori, advanced atrophic gastritis with **incomplete** GIM, or **mild/focal GIM *with* family history of GC**. But: **do not intensify surveillance for ethnicity or family history *alone*** — see the contradiction below |
+
+> ⚠ **Contradiction — does demography alone justify surveillance?** [[acg-2025-gastric-premalignant|ACG 2025]] makes family history of GC, foreign birth in a high-GC country, or high-risk race/ethnicity **each independently sufficient** to reclassify otherwise-limited complete-type GIM as high-risk → q3y. [[aga-2026-gastric-polyps|AGA 2026]] states the opposite for those factors standing alone: *"the frequency of surveillance should not be altered"* on ethnicity or family history, because there is little evidence the association is mediated by anything other than gastric mucosal status. The two are **not** cleanly reconcilable, but they do converge where demography is **combined with a mucosal finding** — AGA 2026 itself endorses q3y for mild/focal GIM **plus** family history, which is also ACG 2025's practice. Per source priority (same tier, newer wins) the **AGA 2026 position governs the isolated-demography case**: a patient with limited, complete-type GIM and no mucosal risk factor is not upgraded by ethnicity or family history by itself. Population-level risk stratification for *screening* (a different decision) lives on [[gastric-cancer-screening]].
 
 **ACG 2025 risk definitions:**
 
@@ -131,8 +134,9 @@ sources: [aga-2020-gastric-intestinal-metaplasia, acg-2025-gastric-premalignant,
 **Practical approach (incorporating all guidelines):**
 
 - ALL patients: [[test-and-treat|test and treat]] H. pylori
-- **Low-risk GIM** (limited, complete-type, no family history, low-risk ethnicity): No routine surveillance; follow up with H. pylori eradication confirmation
-- **High-risk GIM** (any of: incomplete-type, extensive/corpus-involving, OLGA/OLGIM III/IV, family history of GC, high-risk ethnicity/immigrant from high-incidence region): Shared decision-making for surveillance; if proceeding, EGD every 3 years with Sydney protocol biopsies
+- **Low-risk GIM** (limited to antrum, complete-type, no other mucosal risk factor): No routine surveillance; follow up with H. pylori eradication confirmation. Per [[aga-2026-gastric-polyps|AGA 2026]], **family history or ethnicity alone does not move a patient out of this group** — see the contradiction note above
+- **High-risk GIM by mucosal findings** (any of: incomplete-type, extensive/corpus-involving, OLGA/OLGIM III/IV, persistent H. pylori): Shared decision-making for surveillance; if proceeding, EGD every 3 years with Sydney protocol biopsies
+- **Mucosal finding *plus* demography** (e.g. mild/focal GIM + family history of GC; extensive GIM + family history): q3y, and consider shortening to **q1–2y** when multiple risk factors stack — the one band where ACG 2025 and AGA 2026 agree
 
 ### 3. Monitoring After H. pylori Eradication
 
@@ -162,5 +166,6 @@ sources: [aga-2020-gastric-intestinal-metaplasia, acg-2025-gastric-premalignant,
 ## Sources
 
 1. [[aga-2020-gastric-intestinal-metaplasia|AGA 2020 Clinical Practice Update: Management of Gastric Intestinal Metaplasia]]
-2. [[acg-2025-gastric-premalignant|ACG 2025 Guideline: Diagnosis and Management of Gastric Premalignant Conditions]]
+2. [[acg-2025-gastric-premalignant|ACG 2025: Diagnosis and Management of Gastric Premalignant Conditions]]
 3. [[aga-2021-atrophic-gastritis|AGA 2021: Diagnosis and Management of Atrophic Gastritis]]
+4. [[aga-2026-gastric-polyps|AGA Clinical Practice Update on Management of Gastric Polyps: Expert Review]]

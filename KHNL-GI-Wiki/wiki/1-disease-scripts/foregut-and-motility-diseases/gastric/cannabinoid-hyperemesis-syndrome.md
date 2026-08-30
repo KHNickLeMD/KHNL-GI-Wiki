@@ -3,7 +3,7 @@ title: "Cannabinoid Hyperemesis Syndrome (CHS)"
 category: disease-script
 tags: [cannabinoid-hyperemesis-syndrome, chs, cyclic-vomiting-syndrome, cannabis, dgbi, capsaicin, amitriptyline, foregut]
 created: 2026-07-18
-updated: 2026-08-28
+updated: 2026-08-30
 sources: [aga-2024-chs, aga-2024-cvs, rome-v-2026-dgbi]
 ---
 
@@ -116,4 +116,4 @@ Outpatient DDx after excluding structural disease:
 
 1. [[aga-2024-chs|AGA Clinical Practice Update on Diagnosis and Management of Cannabinoid Hyperemesis Syndrome (2024)]]
 2. [[aga-2024-cvs|AGA Clinical Practice Update on Diagnosis and Management of Cyclic Vomiting Syndrome (2024)]]
-3. [[rome-v-2026-dgbi|Rome V: Disorders of Gut–Brain Interaction and the Rome V Process]]
+3. [[rome-v-2026-dgbi|Disorders of Gut–Brain Interaction and the Rome V Process]]

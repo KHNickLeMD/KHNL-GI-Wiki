@@ -3,7 +3,7 @@ title: "Ulcerative Colitis"
 category: disease-script
 tags: [uc, ulcerative-colitis, ibd, 5-asa, biologics, anti-tnf, vedolizumab, asuc, pancolitis, proctitis]
 created: 2026-05-07
-updated: 2026-08-27
+updated: 2026-08-30
 sources: [acg-2025-uc, aga-2024-uc-pharm, aga-2024-pouchitis, aga-2023-biomarkers-uc, acg-2019-uc, asge-2015-scenic-ibd-dysplasia, asge-2015-ibd, aga-2026-inpatient-ibd, aga-2024-intestinal-ultrasound, aga-2024-diet-nutrition-ibd, aga-2024-ibd-malignancy, aga-2024-pregnancy-gi-liver, aga-2024-fmt]
 ---
 
@@ -401,3 +401,4 @@ Idiopathic chronic inflammatory disorder of the large intestine. Continuous muco
 10. [[aga-2024-diet-nutrition-ibd|AGA Clinical Practice Update on Diet and Nutritional Therapies in Patients With IBD: Expert Review (2024)]]
 11. [[aga-2024-ibd-malignancy|AGA Clinical Practice Update on Management of IBD in Patients With Malignancy: Commentary (2024)]]
 12. [[aga-2024-pregnancy-gi-liver|AGA Clinical Practice Update on Pregnancy-Related Gastrointestinal and Liver Disease: Expert Review (2024)]]
+13. [[aga-2024-fmt|AGA Clinical Practice Guideline: Fecal Microbiota-Based Therapies for Select GI Diseases (2024)]]

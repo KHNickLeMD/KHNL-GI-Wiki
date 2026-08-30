@@ -3,7 +3,7 @@ title: "Ambulatory Reflux Monitoring"
 category: concept
 tags: [gerd, ph-monitoring, impedance, diagnosis, lyon-consensus]
 created: 2026-05-15
-updated: 2026-08-26
+updated: 2026-08-30
 sources: [lyon-2024-gerd-diagnosis, acg-2020-esophageal-physiologic-testing]
 ---
 
@@ -184,27 +184,18 @@ The original endoscopic mucosal impedance devices (catheter through biopsy chann
 
 ## Clinical Decision Framework Summary
 
-```
-Symptomatic patient suspected GERD
-         |
-         ├── UNPROVEN GERD (no prior conclusive evidence)
-         |         |
-         |         ├── Endoscopy (off PPI ≥2–4 weeks)
-         |         |       LA B/C/D, Barrett's, peptic stricture → CONCLUSIVE GERD
-         |         |       LA A or normal → proceed to ambulatory monitoring
-         |         |
-         |         └── Ambulatory monitoring OFF therapy
-         |                 Wireless pH (preferred, 96h) or pH-impedance
-         |                 AET >6% (≥2 days wireless, or catheter) → GERD
-         |                 AET <4% all days + neg SAP/SI → GERD excluded
-         |                 AET <4% all days + pos SAP/SI → Reflux hypersensitivity
-         |                 AET 4–6% → Inconclusive; check reflux episodes, MNBI
-         |
-         └── PROVEN GERD + persisting symptoms on therapy
-                   |
-                   └── pH-Impedance ON optimised therapy
-                           AET >4% AND >80 episodes/day → Refractory GERD
-                           Consider escalation: max PPI → ARS/MSA evaluation
+```mermaid
+flowchart TD
+    A["Symptomatic patient,<br/>GERD suspected"] --> B{"Prior conclusive<br/>GERD evidence?"}
+    B -->|"No — UNPROVEN GERD"| C["Endoscopy off PPI ≥2-4 weeks"]
+    C -->|"LA B/C/D, Barrett's,<br/>peptic stricture"| D["CONCLUSIVE GERD"]
+    C -->|"LA A or normal"| E["Ambulatory monitoring OFF therapy<br/>wireless pH (preferred, 96 h)<br/>or pH-impedance"]
+    E -->|"AET >6% (≥2 days wireless, or catheter)"| D
+    E -->|"AET <4% all days + negative SAP/SI"| F["GERD excluded"]
+    E -->|"AET <4% all days + positive SAP/SI"| G["Reflux hypersensitivity"]
+    E -->|"AET 4-6%"| H["Inconclusive — check reflux<br/>episode count and MNBI"]
+    B -->|"Yes — PROVEN GERD,<br/>symptoms persist on therapy"| I["pH-impedance ON optimised therapy"]
+    I -->|"AET >4% AND >80 episodes/day"| J["Refractory GERD<br/>escalate: max PPI → ARS / MSA evaluation"]
 ```
 
 ---

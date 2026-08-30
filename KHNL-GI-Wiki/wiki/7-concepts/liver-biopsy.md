@@ -3,8 +3,8 @@ title: "Liver Biopsy"
 category: concept
 tags: [liver-biopsy, hepatology, fibrosis-staging, percutaneous, transjugular, eus-guided, coagulation, complications, specimen-adequacy]
 created: 2026-06-04
-updated: 2026-08-10
-sources: [aasld-2009-liver-biopsy, aga-2021-cirrhosis-coagulation]
+updated: 2026-08-30
+sources: [aasld-2009-liver-biopsy, aga-2021-cirrhosis-coagulation, acg-2025-eus-quality, aga-2023-nafld-noninvasive-biomarkers]
 ---
 
 Liver biopsy is the procedural acquisition of hepatic tissue for histological assessment. Per the AASLD 2009 position paper ([[aasld-2009-liver-biopsy]]), it serves three major roles: **diagnosis**, **prognosis (disease staging, chiefly fibrosis)**, and **guiding therapeutic management**. Although it remains a reference standard, noninvasive tools — serum panels and [[liver-stiffness-measurement|elastography]] ([[noninvasive-liver-disease-assessment|NILDA]]) — increasingly replace it for fibrosis staging, and biopsy is now reserved largely for diagnostic uncertainty or when histology will change management.
@@ -15,7 +15,7 @@ Liver biopsy should be considered when the diagnosis is in question and knowledg
 - **Multiple/coexisting parenchymal diseases** (e.g. steatosis plus [[hepatitis-c|HCV]] or hemochromatosis; overlap syndromes).
 - **Disease-specific roles** — diagnosis, staging, prognosis, or management for [[autoimmune-hepatitis]] (diagnosis, staging, and pre-immunosuppression decisions; portal plasma cell score may predict relapse), [[nafld-masld|NAFLD/MASLD]] (distinguishes steatohepatitis from simple steatosis, stages fibrosis), [[primary-biliary-cholangitis|PBC]] (AMA-negative or suspected overlap; advanced fibrosis predicts poorer UDCA response), [[primary-sclerosing-cholangitis|PSC]] (small-duct disease or overlap), [[wilson-disease|Wilson disease]] (quantitative hepatic copper), [[hereditary-hemochromatosis|hemochromatosis]] (iron quantification, fibrosis staging), and [[drug-induced-liver-injury|DILI]].
 - **Focal/mass lesions** — image-guided biopsy when imaging is indeterminate; core (not aspirate) preferred when neoplasia is suspected. Concerns include sampling error and small tumor-track seeding risk (~0.13%) in [[hepatocellular-carcinoma|HCC]] and [[cholangiocarcinoma]].
-- **[[acute-liver-failure|Acute liver failure]]**, post-transplant allograft dysfunction, and evaluation of cryptogenic [[cirrhosis]].
+- **[[acute-liver-failure|Acute liver failure]]**, post–[[liver-transplantation|liver transplant]] allograft dysfunction, and evaluation of cryptogenic [[cirrhosis]].
 
 ## Approaches
 
@@ -40,7 +40,14 @@ Transvenous biopsy yields smaller specimens (typically 3 cores with a 19-gauge n
 Performed under direct vision (needle device or wedge resection) when the liver is being operated on or visualized. Allows direct hemostatic control and high diagnostic accuracy for cirrhosis, but wedge specimens may overestimate fibrosis (subcapsular) and the approach requires anesthesia and expertise.
 
 ### EUS-Guided
-The AASLD 2009 paper predates routine EUS-guided liver biopsy and does not address it (it notes only experimental NOTES transgastric biopsy). In contemporary practice, [[endoscopic-ultrasound|EUS]]-guided liver biopsy is an established alternative — useful for combining biopsy with other endosonographic evaluation, can sample both lobes, and uses fine-needle biopsy (FNB) core needles to obtain adequate portal tracts. It is included here for completeness; the percutaneous/transvenous recommendations above are the AASLD-graded standards.
+The AASLD 2009 paper predates routine EUS-guided liver biopsy and does not address it (it notes only experimental NOTES transgastric biopsy), so the percutaneous/transvenous recommendations above remain the AASLD-graded standards. [[endoscopic-ultrasound|EUS]]-guided liver biopsy has since become established enough to carry its own **quality benchmarks** ([[acg-2025-eus-quality|ACG/ASGE 2025 EUS quality indicators]]) — the numbers to audit against:
+
+| Benchmark | Target | Grade |
+|---|---|---|
+| Diagnostically adequate EUS-guided liver biopsy (indicator 8) | **≥85%** | 1B — Strong / Moderate |
+| Clinically significant bleeding after EUS liver biopsy (indicator 19) | **<5%** | 1C¹ — Strong / Low |
+
+> **Corpus gap.** No ingested source states the *technique* of EUS-LB (needle gauge/type, number of passes, which lobe(s), portal-tract yield) or compares it head-to-head with the percutaneous or transvenous routes. Claims to that effect were removed at the 2026-08-30 lint as untraceable to a source. A dedicated EUS-guided liver biopsy guideline or the ASGE technology review would be needed.
 
 ## Pre-Procedure Coagulation Assessment
 A central message: **conventional coagulation tests poorly predict post-biopsy bleeding.** There is **no PT-INR or platelet count cutoff** at/above which adverse bleeding can be reliably predicted (Rec 18, Class I/C). Standard US practice often withholds percutaneous biopsy at **PT-INR >1.5**, but the evidence base is weak, and the PT-INR is derived from coumadin-treated reference ranges that don't apply to the rebalanced hemostasis of liver disease (see [[cirrhosis-hemostasis]]).
@@ -71,7 +78,15 @@ Adequacy is essential to justify the procedural risk:
 - **Scoring:** use a simple system — Metavir or Batts-Ludwig (or IASL) — rather than complex Ishak in clinical practice (Rec 28, Class I/C). Sampling variability (discordance by ≥1 stage in ~33% of paired lobes) is a key limitation.
 
 ## Noninvasive Alternatives
-Serum fibrosis panels and elastography (transient/MR) increasingly assess fibrosis without biopsy. At the time of the 2009 paper these were insufficiently precise to replace histology (Rec 29 recommends biopsy "until clearly superior methodologies are developed and validated," Class IIB/C). The AASLD 2024 NILDA guidance has since positioned elastography and serum tests as first-line fibrosis assessment in many settings, narrowing biopsy to diagnostic uncertainty and discordant/indeterminate noninvasive results.
+Serum fibrosis panels and elastography (transient/MR) increasingly assess fibrosis without biopsy. At the time of the 2009 paper these were insufficiently precise to replace histology (Rec 29 recommends biopsy "until clearly superior methodologies are developed and validated," Class IIB/C). The two-tier NIT pathway (**FIB-4 first → if ≥1.3, add a second NIT: VCTE or MRE preferred, ELF if elastography unavailable**) has since displaced biopsy as the routine first step; all cut-offs live on [[noninvasive-liver-disease-assessment]].
+
+**When to biopsy anyway — the three triggers** ([[aga-2023-nafld-noninvasive-biomarkers]], BPA 6):
+
+- NITs are **indeterminate or discordant** with each other
+- NIT results **conflict** with other clinical, laboratory, or radiologic findings
+- An **alternative etiology** of liver disease is suspected
+
+Sequential rule-out (**FIB-4 <1.3 + VCTE <8.0 kPa**) and rule-in (**FIB-4 ≥3.48 + VCTE ≥20 kPa**) cut the proportion needing biopsy from **33% → 19%**.
 
 ## See Also
 
@@ -83,3 +98,5 @@ Serum fibrosis panels and elastography (transient/MR) increasingly assess fibros
 
 1. [[aasld-2009-liver-biopsy|AASLD 2009 Position Paper: Liver Biopsy]]
 2. [[aga-2021-cirrhosis-coagulation|AGA Clinical Practice Guideline: Coagulation Disorders in Cirrhosis (2021)]]
+3. [[acg-2025-eus-quality|ACG/ASGE 2025: Quality Indicators for EUS]]
+4. [[aga-2023-nafld-noninvasive-biomarkers|AGA Clinical Practice Update on the Role of Noninvasive Biomarkers in the Evaluation and Management of Nonalcoholic Fatty Liver Disease: Expert Review (2023)]]

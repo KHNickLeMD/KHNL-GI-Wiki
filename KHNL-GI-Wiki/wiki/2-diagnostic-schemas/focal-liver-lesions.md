@@ -3,7 +3,7 @@ title: "Focal Liver Lesions"
 category: diagnostic-schema
 tags: [focal-liver-lesion, liver, hpb, mri, gadoxetate, ceus, fnh, hca, hemangioma, hcc]
 created: 2026-06-20
-updated: 2026-08-14
+updated: 2026-08-30
 sources: [acg-2024-focal-liver-lesions]
 ---
 
@@ -41,7 +41,7 @@ sources: [acg-2024-focal-liver-lesions]
 
 - **Step 1 — context** *(KC 1)*: prior cancer; constitutional symptoms (weight loss, anorexia, fever); medications (**oral contraceptives, anabolic steroids/androgens**); chronic-liver-disease risk factors; metabolic syndrome features; **sex** (drives adenoma management); labs (liver enzymes, tumor markers, viral hepatitis panel).
 - **Step 2 — multiphasic contrast-enhanced imaging** — **recommended for any FLL of uncertain etiology** *(Rec 1, strong/low)*. The protocol matters:
-  - Must include **late arterial + portal venous + delayed** phases — on CT order a **triple-phase liver protocol** (a routine abdominal CT gives only portal venous); on MRI order a **dynamic post-contrast liver MRI**.
+  - Must include **late arterial + portal venous + delayed** phases — on CT order a **triple-phase liver protocol** (a routine abdominal CT gives only portal venous); on [[mri-mrcp|MRI]] order a **dynamic post-contrast liver MRI**.
   - **MRI vs CT:** no statistically significant difference in diagnostic accuracy, but MRI confers many advantages *(KC 3)*.
   - **Hepatobiliary agent (gadoxetate)** when the question is **FNH vs adenoma** *(Rec 9)*. Otherwise **extracellular agent is favored** (expert opinion) — hepatobiliary agents cause transient dyspnea and give less adequate dynamic-phase enhancement. Once the diagnosis is confirmed, follow-up may use either.
   - **CEUS** is a valid alternative (sens 97.8%, spec 83.9% for characterizing benign FLL).

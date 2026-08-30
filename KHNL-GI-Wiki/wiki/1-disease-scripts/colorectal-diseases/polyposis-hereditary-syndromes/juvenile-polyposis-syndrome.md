@@ -3,7 +3,7 @@ title: "Juvenile Polyposis Syndrome"
 category: disease-script
 tags: [juvenile-polyposis, jps, smad4, bmpr1a, hamartoma, hereditary-crc, hht, upper-gi-cancer, genetic-testing]
 created: 2026-05-19
-updated: 2026-08-27
+updated: 2026-08-30
 sources: [acg-2015-hereditary-gi-cancer, aga-2022-hamartomatous-polyposis]
 ---
 
@@ -65,7 +65,7 @@ Juvenile polyposis syndrome (JPS) is an autosomal-dominant hamartomatous polypos
 - **[[cowden-syndrome]]** — PTEN mutations; macrocephaly; mixed polyp types including ganglioneuromas
 - **Bannayan-Riley-Ruvalcaba syndrome** — PTEN; allelic to Cowden; genital lentigines
 - **[[familial-adenomatous-polyposis]]** — adenomatous polyps; APC gene
-- **Hereditary mixed polyposis syndrome (HMPS)** — mixed juvenile-adenomatous and serrated adenomas; GREM1 duplication; may be misdiagnosed as JPS
+- **[[hereditary-mixed-polyposis-syndrome|Hereditary mixed polyposis syndrome (HMPS)]]** — mixed juvenile-adenomatous and serrated adenomas; GREM1 duplication; may be misdiagnosed as JPS
 
 ---
 
@@ -133,7 +133,7 @@ Juvenile polyposis syndrome (JPS) is an autosomal-dominant hamartomatous polypos
 
 ## See Also
 
-[[peutz-jeghers-syndrome]], [[familial-adenomatous-polyposis]], [[cowden-syndrome]], [[lynch-syndrome]], [[serrated-polyposis-syndrome]], [[colorectal-cancer]], [[colonoscopy]], [[upper-endoscopy]], [[capsule-endoscopy]], [[gastric-adenocarcinoma]], [[gastric-polyps]], [[hereditary-hemorrhagic-telangiectasia]], [[angioectasia]], [[device-assisted-enteroscopy]], [[polypectomy]], [[iron-deficiency-anemia]]
+[[colorectal-polyposis]], [[peutz-jeghers-syndrome]], [[familial-adenomatous-polyposis]], [[cowden-syndrome]], [[lynch-syndrome]], [[serrated-polyposis-syndrome]], [[mutyh-associated-polyposis]], [[hereditary-mixed-polyposis-syndrome]], [[colorectal-cancer]], [[colonoscopy]], [[upper-endoscopy]], [[capsule-endoscopy]], [[gastric-adenocarcinoma]], [[gastric-polyps]], [[hereditary-hemorrhagic-telangiectasia]], [[angioectasia]], [[device-assisted-enteroscopy]], [[polypectomy]], [[iron-deficiency-anemia]]
 
 ---
 

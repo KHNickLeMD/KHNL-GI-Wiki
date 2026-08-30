@@ -3,7 +3,7 @@ title: "HRM Before and After Antireflux Surgery (Padova Classification)"
 category: concept
 tags: [HRM, antireflux-surgery, fundoplication, GERD, esophageal-manometry, EGJ, Padova-classification, PFOO, pseudoachalasia]
 created: 2026-05-15
-updated: 2026-08-14
+updated: 2026-08-30
 sources: [padova-2025-hrm-antireflux]
 ---
 
@@ -95,36 +95,22 @@ Assess whether the HPZ is in the expected infradiaphragmatic position relative t
 
 If no neo-LES/CD separation is present, assess the physiology of the single HPZ:
 
-```
-Single HPZ in expected position
-          │
-          ▼
-Low basal pressure?
-→ YES → Disrupted/Ineffective Wrap
-         → Reflux monitoring (pH-impedance or pH-metry)
-          │
-          ▼
-High basal pressure?
-→ YES → PFOO (tight/twisted wrap)
-         → FLIP + TBE to quantify obstruction; consider revision vs. dilation
-          │
-          ▼
-Normal basal pressure + Elevated IRP?
-→ YES → PFOO (obstructive relaxation failure)
-         → Same as above
-          │
-          ▼
-Normal basal + Normal IRP + 100% failed peristalsis?
-→ YES → Absent contractility
-         → Compare to PRE-OPERATIVE HRM:
-           • Pre-op absent peristalsis → pre-existing condition (not surgery-related)
-           • Pre-op normal → pseudoachalasia OR missed achalasia
-             (requires EndoFLIP + timed barium esophagram + consider esophagram/manometry review)
-          │
-          ▼
-Normal basal + Normal IRP + Intact/normal peristalsis
-→ Expected post-fundoplication findings
-→ If reflux symptoms: proceed to reflux monitoring (pH-impedance)
+```mermaid
+flowchart TD
+    A["Single HPZ in expected position<br/>(no neo-LES / CD separation)"] --> B{"Neo-LES basal pressure?"}
+    B -->|"Low"| C["Disrupted / ineffective wrap"]
+    C --> C1["Reflux monitoring<br/>pH-impedance or pH-metry"]
+    B -->|"High"| D["PFOO — tight / twisted wrap"]
+    B -->|"Normal"| E{"IRP?"}
+    E -->|"Elevated"| F["PFOO — obstructive relaxation failure"]
+    D --> DF["FLIP + TBE to quantify obstruction<br/>consider revision vs dilation"]
+    F --> DF
+    E -->|"Normal"| G{"Peristalsis?"}
+    G -->|"100% failed"| H["Absent contractility<br/>→ compare with PRE-OPERATIVE HRM"]
+    H --> H1["Pre-op absent peristalsis<br/>= pre-existing, not surgery-related"]
+    H --> H2["Pre-op normal<br/>= pseudoachalasia OR missed achalasia<br/>EndoFLIP + timed barium esophagram;<br/>review pre-op esophagram / manometry"]
+    G -->|"Intact / normal"| I["Expected post-fundoplication findings"]
+    I --> I1["If reflux symptoms:<br/>reflux monitoring (pH-impedance)"]
 ```
 
 ---

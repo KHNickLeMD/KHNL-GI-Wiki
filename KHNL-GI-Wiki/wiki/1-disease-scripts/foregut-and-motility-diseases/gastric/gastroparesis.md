@@ -3,7 +3,7 @@ title: "Gastroparesis"
 category: disease-script
 tags: [gastroparesis, gastric-motility, prokinetics, g-poem, gastric-emptying, foregut]
 created: 2026-05-15
-updated: 2026-08-27
+updated: 2026-08-30
 sources: [acg-2022-gastroparesis, aga-2025-gastroparesis, surjanhata-2025-constipation-gastroparesis]
 ---
 
@@ -359,7 +359,7 @@ Before labelling a patient refractory: re-confirm the accuracy of the diagnosis,
 ## Clinical Pearls
 
 - **Treating coexisting slow colonic transit can improve upper-GI symptoms** [[surjanhata-2025-constipation-gastroparesis]]: in patients with GP-type symptoms + slow colonic transit, new/changed [[chronic-idiopathic-constipation|constipation therapy]] improved GCSI (P = 0.007) and constipation scores — driven by the delayed-emptying subgroup (↓ nausea/vomiting, ↓ early satiety). Patients with **normal** colonic transit showed no GCSI benefit. Supports whole-gut evaluation over gastric-emptying testing alone.
-- **Consider repeat SGE if the diagnosis is uncertain** — ~40% of patients are reclassified between GP and functional dyspepsia on repeat GE testing.
+- **Consider repeat SGE if the diagnosis is uncertain** — GP and functional [[dyspepsia]] reclassify in both directions on repeat GE testing (rates in [[#Differential Diagnosis]]).
 - **No FDA-approved therapy for GP beyond metoclopramide (≤12 weeks):** domperidone, erythromycin, 5-HT4 agonists, and antiemetics are all off-label or under expanded access — this is a significant unmet need.
 
 ---
@@ -374,4 +374,4 @@ Before labelling a patient refractory: re-confirm the accuracy of the diagnosis,
 
 1. [[acg-2022-gastroparesis|ACG 2022: Gastroparesis]]
 2. [[aga-2025-gastroparesis|AGA Clinical Practice Guideline: Management of Gastroparesis (2025)]]
-3. [[surjanhata-2025-constipation-gastroparesis|Impact of Constipation Therapies on Severity of Gastroparesis (Neurogastroenterol Motil 2025)]]
+3. [[surjanhata-2025-constipation-gastroparesis|Impact of Constipation Therapies on Severity of Gastroparesis and Constipation Symptoms in Relation to Gastric and Colonic Transit]]

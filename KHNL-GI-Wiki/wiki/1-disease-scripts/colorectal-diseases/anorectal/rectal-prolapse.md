@@ -3,7 +3,7 @@ title: "Rectal Prolapse"
 category: disease-script
 tags: [rectal-prolapse, anorectal, pelvic-floor, rectopexy, solitary-rectal-ulcer-syndrome, defecography]
 created: 2026-06-01
-updated: 2026-08-14
+updated: 2026-08-30
 sources: [acg-2021-anorectal-disorders, aga-2026-hemorrhoids, aga-2026-refractory-constipation, asge-2014-constipation, rome-v-2026-dgbi]
 ---
 
@@ -48,6 +48,8 @@ sources: [acg-2021-anorectal-disorders, aga-2026-hemorrhoids, aga-2026-refractor
 | **Internal intussusception** | **More benign**; may be found in asymptomatic patients | Not an automatic surgical indication; relevant when it is the lead point of a solitary rectal ulcer |
 
 ## Differential Diagnosis
+
+*Workup of the defecatory-symptom presentation: see [[chronic-constipation]]; the prolapse itself is diagnosed by positional examination — see [[#Diagnostics]] below.*
 
 - [[hemorrhoids|Prolapsing hemorrhoids]] — radial folds and engorged vessels vs. circular pink mucosal folds (table above). [[aga-2026-hemorrhoids]]
 - **Mucosal prolapse** and **internal intussusception** — the benign ends of the same spectrum. [[acg-2021-anorectal-disorders]]
@@ -98,7 +100,7 @@ Added caution — worse outcomes reported in: psychiatric disorders; chronic pai
 
 ## See Also
 
-[[defecation-disorders]], [[biofeedback-therapy]], [[anorectal-manometry]], [[chronic-idiopathic-constipation]], [[fecal-incontinence]], [[hemorrhoids]], [[proctalgia-syndromes]], [[colonoscopy]], [[irritable-bowel-syndrome]]
+[[chronic-constipation]], [[defecation-disorders]], [[biofeedback-therapy]], [[anorectal-manometry]], [[chronic-idiopathic-constipation]], [[fecal-incontinence]], [[hemorrhoids]], [[proctalgia-syndromes]], [[colonoscopy]], [[irritable-bowel-syndrome]]
 
 ---
 

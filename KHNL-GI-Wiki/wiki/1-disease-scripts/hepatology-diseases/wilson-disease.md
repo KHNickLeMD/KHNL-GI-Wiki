@@ -3,7 +3,7 @@ title: "Wilson's Disease"
 category: disease-script
 tags: [wilson-disease, copper, atp7b, hepatic, neuropsychiatric, kayser-fleischer, ceruloplasmin, hpb, liver, genetic, pregnancy, chelation, D-penicillamine, trientine, zinc, Leipzig-score, NWI]
 created: 2026-05-19
-updated: 2026-08-14
+updated: 2026-08-30
 sources: [acg-2017-liver-chemistries, acg-2016-liver-disease-pregnancy, aasld-2022-wilson-disease]
 ---
 
@@ -111,7 +111,7 @@ Predicts mortality without LT; uses Bilirubin + INR + AST + WBC + Albumin:
 | **ATP7B genetic analysis** | >90% sensitive for detecting nucleotide changes; direct sequencing of entire gene (21 exons) including promoter region preferred. Most efficient for first-degree relative screening if proband genotype known. Provides confirmation when biochemical testing inconclusive. (GS 11) |
 | **Brain MRI** | "Face of the giant panda sign" (T2 hyperintensity in midbrain); T2 changes in basal ganglia, thalami, white matter, pons. Indicated if neurological evaluation abnormal; may aid diagnosis and exclude other causes. (GS 10) |
 | **Serum uric acid** | May be low in WD due to renal tubular dysfunction (Fanconi syndrome) |
-| **Leipzig score** | Composite diagnostic scoring (full point table under Severity Assessment above) — score ≥4 = WD highly likely; 2–3 = probable; 0–1 = unlikely (GS 12) |
+| **Leipzig score** | Composite diagnostic score — point table and interpretation bands under [[#Severity Assessment]] above (GS 12) |
 
 **ALF due to WD — Korman Biochemical Criteria (100% sensitive and specific in adults):**
 

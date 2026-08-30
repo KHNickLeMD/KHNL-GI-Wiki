@@ -3,7 +3,7 @@ title: "Endoscopic Ultrasound (EUS)"
 category: advanced-procedure
 tags: [eus, endoscopic-ultrasound, fna, fnb, pancreatic-mass, pancreatic-cysts, ipmn, mcn, biliary-drainage, eus-guided-drainage, quality-indicators, gastroenterostomy]
 created: 2026-05-07
-updated: 2026-08-26
+updated: 2026-08-30
 sources: [acg-2025-eus-quality, acg-2018-pancreatic-cysts, asge-2024-solid-pancreatic-masses, asge-2011-eus-mediastinal-adenopathy, aga-2022-recurrent-pancreatitis-endoscopy, colan-hernandez-2020-eus-fna-panc-cyst-antibiotics, wang-2026-eus-ppg-delphi-consensus]
 ---
 
@@ -90,6 +90,8 @@ Note: Therapeutic EUS now accounts for >50% of accepted EUS indications. Indicat
 
 ### FNA vs FNB — Diagnostic Yield
 
+**Needle choice (solid pancreatic masses):** use **EUS-FNB over FNA** — higher diagnostic yield/adequacy, more tissue for ancillary testing, fewer passes; **22-gauge** needles are reasonable, and **rapid on-site evaluation (ROSE) is not mandatory when FNB is used** (conditional recommendations, [[asge-2024-solid-pancreatic-masses]]). Needle-tip design, pass counts, and specimen media live on [[pancreatic-cancer]] — one home, not repeated here. For malignant distal biliary obstruction from a pancreatic head mass, prefer **self-expandable metal stents over plastic** for durable drainage (coordinate with ERCP).
+
 The ≥87% sampling target rests on these pooled figures ([[acg-2025-eus-quality]]):
 
 | Measure | Value |
@@ -97,7 +99,7 @@ The ≥87% sampling target rests on these pooled figures ([[acg-2025-eus-quality
 | Pooled diagnostic accuracy — **FNB** | **87% (95% CI 85–89)** |
 | Pooled diagnostic accuracy — **FNA** | **80% (95% CI 78–82)** |
 | Pooled sensitivity / specificity (EUS-guided sampling) | **85% (84–86) / 98% (97–99)**; in a later analysis **86.8% (85.5–87.9) / 95.8% (94.6–96.7)** |
-| EUS detection of [[pancreatic-cancer\|pancreatic cancer]] | sensitivity **93–100%**, specificity **53–100%** |
+| EUS detection of pancreatic cancer | sensitivity **93–100%**, specificity **53–100%** |
 | EUS in suspected pancreatic cancer with **indeterminate multidetector CT** (meta-analysis, 206 subjects; mean lesion 2.1 ± 0.12 cm) | sensitivity **85% (69–94)**, specificity **58% (40–74)** — the specificity collapse is why EUS resolves a CT-indeterminate gland only in one direction |
 | EUS-FNA in [[chronic-pancreatitis\|chronic pancreatitis]] | **sensitivity is lower** — stated qualitatively only; ⚠ no number given in any ingested source (elastography is being explored for this setting) |
 

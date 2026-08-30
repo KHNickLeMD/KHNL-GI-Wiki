@@ -3,7 +3,7 @@ title: "Interventional EUS for Vascular Investigation and Therapy"
 category: advanced-procedure
 tags: [eus, gastric-varices, coil-embolization, cyanoacrylate, eus-ppg, portal-pressure-gradient, portal-vein-sampling, pseudoaneurysm, splenic-artery-embolization, rectal-varices, portal-hypertension]
 created: 2026-07-23
-updated: 2026-08-14
+updated: 2026-08-30
 sources: [aga-2023-interventional-eus-vascular, wang-2026-eus-ppg-delphi-consensus]
 ---
 
@@ -39,7 +39,7 @@ sources: [aga-2023-interventional-eus-vascular, wang-2026-eus-ppg-delphi-consens
 
 ## EUS-Guided Gastric Variceal Therapy
 
-- Gastric variceal hemorrhage is less prevalent than esophageal but often more severe and higher-mortality. **Cardiofundal varices (IGV1, GOV2)** are the hardest endoscopic targets — large, awkwardly located, requiring a clear retroflexed field of view; intravascular needle placement during direct endoscopic injection (DEI) may be inaccurate.
+- Gastric variceal hemorrhage is less prevalent than esophageal but often more severe and higher-mortality. **Cardiofundal varices (IGV1, GOV2 — [[portal-hypertension|Sarin classification criteria]])** are the hardest endoscopic targets — large, awkwardly located, requiring a clear retroflexed field of view; intravascular needle placement during direct endoscopic injection (DEI) may be inaccurate.
 - **Why EUS guidance:** better injection precision (including during active bleeding when direct visualization fails), expands options to **hemostatic coils**, and gives **real-time Doppler feedback of hemostasis**.
 - Coils: soft platinum wire with spaced synthetic fibers (IR embolization coils — Nester or MReye, Cook); intravascular placement is postulated to initiate thrombus and act as a scaffold for subsequently injected cyanoacrylate, minimizing postprocedure embolic events.
 - **Not FDA approved.** Treatment decisions should be multidisciplinary with hepatology and interventional radiology (which offers BRTO and [[tips|TIPS]] for the same lesions — see [[variceal-upper-gi-bleeding]]).
@@ -76,7 +76,7 @@ sources: [aga-2023-interventional-eus-vascular, wang-2026-eus-ppg-delphi-consens
 
 ## EUS-Guided Portal Pressure Gradient (EUS-PPG)
 
-- Standard **HVPG** (interventional radiology, transjugular) measures the portal gradient **indirectly** — free hepatic vein pressure minus wedged hepatic vein pressure. Drawbacks: requires radiation and contrast; being indirect it can **misdiagnose noncirrhotic/presinusoidal [[portal-hypertension|portal hypertension]]**.
+- Standard **HVPG** (interventional radiology, transjugular) measures the portal gradient **indirectly** — free hepatic vein pressure minus wedged hepatic vein pressure. Drawbacks: requires radiation and contrast; being indirect it can **misdiagnose noncirrhotic/presinusoidal portal hypertension**.
 - Reference thresholds cited: **HVPG >10 mm Hg** correlates with development of esophageal varices; **HVPG >12 mm Hg** with increased risk of bleeding esophageal varices. (Full HVPG staging is on [[portal-hypertension]].)
 - **EUS-PPG measures the hepatic vein–portal vein gradient directly**, using the FDA-approved EchoTip Insight system (Cook).
 

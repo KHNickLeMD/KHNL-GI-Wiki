@@ -3,7 +3,7 @@ title: "Antibody-Mediated Rejection — Liver Transplant"
 category: disease-script
 tags: [antibody-mediated-rejection, amr, liver-transplant, rejection, dsa, c4d, immunosuppression]
 created: 2026-05-25
-updated: 2026-08-25
+updated: 2026-08-30
 sources: [aasld-ast-2025-liver-transplant-graft-complications]
 ---
 
@@ -12,12 +12,11 @@ Rejection of a liver allograft mediated by **donor-specific antibodies (DSA)** a
 ## Contents
 - [[#Assessment]]
   - [[#Establishing the Diagnosis]]
+  - [[#Severity Assessment]]
   - [[#Classification / Typing]]
 - [[#Differential Diagnosis]]
 - [[#Diagnostics]]
 - [[#Therapeutics]]
-- [[#See Also]]
-- [[#Sources]]
 
 ## Assessment
 
@@ -26,6 +25,13 @@ Rejection of a liver allograft mediated by **donor-specific antibodies (DSA)** a
 **Acute AMR — Rec 47 (Strong, Level 3):** suspect in a recipient with **unexplained graft dysfunction + thrombocytopenia + hypocomplementemia**; obtain **DSA testing and liver biopsy with C4d staining** for the signature histologic features.
 
 **Chronic AMR — Rec 50 (Strong, Level 4):** diagnosis is challenging; workup should include **DSA** and typical liver-biopsy findings, and **other liver diseases causing a similar injury pattern must be excluded**.
+
+### Severity Assessment
+
+- **DSA titre — what counts as "elevated":** preformed DSA of potential clinical significance was **tentatively defined as MFI ≥5,000** at the 2015 Banff Conference. ⚠ The positivity cutoff **varies by laboratory** and the optimal range is undetermined — the reason Rec 55 declines routine pre-transplant DSA testing (see [[#Diagnostics]]). Interpret an MFI only against the reporting lab's own threshold.
+- **Acute AMR** — graded clinically by depth of unexplained graft dysfunction, thrombocytopenia, and hypocomplementemia; the guideline provides no numeric scale.
+- **Chronic AMR** — occurs in **<10%** of [[liver-transplantation|liver transplant]] recipients; most episodes are **mixed chronic AMR + TCMR**, which is why the features are hard to characterize. Endpoint is graft fibrosis and graft loss.
+- *Gap: no Banff AMR grading (h-score, C4d 0–3, Rejection Activity Index) is in any ingested source — a Banff Working Group consensus paper would be needed. [[liver-transplantation]] carries the same gap for the TCMR Rejection Activity Index.*
 
 ### Classification / Typing
 
@@ -36,9 +42,10 @@ Histologic signature features ([[aasld-ast-2025-liver-transplant-graft-complicat
 | Histology | 1. Endothelial hypertrophy<br/>2. Portal capillary dilatation<br/>3. Microvasculitis<br/>4. Periportal edema | 1. Unexplained mononuclear and/or perivenular inflammation<br/>2. Low-grade interface and/or perivenular necroinflammatory activity<br/>3. Moderate portal/periportal sinusoidal and/or perivenular fibrosis<br/>4. Nodular regenerative hyperplasia and obliterative arteriopathy in some cases |
 | C4d | Staining in **sinusoidal endothelium**; portal vein/capillary + sinusoidal endothelial staining is **most specific** for acute AMR | **Focal** C4d staining in **>10%** of portal tract endothelia |
 | DSA | **Elevated titers** | Elevated titers in **some** cases; typically **de novo class II, especially DQ** |
-| Other | Unexplained graft dysfunction, thrombocytopenia, hypocomplementemia, circulating immune complexes, vasculitis on biopsy | Occurs in **<10%** of LT recipients; most episodes are **mixed chronic AMR + TCMR**, which is why features are hard to characterize |
+| Other | Unexplained graft dysfunction, thrombocytopenia, hypocomplementemia, circulating immune complexes, vasculitis on biopsy | Frequently coexists with TCMR (see [[#Severity Assessment]]) |
 
 - **Chronic AMR score** — histologic findings + presence of DSA + exclusion of other etiologies; associated with graft loss, **AUC 0.70–0.81**.
+  - *Gap: [[aasld-ast-2025-liver-transplant-graft-complications]] names the score and its AUC but gives no component list, point values, or cut-off — the original chronic-AMR score derivation paper is not ingested. Do not score from this page.*
 
 ## Differential Diagnosis
 
@@ -59,7 +66,7 @@ Histologic signature features ([[aasld-ast-2025-liver-transplant-graft-complicat
 
 **Acute AMR**
 
-- **Rec 48 (Strong, Level 3) — initial:** **high-dose corticosteroids** + **augmentation of existing immunosuppression**, with or without adding an immunosuppressant **from a different class**. Augmentation includes switching cyclosporine → [[tacrolimus]] where applicable; the added class is an antimetabolite or mTOR inhibitor.
+- **Rec 48 (Strong, Level 3) — initial:** **high-dose corticosteroids** + **augmentation of existing immunosuppression**, with or without adding an immunosuppressant **from a different class**. Augmentation includes switching cyclosporine → [[tacrolimus]] ([[calcineurin-inhibitors|CNI]] switch) where applicable; the added class is an antimetabolite or mTOR inhibitor.
 - **Rec 49 (Weak, Level 4) — refractory:** **IV immunoglobulin + plasma exchange, with or without anti-CD20 agents**, may be considered. Rituximab, bortezomib, and/or eculizumab have been used, but efficacy and safety data are lacking.
 
 **Chronic AMR**
@@ -76,6 +83,8 @@ Histologic signature features ([[aasld-ast-2025-liver-transplant-graft-complicat
 - Limited by severe TCMR, AMR, hyperacute rejection, hepatic artery thrombosis, hepatic necrosis, and biliary complications. Desensitization protocols (rituximab, plasmapheresis before and immediately after LT) are still being developed; no conclusive data support induction immunosuppression in this population.
 
 **Evidence quality:** treatment data are retrospective, from small single-center series, pediatric recipients, or ABO-incompatible LT — no RCT-level evidence for any AMR treatment in liver transplantation.
+
+---
 
 ## See Also
 

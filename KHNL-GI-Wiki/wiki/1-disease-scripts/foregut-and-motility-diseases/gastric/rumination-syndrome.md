@@ -3,7 +3,7 @@ title: "Rumination Syndrome"
 category: disease-script
 tags: [rumination-syndrome, regurgitation, dgbi, gastroduodenal, high-resolution-manometry, impedance, postprandial, foregut]
 created: 2026-06-08
-updated: 2026-08-26
+updated: 2026-08-30
 sources: [rome-v-2026-dgbi, acg-2020-esophageal-physiologic-testing]
 ---
 
@@ -12,6 +12,7 @@ sources: [rome-v-2026-dgbi, acg-2020-esophageal-physiologic-testing]
 ## Contents
 - [[#Assessment]]
   - [[#Establishing the Diagnosis]]
+  - [[#Severity Assessment]]
   - [[#Pathophysiology]]
 - [[#Differential Diagnosis]]
 - [[#Diagnostics]]
@@ -35,6 +36,11 @@ sources: [rome-v-2026-dgbi, acg-2020-esophageal-physiologic-testing]
 - Regurgitant is **recognized food with a pleasant taste** (not acidic/digested)
 
 It is classified in **Rome V among the gastroduodenal [[disorders-of-gut-brain-interaction|disorders of gut–brain interaction]] (B4)** ([[rome-v-2026-dgbi]]) — a behavioral condition, not a primary structural or motility disease.
+
+### Severity Assessment
+
+- **No severity score, stratum, or grading system for rumination syndrome exists in any ingested source** — neither [[acg-2020-esophageal-physiologic-testing]] (diagnosis only) nor the ingested [[rome-v-2026-dgbi]] material (introduction/process article, which places rumination at **B4** without printing the criteria) grades it. No threshold is asserted here because none is sourced.
+- The only ordinal element that *is* sourced is the manometric bar itself: an **intragastric pressure rise >30 mm Hg** with proximal movement of gastric content during a recognized episode (see [[#Postprandial High-Resolution Impedance Manometry (HRIM) — Diagnostic Standard]]) — a diagnostic threshold, not a severity grade.
 
 ### Pathophysiology
 
@@ -91,5 +97,5 @@ Rumination syndrome is a **clinical diagnosis**; objective testing confirms it i
 
 ## Sources
 
-1. [[rome-v-2026-dgbi|Rome V: Disorders of Gut–Brain Interaction (Gastroduodenal — B4 Rumination Syndrome)]]
+1. [[rome-v-2026-dgbi|Disorders of Gut–Brain Interaction and the Rome V Process]]
 2. [[acg-2020-esophageal-physiologic-testing|ACG 2020: Clinical Use of Esophageal Physiologic Testing]]

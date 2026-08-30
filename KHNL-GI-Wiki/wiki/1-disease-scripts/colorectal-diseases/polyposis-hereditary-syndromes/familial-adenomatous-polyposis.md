@@ -3,7 +3,7 @@ title: "Familial Adenomatous Polyposis"
 category: disease-script
 tags: [fap, apc, afap, map, mutyh, hereditary-crc, polyposis, duodenal-adenoma, desmoid, spigelman, genetic-testing, colorectal-cancer]
 created: 2026-05-19
-updated: 2026-08-27
+updated: 2026-08-30
 sources: [acg-2015-hereditary-gi-cancer, asge-2020-fap]
 ---
 
@@ -64,6 +64,7 @@ Familial adenomatous polyposis (FAP) and its related syndromes — attenuated FA
 - Biallelic MAP lifetime CRC risk approaches **80%**; risk is **28-fold** the general population [[asge-2020-fap]]
 - **Monoallelic (heterozygous) MUTYH carriers:** minimal or no additional risk over biallelic-negative individuals, and [[acg-2015-hereditary-gi-cancer|ACG 2015]] states there is **no consensus** that monoallelic mutations warrant increased screening. One cohort did find increased CRC risk in monoallelic carriers **who also had an FDR with CRC** — for that subgroup [[asge-2020-fap|ASGE 2020]] Table 3 advises **colonoscopy from age 40, or 10 years before the FDR's age at CRC diagnosis, every 5 years** *(low quality)*. For a monoallelic carrier with **no** family history of CRC, ASGE lists the appropriate age and interval as **unknown**
 - CRC location in MAP is unsettled: [[acg-2015-hereditary-gi-cancer|ACG 2015]] notes it has been **predominantly distal in some studies and proximal in others**, while the newer [[asge-2020-fap|ASGE 2020]] reports a **right-sided preponderance** for both polyps and cancer. Multiple hyperplastic and/or sessile serrated adenomas may co-occur
+
 **Polymerase proofreading-associated polyposis (PPAP — POLE / POLD1)** — a *separate* newly described syndrome, not a MAP variant [[acg-2015-hereditary-gi-cancer]]:
 
 - Phenotype: **oligo-adenomatous polyposis** + early-onset colorectal **and endometrial** cancer; dominantly inherited; penetrance appears high

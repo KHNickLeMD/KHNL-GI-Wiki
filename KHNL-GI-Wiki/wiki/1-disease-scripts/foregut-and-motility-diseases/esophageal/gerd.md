@@ -3,7 +3,7 @@ title: "Gastroesophageal Reflux Disease"
 category: disease-script
 tags: [gerd, reflux, esophageal, foregut, motility]
 created: 2026-05-15
-updated: 2026-08-28
+updated: 2026-08-30
 sources: [asge-2024-gerd, acg-2021-gerd, sages-2021-gerd-surgery, lyon-2024-gerd-diagnosis, aga-2024-pcab, aga-2023-extraesophageal-gerd]
 ---
 
@@ -261,7 +261,7 @@ Recommend for all patients with GERD symptoms:
 
 ## Sources
 
-1. [[asge-2024-gerd|ASGE Guideline on the Diagnosis and Management of GERD (2025)]]
+1. [[asge-2024-gerd|ASGE 2024: Diagnosis and Management of GERD]]
 2. [[acg-2021-gerd|ACG 2021 Clinical Guideline: Diagnosis and Management of GERD]]
 3. [[sages-2021-gerd-surgery|SAGES 2021 Guidelines for Surgical Treatment of Gastroesophageal Reflux (GERD)]]
 4. [[lyon-2024-gerd-diagnosis|Lyon Consensus 2.0 (2024): Evidence-Based Diagnosis of GERD]]

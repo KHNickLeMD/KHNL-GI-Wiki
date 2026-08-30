@@ -3,7 +3,7 @@ title: "Acute-on-Chronic Liver Failure (ACLF)"
 category: disease-script
 tags: [ACLF, acute-on-chronic-liver-failure, cirrhosis, organ-failure, ICU, NACSELD, EASL-CLIF, terlipressin, HRS, hepatic-encephalopathy, infection, nutrition, liver-transplantation, palliative-care]
 created: 2026-05-28
-updated: 2026-08-14
+updated: 2026-08-30
 sources: [aasld-2024-aclf]
 ---
 
@@ -26,6 +26,12 @@ ACLF is a syndrome in patients with chronic liver disease (CLD) characterized by
 | **NACSELD** (North America) | Advanced/preterminal | ≥2 extrahepatic OFs: cardiovascular (shock), renal (RRT), respiratory (mechanical vent), brain ([[hepatic-encephalopathy\|HE]] Grade 3–4) |
 | **EASL-CLIF** (European) | Earlier onset; grades ACLF-1, -2, -3 | Liver (Bi ≥12 + INR ≥1.5 or coagulopathy), kidney (Cr ≥2 or RRT), brain (HE 3–4), respiratory (PaO₂/FiO₂ ≤200), coagulation (INR ≥2.5), cardiovascular (vasopressors) |
 | **APASL** (Asia-Pacific) | Early; includes non-cirrhotic CLD | Acute hepatic insult + liver failure (Bi ≥5, INR ≥1.5) + coagulopathy + clinical features ≤4 weeks in previously diagnosed or undiagnosed CLD; high sensitivity, lower specificity |
+
+**EASL-CLIF grade — what the grades mean (drives the terlipressin decision, GS 25):**
+
+- **ACLF-1 / ACLF-2** — intermediate stage: patients *developing* extrahepatic organ failure
+- **ACLF-3** — late stage: **≥3 organ failures**; highest mortality; terlipressin contraindicated
+- *Gap: [[aasld-2024-aclf]] does not restate the EASL-CLIF numeric organ-failure counts separating ACLF-1 from ACLF-2 — the original EASL-CLIF/CANONIC paper is not ingested.*
 
 **Pre-ACLF:** Subgroup of decompensated cirrhosis at higher risk of developing ACLF (higher CRP, WBC, MELD); characterized by progressive increase in severity scores. No individual biomarker predicts ACLF development.
 
@@ -86,7 +92,7 @@ Critically ill patients with cirrhosis and ACLF require multidisciplinary ICU ca
 
 ### Brain Failure (Hepatic Encephalopathy)
 
-**Grading:** West Haven criteria (Grade 1–4) + Glasgow Coma Scale; GCS <8 = severe brain failure (GS 4). Consider ICU for Grade 3–4 HE (GS 5).
+**Grading:** West Haven criteria (Grade 1–4; full grade descriptors on [[hepatic-encephalopathy]]) + Glasgow Coma Scale; GCS <8 = severe brain failure (GS 4). Consider ICU for Grade 3–4 HE (GS 5).
 
 **Management (GS 6–11):**
 
@@ -142,7 +148,7 @@ Critically ill patients with cirrhosis and ACLF require multidisciplinary ICU ca
 
 - Withdraw diuretics; treat precipitants (infection, GI bleed); volume challenge with **albumin 1 g/kg up to 100 g/day × 48h** (GS 23)
 - If meets HRS-AKI criteria after albumin challenge:
-  - **Vasoconstrictors + albumin (20–40 g/day)** for Stage 2+ HRS-AKI without contraindications (GS 24)
+  - **Vasoconstrictors + albumin (20–40 g/day)** for [[aki-in-cirrhosis|ICA-AKI]] Stage 2+ HRS-AKI without contraindications (GS 24) — ICA-AKI stage definitions on [[aki-in-cirrhosis]]
   - **Terlipressin (0.5–2.0 mg IV q6h or 2 g/24h continuous infusion):** indicated for Stage 2+ [[aki-in-cirrhosis|HRS-AKI]] without ACLF-3 (EASL-CLIF) or major cardiopulmonary/vascular disease (GS 25). Contraindicated in ACLF-3 due to CONFIRM trial respiratory failure signal
   - **Norepinephrine:** alternative to terlipressin; preferred in shock (GS 26)
   - Midodrine + [[somatostatin-analogs|octreotide]]: inferior to terlipressin continuous infusion; acceptable in non-ICU setting

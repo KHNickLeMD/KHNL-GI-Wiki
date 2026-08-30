@@ -3,7 +3,7 @@ title: "ACG 2020: Diagnosis and Management of Achalasia"
 category: source
 tags: [achalasia, esophageal-motility, hrm, poem, heller-myotomy, pneumatic-dilation, foregut]
 created: 2026-05-15
-updated: 2026-05-28
+updated: 2026-08-30
 sources: []
 ---
 
@@ -95,6 +95,7 @@ Treatment is entirely palliative. Three definitive therapies — pneumatic dilat
 - **Creates:** [[achalasia]] disease script in `wiki/disease-scripts/foregut-and-motility-diseases/ge-junction/`
 - Opens up the empty **Foregut and Motility** section of the wiki
 - Cross-links needed to: [[eosinophilic-esophagitis]] (DDx), future [[gerd]] page, [[high-resolution-manometry]], [[poem]]
+- **[[pneumatic-dilation]]** — primary source for that page: the graded 3.0→3.5→4.0 cm protocol, inflation parameters (10–15 psi, 15–60 s), the surgical-candidacy prerequisite, favorable-response predictors, cumulative efficacy by balloon size, perforation rate and its size-dependent management, the recommendation against routine post-dilation esophagram, and PD-after-failed-LHM salvage
 
 ## Contradictions / Open Questions
 

@@ -3,7 +3,7 @@ title: "AASLD Practice Guidance on the Clinical Assessment and Management of Non
 category: source
 tags: [nafld, masld, nash, mash, steatosis, fibrosis, fib-4, elf, vcte, mre, nit, pioglitazone, vitamin-e, semaglutide, bariatric-surgery, statin, hpb, liver]
 created: 2026-05-31
-updated: 2026-05-31
+updated: 2026-08-30
 sources: []
 ---
 
@@ -42,7 +42,9 @@ The diagnostic core is a **two-tier [[noninvasive-liver-disease-assessment|nonin
 | Purpose | Modality | Likely / Rule-in | Unlikely / Rule-out | Caveats |
 |---|---|---|---|---|
 | Steatosis | Ultrasound | "Detected" | NA | Low sensitivity for mild steatosis |
-| Steatosis | FibroScan CAP | ≥288 dB/min | — | Limited quantification accuracy |
+| Steatosis | FibroScan CAP | ≥288 **dB/m** | — | Limited quantification accuracy |
+
+> ⚠ **Unit as printed vs unit used.** This guideline's own table prints the CAP cutoff as **"≥ 288 dB/min"**. That is a typesetting error in the source: the newer ingested [[aasld-2025-semaglutide-mash|AASLD 2025 semaglutide guidance]] labels the same parameter **CAP (dB/m)**. The wiki uses **dB/m** on the strength of that in-corpus disagreement, not from outside knowledge; the value (288) is unchanged.
 | Steatosis | MRI-PDFF | ≥5% | <5% | Most sensitive; tracks dynamic change |
 | At-risk NASH | FAST | ≥0.67 | <0.35 | Sens 90% (<0.35), Spec 90% (≥0.67) |
 | At-risk NASH | MAST | ≥0.242 | ≤0.165 | |

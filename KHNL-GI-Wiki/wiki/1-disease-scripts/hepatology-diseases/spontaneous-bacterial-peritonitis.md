@@ -3,7 +3,7 @@ title: "Spontaneous Bacterial Peritonitis"
 category: disease-script
 tags: [sbp, ascites, cirrhosis, peritonitis, cefotaxime, albumin]
 created: 2026-05-15
-updated: 2026-08-26
+updated: 2026-08-30
 sources: [aasld-2021-ascites-sbp-hrs, aga-2024-vasoactive-albumin-cirrhosis]
 ---
 
@@ -20,7 +20,7 @@ SBP is an infection of [[ascites|ascitic fluid]] in the absence of an obvious in
 - [[#Differential Diagnosis]]
 - [[#Diagnostics]]
 - [[#Therapeutics]]
-- [[#SBP Prophylaxis]]
+  - [[#Prophylaxis]]
 
 ---
 
@@ -61,10 +61,12 @@ This threshold is chosen for maximal sensitivity to avoid undertreating SBP, as 
 
 Poor prognostic markers at diagnosis (predict AKI development and in-hospital mortality):
 
-- Serum creatinine >1.0 mg/dL or BUN >30 mg/dL
-- Serum bilirubin >5 mg/dL
+- Serum creatinine **>1.0 mg/dL** or BUN **>30 mg/dL**
+- Serum bilirubin **>5 mg/dL** ([[aasld-2021-ascites-sbp-hrs]]) — ⚠ [[aga-2024-vasoactive-albumin-cirrhosis]] uses **>4 mg/dL** for the same high-risk group; the two guidelines differ, and either identifies a patient who should get albumin
 - Hemodynamic instability (hypotension, septic shock)
-- Concurrent AKI — the main predictor of in-hospital mortality in SBP
+- Concurrent [[aki-in-cirrhosis|AKI]] — the main predictor of in-hospital mortality in SBP
+
+*These same markers define who benefits most from albumin — see [[#Albumin Infusion (Mandatory in SBP)]]; not restated there.*
 
 Infections in cirrhosis increase 10% mortality for every hour's delay in antibiotics in septic shock.
 
@@ -139,6 +141,7 @@ Infections in cirrhosis increase 10% mortality for every hour's delay in antibio
   - **Daptomycin** if known VRE or positive VRE surveillance swab
 - If known MDR gram-negative or recent piperacillin/tazobactam exposure: **meropenem** ± glycopeptide
 - Inappropriate initial therapy in septic shock increases mortality by 10-fold
+- *Gap: [[aasld-2021-ascites-sbp-hrs]] (Table 9) names these broad-spectrum agents but gives a dose only for cefotaxime. Dose the rest per institutional/ID guidance — no ingested source supplies them.*
 
 **Duration:** 5–7 days total (can be guided by PMN normalization to <250/mm³; mean duration 4.8 days in PMN-guided approach vs. 9.6 days empiric)
 
@@ -153,14 +156,11 @@ IV albumin prevents progression of AKI (the main driver of in-hospital mortality
 - **Day 1:** 1.5 g/kg body weight IV
 - **Day 3:** 1.0 g/kg body weight IV
 
-**Patients who benefit most** (highest baseline AKI/decompensation risk):
-
-- Serum creatinine >1.0 mg/dL OR BUN >30 mg/dL
-- Serum bilirubin >5 mg/dL
+**Patients who benefit most:** those carrying the poor-prognostic markers listed under [[#Severity Assessment]] (creatinine >1.0 mg/dL, BUN >30 mg/dL, bilirubin >5 mg/dL — >4 mg/dL by AGA 2024).
 
 If following AKI protocol for albumin is preferred clinically, that approach is also appropriate (see [[aki-in-cirrhosis]]).
 
-The [[aga-2024-vasoactive-albumin-cirrhosis|AGA 2024 vasoactive/albumin CPU]] frames albumin in SBP as "may be considered" (BPA 5), with the greatest benefit in high-risk patients (baseline bilirubin >4 mg/dL, creatinine >1.0 mg/dL, BUN >30 mg/dL). **Vasoconstrictors have no role in SBP** (BPA 7) — reserve them for [[aki-in-cirrhosis|HRS-AKI]].
+The [[aga-2024-vasoactive-albumin-cirrhosis|AGA 2024 vasoactive/albumin CPU]] frames albumin in SBP as "may be considered" (BPA 5), with the greatest benefit in the same high-risk group. **Vasoconstrictors have no role in SBP** (BPA 7) — reserve them for [[aki-in-cirrhosis|HRS-AKI]].
 
 ### Nonselective Beta-Blockers (NSBBs) During SBP
 
@@ -168,11 +168,9 @@ The [[aga-2024-vasoactive-albumin-cirrhosis|AGA 2024 vasoactive/albumin CPU]] fr
 - **Hold temporarily if:** mean arterial pressure <65 mmHg **or** [[aki-in-cirrhosis|AKI]] develops
 - **Restart:** when systemic arterial blood pressure recovers
 
----
+### Prophylaxis
 
-## SBP Prophylaxis
-
-### Secondary Prophylaxis (Prevention of Recurrence)
+#### Secondary Prophylaxis (Prevention of Recurrence)
 
 **Indication:** Prior documented episode of SBP
 
@@ -184,11 +182,11 @@ Patients with prior SBP have ~68% 1-year recurrence rate without [[antibiotic-pr
 - **[[rifaximin|Rifaximin]]** (limited single-center data showing lower 6-month recurrence than norfloxacin: 4% vs. 14%); may be considered but not yet firmly established
 - Continue indefinitely until [[liver-transplantation|liver transplantation]] or patient no longer has ascites
 
-### Primary Prophylaxis (Prevention of First Episode)
+#### Primary Prophylaxis (Prevention of First Episode)
 
-**Indication 1 — Acute GI hemorrhage (cirrhosis):**
+**Indication 1 — Acute GI hemorrhage (cirrhosis) — see [[variceal-upper-gi-bleeding]]:**
 
-- **IV ceftriaxone** for 5–7 days (until hemorrhage resolved and vasoactive drugs discontinued)
+- **IV ceftriaxone 1 g q24h** for 5–7 days (until hemorrhage resolved and vasoactive drugs discontinued) — dose per [[aasld-2023-portal-hypertension]] via [[portal-hypertension]]; [[aasld-2021-ascites-sbp-hrs]] names the agent and duration without a dose
 - Reduces infections (including SBP) and improves survival
 - Rule out existing SBP/infection before initiating
 

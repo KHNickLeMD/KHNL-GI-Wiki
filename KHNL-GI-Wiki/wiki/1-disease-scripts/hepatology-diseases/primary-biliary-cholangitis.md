@@ -3,7 +3,7 @@ title: "Primary Biliary Cholangitis (PBC)"
 category: disease-script
 tags: [pbc, primary-biliary-cholangitis, cholestatic, ama, alkaline-phosphatase, ursodiol, udca, oca, obeticholic-acid, fibrates, pruritus, overlap, hpb, liver, autoimmune, pregnancy, cirrhosis]
 created: 2026-05-19
-updated: 2026-08-14
+updated: 2026-08-30
 sources: [aasld-2018-pbc, aasld-2021-pbc, acg-2017-liver-chemistries, acg-2016-liver-disease-pregnancy]
 ---
 
@@ -33,8 +33,10 @@ When criteria 1 + 2 are met, biopsy is not required for diagnosis.
 
 - **GLOBE score** — uses bilirubin, albumin, ALP, platelet count, and age at 1 year of UDCA treatment. Score >0.30 = shorter transplant-free survival than age/sex-matched healthy population. Calculator available at <https://www.globalpbc.com/globe>.
 - **UK-PBC score** — uses ALP, aminotransferases, bilirubin at 12 months + baseline albumin and platelets. Predicts risk of LT or liver-related death at 5, 10, and 15 years.
-- **Mayo risk score** — older model using bilirubin, albumin, prothrombin time, age, edema; can be used without biopsy.
+- **Mayo risk score** — older model using bilirubin, albumin, prothrombin time, age, edema; can be used without biopsy. **Four decisions on this page are gated on it** ([[upper-endoscopy|EGD]] trigger and interval, HCC surveillance, LT referral).
 - **Bilirubin** is the single best predictor of survival and is a component of all prognostic models.
+
+> ⚠ **Decision gap — none of these three scores is computable from this page or from an ingested source.** [[aasld-2018-pbc]] and [[aasld-2021-pbc]] give the variables and (for GLOBE and Mayo) the action thresholds, but **no coefficients or point values**; UK-PBC is given **no threshold at all**, so it triggers no action here. Use the GLOBE calculator link above; the original Mayo model paper and the UK-PBC derivation paper are not ingested and their formulas must not be reconstructed from memory.
 
 **Histologic staging (Ludwig system):**
 
@@ -60,7 +62,7 @@ When criteria 1 + 2 are met, biopsy is not required for diagnosis.
 
 Up to 40% of patients will have an inadequate response by one of these criteria and should be evaluated for second-line therapy.
 
-**[[noninvasive-liver-disease-assessment|Transient elastography]]:** Liver stiffness >9.6 kPa = 5× more likely to progress to decompensation, death, or transplant. Serial measurements useful for risk stratification. Liver stiffness ≥17 kPa triggers [[hcc-surveillance|HCC surveillance]] and consideration for variceal screening even without confirmed cirrhosis.
+**[[liver-stiffness-measurement|Transient elastography]]:** Liver stiffness >9.6 kPa = 5× more likely to progress to decompensation, death, or transplant. Serial measurements useful for risk stratification. Liver stiffness ≥17 kPa triggers [[hcc-surveillance|HCC surveillance]] and consideration for variceal screening even without confirmed cirrhosis.
 
 ---
 
@@ -244,9 +246,9 @@ Patients with fibrotic PBC have significantly greater risk of osteopenia/osteopo
 
 ### Portal Hypertension in PBC
 
-Portal hypertension may develop as a result of biliary cirrhosis or, in the **precirrhotic stage**, in association with **nodular regenerative hyperplasia** (NRH) — a PBC-specific phenomenon. NRH can cause portal hypertension without significant fibrosis; 6% of non-cirrhotic PBC patients have varices.
+Portal hypertension may develop as a result of biliary cirrhosis or, in the **precirrhotic stage**, in association with [[porto-sinusoidal-vascular-disorder|**nodular regenerative hyperplasia** (NRH)]] — a PBC-specific phenomenon. NRH can cause portal hypertension without significant fibrosis; 6% of non-cirrhotic PBC patients have varices.
 
-- **Variceal screening:** Endoscopic screening at time of suspected cirrhosis diagnosis (Guidance Statement 15). Also consider if platelet count <200,000/mm³ or transient elastography ≥17 kPa.
+- **[[variceal-upper-gi-bleeding|Variceal]] screening:** [[upper-endoscopy|Endoscopic]] screening at time of suspected cirrhosis diagnosis (Guidance Statement 15). Also consider if platelet count **<200,000/mm³** or [[liver-stiffness-measurement|transient elastography]] **≥17 kPa** — note this platelet trigger is *higher* (more inclusive) than the <140,000/mm³ suspected-cirrhosis threshold used for HCC surveillance.
 - **Variceal management:** Follows standard AASLD portal hypertension guidance (NSBB or endoscopic variceal ligation for primary prophylaxis) — see [[portal-hypertension]]
 - **Variceal bleeding in precirrhotic PBC:** Particularly challenging because [[tips|TIPS]] is undesirable when synthetic function is preserved. Distal splenorenal shunts rarely used but have not been associated with accelerated liver failure in PBC.
 
@@ -261,11 +263,13 @@ PBC confers a slightly elevated [[hepatocellular-carcinoma|HCC]] risk (3.9 cases
 - Men with PBC
 - Patients with cirrhosis
 
-**Without liver biopsy, consider surveillance in:**
+**Without liver biopsy, consider [[hcc-surveillance|HCC surveillance]] in:**
 
-- Low platelet count
-- Mayo risk score >4.1
-- Transient elastography ≥17 kPa
+- **Platelets <140,000/mm³** — the threshold [[aasld-2018-pbc]] uses to define *suspected cirrhosis*
+- **Mayo risk score ≥4.1**
+- **Transient elastography ≥17 kPa**
+
+⚠ **Two different platelet thresholds are in play and they belong to different decisions** — <140,000/mm³ defines suspected cirrhosis (HCC surveillance), while **<200,000/mm³** is the softer trigger for *variceal* screening. They come from different studies; [[aasld-2018-pbc]] carries both.
 
 ---
 
@@ -273,7 +277,7 @@ PBC confers a slightly elevated [[hepatocellular-carcinoma|HCC]] risk (3.9 cases
 
 **Indications for referral/listing** ([[liver-transplantation|liver transplantation]]):
 
-- **MELD score >14** (Guidance Statement 21)
+- **[[cirrhosis|MELD]] score >14** (Guidance Statement 21)
 - Total bilirubin >6 mg/dL
 - Mayo risk score >7.8
 - Severe intractable pruritus (exceptional indication)
@@ -346,9 +350,11 @@ Risk of developing PBC is increased among first-degree relatives, especially fem
 
 **General preventive advice:** Avoid excessive alcohol, [[obesity]], cigarette smoking (promote disease progression and may jeopardize LT candidacy). Patients with cirrhosis: advise caution with NSAIDs, benzodiazepines, aminoglycoside antibiotics. Inform surgeons and anesthesiologists of cirrhosis prior to any surgery.
 
+---
+
 ## See Also
 
-[[primary-sclerosing-cholangitis]], [[autoimmune-hepatitis]], [[drug-induced-liver-injury]], [[abnormal-liver-chemistries]], [[jaundice]], [[portal-hypertension]], [[hepatocellular-carcinoma]], [[hcc-surveillance]], [[liver-transplantation]], [[liver-disease-in-pregnancy]], [[tacrolimus]], [[cholangiocarcinoma]], [[nafld-masld]], [[mri-mrcp]], [[noninvasive-liver-disease-assessment]], [[liver-biopsy]], [[upper-endoscopy]], [[ascites]], [[obesity]], [[variceal-upper-gi-bleeding]], [[intrahepatic-cholestasis-of-pregnancy]]
+[[primary-sclerosing-cholangitis]], [[autoimmune-hepatitis]], [[drug-induced-liver-injury]], [[abnormal-liver-chemistries]], [[jaundice]], [[portal-hypertension]], [[hepatocellular-carcinoma]], [[hcc-surveillance]], [[liver-transplantation]], [[liver-disease-in-pregnancy]], [[tacrolimus]], [[cholangiocarcinoma]], [[nafld-masld]], [[mri-mrcp]], [[noninvasive-liver-disease-assessment]], [[liver-biopsy]], [[upper-endoscopy]], [[ascites]], [[obesity]], [[variceal-upper-gi-bleeding]], [[intrahepatic-cholestasis-of-pregnancy]], [[liver-stiffness-measurement]], [[porto-sinusoidal-vascular-disorder]], [[cirrhosis]]
 
 ---
 

@@ -3,8 +3,8 @@ title: "Device-Assisted Enteroscopy (Deep Enteroscopy)"
 category: advanced-procedure
 tags: [deep-enteroscopy, dbe, sbe, spiral-enteroscopy, balloon-enteroscopy, small-bowel, gi-bleeding, device-assisted-enteroscopy]
 created: 2026-05-19
-updated: 2026-08-14
-sources: [acg-2015-small-bowel-bleeding, asge-2017-small-bowel-bleeding, asge-2015-deep-enteroscopy]
+updated: 2026-08-30
+sources: [acg-2015-small-bowel-bleeding, asge-2017-small-bowel-bleeding, asge-2015-deep-enteroscopy, asge-2020-fap]
 ---
 
 ## Contents
@@ -63,6 +63,7 @@ The scope reaches only part of the small bowel from either end, so the route is 
 
 - **Small-bowel tumors:** DE for tissue diagnosis and therapy when a tumor is detected by other tests (eg, VCE), or when suspicion is high despite negative initial testing. *(Low)*
 - **[[crohns-disease|Crohn's disease]]:** DE when imaging shows abnormalities within reach of the enteroscope — allows endoscopic + histologic evaluation and therapeutics (hemostasis, stricture dilation, foreign-body retrieval). *(Low)*
+- **[[familial-adenomatous-polyposis|FAP]]:** balloon enteroscopy is the therapeutic arm for jejunal/ileal polyps detected on capsule endoscopy or MRE — polypectomy of lesions above the referral size threshold *(ASGE 2020)* [[asge-2020-fap]]. The threshold itself and the FAP/[[peutz-jeghers-syndrome|Peutz-Jeghers]] small-bowel surveillance schedules live on [[capsule-endoscopy]].
 
 See [[small-bowel-bleeding]] for full algorithm; total-enteroscopy indications are under [[#Route Selection]].
 
@@ -95,7 +96,7 @@ The step up from diagnostic to therapeutic DBE roughly **quintuples** the compli
 
 ## See Also
 
-[[small-bowel-bleeding]], [[capsule-endoscopy]], [[crohns-disease]], [[angioectasia]], [[ercp]], [[polypectomy]], [[argon-plasma-coagulation]], [[acute-pancreatitis]], [[chronic-diarrhea]]
+[[small-bowel-bleeding]], [[capsule-endoscopy]], [[crohns-disease]], [[angioectasia]], [[ercp]], [[polypectomy]], [[argon-plasma-coagulation]], [[acute-pancreatitis]], [[chronic-diarrhea]], [[familial-adenomatous-polyposis]], [[peutz-jeghers-syndrome]]
 
 ---
 
@@ -104,3 +105,4 @@ The step up from diagnostic to therapeutic DBE roughly **quintuples** the compli
 1. [[acg-2015-small-bowel-bleeding|ACG 2015: Diagnosis and Management of Small Bowel Bleeding]]
 2. [[asge-2017-small-bowel-bleeding|ASGE 2017: Role of Endoscopy in Suspected Small-Bowel Bleeding]]
 3. [[asge-2015-deep-enteroscopy|ASGE 2015: The Role of Deep Enteroscopy in the Management of Small-Bowel Disorders]]
+4. [[asge-2020-fap|ASGE Guideline: The Role of Endoscopy in Familial Adenomatous Polyposis Syndromes (2020)]]

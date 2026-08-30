@@ -3,7 +3,7 @@ title: "Acute Diarrhea"
 category: diagnostic-schema
 tags: [diarrhea, infectious-diarrhea, travelers-diarrhea, gastroenteritis, acute, dysentery, loperamide, antibiotic, prevention]
 created: 2026-05-19
-updated: 2026-08-14
+updated: 2026-08-30
 sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
 ---
 
@@ -137,9 +137,9 @@ All patients: hydrate with fluids and salt (water, juices, sports drinks, soups,
 
 Testing is NOT required for most uncomplicated acute watery diarrhea. Recommended in:
 
-- Dysentery (grossly bloody stools)
-- Moderate-to-severe illness (especially non-travel-associated with fever ≥101°F or duration ≥72 h)
-- Symptoms lasting >7 days
+- Dysentery (grossly bloody stools) — (Recommendation 2, Strong/VLow)
+- Moderate-to-severe illness (especially non-travel-associated with fever ≥101°F or duration ≥72 h) — (Recommendation 2, Strong/VLow)
+- Symptoms lasting **>7 days** — (Recommendation 2, Strong/VLow)
 - High-risk of spreading to others (food handler, healthcare worker, daycare)
 - Known or suspected outbreak (Recommendation 1, Strong/Low)
 
@@ -212,6 +212,11 @@ Suspect in a febrile traveler (diarrhea often absent) from an endemic area, or w
 - **Treatment:** Not recommended for acute diarrhea in adults, except postantibiotic-associated illness (Recommendation 6, Strong/Moderate).
 - **Prevention:** Not recommended for TD (Recommendation 17, Conditional/Low).
 
+### Agents Not Recommended
+
+- **Adsorbents** (kaolin, pectin, charcoal, attapulgite) — change stool *form* but do **not** shorten diarrhea duration; not recommended.
+- **Racecadotril** — enkephalinase inhibitor; antisecretory without an effect on gut motility; used in pediatric diarrhea but **not FDA-approved in the US**. [[acg-2016-acute-diarrhea]]
+
 ### Antibiotics
 
 **Indications:**
@@ -252,7 +257,7 @@ Suspect in a febrile traveler (diarrhea often absent) from an endemic area, or w
 | [[cryptosporidiosis\|*Cryptosporidium*]] | **[[nitazoxanide]]** — in HIV infection, only with effective cART [[idsa-2017-infectious-diarrhea]] |
 | *Cyclospora cayetanensis* | **TMP-SMX**; nitazoxanide alternative (limited data) [[idsa-2017-infectious-diarrhea]] |
 | *Cystoisospora belli* | **TMP-SMX** or **pyrimethamine**; second-line ciprofloxacin or nitazoxanide [[idsa-2017-infectious-diarrhea]] |
-| *Enterocytozoon bieneusi* | **Albendazole** [[acg-2016-acute-diarrhea]] |
+| *Enterocytozoon bieneusi* | **Albendazole** or **iodoquinol** [[acg-2016-acute-diarrhea]] |
 | *Dientamoeba fragilis* | **Iodoquinol** [[acg-2016-acute-diarrhea]] |
 
 > **Dose gap — deliberately not filled.** No ingested source states doses or durations for any of these antiparasitic regimens. The previously listed figures (metronidazole 250 mg TID × 5–7 d, tinidazole 2 g single dose, nitazoxanide 500 mg BID × 3 d, TMP-SMX DS BID × 7–10 d, albendazole 400 mg BID) were **not traceable to the corpus** and have been removed. A CDC/IDSA parasitic-disease treatment table would be needed to restore them.
@@ -276,6 +281,12 @@ Adult empiric agent = a fluoroquinolone (eg, ciprofloxacin) **or** azithromycin 
 - **Antiemetic:** ondansetron may aid ORS tolerance in children >4 years and adolescents with vomiting (Rec 48).
 - **Zinc:** oral zinc shortens diarrhea in children 6 months–5 years in zinc-deficient/malnourished settings (Rec 50).
 - **[[probiotics]]:** may modestly reduce symptom severity/duration in immunocompetent adults and children (Rec 49, weak) — note this is more permissive than [[aga-2020-probiotics|AGA 2020 probiotics guidance]].
+
+### Prevention — Counseling & Hygiene (ACG 2016)
+
+- **Patient-level counseling on preventing acute enteric infection is NOT routinely recommended** — consider it only for the individual (or close contacts of the individual) at high risk of complications (Recommendation 13, Conditional/VLow).
+- **Pretravel counseling on avoiding high-risk food and beverages** should be given to prevent TD (Recommendation 14, Conditional/VLow) — efficacy evidence is mixed.
+- **Hand washing and alcohol-based sanitizers are of limited value** against most TD pathogens, which are high-inoculum (diarrheagenic *E. coli*). They **are** useful where a **low-dose pathogen** is responsible — [[norovirus|norovirus]] on a cruise ship, an institutional outbreak, [[shigellosis|*Shigella*]], or endemic diarrhea prevention (Recommendation 15, Conditional/Low).
 
 ### Vaccines & Public Health (IDSA 2017)
 

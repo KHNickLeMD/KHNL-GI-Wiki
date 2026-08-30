@@ -3,7 +3,7 @@ title: "Ascites"
 category: diagnostic-schema
 tags: [ascites, cirrhosis, saag, paracentesis, diuretics, tips]
 created: 2026-05-15
-updated: 2026-08-12
+updated: 2026-08-30
 sources: [aasld-2021-ascites-sbp-hrs, aga-2025-ascites-cirrhosis, aga-2024-vasoactive-albumin-cirrhosis]
 ---
 
@@ -134,6 +134,21 @@ SAAG = serum albumin − ascitic fluid albumin (simultaneous samples)
 
 ---
 
+## Red Flags / Alarm Features
+
+| Feature | Concern |
+|---------|---------|
+| Abdominal pain, fever, encephalopathy, or AKI in a patient with ascites | Suspect SBP → immediate diagnostic paracentesis |
+| Emergent hospital admission in cirrhotic patient with ascites | Paracentesis indicated regardless of infection symptoms |
+| Ascitic fluid PMN ≥250/mm³ | Diagnoses SBP/SBE → start IV antibiotics |
+| Rapidly worsening or refractory ascites | Assess for SBP, AKI, dietary noncompliance; expedite LT evaluation |
+| Bilateral or left-sided pleural effusion in the absence of ascites | Consider non-HH cause (cardiac, malignancy, infection) |
+| Umbilical hernia with cirrhosis and ascites | Risk of incarceration, rupture, peritonitis |
+| Serum Na ≤130 mEq/L | Increased risk of HRS, SBP, hepatic encephalopathy; adverse prognosis |
+| Non-improving ascites despite max diuretics | Confirm refractory ascites; evaluate for TIPS; refer for LT |
+
+---
+
 ## Management
 
 ### Dietary Sodium Restriction
@@ -231,21 +246,6 @@ SAAG = serum albumin − ascitic fluid albumin (simultaneous samples)
 **Workup of hyponatremia in cirrhosis (AGA 2025):** dietary + medication history (diuretics, bowel regimen), electrolytes/kidney function, GI-bleeding assessment, infectious workup including diagnostic paracentesis, and secondary causes (thyroid, adrenal).
 
 **Escalation for recurrent/refractory hyponatremia (AGA 2025):** multidisciplinary (include LT team) — options include oral or IV **vasoconstrictor therapy** (e.g. midodrine), hypertonic saline, vaptans, or **renal replacement therapy**. Outpatient asymptomatic hypervolemic hyponatremia: sodium + water restriction (1–1.5 L/day), modify diuretics/laxatives, monitor electrolytes.
-
----
-
-## Red Flags / Alarm Features
-
-| Feature | Concern |
-|---------|---------|
-| Abdominal pain, fever, encephalopathy, or AKI in a patient with ascites | Suspect SBP → immediate diagnostic paracentesis |
-| Emergent hospital admission in cirrhotic patient with ascites | Paracentesis indicated regardless of infection symptoms |
-| Ascitic fluid PMN ≥250/mm³ | Diagnoses SBP/SBE → start IV antibiotics |
-| Rapidly worsening or refractory ascites | Assess for SBP, AKI, dietary noncompliance; expedite LT evaluation |
-| Bilateral or left-sided pleural effusion in the absence of ascites | Consider non-HH cause (cardiac, malignancy, infection) |
-| Umbilical hernia with cirrhosis and ascites | Risk of incarceration, rupture, peritonitis |
-| Serum Na ≤130 mEq/L | Increased risk of HRS, SBP, hepatic encephalopathy; adverse prognosis |
-| Non-improving ascites despite max diuretics | Confirm refractory ascites; evaluate for TIPS; refer for LT |
 
 ---
 

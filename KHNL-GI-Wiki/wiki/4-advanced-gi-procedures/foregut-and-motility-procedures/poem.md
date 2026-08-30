@@ -3,8 +3,8 @@ title: "POEM (Peroral Endoscopic Myotomy)"
 category: advanced-procedure
 tags: [poem, achalasia, myotomy, motility, esophageal, foregut, gerd, egjoo]
 created: 2026-05-16
-updated: 2026-08-14
-sources: [aga-2024-poem-advances, sages-2024-poem, sages-2021-poem]
+updated: 2026-08-30
+sources: [aga-2024-poem-advances, sages-2024-poem, sages-2021-poem, acg-2020-achalasia]
 ---
 # POEM (Peroral Endoscopic Myotomy)
 
@@ -71,7 +71,8 @@ Endoscopic myotomy of the lower esophageal sphincter (LES) and distal esophageal
 - Abnormal acid exposure **41–56%**; esophagitis **41–65%** after POEM; **~one-quarter asymptomatic** → symptoms alone insufficient (AGA 2024 BPA 10).
 - **Objective [[reflux-testing|reflux testing]] generally 6–12 months post-POEM:**
   - **Off-PPI** pH monitoring if presence of [[gerd|GERD]] is in question.
-  - **On-PPI** testing if GERD already established or esophagitis **[[gerd|LA grade B or higher]]** — assesses adequacy of acid suppression.
+  - **On-PPI** testing if GERD already established or esophagitis **LA grade B or higher** — assesses adequacy of acid suppression.
+  - ⚠ **Decision gap — corpus-blocked:** the **Los Angeles grade A–D mucosal-break criteria** that this rule turns on are not defined in any ingested source — the LA grade's home page ([[reflux-testing]]) carries the standing corpus-block note; needs Lundell 1999. Do not supply from memory.
 - Reflux symptoms after POEM may **not** be acid-related (food stasis, acid fermentation, visceral hypersensitivity) — objective testing discriminates.
 - **Management ladder:** confirm PPI adherence (take 30–60 min before meals) → diet/lifestyle + alginates for mild/breakthrough → [[potassium-competitive-acid-blockers|potassium-competitive acid blocker]] (e.g., [[vonoprazan]]) a possible future preferred option for difficult erosive esophagitis → **[[antireflux-surgery|antireflux procedure]]** (endoscopic or surgical fundoplication) in a small subset after confirming GERD, excluding other etiologies, and failing optimization.
 - Reflux esophagitis and abnormal acid exposure **decrease over time** (ongoing LES healing/remodeling) → favor a stepwise approach.
@@ -98,6 +99,8 @@ Endoscopic myotomy of the lower esophageal sphincter (LES) and distal esophageal
 
 ## Outcomes
 
+*Symptomatic response in achalasia trials is scored with the **Eckardt score** — its structure, and the corpus-blocked per-item anchors, live on [[achalasia]]. Read every "success rate" below against that caveat; [[acg-2020-achalasia|ACG 2020]] also warns against declaring failure on symptom score or HRM alone, and puts TBE first (*Strong; Very low*).*
+
 | Indication | Success Rate |
 |---|---|
 | Achalasia type II | ~90% symptom improvement at 2 years |
@@ -109,7 +112,7 @@ Endoscopic myotomy of the lower esophageal sphincter (LES) and distal esophageal
 
 ## See Also
 
-[[achalasia]], [[heller-myotomy]], [[high-resolution-manometry]], [[chicago-classification-v4]], [[flip-panometry]], [[esophagogastric-junction-outflow-obstruction]], [[distal-esophageal-spasm]], [[hypercontractile-esophagus]], [[g-poem]], [[gastroparesis]], [[gerd]], [[reflux-testing]], [[barretts-esophagus]], [[esophageal-cancer]], [[dysphagia]], [[upper-endoscopy]], [[antireflux-surgery]], [[endoscopic-submucosal-dissection]], [[antibiotic-prophylaxis-endoscopy]], [[infectious-esophagitis]], [[proton-pump-inhibitors]], [[potassium-competitive-acid-blockers]]
+[[achalasia]], [[heller-myotomy]], [[pneumatic-dilation]], [[high-resolution-manometry]], [[chicago-classification-v4]], [[flip-panometry]], [[esophagogastric-junction-outflow-obstruction]], [[distal-esophageal-spasm]], [[hypercontractile-esophagus]], [[g-poem]], [[gastroparesis]], [[gerd]], [[reflux-testing]], [[barretts-esophagus]], [[esophageal-cancer]], [[dysphagia]], [[upper-endoscopy]], [[antireflux-surgery]], [[endoscopic-submucosal-dissection]], [[antibiotic-prophylaxis-endoscopy]], [[infectious-esophagitis]], [[proton-pump-inhibitors]], [[potassium-competitive-acid-blockers]]
 
 ---
 
@@ -118,3 +121,4 @@ Endoscopic myotomy of the lower esophageal sphincter (LES) and distal esophageal
 1. [[aga-2024-poem-advances|AGA Clinical Practice Update on Advances in Per-Oral Endoscopic Myotomy (POEM) and Remaining Questions—What We Have Learned in the Past Decade: Expert Review]]
 2. [[sages-2024-poem|SAGES Guideline Update: Peroral Endoscopic Myotomy (POEM) for Achalasia (2024)]]
 3. [[sages-2021-poem|SAGES Guidelines for the Use of Peroral Endoscopic Myotomy (POEM) for the Treatment of Achalasia (2021)]]
+4. [[acg-2020-achalasia|ACG 2020: Diagnosis and Management of Achalasia]]

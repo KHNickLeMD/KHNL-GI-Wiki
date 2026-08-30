@@ -3,8 +3,8 @@ title: "Abdominal Bloating, Distention, and Belching"
 category: diagnostic-schema
 tags: [bloating, distention, belching, aerophagia, dgbi, functional-gi, sibo, fodmap]
 created: 2026-07-19
-updated: 2026-08-26
-sources: [aga-2023-bloating]
+updated: 2026-08-30
+sources: [aga-2023-bloating, rome-v-2026-dgbi]
 ---
 
 ## Contents
@@ -29,8 +29,11 @@ Three prevalent, often-overlapping symptoms; when frequent/severe enough to impa
   - **Gastric belching** — physiologic: transient LES relaxation → gastric air vented; often associated with [[gerd]].
   - **Supragastric belching** — a *learned behavior*: air sucked/injected into esophagus and immediately expelled, independent of peristalsis; associated with anxiety; **stops during sleep, distraction, or speaking**.
   - **Aerophagia** — excess air swallowing → air reaches intestine/colon → bloating and flatulence (not belching predominant).
+  - **Inability to belch syndrome** — the mirror-image complaint, and a **new Rome V diagnosis (B3c)**. Diagnosis requires **impedance manometry with sparkling-water provocation**; treatment is **botulinum toxin injection into the upper esophageal sphincter**, limited to specialised centres [[rome-v-2026-dgbi]].
 - **Abdominal bloating** — *subjective* sensation of fullness, trapped gas, or tightness in any abdominal region.
 - **Abdominal distention** — *objective, visible* increase in abdominal girth ("like being pregnant").
+
+**Nomenclature — Rome V.** Belching disorders are Rome V category **B3** (B3a supragastric, B3b gastric, B3c inability to belch); bloating/distention is bowel-DGBI **C4**, still titled *functional abdominal bloating* [[rome-v-2026-dgbi]]. Rome V additionally offers **Rome Clinical Criteria** for practice — same qualitative features, symptoms must be **bothersome**, a lower frequency threshold, and a suggested **8-week** (not 6-month) duration.
 
 **Rome IV — primary functional bloating/distention:** recurrent fullness/pressure **or** visible girth increase, **≥1 day/week**, active **≥3 months** with onset **≥6 months** prior, **without** predominant pain or altered bowel habits — and **not** meeting criteria for [[irritable-bowel-syndrome|IBS]], functional constipation, functional diarrhea, or functional dyspepsia ([[dyspepsia]]). Primary prevalence ~3.5% (4.6% women, 2.4% men); but bloating/distention are **>50%** prevalent when overlapping other DGBIs.
 
@@ -118,3 +121,4 @@ Order labs/imaging/endoscopy (BPA 6) when present:
 ## Sources
 
 1. [[aga-2023-bloating|AGA Clinical Practice Update on Evaluation and Management of Belching, Abdominal Bloating, and Distention: Expert Review]]
+2. [[rome-v-2026-dgbi|Disorders of Gut–Brain Interaction and the Rome V Process]]

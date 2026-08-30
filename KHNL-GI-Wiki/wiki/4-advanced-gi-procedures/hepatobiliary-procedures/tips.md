@@ -3,7 +3,7 @@ title: "TIPS (Transjugular Intrahepatic Portosystemic Shunt)"
 category: advanced-procedure
 tags: [tips, portal-hypertension, variceal-bleeding, refractory-ascites, hepatic-encephalopathy, pspg, ptfe-stent, rto, brto, interventional-radiology]
 created: 2026-07-16
-updated: 2026-08-27
+updated: 2026-08-30
 sources: [aasld-2024-tips, aasld-2021-ascites-sbp-hrs, aga-2025-ascites-cirrhosis, aasld-2021-vascular-pvt, wang-2026-eus-ppg-delphi-consensus]
 ---
 
@@ -34,8 +34,9 @@ sources: [aasld-2024-tips, aasld-2021-ascites-sbp-hrs, aga-2025-ascites-cirrhosi
 *Table — TIPS scenarios in variceal bleeding ([[aasld-2024-tips]], Table 4).*
 
 - **Preemptive TIPS criteria:** Child-Pugh class **C 10–13 points**, or Child-Pugh class **B 8–9 points with active bleeding at initial endoscopy** despite concomitant vasoactive agents → PTFE-covered stent within 72 h (ideally <24 h) of initial [[upper-endoscopy|upper endoscopy]]
+  - *The Child-Turcotte-Pugh and MELD-Na scoring tables that assign these points live on [[cirrhosis]] — every TIPS selection and futility threshold below is read off them.*
   - Encephalopathy, hyperbilirubinemia, and/or [[acute-on-chronic-liver-failure|ACLF]] at time of bleeding had **no impact on survival** in observational data and should **not** contraindicate preemptive TIPS
-  - Caveats: preemptive-TIPS RCTs enrolled mainly [[alcohol-associated-liver-disease|alcohol-associated]] and [[chronic-hepatitis-b|hepatitis B]]–related [[cirrhosis]] — generalizability to [[nafld-masld|MASH]]-related cirrhosis undetermined; a 2021 RCT (n=58) found similar 1-year survival vs standard of care, and the updated meta-analysis showed lower 6-week rebleeding but **no significant survival benefit**
+  - Caveats: preemptive-TIPS RCTs enrolled mainly [[alcohol-associated-liver-disease|alcohol-associated]] and [[chronic-hepatitis-b|hepatitis B]]–related cirrhosis — generalizability to [[nafld-masld|MASH]]-related cirrhosis undetermined; a 2021 RCT (n=58) found similar 1-year survival vs standard of care, and the updated meta-analysis showed lower 6-week rebleeding but **no significant survival benefit**
 - **Secondary prevention:** TIPS is **second-line** — first-line remains NSBB (propranolol, nadolol, or carvedilol) + endoscopic variceal ligation; TIPS is treatment of choice for rebleeding despite that combination. RCTs consistently show TIPS prevents rebleeding but with **increased HE and no survival difference**
 - **No role in primary prevention** — of either esophageal or gastrofundal variceal bleeding
 - **Salvage/rescue:** controls bleeding in 80–100%, but 6-week mortality **27–55%** (deaths from liver failure, infection, renal failure)

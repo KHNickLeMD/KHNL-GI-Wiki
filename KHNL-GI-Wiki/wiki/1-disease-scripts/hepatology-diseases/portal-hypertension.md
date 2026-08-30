@@ -3,7 +3,7 @@ title: "Portal Hypertension"
 category: disease-script
 tags: [portal-hypertension, cirrhosis, CSPH, HVPG, cACLD, varices, NSBB, carvedilol, TIPS, liver-stiffness, decompensation, variceal-bleeding, ascites]
 created: 2026-05-28
-updated: 2026-08-25
+updated: 2026-08-30
 sources: [aasld-2023-portal-hypertension, baveno-vii-2022-portal-hypertension, acg-2025-perioperative-cirrhosis, aasld-2024-tips, aasld-2022-palliative-cirrhosis, wang-2026-eus-ppg-delphi-consensus]
 ---
 
@@ -42,10 +42,20 @@ Portal hypertension (PH) is defined as a portocaval pressure gradient (portal ve
 
 ### Severity Assessment
 
+**High-risk varices — the definition behind every "high-risk varices" recommendation on this page.**
+
+| Source | High-risk varices = | Low-risk varices = |
+|---|---|---|
+| [[aasld-2023-portal-hypertension]] (behind GS 19, 23, 24) | **Moderate/large varices**, **OR** varices of **any size with red wale marks**, **OR** varices of **any size in a [[cirrhosis\|CTP class C]] patient** | — |
+| [[baveno-vii-2022-portal-hypertension]] 7.5–7.6 (ascites setting) | **Large varices (≥5 mm)**, **OR** red spot signs, **OR** Child-Pugh C | **Small (<5 mm)** *and* no red signs *and* not Child-Pugh C |
+
+- Increasing CTP class, variceal size, and red wale marks **each independently** raise first-bleed risk — the three criteria are alternatives, not requirements.
+- If the high-risk varices are **small**, NSBB is the only technically feasible option; if **large**, both NSBB and [[variceal-upper-gi-bleeding|EVL]] are possible ([[aasld-2023-portal-hypertension]]).
+
 **HVPG (gold standard):**
 
 - 1–5 mm Hg: normal
-- 5–9 mm Hg: PH without CSPH (no varices, mild risk)
+- 6–9 mm Hg: mild/subclinical PH — **not** CSPH (no varices, mild risk)
 - ≥10 mm Hg: CSPH → risk of complications begins
 - ≥12 mm Hg: variceal bleeding risk threshold
 - ≥16 mm Hg: increased short-term mortality after **non-hepatic abdominal surgery** (Baveno VII 1.19) [[baveno-vii-2022-portal-hypertension]]
@@ -92,19 +102,13 @@ ANTICIPATE-NASH (LSM + platelets + BMI) may be used in NASH-related cACLD but ne
 
 Cirrhosis stages (per clinical features and HVPG):
 
-- **Compensated without CSPH:** F0–F2 histology equivalent; HVPG 3–5 mm Hg; no varices, no decompensation events
-- **Compensated with CSPH:** F3/F4 (thin septa); HVPG 5–10 mm Hg; ± varices; lower decompensation risk
-- **Compensated with CSPH (higher risk):** F4 (thick septa); HVPG >10 mm Hg; ± varices; higher decompensation risk
+- **Compensated, no portal hypertension:** F0–F2 histology equivalent; **HVPG 1–5 mm Hg** (normal); no varices, no decompensation events
+- **Compensated, mild (subclinical) PH:** F3/F4 (thin septa); **HVPG 6–9 mm Hg** — portal pressure is raised but **below the ≥10 mm Hg CSPH threshold**; lower decompensation risk
+- **Compensated with CSPH:** F4 (thick septa); **HVPG ≥10 mm Hg**; ± varices; higher decompensation risk — this is the stage at which NSBB is indicated (GS 14)
 - **First decompensation:** First overt event (ascites, AVH, HE)
 - **Further decompensation:** Recurrent/refractory events; >20 mm Hg HVPG worsens outcomes
 
-**Recompensation (Baveno VII 7.22–7.24)** [[baveno-vii-2022-portal-hypertension]] — at least partial regression of the structural/functional changes of cirrhosis after removing its cause. Clinical recompensation requires **all** of:
-
-1. Removal/suppression/cure of the primary aetiology (HCV cure, sustained HBV suppression, sustained alcohol abstinence)
-2. Resolution of [[ascites]] (off diuretics) and of [[hepatic-encephalopathy|HE]] (off lactulose/[[rifaximin]]), and **no recurrent variceal haemorrhage for ≥12 months**
-3. Stable improvement in liver function (albumin, INR, bilirubin)
-
-Because CSPH may persist despite recompensation, **NSBBs should not be discontinued unless CSPH resolves**.
+**Recompensation (Baveno VII 7.22–7.24)** — the three required criteria and the "not recompensation" exclusions live on [[cirrhosis|cirrhosis → Recompensation]]. Its consequence for NSBB management is under [[#Therapeutics]] below.
 
 ---
 

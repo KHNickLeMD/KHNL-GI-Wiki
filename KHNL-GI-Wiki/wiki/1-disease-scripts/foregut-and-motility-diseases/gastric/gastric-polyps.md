@@ -3,7 +3,7 @@ title: "Gastric Polyps"
 category: disease-script
 tags: [gastric-polyps, fundic-gland-polyp, hyperplastic-polyp, gastric-adenoma, g-net, gim, atrophic-gastritis, helicobacter-pylori, endoscopy, surveillance]
 created: 2026-06-27
-updated: 2026-08-27
+updated: 2026-08-30
 sources: [aga-2026-gastric-polyps, asge-2015-gastric-premalignant]
 ---
 
@@ -21,6 +21,8 @@ Raised **epithelial lesions of the gastric mucosa** arising from mucosal hyperpl
   - [[#Management Algorithm — Newly Detected Polyps]]
   - [[#Background Mucosa and Acid Suppression]]
   - [[#Surveillance]]
+- [[#See Also]]
+- [[#Sources]]
 
 ## Assessment
 
@@ -167,5 +169,5 @@ Keyed to **polyp histology + size + dysplasia + background mucosa**. If multiple
 
 ## Sources
 
-1. [[aga-2026-gastric-polyps|AGA Clinical Practice Update on Management of Gastric Polyps: Expert Review (2026)]]
+1. [[aga-2026-gastric-polyps|AGA Clinical Practice Update on Management of Gastric Polyps: Expert Review]]
 2. [[asge-2015-gastric-premalignant|ASGE Guideline: The Role of Endoscopy in the Management of Premalignant and Malignant Conditions of the Stomach (2015)]]

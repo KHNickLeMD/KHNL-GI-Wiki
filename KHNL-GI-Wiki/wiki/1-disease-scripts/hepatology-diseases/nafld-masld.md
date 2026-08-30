@@ -3,7 +3,7 @@ title: "NAFLD / MASLD (Metabolic Dysfunction-Associated Steatotic Liver Disease)
 category: disease-script
 tags: [nafld, masld, nash, mash, steatosis, metabolic-syndrome, fibrosis, fibroscan, hpb, liver, obesity, diabetes, semaglutide, resmetirom, glp-1, nit, essence-trial, liver-transplant, post-transplant, recurrence]
 created: 2026-05-19
-updated: 2026-08-29
+updated: 2026-08-30
 sources: [aasld-2023-nafld, aasld-2023-masld-nomenclature, aasld-2024-resmetirom, aasld-2024-nilda-blood, aasld-2025-semaglutide-mash, acg-2017-liver-chemistries, aasld-ast-2025-liver-transplant-graft-complications, aga-2023-nafld-noninvasive-biomarkers]
 ---
 
@@ -76,7 +76,7 @@ See [[noninvasive-liver-disease-assessment]] for the cross-disease NILDA framewo
 **Non-invasive steatosis assessment:** [[aasld-2023-nafld]]
 
 - AASLD **recommends AGAINST blood-based steatosis indices** (FLI, HSI, NLFS) for routine practice — use imaging.
-- CAP (controlled attenuation parameter) on FibroScan ≥288 dB/min (point-of-care; GS 18); standard ultrasound NOT recommended to identify steatosis (low sensitivity, GS 17)
+- CAP (controlled attenuation parameter) on [[liver-stiffness-measurement|FibroScan]] ≥288 dB/m (point-of-care; GS 18); standard ultrasound NOT recommended to identify steatosis (low sensitivity, GS 17)
 - MRI-PDFF (≥5%) — most accurate; quantifies and tracks dynamic change
 
 ### Classification / Typing
@@ -232,7 +232,7 @@ Cardiovascular disease is the most common cause of death in patients with MASLD.
 
 ---
 
-## Post-Liver-Transplant MASLD Management
+### Post-Liver-Transplant MASLD Management
 
 Per [[aasld-ast-2025-liver-transplant-graft-complications]] (recurrent MASLD post-LT recommendations):
 

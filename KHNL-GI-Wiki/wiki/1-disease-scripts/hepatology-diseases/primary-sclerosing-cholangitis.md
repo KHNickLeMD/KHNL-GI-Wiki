@@ -3,7 +3,7 @@ title: "Primary Sclerosing Cholangitis"
 category: disease-script
 tags: [psc, cholestasis, biliary, ibd, cholangiocarcinoma, liver-transplant, dominant-stricture, igg4, udca, mrcp, fish, liver-stiffness]
 created: 2026-05-19
-updated: 2026-08-14
+updated: 2026-08-30
 sources: [acg-2015-psc, acg-2017-liver-chemistries, aasld-2022-psc]
 ---
 
@@ -44,12 +44,14 @@ PSC is a chronic, cholestatic liver disease likely of autoimmune origin characte
 
 **Prognostic models** (interpret specific probabilities with caution in individual patients; [[aasld-2022-psc]] GS 8):
 
-| Model | Key Variables | Endpoint | Higher-Risk Threshold |
-|---|---|---|---|
-| **Amsterdam-Oxford 2017** | Age, bilirubin, albumin, AST, ALP, platelets, PSC subtype | LT or liver-related death by 15y | Score ≥1.58 |
-| **UK-PSC 2019** | Age, bilirubin, albumin, ALP, platelets, extrahepatic disease, variceal history | Death or LT at 2y / 10y | Score ≥1.46 |
-| **PRESTo 2020** | Age, bilirubin, albumin, AST, ALP, platelets, hemoglobin, sodium, years since PSC dx | Hepatic decompensation by 5y | Risk ≥20% |
-| **SCOPE 2020** | Bilirubin, albumin, platelets, GGT, cholangiography subtype | PH complications, CCA, LT listing, or death by 5y | Score 6–11 |
+| Model | Key Variables | Endpoint | Higher-Risk Threshold | Calculator |
+|---|---|---|---|---|
+| **Amsterdam-Oxford 2017** | Age, bilirubin, albumin, AST, ALP, platelets, PSC subtype | LT or liver-related death by 15y | Score ≥1.58 | [sorted.co/psc-calculator](https://sorted.co/psc-calculator/) |
+| **UK-PSC 2019** | Age, bilirubin, albumin, ALP, platelets, extrahepatic disease, variceal history | Death or LT at 2y / 10y | Score ≥1.46 | [uk-psc.com](http://www.uk-psc.com) |
+| **PRESTo 2020** | Age, bilirubin, albumin, AST, ALP, platelets, hemoglobin, sodium, years since PSC dx | Hepatic decompensation by 5y | Risk ≥20% | [rtools.mayo.edu/PRESTO_calculator](https://rtools.mayo.edu/PRESTO_calculator/) |
+| **SCOPE 2020** (pediatric) | Bilirubin, albumin, platelets, GGT, cholangiography subtype | PH complications, CCA, LT listing, or death by 5y | Score 6–11 ⚠ | [Scopeindex.net](https://Scopeindex.net) |
+
+> ⚠ **Decision gap — none of these four scores can be computed by hand from this page or from an ingested source.** [[aasld-2022-psc]] Table 3 gives the variables, endpoints, thresholds and the calculator URLs above, but **no coefficients or point values**. Use the linked calculators. Note also that AASLD states **no threshold at all** for SCOPE — the "6–11" band here is not traceable to the ingested source and should be treated as unverified until the SCOPE derivation paper is ingested.
 
 - ALP persistently <1.5× ULN = better prognosis in adults; GGT <50 U/L in children
 - ALP normalization is a biomarker of improved survival ([[acg-2015-psc]]; [[aasld-2022-psc]])
@@ -59,7 +61,7 @@ PSC is a chronic, cholestatic liver disease likely of autoimmune origin characte
   - LS worsening by >0.34 kPa/year = highest risk of hepatic decompensation
 - ELF (Enhanced Liver Fibrosis) test: strongly associated with transplant-free survival; useful surrogate in trials
 - Liver biopsy: **NOT recommended for fibrosis staging** in clinical practice — high sampling variability ([[aasld-2022-psc]] GS 10)
-- MELD: drives transplant priority (full MELD-Na/Child-Pugh point tables live on the cirrhosis page); decompensation = [[ascites]], [[variceal-upper-gi-bleeding|variceal bleed]], [[hepatic-encephalopathy|hepatic encephalopathy]], recurrent cholangitis
+- [[cirrhosis|MELD]]: drives transplant priority (full MELD-Na/Child-Pugh point tables live on [[cirrhosis]]); decompensation = [[ascites]], [[variceal-upper-gi-bleeding|variceal bleed]], [[hepatic-encephalopathy|hepatic encephalopathy]], recurrent [[acute-cholangitis|cholangitis]]
 
 ### Classification / Typing
 
@@ -91,7 +93,7 @@ PSC is a chronic, cholestatic liver disease likely of autoimmune origin characte
 | Modality | Role | Notes |
 |---|---|---|
 | **3D MRI/MRCP** | **Preferred** first-line diagnostic and CCA surveillance imaging ([[aasld-2022-psc]] GS 1) | 1.5-Tesla minimum; T2w 3D with 1-mm slices + T1w axial + contrast; superior to US for CCA surveillance (Sens 89%/Spec 75%) |
-| **ERCP** | Reserved for tissue sampling and/or therapy of relevant strictures; **avoid for diagnosis** (GS 3) | 1–9% post-ERCP pancreatitis risk in PSC; bacterial cholangitis post-ERCP in 2–8%; always precede with MRI/MRCP |
+| **ERCP** | Reserved for tissue sampling and/or therapy of relevant strictures; **avoid for diagnosis** (GS 3) | 1–9% post-ERCP [[acute-pancreatitis\|pancreatitis]] risk in PSC; bacterial [[acute-cholangitis\|cholangitis]] post-ERCP in 2–8%; always precede with MRI/MRCP |
 | **Liver biopsy** | Not required for typical large-duct PSC (GS 5); required for small-duct PSC or AIH overlap concern (GS 2) | "Onion-skin" periductal fibrosis is pathognomonic but infrequent and also seen in other obstructive cholangiopathies |
 | **Liver stiffness (TE/MRE)** | Preferred fibrosis staging method (GS 9); NOT liver biopsy (GS 10) | TE cutoffs: 9.6 kPa = F3; 14.4 kPa = F4; affected by inflammation/cholestasis — interpret in context |
 | **Serum IgG4** | Measure in all patients with possible PSC (GS 4) | IgG4 >5.6 g/L = IgG4-SC likely; IgG4/IgG1 <0.24 can exclude IgG4-SC |
@@ -232,7 +234,7 @@ Serial polysomy in dominant/relevant stricture + serial polysomy = probable CCA.
 
 - High-definition colonoscopy with biopsies starting at **age 15 years** in PSC-IBD patients
 - Repeat at **1- to 2-year intervals** (prior recommendation was annual)
-- Chromoendoscopy: recommended when only standard-definition colonoscopy (640×480 pixels) available; add when standard-definition colonoscopy only available
+- Chromoendoscopy: add when only **standard-definition** [[colonoscopy]] (640×480 pixels) is available
 - PSC-IBD [[colorectal-cancer|CRC]] risk: 5–12× general population, 3–5× IBD-without-PSC; cumulative 20-year incidence up to 40% in early studies; more recent data: 5-year 7%, 10-year 9%; children develop CRC at similar rates as adults (5% by age 10)
 - Biopsy-proven invisible low-grade dysplasia → high-definition colonoscopy with chromoendoscopy
 - PSC without IBD: colonoscopy at PSC diagnosis; if no IBD → repeat every 5 years or with IBD symptoms (GS 6)
@@ -315,7 +317,7 @@ Histological and cholangiographic assessment required to distinguish rPSC from a
 
 ## See Also
 
-[[abnormal-liver-chemistries]], [[primary-biliary-cholangitis]], [[autoimmune-hepatitis]], [[biliary-stricture]], [[cholangiocarcinoma]], [[ulcerative-colitis]], [[crohns-disease]], [[inflammatory-bowel-disease]], [[ercp]], [[liver-transplantation]], [[colonoscopy]], [[colorectal-cancer]], [[portal-hypertension]], [[hcc-surveillance]], [[liver-stiffness-measurement]], [[liver-biopsy]], [[mri-mrcp]], [[brush-cytology]], [[fish]], [[gallbladder-cancer]], [[variceal-upper-gi-bleeding]], [[upper-endoscopy]], [[tips]], [[cirrhosis]]
+[[abnormal-liver-chemistries]], [[primary-biliary-cholangitis]], [[autoimmune-hepatitis]], [[biliary-stricture]], [[cholangiocarcinoma]], [[ulcerative-colitis]], [[crohns-disease]], [[inflammatory-bowel-disease]], [[ercp]], [[liver-transplantation]], [[colonoscopy]], [[colorectal-cancer]], [[portal-hypertension]], [[hcc-surveillance]], [[liver-stiffness-measurement]], [[liver-biopsy]], [[mri-mrcp]], [[brush-cytology]], [[fish]], [[gallbladder-cancer]], [[variceal-upper-gi-bleeding]], [[upper-endoscopy]], [[tips]], [[cirrhosis]], [[acute-cholangitis]], [[acute-pancreatitis]]
 
 ---
 

@@ -3,7 +3,7 @@ title: "Hiatal Hernia"
 category: disease-script
 tags: [hiatal-hernia, gerd, foregut, ge-junction, hill-grade, antireflux-surgery, tif, ctif, cameron-lesions]
 created: 2026-08-29
-updated: 2026-08-29
+updated: 2026-08-30
 sources: [asge-2024-gerd, acg-2021-gerd, afs-2023-transoral-incisionless-fundoplication, acg-2020-esophageal-physiologic-testing, sages-2021-gerd-surgery]
 ---
 
@@ -18,6 +18,11 @@ sources: [asge-2024-gerd, acg-2021-gerd, afs-2023-transoral-incisionless-fundopl
 - [[#Differential Diagnosis]]
 - [[#Diagnostics]]
 - [[#Therapeutics]]
+  - [[#The hernia selects the procedure]]
+  - [[#When repair is indicated]]
+  - [[#What the guidelines deliberately do not say]]
+- [[#See Also]]
+- [[#Sources]]
 
 ---
 

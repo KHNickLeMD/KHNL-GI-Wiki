@@ -3,7 +3,7 @@ title: "Distal Esophageal Spasm"
 category: disease-script
 tags: [des, spasm, esophageal, motility, dysphagia, chest-pain, chicago-classification]
 created: 2026-05-16
-updated: 2026-08-27
+updated: 2026-08-30
 sources: [chicago-v4-2021-esophageal-dysmotility, aga-2025-flip-esophageal, acg-2020-achalasia, aga-2024-poem-advances]
 ---
 
@@ -71,6 +71,6 @@ Distal esophageal spasm (DES) is defined by **Chicago Classification v4.0** crit
 ## Sources
 
 1. [[chicago-v4-2021-esophageal-dysmotility|Chicago Classification v4.0: Esophageal Motility Disorders]]
-2. [[aga-2025-flip-esophageal|AGA Clinical Practice Update: Incorporating FLIP Into Esophageal Clinical Practice]]
+2. [[aga-2025-flip-esophageal|AGA Clinical Practice Update on Incorporating Functional Lumen Imaging Probe Into Esophageal Clinical Practice: Expert Review]]
 3. [[acg-2020-achalasia|ACG 2020: Diagnosis and Management of Achalasia]]
 4. [[aga-2024-poem-advances|AGA Clinical Practice Update on Advances in Per-Oral Endoscopic Myotomy (POEM) and Remaining Questions—What We Have Learned in the Past Decade: Expert Review (2024)]]

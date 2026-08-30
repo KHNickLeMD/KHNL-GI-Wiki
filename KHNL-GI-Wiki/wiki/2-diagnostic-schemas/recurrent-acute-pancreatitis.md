@@ -3,7 +3,7 @@ title: "Recurrent Acute Pancreatitis"
 category: diagnostic-schema
 tags: [recurrent-acute-pancreatitis, idiopathic-pancreatitis, eus, mrcp, ercp, pancreas-divisum]
 created: 2026-07-29
-updated: 2026-08-14
+updated: 2026-08-30
 sources: [aga-2022-recurrent-pancreatitis-endoscopy]
 ---
 
@@ -34,6 +34,12 @@ sources: [aga-2022-recurrent-pancreatitis-endoscopy]
 4. **Role of [[ercp|ERCP]] to reduce AP frequency is controversial** — not a routine diagnostic step:
    - **Pancreas divisum (BPA 2):** minor papilla endotherapy may be considered, mainly with **objective outflow obstruction** (dilated dorsal duct and/or santorinicele); **no role for ERCP for pain alone**. See [[pancreas-divisum]].
    - **Standard ductal anatomy (BPA 3):** even more controversial; only after shared decision-making about uncertain benefit and severe adverse-event risk. When pursued, **biliary sphincterotomy alone may be preferable to dual sphincterotomy** (Coté RCT: pancreatic sphincterotomy adds no incremental benefit).
+   - **The numbers the shared decision turns on** ([[aga-2022-recurrent-pancreatitis-endoscopy]]) — benefit is uncontrolled or single-small-RCT data, harm is common:
+
+| | Pancreas divisum | Standard ductal anatomy |
+|---|---|---|
+| **Benefit** | RAP reduced/eliminated in **~60–80%** (uncontrolled series). Only RCT (**n = 19**): future AP **10% vs 67%** with minor papilla stenting (P < .05) | Jacob RCT — stenting reduced RAP **11% vs 53%** (P < .02); Coté RCT — pancreatic sphincterotomy adds nothing over biliary sphincterotomy alone |
+| **Harm** | **Post-ERCP pancreatitis 10–15%**; **post-papillotomy stenosis up to 19% (1 in 5)** | Same procedural risks; a sham-controlled minor-papilla-sphincterotomy RCT is still ongoing |
 
 ```mermaid
 flowchart TD
@@ -58,7 +64,7 @@ flowchart TD
 
 - **Occult ampullary or pancreatobiliary malignancy** — up to 5% (single unexplained AP) / 12% (RAP): scrutinize the ampulla and pancreatobiliary tree.
 - Progression toward [[chronic-pancreatitis|CP]] (~35% of RAP) — screen for pain, [[exocrine-pancreatic-insufficiency|EPI]], and endocrine dysfunction.
-- Post-ERCP pancreatitis and post-papillotomy stenosis are real, potentially severe iatrogenic risks — weigh before any ERCP.
+- Post-ERCP pancreatitis and post-papillotomy stenosis are real, potentially severe iatrogenic risks — weigh the rates in the benefit/harm table above before any ERCP.
 
 ## See Also
 

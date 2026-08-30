@@ -3,7 +3,7 @@ title: "Small Bowel Bleeding"
 category: diagnostic-schema
 tags: [small-bowel, gi-bleeding, obscure-gi-bleeding, mid-gi-bleeding, capsule-endoscopy, deep-enteroscopy, angioectasia, vce, dbe, iron-deficiency-anemia]
 created: 2026-05-19
-updated: 2026-08-26
+updated: 2026-08-30
 sources: [acg-2015-small-bowel-bleeding, aga-2020-ida, asge-2017-small-bowel-bleeding]
 ---
 
@@ -53,7 +53,7 @@ This guideline replaces the older term **"obscure GI bleeding (OGIB)"** with ana
 
 - **Angioectasia (angiodysplasia):** Most common cause of SBB across all age groups. Prevalence 24% in both VCE and DBE series. [[angioectasia]]
 - Risk factors for recurrent angioectasia bleeding: number of lesions, age >65, jejunal location, cardiac valvular disease, chronic renal failure, anticoagulant use, need for transfusion.
-- **[[heydes-syndrome]]:** Association of aortic stenosis + angioectasia, mediated by acquired type 2 von Willebrand deficiency from shear stress-induced vWF multimer cleavage. Left ventricular assist devices (LVADs) cause similar syndrome.
+- **[[heydes-syndrome]]:** Association of aortic stenosis + angioectasia — called a **controversial association** by [[acg-2015-small-bowel-bleeding|ACG 2015]], thought to be secondary to an acquired **type 2 von Willebrand deficiency**. Left ventricular assist devices (LVADs) cause a similar syndrome. *(The guideline does not describe the shear-stress → multimer-cleavage mechanism; see [[heydes-syndrome]] for that gap.)*
 
 ### Inflammatory
 

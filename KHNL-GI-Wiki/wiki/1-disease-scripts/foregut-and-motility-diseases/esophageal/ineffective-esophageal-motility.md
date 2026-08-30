@@ -3,7 +3,7 @@ title: "Ineffective Esophageal Motility"
 category: disease-script
 tags: [iem, motility, esophageal, dysphagia, gerd, chicago-classification]
 created: 2026-05-16
-updated: 2026-08-27
+updated: 2026-08-30
 sources: [chicago-v4-2021-esophageal-dysmotility, aga-2025-flip-esophageal, acg-2020-esophageal-physiologic-testing]
 ---
 
@@ -87,5 +87,5 @@ Note the two signs differ: **>70%** for ineffective, **≥50%** for failed.
 ## Sources
 
 1. [[chicago-v4-2021-esophageal-dysmotility|Chicago Classification v4.0: Esophageal Motility Disorders]]
-2. [[aga-2025-flip-esophageal|AGA Clinical Practice Update: Incorporating FLIP Into Esophageal Clinical Practice]]
+2. [[aga-2025-flip-esophageal|AGA Clinical Practice Update on Incorporating Functional Lumen Imaging Probe Into Esophageal Clinical Practice: Expert Review]]
 3. [[acg-2020-esophageal-physiologic-testing|ACG 2020: Clinical Use of Esophageal Physiologic Testing]]

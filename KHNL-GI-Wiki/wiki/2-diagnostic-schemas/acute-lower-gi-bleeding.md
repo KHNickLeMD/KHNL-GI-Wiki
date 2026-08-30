@@ -3,7 +3,7 @@ title: "Acute Lower Gastrointestinal Bleeding (LGIB)"
 category: diagnostic-schema
 tags: [lower-gi-bleeding, lgib, hematochezia, diverticular, colonoscopy, hemorrhage, cta, risk-stratification]
 created: 2026-05-15
-updated: 2026-08-27
+updated: 2026-08-30
 sources: [acg-2023-lgib, asge-2014-lgib]
 ---
 
@@ -25,7 +25,7 @@ Any of the following suggests hemodynamically significant LGIB requiring immedia
 
 Severe hematochezia with hemodynamic instability may reflect a **brisk UGIB source** in 15% of cases. Features that raise suspicion for proximal source:
 
-- History of [[peptic-ulcer-disease|peptic ulcer disease]], decompensated liver disease, hematemesis
+- History of [[peptic-ulcer-disease|peptic ulcer disease]], [[cirrhosis|decompensated liver disease]], hematemesis
 - **BUN:Cr ratio >30** — LR 7.5 (95% CI 2.8–12.0) for UGIB. Caveat: in another accuracy study the ratio discriminated upper vs lower source poorly overall (**AUROC 0.63**); a higher cutoff of **35** gave specificity 90.1% / PPV 89.1%
 - **BUN alone >21 mg/dL** — specificity **93.0%** for an upper source (strongest single variable in that study)
 - Melena on rectal exam (argues against colonic source)
@@ -340,7 +340,7 @@ Scores supplement but do not replace clinical judgment. Low-risk patients (Oakla
 
 ## See Also
 
-[[upper-gi-bleeding]], [[variceal-upper-gi-bleeding]], [[small-bowel-bleeding]], [[colonoscopy]], [[upper-endoscopy]], [[colon-ischemia]], [[angioectasia]], [[hemorrhoids]], [[heydes-syndrome]], [[colorectal-cancer]], [[inflammatory-bowel-disease]], [[crohns-disease]], [[ulcerative-colitis]], [[clostridioides-difficile]], [[radiation-proctopathy]], [[anal-fissure]], [[peptic-ulcer-disease]], [[polypectomy]], [[argon-plasma-coagulation]], [[anticoagulation-gi-bleeding]], [[iron-deficiency-anemia]], [[portal-hypertension]]
+[[upper-gi-bleeding]], [[variceal-upper-gi-bleeding]], [[small-bowel-bleeding]], [[colonoscopy]], [[upper-endoscopy]], [[colon-ischemia]], [[angioectasia]], [[hemorrhoids]], [[heydes-syndrome]], [[colorectal-cancer]], [[inflammatory-bowel-disease]], [[crohns-disease]], [[ulcerative-colitis]], [[clostridioides-difficile]], [[radiation-proctopathy]], [[anal-fissure]], [[peptic-ulcer-disease]], [[polypectomy]], [[argon-plasma-coagulation]], [[anticoagulation-gi-bleeding]], [[iron-deficiency-anemia]], [[portal-hypertension]], [[cirrhosis]]
 
 ---
 

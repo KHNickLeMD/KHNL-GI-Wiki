@@ -3,7 +3,7 @@ title: "Capsule Endoscopy (Video Capsule Endoscopy)"
 category: advanced-procedure
 tags: [capsule-endoscopy, vce, small-bowel, gi-bleeding, crohns-disease, iron-deficiency-anemia, patency-capsule]
 created: 2026-05-19
-updated: 2026-08-14
+updated: 2026-08-30
 sources: [acg-2015-small-bowel-bleeding, asge-2017-small-bowel-bleeding, acg-2025-crohns, aga-2022-hamartomatous-polyposis, asge-2020-fap]
 ---
 
@@ -36,14 +36,15 @@ sources: [acg-2015-small-bowel-bleeding, asge-2017-small-bowel-bleeding, acg-202
 | [[asge-2017-small-bowel-bleeding\|ASGE 2017]] | *"We **suggest** VCE as the initial test for patients with overt or occult small-bowel bleeding. Positive VCE results should be followed with push enteroscopy if within reach or DAE."* | **Conditional, low** quality evidence |
 | [[asge-2017-small-bowel-bleeding\|ASGE 2017]] | *"We suggest DAE or push enteroscopy if VCE is **unavailable or nondiagnostic**"* in overt small-bowel bleeding; DAE may be the **initial** procedure in select circumstances (high suspicion of small-bowel [[angioectasia\|angiectasias]], surgically altered anatomy) | **Conditional, low** quality evidence |
 
-- **Definitions ([[acg-2015-small-bowel-bleeding]]):** small-bowel bleeding = overt or occult GI hemorrhage after a normal upper and lower endoscopic examination. **Overt** = visible bleeding (melena/hematochezia); **occult** = positive fecal occult blood test **with or without [[iron-deficiency-anemia|iron-deficiency anemia]]**.
+- **Definitions ([[acg-2015-small-bowel-bleeding]]):** small-bowel bleeding = overt or occult GI hemorrhage after a normal [[upper-endoscopy|upper]] and lower endoscopic examination. **Overt** = visible bleeding (melena/hematochezia); **occult** = positive fecal occult blood test **with or without [[iron-deficiency-anemia|iron-deficiency anemia]]**.
 
 ### Crohn's Disease
 
 - **Key concept 27 ([[acg-2025-crohns]]):** *"Video capsule endoscopy is a useful **adjunct** in the diagnosis of patients with small bowel CD in patients in whom there is a **high index of suspicion** of disease."*
 - **Key concept 28:** *"Patients with **obstructive symptoms** should have small bowel imaging and/or **patency capsule** evaluation before video capsule endoscopy to decrease the risk of capsule retention."*
-- Incremental diagnostic yield of VCE over comparators in suspected CD: **32% vs barium studies, 47% vs CTE, 22% vs ileocolonoscopy.**
-- **Lewis score** (villous appearance, ulcers, strictures) is built into some capsule software platforms and quantifies small-bowel inflammatory burden.
+- Incremental diagnostic yield of VCE over comparators in suspected CD: **32% vs barium studies, 47% vs CTE, 22% vs [[colonoscopy|ileocolonoscopy]].**
+- **Lewis score** — scores **3 endoscopic parameters: villous appearance, ulcers, and strictures**; built into some capsule software platforms; quantifies small-bowel inflammatory burden and assists CD diagnosis ([[acg-2025-crohns]]).
+  - ⚠ **Decision gap — flagged, not filled:** the **per-parameter point values and the score bands** (what total separates normal from mild vs moderate-to-severe inflammation) are **not printed in any ingested source** — ACG 2025 describes the score's structure only. The score therefore **cannot be computed or interpreted from this page**. Closing it needs the Lewis score derivation paper ingested (ACG 2025 cites Monteiro S, et al. *Inflamm Bowel Dis* 2015;21:2241–6 for its diagnostic accuracy, not its criteria). Do not supply from memory.
 - ⚠ Specificity is questioned — **no consensus exists on which capsule findings constitute a diagnosis of CD.**
 
 ### Polyposis Surveillance

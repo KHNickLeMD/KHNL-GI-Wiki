@@ -3,7 +3,7 @@ title: "Achalasia"
 category: disease-script
 tags: [achalasia, esophageal-motility, dysphagia, hrm, poem, heller-myotomy, pneumatic-dilation, foregut]
 created: 2026-05-15
-updated: 2026-08-27
+updated: 2026-08-30
 sources: [acg-2020-achalasia, asge-2020-achalasia, sages-2021-poem, sages-2024-poem, aga-2024-poem-advances, aga-2024-esophageal-immunity-infection, chicago-v4-2021-esophageal-dysmotility]
 ---
 ## Assessment
@@ -141,15 +141,12 @@ flowchart TD
 
 ### Pneumatic Dilation (PD)
 
-- Graded Rigiflex balloon dilators: 3.0 → 3.5 → 4.0 cm
-- Performed under sedation ± fluoroscopy; all patients must be surgical candidates (in case of perforation)
-- Initial 3.0 cm → reassess at 4–6 weeks; advance size if still symptomatic
-- **Young men (<45y):** Start at 3.5 cm or consider LHM/POEM (thicker LES musculature → worse PD response)
-- Predictors of favorable PD response: age >45y, female sex, non-dilated esophagus, LES pressure post-PD <10 mmHg
-- **Pooled efficacy:** clinical success (**ES ≤3**) in **83% (95% CI 79–85%)** across 52 uncontrolled studies / 4,166 patients, at 3–6 months' follow-up; mean LES pressure falls 34.5 → 20.8 mmHg ([[asge-2020-achalasia]])
-- **Perforation risk:** ACG 2020 — overall reported 1.9% (range 0–10%); **median 1.9% (range 0–16%) in experienced hands** (operators with >100 patients treated). *Contradiction surfaced:* the [[asge-2020-achalasia|ASGE 2020]] meta-analysis pools perforation at **2.8% (95% CI 2.3–3.5%)** and bleeding requiring intervention at **2%** — same year, different study sets; quote both. Requires surgery if large/mediastinal contamination
-- Do NOT perform routine post-dilation gastrograffin esophagram; reserve for clinical suspicion of perforation
-- GERD occurs in 15–35% post-PD → [[proton-pump-inhibitors|PPI]] therapy (ASGE 2020 pools *symptomatic* GERD lower, at **9%**, 95% CI 5–16%, at ~6 months — the two figures use different GERD definitions)
+- Graded Rigiflex balloon dilators: **3.0 → 3.5 → 4.0 cm**, advancing only if still symptomatic at 4–6 weeks
+- **Every PD candidate must also be a surgical candidate** — perforation 1.9% (ACG) to 2.8% (ASGE) and may need operative repair
+- **Young men (<45y):** start at 3.5 cm, or choose LHM/POEM instead (thicker LES musculature → worse PD response). Favorable-response predictors: age >45y, female sex, non-dilated esophagus, post-PD LES pressure <10 mmHg
+- **Pooled efficacy:** clinical success (**ES ≤3**) in **83% (95% CI 79–85%)** across 52 uncontrolled studies / 4,166 patients at 3–6 months ([[asge-2020-achalasia]]); 74% / 86% / 90% cumulatively by balloon size
+- **GERD after PD 15–35%** → [[proton-pump-inhibitors|PPI]]; recurrent dysphagia may be a reflux stricture rather than recurrent achalasia
+- **Full technique, inflation parameters, post-procedure care, perforation management, and retreatment: [[pneumatic-dilation]].**
 
 > **Recommendation:** Serial PD is the most effective non-surgical treatment. Superior to botulinum toxin. Equivalent to LHM at 5 years. (Strong; High evidence)
 
@@ -242,7 +239,7 @@ flowchart TD
 
 ## See Also
 
-[[dysphagia]], [[high-resolution-manometry]], [[flip-panometry]], [[poem]], [[chicago-classification-v4]], [[distal-esophageal-spasm]], [[hypercontractile-esophagus]], [[esophagogastric-junction-outflow-obstruction]], [[gerd]], [[eosinophilic-esophagitis]], [[esophageal-dysfunction-systemic-disease]], [[upper-endoscopy]], [[heller-myotomy]], [[esophageal-cancer]], [[esophageal-adenocarcinoma]], [[reflux-testing]], [[ambulatory-reflux-monitoring]], [[antireflux-surgery]], [[endoscopic-submucosal-dissection]], [[barretts-esophagus]], [[proton-pump-inhibitors]], [[endoscopic-ultrasound]], [[endoscopy-sedation]]
+[[dysphagia]], [[high-resolution-manometry]], [[flip-panometry]], [[poem]], [[pneumatic-dilation]], [[chicago-classification-v4]], [[distal-esophageal-spasm]], [[hypercontractile-esophagus]], [[esophagogastric-junction-outflow-obstruction]], [[gerd]], [[eosinophilic-esophagitis]], [[esophageal-dysfunction-systemic-disease]], [[upper-endoscopy]], [[heller-myotomy]], [[esophageal-cancer]], [[esophageal-adenocarcinoma]], [[reflux-testing]], [[ambulatory-reflux-monitoring]], [[antireflux-surgery]], [[endoscopic-submucosal-dissection]], [[barretts-esophagus]], [[proton-pump-inhibitors]], [[endoscopic-ultrasound]], [[endoscopy-sedation]]
 
 ---
 

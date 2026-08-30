@@ -3,7 +3,7 @@ title: "Nutrition in Liver Disease"
 category: disease-script
 tags: [liver, cirrhosis, malnutrition, sarcopenia, hepatic-encephalopathy, bcaa, vitamin-e, mash, masld, ald, coffee, nutrition]
 created: 2026-05-07
-updated: 2026-08-28
+updated: 2026-08-30
 sources: [acg-2025-liver-nutrition, aasld-2021-malnutrition-cirrhosis]
 ---
 
@@ -139,9 +139,7 @@ Malnutrition in liver disease is multifactorial:
 | Vitamin E | 800 IU/day in MASH without cirrhosis only |
 | Protein restriction | Do NOT restrict in cirrhosis or HE |
 
----
-
-## Monitoring
+### Monitoring
 
 - Reassess frailty/sarcopenia every 3–6 months in cirrhosis (changes detectable at 3–6 months by CT)
 - Monitor for anorexia/malnutrition at each visit — interventions indicated with poor dietary intake

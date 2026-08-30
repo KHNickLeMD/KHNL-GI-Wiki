@@ -3,7 +3,7 @@ title: "ACG Clinical Guideline: Alcohol-Associated Liver Disease (2024)"
 category: source
 tags: [ald, alcoholic-hepatitis, cirrhosis, liver, hpb, aud, corticosteroids, liver-transplant]
 created: 2026-05-07
-updated: 2026-05-28
+updated: 2026-08-30
 sources: []
 ---
 
@@ -20,7 +20,7 @@ sources: []
 
 This ACG clinical guideline covers the full spectrum of alcohol-associated liver disease (ALD), from hepatic steatosis through alcohol-associated hepatitis (AH) to cirrhosis. It provides evidence-based recommendations for diagnosis, severity stratification, medical management, and [[liver-transplantation|liver transplantation]].
 
-Alcohol-associated hepatitis is defined by the rapid onset of jaundice and liver failure in the setting of heavy ongoing alcohol use. Diagnosis is clinical in most cases (no liver biopsy required if criteria are met), and severity is stratified using the Maddrey Discriminant Function (MDF) or MELD score. Severe AH (MELD ≥20 or MDF ≥32) carries substantial short-term mortality and warrants treatment with prednisolone 40 mg/day for 28 days. The Lille score at day 7 identifies non-responders (≥0.45), in whom steroids should be discontinued.
+Alcohol-associated hepatitis is defined by the rapid onset of jaundice and liver failure in the setting of heavy ongoing alcohol use. Diagnosis is clinical in most cases (no liver biopsy required if criteria are met), and severity is stratified using the Maddrey Discriminant Function (MDF) or MELD score. Severe AH (MELD **>20** or MDF ≥32) carries substantial short-term mortality and warrants treatment with prednisolone 40 mg/day for 28 days. The Lille score at day 7 identifies non-responders (≥0.45), in whom steroids should be discontinued.
 
 N-acetylcysteine (NAC) added to corticosteroids in the first 5–7 days reduces infection rates and improves short-term (but not 90-day) mortality. Alcohol use disorder (AUD) treatment is emphasized for all ALD patients; baclofen has the most evidence for safety in cirrhosis.
 
@@ -32,7 +32,7 @@ Early liver transplantation (ELT) without requiring 6 months of abstinence is in
 - **AH diagnosis criteria:** jaundice (onset within 60 days of heavy use), AST/ALT ratio >1.5 (AST <500, ALT <400 typically), elevated bilirubin, elevated INR/PT — clinical diagnosis; biopsy not required if criteria met
 - **Severity stratification:**
   - Mild–moderate: MELD <20 or MDF <32
-  - Severe: MELD ≥20 or MDF ≥32 → warrants corticosteroid treatment
+  - Severe: MELD **>20** or MDF ≥32 → warrants corticosteroid treatment (the guideline defines **moderate** AH as MELD **≤20**, so the boundary is strict)
 - **Prednisolone 40 mg/day × 28 days:** first-line for severe AH (no active infection, no active GI bleeding, no AKI, no severe renal failure, no HBV, bilirubin >3)
 - **Lille score at day 7:** ≥0.45 = non-response → discontinue steroids (no additional benefit, increased infection risk)
 - **NAC IV:** added to prednisolone in first 5–7 days; reduces bacterial infections and improves 30-day survival; does not improve 90-day or 6-month survival
@@ -52,7 +52,7 @@ Early liver transplantation (ELT) without requiring 6 months of abstinence is in
 |---|---|---|
 | **Diagnosis and Severity** | | |
 | Clinical diagnosis of AH (jaundice within 60 days of heavy use, AST/ALT ratio >1.5, elevated bilirubin and INR); biopsy not required if criteria met | Strong | Moderate |
-| Stratify severity with MELD (≥20 = severe) or Maddrey Discriminant Function (≥32 = severe) | Strong | Moderate |
+| Stratify severity with MELD (**>20** = severe; ≤20 = moderate) or Maddrey Discriminant Function (≥32 = severe). Based on the **original MELD**, not MELD-Na | Strong | Moderate |
 | **Treatment — Severe AH** | | |
 | Prednisolone 40 mg/day × 28 days for severe AH (no active infection, GI bleeding, AKI, HBV, or bilirubin <3) | Strong | Moderate |
 | Assess Lille score at day 7; discontinue steroids if ≥0.45 (non-response) | Strong | Moderate |

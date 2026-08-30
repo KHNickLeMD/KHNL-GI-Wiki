@@ -3,7 +3,7 @@ title: "Chronic Diarrhea"
 category: diagnostic-schema
 tags: [diarrhea, chronic, malabsorption, secretory, osmotic, inflammatory, steatorrhea, ibs]
 created: 2026-06-04
-updated: 2026-08-26
+updated: 2026-08-30
 sources: [asge-2010-diarrhea]
 ---
 
@@ -13,9 +13,7 @@ Chronic diarrhea is decreased stool consistency (loose or watery) lasting **> 4 
 
 The most useful framework is to classify by **stool character** into watery, inflammatory, and fatty, which maps onto the underlying mechanism and the workup.
 
----
-
-## Mechanistic Classification
+### Mechanistic Classification
 
 > ⚠ **Source-provenance flag (flagged, not filled).** The only source ingested for this page is [[asge-2010-diarrhea]], an ASGE **role-of-endoscopy** document. It supports the **>4-week** definition and everything in [[#Role of Endoscopy (ASGE 2010)]] — but it does **not** contain the secretory/osmotic/inflammatory/fatty mechanistic scheme, the stool osmotic-gap formula or its **<50 / >75 mOsm/kg** cutoffs, the endocrine panel, the bile-acid testing modalities below, or the **Bristol 6–7** stool-consistency anchor in [[#Definition / Scope]] (the Bristol Stool Form Scale itself exists in the corpus only as a figure and inside an ungated lecture — no page defines its 7 types). Those predate this lint pass and are **not traceable to any ingested source** (verified by full-corpus search: no ingested source mentions "osmotic gap"). Treat the cutoffs as unverified until a chronic-diarrhea guideline (e.g. an ACG/AGA chronic diarrhea guideline, or the primary stool-electrolyte literature) is added to `raw/`. **Do not supply them from memory.**
 
@@ -108,9 +106,7 @@ flowchart TD
 - **[[colonoscopy]] with random biopsies** — IBD and **[[microscopic-colitis]]** (biopsy mandatory even if mucosa appears normal).
 - **SIBO breath testing** ([[small-intestinal-bacterial-overgrowth]]) and small-bowel imaging (CTE/MRE) in malabsorptive/post-surgical patients.
 
----
-
-## Role of Endoscopy (ASGE 2010)
+### Role of Endoscopy (ASGE 2010)
 
 *Endoscopy is reserved for chronic, unexplained, or treatment-refractory diarrhea — stool/labs come first. ([[asge-2010-diarrhea]])*
 

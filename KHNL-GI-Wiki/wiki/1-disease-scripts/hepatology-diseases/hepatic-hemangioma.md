@@ -3,7 +3,7 @@ title: "Hepatic Hemangioma"
 category: disease-script
 tags: [hemangioma, liver, hpb, focal-liver-lesion, benign-liver, mri, cavernous-hemangioma, kasabach-merritt, sclerosed-hemangioma]
 created: 2026-05-07
-updated: 2026-08-25
+updated: 2026-08-30
 sources: [acg-2024-focal-liver-lesions]
 ---
 
@@ -14,8 +14,8 @@ sources: [acg-2024-focal-liver-lesions]
 ## Contents
 - [[#Assessment]]
   - [[#Establishing the Diagnosis]]
-  - [[#Classification / Typing]]
   - [[#Severity Assessment]]
+  - [[#Classification / Typing]]
 - [[#Differential Diagnosis]]
 - [[#Diagnostics]]
 - [[#Therapeutics]]
@@ -31,7 +31,7 @@ sources: [acg-2024-focal-liver-lesions]
 - Believed to arise from a **congenital abnormality in vasculogenesis**, growing slowly from birth
 - Enlargement is due to **progressive ectasia of the vasculature**, not hypertrophy of the lesion
 - **No known malignant potential**
-- **No clear causative link to female sex hormones** — it is therefore **not recommended to avoid OCPs or pregnancy** in a patient with a hemangioma
+- **No clear causative link to female sex hormones** (management consequence under [[#Hormones and Contraception]])
 
 **Presentation:**
 
@@ -39,6 +39,14 @@ sources: [acg-2024-focal-liver-lesions]
 - Larger lesions: pain, poor appetite, abdominal fullness
 - **Kasabach–Merritt syndrome:** rare consumptive coagulopathy — **thrombocytopenia, systemic bleeding, DIC** — usually seen in **giant cavernous** hemangiomas
 - **Spontaneous rupture is exceedingly rare**
+
+### Severity Assessment
+
+No grading system — hemangioma is uniformly benign. Three variables actually drive management:
+
+1. **Is the diagnosis confirmed on imaging?** (if not → monitor + multidisciplinary tumor board, KC 25)
+2. **Does the patient have [[cirrhosis]], [[chronic-hepatitis-b|chronic hepatitis B]], or another malignancy risk?** — the only situation requiring surveillance
+3. **Is there a lesion-related complication?** — the only indication for treatment
 
 ### Classification / Typing
 
@@ -50,14 +58,6 @@ sources: [acg-2024-focal-liver-lesions]
 | **Giant cavernous** | **>10 cm** (some authors use >4–5 cm) | Same features, but may also show **calcification, large central non-enhancement, heterogeneous post-contrast enhancement** | Still needs no follow-up if asymptomatic; source of Kasabach–Merritt |
 | **Capillary ("flash-filling")** | usually **<1 cm** | Rapid **homogeneous** arterial-phase enhancement on CT/MRI; **may show vascular flow on US** (smaller vascular spaces) | Can be mistaken for a hypervascular malignancy |
 | **Sclerosed** (thrombosed / hyalinized) | variable | **Thick peripheral rim** enhancement early, progressive enhancement that is **non-centripetal and non-nodular**; **heterogeneous** on T2; **increasing** restricted diffusion at high b-value; **upstream capsular retraction** | Mimics [[cholangiocarcinoma\|intrahepatic cholangiocarcinoma]] or hypovascular metastasis — the main diagnostic trap |
-
-### Severity Assessment
-
-No grading system — hemangioma is uniformly benign. Three variables actually drive management:
-
-1. **Is the diagnosis confirmed on imaging?** (if not → monitor + multidisciplinary tumor board, KC 25)
-2. **Does the patient have [[cirrhosis]], [[chronic-hepatitis-b|chronic hepatitis B]], or another malignancy risk?** — the only situation requiring surveillance
-3. **Is there a lesion-related complication?** — the only indication for treatment
 
 ---
 

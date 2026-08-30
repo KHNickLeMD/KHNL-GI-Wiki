@@ -3,7 +3,7 @@ title: "High-Resolution Manometry (HRM)"
 category: advanced-procedure
 tags: [hrm, manometry, esophageal, motility, foregut, chicago-classification, hrem]
 created: 2026-05-16
-updated: 2026-08-14
+updated: 2026-08-30
 sources: [acg-2020-esophageal-physiologic-testing]
 ---
 
@@ -76,7 +76,7 @@ From [[acg-2020-esophageal-physiologic-testing]] (multicenter RCT of 247 patient
 
 ## HRM for Hiatal Hernia Detection
 
-HRM is superior to [[upper-endoscopy|endoscopy]] and barium radiography for detecting sliding hiatal hernia [[acg-2020-esophageal-physiologic-testing]]:
+HRM is superior to [[upper-endoscopy|endoscopy]] and barium radiography for detecting sliding [[hiatal-hernia|hiatal hernia]] [[acg-2020-esophageal-physiologic-testing]]:
 
 | Method | Sensitivity | Specificity | Source |
 |---|---|---|---|
@@ -113,7 +113,7 @@ Manometric hiatal hernia criteria: LES-CD separation >2 cm. Body position affect
 
 ## See Also
 
-[[chicago-classification-v4]], [[hrm-antireflux-surgery]], [[antireflux-surgery]], [[flip-panometry]], [[gerd]], [[achalasia]], [[dysphagia]], [[ambulatory-reflux-monitoring]], [[esophagogastric-junction-outflow-obstruction]], [[ineffective-esophageal-motility]], [[distal-esophageal-spasm]], [[hypercontractile-esophagus]], [[rumination-syndrome]], [[upper-endoscopy]], [[reflux-testing]], [[poem]]
+[[chicago-classification-v4]], [[hrm-antireflux-surgery]], [[antireflux-surgery]], [[flip-panometry]], [[gerd]], [[achalasia]], [[dysphagia]], [[ambulatory-reflux-monitoring]], [[esophagogastric-junction-outflow-obstruction]], [[ineffective-esophageal-motility]], [[distal-esophageal-spasm]], [[hypercontractile-esophagus]], [[rumination-syndrome]], [[upper-endoscopy]], [[reflux-testing]], [[poem]], [[heller-myotomy]], [[hiatal-hernia]], [[anorectal-manometry]]
 
 ---
 

@@ -3,7 +3,7 @@ title: "Nausea and Vomiting of Pregnancy (& Hyperemesis Gravidarum)"
 category: disease-script
 tags: [pregnancy, nausea, vomiting, nvp, hyperemesis-gravidarum, puqe, doxylamine, pyridoxine, ondansetron, antiemetics]
 created: 2026-07-26
-updated: 2026-08-14
+updated: 2026-08-30
 sources: [aga-2024-pregnancy-gi-liver]
 ---
 
@@ -87,11 +87,11 @@ Goals: prevent dehydration, correct electrolytes, support maternal (and fetal) n
 - **Vitamin B1 (thiamine) 100 mg/day for ≥7 days**, then 50 mg/day until adequate oral intake — prevents refeeding syndrome and Wernicke encephalopathy.
 - Step-up per ACOG for non-responders: metoclopramide → ondansetron → promethazine.
 - **Methylprednisolone (last resort):** 16 mg IV every 8 hours for up to 3 days, then taper over 2 weeks to lowest effective dose, maximum duration 6 weeks; reduces rehospitalization. **Avoid in the 1st trimester before 10 weeks** (slight increased risk of cleft palate — data conflicting; use with caution).
-- Severe symptoms may need hospitalization for IV hydration and repletion of electrolytes, vitamins, and nutrients; **enteral or parenteral nutrition** if weight loss/symptoms persist. ([[aga-2024-pregnancy-gi-liver]])
+- Severe symptoms may need hospitalization for IV hydration and repletion of electrolytes, vitamins, and nutrients; **[[nutrition-in-hospitalized-patients|enteral or parenteral nutrition]]** if weight loss/symptoms persist. ([[aga-2024-pregnancy-gi-liver]])
 
 ## See Also
 
-[[nausea-and-vomiting]], [[liver-disease-in-pregnancy]], [[intrahepatic-cholestasis-of-pregnancy]], [[acute-fatty-liver-of-pregnancy]], [[gastroparesis]], [[cyclic-vomiting-syndrome]], [[cannabinoid-hyperemesis-syndrome]], [[gerd]], [[proton-pump-inhibitors]]
+[[nausea-and-vomiting]], [[liver-disease-in-pregnancy]], [[intrahepatic-cholestasis-of-pregnancy]], [[acute-fatty-liver-of-pregnancy]], [[gastroparesis]], [[cyclic-vomiting-syndrome]], [[cannabinoid-hyperemesis-syndrome]], [[gerd]], [[proton-pump-inhibitors]], [[nutrition-in-hospitalized-patients]]
 
 ---
 

@@ -3,10 +3,20 @@ title: "Esophagogastric Junction Outflow Obstruction (EGJOO)"
 category: disease-script
 tags: [egjoo, esophageal-motility, dysphagia, hrm, chicago-classification, foregut]
 created: 2026-07-29
-updated: 2026-08-27
+updated: 2026-08-30
 sources: [aga-2024-poem-advances, chicago-v4-2021-esophageal-dysmotility]
 ---
 A **manometric finding, not a diagnosis** — impaired EGJ relaxation with preserved (or only partially disordered) peristalsis, distinguishing it from [[achalasia]]. In isolation it should **not** justify any permanent intervention; it has many mimics and requires correlation with symptoms and confirmatory testing.
+
+## Contents
+- [[#Assessment]]
+  - [[#Establishing the Diagnosis]]
+  - [[#Severity Assessment]]
+- [[#Differential Diagnosis]]
+- [[#Diagnostics]]
+- [[#Therapeutics]]
+- [[#See Also]]
+- [[#Sources]]
 
 ## Assessment
 
@@ -33,7 +43,7 @@ A **manometric finding, not a diagnosis** — impaired EGJ relaxation with prese
 
 - **Sub-classify by the accompanying peristaltic pattern** (CCv4.0) — it names the coexisting disorder and shapes therapy: EGJOO **with spastic features** (≥20% premature swallows), **with hypercontractile features**, **with ineffective motility**, or **with no evidence of disordered peristalsis**.
 - Also useful but **not required**: outflow obstruction and esophageal pressurization during the rapid drink challenge (RDC) are supportive of a manometric EGJOO.
-- An [[ambulatory-reflux-monitoring|pH study]] is used to exclude [[gerd|GERD]] as the driver rather than to confirm EGJOO.
+- A [[ambulatory-reflux-monitoring|pH study]] is used to exclude [[gerd|GERD]] as the driver rather than to confirm EGJOO.
 
 ### Severity Assessment
 

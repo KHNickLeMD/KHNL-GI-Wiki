@@ -3,9 +3,19 @@ title: "Familial Pancreatic Cancer (FPC)"
 category: disease-script
 tags: [genetics, hereditary-cancer, pancreatic-cancer]
 created: 2026-06-04
-updated: 2026-08-14
+updated: 2026-08-30
 sources: [asge-2022-pancreatic-cancer-screening, acg-2015-hereditary-gi-cancer]
 ---
+
+## Contents
+- [[#Assessment]]
+  - [[#Establishing the Diagnosis]]
+  - [[#Severity Assessment]]
+- [[#Differential Diagnosis]]
+- [[#Diagnostics]]
+- [[#Therapeutics]]
+- [[#See Also]]
+- [[#Sources]]
 
 ## Assessment
 
@@ -57,6 +67,8 @@ Syndromes that must be excluded before calling a kindred FPC — each has its ow
 - **When to start:** age **50**, or **10 years earlier** than the youngest relative with pancreatic cancer — whichever comes first.
 - **Interval:** annual (conditional, very low quality).
 - **Why 50 and not earlier:** screening starts **1 SD below** the mean age of diagnosis for the population; conditions conferring ≥10 relative risk ([[fammm-syndrome|FAMMM]], [[peutz-jeghers-syndrome|Peutz-Jeghers]]) start **2 SD below**, which is why their start ages are 40 and 35.
+
+---
 
 ## See Also
 

@@ -3,11 +3,24 @@ title: "Gastroenteropancreatic Neuroendocrine Tumors (GEP-NETs)"
 category: disease-script
 tags: [neuroendocrine-tumor, net, gep-net, pannet, carcinoid, gastrinoma, insulinoma, glucagonoma, vipoma, zollinger-ellison, men1, prrt]
 created: 2026-06-18
-updated: 2026-08-26
+updated: 2026-08-30
 sources: [nccn-2026-net]
 ---
 
 Gastroenteropancreatic neuroendocrine tumors (GEP-NETs) are epithelial neoplasms arising from diffuse neuroendocrine cells of the GI tract and pancreas. They range from indolent, incidentally found lesions to aggressive metastatic disease, and may be **nonfunctioning** (most) or **functioning** (secreting hormones that produce clinical syndromes). Management is site-, size-, and grade-specific and multidisciplinary, spanning endoscopic resection, surgery, somatostatin analogs, peptide receptor radionuclide therapy, and systemic agents ([[nccn-2026-net]]).
+
+## Contents
+- [[#Assessment]]
+  - [[#Establishing the Diagnosis]]
+  - [[#Severity Assessment]]
+  - [[#Classification / Typing]]
+- [[#Differential Diagnosis]]
+- [[#Diagnostics]]
+- [[#Therapeutics]]
+  - [[#Well-Differentiated G3 — the 55% Split]]
+  - [[#NCCN Treatment Algorithm]]
+- [[#See Also]]
+- [[#Sources]]
 
 ## Assessment
 
@@ -24,6 +37,8 @@ Biochemical workup is **site- and syndrome-directed** rather than universal:
 ### Severity Assessment
 
 Prognosis is driven by **grade, differentiation, primary site, and stage (tumor burden / metastases)**. Well-differentiated G1 tumors are often indolent; G2 and well-differentiated G3 tumors behave more aggressively; poorly differentiated neuroendocrine carcinoma (NEC) is highly aggressive and follows a separate, chemotherapy-led pathway. Liver metastatic burden and a functioning (hormone-secreting) phenotype add morbidity.
+
+⚠ **Decision gap — no T/N/M staging criteria are on this page because none are in the ingested source.** [[nccn-2026-net]] as ingested reproduces the **2019 WHO grading** table (above) but **not** the AJCC TNM definitions, which differ by primary site for NETs. The **Therapeutics** table below conditions rectal management on **"T1 (minimally invasive)" vs "T2–T4"** and appendiceal management on nodal status — those T strata are **not defined anywhere in the corpus**. Grade (Ki-67 / mitotic rate) *is* fully specified and is the dominant driver; use it, and consult the AJCC staging manual directly for the T stratum. **Do not infer the T definitions.** Ingesting the AJCC 8th-edition neuroendocrine chapters (or an NCCN version containing the staging tables) would close this.
 
 ### Classification / Typing
 
@@ -115,6 +130,8 @@ flowchart TD
 ```
 
 *Algorithm — NCCN GEP-NET management (GI/pancreatic scope), recreated in original form (not an NCCN figure). ([[nccn-2026-net]])*
+
+---
 
 ## See Also
 

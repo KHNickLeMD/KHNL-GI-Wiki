@@ -3,7 +3,7 @@ title: "FLIP Panometry"
 category: advanced-procedure
 tags: [FLIP, panometry, esophageal-motility, EGJ, functional-lumen-imaging, achalasia, EGJOO, foregut]
 created: 2026-05-15
-updated: 2026-08-27
+updated: 2026-08-30
 sources: [dallas-2025-flip-panometry, aga-2025-flip-esophageal]
 ---
 
@@ -206,6 +206,8 @@ Practical use of FLIP, keyed to the Best Practice Advice numbers ([[aga-2025-fli
 
 **First — high-quality EGD (BPA 1, 3).** Withholding [[proton-pump-inhibitors|PPIs]] 2–4 weeks raises the yield for erosive reflux change and EoE. If it shows **mechanical obstruction, LA grade B–D erosive esophagitis (BPA 8), stricture, EoE, or hiatus hernia >3 cm** → treat accordingly and FLIP may be cancelled (consider FLIP in EoE, BPA 7).
 
+- ⚠ **Decision gap — corpus-blocked:** the **Los Angeles grade A–D mucosal-break criteria** that gate this branch are not defined in any ingested source; the LA grade's home page ([[reflux-testing]]) carries the standing note. Needs Lundell 1999 — do not supply from memory.
+
 Then read FLIP against the endoscopy:
 
 | FLIP | **EGD not suggestive of achalasia** (e.g. hiatus hernia; CARS <4) | **EGD suggestive of achalasia** (CARS ≥4) |
@@ -278,7 +280,7 @@ Where the numbers actually change management ([[aga-2025-flip-esophageal]]):
 
 ## See Also
 
-[[achalasia]], [[high-resolution-manometry]], [[chicago-classification-v4]], [[ineffective-esophageal-motility]], [[esophagogastric-junction-outflow-obstruction]], [[distal-esophageal-spasm]], [[hypercontractile-esophagus]], [[hrm-antireflux-surgery]], [[antireflux-surgery]], [[poem]], [[heller-myotomy]], [[gerd]], [[eosinophilic-esophagitis]], [[dysphagia]], [[upper-endoscopy]], [[endoscopic-ultrasound]]
+[[achalasia]], [[high-resolution-manometry]], [[chicago-classification-v4]], [[ineffective-esophageal-motility]], [[esophagogastric-junction-outflow-obstruction]], [[distal-esophageal-spasm]], [[hypercontractile-esophagus]], [[hrm-antireflux-surgery]], [[antireflux-surgery]], [[poem]], [[heller-myotomy]], [[gerd]], [[reflux-testing]], [[eosinophilic-esophagitis]], [[dysphagia]], [[upper-endoscopy]], [[endoscopic-ultrasound]], [[bariatric-surgery]]
 
 ---
 

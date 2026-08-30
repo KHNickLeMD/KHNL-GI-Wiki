@@ -3,7 +3,7 @@ title: "Noninvasive Liver Disease Assessment (NILDA)"
 category: concept
 tags: [nilda, fibrosis, steatosis, fib-4, elf, vcte, swe, mre, mri-pdff, apri, noninvasive, biomarkers, hpb, liver]
 created: 2026-05-31
-updated: 2026-08-29
+updated: 2026-08-30
 sources: [aasld-2024-nilda-blood, baveno-vii-2022-portal-hypertension, aasld-2023-nafld, aasld-2025-semaglutide-mash, aasld-2024-nilda-imaging, aasld-2024-nilda-portal-htn, aga-2023-nafld-noninvasive-biomarkers]
 ---
 
@@ -26,7 +26,7 @@ Most blood/imaging NITs have **high negative predictive value (rule-out)** but *
 
 ## Imaging-based
 
-- **VCTE (FibroScan)** — point-of-care [[liver-stiffness-measurement|LSM]]; rule-out <8 kPa, rule-in ≥12, cirrhosis ≥20. CAP for steatosis (≥288 dB/min).
+- **VCTE (FibroScan)** — point-of-care [[liver-stiffness-measurement|LSM]]; rule-out <8 kPa, rule-in ≥12, cirrhosis ≥20. CAP for steatosis (**≥288 dB/m**).
 - **MRE** — most accurate fibrosis NIT (AUROC ~0.93); rule-out <2.55, advanced ≥3.63, cirrhosis ≥5 kPa; superior in central adiposity / narrow rib space.
 - **SWE (2D shear wave elastography)** — rule-in AF **>8.0 kPa**; at cutoffs 3.02–10.6 kPa, sensitivity 89.9%, specificity 91.8%, PPV 88.2%, NPV 93.4%; a 3.36 cutoff for cirrhosis gave sensitivity 100%/specificity 85.6%. [[aga-2023-nafld-noninvasive-biomarkers]]
 - **MRI-PDFF** — most accurate steatosis quantification (≥5%); tracks dynamic change; ≥30% reduction tracks histologic response.

@@ -3,7 +3,7 @@ title: "IBD Preventive Care"
 category: concept
 tags: [ibd, crohns-disease, ulcerative-colitis, preventive-care, vaccinations, cancer-screening, osteoporosis, depression, anxiety, immune-modifying-therapy]
 created: 2026-05-15
-updated: 2026-08-11
+updated: 2026-08-30
 sources: [acg-2025-ibd-preventive-care, acg-2017-ibd-preventive-care, aga-2025-noncolorectal-cancer-ibd]
 ---
 
@@ -53,6 +53,8 @@ Patients with [[inflammatory-bowel-disease|IBD]] ([[crohns-disease]] and [[ulcer
 ---
 
 ## Cancer Screening
+
+*Scope split: this section is **screening of the cancer-free IBD patient**. What to do with thiopurines, anti-TNF, and the newer classes **once a cancer has developed** (or in a patient with a prior cancer) lives on [[ibd-in-malignancy]] — including the drug-by-cancer-type stop/continue grid. Do not duplicate it here.*
 
 ### Cervical Cancer
 
@@ -135,7 +137,7 @@ Conventional DEXA risk factors apply: age, female sex, low BMI, smoking, family 
 
 ## See Also
 
-[[inflammatory-bowel-disease]], [[crohns-disease]], [[ulcerative-colitis]], [[colonoscopy]], [[chronic-hepatitis-b]], [[rotavirus]], [[colorectal-cancer]], [[colonoscopy-surveillance]]
+[[inflammatory-bowel-disease]], [[crohns-disease]], [[ulcerative-colitis]], [[ibd-in-malignancy]], [[ibd-endoscopic-scoring]], [[ibd-pain-management]], [[nutrition-in-ibd]], [[pouchitis]], [[colonoscopy]], [[chronic-hepatitis-b]], [[rotavirus]], [[colorectal-cancer]], [[colonoscopy-surveillance]]
 
 ---
 

@@ -3,7 +3,7 @@ title: "Acute Pancreatitis"
 category: disease-script
 tags: [pancreatitis, acute-pancreatitis, hpb, gallstone-pancreatitis, necrotizing-pancreatitis, ercp, bisap, fluid-resuscitation, nutrition]
 created: 2026-05-07
-updated: 2026-08-27
+updated: 2026-08-30
 sources: [acg-2024-acute-pancreatitis, asge-2016-pancreatic-fluid-collections, asge-2015-benign-pancreatic-disease, demadaria-2022-waterfall, aga-2024-pregnancy-gi-liver, aga-2022-recurrent-pancreatitis-endoscopy, asge-2023-post-ercp-pancreatitis, aga-2020-cpu-pancreatic-necrosis]
 ---
 
@@ -291,7 +291,7 @@ sources: [acg-2024-acute-pancreatitis, asge-2016-pancreatic-fluid-collections, a
 | **When is direct endoscopic necrosectomy (DEN) indicated rather than drainage alone?** | **Reserve DEN** for **limited necrosis that does not respond adequately** to transmural drainage with large-bore SEMS/LAMS alone, or plastic stents plus irrigation. DEN is also an option for **large amounts of infected necrosis** — but only **at referral centers** with the endoscopic expertise plus **interventional-radiology and surgical backup** (BPA 10). Risks: **air embolism, intracavitary bleeding, perforation** |
 | **Which minimally invasive operation?** | **Videoscopic-assisted retroperitoneal debridement (VARD), laparoscopic transgastric debridement, and open transgastric debridement** are all feasible and effective; choose by **pattern of disease, patient physiology, team experience/expertise, and available resources** (BPA 12). **The anatomy picks the operation:** VARD suits a **central distribution of necrosis extending down into the *left* paracolic gutter** (accessed via the left flank) and can be **ineffective at reaching necrosis right of the mesenteric vessels**; **transgastric** approaches suit **centrally located** necrosis, and **extension into *either* paracolic gutter can leave the debridement incomplete** |
 | **Is there still a role for open debridement?** | **Yes** — for cases **not amenable to less invasive endoscopic and/or surgical procedures** (BPA 13); best undertaken with a **large burden of necrosis distributed diffusely** through the abdomen |
-| **Disconnected left pancreatic remnant** after mid-body necrosis | **Distal pancreatectomy** in patients with **reasonable operative candidacy**. **Insufficient evidence** supports managing it with **long-term transenteric endoscopic stenting** (BPA 14) — EUS-guided transmural stenting is a **temporizing** measure. ⚠ No newer ingested source covers DPDS |
+| **Disconnected left pancreatic remnant** after mid-body necrosis | **Distal pancreatectomy** in patients with **reasonable operative candidacy**. **Insufficient evidence** supports managing it with **long-term transenteric endoscopic stenting** (BPA 14) — EUS-guided transmural stenting is a **temporizing** measure. *Definitions, diagnostic modalities and stent strategy — including a newer (2025) consensus statement — live on [[disconnected-pancreatic-duct-syndrome\|disconnected pancreatic duct (DPD/DPDS)]]; consult it before acting on this 2020 BPA* |
 | **When do you resect the disconnected remnant?** | Two windows, and the trade is stated: **subacute — within the first 30–60 days of illness, concurrent with debridement** (one procedure, concise disease course, but relatively high periprocedural morbidity: transfusion, postoperative pancreatic fistula, longer stay, readmission); or **elective distal pancreatectomy several months later**, after the patient's physiology recovers. Either way, expect **laparotomy with concomitant splenectomy** — inflammation and fibrosis obliterate tissue planes and splenic vein thrombosis with sinistral hypertension is common. Consider **concurrent islet autotransplantation** when the remnant is of substantive size, since new diabetes is common after DPDS even without resection |
 
 **Endoscopic drainage of fluid collections — indications & approach [[asge-2016-pancreatic-fluid-collections]]:**
@@ -323,7 +323,7 @@ sources: [acg-2024-acute-pancreatitis, asge-2016-pancreatic-fluid-collections, a
 
 ## See Also
 
-[[alcohol-associated-liver-disease]], [[chronic-pancreatitis]], [[recurrent-acute-pancreatitis]], [[pancreas-divisum]], [[hereditary-pancreatitis]], [[pancreatic-cysts]], [[ercp]], [[endoscopic-ultrasound]], [[mri-mrcp]], [[peptic-ulcer-disease]], [[acute-mesenteric-ischemia]], [[choledocholithiasis]], [[acute-cholecystitis]], [[sphincter-of-oddi-dysfunction]], [[ampullary-adenoma]], [[nutrition-in-hospitalized-patients]], [[enteral-access]], [[portal-hypertension]], [[liver-disease-in-pregnancy]]
+[[alcohol-associated-liver-disease]], [[chronic-pancreatitis]], [[recurrent-acute-pancreatitis]], [[pancreas-divisum]], [[hereditary-pancreatitis]], [[pancreatic-cysts]], [[disconnected-pancreatic-duct-syndrome]], [[exocrine-pancreatic-insufficiency]], [[ercp]], [[endoscopic-ultrasound]], [[mri-mrcp]], [[peptic-ulcer-disease]], [[acute-mesenteric-ischemia]], [[choledocholithiasis]], [[acute-cholecystitis]], [[acute-cholangitis]], [[sphincter-of-oddi-dysfunction]], [[ampullary-adenoma]], [[nutrition-in-hospitalized-patients]], [[enteral-access]], [[portal-hypertension]], [[liver-disease-in-pregnancy]]
 
 ---
 

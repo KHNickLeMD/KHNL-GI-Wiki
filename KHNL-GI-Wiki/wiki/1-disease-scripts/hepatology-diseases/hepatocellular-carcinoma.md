@@ -3,7 +3,7 @@ title: "Hepatocellular Carcinoma"
 category: disease-script
 tags: [hcc, hepatocellular, liver, cancer, hpb, surveillance, cirrhosis, hbv, adjuvant, immunotherapy, liver-transplant, milan-criteria, afp, downstaging, mtor-inhibitor, sirolimus, everolimus, bclc, sorafenib, lenvatinib, atezolizumab, bevacizumab, tace, tare, ablation, resection, li-rads, locoregional]
 created: 2026-05-16
-updated: 2026-08-28
+updated: 2026-08-30
 sources: [aasld-2023-hcc, aasld-2025-hcc-critical-update, aasld-ast-2025-liver-transplant-candidate-evaluation, aasld-ast-2025-liver-transplant-graft-complications, aga-2022-hcc-systemic, nccn-2026-hcc, aga-2026-hcc-surveillance, aasld-idsa-2025-chb-treatment]
 ---
 
@@ -69,7 +69,7 @@ HCC is the most common primary liver cancer (75–86% of all primary liver cance
 - HBV/HIV co-infection: men ≥18, women ≥40
 - Post-HBsAg loss in high-risk subgroups: continue surveillance per guidelines
 
-**Recommended surveillance test:** Ultrasound + AFP at semiannual (~every 6 months) intervals. This combination achieves sensitivity of 63% for early-stage HCC vs. 53% for US alone. AFP cutoff of 20 ng/mL most common threshold. CT or MRI-based surveillance not recommended routinely (Level 5, Weak); may consider MRI in patients with obesity, alcohol/NASH cirrhosis, or CTP B/C where US is suboptimal. [[aasld-2023-hcc]]
+**Recommended surveillance test:** Ultrasound + AFP at semiannual (~every 6 months) intervals. This combination achieves sensitivity of **63%** for early-stage HCC vs. **~51% for US alone** ([[aga-2026-hcc-surveillance]]). ⚠ [[aasld-2023-hcc]] gives US-alone sensitivity as **53%** (95% CI 35–70%); the newer 2026 CPU figure is followed here per source priority, and the two overlap within the AASLD confidence interval. AFP cutoff of 20 ng/mL most common threshold. CT or MRI-based surveillance not recommended routinely (Level 5, Weak); may consider MRI in patients with obesity, alcohol/NASH cirrhosis, or CTP B/C where US is suboptimal. [[aasld-2023-hcc]]
 
 Surveillance is associated with improved survival (pooled HR 0.67, 95% CI 0.61–0.72 across 12 cohort studies; Figure 3). Benefits include earlier detection, curative treatment receipt, and improved survival. Surveillance harms (~10% of patients with cirrhosis experience false-positives, most mild).
 
@@ -456,7 +456,20 @@ Key evidence:
 
 **[[calcineurin-inhibitors|Calcineurin inhibitors]]** ([[tacrolimus]]/cyclosporine) are associated with increased HCC recurrence — consider early IS minimization and mTOR-based switch after month 1.
 
-**HCC surveillance post-LT:** CT or MRI every 6–12 months; AFP as adjunct; risk of recurrence persists especially beyond Milan criteria. RETREAT score stratifies recurrence risk. See [[liver-transplantation]] for IS trough targets. See [[post-transplant-lymphoproliferative-disorder]] for NHL risk with intensified IS.
+**HCC surveillance post-LT:** contrast-enhanced abdominal CT or MRI **plus chest CT** every 6–12 months (cross-sectional imaging over ultrasound — lung ~40% and liver ~33% are the two commonest recurrence sites); AFP as adjunct; risk of recurrence persists especially beyond Milan criteria. See [[liver-transplantation]] for IS trough targets. See [[post-transplant-lymphoproliferative-disorder]] for NHL risk with intensified IS.
+
+**RETREAT score (Risk Estimation of Tumor Recurrence After Transplant)** — stratifies 5-year post-LT recurrence risk ([[aasld-2023-hcc]]):
+
+| Component (all measured at/after LT) |
+|---|
+| AFP at time of LT |
+| Microvascular invasion on explant |
+| Sum of largest viable tumor diameter **and** number of viable tumors on explant |
+
+- **RETREAT 0** — no viable tumor on explant, no microvascular invasion, AFP <20 ng/mL → **<3%** 5-year recurrence
+- **RETREAT ≥5** — highest-risk group → **75%** 5-year recurrence
+- *Gap: [[aasld-2023-hcc]] gives the components and the extreme bands but not the per-component point values or the intermediate bands (1–4) — the original RETREAT derivation paper (Mehta et al.) is not ingested.*
+- Other post-LT recurrence scores named by AASLD but not detailed there: post-MORAL score, UCLA prognostic nomogram (tumor differentiation, vascular invasion, tumor number/size).
 
 ---
 

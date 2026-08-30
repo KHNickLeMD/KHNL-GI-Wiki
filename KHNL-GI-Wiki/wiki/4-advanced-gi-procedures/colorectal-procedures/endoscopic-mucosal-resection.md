@@ -3,7 +3,7 @@ title: "Endoscopic Mucosal Resection (Colorectal)"
 category: advanced-procedure
 tags: [emr, endoscopic-resection, polypectomy, cold-snare, underwater-emr, hot-avulsion, lifting-agents, colorectal, post-emr-surveillance]
 created: 2026-08-11
-updated: 2026-08-14
+updated: 2026-08-30
 sources: [usmstf-2020-endoscopic-removal, asge-2020-endoscopic-removal, aga-2025-lifting-agents, usmstf-2020-followup-colonoscopy]
 ---
 
@@ -18,12 +18,15 @@ Snare resection over a submucosal cushion (or under water), the first-line techn
 1. Submucosal injection to lift lesion
 2. Snare capture and resection
 
-**Injectants:**
+**Injectants** — graded recommendations ([[usmstf-2020-endoscopic-removal]]):
 
-- Viscous solution preferred for ≥20mm: fewer pieces, faster (hydroxyethyl starch, Eleview, ORISE Gel)
-- Add indigo carmine or methylene blue for tissue plane visualization
-- Normal saline: acceptable, dissipates quickly
-- Do NOT use tattoo (carbon particles) as injectant — causes submucosal fibrosis
+| Statement | Strength / evidence |
+|---|---|
+| Use a **viscous** submucosal injectant for inject-and-cut EMR of lesions **≥20 mm** (hydroxyethyl starch, Eleview, ORISE Gel) — fewer pieces, faster | **Strong; moderate** |
+| Add **indigo carmine or methylene blue** to the injectant for tissue-plane visualization | Weak; low |
+| Do **NOT** use tattoo (carbon particles) as the injectant — causes submucosal fibrosis and impairs future resection | **Strong; high** |
+
+- Normal saline: acceptable, dissipates quickly (see lifting-agent detail below)
 
 **Electrosurgery settings (ERBE):** Endocut Q 2/3 1 4 for inject-and-cut EMR
 
@@ -32,7 +35,7 @@ Snare resection over a submucosal cushion (or under water), the first-line techn
 - Injection creates a cushion separating the lesion from the **muscularis propria (MP)**; adding a **blue contrast** (indigo carmine or methylene blue) demarcates margins and reveals MP injury during EMR.
 - **Saline ± contrast ("homemade") remains acceptable**; saline dissipates fast, prompting viscous/FDA-approved agents. Saline was non-inferior to other injection-based methods for relevant outcomes.
 - **Sessile serrated lesions** lift well with **any** agent (incl. saline) given minimal fibrosis.
-- **ESD requires submucosal injection** regardless of agent; avoid intralesional injection during ESD (obscuring bleeding). [[poem|POEM]] typically uses normal saline.
+- **[[endoscopic-submucosal-dissection|ESD]] requires submucosal injection** regardless of agent; avoid intralesional injection during ESD (obscuring bleeding). [[poem|POEM]] typically uses normal saline.
 - Add **dilute epinephrine** for cold EMR / EMR with electrocautery to reduce bleeding.
 - Technique: prime needle (avoid air); **dynamic injection** shapes the mound and maximizes MP separation; serial inject-and-snare for large lesions. Papillectomy generally needs no injection.
 
@@ -40,10 +43,15 @@ Snare resection over a submucosal cushion (or under water), the first-line techn
 
 ## Post-Resection
 
-- Ablate EMR margins ([[argon-plasma-coagulation|APC]] or snare tip soft coagulation) after complete visual resection → reduces recurrence
-- Do NOT ablate visible residual tissue → increased recurrence
+Graded recommendations ([[usmstf-2020-endoscopic-removal]]):
+
+| Statement | Strength / evidence |
+|---|---|
+| Ablate the EMR margin ([[argon-plasma-coagulation\|APC]] or snare-tip soft coagulation) **after complete visual resection** → reduces recurrence | **Strong; moderate** |
+| Do **NOT** ablate visible residual tissue — it must be resected; ablating it increases recurrence | **Strong; moderate** |
+| Prophylactic clip closure of EMR defects **≥20 mm in the right colon** (reduces delayed perforation) | Weak; moderate |
+
 - Inspect defect for perforation features; clip close if risk present
-- Right colon defects ≥20mm: prophylactic clip closure when feasible
 - Intraprocedural bleeding: coagulation forceps / snare-tip soft coag / clips ± dilute epinephrine
 - ⚠ **No numeric delayed-bleeding quality benchmark is stated in the ingested sources.** [[usmstf-2020-endoscopic-removal|USMSTF]]/[[asge-2020-endoscopic-removal|ASGE 2020]] instead direct endoscopists to a **local quality-assurance program that measures and reports post-polypectomy adverse events** (bleeding, perforation, hospital admissions) — Strong recommendation, moderate-quality evidence; see [[polypectomy]]. A target threshold would require ingesting the ASGE/ACG colonoscopy quality-indicator document.
 - **Prophylactic vessel coagulation (hot forceps / soft coag to visible vessels in defect):** One RCT showed no reduction in delayed post-polypectomy bleeding compared with no prophylactic treatment — routine coagulation of non-bleeding vessels is NOT recommended
@@ -79,10 +87,10 @@ Snare resection over a submucosal cushion (or under water), the first-line techn
 
 ## Post-EMR Surveillance (Piecemeal, ≥20mm)
 
-- **6 months** (first surveillance)
-- **1 year**
-- **3 years**
-- Each visit: enhanced imaging (chromoendoscopy or NBI) of scar site + targeted biopsies
+*This schedule **overrides** the size/histology grid on [[colonoscopy-surveillance]] — the 6-month exam confirms the EMR scar is clear, it does not re-stratify risk.*
+
+- **6 months** (first surveillance) → **1 year** → **3 years** — Strong; moderate ([[usmstf-2020-endoscopic-removal]], [[usmstf-2020-followup-colonoscopy]])
+- Each visit: enhanced imaging (chromoendoscopy or NBI) of scar site + targeted biopsies — Strong; moderate
 - Scar with normal macroscopic AND microscopic (biopsy) findings = highest predictive value for eradication
 - Recurrence: repeat EMR or avulsion ± margin ablation → 6–12 mo until clear → then 1y, 3y
 

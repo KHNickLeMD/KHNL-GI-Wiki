@@ -3,11 +3,21 @@ title: "Sclerosing Mesenteritis"
 category: disease-script
 tags: [sclerosing-mesenteritis, mesenteric-panniculitis, misty-mesentery, igg4, tamoxifen, corticosteroids]
 created: 2026-06-27
-updated: 2026-08-13
+updated: 2026-08-30
 sources: [aga-2025-sclerosing-mesenteritis]
 ---
 
 Rare idiopathic fibroinflammatory disorder of the bowel mesentery (spectrum: mesenteric panniculitis → retractile/liposclerotic mesenteritis; aka "misty mesentery"). Found on ~0.6%–1.1% of CTs; most are identified incidentally and never need treatment.
+
+## Contents
+- [[#Assessment]]
+  - [[#Establishing the Diagnosis]]
+  - [[#Severity Assessment]]
+- [[#Differential Diagnosis]]
+- [[#Diagnostics]]
+- [[#Therapeutics]]
+- [[#See Also]]
+- [[#Sources]]
 
 ## Assessment
 
@@ -53,6 +63,10 @@ Rare idiopathic fibroinflammatory disorder of the bowel mesentery (spectrum: mes
   - Treat concomitant GI disorders
 - **Severe (bowel obstruction):** nonoperative management when feasible; **surgical bypass** if refractory. Surgery does **not** cure SM and complete resection is often impossible (vascular involvement).
 - **Surveillance:** recurrence can occur; follow with imaging.
+
+> ⚠ **Evidence quality — all of the above is expert opinion.** [[aga-2025-sclerosing-mesenteritis]] is an AGA Clinical Practice Update *Commentary*: it carries **no formal Best Practice Advice statements and no evidence ratings**. The **optimal drug regimen and treatment duration are not established**, and the evidence that any of these agents relieves symptoms is limited.
+
+---
 
 ## See Also
 

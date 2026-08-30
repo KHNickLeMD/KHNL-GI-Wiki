@@ -3,8 +3,8 @@ title: "Anorectal Manometry (ARM)"
 category: advanced-procedure
 tags: [arm, anorectal-manometry, defecation, biofeedback, dyssynergia, fecal-incontinence, balloon-expulsion-test]
 created: 2026-05-19
-updated: 2026-08-14
-sources: [acg-2021-anorectal-disorders, acg-2020-ibs, asge-2014-constipation]
+updated: 2026-08-30
+sources: [acg-2021-anorectal-disorders, acg-2020-ibs, asge-2014-constipation, aga-2026-refractory-constipation]
 ---
 
 ## Contents
@@ -35,6 +35,7 @@ sources: [acg-2021-anorectal-disorders, acg-2020-ibs, asge-2014-constipation]
 | [[irritable-bowel-syndrome\|IBS]] with pelvic-floor symptoms | *"We suggest that anorectal physiology testing be performed in patients with IBS and symptoms suggestive of a pelvic floor disorder and/or refractory constipation not responsive to standard medical therapy."* **Consensus recommendation; unable to assess using GRADE** ([[acg-2020-ibs]]). Anorectal dysfunction occurs in **all IBS subtypes**, prevalence estimated **up to 40%** in tertiary care |
 | [[fecal-incontinence\|Fecal incontinence]] | ARM, rectal BET, and rectal sensation **should be performed in patients who fail to respond to conservative measures**; anal canal imaging and anal EMG added for anal weakness ([[acg-2021-anorectal-disorders]]) |
 | Levator syndrome ([[proctalgia-syndromes]]) | ARM and BET **should be performed** in levator syndrome to identify patients eligible for [[biofeedback-therapy\|biofeedback]] — **strongly recommended despite low-quality evidence**; *not* indicated in idiopathic chronic proctalgia syndrome ([[acg-2021-anorectal-disorders]]) |
+| Before labelling constipation **refractory** | *"Most patients with CC should be evaluated with anorectal manometry (ARM) with balloon expulsion testing (BET) and complete a course of pelvic floor biofeedback therapy, when indicated, before being labeled as having RC."* **BPA 2** ([[aga-2026-refractory-constipation]]) — i.e. ARM+BET is a gate on the refractory-constipation diagnosis itself, not just a workup option. Pathway: [[chronic-constipation]] |
 | Suspected Hirschsprung disease | *"Suspected Hirschsprung's disease requires anorectal manometry and deep biopsy to examine for the absence of myenteric neurons."* ([[asge-2014-constipation]]) |
 
 **Findings on anorectal physiology testing that suggest a pelvic floor disorder** (Table 6, [[acg-2020-ibs]]) — note the guideline's own caveat that many of these are seen across **all IBS subtypes and are not specific** to dyssynergia:
@@ -73,6 +74,8 @@ sources: [acg-2021-anorectal-disorders, acg-2020-ibs, asge-2014-constipation]
 - The same caution applies to decreased rectal pressures, paradoxical anal contraction, high anal pressure during evacuation, and high anal resting pressure.
 - **Interpret with the clinical features** — false-positive and false-negative results are not uncommon.
 
+> ⚠ **Decision gap — flagged, not filled.** No ingested source defines a **manometric classification of dyssynergic/defecatory patterns** — [[acg-2021-anorectal-disorders|ACG 2021]] contains no classification or subtype scheme at all (verified by full-text search), and neither the **London Classification** of anorectal manometry nor the numbered dyssynergia subtypes appear in any ingested source. So this page can say a study is *abnormal* but cannot assign a pattern. Closing it needs the London Classification consensus (or an equivalent) ingested. Do not supply the categories from memory.
+
 ## Balloon Expulsion Test (BET)
 
 - **Measures the time to evacuate a balloon filled with 50 mL of warm water in the seated position.**
@@ -108,7 +111,7 @@ sources: [acg-2021-anorectal-disorders, acg-2020-ibs, asge-2014-constipation]
 
 ## See Also
 
-[[defecation-disorders]], [[fecal-incontinence]], [[chronic-idiopathic-constipation]], [[irritable-bowel-syndrome]], [[biofeedback-therapy]], [[high-resolution-manometry]], [[proctalgia-syndromes]], [[rectal-prolapse]], [[sacral-nerve-stimulation]]
+[[defecation-disorders]], [[fecal-incontinence]], [[chronic-constipation]], [[chronic-idiopathic-constipation]], [[irritable-bowel-syndrome]], [[biofeedback-therapy]], [[high-resolution-manometry]], [[proctalgia-syndromes]], [[rectal-prolapse]], [[sacral-nerve-stimulation]]
 
 ---
 
@@ -117,3 +120,4 @@ sources: [acg-2021-anorectal-disorders, acg-2020-ibs, asge-2014-constipation]
 1. [[acg-2021-anorectal-disorders|ACG 2021 Clinical Guidelines: Management of Benign Anorectal Disorders]]
 2. [[acg-2020-ibs|ACG 2020 Clinical Guideline: Management of Irritable Bowel Syndrome]]
 3. [[asge-2014-constipation|ASGE 2014: The Role of Endoscopy in the Management of Constipation]]
+4. [[aga-2026-refractory-constipation|AGA Clinical Practice Update on Evaluation and Management of Refractory Constipation: Expert Review]]

@@ -3,7 +3,7 @@ title: "Acute Liver Failure"
 category: disease-script
 tags: [acute-liver-failure, alf, liver, hepatology, transplant, liver-transplant-referral]
 created: 2026-05-15
-updated: 2026-08-26
+updated: 2026-08-30
 sources: [acg-2023-alf, acg-2016-liver-disease-pregnancy, aasld-ast-2025-liver-transplant-candidate-evaluation, aasld-2011-alf]
 ---
 
@@ -210,7 +210,8 @@ Not routine. Transjugular [[liver-biopsy|liver biopsy]] (TJLB) preferred over pe
 - Glucose: maintain 150–180 mg/dL with continuous D10W; monitor mental status q1–2h
 - Avoid hypotonic fluids (risk of hyponatremia/cerebral edema)
 - [[nutrition-in-liver-disease|Enteral nutrition]] if unable to eat within 5–7 days; protein 1.0–1.5 g/kg/day
-- If severe hyperammonemia (>150 mmol/L): consider delaying/reducing protein for first 24–48h, then restart at 1.0 g/kg/day with ammonia monitoring
+- If severe hyperammonemia (**>150 µmol/L**): consider delaying/reducing protein for first 24–48h, then restart at 1.0 g/kg/day with ammonia monitoring
+  - *Unit note: [[acg-2023-alf]] prints this threshold as "150 mmol/L"; ammonia is reported in **µmol/L** and 150 mmol/L is a 1,000-fold typographic error in the source. Stated here in the correct unit.*
 - Monitor Mg and phosphorus q8–12h; replete as needed
 
 ### Etiology-Specific Treatments
@@ -267,7 +268,8 @@ Not routine. Transjugular [[liver-biopsy|liver biopsy]] (TJLB) preferred over pe
 **[[autoimmune-hepatitis|Autoimmune hepatitis]] (AIH):**
 
 - Acute severe AIH (AS-AIH) without ALF: **IV corticosteroids** (prednisone/prednisolone 0.5–1 mg/kg/day or 60 mg/day total)
-- SURFASA score (INR + bilirubin at day 3 of steroids) predicts non-responders (88% specificity, 84% sensitivity) → refer non-responders for LT
+- SURFASA score (INR + bilirubin **within 3 days of initiating corticosteroids**; derived in 128 patients with acute severe AIH **without** ALF) predicts non-response — 88% specificity, 84% sensitivity for LT or death → refer non-responders for LT [[acg-2023-alf]]
+  - *Gap: [[acg-2023-alf]] gives the score's two inputs and its performance but **no formula and no cut-off value**, so SURFASA cannot be computed or applied from this page. The De Martin 2021 derivation paper (J Hepatol 74:1325) is not ingested.*
 - AIH that has progressed to frank ALF: **early LT evaluation** (up to 48% ultimately require LT even with corticosteroids)
 - Vigilant infection surveillance with steroid use
 

@@ -13,9 +13,10 @@ tags:
   - surveillance
   - autoimmune-gastritis
 created: 2026-05-07
-updated: 2026-08-14
+updated: 2026-08-30
 sources:
   - acg-2025-gastric-premalignant
+  - aga-2026-gastric-polyps
 ---
 
 # Gastric Premalignant Conditions
@@ -26,9 +27,32 @@ Histopathologic stages along the Correa cascade that precede [[gastric-adenocarc
 
 ---
 
+## Contents
+- [[#Assessment]]
+  - [[#Severity Assessment — Risk Factors for GPMC/GC]]
+  - [[#Classification / Typing — Correa Cascade]]
+- [[#Differential Diagnosis]]
+- [[#Diagnostics]]
+  - [[#Endoscopic Evaluation (Required)]]
+  - [[#Biopsy Protocol]]
+  - [[#H. pylori Testing]]
+- [[#Therapeutics]]
+  - [[#Surveillance Strategy]]
+  - [[#GC Screening (For Reference)]]
+  - [[#Dysplasia Management]]
+  - [[#H. pylori Eradication]]
+  - [[#What NOT to Use]]
+  - [[#Autoimmune Gastritis (Special Case)]]
+  - [[#Gastric Epithelial Polyps]]
+  - [[#Monitoring]]
+- [[#See Also]]
+- [[#Sources]]
+
+---
+
 ## Assessment
 
-### History — Risk Factors for GPMC/GC
+### Severity Assessment — Risk Factors for GPMC/GC
 
 **Patient-level risk factors:**
 
@@ -47,7 +71,7 @@ Histopathologic stages along the Correa cascade that precede [[gastric-adenocarc
 - GIM/AG severity: proportion of atrophy or GIM on biopsy per compartment
 - Dysplasia grade: HGD > LGD > IND
 
-### Correa Cascade (Progression Stages)
+### Classification / Typing — Correa Cascade
 
 ```
 Normal mucosa
@@ -77,12 +101,12 @@ Gastric adenocarcinoma
 
 | Condition | Distinguishing features |
 |---|---|
-| Autoimmune gastritis (AIG) | Corpus-predominant atrophy; anti-parietal cell Ab; B12 deficiency; achlorhydria; elevated gastrin; [[gastroenteropancreatic-neuroendocrine-tumors\|type 1 gastric carcinoid (NET)]] risk |
+| [[atrophic-gastritis\|Autoimmune gastritis (AIG)]] | Corpus-predominant atrophy; anti-parietal cell Ab; B12 deficiency; achlorhydria; elevated gastrin; [[gastroenteropancreatic-neuroendocrine-tumors\|type 1 gastric carcinoid (NET)]] risk |
 | H. pylori-associated gastritis | Active H. pylori infection; antrum-predominant; resolved with eradication |
 | Reactive (chemical) gastropathy | NSAID use, bile reflux; foveolar hyperplasia, no atrophy or GIM |
 | Ménétrier's disease | Giant gastric folds; protein-losing gastropathy; TGF-α excess |
 | [[gastric-malt-lymphoma\|Gastric MALT lymphoma]] | H. pylori-driven; monoclonal B-cell proliferation; treat H. pylori first |
-| Early gastric cancer | Flat or slightly raised lesion; requires ESD/resection |
+| Early [[gastric-adenocarcinoma\|gastric cancer]] | Flat or slightly raised lesion; requires ESD/resection |
 
 ---
 
@@ -142,6 +166,7 @@ Gastric adenocarcinoma
 - Incomplete GIM histological subtype (vs complete)
 - Corpus-extension (antrum/incisura + corpus involvement)
 - OR any GIM with: family Hx GC (first-degree) | foreign-born from high-GC country | high-risk race/ethnicity (East Asian, Latino/a, Black, AIAN)
+  - ⚠ **This third criterion is contradicted by the newer [[aga-2026-gastric-polyps|AGA 2026]]**, which says surveillance frequency should not be altered for ethnicity or family history *alone*. Both agree once demography is paired with a mucosal finding. **Full contradiction and its resolution: [[gastric-intestinal-metaplasia#2. Surveillance Endoscopy — Guideline Disagreement|gastric intestinal metaplasia]].**
 
 **Severe GIM or AG → surveillance q3y (Conditional/Very low)**
 
@@ -227,3 +252,4 @@ Gastric adenocarcinoma
 ## Sources
 
 1. [[acg-2025-gastric-premalignant|ACG 2025: Diagnosis and Management of Gastric Premalignant Conditions]]
+2. [[aga-2026-gastric-polyps|AGA Clinical Practice Update on Management of Gastric Polyps: Expert Review]]

@@ -3,7 +3,7 @@ title: "Gastric MALT Lymphoma"
 category: disease-script
 tags: [stomach, lymphoma, marginal-zone, helicobacter-pylori, malt, eradication]
 created: 2026-08-14
-updated: 2026-08-28
+updated: 2026-08-30
 sources: [acg-2024-hp-treatment, asge-2015-gastric-premalignant]
 ---
 
@@ -15,6 +15,8 @@ sources: [acg-2024-hp-treatment, asge-2015-gastric-premalignant]
 - [[#Diagnostics]]
 - [[#Therapeutics]]
   - [[#Post-Eradication Surveillance]]
+- [[#See Also]]
+- [[#Sources]]
 
 ## Assessment
 

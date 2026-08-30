@@ -3,8 +3,8 @@ title: "Dysphagia"
 category: diagnostic-schema
 tags: [dysphagia, esophageal, oropharyngeal, motility, achalasia, eosinophilic-esophagitis, odynophagia, globus]
 created: 2026-06-04
-updated: 2026-08-28
-sources: [acg-2020-esophageal-physiologic-testing, chicago-v4-2021-esophageal-dysmotility, acg-2025-egd-quality, aga-2024-esophageal-immunity-infection, acg-2020-achalasia]
+updated: 2026-08-30
+sources: [acg-2020-esophageal-physiologic-testing, chicago-v4-2021-esophageal-dysmotility, acg-2025-egd-quality, aga-2024-esophageal-immunity-infection, acg-2020-achalasia, rome-v-2026-dgbi]
 ---
 
 ## Definition / Scope
@@ -17,8 +17,9 @@ sources: [acg-2020-esophageal-physiologic-testing, chicago-v4-2021-esophageal-dy
 Distinguish dysphagia from related symptoms:
 
 - **Odynophagia** — *painful* swallowing; suggests mucosal injury (infectious or pill esophagitis, severe reflux/erosive disease, malignancy).
-- **Globus** — persistent sensation of a lump in the throat *between* swallows, relieved by swallowing; not true dysphagia (see [[laryngopharyngeal-symptoms]]).
-- **Functional dysphagia** — a Rome IV [[disorders-of-gut-brain-interaction|DGBI]] diagnosed after structural, motility, and mucosal (eosinophilic) causes are excluded.
+- **Globus** — persistent sensation of a lump in the throat *between* swallows, relieved by swallowing; not true dysphagia (Rome V esophageal DGBI **A4**; see [[laryngopharyngeal-symptoms]]).
+- **Functional dysphagia** — a [[disorders-of-gut-brain-interaction|DGBI]] (Rome V esophageal category **A5**) diagnosed after structural, motility, and mucosal (eosinophilic) causes are excluded [[rome-v-2026-dgbi]].
+  - Rome V also supplies **Rome Clinical Criteria** for use outside research: the qualitative symptom features are retained and symptoms must be **bothersome** (interfere with daily life or prompt care-seeking), but the frequency threshold is lowered and the 6-month duration is replaced by a suggested **8-week** minimum [[rome-v-2026-dgbi]].
 
 The single most useful historical discriminator in esophageal dysphagia is **solids vs. liquids**:
 
@@ -138,3 +139,4 @@ Prompt expedited [[upper-endoscopy|EGD]] (and raise concern for malignancy):
 3. [[acg-2025-egd-quality|ACG/ASGE 2025: Quality Indicators for Upper GI Endoscopy (EGD)]]
 4. [[aga-2024-esophageal-immunity-infection|AGA Clinical Practice Update on Esophageal Dysfunction Due to Disordered Immunity and Infection: Expert Review (2024)]]
 5. [[acg-2020-achalasia|ACG 2020: Diagnosis and Management of Achalasia]]
+6. [[rome-v-2026-dgbi|Disorders of Gut–Brain Interaction and the Rome V Process]]

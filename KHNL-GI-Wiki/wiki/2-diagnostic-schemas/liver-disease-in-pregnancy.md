@@ -3,7 +3,7 @@ title: "Liver Disease in Pregnancy"
 category: diagnostic-schema
 tags: [pregnancy, liver-disease, ihcp, intrahepatic-cholestasis, aflp, acute-fatty-liver, hellp, hyperemesis-gravidarum, preeclampsia, eclampsia, hepatitis-b, hepatitis-c, hpb, liver]
 created: 2026-05-19
-updated: 2026-08-26
+updated: 2026-08-30
 sources: [aga-2024-pregnancy-gi-liver, acg-2016-liver-disease-pregnancy, aasld-2021-reproductive-liver]
 ---
 
@@ -74,7 +74,7 @@ Any abnormality in AST/ALT or bilirubin requires evaluation. ALP elevation alone
 **Step 3 — Biliary/cholestatic pattern (elevated bilirubin ± ALP)**
 
 - Abdominal ultrasound first (Rec 2) — 95% sensitive for gallstones
-- If evidence of obstruction → [[ercp|ERCP]] if symptomatic choledocholithiasis, cholangitis, biliary pancreatitis (Rec 7)
+- If evidence of obstruction → [[ercp|ERCP]] if symptomatic choledocholithiasis, [[acute-cholangitis|cholangitis]], biliary pancreatitis (Rec 7)
 - No evidence of obstruction with elevated bilirubin → consider IHCP (bile acid level)
 - ALP elevation alone → may be placental (no further workup needed if isolated)
 
@@ -188,7 +188,7 @@ Any abnormality in AST/ALT or bilirubin requires evaluation. ALP elevation alone
 
 **Clinical presentation:** Non-specific initially — nausea, vomiting, abdominal pain, concomitant preeclampsia in ~50% of women. Hepatic failure with encephalopathy, coagulopathy, hypoglycemia. Renal dysfunction and pancreatitis common.
 
-**Diagnosis — Swansea Criteria (≥6 of 15 required, in absence of another cause):**
+**Diagnosis — Swansea Criteria (≥6 of the 14 below required, in absence of another cause):**
 
 | Criterion | Threshold |
 |-----------|-----------|
@@ -374,7 +374,7 @@ See also: [[wilson-disease]]
 
 ## See Also
 
-[[intrahepatic-cholestasis-of-pregnancy]], [[acute-fatty-liver-of-pregnancy]], [[nausea-and-vomiting-of-pregnancy]], [[abnormal-liver-chemistries]], [[acute-liver-failure]], [[chronic-hepatitis-b]], [[hepatitis-c-in-pregnancy]], [[autoimmune-hepatitis]], [[primary-biliary-cholangitis]], [[wilson-disease]], [[drug-induced-liver-injury]], [[nafld-masld]], [[portal-hypertension]], [[variceal-upper-gi-bleeding]], [[liver-transplantation]], [[ercp]], [[choledocholithiasis]], [[acute-cholecystitis]], [[hepatocellular-adenoma]], [[hepatic-hemangioma]], [[focal-nodular-hyperplasia]], [[hepatic-encephalopathy]], [[acute-pancreatitis]], [[somatostatin-analogs]], [[inflammatory-bowel-disease]]
+[[intrahepatic-cholestasis-of-pregnancy]], [[acute-fatty-liver-of-pregnancy]], [[nausea-and-vomiting-of-pregnancy]], [[abnormal-liver-chemistries]], [[acute-cholangitis]], [[acute-liver-failure]], [[chronic-hepatitis-b]], [[hepatitis-c-in-pregnancy]], [[autoimmune-hepatitis]], [[primary-biliary-cholangitis]], [[wilson-disease]], [[drug-induced-liver-injury]], [[nafld-masld]], [[portal-hypertension]], [[variceal-upper-gi-bleeding]], [[liver-transplantation]], [[ercp]], [[choledocholithiasis]], [[acute-cholecystitis]], [[hepatocellular-adenoma]], [[hepatic-hemangioma]], [[focal-nodular-hyperplasia]], [[hepatic-encephalopathy]], [[acute-pancreatitis]], [[somatostatin-analogs]], [[inflammatory-bowel-disease]]
 
 ---
 

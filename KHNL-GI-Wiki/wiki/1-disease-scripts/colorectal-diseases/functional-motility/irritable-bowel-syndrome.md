@@ -3,7 +3,7 @@ title: "Irritable Bowel Syndrome"
 category: disease-script
 tags: [ibs, dgbi, functional, colorectal, motility, rome-iv, rome-v, fodmap, rifaximin, linaclotide, plecanatide, tca]
 created: 2026-05-16
-updated: 2026-08-28
+updated: 2026-08-30
 sources: [acg-2020-ibs, rome-v-2026-dgbi, acg-2020-sibo, aga-2022-ibs-c, aga-2022-ibs-d]
 ---
 
@@ -45,6 +45,8 @@ Symptom onset ≥6 months prior to diagnosis.
 | Work disability | <5% | 6–10% | ≥11% |
 
 *FBDSI = Functional Bowel Disorder Severity Index; IBS-SSS = IBS Symptom Severity Scale. ([[rome-v-2026-dgbi]])*
+
+> **Decision gap:** [[rome-v-2026-dgbi|Rome V]] names FBDSI and IBS-SSS as the validated severity instruments and gives the cut-points above, but **does not print their component items or point weights** — so neither score can be computed from this page. Assign the stratum from the clinical profile in the table; the original Drossman (FBDSI) and Francis (IBS-SSS) instrument papers would be needed to add the scoring. Do not reconstruct them from memory.
 
 - Impact on QoL, work, and food avoidance more clinically meaningful than RCT global response metrics
 
@@ -129,7 +131,7 @@ Subtypes by Bristol Stool Form Scale **on days with abnormal stools** (assess of
 | **[[linaclotide\|Linaclotide]]** (GC-C agonist) | 290 µg daily | Strong/High | **Strong**/High |
 | **[[plecanatide]]** (GC-C agonist) | 3 or 6 mg daily | Strong/High | Conditional/Moderate |
 | **[[lubiprostone\|Lubiprostone]]** (Cl⁻ channel activator) | 8 µg BID | Strong/Moderate | Conditional/Moderate |
-| **Tenapanor** (NHE3 inhibitor) | **50 mg BID** | not addressed | Conditional/Moderate |
+| **[[tenapanor\|Tenapanor]]** (NHE3 inhibitor) | **50 mg BID** | not addressed | Conditional/Moderate |
 | **[[tegaserod\|Tegaserod]]** (5-HT4 agonist) | 6 mg BID | Strong (Conditional)/Low | Conditional/Moderate |
 | PEG laxatives | — | Against (global symptoms; helps stool form only) | Suggests using (Conditional/Low) |
 
@@ -159,7 +161,7 @@ Subtypes by Bristol Stool Form Scale **on days with abnormal stools** (assess of
 6. Refractory: re-examine diagnosis; ARM+BET; specialty referral; consider neuromodulators
 
 ## See Also
-[[disorders-of-gut-brain-interaction]], [[abdominal-bloating-and-distention]], [[postinfectious-ibs]], [[chronic-idiopathic-constipation]], [[defecation-disorders]], [[small-intestinal-bacterial-overgrowth]], [[intestinal-methanogen-overgrowth]], [[microscopic-colitis]], [[bile-acid-diarrhea]], [[celiac-disease]], [[alpha-gal-syndrome]], [[rifaximin]], [[linaclotide]], [[plecanatide]], [[lubiprostone]], [[alosetron]], [[eluxadoline]], [[tegaserod]], [[anorectal-manometry]], [[fmt]]
+[[disorders-of-gut-brain-interaction]], [[abdominal-bloating-and-distention]], [[postinfectious-ibs]], [[chronic-idiopathic-constipation]], [[defecation-disorders]], [[small-intestinal-bacterial-overgrowth]], [[intestinal-methanogen-overgrowth]], [[microscopic-colitis]], [[bile-acid-diarrhea]], [[celiac-disease]], [[alpha-gal-syndrome]], [[rifaximin]], [[linaclotide]], [[plecanatide]], [[lubiprostone]], [[tenapanor]], [[alosetron]], [[eluxadoline]], [[tegaserod]], [[loperamide]], [[anorectal-manometry]], [[fmt]]
 
 ---
 

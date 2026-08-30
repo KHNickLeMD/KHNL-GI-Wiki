@@ -3,7 +3,7 @@ title: "Hereditary Hemorrhagic Telangiectasia (HHT)"
 category: disease-script
 tags: [hht, osler-weber-rendu, telangiectasia, avm, hepatic-vascular-malformation, lvm, bevacizumab, gi-bleeding, smad4]
 created: 2026-05-21
-updated: 2026-08-26
+updated: 2026-08-30
 sources: [acg-2020-hepatic-mesenteric-circulation, acg-2015-hereditary-gi-cancer, aga-2022-hamartomatous-polyposis, acg-2015-small-bowel-bleeding]
 ---
 
@@ -26,7 +26,13 @@ HHT (Osler-Weber-Rendu disease) — autosomal dominant disorder of widespread cu
 
 - Prevalence **1 in 5,000–8,000**
 - Genetics: ≥80% have a heterozygous mutation in **endoglin (*ENG*)** or **activin receptor-like kinase type 1 (*ALK-1* / *ACVRL1*)** — TGF-β family receptors expressed in vascular endothelium. ***SMAD4*** mutation → combined **HHT + [[juvenile-polyposis-syndrome|juvenile polyposis]]** syndrome
-- **Liver vascular malformations (LVMs)** on imaging in **55%** of patients with definite HHT (3 large cohorts). Symptomatic liver involvement is more common in **HHT-2** (the *ALK-1*/*ACVRL1* type)
+
+| Genotype label | Gene | Note |
+|---|---|---|
+| **HHT-1** | ***ENG*** (endoglin) | — |
+| **HHT-2** | ***ACVRL1*** (*ALK-1*) | The subtype in which **symptomatic liver involvement is more common** |
+| **JP-HHT** | ***SMAD4*** | Combined HHT + [[juvenile-polyposis-syndrome\|juvenile polyposis]] |
+- **Liver vascular malformations (LVMs)** on imaging in **55%** of patients with definite HHT (3 large cohorts). Symptomatic liver involvement is more common in **HHT-2** (see genotype table above)
 
 **Three shunt types** (dual hepatic blood supply), each with a different clinical presentation:
 
@@ -58,7 +64,7 @@ Routes into the diagnosis that *are* sourced here:
 *Workup: see [[small-bowel-bleeding]] for the diagnostic approach to the GI bleeding presentation.*
 
 - [[angioectasia]] — sporadic GI angioectasias produce the same bleeding phenotype without the AVM/telangiectasia syndrome
-- **[[cirrhosis]] — the key mimic on histology.** Nodular regenerative hyperplasia (NRH) is a frequent finding in HHT liver, and the combination of regeneration plus fibrosis around ectatic vessels leads to an **erroneous diagnosis of cirrhosis**
+- **[[cirrhosis]] — the key mimic on histology.** [[porto-sinusoidal-vascular-disorder|Nodular regenerative hyperplasia (NRH)]] is a frequent finding in HHT liver, and the combination of regeneration plus fibrosis around ectatic vessels leads to an **erroneous diagnosis of cirrhosis**
 - **[[focal-nodular-hyperplasia|Focal nodular hyperplasia]]** — more common in HHT (prevalence **2.9%** vs **0.3%** in the general population). There are **no reports of [[hepatocellular-carcinoma\|HCC]]** arising in a liver with LVMs
 - Other vascular disorders of the hepatic circulation covered by the same guideline: [[budd-chiari-syndrome]], [[portal-vein-thrombosis]], [[mesenteric-artery-aneurysm]]
 
@@ -93,7 +99,7 @@ Routes into the diagnosis that *are* sourced here:
 | **HOHF** | Sodium restriction, **diuretics**, **beta-blockers**; correct **anemia** and **atrial fibrillation** (both worsen symptoms by ↓O₂ delivery / ↓cardiac output). Pregnant patients: treat medically and **deliver as expeditiously as possible** |
 | **[[portal-hypertension\|Portal hypertension]]** | Treat the specific complications ([[ascites]], varices, [[variceal-upper-gi-bleeding\|variceal hemorrhage]]) as for [[cirrhosis]]. **[[tips\|TIPS]] does NOT ameliorate bleeding from GI arteriovenous malformations** |
 | **Secondary sclerosing cholangitis** | Ursodeoxycholic acid may be used — **no data support this** |
-| **Biloma** | No treatment if asymptomatic; analgesics if painful; **urgent antibiotics** if cholangitis or infected biloma; drainage if pain/infection not improving |
+| **Biloma** | No treatment if asymptomatic; analgesics if painful; **urgent antibiotics** if [[acute-cholangitis\|cholangitis]] or infected biloma; drainage if pain/infection not improving |
 | **Mesenteric ischemia** | Smaller, more frequent meals + analgesics |
 
 ### Targeted Therapy — Escalation Ladder
@@ -127,9 +133,11 @@ flowchart TD
 
 > **Gap:** the ingested sources give **no endoscopic or pharmacologic management algorithm specific to HHT-related GI bleeding** (no HHT-specific bevacizumab, thalidomide, or APC recommendation). An HHT-specific or GI-bleeding-in-HHT source is needed.
 
+---
+
 ## See Also
 
-[[juvenile-polyposis-syndrome]], [[angioectasia]], [[small-bowel-bleeding]], [[portal-vein-thrombosis]], [[budd-chiari-syndrome]], [[mesenteric-artery-aneurysm]], [[liver-transplantation]], [[portal-hypertension]], [[mri-mrcp]], [[liver-biopsy]], [[focal-nodular-hyperplasia]], [[cirrhosis]], [[tips]], [[ascites]], [[hepatic-encephalopathy]], [[variceal-upper-gi-bleeding]]
+[[juvenile-polyposis-syndrome]], [[angioectasia]], [[small-bowel-bleeding]], [[portal-vein-thrombosis]], [[budd-chiari-syndrome]], [[mesenteric-artery-aneurysm]], [[liver-transplantation]], [[portal-hypertension]], [[mri-mrcp]], [[liver-biopsy]], [[focal-nodular-hyperplasia]], [[cirrhosis]], [[tips]], [[ascites]], [[hepatic-encephalopathy]], [[variceal-upper-gi-bleeding]], [[porto-sinusoidal-vascular-disorder]], [[acute-cholangitis]], [[hepatocellular-carcinoma]]
 
 ---
 

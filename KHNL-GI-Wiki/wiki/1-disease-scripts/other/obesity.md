@@ -3,7 +3,7 @@ title: "Obesity"
 category: disease-script
 tags: [obesity, weight-management, metabolic, semaglutide, glp1, intragastric-balloon]
 created: 2026-06-04
-updated: 2026-08-14
+updated: 2026-08-30
 sources: [aga-2022-obesity-pharm, aga-2021-intragastric-balloons]
 ---
 
@@ -17,6 +17,8 @@ sources: [aga-2022-obesity-pharm, aga-2021-intragastric-balloons]
   - [[#Pharmacotherapy]]
   - [[#Endoscopic Bariatric Therapy — Intragastric Balloons]]
   - [[#Bariatric Surgery]]
+- [[#See Also]]
+- [[#Sources]]
 
 ---
 
@@ -55,6 +57,7 @@ sources: [aga-2022-obesity-pharm, aga-2021-intragastric-balloons]
   2. **liraglutide 3.0 mg**
   3. **phentermine-topiramate ER**
   4. **naltrexone-bupropion ER**
+- Agents 1–2 are [[glp-1-receptor-agonists|GLP-1 receptor agonists]] — see that page for dosing/titration and the **pre-endoscopy management** rule (they slow gastric emptying).
 - **Phentermine** and **diethylpropion** — suggested short-term / selected patients.
 - **Against orlistat** as a preferred option (GI side effects, modest efficacy).
 - Match agent to comorbidities, contraindications, cost/access, and patient values. (Tirzepatide post-dates this 2022 guideline.)
@@ -77,7 +80,7 @@ sources: [aga-2022-obesity-pharm, aga-2021-intragastric-balloons]
 
 ## See Also
 
-[[semaglutide]], [[intragastric-balloon]], [[bariatric-surgery]], [[nafld-masld]], [[proton-pump-inhibitors]]
+[[semaglutide]], [[glp-1-receptor-agonists]], [[intragastric-balloon]], [[bariatric-surgery]], [[nafld-masld]], [[proton-pump-inhibitors]]
 
 ---
 

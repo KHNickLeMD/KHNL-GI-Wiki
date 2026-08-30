@@ -3,7 +3,7 @@ title: "Dyspepsia"
 category: diagnostic-schema
 tags: [dyspepsia, functional, stomach, foregut, dgbi, test-and-treat]
 created: 2026-05-16
-updated: 2026-08-26
+updated: 2026-08-30
 sources: [acg-cag-2017-dyspepsia, rome-v-2026-dgbi, acg-2022-gastroparesis]
 ---
 
@@ -11,7 +11,7 @@ sources: [acg-cag-2017-dyspepsia, rome-v-2026-dgbi, acg-2022-gastroparesis]
 
 Dyspepsia refers to one or more of: postprandial fullness, early satiation, epigastric pain, or epigastric burning — without a causative structural or metabolic lesion. ACG/CAG 2017 defines it clinically as **predominant epigastric pain lasting ≥1 month**, with or without other upper GI symptoms (fullness, [[nausea-and-vomiting|nausea, vomiting]], heartburn), provided epigastric pain is the patient's primary concern [[acg-cag-2017-dyspepsia]]. When no cause is found after evaluation, the diagnosis is **functional dyspepsia (FD)**, a [[disorders-of-gut-brain-interaction]].
 
-**Uninvestigated dyspepsia:** Symptoms present without prior EGD. The test-and-treat strategy for H. pylori (see [[test-and-treat]]) applies in patients **<60** without alarm features (ACG/CAG 2017 raised the age threshold from <55 to <60 in older ACG guidance).
+**Uninvestigated dyspepsia:** Symptoms present without prior [[upper-endoscopy|EGD]]. The test-and-treat strategy for H. pylori (see [[test-and-treat]]) applies in patients **<60** without alarm features (ACG/CAG 2017 raised the age threshold from <55 to <60 in older ACG guidance).
 
 **Functional dyspepsia subtypes** — Rome V classifies FD as **B1**, with two subtypes [[rome-v-2026-dgbi]]:
 
@@ -20,6 +20,10 @@ Dyspepsia refers to one or more of: postprandial fullness, early satiation, epig
 
 Subtype-guided therapy is **not recommended** — no evidence that PDS vs. EPS predicts treatment response [[acg-cag-2017-dyspepsia]].
 
+**Which threshold to apply — research vs clinic.** Rome V pairs its research criteria with **Rome Clinical Criteria** for practice: the qualitative symptom features are unchanged and the symptoms must be **bothersome** (interfere with daily life or prompt care-seeking), but the frequency requirement is **lower** than the research threshold and the 6-month duration is replaced by a suggested **8-week** minimum. This is intended to capture the ~25% of the population with subdiagnostic-but-morbid GI symptoms [[rome-v-2026-dgbi]].
+
+> **Gap — the itemised Rome V B1/B1a/B1b symptom items are not in an ingested source.** The Rome V document in `raw/` is the process/overview paper: it prints the taxonomy above and the Clinical-Criteria framework, but not the numbered symptom items or their frequency thresholds for functional dyspepsia. The full *Rome V Criteria* volume (or its gastroduodenal chapter) would be needed. Do not supply them from memory. (Same gap flagged on [[chronic-constipation]].)
+
 ---
 
 ## Differential Diagnosis
@@ -27,7 +31,7 @@ Subtype-guided therapy is **not recommended** — no evidence that PDS vs. EPS p
 - [[helicobacter-pylori-infection]] — most common treatable cause
 - [[gastroparesis]] — significant overlap with PDS; on repeat scintigraphic gastric emptying, **42%** of patients initially labelled gastroparesis and **37%** labelled FD were reclassified by the presence/absence of delay, despite unchanged symptoms ([[acg-2022-gastroparesis]]). Abnormal gastric accommodation is present in up to **40%** of FD ([[acg-cag-2017-dyspepsia]])
 - [[peptic-ulcer-disease|Peptic ulcer disease]] — structural; detected on EGD
-- [[gastric-intestinal-metaplasia]] / [[gastric-premalignant-conditions]] — [[upper-endoscopy|upper endoscopy]] if alarm features
+- [[gastric-intestinal-metaplasia]] / [[gastric-premalignant-conditions]] — upper endoscopy if alarm features
 - [[gerd|GERD]] — heartburn/regurgitation predominant
 - Medication-induced — NSAIDs, iron, metformin
 - [[celiac-disease|Celiac disease]] — consider anti-TTG IgA
@@ -98,7 +102,7 @@ ACG/CAG 2017 reviewed associations between long-term PPI and hip fracture, CAP, 
 
 ## See Also
 
-[[disorders-of-gut-brain-interaction]], [[test-and-treat]], [[helicobacter-pylori-infection]], [[peptic-ulcer-disease]], [[gastroparesis]], [[gastric-intestinal-metaplasia]], [[gastric-premalignant-conditions]], [[gerd]], [[celiac-disease]], [[upper-endoscopy]], [[proton-pump-inhibitors]], [[nausea-and-vomiting]], [[dysphagia]], [[jaundice]], [[iron-deficiency-anemia]], [[pancreatic-cancer]], [[clostridioides-difficile]]
+[[disorders-of-gut-brain-interaction]], [[test-and-treat]], [[helicobacter-pylori-infection]], [[peptic-ulcer-disease]], [[gastroparesis]], [[gastric-intestinal-metaplasia]], [[gastric-premalignant-conditions]], [[gerd]], [[celiac-disease]], [[upper-endoscopy]], [[proton-pump-inhibitors]], [[nausea-and-vomiting]], [[dysphagia]], [[jaundice]], [[iron-deficiency-anemia]], [[pancreatic-cancer]], [[clostridioides-difficile]], [[chronic-constipation]]
 
 ---
 

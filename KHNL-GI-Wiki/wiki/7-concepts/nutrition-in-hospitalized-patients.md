@@ -3,9 +3,21 @@ title: "Nutrition Therapy in the Hospitalized Patient"
 category: concept
 tags: [nutrition, enteral-nutrition, parenteral-nutrition, malnutrition, icu, critical-care, hospitalized-patient]
 created: 2026-05-21
-updated: 2026-08-10
+updated: 2026-08-30
 sources: [acg-2016-nutrition-hospitalized, asge-2025-gastrostomy-tubes, asge-2011-enteral-feeding]
 ---
+
+## Contents
+- [[#Overview]]
+- [[#Nutritional Risk Assessment]]
+- [[#Enteral vs. Parenteral Nutrition]]
+- [[#Enteral Access]]
+  - [[#Periprocedural Management of a Percutaneous Tube]]
+- [[#Initiating and Advancing EN]]
+- [[#Supplemental Parenteral Nutrition]]
+- [[#Formula Selection]]
+- [[#Nutrition in Specific Situations]]
+- [[#End-of-Life Nutrition]]
 
 ## Overview
 
@@ -19,6 +31,7 @@ Nutrition support in the hospitalized patient encompasses the assessment of nutr
 
 - **NRS-2002** (Nutritional Risk Screening 2002): validated for hospitalized patients; total = impaired-nutritional-status points + disease-severity points + age point (scoring below)
 - **NUTRIC Score**: validated for ICU patients; incorporates IL-6, APACHE II, SOFA, comorbidities; score ≥5 = high nutritional risk
+  > ⚠ **Corpus gap — NUTRIC point values not in an ingested source.** [[acg-2016-nutrition-hospitalized]] names NUTRIC alongside NRS-2002 as a preferred screening tool but never prints its variables' point ranges or the age/comorbidity bands, so the score cannot be *calculated* from this page (unlike NRS-2002 below). The original Heyland 2011 derivation paper would be needed — do not fill from memory.
 
 **NRS-2002 scoring** (ACG 2016 Table 5) [[acg-2016-nutrition-hospitalized]]:
 
@@ -82,9 +95,13 @@ Radiologic confirmation of tube position is required before EN initiation (Stron
 **Duration-based access rule** ([[asge-2011-enteral-feeding]]): choose **nasoenteric** feeding when peroral intake is expected to resume **within 30 days**; use a **[[enteral-access|percutaneous endoscopic tube]]** (PEG, or PEGJ/DPEJ for post-pyloric access) when longer-term EN is needed. In acute dysphagic stroke, consider PEG only if a 2-3 week nasoenteric trial fails to improve swallowing.
 
 - **PEGJ / DPEJ** (post-pyloric): indicated for severe [[gerd|GERD]], [[gastroparesis]], or recurrent tube-feed aspiration.
-- **Periprocedural care:** give an IV **[[antibiotic-prophylaxis-endoscopy|prophylactic antibiotic]]** before percutaneous tube placement (reduces peristomal infection); tube feeds may safely start **within 4 hours** of placement.
+- **Periprocedural care:** give an IV **[[antibiotic-prophylaxis-endoscopy|prophylactic antibiotic]]** before percutaneous tube placement (reduces peristomal infection) ([[asge-2011-enteral-feeding]]). Antithrombotic handling and feed timing are tabled below.
 - **Absolute contraindications** to PEG: inability to appose gastric and abdominal walls, obstruction precluding endoscope passage, uncorrectable coagulopathy.
 - **Outcomes/complications:** PEG complication rate 4.9-10.3% (serious 1.5-4%); procedure-related mortality ~0.5%, but 30-day all-cause mortality ~15% (driven by underlying comorbidity — set expectations in goals-of-care discussions). Recognized complications include aspiration, bleeding, perforation, **buried bumper syndrome**, peristomal infection, colocutaneous/gastrocolic fistula, and (usually benign) pneumoperitoneum. A **mature tract** is required before non-endoscopic tube/button replacement.
+
+### Periprocedural Management of a Percutaneous Tube
+
+Two rules that change the nutrition plan: **PEG is preferred over interventional-radiology gastrostomy** as the initial technique in normal foregut anatomy, and **antiplatelet agents are not routinely withheld** before PEG (anticoagulants are individualized) — [[asge-2025-gastrostomy-tubes]] Recs 1 and 2a/2b. Placement technique, bumper care, antithrombotic detail, the **feed-timing discrepancy between AGA 2025 and ASGE 2025 at the 4-hour mark**, and the full complication table are on **[[enteral-access]]** — that page is their home; see it rather than duplicating here. Agent-by-agent hold intervals: [[anticoagulation-gi-bleeding]].
 
 ---
 
@@ -116,6 +133,7 @@ Radiologic confirmation of tube position is required before EN initiation (Stron
 - Should NOT be added to EN until EN is providing <60% of caloric goals for ≥7–10 days (Strong, Moderate evidence)
 - Prevents overfeeding in early critical illness
 - Supplement PN after 7–10 days if EN consistently insufficient
+- **Obese patients (BMI >30) on PN: hypocaloric PN ≤20 kcal/kg/day** in the first week (Conditional, Very Low) — the PN counterpart of the 60–70% enteral target above [[acg-2016-nutrition-hospitalized]]
 
 ---
 
@@ -154,7 +172,7 @@ Immune-modulating formulas (arginine, glutamine, omega-3 fatty acids) are NOT re
 
 ## See Also
 
-[[acute-pancreatitis]], [[nutrition-in-liver-disease]], [[inflammatory-bowel-disease]], [[nutrition-in-ibd]], [[aki-in-cirrhosis]], [[obesity]], [[gastroparesis]], [[gerd]], [[antibiotic-prophylaxis-endoscopy]], [[upper-endoscopy]], [[enteral-access]]
+[[enteral-access]], [[acute-pancreatitis]], [[nutrition-in-liver-disease]], [[inflammatory-bowel-disease]], [[nutrition-in-ibd]], [[obesity]], [[gastroparesis]], [[gerd]], [[antibiotic-prophylaxis-endoscopy]], [[anticoagulation-gi-bleeding]], [[upper-endoscopy]], [[glp-2-agonists]], [[albumin]]
 
 ---
 
