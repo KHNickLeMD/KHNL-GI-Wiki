@@ -3,7 +3,7 @@ title: "Capsule Endoscopy (Video Capsule Endoscopy)"
 category: advanced-procedure
 tags: [capsule-endoscopy, vce, small-bowel, gi-bleeding, crohns-disease, iron-deficiency-anemia, patency-capsule]
 created: 2026-05-19
-updated: 2026-08-30
+updated: 2026-08-31
 sources: [acg-2015-small-bowel-bleeding, asge-2017-small-bowel-bleeding, acg-2025-crohns, aga-2022-hamartomatous-polyposis, asge-2020-fap]
 ---
 
@@ -18,6 +18,8 @@ sources: [acg-2015-small-bowel-bleeding, asge-2017-small-bowel-bleeding, acg-202
 - [[#Limitations]]
 - [[#Capsule Retention and the Patency Capsule]]
 - [[#Repeat VCE]]
+- [[#See Also]]
+- [[#Sources]]
 
 ## Overview
 

@@ -3,7 +3,7 @@ title: "Proton Pump Inhibitors (PPIs)"
 category: med
 tags: [ppi, acid-suppression, gerd, erosive-esophagitis, peptic-ulcer-disease, h-pylori, eoe, omeprazole, esomeprazole]
 created: 2026-07-21
-updated: 2026-08-14
+updated: 2026-08-31
 sources: [acg-2021-gerd, acg-2024-hp-treatment, acg-2025-eoe, acg-2022-barretts]
 ---
 
@@ -18,6 +18,7 @@ Drug class that inhibits the gastric H⁺/K⁺-ATPase (proton pump); the mainsta
   - [[#Barrett's Esophagus]]
   - [[#Eosinophilic Esophagitis]]
   - [[#H. pylori Eradication]]
+  - [[#Peptic Ulcer Disease / Ulcer Bleeding]]
 - [[#On-Demand, Step-Down & Deprescribing]]
 - [[#PPI-Refractory Symptoms]]
 - [[#Safety / Adverse Effects]]
@@ -69,7 +70,7 @@ Standard-dose acid-suppression potency standardized to omeprazole = 1.00 ("omepr
 - Twice-daily (maximal) acid suppression used periprocedurally before [[endoscopic-eradication-therapy|endoscopic resection/ablation]].
 
 ### Eosinophilic Esophagitis
-- Initial treatment with **"high-dose" PPI = double the approved reflux dose** (e.g. omeprazole/esomeprazole **20–40 mg twice daily**), once-daily or divided before meals ([[acg-2025-eoe]]).
+- Initial treatment of [[eosinophilic-esophagitis|EoE]] with **"high-dose" PPI = double the approved reflux dose** (e.g. omeprazole/esomeprazole **20–40 mg twice daily**), once-daily or divided before meals ([[acg-2025-eoe]]).
 - Pooled response ~**60% clinical / ~50% histologic** (<15 eos/hpf). Twice-daily numerically > once-daily (55.9% vs 49.7%, NS); in one cohort histologic remission 53–54% with 20–40 mg **BID** vs 10–12% once daily (P<0.0001).
 - Step-down possible in responders (some relapse on reduction, regain remission on re-escalation).
 
@@ -78,6 +79,12 @@ Standard-dose acid-suppression potency standardized to omeprazole = 1.00 ("omepr
 - **Potent acid suppression is key**: high intragastric pH promotes active H. pylori replication (↑ antibiotic susceptibility) and stabilizes acid-labile antibiotics (clarithromycin, amoxicillin) → higher intragastric concentration.
 - **CYP2C19 pharmacogenetics:** for rapid/ultrarapid metabolizers, increase omeprazole/lansoprazole/pantoprazole starting daily dose by 50–100% (rapid) or 100% (ultrarapid), **or** use esomeprazole/rabeprazole (bypass CYP2C19), **or** a P-CAB-based regimen.
 - P-CABs ([[vonoprazan]]) provide deeper/more sustained suppression and are superior to PPIs in eradication regimens.
+
+### Peptic Ulcer Disease / Ulcer Bleeding
+*One home per fact — the acid-suppression regimens for this indication live on their entity pages; this section is a pointer, not a copy.*
+- **Ulcer healing and NSAID/aspirin co-prescription:** see [[peptic-ulcer-disease]].
+- **Bleeding ulcer** — high-dose PPI after endoscopic hemostasis (what "high dose" means, continuous vs intermittent regimens, and the twice-daily step-down to 2 weeks after the index endoscopy): see [[peptic-ulcer-disease]]. Pre-endoscopic PPI and the day-4–14 "high-risk" definition: see [[upper-gi-bleeding]].
+- P-CAB positioning in PUD (generally not first-line): [[potassium-competitive-acid-blockers]].
 
 ## On-Demand, Step-Down & Deprescribing
 - If classic GERD symptoms respond to an empiric trial, **attempt to discontinue** PPIs (Conditional/Low) — **except** patients with LA grade C/D erosive esophagitis or Barrett's, who need maintenance.
@@ -108,7 +115,7 @@ Standard-dose acid-suppression potency standardized to omeprazole = 1.00 ("omepr
 
 ## See Also
 
-[[potassium-competitive-acid-blockers]], [[vonoprazan]], [[gerd]], [[barretts-esophagus]], [[eosinophilic-esophagitis]], [[peptic-ulcer-disease]], [[helicobacter-pylori-infection]], [[bismuth-quadruple-therapy]], [[ambulatory-reflux-monitoring]], [[reflux-testing]], [[endoscopic-eradication-therapy]], [[esophageal-adenocarcinoma]], [[anticoagulation-gi-bleeding]]
+[[potassium-competitive-acid-blockers]], [[vonoprazan]], [[gerd]], [[barretts-esophagus]], [[eosinophilic-esophagitis]], [[peptic-ulcer-disease]], [[upper-gi-bleeding]], [[helicobacter-pylori-infection]], [[bismuth-quadruple-therapy]], [[ambulatory-reflux-monitoring]], [[reflux-testing]], [[endoscopic-eradication-therapy]], [[esophageal-adenocarcinoma]], [[anticoagulation-gi-bleeding]]
 
 ---
 

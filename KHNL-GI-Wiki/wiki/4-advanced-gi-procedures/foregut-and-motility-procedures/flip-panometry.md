@@ -3,7 +3,7 @@ title: "FLIP Panometry"
 category: advanced-procedure
 tags: [FLIP, panometry, esophageal-motility, EGJ, functional-lumen-imaging, achalasia, EGJOO, foregut]
 created: 2026-05-15
-updated: 2026-08-30
+updated: 2026-08-31
 sources: [dallas-2025-flip-panometry, aga-2025-flip-esophageal]
 ---
 
@@ -63,7 +63,7 @@ Longer holds (60–90 s) are acceptable if needed to capture metrics, especially
 
 **Maximum EGJ diameter:** greatest opening during the 70-mL fill.
 
-> **EGJ-DI is not reliable when the associated FLIP pressure is <15 mmHg** (Dallas, 88% agreement) — record the pressure alongside every EGJ-DI. Also document **EGJ–crural diaphragm separation**, which indicates hiatal hernia.
+> **EGJ-DI is not reliable when the associated FLIP pressure is <15 mmHg** (Dallas, 88% agreement) — record the pressure alongside every EGJ-DI. Also document **EGJ–crural diaphragm separation**, which indicates [[hiatal-hernia|hiatal hernia]].
 
 ---
 
@@ -280,7 +280,7 @@ Where the numbers actually change management ([[aga-2025-flip-esophageal]]):
 
 ## See Also
 
-[[achalasia]], [[high-resolution-manometry]], [[chicago-classification-v4]], [[ineffective-esophageal-motility]], [[esophagogastric-junction-outflow-obstruction]], [[distal-esophageal-spasm]], [[hypercontractile-esophagus]], [[hrm-antireflux-surgery]], [[antireflux-surgery]], [[poem]], [[heller-myotomy]], [[gerd]], [[reflux-testing]], [[eosinophilic-esophagitis]], [[dysphagia]], [[upper-endoscopy]], [[endoscopic-ultrasound]], [[bariatric-surgery]]
+[[achalasia]], [[high-resolution-manometry]], [[chicago-classification-v4]], [[ineffective-esophageal-motility]], [[esophagogastric-junction-outflow-obstruction]], [[distal-esophageal-spasm]], [[hypercontractile-esophagus]], [[hrm-antireflux-surgery]], [[antireflux-surgery]], [[poem]], [[heller-myotomy]], [[gerd]], [[reflux-testing]], [[eosinophilic-esophagitis]], [[dysphagia]], [[upper-endoscopy]], [[endoscopic-ultrasound]], [[bariatric-surgery]], [[hiatal-hernia]], [[endoscopy-sedation]], [[disorders-of-gut-brain-interaction]]
 
 ---
 

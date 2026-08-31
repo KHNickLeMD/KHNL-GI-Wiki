@@ -3,7 +3,7 @@ title: "Anorectal Manometry (ARM)"
 category: advanced-procedure
 tags: [arm, anorectal-manometry, defecation, biofeedback, dyssynergia, fecal-incontinence, balloon-expulsion-test]
 created: 2026-05-19
-updated: 2026-08-30
+updated: 2026-08-31
 sources: [acg-2021-anorectal-disorders, acg-2020-ibs, asge-2014-constipation, aga-2026-refractory-constipation]
 ---
 
@@ -18,6 +18,8 @@ sources: [acg-2021-anorectal-disorders, acg-2020-ibs, asge-2014-constipation, ag
 - [[#Adjunct — Anal EMG]]
 - [[#Parameters That Matter, by Indication]]
 - [[#Limitations]]
+- [[#See Also]]
+- [[#Sources]]
 
 ## Overview
 

@@ -11,6 +11,40 @@ Idiopathic, transmural, granulomatous inflammatory disorder of the GI tract. Can
 
 ---
 
+## Contents
+- [[#Assessment]]
+  - [[#Establishing the Diagnosis]]
+  - [[#Severity Assessment]]
+  - [[#Natural History Key Facts]]
+- [[#Differential Diagnosis]]
+- [[#Diagnostics]]
+  - [[#Initial Workup]]
+  - [[#Endoscopy]]
+  - [[#Cross-Sectional Imaging]]
+  - [[#Pre-Biologic Screening]]
+- [[#Therapeutics]]
+  - [[#Treatment Goals]]
+  - [[#Mild Ileocecal CD]]
+  - [[#Dietary & Nutritional Therapy]]
+  - [[#Moderate-Severe CD: Corticosteroids (Bridge Only)]]
+  - [[#Immunomodulators (Maintenance; Combo Only)]]
+  - [[#Advanced Therapies: Biologic Positioning]]
+  - [[#Anti-TNF Agents (Strong Recommendation)]]
+  - [[#Anti-Integrin: Vedolizumab (Strong Recommendation)]]
+  - [[#Anti-IL-12/23 (Anti-p40): Ustekinumab (Strong Recommendation)]]
+  - [[#Anti-IL-23 (Anti-p19) Agents (All Strong Recommendations)]]
+  - [[#JAK Inhibitor: Upadacitinib (Strong Recommendation)]]
+  - [[#Perianal Fistulizing CD]]
+  - [[#Postoperative CD Prevention]]
+  - [[#Endoscopic Stricture Dilation]]
+  - [[#Fulminant/Hospitalized CD]]
+  - [[#Monitoring]]
+  - [[#Special Considerations]]
+- [[#See Also]]
+- [[#Sources]]
+
+---
+
 ## Assessment
 
 ### Establishing the Diagnosis
@@ -306,7 +340,7 @@ No single pathognomonic test. Diagnosis = integration of:
 - Any fistula **with an abscess**, and any **complex** fistula, must be **drained** — seton is the usual method — **before** immunosuppression. (Smaller abscesses may not require surgical drainage.)
 - Symptomatic or complex fistula → **surgical consult for EUA** before advanced therapy.
 - **Simple fistula, no active rectal mucosal involvement** → may respond to **fistulotomy or mucosal advancement flap**. **With** rectal mucosal involvement → **seton rather than fistulotomy**, plus concomitant advanced therapy.
-- **Refractory disease:** proximal diversion (long-term success very low), then proctectomy/total proctocolectomy with permanent stoma in the most severe scenarios; advancement flaps improve long-term healing when combined with anti-TNF.
+- **Refractory disease:** proximal diversion (long-term success very low), then proctectomy/total proctocolectomy with a [[ostomy-management|permanent stoma]] in the most severe scenarios; advancement flaps improve long-term healing when combined with anti-TNF.
 - **Internal fistulas** (rectovaginal, enterovesical/colovesical, enteroenteric) — limited trial data; **infliximab ± an immunomodulator** is the usual initial approach before surgery (ACCENT II included rectovaginal fistulae).
 
 **Step 1: Examination under anesthesia** — classify fistula, drain abscess, place seton
@@ -359,7 +393,7 @@ No single pathognomonic test. Diagnosis = integration of:
 - **Factors predicting EBD failure** (not contraindications): length **>4–5 cm**, high BMI, **proximal small-bowel** location, significant prestenotic dilation (**>5 cm** in small bowel), and **primary** (de novo, non-anastomotic) strictures.
 - **Durability:** symptomatic recurrence in ~**50%**; **two-thirds** eventually need repeat dilation or surgery over 20–144 months of follow-up.
 
-- **Technique details ([[aga-2026-therapeutic-endoscopy-ibd|AGA 2026 CPU]]):** EBD is first-line (technical/clinical success 74%–100%). Target **18–20 mm** with **wire-guided CRE balloons**, graded dilation with partial/complete deflation between expansions; **retrograde dilation preferred** when the scope can pass the stricture. Reassess after each dilation — perforation can occur even with smaller balloons, and no evidence links balloon size to perforation risk; **no benefit from intralesional steroids**. Stricture **≤5 cm** predicts surgery-free survival (risk ↑ ~**8% per added cm**). EBD works anywhere in the GI tract including anastomotic and **ostomy-site** strictures (tissue ingrowth, stoma retraction, Kock pouch). Alternatives: endoscopic stricturotomy, FCSEMS (limited by migration). **Hold [[anticoagulation-gi-bleeding|antithrombotics]], systemic steroids, and GLP-1 RAs** before; **[[antibiotic-prophylaxis-endoscopy|prophylactic antibiotics]] not required** before EBD. **Fistulas:** optimize medical therapy, pick short/simple tracts, **prioritize drainage over closure**; endoscopic closure of *disease-associated* CD fistulas is usually ineffective, but **anastomotic-leak–associated** fistulas may respond. Visible dysplasia → [[endoscopic-mucosal-resection|EMR]]/[[endoscopic-submucosal-dissection|ESD]] in expert hands (criteria on [[ulcerative-colitis]]).
+- **Technique details ([[aga-2026-therapeutic-endoscopy-ibd|AGA 2026 CPU]]):** EBD is first-line (technical/clinical success 74%–100%). Target **18–20 mm** with **wire-guided CRE balloons**, graded dilation with partial/complete deflation between expansions; **retrograde dilation preferred** when the scope can pass the stricture. Reassess after each dilation — perforation can occur even with smaller balloons, and no evidence links balloon size to perforation risk; **no benefit from intralesional steroids**. Stricture **≤5 cm** predicts surgery-free survival (risk ↑ ~**8% per added cm**). EBD works anywhere in the GI tract including anastomotic and **ostomy-site** strictures (tissue ingrowth, stoma retraction, Kock pouch). Alternatives: endoscopic stricturotomy, FCSEMS (limited by migration). **Hold [[anticoagulation-gi-bleeding|antithrombotics]], systemic steroids, and [[glp-1-receptor-agonists|GLP-1 RAs]]** before; **[[antibiotic-prophylaxis-endoscopy|prophylactic antibiotics]] not required** before EBD. **Fistulas:** optimize medical therapy, pick short/simple tracts, **prioritize drainage over closure**; endoscopic closure of *disease-associated* CD fistulas is usually ineffective, but **anastomotic-leak–associated** fistulas may respond. Visible dysplasia → [[endoscopic-mucosal-resection|EMR]]/[[endoscopic-submucosal-dissection|ESD]] in expert hands (criteria on [[ulcerative-colitis]]).
 
 ---
 
@@ -425,7 +459,7 @@ No single pathognomonic test. Diagnosis = integration of:
 
 ## See Also
 
-[[ulcerative-colitis]], [[inflammatory-bowel-disease]], [[uc-vs-crohns-comparison]], [[ibd-preventive-care]], [[ibd-endoscopic-scoring]], [[ibd-pain-management]], [[intestinal-ultrasound]], [[clostridioides-difficile]], [[celiac-disease]], [[colorectal-cancer]], [[primary-sclerosing-cholangitis]], [[capsule-endoscopy]], [[colonoscopy]], [[chronic-diarrhea]], [[nutrition-in-ibd]], [[ibd-in-malignancy]], [[toxic-megacolon]], [[pouchitis]], [[liver-disease-in-pregnancy]], [[nausea-and-vomiting-of-pregnancy]]
+[[ulcerative-colitis]], [[inflammatory-bowel-disease]], [[uc-vs-crohns-comparison]], [[ibd-preventive-care]], [[ibd-endoscopic-scoring]], [[ibd-pain-management]], [[intestinal-ultrasound]], [[clostridioides-difficile]], [[celiac-disease]], [[colorectal-cancer]], [[primary-sclerosing-cholangitis]], [[capsule-endoscopy]], [[colonoscopy]], [[chronic-diarrhea]], [[nutrition-in-ibd]], [[ibd-in-malignancy]], [[toxic-megacolon]], [[pouchitis]], [[liver-disease-in-pregnancy]], [[nausea-and-vomiting-of-pregnancy]], [[ostomy-management]]
 
 ---
 

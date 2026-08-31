@@ -3,7 +3,7 @@ title: "Ostomy Management"
 category: concept
 tags: [ostomy, ileostomy, colostomy, nutrition]
 created: 2026-07-23
-updated: 2026-08-14
+updated: 2026-08-31
 sources: [aga-2023-ostomies]
 ---
 
@@ -43,7 +43,7 @@ sources: [aga-2023-ostomies]
 - **Most important treatment: hydration to prevent renal failure.** Repletion volumes are large → typically **IV**, requiring hospital admission or long-term IV access for home health care.
 - Persistent early HOO → consider **early stoma reversal**, but reversal **before 6 weeks** from index surgery carries increased complication risk.
 
-**Chronic (late) HOO** — more likely with jejunostomy, short bowel (**<200 cm small intestine remaining**), or failed post-surgical adaptation. Ileal adaptation begins over days–weeks (mucosal changes altering electrolyte transport, absorptive capacity, motility). Etiologies: infection, structural (stomal stricture/dysfunction, obstruction, ileus, enteric fistula), recurrent [[crohns-disease|Crohn's disease]], and common adult diarrhea causes ([[microscopic-colitis|microscopic colitis]], [[bile-acid-diarrhea|bile acid diarrhea]]).
+**Chronic (late) HOO** — more likely with jejunostomy, short bowel (**<200 cm small intestine remaining**), or failed post-surgical adaptation. Ileal adaptation begins over days–weeks (mucosal changes altering electrolyte transport, absorptive capacity, motility). Etiologies: infection, structural (stomal stricture/dysfunction, obstruction, ileus, enteric fistula), recurrent [[crohns-disease|Crohn's disease]], and common adult diarrhea causes ([[microscopic-colitis|microscopic colitis]], [[bile-acid-diarrhea|bile acid diarrhea]]). *Parenteral-nutrition thresholds for high ostomy output (>2000 mL/24 h) live on [[nutrition-in-ibd]] — note that figure is a PN trigger, not the >1.5 L/d HOO definition above.*
 
 **Treatment ladder (Table 1):**
 
@@ -99,7 +99,7 @@ sources: [aga-2023-ostomies]
 
 ## See Also
 
-[[crohns-disease]], [[ulcerative-colitis]], [[inflammatory-bowel-disease]], [[colorectal-cancer]], [[fecal-incontinence]], [[clostridioides-difficile]], [[microscopic-colitis]], [[bile-acid-diarrhea]], [[chronic-diarrhea]], [[loperamide]], [[pouchitis]], [[obesity]], [[variceal-upper-gi-bleeding]]
+[[crohns-disease]], [[ulcerative-colitis]], [[inflammatory-bowel-disease]], [[colorectal-cancer]], [[fecal-incontinence]], [[clostridioides-difficile]], [[microscopic-colitis]], [[bile-acid-diarrhea]], [[chronic-diarrhea]], [[loperamide]], [[pouchitis]], [[obesity]], [[variceal-upper-gi-bleeding]], [[nutrition-in-ibd]], [[enteral-access]]
 
 ---
 

@@ -3,11 +3,23 @@ title: "Endoscopic Eradication Therapy (EET)"
 category: advanced-procedure
 tags: [barretts-esophagus, eet, rfa, emr, esd, cryotherapy, dysplasia, esophageal-adenocarcinoma, foregut]
 created: 2026-06-04
-updated: 2026-08-27
+updated: 2026-08-31
 sources: [asge-2018-barretts-eet, aga-2024-barretts-eet, acg-2022-barretts, asge-2019-barretts-screening-surveillance, aga-2025-barretts-surveillance]
 ---
 
 Endoscopic eradication therapy (EET) is the minimally invasive, organ-sparing treatment for dysplastic [[barretts-esophagus|Barrett's esophagus]] and early esophageal neoplasia. It combines **endoscopic resection of visible lesions** with **ablation of the remaining flat Barrett's segment**, and has largely replaced esophagectomy for high-grade dysplasia (HGD) and intramucosal carcinoma (IMC/T1a EAC). The defining endpoint is **complete eradication of intestinal metaplasia (CE-IM)** — no endoscopically visible BE and no intestinal metaplasia on surveillance biopsies.
+
+## Contents
+- [[#Indications]]
+- [[#Technique]]
+  - [[#Step 1 — Endoscopic Resection of Visible Lesions]]
+  - [[#Step 2 — Ablation of Residual Flat Segment]]
+- [[#Outcomes and Goals]]
+- [[#Adverse Events]]
+- [[#Post-CE-IM Surveillance]]
+- [[#Where to Perform EET]]
+- [[#See Also]]
+- [[#Sources]]
 
 ---
 

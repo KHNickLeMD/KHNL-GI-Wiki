@@ -159,7 +159,7 @@ Idiopathic chronic inflammatory disorder of the large intestine. Continuous muco
 
 - TB (IGRA preferred if BCG-vaccinated)
 - [[chronic-hepatitis-b|HBV]] (HBsAg, anti-HBc, anti-HBs); vaccinate if seronegative; antiviral prophylaxis if HBsAg+
-- Update all vaccines before immunosuppression; live vaccines contraindicated after. Influenza, pneumococcal and **herpes zoster** vaccination — the last **particularly before an S1P modulator or JAK inhibitor**
+- [[ibd-preventive-care|Update all vaccines]] before immunosuppression; live vaccines contraindicated after. Influenza, pneumococcal and **herpes zoster** vaccination — the last **particularly before an S1P modulator or JAK inhibitor**
 - **S1P modulators (ozanimod, etrasimod):** **baseline ECG** before initiation (bradycardia/AV block)
 - TPMT before a thiopurine
 - Assess comorbidity, frailty, functional status, concomitant meds, and **thromboembolic/cardiovascular risk** before choosing an advanced therapy; monitor CBC, chemistries and transaminases on treatment per label
@@ -391,7 +391,7 @@ Idiopathic chronic inflammatory disorder of the large intestine. Continuous muco
 | **Multifocal unresectable** dysplasia, or **invisible** dysplasia | **Surgical resection** |
 | Active **background inflammation** obscuring the lesion | **Optimize medical therapy**, then repeat colonoscopy in **3–6 months** with curative intent |
 
-- **Technique by size:** standard polypectomy (incl. cold snare) is adequate for **well-defined lesions <10 mm**; [[endoscopic-mucosal-resection|EMR]] or [[colorectal-esd|ESD]] for larger. ESD is harder in IBD (submucosal fibrosis and fat expansion blur the plane). [[endoscopic-full-thickness-resection|eFTR]] is established for scarred/non-lifting lesions in **non-IBD** colons; only case reports in CAN, no long-term data.
+- **Technique by size:** standard [[polypectomy]] (incl. cold snare) is adequate for **well-defined lesions <10 mm**; [[endoscopic-mucosal-resection|EMR]] or [[colorectal-esd|ESD]] for larger. ESD is harder in IBD (submucosal fibrosis and fat expansion blur the plane). [[endoscopic-full-thickness-resection|eFTR]] is established for scarred/non-lifting lesions in **non-IBD** colons; only case reports in CAN, no long-term data.
 - **Outcomes** (meta-analysis, >600 lesions, mean 23 mm, EMR or ESD): complete resection **97.9%**, local recurrence **4.9%**, metachronous lesions **7.4%** — which is why surveillance continues after a successful resection.
 - Routine biopsies of mucosa *surrounding* a resected dysplastic lesion are **not** required (low yield) unless resection completeness is in question.
 - **Chromoendoscopy evidence has moved:** network meta-analysis found dye-based chromoendoscopy detects **1.42×** (95% CI 1.02–1.98) more dysplastic lesions than HD white-light; but the **HELIOS RCT (n=563)** showed **HD white-light with segmental re-inspection is noninferior** to HD dye-chromoendoscopy for CAN detection, with a shorter withdrawal time. DCE also fails with inadequate prep or active inflammation. [[aga-2026-therapeutic-endoscopy-ibd]]
@@ -422,7 +422,7 @@ Idiopathic chronic inflammatory disorder of the large intestine. Continuous muco
 
 ## See Also
 
-[[crohns-disease]], [[inflammatory-bowel-disease]], [[uc-vs-crohns-comparison]], [[ibd-preventive-care]], [[ibd-endoscopic-scoring]], [[intestinal-ultrasound]], [[clostridioides-difficile]], [[primary-sclerosing-cholangitis]], [[colorectal-cancer]], [[colonoscopy]], [[colon-ischemia]], [[microscopic-colitis]], [[radiation-proctopathy]], [[pouchitis]], [[chronic-diarrhea]], [[nutrition-in-ibd]], [[ibd-in-malignancy]], [[liver-disease-in-pregnancy]], [[nausea-and-vomiting-of-pregnancy]], [[ostomy-management]], [[calcineurin-inhibitors]], [[endoscopic-mucosal-resection]], [[colorectal-esd]], [[endoscopic-full-thickness-resection]], [[toxic-megacolon]]
+[[crohns-disease]], [[inflammatory-bowel-disease]], [[uc-vs-crohns-comparison]], [[ibd-preventive-care]], [[ibd-endoscopic-scoring]], [[intestinal-ultrasound]], [[clostridioides-difficile]], [[primary-sclerosing-cholangitis]], [[colorectal-cancer]], [[colonoscopy]], [[colon-ischemia]], [[microscopic-colitis]], [[radiation-proctopathy]], [[pouchitis]], [[chronic-diarrhea]], [[nutrition-in-ibd]], [[ibd-in-malignancy]], [[liver-disease-in-pregnancy]], [[nausea-and-vomiting-of-pregnancy]], [[ostomy-management]], [[calcineurin-inhibitors]], [[endoscopic-mucosal-resection]], [[colorectal-esd]], [[endoscopic-full-thickness-resection]], [[toxic-megacolon]], [[polypectomy]]
 
 ---
 

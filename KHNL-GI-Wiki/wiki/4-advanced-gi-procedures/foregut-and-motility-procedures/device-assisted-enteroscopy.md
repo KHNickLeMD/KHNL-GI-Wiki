@@ -3,7 +3,7 @@ title: "Device-Assisted Enteroscopy (Deep Enteroscopy)"
 category: advanced-procedure
 tags: [deep-enteroscopy, dbe, sbe, spiral-enteroscopy, balloon-enteroscopy, small-bowel, gi-bleeding, device-assisted-enteroscopy]
 created: 2026-05-19
-updated: 2026-08-30
+updated: 2026-08-31
 sources: [acg-2015-small-bowel-bleeding, asge-2017-small-bowel-bleeding, asge-2015-deep-enteroscopy, asge-2020-fap]
 ---
 
@@ -13,6 +13,8 @@ sources: [acg-2015-small-bowel-bleeding, asge-2017-small-bowel-bleeding, asge-20
 - [[#Indications]]
 - [[#Therapeutics Deliverable at DAE]]
 - [[#Adverse Events]]
+- [[#See Also]]
+- [[#Sources]]
 
 ---
 

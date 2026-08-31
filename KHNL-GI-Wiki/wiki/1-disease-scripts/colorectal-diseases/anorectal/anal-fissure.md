@@ -38,7 +38,7 @@ sources: [acg-2021-anorectal-disorders]
 
 | Condition | Key Features |
 |-----------|-------------|
-| [[hemorrhoids\|Hemorrhoids]] | Painless bright red bleeding; prolapse; visible on anoscopy. Not either/or — the two **coexist in up to 20%**, and when both are present the **fissure is treated first** (see [[hemorrhoids]]) |
+| [[hemorrhoids\|Hemorrhoids]] | Painless bright red bleeding; prolapse; visible on anoscopy. Not either/or — the two **coexist in up to 20%**, and when both are present the **fissure is treated first** |
 | Perianal abscess/fistula | Fluctuant or indurated perianal tissue; constant pain (not just with defecation); tract opening visible |
 | Crohn's perianal disease | Multiple/atypical fissures; skin tags; fistulas; [[crohns-disease]] |
 | Anal carcinoma | Persistent non-healing fissure-like lesion; biopsy required for any non-healing chronic fissure |

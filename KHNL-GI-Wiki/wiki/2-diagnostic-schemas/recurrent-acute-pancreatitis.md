@@ -7,8 +7,6 @@ updated: 2026-08-30
 sources: [aga-2022-recurrent-pancreatitis-endoscopy]
 ---
 
-# Recurrent Acute Pancreatitis
-
 ## Definition / Scope
 
 - **RAP = ≥2 distinct episodes of [[acute-pancreatitis|acute pancreatitis]] with complete interceding resolution, separated by ≥3 months** [[aga-2022-recurrent-pancreatitis-endoscopy]].

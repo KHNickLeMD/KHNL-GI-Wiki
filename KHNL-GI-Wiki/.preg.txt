@@ -1,0 +1,1358 @@
+Gastroenterology 2024;167:1033–1045
+
+CLINICAL PRACTICE UPDATES
+AGA Clinical Practice Update on Pregnancy-Related
+Gastrointestinal and Liver Disease: Expert Review
+Shivangi Kothari,1 Yalda Afshar,2 Lawrence S. Friedman,3,4,5,6 and Joseph Ahn7
+
+DESCRIPTION: The purpose of this American Gastroenterological Association (AGA) Institute Clinical Practice Update is to
+review the available published evidence and expert advice
+regarding the clinical management of patients with pregnancyrelated gastrointestinal and liver disease. METHODS: This
+expert review was commissioned and approved by the AGA
+Institute Clinical Practice Updates Committee and the AGA
+Governing Board to provide timely guidance on a topic of high
+clinical importance to the AGA membership and underwent
+internal peer review by the Clinical Practice Updates Committee and external peer review through the standard procedures
+of Gastroenterology. This article provides practical advice for
+the management of pregnant patients with gastrointestinal and
+liver disease based on the best available published evidence.
+The Best Practice Advice statements were drawn from a review
+of the published literature and from expert opinion. Because
+formal systematic reviews were not performed, these Best
+Practice Advice statements do not carry formal ratings
+regarding the quality of evidence or strength of the presented
+considerations.
+BEST PRACTICE ADVICE STATEMENTS
+BEST PRACTICE ADVICE 1: To optimize gastrointestinal and
+liver disease before pregnancy, preconception and contraceptive care counseling by a multidisciplinary team should be
+encouraged for reproductive-aged persons who desire to
+become pregnant. BEST PRACTICE ADVICE 2: Procedures,
+medications, and other interventions to optimize maternal
+health should not be withheld solely because a patient is
+pregnant and should be individualized after an assessment of
+the risks and beneﬁts. BEST PRACTICE ADVICE 3: Coordination of birth for a pregnant patient with complex inﬂammatory
+bowel disease, advanced cirrhosis, or a liver transplant should
+be managed by a multidisciplinary team, preferably in a tertiary
+care center. BEST PRACTICE ADVICE 4: Early treatment of
+nausea and vomiting of pregnancy may reduce progression to
+hyperemesis gravidarum. In addition to standard diet and
+lifestyle measures, stepwise treatment consists of symptom
+control with vitamin B6 and doxylamine, hydration, and
+adequate nutrition; ondansetron, metoclopramide, promethazine, and intravenous glucocorticoids may be required in
+moderate to severe cases. BEST PRACTICE ADVICE 5: Constipation in pregnant persons may result from hormonal,
+medication-related, and physiological changes. Treatment options include dietary ﬁber, lactulose, and polyethylene glycol–
+
+based laxatives. BEST PRACTICE ADVICE 6: Elective endoscopic procedures should be deferred until the postpartum
+period, whereas nonemergent but necessary procedures should
+ideally be performed in the second trimester. Pregnant patients
+with cirrhosis should undergo evaluation for, and treatment of,
+esophageal varices; upper endoscopy is suggested in the second
+trimester (if not performed within 1 year before conception) to
+guide consideration of nonselective b-blocker therapy or
+endoscopic variceal ligation. BEST PRACTICE ADVICE 7: In
+patients with inﬂammatory bowel disease, clinical remission
+before conception, during pregnancy, and in the postpartum
+period is essential for improving outcomes of pregnancy. Biologic agents should be continued throughout pregnancy and the
+postpartum period; use of methotrexate, thalidomide, and
+ozanimod must be stopped at least 6 months before conception.
+BEST PRACTICE ADVICE 8: Endoscopic retrograde cholangiopancreatography during pregnancy may be performed for
+urgent indications, such as choledocholithiasis, cholangitis, and
+some cases of gallstone pancreatitis. Ideally, endoscopic retrograde cholangiopancreatography should be performed during
+the second trimester, but if deferring the procedure may be
+detrimental to the health of the patient and fetus, a multidisciplinary team should be convened to decide on the advisability
+of endoscopic retrograde cholangiopancreatography. BEST
+PRACTICE ADVICE 9: Cholecystectomy is safe during pregnancy; a laparoscopic approach is the standard of care
+regardless of trimester, but ideally in the second trimester.
+BEST PRACTICE ADVICE 10: The diagnosis of intrahepatic
+cholestasis of pregnancy is based on a serum bile acid level
+>10 mmol/L in the setting of pruritus, typically during the
+second or third trimester. Treatment should be offered with
+oral ursodeoxycholic acid in a total daily dose of 10–15 mg/kg.
+BEST PRACTICE ADVICE 11: Management of liver diseases
+unique to pregnancy, such as pre-eclampsia; hemolysis,
+elevated liver enzymes, and low platelets syndrome; and acute
+fatty liver of pregnancy requires planning for delivery and
+timely evaluation for possible liver transplantation. Daily
+aspirin prophylaxis for patients at risk for pre-eclampsia or
+hemolysis, elevated liver enzymes, and low platelets syndrome
+is advised beginning at week 12 of gestation. BEST PRACTICE
+ADVICE 12: In patients with chronic hepatitis B virus infection,
+serum hepatitis B virus DNA and liver biochemical test levels
+should be ordered. Patients not on treatment but with a serum
+hepatitis B virus DNA level >200,000 IU/mL during the third
+trimester of pregnancy should be considered for treatment with
+tenofovir disoproxil fumarate. BEST PRACTICE ADVICE 13: In
+
+CLINICAL PRACTICE UPDATES
+
+1
+Division of Gastroenterology and Hepatology, University of Rochester, Rochester, New York; 2Division of Maternal Fetal
+Medicine, University of California Los Angeles, Los Angeles, California; 3Department of Medicine, Newton-Wellesley Hospital,
+Boston, Massachusetts; 4Department of Medicine, Massachusetts General Hospital, Boston, Massachusetts; 5Department of
+Medicine, Harvard Medical School, Boston, Massachusetts; 6Department of Medicine, Tufts University School of Medicine,
+Boston, Massachusetts; and 7Division of Gastroenterology and Hepatology, Oregon Health and Science University, Portland,
+Oregon
+
+1034 Kothari et al
+patients on immunosuppressive therapy for chronic liver diseases or after liver transplantation, therapy should be
+continued at the lowest effective dose during pregnancy.
+Mycophenolate mofetil should not be administered during
+pregnancy.
+
+Keywords: Pregnancy; Liver Disease; Endoscopy; Vomiting; Inﬂammatory Bowel Disease.
+
+Preconception and Contraceptive
+Counseling
+
+CLINICAL PRACTICE UPDATES
+
+Best Practice Advice 1: To optimize gastrointestinal and liver disease before pregnancy, preconception
+and contraceptive care counseling by a multidisciplinary team should be encouraged for reproductiveaged persons who desire to become pregnant.
+In the United States, more than one-half of all pregnancies are unplanned.1 Unplanned pregnancies are associated
+with increased risks to the pregnant person and fetus.
+Pregnant persons with some gastrointestinal (GI) and liver
+diseases are considered to have high-risk pregnancies, and
+an unplanned pregnancy increases the risk further. When
+possible, the patient’s health should be optimized before
+pregnancy. The risk to the pregnancy depends on the underlying GI or liver disease, and pregnancy may affect the
+course of the GI or liver disease. Therefore, preconception
+preparation requires collaboration among all of the relevant
+providers who care for a person of reproductive age. The
+goal is to reduce potential harm to the mother and fetus by
+identifying modiﬁable risk factors and intervening to
+improve the health of the mother and child while considering the mother’s preferences.2
+A discussion of the patient’s reproductive plans should
+be incorporated into the clinical encounter with a
+reproductive-aged person with active GI or liver issues that
+can be affected by pregnancy (and vice versa) and include
+consideration of contraception if the person is trying to
+avoid a pregnancy, ways to optimize health before pregnancy occurs, and the optimal timing of pregnancy. Preconception counseling can be done collaboratively with the
+patient’s primary care physician, gastroenterologist, hepatologist, and obstetrician or maternal-fetal medicine (MFM)
+physician. Issues discussed may include medical and surgical management of the underlying disease, genetic testing,
+artiﬁcial reproductive technologies (if relevant), family
+planning, and contraceptive care. Preconception visits allow
+risk stratiﬁcation and optimization of the management of
+medical illnesses to achieve a safe pregnancy.
+
+Risk Mitigation
+Best Practice Advice 2: Procedures, medications,
+and other interventions to optimize maternal health
+should not be withheld solely because a patient is
+pregnant and should be individualized after an assessment of the risks and beneﬁts.
+
+Gastroenterology Vol. 167, Iss. 5
+
+Pregnancy-related morbidity and mortality are increasing
+in the United States,3 particularly for pregnancies that are
+considered high risk because of chronic or newly diagnosed
+medical comorbidities. Recognizing a worsening disease
+course, triaging the level of maternal health, and prescribing
+appropriate medication and interventions are essential.4
+Risk mitigation for high-risk pregnancies may include
+medications, procedures, and other interventions that may
+have unknown effects on the pregnancy or the fetus. Often,
+no data exist on teratogenicity and other risks of a speciﬁc
+intervention because of the difﬁculty conducting large-scale
+randomized studies in this population. Many interventions
+will warrant a discussion of safety in the pregnant person
+and fetus. In general, most interventions, including computed
+tomography or endoscopic retrograde cholangiopancreatography (ERCP), should not be withheld if deemed necessary.
+
+Coordination of Birth
+Best Practice Advice 3: Coordination of birth for a
+pregnant patient with complex inﬂammatory bowel disease, advanced cirrhosis, or a liver transplant should be
+managed by a multidisciplinary team, preferably in a
+tertiary care center.
+Some GI and liver diseases may place patients at an
+increased risk of adverse pregnancy outcomes, including
+miscarriages, preterm birth, hypertensive disease of pregnancy, and cesarean birth.5,6 Patients with moderate- or
+high-risk GI or liver disease should ideally be managed
+throughout the pregnancy (ie, prenatal care), during delivery, and in the postpartum period at centers with multidisciplinary teams that have experience treating high-risk
+diseases in a pregnant person. Pregnant patients with GI
+and liver diseases should be cared for by subspecialists in
+gastroenterology, obstetrics, and MFM. Throughout the
+pregnancy, the team should conduct collaborative discussions related to birth planning, birth location, mode of delivery, and gestational age, as well as medical and surgical
+interventions that may be needed.
+
+Heartburn, Nausea, and Vomiting
+Best Practice Advice 4: Early treatment of nausea
+and vomiting of pregnancy may reduce progression to
+hyperemesis gravidarum. In addition to standard diet
+and lifestyle measures, stepwise treatment consists of
+symptom control with vitamin B6 and doxylamine, hydration, and adequate nutrition; ondansetron, metoclopramide, promethazine, and intravenous glucocorticoids
+may be required in moderate to severe cases.
+Abbreviations used in this paper: ACOG, American College of Obstetricians and Gynecologists; AFLP, acute fatty liver of pregnancy; anti-TNF,
+anti-tumor necrosis factor; ERCP, endoscopic retrograde cholangiopancreatography; GD, gallstone disease; GI, gastrointestinal; HBV,
+hepatitis B virus; HG, hyperemesis gravidarum; IBD, inﬂammatory bowel
+disease; IV, intravenous; MFM, maternal-fetal medicine; NVP, nausea and
+vomiting of pregnancy.
+Most current article
+© 2024 by the AGA Institute.
+0016-5085/$36.00
+https://doi.org/10.1053/j.gastro.2024.06.014
+
+October 2024
+
+AGA Clinical Practice Update on Pregnancy-Related GI and Liver Disease 1035
+
+Table 1.Motherisk Pregnancy-Unique Quantiﬁcation of Emesis Score
+Motherisk Pregnancy-Unique Quantiﬁcation of Emesis scorea
+1
+
+2
+
+3
+
+4
+
+5
+
+Not at all
+
+1
+
+2–3
+
+4–6
+
+>6
+
+I have not thrown up at all
+
+1–2
+
+3–4
+
+5–6
+
+7
+
+None
+
+1–2
+
+3–4
+
+5–6
+
+7
+
+Variable
+In the past 12 h:
+How long (h) have you felt nauseated or sick to
+your stomach?
+How many times have you thrown up or
+vomited?
+How many times have you had retching or dry
+heaves without throwing up?
+
+Adapted from Am J Obstet Gynecol, Vol. 186, Iss. 5, Suppl. 2, Koren G, Boskovic R, Hard M, et al, Motherisk–PUQE
+(pregnancy-unique quantiﬁcation of emesis and nausea) scoring system for nausea and vomiting of pregnancy, S228–S231,
+2002, with permission from Elsevier.
+a
+Maximum score ¼ 15; severity: 6 ¼ mild, 7–12 ¼ moderate, 13 ¼ severe.
+
+are administered routinely in pregnancy. Proton pump inhibitors, such as omeprazole or pantoprazole, can be
+considered if lifestyle modiﬁcations and antacids fail to
+alleviate symptoms. In a meta-analysis of 26 studies evaluating the risk of adverse neonatal outcomes associated with
+maternal intake of proton pump inhibitors, no signiﬁcant
+associations between proton pump inhibitor use and abortion, stillbirth, neonatal death, preterm birth, and low birth
+weight were observed, although a nonsigniﬁcant increase in
+the risk of congenital malformations was reported in 1
+study.16
+
+Hyperemesis Gravidarum
+HG is an intractable form of NVP that can lead to
+dehydration, weight loss of >5% of prepregnancy weight,
+and electrolyte imbalances.17 It can affect 0.3%–2% of
+pregnant persons. HG usually starts before week 22 of
+gestation. By week 16, symptoms resolve in >50% of
+affected persons and by 20 weeks, 80% improve; however,
+in 10%, symptoms persist throughout pregnancy and occasionally into the postpartum period.
+The cause of HG is not fully understood, but HG has been
+associated with hyperthyroid disorders; elevated levels of
+human chorionic gonadotropin and estrogen; previous
+molar pregnancy; psychiatric illness; pre-existing conditions,
+such as diabetes mellitus and asthma; singleton female
+pregnancies; and pregnancies with multiple male fetuses.18
+In a meta-analysis, HG was associated with a higher female
+to male ratio of offspring and a higher frequency of low birth
+weight, small for gestational age, and premature delivery.19
+In a recent report, higher growth or differentiation factor15 (a hormone acting on the brainstem that is produced by
+the fetus) levels in maternal blood were found to be associated with vomiting in pregnancy and HG.20
+The evaluation of HG involves comprehensive history
+taking, including any previous pregnancies (patients with HG
+have a higher risk in subsequent pregnancy) and any preexisting conditions. Physical examination is focused on an
+evaluation of signs of dehydration (eg, orthostatic hypotension, decreased skin turgor, and dry mucus membranes) and
+
+CLINICAL PRACTICE UPDATES
+
+Heartburn, nausea, and vomiting are common during
+pregnancy, with frequency ranging from 30%–90%.7–9
+Nausea and vomiting of pregnancy (NVP) usually begins at
+4–6 weeks,10 peaks at 8–12 weeks, and subsides by week 20.7
+Heartburn is common in the latter part of the pregnancy and
+resolves after delivery.11 Heartburn during pregnancy can be
+attributed to an increase in levels of progesterone, which
+causes relaxation of the lower esophageal sphincter, thereby
+facilitating gastroesophageal reﬂux.8 NVP, however, is
+commonly associated with elevated levels of human chorionic gonadotropin and estrogen and changes in GI motility.
+Progesterone can have an inhibitory effect on GI and small
+bowel motility and lead to delayed gastric emptying. The
+severity of vomiting during pregnancy can be quantiﬁed with
+a scoring system, such as the Motherisk Pregnancy Unique
+Quantiﬁcation of Emesis score (Table 1).12
+Diet and lifestyle modiﬁcation are the initial steps in
+managing these symptoms in pregnancy. Reducing spicy,
+fatty, acidic, and fried foods can help to reduce heartburn.
+Eating small, frequent, and bland meals, for example, the
+BRAT (bananas, rice, applesauce, and toast) diet, and highprotein and low-fat meals can also be helpful in NVP.13
+Speciﬁc triggers, such as certain foods with strong odors
+or activities, should be identiﬁed and avoided. If symptoms
+are persistent or severe, therapeutic options include ginger
+(a 250-mg capsule 4 times daily) and vitamin B6 (pyridoxine, 10–25 mg every 8 hours), as recommended by the
+American College of Obstetricians and Gynecologists
+(ACOG).14
+H1-receptor antagonists, such as doxylamine, promethazine, and dimenhydrinate, are considered safe ﬁrst-line
+pharmacologic antiemetic therapies, if needed. Doxylamine
+is US Food and Drug Administration–approved and recommended by ACOG for persistent NVP refractory to nonpharmacologic therapy.14 Doxylamine and pyridoxine are
+available in 10 mg/10 mg and 20 mg/20 mg combinations
+and are safe and well tolerated.15 Early intervention and
+treatment of NVP may help prevent progression to hyperemesis gravidarum (HG).14
+H2-receptor blockers are the most used antireﬂux
+medications during pregnancy. Cimetidine and famotidine
+
+1036 Kothari et al
+
+CLINICAL PRACTICE UPDATES
+
+malnutrition (weight loss and muscle wasting). Neurologic
+evaluation for neuropathy or vitamin deﬁciency should be
+carried out. Laboratory evaluation is focused on the extent of
+dehydration, nutritional or vitamin deﬁciencies, and electrolyte imbalances. Elevated levels of liver enzymes can be seen
+in 40%–50% of patients with HG.21 Ultrasonography of the
+abdomen can help detect multiple or molar pregnancies and
+adequate fetal growth, and also help to rule out hepatobiliary,
+vascular, or renal explanations for the symptoms, such as
+gallstones and portal vein thrombosis.
+The goals of management of HG are prevention of
+dehydration; correction of electrolyte abnormalities; and
+support of adequate maternal and, thereby fetal, nutrition.
+Treatment is guided by the severity of symptoms and may
+require a multidisciplinary team approach involving obstetricians, nutritionists, psychologists, and gastroenterologists. Mental health care professionals can help manage
+anxiety, depression, and other emotional challenges associated with HG. Supplementation with vitamin B6 (pyridoxine) may be suggested as a ﬁrst-line treatment for mild
+cases. Vitamin B1 (thiamine) is given to prevent refeeding
+syndrome and Wernicke encephalopathy; thiamine therapy
+should be started at a dosage of 100 mg daily for a minimum
+of 7 days, followed by a maintenance dosage of 50 mg daily
+until adequate oral intake is established.
+ACOG recommends a step-up approach for patients who
+do not respond to ﬁrst-line therapy. Metoclopramide can be
+given for NVP and HG. In a randomized study comparing
+promethazine and metoclopramide, both drugs had similar
+efﬁcacy in patients who were hospitalized for HG; however,
+drowsiness, dizziness, dystonia, and discontinuation of
+therapy owing to adverse events were less frequent with
+metoclopramide.22 No increased risk of congenital defects
+has been reported with metoclopramide.23 Ondansetron is
+given primarily in severe NVP that requires hospitalization,
+and has not been associated with an increased risk of stillbirth, spontaneous abortion, or major birth defects; however,
+some studies have reported cases of congenital heart defects
+when ondansetron is given in the ﬁrst trimester, and thus it
+should only be administered as a second-line therapy.24
+ACOG recommends using ondansetron on a case-by-case
+basis in patients with persistent symptoms before 10 weeks
+of pregnancy.14 In a Cochrane review and meta-analysis of 25
+studies, no signiﬁcant difference was seen in efﬁcacy among
+the medications administered commonly for HG (ie, metoclopramide, ondansetron, and promethazine).25 Recently
+published European Association for the Study of the Liver
+Clinical Practice Guidelines on the management of liver diseases in pregnancy recommended doxylamine and pyridoxine and phenothiazines as ﬁrst-line pharmacologic treatment
+of HG and metoclopramide and ondansetron as second-line
+therapies. They also noted that drug-induced extrapyramidal adverse effects may be seen with phenothiazines and
+metoclopramide and recommended that the drug be withdrawn in patients reporting such symptoms.21
+Methylprednisolone can be given as a last resort in patients with severe HG and reduces the rate of rehospitalization. It is given in a dosage of 16 mg intravenous (IV)
+every 8 hours for up to 3 days, followed by tapering over 2
+
+Gastroenterology Vol. 167, Iss. 5
+
+weeks to the lowest effective dosage and limiting the
+maximum duration to 6 weeks.14 Its administration in the
+ﬁrst trimester has been reported to slightly increase the risk
+of cleft palate when given before 10 weeks of gestation;
+however, the data have been conﬂicting and, therefore, it
+should be administered with caution in the ﬁrst trimester.
+Patients with severe symptoms may need hospitalization for
+IV hydration and replacement of electrolytes, vitamins, and
+nutrients. If weight loss and symptoms persist, enteral or
+parenteral nutrition may be required.
+
+Constipation
+Best Practice Advice 5: Constipation in pregnant
+persons may result from hormonal, medication-related,
+and physiological changes. Treatment options include
+dietary ﬁber, lactulose, and polyethylene glycol–based
+laxatives.
+Constipation may be experienced by 20%–40% of
+pregnant persons.26,27 It usually improves in the postpartum period.28 Hemorrhoids occur in approximately 80%
+of pregnant persons, more commonly during the third
+trimester due to compression of the rectum by the gravid
+uterus. Constipation during pregnancy can be attributed to
+physiological, medication, anatomic, dietary, metabolic, and
+hormonal changes.29 The increased levels of progesterone
+can slow GI motility. Evaluation involves detailed history
+taking regarding the frequency and consistency of bowel
+movements, presence of pain or bleeding during bowel
+movements, and severity of symptoms. Hemorrhoids can
+present with itching, pain, or bleeding.
+Dietary ﬁber intake during pregnancy in the United States
+is low30 and, therefore, increasing dietary ﬁber intake (eg,
+fruits, vegetables, whole grains, and legumes) to the recommended daily amount of approximately 30 g/d can help promote regular bowel movements and prevent constipation.
+Consumption of an adequate amount of ﬂuids, particularly
+water, can help soften stools and ease bowel movements. Bulkforming agents, such as psyllium husk or methylcellulose, are
+safe to administer in pregnancy because of the lack of systemic
+absorption. Soluble ﬁber, like psyllium husk, improves stool
+viscosity and transit time in addition to increasing bulk
+compared with insoluble ﬁber, which is exclusively bulkforming. Osmotic laxatives, such as polyethylene glycol or
+lactulose, can also be administered safely during pregnancy.31
+Excessive ﬁber and osmotic laxatives like lactulose can cause
+maternal bloating. Stimulant laxatives should be avoided
+because safety data on these medications are conﬂicting. In a
+prospective study of 204 patients treated with hydrocortisone
+foam for hemorrhoids in the third trimester, no adverse events
+were seen compared with placebo.32 Encouraging pregnant
+women to avoid straining during bowel movements by
+providing ample time, using relaxation techniques, and
+adjusting diet and hydration is helpful.
+
+Endoscopy
+Best Practice Advice 6: Elective endoscopic procedures should be deferred until the postpartum
+
+AGA Clinical Practice Update on Pregnancy-Related GI and Liver Disease 1037
+
+period, whereas nonemergent but necessary procedures should ideally be performed in the second
+trimester. Pregnant patients with cirrhosis should undergo evaluation for, and treatment of, esophageal
+varices; upper endoscopy is suggested in the second
+trimester (if not performed within 1 year before
+conception) to guide consideration of nonselective bblocker therapy or endoscopic variceal ligation.
+GI endoscopy is considered to be safe; however, when
+performed during pregnancy, endoscopy necessitates additional considerations. Routine screening or surveillance colonoscopy should be deferred until after delivery, but in
+cases with a strong suspicion of a colonic mass or severe
+diarrhea, sigmoidoscopy or colonoscopy may be considered.
+Because esophageal varices can worsen during pregnancy,
+pregnant patients with cirrhosis or noncirrhotic portal hypertension should undergo evaluation for, and treatment of,
+esophageal varices. Upper endoscopy is suggested in the
+second trimester (if not performed within 1 year before
+conception) to guide consideration of nonselective b-blocker
+therapy or endoscopic variceal ligation.
+Endoscopy is contraindicated in cases of placental
+abruption, imminent birth, ruptured membranes, or hypertensive disease of pregnancy.33 The use of sedation or
+anesthesia during endoscopy raises risks of adverse effects
+on the fetus. Placental blood ﬂow is linked directly to
+maternal blood pressure and oxygenation, and oversedation
+causing maternal hypotension and/or hypoxia can lead to
+decreased placental blood ﬂow and fetal hypoxia, leading to
+fetal distress and possible demise. Propofol, fentanyl, and
+midazolam have not been associated with congenital malformations. An ACOG guidance has stated that there is no
+anesthetic agent used currently that has been found to have
+any teratogenic effect when given in standard concentrations at any gestational age.34 When moderate sedation is
+required, the American Society for Gastrointestinal Endoscopy recommends meperidine as the preferred agent, followed by small doses of midazolam as needed, but attempts
+should be made to limit the use of midazolam during the
+ﬁrst trimester. When deep sedation is needed, administration by an experienced anesthesiologist is advised.33 ACOG
+also advises fetal heart rate monitoring, depending on
+gestational age, facility type, and nature of the surgery, as
+monitoring may assist in maternal positioning and cardiopulmonary management.
+Most sedatives are short-acting and safe for use during
+lactation. Once a postpartum patient has recovered from
+sedation and is alert and awake, breastfeeding can be
+resumed without the need to pump and discard.35
+Nonurgent but nonelective endoscopic procedures can
+generally be postponed until after the ﬁrst trimester. Elective procedures should be delayed until after delivery to
+limit maternal and fetal risks. If the condition poses a signiﬁcant risk to the mother, or if emergent endoscopic
+intervention is required, endoscopy can be performed at any
+gestational age. Patients should be kept in the left pelvic tilt
+or left lateral position to facilitate uterine displacement to
+the left side and minimize aortocaval compression, decrease
+the risk of hypotension, and maintain cardiac return.36 A
+
+gravid uterus can lead to compression of the aorta or inferior vena cava and decrease venous return, causing
+placental hypoperfusion and fetal hypoxia (“supine hypotension syndrome”).36 After 20 weeks of gestation, patients
+should not lie supine during an endoscopic procedure.33
+When cautery is used during an endoscopic procedure, the
+grounding pad should be placed on the leg or on the right
+shoulder or arm to prevent the conduction of electrical
+current through the amniotic ﬂuid. Bipolar cautery is preferable to prevent currents from reaching the fetus.
+
+Inﬂammatory Bowel Disease
+Best Practice Advice 7: In patients with inﬂammatory bowel disease, clinical remission before
+conception, during pregnancy, and in the postpartum
+period is essential for improving outcomes of pregnancy. Biologic agents should be continued throughout
+pregnancy and the postpartum period; use of methotrexate, thalidomide, and ozanimod must be stopped at
+least 6 months before conception.
+Inﬂammatory bowel disease (IBD) usually affects young
+persons of reproductive age; approximately 50% of patients
+are diagnosed before aged 30 years. Pregnancy can impact
+the clinical course of IBD, and management of IBD during
+pregnancy requires multidisciplinary care and close
+collaboration among the gastroenterologist, obstetrician,
+and patient. The importance and beneﬁt of achieving
+adequate disease control before and during pregnancy and
+the potential risks of medications should be discussed. The
+AGA IBD Parenthood Project Working Group has recommended consultation with an MFM specialist, if available, for
+every pregnant patient with IBD.6
+Persons with IBD have an increased risk of preterm birth,
+low birth weight, fetal growth retardation, hypertensive disease of pregnancy, and cesarean birth in the setting of active
+disease.37,38 Conception in the setting of disease remission has
+similar outcomes and relapse rates as those for nonpregnant
+persons with IBD. Fertility rates of patients with ulcerative
+colitis without prior intestinal surgery are similar to those in
+persons who do not have IBD.39 In patients who have undergone total colectomy with a J-pouch ileoanal anastomosis,
+fertility can be affected by pelvic adhesions, which cause fallopian tube obstruction. Therefore, persons waiting to complete their families are advised to either avoid pelvic dissection
+or undergo subtotal colectomy with a Hartmann pouch and
+end-ileostomy or ileorectal anastomosis.
+The Pregnancy in Inﬂammatory Bowel Disease and
+Neonatal Outcomes registry reported a higher rate of
+exacerbation during pregnancy in patients with ulcerative
+colitis than in those with Crohn’s disease.40 During pregnancy, symptoms of IBD can overlap with those seen
+routinely in pregnancy, and the evaluation of IBD during
+pregnancy involves a multidisciplinary approach. The evaluation may include endoscopic procedures, such as unsedated ﬂexible sigmoidoscopy (which is preferred to
+colonoscopy), to assess disease activity and extent in patients with ulcerative colitis. These procedures should be
+considered if they are critical to medical decision making.
+
+CLINICAL PRACTICE UPDATES
+
+October 2024
+
+1038 Kothari et al
+
+CLINICAL PRACTICE UPDATES
+
+Screening for active disease in all pregnant women with
+IBD can be performed by checking fecal calprotectin level at
+preconception, during each trimester, and after delivery.41 A
+fecal calprotectin cutoff level of 200 mg/mg has a positive
+predictive value of 67%–74% for disease activity.42 Ultrasonography or magnetic resonance imaging without gadolinium (gadolinium should be avoided during pregnancy)
+may be needed to rule out other causes of the patient’s
+symptoms. Intestinal ultrasound is a new, safe, and noninvasive modality that can be used to assess disease extent
+and activity and evaluate treatment response in pregnant
+patients with IBD. It has been reported to distinguish active
+from quiescent disease with 84% sensitivity and 98%
+speciﬁcity. It is feasible throughout pregnancy; however,
+visualization of the terminal ileum and sigmoid colon decreases in the third trimester.43
+The approach to managing an IBD ﬂare during pregnancy is similar to that for nonpregnant persons. Individualized medication plans should be developed, considering
+the risks and beneﬁts of various treatment options.
+Conception during remission and maintaining remission
+through pregnancy and postpartum period are essential.
+The use of mesalamine is considered safe during pregnancy.
+Sulfasalazine use should be supplemented with 1 mg folic
+acid taken 2 times daily 3 months before conception and
+during pregnancy to avoid fetal neural tube defects. Results
+of a meta-analysis evaluating mesalamine, sulfasalazine,
+balsalazide, and olsalazine during pregnancy showed that
+the medications were not associated with an increased risk
+of congenital malformations, premature births, stillbirths,
+spontaneous abortions, or low birth weight.44
+More recent studies have reported that 6mercaptopurine and azathioprine are safe for use in pregnancy, and no major congenital anomalies have been reported with their use; however, 60% of newborns can have
+anemia.40,45 Methotrexate is contraindicated for use in
+pregnancy and, given its long half-life, its use should be
+discontinued at least 6 months before conception.46
+Biologic agents, such as anti-tumor necrosis factor (antiTNF) agents, during pregnancy can be continued to maintain
+remission. Inﬂiximab and adalimumab cross the placenta after
+20 weeks of gestation and thus do not interfere with organogenesis. Certolizumab does not cross the placenta. If patients
+have received anti-TNF medications (eg, inﬂiximab and adalimumab) after 20 weeks of gestation, then the newborn should
+not receive any live vaccines for the ﬁrst 6 months due to
+immunosuppression from the medications that may have
+crossed the placenta. Anti-TNF medications do not increase the
+risk of pregnancy complications and have been found to lead to
+fewer neonatal complications, thereby supporting the need for
+maintaining remission of disease during pregnancy. Data on
+the safety of vedolizumab are limited. Various studies and the
+Pregnancy in Inﬂammatory Bowel Disease and Neonatal Outcomes registry have not reported an increased risk of
+congenital anomalies, delayed infant growth, developmental
+problems, or miscarriage with anti-TNF medication use.40,46,47
+The dose of a biologic agent, especially inﬂiximab, does not
+change with pregnancy and is continued based on prepregnancy weight to maintain the patient in remission. Results of a
+
+Gastroenterology Vol. 167, Iss. 5
+
+recent meta-analysis showed that the frequency of adverse
+outcomes among pregnant patients with IBD on biologics was
+comparable with that in the general population.48 Metronidazole can be given in cases of pouchitis, perianal Crohn’s
+disease, or intra-abdominal abscesses resulting from ﬁstulizing Crohn’s disease. Amoxicillin-clavulanic acid is safe and can
+also be administered during pregnancy. Glucocorticoids are
+given frequently for IBD ﬂares and, in contrast to prior reports,
+newer studies and the Pregnancy in Inﬂammatory Bowel
+Disease and Neonatal Outcomes registry have reported that
+glucocorticoids do not pose a teratogenic risk of orofacial cleft
+in the fetus.40,49 Nevertheless, glucocorticoids have been reported to increase the risk of preterm birth, small for gestational age, low birth weight, intrauterine growth restriction,
+and neonatal intensive care unit admission, and should be
+given with caution in the ﬁrst trimester.50 Thalidomide and
+ozanimod should be avoided during pregnancy due to potential adverse effects.
+Pregnant persons with IBD may require additional
+nutritional support, particularly if intestinal malabsorption
+or nutrient deﬁciencies are present. Consultation with a
+registered dietitian specializing in IBD can help ensure
+adequate nutrient intake. Most IBD medications are safe for
+use during breastfeeding.
+The mode of delivery of the fetus should be planned.
+Vaginal birth should be avoided in patients with active perianal Crohn’s disease, perianal abscess, or active rectal disease.
+Patients with prior complex ﬁstulizing disease and a J-pouch
+should also be considered for cesarean birth to minimize the
+risk of instrumentation of the perineal region, avoid injury to
+the anal sphincter, and preserve continence.42,51
+
+Endoscopic Retrograde
+Cholangiopancreatography
+Best Practice Advice 8: Endoscopic retrograde
+cholangiopancreatography during pregnancy may be performed for urgent indications, such as choledocholithiasis,
+cholangitis, and some cases of gallstone pancreatitis.
+Ideally, endoscopic retrograde cholangiopancreatography
+should be performed during the second trimester, but if
+deferring the procedure may be detrimental to the health
+of the patient and fetus, a multidisciplinary team should
+be convened to decide on the advisability of endoscopic
+retrograde cholangiopancreatography.
+Gallstone disease (GD) affects a substantial proportion of
+women during pregnancy. Ultrasonography is the imaging
+modality of choice for gallstones. Although computed tomography can be performed when medically indicated,
+computed tomography does involve radiation and is not
+typically needed for gallstone evaluation. In cases of suspected choledocholithiasis, magnetic resonance cholangiopancreatography, which does not require contrast, can
+be performed. Endoscopic ultrasound can also be done in
+cases of suspected choledocholithiasis if the patient cannot
+undergo magnetic resonance cholangiopancreatography to
+conﬁrm the absence of a bile duct stone and can obviate the
+need for ERCP. Optimal management of bile duct obstruction by gallstones requires a multidisciplinary team that
+
+AGA Clinical Practice Update on Pregnancy-Related GI and Liver Disease 1039
+
+includes an advanced endoscopist experienced in ERCP,
+MFM physician, neonatologist, obstetrician, and anesthesiologist. Initial management may include IV hydration,
+symptom control, antibiotics, and nutritional support.
+When indicated, ERCP can be performed during pregnancy to manage choledocholithiasis, cholangitis, and acute
+biliary pancreatitis with a retained bile duct stone. Minimizing fetal radiation and pre- and postprocedure fetal
+monitoring is required. A Nationwide Readmission Database
+reported that pregnant patients with acute biliary pancreatitis were less likely to undergo laparoscopic cholecystectomy or ERCP compared with nonpregnant age-matched
+cohorts, and ERCP, when performed, reduced the odds of
+early readmission by 60%.52 In a study of 68 ERCPs in
+pregnant women, technical outcomes were uniformly
+favorable; however, patients undergoing ERCP in the ﬁrst
+trimester had relatively poor fetal outcomes, including a low
+rate of term pregnancies (73.3%), high rate of low-weight
+newborns (21.4%), and high risk of preterm delivery
+(20%).53 Therefore, the American Society for Gastrointestinal Endoscopy guidelines recommend deferral of endoscopy to the second trimester, whenever possible.33
+Pregnancy has been reported to be an independent risk
+factor for post-ERCP pancreatitis. A 2016 national cohort
+study comparing pregnant women with a large control
+group of nonpregnant women undergoing ERCP found that,
+although there was no signiﬁcant difference in the frequencies of ERCP-related complications (perforation, infection, or hemorrhage), the rate of post-ERCP pancreatitis was
+greater in pregnant women (12% vs 5%; P < .001).54 Also
+the risk of post-ERCP pancreatitis was higher in nonteaching
+vs teaching hospitals (14.6% vs 9.6%; P < .001), therefore,
+if possible, these patients should be transferred to a tertiary
+care setting for treatment management by an experienced
+endoscopist and for multidisciplinary care.
+Another major concern with ERCP in a pregnant person is
+minimizing fetal radiation exposure. Total fetal radiation
+exposure can be inﬂuenced by gestational age, body size, and
+fetal exposure and results mainly from radiation scatter within
+the pregnant patient’s body. Fetal and gonadal shielding is no
+longer recommended by the American Association of Physicists in Medicine because the beneﬁts of shielding are minimal
+and it may compromise the study if the shield enters the examination ﬁeld.55 The fetal teratogenic threshold dose is
+considered to be 50 mGy, and detrimental outcomes are usually seen with a dose >100 mGy.33 Various measures should be
+taken to minimize radiation exposure to mother and fetus
+(Table 2).56 During ERCP, the patient can be placed in the supine or prone position in the ﬁrst trimester; however, in the
+second and third trimesters, the patient should be kept in the
+left pelvic tilt or left lateral position to avoid compression of the
+aorta or inferior vena cava. Thromboprophylaxis and antibiotic
+prophylaxis should be administered, when indicated.
+
+Gallstone Disease
+Best Practice Advice 9: Cholecystectomy is safe
+during pregnancy; a laparoscopic approach is the
+standard of care regardless of trimester, but ideally in
+the second trimester.
+
+Table 2.Measures to Minimize Fetal Radiation During
+Endoscopic Retrograde Cholangiopancreatography
+Measure
+1. A multidisciplinary team with obstetrician, perinatologist or
+MFM, radiation safety ofﬁcer, obstetrical anesthesiologist, and
+endoscopist with experience performing ERCP and use of
+radiation in pregnant persons
+2. Use of a modern ﬂuoroscopy unit with collimation ability and
+pulsed ﬂuoroscopy
+3. Use of last image hold feature and short taps of ﬂuoroscopy
+4. Avoidance of spot ﬁlms and use of magniﬁcation
+5. Use of image intensiﬁer as close to the patient as possible with
+the patient kept away from the radiation source
+6. Use of low radiation dose protocols and low frame rates
+7. Use of the bile aspiration technique, cholangioscopy, or
+endoscopic ultrasound to reduce radiation during cannulation
+and clearance during ERCP
+8. If large stones are present in the in bile duct, consideration of
+placing a stent and planning lithotripsy and stone clearance
+after delivery
+9. Avoidance of pelvic and gonadal shielding because radiation
+from newer ﬂuoroscopy machines may penetrate lead and
+thereby inadvertently increase radiation exposure
+
+GD is the second leading cause (after acute appendicitis)
+of nonobstetric acute abdominal pain during pregnancy and
+can cause signiﬁcant morbidity and mortality.57–59 The
+timing of surgical intervention should be evaluated carefully. Elective surgery is usually avoided in the ﬁrst and
+third trimesters and is ideally performed in the second
+trimester to reduce the risk of spontaneous abortion and
+preterm labor, respectively. The traditional approach to
+management of GD in pregnancy has been conservative,
+with supportive care consisting of IV hydration; symptom
+control; and avoidance of dietary triggers, such as high-fat
+meals; however, studies have reported that recurrent
+biliary symptoms develop in 60% of pregnant patients with
+GD treated conservatively, leading to a high number of
+emergency department visits and hospitalizations.60 Patients treated conservatively are more likely to undergo
+cesarean birth. To minimize the risk of complications,
+laparoscopic cholecystectomy is considered superior to
+conservative management in the ﬁrst or second trimester
+for patients with symptomatic cholelithiasis.61 Sameadmission cholecystectomy in pregnant patients with
+acute biliary pancreatitis has been found to reduce the odds
+of early readmission by 85%.52 For biliary pain presenting
+late in the third trimester, postponing surgical intervention
+until delivery may be reasonable, if postponement does not
+pose a risk to maternal or fetal health.
+In patients with acute cholecystitis, initial management
+includes IV hydration, symptom control with analgesia and
+antiemetics, and antibiotics. The standard approach is
+laparoscopic cholecystectomy. In a study of 1245 pregnant
+women with biliary pancreatitis, a signiﬁcantly higher
+30-day readmission rate was seen in patients who did not
+undergo index cholecystectomy (33.7% vs 5.3%; P < .01);
+
+CLINICAL PRACTICE UPDATES
+
+October 2024
+
+1040 Kothari et al
+
+there was no signiﬁcant difference in the risk of premature
+delivery and abortion in the cholecystectomy group, and
+patients who underwent cholecystectomy during the index
+hospitalization had a signiﬁcantly lower mean number of
+cumulative hospitalizations.62 If a patient is hemodynamically unstable, not responding to medical management, or at
+high risk for surgery, percutaneous cholecystostomy tube
+placement or percutaneous gallbladder aspiration can be
+used as “bridging” therapy in the ﬁrst (to the second)
+trimester or in the third trimester to the postpartum period,
+when cholecystectomy can be performed.63,64 Despite the
+longstanding belief that laparoscopic cholecystectomy is
+safest during the second trimester with regard to fetal loss
+and risk of anesthesia, increasing evidence has supported
+the safety of laparoscopic cholecystectomy in the ﬁrst and
+third trimesters, and the Society of American Gastrointestinal and Endoscopic Surgeons guidelines stated that laparoscopy can be performed safely during any trimester of
+pregnancy.65 The Society of American Gastrointestinal and
+Endoscopic Surgeons guidelines recommended that after
+the ﬁrst trimester of pregnancy, patients should be placed in
+the left lateral or partial left lateral decubitus position for
+laparoscopy to minimize compression of the inferior vena
+cava.
+
+Liver Diseases in Pregnancy
+
+CLINICAL PRACTICE UPDATES
+
+Liver diseases in pregnancy represent not only preexisting liver conditions, but also those acquired and those
+that are unique to pregnancy. In this Clinical Practice Update, we will brieﬂy review liver disease in pregnancy. For
+detailed information on the management of these diseases,
+various society guidelines are available and should be
+reviewed.21,66
+
+Intrahepatic Cholestasis of Pregnancy
+Best Practice Advice 10: The diagnosis of intrahepatic cholestasis of pregnancy is based on a serum
+bile acid level >10 mmol/L in the setting of pruritus,
+typically during the second or third trimester. Treatment should be offered with oral ursodeoxycholic acid
+in a total daily dose of 10–15 mg/kg.
+Mild elevations in alkaline phosphatase levels are
+common in pregnancy during the second and third
+trimester.66–68 Intrahepatic cholestasis of pregnancy is
+diagnosed on the basis of clinical presentation of pruritus in
+the second and third trimester with a total serum bile acid
+level >10 mmol/L. Most cases present in the third trimester
+with mild to moderately elevated serum aspartate aminotransferase and alanine aminotransferase levels (up to
+10–20 times the upper limit of normal), and a serum total
+bilirubin level <6 mg/dL. If serum bile acid levels are
+normal, testing should be repeated after other causes of
+pruritus are excluded, including biliary obstruction, viral
+hepatitis, and chronic liver disease. Serum bile acid levels
+correlate with the risk of intrauterine fetal demise, with the
+highest risk in patients with levels 100 mmol/L.69 Treatment should begin with ursodeoxycholic acid in a daily
+divided dosage to total of 10–15 mg/kg/d. Ursodeoxycholic
+
+Gastroenterology Vol. 167, Iss. 5
+
+acid has been reported to improve pruritus, serum bile acid
+levels, and serum alanine aminotransferase levels, and in a
+recent meta-analysis were found to decrease adverse outcomes, including preterm birth and stillbirth.70,71 Additional
+treatment of pruritus can be attempted with cholestyramine
+and rifampicin. Delivery is advised to be based on serum
+total bile acid levels. When 100 mmol/L, the Society for
+Maternal-Fetal Medicine recommends delivery at 36 weeks
+or at diagnosis if after 36 weeks. If levels are <100 mmol/L,
+delivery is recommended at 36 or 39 weeks of gestation if
+diagnosed later. As per the European Association for the
+Study of the Liver guidelines, consider early delivery in
+patients with bile acids >100 mmol/L, as the risk of stillbirth increases in this group after 35 weeks.21 Management
+should be individualized, and delivery at term should be
+considered for those with total bile acid levels <40 mmol/
+L.72,73 Pruritus typically resolves after delivery, but if it
+persists after 6 weeks, further evaluation for underlying
+chronic liver disease should be pursued.
+
+Other Liver Diseases Unique to Pregnancy
+Best Practice Advice 11: Management of liver diseases unique to pregnancy, such as pre-eclampsia; hemolysis, elevated liver enzymes, and low platelets
+syndrome; and acute fatty liver of pregnancy requires
+planning for delivery and timely evaluation for possible
+liver transplantation. Daily aspirin prophylaxis for patients at risk for pre-eclampsia or hemolysis, elevated
+liver enzymes, and low platelets syndrome is advised
+beginning at week 12 of gestation.
+For liver diseases unique to pregnancy, speciﬁcally preeclampsia; hemolysis, elevated liver enzymes, and low
+platelets syndrome; acute fatty liver of pregnancy (AFLP);
+and intrahepatic cholestasis of pregnancy, management
+converges on appropriate and expeditious childbirth. Distinguishing among these conditions can be difﬁcult, and the
+clinician can focus on supportive care and management of
+concomitant comorbidities, such as hypertension; coagulopathy; seizures; and other symptoms, while preparing the
+patient for childbirth. Liver biopsy to make a speciﬁc diagnosis is rarely needed and should not be obtained unless it
+will affect management. Liver transplantation evaluation
+should be considered in patients who progress to acute liver
+failure, especially those with suspected AFLP who have
+already given birth but do not improve clinically.66–68,74
+Systematic studies and meta-analyses have reported the
+beneﬁt of low-dose aspirin on lowering the risks of fetal
+growth restriction and fetal demise in patients with preeclampsia.75,76 Aspirin in a dosage of 81 mg/d beginning at
+weeks 12–16 of gestation and continuing until delivery
+should be considered in patients with risk factors for preeclampsia (ie, prior pre-eclampsia, multiple gestation, diabetes mellitus, hypertension, chronic kidney disease, or
+autoimmune disease).77 The diagnosis of AFLP is suggested
+by the Swansea criteria78,79; however, the Swansea criteria
+have limitations in differentiating AFLP from other causes of
+liver diseases unique to pregnancy and acute liver failure of
+any cause. Additional detailed information is available in
+
+October 2024
+
+AGA Clinical Practice Update on Pregnancy-Related GI and Liver Disease 1041
+
+recent European Association for the Study of the Liver
+guidelines.21 Table 3 compares various features of intrahepatic cholestasis of pregnancy; hemolysis, elevated liver
+enzymes, and low platelets syndrome; and AFLP.80,81
+
+Chronic Viral Hepatitis
+Best Practice Advice 12: In patients with chronic
+hepatitis B virus infection, serum hepatitis B virus DNA
+and liver biochemical test levels should be ordered.
+Patients not on treatment but with a serum hepatitis B
+virus DNA level >200,000 IU/mL during the third
+trimester of pregnancy should be considered for treatment with tenofovir disoproxil fumarate.
+Pregnant persons with chronic hepatitis B virus
+(HBV) infection should be assessed for antiviral treatment independent of pregnancy per standard practice
+guidelines.82 The risk of mother-to-child transmission of
+HBV can be reduced by administration of hepatitis B
+immunoglobulin and initiation of HBV vaccination to the
+newborn at birth. Further reduction in the risk of
+mother-to-child transmission can be achieved by identifying pregnant persons with a serum HBV DNA level
+
+>200,000 IU/mL and initiating treatment with tenofovir
+beginning in the third trimester. Treatment can be
+continued until childbirth or up to 12 weeks postpartum.
+Tenofovir remains the preferred treatment choice based
+on its efﬁcacy and safety during pregnancy, although
+there are growing data to support the use of tenofovoir
+alafenamide as an alternative. Breastfeeding is not contraindicated in persons with HBV infection, whether or
+not they are on antiviral therapy.83 Patients with chronic
+HBV infection are at risk of HBV ﬂares postpartum and
+should continue ongoing monitoring after pregnancy.84,85
+Pregnant persons are advised by the Centers for Disease
+Control and Prevention to be screened for hepatitis C
+virus infection at each pregnancy.86 The full results of
+ongoing trials for treatment of hepatitis C virus during
+pregnancy are awaited to guide management of hepatitis
+C virus in this setting. The Infectious Diseases Society of
+America and the American Association for the Study of
+Liver Diseases have recommended that direct-acting
+antiviral treatment may be considered during pregnancy on a case-by-case basis after a discussion of potential risks and beneﬁts.87
+
+Table 3.Features of Intrahepatic Cholestasis of Pregnancy; Hemolysis, Elevated Liver Enzymes, and Low Platelets Syndrome;
+and Acute Fatty Liver of Pregnancy
+ICP
+
+HELLP
+
+AFLP
+
+Frequency in pregnancies, %
+
+0.3–0.5
+
+0.2–0.6
+
+0.01
+
+Onset
+
+Second and third trimester
+
+Third trimester/postpartum
+
+Third trimester/postpartum
+
+Family history
+
+Often
+
+No
+
+Occasionally
+
+Pregnancy characteristics
+
+Multiparity, multifetal
+pregnancy
+
+Multiparity, aged >35 y
+
+Multifetal pregnancy, male fetus
+
+Symptoms/clinical features
+
+Pruritus, jaundice
+
+Abdominal pain, vomiting,
+proteinuria, headache,
+peripheral edema
+
+Abdominal pain, vomiting,
+polydipsia/polyuria/hepatic
+encephalopathy, liver failure,
+DIC
+
+Pre-eclampsia
+
+No
+
+Yes
+
+Seen in approximately 50%
+
+Imaging
+
+Normal
+
+Infarcts, hematoma, rupture,
+no ascites
+
+Fatty inﬁltration, sometimes
+ascites
+
+Laboratory evaluation
+
+Bilirubin <5 mg/dL, elevated
+ALP and GGT, increased
+bile acids
+
+Bilirubin <5 mg/dL, hemolysis,
+low platelets (<100  109/
+L), elevated uric acid,
+±proteinuria, ALT <500 U/
+L, elevated LDH
+
+Bilirubin <5 mg/dL,
+hypoglycemia, elevated
+creatinine, ±proteinuria and
+thrombocytopenia, elevated
+ammonia, ALT<500 U/L,
+prolonged PT, DIC >75%
+
+Morbidity/mortality
+
+Maternal: predisposed to
+recurrence in subsequent
+pregnancy (45%–70%)
+Fetal stillbirth, fetal mortality
+0.4%–1.%
+
+Maternal: seizures, acute renal
+failure, hepatic rupture,
+mortality 1%–25%
+Fetal mortality 11%
+
+Maternal: acute renal failure,
+mortality 7%–18%
+Fetal increased mortality 9%–
+23%
+
+ALP, alkaline phosphatase; ALT, alanine aminotransferase; DIC, disseminated intravascular coagulation; GGT, g-glutamyl
+transpeptidase; HELLP, hemolysis, elevated liver enzymes, and low platelets syndrome; ICP, intrahepatic cholestasis of
+pregnancy; LDH, lactate dehydrogenase; PT, prothrombin time.
+
+CLINICAL PRACTICE UPDATES
+
+Feature
+
+1042 Kothari et al
+
+Immunosuppressive Therapy
+Best Practice Advice 13: In patients on immunosuppressive therapy for chronic liver diseases or after
+liver transplantation, therapy should be continued at
+the lowest effective dose during pregnancy. Mycophenolate mofetil should not be administered during
+pregnancy.
+Persons on immunosuppressive therapy for chronic liver
+disease or prior liver transplantation should undergo
+counseling for pregnancy planning. Pregnancy is not uncommon in this population, but long-term outcomes data
+are limited.88,89 Persons with chronic liver disease, such as
+autoimmune hepatitis, who require immunosuppressive
+therapy and who become pregnant face the risks of an
+autoimmune hepatitis ﬂare (up to 30%); gestational diabetes mellitus; and adverse fetal outcomes, including higher
+rates of premature birth; small for gestational age; and low
+birth weight. Treatment with immunosuppressive therapy
+should be continued at the lowest effective dose to reduce the
+risk of adverse maternal and fetal outcomes.66–68,90 Similarly,
+immunosuppressive therapy should be continued at the
+lowest effective dose during pregnancy in persons who have
+previously undergone liver transplantation. In the postpartum period, patients should be monitored closely for
+disease ﬂare or graft rejection. Mycophenolate mofetil is
+contraindicated in pregnancy because of a risk of birth defects and its use should be discontinued at least 6–12 weeks
+before conception planning begins.
+
+Conclusions
+CLINICAL PRACTICE UPDATES
+
+The evaluation and treatment of various GI disorders in
+pregnancy can be challenging and require a multidisciplinary team to manage these patients during pregnancy
+and the postpartum period. We have summarized approaches to various GI conditions that occur during pregnancy and that need a collaborative strategy to guide the
+practicing physician. These conditions include disease states
+unique to pregnancy and common GI conditions that may be
+present during pregnancy. A paramount goal is to keep both
+the patient and the fetus safe.
+
+References
+1. Johnson K, Posner SF, Biermann J, et al. Recommendations to improve preconception health and health
+care—United States. A report of the CDC/ATSDR Preconception Care Work Group and the Select Panel on
+Preconception Care. MMWR Recomm Rep 2006;55:1–23.
+2. American College of Obstetricians and Gynecologists’
+Committee on Obstetric Practice. Committee Opinion No.
+656: Guidelines for Diagnostic Imaging During Pregnancy
+and Lactation. Obstet Gynecol 2016;127:e75–e80.
+3. California Department of Public Health. The California
+Pregnancy Mortality Surveillance System (CA-PMSS).
+Available at: https://www.cdph.ca.gov/Programs/CFH/
+DMCAH/Pages/CA-PMSS.aspx. Accessed August 1,
+2023.
+
+Gastroenterology Vol. 167, Iss. 5
+4. Obstetric Care Consensus No. 2: Levels of maternal
+care. Obstet Gynecol 2015;125:502–515.
+5. Tan Z, Zhang P, Zhou J, et al. Outcomes of pregnancies
+complicated by cirrhosis: a retrospective cohort study.
+BMC Pregnancy Childbirth 2024;24:179.
+6. Mahadevan U, Robinson C, Bernasko N, et al. Inﬂammatory bowel disease in pregnancy clinical care
+pathway: a report from the American Gastroenterological
+Association IBD Parenthood Project Working Group.
+Gastroenterology 2019;156:1508–1524.
+7. Body C, Christie JA. Gastrointestinal diseases in pregnancy: nausea, vomiting, hyperemesis gravidarum,
+gastroesophageal reﬂux disease, constipation, and
+diarrhea. Gastroenterol Clin North Am 2016;45:267–283.
+8. Ali RA, Egan LJ. Gastroesophageal reﬂux disease in
+pregnancy. Best Pract Res Clin Gastroenterol 2007;
+21:793–806.
+9. Matthews A, Haas DM, O’Mathuna DP, et al. Interventions for nausea and vomiting in early pregnancy.
+Cochrane Database Syst Rev 2015;2015:CD007575.
+10. Lacroix R, Eason E, Melzack R. Nausea and vomiting
+during pregnancy: a prospective study of its frequency,
+intensity, and patterns of change. Am J Obstet Gynecol
+2000;182:931–937.
+11. Fill Malfertheiner S, Seelbach-Gobel B, Costa SD, et al.
+Impact of gastroesophageal reﬂux disease symptoms on
+the quality of life in pregnant women: a prospective
+study. Eur J Gastroenterol Hepatol 2017;29:892–896.
+12. Koren G, Boskovic R, Hard M, et al. Motherisk–PUQE
+(pregnancy-unique quantiﬁcation of emesis and nausea)
+scoring system for nausea and vomiting of pregnancy.
+Am J Obstet Gynecol 2002;186(Suppl 2):S228–S231.
+13. Bischoff SC, Renzer C. Nausea and nutrition. Auton
+Neurosci 2006;129:22–27.
+14. Committee on Practice Bulletins-Obstetrics. ACOG
+Practice Bulletin No. 189: Nausea and Vomiting of
+Pregnancy. Obstet Gynecol 2018;131:e15–e30.
+15. Koren G, Clark S, Hankins GD, et al. Maternal safety of
+the delayed-release doxylamine and pyridoxine combination for nausea and vomiting of pregnancy; a randomized placebo controlled trial. BMC Pregnancy
+Childbirth 2015;15:59.
+16. Li CM, Zhernakova A, Engstrand L, et al. Systematic review
+with meta-analysis: the risks of proton pump inhibitors during pregnancy. Aliment Pharmacol Ther 2020;51:410–420.
+17. Jansen LAW, Koot MH, Van’t Hooft J, et al. The windsor
+deﬁnition for hyperemesis gravidarum: a multistakeholder international consensus deﬁnition. Eur J
+Obstet Gynecol Reprod Biol 2021;266:15–22.
+18. Fell DB, Dodds L, Joseph KS, et al. Risk factors for
+hyperemesis gravidarum requiring hospital admission
+during pregnancy. Obstet Gynecol 2006;107:277–284.
+19. Veenendaal MV, van Abeelen AF, Painter RC, et al.
+Consequences of hyperemesis gravidarum for offspring:
+a systematic review and meta-analysis. BJOG 2011;
+118:1302–1313.
+20. Fejzo M, Rocha N, Cimino I, et al. GDF15 linked to
+maternal risk of nausea and vomiting during pregnancy.
+Nature 2024;625:760–767.
+
+AGA Clinical Practice Update on Pregnancy-Related GI and Liver Disease 1043
+
+21. European Association for the Study of the Liver. Electronic address eee, European Association for the Study
+of the Liver. EASL Clinical Practice Guidelines on the
+management of liver diseases in pregnancy. J Hepatol
+2023;79:768–828.
+22. Tan PC, Khine PP, Vallikkannu N, et al. Promethazine
+compared with metoclopramide for hyperemesis gravidarum: a randomized controlled trial. Obstet Gynecol
+2010;115:975–981.
+23. Matok I, Gorodischer R, Koren G, et al. The safety of
+metoclopramide use in the ﬁrst trimester of pregnancy.
+N Engl J Med 2009;360:2528–2535.
+24. Pasternak B, Svanstrom H, Hviid A. Ondansetron in
+pregnancy and risk of adverse fetal outcomes. N Engl J
+Med 2013;368:814–823.
+25. Boelig RC, Barton SJ, Saccone G, et al. Interventions for
+treating hyperemesis gravidarum: a Cochrane systematic
+review and meta-analysis. J Matern Fetal Neonatal Med
+2018;31:2492–2505.
+26. Bradley CS, Kennedy CM, Turcea AM, et al. Constipation
+in pregnancy: prevalence, symptoms, and risk factors.
+Obstet Gynecol 2007;110:1351–1357.
+27. Cullen G, O’Donoghue D. Constipation and pregnancy. Best Pract Res Clin Gastroenterol 2007;
+21:807–818.
+28. Kuronen M, Hantunen S, Alanne L, et al. Pregnancy,
+puerperium and perinatal constipation - an observational
+hybrid survey on pregnant and postpartum women and
+their age-matched non-pregnant controls. BJOG 2021;
+128:1057–1064.
+29. Rao SSC, Qureshi WA, Yan Y, et al. Constipation,
+hemorrhoids, and anorectal disorders in pregnancy. Am
+J Gastroenterol 2022;117:16–25.
+30. Bailey RL, Pac SG, Fulgoni VL 3rd, et al. Estimation of
+total usual dietary intakes of pregnant women in the
+United States. JAMA Netw Open 2019;2:e195967.
+31. American Gastroenterological Association, Bharucha AE,
+Dorn SD, et al. American Gastroenterological Association medical position statement on constipation.
+Gastroenterology 2013;144:211–217.
+32. Ebrahimi N, Vohra S, Gedeon C, et al. The fetal safety of
+hydrocortisone-pramoxine (Proctofoam-HC) for the
+treatment of hemorrhoids in late pregnancy. J Obstet
+Gynaecol Can 2011;33:153–158.
+33. ASGE Standard of Practice Committee, Shergill AK, BenMenachem T, et al. Guidelines for endoscopy in pregnant
+and lactating women. Gastrointest Endosc 2012;76:18–24.
+34. ACOG Committee Opinion No. 775: Nonobstetric Surgery During Pregnancy. Obstet Gynecol 2019;
+133:e285–e286.
+35. Hepner DL, Siddiqui UD. Endoscopy and sedation. Am J
+Gastroenterol 2022;117:33–38.
+36. Kinsella SM, Lohmann G. Supine hypotensive syndrome.
+Obstet Gynecol 1994;83:774–788.
+37. Cornish J, Tan E, Teare J, et al. A meta-analysis on the
+inﬂuence of inﬂammatory bowel disease on pregnancy.
+Gut 2007;56:830–837.
+38. Innocenti T, Roselli J, Taylor A, et al. Pregnancy outcomes in inﬂammatory bowel disease: data from a large
+cohort survey. J Dig Dis 2022;23:473–481.
+
+39. Tavernier N, Fumery M, Peyrin-Biroulet L, et al. Systematic review: fertility in non-surgically treated inﬂammatory bowel disease. Aliment Pharmacol Ther 2013;
+38:847–853.
+40. Mahadevan U, Martin CF, Sandler RS, et al. 865 PIANO:
+a 1000 patient prospective registry of pregnancy outcomes in women with IBD exposed to immunomodulators and biologic therapy. Gastroenterology 2012;142:S149.
+41. Shmidt E, Dubinsky MC. Inﬂammatory bowel disease
+and pregnancy. Am J Gastroenterol 2022;117:60–68.
+42. Kammerlander H, Nielsen J, Kjeldsen J, et al. Fecal calprotectin during pregnancy in women with moderatesevere inﬂammatory bowel disease. Inﬂamm Bowel Dis
+2018;24:839–848.
+43. De Voogd F, Joshi H, Van Wassenaer E, et al. Intestinal
+ultrasound to evaluate treatment response during pregnancy in patients with inﬂammatory bowel disease.
+Inﬂamm Bowel Dis 2022;28:1045–1052.
+44. Rahimi R, Nikfar S, Rezaie A, et al. Pregnancy outcome in
+women with inﬂammatory bowel disease following
+exposure to 5-aminosalicylic acid drugs: a meta-analysis. Reprod Toxicol 2008;25:271–275.
+45. Jharap B, de Boer NK, Stokkers P, et al. Intrauterine
+exposure and pharmacology of conventional thiopurine
+therapy in pregnant patients with inﬂammatory bowel
+disease. Gut 2014;63:451–457.
+46. Dubinsky M, Abraham B, Mahadevan U. Management of
+the pregnant IBD patient. Inﬂamm Bowel Dis 2008;
+14:1736–1750.
+47. Lichtenstein GR, Feagan BG, Cohen RD, et al. Serious
+infection and mortality in patients with Crohn’s disease:
+more than 5 years of follow-up in the TREAT registry. Am
+J Gastroenterol 2012;107:1409–1422.
+48. Nielsen OH, Gubatan JM, Juhl CB, et al. Biologics for
+inﬂammatory bowel disease and their safety in pregnancy: a systematic review and meta-analysis. Clin
+Gastroenterol Hepatol 2022;20:74–87.e3.
+49. Hviid A, Molgaard-Nielsen D. Corticosteroid use during
+pregnancy and risk of orofacial clefts. CMAJ 2011;
+183:796–804.
+50. Gur C, Diav-Citrin O, Shechtman S, et al. Pregnancy
+outcome after ﬁrst trimester exposure to corticosteroids:
+a prospective controlled study. Reprod Toxicol 2004;
+18:93–101.
+51. McConnell RA, Mahadevan U. Pregnancy and the patient
+with inﬂammatory bowel disease: fertility, treatment,
+delivery, and complications. Gastroenterol Clin North Am
+2016;45:285–301.
+52. Luthra AK, Patel KP, Li F, et al. Endoscopic intervention
+and cholecystectomy in pregnant women with acute
+biliary pancreatitis decrease early readmissions. Gastrointest Endosc 2019;89:1169–1177.e10.
+53. Tang SJ, Mayo MJ, Rodriguez-Frias E, et al. Safety and
+utility of ERCP during pregnancy. Gastrointest Endosc
+2009;69:453–461.
+54. Inamdar S, Berzin TM, Sejpal DV, et al. Pregnancy is a
+risk factor for pancreatitis after endoscopic retrograde
+cholangiopancreatography in a national cohort study.
+Clin Gastroenterol Hepatol 2016;14:107–114.
+
+CLINICAL PRACTICE UPDATES
+
+October 2024
+
+1044 Kothari et al
+
+CLINICAL PRACTICE UPDATES
+
+55. American Association of Physicists in Medicine. PS 8-A:
+AAPM position statement on the use of patient gonadal
+and fetal shielding. Available at: https://www.aapm.org/org/
+policies/details.asp?id¼2552. Accessed June 28, 2024.
+56. Sethi A, Banerjee S, Chahal P. Advanced endoscopic
+procedures in pregnancy. Am J Gastroenterol 2022;
+117:39–43.
+57. Hedstrom J, Nilsson J, Andersson R, et al. Changing
+management of gallstone-related disease in pregnancy a retrospective cohort analysis. Scand J Gastroenterol
+2017;52:1016–1021.
+58. Ilhan M, Ilhan G, Gok AFK, et al. The course and outcomes of complicated gallstone disease in pregnancy:
+experience of a tertiary center. Turk J Obstet Gynecol
+2016;13:178–182.
+59. de Bari O, Wang TY, Liu M, et al. Cholesterol cholelithiasis in pregnant women: pathogenesis, prevention and
+treatment. Ann Hepatol 2014;13:728–745.
+60. Othman MO, Stone E, Hashimi M, et al. Conservative
+management of cholelithiasis and its complications in
+pregnancy is associated with recurrent symptoms and
+more emergency department visits. Gastrointest Endosc
+2012;76:564–569.
+61. Jelin EB, Smink DS, Vernon AH, et al. Management of
+biliary tract disease during pregnancy: a decision analysis. Surg Endosc 2008;22:54–60.
+62. Juo YY, Khrucharoen U, Sanaiha Y, et al. Cumulative
+ﬁnancial burden of readmissions for biliary pancreatitis
+in pregnant women. Obstet Gynecol 2018;
+132:415–422.
+63. Caliskan K. The use of percutaneous cholecystostomy in
+the treatment of acute cholecystitis during pregnancy.
+Clin Exp Obstet Gynecol 2017;44:11–13.
+64. Lightner AL, Mathis KL. Surgery in pregnancy. Am J
+Gastroenterol 2022;117:53–59.
+65. Pearl JP, Price RR, Tonkin AE, et al. SAGES guidelines
+for the use of laparoscopy during pregnancy. Surg
+Endosc 2017;31:3767–3782.
+66. Sarkar M, Brady CW, Fleckenstein J, et al. Reproductive
+health and liver disease: practice guidance by the
+American Association for the Study of Liver Diseases.
+Hepatology 2021;73:318–365.
+67. Terrault NA, Williamson C. Pregnancy-associated liver
+diseases. Gastroenterology 2022;163:97–117.e1.
+68. Brady CW. Liver disease in pregnancy: what’s new.
+Hepatol Commun 2020;4:145–156.
+69. Ovadia C, Seed PT, Sklavounos A, et al. Association of
+adverse perinatal outcomes of intrahepatic cholestasis of
+pregnancy with biochemical markers: results of aggregate and individual patient data meta-analyses. Lancet
+2019;393:899–909.
+70. Chappell LC, Bell JL, Smith A, et al. Ursodeoxycholic
+acid versus placebo in women with intrahepatic cholestasis of pregnancy (PITCHES): a randomised controlled
+trial. Lancet 2019;394:849–860.
+71. Ovadia C, Sajous J, Seed PT, et al. Ursodeoxycholic acid
+in intrahepatic cholestasis of pregnancy: a systematic
+
+Gastroenterology Vol. 167, Iss. 5
+review and individual participant data meta-analysis.
+Lancet Gastroenterol Hepatol 2021;6:547–558.
+72. ACOG Committee Opinion No. 764: Medically indicated
+late-preterm and early-term deliveries. Obstet Gynecol
+2019;133:e151–e155.
+73. Society for Maternal-Fetal Medicine (SMFM), Lee RH,
+Greenberg M, et al. Society for Maternal-Fetal Medicine
+Consult Series #53: Intrahepatic cholestasis of pregnancy: replaces Consult #13, April 2011. Am J Obstet
+Gynecol 2021;224:B2–B9.
+74. Kushner T, Tholey D, Dodge J, et al. Outcomes of liver
+transplantation for acute fatty liver disease of pregnancy.
+Am J Transplant 2019;19:2101–2107.
+75. Roberge S, Nicolaides K, Demers S, et al. The role of
+aspirin dose on the prevention of preeclampsia and fetal
+growth restriction: systematic review and meta-analysis.
+Am J Obstet Gynecol 2017;216:110–120.e6.
+76. Meher S, Duley L, Hunter K, et al. Antiplatelet therapy
+before or after 16 weeks’ gestation for preventing preeclampsia: an individual participant data meta-analysis.
+Am J Obstet Gynecol 2017;216:121–128.e2.
+77. ACOG Practice Bulletin No. 202. Gestational hypertension and preeclampsia. Obstet Gynecol 2019;133:1.
+78. Ch’ng CL, Morgan M, Hainsworth I, et al. Prospective
+study of liver dysfunction in pregnancy in Southwest
+Wales. Gut 2002;51:876–880.
+79. Goel A, Ramakrishna B, Zachariah U, et al. How accurate
+are the Swansea criteria to diagnose acute fatty liver of
+pregnancy in predicting hepatic microvesicular steatosis? Gut 2011;60:138–139; author reply 139–140.
+80. Hay JE. Liver disease in pregnancy. Hepatology 2008;
+47:1067–1076.
+81. Ko H, Yoshida EM. Acute fatty liver of pregnancy. Can J
+Gastroenterol 2006;20:25–30.
+82. Valentin N, Guerrido I, Rozenshteyn F, et al. Pregnancy
+outcomes after liver transplantation: a systematic review
+and meta-analysis. Am J Gastroenterol 2021;
+116:491–504.
+83. Chen X, Chen J, Wen J, et al. Breastfeeding is not a risk
+factor for mother-to-child transmission of hepatitis B virus. PLoS One 2013;8:e55303.
+84. Yi W, Pan CQ, Li MH, et al. The characteristics and
+predictors of postpartum hepatitis ﬂares in women with
+chronic hepatitis B. Am J Gastroenterol 2018;
+113:686–693.
+85. Liu J, Wang J, Jin D, et al. Hepatic ﬂare after telbivudine
+withdrawal and efﬁcacy of postpartum antiviral therapy
+for pregnancies with chronic hepatitis B virus.
+J Gastroenterol Hepatol 2017;32:177–183.
+86. Schillie S, Wester C, Osborne M, et al. CDC recommendations for hepatitis C screening among adults - United
+States, 2020. MMWR Recomm Rep 2020;69:1–17.
+87. Bhattacharya D, Aronsohn A, Price J, et al. Hepatitis C
+guidance 2023 update: American Association for the
+Study of Liver Diseases–Infectious Diseases Society of
+America recommendations for testing, managing, and
+treating hepatitis C virus infection. Clin Infect Dis 2023;
+
+AGA Clinical Practice Update on Pregnancy-Related GI and Liver Disease 1045
+
+ciad319. Published online May 25, 2023. https://doi.org/
+10.1093/cid/ciad319.
+88. Akiyama S, Hamdeh S, Murakami N, et al. Pregnancy
+and neonatal outcomes in women receiving calcineurin
+inhibitors: a systematic review and meta-analysis. Br J
+Clin Pharmacol 2022;88:3950–3961.
+89. Kanis SL, de Lima-Karagiannis A, de Boer NKH,
+et al. Use of thiopurines during conception and
+pregnancy is not associated with adverse pregnancy
+outcomes or health of infants at one year in a prospective study. Clin Gastroenterol Hepatol 2017;
+15:1232–1241.e1.
+90. Kallapur A, Jang C, Yin O, et al. Pregnancy care in solid
+organ transplant recipients. Int J Gynaecol Obstet 2022;
+157:502–513.
+
+Received December 13, 2023. Accepted June 20, 2024.
+Correspondence
+Address correspondence to: Shivangi Kothari, MD, Division of
+Gastroenterology and Hepatology, University of Rochester Medical Center,
+601 Elmwood Avenue, Rochester, New York 14642. e-mail:
+shivangi_kothari@urmc.rochester.edu.
+Author Contributions
+All authors wrote the paper and critically reviewed the manuscript.
+Conﬂicts of interest
+The authors disclose the following: Shivangi Kothari served as a consultant for
+Boston Scientiﬁc and Olympus Medical and is the co-editor of the American
+College of Gastroenterology pregnancy monograph. Yalda Afshar served as
+a consultant for Mirvie and Bio-Rad and has conducted investigator-initiated
+research with Natera. Lawrence Friedman receives ﬁnancial support from
+Newton-Wellesley Hospital and receives royalties from Elsevier, McGraw-Hill,
+and Wiley. Joseph Ahn has served as a consultant for Gilead Sciences.
+
+CLINICAL PRACTICE UPDATES
+
+October 2024
+
+

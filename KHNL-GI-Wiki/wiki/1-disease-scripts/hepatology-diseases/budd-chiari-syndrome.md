@@ -45,7 +45,7 @@ Prevalences below are the HVT/BCS column of [[aasld-2021-vascular-pvt]] **Table 
 | Paroxysmal nocturnal hemoglobinuria (PNH) | **7%** | Uncommon presentation |
 | Oral contraceptives or recent pregnancy | **23%** | Over-represented in Western patients |
 | Behçet disease | **2%–3%** | Major cause in the Mediterranean region; IVC involvement common |
-| Celiac disease | **1%** | Over-represented in North Africa |
+| [[celiac-disease\|Celiac disease]] | **1%** | Over-represented in North Africa |
 | Protein C deficiency / protein S deficiency / antithrombin deficiency | **5% / 4% / 1%** | Plasma levels are non-specific in liver dysfunction — see workup caveats under [[#Diagnostics]] |
 | Factor V Leiden | **8% population prevalence in Europeans** (not a BCS-specific rate) | Over-represented in Western patients; molecular diagnosis |
 | Factor II (prothrombin) G20210A | **3% population prevalence in Europeans** (not a BCS-specific rate) | Role uncertain in BCS |
@@ -122,14 +122,15 @@ Key predictors of poor outcome: [[hepatic-encephalopathy|hepatic encephalopathy]
 
 Management follows a defined stepwise approach — escalate to the next step only when current therapy is insufficient [[acg-2020-hepatic-mesenteric-circulation]]:
 
-```
-Step 1: Anticoagulation + treat underlying cause (e.g., JAK2 → hydroxyurea/anagrelide; MPN management)
-        ↓ (failure = worsening liver and/or renal function, ascites, or hepatic encephalopathy — ACG Rec 17)
-Step 2: Percutaneous angioplasty ± stenting of focal hepatic vein or IVC stenosis
-        ↓ (failure, or no stenosis amenable to angioplasty)
-Step 3: TIPS (transjugular intrahepatic portosystemic shunt) — decompresses sinusoidal congestion
-        ↓ (failure = persistent hepatic failure, uncontrolled portal hypertension)
-Step 4: [[liver-transplantation|Liver transplantation]]
+```mermaid
+flowchart TD
+    S1["Step 1 — Anticoagulation<br/>+ treat the underlying cause<br/>(e.g. JAK2 → hydroxyurea / anagrelide; MPN management)"]
+    S2["Step 2 — Percutaneous angioplasty ± stenting<br/>of focal hepatic vein or IVC stenosis"]
+    S3["Step 3 — TIPS (transjugular intrahepatic portosystemic shunt)<br/>decompresses sinusoidal congestion"]
+    S4["Step 4 — Liver transplantation"]
+    S1 -->|"Failure = worsening liver and/or renal function,<br/>ascites, or hepatic encephalopathy (ACG Rec 17)"| S2
+    S2 -->|"Failure, or no stenosis amenable to angioplasty"| S3
+    S3 -->|"Failure = persistent hepatic failure,<br/>uncontrolled portal hypertension"| S4
 ```
 
 **Evidence** (Strong, Moderate — ACG Rec 17): in the largest prospective multicentre European study (n=157, median follow-up 5 y) the stepwise approach gave **overall survival 77%**; **88.5%** received long-term anticoagulation and **44% needed no invasive intervention at all**. Angioplasty and/or thrombolysis was the initial invasive step in 14%, of whom 64% still escalated to TIPS or LT [[acg-2020-hepatic-mesenteric-circulation]]. With **medical therapy alone, only one quarter of patients are alive at 5 years** [[aasld-2021-vascular-pvt]] — which is what makes timely escalation, not indefinite medical management, the point of the algorithm.
@@ -187,3 +188,5 @@ Step 4: [[liver-transplantation|Liver transplantation]]
 
 1. [[acg-2020-hepatic-mesenteric-circulation|ACG Clinical Guideline: Disorders of the Hepatic and Mesenteric Circulation]]
 2. [[baveno-vii-2022-portal-hypertension|Baveno VII — Renewing Consensus in Portal Hypertension (2022)]]
+3. [[aasld-2021-vascular-pvt|AASLD Practice Guidance: Vascular Liver Disorders, Portal Vein Thrombosis, and Procedural Bleeding in Cirrhosis (2021)]]
+3. [[aasld-2021-vascular-pvt|AASLD Practice Guidance: Vascular Liver Disorders, Portal Vein Thrombosis, and Procedural Bleeding in Cirrhosis (2021)]]

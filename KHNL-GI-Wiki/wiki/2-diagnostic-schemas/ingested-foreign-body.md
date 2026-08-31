@@ -7,8 +7,6 @@ updated: 2026-08-28
 sources: [asge-2011-foreign-body-ingestion]
 ---
 
-# Ingested Foreign Body and Food Bolus Impaction
-
 ## Contents
 - [[#Definition / Scope]]
   - [[#Who Ingests]]

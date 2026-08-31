@@ -27,7 +27,7 @@ Rotavirus — with [[norovirus]] and adenovirus — is one of the viral agents t
 
 ### Establishing the Diagnosis
 
-- Acute **watery, non-bloody** diarrhea ± vomiting, low-grade fever; self-limited in the immunocompetent host.
+- Acute **watery, non-bloody** diarrhea ± [[nausea-and-vomiting|vomiting]], low-grade fever; self-limited in the immunocompetent host.
 - **Most cases need no etiologic testing.** Stool studies are reserved for dysentery, moderate–severe disease, symptoms >7 days, patients at high risk of spreading disease, or outbreaks. [[acg-2016-acute-diarrhea]] (Recs 1–2)
 - When testing is done: **culture-independent / multiplex molecular panels** detect rotavirus and are recommended at least as an adjunct to traditional methods (culture, microscopy, antigen testing), which miss most etiologies. [[acg-2016-acute-diarrhea]] (Rec 3)
 - **Fresh stool is the preferred specimen for viral agents** *(weak, low)*; a rectal swab is an acceptable substitute only for **bacterial** targets when a timely stool sample cannot be collected. [[idsa-2017-infectious-diarrhea]] (Rec 19)
@@ -41,7 +41,7 @@ Exposure/host features that raise the pretest probability of rotavirus. [[idsa-2
 |---|---|
 | Age | **6–18 months** — the peak-incidence window |
 | Setting exposure | Child care center attendance or employment; healthcare, long-term care, or prison exposure/employment |
-| Inoculum | Low-inoculum pathogen (like [[norovirus]], *Giardia*, *Shigella*, STEC) → person-to-person spread is efficient |
+| Inoculum | Low-inoculum pathogen (like [[norovirus]], *Giardia*, [[shigellosis\|*Shigella*]], STEC) → person-to-person spread is efficient |
 | Immunodeficiency | **Persistent** rotavirus diarrhea — both non-vaccine and vaccine strain — reported in young children with **primary immunodeficiency** |
 
 - Pre-vaccine US burden in children <5 y: ~3 million episodes, >500,000 outpatient visits, 27,000 hospitalizations, ~25 deaths annually; [[norovirus]] took the lead after vaccine introduction.
@@ -117,7 +117,7 @@ Exposure/host features that raise the pretest probability of rotavirus. [[idsa-2
 
 ## See Also
 
-[[acute-diarrhea]], [[norovirus]], [[enterotoxigenic-e-coli]], [[giardiasis]], [[cryptosporidiosis]], [[clostridioides-difficile]], [[irritable-bowel-syndrome]], [[postinfectious-ibs]], [[inflammatory-bowel-disease]], [[toxic-megacolon]], [[loperamide]], [[probiotics]]
+[[acute-diarrhea]], [[nausea-and-vomiting]], [[norovirus]], [[enterotoxigenic-e-coli]], [[shigellosis]], [[giardiasis]], [[cryptosporidiosis]], [[clostridioides-difficile]], [[irritable-bowel-syndrome]], [[postinfectious-ibs]], [[inflammatory-bowel-disease]], [[toxic-megacolon]], [[loperamide]], [[probiotics]]
 
 ---
 

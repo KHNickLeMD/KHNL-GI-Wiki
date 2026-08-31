@@ -1,0 +1,2547 @@
+602
+
+PRACTICE GUIDELINES
+
+nature publishing group
+
+CME
+
+Downloaded from http://journals.lww.com/ajg by BhDMf5ePHKav1zEoum1tQfN4a+kJLhEZgbsIHo4XMi0hCywCX1AWn
+YQp/IlQrHD3i3D0OdRyi7TvSFl4Cf3VC4/OAVpDDa8K2+Ya6H515kE= on 12/17/2024
+
+ACG Clinical Guideline: Diagnosis, Treatment, and
+Prevention of Acute Diarrheal Infections in Adults
+Mark S. Riddle, MD, DrPH1, Herbert L. DuPont, MD2 and Bradley A. Connor, MD3
+
+Acute diarrheal infections are a common health problem globally and among both individuals in the United States
+and traveling to developing world countries. Multiple modalities including antibiotic and non-antibiotic therapies
+have been used to address these common infections. Information on treatment, prevention, diagnostics, and the
+consequences of acute diarrhea infection has emerged and helps to inform clinical management. In this ACG Clinical
+Guideline, the authors present an evidence-based approach to diagnosis, prevention, and treatment of acute diarrhea
+infection in both US-based and travel settings.
+Am J Gastroenterol 2016; 111:602–622; doi:10.1038/ajg.2016.126; published online 12 April 2016
+
+INTRODUCTION
+Acute diarrheal infection is a leading cause of outpatient visits,
+hospitalizations, and lost quality of life occurring in both domestic settings and among those traveling abroad. The Centers for
+Disease Control and Prevention has estimated 47.8 million cases
+occurring annually in the United States, at an estimated cost
+upwards of US$150 million to the health-care economy (1,2).
+Acute diarrhea can be defined as the passage of a greater number
+of stools of decreased form from the normal lasting <14 days.
+Some definitions require an individual to present with an abrupt
+onset 3 or more loose or liquid stools above baseline in a 24-h
+period to meet the criteria of acute diarrhea. Persistent diarrhea
+is typically defined as diarrhea lasting between 14 and 30 days,
+with chronic diarrhea generally considered as diarrheal symptoms
+lasting for greater than a month. Acute diarrhea of infectious etiology is generally associated with other clinical features suggesting enteric involvement including nausea, vomiting, abdominal
+pain and cramps, bloating, flatulence, fever, passage of bloody
+stools, tenesmus, and fecal urgency. Acute diarrheal infection is
+also often referred to as gastroenteritis, and some acute gastrointestinal infections may cause a vomiting predominant illness
+with little or no diarrhea.
+This guideline provides recommendations for the diagnosis,
+management, and prevention of acute gastrointestinal infection focusing primarily on immune-competent adult individuals
+and does not consider Clostridium difficile-associated infections,
+which has recently been reviewed in a separate American College
+of Gastroenterology (ACG) Clinical Guideline (3). It replaces a
+previously published ACG Guideline on the same topic (4), and
+
+supplements previously published Infectious Disease Society of
+America (IDSA) (5), and World Gastroenterology Organization guidelines (6). This guideline is structured into five sections
+of clinical focus to include epidemiology and population health,
+diagnosis, treatment of acute disease, evaluation of persisting
+symptoms, and prevention. To support the guideline development,
+a comprehensive literature search on acute diarrheal infection in
+adults was performed across multiple databases. A medical library
+information specialist searched the Ovid MEDLINE and EMBASE
+databases for relevant articles on 18 February 2015, using the following main terms (with synonyms and closely related words):
+“diarrhea” AND “acute disease,” “infectious diarrhea”, “dysentery,”
+or “acute gastroenteritis.” The searches were limited to English
+language articles published in the past 10 years and excluded
+case reports, and child or animal studies. Details of the search
+methodologies are provided in the Appendix. Additional articles
+were obtained from review of references from retrieved articles, as
+well as articles that were known to authors.
+Each section presents key recommendations followed by a
+summary of the evidence (Figure 1 and Table 1). The GRADE
+system was used to grade the strength of our recommendations
+and the quality of the evidence (7). The strength of a recommendation is graded as “strong,” when the evidence shows the benefit of
+the intervention or treatment clearly outweighs any risk, and as
+“conditional,” when uncertainty exists about the risk–benefit ratio.
+The quality of the evidence is graded as follows: “high,” if further
+research is unlikely to change our confidence in the estimate of the
+effect; “moderate,” if further research is likely to have an important
+impact and may change the estimate; “low,” if further research is
+
+1
+
+Enteric Diseases Department, Naval Medical Research Center, Silver Spring, Maryland, USA; 2University of Texas Health Science Center at Houston, Houston,
+Texas, USA; 3Weill Medical College of Cornell University, New York, New York, USA. Correspondence: Mark S. Riddle, MD, DrPH, Enteric Diseases Department,
+Naval Medical Research Center, 503 Robert Grant Avenue, Silver Spring, Maryland 20910, USA. E-mail: mark.s.riddle10.mil@mail.mil
+Received 23 November 2015; accepted 16 March 2016
+
+The American Journal of GASTROENTEROLOGY
+
+VOLUME 111 | MAY 2016 www.amjgastro.com
+
+Clinical Guideline: Acute Diarrheal Infections
+
+Passage of .3 unformed stools in 24 h plus an enteric symptom (nausea, vomiting, abdominal pain/cramps, tenesmus, fecal
+urgency, moderate to severe flatulence)
+
+Downloaded from http://journals.lww.com/ajg by BhDMf5ePHKav1zEoum1tQfN4a+kJLhEZgbsIHo4XMi0hCywCX1AWn
+YQp/IlQrHD3i3D0OdRyi7TvSFl4Cf3VC4/OAVpDDa8K2+Ya6H515kE= on 12/17/2024
+
+Oral fluid therapy: for all cases, hydrate through fluid and salt intake
+Food: soups, broths, saltine crackers, broiled and baked foods
+
+Dysenteric diarrhea (passage of grossly bloody stools)
+
+Watery diarrhea
+
+Mild illness*
+
+Hydration
+only, may use
+loperamide 4 mg
+initially to
+control
+stooling
+*Illness severity:
+Severe —total
+disability due to
+diarrhea; Moderate
+= able to function
+but with forced
+change in activities
+due to illness;
+Mild = no change
+in activities
+
+Moderate-to-severe illness*
+
+Travelassociated
+
+Antibiotic
+therapy
+(Table 4)
+
+Severe illness* with fever
+(.101°F) in a single case
+(not outbreak)
+
+No or low-grade fever
+(-100°F)
+
+Non-travel-associated
+
+No or
+low-grade
+fever
+(≤100°F)
+
+Consider
+-48 h of
+loperamide
+therapy
+
+<72 h
+duration
+
+Fever
+(≥101°F)
+
+.72 h
+duration
+
+Microbiologic assessment,
+then anti-microbial agent
+directed to cause for all but
+STEC infection
+
+Non-travelassociated
+
+Consider
+microbiologic
+assessment
+
+Travelassociated
+
+Empiric
+treatment,
+Azithromycin
+1 g in single
+dose OR 500 mg
+once daily
+for 3 days
+
+Persistent diarrhea (14 – 30 days) should be worked up by culture and/or culture-independent microbiologic
+assessment, then treatment with anti-microbial agent directed to cause
+
+Figure 1. Approach to empiric therapy and diagnostic-directed management of the adult patient with acute diarrhea (suspect infectious etiology).
+
+very likely to change the estimate; “very low,” if an effect is very
+uncertain (8).
+
+EPIDEMIOLOGY AND PUBLIC HEALTH
+CONSIDERATIONS
+Recommendation
+
+1. Diagnostic evaluation using stool culture and cultureindependent methods if available should be used in situations where the individual patient is at high risk of spreading
+disease to others, and during known or suspected outbreaks.
+(Strong recommendation, low level of evidence)
+Summary of evidence. Surprisingly, there are few published
+studies that describe the overall incidence of acute diarrhea
+(including infectious and non-infectious causes) in the United
+States. In 1998, the Foodborne Diseases Active Surveillance Network
+(FoodNet) conducted a random population-based telephone
+© 2016 by the American College of Gastroenterology
+
+survey in which 12,755 persons (median age 40 years) were interviewed (9). Overall, 6% reported having experienced an acute
+diarrheal illness at some point during the 4 weeks preceding the
+interview (overall annualized rate, 0.72 episodes per person-year;
+15–24, 1.1 episodes per person-year; 25–44, 1.7 episodes per
+person-year; 45–64, 1.2 episodes per person-year). A follow-up
+survey where 3,568 respondents (median age 51) were asked at
+random about illness in the previous 7 days or previous month
+found that recall bias had an important effect on estimates of
+acute gastrointestinal illness (10). Using a 7-day exposure window, the estimated incidence of acute diarrhea was 1.6 episodes
+per person-year, compared with 0.9 episodes per person-year if
+asked about illness within the preceding month. Other population-based studies from Canada and western European countries
+using varied methodologies estimate annual incidence between
+0.1 to 3.5 episodes per person-year (11).
+Specifically focusing on infectious causes of acute diarrheal
+illness, in 2011 the Centers for Disease Control and Prevention
+The American Journal of GASTROENTEROLOGY
+
+603
+
+604
+
+Riddle et al.
+
+Table 1. Summary and strength of recommendations
+Epidemiology and public health
+1. Diagnostic evaluation using stool culture and culture-independent methods if available should be used in situations where the individual patient is at high
+risk of spreading disease to others, and during known or suspected outbreaks. (Strong recommendation, low level of evidence)
+Downloaded from http://journals.lww.com/ajg by BhDMf5ePHKav1zEoum1tQfN4a+kJLhEZgbsIHo4XMi0hCywCX1AWn
+YQp/IlQrHD3i3D0OdRyi7TvSFl4Cf3VC4/OAVpDDa8K2+Ya6H515kE= on 12/17/2024
+
+Diagnosis
+2. Stool diagnostic studies may be used if available in cases of dysentery, moderate–severe disease, and symptoms lasting >7 days to clarify the etiology of
+the patient’s illness and enable speciﬁc directed therapy.(Strong recommendation, very low level of evidence)
+3. Traditional methods of diagnosis (bacterial culture, microscopy with and without special stains and immunoﬂuorescence, and antigen testing) fail to
+reveal the etiology of the majority of cases of acute diarrheal infection. If available, the use of FDA-approved culture-independent methods of diagnosis can
+be recommended at least as an adjunct to traditional methods. (Strong recommendation, low level of evidence)
+4. Antibiotic sensitivity testing for management of the individual with acute diarrheal infection is currently not recommended. (Strong recommendation, very
+low level of evidence)
+Treatment of acute disease
+5. The usage of balanced electrolyte rehydration over other oral rehydration options in the elderly with severe diarrhea or any traveler with cholera-like
+watery diarrhea is recommended. Most individuals with acute diarrhea or gastroenteritis can keep up with ﬂuids and salt by consumption of water, juices,
+sports drinks, soups, and saltine crackers. (Strong recommendation, moderate level of evidence)
+6. The use of probiotics or prebiotics for the treatment of acute diarrhea in adults is not recommended, except in cases of postantibiotic-associated illness.
+(Strong recommendation, moderate level of evidence)
+7. Bismuth subsalicylates can be administered to control rates of passage of stool and may help travelers function better during bouts of mild-to-moderate
+illness. (Strong recommendation, high level of evidence)
+8. In patients receiving antibiotics for traveler’s diarrhea, adjunctive loperamide therapy should be administered to decrease duration of diarrhea and
+increase chance for a cure. (Strong recommendation, moderate level of evidence)
+9. The evidence does not support empiric anti-microbial therapy for routine acute diarrheal infection, except in cases of TD where the likelihood of bacterial
+pathogens is high enough to justify the potential side effects of antibiotics. (Strong recommendation, high level of evidence)
+10. Use of antibiotics for community-acquired diarrhea should be discouraged as epidemiological studies suggest that most community-acquired diarrhea is
+viral in origin (norovirus, rotavirus, and adenovirus) and is not shortened by the use of antibiotics. (Strong recommendation, very low-level evidence)
+Evaluation of persisting symptoms
+11. Serological and clinical lab testing in individuals with persistent diarrheal symptoms (between 14 and 30 days) are not recommended. (Strong recommendation, very low level of evidence)
+12. Endoscopic evaluation is not recommended in individuals with persisting symptoms (between 14 and 30 days) and negative stool work-up. (Strong
+recommendation, very low level of evidence)
+Prevention
+13. Patient level counseling on prevention of acute enteric infection is not routinely recommended but may be considered in the individual or close contacts
+of the individual who is at high risk for complications. (Conditional, very low level of evidence)
+14. Individuals should undergo pretravel counseling regarding high-risk food/beverage avoidance to prevent traveler’s diarrhea. (Conditional, very low level
+of evidence)
+15. Frequent and effective hand washing and alcohol-based hand sanitizers are of limited value in preventing most forms of traveler’s diarrhea but may be
+useful where low-dose pathogens are responsible for the illness as for an example during a cruise ship outbreak of norovirus infection, institutional outbreak,
+or in endemic diarrhea prevention. (Conditional recommendation, low level of evidence)
+Prophylaxis
+16. Bismuth subsalicylates have moderate effectiveness and may be considered for travelers who do not have any contraindications to use and can adhere
+to the frequent dosing requirements. (Strong recommendation, high level of evidence)
+17. Probiotics, prebiotics, and synbiotics for prevention of TD are not recommended. (Conditional recommendation, low level of evidence)
+18. Antibiotic chemoprophylaxis has moderate to good effectiveness and may be considered in high-risk groups for short-term use. (Strong recommendation, high level of evidence)
+TD, traveler’s diarrhea.
+
+updated the estimates of infectious gastroenteritis caused by a
+myriad of viruses, bacteria, and parasites (1,2). Based on empirical
+modeling of active, passive, and outbreak surveillance data ~47.8
+million foodborne-related illnesses occur annually (one out of
+every six persons) in the United States. Furthermore, it was estimated each year that 31 major pathogens acquired in the United
+The American Journal of GASTROENTEROLOGY
+
+States caused 9.4 million episodes of diarrheal illness, 55,961 hospitalizations, and 1,351 deaths. In addition, unspecified agents
+resulted in 71,878 hospitalizations and 1,686 deaths, caused ~38.4
+million episodes of domestically acquired foodborne illnesses. In
+addition to domestically acquired infections, over 44 million US
+residents traveled abroad to non-Canadian and non-European
+VOLUME 111 | MAY 2016 www.amjgastro.com
+
+Clinical Guideline: Acute Diarrheal Infections
+
+Downloaded from http://journals.lww.com/ajg by BhDMf5ePHKav1zEoum1tQfN4a+kJLhEZgbsIHo4XMi0hCywCX1AWn
+YQp/IlQrHD3i3D0OdRyi7TvSFl4Cf3VC4/OAVpDDa8K2+Ya6H515kE= on 12/17/2024
+
+destinations in 2014 (12), resulting in roughly 4 to 17 million cases
+of traveler’s diarrhea (TD) based on 10–40% attack rates (13). In
+addition to the significant burden of the acute illness associated
+with these infections, recent evidence suggests that these pathogens are linked with chronic health sequelae, including functional
+gastrointestinal disorders, reactive arthritis, hemolytic uremic syndrome, and Guilliane Barré syndrome (14–20). The cost of acute
+and chronic illness attributable to these infections is estimated to
+be upwards of US$145 billion to the US economy (21–23).
+In light of these data, acute diarrheal illness is considered a major
+public health issue against which control efforts are needed. While
+this guideline is primarily focused on the diagnosis, prevention,
+and treatment of acute diarrhea in the individual, it is appropriate to specifically address the importance of diagnosis of the individual in the context of population health improvement. Public
+health surveillance and response in the field of acute diarrhea
+include strategies of infection control, anti-microbial stewardship,
+outbreak investigation, as well as food and water safety interventions and regulatory policy (24). The individual patient–medical
+encounter is the interface and provides critical input on which the
+success of these control strategies are built. There are significant
+data gaps and limitations with current burden of disease estimates
+that are due to limitations in the current reporting structure (2,25).
+Important multipliers for which there is significant uncertainty
+in published burden of disease models include the underreporting multiplier (which adjusts data reported to health departments
+as part of routine public health surveillance for the number of
+infected people who seek treatment and test positive for a specific
+infectious agent), and the pathogen fraction multiplier (which is
+used to attribute a proportion of all episodes of gastroenteritis to
+particular pathogens) (25). Improvement of estimates, which is
+required to make important policy decisions, benefits from more
+certain data that comes from better reporting. From an outbreak
+investigation perspective, culture-based testing and reporting (and
+advanced isolate characterization) is needed to provide sufficient
+information to distinguish among strains or serotypes and perhaps
+identify virulence characteristics and susceptibility to anti-microbial agents that relies on testing individual cases (26). Established
+networks such as FoodNet and Pulsenet have demonstrated
+the importance of active surveillance for examining trends in
+specific diseases over time, evaluating impact of food safety policy,
+as well as identifying and responding to large common source
+outbreaks (27).
+However, a comprehensive laboratory evaluation and advanced
+characterization work-up is neither practicable nor cost-effective
+for every patient presenting with an acute diarrheal infection (28).
+No formal cost-effectiveness studies on the optimization of testing
+and reporting has been reported and these would be challenging
+to conduct. However, public health fundamentals would strongly
+support individual patient testing and reporting in a number of
+situations. These include diarrhea outbreaks among workers who
+prepare and handle food, health-care workers, daycare (adult and
+child) attendees/employees, and residents of institutional facilities
+(3). Additionally, if testing is conducted for individual clinical reasons, the results of these tests should be reported to public health
+© 2016 by the American College of Gastroenterology
+
+authorities in compliance with both voluntary and mandatory
+state requirements on reportable events.
+Finally, with the advent of growing availability and increasing
+use of culture-independent technologies in clinical laboratories
+(discussed in detail later), an emerging concern is the potential
+impact on replacement of culture-based methods for the aforementioned public health utilization (26). Current public health
+and control strategies rely on isolate recovery, specimen preservation, and partnerships with clinical laboratories. Although
+culture-independent methods provide a promise for more sensitivity of pathogen identification (leading to more accurate diseaseburden estimates), they do so with a detrimental impact on the
+advanced characterization and typing, which is needed in outbreak
+investigation and resistance monitoring efforts. As such, and until
+new methods have evolved in which genotypic advanced characterization platforms are widely available, it is recommended that
+culture-based and culture-independent testing be used in parallel
+when practicable to support public health purposes.
+
+DIAGNOSIS
+Recommendations
+
+2. Stool diagnostic studies may be used if available in cases of
+dysentery, moderate-to-severe disease, and symptoms lasting
+>7 days to clarify the etiology of the patient’s illness and
+enable specific directed therapy. (Strong recommendation,
+very low level of evidence)
+3. Traditional methods of diagnosis (bacterial culture, microscopy with and without special stains and immunofluorescence, and antigen testing) fail to reveal the etiology of the
+majority of cases of acute diarrheal infection. If available,
+the use of Food and Drug Administration-approved cultureindependent methods of diagnosis can be recommended
+at least as an adjunct to traditional methods. (Strong recommendation, low level of evidence)
+4. Antibiotic sensitivity testing for management of the individual
+with acute diarrheal infection is currently not recommended.
+(Strong recommendation, very low level of evidence)
+Summary of the evidence. The commonly accepted statement
+that specific investigation is not normally required in the majority
+of cases of acute watery diarrhea because it is usually self-limiting
+and resolves without specific treatment may under inform the
+ability to provide a more rapid resolution of symptoms with
+appropriate directed therapy and potentially prevent postinfectious sequelae (29). Historical guidelines for diagnostic testing
+(ACG, IDSA) seem to be too restrictive in the current environment of new diagnostic methods and enhanced ability to target
+therapy (4,5).
+Evidence supporting the use of diagnostic testing to support
+clinical management may be different in higher-resource settings
+than they would be, for example, in the traveler who is in an area
+with limited access to adequate medical care or diagnostics (30).
+Appropriate microbial identification may be helpful in tailoring therapy as in antibiotics for bacterial pathogens, supportive
+The American Journal of GASTROENTEROLOGY
+
+605
+
+606
+
+Riddle et al.
+
+Table 2. FDA-approved laboratory tests for enteric pathogens
+Manufacturer
+
+Test system
+
+Platform
+
+Pathogens detected
+Type
+
+No.
+
+Detection time (h)
+
+FDA-approved
+
+Date-approved
+
+Downloaded from http://journals.lww.com/ajg by BhDMf5ePHKav1zEoum1tQfN4a+kJLhEZgbsIHo4XMi0hCywCX1AWn
+YQp/IlQrHD3i3D0OdRyi7TvSFl4Cf3VC4/OAVpDDa8K2+Ya6H515kE= on 12/17/2024
+
+Luminex
+
+GPP
+
+xTAG
+
+B, V, P
+
+15
+
+<5
+
+Yes
+
+15/01/13
+
+Hologic/Gen-Probe
+
+ProGastro SSCS
+
+—
+
+B
+
+4
+
+4
+
+Yes
+
+22/01/13
+
+BD Diagnostics
+
+EBP
+
+BD MAX
+
+B
+
+4
+
+3–4
+
+Yes
+
+02/04/13
+
+Bioﬁre Diagnostics
+
+GI Panel
+
+FilmArray
+
+B, V, P
+
+22
+
+1–2
+
+Yes
+
+05/05/14
+
+Nanosphere
+
+EP
+
+Verigene
+
+B
+
+6
+
+2
+
+Yes
+
+24/06/14
+
+B, bacteria; FDA, Food and Drug Administration; P, parasite; V, viral.
+
+therapies, and avoidance of antibiotics for viral pathogens or
+more specific anti-microbials for parasitic protozoan etiologies.
+As symptoms of acute diarrhea are protean, attempts to diagnose
+etiologic agents or classes are subjective at best and fraught with
+imprecision due to overlap in symptoms. Although features of
+the clinical presentation may be useful in distinguishing bacterial
+from protozoan causes, they are often an unreliable indicator of
+the likely pathogen responsible. As with any syndromic disorder,
+there can be considerable overlap in symptoms caused by various
+agents (31). Despite efforts in recent years to educate travelers to
+recognize acute bacterial diarrhea (as opposed to protozoan) for
+purposes of self-treatment, this approach is at best empiric, and
+although may be suitable for travelers in remote destinations, it
+does not translate well to the individual with community acquired
+diarrhea (29).
+Conventional diagnostic approaches to diarrheal disease
+require multiple procedures: bacterial culture, microscopy with
+and without stains or immunofluorescence and stool antigen tests
+for detection of protozoa, and for detecting viral agents, electron
+microscopy, or antigen-based tests. Routine clinical laboratory
+detection of bacterial pathogens requires the use of differential
+culture media, which select for the growth of certain bacteria but
+may fail to detect other bacteria, especially in the setting of antibiotic use. Culture methods are laborious and time consuming,
+with results often not available for 48 to 72 h (32). Historically, a
+decision to obtain a stool culture in an individual with diarrhea has
+often been guided by the finding of fecal leukocytes or the presence
+of stool lactoferrin (4,33). Although the latter is a more sensitive
+predictor of a positive stool culture, using these markers to guide
+further diagnostic studies has been proven to be imprecise and
+probably unnecessary.
+Microscopy has been the principal diagnostic tool in parasitology
+for over 350 years. The limitations of this method are that it is labor
+and time intensive, requires technical expertise, and lacks sensitivity and reproducibility. Multiple specimens are often required to
+reduce the day-to-day variability in parasite shedding (34).
+When enteric viruses were identified as agents of acute diarrheal
+infection, commercial diagnostic tests were unavailable. A reliance
+on distinct characteristics of the clinical illness, often in the appropriate setting, was the standard of practice. Electron microscopical
+The American Journal of GASTROENTEROLOGY
+
+examination of stool allowed recognition of viral agents of acute
+diarrhea but was expensive and not widely available. Enzyme
+immunoassays and serologic studies are available but suffer from
+these limitations as well (35).
+Diagnostics to determine specific microbial etiologies have
+advanced in the past number of years. It is now possible using
+culture-independent molecular techniques to rapidly and simultaneously identify a multitude of bacterial, protozoan, and viral
+diarrheal pathogens including some not commonly identified in
+clinical laboratories (36).
+Diarrheal disease by definition has a broad range of potential
+pathogens particularly well suited for multiplex molecular testing. Several well-designed studies show that molecular testing
+now surpasses all other approaches for the routine diagnosis of
+diarrhea. Molecular diagnostic tests can provide a more comprehensive assessment of disease etiology by increasing the diagnostic
+yield compared with conventional diagnostic tests (Table 2). They
+are also faster, providing results in hours rather than days (37). The
+new diagnostics’ best applicability is for the clinician in practice,
+seeing one patient at a time rather than in the public health setting,
+e.g., in outbreak investigations. One potential drawback of molecular technologies is the need to predefine the particular microbes
+being sought. In addition the significance of an identified organism
+may not be clear as these molecular technologies, which involve
+nucleic acid amplification, are limited to our existing knowledge
+of a microbes’ genome and do not discriminate between viable and
+non-viable organisms. As a result they can detect microbes at nonpathogenic levels. Given the high rates of asymptomatic carriage of
+enteropathogens, this can be a considerable problem. To confound
+matters, further multiplex techniques are more commonly associated with increased detection of mixed infections and the relative
+importance of each pathogen may be unclear (38–47).
+Before bacterial culture is discarded entirely, it is important to
+acknowledge that multiplex molecular diagnostics do not yield
+isolates that can be forwarded to public health laboratories. Specimens collected for culture-independent testing may, in some cases,
+be incompatible with culture because of the collection methods
+or media that are used for collection. And, a strict reliance on
+culture-independent diagnostics would limit our ability to detect
+new causes of diarrheal disease (26,48–51). The future may hold a
+VOLUME 111 | MAY 2016 www.amjgastro.com
+
+Clinical Guideline: Acute Diarrheal Infections
+
+Downloaded from http://journals.lww.com/ajg by BhDMf5ePHKav1zEoum1tQfN4a+kJLhEZgbsIHo4XMi0hCywCX1AWn
+YQp/IlQrHD3i3D0OdRyi7TvSFl4Cf3VC4/OAVpDDa8K2+Ya6H515kE= on 12/17/2024
+
+combination approach where culture specimens that have yielded
+a positive result by culture-independent testing are then submitted
+to public health laboratories for subtyping and sensitivity analysis. A second specimen may need to be submitted if specimens
+are incompatible with cultures such as dry fecal swab specimens
+(52–54).
+Despite an increasing number of reports worldwide of resistance
+to various antibiotics among bacterial enteropathogens, the clinical impact of this has yet to be manifest in a significant enough way
+to warrant anti-microbial susceptibility testing across the board,
+especially in the individual patient. In general, there appears to be
+a low failure rate with the use of empiric anti-microbial therapy,
+especially with the fluoroquinolones and macrolides (55–62).
+Anti-microbial susceptibility testing will continue to have a role in
+the outbreak setting and for ongoing surveillance of local trends in
+resistance patterns and mechanisms (63–65).
+
+provide high levels of potassium and carbohydrate, but low levels
+of sodium and chicken broth is heavy in sodium (70,71). Travelers
+with diarrhea should keep up with fluids and electrolytes through
+diet to be certain they are regularly passing urine and have moist
+mucous membranes.
+In severe diarrhea, a balanced ORS can usually be purchased
+at a local pharmacy with sodium of 60–75 mEq/l and glucose of
+75–90 mmol/l (72) with value in replacing fluids and salt in dehydrating forms of diarrhea as studied in infants and children. Sports
+drinks while not adequate alone to treat severe diarrhea can provide partial sodium and potassium replacement. More research is
+needed to determine the optimal composition of available fluidsalt replacement beverages for travelers (73). New developments in
+oral rehydration are underway, and if convenient without increasing diarrhea and without complications, they may offer advantages
+in the treatment of more severe forms of TD by preventing symptoms associated with mild forms of dehydration or frank dehydration in cholera-like forms of diarrhea (74).
+
+TREATMENT OF ACUTE DISEASE
+Oral rehydration
+
+Probiotics and prebiotics
+
+Recommendation
+5. The usage of balanced electrolyte rehydration over other oral
+rehydration options in the elderly with severe diarrhea or any
+traveler with cholera-like watery diarrhea is recommended.
+Most individuals with acute diarrhea or gastroenteritis
+can keep up with fluids and salt by consumption of water,
+juices, sports drinks, soups, and saltine crackers. (Strong
+recommendation, moderate level of evidence)
+
+Recommendation
+6. The use of probiotics or prebiotics for treatment of acute
+diarrhea in adults is not recommended, except in cases of
+postantibiotic-associated illness. (Strong recommendation,
+moderate level of evidence)
+
+Summary of the evidence. One of the most significant advances in
+the past century was development of a balanced sodium-glucose
+solution that allows optimal absorption of electrolytes and water.
+Availability of oral rehydration solution (ORS) has reduced infant
+mortality in developing countries by at least 50% (66). The major value of ORS is treatment of dehydrating forms of diarrhea
+in infants and young children in developing countries. ORS may
+not reduce diarrhea and the objective of ORS therapy is not to
+shorten illness. In TD dehydration is not common and mortality occurs only very rarely. Among otherwise healthy people, the
+risk of fatality during a bout of diarrhea is most common for the
+elderly whether traveling or remaining in a nursing home. More
+than 80% of deaths in the United States associated with diarrhea
+occur in the elderly (67). For infants and the elderly with severe
+TD and in anyone who develops profuse cholera-like watery diarrhea, balanced ORS and medical evaluation are advised. In nonelderly adult travelers with diarrhea, the objectives are generally
+improving symptoms and getting the people back to scheduled
+activities. A previous study of TD management in young adults
+failed to identify clinical or laboratory benefit of balanced ORS
+therapy in patients treated with loperamide (68). For most otherwise healthy adults with TD, formal ORS is not needed as they
+can keep up with fluid losses by taking in salty soups, fruit juices,
+and carbohydrates to provide the glucose-sodium cotransport
+(69). Popular carbonated soft drinks provide fluids and almost
+no sodium or potassium, while fruit juices (e.g., apple juice)
+© 2016 by the American College of Gastroenterology
+
+Summary of the evidence. As our understanding of the importance of the human microbiome in health and disease has advanced, interest in the use of nonpathogenic bacteria and yeast,
+as well as nutrients that enhance the growth of favorable microbes
+in our bodies producing enhanced colonization resistance has
+also expanded (75). Probiotics are defined as live microorganisms, which, when administered in adequate amounts, confer
+health benefits on the host. For a microorganism to be considered
+a probiotic, it must exhibit non-pathogenic properties, be viable
+in delivery vehicles, be stable in acid and bile, adhere to target
+epithelial tissue, persist within the gastrointestinal tract, produce
+anti-microbial substances, modulate the immune system, and
+influence metabolic activities (76). Postulated mechanisms of
+action of probiotics include “colonization resistance” a barrier
+effect that prevents attachment or colonization of microorganisms.
+Probiotics supposedly act by prohibiting pathogen attachment,
+enhancing the immune response and by assisting in re-establishing the microflora (77). Prebiotics are non-digestible food ingredients that are fermentable in the colon and stimulate potentially
+health-promoting bacteria, chiefly bifidobacteria and/or lactobacilli, conferring a beneficial shift in the microbial equilibrium
+of the host gut flora (78). Bifidobacteria as well as lactobacilli
+appear to have important functions in the ecophysiology of the
+colonic microbiota. These organisms have been associated with
+an increased resistance to infection and diarrheal disease (79,80).
+Prebiotics when combined with probiotics form synbiotics.
+Synbiotic formulations have been tested in animal models with
+beneficial effects on reducing adherence of pathogenic bacteria to
+the jejunum and colonic mucosa (81).
+The American Journal of GASTROENTEROLOGY
+
+607
+
+608
+
+Riddle et al.
+
+Table 3. Randomized double-blind placebo-controlled trials evaluating probiotics in treatment effectiveness of acute diarrhea
+
+Downloaded from http://journals.lww.com/ajg by BhDMf5ePHKav1zEoum1tQfN4a+kJLhEZgbsIHo4XMi0hCywCX1AWn
+YQp/IlQrHD3i3D0OdRyi7TvSFl4Cf3VC4/OAVpDDa8K2+Ya6H515kE= on 12/17/2024
+
+Study
+author
+
+Year
+
+Location
+
+Clinical
+setting
+
+N
+
+Eligibility
+
+Intervention
+
+Outcomes
+
+Ref.
+
+Bruno
+
+1981
+
+Italy
+
+In-patient
+
+49
+
+Acute enteritis
+(non-typhoid)
+
+Enterococcus LAB SF68
+(Bioﬂorin: ≥75×10^6 three
+times daily for 10 days).
+Placebo comparator
+
+• [P] diarrhea ≥4 days:
+EXP 2/25 vs. PLAC 11/24
+• [P] diarrhea ≥3 days:
+EXP 6/25 vs. 17/24
+
+(84)
+
+Bruno
+
+1983
+
+Italy
+
+In-patient
+
+21
+
+Acute febrile
+enteritis
+(non-typhoid)
+
+Enterococcus LAB SF68
+(Bioﬂorin: ≥75×10^6 three
+times daily for 10 days).
+Placebo comparator
+
+• [P] diarrhea ≥4 days:
+EXP 1/10 vs. PLAC 7/11
+• [P] diarrhea ≥3 days:
+EXP 3/10 vs. PLAC 7/11
+
+(85)
+
+Buydens
+
+1996
+
+Belgium
+
+In-patient and
+outpatient
+
+185
+
+Acute watery
+diarrhea
+
+Enterococcus LAB SF68
+(Bioﬂorin: ≥75×10^6 three
+times daily for ≥6 days).
+Placebo comparator
+
+• [P] diarrhea ≥4 days:
+EXP 7/93 vs. PLAC 61/92
+• [P] diarrhea ≥3 days:
+EXP 57/93 vs. PLAC 88/92
+• Mean (s.d.) freq. on day 3:
+EXP 1.1(0.3) vs. PLAC 2.5 (1.3)
+
+(86)
+
+Hochter
+
+1990
+
+Germany
+
+Outpatient
+
+92
+
+Acute diarrhea
+(exclusion;
+no antibiotics)
+
+S. boulardii (600 mg/day
+for 2 days then 300 mg/day
+on days 3 to 7. Placebo
+comparator
+
+• Mean (s.d.) freq. on day 3:
+EXP 2.4 (2.1) vs. PLAC 3.0
+(2.8)
+
+(89)
+
+Mitra
+
+1990
+
+Bangladesh
+
+Not described
+
+183
+
+V. cholera
+(n=114) or
+ETEC (n=41)
+infection
+
+Streptococcus faecium
+SF68 containing 1×10(9)
+of live SF68 or capsules of
+placebo containing killed
+SF68 (non-placebo) once
+every 8 h for 3 days.
+
+V. cholera
+• Duration (h): EXP 80 vs.
+PLAC 80, P=0.96
+• Cumulative volume 48 h
+(ml/kg body wt)
+EXP 395.5 vs. PLAC 286.5,
+P=0.13
+ETEC
+• Duration (h): EXP 24 vs.
+PLAC 24, P=0.62
+• Cumulative volume 48 h
+(ml/kg body wt)
+EXP 57.5 vs. PLAC 76.4,
+P=0.42
+
+(88)
+
+Wunderlich
+
+1989
+
+Switzerland and
+Lichtenstein
+
+Not described
+
+78
+
+Acute diarrhea
+(exclusions not
+stated)
+
+Enterococcus LAB SF68
+(Bioﬂorin: 225×10^6 three
+times daily for 7 days).
+Placebo comparator
+
+• [P] diarrhea ≥4 days:
+EXP11/40 vs. PLAC 23/38
+• [P] diarrhea ≥3 days:
+EXP 19/40 vs. PLAC 27/38
+
+(87)
+
+ETEC, enterotoxigenic E. coli; EXP, active treatment group; [P], probability; PLAC, placebo group; s.d., standard deviation.
+
+With respect to treatment of infectious diarrhea, it is theorized
+that by enhancing intestinal colonization by specific organisms there
+would be a reduction in the environmental niche for the offending
+pathogen through production of acids, hydrogen peroxide, or other
+anti-microbial substances, increase of mucus production, and gut
+barrier defense, as well as competition for nutrients or adhesion
+receptors, antitoxin action, and stimulation of the immune system
+(82). In 2010, a Cochrane systematic review was published on the
+topic of probiotics and treatment of intestinal infection (83). In this
+review, they identified 63 randomized and quasi-randomized controlled trials comparing specific probiotic agent(s) compared with a
+placebo or no-treatment with acute diarrhea of presumed infectious
+etiology. Between 1966 and 2010, 63 studies including 8,014 subjects met the eligibility criteria. Only six of these trials were among
+adults (84–89). Among the pediatric studies, mostly of which were
+conducted among developing world populations and varied greatly
+with respect to settings, organisms tested and dosage, probiotics
+The American Journal of GASTROENTEROLOGY
+
+significantly reduced the duration of diarrhea (mean difference
+24.8 h; 95% confidence interval (CI): 15.9–33.6 h; n=4,555, 35 trials),
+and the stool frequency on day 2 (mean difference 0.80 stools;
+0.5–1.1; n=2,751, 20 trials). Effect sizes did not differ between
+studies carried out in developed or developing countries.
+Table 3 describes six adult randomized controlled trials identified in the 2010 Cochrane Review and no additional randomized
+controlled trials have subsequently been published. These studies
+include two different probiotics (five studies with the single
+product Enterococcus LAB SF68 and one study with Sacchromyces
+boulardii). These studies were conducted in a variety of countries,
+clinical settings, and used different eligibility, treatment regimens,
+and primary clinical endpoints. While heterogeneity in studies is
+found, one product, Enterococcus LAB SF68, had one end point,
+diarrhea lasting greater than 4 days, which was combinable and
+reported in the Cochrane review. Among the four studies with
+similar product and end point (84–87), in the probiotic arms
+VOLUME 111 | MAY 2016 www.amjgastro.com
+
+Clinical Guideline: Acute Diarrheal Infections
+
+Downloaded from http://journals.lww.com/ajg by BhDMf5ePHKav1zEoum1tQfN4a+kJLhEZgbsIHo4XMi0hCywCX1AWn
+YQp/IlQrHD3i3D0OdRyi7TvSFl4Cf3VC4/OAVpDDa8K2+Ya6H515kE= on 12/17/2024
+
+21/168 (12.5%) compared with 102/165 (62%) in the placebo arms
+had diarrhea lasting greater than 4 days. When combined, these
+studies achieved a 79% efficacy (relative risk: 0.21, 95% CI: 0.08–
+0.52) for this outcome with substantial heterogeneity (Τ2=0.56;
+χ22=10.47, d.f.=3 (P=0.01); I2=71%). However, theoretical safety
+concerns raised about this product limits further recommendation
+(90). The one study with S. boulardii did not appear to confer any
+advantage in the primary or secondary outcomes evaluated (89).
+Based on the current evidence, there are not enough studies,
+which would support the recommended use of any particular
+probiotic product for treatment in acute adult diarrhea infection.
+Although a statistically significant summary treatment effect was
+observed for Enterococcus LAB SF68, heterogeneity in results does
+not allow for generalization, theoretical safety concerns, and no
+recent studies with this product have been reported. Recommendations on use of probiotics in pediatric populations have recently
+been published (91).
+A single study of polyphenol-based prebiotic has been described
+in the treatment of acute diarrhea in children and adults seeking
+treatment at community health centers in Managua, Nicaragua
+(92). No diarrhea case definition (e.g., frequency or duration) for
+inclusion was reported; however, exclusion critieria included those
+with high fever, vomiting, severe dehydration, and bloody stools. A
+remarkable treatment effect on mean time to last unformed stools
+among the treatment group compared with placebo was reported
+(prebiotic: 10.5 h vs. placebo: 54 h, P<0.0001). While important
+methodological and analytic detail are missing, and understanding of potential mechanism of action is lacking, this product may
+warrant additional investigation in a well-designed clinical trial.
+While evidence supporting therapy of probiotics in treatment
+of acute diarrheal infection is lacking, and few studies addressing
+the effectiveness of probiotics in treatment of antibiotic-associated
+diarrhea (93), there is supporting evidence for the role of probiotics
+in prevention of acute diarrhea associated with antibiotic use (94).
+The pooled results among 63 randomized controlled trials across
+all population, setting, and probiotic types indicated a relative risk
+reduction of 0.58, with a number needed to treat of 13. Heterogeneity and gaps in reporting of the studies, design, population, and
+antibiotic associated class make clinical application of these results
+to the individual patient clinical care challenging. Future research
+is needed to support directed therapy and effectiveness among
+various patient populations, clinical indications, antibiotics, and
+probiotic strains, as well as further understanding the risk of
+adverse events associated with probiotic use for these indications.
+Non-antibiotic therapies
+
+Recommendation
+7. Bismuth subsalicylates (BSSs) can be administered to control
+rates of passage of stool and may help travelers function
+better during bouts of mild to moderate illness. (Strong
+recommendation, high level of evidence)
+8. In patients receiving antibiotics for TD, adjunctive loperamide therapy can be administered to decrease duration of
+diarrhea and increase chance for a cure. (Strong recommendation, moderate level of evidence)
+© 2016 by the American College of Gastroenterology
+
+Summary of the evidence. Medical treatment is not required in
+patients with non-severe, non-cholera-like diarrhea. Non-antibiotic anti-diarrheal drugs have been shown to reduce the number
+of stools passed in cases of diarrhea allowing the ill people to continue their planned schedule. The drugs with value in controlling
+symptoms with reduced rate of stooling are the antisecretory and
+antimotility drugs. Intestinal secretion is the major pathophysiologic mechanism leading to watery diarrhea in some forms of
+acute diarrheal infection including TD. The antisecretory drugs
+that have been evaluated and shown to have value for therapy
+in secretory forms of diarrhea are BSS (95), zaldaride maleate
+(96), and crofelemer (97). It is the salicylate part of BSS that has
+antisecretory anti-diarrheal properties (98). BSS will reduce the
+stools passed by ~40% (95). Crofelemer is a cystic fibrosis transmembrane regulator chloride-channel blocker and is effective
+in some forms of diarrhea including TD and AIDS-associated
+diarrhea (99). Zaldaride is a calmodulin-inhibiting drug that
+has antisecretory properties related to intracellular concentrations of calcium (100). The drug significantly shortened the
+stools passed in subjects studied with TD compared with placebo
+therapy (96,101,102). Racecadotril, a specific enkephalinase
+inhibitor that prevents degradation of the endogenous antisecretory peptide neurotransmitter enkephalins that inhibit
+cyclic nucleotide secretory pathways without effect on gut
+motility (103) and has been used successfully in pediatric diarrhea (104). While racecadotril was shown to be as effective as
+loperamide in the treatment of acute endemic diarrhea in adults
+(105), this antidiarrheal drug needs to be studied further in
+diverse forms of diarrhea. Of the strictly antisecretory, only two
+agents are approved for use by the Food and Drug Administration in the United States, BSS for treatment of acute diarrhea
+and crofelemer for HIV-associated diarrhea. The recommended
+dose of BSS for therapy of acute diarrhea is 30 ml (525 mg) of
+liquid formulation or two tablets (263 mg per tablet) chewed
+well each 30–60 min not to exceed eight doses in 24 h. The drug
+will produce black stools and black tongues from harmless
+bismuth sulfide salt.
+The major antimotility drugs used for therapy of acute diarrhea
+are loperamide and diphenoxylate. Of these, the most useful drug
+is loperamide, which has less central opiate effects. Another limitation of diphenoxylate is that it contains atropine, which has no
+antidiarrheal effectiveness and may produce objectionable side
+effects. Loperamide works through two mechanisms, the most
+important being the production of segmental contraction of the
+gut, which slows the intraluminal movement of fluids and allows
+greater absorption (106). A secondary effect appears to be inhibition of calmodulin leading to reduced mucosal secretion (107).
+Thus, the mechanisms of antidiarrheal effect of loperamide are
+indirect or direct inhibition of mucosal secretion and reduction
+in motility. In a comparative randomized trial in patients with TD,
+loperamide reduced the number of diarrheal stools passed when
+compared with BSS (108) and loperamide was shown to shorten
+diarrhea in both children (109) and adults with acute diarrhea
+(110). The recommended dose of loperamide for therapy for adults
+with diarrhea is 4 mg initially followed by 2 mg after subsequently
+The American Journal of GASTROENTEROLOGY
+
+609
+
+610
+
+Riddle et al.
+
+Downloaded from http://journals.lww.com/ajg by BhDMf5ePHKav1zEoum1tQfN4a+kJLhEZgbsIHo4XMi0hCywCX1AWn
+YQp/IlQrHD3i3D0OdRyi7TvSFl4Cf3VC4/OAVpDDa8K2+Ya6H515kE= on 12/17/2024
+
+passed watery stools not to exceed 8 mg per day. Loperamide is
+not given for more than 48 h. The most valuable use of loperamide
+in the self-treatment of TD is as a combination drug with antibacterial drugs where the antimotility drug quickly reduces the
+number of diarrhea stools passed while the antibiotic cures the
+enteric infection (29,111).
+A common complaint of loperamide therapy in acute diarrhea
+is post-treatment constipation. It is important to use the lowest
+dose of loperamide to provide antidiarrheal effects without the
+post-treatment constipation effects of the drug. Antimotility drugs
+have been associated with intestinal complications such as toxic
+dilatation of the colon or prolonged illness when used in bacterial inflammatory (112,113), although the association is rare and
+if it occurs it is seen with otherwise untreated diarrhea caused by
+the highly inflammatory bacterial pathogens. When inflammatory forms of colitis are also treated with anti-microbial drugs, this
+potentiation is very unlikely to occur (113).
+Adsorbent drugs such as kaolin, pectin, charcoal, and attapulgite
+do have an effect on form of stools passed, but the number of stools
+passed and duration of post-treatment diarrhea are not shortened
+(114,115) and are not recommended.
+Antibiotic therapy
+
+Recommendation
+9. The evidence does not support empiric anti-microbial therapy
+for routine acute diarrheal infection, except in cases of TD
+where the likelihood of bacterial pathogens is high enough to
+justify the potential side effects of antibiotics. (Strong recommendation, high level of evidence)
+10. Use of antibiotics for community-acquired diarrhea should
+be discouraged as epidemiological studies suggest that most
+community-acquired diarrhea is viral in origin (norovirus,
+rotavirus, and adenovirus) and is not shortened by the use
+of antibiotics. (Strong recommendation, very low level
+evidence)
+
+Summary of evidence. The evidence for the use of anti-microbial
+therapy is strongly supported for cases of TD (Table 4 lists acceptable regimens). Numerous studies have demonstrated that antibiotics shorten the overall duration of moderate-to-severe TD to
+a little over 24 h (116). The primary efficacy parameter in most
+clinical trials has been the time from initiation of therapy until
+the last unformed stool is passed (117). Anti-bacterial drugs have
+been shown to reduce initiation of therapy until the last unformed
+stool is passed in cases of TD by 1–3 days compared with no
+therapy or placebo (118–121), and combination of an antibiotic
+with loperamide further shortens duration of illness (111). Fluoroquinolones such as ciprofloxacin or levofloxacin have been the
+primary antibiotics of choice for most destinations (119,120,122),
+although growing resistance to this class of antibiotics may change
+this (123–125). In addition, there is evidence that most Campylobacter are fluoroquinolone resistant and the use of macrolides
+such as azithromycin for treatment is recommended (126).
+Azithromycin was shown to be more effective than ciprofloxacin
+for all cases of TD in travelers to Thailand, probably because of the
+high prevalence of Campylobacter in this region (127).
+A review of nine randomized clinical trials and one Cochrane
+review assessing fluoroquinolone use for the treatment of TD
+(116,119,122,128–131) found overall reductions in diarrhea duration compared with placebo and evidence from these studies
+showed no serious harm associated with fluoroquinolone use;
+however, the literature on the use of flouroquinolones in all settings has demonstrated risks of development of Clostridium
+difficile infection and risks for tendonopathies and arthropathies
+(132). For all antibiotics, either single-dose therapy or treatment
+for up to 3 days is usually sufficient to allow resolution of symptoms. Studies show that once daily therapy is as effective as 3-day
+therapies for TD due to noninvasive pathogens, which comprise
+the majority of cases (120,121). A 3-day therapy is recommended
+for patients presenting with fever or dysentery. Enteric infection
+by Shigella dysenteriae appears to be an exception, insofar as 5 days
+
+Table 4. Acute diarrhea antibiotic treatment recommendations
+Antibiotica
+
+Dose
+
+Treatment duration
+
+Levoﬂoxacin
+
+500 mg by mouth
+
+Single doseb or 3-day course
+
+Ciproﬂoxacin
+
+750 mg by mouth or
+
+Single doseb
+
+Oﬂoxacin
+Azithromycinc,d
+
+e
+
+Rifaximin
+
+500 mg by mouth
+
+3-day course
+
+400 mg by mouth
+
+Single doseb or 3-day course
+
+1,000 mg by mouth or
+
+Single doseb
+
+500 mg by mouth
+
+3-day coursed
+
+200 mg by mouth three times daily
+
+3-days
+
+ETEC, Enterotoxigenic Escherichia coli.
+a
+Antibiotic regimens may be combined with loperamide, 4 mg ﬁrst dose, and then 2 mg dose after each loose stool, not to exceed 16 mg in a 24-h period.
+b
+If symptoms are not resolved after 24 h, complete a 3-day course of antibiotics.
+c
+Use empirically as ﬁrst line in Southeast Asia and India to cover ﬂuoroquinolone-resistant Campylobacter or in other geographical areas if Campylobacter or resistant
+ETEC are suspected.
+d
+Preferred regimen for dysentery or febrile diarrhea.
+e
+Do not use if clinical suspicion for Campylobacter, Salmonella, Shigella, or other causes of invasive diarrhea.
+
+The American Journal of GASTROENTEROLOGY
+
+VOLUME 111 | MAY 2016 www.amjgastro.com
+
+Clinical Guideline: Acute Diarrheal Infections
+
+Downloaded from http://journals.lww.com/ajg by BhDMf5ePHKav1zEoum1tQfN4a+kJLhEZgbsIHo4XMi0hCywCX1AWn
+YQp/IlQrHD3i3D0OdRyi7TvSFl4Cf3VC4/OAVpDDa8K2+Ya6H515kE= on 12/17/2024
+
+of therapy appears to be superior to single-dose or 3-day therapy
+(125). With increasing resistance to ampicillin and trimethoprim/
+sulfamethoxazole, azithromycin has been the treatment of choice
+(133,134). Recently, however, Shigella sonnei has been found to
+have reduced susceptibility to azithromycin among isolates in the
+United States (61).
+Although no studies looked at the efficacy of azithromycin vs.
+placebo, there were four randomized controlled trials that compared azithromycin to the flouroquinolones in the treatment of TD
+(118,127,135,136). No difference was noted in efficacy between the
+two treatment groups. Among adult student travelers to Mexico, a
+single dose 1,000 mg azithromycin was comparable to levofloxacin 500 mg in shortening the duration of illness (22.3 vs. 21.5 h)
+(118). Three trials demonstrate that azithromycin was as effective
+as a fluoroquinolone in the treatment of TD occurring in Thailand
+or Mexico (118,125,127). Azithromycin was also shown to be
+active in the treatment of diarrhea caused by Campylobacter
+including fluoroquinolone-resistant strains (125,137). Azithromycin is effective against Shigella spp., as well as noninvasive
+diarrheagenic Escherichia coli (137,138). Looked at as a whole,
+these studies suggest that azithromycin is as effective as the flouroquinolones in providing relief from TD. Anti-microbial resistance
+patterns for azithromycin have been studied but results are inconclusive. One study showed that azithromycin had high activity
+against TD pathogens but another suggested that concentrations
+needed to inhibit diarrheagenic E. coli have been increasing over
+the past decades. (26) In vitro studies showed increasing resistance
+among Campylobacter isolates in Nepal and Thailand but clinical
+failures have not been reported (139).
+Rifaximin, a non-absorbable rifamycin-derived antibiotic,
+has been shown to be effective against diarrheagenic E. coli,
+which appear to be the most common bacterial pathogens in the
+Western Hemisphere (140). In two studies evaluating rifaximin
+compared with placebo, rifaximin was associated with a higher
+percentage of travelers cured. A follow-up study carried out on
+a subset of patients with diarrhea because of EAEC showed the
+200 mg dose administered three times a day was more effective
+than placebo in decreasing median initiation of therapy until the
+last unformed stool is passed (22 vs. 72 h) (141). Two additional
+studies directly compared rifaximin with ciprofloxacin. There was
+no significant difference with respect to cure or treatment failure
+(142,143). Another study failed to demonstrate overall advantage when ciprofloxacin was compared with rifaximin in TD in
+Mexico, Guatemala, and India. However, a subgroup with invasive illness showed a reduced benefit following treatment with
+rifaximin (131).
+While individual self-treatment of TD among travelers has been
+common since the late 1980s, there are a few microbe-specific concerns with the use of empiric anti-bacterial therapy of TD. The first
+is that anti-bacterial drugs appear to complicate enteric disease
+caused by Shiga-like toxin-producing E. coli by increasing the risk
+of hemolytic uremic syndrome. Although this may occur more
+commonly in children, a meta-analysis did not show an association
+between anti-microbial therapy in adult patients with hemorrhagic
+colitis due to E. coli 0157:H7 and the subsequent development of
+© 2016 by the American College of Gastroenterology
+
+hemolytic uremic syndrome (144). Another theoretical concern
+with antibiotic use is that for non-typhoidal Salmonella strains,
+there may be prolonged intestinal carriage. A meta-analysis showed
+that antibiotic therapy does not appear to reduce the length of
+illness in immunocompetent adults and increases the period
+during which Salmonella was detected in stool (144). This however would not necessarily be an argument against antibiotic use
+as short-term carriage appears to be of limited clinical significance
+to those who are affected (145).
+Another perhaps more legitimate concern is that treatment
+with antibiotics will modify the microbiota. This may result
+in the development of C. difficile-associated diarrhea or colitis
+(132,145). A recent publication reported patients who developed
+C. difficile colitis following treatment with ciprofloxacin (146).
+However, this does not appear to be a common adverse outcome
+associated with treated TD. We are becoming increasingly aware
+that changes in an individual’s gut microbiota may be associated
+with international travel to certain destinations. In a recent study,
+it was shown that antibiotic use for self-treatment of TD increases
+a traveler’s risk of colonization by resistant bacteria namely
+extended spectrum β -lactamase-producing Enterobacteriaceae
+and carbapenemase-producing Enterobacteriaceae. In this study,
+travel itself was associated with a 21% rate of colonization by
+extended spectrum β -lactamase-producing Enterobacteriacceae, but remarkably 80% of travelers who self-medicated with
+antibiotics became colonized with these microorganisms, raising
+the possibility that this might contribute to the spread of resistant
+intestinal bacteria to the population at large in developed countries (147). Changes in one’s gut microbiota might have consequences with respect to an individual’s susceptibility to infection
+or postinfectious consequences of intestinal infection as well, but
+this is speculative at present (148). At present, the risk of acquired
+extended spectrum β -lactamase on the individual and community vs. the potential negative consequences of untreated TD has
+raised awareness and interest in the development of more data to
+inform management decisions.
+The evidence is strong for anti-microbial treatment of specific
+parasitic causes of acute diarrheal infection such as metronidazole,
+tinidazole, or nitazoxanide for Giardia infections, metronidazole
+or tinidazole for Entameba histolytica, nitazoxanide for Cryptosporidiosis, trimethoprim/sulfamethoxasole for Cyclosporiasis or
+Cystisosporiasis, albendazole for Enterocyotzooan bienusi, or iodoquinol for Diemtameba fragilis (149–155). With the advent of new
+molecular diagnostics, more specific diagnoses including parasitic
+etiologies may be made more promptly, guiding the targeted use of
+anti-microbial therapy (both agent and duration of treatment) to
+match a specific pathogen.
+
+EVALUATION OF PERSISTING SYMPTOMS
+Recommendations
+
+11. Serological and clinical lab testing in individuals with persistent diarrheal symptoms (between 14 and 30 days) is not
+recommended. (Strong recommendation, very low level of
+evidence)
+The American Journal of GASTROENTEROLOGY
+
+611
+
+612
+
+Riddle et al.
+
+12. Endoscopic evaluation is not recommended in individuals
+with persisting symptoms (between 14 and 30 days) and
+negative stool work-up. (Strong recommendation, very low
+level of evidence)
+Downloaded from http://journals.lww.com/ajg by BhDMf5ePHKav1zEoum1tQfN4a+kJLhEZgbsIHo4XMi0hCywCX1AWn
+YQp/IlQrHD3i3D0OdRyi7TvSFl4Cf3VC4/OAVpDDa8K2+Ya6H515kE= on 12/17/2024
+
+Summary of evidence
+
+In the evaluation of the patient with persistent symptoms, a thorough and directed history is essential. Relevant questions would
+include travel history, the nature of the initial symptoms, onset
+(sudden or gradual), duration, frequency and characteristics of
+bowel movements (particularly the presence of blood or mucus),
+stool volume, tenesmus, pattern, association with particular
+foods, use of antibiotics, and the presence or absence of other
+associated symptoms such as nausea, vomiting, incontinence,
+fever, and weight loss. The answers to these questions may direct
+further investigations (156).
+Among patients with persistent symptoms (between 14 and
+30 days), the role of clinical laboratory studies and endoscopy
+is uncertain and should be dictated by clinical suspicion and
+disease severity, within the context of most likely etiologies. An
+initial diagnostic evaluation in the patient with persistent symptoms should include tests for the presence of microbial pathogens.
+Although stool culture and microscopy remain the initial diagnostic tests, they both suffer from limitations that may be addressed
+by newer diagnostic methods. Even some of the newer methods,
+such as enzyme-linked immunoassays and direct immunofluorescence staining, which increase sensitivity, may not be able to distinguish, e.g., between the pathogen Entamoeba histolytica and a
+non-pathogenic but microscopically indistinguishable Entamoeba
+dispar. (157). Singleplex and multiplex PCR assays for the detection of enteric microbial pathogens are more sensitive than culture,
+microscopy, or antigen detection (158–160). In one study describing a real-time PCR assay designed to detect Giardia intestinalis,
+the lower limit of detection was as little as 102 spores per ml of
+stool as opposed to microscopy, which required >106 spores per ml
+of stool (161).7 One study showed using PCR methods resulted in
+a 22-fold increase in the detection of Cryptosporidium and Giardia
+compared with conventional microscopy (162). Colonoscopy
+has been considered in the evaluation of the patient with persistent diarrhea. In a recent study looking at the diagnostic value
+of endoscopy for the diagnosis of giardiasis or other intestinal
+diseases in patients with persistent diarrhea returning from tropical
+or subtropical areas, lower endoscopy (colonoscopy or sigmoidoscopy) yielded relevant diagnoses more often than upper endoscopy (163). This study, however, suffers from a small sample size
+insofar as only 31 patients with persistent diarrhea were examined and thus the additional value of such procedures cannot be
+recommended. In certain clinical situations such as postantibiotic
+or hospital-acquired gastrointestinal illness, testing for Clostridium
+difficile may be recommended, as well as additional serologic and
+clinical laboratory testing including a complete blood count, which
+may be helpful in informing an infectious cause in the absence of
+revealing stool studies.
+While not considered in these guidelines, the work-up of
+chronic diarrhea is briefly considered and should include the
+The American Journal of GASTROENTEROLOGY
+
+differential diagnoses such as celiac disease, Crohn’s disease, eosinophilic gastroenteritis, and Whipple’s disease. Gastrointestinal
+endoscopy and relevant serological assays may contribute to the
+diagnosis and management if sustained or progressive weight loss
+is a prominent feature, and upper endoscopy may be considered,
+especially if empiric therapy and symptomatic measures have not
+helped. Mucosal biopsies are recommended even when the endoscopic appearance is normal. The diagnostic yield of colonoscopy
+in patients ranges from 7 to 32%, with IBD and microscopic colitis being the most common diagnoses (164–169). It has also been
+seen that colonoscopy yields a noninfectious diagnosis more often
+than upper endoscopy (170–172). A review of 18 primary studies looking at the diagnostic value of colonoscopy in patients with
+chronic diarrhea, as well as a review of nine published guidelines
+provides the basis for a colonoscopy recommendation in such
+patients (165,167,168,173–186).
+In the situation of chronic diarrhea and abdominal symptoms
+occurring after a bout of infectious diarrhea, a diagnosis of postinfectious irritable bowel syndrome must be considered (187).
+Postinfectious irritable bowel syndrome requires a paradigm shift:
+an external event, in this case a gastrointestinal infection, leads to
+prolonged and permanent changes in gastrointestinal function,
+which do not appear to be directly mediated by the persistence
+of an infectious agent. There appears to be a physiologic basis
+for the apparent failure to downregulate intestinal inflammation
+but there are no commercially available serologic or other diagnostic tests to confirm and the diagnosis rests on using conventional criteria such as Rome III in patients who have been sick with
+gastroenteritis or TD.
+
+PREVENTION
+Counseling
+
+Recommendations
+13. Patient level counseling on prevention of acute enteric infection is not routinely recommended but may be considered
+in the individual or close-contacts of the individual who is at
+high risk for complications. (Conditional, very low level of
+evidence)
+14. Individuals should undergo pretravel counseling regarding
+high risk food/beverage avoidance to prevent TD. (Conditional, very low level of evidence)
+Summary of evidence. Non-travel setting: One in six US citizens
+get sick from a foodborne illness each year, and a majority of these
+illness will be from contaminated food consumed in the United
+States (e.g., non-travel associated) (1,2). Food safety is a major
+public health effort that involves multiple Federal, State, and
+local agencies including the Food and Drug Administration, US
+Department of Agriculture, US Food Inspection Service, and state
+and local health departments, all of which focus on the potential
+risks for large outbreaks associated with centralization of food
+processing and reliance on imported foods. However, to reduce
+the burden of disease the responsibility of foodborne prevention must not only include the producers on the farm, packaging
+VOLUME 111 | MAY 2016 www.amjgastro.com
+
+Clinical Guideline: Acute Diarrheal Infections
+
+Downloaded from http://journals.lww.com/ajg by BhDMf5ePHKav1zEoum1tQfN4a+kJLhEZgbsIHo4XMi0hCywCX1AWn
+YQp/IlQrHD3i3D0OdRyi7TvSFl4Cf3VC4/OAVpDDa8K2+Ya6H515kE= on 12/17/2024
+
+industries, stores, and restaurants but also penetrate down to the
+individuals in the home who are buying and preparing food—the
+last step in the chain of foodborne illness prevention.
+The intervention of improving food preparation in the home
+has not been systematically studied. The Centers for Disease
+Control has recently responded through launching a new consumer food safety campaign to educate the public on the simple
+message of clean, separate, cook, chill, and report. No recommendations on counseling by providers have been provided. No
+recommendations on counseling by providers have been recommended. However, for vulnerable patient populations who are
+at increased risk for severe disease and complications associated
+with acute foodborne illness, including pregnant women, elderly,
+and those with immune deficiency due to HIV or immunotherapeutic, situational individual patient level counseling may
+be appropriate.
+Traveler setting: In the realm of travel medicine, Shlim reviewed
+the evidence for the effectiveness of personal hygiene precautions
+in prevention of TD (188). In the eight studies identified in this
+2005 review, seven found no correlation between the types of
+food selected by the traveler and the risk of acquiring traveler’s
+diarrhea, whereas one showed a correlation between a few
+dietary lapses. The summary from this review provides the basis
+for current recommendations where it was stated, “The sum total
+of these errors leads to abundant opportunities for the spread
+of enteric pathogens, whether from employees’ hands, flies, or
+contaminated meat and produce, with ample time available for
+bacterial growth to reach infective levels. One could postulate
+that “boil it, cook it, peel it, or forget it” would be good advice to
+someone who was purchasing and preparing their own food in a
+sanitized kitchen but that it is inadequate for travelers faced with
+the multiplicity of hygienic errors found in the kitchens of many
+destination countries”.
+Subsequent to this review there have been few studies reported
+on this topic. A recent report among travelers who attended a travel
+clinic before travel (‘exposed’) and travelers to similar regions but
+did not attend travel clinic (‘non-exposed’) was reported (189). In
+this study, 13 (4.3%) of those interviewed reported drinking unsafe
+water and this proportion was similar in those who attended or did
+not attend travel clinic before travel (exposed (n=7/150, 4.6%) and
+non-exposed subjects (n=6/150; 4%) (P=0.78)). Forty-five (15%) of
+enrolled subjects ate some food with elevated risk of traveler’s diarrhea (such as raw fruit or vegetables, drink with ice or ice cream);
+this proportion was higher in the non-exposed people (n=36/150;
+24%) than in the people attending the Travel Clinic (n=9/150; 6%)
+(P<0.0001). Fifty (16.7%) reported diarrhea or gastrointestinal
+symptoms, 9 (6%) in the group of exposed subjects and 41 (27.3%)
+in the non-exposed group (P<0.0001), suggesting some effect of
+pretravel counseling, although there could have been other factors
+related to the self-selection of exposed (more cautious given their
+seeking out of pretravel counseling) and non-exposed travelers,
+which could explain these differences.
+In summary, the evidence of counseling effectiveness on TD risk
+reduction related to food and water indiscretion is mixed and lacks
+recent high-quality studies.
+© 2016 by the American College of Gastroenterology
+
+Hand washing
+
+Recommendation
+15. Frequent and effective hand washing and alcohol-based hand
+sanitizers are of limited value in preventing most forms of
+traveler’s diarrhea but may be useful where low-dose pathogens are responsible for the illness as for an example during
+a cruise ship outbreak of norovirus infection, institutional
+outbreak, or in endemic diarrhea prevention. (Conditional
+recommendation, low level of evidence)
+Summary of evidence. Traveler setting: The evidence of hand
+washing and use of alcohol-based hand sanitizers in preventing TD is mixed. Theoretically, they would be most effective in
+prevention of enteric infection caused by pathogens causing
+illness at low inoculum doses. Enteric pathogens can be divided
+into three categories based on expected dose necessary to cause
+diarrhea. The most contagious enteric pathogens are noroviruses
+and Shigella strains (190) because of low inoculum requirements plus stability in the environment (191). Hand washing
+should be effective in reducing these highly communicable
+pathogens and should be aggressively pursued in settings where
+one of these is likely to occur, e.g., during cruise-ship travel or
+in a community or institutional outbreak due to one of these
+pathogens.
+The expected dose for the diarrheagenic E. coli strains, the most
+common causes of TD, is high in the level of one million bacteria
+or higher (192,193) with the infections nearly always a result
+of ingestion of contaminated foods where food has been
+improperly handled allowing propagation of the pathogen to
+diarrhea-causing levels. Effective hand washing or regular use of
+alcohol-based hand sanitizers could well be useful in preventing
+TD if thoroughly pursued by persons preparing food eaten by
+other travelers, but is unlikely to impact when done by the person
+consuming the contaminated food.
+For cruise travelers regular hand washing can be useful in case
+there is apparent or inapparent transmission of norovirus infection. Alcohol-based hand sanitizers often have anti-viral properties
+(194), although in one study hand washing with soap and water
+was effective in removing norovirus from hands, while alcoholbased hand sanitizers were not (195). In a retrospective survey of
+protective measures against TD, regular use of alcohol hand sanitizers did not appear to offer any protection against either diarrhea
+or respiratory tract infection in travelers (196). Again, this lack of
+prevention of TD probably relates to the high inoculum requirements of the common forms of infection. This is in contrast to the
+established value of hand washing in preventing endemic pediatric diarrhea in developing regions where lower inoculum pathogens are common (197,198). In developing regions the presence
+of soap in homes is associated with reduced diarrhea rates in local
+populations living in unhygienic areas (199). Alcohol-based hand
+disinfectant use in a public setting in Germany did provide protection against respiratory and diarrheal illness in a randomized study
+in local non-traveling inhabitants (200). Hygiene including hand
+washing undoubtedly has a greater effect in preventing diarrhea
+in wilderness backpackers (201) who may have exposures more
+The American Journal of GASTROENTEROLOGY
+
+613
+
+614
+
+Riddle et al.
+
+resembling endemic settings in the developing world than those
+seen with typical travelers staying in clean hotels.
+Prophylaxis
+Downloaded from http://journals.lww.com/ajg by BhDMf5ePHKav1zEoum1tQfN4a+kJLhEZgbsIHo4XMi0hCywCX1AWn
+YQp/IlQrHD3i3D0OdRyi7TvSFl4Cf3VC4/OAVpDDa8K2+Ya6H515kE= on 12/17/2024
+
+Recommendations
+16. Bismuth subsalicylates have moderate effectiveness and may
+be considered for travelers who do not have any contraindications to use and can adhere to the frequent dosing requirements. (Strong recommendation, high level of evidence)
+17. Probiotics, prebiotics, and synbiotics for prevention of
+traveler’s diarrhea are not recommended. (Conditional
+recommendation, low level of evidence)
+18. Antibiotic chemoprophylaxis has moderate to good effectiveness and may be considered in high-risk groups for shortterm use. (Strong recommendation, high level of evidence)
+Summary of evidence. Traveler setting: Prevention of TD is
+challenging because of the ubiquitous exposures to individuals through contaminated food, water, and generally unhygienic
+conditions among much of the developing world. Travelers are
+frequently counseled on preventive risk behaviors, but despite
+a traveler’s best attention to such recommendations, evidence is
+lacking that such precautions have any protective effect (188).
+Although vaccines for many of the agents commonly associated
+with TD are under development, these are considered a long-term
+solution and might likely suffer from the lack of utilization as has
+been seen with most travel-associated vaccines (202–206). Alternative primary prevention strategies such as BSS, probiotics, and
+antibiotics have been evaluated and are considered here.
+Bismuth subsalicylate. BSS has been shown in several studies to
+reduce the frequency of TD when used during period of risk for
+3 weeks (207–209). While the salicylate portion of the drug provides antidiarrheal effects, it is the bismuth moiety that is active
+when the molecule is used for chemoprophylaxis (210). BSS and
+the bismuth reaction products found in the gut have dose-responsive activity against bacteria (211) and anti-viral properties (212).
+The drug provides at least 60% protection in a dose of 2.1 g per day
+(207,208). The recommended dose of BSS for TD prevention is
+two tablets four daily doses at mealtimes and at bedtime. Both the
+dose and the interval of administration appear to be important as
+2.1 and 1.05 g given two times a day led to reduced levels of protection, 41% and 35%, respectively (209). The chemoprophylactic
+dose of BSS leads to important absorption of salicylate and should
+not be used when other salicylates are being taken. BSS does not
+have the damaging effects on gastric mucosa as acetyl salicylic
+acid effects and, in fact, has intestinal mucosa-cytoprotective effects (213,214).
+BSS use has been shown to reduce the occurrence of TD if taken
+in proper daily dose for up to 3 weeks. Most authorities recommend that chemoprophylaxis could be used for trips up to 2 weeks
+(215). Chemoprophylaxis should not be used for longer trips.
+Future travelers planning to use BSS chemoprophylaxis need to
+be warned that during administration of the drug their stools and
+tongues will turn black and that this harmless bismuth sulfide salt
+The American Journal of GASTROENTEROLOGY
+
+is of no medical concern. Persons with underlying inflammatory
+bowel disease or HIV infection should not receive BSS because of
+the fear of excessive absorption of this generally poorly absorbed
+bismuth compound leading to bismuth encephalopathy (216).
+Probiotic/prebiotic/synbiotics. The use of probiotics, prebiotics,
+and synbiotics to prevent acute diarrheal infection is an appealing
+concept because of their ease of use and relative safety. The data,
+however, supporting their use in preventing infectious diarrhea
+is not consistently strong and at this point we do not recommend
+them for this purpose
+The preventive role of probiotics, prebiotics, and synbiotics in
+acute diarrheal infection in adults is limited to studies in prospective travelers (217–226). There are no published studies in the setting of community-acquired diarrhea, in the outbreak setting for
+example. Available studies suffer from variability in age groups,
+setting, causes of acute diarrhea, and probiotic strains. Although
+most of the trials are of adequate quality, limitations include short
+follow-up and not estimating person-time analysis. There were also
+large variations in the dosage of probiotics, frequency of administration, and formulations used. Further variation was seen with
+regard to timing and administration of these preparations relative
+to a number of factors including travel and concurrent treatment
+with anti-microbials (217). Although two meta-analyses suggest a
+marginal benefit of probiotics in prevention of TD, both suggest
+there is insufficient evidence for extrapolation to global recommendations for their use (217,218).
+Probiotics. In the past three decades, trials investigating the effects of probiotics in the prevention of TD have demonstrated
+varying results (219). In one of the earlier studies, Enterococcus
+faecium did not prevent TD. In a study by the same group, Saccharomyces boulardii given to 3,000 Austrian travelers in a placebocontrolled manner resulted in a clinically modest dose-dependent
+benefit in TD prevention, effects were most impressive in travelers
+to North Africa and Turkey (220). In a study of 756 Finnish travelers to two separate destinations in Turkey, a 41% diarrhea attack
+rate was noted in the Lactobacillus GG group vs. 46.5% in the placebo group, a very modest difference. However, the rate of protection was 39.5% at one location and almost nil at the other location
+(221). In a US study of 245 travelers to various destinations those
+taking Lactobacillus GG experienced a 3.9% incidence of diarrhea
+per day at risk vs. 7.4% in the placebo group. Using this novel
+approach to protective efficacy, they calculated a protection rate
+of 47% (222). Lactobacillus bulgaricus as well as Lactobacillus fermentum preparations were found to be ineffective in preventing
+TD (223,224) and there was no beneficial effect seen with a nonviable formulation of Lactobacillus acidophilus in the prevention of
+TD in a randomized placebo-controlled trial in travelers to West
+Africa and other destinations (227).
+Prebiotics and synbiotics. Early work showed the prebiotic
+Lactulose reduced intestinal carriage of Shigella but was ineffective in treating Shigella infections (228). In a small study of
+42 adult patients traveling to tropical countries (22 in the study
+VOLUME 111 | MAY 2016 www.amjgastro.com
+
+Clinical Guideline: Acute Diarrheal Infections
+
+Downloaded from http://journals.lww.com/ajg by BhDMf5ePHKav1zEoum1tQfN4a+kJLhEZgbsIHo4XMi0hCywCX1AWn
+YQp/IlQrHD3i3D0OdRyi7TvSFl4Cf3VC4/OAVpDDa8K2+Ya6H515kE= on 12/17/2024
+
+group, 20 in the placebo group), the use of sodium butyrate and
+short-chain fatty acids as a prebiotic was evaluated for the prevention of TD (229). Noted was a significant reduction in the occurrence of TD in the prebiotic group (4.5%) vs. 40% in the placebo
+group. Sodium butyrate has been established in animal studies
+as a regulator of the intestinal environment. Limitations of the
+study included sample size and lack of diversity among the travelers. A double-blind, placebo-controlled trial of a novel galactooligosaccharide mixture in 159 healthy travelers to countries
+of low and high risk for TD showed a significant reduction in
+diarrhea in the prebiotic group as compared with those who
+consumed placebo (maltodextrin) (225). This particular formulation was studied because of earlier work showing this agent
+increased bifidobacferium numbers in the colonic content of
+piglets and inhibited the attachment of enterohepatic E. coli and
+Salmonella enterica Typhimurium to HT29 cells in vitro (230).
+A randomized, double-blind, placebo-controlled trial of an oral
+synbiotic AKSB, a combination of two probiotics (Enterococcus
+faecium and S. cervisiae) and a prebiotic (fructo-oligosaccharide),
+failed to show benefit (226).
+For probiotics, prebiotics, and synbiotics alike the challenge has
+been to find the right formulation or combination for the right
+condition or individual. Mirroring the use of these agents in other
+gastrointestinal diseases, a more thorough knowledge of the host
+microbiome might be necessary before appropriate trials can be
+designed using specific agents for prevention.
+Antibiotics. Anti-microbial prophylaxis has been considered an
+option to prevent infection. In 1985 issues surrounding prophylaxis were debated during an NIH-sponsored consensus meeting, which concluded that routine antibiotic chemoprophylaxis
+should not be used because of concerns about the development of
+antibiotic resistance, the demonstrated efficacy of empiric therapy
+after the development of symptoms, and the potential for unnecessary side effects (231). Since that meeting, studies that have
+examined the cost benefit of chemoprophylaxis for the prevention of TD have recommended against prophylaxis except in
+high-risk groups (232,233). While debate continues, the standard
+practice and recommendation has remained unchanged for 20
+years (234–236).
+Two recent developments are challenging the general recommendation against use of chemoprophylaxis. First, postinfectious
+irritable bowel syndrome has been recognized as an important
+chronic health consequence, occurring in a sizeable proportion of
+those who experience an episode of TD, particularly among those
+with bacterial infection and a more severe clinical presentation
+(237–239). Second, rifaximin, a non-absorbable antibiotic, has
+been developed and may provide a safer alternative for prophylaxis than fluoroquinolones, which are known to be quite effective
+but may have an unacceptable safety profile. The high volume of
+international travel and, consequently, the high number of people
+at risk for acquiring TD, postinfectious irritable bowel syndrome
+and other postinfectious chronic health conditions, creates a
+potentially large burden of illness that could be prevented with
+the use of safe and effective chemoprophylaxis. However, safety
+© 2016 by the American College of Gastroenterology
+
+concerns associated with antibiotic use, of any class, is an important consideration.
+A recent systematic review summarized several studies showing a comparative advantage of antibiotic chemoprophylaxis for
+the prevention of TD (240). Four rifaximin studies included in
+the meta-analysis had a total of 604 subjects. One of those studies
+(DuPont et al. (241)) had three treatment arms (rifaximin 200 mg
+dosed once, two and three times a day) and one control arm
+(placebo dosed three times a day). There was no observed significant difference of risk reduction among dosing regimens in the
+Dupont et al. study, and the overall pooled DerSimonian and Laird
+effect (relative risk) estimate for all studies combined was 0.33
+(95% CI: 0.24–0.45), equating to a protective efficacy of 67% (95%
+CI: 55–76%) favoring chemoprophylaxis (heterogeneity χ2=3.09,
+P=0.377; I2=3.1%). In terms of absolute risk reduction, pooled
+DerSimonian and Laird summary estimates found that rifaximin
+chemoprophylaxis decreased TD attack rates by a mean of 22.1%
+(95% CI: 6.3–37.9%) equating to a number needed to treat of 4.5
+(95% CI: 2.6–15.9). With respect to rifaximin chemoprophylaxis,
+two studies (Armstrong et al. (242) and Flores et al. (243)) did not
+show that chemoprophylaxis with rifaximin reached a statistically
+significant difference in preventing TD compared with placebo
+(242,243). In both studies the incidence of TD in the control group
+was relatively low (8/48 or 17% and 9/47 or 19%, respectively),
+which could have explained the findings given sample size calculations were based on the expected incidence of TD to be 40%, and
+thus recruitment may have been too small to detect the true effect
+of rifaximin in preventing TD. Most recently, an effectiveness study
+by Zanger et al. (244) reported moderate protection with rifaximin
+for up to 28 days to the South and Southeast Asian regions (244).
+Efficacy was noted to be higher in travelers to countries in South
+Asia (65%, 95% CI: 15–77) compared with Southeast Asia, which
+is likely attributed to differential (invasive) pathogen distributions
+(no microbiology was conducted in the study). However, a study by
+Taylor et al. (245) suggests that rifaximin may be effective against
+shigellosis, which is a common invasive TD pathogen (and also
+associated with chronic health complications) (246). There were
+no serious adverse drug-associated safety adverse events reported
+among these published studies.
+While no recent studies have been conducted, floroquinolones
+consistently demonstrate a higher effectiveness in the prevention
+of TD with a summary pooled estimate of 88% (95% CI: 80–93%)
+protective efficacy (240). The emergence of fluoroquinolone resistance to commonly encountered TD pathogens may be a factor
+today if these studies were replicated (139,247,248). Furthermore,
+relative to rifaximin, the safety profile for floroquinolones is less
+favorable given the association with tendonopathies and the systemic broad-spectrum nature of this antibiotic with attendant
+pressures on systemic drug-resistant pathogens of importance
+(132).
+The evidence to date suggests moderate to good efficacy of
+rifaximin and floroquinolones for chemoprophylaxis. However, until such studies are carried out, which adequately assess
+the risk and benefits of this strategy in reduction of acute and
+chronic consequences while balance the negative consequences
+The American Journal of GASTROENTEROLOGY
+
+615
+
+616
+
+Riddle et al.
+
+Downloaded from http://journals.lww.com/ajg by BhDMf5ePHKav1zEoum1tQfN4a+kJLhEZgbsIHo4XMi0hCywCX1AWn
+YQp/IlQrHD3i3D0OdRyi7TvSFl4Cf3VC4/OAVpDDa8K2+Ya6H515kE= on 12/17/2024
+
+of antibiotic use, recommendations for use in the traveler setting
+should be restrictive and used in short durations. The traveler
+who is at high risk for TD and susceptible to potentially serious
+health consequences, or whose illness may critically impact the
+intended purpose of travel, may benefit from antibiotic chemoprophylaxis.
+
+REFERENCES
+1.
+2.
+3.
+
+4.
+
+ACKNOWLEDGMENTS
+This guideline was produced in collaboration with the Practice
+Parameters Committee of the American College of Gastroenterology. The Committee gives special thanks to Ganesh R. Veerappan,
+who served as guideline monitor for this document. We thank
+the Cornell University reference librarian, Kevin Pain, for his
+assistance and expertise in conducting the systematic review of
+the literature and providing articles. We also are grateful to Lauren
+Gerson for her support and direction in the development of this
+guideline.
+
+5.
+6.
+7.
+
+8.
+9.
+
+10.
+
+CONFLICT OF INTEREST
+
+Guarantor of the article: Mark S. Riddle, MD, DrPH.
+Specific author contributions: All authors had an equal role in
+reviewing the literature, developing the recommendations, critically
+appraising the evidence, and drafting the manuscript. All authors
+have approved the final draft submitted.
+Financial support: No financial support was received by any of the
+authors for development of these guidelines.
+Potential competing interests (past 2 years): Mark S. Riddle—Salix
+Pharmaceuticals (research support and participated on advisory
+boards), Romark (advisory board participant), Janssen Pharmaceuticals (cooperative research and development agreement), Prometheus
+Laboratories (cooperative research and development agreement);
+Takeda Vaccines (advisory board and cooperative research and
+development agreement); LimmaTech Biologics (cooperative
+research and development agreement); Herbert L. DuPont—Salix
+Pharmaceuticals (participated on advisory boards), PaxVax (DSMB
+Board member), Romark (advisory board), GSK (consultant and
+grant support through university), Sanofi Pasteur (grant support
+through university), Takeda (grant support through university); Seres
+Health (grant support through university); Bradley A. Connor—Salix
+Pharmaceuticals (advisory board participant), PaxVax (speaker’s
+bureau), Romark (advisory board participant).
+Copyright statement: One of the authors (Mark S. Riddle) is an
+employee of the U.S. Government and is a military service member.
+This work was prepared as part of official duties. Title 17 U.S.C. §105
+provides that “Copyright protection under this title is not available
+for any work of the United States Government”. Title 17 U.S.C. §101
+defines a U.S. Government work as a work prepared by a military
+service member or employee of the U.S. Government as part of that
+person’s official duties.
+DISCLAIMER
+
+The views expressed in this article do not necessarily reflect the
+official policy or position of the Department of the Navy, Department of Defense, nor the US Government. This is a partial US
+Government work. There are no restrictions on its use.
+The American Journal of GASTROENTEROLOGY
+
+11.
+12.
+
+13.
+14.
+
+15.
+16.
+
+17.
+
+18.
+
+19.
+
+20.
+21.
+
+22.
+23.
+24.
+25.
+26.
+
+27.
+28.
+29.
+
+Scallan E, Griffin PM, Angulo FJ et al. Foodborne illness acquired in the
+United States—unspecified agents. Emerg Infect Dis 2011;17:16–22.
+Scallan E, Hoekstra RM, Angulo FJ et al. Foodborne illness acquired in
+the United States—major pathogens. Emerg Infect Dis 2011;17:7–15.
+Surawicz CM, Brandt LJ, Binion DG et al. Guidelines for diagnosis, treatment, and prevention of Clostridium difficile infections. Am J Gastroenterol 2013;108:478–98.quiz 499.
+DuPont HL. Guidelines on acute infectious diarrhea in adults. The Practice Parameters Committee of the American College of Gastroenterology.
+Am J Gastroenterol 1997;92:1962–75.
+Guerrant RL, Van Gilder T, Steiner TS et al. Practice Guidelines for the
+Management of Infectious Diarrhea. Clin Infect Dis 2001;32:331–51.
+Farthing M, Salam MA, Lindberg G et al. Acute diarrhea in adults and
+children: a global perspective. J Clin Gastroenterol 2013;47:12–20.
+Gross PA, Barrett TL, Dellinger EP et al. Purpose of quality standards for
+infectious diseases.Infectious Diseases Society of America. Clin Infect Dis
+1994;18:421.
+Atkins D, Best D, Briss PA et al. Grading quality of evidence and strength
+of recommendations. BMJ 2004;328:1490.
+Imhoff B, Morse D, Shiferaw B et al. Burden of self-reported acute diarrheal
+illness in FoodNet surveillance areas, 1998-1999. Clin Infect Dis 2004;
+38:Suppl 3 S219–S226.
+Cantwell LB, Henao OL, Hoekstra RM et al. The effect of different recall
+periods on estimates of acute gastroenteritis in the United States, FoodNet
+Population Survey 2006–2007. Foodborne Pathog Dis 2010;7:1225–8.
+Roy SL, Scallan E, Beach MJ. The rate of acute gastrointestinal illness in
+developed countries. J Water Health 2006;4:Suppl 2 31–69.
+US Department of Commerce. 2014 US Travel and Tourism Statistics (US
+Resident Outbound), Monthly US Outbound Air Travel to International Regions. Available at: http://travel.trade.gov/view/m-2014-O-001/14outbound.xls,
+National Travel and Tourism Office (NTTO); 2014 last accesed 1 March 2015.
+Steffen R, Hill DR, DuPont HL. Traveler’s diarrhea: a clinical review.
+JAMA 2015;313:71–80.
+Ford AC, Thabane M, Collins SM et al. Prevalence of uninvestigated
+dyspepsia 8 years after a large waterborne outbreak of bacterial dysentery:
+a cohort study. Gastroenterology 2010;138:1727–36.quiz e12
+Mearin F. Postinfectious functional gastrointestinal disorders. J Clin
+Gastroenterol 2011;45:S102–S105.
+Mearin F, Perello A, Balboa A et al. Pathogenic mechanisms of postinfectious functional gastrointestinal disorders: results 3 years after gastroenteritis. Scand J Gastroenterol 2009;44:1173–85.
+Porter CK, Gloor K, Cash BD et al. Risk of functional gastrointestinal
+disorders in U.S. military following self-reported diarrhea and vomiting
+during deployment. Dig Dis Sci 2011;56:3262–9.
+Porter CK, Gormley R, Tribble DR et al. The incidence and gastrointestinal infectious risk of functional gastrointestinal disorders in a healthy US
+adult population. Am J Gastroenterol 2011;106:130–8.
+Tuteja AK, Talley NJ, Gelman SS et al. Development of functional
+diarrhea, constipation, irritable bowel syndrome, and dyspepsia during
+and after traveling outside the USA. Dig Dis Sci 2008;53:271–6.
+Raja MK, Ghosh AR. Laribacter hongkongensis: an emerging pathogen of
+infectious diarrhea. Folia Microbiol 2014;59:341–7.
+Hoffmann S, Batz MB, Morris JGJr. Annual cost of illness and qualityadjusted life year losses in the United States due to 14 foodborne pathogens. J Food Prot 2012;75:1292–302.
+Scharff RL. Economic burden from health losses due to foodborne illness
+in the United States. J Food Prot 2012;75:123–31.
+Minor T, Lasher A, Klontz K et al. The per case and total annual costs of
+foodborne illness in the United States. Risk Anal 2015;35:1125–39.
+Braden CR, Tauxe RV. Emerging trends in foodborne diseases. Infect Dis
+Clin N Am 2013;27:517–33.
+Glass K, Ford L, Kirk MD. Drivers of uncertainty in estimates of foodborne gastroenteritis incidence. Foodborne Pathog Dis 2014;11:938–44.
+Caliendo AM, Gilbert DN, Ginocchio CC et al. Better tests, better care:
+improved diagnostics for infectious diseases. Clin Infect Dis 2013;
+57:Suppl 3 S139–S170.
+Jones TF, Scallan E, Angulo FJ. FoodNet: overview of a decade of
+achievement. Foodborne Pathog Dis 2007;4:60–6.
+Donnenberg MS, Narayanan S. How to diagnose a foodborne illness.
+Infect Dis Clin N Am 2013;27:535–54.
+DuPont HL, Ericsson CD, Farthing MJ et al. Expert review of the evidence
+base for self-therapy of travelers’ diarrhea. J Travel Med 2009;16:161–71.
+
+VOLUME 111 | MAY 2016 www.amjgastro.com
+
+Clinical Guideline: Acute Diarrheal Infections
+
+Downloaded from http://journals.lww.com/ajg by BhDMf5ePHKav1zEoum1tQfN4a+kJLhEZgbsIHo4XMi0hCywCX1AWn
+YQp/IlQrHD3i3D0OdRyi7TvSFl4Cf3VC4/OAVpDDa8K2+Ya6H515kE= on 12/17/2024
+
+30. Shah N, DuPont HL, Ramsey DJ. Global etiology of travelers’ diarrhea:
+systematic review from 1973 to the present. Am J Trop Med Hyg 2009;80:
+609–14.
+31. Mattila L. Clinical features and duration of traveler’s diarrhea in relation
+to its etiology. Clin Infect Dis 1994;19:728–34.
+32. Humphries RM, Linscott AJ. Laboratory diagnosis of bacterial gastroenteritis. Clin Microbiol Rev 2015;28:3–31.
+33. Lee HM, Lee S, Lee BI et al. Clinical significance of fecal lactoferrin and
+multiplex polymerase chain reaction in patients with acute diarrhea. Gut
+Liver 2014;23:636–40.
+34. Libman MD, Gyorkos TW, Kokoskin E et al. Detection of pathogenic
+protozoa in the diagnostic laboratory: result reproducibility, specimen
+pooling, and competency assessment. J Clin Microbiol 2008;46:2200–5.
+35. Glass RI, Parashar UD, Estes MK. Norovirus gastroenteritis. N Engl J Med
+2009;361:1776–85.
+36. Raich TJ, Powell S. The changing landscape of diagnostic testing for
+diarrheal disease. Med Lab Obs 2014;46:36–38.
+37. Dunbar SA. Molecular revolution entering GI diagnostic testing. Med Lab
+Obs 2013;45:28.
+38. Goldenberg SD, Bacelar M, Brazier P et al. A cost benefit analysis of the
+Luminex xTAG Gastrointestinal Pathogen Panel for detection of infectious gastroenteritis in hospitalised patients. J Infect 2015;70:504–11.
+39. Drancourt M. Multiplex testing of diarrhoea breaks down microbial
+barriers. Lancet Infect Dis 2014;14:663–4.
+40. Beckmann C, Heininger U, Marti H et al. Gastrointestinal pathogens
+detected by multiplex nucleic acid amplification testing in stools of
+pediatric patients and patients returning from the tropics. Infection
+2014;42:961–70.
+41. Halligan E, Edgeworth J, Bisnauthsing K et al. Multiplex molecular testing
+for management of infectious gastroenteritis in a hospital setting: a
+comparative diagnostic and clinical utility study. Clin Microbiol Infect
+2014;20:O460–O467.
+42. Cheun HI, Chung BS, Ma DW et al. Development of a diagnostic kit to
+detect Cryptosporidium parvum and Giardia lamblia. Osong Public Health
+Res Perspect 2013;4:146–51.
+43. Saigal K, Khurana S, Sharma A et al. Comparison of staining techniques
+and multiplex nested PCR for diagnosis of intestinal microsporidiosis.
+Diagn Microbiol Infect Dis 2013;77:248–9.
+44. Antikainen J, Kantele A, Pakkanen SH et al. A quantitative polymerase
+chain reaction assay for rapid detection of 9 pathogens directly from
+stools of travelers with diarrhea. Clin Gastroenterol Hepatol 2013;11:
+1300–7.e3.
+45. McAuliffe GN, Anderson TP, Stevens M et al. Systematic application of
+multiplex PCR enhances the detection of bacteria, parasites, and viruses
+in stool samples. J Infect 2013;67:122–9.
+46. Liu J, Kibiki G, Maro V et al. Multiplex reverse transcription PCR Luminex
+assay for detection and quantitation of viral agents of gastroenteritis. J Clin
+Virol 2011;50:308–13.
+47. Buchan BW, Olson WJ, Pezewski M et al. Clinical evaluation of a realtime PCR assay for identification of Salmonella, Shigella, Campylobacter
+(Campylobacter jejuni and C. coli), and shiga toxin-producing Escherichia
+coli isolates in stool specimens. J Clin Microbiol 2013;51:4001–7.
+48. Gray J, Coupland LJ. The increasing application of multiplex nucleic acid
+detection tests to the diagnosis of syndromic infections. Epidemiol Infect
+2014;142:1–11.
+49. Liu Y, Xu ZQ, Zhang Q et al. Simultaneous detection of seven enteric
+viruses associated with acute gastroenteritis by a multiplexed Luminexbased assay. J Clin Microbiol 2012;50:2384–9.
+50. Platts-Mills JA, Operario DJ, Houpt ER. Molecular diagnosis of diarrhea:
+current status and future potential. Curr Infect Dis Rep 2012;14:41–6.
+51. Platts-Mills JA, Liu J, Houpt ER. New concepts in diagnostics for infectious diarrhea. Mucosal Immunol 2013;6:876–85.
+52. Van Lint P, De Witte E, De Henau H et al. Evaluation of a real-time
+multiplex PCR for the simultaneous detection of Campylobacter jejuni,
+Salmonella spp., Shigella spp./EIEC, and Yersinia enterocolitica in fecal
+samples. Eur J Clin Microbiol Infect Dis 2015;34:535–42.
+53. Verkerke HP, Sobuz SU, Petri WA Jr. Molecular diagnosis of infectious
+diarrhea: focus on enteric protozoa. Expert Rev Mol Diagn 2014;14:
+935–46.
+54. Yansouni CP, Merckx J, Libman MD et al. Recent advances in clinical
+parasitology diagnostics. Curr Infect Dis Rep 2014;16:434.
+55. Gaudreau C, Barkati S, Leduc JM et al. Shigella spp. with reduced azithromycin susceptibility, Quebec, Canada, 2012–2013. Emerg Infect Dis
+2014;20:854–6.
+
+© 2016 by the American College of Gastroenterology
+
+56. Peleg I, Givon-Lavi N, Leibovitz E et al. Epidemiological trends and
+patterns of antimicrobial resistance of Shigella spp. isolated from stool
+cultures in two different populations in Southern Israel. Diagn Microbiol
+Infect Dis 2014;78:287–91.
+57. Zhang J, Jin H, Hu J et al. Antimicrobial resistance of Shigella spp. from
+humans in Shanghai, China, 2004–2011. Diagn Microbiol Infect Dis
+2014;78:282–6.
+58. Mandal J, Sangeetha V, Nivedithadivya D et al. Characterization of
+extended-spectrum β -lactamase-producing clinical isolates of Shigella
+flexneri. J Health Popul Nutr 2013;31:405–8.
+59. Pons MJ, Gomes C, Martinez-Puchol S et al. Antimicrobial resistance in
+Shigella spp. causing traveller’s diarrhoea (1995–2010): a retrospective
+analysis. Travel Med Infect Dis 2013;11:315–9.
+60. Kansakar P, Baral P, Malla S et al. Antimicrobial susceptibilities of enteric
+bacterial pathogens isolated in Kathmandu, Nepal, during 2002–2004.
+J Infect Dev Ctries 2011;5:163–8.
+61. Howie RL, Folster JP, Bowen A et al. Reduced azithromycin susceptibility
+in Shigella sonnei, United States. Microb Drug Resist 2010;16:245–8.
+62. Wong MR, Reddy V, Hanson H et al. Antimicrobial resistance trends
+of Shigella serotypes in New York City, 2006–2009. Microb Drug Resist
+2010;16:155–61.
+63. Cronquist AB, Mody RK, Atkinson R et al. Impacts of culture-independent diagnostic practices on public health surveillance for bacterial enteric
+pathogens. Clin Infect Dis 2012;54:Suppl 5 S432–S439.
+64. Maragkoudakis S, Poulidaki SR, Papadomanolaki E et al. Empiric antimicrobial therapy and infectious diarrhea. Do we need local guidelines?
+Eur J Intern Med 2011;22:e60–e62.
+65. Sjolund Karlsson M, Bowen A, Reporter R et al. Outbreak of infections
+caused by Shigella sonnei with reduced susceptibility to azithromycin in
+the United States. Antimicrob Agents Chemother 2013;57:1559–60.
+66. Victora CG, Bryce J, Fontaine O et al. Reducing deaths from diarrhoea
+through oral rehydration therapy. Bull World Health Organ 2000;78:
+1246–55.
+67. Gangarosa RE, Glass RI, Lew JF et al. Hospitalizations involving gastroenteritis in the United States, 1985: the special burden of the disease
+among the elderly. Am J Epidemiol 1992;135:281–90.
+68. Caeiro JP, DuPont HL, Albrecht H et al. Oral rehydration therapy plus
+loperamide versus loperamide alone in the treatment of traveler's diarrhea.
+Clin Infect Dis 1999;28:1286–9.
+69. Casburn-Jones AC, Farthing MJ. Management of infectious diarrhoea.
+Gut 2004;53:296–305.
+70. Snyder JD, Molla AM, Cash RA. Home-based therapy for diarrhea.
+J Pediatr Gastroenterol Nutr 1990;11:438–47.
+71. Wendland BE, Arbus GS. Oral fluid therapy: sodium and potassium
+content and osmolality of some commercial “clear” soups, juices and
+beverages. Can Med Assoc J 1979;121:564–6.568, 571.
+72. Duggan C, Fontaine O, Pierce NF et al. Scientific rationale for a change in
+the composition of oral rehydration solution. JAMA 2004;291:2628–31.
+73. Baker LB, Jeukendrup AE. Optimal composition of fluid-replacement
+beverages. Compr Physiol 2014;4:575–620.
+74. Binder HJ, Brown I, Ramakrishna BS et al. Oral rehydration therapy in
+the second decade of the twenty-first century. Curr Gastroenterol Rep
+2014;16:376.
+75. Roberfroid MB. Prebiotics and probiotics: are they functional foods?
+Am J Clin Nutr 2000;71:1682S–1687S.discussion 1688S–90S.
+76. Dunne C, O'Mahoney L, Murphy L. In vitro selection criteria for propbiotic
+bacteria of human origin: correlation with in vivo findings. Am J Clin Nutr
+2001;73:3865–925.
+77. FAO/WHO. Joint FAO/WHO Working Group Report on Drafting Guidelines for the Evaluation of Probiotics in Food WHO: Geneva, Switzerland,
+2002.
+78. Gibson GR, Probert HM, Loo JV et al. Dietary modulation of the human
+colonic microbiota: updating the concept of prebiotics. Nutr Res Rev
+2004;17:259–75.
+79. Tojo M, Oikawa T, Morikawa Y et al. The effects of Bifidobacterium breve
+administration on Campylobacter enteritis. Acta Pediatr Jpn 2007;29:
+160–7.
+80. Saavedra JM, Bauman NA, Oung I et al. Feeding of Bifidobacterium
+bifidum and Streptococcus thermophilus to infants in hospital for prevention of diarrhoea and shedding of rotavirus. Lancet 1994;344:1046–9.
+81. Nemcova R, Bomba A, Gancarcinova S et al. Effects of the administration
+of lactobacilli, maltodextrins and fructooligosaccharides upon the adhesion of E-Coli O8: K88 to the intestinal mucosa and organic acid levels in
+the gut contents of piglets. Vet Res Commun 2007;31:791–800.
+The American Journal of GASTROENTEROLOGY
+
+617
+
+618
+
+Riddle et al.
+
+Downloaded from http://journals.lww.com/ajg by BhDMf5ePHKav1zEoum1tQfN4a+kJLhEZgbsIHo4XMi0hCywCX1AWn
+YQp/IlQrHD3i3D0OdRyi7TvSFl4Cf3VC4/OAVpDDa8K2+Ya6H515kE= on 12/17/2024
+
+82. Power SE, O'Toole PW, Stanton C et al. Intestinal microbiota, diet and
+health. Br J Nutr 2014;111:387–402.
+83. Allen SJ, Martinez EG, Gregorio GV et al. Probiotics for treating acute
+infectious diarrhoea. Cochrane Database Syst Rev 2010, CD003048.
+84. Bruno F, Frigerio G. A new therapeutic alternative for the treatment of
+enteritis—controlled double-blind tests with the strain SF 68]. Schweiz
+Rundsch Med Prax 1981;70:1717–20.
+85. Bruno F, Nastasi A, Bruno M. Double-blind controlled study of the effect
+of the lactogenic enterococcus SF68 strain on various enterocolitis
+associated manifestations and on salmonella infections. Clin Ter 1983;
+105:203–7.
+86. Buydens P, Debeuckelaere S. Efficacy of SF 68 in the treatment of acute
+diarrhea. A placebo-controlled trial. Scand J Gastroenterol 1996;31:
+887–91.
+87. Wunderlich PF, Braun L, Fumagalli I et al. Double-blind report on the
+efficacy of lactic acid-producing Enterococcus SF68 in the prevention of
+antibiotic-associated diarrhoea and in the treatment of acute diarrhoea.
+J Int Med Res 1989;17:333–8.
+88. Mitra AK, Rabbani GH. A double-blind, controlled trial of bioflorin
+(Streptococcus faecium SF68) in adults with acute diarrhea due to
+Vibrio cholerae and enterotoxigenic Escherichia coli. Gastroenterology
+1990;99:1149–52.
+89. Höchter W, Chase D, Hagenhoff G. Saccharomyces boulardii in the
+treatment of acute adult diarrhoea. [Saccharomyces boulardii bei acuter
+Erwachsenendiarrhoea]. Münchener medizinische Wochenschrift
+1990;132:188–92.
+90. Lund B, Edlund C. Probiotic Enterococcus faecium strain is a possible
+recipient of the vanA gene cluster. Clin Infect Dis 2001;32:1384–5.
+91. Szajewska H, Guarino A, Hojsak I et al. Use of probiotics for management
+of acute gastroenteritis: a position paper by the ESPGHAN Working Group
+for Probiotics and Prebiotics. J Pediatr Gastroenterol Nutr 2014;58:531–9.
+92. Noguera T, Wotring R, Melville CR et al. Resolution of acute gastroenteritis symptoms in children and adults treated with a novel
+polyphenol-based prebiotic. World J Gastroenterol 2014;20:12301–7.
+93. Souza DN, Jorge MT. The effect of Lactobacillus casei and Bifidobacterium
+breve on antibiotic-associated diarrhea treatment: randomized doubleblind clinical trial. Rev Soc Bras Med Trop 2012;45:112–6.
+94. Hempel S, Newberry SJ, Maher AR et al. Probiotics for the prevention
+and treatment of antibiotic-associated diarrhea: a systematic review and
+meta-analysis. JAMA 2012;307:1959–69.
+95. DuPont HL, Sullivan P, Pickering LK et al. Symptomatic treatment of
+diarrhea with bismuth subsalicylate among students attending a Mexican
+university. Gastroenterology 1977;73:715–8.
+96. DuPont HL, Ericsson CD, Mathewson JJ et al. Zaldaride maleate, an
+intestinal calmodulin inhibitor, in the therapy of travelers’ diarrhea.
+Gastroenterology 1993;104:709–15.
+97. DiCesare D, DuPont HL, Mathewson JJ et al. A double blind, randomized,
+placebo-controlled study of SP-303 (Provir) in the symptomatic treatment
+of acute diarrhea among travelers to Jamaica and Mexico. Am J Gastroenterol 2002;97:2585–8.
+98. DuPont HL. Bismuth subsalicylate in the treatment and prevention of
+diarrheal disease. Drug Intell Clin Pharm 1987;21:687–93.
+99. Macarthur RD, Hawkins TN, Brown SJ et al. Efficacy and safety of
+crofelemer for noninfectious diarrhea in HIV-seropositive individuals
+(ADVENT trial): a randomized, double-blind, placebo-controlled,
+two-stage study. HIV Clin Trials 2013;14:261–73.
+100. Shook JE, Burks TF, Wasley JW et al. Novel calmodulin antagonist CGS
+9343B inhibits secretory diarrhea. J Pharmacol Exp Ther 1989;251:247–52.
+101. Okhuysen PC, DuPont HL, Ericsson CD et al. Zaldaride maleate (a new
+calmodulin antagonist) versus loperamide in the treatment of traveler’s
+diarrhea: randomized, placebo-controlled trial. Clin Infect Dis 1995;21:
+341–4.
+102. Siberschmidt G, Schick MT, Steffen R et al. Treatment of travellers’
+diarrhoea: zaldaride compared with loperamide and placebo. Eur J
+Gastroenterol Hep 1995;7:871–5.
+103. Primi MP, Bueno L, Baumer P et al. Racecadotril demonstrates intestinal
+antisecretory activity in vivo. Aliment Pharmacol Ther 1999;13 Suppl 6:
+3–7.
+104. Salazar-Lindo E, Santisteban-Ponce J, Chea-Woo E et al. Racecadotril
+in the treatment of acute watery diarrhea in children. N Engl J Med
+2000;343:463–7.
+105. Wang HH, Shieh MJ, Liao KF. A blind, randomized comparison of
+racecadotril and loperamide for stopping acute diarrhea in adults. World J
+Gastroenterol 2005;11:1540–3.
+The American Journal of GASTROENTEROLOGY
+
+106. Schiller LR, Santa Ana CA, Morawski SG et al. Mechanism of the antidiarrheal effect of loperamide. Gastroenterology 1984;86:1475–80.
+107. Stoll R, Ruppin H, Domschke W. Calmodulin-mediated effects of
+loperamide on chloride transport by brush border membrane vesicles
+from human ileum. Gastroenterology 1988;95:69–76.
+108. Johnson PC, Ericsson CD, DuPont HL et al. Comparison of loperamide
+with bismuth subsalicylate for the treatment of acute travelers’ diarrhea.
+JAMA 1986;255:757–60.
+109. Kaplan MA, Prior MJ, McKonly KI et al. A multicenter randomized
+controlled trial of a liquid loperamide product versus placebo in the treatment of acute diarrhea in children. Clin Pediatr (Phila) 1999;38:579–91.
+110. Hanauer SB, DuPont HL, Cooper KM et al. Randomized, double-blind,
+placebo-controlled clinical trial of loperamide plus simethicone versus loperamide alone and simethicone alone in the treatment of acute diarrhea with
+gas-related abdominal discomfort. Curr Med Res Opin 2007;23:1033–43.
+111. Riddle MS, Arnold S, Tribble DR. Effect of adjunctive loperamide in
+combination with antibiotics on treatment outcomes in traveler’s diarrhea:
+a systematic review and meta-analysis. Clin Infect Dis 2008;47:1007–14.
+112. DuPont HL, Hornick RB. Adverse effect of lomotil therapy in shigellosis.
+JAMA 1973;226:1525–8.
+113. Koo HL, Koo DC, Musher DM et al. Antimotility agents for the treatment
+of Clostridium difficile diarrhea and colitis. Clin Infect Dis 2009;48:598–605
+114. DuPont HL, Ericsson CD, DuPont MW et al. A randomized, open-label
+comparison of nonprescription loperamide and attapulgite in the
+symptomatic treatment of acute diarrhea. Am J Med 1990;88:20S–23S.
+115. Portnoy BL, DuPont HL, Pruitt D et al. Antidiarrheal agents in the
+treatment of acute diarrhea in children. JAMA 1976;236:844–6.
+116. De Bruyn G, Hahn S, Borwick A. Antibiotic treatment for travellers'
+diarrhoea. Cochrane Database Syst Rev 2000;3:CD002242.
+117. Dupont HL, Cooperstock M. Cmea evaluation of new anti-infective
+drugs for the treatment of acute infectious diarrhea. Clin Infect Dis
+1992;15:S228–S235.
+118. Adachi JA, Ericsson CD, Jiang ZD et al. Azithromycin found to be
+comparable to levofloxacin for the treatment of US travelers with
+acute diarrhea acquired in Mexico. Clin Infect Dis 2003;37:1165–71.
+119. Ericsson CD, Johnson PC, Dupont HL et al. Ciprofloxacin or trimethoprimsulfamethoxazole as initial therapy for travelers diarrhea—a placebocontrolled, randomized trial. Ann Intern Med 1987;106:216–20.
+120. Ericsson CD, DuPont HL, Mathewson JJ. Optimal dosing of ofloxacin
+with loperamide in the treatment of non-dysenteric travelers’ diarrhea.
+J Travel Med 2001;8:207–9.
+121. Salam I, Katelaris P, Leigh-Smith S et al. Randomised trial of single-dose
+ciprofloxacin for travellers’ diarrhoea. Lancet 1994;344:1537–9.
+122. Mattila L, Peltola H, Siitonen A et al. Short-term treatment of traveler’s
+diarrhea with norfloxacin: a double-blind, placebo-controlled study
+during two seasons. Clin Infect Dis 1993;17:779–82.
+123. EFSA (European Food Safety Authority) and ECDC (European Centre for
+Disease Prevention and Control), 2013. The European Union Summary
+Report on antimicrobial resistance in zoonotic and indicator bacteria
+from humans, animals and food in 2011. EFSA J 2013;11:3196–555.
+124. Ruiz J, Marco F, Oliveira I et al. Trends in antimicrobial resistance in
+Campylobacter spp. causing traveler’s diarrhea. APMIS 2007;115:218–24.
+125. Bennish ML, Salam MA, Khan WA et al. Treatment of shigellosis: III.
+Comparison of one- or two-dose ciprofloxacin with standard 5-day
+therapy. A randomized, blinded trial. Ann Intern Med 1992;117:727–34.
+126. Hoge CW, Gambel JM, Srijan A et al. Trends in antibiotic resistance
+among diarrheal pathogens isolated in Thailand over 15 years. Clin Infect
+Dis 1998;26:341–5.
+127. Kuschner RA, Trofa AF, Thomas RJ et al. Use of azithromycin for the
+treatment of Campylobacter Enteritis in travelers to Thailand, an area
+where ciprofloxacin resistance is prevalent. Clin Infect Dis 1995;21:536–41.
+128. Wistrom JJM, Hedstrom S, Alesig K et al. Short-term self-treatment
+of travellers’ diarrhea with norfloxacin: a placebo-controlled study.
+J Antimicrob Chemother 1989;23:905–13.
+129. Dupont HL, Ericsson C, Mathewson J et al. Five versus three daysof
+ofloxacin therapy for traveler’s diarrhea: a placebo-controlled study.
+Antimicrob Agents Chemother 1992;36:87–91.
+130. Wistrom JGL, Palmgren A, Price M et al. Ecological effects of short term
+ciprofloxacin treatment of travelers’ diarrheoa. J Antimicrob Chemother
+1992;30:693–706.
+131. Taylor DN, Bourgeois AL, Ericsson CD et al. A randomized, doubleblind, multicenter study of rifaximin compared with placebo and with
+ciprofloxacin in the treatment of travelers' diarrhea. Am J Trop Med Hyg
+2006;74:1060–6.
+
+VOLUME 111 | MAY 2016 www.amjgastro.com
+
+Clinical Guideline: Acute Diarrheal Infections
+
+Downloaded from http://journals.lww.com/ajg by BhDMf5ePHKav1zEoum1tQfN4a+kJLhEZgbsIHo4XMi0hCywCX1AWn
+YQp/IlQrHD3i3D0OdRyi7TvSFl4Cf3VC4/OAVpDDa8K2+Ya6H515kE= on 12/17/2024
+
+132. Pepin J, Saheb N, Coulombe MA et al. Emergence of fluoroquinolones
+as the predominant risk factor for Clostridium difficile-associated diarrhea:
+a cohort study during an epidemic in Quebec. Clin Infect Dis 2005;41:
+1254–60.
+133. Shiferaw B, Solghan S, Palmer A et al. Antimicrobial susceptibility patterns
+of Shigella isolates in Foodborne Diseases Active Surveillance Network
+(FoodNet) sites, 2000–2010. Clin Infect Dis 2012;54:Suppl 5 S458–S463.
+134. Christopher PR, David KV, John SM et al. Antibiotic therapy for Shigella
+dysentery. Cochrane Database Syst Rev 2010, CD006784.
+135. Sanders JW, Frenck RW, Putnam SD et al. Azithromycin and loperamide
+are comparable to levofloxacin and loperamide for the treatment of
+traveler’s diarrhea in United States military personnel in Turkey. Clin Infect
+Dis 2007;45:294–301.
+136. Tribble DR, Sanders JW, Pang LW et al. Traveler's diarrhea in Thailand:
+randomized, double-blind trial comparing single-dose and 3-day azithromycin-based regimens with a 3-day levofloxacin regimen. Clin Infect Dis
+2007;44:338–46.
+137. Gomi H, Jiang ZD, Adachi JA et al. In vitro antimicrobial susceptibility
+testing of bacterial enteropathogens causing traveler’s diarrhea in four
+geographic regions. Antimicrob Agents Chemother 2001;45:212–6.
+138. Khan IA, Schwartzman JD, Matsuura T et al. A dichotomous role for
+nitric oxide during acute Toxoplasma gondii infection in mice. Proc Natl
+Acad Sci USA 1997;94:13955–60.
+139. Ouyang-Latimer J, Jafri S, VanTassel A et al. In vitro antimicrobial susceptibility of bacterial enteropathogens isolated from international travelers
+to Mexico, Guatemala, and India from 2006 to 2008. Antimicrob Agents
+Chemother 2011;55:874–8.
+140. DuPont HL, Jiang ZD, Ericsson CD et al. Rifaximin versus ciprofloxacin
+for the treatment of traveler’s diarrhea: a randomized, double-blind
+clinical trial. Clin Infect Dis 2001;33:1807–15.
+141. Infante RM, Ericsson CD, Jiang ZD et al. Enteroaggregative Escherichia
+coli diarrhea in travelers: response to rifaximin therapy. Clin Gastroenterol Hepatol 2004;2:135–8.
+142. Dupont HL, Jiang Z-D, Ericsson CD et al. Rifaximin versus ciprofloxacin
+for the treatment of travelers’ diarrhea: a randomized, double-blind
+clinical trial. Clin Infect Dis 2001;33:1807–15.
+143. Steffen R, Sack DA, Riopel L et al. Therapy of travelers’ diarrhea with
+rifaximin on various continents. Am J Gastroenterol 2003;98:1073–8.
+144. Safdar N, Said A, Gangnon RE et al. Risk of hemolytic uremic syndrome
+after antibiotic treatment of Escherichia coli O157:H7 enteritis: a metaanalysis. JAMA 2002;288:996–1001.
+145. Musher DM, Rubenstein AD. Permanent carriers of nontyphosa
+salmonellae. Arch Intern Med 1973;132:869–72.
+146. Norman FF, Perez-Molina J, Perez de Ayala A et al. Clostridium difficileassociated diarrhea after antibiotic treatment for traveler’s diarrhea.
+Clin Infect Dis 2008;46:1060–3.
+147. Kantele A, Laaveri T, Mero S et al. Antimicrobials increase travelers’ risk
+of colonization by extended-spectrum betalactamase-producing Enterobacteriaceae. Clin Infect Dis 2015;60:837–46.
+148. Connor BA, Keystone JS. Antibiotic self-treatment of travelers’ diarrhea:
+helpful or harmful? Clin Infect Dis 2015;60:847–8.
+149. Granados CE, Reveiz L, Uribe LG et al. Drugs for treating giardiasis.
+Cochrane Database Syst Rev 2012;12:CD007787.
+150. Solaymani-Mohammadi S, Genkinger JM, Loffredo CA et al. A metaanalysis of the effectiveness of albendazole compared with metronidazole
+as treatments for infections with Giardia duodenalis. PLoS Negl Trop Dis
+2010;4:e682.
+151. Haque R, Huston CD, Hughes M et al. Amebiasis. N Engl J Med 2003;348:
+1565–73.
+152. Mackey-Lawrence NM, Petri WA Jr. Amoebic dysentery. BMJ Clin Evid
+2011;2011.
+153. Bobak DA. Use of nitazoxanide for gastrointestinal tract infections: treatment of protozoan parasitic infection and beyond. Curr Infect Dis Rep
+2006;8:91–5.
+154. Fung HB, Doan TL. Tinidazole: a nitroimidazole antiprotozoal agent.
+Clin Ther 2005;27:1859–84.
+155. Ortega YR, Sanchez R. Update on Cyclospora cayetanensis, a food-borne
+and waterborne parasite. Clin Microbiol Rev 2010;23:218–34.
+156. Connor BA. Chronic diarrhea in travelers. Curr Infect Dis Rep 2013;15:
+203–10.
+157. Hines J, Nachamkin I. Effective use of the clinical microbiology laboratory
+for diagnosing diarrheal diseases. Clin Infect Dis 1996;23:1292–301.
+158. Operario DJ, Houpt E. Defining the causes of diarrhea: novel approaches.
+Curr Opin Infect Dis 2011;24:464–71.
+
+© 2016 by the American College of Gastroenterology
+
+159. Fujioka M, Kasai K, Miura T et al. Rapid diagnostic method for the detection of diarrheagenic Escherichia coli by multiplex PCR. Jpn J Infect Dis
+2009;62:476–80.
+160. Couturier MR, Lee B, Zelyas N et al. Shiga-toxigenic Escherichia coli
+detection in stool samples screened for viral gastroenteritis in Alberta,
+Canada. J Clin Microbiol 2011;49:574–8.
+161. Wolk DM, Schneider SK, Wengenack NL et al. Real-time PCR method
+for detection of encephalitozoonintestinalis from stool specimens. J Clin
+Microbiol 2002;40:3922–8.
+162. Amar CF, East C, Maclure E et al. Blinded application of microscopy,
+bacteriological culture, immunoassays and PCR to detect gastrointestinal
+pathogens from faecal samples of patients with community-acquired
+diarrhoea. Eur J Clin Microbiol Infect Dis 2004;23:529–34.
+163. Wahnschaffe U, Ignatius R, Loddenkemper C et al. Diagnostic value of
+endoscopy for the diagnosis of giardiasis and other intestinal diseases
+in patients with persistent diarrhea from tropical or subtropical areas.
+Scand J Gastroenterol 2007;42:391–6.
+164. Marshall JB, Singh R, Diaz-Arias AA. Chronic, unexplained diarrhea:
+are biopsies necessary if colonoscopy is normal? Am J Gastroenterol
+1995;90:372–6.
+165. Patel Y, Pettigrew NM, Grahame GR et al. The diagnostic yield of lower
+endoscopy plus biopsy in nonbloody diarrhea. Gastrointest Endosc
+1997;46:338–43.
+166. Lee JH, Rhee PL, Kim JJ et al. The role of mucosal biopsy in the diagnosis
+of chronic diarrhea: value of multiple biopsies when colonoscopic finding
+is normal or nonspecific. Korean J Intern Med 1997;12:182–7.
+167. Shah RJ, Fenoglio-Preiser C, Bleau BL et al. Usefulness of colonoscopy
+with biopsy in the evaluation of patients with chronic diarrhea. Am J
+Gastroenterol 2001;96:1091–5.
+168. Fine KD, Seidel RH, Do K. The prevalence, anatomic distribution, and
+diagnosis of colonic causes of chronic diarrhea. Gastrointest Endosc
+2000;51:318–26.
+169. da Silva JG, De Brito T, Cintra Damiao AO et al. Histologic study of
+colonic mucosa in patients with chronic diarrhea and normal colonoscopic findings. J Clin Gastroenterol 2006;40:44–8.
+170. Committee ASoP. Shen B, Khan K et al. The role of endoscopy in the
+management of patients with diarrhea. Gastrointest Endosc 2010;71:
+887–92.
+171. Shale MJ, Walters JR, Westaby D. Adequacy of flexible sigmoidoscopy
+with biopsy for diarrhea in patients under age 50 without features of
+proximal disease. Gastrointest Endosc 2011;73:757–64.
+172. Schussele Filliettaz S, Juillerat P, Burnand B et al. Appropriateness of
+colonoscopy in Europe (EPAGE II). Chronic diarrhea and known
+inflammatory bowel disease. Endoscopy 2009;41:218–26.
+173. Adler A, Roll S, Marowski B et al. Appropriateness of colonoscopy in the
+era of colorectal cancer screening: a prospective, multicenter study in
+a private-practice setting (Berlin Colonoscopy Project 1, BECOP 1).
+Dis Colon Rectum 2007;50:1628–38.
+174. Agnarsdottir M, Gunnlaugsson O, Orvar KB et al. Collagenous and
+lymphocytic colitis in Iceland. Dig Dis Sci 2002;47:1122–8.
+175. de Bosset V, Froehlich F, Rey JP et al. Do explicit appropriateness criteria
+enhance the diagnostic yield of colonoscopy? Endoscopy 2002;34:360–8.
+176. Duncan JE, Sweeney WB, Trudel JL et al. Colonoscopy in the elderly:
+low risk, low yield in asymptomatic patients. Dis Colon Rectum 2006;49:
+646–51.
+177. Fernandez-Banares F, Salas A, Forne M et al. Incidence of collagenous and
+lymphocytic colitis: a 5-year population-based study. Am J Gastroenterol
+1999;94:418–23.
+178. Gonvers JJ, Harris JK, Wietlisbach V et al. A European view of diagnostic
+yield and appropriateness of colonoscopy. Hepatogastroenterology 2007;
+54:729–35.
+179. Lasson A, Kilander A, Stotzer PO. Diagnostic yield of colonoscopy based
+on symptoms. Scand J Gastroenterol 2008;43:356–62.
+180. Lieberman DA, de Garmo PL, Fleischer DE et al. Colonic neoplasia in
+patients with nonspecific GI symptoms. Gastrointest Endosc 2000;51:
+647–51.
+181. Matteoni CA, Wang N, Goldblum JR et al. Flexible sigmoidoscopy for the
+detection of microscopic colitis. Am J Med 2000;108:416–8.
+182. Morini S, Hassan C, Meucci G et al. Diagnostic yield of open access
+colonoscopy according to appropriateness. Gastrointest Endosc 2001;54:
+175–9.
+183. Offner FA, Jao RV, Lewin KJ et al. Collagenous colitis: a study of the
+distribution of morphological abnormalities and their histological
+detection. Hum Pathol 1999;30:451–7.
+The American Journal of GASTROENTEROLOGY
+
+619
+
+620
+
+Riddle et al.
+
+Downloaded from http://journals.lww.com/ajg by BhDMf5ePHKav1zEoum1tQfN4a+kJLhEZgbsIHo4XMi0hCywCX1AWn
+YQp/IlQrHD3i3D0OdRyi7TvSFl4Cf3VC4/OAVpDDa8K2+Ya6H515kE= on 12/17/2024
+
+184. Olesen M, Eriksson S, Bohr J et al. Microscopic colitis: a common diarrhoeal disease. An epidemiological study in Orebro, Sweden, 1993–1998.
+Gut 2004;53:346–50.
+185. Pardi DS, Loftus EVJr., Smyrk TC et al. The epidemiology of microscopic
+colitis: a population based study in Olmsted County, Minnesota. Gut
+2007;56:504–8.
+186. Yusoff IF, Ormonde DG, Hoffman NE. Routine colonic mucosal biopsy
+and ileoscopy increases diagnostic yield in patients undergoing colonoscopy for diarrhea. J Gastroenterol Hepatol 2002;17:276–80.
+187. Connor BA. Sequelae of traveler’s diarrhea: focus on postinfectious
+irritable bowel syndrome. Clin Infect Dis 2005;41:Suppl 8 S577–S586.
+188. Shlim DR. Looking for evidence that personal hygiene precautions
+prevent traveler’s diarrhea. Clin Infect Dis 2005;41:Suppl 8 S531–S535.
+189. Tafuri S, Guerra R, Gallone MS et al. Effectiveness of pre-travel consultation in the prevention of travel-related diseases: a retrospective cohort
+study. Travel Med Infect Dis 2014;12:745–9.
+190. Wikswo ME, Hall AJ et al. Centers for Disease C. Outbreaks of acute
+gastroenteritis transmitted by person-to-person contact—United States,
+2009–2010. MMWR Surveill Summ 2012;61:1–12.
+191. DuPont HL. Acute infectious diarrhea in immunocompetent adults.
+N Engl J Med 2014;370:1532–40.
+192. DuPont HL, Formal SB, Hornick RB et al. Pathogenesis of Escherichia coli
+diarrhea. N Engl J Med 1971;285:1–9.
+193. Nataro JP, Deng Y, Cookson S et al. Heterogeneity of enteroaggregative
+Escherichia coli virulence demonstrated in volunteers. J Infect Dis
+1995;171:465–8.
+194. Steinmann J, Paulmann D, Becker B et al. Comparison of virucidal
+activity of alcohol-based hand sanitizers versus antimicrobial hand soaps
+in vitro and in vivo. J Hosp Infect 2012;82:277–80.
+195. Liu P, Yuen Y, Hsiao HM et al. Effectiveness of liquid soap and hand
+sanitizer against Norwalk virus on contaminated hands. Appl Environ
+Microbiol 2010;76:394–9.
+196. Horvath LL, Murray CK, Dooley DP. Effect of maximizing a travel
+medicine clinic’s prevention strategies. J Travel Med 2005;12:332–7.
+197. Luby SP, Agboatwalla M, Painter J et al. Combining drinking water treatment and hand washing for diarrhoea prevention, a cluster randomised
+controlled trial. Trop Med Int Health 2006;11:479–89.
+198. Luby SP, Agboatwalla M, Painter J et al. Effect of intensive handwashing
+promotion on childhood diarrhea in high-risk communities in Pakistan:
+a randomized controlled trial. JAMA 2004;291:2547–54.
+199. Kamm KB, Feikin DR, Bigogo GM et al. Associations between presence of
+handwashing stations and soap in the home and diarrhoea and respiratory
+illness, in children less than five years old in rural western Kenya. Trop
+Med Int Health 2014;19:398–406.
+200. Hubner NO, Hubner C, Wodny M et al. Effectiveness of alcohol-based
+hand disinfectants in a public administration: impact on health and
+work performance related to acute respiratory symptoms and diarrhoea.
+BMC Infect Dis 2010;10:250.
+201. Boulware DR. Influence of hygiene on gastrointestinal illness among
+wilderness backpackers. J Travel Med 2004;11:27–33.
+202. Heywood AE, Zhang M, MacIntyre CR et al. Travel risk behaviours and
+uptake of pre-travel health preventions by university students in Australia.
+BMC Infect Dis 2012;12:43.
+203. Yanni EA, Marano N, Han P et al. Knowledge, attitudes, and practices
+of US travelers to Asia regarding seasonal influenza and H5N1 avian
+influenza prevention measures. J Travel Med 2010;17:374–81.
+204. Namikawa K, Iida T, Ouchi K et al. Knowledge, attitudes, and practices
+of Japanese travelers on infectious disease risks and immunization uptake.
+J Travel Med 2010;17:171–5.
+205. Hartjes LB, Baumann LC, Henriques JB. Travel health risk perceptions
+and prevention behaviors of US study abroad students. J Travel Med
+2009;16:338–43.
+206. Steffen R, Connor BA. Vaccines in travel health: from risk assessment to
+priorities. J Travel Med 2005;12:26–35.
+207. DuPont HL, Ericsson CD, Johnson PC et al. Prevention of travelers’ diarrhea
+by the tablet formulation of bismuth subsalicylate. Jama 1987;257:1347–50.
+208. DuPont HL, Sullivan P, Evans DG et al. Prevention of traveler’s diarrhea
+(emporiatric enteritis). Prophylactic administration of subsalicylate
+bismuth). JAMA 1980;243:237–41.
+209. Steffen R, DuPont HL, Heusser R et al. Prevention of traveler’s diarrhea by
+the tablet form of bismuth subsalicylate. Antimicrob Agents Chemother
+1986;29:625–7.
+210. Graham DY, Estes MK, Gentry LO. Double-blind comparison of
+bismuth subsalicylate and placebo in the prevention and treatment of
+The American Journal of GASTROENTEROLOGY
+
+enterotoxigenic Escherichia coli-induced diarrhea in volunteers. Gastroenterology 1983;85:1017–22.
+211. Manhart MD. In vitro antimicrobial activity of bismuth subsalicylate and
+other bismuth salts. Rev Infect Dis 1990;12:Suppl 1 S11–S15.
+212. Ward RL, Sander DS, Knowlton DR. In vitro activities of bismuth salts
+against rotaviruses and other enteric viruses. Antimicrob Agents Chemother 1985;27:306–8.
+213. Bagchi D, McGinn TR, Ye X et al. Mechanism of gastroprotection by
+bismuth subsalicylate against chemically induced oxidative stress in
+cultured human gastric mucosal cells. Dig Dis Sci 1999;44:2419–28.
+214. Copeman M, Matuz J, Leonard AJ et al. The gastroduodenal mucus barrier and its role in protection against luminal pepsins: the effect of 16,16
+dimethyl prostaglandin E2, carbopol-polyacrylate, sucralfate and bismuth
+subsalicylate. J Gastroenterol Hepatol 1994;9:Suppl 1 S55–S59.
+215. DuPont HL, Ericsson CD, Farthing MJ et al. Expert review of the evidence
+base for prevention of travelers’ diarrhea. J Travel Med 2009;16:149–60.
+216. Mendelowitz PC, Hoffman RS, Weber S. Bismuth absorption and
+myoclonic encephalopathy during bismuth subsalicylate therapy.
+Ann Intern Med 1990;112:140–1.
+217. Sazawal S, Hiremath G, Dhingra U et al. Efficacy of probiotics in
+prevention of acute diarrhoea: a meta-analysis of masked, randomised,
+placebo-controlled trials. Lancet Infect Dis 2006;6:374–82.
+218. McFarland LV. Meta-analysis of probiotics for the prevention of traveler’s
+diarrhea. Travel Med Infect Dis 2007;5:97–105.
+219. Kollaritsch H, Wiedermann G. Prevention of Traveler’s Diarrhea: A
+Double-Blind Randomized Trial with Saccharomyces cerevisiae Hansen
+CBS 5926. In: Steffen R et al. (eds). Proceedings of the First Conference
+on International Travel Medicine, Zürich, Switzerland, 5–8 April 1988.
+Berlin: Springer-Verlag, 1989, pp 328–56.
+220. Kollaritsch H, Holst H, Grobara P et al. Prevention of travelers’ diarrhea
+with Saccharomyces boulardii: results of a placebo controlled double-blind
+study. Fortschr Med 1993;111:152–6.
+221. Oksanen PJ, Salminen S, Saxelin M et al. Prevention of travellers’
+diarrhoea by Lactobacillus GG. Ann Med 1990;22:53–6.
+222. Hilton E, Kolakowski P, Singer C et al. Efficacy of Lactobacillus GG as a
+diarrheal preventive in travelers. J Travel Med 1997;4:41–3.
+223. De dios Pozo-Olano J, Warram JJ, Gomez R et al. Effect of Lactobacilli
+preparation on travelers’ diarrhea. Gastroenterology 1978;74:829–30.
+224. Katelaris PH, Salam I, Farthing MJ. Lactobacilli to prevent traveler’s
+diarrhea? N Engl J Med 1995;333:1360–1.
+225. Drakoularakou A, Tzortzis G, Rastall RA et al. A double-blind, placebocontrolled, randomized human study assessing the capacity of a novel
+galacto-oligosaccharide mixture in reducing travellers' diarrhoea. Eur J
+Clin Nutr 2010;64:146–52.
+226. Virk A, Mandrekar J, Berbari EF et al. A randomized, double blind,
+placebo-controlled trial of an oral synbiotic (AKSB) for prevention of
+travelers' diarrhea. J Travel Med 2013;20:88–94.
+227. Briand V, Buffet P, Genty S et al. Absence of efficacy of nonviable Lactobacillus
+acidophilus for the prevention of traveler’s diarrhea: a randomized,
+double-blind, controlled study. Clin Infect Dis 2006;43:1170–5.
+228. Levine MM, Hornick RB. Lactulose therapy in Shigella carrier state and
+acute dysentery. Antimicrob Agents Chemother 1975;8:581–4.
+229. Krokowicz L, Kaczmarek BF, Krokowicz P et al. Sodium butyrate and
+short chain fatty acids in prevention of travellers’ diarrhoea: a randomized
+prospective study. Travel Med Infect Dis 2014;12:183–8.
+230. Tzortzis G. Development and functional properties of Bimuno: a secondgeneration prebiotic mixture. Food Sci Technol Bull 2010;6:81–9.
+231. National Institutes of Health. NIH Consensus Development Conference.
+Travelers’ diarrhea. JAMA 1985;253:2700–4.
+232. Reves RR, Johnson PC, Ericsson CD et al. A cost-effectiveness comparison of the use of antimicrobial agents for treatment or prophylaxis of
+travelers’ diarrhea. Arch Intern Med 1988;148:2421–7.
+233. Thomson MA, Booth IW. Treatment of traveller’s diarrhoea. Economic
+aspects. Pharmacoeconomics 1996;9:382–91.
+234. DuPont HL. New insights and directions in travelers’ diarrhea. Gastroenterol Clin N Am 2006;35:337–53.viii-ix.
+235. Gorbach SL. How to hit the runs for fifty million travelers at risk.
+Ann Intern Med 2005;142:861–2.
+236. Hill DR, Ericsson CD, Pearson RD et al. The practice of travel medicine:
+guidelines by the Infectious Diseases Society of America. Clin Infect Dis
+2006;43:1499–539.
+237. Halvorson HA, Schlett CD, Riddle MS. Postinfectious irritable bowel
+syndrome—a meta-analysis. Am J Gastroenterol 2006;101:1894–9.quiz
+1942
+
+VOLUME 111 | MAY 2016 www.amjgastro.com
+
+Clinical Guideline: Acute Diarrheal Infections
+
+Downloaded from http://journals.lww.com/ajg by BhDMf5ePHKav1zEoum1tQfN4a+kJLhEZgbsIHo4XMi0hCywCX1AWn
+YQp/IlQrHD3i3D0OdRyi7TvSFl4Cf3VC4/OAVpDDa8K2+Ya6H515kE= on 12/17/2024
+
+238. Thabane M, Kottachchi DT, Marshall JK. Systematic review and metaanalysis: the incidence and prognosis of post-infectious irritable bowel
+syndrome. Aliment Pharmacol Ther 2007;26:535–44.
+239. Schwille-Kiuntke J, Mazurak N, Enck P. Systematic review with metaanalysis: post-infectious irritable bowel syndrome after travellers’
+diarrhoea. Aliment Pharmacol Ther 2015;41:1029–37.
+240. Alajbegovic S, Sanders JW, Atherly DE et al. Effectiveness of rifaximin
+and fluoroquinolones in preventing travelers’ diarrhea (TD): a systematic
+review and meta-analysis. Syst Rev 2012;1:39.
+241. DuPont HL, Jiang ZD, Okhuysen PC et al. Antibacterial chemoprophylaxis in the prevention of traveler’s diarrhea: evaluation of poorly absorbed
+oral rifaximin. Clin Infect Dis 2005;41 Suppl 8:S571–S576.
+242. Armstrong AW, Ulukan S, Weiner M et al. A randomized, double-blind,
+placebo-controlled study evaluating the efficacy and safety of rifaximin for
+the prevention of travelers’ diarrhea in US military personnel deployed to
+Incirlik Air Base, Incirlik, Turkey. J Travel Med 2010;17:392–4.
+243. Flores J, Dupont HL, Jiang ZD et al. A randomized, double-blind,
+pilot study of rifaximin 550 mg versus placebo in the prevention of
+
+travelers’ diarrhea in Mexico during the dry season. J Travel Med
+2011;18:333–6.
+244. Zanger P, Nurjadi D, Gabor J et al. Effectiveness of rifaximin in prevention
+of diarrhoea in individuals travelling to south and southeast Asia:
+a randomised, double-blind, placebo-controlled, phase 3 trial. Lancet
+Infect Dis 2013;13:946–54.
+245. Taylor DN, McKenzie R, Durbin A et al. Rifaximin, a nonabsorbed oral
+antibiotic, prevents shigellosis after experimental challenge. Clin Infect
+Dis 2006;42:1283–8.
+246. Batz MB, Henke E, Kowalcyk B. Long-term consequences of foodborne
+infections. Infect Dis Clin N Am 2013;27:599–616.
+247. Pandey P, Bodhidatta L, Lewis M et al. Travelers’ diarrhea in Nepal:
+an update on the pathogens and antibiotic resistance. J Travel Med
+2011;18:102–8.
+248. Vlieghe ER, Jacobs JA, Van Esbroeck M et al. Trends of norfloxacin and
+erythromycin resistance of Campylobacter jejuni/Campylobacter coli
+isolates recovered from international travelers, 1994 to 2006. J Travel Med
+2008;15:419–25.
+
+APPENDIX 1
+Search Strategy
+
+Ovid MEDLINE(R) 1946 to February Week 3 2015, searched on 18 February 2015.
+1. Diarrhea/
+2. Acute Disease/
+3. 1 and 2
+4. Dysentery/
+5. Gastroenteritis/
+6. 4 or 5
+7. 1 and 6
+8. 2 and 7
+9. “acute”.tw.
+10. 7 and 9
+11. 8 or 10
+12. 3 or 11
+13. Acute infectious diarrh*.tw.
+14. Travel* diarrh*.tw.
+15. Postinfectious irritable bowel syndrome.tw.
+16. Acute enteric infection.tw.
+17. Acute infectious gastroenteritis.tw.
+18. Infectious diarrh*.tw.
+19. (Acute or chronic or severe or persistent).tw.
+20. 18 and 19
+21. or/13–17
+22. 12 or 20 or 21
+23. Limit 22 to “all child (0 to 18 years)”
+24. 22 not 23
+25. Limit 24 to case reports
+26. 24 not 25
+27. Limit 26 to english language
+28. Limit 27 to last 10 years
+29. Limit 28 to humans
+Ovid MEDLINE(R) In-Process and Other Non-Indexed Citations, searched on 18 February 2015.
+1. Acute infectious diarrh*.tw.
+2. Travel* diarrh*.tw.
+3. Postinfectious irritable bowel syndrome.tw.
+4. Acute enteric infection.tw.
+© 2016 by the American College of Gastroenterology
+
+The American Journal of GASTROENTEROLOGY
+
+621
+
+622
+
+Riddle et al.
+
+Downloaded from http://journals.lww.com/ajg by BhDMf5ePHKav1zEoum1tQfN4a+kJLhEZgbsIHo4XMi0hCywCX1AWn
+YQp/IlQrHD3i3D0OdRyi7TvSFl4Cf3VC4/OAVpDDa8K2+Ya6H515kE= on 12/17/2024
+
+5. Acute infectious gastroenteritis.tw.
+6. Infectious diarrh*.tw.
+7. (Acute or chronic or severe or persistent).tw.
+8. 6 and 7
+9. or/1–5
+10. 8 or 9
+11. (Child* or infan* or p?ediatric).tw.
+12. 10 not 11
+13. Limit 12 to english language
+14. Limit 13 to last 10 years
+Embase 1974 to 2015 February 18 (Ovid), searched on 18 February 2015
+1. Acute diarrhea/
+2. Infectious diarrhea/
+3. Dysentery/
+4. Acute gastroenteritis/
+5. 1 or 2
+6. 3 or 4
+7. 5 and 6
+8. Acute infectious diarrh*.tw.
+9. Travel* diarrh*.tw.
+10. Post infectious irritable bowel syndrome.tw.
+11. Acute enteric infection.tw.
+12. Acute infectious gastroenteritis.tw.
+13. Infectious diarrh*.tw.
+14. (Acute or chronic or severe or persistent).tw.
+15. 13 and 14
+16. or/8–12
+17. 5 or 7 or 15 or 16
+18. Limit 17 to (embryo or infant or child or preschool child <1 to 6 years> or school child <7 to 12 years> or adolescent <13 to 17 years>)
+19. 17 not 18
+20. Limit 19 to english language
+21. Limit 20 to exclude medline journals
+22. Limit 21 to last 10 years
+23. “case report”.mp.
+24. 22 not 23
+25. Limit 24 to human
+26. (Child* or infan* or p?ediatric).tw.
+27. 25 not 26
+
+The American Journal of GASTROENTEROLOGY
+
+VOLUME 111 | MAY 2016 www.amjgastro.com
+
+

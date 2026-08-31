@@ -3,7 +3,7 @@ title: "HRM Before and After Antireflux Surgery (Padova Classification)"
 category: concept
 tags: [HRM, antireflux-surgery, fundoplication, GERD, esophageal-manometry, EGJ, Padova-classification, PFOO, pseudoachalasia]
 created: 2026-05-15
-updated: 2026-08-30
+updated: 2026-08-31
 sources: [padova-2025-hrm-antireflux]
 ---
 
@@ -28,7 +28,7 @@ The **Padova Consensus (2025)** — a 3-year, 29-expert international process us
 | HRM Finding | Decision |
 |---|---|
 | [[achalasia\|Achalasia]] (any type) | ARS contraindicated; treat achalasia first |
-| [[esophagogastric-junction-outflow-obstruction\|EGJOO]] | Must be addressed (e.g., pneumatic dilation, [[poem\|POEM]] evaluation) before ARS; 86% consensus |
+| [[esophagogastric-junction-outflow-obstruction\|EGJOO]] | Must be addressed (e.g., [[pneumatic-dilation\|pneumatic dilation]], [[poem\|POEM]] evaluation) before ARS; 86% consensus |
 | [[hypercontractile-esophagus\|Hypercontractile esophagus (jackhammer)]] | Not an absolute contraindication **if** objective [[gerd\|GERD]] + partial [[proton-pump-inhibitors\|PPI]] response; 81% consensus |
 | [[distal-esophageal-spasm\|DES]] with obstructive symptoms | Caution; consider non-surgical options first; 95% consensus |
 | DES without obstructive symptoms + objective GERD | May proceed to ARS; 81% consensus |
@@ -42,7 +42,7 @@ The EGJ barrier should be characterized by:
 1. LES end-expiratory pressure
 2. LES baseline pressure
 3. EGJ-contractility index (EGJ-CI)
-4. LES–crural diaphragm (CD) separation (a marker of hiatal hernia physiology)
+4. LES–crural diaphragm (CD) separation (a marker of [[hiatal-hernia|hiatal hernia]] physiology)
 
 ---
 
@@ -159,7 +159,7 @@ flowchart TD
 
 ## See Also
 
-[[high-resolution-manometry]], [[antireflux-surgery]], [[gerd]], [[achalasia]], [[chicago-classification-v4]], [[flip-panometry]], [[poem]], [[reflux-testing]], [[ambulatory-reflux-monitoring]], [[dysphagia]], [[hypercontractile-esophagus]], [[distal-esophageal-spasm]], [[ineffective-esophageal-motility]], [[proton-pump-inhibitors]]
+[[high-resolution-manometry]], [[antireflux-surgery]], [[gerd]], [[achalasia]], [[chicago-classification-v4]], [[flip-panometry]], [[poem]], [[reflux-testing]], [[ambulatory-reflux-monitoring]], [[dysphagia]], [[hypercontractile-esophagus]], [[distal-esophageal-spasm]], [[ineffective-esophageal-motility]], [[proton-pump-inhibitors]], [[pneumatic-dilation]], [[hiatal-hernia]], [[esophagogastric-junction-outflow-obstruction]]
 
 ---
 

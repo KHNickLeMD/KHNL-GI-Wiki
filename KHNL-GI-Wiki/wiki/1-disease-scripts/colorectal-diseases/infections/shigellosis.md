@@ -21,6 +21,7 @@ sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
 
 - **Uncomplicated** — self-limited dysentery in an immunocompetent host.
 - **Severe / complicated** — high fever, dehydration, or *S. dysenteriae* type 1 with HUS risk.
+- Grade illness with the ACG mild / moderate / severe activity definitions — see [[acute-diarrhea]].
 
 ---
 
@@ -30,6 +31,7 @@ sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
 
 - Other inflammatory bacterial enteritides — [[campylobacter-infection]], [[salmonella-infection]], *Yersinia enterocolitica*
 - **Shiga toxin–producing *E. coli* (STEC/EHEC)** — the critical look-alike: also bloody diarrhea, but **antimicrobials must be avoided** (STEC O157, any Shiga-toxin-2 producer, or unknown toxin genotype) *(strong, moderate)*, whereas shigellosis is one of the few dysenteries you *do* treat empirically. [[idsa-2017-infectious-diarrhea]] (Rec 35). Note *S. dysenteriae* type 1 makes Shiga toxin itself. Distinct from [[enterotoxigenic-e-coli|ETEC]] (watery, noninvasive).
+- Amebic dysentery — [[entamoeba-histolytica-infection|*Entamoeba histolytica*]] (species-level EIA/PCR required; *E. dispar* is non-pathogenic). [[acg-2016-acute-diarrhea]]
 - [[clostridioides-difficile|*C. difficile*]] colitis (antibiotic/healthcare exposure)
 - [[inflammatory-bowel-disease|Inflammatory bowel disease]] flare
 

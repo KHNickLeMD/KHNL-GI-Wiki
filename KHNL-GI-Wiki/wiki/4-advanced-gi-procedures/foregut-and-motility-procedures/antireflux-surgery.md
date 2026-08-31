@@ -3,7 +3,7 @@ title: "Antireflux Surgery"
 category: advanced-procedure
 tags: [gerd, antireflux-surgery, fundoplication, nissen, msa, linx, tif, ctif, stretta, foregut, hiatal-hernia]
 created: 2026-06-01
-updated: 2026-08-29
+updated: 2026-08-31
 sources: [sages-2021-gerd-surgery, acg-2021-gerd, asge-2024-gerd, padova-2025-hrm-antireflux, afs-2023-transoral-incisionless-fundoplication]
 ---
 
@@ -22,6 +22,8 @@ sources: [sages-2021-gerd-surgery, acg-2021-gerd, asge-2024-gerd, padova-2025-hr
   - [[#Post-TIF Care]]
 - [[#Outcomes and Adverse Effects]]
 - [[#Postoperative Evaluation]]
+- [[#See Also]]
+- [[#Sources]]
 
 ---
 
@@ -64,7 +66,7 @@ Conditions of specific or relative contraindication to TIF with the EsophyX devi
 | **Positioning / access** | Limited neck mobility; osteophytes of the spine |
 | **Other** | Bleeding disorders; **BMI ≥35** |
 
-- **BMI nuance:** ≥35 appears in the relative-contraindication table, but the same document's conclusions state patients with BMI >35 **may still be candidates**, though they "may be better served overall with bariatric surgery." Treat as a **relative** exclusion with a bariatric-referral preference, not an absolute bar.
+- **BMI nuance:** ≥35 appears in the relative-contraindication table, but the same document's conclusions state patients with BMI >35 **may still be candidates**, though they "may be better served overall with [[bariatric-surgery|bariatric surgery]]." Treat as a **relative** exclusion with a bariatric-referral preference, not an absolute bar.
 - **Barrett's:** TIF efficacy in the setting of endoscopic eradication of [[barretts-esophagus|Barrett's]] is **not yet defined** — very limited data, trial ongoing.
 
 ---
@@ -158,7 +160,7 @@ Where the procedure goes wrong, from [[afs-2023-transoral-incisionless-fundoplic
 | **Final valve** | **270°–320°** circumference, **3–4 cm** long | — |
 | **Before withdrawal** | **Immediate post-TIF endoscopy** after removing the device | Detect bleeding or injury |
 
-- **Mediastinal abscess in <2% of cases.** T-fasteners deploy transmurally through esophageal and gastric wall — a bacterial-translocation route, and the reason for pre-procedural antibiotics. Abscess → CT, admit for IV fluids and antibiotics, **immediate surgical consultation**.
+- **Mediastinal abscess in <2% of cases.** T-fasteners deploy transmurally through esophageal and gastric wall — a bacterial-translocation route, and the reason for [[antibiotic-prophylaxis-endoscopy|pre-procedural antibiotics]]. Abscess → CT, admit for IV fluids and antibiotics, **immediate surgical consultation**.
 - **Bleeding at helical/fastener sites:** first maneuver is **pressure** — clamp tissue in the mold, tighten, hold several minutes; this resolves most. Then clips, epinephrine injection, or fibrin glue.
 
 ### Post-TIF Care
@@ -212,7 +214,7 @@ Retching and vomiting can **disrupt the hiatus and the new valve** — hence the
 
 ## See Also
 
-[[gerd]], [[hiatal-hernia]], [[hrm-antireflux-surgery]], [[high-resolution-manometry]], [[reflux-testing]], [[flip-panometry]], [[chicago-classification-v4]], [[achalasia]], [[barretts-esophagus]], [[upper-endoscopy]], [[dysphagia]], [[gastroparesis]], [[hypercontractile-esophagus]], [[distal-esophageal-spasm]], [[ineffective-esophageal-motility]], [[ambulatory-reflux-monitoring]]
+[[gerd]], [[hiatal-hernia]], [[hrm-antireflux-surgery]], [[high-resolution-manometry]], [[reflux-testing]], [[flip-panometry]], [[chicago-classification-v4]], [[achalasia]], [[barretts-esophagus]], [[upper-endoscopy]], [[dysphagia]], [[gastroparesis]], [[hypercontractile-esophagus]], [[distal-esophageal-spasm]], [[ineffective-esophageal-motility]], [[ambulatory-reflux-monitoring]], [[bariatric-surgery]], [[antibiotic-prophylaxis-endoscopy]], [[esophagogastric-junction-outflow-obstruction]]
 
 ---
 

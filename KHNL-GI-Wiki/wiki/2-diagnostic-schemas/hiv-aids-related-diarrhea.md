@@ -1,13 +1,11 @@
 ---
 title: "HIV/AIDS-Related Diarrhea"
 category: diagnostic-schema
-tags: [hiv, aids, diarrhea, opportunistic-infections, cd4, immunocompromised, stub]
+tags: [hiv, aids, diarrhea, opportunistic-infections, cd4, immunocompromised]
 created: 2026-06-08
 updated: 2026-08-30
 sources: [acg-2016-acute-diarrhea, asge-2010-diarrhea, idsa-2017-infectious-diarrhea]
 ---
-
-# HIV/AIDS-Related Diarrhea
 
 > **Partial page — one gap remains.** [[idsa-2017-infectious-diarrhea|IDSA 2017]] supplies the **AIDS-specific pathogen panel** and the endoscopy/empiric-therapy rules now on this page (added 2026-08-30 lint). Still **not** available from any ingested source: **CD4-count stratification of the opportunistic-infection differential** and a **pathogen-directed treatment table**, which require a primary HIV opportunistic-infection guideline (CDC/NIH/IDSA OI or BHIVA). **None is in `raw/`**, so that content is intentionally left out rather than sourced from review articles (an earlier CD4-stratified table compiled from reviews was removed). To close it, add a primary HIV/GI opportunistic-infection guideline to `raw/`.
 
@@ -42,7 +40,7 @@ Diarrhea in the HIV/AIDS host, where the differential widens with falling CD4 co
 
 1. **Broad stool panel** — culture, viral studies, and parasite examination (Rec 12, strong/moderate), plus the AIDS-specific panel above when diarrhea is persistent.
 2. **Blood cultures** in any immunocompromised person with diarrhea (Rec 9, strong/moderate).
-3. **Duodenal aspirate** may be considered for suspected *Giardia*, *Strongyloides*, *Cystoisospora*, or microsporidia (Rec 24, weak/low).
+3. **Duodenal aspirate** may be considered for suspected [[giardiasis|*Giardia*]], *Strongyloides*, *Cystoisospora*, or microsporidia (Rec 24, weak/low).
 
 **Step B — endoscopy strategy for the immunocompromised host ([[asge-2010-diarrhea]]; endoscopy/proctoscopy also endorsed for persistent unexplained diarrhea in AIDS, and for persistent diarrhea in people who engage in anal intercourse — [[idsa-2017-infectious-diarrhea|IDSA 2017]] Rec 24, strong/low).**
 

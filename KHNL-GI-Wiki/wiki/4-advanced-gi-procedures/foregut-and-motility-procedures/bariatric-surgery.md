@@ -17,6 +17,8 @@ This page covers the **GI/endoscopic consequences** of these operations, which i
 - [[#Post-Sleeve Gastrectomy — Reflux and Barrett's Surveillance]]
 - [[#Bariatric Surgery for GERD in Obesity]]
 - [[#Iron Deficiency After Bariatric Surgery]]
+- [[#See Also]]
+- [[#Sources]]
 
 ---
 

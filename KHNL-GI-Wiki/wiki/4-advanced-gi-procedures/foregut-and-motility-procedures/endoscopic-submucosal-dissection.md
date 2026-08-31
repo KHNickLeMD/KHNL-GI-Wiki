@@ -3,7 +3,7 @@ title: "Endoscopic Submucosal Dissection (Esophagogastric)"
 category: advanced-procedure
 tags: [esd, endoscopic-resection, emr, early-gastric-cancer, early-esophageal-cancer, en-bloc, r0-resection]
 created: 2026-06-27
-updated: 2026-08-27
+updated: 2026-08-31
 sources: [asge-2023-esd]
 ---
 
@@ -20,6 +20,8 @@ En-bloc endoscopic resection of early GI neoplasia using electrosurgical knives 
 - [[#Outcomes]]
 - [[#Adverse Events]]
 - [[#Surveillance]]
+- [[#See Also]]
+- [[#Sources]]
 
 ## Definitions
 - **Early-stage cancer:** malignant tumor confined to mucosa and/or submucosa, no deeper involvement, no locoregional or distant spread.

@@ -17,6 +17,8 @@ sources: [acg-2021-anorectal-disorders, aga-2026-hemorrhoids, aga-2026-refractor
   - [[#Choosing the Operation]]
   - [[#Who Does Worse After Surgery]]
   - [[#Solitary Rectal Ulcer Syndrome]]
+- [[#See Also]]
+- [[#Sources]]
 
 ## Assessment
 

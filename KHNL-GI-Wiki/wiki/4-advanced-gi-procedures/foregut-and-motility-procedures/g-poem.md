@@ -3,7 +3,7 @@ title: "G-POEM (Gastric Peroral Endoscopic Myotomy)"
 category: advanced-procedure
 tags: [gastroparesis, poem, g-poem, pyloromyotomy, third-space-endoscopy, gcsi, gastric-emptying, pyloric-therapy]
 created: 2026-07-23
-updated: 2026-08-27
+updated: 2026-08-31
 sources: [aga-2025-gastroparesis, aga-2023-gpoem-gastroparesis]
 ---
 
@@ -23,6 +23,8 @@ Endoscopic pyloromyotomy (peroral endoscopic pyloromyotomy) for medically refrac
 - [[#Adverse Events]]
 - [[#After Failed G-POEM]]
 - [[#Comparison with Alternatives]]
+- [[#See Also]]
+- [[#Sources]]
 
 ---
 
@@ -68,7 +70,7 @@ Related AGA 2025 procedural positions: **gastric electrical stimulation** — su
 | Endocrine | Diabetes ~25% of cases |
 | Post-surgical | Vagotomy (intended/unintended: esophagectomy, Billroth II, [[antireflux-surgery\|fundoplication]], hernia repair); common after **lung or heart–lung transplant** (microaspiration → graft failure) |
 | Endoscopic sleeve gastroplasty | Constrains mid/distal stomach → delayed emptying |
-| Medications | Anticholinergics, GLP-1 receptor agonists; **opioids** (iatrogenic, reversible) |
+| Medications | Anticholinergics, [[glp-1-receptor-agonists\|GLP-1 receptor agonists]]; **opioids** (iatrogenic, reversible) |
 | Post-viral | Usually self-limited |
 | Idiopathic | Most common form |
 
@@ -148,7 +150,7 @@ Related AGA 2025 procedural positions: **gastric electrical stimulation** — su
 
 ## See Also
 
-[[gastroparesis]], [[poem]], [[endoscopic-submucosal-dissection]], [[flip-panometry]], [[upper-endoscopy]], [[antireflux-surgery]], [[antibiotic-prophylaxis-endoscopy]], [[anticoagulation-gi-bleeding]], [[proton-pump-inhibitors]]
+[[gastroparesis]], [[poem]], [[endoscopic-submucosal-dissection]], [[flip-panometry]], [[upper-endoscopy]], [[antireflux-surgery]], [[antibiotic-prophylaxis-endoscopy]], [[anticoagulation-gi-bleeding]], [[proton-pump-inhibitors]], [[glp-1-receptor-agonists]]
 
 ---
 

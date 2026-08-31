@@ -7,8 +7,6 @@ updated: 2026-08-30
 sources: [acg-2023-subepithelial-lesions, asge-2017-subepithelial-lesions]
 ---
 
-# Subepithelial Lesion (SEL)
-
 ## Contents
 - [[#Definition / Scope]]
 - [[#Differential Diagnosis]]

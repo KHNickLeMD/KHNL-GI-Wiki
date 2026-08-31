@@ -3,7 +3,7 @@ title: "Cryptosporidiosis"
 category: disease-script
 tags: [cryptosporidium, parasitic-diarrhea, diarrhea, travelers-diarrhea, immunocompromised, nitazoxanide]
 created: 2026-05-19
-updated: 2026-08-27
+updated: 2026-08-31
 sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea, acg-2020-ibs]
 ---
 
@@ -53,13 +53,13 @@ sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea, acg-2020-ibs]
 
 ### Postinfectious sequelae
 
-- *Cryptosporidium* is one of the named triggers of [[postinfectious-ibs|postinfection IBS]]. **Parasitic** enteritis carries a markedly higher risk than bacterial — **41.9% vs. 13.8%** develop IBS. [[acg-2020-ibs]]
+- *Cryptosporidium* is one of the named triggers of [[postinfectious-ibs|postinfection IBS]]. **Parasitic** enteritis carries a markedly higher risk than bacterial — **41.9% vs. 13.8%** develop [[irritable-bowel-syndrome|IBS]]. [[acg-2020-ibs]]
 
 ---
 
 ## See Also
 
-[[acute-diarrhea]], [[chronic-diarrhea]], [[giardiasis]], [[entamoeba-histolytica-infection]], [[hiv-aids-related-diarrhea]], [[norovirus]], [[rotavirus]], [[enterotoxigenic-e-coli]], [[postinfectious-ibs]], [[nitazoxanide]]
+[[acute-diarrhea]], [[chronic-diarrhea]], [[giardiasis]], [[entamoeba-histolytica-infection]], [[hiv-aids-related-diarrhea]], [[norovirus]], [[rotavirus]], [[enterotoxigenic-e-coli]], [[postinfectious-ibs]], [[irritable-bowel-syndrome]], [[nitazoxanide]]
 
 ---
 

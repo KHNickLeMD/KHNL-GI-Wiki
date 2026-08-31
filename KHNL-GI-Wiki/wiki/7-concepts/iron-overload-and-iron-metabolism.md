@@ -3,7 +3,7 @@ title: "Iron Overload and Iron Metabolism"
 category: concept
 tags: [iron, hepcidin, ferroportin, transferrin, ferritin, transferrin-saturation, iron-overload, hemochromatosis]
 created: 2026-05-19
-updated: 2026-08-14
+updated: 2026-08-31
 sources: [acg-2019-hereditary-hemochromatosis]
 ---
 
@@ -27,7 +27,7 @@ Mechanisms of iron handling and the laboratory thresholds used to detect overloa
 - Hepcidin: 25-amino acid peptide hormone synthesized in the liver; key regulator of body iron stores
 - Binds FPN1 on enterocytes, hepatocytes, and macrophages → FPN1 internalization and degradation → reduced iron export → decreased circulating iron
 - Hepcidin upregulated by: iron loading, inflammation (IL-6), infection
-- Hepcidin downregulated by: iron deficiency, increased erythropoietic demand, alcohol (ethanol-mediated downregulation of transcription factor regulating hepcidin), low hepcidin levels in NAFLD/dysmetabolic iron overload
+- Hepcidin downregulated by: [[iron-deficiency-anemia|iron deficiency]], increased erythropoietic demand, alcohol (ethanol-mediated downregulation of transcription factor regulating hepcidin), low hepcidin levels in [[nafld-masld|NAFLD]]/dysmetabolic iron overload
 
 ## Primary Iron Overload (Inherited)
 
@@ -41,7 +41,7 @@ Mechanisms of iron handling and the laboratory thresholds used to detect overloa
 - Acquired hepcidin deficiency from disorders of erythropoiesis or increased RBC turnover (iron-loading anemias)
 - Parenteral iron loading (transfusions, iron-dextran) — chronic [[hemin]] therapy is another parenteral iron source (9% iron by weight)
 - Chronic liver disease (reduced hepatic hepcidin synthesis)
-- Insulin resistance / [[nafld-masld|NAFLD]] (dysmetabolic iron overload syndrome) — hepcidin downregulation via insulin signaling pathways
+- Insulin resistance / NAFLD (dysmetabolic iron overload syndrome) — hepcidin downregulation via insulin signaling pathways
 - Histologic distinction from HFE-related HH: iron in Kupffer cells/reticuloendothelial system (secondary) vs. periportal hepatocytes sparing Kupffer cells (HFE-HH)
 
 ## Relevant Lab Tests

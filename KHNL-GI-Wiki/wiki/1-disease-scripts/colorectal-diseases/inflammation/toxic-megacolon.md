@@ -3,7 +3,7 @@ title: "Toxic Megacolon"
 category: disease-script
 tags: [toxic-megacolon, colitis, cdiff, ibd, ulcerative-colitis, asuc, surgical-emergency]
 created: 2026-07-26
-updated: 2026-08-27
+updated: 2026-08-31
 sources: [acg-2025-uc, acg-2021-cdiff]
 ---
 
@@ -64,7 +64,7 @@ Toxic megacolon sits at the severe end of two underlying-disease severity framew
 
 ## Differential Diagnosis
 
-*No dedicated diagnostic schema exists for colonic dilation with toxicity; workup follows the underlying colitis.*
+*Workup of the presenting acute severe/bloody diarrheal illness: see [[acute-diarrhea]]. No diagnostic schema is specific to colonic dilation with toxicity — the rest of the workup follows the underlying colitis.*
 
 Underlying etiologies of toxic megacolon named in ingested sources:
 - Acute severe [[ulcerative-colitis]] / [[inflammatory-bowel-disease|IBD]] flare
@@ -133,7 +133,7 @@ flowchart TD
 
 ## See Also
 
-[[ulcerative-colitis]], [[crohns-disease]], [[clostridioides-difficile]], [[colon-ischemia]], [[inflammatory-bowel-disease]], [[colonoscopy]], [[diverticulitis]], [[ibd-endoscopic-scoring]], [[ostomy-management]], [[fmt]], [[loperamide]]
+[[ulcerative-colitis]], [[crohns-disease]], [[clostridioides-difficile]], [[colon-ischemia]], [[inflammatory-bowel-disease]], [[colonoscopy]], [[diverticulitis]], [[ibd-endoscopic-scoring]], [[ostomy-management]], [[fmt]], [[loperamide]], [[acute-diarrhea]]
 
 ---
 

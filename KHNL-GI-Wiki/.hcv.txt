@@ -1,0 +1,2105 @@
+Clinical Infectious Diseases
+IDSA GUIDELINES
+
+Debika Bhattacharya,1, Andrew Aronsohn,2 Jennifer Price,3 and Vincent Lo Re III4; the American Association for the Study of Liver Diseases–Infectious
+Diseases Society of America HCV Guidance Panela
+1
+
+Department of Medicine, Division of Infectious Diseases, David Geffen School of Medicine at the University of California–Los Angeles, Los Angeles, California, USA; 2Department of Medicine,
+Section of Gastroenterology, Hepatology and Nutrition, University of Chicago, Chicago, Illinois, USA; 3Department of Medicine, Division of Gastroenterology and Hepatology, University of California,
+San Francisco, California, USA; and 4Department of Medicine, Division of Infectious Diseases and Center for Clinical Epidemiology and Biostatistics, University of Pennsylvania Perelman School of
+Medicine, Philadelphia, Pennsylvania, USA
+
+The Infectious Diseases Society of America and the American Association for the Study of Liver Diseases have collaboratively
+developed evidence-based guidance regarding the diagnosis, management, and treatment of hepatitis C virus (HCV) infection
+since 2013. A panel of clinicians and investigators with extensive infectious diseases or hepatology expertise specific to HCV
+infection periodically reviews evidence from the field and update existing recommendations or introduce new recommendations
+as evidence warrants.
+This update focuses on changes to the guidance since the previous 2020 published update, including ongoing emphasis on
+recommended universal screening; management recommendations for incomplete treatment adherence; expanded eligibility for
+simplified chronic HCV infection treatment in adults with minimal monitoring; updated treatment and retreatment
+recommendations for children as young as 3 years; management and treatment recommendations in the transplantation setting;
+and screening, treatment, and management recommendations for unique and key populations.
+Keywords. HCV screening; direct-acting antivirals; HCV guidance; HCV treatment; HCV prevention.
+
+The Infectious Diseases Society of America (IDSA) and
+the American Association for the Study of Liver Diseases
+(AASLD) collaboratively initiated the Hepatitis C Virus
+(HCV) Guidance Project in 2013 to provide clinicians with
+evidence-based, unbiased, timely guidance regarding diagnosis,
+treatment, and management of HCV infection. The project
+includes the web-based HCV guidance platform (www.
+hcvguidelines.org) to enable rapid, accessible dissemination
+of new and/or updated information and recommendations in
+response to the latest data from the field. The HCV guidance
+
+Received 08 May 2023; editorial decision 11 May 2023; published online 25 May 2023
+a
+
+HCV Guidance Panel members and their affiliations are listed in the Notes Section.
+
+Correspondence: D. Bhattacharya, Department of Medicine, Division of Infectious Diseases,
+University of California Los Angeles David Geffen School of Medicine, 911 Broxton Avenue,
+Suite 200, Los Angeles, CA 90024 (debikab@mednet.ucla.edu). V. Lo Re III, Department of
+Medicine, Division of Infectious Diseases and Center for Clinical Epidemiology and
+Biostatistics, University of Pennsylvania Perelman School of Medicine, Center for Clinical
+Epidemiology and Biostatistics, 836 Blockley Hall, 423 Guardian Drive, Philadelphia, PA
+19104 (vincentl@pennmedicine.upenn.edu).
+Clinical Infectious Diseases®
+© The Author(s) 2023. Published by Oxford University Press on behalf of Infectious Diseases
+Society of America. All rights reserved. For permissions, please e-mail: journals.permissions@oup.com
+https://doi.org/10.1093/cid/ciad319
+
+website (hereafter, the HCV guidance) has been highly successful. From the launch of the HCV guidance in January 2014
+through April 2022, the site has been accessed by more than
+2 million unique users generating more than 4 million page
+views. In 2021, the site had more the 194 000 unique users
+from 201 countries and territories, with most visits originating
+from the United States, India, Russia, Canada, and Pakistan.
+Under the umbrella of the HCV guidance, the AASLD-IDSA
+HCV Guidance Panel (hereafter, the Guidance Panel) also
+issues regular, periodic published updates to review new or updated data and recommendations as well as an overview of the
+ever-changing landscape of the HCV epidemic.
+Recognizing that viral hepatitis poses a public health
+threat on par with human immunodeficiency virus (HIV), malaria, and tuberculosis, in June 2016, the World Health
+Organization (WHO) published its first global health sector
+strategy and set forth the goal of elimination of viral hepatitis
+as a major public health threat by 2030 [1]. Specific HCV elimination targets include a 90% reduction in incidence and prevalence, treatment of 80% of eligible persons with chronic
+infection, a 65% reduction in HCV-related deaths, and universal access to key prevention and treatment services [1]. In response to the WHO’s call to action, the National Academies
+2023 AASLD-IDSA Hepatitis C Guidance • CID • 1
+
+Downloaded from https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciad319/7179952 by guest on 25 May 2026
+
+Hepatitis C Guidance 2023 Update: American Association
+for the Study of Liver Diseases– Infectious Diseases Society
+of America Recommendations for Testing, Managing,
+and Treating Hepatitis C Virus Infection
+
+New or updated recommendations are evaluated using a
+modified scale adapted from the American College of
+Cardiology and the American Heart Association practice
+guidelines [6, 7] (see the HCV guidance for further details).
+All new and updated recommendations are reviewed and approved by the IDSA and AASLD governing boards prior to online release or print publication.
+
+TESTING, EVALUATION, AND MONITORING
+
+of Sciences, Engineering, and Medicine developed a US strategic plan for viral hepatitis elimination [2]. The US Centers for
+Disease Control and Prevention (CDC) [3] and the US
+Department of Health and Human Services (DHHS) [4] subsequently developed national implementation strategies and targets commensurate with those set forth by the WHO. Notably,
+the new and updated recommendations highlighted and
+discussed in this update both independently and collectively
+support, promote, and advance accomplishment of HCV
+elimination.
+Major changes in the HCV guidance since the previous 2020
+publication [5] featured in this update include an ongoing emphasis on universal HCV screening; new recommendations
+that address the management of incomplete treatment adherence; updated recommendations regarding simplified treatment with minimal monitoring and expanded eligibility;
+management and treatment recommendations for solid organ
+transplant recipients; newly expanded treatment and retreatment recommendations for children and adolescents; and
+screening, management, and treatment recommendations for
+unique and key populations. In addition, we highlight key issues critical to HCV management with the mission of HCV
+elimination in mind. See Figure 1 for key points in this HCV
+guidance update.
+PROCESS
+
+The HCV guidance was developed and is regularly updated by a
+volunteer panel of more than 30 infectious diseases and hepatology clinicians and investigators with HCV expertise representing IDSA and AASLD, respectively. Four co-chairs (2
+from each society) oversee the work of the Guidance Panel.
+The HCV guidance undergoes major biannual updates based
+on a rigorous literature review that encompasses peerreviewed, published literature and relevant abstracts from national and international scientific conferences. The data are reviewed by section leads, with points of discussion resolved
+during section and full panel remote meetings.
+2 • CID • Bhattacharya et al
+
+Implementation of Universal HCV Screening
+
+The Guidance Panel first recommended universal HCV screening for all adults aged ≥18 years in 2019 [5], concomitant with
+congruous draft recommendations from the US Preventive
+Services Task Force (USPSTF) and the CDC. The USPSTF subsequently recommended universal HCV screening for adults
+aged 18 to 79 years in March 2020 [8]. In April 2020, the
+CDC recommended HCV screening at least once in all adults
+aged ≥18 years and for all pregnant persons during each pregnancy, except in settings where HCV prevalence is <0.1% [9].
+The rationale for universal HCV screening includes costeffectiveness [10–13]; improved HCV case finding [8, 9]; shifting epidemiology of HCV infection with incident infections occurring primarily in young adults [14–16]; and the availability
+of safe, cost-effective direct-acting antiviral (DAA) treatment
+[17]. Universal screening is a crucial and necessary component
+of any HCV elimination strategy [1–4] because it is the entry
+point into the HCV continuum of care [18, 19]. For initial
+HCV testing, the Guidance Panel recommends HCV antibody
+screening with reflex HCV RNA testing to establish the presence of active infection (as opposed to spontaneous or
+treatment-induced viral clearance).
+Recommendations without rigorous implementation, however, are ineffectual. HCV screening, diagnosis, and treatment
+were significantly adversely affected by the coronavirus disease
+2019 (COVID-19) pandemic [20]. The number of HCV antibody and HCV RNA tests processed by a large US, multicenter,
+commercial clinical laboratory decreased precipitously beginning in mid-March 2020 [21], coincident with the US federal
+government declaring a national state of emergency due to
+COVID-19 [22]. HCV RNA–positive test results decreased
+62% in March 2020 and remained 39% below baseline in July
+2020, with a concomitant decline in the number of DAA prescriptions dispensed [21]. Investigators who conducted a similar study in Ontario, Canada, reported comparable decreases
+in HCV antibody screening and confirmative HCV RNA testing during each of the first 3 waves of the COVID-19 pandemic
+[23]. The reduced level of HCV testing negatively affecting initiation of HCV treatment appears corroborated by findings
+from a US national, retrospective study wherein only 23% of
+people on Medicaid with a positive HCV RNA test between
+30 January 2019 and 31 October 2020 initiated DAA treatment
+
+Downloaded from https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciad319/7179952 by guest on 25 May 2026
+
+Figure 1. Key points in HCV guidance summary. Abbreviations: DAA, directacting antiviral; HCV, hepatitis C virus; HIV, human immunodeficiency virus.
+
+within 360 days of diagnosis [24]. A survey conducted among
+European Association for the Study of the Liver members representing 48 clinical centers also demonstrated decreased HCV
+testing, diagnosis, and treatment in 2020 compared with 2019
+(prepandemic) [25]. Collectively, these findings underscore
+the critical importance of ongoing, rigorous, universal HCV
+screening for case identification and linkage to care. In addition, monitoring the proportion of persons who meet steps in
+the HCV cascade of care will be critical to assessing the quality
+of HCV care.
+Management of Incomplete DAA Adherence
+
+Incomplete medication adherence is well known, even in the
+highly structured clinical trial setting [26, 27]. Recognizing
+that incomplete DAA treatment may occur in clinical practice
+and potentially contribute to treatment failure, the HCV guidance includes a new algorithm for the management of incomplete adherence as part of DAA treatment monitoring
+(Figure 2). The algorithm is applicable only to DAA treatment–naive persons and, generally, the same patient populations who are eligible for the simplified treatment algorithms
+described in the following section. Excluded persons with incomplete adherence should be managed in consultation with
+a specialist in HCV management.
+
+Although few studies have examined incomplete medication
+adherence in the DAA era, data suggest that it is relatively common, occurring in 11% to 40% of persons on treatment [28–31].
+Most episodes of nonadherence appear short-lived. One study
+demonstrated that 61% of nonadherent episodes lasted 1 to 2
+days [31]. These short periods of nonadherence were not associated with virologic failure. Sustained virologic response
+(SVR) 12 weeks after the completion of treatment (SVR12)
+was 94% among both adherent and nonadherent participants,
+where nonadherence was defined as taking <90% of the total
+prescribed dosage [31]. Longer periods of nonadherence, however, may adversely affect SVR. Investigators who examined the
+relationship between premature discontinuation of DAA therapy and SVR found that among study participants with F0 to F3
+liver disease, SVR12 was 50% in persons who received <4 weeks
+of DAA treatment compared with 99% SVR12 in those who received ≥4 weeks of treatment [32]. Among participants with
+compensated cirrhosis, SVR12 rates were 83% and 95% in those
+who completed <8 weeks of DAA therapy compared with ≥8
+weeks of treatment, respectively [32].
+Based on these limited findings and the expert consensus of
+the Guidance Panel, a management algorithm that considers
+the timing and duration of the nonadherence, as well as specific
+patient factors (ie, genotype 3 infection and presence of
+2023 AASLD-IDSA Hepatitis C Guidance • CID • 3
+
+Downloaded from https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciad319/7179952 by guest on 25 May 2026
+
+Figure 2. Recommended management of DAA treatment interruptions for treatment-naive patients without cirrhosis or with compensated cirrhosis receiving glecaprevir/
+pibrentasvir or sofosbuvir/velpatasvir. Abbreviations: DAA, direct-acting antiviral; HCV, hepatitis C virus; SVR12, sustained virologic response 12 weeks after completion of
+therapy. aExtend duration of therapy such that the patient receives the total planned dosage (ie, the total number of daily pills). For example, if a patient missed 10 days of a
+planned 8-week course of therapy, treatment would be extended to 8 weeks plus 10 days.
+
+compensated cirrhosis), is recommended (see Figure 2).
+Additional large-scale studies in clinical practice settings that
+examine the relationship between DAA adherence and
+SVR12, including the threshold level of adherence below which
+SVR12 is adversely affected, are sorely needed.
+
+INITIAL TREATMENT
+Simplified HCV Treatment for Treatment-Naive Adults
+
+Who is Eligible for
+Simplified HCV Treatment Algorithm
+
+Who is Excluded from
+Simplified HCV Treatment Algorithm
+
+Adults with chronic HCV infection, including
+persons living with HIV:
+
+Adults with chronic HCV infection:
+
+• Infected with any genotype
+
+• Hepatitis B surface antigen-positive
+
+• Have not previously received HCV treatment
+
+• Compensated cirrhosis (Child-Pugh A) with
+
+• Previously received HCV treatment
+
+• Without cirrhosis or with compensated cirrhosis
+
+end-stage renal disease (eGFR <30 mL/min/m2)
+
+(Child-Pugh A) as determined by:
+‒ Liver stiffness >12.5 kPa by FibroScan
+‒ FIB-4 >3.25
+‒ Noninvasive serologic testa
+‒ Liver biopsy
+‒ Liver nodularity or splenomegaly on
+imaging
+‒ Platelet count <150,000/mm3
+
+• Current or prior decompensated cirrhosis, defined
+by Child-Pugh score ≥7b
+• Current pregnancy
+• Known or suspected hepatocellular carcinoma
+• Prior liver transplantation
+
+Figure 3. Inclusion and exclusion criteria for simplified HCV treatment algorithm. Abbreviations: eGFR, estimated glomerular filtration rate; FIB-4, fibrosis-4 index for liver
+fibrosis; HCV, hepatitis C virus. aNoninvasive serologic tests include HCV FibroSure or enhanced liver fibrosis test. bChild–Pugh score based on presence of ascites, hepatic
+encephalopathy, total bilirubin >2.0 mg/dL, albumin ≤3.5 g/dL, or international normalized ratio ≥1.7.
+
+4 • CID • Bhattacharya et al
+
+Downloaded from https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciad319/7179952 by guest on 25 May 2026
+
+The Guidance Panel continues to strongly recommend universal DAA treatment for all people with acute or chronic HCV
+infection (except those with a short life expectancy that cannot
+be remediated by HCV therapy, liver transplantation, or another directed therapy). A key aspect of facilitating the implementation of this recommendation/goal is expanding the pool of
+clinicians who provide HCV treatment, thereby boosting accessibility and delivery of care. Accordingly and coincident with
+the accumulation of real-world data and experience with the
+pangenotypic DAA regimens, the HCV guidance first introduced the simplified treatment algorithms for treatment-naive
+persons (without cirrhosis or with compensated cirrhosis) in
+2019 [5]. The current update to the simplified treatment algorithms features reduced pretreatment and on-treatment clinician intervention and expanded eligibility of persons who can
+be treated using these approaches.
+Recent data from a global sample of persons undergoing DAA
+treatment for chronic HCV infection suggest that a minimal ontreatment monitoring approach is safe and effective and leads to
+an SVR rate that is comparable to that realized with standard
+monitoring [33]. The minimal monitoring (MINMON) approach was examined in an international, phase 4, open-label,
+
+single-arm trial. Four hundred treatment-naive participants
+aged ≥18 years with active HCV infection were enrolled from
+38 sites in Brazil, South Africa, Thailand, Uganda, and the
+United States. Participants included persons with compensated
+cirrhosis and HIV coinfection. Key exclusion criteria were pregnancy, breastfeeding, and chronic hepatitis B virus (HBV) infection (hepatitis B surface antigen [HBsAg] positive; due to possible
+risk of HBV reactivation). However, participants with resolved
+HBV infection (hepatitis B core antibody [anti-HBc] positive,
+with or without hepatitis B surface antibodies [anti-HBs]) were
+eligible. Of the 400 enrolled participants, 399 initiated a planned
+12-week course of once-daily sofosbuvir (400 mg)/velpatasvir
+(100 mg). At entry, 42% (166) were living with HIV, 9% (34)
+had compensated cirrhosis, and 32% (121 of 374) with an available HBV panel had resolved HBV infection. The 4 components
+of minimal monitoring included no pretreatment genotyping,
+dispensing the entire treatment course at entry, no scheduled ontreatment visits or laboratory monitoring, and remote contact at
+week 4 to assess DAA adherence and at week 22 to schedule SVR
+assessment at week 24. SVR was achieved by 95% (379 of 399) of
+those who initiated treatment. Fourteen participants experienced
+a serious adverse event between treatment initiation and week 28;
+none were treatment-related or led to treatment discontinuation
+or death [33].
+Given the findings of this minimal monitoring study,
+treatment-naive persons with HIV/HCV coinfection are newly
+eligible for a simplified HCV treatment approach. Figure 3
+shows the eligibility and exclusion criteria for the simplified
+HCV treatment approaches. Figure 4 provides an overview of
+the simplified HCV treatment algorithm for treatment-naive
+adults without cirrhosis. Figure 5 reviews the simplified treat-
+
+ment algorithm for HCV treatment-naive adults with compensated cirrhosis.
+The inclusion of persons living with HIV in the simplified HCV
+treatment algorithm is consistent with the DHHS Guidelines for
+the Prevention and Treatment of Opportunistic Infections in
+Adults and Adolescents with HIV [34]. In this guidance, the decision to expand eligibility to include persons living with HIV was
+informed by the comparable SVR12 rates in those with and without HIV coinfection in the MINMON study [33], the availability
+of integrase strand transfer inhibitor–based antiretroviral regimens that mitigate concerns of drug–drug interactions between
+HIV and HCV medications, and the need to expand treatment access, particularly in the COVID-19 pandemic era.
+Initial Treatment Regimens
+
+In the current DAA era of hepatitis C treatment, therapy is safe,
+effective, of relatively short duration, and curative in most people [1, 17]. Widespread use of recommended initial treatment
+regimens has the potential to substantially reduce hepatitis C
+prevalence. Given the many benefits of virologic cure, including reduced risk of cirrhosis, hepatocellular carcinoma, liver-
+
+related mortality [35], and all-cause mortality [35–37], expanded use of DAA treatment and the associated probable cure has
+the capacity to reduce HCV-related disease burden at individual, national, and potentially global levels.
+Since the last published update [5], genotypic activity has
+been added to the hierarchical ranking of treatment regimens
+(in addition to recommended or alternative, evidence level,
+and alphabetical order). Table 1 presents a summary of initial
+treatment recommendations for treatment-naive adults.
+Shortening the duration of glecaprevir/pibrentasvir therapy
+to 8 weeks for persons with compensated cirrhosis is a notable
+change. The updated recommendation is supported by the
+findings from the international, single-arm, open-label, phase
+3b EXPEDITION-8 trial, titled “Glecaprevir/pibrentasvir for
+8 weeks in treatment-naïve patients with chronic HCV genotypes 1-6 and compensated cirrhosis” [38]. Investigators enrolled 343 treatment-naive participants aged ≥18 years with
+chronic HCV infection (genotypes 1 through 6) and compensated cirrhosis. Key exclusion criteria included coinfection
+with HIV and/or HBV or a history of hepatic decompensation.
+Participants received an 8-week course of once-daily
+2023 AASLD-IDSA Hepatitis C Guidance • CID • 5
+
+Downloaded from https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciad319/7179952 by guest on 25 May 2026
+
+Figure 4. Simplified algorithm for HCV treatment among HCV treatment-naive adults without cirrhosis. Recommended DAA regimens for this simplified treatment approach
+include either 8 weeks of glecaprevir (300 mg)/pibrentasvir (120 mg) taken with food or 12 weeks of sofosbuvir (400 mg)/velpatasvir (100 mg). More detailed descriptions of the
+patient evaluation process and antivirals used for HCV treatment can be found on the HCV guidance website. Abbreviations: ALT, alanine aminotransferase; AST, aspartate
+aminotransferase; CBC, complete blood count; DAA, direct-acting antiviral; eGFR, estimated glomerular filtration rate; FIB-4, fibrosis-4 index for liver fibrosis; HCV, hepatitis
+C virus; HIV, human immunodeficiency virus; INR, international normalized ratio; SVR, sustained virologic response. aFIB-4 is a noninvasive measure of hepatic fibrosis that
+is calculated by: (age [years] × AST [U/L]) ÷ (platelet count [109/L] × (ALT1/2 [U/L]). bA patient is presumed to have cirrhosis if they have a FIB-4 score >3.25 or if they
+have any of the following from a previously performed test: transient elastography indicating cirrhosis (ie, liver stiffness >12.5 kPa), noninvasive serologic test above the proprietary cutoff indicating cirrhosis (eg, FibroSure, enhanced liver fibrosis test), clinical evidence of cirrhosis (eg, liver nodularity and/or splenomegaly on imaging, platelet count
+<150 000/mm3), or prior liver biopsy showing cirrhosis. cMedication reconciliation should record currently prescribed medications, over-the-counter drugs, and herbal/dietary
+supplements. dDrug–drug interaction assessment should be performed using the table in the Monitoring Section of the HCV Guidance website or the University of Liverpool drug
+interaction checker.
+
+glecaprevir (300 mg)/pibrentasvir (120 mg). SVR12 was 98%
+(335 of 343) in the intention-to-treat (ITT) population.
+Seven participants experienced a serious adverse event, only
+1 of which was treatment-related. One participant who had
+low baseline leukocyte and neutrophil counts experienced
+grade 3 leukopenia and neutropenia that presented on
+posttreatment day 29, which the investigator considered
+treatment-related. No adverse event led to treatment discontinuation or death [38].
+Another significant change is the recommendation that sofosbuvir/velpatasvir/voxilaprevir may be used as an alternative regimen for persons with genotype 3 infection and compensated
+cirrhosis. This new recommendation is based on findings from
+the international, open-label, randomized, phase 3 POLARIS-3
+clinical trial, titled “Efficacy of 8 weeks of sofosbuvir, velpatasvir,
+and voxilaprevir in patients with chronic HCV infection: 2 phase
+6 • CID • Bhattacharya et al
+
+3 randomized trials” and acknowledges limited access to resistance-associated substitution (RAS) testing in some settings
+[39]. Investigators enrolled 220 DAA treatment–naive participants with genotype 3 infection and compensated cirrhosis who
+were randomized to 8 weeks of once-daily sofosbuvir (400 mg)/
+velpatasvir (100 mg)/voxilaprevir (100 mg) or 12 weeks of
+once-daily sofosbuvir (400 mg)/velpatasvir (100 mg). SVR12
+was 96% in both treatment arms [39].
+Initial treatment using elbasvir/grazoprevir for genotype 1a
+infection was changed from a recommended to an alternative
+regimen because of the need for baseline RAS testing.
+Additionally, several regimens are no longer recommended because the therapeutics are either no longer available in the
+United States and/or the regimens have inferior SVR rates compared with currently recommended DAA regimens. These include sofosbuvir and daclatasvir; sofosbuvir and ribavirin;
+
+Downloaded from https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciad319/7179952 by guest on 25 May 2026
+
+Figure 5. Simplified algorithm for HCV treatment among HCV treatment-naive adults with compensated cirrhosis. Recommended DAA regimens for this simplified treatment approach include either 8 weeks of glecaprevir (300 mg)/pibrentasvir (120) mg taken with food for genotypes 1 through 6 or 12 weeks of sofosbuvir (400 mg)/velpatasvir
+(100 mg) for genotypes 1, 2, 4, 5, or 6. More detailed descriptions of the patient evaluation process and antivirals used for HCV treatment can be found on the HCV Guidance
+website. Abbreviations: AASLD, American Association for the Study of Liver Diseases; ALT, alanine aminotransferase; AST, aspartate aminotransferase; CBC, complete blood
+count; DAA, direct-acting antiviral; eGFR, estimated glomerular filtration rate; HCC, hepatocellular carcinoma; HCV, hepatitis C virus; HIV, human immunodeficiency virus; INR,
+international normalized ratio; SVR, sustained virologic response. aChild–Pugh score based on presence of ascites, hepatic encephalopathy, total bilirubin >2.0 mg/dL, albumin ≤3.5 g/dL, or INR ≥1.7. Patients with a Child–Pugh score ≥7 (ie, Child–Pugh B or C) have decompensated cirrhosis; this simplified treatment approach is not recommended for patients with decompensated cirrhosis. bObtain liver ultrasound within 6 months prior to initiating antiviral treatment to exclude hepatocellular carcinoma and
+subclinical ascites. This simplified treatment approach is not recommended for patients with hepatocellular carcinoma and/or decompensated cirrhosis. cMedication reconciliation should record currently prescribed medications, over-the-counter drugs, and herbal/dietary supplements. dDrug–drug interaction assessment should be performed
+using the table in the Monitoring Section of the HCV Guidance website or the University of Liverpool drug interaction checker. eDevelopment of jaundice, ascites, spontaneous bacterial peritonitis, variceal hemorrhage, or hepatic encephalopathy may suggest hepatic decompensation. Patients should be referred to a specialist if they develop
+worsening liver blood tests (eg, total bilirubin, AST, ALT, INR), jaundice, ascites, encephalopathy, or new liver-related symptoms). fUltrasound surveillance for hepatocellular
+carcinoma (with or without alpha-fetoprotein testing) every 6 months is recommended for patients with cirrhosis, in accordance with AASLD guidance. gSee AASLD guidance
+for recommendations regarding the evaluation and management of varices.
+
+Table 1. Recommendations for Initial Treatment of Hepatitis C Virus–Infected Adults
+Genotype
+
+Classification
+
+Duration
+
+Rating
+
+Treatment-naive without cirrhosis
+or with compensated cirrhosis
+Glecaprevir/pibrentasvir
+
+Regimen
+
+1–6
+
+Recommended
+
+8 wk
+
+I, Aa
+
+Sofosbuvir/velpatasvir
+
+1–6
+
+Recommended
+
+12 wk
+
+I, Ab
+
+Ledipasvir/sofosbuvir
+
+1, 4, 5, 6
+
+Recommended
+
+12 wk
+
+I, Ac
+
+Not recommended for genotype 6e infection if subtype is known.
+
+1 without
+cirrhosis
+
+Recommended
+
+8 wk
+
+I, B
+
+Applicable to patients without cirrhosis who are not living with human
+immunodeficiency virus and whose HCV RNA is <6 million IU/mL.
+
+1b, 4
+
+Recommended
+
+12 wk
+
+I, Ad
+
+1a
+
+Alternative
+
+12 wk
+
+I, A
+
+For genotype 1a infection, NS5A RAS testing is recommended. If
+baseline RASs are present (ie, substitutions at amino acid positions
+28, 30, 31, or 93), another recommended regimen should be used.
+
+3
+
+Alternative
+
+12 wk
+
+IIa, A
+
+Applicable to genotype 3 infection with compensated cirrhosis and
+baseline NS5a Y93 RAS.
+
+Alternative
+
+12 wk
+
+IIa, B
+
+Applicable to genotype 3 infection with compensated cirrhosis and
+baseline NS5a Y93 RAS.
+
+1–6
+
+Recommended
+
+12 wk
+
+I, Ae
+
+Low initial dose of ribavirin (600 mg) is recommended for patients
+with CTP class C cirrhosis; increase as tolerated.
+
+Sofosbuvir/velpatasvir
+
+1–6
+
+Recommended
+
+24 wk
+
+I, Ae
+
+Applicable to patients who are ribavirin ineligible.
+
+Ledipasvir/sofosbuvir +
+weight-based ribavirin
+
+1, 4, 5, 6
+
+Recommended
+
+12 wk
+
+I, Af
+
+Low initial dose of ribavirin (600 mg) is recommended for patients
+with CTP class C cirrhosis; increase as tolerated.
+
+Ledipasvir/sofosbuvir
+
+1, 4, 5, 6
+
+Recommended
+
+24 wk
+
+I, Af
+
+Applicable to patients who are ribavirin ineligible.
+
+Sofosbuvir/velpatasvir +
+weight-based ribavirin
+Sofosbuvir/velpatasvir/
+voxilaprevir
+
+For genotype 3 infection with compensated cirrhosis, NS5A RAS
+testing is recommended. If baseline NS5A RAS Y93H is present,
+add weight-based ribavirin or choose another recommended
+regimen.
+
+Treatment-naive with decompensated cirrhosis
+Sofosbuvir/velpatasvir +
+weight-based ribavirin
+
+Recommendations are listed by recommended vs alternative and by genotypic activity, evidence level, and alphabetically.
+Abbreviations: CTP, Child–Turcotte–Pugh score; HCV, hepatitis C virus; NS5A, hepatitis C virus nonstructural protein 5A; RAS, resistance-associated substitution.
+a
+
+The level of evidence rating is I, B for persons with compensated cirrhosis.
+
+b
+
+The level of evidence rating is I, B for persons with genotype 5 or 6 infection.
+
+c
+
+The level of evidence rating is IIa, B for persons with genotype 5 or 6 infection and those with genotype 4 infection and compensated cirrhosis.
+
+d
+
+The level of evidence rating is IIa, B for persons with genotype 4 infection and compensated cirrhosis.
+
+e
+
+Only available data for genotype 6 infection are in persons with compensated cirrhosis.
+
+f
+
+Only available data for genotypes 5 or 6 infection are in a small number of persons with compensated cirrhosis.
+
+paritaprevir/ritonavir/ombitasvir/dasabuvir; and sofosbuvir, telaprevir, or boceprevir with pegylated interferon and ribavirin.
+RETREATMENT
+
+Although DAA therapy is curative for most persons [1, 17], the
+small percentage of those in whom treatment fails to result in
+SVR12 require retreatment. Updated retreatment recommendations focus on DAA treatment failures, specifically,
+sofosbuvir-based regimen failure; glecaprevir/pibrentasvir failure; and multiple DAA failure, including sofosbuvir/
+velpatasvir/voxilaprevir or sofosbuvir plus glecaprevir/
+pibrentasvir (Table 2). Retreatment recommendations for
+sofosbuvir-based or HCV nonstructural protein 5A (NS5A)
+inhibitor-based treatment failures in persons with decompensated cirrhosis are also noted in Table 2.
+Sofosbuvir-based Regimen Failure
+
+Generally, persons who have experienced treatment failure
+with a sofosbuvir-based regimen should be retreated with 12
+weeks of sofosbuvir/velpatasvir/voxilaprevir. The exception is
+
+persons with genotype 3 infection and compensated cirrhosis
+for whom the addition of weight-based ribavirin to the regimen
+is recommended. This recommendation is supported by data
+from clinical trials [40, 41] and real-world cohorts [42–45].
+Glecaprevir/pibrentasvir for 16 weeks can be used as an alternative retreatment regimen [46–48]. This regimen, however, has
+not been evaluated in persons with genotype 3 infection and
+prior sofosbuvir/NS5A inhibitor exposure and is therefore
+not recommended for these individuals.
+Glecaprevir/Pibrentasvir Failure
+
+For persons with a prior glecaprevir/pibrentasvir treatment
+failure, retreatment with glecaprevir/pibrentasvir plus ribavirin and sofosbuvir is a recommended retreatment option.
+This recommendation is supported by findings from the
+MAGELLAN-3 clinical trial, titled “Retreatment of patients
+who failed glecaprevir/pibrentasvir treatment for hepatitis C
+virus infection” [49]. This open-label, phase 3b study evaluated
+the efficacy and safety of once-daily glecaprevir (300 mg)/pibrentasvir (120 mg) plus sofosbuvir (400 mg) and twice daily
+weight-based ribavirin for retreatment of persons with a prior
+2023 AASLD-IDSA Hepatitis C Guidance • CID • 7
+
+Downloaded from https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciad319/7179952 by guest on 25 May 2026
+
+Elbasvir/grazoprevir
+
+Caveats and Other Considerations
+
+Table 2. Recommendations for Retreatment of Hepatitis C Virus–Infected Adults by Prior Exposure
+Regimen
+
+Genotype
+
+Classification
+
+Duration
+
+Rating
+
+Caveats and Other Considerations
+
+Sofosbuvir-based treatment failure without cirrhosis or with compensated cirrhosis
+Sofosbuvir/velpatasvir/
+voxilaprevir
+
+1–6
+
+Glecaprevir/pibrentasvir
+
+1, 2, 4, 5,
+6
+
+Recommended
+
+12 wk
+
+I, A
+
+For genotype 3 infection with compensated cirrhosis, add weight-based
+ribavirin if there are no contraindications.
+
+Alternative
+
+16 wk
+
+I, A
+
+Not recommended for patients with prior exposure to an NS5A inhibitor
+plus NS3/4A protease inhibitor regimen (eg, elbasvir/grazoprevir).
+
+Glecaprevir/pibrentasvir treatment failure without cirrhosis or with compensated cirrhosis
+1–6
+
+Recommended
+
+16 wk
+
+IIa, B
+
+Sofosbuvir/velpatasvir/
+voxilaprevir
+
+1–6
+
+Recommended
+
+12 wk
+
+IIa, B
+
+For patients with compensated cirrhosis, addition of weight-based
+ribavirin is recommended (rating IIa, C).
+
+Sofosbuvir/velpatasvir/voxilaprevir or sofosbuvir + glecaprevir/pibrentasvir treatment failure without cirrhosis or with compensated cirrhosis
+Glecaprevir/pibrentasvir +
+sofosbuvir + weight-based
+ribavirin
+
+1–6
+
+Recommended
+
+16 wk
+
+IIa, B
+
+Sofosbuvir/velpatasvir/
+voxilaprevir + weight-based
+ribavirin
+
+1–6
+
+Recommended
+
+24 wk
+
+IIa, B
+
+Extension to 24 wk should be considered in extremely difficult cases (eg,
+genotype 3 infection with compensated cirrhosis) or failure following
+sofosbuvir + glecaprevir/pibrentasvir therapy.
+
+Sofosbuvir- or NS5A inhibitor–based treatment failure with decompensated cirrhosis
+Sofosbuvir/velpatasvir +
+weight-based ribavirin
+
+1–6
+
+Recommended
+
+24 wk
+
+II, Ca
+
+Low initial dose of ribavirin (600 mg) is recommended for patients with
+CTP class C cirrhosis; increase as tolerated.
+
+Ledipasvir/sofosbuvir +
+weight-based ribavirin
+
+1, 4, 5, 6
+
+Recommended
+
+24 wk
+
+II, Cb
+
+Low initial dose of ribavirin (600 mg) is recommended for patients with
+CTP class C cirrhosis; increase as tolerated.
+
+Recommendations are listed by recommended vs alternative and by genotypic activity, evidence level, and alphabetically.
+Abbreviations: CTP, Child–Turcotte–Pugh score; NS3/4A, hepatitis C virus nonstructural protein 3–4A; NS5A, hepatitis C virus nonstructural protein 5A.
+a
+
+Only available data for genotypes 5 or 6 infection are in a small number of persons with compensated cirrhosis.
+
+b
+
+Only available data for genotype 6 infection are in persons with compensated cirrhosis.
+
+glecaprevir/pibrentasvir treatment failure. Participants with
+non–genotype 3 infection without cirrhosis and naive to
+HCV nonstructural protein 3-4A (NS3/4A) protease inhibitors
+and NS5A inhibitors received 12 weeks of treatment. Those
+with genotype 3 infection and/or compensated cirrhosis,
+and/or prior exposure to NS3/4A protease inhibitors and/or
+NS5A inhibitors received 16 weeks of treatment. SVR12 was
+96% (22 of 23) in the ITT population. One patient experienced
+a serious adverse event unrelated to treatment. No treatment
+discontinuations or deaths occurred [49].
+Treatment with sofosbuvir/velpatasvir/voxilaprevir for 12
+weeks is another recommended option in the setting of prior
+glecaprevir/pibrentasvir treatment failure. Findings from a
+prospective, nonrandomized, observational study support this
+recommendation. Investigators enrolled 31 participants with
+a history of virologic failure with glecaprevir/pibrentasvir therapy. Participants with compensated cirrhosis were included;
+those with HBV and/or HIV coinfection were excluded.
+SVR12 was 94% (29 of 31) with 12 weeks of once-daily sofosbuvir (400 mg)/velpatasvir (100 mg)/voxilaprevir (100 mg). Two
+participants relapsed at week 4 after completion of therapy.
+No serious adverse events, treatment discontinuations, or
+deaths occurred [50]. Although the addition of ribavirin was
+not evaluated in this study, based on prior studies of DAA failures, addition of weight-based ribavirin to the regimen is recommended for persons with compensated cirrhosis.
+8 • CID • Bhattacharya et al
+
+Multiple DAA Failures, Including Sofosbuvir/Velpatasvir/Voxilaprevir or
+Sofosbuvir Plus Glecaprevir/Pibrentasvir
+
+The MAGELLAN-3 clinical trial demonstrated the efficacy (96%
+SVR12; 22 of 23) of glecaprevir/pibrentasvir plus sofosbuvir
+and weight-based ribavirin for heavily DAA-experienced patients, although no sofosbuvir/velpatasvir/voxilaprevir failures
+were included [49]. Among patients with a prior sofosbuvir/
+velpatasvir/voxilaprevir treatment failure, 16 weeks of glecaprevir/
+pibrentasvir plus sofosbuvir and weight-based ribavirin is recommended based on the improved resistance profile of pibrentasvir and high response rate seen with this duration of therapy
+among genotype 3–infected participants in the MAGELLAN-3
+trial [49]. Extension to 24 weeks or longer with this regimen
+should be considered for persons with factors that may reduce
+the likelihood of achieving SVR (eg, genotype 3 infection with
+cirrhosis or prior treatment failure with glecaprevir/pibrentasvir plus sofosbuvir). While there are case report data that use
+this treatment duration [51–54], no clinical trial data are available to support such an approach.
+A 24-week course of sofosbuvir/velpatasvir/voxilaprevir plus
+weight-based ribavirin is also recommended for persons with a
+prior sofosbuvir/velpatasvir/voxilaprevir treatment failure.
+Although there are currently no published clinical trial data
+that examine retreatment with sofosbuvir/velpatasvir/voxilaprevir for patients in whom initial therapy with the same regimen
+failed, a small retrospective, observational study of persons
+
+Downloaded from https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciad319/7179952 by guest on 25 May 2026
+
+Glecaprevir/pibrentasvir +
+sofosbuvir + weight-based
+ribavirin
+
+Retreatment in Patients With Decompensated Cirrhosis
+
+Retreatment of persons with decompensated cirrhosis and a
+history of DAA-based treatment failure is limited by the inability to use an NS3/4A protease inhibitor (eg, glecaprevir, grazoprevir, voxilaprevir) in the setting of decompensated cirrhosis.
+Recommendations to retreat with a 24-week course of either
+sofosbuvir/velpatasvir plus weight-based ribavirin or ledipasvir/sofosbuvir plus weight-based ribavirin are based on the relatively favorable SVR rates (91% to 100%) with these regimens
+among patients with compensated cirrhosis and prior DAA
+failure [55–57].
+MANAGEMENT OF UNIQUE AND KEY POPULATIONS
+
+The HCV guidance stresses the importance of addressing the
+special considerations and unmet needs of unique and key populations to achieve significant reductions in the burden of
+HCV-related disease. This approach aligns with the WHO
+strategy for achieving hepatitis C elimination targets, which
+also emphasizes the importance of focusing efforts on populations disproportionately affected by HCV infection, specifically
+HIV/HCV-coinfected persons, people who inject drugs
+(PWID), men who have sex with men (MSM), and incarcerated
+persons [1]. The HCV guidance additionally focuses on the
+special considerations and unmet needs of other unique or
+key populations, namely, individuals with acute HCV infection,
+pregnant persons, children and adolescents, and solid organ
+transplant recipients. Recommendations for these populations
+aim to maximize the potential benefits of often missed opportunities to reduce hepatitis C infection incidence and prevalence, personal and societal disease burden, and HCV-related
+morbidity and mortality.
+HIV/HCV Coinfection
+
+Treatment-naive persons living with HIV and HCV (without
+cirrhosis or with compensated cirrhosis) are newly eligible
+for DAA therapy using a simplified treatment algorithm (see
+Figures 4 and 5). This recommendation is supported by findings from the MINMON clinical trial, titled “A minimal monitoring approach for the treatment of hepatitis C virus infection
+
+(ACTG A5360 [MINMON]): a phase 4, open-label, single-arm
+trial”. Among the 166 study participants living with HIV and
+HCV, 95% (157 of 166) achieved SVR12 [33]. Given that people
+living with HIV are disproportionately affected by HCV infection [58], the reduction in treatment barriers benefits the affected individuals while furthering the goal of HCV elimination.
+Acute HCV Infection
+
+The Guidance Panel reiterates the recommendation that persons with confirmed acute HCV infection (HCV RNA–positive) should be treated the same as those with chronic HCV
+infection without awaiting possible spontaneous clearance (ie,
+a test-and-treat approach). Given that the incidence of acute
+hepatitis C in the United States increased 124% from 2013
+through 2020 [59], treatment of this key population is critical
+to both HCV prevention and elimination.
+Findings from studies that evaluated the efficacy of an abbreviated 6 weeks of therapy for acute HCV infection with
+various DAA regimens, including ledipasvir/sofosbuvir [60,
+61], glecaprevir/pibrentasvir [62], and sofosbuvir/velpatasvir
+[63], have demonstrated largely inferior response rates compared with the standard of care. As such, an abbreviated
+course of DAA therapy is not recommended for acute HCV
+infection.
+HCV in Pregnancy
+
+Following the 2018 HCV guidance recommendation for universal hepatitis C screening during pregnancy [64], the
+USPSTF and CDC issued largely concurrent recommendations
+in 2020 [8, 9]. In May 2021, the American College of
+Obstetricians and Gynecologists issued a practice advisory recommending hepatitis screening for all pregnant persons during
+each pregnancy [65]. The Society for Maternal-Fetal Medicine
+endorsed that practice advisory and published a concurring
+recommendation in September 2021 [66]. Given that the
+DHHS viral hepatitis national strategic plan specifies expanded
+implementation of universal hepatitis C screening during pregnancy as an important strategy for actualizing HCV elimination [4], the coalescence of screening recommendations for
+this key population is an important step toward achieving
+that goal. Treatment recommendations during pregnancy are
+largely unchanged from the previous update [5]. Although
+there have been no published large-scale clinical trials to evaluate the safety of DAA therapy during pregnancy, smaller studies and case series have not demonstrated any safety concerns
+[67–71]. The Guidance Panel suggests that DAA treatment
+may be considered during pregnancy on a case-by-case basis after a discussion of potential risks and benefits.
+HCV in Children
+
+Strategies to reduce the burden of HCV-related disease have
+historically focused on the adult population [72]. Data from a
+2023 AASLD-IDSA Hepatitis C Guidance • CID • 9
+
+Downloaded from https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciad319/7179952 by guest on 25 May 2026
+
+with an initial DAA treatment failure and a subsequent retreatment failure with sofosbuvir/velpatasvir/voxilaprevir included 4
+persons who received 24 weeks of sofosbuvir/velpatasvir/voxilaprevir rescue therapy (1 with the addition of ribavirin).
+SVR12 was 100% (4 of 4) in this small group of extensively
+DAA-experienced patients [53]. The recommendation to extend
+duration of therapy to 24 weeks in conjunction with weightbased ribavirin when retreating with the same DAA regimen
+(sofosbuvir/velpatasvir/voxilaprevir) is predominantly based
+on extrapolation from prior studies that have shown benefit
+with this strategy in different populations [55].
+
+Table 3. Recommendations for Initial Treatment of Hepatitis C Virus–
+Infected Pediatric Patients Without Cirrhosis or With Compensated
+Cirrhosis
+Regimen
+
+Genotype
+
+Classification
+
+Duration
+
+Rating
+
+Glecaprevir/pibrentasvir
+
+1–6
+
+Sofosbuvir/velpatasvir
+
+1–6
+
+Recommended
+
+8 wk
+
+I, B
+
+Recommended
+
+12 wk
+
+Ledipasvir/sofosbuvir
+
+1, 4, 5, 6
+
+I, B
+
+Recommended
+
+12 wk
+
+I, B
+
+Recommendations are listed by genotypic activity, evidence level, and alphabetically.
+
+Management of HCV After Solid Organ Transplantation
+
+Clinical trial and real-world data provide robust evidence
+supporting the safety and efficacy of HCV DAA treatment in patients who have undergone solid organ transplantation [91–95].
+Discussion of specific clinical scenarios follows. Table 5 shows
+HCV treatment recommendations posttransplantation.
+Treatment of Recurrent HCV Infection Post Liver and Kidney
+Transplantation
+
+The phase 3, single-arm, open-label MAGELLAN-2 trial, titled
+“Glecaprevir/pibrentasvir treatment in liver or kidney transplant
+patients with hepatitis C virus infection” evaluated a 12-week
+course of once-daily glecaprevir (300 mg)/pibrentasvir
+(120 mg) for the treatment of HCV infection (genotypes 1
+through 6) among patients without cirrhosis who had undergone
+liver or kidney transplantation and were ≥3 months posttransplantation. Those whose immunosuppressive regimen included
+cyclosporine >100 mg/d or prednisone >10 mg/d were excluded.
+Treatment-naive and treatment-experienced (genotypes 1, 2, 4, 5,
+6; prior treatment with interferon-based therapy or sofosbuvir
+plus ribavirin with or without pegylated interferon) participants
+were included. Treatment-experienced persons with genotype 3
+infection were excluded. Overall, SVR12 was 98% (98 of 100).
+No treatment-related serious adverse events were reported [91].
+Sofosbuvir-based regimens have also shown efficacy in persons who have undergone liver or kidney transplantation
+[93–96]. Investigators who conducted a real-world observational study to evaluate the efficacy and safety of DAA therapy
+in 179 liver, kidney, or dual liver and kidney transplant recipients reported an SVR12 of 94% (169 of 179) among participants
+treated with ledipasvir/sofosbuvir. Adverse events, including
+acute cellular rejection, were rare [93]. A phase 2, open-label
+study that evaluated 12 weeks of daily sofosbuvir (400 mg)/velpatasvir (100 mg) in 79 HCV-infected (genotypes 1, 2, 3, 4)
+
+Table 4. Recommendations for Retreatment of Hepatitis C Virus–Infected Pediatric Patients by Prior Exposure and Cirrhosis Status
+Regimen
+
+Genotypes
+
+Classification
+
+Duration
+
+Rating
+
+Cirrhosis Status
+
+Interferon-based regimen (±ribavirin) and/or sofosbuvir treatment failure without NS3/4A protease inhibitor or NS5A inhibitor exposure
+Glecaprevir/pibrentasvir
+
+1, 2, 4, 5, 6
+
+Recommended
+
+8 wk
+
+I, C
+
+No cirrhosis
+
+Glecaprevir/pibrentasvir
+
+1, 2, 4, 5, 6
+
+Recommended
+
+12 wk
+
+I, C
+
+Compensated cirrhosis
+
+Glecaprevir/pibrentasvir
+
+3
+
+Recommended
+
+16 wk
+
+I, C
+
+Without cirrhosis or with compensated cirrhosis
+
+Sofosbuvir/velpatasvir
+
+1–6
+
+Recommended
+
+12 wk
+
+I, C
+
+Without cirrhosis or with compensated cirrhosis
+
+Sofosbuvir/velpatasvir + weight-based ribavirin
+
+1–6
+
+Recommended
+
+12 wk
+
+I, C
+
+Decompensated cirrhosis
+
+12 wk
+
+I, C
+
+Without cirrhosis or with compensated cirrhosis
+
+16 wk
+
+I, C
+
+Without cirrhosis or with compensated cirrhosis
+
+NS3/4A protease inhibitor treatment failure without NS5A inhibitor exposure
+Glecaprevir/pibrentasvir
+
+1–6
+
+Recommended
+
+NS5A inhibitor treatment failure without NS3/4A protease inhibitor exposure
+Glecaprevir/pibrentasvir
+
+1–6
+
+Recommended
+
+Interferon (± ribavirin) plus a hepatitis C virus protease inhibitor treatment failure
+Ledipasvir/sofosbuvir
+
+4, 5, 6
+
+Recommended
+
+12 wk
+
+I, C
+
+Without cirrhosis or with compensated cirrhosis
+
+Ledipasvir/sofosbuvir
+
+1
+
+Recommended
+
+12 wk
+
+I, C
+
+No cirrhosis
+
+Ledipasvir/sofosbuvir
+
+1
+
+Recommended
+
+24 wk
+
+I, C
+
+Compensated cirrhosis
+
+Recommendations are listed by genotypic activity, evidence level, and alphabetically.
+Abbreviations: NS3/4A, hepatitis C virus nonstructural protein 3–4A; NS5A, hepatitis C virus nonstructural protein 5A.
+
+10 • CID • Bhattacharya et al
+
+Downloaded from https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciad319/7179952 by guest on 25 May 2026
+
+recent modeling study indicate that at least 3.26 million children and adolescents (aged ≤18 years) are living with HCV infection worldwide [73]. National hepatitis C incidence and
+prevalence data among children and adolescents in the
+United States are sparse and/or outdated [73]. However, with
+the recent increase in HCV infection among women of childbearing age [15, 74–78] comes a coincident risk of increased
+cases of mother-to-child transmission [76], the primary route
+of HCV transmission in children [79, 80].
+Treatment for HCV infection in children has been revolutionized in recent years, beginning with the US Food and
+Drug Administration approval of the first DAAs for adolescents in April 2017 [81, 82] to the June 2021 approval of 2 pangenotypic regimens (glecaprevir/pibrentasvir and sofosbuvir/
+velpatasvir) for children as young as 3 years [83, 84]. Efficacy
+and safety data from therapeutic DAA clinical trials conducted in children are largely comparable to those from studies
+conducted in adults [85–90]. As such, the Guidance Panel reaffirms its recommendation to treat all HCV-infected children
+and adolescents aged ≥3 years with an approved DAA regimen regardless of disease severity. Treatment and retreatment
+recommendations for children are shown in Tables 3 and 4,
+respectively.
+
+Table 5. Recommendations for Hepatitis C Virus Treatment Posttransplantation
+Regimen
+
+Genotypes
+
+Classification
+
+Duration
+
+Rating
+
+Caveats and Other Considerations
+
+Recurrent HCV post liver transplant without cirrhosis
+Glecaprevir/
+pibrentasvir
+
+1–6
+
+Recommended
+
+12 wk
+
+I, B
+
+Sofosbuvir/
+velpatasvir
+
+1–6
+
+Recommended
+
+12 wk
+
+I, B
+
+Ledipasvir/
+sofosbuvir
+
+1, 4, 5, 6
+
+Recommended
+
+12 wk
+
+I, B
+
+Recurrent HCV post liver transplant with compensated cirrhosis
+1–6
+
+Recommended
+
+12 wk
+
+I, B
+
+Glecaprevir/
+pibrentasvir
+
+1–6
+
+Recommended
+
+12 wk
+
+I, C
+
+Ledipasvir/
+sofosbuvir
+
+1, 4, 5, 6
+
+Recommended
+
+12 wk
+
+I, A
+
+Recurrent HCV post kidney transplant without cirrhosis or with compensated cirrhosis
+Glecaprevir/
+pibrentasvir
+
+1–6
+
+Recommended
+
+12 wk
+
+I, Aa
+IIa, Cb
+
+Sofosbuvir/
+velpatasvir
+
+1–6
+
+Recommended
+
+12 wk
+
+IIa, C
+
+Ledipasvir/
+sofosbuvir
+
+1, 4, 5, 6
+
+Recommended
+
+12 wk
+
+I, A
+
+Elbasvir/
+grazoprevir
+
+1, 4
+
+Alternative
+
+12 wk
+
+I, B
+
+Limited to patients without baseline NS5A RASs for elbasvir.
+
+HCV-uninfected recipients of liver grafts from HCV-viremic donors
+Glecaprevir/
+pibrentasvir
+
+1–6
+
+Recommended
+
+12 wk
+
+I, C
+
+Timing: initiate treatment within the first 2 wk posttransplant, preferably within the first
+week.
+
+Sofosbuvir/
+velpatasvir
+
+1–6
+
+Recommended
+
+12 wk
+
+I, C
+
+Timing: initiate treatment within the first 2 wk posttransplant, preferably within the first
+week.
+
+HCV-uninfected recipients of non-liver solid organs from HCV-viremic donors
+Glecaprevir/
+pibrentasvir
+
+1–6
+
+Recommended
+
+8 wkc
+
+I, C
+
+Timing: initiate treatment prior to HCV RNA results, immediately pretransplant or day 0
+posttransplant, if possible. Otherwise, begin on day 0 to within the first week
+posttransplant when clinically stable.
+
+Sofosbuvir/
+velpatasvir
+
+1–6
+
+Recommended
+
+12 wk
+
+I, C
+
+Timing: initiate treatment prior to HCV RNA results, immediately pretransplant or day 0
+posttransplant, if possible. Otherwise, begin on day 0 to within the first week
+posttransplant when clinically stable.
+
+Recommendations are listed by genotypic activity, evidence level, and alphabetically.
+Abbreviations: HCV, hepatitis C virus; NS5A, hepatitis C virus nonstructural protein 5A; RAS, resistance associated substitution.
+a
+
+Rating is based on evidence for persons without cirrhosis.
+
+b
+
+Rating is based on evidence for persons with compensated cirrhosis.
+
+c
+
+If treatment initiation is delayed beyond the first week after transplant, treatment should be extended to 12 weeks.
+
+liver transplant recipients demonstrated a similar response rate
+with an SVR12 of 96% (76 of 79). No treatment-related serious
+adverse events, transplant rejection episodes, or deaths occurred during the study period [94].
+Important drug–drug interactions unique to the posttransplant setting should be addressed prior to initiation of DAA
+therapy. Cyclosporine significantly increases the area under
+the curve of elbasvir/grazoprevir [97, 98] as well as sofosbuvir/velpatasvir/voxilaprevir [99] and should not be coadministered with these regimens. Coadministration of glecaprevir/
+pibrentasvir and cyclosporine >100 mg/d is also not recommended [83].
+
+Given that available data support the safety and efficacy of
+DAA therapy in the posttransplant setting, many transplant
+centers have begun using solid organs from HCV-positive donors for HCV-negative recipients to increase the pool of available organs [101–106]. The pool of HCV-positive donors
+includes both HCV-viremic donors (ie, HCV RNA–positive)
+and HCV-seropositive donors (ie, HCV antibody–positive,
+HCV RNA–negative [nonviremic]). The use of HCV-positive
+organs has been shown to be an effective strategy for increasing
+access to transplantation and reducing wait-list time and overall mortality [107–110].
+
+Treatment of HCV-Uninfected Transplant Recipients Receiving
+Organs From HCV-Viremic Donors
+
+Timing and Treatment of HCV-Viremic Liver Grafts in Nonviremic
+
+A large disparity persists among people in need of solid organ
+transplantation and available deceased donor organs [100].
+
+possible when transplanting an HCV-viremic liver graft into
+an HCV-seronegative recipient [111]. In a recent multicenter
+
+Recipients. Emerging data support HCV treatment as early as
+
+2023 AASLD-IDSA Hepatitis C Guidance • CID • 11
+
+Downloaded from https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciad319/7179952 by guest on 25 May 2026
+
+Sofosbuvir/
+velpatasvir
+
+Timing and Treatment of HCV-Viremic Non-Liver Grafts in Nonviremic
+Recipients. HCV treatment should occur as early as possible in
+
+HCV-seronegative patients who undergo transplantation with
+a non-liver graft from an HCV-viremic donor. This strategy reduces the likelihood of hepatic and extrahepatic HCV-related
+complications in the immediate posttransplant period. The
+phase 4, open-label, multicenter MYTHIC clinical trial evaluated the efficacy and safety of 8 weeks of once-daily glecaprevir
+(300 mg)/pibrentasvir (120 mg) in 30 HCV-negative kidney
+transplant recipients who underwent transplantation using a
+graft from an HCV-viremic donor [113]. Treatment initiation
+occurred 2 days to 5 days posttransplantation (target was 3
+days). All 30 participants achieved SVR12; no HCV-related serious adverse events were reported [113]. Based on this study
+and others showing benefit(s) associated with early HCV treatment [113–116], use of a prophylactic (immediately prior to
+transplantation or day 0 posttransplantation) or preemptive
+(day 0 to day 7 posttransplantation; as soon as the patient is
+clinically stable) strategy for initiation of DAA treatment is recommended for HCV-negative recipients of a non-liver solid organ graft from an HCV-viremic donor. Note that neither
+approach requires demonstration of HCV viremia in the transplant recipient.
+Shorter durations of DAA-based therapy in this setting are
+currently under investigation with promising results. These
+practices, however, are currently not recommended outside
+of a clinical trial [115, 117, 118].
+Outcomes and Process in Transplantation Using HCV-Viremic Donor
+Grafts in HCV-Seronegative Recipients. Data evaluating longer-
+
+12 • CID • Bhattacharya et al
+
+term patient outcomes after transplantation with an
+HCV-viremic donor organ have shown encouraging results.
+Among 51 dual heart/kidney transplant recipients undergoing
+transplantation with organs from HCV-viremic donors, 1-year
+survival was comparable to survival in those who received organs from nonviremic donors [119]. Another study that evaluated outcomes among multiorgan transplant recipients (heart/
+kidney, heart/lung, heart/liver) demonstrated similar 1-year
+survival among recipients of organs from HCV-viremic donors
+compared with those who received organs from HCV-negative
+donors [106].
+In an analysis of the United Network for Organ Sharing database, HCV-negative liver transplant patients who received the
+graft from an HCV-positive donor (viremic and nonviremic)
+were shown to have superior 1-year graft survival rates compared with those who received a graft from an HCV-negative donor [120]. Notably, HCV-positive donors were statistically
+significantly younger than their HCV-negative counterparts.
+Multivariate analysis demonstrated that donor age, but not donor HCV status, was an independent predictor of 1-year graft
+survival [120].
+Extensive informed consent, as recommended by the
+American Society of Transplantation Consensus Panel
+[121], and shared decision-making between the patient and
+clinical team should occur prior to transplantation of an
+HCV-viremic organ into an HCV-negative recipient.
+Patients should understand the risk of HCV infection, risk
+to caregivers from needlestick exposures, as well as success
+rates and risks of DAA-based therapy [115, 121–125]. Given
+the breadth of safety and efficacy data now available, institutional review board–approved protocols are no longer required. However, based on the unique factors noted,
+transplant centers should have a specific HCV consent and
+follow-up process in place.
+People Who Inject Drugs
+
+Injection drug use (IDU) is the most common risk factor for
+HCV infection in North America and Europe. The HCV seroprevalence among PWID ranges from 18% to 88%, depending
+on geographic location [126] and duration of IDU exposure
+[127, 128]. IDU accounts for approximately 70% of new
+HCV infections [59]. Thus, the growing opioid epidemic has
+become an important force in the perpetuation of the HCV epidemic [1, 2, 4, 14, 16, 59]. Consequently, achieving the
+goal of HCV elimination depends heavily on diagnosing and
+treating HCV infection in PWID and on implementing harm
+reduction strategies to prevent future infections [1, 2, 4, 122,
+129–132]. Data from Australia support the efficacy of the
+treatment-as-prevention approach among PWID. After implementation of unrestricted access to DAA therapy in 2016,
+the proportion of PWID diagnosed with active HCV infection
+who were treated increased from 3% to 47%, while the
+
+Downloaded from https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciad319/7179952 by guest on 25 May 2026
+
+prospective study, 34 HCV-seronegative liver transplant
+patients underwent transplantation using organs from
+HCV-positive donors (20 viremic, 14 nonviremic). All recipients of grafts from HCV-viremic donors became viremic by
+day 3 posttransplantation. DAA treatment was initiated in these
+graft recipients a median of 27.5 days after transplantation.
+SVR12 was 100% (20 of 20). One patient developed acute
+HCV-related membranous nephropathy on postoperative day
+18 (prior to initiation of DAA therapy), ultimately resulting
+in end-stage renal disease requiring dialysis despite achieving
+SVR12 [112]. This case highlights the importance of early initiation of DAA therapy posttransplantation to avoid
+HCV-related complications. The Guidance Panel recommends
+initiating therapy at least within 2 weeks after transplantation
+but preferably within 1 week when the patient is clinically
+stable.
+An abbreviated duration of DAA therapy is currently not
+recommended for recipients of organs from HCV-viremic donors due to lack of data demonstrating efficacy. The large reservoir of HCV in a transplanted liver graft may be responsible
+for the lack of efficacy.
+
+Men Who Have Sex With Men Not Living With HIV
+
+While the increased risk of HCV infection among MSM living
+with HIV is well known [145], acute HCV infections have also
+been reported among MSM not living with HIV who present
+for HIV preexposure prophylaxis (PrEP) [146, 147]. HCV testing at HIV PrEP initiation and at least annually thereafter
+(while on PrEP) is recommended for MSM not living with
+HIV. All MSM should be counseled about the risk of sexual
+HCV transmission with high-risk sexual and drug use practices
+and educated about measures to prevent HCV infection or
+transmission [148, 149].
+Antiviral treatment for HCV-infected MSM should be coupled with ongoing counseling about the risk of HCV reinfection
+and education about methods to reduce HCV reinfection risk after cure [150]. At least annual (and risk-based, if indicated) HCV
+RNA testing is recommended for all high-risk sexually active
+MSM after successful treatment or spontaneous clearance of
+HCV infection [151, 152].
+Persons in Correctional Settings
+
+Recent cross-sectional surveys suggest that the HCV seroprevalence among incarcerated populations in the United States
+ranges from 3.0% to 34.6% [153], which exceeds the 1.7%
+HCV seroprevalence in the general population [154]. More
+than 90% of these persons are eventually released and reenter
+the general population where they can contribute to HCV
+spread in the community [155, 156] and may have little contact
+with the healthcare system [157, 158]. Given the high HCV
+
+prevalence among persons in the US correctional system, the
+success of the US HCV elimination effort depends on identifying infected individuals in jails and prisons, linking these persons to medical care for HCV management, and providing
+access to antiviral treatment [2, 159]. Jails and prisons should
+therefore implement opt-out HCV testing that consists of
+HCV antibody testing followed by confirmatory HCV RNA
+testing if antibody-positive. Universal opt-out testing of incarcerated persons for chronic HCV is highly cost-effective and
+has been shown to reduce ongoing HCV transmission and
+the incidence of advanced liver disease [160].
+DAA treatment for chronic HCV infection is feasible within
+jail and prison settings and would aid the HCV elimination effort [161, 162]. Chronically infected persons residing in jails
+should receive counseling about HCV infection and be provided linkage to follow-up community healthcare for evaluation of
+liver disease and treatment upon release [163–166]. Those
+whose jail sentence is sufficiently long to complete a recommended course of DAA therapy should receive that treatment
+while incarcerated [161]. Chronically infected individuals in
+prison should receive DAA therapy according to AASLD–
+IDSA guidance while incarcerated [162, 167]. Jails and prisons
+should facilitate continuation of HCV therapy for persons on
+HCV treatment at the time of incarceration. HCV treatment
+in correctional settings is cost-effective because DAAs halt
+progression of HCV-related liver disease and decrease the
+risk of cirrhosis, hepatic decompensation, and hepatocellular
+carcinoma, offsetting future healthcare costs from liver and
+non-liver complications [168].
+Upon release from a correctional facility, HCV-infected
+persons with advanced hepatic fibrosis or cirrhosis should be
+provided linkage to community healthcare for surveillance
+for HCV-related complications. To prevent HCV reinfection
+and reduce the risk of progression of HCV-associated liver disease, correctional facilities should provide harm reduction and
+evidence-based treatment for underlying substance use disorders [169]. Addressing hazardous alcohol use among persons
+with chronic HCV in a correctional setting may help slow liver
+disease progression, decrease HCV transmission, and might reduce recidivism.
+Notes
+Acknowledgments. The panel thanks the able staff of the Infectious
+Diseases Society of America (IDSA) and the American Association for
+the Study of Liver Diseases (AASLD), particularly Jon Heald, Genet
+Demisashi, Elizabeth Durzy, Audrey Davis-Owino, and Sheila Tynes for
+project management and administrative support of the Hepatitis C Virus
+(HCV) Guidance Project, and Dr Tina M. St. John for technical and editorial support of the HCV Guidance Project and manuscript preparation
+assistance.
+Disclaimer. This article does not necessarily represent the views and
+policies of the US Preventive Services Task Force.
+Financial support. The work for the HCV Guidance Project is supported
+exclusively by the AASLD and the IDSA.
+AASLD–IDSA HCV Guidance Panel members and authors.
+
+2023 AASLD-IDSA Hepatitis C Guidance • CID • 13
+
+Downloaded from https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciad319/7179952 by guest on 25 May 2026
+
+proportion of those with HCV viremia declined from 44% to
+17% [133].
+Annual HCV testing is recommended for PWID with ongoing IDU regardless of either no prior testing or past negative
+testing. Substance use disorder treatment programs and needle/syringe exchange programs should offer routine, opt-out
+HCV antibody testing with confirmatory HCV RNA testing
+and linkage to care for those determined to be HCV-infected
+[132, 134]. PWID with HCV infection should be counseled
+about measures to reduce the risk of transmission to others
+and offered linkage to harm reduction services, including intranasal naloxone, needle/syringe service programs, medications
+for opioid use disorder, and other substance use disorder treatment programs.
+Clinical trials and observational studies of PWID reporting
+current IDU at the start of HCV treatment and/or continued
+use during therapy demonstrate SVR12 rates approaching
+95% [135–140]. The Guidance Panel strongly asserts that active
+or recent drug use or concern for reinfection is not a contraindication to HCV treatment. At least annual HCV RNA testing
+is recommended for PWID with recent IDU after they have
+spontaneously cleared HCV infection or have been successfully
+treated [141–144].
+
+14 • CID • Bhattacharya et al
+
+Johnson, and Fujifilm Wako Chemicals Corp. S. C. G. reports research
+grants, paid to institution, from AbbVie, Inc, Gilead Sciences, Inc, and
+Merck & Co, Inc. R. J. reports participation on the AstraZeneca/Sanofi
+Advisory Board, being an expert panel member for Moderna, being an advisory board member/consultant for Seqirus, being a consultant for
+AstraZeneca and Dynavax, royalties from UpToDate, an editorial stipend
+from PIDS, and a research grant from GSK Plc. M. M. J. reports serving
+as a scientific consultant to Gilead Sciences, Inc and research grants, paid
+to institution, from AbbVie, Inc, Gilead Sciences, Inc, F. Hoffmann-La
+Roche AG, and Merck & Co, Inc. J. J. K. reports research grants, paid to
+institution, from Gilead Sciences, Inc. T. R. M. reports research grants,
+paid to institution, from AbbVie, Inc, Genfit, Gilead Sciences, Inc, and
+Merck & Co, Inc. K. R. R. reports serving on scientific advisory boards
+for Spark Therapeutics, Novo Nordisk, Genfit, BioVie, and Mallinckrodt;
+serving on a data and safety monitoring board (DSMB) for Novartis and
+AstraZeneca; grants, paid to institution, from Bristol Myers Squibb Co,
+Exact Sciences Corp, Grifols, Intercept Pharmaceuticals, Inc, BioVie,
+Mallinckrodt Pharmaceuticals, Merck & Co, Inc, Sequana Medical
+Co, HCC-TARGET, and NASH-TARGET. A. R.’s organization was awarded educational grants from AbbVie, Inc and Gilead Sciences,
+Inc. J. D. S. reports personal financial relationships with Gilead Sciences,
+Inc and Premera Blue Cross. G. S.’s organization was awarded grants
+from AbbVie, Inc, Gilead Sciences, Inc, and Merck & Co,
+Inc. N. A. T. reports serving on the DSMB of Moderna, Inc and research
+grants, paid to institution, from Gilead Sciences, Inc, GSK Plc, Helio
+Health Group, and F. Hoffmann-La Roche AG (Genentech). E. C. V. reports serving on an advisory board for Gilead Sciences, Inc and research
+grants, paid to institution, from Salix Pharmaceuticals, Inc. J. B. W. is a
+member of the US Preventive Services Task Force. K. W. reports research
+grants, paid to institution, from Gilead Sciences, Inc. D. L. W. reports research grants, paid to institution, from Gilead Sciences, Inc. J. P. reports
+grant support, paid to institution, from AbbVie, Inc, Zydus, and
+Genentech. All other authors report no potential conflicts.
+All authors have submitted the ICMJE Form for Disclosure of Potential
+Conflicts of Interest. Conflicts that the editors consider relevant to the content of the manuscript have been disclosed.
+References
+1. World Health Organization. Global health sector strategy on viral hepatitis, 2016–
+2021. Published June 2016. Available at: https://apps.who.int/iris/bitstream/
+handle/10665/246177/WHO-HIV-2016.06-eng.pdf. Accessed 28 November 2022.
+2. National Academies of Sciences, Engineering, and Medicine. A national strategy
+for the elimination of hepatitis B and C: phase two report. Washington, DC:
+National Academies Press, 2017.
+3. US Centers for Disease Control and Prevention. Healthy people 2030, infectious
+disease. Available at: https://health.gov/healthypeople/objectives-and-data/
+browse-objectives/infectious-disease. Accessed 21 November 2022.
+4. US Department of Health and Human Services. Viral hepatitis national strategic
+plan for the United States: a roadmap to elimination (2021–2025). Published 7
+January 2021. Available at: https://www.hhs.gov/hepatitis/viral-hepatitisnational-strategic-plan/index.html. Accessed 25 November 2022.
+5. Ghany MG, Morgan TR. Hepatitis C guidance 2019 update: American
+Association for the Study of Liver Diseases-Infectious Diseases Society of
+America recommendations for testing, managing, and treating hepatitis C virus
+infection. Hepatology 2020; 71:686–721.
+6. American Heart Association. Methodology manual and policies from the ACCF/
+AHA Task Force on Practice Guidelines. Dallas, TX: American College of
+Cardiology Foundation and American Heart Association, Inc, 2010.
+7. Shiffman RN, Shekelle P, Overhage JM, Slutsky J, Grimshaw J, Deshpande AM.
+Standardized reporting of clinical practice guidelines: a proposal from the
+Conference on Guideline Standardization. Ann Intern Med 2003; 139:493–8.
+8. Owens DK, Davidson KW, Krist AH, et al. Screening for hepatitis C virus infection in adolescents and adults: US Preventive Services Task Force recommendation statement. JAMA 2020; 323:970–5.
+9. Schillie S, Wester C, Osborne M, Wesolowski L, Ryerson AB. CDC recommendations for hepatitis C screening among adults—United States, 2020. MMWR
+Recomm Rep 2020; 69:1–17.
+10. Eckman MH, Ward JW, Sherman KE. Cost effectiveness of universal screening
+for hepatitis C virus infection in the era of direct-acting, pangenotypic treatment
+regimens. Clin Gastroenterol Hepatol 2019; 17:930–939.e9.
+
+Downloaded from https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciad319/7179952 by guest on 25 May 2026
+
+Co-Chairs
+Andrew I. Aronsohn, MD, Department of Medicine, Section of
+Gastroenterology, University of Chicago Pritzker School of Medicine,
+Chicago, IL, USA; Debika Bhattacharya, MD, Department of Medicine,
+Division of Infectious Diseases, University of California–Los Angeles
+David Geffen School of Medicine, Los Angeles, CA, USA; Vincent Lo Re,
+MD, MSCE, Department of Medicine, Division of Infectious Diseases,
+University of Pennsylvania Perelman School of Medicine, Philadelphia,
+PA, USA; and Jennifer C. Price, MD, PhD, Department of Medicine,
+Division of Gastroenterology, University of California–San Francisco
+School of Medicine, San Francisco, CA, USA
+Panel Members
+Jordan J. Feld, MD, MPH, University of Toronto, Toronto, ON, Canada;
+Stuart C. Gordon, MD, Henry Ford Health System, Division of Hepatology,
+Detroit, MI, USA; Theo Heller, MD, National Institute of Diabetes and
+Digestive and Kidney Diseases, US National Institutes of Health,
+Bethesda, MD, USA; Ravi Jhaveri, MD, FIDSA, FPIDS, FAAP,
+Department of Pediatrics, Division of Pediatric Infectious Diseases,
+Feinberg Northwestern School of Medicine, Chicago, IL, USA; Maureen
+M. Jonas, MD, Division of Gastroenterology, Children’s Hospital of
+Boston, Harvard Medical School, Boston, MA, USA; Jennifer J. Kiser,
+PharmD, PhD, Center for Translational Pharmacokinetics and
+Pharmacogenomics, University of Colorado Skaggs School of Pharmacy
+and Pharmaceutical Sciences, Aurora, CO, USA; Benjamin P. Linas, MD,
+MPH, Department of Medicine, Center for Health Economics of
+Treatment Interventions for Substance Use Disorders, HCV, and HIV,
+Boston University Chobanian & Avedisian School of Medicine, Boston,
+MA, USA; Timothy R. Morgan, MD, Department of Medicine, Veterans
+Affairs Long Beach Healthcare System, Long Beach, CA, USA, and
+University of California Irvine School of Medicine, Orange, CA, USA;
+K. Rajender Reddy, MD, Division of Gastroenterology and Hepatology,
+University of Pennsylvania Perelman School of Medicine, Philadelphia,
+PA, USA;
+Andrew Reynolds, Hepatitis C Wellness Manager, San Francisco AIDS
+Foundation, San Francisco, CA, USA; John D. Scott, MD, MSc, FIDSA,
+Department of Medicine, Division of Allergy and Infectious Diseases,
+University of Washington School of Medicine, Seattle, WA, USA; Gloria
+Searson, ACSW, Founding Director and Executive Director, Coalition on
+Positive Health Empowerment, New York, NY, USA; Philip Spradling,
+MD, National Center for HIV, Viral Hepatitis, STD, and TB Prevention,
+Division of Viral Hepatitis, US Centers for Disease Control and
+Prevention, Atlanta, GA, USA; Norah A. Terrault, MD, Department of
+Medicine, Division of Gastroenterology and Liver Diseases, Keck School
+of Medicine at the University of Southern California, Los Angeles, CA,
+USA; Elizabeth C. Verna, MD, MS, Department of Medicine, Division of
+Digestive and Liver Diseases, Columbia University Vagelos College of
+Physicians and Surgeons, New York, NY, USA; John B. Wong, MD,
+Department of Medicine, Division of Clinical Decision Making, Tufts
+University School of Medicine, Boston, MA, USA;
+Ann E. Woolley, MD, MPH, Department of Medicine, Division of
+Infectious Diseases, Harvard Medical School, Boston, MA, USA;
+Kimberley A. Workowski, MD, Department of Medicine, Division of
+Infectious Diseases, Emory University School of Medicine, Atlanta, GA,
+USA; and David L. Wyles, MD, Department of Medicine, Division of
+Infectious Diseases, Denver Health, University of Colorado School of
+Medicine, Denver, CO, USA.
+Potential conflicts of interest. D. B. reports research grants, paid to institution, from Gilead Sciences, Inc. J. C. P. reports research grants, paid to
+institution, from Gilead Sciences, Inc and Merck & Co, Inc (spouse has interest in stock that is independently managed in AbbVie, Inc, Bristol Myers
+Squibb Co, Johnson & Johnson, and Merck & Co, Inc). J. J. F. reports serving as a scientific consultant to AbbVie, Inc, Bluejay Therapeutics, Inc,
+Deep Genomics, Inc, Gilead Sciences, Inc, GSK Plc, and Janssen
+Pharmaceutical Companies of Johnson & Johnson and grants, paid to institution, from AbbVie, Inc, Alexion AstraZeneca Rare Disease, Altimmune,
+Inc, Eiger Biopharmaceuticals, Inc, Enanta Pharmaceuticals, Inc, Gilead
+Sciences, Inc, GSK Plc, Janssen Pharmaceutical Companies of Johnson &
+
+and the HIV Medicine Association of the Infectious Disease Society of
+America, 2023. Available at: https://clinicalinfo.hiv.gov/en/guidelines/adultand-adolescent-opportunistic-infection.
+35. Carrat F, Fontaine H, Dorival C, et al. Clinical outcomes in patients with chronic
+hepatitis C after direct-acting antiviral treatment: a prospective cohort study.
+Lancet 2019; 393:1453–64.
+36. Kalidindi Y, Jung J, Feldman R, Riley T 3rd. Association of direct-acting antiviral
+treatment with mortality among Medicare beneficiaries with hepatitis C. JAMA
+Netw Open 2020; 3:e2011055.
+37. Chou R, Dana T, Fu R, et al. Screening for hepatitis C virus infection in adolescents and adults: a systematic review update for the U.S. Preventive Services Task
+Force [Internet]. Rockville, MD: Agency for Healthcare Research and Quality
+(US), 2020.
+38. Brown RS Jr, Buti M, Rodrigues L, et al. Glecaprevir/pibrentasvir for 8 weeks in
+treatment-naive patients with chronic HCV genotypes 1–6 and compensated
+cirrhosis: the EXPEDITION-8 trial. J Hepatol 2020; 72:441–9.
+39. Jacobson IM, Lawitz E, Gane EJ, et al. Efficacy of 8 weeks of sofosbuvir,
+velpatasvir, and voxilaprevir in patients with chronic HCV infection: 2 phase
+3 randomized trials. Gastroenterology 2017; 153:113–22.
+40. Bourlière M, Gordon SC, Schiff ER, et al. Deferred treatment with
+sofosbuvir-velpatasvir-voxilaprevir for patients with chronic hepatitis C virus
+who were previously treated with an NS5A inhibitor: an open-label substudy
+of POLARIS-1. Lancet Gastroenterol Hepatol 2018; 3:559–65.
+41. Bourlière M, Gordon SC, Flamm SL, et al. Sofosbuvir, velpatasvir, and voxilaprevir for previously treated HCV infection. N Engl J Med 2017; 376:2134–46.
+42. Da BL, Lourdusamy V, Kushner T, Dieterich D, Saberi B. Efficacy of sofosbuvir/
+velpatasvir/voxilaprevir in direct-acting antiviral experienced patients with hepatitis C virus. Eur J Gastroenterol Hepatol 2021; 33:859–61.
+43. Belperio PS, Shahoumian TA, Loomis TP, Backus LI. Real-world effectiveness of
+sofosbuvir/velpatasvir/voxilaprevir in 573 direct-acting antiviral experienced
+hepatitis C patients. J Viral Hepat 2019; 26:980–90.
+44. Degasperi E, Spinetti A, Lombardi A, et al. Real-life effectiveness and safety of
+sofosbuvir/velpatasvir/voxilaprevir in hepatitis C patients with previous DAA
+failure. J Hepatol 2019; 71:1106–15.
+45. Llaneras J, Riveiro-Barciela M, Lens S, et al. Effectiveness and safety of sofosbuvir/velpatasvir/voxilaprevir in patients with chronic hepatitis C previously treated with DAAs. J Hepatol 2019; 71:666–72.
+46. Poordad F, Pol S, Asatryan A, et al. Glecaprevir/pibrentasvir in patients with
+hepatitis C virus genotype 1 or 4 and past direct-acting antiviral treatment failure. Hepatology 2018; 67:1253–60.
+47. Poordad F, Felizarta F, Asatryan A, et al. Glecaprevir and pibrentasvir for 12
+weeks for hepatitis C virus genotype 1 infection and prior direct-acting antiviral
+treatment. Hepatology 2017; 66:389–97.
+48. Lok AS, Sulkowski MS, Kort JJ, et al. Efficacy of glecaprevir and pibrentasvir in
+patients with genotype 1 hepatitis C virus infection with treatment failure after
+NS5A inhibitor plus sofosbuvir therapy. Gastroenterology 2019; 157:
+1506–17.e1.
+49. Wyles D, Weiland O, Yao B, et al. Retreatment of patients who failed glecaprevir/
+pibrentasvir treatment for hepatitis C virus infection. J Hepatol 2019; 70:
+1019–23.
+50. Pearlman B, Perrys M, Hinds A. Sofosbuvir/velpatasvir/voxilaprevir for previous
+treatment failures with glecaprevir/pibrentasvir in chronic hepatitis C infection.
+Am J Gastroenterol 2019; 114:1550–2.
+51. Bernhard B, Stickel F. Successful fourth line treatment of a relapse patient with
+chronic hepatitis C virus infection genotype 3a using sofosbuvir, glecaprevir/pibrentasvir, and ribavirin: a case report. Z Gastroenterol 2020; 58:451–5.
+52. Fierer DS, Wyles DL. Re-treatment of hepatitis C infection after multiple failures
+of direct-acting antiviral therapy. Open Forum Infect Dis 2020; 7:ofaa095.
+53. Dietz J, Di Maio VC, de Salazar A, et al. Failure on voxilaprevir, velpatasvir, sofosbuvir and efficacy of rescue therapy. J Hepatol 2021; 74:801–10.
+54. Trudeau S, Mendiratta V, Dababneh Y, Hollingsworth J, Gordon SC. Letter to
+the editor: successful treatment of multidrug resistant hepatitis C after >12
+months of continuous therapy with direct-acting antivirals. Hepatology 2023;
+77:E9–E10.
+55. Gane EJ, Shiffman ML, Etzkorn K, et al. Sofosbuvir-velpatasvir with ribavirin for
+24 weeks in hepatitis C virus patients previously treated with a direct-acting antiviral regimen. Hepatology 2017; 66:1083–9.
+56. Osinusi A, Kohli A, Marti MM, et al. Re-treatment of chronic hepatitis C virus
+genotype 1 infection after relapse: an open-label pilot study. Ann Intern Med
+2014; 161:634–8.
+57. Wyles D, Pockros P, Morelli G, et al. Ledipasvir-sofosbuvir plus ribavirin for patients with genotype 1 hepatitis C virus previously treated in clinical trials of sofosbuvir regimens. Hepatology 2015; 61:1793–7.
+
+2023 AASLD-IDSA Hepatitis C Guidance • CID • 15
+
+Downloaded from https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciad319/7179952 by guest on 25 May 2026
+
+11. Buti M, Domínguez-Hernández R, Casado MA, Sabater E, Esteban R. Healthcare
+value of implementing hepatitis C screening in the adult general population in
+Spain. PLoS One 2018; 13:e0208036.
+12. Wong WWL, Tu HA, Feld JJ, Wong T, Krahn M. Cost-effectiveness of screening
+for hepatitis C in Canada. CMAJ 2015; 187:E110–21.
+13. Barocas JA, Tasillo A, Eftekhari Yazdi G, et al. Population-level outcomes and
+cost-effectiveness of expanding the recommendation for age-based hepatitis C
+testing in the United States. Clin Infect Dis 2018; 67:549–56.
+14. Zibbell JE, Iqbal K, Patel RC, et al. Increases in hepatitis C virus infection related
+to injection drug use among persons aged ≤30 years—Kentucky, Tennessee,
+Virginia, and West Virginia, 2006–2012. MMWR Morb Mortal Wkly Rep
+2015; 64:453–8.
+15. Ly KN, Jiles RB, Teshale EH, Foster MA, Pesano RL, Holmberg SD. Hepatitis C
+virus infection among reproductive-aged women and children in the United
+States, 2006 to 2014. Ann Intern Med 2017; 166:775–82.
+16. Suryaprasad AG, White JZ, Xu F, et al. Emerging epidemic of hepatitis C virus
+infections among young nonurban persons who inject drugs in the United
+States, 2006–2012. Clin Infect Dis 2014; 59:1411–9.
+17. Falade-Nwulia O, Suarez-Cuervo C, Nelson DR, Fried MW, Segal JB, Sulkowski
+MS. Oral direct-acting agent therapy for hepatitis C virus infection: a systematic
+review. Ann Intern Med 2017; 166:637–48.
+18. Ferrante ND, Newcomb CW, Forde KA, et al. The hepatitis C care cascade during the direct-acting antiviral era in a United States commercially insured population. Open Forum Infect Dis 2022; 9:ofac445.
+19. Yehia BR, Schranz AJ, Umscheid CA, Lo Re V 3rd. The treatment cascade for
+chronic hepatitis C virus infection in the United States: a systematic review
+and meta-analysis. PLoS One 2014; 9:e101554.
+20. Yeo YH, Gao X, Wang J, et al. The impact of COVID-19 on the cascade of care of
+HCV in the US and China. Ann Hepatol 2022; 27:100685.
+21. Kaufman HW, Bull-Otterson L, Meyer WA 3rd, et al. Decreases in hepatitis C
+testing and treatment during the COVID-19 pandemic. Am J Prev Med 2021;
+61:369–76.
+22. US Centers for Disease Control and Prevention. CDC museum COVID-19 timeline. Last reviewed 16 August 2022. Available at: https://www.cdc.gov/museum/
+timeline/covid19.html. Accessed 29 November 2022.
+23. Mandel E, Peci A, Cronin K, et al. The impact of the first, second and third waves
+of COVID-19 on hepatitis B and C testing in Ontario, Canada. J Viral Hepat
+2022; 29:205–8.
+24. Thompson WW, Symum H, Sandul A, et al. Vital signs: hepatitis C treatment
+among insured adults—United States, 2019–2020. MMWR Morb Mortal Wkly
+Rep 2022; 71:1011–7.
+25. Kondili LA, Buti M, Riveiro-Barciela M, et al. Impact of the COVID-19 pandemic on hepatitis B and C elimination: an EASL survey. JHEP Rep 2022; 4:100531.
+26. Breckenridge A, Aronson JK, Blaschke TF, Hartman D, Peck CC, Vrijens B. Poor
+medication adherence in clinical trials: consequences and solutions. Nat Rev
+Drug Discov 2017; 16:149–50.
+27. Nieuwlaat R, Wilczynski N, Navarro T, et al. Interventions for enhancing medication adherence. Cochrane Database Syst Rev 2014; 2014:Cd000011.
+28. Serper M, Evon DM, Stewart PW, et al. Medication non-adherence in a prospective, multi-center cohort treated with hepatitis C direct-acting antivirals. J Gen
+Intern Med 2020; 35:1011–20.
+29. Akiyama MJ, Norton BL, Arnsten JH, Agyemang L, Heo M, Litwin AH.
+Intensive models of hepatitis C care for people who inject drugs receiving opioid
+agonist therapy: a randomized controlled trial. Ann Intern Med 2019; 170:
+594–603.
+30. Cunningham EB, Hajarizadeh B, Amin J, et al. Adherence to once-daily and
+twice-daily direct-acting antiviral therapy for hepatitis C infection among people
+with recent injection drug use or current opioid agonist therapy. Clin Infect Dis
+2020; 71:e115–e24.
+31. Cunningham EB, Amin J, Feld JJ, et al. Adherence to sofosbuvir and velpatasvir
+among people with chronic HCV infection and recent injection drug use: the
+SIMPLIFY study. Int J Drug Policy 2018; 62:14–23.
+32. Fabbiani M, Lombardi A, Colaneri M, et al. High rates of sustained virological
+response despite premature discontinuation of directly acting antivirals in
+HCV-infected patients treated in a real-life setting. J Viral Hepat 2021; 28:
+558–68.
+33. Solomon SS, Wagner-Cardoso S, Smeaton L, et al. A minimal monitoring approach for the treatment of hepatitis C virus infection (ACTG A5360
+[MINMON]): a phase 4, open-label, single-arm trial. Lancet Gastroenterol
+Hepatol 2022; 7:307–17.
+34. Panel on Guidelines for the Prevention and Treatment of Opportunistic
+Infections in Adults and Adolescents with HIV. Guidelines for the prevention
+and treatment of opportunistic infections in adults and adolescents with HIV.
+National Institutes of Health, Centers for Disease Control and Prevention,
+
+16 • CID • Bhattacharya et al
+
+81. US Food and Drug Administration. Harvoni prescribing information. Updated
+April 2017. Available at: https://www.accessdata.fda.gov/drugsatfda_docs/label/
+2017/205834s017lbl.pdf. Accessed 25 November 2022.
+82. US Food and Drug Administration. Solvaldi prescribing information. Updated
+April 2017. Available at: https://www.accessdata.fda.gov/drugsatfda_docs/
+label/2017/204671s006lbl.pdf. Accessed 25 November 2022.
+83. US Food and Drug Administration. Mavyret prescribing information. Updated
+June 2021. Available at: https://www.accessdata.fda.gov/drugsatfda_docs/label/
+2021/209394s014,215110s001lbl.pdf. Accessed 25 November 2022.
+84. US Food and Drug Administration. Epclusa prescribing information. Updated
+June 2021. Available at: https://www.accessdata.fda.gov/drugsatfda_docs/label/
+2021/208341s017lbl.pdf. Accessed 25 November 2022.
+85. Jonas MM, Rhee S, Kelly DA, et al. Pharmacokinetics, safety, and efficacy of glecaprevir/pibrentasvir in children with chronic HCV: part 2 of the DORA study.
+Hepatology 2021; 74:19–27.
+86. Jonas MM, Squires RH, Rhee SM, et al. Pharmacokinetics, safety, and efficacy of
+glecaprevir/pibrentasvir in adolescents with chronic hepatitis C virus: part 1 of
+the DORA study. Hepatology 2020; 71:456–62.
+87. Jonas MM, Romero R, Sokal EM, et al. Safety and efficacy of sofosbuvir/velpatasvir in pediatric patients 6 to <18 years old with chronic hepatitis C infection
+[abstract 748]. The Liver Meeting. Boston, Massachusetts; 2019.
+88. Balistreri WF, Murray KF, Rosenthal P, et al. The safety and effectiveness of
+ledipasvir-sofosbuvir in adolescents 12–17 years old with hepatitis C virus genotype 1 infection. Hepatology 2017; 66:371–8.
+89. Schwarz KB, Rosenthal P, Murray KF, et al. Ledipasvir-sofosbuvir for 12 weeks
+in children 3 to <6 years old with chronic hepatitis C. Hepatology 2020;
+2:422-30.
+90. Murray KF, Balistreri WF, Bansal S, et al. Safety and efficacy of ledipasvirsofosbuvir with or without ribavirin for chronic hepatitis C in children ages
+6–11. Hepatology 2018; 68:2158–66.
+91. Reau N, Kwo PY, Rhee S, et al. Glecaprevir/pibrentasvir treatment in liver or kidney transplant patients with hepatitis C virus infection. Hepatology 2018; 68:
+1298–307.
+92. Ueda Y, Kobayashi T, Ikegami T, et al. Efficacy and safety of glecaprevir and pibrentasvir treatment for 8 or 12 weeks in patients with recurrent hepatitis C after
+liver transplantation: a Japanese multicenter experience. J Gastroenterol 2019;
+54:660–6.
+93. Saxena V, Khungar V, Verna EC, et al. Safety and efficacy of current direct-acting
+antiviral regimens in kidney and liver transplant recipients with hepatitis C: results from the HCV-TARGET study. Hepatology 2017; 66:1090–101.
+94. Agarwal K, Castells L, Müllhaupt B, et al. Sofosbuvir/velpatasvir for 12 weeks in
+genotype 1–4 HCV-infected liver transplant recipients. J Hepatol 2018; 69:
+603–7.
+95. Colombo M, Aghemo A, Liu H, et al. Treatment with ledipasvir-sofosbuvir for
+12 or 24 weeks in kidney transplant recipients with chronic hepatitis C virus genotype 1 or 4 infection: a randomized trial. Ann Intern Med 2017; 166:109–17.
+96. Sawinski D, Kaur N, Ajeti A, et al. Successful treatment of hepatitis C in renal
+transplant recipients with direct-acting antiviral agents. Am J Transplant
+2016; 16:1588–95.
+97. Feng HP, Caro L, Fandozzi CM, et al. Pharmacokinetic interactions between elbasvir/grazoprevir and immunosuppressant drugs in healthy volunteers. J Clin
+Pharmacol 2018; 58:666–73.
+98. US Food and Drug Administration. Zepatier prescribing information. Updated
+December 2021. Available at: https://www.accessdata.fda.gov/drugsatfda_docs/
+label/2021/208261s007lbl.pdf. Accessed 26 November 2022.
+99. US Food and Drug Administration. Vosevi prescribing information. Updated
+November 2019. Available at: https://www.accessdata.fda.gov/drugsatfda_
+docs/label/2019/209195s003lbl.pdf. Accessed 26 November 2022.
+100. United Network for Organ Sharing. Updated 14 November 2022. Available at:
+https://www.unos.org/. Accessed 14 November 2022.
+101. Chang SH, Merzkani M, Lentine KL, et al. Trends in discard of kidneys from
+hepatitis C viremic donors in the United States. Clin J Am Soc Nephrol 2021;
+16:251–61.
+102. Cotter TG, Aronsohn A, Reddy KG, Charlton M. Liver transplantation of
+HCV-viremic donors into HCV-negative recipients in the United States: increasing frequency with profound geographic variation. Transplantation 2021;
+105:1285–90.
+103. Cotter TG, Paul S, Sandıkçı B, et al. Increasing utilization and excellent initial
+outcomes following liver transplant of hepatitis C virus (HCV)-viremic donors
+into HCV-negative recipients: outcomes following liver transplant of
+HCV-viremic donors. Hepatology 2019; 69:2381–95.
+104. Madan S, Patel SR, Rahgozar K, et al. Utilization rates and clinical outcomes of
+hepatitis C positive donor hearts in the contemporary era. J Heart Lung
+Transplant 2019; 38:907–17.
+
+Downloaded from https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciad319/7179952 by guest on 25 May 2026
+
+58. Platt L, Easterbrook P, Gower E, et al. Prevalence and burden of HCV coinfection in people living with HIV: a global systematic review and metaanalysis. Lancet Infect Dis 2016; 16:797–808.
+59. US Centers for Disease Control and Prevention. Viral hepatitis surveillance report—United States, 2020, hepatitis C. Published September 2022. Available at:
+https://www.cdc.gov/hepatitis/statistics/2020surveillance/hepatitis-c.htm.
+Accessed 19 November 2022.
+60. Deterding K, Spinner CD, Schott E, et al. Ledipasvir plus sofosbuvir fixed-dose
+combination for 6 weeks in patients with acute hepatitis C virus genotype 1
+monoinfection (HepNet acute HCV IV): an open-label, single-arm, phase 2
+study. Lancet Infect Dis 2017; 17:215–22.
+61. Rockstroh JK, Bhagani S, Hyland RH, et al. Ledipasvir-sofosbuvir for 6 weeks to
+treat acute hepatitis C virus genotype 1 or 4 infection in patients with HIV coinfection: an open-label, single-arm trial. Lancet Gastroenterol Hepatol 2017;
+2:347–53.
+62. Martinello M, Orkin C, Cooke G, et al. Short-duration pan-genotypic therapy
+with glecaprevir/pibrentasvir for 6 weeks among people with recent hepatitis
+C viral infection. Hepatology 2020; 72:7–18.
+63. Matthews GV, Bhagani S, Van der Valk M, et al. Sofosbuvir/velpatasvir for 12 vs.
+6 weeks for the treatment of recently acquired hepatitis C infection. J Hepatol
+2021; 75:829–39.
+64. AASLD-IDSA HCV Guidance Panel. Hepatitis C guidance 2018 update:
+AASLD-IDSA recommendations for testing, managing, and treating hepatitis
+C virus infection. Clin Infect Dis 2018; 67:1477–92.
+65. American College of Obstetricians and Gynecologists. Practice advisory: routine
+hepatitis C virus screening in pregnant individuals. Reaffirmed October 2022.
+Available at: https://www.acog.org/clinical/clinical-guidance/practice-advisory/
+articles/2021/05/routine-hepatitis-c-virus-screening-in-pregnant-individuals.
+Accessed 25 November 2022.
+66. Dotters-Katz SK, Kuller JA, Hughes BL. Society for Maternal-Fetal Medicine
+consult series #56: hepatitis C in pregnancy—updated guidelines: replaces consult number 43, November 2017. Am J Obstet Gynecol 2021; 225:B8–B18.
+67. Kushner T, Lange M, Sperling R, Dieterich D. Treatment of women with hepatitis C diagnosed in pregnancy: a co-located treatment approach.
+Gastroenterology 2022; 163:1454–6.e1.
+68. Zeng QL, Yu ZJ, Lv J, et al. Sofosbuvir-based therapy for late pregnant women
+and infants with severe chronic hepatitis C: a case series study. J Med Virol
+2022; 94:4548–53.
+69. AbdAllah M, Alboraie M, Abdel-Razek W, et al. Pregnancy outcome of
+anti-HCV direct-acting antivirals: real-life data from an Egyptian cohort. Liver
+Int 2021; 41:1494–7.
+70. Chappell CA, Scarsi KK, Kirby BJ, et al. Ledipasvir plus sofosbuvir in pregnant
+women with hepatitis C virus infection: a phase 1 pharmacokinetic study. Lancet
+Microbe 2020; 1:e200–e8.
+71. Yattoo GN. Treatment of chronic hepatitis C with ledipasvir/sofosbuvir combination during pregnancy [abstract]. Hepatol Int 2018; 12:S292–3.
+72. Malik F, Bailey H, Chan P, et al. Where are the children in national hepatitis C
+policies? A global review of national strategic plans and guidelines. JHEP Rep
+2021; 3:100227.
+73. Schmelzer J, Dugan E, Blach S, et al. Global prevalence of hepatitis C virus in
+children in 2018: a modelling study. Lancet Gastroenterol Hepatol 2020; 5:
+374–92.
+74. Rossi RM, Wolfe C, Brokamp R, et al. Reported prevalence of maternal hepatitis
+C virus infection in the United States. Obstet Gynecol 2020; 135:387–95.
+75. Ko JY, Haight SC, Schillie SF, Bohm MK, Dietz PM. National trends in hepatitis
+C infection by opioid use disorder status among pregnant women at delivery
+hospitalization—United States, 2000–2015. MMWR Morb Mortal Wkly Rep
+2019; 68:833–8.
+76. Schillie SF, Canary L, Koneru A, et al. Hepatitis C virus in women of childbearing
+age, pregnant women, and children. Am J Prev Med 2018; 55:633–41.
+77. Koneru A, Nelson N, Hariri S, et al. Increased hepatitis C virus (HCV) detection
+in women of childbearing age and potential risk for vertical transmission—
+United States and Kentucky, 2011–2014. MMWR Morb Mortal Wkly Rep
+2016; 65:705–10.
+78. Watts T, Stockman L, Martin J, Guilfoyle S, Vergeront JM. Increased risk for
+mother-to-infant transmission of hepatitis C virus among Medicaid recipients
+—Wisconsin, 2011–2015. MMWR Morb Mortal Wkly Rep 2017; 66:1136–9.
+79. Indolfi G, Easterbrook P, Dusheiko G, et al. Hepatitis C virus infection in children and adolescents. Lancet Gastroenterol Hepatol 2019; 4:477–87.
+80. Benova L, Mohamoud YA, Calvert C, Abu-Raddad LJ. Vertical transmission of
+hepatitis C virus: systematic review and meta-analysis. Clin Infect Dis 2014; 59:
+765–73.
+
+128. Amon JJ, Garfein RS, Ahdieh-Grant L, et al. Prevalence of hepatitis C virus infection among injection drug users in the United States, 1994–2004. Clin Infect
+Dis 2008; 46:1852–8.
+129. Martin NK, Hickman M, Hutchinson SJ, Goldberg DJ, Vickerman P.
+Combination interventions to prevent HCV transmission among people who inject drugs: modeling the impact of antiviral treatment, needle and syringe programs, and opiate substitution therapy. Clin Infect Dis 2013; 57:S39–45.
+130. Fraser H, Martin NK, Brummer-Korvenkontio H, et al. Model projections on the
+impact of HCV treatment in the prevention of HCV transmission among people
+who inject drugs in Europe. J Hepatol 2018; 68:402–11.
+131. Fraser H, Zibbell J, Hoerger T, et al. Scaling-up HCV prevention and treatment
+interventions in rural United States—model projections for tackling an increasing epidemic. Addiction 2018; 113:173–82.
+132. Palmateer NE, McAuley A, Dillon JF, et al. Reduction in the population prevalence of hepatitis C virus viraemia among people who inject drugs associated
+with scale-up of direct-acting anti-viral therapy in community drug services:
+real-world data. Addiction 2021; 116:2893–907.
+133. Iversen J, Dore GJ, Starr M, et al. Estimating the consensus hepatitis C cascade of
+care among people who inject drugs in Australia: pre and post availability of direct acting antiviral therapy. Int J Drug Policy 2020; 83:102837.
+134. Harris KA Jr, Arnsten JH, Litwin AH. Successful integration of hepatitis C evaluation and treatment services with methadone maintenance. J Addict Med 2010;
+4:20–6.
+135. Dore GJ, Altice F, Litwin AH, et al. Elbasvir-grazoprevir to treat hepatitis C virus
+infection in persons receiving opioid agonist therapy: a randomized trial. Ann
+Intern Med 2016; 165:625–34.
+136. Grebely J, Dalgard O, Conway B, et al. Sofosbuvir and velpatasvir for hepatitis C
+virus infection in people with recent injection drug use (SIMPLIFY): an openlabel, single-arm, phase 4, multicentre trial. Lancet Gastroenterol Hepatol
+2018; 3:153–61.
+137. Norton BL, Fleming J, Bachhuber MA, et al. High HCV cure rates for people who
+use drugs treated with direct acting antiviral therapy at an urban primary care
+clinic. Int J Drug Policy 2017; 47:196–201.
+138. Scherz N, Bruggmann P, Brunner N. Direct-acting antiviral therapy for hepatitis
+C infection among people receiving opioid agonist treatment or heroin assisted
+treatment. Int J Drug Policy 2018; 62:74–7.
+139. Macías J, Morano LE, Téllez F, et al. Response to direct-acting antiviral therapy
+among ongoing drug users and people receiving opioid substitution therapy. J
+Hepatol 2019; 71:45–51.
+140. Messina V, Onorato L, Di Caprio G, et al. Directly acting antiviral-based treatment for HCV-infected persons who inject drugs: a multicenter real-life study.
+Life (Basel) 2020; 11:17.
+141. Huang P, Wang Y, Yue M, et al. The risk of hepatitis C virus recurrence in hepatitis C virus-infected patients treated with direct-acting antivirals after achieving a sustained virological response: a comprehensive analysis. Liver Int 2021;
+41:2341–57.
+142. Hajarizadeh B, Cunningham EB, Valerio H, et al. Hepatitis C reinfection after
+successful antiviral treatment among people who inject drugs: a meta-analysis.
+J Hepatol 2020; 72:643–57.
+143. Midgard H, Weir A, Palmateer N, et al. HCV epidemiology in high-risk groups
+and the risk of reinfection. J Hepatol 2016; 65:S33–45.
+144. Simmons B, Saleem J, Hill A, Riley RD, Cooke GS. Risk of late relapse or reinfection with hepatitis C virus after achieving a sustained virological response:
+a systematic review and meta-analysis. Clin Infect Dis 2016; 62:683–94.
+145. Hagan H, Jordan AE, Neurer J, Cleland CM. Incidence of sexually transmitted
+hepatitis C virus infection in HIV-positive men who have sex with men. AIDS
+2015; 29:2335–45.
+146. Hoornenborg E, Coyer L, Boyd A, et al. High incidence of HCV in HIV-negative
+men who have sex with men using pre-exposure prophylaxis. J Hepatol 2020; 72:
+855–64.
+147. Hoornenborg E, Achterbergh RCA, Schim van der Loeff MF, et al. MSM starting
+preexposure prophylaxis are at risk of hepatitis C virus infection. AIDS 2017; 31:
+1603–10.
+148. Pufall EL, Kall M, Shahmanesh M, et al. Sexualized drug use (“chemsex”) and
+high-risk sexual behaviours in HIV-positive men who have sex with men.
+HIV Med 2018; 19:261–70.
+149. Jin F, Dore GJ, Matthews G, et al. Prevalence and incidence of hepatitis C virus
+infection in men who have sex with men: a systematic review and meta-analysis.
+Lancet Gastroenterol Hepatol 2021; 6:39–56.
+150. Ingiliz P, Martin TC, Rodger A, et al. HCV reinfection incidence and spontaneous clearance rates in HIV-positive men who have sex with men in Western
+Europe. J Hepatol 2017; 66:282–7.
+151. Boerekamps A, van den Berk GE, Lauw FN, et al. Declining hepatitis C virus
+(HCV) incidence in Dutch human immunodeficiency virus-positive men who
+
+2023 AASLD-IDSA Hepatitis C Guidance • CID • 17
+
+Downloaded from https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciad319/7179952 by guest on 25 May 2026
+
+105. Potluri VS, Goldberg DS, Mohan S, et al. National trends in utilization and
+1-year outcomes with transplantation of HCV-viremic kidneys. J Am Soc
+Nephrol 2019; 30:1939–51.
+106. Madan S, Patel SR, Vlismas P, et al. Increasing multiorgan heart transplantation
+with hepatitis C virus donors in the current era. J Heart Lung Transplant 2021;
+40:1382–6.
+107. Sageshima J, Troppmann C, McVicar JP, Santhanakrishnan C, de Mattos AM,
+Perez RV. Impact of willingness to accept hepatitis C seropositive kidneys among
+hepatitis C RNA-positive waitlisted patients. Transplantation 2018; 102:
+1179–87.
+108. Sawinski D, Forde KA, Lo Re V 3rd, et al. Mortality and kidney transplantation
+outcomes among hepatitis C virus-seropositive maintenance dialysis patients: a
+retrospective cohort study. Am J Kidney Dis 2019; 73:815–26.
+109. Shelton BA, Sawinski D, Mehta S, Reed RD, MacLennan PA, Locke JE. Kidney
+transplantation and waitlist mortality rates among candidates registered as willing to accept a hepatitis C infected kidney. Transpl Infect Dis 2018; 20:e12829.
+110. Altshuler PJ, Helmers MR, Schiazza AR, et al. HCV-positive allograft use in heart
+transplantation is associated with increased access to overdose donors and reduced waitlist mortality without compromising outcomes. J Card Fail 2022;
+28:32–41.
+111. Terrault NA, Burton J, Ghobrial M, et al. Prospective multicenter study of early
+antiviral therapy in liver and kidney transplant recipients of HCV-viremic donors. Hepatology 2021; 73:2110–23.
+112. Aqel B, Wijarnpreecha K, Pungpapong S, et al. Outcomes following liver transplantation from HCV-seropositive donors to HCV-seronegative recipients. J
+Hepatol 2021; 74:873–80.
+113. Sise ME, Goldberg DS, Kort JJ, et al. Multicenter study to transplant hepatitis
+C-infected kidneys (MYTHIC): an open-label study of combined glecaprevir
+and pibrentasvir to treat recipients of transplanted kidneys from deceased donors with hepatitis C virus infection. J Am Soc Nephrol 2020; 31:2678–87.
+114. Gidea CG, Narula N, Reyentovich A, et al. Increased early acute cellular rejection
+events in hepatitis C-positive heart transplantation. J Heart Lung Transplant
+2020; 39:1199–207.
+115. Woolley AE, Singh SK, Goldberg HJ, et al. Heart and lung transplants from
+HCV-infected donors to uninfected recipients. N Engl J Med 2019; 380:1606–17.
+116. Smith DE, Chen S, Fargnoli A, et al. Impact of early initiation of direct-acting
+antiviral therapy in thoracic organ transplantation from hepatitis C virus positive donors. Semin Thorac Cardiovasc Surg 2021; 33:407–15.
+117. Feld JJ, Cypel M, Kumar D, et al. Short-course, direct-acting antivirals and ezetimibe to prevent HCV infection in recipients of organs from HCV-infected donors: a phase 3, single-centre, open-label study. Lancet Gastroenterol Hepatol
+2020; 5:649–57.
+118. Ramirez-Sanchez C, Kozuch J, Shah MM, et al. A pilot trial for prevention of
+hepatitis C virus transmission from donor to organ transplant recipient with
+short-course glecaprevir/pibrentasvir. Open Forum Infect Dis 2022; 9:ofac550.
+119. Diaz-Castrillon CE, Huckaby LV, Witer L, et al. National trends and outcomes of
+heart-kidney transplantation using hepatitis C positive donors. Clin Transplant
+2022; 36:e14581.
+120. Bekki Y, Crismale JF, Myers B, Schiano TD, Florman S. Varying utilization rates
+but superior outcomes in liver transplantation from hepatitis C-positive donors
+in the United States: an analysis of the OPTN/UNOS database. Transplantation
+2022; 106:1787–98.
+121. Levitsky J, Formica RN, Bloom RD, et al. The American Society of
+Transplantation consensus conference on the use of hepatitis C viremic donors
+in solid organ transplantation. Am J Transplant 2017; 17:2790–802.
+122. Kim M, Stern J, Robalino R, et al. Caregiver exposure to hepatitis C virus following transplantation with hepatitis C viremic donor organs: a case series. Transpl
+Infect Dis 2022; 24:e13775.
+123. Karkout KA, Al Sherif S, Hussein Q, Albawardi A, Boobes Y. Possible acute rejection associated with the use of the new anti-hepatitis C virus medications.
+Avicenna J Med 2019; 9:32–4.
+124. Kwong AJ, Wall A, Melcher M, et al. Liver transplantation for hepatitis C virus
+(HCV) non-viremic recipients with HCV viremic donors. Am J Transplant
+2019; 19:1380–7.
+125. Zaky Z, Herlitz L, Augustine J. The impact of direct antiviral therapy for hepatitis
+C (DAA) on acute rejection and donor specific antibody formation in kidney
+transplant recipients, evidence from surveillance biopsies. Transplantation
+2018; 102:S325.
+126. Degenhardt L, Peacock A, Colledge S, et al. Global prevalence of injecting drug
+use and sociodemographic characteristics and prevalence of HIV, HBV, and
+HCV in people who inject drugs: a multistage systematic review. Lancet Glob
+Health 2017; 5:e1192–e207.
+127. Mateu-Gelabert P, Sabounchi NS, Guarino H, et al. Hepatitis C virus risk among
+young people who inject drugs. Front Public Health 2022; 10:835836.
+
+18 • CID • Bhattacharya et al
+
+161. MacDonald R, Akiyama MJ, Kopolow A, et al. Feasibility of treating hepatitis C
+in a transient jail population. Open Forum Infect Dis 2017; 4:ofx142.
+162. Spaulding AS, Kim AY, Harzke AJ, et al. Impact of new therapeutics for hepatitis
+C virus infection in incarcerated populations. Top Antivir Med 2013; 21:27–35.
+163. Akiyama MJ, Kaba F, Rosner Z, Alper H, Holzman RS, MacDonald R. Hepatitis
+C screening of the “birth cohort” (born 1945–1965) and younger inmates of
+New York City jails. Am J Public Health 2016; 106:1276–7.
+164. Beckwith CG, Kurth AE, Bazerman LB, et al. A pilot study of rapid hepatitis C
+virus testing in the Rhode Island Department of Corrections. J Public Health
+(Oxf) 2016; 38:130–7.
+165. Schoenbachler BT, Smith BD, Seña AC, et al. Hepatitis C virus testing and linkage to care in North Carolina and South Carolina jails, 2012–2014. Public Health
+Rep 2016; 131 Suppl 2:98–104.
+166. de la Flor C, Porsa E, Nijhawan AE. Opt-out HIV and hepatitis C testing at the
+Dallas County Jail: uptake, prevalence, and demographic characteristics of testers. Public Health Rep 2017; 132:617–21.
+167. Liu S, Watcha D, Holodniy M, Goldhaber-Fiebert JD. Sofosbuvir-based treatment regimens for chronic, genotype 1 hepatitis C virus infection in U.S. incarcerated populations: a cost-effectiveness analysis. Ann Intern Med 2014; 161:
+546–53.
+168. Ogawa E, Chien N, Kam L, et al. Association of direct-acting antiviral therapy
+with liver and nonliver complications and long-term mortality in patients
+with chronic hepatitis C. JAMA Intern Med 2023; 183:97–105.
+169. Volkow ND, Frieden TR, Hyde PS, Cha SS. Medication-assisted therapies—tackling the opioid-overdose epidemic. N Engl J Med 2014; 370:2063–6.
+
+Downloaded from https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciad319/7179952 by guest on 25 May 2026
+
+have sex with men after unrestricted access to HCV therapy. Clin Infect Dis
+2018; 66:1360–5.
+152. Adu PA, Rossi C, Binka M, et al. HCV reinfection rates after cure or spontaneous
+clearance among HIV-infected and uninfected men who have sex with men.
+Liver Int 2021; 41:482–93.
+153. Busschots D, Kremer C, Bielen R, et al. Hepatitis C prevalence in incarcerated
+settings between 2013–2021: a systematic review and meta-analysis. BMC
+Public Health 2022; 22:2159.
+154. Hofmeister MG, Rosenthal EM, Barker LK, et al. Estimating prevalence of hepatitis C virus infection in the United States, 2013–2016. Hepatology 2019; 69:
+1020–31.
+155. Macalino GE, Vlahov D, Sanford-Colby S, et al. Prevalence and incidence of
+HIV, hepatitis B virus, and hepatitis C virus infections among males in Rhode
+Island prisons. Am J Public Health 2004; 94:1218–23.
+156. Rich JD, Allen SA, Williams BA. Responding to hepatitis C through the criminal
+justice system. N Engl J Med 2014; 370:1871–4.
+157. Fox RK, Currie SL, Evans J, et al. Hepatitis C virus infection among prisoners in
+the California state correctional system. Clin Infect Dis 2005; 41:177–86.
+158. Rich JD, Chandler R, Williams BA, et al. How health care reform can transform
+the health of criminal justice-involved individuals. Health Aff (Millwood) 2014;
+33:462–7.
+159. Winter RJ, Holmes JA, Papaluca TJ, Thompson AJ. The importance of prisons in
+achieving hepatitis C elimination: insights from the Australian experience.
+Viruses 2022; 14:497.
+160. He T, Li K, Roberts MS, et al. Prevention of hepatitis C by screening and treatment in U.S. prisons. Ann Intern Med 2016; 164:84–92.
+
+

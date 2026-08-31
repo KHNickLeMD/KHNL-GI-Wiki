@@ -3,7 +3,7 @@ title: "Hemostasis in Cirrhosis"
 category: concept
 tags: [cirrhosis, coagulopathy, hemostasis, inr, platelets, ffp, teg, rotem, pvt, anticoagulation]
 created: 2026-05-21
-updated: 2026-08-14
+updated: 2026-08-31
 sources: [acg-2020-hepatic-mesenteric-circulation, aga-2021-cirrhosis-coagulation]
 ---
 
@@ -40,7 +40,7 @@ Scope — the guideline's "common gastrointestinal procedures" are exactly six: 
 | 3 — VTE prophylaxis in **hospitalized** cirrhosis | **Standard anticoagulation prophylaxis** when the patient otherwise meets standard VTE-prophylaxis criteria | Conditional / very low |
 | 4 — routine screening for [[portal-vein-thrombosis\|PVT]] | **Against** routine screening. Does **not** apply to patients listed for [[liver-transplantation\|liver transplantation]] | Conditional / very low |
 | 5 — treatment of acute/subacute **nontumoral** PVT | **Anticoagulation over no anticoagulation** | Conditional / very low |
-| 6 — atrial fibrillation with an anticoagulation indication | **Anticoagulation over no anticoagulation**. Reasonable to decline in CTP class C and/or low CHA₂DS₂-VASc | Conditional / very low |
+| 6 — atrial fibrillation with an anticoagulation indication | **Anticoagulation over no anticoagulation**. Reasonable to decline in CTP class C (Child-Turcotte-Pugh criteria table on [[cirrhosis]]) and/or low CHA₂DS₂-VASc | Conditional / very low |
 
 **Qualifiers that carry the decision** ([[aga-2021-cirrhosis-coagulation]]):
 

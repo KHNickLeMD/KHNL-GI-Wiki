@@ -3,11 +3,21 @@ title: "Microscopic Colitis"
 category: disease-script
 tags: [colon, chronic-diarrhea, collagenous-colitis, lymphocytic-colitis, watery-diarrhea]
 created: 2026-06-04
-updated: 2026-08-27
+updated: 2026-08-31
 sources: [asge-2010-diarrhea, acg-2016-acute-diarrhea, acg-2020-ibs, acg-2022-celiac]
 ---
 
 > **Partial page — no dedicated microscopic-colitis guideline is ingested.** The ingested sources cover **who to scope, how the diagnosis is made endoscopically, and where it sits in the differential**. They do **not** cover therapy — [[asge-2010-diarrhea]] explicitly predates current microscopic-colitis therapy guidance, so **no therapy (including first-line budesonide, dosing, or drug/smoking associations) is stated here**, and the defining histologic thresholds for the two subtypes are likewise unsourced. An ACG/AGA microscopic-colitis guideline would be needed to close these.
+
+## Contents
+- [[#Assessment]]
+  - [[#Establishing the Diagnosis]]
+  - [[#Who to Scope — Deciding When to Look for It]]
+- [[#Differential Diagnosis]]
+- [[#Diagnostics]]
+- [[#Therapeutics]]
+- [[#See Also]]
+- [[#Sources]]
 
 ## Assessment
 
@@ -20,7 +30,7 @@ sources: [asge-2010-diarrhea, acg-2016-acute-diarrhea, acg-2020-ibs, acg-2022-ce
 - **Distribution is patchy → random biopsies of BOTH the right and left colon are required, even when the mucosa is normal.** *(ASGE Rec 2, low quality)* [[asge-2010-diarrhea]]
   - **Left-sided-only sampling (e.g. flexible sigmoidoscopy alone) can miss the diagnosis.** Sigmoidoscopy is an alternative option but may miss right-sided organic disease; in chronic diarrhea overall, **colonoscopy out-yields sigmoidoscopy 39% vs 22%** (P = .009) and is more cost-effective. [[asge-2010-diarrhea]]
   - *The counter-argument in the same guideline:* in one retrospective series of 809 patients, **>99% of abnormal pathology (and most microscopic colitis) was identifiable on distal colonic biopsies** — but multiple other studies show patchy distribution, which is why right **and** left sampling is the recommendation. [[asge-2010-diarrhea]]
-- Diagnostic yield of [[colonoscopy|colonoscopy]] in chronic diarrhea is **7–32%**; **IBD and microscopic colitis are the most common findings.** [[asge-2010-diarrhea]], [[acg-2016-acute-diarrhea]]
+- Diagnostic yield of [[colonoscopy]] in chronic diarrhea is **7–32%**; **IBD and microscopic colitis are the most common findings.** [[asge-2010-diarrhea]], [[acg-2016-acute-diarrhea]]
 
 ### Who to Scope — Deciding When to Look for It
 

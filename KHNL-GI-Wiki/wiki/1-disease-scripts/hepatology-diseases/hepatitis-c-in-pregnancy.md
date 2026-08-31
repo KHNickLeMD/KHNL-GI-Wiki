@@ -3,7 +3,7 @@ title: "Hepatitis C in Pregnancy"
 category: disease-script
 tags: [hepatitis-c, hcv, pregnancy, vertical-transmission, perinatal, hpb, liver]
 created: 2026-05-19
-updated: 2026-08-14
+updated: 2026-08-31
 sources: [aasld-idsa-2023-hcv, acg-2016-liver-disease-pregnancy, aasld-2021-reproductive-liver, aga-2024-pregnancy-gi-liver]
 ---
 
@@ -55,6 +55,8 @@ sources: [aasld-idsa-2023-hcv, acg-2016-liver-disease-pregnancy, aasld-2021-repr
 - **Breastfeeding permitted** unless nipples are cracked/bleeding (Rec 29).
 - **Co-manage with maternal-fetal medicine**; counsel on effective contraception and defer/plan definitive DAA cure ([[aasld-2021-reproductive-liver]]).
 - Treat postpartum with a [[direct-acting-antivirals|DAA]]-based regimen — see [[hepatitis-c]] for regimen selection and SVR12 assessment.
+
+> ⚠ **Gap — testing the exposed infant is not in any ingested source.** With vertical transmission at 3–10%, the follow-up decision for the neonate (which test, at what age, how to distinguish passively transferred maternal antibody from true infection) is the natural next step from this page, but none of the four cited sources supplies it: the ingested AASLD-IDSA 2023 PDF mentions perinatal HCV only in its reference list, and [[aga-2024-pregnancy-gi-liver]] stops at "screen each pregnancy." The CDC/AAP perinatal HCV testing recommendations would be needed. **Do not supply them from memory.**
 
 ---
 

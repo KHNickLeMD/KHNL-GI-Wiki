@@ -7,8 +7,6 @@ updated: 2026-08-30
 sources: [acg-2024-focal-liver-lesions]
 ---
 
-# Focal Liver Lesions
-
 ## Contents
 - [[#Definition / Scope]]
 - [[#Differential Diagnosis]]
