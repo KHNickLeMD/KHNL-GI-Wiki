@@ -3,7 +3,7 @@ title: "Hereditary Hemochromatosis"
 category: disease-script
 tags: [hemochromatosis, iron-overload, hfe, c282y, phlebotomy, liver, hpb, genetics, ferritin, transferrin-saturation, cirrhosis, hcc, arthropathy, cardiomyopathy, endocrine]
 created: 2026-05-19
-updated: 2026-08-30
+updated: 2026-08-31
 sources: [acg-2019-hereditary-hemochromatosis, acg-2017-liver-chemistries, aasld-2011-hemochromatosis]
 ---
 
@@ -60,16 +60,17 @@ sources: [acg-2019-hereditary-hemochromatosis, acg-2017-liver-chemistries, aasld
 
 ### Severity Assessment
 
-**Markers of advanced disease requiring [[liver-biopsy|liver biopsy]]**:
+**Markers of advanced disease requiring [[liver-biopsy|liver biopsy]]** ([[acg-2019-hereditary-hemochromatosis]]; no GRADE rating — evidence narrative, not a numbered recommendation):
 
-- SF >1,000 ng/mL in C282Y homozygote (OR elevated liver enzymes) → liver biopsy for fibrosis staging
-- SF <1,000 ng/mL + normal liver enzymes → biopsy not indicated; <2% have advanced fibrosis
+- SF **>1,000 ng/mL** in a C282Y homozygote → liver biopsy for fibrosis staging
+- SF **<1,000 ng/mL** in a C282Y homozygote → biopsy **not** indicated **unless a concurrent risk factor for cirrhosis is present**; absent such risk factors, <2% have advanced fibrosis or cirrhosis. (Biopsy may still be considered if exam, labs, or imaging show clinical features of advanced fibrosis.)
+- **Combination rule for cirrhosis:** SF >1,000 ng/mL **plus** elevated aminotransferases **plus** low platelet count predicts cirrhosis in **>80%** of C282Y homozygotes — any one alone does not
 
 **Histologic criteria for type 1 HH** (Perls' Prussian blue + H&E + Masson's trichrome):
 
 1. Grade 4 stainable iron in hepatocytes with periportal distribution (sparing Kupffer cells)
 2. Hepatic iron concentration (HIC) >71 µmol/g dry weight
-3. Hepatic iron index (HII = HIC ÷ patient age in years) ≥1.9
+3. Hepatic iron index (HII = HIC ÷ patient age in years) >1.9 (the guideline uses ≥1.9 when contrasting homozygotes with compound heterozygotes/secondary overload)
 
 **Fibrosis staging note**: SF level is a better surrogate for fibrosis than HIC for long-term risk. [[liver-stiffness-measurement|Transient elastography]] has not been validated in HH (does not correlate with SF).
 
@@ -107,15 +108,16 @@ sources: [acg-2019-hereditary-hemochromatosis, acg-2017-liver-chemistries, aasld
 
 - Preferred initial screening test; fasting not required
 - TS ≥45% → proceed to HFE genotyping
-- TS identifies 97.9–100% of C282Y homozygotes
+- TS **>45%** identifies **97.9–100%** of C282Y homozygotes
+- **A TS <45% does not exclude HH** — younger patients at an earlier stage may sit below the cutoff, and iron overload can be present with elevated SF and a *normal* TS (particularly non–HFE-related overload). Do not stop at a normal TS if SF is elevated.
 - Calculated as: serum iron ÷ total iron-binding capacity (TIBC) × 100; equivalently, UIBC <26 µmol/L has 90% sensitivity and 90% specificity for C282Y homozygosity
 
 **Serum ferritin (SF)**:
 
 - Excellent predictor of advanced fibrosis but lacks specificity as screening test (elevated in ALD, NAFLD, chronic inflammation, malignancy)
 - SF <200 ng/mL (premenopausal women) or <300 ng/mL (men/postmenopausal women) with TS <45% → NPV 97% for excluding iron overload
-- SF <1,000 ng/mL + normal liver enzymes in C282Y homozygote → liver biopsy not indicated
-- SF >1,000 ng/mL → liver biopsy for fibrosis staging (strong)
+- SF <1,000 ng/mL in a C282Y homozygote, no concurrent cirrhosis risk factor → liver biopsy not indicated
+- SF >1,000 ng/mL → liver biopsy for fibrosis staging
 - SF >2,000 ng/mL at diagnosis → sharply elevated liver-disease and liver-cancer mortality (see [[#Prognosis]])
 
 **Algorithm**:
@@ -236,7 +238,7 @@ sources: [acg-2019-hereditary-hemochromatosis, acg-2017-liver-chemistries, aasld
 **Recommendation**: Against routine use of [[proton-pump-inhibitors|PPIs]] as primary treatment for HH (Rec 9, Strong/Low)
 
 - Mechanism: gastric acid facilitates non-heme iron absorption; PPIs reduce dietary iron absorption
-- RCT (Vanclooster, 2017; n=30 C282Y homozygotes): pantoprazole 40 mg/d × 12 months reduced median phlebotomy procedures to 2.6 vs. 1.3 in placebo (P=0.005) when SF >100 ng/mL
+- RCT (n=30 C282Y homozygotes; phlebotomy performed whenever SF >100 ng/mL): pantoprazole 40 mg/d × 12 months **lowered** phlebotomy need — median **1.3 procedures on PPI vs 2.6 on placebo** (P=0.005)
 - If a patient is already on PPIs for another indication, they may incidentally reduce phlebotomy burden; this benefit is acceptable but does not justify PPI prescribing solely for HH
 
 ### Treatment of Secondary Iron Overload

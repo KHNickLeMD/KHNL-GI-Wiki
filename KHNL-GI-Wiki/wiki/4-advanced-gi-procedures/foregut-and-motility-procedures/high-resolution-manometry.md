@@ -3,7 +3,7 @@ title: "High-Resolution Manometry (HRM)"
 category: advanced-procedure
 tags: [hrm, manometry, esophageal, motility, foregut, chicago-classification, hrem]
 created: 2026-05-16
-updated: 2026-08-30
+updated: 2026-08-31
 sources: [acg-2020-esophageal-physiologic-testing]
 ---
 
@@ -18,6 +18,8 @@ sources: [acg-2020-esophageal-physiologic-testing]
 - [[#HRM for Hiatal Hernia Detection]]
 - [[#HRM for Extraesophageal/Atypical Symptoms]]
 - [[#Clinical Applications]]
+- [[#See Also]]
+- [[#Sources]]
 
 ## Overview
 
@@ -111,7 +113,7 @@ HRM has **higher sensitivity** than [[upper-endoscopy|endoscopy]] or barium radi
 | Indication | Role | Guideline |
 |---|---|---|
 | Dysphagia workup | Identify achalasia, EGJOO, spastic disorders, IEM | Strong/Moderate — ACG 2020 |
-| Pre-[[antireflux-surgery\|anti-reflux surgery]] | Mandatory to exclude major motility disorder — see [[hrm-antireflux-surgery]] | Strong — ACG 2021 GERD, ASGE 2024 |
+| Pre-[[antireflux-surgery\|anti-reflux surgery]] | Mandatory to exclude major motility disorder — see [[hrm-antireflux-surgery]] | Strong — ACG 2021 GERD, ASGE 2025 |
 | Pre-TIF / cTIF | Required per ACG and ASGE guidelines | Strong |
 | Post-surgical dysphagia | Padova Classification — see [[hrm-antireflux-surgery]] | Conditional — ACG 2020 |
 | [[gerd]] refractory workup | Not diagnostic for GERD; assesses GEJ integrity, hiatal hernia, peristaltic reserve | Key concept — ACG 2020 |

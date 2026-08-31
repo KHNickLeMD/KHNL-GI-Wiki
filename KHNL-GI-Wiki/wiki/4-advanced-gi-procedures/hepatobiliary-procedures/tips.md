@@ -3,11 +3,28 @@ title: "TIPS (Transjugular Intrahepatic Portosystemic Shunt)"
 category: advanced-procedure
 tags: [tips, portal-hypertension, variceal-bleeding, refractory-ascites, hepatic-encephalopathy, pspg, ptfe-stent, rto, brto, interventional-radiology]
 created: 2026-07-16
-updated: 2026-08-30
+updated: 2026-08-31
 sources: [aasld-2024-tips, aasld-2021-ascites-sbp-hrs, aga-2025-ascites-cirrhosis, aasld-2021-vascular-pvt, wang-2026-eus-ppg-delphi-consensus]
 ---
 
 *Percutaneously created portosystemic shunt for complications of [[portal-hypertension|portal hypertension]] — [[variceal-upper-gi-bleeding|variceal hemorrhage]], refractory [[ascites|ascites]], and hepatic hydrothorax. Placed by interventional radiology, not endoscopically; included here because selection, timing, and post-procedure management are hepatology/GI decisions. Evidence below is AASLD **Practice Guidance** — consensus guidance statements from an expert panel, **not GRADE-rated recommendations** ([[aasld-2024-tips]]).*
+
+## Contents
+- [[#Physiological Effects]]
+- [[#Indications]]
+  - [[#Variceal hemorrhage — clinical scenarios]]
+  - [[#Refractory ascites and hepatic hydrothorax]]
+  - [[#Vascular]]
+- [[#Contraindications]]
+- [[#Technique]]
+- [[#Hemodynamic Targets]]
+- [[#Complications]]
+- [[#Follow-Up and Shunt Surveillance]]
+- [[#TIPS vs Variceal Obliteration (RTO / ATO)]]
+- [[#Guidance Statements (AASLD 2024)]]
+- [[#Open Questions]]
+- [[#See Also]]
+- [[#Sources]]
 
 ## Physiological Effects
 

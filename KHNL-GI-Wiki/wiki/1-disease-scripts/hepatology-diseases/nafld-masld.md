@@ -3,8 +3,29 @@ title: "NAFLD / MASLD (Metabolic Dysfunction-Associated Steatotic Liver Disease)
 category: disease-script
 tags: [nafld, masld, nash, mash, steatosis, metabolic-syndrome, fibrosis, fibroscan, hpb, liver, obesity, diabetes, semaglutide, resmetirom, glp-1, nit, essence-trial, liver-transplant, post-transplant, recurrence]
 created: 2026-05-19
-updated: 2026-08-30
-sources: [aasld-2023-nafld, aasld-2023-masld-nomenclature, aasld-2024-resmetirom, aasld-2024-nilda-blood, aasld-2025-semaglutide-mash, acg-2017-liver-chemistries, aasld-ast-2025-liver-transplant-graft-complications, aga-2023-nafld-noninvasive-biomarkers]
+updated: 2026-08-31
+sources: [aasld-2023-nafld, aasld-2023-masld-nomenclature, aasld-2024-resmetirom, aasld-2024-nilda-blood, aasld-2025-semaglutide-mash, acg-2017-liver-chemistries, aasld-ast-2025-liver-transplant-graft-complications, aasld-ast-2025-liver-transplant-non-graft-complications, aga-2023-nafld-noninvasive-biomarkers]
+---
+
+## Contents
+- [[#Assessment]]
+  - [[#Establishing the Diagnosis]]
+  - [[#Severity Assessment]]
+    - [[#Two-tier noninvasive pathway (AASLD)]]
+  - [[#Classification / Typing]]
+- [[#Differential Diagnosis]]
+- [[#Diagnostics]]
+- [[#Therapeutics]]
+  - [[#Lifestyle Modification (First-Line for All Stages)]]
+  - [[#Pharmacotherapy]]
+    - [[#Semaglutide (Wegovy) — FDA-Approved August 2025 for MASH F2–F3]]
+    - [[#Resmetirom (Rezdiffra) — FDA-Approved March 2024 for MASH F2–F3]]
+    - [[#Other Pharmacotherapy (no FDA approval for MASH; AASLD guidance statements)]]
+    - [[#Bariatric / Metabolic Surgery and Endoscopic Interventions]]
+    - [[#Liver Transplantation]]
+  - [[#Cardiometabolic Risk Management in MASLD]]
+  - [[#Post-Liver-Transplant MASLD Management]]
+
 ---
 
 ## Assessment
@@ -252,9 +273,9 @@ Per [[aasld-ast-2025-liver-transplant-graft-complications]] (recurrent MASLD pos
 
 - **Weight management**: Structured diet and exercise program; caloric restriction; avoid excessive weight gain
 - **Metabolic control**: Tight management of DM, HTN, dyslipidemia
-- **IS minimization**: Steroid tapering/minimization where safe reduces metabolic syndrome severity; minimize CNI exposure where feasible
-- **Pharmacotherapy**: GLP-1 receptor agonists (semaglutide, liraglutide) have emerging evidence in post-LT recipients for weight loss and metabolic benefit; not yet formally incorporated into AASLD transplant guideline recommendations but anticipated given MASH-specific data (ESSENCE trial, etc.)
-- No disease-specific post-LT pharmacotherapy is currently guideline-endorsed for recurrent MASLD beyond metabolic risk factor control
+- **IS minimization**: early corticosteroid withdrawal where rejection risk allows reduces metabolic syndrome severity; minimize CNI exposure where feasible. The CNI switches run in opposite directions depending on the comorbidity — see [[liver-transplantation#Immunosuppression Optimization for Metabolic Comorbidities|liver transplantation]].
+- **Pharmacotherapy**: [[semaglutide|GLP-1 receptor agonists]] **are** now formally recommended post-LT by [[aasld-ast-2025-liver-transplant-non-graft-complications]] — for obesity when diet and exercise fail (Rec 64, Strong, Level 3) and as first-line for post-transplant T2DM at high ASCVD risk / with heart failure, stroke, or CKD (Rec 59, Strong, Level 5). Dosing, targets, and the full cardiometabolic algorithm live on [[liver-transplantation]].
+- **Still no MASH-specific post-LT pharmacotherapy** is guideline-endorsed: neither [[resmetirom]] nor semaglutide's MASH indication has been studied in allograft MASLD, and both are contraindicated in cirrhosis — so recurrent-MASLD management remains metabolic risk-factor control.
 
 **Re-transplantation:**
 
@@ -278,3 +299,4 @@ Per [[aasld-ast-2025-liver-transplant-graft-complications]] (recurrent MASLD pos
 6. [[acg-2017-liver-chemistries|ACG 2017: Evaluation of Abnormal Liver Chemistries]]
 7. [[aasld-ast-2025-liver-transplant-graft-complications|AASLD/AST 2025: Practice Guideline on Adult Liver Transplantation — Diagnosis and Management of Graft-Related Complications]]
 8. [[aga-2023-nafld-noninvasive-biomarkers|AGA Clinical Practice Update on the Role of Noninvasive Biomarkers in the Evaluation and Management of Nonalcoholic Fatty Liver Disease: Expert Review (2023)]]
+9. [[aasld-ast-2025-liver-transplant-non-graft-complications|AASLD/AST Consensus Recommendations on Non-Graft Complications of Liver Transplantation (2025)]]

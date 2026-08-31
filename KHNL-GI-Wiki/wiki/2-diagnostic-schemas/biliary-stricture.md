@@ -3,7 +3,7 @@ title: "Biliary Stricture"
 category: diagnostic-schema
 tags: [biliary-stricture, ercp, eus, cholangioscopy, obstructive-jaundice, cholangiocarcinoma, hepatobiliary]
 created: 2026-05-15
-updated: 2026-08-28
+updated: 2026-08-31
 sources: [acg-2023-biliary-strictures, asge-2023-indeterminate-biliary-strictures, asge-2023-post-transplant-biliary-strictures]
 ---
 
@@ -167,7 +167,8 @@ If a diagnosis remains elusive after index ERCP:
 #### Malignant — Resectable
 
 - **Avoid routine preoperative biliary drainage** (Conditional, Low evidence)
-- Drainage warranted for: **[[acute-cholangitis|acute cholangitis]]** (grade it first — TG18 I/II/III sets drainage timing), **bilirubin >14.6 mg/dL**, severe pruritus, neoadjuvant therapy planned, anticipated delay to surgery >2 weeks
+- Drainage warranted for: **[[acute-cholangitis|acute cholangitis]]** (grade it first — TG18 I/II/III sets drainage timing), **serum bilirubin >14.6 mg/dL**, severe pruritus, neoadjuvant therapy planned, anticipated delay to surgery >2 weeks
+  - *Where 14.6 comes from:* it is **not** a physiologic cutoff — it is the **exclusion threshold of the pivotal RCT** that showed harm from routine preoperative drainage. Patients above it were never studied, so the "avoid drainage" recommendation simply does not apply to them ([[acg-2023-biliary-strictures]]).
 - If drainage is performed pre-op, SEMS (not plastic) preferred for patients undergoing neoadjuvant therapy
 
 #### Malignant — Unresectable or Borderline Resectable

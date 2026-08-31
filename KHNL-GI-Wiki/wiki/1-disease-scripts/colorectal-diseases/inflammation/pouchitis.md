@@ -3,8 +3,8 @@ title: "Pouchitis"
 category: disease-script
 tags: [pouchitis, ipaa, j-pouch, ulcerative-colitis, ibd, cuffitis, crohns-like-disease-of-the-pouch, antibiotics, probiotics, biologics]
 created: 2026-06-04
-updated: 2026-08-28
-sources: [aga-2024-pouchitis, aga-2020-probiotics, asge-2015-ibd, aga-2024-fmt]
+updated: 2026-08-31
+sources: [aga-2024-pouchitis, aga-2020-probiotics, asge-2015-ibd, aga-2024-fmt, aga-2026-cdiff-ibd, aga-2026-therapeutic-endoscopy-ibd]
 ---
 
 Pouchitis is non-specific inflammation of the ileal pouch reservoir — the most common complication after restorative proctocolectomy with **ileal pouch–anal anastomosis (IPAA, "J-pouch")** for [[ulcerative-colitis|ulcerative colitis]]. The [[aga-2024-pouchitis|AGA 2024 guideline]] frames management by clinical pattern (intermittent → chronic antibiotic-dependent → chronic antibiotic-refractory) plus two related inflammatory pouch disorders: Crohn's-like disease of the pouch and cuffitis. [[aga-2024-pouchitis]]
@@ -19,7 +19,10 @@ Pouchitis is non-specific inflammation of the ileal pouch reservoir — the most
 - [[#Therapeutics]]
   - [[#Prevention]]
   - [[#Treatment by Subtype]]
+  - [[#Endoscopic Therapy of Structural Pouch Complications]]
   - [[#Recommendation Summary]]
+- [[#See Also]]
+- [[#Sources]]
 
 ---
 
@@ -71,6 +74,7 @@ Pragmatic, treatment-anchored definitions (AGA 2024, Table 5):
   - **mPDAI remission = mPDAI score ≤4 *and* a ≥2-point reduction from baseline** — the EARNEST trial primary endpoint (week 14). *(The full PDAI subscore point-values originate from Sandborn 1994 and are not reproduced in the AGA source — flagged, not filled.)*
   - Endoscopic/histologic outcomes were **not** prioritized as decision-critical in the guideline (clinical improvement is the key outcome).
 - Targeted workup when refractory: stool studies (incl. *C. difficile*), CMV on biopsy, cross-sectional/contrast imaging or EUA for suspected stricture/fistula.
+- ***C. difficile* in the pouch is not a rarity — test for it.** [[aga-2026-cdiff-ibd|AGA 2026]] advises actively considering and treating CDI in any patient with an **ileo-anal pouch or end ileostomy** whose diarrhea/pouch output worsens; CDI has been detected in **10%–18%** of IPAA patients. Use a **multistep toxin-based assay** (NAAT alone over-diagnoses colonization), prefer **fidaxomicin**, and **retest if diarrhea recurs** after successful treatment. Full pathway: [[clostridioides-difficile]].
 - **Endoscopic + histologic assessment of the pouch and afferent limb is recommended in symptomatic patients** ([[asge-2015-ibd]]).
 - **Pouch neoplasia surveillance** (beyond AGA 2024 scope; [[asge-2015-ibd]]): highest-risk patients — **prior colorectal dysplasia or cancer** — considered for **annual pouchoscopy** with biopsies taken **proximally (within the pouch) and distally (anal transition zone)**. [[primary-sclerosing-cholangitis|PSC]], refractory pouchitis, and type C (atrophic, severely inflamed) pouch mucosa may also warrant surveillance.
 
@@ -126,6 +130,16 @@ Pragmatic, treatment-anchored definitions (AGA 2024, Table 5):
 **Crohn's-like disease of the pouch → corticosteroids + advanced immunosuppressive therapy.**
 - Both suggested; mirrors [[crohns-disease|luminal Crohn's]] management. Manage strictures/fistulas structurally as needed.
 
+### Endoscopic Therapy of Structural Pouch Complications
+
+*Beyond the AGA 2024 pouchitis guideline — [[aga-2026-therapeutic-endoscopy-ibd|AGA 2026 CPU on therapeutic endoscopy in IBD]].*
+
+- **Strictures** (pouch body, pre-pouch ileum, pouch-anal anastomosis, ostomy site): **endoscopic balloon dilation** is first-line and can be done safely at anastomotic and ostomy sites (including a continent/Kock pouch, where tissue ingrowth or stoma retraction causes the stricture). Selection criteria, target diameter, and the risk-factor count that pushes a patient to surgery are on [[crohns-disease|Crohn's disease]] — **avoid EBD with deep ulcers or an associated fistula.**
+- **Anastomotic leaks (ALs)** — classified **acute (≤30 days)** vs **chronic**; in a pouch the classic site is the **tip of the J**.
+  - Small ALs: conservative therapy or diverting ileostomy.
+  - **Large (>3 cm) acute AL-associated abscess:** drain — externally by interventional radiology, or **internally** by endoscopic drainage endosponge or drainage stent; attempt closure with through-the-scope or over-the-scope clips **after** drainage.
+  - **Chronic AL sinuses/fistulas:** endoscopic sinusotomy or fistulotomy; over-the-scope clip closure at the tip of the J may be attempted.
+
 **Cuffitis → UC-directed topical therapy first.**
 - **First-line: topical mesalamine** (suppositories) or **topical corticosteroids** (suppositories / ointment applied directly to the cuff).
 - Refractory → the UC-approved advanced therapies (TNF antagonists, vedolizumab, ustekinumab, risankizumab, ozanimod, tofacitinib, upadacitinib). There are almost no direct data — the recommendation is **extrapolated from the AGA UC guidelines**, because the cuff is retained rectal mucosa.
@@ -163,3 +177,5 @@ All 13 AGA 2024 statements (9 actionable conditional recommendations + 4 "no rec
 2. [[aga-2020-probiotics|AGA Clinical Practice Guidelines on the Role of Probiotics in the Management of Gastrointestinal Disorders]]
 3. [[asge-2015-ibd|ASGE Guideline: The Role of Endoscopy in Inflammatory Bowel Disease (2015)]]
 4. [[aga-2024-fmt|AGA Clinical Practice Guideline: Fecal Microbiota-Based Therapies for Select GI Diseases (2024)]]
+5. [[aga-2026-cdiff-ibd|AGA Clinical Practice Update on Management of Clostridioides difficile Infection in Inflammatory Bowel Disease: Expert Review (2026)]]
+6. [[aga-2026-therapeutic-endoscopy-ibd|AGA Clinical Practice Update on the Role of Therapeutic Endoscopy in Inflammatory Bowel Disease: Commentary (2026)]]

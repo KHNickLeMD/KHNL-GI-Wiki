@@ -3,12 +3,8 @@ title: "Helicobacter pylori Infection"
 category: disease-script
 tags: [h-pylori, peptic-ulcer, gastric-cancer, malt-lymphoma, eradication, dyspepsia, gastric, foregut]
 created: 2026-05-07
-updated: 2026-08-27
+updated: 2026-08-31
 sources: [acg-2017-hp-guidelines, acg-2024-hp-treatment, aga-2024-pcab]
----
-
-# *Helicobacter pylori* Infection
-
 ---
 
 ## Assessment
@@ -74,7 +70,7 @@ sources: [acg-2017-hp-guidelines, acg-2024-hp-treatment, aga-2024-pcab]
 - NSAID/aspirin-induced gastropathy
 - [[gerd|GERD]] / esophagitis
 - [[gastroparesis|Gastroparesis]]
-- Gastric malignancy (alarm features: weight loss, [[dysphagia]], early satiety, bleeding, age >55)
+- Gastric malignancy — **age ≥60 is the threshold that takes a dyspeptic patient out of [[test-and-treat|test-and-treat]] and into [[upper-endoscopy|EGD]]** ([[acg-2024-hp-treatment|ACG 2024]] caps test-and-treat at **<60 y**, and at **45–50 y** in populations at high gastric-cancer risk). Alarm features ([[dysphagia|dysphagia]], weight loss, anemia, bleeding, early satiety) have **low PPV under 60** and are not an automatic scope — the pooled operating characteristics are on [[dyspepsia]]
 
 ### For peptic ulcer disease
 

@@ -3,11 +3,34 @@ title: "Ulcerative Colitis"
 category: disease-script
 tags: [uc, ulcerative-colitis, ibd, 5-asa, biologics, anti-tnf, vedolizumab, asuc, pancolitis, proctitis]
 created: 2026-05-07
-updated: 2026-08-30
-sources: [acg-2025-uc, aga-2024-uc-pharm, aga-2024-pouchitis, aga-2023-biomarkers-uc, acg-2019-uc, asge-2015-scenic-ibd-dysplasia, asge-2015-ibd, aga-2026-inpatient-ibd, aga-2024-intestinal-ultrasound, aga-2024-diet-nutrition-ibd, aga-2024-ibd-malignancy, aga-2024-pregnancy-gi-liver, aga-2024-fmt]
+updated: 2026-08-31
+sources: [acg-2025-uc, aga-2024-uc-pharm, aga-2024-pouchitis, aga-2023-biomarkers-uc, acg-2019-uc, asge-2015-scenic-ibd-dysplasia, asge-2015-ibd, aga-2026-inpatient-ibd, aga-2026-therapeutic-endoscopy-ibd, aga-2026-cdiff-ibd, aga-2024-intestinal-ultrasound, aga-2024-diet-nutrition-ibd, aga-2024-ibd-malignancy, aga-2024-pregnancy-gi-liver, aga-2024-fmt]
 ---
 
 Idiopathic chronic inflammatory disorder of the large intestine. Continuous mucosal inflammation starting in rectum and extending proximally. Relapsing-remitting course; goal of therapy is sustained steroid-free endoscopic remission.
+
+---
+
+## Contents
+- [[#Assessment]]
+  - [[#Establishing the Diagnosis]]
+  - [[#Severity Assessment]]
+  - [[#Poor Prognostic Factors]]
+- [[#Differential Diagnosis]]
+- [[#Diagnostics]]
+  - [[#Workup]]
+  - [[#Pre-Biologic Screening (same as for CD)]]
+- [[#Therapeutics]]
+  - [[#Treatment Goals]]
+  - [[#Mild-Moderate Disease]]
+  - [[#Moderate-Severe Disease]]
+  - [[#Positioning Framework]]
+  - [[#Acute Severe UC (ASUC) — Hospitalized Patient]]
+  - [[#Diet & Nutrition (Adjunct)]]
+  - [[#Monitoring]]
+  - [[#Special Considerations]]
+- [[#See Also]]
+- [[#Sources]]
 
 ---
 
@@ -22,6 +45,7 @@ Idiopathic chronic inflammatory disorder of the large intestine. Continuous muco
 - [[colonoscopy|Colonoscopy]] with TI intubation + biopsies (involved + uninvolved areas)
 - Histologic confirmation by pathologist
 - Exclude: [[clostridioides-difficile|C. difficile]] (always), infectious etiologies, [[crohns-disease|Crohn's disease]]
+  - Use a **multistep toxin-based assay**, not NAAT alone — colonization is common in UC and NAAT alone over-diagnoses it. When CDI is confirmed, **fidaxomicin is preferred** over vancomycin and **metronidazole should not be used**, and **immunosuppressive IBD therapy is continued** (no drug class carries a differential CDI risk). Full pathway: [[clostridioides-difficile]]. [[aga-2026-cdiff-ibd]]
 - **Do NOT use:** serology (pANCA, ASCA) for diagnosis or prognosis
 
 **Key endoscopic features:**
@@ -354,8 +378,23 @@ Idiopathic chronic inflammatory disorder of the large intestine. Continuous muco
 - High-definition colonoscopy preferred over standard-definition.
 - **Standard-definition scope → dye-spray chromoendoscopy** (methylene blue / indigo carmine) *(Strong / low, ACG 2019 rec 48)*.
 - **High-definition scope → white-light with NBI *or* dye-spray chromoendoscopy** *(Conditional / low, ACG 2019 rec 49)*. ⚠ **Guidelines differ:** the older [[asge-2015-scenic-ibd-dysplasia|SCENIC 2015]] consensus held that **NBI is not a substitute** for white-light or chromoendoscopy; the newer ACG 2019 accepts NBI with HD scopes. The page follows ACG 2019 (newer, same tier).
-- Terminology ([[asge-2015-scenic-ibd-dysplasia|SCENIC]]): **visible** (polypoid/nonpolypoid, per modified Paris) vs **invisible** dysplasia; the terms DALM / adenoma-like are abandoned.
+- Terminology ([[asge-2015-scenic-ibd-dysplasia|SCENIC]]): **visible** (polypoid/nonpolypoid, per modified Paris) vs **invisible** dysplasia; the terms DALM / adenoma-like are abandoned. Report **size, shape, site, surface pattern, and activity of the surrounding mucosa** using the modified Paris classification — the surrounding-mucosa description is what makes resection planning possible. Dysplasia found on **nontargeted/random** biopsies is by definition **invisible**. [[aga-2026-therapeutic-endoscopy-ibd]]
+- **Random biopsies are still advised in high-risk patients** — [[primary-sclerosing-cholangitis|PSC]], prior dysplasia, or active inflammation — on top of targeted sampling. [[aga-2026-therapeutic-endoscopy-ibd]]
 - **Management:** completely resected endoscopically-resectable visible dysplasia (polypoid or nonpolypoid) → continued surveillance, **not** colectomy; **invisible** dysplasia (GI-pathologist–confirmed) → refer to an IBD-surveillance/chromoendoscopy expert.
+
+**Colitis-associated neoplasia (CAN) — resect endoscopically or send to surgery? The criteria** *(the decision inputs behind "endoscopically resectable")* [[aga-2026-therapeutic-endoscopy-ibd]]:
+
+| Finding | Action |
+|---|---|
+| Complete resection feasible; well-defined borders; lifts | **Resect endoscopically** |
+| **Any** high-risk feature — mucosal **ulceration**, **radiating folds**, **inability to lift**, **ill-defined margins**, or **invasive cancer** on histology | **Refer for surgical resection** |
+| **Multifocal unresectable** dysplasia, or **invisible** dysplasia | **Surgical resection** |
+| Active **background inflammation** obscuring the lesion | **Optimize medical therapy**, then repeat colonoscopy in **3–6 months** with curative intent |
+
+- **Technique by size:** standard polypectomy (incl. cold snare) is adequate for **well-defined lesions <10 mm**; [[endoscopic-mucosal-resection|EMR]] or [[colorectal-esd|ESD]] for larger. ESD is harder in IBD (submucosal fibrosis and fat expansion blur the plane). [[endoscopic-full-thickness-resection|eFTR]] is established for scarred/non-lifting lesions in **non-IBD** colons; only case reports in CAN, no long-term data.
+- **Outcomes** (meta-analysis, >600 lesions, mean 23 mm, EMR or ESD): complete resection **97.9%**, local recurrence **4.9%**, metachronous lesions **7.4%** — which is why surveillance continues after a successful resection.
+- Routine biopsies of mucosa *surrounding* a resected dysplastic lesion are **not** required (low yield) unless resection completeness is in question.
+- **Chromoendoscopy evidence has moved:** network meta-analysis found dye-based chromoendoscopy detects **1.42×** (95% CI 1.02–1.98) more dysplastic lesions than HD white-light; but the **HELIOS RCT (n=563)** showed **HD white-light with segmental re-inspection is noninferior** to HD dye-chromoendoscopy for CAN detection, with a shorter withdrawal time. DCE also fails with inadequate prep or active inflammation. [[aga-2026-therapeutic-endoscopy-ibd]]
 
 ---
 
@@ -383,7 +422,7 @@ Idiopathic chronic inflammatory disorder of the large intestine. Continuous muco
 
 ## See Also
 
-[[crohns-disease]], [[inflammatory-bowel-disease]], [[uc-vs-crohns-comparison]], [[ibd-preventive-care]], [[ibd-endoscopic-scoring]], [[intestinal-ultrasound]], [[clostridioides-difficile]], [[primary-sclerosing-cholangitis]], [[colorectal-cancer]], [[colonoscopy]], [[colon-ischemia]], [[microscopic-colitis]], [[radiation-proctopathy]], [[pouchitis]], [[chronic-diarrhea]], [[nutrition-in-ibd]], [[ibd-in-malignancy]], [[liver-disease-in-pregnancy]], [[nausea-and-vomiting-of-pregnancy]], [[ostomy-management]], [[calcineurin-inhibitors]]
+[[crohns-disease]], [[inflammatory-bowel-disease]], [[uc-vs-crohns-comparison]], [[ibd-preventive-care]], [[ibd-endoscopic-scoring]], [[intestinal-ultrasound]], [[clostridioides-difficile]], [[primary-sclerosing-cholangitis]], [[colorectal-cancer]], [[colonoscopy]], [[colon-ischemia]], [[microscopic-colitis]], [[radiation-proctopathy]], [[pouchitis]], [[chronic-diarrhea]], [[nutrition-in-ibd]], [[ibd-in-malignancy]], [[liver-disease-in-pregnancy]], [[nausea-and-vomiting-of-pregnancy]], [[ostomy-management]], [[calcineurin-inhibitors]], [[endoscopic-mucosal-resection]], [[colorectal-esd]], [[endoscopic-full-thickness-resection]], [[toxic-megacolon]]
 
 ---
 
@@ -397,8 +436,10 @@ Idiopathic chronic inflammatory disorder of the large intestine. Continuous muco
 6. [[asge-2015-scenic-ibd-dysplasia|SCENIC International Consensus Statement on Surveillance and Management of Dysplasia in IBD (2015)]]
 7. [[asge-2015-ibd|ASGE Guideline: The Role of Endoscopy in Inflammatory Bowel Disease (2015)]]
 8. [[aga-2026-inpatient-ibd|AGA Clinical Practice Update on Inpatient Management of Adults With Inflammatory Bowel Disease: Expert Review (2026)]]
-9. [[aga-2024-intestinal-ultrasound|AGA Clinical Practice Update on the Role of Intestinal Ultrasound in Inflammatory Bowel Disease: Commentary (2024)]]
-10. [[aga-2024-diet-nutrition-ibd|AGA Clinical Practice Update on Diet and Nutritional Therapies in Patients With IBD: Expert Review (2024)]]
-11. [[aga-2024-ibd-malignancy|AGA Clinical Practice Update on Management of IBD in Patients With Malignancy: Commentary (2024)]]
-12. [[aga-2024-pregnancy-gi-liver|AGA Clinical Practice Update on Pregnancy-Related Gastrointestinal and Liver Disease: Expert Review (2024)]]
-13. [[aga-2024-fmt|AGA Clinical Practice Guideline: Fecal Microbiota-Based Therapies for Select GI Diseases (2024)]]
+9. [[aga-2026-therapeutic-endoscopy-ibd|AGA Clinical Practice Update on the Role of Therapeutic Endoscopy in Inflammatory Bowel Disease: Commentary (2026)]]
+10. [[aga-2026-cdiff-ibd|AGA Clinical Practice Update on Management of Clostridioides difficile Infection in Inflammatory Bowel Disease: Expert Review (2026)]]
+11. [[aga-2024-intestinal-ultrasound|AGA Clinical Practice Update on the Role of Intestinal Ultrasound in Inflammatory Bowel Disease: Commentary (2024)]]
+12. [[aga-2024-diet-nutrition-ibd|AGA Clinical Practice Update on Diet and Nutritional Therapies in Patients With IBD: Expert Review (2024)]]
+13. [[aga-2024-ibd-malignancy|AGA Clinical Practice Update on Management of IBD in Patients With Malignancy: Commentary (2024)]]
+14. [[aga-2024-pregnancy-gi-liver|AGA Clinical Practice Update on Pregnancy-Related Gastrointestinal and Liver Disease: Expert Review (2024)]]
+15. [[aga-2024-fmt|AGA Clinical Practice Guideline: Fecal Microbiota-Based Therapies for Select GI Diseases (2024)]]

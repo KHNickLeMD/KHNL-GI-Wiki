@@ -3,8 +3,8 @@ title: "Antibiotic Prophylaxis in Cirrhosis (GI Bleeding)"
 category: med
 tags: [cirrhosis, antibiotic-prophylaxis, ceftriaxone, norfloxacin, variceal-bleeding, sbp-prevention]
 created: 2026-05-15
-updated: 2026-08-30
-sources: [albhaisi-2025-prophylactic-antibiotics-cirrhosis, aasld-2021-ascites-sbp-hrs, aasld-2023-portal-hypertension, baveno-vii-2022-portal-hypertension]
+updated: 2026-08-31
+sources: [aasld-2023-portal-hypertension, baveno-vii-2022-portal-hypertension, aasld-2021-ascites-sbp-hrs, asge-2015-antibiotic-prophylaxis, albhaisi-2025-prophylactic-antibiotics-cirrhosis]
 ---
 
 Prophylactic antibiotics in [[cirrhosis|cirrhotic]] patients with [[upper-gi-bleeding|upper GI bleeding]] aim to prevent bacterial translocation-driven infections ([[spontaneous-bacterial-peritonitis|spontaneous bacterial peritonitis]], bacteremia) that independently worsen short-term mortality. In the AASLD framework this is a form of **SBP primary prophylaxis** ([[aasld-2021-ascites-sbp-hrs]]).
@@ -36,8 +36,8 @@ Prophylactic antibiotics in [[cirrhosis|cirrhotic]] patients with [[upper-gi-ble
 
 | Position | Duration | Basis |
 |---|---|---|
-| [[aasld-2023-portal-hypertension|AASLD 2023]] (governs) | **2–5 days**, or until discharge-stable, whichever is shorter | Guidance statement 27 |
-| [[aasld-2021-ascites-sbp-hrs|AASLD 2021]] | Until hemorrhage resolved **and vasoactive drugs discontinued**; the supporting meta-analysis used 5–7 d | Narrative |
+| [[aasld-2023-portal-hypertension\|AASLD 2023]] (governs) | **2–5 days**, or until discharge-stable, whichever is shorter | Guidance statement 27 |
+| [[aasld-2021-ascites-sbp-hrs\|AASLD 2021]] | Until hemorrhage resolved **and vasoactive drugs discontinued**; the supporting meta-analysis used 5–7 d | Narrative |
 | [[albhaisi-2025-prophylactic-antibiotics-cirrhosis\|Prosty 2025]] (RCT-tier) | 2–3 d likely non-inferior to 5–7 d for mortality | Bayesian meta-analysis |
 
 - **Which governs:** the two AASLD statements are the same society, so the **newer 2023 portal hypertension guideline (2–5 days) is what this page asserts**; the older "5–7 days" figure was never AASLD's own recommendation but the duration used in the meta-analysis it cited. The commonly quoted "5–7 days" therefore overstates what the current guideline says.
@@ -54,5 +54,8 @@ See [[variceal-upper-gi-bleeding]] for full clinical context and [[antibiotic-pr
 
 ## Sources
 
-1. [[albhaisi-2025-prophylactic-antibiotics-cirrhosis|Prophylactic Antibiotics for Upper GI Bleeding in Patients With Cirrhosis — Journal Club (Albhaisi)]]
-2. [[aasld-2021-ascites-sbp-hrs|AASLD 2021: Diagnosis, Evaluation, and Management of Ascites, SBP, and Hepatorenal Syndrome]]
+1. [[aasld-2023-portal-hypertension|AASLD 2023 Practice Guidance on Portal Hypertension and Varices in Cirrhosis]]
+2. [[baveno-vii-2022-portal-hypertension|Baveno VII — Renewing Consensus in Portal Hypertension (2022)]]
+3. [[aasld-2021-ascites-sbp-hrs|AASLD 2021: Diagnosis, Evaluation, and Management of Ascites, SBP, and Hepatorenal Syndrome]]
+4. [[asge-2015-antibiotic-prophylaxis|ASGE Guideline: Antibiotic Prophylaxis for GI Endoscopy (2015)]]
+5. [[albhaisi-2025-prophylactic-antibiotics-cirrhosis|Prophylactic Antibiotics for Upper GI Bleeding in Patients With Cirrhosis — Journal Club (Albhaisi)]]

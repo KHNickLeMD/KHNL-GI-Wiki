@@ -3,7 +3,7 @@ title: "Choledocholithiasis"
 category: disease-script
 tags: [biliary, gallstones, common-bile-duct, jaundice, cholangitis, ercp, eus, mrcp, gallstone-pancreatitis]
 created: 2026-06-04
-updated: 2026-08-28
+updated: 2026-08-31
 sources: [asge-2019-choledocholithiasis, aga-2024-pregnancy-gi-liver, asge-2021-cholangitis, jagtap-2026-urgent-vs-early-ercp-cholangitis, aloysius-2026-ercp-timing-septic-shock-cholangitis]
 ---
 
@@ -76,7 +76,7 @@ sources: [asge-2019-choledocholithiasis, aga-2024-pregnancy-gi-liver, asge-2021-
 - **Biliary drainage within 48 h** of presentation ([[asge-2021-cholangitis]]); **[[ercp|ERCP]] over PTBD** as first-line modality.
 - **ASGE does *not* recommend <24 h for severe (Tokyo Grade III) cholangitis.** Its own reading: "ERCP in <24 hours or 24 to 48 hours versus >48 hours appears to shorten the length of hospitalization but **does not impact inpatient or 30-day mortality, organ failure, or other core clinical outcomes.**" The single carve-out is narrower than "severe" — **in septic shock *not responding to fluid resuscitation*, ERCP <24 h "may be considered"** (a suggestion, conditioned on refractoriness, not on Tokyo grade). ([[asge-2021-cholangitis]]) Grade definitions and the grade-driven flowchart: [[acute-cholangitis]].
   - *Under question in septic shock:* in **TG III cholangitis with septic shock**, ERCP **<24 h of vasopressor initiation** gave **no survival advantage** over 24–48 h (30-d mortality HR 1.07, 95% CI 0.81–1.42) and looked worse than 48–72 h (HR 1.47, 1.00–2.16) — likely the sickest patients drained first. Elderly, comorbid cohort (mean age 73). ⚠ **DDW 2026 abstract, retrospective TriNetX** — below guideline and RCT evidence; hypothesis-generating, does **not** change the emergent-drainage recommendation. ([[aloysius-2026-ercp-timing-septic-shock-cholangitis]])
-- **Mild-to-moderate** cholangitis: **do not reflexively rush to <24 h.** Urgent (<24 h) drainage is **not superior** to early (24–48 h) — same 30-day mortality (3.95% vs 6.58%) and organ failure — and **roughly doubles post-ERCP adverse events** (17.1% vs 9.2%; RR 2.03), mainly **haemorrhage** (10.5% vs 3.3%), from sphincterotomy on an oedematous papilla in an under-resuscitated septic patient. Resuscitate (fluids, coagulopathy correction, antibiotics) then drain within 24–48 h. ([[jagtap-2026-urgent-vs-early-ercp-cholangitis]])
+- **Mild-to-moderate** cholangitis: **do not reflexively rush to <24 h.** Urgent (<24 h) drainage is **not superior** to early (24–48 h) — 30-day mortality 3.95% vs 6.58% (HR 0.70, 95% CI 0.25–1.93) and day-30 organ failure 11.8% vs 17.1%, neither significant — while post-ERCP adverse events were **more frequent with urgent ERCP (17.1% vs 9.2%; RR 2.03, 95% CI 1.02–4.07, unadjusted)**, mainly **haemorrhage** (10.5% vs 3.3%), from sphincterotomy on an oedematous papilla in an under-resuscitated septic patient. ⚠ The AE difference was **nominal (p=0.042) and did not survive the trial's Holm-Bonferroni correction** across secondary outcomes. Resuscitate (fluids, coagulopathy correction, antibiotics) then drain within 24–48 h. ([[jagtap-2026-urgent-vs-early-ercp-cholangitis]])
 - **Malignant** biliary obstruction is the dominant predictor of 30-day mortality in cholangitis (HR ~5), not timing. ([[jagtap-2026-urgent-vs-early-ercp-cholangitis]])
 
 ### Gallstone Pancreatitis

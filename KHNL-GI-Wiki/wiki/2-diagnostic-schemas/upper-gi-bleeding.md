@@ -3,7 +3,7 @@ title: "Upper GI Bleeding"
 category: diagnostic-schema
 tags: [ugib, peptic-ulcer, gi-bleeding, endoscopy, forrest, glasgow-blatchford, melena]
 created: 2026-05-15
-updated: 2026-08-28
+updated: 2026-08-31
 sources: [acg-2021-ugib, acg-2023-lgib]
 ---
 
@@ -108,6 +108,7 @@ If UGIB is clinically suspected in a patient presenting with apparent LGIB, perf
   - **>8 g/dL may be considered** in UGIB with **acute coronary syndrome** — a higher threshold than the CV-disease rule ([[acg-2021-ugib]])
   - Hypotensive patients may receive transfusion above 7 g/dL before hemoglobin equilibrates with resuscitation
   - Do not transfuse to a target of 9 g/dL — restrictive strategy reduces further bleeding and mortality
+  - ⚠ **Contradiction with [[acute-lower-gi-bleeding]]:** [[acg-2023-lgib]] states 8 g/dL "can also be considered" in ACS + GIB, i.e. it does **not** endorse a threshold above 8. [[acg-2021-ugib]] governs UGIB and explicitly separates ACS from pre-existing CVD; both guidelines call the ACS evidence extremely limited.
 
 ### Step 2: Risk Stratification in the Emergency Department
 
@@ -253,15 +254,13 @@ If UGIB is clinically suspected in a patient presenting with apparent LGIB, perf
 
 ### Glasgow-Blatchford Score
 
-- Pre-endoscopic risk stratification tool
-- GBS 0–1: safe for outpatient management (99% sensitivity for intervention/death composite)
-- Calculated from BUN, hemoglobin, systolic BP, heart rate, melena, syncope, hepatic disease, cardiac failure
-- Variables available before endoscopy — intended for ED triage decision
+- Full component/point table, the GBS 0–1 discharge threshold, and the hepatic-disease / cardiac-failure definitional caveat are in *Diagnostic Algorithm → [[#Step 2: Risk Stratification in the Emergency Department]]* — not repeated here.
+- All GBS variables are available **before** endoscopy; it is an ED triage tool, not a post-endoscopic one.
 
 ### Rockall Score
 
 - **Not endorsed or defined by [[acg-2021-ugib|ACG 2021]].** It appears exactly once in that guideline, as the **enrollment criterion (Rockall ≥6)** of the single RCT supporting extended twice-daily PPI (Statement 14) — so "high risk" for the day-4–14 PPI decision operationally means *met that trial's entry criterion*.
-- **Decision gap — flagged, not filled:** the Rockall component variables and point values are **not in any ingested source**; the primary Rockall paper is not in `raw/`. Do not infer them. *(Same corpus block as GAHS/ABIC, Tokyo TG18, CTSI, LA grade.)*
+- **Decision gap — flagged, not filled:** the Rockall component variables and point values are **not in any ingested source**; the primary Rockall paper is not in `raw/`. Do not infer them. *(Same corpus block as GAHS/ABIC, CTSI, LA grade. **Corrected 2026-08-31:** Tokyo TG18 was previously listed here as corpus-blocked — it is **not**. The 2018 Tokyo Guidelines are ingested ([[tg18-2018-cholangitis-flowchart]]) and the Grade I/II/III criteria are on [[acute-cholangitis]].)*
 
 ### AIMS65 Score
 

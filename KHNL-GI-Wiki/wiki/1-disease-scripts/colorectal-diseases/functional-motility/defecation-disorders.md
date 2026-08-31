@@ -3,7 +3,7 @@ title: "Defecation Disorders (Dyssynergic Defecation)"
 category: disease-script
 tags: [defecation-disorder, dyssynergia, outlet-obstruction, biofeedback, anorectal-manometry, colorectal, pelvic-floor]
 created: 2026-05-16
-updated: 2026-08-27
+updated: 2026-08-31
 sources: [acg-2021-anorectal-disorders, aga-acg-2023-constipation, rome-v-2026-dgbi]
 ---
 
@@ -21,7 +21,13 @@ sources: [acg-2021-anorectal-disorders, aga-acg-2023-constipation, rome-v-2026-d
 | [[acg-2021-anorectal-disorders\|ACG 2021]] | **≥2** abnormal tests (ARM **and** BET both required; a single test held insufficient) |
 
 - ⚠ **Contradiction, resolved by recency:** Rome V is the newer tier-1 consensus, so the page asserts the 1-of-3 rule; ACG 2021's two-test requirement is kept in view because the test descriptions under [[#Required Tests for Diagnosis]] are written against it and many labs still apply it. [[rome-v-2026-dgbi]]
-- **Nomenclature:** Rome V **removed the umbrella category "functional defecation disorders"** (too broad — it swept in structural conditions such as rectal prolapse); the retained DGBI entity is **F3 dyssynergic defecation**. [[rome-v-2026-dgbi]]
+- **Symptoms are now a required limb, not just the tests:** Rome V requires **difficult-evacuation symptoms** (e.g. straining, digital maneuvers) **plus** the 1 abnormal test — an abnormal test alone does not make the diagnosis. [[rome-v-2026-dgbi]]
+- **What was dropped and what replaced it:** **EMG** is no longer a criterion (infrequently used); the diagnosis now leans on **specific manometric patterns of abnormal evacuation, including the rectoanal gradient**. [[rome-v-2026-dgbi]]
+- **Nomenclature:** Rome V **removed the umbrella category "functional defecation disorders"** (too broad — it swept in structural conditions such as [[rectal-prolapse|rectal prolapse]] and perineal descent); the retained DGBI entity is **F3 dyssynergic defecation**, now listed separately. [[rome-v-2026-dgbi]]
+- **New in Rome V — anorectal sensory dysfunction disorders (F4)**, a separate category from F3 that can produce the same complaints:
+  - **F4a rectal hyposensitivity** — blunted rectal sensation → **decreased urge to defecate, straining, and digital maneuvers to evacuate**. Overlaps clinically with dyssynergia; **rectal sensitivity testing separates them**, and treatment is **balloon sensory training** rather than (or alongside) coordination [[biofeedback-therapy|biofeedback]].
+  - **F4b rectal hypersensitivity** — **increased urge to defecate** with prolonged or frequent toilet times.
+  - ⚠ **Gap:** the ingested Rome V source announces F4 and its rationale but does **not** print the full diagnostic criteria or the rectal-volume thresholds that define hypo-/hypersensitivity. Those are deliberately not supplied here; the Rome V anorectal chapter would be needed.
 
 **Clinical features (Rome IV-compatible):** excessive straining during ≥25% of defecations, sense of anorectal blockage during ≥25% of defecations, use of digital or manual maneuvers during ≥25% of defecations, sense of incomplete evacuation.
 
@@ -51,6 +57,7 @@ Severity based on symptom burden, laxative dependence, impact on QoL (PAC-QoL, P
 | Rectocele | Structural defect; detected on defecography; significant if ≥5 cm with trapping; co-exists with dyssynergia in many patients |
 | [[rectal-prolapse\|Rectal prolapse]] (full-thickness) | Circular folds visible; inspect in squatting position or on toilet |
 | Hirschsprung disease | Usually diagnosed in childhood; aganglionic segment; suction rectal biopsy |
+| Rectal hyposensitivity (Rome V **F4a**) | Same outlet complaints (straining, digitation) but from **blunted rectal sensation**, not incoordination; separated by rectal sensitivity testing; treated by balloon sensory training |
 | Secondary causes | Parkinson's disease, ileal pouch-anal anastomosis, [[inflammatory-bowel-disease\|IBD]] proctitis; treat underlying condition |
 
 ---

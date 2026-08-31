@@ -3,7 +3,7 @@ title: "Liver Transplantation — Post-Transplant Management"
 category: disease-script
 tags: [liver-transplant, liver-transplantation, immunosuppression, tacrolimus, calcineurin-inhibitor, ckd, metabolic-syndrome, rejection, tcmr, pcr, amr, biliary-stricture, vascular-complications, machine-perfusion, dcd, ldlt, ead, hbv, hcv, pbc, psc, autoimmune-hepatitis, hcc, masld, ald, de-novo-malignancy, post-transplant, bone-health, vaccination, cmv, cancer-surveillance, glp-1, bariatric-surgery, aasld]
 created: 2026-05-19
-updated: 2026-08-30
+updated: 2026-08-31
 sources: [aasld-2012-liver-transplant-long-term, aasld-ast-2025-liver-transplant-graft-complications, aasld-ast-2025-liver-transplant-candidate-evaluation, aasld-ast-2025-liver-transplant-non-graft-complications, asge-2023-post-transplant-biliary-strictures]
 ---
 
@@ -18,6 +18,44 @@ Three parts, each with **one** home for its facts — content is cross-reference
 | **[[#PART III — NON-GRAFT COMPLICATIONS\|III]]** | Everything **outside the graft**: wellness, bone, vaccines, reproductive health, infection, cancer, cardiometabolic, CKD | [[aasld-ast-2025-liver-transplant-non-graft-complications\|AASLD/AST 2025 non-graft complications]] |
 
 **Where a fact lives:** anything about the graft or its immunosuppression is in Part II; every recipient-health domain (bone, infection prophylaxis, cancer screening, metabolic, renal, pregnancy, vaccines) is in Part III, under the 2025 non-graft guideline. Where the 2012 guideline still contributes non-conflicting detail it is folded into the Part III section and attributed inline.
+
+---
+
+## Contents
+- [[#PART I — PRE-TRANSPLANT CANDIDATE EVALUATION]]
+  - [[#Referral for Liver Transplant]]
+  - [[#Pre-Transplant Multidisciplinary Evaluation]]
+    - [[#Cardiac Evaluation]]
+    - [[#Pulmonary Evaluation]]
+    - [[#Infection Screening and Vaccination]]
+    - [[#Cancer Screening]]
+    - [[#Nutrition, Bone Health, and Physical Function]]
+    - [[#Psychosocial Evaluation]]
+  - [[#Contraindications to Liver Transplant]]
+  - [[#Special Situations (Pre-Transplant)]]
+- [[#PART II — POST-TRANSPLANT GRAFT MANAGEMENT]]
+  - [[#Assessment]]
+  - [[#Differential Diagnosis]]
+  - [[#Diagnostics]]
+  - [[#Therapeutics]]
+    - [[#Surgical Considerations and Donor Type]]
+    - [[#Vascular Complications (Rec 13–14)]]
+    - [[#Biliary Complications (Recs 15–24)]]
+    - [[#Immunosuppression (IS)]]
+    - [[#Graft Rejection Management]]
+    - [[#Recurrent Disease Management]]
+- [[#PART III — NON-GRAFT COMPLICATIONS]]
+  - [[#Wellness, Nutrition, and Health Behaviors]]
+  - [[#Bone Health]]
+  - [[#Vaccination]]
+  - [[#Reproductive Health]]
+  - [[#Infectious Complications]]
+    - [[#CMV Prevention — Which Strategy, and For How Long]]
+    - [[#CMV Treatment — Route and Agent by Viral Load]]
+    - [[#Other Infection Prophylaxis]]
+  - [[#Oncologic Surveillance]]
+  - [[#Metabolic Syndrome and Cardiometabolic Management]]
+  - [[#Chronic Kidney Disease]]
 
 ---
 
@@ -74,8 +112,9 @@ All candidates require ECG + comprehensive TTE (Strong, Level 2). TTE detects st
 - **HPS screening**: bubble echocardiography (contrast TTE with agitated saline) preferred when available (Weak, Level 1); if not routine, add for pulmonary symptoms or oxygenation abnormalities (Strong, Level 3)
   - Confirmed HPS: pulse oximetry + ABG to gauge PaO₂ severity; MELD exception available for PaO₂ <60 mmHg (Strong, Level 3)
 - **Portopulmonary hypertension (POPH) evaluation**: RVSP ≥45 mmHg or RV structural/functional abnormalities on TTE → right heart catheterization (RHC) required (Strong, Level 1)
-  - POPH responsive to medical therapy → LT may proceed, especially with advanced liver disease (Weak, Level 2)
-  - mPAP ≥45 mmHg + PVR >3 WU on optimized treatment = **contraindication to LT** (Strong, Level 1)
+  - POPH responsive to medical therapy → LT may proceed, especially with advanced liver disease (Weak, Level 2); the survival benefit is greatest in medical responders with **MELD >15**
+  - **MELD exception criteria for POPH** (the numbers that decide whether exception points are granted): **mPAP <35 mmHg AND PVR <5 WU**, *or* **mPAP 35–45 mmHg AND PVR <3 WU** — i.e. exception requires demonstrated response to POPH medical therapy
+  - **mPAP 45 mmHg with PVR >3 WU on optimized therapy** (as determined by a pulmonary hypertension specialist) = **contraindication to LT** (Rec 24, Strong, Level 1)
 
 ### Infection Screening and Vaccination
 
@@ -132,7 +171,7 @@ Performed by a credentialed evaluator. Key requirements:
 - Mental health disorders — treat and reassess (Strong, Level 3)
 - Yerdel grade IV PVT — **relative** contraindication to isolated LT (Weak, Level 2); revascularization may be feasible. See [[portal-vein-thrombosis]].
 - BMI >40 or <18.5 — screen for treatable factors; not sole exclusion (Strong, Level 3)
-- POPH: mPAP ≥45 mmHg + PVR >3 WU on optimized treatment = contraindication (Strong, Level 1)
+- POPH: mPAP 45 mmHg + PVR >3 WU on optimized treatment = contraindication (Rec 24, Strong, Level 1) — see [[#Pulmonary Evaluation]] for the MELD-exception thresholds
 
 ---
 
@@ -210,9 +249,9 @@ The post-transplant recipient requires lifelong structured monitoring for allogr
 
 **Plasma cell-rich rejection (PCR)** — formerly "de novo [[autoimmune-hepatitis|autoimmune hepatitis]]"; histologically resembles AIH with IgG4-positive plasma cell infiltrates; requires augmented IS including antimetabolite ± low-dose maintenance corticosteroid.
 
-**[[antibody-mediated-rejection-liver-transplant|Antibody-mediated rejection (AMR)]]** — diagnosed by combination of C4d deposition, donor-specific antibodies (DSA), histologic features, and graft dysfunction. Diagnosis and management remain evolving ([[aasld-ast-2025-liver-transplant-graft-complications]], Recs 41+).
+**[[antibody-mediated-rejection-liver-transplant|Antibody-mediated rejection (AMR)]]** — diagnosed by combination of C4d deposition, donor-specific antibodies (DSA), histologic features, and graft dysfunction. Diagnostic triggers and the acute-vs-chronic treatment ladder are in [[#Graft Rejection Management]] ([[aasld-ast-2025-liver-transplant-graft-complications]], Recs 47–53).
 
-**Ductopenic rejection / chronic rejection**: loss of interlobular bile ducts (>50% of portal tracts) = vanishing bile duct syndrome. May progress to graft failure requiring re-transplantation.
+**Ductopenic rejection / chronic rejection**: loss of interlobular bile ducts in **>50% of portal tracts** = vanishing bile duct syndrome. **The therapeutic window is before that point** — treat while duct loss is <50% (see [[#Graft Rejection Management]]). May progress to graft failure requiring re-transplantation.
 
 ---
 
@@ -246,9 +285,9 @@ The post-transplant recipient requires lifelong structured monitoring for allogr
 
 *Core interval and IS trough targets: see [[#Establishing the Diagnosis]] above. Cardiometabolic and renal surveillance labs (lipids, HbA1c, eGFR) are in Part III.*
 
-- **HBV DNA and anti-HBs**: see [[#Hepatitis B (HBV) recurrence prevention]]
+- **HBV DNA and anti-HBs**: see [[#Recurrent Disease Management]]
 - **HCV RNA**: if clinically indicated or if ALT rises
-- **CMV PCR**: pre-emptive weekly surveillance / diagnosis of syndrome — see [[#CMV Prevention and Treatment]] (Part III)
+- **CMV PCR**: pre-emptive weekly surveillance / diagnosis of syndrome — see [[#CMV Prevention — Which Strategy, and For How Long]] (Part III)
 - **Annual thyroid function** (sirolimus/everolimus recipients)
 - **EAD risk assessment (early post-LT)**: L-GrAFT or EASE score at POD 7–10 to predict 3-month outcomes ([[aasld-ast-2025-liver-transplant-graft-complications]], Rec 11)
 
@@ -428,10 +467,26 @@ Biliary complications are addressed both by AASLD-AST 2025 and by the dedicated 
 - Histologically resembles AIH with significant lymphocytic cholangitis and IgG4-positive plasma cell infiltrates
 - Treat with corticosteroids + augment existing IS; add antimetabolite and/or low-dose maintenance prednisone (5–10 mg/day) (Strong, Level 4)
 
-**Antibody-Mediated Rejection (AMR)** — See [[aasld-ast-2025-liver-transplant-graft-complications]] Recs 41+ (full text in published article):
+**Chronic Ductopenic Rejection (CDR)** (Rec 43):
 
-- Diagnosis requires combination of C4d deposition, donor-specific antibodies (DSA), histologic features (microvascular injury), and graft dysfunction
-- Management typically includes plasmapheresis, IVIG, rituximab, and/or bortezomib; evidence largely expert consensus
+- **Treat early — while bile duct loss/ductopenia is still <50% of portal tracts** — with augmentation of existing IS, to maximize response and reversibility (Strong, Level 4). Once ≥50% of portal tracts have lost their interlobular ducts the lesion is vanishing bile duct syndrome and is far less reversible.
+
+**Rejection biomarkers** (Recs 41–42):
+
+- **Peripheral blood biomarkers alone must NOT be used to diagnose or exclude TCMR** or other allograft injury (Rec 41, Strong, Level 4) — biopsy remains the standard
+- Assays measuring **intracellular ATP after CD4 cell activation** may be considered to gauge immunological status, infection risk, and the need for IS adjustment (Rec 42, Weak, Level 3)
+
+**[[antibody-mediated-rejection-liver-transplant|Antibody-Mediated Rejection (AMR)]]** (Recs 47–53, [[aasld-ast-2025-liver-transplant-graft-complications]]):
+
+| | Acute AMR | Chronic AMR |
+|---|---|---|
+| **Suspect when** | Unexplained graft dysfunction **+ thrombocytopenia + hypocomplementemia** (Rec 47, Strong, Level 3) | Diagnosis is challenging — no single trigger (Rec 50, Strong, Level 4) |
+| **Workup** | **DSA testing + liver biopsy with C4d staining** for signature histology (Rec 47) | DSA + typical biopsy findings; **exclude other liver diseases** causing a similar injury pattern (Rec 50) |
+| **Initial therapy** | High-dose corticosteroids + augmentation of existing IS ± an agent from a **different class** (Rec 48, Strong, Level 3) | Augmentation of existing IS ± a second IS class (Rec 51, Strong, Level 5) |
+| **Refractory / escalation** | **IVIG + plasma exchange ± anti-CD20** may be considered (Rec 49, Weak, Level 4) | **Insufficient data** to recommend anti-CD20, proteasome inhibitor, plasma exchange, or IVIG (Rec 52, Strong, Level 4) |
+| **Graft failure** | Re-transplantation should be considered (Rec 53, Strong, Level 5) | Re-transplantation should be considered (Rec 53) |
+
+- **DSA MFI:** preformed DSA of potential clinical significance is tentatively defined as **MFI ≥5000**; most studies correlate chronic AMR with **MFI >5000**, but there is **no agreed-upon cutoff**. Serial DSA measurement can be **individualized** in verified or suspected AMR being treated or monitored (Rec 56, Weak, Level 4).
 
 ### Non-Graft Complications — Cross-Reference
 
@@ -439,16 +494,21 @@ Metabolic syndrome, CKD, bone disease, infection prophylaxis, vaccination, de no
 
 ### Recurrent Disease Management
 
-**[[chronic-hepatitis-b|Hepatitis B (HBV)]] recurrence prevention** ([[aasld-2012-liver-transplant-long-term]], Rec. 60–64):
+**[[chronic-hepatitis-b|Hepatitis B (HBV)]] recurrence prevention** ([[aasld-ast-2025-liver-transplant-graft-complications]], Recs 57–60 — these **supersede** the 2012 fixed-HBIG protocol):
 
 - Recurrence rate prior to prophylaxis: 80–100%; now <10% with modern regimens
-- **HBV prophylaxis (all HBsAg-positive recipients)**: hepatitis B immune globulin (HBIG) + oral nucleos(t)ide analogue (NA)
-  - Preferred NAs: **entecavir** or **tenofovir** (high barrier to resistance) — replace lamivudine and adefovir (Rec. 60)
-  - HBIG: IV during anhepatic phase, then IM × 7 days post-op, then monthly thereafter; adjust to maintain anti-HBs >100–150 IU/L
-  - Long-term: HBIG + entecavir/tenofovir; some protocols transition to NA monotherapy in low-risk patients (Rec. 61)
-- **Incidentally HBsAg-negative but anti-HBc-positive donors** ("HBV D+/R−" or "D+/R+ core antibody"): universal prophylaxis with lamivudine or tenofovir (Rec. 62)
-- **All recipients**: monitor HBV DNA annually; anti-HBs levels every 3–6 months (Rec. 63)
-- De novo HBV (in D−/R−): ensure vaccination pre-LT; check serologies (Rec. 64)
+- **All HBV-infected recipients:** a **first-line nucleos(t)ide analogue** — entecavir, tenofovir disoproxil, or tenofovir alafenamide — to prevent recurrence (Rec 58, Strong, Level 3). NA is started **before** LT in candidates with chronic HBV and continued indefinitely. Lamivudine and adefovir are no longer first-line.
+- **HBIG is no longer given on a fixed schedule to everyone — its duration is risk-stratified** (Rec 59, Strong, Level 2). HBV alone:
+
+| | **Low recurrence risk → short-course or no HBIG + indefinite NA** | **High recurrence risk → long-term HBIG + indefinite NA** |
+|---|---|---|
+| **Patient factors** | Good adherence | Limited adherence; HCC at high risk of recurrence; HIV co-infection |
+| **Virologic factors** | Low/undetectable HBV DNA | High HBV DNA at LT; [[hepatitis-d\|HDV]] co-infection; NA-resistant mutations present |
+
+- Consider **HBIG withdrawal** in selected patients once low-risk; NA continues indefinitely regardless. (Reported HBIG durations range 6 months to several years.)
+- **HBV + [[hepatitis-d|HDV]] co-infection is the exception:** HBIG **must** be given in addition to first-line NA in *all* such recipients (Rec 60, Strong, Level 4)
+- **HBsAg-negative recipient of an HBsAg-negative, anti-HBc-positive graft** (transmission risk up to 75%; highest when recipient is both HBsAb- and HBcAb-negative): **indefinite** prophylaxis with **entecavir, tenofovir disoproxil, or tenofovir alafenamide**, started immediately post-LT. **HBIG is not required in this setting** (Rec 57, Strong, Level 3). De novo HBV infection → lifelong first-line NA.
+- **Monitoring** ([[aasld-2012-liver-transplant-long-term]], Rec. 63): HBV DNA annually; anti-HBs every 3–6 months. Ensure HBV vaccination pre-LT in D−/R− recipients (Rec. 64).
 
 **[[hepatitis-c|Hepatitis C]] (HCV) recurrence** (Rec. 65–68):
 > **Note**: These recommendations reflect the 2012 pre-DAA era and are now largely superseded. HCV recurrence post-LT is now treated with direct-acting antiviral (DAA) regimens (NS5A/NS5B/NS3 inhibitors) achieving >95% SVR. The recommendations below are preserved for historical context.
@@ -552,11 +612,27 @@ Metabolic syndrome, CKD, bone disease, infection prophylaxis, vaccination, de no
 
 (Recs 12–18, [[aasld-ast-2025-liver-transplant-non-graft-complications]])
 
-- DEXA scan at **6 months post-LT**; repeat every 1–2 years if osteopenia/osteoporosis present (Strong, Level 4)
-- Calcium >1200 mg/day + vitamin D 600 IU/day supplementation (Strong, Level 4)
-- Target 25-OH-vitamin D ≥30 ng/mL; supplement with vitamin D3 1000–2000 IU/day if <30 ng/mL (Strong, Level 4)
-- Initiate pharmacotherapy (bisphosphonate) for T-score ≤−2.5 or FRAX fracture risk criteria (Strong, Level 4)
-- Physical therapy and fall prevention program for those with osteoporosis or elevated fall risk (Strong, Level 4)
+**Screening**
+
+- Bone density scan **once on stable immunosuppression — typically after 6 months post-LT** (Rec 12, Strong, Level 2). The qualifier is the trigger: stable IS, not the calendar date. Baseline is the pre-LT DEXA in [[#Nutrition, Bone Health, and Physical Function]].
+- If osteopenia **or** osteoporosis found: serial DEXA **every 1–2 years until findings are stable** (Rec 13, Strong, Level 3)
+
+**Supplementation** (osteopenia/osteoporosis)
+
+- Calcium **>1200 mg/day**, diet **plus** supplement if needed (Rec 14, Strong, Level 3)
+- Osteoporosis: maintain 25-OH-vitamin D **≥30 ng/mL, preferred range 30–50 ng/mL** (Rec 15, Strong, Level 3)
+- Osteoporosis with 25-OH-D **<30 ng/mL**: vitamin D3 **1000–2000 IU/day** (Rec 16, Strong, Level 3)
+
+**When to start drug therapy** — any **one** of the three criteria (Rec 17, Strong, Level 1):
+
+| # | Criterion |
+|---|---|
+| 1 | **Osteopenia + history of fragility fracture of hip or spine** (osteoporosis equivalent) |
+| 2 | **T-score ≤ −2.5** |
+| 3 | **FRAX 10-y probability of major osteoporotic fracture ≥20%** *or* **10-y probability of hip fracture ≥3%** |
+
+- Appropriate initial agents include (not limited to) **alendronate, denosumab, risedronate, zoledronate** (Rec 17, Strong, Level 1)
+- Recipients meeting criteria for **osteoporosis**: refer to physical therapy to prevent falls (Rec 18, Strong, Level 1)
 
 ---
 
@@ -605,27 +681,41 @@ CMV disease is the most clinically significant opportunistic infection post-LT.
 
 **Serostatus-based risk:**
 
-- D+/R−: highest CMV risk — valganciclovir 900 mg once daily prophylaxis × 3–6 months (Strong, Level 2)
-- D+/R+ or D−/R+: intermediate risk — pre-emptive monitoring preferred
-- D−/R−: lowest risk
+- **D+/R−** — highest risk (primary infection)
+- **D+/R+ or D−/R+** — intermediate risk
+- **D−/R−** — low risk (<2%)
 
-### CMV Management Strategy
+### CMV Prevention — Which Strategy, and For How Long
 
-**Pre-emptive monitoring** (weekly CMV PCR × 100 days) is the **preferred** strategy when consistent monitoring is achievable (Strong, Level 2):
+**Pre-emptive monitoring is first choice** whenever **either donor or recipient is CMV seropositive**: weekly CMV PCR **for 100 days**, provided the center can implement it reliably (Rec 36, Strong, Level 1).
 
-- Treat when CMV DNA detectable above threshold; treatment: valganciclovir 900 mg BID (non-severe), IV ganciclovir (severe/end-organ)
-- Secondary prophylaxis after treatment NOT routinely recommended (Weak, Level 3)
+**If reliable pre-emptive monitoring is not achievable**, use universal prophylaxis with valganciclovir **900 mg once daily** (renally adjusted) — the duration depends on serostatus (Rec 37, Strong, Level 1):
 
-**Refractory/resistant CMV:** Maribavir 400 mg BID (UL97 kinase inhibitor) (Strong, Level 2)
+| Serostatus | Valganciclovir prophylaxis duration |
+|---|---|
+| **D± / R+** | **3 months** |
+| **D+ / R−** | **6 months** |
 
-**Neutropenia on valganciclovir:** Letermovir (UL56 inhibitor) — add acyclovir/valacyclovir/famciclovir for VZV/HSV suppression when letermovir used (Weak, Level 3–4)
+- **Persistent neutropenia on valganciclovir prophylaxis:** substitute **letermovir**, but only in the absence of HSV/VZV seropositivity (Rec 38, Strong, Level 2). Letermovir has **no** HSV/VZV activity — HSV- or VZV-seropositive recipients on letermovir must also get acyclovir, valacyclovir, or famciclovir (Rec 39, Strong, Level 2)
+- **HSV/VZV prophylaxis:** in **D−/R−** recipients, or wherever pre-emptive monitoring is being used, give oral acyclovir, valacyclovir, or famciclovir for **≥3 months** post-LT (Rec 40, Strong, Level 2)
+
+### CMV Treatment — Route and Agent by Viral Load
+
+| Situation | Therapy | Grade |
+|---|---|---|
+| CMV infection, viral load **<100,000 IU/mL**, intact GI absorption, non-severe | **Oral valganciclovir 900 mg BID** (renally adjusted) — preferred (Rec 41) | Strong, Level 1 |
+| Viral load **≥100,000 IU/mL** *or* impaired GI absorption *or* severe infection (especially pneumonia) | **IV ganciclovir** (Rec 41) | Strong, Level 1 |
+| Refractory/resistant, **low viral load ≤20,000 IU** | **Maribavir 400 mg BID** (Rec 42) | Strong, Level 1 |
+| Refractory/resistant with **high viral load (>20,000–50,000 IU/mL)**, severe disease, or poor GI absorption | **IV foscarnet** (Rec 42) | Strong, Level 1 |
+
+- **Monitoring on treatment** (Rec 43, Strong, Level 1): CMV viral load **weekly while on therapy**; continue therapy **until viral load undetectable**, then **weekly monitoring for 4 weeks off therapy**. **Secondary prophylaxis is not recommended.**
 
 ### Other Infection Prophylaxis
 
-- **TB/LTBI:** INH 300 mg + pyridoxine (B6) 50 mg once daily, OR rifampin 300 mg once daily × 4 months (Strong, Level 4)
-- **PCP:** TMP-SMX for ≥6 months post-LT (Strong, Level 4)
-- **Antifungal:** Fluconazole × 2–4 weeks if ≥2 risk factors (Candida colonization, renal replacement therapy, re-transplant, prolonged OR time, high transfusion volume) (Weak, Level 4)
-- **Zoonotic/environmental:** Avoid reptiles, rodents, birds; gloves + mask for gardening; endemic mycoses prophylaxis in high-risk endemic areas
+- **Latent TB** (treatment-naïve): **isoniazid 300 mg daily + pyridoxine (B6) 50 mg daily**, started **within 6 months post-transplant once graft function is stable**. If therapy is started **pre-transplant**, **rifampin 300 mg daily × 4 months** may be used instead (Rec 29, Strong, Level 1)
+- **PCP (*Pneumocystis jirovecii*):** **TMP-SMX or atovaquone for 6 months post-transplant** (Rec 30, Strong, Level 2)
+- **Antifungal:** **fluconazole × 2–4 weeks** for recipients with **≥2** of these risk factors — renal replacement therapy (pre-, peri-, or post-transplant); re-operation including anastomotic leak or repeat laparotomy; re-transplant; transfusion of **≥40 units** of cellular products; choledochojejunostomy (Rec 31, Strong, Level 2)
+- **Zoonotic:** avoid exposure to high-risk pets — **rodents, reptiles, birds** (Rec 32, Strong, Level 5)
 
 ---
 
@@ -635,15 +725,17 @@ CMV disease is the most clinically significant opportunistic infection post-LT.
 
 **Overall cancer risk: 2.45-fold elevated** vs. general population. SIR highest for non-Hodgkin lymphoma (~10×); absolute risk highest for non-melanoma skin cancer.
 
-| Cancer Type | Recommendation |
-|---|---|
-| Age-appropriate (colorectal, breast, cervical, lung, prostate) | USPSTF guidelines (Strong, Level 4) |
-| Skin cancer | Annual dermatology exam (Strong, Level 4) |
-| Colon (average risk LT recipients) | Colonoscopy every 5 years (Strong, Level 4) |
-| Colon (PSC + IBD) | Annual colonoscopy (Strong, Level 3) |
-| Colon (PSC without IBD) | Colonoscopy every 5 years (Weak, Level 4) |
-| Cervical/HPV | HPV testing per society guidelines for women ≥21/sexually active (Strong, Level 4) |
-| Smoking | Cessation counseling and pharmacotherapy (Strong, Level 4) |
+| Group | Recommendation | Grade |
+|---|---|---|
+| All recipients | Age-appropriate cancer screening per **USPSTF** or other organizations (Rec 44) | Strong, Level 1 |
+| All recipients | **Yearly clinical skin exam** (Rec 45) | Strong, Level 2 |
+| Tobacco users | Smoking-cessation education **and** medical intervention (Rec 46) | Strong, Level 1 |
+| Women **≥21** or sexually active **with positive HPV testing** | May consider **annual** pelvic exam + cervical **and anal** Pap testing (Rec 47) | Weak, Level 4 |
+| History of tobacco, [[alcohol-associated-liver-disease\|ALD]], or HPV infection | May consider **ENT referral for head & neck cancer surveillance within the first year** post-LT (Rec 48) | Weak, Level 3 |
+| Colon — otherwise **average risk** | May consider [[colonoscopy]] **q5y** (colonoscopy preferred over stool-based testing in LT recipients) (Rec 49) | Weak, Level 3 |
+| Colon — **[[primary-sclerosing-cholangitis\|PSC]] + [[inflammatory-bowel-disease\|IBD]]** | **Annual** colonoscopy **with random biopsies** (Rec 50) | Strong, Level 2 |
+| Colon — **PSC without IBD** | Colonoscopy **q5y, with ileal intubation and colon biopsies** (screens for both IBD and CRC) (Rec 51) | Strong, Level 3 |
+| Colon — **IBD without PSC** | **Annual** colonoscopy (not stool-based) **with random biopsies** *if* the patient meets surveillance criteria by IBD extent and duration (Table 4) | — |
 
 **PTLD/EBV:** Serial EBV PCR monitoring is **NOT recommended** routinely (Weak, Level 3). See [[post-transplant-lymphoproliferative-disorder]] for PTLD management.
 
@@ -653,49 +745,102 @@ CMV disease is the most clinically significant opportunistic infection post-LT.
 
 (Recs 53–70, [[aasld-ast-2025-liver-transplant-non-graft-complications]])
 
-Annual screening for HTN, obesity, DM, and hyperlipidemia for all LT recipients (Strong, Level 4).
+**Annual** screening for hypertension, obesity, diabetes, and hyperlipidemia in **all** LT recipients (Rec 53, Strong, Level 5).
 
 ### Immunosuppression Optimization for Metabolic Comorbidities
 
-- Early steroid withdrawal when rejection risk allows → reduces metabolic syndrome severity (Strong, Level 3)
-- Switch CSA → TAC for poor glycemic control (Weak, Level 3)
-- Switch TAC → CSA for uncontrolled hypertension resistant to antihypertensives (Weak, Level 3)
-- CNI minimization ± addition of antimetabolite (MMF/AZA) for persistent hyperlipidemia (Weak, Level 4)
+Note the two CNI switches run in **opposite directions** — the choice depends on which comorbidity is uncontrolled:
+
+| Problem | IS change | Grade |
+|---|---|---|
+| Metabolic comorbidities (DM, HTN) | **Early corticosteroid withdrawal**, balanced against rejection risk (Rec 54) | Strong, Level 1 |
+| **Poor glycemic control** despite aggressive medical management | **Tacrolimus → cyclosporine** (Rec 55) | Weak, Level 3 |
+| **Uncontrolled hypertension** despite aggressive medical management | **Cyclosporine → tacrolimus** (Rec 56) | Weak, Level 3 |
+| **Hyperlipidemia** despite aggressive medical management | **CNI minimization ± antimetabolite** (MMF/AZA) (Rec 57) | Weak, Level 5 |
 
 ### Post-Transplant Diabetes Mellitus (PTDM)
 
-- **Metformin** — first-line for post-transplant T2DM **without** significant cardiovascular risk factors (Strong, Level 2)
-- **GLP-1 receptor agonist and/or SGLT2 inhibitor** — first-line for post-transplant T2DM **with** high ASCVD risk, heart failure, stroke, or CKD (Strong, Level 2)
-- See [[semaglutide]] for GLP-1RA details in transplant context
+- **Metformin** — first-line in T2DM with **no other cardiovascular risk factors** (Rec 58, Strong, Level 5)
+- **GLP-1 receptor agonist and/or SGLT2 inhibitor** — first-line when at **high ASCVD risk, or with heart failure, stroke, or CKD** (Rec 59, Strong, Level 5)
+- **What counts as "high ASCVD risk"** (the criterion the recommendation turns on): proteinuria/albuminuria, hypertension, left ventricular hypertrophy, systolic or diastolic dysfunction, or **ankle-brachial index <0.9**
+- Sulfonylureas are **not** used first-line. Insulin-based therapy is managed as in non-transplant patients. See [[semaglutide]] for GLP-1RA details in the transplant context.
 
 ### Hypertension
 
-- RAS inhibitors (ACEi or ARB) + CCB or beta blockers for LT recipients with established CAD or HF (Strong, Level 3)
-- **Amlodipine or felodipine** as preferred CCB for hypertension without CVD or CKD — dihydropyridine CCBs with minimal CYP3A4 CNI interaction; avoid diltiazem/verapamil (major CNI level elevation) (Strong, Level 3)
+- **HTN defined** as SBP **≥140 mmHg** and/or DBP **≥90 mmHg**; **BP target ≤130/80 mmHg**
+- **History of CVD and/or CKD:** regimen must include a **RAS inhibitor** (ACEi or ARB) unless contraindicated by difficult-to-control hyperkalemia (Rec 60, Strong, Level 5)
+- **No CVD and no CKD:** **amlodipine or felodipine** first-line (Rec 61, Strong, Level 5) — dihydropyridine CCBs with minimal CYP3A4 interaction; avoid diltiazem/verapamil (major CNI level elevation)
 
 ### Dyslipidemia
 
-- **Hydrophilic statins preferred** — pravastatin (medium intensity) and rosuvastatin (high intensity) are NOT CYP3A4 substrates; avoid simvastatin, atorvastatin, lovastatin (CYP3A4 substrates with major DDI with CNIs — significantly elevated statin levels and myopathy risk) (Strong, Level 2)
-- Ezetimibe and/or PCSK9 inhibitors for LDL refractory to statins (Weak, Level 3)
-- Omega-3 fatty acids ± fibrates for hypertriglyceridemia >135 mg/dL (Weak, Level 3)
+- **Hydrophilic statins first-line** + lifestyle modification — **pravastatin** (medium intensity) and **rosuvastatin** (high intensity), which are not CYP3A4 substrates; avoid simvastatin, atorvastatin, lovastatin (CYP3A4 substrates → elevated statin levels, myopathy risk with CNIs). **Ezetimibe and/or PCSK9 inhibitors** for refractory cases (Rec 62, Strong, Level 5)
+- Statin intensity and LDL target follow a risk-stratified approach (age, DM, HTN, CKD, smoking, elevated LDL, family history of ASCVD + 10-year ASCVD risk score). Start low dose and titrate up.
+- **Hypertriglyceridemia >135 mg/dL despite statin:** add **omega-3** first; add a **fibrate** only if triglycerides remain elevated (caution — CNI/statin interaction raises myopathy risk) (Rec 63, Strong, Level 5)
 
 ### Obesity
 
-- **GLP-1 receptor agonist** for LT recipients unable to achieve adequate weight loss with lifestyle modification (Weak, Level 3)
-- Obesity specialist referral for BMI >30 at 3–6 months post-LT (Weak, Level 4)
-- **Bariatric surgery** if >15–20% total body weight loss needed AND medical management has failed; only after LT recipient is medically and surgically stable (generally ≥1–2 years post-LT) (Weak, Level 3–4)
+- **GLP-1 receptor agonist** when diet and exercise fail to achieve sufficient weight loss, in collaboration with primary care/obesity medicine/endocrinology (Rec 64, Strong, Level 3)
+- **BMI >30:** refer to an obesity specialist as early as **3–6 months post-transplant** (Rec 65, Strong, Level 5)
+- **[[bariatric-surgery|Weight-loss surgery]]** if medical management is unsuccessful **or** the recipient needs **>15–20% of current weight** lost (Rec 66, Strong, Level 3) — and only once the recipient is **medically and surgically stable** (Rec 67, Strong, Level 3)
 
 ### Cardiovascular Surveillance
 
-- Cardiac assessment at every visit for LT recipients with established CVD history (Strong, Level 4)
-- Annual cardiologist evaluation for LT recipients with established CVD (Strong, Level 4)
-- Echocardiography surveillance for recipients with known systolic, diastolic, or valvular heart disease (Strong, Level 4)
+- Established CVD: **cardiac-focused clinical assessment at every visit** — primary care, hepatology, and cardiology clinics (Rec 68, Strong, Level 5)
+- Established CVD: **annual cardiology follow-up** (Rec 69, Strong, Level 5)
+- **Systolic dysfunction, diastolic dysfunction, or more-than-mild valvular disease:** echocardiographic surveillance, interval **individualized to risk profile** (Rec 70, Weak, Level 5)
+
+### Cardio-Preventive Strategy
+
+- Lifestyle modification (diet, exercise) **plus** aggressive management of metabolic complications is the basis of primary CVD prevention (Rec 71, Strong, Level 5)
+- **Aspirin and statin use follow the same cardiovascular risk-stratification approach used in the general population** — LT status does not change the threshold (Rec 72, Strong, Level 5)
+- **Recurrent cardiovascular events:** consider **CNI minimization with introduction of an mTOR inhibitor** (e.g. everolimus) (Rec 73, Weak, Level 3)
+
+---
+
+## Chronic Kidney Disease
+
+(Recs 74–82, [[aasld-ast-2025-liver-transplant-non-graft-complications]])
+
+LT recipients carry the **highest risk of incident stage 4–5 CKD of any solid-organ transplant group**, despite receiving the least immunosuppression. Early post-LT [[aki-in-cirrhosis|AKI]] is strongly associated with later CKD, and [[calcineurin-inhibitors|CNIs]] drive it both directly and through HTN, DM, obesity, and dyslipidemia.
+
+### Surveillance Interval by CKD Stage
+
+Serial **creatinine-based eGFR** in both LT and simultaneous liver–kidney (SLK) recipients (Rec 74, Strong, Level 4):
+
+| CKD stage | eGFR monitoring interval |
+|---|---|
+| **Early and moderate (stages 1–3)** | every **6–12 months** |
+| **Advanced (stages 4–5)** | every **1–3 months** |
+
+- If **cystatin C** is available, estimate eGFR from **creatinine + cystatin C** combined (KDIGO 2024).
+- **Proteinuria can be falsely absent** even in advanced CKD — CNIs are antiproteinuric. Do not use a normal spot protein-to-creatinine ratio (threshold >0.3) to rule out CKD in an LT recipient.
+
+### Prevention and Referral
+
+- Aggressive management of **hypertension, diabetes, obesity, and dyslipidemia**, co-managed with primary care and nephrology, to prevent progression to stages 4–5 (Rec 75, Strong, Level 5)
+- **Refer to nephrology at stage 4** (eGFR <30 mL/min) (Rec 76, Strong, Level 5). Refer earlier — at stage 3 — if urine findings suggest a nephritis.
+
+### Immunosuppression-Based Renal Protection
+
+The strategy is **time-dependent**; there is no high-quality evidence for any renal-protective strategy intraoperatively or **≥12 months** post-LT.
+
+| Timing / setting | Strategy | Grade |
+|---|---|---|
+| Peri- or **early post-transplant AKI** | **Delayed CNI introduction** alongside induction immunosuppression (Rec 77) | Weak, Level 2 |
+| CKD **within the first year** post-LT | **Reduce CNI dose**, typically **combined with a non-nephrotoxic adjunct** — mycophenolate or everolimus (Rec 78) | Strong, Level 1 |
+| CKD, **first year** post-LT | **Minimize but do not eliminate** CNIs (Rec 79) | Strong, Level 1 |
+| CKD, **beyond 1 year** post-LT | **Minimize but do not stop** CNIs (Rec 82) | Strong, Level 3 |
+| CKD — **do not use** | **Belatacept** for renal protection — increased mortality (Rec 80) | Strong, Level 1 |
+| CKD — **do not use** | **Mycophenolate monotherapy** — strongly associated with acute cellular rejection (Rec 81) | Strong, Level 2 |
+
+- Tacrolimus vs cyclosporine: tacrolimus reduced the risk of stage 4–5 CKD by **66%**.
+- SLK recipients: cumulative incidence of stage 4–5 CKD **10% / 12% / 16%** at 1, 3, and 5 years.
 
 ---
 
 ## See Also
 
-[[abnormal-liver-chemistries]], [[acute-liver-failure]], [[acute-on-chronic-liver-failure]], [[alcohol-associated-liver-disease]], [[portal-vein-thrombosis]], [[portal-hypertension]], [[chronic-hepatitis-b]], [[hepatitis-c]], [[direct-acting-antivirals]], [[hepatocellular-carcinoma]], [[hcc-surveillance]], [[nafld-masld]], [[primary-sclerosing-cholangitis]], [[primary-biliary-cholangitis]], [[autoimmune-hepatitis]], [[acute-hepatic-porphyria]], [[cholangiocarcinoma]], [[biliary-stricture]], [[ercp]], [[mri-mrcp]], [[liver-biopsy]], [[tacrolimus]], [[calcineurin-inhibitors]], [[post-transplant-lymphoproliferative-disorder]], [[operational-tolerance]], [[antibody-mediated-rejection-liver-transplant]], [[semaglutide]], [[bariatric-surgery]], [[obesity]], [[nutrition-in-liver-disease]], [[colorectal-cancer]], [[colorectal-cancer-screening]], [[colonoscopy]], [[antibiotic-prophylaxis-endoscopy]], [[inflammatory-bowel-disease]], [[gastroenteropancreatic-neuroendocrine-tumors]], [[hepatopulmonary-syndrome-portopulmonary-hypertension]], [[hepatic-encephalopathy]], [[ascites]], [[spontaneous-bacterial-peritonitis]], [[variceal-upper-gi-bleeding]], [[cirrhosis]], [[liver-stiffness-measurement]], [[tips]], [[rotavirus]], [[colonoscopy-surveillance]]
+[[abnormal-liver-chemistries]], [[acute-liver-failure]], [[acute-on-chronic-liver-failure]], [[alcohol-associated-liver-disease]], [[portal-vein-thrombosis]], [[portal-hypertension]], [[chronic-hepatitis-b]], [[hepatitis-c]], [[hepatitis-d]], [[direct-acting-antivirals]], [[aki-in-cirrhosis]], [[hepatocellular-carcinoma]], [[hcc-surveillance]], [[nafld-masld]], [[primary-sclerosing-cholangitis]], [[primary-biliary-cholangitis]], [[autoimmune-hepatitis]], [[acute-hepatic-porphyria]], [[cholangiocarcinoma]], [[biliary-stricture]], [[ercp]], [[mri-mrcp]], [[liver-biopsy]], [[tacrolimus]], [[calcineurin-inhibitors]], [[post-transplant-lymphoproliferative-disorder]], [[operational-tolerance]], [[antibody-mediated-rejection-liver-transplant]], [[semaglutide]], [[bariatric-surgery]], [[obesity]], [[nutrition-in-liver-disease]], [[colorectal-cancer]], [[colorectal-cancer-screening]], [[colonoscopy]], [[antibiotic-prophylaxis-endoscopy]], [[inflammatory-bowel-disease]], [[gastroenteropancreatic-neuroendocrine-tumors]], [[hepatopulmonary-syndrome-portopulmonary-hypertension]], [[hepatic-encephalopathy]], [[ascites]], [[spontaneous-bacterial-peritonitis]], [[variceal-upper-gi-bleeding]], [[cirrhosis]], [[liver-stiffness-measurement]], [[tips]], [[rotavirus]], [[colonoscopy-surveillance]]
 
 ---
 

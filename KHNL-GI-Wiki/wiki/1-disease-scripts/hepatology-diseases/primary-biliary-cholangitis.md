@@ -58,7 +58,9 @@ When criteria 1 + 2 are met, biopsy is not required for diagnosis.
 | Toronto | ALP ≤1.67× ULN |
 | Paris II | ALP ≤1.5× ULN; AST ≤1.5× ULN; total bilirubin ≤1 mg/dL |
 | Rochester II | ALP ≤2× ULN |
-| GLOBE | ALP ≤2× ULN |
+| Global | ALP ≤2× ULN |
+
+*Table 1 labels the last row "Global" — this binary ALP criterion is **not** the continuous GLOBE score above; do not conflate them.*
 
 Up to 40% of patients will have an inadequate response by one of these criteria and should be evaluated for second-line therapy.
 

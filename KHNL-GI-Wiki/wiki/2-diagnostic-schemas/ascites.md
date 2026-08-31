@@ -144,7 +144,7 @@ SAAG = serum albumin − ascitic fluid albumin (simultaneous samples)
 | Rapidly worsening or refractory ascites | Assess for SBP, AKI, dietary noncompliance; expedite LT evaluation |
 | Bilateral or left-sided pleural effusion in the absence of ascites | Consider non-HH cause (cardiac, malignancy, infection) |
 | Umbilical hernia with cirrhosis and ascites | Risk of incarceration, rupture, peritonitis |
-| Serum Na ≤130 mEq/L | Increased risk of HRS, SBP, hepatic encephalopathy; adverse prognosis |
+| Serum Na ≤130 mEq/L | Increased risk of [[hepatic-encephalopathy\|hepatic encephalopathy]] (OR 3.4), HRS (OR 3.5), [[spontaneous-bacterial-peritonitis\|SBP]] (OR 2.4); adverse prognosis |
 | Non-improving ascites despite max diuretics | Confirm refractory ascites; evaluate for TIPS; refer for LT |
 
 ---
@@ -155,7 +155,7 @@ SAAG = serum albumin − ascitic fluid albumin (simultaneous samples)
 
 - Moderate restriction: **2 g (90 mmol) sodium/day** for all grades 2 and 3
 - Patient education essential; formal dietician consultation recommended
-- Fluid restriction: NOT indicated unless hyponatremia present (serum Na ≤125 mEq/L)
+- Fluid restriction: **not** indicated in the absence of hyponatremia. **Mild** hyponatremia (Na 126–135) needs monitoring + water restriction only; formal restriction to **1,000 mL/day plus cessation of diuretics** begins at **moderate** hyponatremia (Na **120–125 mEq/L**) — see the hyponatremia table below ([[aasld-2021-ascites-sbp-hrs]])
 - Weight monitoring: target weight loss ≤0.5 kg/day without edema; ≤1 kg/day with peripheral edema
 
 ### Diuretics (Grade 2 Ascites)

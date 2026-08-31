@@ -3,11 +3,13 @@ title: "Alpha-Gal Syndrome"
 category: disease-script
 tags: [alpha-gal-syndrome, food-allergy, mammalian-meat-allergy, ige, tick-bite, abdominal-pain, diarrhea, anaphylaxis]
 created: 2026-07-20
-updated: 2026-08-14
+updated: 2026-08-31
 sources: [aga-2023-alpha-gal-syndrome]
 ---
 
 IgE-mediated allergy to **galactose-alpha-1,3-galactose (alpha-gal)**, an oligosaccharide on the cells of all nonprimate mammals. Reactions occur **1 to several hours after** ingesting mammalian meat or mammalian-derived products (delayed because the antigen is absorbed bound to fat via chylomicrons, ~2 h to circulation, before binding GI mast-cell IgE). Sensitization follows a **tick bite** (US: Lone Star tick, *Amblyomma americanum*) or parasitic infection. An increasingly recognized **GI phenotype** presents with abdominal pain, diarrhea, [[nausea-and-vomiting|nausea, and vomiting]] **without** predominant skin, respiratory, or circulatory symptoms — and is frequently mislabeled as [[irritable-bowel-syndrome]].
+
+*Every clinical claim on this page comes from [[aga-2023-alpha-gal-syndrome|AGA 2023 Clinical Practice Update on Alpha-Gal Syndrome for the GI Clinician]] — the only ingested source covering the condition. It is a **commentary/expert review**, so its advice carries **no GRADE strength or evidence quality**; treat thresholds below as expert opinion.*
 
 ## Contents
 - [[#Assessment]]

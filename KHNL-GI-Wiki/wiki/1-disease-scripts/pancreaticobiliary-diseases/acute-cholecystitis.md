@@ -3,7 +3,7 @@ title: "Acute Cholecystitis"
 category: disease-script
 tags: [acute-cholecystitis, gallbladder, cholecystectomy, eus-gbd, percutaneous-cholecystostomy, transpapillary-drainage, lams, high-surgical-risk]
 created: 2026-07-23
-updated: 2026-08-26
+updated: 2026-08-31
 sources: [aga-2023-eus-gallbladder-drainage, asge-2024-therapeutic-eus-biliary, aga-2024-pregnancy-gi-liver, tg18-2018-cholangitis-flowchart]
 ---
 
@@ -98,7 +98,17 @@ Three routes ([[aga-2023-eus-gallbladder-drainage]]):
 | **Disadvantages** | 50%–75% morbidity; drain exchanges/reinterventions; recurrent cholecystitis up to 15.4%; dyscosmesis | Lower technical (84% vs 98%) and lowest clinical success (91% vs 97% vs EUS-GBD); pancreatitis risk; stent exchanges | Fistula closure needed if later cholecystectomy; food occlusion; **contraindicated in gallbladder perforation** |
 
 - **Comparative outcomes:** EUS-GBD vs PT-GBD (5 studies, 488 pts, incl. DRAC-1 RCT) — comparable technical/clinical success, but PT-GBD has longer stays, slower resolution, more reintervention, more pain, and more recurrent cholecystitis (20% vs 2.6%, P = .029). Network meta-analysis: recurrent cholecystitis lowest with EUS-GBD (RR 1.089 vs PT 2.02 vs ET 2.891); mortality lowest with ET-GBD (RR 1.29 vs EUS 2.62 vs PT 2.09). ([[aga-2023-eus-gallbladder-drainage]])
-- [[asge-2024-therapeutic-eus-biliary|ASGE 2024]] (conditional): in nonsurgical candidates needing gallbladder drainage, **EUS-GBD is favored over percutaneous cholecystostomy where expertise exists** (durable, fewer reinterventions).
+**[[asge-2024-therapeutic-eus-biliary|ASGE 2024]] — the newer guideline, and it moves the default.** In patients with acute cholecystitis who are **not cholecystectomy candidates**, ASGE suggests **EUS-GBD over PT-GBD** (Rec 5a) **and EUS-GBD over ET-GBD** (Rec 5b) — both **conditional, moderate quality of evidence**. Its per-route carve-outs:
+
+| Route | ASGE 2024 says prefer it when |
+|---|---|
+| **[[eus-guided-gallbladder-drainage\|EUS-GBD]]** (default) | Major papilla **cannot be accessed**; **indwelling metal stent occluding the cystic duct**; **large gallbladder stone burden** |
+| **PT-GBD** | **Gallbladder perforation**; **emphysematous cholecystitis**; **clinical instability**; **unable to tolerate more than moderate sedation**; **EUS-GBD unavailable** (no expertise/training) |
+| **ET-GBD** | **Ascites**; **malignant gallbladder infiltration**; **severe coagulopathy**; **refused rescue surgery**; **liver transplant candidates**; not a surgical candidate now but **may be later** |
+
+- ⚠ **Avoid EUS-GBD in a potential [[liver-transplantation\|liver transplant]] candidate** — stated explicitly by ASGE 2024, and net-new versus [[aga-2023-eus-gallbladder-drainage|AGA 2023]]. The cholecystoenteric fistula it creates is the reason.
+- ⚠ **Contradiction — the "may be a surgical candidate later" patient.** [[aga-2023-eus-gallbladder-drainage|AGA 2023]]'s algorithm routes this patient to **ET-GBD** first. ASGE 2024 is **internally inconsistent**: its Rec 5a general concepts list this group under **PT-GBD**, while its own Table 2 lists them under **ET-GBD**. Both guidelines agree the patient should **not** get EUS-GBD; which non-transmural route is used cannot be adjudicated from the ingested sources. **Confirm future surgical candidacy with the surgeon either way.**
+- ⚠ **Contradiction — the default route.** AGA 2023's figure sends several groups (uncontrolled ascites, ERCP needed anyway, GB >10 mm from the GI wall) to **ET-GBD first**; ASGE 2024 makes **EUS-GBD** the general first choice with ascites/coagulopathy/malignant infiltration as the ET-GBD carve-outs. **ASGE 2024 governs** (newer, same tier, and a GRADE guideline vs a CPU) — but the AGA carve-outs it does not contradict (needs ERCP for coexisting [[choledocholithiasis|CBD stones]] or [[acute-cholangitis|cholangitis]]; GB >10 mm from the enteral wall, which makes LAMS deployment unsafe) still stand as reasons to choose ET-GBD.
 
 ### Choosing the drainage route
 
@@ -129,7 +139,7 @@ Three routes ([[aga-2023-eus-gallbladder-drainage]]):
 
 ## See Also
 
-[[eus-guided-gallbladder-drainage]], [[endoscopic-ultrasound]], [[ercp]], [[acute-cholangitis]], [[choledocholithiasis]], [[gallbladder-cancer]], [[biliary-stricture]], [[jaundice]], [[ascites]], [[acute-pancreatitis]], [[liver-disease-in-pregnancy]]
+[[eus-guided-gallbladder-drainage]], [[endoscopic-ultrasound]], [[ercp]], [[acute-cholangitis]], [[choledocholithiasis]], [[gallbladder-cancer]], [[biliary-stricture]], [[jaundice]], [[ascites]], [[acute-pancreatitis]], [[liver-disease-in-pregnancy]], [[liver-transplantation]]
 
 ---
 

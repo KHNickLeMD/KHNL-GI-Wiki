@@ -3,7 +3,7 @@ title: "Acute Liver Failure"
 category: disease-script
 tags: [acute-liver-failure, alf, liver, hepatology, transplant, liver-transplant-referral]
 created: 2026-05-15
-updated: 2026-08-30
+updated: 2026-08-31
 sources: [acg-2023-alf, acg-2016-liver-disease-pregnancy, aasld-ast-2025-liver-transplant-candidate-evaluation, aasld-2011-alf]
 ---
 
@@ -49,11 +49,19 @@ sources: [acg-2023-alf, acg-2016-liver-disease-pregnancy, aasld-ast-2025-liver-t
 | **APAP-induced** | Arterial pH <7.3 after resuscitation **OR** lactate >3 mmol/L **OR** all three of: HE >grade 3 + creatinine >3.4 mg/dL + INR >6.5 | 65% | **93%** |
 | **Non-APAP** | INR >6.5 **OR** any **3 of 5**: etiology (indeterminate or [[drug-induced-liver-injury\|DILI]]) · age >40 · jaundice-to-encephalopathy interval >7 days · total bilirubin >17.4 mg/dL · INR >3.5 | 68% | **82%** |
 
-**MELD Score:** Higher sensitivity (74%), lower specificity (67%); MELD >25 = high risk of poor outcome (MELD-Na components/formula: see [[cirrhosis]])
+**MELD Score** (components/formula: see [[cirrhosis]]) — [[acg-2023-alf]] gives two different cut-offs and both matter:
+
+| Cut-off | Where it comes from | Performance |
+|---|---|---|
+| **MELD >25** | Rec 10 (conditional, low quality) — "patients meeting KCC **or** presenting with MELD >25 are at high risk of poor outcomes" | — |
+| **MELD >33 (APAP-induced)** / **MELD >32 (non-APAP)** | Table 11, study-derived thresholds | Sn 74%, Sp 67% |
+
+- Meta-analysis (23 studies, 2,153 patients): MELD thresholds across studies were **not standardized, ranging 25–37**. Pooled — KCC Sn 59% vs MELD 74%; KCC Sp 79% vs MELD 67%. KCC is more accurate for APAP-associated ALF, MELD for non-APAP.
 
 **Other criteria:**
 
-- **Clichy criteria** (France): HE **plus** factor V <20% if age <30, or factor V <30% if age >30 — sensitivity only 56% (APAP) / 50% (non-APAP); not widely used in the US
+- **Clichy criteria** (France): HE **plus** factor V <20% if age <30, or factor V <30% if age >30 — 56% (APAP) / 50% (non-APAP); not widely used in the US
+  - ⚠ *[[acg-2023-alf]] labels these two percentages **sensitivity** in Table 11 but **specificity** in the body text ("shown to have low specificity, 56%… and 50%…"). The source contradicts itself; either way the criteria perform poorly.*
 - **Escudie criteria** (mushroom poisoning only): diarrhea within 8 hr of ingestion OR prothrombin index <10% (~INR >6) at ≥4 days post-ingestion — use before HE develops
 - **Swansea criteria** ([[acute-fatty-liver-of-pregnancy|acute fatty liver of pregnancy]]): 6+ of 14 clinical/lab findings required
 
@@ -178,7 +186,11 @@ Not routine. Transjugular [[liver-biopsy|liver biopsy]] (TJLB) preferred over pe
 - Grade 3–4 HE: endotracheal intubation (consider propofol; avoid opioids and benzodiazepines)
 - Lactulose: may be used in grade 1–2 HE (discontinue in grade 3–4 and before surgery due to bowel gas distension)
 - No conclusive evidence for lactulose or [[rifaximin]] specifically in ALF (evidence extrapolated from cirrhosis)
-- Increased ICP: mannitol, 3% hypertonic saline (250–500 mL bolus), hyperventilation, CRRT; target serum Na 145–150 mmol/L
+- Increased ICP — first line: hyperosmolar therapy (mannitol, hypertonic saline), hyperventilation, CRRT
+  - **3% saline**: bolus **250–500 mL**, or continuous infusion titrated to keep serum Na **<160 mmol/L**
+  - Common practice targets serum Na **145–150 mmol/L**, but [[acg-2023-alf]] states it **found no supporting literature** for that target
+  - Avoid hyponatremia; when correcting, do not exceed **6–8 mmol/L in 24 h**
+  - Therapeutic hypothermia for refractory intracranial hypertension: heterogeneous studies, **no overall survival benefit**
 - ICP monitoring: not routine; may be considered at expert centers in grade 4 HE + transplant candidates
 
 **CRRT for hyperammonemia:**
@@ -252,9 +264,9 @@ Not routine. Transjugular [[liver-biopsy|liver biopsy]] (TJLB) preferred over pe
 - Contact poison control immediately
 - Gastric lavage within 1 hour if feasible; activated charcoal 50 g q4h (or 25 g q2h)
 - IV hydration to maintain urine output 100–200 mL/hr for 4–5 days
-- **IV silibinin dihemisuccinate** 20–50 mg/kg/day for 48–96 hr, or alternatively 5 mg/kg IV over 1 hour (conditional recommendation, very low quality); not FDA-approved in US but available for compassionate use
-- IV penicillin G if silibinin unavailable — results are **inferior** to silibinin: 1,000,000 IU/kg day 1, 1,500,000 IU/kg days 2–3
-- IV NAC as adjunct (standard APAP dosing protocol)
+- **IV silibinin dihemisuccinate** — first line, start as soon as possible (Rec 9): **20–50 mg/kg/day for 48–96 hr**, *or* **5 mg/kg IV over 1 hour then 20 mg/kg/day for 6 days or until transaminases normalize**; α-amanitin membrane-transport inhibitor + free-radical scavenger. Not FDA-approved in the US (compassionate use)
+- **IV penicillin G** — second line, only if silibinin unavailable; results **inferior** to silibinin. Continuous infusion **1,000,000 IU/kg on day 1**, then **1,500,000 IU/kg on days 2 and 3**
+- **IV NAC** as adjunct: **150 mg/kg over 15 min → 50 mg/kg over 4 hr → 100 mg/kg over 16 hr** (the mushroom-specific schedule; APAP-style dosing is also acceptable)
 - Hemodialysis, hemoperfusion, plasmapheresis: not effective
 - Use Escudie criteria for early LT evaluation (before HE develops)
 
@@ -301,7 +313,9 @@ Not routine. Transjugular [[liver-biopsy|liver biopsy]] (TJLB) preferred over pe
 
 ### Liver Transplantation
 
-**Listing priority:** Status 1A (highest priority)
+**Listing priority:** UNOS Status 1A (highest priority) — [[acg-2023-alf]] recommends Status 1A listing for ALF meeting criteria (Strong, moderate).
+
+- *Decision gap (corpus-blocked): the **operative UNOS Status 1A criteria** — the ICU/ventilator/RRT/INR components and the ≤7-day life-expectancy and ≤8-week HE-onset windows — are **not stated in any ingested source**. [[acg-2023-alf]] and [[aasld-ast-2025-liver-transplant-candidate-evaluation]] both name Status 1A without printing its criteria; the OPTN/UNOS Policy 9 allocation policy would be needed.*
 
 **Criteria for listing:** Meet KCC or MELD >25, or other evidence of poor spontaneous prognosis; individualized multidisciplinary transplant team decision
 

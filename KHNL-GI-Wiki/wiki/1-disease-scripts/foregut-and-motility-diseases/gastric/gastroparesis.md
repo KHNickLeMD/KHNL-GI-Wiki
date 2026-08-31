@@ -3,12 +3,8 @@ title: "Gastroparesis"
 category: disease-script
 tags: [gastroparesis, gastric-motility, prokinetics, g-poem, gastric-emptying, foregut]
 created: 2026-05-15
-updated: 2026-08-30
+updated: 2026-08-31
 sources: [acg-2022-gastroparesis, aga-2025-gastroparesis, surjanhata-2025-constipation-gastroparesis]
----
-
-# Gastroparesis
-
 ---
 
 ## Assessment
@@ -36,9 +32,30 @@ sources: [acg-2022-gastroparesis, aga-2025-gastroparesis, surjanhata-2025-consti
 **Gastroparesis Cardinal Symptom Index (GCSI):**
 
 - 3 subscales: nausea/vomiting, postprandial fullness/early satiety, bloating/distention
-- Total score 0–5; higher = more severe
-- GCSI ≥1-point improvement = clinically meaningful response
 - Used as primary endpoint in pharmacologic and procedural trials
+
+**Score the daily-diary version and use its anchors — this is what the newest guideline graded every therapy against** ([[aga-2025-gastroparesis|AGA 2025]] uses the **GCSI-DD**, rescaled from the original 0–5 GCSI to **0–4**):
+
+| Item score | Anchor |
+|---|---|
+| 0 | None |
+| 1 | Mild |
+| 2 | Moderate |
+| 3 | Severe |
+| 4 | Very severe |
+
+- Each symptom is rated at its **worst severity over the last 24 hours** (not a 2-week recall).
+- **Minimum important difference (MID) — the response threshold, and it is *per outcome*, not one number** (AGA 2025, from Revicki et al. rescaled to 0–4):
+
+| Outcome | MID |
+|---|---|
+| **GCSI-DD total score** | **0.58** |
+| Nausea and vomiting | **0.44** |
+| Early satiety and postprandial fullness | **0.62** |
+| Abdominal pain | **0.24** |
+
+- A treatment effect **exceeding** the MID is clinically important; **below** it, the change is trivial — this is how AGA 2025 rated certainty for every drug and device on this page.
+- **Contradiction surfaced (and how it resolves).** The frequently quoted **"≥1-point GCSI improvement = response"** is *not* a guideline-endorsed MID: in [[acg-2022-gastroparesis|ACG 2022]] it appears only as the responder definition of a single tradipitant RCT (Carlin 2021: >1-point improvement in 46.6% vs 23.5% placebo). AGA 2025 notes a later validation study did propose a 1-point change on the 0–4 scale, but **declined to use it** because nearly all prior trials — including the tradipitant trials — did not use it as a primary endpoint. **Use the 0.58 total-score MID.**
 
 **Severity correlates:**
 

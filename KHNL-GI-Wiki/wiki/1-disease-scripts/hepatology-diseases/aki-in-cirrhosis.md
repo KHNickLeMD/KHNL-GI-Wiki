@@ -3,7 +3,7 @@ title: "AKI in Cirrhosis (including HRS-AKI)"
 category: disease-script
 tags: [aki, cirrhosis, hrs, hepatorenal-syndrome, albumin, terlipressin, liver]
 created: 2026-05-15
-updated: 2026-08-30
+updated: 2026-08-31
 sources: [aga-2022-aki-cirrhosis, aga-2024-vasoactive-albumin-cirrhosis, aasld-2024-aclf]
 ---
 
@@ -36,14 +36,18 @@ AKI is diagnosed when **any one** of the following is met:
 
 ### Severity Assessment (ICA-AKI Staging)
 
+Staging as printed by [[aga-2022-aki-cirrhosis]] (Figure 1 legend). Note that Stage 1 is bounded by a **multiple of baseline**, while the 1a/1b split turns on an **absolute** creatinine value — the two are different kinds of threshold and both are needed to stage:
+
 | Stage | Serum Creatinine Threshold |
 |---|---|
-| Stage 1a | SCr rise ≥0.3 mg/dL but remains <1.5× baseline |
-| Stage 1b | SCr rise ≥0.3 mg/dL AND SCr >1.5 mg/dL |
-| Stage 2 | SCr 2–3× baseline |
-| Stage 3 | SCr >3× baseline |
+| Stage 1 | SCr rise ≥0.3 mg/dL but to **<2× baseline** |
+| &nbsp;&nbsp;• Stage 1a | the above with SCr **≤1.5 mg/dL** |
+| &nbsp;&nbsp;• Stage 1b | the above with SCr **>1.5 mg/dL** |
+| Stage 2 | SCr **2–3× baseline** |
+| Stage 3 | SCr **>3× baseline** |
 
-- Stages 2–3 (or Stage 1b) persisting despite risk-factor management for 2 days warrant vasoconstrictor therapy if HRS-AKI criteria are met.
+- Stages 2–3 (or Stage 1b) persisting despite risk-factor management for 2 days warrant vasoconstrictor therapy if HRS-AKI criteria are met. In **Stage 1** AKI (rise >0.3 mg/dL but <2× baseline) vasoconstrictors are **not currently indicated**.
+- **Response definitions:** complete response = SCr returns to **<0.3 mg/dL above baseline**; partial response = SCr falls but stays **>0.3 mg/dL above baseline**.
 - Vasoconstrictor therapy should be started early — higher pre-treatment SCr is associated with treatment failure; every 1 mg/dL reduction in SCr is associated with a 27% relative risk reduction in mortality.
 
 ### Classification / Typing
@@ -73,7 +77,7 @@ All of the following must be present:
 
 1. Cirrhosis with [[ascites]]
 2. AKI by KDIGO criteria (SCr ≥0.3 mg/dL in 48h OR ≥1.5× baseline in 7 days)
-3. No response to 2-day albumin volume challenge (1 g/kg/d, max 100 g/d) after diuretic withdrawal
+3. No response to 2-day albumin volume challenge — **20%–25% albumin, 1 g/kg/d** (max 100 g/d) — after diuretic withdrawal
 4. Absence of shock
 5. No current or recent nephrotoxic drug use (NSAIDs, contrast, aminoglycosides, ACEi/ARB)
 6. No markers of structural kidney injury:
@@ -136,7 +140,7 @@ All of the following must be present:
 
 ### Volume Challenge (Diagnostic and Therapeutic)
 
-- Albumin 1 g/kg/d (max 100 g/d) for 2 days after diuretic withdrawal
+- 20%–25% albumin 1 g/kg/d (max 100 g/d) for 2 days after diuretic withdrawal
 - Response (SCr returns to within 0.3 mg/dL of baseline) = pre-renal/hypovolemic AKI
 - Non-response = supports HRS-AKI if other criteria are met
 
@@ -169,7 +173,7 @@ All of the following must be present:
 
 - Day 1: **1 g/kg IV** (max 100 g)
 - Day 2 onward: **20–40 g/day IV**
-- Continue with vasoconstrictors until SCr returns to within ≤0.3 mg/dL of baseline for 2 consecutive days, or for a maximum of **14 days total**
+- **Stop point (BPA 6):** continue albumin + vasoconstrictor until **24 h *after*** SCr has returned to within ≤0.3 mg/dL of baseline for 2 consecutive days, **or** for a total of **14 days** of therapy — whichever comes first
 - Monitor closely for fluid overload and pulmonary edema
 
 **Vasoconstrictors (choose one):**

@@ -3,7 +3,7 @@ title: "Acute Cholangitis"
 category: disease-script
 tags: [cholangitis, biliary-infection, tokyo-guidelines, severity-grading, biliary-drainage, ercp, choledocholithiasis, sepsis]
 created: 2026-08-25
-updated: 2026-08-30
+updated: 2026-08-31
 sources: [tg18-2018-cholangitis-flowchart, asge-2021-cholangitis, jagtap-2026-urgent-vs-early-ercp-cholangitis, aloysius-2026-ercp-timing-septic-shock-cholangitis, asge-2019-choledocholithiasis]
 ---
 
@@ -130,7 +130,7 @@ Bacterial infection of an obstructed biliary tree. Two decisions drive the whole
 - **The 48-hour line is not a biological threshold.** ASGE chose it because it "is the cut-point in the preponderance of literature on the topic and addresses the workforce and financial concerns of weekend procedures." ([[asge-2021-cholangitis]])
 - **Supporting data for ≤48 h:** in 4,570 cholangitis admissions, ERCP within 48 h reduced inpatient mortality (OR 0.5), 30-day mortality (OR 0.5, 95% CI 0.3–0.7) and 30-day readmission (OR 0.6, 95% CI 0.5–0.7) vs >48 h — **significant in both mild-to-moderate and severe** disease. Delay **>72 h** raised a composite of death/organ failure/ICU admission (OR 5.5, P=.004). ([[asge-2021-cholangitis]])
 - **ASGE does *not* recommend <24 h for Grade III.** Its own reading of the evidence: "ERCP in <24 hours or 24 to 48 hours versus >48 hours appears to shorten the length of hospitalization but **does not impact inpatient or 30-day mortality, organ failure, or other core clinical outcomes.**" The one carve-out is narrower than "severe": **in septic shock *not responding to fluid resuscitation*, ERCP <24 h "may be considered"** — a suggestion, not a recommendation, and conditioned on refractoriness rather than on Tokyo grade. ([[asge-2021-cholangitis]])
-- **Mild-to-moderate (Grade I–II): do not reflexively rush to <24 h.** Urgent (<24 h) drainage is **not superior** to early (24–48 h) — same 30-day mortality (3.95% vs 6.58%) and organ failure — and **roughly doubles post-ERCP adverse events** (17.1% vs 9.2%; RR 2.03), mainly **haemorrhage** (10.5% vs 3.3%), from sphincterotomy on an oedematous papilla in an under-resuscitated septic patient. **Resuscitate, then drain within 24–48 h.** ([[jagtap-2026-urgent-vs-early-ercp-cholangitis]])
+- **Mild-to-moderate (Grade I–II): do not reflexively rush to <24 h.** Urgent (<24 h) drainage is **not superior** to early (24–48 h): 30-day mortality **3.95% vs 6.58%** (HR 0.70, 95% CI 0.25–1.93, p=0.47), in-hospital mortality 1.97% vs 3.28%, day-30 organ failure 11.8% vs 17.1% — none significant. Post-ERCP adverse events were **more frequent with urgent ERCP: 17.1% vs 9.2%, RR 2.03 (95% CI 1.02–4.07)**, mainly **haemorrhage** (10.5% vs 3.3%), from sphincterotomy on an oedematous papilla in an under-resuscitated septic patient. ⚠ **Read the AE result with its caveat:** RR 2.03 is the **unadjusted** analysis (nominal p=0.042) and **did not retain significance after the trial's own Holm-Bonferroni correction** across secondary outcomes. **Resuscitate, then drain within 24–48 h.** ([[jagtap-2026-urgent-vs-early-ercp-cholangitis]])
 - **Malignant biliary obstruction — not timing — is the dominant predictor of 30-day mortality** (HR ~5). ([[jagtap-2026-urgent-vs-early-ercp-cholangitis]])
 - *Under question in septic shock:* in Grade III cholangitis with septic shock, ERCP **<24 h of vasopressor initiation** gave **no survival advantage** over 24–48 h (30-d mortality HR 1.07, 95% CI 0.81–1.42) and looked worse than 48–72 h (HR 1.47, 1.00–2.16) — likely confounded by the sickest being drained first. ⚠ **DDW 2026 abstract, retrospective** — below guideline and RCT evidence; hypothesis-generating, does **not** change the emergent-drainage recommendation. ([[aloysius-2026-ercp-timing-septic-shock-cholangitis]])
 
@@ -167,7 +167,7 @@ flowchart TD
 - **Grade I–II:** TG18 permits **single-stage** endoscopic sphincterotomy (EST) + choledocholithotomy **together with** biliary drainage — a change from TG13, which made it elective in moderate disease.
   - ⚠ **The guideline flags its own evidence as insufficient:** in the one RCT, post-ERCP complications were significantly **higher** with single-stage than two-stage lithotomy (**6/35 = 17.1% vs 0/33 = 0%, p=0.025**). "Caution is required."
 - **Grade II–III:** treat the underlying etiology **after the general condition has improved**, not during resuscitation.
-- Stratification of stone probability, difficult-stone technique, and gallstone-pancreatitis rules: see [[choledocholithiasis]] and [[ercp]].
+- Stratification of stone probability, difficult-stone technique, and gallstone-pancreatitis rules ([[asge-2019-choledocholithiasis]]) live on [[choledocholithiasis]] and [[ercp]] — one home, not repeated here. Note that **clinical ascending cholangitis is itself an ASGE high-risk criterion**, so a cholangitis patient goes straight to ERCP without EUS/MRCP confirmation.
 
 ### Transfer
 

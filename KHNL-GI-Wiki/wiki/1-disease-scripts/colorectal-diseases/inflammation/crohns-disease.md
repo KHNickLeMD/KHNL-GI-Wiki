@@ -3,7 +3,7 @@ title: "Crohn's Disease"
 category: disease-script
 tags: [crohns, ibd, biologics, ileitis, colitis, perianal-fistula, stricture, fistula, anti-tnf]
 created: 2026-05-07
-updated: 2026-08-27
+updated: 2026-08-31
 sources: [acg-2025-crohns, aga-2025-crohns-pharm, aga-2021-crohns-pharm, aga-2023-biomarkers-cd, acg-2018-crohns, asge-2015-scenic-ibd-dysplasia, asge-2015-ibd, aga-2026-inpatient-ibd, aga-2026-therapeutic-endoscopy-ibd, aga-2024-intestinal-ultrasound, aga-2024-diet-nutrition-ibd, aga-2024-ibd-malignancy, aga-2024-pregnancy-gi-liver]
 ---
 
@@ -346,7 +346,20 @@ No single pathognomonic test. Diagnosis = integration of:
 
 - **Endoscopic balloon dilation** for symptomatic **benign** CD strictures (small bowel, colon, or ileocolonic anastomosis) **≤4 cm** in length, when feasible — durable clinical response ~58%, deferring surgery ([[asge-2015-ibd]]).
 - Biopsy strictures to exclude malignancy.
-- **Therapeutic-endoscopy details ([[aga-2026-therapeutic-endoscopy-ibd|AGA 2026 CPU]]):** EBD is first-line (technical/clinical success 74%–100%); best for **short (≤4–5 cm), simple** strictures without deep ulcers or fistula. Target **18–20 mm** with **wire-guided CRE balloons**; reassess after each dilation (perforation possible even with smaller balloons); **no benefit from intralesional steroids**. Stricture **≤5 cm** predicts surgery-free survival (risk ↑ ~8% per added cm). Alternatives: endoscopic stricturotomy, FCSEMS (limited by migration). **Hold [[anticoagulation-gi-bleeding|antithrombotics]], systemic steroids, and GLP-1 RAs** before; **[[antibiotic-prophylaxis-endoscopy|prophylactic antibiotics]] not required** before EBD. **Fistulas:** optimize medical therapy, pick short/simple tracts, **prioritize drainage over closure**; visible dysplasia → [[endoscopic-mucosal-resection|EMR]]/[[endoscopic-submucosal-dissection|ESD]] in expert hands.
+**Who gets endoscopy vs surgery — the actual selection rule ([[aga-2026-therapeutic-endoscopy-ibd|AGA 2026 CPU]]):** the decision turns on **length, number, and a count of four named risk factors** — not on symptoms alone.
+
+| | Suitable for endoscopic therapy | Consider surgical intervention |
+|---|---|---|
+| **Stricture length** | **<4–5 cm** | **>4–5 cm** |
+| **Number of strictures** | Any number, if technically reachable | **>4** strictures |
+| **Risk-factor count** | **<3** of the four below | **≥3** of the four below |
+
+- **The four risk factors:** fistulizing disease · prestenotic dilation **>5 cm** · high CRP · prior **anti-TNF** exposure.
+- **Absolute contraindications to EBD:** associated **deep ulcers** or a **fistula** at the stricture (dilation may worsen the fistula).
+- **Factors predicting EBD failure** (not contraindications): length **>4–5 cm**, high BMI, **proximal small-bowel** location, significant prestenotic dilation (**>5 cm** in small bowel), and **primary** (de novo, non-anastomotic) strictures.
+- **Durability:** symptomatic recurrence in ~**50%**; **two-thirds** eventually need repeat dilation or surgery over 20–144 months of follow-up.
+
+- **Technique details ([[aga-2026-therapeutic-endoscopy-ibd|AGA 2026 CPU]]):** EBD is first-line (technical/clinical success 74%–100%). Target **18–20 mm** with **wire-guided CRE balloons**, graded dilation with partial/complete deflation between expansions; **retrograde dilation preferred** when the scope can pass the stricture. Reassess after each dilation — perforation can occur even with smaller balloons, and no evidence links balloon size to perforation risk; **no benefit from intralesional steroids**. Stricture **≤5 cm** predicts surgery-free survival (risk ↑ ~**8% per added cm**). EBD works anywhere in the GI tract including anastomotic and **ostomy-site** strictures (tissue ingrowth, stoma retraction, Kock pouch). Alternatives: endoscopic stricturotomy, FCSEMS (limited by migration). **Hold [[anticoagulation-gi-bleeding|antithrombotics]], systemic steroids, and GLP-1 RAs** before; **[[antibiotic-prophylaxis-endoscopy|prophylactic antibiotics]] not required** before EBD. **Fistulas:** optimize medical therapy, pick short/simple tracts, **prioritize drainage over closure**; endoscopic closure of *disease-associated* CD fistulas is usually ineffective, but **anastomotic-leak–associated** fistulas may respond. Visible dysplasia → [[endoscopic-mucosal-resection|EMR]]/[[endoscopic-submucosal-dissection|ESD]] in expert hands (criteria on [[ulcerative-colitis]]).
 
 ---
 

@@ -3,7 +3,7 @@ title: "Hepatocellular Carcinoma"
 category: disease-script
 tags: [hcc, hepatocellular, liver, cancer, hpb, surveillance, cirrhosis, hbv, adjuvant, immunotherapy, liver-transplant, milan-criteria, afp, downstaging, mtor-inhibitor, sirolimus, everolimus, bclc, sorafenib, lenvatinib, atezolizumab, bevacizumab, tace, tare, ablation, resection, li-rads, locoregional]
 created: 2026-05-16
-updated: 2026-08-30
+updated: 2026-08-31
 sources: [aasld-2023-hcc, aasld-2025-hcc-critical-update, aasld-ast-2025-liver-transplant-candidate-evaluation, aasld-ast-2025-liver-transplant-graft-complications, aga-2022-hcc-systemic, nccn-2026-hcc, aga-2026-hcc-surveillance, aasld-idsa-2025-chb-treatment]
 ---
 
@@ -324,7 +324,7 @@ Post-LT patients: NEVER use ICI-based therapy (graft loss/death risk); use soraf
 **Standard eligibility (GS 33, [[aasld-ast-2025-liver-transplant-candidate-evaluation]]):**
 
 - LT is the treatment of choice for transplant-eligible patients with early-stage HCC with CSPH and/or decompensated cirrhosis (**Strong, Level 2**)
-- **Milan criteria** (single lesion ≤5 cm OR ≤3 lesions each ≤3 cm; no macrovascular invasion; no extrahepatic spread) — standard for listing (**Strong, Level 2**)
+- **Milan criteria** (single lesion ≤5 cm OR ≤3 lesions each ≤3 cm; no macrovascular invasion; no extrahepatic spread) — the guide for listing and the **goal of downstaging therapy** (**Strong, Level 2**). Transplant **beyond** Milan is reserved for patients demonstrating **favorable tumor biology** — such patients may be transplanted through their natural MELD or via LDLT.
 - Post-LT survival: median 10 years; ~10% recurrence incidence vs. 50–60% with resection/ablation
 
 **AFP eligibility thresholds (per [[aasld-ast-2025-liver-transplant-candidate-evaluation]]):**
@@ -372,6 +372,8 @@ Post-LT patients: NEVER use ICI-based therapy (graft loss/death risk); use soraf
 
 - Serial abdominal staging every 3 months while awaiting LT; CT chest every 6–12 months
 - 6-month observation period before MELD exception (exception: T1/T2 HCC recurrence within 6–60 months post-curative therapy → no 6-month wait required, NLRB review)
+- **What the exception is worth:** since May 2019 the granted exception score is **MMaT-3** — 3 points below the *median MELD at transplant* for the donor hospital's area of distribution (concentric-circle allocation), not a fixed 22/28 escalator. [[aasld-2023-hcc]]
+- **Baseline AFP ≥1000 ng/mL blocks the exception** until it falls **<500 ng/mL** — the same threshold that gates transplantation itself.
 - Bridging LRT (TACE, RFA, SBRT, TARE): maintain within LT criteria and assess tumor biology; no one modality recommended over another; systemic therapy bridging does not preclude eligibility but is not routinely recommended
 - ICIs prior to LT: discontinue at least **3 months** before LT
 

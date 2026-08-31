@@ -3,7 +3,7 @@ title: "Primary Sclerosing Cholangitis"
 category: disease-script
 tags: [psc, cholestasis, biliary, ibd, cholangiocarcinoma, liver-transplant, dominant-stricture, igg4, udca, mrcp, fish, liver-stiffness]
 created: 2026-05-19
-updated: 2026-08-30
+updated: 2026-08-31
 sources: [acg-2015-psc, acg-2017-liver-chemistries, aasld-2022-psc]
 ---
 
@@ -109,8 +109,8 @@ PSC is a chronic, cholestatic liver disease likely of autoimmune origin characte
 
 **Stricture Terminology** ([[aasld-2022-psc]]):
 
-- **Dominant stricture:** CBD ≤1.5 mm or hepatic duct ≤1 mm on ERCP; present in up to 50% at diagnosis, ~40% develop during disease
-- **High-grade stricture:** >75% lumen reduction in CBD or hepatic ducts on MRI/MRCP
+- **Dominant stricture:** a stricture **on ERCP** with diameter **≤1.5 mm in the CBD** or **≤1 mm in the hepatic duct**; present in up to half of patients at diagnosis, and up to **45%** develop one during the disease course. **Do not use this term in MRI reports** — MRI/MRCP lacks the spatial resolution and ERCP's high-pressure injection makes the two non-equivalent
+- **High-grade stricture:** the MRI/MRCP counterpart — **>75% lumen reduction** in CBD or hepatic ducts
 - **Relevant stricture:** Any stricture of CBD or hepatic ducts with obstructive cholestasis and/or bacterial cholangitis signs/symptoms
 
 ---
@@ -123,7 +123,7 @@ PSC is a chronic, cholestatic liver disease likely of autoimmune origin characte
 
 **Ursodeoxycholic acid (UDCA):**
 
-- **High-dose UDCA ≥28 mg/kg/d — strongly contraindicated** (ACG Strong/High [[acg-2015-psc]]): RCT terminated early for futility; high-dose UDCA associated with increased serious adverse events (liver transplant, varices, death) and increased colorectal neoplasia in PSC-UC ([[aasld-2022-psc]])
+- **High-dose UDCA — do not use.** The two guidelines state the cutoff slightly differently and the newer one governs: [[aasld-2022-psc]] says doses **≥28 mg/kg/day** should be avoided; [[acg-2015-psc]] Rec 6 says **">28 mg/kg/day** should not be used" (*strong recommendation, high quality of evidence*). Basis: the 150-patient controlled trial of **28–30 mg/kg/day** vs placebo was terminated early for futility, with post-hoc excess serious adverse events (LT, varices, death) and — in PSC + [[ulcerative-colitis\|UC]] — increased colorectal neoplasia
 - **UDCA 13–23 mg/kg/d:** Can be considered for patients not eligible for or not interested in clinical trials with persistently elevated ALP/GGT (GS 12); observe 6 months before initiating to confirm persistent elevation; continue only if meaningful ALP/GGT reduction or normalization (or symptom improvement) within 12 months of treatment; no data to support lower vs. intermediate dose over the other
 - UDCA withdrawal has been associated with increases in fatigue, pruritus, liver biochemistries, and Mayo PSC Risk Score
 

@@ -3,8 +3,8 @@ title: "Postinfectious Irritable Bowel Syndrome (PI-IBS)"
 category: disease-script
 tags: [ibs, postinfectious-ibs, travelers-diarrhea, gastroenteritis, functional-gi, rome-iv, giardia, campylobacter]
 created: 2026-05-19
-updated: 2026-08-27
-sources: [acg-2016-acute-diarrhea, acg-2020-ibs]
+updated: 2026-08-31
+sources: [acg-2016-acute-diarrhea, acg-2020-ibs, rome-v-2026-dgbi]
 ---
 
 Postinfectious [[irritable-bowel-syndrome|IBS]] (PI-IBS) is a chronic functional sequela of [[acute-diarrhea|acute infectious gastroenteritis]], including traveler's diarrhea (TD). It is a paradigm shift in IBS pathogenesis — an **external event (enteric infection) produces prolonged and permanent changes in GI function that are *not* directly mediated by persistence of the infectious agent.** [[acg-2016-acute-diarrhea]]
@@ -13,7 +13,7 @@ Postinfectious [[irritable-bowel-syndrome|IBS]] (PI-IBS) is a chronic functional
 
 ### Establishing the Diagnosis
 
-- Apply **conventional [[irritable-bowel-syndrome|IBS]] criteria** in a patient who has been sick with gastroenteritis or TD — [[acg-2016-acute-diarrhea]] frames the diagnosis around Rome III (the version current at publication); the Rome IV criteria in force now live on [[irritable-bowel-syndrome]].
+- Apply **conventional [[irritable-bowel-syndrome|IBS]] criteria** in a patient who has been sick with gastroenteritis or TD — [[acg-2016-acute-diarrhea]] frames the diagnosis around Rome III (the version current at publication). The **current criteria are [[rome-v-2026-dgbi|Rome V]] (2026)**, which lowered the pain threshold to **≥3 days/month in the last 3 months** and re-admitted "abdominal discomfort" — a looser bar than Rome IV's ≥1 day/week, so more post-infection patients now qualify. Full criteria and the Rome IV→V diff live on [[irritable-bowel-syndrome]].
 - **No commercially available serologic or other diagnostic test confirms PI-IBS** — the diagnosis rests on the temporal link plus the IBS criteria. [[acg-2016-acute-diarrhea]]
 - IBS can arise **within months** of the index infection. [[acg-2020-ibs]]
 
@@ -65,3 +65,4 @@ Postinfectious [[irritable-bowel-syndrome|IBS]] (PI-IBS) is a chronic functional
 
 1. [[acg-2016-acute-diarrhea|ACG 2016: Diagnosis, Treatment, and Prevention of Acute Diarrheal Infections in Adults]]
 2. [[acg-2020-ibs|ACG 2020 Clinical Guideline: Management of Irritable Bowel Syndrome]]
+3. [[rome-v-2026-dgbi|Disorders of Gut–Brain Interaction and the Rome V Process]]

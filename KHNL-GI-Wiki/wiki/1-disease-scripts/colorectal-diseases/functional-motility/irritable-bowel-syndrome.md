@@ -3,7 +3,7 @@ title: "Irritable Bowel Syndrome"
 category: disease-script
 tags: [ibs, dgbi, functional, colorectal, motility, rome-iv, rome-v, fodmap, rifaximin, linaclotide, plecanatide, tca]
 created: 2026-05-16
-updated: 2026-08-30
+updated: 2026-08-31
 sources: [acg-2020-ibs, rome-v-2026-dgbi, acg-2020-sibo, aga-2022-ibs-c, aga-2022-ibs-d]
 ---
 
@@ -20,12 +20,12 @@ IBS is a [[disorders-of-gut-brain-interaction|disorder of gut–brain interactio
 3. Change in stool form
 Symptom onset ≥6 months prior to diagnosis.
 
-**Rome V (2026) modifications** ([[rome-v-2026-dgbi]]):
+**Rome V (2026) modifications** ([[rome-v-2026-dgbi]]) — each change *widens* the diagnosis except the last, which *narrows* it:
 
-- Pain frequency lowered to ≥3 days/month
-- "Discomfort" re-added
-- Non-continuous pain allowed
-- 8-week Rome Clinical Criteria threshold for practice use
+- **Pain frequency lowered** to **≥3 days per month in the last 3 months** (Rome IV: ≥1 day/week in the previous 3 months). Rationale: the Rome IV threshold cut measured IBS prevalence from ~**10% to 4%**, defining a population more severe than what is seen in practice.
+- **"Abdominal discomfort" re-added** to the criteria after removal in Rome IV — patients in some countries experience discomfort without pain.
+- **Abdominal pain and discomfort must NOT be continuous.** This is a **new exclusion**, not a relaxation: continuous pain points to **centrally mediated abdominal pain syndrome (Rome V D1)**, not IBS. A patient with unremitting daily pain is not diagnosed with IBS on these criteria.
+- **6-month duration is no longer required** for clinical (as opposed to research) use — Rome V suggests an **8-week** duration to allow exclusion of other diagnoses, with exceptions when the clinician is satisfied that evaluation has excluded other disorders.
 
 ### Severity Assessment
 

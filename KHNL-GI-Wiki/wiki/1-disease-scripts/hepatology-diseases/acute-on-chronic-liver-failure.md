@@ -3,8 +3,28 @@ title: "Acute-on-Chronic Liver Failure (ACLF)"
 category: disease-script
 tags: [ACLF, acute-on-chronic-liver-failure, cirrhosis, organ-failure, ICU, NACSELD, EASL-CLIF, terlipressin, HRS, hepatic-encephalopathy, infection, nutrition, liver-transplantation, palliative-care]
 created: 2026-05-28
-updated: 2026-08-30
+updated: 2026-08-31
 sources: [aasld-2024-aclf]
+---
+
+## Contents
+- [[#Assessment]]
+  - [[#Establishing the Diagnosis]]
+  - [[#Severity Assessment]]
+- [[#Differential Diagnosis]]
+- [[#Diagnostics]]
+- [[#Therapeutics]]
+  - [[#General ICU Principles]]
+  - [[#Brain Failure (Hepatic Encephalopathy)]]
+  - [[#Cardiovascular Failure]]
+  - [[#Respiratory Failure]]
+  - [[#Kidney Failure (HRS-AKI)]]
+  - [[#Infection Management]]
+  - [[#Coagulopathy]]
+  - [[#Nutrition]]
+  - [[#Liver Transplantation in ACLF]]
+  - [[#Palliative Care]]
+
 ---
 
 ## Assessment
@@ -24,7 +44,7 @@ ACLF is a syndrome in patients with chronic liver disease (CLD) characterized by
 | Definition | Applicable stage | Organ failure criteria |
 |---|---|---|
 | **NACSELD** (North America) | Advanced/preterminal | ≥2 extrahepatic OFs: cardiovascular (shock), renal (RRT), respiratory (mechanical vent), brain ([[hepatic-encephalopathy\|HE]] Grade 3–4) |
-| **EASL-CLIF** (European) | Earlier onset; grades ACLF-1, -2, -3 | Liver (Bi ≥12 + INR ≥1.5 or coagulopathy), kidney (Cr ≥2 or RRT), brain (HE 3–4), respiratory (PaO₂/FiO₂ ≤200), coagulation (INR ≥2.5), cardiovascular (vasopressors) |
+| **EASL-CLIF** (European) | Earlier onset; grades ACLF-1, -2, -3 | Six organ systems, each with its own cut-off (CLIF-C ACLF, Table 1): **liver** total bilirubin ≥12 mg/dL; **kidney** sCr ≥2 mg/dL or RRT; **brain** [[hepatic-encephalopathy\|HE]] grade 3–4; **respiratory** PaO₂/FiO₂ ≤200 or SpO₂/FiO₂ ≤214; **coagulation** INR ≥2.5; **cardiovascular** use of vasopressors |
 | **APASL** (Asia-Pacific) | Early; includes non-cirrhotic CLD | Acute hepatic insult + liver failure (Bi ≥5, INR ≥1.5) + coagulopathy + clinical features ≤4 weeks in previously diagnosed or undiagnosed CLD; high sensitivity, lower specificity |
 
 **EASL-CLIF grade — what the grades mean (drives the terlipressin decision, GS 25):**
@@ -41,18 +61,20 @@ ACLF is a syndrome in patients with chronic liver disease (CLD) characterized by
 
 **ACLF-specific prognostic scores outperform MELD/MELD-Na for short-term mortality (GS 2):**
 
-| Score | Key variables | AUC (28-day mortality) |
-|---|---|---|
-| NACSELD-ACLF | MELD + OFs (CV, renal, respiratory, brain) + age + WBC + albumin | ~0.85 |
-| CLIF-C ACLF | Hepatic + extrahepatic OFs + age + WBC | 0.76 (28-day) |
-| AARC | Bi + Cr + INR + lactate + HE grade | 0.78–0.85 |
-| MELD-LA (MELD + lactate) | MELD + serum lactate | 0.81 |
+*Read the discrimination figures with their outcome — the scores were not all validated against the same endpoint (Table 2).*
 
-**Serial scoring (GS 3):** CLIF-C ACLF at Days 3–7 is an independent predictor of mortality regardless of initial grade. Improvement by Day 3 predicts survival; failure to improve at 90-day mortality: 40% (improved by Day 3) vs. 79% (no improvement).
+| Score | Key variables | Outcome validated against | Discrimination |
+|---|---|---|---|
+| NACSELD-ACLF | MELD + OFs (CV, renal, respiratory, brain) + age + WBC + albumin | 30-day survival | AUC 0.80 (training), 0.85 (validation) |
+| CLIF-C ACLF | Hepatic + extrahepatic OFs + age + WBC | 28-day mortality | C index 0.76 (derivation), 0.744 (validation) — 0.73 at 90 d, 0.71 at 1 y |
+| AARC | Bi + Cr + INR + lactate + HE grade | 28-day mortality | AUC 0.80 (derivation), 0.78 (validation) |
+| MELD-LA (MELD + lactate) | MELD + serum lactate | In-hospital mortality | C index 0.81 (derivation), 0.85 / 0.82 (validation cohorts) |
 
-**Futility threshold:** CLIF-C ACLF score >70 or lactate >9 mmol/L at admission or Day 3 → ~90% 90-day mortality. Goals-of-care discussion warranted. Among patients with 4+ organ failures at Days 3–7: 28-day mortality 90–100%.
+**Serial scoring (GS 3):** CLIF-C ACLF at Days 3–7 is an independent predictor of mortality regardless of initial grade. **In ACLF-3 specifically**, 90-day mortality was **40% if the patient improved by Day 3 vs 79% if not** — the qualifying population matters; the figures are not a general ACLF statistic.
 
-**28-day mortality by EASL-CLIF grade:** ACLF-1: ~18%, ACLF-2: ~37%, ACLF-3: ~76%
+**Futility threshold:** CLIF-C ACLF score >70 (range 0–100) at admission or Day 3 → ~90% 90-day mortality; lactate >9 mmol/L is likewise an absolute-contraindication-level pre-LT factor. Goals-of-care discussion warranted. Among patients with **≥4 organ failures at Days 3–7 after an ACLF-3 diagnosis** (CANONIC): **28-day mortality 90%, 90-day mortality 100%** (100% at 90 days once CLIF-C ACLF >64).
+
+**30-day mortality by EASL-CLIF grade** (CLIF-SOFA validation cohort): no ACLF **3%**, ACLF-1 **10%**, ACLF-2 **37%**, ACLF-3 **76%**.
 
 ---
 

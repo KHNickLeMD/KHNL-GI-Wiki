@@ -3,7 +3,7 @@ title: "Eosinophilic Esophagitis"
 category: disease-script
 tags: [eoe, esophageal, dysphagia, food-impaction, eosinophil, atopic, biologic, dupilumab]
 created: 2026-05-07
-updated: 2026-08-28
+updated: 2026-08-31
 sources: [acg-2025-eoe, aga-2020-eoe, acg-2013-eoe, aga-2024-esophageal-immunity-infection, asge-2011-foreign-body-ingestion]
 ---
 
@@ -39,8 +39,10 @@ Chronic, immune/antigen-mediated esophageal disease. Characterized by esophageal
 **Diagnostic criteria (all 3 required):**
 
 1. Symptoms of esophageal dysfunction
-2. ≥15 eos/hpf (≥60 eos/mm²) on esophageal biopsy
+2. **≥15 eos/hpf** in at least 1 hpf on esophageal biopsy
 3. Exclusion of other causes of esophageal eosinophilia
+
+- **The hpf threshold is the operative one; the density equivalent is not yet the standard.** Counts vary with microscope high-power-field size, so reporting **eosinophil density** would compare better across labs — in which case the threshold is **~60 eos/mm²** — but [[acg-2025-eoe|ACG 2025]] states this change "has not currently been made in practice." Diagnose on **15 eos/hpf**; treat 60 eos/mm² as the equivalent, not a second criterion.
 
 **Typical symptoms by age:**
 

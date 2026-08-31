@@ -3,7 +3,7 @@ title: "Bariatric Surgery"
 category: advanced-procedure
 tags: [obesity, bariatric, weight-management, sleeve-gastrectomy, gastric-bypass, masld, gerd, iron-deficiency-anemia]
 created: 2026-06-04
-updated: 2026-08-28
+updated: 2026-08-31
 sources: [aga-2021-intragastric-balloons, aasld-2023-nafld, asge-2024-gerd, acg-2021-gerd, aga-2024-ida-management, aga-2022-obesity-pharm]
 ---
 
@@ -86,7 +86,7 @@ Per [[aga-2024-ida-management|AGA 2024]] (Best Practice Advice 7, *unrated*):
 
 1. [[aga-2021-intragastric-balloons|AGA Clinical Practice Guidelines on Intragastric Balloons in the Management of Obesity (2021)]]
 2. [[aasld-2023-nafld|AASLD Practice Guidance on the Clinical Assessment and Management of Nonalcoholic Fatty Liver Disease (2023)]]
-3. [[asge-2024-gerd|ASGE 2024: Diagnosis and Management of GERD]]
+3. [[asge-2024-gerd|ASGE 2025: Diagnosis and Management of GERD]]
 4. [[acg-2021-gerd|ACG 2021 Clinical Guideline: Diagnosis and Management of GERD]]
 5. [[aga-2024-ida-management|AGA Clinical Practice Update on Management of Iron Deficiency Anemia: Expert Review]]
 6. [[aga-2022-obesity-pharm|AGA Clinical Practice Guideline: Pharmacological Interventions for Adults with Obesity (2022)]]

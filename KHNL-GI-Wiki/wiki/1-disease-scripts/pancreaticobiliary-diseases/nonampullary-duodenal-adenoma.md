@@ -3,13 +3,15 @@ title: "Nonampullary Duodenal Adenoma"
 category: disease-script
 tags: [duodenal-adenoma, nonampullary-adenoma, endoscopic-mucosal-resection, cold-snare, familial-adenomatous-polyposis, spiegelman, surveillance, gi-bleeding, perforation]
 created: 2026-07-21
-updated: 2026-08-26
+updated: 2026-08-31
 sources: [aga-2025-nonampullary-duodenal, asge-2015-ampullary-duodenal-adenomas]
 ---
 
 # Nonampullary Duodenal Adenoma
 
 **Nonampullary duodenal adenomas (DAs)** are premalignant epithelial polyps of the duodenum that do **not** involve the major papilla (contrast [[ampullary-adenoma|ampullary adenoma]]). Nonampullary duodenal polyps are found in up to **5% of upper endoscopies** — mostly incidental in asymptomatic patients — and **adenomas make up 10%–20%** of them. DAs occur **sporadically** (up to 0.5% of patients) or with a polyposis syndrome ([[familial-adenomatous-polyposis|FAP]], [[mutyh-associated-polyposis|*MUTYH*-associated polyposis]]). Most contain only low-grade dysplasia, but **up to 20% progress to high-grade dysplasia (HGD) and ~5% to cancer**, so endoscopic resection is generally recommended.
+
+*Governing source: [[aga-2025-nonampullary-duodenal|AGA 2025 Clinical Practice Update on Nonampullary Duodenal Lesions]] — the numbered **BPA** statements throughout this page are its Best Practice Advice statements and, as a CPU, carry **no GRADE strength or evidence quality**. [[asge-2015-ampullary-duodenal-adenomas|ASGE 2015]] supplies the older perforation data where cited.*
 
 ## Contents
 - [[#Assessment]]

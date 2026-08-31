@@ -3,7 +3,7 @@ title: "Nutrition in Liver Disease"
 category: disease-script
 tags: [liver, cirrhosis, malnutrition, sarcopenia, hepatic-encephalopathy, bcaa, vitamin-e, mash, masld, ald, coffee, nutrition]
 created: 2026-05-07
-updated: 2026-08-30
+updated: 2026-08-31
 sources: [acg-2025-liver-nutrition, aasld-2021-malnutrition-cirrhosis]
 ---
 
@@ -18,6 +18,18 @@ Malnutrition (most commonly sarcopenia) is a common complication of liver diseas
 - **All patients with [[cirrhosis|cirrhosis]]** — assess for frailty and/or sarcopenia at diagnosis and periodically
 - **Hospitalized cirrhosis** — assess and address nutritional status early
 - **[[alcohol-associated-liver-disease|Alcohol-associated hepatitis]] (AAH)** — detailed dietary assessment essential
+
+### Screening for Malnutrition Risk
+
+**Royal Free Hospital Nutrition Prioritizing Tool (RFH-NPT)** — the screening tool **most consistently associated with a diagnosis of malnutrition** in cirrhosis across the evaluated tools ([[aasld-2021-malnutrition-cirrhosis]]). Classifies into **low / moderate / high** nutritional risk on three inputs:
+
+1. Presence of acute hepatitis **or** need for enteral nutritional support
+2. Low BMI, unexplained weight loss, **or** maintenance of volitional nutritional intake
+3. Whether fluid overload interferes with the ability to eat
+
+- **High risk** → worse outcomes: reduced survival, worsened liver function, reduced quality of life. **Improvement in the RFH-NPT is associated with improved survival** — so it is a repeatable measure, not a one-off.
+- ⚠ *Decision gap (corpus-blocked): [[aasld-2021-malnutrition-cirrhosis]] names the three domains and the three risk bands but **does not print the scoring algorithm** that maps answers to low/moderate/high. Use the published RFH-NPT instrument itself (Borhofen 2016 / Amodio) — not ingested — to score it.*
+- Also flagged as a screen: the two-item **Hunger Vital Sign** for food insecurity (abnormal if either item is true).
 
 ### Diagnostic Methods
 
@@ -117,7 +129,8 @@ Malnutrition in liver disease is multifactorial:
 **MASH without cirrhosis:**
 
 - Natural vitamin E 800 IU/day (Conditional/Low) — reduces hepatic inflammation; not studied in MASH with cirrhosis
-- Lifestyle modification (diet + exercise): recommended independently of disease severity (Conditional/Low)
+- Lifestyle modification (diet + exercise): decreases adverse clinical outcomes; encourage **independent of MASH disease severity** (Key Concept 15). ⚠ Data that lifestyle modification **reverses hepatic fibrosis** are **limited** (Key Concept 16) — set expectations accordingly
+- Dysbiosis is associated with development/progression of many forms of liver disease (Key Concept 6)
 
 **[[hepatic-encephalopathy|Hepatic Encephalopathy]] (HE):**
 
@@ -127,8 +140,9 @@ Malnutrition in liver disease is multifactorial:
 
 **Fluid/electrolyte management:**
 
-- Ascites/edema with serum Na <126 mEq/L: free water restriction appropriate
-- Sodium restriction: insufficient evidence to recommend strict restriction in ascites on diuretics (no recommendation)
+- Ascites/edema: free water restriction may be needed when serum **Na <126 mEq/L** ([[acg-2025-liver-nutrition]] Key Concept 17)
+  - ⚠ *Source inconsistency: the same guideline's body text states fluid restriction "when the serum sodium falls below **125 mEq/L** due to dilutional or isotonic hyponatremia." The Key Concept number (126) is what this page asserts; the 1 mEq/L discrepancy is the source's own.*
+- Sodium restriction: **insufficient evidence — no recommendation** for or against strict sodium-restricted diets in cirrhosis with ascites managed on diuretics ([[acg-2025-liver-nutrition]] Rec 5)
 
 ### Micronutrient Supplementation
 

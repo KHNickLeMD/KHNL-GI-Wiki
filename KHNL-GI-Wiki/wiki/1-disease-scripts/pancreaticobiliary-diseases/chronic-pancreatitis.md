@@ -3,7 +3,7 @@ title: "Chronic Pancreatitis"
 category: disease-script
 tags: [pancreatitis, chronic, pancreas, hpb, exocrine-insufficiency, pain]
 created: 2026-05-16
-updated: 2026-08-26
+updated: 2026-08-31
 sources: [acg-2020-chronic-pancreatitis, acg-2020-sibo, asge-2024-chronic-pancreatitis-endoscopy, apa-2014-chronic-pancreatitis, aga-2022-recurrent-pancreatitis-endoscopy]
 ---
 
@@ -25,7 +25,7 @@ sources: [acg-2020-chronic-pancreatitis, acg-2020-sibo, asge-2024-chronic-pancre
 - [[#Therapeutics]]
   - [[#Lifestyle]]
   - [[#Pain management — stepwise]]
-  - [[#Endoscopic vs surgical therapy for painful obstructive CP (AGA 2022)]]
+  - [[#Endoscopic vs surgical therapy for painful obstructive CP]]
   - [[#Exocrine pancreatic insufficiency (EPI)]]
   - [[#Endocrine dysfunction (type 3c DM)]]
   - [[#Genetic and family counseling]]
@@ -260,7 +260,7 @@ Indicated when etiology unclear, family history, early onset, or pediatric/young
 Step 1: Lifestyle (alcohol/smoking cessation), non-opioid analgesics
 Step 2: Consider antioxidants (Cond/Moderate) — selenium 600 µg, ascorbic acid 0.54 g, β-carotene 9000 IU, α-tocopherol 270 IU, methionine 2 g daily; modest effect, mainly early disease
 Step 3: Adjuncts — pregabalin/gabapentin, TCA (extrapolated from chronic pain literature)
-Step 4: Celiac plexus block (Cond/Very Low) — EUS-guided > percutaneous; 3–6 months relief; ~25–96% response. AGA 2022 (BPA 8): NOT routine — case-by-case for debilitating pain refractory to other measures; pain relief 50–60% lasting ≤6 mo, almost all still need analgesics; AEs = diarrhea/orthostatic hypotension (major AEs <1%)
+Step 4: Celiac plexus block (Cond/Very Low) — see the dedicated note below the ladder
 Step 5: Endoscopic decompression (ERCP ± ESWL for stones, stricture dilation, PD stent) — first-line for obstructive CP
 Step 6: Surgical drainage (Strong/Moderate) — Puestow / Frey / Beger / Whipple; SUPERIOR to endoscopy for long-term pain in obstructive CP if endoscopy fails or unsuccessful (Cahen RCT: 75% pain relief surgery vs. 32% endoscopy at 2y; Dite study mirrors)
 Step 7: Opiates only when all other options exhausted (Key Concept 7)
@@ -268,28 +268,62 @@ Step 8: TPIAT — highly selected, refractory pain after medical therapy exhaust
 Experimental (research only): spinal cord stim, transmagnetic stim, radiation (Key Concept 9)
 ```
 
+**Celiac plexus block — route and expectations** ([[asge-2024-chronic-pancreatitis-endoscopy|ASGE 2024]] Rec 2, conditional / low):
+
+- **If a block is going to be done, use the [[endoscopic-ultrasound|EUS]]-guided route over the percutaneous one.**
+- **Set the expectation before consenting: fewer than 60% of patients get pain relief, and it is not sustained (<6 months).**
+- **Who it is for:** CP patients **nonresponsive to medical therapy**, or when **no endoscopic or surgical option exists** (i.e. **nonobstructive** CP) — and patients with opioid side effects or who wish to avoid opioids. It is not a step for the patient with an obstructed duct, who should be routed to Rec 1 instead.
+- Concordant [[aga-2022-recurrent-pancreatitis-endoscopy|AGA 2022]] detail (BPA 8): **not routine** — case-by-case for debilitating pain refractory to other measures; relief 50%–60% lasting ≤6 mo, almost all still need analgesics; AEs are diarrhea and orthostatic hypotension (major AEs <1%).
+
 ⚠ Active alcohol consumption is a relative contraindication to elective interventional procedures (Key Concept 6) — urgent/emergent procedures still warranted for complications.
 
 ⚠ **PERT does NOT improve pain** (Rec 9, Cond/Low) — only for EPI complications.
 
-### Endoscopic vs surgical therapy for painful obstructive CP (AGA 2022)
+### Endoscopic vs surgical therapy for painful obstructive CP
 
-- **Surgery is favored over endoscopy for long-term treatment** of painful *obstructive* CP (BPA 4) — 3 RCTs (incl. ESCAPE, n=88 dilated MPD: complete/partial pain relief **58% surgery vs 39% endotherapy** at 18 mo). Surgery is a one-time intervention; endotherapy typically needs serial [[ercp|ERCPs]] over up to 12 months.
-- **Endoscopy is a reasonable alternative** for suboptimal operative candidates or those favoring a less invasive approach — provided they are clearly informed the advice primarily favors surgery.
-- Decompression is **almost never indicated in asymptomatic patients** (rare exception: young patient with unifocal obstruction downstream of viable parenchyma, to slow disease/islet-cell loss).
+*The governing source here is [[asge-2024-chronic-pancreatitis-endoscopy|ASGE 2024]] (newest tier-1 guideline; all six recommendations **conditional**). [[aga-2022-recurrent-pancreatitis-endoscopy|AGA 2022]] agrees on the surgery-vs-endotherapy direction and supplies supporting data, but **is superseded on stent number** — see the flagged contradiction below.*
 
-**MPD stones (BPA 5)** — occur in ~60% of CP (more with alcohol >80 g/d, tobacco >20 cig/d); treat only if symptomatic obstruction:
-- **≤5 mm:** conventional [[ercp|ERCP]] pancreatography + standard extraction (sphincterotomy, dilation, balloon/basket).
-- **>5 mm:** **ESWL** (fragmentation >90%; complete duct clearance in >⅔) ± ERCP, and/or **pancreatoscopy-directed intraductal lithotripsy** (EHL or laser; technical success ~88%, AE ~12%) — often complementary for large/complex stones.
+**Who gets operated on first (ASGE 2024 Rec 1 — conditional / low-to-moderate):**
 
-**MPD strictures (BPA 6):**
-- **Prolonged plastic-stent therapy 6–12 months** with dilation + sequential **upsizing / multiple parallel stents** is the preferred approach; relieves pain in up to 85%.
-- **FCSEMS emerging** — vs multiple plastic stents: similar pain improvement (88% vs 89%) and stricture recurrence (8% vs 11%), fewer ERCPs, but **higher adverse-event rate (39% vs 14%)** → role not yet established; additional research needed.
+- **No contraindication to surgery → surgical evaluation *before* initiating endoscopic management.** Surgery gives more durable pain relief.
+- **Contraindication to surgery, or patient prefers a less-invasive modality → endoscopic management as the initial approach.**
+- **A multidisciplinary approach is strongly recommended** for anyone who has failed medical pain management; check availability of an expert endoscopist, a pancreatic surgeon, and ancillary facilities such as lithotripsy before committing to a route.
+- Supporting data ([[aga-2022-recurrent-pancreatitis-endoscopy|AGA 2022]] BPA 4): 3 RCTs, incl. **ESCAPE** (n=88, dilated MPD) — complete/partial pain relief **58% surgery vs 39% endotherapy** at 18 mo. Surgery is a one-time intervention; endotherapy typically needs serial [[ercp|ERCPs]] over up to 12 months. Endoscopy remains reasonable for the suboptimal operative candidate, provided they are told the advice primarily favors surgery.
+- Decompression is **almost never indicated in asymptomatic patients** (rare exception: young patient with unifocal obstruction downstream of viable parenchyma, to slow disease/islet-cell loss). ([[aga-2022-recurrent-pancreatitis-endoscopy]])
 
-**Benign biliary stricture due to CP (BPA 7)** — occur in ~15% of advanced CP:
-- **ERCP with stent insertion is the preferred treatment.**
-- **FCSEMS favored over multiple plastic stents whenever feasible** — similar efficacy, significantly fewer exchange procedures (plastic requires sessions every 10–12 wk).
-- ⚠ **Caveat — gallbladder in situ:** if the stent will cover the cystic duct orifice, FCSEMS carries increased **[[acute-cholecystitis|cholecystitis]]** risk → reasonable to use multiple plastic stents instead. Continue stent therapy 6–12 months (depends on severity/type/response). See [[biliary-stricture]].
+**MPD stones — the strategy is chosen on size, location, *and* radiopacity** (ASGE 2024 Rec 3 — conditional / very-low-to-low). Stones occur in ~60% of CP (more with alcohol >80 g/d, tobacco >20 cig/d); treat only for symptomatic obstruction ([[aga-2022-recurrent-pancreatitis-endoscopy]]).
+
+| Stone | Strategy |
+|---|---|
+| **Radiopaque >5 mm** in **head, neck, or body** | [[ercp\|ERCP]] with or without **pancreatoscopy**, **or ESWL alone** |
+| **After ESWL**, no spontaneous clearance despite **adequate fragmentation (fragments <2–3 mm)** | **ERCP** (± pancreatoscopy) for stone clearance |
+| **Radiopaque <5 mm**, **any radiolucent stone**, or **contraindication to ESWL** | ERCP with or without pancreatoscopy |
+
+- **Consider ESWL for radiopaque stones >10 mm.** Choosing between pancreatoscopy and ESWL is otherwise largely a matter of **local expertise and availability**.
+- **Pancreatoscopy is likely to be difficult in the presence of strictures with stones upstream of the stricture** — a practical reason to reach for ESWL first in that anatomy.
+- Effect sizes ([[aga-2022-recurrent-pancreatitis-endoscopy]]): ESWL fragmentation >90%, complete duct clearance in >⅔; pancreatoscopy-directed intraductal lithotripsy (EHL or laser) technical success ~88%, AE ~12%.
+
+**MPD strictures (ASGE 2024 Rec 4 — conditional / very low):**
+
+- **Number of stents: place a SINGLE plastic stent, not multiple, for initial treatment of a dominant PD stricture.**
+- **Diameter: the largest plastic stent that can be safely deployed**, avoiding forceful or traumatic placement, with **gradual upsizing if necessary**.
+- **Reassess the need for upsizing at 3-monthly follow-up ERCPs** after the initial plastic-stent placement.
+- **Against the routine use of FCSEMS** for persistent or refractory PD strictures that have failed initial stent placement — **significant delayed adverse events and questionable efficacy**.
+
+> ⚠ **Contradiction on the record — PD stent number and FCSEMS.** [[aga-2022-recurrent-pancreatitis-endoscopy|AGA 2022]] BPA 6 advised prolonged plastic-stent therapy for 6–12 months with dilation and sequential **upsizing or multiple parallel stents** (pain relief up to 85%), and treated FCSEMS as "emerging" (vs multiple plastic stents: similar pain improvement 88% vs 89%, similar stricture recurrence 8% vs 11%, fewer ERCPs, but **higher adverse-event rate 39% vs 14%**). The newer [[asge-2024-chronic-pancreatitis-endoscopy|ASGE 2024]] guideline explicitly favors a **single** plastic stent initially and recommends **against** routine FCSEMS. **ASGE 2024 governs the page** (newer, same tier); AGA's higher-AE figure for FCSEMS is consistent with ASGE's stated reason.
+
+**Benign biliary stricture complicating CP** — occurs in ~15% of advanced CP ([[aga-2022-recurrent-pancreatitis-endoscopy]]). Both guidelines agree here (ASGE 2024 Rec 5 — conditional / low-to-moderate):
+
+- **ERCP with stent insertion is the treatment; FCSEMS over multiple plastic stents.** Similar efficacy, significantly fewer exchange procedures (plastic requires sessions every 10–12 wk).
+- **When to treat:** when the stricture is **symptomatic, or unresolved after 4 weeks** — the stated aim is to prevent **secondary biliary [[cirrhosis|cirrhosis]]**.
+- FCSEMS is **especially** preferred where noncompliance or scheduling difficulty is likely, since plastic stents left in too long cause serious adverse events.
+- ⚠ **Two situations that flip the choice back to multiple plastic stents:** an **indeterminate** stricture, and **risk of cystic duct obstruction with the gallbladder in situ** (FCSEMS covering the cystic duct orifice raises **[[acute-cholecystitis|cholecystitis]]** risk). Continue stent therapy 6–12 months depending on severity/type/response ([[aga-2022-recurrent-pancreatitis-endoscopy]]). See [[biliary-stricture]].
+
+**Pseudocyst complicating CP (ASGE 2024 Rec 6 — conditional / low):**
+
+- **Endoscopic drainage over surgical drainage** for symptomatic pseudocysts.
+- **Avoid a percutaneous approach as sole therapy** — risk of **pancreaticocutaneous fistula**.
+- Take a multidisciplinary approach with **altered anatomy**, or a pseudocyst **not in proximity to the GI lumen**. Collection-drainage technique lives on [[acute-pancreatitis]] and [[endoscopic-ultrasound]].
 
 ### Exocrine pancreatic insufficiency (EPI)
 
@@ -297,7 +331,7 @@ Experimental (research only): spinal cord stim, transmagnetic stim, radiation (K
 - If inadequate, add acid suppression ([[proton-pump-inhibitors|PPI]]/H2RA) to protect non-enteric-coated formulations
 - Periodic monitoring of weight, fat-soluble vitamins, bone density (Key Concept 10)
 - Small frequent meals without fat restriction
-- **SIBO co-occurrence:** Pancreatic insufficiency is a recognized risk factor for [[small-intestinal-bacterial-overgrowth]] (altered bile acid composition + reduced digestive enzyme activity). Consider SIBO evaluation in CP patients with persistent diarrhea/bloating despite adequate PERT.
+- **SIBO co-occurrence:** Pancreatic insufficiency is a recognized risk factor for [[small-intestinal-bacterial-overgrowth]] (altered bile acid composition + reduced digestive enzyme activity). Consider SIBO evaluation in CP patients with persistent diarrhea/bloating despite adequate PERT. ([[acg-2020-sibo]])
 
 ### Endocrine dysfunction (type 3c DM)
 
@@ -322,7 +356,7 @@ Experimental (research only): spinal cord stim, transmagnetic stim, radiation (K
 
 ## See Also
 
-[[acute-pancreatitis]], [[recurrent-acute-pancreatitis]], [[pancreas-divisum]], [[pancreatic-cancer]], [[pancreatic-cysts]], [[hereditary-pancreatitis]], [[exocrine-pancreatic-insufficiency]], [[biliary-stricture]], [[acute-cholecystitis]], [[endoscopic-ultrasound]], [[ercp]], [[mri-mrcp]], [[pancreatic-cancer-screening]], [[small-intestinal-bacterial-overgrowth]], [[proton-pump-inhibitors]]
+[[acute-pancreatitis]], [[recurrent-acute-pancreatitis]], [[pancreas-divisum]], [[pancreatic-cancer]], [[pancreatic-cysts]], [[hereditary-pancreatitis]], [[exocrine-pancreatic-insufficiency]], [[biliary-stricture]], [[acute-cholecystitis]], [[endoscopic-ultrasound]], [[ercp]], [[mri-mrcp]], [[pancreatic-cancer-screening]], [[small-intestinal-bacterial-overgrowth]], [[proton-pump-inhibitors]], [[cirrhosis]]
 
 ---
 

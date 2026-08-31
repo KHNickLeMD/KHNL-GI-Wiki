@@ -3,7 +3,7 @@ title: "Proctalgia Syndromes"
 category: disease-script
 tags: [proctalgia, levator-ani, chronic-proctalgia, proctalgia-fugax, anorectal, pelvic-floor, colorectal]
 created: 2026-05-16
-updated: 2026-08-25
+updated: 2026-08-31
 sources: [acg-2021-anorectal-disorders, rome-v-2026-dgbi]
 ---
 
@@ -11,9 +11,18 @@ sources: [acg-2021-anorectal-disorders, rome-v-2026-dgbi]
 
 ### Establishing the Diagnosis
 
-**Proctalgia syndromes** are characterized by recurrent episodes of anorectal pain in the absence of other identifiable causes. Classified in [[rome-v-2026-dgbi|Rome V]] as **F2 anorectal pain** within the anorectal [[disorders-of-gut-brain-interaction|disorders of gut–brain interaction]]. [[rome-v-2026-dgbi]] Two distinct subtypes:
+**Proctalgia syndromes** are characterized by recurrent episodes of anorectal pain in the absence of other identifiable causes. They sit in the [[rome-v-2026-dgbi|Rome V]] anorectal [[disorders-of-gut-brain-interaction|disorders of gut–brain interaction]] under **F2 — anorectal pain disorders**, which Rome V splits into **three** named entities (the ACG 2021 terminology maps onto them):
 
-**1. Chronic proctalgia syndrome (levator ani syndrome):**
+| Rome V | Rome V name | ACG 2021 equivalent | Defining feature |
+|---|---|---|---|
+| **F2a** | Levator ani syndrome | Chronic proctalgia **with** levator tenderness | Pain ≥20 min **+** tenderness on posterior traction of the puborectalis |
+| **F2b** | Unexplained anorectal pain | Idiopathic chronic proctalgia syndrome | Pain ≥20 min, **no** levator tenderness |
+| **F2c** | Proctalgia fugax | Proctalgia fugax | Pain **seconds to <20 min**, normal DRE |
+
+- **Duration rule changed in Rome V:** the **6-month** symptom-duration requirement is **no longer required**; Rome V suggests an **8-week** duration to exclude other diagnoses — and **explicitly exempts infrequent-episode disorders, naming proctalgia fugax**, along with any case where the clinician is satisfied that medical evaluation has excluded other disorders. [[rome-v-2026-dgbi]]
+- **The ≥20-minute cut-point is the discriminator** between F2a/F2b and F2c; **levator tenderness** is the discriminator between F2a and F2b, and it changes the treatment (see Therapeutics).
+
+**1. Chronic proctalgia syndrome (levator ani syndrome / F2a):**
 
 - Recurring episodes of dull or pressure-like anorectal pain lasting ≥20 minutes (often hours or days)
 - Exclusion of other anorectal causes by history and diagnostic testing
@@ -21,7 +30,7 @@ sources: [acg-2021-anorectal-disorders, rome-v-2026-dgbi]
 - **Idiopathic chronic proctalgia syndrome** = chronic proctalgia WITHOUT levator tenderness
 - Diagnosis is clinical; the duration (not frequency) is the key diagnostic criterion
 
-**2. Proctalgia fugax:**
+**2. Proctalgia fugax (F2c):**
 
 - Intense rectal or anal pain lasting only seconds to <20 minutes
 - Pathophysiology unknown; thought to involve excessive tension of puborectalis/levator ani
@@ -78,7 +87,7 @@ Note: concurrent anal fissures, prolapsed [[hemorrhoids]], or other anorectal pa
 - Botulinum toxin injection: insufficient evidence; no RCT data in levator syndrome
 - Digital rectal massage: no evidence
 
-**Idiopathic chronic proctalgia (no levator tenderness):**
+**Idiopathic chronic proctalgia / Rome V F2b unexplained anorectal pain (no levator tenderness):**
 
 - No proven treatments; explanation and reassurance primary approach
 - Consider biofeedback if pelvic floor dysfunction identified on ARM

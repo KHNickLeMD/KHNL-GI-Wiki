@@ -3,7 +3,7 @@ title: "Chronic Hepatitis B"
 category: disease-script
 tags: [hepatitis-b, HBV, antiviral, nucleoside-analogues, HCC-surveillance, immune-tolerant, indeterminate, functional-cure, pregnancy, co-infection, hbv-reactivation, antiviral-prophylaxis]
 created: 2026-05-15
-updated: 2026-08-30
+updated: 2026-08-31
 sources: [aasld-idsa-2025-chb-treatment, acg-2016-liver-disease-pregnancy, aga-2025-hbv-reactivation, aga-2024-pregnancy-gi-liver]
 ---
 
@@ -18,7 +18,7 @@ CHB is defined as HBsAg-positive for >6 months. Screen all adults ≥18 years at
 - Quantitative HBV DNA (PCR-based)
 - HBeAg and anti-HBe
 - ALT (use sex-specific ULN: M <35 U/L, F <25 U/L)
-- Fibrosis assessment ([[noninvasive-liver-disease-assessment|elastography]] preferred over FIB-4; elastography cutoff ≥7 kPa for F2, ≥8 kPa sensitive for F3/F4; FIB-4 >1.45 sensitive for advanced fibrosis)
+- Fibrosis assessment ([[noninvasive-liver-disease-assessment|elastography]] preferred over FIB-4 — cutoffs under Severity Assessment)
 - [[liver-biopsy|Liver biopsy]]: infrequently used; most accurate for inflammation grade
 - Screen for co-infections: **anti-HDV in all HBV patients** (universal HDV screening — reflex HDV RNA if positive; see [[hepatitis-d]]), [[hepatitis-c|HCV]] RNA, HIV
 
@@ -32,9 +32,10 @@ CHB is defined as HBsAg-positive for >6 months. Screen all adults ≥18 years at
 
 Non-invasive fibrosis staging preferred:
 
-- **[[liver-stiffness-measurement|Vibration-controlled transient elastography (VCTE)]]:** ≥7 kPa → F2 (Sn 69%, Sp 83%); ≥11 kPa → [[cirrhosis|cirrhosis]]
-- **FIB-4:** >1.45 → high sensitivity for advanced fibrosis (F3/F4); ≥3.25 → cirrhosis
-- Elastography outperforms FIB-4 overall; neither reliable in pregnancy
+- **[[liver-stiffness-measurement|Vibration-controlled transient elastography (VCTE)]]:** cutoff **7 kPa** → F2 or higher (Sn 69%, Sp 83%); **≥8 kPa** = high-sensitivity threshold for advanced fibrosis (F3/F4)
+- **FIB-4:** **>1.45** = high-sensitivity threshold for advanced fibrosis (F3/F4)
+- Elastography outperforms FIB-4 overall; neither reliable in pregnancy — assess for [[cirrhosis|cirrhosis]] in pregnancy by ultrasound and/or clinical evaluation instead
+- Generic (non-HBV-specific) VCTE/FIB-4 cut-offs for cACLD and CSPH: see [[noninvasive-liver-disease-assessment]] — [[aasld-idsa-2025-chb-treatment]] gives no cirrhosis-level kPa or FIB-4 cutoff
 - Liver biopsy: reserved for diagnostic uncertainty or staging ambiguity
 
 ### Classification / Typing
@@ -116,8 +117,8 @@ Peginterferon: rarely used (limited applicability, poor tolerability); higher ra
 
 **Immune-tolerant phase** (HBeAg+, DNA >10^7 IU/mL, normal ALT):
 
-- Age ≥40 years or ≥F2 fibrosis → **suggest treatment** (Conditional/Very Low) [[aasld-idsa-2025-chb-treatment]]
-- Age <40, no significant fibrosis → shared decision-making (family Hx HCC, adherence capacity, transmission risk)
+- Age **>40 years**, **or** significant liver inflammation (**grade ≥2**), **or** fibrosis (**≥F2**) on biopsy or noninvasive tests → **suggest treatment** (Conditional/Very Low) [[aasld-idsa-2025-chb-treatment]] Rec 3
+- Age <40 y without significant inflammation or fibrosis → shared decision-making (age child/adolescent vs adult, family Hx HCC, likelihood of long-term adherence to treatment + monitoring, transmission prevention)
 - If not treating: HBV DNA + ALT every 6 months to detect immune-active transition
 - Note: DNA may not fully suppress to undetectable given very high replication levels
 
@@ -135,14 +136,14 @@ Peginterferon: rarely used (limited applicability, poor tolerability); higher ra
 
 ### NA Discontinuation
 
-**Default: continue NA until HBsAg loss (functional cure)** — 2025 AASLD recommendation (Conditional/Very Low) [[aasld-idsa-2025-chb-treatment]]
+**Default: continue NA until HBsAg loss (functional cure)** — 2025 AASLD Rec 5 (Conditional/Very Low), population = **HBeAg-negative, no cirrhosis, sustained undetectable HBV DNA on NA** [[aasld-idsa-2025-chb-treatment]]
 
 Rationale: HBsAg loss only ~11% at 2 years off therapy; ALT flares 27%; re-treatment 42% at 5 years; decompensation and death reported in real-world cohorts. Diverges from EASL/APASL which allow finite therapy.
 
 For patients strongly desiring to stop (ALL criteria must be met):
 
-- No history of cirrhosis, decompensation, HCC, or extrahepatic HBV complications
-- HBV DNA undetectable ≥2 years
+- No history of cirrhosis/advanced fibrosis, hepatic decompensation (variceal bleed, [[ascites]], [[hepatic-encephalopathy|HE]], [[aki-in-cirrhosis|hepatorenal syndrome]]), HCC, or extrahepatic HBV complications
+- HBV DNA undetectable ≥2 years (applies whether HBeAg+ or HBeAg− at treatment start)
 - If HBeAg+ at treatment start → HBeAg seroconversion + anti-HBe positive ≥1 year
 - qHBsAg <100 IU/mL
 - No HIV or HDV co-infection
@@ -155,7 +156,9 @@ Post-discontinuation monitoring: HBV DNA + ALT every 1–3 months × 6 months, t
 - HBV DNA ≥10,000 IU/mL (regardless of ALT)
 - ALT ≥5× ULN (regardless of HBV DNA)
 - Total bilirubin >2.5 mg/dL
-- Hepatic decompensation
+- Any symptoms of hepatic decompensation
+
+**Treatment may also be restarted at any time for:** personal wish to restart · extrahepatic complications of HBV · meeting standard treatment-initiation criteria (**HBV DNA >2,000 IU/mL and ALT >2× ULN**).
 
 ### Suboptimal Virologic Response to NA
 
@@ -218,11 +221,12 @@ Switch options: ETV → TDF or TAF; TDF → TAF or ETV; TAF → ETV.
 **AASLD/IDSA 2025 recommendations** [[aasld-idsa-2025-chb-treatment]]:
 
 - Screen all pregnancies with triple panel (HBsAg + anti-HBs + anti-HBc)
-- If HBV DNA >200,000 IU/mL: initiate TDF (preferred, more safety data) or TAF at **gestational week 28** (Strong/Moderate)
-- If seeking care after week 28: start immediately
-- If HBIG unavailable for infant: start TDF at week 16
-- If invasive procedures anticipated + DNA >2,000,000 IU/mL: start early for viral suppression
-- Stop at delivery if sole indication was MTCT; monitor ALT + HBV DNA every 1–3 months × 6 months post-discontinuation
+- **Rec 1 (Strong/Moderate):** HBV DNA **>200,000 IU/mL at any time point during pregnancy, regardless of HBeAg status** → initiate TDF (more extensive pregnancy safety record) or TAF at **gestational week 28**
+- If seeking perinatal care later than week 28: start immediately (any time prior to delivery)
+- If infant **HBIG is unavailable**: start TDF or TAF at **gestational week 16** (+ infant vaccination)
+- If invasive procedures (e.g. **amniocentesis**) anticipated, or high risk of preterm labor, and DNA **>2,000,000 IU/mL**: start earlier for viral suppression
+- Stop at delivery if sole indication was MTCT; monitor ALT + HBV DNA every 1–3 months for up to 6 months for withdrawal flares — **reinitiate if ALT ≥5× ULN**
+- Baseline risk this addresses: MTCT still ~**8–10%** despite HBIG + birth-dose vaccine when maternal HBV DNA >200,000 IU/mL
 - If on ETV during pregnancy: switch to TDF or TAF
 - Breastfeeding safe on TDF or TAF
 - Infant: HBIG + HBV vaccine within 12 hours of birth; test HBsAg + anti-HBs at 9–12 months

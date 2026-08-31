@@ -3,8 +3,24 @@ title: "Portal Vein Thrombosis and Mesenteric Vein Thrombosis"
 category: disease-script
 tags: [portal-vein-thrombosis, pvt, mvt, mesenteric-vein, anticoagulation, cirrhosis, thrombophilia, splenomegaly, mpn, liver-transplant]
 created: 2026-05-21
-updated: 2026-08-25
+updated: 2026-08-31
 sources: [acg-2020-hepatic-mesenteric-circulation, aasld-ast-2025-liver-transplant-candidate-evaluation, aasld-2021-vascular-pvt, aga-2025-pvt-cirrhosis, baveno-vii-2022-portal-hypertension]
+---
+
+## Contents
+- [[#Assessment]]
+  - [[#Establishing the Diagnosis]]
+  - [[#Severity Assessment]]
+  - [[#Classification / Typing]]
+- [[#Differential Diagnosis]]
+- [[#Diagnostics]]
+- [[#Therapeutics]]
+  - [[#Noncirrhotic Acute PVT/MVT — Anticoagulation]]
+  - [[#Noncirrhotic Chronic PVT]]
+  - [[#Cirrhotic PVT — Anticoagulation]]
+  - [[#Hemostasis in Cirrhosis — Key Principles]]
+  - [[#Surgical / Interventional Options]]
+
 ---
 
 ## Assessment
@@ -50,6 +66,18 @@ Portal vein thrombosis (PVT) is the partial or complete occlusion of the portal 
 | | **Cavernous transformation** | Gross porto-portal collaterals, original PV not seen |
 | Interval change | **Progressive / Stable / Regressive** | Thrombus larger or more occlusive / unchanged / smaller or less occlusive |
 
+**Yerdel classification — the transplant-surgical grading behind "Yerdel grade IV" under [[#Surgical / Interventional Options]].** Anatomical + degree of occlusion; the four categories in ascending order, as listed by [[aasld-2021-vascular-pvt]] (Table 6):
+
+| Category (ascending) | Definition |
+|---|---|
+| 1 | **<50% occlusion** of the portal vein |
+| 2 | **>50% occlusion** |
+| 3 | **Complete PV *and* splenic vein occlusion** |
+| 4 | **Complete PV occlusion with SMV extension** |
+
+- ⚠ [[aasld-2021-vascular-pvt]] Table 6 prints the four categories **without numbering them I–IV**; the numbering above is the order in which the source lists them. [[aasld-ast-2025-liver-transplant-candidate-evaluation]] glosses **grade IV as "complete splanchnic vein thrombosis,"** which matches the most extensive category. If the exact grade boundaries matter for a listing decision, the primary source (Yerdel 2000, *Transplantation* 69:1873) is **not ingested** — do not reconstruct them from memory.
+- The same table notes Yerdel's limitation: derived **only in patients presenting for LT**, so it correlates with post-transplant survival rather than natural history.
+
 **Clinical subtypes** (drive the treatment pathway under [[#Therapeutics]]):
 
 | Type | Characteristics |
@@ -82,7 +110,13 @@ Portal vein thrombosis (PVT) is the partial or complete occlusion of the portal 
 - Doppler ultrasound: first-line (Strong, Very Low evidence) [[acg-2020-hepatic-mesenteric-circulation]]
 - Contrast CT abdomen/pelvis: extent, MVT, bowel viability
 
-**Thrombophilia workup** (essential in noncirrhotic PVT):
+**Thrombophilia workup — who gets one** [[aasld-2021-vascular-pvt]]:
+
+- **No cirrhosis + no clear provoking factor → full investigation** for myeloproliferative disorders or another thrombophilic condition is warranted, **usually in consultation with hematology**
+- **Cirrhosis → an extensive thrombophilia evaluation is *not* necessary**, unless family history or routine laboratory testing raises other concerns
+- **Cirrhosis → it is mandatory to rule out malignant venous obstruction attributable to [[hepatocellular-carcinoma|HCC]]** with appropriate contrast-enhanced imaging
+
+**What the noncirrhotic workup contains:**
 
 - **JAK2 V617F mutation** — myeloproliferative neoplasm (MPN); present in ~30% of noncirrhotic PVT; MPN found in up to 40% of BCS and 25% of PVT
 - Factor V Leiden, prothrombin G20210A mutation
@@ -132,6 +166,10 @@ Portal vein thrombosis (PVT) is the partial or complete occlusion of the portal 
 - If AC is stopped, **D-dimer <500 ng/mL at 1 month** post-discontinuation predicts low recurrence risk (C.2, 8.40)
 - No recanalisation but no complications → **no intervention beyond anticoagulation** is needed (B.2, 8.41)
 - **Intestinal infarction red flags** (C.2, 8.44) — persistent severe abdominal pain despite AC, bloody diarrhoea, lactic acidosis, bowel loop distention, or occlusion of second-order SMV radicles → multidisciplinary early image-guided intervention/thrombolysis/surgery at a referral centre
+
+**Septic pylephlebitis** (suppurative PVT from an intra-abdominal infection) [[aasld-2021-vascular-pvt]]: **prolonged antibiotics** adapted to the isolated organism or to anaerobic digestive flora is necessary; limited retrospective data show **concurrent anticoagulation** gives higher complete-resolution rates and fewer long-term portal-hypertensive complications.
+
+**Intestinal ischemia** with recent PVT: **immediate** consultation with surgery, critical care, interventional radiology, and hematology; **anticoagulation is essential**, with surgery for intestinal infarction [[aasld-2021-vascular-pvt]].
 
 ### Noncirrhotic Chronic PVT
 
@@ -211,7 +249,7 @@ Cirrhosis represents [[cirrhosis-hemostasis|rebalanced hemostasis]], not auto-an
 - **[[tips|TIPS]]**: portal decompression; facilitates PVT resolution; bridges to transplant
 - **Bowel resection**: emergent when MVT causes bowel infarction
 - **[[liver-transplantation|Liver transplantation]]**: PVT is not an absolute contraindication but requires surgical planning; cavernoma may require technical modifications
-  - **Yerdel grade IV PVT** (complete splanchnic vein thrombosis without sufficient collateral veins — left gastric vein, pericholedochal collaterals) is a **relative contraindication to isolated LT** ([[aasld-ast-2025-liver-transplant-candidate-evaluation]], Rec 47, Weak, Level 2)
+  - **Yerdel grade IV PVT** (complete splanchnic vein thrombosis) **without sufficient collateral veins** (left gastric vein, pericholedochal collaterals) is a **relative contraindication to isolated LT** ([[aasld-ast-2025-liver-transplant-candidate-evaluation]], Rec 47, Weak, Level 2) — grade definitions under [[#Classification / Typing]]
   - Experienced centers may achieve revascularization using interventional radiology techniques; evaluate case-by-case
   - Multivisceral transplantation may be an alternative for Grade IV PVT at specialized centers (Table 6, [[aasld-ast-2025-liver-transplant-candidate-evaluation]])
 

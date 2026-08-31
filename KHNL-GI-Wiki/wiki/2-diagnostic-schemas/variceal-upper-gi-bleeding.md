@@ -3,7 +3,7 @@ title: "Variceal Upper GI Bleeding"
 category: diagnostic-schema
 tags: [cirrhosis, portal-hypertension, variceal-bleeding, upper-gi-bleeding, hemostasis, antibiotic-prophylaxis, TIPS, EVL, carvedilol, NSBB, gastric-varices, preemptive-TIPS]
 created: 2026-05-15
-updated: 2026-08-27
+updated: 2026-08-31
 sources: [albhaisi-2025-prophylactic-antibiotics-cirrhosis, aasld-2023-portal-hypertension, baveno-vii-2022-portal-hypertension, aga-2024-vasoactive-albumin-cirrhosis]
 ---
 
@@ -34,10 +34,14 @@ In a cirrhotic patient with UGIB, consider:
 
 **Immediate (before endoscopy) — steps 1–4 must occur in parallel, not sequentially:**
 
-1. **Resuscitation**: Large-bore IV access × 2; airway assessment (intubate if GCS altered/aspiration risk before endoscopy). Transfuse pRBCs to target Hgb **~7 g/dL** — restrictive strategy proven superior in cirrhosis (Villa RCT). **No FFP and no platelet transfusions** based on INR or platelet count targets — no evidence of benefit; FFP may cause harm (AASLD 2023 GS 29) [[aasld-2023-portal-hypertension]].
+1. **Resuscitation**: Large-bore IV access × 2; airway assessment (intubate if GCS altered/aspiration risk before endoscopy). Transfuse pRBCs to target Hgb **~7 g/dL** — restrictive strategy (GS 28).
+   - **The qualifier is the decision:** ~7 g/dL applies **in the absence of comorbidities (e.g. ischemic coronary disease) or hemodynamic instability that might merit higher targets** — AASLD's own wording. Do not apply 7 g/dL to the unstable or the cardiac patient.
+   - **No FFP and no platelet transfusions** based on INR or platelet count targets — INR does not predict hemostatic dysfunction; no evidence of benefit, and evidence of potential **harm** from FFP (GS 29).
+   - ⚠ The restrictive-transfusion RCT underlying this (AASLD refs 166–167) is **not ingested**; only AASLD's guidance statement is sourced here. A page-level attribution to a named trial was removed 2026-08-31 as unverifiable. ([[aasld-2023-portal-hypertension]])
 
 2. **Start vasoactive therapy immediately** (GS 25): do not wait for endoscopy. Initiate as soon as variceal bleeding is *suspected*, before diagnostic/therapeutic endoscopy ([[aga-2024-vasoactive-albumin-cirrhosis|AGA 2024 CPU]], BPA 1); **octreotide is the agent of choice in the US** based on its safety profile (BPA 3).
-   - **[[somatostatin-analogs|Octreotide]]:** 50 mcg IV bolus → 25–50 mcg/hr infusion × 2–5 days (repeat boluses for ongoing bleeding)
+   - **[[somatostatin-analogs|Octreotide]]:** 50 mcg IV bolus → 25–50 mcg/hr infusion × 2–5 days (additional IV boluses may be given for ongoing bleeding — [[aga-2024-vasoactive-albumin-cirrhosis]])
+     - ⚠ *Guidelines differ on the infusion rate:* [[aasld-2023-portal-hypertension]] Table 5 gives **25–50 mcg/hr**; [[aga-2024-vasoactive-albumin-cirrhosis]] (newer) gives a flat **50 mcg/hr**. The AGA figure sits inside the AASLD range, so either is defensible.
    - **Somatostatin:** 250 mcg IV bolus → 250–500 mcg/hr × 2–5 days
    - **Terlipressin** (not FDA approved in US for AVH): 2 mg IV q4–6h × 24–48h, then 1 mg q4–6h × 2–5 days
    - Continue vasoactive therapy if PH bleeding confirmed on endoscopy (GS 26); **stop the drug if endoscopy reveals a non-variceal source**. Duration may be shortened to **2 days** in selected low-risk patients (no active bleeding at endoscopy).

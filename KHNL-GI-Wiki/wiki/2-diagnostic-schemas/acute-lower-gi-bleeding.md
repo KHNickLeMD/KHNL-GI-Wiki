@@ -3,8 +3,8 @@ title: "Acute Lower Gastrointestinal Bleeding (LGIB)"
 category: diagnostic-schema
 tags: [lower-gi-bleeding, lgib, hematochezia, diverticular, colonoscopy, hemorrhage, cta, risk-stratification]
 created: 2026-05-15
-updated: 2026-08-30
-sources: [acg-2023-lgib, asge-2014-lgib]
+updated: 2026-08-31
+sources: [acg-2023-lgib, asge-2014-lgib, acg-2021-ugib]
 ---
 
 ## Definition / Scope
@@ -139,7 +139,11 @@ Scores supplement but do not replace clinical judgment. Low-risk patients (Oakla
 
 ### Step 3: Resuscitation and Stabilization
 
-- **Transfusion threshold: Hgb 7 g/dL** for hemodynamically stable patients (8 g/dL if cardiovascular disease or ACS)
+- **Transfusion threshold: restrictive, Hgb 7 g/dL** in **hemodynamically stable** patients (Rec 2, conditional / low-quality)
+  - **8 g/dL** in stable patients with **pre-existing cardiovascular disease** (carried over from prior guidelines; no supporting RCT evidence)
+  - **8 g/dL can *also* be considered in acute coronary syndrome + GIB** — data "extremely limited" in this population
+  - **Exception:** the restrictive strategy applies to the stable patient — make exceptions for **significant ongoing active bleeding** or **shock**
+  - ⚠ **Contradiction with [[upper-gi-bleeding]]:** [[acg-2021-ugib]] holds that ACS "must be differentiated" from pre-existing CVD and that a threshold **higher than 8 g/dL** may be considered in UGIB + ACS. [[acg-2023-lgib]] governs this page (newer, and specific to LGIB), but the two guidelines do not agree on the ACS threshold.
 - Platelet transfusion: maintain >30×10⁹/L (>50×10⁹/L if endoscopic procedure planned); do NOT transfuse empirically for patients on antiplatelets
 - **Do NOT give tranexamic acid** (no benefit; increased VTE and seizures in large RCT)
 
@@ -348,3 +352,4 @@ Scores supplement but do not replace clinical judgment. Low-risk patients (Oakla
 
 1. [[acg-2023-lgib|ACG 2023: Management of Patients With Acute Lower Gastrointestinal Bleeding]]
 2. [[asge-2014-lgib|ASGE 2014: Role of Endoscopy in the Patient with Lower GI Bleeding]]
+3. [[acg-2021-ugib|ACG 2021: Upper Gastrointestinal and Ulcer Bleeding]]

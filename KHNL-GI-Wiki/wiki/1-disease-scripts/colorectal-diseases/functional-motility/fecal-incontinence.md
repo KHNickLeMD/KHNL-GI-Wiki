@@ -3,7 +3,7 @@ title: "Fecal Incontinence"
 category: disease-script
 tags: [fecal-incontinence, anorectal, biofeedback, sacral-nerve-stimulation, pelvic-floor, colorectal]
 created: 2026-05-16
-updated: 2026-08-25
+updated: 2026-08-31
 sources: [acg-2021-anorectal-disorders, asge-2010-anorectal-disorders, rome-v-2026-dgbi]
 ---
 
@@ -13,8 +13,9 @@ sources: [acg-2021-anorectal-disorders, asge-2010-anorectal-disorders, rome-v-20
 
 **Fecal incontinence (FI)** = involuntary loss of solid or liquid feces (including staining of underwear); the broader term **anal incontinence** includes involuntary flatus.
 
-- **Diagnostic threshold changed in [[rome-v-2026-dgbi|Rome V]] (2026):** FI (DGBI category **F1**) now requires **≥2 episodes** — the previous qualitative wording "recurrent" was replaced by an explicit episode count. [[rome-v-2026-dgbi]]
+- **Diagnostic threshold changed in [[rome-v-2026-dgbi|Rome V]] (2026):** FI (DGBI category **F1**) now requires **"two or more episodes of uncontrolled passage of fecal material"**, replacing Rome IV's qualitative **"recurrent uncontrolled passage"** — the stated purpose is to give the diagnosis an explicit **threshold frequency**. [[rome-v-2026-dgbi]]
   - ⚠ The **time window** over which the ≥2 episodes must occur is not stated in the ingested Rome V source and is deliberately not supplied here.
+- **Rome V also added anorectal sensory dysfunction disorders (F4)** alongside FI: **F4b rectal hypersensitivity** presents with **increased urge to defecate** and prolonged/frequent toilet times, and **F4a rectal hyposensitivity** with a blunted urge — both are diagnosed by **rectal sensitivity testing** and treated with **balloon sensory training**, so an abnormal rectal sensation on ARM is a treatable finding, not an incidental one. Overview and the criteria gap: [[defecation-disorders]]. [[rome-v-2026-dgbi]]
 
 **Prevalence:** 2.2–25% community; ~9% age-adjusted in US. **Significantly underreported** — physicians must actively ask, particularly in patients with predisposing conditions.
 

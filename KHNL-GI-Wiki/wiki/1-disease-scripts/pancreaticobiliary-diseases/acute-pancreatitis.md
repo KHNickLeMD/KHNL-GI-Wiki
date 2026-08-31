@@ -3,7 +3,7 @@ title: "Acute Pancreatitis"
 category: disease-script
 tags: [pancreatitis, acute-pancreatitis, hpb, gallstone-pancreatitis, necrotizing-pancreatitis, ercp, bisap, fluid-resuscitation, nutrition]
 created: 2026-05-07
-updated: 2026-08-30
+updated: 2026-08-31
 sources: [acg-2024-acute-pancreatitis, asge-2016-pancreatic-fluid-collections, asge-2015-benign-pancreatic-disease, demadaria-2022-waterfall, aga-2024-pregnancy-gi-liver, aga-2022-recurrent-pancreatitis-endoscopy, asge-2023-post-ercp-pancreatitis, aga-2020-cpu-pancreatic-necrosis]
 ---
 
@@ -152,7 +152,7 @@ sources: [acg-2024-acute-pancreatitis, asge-2016-pancreatic-fluid-collections, a
 - CT and MRI are **comparable in the early assessment of AP**.
 - MRI advantages: **contrast allergy and renal insufficiency** (necrosis can be diagnosed on non-gadolinium T2-weighted images), and more accurate detection of **CBD stones and pancreatic duct disruption**. Disadvantages: more expensive, time-consuming, difficult in claustrophobic patients.
 
-**EUS — preferred test for unexplained/idiopathic AP (AGA 2022, BPA 1):**
+**EUS — preferred test for unexplained/idiopathic AP** ([[aga-2022-recurrent-pancreatitis-endoscopy|AGA 2022]], BPA 1):
 
 - Etiology remains unexplained in **16–27%** of AP despite standard workup (history, meds, labs incl. TG/Ca, noninvasive imaging).
 - **EUS is the preferred diagnostic test after an unrevealing initial evaluation** — uncovers a potential etiology in **29–88%**; most common finding is **occult biliary lithiasis / microlithiasis**. Also detects [[ampullary-adenoma|ampullary lesions]], [[pancreatic-cysts|IPMN]], small tumors, [[chronic-pancreatitis|early CP]].

@@ -78,8 +78,18 @@ Predicts mortality without LT; uses Bilirubin + INR + AST + WBC + Albumin:
 | ATP7B mutation analysis: Both chromosomes mutated | 4 |
 | One chromosome mutated | 1 |
 | No mutation detected | 0 |
+| *Any parameter not available* | 0 |
 
-**Score interpretation:** Sum ≥4 = WD highly likely; 2–3 = probable, further evaluation required; 0–1 = unlikely.
+**Score interpretation:** Sum **≥4** = WD highly likely; **2–3** = probable, do more investigations; **0–1** = unlikely.
+
+**Reference values needed to actually score it** (Table 7 footnotes, [[aasld-2022-wilson-disease]]):
+
+- **24-h urinary copper ULN = 40 μg/day** — the multiples above (1–2× ULN, >2× ULN) are taken against this modified ULN. It was first revised for children; accruing experience shows it is appropriate for adults too
+- **D-penicillamine challenge protocol:** 2 × 500 mg, urinary copper measured **1 day after**. ⚠ AASLD flags that the >500 μg/day cut point **"is likely not stringent enough"** — the original Leipzig publication used **>1,600 μg/24 h**
+- **Ceruloplasmin LLN = 20 mg/dl by nephelometric assay**; different values apply if measured by oxidase assay (rarely available clinically)
+- **Liver copper ULN = 50 μg/g dry weight**, so "up to 5× ULN" = 50–250 μg/g and ">5× ULN" = >250 μg/g
+- Liver biopsy is **not mandatory** for diagnosis in patients with exclusively neurological findings
+- ⚠ **Certain WD mimics can reach a "diagnostic" Leipzig score** — see *Genetic mimics of WD* below before accepting a ≥4
 
 ---
 
@@ -104,7 +114,8 @@ Predicts mortality without LT; uses Bilirubin + INR + AST + WBC + Albumin:
 
 | Test | Interpretation |
 |---|---|
-| **Serum ceruloplasmin** | Low (<20 mg/dl) suggests WD; <5 mg/dl = strongly suggestive. Normal does NOT exclude WD (elevated as acute-phase reactant in inflammation, estrogen therapy, pregnancy). Immunoassays overestimate (detect apoceruloplasmin + holoceruloplasmin). (GS 7) |
+| **Serum ceruloplasmin** | **The cutoff you pick changes the answer** — <20 mg/dl has PPV only **48.3%** (NPV 98.7%); **<14 mg/dl** has PPV **100%**, NPV 97.1%, and hit **100% sensitivity and specificity** in the validation cohort (every simple heterozygote with a subnormal value was >14); **<10 mg/dl** PPV 100%, NPV 91.9% and is the informative cutoff **used by the Leipzig score**; some regard **<5 mg/dl** as highly informative. Normal does NOT exclude WD (acute-phase reactant — rises with inflammation, estrogen therapy, pregnancy). Immunoassays overestimate (detect apoceruloplasmin + holoceruloplasmin). (GS 7) |
+| **Non-ceruloplasmin-bound copper (NCC)** | The bioavailable/exchangeable fraction; **never validated as a diagnostic test**, but it is the monitoring target under [[#Treatment Monitoring Targets (Table 10, GS 21–24)]]. Estimate: **NCC (μg/dl) = serum copper (μg/dl) − 3.15 × ceruloplasmin (mg/dl)** (ceruloplasmin carries ≈3.15 μg copper per mg). Calculated NCC has significant limitations. Normal/high serum copper *despite* low ceruloplasmin (typical of WD with liver injury) implies raised NCC |
 | **Basal 24-h urinary copper** | Symptomatic WD: typically >100 μg/24h (>1.6 μmol/24h). Asymptomatic/children: >40 μg/24h (>0.6 μmol/24h) warrants further investigation. Normal range laboratories: 10–15 μg/24h. In ALF: serum copper usually >200 μg/dl. (GS 8) |
 | **KF rings (slit-lamp exam)** | Copper in Descemet's membrane; golden-brown pigment at limbus. Present in: ~95–100% neurologic WD, ~44–62% hepatic WD at diagnosis, rarely in children with liver disease. NOT pathognomonic — also in [[primary-biliary-cholangitis\|primary biliary cholangitis]] (rare). Absent KF rings do NOT exclude WD. |
 | **[[liver-biopsy\|Liver biopsy]]** | Hepatic parenchymal copper >250 μg/g DW: occurs in most WD; <50 μg/g DW in untreated patient = excludes WD. Intermediate (50–250 μg/g) = prompt other testing. Histologic changes range from steatosis to cirrhosis; may look identical to AIH. EM of mitochondria: characteristic ultrastructural changes. (GS 9) |

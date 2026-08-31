@@ -3,7 +3,7 @@ title: "Colonic Diverticulitis"
 category: disease-script
 tags: [diverticulitis, diverticular-disease, colorectal, antibiotics, hinchey, scad, sudd]
 created: 2026-07-23
-updated: 2026-08-27
+updated: 2026-08-31
 sources: [acg-2026-diverticulitis]
 ---
 
@@ -24,6 +24,8 @@ Inflammation in and around a colonic diverticulum. Lifetime risk ~3% (men) / 5% 
   - [[#Preventing recurrence]]
   - [[#Elective surgery]]
   - [[#What does NOT work]]
+- [[#See Also]]
+- [[#Sources]]
 
 ---
 
@@ -82,7 +84,7 @@ Inflammation in and around a colonic diverticulum. Lifetime risk ~3% (men) / 5% 
 
 - **CT abdomen/pelvis** — primary confirmatory test (see Assessment); grades modified Hinchey stage.
 - **CRP** — supports diagnosis and stratifies risk (**>140 mg/L** = high-risk feature).
-- **[[colonoscopy|Colonoscopy]]** — *not* for acute diagnosis; role is post-recovery cancer exclusion, **6–8 weeks after** the episode (see Therapeutics). Earlier scoping risks incomplete exam (3.7%) and perforation (0.2%).
+- **[[colonoscopy|Colonoscopy]]** — *not* for acute diagnosis; role is post-recovery cancer exclusion, and it should **not be performed within 6–8 weeks** of the episode (see Therapeutics). Earlier scoping risks incomplete exam (3.7%, 95% CI 2.7–4.9) and perforation (0.2%).
 
 ---
 

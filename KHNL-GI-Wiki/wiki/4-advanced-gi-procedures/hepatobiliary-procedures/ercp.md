@@ -3,11 +3,20 @@ title: "ERCP (Endoscopic Retrograde Cholangiopancreatography)"
 category: advanced-procedure
 tags: [ercp, biliary, pancreatic, hepatobiliary, sphincterotomy, stent, stone-extraction]
 created: 2026-05-16
-updated: 2026-08-27
-sources: [asge-2024-therapeutic-eus-biliary, asge-2023-post-ercp-pancreatitis, asge-2021-cholangitis, asge-2019-choledocholithiasis, asge-2023-post-transplant-biliary-strictures, asge-2015-ercp-benign-biliary, aga-2024-pregnancy-gi-liver, aga-2022-recurrent-pancreatitis-endoscopy, jagtap-2026-urgent-vs-early-ercp-cholangitis, aloysius-2026-ercp-timing-septic-shock-cholangitis]
+updated: 2026-08-31
+sources: [asge-2024-therapeutic-eus-biliary, asge-2024-chronic-pancreatitis-endoscopy, asge-2023-post-ercp-pancreatitis, asge-2021-cholangitis, asge-2019-choledocholithiasis, asge-2023-post-transplant-biliary-strictures, asge-2015-ercp-benign-biliary, aga-2024-pregnancy-gi-liver, aga-2022-recurrent-pancreatitis-endoscopy, jagtap-2026-urgent-vs-early-ercp-cholangitis, aloysius-2026-ercp-timing-septic-shock-cholangitis]
 ---
 
 *Referenced in [[acute-pancreatitis]] (indications/timing) and [[biliary-stricture]] (tissue sampling, drainage). See [[endoscopic-ultrasound]] for combined EUS+ERCP approach. Now almost exclusively therapeutic — successful cholangiography with relief of obstruction is achievable in >90% of patients [[asge-2015-ercp-benign-biliary]].*
+
+## Contents
+- [[#Indications]]
+- [[#Key Concepts]]
+- [[#Complications]]
+- [[#ERCP in Pregnancy]]
+- [[#Quality Metrics]]
+- [[#See Also]]
+- [[#Sources]]
 
 ## Indications
 
@@ -32,10 +41,11 @@ sources: [asge-2024-therapeutic-eus-biliary, asge-2023-post-ercp-pancreatitis, a
 - **[[recurrent-acute-pancreatitis|Recurrent acute pancreatitis]] — role of ERCP to reduce AP frequency is controversial** (AGA 2022; not a routine diagnostic step):
   - **[[pancreas-divisum|Pancreas divisum]]:** minor papilla endotherapy (sphincterotomy ± dilation/stent) may be considered mainly with **objective outflow obstruction** (dilated dorsal duct and/or santorinicele); **no role for pain alone** (BPA 2). Risks: PEP 10–15%, minor-papilla stenosis up to 19%.
   - **Standard ductal anatomy:** only after shared decision-making about uncertain benefit and severe AE risk; **biliary sphincterotomy alone may be preferable to dual sphincterotomy** (BPA 3).
-- **[[chronic-pancreatitis|Chronic pancreatitis]]** (AGA 2022) — treat symptomatic obstruction:
-  - **MPD stones:** conventional extraction if **≤5 mm**; **ESWL and/or pancreatoscopy-directed lithotripsy** if larger (BPA 5).
-  - **MPD strictures:** prolonged **6–12 mo plastic-stent upsizing** (multiple parallel stents); FCSEMS emerging but higher AE rate (BPA 6). Surgery favored over endoscopy for long-term pain in *obstructive* CP (BPA 4).
-  - **CP-related [[biliary-stricture|benign biliary stricture]]:** ERCP + stent is preferred; **FCSEMS favored over multiple plastic stents** (fewer exchanges) — but avoid FCSEMS covering the cystic duct if gallbladder in situ ([[acute-cholecystitis|cholecystitis]] risk) (BPA 7).
+- **[[chronic-pancreatitis|Chronic pancreatitis]]** ([[asge-2024-chronic-pancreatitis-endoscopy|ASGE 2024]], all conditional) — treat symptomatic obstruction. **Surgical evaluation comes first** in anyone without a contraindication to surgery; ERCP is the initial approach only for the poor operative candidate or the patient who prefers less invasive treatment (Rec 1).
+  - **MPD stones:** strategy is set by **size, location, *and* radiopacity** — radiopaque **>5 mm** in head/neck/body → ERCP ± pancreatoscopy **or** ESWL alone; radiopaque **<5 mm**, any **radiolucent** stone, or an ESWL contraindication → ERCP ± pancreatoscopy; post-ESWL failure to clear despite fragments **<2–3 mm** → ERCP (Rec 3).
+  - **MPD strictures:** place a **single** plastic stent — not multiple — of the **largest safely deployable diameter**, upsizing gradually at **3-monthly** ERCPs; **against routine FCSEMS** for refractory strictures (Rec 4). ⚠ This **supersedes** the older [[aga-2022-recurrent-pancreatitis-endoscopy|AGA 2022]] BPA 6 advice to use multiple parallel stents — contradiction detailed on [[chronic-pancreatitis]].
+  - **CP-related [[biliary-stricture|benign biliary stricture]]:** ERCP + stent; **FCSEMS over multiple plastic stents** (fewer exchanges), treating when symptomatic or unresolved at **4 weeks** — but revert to plastic if the stricture is indeterminate or an FCSEMS would cover the cystic duct with gallbladder in situ ([[acute-cholecystitis|cholecystitis]] risk) (Rec 5).
+  - **CP pseudocyst:** endoscopic over surgical drainage; avoid percutaneous as sole therapy (pancreaticocutaneous fistula) (Rec 6).
 - Pancreatic leak/fistula
 
 **Tissue sampling:**
@@ -50,7 +60,14 @@ sources: [asge-2024-therapeutic-eus-biliary, asge-2023-post-ercp-pancreatitis, a
 - **Difficult stones:** mechanical lithotripsy; **endoscopic papillary large-balloon dilation (EPLBD, ≥12 mm) + sphincterotomy** for large/difficult choledocholithiasis (high clearance, low ~2.3% PEP); peroral [[cholangioscopy]] with electrohydraulic or laser lithotripsy clears 83–100% of difficult extrahepatic stones [[asge-2015-ercp-benign-biliary]]
 - **Benign biliary strictures:** ERCP with dilation + stenting; **fully covered SEMS** an evolving alternative to serial multiple-plastic-stent exchange (larger caliber, longer patency, fewer procedures) [[asge-2015-ercp-benign-biliary]]
 - **Cholangioscopy:** adjunct for difficult stones and for directed biopsy to characterize indeterminate strictures [[asge-2015-ercp-benign-biliary]]
-- **Surgically altered anatomy (Roux-en-Y, Billroth II):** [[device-assisted-enteroscopy|device-assisted (balloon) enteroscopy]]-ERCP or EUS-guided biliary access by experts when standard cannulation fails [[asge-2015-ercp-benign-biliary]]
+- **Surgically altered anatomy — the anatomy picks the first move** ([[asge-2024-therapeutic-eus-biliary|ASGE 2024]]; all conditional). Older guidance offered [[device-assisted-enteroscopy|device-assisted (balloon) enteroscopy]]-ERCP *or* EUS-guided access interchangeably ([[asge-2015-ercp-benign-biliary]]); ASGE 2024 separates the two anatomies:
+
+| Anatomy | First approach | If it fails / exceptions |
+|---|---|---|
+| **Roux-en-Y gastric bypass** | **EDGE** (EUS-directed transgastric ERCP) over enteroscopy-assisted (E-ERCP) or laparoscopy-assisted (LA-ERCP) ERCP — *low quality* | EDGE especially preferred for a suspected ampullary lesion, malignant disease, or when repeat ERCP is expected. **LA-ERCP may be preferred if surgery (e.g. cholecystectomy) is needed in the near future** |
+| **Non–gastric-bypass altered anatomy** — Roux-en-Y hepaticojejunostomy, pancreaticoduodenectomy, Billroth II | **E-ERCP as the initial approach** — *very low quality* | If unsuccessful → **EUS-guided biliary drainage or percutaneous biliary drainage**. **Review the operative report for Roux-limb length** before starting |
+
+- **Failed ERCP in native anatomy:** EUS-guided biliary drainage is suggested **over PTBD** — but the **rendezvous** technique is preferred over EUS-CDS/EUS-HGS in *suspected benign* disease, and **PTBD is preferred** when the patient is **hemodynamically unstable, cannot tolerate general anesthesia, or has suspected malignancy as the cause of obstruction** (or EUS-BD expertise is unavailable). Drainage-route detail lives on [[biliary-stricture]]. ([[asge-2024-therapeutic-eus-biliary]])
 - *Stub — sphincterotomy technique, EST vs. EPBD, biliary vs. pancreatic sphincterotomy, stent types in detail.*
 
 ---
@@ -122,12 +139,13 @@ Benchmarks stated in the ingested sources ([[asge-2015-ercp-benign-biliary]]):
 ## Sources
 
 1. [[asge-2024-therapeutic-eus-biliary|ASGE Guideline: Role of Therapeutic EUS in Biliary Tract Disorders (2024)]]
-2. [[asge-2023-post-ercp-pancreatitis|ASGE Guideline: Post-ERCP Pancreatitis Prevention (2023)]]
-3. [[asge-2021-cholangitis|ASGE Guideline: Management of Acute Cholangitis (2021)]]
-4. [[asge-2019-choledocholithiasis|ASGE Guideline: Endoscopic Management of Choledocholithiasis (2019)]]
-5. [[asge-2023-post-transplant-biliary-strictures|ASGE Guideline on Management of Post–Liver Transplant Biliary Strictures: Summary and Recommendations (2023)]]
-6. [[asge-2015-ercp-benign-biliary|ASGE Guideline: The Role of ERCP in Benign Diseases of the Biliary Tract (2015)]]
-7. [[aga-2024-pregnancy-gi-liver|AGA Clinical Practice Update on Pregnancy-Related Gastrointestinal and Liver Disease: Expert Review]]
-8. [[aga-2022-recurrent-pancreatitis-endoscopy|AGA Clinical Practice Update on the Endoscopic Approach to Recurrent Acute and Chronic Pancreatitis: Expert Review]]
-9. [[jagtap-2026-urgent-vs-early-ercp-cholangitis|Urgent versus Early ERCP in Mild-to-Moderate Acute Cholangitis: A Randomised Controlled Trial (Jagtap 2026)]]
-10. [[aloysius-2026-ercp-timing-septic-shock-cholangitis|Vasopressor-Indexed Timing of ERCP and Survival in Septic Shock from Tokyo Grade III Cholangitis (Aloysius 2026, DDW abstract)]]
+2. [[asge-2024-chronic-pancreatitis-endoscopy|ASGE Guideline: Role of Endoscopy in Management of Chronic Pancreatitis (2024)]]
+3. [[asge-2023-post-ercp-pancreatitis|ASGE Guideline: Post-ERCP Pancreatitis Prevention (2023)]]
+4. [[asge-2021-cholangitis|ASGE Guideline: Management of Acute Cholangitis (2021)]]
+5. [[asge-2019-choledocholithiasis|ASGE Guideline: Endoscopic Management of Choledocholithiasis (2019)]]
+6. [[asge-2023-post-transplant-biliary-strictures|ASGE Guideline on Management of Post–Liver Transplant Biliary Strictures: Summary and Recommendations (2023)]]
+7. [[asge-2015-ercp-benign-biliary|ASGE Guideline: The Role of ERCP in Benign Diseases of the Biliary Tract (2015)]]
+8. [[aga-2024-pregnancy-gi-liver|AGA Clinical Practice Update on Pregnancy-Related Gastrointestinal and Liver Disease: Expert Review]]
+9. [[aga-2022-recurrent-pancreatitis-endoscopy|AGA Clinical Practice Update on the Endoscopic Approach to Recurrent Acute and Chronic Pancreatitis: Expert Review]]
+10. [[jagtap-2026-urgent-vs-early-ercp-cholangitis|Urgent versus Early ERCP in Mild-to-Moderate Acute Cholangitis: A Randomised Controlled Trial (Jagtap 2026)]]
+11. [[aloysius-2026-ercp-timing-septic-shock-cholangitis|Vasopressor-Indexed Timing of ERCP and Survival in Septic Shock from Tokyo Grade III Cholangitis (Aloysius 2026, DDW abstract)]]

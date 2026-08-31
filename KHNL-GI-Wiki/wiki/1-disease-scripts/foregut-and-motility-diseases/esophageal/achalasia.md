@@ -14,7 +14,7 @@ sources: [acg-2020-achalasia, asge-2020-achalasia, sages-2021-poem, sages-2024-p
 
 - Progressive dysphagia to both solids and liquids (key distinguishing feature from mechanical obstruction)
 - Regurgitation of undigested food
-- Chest pain, heartburn (27–42% — frequently misdiagnosed as [[gerd|GERD]])
+- **Heartburn in 27–42%** — the reason patients are frequently misdiagnosed as [[gerd|GERD]] and started on PPI; chest pain also common
 - Weight loss / nutritional deficiency
 
 > **Recommendation:** Patients suspected of [[gerd|GERD]] who do not respond to acid-suppressive therapy should be evaluated for achalasia. (Strong; Very low evidence)
@@ -57,9 +57,12 @@ All subtypes share **impaired EGJ relaxation**; distinguished by esophageal body
 
 | Subtype | Prevalence | Pattern | Outcomes | Treatment Implication |
 |---------|-----------|---------|----------|----------------------|
-| **Type I** | 20–40% | 100% aperistalsis, **no** panesophageal pressurization | Good ([[heller-myotomy\|LHM]] 81%, PD comparable) | PD, LHM, or [[poem\|POEM]] |
-| **Type II** | 50–70% (most common) | 100% aperistalsis + **panesophageal pressurization >30 mmHg** | Best outcomes of all subtypes | PD, LHM, or [[poem\|POEM]] — any works well |
-| **Type III** | 5% (least common) | **Spastic contractions** ± panesophageal pressurization | Worst with LES-only therapies (LHM 71%, PD 40%) | POEM preferred (93% success); tailored long myotomy |
+| **Type I** | 20–40% (2nd most common) | 100% aperistalsis, **no** panesophageal pressurization | [[heller-myotomy\|LHM]] 81% | PD, LHM, or [[poem\|POEM]] |
+| **Type II** | 50–70% (most common) | 100% aperistalsis + **panesophageal pressurization >30 mmHg** (CCv4.0: in **≥20% of swallows**) | LHM 92% — best of all subtypes | PD, LHM, or [[poem\|POEM]] — any works well |
+| **Type III** | 5% (least common) | **Premature/spastic contractions** (CCv4.0: **≥20% of swallows**, *no* evidence of normal peristalsis) ± panesophageal pressurization | Worst with LES-only therapy — LHM **71%** vs POEM **93%** (OR 3.50, 1.39–8.77; P=0.007) | POEM preferred; tailored long myotomy |
+
+- Subtype success rates for types I/II/III (81% / 92% / 71%) come from **one meta-analysis of 1,575 patients, all LHM** ([[acg-2020-achalasia]]) — they are not head-to-head vs PD.
+- The only ingested **PD**-specific type III figure is a separate 18-patient subgroup of the European achalasia trial: **LHM 86% vs PD 40%, P=0.12 — not statistically significant** (underpowered). Do not quote 40% against the 71% above; they are different studies.
 
 ![[achalasia-2020-chicago-subtypes-05.png|700x183]]
 *Figure 2 — High-resolution manometry of achalasia phenotypes. Type I (left): aperistalsis without esophageal pressurization. Type II (middle): aperistalsis with panesophageal pressurization. Type III (right): premature/spastic contractions. ([[acg-2020-achalasia]])*
@@ -148,7 +151,10 @@ flowchart TD
 - **GERD after PD 15–35%** → [[proton-pump-inhibitors|PPI]]; recurrent dysphagia may be a reflux stricture rather than recurrent achalasia
 - **Full technique, inflation parameters, post-procedure care, perforation management, and retreatment: [[pneumatic-dilation]].**
 
-> **Recommendation:** Serial PD is the most effective non-surgical treatment. Superior to botulinum toxin. Equivalent to LHM at 5 years. (Strong; High evidence)
+> **Recommendation (ACG 2020 Rec 14):** *"We recommend that PD or LHM are both effective and equivalent short- and long-term procedures for patients with achalasia who are candidates to undergo definitive therapy."* (Strong; **High** evidence)
+>
+> - The European RCT behind it (n=201): PD vs LHM **86% vs 90% at 2 years** (P=0.3) and **84% vs 82% at 5 years** (P=0.9).
+> - Separately, ACG recommends **PD superior to botulinum toxin** for long-term relief, and **LHM over botulinum toxin** in patients fit for surgery (Strong; Moderate).
 
 **The numbers behind "superior to botulinum toxin"** — pooled RCT data, and note the gap *widens* with time ([[asge-2020-achalasia]]):
 

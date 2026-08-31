@@ -3,7 +3,7 @@ title: "Alcohol-Associated Liver Disease"
 category: disease-script
 tags: [ald, alcoholic-hepatitis, cirrhosis, liver, hpb, aud, corticosteroids, liver-transplant, lille-score, meld, mdf, nac, pentoxifylline, transplant-candidate-evaluation, post-transplant, recurrence, naltrexone, acamprosate, baclofen, peth, stopah]
 created: 2026-05-07
-updated: 2026-08-27
+updated: 2026-08-31
 sources: [acg-2024-ald, acg-2017-liver-chemistries, aasld-ast-2025-liver-transplant-candidate-evaluation, aasld-ast-2025-liver-transplant-graft-complications, aasld-2020-ald, acg-2019-hereditary-hemochromatosis, lee-2018-accelerate-ah]
 ---
 
@@ -18,6 +18,7 @@ sources: [acg-2024-ald, acg-2017-liver-chemistries, aasld-ast-2025-liver-transpl
   - [[#Laboratory Panel]]
   - [[#Alcohol Use Screening and Biomarkers]]
   - [[#Imaging]]
+  - [[#Fibrosis Assessment (Noninvasive Tests)]]
   - [[#Liver Biopsy]]
   - [[#AKI in AH]]
   - [[#Genetic Susceptibility Factors]]
@@ -105,7 +106,7 @@ sources: [acg-2024-ald, acg-2017-liver-chemistries, aasld-ast-2025-liver-transpl
 - **GAHS** (Glasgow AH Score): ≥9 with MDF ≥32 initiates corticosteroids; improves specificity; not validated outside UK [[aasld-2020-ald]]
 - ⚠ **Decision gap — the point/weighting formulas for ABIC and GAHS are not in any ingested source.** [[aasld-2020-ald]] names the variables and the cutoffs but does not reproduce the coefficients, so neither score can be *computed* from this page. Use an external calculator, or ingest the original ABIC and GAHS derivation papers — do not reconstruct the formulas from memory.
 
-**Lille score** — assess response at **day 7 or day 4** of prednisolone (ACG 2024 Rec 27) [[acg-2024-ald]]:
+**Lille score** — assess response at **day 7 or day 4** of prednisolone (ACG 2024 **Key concept 27**) [[acg-2024-ald]]:
 
 - Incorporates age, creatinine, albumin, PT, bilirubin at day 0 and day 7
 - **Lille >0.45 = non-responder** → discontinue prednisolone
@@ -174,8 +175,23 @@ AASLD 2020 GS-1: *"All patients receiving care in primary care and gastroenterol
 - **CT abdomen with contrast:** evaluate for complications ([[ascites]], [[portal-vein-thrombosis|portal vein thrombosis]]), mass lesions; not required routinely
 - **[[mri-mrcp|MRCP]]:** if biliary obstruction suspected
 
+### Fibrosis Assessment (Noninvasive Tests)
+
+**Stage fibrosis noninvasively in asymptomatic ALD — do not default to biopsy** ([[acg-2024-ald]] Key concepts 13–16):
+
+| NIT | Performance in ALD | Caveat |
+|---|---|---|
+| **FIB-4** (blood, non-patented) | Sensitivity **80–90%**, specificity **60–70%** for excluding advanced fibrosis (F3–4) | Active alcohol use lowers platelets → degrades FIB-4 accuracy |
+| **[[liver-stiffness-measurement\|VCTE / transient elastography]]** | **LSM ≥12.1 kPa** identifies advanced fibrosis (F3–F4), AUROC 0.90 (95% CI 0.86–0.94; IPD meta-analysis, n=1,026) | **AST >200 IU/L and/or elevated bilirubin overestimate LSM** — active steatohepatitis inflates the reading |
+| ELF score, FibroTest (patented) | Higher specificity **80–90%** | Costly, limited availability; ELF less validated in ALD than in [[hepatitis-c\|HCV]]/[[nafld-masld\|MASLD]] |
+
+- FIB-4 + transient elastography are the **best initial NITs** in ALD (Key concept 13)
+- Any NIT evidence of ALD in a heavy drinker → counsel on progression risk and refer to a liver-disease provider (Key concept 14)
+- NIT screening of heavy drinkers for early ALD is **cost-effective** (Key concept 16)
+
 ### Liver Biopsy
 
+- **Not required for fibrosis staging** — reserve for diagnostic uncertainty on noninvasive assessment ([[acg-2024-ald]] Key concept 15)
 - Not routinely required if clinical AH criteria met (probable AH per AASLD 2020 criteria)
 - Indicated when: diagnosis uncertain or confounding factors present (possible AH category), atypical features, pre-transplant evaluation in unclear cases
 - *Note: coagulopathy and thrombocytopenia may require transjugular approach*
@@ -228,15 +244,23 @@ ALD risk is influenced by genetic variants in lipid metabolism and alcohol oxida
 
 - AASLD 2020 GS-15: *"The addition of intravenous NAC to prednisolone (40 mg/day) may improve the 30-day survival of patients with severe AH."*
 - Evidence: Nguyen-Khac RCT — prednisolone + IV NAC improved 1-month survival vs. prednisolone + placebo (8% vs. 24% mortality; P=0.006); no benefit at 3 or 6 months. Network meta-analysis (22 RCTs, n=2,621): NAC addition RR 0.28 (95% CI 0.10–0.69).
-- **AASLD 2020 classifies NAC as "potential benefit" — promising but requires further validation.** ACG 2024 supports its use more strongly. Both guidelines agree on IV NAC addition to prednisolone.
+- **AASLD 2020 classifies NAC as "potential benefit" — promising but requires further validation.** [[acg-2024-ald]] is firmer: **Rec 20 — *"We recommend use of IV N-acetylcysteine as an adjuvant to corticosteroids in patients with severe AH"* (strong recommendation, moderate level of evidence)**. Both guidelines agree on IV NAC addition to prednisolone; the newer ACG grading governs.
 - Dosing (hepatoprotective): Day 1: 150 mg/kg over 1h → 12.5 mg/kg/h × 4h → 6.25 mg/kg/h × 16h; continue reduced infusion for 5 days total
 
 **Pentoxifylline: explicitly abandoned** [[aasld-2020-ald]]:
 
 - AASLD 2020 GS-19: *"Pentoxifylline is no longer recommended in the treatment of AH."*
 - STOPAH trial: no survival benefit at any time point. IPD meta-analysis of individual patient data and two French rescue trials all failed to demonstrate benefit. *This is a major change from the 2010 AASLD guideline, which recommended pentoxifylline.*
+- [[acg-2024-ald]] **Rec 18** concurs: *"We recommend against the use of pentoxifylline for individuals with severe AH"* (strong recommendation, moderate level of evidence)
 
-**Assess response with the [[#Severity Assessment|Lille score]] at day 4 or 7.** Non-response (>0.45) → stop prednisolone; consider early LT referral or palliative care. **Four or more organ failures + steroid non-response + ineligible for early LT → engage palliative care** (ACG 2024 Rec 28). [[acg-2024-ald]]
+**Antibiotic prophylaxis — do not give it universally** ([[acg-2024-ald]] **Rec 15**, *strong recommendation, moderate level of evidence*):
+
+- *"In hospitalized patients with severe AH, we recommend against universal administration of prophylactic antibiotics."*
+- Trial basis: prednisolone + antibiotic vs prednisolone + placebo × 30 days — antibiotics lowered cumulative infection (42 vs 59 events; HR 0.616, P=0.015) but did **not** change 60-day mortality (24 vs 31 deaths; HR 0.769, 95% CI 0.451–1.31). Treat documented infection; do not prophylax by default.
+
+**G-CSF and microbiome-based therapies — unresolved** ([[acg-2024-ald]] **Rec 19**, *conditional, moderate*): *"There are insufficient data to determine the role of granulocyte colony stimulating factor and microbiome-based therapies in the treatment of severe AH."*
+
+**Assess response with the [[#Severity Assessment|Lille score]] at day 4 or 7.** Non-response (>0.45) → stop prednisolone; consider early LT referral or palliative care. **Four or more organ failures + steroid non-response + ineligible for early LT → engage palliative care** (ACG 2024 **Key concept 28**). [[acg-2024-ald]]
 
 ### 2. Moderate AH (MELD ≤20)
 
@@ -248,11 +272,12 @@ ALD risk is influenced by genetic variants in lipid metabolism and alcohol oxida
 
 AASLD 2020 GS-17: *"Patients with AH should have malnutrition addressed and treated, preferably with enteral nutrition."* [[aasld-2020-ald]]
 
-- [[nutrition-in-liver-disease|Malnutrition]] is near-universal in AH; daily caloric intake <21.5 kcal/kg/day associated with increased infection and 6-month mortality (65.8% vs. 33.1%; P<0.0001)
-- **Enteral nutrition goal: >21 kcal/kg/day** (per AASLD 2020 treatment algorithm Fig. 3)
-- High-calorie, high-protein [[enteral-access|enteral nutrition]] preferred (1.2–1.5 g/kg/day protein); NG tube if oral intake inadequate
+- [[nutrition-in-liver-disease|Malnutrition]] is near-universal in AH; daily caloric intake <21.5 kcal/kg/day associated with increased infection and 6-month mortality (62.9% vs. 34.2%; P<0.001)
+- **Caloric goal: 35 kcal/kg/day with 1.2–1.5 g/kg/day protein** ([[acg-2024-ald]] Key concept 24). Patients taking **<21 kcal/kg/day** must receive nutritional support, preferably by oral/enteral route
+  - ⚠ **What changed:** the older AASLD 2020 algorithm framed the target as simply *>21 kcal/kg/day*. ACG 2024 (newer, tier 1) sets the goal at **35 kcal/kg/day** and reserves 21 as the *floor* that triggers support. ACG's goal is extrapolated from critical-illness populations, not AH-specific trials
+- **Escalation order** ([[acg-2024-ald]] **Rec 16**, *strong, moderate*): malnourished or unable to meet calories on oral diet alone → add **oral nutritional supplements**; still short despite ONS → **[[enteral-access|enteral nutrition]] support**. NG tube if oral intake inadequate; feeding tubes can be placed safely with esophageal varices that are not actively bleeding and were not recently banded. TPN only if enteral feeding contraindicated (no short-term survival advantage)
 - *Intensive EN compared with conventional nutrition in the STOPAH setting showed no additional survival benefit and poor NG tube tolerance — high-quality intensive EN does not replace corticosteroids*
-- **Zinc** supplementation should be considered in moderate-severe AH (zinc deficiency near-universal in chronic alcohol use; zinc supports gut mucosal barrier)
+- **Thiamine, vitamin B12, and zinc** deficiencies are common in AH and **should be supplemented** ([[acg-2024-ald]] Key concept 25). 85% of AH patients are zinc-deficient; zinc deficiency independently predicted 28-day mortality (OR 10.6 per 1 µmol/L fall in serum zinc)
 - Antioxidant supplements (vitamins A, C, E, selenium, beta-carotene): meta-analysis showed no benefit; antioxidant arm had worse outcomes in one comparison — do NOT use routine antioxidant supplementation [[aasld-2020-ald]]
 - Correct electrolyte deficiencies (thiamine IV before dextrose; magnesium, zinc, phosphorus)
 - **Thiamine (vitamin B1) IV:** administer before any glucose-containing fluids to prevent Wernicke encephalopathy
@@ -275,6 +300,18 @@ All ALD patients should receive AUD treatment [[acg-2024-ald]], [[aasld-2020-ald
 | **Gabapentin** | 600–1,800 mg/day | Renal 75% | Not studied in ALD | Monitor for renal dysfunction and sedation |
 | **Topiramate** | 75–400 mg/day | Not extensively metabolized | Not studied in ALD | — |
 | **Disulfiram** | — | Hepatic | Risk of fulminant hepatitis | **Avoid in any liver disease** — not listed in AASLD 2020 relapse prevention table |
+
+**ACG 2024 GRADE ratings — note the population qualifier is *compensated* ALD** [[acg-2024-ald]]:
+
+| Agent | ACG 2024 statement | Strength / evidence |
+|---|---|---|
+| Baclofen | Rec 9 — recommend as an option in **compensated ALD** | Strong / moderate |
+| Acamprosate or naltrexone | Rec 10 — suggest as an option in **compensated ALD** | Conditional / very low |
+| Gabapentin or topiramate | Rec 11 — suggest as an option in **compensated ALD** (off-label) | Conditional / very low |
+| Disulfiram | Rec 12 — suggest **against**, across the whole ALD spectrum | Conditional / very low |
+
+- Naltrexone (both short- and long-acting) may be used in **early ALD and compensated cirrhosis**, but must be **avoided in decompensated cirrhosis or liver failure**, and used cautiously in kidney disease. **No data** on acamprosate or naltrexone duration, or on their use in AH
+- **Alcohol withdrawal syndrome:** assess and manage per the **CIWA-Ar** protocol; differentiate from [[hepatic-encephalopathy|hepatic encephalopathy]] — the two can coexist (Key concept 12). For **severe** AWS, benzodiazepines are the treatment of choice but require **cautious use and careful monitoring** given their potential to precipitate or worsen HE (Rec 13, *strong / moderate*)
 
 - Behavioral therapy: essential component; motivational interviewing (MI) has evidence for changing alcohol behavior; AA/mutual aid societies
 - Integrated AUD treatment alongside medical providers in the liver clinic (not just referral outside) improves abstinence rates
