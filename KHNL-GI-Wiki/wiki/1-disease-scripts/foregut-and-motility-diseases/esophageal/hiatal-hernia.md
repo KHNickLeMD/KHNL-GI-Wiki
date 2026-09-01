@@ -3,7 +3,7 @@ title: "Hiatal Hernia"
 category: disease-script
 tags: [hiatal-hernia, gerd, foregut, ge-junction, hill-grade, antireflux-surgery, tif, ctif, cameron-lesions]
 created: 2026-08-29
-updated: 2026-08-30
+updated: 2026-09-01
 sources: [asge-2024-gerd, acg-2021-gerd, afs-2023-transoral-incisionless-fundoplication, acg-2020-esophageal-physiologic-testing, sages-2021-gerd-surgery]
 ---
 
@@ -72,7 +72,7 @@ Diagnosed anatomically, and in practice as part of a [[gerd|GERD]] evaluation â€
 |---|---|---|
 | **[[upper-endoscopy\|EGD]]** | Axial length in cm; Hill grade forward + retroflexed; GEJ landmarks; coexisting esophagitis, [[barretts-esophagus\|Barrett's]], stricture | [[asge-2024-gerd]] |
 | **Barium esophagram** | Presence, size, and type of hernia; **alerts to a short esophagus** | [[afs-2023-transoral-incisionless-fundoplication]] |
-| **[[high-resolution-manometry\|HRM]]** | Most sensitive detection (94.3% / 91.5%); mandatory before any antireflux procedure to exclude [[achalasia]] and absent contractility | [[acg-2020-esophageal-physiologic-testing]], [[acg-2021-gerd]] |
+| **[[high-resolution-manometry\|HRM]]** | Most sensitive detection (94.3% / 91.5%); mandatory before any antireflux procedure to exclude [[achalasia]] and absent contractility (criteria: [[chicago-classification-v4\|Chicago Classification v4.0]]) | [[acg-2020-esophageal-physiologic-testing]], [[acg-2021-gerd]] |
 | **[[ambulatory-reflux-monitoring\|pH monitoring off PPI]]** | Objective GERD confirmation â€” required before procedural therapy unless LA C/D esophagitis or long-segment Barrett's is present | [[afs-2023-transoral-incisionless-fundoplication]] |
 
 > **Sourcing gap â€” Cameron lesions.** Erosions at the diaphragmatic hiatus in a hiatal hernia are a recognised cause of occult blood loss and [[iron-deficiency-anemia|iron-deficiency anemia]] (they are listed on [[upper-gi-bleeding]]), but **the term appears in no ingested source** â€” not in [[asge-2024-gerd]], [[acg-2021-gerd]], [[afs-2023-transoral-incisionless-fundoplication]], [[sages-2021-gerd-surgery]], [[acg-2020-esophageal-physiologic-testing]], nor in the ingested UGIB, small-bowel-bleeding, or iron-deficiency-anemia guidelines. Their appearance, bleeding phenotype, prevalence, and management are therefore **deliberately not asserted here**. Closing this needs a hiatal-hernia guideline or a UGIB/IDA source that covers them.
@@ -104,7 +104,7 @@ Diagnosed anatomically, and in practice as part of a [[gerd|GERD]] evaluation â€
 
 ## See Also
 
-[[gerd]], [[antireflux-surgery]], [[reflux-testing]], [[upper-endoscopy]], [[high-resolution-manometry]], [[ambulatory-reflux-monitoring]], [[barretts-esophagus]], [[achalasia]], [[esophagogastric-junction-outflow-obstruction]], [[hrm-antireflux-surgery]], [[dysphagia]], [[upper-gi-bleeding]], [[iron-deficiency-anemia]], [[flip-panometry]]
+[[gerd]], [[antireflux-surgery]], [[reflux-testing]], [[upper-endoscopy]], [[high-resolution-manometry]], [[ambulatory-reflux-monitoring]], [[barretts-esophagus]], [[achalasia]], [[esophagogastric-junction-outflow-obstruction]], [[hrm-antireflux-surgery]], [[chicago-classification-v4]], [[dysphagia]], [[upper-gi-bleeding]], [[iron-deficiency-anemia]], [[flip-panometry]]
 
 ---
 

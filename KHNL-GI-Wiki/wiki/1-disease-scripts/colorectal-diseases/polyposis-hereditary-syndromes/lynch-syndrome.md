@@ -3,9 +3,28 @@ title: "Lynch Syndrome"
 category: disease-script
 tags: [lynch, hnpcc, mmr, msi, hereditary-crc, endometrial-cancer, oncology, genetic-testing, colorectal-cancer]
 created: 2026-05-19
-updated: 2026-08-30
+updated: 2026-09-01
 sources: [acg-2015-hereditary-gi-cancer, usmstf-2014-lynch-syndrome, usmstf-2017-bmmrd]
 ---
+
+## Contents
+- [[#Assessment]]
+  - [[#Establishing the Diagnosis]]
+  - [[#Severity Assessment]]
+  - [[#Classification / Typing]]
+- [[#Differential Diagnosis]]
+- [[#Diagnostics]]
+  - [[#Tumor Testing]]
+  - [[#Germline Testing]]
+  - [[#Relevant Risk Prediction Tools]]
+- [[#Therapeutics]]
+  - [[#Colorectal Cancer Surveillance and Prevention]]
+  - [[#Extracolonic Cancer Surveillance]]
+  - [[#Chemoprevention]]
+  - [[#Advanced/Metastatic Disease]]
+  - [[#Genetic Counseling]]
+- [[#See Also]]
+- [[#Sources]]
 
 ## Assessment
 
@@ -22,7 +41,14 @@ Lynch syndrome (LS), formerly hereditary nonpolyposis [[colorectal-cancer|colore
 
 **Clinical criteria (historical)**:
 
-- Amsterdam II criteria (all must be present): ≥3 relatives with LS-associated cancer (CRC, endometrial, small bowel, ureter/renal pelvis), **one a first-degree relative of the other two**; ≥2 successive generations affected; ≥1 relative diagnosed <50; FAP excluded in the CRC case(s) (if any); tumors verified pathologically whenever possible
+- **Amsterdam criteria I** — the original 1990 International Collaborative Group criteria; **colorectal cancer only**. *All* must be present ([[acg-2015-hereditary-gi-cancer]] Table 4; [[usmstf-2014-lynch-syndrome]] Table 5):
+  - **≥3 relatives with colorectal cancer**, **one a first-degree relative of the other two**
+  - **≥2 successive generations** affected
+  - **≥1** of the CRCs diagnosed **before age 50**
+  - **FAP excluded**
+  - Tumours **verified by pathologic examination**
+- **Amsterdam criteria II** — same five-part structure, with **one change**: the qualifying tumour widens from CRC alone to **any LS-associated cancer** (CRC, endometrial, small bowel, ureter/renal pelvis). All must be present: ≥3 relatives with an LS-associated cancer, **one a first-degree relative of the other two**; ≥2 successive generations affected; ≥1 relative diagnosed <50; FAP excluded in the CRC case(s) (if any); tumors verified pathologically whenever possible
+  - Both are **highly specific but poorly sensitive** — Amsterdam II misses ~4 in 5 LS families (sensitivity 0.22, specificity 0.98; see [[#Relevant Risk Prediction Tools]]), which is why universal tumour testing replaced criteria-driven referral
 - **Revised Bethesda guidelines** — test the tumour for MSI if **any one** applies ([[acg-2015-hereditary-gi-cancer]] Table 3):
 
 | # | Situation |

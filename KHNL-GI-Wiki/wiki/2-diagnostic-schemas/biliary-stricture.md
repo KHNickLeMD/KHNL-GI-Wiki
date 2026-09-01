@@ -3,8 +3,32 @@ title: "Biliary Stricture"
 category: diagnostic-schema
 tags: [biliary-stricture, ercp, eus, cholangioscopy, obstructive-jaundice, cholangiocarcinoma, hepatobiliary]
 created: 2026-05-15
-updated: 2026-08-31
+updated: 2026-09-01
 sources: [acg-2023-biliary-strictures, asge-2023-indeterminate-biliary-strictures, asge-2023-post-transplant-biliary-strictures]
+---
+
+## Contents
+- [[#Definition / Scope]]
+- [[#Differential Diagnosis]]
+  - [[#Malignant — Primary]]
+  - [[#Malignant — Metastatic]]
+  - [[#Benign — Fibroinflammatory]]
+  - [[#Benign — Iatrogenic]]
+  - [[#Benign — Vascular/Other]]
+- [[#Diagnostic Algorithm]]
+  - [[#Step 1: Initial Clinical Assessment]]
+  - [[#Step 2: Cross-Sectional Imaging (CT / MRCP)]]
+  - [[#Step 3: Tissue Diagnosis — Approach by Location]]
+- [[#Key Tests]]
+- [[#Drainage Approach]]
+  - [[#Extrahepatic Stricture]]
+  - [[#Perihilar Stricture]]
+  - [[#Post–Liver Transplant Biliary Stricture]]
+  - [[#Failed ERCP]]
+- [[#Red Flags / Alarm Features]]
+- [[#See Also]]
+- [[#Sources]]
+
 ---
 
 ## Definition / Scope

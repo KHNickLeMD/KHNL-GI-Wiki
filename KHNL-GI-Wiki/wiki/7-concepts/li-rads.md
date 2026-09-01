@@ -57,7 +57,9 @@ Four major features drive categorization; size is the fifth axis, because imagin
 |---|---|
 | **≥20 mm** | APHE **+ any 1** additional major feature (washout, enhancing capsule, *or* threshold growth) |
 | **10–19 mm** | APHE **+ washout *or* threshold growth**, *or* APHE **+ 2** additional major features |
-| **<10 mm** | No criteria proposed — too small to characterize definitively. Repeat US + AFP in **3–6 months** (GS 13) |
+| **<10 mm** | No LR-5 criteria proposed — too small to characterize definitively |
+
+*Qualifier — GS 13 is a **surveillance-recall** statement, not a CT/MRI one.* [[aasld-2023-hcc]] GS 13 (Level 3, Strong) advises repeat short-interval **ultrasound + AFP in ~3–6 months** for a **<1 cm lesion seen on abdominal ultrasound**; stability across **≥2** follow-up ultrasounds may return the patient to semiannual surveillance (GS 13a, Level 5, Weak). It does not prescribe follow-up for a <10 mm observation already characterized on multiphasic CT/MRI. Recall pathways live on [[hcc-surveillance]].
 
 ### What the Criteria Can and Cannot Do
 
@@ -80,6 +82,8 @@ Four major features drive categorization; size is the fifth axis, because imagin
 | **LR-TIV** — Tumor in vein | PPV for HCC lower than LR-5 | Multidisciplinary discussion; **biopsy recommended** |
 
 *Per [[aasld-2023-hcc]] (Figures 6/8; GS 19–22). LR-5 is the point at which HCC is treated as diagnosed — stage-directed therapy lives on [[hepatocellular-carcinoma]].*
+
+> ⚠ **Decision gap — only LR-5 can be assigned from this page.** The table above gives each category's probability and management, but the **assignment criteria for LR-1, LR-2, LR-3, LR-4, LR-M and LR-TIV are not in any ingested source.** [[aasld-2023-hcc]] carries the full category grid only as **Figure 6** (an image, not extractable text), and [[nccn-2026-hcc]] prints only the major-feature list and the LR-5 size rules reproduced above. So an observation that is *not* LR-5 cannot be categorized from the wiki — you can read off what to do once categorized, not how to categorize. **Needed to close it:** a crop of AASLD 2023 Figure 6 (per Style Guide → Images), or the ACR LI-RADS core document. Do not fill these criteria from memory.
 
 - Where biopsy is done: sensitivity **70–93%**, falling to **~60%** in tumors **<2 cm**; a negative biopsy does **not** exclude HCC and should be repeated if findings are inconclusive and the lesion is still not LR-5. Complication risk (seeding, bleeding) **~3%**, lower with coaxial needle technique ([[aasld-2023-hcc]]; see [[liver-biopsy]]).
 

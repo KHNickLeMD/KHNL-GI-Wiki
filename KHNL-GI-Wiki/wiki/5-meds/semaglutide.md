@@ -3,9 +3,25 @@ title: "Semaglutide (Wegovy, Ozempic, Rybelsus)"
 category: med
 tags: [semaglutide, wegovy, ozempic, glp-1, glp1-ra, mash, masld, obesity, diabetes, t2dm, cardiovascular, ckd, weight-loss, essence-trial, select-trial, step-trials, hpb]
 created: 2026-05-25
-updated: 2026-08-26
+updated: 2026-09-01
 sources: [aasld-2025-semaglutide-mash, aga-2022-obesity-pharm, hendershot-2025-semaglutide-aud, aga-2024-glp1-endoscopy]
 ---
+
+## Contents
+- [[#Overview]]
+- [[#Mechanism of Action]]
+- [[#GI Indication: MASH with Moderate-to-Advanced Fibrosis]]
+  - [[#FDA Approval and Evidence Base]]
+  - [[#Patient Selection (AASLD 2025 Guidance)]]
+  - [[#Contraindications (MASH Indication)]]
+  - [[#Dosing]]
+  - [[#Monitoring and Safety]]
+  - [[#Safety Profile]]
+- [[#Broader Cardiometabolic Benefits]]
+- [[#Investigational: Alcohol Use Disorder (off-label)]]
+- [[#Concomitant Use]]
+- [[#See Also]]
+- [[#Sources]]
 
 ## Overview
 
@@ -101,8 +117,21 @@ For VCTE 15–20 kPa, MRE 4.4–5 kPa, or ELF 10.5–11.3: individualized treatm
 
 ### Dosing
 
-- Wegovy 2.4 mg SC injection once weekly (titrated up from lower doses per standard protocol)
-- Combination use with [[resmetirom]] at 2.4 mg/week has not been formally studied
+- **Maintenance: Wegovy 2.4 mg SC once weekly.**
+- **Titration schedule to reach it** ([[aga-2022-obesity-pharm]]) — gradual escalation is what minimizes the GI adverse effects above:
+
+| Weeks | Dose |
+|---|---|
+| 1–4 | **0.25 mg** SC weekly |
+| 5–8 | **0.5 mg** SC weekly |
+| 9–12 | **1.0 mg** SC weekly |
+| 13–16 | **1.7 mg** SC weekly |
+| 17+ | **2.4 mg** SC weekly (maintenance, reached after **16 weeks**) |
+
+- **Adjust the pace by clinical judgment** for the individual patient's response, tolerance, and adverse effects.
+- **Missed doses:** >2 consecutive missed → clinical judgment; resume the same dose if previously well tolerated (expert opinion), otherwise lower the next dose. **≥3 consecutive missed → consider restarting the titration schedule.**
+- **A submaximal dose may be the endpoint** — some patients respond strongly below 2.4 mg and can continue that dose long term.
+- Combination use with [[resmetirom]] at 2.4 mg/week has not been formally studied.
 
 ### Monitoring and Safety
 
@@ -186,6 +215,7 @@ For VCTE 15–20 kPa, MRE 4.4–5 kPa, or ELF 10.5–11.3: individualized treatm
 
 ## Concomitant Use
 
+- **Class-level co-prescribing rules** (do not combine with another GLP-1 RA or a DPP-4 inhibitor; delayed gastric emptying may impair absorption of oral drugs needing rapid onset; dose-adjust insulin/sulfonylureas) live on [[glp-1-receptor-agonists]] — see that page rather than duplicating them here.
 - **[[resmetirom|Resmetirom]]:** Combination not formally studied at semaglutide 2.4 mg/week; MAESTRO-NASH subgroup data shows similar MASH resolution/fibrosis improvement when GLP-1 RAs were taken alongside resmetirom; no notable safety differences; relative efficacy not established [[aasld-2025-semaglutide-mash]]
 - **Lifestyle modification:** Cornerstone of MASLD/MASH management — should be maintained regardless of pharmacotherapy status
 - **Vitamin E (≥800 IU/day) and pioglitazone:** Both were excluded from ESSENCE eligibility criteria, suggesting uncertainty about interaction

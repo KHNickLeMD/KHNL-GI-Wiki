@@ -3,7 +3,7 @@ title: "Gastrointestinal Stromal Tumor (GIST)"
 category: disease-script
 tags: [gist, gastrointestinal-stromal-tumor, subepithelial-lesion, kit, cd117, dog1, pdgfra, sdh-deficient, imatinib, sunitinib, regorafenib, ripretinib, avapritinib, mesenchymal-tumor, nccn, oncology]
 created: 2026-06-18
-updated: 2026-08-30
+updated: 2026-09-01
 sources: [nccn-2026-gist, acg-2023-subepithelial-lesions, asge-2017-subepithelial-lesions]
 ---
 
@@ -56,7 +56,7 @@ Malignant potential is estimated from **tumor size, mitotic rate, and primary si
 | >5–10 cm | >5/50 HPF | 85% |
 | >10 cm | >5/50 HPF | 50–90% |
 
-⚠ **Decision gap (residual).** The AFIP/Miettinen size × mitotic-rate × site metastasis-risk data above is now on-page, and the surveil-vs-resect thresholds are in Therapeutics. What is **not** reproduced (not in an ingested source) is the **modified-NIH (Joensuu) recurrence-risk classification** — which adds tumor rupture and uses different size/mitotic bands — that NCCN uses to select **adjuvant imatinib**; NCCN's licence also bars its proprietary version. Consult that classification directly for the adjuvant-therapy stratum.
+⚠ **Decision gap (residual).** The AFIP/Miettinen size × mitotic-rate × site metastasis-risk data above is now on-page, and the surveil-vs-resect thresholds are in Therapeutics. What is **not** reproduced (not in an ingested source) is the **modified-NIH (Joensuu) recurrence-risk classification** — which adds tumor rupture and uses different size/mitotic bands — that NCCN uses to select **adjuvant imatinib**; NCCN's licence also bars its proprietary version. So the *trigger* for adjuvant therapy — **moderate or high risk** — is on this page (Therapeutics), but the criteria that assign a resected tumor to *moderate* vs *low* risk are not. Consult that classification directly for the adjuvant-therapy stratum.
 
 ### Classification / Typing
 
@@ -85,9 +85,16 @@ Per [[nccn-2026-gist]]:
   - **>2 cm gastric** — resect.
   - **All nongastric GIST** (esophageal, small-bowel, colorectal) — resect regardless of size.
   - Surgical resection is with negative margins (no routine lymphadenectomy); for **very large** GISTs confirm tissue first to permit neoadjuvant imatinib.
-- **Neoadjuvant imatinib:** to downsize marginally resectable tumors or preserve organ function (EGJ, duodenum, rectum); confirm an imatinib-sensitive mutation first.
-- **Adjuvant imatinib for ≥3 years** for high-risk resected GIST (by size/mitotic rate/site; rupture = high risk).
-- **Unresectable/metastatic:** **imatinib first-line** (higher dose for KIT exon 9) → **sunitinib** (2nd) → **regorafenib** (3rd) → **ripretinib** (4th); **avapritinib** for **PDGFRA D842V**. Continue TKI therapy in responding disease; surgery/ablation may be considered for limited/focal progression.
+- **Neoadjuvant imatinib:** to downsize marginally resectable tumors or preserve organ function (EGJ, duodenum, rectum); confirm an imatinib-sensitive mutation first (it is acceptable to start while mutational analysis is pending).
+- **Adjuvant imatinib — who, and for how long:**
+  - **Who:** patients at **significant risk of recurrence — moderate *or* high risk** (category 1, following complete resection with no preoperative imatinib). Not just high risk.
+  - **Duration:** optimal duration is **unknown**. Data support **≥3 years** for high-risk disease (on an **overall-survival** benefit) **or ≥6 years** (on a **disease-free-survival** benefit). The 3-year figure is the OS-based floor, not a stopping rule.
+  - **Who not to treat:** data **do not support routine adjuvant use** in GIST **without a KIT mutation**, or with an **imatinib-resistant PDGFRA mutation**.
+- **Imatinib dosing** — the dose is the decision, and it is mutation-dependent:
+  - **Standard dose 400 mg daily.**
+  - **KIT exon 9 → 400 mg BID (800 mg/day).** At 400 mg daily, exon 9 tumors have a lower response rate and PFS than exon 11; 400 mg BID gave significantly superior PFS (61% relative risk reduction, *P* = .0013) in exon 9 tumors (EORTC 62005), and a higher response rate (67% vs 17%, SWOG S0033/CALGB 150105).
+  - **On progression at 400 mg daily:** escalate **up to 800 mg daily (400 mg BID) as tolerated**, or switch to sunitinib (category 1).
+- **Unresectable/metastatic:** **imatinib first-line** (category 1; dose per mutation above) → **sunitinib** (2nd) → **regorafenib** (3rd) → **ripretinib 150 mg** (4th); **avapritinib** for **PDGFRA D842V**. Imatinib is **not** recommended for imatinib-insensitive PDGFRA exon 18 mutations, especially D842V. Continue TKI therapy in responding disease; surgery/ablation may be considered for limited/focal progression.
 
 ### NCCN Treatment Algorithm
 
@@ -99,10 +106,10 @@ flowchart TD
     D -->|"No"| SX["Surgical resection<br/>(negative margins)"]
     D -->|"Yes"| NEO["Neoadjuvant imatinib<br/>(if imatinib-sensitive mutation)"]
     NEO --> SX
-    SX --> RISK{"High recurrence risk?<br/>(size, mitotic rate, site, rupture)"}
-    RISK -->|"Yes"| ADJ["Adjuvant imatinib ≥3 years"]
+    SX --> RISK{"Moderate or high recurrence risk?<br/>(size, mitotic rate, site, rupture)"}
+    RISK -->|"Yes"| ADJ["Adjuvant imatinib 400 mg daily<br/>≥3 y (OS) or ≥6 y (DFS)"]
     RISK -->|"No / very small gastric"| SURV["Surveillance"]
-    C -->|"Unresectable / metastatic"| SYS["TKI sequence:<br/>imatinib (exon 9 → higher dose)<br/>→ sunitinib → regorafenib → ripretinib;<br/>avapritinib for PDGFRA D842V"]
+    C -->|"Unresectable / metastatic"| SYS["TKI sequence:<br/>imatinib 400 mg daily<br/>(KIT exon 9 → 400 mg BID)<br/>→ sunitinib → regorafenib → ripretinib 150 mg;<br/>avapritinib for PDGFRA D842V"]
 ```
 
 *Algorithm — NCCN GIST management, recreated in original form (not an NCCN figure). ([[nccn-2026-gist]])*

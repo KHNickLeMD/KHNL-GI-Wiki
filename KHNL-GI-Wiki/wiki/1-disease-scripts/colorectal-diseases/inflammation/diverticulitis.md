@@ -3,7 +3,7 @@ title: "Colonic Diverticulitis"
 category: disease-script
 tags: [diverticulitis, diverticular-disease, colorectal, antibiotics, hinchey, scad, sudd]
 created: 2026-07-23
-updated: 2026-08-31
+updated: 2026-09-01
 sources: [acg-2026-diverticulitis]
 ---
 
@@ -23,7 +23,7 @@ Inflammation in and around a colonic diverticulum. Lifetime risk ~3% (men) / 5% 
   - [[#Post-recovery colonoscopy]]
   - [[#Preventing recurrence]]
   - [[#Elective surgery]]
-  - [[#What does NOT work]]
+  - [[#What does NOT work (recommend against, for recurrence prevention)]]
 - [[#See Also]]
 - [[#Sources]]
 

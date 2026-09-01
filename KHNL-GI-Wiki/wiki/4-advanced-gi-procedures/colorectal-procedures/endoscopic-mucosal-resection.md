@@ -3,13 +3,24 @@ title: "Endoscopic Mucosal Resection (Colorectal)"
 category: advanced-procedure
 tags: [emr, endoscopic-resection, polypectomy, cold-snare, underwater-emr, hot-avulsion, lifting-agents, colorectal, post-emr-surveillance]
 created: 2026-08-11
-updated: 2026-08-30
+updated: 2026-09-01
 sources: [usmstf-2020-endoscopic-removal, asge-2020-endoscopic-removal, aga-2025-lifting-agents, usmstf-2020-followup-colonoscopy]
 ---
 
 # Endoscopic Mucosal Resection (Colorectal)
 
 Snare resection over a submucosal cushion (or under water), the first-line technique over surgery for non-pedunculated colorectal lesions ≥20mm and the preferred technique for flat and serrated lesions 10–19mm. Lesion assessment and technique selection are on [[polypectomy]]; lesions needing en-bloc removal beyond snare diameter go to [[colorectal-esd|ESD]].
+
+## Contents
+- [[#Inject-and-Cut (Standard)]]
+  - [[#Submucosal Lifting Agents]]
+- [[#Post-Resection]]
+- [[#Underwater EMR]]
+- [[#Cold Snare EMR]]
+- [[#Hot Avulsion Technique]]
+- [[#Post-EMR Surveillance (Piecemeal, ≥20mm)]]
+- [[#See Also]]
+- [[#Sources]]
 
 ---
 
@@ -30,7 +41,9 @@ Snare resection over a submucosal cushion (or under water), the first-line techn
 
 **Electrosurgery settings (ERBE):** Endocut Q 2/3 1 4 for inject-and-cut EMR
 
-### Submucosal Lifting Agents ([[aga-2025-lifting-agents|AGA 2025 CPU]])
+### Submucosal Lifting Agents
+
+*Source: [[aga-2025-lifting-agents|AGA 2025 CPU on endoscopic lifting agents]].*
 
 - Injection creates a cushion separating the lesion from the **muscularis propria (MP)**; adding a **blue contrast** (indigo carmine or methylene blue) demarcates margins and reveals MP injury during EMR.
 - **Saline ± contrast ("homemade") remains acceptable**; saline dissipates fast, prompting viscous/FDA-approved agents. Saline was non-inferior to other injection-based methods for relevant outcomes.

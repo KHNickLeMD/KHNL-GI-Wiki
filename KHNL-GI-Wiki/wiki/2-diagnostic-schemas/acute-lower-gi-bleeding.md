@@ -3,8 +3,41 @@ title: "Acute Lower Gastrointestinal Bleeding (LGIB)"
 category: diagnostic-schema
 tags: [lower-gi-bleeding, lgib, hematochezia, diverticular, colonoscopy, hemorrhage, cta, risk-stratification]
 created: 2026-05-15
-updated: 2026-08-31
+updated: 2026-09-01
 sources: [acg-2023-lgib, asge-2014-lgib, acg-2021-ugib]
+---
+
+## Contents
+- [[#Definition / Scope]]
+  - [[#Hemodynamic Instability Criteria]]
+  - [[#Distinction from UGIB]]
+- [[#Differential Diagnosis]]
+  - [[#Most Common]]
+  - [[#Colitis Subtypes]]
+  - [[#Less Common / Rare]]
+- [[#Diagnostic Algorithm]]
+  - [[#Step 1: Initial Assessment (Simultaneous with Resuscitation)]]
+  - [[#Step 2: Risk Stratification]]
+  - [[#Step 3: Resuscitation and Stabilization]]
+  - [[#Step 4: Determine Initial Diagnostic Strategy]]
+  - [[#Step 5: Colonoscopy Timing and Preparation]]
+  - [[#Step 6: Endoscopic Treatment]]
+  - [[#Step 7: Recurrent Bleeding]]
+  - [[#Step 8: Post-Discharge Antithrombotic Management]]
+- [[#Key Tests]]
+  - [[#Colonoscopy]]
+  - [[#CT Angiography (CTA)]]
+  - [[#Transcatheter Arteriography (TA) / Embolization]]
+  - [[#Nuclear Scintigraphy (99mTc-labeled RBC scan)]]
+  - [[#Upper Endoscopy (EGD)]]
+- [[#Red Flags / Alarm Features]]
+  - [[#Immediate / Hemodynamic]]
+  - [[#Clinical Predictors of High-Risk Hospital Course]]
+  - [[#Alarm Features Suggesting Alternative Diagnoses]]
+  - [[#Rebleeding Risk Indicators]]
+- [[#See Also]]
+- [[#Sources]]
+
 ---
 
 ## Definition / Scope

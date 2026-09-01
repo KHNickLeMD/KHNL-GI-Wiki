@@ -3,9 +3,29 @@ title: "Biallelic Mismatch Repair Deficiency (BMMRD) Syndrome"
 category: disease-script
 tags: [bmmrd, cmmrd, mismatch-repair, hereditary-crc, colorectal-cancer, brain-tumor, lymphoma, pediatric-cancer, genetic-testing, mmr, cafe-au-lait, pms2, msh6, mlh1, msh2]
 created: 2026-05-24
-updated: 2026-08-30
+updated: 2026-09-01
 sources: [usmstf-2017-bmmrd]
 ---
+
+## Contents
+- [[#Assessment]]
+  - [[#Establishing the Diagnosis]]
+  - [[#Severity Assessment]]
+  - [[#Classification / Typing]]
+- [[#Differential Diagnosis]]
+- [[#Diagnostics]]
+  - [[#Key Diagnostic Challenge: MMR IHC Interpretation]]
+  - [[#Germline Testing]]
+  - [[#Tumor Molecular Features]]
+  - [[#Other Tests]]
+- [[#Therapeutics]]
+  - [[#Surveillance Protocol]]
+  - [[#Surgical Management of Colorectal Neoplasia]]
+  - [[#Chemoprevention]]
+  - [[#Immunotherapy Considerations]]
+  - [[#Genetic Counseling]]
+- [[#See Also]]
+- [[#Sources]]
 
 ## Assessment
 
@@ -27,6 +47,8 @@ Unlike [[lynch-syndrome]], which is caused by monoallelic MMR mutations and requ
 - Any cancer with abnormal MMR protein IHC in normal AND tumor tissue (see Diagnostics)
 - History of brain cancer, lymphoma, or leukemia without prior radiation
 - Any child or adult with a hypermutated tumor
+
+> **Decision gap — no formal scoring system in the ingested corpus.** The list above is [[usmstf-2017-bmmrd|USMSTF 2017]] Table 2, which is **unweighted and unscored**. The guideline states that "diagnostic criteria are proposed for the evaluation of a child or young adult cancer patient based on the phenotypic presentation" and **cites** the European consortium *Care for CMMRD* (C4CMMRD) weighted scoring system (Wimmer *et al.*, *J Med Genet* 2014) — but never reproduces it. The point values and the score threshold needed to formally score a patient are therefore **not derivable from this page**; the Wimmer 2014 paper would have to be ingested. Diagnosis in any case **requires confirmation of biallelic deleterious germline MMR mutations**.
 
 ### Severity Assessment
 

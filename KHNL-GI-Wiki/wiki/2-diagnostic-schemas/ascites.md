@@ -3,8 +3,37 @@ title: "Ascites"
 category: diagnostic-schema
 tags: [ascites, cirrhosis, saag, paracentesis, diuretics, tips]
 created: 2026-05-15
-updated: 2026-08-30
+updated: 2026-09-01
 sources: [aasld-2021-ascites-sbp-hrs, aga-2025-ascites-cirrhosis, aga-2024-vasoactive-albumin-cirrhosis]
+---
+
+## Contents
+- [[#Definition / Scope]]
+  - [[#Refractory Ascites — Diagnostic Criteria]]
+- [[#Differential Diagnosis]]
+  - [[#Cirrhotic (portal hypertensive) causes — SAAG ≥1.1 g/dL]]
+  - [[#Non-cirrhotic (non-portal hypertensive) causes — SAAG <1.1 g/dL]]
+  - [[#SAAG Interpretation]]
+- [[#Diagnostic Algorithm]]
+  - [[#Step 1: Initial Evaluation (all patients with new ascites)]]
+  - [[#Step 2: Diagnostic Paracentesis]]
+  - [[#Step 3: SAAG Calculation]]
+  - [[#Step 4: Further Workup Guided by SAAG]]
+- [[#Key Tests]]
+- [[#Red Flags / Alarm Features]]
+- [[#Management]]
+  - [[#Dietary Sodium Restriction]]
+  - [[#Diuretics (Grade 2 Ascites)]]
+  - [[#Large-Volume Paracentesis (LVP) — Grade 3 and Refractory Ascites]]
+  - [[#TIPS (Refractory Ascites)]]
+  - [[#Liver Transplantation]]
+  - [[#Nonselective Beta-Blockers (NSBBs)]]
+  - [[#Hepatic Hydrothorax (AGA 2025)]]
+  - [[#Inpatient Volume Overload / Refractory Anasarca (AGA 2025)]]
+- [[#Hyponatremia in Cirrhotic Ascites]]
+- [[#See Also]]
+- [[#Sources]]
+
 ---
 
 ## Definition / Scope
@@ -55,7 +84,7 @@ All three of the following must be met (AASLD 2021 Fig. 3): compliance with sodi
 
 ## Differential Diagnosis
 
-### Cirrhotic ([[portal-hypertension|portal hypertensive]]) causes — SAAG ≥1.1 g/dL
+### Cirrhotic (portal hypertensive) causes — SAAG ≥1.1 g/dL
 
 - [[cirrhosis|Cirrhosis]] (most common cause in Western world)
 - Massive liver metastases with portal involvement
@@ -193,7 +222,7 @@ SAAG = serum albumin − ascitic fluid albumin (simultaneous samples)
 - **Vasoconstrictors have NO role** in uncomplicated ascites, after large-volume paracentesis, or in SBP (BPA 7) — vasoconstrictor therapy in cirrhotic AKI is reserved for [[aki-in-cirrhosis|HRS-AKI]] once criteria are met.
 - In hospitalized patients with cirrhosis and ascites presenting with AKI, **albumin is the volume expander of choice** (BPA 8). [[aga-2024-vasoactive-albumin-cirrhosis]]
 
-### [[tips|TIPS]] (Refractory Ascites)
+### TIPS (Refractory Ascites)
 
 - Superior to repeated LVP for ascites control and may confer survival benefit in selected patients
 - **Preferred candidate:** MELD <18, younger age, preserved cardiopulmonary function, without sarcopenia — see [[tips]] for full candidacy, hemodynamic targets, and futility criteria

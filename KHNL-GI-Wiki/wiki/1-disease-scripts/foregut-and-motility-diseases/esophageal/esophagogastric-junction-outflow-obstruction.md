@@ -3,7 +3,7 @@ title: "Esophagogastric Junction Outflow Obstruction (EGJOO)"
 category: disease-script
 tags: [egjoo, esophageal-motility, dysphagia, hrm, chicago-classification, foregut]
 created: 2026-07-29
-updated: 2026-08-30
+updated: 2026-09-01
 sources: [aga-2024-poem-advances, chicago-v4-2021-esophageal-dysmotility]
 ---
 A **manometric finding, not a diagnosis** — impaired EGJ relaxation with preserved (or only partially disordered) peristalsis, distinguishing it from [[achalasia]]. In isolation it should **not** justify any permanent intervention; it has many mimics and requires correlation with symptoms and confirmatory testing.
@@ -41,7 +41,7 @@ A **manometric finding, not a diagnosis** — impaired EGJ relaxation with prese
 2. **Clinically relevant symptoms** — defined by CCv4.0 as **dysphagia and/or non-cardiac chest pain**, **and**
 3. **≥1 supportive investigation showing obstruction** — timed barium esophagram (**preferably with a tablet**) and/or [[flip-panometry|FLIP]]
 
-- **Sub-classify by the accompanying peristaltic pattern** (CCv4.0) — it names the coexisting disorder and shapes therapy: EGJOO **with spastic features** (≥20% premature swallows), **with hypercontractile features**, **with ineffective motility**, or **with no evidence of disordered peristalsis**.
+- **Sub-classify by the accompanying peristaltic pattern** (CCv4.0) — it names the coexisting disorder and shapes therapy: EGJOO **with spastic features** (≥20% premature swallows), **with hypercontractile features**, **with [[ineffective-esophageal-motility|ineffective motility]]**, or **with no evidence of disordered peristalsis**.
 - Also useful but **not required**: outflow obstruction and esophageal pressurization during the rapid drink challenge (RDC) are supportive of a manometric EGJOO.
 - A [[ambulatory-reflux-monitoring|pH study]] is used to exclude [[gerd|GERD]] as the driver rather than to confirm EGJOO.
 
@@ -57,7 +57,7 @@ A **manometric finding, not a diagnosis** — impaired EGJ relaxation with prese
 
 EGJOO is associated with a multitude of alternative causes that must be excluded before it is treated as a primary motility disorder:
 
-- **Mechanical / structural:** obstructive hiatal hernia, external compression, [[subepithelial-lesion|submucosal mass]], [[achalasia|early/evolving achalasia]]
+- **Mechanical / structural:** obstructive [[hiatal-hernia|hiatal hernia]], external compression, [[subepithelial-lesion|submucosal mass]], [[achalasia|early/evolving achalasia]]
 - **Other:** [[obesity]], [[gerd|GERD]], opiate-induced esophageal dysfunction, manometric artifact
 - **Related spastic disorders:** [[distal-esophageal-spasm|distal esophageal spasm]], [[hypercontractile-esophagus|hypercontractile esophagus]]
 
@@ -77,7 +77,7 @@ EGJOO is associated with a multitude of alternative causes that must be excluded
 
 ## See Also
 
-[[achalasia]], [[dysphagia]], [[high-resolution-manometry]], [[chicago-classification-v4]], [[flip-panometry]], [[poem]], [[distal-esophageal-spasm]], [[hypercontractile-esophagus]], [[gerd]], [[upper-endoscopy]], [[subepithelial-lesion]], [[obesity]], [[ambulatory-reflux-monitoring]], [[ineffective-esophageal-motility]]
+[[achalasia]], [[dysphagia]], [[high-resolution-manometry]], [[chicago-classification-v4]], [[flip-panometry]], [[poem]], [[distal-esophageal-spasm]], [[hypercontractile-esophagus]], [[gerd]], [[upper-endoscopy]], [[subepithelial-lesion]], [[obesity]], [[ambulatory-reflux-monitoring]], [[ineffective-esophageal-motility]], [[hiatal-hernia]]
 
 ---
 

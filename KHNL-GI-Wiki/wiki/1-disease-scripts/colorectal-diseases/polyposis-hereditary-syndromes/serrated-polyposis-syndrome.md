@@ -3,9 +3,22 @@ title: "Serrated Polyposis Syndrome"
 category: disease-script
 tags: [serrated-polyposis, sps, hyperplastic-polyposis, sessile-serrated, colorectal-cancer, polyposis, mutyh]
 created: 2026-05-19
-updated: 2026-08-27
-sources: [acg-2015-hereditary-gi-cancer]
+updated: 2026-09-01
+sources: [acg-2015-hereditary-gi-cancer, usmstf-2020-followup-colonoscopy, asge-2020-fap]
 ---
+
+## Contents
+- [[#Assessment]]
+  - [[#Establishing the Diagnosis]]
+  - [[#Severity Assessment]]
+- [[#Differential Diagnosis]]
+- [[#Diagnostics]]
+- [[#Therapeutics]]
+  - [[#Endoscopic Management]]
+  - [[#Surgical Management]]
+  - [[#Family Member Surveillance]]
+- [[#See Also]]
+- [[#Sources]]
 
 ## Assessment
 
@@ -15,13 +28,29 @@ sources: [acg-2015-hereditary-gi-cancer]
 - Previously called hyperplastic polyposis syndrome
 - No clear genetic etiology established
 
-**WHO diagnostic criteria (any one must be met)** — the "updated WHO" criteria as reproduced in [[acg-2015-hereditary-gi-cancer]]:
+**WHO 2010 (4th-edition) diagnostic criteria (any one must be met)** — as reproduced in [[acg-2015-hereditary-gi-cancer]]:
 
 - (i) ≥5 serrated polyps proximal to the sigmoid colon, with ≥2 of these being >10 mm in diameter; OR
 - (ii) Any number of serrated polyps proximal to the sigmoid colon in an individual who has a **first-degree relative (FDR) with SPS**; OR
 - (iii) >20 serrated polyps of any size, distributed throughout the large intestine
 
-> **Gap:** WHO revised the SPS criteria in 2019 (rectal polyps counted, thresholds changed). No ingested source carries the revision — the criteria above are the pre-2019 version as printed in ACG 2015. A current WHO/ESGE polyposis source would be needed.
+These are the **2010 (4th-edition) WHO** criteria — [[asge-2020-fap|ASGE 2020]] reproduces the same three and cites them to the 2010 WHO classification.
+
+**Newer thresholds — [[usmstf-2020-followup-colonoscopy|USMSTF 2020]]** (Table 5 footnote). Criteria are met by **either**:
+
+- **>20 hyperplastic polyps** cumulative, distributed throughout the colon, with **≥5 proximal to the rectum**; **or**
+- **5 serrated polyps proximal to the rectum >5 mm**, with **≥2 ≥10 mm**
+
+**The two versions select different patients** — the change is the landmark and the size floor:
+
+| | ACG 2015 / WHO 2010 | [[usmstf-2020-followup-colonoscopy\|USMSTF 2020]] |
+|---|---|---|
+| Counted proximal to | **Sigmoid colon** | **Rectum** (so sigmoid polyps now count) |
+| Size floor on the ≥5-polyp limb | **None** | **>5 mm** |
+| First limb polyp type | Serrated | **Hyperplastic** (as written) |
+| FDR-based limb | Present (criterion ii) | Not restated |
+
+> **Remaining gap:** USMSTF 2020 states its thresholds in a table footnote **without attributing them to WHO**, and its first limb specifies *hyperplastic* rather than serrated polyps. The **WHO 2019 (5th-edition)** revision itself is **not in any ingested source** — a current WHO or NCCN polyposis source would be needed to reproduce it verbatim. Both formulations are printed above rather than silently merged; where they conflict the newer USMSTF 2020 thresholds govern (same tier, newer publication).
 
 **Polyp spectrum**:
 
@@ -113,3 +142,5 @@ sources: [acg-2015-hereditary-gi-cancer]
 ## Sources
 
 1. [[acg-2015-hereditary-gi-cancer|ACG 2015: Genetic Testing and Management of Hereditary Gastrointestinal Cancer Syndromes]]
+2. [[usmstf-2020-followup-colonoscopy|USMSTF 2020: Recommendations for Follow-Up After Colonoscopy and Polypectomy]]
+3. [[asge-2020-fap|ASGE Guideline: The Role of Endoscopy in Familial Adenomatous Polyposis Syndromes (2020)]]

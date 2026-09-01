@@ -3,8 +3,33 @@ title: "Abnormal Liver Chemistries"
 category: diagnostic-schema
 tags: [liver-chemistries, liver-tests, alt, ast, alkaline-phosphatase, bilirubin, hepatocellular, cholestatic, r-value, hpb, liver, workup]
 created: 2026-05-19
-updated: 2026-08-30
+updated: 2026-09-01
 sources: [acg-2017-liver-chemistries, acg-2016-liver-disease-pregnancy]
+---
+
+## Contents
+- [[#Definition / Scope]]
+  - [[#What Are Truly Normal ALT Values?]]
+- [[#Differential Diagnosis]]
+  - [[#Patterns of Elevation]]
+  - [[#Causes of Elevated AST and ALT (Table 4 from guideline)]]
+  - [[#Causes of Elevated Alkaline Phosphatase]]
+  - [[#Causes of Elevated Bilirubin]]
+- [[#Diagnostic Algorithm]]
+  - [[#Step 1 — Repeat/Confirm]]
+  - [[#Step 2 — Pattern Recognition]]
+  - [[#Step 3 — AST/ALT Elevation Algorithm (Tiered by Magnitude)]]
+  - [[#Step 4 — Alkaline Phosphatase Elevation Algorithm (Figure 4)]]
+  - [[#Step 5 — Bilirubin Elevation Algorithm (Figure 5)]]
+- [[#Key Tests]]
+  - [[#Initial Metabolic/Serologic Panel]]
+  - [[#Expanded Evaluation (if initial panel negative/persists)]]
+  - [[#Imaging]]
+  - [[#Liver Biopsy Indications]]
+- [[#Red Flags / Alarm Features]]
+- [[#See Also]]
+- [[#Sources]]
+
 ---
 
 ## Definition / Scope

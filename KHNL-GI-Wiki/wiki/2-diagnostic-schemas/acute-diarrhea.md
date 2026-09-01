@@ -3,8 +3,40 @@ title: "Acute Diarrhea"
 category: diagnostic-schema
 tags: [diarrhea, infectious-diarrhea, travelers-diarrhea, gastroenteritis, acute, dysentery, loperamide, antibiotic, prevention]
 created: 2026-05-19
-updated: 2026-08-30
+updated: 2026-09-01
 sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
+---
+
+## Contents
+- [[#Definition / Scope]]
+  - [[#Severity Classification (ACG 2016)]]
+  - [[#Stool Character Classification]]
+- [[#Differential Diagnosis]]
+  - [[#Infectious Etiologies]]
+  - [[#Non-infectious Mimics]]
+- [[#Diagnostic Algorithm]]
+  - [[#Step 1: All Cases — Oral Hydration]]
+  - [[#Step 2: Stool Character Branch]]
+  - [[#Step 3: Persistent Symptoms (14–30 days)]]
+- [[#Key Tests]]
+  - [[#When to Test (ACG 2016 Indications)]]
+  - [[#Diagnostic Methods]]
+- [[#Therapeutics]]
+  - [[#Oral Rehydration]]
+  - [[#Antimotility Agents]]
+  - [[#Bismuth Subsalicylate (BSS)]]
+  - [[#Probiotics / Prebiotics]]
+  - [[#Agents Not Recommended]]
+  - [[#Antibiotics]]
+  - [[#Empiric Antibiotic Decision (IDSA 2017)]]
+  - [[#Supportive & Ancillary Care (IDSA 2017)]]
+  - [[#Prevention — Counseling & Hygiene (ACG 2016)]]
+  - [[#Vaccines & Public Health (IDSA 2017)]]
+- [[#Red Flags / Alarm Features]]
+- [[#Postinfectious Complications]]
+- [[#See Also]]
+- [[#Sources]]
+
 ---
 
 ## Definition / Scope

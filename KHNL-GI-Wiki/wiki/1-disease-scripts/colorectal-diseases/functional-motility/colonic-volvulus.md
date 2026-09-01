@@ -3,7 +3,7 @@ title: "Colonic Volvulus"
 category: disease-script
 tags: [colonic-volvulus, sigmoid-volvulus, cecal-volvulus, large-bowel-obstruction, detorsion, colonoscopy]
 created: 2026-06-22
-updated: 2026-08-27
+updated: 2026-09-01
 sources: [asge-2020-acpo-volvulus]
 ---
 
@@ -14,16 +14,31 @@ Mechanical **twisting (torsion) of a redundant colon segment along its mesenteri
 ## Contents
 - [[#Assessment]]
   - [[#Establishing the Diagnosis]]
+  - [[#Severity Assessment]]
   - [[#Classification / Typing]]
 - [[#Differential Diagnosis]]
 - [[#Diagnostics]]
 - [[#Therapeutics]]
+- [[#See Also]]
+- [[#Sources]]
 
 ## Assessment
 
 ### Establishing the Diagnosis
 - Presenting symptoms: nausea, vomiting, abdominal pain, distention, obstipation
 - Risk factors: long redundant colon with narrow mesenteric attachment, [[chronic-idiopathic-constipation|chronic constipation]], colonic dysmotility, prior abdominal surgery
+
+### Severity Assessment
+
+**"Uncomplicated" is the word that decides scope vs. knife**, and [[asge-2020-acpo-volvulus|ASGE 2020]] defines it only by exclusion. Patients with **any** of the following **should be referred immediately for surgical management**:
+
+- **Signs of peritonitis**
+- **Perforation**
+- **Recurrent, or unsuccessful, nonoperative decompression**
+
+- **Uncomplicated sigmoid volvulus** = none of the three above. "In the absence of these aforementioned adverse events," flexible sigmoidoscopic detorsion ± decompression tube is **first-line** *(ASGE Rec 1)*.
+- **Cecal volvulus does not enter this pathway** — surgery is recommended as the **initial** treatment modality with **avoidance of endoscopic intervention**, given the high risk of perforation *(ASGE Rec 3)*.
+- No ingested source grades volvulus severity beyond this complicated/uncomplicated split — there is **no staging system, no degree-of-torsion cutoff, and no colonic-diameter threshold** for volvulus (unlike the cecal-diameter rule in [[acute-colonic-pseudo-obstruction|ACPO]]). Do not import one.
 
 ### Classification / Typing
 - **Sigmoid volvulus** — most common; adult men >70 yr, African Americans, diabetes/neuropsychiatric disorders, institutionalized/constipated

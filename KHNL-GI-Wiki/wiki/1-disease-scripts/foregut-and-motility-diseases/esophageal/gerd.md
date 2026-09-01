@@ -3,8 +3,8 @@ title: "Gastroesophageal Reflux Disease"
 category: disease-script
 tags: [gerd, reflux, esophageal, foregut, motility]
 created: 2026-05-15
-updated: 2026-08-31
-sources: [asge-2024-gerd, acg-2021-gerd, sages-2021-gerd-surgery, lyon-2024-gerd-diagnosis, aga-2024-pcab, aga-2023-extraesophageal-gerd]
+updated: 2026-09-01
+sources: [asge-2024-gerd, acg-2021-gerd, sages-2021-gerd-surgery, lyon-2024-gerd-diagnosis, aga-2024-pcab, aga-2023-extraesophageal-gerd, acg-2020-esophageal-physiologic-testing]
 ---
 
 ## Assessment
@@ -264,3 +264,4 @@ Recommend for all patients with GERD symptoms:
 4. [[lyon-2024-gerd-diagnosis|Lyon Consensus 2.0 (2024): Evidence-Based Diagnosis of GERD]]
 5. [[aga-2024-pcab|AGA Clinical Practice Update on Integrating Potassium-Competitive Acid Blockers Into Clinical Practice (2024)]]
 6. [[aga-2023-extraesophageal-gerd|AGA Clinical Practice Update on the Diagnosis and Management of Extraesophageal Gastroesophageal Reflux Disease: Expert Review (2023)]]
+7. [[acg-2020-esophageal-physiologic-testing|ACG 2020: Clinical Use of Esophageal Physiologic Testing]]

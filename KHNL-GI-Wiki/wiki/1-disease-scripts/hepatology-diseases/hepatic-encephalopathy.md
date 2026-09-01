@@ -3,11 +3,11 @@ title: "Hepatic Encephalopathy"
 category: disease-script
 tags: [hepatic-encephalopathy, HE, cirrhosis, ammonia, lactulose, rifaximin, TIPS, portal-hypertension, ACLF, minimal-HE, covert-HE, overt-HE, portosystemic-shunting, brain-dysfunction, west-haven, bristol-stool-scale, sarcopenia]
 created: 2026-05-28
-updated: 2026-08-14
+updated: 2026-09-01
 sources: [aasld-easl-2014-hepatic-encephalopathy, acg-2026-hepatic-encephalopathy]
 ---
 
-Hepatic encephalopathy (HE) is **brain dysfunction caused by liver insufficiency and/or portosystemic shunting (PSS)**, manifesting as a spectrum of neurological/psychiatric abnormalities from subclinical alterations to coma. *HE is a continuum*, not a single entity [[aasld-easl-2014-hepatic-encephalopathy]]. HE can occur without [[cirrhosis|cirrhosis]] when simple portosystemic shunting is present; ACG 2026 reframes it as a **gut–brain axis disorder** ([[disorders-of-gut-brain-interaction|DGBI]] framing) and de-emphasizes ammonia throughout [[acg-2026-hepatic-encephalopathy]].
+Hepatic encephalopathy (HE) is **brain dysfunction caused by liver insufficiency and/or portosystemic shunting (PSS)**, manifesting as a spectrum of neurological/psychiatric abnormalities from subclinical alterations to coma. *HE is a continuum*, not a single entity [[aasld-easl-2014-hepatic-encephalopathy]]. HE can occur without [[cirrhosis]] when simple portosystemic shunting is present; ACG 2026 reframes it as a **gut–brain axis disorder** ([[disorders-of-gut-brain-interaction|DGBI]] framing) and de-emphasizes ammonia throughout [[acg-2026-hepatic-encephalopathy]].
 
 ## Contents
 - [[#Assessment]]
@@ -68,7 +68,7 @@ Every bout should be characterized along **all axes simultaneously** — the 201
 
 **Axis 1 — Underlying disease**
 
-- **Type A** — HE from **[[acute-liver-failure|acute liver failure]]**; high cerebral-edema risk; distinct management (see [[acute-liver-failure]])
+- **Type A** — HE from **[[acute-liver-failure|acute liver failure]]**; high cerebral-edema risk; distinct management
 - **Type B** — HE predominantly from **portosystemic bypass/shunting** without intrinsic hepatocellular disease
 - **Type C** — HE from **cirrhosis** — most common; the focus of both guidelines
 
@@ -92,12 +92,12 @@ Every bout should be characterized along **all axes simultaneously** — the 201
 ### Epidemiology and Prognosis
 
 - HE is now the **first decompensating event** in many patients with cirrhosis; 1-year incidence 10% (Child A) and 25% (Child B) with portal hypertension ([[acg-2026-hepatic-encephalopathy]])
-- OHE prevalence at cirrhosis diagnosis 10–14% (general), 16–21% (decompensated), 10–50% ([[tips|TIPS]] patients); cumulative OHE 30–40% over the disease course
+- OHE prevalence at cirrhosis diagnosis 10–14% (general), 16–21% (decompensated), 10–50% ([[tips|TIPS]] patients); cumulative OHE 30–40% of cirrhotics at some point in the clinical course, repeatedly in most survivors ([[aasld-easl-2014-hepatic-encephalopathy]])
 - OHE: 5–25% risk within 5 years of cirrhosis diagnosis (higher with prior MHE/CHE, infections, [[variceal-upper-gi-bleeding|variceal bleeding]], [[ascites]], DM, [[hepatitis-c|hepatitis C]])
 - After an index OHE episode, **~40–60% recur within 1 year** → secondary prophylaxis is indicated in all
 - MHE/CHE: 20–80% prevalence in cirrhosis; reduces QoL, impairs driving, predicts OHE
 - HE is the most common cause of readmission among cirrhosis complications (90-day readmission 21%–53%); inpatient cost rose from $38,897 (2007) to $49,391 (2017)
-- **Recurrent intractable OHE together with liver failure = indication for [[liver-transplantation|liver transplantation]]**
+- **Recurrent intractable OHE together with liver failure = indication for [[liver-transplantation]]**
 
 ---
 
@@ -127,7 +127,8 @@ Every bout should be characterized along **all axes simultaneously** — the 201
 ### Diagnosing OHE
 
 - **Clinical** — WHC + GCS; GCS is operationally robust for Grades 3–4 and supplements WHC
-- **Brain imaging:** in cirrhosis + confusion **without new-onset focal neurologic deficits, routine brain imaging is NOT required** (ACG 2026, Rec 6, *conditional, very low certainty*). Obtain CT/MRI for first-episode AMS with focal signs, seizures, or HE not responding to therapy — risk of intracerebral hemorrhage is 5-fold increased in cirrhosis
+- **Brain imaging:** in cirrhosis + confusion **without new-onset focal neurologic deficits, routine brain imaging is NOT required** (ACG 2026, Rec 6, *conditional, very low certainty*). CT/MRI does not diagnose or grade HE; obtain it for **focal neurologic deficits, seizures, or HE not responding to therapy**, to look for subdural/subarachnoid hemorrhage, stroke, or brain lesion
+  - ⚠ **Contradiction:** [[aasld-easl-2014-hepatic-encephalopathy]] advised a brain scan as "usually part of the diagnostic workup of first-time HE," citing an **at-least-5-fold increased risk of intracerebral hemorrhage** in cirrhosis. ACG 2026 supersedes this on newer data showing low yield of head CT and low likelihood of intracranial hemorrhage in cirrhosis with altered mental status
 - **Precipitant search is part of the diagnosis:** thorough evaluation for bleeding, infection (pan-culture, **diagnostic paracentesis**, chest x-ray), sedating medications, and toxic/metabolic abnormalities (ACG 2026, Key concept 10). Do **not** start empirical broad-spectrum antibiotics absent symptoms or lab findings of active infection; tailor or stop quickly based on cultures
 
 ### Diagnosing MHE and CHE
@@ -135,20 +136,26 @@ Every bout should be characterized along **all axes simultaneously** — the 201
 - **Use a single-test strategy, not a 2-test combination** (ACG 2026, Rec 1, *conditional, very low certainty*) — this supersedes the 2014 advice to use ≥2 testing modalities.
 - **Testing options** — choose by local expertise and available norms (ACG 2026, Key concept 6):
 
-| Test | Type | Note |
-|---|---|---|
-| **PHES** (Psychometric HE Score) | Paper-pencil battery of 5 tests | Most widely used; validated in many countries |
-| **Stroop / EncephalApp**, **QuickStroop** | Smartphone app | Validated for MHE screening |
-| **Animal naming test** | Bedside verbal fluency | Minimal equipment |
-| **ICT** (Inhibitory Control Test) | Computerized | Freely downloadable; requires highly functional patients |
-| **CRT** (Continuous Reaction Time) | Neurophysiological | Motor reaction time |
-| **CFF** (Critical Flicker Frequency) | Psychophysiological | Requires intact binocular vision |
-| SCAN test | Computerized digit memory | Prognostic value |
-| EEG | Neurophysiological | Sensitive but nonspecific; useful quantitatively |
+| Test | Resources / time | Domains tested | Reported MHE/CHE prevalence | Clinical utility / caveats |
+|---|---|---|---|---|
+| **EncephalApp Stroop** (full) | Smartphone or tablet; 5–15 min | Psychomotor speed, cognitive flexibility | 45%–55% | Predicts OHE; easy to apply, but full version is long for some patients |
+| **QuickStroop** | Smartphone or tablet; 1–2 min | Psychomotor speed | 45%–55% | Predicts HE; **not for color-blind subjects** |
+| **Animal naming test** | None; 1 min | Memory, verbal retrieval, recall self-monitoring | 30%–40% | Predicts OHE and death; practical and transcultural, but **not specific** for MHE/CHE |
+| **CFF** (critical flicker frequency) | Computer + specialized viewing chamber, or smartphone + light source | Integrity of visual tract, reaction time | 40%–55% | Predicts OHE and death; transcultural, but needs equipment and is **invalid if visual acuity is impaired** |
+| **PHES** (psychometric HE score) | Paper-pencil battery | — | — | Most widely used; validated in many countries |
+| **ICT** (inhibitory control test) | Computerized | — | — | Freely downloadable; requires highly functional patients |
+| **CRT** (continuous reaction time) | Neurophysiological | Motor reaction time | — | — |
+| SCAN test | Computerized digit memory | — | — | Prognostic value |
+| EEG | Neurophysiological | — | — | Sensitive but nonspecific; useful quantitatively |
+
+*Rows 1–4 = Table 4, [[acg-2026-hepatic-encephalopathy]]; remaining rows from [[aasld-easl-2014-hepatic-encephalopathy]].*
+
+- **Do not substitute MMSE or MoCA.** Both can be abnormal in CHE, and **no threshold distinguishes the CHE spectrum from delirium or dementia**; they add nothing to CHE-dedicated testing. Refer to a specialist when mild cognitive impairment, dementia, or delirium is suspected.
+- **HESA (Hepatic Encephalopathy Scoring Algorithm)** — point-based clinical + paper-pencil tool validated across all HE grades (attention, memory, psychomotor function); takes ~20 min, so it is used mainly to standardize OHE severity in inpatient trials.
 
 - **Who to prioritize for MHE testing** (ACG 2026, Key concept 3) — cirrhosis plus ≥1 of:
   - Hypoalbuminemia
-  - Decompensated cirrhosis (ascites, variceal bleeding, or [[jaundice|jaundice]])
+  - Decompensated cirrhosis (ascites, variceal bleeding, or [[jaundice]])
   - Clinically significant portal hypertension or portosystemic shunts (see [[portal-hypertension]])
   - Nonspecific cognitive complaints, difficulty concentrating, impaired QoL, navigation issues/traffic violations, falls
   - Difficulty operating heavy machinery
@@ -167,7 +174,7 @@ Every bout should be characterized along **all axes simultaneously** — the 201
 Improvement is expected within **24–48 h**. If delirium persists **beyond 48–72 h** despite adequate bowel movements and reversal of precipitants (ACG 2026, Key concept 12), work through three tracks:
 
 1. **Alternative diagnosis** — re-check ammonia (normal/low argues against HE); consider recent head trauma, falls, seizures, surgery
-2. **Undiagnosed precipitant** — electrolytes, renal failure, centrally acting or recreational drugs (urine drug screen, phosphatidylethanol), overt GI bleeding, and above all **infection** (pan-culture, paracentesis, CXR) — OHE will not improve until a specific infection is treated
+2. **Undiagnosed precipitant** — electrolytes, [[aki-in-cirrhosis|renal failure]], centrally acting or recreational drugs (urine drug screen, phosphatidylethanol), overt GI bleeding, and above all **infection** (pan-culture, paracentesis, CXR) — OHE will not improve until a specific infection is treated
 3. **Shunts** — **cross-sectional imaging (CT or MRI)** to identify prior TIPS vs **spontaneous portosystemic shunts (SPSS)**; SPSS are present in **46%–71%** of medically refractory HE vs 14% without
 
 ---
@@ -189,14 +196,14 @@ All elements initiated simultaneously ([[aasld-easl-2014-hepatic-encephalopathy]
 - **First-line outpatient secondary prophylaxis after an initial OHE episode, titrated to 2–3 soft bowel movements daily** (ACG 2026, Rec 10, *strong, high certainty*; 2014 Rec 25, Grade II-1, A, 1)
 - **Acute dosing:** 10–20 g (15–30 mL) **every 2 h** until 2 soft BMs, then reduce to **2–4× daily** to maintain 2–3 BMs/day
 - **Grade 3–4 / unable to swallow / aspiration risk:** nasogastric administration at similar dosing, **or** lactulose enema with preserved anal sphincter tone — **200 g lactulose (or 300 mL solution) in 700 mL water or saline, retained 30–60 min, repeated every 4–6 h** until mental status improves
-- **Titrate with the Bristol Stool Scale plus BM frequency** to reduce readmissions (ACG 2026, Rec 11, *conditional, very low certainty*). BSS ≥5 → cut back lactulose, or add [[rifaximin|rifaximin]] if already on lactulose. BSS ≥5 *before* starting lactulose → consider a non-laxative therapy de novo for adherence
+- **Titrate with the Bristol Stool Scale plus BM frequency** to reduce readmissions (ACG 2026, Rec 11, *conditional, very low certainty*). BSS ≥5 → cut back lactulose, or add [[rifaximin]] if already on lactulose. BSS ≥5 *before* starting lactulose → consider a non-laxative therapy de novo for adherence
 - **Overuse harms:** perianal skin irritation/infection, ileus, aspiration, dehydration, hypernatremia, hypokalemia — each can itself precipitate HE
 - **ICU/intubated patients:** titrate on bowel movements (mental status not assessable); with a fecal management system, **hold lactulose and other laxatives if >300 mL stool/day**; watch for hypernatremia and aspiration
 - Breakthrough HE on lactulose is usually **nonadherence or dehydration**
 
 ### Rifaximin
 
-- **Add [[rifaximin|rifaximin]] to lactulose for acute OHE** (ACG 2026, Rec 9, *conditional, low certainty*) — combination gave higher complete-reversal rates, shorter stay, and lower mortality than lactulose alone
+- **Add rifaximin to lactulose for acute OHE** (ACG 2026, Rec 9, *conditional, low certainty*) — combination gave higher complete-reversal rates, shorter stay, and lower mortality than lactulose alone
 - **Outpatient rifaximin to prevent recurrence** (ACG 2026, Rec 12, *conditional, low certainty*; 2014 Rec 20, Grade I, A, 1)
 - **Recurrent episodes despite lactulose maintenance → add rifaximin** (ACG 2026, Rec 13, *strong, high certainty*; 2014 Rec 26 placed this after the second episode)
 - **Dose: 550 mg BID** (FDA-approved for reduction in risk of OHE recurrence). Pivotal RCT (299 patients, ≥2 OHE episodes in prior 6 months, 91% on lactulose): **58% relative risk reduction in breakthrough OHE (NNT 4)** and **50% reduction in HE-related hospitalization (NNT 9)** at 6 months
@@ -245,10 +252,15 @@ All elements initiated simultaneously ([[aasld-easl-2014-hepatic-encephalopathy]
 
 ### TIPS and Portosystemic Shunts
 
-- **Start [[rifaximin|rifaximin]] 14 days before elective [[tips|TIPS]] and continue ≥6 months** in decompensated cirrhosis, with or without prior OHE, to reduce recurrent or de novo OHE (ACG 2026, **Rec 22, strong, moderate certainty**). ⚠ This **supersedes** [[aasld-easl-2014-hepatic-encephalopathy]] Rec 27 (Grade III, B, 1), which advised against routine post-TIPS prophylaxis
+- **Start rifaximin 14 days before elective TIPS and continue ≥6 months** in decompensated cirrhosis, with or without prior OHE, to reduce recurrent or de novo OHE (ACG 2026, **Rec 22, strong, moderate certainty**). ⚠ This **supersedes** [[aasld-easl-2014-hepatic-encephalopathy]] Rec 27 (Grade III, B, 1), which advised against routine post-TIPS prophylaxis
 - **Embolize extrahepatic collaterals at the time of TIPS** to reduce post-TIPS HE (ACG 2026, Rec 23, *conditional, low certainty*)
 - **Shunt embolization for refractory HE** on optimized medical therapy with adequate hepatic function and no contraindications (ACG 2026, Rec 16, *conditional, very low certainty*) — large spontaneous PSS embolization can clear HE rapidly, though variceal bleeding risk may emerge
-- Post-TIPS OHE incidence 10–50% at 1 year; greatest with large-diameter stents or very low portal pressure. If intractable: **shunt-diameter reduction**, then consider embolization
+  - **Who qualifies — the operative criteria:** refractory HE despite optimal medical therapy, **MELD usually <15**, and **shunts ≥8 mm in diameter** ([[acg-2026-hepatic-encephalopathy]]). One series: 59.4% remained HE-free after obliteration of accessible portosystemic shunts
+- **Post-TIPS HE:** occurs in **30%–40%** of patients after TIPS ([[acg-2026-hepatic-encephalopathy]]); median cumulative 1-year OHE incidence was reported as 10%–50% in [[aasld-easl-2014-hepatic-encephalopathy]], heavily dependent on patient-selection criteria
+  - **Refractory post-TIPS HE in 3%–7%** — most cases occur when the **portal-systemic gradient falls by >60%** after TIPS
+  - **Risk factors:** older age, worse liver function, hyponatremia, pre-TIPS SPSS, prior HE history, larger stent diameter, greater portal-pressure-gradient reduction, and sarcopenia
+  - **Once post-TIPS HE occurs, treat as non-TIPS HE** (lactulose + rifaximin). If unsuccessful or refractory: reduce the TIPS diameter by **ballooning or placing a smaller TIPS within the TIPS**, then consider embolization; ultimately consider LT
+  - Lactulose/lactitol prophylaxis to prevent post-TIPS HE was **unsuccessful** vs placebo in smaller studies. The rifaximin pre-TIPS RCT behind Rec 22 significantly reduced post-TIPS HE vs placebo, but enrolled **mostly refractory-ascites patients with alcohol etiology** — note the population when generalizing
 - **Sarcopenia is neither an indication nor a contraindication to TIPS**, but is associated with more post-TIPS HE and mortality (Key concept 23)
 - SPSS occur in up to 60% of cirrhosis, mark clinically significant portal hypertension, and predict decompensation and recurrent HE ("flow steal" bypassing hepatic clearance of neurotoxins)
 - Pre-transplant: identify large PSS; consider embolization to reduce recurrent HE

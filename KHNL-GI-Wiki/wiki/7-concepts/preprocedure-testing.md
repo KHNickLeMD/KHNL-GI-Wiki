@@ -80,7 +80,8 @@ Prevalence of abnormal results vs. how often care actually changes:
 | Urinalysis | ~19% (up to 39%) | Rarely |
 | Chemistry (unsuspected) | 0.2–1.0% | No evidence of altered management or outcome |
 
-- Severe anemia occurs in **<1%** of asymptomatic patients; a hemoglobin **<8 mg/dL** is associated with cardiac morbidity and operative death, which is why baseline testing is reserved for anticipated significant blood loss.
+- Severe anemia occurs in **<1%** of asymptomatic patients; a hemoglobin **<8 g/dL** is associated with cardiac morbidity and operative death, which is why baseline testing is reserved for anticipated significant blood loss.
+  - *Unit note: [[asge-2014-lab-testing-endoscopy|ASGE 2014]] prints this threshold as "8 mg/dL" — a typo in the source. Hemoglobin is reported in **g/dL**; the value 8 is unchanged.*
 
 ## See Also
 

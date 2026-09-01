@@ -3,8 +3,39 @@ title: "Ambulatory Reflux Monitoring"
 category: concept
 tags: [gerd, ph-monitoring, impedance, diagnosis, lyon-consensus]
 created: 2026-05-15
-updated: 2026-08-30
+updated: 2026-09-01
 sources: [lyon-2024-gerd-diagnosis, acg-2020-esophageal-physiologic-testing]
+---
+
+## Contents
+- [[#Overview]]
+- [[#Lyon Consensus 2.0 Overview]]
+  - [[#What Changed from Lyon 1.0]]
+- [[#Conclusive GERD Evidence]]
+  - [[#Endoscopic (off therapy)]]
+  - [[#pH Monitoring (off therapy — wireless)]]
+  - [[#pH-Impedance Monitoring (off therapy — catheter-based)]]
+- [[#Borderline Zone and What to Do]]
+  - [[#Borderline AET: 4.0–6.0%]]
+  - [[#Borderline Reflux Episode Count: 40–80/day]]
+  - [[#Normal Study Definition]]
+- [[#Supplementary and Adjunctive Metrics]]
+  - [[#Reflux Episode Count (pH-Impedance, off therapy)]]
+  - [[#Mean Nocturnal Baseline Impedance (MNBI)]]
+  - [[#Postreflux Swallow-Induced Peristaltic Wave (PSPW) Index]]
+  - [[#Symptom Association Metrics (SAP and SI)]]
+  - [[#Catheter-Based Mucosal Impedance (CAT — endoscopic device)]]
+- [[#Endoscopic Evidence Summary]]
+- [[#Test Selection: When to Use Each Modality]]
+  - [[#Unproven GERD (no prior conclusive GERD evidence) — Test OFF therapy]]
+  - [[#Proven GERD with Persisting Symptoms — Test ON optimised antisecretory therapy]]
+- [[#High-Resolution Manometry (HRM) in GERD Evaluation]]
+- [[#Clinical Decision Framework Summary]]
+- [[#ACG 2020 GRADE Recommendations Summary]]
+  - [[#ACG 2020 Antireflux Surgery Predictors]]
+- [[#See Also]]
+- [[#Sources]]
+
 ---
 
 ## Overview

@@ -62,10 +62,18 @@ sources: [aga-2020-ida, aga-2024-ida-management]
 
 Per AGA 2020 [[aga-2020-ida]]:
 
-- **Bidirectional endoscopy** ([[upper-endoscopy|EGD]] **and** [[colonoscopy]]) is the recommended initial structural evaluation for IDA to find a GI source.
-- **Duodenal biopsies for [[celiac-disease|celiac disease]]** during EGD.
-- **Noninvasive [[helicobacter-pylori-infection|*H. pylori*]] [[test-and-treat]]** when bidirectional endoscopy is unrevealing.
-- **[[capsule-endoscopy|Capsule endoscopy]]** for the small bowel if bidirectional endoscopy is negative and suspicion persists → see [[small-bowel-bleeding]].
+- **Bidirectional endoscopy** ([[upper-endoscopy|EGD]] **and** [[colonoscopy]]) — but the strength depends on who the patient is, and that is the decision:
+
+| Population (asymptomatic, IDA) | Recommendation | Strength / quality |
+|---|---|---|
+| **Postmenopausal women and men** | Bidirectional endoscopy **over no endoscopy** | **Strong**, moderate |
+| **Premenopausal women** | Bidirectional endoscopy **over iron replacement alone** | **Conditional**, moderate |
+
+  - The conditional grade in premenopausal women is deliberate: AGA notes a patient who places high value on avoiding the small risk of endoscopy — particularly if young with another plausible cause — and low value on the very small risk of missing a GI malignancy **would reasonably choose initial iron replacement and no endoscopy**.
+- **[[celiac-disease|Celiac disease]] — serology first, biopsy only if positive.** In asymptomatic adults with IDA and plausible celiac disease, AGA **suggests initial serologic testing followed by small-bowel biopsy only if positive, over routine small-bowel biopsies** (Conditional, very low). Do **not** take routine duodenal biopsies for celiac disease at the index EGD.
+- **Routine gastric biopsies to diagnose [[atrophic-gastritis|atrophic gastritis]] are suggested *against*** (Conditional, very low).
+- **Noninvasive [[helicobacter-pylori-infection|*H. pylori*]] [[test-and-treat]]** when bidirectional endoscopy is unrevealing (Conditional, low).
+- **[[capsule-endoscopy|Capsule endoscopy]]** — in uncomplicated asymptomatic IDA with **negative** bidirectional endoscopy, AGA suggests **a trial of iron supplementation over routine capsule** (Conditional, very low). Escalate to capsule when suspicion persists or when small-bowel pathology would change management (e.g. anticoagulant/antiplatelet therapy) → see [[small-bowel-bleeding]].
 - **Post-bariatric IDA:** EGD to exclude an **anastomotic (marginal) ulcer** as a bleeding source.
 
 ---

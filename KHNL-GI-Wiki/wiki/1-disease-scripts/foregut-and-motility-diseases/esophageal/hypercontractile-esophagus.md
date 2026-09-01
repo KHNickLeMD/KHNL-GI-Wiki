@@ -3,8 +3,8 @@ title: "Hypercontractile Esophagus (Jackhammer Esophagus)"
 category: disease-script
 tags: [hypercontractile, jackhammer, esophageal, motility, dysphagia, chest-pain, chicago-classification]
 created: 2026-05-16
-updated: 2026-08-30
-sources: [chicago-v4-2021-esophageal-dysmotility, aga-2025-flip-esophageal, acg-2020-achalasia, aga-2024-poem-advances]
+updated: 2026-09-01
+sources: [chicago-v4-2021-esophageal-dysmotility, aga-2025-flip-esophageal, acg-2020-achalasia, aga-2024-poem-advances, padova-2025-hrm-antireflux]
 ---
 
 *Classified under [[chicago-classification-v4|Chicago Classification v4.0]]. Related: [[distal-esophageal-spasm]], [[ineffective-esophageal-motility]].*
@@ -66,7 +66,7 @@ Hypercontractile esophagus (jackhammer esophagus) is defined by **Chicago Classi
 
 - **Be conservative — CCv4.0 explicitly cautions against treating contractile vigor as an endpoint** and advocates conservative medical therapy before any endoscopic or surgical intervention
 - Exclude EGJ obstruction and [[achalasia]] spectrum before treating (elevated IRP → investigate with TBE/FLIP)
-- Treat co-existent [[gerd|GERD]]; hypercontractile esophagus is **not** an absolute contraindication to [[antireflux-surgery|anti-reflux surgery (ARS)]] when the patient has objective GERD and partial [[proton-pump-inhibitors|PPI]] response — evaluate carefully pre-operatively (Padova consensus — see [[hrm-antireflux-surgery]])
+- Treat co-existent [[gerd|GERD]]; hypercontractile esophagus is **not** an absolute contraindication to [[antireflux-surgery|anti-reflux surgery (ARS)]] when the patient has objective GERD and partial [[proton-pump-inhibitors|PPI]] response — evaluate carefully pre-operatively ([[padova-2025-hrm-antireflux|Padova consensus]] — see [[hrm-antireflux-surgery]])
 - [[poem|POEM]] considered for refractory dysphagia-predominant disease ([[acg-2020-achalasia]] frames longer myotomy for spastic disease)
 - **AGA 2024 CPU caveat:** for **nonachalasia** spastic disorders, POEM evidence is limited — reserve for **case-by-case** use after less invasive options (medical therapy, botulinum toxin, endoscopic dilation) are exhausted, with symptoms correlated to manometry ([[aga-2024-poem-advances|AGA 2024]] BPA 3)
 
@@ -86,3 +86,4 @@ Hypercontractile esophagus (jackhammer esophagus) is defined by **Chicago Classi
 2. [[aga-2025-flip-esophageal|AGA Clinical Practice Update on Incorporating Functional Lumen Imaging Probe Into Esophageal Clinical Practice: Expert Review]]
 3. [[acg-2020-achalasia|ACG 2020: Diagnosis and Management of Achalasia]]
 4. [[aga-2024-poem-advances|AGA Clinical Practice Update on Advances in Per-Oral Endoscopic Myotomy (POEM) and Remaining Questions—What We Have Learned in the Past Decade: Expert Review (2024)]]
+5. [[padova-2025-hrm-antireflux|Padova Consensus: High-Resolution Manometry Before and After Antireflux Surgery]]

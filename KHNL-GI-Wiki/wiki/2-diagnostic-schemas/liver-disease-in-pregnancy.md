@@ -3,8 +3,40 @@ title: "Liver Disease in Pregnancy"
 category: diagnostic-schema
 tags: [pregnancy, liver-disease, ihcp, intrahepatic-cholestasis, aflp, acute-fatty-liver, hellp, hyperemesis-gravidarum, preeclampsia, eclampsia, hepatitis-b, hepatitis-c, hpb, liver]
 created: 2026-05-19
-updated: 2026-08-30
+updated: 2026-09-01
 sources: [aga-2024-pregnancy-gi-liver, acg-2016-liver-disease-pregnancy, aasld-2021-reproductive-liver]
+---
+
+## Contents
+- [[#Definition / Scope]]
+  - [[#Normal Physiologic Changes in Liver Tests During Pregnancy]]
+- [[#Differential Diagnosis]]
+  - [[#Pregnancy-Specific Liver Diseases (by trimester)]]
+  - [[#Coincident Liver Diseases]]
+- [[#Diagnostic Algorithm]]
+- [[#Pregnancy-Specific Liver Diseases — Detail]]
+  - [[#Hyperemesis Gravidarum (HG)]]
+  - [[#Intrahepatic Cholestasis of Pregnancy (IHCP)]]
+  - [[#Preeclampsia / Eclampsia with Hepatic Involvement]]
+  - [[#HELLP Syndrome]]
+  - [[#Acute Fatty Liver of Pregnancy (AFLP)]]
+- [[#Viral Hepatitis in Pregnancy]]
+  - [[#Hepatitis A (HAV)]]
+  - [[#Hepatitis E (HEV)]]
+  - [[#Herpes Simplex Virus (HSV) Hepatitis]]
+  - [[#Chronic Hepatitis B (HBV) in Pregnancy]]
+  - [[#Hepatitis C (HCV) in Pregnancy]]
+- [[#Chronic Liver Disease in Pregnancy]]
+  - [[#Autoimmune Hepatitis (AIH)]]
+  - [[#Primary Biliary Cholangitis (PBC)]]
+  - [[#Wilson's Disease (WD)]]
+  - [[#Cirrhosis and Portal Hypertension]]
+  - [[#Post-Liver Transplantation]]
+- [[#Key Tests]]
+- [[#Red Flags / Alarm Features]]
+- [[#See Also]]
+- [[#Sources]]
+
 ---
 
 ## Definition / Scope

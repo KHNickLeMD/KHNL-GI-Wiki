@@ -3,11 +3,24 @@ title: "Intragastric Balloon (IGB)"
 category: advanced-procedure
 tags: [obesity, intragastric-balloon, endoscopic-bariatric-therapy, weight-management, bariatric]
 created: 2026-06-04
-updated: 2026-08-28
+updated: 2026-09-01
 sources: [aga-2021-intragastric-balloons, aga-2022-obesity-pharm]
 ---
 
 # Intragastric Balloon (IGB)
+
+## Contents
+- [[#Overview]]
+- [[#Indications and Patient Selection]]
+- [[#Efficacy]]
+- [[#Device Types]]
+- [[#Periprocedural Management]]
+- [[#Adverse Events]]
+- [[#After Removal]]
+- [[#See Also]]
+- [[#Sources]]
+
+---
 
 ## Overview
 

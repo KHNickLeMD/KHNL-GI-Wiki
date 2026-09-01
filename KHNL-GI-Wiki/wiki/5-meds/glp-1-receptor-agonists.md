@@ -3,7 +3,7 @@ title: "GLP-1 Receptor Agonists (GLP-1 RAs)"
 category: med
 tags: [glp-1, glp1-ra, semaglutide, liraglutide, obesity, weight-loss, gastric-emptying, endoscopy, incretin]
 created: 2026-08-14
-updated: 2026-08-26
+updated: 2026-09-01
 sources: [aga-2022-obesity-pharm, aga-2024-glp1-endoscopy]
 ---
 
@@ -18,6 +18,8 @@ Drug **class** of incretin mimetics used for type 2 diabetes and chronic weight 
   - [[#Magnitude of Weight Loss]]
 - [[#GI and Other Adverse Effects]]
 - [[#Before Endoscopy]]
+- [[#See Also]]
+- [[#Sources]]
 
 ---
 
@@ -46,14 +48,25 @@ Population for all statements: **adults with [[obesity]], or overweight with wei
 
 ### Dosing and Titration
 
-| Agent | Route | Target dose | Titration |
-|---|---|---|---|
-| Semaglutide | SC | **2.4 mg weekly** | Protocolized dose escalation |
-| Liraglutide | SC | **3.0 mg daily** | Start **0.6 mg daily**, weekly escalations to 3.0 mg |
+**Gradual dose titration is recommended for both agents to minimize GI adverse effects** ([[aga-2022-obesity-pharm]]). The full schedules — the decision, not just the target dose:
 
+| Agent | Route | Start | Escalation | Maintenance dose | Time to maintenance |
+|---|---|---|---|---|---|
+| [[semaglutide]] | SC weekly | **0.25 mg weekly × first 4 weeks** | **0.5 → 1.0 → 1.7 mg weekly**, 4 weeks at each dose | **2.4 mg weekly** | **16 weeks** |
+| Liraglutide | SC daily | **0.6 mg daily × first 7 days** | **1.2 → 1.8 → 2.4 mg daily**, 7 days at each dose | **3.0 mg daily** | **4 weeks** |
+
+- **Adjust the schedule to the individual** — clinical judgment governs pace, based on response, tolerance, and adverse effects.
+- **Missed doses:** >2 consecutive doses missed → clinical judgment on the next dose; resuming at the same dose is reasonable (expert opinion) if the drug was well tolerated, otherwise step down. **≥3 consecutive doses missed → consider restarting the titration schedule.**
+- **A submaximal dose can be the final dose** — some patients achieve a strong response below the maintenance dose and may continue it long term.
 - Oral semaglutide was **excluded** from the obesity guideline — FDA-approved for T2DM only, not obesity.
-- **Gradual dose titration mitigates nausea/vomiting** for both agents.
 - Trials paired the drug with a hypocaloric diet (~500 kcal/day deficit) plus **150 min/week** of physical activity.
+
+**Co-prescribing cautions** ([[aga-2022-obesity-pharm]]):
+
+- **Do not combine** liraglutide or semaglutide with another GLP-1 RA or with a **DPP-4 inhibitor**.
+- **Delayed gastric emptying may impair absorption of oral drugs that require rapid onset** — use caution.
+- **With insulin or an insulin secretagogue (e.g. sulfonylurea):** adjust doses as clinically indicated, counsel and monitor for **hypoglycemia**. Alone, GLP-1 RAs stimulate insulin **glucose-dependently** and carry very low hypoglycemia risk.
+- **Thyroid C-cell tumors** in rodents, dose- and duration-dependent (basis for the medullary thyroid cancer / MEN2 contraindication below).
 
 ### Magnitude of Weight Loss
 

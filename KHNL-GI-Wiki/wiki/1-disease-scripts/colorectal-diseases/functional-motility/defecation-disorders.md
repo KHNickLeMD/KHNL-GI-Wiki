@@ -3,7 +3,7 @@ title: "Defecation Disorders (Dyssynergic Defecation)"
 category: disease-script
 tags: [defecation-disorder, dyssynergia, outlet-obstruction, biofeedback, anorectal-manometry, colorectal, pelvic-floor]
 created: 2026-05-16
-updated: 2026-08-31
+updated: 2026-09-01
 sources: [acg-2021-anorectal-disorders, aga-acg-2023-constipation, rome-v-2026-dgbi]
 ---
 
@@ -74,9 +74,10 @@ Severity based on symptom burden, laxative dependence, impact on QoL (PAC-QoL, P
 **Digital rectal examination (DRE) — strongly recommended:**
 
 - Assess anal tone at rest and squeeze
-- **Simulate defecation:** normally the puborectalis and external sphincter should RELAX during push — failure to relax ("pulling in") or paradoxical contraction is pathognomonic of dyssynergia
+- **Simulate defecation:** normally the puborectalis and external sphincter should RELAX during push — failure to relax ("pulling in") or paradoxical contraction is the cardinal sign of dyssynergia — but **not pathognomonic**, since 37% of asymptomatic women show the same pattern (false-positive rates below).
 - Sensitivity 75%, specificity 87% for dyssynergia (vs. manometry as reference standard, one center study)
-- Widely underperformed; should be standard in all patients with suspected DD
+- **Against BET as the reference standard, sensitivity 80% / specificity 56%** — and **a normal DRE is probably more useful than an abnormal one**. Some people with normal pelvic floor function find it awkward to simulate defecation during a DRE, which is the likely explanation for the lower specificity. [[acg-2021-anorectal-disorders]]
+- Widely underperformed; should be standard in all patients with suspected DD. **Refractory constipation is itself an indication for anorectal testing** — all patients whose symptoms fail standard therapy should be referred to exclude a DD, regardless of DRE result.
 
 **[[anorectal-manometry|Anorectal manometry]] (ARM) + balloon expulsion test (BET) — both required:**
 
@@ -87,6 +88,15 @@ Severity based on symptom burden, laxative dependence, impact on QoL (PAC-QoL, P
   - Against defecography as the reference: **sensitivity and specificity both ~88%**, **PPV 64%, NPV 97%** (106 functional-constipation + 24 DD patients). The high NPV is the operative number — a normal BET largely excludes a defecation disorder, while a positive one needs corroboration. Test mechanics live on [[anorectal-manometry]].
   - Not performed with Foley catheter (upper limit 2 minutes with Foley — misclassifies 25% of healthy individuals)
 - ACG 2021 requires **both** ARM + BET (concordance >70%, but the tests assess different aspects); **Rome V accepts any 1 of balloon expulsion / manometry / imaging** — see the test-requirement table under [[#Establishing the Diagnosis]]
+
+**Interpreting an abnormal test — the finding alone does not make the diagnosis** *(the reason ACG requires two tests and Rome V requires symptoms as a separate limb)* [[acg-2021-anorectal-disorders]]:
+
+- **False-positive and false-negative results are not uncommon** — always read the tests against the clinical features, never in isolation.
+- **A paradoxical/non-relaxing pelvic floor is common in healthy people: 37% of asymptomatic women** fail to relax or paradoxically contract the pelvic floor during evacuation. An isolated paradoxical contraction is therefore weak evidence.
+- **A negative rectoanal gradient is likewise common in healthy people** — so the gradient that Rome V leans on cannot be used as a stand-alone rule-in. The same caveat applies to the other manometric features of DD: decreased rectal pressure, high anal pressure during evacuation, and high anal resting pressure.
+- **Position matters:** seated manometry may discriminate healthy people from DD patients better than left-lateral manometry, though confirmatory studies are awaited.
+
+> **Decision gap (corpus-blocked):** the widely used **Rao dyssynergia types I–IV** (the four rectal-pressure/anal-pressure permutation patterns) are **not defined in [[acg-2021-anorectal-disorders]] or any other ingested source** — the guideline characterizes dyssynergia only as impaired relaxation/paradoxical contraction and/or inadequate propulsive force. The type definitions are deliberately not supplied here; the original Rao classification paper would be needed. Do not fill from memory.
 
 **Defecography (barium or MRI) — for structural evaluation:**
 

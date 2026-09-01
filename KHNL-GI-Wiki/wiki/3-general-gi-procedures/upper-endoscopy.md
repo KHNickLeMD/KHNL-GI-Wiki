@@ -3,7 +3,7 @@ title: "Upper Endoscopy (EGD)"
 category: general-procedure
 tags: [egd, upper-endoscopy, esophagogastroduodenoscopy, ugib, barrett-esophagus, peptic-ulcer, gpmc, celiac, quality-indicators]
 created: 2026-05-07
-updated: 2026-08-28
+updated: 2026-09-01
 sources: [acg-2025-egd-quality, aga-2024-upper-endoscopy-quality, aga-2024-glp1-endoscopy, asge-2011-foreign-body-ingestion]
 ---
 
@@ -11,6 +11,33 @@ sources: [acg-2025-egd-quality, aga-2024-upper-endoscopy-quality, aga-2024-glp1-
 
 Primary quality indicator framework from ACG/ASGE 2025. [[acg-2025-egd-quality]]
 Supplementary best practice guidance from AGA 2024 Clinical Practice Update. [[aga-2024-upper-endoscopy-quality]]
+
+## Contents
+- [[#Indications (Appropriate — >95% of EGDs should have a documented indication)]]
+- [[#Timing for UGIB]]
+- [[#Photodocumentation Standard (Priority)]]
+- [[#Esophagus-Specific Standards]]
+- [[#Stomach-Specific Standards]]
+- [[#Duodenum-Specific Standards]]
+- [[#AGA 2024 Supplementary Best Practice Guidance]]
+  - [[#Indication and Informed Consent (BPA 1)]]
+  - [[#Mucosal Visualization (BPA 2)]]
+  - [[#High-Definition Endoscopy and Image Enhancement Technologies (BPA 3 and 4)]]
+  - [[#Inspection Time (BPA 5)]]
+  - [[#Photodocumentation Standard — AGA Minimum Set (BPA 6)]]
+  - [[#Standardized Classification Systems (BPA 6)]]
+  - [[#Biopsy Protocols — AGA 2024 (BPA 7)]]
+    - [[#Eosinophilic Esophagitis]]
+    - [[#Barrett's Esophagus (Seattle Protocol)]]
+    - [[#Dyspepsia / H. pylori Evaluation]]
+    - [[#Gastric Preneoplasia — Updated Sydney System]]
+    - [[#Peptic Ulcer Disease]]
+    - [[#Gastric Polyps]]
+    - [[#Celiac Disease (Suspected or Established)]]
+    - [[#Iron-Deficiency Anemia — AGA Position]]
+  - [[#Postprocedure Documentation (BPA 8 and 9)]]
+- [[#See Also]]
+- [[#Sources]]
 
 ---
 
@@ -68,7 +95,7 @@ Document all of: esophagus, GEJ (antegrade), gastric cardia/fundus (retroflexed)
 | Evaluating for BE | ≥1 cm endoscopically evident columnar mucosa documented | >95% |
 | Suspected or confirmed BE | Prague criteria (C and M extents) | >95% |
 | BE surveillance | HDWLE + virtual chromoendoscopy (or dye-based) | >90% |
-| Known BE surveillance | 4-quadrant biopsies every 2 cm throughout involved segment | >90% |
+| Known BE surveillance | 4-quadrant biopsies **every 2 cm** throughout involved segment (QI 11). **The spacing is dysplasia-dependent** — the Seattle protocol this indicator measures is every **2 cm without dysplasia** and every **1 cm in those with dysplasia** electing surveillance; each level in a **separate jar**. Noncircumferential BE: quadrantic sampling every 2 cm from the tongues, **minimum 4 biopsies**. Full protocol: [[barretts-esophagus]] | >90% |
 | Known BE with visible lesion | Visible lesion biopsied/resected separately from systematic biopsies | >90% |
 | Nondysplastic BE (no prior dysplasia hx), **if systematic surveillance biopsy sampling was performed** | Surveillance no sooner than 3 years | >80% |
 | LA grade C/D erosive esophagitis | Recommend repeat EGD after acid suppression course | >90% |
@@ -176,7 +203,7 @@ More rigorous documentation is recommended for Barrett's esophagus, gastric inte
 
 #### Barrett's Esophagus (Seattle Protocol)
 
-- 4-quadrant biopsies every **1–2 cm** of Barrett's segment + targeted biopsies of mucosal abnormalities
+- 4-quadrant biopsies every **1–2 cm** of Barrett's segment + targeted biopsies of mucosal abnormalities. ⚠ [[aga-2024-upper-endoscopy-quality|AGA 2024]] gives the range undifferentiated; [[acg-2025-egd-quality|ACG/ASGE 2025]] resolves it by dysplasia status (2 cm nondysplastic, 1 cm dysplastic) — see [[#Esophagus-Specific Standards]]
 - ≥8 biopsies significantly improves diagnostic yield, even for 1–2 cm segments
 - Avoid routine biopsy of a normal or irregular Z-line
 - Unclear benefit to separating mid/proximal vs. distal specimens into different containers

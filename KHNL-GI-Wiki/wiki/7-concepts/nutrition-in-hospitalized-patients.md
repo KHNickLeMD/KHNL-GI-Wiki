@@ -14,6 +14,7 @@ sources: [acg-2016-nutrition-hospitalized, asge-2025-gastrostomy-tubes, asge-201
 - [[#Enteral Access]]
   - [[#Periprocedural Management of a Percutaneous Tube]]
 - [[#Initiating and Advancing EN]]
+  - [[#Refeeding Syndrome]]
 - [[#Supplemental Parenteral Nutrition]]
 - [[#Formula Selection]]
 - [[#Nutrition in Specific Situations]]
@@ -30,8 +31,21 @@ Nutrition support in the hospitalized patient encompasses the assessment of nutr
 **Validated screening tools:**
 
 - **NRS-2002** (Nutritional Risk Screening 2002): validated for hospitalized patients; total = impaired-nutritional-status points + disease-severity points + age point (scoring below)
-- **NUTRIC Score**: validated for ICU patients; incorporates IL-6, APACHE II, SOFA, comorbidities; score ≥5 = high nutritional risk
-  > ⚠ **Corpus gap — NUTRIC point values not in an ingested source.** [[acg-2016-nutrition-hospitalized]] names NUTRIC alongside NRS-2002 as a preferred screening tool but never prints its variables' point ranges or the age/comorbidity bands, so the score cannot be *calculated* from this page (unlike NRS-2002 below). The original Heyland 2011 derivation paper would be needed — do not fill from memory.
+- **NUTRIC Score**: validated for ICU patients; six factors, scored 0–3 each (scoring below)
+
+**NUTRIC scoring** (ACG 2016 Table 5) [[acg-2016-nutrition-hospitalized]] — total from **six separate factors**:
+
+| Factor | 0 | 1 | 2 | 3 |
+|---|---|---|---|---|
+| **Age (years)** | <50 | 50–74 | ≥75 | — |
+| **APACHE II score** | <15 | 15–19 | 20–27 | ≥28 |
+| **Baseline SOFA score** | <6 | 6–9 | ≥10 | — |
+| **No. of comorbidities** | 0–1 | ≥2 | — | — |
+| **Days in hospital before ICU admit** | 0 | ≥1 | — | — |
+| **Interleukin-6 (μg/mL)** | 0–399 | ≥400 | — | — |
+
+- **Interpretation (ACG 2016):** **NUTRIC 6–10 = high** nutritional risk — in a large international ICU observational study, mortality fell the closer delivered nutrition came to goal feeding. **NUTRIC 0–5 = low** risk — no association between amount of nutrition delivered and mortality. [[acg-2016-nutrition-hospitalized]]
+- ⚠ **Do not confuse the bands with NRS-2002's.** The ≥5 cut-point belongs to NRS-2002's elective-surgery validation stratum, not to NUTRIC, where 5 is still *low* risk.
 
 **NRS-2002 scoring** (ACG 2016 Table 5) [[acg-2016-nutrition-hospitalized]]:
 
@@ -125,6 +139,14 @@ Two rules that change the nutrition plan: **PEG is preferred over interventional
 - Prokinetics (metoclopramide 10 mg IV q6h or erythromycin 250 mg IV q6h): initiate for confirmed gastric intolerance
 
 **Feeding protocols:** Nurse-driven titration algorithms should be implemented to optimize EN delivery rates (Strong, Moderate–High evidence).
+
+### Refeeding Syndrome
+
+**Rec 20** — in the patient at **high risk for refeeding syndrome**, feeding should be **ramped up slowly to goal over 3–4 days**, while carefully monitoring electrolytes and volume status (Conditional, Very Low) [[acg-2016-nutrition-hospitalized]].
+
+- **Who is high risk** — any of: **BMI <20 kg/m²**; recent weight loss prior to admission; prolonged period **nil per os**.
+- **What to monitor, and for how long** — check for **hypokalemia, hypophosphatemia, hypomagnesemia** and volume status **for up to 5 days** after feeding is initiated.
+- Risk is **not** clearly higher with EN than PN — the ramp applies to either route.
 
 ---
 

@@ -3,7 +3,7 @@ title: "Noninvasive Liver Disease Assessment (NILDA)"
 category: concept
 tags: [nilda, fibrosis, steatosis, fib-4, elf, vcte, swe, mre, mri-pdff, apri, noninvasive, biomarkers, hpb, liver]
 created: 2026-05-31
-updated: 2026-08-30
+updated: 2026-09-01
 sources: [aasld-2024-nilda-blood, baveno-vii-2022-portal-hypertension, aasld-2023-nafld, aasld-2025-semaglutide-mash, aasld-2024-nilda-imaging, aasld-2024-nilda-portal-htn, aga-2023-nafld-noninvasive-biomarkers]
 ---
 
@@ -17,7 +17,7 @@ Most blood/imaging NITs have **high negative predictive value (rule-out)** but *
 
 **NPV and PPV move with disease prevalence — the same cutoff is not the same test in every clinic.** FIB-4 <1.3 has NPV ~90% in specialty populations, but modelled predictively the NPV **rises to 96% at 10% AF prevalence and falls to 73% at 50% prevalence**. A rule-out that is safe in primary care is much weaker in a hepatology or bariatric clinic. [[aga-2023-nafld-noninvasive-biomarkers]]
 
-## Blood-based (see [[aasld-2024-nilda-blood]])
+## Blood-based
 
 - **FIB-4** — rule-out advanced fibrosis <1.3 (alt ≥1.45), rule-in >2.67 (alt ≥3.25); cirrhosis ≥3.48 / <1.67; inaccurate <35 y, lower specificity with age (use >2.0 if >65 y).
 - **NFS** — rule-out < −1.455, rule-in > 0.676.

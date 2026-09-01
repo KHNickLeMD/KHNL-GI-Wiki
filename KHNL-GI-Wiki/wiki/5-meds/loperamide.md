@@ -3,7 +3,7 @@ title: "Loperamide"
 category: med
 tags: [loperamide, antimotility, antidiarrheal, opioid-agonist]
 created: 2026-07-07
-updated: 2026-08-14
+updated: 2026-09-01
 sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea, aga-2022-ibs-d, acg-2021-anorectal-disorders, aga-2026-cdiff-ibd]
 ---
 
@@ -20,14 +20,16 @@ Peripheral μ-opioid receptor agonist; antimotility agent. First-line antimotili
 - **Mild watery diarrhea:** hydration only; may use loperamide 4 mg initially to control stooling.
 - **Moderate-to-severe watery, non-travel-associated, no/low-grade fever (≤100°F):** consider ≤48 h of loperamide.
 
+> **The acute-diarrhea regimen above does not transfer to [[irritable-bowel-syndrome|IBS-D]].** [[aga-2022-ibs-d]] states plainly that "the optimal dose and method of using loperamide (eg, as needed, daily, or after a certain number of diarrheal stools) **is not known** and potentially can vary between patients based on their symptom patterns." Its recommendation rests on **2 small placebo-controlled trials, both published 1987**, neither of which defined IBS diagnostic criteria — hence *very low* certainty. Improvements appeared within **3–5 weeks**, though how that was determined was poorly described. AGA also leaves open **whether loperamide should be used in IBS-mixed type** during diarrheal episodes. Titrate to symptoms; do not import a fixed IBS-D dose from a source that does not give one.
+
 ## Indications
 
 | Setting | Recommendation | Strength/Evidence | Source |
 |---|---|---|---|
 | Traveler's diarrhea, **adjunct to antibiotics** | Administer — decreases duration, increases cure rate | Strong / Moderate | [[acg-2016-acute-diarrhea]] (Rec 8) |
 | Acute watery diarrhea, immunocompetent **adults** | May be given | Weak / Moderate | [[idsa-2017-infectious-diarrhea]] (Rec 47) |
-| [[fecal-incontinence]] | Antidiarrheals reduce stool frequency and urgency | Strong / Low | [[acg-2021-anorectal-disorders]] |
-| [[irritable-bowel-syndrome\|IBS]]-D | Suggested for diarrhea control — limited effect on **global** symptoms | Conditional | [[aga-2022-ibs-d]] |
+| [[fecal-incontinence]] — **only when FI is accompanied by diarrhea** | Antidiarrheals recommended (loperamide, diphenoxylate-atropine, bile-salt binders, anticholinergics, clonidine) — the qualifier is the indication; FI without diarrhea is not this recommendation | Strong / Low (Rec 1) | [[acg-2021-anorectal-disorders]] |
+| [[irritable-bowel-syndrome\|IBS]]-D | Suggested for diarrhea control — improves abdominal pain and stool consistency, but **no benefit on global symptoms or urgency** | Conditional / **very low** | [[aga-2022-ibs-d]] (Rec 4) |
 | [[clostridioides-difficile\|C. difficile]] in [[inflammatory-bowel-disease\|IBD]] | May consider **only** when inflammation and infection are improving but diarrhea persists | Expert review | [[aga-2026-cdiff-ibd]] |
 
 ## Adverse Effects

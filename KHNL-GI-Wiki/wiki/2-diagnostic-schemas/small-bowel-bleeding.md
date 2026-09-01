@@ -3,8 +3,42 @@ title: "Small Bowel Bleeding"
 category: diagnostic-schema
 tags: [small-bowel, gi-bleeding, obscure-gi-bleeding, mid-gi-bleeding, capsule-endoscopy, deep-enteroscopy, angioectasia, vce, dbe, iron-deficiency-anemia]
 created: 2026-05-19
-updated: 2026-08-30
+updated: 2026-09-01
 sources: [acg-2015-small-bowel-bleeding, aga-2020-ida, asge-2017-small-bowel-bleeding]
+---
+
+## Contents
+- [[#Definition / Scope]]
+- [[#Differential Diagnosis]]
+  - [[#By Age]]
+  - [[#Vascular Lesions (Most Common Overall)]]
+  - [[#Inflammatory]]
+  - [[#Neoplastic]]
+  - [[#Previously Delisted Causes]]
+- [[#Diagnostic Algorithm]]
+  - [[#Step 1: Confirm Small Bowel Origin]]
+  - [[#Step 2: Small Bowel Evaluation (Figure 1 Algorithm)]]
+  - [[#Step 3: Brisk or Massive Overt Bleeding (Figure 2 Algorithm)]]
+  - [[#Step 4: Sub-Acute Ongoing Bleeding (Figure 3 Algorithm)]]
+- [[#Key Tests]]
+  - [[#Video Capsule Endoscopy (VCE)]]
+  - [[#Push Enteroscopy]]
+  - [[#Device-Assisted Enteroscopy (DAE)]]
+  - [[#CT Enterography (CTE)]]
+  - [[#CT Angiography (CTA)]]
+  - [[#Tagged RBC Scintigraphy (⁹⁹ᵐTc-labeled RBCs)]]
+  - [[#Conventional Angiography]]
+  - [[#Meckel's Scan (⁹⁹ᵐTc-pertechnetate)]]
+  - [[#Intraoperative Enteroscopy (IOE)]]
+- [[#Treatment]]
+  - [[#Endoscopic Therapy]]
+  - [[#Conservative Management (No Bleeding Source Found on Workup)]]
+  - [[#Medical Therapy for Refractory/Recurrent Bleeding]]
+  - [[#Surgical Therapy]]
+- [[#Red Flags / Alarm Features]]
+- [[#See Also]]
+- [[#Sources]]
+
 ---
 
 ## Definition / Scope
@@ -125,7 +159,7 @@ This guideline replaces the older term **"obscure GI bleeding (OGIB)"** with ana
 
 ## Key Tests
 
-### Video Capsule Endoscopy (VCE) — [[capsule-endoscopy]]
+### Video Capsule Endoscopy (VCE)
 
 - **First-line test** for SBB after exclusion of upper/lower sources. *(Strong/Moderate)*
 - Evaluates 79–90% of small bowel; diagnostic yield 38–83% for suspected SBB.
@@ -142,7 +176,7 @@ This guideline replaces the older term **"obscure GI bleeding (OGIB)"** with ana
 - Diagnostic yield 3–70% (majority of findings are vascular lesions).
 - Key role: second-look for proximal lesions missed by VCE; important because ~25% of "SBB" lesions are within reach of standard EGD. *(Strong/Very Low for proximal lesion concern)*
 
-### Device-Assisted Enteroscopy (DAE) — [[device-assisted-enteroscopy]]
+### Device-Assisted Enteroscopy (DAE)
 
 - Collectively: double-balloon enteroscopy (DBE), single-balloon enteroscopy (SBE), and spiral enteroscopy.
 - Indicated when: (a) positive VCE requiring therapy; (b) VCE contraindicated; (c) negative VCE with high clinical suspicion; (d) active bleeding.
@@ -208,7 +242,7 @@ This guideline replaces the older term **"obscure GI bleeding (OGIB)"** with ana
 - Preferred modality: **[[argon-plasma-coagulation|argon plasma coagulation]] (APC)** via deep enteroscopy (since 2001).
 - Rebleeding rate after endoscopic treatment of vascular SB lesions: 20–50% at medium-term follow-up (meta-analysis: pooled 34% at mean 22 months; 45% in subset with SB angioectasia only).
 
-### Conservative Management (No Source Found)
+### Conservative Management (No Bleeding Source Found on Workup)
 
 - Manage with **oral iron** or **IV iron infusion** based on severity/persistence of IDA. *(Strong/Very Low)*
 - A small vascular lesion found on VCE does not always require treatment. *(Strong/Very Low)*

@@ -3,7 +3,7 @@ title: "Acute Cholecystitis"
 category: disease-script
 tags: [acute-cholecystitis, gallbladder, cholecystectomy, eus-gbd, percutaneous-cholecystostomy, transpapillary-drainage, lams, high-surgical-risk]
 created: 2026-07-23
-updated: 2026-08-31
+updated: 2026-09-01
 sources: [aga-2023-eus-gallbladder-drainage, asge-2024-therapeutic-eus-biliary, aga-2024-pregnancy-gi-liver, tg18-2018-cholangitis-flowchart]
 ---
 
@@ -98,6 +98,7 @@ Three routes ([[aga-2023-eus-gallbladder-drainage]]):
 | **Disadvantages** | 50%–75% morbidity; drain exchanges/reinterventions; recurrent cholecystitis up to 15.4%; dyscosmesis | Lower technical (84% vs 98%) and lowest clinical success (91% vs 97% vs EUS-GBD); pancreatitis risk; stent exchanges | Fistula closure needed if later cholecystectomy; food occlusion; **contraindicated in gallbladder perforation** |
 
 - **Comparative outcomes:** EUS-GBD vs PT-GBD (5 studies, 488 pts, incl. DRAC-1 RCT) — comparable technical/clinical success, but PT-GBD has longer stays, slower resolution, more reintervention, more pain, and more recurrent cholecystitis (20% vs 2.6%, P = .029). Network meta-analysis: recurrent cholecystitis lowest with EUS-GBD (RR 1.089 vs PT 2.02 vs ET 2.891); mortality lowest with ET-GBD (RR 1.29 vs EUS 2.62 vs PT 2.09). ([[aga-2023-eus-gallbladder-drainage]])
+
 **[[asge-2024-therapeutic-eus-biliary|ASGE 2024]] — the newer guideline, and it moves the default.** In patients with acute cholecystitis who are **not cholecystectomy candidates**, ASGE suggests **EUS-GBD over PT-GBD** (Rec 5a) **and EUS-GBD over ET-GBD** (Rec 5b) — both **conditional, moderate quality of evidence**. Its per-route carve-outs:
 
 | Route | ASGE 2024 says prefer it when |

@@ -3,7 +3,7 @@ title: "TIPS (Transjugular Intrahepatic Portosystemic Shunt)"
 category: advanced-procedure
 tags: [tips, portal-hypertension, variceal-bleeding, refractory-ascites, hepatic-encephalopathy, pspg, ptfe-stent, rto, brto, interventional-radiology]
 created: 2026-07-16
-updated: 2026-08-31
+updated: 2026-09-01
 sources: [aasld-2024-tips, aasld-2021-ascites-sbp-hrs, aga-2025-ascites-cirrhosis, aasld-2021-vascular-pvt, wang-2026-eus-ppg-delphi-consensus]
 ---
 
@@ -51,7 +51,8 @@ sources: [aasld-2024-tips, aasld-2021-ascites-sbp-hrs, aga-2025-ascites-cirrhosi
 *Table — TIPS scenarios in variceal bleeding ([[aasld-2024-tips]], Table 4).*
 
 - **Preemptive TIPS criteria:** Child-Pugh class **C 10–13 points**, or Child-Pugh class **B 8–9 points with active bleeding at initial endoscopy** despite concomitant vasoactive agents → PTFE-covered stent within 72 h (ideally <24 h) of initial [[upper-endoscopy|upper endoscopy]]
-  - *The Child-Turcotte-Pugh and MELD-Na scoring tables that assign these points live on [[cirrhosis]] — every TIPS selection and futility threshold below is read off them.*
+  - *The Child-Turcotte-Pugh and MELD/MELD-Na scoring tables that assign these points live on [[cirrhosis]] — every TIPS selection and futility threshold below is read off them.*
+  - ⚠ **Read the score name literally.** The TIPS thresholds below are stated by their sources as **plain MELD** (`MELD <18` for refractory ascites, `MELD >30` for salvage futility), **not MELD-Na** — the two differ by several points around exactly these cutoffs. Do not substitute one for the other.
   - Encephalopathy, hyperbilirubinemia, and/or [[acute-on-chronic-liver-failure|ACLF]] at time of bleeding had **no impact on survival** in observational data and should **not** contraindicate preemptive TIPS
   - Caveats: preemptive-TIPS RCTs enrolled mainly [[alcohol-associated-liver-disease|alcohol-associated]] and [[chronic-hepatitis-b|hepatitis B]]–related cirrhosis — generalizability to [[nafld-masld|MASH]]-related cirrhosis undetermined; a 2021 RCT (n=58) found similar 1-year survival vs standard of care, and the updated meta-analysis showed lower 6-week rebleeding but **no significant survival benefit**
 - **Secondary prevention:** TIPS is **second-line** — first-line remains NSBB (propranolol, nadolol, or carvedilol) + endoscopic variceal ligation; TIPS is treatment of choice for rebleeding despite that combination. RCTs consistently show TIPS prevents rebleeding but with **increased HE and no survival difference**
@@ -77,12 +78,12 @@ sources: [aasld-2024-tips, aasld-2021-ascites-sbp-hrs, aga-2025-ascites-cirrhosi
 
 | Absolute | Relative | Technically difficult |
 |---|---|---|
-| Congestive heart failure (**stage C or D**, or documented **EF <50%**) | Untreated biliary obstruction | Polycystic liver disease ([[hepatic-cysts]]) |
+| Congestive heart failure (**ACC/AHA stage C or D**, or documented **EF <50%**) — ⚠ *the stage C/D definitions are not given in any ingested source; apply the EF limb, and flag the stage limb as corpus-blocked (needs an ACC/AHA HF guideline ingested)* | Untreated biliary obstruction | Polycystic liver disease ([[hepatic-cysts]]) |
 | Severe pulmonary arterial hypertension (**mPAP >45 mm Hg**) — see [[hepatopulmonary-syndrome-portopulmonary-hypertension]] | Uncorrectable severe coagulopathy — see [[cirrhosis-hemostasis]] | Hepatic or portal vein occlusion |
 | Severe **uncontrolled** hepatic encephalopathy | | Intrahepatic tumors |
 | Systemic infection or sepsis | | |
 
-- **No specific MELD threshold contraindicates TIPS**, although higher MELD predicts higher mortality
+- **No specific MELD threshold contraindicates TIPS** *as a general contraindication*, although higher MELD predicts higher mortality. This is **not** in conflict with the futility rule below: that rule is scoped to **salvage/rescue** TIPS in uncontrolled bleeding, not to elective TIPS
 - Most variceal-bleeding trials excluded **Child-Pugh >13**; patients **>75** were excluded from RCTs and TIPS in those >70 has been infrequent (recent data suggest acceptable outcomes in highly selected patients >70)
 - Risk–benefit differs when TIPS is a last-resort, life-saving procedure (uncontrolled hemorrhage) vs when alternatives exist (secondary prevention, refractory ascites)
 - **Futility:** MELD **>30**, lactate **>12 mmol/L**, or Child-Pugh **>13** → do not use salvage/rescue TIPS unless as a **short-term bridge to transplant**
@@ -107,7 +108,7 @@ sources: [aasld-2024-tips, aasld-2021-ascites-sbp-hrs, aga-2025-ascites-cirrhosi
 
 ## Hemodynamic Targets
 
-- **[[hepatic-venous-pressure-gradient|HVPG]]** = portal vein pressure − hepatic vein pressure
+- **[[hepatic-venous-pressure-gradient|HVPG]]** = **wedged (occluded) hepatic vein pressure − free hepatic vein pressure** — an *indirect* estimate of the portal gradient. ⚠ Do **not** read it as "portal vein pressure − hepatic vein pressure"; that expression is the *direct* portocaval gradient measured by [[interventional-eus-vascular|EUS-PPG]] or at TIPS, not HVPG. Definition and staging bands have one home: [[hepatic-venous-pressure-gradient]].
 - **PSPG** (portosystemic pressure gradient) = portal pressure − **suprahepatic (intra-abdominal) IVC pressure** — correlates better with clinical outcomes than using right atrial pressure
   - If IVC pressure is not measurable, right atrial pressure is substituted, but this **overestimates PSPG** (atrial pressure is generally lower than IVC)
   - Gradients recorded under general anesthesia/sedation in fasting conditions may not reflect the "real" PSPG
@@ -147,7 +148,7 @@ sources: [aasld-2024-tips, aasld-2021-ascites-sbp-hrs, aga-2025-ascites-cirrhosi
 - **TIPS dysfunction** = loss of portal venous decompression (**PSPG >12 mm Hg**) from thrombosis or stenosis; presents clinically as recurrent variceal bleeding, ascites, or hepatic hydrothorax
 - Far more likely with bare metallic stents; with PTFE stent-grafts the most common site of lost patency is the **unstented native hepatic vein** — hence the need for precise placement to the vein ostium
 - **PTFE patency: >90% at 1 year, 75% at 3 years**
-- **Doppler-US schedule:** 1–4 weeks, 3 months, 6 months, then every 6 months. TIPS interrogation by Doppler is not a routine study and may require tertiary referral
+- **Doppler-US schedule:** first study **1–4 weeks** (the source's description of usual practice, any TIPS indication), then 3 months, 6 months, then every 6 months. **For TIPS placed specifically for variceal hemorrhage the graded statement narrows the first study to 1 week** (Guidance Statement 8, see [[#Guidance Statements (AASLD 2024)]]) — the two figures are the same document's practice description vs its scoped recommendation, not a disagreement. TIPS interrogation by Doppler is not a routine study and may require tertiary referral
 - **Dysfunction prediction rule** — mean maximum portal vein velocity (mVPmax) **<28 cm/s if hepatofugal** flow, or **<39 cm/s if hepatopetal** flow → 90% sensitivity, 45% specificity, negative LR 0.23. Accuracy improves when clinical parameters (e.g. presence of ascites) are added
 - Endovascular evaluation/therapy is recommended when Doppler shows stenosis or occlusion. A **negative Doppler does not preclude** direct catheter venography when signs/symptoms of portal hypertension recur
 

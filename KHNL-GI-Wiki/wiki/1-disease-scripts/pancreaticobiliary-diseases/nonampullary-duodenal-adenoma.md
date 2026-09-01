@@ -3,7 +3,7 @@ title: "Nonampullary Duodenal Adenoma"
 category: disease-script
 tags: [duodenal-adenoma, nonampullary-adenoma, endoscopic-mucosal-resection, cold-snare, familial-adenomatous-polyposis, spiegelman, surveillance, gi-bleeding, perforation]
 created: 2026-07-21
-updated: 2026-08-31
+updated: 2026-09-01
 sources: [aga-2025-nonampullary-duodenal, asge-2015-ampullary-duodenal-adenomas]
 ---
 
@@ -115,16 +115,11 @@ Describe every duodenal polyp by **(BPA 3):**
 - **Resect (BPA 13)** FAP-associated DAs based on **size (≥1 cm)**, morphologic characteristics, **advanced histology (HGD)**, and/or **Spiegelman criteria**. Because of the mucosal field defect, permanent/complete polyp elimination is unrealistic — the strategy is to **control the disease** and remove larger/morphologically advanced lesions. Polyp removal may **down-stage** the Spiegelman score.
 - **Surveillance** may begin at **age 25**; interval set by Spiegelman stage. [[device-assisted-enteroscopy|Deep enteroscopy]]/capsule reserved for **advanced polyposis** or polyps extending toward the **ligament of Treitz**. **Chromoendoscopy** increases detection and upstages severity but its clinical value is not established.
 
-**Spiegelman classification (Table 1):**
+**Spiegelman/Spigelman scoring — the 4 variables (number, size, histology, dysplasia) and their 1/2/3-point values live on [[familial-adenomatous-polyposis]]**, together with the ASGE 2020 *modified* dysplasia row (LGD = 1, HGD = 3, no 2-point tier). Stage cut-points are identical in both sources: **0 = 0 · I = 1–4 · II = 5–6 · III = 7–8 · IV = 9–12.**
 
-| Variable | 1 Point | 2 Points | 3 Points |
-|---|---|---|---|
-| No. of polyps | 1–4 | 5–20 | >20 |
-| Polyp size, mm | 1–4 | 5–10 | >10 |
-| Histology | Tubulous | Tubulovillous | Villous |
-| Dysplasia | Mild | Moderate | Severe |
+**Surveillance interval and adenocarcinoma risk by stage — as printed in [[aga-2025-nonampullary-duodenal]] Table 1:**
 
-| Stage | Score | Surveillance | Adenocarcinoma risk, % |
+| Stage | Spiegelman score | Surveillance | Adenocarcinoma risk, % |
 |---|---|---|---|
 | 0 | 0 | 4 y | — |
 | I | 1–4 | 2–3 y | — |
@@ -132,6 +127,7 @@ Describe every duodenal polyp by **(BPA 3):**
 | III | 7–8 | 6–12 mo | 2.4 |
 | IV | 9–12 | Surgical consult, 6–12 mo | 36 |
 
+- ⚠ **Contradiction on the record — the intervals differ from the ones on [[familial-adenomatous-polyposis]].** That page carries [[acg-2015-hereditary-gi-cancer|ACG 2015]] Table 9, which sets **stage II at every 1–3 y** and **stage IV at every 3–6 months + surgical evaluation**; AGA 2025 above sets stage II at 2–3 y and stage IV at 6–12 months with surgical consult. Same guideline tier, and **AGA 2025 is the newer publication**, so it governs. The gap is widest at **stage IV (3–6 mo vs 6–12 mo)**; **no ingested source adjudicates the difference**, so it is recorded rather than resolved.
 - Stage IV disease, **HGD**, and **lesion size ≥10 mm** are risk factors for duodenal cancer (~4% of FAP patients overall).
 
 ---

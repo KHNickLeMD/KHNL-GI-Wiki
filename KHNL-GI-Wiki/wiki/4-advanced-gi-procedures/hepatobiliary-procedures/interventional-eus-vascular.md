@@ -3,7 +3,7 @@ title: "Interventional EUS for Vascular Investigation and Therapy"
 category: advanced-procedure
 tags: [eus, gastric-varices, coil-embolization, cyanoacrylate, eus-ppg, portal-pressure-gradient, portal-vein-sampling, pseudoaneurysm, splenic-artery-embolization, rectal-varices, portal-hypertension]
 created: 2026-07-23
-updated: 2026-08-30
+updated: 2026-09-01
 sources: [aga-2023-interventional-eus-vascular, wang-2026-eus-ppg-delphi-consensus]
 ---
 
@@ -76,8 +76,9 @@ sources: [aga-2023-interventional-eus-vascular, wang-2026-eus-ppg-delphi-consens
 
 ## EUS-Guided Portal Pressure Gradient (EUS-PPG)
 
-- Standard **HVPG** (interventional radiology, transjugular) measures the portal gradient **indirectly** — free hepatic vein pressure minus wedged hepatic vein pressure. Drawbacks: requires radiation and contrast; being indirect it can **misdiagnose noncirrhotic/presinusoidal portal hypertension**.
-- Reference thresholds cited: **HVPG >10 mm Hg** correlates with development of esophageal varices; **HVPG >12 mm Hg** with increased risk of bleeding esophageal varices. (Full HVPG staging is on [[portal-hypertension]].)
+- Standard **[[hepatic-venous-pressure-gradient|HVPG]]** (interventional radiology, transjugular) measures the portal gradient **indirectly**, as the difference between wedged and free hepatic vein pressure. Drawbacks: requires radiation and contrast; being indirect it can **misdiagnose noncirrhotic/presinusoidal portal hypertension**.
+  - ⚠ **Source wording flagged:** [[aga-2023-interventional-eus-vascular|AGA 2023]] writes this as *"the difference between the free hepatic vein pressure and wedged hepatic vein pressure"* — the subtraction stated in that order yields a negative number. The definition this wiki asserts is the one on its home page, **[[hepatic-venous-pressure-gradient]]** (HVPG = WHVP − FHVP); do not carry the CPU's ordering across.
+- Reference thresholds cited: **HVPG >10 mm Hg** correlates with development of esophageal varices; **HVPG >12 mm Hg** with increased risk of bleeding esophageal varices. (Full HVPG staging is on [[hepatic-venous-pressure-gradient]]; portal-hypertension staging context on [[portal-hypertension]].)
 - **EUS-PPG measures the hepatic vein–portal vein gradient directly**, using the FDA-approved EchoTip Insight system (Cook).
 
 ### Technique — EUS-PPG

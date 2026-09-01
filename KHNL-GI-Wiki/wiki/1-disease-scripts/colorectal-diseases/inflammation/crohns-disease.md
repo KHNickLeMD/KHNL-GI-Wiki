@@ -3,7 +3,7 @@ title: "Crohn's Disease"
 category: disease-script
 tags: [crohns, ibd, biologics, ileitis, colitis, perianal-fistula, stricture, fistula, anti-tnf]
 created: 2026-05-07
-updated: 2026-08-31
+updated: 2026-09-01
 sources: [acg-2025-crohns, aga-2025-crohns-pharm, aga-2021-crohns-pharm, aga-2023-biomarkers-cd, acg-2018-crohns, asge-2015-scenic-ibd-dysplasia, asge-2015-ibd, aga-2026-inpatient-ibd, aga-2026-therapeutic-endoscopy-ibd, aga-2024-intestinal-ultrasound, aga-2024-diet-nutrition-ibd, aga-2024-ibd-malignancy, aga-2024-pregnancy-gi-liver]
 ---
 
@@ -422,7 +422,7 @@ No single pathognomonic test. Diagnosis = integration of:
 | Clinical response | 2–4 weeks post-induction | Symptom improvement |
 | Objective response | 12–16 weeks | CRP, FC, endoscopy, imaging |
 | TDM (anti-TNF) | At loss of response | Trough levels + antidrug antibodies |
-| [[colorectal-cancer\|CRC]] surveillance | 8 years of colonic involvement; q1–2y | HD + dye-spray chromoendoscopy preferred ([[asge-2015-scenic-ibd-dysplasia\|SCENIC]]) |
+| [[colorectal-cancer\|CRC]] surveillance | From **8 y** of disease (extent criteria under Special Considerations); **[[primary-sclerosing-cholangitis\|PSC]] → from diagnosis** | Same strategy as [[ulcerative-colitis\|UC]] — dysplasia progression rates are equivalent in UC and CD. HD + dye-spray chromoendoscopy preferred; **NBI should *not* be used** in CD surveillance ([[acg-2018-crohns]] rec 4). ⚠ **No repeat interval is stated in any ingested source** — [[asge-2015-scenic-ibd-dysplasia\|SCENIC]] explicitly did not address intervals; flagged, not filled |
 | Postoperative scope | 6–12 months | Rutgeerts score |
 
 **Symptoms do not correlate with mucosal inflammation** — always confirm with objective assessment (endoscopy, CRP, FC) before treatment decisions.

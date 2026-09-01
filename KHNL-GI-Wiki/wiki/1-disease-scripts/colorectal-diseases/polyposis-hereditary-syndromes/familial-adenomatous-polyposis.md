@@ -3,9 +3,26 @@ title: "Familial Adenomatous Polyposis"
 category: disease-script
 tags: [fap, apc, afap, map, mutyh, hereditary-crc, polyposis, duodenal-adenoma, desmoid, spigelman, genetic-testing, colorectal-cancer]
 created: 2026-05-19
-updated: 2026-08-30
+updated: 2026-09-01
 sources: [acg-2015-hereditary-gi-cancer, asge-2020-fap]
 ---
+
+## Contents
+- [[#Assessment]]
+  - [[#Establishing the Diagnosis]]
+  - [[#Classification / Typing]]
+  - [[#Cumulative Cancer Risks]]
+- [[#Differential Diagnosis]]
+- [[#Diagnostics]]
+  - [[#Colonoscopic Evaluation]]
+  - [[#Upper GI Surveillance (Duodenal / Gastric)]]
+  - [[#Extraintestinal Surveillance]]
+- [[#Therapeutics]]
+  - [[#Surgical Management]]
+  - [[#Chemoprevention]]
+  - [[#Management of Extracolonic Manifestations]]
+- [[#See Also]]
+- [[#Sources]]
 
 ## Assessment
 
@@ -124,13 +141,15 @@ Familial adenomatous polyposis (FAP) and its related syndromes — attenuated FA
 - Standard forward-viewing EGD supplemented with side-viewing instrument; random sampling of fundic gland polyps in stomach
 - Frequency determined by **Spigelman staging** of duodenal polyposis (Table 9):
 
-| Spigelman Stage | Total Points | Surveillance Interval |
-|---|---|---|
-| 0 | 0 | Every 4 years |
-| I | ≤4 | Every 2–3 years |
-| II | 5–6 | Every 1–3 years |
-| III | 7–8 | Every 6–12 months |
-| IV | 9–12 | Every 3–6 months + Surgical evaluation |
+| Spigelman Stage | Total Points | Interval — [[acg-2015-hereditary-gi-cancer\|ACG 2015]] Table 9 | Interval — [[asge-2020-fap\|ASGE 2020]] Table 6 *(asserted here)* |
+|---|---|---|---|
+| 0 | 0 | Every 4 years | **Every 5 years** (0 and I combined) |
+| I | ACG prints **≤4**; ASGE prints **1–4** | Every 2–3 years | **Every 5 years** (0 and I combined) |
+| II | 5–6 | Every 1–3 years | **Every 3 years** |
+| III | 7–8 | Every 6–12 months | Every 6–12 months |
+| IV | 9–12 | Every 3–6 months + surgical evaluation | Every 3–6 months + surgical evaluation |
+
+> **Contradiction (surfaced):** the two guidelines disagree on the **low-stage** intervals — ACG 2015 surveils stage 0 at 4 y, I at 2–3 y and II at 1–3 y, whereas [[asge-2020-fap|ASGE 2020]] collapses **0–I into a single 5-year interval** and stretches **II to 3 years**. Stages III and IV are concordant. Same tier → the newer ASGE intervals are what this page asserts; the ACG column is kept because readers carry it. The stage **cut-points** are otherwise the same in both, except that ACG's stage I is written `≤4` (which overlaps stage 0) where ASGE writes `1–4`.
 
 *Scoring (each of 4 variables scores 1/2/3 points; total 0–12):*
 
@@ -154,7 +173,16 @@ Familial adenomatous polyposis (FAP) and its related syndromes — attenuated FA
 - Adenomatous gastric polyps in ~10%; confined mainly to antrum but can occur in body/fundus
 - Lifetime risk of [[gastric-adenocarcinoma|gastric cancer]] in FAP ~0.6%
 - Random gastric biopsies at each EGD; surgery reserved for high-grade dysplasia or cancer (Strong/VLow)
-- **Upper-GI start ages differ by syndrome** ([[acg-2015-hereditary-gi-cancer]] Table 10): FAP and **AFAP** begin EGD with a side-viewing instrument at **25–30**; **[[mutyh-associated-polyposis|MAP]]** begins at **30–35** (guideline text: "around age 30"). All three then follow the same Spigelman intervals — MAP's duodenal cancer risk is similar to AFAP/FAP
+- **Upper-GI start ages differ by syndrome — and the two guidelines differ on FAP/AFAP:**
+
+| Syndrome | Start — [[acg-2015-hereditary-gi-cancer\|ACG 2015]] Table 10 | Start — [[asge-2020-fap\|ASGE 2020]] Table 6 *(asserted here)* | Instrument |
+|---|---|---|---|
+| FAP and attenuated FAP | **25–30 y** | **20–25 y, or before colectomy** | EGD with duodenoscope **or cap-assisted gastroscope** |
+| [[mutyh-associated-polyposis\|MAP]] | **30–35 y** (text: "around age 30") | **30–35 y, or before colectomy** | EGD |
+
+> **Contradiction (surfaced):** ASGE 2020 begins FAP/AFAP upper-GI surveillance **5 years earlier** than ACG 2015, and ties the start to colectomy timing (**"or before colectomy"**) — a qualifier ACG does not give. Same tier → the newer ASGE start age is what this page asserts. The two agree on MAP at 30–35.
+
+- All three syndromes then follow the same Spigelman intervals — MAP's duodenal cancer risk is similar to AFAP/FAP
 
 **Endoscopic management of upper-GI polyposis** (ASGE 2020) [[asge-2020-fap]]:
 
@@ -163,6 +191,18 @@ Familial adenomatous polyposis (FAP) and its related syndromes — attenuated FA
 - **Endoscopically resect gastric and duodenal polyps >1 cm** (dysplasia risk) and **resect all antral polyps** (predilection for gastric adenomas there)
 - **Examine the ampulla/periampullary region carefully with a duodenoscope or cap-assisted gastroscope**; biopsy the ampulla **only if there is an identifiable mucosal abnormality**, taking care to avoid the pancreatic orifice (pancreatitis risk)
 - Routine **chromoendoscopy is not recommended** during duodenal surveillance; routine **[[device-assisted-enteroscopy|deep enteroscopy]] is not recommended** for small-bowel surveillance
+
+**Gastric and small-bowel intervals** — [[asge-2020-fap|ASGE 2020]] Table 6:
+
+| Finding | Interval / action |
+|---|---|
+| [[gastric-polyps\|Gastric]] adenoma | **1 year** |
+| Gastric **high-grade dysplasia** | **3–6 months** + surgical evaluation |
+| Gastric **polyposis mounds** | Baseline [[endoscopic-ultrasound\|EUS]], then every **3–6 months** |
+| Gastric polyposis mounds **+ HGD** | **Surgery** |
+| **Index small-bowel screening** — [[capsule-endoscopy\|capsule endoscopy]] or MR enterography | At **Spigelman stage III or IV**; every **2–4 years**, or **before duodenectomy** |
+
+- These are not in tension with the "no routine deep enteroscopy" statement above: an **index** small-bowel study by capsule/MRE is indicated once the duodenum reaches Spigelman III–IV, whereas routine **deep enteroscopy** is not — different tests answering different questions
 
 ### Extraintestinal Surveillance
 
@@ -268,7 +308,7 @@ Familial adenomatous polyposis (FAP) and its related syndromes — attenuated FA
 
 ## See Also
 
-[[colorectal-polyposis]], [[lynch-syndrome]], [[mutyh-associated-polyposis]], [[peutz-jeghers-syndrome]], [[juvenile-polyposis-syndrome]], [[cowden-syndrome]], [[hereditary-mixed-polyposis-syndrome]], [[colorectal-cancer]], [[colorectal-cancer-screening]], [[colonoscopy]], [[upper-endoscopy]], [[serrated-polyposis-syndrome]], [[ampullary-adenoma]], [[nonampullary-duodenal-adenoma]], [[gastric-polyps]], [[gastric-adenocarcinoma]], [[device-assisted-enteroscopy]], [[polypectomy]], [[pouchitis]]
+[[colorectal-polyposis]], [[lynch-syndrome]], [[mutyh-associated-polyposis]], [[peutz-jeghers-syndrome]], [[juvenile-polyposis-syndrome]], [[cowden-syndrome]], [[hereditary-mixed-polyposis-syndrome]], [[colorectal-cancer]], [[colorectal-cancer-screening]], [[colonoscopy]], [[upper-endoscopy]], [[serrated-polyposis-syndrome]], [[ampullary-adenoma]], [[nonampullary-duodenal-adenoma]], [[gastric-polyps]], [[gastric-adenocarcinoma]], [[device-assisted-enteroscopy]], [[capsule-endoscopy]], [[endoscopic-ultrasound]], [[polypectomy]], [[pouchitis]]
 
 ---
 

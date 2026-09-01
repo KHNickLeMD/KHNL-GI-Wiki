@@ -267,15 +267,6 @@ Where the numbers actually change management ([[aga-2025-flip-esophageal]]):
 4. **Inconclusive EGJ Opening** — report numerically; correlate with symptoms and TBE; consider HRM
 5. **Post-ARS Obstruction with Normal Contractility** — consider tight/twisted wrap before treating as primary motor disorder
 
-### Indications & Use ([[aga-2025-flip-esophageal|AGA 2025 CPU]])
-
-- Perform a **high-quality [[upper-endoscopy|upper endoscopy]] immediately before** FLIP; consider FLIP when alternate tests (HRM/TBE) are **inconclusive** in obstructive symptoms, or at index endoscopy when expertise is available.
-- Standard [[endoscopy-sedation|endoscopy sedation]] (propofol/fentanyl/midazolam) does **not** meaningfully alter FLIP findings.
-- If EGD strongly supports achalasia, FLIP may **confirm** it; if EGD does not, abnormal EGJ opening should **prompt further testing**.
-- **Do not use FLIP to diagnose [[gerd|GERD]]** or decide on antireflux intervention.
-- Consider **intraprocedural FLIP during myotomy** (POEM/LHM) to gauge LES-disruption adequacy, and for **persisting obstructive symptoms after achalasia treatment**.
-- Useful in **[[eosinophilic-esophagitis|EoE]]** when the mechanism of persistent [[dysphagia]] is unclear on endoscopy/histology (esophageal remodeling). Contraindicated with actively [[variceal-upper-gi-bleeding|bleeding varices]].
-
 ---
 
 ## See Also

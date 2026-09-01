@@ -16,7 +16,10 @@ A management strategy for **uninvestigated [[dyspepsia]]** in which patients are
 ## Rationale
 
 - H. pylori-associated [[peptic-ulcer-disease|peptic ulcer disease]] is the most common treatable cause of [[dyspepsia]]
-- Eradication resolves dyspepsia in a meaningful proportion (~10% NNT over 12 months)
+- **Eradication resolves dyspepsia in a minority — know which NNT you are quoting** [[acg-cag-2017-dyspepsia]]:
+  - *H. pylori*-**positive** dyspepsia, eradication vs placebo (2 trials, 563 patients): **NNT 7 (95% CI 5–14)**; RR of remaining dyspeptic 0.81 (0.70–0.94)
+  - **Functional dyspepsia** at 3–12 months (2,604 vs 2,292 patients): **NNT 12.5 (95% CI 10–20)** — dyspepsia persisted in **67.9%** after eradication vs **76.4%** of controls; RR 0.91 (0.88–0.94)
+  - For comparison in the same guideline: empiric PPI vs placebo/antacid **NNT 6 (4–11)**
 - Avoids the cost and risk of early endoscopy in low-risk patients
 - Preferred over empiric [[proton-pump-inhibitors|PPI]] therapy or prompt endoscopy in appropriate patients
 

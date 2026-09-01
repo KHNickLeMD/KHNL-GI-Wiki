@@ -3,7 +3,7 @@ title: "Toxic Megacolon"
 category: disease-script
 tags: [toxic-megacolon, colitis, cdiff, ibd, ulcerative-colitis, asuc, surgical-emergency]
 created: 2026-07-26
-updated: 2026-08-31
+updated: 2026-09-01
 sources: [acg-2025-uc, acg-2021-cdiff]
 ---
 
@@ -16,6 +16,8 @@ Life-threatening total or segmental **colonic dilation with systemic toxicity**,
 - [[#Differential Diagnosis]]
 - [[#Diagnostics]]
 - [[#Therapeutics]]
+- [[#See Also]]
+- [[#Sources]]
 
 ## Assessment
 
@@ -57,10 +59,7 @@ Toxic megacolon sits at the severe end of two underlying-disease severity framew
 
 - **Toxic megacolon is the "megacolon" limb that upgrades severe CDI to fulminant CDI.**
 
-**Predictors of steroid failure / colectomy in ASUC** (drive escalation timing):
-- **Oxford (Travis) index** — the most widely recognized: on **day 3 of IV corticosteroids**, **>8 bowel movements**, *or* **3–8 BM together with CRP >45 mg/L** → colectomy in **85%**. For contrast, colectomy occurred in **40%** of partial responders and **5%** of complete responders.
-- **Ho index:** integrates BM frequency + colonic dilation + hypoalbuminemia. *(Component point values / colectomy-risk cut-point are not reproduced in the ingested sources — flagged, not filled.)*
-- Additional: **ESR >75 mm/hr**, **temp >38 °C**, hypoalbuminemia, **UCEIS ≥7** (higher PPV for colectomy than MES 3), deep colonic ulceration on endoscopy.
+**Predictors of steroid failure / colectomy in ASUC** (drive escalation timing) — the Oxford (Travis) day-3 criteria, the Ho index, and the other steroid-failure predictors live on [[ulcerative-colitis]] (ASUC section), where the escalation decision is made. **UCEIS ≥7** has a higher PPV for colectomy than MES 3.
 
 ## Differential Diagnosis
 

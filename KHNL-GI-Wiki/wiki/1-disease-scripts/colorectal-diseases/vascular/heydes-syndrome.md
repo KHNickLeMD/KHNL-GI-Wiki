@@ -1,18 +1,10 @@
 ---
-title: Heyde's Syndrome
+title: "Heyde's Syndrome"
 category: disease-script
-tags:
-  - heydes-syndrome
-  - aortic-stenosis
-  - angioectasia
-  - von-willebrand
-  - gi-bleeding
-  - small-bowel
-  - vascular-lesion
+tags: [heydes-syndrome, aortic-stenosis, angioectasia, von-willebrand, gi-bleeding, small-bowel, vascular-lesion]
 created: 2026-05-19
-updated: 2026-08-28
-sources:
-  - acg-2015-small-bowel-bleeding
+updated: 2026-09-01
+sources: [acg-2015-small-bowel-bleeding]
 ---
 
 ## Contents

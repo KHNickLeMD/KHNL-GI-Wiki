@@ -3,9 +3,23 @@ title: "Peutz-Jeghers Syndrome"
 category: disease-script
 tags: [peutz-jeghers, pjs, stk11, lkb1, hamartoma, hereditary-crc, pancreatic-cancer, small-bowel, intussusception, genetic-testing]
 created: 2026-05-19
-updated: 2026-08-27
+updated: 2026-09-01
 sources: [acg-2015-hereditary-gi-cancer, aga-2022-hamartomatous-polyposis]
 ---
+
+## Contents
+- [[#Assessment]]
+  - [[#Establishing the Diagnosis]]
+  - [[#Severity Assessment — Cancer Risks]]
+- [[#Differential Diagnosis]]
+- [[#Diagnostics]]
+  - [[#Endoscopic and Imaging Evaluation]]
+- [[#Therapeutics]]
+  - [[#Endoscopic Management]]
+  - [[#Surgical Management]]
+  - [[#Chemoprevention]]
+- [[#See Also]]
+- [[#Sources]]
 
 ## Assessment
 

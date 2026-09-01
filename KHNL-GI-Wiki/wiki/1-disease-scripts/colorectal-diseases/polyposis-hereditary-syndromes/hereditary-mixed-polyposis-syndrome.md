@@ -3,9 +3,19 @@ title: "Hereditary Mixed Polyposis Syndrome (HMPS)"
 category: disease-script
 tags: [hmps, grem1, mixed-polyposis, hereditary-crc, colorectal-cancer, polyposis, genetic-testing]
 created: 2026-08-27
-updated: 2026-08-27
+updated: 2026-09-01
 sources: [acg-2015-hereditary-gi-cancer, aga-2022-hamartomatous-polyposis]
 ---
+
+## Contents
+- [[#Assessment]]
+  - [[#Establishing the Diagnosis]]
+  - [[#Severity Assessment]]
+- [[#Differential Diagnosis]]
+- [[#Diagnostics]]
+- [[#Therapeutics]]
+- [[#See Also]]
+- [[#Sources]]
 
 ## Assessment
 

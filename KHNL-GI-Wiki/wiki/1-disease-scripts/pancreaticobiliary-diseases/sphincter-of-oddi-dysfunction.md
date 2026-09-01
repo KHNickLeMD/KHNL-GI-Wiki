@@ -3,7 +3,7 @@ title: "Sphincter of Oddi Dysfunction"
 category: disease-script
 tags: [sphincter-of-oddi, biliary, pancreatic, ercp, manometry, sphincterotomy, post-cholecystectomy-pain, idiopathic-recurrent-pancreatitis, episod]
 created: 2026-07-17
-updated: 2026-08-27
+updated: 2026-09-01
 sources: [asge-2015-ercp-benign-biliary, asge-2015-benign-pancreatic-disease, asge-2023-post-ercp-pancreatitis]
 ---
 
@@ -93,7 +93,7 @@ Two parallel 3-type schemes — **biliary** (Rome III revision of the Milwaukee 
 
 ## See Also
 
-[[ercp]], [[endoscopic-ultrasound]], [[mri-mrcp]], [[acute-pancreatitis]], [[chronic-pancreatitis]], [[choledocholithiasis]], [[biliary-stricture]], [[jaundice]]
+[[ercp]], [[endoscopic-ultrasound]], [[mri-mrcp]], [[acute-pancreatitis]], [[recurrent-acute-pancreatitis]], [[chronic-pancreatitis]], [[pancreas-divisum]], [[choledocholithiasis]], [[biliary-stricture]], [[jaundice]]
 
 ---
 

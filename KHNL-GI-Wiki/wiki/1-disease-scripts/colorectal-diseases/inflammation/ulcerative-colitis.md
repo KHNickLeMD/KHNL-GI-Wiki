@@ -3,7 +3,7 @@ title: "Ulcerative Colitis"
 category: disease-script
 tags: [uc, ulcerative-colitis, ibd, 5-asa, biologics, anti-tnf, vedolizumab, asuc, pancolitis, proctitis]
 created: 2026-05-07
-updated: 2026-08-31
+updated: 2026-09-01
 sources: [acg-2025-uc, aga-2024-uc-pharm, aga-2024-pouchitis, aga-2023-biomarkers-uc, acg-2019-uc, asge-2015-scenic-ibd-dysplasia, asge-2015-ibd, aga-2026-inpatient-ibd, aga-2026-therapeutic-endoscopy-ibd, aga-2026-cdiff-ibd, aga-2024-intestinal-ultrasound, aga-2024-diet-nutrition-ibd, aga-2024-ibd-malignancy, aga-2024-pregnancy-gi-liver, aga-2024-fmt]
 ---
 
@@ -316,7 +316,20 @@ Idiopathic chronic inflammatory disorder of the large intestine. Continuous muco
 5. **Induction:** IV corticosteroids
    - Methylprednisolone 60 mg/day IV, OR
    - Hydrocortisone 100 mg TID or QID
-6. **Day 3 assessment:**
+6. **Day 3 assessment — the criteria that define "inadequate response":**
+
+   Monitor daily: vital signs, exam for abdominal distension/tenderness, **stool frequency**, visible blood, abdominal pain, systemic symptoms.
+
+   **Oxford (Travis) index — the most widely recognized nonresponder index.** On **day 3 of IV corticosteroids**, *either* of the following predicts **colectomy in 85%**:
+
+   | Day-3 criterion (either one) | Qualifier |
+   |---|---|
+   | **>8 bowel movements/day** | Qualifies on its own |
+   | **3–8 bowel movements/day** | **Only together with CRP >45 mg/L** — neither stool count nor CRP alone qualifies |
+
+   - For contrast, colectomy occurred in **40%** of *partial* responders and **5%** of *complete* responders.
+   - **Other predictors of steroid failure:** **ESR >75 mm/hr**, **temperature >38 °C**, hypoalbuminemia, and colonic dilation (the latter two integrated with stool frequency in the **Ho index** — *its component point values and colectomy cut-point are not printed in an ingested source; flagged, not filled*). Endoscopic predictors are above (UCEIS, deep ulceration).
+
    - Adequate response: continue IVCS; transition to oral steroid + advanced therapy
    - **Inadequate response → RESCUE: infliximab OR [[calcineurin-inhibitors|cyclosporine]]**
      - IFX preferred if: prior immunomodulator failure; no prior anti-TNF use; albumin normal
@@ -373,6 +386,7 @@ Idiopathic chronic inflammatory disorder of the large intestine. Continuous muco
 - **Start after 8 years of disease.** (The familiar "8–10 years" is *previous* guidance; ACG moved to 8 y because CRC is occurring earlier in some patients and the older models did not adjust for degree of inflammation.)
 - **PSC is the exception: begin at the time of the UC diagnosis and repeat annually** — the CRC risk is high enough, and PSC-associated UC tends to be less symptomatic (so present longer than recognized) with more proximal histologic activity.
 - **Intervals are risk-adjusted, not fixed** — shorter with more risk factors, longer when histologic inflammation is under excellent control. Risk factors: disease duration, extent, PSC, family history, and **active inflammation**. Control of mucosal inflammation may itself lower dysplasia risk (KC 14).
+  - ⚠ **No numeric repeat interval is available from an ingested source.** ACG 2019 states outright that *"the timing of the first screening examination and subsequent surveillance intervals have not been prospectively determined,"* and [[asge-2015-scenic-ibd-dysplasia|SCENIC]] deliberately left intervals to other guidelines. The only firm number is the **annual** exam in PSC. A dedicated source would be needed for the familiar 1–3 y banding — flagged, not filled.
 
 **Surveillance technique:**
 - High-definition colonoscopy preferred over standard-definition.

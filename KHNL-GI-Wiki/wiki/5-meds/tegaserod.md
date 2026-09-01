@@ -3,13 +3,14 @@ title: "Tegaserod"
 category: med
 tags: [ibs, ibs-c, 5-ht4-agonist, serotonin]
 created: 2026-07-26
-updated: 2026-08-14
+updated: 2026-09-01
 sources: [acg-2020-ibs, aga-2022-ibs-c]
 ---
 
 ## Contents
 - [[#Class / Mechanism]]
 - [[#Indication & Population Restriction]]
+- [[#Contraindications]]
 - [[#Dosing]]
 - [[#Efficacy]]
 - [[#Safety / Cardiovascular Signal]]
@@ -20,13 +21,29 @@ sources: [acg-2020-ibs, aga-2022-ibs-c]
 - **Partial agonist of the 5-HT4 receptor** — stimulates GI motility and increases fluid in the GI tract ([[aga-2022-ibs-c|AGA 2022]]).
 
 ## Indication & Population Restriction
-- **Women with [[irritable-bowel-syndrome|IBS-C]]**, per [[acg-2020-ibs|ACG 2020]] used in **women <65 with ≤1 cardiovascular risk factor** who have failed secretagogues ([[linaclotide]], [[plecanatide]], [[lubiprostone]]).
-- [[aga-2022-ibs-c|AGA 2022]] suggests tegaserod (Conditional, moderate certainty); FDA **limited reapproval** is for **women under age 65 without a history of cardiovascular ischemic events** (MI, stroke, TIA, or angina).
-- Regulatory history: FDA-approved 2002 (short-term IBS-C in women) and 2004 ([[chronic-idiopathic-constipation|CIC]] in men and women <65); **withdrawn 2007** after a retrospective analysis showed a small excess of CV ischemic events; later granted the limited reapproval above.
-- **Cardiovascular risk factors** (from the safety analysis; define the ≤1 restriction): hypertension, tobacco use, diabetes, hypercholesterolemia, age ≥55, [[obesity]].
+
+The two societies gate tegaserod differently — and **ACG's gate is the stricter one**, so it is the operative criterion:
+
+| Source | Eligible population | Grade |
+|---|---|---|
+| [[acg-2020-ibs\|ACG 2020]] (Rec 18) | **Women <65 y with ≤1 cardiovascular risk factor** who have **not adequately responded to secretagogues** ([[linaclotide]], [[plecanatide]], [[lubiprostone]]) | **Conditional, low quality of evidence** |
+| [[aga-2022-ibs-c\|AGA 2022]] | Women <65 y **without a history of CV ischemic events** (MI, stroke, TIA, or angina) — the FDA limited-reapproval wording; **no risk-factor count** | Conditional, moderate certainty |
+
+- **Two separate gates, both must clear under ACG:** no prior CV ischemic event **and** ≤1 CV risk factor. AGA states only the first; ACG adds the second and makes ≥2 risk factors an outright contraindication (see below).
+- **Cardiovascular risk factors** that define the count ([[aga-2022-ibs-c]]): hypertension, tobacco use, diabetes, hypercholesterolemia, **age ≥55 y**, [[obesity]]. *(ACG defines its own list in Supplemental Table 2, which is not in the ingested corpus; AGA's list is what this page states.)*
+- **Sequencing matters** — tegaserod is a post-secretagogue option under ACG, not a first-line IBS-C drug.
+- Regulatory history: FDA-approved 2002 (short-term IBS-C in women) and 2004 ([[chronic-idiopathic-constipation|CIC]] in men and women <65); **withdrawn 2007** after a retrospective analysis showed a small excess of CV ischemic events; **re-approved 2019** under the limited indication above.
+
+## Contraindications
+- **More than 1 cardiovascular risk factor — contraindicated** ([[acg-2020-ibs|ACG 2020]], stated explicitly: "It is contraindicated in patients with more than 1 CV risk factors").
+- **History of CV ischemic disease** (MI, stroke, TIA, angina) — outside the FDA reapproval in both guidelines.
+- **Age ≥65 y** and **men** — outside the approved population.
+- *Empirical basis for the ≤1 cutoff:* in the first adjudication of the trial database, **all 14 patients with confirmed CV ischemic events had ≥1 CV risk factor, and 11 of them had ≥2** ([[acg-2020-ibs]]).
 
 ## Dosing
-- **6 mg twice daily** ([[acg-2020-ibs|ACG 2020]]; [[aga-2022-ibs-c|AGA 2022]]).
+- **6 mg twice daily** — the currently approved dose ([[acg-2020-ibs|ACG 2020]]; [[aga-2022-ibs-c|AGA 2022]]).
+- **2 mg b.i.d. was also studied and is not the recommended dose:** at 12 weeks only the 6 mg arm showed improvement in individual symptoms of pain/discomfort; 9 of the 11 trials in the Ford meta-analysis used 6 mg b.i.d. ([[acg-2020-ibs]]).
+- **Duration:** the pivotal and pooled RCTs ran **12 weeks**; neither guideline sets a stopping rule.
 
 ## Efficacy
 - Evidence: **4 phase-3, 12-week RCTs** (Rome I IBS-C). AGA analysis limited to **women on 6 mg BID (n=1450) vs placebo (n=1433)** ([[aga-2022-ibs-c|AGA 2022]]).

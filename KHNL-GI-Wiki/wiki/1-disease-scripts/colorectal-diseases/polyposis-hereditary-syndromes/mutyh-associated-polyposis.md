@@ -3,11 +3,21 @@ title: "MUTYH-Associated Polyposis"
 category: disease-script
 tags: [map, mutyh, polyposis, hereditary-crc, colorectal-cancer, recessive-polyposis, afap]
 created: 2026-05-19
-updated: 2026-08-27
+updated: 2026-09-01
 sources: [acg-2015-hereditary-gi-cancer, asge-2020-fap]
 ---
 
 *Covered in detail within [[familial-adenomatous-polyposis]] (MAP/AFAP/FAP section) — see that page for comprehensive ADDT content.*
+
+## Contents
+- [[#Assessment]]
+  - [[#Establishing the Diagnosis]]
+  - [[#Severity Assessment]]
+- [[#Differential Diagnosis]]
+- [[#Diagnostics]]
+- [[#Therapeutics]]
+- [[#See Also]]
+- [[#Sources]]
 
 ## Assessment
 
@@ -45,7 +55,7 @@ Surveillance mirrors AFAP (start age / interval):
 | Site | Start age | Interval | Procedure |
 |---|---|---|---|
 | Colon | **18–20** ([[asge-2020-fap\|ASGE 2020]]) | **every 1–2 y** (shorten with rising polyp burden) | [[colonoscopy\|Colonoscopy]] — flexible sigmoidoscopy is inadequate (rectum may be spared) |
-| Upper GI | **30–35** ([[acg-2015-hereditary-gi-cancer\|ACG 2015]] Table 10) | baseline, then per duodenal Spigelman stage (as for FAP/AFAP) | [[upper-endoscopy\|EGD]] **with a side-viewing instrument** |
+| Upper GI | **30–35** — concordant in [[acg-2015-hereditary-gi-cancer\|ACG 2015]] Table 10 and [[asge-2020-fap\|ASGE 2020]] Table 6, the latter adding **"or before colectomy"** | baseline, then per duodenal Spigelman stage (as for FAP/AFAP) | [[upper-endoscopy\|EGD]] **with a side-viewing instrument** |
 | Thyroid | — | **annual** | Thyroid ultrasound *(ACG Rec 11; conditional, low)* — applies to FAP, MAP, and attenuated polyposis |
 
 > **Contradiction (surfaced):** [[acg-2015-hereditary-gi-cancer|ACG 2015]] Table 10 starts colon surveillance in MAP at **25–30**; [[asge-2020-fap|ASGE 2020]] Table 3 starts it at **18–20**. Same tier → the newer ASGE age is asserted here.
