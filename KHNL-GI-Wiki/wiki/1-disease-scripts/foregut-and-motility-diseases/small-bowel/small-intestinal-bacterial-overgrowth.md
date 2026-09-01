@@ -142,7 +142,7 @@ Symptoms of SIBO are non-specific. The differential includes:
 - Folate (may be *elevated* in SIBO — bacteria produce folate; useful discriminating clue)
 - Vitamin D, iron studies — low in severe malabsorptive SIBO
 - Fat-soluble vitamins (A, E, K) — deficient in severe structural/blind loop SIBO
-- CBC — anemia (iron deficiency or B12)
+- CBC — anemia ([[iron-deficiency-anemia|iron deficiency]] or B12)
 - Celiac serology — to exclude [[celiac-disease]]
 - Fecal calprotectin — to exclude IBD
 - Fecal elastase — to evaluate for exocrine pancreatic insufficiency ([[chronic-pancreatitis]])
@@ -230,7 +230,7 @@ Before initiating antibiotic therapy: make an objective effort to diagnose SIBO 
 
 ## See Also
 
-[[chronic-diarrhea]], [[irritable-bowel-syndrome]], [[celiac-disease]], [[chronic-pancreatitis]], [[exocrine-pancreatic-insufficiency]], [[microscopic-colitis]], [[crohns-disease]], [[gastroparesis]], [[disorders-of-gut-brain-interaction]], [[intestinal-methanogen-overgrowth]], [[abdominal-bloating-and-distention]], [[acute-colonic-pseudo-obstruction]], [[rifaximin]], [[probiotics]], [[fmt]], [[proton-pump-inhibitors]], [[small-bowel-motility]]
+[[chronic-diarrhea]], [[irritable-bowel-syndrome]], [[celiac-disease]], [[chronic-pancreatitis]], [[exocrine-pancreatic-insufficiency]], [[microscopic-colitis]], [[crohns-disease]], [[gastroparesis]], [[disorders-of-gut-brain-interaction]], [[intestinal-methanogen-overgrowth]], [[abdominal-bloating-and-distention]], [[acute-colonic-pseudo-obstruction]], [[rifaximin]], [[probiotics]], [[fmt]], [[proton-pump-inhibitors]], [[iron-deficiency-anemia]], [[small-bowel-motility]]
 
 ---
 

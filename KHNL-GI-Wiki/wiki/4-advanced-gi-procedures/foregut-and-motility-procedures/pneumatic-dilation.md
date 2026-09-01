@@ -93,7 +93,7 @@ Cumulative good-to-excellent symptom relief, average follow-up **1.6 years** (ra
 
 - [[gerd|GERD]] occurs in **15%–35%** after PD → [[proton-pump-inhibitors|PPI]] therapy is indicated in those affected ([[acg-2020-achalasia]]).
 - [[asge-2020-achalasia|ASGE 2020]] pools **symptomatic** GERD lower, at **9% (95% CI 5–16%)** at ~6 months — the two figures use **different GERD definitions**, not different populations.
-- **Recurrent dysphagia after PD is not automatically recurrent achalasia** — consider a **GERD-related distal esophageal stricture** as a contributor.
+- **Recurrent [[dysphagia|dysphagia]] after PD is not automatically recurrent achalasia** — consider a **GERD-related distal esophageal stricture** as a contributor.
 
 ## Retreatment and Salvage
 
@@ -104,7 +104,7 @@ Cumulative good-to-excellent symptom relief, average follow-up **1.6 years** (ra
 
 ## See Also
 
-[[achalasia]], [[poem]], [[heller-myotomy]], [[high-resolution-manometry]], [[flip-panometry]], [[upper-endoscopy]], [[gerd]], [[proton-pump-inhibitors]], [[antireflux-surgery]], [[esophagogastric-junction-outflow-obstruction]]
+[[achalasia]], [[poem]], [[heller-myotomy]], [[high-resolution-manometry]], [[flip-panometry]], [[dysphagia]], [[upper-endoscopy]], [[gerd]], [[proton-pump-inhibitors]], [[antireflux-surgery]], [[esophagogastric-junction-outflow-obstruction]]
 
 ---
 

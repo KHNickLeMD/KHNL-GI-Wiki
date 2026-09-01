@@ -90,7 +90,7 @@ sources: [acg-2022-gastroparesis, aga-2025-gastroparesis, surjanhata-2025-consti
 - **[[rumination-syndrome|Rumination syndrome]]** — regurgitation of undigested food shortly after meals; distinguished by manometry/impedance
 - **[[cyclic-vomiting-syndrome|Cyclic vomiting syndrome]]** — stereotyped episodic vomiting with symptom-free intervals
 - **Superior mesenteric artery (SMA) syndrome** — postprandial nausea/vomiting; positional component; duodenal compression on imaging
-- **Medication-induced GE delay** — opioids (potent effect), GLP-1 receptor agonists, anticholinergics, tricyclic antidepressants
+- **Medication-induced GE delay** — opioids (potent effect), [[glp-1-receptor-agonists|GLP-1 receptor agonists]], anticholinergics, tricyclic antidepressants
 - **[[cannabinoid-hyperemesis-syndrome|Cannabinoid hyperemesis syndrome]]** — cyclical vomiting in heavy cannabis users; compulsive hot bathing
 - **Eating disorders (ARFID, anorexia)** — frequent comorbidity in GP; must be assessed
 
@@ -306,7 +306,7 @@ Before labelling a patient refractory: re-confirm the accuracy of the diagnosis,
 
 | Agent | Recommendation | Strength | Source | Rationale / who may still reasonably use it |
 |---|---|---|---|---|
-| Nortriptyline (TCA neuromodulator) | Against as **first-line** | Conditional (Low) | [[aga-2025-gastroparesis\|AGA 2025]] #7.1 | ACG 2022 recommended against more strongly (Strong) — nortriptyline = placebo in 130 IG patients (RCT), high discontinuation. AGA notes patients with overlapping IBS, functional dyspepsia (epigastric pain syndrome), or significant abdominal pain may benefit; use agents with fewer anticholinergic effects, start low, titrate slowly. Counsel that it is being used as a **peripheral neuromodulator**, not an antidepressant |
+| Nortriptyline (TCA neuromodulator) | Against as **first-line** | Conditional (Low) | [[aga-2025-gastroparesis\|AGA 2025]] #7.1 | ACG 2022 recommended against more strongly (Strong) — nortriptyline = placebo in 130 IG patients (RCT), high discontinuation. AGA notes patients with overlapping [[irritable-bowel-syndrome\|IBS]], functional dyspepsia (epigastric pain syndrome), or significant abdominal pain may benefit; use agents with fewer anticholinergic effects, start low, titrate slowly. Counsel that it is being used as a **peripheral neuromodulator**, not an antidepressant |
 | Buspirone | Against as **first-line** | Conditional (Low) | AGA 2025 #7.2 | May help when **early satiety and bloating predominate** |
 | Cannabidiol (CBD) | Against **except in a clinical trial** | Conditional (Very low) | AGA 2025 #8 | The single positive study used pharmaceutical-grade CBD (Epidiolex) not available for GP use; marketed formulations are unregulated with varying potency; THC-containing formulations raise [[cannabinoid-hyperemesis-syndrome\|cannabinoid hyperemesis]] concern |
 | Ghrelin agonists (relamorelin) | NOT supported | Strong | [[acg-2022-gastroparesis\|ACG 2022]] | Failed primary endpoints in phase 3 RCTs; impairs glycemic control in DM |
@@ -383,7 +383,7 @@ Before labelling a patient refractory: re-confirm the accuracy of the diagnosis,
 
 ## See Also
 
-[[disorders-of-gut-brain-interaction]], [[gerd]], [[dyspepsia]], [[rumination-syndrome]], [[cyclic-vomiting-syndrome]], [[cannabinoid-hyperemesis-syndrome]], [[chronic-idiopathic-constipation]], [[small-bowel-motility]], [[flip-panometry]], [[g-poem]], [[poem]], [[antireflux-surgery]], [[bariatric-surgery]], [[prucalopride]], [[semaglutide]], [[enteral-access]], [[upper-endoscopy]], [[nausea-and-vomiting]]
+[[disorders-of-gut-brain-interaction]], [[gerd]], [[dyspepsia]], [[irritable-bowel-syndrome]], [[rumination-syndrome]], [[cyclic-vomiting-syndrome]], [[cannabinoid-hyperemesis-syndrome]], [[chronic-idiopathic-constipation]], [[small-bowel-motility]], [[flip-panometry]], [[g-poem]], [[poem]], [[antireflux-surgery]], [[bariatric-surgery]], [[prucalopride]], [[semaglutide]], [[glp-1-receptor-agonists]], [[enteral-access]], [[upper-endoscopy]], [[nausea-and-vomiting]]
 
 ---
 

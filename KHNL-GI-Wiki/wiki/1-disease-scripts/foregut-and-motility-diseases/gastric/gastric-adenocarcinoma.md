@@ -11,7 +11,7 @@ sources: [nccn-2026-gastric-cancer, asge-2015-gastric-premalignant, asge-2023-es
 
 ### Establishing the Diagnosis
 
-- **Presentation:** often late — weight loss, early satiety, epigastric pain, anemia, obstruction. Alarm features warrant prompt [[upper-endoscopy|endoscopy]] with biopsy; diagnosis is histologic. [[nccn-2026-gastric-cancer]]
+- **Presentation:** often late — weight loss, early satiety, epigastric pain, [[iron-deficiency-anemia|anemia]], obstruction. Alarm features warrant prompt [[upper-endoscopy|endoscopy]] with biopsy; diagnosis is histologic. [[nccn-2026-gastric-cancer]]
 - **Risk factors:** [[helicobacter-pylori-infection|H. pylori]] infection; the precursor cascade of [[atrophic-gastritis|atrophic gastritis]] → [[gastric-intestinal-metaplasia|intestinal metaplasia]] → dysplasia ([[gastric-premalignant-conditions|gastric premalignant conditions]]); smoking; high-salt diet; hereditary syndromes including [[hereditary-diffuse-gastric-cancer|hereditary diffuse gastric cancer (CDH1)]]
 - Who to screen and how to survey precursor lesions: see [[gastric-cancer-screening]]
 
@@ -118,7 +118,7 @@ flowchart TD
 
 ## See Also
 
-[[gastric-premalignant-conditions]], [[gastric-intestinal-metaplasia]], [[atrophic-gastritis]], [[gastric-cancer-screening]], [[helicobacter-pylori-infection]], [[hereditary-diffuse-gastric-cancer]], [[juvenile-polyposis-syndrome]], [[peutz-jeghers-syndrome]], [[familial-adenomatous-polyposis]], [[lynch-syndrome]], [[esophageal-cancer]], [[esophageal-adenocarcinoma]], [[gastric-malt-lymphoma]], [[barretts-esophagus]], [[gastrointestinal-stromal-tumor]], [[subepithelial-lesion]], [[gastroenteropancreatic-neuroendocrine-tumors]], [[endoscopic-submucosal-dissection]], [[endoscopic-mucosal-resection]], [[dyspepsia]], [[upper-endoscopy]], [[endoscopic-ultrasound]]
+[[gastric-premalignant-conditions]], [[gastric-intestinal-metaplasia]], [[atrophic-gastritis]], [[gastric-cancer-screening]], [[helicobacter-pylori-infection]], [[hereditary-diffuse-gastric-cancer]], [[juvenile-polyposis-syndrome]], [[peutz-jeghers-syndrome]], [[familial-adenomatous-polyposis]], [[lynch-syndrome]], [[esophageal-cancer]], [[esophageal-adenocarcinoma]], [[gastric-malt-lymphoma]], [[barretts-esophagus]], [[gastrointestinal-stromal-tumor]], [[subepithelial-lesion]], [[gastroenteropancreatic-neuroendocrine-tumors]], [[endoscopic-submucosal-dissection]], [[endoscopic-mucosal-resection]], [[dyspepsia]], [[upper-endoscopy]], [[endoscopic-ultrasound]], [[iron-deficiency-anemia]]
 
 ---
 

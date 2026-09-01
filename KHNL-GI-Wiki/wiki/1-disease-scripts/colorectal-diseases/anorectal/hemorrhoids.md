@@ -3,7 +3,7 @@ title: "Hemorrhoids"
 category: disease-script
 tags: [hemorrhoids, anorectal, rectal-bleeding, rubber-band-ligation, hemorrhoidectomy, colorectal]
 created: 2026-05-16
-updated: 2026-08-27
+updated: 2026-09-01
 sources: [acg-2021-anorectal-disorders, asge-2010-anorectal-disorders, aga-2026-hemorrhoids]
 ---
 
@@ -123,14 +123,23 @@ The diagnosis of symptomatic internal hemorrhoids requires exclusion of other so
 |-----------|----------|
 | Active [[crohns-disease\|Crohn's]] or [[ulcerative-colitis\|UC]] | **Defer hemorrhoid treatment until complete remission** |
 | Pregnancy | Hemorrhoids in up to ⅔ of women; conservative first (fiber, treat constipation, topical ointments); banding/IRC if symptoms persist postpartum or further pregnancies planned |
-| [[cirrhosis\|Cirrhosis]] / [[portal-hypertension\|portal hypertension]] | Carefully distinguish hemorrhoids from **rectal varices**; banding or IRC both acceptable; **IRC preferred over banding if significant coagulopathy** (platelets <50,000/µL or INR >2.0); portal hypertension itself does not change the approach |
+| [[cirrhosis\|Cirrhosis]] / [[portal-hypertension\|portal hypertension]] | Carefully distinguish hemorrhoids from **rectal varices** (see below); banding or IRC both acceptable; **IRC preferred over banding if significant coagulopathy** — for most clinicians that means **platelets <50,000/µL or INR >2.0**; portal hypertension itself does not change the approach |
 | Grade 3 failing banding or with external component | Offer **surgical consultation**; large isolated skin tags removable without hemorrhoidectomy |
+
+**Hemorrhoids vs rectal varices — how to tell them apart at endoscopy** *(AGA 2026)*:
+
+| | Rectal varices | Hemorrhoids |
+|---|---|---|
+| **Location** | Mid and **more proximal rectum** | Usually **distal**, and **cross the dentate line** |
+| **Setting** | Portosystemic collaterals of [[portal-hypertension\|portal hypertension]] — present in **30%** of cirrhotics with portal hypertension | Any patient |
+| **Bleeding** | Uncommon, but can be **life-threatening** | Common, usually minor |
+| **Treatment** | Endoscopic cyanoacrylate injection or coils often control bleeding but carry **embolism risk and high rebleeding**; treating the underlying portal hypertension (e.g. [[tips\|TIPS]]) is essential | Banding / IRC per grade, above |
 
 ---
 
 ## See Also
 
-[[anal-fissure]], [[fecal-incontinence]], [[rectal-prolapse]], [[colorectal-cancer]], [[colorectal-cancer-screening]], [[crohns-disease]], [[ulcerative-colitis]], [[colonoscopy]], [[acute-lower-gi-bleeding]], [[anticoagulation-gi-bleeding]], [[chronic-idiopathic-constipation]], [[cirrhosis]], [[portal-hypertension]]
+[[anal-fissure]], [[fecal-incontinence]], [[rectal-prolapse]], [[colorectal-cancer]], [[colorectal-cancer-screening]], [[crohns-disease]], [[ulcerative-colitis]], [[colonoscopy]], [[acute-lower-gi-bleeding]], [[anticoagulation-gi-bleeding]], [[chronic-idiopathic-constipation]], [[cirrhosis]], [[portal-hypertension]], [[tips]]
 
 ---
 

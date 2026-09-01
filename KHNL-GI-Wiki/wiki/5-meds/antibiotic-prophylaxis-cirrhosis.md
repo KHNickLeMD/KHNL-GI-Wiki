@@ -3,7 +3,7 @@ title: "Antibiotic Prophylaxis in Cirrhosis (GI Bleeding)"
 category: med
 tags: [cirrhosis, antibiotic-prophylaxis, ceftriaxone, norfloxacin, variceal-bleeding, sbp-prevention]
 created: 2026-05-15
-updated: 2026-08-31
+updated: 2026-09-01
 sources: [aasld-2023-portal-hypertension, baveno-vii-2022-portal-hypertension, aasld-2021-ascites-sbp-hrs, asge-2015-antibiotic-prophylaxis, albhaisi-2025-prophylactic-antibiotics-cirrhosis]
 ---
 
@@ -11,7 +11,7 @@ Prophylactic antibiotics in [[cirrhosis|cirrhotic]] patients with [[upper-gi-ble
 
 ## Indications
 
-- **Acute GI hemorrhage in cirrhosis — give to all, from admission**, regardless of whether endoscopy is performed. *(Baveno VII 6.7, A.1, unchanged; [[asge-2015-antibiotic-prophylaxis|ASGE 2015]] Rec 9, 4444)*
+- **Acute GI hemorrhage in cirrhosis — give to all, from admission**, regardless of whether [[upper-endoscopy|endoscopy]] is performed. *(Baveno VII 6.7, A.1, unchanged; [[asge-2015-antibiotic-prophylaxis|ASGE 2015]] Rec 9, 4444)*
   - **Rule out SBP and other active infection first** — prophylaxis is for the uninfected patient; an established infection is treated, not prophylaxed [[aasld-2021-ascites-sbp-hrs]].
   - **Child-Pugh A:** risk of bacterial infection and mortality is *very low*; whether prophylaxis can be **avoided** in this subgroup is unresolved and needs prospective study — Baveno VII does **not** endorse omitting it *(6.8, B.2)*.
 - **Non-bleeding SBP primary prophylaxis** (a different indication): low [[ascites|ascitic]] protein **<1.5 g/dL** *plus* advanced hepatic/renal dysfunction — criteria live on [[spontaneous-bacterial-peritonitis]]. Baveno VII frames the same pair as "GI haemorrhage, **or** Child-Pugh C cirrhosis with low protein ascites" *(4.6, B.1)*.
@@ -27,7 +27,7 @@ Prophylactic antibiotics in [[cirrhosis|cirrhotic]] patients with [[upper-gi-ble
 | Why ceftriaxone over a quinolone | **High rates of quinolone resistance**; also preferred in advanced cirrhosis and in patients already on quinolone prophylaxis | [[aasld-2023-portal-hypertension]]; Baveno VII 6.9 |
 | Mandatory tailoring | Choice **must** follow local resistance patterns, antimicrobial stewardship policy, and patient allergies | Both (Baveno VII grades the tailoring D.2) |
 
-- **Note on norfloxacin.** [[aasld-2021-ascites-sbp-hrs|AASLD 2021]] records that norfloxacin was the antibiotic of choice for SBP prophylaxis **until it was withdrawn from the US market in 2014**; ASGE 2015 still lists **oral norfloxacin** as the alternative when ceftriaxone is contraindicated, which is now historical in the US.
+- **Note on norfloxacin.** [[aasld-2021-ascites-sbp-hrs|AASLD 2021]] records that norfloxacin was the antibiotic of choice for SBP prophylaxis **until it was withdrawn from the US market in 2014**; ASGE 2015 Rec 9 still lists **oral norfloxacin** as the example of "an antibiotic with equivalent microbial coverage" for patients **allergic to or intolerant of** ceftriaxone — now historical in the US.
 - **Oral ciprofloxacin 500 mg/day** is AASLD 2021's "reasonable alternative to norfloxacin" for **secondary SBP prophylaxis** — *not* for the GI-bleeding indication — and AASLD notes **direct evidence supporting that regimen is lacking**, with quinolones less effective in MDRO-colonized patients. Do not carry it into acute hemorrhage.
 
 > **Gap — no dose is stated for a non-ceftriaxone alternative in acute hemorrhage.** Neither AASLD 2021, AASLD 2023, nor ASGE 2015 gives a dose for norfloxacin or any substitute in the bleeding setting. Take the substitute regimen from local stewardship policy, which is what all three guidelines direct you to.

@@ -3,7 +3,7 @@ title: "Intestinal Ultrasound (IUS)"
 category: concept
 tags: [intestinal-ultrasound, ibd, crohns, ulcerative-colitis, monitoring, treat-to-target, imaging]
 created: 2026-07-19
-updated: 2026-08-31
+updated: 2026-09-01
 sources: [aga-2024-intestinal-ultrasound]
 ---
 
@@ -32,6 +32,8 @@ sources: [aga-2024-intestinal-ultrasound]
 - **Bowel wall thickness (BWT)** — primary activity measure.
 - **Bowel wall hyperemia** — color Doppler signal.
 - **More severe disease** — inflammatory mesenteric fat, loss of bowel wall stratification, surrounding lymphadenopathy.
+
+> **Decision gap — no general "abnormal BWT" cutoff in the ingested corpus.** [[aga-2024-intestinal-ultrasound]] names BWT as the primary activity measure but states an absolute millimetre threshold only in two specific contexts (postoperative CD recurrence and UC on tofacitinib, both below); it gives **no cross-cutting normal/abnormal BWT value**, and it notes that although several IUS scoring indices exist, **none is regularly used in clinical practice**. An IUS scoring-index source (e.g. IBUS-SAS / Limberg score) would be needed before this page can state one — do not fill it from memory.
 
 ## IUS vs Other Modalities
 
@@ -68,7 +70,7 @@ By trained operators, IUS is comparable to **MRE and CTE** ([[mri-mrcp|MRE]]) fo
 ## Limitations
 
 - Poor for **proximal/duodenal** disease (bowel gas) and **rectal** disease (needs distended bladder).
-- Imprecise for disease **length** (esp. extensive small-bowel CD) — MRE better for extent/deep pelvis.
+- Imprecise for disease **length** — the transducers' limited field of view makes length hard to measure in extensive small-bowel CD, and accuracy falls off **beyond 10 cm**; MRE better for extent and deep pelvic structures. Accuracy is also lower for **locating** disease in the mid-to-proximal small bowel.
 - **Not advised for dysplasia surveillance** — use endoscopy.
 - Operator-dependent; multiple scoring systems exist but none routinely used; no US-based GI certification yet (IBUS 3-module pathway).
 

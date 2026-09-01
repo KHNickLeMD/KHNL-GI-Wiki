@@ -3,7 +3,7 @@ title: "Alosetron"
 category: med
 tags: [ibs, ibs-d, 5-ht3-antagonist, serotonin]
 created: 2026-07-26
-updated: 2026-08-29
+updated: 2026-09-01
 sources: [acg-2020-ibs, aga-2022-ibs-d]
 ---
 
@@ -26,7 +26,9 @@ sources: [acg-2020-ibs, aga-2022-ibs-d]
   - Frequent and severe abdominal pain/discomfort
   - Frequent bowel urgency or [[fecal-incontinence|fecal incontinence]]
   - Disability or restriction of daily activities due to IBS
-- **Restricted-distribution risk-management program (REMS).** Originally FDA-approved 2000 for IBS-D in women; **voluntarily withdrawn** due to serious adverse events (**[[colon-ischemia|ischemic colitis]]** and **serious complications of constipation**); reintroduced 2002 restricted to severe IBS-D in women under the risk-management program.
+- **Restricted-distribution risk-management program (REMS).** Originally FDA-approved 2000 for IBS-D in women; **voluntarily withdrawn** due to serious adverse events (**[[colon-ischemia|ischemic colitis]]**, complicated constipation — obstruction or perforation — and death); reintroduced **June 2002** under a **risk evaluation and mitigation strategy (REMS)**.
+- **REMS eligibility — all three required** ([[acg-2020-ibs|ACG 2020]]): **women**, **chronic (>6 months) severe IBS-D symptoms**, and **prior lack of response to traditional therapies**. ACG notes "traditional therapies" is **not further defined** in the REMS protocol.
+- REMS also caps prescribing at **0.5–1.0 mg b.i.d.**, which ACG credits for the low postmarketing event rates below.
 
 ## Dosing
 Per [[aga-2022-ibs-d|AGA 2022]]:

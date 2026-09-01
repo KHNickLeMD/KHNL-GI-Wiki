@@ -3,7 +3,7 @@ title: "Sacral Nerve Stimulation"
 category: advanced-procedure
 tags: [sacral-nerve-stimulation, sns, neuromodulation, fecal-incontinence, constipation, pelvic-floor, anorectal, implantable-device]
 created: 2026-06-01
-updated: 2026-08-26
+updated: 2026-09-01
 sources: [acg-2021-anorectal-disorders, aga-2026-refractory-constipation]
 ---
 
@@ -107,6 +107,7 @@ For FI failing conservative therapy ([[acg-2021-anorectal-disorders]]):
 | **SNS** | Strong / Low | Moderate–severe FI failing conservative measures |
 | Injectable bulking agents (dextranomer, NASHA Dx) | Conditional / Low | For conservative/biofeedback failures; **52% vs 31%** achieved ≥50% reduction in episodes (RCT) |
 | Anal plugs, vaginal balloons | Conditional / Very Low | Selected patients |
+| **Tibial nerve stimulation** — percutaneous (PTNS, needle above the ankle) or transcutaneous (TTNS, pads on the sole) | **No recommendation** — efficacy unresolved | Both reduced FI frequency in uncontrolled case series. Small comparative study: ≥50% reduction in FI frequency **82% PTNS vs 48% TTNS vs 13% sham** (*P* = 0.035). But the large multicenter European RCT (12 weekly sessions, >100 patients/arm) found **no difference vs sham (38% vs 31%)**; only **urge-related** FI did better than passive FI |
 | Anal sphincteroplasty | Conditional / Low | For **acute** sphincter injuries; 85% short-term improvement, deteriorating to **50% at 40–60 months** |
 | End stoma | Conditional | Last resort for severe FI; significant QoL improvement |
 | Dynamic graciloplasty | **NOT recommended** | Significant morbidity and mortality |

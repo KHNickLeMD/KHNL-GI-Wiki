@@ -54,7 +54,7 @@ sources: [acg-2015-small-bowel-bleeding, asge-2017-small-bowel-bleeding, acg-202
 | Syndrome | Recommendation |
 |---|---|
 | [[peutz-jeghers-syndrome\|Peutz-Jeghers]] | *"Baseline small bowel surveillance using **video capsule endoscopy or MRE** performed between ages **8–10 years** or earlier if symptomatic. If no polyps at the initial examination, surveillance resumes at **age 18**. Because of the risk of small bowel intussusception, small bowel surveillance in adulthood continues **throughout life every 2–3 years**."* **Strong recommendation, low quality of evidence** ([[aga-2022-hamartomatous-polyposis]]) |
-| [[familial-adenomatous-polyposis\|FAP]] | Capsule endoscopy or MRE for **index small-bowel screening**; jejunal/ileal polyps **>1 cm** found on CE or MRE → balloon enteroscopy for polypectomy. CE is the **preferred imaging modality** (false-negative rates up to **42%** for polyps >10 mm with contrast studies) and is **more sensitive than MRE for smaller polyps**; the two perform **equally for polyps >15 mm**, but MRE is more reliable for polyp location/size and images outside the GI tract. ([[asge-2020-fap]]) |
+| [[familial-adenomatous-polyposis\|FAP]] | Capsule endoscopy or MRE for **index small-bowel screening**; jejunal/ileal polyps **>1 cm** found on CE or MRE → balloon enteroscopy for [[polypectomy]]. CE is the **preferred imaging modality** (false-negative rates up to **42%** for polyps >10 mm with contrast studies) and is **more sensitive than MRE for smaller polyps**; the two perform **equally for polyps >15 mm**, but MRE is more reliable for polyp location/size and images outside the GI tract. ([[asge-2020-fap]]) |
 
 ## Diagnostic Performance
 
@@ -110,7 +110,7 @@ Predictors of a positive capsule study ([[acg-2015-small-bowel-bleeding]]):
 
 ## See Also
 
-[[small-bowel-bleeding]], [[crohns-disease]], [[iron-deficiency-anemia]], [[peutz-jeghers-syndrome]], [[familial-adenomatous-polyposis]], [[device-assisted-enteroscopy]], [[upper-endoscopy]], [[colonoscopy]], [[angioectasia]], [[small-bowel-motility]]
+[[small-bowel-bleeding]], [[crohns-disease]], [[iron-deficiency-anemia]], [[peutz-jeghers-syndrome]], [[familial-adenomatous-polyposis]], [[device-assisted-enteroscopy]], [[polypectomy]], [[upper-endoscopy]], [[colonoscopy]], [[angioectasia]], [[small-bowel-motility]]
 
 ---
 

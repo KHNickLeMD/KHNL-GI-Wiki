@@ -46,11 +46,14 @@ Mechanisms of iron handling and the laboratory thresholds used to detect overloa
 
 ## Relevant Lab Tests
 
-- Transferrin saturation (TS): serum iron ÷ TIBC × 100; ≥45% screening threshold for [[hereditary-hemochromatosis|HH]]
-- Serum ferritin (SF): intracellular iron-storage protein; elevated in iron overload but also in inflammation, [[alcohol-associated-liver-disease|ALD]], NAFLD, malignancy (low specificity)
-- UIBC: inverse of TS; <26 µmol/L has 90% sensitivity/specificity for C282Y homozygosity
-- Hepatic iron concentration (HIC): direct measurement on [[liver-biopsy|liver biopsy]] (µmol/g dry weight); >71 µmol/g diagnostic of HH type 1
-- Hepatic iron index (HII): HIC ÷ age; ≥1.9 distinguishes homozygotes from heterozygotes and secondary overload
+| Test | How it is derived | Threshold and what it means |
+|---|---|---|
+| **Transferrin saturation (TS)** | serum iron ÷ TIBC × 100 | **Preferred initial screening test; fasting not required.** **>45%** identifies **97.9%–100%** of C282Y homozygotes — but a small proportion of [[hereditary-hemochromatosis\|HH]] patients (younger, earlier-stage) have TS **<45%**, and iron overload can exist with an **elevated SF and a normal TS**, particularly in non–HFE iron overload |
+| **Serum ferritin (SF)** | intracellular iron-storage protein | **Normal = <200 ng/mL in premenopausal women, <300 ng/mL in men and postmenopausal women.** A normal SF **plus** TS <45% has a **97% negative predictive value** for excluding iron overload. Excellent predictor of advanced fibrosis but **lacks specificity as a screening test** — hyperferritinemia also occurs in [[alcohol-associated-liver-disease\|alcoholic liver disease]], HCV, [[nafld-masld\|NAFLD]], and neoplastic disease |
+| **SF >1,000 ng/mL** | — | In C282Y homozygotes, SF **>1,000 ng/mL** *with* elevated aminotransferases *and* low platelet count predicts [[cirrhosis\|cirrhosis]] in **>80%** — all three together |
+| **UIBC** | inverse of TS; one-step automated test | **<26 µmol/L** → sensitivity 90%, specificity 90% for C282Y homozygosity; comparable to TS as an alternative screening test |
+| **Hepatic iron concentration (HIC)** | direct measurement on [[liver-biopsy\|liver biopsy]], µmol/g dry weight | **>71 µmol/g** distinguishes homozygous HH from heterozygotes/secondary overload |
+| **Hepatic iron index (HII)** | HIC ÷ age in years | **≥1.9** distinguishes homozygotes from heterozygotes and secondary overload |
 
 ## See Also
 

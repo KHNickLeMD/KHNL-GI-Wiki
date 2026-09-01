@@ -3,7 +3,7 @@ title: "Eluxadoline"
 category: med
 tags: [ibs, ibs-d, mu-opioid-agonist, delta-opioid-antagonist, viberzi]
 created: 2026-07-26
-updated: 2026-08-14
+updated: 2026-09-01
 sources: [aga-2022-ibs-d, acg-2020-ibs]
 ---
 

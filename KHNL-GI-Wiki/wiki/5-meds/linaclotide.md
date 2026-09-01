@@ -3,7 +3,7 @@ title: "Linaclotide"
 category: med
 tags: [linaclotide, gc-c-agonist, secretagogue, ibs-c, cic, constipation]
 created: 2026-05-19
-updated: 2026-08-14
+updated: 2026-09-01
 sources: [acg-2020-ibs, aga-acg-2023-constipation]
 ---
 

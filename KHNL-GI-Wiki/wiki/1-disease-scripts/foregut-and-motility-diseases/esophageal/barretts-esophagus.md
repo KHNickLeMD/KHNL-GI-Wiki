@@ -39,7 +39,7 @@ Barrett's esophagus (BE) is a metaplastic condition in which the normal squamous
 
 **Endoscopic technique at diagnosis (and all subsequent exams):**
 
-- Partial desufflation to avoid flattening gastric folds (which can mimic a hiatal hernia / columnar-lined segment)
+- Partial desufflation to avoid flattening gastric folds (which can mimic a [[hiatal-hernia|hiatal hernia]] / columnar-lined segment)
 - High-definition white light endoscopy including retroflexed view of the cardia
 - Chromoendoscopy (acetic acid or virtual/electronic chromoendoscopy such as NBI) — recommended at every examination
 
@@ -400,7 +400,7 @@ CEIM defined as: 1–2 surveillance endoscopies with no visible BE and no IM on 
 
 ## See Also
 
-[[gerd]], [[eosinophilic-esophagitis]], [[achalasia]], [[esophageal-adenocarcinoma]], [[esophageal-cancer]], [[endoscopic-eradication-therapy]], [[radiofrequency-ablation]], [[endoscopic-mucosal-resection]], [[endoscopic-submucosal-dissection]], [[polypectomy]], [[upper-endoscopy]], [[endoscopic-ultrasound]], [[antireflux-surgery]], [[proton-pump-inhibitors]], [[reflux-testing]], [[dyspepsia]], [[dysphagia]], [[confocal-laser-endomicroscopy]], [[artificial-intelligence-endoscopy]], [[endoscopy-sedation]], [[infectious-esophagitis]], [[high-resolution-manometry]], [[obesity]]
+[[gerd]], [[eosinophilic-esophagitis]], [[achalasia]], [[esophageal-adenocarcinoma]], [[esophageal-cancer]], [[endoscopic-eradication-therapy]], [[radiofrequency-ablation]], [[endoscopic-mucosal-resection]], [[endoscopic-submucosal-dissection]], [[polypectomy]], [[upper-endoscopy]], [[endoscopic-ultrasound]], [[antireflux-surgery]], [[proton-pump-inhibitors]], [[reflux-testing]], [[dyspepsia]], [[dysphagia]], [[confocal-laser-endomicroscopy]], [[artificial-intelligence-endoscopy]], [[endoscopy-sedation]], [[infectious-esophagitis]], [[high-resolution-manometry]], [[hiatal-hernia]], [[obesity]]
 
 ---
 

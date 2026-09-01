@@ -30,7 +30,7 @@ sources: [acg-2024-hp-treatment, asge-2015-gastric-premalignant]
 - **Presenting symptoms:** [[dyspepsia]], weight loss, or [[upper-gi-bleeding|GI bleeding]] — the same triad as gastric adenocarcinoma, so symptoms do not distinguish them. [[asge-2015-gastric-premalignant]]
 - **Endoscopic appearance is non-specific and spans a wide range — from subtle erosions to nodular masses.** A normal-looking or minimally abnormal mucosa does not exclude it. [[asge-2015-gastric-premalignant]]
 - **Diagnosis is confirmed with mucosal sampling** ([[upper-endoscopy|EGD]] with biopsy) — not by appearance. [[asge-2015-gastric-premalignant]]
-- **Test for H. pylori in every case** — marginal zone B-cell lymphoma, MALT type is a named indication to test and treat. [[acg-2024-hp-treatment]]
+- **Test for H. pylori in every case** — marginal zone B-cell lymphoma, MALT type is a named indication to [[test-and-treat|test and treat]]. [[acg-2024-hp-treatment]]
 
 ### Severity Assessment
 
@@ -88,7 +88,7 @@ sources: [acg-2024-hp-treatment, asge-2015-gastric-premalignant]
 
 ## See Also
 
-[[helicobacter-pylori-infection]], [[gastric-adenocarcinoma]], [[gastric-premalignant-conditions]], [[atrophic-gastritis]], [[gastric-intestinal-metaplasia]], [[upper-endoscopy]], [[endoscopic-ultrasound]], [[dyspepsia]], [[peptic-ulcer-disease]], [[bismuth-quadruple-therapy]], [[proton-pump-inhibitors]], [[potassium-competitive-acid-blockers]], [[subepithelial-lesion]], [[gastric-cancer-screening]]
+[[helicobacter-pylori-infection]], [[gastric-adenocarcinoma]], [[gastric-premalignant-conditions]], [[atrophic-gastritis]], [[gastric-intestinal-metaplasia]], [[upper-endoscopy]], [[endoscopic-ultrasound]], [[dyspepsia]], [[peptic-ulcer-disease]], [[test-and-treat]], [[bismuth-quadruple-therapy]], [[proton-pump-inhibitors]], [[potassium-competitive-acid-blockers]], [[subepithelial-lesion]], [[gastric-cancer-screening]]
 
 ---
 

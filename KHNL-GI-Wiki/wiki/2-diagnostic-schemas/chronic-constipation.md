@@ -3,7 +3,7 @@ title: "Chronic Constipation"
 category: diagnostic-schema
 tags: [constipation, colorectal, functional, dgbi, anorectal-manometry, colonic-transit, defecation-disorder]
 created: 2026-08-27
-updated: 2026-08-27
+updated: 2026-09-01
 sources: [aga-2026-refractory-constipation, aga-acg-2023-constipation, acg-2021-anorectal-disorders, asge-2014-constipation, rome-v-2026-dgbi, acg-2021-crc-screening]
 ---
 
@@ -30,7 +30,13 @@ The adult presenting with **infrequent and/or unsatisfactory defecation** — ho
 - **Prevalence:** chronic constipation (CC) affects **8%–12% of the US population**; **3 million patients per year** seek clinical evaluation [[aga-2026-refractory-constipation]]
 - **Nomenclature:** *chronic constipation*, *chronic idiopathic constipation*, and *functional constipation* are **interchangeable terms** [[aga-2026-refractory-constipation]]. [[rome-v-2026-dgbi|Rome V]] (2026) formalised this — "chronic constipation" (bowel-DGBI category **C2**) replaced Rome IV's "functional constipation", dropping the word *functional*
 - **Separate Rome V entities that are not C2:** **C6 opioid-induced constipation**; **F3 dyssynergic defecation** (an anorectal disorder). Rome V **removed the umbrella category "functional defecation disorders"** as too broad — it swept in structural conditions such as [[rectal-prolapse|rectal prolapse]] and perineal descent [[rome-v-2026-dgbi]]
-- **Refractory constipation (RC)** = infrequent and/or unsatisfactory bowel habits, with or without abdominal pain, **despite an adequate trial of lifestyle, dietary, medical, and (when indicated) pelvic floor [[biofeedback-therapy|biofeedback]] therapy**, in an adult who satisfies criteria for CC or constipation-predominant IBS [[aga-2026-refractory-constipation]]
+- **Refractory constipation (RC)** = infrequent and/or unsatisfactory bowel habits, with or without abdominal pain, **despite an adequate trial of lifestyle, dietary, medical, and (when indicated) pelvic floor [[biofeedback-therapy|biofeedback]] therapy**, in an adult who satisfies criteria for CC or constipation-predominant IBS (BPA 1) [[aga-2026-refractory-constipation]]
+  - **The label needs one of four operational criteria, not just the narrative above.** International consensus definitions quoted by [[aga-2026-refractory-constipation]] require "infrequent and/or unsatisfactory bowel habits" **plus any one** of:
+    1. Inadequate number of bowel movements most of the time, **and complete bowel movements on fewer than 3 days/week**
+    2. **Straining on most occasions**, or worsening straining
+    3. **No improvement in stool consistency on current therapy, and Bristol stool scale score <3**
+    4. Insufficient improvement of another sign or symptom of CC on current treatment
+  - This matters because RC is what triggers the whole downstream arm — repeat transit on a maximal laxative regimen, defecography, off-label agents, and the surgical conversation below
 
 > **Gap — the itemised Rome criteria are not in an ingested source.** The Rome V document in `raw/` is the process/overview paper: it prints the **taxonomy** and the **changes** from Rome IV, but not the numbered symptom items and their ≥25%-of-defecations thresholds. The symptom list currently carried on [[chronic-idiopathic-constipation]] is not traceable to an ingested file. The full *Rome V Criteria* volume (or the Rome V bowel-disorders chapter) would be needed before those items can be asserted here.
 
@@ -42,6 +48,8 @@ Most patients hold misconceptions about normal bowel habit, so the normal range 
 |---|---|
 | Stool frequency | **~95%** of individuals fall between **3 bowel movements/day and 3 bowel movements/week** |
 | Stool consistency | **90%** have an average **Bristol 3–5 (men)** and **Bristol 2–6 (women)** |
+
+> ⚠ **Decision gap — the Bristol Stool Form Scale itself is corpus-blocked.** The consistency row above (and the Bristol <3 entry criterion used by [[aga-2026-refractory-constipation]]) can only be applied if you can map a stool to a Bristol type, and **no ingested source defines the 7 types** — the corpus uses the scale without printing it (same block flagged on [[chronic-diarrhea]], where "Bristol 6–7" anchors the definition of diarrhea). Ingest the primary Bristol/Lewis-Heaton scale paper to close it; do not reconstruct the types from memory.
 
 ### The three physiologic subtypes
 

@@ -102,6 +102,8 @@ Document all of: esophagus, GEJ (antegrade), gastric cardia/fundus (retroflexed)
 | Peptic esophageal stricture dilation | Recommend PPI (if no allergy/contraindication) | >98% |
 | BE with dysplasia or IMC undergoing [[endoscopic-eradication-therapy\|EET]] | Complete IM eradication within 18 months | >75% |
 
+> ⚠ **Decision gap — LA grade.** Two rows above turn on the LA grade (document it; repeat EGD if **C/D**), but **no ingested source defines grades A–D** — the corpus uses the grades without printing the mucosal-break criteria. The grade therefore cannot be assigned from this wiki. Gap and the paper needed to close it (Lundell 1999) are tracked on [[reflux-testing]]; do not fill it from memory.
+
 ---
 
 ## Stomach-Specific Standards
@@ -183,11 +185,11 @@ More rigorous documentation is recommended for Barrett's esophagus, gastric inte
 
 | Finding | Classification System | Criteria live on |
 |---|---|---|
-| Erosive esophagitis | Los Angeles (LA) classification | [[reflux-testing]] (grade-by-grade break criteria); clinical significance on [[gerd]] |
+| Erosive esophagitis | Los Angeles (LA) classification | [[reflux-testing]] — ⚠ **criteria corpus-blocked** (no ingested source defines grades A–D); clinical significance on [[gerd]] |
 | [[barretts-esophagus\|Barrett's esophagus]] | Prague C&M criteria | [[barretts-esophagus]] |
-| Bleeding [[peptic-ulcer-disease\|peptic ulcers]] | Forrest classification | [[upper-gi-bleeding]] |
+| Bleeding [[peptic-ulcer-disease\|peptic ulcers]] | Forrest classification | [[upper-gi-bleeding]] — ⚠ **class definitions corpus-blocked**; that page stratifies by the *descriptive* stigmata its guideline actually uses (spurting / oozing / NBVV / adherent clot / flat spot / clean base), because no ingested source defines the Forrest numbering |
 | Superficial neoplastic lesions | Paris classification | [[polypectomy]] |
-| Gastroesophageal flap valve | Hill grade classification | [[reflux-testing]] |
+| Gastroesophageal flap valve | Hill grade classification | [[reflux-testing]] — ⚠ **criteria corpus-blocked** (no ingested source defines grades I–IV) |
 | [[eosinophilic-esophagitis\|Eosinophilic esophagitis]] | EREFS; I-SEE (emerging standard for disease activity) | [[eosinophilic-esophagitis]] |
 
 - ⚠ **Scope note:** the 29 indicators on this page ([[acg-2025-egd-quality|ACG/ASGE 2025]] Table 1, QI 1–29) are the **EGD-specific** set. [[acg-2025-egd-quality|ACG/ASGE 2025]] explicitly places the indicators **common to all endoscopy** — informed consent, antithrombotic management, team pause/time-out, sedation monitoring, discharge criteria — in a **separate document** that is not yet ingested. Treat this list as complete for EGD only.

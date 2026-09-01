@@ -3,7 +3,7 @@ title: "GLP-2 Agonists (Teduglutide)"
 category: med
 tags: [glp-2, teduglutide, short-bowel-syndrome, intestinal-failure, parenteral-nutrition, high-ostomy-output]
 created: 2026-07-22
-updated: 2026-08-14
+updated: 2026-09-01
 sources: [aga-2024-diet-nutrition-ibd, aga-2023-ostomies, aga-2025-endoscopic-enteral-access]
 ---
 

@@ -3,7 +3,7 @@ title: "Exocrine Pancreatic Insufficiency (EPI)"
 category: disease-script
 tags: [exocrine-pancreatic-insufficiency, epi, pert, fecal-elastase, malabsorption, steatorrhea, pancreas, hpb]
 created: 2026-07-18
-updated: 2026-08-26
+updated: 2026-09-01
 sources: [aga-2023-epi]
 ---
 
@@ -14,6 +14,7 @@ Failure of the pancreas to deliver a threshold level of digestive enzymes to the
 ## Contents
 - [[#Assessment]]
   - [[#Establishing the Diagnosis]]
+  - [[#Severity Assessment]]
   - [[#Classification / Typing]]
 - [[#Differential Diagnosis]]
 - [[#Diagnostics]]
@@ -27,11 +28,43 @@ Failure of the pancreas to deliver a threshold level of digestive enzymes to the
 
 **Whom to test** — EPI is a clinical suspicion confirmed by a pancreatic function test; imaging cannot diagnose it.
 
-- **Suspect (high-risk conditions):** [[chronic-pancreatitis]], relapsing [[acute-pancreatitis]], [[pancreatic-cancer|pancreatic ductal adenocarcinoma]], cystic fibrosis, previous pancreatic surgery.
-- **Consider (moderate-risk conditions):** duodenal diseases — [[celiac-disease|celiac]] and [[crohns-disease|Crohn's disease]]; previous intestinal surgery; longstanding diabetes mellitus; hypersecretory states (e.g., [[peptic-ulcer-disease|Zollinger–Ellison syndrome]]).
-- **Clinical features:** steatorrhea ± diarrhea, weight loss, bloating, excessive flatulence, fat-soluble vitamin (A, D, E, K) deficiencies, protein-calorie malnutrition. In [[chronic-pancreatitis|CP]], symptoms build gradually and may be mild until late stage.
+- **Suspect (high-risk conditions, BPA 1):** [[chronic-pancreatitis]], relapsing [[acute-pancreatitis]], [[pancreatic-cancer|pancreatic ductal adenocarcinoma]], cystic fibrosis, previous pancreatic surgery.
+- **Consider (moderate-risk conditions, BPA 2):** duodenal diseases — [[celiac-disease|celiac]] and [[crohns-disease|Crohn's disease]]; previous intestinal surgery; longstanding diabetes mellitus; hypersecretory states (e.g., [[peptic-ulcer-disease|Zollinger–Ellison syndrome]]).
+- **Clinical features (BPA 3):** steatorrhea ± diarrhea, weight loss, bloating, excessive flatulence, fat-soluble vitamin (A, D, E, K) deficiencies, protein-calorie malnutrition. In [[chronic-pancreatitis|CP]], symptoms build gradually and may be mild until late stage.
 
-> Diagnosis rests on **fecal elastase-1 (FE-1)** — see [[#Diagnostics]] for thresholds. Response to an empiric PERT trial is **unreliable** for diagnosis.
+**Pre-test probability — how likely is EPI in each high-risk condition** (this is what decides whether a normal FE-1 is believable):
+
+| Condition | Prevalence of EPI |
+|---|---|
+| [[chronic-pancreatitis\|CP]] overall | **>50%**; typically emerges after **5–10 y** of disease |
+| CP with chronic alcohol use, smoking, ductal obstruction, atrophy, duct calcifications, or diabetes | **>80%** |
+| [[acute-pancreatitis\|AP]] and [[recurrent-acute-pancreatitis\|relapsing AP]] (pooled, on follow-up) | **27%–62%** — similar for both |
+| [[pancreatic-cancer\|PDAC]], unresectable | **50%–92%** |
+| PDAC, resectable — before treatment / after treatment | **40%–50%** / **75%** |
+| Cystic fibrosis | **85%**, presenting at birth or in infancy |
+
+- Abstinence from smoking and alcohol **may delay onset** in CP.
+- Ampullary cancer and main-duct [[pancreatic-cysts\|IPMN]] can also cause EPI by obstructing the pancreatic duct.
+
+> Diagnosis rests on **fecal elastase-1 (FE-1)** — see [[#Severity Assessment]] for the bands and [[#Diagnostics]] for test performance. Response to an empiric PERT trial is **unreliable** for diagnosis (BPA 7).
+>
+> **Exception — when to skip the test:** with a **high pre-test probability** (e.g. steatorrhea in a patient with known pancreatic disease), **PERT may be started without FE-1 testing**.
+
+### Severity Assessment
+
+**FE-1 bands — the test grades severity, not just presence** ([[aga-2023-epi]]):
+
+| FE-1 (µg/g stool) | Interpretation |
+|---|---|
+| **<50** | **Severe EPI** — most reliable band for severe disease (stated as "some investigators suggest") |
+| **<100** | **Good evidence of EPI** (BPA 4) |
+| **100–200** | **Indeterminate** for EPI (BPA 4) |
+| **<200** | Considered **abnormal**; <100 is "more consistent with EPI" |
+
+- Under controlled conditions FE-1 **distinguishes normal, moderate, and severe EPI**.
+- **Key limitation: FE-1 is insensitive to mild EPI** — a normal value does not exclude early disease in a high-risk patient.
+- **Repeat an indeterminate result**, especially with known pancreatic disease and a high probability of EPI.
+- ⚠ *Unit provenance:* the ingested [[aga-2023-epi]] PDF **text-extracts as "mg/g"** at every FE-1 threshold, but the file contains **zero `μ` characters anywhere** — the Symbol-font `μ` maps to `m` on extraction (the same class of glyph loss documented for TG18's comparison operators on [[acute-cholangitis]]). The printed unit is **µg/g**; do not "correct" these thresholds to mg/g against a text dump.
 
 ### Classification / Typing
 

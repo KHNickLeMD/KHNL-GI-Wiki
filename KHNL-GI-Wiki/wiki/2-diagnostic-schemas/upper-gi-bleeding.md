@@ -3,8 +3,8 @@ title: "Upper GI Bleeding"
 category: diagnostic-schema
 tags: [ugib, peptic-ulcer, gi-bleeding, endoscopy, forrest, glasgow-blatchford, melena]
 created: 2026-05-15
-updated: 2026-08-31
-sources: [acg-2021-ugib, acg-2023-lgib]
+updated: 2026-09-01
+sources: [acg-2021-ugib, acg-2023-lgib, acg-2024-hp-treatment]
 ---
 
 ## Contents
@@ -336,3 +336,4 @@ If UGIB is clinically suspected in a patient presenting with apparent LGIB, perf
 
 1. [[acg-2021-ugib|ACG 2021: Upper Gastrointestinal and Ulcer Bleeding]]
 2. [[acg-2023-lgib|ACG 2023: Management of Patients With Acute Lower Gastrointestinal Bleeding]]
+3. [[acg-2024-hp-treatment|ACG Clinical Guideline: Treatment of Helicobacter pylori Infection (2024)]]

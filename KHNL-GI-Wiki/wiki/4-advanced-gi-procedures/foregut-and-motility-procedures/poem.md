@@ -43,7 +43,7 @@ Endoscopic myotomy of the lower esophageal sphincter (LES) and distal esophageal
 | Nonachalasia spastic disorders ([[distal-esophageal-spasm\|DES]], [[hypercontractile-esophagus\|hypercontractile esophagus]]) | Case-by-case only, after medical therapy / botulinum toxin / dilation exhausted (AGA 2024 BPA 3) |
 
 - POEM is **superior to pneumatic dilation and noninferior to [[heller-myotomy|LHM]]** in separate multicenter RCTs.
-- EGJOO is a **manometric finding, not a diagnosis** — must exclude mimics ([[obesity]], hiatal hernia, [[gerd|GERD]], external compression, submucosal mass, opiates, artifact) and confirm symptomatic delayed emptying before intervention.
+- EGJOO is a **manometric finding, not a diagnosis** — must exclude mimics ([[obesity]], [[hiatal-hernia|hiatal hernia]], [[gerd|GERD]], external compression, submucosal mass, opiates, artifact) and confirm symptomatic delayed emptying before intervention.
 
 ## Technique
 
@@ -112,7 +112,7 @@ Endoscopic myotomy of the lower esophageal sphincter (LES) and distal esophageal
 
 ## See Also
 
-[[achalasia]], [[heller-myotomy]], [[pneumatic-dilation]], [[high-resolution-manometry]], [[chicago-classification-v4]], [[flip-panometry]], [[esophagogastric-junction-outflow-obstruction]], [[distal-esophageal-spasm]], [[hypercontractile-esophagus]], [[g-poem]], [[gastroparesis]], [[gerd]], [[reflux-testing]], [[barretts-esophagus]], [[esophageal-cancer]], [[dysphagia]], [[upper-endoscopy]], [[antireflux-surgery]], [[endoscopic-submucosal-dissection]], [[antibiotic-prophylaxis-endoscopy]], [[infectious-esophagitis]], [[proton-pump-inhibitors]], [[potassium-competitive-acid-blockers]]
+[[achalasia]], [[heller-myotomy]], [[pneumatic-dilation]], [[high-resolution-manometry]], [[chicago-classification-v4]], [[flip-panometry]], [[esophagogastric-junction-outflow-obstruction]], [[distal-esophageal-spasm]], [[hypercontractile-esophagus]], [[g-poem]], [[gastroparesis]], [[gerd]], [[reflux-testing]], [[hiatal-hernia]], [[barretts-esophagus]], [[esophageal-cancer]], [[dysphagia]], [[upper-endoscopy]], [[antireflux-surgery]], [[endoscopic-submucosal-dissection]], [[antibiotic-prophylaxis-endoscopy]], [[infectious-esophagitis]], [[proton-pump-inhibitors]], [[potassium-competitive-acid-blockers]]
 
 ---
 
