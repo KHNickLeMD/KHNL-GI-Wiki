@@ -3,13 +3,15 @@ title: "Fever in a Returning Traveler"
 category: diagnostic-schema
 tags: [travel-medicine, fever, tropical-infections, travelers-diarrhea, enteric-fever, viral-hepatitis, parasites]
 created: 2026-05-15
-updated: 2026-08-30
+updated: 2026-09-02
 sources: [idsa-2017-infectious-diarrhea, acg-2016-acute-diarrhea, acg-2016-liver-disease-pregnancy, nejm-2023-fever-returning-traveler]
 ---
 
 > ⚠️ **Source-fidelity flag — most of this page is still uncited (flagged 2026-08-14, partially re-sourced 2026-08-30).**
 >
-> The originally named source, [[nejm-2023-fever-returning-traveler]], is a **placeholder**: the referenced PDF (`NEJM_Fever_in_a_Returning_Traveler.pdf`) **does not exist anywhere in `raw/`**, no full text has ever been extracted, and no authors/DOI/volume are known. The only artifact on disk is a 294-byte Notion export stub in `raw/GI Lectures+Chalk Talks/` — which would also make it **tier-3, lecture-gated** material even if it were present.
+> The originally named source, [[nejm-2023-fever-returning-traveler]], is a **placeholder**: the referenced PDF (`NEJM_Fever_in_a_Returning_Traveler.pdf`) **does not exist anywhere in `raw/`**, no full text has ever been extracted, and no authors/DOI/volume are known. The only artifact on disk is a Notion export stub in `raw/GI Lectures+Chalk Talks/Fever_in_a_Returning_Traveler.md` — which would also make it **tier-3, lecture-gated** material even if it were present.
+>
+> **Stub re-read verbatim 2026-09-02.** Its entire body is: *"This page contains only an attached PDF file (NEJM_Fever_in_a_Returning_Traveler.pdf). No text summary is available."* It carries **no clinical content whatsoever** — not one incubation window, pathogen, test, or threshold. So nothing on this page can be attributed to it, and re-checking it will not close any ⚠ item; only recovering the PDF (or ingesting a travel-medicine guideline) can.
 >
 > **What the 2026-08-30 pass did:** re-sourced the enteric-fever and stool/parasite testing content to [[idsa-2017-infectious-diarrhea]], the traveler's-diarrhea content to [[acg-2016-acute-diarrhea]], and the hepatitis E–in-pregnancy content to [[acg-2016-liver-disease-pregnancy]]. Two numbers were found to be **wrong or unsupported** and corrected (see the two 🔻 notes below). Everything still marked **⚠ unsourced** has **no ingested source at all** — no ingested guideline or RCT covers malaria, dengue, leptospirosis, Katayama fever/schistosomiasis, or visceral leishmaniasis, and the incubation-window table is not derived from any ingested document.
 >

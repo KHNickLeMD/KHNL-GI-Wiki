@@ -3,7 +3,7 @@ title: "Mesenteric Artery Aneurysm"
 category: disease-script
 tags: [mesenteric-artery-aneurysm, splanchnic-aneurysm, pseudoaneurysm, sma, vascular-lesion, rupture]
 created: 2026-06-01
-updated: 2026-08-28
+updated: 2026-09-02
 sources: [acg-2020-hepatic-mesenteric-circulation]
 ---
 
@@ -47,7 +47,7 @@ sources: [acg-2020-hepatic-mesenteric-circulation]
 ## Diagnostics
 
 - **CTA** — characterizes the aneurysm (site, true vs. pseudo, diameter) and drives every management decision below.
-- Surveillance imaging for the observed group: **6 months → 1 year → every 1–2 years** thereafter.
+- **Surveillance imaging for the observed group:** schedule is in the treat-vs-observe table under [[#Therapeutics]].
 - After **endovascular repair**: follow-up CTA at **3-yearly** intervals. **No follow-up imaging** after embolization of a **pseudoaneurysm**.
 
 ## Therapeutics

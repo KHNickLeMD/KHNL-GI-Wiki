@@ -3,7 +3,7 @@ title: "Colorectal Cancer"
 category: disease-script
 tags: [crc, colorectal-cancer, adenocarcinoma, oncology, screening, surveillance, post-resection, metachronous, rectal-cancer]
 created: 2026-05-19
-updated: 2026-08-30
+updated: 2026-09-02
 sources: [acg-2015-hereditary-gi-cancer, usmstf-2015-crc-surveillance, usmstf-2016-fit-screening, acg-2021-crc-screening, nccn-2026-colon-cancer, asge-2013-crc-staging-management, aga-2025-endoscopic-resection-crc]
 ---
 
@@ -93,6 +93,19 @@ sources: [acg-2015-hereditary-gi-cancer, usmstf-2015-crc-surveillance, usmstf-20
 **High-risk stage II** — historical high-risk factors for recurrence (**exclusive of MSI-H** cancers); **any one** qualifies: poorly differentiated/undifferentiated histology · lymphatic/vascular invasion · bowel obstruction · **<12 lymph nodes examined** · perineural invasion · localized perforation · close, indeterminate, or positive margins · high-tier tumor budding. No data correlate which risk feature should drive **choice** of chemotherapy; ctDNA is **prognostic, not predictive** (not for de-escalation outside a trial). [[nccn-2026-colon-cancer]]
 
 - **≥12 nodes** must be examined for adequate staging (AJCC/CAP); if <12 in stage II (pN0), the specimen should be re-examined for additional nodes.
+
+**Tumor budding — the criteria behind "high-tier"** *(ITBCC 2016, as adopted by [[nccn-2026-colon-cancer]])*. This is one of the high-risk stage II factors above and also bears on whether a malignant polyp was adequately treated endoscopically, so the tier must be counted, not eyeballed:
+
+- **Definition:** a single cell or a cluster of **≤4 neoplastic cells** on H&E at the **advancing edge** of the invasive carcinoma.
+- **How to count:** report the total number of buds from **one selected hot spot measuring 0.785 mm²**.
+
+| Tier | Buds in the hot spot | Stage II disease-specific survival |
+|---|---|---|
+| **Low** | **0–4** | 89% (and 96% in a second series) |
+| **Intermediate** | **5–9** | 73% |
+| **High** | **≥10** | 52% (92% in the second series; **80% vs 98% low-tier** among patients given no adjuvant chemotherapy) |
+
+- **High-tier budding in pT1 CRC / malignant polyps** is associated with increased lymph node metastasis risk and **may preclude polypectomy as adequate treatment** — though assessment methodologies across those studies were not uniform. Combined with **depth of submucosal invasion >1 mm** or a positive margin it defines the unfavorable pathology that drives surgery; the favorable/unfavorable criteria set lives on [[polypectomy]].
 
 ## Differential Diagnosis
 

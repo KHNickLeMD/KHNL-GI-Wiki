@@ -3,13 +3,25 @@ title: "Endoscopic Ultrasound (EUS)"
 category: advanced-procedure
 tags: [eus, endoscopic-ultrasound, fna, fnb, pancreatic-mass, pancreatic-cysts, ipmn, mcn, biliary-drainage, eus-guided-drainage, quality-indicators, gastroenterostomy]
 created: 2026-05-07
-updated: 2026-08-30
+updated: 2026-09-02
 sources: [acg-2025-eus-quality, acg-2018-pancreatic-cysts, asge-2024-solid-pancreatic-masses, asge-2011-eus-mediastinal-adenopathy, aga-2022-recurrent-pancreatitis-endoscopy, colan-hernandez-2020-eus-fna-panc-cyst-antibiotics, wang-2026-eus-ppg-delphi-consensus]
 ---
 
 # Endoscopic Ultrasound (EUS)
 
 EUS quality standards from ACG/ASGE 2025 Quality Indicator document. [[acg-2025-eus-quality]]
+
+## Contents
+- [[#Indications (>90% of EUS procedures should have a documented appropriate indication)]]
+- [[#Key Quality Standards]]
+  - [[#Preprocedure]]
+  - [[#Intraprocedure]]
+  - [[#Technical Success Benchmarks (Interventional EUS)]]
+  - [[#Postprocedure]]
+  - [[#FNA vs FNB — Diagnostic Yield]]
+  - [[#Adverse Event Rate Benchmarks]]
+- [[#EUS in Pancreatic Cyst Evaluation]]
+- [[#EUS in Mediastinal Adenopathy / Lung-Cancer Staging]]
 
 ---
 
@@ -29,7 +41,7 @@ EUS quality standards from ACG/ASGE 2025 Quality Indicator document. [[acg-2025-
 - EUS-guided pancreatic fluid collection drainage (pseudocyst, walled-off necrosis)
 - [[eus-guided-gallbladder-drainage|EUS-guided gallbladder drainage (EUS-GBD)]]
 - EUS-guided biliary drainage (EUS-BD)
-- EUS-guided gastroenterostomy (EUS-GE)
+- EUS-guided gastroenterostomy (EUS-GE) — for [[gastric-outlet-obstruction|gastric outlet obstruction]]; technique and the palliation decision live there
 - EUS-directed transgastric [[ercp|ERCP]] (EDGE) — for altered anatomy (Roux-en-Y)
 - EUS-guided [[liver-biopsy|liver biopsy]]
 - EUS-guided portosystemic pressure gradient (EUS-PPG) — direct hepatic + portal vein pressure measurement for [[portal-hypertension|portal hypertension]]; see [[interventional-eus-vascular]] ([[wang-2026-eus-ppg-delphi-consensus]])
@@ -53,7 +65,7 @@ Note: Therapeutic EUS now accounts for >50% of accepted EUS indications. Indicat
 
 - **Informed consent** must include EUS-specific risks (pancreatitis, infection, bile leak, perforation, bleeding based on procedure type)
 - **[[antibiotic-prophylaxis-endoscopy|Prophylactic antibiotics]]:**
-  - **NOT routinely needed** for EUS-FNA of [[pancreatic-cysts|pancreatic cysts]] (RCT [[colan-hernandez-2020-eus-fna-panc-cyst-antibiotics|Colán-Hernández 2020]]: infection 0.44%, no difference with vs without ciprofloxacin)
+  - **NOT routinely needed** for EUS-FNA of [[pancreatic-cysts|pancreatic cysts]] (RCT [[colan-hernandez-2020-eus-fna-panc-cyst-antibiotics|Colán-Hernández 2020]]: infection 0.44%, no difference with vs without ciprofloxacin). **Guideline conflict:** ASGE 2015 still *suggests* prophylaxis here (44BB); [[acg-2025-eus-quality|ACG/ASGE 2025]] and the RCT do not — follow the newer document
   - Consider antibiotics in: immunosuppressed patients, multiple comorbidities, incomplete cyst aspiration, [[ascites]]
   - Mediastinal cysts: do NOT routinely sample (mediastinitis risk even with antibiotics)
   - Rectal EUS-FNA/FNB: ~15% infection risk despite antibiotics; reserved for cases where benefit outweighs risk
@@ -146,11 +158,7 @@ From [[acg-2018-pancreatic-cysts]]:
 - Cyst fluid CEA cannot distinguish high-grade dysplasia or cancer from low-grade — do not use alone for surgical decision-making.
 - **Molecular testing is gated, not routine:** KRAS/GNAS is **costly and does not determine cancer risk**. ACG 2018 advises analysing these mutations only *"in cases in which the diagnosis is unclear, and a change in diagnosis will alter management."* Integrating molecular testing with cyst clinical features raises sensitivity/specificity for identifying IPMN/MCN.
 
-**Antibiotic prophylaxis for EUS-FNA of pancreatic cysts:**
-
-- **NOT routinely recommended** — RCT ([[colan-hernandez-2020-eus-fna-panc-cyst-antibiotics|Colán-Hernández 2020]]) showed no difference in infection rate with vs. without antibiotics; ASGE 2015 still *suggests* it (44BB) — see [[antibiotic-prophylaxis-endoscopy]] [[acg-2025-eus-quality]]
-- **Consider antibiotics when:** immunosuppressed, multiple comorbidities, incomplete cyst aspiration anticipated, ascites present
-- Mediastinal cysts: do NOT routinely sample (risk of mediastinitis even with antibiotics)
+*Antibiotic prophylaxis for EUS-FNA of pancreatic cysts — one home, in [[#Preprocedure]] above; not repeated here.*
 
 **EUS as surveillance modality:**
 
@@ -190,7 +198,7 @@ From [[asge-2011-eus-mediastinal-adenopathy]]:
 
 ## See Also
 
-[[pancreatic-cysts]], [[pancreatic-cancer]], [[pancreatic-cancer-screening]], [[ercp]], [[cholangioscopy]], [[subepithelial-lesion]], [[liver-biopsy]], [[choledocholithiasis]], [[acute-pancreatitis]], [[recurrent-acute-pancreatitis]], [[chronic-pancreatitis]], [[biliary-stricture]], [[eus-guided-gallbladder-drainage]], [[interventional-eus-vascular]], [[antibiotic-prophylaxis-endoscopy]], [[mri-mrcp]]
+[[pancreatic-cysts]], [[pancreatic-cancer]], [[pancreatic-cancer-screening]], [[ercp]], [[cholangioscopy]], [[subepithelial-lesion]], [[liver-biopsy]], [[choledocholithiasis]], [[acute-pancreatitis]], [[recurrent-acute-pancreatitis]], [[chronic-pancreatitis]], [[biliary-stricture]], [[eus-guided-gallbladder-drainage]], [[interventional-eus-vascular]], [[antibiotic-prophylaxis-endoscopy]], [[mri-mrcp]], [[gastric-outlet-obstruction]]
 
 ---
 

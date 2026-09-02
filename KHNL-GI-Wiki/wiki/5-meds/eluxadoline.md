@@ -3,7 +3,7 @@ title: "Eluxadoline"
 category: med
 tags: [ibs, ibs-d, mu-opioid-agonist, delta-opioid-antagonist, viberzi]
 created: 2026-07-26
-updated: 2026-09-01
+updated: 2026-09-02
 sources: [aga-2022-ibs-d, acg-2020-ibs]
 ---
 
@@ -12,7 +12,7 @@ Minimally absorbed, **peripherally acting mixed μ-/κ-opioid receptor agonist a
 ## Dosing
 - **100 mg PO BID** — standard/generally recommended dose. [[aga-2022-ibs-d]]
 - **75 mg PO BID** — use when the patient cannot tolerate 100 mg, has **mild–moderate hepatic impairment**, or is on a **concomitant OATP1B1 inhibitor** (e.g., [[calcineurin-inhibitors|cyclosporine]], gemfibrozil). Benefit is very similar to 100 mg.
-- **Do not use** in **severe hepatic impairment (Child-Pugh class C)**. [[acg-2020-ibs]]
+- **Do not use** in **severe hepatic impairment — [[cirrhosis|Child-Pugh class C]]** (CTP point table lives on that page). [[acg-2020-ibs]]
 
 ## Contraindications (decision-critical)
 Eluxadoline is **contraindicated** in patients with any of: [[aga-2022-ibs-d]]
@@ -35,7 +35,7 @@ Two phase 3 RCTs (100 mg BID, ~808 vs 809 placebo; 26-week data): [[aga-2022-ibs
 
 ## See Also
 
-[[irritable-bowel-syndrome]], [[alosetron]], [[rifaximin]], [[loperamide]], [[sphincter-of-oddi-dysfunction]], [[acute-pancreatitis]], [[calcineurin-inhibitors]], [[disorders-of-gut-brain-interaction]]
+[[irritable-bowel-syndrome]], [[alosetron]], [[rifaximin]], [[loperamide]], [[sphincter-of-oddi-dysfunction]], [[acute-pancreatitis]], [[cirrhosis]], [[calcineurin-inhibitors]], [[disorders-of-gut-brain-interaction]]
 
 ---
 

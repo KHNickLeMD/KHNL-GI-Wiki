@@ -3,7 +3,7 @@ title: "Inflammatory Bowel Disease (IBD) — Overview"
 category: concept
 tags: [ibd, crohns, ulcerative-colitis, biologic, immunotherapy]
 created: 2026-05-16
-updated: 2026-08-26
+updated: 2026-09-02
 sources: [aga-2026-inpatient-ibd]
 ---
 
@@ -28,6 +28,7 @@ Inflammatory bowel disease (IBD) comprises two major chronic immune-mediated dis
 | Pain management | [[ibd-pain-management]] |
 | Transmural monitoring | [[intestinal-ultrasound]] |
 | Pouch disorders | [[pouchitis]] |
+| Immunomodulator positioning, dosing, TPMT/NUDT15 testing | [[thiopurines]] |
 | Thiopurine / methotrexate hepatotoxicity | [[drug-induced-liver-injury]] |
 
 ## Inpatient Management of Hospitalized IBD
@@ -42,7 +43,7 @@ Inflammatory bowel disease (IBD) comprises two major chronic immune-mediated dis
 
 ## See Also
 
-[[crohns-disease]], [[ulcerative-colitis]], [[ibd-preventive-care]], [[ibd-endoscopic-scoring]], [[ibd-pain-management]], [[ibd-in-malignancy]], [[nutrition-in-ibd]], [[intestinal-ultrasound]], [[clostridioides-difficile]], [[disorders-of-gut-brain-interaction]], [[drug-induced-liver-injury]], [[nutrition-in-hospitalized-patients]], [[colorectal-cancer]], [[pouchitis]], [[uc-vs-crohns-comparison]], [[probiotics]], [[anticoagulation-gi-bleeding]]
+[[crohns-disease]], [[ulcerative-colitis]], [[thiopurines]], [[ibd-preventive-care]], [[ibd-endoscopic-scoring]], [[ibd-pain-management]], [[ibd-in-malignancy]], [[nutrition-in-ibd]], [[intestinal-ultrasound]], [[clostridioides-difficile]], [[disorders-of-gut-brain-interaction]], [[drug-induced-liver-injury]], [[nutrition-in-hospitalized-patients]], [[colorectal-cancer]], [[pouchitis]], [[uc-vs-crohns-comparison]], [[probiotics]], [[anticoagulation-gi-bleeding]]
 
 ---
 

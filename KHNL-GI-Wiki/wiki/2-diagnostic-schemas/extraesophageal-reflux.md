@@ -3,7 +3,7 @@ title: "Extraesophageal Reflux (EER)"
 category: diagnostic-schema
 tags: [gerd, extraesophageal-reflux, eer, lpr, chronic-cough, asthma, laryngitis, dental-erosions, ppi, reflux-testing, foregut]
 created: 2026-07-23
-updated: 2026-08-25
+updated: 2026-09-02
 sources: [aga-2023-extraesophageal-gerd, acg-2021-gerd]
 ---
 
@@ -48,7 +48,7 @@ Conditions commonly attributed to EER, each with a large non-reflux differential
 
 | Test | Role in EER |
 |---|---|
-| Upper endoscopy (EGD) | Erosive esophagitis (LA grade — criteria table on [[reflux-testing]]), [[barretts-esophagus\|Barrett's]], hiatal hernia; a conclusive GERD sign supports (not proves) reflux causation |
+| Upper endoscopy (EGD) | Erosive esophagitis (LA grade — ⚠ **criteria corpus-blocked**, see below), [[barretts-esophagus\|Barrett's]], hiatal hernia; a conclusive GERD sign supports (not proves) reflux causation |
 | Ambulatory reflux monitoring (pH or pH-impedance), **off** PPI | Establish/exclude pathologic reflux when GERD unproven; AET thresholds per [[ambulatory-reflux-monitoring\|Lyon 2.0]] (>6% proven, <4% excludes) |
 | pH-impedance **on** PPI | Established GERD with persistent symptoms — quantify ongoing acid/non-acid reflux (BPA 8) |
 | Laryngoscopy (via ENT) | Mandatory to exclude non-reflux laryngeal pathology in laryngeal EER — see [[laryngopharyngeal-symptoms]] |
@@ -56,6 +56,8 @@ Conditions commonly attributed to EER, each with a large non-reflux differential
 | Salivary pepsin, oropharyngeal (Restech) pH | **Not recommended** — poor concordance with esophageal reflux monitoring and overlapping results between healthy controls and symptomatic patients; currently unlikely to be sufficiently reliable or accurate for EER |
 
 **Threshold gap — proximal reflux.** pH-impedance can count proximal reflux episodes, but there is **no well-established threshold** defining clinically relevant "pathologic" proximal reflux, so proximal event counts cannot be used as a diagnostic cutoff (AGA 2023).
+
+> ⚠ **Decision gap — LA grade is corpus-blocked.** The EGD row above (and the "conclusive GERD evidence" logic behind it) turns on the **Los Angeles grade A–D mucosal-break criteria**, which **no ingested source defines** — the corpus uses the grades without printing them. The grade therefore cannot be assigned from this wiki; [[reflux-testing]] is the single home for the LA-grade entry and carries the standing block note (needs Lundell 1999). Do not supply the criteria from memory.
 
 ## Red Flags / Alarm Features
 

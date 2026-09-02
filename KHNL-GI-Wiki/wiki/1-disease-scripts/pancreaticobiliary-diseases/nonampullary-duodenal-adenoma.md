@@ -3,7 +3,7 @@ title: "Nonampullary Duodenal Adenoma"
 category: disease-script
 tags: [duodenal-adenoma, nonampullary-adenoma, endoscopic-mucosal-resection, cold-snare, familial-adenomatous-polyposis, spiegelman, surveillance, gi-bleeding, perforation]
 created: 2026-07-21
-updated: 2026-09-01
+updated: 2026-09-02
 sources: [aga-2025-nonampullary-duodenal, asge-2015-ampullary-duodenal-adenomas]
 ---
 
@@ -45,7 +45,7 @@ Describe every duodenal polyp by **(BPA 3):**
 | Descriptor | Detail |
 |---|---|
 | Size | mm |
-| Paris morphology | pedunculated / sessile / flat / laterally spreading (e.g. 0-IIa, Is) |
+| [[polypectomy\|Paris]] morphology | pedunculated / sessile / flat / laterally spreading (e.g. 0-IIa, Is). *Full Paris criteria, with schematics and endoscopic examples, live on that page.* |
 | Suspected layer of origin | mucosal lesion vs [[subepithelial-lesion\|subepithelial lesion]] |
 | Location | D1–D4 |
 | Orientation | anterior, posterior, medial, or lateral wall |

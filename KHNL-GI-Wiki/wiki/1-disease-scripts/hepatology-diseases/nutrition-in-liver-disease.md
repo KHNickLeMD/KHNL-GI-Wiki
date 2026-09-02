@@ -3,7 +3,7 @@ title: "Nutrition in Liver Disease"
 category: disease-script
 tags: [liver, cirrhosis, malnutrition, sarcopenia, hepatic-encephalopathy, bcaa, vitamin-e, mash, masld, ald, coffee, nutrition]
 created: 2026-05-07
-updated: 2026-08-31
+updated: 2026-09-02
 sources: [acg-2025-liver-nutrition, aasld-2021-malnutrition-cirrhosis]
 ---
 
@@ -42,8 +42,12 @@ Malnutrition (most commonly sarcopenia) is a common complication of liver diseas
 | 6-minute walk test, sit-to-stand test | Contractile function; predicts outcomes |
 | Bioelectrical impedance | Improving; validates well against gold-standard body potassium |
 | CT at L3 level | **Most consistent and reproducible** method to quantify muscle mass in cirrhosis; skeletal muscle index (SMI) cut-points below. **Do not order CT solely for muscle mass** (radiation) — quantify when an abdominal CT is obtained for clinical care, or when contractile-function testing is impractical (acutely ill, very young). MRI theoretically equivalent but **not validated** in cirrhosis. No bedside tool has sufficient data to substitute. [[aasld-2021-malnutrition-cirrhosis]] |
-| Subjective global assessment (SGA) | Requires training; subjective |
+| Subjective global assessment (SGA) | Requires training; "truly subjective" per [[acg-2025-liver-nutrition]]. ⚠ **Criteria corpus-blocked — see note below** |
 | Serum albumin/prealbumin | Unreliable as nutritional markers (synthesized by liver) |
+
+> ⚠ **Decision gap — SGA is named across the wiki but defined nowhere.** [[acg-2025-liver-nutrition]] and [[aasld-2021-malnutrition-cirrhosis]] both use SGA without printing its **A / B / C classes or its history-and-physical domains**, so an "SGA-C" result cannot be produced from any ingested source. This breaks a live decision chain: [[hepatic-cysts]] conditions **MELD-exception eligibility** on an SGA-C score (alongside **GLIM**, **ASPEN**, and **NFPE** criteria, none of which appear in any ingested source either) and links here for the definition. Ingest the primary SGA (Detsky) instrument and the GLIM/ASPEN consensus criteria to close it — **do not reconstruct the classes from memory.**
+>
+> **NRS-2002** is not used by either liver-specific source; its full scoring table lives on [[nutrition-in-hospitalized-patients]] ([[acg-2016-nutrition-hospitalized]] Table 5) — link there rather than restating it.
 
 ### Definitions
 
@@ -164,7 +168,7 @@ Malnutrition in liver disease is multifactorial:
 
 ## See Also
 
-[[hepatic-encephalopathy]], [[ascites]], [[nafld-masld]], [[alcohol-associated-liver-disease]], [[hepatocellular-carcinoma]], [[rifaximin]], [[liver-transplantation]], [[acute-on-chronic-liver-failure]], [[nutrition-in-hospitalized-patients]], [[obesity]], [[gastroparesis]], [[small-intestinal-bacterial-overgrowth]], [[chronic-diarrhea]], [[nausea-and-vomiting]], [[enteral-access]], [[cirrhosis]], [[abnormal-liver-chemistries]]
+[[hepatic-encephalopathy]], [[ascites]], [[nafld-masld]], [[alcohol-associated-liver-disease]], [[hepatocellular-carcinoma]], [[rifaximin]], [[liver-transplantation]], [[acute-on-chronic-liver-failure]], [[nutrition-in-hospitalized-patients]], [[hepatic-cysts]], [[obesity]], [[gastroparesis]], [[small-intestinal-bacterial-overgrowth]], [[chronic-diarrhea]], [[nausea-and-vomiting]], [[enteral-access]], [[cirrhosis]], [[abnormal-liver-chemistries]]
 
 ---
 

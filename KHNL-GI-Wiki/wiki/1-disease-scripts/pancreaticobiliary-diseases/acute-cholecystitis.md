@@ -3,7 +3,7 @@ title: "Acute Cholecystitis"
 category: disease-script
 tags: [acute-cholecystitis, gallbladder, cholecystectomy, eus-gbd, percutaneous-cholecystostomy, transpapillary-drainage, lams, high-surgical-risk]
 created: 2026-07-23
-updated: 2026-09-01
+updated: 2026-09-02
 sources: [aga-2023-eus-gallbladder-drainage, asge-2024-therapeutic-eus-biliary, aga-2024-pregnancy-gi-liver, tg18-2018-cholangitis-flowchart]
 ---
 
@@ -119,7 +119,7 @@ Three routes ([[aga-2023-eus-gallbladder-drainage]]):
 - **Perforation suspected on imaging OR unable to tolerate sedation → PT-GBD.**
 - **No perforation AND tolerates sedation:**
   - **ET-GBD initially** if: uncontrolled ascites; potential future surgical candidate; undergoing ERCP for other reasons (choledocholithiasis, cholangitis); gallbladder **>10 mm** from the GI tract wall. If fails → EUS-GBD (after surgeon discussion).
-  - **EUS-GBD initially** (after surgeon discussion) if: duodenal obstruction/gastric outlet obstruction; in-dwelling metal stent occluding the cystic duct; large gallbladder stone burden. If fails → ET-GBD.
+  - **EUS-GBD initially** (after surgeon discussion) if: duodenal obstruction / [[gastric-outlet-obstruction|gastric outlet obstruction]]; in-dwelling metal stent occluding the cystic duct; large gallbladder stone burden. If fails → ET-GBD.
   - If both endoscopic routes fail → PT-GBD.
 - EUS-GBD is also an option to **internalize an existing percutaneous cholecystostomy** in permanent non-surgical candidates, and a rescue for malignant biliary obstruction after failed ERCP + failed EUS-BD. ([[aga-2023-eus-gallbladder-drainage]])
 
@@ -140,7 +140,7 @@ Three routes ([[aga-2023-eus-gallbladder-drainage]]):
 
 ## See Also
 
-[[eus-guided-gallbladder-drainage]], [[endoscopic-ultrasound]], [[ercp]], [[acute-cholangitis]], [[choledocholithiasis]], [[gallbladder-cancer]], [[biliary-stricture]], [[jaundice]], [[ascites]], [[acute-pancreatitis]], [[liver-disease-in-pregnancy]], [[liver-transplantation]]
+[[eus-guided-gallbladder-drainage]], [[endoscopic-ultrasound]], [[ercp]], [[acute-cholangitis]], [[choledocholithiasis]], [[gallbladder-cancer]], [[biliary-stricture]], [[jaundice]], [[ascites]], [[acute-pancreatitis]], [[liver-disease-in-pregnancy]], [[liver-transplantation]], [[gastric-outlet-obstruction]]
 
 ---
 

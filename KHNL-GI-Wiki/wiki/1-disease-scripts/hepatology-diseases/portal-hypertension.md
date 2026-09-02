@@ -3,7 +3,7 @@ title: "Portal Hypertension"
 category: disease-script
 tags: [portal-hypertension, cirrhosis, CSPH, HVPG, cACLD, varices, NSBB, carvedilol, TIPS, liver-stiffness, decompensation, variceal-bleeding, ascites]
 created: 2026-05-28
-updated: 2026-08-30
+updated: 2026-09-02
 sources: [aasld-2023-portal-hypertension, baveno-vii-2022-portal-hypertension, acg-2025-perioperative-cirrhosis, aasld-2024-tips, aasld-2022-palliative-cirrhosis, wang-2026-eus-ppg-delphi-consensus]
 ---
 
@@ -23,13 +23,13 @@ Portal hypertension (PH) is defined as a portocaval pressure gradient (portal ve
 | Intrahepatic — postsinusoidal | Sinusoidal obstruction syndrome (VOD) |
 | Posthepatic | [[budd-chiari-syndrome\|Budd-Chiari syndrome]], congestive hepatopathy (heart failure, constrictive pericarditis) |
 
-**cACLD (Compensated Advanced Chronic Liver Disease):** A new concept denoting patients who are likely close to cirrhosis based on LSM and platelet count, without requiring histological/radiological confirmation. Key threshold: LSM ≥15 kPa by transient elastography [[aasld-2023-portal-hypertension]].
+**cACLD (Compensated Advanced Chronic Liver Disease):** A new concept denoting patients who are likely close to cirrhosis based on LSM and platelet count, without requiring histological/radiological confirmation. Key threshold: LSM ≥15 kPa by [[liver-stiffness-measurement|transient elastography]] [[aasld-2023-portal-hypertension]].
 
 - Baveno VII LSM (TE) criteria: **<10 kPa rules out cACLD** (absent other clinical/imaging signs); **10–15 kPa suggestive**; **>15 kPa highly suggestive** (B.1) [[baveno-vii-2022-portal-hypertension]]
 - "cACLD" and "compensated cirrhosis" are both acceptable terms but **not interchangeable** (B.1)
 - LSM <10 kPa → negligible 3-year risk (≤1%) of decompensation and liver-related death (A.1)
 
-**Clinically significant portal hypertension (CSPH):** HVPG ≥10 mm Hg. CSPH marks the threshold above which clinical decompensation risk rises substantially (varices, [[ascites]], HE). Complications typically manifest when HVPG ≥12 mm Hg.
+**Clinically significant portal hypertension (CSPH):** HVPG ≥10 mm Hg. CSPH marks the threshold above which clinical decompensation risk rises substantially (varices, [[ascites]], [[hepatic-encephalopathy|HE]]).
 
 - HVPG >5 mmHg = sinusoidal PH; **≥10 mmHg = CSPH** (A.1, Baveno VII 1.10 — changed from >10 to ≥10)
 - In [[primary-biliary-cholangitis|PBC]] a presinusoidal component means HVPG **underestimates** PH severity (B.1); in NASH/[[nafld-masld|MASH]] cirrhosis, signs of PH can occur at HVPG <10 mmHg (C.2)
@@ -52,16 +52,9 @@ Portal hypertension (PH) is defined as a portocaval pressure gradient (portal ve
 - Increasing CTP class, variceal size, and red wale marks **each independently** raise first-bleed risk — the three criteria are alternatives, not requirements.
 - If the high-risk varices are **small**, NSBB is the only technically feasible option; if **large**, both NSBB and [[variceal-upper-gi-bleeding|EVL]] are possible ([[aasld-2023-portal-hypertension]]).
 
-**HVPG (gold standard):**
+**HVPG (gold standard):** the **full interpretation ladder (normal / subclinical / CSPH / ≥16 / >20) and the measurement technique live on [[hepatic-venous-pressure-gradient]]** — that page is the single home; the strata are not restated here. The two values that change management on *this* page are **≥10 mm Hg (CSPH → primary prophylaxis)** and **>20 mm Hg measured at the time of bleeding (→ pre-emptive [[tips|TIPS]])**.
 
-- 1–5 mm Hg: normal
-- 6–9 mm Hg: mild/subclinical PH — **not** CSPH (no varices, mild risk)
-- ≥10 mm Hg: CSPH → risk of complications begins
-- ≥12 mm Hg: variceal bleeding risk threshold
-- ≥16 mm Hg: increased short-term mortality after **non-hepatic abdominal surgery** (Baveno VII 1.19) [[baveno-vii-2022-portal-hypertension]]
-- ≥20 mm Hg: high-risk feature predicting treatment failure in acute variceal hemorrhage (AVH); a criterion for pre-emptive [[tips|TIPS]]
-
-HVPG requires transjugular or transfemoral approach; preferred at experienced centers. Balloon occlusion of hepatic vein (WHVP minus FHVP = HVPG). Triplicate measurements; quiet environment; avoid deep sedation. Full technique and interpretation: [[hepatic-venous-pressure-gradient]].
+> ⚠ **"HVPG ≥12 mm Hg = variceal bleeding threshold" has been removed from this page (2026-09-02).** No ingested source states it. Full-text search of [[aasld-2023-portal-hypertension]] and [[baveno-vii-2022-portal-hypertension]] finds 12 mm Hg **only** as the **post-TIPS portosystemic gradient target** ("NSBB are not required after TIPS placement if portosystemic gradient is reduced to under 12 mm Hg"). Do not refill it from memory — see the same flag on [[hepatic-venous-pressure-gradient]].
 
 **EUS-PPG (emerging alternative).** [[interventional-eus-vascular|EUS-guided portosystemic pressure gradient]] directly and sequentially measures **hepatic vein and portal vein pressures** by needle puncture (gradient = mean portal − mean hepatic vein pressure), rather than using wedged pressure as an indirect proxy. Because it measures portal pressure directly, expert consensus favors it **over [[hepatic-venous-pressure-gradient|HVPG]] when a presinusoidal or noncirrhotic cause of PH is suspected** (where wedged pressure underestimates severity) and in MASH; its indications include all HVPG indications, and it enables a same-session "one-stop-shop" with variceal-screening EGD and EUS [[liver-biopsy|liver biopsy]] ([[wang-2026-eus-ppg-delphi-consensus]]). Technique lives on [[interventional-eus-vascular]].
 
@@ -85,7 +78,7 @@ ANTICIPATE-NASH (LSM + platelets + BMI) may be used in NASH-related cACLD but ne
 ![[portal-hypertension-2022-baveno7-cacld-csph-algorithm-05.png|750x330]]
 *Figure 4 — Baveno VII "rule of 5" for LSM by transient elastography (10-15-20-25 kPa). <10 kPa excludes cACLD; ≥15 kPa (+platelets >150) begins ruling in cACLD/CSPH; LSM <20 kPa + platelets >150 = Baveno VI criteria to avoid endoscopy; ≥25 kPa assumes CSPH in HCV/HBV/ALD/non-obese NASH. Higher LSM = higher risk of decompensation and liver-related death. ([[baveno-vii-2022-portal-hypertension]])*
 
-**Note:** "Rule of Five" cutoffs are less reliable in [[obesity]]/[[nafld-masld|NAFLD]], PSC with dominant strictures, and elevated ALT (>3× ULN). Non-TE elastography methods (MRE, pSWE, 2D-SWE) not yet validated for these specific cutoffs.
+**Note:** "Rule of Five" cutoffs are less reliable in [[obesity]]/[[nafld-masld|NAFLD]], [[primary-sclerosing-cholangitis|PSC]] with dominant strictures, and elevated ALT (>3× ULN). Non-TE elastography methods (MRE, pSWE, 2D-SWE) not yet validated for these specific cutoffs.
 
 **Spleen stiffness measurement (SSM) by TE (Baveno VII 2.21–2.22)** [[baveno-vii-2022-portal-hypertension]]:
 

@@ -3,7 +3,7 @@ title: "AKI in Cirrhosis (including HRS-AKI)"
 category: disease-script
 tags: [aki, cirrhosis, hrs, hepatorenal-syndrome, albumin, terlipressin, liver]
 created: 2026-05-15
-updated: 2026-08-31
+updated: 2026-09-02
 sources: [aga-2022-aki-cirrhosis, aga-2024-vasoactive-albumin-cirrhosis, aasld-2024-aclf]
 ---
 
@@ -46,7 +46,8 @@ Staging as printed by [[aga-2022-aki-cirrhosis]] (Figure 1 legend). Note that St
 | Stage 2 | SCr **2–3× baseline** |
 | Stage 3 | SCr **>3× baseline** |
 
-- Stages 2–3 (or Stage 1b) persisting despite risk-factor management for 2 days warrant vasoconstrictor therapy if HRS-AKI criteria are met. In **Stage 1** AKI (rise >0.3 mg/dL but <2× baseline) vasoconstrictors are **not currently indicated**.
+- **Vasoconstrictor eligibility — the operative rule:** SCr **>1.5 mg/dL (Stage 1b)**, **or** SCr **≥2× baseline (Stage 2–3)**, **and** remaining above that level **despite 2 days of risk-factor management**, **and** meeting HRS-AKI criteria. **Stage 1a** (SCr ≤1.5 mg/dL) does **not** qualify.
+  - ⚠ **The source is internally loose here and is easy to misread.** [[aga-2022-aki-cirrhosis]] (Figure 1 legend) first writes that "in patients with stage 1 AKI … vasoconstrictor agents are not currently indicated," then in the next sentence makes **Stage 1b** an indication ("When the serum creatinine has increased >1.5 mg/dL (Stage 1b), or to 2 times baseline value (stage 2) … vasoconstrictor agents are indicated"). Read literally the two sentences conflict, because 1b *is* Stage 1. The reconciliation the figure intends — and what this page asserts — is that the exclusion applies to **Stage 1a only**. A "Stage 1" label alone is therefore not enough to decide; **you must know the absolute creatinine.**
 - **Response definitions:** complete response = SCr returns to **<0.3 mg/dL above baseline**; partial response = SCr falls but stays **>0.3 mg/dL above baseline**.
 - Vasoconstrictor therapy should be started early — higher pre-treatment SCr is associated with treatment failure; every 1 mg/dL reduction in SCr is associated with a 27% relative risk reduction in mortality.
 
@@ -167,7 +168,7 @@ All of the following must be present:
 
 ### HRS-AKI Treatment — Pharmacological (BPA 6)
 
-**Indication:** SCr remains >2× baseline despite initial management (BPA 5) for 2 days AND HRS-AKI criteria are met.
+**Indication:** SCr remains **>1.5 mg/dL (Stage 1b) or ≥2× baseline (Stage 2–3)** despite initial management (BPA 5) for 2 days **AND** HRS-AKI criteria are met — full eligibility rule and the source's internal ambiguity under [[#Severity Assessment (ICA-AKI Staging)]].
 
 **Albumin regimen:**
 

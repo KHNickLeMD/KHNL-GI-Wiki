@@ -3,7 +3,7 @@ title: "Gastric Adenocarcinoma"
 category: disease-script
 tags: [gastric-cancer, gastric-adenocarcinoma, gastric, malignancy, her2, pd-l1, msi-h, dmmr, claudin-18.2, flot, gastrectomy, endoscopic-resection, trastuzumab, zolbetuximab, nccn, oncology]
 created: 2026-06-01
-updated: 2026-08-26
+updated: 2026-09-02
 sources: [nccn-2026-gastric-cancer, asge-2015-gastric-premalignant, asge-2023-esd]
 ---
 
@@ -17,7 +17,7 @@ sources: [nccn-2026-gastric-cancer, asge-2015-gastric-premalignant, asge-2023-es
 
 ### Severity Assessment (AJCC 8th ed. TNM staging)
 
-Staging combines [[endoscopic-ultrasound|EUS]] (T/N), CT, PET/CT, and **diagnostic laparoscopy with peritoneal cytology** for locally advanced disease to exclude occult peritoneal spread. For advanced/metastatic disease, biomarker testing — **HER2 (ERBB2), PD-L1 CPS, MSI-H/dMMR, and claudin 18.2** — is integral to treatment selection.
+Stage is assigned from the staging workup in [[#Diagnostics]]; for advanced/metastatic disease, biomarker status drives treatment selection ([[#Biomarker Testing]]).
 
 Depth of invasion separates endoscopically curable disease (Tis/T1a mucosal) from disease requiring gastrectomy or systemic therapy. Stage groups differ for clinical (cTNM), pathologic (pTNM), and post-neoadjuvant (ypTNM) staging ([[nccn-2026-gastric-cancer]], AJCC 8th ed. 2017):
 
@@ -76,9 +76,22 @@ Depth of invasion separates endoscopically curable disease (Tis/T1a mucosal) fro
 
 ## Diagnostics
 
-Endoscopy with biopsy for histology; EUS for locoregional staging; CT/PET for distant disease; diagnostic laparoscopy + peritoneal cytology for locally advanced tumors. Biomarker panel (HER2, PD-L1 CPS, MSI-H/dMMR, claudin 18.2) on advanced/metastatic tumors directs systemic therapy.
+- **[[upper-endoscopy|EGD]] with biopsy** — establishes histology. Biopsy adequacy: obtain **≥7 biopsy samples** of a gastric mass or the heaped-up edges of an ulcer suspicious for malignancy. [[asge-2015-gastric-premalignant]]
+- **[[endoscopic-ultrasound|EUS]]** — locoregional T and N stage.
+- **CT + PET/CT** — distant disease.
+- **Diagnostic laparoscopy with peritoneal cytology** — in locally advanced disease, to exclude occult peritoneal spread before committing to a curative-intent plan. [[nccn-2026-gastric-cancer]]
 
-- Biopsy adequacy: obtain **≥7 biopsy samples** of a gastric mass or the heaped-up edges of an ulcer suspicious for malignancy. [[asge-2015-gastric-premalignant]]
+### Biomarker Testing
+
+Every systemic-therapy recommendation below is conditional on one of these cutoffs, so the cutoff is the decision — what counts as "positive" ([[nccn-2026-gastric-cancer]]):
+
+| Biomarker | "Positive" defined as | When to test |
+|---|---|---|
+| **HER2 (ERBB2)** | **IHC 3+**, or **IHC 2+ with ISH/FISH-positive** | Advanced/metastatic disease |
+| **PD-L1 (CPS)** | **CPS ≥1**. CPS = PD-L1–stained cells (tumor cells, lymphocytes, macrophages) ÷ total viable tumor cells × 100. **≥100 tumor cells** must be present for the slide to be evaluable | Universal IHC testing in all newly diagnosed patients who are candidates for a PD-1/PD-L1 inhibitor; CLIA-approved lab, companion diagnostic assay |
+| **TAP score** | **TAP ≥1%** — visual determinant of positivity (stained tumor + immune cells ÷ whole tumor area) rather than cell counting. **CPS and TAP have high concordance and may be used interchangeably** (v3.2026), so TAP ≥1% satisfies the CPS ≥1 gate. TPS is **not** used in these guidelines | As for CPS |
+| **Claudin 18.2 (CLDN18.2)** | **≥75% of viable tumor cells** with **moderate-to-strong membranous staining (2+ or 3+ intensity)** by qualitative IHC on FFPE tissue | Untreated unresectable locally advanced, recurrent, or metastatic disease when **zolbetuximab** is being considered |
+| **MSI-H / dMMR** | By IHC/PCR/NGS as per assay | Advanced disease (directs immunotherapy); also triggers consideration of perioperative immunotherapy |
 
 ## Therapeutics
 
@@ -97,7 +110,17 @@ Stage-directed per [[nccn-2026-gastric-cancer]]:
 - **Resectable locally advanced:** **perioperative chemotherapy (FLOT preferred)** with **gastrectomy and D2 lymphadenectomy**. Perioperative/neoadjuvant immunotherapy is considered for **MSI-H/dMMR** tumors (multidisciplinary; **dostarlimab** added as a neoadjuvant option). Gastrectomy remains standard even after radiologic/endoscopic complete response to neoadjuvant immunotherapy, outside prospective organ-preservation trials; if non-operative management is pursued for MSI-H/dMMR disease, immunotherapy continues for **at least 1 year**.
 - **Unresectable:** definitive chemoradiation/chemotherapy.
 - **Palliation of malignant gastric outlet obstruction:** endoscopically placed **self-expanding metal stent (SEMS)** for patients with poor performance status or nonoperable anatomy. [[asge-2015-gastric-premalignant]]
-- **Metastatic:** HER2-overexpressing (IHC 3+, or IHC 2+ with ISH/FISH+) → add **trastuzumab** to first-line chemotherapy; HER2-negative → fluoropyrimidine + platinum with **nivolumab or pembrolizumab** by PD-L1 CPS, and **zolbetuximab** for claudin 18.2-positive tumors. Later line: **fam-trastuzumab deruxtecan** (category 1) for HER2-positive disease; ramucirumab-based regimens, taxanes, irinotecan, and trifluridine/tipiracil otherwise.
+- **Metastatic / unresectable — biomarker-directed** (positivity cutoffs in [[#Biomarker Testing]]). Backbone is a fluoropyrimidine + platinum (**oxaliplatin preferred over cisplatin** — lower toxicity):
+
+| Biomarker result | First-line addition | Category |
+|---|---|---|
+| **HER2-positive** | **Trastuzumab** added to fluoropyrimidine + platinum | Category 1 with cisplatin |
+| HER2-positive **and CPS ≥1** | Trastuzumab **+ pembrolizumab** | Category 1 |
+| **HER2-negative, CPS ≥1** | Add **nivolumab**, **pembrolizumab**, or **tislelizumab** | Category 2A at CPS ≥1; **category 1 only at CPS ≥5** |
+| **HER2-negative, CLDN18.2-positive** | Add **zolbetuximab** | Category 1 |
+| **MSI-H/dMMR** (independent of PD-L1) | Pembrolizumab, dostarlimab, or nivolumab + ipilimumab — alone or with chemotherapy | — |
+
+  Later line: **fam-trastuzumab deruxtecan** (category 1) for HER2-positive disease; ramucirumab-based regimens, taxanes, irinotecan, and trifluridine/tipiracil otherwise.
 
 ### NCCN Treatment Algorithm
 

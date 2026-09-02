@@ -3,7 +3,7 @@ title: "Autoimmune Hepatitis"
 category: disease-script
 tags: [aih, autoimmune, hepatitis, liver, hpb, igg, immunosuppression, pregnancy, azathioprine, budesonide, mycophenolate-mofetil, mmf, tacrolimus, overlap-syndrome, pbc, psc, cirrhosis, liver-transplant]
 created: 2026-05-16
-updated: 2026-08-30
+updated: 2026-09-02
 sources: [acg-2017-liver-chemistries, acg-2016-liver-disease-pregnancy, aasld-2020-autoimmune-hepatitis]
 ---
 
@@ -73,7 +73,7 @@ Both definitions additionally require **no previously recognized liver disease**
 | Prior liver disease | none recognized | none recognized |
 | Action | steroid trial, reassess 1–2 wk | evaluate directly for [[liver-transplantation\|liver transplantation]]; see [[acute-liver-failure]] |
 
-**Fibrosis staging:** Ishak/Metavir/Brunt staging on biopsy; MELD score for decompensated AIH [[cirrhosis|cirrhosis]]
+**Fibrosis staging:** Ishak / METAVIR / Scheuer–Batts-Ludwig staging on [[liver-biopsy|biopsy]] — **Scheuer/Batts-Ludwig is the system derived for viral and autoimmune hepatitis**; stage definitions and the warning against converting between schemes live on [[liver-biopsy]]. MELD score for decompensated AIH [[cirrhosis|cirrhosis]]
 
 **Biochemical remission (treatment goal):** Normalization of AST, ALT, AND IgG to within the normal range
 
@@ -242,6 +242,10 @@ Requires **2 of the 3 PBC criteria**, plus — on a background of **interface he
 |---|---|
 | **PBC (2 of 3)** | ALP ≥2× ULN **or** GGT ≥5× ULN · AMA present · florid bile duct lesions on histology |
 | **AIH (both, in addition to interface hepatitis)** | ALT ≥5× ULN · IgG ≥2× ULN **or** SMA present |
+
+*This is the single home for the Paris criteria; [[primary-biliary-cholangitis]] links here rather than restating them.*
+
+> ⚠ **The two AASLD guidelines state Paris differently — know which framing you are using.** [[aasld-2018-pbc]], approaching from an established PBC diagnosis, defines Paris as **"two of the following three"** *AIH* criteria, counting **liver biopsy with moderate or severe interface hepatitis as the third criterion** (a: ALT >5× ULN; b: IgG ≥2× ULN **and/or** SMA+; c: moderate/severe interface hepatitis). [[aasld-2020-autoimmune-hepatitis]], approaching from AIH, instead requires **2 of 3 PBC criteria** *plus* **both** AIH criteria, with interface hepatitis a **prerequisite** rather than a countable item. The practical difference: under the PBC framing a patient with interface hepatitis + IgG ≥2× ULN qualifies **without** ALT >5× ULN; under the AIH framing they do not. **The newer [[aasld-2020-autoimmune-hepatitis]] framing (table above) governs this wiki** per source priority; the 2018 PBC wording is recorded here so readers carrying it are not caught out.
 
 - Paris criteria performance: sensitivity 92%, specificity 97% (single-centre) — but the IAIHG notes the AIH–PBC criteria were never independently validated, and the criteria **miss** patients with less pronounced cholestatic labs, who can still improve on conventional AIH immunosuppression
 - Treatment: predniso(lo)ne + AZA directed at the AIH component; see [[primary-biliary-cholangitis]] for the UDCA component

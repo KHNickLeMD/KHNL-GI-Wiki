@@ -3,7 +3,7 @@ title: "Rumination Syndrome"
 category: disease-script
 tags: [rumination-syndrome, regurgitation, dgbi, gastroduodenal, high-resolution-manometry, impedance, postprandial, foregut]
 created: 2026-06-08
-updated: 2026-08-30
+updated: 2026-09-02
 sources: [rome-v-2026-dgbi, acg-2020-esophageal-physiologic-testing]
 ---
 
@@ -40,13 +40,12 @@ It is classified in **Rome V among the gastroduodenal [[disorders-of-gut-brain-i
 ### Severity Assessment
 
 - **No severity score, stratum, or grading system for rumination syndrome exists in any ingested source** — neither [[acg-2020-esophageal-physiologic-testing]] (diagnosis only) nor the ingested [[rome-v-2026-dgbi]] material (introduction/process article, which places rumination at **B4** without printing the criteria) grades it. No threshold is asserted here because none is sourced.
-- The only ordinal element that *is* sourced is the manometric bar itself: an **intragastric pressure rise >30 mm Hg** with proximal movement of gastric content during a recognized episode (see [[#Postprandial High-Resolution Impedance Manometry (HRIM) — Diagnostic Standard]]) — a diagnostic threshold, not a severity grade.
+- The only ordinal element that *is* sourced is the manometric bar itself — a **diagnostic threshold, not a severity grade** (criteria under [[#Postprandial High-Resolution Impedance Manometry (HRIM) — Diagnostic Standard]]).
 
 ### Pathophysiology
 
-During rumination episodes there is movement of gastric content **from the intra-abdominal cavity into the thorax, driven by an increase in intra-abdominal pressure at the onset of the episode** ([[acg-2020-esophageal-physiologic-testing]]). The corresponding manometric signature is an **increase in intragastric pressure of >30 mm Hg** associated with **proximal movement of gastric content** and **esophageal pressurization**, accompanying a clinically recognized rumination episode.
-
-It is an important behavioral mimic of [[gerd|GERD]] to identify (see [[#Differential Diagnosis]]).
+- Gastric content moves **from the intra-abdominal cavity into the thorax, driven by a rise in intra-abdominal pressure at the onset of the episode** ([[acg-2020-esophageal-physiologic-testing]]) — this is the mechanism the manometric criteria measure.
+- An important **behavioral mimic of [[gerd|GERD]]** (see [[#Differential Diagnosis]]).
 
 ---
 

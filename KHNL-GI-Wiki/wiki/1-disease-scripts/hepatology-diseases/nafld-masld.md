@@ -3,7 +3,7 @@ title: "NAFLD / MASLD (Metabolic Dysfunction-Associated Steatotic Liver Disease)
 category: disease-script
 tags: [nafld, masld, nash, mash, steatosis, metabolic-syndrome, fibrosis, fibroscan, hpb, liver, obesity, diabetes, semaglutide, resmetirom, glp-1, nit, essence-trial, liver-transplant, post-transplant, recurrence]
 created: 2026-05-19
-updated: 2026-08-31
+updated: 2026-09-02
 sources: [aasld-2023-nafld, aasld-2023-masld-nomenclature, aasld-2024-resmetirom, aasld-2024-nilda-blood, aasld-2025-semaglutide-mash, acg-2017-liver-chemistries, aasld-ast-2025-liver-transplant-graft-complications, aasld-ast-2025-liver-transplant-non-graft-complications, aga-2023-nafld-noninvasive-biomarkers]
 ---
 
@@ -62,7 +62,19 @@ All the features that define fibrotic MASH — steatosis, ballooning, inflammati
 
 ### Severity Assessment
 
-**Fibrosis staging** (METAVIR / Brunt): F0 (none) → F1 (portal) → F2 (periportal) → F3 (bridging) → F4 (cirrhosis). Advanced fibrosis (F3–F4) carries significantly elevated liver-related mortality. MASH with stages F2–F3 is the target population for currently FDA-approved pharmacotherapy.
+**Fibrosis staging — use the MASLD-specific Brunt-Kleiner (NASH CRN) system**, not a viral-hepatitis system ([[aasld-2024-nilda-blood]] Table 3a):
+
+| Stage | Brunt-Kleiner (NAFLD) definition |
+|---|---|
+| **F0** | No fibrosis |
+| **F1** | 1A: delicate perisinusoidal · 1B: dense perisinusoidal · 1C: portal-only fibrosis |
+| **F2** | Perisinusoidal **and** portal/periportal fibrosis |
+| **F3** | Bridging fibrosis |
+| **F4** | Cirrhosis |
+
+- ⚠ **Do not convert between staging schemes.** [[aasld-2024-nilda-blood]] states that using scores interchangeably between schemes "is problematic" — e.g. Scheuer stage 3 is **not** equivalent to METAVIR F3, and Ishak 5 ("marked bridging with occasional nodules" / incomplete cirrhosis) is **not** cirrhosis. Full cross-disease comparison of the METAVIR, Scheuer/Batts-Ludwig, Knodell, Ishak, Ludwig (PBC/PSC), ALD, and Brunt-Kleiner systems lives on [[liver-biopsy]]
+- **Why the pattern differs here:** in adult fatty liver disease (alcohol- or metabolic-driven), fibrosis begins in **zone 3 (centrilobular)** in a perisinusoidal/pericellular pattern, whereas fibrosis in most other chronic liver disease is **portal-based**. In children with NASH the distribution is reversed — primarily **zone 1 (periportal)** [[aasld-2024-nilda-blood]]
+- Advanced fibrosis (F3–F4) carries significantly elevated liver-related mortality. MASH with stages F2–F3 is the target population for currently FDA-approved pharmacotherapy.
 
 "At-risk" MASH = MASH with **stage ≥2 fibrosis (F2)** — the population at increased risk of cirrhosis and liver-related complications. All-cause mortality rises by fibrosis stage: 0.32 (F0–2) → 0.89 (bridging) → 1.76 per 100 person-years (cirrhosis). [[aasld-2023-nafld]]
 
@@ -143,7 +155,8 @@ See [[noninvasive-liver-disease-assessment]] for the cross-disease NILDA framewo
 
 **Liver biopsy:**
 
-- Definitive for diagnosis and staging (Brunt criteria; NAS scoring system)
+- Definitive for diagnosis and staging. The two most commonly used systems in steatotic liver disease are **Brunt** (4 grades, 0–3; 5 stages, 0–4) and the **NASH CRN NAFLD Activity Score (NAS)**. Both grade **steatosis by the percentage of steatotic hepatocytes**: normal **<5%** · mild **5%–33%** · moderate **34%–66%** · severe **>66%** [[aasld-2024-nilda-blood]]
+  - *Gap: the NAS **component point values** (steatosis/lobular inflammation/ballooning sub-scores summing to 0–8) are not reproduced in any ingested source — [[aasld-2023-nafld]] uses the "NAS ≥4" trial-entry threshold without printing the components. Do not reconstruct them from memory.*
 - Not routinely required for pharmacotherapy candidacy in most patients
 - **When to biopsy anyway** — reserve it for NITs that are **indeterminate or discordant**, NITs that **conflict** with other clinical/laboratory/radiologic findings, or **suspected alternative etiology**. Applying the sequential NIT pair instead of a single test (see [[noninvasive-liver-disease-assessment]]) cut biopsy need from 33% → 19%. [[aga-2023-nafld-noninvasive-biomarkers]]
 - If biopsy performed within prior 6–12 months without substantial interval weight change, disease stage can be used to inform pharmacotherapy decisions; obtaining a baseline NIT before initiating therapy remains beneficial for longitudinal monitoring [[aasld-2025-semaglutide-mash]]

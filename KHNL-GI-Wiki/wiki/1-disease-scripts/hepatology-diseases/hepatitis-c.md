@@ -3,7 +3,7 @@ title: "Hepatitis C"
 category: disease-script
 tags: [hepatitis-c, HCV, direct-acting-antivirals, DAA, cirrhosis, HCC, SVR, glecaprevir, pibrentasvir, sofosbuvir, velpatasvir, fibrosis, liver, antiviral, screening]
 created: 2026-05-28
-updated: 2026-08-30
+updated: 2026-09-02
 sources: [aasld-idsa-2023-hcv, aasld-idsa-2011-hcv-genotype1]
 ---
 
@@ -36,7 +36,7 @@ Fibrosis staging before treatment to guide duration, regimen selection, and post
 |---|---|---|
 | FIB-4 | <1.30 = low fibrosis; >3.25 = advanced fibrosis/cirrhosis | Age/AST/ALT/platelet; calculated online |
 | [[liver-stiffness-measurement\|VCTE (FibroScan)]] | ≥12.5 kPa = compensated cirrhosis | Aetiology-specific cutoffs; less reliable with [[obesity]]/elevated ALT |
-| [[liver-biopsy\|Liver biopsy]] | Metavir F0–F4 | Rarely needed; use for diagnostic uncertainty |
+| [[liver-biopsy\|Liver biopsy]] | METAVIR F0–F4 (stage definitions on [[liver-biopsy]]) | Rarely needed; use for diagnostic uncertainty. Do **not** convert METAVIR stages to another scheme |
 | Child-Pugh score | A/B/C | Decompensated = CTP ≥7 (class B or C); key regimen-selection criterion. Point table on [[cirrhosis]] |
 
 **Cirrhosis determination for treatment selection:**
@@ -107,7 +107,7 @@ NS3/4A protease inhibitors (glecaprevir, grazoprevir, voxilaprevir) are **CONTRA
 |---|---|---|
 | **SOF/VEL + weight-based RBV** (600 mg/d for CTP C; titrate as tolerated) | 12 wk | Recommended; genotypes 1–6 |
 | **SOF/VEL** alone | 24 wk | For RBV-ineligible patients |
-| LDV/SOF + wt-based RBV | 12 wk | Genotypes 1, 4, 5, 6 |
+| LDV/SOF + wt-based RBV | 12 wk | Genotypes 1, 4, 5, 6; same **600 mg/d low initial RBV dose for CTP class C**, increase as tolerated |
 | LDV/SOF alone | 24 wk | RBV-ineligible; genotypes 1, 4, 5, 6 |
 
 **Post-SVR in decompensated cirrhosis:** Continue monitoring for HCC, [[variceal-upper-gi-bleeding|varices]], and complications even after SVR. Some patients recompensate; list for LT if not improving.

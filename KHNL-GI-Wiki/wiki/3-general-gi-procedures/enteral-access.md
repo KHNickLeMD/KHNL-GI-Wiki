@@ -3,7 +3,7 @@ title: "Enteral Access"
 category: general-procedure
 tags: [enteral-nutrition, peg, peg-j, nutrition, nasoenteric, dpej, buried-bumper]
 created: 2026-07-23
-updated: 2026-08-25
+updated: 2026-09-02
 sources: [aga-2025-endoscopic-enteral-access, asge-2025-gastrostomy-tubes]
 ---
 
@@ -68,7 +68,7 @@ sources: [aga-2025-endoscopic-enteral-access, asge-2025-gastrostomy-tubes]
   - Decrease feeding rates
 - **Small-bowel access REQUIRED** (not just preferred) in:
   - Altered anatomy — Roux-en-Y gastric bypass, sleeve gastrectomy, partial/total gastrectomy
-  - Gastric outlet obstruction
+  - [[gastric-outlet-obstruction|Gastric outlet obstruction]]
   - Severely delayed gastric emptying
 - Small-bowel feeding needs **reduced and cycled rates** to prevent dumping (hypertonic formula directly into small bowel).
 
@@ -193,7 +193,7 @@ sources: [aga-2025-endoscopic-enteral-access, asge-2025-gastrostomy-tubes]
 
 ## See Also
 
-[[upper-endoscopy]], [[gastroparesis]], [[ascites]], [[cirrhosis]], [[esophageal-cancer]], [[obesity]], [[bariatric-surgery]], [[peptic-ulcer-disease]], [[inflammatory-bowel-disease]], [[variceal-upper-gi-bleeding]], [[nutrition-in-hospitalized-patients]], [[nutrition-in-liver-disease]], [[ostomy-management]], [[antibiotic-prophylaxis-endoscopy]], [[anticoagulation-gi-bleeding]]
+[[upper-endoscopy]], [[gastroparesis]], [[ascites]], [[cirrhosis]], [[esophageal-cancer]], [[obesity]], [[bariatric-surgery]], [[peptic-ulcer-disease]], [[inflammatory-bowel-disease]], [[variceal-upper-gi-bleeding]], [[nutrition-in-hospitalized-patients]], [[nutrition-in-liver-disease]], [[ostomy-management]], [[antibiotic-prophylaxis-endoscopy]], [[anticoagulation-gi-bleeding]], [[gastric-outlet-obstruction]]
 
 ---
 

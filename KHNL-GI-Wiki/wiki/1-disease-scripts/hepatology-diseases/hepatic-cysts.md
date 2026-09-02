@@ -3,7 +3,7 @@ title: "Hepatic Cysts"
 category: disease-script
 tags: [hepatic-cysts, liver, hpb, focal-liver-lesion, simple-cyst, complex-cyst, polycystic-liver, pcld, adpkd, mcn-l, hydatid, echinococcus, choledochal-cyst, caroli]
 created: 2026-05-07
-updated: 2026-08-30
+updated: 2026-09-02
 sources: [acg-2024-focal-liver-lesions]
 ---
 
@@ -163,7 +163,8 @@ No score. Three questions drive every decision ([[acg-2024-focal-liver-lesions]]
 - GFR **<20 mL/min**
 - Previous kidney transplant
 - Moderate-to-severe protein-calorie malnutrition documented by a registered dietitian (**GLIM** phenotypic criteria, **ASPEN** criteria, **NFPE**, or **SGA-C** score)
-- Severe sarcopenia by skeletal muscle index (**<39 cm²/m² in women, <50 cm²/m² in men**) or equivalent
+  - ⚠ **None of these four instruments is defined in any ingested source** — see the gap note on [[nutrition-in-liver-disease]]. This MELD-exception criterion therefore cannot be scored from the wiki; the dietitian's own instrument governs
+- Severe sarcopenia by skeletal muscle index — **SMI cut-points (and the frailty/sarcopenia tools generally) live on [[nutrition-in-liver-disease]]**; not restated here
 
 *Patients on dialysis, with GFR <20 mL/min, or requiring a kidney transplant should undergo **simultaneous liver–kidney transplant**.*
 
@@ -224,6 +225,7 @@ No score. Three questions drive every decision ([[acg-2024-focal-liver-lesions]]
 - Start before the procedure and **continue 1–6 months afterward**; **cyclical regimens are no longer recommended**
 - **Monitor white cell count and liver tests** — albendazole causes hepatic dysfunction and agranulocytosis
 - **Medical therapy alone is not recommended** unless percutaneous aspiration or surgery is contraindicated — **>40% of cysts remain active or reactivate after 2 years** of monotherapy (KC 51b)
+- ⚠ *Gap: [[acg-2024-focal-liver-lesions]] gives the indication, the duration (1–6 months after the procedure) and the monitoring, but **no albendazole dose** — it states only that "the exact duration of medical treatment before and after surgical or percutaneous therapy varies according to experts." The WHO-IWGE ladder above is therefore actionable as to **which** treatment, not **how much**. Do not supply the mg/kg from memory.*
 
 **Procedural therapy** — for **large cysts (>5 cm)**, cysts likely to rupture, non-responders to medical therapy, or contraindications to medical therapy (liver or bone-marrow disorders):
 

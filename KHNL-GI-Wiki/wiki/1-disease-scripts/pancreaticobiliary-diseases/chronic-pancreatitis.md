@@ -3,7 +3,7 @@ title: "Chronic Pancreatitis"
 category: disease-script
 tags: [pancreatitis, chronic, pancreas, hpb, exocrine-insufficiency, pain]
 created: 2026-05-16
-updated: 2026-08-31
+updated: 2026-09-02
 sources: [acg-2020-chronic-pancreatitis, acg-2020-sibo, asge-2024-chronic-pancreatitis-endoscopy, apa-2014-chronic-pancreatitis, aga-2022-recurrent-pancreatitis-endoscopy]
 ---
 
@@ -256,17 +256,17 @@ Indicated when etiology unclear, family history, early onset, or pediatric/young
 
 ### Pain management — stepwise
 
-```
-Step 1: Lifestyle (alcohol/smoking cessation), non-opioid analgesics
-Step 2: Consider antioxidants (Cond/Moderate) — selenium 600 µg, ascorbic acid 0.54 g, β-carotene 9000 IU, α-tocopherol 270 IU, methionine 2 g daily; modest effect, mainly early disease
-Step 3: Adjuncts — pregabalin/gabapentin, TCA (extrapolated from chronic pain literature)
-Step 4: Celiac plexus block (Cond/Very Low) — see the dedicated note below the ladder
-Step 5: Endoscopic decompression (ERCP ± ESWL for stones, stricture dilation, PD stent) — first-line for obstructive CP
-Step 6: Surgical drainage (Strong/Moderate) — Puestow / Frey / Beger / Whipple; SUPERIOR to endoscopy for long-term pain in obstructive CP if endoscopy fails or unsuccessful (Cahen RCT: 75% pain relief surgery vs. 32% endoscopy at 2y; Dite study mirrors)
-Step 7: Opiates only when all other options exhausted (Key Concept 7)
-Step 8: TPIAT — highly selected, refractory pain after medical therapy exhausted (Key Concept 8)
-Experimental (research only): spinal cord stim, transmagnetic stim, radiation (Key Concept 9)
-```
+| Step | Intervention | Grade / detail |
+|---|---|---|
+| **1** | Lifestyle (alcohol + smoking cessation) and **non-opioid analgesics** | — |
+| **2** | **Antioxidants** | Cond/Moderate. Selenium 600 µg · ascorbic acid 0.54 g · β-carotene 9000 IU · α-tocopherol 270 IU · methionine 2 g **daily**. Modest effect, mainly early disease |
+| **3** | Adjuncts — **pregabalin/gabapentin, TCA** | Extrapolated from the chronic-pain literature |
+| **4** | **Celiac plexus block** | Cond/Very Low — route and expectations in the note below |
+| **5** | **Endoscopic decompression** — [[ercp\|ERCP]] ± ESWL for stones, stricture dilation, PD stent | First-line for *obstructive* CP |
+| **6** | **Surgical drainage** — Puestow / Frey / Beger / Whipple | Strong/Moderate. **Superior to endoscopy** for long-term pain in obstructive CP, and the fallback if endoscopy fails (Cahen RCT: 75% pain relief with surgery vs 32% endoscopy at 2 y; Dite study mirrors) |
+| **7** | **Opiates** | Only when all other options are exhausted (Key Concept 7) |
+| **8** | **TPIAT** (total pancreatectomy + islet autotransplant) | Highly selected; refractory pain after medical therapy exhausted (Key Concept 8) |
+| — | *Experimental, research only:* spinal cord stimulation, transmagnetic stimulation, radiation | Key Concept 9 |
 
 **Celiac plexus block — route and expectations** ([[asge-2024-chronic-pancreatitis-endoscopy|ASGE 2024]] Rec 2, conditional / low):
 

@@ -3,7 +3,7 @@ title: "Hepatic Venous Pressure Gradient (HVPG)"
 category: concept
 tags: [hvpg, portal-hypertension, cirrhosis, CSPH, wedged-hepatic-vein-pressure, variceal-bleeding, hemodynamics, endo-hepatology]
 created: 2026-08-05
-updated: 2026-08-14
+updated: 2026-09-02
 sources: [baveno-vii-2022-portal-hypertension, aasld-2023-portal-hypertension, wang-2026-eus-ppg-delphi-consensus]
 ---
 
@@ -39,27 +39,33 @@ Baveno VII methodology statements ([[baveno-vii-2022-portal-hypertension]], 1.1�
 
 | HVPG (mmHg) | Interpretation ([[aasld-2023-portal-hypertension]], [[baveno-vii-2022-portal-hypertension]]) |
 |---|---|
-| 1–5 | Normal |
-| >5 | Sinusoidal portal hypertension (1.9) |
-| 5–9 | PH without CSPH — no varices, low complication risk |
-| **≥10** | **Clinically significant portal hypertension (CSPH)** (1.10, changed from >10 to ≥10) — threshold above which varices, [[ascites\|ascites]], and decompensation risk rise; predicts decompensation/death after liver resection for [[hepatocellular-carcinoma\|HCC]] (1.18) |
-| ≥12 | Threshold for **variceal bleeding** risk |
+| ≤5 | Normal |
+| >5 | Sinusoidal portal hypertension (Baveno VII 1.9) |
+| 6–9 | **Mild PH** — PH without CSPH ([[aasld-2023-portal-hypertension]] stage-specific management heading) |
+| **≥10** | **Clinically significant portal hypertension (CSPH)** — Baveno VII 1.10, *changed* from >10 to ≥10. **Qualifier: the gold-standard definition is stated for viral- and alcohol-related cirrhosis**; in MASH/PBC/PSVD the gradient can miss CSPH (see [[#Limitations — when HVPG misleads]]). Threshold above which varices, [[ascites\|ascites]], and decompensation risk rise; predicts decompensation/death after liver resection for [[hepatocellular-carcinoma\|HCC]] (1.18) |
 | ≥16 | Increased **short-term mortality after non-hepatic abdominal surgery** (1.19) |
-| ≥20 | Measured at the time of acute hemorrhage → predicts treatment failure in acute variceal bleeding; a criterion for **pre-emptive [[tips\|TIPS]]** (Baveno VII 6.27) |
+| >20 | Measured at the time of acute hemorrhage → predicts treatment failure in acute variceal bleeding; a criterion for **pre-emptive [[tips\|TIPS]]** (Baveno VII 6.27) |
 
 *Full noninvasive CSPH staging (LSM "rule of 5", spleen stiffness), and management by stratum, live on [[portal-hypertension]].*
+
+> ⚠ **Gap — the "HVPG ≥12 = variceal bleeding threshold" row was removed (2026-09-02 lint).** Neither ingested source states it. Full-text search of [[baveno-vii-2022-portal-hypertension|Baveno VII]], [[aasld-2023-portal-hypertension|AASLD 2023]] and [[wang-2026-eus-ppg-delphi-consensus|the EUS-PPG consensus]] finds **12 mmHg only as the post-TIPS portal pressure gradient target** (Baveno 1.23; AASLD: NSBB not required after TIPS if the gradient is under 12 mm Hg) — captured under [[#HVPG response to therapy]], not as a bleeding-risk cutoff. **Do not refill from memory.** Restoring it requires ingesting the primary hemodynamic literature (Groszmann/Garcia-Tsao portal-pressure threshold studies).
 
 ## HVPG response to therapy
 
 - In alcohol-related or viral cirrhosis, a **decrease in HVPG in response to NSBBs** is associated with a significant reduction in variceal bleeding and other decompensating events (1.14).
 - The **optimal percent/absolute HVPG decrease** associated with reduced decompensation after removal/suppression of the aetiology **has not yet been established** (Baveno VII 3.6) — do not assume a fixed cutoff.
 - Baveno VII recommends treating with NSBBs **when clinically indicated, independent of the ability to measure HVPG** (5.16) — NITs have largely displaced HVPG for routine treatment decisions.
-- **Post-[[tips|TIPS]]:** the portal pressure gradient (PPG) should be measured before and after TIPS; reduction of absolute PPG to **<12 mmHg** (or ≥50% relative reduction) gives near-complete protection from portal hypertensive bleeding (1.20–1.23).
+- **Post-[[tips|TIPS]] portal pressure gradient (PPG)** — measure **before and after** insertion (1.20, A.1):
+  - **Target: absolute PPG <12 mmHg** — near-complete protection from portal hypertensive bleeding, and the **preferred** target for hemodynamic success (1.23, **A.1**). A **relative reduction ≥50%** from pre-TIPS baseline "may also be useful" but carries a weaker grade (1.23, **B.2**) — not interchangeable with the absolute target.
+  - **Where to measure:** main portal vein and IVC at the shunt outflow (1.21).
+  - **When to measure:** the *immediate* post-TIPS PPG can be distorted by general anesthesia, vasoactive agents, or hemodynamic instability and may not represent the long-term PPG; measure in a **hemodynamically stable, non-sedated** patient (1.22).
+  - **Re-measure** if TIPS dysfunction is suspected clinically or on Doppler ultrasound, to decide on revision (1.24).
 
 ## Prognostic thresholds
 
-- HVPG holds prognostic weight independent of Child-Pugh/MELD; test–retest reliability is excellent but lower in decompensated patients and higher in alcohol-related disease (1.17).
-- CSPH (HVPG ≥10 or clinical signs) → higher decompensation and mortality after liver resection for HCC (1.18); HVPG ≥16 → worse non-hepatic surgical mortality (1.19); HVPG >20 at hemorrhage → treatment failure / pre-emptive TIPS trigger (6.27).
+- HVPG holds prognostic weight independent of [[cirrhosis|Child-Pugh/MELD]]; test–retest reliability is excellent but lower in decompensated patients and higher in alcohol-related disease (Baveno VII 1.17).
+- The numeric prognostic bands themselves (≥10 / ≥16 / >20) are in the ladder above — not repeated here.
+- **CSPH does not require a catheter to diagnose:** clinical decompensation, gastroesophageal varices on endoscopy, or portosystemic collaterals / hepatofugal flow on imaging are each *sufficient* to diagnose CSPH ([[aasld-2023-portal-hypertension]], guidance statement 6) — HVPG is confirmatory, not obligatory.
 
 ## Limitations — when HVPG misleads
 

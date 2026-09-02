@@ -3,7 +3,7 @@ title: "Hepatocellular Carcinoma"
 category: disease-script
 tags: [hcc, hepatocellular, liver, cancer, hpb, surveillance, cirrhosis, hbv, adjuvant, immunotherapy, liver-transplant, milan-criteria, afp, downstaging, mtor-inhibitor, sirolimus, everolimus, bclc, sorafenib, lenvatinib, atezolizumab, bevacizumab, tace, tare, ablation, resection, li-rads, locoregional]
 created: 2026-05-16
-updated: 2026-08-31
+updated: 2026-09-02
 sources: [aasld-2023-hcc, aasld-2025-hcc-critical-update, aasld-ast-2025-liver-transplant-candidate-evaluation, aasld-ast-2025-liver-transplant-graft-complications, aga-2022-hcc-systemic, nccn-2026-hcc, aga-2026-hcc-surveillance, aasld-idsa-2025-chb-treatment]
 ---
 
@@ -386,7 +386,12 @@ Post-LT patients: NEVER use ICI-based therapy (graft loss/death risk); use soraf
 
 **Post-transplant surveillance (GS 37, Level 2, Strong):** Multiphasic contrast-enhanced abdominal CT or MRI + chest CT scan. Optimal timing uncertain; risk stratification scores (RETREAT) may guide intervals. Lung ~40% and liver ~33% are most common recurrence sites. [[aasld-2023-hcc]]
 
-**RETREAT score** (post-LT recurrence risk): incorporates AFP at LT, vascular invasion, sum of viable tumor diameter and number of tumors on explant. RETREAT 0 = <3% 5-year recurrence; RETREAT ≥5 = 75% 5-year recurrence.
+**RETREAT score** (Risk Estimation of Tumor Recurrence After Transplant; post-LT recurrence risk) — incorporates **AFP at LT**, **microvascular invasion**, and the **sum of the largest viable tumor diameter + number of viable tumors on explant** [[aasld-2023-hcc]]:
+
+- **RETREAT 0** = **no viable tumor on explant *and* no microvascular invasion *and* AFP <20 ng/mL** → **<3%** 5-year recurrence
+- **RETREAT ≥5** → **75%** 5-year recurrence
+- *Gap: [[aasld-2023-hcc]] names the components and both anchor bands but does not print the **point values** assigned to each variable, so intermediate RETREAT scores (1–4) cannot be computed from this page. The Mehta 2017 derivation paper is not ingested — do not reconstruct the weights from memory.*
+- Other post-LT recurrence scores named by AASLD but not reproduced: **post-MORAL** and the **UCLA prognostic nomogram** (both incorporate tumor differentiation).
 
 ---
 

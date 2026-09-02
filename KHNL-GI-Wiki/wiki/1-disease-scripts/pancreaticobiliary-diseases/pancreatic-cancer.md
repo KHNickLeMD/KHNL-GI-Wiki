@@ -3,8 +3,8 @@ title: "Pancreatic Ductal Adenocarcinoma (Pancreatic Cancer)"
 category: disease-script
 tags: [pancreatic-cancer, pdac, oncology, screening, genetics, brca, eus, hpb]
 created: 2026-06-04
-updated: 2026-08-30
-sources: [asge-2022-pancreatic-cancer-screening, asge-2024-solid-pancreatic-masses, asge-2016-solid-pancreatic-neoplasia, acg-2018-pancreatic-cysts, acg-2015-hereditary-gi-cancer]
+updated: 2026-09-02
+sources: [jeurnink-2010-sustent-goo, kastelijn-2023-enduro-protocol, asge-2022-pancreatic-cancer-screening, asge-2024-solid-pancreatic-masses, asge-2016-solid-pancreatic-neoplasia, acg-2018-pancreatic-cysts, acg-2015-hereditary-gi-cancer]
 ---
 
 Pancreatic ductal adenocarcinoma (PDAC) is the dominant malignancy of the exocrine pancreas and the disease meant by "pancreatic cancer" in most clinical contexts. Biologically aggressive, usually diagnosed late; lifetime incidence ~1.6%, ~10% 5-year survival; ~3% of new US cancers and ~8% of cancer deaths in 2020 ([[asge-2022-pancreatic-cancer-screening]]). Stage at diagnosis dominates prognosis: 93% 10-year survival for stage 0 and 34%–39% 5-year survival for stage I, versus ~80% of patients presenting with advanced/inoperable disease.
@@ -175,6 +175,14 @@ flowchart TD
 - Technique: consider biliary sphincterotomy before stent insertion in a native papilla; use a **10-mm** fully or partially covered SEMS; select the **shortest stent length that bridges the stricture by 10 mm and still ends 2 cm below the hepatic hilum**; with the gallbladder in situ, terminate the proximal end **below the cystic duct take-off**.
 - **Avoid preoperative ERCP** for resectable PDAC with obstructive jaundice in the absence of cholangitis unless operative resection will be substantially delayed — preoperative biliary drainage increases perioperative complications ([[asge-2016-solid-pancreatic-neoplasia]]).
 
+**Gastroduodenal obstruction.** Roughly **15–20% of patients with pancreatic adenocarcinoma develop [[gastric-outlet-obstruction|gastric outlet obstruction]]** ([[kastelijn-2023-enduro-protocol]]) — it was the underlying malignancy in 28 of 39 patients in the SUSTENT trial. The choice of palliation is **keyed to expected survival**, because the options fail in opposite directions:
+
+- **Expected survival <2 months** → **enteral (duodenal) stent** — faster relief (median 5 vs 8 days to soft solids), shorter stay, lower cost.
+- **Expected survival ≥2 months** with adequate performance status → **surgical gastrojejunostomy** — more durable, with fewer recurrent obstructions, reinterventions, and late major complications. Survival and quality of life are the same either way ([[jeurnink-2010-sustent-goo]]).
+- **Watch the biliary consequence:** a duodenal stent placed across the ampulla can foreclose later [[ercp|ERCP]] access to the bile duct — consider the CBD stent up front.
+
+The full outcome table, its statistical caveats, the GOOSS score, and EUS-GE technique live on [[gastric-outlet-obstruction]].
+
 **Pain — celiac plexus neurolysis (CPN).** In unresectable pancreatic cancer with abdominal pain, ASGE 2024 suggests CPN as an **adjunct to** medical analgesic therapy (conditional/low):
 
 - **When:** pain refractory to medical therapy, or opioid adverse effects not well tolerated.
@@ -188,7 +196,7 @@ Weigh before enrolling a high-risk individual: across screened cohorts, low-yiel
 
 ## See Also
 
-[[pancreatic-cancer-screening]], [[endoscopic-ultrasound]], [[ercp]], [[mri-mrcp]], [[jaundice]], [[biliary-stricture]], [[pancreatic-cysts]], [[chronic-pancreatitis]], [[cholangiocarcinoma]], [[gastroenteropancreatic-neuroendocrine-tumors]], [[brca-pathogenic-variants]], [[familial-pancreatic-cancer]], [[fammm-syndrome]], [[peutz-jeghers-syndrome]], [[lynch-syndrome]], [[hereditary-pancreatitis]], [[obesity]]
+[[pancreatic-cancer-screening]], [[endoscopic-ultrasound]], [[ercp]], [[mri-mrcp]], [[jaundice]], [[biliary-stricture]], [[pancreatic-cysts]], [[chronic-pancreatitis]], [[cholangiocarcinoma]], [[gastroenteropancreatic-neuroendocrine-tumors]], [[brca-pathogenic-variants]], [[familial-pancreatic-cancer]], [[fammm-syndrome]], [[peutz-jeghers-syndrome]], [[lynch-syndrome]], [[hereditary-pancreatitis]], [[obesity]], [[gastric-outlet-obstruction]]
 
 ---
 

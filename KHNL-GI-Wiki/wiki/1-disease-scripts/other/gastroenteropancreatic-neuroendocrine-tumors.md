@@ -3,11 +3,11 @@ title: "Gastroenteropancreatic Neuroendocrine Tumors (GEP-NETs)"
 category: disease-script
 tags: [neuroendocrine-tumor, net, gep-net, pannet, carcinoid, gastrinoma, insulinoma, glucagonoma, vipoma, zollinger-ellison, men1, prrt]
 created: 2026-06-18
-updated: 2026-09-01
+updated: 2026-09-02
 sources: [nccn-2026-net]
 ---
 
-Gastroenteropancreatic neuroendocrine tumors (GEP-NETs) are epithelial neoplasms arising from diffuse neuroendocrine cells of the GI tract and pancreas. They range from indolent, incidentally found lesions to aggressive metastatic disease, and may be **nonfunctioning** (most) or **functioning** (secreting hormones that produce clinical syndromes). Management is site-, size-, and grade-specific and multidisciplinary, spanning endoscopic resection, surgery, somatostatin analogs, peptide receptor radionuclide therapy, and systemic agents ([[nccn-2026-net]]).
+Gastroenteropancreatic neuroendocrine tumors (GEP-NETs) are epithelial neoplasms arising from diffuse neuroendocrine cells of the GI tract and pancreas. They range from indolent, incidentally found lesions to aggressive metastatic disease, and may be **nonfunctioning** (most) or **functioning** (secreting hormones that produce clinical syndromes). Management is site-, size-, and grade-specific and multidisciplinary, spanning endoscopic resection, surgery, [[somatostatin-analogs|somatostatin analogs]], peptide receptor radionuclide therapy, and systemic agents ([[nccn-2026-net]]).
 
 ## Contents
 - [[#Assessment]]
@@ -70,7 +70,12 @@ Prognosis is driven by **grade, differentiation, primary site, and stage (tumor 
 
 *Workup of a luminal NET presenting as a mucosal mound: see [[subepithelial-lesion]].*
 
-By presentation: [[pancreatic-cancer|pancreatic adenocarcinoma]] and other solid pancreatic masses, [[pancreatic-cysts|cystic pancreatic neoplasms]], [[colorectal-cancer]] and other GI [[gastric-premalignant-conditions|epithelial malignancies]], lymphoma, [[gastrointestinal-stromal-tumor|GI stromal tumor]] and [[subepithelial-lesion|other subepithelial lesions]], metastatic disease, and — for functioning tumors — non-neoplastic causes of the relevant hormonal syndrome (e.g., PPI-induced hypergastrinemia mimicking gastrinoma; reactive hypoglycemia mimicking insulinoma). Multifocal duodenopancreatic NETs, gastrinoma, or coexisting primary hyperparathyroidism should prompt evaluation for **MEN1**.
+By presentation:
+
+- **Pancreatic mass** — [[pancreatic-cancer|pancreatic adenocarcinoma]] and other solid pancreatic masses; [[pancreatic-cysts|cystic pancreatic neoplasms]].
+- **Luminal mass** — [[gastrointestinal-stromal-tumor|GI stromal tumor]] and [[subepithelial-lesion|other subepithelial lesions]]; [[colorectal-cancer]] and other GI [[gastric-premalignant-conditions|epithelial malignancies]]; lymphoma; metastatic disease.
+- **Functioning tumor** — non-neoplastic causes of the relevant hormonal syndrome (e.g. PPI-induced hypergastrinemia mimicking gastrinoma; reactive hypoglycemia mimicking insulinoma).
+- **Syndromic clue:** multifocal duodenopancreatic NETs, gastrinoma, or coexisting primary hyperparathyroidism should prompt evaluation for **MEN1**.
 
 ## Diagnostics
 
@@ -98,7 +103,7 @@ By presentation: [[pancreatic-cancer|pancreatic adenocarcinoma]] and other solid
 
 - **When to get EUS first in a duodenal NET** ([[nccn-2026-net]]) — EUS to determine depth of invasion for **any** dNET with: periampullary involvement, **size >1 cm**, extension beyond the submucosa on initial sampling or EUS, functional dNET, ulceration, **Grade 3**, or **positive LVI** on initial sampling. Any one of these is enough.
 - **Rectal NETs are not uniformly benign despite the best overall prognosis of any NET site** — a retrospective review found metastases in **66% of 87** patients with well-differentiated rectal NETs measuring **11–19 mm**, which is why the 1–2 cm band gets pre-procedure EUS/EUA rather than reflex snare.
-- **Somatostatin analogs** ([[somatostatin-analogs|octreotide LAR, lanreotide]]) — first-line for symptom control in functioning tumors and for antiproliferative tumor-growth control in SSTR-positive metastatic disease.
+- **Somatostatin analogs** (octreotide LAR, lanreotide) — first-line for symptom control in functioning tumors and for antiproliferative tumor-growth control in SSTR-positive metastatic disease.
 - **Peptide receptor radionuclide therapy (PRRT)** — lutetium **Lu 177 dotatate** for progressive SSTR-positive disease; the NETTER-2 trial supports first-line use in advanced grade 2–3 GEP-NETs.
 - **Targeted/cytotoxic systemic therapy** — everolimus (GI and pancreatic NET), sunitinib (PanNET), and chemotherapy regimens (e.g., capecitabine/temozolomide for PanNET; platinum-based for high-grade NEC) depending on grade, site, and burden.
 - **Liver-directed therapy** — resection, ablation, or embolization for dominant hepatic metastatic disease.

@@ -3,7 +3,7 @@ title: "Vonoprazan (PCAB)"
 category: med
 tags: [vonoprazan, pcab, h-pylori, acid-suppression, voquezna, potassium-competitive]
 created: 2026-05-16
-updated: 2026-08-14
+updated: 2026-09-02
 sources: [acg-2024-hp-treatment, aga-2024-pcab]
 ---
 
@@ -11,14 +11,7 @@ Potassium-competitive acid blocker ([[potassium-competitive-acid-blockers|P-CAB]
 
 **Brand name:** Voquezna (FDA-approved 2022 for [[helicobacter-pylori-infection|H. pylori]] eradication)
 
----
-
-## Mechanism
-
-- Binds K+-binding site of H+/K+-ATPase (vs PPIs which bind covalently at the proton pump's cysteine residues)
-- Rapid onset; does not require acid activation (unlike PPIs)
-- Effective at both active and inactive pumps
-- Longer duration; less inter-patient variability (no CYP2C19 dependency)
+*The full P-CAB-vs-PPI mechanism/property comparison lives on [[potassium-competitive-acid-blockers#Mechanism vs PPIs|the class page]] — not repeated here.*
 
 ---
 
@@ -34,38 +27,35 @@ Potassium-competitive acid blocker ([[potassium-competitive-acid-blockers|P-CAB]
 - Note the **different amoxicillin frequency**: **t.i.d.** in the dual regimen, **b.i.d.** in the triple regimen. Both regimens run **14 days**.
 - Only **optimized [[bismuth-quadruple-therapy|BQT]] is a *strong* recommendation** (Rec 1, moderate quality) for treatment-naive patients; both vonoprazan regimens are **conditional** suggestions. BQT for 14 days remains the preferred empiric option when susceptibility is unknown; P-CAB dual (and rifabutin triple) are suitable alternatives in patients **without penicillin allergy** — of the first-line options only BQT is suitable in true penicillin allergy.
 - Dual therapy avoids clarithromycin entirely — the only vonoprazan regimen usable without susceptibility data.
+- **Societies diverge on how strongly to prefer vonoprazan here** — [[aga-2024-pcab|AGA 2024]] BPA 7 says use a P-CAB *in place of* a PPI in eradication regimens for most patients, while ACG keeps both vonoprazan regimens conditional; the contradiction is worked through on [[potassium-competitive-acid-blockers#Helicobacter pylori|the class page]].
 - Triple therapy: although FDA-approved for empiric first-line use independent of resistance testing, ACG states clarithromycin-containing regimens **should be reserved for strains demonstrated to be clarithromycin-sensitive** ([[acg-2024-hp-treatment]], Table 5 footnote).
 
 **Salvage (treatment-experienced, persistent infection) — ACG makes *no recommendation* for vonoprazan:**
 
-- **P-CAB dual / high-dose dual therapy:** *no recommendation, evidence gap* — insufficient North American evidence (Rec 11). Voquezna DualPak has never been evaluated as a salvage regimen.
-- **P-CAB triple (Voquezna TriplePak):** *no recommendation, evidence gap* — not evaluated as salvage; requires documented clarithromycin susceptibility and **must not be used after previous macrolide exposure** (Table 6).
+- **High-dose dual therapy** (high-dose PPI **or** P-CAB + high-dose amoxicillin, b.i.d. or t.i.d.): *no recommendation, evidence gap* — **insufficient evidence from North America** (Rec 11, Table 6 footnote g). Voquezna DualPak has never been evaluated as a salvage regimen.
+- **P-CAB triple (Voquezna TriplePak):** *no recommendation, evidence gap* — FDA-approved for H. pylori but **not evaluated as a salvage regimen**, so ACG makes a recommendation neither for nor against. Two absolute conditions if used anyway: **must not be given after any previous macrolide exposure**, and **must not be given without a demonstrated clarithromycin-sensitive strain** (Table 6, footnote f).
 - After a vonoprazan-based first-line failure, the suggested next step is **optimized BQT** (Rec 6, conditional/very low) since BQT has not yet been used; BQT-experienced patients go to rifabutin triple instead (Rec 8).
 
 ---
 
 ## Dosing
 
-- **H. pylori eradication:** 20 mg PO b.i.d. × 14 days (as part of dual or triple regimen)
-- **Test of cure in all treated patients**, at least **4 weeks** after completing therapy (urea breath test, fecal antigen, or biopsy-based); avoid bismuth and antibiotics for ≥4 weeks beforehand, and never use serology for post-treatment status ([[test-and-treat|see testing]]).
-- **PPIs must be stopped 2 weeks** before a urea breath or fecal antigen test of cure (false negatives). ACG states the same consideration will *probably* apply to P-CABs such as vonoprazan, but **this has not been adequately studied** — do not state it as established. H2RAs and antacids at standard doses do not affect accuracy.
+- **H. pylori eradication:** 20 mg PO b.i.d. × 14 days (as part of dual or triple regimen). ACG gives no other vonoprazan dose or duration.
+- **Test of cure in all treated patients**, at least **4 weeks** after completing therapy (urea breath test, fecal antigen, or biopsy-based); avoid bismuth and antibiotics for ≥4 weeks beforehand, and never use serology for post-treatment status ([[test-and-treat|see testing]]). H2RAs and antacids at standard doses do not affect accuracy. *(Whether vonoprazan itself must be held before the test is unsettled — see [[potassium-competitive-acid-blockers#Value / Safety Caveats|the class page]].)*
 
 ---
 
-## GERD & PUD (AGA 2024 P-CAB CPU)
+## Non-H. pylori Indications
 
-- **Severe erosive esophagitis ([[reflux-testing|LA grade]] C/D):** vonoprazan 20 mg an option for healing + maintenance (healing 92% vs 72% vs lansoprazole at 8 wk); reserve for cost reasons — not clearly superior enough over standard-dose PPI to be routine first-line.
-- **Milder EE (LA A/B), [[gerd|NERD]], uninvestigated heartburn:** generally **not first-line**; use only after **twice-daily PPI failure** with documented acid reflux.
-- **[[peptic-ulcer-disease|PUD]] treatment/prophylaxis:** noninferior (not superior) to PPIs → generally not first-line.
-- See [[potassium-competitive-acid-blockers]] for the full indication-by-indication guidance.
+*The AGA 2024 P-CAB Best Practice Advice is class-level and lives, indication by indication with its BPA numbers, on [[potassium-competitive-acid-blockers#When to Use — AGA 2024 Best Practice Advice|the class page]] — including the [[gerd|GERD]] / [[reflux-testing|LA grade]] A-B vs C-D split and [[peptic-ulcer-disease|PUD]]. Vonoprazan is the only US agent, so every one of those statements applies to it directly.*
+
+**Agent-specific point:** vonoprazan is the P-CAB the CPU's evidence base actually rests on — the single US/Europe trial driving the severe-EE advice compared **vonoprazan 20 mg vs lansoprazole 30 mg** ([[aga-2024-pcab]]).
 
 ---
 
 ## Safety & Value
 
-- Generally well-tolerated in RCTs
-- No established long-term safety data compared to PPIs; same theoretical concerns as PPIs for prolonged acid suppression (hypomagnesemia, [[clostridioides-difficile|C. diff]], enteric infections) — not yet well-characterized for PCABs
-- Markedly higher US cost than standard/double-dose PPIs; frequent prior-authorization
+*Class-level cost, prior-authorization, and long-term-safety caveats are on [[potassium-competitive-acid-blockers#Value / Safety Caveats|the class page]].* Agent-specific: generally well tolerated in RCTs, with diarrhea (4%) and dysgeusia (4%) the most common adverse events in the vonoprazan-clarithromycin triple trial ([[acg-2024-hp-treatment]]).
 
 ---
 

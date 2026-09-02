@@ -3,7 +3,7 @@ title: "Hypermobile Ehlers-Danlos Syndrome (GI Manifestations)"
 category: disease-script
 tags: [hypermobile-ehlers-danlos, heds, hsd, dgbi, pots, mcas, dysautonomia, motility, gastroparesis, pelvic-floor, celiac-disease]
 created: 2026-06-27
-updated: 2026-08-31
+updated: 2026-09-02
 sources: [aga-2025-heds-gi]
 ---
 
@@ -21,6 +21,8 @@ Heritable connective tissue disorder; most common EDS subtype (80–90% of all E
   - [[#GI Symptom Management]]
   - [[#POTS and MCAS Treatment]]
   - [[#Nutrition and Diet]]
+- [[#See Also]]
+- [[#Sources]]
 
 ---
 

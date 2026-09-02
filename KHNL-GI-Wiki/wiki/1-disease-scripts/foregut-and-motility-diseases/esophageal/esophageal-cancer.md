@@ -3,7 +3,7 @@ title: "Esophageal Cancer"
 category: disease-script
 tags: [esophagus, malignancy, adenocarcinoma, squamous-cell-carcinoma, egj, dysphagia, her2, pd-l1, msi-h, flot, chemoradiation, esophagectomy, endoscopic-resection, nccn, oncology]
 created: 2026-06-04
-updated: 2026-08-27
+updated: 2026-09-02
 sources: [nccn-2026-esophageal-egj-cancer, asge-2023-esd]
 ---
 
@@ -11,7 +11,8 @@ sources: [nccn-2026-esophageal-egj-cancer, asge-2023-esd]
 
 ### Establishing the Diagnosis
 
-Esophageal and esophagogastric junction (EGJ) cancers present most often with progressive solid-food dysphagia, weight loss, odynophagia, and [[iron-deficiency-anemia|iron-deficiency anemia]] — a classic alarm-feature presentation that mandates prompt [[upper-endoscopy|endoscopy]] with biopsy. Diagnosis is histologic; staging follows with endoscopic ultrasound ([[endoscopic-ultrasound|EUS]]) for T and N assessment, CT of chest/abdomen, and PET/CT to detect distant disease.
+- **Presentation:** progressive solid-food dysphagia, weight loss, odynophagia, [[iron-deficiency-anemia|iron-deficiency anemia]] — a classic alarm-feature presentation that mandates prompt [[upper-endoscopy|endoscopy]] with biopsy.
+- Diagnosis is **histologic**; staging follows (see [[#Diagnostics]]).
 
 ### Severity Assessment (AJCC 8th ed. TNM staging)
 
@@ -51,8 +52,6 @@ Depth of invasion separates endoscopically curable disease (Tis/T1a mucosal) fro
 
 *All rows are M0 except stage IVB. Pathologic (pTNM) and post-neoadjuvant (ypTNM) groupings differ from the above and additionally require **grade (G)** — and, for SCC, **tumor location** — to assign the stage.*
 
-For advanced/metastatic disease, biomarker testing — **HER2 (ERBB2), PD-L1 CPS, and MSI-H/dMMR** — is integral to therapy selection.
-
 ### Classification / Typing
 
 Two dominant histologies drive distinct pathways ([[nccn-2026-esophageal-egj-cancer]]):
@@ -70,7 +69,12 @@ EGJ tumors straddle the esophageal and gastric pathways and share systemic-thera
 
 ## Diagnostics
 
-Endoscopy with biopsy establishes histology; EUS assesses T/N stage (and enables FNA of suspicious nodes); CT and PET/CT assess distant spread. Biomarker testing (HER2, PD-L1 CPS, MSI-H/dMMR) is performed on advanced/metastatic tumors to direct systemic therapy.
+- **[[upper-endoscopy|EGD]] with biopsy** — establishes histology.
+- **[[endoscopic-ultrasound|EUS]]** — T and N stage; enables FNA of suspicious nodes. (For early [[barretts-esophagus|Barrett's]]-associated lesions, EUS is *not* used to separate T1a from T1b — resection histology is; see [[esophageal-adenocarcinoma]].)
+- **CT chest/abdomen + PET/CT** — distant spread.
+- **Biomarker testing on advanced/metastatic tumors** — HER2 (ERBB2), PD-L1 CPS, MSI-H/dMMR. Positivity cutoffs ([[nccn-2026-esophageal-egj-cancer]]):
+  - **HER2-positive** = **IHC 3+**, or **IHC 2+ with ISH/FISH-positive**.
+  - **PD-L1–positive** = **CPS ≥1**; **≥100 tumor cells** must be present for the stained slide to be adequate. Line-of-therapy CPS gates are in [[#Therapeutics]].
 
 ## Therapeutics
 
@@ -95,7 +99,6 @@ Stage-directed per [[nccn-2026-esophageal-egj-cancer]]:
 
 | Setting | Threshold | Strength |
 |---|---|---|
-| Definition of PD-L1–**positive** | **CPS ≥1** | — |
 | Add a checkpoint inhibitor to **first-line** chemotherapy (adenocarcinoma/EGJ **and** SCC) | **CPS ≥1** | Category 1 for SCC; for adenocarcinoma/EGJ, recommended at CPS ≥1 but **category 1 only at CPS ≥5** |
 | **Second-line or subsequent** pembrolizumab monotherapy, **esophageal SCC only** | **CPS ≥10** | Category 1 |
 

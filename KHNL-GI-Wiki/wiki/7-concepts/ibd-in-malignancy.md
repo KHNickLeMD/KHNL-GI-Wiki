@@ -3,11 +3,11 @@ title: "IBD in Patients With Malignancy"
 category: concept
 tags: [ibd, crohns, ulcerative-colitis, malignancy, cancer, thiopurines, biologics, lymphoma, immunosuppression]
 created: 2026-07-26
-updated: 2026-08-29
+updated: 2026-09-02
 sources: [aga-2024-ibd-malignancy]
 ---
 
-Framework for two linked decisions: **(1)** how much cancer risk [[inflammatory-bowel-disease|IBD]] inflammation and IBD drugs confer, and **(2)** what to do with IBD medications when a patient develops an active cancer or has a prior-cancer history. Per the AGA 2024 CPU, the drugs of concern are **thiopurines** and **anti-TNF**; newer classes lack a demonstrated malignancy signal. Age-appropriate cancer screening applies to all IBD patients as in the general population — see [[ibd-preventive-care]] for the vaccination and screening schedule.
+Framework for two linked decisions: **(1)** how much cancer risk [[inflammatory-bowel-disease|IBD]] inflammation and IBD drugs confer, and **(2)** what to do with IBD medications when a patient develops an active cancer or has a prior-cancer history. Per the AGA 2024 CPU, the drugs of concern are **[[thiopurines]]** and **anti-TNF**; newer classes lack a demonstrated malignancy signal. Age-appropriate cancer screening applies to all IBD patients as in the general population — see [[ibd-preventive-care]] for the vaccination and screening schedule.
 
 ## Contents
 - [[#Cancer Risk From IBD Inflammation]]
@@ -75,7 +75,7 @@ Framework for two linked decisions: **(1)** how much cancer risk [[inflammatory-
 
 ## See Also
 
-[[inflammatory-bowel-disease]], [[crohns-disease]], [[ulcerative-colitis]], [[colorectal-cancer]], [[primary-sclerosing-cholangitis]], [[cholangiocarcinoma]], [[immune-checkpoint-inhibitor-hepatitis]], [[ibd-preventive-care]], [[colonoscopy-surveillance]], [[ibd-endoscopic-scoring]], [[post-transplant-lymphoproliferative-disorder]]
+[[inflammatory-bowel-disease]], [[crohns-disease]], [[ulcerative-colitis]], [[colorectal-cancer]], [[primary-sclerosing-cholangitis]], [[cholangiocarcinoma]], [[immune-checkpoint-inhibitor-hepatitis]], [[thiopurines]], [[ibd-preventive-care]], [[colonoscopy-surveillance]], [[ibd-endoscopic-scoring]], [[post-transplant-lymphoproliferative-disorder]]
 
 ---
 

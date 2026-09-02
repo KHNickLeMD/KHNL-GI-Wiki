@@ -3,7 +3,7 @@ title: "Gastric MALT Lymphoma"
 category: disease-script
 tags: [stomach, lymphoma, marginal-zone, helicobacter-pylori, malt, eradication]
 created: 2026-08-14
-updated: 2026-08-30
+updated: 2026-09-02
 sources: [acg-2024-hp-treatment, asge-2015-gastric-premalignant]
 ---
 
@@ -58,10 +58,8 @@ sources: [acg-2024-hp-treatment, asge-2015-gastric-premalignant]
 | **[[endoscopic-ultrasound\|EUS]]** | **Prognostic** — depth of lymphoma infiltration in the gastric wall + regional lymph node involvement [[asge-2015-gastric-premalignant]] |
 | **Post-treatment H. pylori test of cure** | **Mandatory.** Where EGD is needed shortly after treatment (as it is here), **histology and/or biopsy urease test** may be used to confirm post-treatment status [[acg-2024-hp-treatment]] |
 
-- **Timing:** test of cure is performed **at least 4 weeks after completion of therapy**. [[acg-2024-hp-treatment]]
-- **Do not use serology for test of cure** — antibody levels remain detectable for months to years after successful eradication. [[acg-2024-hp-treatment]]
-- **Hold interfering drugs before testing — the durations differ by drug.** [[proton-pump-inhibitors|PPIs]] (and probably [[potassium-competitive-acid-blockers|P-CABs]]), bismuth, and antibiotics all reduce the sensitivity of **endoscopic** tests exactly as they do the non-endoscopic ones, and are withheld for the same durations: **PPIs stopped 2 weeks** beforehand, **bismuth and antibiotics for at least 4 weeks** beforehand. Standard-dose H2RAs and antacids do **not** affect accuracy. [[acg-2024-hp-treatment]]
-- **A negative biopsy urease test is not proof of eradication** on its own — corroborate with another post-treatment test; a *positive* result may be adequate to identify ongoing infection. [[acg-2024-hp-treatment]]
+- **MALT-specific point:** because endoscopy is needed shortly after treatment here anyway, **histology and/or biopsy urease test** is an acceptable test-of-cure modality (rather than UBT/stool antigen). [[acg-2024-hp-treatment]]
+- Test-of-cure **timing, drug-hold durations, the serology prohibition, and the caveat that a negative urease test alone does not prove eradication** are not MALT-specific — they live on [[helicobacter-pylori-infection#Post-Treatment Confirmation|helicobacter pylori infection]]. Apply them unchanged.
 
 ## Therapeutics
 

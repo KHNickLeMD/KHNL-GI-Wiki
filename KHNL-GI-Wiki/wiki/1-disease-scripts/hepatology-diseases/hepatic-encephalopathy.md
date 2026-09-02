@@ -3,7 +3,7 @@ title: "Hepatic Encephalopathy"
 category: disease-script
 tags: [hepatic-encephalopathy, HE, cirrhosis, ammonia, lactulose, rifaximin, TIPS, portal-hypertension, ACLF, minimal-HE, covert-HE, overt-HE, portosystemic-shunting, brain-dysfunction, west-haven, bristol-stool-scale, sarcopenia]
 created: 2026-05-28
-updated: 2026-09-01
+updated: 2026-09-02
 sources: [aasld-easl-2014-hepatic-encephalopathy, acg-2026-hepatic-encephalopathy]
 ---
 
@@ -197,6 +197,7 @@ All elements initiated simultaneously ([[aasld-easl-2014-hepatic-encephalopathy]
 - **Acute dosing:** 10–20 g (15–30 mL) **every 2 h** until 2 soft BMs, then reduce to **2–4× daily** to maintain 2–3 BMs/day
 - **Grade 3–4 / unable to swallow / aspiration risk:** nasogastric administration at similar dosing, **or** lactulose enema with preserved anal sphincter tone — **200 g lactulose (or 300 mL solution) in 700 mL water or saline, retained 30–60 min, repeated every 4–6 h** until mental status improves
 - **Titrate with the Bristol Stool Scale plus BM frequency** to reduce readmissions (ACG 2026, Rec 11, *conditional, very low certainty*). BSS ≥5 → cut back lactulose, or add [[rifaximin]] if already on lactulose. BSS ≥5 *before* starting lactulose → consider a non-laxative therapy de novo for adherence
+  - ⚠ **Decision gap — the Bristol Stool Form Scale itself is corpus-blocked.** The BSS ≥5 rule can only be applied if you can map a stool to a Bristol type, and **no ingested source prints the 7 types** — [[acg-2026-hepatic-encephalopathy]] cites and uses the scale without reproducing it (same block flagged on [[chronic-constipation]] and [[chronic-diarrhea]]). Ingest the primary Lewis–Heaton scale paper to close it; do not reconstruct the types from memory
 - **Overuse harms:** perianal skin irritation/infection, ileus, aspiration, dehydration, hypernatremia, hypokalemia — each can itself precipitate HE
 - **ICU/intubated patients:** titrate on bowel movements (mental status not assessable); with a fecal management system, **hold lactulose and other laxatives if >300 mL stool/day**; watch for hypernatremia and aspiration
 - Breakthrough HE on lactulose is usually **nonadherence or dehydration**

@@ -302,11 +302,7 @@ PBC confers a slightly elevated [[hepatocellular-carcinoma|HCC]] risk (3.9 cases
 
 **Definition:** Simultaneous AIH in patients with AMA-positive PBC. Should not be applied to PBC patients with incidental ANA/SMA positivity or mild interface hepatitis (both are common features of PBC itself).
 
-**Paris Criteria for PBC/AIH overlap (require 2 of 3 AIH criteria):**
-
-- **a.** ALT >5× ULN
-- **b.** IgG ≥2× ULN or positive anti-smooth muscle antibody
-- **c.** Liver biopsy with moderate or severe interface hepatitis
+**Paris criteria — full criteria table lives on [[autoimmune-hepatitis]]** (single home), along with the ⚠ note that [[aasld-2018-pbc]] and [[aasld-2020-autoimmune-hepatitis]] state the combination rule differently. In brief: [[aasld-2018-pbc]] requires **2 of 3 AIH criteria** (ALT >5× ULN · IgG ≥2× ULN and/or SMA+ · biopsy with moderate/severe interface hepatitis), while the newer [[aasld-2020-autoimmune-hepatitis]] — which **governs this wiki** — additionally requires 2 of 3 PBC criteria and treats interface hepatitis as a prerequisite rather than a countable criterion. Score it on [[autoimmune-hepatitis]].
 
 Present in 1–14.2% of PBC patients (higher in Hispanic patients). Worse outcomes than classic PBC in terms of portal hypertension, death, or LT need.
 

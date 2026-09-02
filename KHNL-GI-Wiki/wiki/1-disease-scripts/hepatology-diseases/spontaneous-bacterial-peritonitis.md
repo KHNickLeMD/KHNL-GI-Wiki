@@ -3,7 +3,7 @@ title: "Spontaneous Bacterial Peritonitis"
 category: disease-script
 tags: [sbp, ascites, cirrhosis, peritonitis, cefotaxime, albumin]
 created: 2026-05-15
-updated: 2026-08-30
+updated: 2026-09-02
 sources: [aasld-2021-ascites-sbp-hrs, aga-2024-vasoactive-albumin-cirrhosis]
 ---
 
@@ -78,12 +78,12 @@ Infections in cirrhosis increase 10% mortality for every hour's delay in antibio
 
 | Diagnosis | Distinguishing Features |
 |-----------|------------------------|
-| Secondary bacterial peritonitis | Multimicrobial flora; polymicrobial culture; ascitic LDH elevated; ascitic glucose <50 mg/dL; failure to improve on antibiotics alone; abdominal imaging may show perforation or abscess |
+| Secondary bacterial peritonitis | Multimicrobial flora; polymicrobial culture; ascitic LDH elevated (no numeric cut-off in an ingested source — see Diagnostics); ascitic glucose **<50 mg/dL**; failure to improve on antibiotics alone; abdominal imaging may show perforation or abscess |
 | Spontaneous bacterial empyema (SBE) | Pleural fluid PMN ≥250 in patient with hepatic hydrothorax |
 | Spontaneous bacteremia | Positive blood cultures without elevated ascitic PMN |
 | Visceral perforation / surgical peritonitis | Clinical signs of peritonism; imaging; multimicrobial ascitic culture |
 | Pancreatitis-related ascites | Elevated ascitic amylase |
-| Tuberculous peritonitis | SAAG <1.1; lymphocytic predominance; AFB culture/ADA |
+| Tuberculous peritonitis | SAAG **<1.1 g/dL**; lymphocytic predominance; AFB culture/ADA |
 
 ---
 
@@ -105,7 +105,8 @@ Infections in cirrhosis increase 10% mortality for every hour's delay in antibio
 
 **Selective ascitic tests (not routine; obtain if secondary peritonitis suspected):**
 
-- LDH, glucose — if LDH elevated and glucose <50 mg/dL, strongly consider secondary peritonitis
+- LDH, glucose — if ascitic LDH is elevated **and** ascitic glucose **<50 mg/dL**, strongly consider secondary peritonitis
+  - ⚠ **Decision gap — "LDH elevated" has no number here.** [[aasld-2021-ascites-sbp-hrs]] names ascitic LDH as a secondary-peritonitis test but its Tables 10–12 do not yield an extractable numeric cut-off (the comparator is normally the *serum* LDH upper limit of normal), and the total-protein limb of the Runyon criteria is likewise absent. Apply the glucose limb, which **is** quantified; do **not** supply the LDH or protein cut-offs from memory. Ingesting the primary Runyon secondary-peritonitis paper would close this
 - Amylase — if pancreatitis suspected
 
 **Microbiology of SBP:**

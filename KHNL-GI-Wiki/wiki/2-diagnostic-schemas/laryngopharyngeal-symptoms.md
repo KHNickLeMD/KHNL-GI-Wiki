@@ -3,7 +3,7 @@ title: "Laryngopharyngeal Symptoms (LPS) and Laryngopharyngeal Reflux Disease (L
 category: diagnostic-schema
 tags: [lpr, lprd, laryngopharyngeal-reflux, gerd, extraesophageal-reflux, cough, dysphonia, throat-clearing, ph-impedance, foregut]
 created: 2026-05-15
-updated: 2026-08-30
+updated: 2026-09-02
 sources: [san-diego-2025-lprd, aga-2023-extraesophageal-gerd]
 ---
 
@@ -123,7 +123,7 @@ LPS can be caused by multiple mechanisms — reflux is one of several:
 | Test | Purpose |
 |---|---|
 | Laryngoscopy ± videostroboscopy | Rule out non-reflux laryngeal pathology; mandatory first step |
-| EGD (off acid suppression if possible) | Diagnose GERD evidence (LA B–D — criteria on [[reflux-testing]], Barrett's, hiatal hernia) |
+| EGD (off acid suppression if possible) | Diagnose GERD evidence (LA B–D, [[barretts-esophagus\|Barrett's]], hiatal hernia). ⚠ LA grade criteria are **corpus-blocked** — flag and gap tracked on [[reflux-testing]] |
 | Ambulatory reflux monitoring (96h wireless pH *or* 24h pH-impedance/HEMII-pH) | Reference standard for LPRD — the two modalities are complementary, not interchangeable; see the modality table in Step 3 for how to choose |
 | LCAT questionnaire | Identify laryngeal hypervigilance/anxiety for behavioral therapy referral |
 | RSI / RSS | Track symptom severity over time (NOT for diagnosis). The historic **RSI ≥13** cutoff does not distinguish increased proximal/pharyngeal reflux or symptom correlation on HEMII-pH; RSS is more specific but still not diagnostic of LPRD |

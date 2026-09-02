@@ -3,8 +3,8 @@ title: "Calcineurin Inhibitors"
 category: med
 tags: [calcineurin-inhibitor, tacrolimus, cyclosporine, immunosuppression, transplant, liver-transplant, nephrotoxicity, basiliximab, induction, cnm-minimization]
 created: 2026-05-19
-updated: 2026-08-26
-sources: [aasld-2012-liver-transplant-long-term, aasld-ast-2025-liver-transplant-graft-complications]
+updated: 2026-09-02
+sources: [aasld-2012-liver-transplant-long-term, aasld-ast-2025-liver-transplant-graft-complications, acg-2025-uc]
 ---
 
 ## Overview
@@ -36,6 +36,22 @@ Not calcineurin inhibitors, but the agents CNI-minimization converts to ([[aasld
 | Sirolimus (off-label in LT) | 2 mg PO daily **after month 1** | 4–10 ng/mL |
 
 - Class adverse effects: GI intolerance, leukopenia, hyperlipidemia, proteinuria, peripheral edema, impaired wound healing, aphthous stomatitis, interstitial pneumonitis, and hepatic artery thrombosis (sirolimus) — hence the ≥1-month post-LT start.
+
+## Cyclosporine in Acute Severe Ulcerative Colitis
+
+The other GI use of a CNI, and the reason the [[ulcerative-colitis|UC]] page links here. That page owns the **ASUC pathway** (when to escalate, infliximab-vs-cyclosporine choice, bridging, colectomy); this page owns the **drug parameters** ([[acg-2025-uc]]):
+
+| Parameter | Value |
+|---|---|
+| Indication | Medical **rescue** in ASUC **failing to respond adequately to IV corticosteroids by day 3** — infliximab **or** cyclosporine (Rec 51, **Strong**) |
+| Target dose | **2 mg/kg** — preferred over 4 mg/kg: comparable clinical response and colectomy rates with **fewer adverse events** |
+| Drug level | **200–400** for efficacy (the source states the range without units) |
+| When *not* to use | Restricted to IVCS failure, **except** where corticosteroids are contraindicated or not tolerated — efficacy is similar to IVCS, not superior |
+| Maintenance after CSA-induced remission | **[[thiopurines]]** (Rec 53, Conditional) or vedolizumab (Rec 54, Conditional) |
+| Surgical safety | Cyclosporine (like infliximab) does **not** increase postoperative complications of colectomy — **do not defer surgery** on account of exposure (Key Concept 55) |
+
+- Landmark RCT: in severely active UC not responding to 7 days of IVCS, **9 of 11** cyclosporine (4 mg/kg) patients responded at a mean of 7 days vs **0** on placebo — but on long-term follow-up **up to 80% eventually require colectomy**.
+- **Thiopurine-naive patients started on thiopurine maintenance after cyclosporine have a lower colectomy risk** than those never started on, or previously failing, a thiopurine — which is why prior thiopurine exposure feeds the rescue-agent choice.
 
 ## Induction — Delaying CNI Start
 
@@ -101,7 +117,7 @@ Complete IS withdrawal ([[operational-tolerance|operational tolerance]]) is not 
 
 ## See Also
 
-[[tacrolimus]], [[liver-transplantation]], [[operational-tolerance]], [[direct-acting-antivirals]], [[antibody-mediated-rejection-liver-transplant]], [[post-transplant-lymphoproliferative-disorder]]
+[[tacrolimus]], [[liver-transplantation]], [[operational-tolerance]], [[direct-acting-antivirals]], [[antibody-mediated-rejection-liver-transplant]], [[post-transplant-lymphoproliferative-disorder]], [[ulcerative-colitis]], [[thiopurines]]
 
 ---
 
@@ -109,3 +125,4 @@ Complete IS withdrawal ([[operational-tolerance|operational tolerance]]) is not 
 
 1. [[aasld-2012-liver-transplant-long-term|AASLD/AST 2012: Long-Term Management of the Successful Adult Liver Transplant]]
 2. [[aasld-ast-2025-liver-transplant-graft-complications|AASLD/AST 2025: Practice Guideline on Adult Liver Transplantation — Diagnosis and Management of Graft-Related Complications]]
+3. [[acg-2025-uc|ACG 2025: Ulcerative Colitis in Adults (Guideline Update)]]

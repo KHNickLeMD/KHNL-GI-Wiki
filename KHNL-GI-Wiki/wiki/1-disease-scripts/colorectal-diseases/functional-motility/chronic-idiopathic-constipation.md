@@ -3,7 +3,7 @@ title: "Chronic Idiopathic Constipation"
 category: disease-script
 tags: [constipation, cic, laxatives, secretagogues, peg, linaclotide, colorectal, functional]
 created: 2026-05-16
-updated: 2026-08-27
+updated: 2026-09-02
 sources: [aga-acg-2023-constipation, acg-2021-anorectal-disorders, asge-2014-constipation, aga-2026-refractory-constipation, rome-v-2026-dgbi]
 ---
 
@@ -15,24 +15,31 @@ sources: [aga-acg-2023-constipation, acg-2021-anorectal-disorders, asge-2014-con
 
 - **Nomenclature ([[rome-v-2026-dgbi|Rome V]], 2026):** the word "functional" was dropped — **"functional constipation" is now "chronic constipation"** (bowel-DGBI category **C2**); opioid-induced constipation is a separate category (C6). [[rome-v-2026-dgbi]]
 
-**Rome IV criteria for functional constipation** (at least 2 of the following for ≥6 months):
+**Symptom criteria for functional constipation** — Rome III, as reproduced in [[asge-2014-constipation]] Table 2. **All three blocks must be satisfied** — the symptom count alone is not the diagnosis.
 
-- Straining during ≥25% of defecations
-- Lumpy or hard stools ≥25% of defecations
-- Sensation of incomplete evacuation ≥25% of defecations
-- Sensation of anorectal blockage/obstruction ≥25% of defecations
-- Manual maneuvers to facilitate ≥25% of defecations (digitation, pelvic floor support)
-- <3 spontaneous bowel movements per week
+**Timing qualifier:** criteria fulfilled for the **previous 3 months**, with **symptom onset ≥6 months prior to diagnosis**.
+
+1. **Must include ≥2 of the following six:**
+   - Straining during ≥25% of defecations
+   - Lumpy or hard stools in ≥25% of defecations
+   - Sensation of incomplete evacuation for ≥25% of defecations
+   - Sensation of anorectal obstruction/blockage for ≥25% of defecations
+   - Manual maneuvers to facilitate ≥25% of defecations (digitation, pelvic floor support)
+   - Fewer than 3 defecations per week
+2. **Loose stools are rarely present without the use of laxatives.**
+3. **Insufficient criteria for [[irritable-bowel-syndrome|irritable bowel syndrome]].**
+
+> **Version gap:** the ingested corpus carries the **Rome III** criteria list only ([[asge-2014-constipation]]); [[rome-v-2026-dgbi]] supplies the Rome V *nomenclature* change (above) but not the criteria items. The Rome IV/V criteria text itself is not in any ingested source — do not assume the six items or the timing qualifier are unchanged.
 
 **Exclusions (not CIC):**
 
-- [[irritable-bowel-syndrome|IBS-C]]: abdominal pain is predominant — Rome IV set the bar at **pain ≥1 day/week for ≥3 months**; **Rome V lowered it to ≥3 days/month in the last 3 months** and re-added "abdominal discomfort" as qualifying, so more patients now sort into IBS-C rather than chronic constipation. [[rome-v-2026-dgbi]]
+- **IBS-C**: abdominal pain is predominant — Rome IV set the bar at **pain ≥1 day/week for ≥3 months**; **Rome V lowered it to ≥3 days/month in the last 3 months** and re-added "abdominal discomfort" as qualifying, so more patients now sort into IBS-C rather than chronic constipation. [[rome-v-2026-dgbi]]
 - Opioid-induced constipation (OIC)
 - Secondary causes: hypothyroidism, hypercalcemia, diabetes, Parkinson's disease, medications (opioids, anticholinergics, calcium channel blockers, iron, NSAIDs), pregnancy
 
 ### Severity Assessment
 
-Assess impact on quality of life using validated tools (PAC-QoL, PAC-SYM) and stool diary (Bristol Stool Form Scale). Guide treatment escalation by:
+Assess impact on quality of life with the **PAC-QOL** (Patient Assessment of Constipation–Quality of Life), the QoL instrument the guideline's evidence synthesis used [[aga-acg-2023-constipation]], plus a stool diary (Bristol Stool Form Scale). Guide treatment escalation by:
 
 - Response to OTC agents (adequate vs. inadequate)
 - Presence of alarm features (see below)
@@ -106,10 +113,15 @@ Assess impact on quality of life using validated tools (PAC-QoL, PAC-SYM) and st
 
 ### Step 1: Lifestyle and Behavioral Measures
 
-- Adequate fluid intake (6–8 glasses daily)
-- Dietary fiber: goal 20–30 g/day; increase gradually to avoid bloating
-- Regular physical activity
-- Toileting routine: respond promptly to urge; use footstool (knees higher than hips); limit time on toilet
+All from [[acg-2021-anorectal-disorders]]:
+
+- **Fluid: 6–8 glasses daily.** **Dietary fiber: 20–30 g daily.**
+- **Match the fiber to the stool** — **soluble** fiber (psyllium, Sterculia) for **hard** stools; **insoluble** fiber for **loose** stools.
+- **Eat meals of ≥500 kcal** to induce the gastrocolonic response.
+- **Toileting routine:** heed the call to defecate; avoid straining; do not spend excessive time on the toilet (no reading/phone). Consider a **footstool** — little if any risk, though studies are needed.
+- **Eliminate medications** that cause or exacerbate constipation.
+- **Treat coexisting anorectal conditions concurrently** — [[anal-fissure|anal fissure]] or symptomatic [[hemorrhoids]].
+- **Escalation trigger:** if these measures are insufficient → oral osmotic or stimulant laxatives, secretagogues, or 5-HT4 agonists (Steps 2–3). Enemas and suppositories, used **as-needed (e.g. no bowel movement for 2 days)**, add predictability.
 
 ### Step 2: OTC Pharmacotherapy (AGA-ACG 2023)
 
@@ -177,7 +189,7 @@ If defecation disorder is identified (abnormal ARM + BET), **[[biofeedback-thera
 ---
 
 ## See Also
-[[chronic-constipation]], [[defecation-disorders]], [[irritable-bowel-syndrome]], [[colorectal-cancer]], [[biofeedback-therapy]], [[linaclotide]], [[plecanatide]], [[prucalopride]], [[lubiprostone]], [[anorectal-manometry]], [[acute-colonic-pseudo-obstruction]]
+[[chronic-constipation]], [[defecation-disorders]], [[irritable-bowel-syndrome]], [[colorectal-cancer]], [[biofeedback-therapy]], [[linaclotide]], [[plecanatide]], [[prucalopride]], [[lubiprostone]], [[anorectal-manometry]], [[acute-colonic-pseudo-obstruction]], [[anal-fissure]], [[hemorrhoids]], [[ostomy-management]]
 
 ---
 

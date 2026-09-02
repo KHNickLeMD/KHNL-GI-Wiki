@@ -3,7 +3,7 @@ title: "Iron-Deficiency Anemia"
 category: disease-script
 tags: [iron-deficiency-anemia, ida, iron, ferritin, oral-iron, intravenous-iron, gi-bleeding, ibd, gave, celiac, angioectasia, bariatric]
 created: 2026-07-24
-updated: 2026-08-26
+updated: 2026-09-02
 sources: [aga-2020-ida, aga-2024-ida-management]
 ---
 
@@ -18,6 +18,8 @@ sources: [aga-2020-ida, aga-2024-ida-management]
   - [[#Oral Iron]]
   - [[#Intravenous Iron]]
   - [[#Condition-Specific Repletion]]
+- [[#See Also]]
+- [[#Sources]]
 
 ---
 

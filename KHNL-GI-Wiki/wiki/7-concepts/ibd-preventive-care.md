@@ -3,7 +3,7 @@ title: "IBD Preventive Care"
 category: concept
 tags: [ibd, crohns-disease, ulcerative-colitis, preventive-care, vaccinations, cancer-screening, osteoporosis, depression, anxiety, immune-modifying-therapy]
 created: 2026-05-15
-updated: 2026-08-30
+updated: 2026-09-02
 sources: [acg-2025-ibd-preventive-care, acg-2017-ibd-preventive-care, aga-2025-noncolorectal-cancer-ibd]
 ---
 
@@ -17,7 +17,7 @@ Patients with [[inflammatory-bowel-disease|IBD]] ([[crohns-disease]] and [[ulcer
 
 **Timing:** Administer all due vaccines before starting immune-modifying therapy when possible; do not delay necessary IBD therapy for vaccination. For patients already on therapy, vaccines should not wait — administer at earliest opportunity regardless of cycle timing.
 
-**Immune response:** Anti-TNF therapy (especially in combination with thiopurines or methotrexate) blunts vaccine immunogenicity. Non-TNF biologics (vedolizumab, ustekinumab) appear to have less impact. Newer agents (IL-23 inhibitors, JAK inhibitors, S1P modulators) — data limited in IBD.
+**Immune response:** Anti-TNF therapy (especially in combination with [[thiopurines]] or methotrexate) blunts vaccine immunogenicity. Non-TNF biologics (vedolizumab, ustekinumab) appear to have less impact. Newer agents (IL-23 inhibitors, JAK inhibitors, S1P modulators) — data limited in IBD.
 
 ### Vaccine Checklist by Agent/Age
 
@@ -137,7 +137,7 @@ Conventional DEXA risk factors apply: age, female sex, low BMI, smoking, family 
 
 ## See Also
 
-[[inflammatory-bowel-disease]], [[crohns-disease]], [[ulcerative-colitis]], [[ibd-in-malignancy]], [[ibd-endoscopic-scoring]], [[ibd-pain-management]], [[nutrition-in-ibd]], [[pouchitis]], [[colonoscopy]], [[chronic-hepatitis-b]], [[rotavirus]], [[colorectal-cancer]], [[colonoscopy-surveillance]]
+[[inflammatory-bowel-disease]], [[crohns-disease]], [[ulcerative-colitis]], [[thiopurines]], [[ibd-in-malignancy]], [[ibd-endoscopic-scoring]], [[ibd-pain-management]], [[nutrition-in-ibd]], [[pouchitis]], [[colonoscopy]], [[chronic-hepatitis-b]], [[rotavirus]], [[colorectal-cancer]], [[colonoscopy-surveillance]]
 
 ---
 

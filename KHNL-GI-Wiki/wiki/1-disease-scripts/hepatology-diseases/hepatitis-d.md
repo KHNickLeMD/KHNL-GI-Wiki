@@ -3,7 +3,7 @@ title: "Hepatitis D (Delta)"
 category: disease-script
 tags: [hepatitis-delta, hdv, hepatitis-b, cirrhosis, bulevirtide, peg-interferon, hcc, viral-hepatitis]
 created: 2026-06-27
-updated: 2026-09-01
+updated: 2026-09-02
 sources: [aga-2025-hepatitis-delta]
 ---
 
@@ -107,10 +107,11 @@ flowchart TD
 
 - **Pegylated interferon-α (peg-IFN-α-2a/2b)** — the **only US-available** therapy; weekly SC.
   - **Indication (AASLD HBV guidance): elevated HDV RNA *and* elevated ALT → peg-IFN-α weekly for 12 months.**
+    - ⚠ **Decision gap — neither input is quantified, and neither is the dose.** [[aga-2025-hepatitis-delta]] reproduces this recommendation verbatim as "elevated HDV RNA levels and elevated ALT" with **no IU/mL threshold and no ×ULN or U/L threshold**, and gives peg-IFN's route and frequency ("weekly SC injection") but **no µg dose**. So the page's central treatment trigger cannot be applied to a specific patient, and the drug cannot be prescribed, from an ingested source. Contrast the NA rule two bullets down, where EASL *does* give a number. Ingest the AASLD HBV guidance (for the trigger) and the peg-IFN label (for the dose) to close this — **do not supply either from memory.**
   - 48-week SVR **23%–57%** (undetectable HDV RNA + normal ALT in 21%–50% at 48 wk); treatment >2 y may raise response rates. **Relapse ~50%** even after prolonged therapy, up to **9 years** after completing therapy. Responders have improved survival and fewer liver-related events.
   - **Contraindicated** in advanced liver disease and in major extrahepatic disease; significant **neuropsychiatric and hematologic** toxicity limits use.
 - **Nucleos(t)ide analogue (NA)** — controls HBV only; **no efficacy against HDV**. See [[chronic-hepatitis-b]].
-  - AASLD: add an NA **if HBV DNA is elevated**.
+  - AASLD: add an NA **if HBV DNA is elevated** — again unquantified in [[aga-2025-hepatitis-delta]].
   - **EASL sets an explicit threshold:** NA therapy only in patients with **HBV DNA >2000 IU/mL and/or cirrhosis**.
 - **After treatment:** close ongoing laboratory *and* imaging surveillance, given the ~50% relapse rate.
 

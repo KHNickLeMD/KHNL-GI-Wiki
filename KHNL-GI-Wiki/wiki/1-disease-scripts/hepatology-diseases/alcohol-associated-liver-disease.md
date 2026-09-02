@@ -3,7 +3,7 @@ title: "Alcohol-Associated Liver Disease"
 category: disease-script
 tags: [ald, alcoholic-hepatitis, cirrhosis, liver, hpb, aud, corticosteroids, liver-transplant, lille-score, meld, mdf, nac, pentoxifylline, transplant-candidate-evaluation, post-transplant, recurrence, naltrexone, acamprosate, baclofen, peth, stopah]
 created: 2026-05-07
-updated: 2026-08-31
+updated: 2026-09-02
 sources: [acg-2024-ald, acg-2017-liver-chemistries, aasld-ast-2025-liver-transplant-candidate-evaluation, aasld-ast-2025-liver-transplant-graft-complications, aasld-2020-ald, acg-2019-hereditary-hemochromatosis, lee-2018-accelerate-ah]
 ---
 
@@ -100,17 +100,25 @@ sources: [acg-2024-ald, acg-2017-liver-chemistries, aasld-ast-2025-liver-transpl
 - ⚠ **What changed:** in the STOPAH post-hoc analysis (n = 1,068), mDF was **inferior** (ROC 0.67) to MELD, GAHS, and ABIC (ROC 0.704–0.726) for 28- and 90-day mortality, and ACG 2024 accordingly recommends on MELD, not mDF [[acg-2024-ald]]. Readers carrying "MDF ≥32" in their heads should switch to MELD >20
 - All these scores rule *out* severe disease well (86–100%) but have **low positive predictive value (17–50%)**
 
-**Additional scoring systems** [[aasld-2020-ald]]:
+**Score comparison — which variables each score uses** ([[aasld-2020-ald]] Tables 7–8). The scores differ mainly in how many inputs they add on top of bilirubin + PT/INR; that is what makes GAHS (adds WBC) and Lille (adds albumin) distinct:
 
-- **ABIC score** (age, bilirubin, INR, creatinine): three-tiered stratification; low risk <6.71; uncertain threshold for initiating steroids
-- **GAHS** (Glasgow AH Score): ≥9 with MDF ≥32 initiates corticosteroids; improves specificity; not validated outside UK [[aasld-2020-ald]]
-- ⚠ **Decision gap — the point/weighting formulas for ABIC and GAHS are not in any ingested source.** [[aasld-2020-ald]] names the variables and the cutoffs but does not reproduce the coefficients, so neither score can be *computed* from this page. Use an external calculator, or ingest the original ABIC and GAHS derivation papers — do not reconstruct the formulas from memory.
+| Score | Bili | PT/INR | Cr/BUN | Age | Albumin | WBC | Stratification | Clinical use |
+|---|---|---|---|---|---|---|---|---|
+| **MDF** | + | + | — | — | — | — | Severe ≥32 | Initiate corticosteroids |
+| **MELD** | + | + | + | — | — | — | Severe ≥21, but a continuous scale | Prognosis only |
+| **ABIC** | + | + | + | + | — | — | Low risk <6.71 (three-tiered) | Prognosis only |
+| **GAHS** | + | + | + | + | — | + | Poor prognosis ≥9 | Initiate corticosteroids **if ≥9 AND MDF ≥32** |
+| **Lille** | + | + | + | + | + | — | ≥0.45 nonresponse / <0.45 response | Day-7 (or day-4) cessation vs continuation of corticosteroids |
 
-**Lille score** — assess response at **day 7 or day 4** of prednisolone (ACG 2024 **Key concept 27**) [[acg-2024-ald]]:
+- **ABIC** — uncertain threshold for initiating steroids; not verified outside Spain
+- **GAHS** — improves specificity of identifying which MDF ≥32 patients need corticosteroids (reduces NNT); **not validated outside the UK**
+- **Lille** — allows early cessation of corticosteroids, but **decision-making is uncertain with a partial response (Lille 0.46–0.56)** [[aasld-2020-ald]]
+- ⚠ **Decision gap — the point/weighting formulas for ABIC, GAHS, and Lille are not in any ingested source.** [[aasld-2020-ald]] names each score's variables and cutoffs (table above) but does not reproduce the coefficients, and explicitly directs readers to an online calculator (`lillemodel.com`) for the Lille score. None of the three can be *computed* from this page. Use an external calculator, or ingest the original ABIC, GAHS, and Lille derivation papers — do not reconstruct the formulas from memory.
 
-- Incorporates age, creatinine, albumin, PT, bilirubin at day 0 and day 7
-- **Lille >0.45 = non-responder** → discontinue prednisolone
-- **Lille ≤0.45 = responder** → continue prednisolone to 28 days total
+**Applying the Lille score** — the one *dynamic* score above; it is computed from paired **day-0 and day-7** values, so it answers "is this patient responding?", not "should steroids be started?" (ACG 2024 **Key concept 27**) [[acg-2024-ald]]:
+
+- **>0.45 = non-responder** → discontinue prednisolone
+- **≤0.45 = responder** → continue prednisolone to 28 days total
 - Day-4 Lille is as accurate as day-7 for predicting outcome, and spares 3 days of unnecessary steroid exposure in non-responders
 
 ---

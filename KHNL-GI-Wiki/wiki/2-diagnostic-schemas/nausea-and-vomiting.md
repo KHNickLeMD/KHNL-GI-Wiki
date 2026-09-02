@@ -3,7 +3,7 @@ title: "Nausea and Vomiting"
 category: diagnostic-schema
 tags: [nausea, vomiting, gastroparesis, cyclic-vomiting, cannabinoid-hyperemesis, motility, foregut]
 created: 2026-06-04
-updated: 2026-08-25
+updated: 2026-09-02
 sources: [acg-2022-gastroparesis, aga-2024-cvs, aga-2024-chs, asge-2020-acpo-volvulus]
 ---
 
@@ -22,7 +22,7 @@ Duration frames the differential: **acute** (<1 week — usually infection, drug
 
 ### GI / Luminal
 
-- **Gastric outlet / mechanical obstruction** — [[peptic-ulcer-disease|peptic stricture]], malignancy ([[gastric-adenocarcinoma]]), small-bowel obstruction (adhesions, hernia), superior mesenteric artery syndrome
+- **[[gastric-outlet-obstruction|Gastric outlet]] / mechanical obstruction** — [[peptic-ulcer-disease|peptic stricture]], malignancy ([[gastric-adenocarcinoma]]), small-bowel obstruction (adhesions, hernia), superior mesenteric artery syndrome
 - **[[gastroparesis]]** — delayed gastric emptying without obstruction; postprandial fullness, early satiety, bloating; diabetic, post-surgical, idiopathic
 - **Peptic disease / [[dyspepsia]]**, [[gerd]], biliary disease ([[choledocholithiasis]], [[acute-cholecystitis|cholecystitis]]), [[acute-pancreatitis|pancreatitis]], appendicitis, hepatitis
 - **Infectious gastroenteritis** ([[acute-diarrhea|see acute diarrhea]]; [[norovirus]], food poisoning)
@@ -104,7 +104,7 @@ flowchart TD
 
 ## See Also
 
-[[gastroparesis]], [[cyclic-vomiting-syndrome]], [[cannabinoid-hyperemesis-syndrome]], [[nausea-and-vomiting-of-pregnancy]], [[dyspepsia]], [[gerd]], [[peptic-ulcer-disease]], [[gastric-adenocarcinoma]], [[achalasia]], [[rumination-syndrome]], [[acute-pancreatitis]], [[choledocholithiasis]], [[acute-cholecystitis]], [[upper-endoscopy]], [[upper-gi-bleeding]], [[acute-diarrhea]], [[norovirus]], [[liver-disease-in-pregnancy]], [[disorders-of-gut-brain-interaction]], [[small-bowel-motility]], [[acute-colonic-pseudo-obstruction]], [[colonic-volvulus]]
+[[gastroparesis]], [[cyclic-vomiting-syndrome]], [[cannabinoid-hyperemesis-syndrome]], [[nausea-and-vomiting-of-pregnancy]], [[dyspepsia]], [[gerd]], [[peptic-ulcer-disease]], [[gastric-adenocarcinoma]], [[achalasia]], [[rumination-syndrome]], [[acute-pancreatitis]], [[choledocholithiasis]], [[acute-cholecystitis]], [[upper-endoscopy]], [[upper-gi-bleeding]], [[acute-diarrhea]], [[norovirus]], [[liver-disease-in-pregnancy]], [[disorders-of-gut-brain-interaction]], [[small-bowel-motility]], [[acute-colonic-pseudo-obstruction]], [[colonic-volvulus]], [[gastric-outlet-obstruction]]
 
 ---
 

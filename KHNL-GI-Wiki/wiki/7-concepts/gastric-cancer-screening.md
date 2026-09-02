@@ -3,7 +3,7 @@ title: "Gastric Cancer Screening"
 category: concept
 tags: [gastric-cancer, gastric-cancer-screening, surveillance, gastric-intestinal-metaplasia, atrophic-gastritis, h-pylori, screening, egd, foregut, gastric]
 created: 2026-07-21
-updated: 2026-08-14
+updated: 2026-09-02
 sources: [aga-2025-gastric-cancer-screening]
 ---
 
@@ -66,11 +66,16 @@ Intervals below apply **after** a high-quality index EGD with systematic biopsie
 | **No AG, GIM, or neoplasia** — WITH family history of GC (1° relative) and/or persistent H. pylori despite eradication | Screening EGD every **3–5 years** |
 | **No AG, GIM, or neoplasia** — WITHOUT those factors | Further GC-screening EGDs **not advised** |
 | **Mild AG and/or focal, complete-type GIM** | Same branch as "no findings" (q3–5y if family history / persistent H. pylori; otherwise not advised) |
-| **Moderate–severe AG and/or multifocal or incomplete-type GIM** (particularly with other GC risk factors) | Surveillance EGD every **3 years** (more frequent if multiple other risk factors) |
+| **Moderate–severe AG** (antrum or corpus, ± GIM), **incomplete- or mixed-type GIM** (vs complete-type only), **or corpus-extended GIM** — particularly with other GC risk factors | Surveillance EGD every **3 years** (evidence-based intervals not well defined; shorter if multiple risk factors or severe corpus-extended GIM) |
 | **Indefinite (IND) or low-grade dysplasia (LGD)** — visible or nonvisible | Confirm by experienced GI pathologist; refer to expert center. If H. pylori+, treat/confirm eradication then repeat EGD + biopsies. Repeat EGD in **6 months** |
 | **High-grade dysplasia (HGD) or early GC (EGC)** | Refer to expert center; **[[endoscopic-submucosal-dissection\|ESD]]** (en bloc, R0). Repeat EGD **as soon as possible**. H. pylori eradication essential but must not delay intervention |
 
-**Risk stratification of AG/GIM (BPA 9):** all confirmed AG ± GIM must be risk-stratified. **Severe AG and/or multifocal/incomplete GIM** are likely to benefit from surveillance, particularly with other GC risk factors (e.g., family history) → **q3y**, shorter if severe anatomically extensive GIM or multiple risk factors. See [[gastric-intestinal-metaplasia]] and [[atrophic-gastritis]] for full lesion-level management and the ACG 2025 / AGA 2021 interval concordance.
+**BPA 9 makes risk stratification mandatory:** every confirmed AG ± GIM must be risk-stratified before any interval is chosen — the intervals above are meaningless without it.
+
+**Definitions the interval turns on** (from [[aga-2025-gastric-cancer-screening]]):
+
+- **Corpus-extended GIM** = involvement of the **corpus in addition to antrum and/or incisura**. This is the extent qualifier that upgrades a patient to q3y — and progression in severe corpus-extended GIM has been found **often within 2 years** of the previous endoscopy, which is why "shorter than 3 years" is on the table.
+- **GIM subtype (complete vs incomplete/mixed)** and **AG/GIM histologic severity grading** are the other two decision inputs. The CPU requires them documented (BPA 7) but does not define them — their **criteria, the OLGA/OLGIM stage bands, and Kimura-Takemoto live on [[atrophic-gastritis#Severity Assessment|atrophic gastritis]] and [[gastric-intestinal-metaplasia]]**, which also carry the lesion-level management and the ACG 2025 / AGA 2021 / AGA 2026 interval concordance. AG/GIM surveillance beyond the screening decision is explicitly **out of scope** for this CPU.
 
 ### After second-look confirms residual NONvisible dysplasia
 
@@ -105,13 +110,13 @@ Surveillance recommended but intervals not well defined. See [[atrophic-gastriti
 
 ## Health Equity (BPA 15)
 
-GC in the US epitomizes racial/ethnic disparity across incidence, stage at diagnosis, and survival. A personalized risk assessment determines whether to screen/survey; **modifiable risk factors** (H. pylori, diet, tobacco, poverty-associated exposures) should be distinctly addressed, as they disproportionately affect high-risk groups and represent health care disparities. AI tools for early-neoplasia detection are promising but too preliminary for routine use.
+GC in the US epitomizes racial/ethnic disparity across incidence, stage at diagnosis, and survival. A personalized risk assessment determines whether to screen/survey; **modifiable risk factors** (H. pylori, diet, tobacco, poverty-associated exposures) should be distinctly addressed, as they disproportionately affect high-risk groups and represent health care disparities. [[artificial-intelligence-endoscopy|AI]] tools for early-neoplasia detection are promising but too preliminary for routine use.
 
 ---
 
 ## See Also
 
-[[gastric-intestinal-metaplasia]], [[atrophic-gastritis]], [[gastric-premalignant-conditions]], [[helicobacter-pylori-infection]], [[gastric-adenocarcinoma]], [[upper-endoscopy]], [[endoscopic-submucosal-dissection]], [[endoscopic-mucosal-resection]], [[colorectal-cancer-screening]]
+[[gastric-intestinal-metaplasia]], [[atrophic-gastritis]], [[gastric-premalignant-conditions]], [[helicobacter-pylori-infection]], [[test-and-treat]], [[gastric-adenocarcinoma]], [[hereditary-diffuse-gastric-cancer]], [[gastroenteropancreatic-neuroendocrine-tumors]], [[upper-endoscopy]], [[colonoscopy]], [[endoscopic-submucosal-dissection]], [[endoscopic-mucosal-resection]], [[artificial-intelligence-endoscopy]], [[colorectal-cancer-screening]]
 
 ---
 

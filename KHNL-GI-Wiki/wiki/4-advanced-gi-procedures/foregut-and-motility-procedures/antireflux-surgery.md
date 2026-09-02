@@ -3,7 +3,7 @@ title: "Antireflux Surgery"
 category: advanced-procedure
 tags: [gerd, antireflux-surgery, fundoplication, nissen, msa, linx, tif, ctif, stretta, foregut, hiatal-hernia]
 created: 2026-06-01
-updated: 2026-08-31
+updated: 2026-09-02
 sources: [sages-2021-gerd-surgery, acg-2021-gerd, asge-2024-gerd, padova-2025-hrm-antireflux, afs-2023-transoral-incisionless-fundoplication]
 ---
 
@@ -48,7 +48,7 @@ The hiatal hernia size + Hill grade pair is the operative decision point ([[asge
 | **≤2 cm** | **I or II** | TIF 2.0 (Conditional / Low) — or Stretta if TIF and surgical fundoplication are unavailable/infeasible (Best Practice Advice only) |
 | **>2 cm** | **III or IV** | cTIF after multidisciplinary review (Conditional / Very Low), or surgical fundoplication |
 
-- Hill grade I–IV criteria are **not reproduced here** — see [[reflux-testing]] (their home page).
+- ⚠ **Decision gap — the Hill grade in this table cannot be assigned from the wiki.** [[asge-2024-gerd]] drives the TIF-vs-cTIF choice off Hill grade but cites Hill & Kozarek 1996 rather than printing grades I–IV, and **no ingested source defines them**. [[reflux-testing]] is the single home for the Hill-grade entry and carries the standing corpus-block note. Apply the **hernia-size limb**, which *is* sourced (measured two ways, below); do not supply the Hill criteria from memory. **The same block applies to every LA-grade threshold on this page** (indications, mucosal contraindications, when pH testing may be skipped) — grades A–D are used but never defined in the corpus; needs Lundell 1999.
 - TIF 2.0 candidates must also meet **≥1** of: chronic GERD ≥6 months, long-term [[proton-pump-inhibitors|PPI]] use ≥6 months, refractory GERD, regurgitation-predominant GERD, or patient preference to avoid long-term PPI ([[asge-2024-gerd]]).
 - **Measure the hernia in two dimensions** — axial length **and** greatest transverse diameter of the diaphragmatic hiatus; either one >2 cm pushes to cTIF/LARS ([[afs-2023-transoral-incisionless-fundoplication]]).
 - **Sizing caution:** hernia size at laparoscopic repair is **often larger than it appeared endoscopically** — apply extra caution even when it measures <2 cm on [[upper-endoscopy|EGD]] ([[afs-2023-transoral-incisionless-fundoplication]]).
