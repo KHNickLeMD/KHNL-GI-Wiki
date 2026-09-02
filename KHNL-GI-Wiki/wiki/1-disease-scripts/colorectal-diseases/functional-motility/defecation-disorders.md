@@ -3,7 +3,7 @@ title: "Defecation Disorders (Dyssynergic Defecation)"
 category: disease-script
 tags: [defecation-disorder, dyssynergia, outlet-obstruction, biofeedback, anorectal-manometry, colorectal, pelvic-floor]
 created: 2026-05-16
-updated: 2026-09-01
+updated: 2026-09-02
 sources: [acg-2021-anorectal-disorders, aga-acg-2023-constipation, rome-v-2026-dgbi]
 ---
 
@@ -23,7 +23,7 @@ sources: [acg-2021-anorectal-disorders, aga-acg-2023-constipation, rome-v-2026-d
 - ⚠ **Contradiction, resolved by recency:** Rome V is the newer tier-1 consensus, so the page asserts the 1-of-3 rule; ACG 2021's two-test requirement is kept in view because the test descriptions under [[#Required Tests for Diagnosis]] are written against it and many labs still apply it. [[rome-v-2026-dgbi]]
 - **Symptoms are now a required limb, not just the tests:** Rome V requires **difficult-evacuation symptoms** (e.g. straining, digital maneuvers) **plus** the 1 abnormal test — an abnormal test alone does not make the diagnosis. [[rome-v-2026-dgbi]]
 - **What was dropped and what replaced it:** **EMG** is no longer a criterion (infrequently used); the diagnosis now leans on **specific manometric patterns of abnormal evacuation, including the rectoanal gradient**. [[rome-v-2026-dgbi]]
-- **Nomenclature:** Rome V **removed the umbrella category "functional defecation disorders"** (too broad — it swept in structural conditions such as [[rectal-prolapse|rectal prolapse]] and perineal descent); the retained DGBI entity is **F3 dyssynergic defecation**, now listed separately. [[rome-v-2026-dgbi]]
+- **Nomenclature:** Rome V **removed the umbrella category "functional defecation disorders"** (too broad — it swept in structural conditions such as [[rectal-prolapse|rectal prolapse]] and perineal descent); the retained [[disorders-of-gut-brain-interaction|DGBI]] entity is **F3 dyssynergic defecation**, now listed separately. [[rome-v-2026-dgbi]]
 - **New in Rome V — anorectal sensory dysfunction disorders (F4)**, a separate category from F3 that can produce the same complaints:
   - **F4a rectal hyposensitivity** — blunted rectal sensation → **decreased urge to defecate, straining, and digital maneuvers to evacuate**. Overlaps clinically with dyssynergia; **rectal sensitivity testing separates them**, and treatment is **balloon sensory training** rather than (or alongside) coordination [[biofeedback-therapy|biofeedback]].
   - **F4b rectal hypersensitivity** — **increased urge to defecate** with prolonged or frequent toilet times.

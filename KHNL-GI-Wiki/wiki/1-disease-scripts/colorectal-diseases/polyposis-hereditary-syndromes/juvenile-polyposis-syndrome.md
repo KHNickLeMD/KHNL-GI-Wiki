@@ -3,7 +3,7 @@ title: "Juvenile Polyposis Syndrome"
 category: disease-script
 tags: [juvenile-polyposis, jps, smad4, bmpr1a, hamartoma, hereditary-crc, hht, upper-gi-cancer, genetic-testing]
 created: 2026-05-19
-updated: 2026-09-01
+updated: 2026-09-02
 sources: [acg-2015-hereditary-gi-cancer, aga-2022-hamartomatous-polyposis]
 ---
 
@@ -133,7 +133,7 @@ Juvenile polyposis syndrome (JPS) is an autosomal-dominant hamartomatous polypos
 - [[gastric-adenocarcinoma|Gastric cancer]] or **high-grade dysplasia**
 - Inability to **adequately survey** or endoscopically control gastric polyposis
 - **Persistent anemia or GI bleeding** from gastric polyposis or [[angioectasia|angioectasia]]
-- **Gastric outlet obstruction** symptoms
+- **[[gastric-outlet-obstruction|Gastric outlet obstruction]]** symptoms
 - **Protein-losing gastropathy**
 
 ### Monitoring

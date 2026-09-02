@@ -159,9 +159,17 @@ The periendoscopic framework applies to patients undergoing **scheduled, electiv
 
 | Risk | Mechanical valve | Atrial fibrillation | VTE |
 |---|---|---|---|
-| **High** | Any mitral valve; caged-ball or tilting disc aortic valve; stroke/TIA <3 mo | CHADS2 5–6; CHA2DS2-VASc ≥7; stroke/TIA <3 mo; rheumatic valvular disease | VTE <3 mo; severe thrombophilia (protein C/S/antithrombin deficiency, antiphospholipid antibodies, multiple abnormalities) |
-| **Moderate** | Bileaflet AV prosthesis + AF, prior stroke/TIA, HTN, DM, CHF, or age >75 | CHADS2 2–4 (no prior stroke/TIA); CHA2DS2-VASc 5–6 | VTE 3–12 mo; non-severe thrombophilia; recurrent VTE; active cancer |
-| **Low** | Bileaflet AV prosthesis, no AF, no other stroke risk | CHADS2 0–1; CHA2DS2-VASc 1–4 | VTE >12 mo, no other risk factors |
+| **High** | Any mitral valve prosthesis; any caged-ball or tilting-disc aortic valve prosthesis; stroke/TIA <3 mo | CHADS2 5 **or** 6; CHA2DS2-VASc **≥7**; stroke/TIA <3 mo; rheumatic valvular heart disease | VTE <3 mo; **severe** thrombophilia (protein C, protein S or antithrombin deficiency; antiphospholipid antibodies; multiple abnormalities) |
+| **Moderate** | Bileaflet **aortic** valve prosthesis **plus ≥1 of**: AF, prior stroke/TIA, hypertension, diabetes, CHF, age >75 y (the prosthesis alone is *low* risk) | CHADS2 2–4 **and no** prior stroke/TIA; CHA2DS2-VASc 5 or 6 | VTE 3–12 mo; **non-severe** thrombophilia (e.g. heterozygous factor V Leiden or prothrombin gene mutation); recurrent VTE; active cancer (treated within 6 mo or palliative) |
+| **Low** | Bileaflet aortic valve prosthesis, no AF **and** no other stroke risk factor | CHADS2 0 or 1; CHA2DS2-VASc 1–4 | VTE >12 mo ago **and** no other risk factors |
+
+**Table 4 footnote — additional patients who count as high risk** (easy to miss; the grid alone under-calls them):
+
+- Prior stroke/TIA **>3 mo** ago **with a CHADS2 score <5** (i.e. a low/moderate score does *not* override a prior stroke).
+- Previous thromboembolism **during a prior temporary interruption of a VKA**.
+- Certain surgery types — cardiac valve replacement, carotid endarterectomy, major vascular surgery.
+
+> **Decision gap — the score components are not in the ingested source.** ACG/CAG 2022 stratifies on **CHADS2** and **CHA2DS2-VASc** bands but never prints either score's items or point values, so the band cannot be computed from this page or from the guideline. Closing it needs the original score derivations (Gage 2001 for CHADS2; Lip 2010 / *Chest* 2010 for CHA2DS2-VASc), neither of which is in `raw/`. Do not fill from memory.
 
 ### Low Thrombotic Risk Patients
 

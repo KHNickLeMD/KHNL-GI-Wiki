@@ -3,7 +3,7 @@ title: "Hemorrhoids"
 category: disease-script
 tags: [hemorrhoids, anorectal, rectal-bleeding, rubber-band-ligation, hemorrhoidectomy, colorectal]
 created: 2026-05-16
-updated: 2026-09-01
+updated: 2026-09-02
 sources: [acg-2021-anorectal-disorders, asge-2010-anorectal-disorders, aga-2026-hemorrhoids]
 ---
 
@@ -86,7 +86,7 @@ The diagnosis of symptomatic internal hemorrhoids requires exclusion of other so
 
 | Procedure | Indication | Efficacy | Notes |
 |-----------|-----------|---------|-------|
-| **Rubber band ligation (RBL)** | Grade 1–3 | Strong/Moderate — preferred; lower need for retreatment vs IRC/sclerotherapy. RBL is also the initial endoscopic treatment of choice for bleeding/prolapsing 2nd–3rd-degree internal hemorrhoids failing conservative care *(ASGE 2010)* [[asge-2010-anorectal-disorders]] | Banding at base of hemorrhoid above dentate line; most popular and effective; complications: pain (1–4 days), bleeding (1–2%), thrombosis of external component, rare life-threatening sepsis in immunocompromised |
+| **Rubber band ligation (RBL)** | Grade 1–3 | Strong/Moderate — preferred; lower need for retreatment vs IRC/sclerotherapy. RBL is also the initial endoscopic treatment of choice for bleeding/prolapsing 2nd–3rd-degree internal hemorrhoids failing conservative care *(ASGE 2010)* [[asge-2010-anorectal-disorders]]. **Efficacy splits at grade 3:** Cochrane found RBL **equally effective as surgical excision for grade 2**, but **not as effective as surgical excision for grade 3** *(AGA 2026)* | Banding at base of hemorrhoid **above the dentate line**. Complication rate **2%** *(AGA 2026)* — urinary retention, bleeding, secondary fissure formation; ACG 2021 reports anorectal pain, bleeding, thrombosis of the external component, and vasovagal symptoms in **1%–3%**. Rare life-threatening/pelvic sepsis. **If a band is deployed too close to the dentate line it causes pain and must be removed immediately** — roll it off the hemorrhoid with a finger or massage the hemorrhoid circularly *(AGA 2026)* |
 | **Infrared coagulation (IRC)** | Grade 1–2 | Strong/Moderate — similar to RBL for Grade 1–2 | Faster; less pain than banding; higher retreatment rate |
 | **Sclerotherapy** | Grade 1–2 | Alternative; similar to IRC | Injection of sclerosing agent; effective for bleeding Grade 1–2; useful for patients on [[anticoagulation-gi-bleeding\|anticoagulation]] |
 | **Bipolar coagulation** | Grade 1–2 | Strong/Moderate — ACG-listed alternative to RBL (grouped with IRC/sclerotherapy in the recommendation) | Cauterizes hemorrhoid base; outcomes similar to IRC |
@@ -94,24 +94,37 @@ The diagnosis of symptomatic internal hemorrhoids requires exclusion of other so
 
 **Avoid RBL in:** acute perianal [[crohns-disease|Crohn's disease]]; immunocompromise (high sepsis risk); patients on full anticoagulation.
 
+**Sequencing rule (BPA 5, AGA 2026):** for **grades 1–3**, banding *or* IRC must be **employed before** surgical hemorrhoidectomy — office therapy is not optional prelude but the required first procedural step.
+
 **Pelvic sepsis — the timing that decides the workup:** it is the most feared complication of banding and can develop **any time between 3 and 10 days** after the procedure. Counsel every banded patient at consent to present to the ED within that window for fever, worsening pain, or urinary retention. *(AGA 2026)*
 
 ### Thrombosed External Hemorrhoids
 
-**Strong/Low recommendation:** Surgical excision or incision/drainage of clot when seen within **4 days** of onset — higher success rate with clot evacuation.
+**AGA 2026 BPA 9 (newest tier-1 source — leads):** acute thrombosed hemorrhoids are often extremely painful and are **best treated surgically with incision and drainage (I&D)**. Early I&D gives the **most effective and rapid symptom relief** vs conservative measures.
 
-- Excision (not incision) preferred: lower recurrence
-- After 4 days: conservative management (sitz baths, analgesia, stool softeners) as symptoms typically improving by then
-- Conservative management alone: acceptable; clot reabsorbs in 2–3 weeks but may leave skin tag
+- **Technique:** when I&D is performed, **"de-roof" the cavity** so it does not reform with the incision closing over.
+- **Who/where:** I&D can be performed by a **gastroenterologist in the office, or in the ED** — unlike excision, it does not require the OR.
+- **If excision is chosen instead, it must be complete** — complete excision *and* evacuation of the clot.
+- **Most thrombosed external hemorrhoids resolve without any surgical treatment**; surgery buys early relief, not a different endpoint. Conservative care = stool softening (docusate), sitz baths, pain control.
+
+> ⚠ **Guidelines conflict — procedure and timing window.** Both are tier-1; **AGA 2026 is the newer source and leads the page**, but ACG 2021's recommendation is graded (Strong / low quality) and reads differently:
+>
+> | | [[aga-2026-hemorrhoids\|AGA 2026]] (BPA 9) | [[acg-2021-anorectal-disorders\|ACG 2021]] (Rec 2, Strong/Low) |
+> |---|---|---|
+> | **Procedure** | **I&D**, with de-roofing | **Either** surgical excision **or** incision and evacuation of the thrombus; body text specifies *excision of the clot with removal of overlying skin to prevent recurrence* |
+> | **Early-presentation window** | **within 72 hours** | **within the first 4 days** |
+>
+> Practical read: the two agree that early operative drainage beats conservative care and disagree on whether the overlying skin should be excised. Outside the window, both default to conservative management.
 
 ### Surgery (Grade 3–4, Office Procedure Failures)
 
-**Traditional hemorrhoidectomy** remains the gold standard for Grade 4 and refractory Grade 3:
+**Surgical excision (hemorrhoidectomy)** is the definitive procedure, and **Grade 4 internal hemorrhoids require it** *(BPA 10, AGA 2026)*; ACG 2021 likewise names traditional hemorrhoidectomy the recommended treatment for Grade 4.
 
-- Open or closed technique
-- More painful than office procedures; 2–4 weeks recovery
-- Healing 94–98% with minimal recurrence
-- Complications: urinary retention (10–20%), bleeding, infection, anal stricture, [[fecal-incontinence|incontinence]] (rare)
+- **What is excised:** the entire hemorrhoid complex (internal *and* external) is dissected off the internal anal sphincter and removed.
+- **Open vs closed:** the surgeon may leave the incision open or close it with suture — the **closed approach carries decreased risk of postoperative bleeding and faster wound healing** *(AGA 2026)*.
+- **Overall complication rate is low — 1%–2%** *(AGA 2026)*: urinary retention, bleeding, infection, fistula formation, and the rare but morbid **pelvic sepsis**. Counsel on bleeding, recurrence, and pelvic sepsis.
+
+> **Corrected 2026-09-02:** this page previously claimed hemorrhoidectomy "healing 94–98%", "urinary retention (10–20%)", and "2–4 weeks recovery." The **94–98% figure is ACG 2021's healing rate for lateral internal sphincterotomy in chronic [[anal-fissure|anal fissure]]** (see that page), not a hemorrhoidectomy outcome; the other two numbers appear in none of the three ingested sources. All three removed and replaced with the sourced AGA 2026 figures above.
 
 **Stapled hemorrhoidopexy (PPH):** higher complication and recurrence rates compared to conventional hemorrhoidectomy — generally avoided per ACG 2021.
 

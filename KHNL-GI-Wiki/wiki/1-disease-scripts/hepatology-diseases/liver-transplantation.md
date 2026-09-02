@@ -3,7 +3,7 @@ title: "Liver Transplantation — Post-Transplant Management"
 category: disease-script
 tags: [liver-transplant, liver-transplantation, immunosuppression, tacrolimus, calcineurin-inhibitor, ckd, metabolic-syndrome, rejection, tcmr, pcr, amr, biliary-stricture, vascular-complications, machine-perfusion, dcd, ldlt, ead, hbv, hcv, pbc, psc, autoimmune-hepatitis, hcc, masld, ald, de-novo-malignancy, post-transplant, bone-health, vaccination, cmv, cancer-surveillance, glp-1, bariatric-surgery, aasld]
 created: 2026-05-19
-updated: 2026-08-31
+updated: 2026-09-02
 sources: [aasld-2012-liver-transplant-long-term, aasld-ast-2025-liver-transplant-graft-complications, aasld-ast-2025-liver-transplant-candidate-evaluation, aasld-ast-2025-liver-transplant-non-graft-complications, asge-2023-post-transplant-biliary-strictures]
 ---
 
@@ -56,6 +56,8 @@ Three parts, each with **one** home for its facts — content is cross-reference
   - [[#Oncologic Surveillance]]
   - [[#Metabolic Syndrome and Cardiometabolic Management]]
   - [[#Chronic Kidney Disease]]
+- [[#See Also]]
+- [[#Sources]]
 
 ---
 
@@ -111,14 +113,16 @@ All candidates require ECG + comprehensive TTE (Strong, Level 2). TTE detects st
 - Chest imaging for all (Strong, Level 4); PFTs only if lung disease risk factors present (Strong, Level 2)
 - **HPS screening**: bubble echocardiography (contrast TTE with agitated saline) preferred when available (Weak, Level 1); if not routine, add for pulmonary symptoms or oxygenation abnormalities (Strong, Level 3)
   - Confirmed HPS: pulse oximetry + ABG to gauge PaO₂ severity; MELD exception available for PaO₂ <60 mmHg (Strong, Level 3)
-- **Portopulmonary hypertension (POPH) evaluation**: RVSP ≥45 mmHg or RV structural/functional abnormalities on TTE → right heart catheterization (RHC) required (Strong, Level 1)
+- **Portopulmonary hypertension (POPH) evaluation**: estimated **RVSP >45 mmHg** (note: **strictly greater than**, not ≥) or abnormal RV structure/function on TTE → right heart catheterization (RHC) required, with subspecialty consultation if POPH confirmed (Rec 22, Strong, Level 1)
   - POPH responsive to medical therapy → LT may proceed, especially with advanced liver disease (Weak, Level 2); the survival benefit is greatest in medical responders with **MELD >15**
   - **MELD exception criteria for POPH** (the numbers that decide whether exception points are granted): **mPAP <35 mmHg AND PVR <5 WU**, *or* **mPAP 35–45 mmHg AND PVR <3 WU** — i.e. exception requires demonstrated response to POPH medical therapy
   - **mPAP 45 mmHg with PVR >3 WU on optimized therapy** (as determined by a pulmonary hypertension specialist) = **contraindication to LT** (Rec 24, Strong, Level 1)
 
 ### Infection Screening and Vaccination
 
-- Comprehensive pretransplant infection screening: CMV IgG, EBV IgG, HBsAg/HBcAb/HBsAb, anti-HCV, HIV, PPD/IGRA, RPR, Toxo IgG, VZV, MDRO swabs, conditional testing for endemic fungi/parasites (Strong, Level 3)
+- Comprehensive pretransplant infection screening — Table 1, [[aasld-ast-2025-liver-transplant-candidate-evaluation]] (Strong, Level 3):
+  - **All patients:** CMV IgG; EBV IgG; HBsAg/HBcAb/HBsAb; anti-HCV IgG (→ HCV RNA if positive); **HEV (conditional)**; HIV antibody (→ HIV RNA if positive); **rectal swab** (CPE, VRE) and **nasal swab** (MRSA) for MDROs; PPD or IGRA (QuantiFERON-TB Gold Plus / T-Spot); RPR (→ specific treponemal test if positive); Toxo IgG; VZV
+  - **Conditional — only if exposure risk:** *Coccidioides* serology or skin testing; *Histoplasma* serum antibody; *Strongyloides* IgG; *Trypanosoma cruzi* serology
 - All age-appropriate vaccines before transplant; live vaccines (MMR, varicella) completed ≥4 weeks pre-transplant (Strong, Level 3)
 
 ### Cancer Screening
@@ -728,14 +732,14 @@ CMV disease is the most clinically significant opportunistic infection post-LT.
 | Group | Recommendation | Grade |
 |---|---|---|
 | All recipients | Age-appropriate cancer screening per **USPSTF** or other organizations (Rec 44) | Strong, Level 1 |
-| All recipients | **Yearly clinical skin exam** (Rec 45) | Strong, Level 2 |
+| All recipients | **Annual full-body clinical skin exam** — *more frequent* in those with a history of skin cancer; plus monthly skin self-exams and UV-exposure limitation (Rec 45; Table 3) | Strong, Level 2 |
 | Tobacco users | Smoking-cessation education **and** medical intervention (Rec 46) | Strong, Level 1 |
 | Women **≥21** or sexually active **with positive HPV testing** | May consider **annual** pelvic exam + cervical **and anal** Pap testing (Rec 47) | Weak, Level 4 |
 | History of tobacco, [[alcohol-associated-liver-disease\|ALD]], or HPV infection | May consider **ENT referral for head & neck cancer surveillance within the first year** post-LT (Rec 48) | Weak, Level 3 |
-| Colon — otherwise **average risk** | May consider [[colonoscopy]] **q5y** (colonoscopy preferred over stool-based testing in LT recipients) (Rec 49) | Weak, Level 3 |
+| Colon — otherwise **average risk**, age **≥45 y** | Screen per the general population, but **may consider [[colonoscopy]] q5y** (colonoscopy preferred over stool-based testing in LT recipients) (Rec 49; Table 3) | Weak, Level 3 |
 | Colon — **[[primary-sclerosing-cholangitis\|PSC]] + [[inflammatory-bowel-disease\|IBD]]** | **Annual** colonoscopy **with random biopsies** (Rec 50) | Strong, Level 2 |
 | Colon — **PSC without IBD** | Colonoscopy **q5y, with ileal intubation and colon biopsies** (screens for both IBD and CRC) (Rec 51) | Strong, Level 3 |
-| Colon — **IBD without PSC** | **Annual** colonoscopy (not stool-based) **with random biopsies** *if* the patient meets surveillance criteria by IBD extent and duration (Table 4) | — |
+| Colon — **IBD without PSC** (any age) | **Annual** colonoscopy (not stool-based) **with random biopsies** *if* the patient meets surveillance criteria by **extent and duration of IBD** (Table 3) | Level 1 |
 
 **PTLD/EBV:** Serial EBV PCR monitoring is **NOT recommended** routinely (Weak, Level 3). See [[post-transplant-lymphoproliferative-disorder]] for PTLD management.
 

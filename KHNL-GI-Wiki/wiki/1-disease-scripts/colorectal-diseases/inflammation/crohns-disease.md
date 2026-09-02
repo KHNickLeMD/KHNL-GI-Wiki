@@ -3,7 +3,7 @@ title: "Crohn's Disease"
 category: disease-script
 tags: [crohns, ibd, biologics, ileitis, colitis, perianal-fistula, stricture, fistula, anti-tnf]
 created: 2026-05-07
-updated: 2026-09-01
+updated: 2026-09-02
 sources: [acg-2025-crohns, aga-2025-crohns-pharm, aga-2021-crohns-pharm, aga-2023-biomarkers-cd, acg-2018-crohns, asge-2015-scenic-ibd-dysplasia, asge-2015-ibd, aga-2026-inpatient-ibd, aga-2026-therapeutic-endoscopy-ibd, aga-2024-intestinal-ultrasound, aga-2024-diet-nutrition-ibd, aga-2024-ibd-malignancy, aga-2024-pregnancy-gi-liver]
 ---
 
@@ -234,7 +234,7 @@ No single pathognomonic test. Diagnosis = integration of:
 
 - **Thiopurines are not induction agents** — ACG recommends *against* AZA/6-MP for induction (Strong/Moderate).
 - **Route matters for methotrexate:** oral bioavailability is variable at higher doses, especially with malabsorption → **parenteral preferred**. [[aga-2025-crohns-pharm|AGA 2025]] suggests **SC/IM methotrexate monotherapy** over no treatment *(Conditional/Moderate)* but **against oral methotrexate monotherapy** *(Conditional/Very low)*; give **daily folic acid** with it.
-- Monitor CBC and LFTs routinely on thiopurines and methotrexate.
+- Monitor CBC and LFTs routinely on [[thiopurines]] and methotrexate.
 - **TPMT testing required before AZA/6-MP** (Strong)
 - Combo AZA + anti-TNF: more effective than monotherapy; but risk of hepatosplenic T-cell lymphoma (rare, young males). AGA 2021 *suggests* combination infliximab or adalimumab + thiopurine over anti-TNF monotherapy in biologic- and immunomodulator-naïve patients (Conditional); makes no recommendation on combining vedolizumab/ustekinumab with an immunomodulator (knowledge gap), nor on withdrawing the immunomodulator vs the biologic once quiescent on combination therapy
 - MTX preferred when AZA/6-MP toxicity is a concern; as an **adjunct to reduce anti-TNF immunogenicity** a reduced dose is used — methotrexate **12.5–15 mg PO once weekly** (or a thiopurine at reduced dose)

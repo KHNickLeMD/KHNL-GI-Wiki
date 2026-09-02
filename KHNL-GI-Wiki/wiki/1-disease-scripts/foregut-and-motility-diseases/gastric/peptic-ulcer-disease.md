@@ -56,7 +56,7 @@ sources: [acg-2021-ugib, asge-2010-pud, aga-2024-pcab, acg-2024-hp-treatment]
 - **Acute bleeding — high-dose PPI after successful endoscopic hemostasis:** continuously **or intermittently for 3 days** (ACG 2021 Rec 13, **Strong**). *High dose* = **≥80 mg daily for at least 3 days**; the continuous regimen studied is an **80-mg bolus followed by 8 mg/hr infusion**, and the intermittent regimens in the RCTs supporting this statement were **40 mg orally b.i.d., 20 mg orally q6h, and an 80-mg bolus followed by 40 mg q12h IV** — meta-analysis found no difference in treatment effect between continuous and intermittent [[acg-2021-ugib]]
 - **Then step down, don't stop:** high-risk patients who received endoscopic hemostasis followed by short-term in-hospital high-dose PPI should **continue twice-daily PPI until 2 weeks after the index endoscopy** (ACG 2021 Rec 14, Conditional/low) [[acg-2021-ugib]]
 - Acute bleeding: endoscopic hemostasis **directed by the bleeding stigma** (see [[upper-gi-bleeding]] — not by a Forrest label, which no ingested source defines); perform EGD *early* in hospitalization; repeat endoscopic therapy for rebleeding before surgery/IR — rebleeding after initial endotherapy is managed with repeat endotherapy plus high-dose PPI [[asge-2010-pud]]
-- **Gastric outlet obstruction:** EGD to confirm and exclude malignancy; endoscopic balloon dilation for *benign* GOO (67–83% short-term relief) but high restenosis (up to 84%), ~51% ultimately need surgery, perforation 4–7%; >2 dilations predicts endoscopic failure [[asge-2010-pud]]
+- **[[gastric-outlet-obstruction|Gastric outlet obstruction]]:** EGD to confirm and exclude malignancy; endoscopic balloon dilation for *benign* GOO (67–83% short-term relief) but high restenosis (up to 84%), ~51% ultimately need surgery, perforation 4–7%; >2 dilations predicts endoscopic failure [[asge-2010-pud]]
 - **No endoscopy if acute perforation**; endoscopy has no therapeutic role in penetrating ulcers [[asge-2010-pud]]
 - Refractory: maximize PPI, switch to [[vonoprazan]], surgical consult, evaluate Zollinger-Ellison
 - **[[potassium-competitive-acid-blockers|P-CABs]] in PUD (AGA 2024 CPU, [[aga-2024-pcab]]):** generally **not first-line** for treatment or prophylaxis (BPA 8) — noninferior, not superior, to PPIs and higher cost; reserve for PPI failures (excluding non-acid ulcer causes) and secondary prophylaxis after PPI failure. Insufficient evidence for first-line use in bleeding ulcers with high-risk stigmata, though rapid potent acid inhibition may prove useful (BPA 9)
@@ -65,7 +65,7 @@ sources: [acg-2021-ugib, asge-2010-pud, aga-2024-pcab, acg-2024-hp-treatment]
 
 ## See Also
 
-[[helicobacter-pylori-infection]], [[upper-gi-bleeding]], [[gastric-adenocarcinoma]], [[gastric-malt-lymphoma]], [[atrophic-gastritis]], [[dyspepsia]], [[gastroparesis]], [[proton-pump-inhibitors]], [[vonoprazan]], [[potassium-competitive-acid-blockers]], [[bismuth-quadruple-therapy]], [[upper-endoscopy]]
+[[helicobacter-pylori-infection]], [[upper-gi-bleeding]], [[gastric-adenocarcinoma]], [[gastric-malt-lymphoma]], [[atrophic-gastritis]], [[dyspepsia]], [[gastroparesis]], [[gastric-outlet-obstruction]], [[proton-pump-inhibitors]], [[vonoprazan]], [[potassium-competitive-acid-blockers]], [[bismuth-quadruple-therapy]], [[upper-endoscopy]]
 
 ---
 

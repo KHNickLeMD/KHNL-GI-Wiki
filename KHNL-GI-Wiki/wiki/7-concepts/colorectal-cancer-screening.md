@@ -3,13 +3,31 @@ title: "Colorectal Cancer Screening"
 category: concept
 tags: [crc, colorectal-cancer, screening, colonoscopy, fit, colonoscopy-quality, adenoma, colorectal]
 created: 2026-05-16
-updated: 2026-08-27
+updated: 2026-09-02
 sources: [acg-2021-crc-screening, usmstf-2021-crc-screening-age, aga-2023-crc-screening-risk-stratification, aga-2025-crc-blood-tests]
 ---
 
+## Contents
+- [[#Overview]]
+- [[#Screening Age Recommendations (ACG 2021)]]
+- [[#Screening Modalities]]
+  - [[#Preferred Modalities]]
+  - [[#Acceptable Alternative Modalities (conditional)]]
+  - [[#Not Recommended]]
+- [[#Blood-Based CRC Screening (AGA 2025 CPU)]]
+  - [[#Validated Tests — Diagnostic Performance]]
+  - [[#Effectiveness vs Established Tests (decision-analytic modeling, 4 validated models)]]
+  - [[#Positioning and Caveats]]
+- [[#Colonoscopy Quality Indicators]]
+- [[#Family History Risk Stratification]]
+- [[#Aspirin Chemoprevention (ACG 2021)]]
+- [[#Key Divergences Between Major Guidelines]]
+- [[#See Also]]
+- [[#Sources]]
+
 ## Overview
 
-[[colorectal-cancer|Colorectal cancer]] (CRC) is the second leading cause of cancer death in the US. CRC screening reduces mortality both by detecting cancer at early (curable) stages and by removing precancerous polyps. This page covers screening for average-risk and elevated-family-history-risk adults. For post-polypectomy surveillance intervals, see [[colonoscopy-surveillance]].
+[[colorectal-cancer|Colorectal cancer]] (CRC) is the second leading cause of cancer death in the US. CRC screening reduces mortality both by detecting cancer at early (curable) stages and by removing precancerous polyps. This page covers screening for average-risk and elevated-family-history-risk adults. For post-[[polypectomy|polypectomy]] surveillance intervals, see [[colonoscopy-surveillance]].
 
 ---
 
@@ -93,11 +111,21 @@ What [[acg-2021-crc-screening]] itself recommends (the fuller metric set lives o
 | ACG 2021 rec | Content | Strength / Certainty |
 |---|---|---|
 | Rec 13 | **Measure** your individual CIR, ADR, and withdrawal time | Strong / Moderate for ADR; Low for WT and CIR |
-| Rec 14 | ADR **below the minimum threshold (<25%)** → undertake remedial training | Conditional / Very low |
+| Rec 14 | ADR **below the recommended minimum threshold (<25%)** → undertake remedial training | Conditional / Very low |
 | Rec 15 | Spend **≥6 minutes** inspecting mucosa during withdrawal | Strong / Low |
 | Rec 16 | Achieve **CIR ≥95% in screening subjects** | Strong / Low |
 
-- **ADR thresholds:** the long-standing minimum targets are **30% (men) / 20% (women)**; colonoscopists above them should aim for **aspirational ADRs of 45–50%** in a mixed-gender population. Each **1% increase in ADR** was associated with a **3% reduction in CRC incidence and a 5% reduction in fatal CRC**.
+- **ADR thresholds — which number applies where** (the three co-exist; Rec 14's `<25%` is the *overall* floor, not a different rule):
+
+| ADR benchmark | Value | Applies to |
+|---|---|---|
+| Minimum, overall | **25%** | Any screening colonoscopy — the Rec 14 remedial-training trigger |
+| Minimum, sex-specific | **30% men / 20% women** | Any screening colonoscopy (2015 MSTF thresholds) |
+| Aspirational | **45–50%** | Mixed-gender population, for colonoscopists already above the minimums |
+| Minimum, **FIT-positive** population | **45% men / 35% women** | Programs screening primarily by FIT; aspirational may reach **≥75% in males** |
+
+  - Only **conventional adenomas** count toward ADR (SSLs excluded, per the 2015 MSTF specification). **Exclude FIT-positive (and mtsDNA-positive) colonoscopies** from the routine ADR calculation — that indication carries a much higher ADR; measure them as their own population against the FIT-positive thresholds above.
+  - Each **1% increase in ADR** was associated with a **3% reduction in CRC incidence and a 5% reduction in fatal CRC** (PCCRC risk lower for ADR >33.5% vs <19.06%).
 - **Withdrawal time:** ≥6 min is the minimum; data suggest very-high-level detection tracks with an average of **9 minutes** in normal colonoscopies, which may change future thresholds. WT can be gamed (time spent in a single segment).
 - ADR is the most important quality metric — it is variable between endoscopists, strongly linked to post-colonoscopy CRC, and improvable with training. Computer-aided detection as a lever on ADR is covered on [[artificial-intelligence-endoscopy]]; bowel-prep adequacy on [[colonoscopy]].
 

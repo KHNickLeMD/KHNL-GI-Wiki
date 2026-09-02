@@ -3,7 +3,7 @@ title: "Ulcerative Colitis"
 category: disease-script
 tags: [uc, ulcerative-colitis, ibd, 5-asa, biologics, anti-tnf, vedolizumab, asuc, pancolitis, proctitis]
 created: 2026-05-07
-updated: 2026-09-01
+updated: 2026-09-02
 sources: [acg-2025-uc, aga-2024-uc-pharm, aga-2024-pouchitis, aga-2023-biomarkers-uc, acg-2019-uc, asge-2015-scenic-ibd-dysplasia, asge-2015-ibd, aga-2026-inpatient-ibd, aga-2026-therapeutic-endoscopy-ibd, aga-2026-cdiff-ibd, aga-2024-intestinal-ultrasound, aga-2024-diet-nutrition-ibd, aga-2024-ibd-malignancy, aga-2024-pregnancy-gi-liver, aga-2024-fmt]
 ---
 
@@ -161,7 +161,7 @@ Idiopathic chronic inflammatory disorder of the large intestine. Continuous muco
 - [[chronic-hepatitis-b|HBV]] (HBsAg, anti-HBc, anti-HBs); vaccinate if seronegative; antiviral prophylaxis if HBsAg+
 - [[ibd-preventive-care|Update all vaccines]] before immunosuppression; live vaccines contraindicated after. Influenza, pneumococcal and **herpes zoster** vaccination — the last **particularly before an S1P modulator or JAK inhibitor**
 - **S1P modulators (ozanimod, etrasimod):** **baseline ECG** before initiation (bradycardia/AV block)
-- TPMT before a thiopurine
+- TPMT before a [[thiopurines|thiopurine]]
 - Assess comorbidity, frailty, functional status, concomitant meds, and **thromboembolic/cardiovascular risk** before choosing an advanced therapy; monitor CBC, chemistries and transaminases on treatment per label
 
 ---

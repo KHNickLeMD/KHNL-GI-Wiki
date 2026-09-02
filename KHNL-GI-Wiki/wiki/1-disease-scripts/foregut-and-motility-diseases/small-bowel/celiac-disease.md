@@ -3,7 +3,7 @@ title: "Celiac Disease"
 category: disease-script
 tags: [celiac-disease, gluten, malabsorption, small-bowel, ttg, marsh, foregut]
 created: 2026-05-15
-updated: 2026-08-27
+updated: 2026-09-02
 sources: [acg-2022-celiac]
 ---
 
@@ -110,15 +110,15 @@ Biopsy protocol (ACG 2022 — strong recommendation):
 
 ### Severity Assessment (Marsh Classification)
 
-| Grade | Histologic Features | Clinical Significance |
-|-------|--------------------|-----------------------|
-| Marsh I (lymphocytic duodenosis) | ≥25 intraepithelial lymphocytes (IELs) per 100 epithelial cells; normal villi; no crypt hyperplasia | Not specific for CD — seen in [[helicobacter-pylori-infection\|H. pylori]], NSAIDs, [[small-intestinal-bacterial-overgrowth\|SIBO]], nonceliac wheat sensitivity, autoimmune disorders. Workup for CD is indicated; GFD may be considered if CD antibodies elevated (especially EMA) |
-| Marsh II | IEL ≥25 + crypt hyperplasia; no villous atrophy | Intermediate; GFD may be considered with positive CD serology |
-| Marsh IIIA | Partial villous atrophy | Diagnostic of CD with appropriate serology/context |
-| Marsh IIIB | Subtotal villous atrophy | Diagnostic |
-| Marsh IIIC | Total villous atrophy | Diagnostic; higher severity; higher complication risk |
+CD histology is graded by **Marsh**, or by the more recent **simplified Corazza** classification ([[acg-2022-celiac]]). Only the low-grade lesions are defined in the guideline's main text.
 
-Simplified Corazza classification is an alternative grading system (Grade A = no atrophy with IEL ≥25; Grade B1 = partial atrophy; Grade B2 = total atrophy).
+| Grade | Histologic features (as stated by ACG 2022) | Clinical significance |
+|-------|--------------------|-----------------------|
+| Marsh I (lymphocytic duodenosis) | **≥25 intraepithelial lymphocytes (IELs) per 100 epithelial cells** in the **absence of villous atrophy** | Not specific for CD — also seen in [[helicobacter-pylori-infection\|H. pylori]], NSAIDs, [[small-intestinal-bacterial-overgrowth\|SIBO]], nonceliac wheat/gluten sensitivity, systemic autoimmune disorders; at a referral centre CD was diagnosed in only **9%** of lymphocytic-duodenosis cases. Work up for CD; GFD may be considered in **symptomatic** patients with elevated CD antibodies (**especially EMA**) |
+| Marsh II | Lymphocytic duodenosis **+ crypt hyperplasia, without atrophy** | Same GFD consideration as Marsh I — symptomatic + elevated CD antibodies (especially EMA) |
+| Marsh III | Villous atrophy | Villous atrophy in the appropriate serologic context is what definitively confirms the diagnosis |
+
+> ⚠ **Decision gap (corpus-blocked — do not fill from memory):** the grade-by-grade criteria — **Marsh IIIA / IIIB / IIIC** (partial vs subtotal vs total villous atrophy) and the **Corazza grades A / B1 / B2** — are **not printed in the ingested [[acg-2022-celiac]] text**; the guideline puts them in its *Supplementary Table 1* (`links.lww.com/AJG/C755`), which is not in `raw/`. A previous version of this page asserted both sets of definitions; they have been removed as unsourced. Needed: that supplement, or Marsh MN *Gastroenterology* 1992 / Corazza GR *Clin Gastroenterol Hepatol* 2007.
 
 Note: Persistent intraepithelial lymphocytosis (Marsh I) may persist in 56% of treated CD patients with otherwise normal villous architecture; oat consumption is the only associated factor identified.
 

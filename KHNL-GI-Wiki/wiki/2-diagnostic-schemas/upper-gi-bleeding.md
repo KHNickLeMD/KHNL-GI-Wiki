@@ -19,7 +19,7 @@ sources: [acg-2021-ugib, acg-2023-lgib, acg-2024-hp-treatment]
   - [[#Step 2: Risk Stratification in the Emergency Department]]
   - [[#Step 3: Pre-Endoscopic Management]]
   - [[#Step 4: Timing of Endoscopy]]
-  - [[#Step 5: Endoscopic Evaluation — Ulcer Stigmata]]
+  - [[#Step 5: Endoscopic Evaluation — Ulcer Stigmata (Forrest Classification)]]
   - [[#Step 6: Choice of Endoscopic Hemostatic Therapy (Ulcer Bleeding)]]
   - [[#Step 7: Post-Endoscopic Management (Ulcer Bleeding)]]
   - [[#Step 8: Recurrent Bleeding]]
@@ -170,19 +170,25 @@ If UGIB is clinically suspected in a patient presenting with apparent LGIB, perf
 
 ### Step 5: Endoscopic Evaluation — Ulcer Stigmata
 
-**Source note.** [[acg-2021-ugib|ACG 2021]] does **not** use or define the Forrest classification, and prints **no** table of class-specific rebleeding percentages. It stratifies by *descriptive* stigmata only. The Forrest class labels below are the familiar shorthand for the same findings, but their numbering and any class-specific rebleed percentages are **not supported by an ingested source** — the Forrest 1974 primary paper is not in `raw/`. Only the ACG-sourced figures are stated as data here.
+**Source note.** [[acg-2021-ugib|ACG 2021]] does **not** use or define the Forrest classification — it stratifies by *descriptive* stigmata only. The **class definitions and the class-specific rebleeding percentages come from [[acg-2025-egd-quality|ACG/ASGE 2025]]** (QI 13), which requires that every ulcer seen at [[upper-endoscopy|EGD]] be classified by Forrest class in the procedure report (Strong/1A, performance target >98%) precisely because the class dictates the need for endoscopic therapy and the post-intervention PPI dose. This page is the single home for the Forrest table; other pages link here.
 
-| Stigma (Forrest label) | ACG 2021 position on endoscopic therapy | ACG-sourced data |
-|---|---|---|
-| **Active spurting** (Ia) | **Recommended** — Statement 6 (strong, moderate) | Spurting is much less common than oozing — 68/397 (17%) of actively bleeding ulcers in a large prospective trial; further bleeding appears **more frequent with spurting than oozing** |
-| **Active oozing** (Ib) | **Recommended** — Statement 6 (strong, moderate) | Pooled further bleeding **39% (range 10–100%)** across 8 prospective trials of oozing managed *without* endoscopic therapy |
-| Combined **active bleeding** | — | Endoscopic vs no endoscopic therapy: further bleeding **RR 0.29 (0.20–0.43), NNT 2** |
-| **Nonbleeding visible vessel** (IIa) | **Recommended** — Statement 6 (strong, moderate) | Further bleeding **RR 0.49 (0.40–0.59), NNT 5** |
-| **Adherent clot** resistant to vigorous irrigation (IIb) | **No recommendation for or against** — Statement 7 | Meta-analysis showed no benefit of endoscopic therapy: further bleeding **RR 0.31 (0.06–1.77)**, mortality **RR 0.90 (0.23–3.58)**. PPI alone may suffice — recurrent bleeding **0/64 on PPI vs 13/61 (21%) on placebo** without endoscopic therapy in either arm |
-| **Flat pigmented spot** (IIc) / **clean base** (III) | Not addressed as an indication for therapy | Mortality benefit of endoscopic therapy was **not** documented for any stigma |
+| Forrest class | Stigma (as defined by [[acg-2025-egd-quality]]) | Rebleeding **after** successful endoscopic hemostasis ᵃ | Endoscopic therapy | Supporting ACG 2021 data |
+|---|---|---|---|---|
+| **FIa** | Spurting hemorrhage | **22.5%** | **Recommended** — Statement 6 (strong, moderate) | Spurting is much less common than oozing — 68/397 (17%) of actively bleeding ulcers in a large prospective trial; further bleeding appears **more frequent with spurting than oozing** |
+| **FIb** | Oozing hemorrhage | **4.9%** | **Recommended** — Statement 6 (strong, moderate) | Pooled further bleeding **39% (range 10–100%)** across 8 prospective trials of oozing managed *without* endoscopic therapy |
+| *Combined FIa + FIb (active bleeding)* | — | — | — | Endoscopic vs no endoscopic therapy: further bleeding **RR 0.29 (0.20–0.43), NNT 2** |
+| **FIIa** | Nonbleeding visible vessel (pigmented protuberance) | **11.3%** | **Recommended** — Statement 6 (strong, moderate) | Further bleeding **RR 0.49 (0.40–0.59), NNT 5** |
+| **FIIb** | Adherent clot (resistant to vigorous irrigation) | **17.7%** | **No recommendation for or against** — Statement 7 | Meta-analysis showed no benefit of endoscopic therapy: further bleeding **RR 0.31 (0.06–1.77)**, mortality **RR 0.90 (0.23–3.58)**. PPI alone may suffice — recurrent bleeding **0/64 on PPI vs 13/61 (21%) on placebo** without endoscopic therapy in either arm |
+| **FIIc** | Flat pigmented spot | *(low risk — not quantified)* | **Not indicated** — low risk of recurrent bleeding | Mortality benefit of endoscopic therapy was **not** documented for any stigma |
+| **FIII** | Clean based | *(low risk — not quantified)* | **Not indicated** — low risk of recurrent bleeding | — |
 
-- **Definition caveat:** "the definition of oozing may vary widely among endoscopists"; some trials require continuous bleeding over 5 minutes of observation to call it active oozing.
-- **Adherent clot:** irrigate vigorously to expose the underlying stigma; if the clot resists irrigation, ACG could not reach a recommendation — high-dose PPI alone is a reasonable option.
+ᵃ Post-hoc analysis of an RCT of IV esomeprazole vs placebo in ulcer bleeding, reporting recurrent bleeding **after successful endoscopic hemostasis** — not the natural history of untreated stigmata. Read alongside the ACG 2021 column, which reports further bleeding *without* therapy ([[acg-2025-egd-quality]]).
+
+- **Read the ordering carefully — it is not monotonic.** FIb (oozing) carries a *lower* post-hemostasis rebleeding rate than FIIa (nonbleeding visible vessel); active spurting (FIa) is significantly higher than oozing. Grouping "spurting + oozing" as one active-bleeding category, as older trials did, hides this ([[acg-2025-egd-quality]]).
+- **Actionable split:** FIa / FIb / FIIa → endoscopic hemostatic therapy (QI 14, Strong/1A, target >90%). FIIc / FIII → no endoscopic therapy. FIIb → irrigate vigorously to expose the underlying stigma; if the clot resists, no recommendation could be reached (see above).
+- **Definition caveat:** "the definition of oozing may vary widely among endoscopists"; some trials require continuous bleeding over 5 minutes of observation to call it active oozing ([[acg-2021-ugib]]).
+- ⚠ **Image gap:** no ingested source page carries endoscopic photographs of the Forrest classes, and the ACG/ASGE 2025 document does not print a Forrest figure. Per the Style Guide's endoscopic-appearance rule, this page should embed example images of each class — flagged, not filled.
+- **Adherent clot:** high-dose PPI alone is a reasonable option when the clot resists irrigation.
 
 ### Step 6: Choice of Endoscopic Hemostatic Therapy (Ulcer Bleeding)
 

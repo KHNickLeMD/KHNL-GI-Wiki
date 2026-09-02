@@ -3,8 +3,8 @@ title: "Cyclic Vomiting Syndrome (CVS)"
 category: disease-script
 tags: [cyclic-vomiting-syndrome, cvs, dgbi, vomiting, migraine, foregut, motility]
 created: 2026-07-18
-updated: 2026-08-27
-sources: [aga-2024-cvs, aga-2024-chs]
+updated: 2026-09-02
+sources: [aga-2024-cvs, aga-2024-chs, rome-v-2026-dgbi]
 ---
 
 # Cyclic Vomiting Syndrome (CVS)
@@ -38,6 +38,8 @@ Chronic [[disorders-of-gut-brain-interaction|disorder of gut–brain interaction
 
 Diagnosis is **clinical** — consider CVS in any adult with episodic bouts of repetitive vomiting. ~15% have episodes lasting >7 days; **abdominal pain is present in most episodes and does not exclude CVS**.
 
+> **Rome V has moved on, but its numbers are not in the corpus.** [[rome-v-2026-dgbi|Rome V]] (2026 — newer than the 2024 CPU) keeps CVS as an adult nausea-and-vomiting disorder at **B2b** and splits [[cannabinoid-hyperemesis-syndrome|CHS]] out as a separate adult entity at **B2c**, and states that for both "timing of symptoms and intervals was specified based on **more recent cohort studies**." The ingested Rome V file is the introduction/process article only and **does not print the B2b criteria**, so the **Rome IV thresholds above — carried by [[aga-2024-cvs]] — are what the wiki can source**. Whether the episode-duration, count, or well-interval numbers changed in Rome V is unknown; the Rome V gastroduodenal chapter would be needed to close this.
+
 ### Severity Assessment
 
 Severity (ANMS-CVSA criteria) determines whether prophylaxis is offered — **this is the key management decision** ([[aga-2024-cvs]]):
@@ -67,7 +69,7 @@ Four phases — recognizing the phase guides treatment (see Figure 1 of [[aga-20
 
 *Workup: see [[nausea-and-vomiting]].*
 
-- [[cannabinoid-hyperemesis-syndrome]] — proposed CVS subtype: heavy (>4×/wk, often daily), prolonged (>1 yr) cannabis use **preceding** symptom onset. Retrospective CHS diagnosis requires cannabis cessation for **6 months or ≥3 typical cycle lengths** with symptom resolution; if vomiting persists after cessation, CHS is ruled out. Offer abortive/prophylactic therapy regardless of cannabis use.
+- [[cannabinoid-hyperemesis-syndrome]] — a **separate adult entity in Rome V (B2c)**, framed by the 2024 CPUs as a CVS subtype (see that page for how the two sources differ): heavy (>4×/wk, often daily), prolonged (>1 yr) cannabis use **preceding** symptom onset. Retrospective CHS diagnosis requires cannabis cessation for **6 months or ≥3 typical cycle lengths** with symptom resolution; if vomiting persists after cessation, CHS is ruled out. Offer abortive/prophylactic therapy regardless of cannabis use.
 - functional (chronic) nausea and vomiting syndrome
 - [[gastroparesis]]
 - [[rumination-syndrome]]
@@ -127,6 +129,7 @@ Highest abort probability when taken **early in the prodrome**. **Nearly all pat
 - **Recovery phase:** electrolyte-rich (sports drinks) / nutrient fluids over 1–2 days.
 
 ## See Also
+
 [[cannabinoid-hyperemesis-syndrome]], [[nausea-and-vomiting]], [[nausea-and-vomiting-of-pregnancy]], [[gastroparesis]], [[rumination-syndrome]], [[dyspepsia]], [[acute-hepatic-porphyria]], [[disorders-of-gut-brain-interaction]], [[upper-endoscopy]]
 
 ---
@@ -135,3 +138,4 @@ Highest abort probability when taken **early in the prodrome**. **Nearly all pat
 
 1. [[aga-2024-cvs|AGA Clinical Practice Update on Diagnosis and Management of Cyclic Vomiting Syndrome (2024)]]
 2. [[aga-2024-chs|AGA Clinical Practice Update on Diagnosis and Management of Cannabinoid Hyperemesis Syndrome (2024)]]
+3. [[rome-v-2026-dgbi|Disorders of Gut–Brain Interaction and the Rome V Process]]

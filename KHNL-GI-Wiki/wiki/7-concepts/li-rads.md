@@ -13,6 +13,7 @@ sources: [aasld-2023-hcc, acg-2024-focal-liver-lesions, nccn-2026-hcc]
 
 - [[#Applicability]]
 - [[#Major Features]]
+  - [[#Assigning a Category — CT/MRI Diagnostic Table]]
   - [[#LR-5 Criteria by Size]]
   - [[#What the Criteria Can and Cannot Do]]
 - [[#Categories and Management]]
@@ -51,6 +52,25 @@ Four major features drive categorization; size is the fifth axis, because imagin
 - APHE + washout are the features **most strongly associated** with HCC, with high specificity and PPV in lesions **≥1 cm** ([[aasld-2023-hcc]]).
 - LI-RADS also supplies separate criteria for **major vascular invasion** (→ LR-TIV), because tumor in the vein may not show the parenchymal features ([[nccn-2026-hcc]]).
 
+### Assigning a Category — CT/MRI Diagnostic Table
+
+Read down the two APHE columns, across to the observation size, then down to the count of **additional** major features (enhancing capsule, nonperipheral washout, threshold growth). This is the grid that assigns LR-3, LR-4, and LR-5.
+
+![[hcc-2023-lirads-ct-mri-diagnostic-table-10.png|780x300]]
+*Figure 1 — LI-RADS CT/MRI Diagnostic Table: categorization of liver observations in at-risk patients. Reprinted by AASLD with permission from the ACR Committee on LI-RADS. ([[aasld-2023-hcc]], Figure 6)*
+
+| Additional major features | No APHE, <20 mm | No APHE, ≥20 mm | Nonrim APHE, <10 mm | Nonrim APHE, 10–19 mm | Nonrim APHE, ≥20 mm |
+|---|---|---|---|---|---|
+| **None** | LR-3 | LR-3 | LR-3 | LR-3 | **LR-4** |
+| **One** | LR-3 | LR-4 | LR-4 | **LR-4 *or* LR-5** † | **LR-5** |
+| **≥ Two** | LR-4 | LR-4 | LR-4 | **LR-5** | **LR-5** |
+
+† **The one split cell — nonrim APHE, 10–19 mm, exactly one additional feature.** The category turns on *which* feature it is: **LR-4 if the feature is an enhancing "capsule"**; **LR-5 if it is nonperipheral "washout" *or* threshold growth**. This is the combination rule that decides biopsy-vs-no-biopsy in the size band where it matters most.
+
+- **APHE must be *nonrim*** to enter the right-hand columns; rim APHE points to LR-M, not to this grid.
+- An observation with **no APHE** can never be LR-5 by this table, whatever its size or feature count — the ceiling is LR-4.
+- **LR-1, LR-2, LR-M and LR-TIV are not assigned from this table** — see the gap note below.
+
 ### LR-5 Criteria by Size
 
 | Observation size | Requirement for LR-5 |
@@ -83,7 +103,7 @@ Four major features drive categorization; size is the fifth axis, because imagin
 
 *Per [[aasld-2023-hcc]] (Figures 6/8; GS 19–22). LR-5 is the point at which HCC is treated as diagnosed — stage-directed therapy lives on [[hepatocellular-carcinoma]].*
 
-> ⚠ **Decision gap — only LR-5 can be assigned from this page.** The table above gives each category's probability and management, but the **assignment criteria for LR-1, LR-2, LR-3, LR-4, LR-M and LR-TIV are not in any ingested source.** [[aasld-2023-hcc]] carries the full category grid only as **Figure 6** (an image, not extractable text), and [[nccn-2026-hcc]] prints only the major-feature list and the LR-5 size rules reproduced above. So an observation that is *not* LR-5 cannot be categorized from the wiki — you can read off what to do once categorized, not how to categorize. **Needed to close it:** a crop of AASLD 2023 Figure 6 (per Style Guide → Images), or the ACR LI-RADS core document. Do not fill these criteria from memory.
+> ⚠ **Residual decision gap — LR-1, LR-2, LR-M and LR-TIV still cannot be assigned from this page.** The [[#Assigning a Category — CT/MRI Diagnostic Table|diagnostic table]] above (AASLD 2023 Figure 6) assigns **LR-3, LR-4 and LR-5**, and that gap is now closed. But Figure 6 does not define **LR-1 (definitely benign)** or **LR-2 (probably benign)**, and it does not give the ancillary/targetoid criteria that make an observation **LR-M** or the vascular criteria for **LR-TIV** — [[nccn-2026-hcc]] only notes that LI-RADS "provides imaging criteria to diagnose major vascular invasion" without printing them. **Needed to close it:** the ACR LI-RADS core document (the ancillary-features and LR-M/LR-TIV tables). Do not fill these criteria from memory.
 
 - Where biopsy is done: sensitivity **70–93%**, falling to **~60%** in tumors **<2 cm**; a negative biopsy does **not** exclude HCC and should be repeated if findings are inconclusive and the lesion is still not LR-5. Complication risk (seeding, bleeding) **~3%**, lower with coaxial needle technique ([[aasld-2023-hcc]]; see [[liver-biopsy]]).
 

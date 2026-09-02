@@ -3,7 +3,7 @@ title: "Cannabinoid Hyperemesis Syndrome (CHS)"
 category: disease-script
 tags: [cannabinoid-hyperemesis-syndrome, chs, cyclic-vomiting-syndrome, cannabis, dgbi, capsaicin, amitriptyline, foregut]
 created: 2026-07-18
-updated: 2026-08-30
+updated: 2026-09-02
 sources: [aga-2024-chs, aga-2024-cvs, rome-v-2026-dgbi]
 ---
 
@@ -108,6 +108,7 @@ Outpatient DDx after excluding structural disease:
 **Course:** a single-centre experience reported **>40% of patients could stop all CHS treatment over time**, but **recidivism was high**. In survey data, many patients remain uncertain that cannabis is the cause and attribute symptoms to food or alcohol — expect this when counselling.
 
 ## See Also
+
 [[cyclic-vomiting-syndrome]], [[nausea-and-vomiting]], [[nausea-and-vomiting-of-pregnancy]], [[gastroparesis]], [[rumination-syndrome]], [[disorders-of-gut-brain-interaction]], [[upper-endoscopy]]
 
 ---

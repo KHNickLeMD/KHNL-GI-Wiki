@@ -3,7 +3,7 @@ title: "Jaundice"
 category: diagnostic-schema
 tags: [jaundice, hyperbilirubinemia, cholestasis, hemolysis, biliary-obstruction, conjugated, unconjugated]
 created: 2026-06-04
-updated: 2026-08-26
+updated: 2026-09-02
 sources: [acg-2017-liver-chemistries, acg-2023-alf]
 ---
 
@@ -14,11 +14,13 @@ sources: [acg-2017-liver-chemistries, acg-2023-alf]
 - **Unconjugated (indirect) hyperbilirubinemia** — excess production (hemolysis), impaired uptake, or impaired conjugation. Bilirubin is **not** water-soluble → **no bilirubinuria**.
 - **Conjugated (direct) hyperbilirubinemia** — hepatocellular dysfunction or impaired excretion/biliary obstruction. Bilirubin is water-soluble → **dark urine** and (with obstruction) **pale stools, pruritus**.
 
-Conjugated cases are then split by the **R-ratio / pattern of liver enzymes** into **hepatocellular** (ALT/AST-predominant) versus **cholestatic** (ALP-predominant) injury — the same framework used on the [[abnormal-liver-chemistries]] page (R = (ALT/ULN) ÷ (ALP/ULN); >5 hepatocellular, <2 cholestatic, 2–5 mixed).
+Conjugated cases are then split by the **R-ratio / pattern of liver enzymes** into **hepatocellular** (ALT/AST-predominant) versus **cholestatic** (ALP-predominant) injury — the same framework used on the [[abnormal-liver-chemistries]] page (R = (ALT value ÷ ALT ULN) ÷ (ALP value ÷ ALP ULN); **>5 hepatocellular, <2 cholestatic, 2–5 mixed**) ([[acg-2017-liver-chemistries]]).
+
+**Isolated hyperbilirubinemia** is a distinct pattern in the same scheme: **bilirubin elevated with normal ALP *and* normal AST/ALT** — that combination, not the bilirubin alone, is what sends you down the Gilbert/hemolysis branch rather than the injury branches.
 
 > ⚠ **Source-provenance flag.** The bilirubin-fractionation branch point, the R-ratio, and the Gilbert rule below (**3–7%** prevalence; presumptive at total bilirubin **<4 mg/dL** with normal enzymes) all come from [[acg-2017-liver-chemistries]], this page's only source. The ALF criteria below are credited separately to [[acg-2023-alf]]. Three items are **not** in any ingested source and remain flagged: the **~2–3 mg/dL** clinical-detection threshold for icterus, **Charcot's triad / Reynolds' pentad**, and **Courvoisier's sign**. Do not treat them as sourced by ACG 2017.
 >
-> **Correction (2026-08-26 lint) — the cholangitis eponyms are not a missing-guideline problem.** The [[tg18-2018-cholangitis-flowchart|Tokyo Guidelines 2018]] and [[asge-2021-cholangitis|ASGE 2021 cholangitis]] guidelines **are** ingested, and full-text search of both PDFs returns **zero** hits for "Charcot," "Reynolds," or "Courvoisier" — the eponyms are absent from the corpus rather than awaiting it, and would need the primary eponymous literature. What *is* sourced is better than the eponyms anyway: the **TG18 diagnostic trigger and the Grade I/II/III severity criteria** live on [[acute-cholangitis]] — use that page, not Charcot's triad, to decide urgency and drainage timing.
+> **Correction (2026-08-26 lint, re-confirmed 2026-09-02) — the cholangitis eponyms are not a missing-guideline problem.** The [[tg18-2018-cholangitis-flowchart|Tokyo Guidelines 2018]] and [[asge-2021-cholangitis|ASGE 2021 cholangitis]] guidelines **are** ingested. A **full-text scan of all 295 non-lecture PDFs in `raw/`** (2026-09-02) returns **zero** hits for "Charcot" and "Courvoisier"; every "Reynold" hit is an author surname, not Reynolds' pentad. The eponyms are absent from the whole corpus rather than awaiting one guideline, and would need the primary eponymous literature. What *is* sourced is better than the eponyms anyway: the **TG18 diagnostic trigger and the Grade I/II/III severity criteria** live on [[acute-cholangitis]] — use that page, not Charcot's triad, to decide urgency and drainage timing.
 
 ---
 
@@ -26,10 +28,23 @@ Conjugated cases are then split by the **R-ratio / pattern of liver enzymes** in
 
 ### Unconjugated (Indirect) Hyperbilirubinemia
 
-- **Hemolysis** — hereditary (G6PD deficiency, spherocytosis, sickle cell) or acquired (autoimmune, microangiopathic); check haptoglobin, LDH, reticulocytes, smear
-- **Gilbert syndrome** — common (3–7% of population), benign; mild unconjugated rise with fasting/illness; **total bilirubin <4 mg/dL** with normal enzymes and CBC → presumptive diagnosis, no further workup
-- **Crigler-Najjar** (rare), ineffective erythropoiesis, resorption of large hematoma
+- **Hemolysis** — hereditary (G6PD deficiency, spherocytosis, sickle cell) or acquired (autoimmune, microangiopathic); reduced haptoglobin, ↑reticulocytes, ↑LDH, smear. **Magnitude check:** hemolysis *infrequently* drives bilirubin **>5 mg/dL** unless there is co-existent renal disease, liver disease, or severe acute hemolysis — a higher bilirubin in isolation argues against pure hemolysis ([[acg-2017-liver-chemistries]]).
+- **Gilbert syndrome** — most common cause of unconjugated hyperbilirubinemia; **3–7% of the US population**; UDP-glucuronyltransferase defect → reduced hepatic conjugation. Total bilirubin **almost never exceeds 6 mg/dL and is usually <3 mg/dL**; fasting or significant illness raises the unconjugated fraction **2- to 3-fold** (falls with eating or phenobarbital). See the presumptive-diagnosis criteria below.
+- **Crigler-Najjar** (rare), ineffective erythropoiesis, resorption of large hematoma, hyperthyroidism, medications, post-transfusion
 - Neonatal/physiologic jaundice (distinct pediatric pathway)
+
+**Presumptive Gilbert — all five must hold ([[acg-2017-liver-chemistries]]):**
+
+| # | Criterion |
+|---|---|
+| 1 | Patient is **asymptomatic and otherwise healthy** |
+| 2 | **Mild unconjugated** hyperbilirubinemia — **total bilirubin <4 mg/dL** |
+| 3 | **Medications** that cause hyperbilirubinemia excluded |
+| 4 | **Evidence of hemolysis** excluded |
+| 5 | **Serum transaminases *and* alkaline phosphatase normal** (both — not transaminases alone) |
+
+- All five met → presumptive Gilbert; **additional evaluation is not routinely necessary**.
+- If the elevation is **persistent and otherwise unexplained** → confirmatory **UGT1A1 genotype** testing, and evaluate the uncommon causes in ACG 2017 Table 6.
 
 ### Conjugated (Direct) — Hepatocellular
 
@@ -61,23 +76,26 @@ Conjugated cases are then split by the **R-ratio / pattern of liver enzymes** in
 ```mermaid
 flowchart TD
     A["Jaundice"] --> B["Fractionate bilirubin + LFTs, CBC"]
-    B -->|"Unconjugated predominant"| C{"Hemolysis labs<br/>(retic, LDH, haptoglobin)?"}
-    C -->|Abnormal| D["Hemolysis workup"]
-    C -->|Normal| E["Gilbert syndrome (benign)"]
+    B -->|"Unconjugated predominant"| C{"Review meds +<br/>hemolysis labs<br/>(retic, LDH, haptoglobin)"}
+    C -->|"Abnormal"| D["Hemolysis workup"]
+    C -->|"Normal, asymptomatic,<br/>bili <4 mg/dL,<br/>AST/ALT + ALP normal"| E["Presumptive Gilbert syndrome<br/>— no further workup"]
+    E -->|"Persistent + unexplained"| E2["UGT1A1 genotype;<br/>uncommon causes"]
     B -->|"Conjugated predominant"| F["R-ratio: hepatocellular<br/>vs cholestatic pattern"]
     F -->|"Hepatocellular (ALT/AST↑)"| G["Viral / alcohol / drug /<br/>autoimmune / ischemic workup"]
     F -->|"Cholestatic (ALP↑)"| H["Right upper quadrant ultrasound"]
     H -->|"Ducts dilated"| I["Extrahepatic obstruction →<br/>MRCP / EUS → ERCP"]
-    H -->|"Ducts not dilated"| J["Intrahepatic cholestasis →<br/>AMA, drug review, MRCP, biopsy"]
+    H -->|"Ducts not dilated"| J["Intrahepatic cholestasis →<br/>AMA + ANA + SMA,<br/>drug review, MRCP"]
+    J -->|"Persistent + unexplained,<br/>symptomatic, worsening,<br/>and/or abnormal transaminases"| K["Liver biopsy"]
 ```
 
 1. **Fractionate bilirubin** and obtain LFTs and CBC.
-2. **Unconjugated** → check **hemolysis labs** (reticulocytes, LDH, haptoglobin, smear). If normal and enzymes normal → **Gilbert syndrome** (no further workup). If hemolytic → hematology workup.
+2. **Unconjugated** → **review medications** and check **hemolysis labs** (reticulocytes, LDH, haptoglobin, smear). If both are clean and the five criteria above are met → **presumptive Gilbert syndrome**, no further workup. If hemolytic → hematology workup.
 3. **Conjugated** → classify by **R-ratio** ([[abnormal-liver-chemistries]]) into hepatocellular vs. cholestatic.
    - **Hepatocellular** → viral serologies ([[hepatitis-c]], [[chronic-hepatitis-b]], A/E), alcohol history, medication/supplement review ([[drug-induced-liver-injury]]), autoimmune markers ([[autoimmune-hepatitis|ANA/SMA/IgG]]), ceruloplasmin in young patients ([[wilson-disease]]).
    - **Cholestatic** → **right upper quadrant ultrasound first** to assess for **biliary dilation**.
 4. **Ducts dilated → extrahepatic obstruction:** characterize with **MRCP** or **[[endoscopic-ultrasound|EUS]]**; proceed to **[[ercp|ERCP]]** for therapeutic relief (stone extraction, stent) and tissue sampling ([[biliary-stricture]]). Cholangitis → urgent drainage + antibiotics; **grade it (TG18 I/II/III) before choosing drainage timing — see [[acute-cholangitis]]**.
-5. **Ducts not dilated → intrahepatic cholestasis:** check **AMA** ([[primary-biliary-cholangitis|PBC]]), MRCP for [[primary-sclerosing-cholangitis|PSC]], review drugs, consider [[liver-biopsy|liver biopsy]].
+5. **Ducts not dilated → intrahepatic cholestasis:** check **AMA, ANA, *and* SMA** ([[primary-biliary-cholangitis|PBC]], [[autoimmune-hepatitis|AIH]]) — ACG 2017 names all three, not AMA alone; MRCP for [[primary-sclerosing-cholangitis|PSC]]; review drugs.
+6. **When to biopsy — the criteria, not just "consider."** [[liver-biopsy|Liver biopsy]] is reserved for a bilirubin elevation (either fraction) that is **persistent and otherwise unexplained** *and* is **symptomatic, worsening over time, and/or associated with abnormal transaminases** ([[acg-2017-liver-chemistries]] Figure 5). A stable, asymptomatic, isolated elevation with normal transaminases does not meet the bar.
 
 ---
 

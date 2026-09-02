@@ -3,7 +3,7 @@ title: "Acute Fatty Liver of Pregnancy"
 category: disease-script
 tags: [pregnancy, acute-fatty-liver, aflp, swansea-criteria, acute-liver-failure, liver-transplant, hpb, liver, dic]
 created: 2026-07-26
-updated: 2026-08-26
+updated: 2026-09-02
 sources: [aga-2024-pregnancy-gi-liver, acg-2016-liver-disease-pregnancy]
 ---
 
@@ -37,6 +37,7 @@ Rare, life-threatening liver disease unique to pregnancy — **microvesicular fa
 
 - Reflects degree of hepatic failure: hypoglycemia, coagulopathy/prolonged PT, **DIC in >75%**, rising creatinine (acute renal failure), and encephalopathy mark severe disease.
 - **Maternal mortality 7%–18%; fetal mortality 9%–23%.** ([[aga-2024-pregnancy-gi-liver]])
+- **Level of care:** in the UK validation cohort **65% required admission to an intensive care or specialty liver unit** (1 death in the series) — plan for critical-care/transplant-centre level of care at diagnosis. ([[acg-2016-liver-disease-pregnancy]])
 
 ## Differential Diagnosis
 

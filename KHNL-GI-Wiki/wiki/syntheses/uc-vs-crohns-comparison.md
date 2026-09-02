@@ -3,13 +3,22 @@ title: "UC vs Crohn's Disease: Comparison"
 category: synthesis
 tags: [uc, crohns, ibd, comparison]
 created: 2026-05-16
-updated: 2026-08-14
+updated: 2026-09-02
 sources: [acg-2025-uc, acg-2025-crohns]
 ---
 
 # UC vs Crohn's Disease: Comparison
 
 *Every row below is what the two cited ACG 2025 guidelines actually state. Classical teaching points that those guidelines do **not** assert are listed separately at the bottom rather than presented as fact.*
+
+## Contents
+- [[#Distinguishing the Two — What the Guidelines Say]]
+  - [[#Serology — usually the wrong test]]
+  - [[#UC disease extent (the classification that drives therapy)]]
+  - [[#CD disease location (the parallel classification)]]
+- [[#Classical Teaching Not Asserted by the Cited Guidelines]]
+- [[#See Also]]
+- [[#Sources]]
 
 ## Distinguishing the Two — What the Guidelines Say
 
@@ -24,7 +33,7 @@ sources: [acg-2025-uc, acg-2025-crohns]
 
 | Feature | [[ulcerative-colitis\|Ulcerative Colitis]] | [[crohns-disease\|Crohn's Disease]] |
 |---|---|---|
-| **Location** | Large intestine; **frequently involves the rectum**, often extending proximally to additional colon [[acg-2025-uc]] | Any part of the luminal GI tract [[acg-2025-crohns]] |
+| **Location** | Large intestine; **frequently involves the rectum**, often extending proximally to additional colon [[acg-2025-uc]] | Any part of the luminal GI tract — **ileal, ileocolonic, or colonic in roughly one-third each** [[acg-2025-crohns]] |
 | **Distribution** | **Continuous** segment from distal rectum extending proximally [[acg-2025-uc]] | **Discontinuous, with skip areas** [[acg-2025-crohns]] |
 | **Depth** | Mucosal [[acg-2025-uc]] | **Transmural** — focal, asymmetric, transmural granulomatous inflammation [[acg-2025-crohns]] |
 | **Rectal involvement** | **Absent in <5% of adults at diagnosis** — but **up to a third of pediatric-onset** disease [[acg-2025-uc]] | **Rectal sparing is a clue to CD** [[acg-2025-crohns]] |
@@ -52,6 +61,22 @@ sources: [acg-2025-uc, acg-2025-crohns]
 | **Extensive colitis** | **Beyond the splenic flexure**, including involvement of the entire colorectum (**pancolitis**) |
 
 - **If the terminal ileum is normal**, further evaluation of stomach and small bowel by [[upper-endoscopy|upper endoscopy]] and cross-sectional imaging is **not needed** — unless other symptoms/findings suggest proximal GI involvement or a diagnosis of CD rather than UC. [[acg-2025-uc]]
+
+### CD disease location (the parallel classification)
+
+CD has no "extent" scheme equivalent to UC's proctitis/left-sided/extensive. What [[acg-2025-crohns]] gives instead is the distribution at presentation and how stable it is:
+
+| Location at presentation | Share of patients |
+|---|---|
+| **Ileal** | ~⅓ |
+| **Ileocolonic** | ~⅓ |
+| **Colonic** | ~⅓ |
+| **Upper GI involvement** (in addition to the above) | **up to a quarter** |
+
+- **Location is stable — that is the decision.** *"The location of CD tends to be stable but can occasionally extend"* (Key concept 5); only **6%–14%** change disease location over time. So the location recorded at diagnosis usually remains the location, and re-mapping the whole gut at every flare is not required.
+- **Location predicts progression:** patients with **ileal, ileocolonic, or proximal GI** involvement are significantly **more likely than those with isolated colonic disease** to progress to an intestinal complication (stricture, abscess, fistula, phlegmon) — up to **half** do so within 20 years of diagnosis (Key concept 6). Extensive anatomic involvement and deep ulcerations are additional risk factors.
+
+> ⚠ **Gap — neither cited guideline defines IBD-unclassified / indeterminate colitis.** Full-text search of [[acg-2025-uc]] and [[acg-2025-crohns]] returns **zero hits** for "unclassified", "indeterminate colitis", or "IBD-U". Both describe colon-only inflammation as *"challenging"* to assign and give the clues above, but neither names a category for, or a management pathway after, an unresolved assignment. Filling this would require ingesting a source that defines it (e.g. an ECCO/Montreal-classification reference) — do not supply the definition from memory.
 
 ## Classical Teaching Not Asserted by the Cited Guidelines
 

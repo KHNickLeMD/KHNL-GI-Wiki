@@ -3,7 +3,7 @@ title: "Acute Hepatic Porphyria"
 category: disease-script
 tags: [porphyria, acute-hepatic-porphyria, aip, hcp, vp, alad, hepatology, metabolic, givosiran, hemin]
 created: 2026-07-20
-updated: 2026-08-25
+updated: 2026-09-02
 sources: [aga-2023-acute-hepatic-porphyria]
 ---
 
@@ -43,7 +43,7 @@ Acute hepatic porphyrias (AHP) are rare inborn errors of heme metabolism in whic
 - **Disease-course strata:** >90% of symptomatic patients have only 1 or a few lifetime attacks; **3%–5% have recurrent attacks, defined as ≥4 attacks/year** — this threshold drives prophylaxis and givosiran eligibility.
 - Recurrent attackers: >50% report chronic neurologic symptoms and 35% carry a neuropathy diagnosis; markedly impaired quality of life; ALA/PBG often elevated at baseline between attacks.
 - **Asymptomatic high excretors** (pathogenic variant + elevated ALA/PBG, no attacks) may still be at increased risk of induced attacks, chronic renal/hepatic injury, and [[hepatocellular-carcinoma|HCC]].
-- Attacks requiring hospital admission define the threshold for IV [[hemin|hemin]] therapy (BPA 4).
+- **Attack severity → treatment threshold:** an attack severe enough to **require hospital admission** is the trigger for IV [[hemin]] (BPA 4 — dose and route under [[#Acute Attack Management]]).
 
 ### Classification / Typing
 - Four AHP types; typing is by the deficient enzyme / gene and confirmed by sequencing. Clinically meaningful distinctions: inheritance pattern, whether PBG is elevated (all except ALAD), and cutaneous involvement (HCP/VP only).
@@ -73,14 +73,14 @@ Acute hepatic porphyrias (AHP) are rare inborn errors of heme metabolism in whic
 
 ### Biochemical Testing
 - **Screening/initial test of choice (BPA 2):** **random (spot) urine ALA, PBG, and creatinine.** A 24-hour collection is **not** recommended.
-- **Diagnostic cutoff:** during acute attacks both **ALA and PBG are elevated ≥5-fold the upper limit of normal**, normalized to urine creatinine (to adjust for urinary concentration).
+- **Diagnostic cutoff:** during acute attacks both **ALA and PBG are elevated ≥5-fold the upper limit of normal**, normalized to urine creatinine (to adjust for urinary concentration). *(The AGA CPU states this as "at least 5-fold" in the text and ">5-fold" in its testing table — treat 5× ULN as the operative boundary.)*
 - **ALAD exception:** in ALAD porphyria **only ALA is elevated** (PBG normal); PBG is elevated in all other AHP types.
 - **Do NOT screen with urine porphyrins alone** — ALA and PBG are porphyrin *precursors* and are not captured by porphyrin assays; secondary porphyrinurias lead to erroneous overdiagnosis.
 - Both ALA and PBG can be measured with high sensitivity and specificity, but assays run at large reference labs (results in 1–2 weeks). Rapid qualitative urine PBG tests exist (Hoesch / Watson-Schwartz; a newer rapid PBG test, Teco Diagnostics).
 
 ### Timing of Testing
 - Testing is **most useful during an acute attack.**
-- **Collect the random urine ALA/PBG/creatinine BEFORE starting IV [[hemin|hemin]]** — hemin normalizes the precursors.
+- **Collect the random urine ALA/PBG/creatinine BEFORE starting IV [[hemin]]** — hemin normalizes the precursors.
 - Unless already treated with hemin, ALA/PBG can be tested days after an attack: in **AIP** they remain elevated for **months–years**; in **HCP/VP** they fall quickly.
 - In **asymptomatic sporadic AIP, 15%–44% have normal urine ALA/PBG** (similar or higher for HCP/VP) → confirmatory testing may require **repeat testing during an acute attack.**
 - In frequent/recurrent attackers, **normal ALA and PBG levels likely rule out AHP** as the cause.
@@ -100,7 +100,7 @@ Acute hepatic porphyrias (AHP) are rare inborn errors of heme metabolism in whic
 ## Therapeutics
 
 ### Acute Attack Management
-- **IV [[hemin|hemin]] (BPA 4)** for attacks severe enough to require admission:
+- **IV [[hemin]] (BPA 4)** for attacks severe enough to require admission:
   - **Dose: 3–4 mg/kg body weight, once daily, typically 4 days** (3–5 days).
   - Give into a **high-flow central vein** (PICC or central port) due to thrombophlebitis; **heme bound to human serum albumin** preferred (stabilization, less venous irritation).
   - Mechanism: down-regulates hepatic ALAS1 → reduced ALA/PBG. Symptom relief typically **48–72 h.**
@@ -119,7 +119,7 @@ Acute hepatic porphyrias (AHP) are rare inborn errors of heme metabolism in whic
 
 ### Prophylaxis for Recurrent Attacks
 - **BPA 7:** for recurrent attacks (**≥4/year**), consider outpatient prophylaxis with **[[hemin|prophylactic heme therapy]]** or **[[givosiran]]**.
-- **Prophylactic IV [[hemin|hemin]]:** off-label; effectiveness at preventing attacks less established than for aborting them; complications include indwelling catheters, infection, and **[[iron-overload-and-iron-metabolism|iron overload]]** (monitor — see below).
+- **Prophylactic IV [[hemin]]:** off-label; effectiveness at preventing attacks less established than for aborting them; complications include indwelling catheters, infection, and **[[iron-overload-and-iron-metabolism|iron overload]]** (monitor — see below).
 - **[[givosiran]]:** ALAS1-specific siRNA-GalNAc, **subcutaneous monthly**; FDA-approved for adults (US), EMA for ≥12 y (EU). Prescribe **only for biochemically AND genetically confirmed** recurrent attacks. **Avoid in pregnancy / pregnancy planning.** Monitor liver enzymes, BUN/creatinine, homocysteine, amylase, lipase; may worsen eGFR in a subset.
 
 ### Liver Transplantation

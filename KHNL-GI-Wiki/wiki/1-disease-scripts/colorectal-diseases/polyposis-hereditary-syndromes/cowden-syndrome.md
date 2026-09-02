@@ -3,7 +3,7 @@ title: "Cowden Syndrome (PTEN Hamartoma Tumor Syndrome)"
 category: disease-script
 tags: [cowden, pten, phts, hamartoma, hereditary-cancer, breast-cancer, thyroid-cancer, endometrial-cancer, colorectal-cancer, genetic-testing]
 created: 2026-05-19
-updated: 2026-09-01
+updated: 2026-09-02
 sources: [acg-2015-hereditary-gi-cancer, aga-2022-hamartomatous-polyposis]
 ---
 
@@ -73,7 +73,7 @@ Cowden syndrome (CS), also called PTEN hamartoma tumor syndrome (PHTS), is cause
 - **CRC risk 9–18% lifetime, mean age 44 (range 35–49)** — this age distribution is the whole argument for starting colonoscopy at 35 rather than 15
 - The cumulative risk of developing **colonic polyps** reaches **70% by age 60**; benign GI polyps were found in 31% of one cohort at mean age 38
 - In a "relaxed" International Cowden Consortium series, **13% of PTEN carriers who underwent colonoscopy developed CRC — all before age 50** (youngest 35), SIR **224.1**
-- **Esophageal glycogenic acanthosis is benign** — there is **no reported increased esophageal cancer risk**
+- **Esophageal glycogenic acanthosis is benign** — there is **no reported increased [[esophageal-cancer|esophageal cancer]] risk**
 
 ---
 
