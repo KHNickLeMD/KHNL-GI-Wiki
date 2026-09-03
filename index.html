@@ -2899,8 +2899,10 @@ function renderMd(text) {
   let i = 0;
   while (i < lines.length) {
     const line = lines[i];
-    // Table
-    if (i+1 < lines.length && lines[i+1].match(/^\s*\|?[\s\-:]+\|/)) {
+    // Table — `line.includes('|')` is load-bearing: a header row whose first cell is
+    // empty ("| | A | B |") also matches the delimiter regex, so without it a blank
+    // line before such a table entered this branch, consumed nothing, and spun forever.
+    if (line.includes('|') && i+1 < lines.length && lines[i+1].match(/^\s*\|?[\s\-:]+\|/)) {
       const tLines = [];
       while (i < lines.length && (lines[i].trim().startsWith('|') || (lines[i].trim() !== '' && lines[i].includes('|')))) {
         if (lines[i].trim() === '') break;
@@ -2981,7 +2983,11 @@ function renderMd(text) {
       !lines[i].match(/^[-*+]\s/) && !lines[i].match(/^\d+\.\s/) &&
       !lines[i].startsWith('```') && !lines[i].startsWith('> ') &&
       !lines[i].trim().startsWith('|')) { pLines.push(lines[i]); i++; }
+    // A line no branch above claims and the paragraph loop rejects (e.g. a stray "|"
+    // table row orphaned by a blockquote mid-table) must still consume a line —
+    // otherwise the outer while spins forever and locks the tab.
     if (pLines.length) html += `<p>${inlineRender(pLines.join(' '))}</p>\n`;
+    else { html += `<p>${inlineRender(line)}</p>\n`; i++; }
   }
   return html;
 }

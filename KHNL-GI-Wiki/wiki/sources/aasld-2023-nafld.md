@@ -43,8 +43,6 @@ The diagnostic core is a **two-tier [[noninvasive-liver-disease-assessment|nonin
 |---|---|---|---|---|
 | Steatosis | Ultrasound | "Detected" | NA | Low sensitivity for mild steatosis |
 | Steatosis | FibroScan CAP | ≥288 **dB/m** | — | Limited quantification accuracy |
-
-> ⚠ **Unit as printed vs unit used.** This guideline's own table prints the CAP cutoff as **"≥ 288 dB/min"**. That is a typesetting error in the source: the newer ingested [[aasld-2025-semaglutide-mash|AASLD 2025 semaglutide guidance]] labels the same parameter **CAP (dB/m)**. The wiki uses **dB/m** on the strength of that in-corpus disagreement, not from outside knowledge; the value (288) is unchanged.
 | Steatosis | MRI-PDFF | ≥5% | <5% | Most sensitive; tracks dynamic change |
 | At-risk NASH | FAST | ≥0.67 | <0.35 | Sens 90% (<0.35), Spec 90% (≥0.67) |
 | At-risk NASH | MAST | ≥0.242 | ≤0.165 | |
@@ -60,6 +58,8 @@ The diagnostic core is a **two-tier [[noninvasive-liver-disease-assessment|nonin
 | Cirrhosis | ELF | ≥11.3 | <7.7 | ELF ≥11.3 → ↑ risk of hepatic decompensation |
 | Cirrhosis | VCTE | ≥20 kPa | <8 kPa | LSM ≥20 associated with cirrhosis |
 | Cirrhosis | MRE | ≥5 kPa | <3 kPa | ~95% specificity; predicts decompensation |
+
+> ⚠ **Unit as printed vs unit used.** This guideline's own table prints the CAP cutoff as **"≥ 288 dB/min"**. That is a typesetting error in the source: the newer ingested [[aasld-2025-semaglutide-mash|AASLD 2025 semaglutide guidance]] labels the same parameter **CAP (dB/m)**. The wiki uses **dB/m** on the strength of that in-corpus disagreement, not from outside knowledge; the value (288) is unchanged.
 
 ## Guidance Statements (verbatim)
 
