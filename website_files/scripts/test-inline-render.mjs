@@ -10,7 +10,7 @@ import vm from 'node:vm';
 const html = readFileSync(join(dirname(fileURLToPath(import.meta.url)), '../../index.html'), 'utf8');
 
 // Pull the four functions under test straight out of the page so the test can't drift from it.
-const src = ['inlineRender', 'escHtml', 'unescHtml', 'jsStr', 'safeUrl', 'renderTable']
+const src = ['inlineRender', 'escHtml', 'unescHtml', 'jsStr', 'safeUrl', 'renderTable', 'renderList', 'renderMd']
   .map(fn => {
     const start = html.indexOf(`\nfunction ${fn}(`);
     assert.notStrictEqual(start, -1, `${fn} not found in index.html`);
@@ -60,4 +60,17 @@ for (const pipe of ['|', '\\|']) {
 // A real column separator still separates.
 assert.strictEqual((table('| a | b |\n| --- | --- |\n| x | y |').match(/<td>/g) || []).length, 2);
 
+// renderMd must always consume a line. Two shapes used to spin its while loop forever
+// and lock the tab at "Loading wiki..." — a header row with an empty first cell (it
+// matches the delimiter regex, so the blank line before it entered the table branch),
+// and a stray "|" row no branch claims (a blockquote splitting a table). vm's timeout
+// turns a hang into a test failure instead of a hung CI job.
+// The call itself must run inside the vm — a timeout on `runInContext('renderMd')`
+// would only time the identifier lookup, not the render.
+const renderMd = md => { ctx.__md = md; return vm.runInContext('renderMd(__md)', ctx, { timeout: 5000 }); };
+const emptyFirstCell = '\n| | A | B |\n|---|---|---|\n| x | 1 | 2 |\n';
+assert.strictEqual((renderMd(emptyFirstCell).match(/<td>/g) || []).length, 3);
+assert.match(renderMd('| a | b |\n|---|---|\n| x | y |\n\n> note\n| orphan | row |\n'), /orphan/);
+
 console.log('inlineRender escaping OK');
+console.log('renderMd terminates OK');
