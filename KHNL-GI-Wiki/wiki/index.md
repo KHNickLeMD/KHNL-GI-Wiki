@@ -653,6 +653,46 @@ updated: 2026-08-30
 
 ---
 
+## Coverage Gaps
+
+Topics with no page yet. The lint cron creates **1–2 per pass** from the top of *Fillable now*, using only the sources listed. See `CLAUDE.md` → LINT → *Fill coverage gaps from the queue*.
+
+### Fillable now (ingested sources exist)
+1. `5-meds/anti-tnf-agents` — infliximab, adalimumab, certolizumab, golimumab — [[acg-2025-crohns]], [[acg-2019-uc]], [[aga-2021-crohns-pharm]]
+2. `5-meds/vedolizumab` — [[acg-2025-crohns]], [[acg-2019-uc]]
+3. `5-meds/il-23-and-il-12-23-inhibitors` — ustekinumab, risankizumab, mirikizumab, guselkumab — [[acg-2025-crohns]], [[acg-2019-uc]]
+4. `5-meds/jak-inhibitors` — tofacitinib, upadacitinib — [[acg-2019-uc]], [[acg-2025-crohns]]
+5. `5-meds/mesalamine-5-asa` — [[acg-2019-uc]], [[acg-2025-crohns]]
+6. `5-meds/corticosteroids-ibd` — systemic + budesonide — [[acg-2025-crohns]], [[acg-2019-uc]], [[aasld-2020-autoimmune-hepatitis]]
+7. `5-meds/methotrexate` — [[acg-2025-crohns]], [[acg-2019-uc]], [[acg-2021-dili]]
+8. `5-meds/nonselective-beta-blockers` — carvedilol, propranolol, nadolol — [[aasld-2023-portal-hypertension]], [[baveno-vii-2022-portal-hypertension]]
+9. `5-meds/terlipressin` — [[aasld-2021-ascites-sbp-hrs]], [[aasld-2024-aclf]]
+10. `5-meds/lactulose` — [[aasld-easl-2014-hepatic-encephalopathy]], [[aasld-2024-aclf]]
+11. `5-meds/ursodeoxycholic-acid` — + PBC second-line agents — [[aasld-2021-pbc]], [[aasld-2018-pbc]]
+12. `5-meds/hbv-nucleoside-analogs` — entecavir, tenofovir — [[aasld-idsa-2025-chb-treatment]]
+13. `5-meds/cdiff-antibiotics` — fidaxomicin, vancomycin, bezlotoxumab — [[acg-2021-cdiff]], [[aga-2026-cdiff-ibd]]
+14. `5-meds/eoe-therapies` — topical steroids, dupilumab — [[acg-2025-eoe]], [[aga-2020-eoe]]
+15. `4-advanced-gi-procedures/foregut-and-motility-procedures/transoral-incisionless-fundoplication` — [[afs-2023-transoral-incisionless-fundoplication]], [[asge-2024-gerd]]
+16. `4-advanced-gi-procedures/hepatobiliary-procedures/pancreatic-fluid-collection-drainage` — cyst drainage + necrosectomy — [[asge-2016-pancreatic-fluid-collections]], [[aga-2020-cpu-pancreatic-necrosis]], [[acg-2024-acute-pancreatitis]]
+17. `4-advanced-gi-procedures/hepatobiliary-procedures/eus-guided-biliary-drainage` — [[acg-2023-biliary-strictures]], [[acg-2025-eus-quality]]
+18. `4-advanced-gi-procedures/hepatobiliary-procedures/celiac-plexus-block` — [[acg-2020-chronic-pancreatitis]], [[asge-2016-solid-pancreatic-neoplasia]]
+19. `4-advanced-gi-procedures/colorectal-procedures/colonic-stenting` — [[kanaka-2022-colonic-stent-bts-right-sided]], [[nccn-2026-colon-cancer]]
+20. `1-disease-scripts/colorectal-diseases/inflammation/perianal-fistulizing-crohns-disease` — [[acg-2025-crohns]], [[aga-2021-crohns-pharm]]
+21. `1-disease-scripts/hepatology-diseases/alcohol-associated-hepatitis` — [[acg-2024-ald]], [[aasld-2020-ald]], [[lee-2018-accelerate-ah]]
+22. `1-disease-scripts/hepatology-diseases/hepatic-hydrothorax` — [[aasld-2021-ascites-sbp-hrs]], [[aasld-2024-tips]], [[aga-2025-ascites-cirrhosis]]
+23. `1-disease-scripts/hepatology-diseases/igg4-related-cholangitis` — [[aasld-2022-psc]], [[acg-2015-psc]]
+24. `1-disease-scripts/foregut-and-motility-diseases/gastric/gastric-antral-vascular-ectasia` — [[aasld-2023-portal-hypertension]]
+25. `1-disease-scripts/foregut-and-motility-diseases/gastric/functional-dyspepsia` — [[acg-cag-2017-dyspepsia]], [[rome-v-2026-dgbi]]
+26. `1-disease-scripts/foregut-and-motility-diseases/esophageal/esophageal-stricture` — [[acg-2025-egd-quality]], [[acg-2025-eoe]]
+27. `3-general-gi-procedures/endoscopic-hemostasis` — clips, thermal, hemostatic powder, band ligation — [[acg-2023-lgib]], [[acg-2021-ugib]], [[aasld-2023-portal-hypertension]]
+28. `3-general-gi-procedures/bowel-preparation` — [[usmstf-2025-bowel-prep]], [[asge-2015-bowel-preparation]]
+29. `7-concepts/colonoscopy-quality-indicators` — ADR, withdrawal time, cecal intubation — [[acg-2021-crc-screening]], [[aga-2025-cade-colonoscopy]]
+
+### Needs a source (do not write from general knowledge)
+- Anal cancer / HSIL screening; checkpoint-inhibitor colitis; pyogenic/amebic liver abscess; hepatitis A; hepatitis E; autoimmune pancreatitis; short bowel syndrome / intestinal failure; small bowel obstruction; chronic intestinal pseudo-obstruction; Zenker's diverticulum; Dieulafoy lesion; Mallory-Weiss; caustic/pill esophagitis; Zollinger-Ellison; gallbladder polyps; choledochal cysts; acalculous cholecystitis; alpha-1 antitrypsin deficiency; ischemic/congestive hepatopathy; STEC/HUS; CMV colitis; Whipple disease; anorectal abscess/fistula (non-IBD); pruritus ani; solitary rectal ulcer; all of `6-anatomy/`.
+
+---
+
 ## Syntheses
 
 - [[uc-vs-crohns-comparison]] — UC vs. Crohn's: side-by-side comparison rebuilt strictly from ACG 2025 — colon-only inflammation clues, granulomas in only ≤33% (not pathognomonic), perianal CD 10–26% (not 30–40%), ANCA/ASCA explicitly not for diagnosis, UC extent categories; classical teaching not in the guidelines listed separately as unsourced (2 sources)

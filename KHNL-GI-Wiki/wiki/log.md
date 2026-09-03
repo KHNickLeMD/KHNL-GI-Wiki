@@ -6,6 +6,12 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## 2026-09-03 — Schema: lint fills coverage gaps from a queue, 1–2 pages per pass
+
+**Principle (Nick):** gap-filling is part of lint, but slowly — *"don't fill EVERY gap each time you lint... limit page creation to 1-2 pages depending on credit usage."*
+
+**Encoded in `CLAUDE.md` → LINT** as *Fill coverage gaps from the queue — slowly*. Queue lives in `wiki/index.md` → *Coverage Gaps*: 29 fillable topics (each with its ingested sources) ordered IBD meds → hepatology meds → other meds → advanced procedures → diseases → procedure basics; plus a *Needs a source* list that is never written from general knowledge. Audit that produced it: gaps were mostly drug classes and techniques left embedded inside disease pages, not missing sources.
+
 ## [2026-08-30] lint | 15 index entries were mislabelling built pages as stubs; `pneumatic-dilation` created; four unsourced or mis-transcribed clinical claims corrected against raw PDFs
 
 **Ingest status:** working tree clean; **no new inbox files** (newest `raw/` files remain 2026-08-27, all ingested; `raw/assets/` 68/68 tracked). Independent raw-vs-`wiki/sources/` diff over all 354 raw files reproduced the prior pass's result — the 5 weak filename matches are the same already-verified ingests. **The only uningested material is the gated lecture/chalk-talk corpus (34 transcripts). No ingest this pass.**
