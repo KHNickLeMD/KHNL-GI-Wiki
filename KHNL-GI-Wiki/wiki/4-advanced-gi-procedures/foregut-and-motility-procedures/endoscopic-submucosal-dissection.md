@@ -3,7 +3,7 @@ title: "Endoscopic Submucosal Dissection (Esophagogastric)"
 category: advanced-procedure
 tags: [esd, endoscopic-resection, emr, early-gastric-cancer, early-esophageal-cancer, en-bloc, r0-resection]
 created: 2026-06-27
-updated: 2026-08-31
+updated: 2026-09-03
 sources: [asge-2023-esd]
 ---
 
@@ -93,6 +93,8 @@ Meta-analysis (8 observational studies; 821 ESD vs 1306 EMR):
 - **After piecemeal resection or a positive margin:** higher recurrence risk → **take biopsy samples** at surveillance rather than relying on inspection alone.
 - **Long-term surveillance is warranted** in all cases (metachronous risk). Also follow lesion-/organ-specific schedules (see [[barretts-esophagus]], [[gastric-adenocarcinoma]], [[colorectal-cancer]]).
 - **Recurrent/metachronous early gastric cancer:** no confident ESD-vs-surgery conclusion (studies did not separate true recurrence from incomplete resection); EMR-vs-ESD data clearly favour **ESD**. Decide at a **multidisciplinary meeting**.
+
+---
 
 ## See Also
 

@@ -3,9 +3,22 @@ title: "Gastric Adenocarcinoma"
 category: disease-script
 tags: [gastric-cancer, gastric-adenocarcinoma, gastric, malignancy, her2, pd-l1, msi-h, dmmr, claudin-18.2, flot, gastrectomy, endoscopic-resection, trastuzumab, zolbetuximab, nccn, oncology]
 created: 2026-06-01
-updated: 2026-09-02
+updated: 2026-09-03
 sources: [nccn-2026-gastric-cancer, asge-2015-gastric-premalignant, asge-2023-esd]
 ---
+
+## Contents
+- [[#Assessment]]
+  - [[#Establishing the Diagnosis]]
+  - [[#Severity Assessment (AJCC 8th ed. TNM staging)]]
+  - [[#Classification / Typing]]
+- [[#Differential Diagnosis]]
+- [[#Diagnostics]]
+  - [[#Biomarker Testing]]
+- [[#Therapeutics]]
+  - [[#NCCN Treatment Algorithm]]
+- [[#See Also]]
+- [[#Sources]]
 
 ## Assessment
 

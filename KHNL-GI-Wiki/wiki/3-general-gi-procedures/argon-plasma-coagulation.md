@@ -3,7 +3,7 @@ title: "Argon Plasma Coagulation (APC)"
 category: general-procedure
 tags: [argon-plasma-coagulation, apc, endoscopic-hemostasis, thermal-therapy, ablation, gave, angioectasia, radiation-proctopathy]
 created: 2026-07-24
-updated: 2026-08-30
+updated: 2026-09-03
 sources: [asge-2019-radiation-proctopathy, asge-2010-anorectal-disorders, asge-2014-lgib, acg-2023-lgib, acg-2021-ugib, acg-2015-small-bowel-bleeding, asge-2017-small-bowel-bleeding, aga-2024-ida-management, baveno-vii-2022-portal-hypertension, usmstf-2020-endoscopic-removal, asge-2020-endoscopic-removal, asge-2015-ampullary-duodenal-adenomas, asge-2018-barretts-eet, aga-2024-barretts-eet, asge-2016-antithrombotic]
 ---
 
@@ -115,6 +115,8 @@ Unresolved: no ingested source reports a trial of APC vs sham or of treating onl
 - **Radiation proctopathy — APC's status changed.** [[asge-2010-anorectal-disorders]] suggested **APC as first-line**; the newer [[asge-2019-radiation-proctopathy]] found **insufficient evidence to prefer any modality** among APC, bipolar, heater probe, and RFA. The 2019 position is what this page asserts. The 2010 document also cited older settings (25–60 W, 0.5–2.5 L/min, 1–3 sessions, bleeding reduced in 80–90%).
 - **Colon settings drifted downward.** [[asge-2014-lgib]] cited 30–45 W with 1 L/min for the right colon; [[acg-2023-lgib]] states 20–40 W with 0.8–1.0 L/min is typically used in the colon. Follow the newer figures, and check the generator's built-in site-specific presets.
 - **Barrett's:** APC was the ablative modality in the trials underpinning the "ablate the residual segment" recommendation, but both [[asge-2018-barretts-eet]] and [[aga-2024-barretts-eet]] state RFA is the current standard.
+
+---
 
 ## See Also
 

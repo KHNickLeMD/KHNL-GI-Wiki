@@ -3,9 +3,35 @@ title: "Achalasia"
 category: disease-script
 tags: [achalasia, esophageal-motility, dysphagia, hrm, poem, heller-myotomy, pneumatic-dilation, foregut]
 created: 2026-05-15
-updated: 2026-08-30
+updated: 2026-09-03
 sources: [acg-2020-achalasia, asge-2020-achalasia, sages-2021-poem, sages-2024-poem, aga-2024-poem-advances, aga-2024-esophageal-immunity-infection, chicago-v4-2021-esophageal-dysmotility]
 ---
+
+## Contents
+- [[#Assessment]]
+  - [[#Establishing the Diagnosis]]
+  - [[#Severity Assessment]]
+  - [[#Classification / Typing (Chicago Classification — clinically essential)]]
+- [[#Differential Diagnosis]]
+- [[#Diagnostics]]
+  - [[#HRM (High-Resolution Manometry)]]
+  - [[#Timed Barium Esophagram (TBE)]]
+  - [[#Upper Endoscopy]]
+  - [[#FLIP (Functional Lumen Imaging Probe)]]
+- [[#Therapeutics]]
+  - [[#Treatment Algorithm]]
+  - [[#Pneumatic Dilation (PD)]]
+  - [[#Laparoscopic Heller Myotomy (LHM)]]
+  - [[#Per-Oral Endoscopic Myotomy (POEM)]]
+  - [[#Botulinum Toxin Injection]]
+  - [[#Pharmacotherapy]]
+  - [[#Self-Expanding Metal Stents (SEMS)]]
+  - [[#Esophagectomy]]
+  - [[#Post-Therapy Monitoring and Retreatment]]
+  - [[#Cancer Surveillance]]
+- [[#See Also]]
+- [[#Sources]]
+
 ## Assessment
 
 ### Establishing the Diagnosis

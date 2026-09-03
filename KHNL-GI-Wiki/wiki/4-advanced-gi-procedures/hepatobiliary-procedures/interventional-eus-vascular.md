@@ -3,7 +3,7 @@ title: "Interventional EUS for Vascular Investigation and Therapy"
 category: advanced-procedure
 tags: [eus, gastric-varices, coil-embolization, cyanoacrylate, eus-ppg, portal-pressure-gradient, portal-vein-sampling, pseudoaneurysm, splenic-artery-embolization, rectal-varices, portal-hypertension]
 created: 2026-07-23
-updated: 2026-09-01
+updated: 2026-09-03
 sources: [aga-2023-interventional-eus-vascular, wang-2026-eus-ppg-delphi-consensus]
 ---
 
@@ -30,7 +30,7 @@ sources: [aga-2023-interventional-eus-vascular, wang-2026-eus-ppg-delphi-consens
 | Intervention | Status | Evidence base |
 |---|---|---|
 | Gastric variceal coil ± glue | Clinically available; **strongest case for adoption at centers of expertise** | 3 retrospective series, 2 small RCTs, meta-analyses |
-| EUS-PPG | Clinically available (FDA-approved device) | Case series to 83 patients; no reported AEs |
+| EUS-PPG | Clinically available (FDA-approved device); **43-statement international Delphi consensus now published** | Largest multicenter series **n=385** (zero bleeding events, no platelet/INR exclusion); aggregate AEs **<1%** ([[wang-2026-eus-ppg-delphi-consensus]]) |
 | Ectopic/rectal varices | Emerging | Case reports + 1 small series |
 | Splenic artery embolization | Emerging | 5-patient series |
 | Arterial bleeding / pseudoaneurysms | Emerging (salvage) | 6- and 8-patient series |
@@ -115,8 +115,8 @@ International expert modified-Delphi consensus (53 statements) on how to perform
 
 **Pre-procedure:**
 - **Anesthesia:** monitored anesthesia care or general anesthesia to minimize movement (S13); keep anesthesia at steady state — avoid boluses during measurements (S41–43).
-- **Coagulation (S11):** **no specific platelet or INR cutoff** can be recommended — these poorly reflect procedural bleeding risk in [[cirrhosis]]; where available, **TEG/TEM** better predicts bleeding risk. (Departs from the platelet <50 K / INR >2.0 thresholds used for other EUS procedures.)
-- **[[ascites|Ascites]]:** avoid with tense/massive ascites; reasonable in grade 1–2, consider pre-procedural large-volume paracentesis if feasible (S6, S12).
+- **Coagulation (S11):** **no specific platelet or INR cutoff** can be recommended — these poorly reflect procedural bleeding risk in [[cirrhosis]]; where available, **TEG/TEM** better predicts bleeding risk (why conventional coagulation tests mislead in cirrhosis: [[cirrhosis-hemostasis]]). (Departs from the platelet <50 K / INR >2.0 thresholds used for other EUS procedures.)
+- **[[ascites|Ascites]]:** avoid with tense/massive ascites; reasonable in **grade 1–2** — i.e. ascites detectable only on ultrasound (grade 1) or causing symmetric distension (grade 2), **not** the marked distension of grade 3; the grading table lives on [[ascites]]. Consider pre-procedural large-volume paracentesis if feasible (S6, S12).
 
 **Intra-procedure protocol (S18–43):**
 
@@ -165,7 +165,7 @@ International expert modified-Delphi consensus (53 statements) on how to perform
 
 ## See Also
 
-[[endoscopic-ultrasound]], [[variceal-upper-gi-bleeding]], [[portal-hypertension]], [[hepatic-venous-pressure-gradient]], [[tips]], [[cirrhosis]], [[liver-biopsy]], [[portal-vein-thrombosis]], [[eus-guided-gallbladder-drainage]], [[ascites]], [[noninvasive-liver-disease-assessment]], [[antibiotic-prophylaxis-endoscopy]]
+[[endoscopic-ultrasound]], [[variceal-upper-gi-bleeding]], [[portal-hypertension]], [[hepatic-venous-pressure-gradient]], [[tips]], [[cirrhosis]], [[liver-biopsy]], [[portal-vein-thrombosis]], [[eus-guided-gallbladder-drainage]], [[ascites]], [[cirrhosis-hemostasis]], [[noninvasive-liver-disease-assessment]], [[antibiotic-prophylaxis-endoscopy]]
 
 ---
 

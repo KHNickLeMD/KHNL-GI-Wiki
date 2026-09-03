@@ -3,7 +3,7 @@ title: "FLIP Panometry"
 category: advanced-procedure
 tags: [FLIP, panometry, esophageal-motility, EGJ, functional-lumen-imaging, achalasia, EGJOO, foregut]
 created: 2026-05-15
-updated: 2026-08-31
+updated: 2026-09-03
 sources: [dallas-2025-flip-panometry, aga-2025-flip-esophageal]
 ---
 
@@ -232,10 +232,10 @@ Where the numbers actually change management ([[aga-2025-flip-esophageal]]):
 |---|---|---|
 | **Intra-procedural**, during [[poem\|POEM]]/[[heller-myotomy\|LHM]] (BPA 9) | EGJ-DI **<2–3 mm²/mmHg** | May predict persisting symptoms → **prompt additional myotomy** |
 | Intra-procedural | **High** EGJ-DI | Associated with post-op reflux / erosive esophagitis after LHM or POEM |
-| **Persistent obstructive symptoms after achalasia treatment** (BPA 10) | EGJ-DI **<2–3 mm²/mmHg** | Higher Eckardt scores, suboptimal emptying → ineffective/incomplete LES disruption → supports **additional LES-directed therapy** |
+| **Persistent obstructive symptoms after achalasia treatment** (BPA 10) | EGJ-DI **<2–3 mm²/mmHg** | Higher **Eckardt** scores (score structure and bands: [[achalasia]]), suboptimal emptying → ineffective/incomplete LES disruption → supports **additional LES-directed therapy** |
 | Same setting | **NEO** | Look for alternate explanations — esophageal body anatomy, GERD |
 | **After ARS** (BPA 11) | EGJ-DI **<2 mm²/mmHg** | Associated with dysphagia symptoms (cohort of 175) |
-| Intra-operative target during ARS | **Toupet 2.6–3.7**; **Nissen >2.2 mm²/mmHg** | *Proposed* ranges — may guide deferring fundoplication, changing ARS type, or loosening/tightening the wrap |
+| Intra-operative target during ARS | **Toupet 2.6–3.7 mm²/mmHg**; **Nissen >2.2 mm²/mmHg** | *Proposed* ranges — may guide deferring fundoplication, changing ARS type, or loosening/tightening the wrap |
 
 - EGJ-DI rises dramatically during/immediately after POEM or LHM, then falls by 12 months but stays above pre-op values. **No consensus target threshold after myotomy exists** — the source explicitly calls this an open question.
 - Tightness of **hiatal closure** affects DI more than the fundoplication itself.
@@ -261,7 +261,7 @@ Where the numbers actually change management ([[aga-2025-flip-esophageal]]):
 
 ## Key Clinical Rules
 
-1. **FLIP does not replace HRM for achalasia subtyping** — HRM (Chicago Classification) defines Type I/II/III and guides [[poem|POEM]] vs. PD vs. [[heller-myotomy|LHM]] selection
+1. **FLIP does not replace HRM for achalasia subtyping** — HRM ([[chicago-classification-v4|Chicago Classification v4.0]]) defines Type I/II/III and guides [[poem|POEM]] vs. [[pneumatic-dilation|pneumatic dilation]] vs. [[heller-myotomy|LHM]] selection
 2. **Normal FLIP excludes achalasia** — a clinically actionable high-NPV result when achalasia is a concern at time of endoscopy
 3. **REO = EGJOO equivalent** — manage as outflow obstruction; HRM for subtyping if not yet done
 4. **Inconclusive EGJ Opening** — report numerically; correlate with symptoms and TBE; consider HRM
@@ -271,7 +271,7 @@ Where the numbers actually change management ([[aga-2025-flip-esophageal]]):
 
 ## See Also
 
-[[achalasia]], [[high-resolution-manometry]], [[chicago-classification-v4]], [[ineffective-esophageal-motility]], [[esophagogastric-junction-outflow-obstruction]], [[distal-esophageal-spasm]], [[hypercontractile-esophagus]], [[hrm-antireflux-surgery]], [[antireflux-surgery]], [[poem]], [[heller-myotomy]], [[gerd]], [[reflux-testing]], [[eosinophilic-esophagitis]], [[dysphagia]], [[upper-endoscopy]], [[endoscopic-ultrasound]], [[bariatric-surgery]], [[hiatal-hernia]], [[endoscopy-sedation]], [[disorders-of-gut-brain-interaction]]
+[[achalasia]], [[high-resolution-manometry]], [[chicago-classification-v4]], [[ineffective-esophageal-motility]], [[esophagogastric-junction-outflow-obstruction]], [[distal-esophageal-spasm]], [[hypercontractile-esophagus]], [[hrm-antireflux-surgery]], [[antireflux-surgery]], [[poem]], [[heller-myotomy]], [[pneumatic-dilation]], [[gerd]], [[reflux-testing]], [[eosinophilic-esophagitis]], [[dysphagia]], [[upper-endoscopy]], [[endoscopic-ultrasound]], [[bariatric-surgery]], [[hiatal-hernia]], [[endoscopy-sedation]], [[disorders-of-gut-brain-interaction]]
 
 ---
 

@@ -3,7 +3,7 @@ title: "Drug-Induced Liver Injury (Idiosyncratic)"
 category: disease-script
 tags: [dili, drug-induced-liver-injury, hepatotoxicity, hds, ici, immune-checkpoint, hpb, liver]
 created: 2026-05-16
-updated: 2026-08-30
+updated: 2026-09-03
 sources: [acg-2021-dili, acg-2017-liver-chemistries, aasld-2022-dili]
 ---
 
@@ -183,7 +183,7 @@ CTCAE grade criteria (ALT / bilirubin cutoffs) and the grade-directed hold/stero
 ### Methotrexate — monitoring thresholds ([[aasld-2022-dili]])
 
 - Risk factors for accelerated methotrexate liver injury: **active alcohol use, pre-existing liver disease, diabetes, hyperlipidemia, [[obesity]]**.
-- **After 3.5–4.0 g cumulative dose exposure** → transient elastography and/or [[liver-biopsy|liver biopsy]] recommended for **all** methotrexate recipients.
+- **After 3.5–4.0 g cumulative dose exposure** → [[liver-stiffness-measurement|transient elastography]] and/or [[liver-biopsy|liver biopsy]] recommended for **all** methotrexate recipients.
 - Laboratory monitoring baseline then **every 3–6 months** (2020 dermatology/psoriasis guidance); that guidance also advises **FIB-4 and transient elastography at baseline and annually** in patients with hepatotoxicity risk factors. ACR 2008 rheumatoid arthritis schedule was baseline → every 2–4 weeks for the first 3 months → every 8–12 weeks for 3–6 months → every 12 weeks thereafter.
 - **AASLD guidance statement 57:** **annual liver elastography** is recommended to monitor hepatotoxicity of drugs like methotrexate that cause *silent fibrosis* — explicitly **not** generalizable to most other DILI-causing drugs.
 - 2021 ACR guidance restricts methotrexate in suspected [[nafld-masld|NAFLD]] to those with **normal liver tests and no advanced fibrosis (stage 3–4)** on noninvasive testing.
@@ -200,7 +200,7 @@ CTCAE grade criteria (ALT / bilirubin cutoffs) and the grade-directed hold/stero
 
 ## See Also
 
-[[abnormal-liver-chemistries]], [[acute-liver-failure]], [[autoimmune-hepatitis]], [[inflammatory-bowel-disease]], [[nafld-masld]], [[primary-biliary-cholangitis]], [[primary-sclerosing-cholangitis]], [[wilson-disease]], [[budd-chiari-syndrome]], [[immune-checkpoint-inhibitor-hepatitis]], [[chronic-hepatitis-b]], [[hepatitis-c]], [[liver-biopsy]], [[jaundice]], [[liver-transplantation]], [[ercp]], [[cirrhosis]], [[obesity]]
+[[abnormal-liver-chemistries]], [[acute-liver-failure]], [[autoimmune-hepatitis]], [[inflammatory-bowel-disease]], [[nafld-masld]], [[primary-biliary-cholangitis]], [[primary-sclerosing-cholangitis]], [[wilson-disease]], [[budd-chiari-syndrome]], [[immune-checkpoint-inhibitor-hepatitis]], [[chronic-hepatitis-b]], [[hepatitis-c]], [[liver-biopsy]], [[liver-stiffness-measurement]], [[jaundice]], [[liver-transplantation]], [[ercp]], [[cirrhosis]], [[obesity]]
 
 ---
 

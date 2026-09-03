@@ -3,7 +3,7 @@ title: "Obesity"
 category: disease-script
 tags: [obesity, weight-management, metabolic, semaglutide, glp1, intragastric-balloon]
 created: 2026-06-04
-updated: 2026-09-02
+updated: 2026-09-03
 sources: [aga-2022-obesity-pharm, aga-2021-intragastric-balloons]
 ---
 
@@ -60,7 +60,7 @@ sources: [aga-2022-obesity-pharm, aga-2021-intragastric-balloons]
 
 | Agent | AGA position | Prefer it when | Avoid / caution | Monitoring |
 |---|---|---|---|---|
-| **[[semaglutide\|semaglutide 2.4 mg]]** | Suggested (moderate) | **May be prioritized over other agents for most patients** given the magnitude of net benefit; glucoregulatory benefit, also approved for T2DM | [[glp-1-receptor-agonists\|GLP-1 RAs]] carry increased risk of **pancreatitis and gallbladder disease**; delayed gastric emptying → nausea/vomiting (**gradual dose titration** mitigates) | — |
+| **[[semaglutide\|semaglutide 2.4 mg]]** | Suggested (moderate) | **May be prioritized over other agents for most patients** given the magnitude of net benefit; glucoregulatory benefit, also approved for T2DM | [[glp-1-receptor-agonists\|GLP-1 RAs]] carry increased risk of **[[acute-pancreatitis\|pancreatitis]] and [[acute-cholecystitis\|gallbladder disease]]**; delayed gastric emptying → nausea/vomiting (**gradual dose titration** mitigates) | — |
 | **liraglutide 3.0 mg** | Suggested (moderate) | Glucoregulatory benefit; also approved for T2DM | Same GLP-1 class risks (pancreatitis, gallbladder disease, delayed gastric emptying) | — |
 | **phentermine-topiramate ER** | Suggested (moderate) | Comorbid **migraine** (topiramate treats migraine) | **Avoid with a history of cardiovascular disease or uncontrolled hypertension.** Topiramate is **teratogenic** — counsel women of childbearing potential to use effective contraception consistently | **BP and heart rate periodically** (true of any phentermine-containing regimen) |
 | **naltrexone-bupropion ER** | Suggested (moderate) | Patient **attempting smoking cessation**; patient with **depression** | **Avoid in seizure disorders**, use with caution if at risk of seizures. **Do not use concomitantly with opiates** | BP and heart rate periodically, **especially the first 12 weeks** |
@@ -90,7 +90,7 @@ sources: [aga-2022-obesity-pharm, aga-2021-intragastric-balloons]
 
 ## See Also
 
-[[semaglutide]], [[glp-1-receptor-agonists]], [[intragastric-balloon]], [[bariatric-surgery]], [[nafld-masld]], [[proton-pump-inhibitors]]
+[[semaglutide]], [[glp-1-receptor-agonists]], [[intragastric-balloon]], [[bariatric-surgery]], [[nafld-masld]], [[proton-pump-inhibitors]], [[acute-pancreatitis]], [[acute-cholecystitis]]
 
 ---
 

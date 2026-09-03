@@ -3,7 +3,7 @@ title: "Endoscopic Submucosal Dissection (Colorectal)"
 category: advanced-procedure
 tags: [esd, hybrid-esd, endoscopic-resection, en-bloc, colorectal, t1-crc, malignant-polyp, submucosal-invasion, eftr]
 created: 2026-08-11
-updated: 2026-08-30
+updated: 2026-09-03
 sources: [usmstf-2020-endoscopic-removal, aga-2025-endoscopic-resection-crc]
 ---
 
@@ -66,14 +66,15 @@ Most colorectal neoplasms are benign and resectable by piecemeal [[endoscopic-mu
 
 1. Complete resection with histopathologic margins free of tumor
 2. Superficial SMI (<1000 μm)
-3. Absence of [[colorectal-cancer|lymphovascular invasion]] (LVI)
+3. Absence of [[polypectomy|lymphovascular invasion]] (LVI)
 4. Well-to-moderately differentiated histology (G1/G2)
 5. Low tumor budding — **Bd 1 (0–4 buds)**; **Bd 2 (5–9)** or **Bd 3 (≥10)** is high-risk (Zwager meta-analysis: **OR 2.83** for LNM). Definition, grading, and the reproducibility caveat live on [[polypectomy]].
 
 ### Deep SMI — Solitary Risk Reappraised
 
 - Deep SMI (≥1000 μm) has traditionally triggered surgery, but emerging data downgrade it **as a solitary criterion**: >95% of patients with deep SMI as the *only* high-risk feature have no LNM.
-- Meta-analysis (Zwager et al, 8 studies, 1146 pts): SMI as a solitary risk factor → absolute LNM risk **2.6%** (pooled incidence 2.83; 95% CI 1.66–4.78); deep SMI was **not** an independent predictor of LNM; 37.9% of deep-SMI cancers had no other high-risk feature.
+- Meta-analysis (Zwager et al, 8 studies, 1146 pts): SMI as a solitary risk factor → absolute LNM risk **2.6%**, **pooled incidence rate 2.83 (95% CI 1.66–4.78)**; deep SMI was **not** an independent predictor of LNM; 37.9% of deep-SMI cancers had no other high-risk feature.
+  - *⚠ Not a transcription error: the same Zwager meta-analysis yields **2.83** twice, in two different statistics — the **pooled incidence rate** for solitary deep SMI (here) and the **odds ratio for LNM with tumor budding** (criterion 5 above). Verified against the raw [[aga-2025-endoscopic-resection-crc]] PDF 2026-09-03. The "2.6% vs 2.83" pairing is likewise the source's own: an absolute risk and a pooled incidence rate, not two estimates of one quantity.*
 - Operative reference: in 5170 surgical T1 CRC pts, 30-day mortality 1.7%, severe adverse events 8.3% — supporting individualized, organ-preserving decisions over automatic surgery.
 - *Contrasts with the historical "≥1 mm = unfavorable → surgery" framing in the histologic-criteria table on [[polypectomy]]; the 2025 CPU supports individualized decisions, especially when deep SMI is the only adverse feature.*
 

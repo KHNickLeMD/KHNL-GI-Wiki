@@ -3,7 +3,7 @@ title: "Anorectal Manometry (ARM)"
 category: advanced-procedure
 tags: [arm, anorectal-manometry, defecation, biofeedback, dyssynergia, fecal-incontinence, balloon-expulsion-test]
 created: 2026-05-19
-updated: 2026-08-31
+updated: 2026-09-03
 sources: [acg-2021-anorectal-disorders, acg-2020-ibs, asge-2014-constipation, aga-2026-refractory-constipation]
 ---
 
@@ -110,6 +110,8 @@ sources: [acg-2021-anorectal-disorders, acg-2020-ibs, asge-2014-constipation, ag
 - Testing should be performed by **laboratories with more training and experience**, even though ARM is widely available.
 - Normative data are limited and technique-specific (see above).
 - ARM alone does not differentiate DD from IBS — it identifies abnormalities that may respond to biofeedback. ([[acg-2020-ibs]])
+
+---
 
 ## See Also
 

@@ -3,7 +3,7 @@ title: "GLP-1 Receptor Agonists (GLP-1 RAs)"
 category: med
 tags: [glp-1, glp1-ra, semaglutide, liraglutide, obesity, weight-loss, gastric-emptying, endoscopy, incretin]
 created: 2026-08-14
-updated: 2026-09-01
+updated: 2026-09-03
 sources: [aga-2022-obesity-pharm, aga-2024-glp1-endoscopy]
 ---
 
@@ -84,7 +84,7 @@ Population for all statements: **adults with [[obesity]], or overweight with wei
 
 ## GI and Other Adverse Effects
 
-- **Delayed gastric emptying** with nausea and vomiting is a class effect; other GI effects include diarrhea and constipation ([[aga-2024-glp1-endoscopy]]).
+- **Delayed gastric emptying** with [[nausea-and-vomiting|nausea and vomiting]] is a class effect; other GI effects include diarrhea and constipation ([[aga-2024-glp1-endoscopy]]).
 - **Increased risk of [[acute-pancreatitis|pancreatitis]] and gallbladder disease** is attributed to the class ([[aga-2022-obesity-pharm]]). Liraglutide FAERS data (~29,277 patients, 2015–2018): 40 cases of acute pancreatitis (<0.1%) and 17 symptomatic gallstones (<0.05%).
 - **Liraglutide** nausea **40%** and vomiting **16%** (vs 14.8% and 4.3% placebo); no significant excess of serious AEs (RR 1.22, 95% CI 1.00–1.50) but discontinuation for AEs was higher (RR 2.31, 1.85–2.88).
 - **Semaglutide** 38% higher risk of serious AEs vs placebo (95% CI 1.10–1.73); discontinuation for AEs **6.4% vs 3.1%** (RR 2.10, 1.54–2.86). **Contraindicated** with personal/family history of **medullary thyroid cancer** or **MEN type 2** (animal data). Full agent-level safety and monitoring: [[semaglutide]].
@@ -101,7 +101,7 @@ The full periprocedural algorithm (standard fast, symptom assessment, gastric ul
 
 ## See Also
 
-[[semaglutide]], [[glp-2-agonists]], [[obesity]], [[endoscopy-sedation]], [[gastroparesis]], [[acute-pancreatitis]], [[upper-endoscopy]], [[nafld-masld]], [[resmetirom]], [[bariatric-surgery]]
+[[semaglutide]], [[glp-2-agonists]], [[obesity]], [[endoscopy-sedation]], [[gastroparesis]], [[acute-pancreatitis]], [[upper-endoscopy]], [[nafld-masld]], [[resmetirom]], [[bariatric-surgery]], [[nausea-and-vomiting]]
 
 ---
 

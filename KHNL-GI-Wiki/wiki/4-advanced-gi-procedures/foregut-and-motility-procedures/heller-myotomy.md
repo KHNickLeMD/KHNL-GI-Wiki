@@ -3,7 +3,7 @@ title: "Laparoscopic Heller Myotomy (LHM)"
 category: advanced-procedure
 tags: [heller-myotomy, lhm, achalasia, myotomy, fundoplication, motility, foregut]
 created: 2026-06-10
-updated: 2026-08-30
+updated: 2026-09-03
 sources: [sages-2024-poem, sages-2021-poem, acg-2020-achalasia, asge-2020-achalasia, aga-2024-poem-advances]
 ---
 
@@ -22,7 +22,7 @@ sources: [sages-2024-poem, sages-2021-poem, acg-2020-achalasia, asge-2020-achala
 
 ## Overview
 
-Laparoscopic Heller myotomy (LHM) is the surgical anterior myotomy of the lower esophageal sphincter for [[achalasia]], typically paired with a [[antireflux-surgery|partial fundoplication]] (Dor or Toupet) to limit postoperative reflux. One of three equivalent definitive palliative therapies alongside pneumatic dilation (PD) and [[poem|peroral endoscopic myotomy (POEM)]]; treatment is palliative, not curative ([[acg-2020-achalasia]]).
+Laparoscopic Heller myotomy (LHM) is the surgical anterior myotomy of the lower esophageal sphincter for [[achalasia]], typically paired with a [[antireflux-surgery|partial fundoplication]] (Dor or Toupet) to limit postoperative reflux. One of three equivalent definitive palliative therapies alongside [[pneumatic-dilation|pneumatic dilation (PD)]] and [[poem|peroral endoscopic myotomy (POEM)]]; treatment is palliative, not curative ([[acg-2020-achalasia]]).
 
 - **Preoperative workup is the achalasia workup** — [[upper-endoscopy|upper endoscopy]] to exclude pseudoachalasia, [[high-resolution-manometry|HRM]] for subtyping, timed barium esophagram (TBE) for baseline emptying. It has one home: [[achalasia]] (and [[poem]] for the myotomy-specific pre-procedure checklist).
 - **Subtype drives the choice**, and subtypes are defined only on HRM by the [[chicago-classification-v4|Chicago Classification v4.0]] — see that page for the criteria.
@@ -130,6 +130,8 @@ Rates depend entirely on **how GERD is defined** — symptoms, endoscopy, or pH 
 
 - **Post-LHM GERD rate.** [[acg-2020-achalasia|ACG 2020]] states 8–9% abnormal acid exposure after LHM with fundoplication (and 16.8% in its POEM-vs-LHM meta-analysis); [[asge-2020-achalasia|ASGE 2020]] reports 17.5% symptomatic / 11.1% pH-defined GERD. Both are tier-1 and same-year; the discrepancy is a **definition** problem (symptoms vs endoscopy vs pH) rather than a factual conflict — read the rate together with its definition.
 - **Post-POEM vs post-LHM GERD.** ACG 2020 and [[aga-2024-poem-advances|AGA 2024]] find GERD substantially higher after POEM (OR 9.31 erosive esophagitis; 39% vs 8–9% abnormal pH); the Awaiz meta-analysis cited by [[asge-2020-achalasia|ASGE 2020]] found **no significant difference** (OR 1.27). The page follows ACG/AGA — the newer AGA 2024 CPU and the larger meta-analysis both support the higher post-POEM reflux burden.
+
+---
 
 ## See Also
 

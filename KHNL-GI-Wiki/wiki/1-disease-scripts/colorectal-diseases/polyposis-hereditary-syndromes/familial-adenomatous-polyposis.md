@@ -3,7 +3,7 @@ title: "Familial Adenomatous Polyposis"
 category: disease-script
 tags: [fap, apc, afap, map, mutyh, hereditary-crc, polyposis, duodenal-adenoma, desmoid, spigelman, genetic-testing, colorectal-cancer]
 created: 2026-05-19
-updated: 2026-09-01
+updated: 2026-09-03
 sources: [acg-2015-hereditary-gi-cancer, asge-2020-fap]
 ---
 
@@ -162,6 +162,10 @@ Familial adenomatous polyposis (FAP) and its related syndromes — attenuated FA
 | **Dysplasia** — *modified* Spigelman, [[asge-2020-fap\|ASGE 2020]] Table 4 | **Low-grade dysplasia** | *not applicable* | **High-grade dysplasia** |
 
 > **What changed:** [[asge-2020-fap|ASGE 2020]] prints a **modified** Spigelman system in which the dysplasia row is re-scored to the current 2-tier dysplasia classification — **LGD = 1 point, HGD = 3 points, no 2-point tier** — replacing ACG 2015's mild/moderate/severe. Since contemporary pathology reports LGD/HGD, use the ASGE mapping (newer source, same tier). Number, size, histology and the stage cut-points (0 = 0; I = 1–4; II = 5–6; III = 7–8; IV = 9–12) are identical in both.
+
+> ⚠ **Fidelity flag — the polyp-number row has a gap as published.** Both guidelines print number as **`<4` / `5–20` / `>20`**, so **exactly 4 polyps falls between the 1-point and 2-point bands**. Reproduced as printed; the missing band is **not** supplied from outside the corpus. (The size row reads `0–4` / `5–10` / `>10` mm, which is continuous.)
+
+- **Why 0–I can be stretched to 5 years:** in the same 10-year follow-up, **stage 0 and I patients rarely progressed and *never* developed invasive cancer** — that, not a change in cut-points, is what justifies the longer ASGE interval. [[asge-2020-fap]]
 
 - **Why stage IV drives surgery:** in a 10-year follow-up study the duodenal cancer risk by *initial* Spigelman stage was **stage II 2.3%, stage III 2.4%, stage IV 36%** — the jump is at IV, not a gradient [[asge-2020-fap]]; and the risk of *reaching* stage IV is **43% by age 60 (95% CI 35.7–50%), 50% by age 70 (95% CI 42.9–57.1%)**
 - **The score does not cover the ampulla** — Spigelman "does not take into account ampullary lesions and is not validated for the management of isolated ampullary disease" [[asge-2020-fap]], so a normal-stage duodenum does not exclude ampullary disease; the ampulla is assessed separately (see below)

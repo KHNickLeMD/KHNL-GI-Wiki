@@ -3,7 +3,7 @@ title: "Endoscopic Oncology"
 category: concept
 tags: [endoscopic-oncology, advanced-endoscopy, gi-cancers, esd, eus, staging]
 created: 2026-05-15
-updated: 2026-08-30
+updated: 2026-09-03
 sources: [chang-2024-endoscopic-oncologist, asge-2023-esd, acg-2025-eus-quality]
 ---
 
@@ -18,7 +18,8 @@ Endoscopic oncologists perform procedures across the GI tract with oncologic int
 - **Staging**: EUS-guided fine-needle aspiration/biopsy ([[endoscopic-ultrasound]]) for locoregional staging of [[esophageal-cancer|esophageal]], [[gastric-adenocarcinoma|gastric]], [[pancreatic-cancer|pancreatic]], and [[colorectal-cancer|rectal cancers]]; EUS-guided celiac plexus neurolysis for pain palliation
 - **Curative resection of superficial neoplasia**: [[endoscopic-submucosal-dissection|Endoscopic submucosal dissection (ESD)]] and endoscopic mucosal resection ([[endoscopic-mucosal-resection|EMR]]) for T1a/T1b lesions in the esophagus, stomach, duodenum, and colon
 - **Biliary and pancreatic interventions**: [[ercp|ERCP]]-based stenting, [[cholangioscopy]] with biopsy, EUS-guided biliary drainage for malignant obstruction
-- **Luminal palliation**: Self-expanding metal stents for malignant esophageal, gastric outlet, and colonic obstruction; [[enteral-access|enteral access]] for nutritional support
+- **Luminal palliation**: Self-expanding metal stents for malignant esophageal, [[gastric-outlet-obstruction|gastric outlet]], and colonic obstruction; [[enteral-access|enteral access]] for nutritional support
+  - **Distinguish palliation from bridge to surgery.** Colonic SEMS in *resectable* obstruction is a bridge to elective resection, a different decision with its own outcome data — that lives on [[colorectal-cancer]]. The gastric-outlet palliation-vs-surgery rule lives on [[gastric-outlet-obstruction]].
 - **Ablation**: [[radiofrequency-ablation|Radiofrequency ablation (RFA)]] for [[barretts-esophagus|Barrett's esophagus]] and early esophageal neoplasia; photodynamic therapy (historical)
 
 ## Relationship to Other Subspecialties
@@ -40,7 +41,7 @@ What the ingested corpus actually states ([[acg-2025-eus-quality]]):
 
 ## See Also
 
-[[endoscopic-ultrasound]], [[polypectomy]], [[ercp]], [[barretts-esophagus]], [[colorectal-cancer]], [[gastric-adenocarcinoma]], [[endoscopic-submucosal-dissection]], [[endoscopic-mucosal-resection]], [[esophageal-cancer]], [[pancreatic-cancer]], [[cholangioscopy]], [[radiofrequency-ablation]], [[endoscopic-eradication-therapy]], [[enteral-access]], [[colonoscopy-surveillance]]
+[[endoscopic-ultrasound]], [[polypectomy]], [[ercp]], [[barretts-esophagus]], [[colorectal-cancer]], [[gastric-adenocarcinoma]], [[endoscopic-submucosal-dissection]], [[endoscopic-mucosal-resection]], [[esophageal-cancer]], [[pancreatic-cancer]], [[cholangioscopy]], [[radiofrequency-ablation]], [[endoscopic-eradication-therapy]], [[enteral-access]], [[colonoscopy-surveillance]], [[gastric-outlet-obstruction]]
 
 ---
 

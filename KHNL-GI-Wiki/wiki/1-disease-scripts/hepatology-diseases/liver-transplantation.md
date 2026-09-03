@@ -3,7 +3,7 @@ title: "Liver Transplantation — Post-Transplant Management"
 category: disease-script
 tags: [liver-transplant, liver-transplantation, immunosuppression, tacrolimus, calcineurin-inhibitor, ckd, metabolic-syndrome, rejection, tcmr, pcr, amr, biliary-stricture, vascular-complications, machine-perfusion, dcd, ldlt, ead, hbv, hcv, pbc, psc, autoimmune-hepatitis, hcc, masld, ald, de-novo-malignancy, post-transplant, bone-health, vaccination, cmv, cancer-surveillance, glp-1, bariatric-surgery, aasld]
 created: 2026-05-19
-updated: 2026-09-02
+updated: 2026-09-03
 sources: [aasld-2012-liver-transplant-long-term, aasld-ast-2025-liver-transplant-graft-complications, aasld-ast-2025-liver-transplant-candidate-evaluation, aasld-ast-2025-liver-transplant-non-graft-complications, asge-2023-post-transplant-biliary-strictures]
 ---
 
@@ -76,7 +76,11 @@ Liver transplantation (LT) is a lifesaving procedure for selected patients with 
 **Chronic liver disease — indications for referral** (Recs 1–2, [[aasld-ast-2025-liver-transplant-candidate-evaluation]]):
 
 - Any **decompensating event**: [[ascites]] (with or without [[spontaneous-bacterial-peritonitis|SBP]]), [[hepatic-encephalopathy|hepatic encephalopathy]], [[variceal-upper-gi-bleeding|variceal hemorrhage]], [[hepatopulmonary-syndrome-portopulmonary-hypertension|hepatopulmonary syndrome/portopulmonary hypertension]], HCC (Strong, Level 4)
-- **MELD ≥12** in the absence of portal hypertensive complications — a reasonable threshold; MELD score alone should never be a barrier to referral (Strong, Level 4). *MELD-Na formula and Child-Pugh points/classes: see [[cirrhosis]].*
+- **No decompensating event — the MELD threshold for referral is explicitly *unclear*** (Rec 1, Strong, Level 4). Two different numbers appear in the guideline and they answer different questions; do not merge them:
+  - **MELD 3.0 ≥12** — the *survival-benefit* signal: waitlist data suggest LT survival benefit may be achieved at MELD ≥12 (Rec 1; Figure 1 labels the referral trigger "MELD 3.0 greater than or equal to 12"). LDLT survival benefit has been reported as low as **MELD 11**.
+  - **MELD 15** — what the working group actually endorses: "the majority of the working group believes that a MELD score (in its most recent iteration) of **15** still appears to be a reasonable threshold **in the absence of portal hypertensive complications**." The ≥12 studies were designed to compare waitlist vs post-LT survival, **not to establish referral timing**.
+  - **MELD score alone should never be a barrier to referral**, and patients should be considered for referral **at any MELD score** when portal hypertensive complications are uncontrolled — many low-MELD patients are "underrepresented by MELD."
+  - *Which MELD this is: the **most recent iteration, MELD 3.0**. Formula, the MELD-variant comparison, and Child-Pugh points/classes: see [[cirrhosis]].*
 - [[acute-on-chronic-liver-failure|ACLF]]: refer promptly regardless of MELD; high MELD (>40) and ACLF grade alone are NOT contraindications (Strong, Level 4; Strong, Level 3)
 
 **[[acute-liver-failure|Acute liver failure]] (ALF):** ALL patients should be referred urgently, ideally in the first hours of presentation prior to meeting formal ALF diagnostic criteria (Strong, Level 2). Transplant centers must respond promptly to transfer requests (Strong, Level 5).
@@ -322,8 +326,7 @@ The post-transplant recipient requires lifelong structured monitoring for allogr
 
 ### HCC Surveillance Post-Transplant
 
-- Recipients transplanted for [[hepatocellular-carcinoma]] (HCC): continue surveillance with CT or MRI every 6–12 months per [[aasld-2012-liver-transplant-long-term]] Rec. 42 — risk of HCC recurrence persists, especially beyond Milan criteria
-- Alpha-fetoprotein (AFP) as adjunct marker (Rec. 43)
+- Recipients transplanted for [[hepatocellular-carcinoma]] (HCC): continue cross-sectional surveillance every **6–12 months** ([[aasld-2012-liver-transplant-long-term]] Rec. 42), with **AFP as an adjunct marker** (Rec. 43) — risk of recurrence persists, especially beyond Milan criteria. *The current modality (contrast-enhanced abdominal CT or MRI **plus chest CT**, cross-sectional over ultrasound) and the recurrence-site rationale live on [[hepatocellular-carcinoma]] — do not read this bullet as the full protocol.*
 - mTOR inhibitor-based IS may reduce HCC recurrence (see Therapeutics)
 
 ---

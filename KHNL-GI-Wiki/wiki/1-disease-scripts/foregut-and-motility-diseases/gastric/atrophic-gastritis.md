@@ -1,20 +1,10 @@
 ---
-title: Atrophic Gastritis
+title: "Atrophic Gastritis"
 category: disease-script
-tags:
-  - atrophic-gastritis
-  - gastric-premalignant-conditions
-  - h-pylori
-  - autoimmune-gastritis
-  - pernicious-anemia
-  - correa-cascade
-  - gastric-cancer
-  - neuroendocrine-tumor
+tags: [atrophic-gastritis, gastric-premalignant-conditions, h-pylori, autoimmune-gastritis, pernicious-anemia, correa-cascade, gastric-cancer, neuroendocrine-tumor]
 created: 2026-05-15
-updated: 2026-08-30
-sources:
-  - aga-2021-atrophic-gastritis
-  - acg-2025-gastric-premalignant
+updated: 2026-09-03
+sources: [aga-2021-atrophic-gastritis, acg-2025-gastric-premalignant]
 ---
 
 Atrophic gastritis (AG) is a preneoplastic condition defined by loss of gastric glands — replaced by connective tissue (nonmetaplastic atrophy) or a non-native epithelium such as intestinal metaplasia or pseudopyloric metaplasia (metaplastic atrophy) — in a background of chronic inflammation. It represents an early committed step in the [[gastric-premalignant-conditions|Correa cascade]]: AG → [[gastric-intestinal-metaplasia|intestinal metaplasia]] → dysplasia → [[gastric-adenocarcinoma|gastric adenocarcinoma]].
@@ -25,6 +15,25 @@ Two dominant etiologies:
 - **Autoimmune gastritis (AIG):** corpus-predominant, driven by anti-parietal cell and anti-intrinsic factor autoantibodies
 
 Intestinal metaplasia on gastric histopathology almost invariably implies underlying AG — but this linkage is frequently not documented explicitly on pathology reports, contributing to widespread underdiagnosis.
+
+## Contents
+- [[#Assessment]]
+  - [[#Establishing the Diagnosis]]
+  - [[#Severity Assessment]]
+  - [[#Classification / Typing]]
+- [[#Differential Diagnosis]]
+- [[#Diagnostics]]
+  - [[#Endoscopy]]
+  - [[#Biopsy Protocol — Updated Sydney Protocol]]
+  - [[#Serologic Workup]]
+- [[#Therapeutics]]
+  - [[#1. H. Pylori Eradication (All AG Patients)]]
+  - [[#2. Micronutrient Repletion]]
+  - [[#3. Endoscopic Surveillance]]
+  - [[#4. Type I Gastric NETs]]
+  - [[#5. Autoimmune Comorbidity Screening (AIG)]]
+- [[#See Also]]
+- [[#Sources]]
 
 ---
 

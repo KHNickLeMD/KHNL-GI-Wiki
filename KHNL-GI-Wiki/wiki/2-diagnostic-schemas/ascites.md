@@ -3,7 +3,7 @@ title: "Ascites"
 category: diagnostic-schema
 tags: [ascites, cirrhosis, saag, paracentesis, diuretics, tips]
 created: 2026-05-15
-updated: 2026-09-01
+updated: 2026-09-03
 sources: [aasld-2021-ascites-sbp-hrs, aga-2025-ascites-cirrhosis, aga-2024-vasoactive-albumin-cirrhosis]
 ---
 
@@ -56,14 +56,18 @@ Ascites can be graded by volume and classified by treatment response:
 
 ### Refractory Ascites — Diagnostic Criteria
 
-All three of the following must be met (AASLD 2021 Fig. 3): compliance with sodium restriction, failure of maximum diuretics *or* diuretic complications, and minimal urinary sodium excretion.
+**RA is defined as ascites that cannot be mobilized, or whose early recurrence after LVP cannot be satisfactorily prevented, despite dietary sodium restriction *and* diuretic therapy.** It then splits into two mechanisms — **diuretic-resistant** (no response to maximal diuretics) and **diuretic-intractable** (diuretic side effects preclude effective doses). The rows below are AASLD 2021 **Table 7's operative definitions of the terms used in that sentence**, not a checklist of co-requirements.
+
+⚠ *Corrected 2026-09-03 — this section previously read "All three of the following must be met," which misreads Table 7. The table is headed "Characteristics of RA" and lists four operative definitions plus the two mechanistic types; "early recurrence of ascites" is an **alternative entry route** into the definition, not a fourth co-requirement, and the diuretic-resistant vs diuretic-intractable split is an **either/or**.*
 
 | Criterion | Operative definition (AASLD 2021 Table 7) |
 |---|---|
-| Fails sodium restriction | 88 mmol (2,000 mg) sodium/day |
+| Fails sodium restriction | 88 mmol (2,000 mg) sodium/day ᵃ |
 | Fails maximum diuretic doses | Spironolactone 400 mg/day **or** amiloride 30 mg/day, **plus** furosemide 160 mg/day — **both for at least 1 week** |
 | Lack of treatment response | Mean weight loss <0.8 kg over 4 days, **and** urinary sodium less than sodium intake |
 | Early recurrence of ascites | Reappearance of grade 2 or grade 3 ascites **within 4 weeks** of initial mobilization |
+
+ᵃ **88 mmol vs 90 mmol — both figures are in the same guideline** and are just different roundings of 2 g sodium: Table 7 writes the refractory-ascites criterion as *"88 mmol or 2,000 mg/day"*, while the grade-2 treatment guidance statement writes *"moderate sodium restriction (2 g or 90 mmol/day)."* Not a contradiction; prescribe 2 g/day.
 
 - **Diuretic-resistant RA:** ascites cannot be mobilized / early recurrence cannot be prevented **because of lack of response** to sodium restriction + maximal diuretics.
 - **Diuretic-intractable RA:** same, but **because of diuretic-induced complications** that preclude effective doses —
@@ -78,7 +82,7 @@ All three of the following must be met (AASLD 2021 Fig. 3): compliance with sodi
 |---|---|
 | Refractory hepatic hydrothorax | HH unresponsive to salt restriction and diuretic therapy, requiring therapeutic thoracentesis |
 | Refractory hyponatremia | Ongoing hyponatremia despite maximal medical therapy |
-| Refractory anasarca | Lack of improvement in volume status despite maximal diuretics **and** persistent low urine sodium |
+| Refractory anasarca | Lack of improvement in volume status despite maximal diuretics **and** persistent low urine sodium — the usable number for "low" is in [[#Key Tests]]: **24-h urine sodium <80 mmol/day** = insufficient natriuresis ([[aga-2025-ascites-cirrhosis]] gives no cutoff of its own) |
 
 ---
 

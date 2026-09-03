@@ -3,7 +3,7 @@ title: "Peutz-Jeghers Syndrome"
 category: disease-script
 tags: [peutz-jeghers, pjs, stk11, lkb1, hamartoma, hereditary-crc, pancreatic-cancer, small-bowel, intussusception, genetic-testing]
 created: 2026-05-19
-updated: 2026-09-01
+updated: 2026-09-03
 sources: [acg-2015-hereditary-gi-cancer, aga-2022-hamartomatous-polyposis]
 ---
 
@@ -109,7 +109,7 @@ Overall risk of developing any cancer by age: 1% (age 20), 3% (age 30), 19% (age
 
 - MR enterography is accurate for detecting polyps ≥15 mm and gives more reproducible size assessment than [[capsule-endoscopy|capsule endoscopy]]; CT enterography detects polyps ≥1 cm but repeated X-ray exposure is problematic [[acg-2015-hereditary-gi-cancer]]
 
-**[[pancreatic-cancer-screening|Pancreatic surveillance]]** — **MRI/MRCP or [[endoscopic-ultrasound|EUS]] annually starting at age 35** *(Weak, low)* [[aga-2022-hamartomatous-polyposis]]:
+**[[pancreatic-cancer-screening|Pancreatic surveillance]]** — **[[mri-mrcp|MRI/MRCP]] or [[endoscopic-ultrasound|EUS]] annually starting at age 35** *(Weak, low)* [[aga-2022-hamartomatous-polyposis]]:
 
 - Ideally **alternate MRCP and EUS** on an annual basis — they are complementary
 - The Cancer of the Pancreas Screening Consortium adds **fasting glucose + HbA1c** at initiation; **USMSTF 2022 explicitly withholds a recommendation on this** pending definitive data
@@ -185,7 +185,7 @@ Overall risk of developing any cancer by age: 1% (age 20), 3% (age 30), 19% (age
 
 ## See Also
 
-[[colorectal-polyposis]], [[familial-adenomatous-polyposis]], [[lynch-syndrome]], [[juvenile-polyposis-syndrome]], [[cowden-syndrome]], [[hereditary-mixed-polyposis-syndrome]], [[brca-pathogenic-variants]], [[colorectal-cancer]], [[colonoscopy]], [[upper-endoscopy]], [[capsule-endoscopy]], [[endoscopic-ultrasound]], [[pancreatic-cancer]], [[pancreatic-cancer-screening]], [[gastric-adenocarcinoma]], [[device-assisted-enteroscopy]], [[polypectomy]]
+[[colorectal-polyposis]], [[familial-adenomatous-polyposis]], [[lynch-syndrome]], [[juvenile-polyposis-syndrome]], [[cowden-syndrome]], [[hereditary-mixed-polyposis-syndrome]], [[brca-pathogenic-variants]], [[colorectal-cancer]], [[colonoscopy]], [[upper-endoscopy]], [[capsule-endoscopy]], [[endoscopic-ultrasound]], [[pancreatic-cancer]], [[pancreatic-cancer-screening]], [[gastric-adenocarcinoma]], [[device-assisted-enteroscopy]], [[polypectomy]], [[mri-mrcp]], [[fammm-syndrome]]
 
 ---
 

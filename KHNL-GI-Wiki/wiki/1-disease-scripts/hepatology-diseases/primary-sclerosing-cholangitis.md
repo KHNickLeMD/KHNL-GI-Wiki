@@ -3,7 +3,7 @@ title: "Primary Sclerosing Cholangitis"
 category: disease-script
 tags: [psc, cholestasis, biliary, ibd, cholangiocarcinoma, liver-transplant, dominant-stricture, igg4, udca, mrcp, fish, liver-stiffness]
 created: 2026-05-19
-updated: 2026-08-31
+updated: 2026-09-03
 sources: [acg-2015-psc, acg-2017-liver-chemistries, aasld-2022-psc]
 ---
 
@@ -61,7 +61,7 @@ PSC is a chronic, cholestatic liver disease likely of autoimmune origin characte
   - LS worsening by >0.34 kPa/year = highest risk of hepatic decompensation
 - ELF (Enhanced Liver Fibrosis) test: strongly associated with transplant-free survival; useful surrogate in trials
 - Liver biopsy: **NOT recommended for fibrosis staging** in clinical practice — high sampling variability ([[aasld-2022-psc]] GS 10)
-- [[cirrhosis|MELD]]: drives transplant priority (full MELD-Na/Child-Pugh point tables live on [[cirrhosis]]); decompensation = [[ascites]], [[variceal-upper-gi-bleeding|variceal bleed]], [[hepatic-encephalopathy|hepatic encephalopathy]], recurrent [[acute-cholangitis|cholangitis]]
+- [[cirrhosis|MELD]]: drives transplant priority (the Child-Pugh point table, the MELD 3.0 formula, and the MELD-variant comparison live on [[cirrhosis]]); decompensation = [[ascites]], [[variceal-upper-gi-bleeding|variceal bleed]], [[hepatic-encephalopathy|hepatic encephalopathy]], recurrent [[acute-cholangitis|cholangitis]]
 
 ### Classification / Typing
 

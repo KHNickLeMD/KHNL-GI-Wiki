@@ -3,8 +3,8 @@ title: "Upper GI Bleeding"
 category: diagnostic-schema
 tags: [ugib, peptic-ulcer, gi-bleeding, endoscopy, forrest, glasgow-blatchford, melena]
 created: 2026-05-15
-updated: 2026-09-01
-sources: [acg-2021-ugib, acg-2023-lgib, acg-2024-hp-treatment]
+updated: 2026-09-03
+sources: [acg-2021-ugib, acg-2023-lgib, acg-2024-hp-treatment, acg-2025-egd-quality, aga-2024-upper-endoscopy-quality]
 ---
 
 ## Contents
@@ -19,7 +19,7 @@ sources: [acg-2021-ugib, acg-2023-lgib, acg-2024-hp-treatment]
   - [[#Step 2: Risk Stratification in the Emergency Department]]
   - [[#Step 3: Pre-Endoscopic Management]]
   - [[#Step 4: Timing of Endoscopy]]
-  - [[#Step 5: Endoscopic Evaluation — Ulcer Stigmata (Forrest Classification)]]
+  - [[#Step 5: Endoscopic Evaluation — Ulcer Stigmata]]
   - [[#Step 6: Choice of Endoscopic Hemostatic Therapy (Ulcer Bleeding)]]
   - [[#Step 7: Post-Endoscopic Management (Ulcer Bleeding)]]
   - [[#Step 8: Recurrent Bleeding]]
@@ -57,7 +57,8 @@ Severe hematochezia with hemodynamic instability may reflect UGIB in approximate
 Features favoring [[acute-lower-gi-bleeding|LGIB]] (against UGIB):
 
 - Blood clots in stool (LR 0.05 for UGIB — clots argue for LGIB)
-- Nasogastric aspirate is unreliable (sensitivity only 28% for UGIB) — routine NG tube NOT recommended
+
+**Test that does *not* discriminate:** nasogastric aspirate — **sensitivity only 28%** for an upper source, so a negative aspirate does not exclude UGIB. **Routine NG tube placement is NOT recommended.**
 
 If UGIB is clinically suspected in a patient presenting with apparent LGIB, perform **[[upper-endoscopy]] before [[colonoscopy]]**.
 
@@ -187,7 +188,7 @@ If UGIB is clinically suspected in a patient presenting with apparent LGIB, perf
 - **Read the ordering carefully — it is not monotonic.** FIb (oozing) carries a *lower* post-hemostasis rebleeding rate than FIIa (nonbleeding visible vessel); active spurting (FIa) is significantly higher than oozing. Grouping "spurting + oozing" as one active-bleeding category, as older trials did, hides this ([[acg-2025-egd-quality]]).
 - **Actionable split:** FIa / FIb / FIIa → endoscopic hemostatic therapy (QI 14, Strong/1A, target >90%). FIIc / FIII → no endoscopic therapy. FIIb → irrigate vigorously to expose the underlying stigma; if the clot resists, no recommendation could be reached (see above).
 - **Definition caveat:** "the definition of oozing may vary widely among endoscopists"; some trials require continuous bleeding over 5 minutes of observation to call it active oozing ([[acg-2021-ugib]]).
-- ⚠ **Image gap:** no ingested source page carries endoscopic photographs of the Forrest classes, and the ACG/ASGE 2025 document does not print a Forrest figure. Per the Style Guide's endoscopic-appearance rule, this page should embed example images of each class — flagged, not filled.
+- ⚠ **Image gap — tooling, not corpus (corrected 2026-09-03).** [[acg-2025-egd-quality|ACG/ASGE 2025]] prints no Forrest figure, but [[aga-2024-upper-endoscopy-quality|AGA 2024]] does: its **Figure 2, "Endoscopic classification systems for selected upper gastrointestinal pathology,"** depicts the Forrest classes alongside LA, Prague, Paris, Hill, and EREFS. Per the Style Guide's endoscopic-appearance rule this page should embed the Forrest panel — blocked only because no figure-capture tool is available in this environment (`pdfimages`/`pdftoppm` not permitted; PyMuPDF not installed). Capture it; do not draw or source it from outside the wiki.
 - **Adherent clot:** high-dose PPI alone is a reasonable option when the clot resists irrigation.
 
 ### Step 6: Choice of Endoscopic Hemostatic Therapy (Ulcer Bleeding)
@@ -266,7 +267,7 @@ If UGIB is clinically suspected in a patient presenting with apparent LGIB, perf
 ### Rockall Score
 
 - **Not endorsed or defined by [[acg-2021-ugib|ACG 2021]].** It appears exactly once in that guideline, as the **enrollment criterion (Rockall ≥6)** of the single RCT supporting extended twice-daily PPI (Statement 14) — so "high risk" for the day-4–14 PPI decision operationally means *met that trial's entry criterion*.
-- **Decision gap — flagged, not filled:** the Rockall component variables and point values are **not in any ingested source**; the primary Rockall paper is not in `raw/`. Do not infer them. *(Same corpus block as GAHS/ABIC, CTSI, LA grade. **Corrected 2026-08-31:** Tokyo TG18 was previously listed here as corpus-blocked — it is **not**. The 2018 Tokyo Guidelines are ingested ([[tg18-2018-cholangitis-flowchart]]) and the Grade I/II/III criteria are on [[acute-cholangitis]].)*
+- **Decision gap — flagged, not filled:** the Rockall component variables and point values are **not in any ingested source**; the primary Rockall paper is not in `raw/`. Do not infer them. *(Same corpus block as GAHS/ABIC and CTSI. **Corrected 2026-08-31:** Tokyo TG18 was previously listed here as corpus-blocked — it is **not**. The 2018 Tokyo Guidelines are ingested ([[tg18-2018-cholangitis-flowchart]]) and the Grade I/II/III criteria are on [[acute-cholangitis]]. **Corrected 2026-09-03:** LA grade was also listed here — it is a **figure-capture** block, not a corpus block; the criteria are printed as figures in [[acg-2025-egd-quality]] and [[aga-2024-upper-endoscopy-quality]]. See [[upper-endoscopy]].)*
 
 ### AIMS65 Score
 
@@ -343,3 +344,5 @@ If UGIB is clinically suspected in a patient presenting with apparent LGIB, perf
 1. [[acg-2021-ugib|ACG 2021: Upper Gastrointestinal and Ulcer Bleeding]]
 2. [[acg-2023-lgib|ACG 2023: Management of Patients With Acute Lower Gastrointestinal Bleeding]]
 3. [[acg-2024-hp-treatment|ACG Clinical Guideline: Treatment of Helicobacter pylori Infection (2024)]]
+4. [[acg-2025-egd-quality|ACG/ASGE 2025: Quality Indicators for Upper GI Endoscopy (EGD)]]
+5. [[aga-2024-upper-endoscopy-quality|AGA 2024: Quality Indicators for Upper GI Endoscopy]]

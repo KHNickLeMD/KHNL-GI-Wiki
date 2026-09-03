@@ -3,7 +3,7 @@ title: "Proctalgia Syndromes"
 category: disease-script
 tags: [proctalgia, levator-ani, chronic-proctalgia, proctalgia-fugax, anorectal, pelvic-floor, colorectal]
 created: 2026-05-16
-updated: 2026-08-31
+updated: 2026-09-03
 sources: [acg-2021-anorectal-disorders, rome-v-2026-dgbi]
 ---
 
@@ -22,20 +22,10 @@ sources: [acg-2021-anorectal-disorders, rome-v-2026-dgbi]
 - **Duration rule changed in Rome V:** the **6-month** symptom-duration requirement is **no longer required**; Rome V suggests an **8-week** duration to exclude other diagnoses — and **explicitly exempts infrequent-episode disorders, naming proctalgia fugax**, along with any case where the clinician is satisfied that medical evaluation has excluded other disorders. [[rome-v-2026-dgbi]]
 - **The ≥20-minute cut-point is the discriminator** between F2a/F2b and F2c; **levator tenderness** is the discriminator between F2a and F2b, and it changes the treatment (see Therapeutics).
 
-**1. Chronic proctalgia syndrome (levator ani syndrome / F2a):**
+**Features beyond the defining criteria** (the criteria themselves are in the table above — not repeated here):
 
-- Recurring episodes of dull or pressure-like anorectal pain lasting ≥20 minutes (often hours or days)
-- Exclusion of other anorectal causes by history and diagnostic testing
-- **Levator ani syndrome** = chronic proctalgia + levator tenderness on palpation of levator ani muscles (usually one side)
-- **Idiopathic chronic proctalgia syndrome** = chronic proctalgia WITHOUT levator tenderness
-- Diagnosis is clinical; the duration (not frequency) is the key diagnostic criterion
-
-**2. Proctalgia fugax (F2c):**
-
-- Intense rectal or anal pain lasting only seconds to <20 minutes
-- Pathophysiology unknown; thought to involve excessive tension of puborectalis/levator ani
-- Absence of levator tenderness is the primary clinical feature distinguishing PF from levator syndrome
-- Diagnosis by characteristic history + normal DRE; no objective tests required
+- **Chronic proctalgia (F2a/F2b):** dull or pressure-like pain, often lasting **hours to days**; levator tenderness is usually **one-sided**. Requires exclusion of other anorectal causes by history and testing. Diagnosis is clinical, and **duration — not frequency — is the key criterion**.
+- **Proctalgia fugax (F2c):** intense rectal/anal pain; **pathophysiology unknown**, thought to involve excessive tension of the puborectalis/levator ani. **No objective test is required** — characteristic history plus a normal DRE suffices.
 
 ---
 

@@ -3,13 +3,15 @@ title: "Nitazoxanide"
 category: med
 tags: [nitazoxanide, antiparasitic, antiprotozoal, cryptosporidium, giardia, cyclospora, cystoisospora]
 created: 2026-07-07
-updated: 2026-08-14
+updated: 2026-09-03
 sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
 ---
 
 ## Class
 
-Thiazolide antiprotozoal. Used for pathogen-directed therapy of parasitic [[acute-diarrhea|acute diarrhea]] once a specific organism is identified — the evidence for antimicrobial treatment of *specific* parasitic causes is **strong**, in contrast to empiric antiparasitic therapy ([[acg-2016-acute-diarrhea]]).
+Thiazolide antiprotozoal. Used for **pathogen-directed** therapy of parasitic [[acute-diarrhea|acute diarrhea]] **once a specific organism is identified** — the evidence for antimicrobial treatment of *specific* parasitic causes is **strong**, in contrast to empiric antiparasitic therapy ([[acg-2016-acute-diarrhea]] — narrative assessment, not a GRADE-rated recommendation).
+
+- **The trigger is a microbiologic diagnosis, not a syndrome.** [[acg-2016-acute-diarrhea]] ties the strong-evidence claim to molecular diagnostics making specific parasitic diagnoses promptly, "guiding the targeted use of anti-microbial therapy (both agent and duration) to match a specific pathogen." The workup that establishes that diagnosis lives on the acute-diarrhea schema linked above.
 
 ## Indications by Pathogen
 
@@ -27,6 +29,7 @@ Role assignments below are [[idsa-2017-infectious-diarrhea]] Table 6 (Recommende
 ## Other Use — Persistent / Nonresponding Diarrhea
 
 - In diarrhea that **persists or fails to respond** to initial management, nitazoxanide has reduced clinical symptoms in nonresponders and in people with persistent symptoms ([[idsa-2017-infectious-diarrhea]]).
+- **Evidence quality is low.** This is narrative text in IDSA's persistent/recurrent-diarrhea discussion — **not a numbered, graded recommendation** — and rests on two small studies (nitazoxanide in *Blastocystis hominis*–associated persistent diarrhea/enteritis, and a pediatric persistent-diarrhea series). Before reaching for it, IDSA's same passage directs: reassess for [[inflammatory-bowel-disease|IBD]] and [[celiac-disease|celiac disease]], consider [[postinfectious-ibs|post-infectious IBS]], confirm that therapeutic antimicrobial levels were achieved, and treat with nutritional rehabilitation plus fluid and electrolytes as the **mainstays**.
 
 ## Cautions
 
@@ -38,7 +41,7 @@ Role assignments below are [[idsa-2017-infectious-diarrhea]] Table 6 (Recommende
 
 ## See Also
 
-[[cryptosporidiosis]], [[giardiasis]], [[acute-diarrhea]], [[chronic-diarrhea]], [[entamoeba-histolytica-infection]], [[hiv-aids-related-diarrhea]], [[fever-returning-traveler]], [[loperamide]], [[rifaximin]]
+[[cryptosporidiosis]], [[giardiasis]], [[acute-diarrhea]], [[chronic-diarrhea]], [[entamoeba-histolytica-infection]], [[hiv-aids-related-diarrhea]], [[fever-returning-traveler]], [[loperamide]], [[rifaximin]], [[postinfectious-ibs]], [[inflammatory-bowel-disease]], [[celiac-disease]]
 
 ---
 

@@ -3,7 +3,7 @@ title: "Capsule Endoscopy (Video Capsule Endoscopy)"
 category: advanced-procedure
 tags: [capsule-endoscopy, vce, small-bowel, gi-bleeding, crohns-disease, iron-deficiency-anemia, patency-capsule]
 created: 2026-05-19
-updated: 2026-08-31
+updated: 2026-09-03
 sources: [acg-2015-small-bowel-bleeding, asge-2017-small-bowel-bleeding, acg-2025-crohns, aga-2022-hamartomatous-polyposis, asge-2020-fap]
 ---
 
@@ -107,6 +107,8 @@ Predictors of a positive capsule study ([[acg-2015-small-bowel-bleeding]]):
 
 - Repeat VCE **increases diagnostic yield even when the first study is negative**; particularly beneficial when bleeding **changes from occult to overt** or there is a **hemoglobin drop ≥4 g/dL**. ([[acg-2015-small-bowel-bleeding]])
 - Second-look VCE after an initial nondiagnostic study was **positive in 49%** in one prospective series of persistent small-bowel bleeding; in [[iron-deficiency-anemia|IDA]], **35%** of second studies showed positive/suspected findings and **10%** changed management. ([[asge-2017-small-bowel-bleeding]])
+
+---
 
 ## See Also
 

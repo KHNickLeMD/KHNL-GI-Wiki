@@ -3,7 +3,7 @@ title: "Chronic Idiopathic Constipation"
 category: disease-script
 tags: [constipation, cic, laxatives, secretagogues, peg, linaclotide, colorectal, functional]
 created: 2026-05-16
-updated: 2026-09-02
+updated: 2026-09-03
 sources: [aga-acg-2023-constipation, acg-2021-anorectal-disorders, asge-2014-constipation, aga-2026-refractory-constipation, rome-v-2026-dgbi]
 ---
 
@@ -142,16 +142,20 @@ All from [[acg-2021-anorectal-disorders]]:
 | Agent | Class | Dose | Strength/Evidence | Cost/month |
 |-------|-------|------|------------------|-----------|
 | **[[linaclotide\|Linaclotide]]** | GC-C agonist | 72–145 mcg daily (CIC doses); **max 290 mcg daily** | Strong/Moderate | ~$523 |
-| **[[plecanatide\|Plecanatide]]** | GC-C agonist | 3 mg daily | Strong/Low | ~$526 |
-| **[[prucalopride\|Prucalopride]]** | 5-HT4 agonist (prokinetic) | 1–2 mg daily | Strong/Low | ~$563 |
+| **[[plecanatide\|Plecanatide]]** | GC-C agonist | **3 mg once daily** — the *only* approved dose, for CIC **and** IBS-C | Strong/Moderate (Rec 9) | ~$526 |
+| **[[prucalopride\|Prucalopride]]** | 5-HT4 agonist (prokinetic) | **2 mg once daily**; **1 mg daily if CrCl <30 mL/min** (severe renal impairment) | Strong/Moderate (Rec 10) | ~$563 |
 | **[[lubiprostone\|Lubiprostone]]** | ClC-2 chloride channel activator | 24 mcg BID | Conditional/Low | ~$374 |
 
 **Notes on selection:**
 
-- [[linaclotide|Linaclotide]] and [[plecanatide]]: GC-C agonists; accelerate intestinal transit and secretion; diarrhea is main side effect; do not use in known or suspected GI obstruction; linaclotide 72 mcg also approved for CIC
-- [[prucalopride|Prucalopride]]: prokinetic; useful when colon transit is slow; avoid in renal failure (dose reduction)
+- [[linaclotide|Linaclotide]] and [[plecanatide]]: GC-C agonists; accelerate intestinal transit and secretion; diarrhea is the main side effect; linaclotide 72 mcg also approved for CIC
+  - **Do not extrapolate a contraindication across the GC-C class.** AGA-ACG 2023 prints the GI-obstruction contraindication for [[linaclotide]] and states **none for plecanatide** (see [[plecanatide]]).
+- [[prucalopride|Prucalopride]]: prokinetic; useful when colon transit is slow.
+  - Renal adjustment is a **specific threshold, not "avoid"** — 1 mg daily at **CrCl <30 mL/min**
+  - **Contraindicated** in intestinal **perforation or obstruction**, [[crohns-disease|Crohn's disease]], [[ulcerative-colitis]], and [[toxic-megacolon|toxic megacolon/megarectum]] — note this rules it out in active IBD, not just mechanical obstruction
+  - **Label caution on mood/suicidality:** in a 4,476-subject safety database, 4 attempted and 2 completed suicides — both completed cases had stopped prucalopride >1 month before the event. Causality and mechanism are explicitly **unclear**; the label asks clinicians to watch for unusual changes in mood, behavior, and suicidal ideation
 - Lubiprostone: FDA-approved for CIC in adults ≥18 years; nausea in 20–30%; limited by cost and need for BID dosing
-- IBS-C note: linaclotide 290 mcg, plecanatide 6 mg, and [[tegaserod]] (withdrawn in US) are IBS-C specific doses — do not apply this guideline to IBS-C
+- IBS-C note: [[linaclotide]] 290 mcg and [[tegaserod]] (withdrawn in US) are IBS-C-specific doses — do not apply this guideline to IBS-C. **[[plecanatide]] is the exception: 3 mg once daily is the approved dose for *both* CIC and IBS-C** (a "6 mg" IBS-C dose was studied but never approved)
 
 ### Defecation Disorder: Biofeedback
 

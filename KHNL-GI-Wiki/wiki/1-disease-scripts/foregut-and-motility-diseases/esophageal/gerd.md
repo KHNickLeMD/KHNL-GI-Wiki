@@ -3,9 +3,31 @@ title: "Gastroesophageal Reflux Disease"
 category: disease-script
 tags: [gerd, reflux, esophageal, foregut, motility]
 created: 2026-05-15
-updated: 2026-09-01
+updated: 2026-09-03
 sources: [asge-2024-gerd, acg-2021-gerd, sages-2021-gerd-surgery, lyon-2024-gerd-diagnosis, aga-2024-pcab, aga-2023-extraesophageal-gerd, acg-2020-esophageal-physiologic-testing]
 ---
+
+## Contents
+- [[#Assessment]]
+  - [[#Establishing the Diagnosis]]
+  - [[#Severity Assessment]]
+  - [[#Classification / Typing]]
+- [[#Differential Diagnosis]]
+- [[#Diagnostics]]
+  - [[#Endoscopy]]
+  - [[#pH Monitoring]]
+  - [[#High-Resolution Manometry]]
+  - [[#CYP2C19 Genotyping]]
+- [[#Therapeutics]]
+  - [[#Step 1: Lifestyle Modifications (Strong, Low Evidence)]]
+  - [[#Step 2: Medical Management]]
+  - [[#Step 3: Endoscopic Anti-Reflux Therapies]]
+  - [[#Step 4: Surgical Options]]
+  - [[#Extraesophageal GERD Manifestations]]
+  - [[#Refractory GERD (ACG 2021)]]
+  - [[#Monitoring]]
+- [[#See Also]]
+- [[#Sources]]
 
 ## Assessment
 

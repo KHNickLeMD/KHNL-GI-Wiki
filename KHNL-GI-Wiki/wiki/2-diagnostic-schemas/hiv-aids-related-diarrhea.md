@@ -3,7 +3,7 @@ title: "HIV/AIDS-Related Diarrhea"
 category: diagnostic-schema
 tags: [hiv, aids, diarrhea, opportunistic-infections, cd4, immunocompromised]
 created: 2026-06-08
-updated: 2026-08-30
+updated: 2026-09-03
 sources: [acg-2016-acute-diarrhea, asge-2010-diarrhea, idsa-2017-infectious-diarrhea]
 ---
 
@@ -55,7 +55,7 @@ Diarrhea in the HIV/AIDS host, where the differential widens with falling CD4 co
 | Test | Yield / caveat |
 |---|---|
 | [[colonoscopy\|Colonoscopy]] vs flexible sigmoidoscopy (HIV) | Higher yield and more cost-effective — **39% vs 22%**; proximal-colon biopsies capture pathogens and lymphomas beyond sigmoidoscope reach |
-| Colonoscopic biopsy yield by CD4 | Rises with **CD4 <100** (opportunistic infections) |
+| Colonoscopic biopsy yield by CD4 | Significantly higher with a **CD4 count <100 cells/mm³** — opportunistic infections are more common when CD4 is low ([[asge-2010-diarrhea]]) |
 | CMV PCR / culture / serology | A positive result does **not** confirm tissue-invasive disease — **endoscopic biopsy** (± in situ hybridization, IHC, tissue culture) may be required |
 | Distal-colon biopsy (GVHD) | Sensitivity **82–95%** |
 | Duodenal biopsy (GVHD) | Hematoma risk, especially acute GVHD + thrombocytopenia |
@@ -66,7 +66,7 @@ Diarrhea in the HIV/AIDS host, where the differential widens with falling CD4 co
 ## Red Flags / Alarm Features
 
 - **Persistent diarrhea with nondiagnostic stool studies** — proceed to endoscopy with biopsy rather than repeating stool tests.
-- **CD4 <100** — opportunistic-infection yield rises; do not stop at sigmoidoscopy.
+- **CD4 <100 cells/mm³** — opportunistic-infection yield rises; do not stop at sigmoidoscopy.
 - **Upper-GI symptoms predominating** in a post-HSCT patient — add EGD with biopsies.
 - **Severe illness with bloody diarrhea in an immunocompromised host** — one of the few settings where **empiric antibacterial therapy should be considered** rather than withheld pending stool results ([[idsa-2017-infectious-diarrhea|IDSA 2017]] Rec 32).
 
@@ -89,12 +89,12 @@ Diarrhea in the HIV/AIDS host, where the differential widens with falling CD4 co
 | Agent, when empiric therapy is given (adults) | **Fluoroquinolone (e.g. ciprofloxacin) or azithromycin**, by local susceptibility and travel history (Rec 31, strong/moderate) |
 | Organism identified | Modify or discontinue the antimicrobial (Rec 38, strong/high) |
 
-- **[[loperamide]]** is endorsed only for **immunocompetent** adults with acute watery diarrhea (Rec 47, weak/moderate), and must be avoided at any age with **fever, inflammatory diarrhea, or toxic-megacolon risk** (strong/low). **[[probiotics]]** are likewise offered only to **immunocompetent** adults and children (Rec 49, weak/moderate).
+- **[[loperamide]]** is endorsed only for **immunocompetent** adults with acute watery diarrhea (Rec 47, weak/moderate), and must be avoided at any age with **fever, inflammatory diarrhea, or [[toxic-megacolon|toxic-megacolon]] risk** (strong/low). **[[probiotics]]** are likewise offered only to **immunocompetent** adults and children (Rec 49, weak/moderate).
 - Symptoms ≥14 days without an identified source → also consider **noninfectious** causes ([[inflammatory-bowel-disease|IBD]], [[irritable-bowel-syndrome|IBS]], lactose intolerance; Rec 27–28).
 
 ## See Also
 
-[[acute-diarrhea]], [[chronic-diarrhea]], [[cryptosporidiosis]], [[giardiasis]], [[entamoeba-histolytica-infection]], [[clostridioides-difficile]], [[salmonella-infection]], [[shigellosis]], [[campylobacter-infection]], [[norovirus]], [[nitazoxanide]], [[loperamide]], [[probiotics]], [[colonoscopy]], [[upper-endoscopy]], [[inflammatory-bowel-disease]], [[irritable-bowel-syndrome]], [[infectious-esophagitis]]
+[[acute-diarrhea]], [[chronic-diarrhea]], [[cryptosporidiosis]], [[giardiasis]], [[entamoeba-histolytica-infection]], [[clostridioides-difficile]], [[salmonella-infection]], [[shigellosis]], [[campylobacter-infection]], [[norovirus]], [[nitazoxanide]], [[loperamide]], [[probiotics]], [[colonoscopy]], [[upper-endoscopy]], [[inflammatory-bowel-disease]], [[irritable-bowel-syndrome]], [[infectious-esophagitis]], [[toxic-megacolon]]
 
 ---
 

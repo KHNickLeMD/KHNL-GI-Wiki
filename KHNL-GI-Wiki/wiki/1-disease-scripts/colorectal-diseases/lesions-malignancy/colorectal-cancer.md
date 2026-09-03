@@ -4,7 +4,7 @@ category: disease-script
 tags: [crc, colorectal-cancer, adenocarcinoma, oncology, screening, surveillance, post-resection, metachronous, rectal-cancer]
 created: 2026-05-19
 updated: 2026-09-02
-sources: [acg-2015-hereditary-gi-cancer, usmstf-2015-crc-surveillance, usmstf-2016-fit-screening, acg-2021-crc-screening, nccn-2026-colon-cancer, asge-2013-crc-staging-management, aga-2025-endoscopic-resection-crc]
+sources: [acg-2015-hereditary-gi-cancer, usmstf-2015-crc-surveillance, usmstf-2016-fit-screening, acg-2021-crc-screening, nccn-2026-colon-cancer, asge-2013-crc-staging-management, aga-2025-endoscopic-resection-crc, kanaka-2022-colonic-stent-bts-right-sided]
 ---
 
 *Screening is covered in [[colorectal-cancer-screening]] and in detail below (FIT). Hereditary syndromes: [[lynch-syndrome]], [[familial-adenomatous-polyposis]], [[mutyh-associated-polyposis]], [[peutz-jeghers-syndrome]], [[juvenile-polyposis-syndrome]], [[cowden-syndrome]], [[serrated-polyposis-syndrome]]. Polyp management: [[polypectomy]] and [[colonoscopy]].*
@@ -18,6 +18,7 @@ sources: [acg-2015-hereditary-gi-cancer, usmstf-2015-crc-surveillance, usmstf-20
 - [[#Therapeutics]]
   - [[#Oncologic Management (NCCN 2026)]]
   - [[#Endoscopic Staging & Management (ASGE 2013)]]
+  - [[#Malignant Large Bowel Obstruction — Bridge to Surgery vs Emergency Resection]]
 - [[#Post-Resection Surveillance]]
   - [[#Epidemiology of Post-Resection Risk]]
   - [[#Universal Lynch Syndrome Testing]]
@@ -183,6 +184,32 @@ flowchart TD
   - Attempt EMR only if complete resection is anticipated (see [[endoscopic-mucosal-resection]]).
   - **Early (T1) CRC, AGA 2025:** suspected T1 CRC should be removed **en bloc** ([[colorectal-esd|ESD]] preferred; [[endoscopic-full-thickness-resection|eFTR]] for select <2 cm with deep SMI). For high-risk T1 CRC surgery is standard, but >80% have no LNM at surgery — individualize against operative morbidity; deep submucosal invasion *as a solitary feature* carries only ~2.6% LNM risk. Detailed criteria, LNM data, and post-resection surveillance: [[polypectomy]].
 - **Malignant colonic obstruction:** endoscopic options are SEMS, tumor debulking, or decompression tube. Colonic SEMS as **bridge to surgery** → single-stage elective surgery succeeds in 60–85%. SEMS major adverse events: obstruction, migration, perforation. Obtain early surgical consultation even after successful decompression; avoid endoscopy with peritoneal signs or suspected perforation.
+
+### Malignant Large Bowel Obstruction — Bridge to Surgery vs Emergency Resection
+
+**Two distinct indications — do not merge them.** *Bridge to surgery* (BTS) = preoperative SEMS decompression then **elective** resection, in **resectable** disease where every patient goes on to surgery. *Palliative stenting* of incurable obstruction is a different decision (the stomach's version of that question is [[jeurnink-2010-sustent-goo|SUSTENT]], on [[gastric-outlet-obstruction]]). The comparator for BTS is **emergency one-stage resection (ER)**.
+
+**Why side matters.** BTS is the established approach for **left-sided** obstruction; right-sided disease has been managed by emergency resection with primary anastomosis on the assumption that this is safe. Right-sided is **32–54% of malignant large bowel obstruction**, yet only **~5%** of reported BTS cases. Right-sided SEMS is technically harder — right-colon tumour site independently predicted technical difficulty (OR 2.5, 95% CI 1.61–4.01). ([[kanaka-2022-colonic-stent-bts-right-sided]])
+
+**Right-sided outcomes — BTS vs ER** (meta-analysis, 7 non-randomized comparative studies, n=5136; [[kanaka-2022-colonic-stent-bts-right-sided]]):
+
+| Outcome | BTS | ER | Effect | GRADE |
+|---|---|---|---|---|
+| Postoperative complications | **19.3%** | 31.3% | OR 0.78 (0.66–0.92) | ⊕OOO very low |
+| Postoperative mortality | **0.9%** | 5.2% | OR 0.51 (0.28–0.92) | ⊕⊕OO low |
+| **Severe complications** (Clavien–Dindo ≥III / reintervention) | — | — | **OR 0.98 (0.68–1.41) — NS** | — |
+| Primary anastomosis | **97.8%** | 85.9% | P=0.04 | very low |
+| Stoma construction | **2.0%** | 11.0% | P<0.01 | low |
+| Laparoscopic surgery | **48.5%** | 15.7% | P<0.01 (I²=67% — weakest finding) | low |
+| Anastomotic leakage | **2.6%** | 5.6% | P=0.03 | very low |
+| Surgical site infection | **4.6%** | 5.8% | P<0.01 | very low |
+| Ileus | 6.7% | 3.1% | NS — **the one signal favouring ER** | very low |
+
+- **Read the rates, not the odds ratios,** for primary anastomosis / stoma / laparoscopic surgery — those ORs are computed on the complement and the source's own prose misstates their direction.
+- **Timing after stenting does not change the benefit** — complication reduction held both **<20 days** (OR 0.45, 0.22–0.92) and **≥20 days** (OR 0.81, 0.68–0.96). Reported SEMS-to-surgery intervals across studies: **7.5–28.1 days** (medians).
+- **Three qualifiers travel with every number above.** (1) **Severe complications did not differ** — the benefit sits in overall/milder morbidity. (2) Evidence is **very low to low GRADE, no RCTs**; the authors' dominant concern is selection toward "easy-to-stent cases." (3) **"Right-sided" was defined inconsistently** — 5 of 7 studies included the *entire transverse colon*.
+- **Baseline risk that motivates the question:** emergency right hemicolectomy 30-day mortality **6.0% vs 0.7% elective**; previously reported ER outcomes for right-sided obstruction, mortality 8.8–14.5% and morbidity 32–54.3%.
+- ⚠ **Corpus gap — the left-sided half of this topic is not covered.** The ESGE 2020 SEMS guideline (van Hooft, *Endoscopy* 2020;52:389–407) is **not ingested**; its left-sided BTS recommendation is known here only secondhand through the above meta-analysis's introduction and is **not** asserted as a guideline claim.
 
 ---
 
@@ -392,7 +419,7 @@ The ACG 2021 and USMSTF 2021 guidelines do not supersede the FIT-specific operat
 
 ## See Also
 
-[[colorectal-cancer-screening]], [[colonoscopy]], [[polypectomy]], [[lynch-syndrome]], [[familial-adenomatous-polyposis]], [[serrated-polyposis-syndrome]], [[endoscopic-ultrasound]], [[colonoscopy-surveillance]], [[inflammatory-bowel-disease]], [[ulcerative-colitis]], [[ibd-in-malignancy]], [[gastroenteropancreatic-neuroendocrine-tumors]], [[colorectal-esd]], [[capsule-endoscopy]], [[endoscopic-mucosal-resection]], [[endoscopic-full-thickness-resection]], [[acute-lower-gi-bleeding]]
+[[colorectal-cancer-screening]], [[colonoscopy]], [[polypectomy]], [[lynch-syndrome]], [[familial-adenomatous-polyposis]], [[serrated-polyposis-syndrome]], [[endoscopic-ultrasound]], [[colonoscopy-surveillance]], [[inflammatory-bowel-disease]], [[ulcerative-colitis]], [[ibd-in-malignancy]], [[gastroenteropancreatic-neuroendocrine-tumors]], [[colorectal-esd]], [[capsule-endoscopy]], [[endoscopic-mucosal-resection]], [[endoscopic-full-thickness-resection]], [[acute-lower-gi-bleeding]], [[endoscopic-oncology]], [[gastric-outlet-obstruction]]
 
 ---
 
@@ -405,3 +432,4 @@ The ACG 2021 and USMSTF 2021 guidelines do not supersede the FIT-specific operat
 5. [[nccn-2026-colon-cancer|NCCN Clinical Practice Guidelines in Oncology: Colon Cancer (Version 2.2026)]]
 6. [[asge-2013-crc-staging-management|ASGE 2013: Role of Endoscopy in the Staging and Management of Colorectal Cancer]]
 7. [[aga-2025-endoscopic-resection-crc|AGA Clinical Practice Update on Endoscopic Resection for Early Colorectal Cancer: Commentary (2025)]]
+8. [[kanaka-2022-colonic-stent-bts-right-sided|Colonic stent as a bridge to surgery versus emergency resection for right-sided malignant large bowel obstruction: a meta-analysis]]

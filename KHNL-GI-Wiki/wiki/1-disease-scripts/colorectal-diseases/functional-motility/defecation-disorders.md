@@ -3,7 +3,7 @@ title: "Defecation Disorders (Dyssynergic Defecation)"
 category: disease-script
 tags: [defecation-disorder, dyssynergia, outlet-obstruction, biofeedback, anorectal-manometry, colorectal, pelvic-floor]
 created: 2026-05-16
-updated: 2026-09-02
+updated: 2026-09-03
 sources: [acg-2021-anorectal-disorders, aga-acg-2023-constipation, rome-v-2026-dgbi]
 ---
 
@@ -54,7 +54,7 @@ Severity based on symptom burden, laxative dependence, impact on QoL (PAC-QoL, P
 |-----------|-------------|
 | Slow-transit constipation | Delayed radiopaque marker transit throughout colon; normal anorectal physiology; not outlet dysfunction; poor biofeedback response |
 | [[chronic-idiopathic-constipation\|Chronic idiopathic constipation]] (normal transit) | Normal ARM + BET; responds to osmotic laxatives and secretagogues |
-| Rectocele | Structural defect; detected on defecography; significant if ≥5 cm with trapping; co-exists with dyssynergia in many patients |
+| Rectocele | Structural defect detected on clinical exam or defecography; **common in asymptomatic women**; co-exists with dyssynergia in many patients. Surgical-selection criteria under [[#Step 3: Surgery (After Biofeedback Failure with Structural Abnormality)]] |
 | [[rectal-prolapse\|Rectal prolapse]] (full-thickness) | Circular folds visible; inspect in squatting position or on toilet |
 | Hirschsprung disease | Usually diagnosed in childhood; aganglionic segment; suction rectal biopsy |
 | Rectal hyposensitivity (Rome V **F4a**) | Same outlet complaints (straining, digitation) but from **blunted rectal sensation**, not incoordination; separated by rectal sensitivity testing; treated by balloon sensory training |
@@ -149,7 +149,7 @@ Severity based on symptom burden, laxative dependence, impact on QoL (PAC-QoL, P
 | Structural Issue | Procedure | Outcomes |
 |----------------|-----------|---------|
 | Full-thickness rectal prolapse | Laparoscopic rectopexy (posterior or ventral mesh preferred); Altemeier procedure for elderly/frail | 73–91% "some benefit" for rectopexy; 5–15% mesh erosion; 2–7% anatomic recurrence |
-| Significant rectocele (≥5 cm, trapping on defecography, refractory gynecological symptoms) | Rectovaginal reinforcement (transanal, vaginal, or transperineal); avoid vaginal mesh (FDA withdrawn) | 30–50% improvement in constipation; 67–78% satisfactory outcomes |
+| **Rectocele — read the indication in order** [[acg-2021-anorectal-disorders]]: (1) **bothersome gynecological symptoms** (perineal bulging, protrusion through the vaginal introitus) is the primary indication for surgery; (2) **without** those symptoms, defecatory dysfunction + coexistent rectocele is managed **conservatively first, including [[biofeedback-therapy\|biofeedback]]**; (3) only on failure do the two suggested selection features apply — **significant size (e.g. >5 cm)** on clinical assessment/imaging **and** **trapping or non-emptying on dynamic assessment** (defecography). *Caveat printed in the guideline: others hold that **size alone is not a criterion** for surgery.* Rectoceles are commonly found in **asymptomatic** women and usually need no surgery | Reinforcement of the rectovaginal wall — **vaginal or transanal**; the vaginal approach appears more favorable for pelvic-organ-prolapse syndromes. Avoid vaginal mesh (FDA withdrawn) | 30–50% improvement in constipation; 67–78% satisfactory outcomes; **7–17% occasional serious complications** |
 | No structural abnormality + dyssynergia fails biofeedback | Botulinum toxin A into puborectalis: limited evidence, not recommended long-term; STARR (stapled transanal rectal resection): NOT recommended (complications, no US adoption) | — |
 
 **[[sacral-nerve-stimulation|Sacral nerve stimulation]] (SNS) for constipation:** NOT effective (Strong/Low from RCT data) — do not use for DD or slow-transit constipation.
@@ -157,7 +157,7 @@ Severity based on symptom burden, laxative dependence, impact on QoL (PAC-QoL, P
 ---
 
 ## See Also
-[[chronic-constipation]], [[chronic-idiopathic-constipation]], [[fecal-incontinence]], [[proctalgia-syndromes]], [[irritable-bowel-syndrome]], [[hemorrhoids]], [[anal-fissure]], [[rectal-prolapse]], [[anorectal-manometry]], [[high-resolution-manometry]], [[biofeedback-therapy]], [[sacral-nerve-stimulation]]
+[[chronic-constipation]], [[chronic-idiopathic-constipation]], [[fecal-incontinence]], [[proctalgia-syndromes]], [[irritable-bowel-syndrome]], [[hemorrhoids]], [[anal-fissure]], [[rectal-prolapse]], [[anorectal-manometry]], [[high-resolution-manometry]], [[biofeedback-therapy]], [[sacral-nerve-stimulation]], [[disorders-of-gut-brain-interaction]], [[inflammatory-bowel-disease]]
 
 ---
 

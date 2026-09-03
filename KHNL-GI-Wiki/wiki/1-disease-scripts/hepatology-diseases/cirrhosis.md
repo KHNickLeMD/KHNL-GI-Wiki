@@ -3,7 +3,7 @@ title: "Cirrhosis"
 category: disease-script
 tags: [cirrhosis, liver, hpb, decompensation, compensated, meld, child-pugh, vocal-penn, csph, portal-hypertension, fibrosis, f4, nilda, fib-4, elastography, perioperative, frailty, palliative-care, liver-transplant]
 created: 2026-07-16
-updated: 2026-08-28
+updated: 2026-09-03
 sources: [aasld-2023-portal-hypertension, aasld-2024-nilda-blood, aasld-2024-nilda-portal-htn, acg-2025-perioperative-cirrhosis, aasld-2021-ascites-sbp-hrs, aasld-2021-malnutrition-cirrhosis, aasld-2024-aclf, aga-2021-cirrhosis-coagulation, aasld-2022-palliative-cirrhosis, nccn-2026-hcc, baveno-vii-2022-portal-hypertension, aasld-ast-2025-liver-transplant-candidate-evaluation]
 ---
 
@@ -71,11 +71,23 @@ Scores mix liver-disease severity, non-hepatic patient factors, and (for surgery
 
 **Class A = 5–6 points** (good operative risk); **Class B = 7–9** (moderate); **Class C = 10–15** (poor) ([[nccn-2026-hcc]]).
 
-**MELD-Na** = 1.33 (if female) + [4.56 × logₑ(bilirubin)] + [0.82 × (137−Na)] − [0.24 × (137−Na) × logₑ(bilirubin)] + [9.09 × logₑ(INR)] + [11.14 × logₑ(creatinine)] + [1.85 × (3.5−albumin)] − [1.83 × (3.5−albumin) × logₑ(creatinine)] + 6 ([[nccn-2026-hcc]]).
+**MELD score — the current (MELD 3.0) formula**, printed by [[nccn-2026-hcc]] under the heading "MELD SCORE" and sourced there to the OPTN 2024 liver-allocation briefing:
+
+**MELD** = 1.33 (if female) + [4.56 × logₑ(bilirubin)] + [0.82 × (137−Na)] − [0.24 × (137−Na) × logₑ(bilirubin)] + [9.09 × logₑ(INR)] + [11.14 × logₑ(creatinine)] + [1.85 × (3.5−albumin)] − [1.83 × (3.5−albumin) × logₑ(creatinine)] + 6
+
+> ⚠ **This formula is *not* MELD-Na — read the score name literally.** [[aasld-ast-2025-liver-transplant-candidate-evaluation]] states that since 2013 the MELD score "has undergone several adjustments to account for the excess risk of **hyponatremia, female sex, and malnutrition** on mortality," and calls **MELD-Na "the precursor to the most recent version of MELD"** (MELD 3.0). The formula above carries all three of those adjustments — sodium, a female-sex constant, and albumin — so it is the **most recent iteration (MELD 3.0)**, not MELD-Na. **MELD-Na** comprises bilirubin, INR, creatinine, and sodium only (see the variable table above); it has no albumin or sex term, and its coefficients are not in any ingested source.
 
 **ALBI grade** (bilirubin + albumin only; no subjective ascites/encephalopathy): score = [log₁₀ bilirubin (µmol/L) × 0.66] + [albumin (g/L) × −0.085]. **Grade 1 ≤ −2.60; Grade 2 > −2.60 to ≤ −1.39; Grade 3 > −1.39** ([[nccn-2026-hcc]]).
 
-> ⚠ **Decision gap — only MELD-Na can be computed from the wiki.** Several pages condition management on a *different* MELD variant: [[alcohol-associated-liver-disease|ALD]] defines severe alcohol-associated hepatitis by **original MELD >20** and explicitly says to use original MELD rather than MELD-Na, and both [[hepatic-encephalopathy|HE]] and [[liver-transplantation|LT]] reference **MELD 3.0**. Neither the **original MELD** nor the **MELD 3.0** formula/coefficients appear in any ingested source — [[aasld-ast-2025-liver-transplant-candidate-evaluation]] cites MELD 3.0 to Kim WR et al. rather than reproducing it. Use an external calculator, or ingest the Kamath 2001 (MELD) and Kim 2021 (MELD 3.0) derivation papers. **Do not reconstruct the coefficients from memory.**
+> ⚠ **Decision gap — which MELD, and which of them can actually be computed here.** The variants are **not interchangeable**; they differ by several points around exactly the cutoffs that decide management, so substituting one for another changes the decision.
+>
+> | Variant | Variables | Formula available on this wiki? | Decisions that use it |
+> |---|---|---|---|
+> | **MELD 3.0** (current allocation score) | Bilirubin, INR, creatinine, sodium, albumin, female sex | **Yes** — above ([[nccn-2026-hcc]]) | LT referral threshold ([[liver-transplantation\|LT]]); [[hepatic-encephalopathy\|HE]] |
+> | **MELD-Na** | Bilirubin, INR, creatinine, sodium | **No** | ALD transplant referral (MELD-Na ≥21, [[alcohol-associated-liver-disease\|ALD]]); [[acg-2025-perioperative-cirrhosis\|ACG]] surgical risk table |
+> | **Original MELD** | Bilirubin, INR, creatinine | **No** | Severe alcohol-associated hepatitis (**original MELD >20**, explicitly *not* MELD-Na — [[alcohol-associated-liver-disease\|ALD]]); [[tips\|TIPS]] selection and futility thresholds |
+>
+> For the two variants with no formula here, use an external calculator or ingest the Kamath 2001 (original MELD) and the MELD-Na derivation papers. **Do not reconstruct the coefficients from memory.**
 
 **Key severity anchors:**
 

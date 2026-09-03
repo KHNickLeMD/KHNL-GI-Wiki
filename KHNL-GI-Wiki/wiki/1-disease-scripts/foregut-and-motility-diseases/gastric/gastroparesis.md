@@ -3,9 +3,40 @@ title: "Gastroparesis"
 category: disease-script
 tags: [gastroparesis, gastric-motility, prokinetics, g-poem, gastric-emptying, foregut]
 created: 2026-05-15
-updated: 2026-08-31
+updated: 2026-09-03
 sources: [acg-2022-gastroparesis, aga-2025-gastroparesis, surjanhata-2025-constipation-gastroparesis]
 ---
+
+## Contents
+- [[#Assessment]]
+  - [[#Establishing the Diagnosis]]
+  - [[#Severity Assessment (GCSI, symptom domains)]]
+  - [[#Classification / Typing]]
+- [[#Differential Diagnosis]]
+- [[#Diagnostics]]
+  - [[#Scintigraphic Gastric Emptying (SGE) — Gold Standard]]
+  - [[#Wireless Motility Capsule (WMC / SmartPill)]]
+  - [[#¹³C-Spirulina Breath Test]]
+  - [[#Radiopaque Markers (ROM)]]
+  - [[#Electrogastrography (EGG)]]
+  - [[#Full-Thickness Biopsies]]
+  - [[#EndoFLIP / Pyloric Assessment]]
+- [[#Therapeutics]]
+  - [[#AGA 2025 Recommendations — What Is Actually Suggested]]
+  - [[#Defining "Refractory to Medical Therapy" — the Gate for Every Procedure]]
+  - [[#1. Dietary Modification (First-Line)]]
+  - [[#2. Glycemic Control (Diabetic GP)]]
+  - [[#3. Nutritional Support]]
+  - [[#4. Prokinetic Agents]]
+  - [[#5. Antiemetics]]
+  - [[#6. Agents NOT Recommended]]
+  - [[#7. Pyloric Therapies]]
+  - [[#8. Gastric Electrical Stimulation (GES)]]
+  - [[#9. Immunotherapy (Investigational)]]
+  - [[#10. Acupuncture (DG Only)]]
+- [[#Clinical Pearls]]
+- [[#See Also]]
+- [[#Sources]]
 
 ## Assessment
 
@@ -55,6 +86,7 @@ sources: [acg-2022-gastroparesis, aga-2025-gastroparesis, surjanhata-2025-consti
 | Abdominal pain | **0.24** |
 
 - A treatment effect **exceeding** the MID is clinically important; **below** it, the change is trivial — this is how AGA 2025 rated certainty for every drug and device on this page.
+- ⚠ **Decision gap (corpus-blocked — do not fill from memory):** the **individual GCSI/GCSI-DD items** within each subscale, and the averaging rule that produces the composite, are **not printed** in [[acg-2022-gastroparesis|ACG 2022]] or [[aga-2025-gastroparesis|AGA 2025]] — both give only the domains, the 0–4 anchors, and the MIDs. A score reported to you can therefore be *interpreted* from this page, but not *computed*. Needed: Revicki DA, Camilleri M, Kuo B, et al. Evaluating symptom outcomes in gastroparesis clinical trials: validity and responsiveness of the GCSI-DD. *Neurogastroenterol Motil* 2012;24:456–463 (AGA 2025 ref 12 — the source of the MIDs above, not in `raw/`).
 - **Contradiction surfaced (and how it resolves).** The frequently quoted **"≥1-point GCSI improvement = response"** is *not* a guideline-endorsed MID: in [[acg-2022-gastroparesis|ACG 2022]] it appears only as the responder definition of a single tradipitant RCT (Carlin 2021: >1-point improvement in 46.6% vs 23.5% placebo). AGA 2025 notes a later validation study did propose a 1-point change on the 0–4 scale, but **declined to use it** because nearly all prior trials — including the tradipitant trials — did not use it as a primary endpoint. **Use the 0.58 total-score MID.**
 
 **Severity correlates:**
@@ -164,9 +196,9 @@ sources: [acg-2022-gastroparesis, aga-2025-gastroparesis, surjanhata-2025-consti
 - NOT recommended routinely; reserved for research
 - Histologic findings: interstitial cells of Cajal (ICC) depletion, macrophage infiltration, reduced nNOS expression
 
-### EndoFLIP / Pyloric Assessment [[flip-panometry]]
+### EndoFLIP / Pyloric Assessment
 
-- Measures pyloric diameter, cross-sectional area (CSA), pressure, and distensibility index (DI)
+- [[flip-panometry|EndoFLIP]] measures pyloric diameter, cross-sectional area (CSA), pressure, and distensibility index (DI)
 - Reduced pyloric DI (<10 mm²/mm Hg) associated with greater gastric retention and may predict response to pyloric therapy
 - Post-[[g-poem|G-POEM]] increase in CSA and DI correlates with clinical success
 - DI threshold 9.2 mm²/mm Hg: 100% specificity, 72.2% sensitivity for G-POEM clinical success (one center)

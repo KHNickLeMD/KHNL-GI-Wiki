@@ -3,7 +3,7 @@ title: "Radiofrequency Ablation (RFA)"
 category: advanced-procedure
 tags: [barretts-esophagus, rfa, ablation, eet, dysplasia, radiation-proctopathy, biliary, foregut]
 created: 2026-06-04
-updated: 2026-08-27
+updated: 2026-09-03
 sources: [asge-2018-barretts-eet, acg-2022-barretts, aga-2024-barretts-eet, asge-2019-radiation-proctopathy, acg-2023-biliary-strictures, aasld-2023-hcc]
 ---
 
@@ -77,6 +77,8 @@ Radiofrequency ablation (RFA) delivers controlled thermal energy to destroy a th
 - **Cryotherapy** (spray liquid nitrogen or cryoballoon) — acceptable alternative in BE, especially **RFA-refractory** disease; no RCT vs RFA. CED/CE-IM: 81–88%/57–61% (spray), 76%/72% (cryoballoon) ([[acg-2022-barretts]]).
 - **Argon plasma coagulation (APC)** — the most-used endoscopic modality for radiation proctopathy; note reported **colonic gas explosion** with inadequate bowel prep ([[asge-2019-radiation-proctopathy]]).
 - **Complete EMR of the entire BE segment** — **strongly recommended against** in favor of focal EMR + RFA ([[asge-2018-barretts-eet]] Rec 6); the comparative stricture/bleeding/perforation odds ratios live on [[endoscopic-eradication-therapy]].
+
+---
 
 ## See Also
 

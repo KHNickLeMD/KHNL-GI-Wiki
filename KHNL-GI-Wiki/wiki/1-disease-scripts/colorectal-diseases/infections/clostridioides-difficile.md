@@ -3,7 +3,7 @@ title: "Clostridioides difficile Infection"
 category: disease-script
 tags: [cdiff, clostridioides-difficile, colitis, vancomycin, fidaxomicin, fmt, colorectal]
 created: 2026-05-15
-updated: 2026-08-30
+updated: 2026-09-03
 sources: [acg-2021-cdiff, aga-2024-fmt, aga-2026-cdiff-ibd, feuerstadt-2022-ser109-cdiff]
 ---
 
@@ -182,17 +182,25 @@ Higher doses of vancomycin (>125 mg QID) are not recommended for severe CDI — 
 
 **Bezlotoxumab (adjunct to prevent recurrence):**
 
-- Single weight-based IV infusion during a course of anti-CDI treatment (half-life 19 days)
-- Consider for patients at high risk of recurrence: age ≥65 with ≥1 additional risk factor (second CDI episode within past 6 months, immunocompromised, or severe CDI)
+- Single **weight-based IV infusion** given **during** a course of anti-CDI treatment (half-life 19 days). *(ACG gives no mg/kg — the guideline says only "single weight-based intravenous infusion".)* [[acg-2021-cdiff]]
+- **Rec 19: consider BEZ in patients at high risk of recurrence** *(conditional, moderate)*. The guideline does not define "high risk" in the recommendation itself; the **four predefined subgroups in which benefit was greatest** are the operative criteria [[acg-2021-cdiff]]:
+  - **Age ≥65 years**
+  - **Currently experiencing a recurrent episode of CDI**
+  - **Immunocompromised**
+  - **Severe CDI**
+- **Greatest absolute benefit — a combination, not a single factor:** patients with **both a history of CDI *and* severe CDI** (absolute difference in recurrence **−35.7%**, 95% CI −60.5% to −2.8%)
 - NNT = 10 overall; NNT = 6 in **each** of two separate subgroups — age ≥65, **and** ≥1 CDI episode within the past 6 months (the guideline reports these as two subgroups, not as a combined stratum). [[acg-2021-cdiff]]
-- Do NOT use in CHF — higher rates of serious adverse events and deaths in phase 3 trials; use with caution in severe cardiovascular disease
-- No benefit over placebo in low-risk patients (age <65 without additional risk factors)
+- Equally effective against the hypervirulent **NAP1/BI/027** strain (recurrence 23.6% BEZ vs 34% placebo)
+- Do NOT use with a **history of heart failure** — heart-failure incidence 2% vs 1% in phase 3, and among CHF patients BEZ had more treatment-emergent AEs (83.9% vs 70.2%), serious AEs (53.4% vs 48%), and deaths (19.5% vs 12.5%); **use with caution** in severe underlying cardiovascular comorbidity. There are **no absolute contraindications**. [[acg-2021-cdiff]]
+- **No significant benefit over placebo in patients with *no* risk factors for recurrence** (20.9% vs 18.8%) — and post hoc, **patients <65 years derived no significant benefit *whether or not* they had additional risk factors**
 - **IBD is not itself a qualifying risk factor** — the post hoc IBD subgroup (n=44) only trended toward benefit, so there is insufficient evidence to give bezlotoxumab for IBD **in the absence of the risk factors listed above**. [[acg-2021-cdiff]]
 
 **Suppressive/prophylactic vancomycin:**
 
-- Suppressive oral vancomycin 125 mg once daily for patients not FMT candidates, post-FMT failure, or requiring frequent/ongoing systemic antibiotics (conditional, very low quality)
-- Oral vancomycin prophylaxis (OVP) 125 mg once daily during subsequent systemic antibiotic use: consider in high-risk patients (age ≥65, severe CDI within past 3 months, significant immunocompromise); continue until 5 days after antibiotics complete (conditional, low quality)
+- Suppressive oral vancomycin 125 mg once daily for patients not FMT candidates, post-FMT failure, or requiring frequent/ongoing systemic antibiotics *(Rec 17, conditional / very low)*
+- **Oral vancomycin prophylaxis (OVP), Rec 18** — 125 mg once daily during subsequent systemic antibiotic use, **continued until 5 days after the systemic antibiotics finish** *(conditional, low)*. **Read the high-risk definition as a combination, not a list:** ACG's high-risk group is a patient **(age ≥65 years *or* significant immunocompromise)** who was **hospitalized for severe CDI within the past 3 months** and now needs systemic antibiotics. [[acg-2021-cdiff]]
+- **Why the window matters:** additional antibiotics during the 60-day follow-up after nosocomial CDI carry **~5× the risk** of a subsequent recurrence — and **combined with age ≥65 plus a history of severe CDI, recurrence risk after antibiotics reaches 87%**. [[acg-2021-cdiff]]
+- Pooled OVP data (13 studies, 9,258 patients): future CDI **13.3% with OVP vs 21.9% without** (OR 0.34, 95% CI 0.20–0.59)
 
 ### Prevention
 

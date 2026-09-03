@@ -3,7 +3,7 @@ title: "Enteral Access"
 category: general-procedure
 tags: [enteral-nutrition, peg, peg-j, nutrition, nasoenteric, dpej, buried-bumper]
 created: 2026-07-23
-updated: 2026-09-02
+updated: 2026-09-03
 sources: [aga-2025-endoscopic-enteral-access, asge-2025-gastrostomy-tubes]
 ---
 
@@ -86,6 +86,8 @@ sources: [aga-2025-endoscopic-enteral-access, asge-2025-gastrostomy-tubes]
 
 ### Route Selection Table
 
+⚠ **Figure gap.** [[aga-2025-endoscopic-enteral-access]] Figure 1 ("Enteral access locations and end points within the GI tract") maps every route in this table onto the anatomy and should be embedded here per the Style Guide. It is a raster figure — `pdftotext` cannot recover it and no figure-capture tool is available in this environment (`pdfimages`/`pdftoppm` not permitted; PyMuPDF not installed). Capture it; do not redraw it.
+
 | Scenario | Preferred route |
 |---|---|
 | Expected duration **<4 weeks**, nonintubated | Nasal (NG/NJ) |
@@ -124,7 +126,7 @@ sources: [aga-2025-endoscopic-enteral-access, asge-2025-gastrostomy-tubes]
   - **Antiplatelets — do NOT routinely withhold** before PEG (Rec 2a, [[asge-2025-gastrostomy-tubes]]); increasing data support PEG placement **without interruption of dual-antiplatelet therapy** (no significant increase in bleeding).
   - **Anticoagulants — individualize** periprocedural management, balancing thrombotic against bleeding risk; they are handled differently from antiplatelets (Rec 2b, [[asge-2025-gastrostomy-tubes]]).
   - If antithrombotics held, resume ASAP considering indication, in consultation with initiating service.
-- **Laboratory thresholds:** platelets **>50,000/mL**; INR **<1.5**.
+- **Laboratory thresholds:** platelets **>50,000/mL**; INR **<1.5** — preprocedural workup is full blood count + coagulation testing ([[aga-2025-endoscopic-enteral-access]]). *(`/mL` is the unit as printed in the source; reproduced verbatim rather than silently converted.)*
   - **Unfractionated heparin:** hold for percutaneous placement; can give **2–6 h after** procedure.
   - **DOACs:** hold for placement; resume with the **evening dose** after placement.
 

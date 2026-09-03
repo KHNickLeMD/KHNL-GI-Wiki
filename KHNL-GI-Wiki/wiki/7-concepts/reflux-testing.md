@@ -3,7 +3,7 @@ title: "Reflux Testing"
 category: concept
 tags: [gerd, reflux, ph-monitoring, impedance, manometry, endoscopy, diagnostics]
 created: 2026-05-15
-updated: 2026-08-26
+updated: 2026-09-03
 sources: [acg-2021-gerd, asge-2024-gerd, acg-2020-esophageal-physiologic-testing]
 ---
 
@@ -142,7 +142,7 @@ Careful endoscopic evaluation, reporting, and **photo-documentation** of the fol
 ## High-Resolution Manometry
 
 - **Not a diagnostic test for GERD** ([[acg-2021-gerd]] key concept) — it is a gatekeeper, not a confirmer.
-- **Before antireflux surgery or endoscopic therapy:** [[high-resolution-manometry|HRM]] to exclude [[achalasia]] and absent contractility; in ineffective esophageal motility, include provocative testing (multiple rapid swallows) for contractile reserve ([[acg-2021-gerd]]). Achalasia is found in ~3% of patients referred for planned fundoplication ([[acg-2020-esophageal-physiologic-testing]]). Full pre-operative motor-disorder framework: [[hrm-antireflux-surgery]].
+- **Before antireflux surgery or endoscopic therapy:** [[high-resolution-manometry|HRM]] to exclude [[achalasia]] and absent contractility; in [[ineffective-esophageal-motility|ineffective esophageal motility]], include provocative testing (multiple rapid swallows) for contractile reserve ([[acg-2021-gerd]]). Achalasia is found in ~3% of patients referred for planned fundoplication ([[acg-2020-esophageal-physiologic-testing]]). Full pre-operative motor-disorder framework: [[hrm-antireflux-surgery]].
 - **Hiatal hernia detection:** 94.3% sensitivity, 91.5% specificity — superior to endoscopy and barium ([[acg-2020-esophageal-physiologic-testing]]).
 - [[flip-panometry|FLIP]] complements HRM when findings are borderline or catheter placement fails (Conditional / Low); it does not replace HRM.
 
@@ -189,7 +189,7 @@ flowchart TD
 
 ## See Also
 
-[[gerd]], [[ambulatory-reflux-monitoring]], [[extraesophageal-reflux]], [[high-resolution-manometry]], [[hrm-antireflux-surgery]], [[flip-panometry]], [[chicago-classification-v4]], [[barretts-esophagus]], [[laryngopharyngeal-symptoms]], [[antireflux-surgery]], [[achalasia]], [[upper-endoscopy]], [[dysphagia]], [[rumination-syndrome]], [[disorders-of-gut-brain-interaction]], [[proton-pump-inhibitors]], [[potassium-competitive-acid-blockers]]
+[[gerd]], [[ambulatory-reflux-monitoring]], [[extraesophageal-reflux]], [[high-resolution-manometry]], [[hrm-antireflux-surgery]], [[flip-panometry]], [[chicago-classification-v4]], [[barretts-esophagus]], [[laryngopharyngeal-symptoms]], [[antireflux-surgery]], [[achalasia]], [[upper-endoscopy]], [[dysphagia]], [[rumination-syndrome]], [[disorders-of-gut-brain-interaction]], [[proton-pump-inhibitors]], [[potassium-competitive-acid-blockers]], [[ineffective-esophageal-motility]]
 
 ---
 

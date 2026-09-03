@@ -3,13 +3,34 @@ title: "Small Intestinal Bacterial Overgrowth (SIBO)"
 category: disease-script
 tags: [sibo, imo, small-bowel, breath-testing, rifaximin, ibs, motility, microbiome, malabsorption]
 created: 2026-05-19
-updated: 2026-08-28
+updated: 2026-09-03
 sources: [acg-2020-sibo]
 ---
 
 SIBO is a clinical syndrome of GI symptoms caused by the presence of excessive numbers of bacteria within the small intestine. The normal small bowel maintains relative sterility compared to the colon; SIBO represents a significant disruption of this balance. Bacteria are typically coliforms — predominantly Gram-negative aerobic and anaerobic species — that ferment carbohydrates, producing gas and short-chain fatty acids. SIBO is almost always an epiphenomenon of an underlying condition that leads to stasis, anatomic disruption, immune dysfunction, or altered motility in the small intestine. See [[acg-2020-sibo]].
 
 > **Note on IMO:** When methane is the predominant exhaled gas, the term **[[intestinal-methanogen-overgrowth|intestinal methanogen overgrowth (IMO)]]** is preferred, because methanogens are archaea (not bacteria). IMO is clinically associated with constipation rather than diarrhea.
+
+## Contents
+- [[#Assessment]]
+  - [[#Establishing the Diagnosis]]
+  - [[#Severity Assessment]]
+  - [[#Classification / Typing]]
+- [[#Differential Diagnosis]]
+- [[#Diagnostics]]
+  - [[#Breath Testing (First-Line Non-Invasive Test)]]
+  - [[#Small Bowel Aspirate and Culture (Historical Gold Standard)]]
+  - [[#Laboratory Tests]]
+  - [[#Emerging / Investigational Techniques]]
+- [[#Therapeutics]]
+  - [[#Antibiotics (First-Line — Conditional Recommendation)]]
+  - [[#Dietary Management]]
+  - [[#Probiotics]]
+  - [[#Fecal Microbiota Transplant (FMT)]]
+  - [[#Prevention]]
+  - [[#Monitoring]]
+- [[#See Also]]
+- [[#Sources]]
 
 ---
 

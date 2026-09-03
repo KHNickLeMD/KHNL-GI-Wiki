@@ -3,8 +3,8 @@ title: "Jaundice"
 category: diagnostic-schema
 tags: [jaundice, hyperbilirubinemia, cholestasis, hemolysis, biliary-obstruction, conjugated, unconjugated]
 created: 2026-06-04
-updated: 2026-09-02
-sources: [acg-2017-liver-chemistries, acg-2023-alf]
+updated: 2026-09-03
+sources: [acg-2017-liver-chemistries, acg-2023-alf, asge-2019-choledocholithiasis, tg18-2018-cholangitis-flowchart, asge-2021-cholangitis]
 ---
 
 ## Definition / Scope
@@ -83,7 +83,7 @@ flowchart TD
     B -->|"Conjugated predominant"| F["R-ratio: hepatocellular<br/>vs cholestatic pattern"]
     F -->|"Hepatocellular (ALT/AST↑)"| G["Viral / alcohol / drug /<br/>autoimmune / ischemic workup"]
     F -->|"Cholestatic (ALP↑)"| H["Right upper quadrant ultrasound"]
-    H -->|"Ducts dilated"| I["Extrahepatic obstruction →<br/>MRCP / EUS → ERCP"]
+    H -->|"Ducts dilated<br/>(CBD >6 mm in situ,<br/>>8 mm post-chole)"| I["Extrahepatic obstruction →<br/>stratify stone probability<br/>(ASGE 2019): high >50% → ERCP;<br/>intermediate 10–50% → EUS / MRCP"]
     H -->|"Ducts not dilated"| J["Intrahepatic cholestasis →<br/>AMA + ANA + SMA,<br/>drug review, MRCP"]
     J -->|"Persistent + unexplained,<br/>symptomatic, worsening,<br/>and/or abnormal transaminases"| K["Liver biopsy"]
 ```
@@ -92,8 +92,8 @@ flowchart TD
 2. **Unconjugated** → **review medications** and check **hemolysis labs** (reticulocytes, LDH, haptoglobin, smear). If both are clean and the five criteria above are met → **presumptive Gilbert syndrome**, no further workup. If hemolytic → hematology workup.
 3. **Conjugated** → classify by **R-ratio** ([[abnormal-liver-chemistries]]) into hepatocellular vs. cholestatic.
    - **Hepatocellular** → viral serologies ([[hepatitis-c]], [[chronic-hepatitis-b]], A/E), alcohol history, medication/supplement review ([[drug-induced-liver-injury]]), autoimmune markers ([[autoimmune-hepatitis|ANA/SMA/IgG]]), ceruloplasmin in young patients ([[wilson-disease]]).
-   - **Cholestatic** → **right upper quadrant ultrasound first** to assess for **biliary dilation**.
-4. **Ducts dilated → extrahepatic obstruction:** characterize with **MRCP** or **[[endoscopic-ultrasound|EUS]]**; proceed to **[[ercp|ERCP]]** for therapeutic relief (stone extraction, stent) and tissue sampling ([[biliary-stricture]]). Cholangitis → urgent drainage + antibiotics; **grade it (TG18 I/II/III) before choosing drainage timing — see [[acute-cholangitis]]**.
+   - **Cholestatic** → **right upper quadrant ultrasound first** to assess for **biliary dilation**. **"Dilated" has a number: CBD >6 mm with the gallbladder in situ, >8 mm post-cholecystectomy** ([[asge-2019-choledocholithiasis]]) — full criteria on [[choledocholithiasis]].
+4. **Ducts dilated → extrahepatic obstruction.** *Do not jump straight to ERCP.* **Which test comes next is set by the [[choledocholithiasis|ASGE 2019 stone-probability strata]]** — **high (>50%)** → direct **[[ercp|ERCP]]**; **intermediate (10–50%)** → **[[endoscopic-ultrasound|EUS]] or [[mri-mrcp|MRCP]]** first; **low (<10%)** → neither. The criteria table (including the combination rule that **bilirubin >4 mg/dL is high-risk only *with* a dilated duct**, either alone being intermediate) has one home: **[[choledocholithiasis]]**. ERCP then gives therapeutic relief (stone extraction, stent) and tissue sampling ([[biliary-stricture]]). Cholangitis → urgent drainage + antibiotics; **grade it (TG18 I/II/III) before choosing drainage timing — see [[acute-cholangitis]]**.
 5. **Ducts not dilated → intrahepatic cholestasis:** check **AMA, ANA, *and* SMA** ([[primary-biliary-cholangitis|PBC]], [[autoimmune-hepatitis|AIH]]) — ACG 2017 names all three, not AMA alone; MRCP for [[primary-sclerosing-cholangitis|PSC]]; review drugs.
 6. **When to biopsy — the criteria, not just "consider."** [[liver-biopsy|Liver biopsy]] is reserved for a bilirubin elevation (either fraction) that is **persistent and otherwise unexplained** *and* is **symptomatic, worsening over time, and/or associated with abnormal transaminases** ([[acg-2017-liver-chemistries]] Figure 5). A stable, asymptomatic, isolated elevation with normal transaminases does not meet the bar.
 
@@ -133,3 +133,6 @@ flowchart TD
 
 1. [[acg-2017-liver-chemistries|ACG 2017: Evaluation of Abnormal Liver Chemistries]]
 2. [[acg-2023-alf|ACG 2023: Acute Liver Failure]]
+3. [[asge-2019-choledocholithiasis|ASGE Guideline: Endoscopic Management of Choledocholithiasis (2019)]]
+4. [[tg18-2018-cholangitis-flowchart|Tokyo Guidelines 2018: Initial Management of Acute Biliary Infection and Flowchart for Acute Cholangitis]]
+5. [[asge-2021-cholangitis|ASGE Guideline: Management of Acute Cholangitis (2021)]]

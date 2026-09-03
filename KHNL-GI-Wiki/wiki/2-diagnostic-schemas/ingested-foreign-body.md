@@ -3,7 +3,7 @@ title: "Ingested Foreign Body and Food Bolus Impaction"
 category: diagnostic-schema
 tags: [foreign-body, food-impaction, esophagus, button-battery, magnets, sharp-pointed-object, body-packing, coins, endoscopy]
 created: 2026-08-28
-updated: 2026-08-28
+updated: 2026-09-03
 sources: [asge-2011-foreign-body-ingestion]
 ---
 
@@ -130,7 +130,7 @@ flowchart TD
 | **Urgent** (within 24 h) | **Magnets within endoscopic reach** |
 | **Nonurgent** | Coin in the esophagus in an **asymptomatic** patient — may be observed **12–24 h** before endoscopic removal |
 | **Nonurgent** | Object in the **stomach with diameter >2.5 cm** |
-| **Nonurgent** | **Disk or cylindrical battery in the stomach without signs of GI injury** — may be observed up to **48 h**; remove if still there beyond 48 h |
+| **Nonurgent** | **Disk or cylindrical battery in the stomach without signs of GI injury** — may be observed up to **48 h**; remove if still there beyond 48 h (⚠ the guideline states this rule twice with different size qualifiers — see [[#Step 4 — Size and Length Thresholds]]) |
 
 - Timing depends on patient age and clinical condition; the size, shape, content, and anatomic location of the object(s); and time since ingestion. The judgment is of the risks of **aspiration, obstruction, or perforation**.
 - Most clinically stable patients without high-grade obstruction do **not** need urgent endoscopy — the object commonly passes on its own.
@@ -143,11 +143,16 @@ flowchart TD
 |---|---|---|
 | **Diameter >2.5 cm**, object in the stomach | Less likely to pass the **pylorus** | Endoscopic removal suggested (⊕◯◯◯ — "limited data exist to support this recommendation") |
 | **Length >6 cm**, at or above the proximal duodenum | Likely to have difficulty passing the **duodenum** | Endoscopic removal, urgent timing. Supporting data: 112 of 139 objects >6 cm remained proximal to the pylorus at endoscopy |
-| **Disk battery >20 mm diameter**, in the stomach **>48 h** (repeat radiograph) | Large-diameter battery | Remove |
-| Any battery (disk or cylindrical) remaining in the stomach **>48 h** | — | Retrieve |
+| Battery in the stomach **>48 h** — see the ⚠ note below; the source gives two different rules | Large-diameter battery hangs up at the pylorus | Remove. **Unconditionally if >20 mm**; for <20 mm the guideline is self-contradictory |
 | Object failing to pass beyond the **stomach by 3–4 weeks** | — | Endoscopic removal |
 | Object **distal to the duodenum**, same location **>1 week**, not endoscopically reachable | — | Consider surgical removal |
 | Sharp-pointed object failing to progress after **3 days** (daily radiographs) | — | Consider surgery |
+
+> ⚠ **Source-internal contradiction — batteries retained in the stomach ([[asge-2011-foreign-body-ingestion]]).** The guideline states the rule twice, and the two versions disagree for a **<20 mm** battery:
+> - **Timing-of-endoscopy table:** *"Disk batteries and cylindrical batteries that are in the stomach of patients without signs of GI injury may be observed for as long as 48 hours. Batteries remaining in the stomach longer than 48 hours should be removed."* → **any** battery, remove at 48 h.
+> - **Disk-battery narrative:** batteries past the esophagus *"need not be retrieved unless the patient has signs of injury to the GI tract. A large-diameter battery (>20 mm in diameter) remaining in the stomach longer than 48 hours … should be removed."* → only **>20 mm**, or any battery with signs of injury.
+>
+> **They agree on:** remove any battery with signs of GI injury; remove any battery **>20 mm** still gastric at 48 h. **They differ only on the asymptomatic <20 mm battery at 48 h.** No ingested source resolves it. Verified against the raw PDF 2026-09-03. This page follows the **more conservative table rule** (retrieve at 48 h) — note the narrative permits observation, so document the reasoning if you elect to observe.
 
 ### Step 5 — Object-Class Management
 
@@ -155,7 +160,7 @@ flowchart TD
 |---|---|---|
 | **Food bolus** | Esophagus | En bloc removal, piecemeal removal, or the **gentle push technique** — all acceptable (Rec 4, ⊕⊕⊕◯). Complete obstruction → emergent (Rec 3, ⊕⊕◯◯) |
 | **Disk (button) battery** | Esophagus | **Emergent removal** (Rec 7, ⊕⊕◯◯) — liquefaction necrosis and perforation occur rapidly. If it cannot be retrieved, **push it into the stomach** and retrieve there with a basket or net |
-| **Disk battery** | Beyond esophagus | No retrieval needed **unless signs of GI tract injury**, or >20 mm diameter sitting in the stomach >48 h. Past the duodenum, **85% pass within 72 h**. **Emetics are not beneficial** and have caused retrograde migration back into the esophagus; cathartics and acid suppression have no proven role (GI lavage may expedite passage) |
+| **Disk battery** | Beyond esophagus | Retrieve if **signs of GI tract injury**, or **>20 mm** diameter sitting in the stomach >48 h; for an asymptomatic <20 mm gastric battery at 48 h the guideline contradicts itself — see the ⚠ note in [[#Step 4 — Size and Length Thresholds]]. Past the duodenum, **85% pass within 72 h**. **Emetics are not beneficial** and have caused retrograde migration back into the esophagus; cathartics and acid suppression have no proven role (GI lavage may expedite passage) |
 | **Cylindrical battery** | Stomach | Limited data; in one retrospective series no life-threatening symptoms and 18% minor/moderate symptoms. Retrieve if **>48 h in the stomach**, or if signs of GI injury. Ask whether the battery had an **encasement defect** before ingestion |
 | **Magnets** | Within endoscopic reach | **Urgent removal of all magnets** (Rec 8, ⊕⊕◯◯). Beyond reach → close observation + surgical consultation for nonprogression. Remove even when **only 1 magnet** is seen on radiograph or reported — undetected additional magnets or co-ingested metal cause the injury |
 | **Magnets — mechanism** | Any | Attraction across bowel wall (magnet–magnet or magnet–metal) traps bowel between the objects → pressure necrosis, fistula, perforation, obstruction, volvulus, peritonitis |

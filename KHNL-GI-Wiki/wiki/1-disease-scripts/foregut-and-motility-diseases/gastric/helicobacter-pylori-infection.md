@@ -3,9 +3,28 @@ title: "Helicobacter pylori Infection"
 category: disease-script
 tags: [h-pylori, peptic-ulcer, gastric-cancer, malt-lymphoma, eradication, dyspepsia, gastric, foregut]
 created: 2026-05-07
-updated: 2026-08-31
+updated: 2026-09-03
 sources: [acg-2017-hp-guidelines, acg-2024-hp-treatment, aga-2024-pcab]
 ---
+
+## Contents
+- [[#Assessment]]
+  - [[#Establishing the Diagnosis]]
+  - [[#Severity Assessment]]
+- [[#Differential Diagnosis]]
+  - [[#For dyspepsia presentation]]
+  - [[#For peptic ulcer disease]]
+  - [[#For gastritis]]
+- [[#Diagnostics]]
+  - [[#Non-Invasive Tests]]
+  - [[#Invasive Tests (Endoscopy-Based)]]
+- [[#Therapeutics]]
+  - [[#First-Line Eradication Regimens]]
+  - [[#Salvage Therapy (After First-Line Failure)]]
+  - [[#Post-Treatment Confirmation]]
+  - [[#Monitoring / Follow-Up]]
+- [[#See Also]]
+- [[#Sources]]
 
 ## Assessment
 
@@ -97,11 +116,11 @@ sources: [acg-2017-hp-guidelines, acg-2024-hp-treatment, aga-2024-pcab]
 
 | Test | Sensitivity | Specificity | Notes |
 |---|---|---|---|
-| Urea breath test (UBT) | 88–95% | 95–100% | Preferred for diagnosis and post-treatment confirmation; requires 2-week PPI hold [[acg-2017-hp-guidelines]] |
-| Stool antigen test (SAT) | ~94% | ~97% | Acceptable alternative to UBT [[acg-2017-hp-guidelines]] |
+| Urea breath test (UBT) | *not stated* | *not stated* | Acceptable for diagnosis **and** for test of cure ≥4 wk after therapy. **PPIs stop 2 weeks before** — they cause false negatives [[acg-2024-hp-treatment]] |
+| Stool/fecal antigen test (SAT/FAT) | *not stated* | *not stated* | Same standing as UBT for diagnosis and test of cure; same 2-week PPI hold [[acg-2024-hp-treatment]] |
 | Serology (IgG) | *not stated* | *not stated* | Cannot distinguish active from past infection; **not** for post-treatment confirmation. **Not recommended in low-prevalence populations** absent a high pre-test probability (e.g. peptic ulcer) [[acg-2024-hp-treatment]] |
 
-> **Sourcing gap:** no ingested source gives sensitivity/specificity figures for **serology**, for the biopsy-based tests, or for the monoclonal-vs-polyclonal SAT distinction — the ACG 2017 PDF is no longer in `raw/` and ACG 2024 is a treatment guideline that does not cover test performance. Numbers are deliberately not asserted. An ACG/AGA H. pylori **diagnosis** guideline would be needed.
+> ⚠ **Sourcing gap — no test-performance figures are asserted on this page, deliberately.** UBT and SAT previously carried sensitivity/specificity ranges (88–95%/95–100% and ~94%/~97%) cited to [[acg-2017-hp-guidelines]]. **That PDF is not in `raw/`** — confirmed 2026-09-03 by hashing every non-lecture file in the corpus — and [[acg-2024-hp-treatment]] states it "elected not to review standard testing modalities (e.g., fecal antigen testing, breath testing, and serology)." The numbers were therefore unverifiable and have been removed rather than carried forward. The same gap covers **serology**, the **biopsy-based tests**, and the monoclonal-vs-polyclonal SAT distinction. An ACG/AGA H. pylori **diagnosis** guideline would close it.
 
 ### Invasive Tests (Endoscopy-Based)
 

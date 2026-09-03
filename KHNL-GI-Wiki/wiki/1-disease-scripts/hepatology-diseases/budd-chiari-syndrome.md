@@ -3,7 +3,7 @@ title: "Budd-Chiari Syndrome"
 category: disease-script
 tags: [budd-chiari, hepatic-vein, thrombosis, portal-hypertension, liver-failure, mpn, jak2, anticoagulation, tips]
 created: 2026-05-21
-updated: 2026-08-31
+updated: 2026-09-03
 sources: [acg-2020-hepatic-mesenteric-circulation, baveno-vii-2022-portal-hypertension, aasld-2021-vascular-pvt]
 ---
 
@@ -56,7 +56,7 @@ Prevalences below are the HVT/BCS column of [[aasld-2021-vascular-pvt]] **Table 
 
 ### Severity Assessment
 
-**BCS-TIPS prognostic index score** [[baveno-vii-2022-portal-hypertension]] — can be used to predict outcome when [[tips|TIPS]] is being considered (B.1, 8.24). A **high score (>7)** should prompt consideration of **liver transplantation before TIPS placement** (C.1, 8.25); transplant is also considered for uncontrolled clinical manifestations despite the stepwise approach. **Child-Pugh** and **MELD-Na** apply when cirrhosis is present (their point table and formula live on [[cirrhosis]]).
+**BCS-TIPS prognostic index score** [[baveno-vii-2022-portal-hypertension]] — can be used to predict outcome when [[tips|TIPS]] is being considered (B.1, 8.24). A **high score (>7)** should prompt consideration of **liver transplantation before TIPS placement** (C.1, 8.25); transplant is also considered for uncontrolled clinical manifestations despite the stepwise approach. **Child-Pugh** and **MELD** apply when cirrhosis is present (the CTP point table, the MELD 3.0 formula, and the MELD-variant comparison live on [[cirrhosis]]).
 
 > **Contradiction — do prognostic scores drive therapy?** [[acg-2020-hepatic-mesenteric-circulation]] KC 26 states flatly that **"prognostic scoring systems are not helpful in guiding choice of therapy"**: the **Rotterdam score** is the most studied and is validated to predict *intervention-free* survival, but prediction of *transplant-free* survival "remains unsatisfactory," and scores "should not be used to dictate treatment in individual patients." [[baveno-vii-2022-portal-hypertension]] (2022, newer) nonetheless endorses the BCS-TIPS index >7 as a trigger to consider LT before TIPS — **the page follows Baveno VII**, but treat the score as one input, not the decision.
 >

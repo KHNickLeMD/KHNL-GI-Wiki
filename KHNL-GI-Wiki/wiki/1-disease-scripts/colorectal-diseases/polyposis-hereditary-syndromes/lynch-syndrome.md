@@ -3,7 +3,7 @@ title: "Lynch Syndrome"
 category: disease-script
 tags: [lynch, hnpcc, mmr, msi, hereditary-crc, endometrial-cancer, oncology, genetic-testing, colorectal-cancer]
 created: 2026-05-19
-updated: 2026-09-02
+updated: 2026-09-03
 sources: [acg-2015-hereditary-gi-cancer, usmstf-2014-lynch-syndrome, usmstf-2017-bmmrd]
 ---
 
@@ -253,7 +253,7 @@ LS is classified by the causative gene. Share of LS families and the identifying
 
 ## See Also
 
-[[colorectal-polyposis]], [[bmmrd-syndrome]], [[familial-adenomatous-polyposis]], [[mutyh-associated-polyposis]], [[colorectal-cancer]], [[colorectal-cancer-screening]], [[colonoscopy]], [[upper-endoscopy]], [[peutz-jeghers-syndrome]], [[serrated-polyposis-syndrome]], [[gastric-adenocarcinoma]], [[pancreatic-cancer]], [[pancreatic-cancer-screening]]
+[[colorectal-polyposis]], [[bmmrd-syndrome]], [[familial-adenomatous-polyposis]], [[mutyh-associated-polyposis]], [[colorectal-cancer]], [[colorectal-cancer-screening]], [[colonoscopy]], [[upper-endoscopy]], [[peutz-jeghers-syndrome]], [[serrated-polyposis-syndrome]], [[gastric-adenocarcinoma]], [[pancreatic-cancer]], [[pancreatic-cancer-screening]], [[endoscopic-ultrasound]], [[helicobacter-pylori-infection]], [[fammm-syndrome]], [[hereditary-pancreatitis]], [[obesity]]
 
 ---
 

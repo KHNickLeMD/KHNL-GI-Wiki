@@ -3,11 +3,31 @@ title: "Barrett's Esophagus"
 category: disease-script
 tags: [barretts-esophagus, esophageal, dysplasia, eet, rfa, surveillance, foregut]
 created: 2026-05-15
-updated: 2026-08-28
+updated: 2026-09-03
 sources: [acg-2022-barretts, aga-2025-barretts-surveillance, aga-2024-barretts-eet, asge-2018-barretts-eet, asge-2019-barretts-screening-surveillance]
 ---
 
 Barrett's esophagus (BE) is a metaplastic condition in which the normal squamous epithelium of the distal esophagus is replaced by specialized columnar epithelium containing intestinal-type goblet cells (intestinal metaplasia, IM). It is the only known precursor to [[esophageal-adenocarcinoma|esophageal adenocarcinoma]] (EAC), a cancer with rapidly increasing incidence over the past four decades. BE arises in the setting of chronic [[gerd|gastroesophageal reflux disease]]; 5–12% of patients with chronic GERD symptoms harbor BE.
+
+## Contents
+- [[#Assessment]]
+  - [[#Establishing the Diagnosis]]
+  - [[#Severity Assessment]]
+  - [[#Classification / Typing]]
+- [[#Differential Diagnosis]]
+- [[#Diagnostics]]
+  - [[#Initial Endoscopic Evaluation]]
+  - [[#Biopsy Protocols]]
+  - [[#Pathology and IHC]]
+  - [[#Adjunct Staging Tests]]
+- [[#Therapeutics]]
+  - [[#Screening (Who Should Be Screened)]]
+  - [[#Medical Therapy / Chemoprevention]]
+  - [[#Surveillance Intervals]]
+  - [[#Endoscopic Eradication Therapy (EET)]]
+  - [[#Post-CEIM Surveillance]]
+- [[#See Also]]
+- [[#Sources]]
 
 ---
 

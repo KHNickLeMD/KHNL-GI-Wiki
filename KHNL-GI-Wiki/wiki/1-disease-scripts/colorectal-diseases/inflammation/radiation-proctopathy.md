@@ -3,13 +3,14 @@ title: "Radiation Proctopathy"
 category: disease-script
 tags: [radiation-proctopathy, radiation-proctitis, rectal-bleeding, hematochezia, argon-plasma-coagulation, pelvic-radiation, telangiectasia]
 created: 2026-06-22
-updated: 2026-08-27
+updated: 2026-09-03
 sources: [asge-2019-radiation-proctopathy]
 ---
 
 ## Contents
 - [[#Assessment]]
   - [[#Establishing the Diagnosis]]
+  - [[#Severity Assessment]]
   - [[#Classification / Typing]]
 - [[#Differential Diagnosis]]
 - [[#Diagnostics]]
@@ -27,6 +28,12 @@ sources: [asge-2019-radiation-proctopathy]
 - **Clinical:** prior pelvic radiation + rectal symptoms; chronic form presents with rectal bleeding ± [[fecal-incontinence|fecal incontinence]], or stricture/fistula.
 - **Endoscopy is the main diagnostic tool.** Findings: mucosal pallor, edema, friability, spontaneous bleeding, and **telangiectasias**.
 - **Biopsy is discouraged** — sampling risks non-healing ulcers or fistula; biopsy only when needed to exclude another proctitis (infection, IBD).
+
+### Severity Assessment
+
+- **There is no validated severity grade.** [[asge-2019-radiation-proctopathy|ASGE 2019]] states there is an *urgent need* for a well-defined diagnostic criterion and a **unified endoscopic grading system**; two scoring systems exist in the literature but **require further validation before clinical use**. Do not grade this disease off a named score — it doesn't have one.
+- **The threshold that actually decides management is anemia, not endoscopic appearance:** bleeding **with** anemia is the treatable indication; **minor rectal bleeding *without* anemia ("cosmetic" bleeding) carries no mandate to treat** — no studies support endoscopic management for that indication.
+- **Read the success rates below with the guideline's own composite definition.** Because trial definitions varied, ASGE defined **clinical success** broadly as *any* of: bleeding cessation, **hemoglobin improvement ≥10% or normalization**, bleeding-score improvement, or eradication of telangiectasias. The pooled 87–88% figures are that composite, not bleeding cessation alone.
 
 ### Classification / Typing
 
@@ -52,12 +59,12 @@ sources: [asge-2019-radiation-proctopathy]
 
 - **Endoscopy** (flexible sigmoidoscopy/[[colonoscopy|colonoscopy]]): establishes diagnosis and defines extent/severity; characteristic telangiectasias and friable, pale, edematous mucosa.
 - Bowel preparation is required before any planned endoscopic therapy (reduces explosion risk with thermal/APC therapy).
-- No validated diagnostic criterion or unified endoscopic grading system exists.
+- No validated diagnostic criterion or unified endoscopic grading system exists — see [[#Severity Assessment]].
 
 ## Therapeutics
 
 - **Acute proctopathy:** supportive — hydration, antidiarrheals, discontinuation of radiation; usually self-limited.
-- **Chronic proctopathy, bleeding:** medical/supportive therapy is often insufficient → **endoscopic therapy is the mainstay**. **No mandate to treat "cosmetic" bleeding** — minor rectal bleeding *without anemia* has no evidence supporting endoscopic management. Before treating, discuss the natural history, the options, **how many sessions and how far apart**, and the follow-up duration; weigh patient preference, comorbidities, life expectancy, and which modalities are locally available.
+- **Chronic proctopathy, bleeding:** medical/supportive therapy is often insufficient → **endoscopic therapy is the mainstay** (for the anemia threshold that gates treatment, see [[#Severity Assessment]]). Before treating, discuss the natural history, the options, **how many sessions and how far apart**, and the follow-up duration; weigh patient preference, comorbidities, life expectancy, and which modalities are locally available.
 - **Four modalities are all endorsed and none is proven superior** — APC, bipolar electrocoagulation, heater probe, and RFA. *(Conditional, low quality)* [[asge-2019-radiation-proctopathy]]
 
 | Modality | Pooled clinical success | Sessions (mean/median) | Interval between sessions | Settings | Adverse events |

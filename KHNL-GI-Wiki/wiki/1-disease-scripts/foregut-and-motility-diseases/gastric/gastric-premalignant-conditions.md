@@ -1,22 +1,10 @@
 ---
-title: Gastric Premalignant Conditions
+title: "Gastric Premalignant Conditions"
 category: disease-script
-tags:
-  - gpmc
-  - gim
-  - atrophic-gastritis
-  - dysplasia
-  - gastric-cancer
-  - correa-cascade
-  - h-pylori
-  - esd
-  - surveillance
-  - autoimmune-gastritis
+tags: [gpmc, gim, atrophic-gastritis, dysplasia, gastric-cancer, correa-cascade, h-pylori, esd, surveillance, autoimmune-gastritis]
 created: 2026-05-07
-updated: 2026-08-30
-sources:
-  - acg-2025-gastric-premalignant
-  - aga-2026-gastric-polyps
+updated: 2026-09-03
+sources: [acg-2025-gastric-premalignant, aga-2026-gastric-polyps]
 ---
 
 # Gastric Premalignant Conditions

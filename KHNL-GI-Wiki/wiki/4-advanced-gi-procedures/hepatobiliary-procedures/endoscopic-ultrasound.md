@@ -38,7 +38,7 @@ EUS quality standards from ACG/ASGE 2025 Quality Indicator document. [[acg-2025-
 
 **Therapeutic:**
 
-- EUS-guided pancreatic fluid collection drainage (pseudocyst, walled-off necrosis)
+- EUS-guided pancreatic fluid collection drainage (pseudocyst, walled-off necrosis — see [[disconnected-pancreatic-duct-syndrome]], the complication that drives whether the stent can ever come out)
 - [[eus-guided-gallbladder-drainage|EUS-guided gallbladder drainage (EUS-GBD)]]
 - EUS-guided biliary drainage (EUS-BD)
 - EUS-guided gastroenterostomy (EUS-GE) — for [[gastric-outlet-obstruction|gastric outlet obstruction]]; technique and the palliation decision live there
@@ -160,20 +160,11 @@ From [[acg-2018-pancreatic-cysts]]:
 
 *Antibiotic prophylaxis for EUS-FNA of pancreatic cysts — one home, in [[#Preprocedure]] above; not repeated here.*
 
-**EUS as surveillance modality:**
+**EUS as surveillance modality — the EUS-specific point:**
 
-- EUS is an acceptable primary surveillance tool for patients who cannot or prefer not to have [[mri-mrcp|MRI/MRCP]]
-- For cysts 2–3 cm: MRI or EUS **q6–12 months × 3 years**
-- For cysts >3 cm: **consider referral** to a multidisciplinary group, and MRI alternating with EUS **q6 months × 3 years**
+- EUS is an acceptable **primary** surveillance tool for patients who cannot have, or prefer not to have, [[mri-mrcp|MRI/MRCP]]; above 3 cm the guideline pairs it with MRI in alternation rather than using either alone.
 
-**EUS indications in cyst high-risk features** (Rec 11, **Strong/Very low** — each triggers EUS±FNA + multidisciplinary referral):
-
-- **(a) Symptom/lab triggers:** jaundice secondary to the cyst, acute [[acute-pancreatitis|pancreatitis]] secondary to the cyst, or **significantly elevated serum CA 19-9**
-- **(b) Imaging triggers:** mural nodule or solid component; **main pancreatic duct >5 mm**; a change in duct caliber with upstream atrophy; **mucin-producing cyst ≥3 cm**; increased cyst growth rate (>3 mm/y)
-- **(c) Cytology:** high-grade dysplasia or pancreatic cancer on cytology
-- **New-onset diabetes, or cyst growth >3 mm/year during surveillance** → short-interval **MRI or EUS±FNA** (Rec 10, Conditional/Very low)
-
-See [[pancreatic-cysts]] for full diagnostic algorithm and surveillance intervals.
+> **The size-by-interval surveillance grid, the Rec 11 high-risk feature list, and the Rec 10 short-interval triggers all have one home: [[pancreatic-cysts]].** They were partially duplicated here until 2026-09-03; the copy was both lossy (it omitted the <2 cm row and the no-worrisome-feature column, so it could not be used on its own) and **wrong in one place** — it listed cyst growth rate among the Rec 11 referral triggers, whereas growth rate is a **Rec 10** trigger (short-interval imaging) and Rec 11 does *not* include it. That page also carries the numbers this one lacked: the **CA 19-9 >37 U/mL** cutoff behind "significantly elevated," and the **6-month** short-interval figure. Go there to decide; use this page for how the EUS itself is done.
 
 ---
 

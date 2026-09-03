@@ -3,13 +3,13 @@ title: "Chronic Diarrhea"
 category: diagnostic-schema
 tags: [diarrhea, chronic, malabsorption, secretory, osmotic, inflammatory, steatorrhea, ibs]
 created: 2026-06-04
-updated: 2026-08-30
-sources: [asge-2010-diarrhea]
+updated: 2026-09-03
+sources: [asge-2010-diarrhea, acg-2016-acute-diarrhea]
 ---
 
 ## Definition / Scope
 
-Chronic diarrhea is decreased stool consistency (loose or watery) lasting **> 4 weeks**. This duration threshold distinguishes it from [[acute-diarrhea]] (<14 days) and persistent diarrhea (14–30 days), and shifts the differential away from infection toward non-infectious causes. Diarrhea is defined by **stool consistency** (Bristol 6–7), not frequency alone; it must be distinguished from **pseudodiarrhea** (frequent small volumes with urgency, as in proctitis or [[irritable-bowel-syndrome|IBS]]) and **[[fecal-incontinence|fecal incontinence]]**.
+Chronic diarrhea is decreased stool consistency (loose or watery) lasting **> 4 weeks**. This duration threshold distinguishes it from [[acute-diarrhea]] (<14 days) and persistent diarrhea (14–30 days) — *⚠ note the two ingested guidelines don't quite align: [[asge-2010-diarrhea|ASGE 2010]] sets chronic at **>4 weeks (28 days)** while [[acg-2016-acute-diarrhea|ACG 2016]] sets it at **>30 days**, leaving days 28–30 claimed by both labels. The distinction is not clinically actionable — either way the workup below applies — but don't read the boundary as precise.* — and shifts the differential away from infection toward non-infectious causes. Diarrhea is defined by **stool consistency** (Bristol 6–7), not frequency alone; it must be distinguished from **pseudodiarrhea** (frequent small volumes with urgency, as in proctitis or [[irritable-bowel-syndrome|IBS]]) and **[[fecal-incontinence|fecal incontinence]]**.
 
 The most useful framework is to classify by **stool character** into watery, inflammatory, and fatty, which maps onto the underlying mechanism and the workup.
 
@@ -86,7 +86,7 @@ flowchart TD
 4. **Stool studies** — **fecal calprotectin or lactoferrin** (inflammatory vs. functional), fecal occult blood, [[clostridioides-difficile|C. difficile]] testing, stool electrolytes/osmotic gap, qualitative/quantitative **fecal fat**, ova & parasites or [[giardiasis|Giardia]]/[[cryptosporidiosis|Cryptosporidium]] antigen.
 5. **Route by category:**
    - **Inflammatory** (↑ calprotectin, blood) → [[colonoscopy]] with biopsies for IBD; biopsy even if mucosa normal to catch [[microscopic-colitis]].
-   - **Fatty** (↑ fecal fat) → confirm [[celiac-disease|celiac]], check **fecal elastase** for [[chronic-pancreatitis|EPI]], small-bowel imaging/biopsy, consider [[small-intestinal-bacterial-overgrowth|SIBO breath testing]].
+   - **Fatty** (↑ fecal fat) → confirm [[celiac-disease|celiac]], check **fecal elastase** for [[exocrine-pancreatic-insufficiency|EPI]], small-bowel imaging/biopsy, consider [[small-intestinal-bacterial-overgrowth|SIBO breath testing]].
    - **Watery secretory** → empiric/diagnostic **bile acid** sequestrant trial ([[bile-acid-diarrhea]]), microscopic colitis biopsies, endocrine workup (chromogranin A, gastrin, VIP, urinary 5-HIAA) if features suggest.
    - **Watery osmotic** → dietary elimination (lactose, fructose, sorbitol), screen for surreptitious laxatives (stool magnesium/phosphate).
 6. **If [[irritable-bowel-syndrome|IBS-D]]** criteria met with normal alarm screen, calprotectin, and celiac serology → make a **positive diagnosis** rather than exhaustive testing.
@@ -98,7 +98,7 @@ flowchart TD
 - **Fecal calprotectin / lactoferrin** — separates inflammatory (IBD) from [[disorders-of-gut-brain-interaction|functional]] ([[irritable-bowel-syndrome|IBS]]); normal calprotectin has high NPV for IBD.
 - **Stool electrolytes & osmotic gap** — secretory (<50) vs. osmotic (>75 mOsm/kg).
 - **Fecal fat** (qualitative Sudan stain / quantitative 72-h) — confirms steatorrhea/malabsorption.
-- **Fecal elastase-1** — low in exocrine pancreatic insufficiency ([[chronic-pancreatitis]]).
+- **Fecal elastase-1** — low in [[exocrine-pancreatic-insufficiency|exocrine pancreatic insufficiency]]; the cutoffs that make the call (**<100 µg/g** = EPI, **100–200 µg/g** = indeterminate, and the semi-solid-stool requirement) live on that page. Commonly secondary to [[chronic-pancreatitis]].
 - **[[celiac-disease|Celiac serology]]** — anti-tTG IgA with total IgA (avoid false negatives in IgA deficiency).
 - **[[clostridioides-difficile|C. difficile]] testing, stool O&P / Giardia & Cryptosporidium antigen** — chronic infectious causes.
 - **Bile acid testing** — SeHCAT retention, serum C4 or FGF19; or empiric sequestrant trial ([[bile-acid-diarrhea]]).
@@ -143,3 +143,4 @@ Prompt structural evaluation (colonoscopy ± cross-sectional imaging) and lower 
 ## Sources
 
 1. [[asge-2010-diarrhea|ASGE Guideline: The Role of Endoscopy in the Management of Patients With Diarrhea (2010)]]
+2. [[acg-2016-acute-diarrhea|ACG 2016: Diagnosis, Treatment, and Prevention of Acute Diarrheal Infections in Adults]]

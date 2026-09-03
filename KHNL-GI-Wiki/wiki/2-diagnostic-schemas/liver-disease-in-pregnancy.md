@@ -3,7 +3,7 @@ title: "Liver Disease in Pregnancy"
 category: diagnostic-schema
 tags: [pregnancy, liver-disease, ihcp, intrahepatic-cholestasis, aflp, acute-fatty-liver, hellp, hyperemesis-gravidarum, preeclampsia, eclampsia, hepatitis-b, hepatitis-c, hpb, liver]
 created: 2026-05-19
-updated: 2026-09-01
+updated: 2026-09-03
 sources: [aga-2024-pregnancy-gi-liver, acg-2016-liver-disease-pregnancy, aasld-2021-reproductive-liver]
 ---
 
@@ -159,11 +159,20 @@ Any abnormality in AST/ALT or bilirubin requires evaluation. ALP elevation alone
 
 - **UDCA 10–15 mg/kg/day** (total daily dose, divided): first-line for symptomatic improvement; normalizes serum bile acids; improves pruritus; safe for mother and fetus (Rec 13 — strong, moderate evidence); AGA 2024 BPA 10 confirms this dose and notes meta-analysis showing decreased preterm birth and stillbirth ([[aga-2024-pregnancy-gi-liver]]); superior to cholestyramine or dexamethasone for pruritus control. Additional pruritus control: cholestyramine, rifampicin.
 - Dexamethasone may be used adjunctively if needed for fetal lung maturity (higher prematurity rate in IHCP)
-- **Delivery timing by total bile acids** ([[aga-2024-pregnancy-gi-liver]]; SMFM/EASL): **≥100 μmol/L → deliver at 36 weeks** (or at diagnosis if after 36 wk; stillbirth risk rises after 35 wk); **<100 μmol/L → 36 or 39 weeks** (if diagnosed later); **<40 μmol/L → term reasonable**. (The 2016 ACG "early delivery at 37 weeks" is superseded by this newer bile-acid-stratified timing.)
+- **Delivery timing by total bile acids** ([[aga-2024-pregnancy-gi-liver]], relaying SMFM and EASL):
+
+  | Total bile acids | Delivery |
+  |---|---|
+  | **≥100 μmol/L** | **36 weeks**, or **at diagnosis if already past 36 wk** (SMFM). EASL: consider earlier — stillbirth risk in this group rises **after 35 weeks** |
+  | **<100 μmol/L** | **36 or 39 weeks**, the later figure if diagnosed late in gestation |
+  | **<40 μmol/L** | **Delivery at term is reasonable** |
+
+  - ⚠ **The bands as published overlap** — a patient at 20 μmol/L satisfies both the "<100" row (36 or 39 wk) and the "<40" row (term). The source does not resolve this; it says only that *"management should be individualized."* Read <40 μmol/L as the low-risk group in which term delivery is defensible, and 40–100 μmol/L as the group the 36-or-39-week rule is really aimed at. **Do not read the table as three disjoint bands.**
+  - **Supersedes** the [[acg-2016-liver-disease-pregnancy|ACG 2016]] blanket *"early delivery at 37 weeks"* (newer tier-1 source).
 - Fat-soluble vitamin supplementation if malabsorption
 - Pruritus resolves after delivery; if it persists **>6 weeks postpartum**, evaluate for underlying chronic liver disease ([[aga-2024-pregnancy-gi-liver]])
 
-**Post-delivery:** Pruritus and bile acid abnormalities resolve after delivery; jaundice resolves in <25% of cases after delivery. Evaluate for alternative etiology if cholestasis persists.
+**Post-delivery:** Pruritus and bile acid abnormalities resolve after delivery. Evaluate for an alternative etiology if cholestasis persists. *(An earlier version of this line read "jaundice resolves in <25% of cases after delivery" — that was a garbled restatement of the prevalence figure above, that **bilirubin is elevated in <25% of patients**; removed 2026-09-03.)*
 
 ### Preeclampsia / Eclampsia with Hepatic Involvement
 
@@ -181,8 +190,8 @@ Any abnormality in AST/ALT or bilirubin requires evaluation. ALP elevation alone
 **Management:**
 
 - **Low-dose aspirin prophylaxis** ([[aga-2024-pregnancy-gi-liver]] BPA 11): **81 mg/day beginning weeks 12–16 of gestation, continued until delivery**, for patients with pre-eclampsia risk factors (prior pre-eclampsia, multiple gestation, diabetes mellitus, hypertension, chronic kidney disease, or autoimmune disease); lowers risk of fetal growth restriction and fetal demise.
-- Expectant management advised after 34 weeks to limit fetal morbidity; no advantage to continuing pregnancy after 36–37 weeks
-- **Deliver promptly after 36 weeks for severe preeclampsia** (Rec 14 — strong, very low evidence)
+- **Timing (⚠ corrected 2026-09-03 — this bullet previously read "expectant management advised *after* 34 weeks," inverting the source):** [[acg-2016-liver-disease-pregnancy|ACG 2016]] states *"An expectant approach is advised **until after 34 weeks** gestation to limit fetal morbidity."* Expectant management is the **pre-34-week** strategy. Delivery is the only curative treatment, and **after 36–37 weeks there is no advantage in continuing the pregnancy.**
+- **Deliver promptly after 36 weeks for severe preeclampsia** (Rec 14 — strong, very low evidence) — consistent with the above, not in conflict with it
 - Hepatic rupture: surgery for those with enlarging hematomas or hemodynamic instability; percutaneous embolization of hepatic arteries as alternative in stable patients; [[liver-transplantation|liver transplantation]] for continued decompensation
 
 ### HELLP Syndrome
@@ -231,13 +240,15 @@ Any abnormality in AST/ALT or bilirubin requires evaluation. ALP elevation alone
 | Elevated bilirubin | >14 µmol/l |
 | Hypoglycemia | <4 mmol/l |
 | Elevated urea | >340 µmol/l |
-| Leucocytosis | >11×10⁶ cells/l |
+| Leucocytosis | >11×10⁶ cells/l ᵃ |
 | [[ascites\|Ascites]] or bright liver on ultrasound | — |
 | Elevated transaminases (AST or ALT) | >42 IU/l |
 | Elevated ammonia | >47 µmol/l |
 | Renal impairment (creatinine) | >150 µmol/l |
 | Coagulopathy (PT or APTT) | PT >14s or APPT >34s |
 | Microvesicular steatosis on liver biopsy | — |
+
+ᵃ **Reproduced exactly as printed in [[acg-2016-liver-disease-pregnancy|ACG 2016]]** (its Swansea table). Note the exponent is off by 10³ against the units every lab reports — a WBC of 11×10⁶/L would be profoundly *low*, not a leucocytosis; the intended criterion is the conventional **>11×10⁹/L (11,000/µL)**. Not silently corrected here because no ingested source prints the corrected form; read the row as "WBC above the normal upper limit."
 
 Swansea Criteria: 85% PPV, 100% NPV for hepatic microvesicular steatosis (validated in UK cohort of 5.0 cases/100,000 maternities).
 
@@ -287,8 +298,10 @@ See also: [[chronic-hepatitis-b]]
 
 **Antiviral therapy:**
 
-- Offer **tenofovir disoproxil fumarate (TDF) or telbivudine** in third trimester to women with HBV DNA >200,000 IU/ml (>10⁶ log copies/ml; Rec 23 — strong, low evidence)
-- High viral load (>6–7 log₁₀ copies/ml / >2×10⁶–10⁷ IU/ml) = 7–8% MTCT risk even with prophylaxis
+- Offer **tenofovir disoproxil fumarate (TDF) or telbivudine** in the third trimester to women with HBV DNA **>200,000 IU/ml** (Rec 23 — strong, low evidence). Starting in the third trimester minimises fetal drug exposure; **treatment below 200,000 IU/ml is not indicated** unless she has liver disease warranting suppression in its own right.
+  - **Dose:** the trial ACG cites used **telbivudine 600 mg daily** from gestational week 20–32 in HBeAg+ women with HBV DNA >7 log₁₀ copies/ml (2×10⁶ IU/ml). ACG gives **no TDF dose**.
+  - ⚠ **Units, as printed in the source.** [[acg-2016-liver-disease-pregnancy|ACG 2016]] writes this threshold as **">10⁶ log copies/ml (200,000 IU/ml)"** — "10⁶ log copies" is malformed (it means >10⁶ copies/ml, i.e. 6 log₁₀). Reproduced here as printed rather than silently corrected; **use the IU/ml figure**, which is unambiguous.
+- High viral load = **7–8% MTCT risk even with prophylaxis**
 - Discontinue antiviral after delivery (for MTCT reduction only) with monitoring for HBV flare
 - Treatment for maternal liver disease follows standard guidelines ([[chronic-hepatitis-b]])
 
@@ -397,7 +410,7 @@ See also: [[wilson-disease]]
 - **Hemolytic anemia + thrombocytopenia + elevated LFTs** → HELLP; delivery after 34 weeks
 - **New hypertension + proteinuria + liver involvement** → severe preeclampsia; deliver after 36 weeks
 - **Fever + anicteric hepatitis with normal or absent mucocutaneous lesions** → suspect HSV hepatitis → empiric acyclovir immediately
-- **Pruritus (especially palms/soles) + elevated bile acids ≥40 µmol/l** → high-risk IHCP → deliver by bile-acid-stratified timing (≥100 µmol/L → 36 wk; 40–100 µmol/L → 36–39 wk; supersedes the older 37-week rule — see IHCP detail above)
+- **Pruritus (especially palms/soles) + elevated bile acids ≥40 µmol/l** → high-risk IHCP → deliver by bile-acid-stratified timing; **the table is above** ([[#Pregnancy-Specific Liver Diseases — Detail]]), including the overlap caveat — not repeated here
 - **HBV DNA >200,000 IU/ml in third trimester** → antiviral prophylaxis needed despite HBIG/vaccine plan
 - **Epigastric/RUQ pain + elevated transaminases** in preeclamptic patient → suspect subcapsular hematoma or hepatic rupture → CT/MRI urgently
 - **Cirrhosis + pregnancy** → multidisciplinary management mandatory; screen for varices in second trimester

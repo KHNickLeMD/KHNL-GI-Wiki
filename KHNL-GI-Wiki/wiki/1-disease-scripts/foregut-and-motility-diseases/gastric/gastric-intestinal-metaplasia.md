@@ -3,7 +3,7 @@ title: "Gastric Intestinal Metaplasia"
 category: disease-script
 tags: [gastric-intestinal-metaplasia, gim, gastric-cancer, h-pylori, correa-cascade, premalignant, foregut, gastric]
 created: 2026-05-16
-updated: 2026-08-30
+updated: 2026-09-03
 sources: [aga-2020-gastric-intestinal-metaplasia, acg-2025-gastric-premalignant, aga-2021-atrophic-gastritis, aga-2026-gastric-polyps]
 ---
 
@@ -130,10 +130,8 @@ sources: [aga-2020-gastric-intestinal-metaplasia, acg-2025-gastric-premalignant,
 
 **ACG 2025 risk definitions:**
 
-- **High-risk GIM** = incomplete GIM subtype **OR** corpus extension **OR** **moderate-to-severe histologic severity** **OR** ≥1 of: family history of GC, foreign-born from a high-GC country, high-risk race/ethnicity (East Asian, Latino, Black, AIAN) → surveillance q3y
-  - **Severity is a *separate* axis from extent and has its own cutoff:** severity = the proportion of glands with GIM in individual biopsies from each compartment — **≤1/3 mild, ≤2/3 moderate, >2/3 severe**. It raises risk **independently of anatomic extent**, so **moderate-to-severe GIM confined to the antrum is still high-risk** [[acg-2025-gastric-premalignant]]
-  - **Focality:** unifocal = GIM in **1** biopsy specimen; multifocal = GIM in **≥2** — unifocal carries lower risk. Both depend on adequate Sydney-protocol sampling
-- **Low-risk GIM** = complete subtype only, limited to antrum, **mild severity (≤1/3 of glands)**, and none of the above high-risk criteria → no surveillance
+- **High-risk GIM** = incomplete GIM subtype **OR** corpus extension **OR** **moderate-to-severe histologic severity** (cutoffs under [[#Severity Assessment]] — severity qualifies **independently of extent**, so moderate-to-severe antrum-limited GIM is still high-risk) **OR** ≥1 of: family history of GC, foreign-born from a high-GC country, high-risk race/ethnicity (East Asian, Latino, Black, AIAN) → surveillance q3y
+- **Low-risk GIM** = complete subtype only, limited to antrum, **mild severity (≤1/3 of glands)**, unifocal, and none of the above high-risk criteria → no surveillance
 - **Multiple risk factors** (e.g., extensive GIM + family history of GC): consider shortening to **q1–2y**
 - **Against** routine repeat EGD at <12 months for nondysplastic GPMC unless there was a quality/protocol concern on the index exam
 

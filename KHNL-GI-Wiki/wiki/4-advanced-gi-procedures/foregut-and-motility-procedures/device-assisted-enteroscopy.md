@@ -3,7 +3,7 @@ title: "Device-Assisted Enteroscopy (Deep Enteroscopy)"
 category: advanced-procedure
 tags: [deep-enteroscopy, dbe, sbe, spiral-enteroscopy, balloon-enteroscopy, small-bowel, gi-bleeding, device-assisted-enteroscopy]
 created: 2026-05-19
-updated: 2026-08-31
+updated: 2026-09-03
 sources: [acg-2015-small-bowel-bleeding, asge-2017-small-bowel-bleeding, asge-2015-deep-enteroscopy, asge-2020-fap]
 ---
 
@@ -95,6 +95,8 @@ What makes DAE worth doing rather than repeating imaging — it is the only moda
 | Spiral enteroscopy — severe | 0.34% (small-bowel perforation 0.27%) |
 
 The step up from diagnostic to therapeutic DBE roughly **quintuples** the complication rate — a reason to have a defined target (VCE-localized) before booking the procedure.
+
+---
 
 ## See Also
 

@@ -3,7 +3,7 @@ title: "Fecal Incontinence"
 category: disease-script
 tags: [fecal-incontinence, anorectal, biofeedback, sacral-nerve-stimulation, pelvic-floor, colorectal]
 created: 2026-05-16
-updated: 2026-09-02
+updated: 2026-09-03
 sources: [acg-2021-anorectal-disorders, asge-2010-anorectal-disorders, rome-v-2026-dgbi]
 ---
 
@@ -83,12 +83,16 @@ Severity is graded from **symptom burden** (type, frequency, and amount of leaka
 
 ### Step 1: Conservative Management
 
-**Strong/Low recommendation (antidiarrheal drugs):**
+**ACG 2021 Rec 1 (Strong / low):** *antidiarrheal drugs when FI is accompanied by diarrhea.* The named agents [[acg-2021-anorectal-disorders]]:
 
-- **[[loperamide|Loperamide]]** 2–4 mg up to QID: reduces stool frequency and urgency; first-line pharmacotherapy; most evidence
-- **Diphenoxylate/atropine:** alternative antidiarrheal
-- **Bile salt binding agents** (cholestyramine): if [[bile-acid-diarrhea|bile acid malabsorption]] (post-cholecystectomy, ileal disease)
-- **Anticholinergic agents:** for urgency component (clonidine, others)
+- **[[loperamide|Loperamide]]** — first-line, most evidence; reduces stool frequency and urgency
+- **Diphenoxylate with atropine** — alternative antidiarrheal
+- **Bile salt binding agents** — cholestyramine or **colesevelam**; relevant with [[bile-acid-diarrhea|bile acid malabsorption]] (post-cholecystectomy, ileal disease)
+- **Anticholinergic agents** — a separate class from clonidine in the guideline's own list
+- **Clonidine** — read the evidence before using it: in women with FI, clonidine **did not improve continence in all comers** and only **tended** to improve it in women **with diarrhea**
+- Cochrane (13 RCTs, 473 participants; 7 tested loperamide, diphenoxylate + atropine, or codeine): symptoms better than placebo in **4 trials** — improved/restored continence, reduced urgency, more formed stools, fewer pads. In 2 of those 4, **more patients reported adverse effects** (constipation, abdominal pain, diarrhea, headache, nausea)
+
+> **Dose gap — flagged, not filled.** [[acg-2021-anorectal-disorders]] names these agents **without any dose, interval, or duration**, and [[asge-2010-anorectal-disorders]] does not mention them at all. A previously stated "loperamide 2–4 mg up to QID" was unsourced and has been removed. (The loperamide dosing on [[enterotoxigenic-e-coli]] is ACG 2016's **traveler's-diarrhea** regimen and does not transfer to FI.)
 
 **Dietary counseling:**
 
@@ -118,11 +122,16 @@ Severity is graded from **symptom burden** (type, frequency, and amount of leaka
 **[[sacral-nerve-stimulation|Sacral nerve stimulation]] (SNS) — Strong/Low:**
 
 - For **moderate to severe FI failing conservative measures, biofeedback, and low-risk interventions**
-- Mechanism: peripheral stimulation of S3/S4 sacral foramina → modulates colorectal/pelvic floor neural circuits
-- Temporary (2–3 weeks) → ≥50% improvement → permanent implant
-- Success rate: 90% responder rate at temporary stage; ≥50% reduction in FI episodes in 80%; 40% complete continence at 3 years
-- Device complications at 60 months: 61% device-related adverse events (implant site pain 28%, paresthesias 15%, infection 10%) — counsel patients carefully
-- Contraindications: anatomic factors preventing electrode placement, complete spinal cord injury, active perianal infection
+- Mechanism: peripheral stimulation of the **S3 or S4 nerve roots** in the sacral foramina → modulates colorectal/pelvic floor neural circuits
+- **Two-stage:** patients whose symptoms respond to **temporary SNS for 2–3 weeks** get the device implanted in the abdomen
+- **Who was studied — the entry criteria of the pivotal North American multicenter trial (n=133)** [[acg-2021-anorectal-disorders]]:
+  - **>2 incontinent episodes per week for >6 months**, *or* **>12 months after childbirth**
+  - **and** failed, or not a candidate for, conservative therapy
+- **Who was excluded — the operative contraindication list:** chronic diarrhea · large sphincter defects · chronic [[inflammatory-bowel-disease|inflammatory bowel disease]] · visible sequelae of pelvic radiation · active anal inflammation · neurologic disease such as clinically significant peripheral neuropathy or **complete spinal cord injury**
+- **Results:** temporary-SNS success **90%**. At **3 years**, **86%** of implanted patients had a **≥50% reduction** in incontinent episodes/week (therapeutic success) and **40% achieved complete continence**; episodes fell from **9.4/wk at baseline to 1.7 at 12 months**, with improvement in all 4 FI-QoL scales at 12/24/36 months
+- **SNS has no measurable effect on anorectal function tests** — the benefit is symptomatic, and the pivotal study was uncontrolled
+- Device complications at 60 months: **61% device-related adverse events** — implant site pain **28%**, paresthesias **15%**, change in sensation of stimulation **12%**, infection **10%**. Counsel carefully
+- **Not for constipation:** 3 RCTs showed no benefit of SNS in constipation of any type, and with the 61% long-term complication rate ACG recommends against it there
 
 **Anal sphincteroplasty (Conditional/Low):**
 
@@ -146,7 +155,7 @@ Severity is graded from **symptom burden** (type, frequency, and amount of leaka
 ---
 
 ## See Also
-[[defecation-disorders]], [[proctalgia-syndromes]], [[chronic-idiopathic-constipation]], [[chronic-diarrhea]], [[hemorrhoids]], [[anal-fissure]], [[rectal-prolapse]], [[radiation-proctopathy]], [[sacral-nerve-stimulation]], [[biofeedback-therapy]], [[anorectal-manometry]], [[loperamide]], [[bile-acid-diarrhea]], [[ostomy-management]]
+[[defecation-disorders]], [[proctalgia-syndromes]], [[chronic-idiopathic-constipation]], [[chronic-diarrhea]], [[hemorrhoids]], [[anal-fissure]], [[rectal-prolapse]], [[radiation-proctopathy]], [[sacral-nerve-stimulation]], [[biofeedback-therapy]], [[anorectal-manometry]], [[loperamide]], [[bile-acid-diarrhea]], [[ostomy-management]], [[inflammatory-bowel-disease]], [[enterotoxigenic-e-coli]]
 
 ---
 

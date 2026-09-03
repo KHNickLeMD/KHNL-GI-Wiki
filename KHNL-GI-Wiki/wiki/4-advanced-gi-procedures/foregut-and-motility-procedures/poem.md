@@ -3,7 +3,7 @@ title: "POEM (Peroral Endoscopic Myotomy)"
 category: advanced-procedure
 tags: [poem, achalasia, myotomy, motility, esophageal, foregut, gerd, egjoo]
 created: 2026-05-16
-updated: 2026-08-30
+updated: 2026-09-03
 sources: [aga-2024-poem-advances, sages-2024-poem, sages-2021-poem, acg-2020-achalasia]
 ---
 # POEM (Peroral Endoscopic Myotomy)
@@ -37,7 +37,7 @@ Endoscopic myotomy of the lower esophageal sphincter (LES) and distal esophageal
 
 | Indication | Role of POEM |
 |---|---|
-| [[achalasia\|Achalasia]] type I & II | One of three effective options (POEM, [[heller-myotomy\|LHM]], pneumatic dilation); choose by shared decision making, patient/disease characteristics, preferences, local expertise (AGA 2024 BPA 2) |
+| [[achalasia\|Achalasia]] type I & II | One of three effective options (POEM, [[heller-myotomy\|LHM]], [[pneumatic-dilation\|pneumatic dilation]]); choose by shared decision making, patient/disease characteristics, preferences, local expertise (AGA 2024 BPA 2) |
 | Achalasia type III (spastic) | **Preferred treatment** — POEM allows tailored, unlimited proximal myotomy to cover the spastic segment (AGA 2024 BPA 2) |
 | [[esophagogastric-junction-outflow-obstruction\|EGJOO]] alone | Case-by-case only, after less invasive options exhausted; long-term success ~80–85% (lower than classic achalasia) (AGA 2024 BPA 3) |
 | Nonachalasia spastic disorders ([[distal-esophageal-spasm\|DES]], [[hypercontractile-esophagus\|hypercontractile esophagus]]) | Case-by-case only, after medical therapy / botulinum toxin / dilation exhausted (AGA 2024 BPA 3) |
@@ -109,6 +109,8 @@ Endoscopic myotomy of the lower esophageal sphincter (LES) and distal esophageal
 | POEM after failed LHM (vs PD) | 62% vs 27% |
 
 *G-POEM (pyloromyotomy for gastroparesis) outcomes live on [[g-poem]] — the dedicated AGA 2023 CPU reports durable clinical success ~50–60%, and explicitly flags the older short-term pooled figures (71–82%) as overestimates.*
+
+---
 
 ## See Also
 

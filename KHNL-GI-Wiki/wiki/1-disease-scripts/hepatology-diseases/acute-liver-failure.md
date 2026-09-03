@@ -3,7 +3,7 @@ title: "Acute Liver Failure"
 category: disease-script
 tags: [acute-liver-failure, alf, liver, hepatology, transplant, liver-transplant-referral]
 created: 2026-05-15
-updated: 2026-08-31
+updated: 2026-09-03
 sources: [acg-2023-alf, acg-2016-liver-disease-pregnancy, aasld-ast-2025-liver-transplant-candidate-evaluation, aasld-2011-alf]
 ---
 
@@ -63,7 +63,7 @@ sources: [acg-2023-alf, acg-2016-liver-disease-pregnancy, aasld-ast-2025-liver-t
 - **Clichy criteria** (France): HE **plus** factor V <20% if age <30, or factor V <30% if age >30 — 56% (APAP) / 50% (non-APAP); not widely used in the US
   - ⚠ *[[acg-2023-alf]] labels these two percentages **sensitivity** in Table 11 but **specificity** in the body text ("shown to have low specificity, 56%… and 50%…"). The source contradicts itself; either way the criteria perform poorly.*
 - **Escudie criteria** (mushroom poisoning only): diarrhea within 8 hr of ingestion OR prothrombin index <10% (~INR >6) at ≥4 days post-ingestion — use before HE develops
-- **Swansea criteria** ([[acute-fatty-liver-of-pregnancy|acute fatty liver of pregnancy]]): 6+ of 14 clinical/lab findings required
+- **Swansea criteria** ([[acute-fatty-liver-of-pregnancy|acute fatty liver of pregnancy]]): **≥6 of 14** clinical/lab findings, in the absence of another cause — the 14 findings and their thresholds live on [[liver-disease-in-pregnancy]]
 
 ACG recommends using **either KCC or MELD** for prognostication (conditional, low quality evidence).
 

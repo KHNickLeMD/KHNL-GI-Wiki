@@ -3,8 +3,8 @@ title: "High-Resolution Manometry (HRM)"
 category: advanced-procedure
 tags: [hrm, manometry, esophageal, motility, foregut, chicago-classification, hrem]
 created: 2026-05-16
-updated: 2026-08-31
-sources: [acg-2020-esophageal-physiologic-testing]
+updated: 2026-09-03
+sources: [acg-2020-esophageal-physiologic-testing, acg-2021-gerd, asge-2024-gerd, afs-2023-transoral-incisionless-fundoplication, padova-2025-hrm-antireflux]
 ---
 
 *Also referred to as esophageal manometry or HREM. Canonical slug: `high-resolution-manometry`. See [[chicago-classification-v4]] for the diagnostic framework applied to HRM data and [[hrm-antireflux-surgery]] for pre/post-operative HRM.*
@@ -113,13 +113,15 @@ HRM has **higher sensitivity** than [[upper-endoscopy|endoscopy]] or barium radi
 | Indication | Role | Guideline |
 |---|---|---|
 | Dysphagia workup | Identify achalasia, EGJOO, spastic disorders, IEM | Strong/Moderate — ACG 2020 |
-| Pre-[[antireflux-surgery\|anti-reflux surgery]] | Mandatory to exclude major motility disorder — see [[hrm-antireflux-surgery]] | Strong — ACG 2021 GERD, ASGE 2025 |
-| Pre-TIF / cTIF | Required per ACG and ASGE guidelines | Strong |
-| Post-surgical dysphagia | Padova Classification — see [[hrm-antireflux-surgery]] | Conditional — ACG 2020 |
+| Pre-[[antireflux-surgery\|anti-reflux surgery]] (laparoscopic fundoplication / MSA) | Mandatory to exclude a major motility disorder — see [[hrm-antireflux-surgery]] | Strong — [[acg-2021-gerd\|ACG 2021 GERD]], [[asge-2024-gerd\|ASGE GERD]] |
+| Pre-TIF / cTIF | **Not routinely required.** ⚠ *Corrected 2026-09-03 — this row previously read "Required per ACG and ASGE guidelines," which is wrong for TIF.* [[afs-2023-transoral-incisionless-fundoplication\|AFS 2023]]: *"GERD patients without dysphagia do not routinely require a manometry prior to TIF"* — unlike Nissen, where a manometric diagnosis of IEM may alter the type of fundoplication; TIF is a partial wrap over a 60 Fr device. **Do it if dysphagia is present** (HRM ± timed barium esophagram, strongly advised, to rule out [[achalasia\|achalasia]]); [[flip-panometry\|FLIP]] is an accepted screening alternative | Conditional — AFS 2023 |
+| Post-surgical dysphagia | Padova Classification — see [[hrm-antireflux-surgery]] | [[padova-2025-hrm-antireflux\|Padova Consensus 2025]] |
 | [[gerd]] refractory workup | Not diagnostic for GERD; assesses GEJ integrity, hiatal hernia, peristaltic reserve | Key concept — ACG 2020 |
 | Noncardiac chest pain | Complements diagnostic evaluation after cardiac causes excluded and PPI trial fails | Key concept — ACG 2020 |
 | Rumination syndrome (postprandial HRIM) | Sensitivity/specificity 75–80%/100%; postprandial monitoring mandatory | Conditional/Low — ACG 2020 |
 | Supragastric belching (postprandial HRIM) | Identifies supragastric belching episodes when needed to confirm diagnosis | Conditional — ACG 2020 |
+
+---
 
 ## See Also
 
@@ -130,3 +132,7 @@ HRM has **higher sensitivity** than [[upper-endoscopy|endoscopy]] or barium radi
 ## Sources
 
 1. [[acg-2020-esophageal-physiologic-testing|ACG 2020: Clinical Use of Esophageal Physiologic Testing]]
+2. [[acg-2021-gerd|ACG 2021 Clinical Guideline: Diagnosis and Management of GERD]]
+3. [[asge-2024-gerd|ASGE 2024: Diagnosis and Management of GERD]]
+4. [[afs-2023-transoral-incisionless-fundoplication|American Foregut Society White Paper on Transoral Incisionless Fundoplication (2023)]]
+5. [[padova-2025-hrm-antireflux|Padova Consensus: High-Resolution Manometry Before and After Antireflux Surgery]]

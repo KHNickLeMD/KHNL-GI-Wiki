@@ -46,7 +46,7 @@ sources: [acg-2023-lgib, asge-2014-lgib, acg-2021-ugib]
 
 ### Hemodynamic Instability Criteria
 
-Any of the following suggests hemodynamically significant LGIB requiring immediate resuscitation before endoscopy:
+Any of the following suggests hemodynamically significant LGIB requiring immediate resuscitation before endoscopy. ⚠ **These figures are conventional, not guideline-set** — [[acg-2023-lgib|ACG 2023]] states only that blood pressure and heart rate should be optimised before endoscopic evaluation and never puts numbers on "instability." Do not confuse them with the **Oakland score** heart-rate bands below, which are a discharge-prediction instrument.
 
 - Tachycardia (heart rate >100 bpm)
 - Hypotension (systolic BP <90 mm Hg)
@@ -63,7 +63,7 @@ Severe hematochezia with hemodynamic instability may reflect a **brisk UGIB sour
 - **BUN alone >21 mg/dL** — specificity **93.0%** for an upper source (strongest single variable in that study)
 - Melena on rectal exam (argues against colonic source)
 - **Blood clots in stool argue *against* UGIB** — their **presence** carries LR **0.05** (95% CI 0.01–0.38) for an upper source
-- Nasogastric aspirate is unreliable (sensitivity only 28% for an upper source; NPV <1%) — routine NG tube NOT recommended
+- Nasogastric aspirate is unreliable — **sensitivity only 28%** for an upper source, so a negative aspirate does not exclude UGIB; **routine NG tube placement is NOT recommended** ([[acg-2023-lgib]]). A systematic review found the NG aspirate and BUN:Cr ratio equally poor (negative LR 0.6). *(The guideline also prints "negative predictive value was <1%" for the same cohort — reproduced here as printed, but read with caution: a <1% NPV would mean almost every negative aspirate had an upper source, the opposite of the sentence it sits in. No ingested source resolves it.)*
 
 If [[upper-gi-bleeding|UGIB]] is clinically suspected, perform **urgent [[upper-endoscopy|EGD]] before [[colonoscopy]]**.
 
@@ -336,9 +336,9 @@ Scores supplement but do not replace clinical judgment. Low-risk patients (Oakla
 
 ### Immediate / Hemodynamic
 
-- Heart rate ≥110 bpm
-- Systolic BP ≤90 mm Hg
-- Shock index (HR/SBP) ≥1
+*Use the same numbers as [[#Hemodynamic Instability Criteria]] — HR **>100 bpm**, SBP **<90 mm Hg**, shock index ≥1. ⚠ **Corrected 2026-09-03:** this list previously read "HR ≥110 / SBP ≤90," which conflated the **Oakland score's** highest heart-rate band (>110 bpm = 3 points) with a hemodynamic-instability threshold. They are different instruments. [[acg-2023-lgib|ACG 2023]] **does not define hemodynamic instability numerically at all** — it says only to normalise blood pressure and heart rate before endoscopy — so the >100/<90 figures above are conventional, not guideline-set. Treat them as a prompt to resuscitate, not as a validated cutoff.*
+
+- Tachycardia / hypotension / shock index ≥1 as above
 - Ongoing large-volume hematochezia despite initial resuscitation
 - Requirement for >3 units PRBC/day
 - Hemodynamic instability not responding to IV fluids

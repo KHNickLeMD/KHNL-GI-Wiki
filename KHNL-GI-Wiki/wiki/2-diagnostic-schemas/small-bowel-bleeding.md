@@ -50,7 +50,7 @@ This guideline replaces the older term **"obscure GI bleeding (OGIB)"** with ana
 | Term | Definition |
 |---|---|
 | **Potential small bowel bleeding** | Normal upper and lower endoscopy; small bowel evaluation not yet performed |
-| **Small bowel bleeding** | Source confirmed distal to ampulla of Vater or proximal to ileocecal valve |
+| **Small bowel bleeding** | Source confirmed distal to the ampulla of Vater **and** proximal to the ileocecal valve (both must hold — an "or" would take in every upper and colonic source) |
 | **Overt SBB** | Melena or hematochezia with a confirmed small bowel source |
 | **Occult SBB** | [[iron-deficiency-anemia\|Iron-deficiency anemia]] ± guaiac-positive stools with confirmed small bowel source |
 | **Obscure GI bleeding (OGIB)** | No source found after comprehensive evaluation including upper/lower scope, VCE/enteroscopy, and radiography |
@@ -244,7 +244,7 @@ This guideline replaces the older term **"obscure GI bleeding (OGIB)"** with ana
 
 ### Conservative Management (No Bleeding Source Found on Workup)
 
-- Manage with **oral iron** or **IV iron infusion** based on severity/persistence of IDA. *(Strong/Very Low)*
+- Manage with **oral iron** or **IV iron infusion** based on severity/persistence of IDA. *(Strong/Very Low)* — **which route, and the ferritin/Hb figures that decide it, live on [[iron-deficiency-anemia]]** ([[aga-2020-ida]]); [[acg-2015-small-bowel-bleeding]] does not set them.
 - A small vascular lesion found on VCE does not always require treatment. *(Strong/Very Low)*
 - If anemia worsens despite conservative management → repeat full diagnostic workup. *(Strong/Low)*
 

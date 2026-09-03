@@ -3,7 +3,7 @@ title: "Pneumatic Dilation"
 category: advanced-procedure
 tags: [achalasia, pneumatic-dilation, rigiflex, esophageal-motility, les, perforation, foregut]
 created: 2026-08-30
-updated: 2026-08-30
+updated: 2026-09-03
 sources: [acg-2020-achalasia, asge-2020-achalasia, sages-2024-poem]
 ---
 
@@ -26,7 +26,7 @@ Where PD sits among the three definitive achalasia therapies — and how it comp
 
 ## Indications and Candidacy
 
-- **Indication:** [[achalasia|achalasia]] in a patient who is a candidate for definitive therapy. PD, [[heller-myotomy|LHM]], and [[poem|POEM]] are **comparably effective for type I and type II**; **type III favors POEM** ([[acg-2020-achalasia]], Strong).
+- **Indication:** [[achalasia|achalasia]] in a patient who is a candidate for definitive therapy. PD, [[heller-myotomy|LHM]], and [[poem|POEM]] are **comparably effective for type I and type II**; **type III favors POEM** ([[acg-2020-achalasia]], Strong). **Subtype is assigned only on [[high-resolution-manometry|HRM]] by the [[chicago-classification-v4|Chicago Classification v4.0]]** — the IRP thresholds and type I/II/III criteria live on that page.
 - ⚠ **Hard prerequisite — every patient considered for PD must also be a surgical candidate**, because esophageal perforation requiring operative repair occurs in **1.9% (range 0%–10%)**. Consent must state this explicitly.
 - **Institutional prerequisite:** surgical backup available for perforation. ACG names **operator expertise and institutional surgical backup as the most important determinants** of a safe PD.
 - **Predictors of a favorable response** — use these to decide whether to start with PD at all:
@@ -67,7 +67,7 @@ Cumulative good-to-excellent symptom relief, average follow-up **1.6 years** (ra
 | 4.0 cm | **90%** |
 
 - Across all series, good-to-excellent relief after PD ranges **50%–93%**.
-- Pooled clinical success (**Eckardt score ≤3**) is **83% (95% CI 79–85%)** across 52 uncontrolled studies / 4,166 patients at 3–6 months, with mean LES pressure falling **34.5 → 20.8 mm Hg** ([[asge-2020-achalasia]]).
+- Pooled clinical success (**Eckardt score ≤3** — the score's four components, bands, and the corpus-blocked per-item anchors live on [[achalasia]]) is **83% (95% CI 79–85%)** across 52 uncontrolled studies / 4,166 patients at 3–6 months, with mean LES pressure falling **34.5 → 20.8 mm Hg** ([[asge-2020-achalasia]]).
 - **Serial PD is equivalent to [[heller-myotomy|LHM]] at 5 years** ([[acg-2020-achalasia]], Strong/High).
 - ⚠ **Newer guidance:** [[sages-2024-poem|SAGES 2024]] conditionally suggests **POEM over PD**, superseding the 2020 framing of PD as the preferred non-surgical option. Counsel on post-POEM reflux when choosing.
 
@@ -102,9 +102,11 @@ Cumulative good-to-excellent symptom relief, average follow-up **1.6 years** (ra
 - PD can also be used after failed POEM.
 - Prior **botulinum toxin** injection does not significantly affect subsequent myotomy performance or outcomes.
 
+---
+
 ## See Also
 
-[[achalasia]], [[poem]], [[heller-myotomy]], [[high-resolution-manometry]], [[flip-panometry]], [[dysphagia]], [[upper-endoscopy]], [[gerd]], [[proton-pump-inhibitors]], [[antireflux-surgery]], [[esophagogastric-junction-outflow-obstruction]]
+[[achalasia]], [[chicago-classification-v4]], [[poem]], [[heller-myotomy]], [[high-resolution-manometry]], [[flip-panometry]], [[dysphagia]], [[upper-endoscopy]], [[gerd]], [[proton-pump-inhibitors]], [[antireflux-surgery]], [[esophagogastric-junction-outflow-obstruction]]
 
 ---
 

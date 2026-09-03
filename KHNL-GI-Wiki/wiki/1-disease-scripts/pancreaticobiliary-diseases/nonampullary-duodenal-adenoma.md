@@ -3,7 +3,7 @@ title: "Nonampullary Duodenal Adenoma"
 category: disease-script
 tags: [duodenal-adenoma, nonampullary-adenoma, endoscopic-mucosal-resection, cold-snare, familial-adenomatous-polyposis, spiegelman, surveillance, gi-bleeding, perforation]
 created: 2026-07-21
-updated: 2026-09-02
+updated: 2026-09-03
 sources: [aga-2025-nonampullary-duodenal, asge-2015-ampullary-duodenal-adenomas]
 ---
 
@@ -134,7 +134,7 @@ Describe every duodenal polyp by **(BPA 3):**
 
 ## See Also
 
-[[ampullary-adenoma]], [[familial-adenomatous-polyposis]], [[peutz-jeghers-syndrome]], [[polypectomy]], [[endoscopic-submucosal-dissection]], [[colonoscopy]], [[upper-endoscopy]], [[capsule-endoscopy]], [[subepithelial-lesion]], [[gastroenteropancreatic-neuroendocrine-tumors]], [[endoscopic-mucosal-resection]], [[proton-pump-inhibitors]], [[anticoagulation-gi-bleeding]], [[device-assisted-enteroscopy]]
+[[ampullary-adenoma]], [[familial-adenomatous-polyposis]], [[mutyh-associated-polyposis]], [[peutz-jeghers-syndrome]], [[cowden-syndrome]], [[juvenile-polyposis-syndrome]], [[polypectomy]], [[endoscopic-mucosal-resection]], [[endoscopic-submucosal-dissection]], [[colonoscopy]], [[upper-endoscopy]], [[capsule-endoscopy]], [[device-assisted-enteroscopy]], [[subepithelial-lesion]], [[gastroenteropancreatic-neuroendocrine-tumors]], [[gastrointestinal-stromal-tumor]], [[iron-deficiency-anemia]], [[proton-pump-inhibitors]], [[anticoagulation-gi-bleeding]]
 
 ---
 

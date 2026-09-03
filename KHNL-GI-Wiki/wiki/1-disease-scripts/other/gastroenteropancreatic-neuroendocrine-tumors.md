@@ -3,7 +3,7 @@ title: "Gastroenteropancreatic Neuroendocrine Tumors (GEP-NETs)"
 category: disease-script
 tags: [neuroendocrine-tumor, net, gep-net, pannet, carcinoid, gastrinoma, insulinoma, glucagonoma, vipoma, zollinger-ellison, men1, prrt]
 created: 2026-06-18
-updated: 2026-09-02
+updated: 2026-09-03
 sources: [nccn-2026-net]
 ---
 
@@ -14,6 +14,7 @@ Gastroenteropancreatic neuroendocrine tumors (GEP-NETs) are epithelial neoplasms
   - [[#Establishing the Diagnosis]]
   - [[#Severity Assessment]]
   - [[#Classification / Typing]]
+  - [[#Staging (AJCC Version 9, 2023)]]
 - [[#Differential Diagnosis]]
 - [[#Diagnostics]]
 - [[#Therapeutics]]
@@ -38,7 +39,7 @@ Biochemical workup is **site- and syndrome-directed** rather than universal:
 
 Prognosis is driven by **grade, differentiation, primary site, and stage (tumor burden / metastases)**. Well-differentiated G1 tumors are often indolent; G2 and well-differentiated G3 tumors behave more aggressively; poorly differentiated neuroendocrine carcinoma (NEC) is highly aggressive and follows a separate, chemotherapy-led pathway. Liver metastatic burden and a functioning (hormone-secreting) phenotype add morbidity.
 
-⚠ **Decision gap — no T/N/M staging criteria are on this page because none are in the ingested source.** [[nccn-2026-net]] as ingested reproduces the **2019 WHO grading** table (above) but **not** the AJCC TNM definitions, which differ by primary site for NETs. The **Therapeutics** table below conditions rectal management on **"T1 (minimally invasive)" vs "T2–T4"** and appendiceal management on nodal status — those T strata are **not defined anywhere in the corpus**. Grade (Ki-67 / mitotic rate) *is* fully specified and is the dominant driver; use it, and consult the AJCC staging manual directly for the T stratum. **Do not infer the T definitions.** Ingesting the AJCC 8th-edition neuroendocrine chapters (or an NCCN version containing the staging tables) would close this.
+Grade (Ki-67 / mitotic rate) is the dominant driver and is fully specified below; **stage** supplies the T and N strata that the Therapeutics table conditions on — see [[#Staging (AJCC Version 9, 2023)]].
 
 ### Classification / Typing
 
@@ -66,6 +67,42 @@ Prognosis is driven by **grade, differentiation, primary site, and stage (tumor 
 | **Type 3** | **Normal** | Sporadic, unifocal | More aggressive; usually surgical |
 | **"Other"** | — | Residual NCCN category | — |
 
+### Staging (AJCC Version 9, 2023)
+
+**AJCC v9 (2023) TNM for *well-differentiated* NET (G1, G2, and G3)**, reproduced in [[nccn-2026-net]] (ST-1 – ST-8). It does **not** apply to poorly differentiated NEC, which is staged as carcinoma of its site. **T is site-specific — the same tumor size means a different T in the stomach, appendix, and rectum**, which is exactly why the Therapeutics table below reads differently per site.
+
+**T — primary tumor, by site:**
+
+| Site | T1 | T2 | T3 | T4 |
+|---|---|---|---|---|
+| **Stomach** | Invades mucosa or submucosa **and ≤1 cm** | Invades muscularis propria **or >1 cm** | Through the muscularis propria into subserosal tissue, without penetrating the overlying serosa | Invades visceral peritoneum (serosa), or other organs/adjacent structures |
+| **Duodenum** | Invades mucosa or submucosa **only, and ≤1 cm** | Invades muscularis propria **or >1 cm** | Invades the **pancreas or peripancreatic adipose tissue** | Invades visceral peritoneum (serosa) or other organs |
+| **Ampulla of Vater** | **≤1 cm** *and* confined within the **sphincter of Oddi** | Invades through the sphincter into duodenal submucosa or muscularis propria, **or >1 cm** | *(as duodenum)* | *(as duodenum)* |
+| **Jejunum / ileum** | Invades mucosa or submucosa **and ≤1 cm** | Invades muscularis propria **or >1 cm** | Through the muscularis propria into subserosal tissue, without penetrating the overlying serosa | Invades visceral peritoneum (serosa), or other organs/adjacent structures |
+| **Appendix** | **≤2 cm** | **>2 cm but ≤4 cm** | **>4 cm**, *or* subserosal invasion, *or* involvement of the **mesoappendix** | Perforates the peritoneum, or directly invades other adjacent organs/structures (abdominal wall, skeletal muscle) — **excluding** direct mural extension into the subserosa of adjacent bowel |
+| **Colon / rectum** | Invades mucosa or submucosa **and ≤2 cm** — **T1a ≤1 cm**, **T1b >1 but ≤2 cm** | Invades muscularis propria, **or >2 cm** with mucosal/submucosal invasion | Through the muscularis propria into subserosal tissue, without penetrating the overlying serosa | Invades visceral peritoneum (serosa), or other organs/adjacent structures |
+| **Pancreas** | Limited to the pancreas\*, **≤2 cm** | Limited to the pancreas\*, **>2 cm but ≤4 cm** | Limited to the pancreas\*, **>4 cm**; *or* invading the duodenum, ampulla of Vater, or common bile duct | Invading adjacent organs (stomach, spleen, colon, adrenal gland) **or the wall of a large vessel** (celiac axis, SMA/SMV, splenic artery/vein, gastroduodenal artery/vein, portal vein) |
+
+\* *"Limited to the pancreas" means no invasion of adjacent organs or of a large-vessel wall; **extension into peripancreatic adipose tissue is NOT a basis for staging**.*
+*Multiple tumors: assign T from the **largest** tumor and flag it — `pT3(4)` or `pT3(m)`.*
+
+**N and M:**
+
+- **N0** = no regional nodal involvement; **N1** = regional node(s) involved — at every site above.
+- **Only jejunum/ileum has an N2**, and the split is a decision: **N1 = fewer than 12 involved nodes**; **N2 = large mesenteric masses (>2 cm) and/or extensive nodal deposits (≥12)**, especially those encasing the superior mesenteric vessels. *Mesenteric masses ≤2 cm are reported but do not affect stage.*
+- **M1a** metastasis confined to the liver · **M1b** ≥1 extrahepatic site (lung, ovary, nonregional node, peritoneum, bone) · **M1c** both hepatic and extrahepatic.
+
+**Prognostic stage groups:**
+
+| Stage | Stomach · duodenum/ampulla · jejunum-ileum · appendix · pancreas | Colon / rectum |
+|---|---|---|
+| **I** | T1, N0, M0 | T1, N0, M0 |
+| **II** | **T2 or T3**, N0, M0 | **IIA** T2 N0 M0 · **IIB** T3 N0 M0 |
+| **III** | **T4 N0 M0**, *or* **any T with nodal disease** (N1; jejunum/ileum N1 **or** N2), M0 | **IIIA** T4 N0 M0 · **IIIB** any T, N1, M0 |
+| **IV** | Any T, any N, **M1** | Any T, any N, **M1** |
+
+*Note what this does to the Therapeutics table: a **rectal** NET of 1.8 cm confined to the submucosa is **T1b** (endoscopic/transanal excision territory), but the same 1.8 cm tumor reaching the muscularis propria is **T2** → radical resection. In the **appendix**, T is pure size plus mesoappendiceal/subserosal invasion, which is why the ≤2 cm / >2 cm line drives appendectomy vs right hemicolectomy.*
+
 ## Differential Diagnosis
 
 *Workup of a luminal NET presenting as a mucosal mound: see [[subepithelial-lesion]].*
@@ -88,7 +125,7 @@ By presentation:
 
 ## Therapeutics
 
-**Localized disease — the size/site thresholds that decide endoscopy vs surgery** ([[nccn-2026-net]]):
+**Localized disease — the size/site thresholds that decide endoscopy vs surgery** ([[nccn-2026-net]]). *T strata below are AJCC v9 and are site-specific — see [[#Staging (AJCC Version 9, 2023)]].*
 
 | Site | Endoscopic / local resection | Surgical resection | Surveillance after resection |
 |---|---|---|---|

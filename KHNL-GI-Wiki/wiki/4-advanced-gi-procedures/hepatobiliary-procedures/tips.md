@@ -3,7 +3,7 @@ title: "TIPS (Transjugular Intrahepatic Portosystemic Shunt)"
 category: advanced-procedure
 tags: [tips, portal-hypertension, variceal-bleeding, refractory-ascites, hepatic-encephalopathy, pspg, ptfe-stent, rto, brto, interventional-radiology]
 created: 2026-07-16
-updated: 2026-09-01
+updated: 2026-09-03
 sources: [aasld-2024-tips, aasld-2021-ascites-sbp-hrs, aga-2025-ascites-cirrhosis, aasld-2021-vascular-pvt, wang-2026-eus-ppg-delphi-consensus]
 ---
 
@@ -60,6 +60,8 @@ sources: [aasld-2024-tips, aasld-2021-ascites-sbp-hrs, aga-2025-ascites-cirrhosi
 - **Salvage/rescue:** controls bleeding in 80–100%, but 6-week mortality **27–55%** (deaths from liver failure, infection, renal failure)
 
 ### Refractory ascites and hepatic hydrothorax
+
+*What makes ascites "refractory" — the diuretic-resistant vs diuretic-intractable split, the maximum-diuretic-dose and sodium-restriction prerequisites, and the early-recurrence criterion — has one home: **[[ascites]]**. Confirm the label there before applying anything below; TIPS is not an alternative to an inadequate medical trial.*
 
 - TIPS **preferred over repeated large-volume paracentesis** in well-selected refractory ascites patients — **MELD <18**, no advanced cardiopulmonary disease, no severe [[hepatic-encephalopathy|encephalopathy]]; **8–10 mm covered stent** preferred ([[aasld-2021-ascites-sbp-hrs]])
 - Well-selected patients with refractory ascites, hepatic hydrothorax, volume overload, or hyponatremia **should be referred for TIPS** (AGA BPA 7, [[aga-2025-ascites-cirrhosis]])

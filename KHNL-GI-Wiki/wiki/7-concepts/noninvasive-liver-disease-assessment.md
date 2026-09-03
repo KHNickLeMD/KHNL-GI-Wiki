@@ -3,7 +3,7 @@ title: "Noninvasive Liver Disease Assessment (NILDA)"
 category: concept
 tags: [nilda, fibrosis, steatosis, fib-4, elf, vcte, swe, mre, mri-pdff, apri, noninvasive, biomarkers, hpb, liver]
 created: 2026-05-31
-updated: 2026-09-01
+updated: 2026-09-03
 sources: [aasld-2024-nilda-blood, baveno-vii-2022-portal-hypertension, aasld-2023-nafld, aasld-2025-semaglutide-mash, aasld-2024-nilda-imaging, aasld-2024-nilda-portal-htn, aga-2023-nafld-noninvasive-biomarkers]
 ---
 
@@ -60,7 +60,7 @@ Reserve [[liver-biopsy|liver biopsy]] for: [[aga-2023-nafld-noninvasive-biomarke
 - NIT results that **conflict** with other clinical, laboratory, or radiologic findings
 - **Alternative etiologies** of liver disease suspected
 
-**Interpret NITs in clinical context** (exam, biochemical, radiographic, endoscopic data) to optimize PPV, and **use each NIT per manufacturer specifications** — e.g. **not in patients with ascites or with pacemakers** — to minimize discordant results and adverse events; observe probe selection (M vs XL) and quality measures. VCTE false positives rise with operator inexperience, high BMI, non-fasting state, and markedly elevated ALT.
+**Interpret NITs in clinical context** (exam, biochemical, radiographic, endoscopic data) to optimize PPV, and **use each NIT per manufacturer specifications** — e.g. **not in patients with [[ascites]] or with pacemakers** — to minimize discordant results and adverse events; observe probe selection (M vs XL) and quality measures. VCTE false positives rise with operator inexperience, high BMI, non-fasting state, and markedly elevated ALT.
 
 ## Baveno VII cACLD criteria (LSM by transient elastography)
 
@@ -88,7 +88,7 @@ Baveno VII builds a parallel, portal-hypertension-oriented ladder on the same LS
 
 ## See Also
 
-[[nafld-masld]], [[semaglutide]], [[portal-hypertension]], [[cirrhosis]], [[porto-sinusoidal-vascular-disorder]], [[primary-sclerosing-cholangitis]], [[primary-biliary-cholangitis]], [[hereditary-hemochromatosis]], [[liver-biopsy]], [[liver-stiffness-measurement]], [[resmetirom]], [[hcc-surveillance]], [[variceal-upper-gi-bleeding]], [[hepatic-venous-pressure-gradient]]
+[[nafld-masld]], [[semaglutide]], [[portal-hypertension]], [[cirrhosis]], [[porto-sinusoidal-vascular-disorder]], [[primary-sclerosing-cholangitis]], [[primary-biliary-cholangitis]], [[hereditary-hemochromatosis]], [[liver-biopsy]], [[liver-stiffness-measurement]], [[resmetirom]], [[hcc-surveillance]], [[variceal-upper-gi-bleeding]], [[hepatic-venous-pressure-gradient]], [[ascites]]
 
 ---
 

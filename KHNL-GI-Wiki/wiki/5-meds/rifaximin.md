@@ -3,7 +3,7 @@ title: "Rifaximin"
 category: med
 tags: [rifaximin, antibiotic, sibo, ibs, hepatic-encephalopathy, nonabsorbable, gut-selective]
 created: 2026-05-19
-updated: 2026-09-02
+updated: 2026-09-03
 sources: [acg-2020-sibo, acg-2020-ibs, aga-2022-ibs-d, acg-2026-hepatic-encephalopathy, baveno-vii-2022-portal-hypertension, aasld-easl-2014-hepatic-encephalopathy]
 ---
 
@@ -37,7 +37,7 @@ A gut-selective, non-absorbable oral antibiotic (rifamycin derivative). Minimal 
 | Acute OHE | **Add** rifaximin to lactulose vs lactulose alone (Rec 9) | Conditional, low certainty |
 | Outpatient, prior OHE | Rifaximin to **prevent recurrence** (Rec 12) | Conditional, low certainty |
 | On lactulose maintenance, **recurrent** episodes | **Add** rifaximin (Rec 13) | **Strong, high certainty** |
-| Elective [[tips\|TIPS]] in decompensated cirrhosis, **with or without** prior OHE | Start **14 d before** insertion, continue **≥6 mo** (Rec 22) — see [[#Contradictions]] | **Strong, moderate certainty** |
+| Elective [[tips\|TIPS]] in decompensated [[cirrhosis]], **with or without** prior OHE | Start **14 d before** insertion, continue **≥6 mo** (Rec 22) — see [[#Contradictions]] | **Strong, moderate certainty** |
 
 - Pivotal RCT (n=299; cirrhosis with **≥2 OHE episodes in the preceding 6 months**, in remission at entry, **91% on background lactulose**): at 6 months, **58% risk reduction in breakthrough OHE (NNT 4)** and **50% reduction in HE-related hospitalization (NNT 9)**.
 - **Monotherapy vs combination:** rifaximin monotherapy *has* maintained remission and lowered hospitalization vs lactulose monotherapy — but only in **small or retrospective** studies. The preponderance of evidence favors **rifaximin + lactulose** in anyone who tolerates dual therapy, so combination is the default.

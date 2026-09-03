@@ -3,8 +3,8 @@ title: "Acute Diarrhea"
 category: diagnostic-schema
 tags: [diarrhea, infectious-diarrhea, travelers-diarrhea, gastroenteritis, acute, dysentery, loperamide, antibiotic, prevention]
 created: 2026-05-19
-updated: 2026-09-01
-sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
+updated: 2026-09-03
+sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea, aga-2020-probiotics]
 ---
 
 ## Contents
@@ -138,6 +138,10 @@ All patients: hydrate with fluids and salt (water, juices, sports drinks, soups,
   - Duration ≥72 h: consider microbiologic assessment
 - Fever ≥101°F: consider microbiologic assessment
 
+> ⚠ **The 100–101°F band is undefined — this is a gap in the source, not in the page.** [[acg-2016-acute-diarrhea|ACG 2016]]'s algorithm branches on *"no or low-grade fever (≤100°F)"* vs *"fever (≥101°F)"* and never says which arm a temperature of 100.1–100.9°F takes. Reproduced as printed; do not invent a cutoff. In practice the safe reading is to treat the intermediate band as febrile (i.e. test) when other severity features are present.
+>
+> **Unit note:** the ACG thresholds above are in °F. The **≥38.5°C** figure used later for returning travelers comes from [[idsa-2017-infectious-diarrhea|IDSA 2017]] — a *different* guideline and population, and **not** the same cutoff (38.5°C ≈ 101.3°F). Don't cross-apply them.
+
 #### B. Dysenteric Diarrhea (grossly bloody stools)
 
 **No or low-grade fever (≤100°F):**
@@ -213,7 +217,7 @@ Suspect in a febrile traveler (diarrhea often absent) from an endemic area, or w
 
 #### Endoscopy
 
-- Role in **persistent diarrhea** (>14–30 days) when stool workup negative; not for acute phase unless specific clinical indication.
+- Role in **persistent diarrhea** (14–30 days) when stool workup negative; not for acute phase unless specific clinical indication.
 - Lower endoscopy (colonoscopy or sigmoidoscopy) preferred over [[upper-endoscopy|upper endoscopy]] for most persistent diarrhea workup.
 - Mucosal biopsies recommended even when endoscopic appearance is normal (to detect microscopic colitis, eosinophilic gastroenteritis).
 
@@ -366,3 +370,4 @@ The following features should prompt microbiologic assessment, consideration of 
 
 1. [[acg-2016-acute-diarrhea|ACG 2016: Diagnosis, Treatment, and Prevention of Acute Diarrheal Infections in Adults]]
 2. [[idsa-2017-infectious-diarrhea|IDSA 2017 Clinical Practice Guidelines for the Diagnosis and Management of Infectious Diarrhea]]
+3. [[aga-2020-probiotics|AGA Clinical Practice Guidelines on the Role of Probiotics in the Management of Gastrointestinal Disorders]]

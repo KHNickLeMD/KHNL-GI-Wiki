@@ -3,7 +3,7 @@ title: "Alcohol-Associated Liver Disease"
 category: disease-script
 tags: [ald, alcoholic-hepatitis, cirrhosis, liver, hpb, aud, corticosteroids, liver-transplant, lille-score, meld, mdf, nac, pentoxifylline, transplant-candidate-evaluation, post-transplant, recurrence, naltrexone, acamprosate, baclofen, peth, stopah]
 created: 2026-05-07
-updated: 2026-09-02
+updated: 2026-09-03
 sources: [acg-2024-ald, acg-2017-liver-chemistries, aasld-ast-2025-liver-transplant-candidate-evaluation, aasld-ast-2025-liver-transplant-graft-complications, aasld-2020-ald, acg-2019-hereditary-hemochromatosis, lee-2018-accelerate-ah]
 ---
 
@@ -83,7 +83,7 @@ sources: [acg-2024-ald, acg-2017-liver-chemistries, aasld-ast-2025-liver-transpl
 
 ### Severity Assessment
 
-**MELD is the operative score — MELD >20 defines severe AH** [[acg-2024-ald]] *(MELD/MELD-Na formula and Child-Turcotte-Pugh point table live on [[cirrhosis]])*:
+**MELD is the operative score — MELD >20 defines severe AH** [[acg-2024-ald]] *(the MELD-variant comparison — which of original MELD / MELD-Na / MELD 3.0 each threshold uses, and which can be computed — plus the Child-Turcotte-Pugh point table live on [[cirrhosis]])*:
 
 - **Severe AH = MELD >20** → treat with corticosteroids if no contraindication (ACG 2024 **Rec 17**, *strong, moderate*). Use the **original MELD**, not MELD-Na — the recommendations were derived on original MELD
 - **Moderate AH = MELD ≤20** (ACG 2024 Key concept 21) — significant morbidity and mortality but no steroid indication

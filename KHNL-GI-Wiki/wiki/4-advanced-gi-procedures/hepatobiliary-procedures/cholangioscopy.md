@@ -3,7 +3,7 @@ title: "Cholangioscopy"
 category: advanced-procedure
 tags: [cholangioscopy, ercp, biliary-stricture, cholangiocarcinoma, hepatobiliary]
 created: 2026-06-04
-updated: 2026-08-28
+updated: 2026-09-03
 sources: [asge-2023-indeterminate-biliary-strictures, acg-2023-biliary-strictures, asge-2015-ercp-benign-biliary]
 ---
 
@@ -54,24 +54,18 @@ Benign strictures lack these features.
 
 Per [[asge-2015-ercp-benign-biliary|ASGE 2015]] (Rec 6, *low quality*): cholangioscopy is an **adjunctive technique for difficult bile duct stones not amenable to removal after sphincterotomy with or without balloon dilation or mechanical lithotripsy.**
 
+- ⚠ **"Difficult" is not defined by the guideline** — it gives no size, impaction, intrahepatic-location, altered-anatomy, or duct-taper criterion, and neither does [[choledocholithiasis]] or [[asge-2019-choledocholithiasis]]. The operative definition here is **functional: a stone that has failed the preceding rung of the ladder below.** Ingesting a dedicated difficult-stone guideline would close this; do not supply criteria from memory.
 - **Modality:** peroral cholangioscopy with **electrohydraulic or laser lithotripsy** under direct vision — clears **83–100%** of difficult extrahepatic stones.
-- **Position in the escalation ladder** for [[choledocholithiasis|choledocholithiasis]]: sphincterotomy → endoscopic papillary large-balloon (**≥12 mm**) dilation added to sphincterotomy (high clearance, PEP rate **2.3%**) → mechanical lithotripsy → cholangioscopy-guided lithotripsy.
+- **Position in the escalation ladder** for [[choledocholithiasis|choledocholithiasis]] (the ladder's home is [[ercp]]; repeated here only because it defines "difficult"): sphincterotomy → endoscopic papillary large-balloon (**≥12 mm**) dilation added to sphincterotomy (high clearance, post-ERCP pancreatitis rate **2.3%**) → mechanical lithotripsy → cholangioscopy-guided lithotripsy.
 - Same ASGE document (Rec 7, *low*) supports **cholangioscopy with directed biopsy for characterization of biliary strictures** — the diagnostic role detailed above.
 
 ---
 
 ## Diagnostic Yield vs Other Sampling Modalities
 
-Sensitivity for malignancy at ERCP, by modality ([[acg-2023-biliary-strictures]]) — the reason ≥2 modalities are recommended at the index procedure:
+**The comparative sensitivity table has one home — [[biliary-stricture]]**, alongside the full multimodality sampling strategy and the indeterminate-stricture pathway. Not reproduced here (it was duplicated on both pages until 2026-09-03).
 
-| Modality | Sensitivity for malignancy |
-|---|---|
-| [[brush-cytology\|Brush cytology]] alone | 41–60% |
-| Fluoroscopy-directed forceps biopsy | 40–88% (combined with brushings ~59%) |
-| **Cholangioscopy-directed biopsy** | **60–75%** — superior to brushings or forceps alone |
-| [[fish\|FISH]] (adjunct to cytology) | raises ~20% → ~43%; polysomy OR >77 for malignancy; attenuated in [[primary-sclerosing-cholangitis\|PSC]] |
-
-Full multimodality sampling strategy and the indeterminate-stricture pathway live on [[biliary-stricture]].
+The single figure that belongs to *this* procedure: **cholangioscopy-directed biopsy is 60–75% sensitive for malignancy — superior to [[brush-cytology|brush cytology]] or fluoroscopy-directed forceps biopsy alone**, which is why ≥2 sampling modalities are recommended at the index [[ercp|ERCP]] ([[acg-2023-biliary-strictures]]).
 
 ---
 
