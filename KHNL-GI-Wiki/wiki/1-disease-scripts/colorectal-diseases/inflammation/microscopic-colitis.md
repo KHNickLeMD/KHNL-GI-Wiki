@@ -3,7 +3,7 @@ title: "Microscopic Colitis"
 category: disease-script
 tags: [colon, chronic-diarrhea, collagenous-colitis, lymphocytic-colitis, watery-diarrhea]
 created: 2026-06-04
-updated: 2026-08-31
+updated: 2026-09-03
 sources: [asge-2010-diarrhea, acg-2016-acute-diarrhea, acg-2020-ibs, acg-2022-celiac]
 ---
 
@@ -42,7 +42,7 @@ The common indication "colonoscopy to rule out microscopic colitis" in suspected
 | **Routine colonoscopy NOT justified** | IBS symptoms **<45 years** with **no alarm features** *(conditional recommendation; low quality of evidence)* |
 | **≥45 years** | A **recent negative colonoscopy** (for CRC screening or other indication) should mitigate the need for repeat colonoscopy for IBS symptoms **in the absence of new alarm features** |
 
-- **Symptom criteria cannot exclude it:** **32.5% of patients with microscopic colitis meet Rome criteria for IBS-D**, and others meet Rome criteria for functional diarrhea. A positive Rome-based IBS diagnosis therefore does not rule microscopic colitis out. [[acg-2020-ibs]]
+- **Symptom criteria cannot exclude it:** **32.5% of patients with microscopic colitis meet Rome criteria for IBS-D**, and others meet Rome criteria for [[disorders-of-gut-brain-interaction|functional diarrhea]]. A positive Rome-based IBS diagnosis therefore does not rule microscopic colitis out. [[acg-2020-ibs]]
 
 ## Differential Diagnosis
 
@@ -72,7 +72,7 @@ The common indication "colonoscopy to rule out microscopic colitis" in suspected
 
 ## See Also
 
-[[chronic-diarrhea]], [[colonoscopy]], [[upper-endoscopy]], [[irritable-bowel-syndrome]], [[celiac-disease]], [[inflammatory-bowel-disease]], [[ulcerative-colitis]], [[crohns-disease]], [[small-intestinal-bacterial-overgrowth]], [[exocrine-pancreatic-insufficiency]], [[acute-diarrhea]]
+[[chronic-diarrhea]], [[colonoscopy]], [[upper-endoscopy]], [[irritable-bowel-syndrome]], [[celiac-disease]], [[inflammatory-bowel-disease]], [[ulcerative-colitis]], [[crohns-disease]], [[small-intestinal-bacterial-overgrowth]], [[exocrine-pancreatic-insufficiency]], [[acute-diarrhea]], [[disorders-of-gut-brain-interaction]]
 
 ---
 

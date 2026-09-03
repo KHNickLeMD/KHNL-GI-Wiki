@@ -3,7 +3,7 @@ title: "Serrated Polyposis Syndrome"
 category: disease-script
 tags: [serrated-polyposis, sps, hyperplastic-polyposis, sessile-serrated, colorectal-cancer, polyposis, mutyh]
 created: 2026-05-19
-updated: 2026-09-01
+updated: 2026-09-03
 sources: [acg-2015-hereditary-gi-cancer, usmstf-2020-followup-colonoscopy, asge-2020-fap]
 ---
 
@@ -108,7 +108,7 @@ These are the **2010 (4th-edition) WHO** criteria — [[asge-2020-fap|ASGE 2020]
 
 - Colonoscopy every 1–3 years with attempted removal of all polyps >5 mm in diameter (Conditional/Low) [[acg-2015-hereditary-gi-cancer]]
 - Complete clearance of all polyps ≥1 cm at index colonoscopy is the goal
-- Subsequent intervals based on number/size of polyps and co-existing adenomas
+- Subsequent intervals based on number/size of polyps and co-existing adenomas (general post-polypectomy intervals: [[colonoscopy-surveillance]])
 
 ### Surgical Management
 
@@ -135,7 +135,7 @@ These are the **2010 (4th-edition) WHO** criteria — [[asge-2020-fap|ASGE 2020]
 
 ## See Also
 
-[[colorectal-polyposis]], [[familial-adenomatous-polyposis]], [[mutyh-associated-polyposis]], [[hereditary-mixed-polyposis-syndrome]], [[lynch-syndrome]], [[juvenile-polyposis-syndrome]], [[colorectal-cancer]], [[colorectal-cancer-screening]], [[colonoscopy]], [[polypectomy]]
+[[colorectal-polyposis]], [[familial-adenomatous-polyposis]], [[mutyh-associated-polyposis]], [[hereditary-mixed-polyposis-syndrome]], [[lynch-syndrome]], [[juvenile-polyposis-syndrome]], [[colorectal-cancer]], [[colorectal-cancer-screening]], [[colonoscopy]], [[colonoscopy-surveillance]], [[polypectomy]]
 
 ---
 

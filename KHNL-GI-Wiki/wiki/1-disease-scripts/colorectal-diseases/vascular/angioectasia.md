@@ -3,7 +3,7 @@ title: "Angioectasia (Angiodysplasia)"
 category: disease-script
 tags: [angioectasia, angiodysplasia, small-bowel, gi-bleeding, vascular-lesion, heydes-syndrome, lvad]
 created: 2026-05-19
-updated: 2026-09-02
+updated: 2026-09-03
 sources: [acg-2015-small-bowel-bleeding]
 ---
 
@@ -13,7 +13,7 @@ sources: [acg-2015-small-bowel-bleeding]
 
 - Angioectasia (also called angiodysplasia) = acquired vascular ectasias of the GI mucosa and submucosa; the **most common cause of small bowel bleeding (SBB)** overall. [[acg-2015-small-bowel-bleeding]]
 - **Prevalence:** small-bowel **vascular lesions** were found in **24%** of patients with suspected SBB on both [[capsule-endoscopy|VCE]] (n=371) and [[device-assisted-enteroscopy|DBE]] (n=364) — 2008 meta-analysis, 10 studies. *(The guideline's denominator is "vascular lesions", a slightly broader category than angioectasia.)*
-- **Age stratifies the differential:** angioectasia, other vascular lesions, and NSAID ulcers are the likely causes of SBB in patients **>40 years**. Angioectasia are more common in Western than Asian countries.
+- **Age stratifies the differential:** angioectasia, other vascular lesions, and [[peptic-ulcer-disease|NSAID ulcers]] are the likely causes of SBB in patients **>40 years**. Angioectasia are more common in Western than Asian countries.
 
 **Risk factors for angioectasia** (guideline summary statement 3):
 
@@ -97,7 +97,7 @@ sources: [acg-2015-small-bowel-bleeding]
 
 ## See Also
 
-[[small-bowel-bleeding]], [[heydes-syndrome]], [[hereditary-hemorrhagic-telangiectasia]], [[upper-gi-bleeding]], [[acute-lower-gi-bleeding]], [[iron-deficiency-anemia]], [[capsule-endoscopy]], [[device-assisted-enteroscopy]], [[argon-plasma-coagulation]], [[somatostatin-analogs]], [[anticoagulation-gi-bleeding]]
+[[small-bowel-bleeding]], [[heydes-syndrome]], [[hereditary-hemorrhagic-telangiectasia]], [[upper-gi-bleeding]], [[acute-lower-gi-bleeding]], [[peptic-ulcer-disease]], [[iron-deficiency-anemia]], [[capsule-endoscopy]], [[device-assisted-enteroscopy]], [[argon-plasma-coagulation]], [[somatostatin-analogs]], [[anticoagulation-gi-bleeding]]
 
 ---
 

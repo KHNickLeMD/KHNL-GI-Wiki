@@ -3,7 +3,7 @@ title: "Crohn's Disease"
 category: disease-script
 tags: [crohns, ibd, biologics, ileitis, colitis, perianal-fistula, stricture, fistula, anti-tnf]
 created: 2026-05-07
-updated: 2026-09-02
+updated: 2026-09-03
 sources: [acg-2025-crohns, aga-2025-crohns-pharm, aga-2021-crohns-pharm, aga-2023-biomarkers-cd, acg-2018-crohns, asge-2015-scenic-ibd-dysplasia, asge-2015-ibd, aga-2026-inpatient-ibd, aga-2026-therapeutic-endoscopy-ibd, aga-2024-intestinal-ultrasound, aga-2024-diet-nutrition-ibd, aga-2024-ibd-malignancy, aga-2024-pregnancy-gi-liver]
 ---
 
@@ -114,7 +114,7 @@ No single pathognomonic test. Diagnosis = integration of:
 
 ## Differential Diagnosis
 
-*Workup: see [[chronic-diarrhea]].*
+*Workup: see [[chronic-diarrhea]]. Feature-by-feature contrast with UC: [[uc-vs-crohns-comparison]].*
 
 | Condition | Key distinguishing features |
 |---|---|
@@ -140,7 +140,7 @@ No single pathognomonic test. Diagnosis = integration of:
 - **CMP:** albumin (malnutrition), LFTs
 - **CRP:** elevated in **a subset** of CD patients (not all); short half-life (**19 h**) makes it responsive for detecting and monitoring inflammation. ⚠ **Up to 40% of IBD patients with mild inflammation have a normal CRP *and* ESR** — a normal CRP does not exclude active disease.
 - **ESR:** nonspecific; does **not** discriminate IBD from IBS or healthy controls — of limited use except in an individual patient followed serially.
-- **Fecal calprotectin:** cutoff **>50–100 μg/g** to differentiate inflammatory from noninflammatory colonic disease *(Strong/Moderate)*. At **50 μg/g**, sensitivity **88%**, specificity **72%** for distinguishing [[inflammatory-bowel-disease|IBD]] from functional GI disease. Also used to monitor activity and treatment response.
+- **Fecal calprotectin:** cutoff **>50–100 μg/g** to differentiate inflammatory from noninflammatory colonic disease *(Strong/Moderate)*. At **50 μg/g**, sensitivity **88%**, specificity **72%** for distinguishing [[inflammatory-bowel-disease|IBD]] from [[disorders-of-gut-brain-interaction|functional GI disease]]. Also used to monitor activity and treatment response.
 - **Stool cultures + C. diff testing:** rule out infectious triggers
 - **Do NOT order:** anti-Saccharomyces antibodies (ASCA), perinuclear ANCA routinely — not useful for diagnosis
 - **Do NOT order:** genetic testing for diagnosis
@@ -459,7 +459,7 @@ No single pathognomonic test. Diagnosis = integration of:
 
 ## See Also
 
-[[ulcerative-colitis]], [[inflammatory-bowel-disease]], [[uc-vs-crohns-comparison]], [[ibd-preventive-care]], [[ibd-endoscopic-scoring]], [[ibd-pain-management]], [[intestinal-ultrasound]], [[clostridioides-difficile]], [[celiac-disease]], [[colorectal-cancer]], [[primary-sclerosing-cholangitis]], [[capsule-endoscopy]], [[colonoscopy]], [[chronic-diarrhea]], [[nutrition-in-ibd]], [[ibd-in-malignancy]], [[toxic-megacolon]], [[pouchitis]], [[liver-disease-in-pregnancy]], [[nausea-and-vomiting-of-pregnancy]], [[ostomy-management]]
+[[ulcerative-colitis]], [[inflammatory-bowel-disease]], [[uc-vs-crohns-comparison]], [[ibd-preventive-care]], [[ibd-endoscopic-scoring]], [[ibd-pain-management]], [[intestinal-ultrasound]], [[clostridioides-difficile]], [[celiac-disease]], [[colorectal-cancer]], [[primary-sclerosing-cholangitis]], [[capsule-endoscopy]], [[colonoscopy]], [[chronic-diarrhea]], [[nutrition-in-ibd]], [[ibd-in-malignancy]], [[toxic-megacolon]], [[pouchitis]], [[liver-disease-in-pregnancy]], [[nausea-and-vomiting-of-pregnancy]], [[ostomy-management]], [[disorders-of-gut-brain-interaction]]
 
 ---
 

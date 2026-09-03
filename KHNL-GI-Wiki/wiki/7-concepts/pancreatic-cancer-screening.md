@@ -3,7 +3,7 @@ title: "High-Risk Pancreatic Cancer Surveillance"
 category: concept
 tags: [pancreatic-cancer, screening, surveillance, genetics, brca, eus, mri]
 created: 2026-06-04
-updated: 2026-08-14
+updated: 2026-09-03
 sources: [asge-2022-pancreatic-cancer-screening, acg-2015-hereditary-gi-cancer]
 ---
 
@@ -91,7 +91,7 @@ Screen with [[endoscopic-ultrasound|EUS]], MRI/[[mri-mrcp|MRCP]], or EUS alterna
 
 - **Annual** (conditional, very low quality). Basis: tumor-progression models predict localized → advanced stage can occur **within 1 year**, and 8 of 9 reporting centers screened annually or sooner.
 - Interval may be **shortened** depending on the severity of observed lesions and the need for pathologic examination ([[acg-2015-hereditary-gi-cancer|ACG 2015]], Table 10).
-- Provide **smoking-cessation education** as part of the surveillance program ([[acg-2015-hereditary-gi-cancer|ACG 2015]]).
+- Provide **smoking-cessation education** as part of the surveillance program — smoking is an independent PDAC risk factor in FPC families and smokers are diagnosed at an earlier age, though **no data support altering the surveillance strategy by smoking status**. In [[hereditary-pancreatitis|hereditary pancreatitis]], add a **low-fat diet** ([[acg-2015-hereditary-gi-cancer|ACG 2015]]).
 
 ## What an Abnormal Finding Triggers
 
@@ -99,8 +99,9 @@ Screen with [[endoscopic-ultrasound|EUS]], MRI/[[mri-mrcp|MRCP]], or EUS alterna
   - **High-risk lesion** = PDAC, high-grade dysplasia, or **grade III pancreatic intraepithelial neoplasia (PanIN)**.
   - **Resectable / borderline-resectable** = any **T1–3, N0–2** PDAC, high-grade dysplasia, or grade III PanIN.
   - The precursor lesions surveillance aims to catch are **PanIN** and **IPMN** (see [[pancreatic-cysts]]).
-- **A pancreatic cystic lesion found in a hereditary-PDAC-prone family member carries a higher cancer risk than a sporadic cyst** and requires evaluation by a center experienced with high-risk individuals; the decision on **when to operate is difficult and is individualized after multidisciplinary assessment** ([[acg-2015-hereditary-gi-cancer|ACG 2015]], Rec 24, conditional/low). Sporadic cyst size and worrisome-feature thresholds live on [[pancreatic-cysts]] and do **not** transfer to this population.
-- **Gap — no operative threshold is sourced.** Neither ingested guideline states a lesion size, growth rate, or imaging feature that mandates surgery in a high-risk individual; the CAPS consortium recommendations (Goggins 2020) or the AGA 2020 clinical practice update on pancreas cancer screening would be needed. Do not infer one.
+- **A pancreatic cystic lesion found in a hereditary-PDAC-prone family member carries a higher cancer risk than a sporadic cyst** and requires evaluation by a center experienced with high-risk individuals; the decision on **when to operate is difficult and is individualized after multidisciplinary assessment** ([[acg-2015-hereditary-gi-cancer|ACG 2015]], Rec 24, conditional/low).
+- **The one sourced operative threshold — BD-IPMN ≥2 cm.** Cystic lesions are the **most common finding** on surveillance, and most are benign or low-grade dysplasia. ACG 2015 reports the CAPS consensus position: follow these patients **according to the international consensus guidelines for sporadic branch-duct IPMN**, with the **majority of the panel agreeing that surgery should be considered for branch-duct IPMN ≥2 cm**. The sporadic cyst criteria therefore *do* apply as the starting framework (they live on the pancreatic cysts page linked above), but ACG explicitly labels management of these cysts **"unclear."**
+- **Gap — nothing beyond that.** Neither ingested guideline gives a growth rate, main-duct threshold, or solid-lesion size that mandates surgery in a high-risk individual, and ASGE 2022 gives no operative guidance at all. The CAPS consortium recommendations (Goggins 2020) or the AGA 2020 clinical practice update on pancreas cancer screening would be needed. Do not infer one.
 - **Gap — no management algorithm after a normal exam.** ASGE 2022 lists this explicitly as an unanswered question (below).
 
 ## Yield and Harms
@@ -112,7 +113,7 @@ Screen with [[endoscopic-ultrasound|EUS]], MRI/[[mri-mrcp|MRCP]], or EUS alterna
   - Pooled **adverse-event rate among operated patients 19.9%** (95% CI 7.4%–43.4%).
   - Overdiagnosis and cost are additional concerns; EUS and MRI are expensive and not widely available.
 - **Psychological effect:** net benefit — pancreatic cancer-related distress started low-to-moderate and **improved significantly over time** across 7 studies. Screening was cost-effective in high-risk populations.
-- **Age and yield:** significant lesions cluster in older patients — all high-grade-dysplasia lesions in one large surveillance cohort occurred in patients **>65**, and another series found a 35% yield of significant abnormality in those >65 vs 3% in those ≤65 ([[acg-2015-hereditary-gi-cancer|ACG 2015]]).
+- **Age and yield:** significant lesions cluster in older patients — lesion prevalence differed significantly between patients **<50 and ≥50** (CAPS3); all high-grade-dysplasia lesions in that cohort occurred in patients **>65**; another series found a **35% yield of significant abnormality in those >65 vs 3% in those ≤65** ([[acg-2015-hereditary-gi-cancer|ACG 2015]]). Note ACG also records that **no unified international consensus on the starting age was reached** across two meetings — the ages in the table above are ASGE 2022's.
 
 ## Open Questions
 

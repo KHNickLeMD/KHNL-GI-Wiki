@@ -9,7 +9,7 @@ sources: [usmstf-2020-endoscopic-removal, aga-2025-endoscopic-resection-crc]
 
 # Endoscopic Submucosal Dissection (Colorectal)
 
-Electrosurgical-knife dissection of colorectal lesions that cannot be taken en bloc by snare — a narrower set of indications than in the stomach and esophagus, because most colorectal lesions are adequately treated by [[endoscopic-mucosal-resection|EMR]] and the colon wall is thinner. The technique itself, the definitions of en-bloc/R0 resection, and the esophagogastric indications are on [[endoscopic-submucosal-dissection]]. Lesion assessment and snare technique are on [[polypectomy]].
+[[electrosurgery|Electrosurgical]]-knife dissection of colorectal lesions that cannot be taken en bloc by snare — a narrower set of indications than in the stomach and esophagus, because most colorectal lesions are adequately treated by [[endoscopic-mucosal-resection|EMR]] and the colon wall is thinner. The technique itself, the definitions of en-bloc/R0 resection, and the esophagogastric indications are on [[endoscopic-submucosal-dissection]]. Lesion assessment and snare technique are on [[polypectomy]].
 
 ## Contents
 - [[#Colorectal ESD Indications (limited)]]

@@ -3,7 +3,7 @@ title: "Biofeedback Therapy"
 category: advanced-procedure
 tags: [biofeedback, pelvic-floor, dyssynergic-defecation, defecation-disorders, fecal-incontinence, levator-ani, constipation, anorectal]
 created: 2026-06-01
-updated: 2026-08-26
+updated: 2026-09-03
 sources: [acg-2021-anorectal-disorders, aga-2026-refractory-constipation]
 ---
 
@@ -69,7 +69,7 @@ Suggested treatment protocol for anorectal biofeedback — ACG 2021 Table 3 ([[a
 
 Biofeedback is a **gate** that must be passed before the "refractory" label ([[aga-2026-refractory-constipation]]):
 
-- **BPA 2:** most patients with chronic constipation should be evaluated with ARM + BET and **complete a course of pelvic floor biofeedback therapy, when indicated, before being labeled as having refractory constipation.**
+- **BPA 2:** most patients with [[chronic-constipation|chronic constipation]] should be evaluated with ARM + BET and **complete a course of pelvic floor biofeedback therapy, when indicated, before being labeled as having refractory constipation.**
 - **BPA 1:** refractory constipation is defined by infrequent and/or unsatisfactory bowel habits, with or without abdominal pain, **despite an adequate trial of lifestyle, dietary, medical, and/or pelvic floor biofeedback therapy when indicated** in adults meeting criteria for chronic constipation or constipation-predominant [[irritable-bowel-syndrome|IBS]].
 - **BPA 10:** surgical therapy for refractory constipation only after confirming slow-transit constipation **and excluding pelvic floor dysfunction** — i.e. an untreated defecation disorder must be excluded by ARM/BET ± biofeedback before an operation is considered.
 

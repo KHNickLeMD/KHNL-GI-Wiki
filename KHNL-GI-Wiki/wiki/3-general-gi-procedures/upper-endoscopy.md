@@ -141,7 +141,7 @@ Document all of: esophagus, GEJ (antegrade), gastric cardia/fundus (retroflexed)
 
 - A meta-analysis of 53,392 patients found 21.7% of EGDs had inappropriate indications; appropriate indication associated with higher diagnostic yield (OR 1.42; 95% CI, 1.36–1.49)
 - Informed consent must document risks, benefits, alternatives, [[endoscopy-sedation|sedation]] plan, and potential therapeutic interventions
-- **GLP-1 receptor agonists (e.g., [[semaglutide]]):** Delayed gastric emptying → aspiration risk. ASA (consensus) advises holding day-of (daily dose)/1 wk prior (weekly). **AGA 2024** favors an **individualized** approach over routine cessation — standard fast (8 h solids/2 h liquids) + no GI symptoms → proceed. Full guidance on [[endoscopy-sedation#GLP-1 Receptor Agonists Before Endoscopy|endoscopy-sedation]]. [[aga-2024-glp1-endoscopy]]
+- **[[glp-1-receptor-agonists|GLP-1 receptor agonists]] (e.g., [[semaglutide]]):** Delayed gastric emptying → aspiration risk. ASA (consensus) advises holding day-of (daily dose)/1 wk prior (weekly). **AGA 2024** favors an **individualized** approach over routine cessation — standard fast (8 h solids/2 h liquids) + no GI symptoms → proceed. Full guidance on [[endoscopy-sedation#GLP-1 Receptor Agonists Before Endoscopy|endoscopy-sedation]]. [[aga-2024-glp1-endoscopy]]
 
 ### Mucosal Visualization (BPA 2)
 
@@ -189,10 +189,10 @@ More rigorous documentation is recommended for Barrett's esophagus, gastric inte
 | [[barretts-esophagus\|Barrett's esophagus]] | Prague C&M criteria | [[barretts-esophagus]] |
 | Bleeding [[peptic-ulcer-disease\|peptic ulcers]] | Forrest classification | [[upper-gi-bleeding]] — class definitions (FIa spurting → FIII clean based) and class-specific rebleeding rates are on that page, from [[acg-2025-egd-quality]] QI 13 |
 | Superficial neoplastic lesions | Paris classification | [[polypectomy]] |
-| Gastroesophageal flap valve | Hill grade classification | [[reflux-testing]] — ⚠ **criteria not yet transcribed**; grades I–IV are depicted in [[aga-2024-upper-endoscopy-quality|AGA 2024]] Figure 2, a raster figure needing capture (same tooling block as LA above) |
+| Gastroesophageal flap valve | Hill grade classification | [[reflux-testing]] — ⚠ **criteria not yet transcribed**; grades I–IV are depicted in [[aga-2024-upper-endoscopy-quality\|AGA 2024]] Figure 2, a raster figure needing capture (same tooling block as LA above) |
 | [[eosinophilic-esophagitis\|Eosinophilic esophagitis]] | EREFS; I-SEE (emerging standard for disease activity) | [[eosinophilic-esophagitis]] |
 
-- ⚠ **Scope note:** the 29 indicators on this page ([[acg-2025-egd-quality|ACG/ASGE 2025]] Table 1, QI 1–29) are the **EGD-specific** set. [[acg-2025-egd-quality|ACG/ASGE 2025]] explicitly places the indicators **common to all endoscopy** — informed consent, antithrombotic management, team pause/time-out, sedation monitoring, discharge criteria — in a **separate document** that is not yet ingested. Treat this list as complete for EGD only.
+- ⚠ **Scope note:** the 29 indicators on this page ([[acg-2025-egd-quality|ACG/ASGE 2025]] Table 1, QI 1–29) are the **EGD-specific** set. [[acg-2025-egd-quality|ACG/ASGE 2025]] explicitly places the indicators **common to all endoscopy** — informed consent, [[anticoagulation-gi-bleeding|antithrombotic management]], team pause/time-out, sedation monitoring, discharge criteria — in a **separate document** that is not yet ingested. Treat this list as complete for EGD only.
 
 *Report the class, not a free-text description — each system's criteria are held on its home page (linked) rather than duplicated here.*
 

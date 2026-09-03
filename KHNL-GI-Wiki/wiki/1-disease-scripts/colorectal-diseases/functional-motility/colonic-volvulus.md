@@ -3,7 +3,7 @@ title: "Colonic Volvulus"
 category: disease-script
 tags: [colonic-volvulus, sigmoid-volvulus, cecal-volvulus, large-bowel-obstruction, detorsion, colonoscopy]
 created: 2026-06-22
-updated: 2026-09-01
+updated: 2026-09-03
 sources: [asge-2020-acpo-volvulus]
 ---
 
@@ -76,4 +76,4 @@ Mechanical **twisting (torsion) of a redundant colon segment along its mesenteri
 
 ## Sources
 
-1. [[asge-2020-acpo-volvulus|ASGE 2020: Role of Endoscopy in the Management of Acute Colonic Pseudo-Obstruction and Colonic Volvulus]]
+1. [[asge-2020-acpo-volvulus|ASGE Guideline on the Role of Endoscopy in the Management of Acute Colonic Pseudo-Obstruction and Colonic Volvulus (2020)]]

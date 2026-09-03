@@ -3,7 +3,7 @@ title: "Anticoagulation Management in GI Bleeding and Periendoscopic Period"
 category: concept
 tags: [anticoagulation, antiplatelets, gi-bleeding, periendoscopic, doac, warfarin, bridging]
 created: 2026-05-15
-updated: 2026-08-27
+updated: 2026-09-03
 sources: [acg-cag-2022-anticoag-gi-bleeding, asge-2016-antithrombotic]
 ---
 
@@ -146,13 +146,13 @@ The periendoscopic framework applies to patients undergoing **scheduled, electiv
 | [[endoscopic-ultrasound\|EUS-FNA]] | EUS without FNA |
 | [[enteral-access\|PEG/PEJ placement]] | [[ercp\|ERCP]] with stent, without sphincterotomy |
 | Endoscopic hemostasis (excl. [[argon-plasma-coagulation\|APC]]) | Push/diagnostic balloon enteroscopy |
-| Variceal treatment (incl. band ligation) | APC |
+| [[variceal-upper-gi-bleeding\|Variceal treatment]] (incl. band ligation) | APC |
 | [[poem\|POEM]] | Polypectomy <1 cm |
 | [[radiofrequency-ablation\|Radiofrequency ablation]] | Enteral stent deployment |
 | Ampullary resection | Video [[capsule-endoscopy\|capsule endoscopy]] |
 | Cystogastrostomy | Marking / clipping / tattooing |
 | Therapeutic balloon enteroscopy | ERCP without sphincterotomy |
-| Pneumatic/bougie dilation | Tumor ablation |
+| [[pneumatic-dilation\|Pneumatic]]/bougie dilation | Tumor ablation |
 | Laser ablation | |
 
 **Thromboembolic risk stratification (Table 4):**

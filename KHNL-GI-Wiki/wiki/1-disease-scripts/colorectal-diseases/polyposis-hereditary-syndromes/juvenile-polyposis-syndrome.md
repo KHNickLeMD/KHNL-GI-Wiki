@@ -3,7 +3,7 @@ title: "Juvenile Polyposis Syndrome"
 category: disease-script
 tags: [juvenile-polyposis, jps, smad4, bmpr1a, hamartoma, hereditary-crc, hht, upper-gi-cancer, genetic-testing]
 created: 2026-05-19
-updated: 2026-09-02
+updated: 2026-09-03
 sources: [acg-2015-hereditary-gi-cancer, aga-2022-hamartomatous-polyposis]
 ---
 
@@ -64,7 +64,7 @@ Juvenile polyposis syndrome (JPS) is an autosomal-dominant hamartomatous polypos
 | [[gastric-adenocarcinoma\|Gastric]] — **SMAD4 carriers with gastric polyposis** | **≥30%** lifetime | median **58** | [[aga-2022-hamartomatous-polyposis\|USMSTF 2022]] |
 | Upper GI (stomach, pancreas, small bowel combined) | 21% | 54 | [[acg-2015-hereditary-gi-cancer\|ACG 2015]] Table 7 |
 
-- **Gastric cancer risk has not been reported with BMPR1A variants** — it tracks with SMAD4 + gastric polyposis. Whether BMPR1A confers gastric cancer risk is **uncertain**, so pending new evidence upper-GI surveillance is done at the **same intervals as for SMAD4 carriers**
+- **Gastric cancer risk has not been reported with BMPR1A variants** — it tracks with SMAD4 + [[gastric-polyps|gastric polyposis]]. Whether BMPR1A confers gastric cancer risk is **uncertain**, so pending new evidence upper-GI surveillance is done at the **same intervals as for SMAD4 carriers**
 - Overall GI cancer risk estimates span **11–55%** (retrospective, referral-biased both ways); combined colon + stomach cancer risk is quoted as **39–68%**, largely SMAD4-associated. **Excess risk of non-GI cancer is not reported in JPS**
 - **Polyp dysplasia:** dysplasia was present in **31%** of JPS juvenile polyps vs **0%** of sporadic juvenile polyps. In a St Mark's longitudinal series (44 patients, 787 polyps resected), **8.3%** contained mild/moderate architectural dysplasia and **2.5%** were adenomatous
 
@@ -132,7 +132,7 @@ Juvenile polyposis syndrome (JPS) is an autosomal-dominant hamartomatous polypos
 
 - [[gastric-adenocarcinoma|Gastric cancer]] or **high-grade dysplasia**
 - Inability to **adequately survey** or endoscopically control gastric polyposis
-- **Persistent anemia or GI bleeding** from gastric polyposis or [[angioectasia|angioectasia]]
+- **Persistent anemia or GI bleeding** from gastric polyposis or [[angioectasia]]
 - **[[gastric-outlet-obstruction|Gastric outlet obstruction]]** symptoms
 - **Protein-losing gastropathy**
 

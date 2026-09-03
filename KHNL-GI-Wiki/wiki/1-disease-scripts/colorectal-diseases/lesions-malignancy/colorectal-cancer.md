@@ -3,7 +3,7 @@ title: "Colorectal Cancer"
 category: disease-script
 tags: [crc, colorectal-cancer, adenocarcinoma, oncology, screening, surveillance, post-resection, metachronous, rectal-cancer]
 created: 2026-05-19
-updated: 2026-09-02
+updated: 2026-09-03
 sources: [acg-2015-hereditary-gi-cancer, usmstf-2015-crc-surveillance, usmstf-2016-fit-screening, acg-2021-crc-screening, nccn-2026-colon-cancer, asge-2013-crc-staging-management, aga-2025-endoscopic-resection-crc, kanaka-2022-colonic-stent-bts-right-sided]
 ---
 
@@ -199,7 +199,7 @@ flowchart TD
 | Postoperative mortality | **0.9%** | 5.2% | OR 0.51 (0.28–0.92) | ⊕⊕OO low |
 | **Severe complications** (Clavien–Dindo ≥III / reintervention) | — | — | **OR 0.98 (0.68–1.41) — NS** | — |
 | Primary anastomosis | **97.8%** | 85.9% | P=0.04 | very low |
-| Stoma construction | **2.0%** | 11.0% | P<0.01 | low |
+| [[ostomy-management\|Stoma construction]] | **2.0%** | 11.0% | P<0.01 | low |
 | Laparoscopic surgery | **48.5%** | 15.7% | P<0.01 (I²=67% — weakest finding) | low |
 | Anastomotic leakage | **2.6%** | 5.6% | P=0.03 | very low |
 | Surgical site infection | **4.6%** | 5.8% | P<0.01 | very low |
@@ -419,7 +419,7 @@ The ACG 2021 and USMSTF 2021 guidelines do not supersede the FIT-specific operat
 
 ## See Also
 
-[[colorectal-cancer-screening]], [[colonoscopy]], [[polypectomy]], [[lynch-syndrome]], [[familial-adenomatous-polyposis]], [[serrated-polyposis-syndrome]], [[endoscopic-ultrasound]], [[colonoscopy-surveillance]], [[inflammatory-bowel-disease]], [[ulcerative-colitis]], [[ibd-in-malignancy]], [[gastroenteropancreatic-neuroendocrine-tumors]], [[colorectal-esd]], [[capsule-endoscopy]], [[endoscopic-mucosal-resection]], [[endoscopic-full-thickness-resection]], [[acute-lower-gi-bleeding]], [[endoscopic-oncology]], [[gastric-outlet-obstruction]]
+[[colorectal-cancer-screening]], [[colonoscopy]], [[polypectomy]], [[lynch-syndrome]], [[familial-adenomatous-polyposis]], [[serrated-polyposis-syndrome]], [[endoscopic-ultrasound]], [[colonoscopy-surveillance]], [[inflammatory-bowel-disease]], [[ulcerative-colitis]], [[ibd-in-malignancy]], [[gastroenteropancreatic-neuroendocrine-tumors]], [[colorectal-esd]], [[capsule-endoscopy]], [[endoscopic-mucosal-resection]], [[endoscopic-full-thickness-resection]], [[acute-lower-gi-bleeding]], [[endoscopic-oncology]], [[gastric-outlet-obstruction]], [[ostomy-management]]
 
 ---
 

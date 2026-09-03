@@ -38,7 +38,7 @@ A permanent immune-mediated enteropathy triggered by gluten (proteins in wheat, 
 
 **Who to test — case finding, not mass screening** (both strong recommendations, ACG 2022). Four key concepts:
 
-1. Test anyone with symptoms/signs/labs suggesting **malabsorption** (chronic diarrhea with weight loss, steatorrhea, abdominal pain, bloating).
+1. Test anyone with symptoms/signs/labs suggesting **malabsorption** (chronic diarrhea with weight loss, steatorrhea, abdominal pain, [[abdominal-bloating-and-distention|bloating]]).
 2. **Consider** testing when CD would be a *treatable* cause of the finding.
 3. **Test** a patient with a first-degree family member with confirmed CD — symptomatic or not.
 4. **Consider** testing asymptomatic first-degree relatives. Screening advice extends to **second-degree relatives** as well.
@@ -51,7 +51,7 @@ A permanent immune-mediated enteropathy triggered by gluten (proteins in wheat, 
 | Metabolic bone disease and premature osteoporosis | Chronic fatigue |
 | Postprandial bloating and gaseousness | Apparent malabsorption of thyroid replacement medication |
 | Unexplained weight loss | Epilepsy or ataxia |
-| Abnormal elevated liver enzymes | Constipation |
+| [[abnormal-liver-chemistries\|Abnormal elevated liver enzymes]] | Constipation |
 | Incidental villous atrophy found endoscopically or histologically | Recurrent abdominal pain |
 | Dermatitis herpetiformis | Chronic arthralgia |
 | Peripheral neuropathy | "Brain fog" |
@@ -322,7 +322,7 @@ Define: persistent symptoms/signs/labs after 6–12 months of GFD. Systematic st
 - Strict elemental diet (eliminate nearly all processed foods)
 - Open-capsule budesonide
 - Prednisone
-- Immunomodulators (azathioprine, 6-MP)
+- Immunomodulators ([[thiopurines|azathioprine, 6-MP]])
 - Mesalamine, biologics
 - (No placebo-controlled trial data for any agent)
 

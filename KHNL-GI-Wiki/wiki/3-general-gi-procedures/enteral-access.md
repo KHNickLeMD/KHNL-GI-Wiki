@@ -108,7 +108,7 @@ sources: [aga-2025-endoscopic-enteral-access, asge-2025-gastrostomy-tubes]
   - Active GI bleeding from [[peptic-ulcer-disease|peptic ulcer]]
   - Hemodynamic or respiratory instability
 - **Complicate but do NOT necessarily preclude PEG:** large midline wounds, chest tubes, abdominal mesh, [[ostomy-management|ostomies]].
-- **NOT absolute contraindications** (but complicate siting or raise aspiration risk; anesthesia support helps): morbid [[obesity]], large hiatal or abdominal wall hernias, peritoneal carcinomatosis, severe dysmotility, [[variceal-upper-gi-bleeding|esophageal varices]].
+- **NOT absolute contraindications** (but complicate siting or raise aspiration risk; anesthesia support helps): morbid [[obesity]], large [[hiatal-hernia|hiatal]] or abdominal wall hernias, peritoneal carcinomatosis, severe dysmotility, [[variceal-upper-gi-bleeding|esophageal varices]].
 
 **Special situations:**
 - **[[ascites]]:** impairs wound healing and gastric–abdominal wall apposition → **drain via paracentesis or intraperitoneal drain**; use T-tacks to improve tract formation.
@@ -126,7 +126,7 @@ sources: [aga-2025-endoscopic-enteral-access, asge-2025-gastrostomy-tubes]
   - **Antiplatelets — do NOT routinely withhold** before PEG (Rec 2a, [[asge-2025-gastrostomy-tubes]]); increasing data support PEG placement **without interruption of dual-antiplatelet therapy** (no significant increase in bleeding).
   - **Anticoagulants — individualize** periprocedural management, balancing thrombotic against bleeding risk; they are handled differently from antiplatelets (Rec 2b, [[asge-2025-gastrostomy-tubes]]).
   - If antithrombotics held, resume ASAP considering indication, in consultation with initiating service.
-- **Laboratory thresholds:** platelets **>50,000/mL**; INR **<1.5** — preprocedural workup is full blood count + coagulation testing ([[aga-2025-endoscopic-enteral-access]]). *(`/mL` is the unit as printed in the source; reproduced verbatim rather than silently converted.)*
+- **Laboratory thresholds:** platelets **>50,000/mL**; INR **<1.5** — [[preprocedure-testing|preprocedural workup]] is full blood count + coagulation testing ([[aga-2025-endoscopic-enteral-access]]). *(`/mL` is the unit as printed in the source; reproduced verbatim rather than silently converted.)*
   - **Unfractionated heparin:** hold for percutaneous placement; can give **2–6 h after** procedure.
   - **DOACs:** hold for placement; resume with the **evening dose** after placement.
 

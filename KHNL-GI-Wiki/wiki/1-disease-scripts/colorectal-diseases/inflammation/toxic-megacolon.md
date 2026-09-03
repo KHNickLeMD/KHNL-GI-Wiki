@@ -3,7 +3,7 @@ title: "Toxic Megacolon"
 category: disease-script
 tags: [toxic-megacolon, colitis, cdiff, ibd, ulcerative-colitis, asuc, surgical-emergency]
 created: 2026-07-26
-updated: 2026-09-01
+updated: 2026-09-03
 sources: [acg-2025-uc, acg-2021-cdiff]
 ---
 
@@ -73,7 +73,7 @@ Underlying etiologies of toxic megacolon named in ingested sources:
 - [[colon-ischemia|Ischemic colitis]]
 - **Superimposed infection to exclude:** CDI (test all ASUC) and **CMV colitis** (biopsy at endoscopy; affects up to a third of steroid-refractory ASUC).
 
-**Precipitants to identify and remove:** antimotility agents ([[loperamide]] — retained toxin is the theoretical mechanism; the patients who died or had complications were given antimotility agents **alone, without an appropriate antibiotic**. Avoid in **untreated** CDI and in **fulminant** infection; once anti-CDI therapy is running they can be used safely as needed), opioids and anticholinergics (may precipitate colonic dilation and toxicity; associated with infection and mortality), and NSAIDs (linked to IBD hospitalizations and relapse in up to a third of patients — avoid in ASUC).
+**Precipitants to identify and remove:** antimotility agents ([[loperamide]] — retained toxin is the theoretical mechanism; the patients who died or had complications were given antimotility agents **alone, without an appropriate antibiotic**. Avoid in **untreated** CDI and in **fulminant** infection; once anti-CDI therapy is running they can be used safely as needed), [[ibd-pain-management|opioids]] and anticholinergics (may precipitate colonic dilation and toxicity; associated with infection and mortality), and NSAIDs (linked to IBD hospitalizations and relapse in up to a third of patients — avoid in ASUC).
 
 ## Diagnostics
 
@@ -89,7 +89,7 @@ Underlying etiologies of toxic megacolon named in ingested sources:
 - Multidisciplinary team — critical care, GI, ID, with **early surgical involvement**; ICU monitoring; aggressive **volume resuscitation** and electrolyte correction, attention to renal function/urine output.
 - **Pharmacologic DVT prophylaxis** (LMWH) in ASUC — safe even with active UC bleeding.
 - **Stop precipitants:** antimotility agents, opioids, anticholinergics, NSAIDs.
-- **No routine broad-spectrum antibiotics** in ASUC (no benefit in RCTs; raises CDI risk) — restrict to suspected extraluminal complication/systemic toxicity. **No TPN / bowel rest** (no benefit); encourage enteral nutrition unless toxicity/surgery imminent.
+- **No routine broad-spectrum antibiotics** in ASUC (no benefit in RCTs; raises CDI risk) — restrict to suspected extraluminal complication/systemic toxicity. **No TPN / bowel rest** (no benefit); encourage [[nutrition-in-ibd|enteral nutrition]] unless toxicity/surgery imminent.
 
 **ASUC substrate:**
 - **IV corticosteroids:** methylprednisolone 60 mg/day **OR** hydrocortisone 100 mg TID–QID.
@@ -132,7 +132,7 @@ flowchart TD
 
 ## See Also
 
-[[ulcerative-colitis]], [[crohns-disease]], [[clostridioides-difficile]], [[colon-ischemia]], [[inflammatory-bowel-disease]], [[colonoscopy]], [[diverticulitis]], [[ibd-endoscopic-scoring]], [[ostomy-management]], [[fmt]], [[loperamide]], [[acute-diarrhea]]
+[[ulcerative-colitis]], [[crohns-disease]], [[clostridioides-difficile]], [[colon-ischemia]], [[inflammatory-bowel-disease]], [[colonoscopy]], [[diverticulitis]], [[ibd-endoscopic-scoring]], [[ostomy-management]], [[fmt]], [[loperamide]], [[acute-diarrhea]], [[nutrition-in-ibd]], [[ibd-pain-management]]
 
 ---
 

@@ -3,7 +3,7 @@ title: "Fever in a Returning Traveler"
 category: diagnostic-schema
 tags: [travel-medicine, fever, tropical-infections, travelers-diarrhea, enteric-fever, viral-hepatitis, parasites]
 created: 2026-05-15
-updated: 2026-09-02
+updated: 2026-09-03
 sources: [idsa-2017-infectious-diarrhea, acg-2016-acute-diarrhea, acg-2016-liver-disease-pregnancy, nejm-2023-fever-returning-traveler]
 ---
 
@@ -40,7 +40,7 @@ This page focuses on GI-relevant diagnoses. Non-GI febrile illnesses (e.g., mala
 **Fever + diarrhea (acute)** — pathogens IDSA lists for the exposure "travel to resource-challenged countries" ([[idsa-2017-infectious-diarrhea]]):
 
 - Bacterial: [[enterotoxigenic-e-coli|*E. coli*]] (enteroaggregative, enterotoxigenic, enteroinvasive), [[shigellosis|*Shigella*]], Typhi and nontyphoidal [[salmonella-infection|*Salmonella*]], [[campylobacter-infection|*Campylobacter*]], *Vibrio cholerae*
-- Parasitic: [[entamoeba-histolytica-infection|*Entamoeba histolytica*]], [[giardiasis|*Giardia*]], *Blastocystis*, *Cyclospora*, *Cystoisospora*, *Cryptosporidium*
+- Parasitic: [[entamoeba-histolytica-infection|*Entamoeba histolytica*]], [[giardiasis|*Giardia*]], *Blastocystis*, *Cyclospora*, *Cystoisospora*, [[cryptosporidiosis|*Cryptosporidium*]]
 - Separate exposure, not travel *per se*: [[clostridioides-difficile|*Clostridioides difficile*]] — IDSA's listed trigger is recent antimicrobial therapy, and *C. difficile* is described as an increasing concern among travelers
 - Viral: [[norovirus]], [[rotavirus]] — IDSA lists these under other exposures, **not** under the travel row
 - **Higher fever favours an invasive etiology:** IDSA notes higher temperatures are suggestive of a bacterial etiology or *E. histolytica*
@@ -114,7 +114,7 @@ Sourced rows cite the ingested guideline. Rows marked **⚠** have **no ingested
 
 ## See Also
 
-[[acute-diarrhea]], [[chronic-diarrhea]], [[entamoeba-histolytica-infection]], [[giardiasis]], [[enterotoxigenic-e-coli]], [[campylobacter-infection]], [[salmonella-infection]], [[shigellosis]], [[norovirus]], [[rotavirus]], [[clostridioides-difficile]], [[chronic-hepatitis-b]], [[acute-liver-failure]], [[liver-disease-in-pregnancy]], [[hiv-aids-related-diarrhea]], [[jaundice]], [[abnormal-liver-chemistries]]
+[[acute-diarrhea]], [[chronic-diarrhea]], [[entamoeba-histolytica-infection]], [[giardiasis]], [[cryptosporidiosis]], [[enterotoxigenic-e-coli]], [[campylobacter-infection]], [[salmonella-infection]], [[shigellosis]], [[norovirus]], [[rotavirus]], [[clostridioides-difficile]], [[chronic-hepatitis-b]], [[acute-liver-failure]], [[liver-disease-in-pregnancy]], [[hiv-aids-related-diarrhea]], [[jaundice]], [[abnormal-liver-chemistries]]
 
 ---
 

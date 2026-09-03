@@ -3,7 +3,7 @@ title: "Ineffective Esophageal Motility"
 category: disease-script
 tags: [iem, motility, esophageal, dysphagia, gerd, chicago-classification]
 created: 2026-05-16
-updated: 2026-08-30
+updated: 2026-09-03
 sources: [chicago-v4-2021-esophageal-dysmotility, aga-2025-flip-esophageal, acg-2020-esophageal-physiologic-testing]
 ---
 
@@ -72,7 +72,7 @@ Note the two signs differ: **>70%** for ineffective, **≥50%** for failed.
 
 - Management is largely symptomatic (minor disorder — see Assessment)
 - Address underlying [[gerd|GERD]]; IEM frequently co-exists with reflux
-- Pre-[[antireflux-surgery|anti-reflux surgery]] caution: HRM assesses peristaltic reserve before ARS ([[acg-2020-esophageal-physiologic-testing]])
+- Pre-[[antireflux-surgery|anti-reflux surgery]] caution: HRM assesses peristaltic reserve before ARS ([[acg-2020-esophageal-physiologic-testing]]) — full pre- and post-ARS manometric framework on [[hrm-antireflux-surgery]]
 
 *No IEM-specific pharmacotherapy is supported by an ingested source (prokinetics lack IEM evidence) — awaiting a dedicated source.*
 
@@ -80,7 +80,7 @@ Note the two signs differ: **>70%** for ineffective, **≥50%** for failed.
 
 ## See Also
 
-[[chicago-classification-v4]], [[high-resolution-manometry]], [[distal-esophageal-spasm]], [[hypercontractile-esophagus]], [[achalasia]], [[gerd]], [[flip-panometry]], [[antireflux-surgery]], [[esophageal-dysfunction-systemic-disease]], [[dysphagia]]
+[[chicago-classification-v4]], [[high-resolution-manometry]], [[distal-esophageal-spasm]], [[hypercontractile-esophagus]], [[achalasia]], [[gerd]], [[flip-panometry]], [[antireflux-surgery]], [[hrm-antireflux-surgery]], [[esophageal-dysfunction-systemic-disease]], [[dysphagia]]
 
 ---
 

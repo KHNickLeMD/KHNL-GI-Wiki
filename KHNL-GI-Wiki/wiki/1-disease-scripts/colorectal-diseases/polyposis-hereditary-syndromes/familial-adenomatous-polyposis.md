@@ -35,7 +35,7 @@ Familial adenomatous polyposis (FAP) and its related syndromes — attenuated FA
 - Personal history of ≥10 cumulative colorectal adenomas
 - Family history of one of the adenomatous polyposis syndromes
 - Presence of FAP-type extracolonic manifestations: [[nonampullary-duodenal-adenoma|duodenal]]/[[ampullary-adenoma|ampullary adenomas]], desmoid tumors (abdominal > peripheral), papillary thyroid cancer, CHRPE (congenital hypertrophy of the retinal pigment epithelium), epidermal cysts, osteomas (Gardner syndrome)
-- **MUTYH testing specifically** should be considered if **any one** of the following is met [[asge-2020-fap]]: (1) **≥20 colorectal adenomas over multiple colonoscopies**; (2) known family history of MAP; (3) **≥10 adenomas on a single colonoscopy**; or (4) meets [[serrated-polyposis-syndrome|serrated polyposis syndrome]] criteria **with at least some adenomas** on the exam. Genetic testing of children for MAP is postponed to adulthood (later disease onset; screening begins in adulthood)
+- **MUTYH testing specifically** should be considered if **any one** of the following is met [[asge-2020-fap]]: (1) **≥20 colorectal adenomas over multiple [[colonoscopy|colonoscopies]]**; (2) known family history of MAP; (3) **≥10 adenomas on a single colonoscopy**; or (4) meets [[serrated-polyposis-syndrome|serrated polyposis syndrome]] criteria **with at least some adenomas** on the exam. Genetic testing of children for MAP is postponed to adulthood (later disease onset; screening begins in adulthood)
 
 **ASGE 2020 Rec 1** *(44BB)*: refer for genetic counseling and testing when there is **clinical polyposis**, defined as **≥10 adenomas on a single endoscopy** *and* **≥20 adenomas over a lifetime**. **Rec 2** *(44BB)*: test **all first-degree relatives** of a confirmed polyposis-syndrome patient [[asge-2020-fap]].
 
@@ -234,7 +234,7 @@ Familial adenomatous polyposis (FAP) and its related syndromes — attenuated FA
 **Post-surgical surveillance**:
 
 - Yearly endoscopy of **rectum or ileal pouch** after colectomy with IRA or IPAA (Strong/Low)
-- ASGE intervals [[asge-2020-fap]]: **pouch endoscopy or ileoscopy every 1–2 years** (IPAA or ileostomy); **sigmoidoscopy every 6 months–1 year indefinitely** after IRA
+- ASGE intervals [[asge-2020-fap]]: **pouch endoscopy or ileoscopy every 1–2 years** (IPAA or [[ostomy-management|ileostomy]]); **sigmoidoscopy every 6 months–1 year indefinitely** after IRA
 - Examination of ileostomy every **2 years** (Strong/Low)
 - **How real the pouch risk is** [[asge-2020-fap]]: cumulative risk of developing a **pouch adenoma is 45% at 10 years** after proctocolectomy + IPAA; **12%** of those patients had an adenoma with **advanced pathology**; cumulative **pouch cancer risk stayed low at 1% at 10 years**. Adenomas also arise in the **ileum, rectal cuff, and anal transition zone** after both IPAA and IRA — hence lifelong surveillance of whichever remnant the patient has
 - Pouch polyposis may be treated with [[polypectomy]] or chemoprevention with sulindac
@@ -312,7 +312,7 @@ Familial adenomatous polyposis (FAP) and its related syndromes — attenuated FA
 
 ## See Also
 
-[[colorectal-polyposis]], [[lynch-syndrome]], [[mutyh-associated-polyposis]], [[peutz-jeghers-syndrome]], [[juvenile-polyposis-syndrome]], [[cowden-syndrome]], [[hereditary-mixed-polyposis-syndrome]], [[colorectal-cancer]], [[colorectal-cancer-screening]], [[colonoscopy]], [[upper-endoscopy]], [[serrated-polyposis-syndrome]], [[ampullary-adenoma]], [[nonampullary-duodenal-adenoma]], [[gastric-polyps]], [[gastric-adenocarcinoma]], [[device-assisted-enteroscopy]], [[capsule-endoscopy]], [[endoscopic-ultrasound]], [[polypectomy]], [[pouchitis]]
+[[colorectal-polyposis]], [[lynch-syndrome]], [[mutyh-associated-polyposis]], [[peutz-jeghers-syndrome]], [[juvenile-polyposis-syndrome]], [[cowden-syndrome]], [[hereditary-mixed-polyposis-syndrome]], [[colorectal-cancer]], [[colorectal-cancer-screening]], [[colonoscopy]], [[upper-endoscopy]], [[serrated-polyposis-syndrome]], [[ampullary-adenoma]], [[nonampullary-duodenal-adenoma]], [[gastric-polyps]], [[gastric-adenocarcinoma]], [[device-assisted-enteroscopy]], [[capsule-endoscopy]], [[endoscopic-ultrasound]], [[polypectomy]], [[pouchitis]], [[ostomy-management]]
 
 ---
 

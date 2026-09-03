@@ -3,7 +3,7 @@ title: "MUTYH-Associated Polyposis"
 category: disease-script
 tags: [map, mutyh, polyposis, hereditary-crc, colorectal-cancer, recessive-polyposis, afap]
 created: 2026-05-19
-updated: 2026-09-01
+updated: 2026-09-03
 sources: [acg-2015-hereditary-gi-cancer, asge-2020-fap]
 ---
 
@@ -73,14 +73,14 @@ Surveillance mirrors AFAP (start age / interval):
 **When to operate:** [[acg-2015-hereditary-gi-cancer|ACG 2015]] Rec 9 *(Strong, low)* gives **identical absolute and relative indications for FAP, AFAP, and MAP** — the criteria table lives on [[familial-adenomatous-polyposis]] and is not repeated here.
 
 - **Colectomy + IRA** when polyps become endoscopically uncontrollable; **restorative proctocolectomy + IPAA** if the rectum is substantially involved. IRA may be the better option for MAP patients with relative rectal sparing.
-- **Postsurgical surveillance** *(Strong, low)*: yearly endoscopy of the rectum or ileal pouch; examine an ileostomy every 2 years.
+- **Postsurgical surveillance** *(Strong, low)*: yearly endoscopy of the rectum or ileal pouch; examine an [[ostomy-management|ileostomy]] every 2 years.
 - **Duodenal disease is staged and managed by Spigelman stage** — the staging table and its surveillance intervals live on [[familial-adenomatous-polyposis]]; MAP follows the same intervals.
 
 ---
 
 ## See Also
 
-[[colorectal-polyposis]], [[familial-adenomatous-polyposis]], [[lynch-syndrome]], [[serrated-polyposis-syndrome]], [[hereditary-mixed-polyposis-syndrome]], [[colorectal-cancer]], [[colorectal-cancer-screening]], [[colonoscopy]], [[upper-endoscopy]], [[nonampullary-duodenal-adenoma]], [[polypectomy]]
+[[colorectal-polyposis]], [[familial-adenomatous-polyposis]], [[lynch-syndrome]], [[serrated-polyposis-syndrome]], [[hereditary-mixed-polyposis-syndrome]], [[colorectal-cancer]], [[colorectal-cancer-screening]], [[colonoscopy]], [[upper-endoscopy]], [[nonampullary-duodenal-adenoma]], [[polypectomy]], [[ostomy-management]]
 
 ---
 

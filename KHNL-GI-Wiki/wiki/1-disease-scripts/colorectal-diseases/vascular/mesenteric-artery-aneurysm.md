@@ -3,7 +3,7 @@ title: "Mesenteric Artery Aneurysm"
 category: disease-script
 tags: [mesenteric-artery-aneurysm, splanchnic-aneurysm, pseudoaneurysm, sma, vascular-lesion, rupture]
 created: 2026-06-01
-updated: 2026-09-02
+updated: 2026-09-03
 sources: [acg-2020-hepatic-mesenteric-circulation]
 ---
 
@@ -58,7 +58,7 @@ sources: [acg-2020-hepatic-mesenteric-circulation]
 |---|---|
 | **Symptomatic** (abdominal pain with no other cause) | **Treat** — irrespective of diameter or location *(Conditional, low)* |
 | **Pseudoaneurysm complicating [[acute-pancreatitis\|acute pancreatitis]]** | **Treat** — irrespective of diameter or location |
-| **Asymptomatic, any diameter**, if in the **pancreaticoduodenal or gastroduodenal arcade**, an **intraparenchymal hepatic artery branch**, a **woman of childbearing age**, or a **liver transplant recipient** | **Treat** — size does not matter *(Conditional, low)* |
+| **Asymptomatic, any diameter**, if in the **pancreaticoduodenal or gastroduodenal arcade**, an **intraparenchymal hepatic artery branch**, a **woman of childbearing age**, or a **[[liver-transplantation\|liver transplant]] recipient** | **Treat** — size does not matter *(Conditional, low)* |
 | **Asymptomatic >2 cm** | **Treat all**, even if asymptomatic *(Strong, low)* |
 | **Asymptomatic <2 cm and none of the above** | **Observe** with surveillance imaging at 6 mo, 1 y, then q1–2 y *(Conditional, low)* |
 
@@ -67,7 +67,7 @@ sources: [acg-2020-hepatic-mesenteric-circulation]
 
 ## See Also
 
-[[acute-mesenteric-ischemia]], [[portal-vein-thrombosis]], [[budd-chiari-syndrome]], [[hereditary-hemorrhagic-telangiectasia]], [[colon-ischemia]], [[cirrhosis-hemostasis]], [[acute-pancreatitis]]
+[[acute-mesenteric-ischemia]], [[portal-vein-thrombosis]], [[budd-chiari-syndrome]], [[hereditary-hemorrhagic-telangiectasia]], [[colon-ischemia]], [[cirrhosis-hemostasis]], [[acute-pancreatitis]], [[liver-transplantation]]
 
 ---
 

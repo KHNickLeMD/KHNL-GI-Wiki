@@ -3,7 +3,7 @@ title: "Ulcerative Colitis"
 category: disease-script
 tags: [uc, ulcerative-colitis, ibd, 5-asa, biologics, anti-tnf, vedolizumab, asuc, pancolitis, proctitis]
 created: 2026-05-07
-updated: 2026-09-02
+updated: 2026-09-03
 sources: [acg-2025-uc, aga-2024-uc-pharm, aga-2024-pouchitis, aga-2023-biomarkers-uc, acg-2019-uc, asge-2015-scenic-ibd-dysplasia, asge-2015-ibd, aga-2026-inpatient-ibd, aga-2026-therapeutic-endoscopy-ibd, aga-2026-cdiff-ibd, aga-2024-intestinal-ultrasound, aga-2024-diet-nutrition-ibd, aga-2024-ibd-malignancy, aga-2024-pregnancy-gi-liver, aga-2024-fmt]
 ---
 
@@ -125,7 +125,7 @@ Idiopathic chronic inflammatory disorder of the large intestine. Continuous muco
 
 ## Differential Diagnosis
 
-*Workup: see [[chronic-diarrhea]].*
+*Workup: see [[chronic-diarrhea]]. Feature-by-feature contrast with Crohn's: [[uc-vs-crohns-comparison]].*
 
 | Condition | Distinguishing features |
 |---|---|
@@ -310,7 +310,7 @@ Idiopathic chronic inflammatory disorder of the large intestine. Continuous muco
 3. **Assess every ASUC patient for [[toxic-megacolon|toxic megacolon]]** (Rec 49) — on plain film, **transverse colon diameter >5.5 cm** with systemic toxicity predicts a worse outcome
 4. **Supportive care:**
    - DVT prophylaxis (pharmacologic)
-   - Avoid NSAIDs, narcotics, anticholinergics
+   - Avoid NSAIDs, [[ibd-pain-management|narcotics]], anticholinergics
    - No TPN/bowel rest
    - Nutrition support as needed
 5. **Induction:** IV corticosteroids
@@ -436,7 +436,7 @@ Idiopathic chronic inflammatory disorder of the large intestine. Continuous muco
 
 ## See Also
 
-[[crohns-disease]], [[inflammatory-bowel-disease]], [[uc-vs-crohns-comparison]], [[ibd-preventive-care]], [[ibd-endoscopic-scoring]], [[intestinal-ultrasound]], [[clostridioides-difficile]], [[primary-sclerosing-cholangitis]], [[colorectal-cancer]], [[colonoscopy]], [[colon-ischemia]], [[microscopic-colitis]], [[radiation-proctopathy]], [[pouchitis]], [[chronic-diarrhea]], [[nutrition-in-ibd]], [[ibd-in-malignancy]], [[liver-disease-in-pregnancy]], [[nausea-and-vomiting-of-pregnancy]], [[ostomy-management]], [[calcineurin-inhibitors]], [[endoscopic-mucosal-resection]], [[colorectal-esd]], [[endoscopic-full-thickness-resection]], [[toxic-megacolon]], [[polypectomy]]
+[[crohns-disease]], [[inflammatory-bowel-disease]], [[uc-vs-crohns-comparison]], [[ibd-preventive-care]], [[ibd-endoscopic-scoring]], [[intestinal-ultrasound]], [[clostridioides-difficile]], [[primary-sclerosing-cholangitis]], [[colorectal-cancer]], [[colonoscopy]], [[colon-ischemia]], [[microscopic-colitis]], [[radiation-proctopathy]], [[pouchitis]], [[chronic-diarrhea]], [[nutrition-in-ibd]], [[ibd-in-malignancy]], [[liver-disease-in-pregnancy]], [[nausea-and-vomiting-of-pregnancy]], [[ostomy-management]], [[calcineurin-inhibitors]], [[endoscopic-mucosal-resection]], [[colorectal-esd]], [[endoscopic-full-thickness-resection]], [[toxic-megacolon]], [[polypectomy]], [[ibd-pain-management]]
 
 ---
 

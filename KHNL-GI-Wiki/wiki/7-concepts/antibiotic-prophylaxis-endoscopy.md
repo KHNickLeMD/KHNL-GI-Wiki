@@ -3,7 +3,7 @@ title: "Antibiotic Prophylaxis for GI Endoscopy"
 category: concept
 tags: [antibiotic-prophylaxis, infective-endocarditis, ercp, peg, eus-fna, cirrhosis, gi-bleeding, bacteremia, endoscopy]
 created: 2026-06-27
-updated: 2026-08-30
+updated: 2026-09-03
 sources: [asge-2015-antibiotic-prophylaxis, colan-hernandez-2020-eus-fna-panc-cyst-antibiotics]
 ---
 
@@ -43,7 +43,7 @@ The exception is conditional on this list, so the list is the decision ([[asge-2
 - **Low:** diagnostic [[upper-endoscopy|EGD]] ± biopsy, [[colonoscopy]] ± biopsy/[[polypectomy]], [[endoscopic-ultrasound|EUS]]-FNA of solid lesions, [[variceal-upper-gi-bleeding|variceal band ligation]].
 
 ## When Prophylaxis IS Indicated
-- **[[ercp|ERCP]] with anticipated incomplete biliary drainage** (eg, hilar strictures, [[primary-sclerosing-cholangitis|PSC]], post–[[liver-transplantation|liver transplant]], known/suspected obstruction) → cover biliary flora (enteric gram-negatives + enterococci); **continue after the procedure if drainage remains incomplete**. *Not* needed when complete drainage is expected and no obstruction is suspected. *(Recs 3–4)*
+- **[[ercp|ERCP]] with anticipated incomplete biliary drainage** (eg, [[biliary-stricture|hilar strictures]], [[primary-sclerosing-cholangitis|PSC]], post–[[liver-transplantation|liver transplant]], known/suspected obstruction) → cover biliary flora (enteric gram-negatives + enterococci); **continue after the procedure if drainage remains incomplete**. *Not* needed when complete drainage is expected and no obstruction is suspected. *(Recs 3–4)*
   - Why incomplete drainage is the trigger: it predicted **91%** of all post-ERCP sepsis in one study; and in the few trials showing benefit, antibiotics were **continued for several days after** the procedure.
   - **Already in [[acute-cholangitis|cholangitis]]?** Treat the cholangitis with antibiotics — **additional single-dose ERCP prophylaxis is not recommended** on top of treatment.
   - Even with prophylaxis, **liver transplant recipients remain at higher risk** (1.2% infection rate vs 0.28% overall).

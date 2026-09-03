@@ -3,7 +3,7 @@ title: "Colonoscopy"
 category: general-procedure
 tags: [colonoscopy, crc-screening, polypectomy, surveillance, adenoma, serrated-polyp, colorectal, bowel-prep, split-dose, post-resection, crc-surveillance, metachronous]
 created: 2026-05-07
-updated: 2026-08-28
+updated: 2026-09-03
 sources: [usmstf-2020-followup-colonoscopy, usmstf-2021-crc-screening-age, usmstf-2020-endoscopic-removal, usmstf-2025-bowel-prep, acg-2025-bowel-prep, acg-2014-bowel-cleansing, asge-2015-bowel-preparation, usmstf-2015-crc-surveillance, aga-2025-cade-colonoscopy, aga-2023-ai-colon-polyp, asge-2015-scenic-ibd-dysplasia, aga-2024-glp1-endoscopy, aga-2026-therapeutic-endoscopy-ibd]
 ---
 
@@ -161,7 +161,7 @@ For detailed technique, see [[polypectomy]].
 
 [[acg-2025-bowel-prep]]
 
-GLP-1 receptor agonists ([[semaglutide]], liraglutide, tirzepatide, etc.) delay gastric emptying and are associated with increased aspiration risk during [[endoscopy-sedation|procedural sedation]].
+[[glp-1-receptor-agonists|GLP-1 receptor agonists]] ([[semaglutide]], liraglutide, tirzepatide, etc.) delay gastric emptying and are associated with increased aspiration risk during [[endoscopy-sedation|procedural sedation]].
 
 - ⚠ **The bowel-prep guideline addresses GLP-1 RAs only in the aspiration / purgative-timing context** — *"newer agents such as GLP-1 receptor agonists that delay gastric emptying may also affect the timing of when to cease drinking a bowel preparation purgative."* GLP-1 use is **not** among the listed risk factors for inadequate preparation, and no source recommends applying high-risk prep modifications for it. (An earlier version of this page attributed the [[gastroparesis]] OR 1.6 to GLP-1 RAs — that OR belongs to gastroparesis alone.)
 - Follow anesthesia unit protocol for medication hold prior to sedation (ASA consensus: hold weekly GLP-1 agonists **1 week** before elective procedure; daily dosing hold day-of). **AGA 2024** favors an individualized approach over routine cessation — standard fast + no GI symptoms → proceed; see [[endoscopy-sedation#GLP-1 Receptor Agonists Before Endoscopy|endoscopy-sedation]]. [[aga-2024-glp1-endoscopy]]
@@ -171,7 +171,7 @@ GLP-1 receptor agonists ([[semaglutide]], liraglutide, tirzepatide, etc.) delay 
 
 **Risk factors for inadequate prep (selected):** [[cirrhosis]] (OR 3.4), Parkinson's (OR 3.2), dementia (OR 3.0), TCA use (OR 2.0), diabetes (OR 1.8), opioids (OR 1.7), gastroparesis (OR 1.6).
 
-**Modifications (Strong/Moderate):** ≥1 of — improved instruction delivery, increased navigation, restrict vegetables/legumes 2–3 days prior, clear liquids only day before, promotility agents, treat constipation, hold anticholinergic/opioid meds, switch to high-volume prep.
+**Modifications (Strong/Moderate):** ≥1 of — improved instruction delivery, increased navigation, restrict vegetables/legumes 2–3 days prior, clear liquids only day before, promotility agents, treat [[chronic-constipation|constipation]], hold anticholinergic/opioid meds, switch to high-volume prep.
 
 **Specific high-risk regimen (Weak/Low):** Split-dose 4L PEG-ELS + bisacodyl 15mg afternoon before + low-residue diet 3 and 2 days prior + clear liquids day before.
 

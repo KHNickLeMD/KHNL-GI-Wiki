@@ -13,7 +13,7 @@ sources: [aga-acg-2023-constipation, acg-2021-anorectal-disorders, asge-2014-con
 
 **Chronic idiopathic constipation (CIC)** = chronic constipation without identifiable structural, metabolic, or pharmacologic cause. Diagnosis is clinical, based on symptom criteria.
 
-- **Nomenclature ([[rome-v-2026-dgbi|Rome V]], 2026):** the word "functional" was dropped — **"functional constipation" is now "chronic constipation"** (bowel-DGBI category **C2**); opioid-induced constipation is a separate category (C6). [[rome-v-2026-dgbi]]
+- **Nomenclature ([[rome-v-2026-dgbi|Rome V]], 2026):** the word "functional" was dropped — **"functional constipation" is now "chronic constipation"** (bowel-[[disorders-of-gut-brain-interaction|DGBI]] category **C2**); opioid-induced constipation is a separate category (C6). [[rome-v-2026-dgbi]]
 
 **Symptom criteria for functional constipation** — Rome III, as reproduced in [[asge-2014-constipation]] Table 2. **All three blocks must be satisfied** — the symptom count alone is not the diagnosis.
 
@@ -63,7 +63,7 @@ Assess impact on quality of life with the **PAC-QOL** (Patient Assessment of Con
 
 | Condition | Key Features |
 |-----------|-------------|
-| IBS-C | Abdominal pain is central symptom; bloating; pain relieved by defecation |
+| IBS-C | Abdominal pain is central symptom; [[abdominal-bloating-and-distention\|bloating]]; pain relieved by defecation |
 | Opioid-induced constipation | Clear opioid use; consider methylnaltrexone, naloxegol, or [[lubiprostone]] specifically |
 | Defecation disorder | Outlet symptoms; abnormal ARM + BET; treat with [[biofeedback-therapy\|biofeedback]], not secretagogues |
 | Hypothyroidism | TSH elevated; cold intolerance, fatigue, weight gain |
@@ -193,7 +193,7 @@ If defecation disorder is identified (abnormal ARM + BET), **[[biofeedback-thera
 ---
 
 ## See Also
-[[chronic-constipation]], [[defecation-disorders]], [[irritable-bowel-syndrome]], [[colorectal-cancer]], [[biofeedback-therapy]], [[linaclotide]], [[plecanatide]], [[prucalopride]], [[lubiprostone]], [[anorectal-manometry]], [[acute-colonic-pseudo-obstruction]], [[anal-fissure]], [[hemorrhoids]], [[ostomy-management]]
+[[chronic-constipation]], [[defecation-disorders]], [[irritable-bowel-syndrome]], [[disorders-of-gut-brain-interaction]], [[abdominal-bloating-and-distention]], [[colorectal-cancer]], [[biofeedback-therapy]], [[linaclotide]], [[plecanatide]], [[prucalopride]], [[lubiprostone]], [[anorectal-manometry]], [[acute-colonic-pseudo-obstruction]], [[anal-fissure]], [[hemorrhoids]], [[ostomy-management]]
 
 ---
 
@@ -202,5 +202,5 @@ If defecation disorder is identified (abnormal ARM + BET), **[[biofeedback-thera
 1. [[aga-acg-2023-constipation|AGA-ACG 2023 Pharmacologic Management of Chronic Idiopathic Constipation]]
 2. [[acg-2021-anorectal-disorders|ACG 2021 Clinical Guidelines: Management of Benign Anorectal Disorders]]
 3. [[asge-2014-constipation|ASGE 2014: The Role of Endoscopy in the Management of Constipation]]
-4. [[aga-2026-refractory-constipation|AGA Clinical Practice Update on Evaluation and Management of Refractory Constipation: Expert Review (2026)]]
+4. [[aga-2026-refractory-constipation|AGA Clinical Practice Update on Evaluation and Management of Refractory Constipation: Expert Review]]
 5. [[rome-v-2026-dgbi|Disorders of Gut–Brain Interaction and the Rome V Process]]

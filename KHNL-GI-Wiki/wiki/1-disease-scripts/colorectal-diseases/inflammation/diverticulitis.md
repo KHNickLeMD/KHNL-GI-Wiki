@@ -3,7 +3,7 @@ title: "Colonic Diverticulitis"
 category: disease-script
 tags: [diverticulitis, diverticular-disease, colorectal, antibiotics, hinchey, scad, sudd]
 created: 2026-07-23
-updated: 2026-09-01
+updated: 2026-09-03
 sources: [acg-2026-diverticulitis]
 ---
 
@@ -122,7 +122,7 @@ Recurrence is common and rises with each episode (10-yr risk: ≥22% after 1st, 
 - **Limit regular NSAIDs** unless clinically indicated (incident HR 1.72 nonaspirin, 1.25 aspirin) — do not stop NSAIDs needed for another indication (*conditional, low*).
 - **Smoking cessation** (complicated-disease RR 2.54) (*conditional, very low*).
 - **Alcohol moderation** in heavy drinkers (*conditional, very low*).
-- **Weight loss** if overweight/obese (recurrence HR 1.66 for BMI ≥30 vs <22.5; visceral adiposity may matter most) (*conditional, low*).
+- **Weight loss** if [[obesity|overweight/obese]] (recurrence HR 1.66 for BMI ≥30 vs <22.5; visceral adiposity may matter most) (*conditional, low*).
 - **Regular physical activity** (incident RR 0.76) (*conditional, very low*).
 
 ### Elective surgery
@@ -142,7 +142,7 @@ Recurrence is common and rises with each episode (10-yr risk: ≥22% after 1st, 
 
 ## See Also
 
-[[colorectal-cancer]], [[colorectal-cancer-screening]], [[colonoscopy]], [[colonoscopy-surveillance]], [[acute-lower-gi-bleeding]], [[ulcerative-colitis]], [[crohns-disease]], [[segmental-colitis-associated-with-diverticulosis]], [[disorders-of-gut-brain-interaction]], [[rifaximin]], [[probiotics]], [[iron-deficiency-anemia]], [[abdominal-bloating-and-distention]], [[clostridioides-difficile]]
+[[colorectal-cancer]], [[colorectal-cancer-screening]], [[colonoscopy]], [[colonoscopy-surveillance]], [[acute-lower-gi-bleeding]], [[ulcerative-colitis]], [[crohns-disease]], [[segmental-colitis-associated-with-diverticulosis]], [[disorders-of-gut-brain-interaction]], [[rifaximin]], [[probiotics]], [[iron-deficiency-anemia]], [[abdominal-bloating-and-distention]], [[clostridioides-difficile]], [[obesity]]
 
 ---
 

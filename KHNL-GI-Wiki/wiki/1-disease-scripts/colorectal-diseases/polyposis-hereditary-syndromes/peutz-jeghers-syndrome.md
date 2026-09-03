@@ -167,7 +167,7 @@ Overall risk of developing any cancer by age: 1% (age 20), 3% (age 30), 19% (age
 - 80% present as acute abdomen; average causative polyp size 3.5 cm
 - Surgery is often necessary; should examine entire small bowel and remove all significant polyps
 - Double-balloon enteroscopy can reduce laparotomy need for smaller polyps
-- The **"clean sweep"** — clearing the small intestine at laparotomy by intraoperative endoscopy with polypectomy (or enterotomy for larger polyps) — appears to **decrease the need for recurrent small-bowel surgery** [[aga-2022-hamartomatous-polyposis]]
+- The **"clean sweep"** — clearing the small intestine at laparotomy by intraoperative endoscopy with [[polypectomy]] (or enterotomy for larger polyps) — appears to **decrease the need for recurrent small-bowel surgery** [[aga-2022-hamartomatous-polyposis]]
 
 ### Surgical Management
 

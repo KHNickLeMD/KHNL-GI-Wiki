@@ -3,7 +3,7 @@ title: "Hemorrhoids"
 category: disease-script
 tags: [hemorrhoids, anorectal, rectal-bleeding, rubber-band-ligation, hemorrhoidectomy, colorectal]
 created: 2026-05-16
-updated: 2026-09-02
+updated: 2026-09-03
 sources: [acg-2021-anorectal-disorders, asge-2010-anorectal-disorders, aga-2026-hemorrhoids]
 ---
 
@@ -160,4 +160,4 @@ The diagnosis of symptomatic internal hemorrhoids requires exclusion of other so
 
 1. [[acg-2021-anorectal-disorders|ACG 2021 Clinical Guidelines: Management of Benign Anorectal Disorders]]
 2. [[asge-2010-anorectal-disorders|ASGE 2010: The Role of Endoscopy in Patients With Anorectal Disorders]]
-3. [[aga-2026-hemorrhoids|AGA Clinical Practice Update on Diagnosis and Treatment of Hemorrhoids: Expert Review (2026)]]
+3. [[aga-2026-hemorrhoids|AGA Clinical Practice Update on Diagnosis and Treatment of Hemorrhoids: Expert Review]]

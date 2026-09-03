@@ -70,7 +70,7 @@ sources: [asge-2019-radiation-proctopathy]
 | Modality | Pooled clinical success | Sessions (mean/median) | Interval between sessions | Settings | Adverse events |
 |---|---|---|---|---|---|
 | **[[argon-plasma-coagulation\|APC]]** — most widely used | **87%** (95% CI 85–90) | 1–3.7 | 2–8 wk; **most used 3–4 wk** (lets injured mucosa heal) | Power **25–80 W** (median **50 W**); argon flow **0.6–2.5 L/min** (median **1.5**). Success similar at ≤1 vs >1 L/min (87% vs 86%) | Pooled **serious AE 4%** (3–6); most common is abdominal/rectal pain |
-| **Bipolar electrocoagulation** | **88%** (95% CI 68–96) | 2.9–4 | 4–6 wk | Contact, electrical current | One series: worsening bleeding in **33%**, **rectal stenosis in 27%** (1 of 4 symptomatic); no perforation or fistula reported |
+| **[[electrosurgery\|Bipolar electrocoagulation]]** | **88%** (95% CI 68–96) | 2.9–4 | 4–6 wk | Contact, electrical current | One series: worsening bleeding in **33%**, **rectal stenosis in 27%** (1 of 4 symptomatic); no perforation or fistula reported |
 | **Heater probe** | Similar to bipolar (**67% vs 75%** in the one randomized comparison, n=21, 12-mo follow-up) | — | — | Contact, direct heat rather than current | No serious AEs in the randomized trial |
 | **[[radiofrequency-ablation\|RFA]]** | 88% (15/17) and 100% (39/39) in case series (n=66 total; **no comparative trials**) | 1.5–1.9 | 1 month to 12–16 wk | Focal ablation catheter; **2 applications per site**; energy density **12–15 J/cm²** at power density **40 W/cm²** | **No serious AEs reported**; mild anorectal pain in up to **12% of sessions** |
 
@@ -82,7 +82,7 @@ sources: [asge-2019-radiation-proctopathy]
 
 ## See Also
 
-[[acute-lower-gi-bleeding]], [[ulcerative-colitis]], [[crohns-disease]], [[colon-ischemia]], [[colorectal-cancer]], [[angioectasia]], [[hemorrhoids]], [[colonoscopy]], [[fecal-incontinence]], [[inflammatory-bowel-disease]], [[argon-plasma-coagulation]], [[radiofrequency-ablation]]
+[[acute-lower-gi-bleeding]], [[ulcerative-colitis]], [[crohns-disease]], [[colon-ischemia]], [[colorectal-cancer]], [[angioectasia]], [[hemorrhoids]], [[colonoscopy]], [[fecal-incontinence]], [[inflammatory-bowel-disease]], [[argon-plasma-coagulation]], [[radiofrequency-ablation]], [[electrosurgery]]
 
 ---
 

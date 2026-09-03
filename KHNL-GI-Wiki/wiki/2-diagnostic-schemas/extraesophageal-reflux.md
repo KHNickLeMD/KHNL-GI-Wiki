@@ -3,7 +3,7 @@ title: "Extraesophageal Reflux (EER)"
 category: diagnostic-schema
 tags: [gerd, extraesophageal-reflux, eer, lpr, chronic-cough, asthma, laryngitis, dental-erosions, ppi, reflux-testing, foregut]
 created: 2026-07-23
-updated: 2026-09-02
+updated: 2026-09-03
 sources: [aga-2023-extraesophageal-gerd, acg-2021-gerd]
 ---
 
@@ -48,7 +48,7 @@ Conditions commonly attributed to EER, each with a large non-reflux differential
 
 | Test | Role in EER |
 |---|---|
-| Upper endoscopy (EGD) | Erosive esophagitis (LA grade — ⚠ **criteria corpus-blocked**, see below), [[barretts-esophagus\|Barrett's]], hiatal hernia; a conclusive GERD sign supports (not proves) reflux causation |
+| Upper endoscopy (EGD) | Erosive esophagitis (LA grade — ⚠ **criteria corpus-blocked**, see below), [[barretts-esophagus\|Barrett's]], [[hiatal-hernia\|hiatal hernia]]; a conclusive GERD sign supports (not proves) reflux causation |
 | Ambulatory reflux monitoring (pH or pH-impedance), **off** PPI | Establish/exclude pathologic reflux when GERD unproven; AET thresholds per [[ambulatory-reflux-monitoring\|Lyon 2.0]] (>6% proven, <4% excludes) |
 | pH-impedance **on** PPI | Established GERD with persistent symptoms — quantify ongoing acid/non-acid reflux (BPA 8) |
 | Laryngoscopy (via ENT) | Mandatory to exclude non-reflux laryngeal pathology in laryngeal EER — see [[laryngopharyngeal-symptoms]] |
@@ -77,7 +77,7 @@ Conditions commonly attributed to EER, each with a large non-reflux differential
 
 ## See Also
 
-[[gerd]], [[laryngopharyngeal-symptoms]], [[ambulatory-reflux-monitoring]], [[reflux-testing]], [[upper-endoscopy]], [[antireflux-surgery]], [[proton-pump-inhibitors]], [[barretts-esophagus]], [[dysphagia]], [[esophageal-cancer]]
+[[gerd]], [[laryngopharyngeal-symptoms]], [[ambulatory-reflux-monitoring]], [[reflux-testing]], [[upper-endoscopy]], [[antireflux-surgery]], [[proton-pump-inhibitors]], [[barretts-esophagus]], [[hiatal-hernia]], [[dysphagia]], [[esophageal-cancer]]
 
 ---
 

@@ -3,7 +3,7 @@ title: "Pouchitis"
 category: disease-script
 tags: [pouchitis, ipaa, j-pouch, ulcerative-colitis, ibd, cuffitis, crohns-like-disease-of-the-pouch, antibiotics, probiotics, biologics]
 created: 2026-06-04
-updated: 2026-08-31
+updated: 2026-09-03
 sources: [aga-2024-pouchitis, aga-2020-probiotics, asge-2015-ibd, aga-2024-fmt, aga-2026-cdiff-ibd, aga-2026-therapeutic-endoscopy-ibd]
 ---
 
@@ -36,7 +36,7 @@ Pouchitis is non-specific inflammation of the ileal pouch reservoir — the most
 
 ### Establishing the Diagnosis
 - **Baseline (normal) pouch function:** average **4–8 bowel movements/day** and **1–2 at night** after the postoperative adjustment period.
-- **Typical pouchitis symptoms:** increased stool frequency, urgency, lower abdominal pain/cramping, pelvic discomfort. May also see bleeding, fever, incontinence.
+- **Typical pouchitis symptoms:** increased stool frequency, urgency, lower abdominal pain/cramping, pelvic discomfort. May also see bleeding, fever, [[fecal-incontinence|incontinence]].
 - **Symptoms do not reliably correlate with endoscopy or histology** — confirm with pouchoscopy before committing to chronic/escalated therapy.
 - **Pouchoscopy with biopsies** recommended for frequent recurrent or antibiotic-refractory symptoms (assesses pouch body, cuff, pre-pouch ileum; excludes Crohn's-like disease, cuffitis, ischemia, infection).
 - Activity scored by **PDAI / modified PDAI (mPDAI)** (clinical + endoscopic + histologic).
@@ -74,7 +74,7 @@ Pragmatic, treatment-anchored definitions (AGA 2024, Table 5):
   - **mPDAI remission = mPDAI score ≤4 *and* a ≥2-point reduction from baseline** — the EARNEST trial primary endpoint (week 14). *(The full PDAI subscore point-values originate from Sandborn 1994 and are not reproduced in the AGA source — flagged, not filled.)*
   - Endoscopic/histologic outcomes were **not** prioritized as decision-critical in the guideline (clinical improvement is the key outcome).
 - Targeted workup when refractory: stool studies (incl. *C. difficile*), CMV on biopsy, cross-sectional/contrast imaging or EUA for suspected stricture/fistula.
-- ***C. difficile* in the pouch is not a rarity — test for it.** [[aga-2026-cdiff-ibd|AGA 2026]] advises actively considering and treating CDI in any patient with an **ileo-anal pouch or end ileostomy** whose diarrhea/pouch output worsens; CDI has been detected in **10%–18%** of IPAA patients. Use a **multistep toxin-based assay** (NAAT alone over-diagnoses colonization), prefer **fidaxomicin**, and **retest if diarrhea recurs** after successful treatment. Full pathway: [[clostridioides-difficile]].
+- ***C. difficile* in the pouch is not a rarity — test for it.** [[aga-2026-cdiff-ibd|AGA 2026]] advises actively considering and treating CDI in any patient with an **ileo-anal pouch or [[ostomy-management|end ileostomy]]** whose diarrhea/pouch output worsens; CDI has been detected in **10%–18%** of IPAA patients. Use a **multistep toxin-based assay** (NAAT alone over-diagnoses colonization), prefer **fidaxomicin**, and **retest if diarrhea recurs** after successful treatment. Full pathway: [[clostridioides-difficile]].
 - **Endoscopic + histologic assessment of the pouch and afferent limb is recommended in symptomatic patients** ([[asge-2015-ibd]]).
 - **Pouch neoplasia surveillance** (beyond AGA 2024 scope; [[asge-2015-ibd]]): highest-risk patients — **prior colorectal dysplasia or cancer** — considered for **annual pouchoscopy** with biopsies taken **proximally (within the pouch) and distally (anal transition zone)**. [[primary-sclerosing-cholangitis|PSC]], refractory pouchitis, and type C (atrophic, severely inflamed) pouch mucosa may also warrant surveillance.
 
@@ -167,7 +167,7 @@ All 13 AGA 2024 statements (9 actionable conditional recommendations + 4 "no rec
 
 ## See Also
 
-[[ulcerative-colitis]], [[crohns-disease]], [[inflammatory-bowel-disease]], [[probiotics]], [[fmt]], [[colonoscopy]], [[primary-sclerosing-cholangitis]], [[clostridioides-difficile]], [[rifaximin]], [[chronic-diarrhea]], [[ibd-endoscopic-scoring]], [[disorders-of-gut-brain-interaction]], [[ostomy-management]]
+[[ulcerative-colitis]], [[crohns-disease]], [[inflammatory-bowel-disease]], [[probiotics]], [[fmt]], [[colonoscopy]], [[primary-sclerosing-cholangitis]], [[clostridioides-difficile]], [[rifaximin]], [[chronic-diarrhea]], [[ibd-endoscopic-scoring]], [[disorders-of-gut-brain-interaction]], [[ostomy-management]], [[fecal-incontinence]]
 
 ---
 

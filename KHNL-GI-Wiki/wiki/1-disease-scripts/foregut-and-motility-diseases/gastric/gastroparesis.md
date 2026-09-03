@@ -117,7 +117,7 @@ sources: [acg-2022-gastroparesis, aga-2025-gastroparesis, surjanhata-2025-consti
 *Workup: see [[nausea-and-vomiting]].*
 
 - **Functional [[dyspepsia]] (FD)** — significant overlap; 42% of patients initially diagnosed with GP reclassified on repeat SGE; 37% of FD reclassified as GP. FD has a better prognosis than GP. See [[disorders-of-gut-brain-interaction]]
-- **Mechanical gastric outlet obstruction** — peptic stricture, malignancy, bezoar; must be excluded by upper endoscopy or imaging before diagnosing GP
+- **Mechanical [[gastric-outlet-obstruction|gastric outlet obstruction]]** — peptic stricture, malignancy, bezoar; must be excluded by upper endoscopy or imaging before diagnosing GP
 - **[[gerd|GERD]] / reflux disease** — symptom overlap (nausea, postprandial discomfort)
 - **[[rumination-syndrome|Rumination syndrome]]** — regurgitation of undigested food shortly after meals; distinguished by manometry/impedance
 - **[[cyclic-vomiting-syndrome|Cyclic vomiting syndrome]]** — stereotyped episodic vomiting with symptom-free intervals
@@ -415,7 +415,7 @@ Before labelling a patient refractory: re-confirm the accuracy of the diagnosis,
 
 ## See Also
 
-[[disorders-of-gut-brain-interaction]], [[gerd]], [[dyspepsia]], [[irritable-bowel-syndrome]], [[rumination-syndrome]], [[cyclic-vomiting-syndrome]], [[cannabinoid-hyperemesis-syndrome]], [[chronic-idiopathic-constipation]], [[small-bowel-motility]], [[flip-panometry]], [[g-poem]], [[poem]], [[antireflux-surgery]], [[bariatric-surgery]], [[prucalopride]], [[semaglutide]], [[glp-1-receptor-agonists]], [[enteral-access]], [[upper-endoscopy]], [[nausea-and-vomiting]]
+[[disorders-of-gut-brain-interaction]], [[gerd]], [[dyspepsia]], [[irritable-bowel-syndrome]], [[rumination-syndrome]], [[cyclic-vomiting-syndrome]], [[cannabinoid-hyperemesis-syndrome]], [[chronic-idiopathic-constipation]], [[gastric-outlet-obstruction]], [[small-bowel-motility]], [[flip-panometry]], [[g-poem]], [[poem]], [[antireflux-surgery]], [[bariatric-surgery]], [[prucalopride]], [[semaglutide]], [[glp-1-receptor-agonists]], [[enteral-access]], [[upper-endoscopy]], [[nausea-and-vomiting]]
 
 ---
 

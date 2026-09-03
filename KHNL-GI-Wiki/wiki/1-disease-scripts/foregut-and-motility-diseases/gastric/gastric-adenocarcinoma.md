@@ -122,7 +122,7 @@ Stage-directed per [[nccn-2026-gastric-cancer]]:
   The **absolute** ESD indication is mucosal (T1a) adenocarcinoma/HGD, **intestinal type, ≤2 cm**; expanded criteria add intestinal-type G1/G2 of any size without ulceration, intestinal-type G1/G2 with submucosal invasion <500 µm, intestinal-type G1/G2 ≤3 cm with ulceration, and diffuse-type G3/G4 ≤2 cm without ulceration. [[asge-2023-esd]]
 - **Resectable locally advanced:** **perioperative chemotherapy (FLOT preferred)** with **gastrectomy and D2 lymphadenectomy**. Perioperative/neoadjuvant immunotherapy is considered for **MSI-H/dMMR** tumors (multidisciplinary; **dostarlimab** added as a neoadjuvant option). Gastrectomy remains standard even after radiologic/endoscopic complete response to neoadjuvant immunotherapy, outside prospective organ-preservation trials; if non-operative management is pursued for MSI-H/dMMR disease, immunotherapy continues for **at least 1 year**.
 - **Unresectable:** definitive chemoradiation/chemotherapy.
-- **Palliation of malignant gastric outlet obstruction:** endoscopically placed **self-expanding metal stent (SEMS)** for patients with poor performance status or nonoperable anatomy. [[asge-2015-gastric-premalignant]]
+- **Palliation of malignant [[gastric-outlet-obstruction|gastric outlet obstruction]]:** endoscopically placed **self-expanding metal stent (SEMS)** for patients with poor performance status or nonoperable anatomy. [[asge-2015-gastric-premalignant]]
 - **Metastatic / unresectable — biomarker-directed** (positivity cutoffs in [[#Biomarker Testing]]). Backbone is a fluoropyrimidine + platinum (**oxaliplatin preferred over cisplatin** — lower toxicity):
 
 | Biomarker result | First-line addition | Category |
@@ -154,7 +154,7 @@ flowchart TD
 
 ## See Also
 
-[[gastric-premalignant-conditions]], [[gastric-intestinal-metaplasia]], [[atrophic-gastritis]], [[gastric-cancer-screening]], [[helicobacter-pylori-infection]], [[hereditary-diffuse-gastric-cancer]], [[juvenile-polyposis-syndrome]], [[peutz-jeghers-syndrome]], [[familial-adenomatous-polyposis]], [[lynch-syndrome]], [[esophageal-cancer]], [[esophageal-adenocarcinoma]], [[gastric-malt-lymphoma]], [[barretts-esophagus]], [[gastrointestinal-stromal-tumor]], [[subepithelial-lesion]], [[gastroenteropancreatic-neuroendocrine-tumors]], [[endoscopic-submucosal-dissection]], [[endoscopic-mucosal-resection]], [[dyspepsia]], [[upper-endoscopy]], [[endoscopic-ultrasound]], [[iron-deficiency-anemia]]
+[[gastric-premalignant-conditions]], [[gastric-intestinal-metaplasia]], [[atrophic-gastritis]], [[gastric-cancer-screening]], [[helicobacter-pylori-infection]], [[hereditary-diffuse-gastric-cancer]], [[juvenile-polyposis-syndrome]], [[peutz-jeghers-syndrome]], [[familial-adenomatous-polyposis]], [[lynch-syndrome]], [[esophageal-cancer]], [[esophageal-adenocarcinoma]], [[gastric-malt-lymphoma]], [[barretts-esophagus]], [[gastrointestinal-stromal-tumor]], [[subepithelial-lesion]], [[gastroenteropancreatic-neuroendocrine-tumors]], [[endoscopic-submucosal-dissection]], [[endoscopic-mucosal-resection]], [[gastric-outlet-obstruction]], [[dyspepsia]], [[upper-endoscopy]], [[endoscopic-ultrasound]], [[iron-deficiency-anemia]]
 
 ---
 

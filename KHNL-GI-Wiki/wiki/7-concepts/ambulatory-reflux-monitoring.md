@@ -3,7 +3,7 @@ title: "Ambulatory Reflux Monitoring"
 category: concept
 tags: [gerd, ph-monitoring, impedance, diagnosis, lyon-consensus]
 created: 2026-05-15
-updated: 2026-09-01
+updated: 2026-09-03
 sources: [lyon-2024-gerd-diagnosis, acg-2020-esophageal-physiologic-testing]
 ---
 
@@ -176,7 +176,7 @@ The original endoscopic mucosal impedance devices (catheter through biopsy chann
 |---|---|---|
 | Off therapy (unproven GERD) | LA B, C, D; Barrett's; peptic stricture | **Conclusive** GERD |
 | Off therapy | LA grade A | **Borderline** (adjunctive metrics needed) |
-| Off therapy | Hiatus hernia | **Supportive adjunctive** evidence |
+| Off therapy | [[hiatal-hernia\|Hiatus hernia]] | **Supportive adjunctive** evidence |
 | On optimised PPI therapy | LA B, C, D; recurrent peptic stricture | **Refractory GERD** |
 
 **Endoscopy timing:** In unproven GERD, [[upper-endoscopy|endoscopy]] should be performed **2–4 weeks after PPI discontinuation** to maximise diagnostic yield. Mucosal healing occurs in ~80% after 8 weeks of PPI, obscuring the true oesophagitis grade. Even within 2 weeks, oesophagitis can recur significantly (10/12 patients with healed grade C oesophagitis had recurrence within 1 week in one prospective study).

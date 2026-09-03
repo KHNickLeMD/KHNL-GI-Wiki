@@ -210,7 +210,7 @@ Gastric adenocarcinoma
 
 ### H. pylori Eradication
 
-- **Test and eradicate all GPMC patients** and patients with resected early GC (Strong/Moderate)
+- **[[test-and-treat|Test and eradicate]] all GPMC patients** and patients with resected early GC (Strong/Moderate)
 - Reduces risk of progression to GC and metachronous GC
 - See [[helicobacter-pylori-infection]] for eradication regimens
 
@@ -242,7 +242,7 @@ Gastric adenocarcinoma
 
 ## See Also
 
-[[helicobacter-pylori-infection]], [[atrophic-gastritis]], [[gastric-intestinal-metaplasia]], [[gastric-polyps]], [[gastric-adenocarcinoma]], [[hereditary-diffuse-gastric-cancer]], [[gastric-cancer-screening]], [[gastroenteropancreatic-neuroendocrine-tumors]], [[endoscopic-submucosal-dissection]], [[dyspepsia]], [[upper-endoscopy]]
+[[helicobacter-pylori-infection]], [[test-and-treat]], [[atrophic-gastritis]], [[gastric-intestinal-metaplasia]], [[gastric-polyps]], [[gastric-adenocarcinoma]], [[gastric-malt-lymphoma]], [[hereditary-diffuse-gastric-cancer]], [[lynch-syndrome]], [[familial-adenomatous-polyposis]], [[peutz-jeghers-syndrome]], [[gastric-cancer-screening]], [[gastroenteropancreatic-neuroendocrine-tumors]], [[endoscopic-submucosal-dissection]], [[colorectal-cancer]], [[dyspepsia]], [[upper-endoscopy]]
 
 ---
 

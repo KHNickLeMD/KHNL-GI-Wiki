@@ -339,6 +339,7 @@ updated: 2026-09-03
 
 - [[chicago-classification-v4]] — Chicago Classification v4.0: HRM protocol, manufacturer-specific IRP thresholds (Medtronic/Laborie), achalasia I/II/III, EGJOO always inconclusive (requires TBE/FLIP + symptoms), IEM revised criteria, fragmented peristalsis eliminated (2 sources)
 - [[colorectal-cancer-screening]] — CRC screening: age 45–75 (conditional 45–49), colonoscopy + annual FIT preferred, blood-based screening (Shield/Freenome — CMS criteria, positioning vs FIT/colonoscopy), CIR ≥95%, ADR ≥25%, family history stratification, aspirin 50–69 conditional (4 sources)
+- [[anal-cancer-screening]] — Anal cancer screening: target is anal HSIL not cancer; IANS Risk Category A (≥17/100,000 p-y — screen, per-group start ages) vs Category B (<10 — shared decision-making); cytology / hrHPV / co-testing strategies and their HRA-referral rules; DARE at every visit; the NIH/CDC/IDSA pathway for people with HIV and its disagreement with IANS on primary hrHPV; what to do where HRA is unavailable (1 source)
 - [[ibd-preventive-care]] — IBD health maintenance: vaccination schedule by agent/age incl. HepB seroprotection algorithm, cervical/skin/anal cancer screening, osteoporosis DEXA, depression/anxiety screening (3 sources)
 - [[endoscopic-oncology]] — Endoscopic oncology subspecialty: scope (ESD/EMR/EUS staging/biliary palliation), relationship to surgical and medical oncology, training pathway (3 sources)
 - [[disorders-of-gut-brain-interaction]] — DGBI framework: Rome V definition, biopsychosocial model, 34 adult + 22 pediatric classifications (A–H), Rome Clinical Criteria (8-wk duration), IBS severity table, key Rome IV→V changes (1 source)
@@ -619,6 +620,7 @@ updated: 2026-09-03
 
 ### Other
 
+- [[asccp-2024-anal-cancer-screening]] — ASCCP Practice Advisory (2024): Anal Cancer Screening — a narrative endorsement, **no GRADE ratings and no criteria of its own**; reconciles the IANS 2024 consensus with the 2024 NIH/CDC/IDSA guidelines for people with HIV. Supplies the IANS Risk Category A/B incidence thresholds (≥17 vs <10 per 100,000 p-y against a 1.7 general-population rate) with per-group start ages, the cytology/hrHPV/co-testing strategies and their HRA-referral rules, and DARE at every visit. ⚠ Carries the **IANS vs NIH/CDC/IDSA disagreement on primary hrHPV** in people with HIV; management after HRA is out of scope
 - [[rome-v-2026-dgbi]] — Rome V (2026): Disorders of Gut–Brain Interaction and the Rome V Process — Drossman, Chang, Tack
 - [[albhaisi-2025-prophylactic-antibiotics-cirrhosis]] — Prosty et al., JAMA Intern Med 2025: Prophylactic Antibiotics for UGIB in Cirrhosis — systematic review + Bayesian meta-analysis, 14 RCTs, n=1,322 (12 trials compare prophylaxis vs **none**; only 2 compare 2–3 d vs 5–7 d) *(slug retains the journal-club presenter's name)*
 - [[dallas-2025-flip-panometry]] — Dallas Consensus (2025): FLIP Panometry Motility Classification v2.0 — Carlson, Pandolfino et al.
@@ -697,9 +699,10 @@ Topics with no page yet. The lint cron creates **1–2 per pass** from the top o
 30. `1-disease-scripts/foregut-and-motility-diseases/gastric/portal-hypertensive-gastropathy` — [[aasld-2023-portal-hypertension]], [[baveno-viii-2026-portal-hypertension]]
 
 ### Blocked on ingest, not on a source (the PDF is in `raw/`, just not ingested yet)
-- **Anal cancer / HSIL screening** — `raw/GI Guidelines/Other/ASCCP 2024 Practice Advisory Anal Cancer Screening.pdf` and `raw/GI Guidelines/Other/IANS 2024 Anal Cancer Screening Consensus.pdf` are both present and uningested. This was previously mis-filed under *Needs a source*.
+- *(empty — every remaining uningested file in `raw/` is a gated lecture/chalk talk. See CLAUDE.md → Content Guide → Ingestion order & lecture gating: Nick names which to ingest.)*
 
 ### Needs a source (do not write from general knowledge)
+- **IANS 2024 anal cancer screening consensus** (Stier et al., *Int J Cancer* 2024;154:1694-1702, doi:10.1002/ijc.34850) — ⚠ `raw/GI Guidelines/Other/IANS 2024 Anal Cancer Screening Consensus.pdf` is **not a PDF**: it is a saved Cloudflare bot-challenge page from Wiley (6 KB of HTML, zero clinical content). The download failed upstream and needs re-fetching. [[anal-cancer-screening]] currently carries the IANS criteria **second-hand through [[asccp-2024-anal-cancer-screening]]**; the primary would add the full recommendation set, HRA practice standards, and management after a biopsy-proven anal HSIL.
 - EASL CPG on Vascular Liver Diseases (cited by Baveno VIII 8.3 for the full VLD aetiological workup); Baveno VIII Supplementary Tables S1–S4 (frailty/sarcopenia tools, PSVD/NCPF exclusion criteria, associated conditions, PVT risk factors) — online-only, not in the ingested PDF.
 - Checkpoint-inhibitor colitis; pyogenic/amebic liver abscess; hepatitis A; hepatitis E; autoimmune pancreatitis; short bowel syndrome / intestinal failure; small bowel obstruction; chronic intestinal pseudo-obstruction; Zenker's diverticulum; Dieulafoy lesion; Mallory-Weiss; caustic/pill esophagitis; Zollinger-Ellison; gallbladder polyps; choledochal cysts; acalculous cholecystitis; alpha-1 antitrypsin deficiency; ischemic/congestive hepatopathy; STEC/HUS; CMV colitis; Whipple disease; anorectal abscess/fistula (non-IBD); pruritus ani; solitary rectal ulcer; all of `6-anatomy/`.
 

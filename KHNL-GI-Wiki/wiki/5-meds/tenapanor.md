@@ -3,8 +3,8 @@ title: "Tenapanor"
 category: med
 tags: [tenapanor, nhe3-inhibitor, secretagogue, ibs-c, constipation]
 created: 2026-08-14
-updated: 2026-08-14
-sources: [aga-2022-ibs-c, aga-acg-2023-constipation]
+updated: 2026-09-03
+sources: [aga-2022-ibs-c, aga-acg-2023-constipation, aga-2026-refractory-constipation]
 ---
 
 ## Class
@@ -20,14 +20,21 @@ sources: [aga-2022-ibs-c, aga-acg-2023-constipation]
 | Indication | Dose | Recommendation |
 |---|---|---|
 | [[irritable-bowel-syndrome\|IBS]]-C | **50 mg PO twice daily** (FDA-approved dose) | **Conditional, moderate certainty** ([[aga-2022-ibs-c]], Rec 1) |
+| **[[chronic-idiopathic-constipation\|Refractory constipation]] — off-label** | Dose not stated by the source | "May also be considered when on-label agents have failed" (BPA 8, [[aga-2026-refractory-constipation]]) |
 
+- **Off-label flag:** tenapanor is FDA-approved only for IBS-C. Its use in refractory constipation is explicitly an **off-label** step, taken only after **all** OTC and FDA-approved agents have been trialled as monotherapy *and* in combination ([[aga-2026-refractory-constipation]]). That source gives **no dose, interval, or duration** for this indication.
 - Phase 2b dose-ranging studied **5, 20, and 50 mg b.i.d.**; 50 mg b.i.d. is the approved and recommended dose.
-- **Duration:** trials ran **12 weeks** (one to 26 weeks); efficacy is **maintained beyond 12 weeks** (T3MPO-2, 26 weeks). In the T3MPO-1 4-week randomized withdrawal period, patients switched *to* tenapanor gained CSBM frequency versus those switched *off* it.
-- Trial populations were **outpatients aged 18–75 y meeting Rome III criteria for IBS-C**.
+- **Duration:** the phase 2b and T3MPO-1 trials ran **12 weeks**, T3MPO-2 ran **26 weeks** — so efficacy is documented as **maintained beyond 12 weeks**. In T3MPO-1's 4-week randomized withdrawal period, patients switched *to* tenapanor gained CSBM frequency versus those switched *off* it. No maximum treatment duration is given.
+- **Who the evidence covers** — trial entry, all three RCTs: **outpatients aged 18–75 y**, **Rome III criteria for IBS-C**, and over a 2-week baseline an average weekly **5 SBMs and 3 CSBMs**, **BSFS stool consistency type 3**, **abdominal pain 3 on a 0–10 scale**, and **no liquid stools for any SBM / mushy stools for >1 SBM**.
 
 ## Efficacy
 
 Three placebo-controlled RCTs (1 phase 2b, 2 phase 3 — T3MPO-1 n = 307 vs 299 for 12 wk; T3MPO-2 n = 293 vs 300 for 26 wk). Pooled 12-week population: **688 tenapanor vs 684 placebo**. ([[aga-2022-ibs-c]])
+
+**Reading the endpoints:**
+
+- **CSBM responder** (primary in phase 2b) = **increase of ≥1 CSBM/week over baseline for ≥6 of the 12 treatment weeks**.
+- **FDA responder endpoint for IBS-C** (primary in both phase 3 trials) — [[aga-2022-ibs-c]] cites this definition but does **not** print its components; the FDA guidance document would be needed to state them. Do not infer.
 
 | Outcome (12 wk unless noted) | Tenapanor | Placebo | Effect |
 |---|---|---|---|
@@ -45,11 +52,12 @@ Three placebo-controlled RCTs (1 phase 2b, 2 phase 3 — T3MPO-1 n = 307 vs 299 
 - **Diarrhea** — most common AE: **14.8%** vs 2.3% placebo; led to **discontinuation in 6.6%** vs 1.0%.
 - Serious adverse events across the 3 trials: 11 tenapanor vs 7 placebo (diarrhea, abdominal pain, nausea, COPD, panic, osteoarthritis, migraine, depression). **Only the diarrhea SAE was judged "possibly related"** to treatment. **No deaths.**
 
-> **Gaps — not in the ingested corpus.** [[aga-2022-ibs-c]] states no contraindications, pediatric limits, or renal/hepatic dose adjustments for tenapanor, and [[aga-acg-2023-constipation]] **explicitly excluded tenapanor** from its review, so there is no ingested guideline basis for using it in [[chronic-idiopathic-constipation|CIC]]. FDA labeling would be needed to state these.
+> **Gaps — not in the ingested corpus.** No ingested source states **contraindications, pediatric limits, or renal/hepatic dose adjustments** for tenapanor. FDA labeling would be needed. [[aga-acg-2023-constipation]] **excluded tenapanor** from its review, so there is still no on-label guideline recommendation in [[chronic-idiopathic-constipation|CIC]] — only the off-label refractory-constipation position above, which carries no dose.
 
 ## Place in Therapy
 
 - One of the **conditional** IBS-C options, alongside [[plecanatide]], [[lubiprostone]], and [[tegaserod]]; [[linaclotide]] is the only **strongly** recommended agent for IBS-C in [[aga-2022-ibs-c]].
+- **Last-line, off-label** in refractory constipation — same tier as off-label pyridostigmine and the (non-US) IBAT inhibitor elobixibat ([[aga-2026-refractory-constipation]]). See [[chronic-idiopathic-constipation]] for the full escalation ladder.
 - No head-to-head trials against the GC-C agonists.
 
 ## See Also
@@ -62,3 +70,4 @@ Three placebo-controlled RCTs (1 phase 2b, 2 phase 3 — T3MPO-1 n = 307 vs 299 
 
 1. [[aga-2022-ibs-c|AGA Clinical Practice Guideline: Pharmacological Management of IBS-C (2022)]]
 2. [[aga-acg-2023-constipation|AGA-ACG 2023 Pharmacologic Management of Chronic Idiopathic Constipation]]
+3. [[aga-2026-refractory-constipation|AGA Clinical Practice Update on Evaluation and Management of Refractory Constipation: Expert Review (2026)]]

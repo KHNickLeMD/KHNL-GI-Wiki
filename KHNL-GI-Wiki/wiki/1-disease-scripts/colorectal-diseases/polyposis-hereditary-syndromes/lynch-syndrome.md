@@ -211,7 +211,7 @@ LS is classified by the causative gene. Share of LS families and the identifying
 **[[pancreatic-cancer|Pancreatic cancer]]** [[acg-2015-hereditary-gi-cancer]]:
 
 - **9- to 11-fold** relative risk vs general population (ACG 2015 Table 12). Two cohorts: SIR **10.7** (95% CI 2.7–47.7) with a **10-year cumulative risk 0.95%**; and an **8.6-fold** increase (95% CI 4.7–15.7) with **cumulative risk 3.7% by age 70**. A third cohort using dedicated histologic review found **no** excess risk
-- Because LS carries a *lower* relative risk than PJS/[[fammm-syndrome|FAMMM]]/[[hereditary-pancreatitis|hereditary pancreatitis]], **surveillance is limited to carriers with a first- or second-degree relative affected by pancreatic cancer** *(Conditional; very low)* — and should be done at experienced centres, ideally under research conditions
+- Because LS carries a *lower* relative risk than [[peutz-jeghers-syndrome|PJS]]/[[fammm-syndrome|FAMMM]]/[[hereditary-pancreatitis|hereditary pancreatitis]], **surveillance is limited to carriers with a first- or second-degree relative affected by pancreatic cancer** *(Conditional; very low)* — and should be done at experienced centres, ideally under research conditions
 - When performed: **[[endoscopic-ultrasound|EUS]] and/or MRI annually, starting age 50** — or **10 years younger than the earliest pancreatic cancer in the family** *(ACG 2015 Rec 23)*. See [[pancreatic-cancer-screening]]
 - [[usmstf-2014-lynch-syndrome]] states routine pancreatic screening is **not** recommended (benefit unestablished at this magnitude of risk); ACG 2015 is the newer source and its conditional criteria govern this page
 

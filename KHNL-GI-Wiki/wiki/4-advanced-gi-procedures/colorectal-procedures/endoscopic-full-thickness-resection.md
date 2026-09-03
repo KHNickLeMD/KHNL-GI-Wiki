@@ -3,7 +3,7 @@ title: "Endoscopic Full-Thickness Resection (EFTR)"
 category: advanced-procedure
 tags: [eftr, subepithelial-lesion, resection, ster, ftrd, gist, neuroendocrine-tumor]
 created: 2026-07-23
-updated: 2026-08-30
+updated: 2026-09-03
 sources: [aga-2024-full-thickness-resection, asge-2017-subepithelial-lesions]
 ---
 
@@ -74,7 +74,7 @@ Resection of a [[subepithelial-lesion|subepithelial lesion]] through the full wa
 - **[[antibiotic-prophylaxis-endoscopy|Prophylactic IV antibiotics]]** at time of procedure (peritoneal/mediastinal contamination risk).
 - **CO₂ insufflation mandatory** (faster absorption, lower AE risk than air).
 - Perform in a **hospital-based endoscopy unit** with surgical backup readily available.
-- Fully equipped with ESD devices: single- and dual-channel gastroscopes, distal attachments, electrosurgical knives, hemostatic forceps, closure devices (over-the-scope clips, through-the-scope clips, suture devices), peritoneal decompression needles — ideally on a **dedicated cart**.
+- Fully equipped with ESD devices: single- and dual-channel gastroscopes, distal attachments, [[electrosurgery|electrosurgical]] knives, hemostatic forceps, closure devices (over-the-scope clips, through-the-scope clips, suture devices), peritoneal decompression needles — ideally on a **dedicated cart**.
 
 ## Technique
 

@@ -3,7 +3,7 @@ title: "Familial Atypical Multiple Mole Melanoma (FAMMM) Syndrome"
 category: disease-script
 tags: [genetics, hereditary-cancer, melanoma, pancreatic-cancer, cdkn2a]
 created: 2026-06-04
-updated: 2026-08-27
+updated: 2026-09-03
 sources: [asge-2022-pancreatic-cancer-screening, acg-2015-hereditary-gi-cancer]
 ---
 
@@ -76,7 +76,7 @@ sources: [asge-2022-pancreatic-cancer-screening, acg-2015-hereditary-gi-cancer]
 
 ## See Also
 
-[[pancreatic-cancer]], [[pancreatic-cancer-screening]], [[familial-pancreatic-cancer]], [[brca-pathogenic-variants]], [[peutz-jeghers-syndrome]], [[hereditary-pancreatitis]], [[lynch-syndrome]], [[endoscopic-ultrasound]], [[mri-mrcp]]
+[[pancreatic-cancer]], [[pancreatic-cancer-screening]], [[familial-pancreatic-cancer]], [[brca-pathogenic-variants]], [[peutz-jeghers-syndrome]], [[hereditary-pancreatitis]], [[lynch-syndrome]], [[familial-adenomatous-polyposis]], [[endoscopic-ultrasound]], [[mri-mrcp]], [[upper-endoscopy]], [[colonoscopy]]
 
 ---
 
