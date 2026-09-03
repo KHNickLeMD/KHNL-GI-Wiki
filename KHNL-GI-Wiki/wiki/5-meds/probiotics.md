@@ -3,8 +3,8 @@ title: "Probiotics"
 category: med
 tags: [probiotics, microbiome, dysbiosis, cdiff, ibd, pouchitis, ibs, nec, infectious-diarrhea]
 created: 2026-06-04
-updated: 2026-09-01
-sources: [aga-2020-probiotics, acg-2020-sibo]
+updated: 2026-09-03
+sources: [aga-2020-probiotics, acg-2020-sibo, aga-2026-cdiff-adults, aga-2026-cdiff-ibd, acg-2021-cdiff]
 ---
 
 Probiotics are live microorganisms that, when administered in adequate amounts, confer a health benefit on the host (FAO/WHO definition). Their effects are **strain-specific and dose-specific** — different strains, and combinations of strains, have widely different biologic activities, so results from one formulation cannot be generalized to "probiotics" as a class. Because probiotics are sold as supplements (not drugs) in the US and Europe, the industry is largely unregulated, marketing is direct-to-consumer, and product viability/manufacturing details are frequently unavailable. These features make pooled meta-analyses across heterogeneous strains/populations potentially misleading.
@@ -15,7 +15,7 @@ The AGA 2020 guideline ([[aga-2020-probiotics]]) used GRADE to grade probiotic u
 
 ### Conditional recommendation FOR
 
-- **Prevention of *C difficile* infection in adults and children on antibiotics** — conditional FOR specific formulations (*S boulardii*; 2-strain *L acidophilus* CL1285 + *L casei* LBC80R; 3-strain *L acidophilus* + *L delbrueckii* subsp *bulgaricus* + *B bifidum*; or the 4-strain combination adding *S salivarius* subsp *thermophilus*), **low** quality of evidence. Benefit concentrated in patients at **high baseline risk (>15%)** of [[clostridioides-difficile|C difficile]] infection; low-risk outpatients and those prioritizing cost/harm avoidance may reasonably decline. Note this is **prevention**, distinct from treatment (see below).
+- **Prevention of *C difficile* infection in adults and children on antibiotics** — conditional FOR specific formulations (*S boulardii*; 2-strain *L acidophilus* CL1285 + *L casei* LBC80R; 3-strain *L acidophilus* + *L delbrueckii* subsp *bulgaricus* + *B bifidum*; or the 4-strain combination adding *S salivarius* subsp *thermophilus*), **low** quality of evidence. Benefit concentrated in patients at **high baseline risk (>15%)** of [[clostridioides-difficile|C difficile]] infection; low-risk outpatients and those prioritizing cost/harm avoidance may reasonably decline. Note this is **prevention**, distinct from treatment (see below). **⚠ Superseded — see the C difficile box below.**
 - **[[pouchitis|Pouchitis]]** — conditional FOR the **8-strain combination** (*L paracasei* subsp *paracasei*, *L plantarum*, *L acidophilus*, *L delbrueckii* subsp *bulgaricus*, *B longum* subsp *longum*, *B breve*, *B longum* subsp *infantis*, *S salivarius* subsp *thermophilus*) over no or other probiotics, **very low** quality of evidence. Supports maintenance of chronic [[pouchitis]] remission and prevention of initial acute pouchitis after ileal pouch–anal anastomosis.
 - **Prevention of necrotizing enterocolitis (NEC) in preterm (<37 weeks), low-birth-weight infants** — conditional FOR specified combinations of *Lactobacillus* spp + *Bifidobacterium* spp (or *B animalis* subsp *lactis*, *L reuteri*, or *L rhamnosus* strains), **moderate/high** quality — the strongest evidence base in the guideline; reduces all-cause mortality and severe NEC.
 
@@ -30,6 +30,14 @@ The AGA recommends probiotic use **only in the context of a clinical trial** (no
 - **[[crohns-disease|Crohn's disease]]** (induction and maintenance)
 - **[[ulcerative-colitis|Ulcerative colitis]]** (induction and maintenance) — *E coli* Nissle 1917 was roughly equivalent to mesalamine for maintenance but pooled data did not show benefit
 - **[[irritable-bowel-syndrome|Irritable bowel syndrome]]** — 76 RCTs of 44 strains, mostly single-study data, very low certainty, publication-bias concern
+
+## C difficile — Not Advised (2026 reversal)
+
+> **Contradiction (surfaced), newer same-tier source wins.** [[aga-2026-cdiff-adults|AGA 2026 CPU on CDI in adults]] (BPA 12) states plainly that **probiotics are not advised to prevent an initial or recurrent [[clostridioides-difficile|C difficile]] infection**, and that they have **not shown benefit** in patients with multiply recurrent disease. This reverses the [[aga-2020-probiotics|AGA 2020]] conditional recommendation FOR named formulations in antibiotic-exposed patients. **What this page asserts: do not use probiotics for CDI prevention.** The 2020 strain list above is retained as history, not as practice.
+>
+> Corroborated by [[aga-2026-cdiff-ibd|AGA 2026 CPU on CDI in IBD]] (BPA 11): no probiotics for primary or secondary CDI prevention in [[inflammatory-bowel-disease|IBD]], and by [[acg-2021-cdiff|ACG 2021]], which recommends against probiotics for both primary (conditional/moderate) and secondary (strong/very low) prevention.
+
+**What AGA 2026 advises instead — prebiotics and diet:** a healthy, varied, **high-fiber** diet with fruits and vegetables supplying **soluble and insoluble** fiber; a **low-fiber diet after antibiotics prolongs susceptibility** to CDI. Avoid ultra-processed foods; do not prescribe bland or clear-liquid diets during CDI. For established recurrent CDI the effective intervention is [[fmt|fecal microbiota–based therapy]], not probiotics.
 
 ## SIBO — Not Recommended, and a Possible Cause
 
@@ -68,3 +76,6 @@ Not covered by the AGA guideline; per [[acg-2020-sibo]]:
 
 1. [[aga-2020-probiotics|AGA Clinical Practice Guidelines on the Role of Probiotics in the Management of Gastrointestinal Disorders]]
 2. [[acg-2020-sibo|ACG 2020: Small Intestinal Bacterial Overgrowth]]
+3. [[aga-2026-cdiff-adults|AGA Clinical Practice Update on Management of Clostridioides difficile Infection in Adults: Expert Review (2026)]]
+4. [[aga-2026-cdiff-ibd|AGA Clinical Practice Update on Management of Clostridioides difficile Infection in Inflammatory Bowel Disease: Expert Review (2026)]]
+5. [[acg-2021-cdiff|ACG 2021: Prevention, Diagnosis, and Treatment of Clostridioides difficile Infections]]

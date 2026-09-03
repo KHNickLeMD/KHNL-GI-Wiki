@@ -4,7 +4,7 @@ category: disease-script
 tags: [cirrhosis, liver, hpb, decompensation, compensated, meld, child-pugh, vocal-penn, csph, portal-hypertension, fibrosis, f4, nilda, fib-4, elastography, perioperative, frailty, palliative-care, liver-transplant]
 created: 2026-07-16
 updated: 2026-09-03
-sources: [aasld-2023-portal-hypertension, aasld-2024-nilda-blood, aasld-2024-nilda-portal-htn, acg-2025-perioperative-cirrhosis, aasld-2021-ascites-sbp-hrs, aasld-2021-malnutrition-cirrhosis, aasld-2024-aclf, aga-2021-cirrhosis-coagulation, aasld-2022-palliative-cirrhosis, nccn-2026-hcc, baveno-vii-2022-portal-hypertension, aasld-ast-2025-liver-transplant-candidate-evaluation]
+sources: [aasld-2023-portal-hypertension, aasld-2024-nilda-blood, aasld-2024-nilda-portal-htn, acg-2025-perioperative-cirrhosis, aasld-2021-ascites-sbp-hrs, aasld-2021-malnutrition-cirrhosis, aasld-2024-aclf, aga-2021-cirrhosis-coagulation, aasld-2022-palliative-cirrhosis, nccn-2026-hcc, baveno-viii-2026-portal-hypertension, baveno-vii-2022-portal-hypertension, aasld-ast-2025-liver-transplant-candidate-evaluation]
 ---
 
 ## Contents
@@ -12,7 +12,7 @@ sources: [aasld-2023-portal-hypertension, aasld-2024-nilda-blood, aasld-2024-nil
   - [[#Establishing the Diagnosis]]
   - [[#Severity Assessment]]
   - [[#Classification / Typing]]
-  - [[#Recompensation (Baveno VII)]]
+  - [[#Recompensation (Baveno VIII)]]
 - [[#Differential Diagnosis]]
 - [[#Diagnostics]]
 - [[#Therapeutics]]
@@ -114,31 +114,54 @@ flowchart TD
 
 *The [[hepatic-venous-pressure-gradient|HVPG]] thresholds, the cACLD concept, and the LSM/platelet "Rule of Five" that subdivide the compensated stage are detailed on [[portal-hypertension]].*
 
-**Baveno VII stage definitions** [[baveno-vii-2022-portal-hypertension]]:
+**Baveno VIII stage definitions** [[baveno-viii-2026-portal-hypertension]]:
 
 | Stage | Definition |
 |---|---|
-| **Compensated** | No present or past complications of cirrhosis (A.1, 5.1); subdivided by presence/absence of CSPH (A.1, 5.2) |
-| **Decompensated** | Overt [[ascites]] (or pleural effusion with SAAG >1.1 g/dL), overt [[hepatic-encephalopathy\|HE]] (**West Haven grade ≥II**), or [[variceal-upper-gi-bleeding\|variceal bleeding]] (B.1, 5.4) |
-| **Further decompensation** | Any of: (a) a **second** PH-driven decompensating event and/or [[jaundice\|jaundice]]; (b) recurrent variceal bleeding, recurrent ascites (**≥3 large-volume paracenteses in 1 year**), recurrent HE, [[spontaneous-bacterial-peritonitis\|SBP]], and/or [[aki-in-cirrhosis\|HRS-AKI]]; (c) in a patient presenting with bleeding alone, ascites/HE/jaundice developing **after recovery** from the bleed — but not events occurring around the time of the bleed (B.1, 7.1). Higher mortality than first decompensation |
-| **Recompensation** | See below |
+| **Compensated** | Absence of **current or past** decompensation (3.1); subdivided by presence/absence of CSPH (3.2a). The main therapeutic goal in the CSPH substage is to **prevent decompensation** (3.2e) |
+| **Decompensated (first decompensation)** | Clinically evident [[ascites]] **or hepatic hydrothorax** caused by portal hypertension, [[variceal-upper-gi-bleeding\|variceal bleeding]], and/or overt [[hepatic-encephalopathy\|HE]] (**West Haven grade ≥II**) (3.3) |
+| **Further decompensation** | Event-specific — see the table below (4.1). Higher mortality than first decompensation |
+| **Recompensation** | See [[#Recompensation (Baveno VIII)]] |
 
-*Not yet settled as decompensation* (D.1, 5.6–5.7): imaging-only minimal ascites, minimal HE, occult portal hypertensive gastroenteropathy bleeding, and isolated jaundice in non-cholestatic aetiologies.
+**Further decompensation — the operative definition (Baveno VIII 4.1).** Baveno VII 7.1 listed the qualifying events in one block; Baveno VIII makes what counts depend on **which** event came first:
 
-**Precipitants of decompensation:** superimposed liver injury — acute alcoholic hepatitis, acute HEV/HAV, HBV flare, [[drug-induced-liver-injury|DILI]] (A.1, 5.12); also [[hepatocellular-carcinoma|HCC]] and major surgery in patients with CSPH (B.1, 5.13); bacterial infections in compensated patients with CSPH (B.1, 5.10).
+| Index decompensation | Further decompensation is… |
+|---|---|
+| **Ascites** | ≥3 large-volume paracenteses within 1 year, **or** [[spontaneous-bacterial-peritonitis\|SBP]], **or** [[aki-in-cirrhosis\|HRS-AKI]], **or** a second decompensating event (CSPH-related bleeding, overt HE, or [[jaundice\|jaundice]]) |
+| **Variceal bleeding** | CSPH-related **re-bleeding**, **or** a second decompensating event (ascites, overt HE, or jaundice) |
+| **Overt HE** | **Recurrent** overt HE, **or** a second decompensating event (ascites, bleeding, or jaundice) |
+| **≥2 decompensating events already** | Any combination of ascites, PH-related bleeding, overt HE and/or jaundice |
 
-### Recompensation (Baveno VII)
+- ⚠ **Baveno VII's "bleeding-alone" carve-out is gone.** VII 7.1c said that in a patient presenting with bleeding alone, ascites/HE/jaundice counted **only if they developed after recovery** from the bleed, not around the time of it. Baveno VIII's bleeding row has no such timing qualifier; validating the prognostic weight of events within 5 days of an AVB is instead a research-agenda item (RA4.1).
+- **Not decompensation** (3.4a — VII said only that data were "insufficient"): **minimal ascites or ascites detectable only on imaging**, **covert HE**, and **occult bleeding from portal hypertensive gastroenteropathy**. Imaging-only ascites may nonetheless carry decreased survival (3.4b). **Isolated jaundice** in non-cholestatic aetiologies may be the first clinical manifestation in a minority, but its definition and prognostic implications remain unsettled (3.5).
+- **Jaundice as the sole manifestation of further decompensation** demands an **immediate, exhaustive search for a precipitant** — bacterial infection (even if asymptomatic), alcohol-related hepatitis, viral or autoimmune hepatitis flare, [[drug-induced-liver-injury|DILI]], or biliary obstruction (6.25).
 
-Cirrhosis can regress. **All three criteria are required** (C.2, 7.23) [[baveno-vii-2022-portal-hypertension]]:
+**Precipitants of decompensation** (Baveno VIII 3.6–3.13): superimposed acute liver injury — alcohol-related hepatitis, acute HEV/HAV/HBV, HBV flares, [[autoimmune-hepatitis|autoimmune hepatitis]], [[drug-induced-liver-injury|DILI]] — can precipitate decompensation **and/or [[acute-on-chronic-liver-failure|ACLF]]** (3.7); [[hepatocellular-carcinoma|HCC]] development raises the risk of decompensation and/or death (3.6); **surgery, especially major surgery**, precipitates decompensation and/or ACLF in patients with CSPH, with risk rising as portal hypertension worsens (3.13); bacterial infections do the same in compensated patients with CSPH (3.10). Diabetes and overweight/obesity are frequent comorbidities that worsen prognosis (3.8). **Periodontal disease** is associated with a higher risk of decompensation (3.12), and regular dental/periodontal care may lower it (3.23). Data on sarcopenia and frailty in the *compensated* stage remain inconclusive (3.9).
 
-1. **Removal / suppression / cure of the primary aetiology** — HCV eradication, sustained HBV suppression, or sustained alcohol abstinence
-2. **Resolution of decompensating events, sustained ≥12 months** — ascites resolved **off diuretics**, HE resolved **off lactulose/[[rifaximin|rifaximin]]**, and no recurrent variceal haemorrhage
-3. **Stable improvement in liver function tests** — albumin, INR, bilirubin
+### Recompensation (Baveno VIII)
 
-Two corollaries:
+**Recompensation is a stage transition, not a histological one.** It defines cirrhosis that has moved from a decompensated back to a compensated stage **after aetiologic therapy**, so the term applies **only to patients who developed overt decompensating events** (7.1). It is **not** cirrhosis regression, which means histological reversal from cirrhotic to non-cirrhotic architecture (7.2). Recompensation carries a significantly lower risk of death and HCC than remaining decompensated (7.3). [[baveno-viii-2026-portal-hypertension]]
 
-- **Not recompensation** (B.1, 7.25): ascites controlled *on* diuretics or after [[tips|TIPS]], or freedom from rebleeding *on* NSBB + EVL or after TIPS, when the aetiology has not been removed and synthetic function has not improved
-- **Do not stop NSBBs on recompensation** — CSPH may persist; continue unless CSPH itself resolves (B.1, 7.24)
+**All of the following are required (7.4):**
+
+| # | Criterion | What changed from [[baveno-vii-2022-portal-hypertension\|Baveno VII]] |
+|---|---|---|
+| **a** | **Removal, control or suppression of the primary aetiology/aetiologies** | Adds "control" alongside removal/suppression |
+| **b** | **Resolution of ascites on imaging off diuretics**, and **no clinical evidence of HE off lactulose / [[rifaximin\|rifaximin]] / LOLA** — unless those drugs are indicated for a non-ascites or non-HE condition | Adds the imaging standard, LOLA, and the "indicated for something else" exemption |
+| **c** | After variceal bleeding: **absence of recurrent variceal bleeding, regardless of ongoing carvedilol/cNSBB therapy** | VII was silent on whether being on an NSBB disqualified; VIII says explicitly that it does not |
+| **d** | Criteria a–c fulfilled for **>6 consecutive months** | **Halved from ≥12 months** |
+| **e** | Liver function tests improved into the **Child-Turcotte-Pugh A5/A6** range | Replaces VII's unquantified "stable improvement in albumin, INR, bilirubin" |
+
+**Aetiologic cure/control is defined per aetiology (7.5)** — evidence exists only for these three: **[[alcohol-associated-liver-disease|ALD]]** = sustained alcohol abstinence; **[[chronic-hepatitis-b|HBV]]** = sustained HBV-DNA suppression; **[[hepatitis-c|HCV]]** = sustained virological response. For [[primary-biliary-cholangitis|PBC]], [[autoimmune-hepatitis|AIH]], [[hepatitis-d|HDV]], and hereditary liver diseases the equivalent definitions are a research-agenda gap (RA7.2) — **do not extrapolate**.
+
+**Corollaries:**
+
+- **Not recompensation** (7.6, 7.7): ascites resolved *on* diuretics; absence of HE *on* lactulose/rifaximin/LOLA. Baveno VIII then says what to do about it — **withdraw the diuretic, and withdraw the HE medication, once aetiologic cure/control is achieved and synthetic function has reached CTP A laboratory criteria** — and re-assess.
+- **[[tips|TIPS]] does not disqualify.** Baveno VIII 7.8 states that **patients with TIPS may achieve recompensation** if all 7.4 criteria are met — a change from Baveno VII 7.25, which read as excluding the post-TIPS patient. What still does *not* count is resolution of ascites **alone**, or absence of rebleeding **alone**, after TIPS.
+- **Predictors of *not* recompensating (7.9–7.12):** higher CTP and MELD at decompensation, presence of further decompensation, high-risk varices, longer time from decompensation to aetiological therapy, and the type/number of decompensating events.
+- **Follow-up does not stop.** Recompensated patients stay under **hepatology follow-up at 6-monthly intervals** (7.13) and **continue regular [[hcc-surveillance|HCC surveillance]]** (7.14) — the HCC risk is lower than in the decompensated, not absent.
+- **[[spontaneous-bacterial-peritonitis|SBP]] antibiotic prophylaxis should be discontinued on recompensation** (6.22).
+- **CSPH may resolve, but must be proven before stopping the NSBB** — thresholds and the "measure off the drug" rule are on [[portal-hypertension]] (7.15–7.19).
 
 ---
 
@@ -274,7 +297,7 @@ Malnutrition, sarcopenia, and frailty are **very common and potentially modifiab
 
 ## See Also
 
-[[portal-hypertension]], [[porto-sinusoidal-vascular-disorder]], [[ascites]], [[spontaneous-bacterial-peritonitis]], [[hepatic-encephalopathy]], [[variceal-upper-gi-bleeding]], [[hepatocellular-carcinoma]], [[hcc-surveillance]], [[aki-in-cirrhosis]], [[acute-on-chronic-liver-failure]], [[acute-liver-failure]], [[portal-vein-thrombosis]], [[budd-chiari-syndrome]], [[cirrhosis-hemostasis]], [[nutrition-in-liver-disease]], [[liver-transplantation]], [[noninvasive-liver-disease-assessment]], [[liver-biopsy]], [[abnormal-liver-chemistries]], [[hepatopulmonary-syndrome-portopulmonary-hypertension]], [[alcohol-associated-liver-disease]], [[nafld-masld]], [[chronic-hepatitis-b]], [[hepatitis-c]], [[primary-biliary-cholangitis]], [[primary-sclerosing-cholangitis]], [[autoimmune-hepatitis]], [[hereditary-hemochromatosis]], [[wilson-disease]], [[upper-endoscopy]], [[tips]], [[rifaximin]], [[direct-acting-antivirals]], [[antibiotic-prophylaxis-cirrhosis]], [[focal-liver-lesions]], [[obesity]], [[bariatric-surgery]], [[liver-stiffness-measurement]], [[hepatic-venous-pressure-gradient]], [[eus-guided-gallbladder-drainage]]
+[[portal-hypertension]], [[porto-sinusoidal-vascular-disorder]], [[ascites]], [[spontaneous-bacterial-peritonitis]], [[hepatic-encephalopathy]], [[variceal-upper-gi-bleeding]], [[hepatocellular-carcinoma]], [[hcc-surveillance]], [[aki-in-cirrhosis]], [[acute-on-chronic-liver-failure]], [[acute-liver-failure]], [[portal-vein-thrombosis]], [[budd-chiari-syndrome]], [[cirrhosis-hemostasis]], [[nutrition-in-liver-disease]], [[liver-transplantation]], [[noninvasive-liver-disease-assessment]], [[liver-biopsy]], [[abnormal-liver-chemistries]], [[hepatopulmonary-syndrome-portopulmonary-hypertension]], [[alcohol-associated-liver-disease]], [[nafld-masld]], [[chronic-hepatitis-b]], [[hepatitis-c]], [[hepatitis-d]], [[primary-biliary-cholangitis]], [[primary-sclerosing-cholangitis]], [[autoimmune-hepatitis]], [[hereditary-hemochromatosis]], [[wilson-disease]], [[upper-endoscopy]], [[tips]], [[rifaximin]], [[direct-acting-antivirals]], [[antibiotic-prophylaxis-cirrhosis]], [[focal-liver-lesions]], [[obesity]], [[bariatric-surgery]], [[liver-stiffness-measurement]], [[hepatic-venous-pressure-gradient]], [[eus-guided-gallbladder-drainage]], [[jaundice]], [[drug-induced-liver-injury]]
 
 ---
 
@@ -290,5 +313,6 @@ Malnutrition, sarcopenia, and frailty are **very common and potentially modifiab
 8. [[aga-2021-cirrhosis-coagulation|AGA Clinical Practice Guideline: Coagulation Disorders in Cirrhosis (2021)]]
 9. [[aasld-2022-palliative-cirrhosis|AASLD Practice Guidance: Palliative Care and Symptom-Based Management for Decompensated Cirrhosis (2022)]]
 10. [[nccn-2026-hcc|NCCN Clinical Practice Guidelines in Oncology: Hepatocellular Carcinoma (Version 1.2026)]]
-11. [[baveno-vii-2022-portal-hypertension|Baveno VII — Renewing Consensus in Portal Hypertension (2022)]]
-12. [[aasld-ast-2025-liver-transplant-candidate-evaluation|AASLD AST 2025: Practice Guideline on Adult Liver Transplantation — Candidate Evaluation]]
+11. [[baveno-viii-2026-portal-hypertension|Baveno VIII — Advancing Consensus in Portal Hypertension (2026)]]
+12. [[baveno-vii-2022-portal-hypertension|Baveno VII — Renewing Consensus in Portal Hypertension (2022)]]
+13. [[aasld-ast-2025-liver-transplant-candidate-evaluation|AASLD AST 2025: Practice Guideline on Adult Liver Transplantation — Candidate Evaluation]]

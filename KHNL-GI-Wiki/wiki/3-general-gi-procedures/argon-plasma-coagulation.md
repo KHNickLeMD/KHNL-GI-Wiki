@@ -4,12 +4,18 @@ category: general-procedure
 tags: [argon-plasma-coagulation, apc, endoscopic-hemostasis, thermal-therapy, ablation, gave, angioectasia, radiation-proctopathy]
 created: 2026-07-24
 updated: 2026-09-03
-sources: [asge-2019-radiation-proctopathy, asge-2010-anorectal-disorders, asge-2014-lgib, acg-2023-lgib, acg-2021-ugib, acg-2015-small-bowel-bleeding, asge-2017-small-bowel-bleeding, aga-2024-ida-management, baveno-vii-2022-portal-hypertension, usmstf-2020-endoscopic-removal, asge-2020-endoscopic-removal, asge-2015-ampullary-duodenal-adenomas, asge-2018-barretts-eet, aga-2024-barretts-eet, asge-2016-antithrombotic]
+sources: [asge-2019-radiation-proctopathy, asge-2010-anorectal-disorders, asge-2014-lgib, acg-2023-lgib, acg-2021-ugib, acg-2015-small-bowel-bleeding, asge-2017-small-bowel-bleeding, aga-2024-ida-management, baveno-vii-2022-portal-hypertension, usmstf-2020-endoscopic-removal, asge-2020-endoscopic-removal, asge-2015-ampullary-duodenal-adenomas, asge-2018-barretts-eet, aga-2024-barretts-eet, asge-2016-antithrombotic, aga-2026-electrosurgery]
 ---
 
 # Argon Plasma Coagulation (APC)
 
-Non-contact thermal ablation: monopolar current delivered to tissue through a jet of ionized argon gas. Ionization of the argon by electrocautery limits depth of injury ([[usmstf-2020-endoscopic-removal]], [[asge-2020-endoscopic-removal]]). Used for hemostasis of superficial vascular lesions and for ablation of residual/superficial neoplastic tissue.
+Non-contact thermal ablation: monopolar current delivered to tissue through a jet of ionized argon gas. Ionization of the argon by [[electrosurgery|electrocautery]] limits depth of injury ([[usmstf-2020-endoscopic-removal]], [[asge-2020-endoscopic-removal]]). Used for hemostasis of superficial vascular lesions and for ablation of residual/superficial neoplastic tissue.
+
+**How the two dials work** ([[aga-2026-electrosurgery]]): argon delivered to the catheter tip is ionized by a **high-voltage waveform** into plasma, which carries current to the nearest tissue along the **path of least resistance** — a **monopolar** circuit exiting through the dispersive pad.
+
+- **Power** sets the current conducted into tissue — **higher power and longer duration → deeper ablation**.
+- **Flow rate** sets the *volume* of plasma available to carry that current. It must be high enough to reach the target, but ⚠ **too high a flow disperses the current → low current density at the target**. **0.8–1.0 L/min is typically sufficient for most clinical settings.**
+- General electrosurgical principles (current density, waveforms, dispersive pad, cardiac devices) are on **[[electrosurgery]]**.
 
 ## Contents
 - [[#Why APC]]
@@ -51,6 +57,8 @@ Non-contact thermal ablation: monopolar current delivered to tissue through a je
 
 **Decision line for colorectal resection:** APC is for the *margin of a defect with nothing visible left*, never for tissue you can still see — the same guideline both recommends against it (visible residual tissue, strong) and suggests it (clean margin, conditional).
 
+⚠ **The 2020 "insufficient evidence to pick APC vs snare-tip soft coagulation" tie has since been broken** — equally effective in an RCT, but **STSC likely more cost-effective in most practice environments** ([[aga-2026-electrosurgery]]). Recurrence figures on [[endoscopic-mucosal-resection]].
+
 ---
 
 ## Settings and Technique
@@ -82,7 +90,8 @@ Non-contact thermal ablation: monopolar current delivered to tissue through a je
 
 - **Pooled serious adverse event rate 4% (95% CI 3–6%)** in chronic radiation proctopathy, where "serious" was pre-defined as colonic fistula, perforation, explosion, or stricture ([[asge-2019-radiation-proctopathy]]).
 - **Most common AE:** abdominal, rectal, or anal pain — from treatment-induced ulceration or from bowel distension by rapidly instilled argon gas ([[asge-2019-radiation-proctopathy]]).
-- **Colonic explosion** reported in 2 poorly prepped patients who had received an enema-only preparation ([[asge-2019-radiation-proctopathy]]).
+- **Colonic explosion** reported in 2 poorly prepped patients who had received an enema-only preparation ([[asge-2019-radiation-proctopathy]]). **Mechanism and prep rule:** poor preparation leaves higher **hydrogen and methane** concentrations which, with oxygen and a heat source, can ignite. **No consensus threshold exists for prep adequacy**, but a thorough **complete oral (not local colonic) preparation is highly advised** whenever APC is anticipated ([[aga-2026-electrosurgery]]).
+- **Argon gas is not absorbed** — track the total volume delivered; it causes luminal distension and risk of bowel perforation ([[aga-2026-electrosurgery]]). *(Periodic suction of insufflated argon, above.)*
 - **Perforation risk in the thin-walled right colon** drives the lower power/flow settings and the option of pre-injection ([[asge-2014-lgib]], [[acg-2023-lgib]]).
 - Head-to-head in proctopathy, bleeding from treatment ulcers during therapy was numerically **less** with APC than bipolar electrocoagulation (6.7% vs 33.3%, P = .17) ([[asge-2019-radiation-proctopathy]]).
 - Ablation of visible residual polyp tissue causes submucosal fibrosis and **increases recurrence** — an efficacy harm, not just a safety one ([[usmstf-2020-endoscopic-removal]]).
@@ -120,7 +129,7 @@ Unresolved: no ingested source reports a trial of APC vs sham or of treating onl
 
 ## See Also
 
-[[radiation-proctopathy]], [[angioectasia]], [[acute-lower-gi-bleeding]], [[upper-gi-bleeding]], [[small-bowel-bleeding]], [[peptic-ulcer-disease]], [[iron-deficiency-anemia]], [[ampullary-adenoma]], [[nonampullary-duodenal-adenoma]], [[barretts-esophagus]], [[endoscopic-mucosal-resection]], [[polypectomy]], [[radiofrequency-ablation]], [[device-assisted-enteroscopy]], [[capsule-endoscopy]], [[endoscopic-ultrasound]], [[colonoscopy]], [[portal-hypertension]], [[tips]], [[anticoagulation-gi-bleeding]]
+[[radiation-proctopathy]], [[angioectasia]], [[acute-lower-gi-bleeding]], [[upper-gi-bleeding]], [[small-bowel-bleeding]], [[peptic-ulcer-disease]], [[iron-deficiency-anemia]], [[ampullary-adenoma]], [[nonampullary-duodenal-adenoma]], [[barretts-esophagus]], [[endoscopic-mucosal-resection]], [[polypectomy]], [[radiofrequency-ablation]], [[device-assisted-enteroscopy]], [[capsule-endoscopy]], [[endoscopic-ultrasound]], [[colonoscopy]], [[portal-hypertension]], [[tips]], [[anticoagulation-gi-bleeding]], [[electrosurgery]]
 
 ---
 
@@ -141,3 +150,4 @@ Unresolved: no ingested source reports a trial of APC vs sham or of treating onl
 13. [[asge-2018-barretts-eet|ASGE Guideline: Endoscopic Eradication Therapy for Patients with Barrett's Esophagus-Associated Dysplasia and Intramucosal Cancer (2018)]]
 14. [[aga-2024-barretts-eet|AGA Clinical Practice Guideline: Endoscopic Eradication Therapy of Barrett's Esophagus and Related Neoplasia (2024)]]
 15. [[asge-2016-antithrombotic|ASGE 2016: The Management of Antithrombotic Agents for Patients Undergoing GI Endoscopy]]
+16. [[aga-2026-electrosurgery|AGA Clinical Practice Update on the Use of Electrosurgery in Therapeutic Endoscopy: Expert Review (2026)]]

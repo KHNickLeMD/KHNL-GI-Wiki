@@ -4,7 +4,7 @@ category: advanced-procedure
 tags: [tips, portal-hypertension, variceal-bleeding, refractory-ascites, hepatic-encephalopathy, pspg, ptfe-stent, rto, brto, interventional-radiology]
 created: 2026-07-16
 updated: 2026-09-03
-sources: [aasld-2024-tips, aasld-2021-ascites-sbp-hrs, aga-2025-ascites-cirrhosis, aasld-2021-vascular-pvt, wang-2026-eus-ppg-delphi-consensus]
+sources: [aasld-2024-tips, baveno-viii-2026-portal-hypertension, aasld-2021-ascites-sbp-hrs, aga-2025-ascites-cirrhosis, aasld-2021-vascular-pvt, wang-2026-eus-ppg-delphi-consensus]
 ---
 
 *Percutaneously created portosystemic shunt for complications of [[portal-hypertension|portal hypertension]] — [[variceal-upper-gi-bleeding|variceal hemorrhage]], refractory [[ascites|ascites]], and hepatic hydrothorax. Placed by interventional radiology, not endoscopically; included here because selection, timing, and post-procedure management are hepatology/GI decisions. Evidence below is AASLD **Practice Guidance** — consensus guidance statements from an expert panel, **not GRADE-rated recommendations** ([[aasld-2024-tips]]).*
@@ -53,7 +53,10 @@ sources: [aasld-2024-tips, aasld-2021-ascites-sbp-hrs, aga-2025-ascites-cirrhosi
 - **Preemptive TIPS criteria:** Child-Pugh class **C 10–13 points**, or Child-Pugh class **B 8–9 points with active bleeding at initial endoscopy** despite concomitant vasoactive agents → PTFE-covered stent within 72 h (ideally <24 h) of initial [[upper-endoscopy|upper endoscopy]]
   - *The Child-Turcotte-Pugh and MELD/MELD-Na scoring tables that assign these points live on [[cirrhosis]] — every TIPS selection and futility threshold below is read off them.*
   - ⚠ **Read the score name literally.** The TIPS thresholds below are stated by their sources as **plain MELD** (`MELD <18` for refractory ascites, `MELD >30` for salvage futility), **not MELD-Na** — the two differ by several points around exactly these cutoffs. Do not substitute one for the other.
-  - Encephalopathy, hyperbilirubinemia, and/or [[acute-on-chronic-liver-failure|ACLF]] at time of bleeding had **no impact on survival** in observational data and should **not** contraindicate preemptive TIPS
+  - **[[baveno-viii-2026-portal-hypertension|Baveno VIII]] 5.31 adds a third limb — HVPG ≥20 mmHg at the time of bleeding** — and now uses the same CTP bands as AASLD (**C 10–13**; **B >7 with active bleeding**). Baveno VII said CTP C **<14** and HVPG **>**20
+  - **Missed the 72 h window → TIPS may still benefit** (Baveno VIII 5.32, new): **within 2 weeks** for CTP C 10–13, **within 1 week** for CTP B >7 with active bleeding
+  - Encephalopathy, hyperbilirubinemia, and/or [[acute-on-chronic-liver-failure|ACLF]] at time of bleeding had **no impact on survival** in observational data and should **not** contraindicate preemptive TIPS. **Baveno VIII 5.33 adds MELD score and severe [[alcohol-associated-liver-disease|alcohol-related hepatitis]]** to the list of things that are **not absolute contraindications**
+  - Figure 3 of Baveno VIII qualifies the candidate profile as **age <75 y, creatinine <3 mg/dL, no heart failure**
   - Caveats: preemptive-TIPS RCTs enrolled mainly [[alcohol-associated-liver-disease|alcohol-associated]] and [[chronic-hepatitis-b|hepatitis B]]–related cirrhosis — generalizability to [[nafld-masld|MASH]]-related cirrhosis undetermined; a 2021 RCT (n=58) found similar 1-year survival vs standard of care, and the updated meta-analysis showed lower 6-week rebleeding but **no significant survival benefit**
 - **Secondary prevention:** TIPS is **second-line** — first-line remains NSBB (propranolol, nadolol, or carvedilol) + endoscopic variceal ligation; TIPS is treatment of choice for rebleeding despite that combination. RCTs consistently show TIPS prevents rebleeding but with **increased HE and no survival difference**
 - **No role in primary prevention** — of either esophageal or gastrofundal variceal bleeding
@@ -65,15 +68,29 @@ sources: [aasld-2024-tips, aasld-2021-ascites-sbp-hrs, aga-2025-ascites-cirrhosi
 
 - TIPS **preferred over repeated large-volume paracentesis** in well-selected refractory ascites patients — **MELD <18**, no advanced cardiopulmonary disease, no severe [[hepatic-encephalopathy|encephalopathy]]; **8–10 mm covered stent** preferred ([[aasld-2021-ascites-sbp-hrs]])
 - Well-selected patients with refractory ascites, hepatic hydrothorax, volume overload, or hyponatremia **should be referred for TIPS** (AGA BPA 7, [[aga-2025-ascites-cirrhosis]])
-- Refractory ascites and/or hydrothorax should also prompt [[liver-transplantation|liver transplant]] evaluation **regardless of MELD** (AGA BPA 4)
+- Refractory ascites and/or hydrothorax should also prompt [[liver-transplantation|liver transplant]] evaluation **regardless of MELD** (AGA BPA 4). **[[baveno-viii-2026-portal-hypertension|Baveno VIII]] 6.4 goes further — TIPS and LT should be *discussed together*, not sequentially**
+
+**Baveno VIII additions for recurrent/refractory ascites and hydrothorax (Panel 6, all new):**
+
+- **Dilate to the smallest diameter that achieves an adequate response** — this is the stated way to reduce **post-TIPS overshunting (HE, cardiac failure)** while preserving efficacy (6.5). **If ascites does not improve, dilate stepwise** (6.6) rather than starting large
+- **Refractory hepatic hydrothorax** despite standard medical treatment → consider TIPS (6.7)
+- **Older adults (≥70 years)** may be considered on a case-by-case basis, weighing benefit against risk (6.8) — a narrower age framing than the ">75 excluded from RCTs" note under [[#Contraindications]]
+- **Assess renal function systematically and stage CKD by eGFR** before TIPS for recurrent/refractory ascites, for risk stratification (6.9)
+- **Not a TIPS candidate → long-term albumin may be considered** to improve ascites control and reduce ascites-related complications (6.10); **contraindication or inadequate response to TIPS, and not an LT candidate → home-based drainage devices** (tunnelled peritoneal catheter or low-flow ascites pump) as an alternative to repeated large-volume paracentesis (6.11). See [[ascites]]
+- **[[hepatocellular-carcinoma|HCC]] is not an absolute contraindication** to TIPS for recurrent/refractory ascites or hepatic hydrothorax **unless the tumour lies along the TIPS trajectory**; better decompensation control may in fact open access to effective oncological treatment (4.15)
+- **Sarcopenia and frailty alone should neither indicate nor contraindicate TIPS** — weigh them alongside the rest of the pre-TIPS work-up (4.19)
 
 ### Vascular
 
 - **Bland (noncancerous) [[portal-vein-thrombosis|PVT]], acute or chronic, does not preclude TIPS** — but shunt creation ± thrombectomy may need specialized skills (transhepatic, trans-splenic approaches); refer to experienced centers
+  - **[[baveno-viii-2026-portal-hypertension|Baveno VIII]] 9.26–9.28:** TIPS for **main portal vein thrombosis not improving on anticoagulation** when there are complications of portal hypertension, or to facilitate a physiological anastomosis in a transplant candidate; **TIPS may be first-line when anticoagulation is contraindicated** (9.27, new); and **routine anticoagulation after TIPS is *not* recommended** in cirrhosis with PVT (9.28, new — LoE 2, strong)
+  - In **non-cirrhotic** PVT, TIPS belongs to the chronic-PVT toolkit (with angioplasty ± stenting), while thrombolysis/thrombectomy address acute/recent clot; TIPS is specifically indicated where **intrahepatic resistance is increased** — [[porto-sinusoidal-vascular-disorder|PSVD/NCPF]], or extension into the intrahepatic branches (9.12–9.13)
   - Outcomes: **84%** 1-year TIPS stent patency, **78%** 1-year portal vein patency, **10%** major complications
   - Portal vein recanalization + TIPS may improve [[liver-transplantation|transplant]] candidacy by restoring a portal vein suitable for anastomosis and graft perfusion
   - In PVT with recurrent bleeding after failure of medical/endoscopic therapy, consider recanalization followed by TIPS ([[aasld-2021-vascular-pvt]]) — i.e. still **second-line**, as in patients without PVT
-- **[[budd-chiari-syndrome|Budd-Chiari syndrome]]:** TIPS sits third in the stepwise ladder — anticoagulation → angioplasty/stenting of short-segment obstruction → TIPS → transplant for failure/decompensation ([[aasld-2021-vascular-pvt]])
+- **[[budd-chiari-syndrome|Budd-Chiari syndrome]]:** TIPS sits third in the stepwise ladder — anticoagulation → angioplasty/stenting of short-segment obstruction → TIPS → transplant for failure/decompensation ([[aasld-2021-vascular-pvt]]; [[baveno-viii-2026-portal-hypertension]] 8.31, 8.34). BCS presenting as [[acute-liver-failure|acute liver failure]] → **salvage TIPS if possible, independent of transplant listing** (8.37)
+- **[[porto-sinusoidal-vascular-disorder|PSVD/NCPF]] and other vascular liver disease:** TIPS for **refractory or recurrent portal-hypertensive bleeding** (8.13). ⚠ **There is no data supporting pre-emptive TIPS in vascular liver disease** (8.14) — do not extrapolate the cirrhosis p-TIPS criteria
+- **Pre-operative TIPS before major surgery** may be considered to reduce the risk of postoperative decompensation in compensated cirrhosis/cACLD with CSPH; **TIPS is *not* recommended to prevent decompensation otherwise** ([[baveno-viii-2026-portal-hypertension]] 3.20)
 - **Sinistral (left-sided/segmental) portal hypertension** from isolated splenic vein thrombosis/compression **will not benefit from TIPS** — consider splenectomy, splenic embolization, or trans-splenic ATO
 
 ## Contraindications
@@ -88,7 +105,11 @@ sources: [aasld-2024-tips, aasld-2021-ascites-sbp-hrs, aga-2025-ascites-cirrhosi
 - **No specific MELD threshold contraindicates TIPS** *as a general contraindication*, although higher MELD predicts higher mortality. This is **not** in conflict with the futility rule below: that rule is scoped to **salvage/rescue** TIPS in uncontrolled bleeding, not to elective TIPS
 - Most variceal-bleeding trials excluded **Child-Pugh >13**; patients **>75** were excluded from RCTs and TIPS in those >70 has been infrequent (recent data suggest acceptable outcomes in highly selected patients >70)
 - Risk–benefit differs when TIPS is a last-resort, life-saving procedure (uncontrolled hemorrhage) vs when alternatives exist (secondary prevention, refractory ascites)
-- **Futility:** MELD **>30**, lactate **>12 mmol/L**, or Child-Pugh **>13** → do not use salvage/rescue TIPS unless as a **short-term bridge to transplant**
+- **Futility (AASLD 2024 GS 23 — superseded by Baveno VIII):** MELD **>30**, lactate **>12 mmol/L**, or Child-Pugh **>13** → do not use salvage/rescue TIPS unless as a **short-term bridge to transplant**
+
+> ⚠ **The numeric futility rule has been withdrawn by the consortium that wrote it.** [[aasld-2024-tips]] GS 23 inherited these thresholds from [[baveno-vii-2022-portal-hypertension|Baveno VII]] 6.31. **[[baveno-viii-2026-portal-hypertension|Baveno VIII]] 5.37 replaces them: "Salvage TIPS should be discussed for any refractory variceal bleeding, regardless of age, the Child-Pugh and MELD scores, on a case-by-case basis"** (LoE 3, strong) — and its research agenda calls for a **new externally validated futility score** (RA5.13). Both documents are tier-1 and Baveno VIII is newer, so the wiki's position is Baveno VIII's; the AASLD numbers are kept above because they are still in wide use and readers carry them, **not because they should gate the decision**.
+>
+> **What survives:** a high MELD, a high lactate and a Child-Pugh >13 still describe a patient at very high risk of dying, and Baveno VIII 5.46 still asks for "futility criteria related to both liver function and tumour prognosis" to be accounted for where HCC is present. The change is that these numbers no longer function as an automatic exclusion.
 
 ## Technique
 
@@ -137,8 +158,11 @@ sources: [aasld-2024-tips, aasld-2021-ascites-sbp-hrs, aga-2025-ascites-cirrhosi
 - 8-mm stents (higher post-TIPS PSPG) → lower HE than 10-mm, with similar efficacy against rebleeding and similar patency
 - **Management:** lactulose + [[rifaximin|rifaximin]] controls the vast majority
 - **Prophylaxis:** [[rifaximin|rifaximin]] **550 mg BID started ≤14 days before elective TIPS and continued 6 months** reduced overt HE in a double-blind multicenter RCT — but 81% of enrolled patients had TIPS for ascites and 86% had alcohol-related cirrhosis, leaving uncertainty about extrapolation to bleeding indications and other etiologies
-- **Refractory HE despite lactulose + rifaximin:** endovascular **reduction of TIPS diameter (recalibration)**. If post-reduction PSPG >12 mm Hg → treat with NSBBs or perform screening/surveillance endoscopy with endoscopic variceal treatment as appropriate
-- Concurrent **embolization of large spontaneous portosystemic shunts** at the time of TIPS decreased overt HE in an RCT
+  - **[[baveno-viii-2026-portal-hypertension|Baveno VIII]] 6.16 broadens the indication:** rifaximin **should be considered for HE prophylaxis in *any* candidate for elective TIPS** (LoE 2, strong). Baveno VII 4.9 restricted it to patients **with previous overt HE**
+- **Assess HE history and current HE medications before elective TIPS** (6.14) — but **a history of prior overt HE is not an absolute contraindication**; individualise (6.15)
+- **Refractory HE despite lactulose + rifaximin:** endovascular **reduction of TIPS diameter (recalibration)**. If post-reduction PSPG >12 mm Hg → treat with NSBBs or perform screening/surveillance endoscopy with endoscopic variceal treatment as appropriate. **Baveno VIII 6.17** frames the options as **spontaneous shunt embolization and/or reduction or occlusion of the TIPS**, after precipitants have been removed and standard medical treatment has failed
+- **Refractory overt HE after TIPS may be a reason to prioritise [[liver-transplantation|liver transplantation]]** (Baveno VIII 5.34, new)
+- Concurrent **embolization of large spontaneous portosystemic shunts** at the time of TIPS decreased overt HE in an RCT; Baveno VIII 6.12 recommends **embolisation of large portosystemic shunts for recurrent/persistent HE despite optimal pharmacological therapy**, alongside an LT discussion, **particularly when liver function is preserved**
 
 **Other long-term**
 - **Liver function:** slight ↑ bilirubin and INR, without a signal for increased liver-failure–related deaths
@@ -240,15 +264,16 @@ Priority research areas named by [[aasld-2024-tips]]: optimal intraprocedural PS
 
 ## See Also
 
-[[portal-hypertension]], [[variceal-upper-gi-bleeding]], [[ascites]], [[hepatic-encephalopathy]], [[cirrhosis]], [[portal-vein-thrombosis]], [[budd-chiari-syndrome]], [[rifaximin]], [[liver-transplantation]], [[upper-endoscopy]], [[endoscopic-ultrasound]], [[acute-on-chronic-liver-failure]], [[aki-in-cirrhosis]], [[cirrhosis-hemostasis]], [[hepatopulmonary-syndrome-portopulmonary-hypertension]], [[hepatic-cysts]], [[nafld-masld]], [[hepatic-venous-pressure-gradient]], [[interventional-eus-vascular]], [[alcohol-associated-liver-disease]], [[chronic-hepatitis-b]], [[endoscopy-sedation]]
+[[portal-hypertension]], [[variceal-upper-gi-bleeding]], [[ascites]], [[hepatic-encephalopathy]], [[cirrhosis]], [[portal-vein-thrombosis]], [[budd-chiari-syndrome]], [[porto-sinusoidal-vascular-disorder]], [[rifaximin]], [[liver-transplantation]], [[upper-endoscopy]], [[endoscopic-ultrasound]], [[acute-on-chronic-liver-failure]], [[acute-liver-failure]], [[aki-in-cirrhosis]], [[cirrhosis-hemostasis]], [[hepatopulmonary-syndrome-portopulmonary-hypertension]], [[hepatic-cysts]], [[nafld-masld]], [[hepatic-venous-pressure-gradient]], [[interventional-eus-vascular]], [[alcohol-associated-liver-disease]], [[chronic-hepatitis-b]], [[endoscopy-sedation]], [[hepatocellular-carcinoma]], [[albumin]]
 
 ---
 
 ## Sources
 
 1. [[aasld-2024-tips|AASLD Practice Guidance: TIPS, Variceal Embolization, and Retrograde Transvenous Obliteration (2024)]]
-2. [[aasld-2021-ascites-sbp-hrs|AASLD 2021: Diagnosis, Evaluation, and Management of Ascites, SBP, and HRS in Cirrhosis]]
-3. [[aga-2025-ascites-cirrhosis|AGA Clinical Practice Update on the Management of Ascites, Volume Overload, and Hyponatremia in Cirrhosis: Expert Review]]
-4. [[aasld-2021-vascular-pvt|AASLD Practice Guidance: Vascular Liver Disorders, Portal Vein Thrombosis, and Procedural Bleeding in Cirrhosis (2021)]]
-5. [[wang-2026-eus-ppg-delphi-consensus|International Expert Delphi Consensus on Endoscopic Ultrasound-guided Portosystemic Pressure Gradient: Best Practices and Future Directions]]
+2. [[baveno-viii-2026-portal-hypertension|Baveno VIII — Advancing Consensus in Portal Hypertension (2026)]]
+3. [[aasld-2021-ascites-sbp-hrs|AASLD 2021: Diagnosis, Evaluation, and Management of Ascites, SBP, and HRS in Cirrhosis]]
+4. [[aga-2025-ascites-cirrhosis|AGA Clinical Practice Update on the Management of Ascites, Volume Overload, and Hyponatremia in Cirrhosis: Expert Review]]
+5. [[aasld-2021-vascular-pvt|AASLD Practice Guidance: Vascular Liver Disorders, Portal Vein Thrombosis, and Procedural Bleeding in Cirrhosis (2021)]]
+6. [[wang-2026-eus-ppg-delphi-consensus|International Expert Delphi Consensus on Endoscopic Ultrasound-guided Portosystemic Pressure Gradient: Best Practices and Future Directions]]
 

@@ -4,7 +4,7 @@ category: diagnostic-schema
 tags: [ascites, cirrhosis, saag, paracentesis, diuretics, tips]
 created: 2026-05-15
 updated: 2026-09-03
-sources: [aasld-2021-ascites-sbp-hrs, aga-2025-ascites-cirrhosis, aga-2024-vasoactive-albumin-cirrhosis]
+sources: [aasld-2021-ascites-sbp-hrs, aga-2025-ascites-cirrhosis, aga-2024-vasoactive-albumin-cirrhosis, baveno-viii-2026-portal-hypertension]
 ---
 
 ## Contents
@@ -26,6 +26,7 @@ sources: [aasld-2021-ascites-sbp-hrs, aga-2025-ascites-cirrhosis, aga-2024-vasoa
   - [[#Diuretics (Grade 2 Ascites)]]
   - [[#Large-Volume Paracentesis (LVP) — Grade 3 and Refractory Ascites]]
   - [[#TIPS (Refractory Ascites)]]
+  - [[#When TIPS Is Not an Option (Baveno VIII)]]
   - [[#Liver Transplantation]]
   - [[#Nonselective Beta-Blockers (NSBBs)]]
   - [[#Hepatic Hydrothorax (AGA 2025)]]
@@ -236,10 +237,26 @@ SAAG = serum albumin − ascitic fluid albumin (simultaneous samples)
 - Caution with diuretics post-TIPS (may delay effective arterial volume refilling)
 - If ascites recurs after TIPS: venogram to assess stenosis; Doppler surveillance in patients with prior TIPS revision or prothrombotic state
 
+**[[baveno-viii-2026-portal-hypertension|Baveno VIII]] Panel 6 — new, and mostly about *how* to shunt rather than whether:**
+
+- **Recurrent or refractory ascites → consider TIPS** (6.3), and **discuss TIPS and [[liver-transplantation|LT]] together** rather than sequentially (6.4)
+- **Dilate to the smallest diameter that achieves an adequate response** — explicitly to reduce **post-TIPS overshunting ([[hepatic-encephalopathy|HE]], cardiac failure)** while preserving efficacy (6.5). **If ascites does not improve, dilate stepwise** (6.6) rather than starting large
+- **Stage the kidneys before you shunt:** assess renal function systematically and **stage CKD by eGFR** for risk stratification in every TIPS evaluation for recurrent/refractory ascites (6.9)
+- **Selected older adults (≥70 years)** may be considered case-by-case on benefit/risk (6.8)
+- **[[hepatocellular-carcinoma|HCC]] is not an absolute contraindication** to TIPS for recurrent/refractory ascites or hepatic hydrothorax **unless the tumour lies along the TIPS trajectory** — better decompensation control may open access to oncological treatment (4.15)
+- **Sarcopenia and frailty alone should neither indicate nor contraindicate TIPS** (4.19) — weigh them with the rest of the work-up rather than as a veto
+
+### When TIPS Is Not an Option (Baveno VIII)
+
+Two alternatives that [[baveno-vii-2022-portal-hypertension|Baveno VII]] could not recommend:
+
+- **Long-term albumin may be considered** in recurrent/refractory ascites in patients who are **not TIPS candidates** — it can improve ascites control and reduce ascites-related complications ([[baveno-viii-2026-portal-hypertension]] 6.10, LoE 3, weak). ⚠ **Baveno VII 4.4 said a formal recommendation "cannot be given until further data become available."** Baveno VIII gives a weak one, scoped to the non-TIPS-candidate. Which patients benefit, the optimal baseline albumin at which to start, and when to call it futile all remain research questions (RA4.12)
+- **Home-based drainage devices — a tunnelled peritoneal catheter or a low-flow ascites pump — may be considered as an alternative to repeated large-volume paracentesis** in patients with refractory ascites who have a **contraindication to, or inadequate response from, TIPS** and are **not LT candidates** (6.11, LoE 3, weak, new)
+
 ### Liver Transplantation
 
 - Referral for [[liver-transplantation|evaluation]] indicated with grade 2 or 3 ascites
-- Strongly consider in refractory ascites
+- Strongly consider in refractory ascites; **Baveno VIII 6.1: all patients with further decompensation should be evaluated for LT**, and 6.2: **aetiological cure/control improves survival and should be pursued** even at that stage
 - Patients with RA may be disadvantaged by MELD-based allocation; MELD-Na addresses hyponatremia component
 
 ### Nonselective Beta-Blockers (NSBBs)
@@ -251,7 +268,7 @@ SAAG = serum albumin − ascitic fluid albumin (simultaneous samples)
 
 - Transudative pleural effusion (usually right-sided) from ascitic fluid migrating across diaphragmatic defects; managed like ascites (sodium restriction + low-dose diuretics).
 - **Dyspnea and/or hypoxemia → therapeutic thoracentesis** — for symptom relief and re-expansion of the underlying lung.
-- **Refractory hepatic hydrothorax:** serial therapeutic thoracentesis with frequency guided by recurrence; consider [[liver-transplantation|LT]] evaluation regardless of MELD, and TIPS in well-selected candidates.
+- **Refractory hepatic hydrothorax:** serial therapeutic thoracentesis with frequency guided by recurrence; consider [[liver-transplantation|LT]] evaluation regardless of MELD, and **TIPS** in well-selected candidates — [[baveno-viii-2026-portal-hypertension|Baveno VIII]] 6.7 states this as a recommendation (LoE 3, strong): *hepatic hydrothorax refractory to standard medical treatment → TIPS should be considered.* Baveno VIII 3.3 also counts **hepatic hydrothorax caused by portal hypertension as a first decompensating event**, alongside clinically evident ascites.
 - Chest tubes are generally avoided (high morbidity/protein-and-fluid loss).
 
 ### Inpatient Volume Overload / Refractory Anasarca (AGA 2025)
@@ -284,7 +301,7 @@ SAAG = serum albumin − ascitic fluid albumin (simultaneous samples)
 
 ## See Also
 
-[[cirrhosis]], [[tips]], [[spontaneous-bacterial-peritonitis]], [[aki-in-cirrhosis]], [[portal-hypertension]], [[hepatic-encephalopathy]], [[liver-transplantation]], [[alcohol-associated-liver-disease]], [[nutrition-in-liver-disease]], [[noninvasive-liver-disease-assessment]], [[albumin]]
+[[cirrhosis]], [[tips]], [[spontaneous-bacterial-peritonitis]], [[aki-in-cirrhosis]], [[portal-hypertension]], [[hepatic-encephalopathy]], [[liver-transplantation]], [[alcohol-associated-liver-disease]], [[nutrition-in-liver-disease]], [[noninvasive-liver-disease-assessment]], [[albumin]], [[hepatocellular-carcinoma]], [[variceal-upper-gi-bleeding]]
 
 ---
 
@@ -293,3 +310,4 @@ SAAG = serum albumin − ascitic fluid albumin (simultaneous samples)
 1. [[aasld-2021-ascites-sbp-hrs|AASLD 2021: Diagnosis, Evaluation, and Management of Ascites, SBP, and HRS in Cirrhosis]]
 2. [[aga-2025-ascites-cirrhosis|AGA Clinical Practice Update on the Management of Ascites, Volume Overload, and Hyponatremia in Cirrhosis: Expert Review]]
 3. [[aga-2024-vasoactive-albumin-cirrhosis|AGA Clinical Practice Update on the Use of Vasoactive Drugs and Intravenous Albumin in Cirrhosis: Expert Review (2024)]]
+4. [[baveno-viii-2026-portal-hypertension|Baveno VIII — Advancing Consensus in Portal Hypertension (2026)]]

@@ -6,6 +6,102 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-09-03] ingest | Baveno VIII (2026) — Advancing Consensus in Portal Hypertension
+
+**Source created:**
+
+- [[baveno-viii-2026-portal-hypertension]] — EASL/ESGE/ERN RARE-LIVER consensus, J Hepatol 2026 (accepted pre-proof), doi:10.1016/j.jhep.2026.07.030. All **272** statements captured verbatim/near-verbatim with LoE, SoR, change status and % agreement, by panel; plus a 45-row *What changed from Baveno VII* table, the 5 figures recreated as text/Mermaid, and the prior-Baveno still-valid box.
+
+**Supersession:**
+
+- Baveno VIII replaces [[baveno-vii-2022-portal-hypertension]] as the wiki's portal-hypertension authority. Every page below states the VIII position and names the old value beside it, per Content Guide → *if a rule changed between guideline versions, say what changed*. Baveno VII was also moved out of the `### AASLD` index section, where it had been mis-filed, into a new `### EASL` section beside VIII and flagged as superseded.
+
+**Pages updated (16):**
+
+- [[portal-hypertension]] — new 3-limb non-invasive CSPH diagnosis (ANTICIPATE/NICER ≥75%, LSM ≥25 kPa, SSM 100 Hz >55 kPa); revised endoscopy-sparing rule and 2 y/3 y repeat-EGD intervals; NITs in HCC; statin/anticoagulation reversal; gastric-variceal primary prophylaxis; pre-operative TIPS; paediatric statements; NSBB-stop rules after recompensation
+- [[cirrhosis]] — Baveno VIII stage definitions, the event-specific further-decompensation table, and the rewritten recompensation criteria (CTP A5/A6, >6 months, TIPS eligible)
+- [[porto-sinusoidal-vascular-disorder]] — rewritten: PSVD/NCPF dual nomenclature, point-scoring diagnosis, ≥15 mm biopsy, SSM+bilirubin endoscopy escape, 2 y/1 y surveillance
+- [[portal-vein-thrombosis]] — VALDIG remnant-lumen occlusion criteria, risk-factor-stratified long-term anticoagulation, 3-month stopping rule, cirrhotic-PVT surveillance and post-TIPS AC, new paediatric section
+- [[budd-chiari-syndrome]] — biopsy rules, AFP >15 ng/mL, LI-RADS exclusion, 2-weekly response assessment, prognostic scores demoted to research use
+- [[variceal-upper-gi-bleeding]], [[tips]] — p-TIPS band and delayed window, futility-rule withdrawal, 24 h vasoactive option, individualized antibiotics, EUS coil + glue for GOV2/IGV1, EVL over APC for GAVE, post-EVL ulcer, smallest-diameter shunting
+- [[hepatic-venous-pressure-gradient]], [[liver-stiffness-measurement]], [[noninvasive-liver-disease-assessment]] — NIT-first paradigm, new SSM cut-offs, "most recent value governs", relative-change thresholds, and the Baveno VI NSBB-response numbers (≥10% or to ≤12 mmHg) added for the first time
+- [[spontaneous-bacterial-peritonitis]], [[hepatic-encephalopathy]], [[nafld-masld]], [[acute-on-chronic-liver-failure]], [[aki-in-cirrhosis]], [[ascites]] — prophylaxis stopping rule, LOLA and shunt embolisation, bariatric surgery by CSPH, ACLF and p-TIPS, continuous terlipressin, long-term albumin and home drainage devices
+
+**Contradictions surfaced:**
+
+- **Salvage-TIPS futility** — Baveno VIII 5.37 deletes the CTP ≥14 / MELD >30 + lactate >12 rule and calls for a new score (RA5.13); [[aasld-2024-tips]] GS 23 still carries it. Both tier-1, VIII newer → wiki asserts VIII; the AASLD numbers stay on [[tips]] labelled superseded.
+- **Statins** — Baveno VII "should be encouraged" → Baveno VIII "insufficient evidence." Same consortium; VIII governs.
+- **Long-term primary antibiotic prophylaxis** — Baveno VIII 4.12 vs [[aasld-2021-ascites-sbp-hrs]], resolved on [[spontaneous-bacterial-peritonitis]] by separating endpoints: VIII removes *decompensation prevention* as a reason to start/continue; AASLD's *first-SBP* indication stands.
+- **BCS prognostic scores — closed.** VIII 8.36 now agrees with ACG 2020 against Baveno VII; the long-standing flag on that page is resolved in ACG's favour.
+- **Internal inconsistency in the source itself:** statement 1.16c gives SSM rule-in as **>55 kPa**, Figures 1–2 print **≥55 kPa**. Wiki follows the statement. This is an accepted pre-proof, not the version of record.
+- [[acg-2026-hepatic-encephalopathy]] Key concept 16 still cites the Baveno VII recompensation definition (12 months, "improved LFTs"); corrected inline on [[hepatic-encephalopathy]].
+
+**Cards:** 16 files, 68 cards. `[c10002]` retired (HVPG ≥12 bleeding threshold — unsourced, no VIII successor). `[b10010]`, `[a10008]` and 4 others reworded in place with ids preserved.
+
+**Gaps:** PyMuPDF absent → no figures screenshotted; Figures 1–2 and 4 recreated as tables, 3 and 5 as Mermaid. The PSVD score's lower bands (≤2 points) are unrecoverable from the text layer. Supplementary Tables S1–S4 and the EASL CPG on Vascular Liver Diseases are not in the corpus (added to *Needs a source*). ANTICIPATE/ANTICIPATE-NASH/NICER coefficients are in no ingested source — flagged on the page rather than filled.
+
+---
+
+## [2026-09-03] ingest | AGA 2026 CPU — C. difficile Infection in Adults
+
+**Source created:**
+
+- [[aga-2026-cdiff-adults]] — Fischer, Vaughn, Peery, Kelly. Clin Gastroenterol Hepatol 2026;24:2359–2369; all **14** Best Practice Advice statements verbatim (ungraded by design — no systematic review performed).
+
+**Pages updated:**
+
+- [[clostridioides-difficile]] — severity criteria (both creatinine forms), colonization rates, treat-discordant rule, retest threshold, fidaxomicin-preferred initial therapy, day-3–5 response rule, fulminant triple-therapy table, FMT multi-dose/step-down, first-recurrence taper-pulse + EXTEND, microbiota high-risk criteria, suppressive vancomycin, OVP reversal, PPI/diet/stewardship, household prevention table, recreated management pathway (Mermaid)
+- [[fmt]] — earlier-use criteria, 1–4 d washout, 2–3 lower-endoscopy doses, mortality RR 0.37 / NNT 4, high-grade stricture contraindication, FDA IND note
+- [[probiotics]] — new "C difficile — Not Advised (2026 reversal)" section; 2020 conditional-FOR marked superseded
+- [[loperamide]] — general-CDI row; three antimotility contraindications
+- [[proton-pump-inhibitors]] — CDI risk data; continue if indicated, never dose-reduce
+
+**Contradictions surfaced:**
+
+- **Metronidazole for nonsevere CDI** — [[acg-2021-cdiff]] permits it in low-risk outpatients; [[aga-2026-cdiff-adults]] restricts it to fulminant disease. Newer same-tier wins.
+- **Oral vancomycin prophylaxis** — [[acg-2021-cdiff]] Rec 18 and [[aga-2026-cdiff-ibd]] BPA 12 permit it; the 2026 adults CPU advises against. Newest source governs the general page; the IBD CPU retained as narrower guidance.
+- **Probiotics for CDI prevention** — reverses [[aga-2020-probiotics]]' conditional FOR.
+- **Severity creatinine rule** — ratio (>1.5× baseline) re-admitted alongside the IDSA 2018 absolute >1.5 mg/dL.
+- **Bezlotoxumab** — stated in-source as *no longer commercially available*, superseding [[acg-2021-cdiff]] Rec 19. Coverage-gap #13 rescoped accordingly.
+- **Washout before microbiota therapy** — 1–4 days (2026) vs 1–3 days purge-conditioned ([[aga-2024-fmt]]); both stated.
+
+**Cards:** 26 new cards across 5 files under `# Draft` (`cd1001`–`cd1016`, `fa2001`–`fa2004`, `9b3001`–`9b3002`, `1c4001`–`1c4002`, `e5f001`–`e5f002`).
+
+**Gaps:** Figure 1 (Testing for CDI) and Figures 2A–C are raster images with no text layer; PyMuPDF unavailable, so no crops. Figure 2's routing was recreated as Mermaid from the narrative and labelled as such. The online supplement (patient cleaning guide; Supplementary Table 1, donor-directed FMT for fulminant CDI) is not in `raw/`.
+
+---
+
+## [2026-09-03] ingest | AGA 2026 CPU — Electrosurgery in Therapeutic Endoscopy
+
+**Source created:**
+
+- [[aga-2026-electrosurgery]] — Draganov, Hwang, Podboy, Yang. Clin Gastroenterol Hepatol 2026;24:1494–1502. All **13** Best Practice Advice statements verbatim (ungraded by design); Tables 1–3 recreated as native Markdown.
+
+**Pages created:**
+
+- [[electrosurgery]] (`7-concepts/`) — the wiki's single home for electrosurgical principles: terminology + Ohm's law, the 100°C cut/coagulation line, duty cycle vs crest factor, monopolar vs bipolar, current density (inverse to contact area), tissue resistance by GI segment and wall layer, analog vs microprocessor generators, ESU settings by indication × manufacturer, pre-procedure timeout, dispersive-pad and pacemaker/ICD rules, gas-vs-fluid environment (Mermaid), and current choice per application.
+
+**Pages updated:**
+
+- [[polypectomy]] — BPA 5 (either current acceptable) and BPA 6 mid-stalk snare placement
+- [[argon-plasma-coagulation]] — power vs argon flow rate (too-high flow disperses current → low current density), 0.8–1.0 L/min, argon non-absorption, hydrogen/methane explosion mechanism + complete-oral-prep advice
+- [[endoscopic-mucosal-resection]] — **hot avulsion corrected to a cutting current**; underwater saline/higher-power note; <5% post-ablation recurrence and the STSC cost-effectiveness tiebreaker
+- [[ercp]] — sphincterotomy energy delivery (BPA 12)
+- [[endoscopic-submucosal-dissection]] — third-space electrosurgery pointer (BPA 13)
+
+**Contradictions surfaced:**
+
+- **Hot avulsion current — a correction, not just an addition.** [[usmstf-2020-endoscopic-removal]] / [[asge-2020-endoscopic-removal]] specify a *coagulation* current while avulsing; AGA 2026 BPA 10 specifies a predominant **cutting** current (ERBE EndoCut I, effect 3, duration 1, interval 3) — verified verbatim against the raw PDF. Same tier, newer → the wiki now asserts cutting current; the older wording is flagged, not deleted.
+- **STSC vs APC for the post-EMR margin** — the 2020 "insufficient evidence to prefer either" tie is broken: equally effective in an RCT, STSC likely more cost-effective.
+- **Cut vs coagulation for polypectomy** — older retrospective data superseded by RCT; the CPU notes the RCT used a microprocessor generator and may not transfer to analog ESUs.
+- **Pure cut vs blended for sphincterotomy** remains unresolved; the CPU's position is that technique, not waveform, dominates PEP risk.
+
+**Cards:** 16 new cards. New files `/cards/7-concepts/electrosurgery.md` (13) and `/cards/3-general-gi-procedures/argon-plasma-coagulation.md` (2); appended under `# Draft`: polypectomy (2), endoscopic-mucosal-resection (1).
+
+**Gaps:** Figures 1 (cut↔coagulation continuum vs duty cycle/crest factor/voltage) and 2 (endoscopy room layout + ESU safety checklist) are raster images with no text layer and could not be captured. No GI societal consensus on implantable cardiac devices — the CPU leans on the HRS/ASA statement, which is not ingested.
+
+---
+
 ## 2026-09-03 — Schema: lint fills coverage gaps from a queue, 1–2 pages per pass
 
 **Principle (Nick):** gap-filling is part of lint, but slowly — *"don't fill EVERY gap each time you lint... limit page creation to 1-2 pages depending on credit usage."*

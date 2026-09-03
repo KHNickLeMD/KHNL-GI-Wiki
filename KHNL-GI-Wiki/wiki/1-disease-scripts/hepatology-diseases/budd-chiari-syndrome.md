@@ -4,7 +4,7 @@ category: disease-script
 tags: [budd-chiari, hepatic-vein, thrombosis, portal-hypertension, liver-failure, mpn, jak2, anticoagulation, tips]
 created: 2026-05-21
 updated: 2026-09-03
-sources: [acg-2020-hepatic-mesenteric-circulation, baveno-vii-2022-portal-hypertension, aasld-2021-vascular-pvt]
+sources: [baveno-viii-2026-portal-hypertension, acg-2020-hepatic-mesenteric-circulation, baveno-vii-2022-portal-hypertension, aasld-2021-vascular-pvt]
 ---
 
 ## Assessment
@@ -24,9 +24,12 @@ Budd-Chiari syndrome (BCS) is defined by obstruction of hepatic venous outflow, 
 
 **Frequency of findings at diagnosis** [[aasld-2021-vascular-pvt]]: ascites **83%**, hepatomegaly **67%**, abdominal pain **61%**; oesophageal varices detected in **>50%**. Typical labs: bilirubin and aminotransferase elevation, prolonged PT in severe cases; **ascitic fluid protein is characteristically high**. IVC obstruction (thrombus or compression by a hypertrophied caudate lobe) adds abdominal wall varices, lower-limb edema, or ulcers.
 
-**Primary vs secondary (Baveno VII 8.6–8.8)** [[baveno-vii-2022-portal-hypertension]]: BCS is any obstruction of the hepatic venous outflow tract from the small hepatic veins to the IVC–right atrial junction (A.1) — and **BCS is the preferred designation for any *primary* hepatic venous outflow tract obstruction** (D.1). It is **secondary** when the mechanism is **extrinsic compression** (benign or malignant tumour), and **primary** otherwise (A.1).
+**Primary vs secondary ([[baveno-viii-2026-portal-hypertension|Baveno VIII]] 8.21–8.23):** BCS is any obstruction of the hepatic venous outflow tract from the small hepatic veins to the IVC–right atrial junction — and **BCS is the preferred designation for *any* hepatic venous outflow tract obstruction** (8.22; Baveno VII 8.7 said "any *primary*" HVOTO). It is **secondary** when the mechanism is **extrinsic compression *or endoluminal neoplastic/parasitic obstruction***, and **primary** otherwise (8.23). ⚠ **Baveno VIII adds the endoluminal limb** — VII 8.8 named only extrinsic compression by a benign or malignant tumour, which left endoluminal tumour thrombus and parasitic obstruction unclassified.
 
-**Diagnostic rules (Baveno VII 8.9–8.12):** presentation is extremely diverse, so consider BCS in **any** patient with acute, acute-on-chronic, or chronic liver disease (A.1). Diagnosis = demonstration of **venous luminal obstruction**, or **hepatic vein collaterals plus absence of patent hepatic veins** (A.1). **Do not biopsy** when vascular imaging already shows outflow obstruction (B.1) — but biopsy **is necessary** when small–hepatic-vein obstruction is not visible on imaging (B.1).
+**Diagnostic rules (Baveno VIII 8.24–8.27):** presentation is extremely diverse, so consider BCS in **any** patient with acute, acute-on-chronic, or chronic liver disease (8.24). Diagnosis = demonstration of **venous luminal obstruction**, or **hepatic vein collaterals plus absence of patent hepatic veins** (8.25).
+
+- **Radiologically confirmed BCS needs no [[liver-biopsy|liver biopsy]]** (8.26) — VIII states positively what VII 8.11 stated as a prohibition
+- **Biopsy *is* necessary when cross-sectional imaging fails to demonstrate large hepatic vein obstruction**, to confirm **small hepatic vein** BCS (8.27)
 
 **Key diagnostic features:**
 
@@ -56,11 +59,11 @@ Prevalences below are the HVT/BCS column of [[aasld-2021-vascular-pvt]] **Table 
 
 ### Severity Assessment
 
-**BCS-TIPS prognostic index score** [[baveno-vii-2022-portal-hypertension]] — can be used to predict outcome when [[tips|TIPS]] is being considered (B.1, 8.24). A **high score (>7)** should prompt consideration of **liver transplantation before TIPS placement** (C.1, 8.25); transplant is also considered for uncontrolled clinical manifestations despite the stepwise approach. **Child-Pugh** and **MELD** apply when cirrhosis is present (the CTP point table, the MELD 3.0 formula, and the MELD-variant comparison live on [[cirrhosis]]).
+**Prognostic scores do not decide management.** [[baveno-viii-2026-portal-hypertension|Baveno VIII]] 8.36: *"The currently available prognostic BCS scores should not determine individual patient management alone, but can be used for research purposes."* (LoE 3, strong.) **Child-Pugh** and **MELD** still apply when cirrhosis is present (the CTP point table, the MELD 3.0 formula, and the MELD-variant comparison live on [[cirrhosis]]).
 
-> **Contradiction — do prognostic scores drive therapy?** [[acg-2020-hepatic-mesenteric-circulation]] KC 26 states flatly that **"prognostic scoring systems are not helpful in guiding choice of therapy"**: the **Rotterdam score** is the most studied and is validated to predict *intervention-free* survival, but prediction of *transplant-free* survival "remains unsatisfactory," and scores "should not be used to dictate treatment in individual patients." [[baveno-vii-2022-portal-hypertension]] (2022, newer) nonetheless endorses the BCS-TIPS index >7 as a trigger to consider LT before TIPS — **the page follows Baveno VII**, but treat the score as one input, not the decision.
+> ⚠ **This resolves a standing contradiction on this page, against Baveno VII.** [[baveno-vii-2022-portal-hypertension|Baveno VII]] 8.24–8.25 endorsed the **BCS-TIPS prognostic index**, with a **score >7** as a trigger to consider **liver transplantation before [[tips|TIPS]] placement**. [[acg-2020-hepatic-mesenteric-circulation]] KC 26 said the opposite — that "prognostic scoring systems are not helpful in guiding choice of therapy," noting the **Rotterdam score** is validated for *intervention-free* but not *transplant-free* survival and "should not be used to dictate treatment in individual patients." **Baveno VIII now agrees with ACG.** The BCS-TIPS index >7 rule is **withdrawn as a management trigger**; transplant is instead considered for **uncontrolled clinical manifestations despite the stepwise approach** and for BCS presenting as acute liver failure.
 >
-> **Decision gap — component point values.** Neither ingested source prints the component variables or point values of the **BCS-TIPS prognostic index** or the **Rotterdam score**, so neither can be computed from this wiki. The original derivation papers would be needed; do not reconstruct them from memory.
+> **Decision gap — component point values.** No ingested source prints the component variables or point values of the **BCS-TIPS prognostic index** or the **Rotterdam score**, so neither can be computed from this wiki. This gap now matters less, since Baveno VIII restricts both to research use. Do not reconstruct them from memory.
 
 Key predictors of poor outcome: [[hepatic-encephalopathy|hepatic encephalopathy]], [[ascites]] refractory to medical therapy, liver failure (coagulopathy, jaundice, INR >1.5), failure to respond to anticoagulation + angioplasty within weeks.
 
@@ -137,15 +140,17 @@ flowchart TD
 
 ### Step 1 — Anticoagulation
 
-- **Long-term anticoagulation for all patients with primary BCS** (B.1, 8.19) [[baveno-vii-2022-portal-hypertension]]
-- **Avoid unfractionated heparin** (HIT risk); reserve it for special situations such as GFR <30 mL/min or a pending invasive procedure (D.2, 8.20)
+- **Therapeutic anticoagulation should be initiated as soon as possible after diagnosis and continued long-term, *including after [[liver-transplantation|liver transplantation]]*** ([[baveno-viii-2026-portal-hypertension]] 8.32). Baveno VII 8.19 said only "long-term anticoagulation should be given to all patients with primary BCS" — VIII adds the **urgency** ("as soon as possible") and the **post-transplant** continuation
+- **Start with LMWH, then transition to an oral anticoagulant** (8.5). **Avoid unfractionated heparin** (HIT risk); reserve it for GFR <30 mL/min or a pending invasive procedure
+- **DOACs may be the primary oral choice** in vascular liver disease (8.6) — unless there is **double/triple-positive antiphospholipid syndrome**, **pregnancy**, **Child-Pugh C–equivalent liver dysfunction**, or **GFR <30 mL/min**. Anticoagulant choice should **not** be driven by which vascular liver disease it is (8.4), and the regimen should be **revisited regularly in a multidisciplinary team** against liver function, kidney function, and adherence (8.7)
+- **Do not delay anticoagulation for endoscopic variceal prophylaxis** (8.10); **EVL is safe on LMWH or VKA**, with **no data for DOACs** (8.11)
 - Initiate anticoagulation in all BCS patients without contraindications (Strong, Moderate evidence)
-- Start: LMWH (enoxaparin); transition to VKA or DOAC
 - Anticoagulation should be **indefinite** in most patients given persistent thrombophilia
 - Treat underlying MPN: hydroxyurea (or anagrelide for ET); phlebotomy + aspirin for polycythemia vera; does not replace anticoagulation
 - Antiphospholipid syndrome: indefinite VKA (target INR 2–3); DOACs associated with higher thrombotic recurrence in APLS
+- **Pregnancy and contraception:** the Baveno VIII vascular-liver-disease rules apply — non-oestrogen contraception, oral anticoagulants replaced by therapeutic-dose LMWH once pregnancy is detected, variceal screening in the second trimester, propranolol for prophylaxis, and vaginal delivery preferred if platelets >20 G/L (8.15–8.20). One home: [[porto-sinusoidal-vascular-disorder|PSVD/NCPF → Therapeutics]] and [[liver-disease-in-pregnancy]]
 
-**What counts as "improvement" before escalating** (D.1, 8.23) [[baveno-vii-2022-portal-hypertension]]: a combination of several of — decreasing rate of ascites formation, and decreasing serum bilirubin, creatinine, and INR when elevated (or rising factor V on vitamin K antagonists). **Actively look for short-length stenoses amenable to angioplasty/stenting** (B.1, 8.21).
+**What counts as "improvement" before escalating** ([[baveno-viii-2026-portal-hypertension]] 8.35): a **combination** of — decreasing rate of ascites formation; decreasing serum bilirubin; decreasing serum creatinine; and/or decreasing INR when elevated (or rising factor V on vitamin K antagonists). **Assess it periodically, e.g. at 2-weekly intervals** — Baveno VIII adds the interval, which Baveno VII 8.23 left open, so "no improvement on medical therapy" is now a judgement made on a schedule rather than at an arbitrary point. **Actively assess for venous stenoses suitable for percutaneous recanalisation and treat them accordingly** (8.33).
 
 ### Step 2 — Angioplasty / Stenting
 
@@ -164,15 +169,19 @@ flowchart TD
 
 ### Step 4 — Liver Transplantation
 
-- Triggered by the **BCS-TIPS prognostic index >7** (see *Severity Assessment*), by cirrhotic BCS failing all other measures, or by uncontrolled portal hypertension
-- **BCS presenting as [[acute-liver-failure|acute liver failure]]:** consider **urgent transplantation**, and perform **emergency TIPS if possible, independently of listing** (C.1, 8.26) [[baveno-vii-2022-portal-hypertension]]
-- Post-transplant: lifelong anticoagulation required (thrombophilia persists)
+- Triggered by **uncontrolled clinical manifestations despite the stepwise approach**, by cirrhotic BCS failing all other measures, or by uncontrolled portal hypertension. **No longer triggered by a prognostic score** — see *Severity Assessment*
+- **BCS presenting as [[acute-liver-failure|acute liver failure]]:** consider **urgent transplantation**, and perform **salvage TIPS if possible, independently of listing** ([[baveno-viii-2026-portal-hypertension]] 8.37)
+- Post-transplant: **anticoagulation continues after transplantation** (8.32) — thrombophilia persists
 - Post-transplant MPN management continues; consider discussion with hematology about stem cell transplant in MPN context
 
 ### HCC Surveillance
 
-- **Baveno VII (8.13–8.17)** [[baveno-vii-2022-portal-hypertension]]: [[focal-liver-lesions|hepatic nodules]] in BCS are frequent and **most often benign**, but HCC occurs — monitor with periodic imaging **and AFP** (B.1); a **6-month interval** can be proposed (C.1); whether ultrasound or MRI is the right surveillance modality is **still unclear** (C.1). Refer nodule-developing patients to experienced centres (D.1); characterise a nodule first with **MRI using hepatobiliary contrast agents**, and **biopsy the lesion for definitive HCC diagnosis** (C.1)
-- US + AFP every 6 months in all BCS patients (Conditional, Low evidence) [[acg-2020-hepatic-mesenteric-circulation]]
+**[[baveno-viii-2026-portal-hypertension|Baveno VIII]] 8.28–8.30** — [[focal-liver-lesions|hepatic nodules]] in chronic BCS are frequent and **most often benign**, but HCC also occurs:
+
+- **Monitor with periodic imaging *and* AFP at a 6-month interval**, "similar to HCC surveillance in cirrhosis" (8.29). ⚠ Baveno VII 8.15 said it was "still unclear" whether ultrasound or MRI should be used for periodic screening; Baveno VIII drops that uncertainty and anchors the interval to standard [[hcc-surveillance|HCC surveillance]]
+- **AFP >15 ng/mL should raise suspicion for HCC** (8.29) — **new numeric threshold**; Baveno VII named AFP as part of surveillance without a cut-off
+- **[[li-rads|LI-RADS]] cannot be applied in BCS** (8.30, new). Use **MRI with hepatobiliary contrast agents** to distinguish benign from malignant lesions, and obtain **histological confirmation** for lesions suspected of being HCC
+- US + AFP every 6 months in all BCS patients (Conditional, Low evidence) [[acg-2020-hepatic-mesenteric-circulation]] — concordant
 - Do **not** defer surveillance for absence of fibrosis — the elevated risk is independent of cirrhosis (see *Severity Assessment*)
 - If HCC found: standard staging and treatment; however, transplant may be needed if LT is planned for BCS anyway
 
@@ -180,12 +189,13 @@ flowchart TD
 
 ## See Also
 
-[[portal-vein-thrombosis]], [[porto-sinusoidal-vascular-disorder]], [[hepatocellular-carcinoma]], [[acute-liver-failure]], [[liver-transplantation]], [[cirrhosis-hemostasis]], [[portal-hypertension]], [[tips]], [[hepatic-encephalopathy]], [[ascites]], [[jaundice]], [[hcc-surveillance]], [[liver-biopsy]], [[mri-mrcp]], [[focal-liver-lesions]]
+[[portal-vein-thrombosis]], [[porto-sinusoidal-vascular-disorder]], [[hepatocellular-carcinoma]], [[acute-liver-failure]], [[liver-transplantation]], [[cirrhosis-hemostasis]], [[portal-hypertension]], [[tips]], [[hepatic-encephalopathy]], [[ascites]], [[jaundice]], [[hcc-surveillance]], [[liver-biopsy]], [[mri-mrcp]], [[focal-liver-lesions]], [[li-rads]], [[cirrhosis]], [[variceal-upper-gi-bleeding]], [[liver-disease-in-pregnancy]]
 
 ---
 
 ## Sources
 
-1. [[acg-2020-hepatic-mesenteric-circulation|ACG Clinical Guideline: Disorders of the Hepatic and Mesenteric Circulation]]
-2. [[baveno-vii-2022-portal-hypertension|Baveno VII — Renewing Consensus in Portal Hypertension (2022)]]
-3. [[aasld-2021-vascular-pvt|AASLD Practice Guidance: Vascular Liver Disorders, Portal Vein Thrombosis, and Procedural Bleeding in Cirrhosis (2021)]]
+1. [[baveno-viii-2026-portal-hypertension|Baveno VIII — Advancing Consensus in Portal Hypertension (2026)]]
+2. [[acg-2020-hepatic-mesenteric-circulation|ACG Clinical Guideline: Disorders of the Hepatic and Mesenteric Circulation]]
+3. [[baveno-vii-2022-portal-hypertension|Baveno VII — Renewing Consensus in Portal Hypertension (2022)]]
+4. [[aasld-2021-vascular-pvt|AASLD Practice Guidance: Vascular Liver Disorders, Portal Vein Thrombosis, and Procedural Bleeding in Cirrhosis (2021)]]

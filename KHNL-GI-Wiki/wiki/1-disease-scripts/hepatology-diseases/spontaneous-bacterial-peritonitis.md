@@ -3,8 +3,8 @@ title: "Spontaneous Bacterial Peritonitis"
 category: disease-script
 tags: [sbp, ascites, cirrhosis, peritonitis, cefotaxime, albumin]
 created: 2026-05-15
-updated: 2026-09-02
-sources: [aasld-2021-ascites-sbp-hrs, aga-2024-vasoactive-albumin-cirrhosis]
+updated: 2026-09-03
+sources: [aasld-2021-ascites-sbp-hrs, aga-2024-vasoactive-albumin-cirrhosis, baveno-viii-2026-portal-hypertension]
 ---
 
 # Spontaneous Bacterial Peritonitis (SBP)
@@ -181,7 +181,10 @@ Patients with prior SBP have ~68% 1-year recurrence rate without [[antibiotic-pr
   - Norfloxacin data: reduces 1-year recurrence from 68% to 20%
   - Note: quinolone effectiveness is reduced in patients colonized with MDRO
 - **[[rifaximin|Rifaximin]]** (limited single-center data showing lower 6-month recurrence than norfloxacin: 4% vs. 14%); may be considered but not yet firmly established
-- Continue indefinitely until [[liver-transplantation|liver transplantation]] or patient no longer has ascites
+  - **[[baveno-viii-2026-portal-hypertension|Baveno VIII]] 6.23: "Data are insufficient to recommend rifaximin for secondary prophylaxis of SBP."** This is a **softening** of [[baveno-vii-2022-portal-hypertension|Baveno VII]] 4.10, which stated flatly that rifaximin was "**not indicated**" beyond its hepatic-encephalopathy uses, "including primary or secondary prophylaxis of SBP." Equipoise rather than prohibition — but still not a recommendation
+- **Baveno VIII 6.21** concurs on the indication: with a history of SBP, **antibiotic prophylaxis should be considered to prevent recurrence** (LoE 2, strong)
+- **Stopping rule — new in Baveno VIII (6.22): antibiotic SBP prophylaxis should be discontinued in case of [[cirrhosis|recompensation]]** (LoE 4, strong). Recompensation has an operative definition (aetiologic cure/control, ascites resolved off diuretics, no HE off HE medication, no variceal rebleeding, all for **>6 months**, with liver function at **CTP A5/A6**) — meeting it is what retires the prophylaxis
+- Otherwise continue indefinitely until [[liver-transplantation|liver transplantation]] or the patient no longer has ascites
 
 #### Primary Prophylaxis (Prevention of First Episode)
 
@@ -202,11 +205,15 @@ Patients with prior SBP have ~68% 1-year recurrence rate without [[antibiotic-pr
 
 **Routine primary prophylaxis is NOT recommended** for patients with low ascites protein alone without additional risk factors.
 
+> ⚠ **Contradiction to surface — long-term primary prophylaxis after a first decompensating event.** [[baveno-viii-2026-portal-hypertension|Baveno VIII]] 4.12 states that **"in patients after the first decompensating event, long-term primary antibiotic prophylaxis is not recommended to prevent further decompensation"** (LoE 2, strong). That **reverses [[baveno-vii-2022-portal-hypertension|Baveno VII]] 4.6**, which recommended primary prophylaxis in selected high-risk patients (GI haemorrhage; Child-Pugh C with low-protein ascites). It also sits against the [[aasld-2021-ascites-sbp-hrs|AASLD 2021]] indication-2 criteria above, which this page follows for the **SBP-prevention** question.
+>
+> **How to read the two together — the endpoints differ.** Baveno VIII is answering "does long-term antibiotic prophylaxis prevent **further decompensation**?" and finds it does not; AASLD is answering "does it prevent a **first SBP episode** in a defined high-risk group?" and finds it does. Neither displaces the other outright, but Baveno VIII is the newer tier-1 statement and **removes prevention of further decompensation as a reason to start or continue prophylaxis**. Short-course prophylaxis in acute GI haemorrhage (indication 1) is untouched, as is secondary prophylaxis after a documented SBP episode. Baveno VIII's own research agenda calls for confirmatory data that balance efficacy against multidrug-resistant-organism risk (RA4.15).
+
 ---
 
 ## See Also
 
-[[ascites]], [[aki-in-cirrhosis]], [[hepatic-encephalopathy]], [[jaundice]], [[alcohol-associated-liver-disease]], [[chronic-hepatitis-b]], [[portal-hypertension]], [[variceal-upper-gi-bleeding]], [[acute-on-chronic-liver-failure]], [[liver-transplantation]], [[rifaximin]], [[antibiotic-prophylaxis-cirrhosis]]
+[[ascites]], [[aki-in-cirrhosis]], [[hepatic-encephalopathy]], [[jaundice]], [[alcohol-associated-liver-disease]], [[chronic-hepatitis-b]], [[portal-hypertension]], [[variceal-upper-gi-bleeding]], [[acute-on-chronic-liver-failure]], [[liver-transplantation]], [[rifaximin]], [[antibiotic-prophylaxis-cirrhosis]], [[cirrhosis]], [[albumin]]
 
 ---
 
@@ -214,3 +221,4 @@ Patients with prior SBP have ~68% 1-year recurrence rate without [[antibiotic-pr
 
 1. [[aasld-2021-ascites-sbp-hrs|AASLD 2021: Diagnosis, Evaluation, and Management of Ascites, SBP, and HRS in Cirrhosis]]
 2. [[aga-2024-vasoactive-albumin-cirrhosis|AGA 2024 Clinical Practice Update on the Use of Vasoactive Drugs and Intravenous Albumin in Cirrhosis]]
+3. [[baveno-viii-2026-portal-hypertension|Baveno VIII — Advancing Consensus in Portal Hypertension (2026)]]

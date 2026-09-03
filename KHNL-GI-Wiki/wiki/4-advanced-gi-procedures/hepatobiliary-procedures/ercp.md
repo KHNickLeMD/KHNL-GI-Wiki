@@ -3,8 +3,8 @@ title: "ERCP (Endoscopic Retrograde Cholangiopancreatography)"
 category: advanced-procedure
 tags: [ercp, biliary, pancreatic, hepatobiliary, sphincterotomy, stent, stone-extraction]
 created: 2026-05-16
-updated: 2026-08-31
-sources: [asge-2024-therapeutic-eus-biliary, asge-2024-chronic-pancreatitis-endoscopy, asge-2023-post-ercp-pancreatitis, asge-2021-cholangitis, asge-2019-choledocholithiasis, asge-2023-post-transplant-biliary-strictures, asge-2015-ercp-benign-biliary, aga-2024-pregnancy-gi-liver, aga-2022-recurrent-pancreatitis-endoscopy, jagtap-2026-urgent-vs-early-ercp-cholangitis, aloysius-2026-ercp-timing-septic-shock-cholangitis]
+updated: 2026-09-03
+sources: [asge-2024-therapeutic-eus-biliary, asge-2024-chronic-pancreatitis-endoscopy, asge-2023-post-ercp-pancreatitis, asge-2021-cholangitis, asge-2019-choledocholithiasis, asge-2023-post-transplant-biliary-strictures, asge-2015-ercp-benign-biliary, aga-2024-pregnancy-gi-liver, aga-2022-recurrent-pancreatitis-endoscopy, jagtap-2026-urgent-vs-early-ercp-cholangitis, aloysius-2026-ercp-timing-septic-shock-cholangitis, aga-2026-electrosurgery]
 ---
 
 *Referenced in [[acute-pancreatitis]] (indications/timing) and [[biliary-stricture]] (tissue sampling, drainage). See [[endoscopic-ultrasound]] for combined EUS+ERCP approach. Now almost exclusively therapeutic — successful cholangiography with relief of obstruction is achievable in >90% of patients [[asge-2015-ercp-benign-biliary]].*
@@ -68,7 +68,8 @@ sources: [asge-2024-therapeutic-eus-biliary, asge-2024-chronic-pancreatitis-endo
 | **Non–gastric-bypass altered anatomy** — Roux-en-Y hepaticojejunostomy, pancreaticoduodenectomy, Billroth II | **E-ERCP as the initial approach** — *very low quality* | If unsuccessful → **EUS-guided biliary drainage or percutaneous biliary drainage**. **Review the operative report for Roux-limb length** before starting |
 
 - **Failed ERCP in native anatomy:** EUS-guided biliary drainage is suggested **over PTBD** — but the **rendezvous** technique is preferred over EUS-CDS/EUS-HGS in *suspected benign* disease, and **PTBD is preferred** when the patient is **hemodynamically unstable, cannot tolerate general anesthesia, or has suspected malignancy as the cause of obstruction** (or EUS-BD expertise is unavailable). Drainage-route detail lives on [[biliary-stricture]]. ([[asge-2024-therapeutic-eus-biliary]])
-- *Stub — sphincterotomy technique, EST vs. EPBD, biliary vs. pancreatic sphincterotomy, stent types in detail.*
+- **Sphincterotomy energy delivery — PEP risk is primarily *technique*-related, not energy-setting-related** ([[aga-2026-electrosurgery]] BPA 12). Keep wire–tissue contact small and the wire **unburied, applied to the surface with minimal tension**, for high current density and minimal collateral thermal injury. Waveform choice (pure cut vs blended), settings by manufacturer, and the underlying physics are on **[[electrosurgery#ERCP Sphincterotomy]]**.
+- *Stub — EST vs. EPBD, biliary vs. pancreatic sphincterotomy, stent types in detail.*
 
 ---
 
@@ -132,7 +133,7 @@ Benchmarks stated in the ingested sources ([[asge-2015-ercp-benign-biliary]]):
 
 ## See Also
 
-[[acute-pancreatitis]], [[recurrent-acute-pancreatitis]], [[pancreas-divisum]], [[biliary-stricture]], [[choledocholithiasis]], [[acute-cholangitis]], [[endoscopic-ultrasound]], [[cholangioscopy]], [[chronic-pancreatitis]], [[cholangiocarcinoma]], [[primary-sclerosing-cholangitis]], [[sphincter-of-oddi-dysfunction]], [[liver-transplantation]], [[brush-cytology]], [[liver-disease-in-pregnancy]], [[mri-mrcp]], [[acute-cholecystitis]], [[anticoagulation-gi-bleeding]], [[antibiotic-prophylaxis-endoscopy]], [[device-assisted-enteroscopy]], [[fish]]
+[[acute-pancreatitis]], [[recurrent-acute-pancreatitis]], [[pancreas-divisum]], [[biliary-stricture]], [[choledocholithiasis]], [[acute-cholangitis]], [[endoscopic-ultrasound]], [[cholangioscopy]], [[chronic-pancreatitis]], [[cholangiocarcinoma]], [[primary-sclerosing-cholangitis]], [[sphincter-of-oddi-dysfunction]], [[liver-transplantation]], [[brush-cytology]], [[liver-disease-in-pregnancy]], [[mri-mrcp]], [[acute-cholecystitis]], [[anticoagulation-gi-bleeding]], [[antibiotic-prophylaxis-endoscopy]], [[device-assisted-enteroscopy]], [[electrosurgery]], [[fish]]
 
 ---
 
@@ -149,3 +150,4 @@ Benchmarks stated in the ingested sources ([[asge-2015-ercp-benign-biliary]]):
 9. [[aga-2022-recurrent-pancreatitis-endoscopy|AGA Clinical Practice Update on the Endoscopic Approach to Recurrent Acute and Chronic Pancreatitis: Expert Review]]
 10. [[jagtap-2026-urgent-vs-early-ercp-cholangitis|Urgent versus Early ERCP in Mild-to-Moderate Acute Cholangitis: A Randomised Controlled Trial (Jagtap 2026)]]
 11. [[aloysius-2026-ercp-timing-septic-shock-cholangitis|Vasopressor-Indexed Timing of ERCP and Survival in Septic Shock from Tokyo Grade III Cholangitis (Aloysius 2026, DDW abstract)]]
+12. [[aga-2026-electrosurgery|AGA Clinical Practice Update on the Use of Electrosurgery in Therapeutic Endoscopy: Expert Review (2026)]]

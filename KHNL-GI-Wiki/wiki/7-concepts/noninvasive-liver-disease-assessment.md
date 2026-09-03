@@ -4,7 +4,7 @@ category: concept
 tags: [nilda, fibrosis, steatosis, fib-4, elf, vcte, swe, mre, mri-pdff, apri, noninvasive, biomarkers, hpb, liver]
 created: 2026-05-31
 updated: 2026-09-03
-sources: [aasld-2024-nilda-blood, baveno-vii-2022-portal-hypertension, aasld-2023-nafld, aasld-2025-semaglutide-mash, aasld-2024-nilda-imaging, aasld-2024-nilda-portal-htn, aga-2023-nafld-noninvasive-biomarkers]
+sources: [aasld-2024-nilda-blood, baveno-viii-2026-portal-hypertension, baveno-vii-2022-portal-hypertension, aasld-2023-nafld, aasld-2025-semaglutide-mash, aasld-2024-nilda-imaging, aasld-2024-nilda-portal-htn, aga-2023-nafld-noninvasive-biomarkers]
 ---
 
 Noninvasive liver disease assessment (NILDA) is the set of blood-based and imaging-based tools that estimate **hepatic fibrosis** (up to and including [[cirrhosis]]) and **steatosis** without [[liver-biopsy|biopsy]]. AASLD published companion 2024 practice guidelines for blood-based and imaging-based NILDA; the framework now drives screening, risk stratification, pharmacotherapy candidacy, and (with caveats) treatment monitoring in [[nafld-masld]].
@@ -62,25 +62,28 @@ Reserve [[liver-biopsy|liver biopsy]] for: [[aga-2023-nafld-noninvasive-biomarke
 
 **Interpret NITs in clinical context** (exam, biochemical, radiographic, endoscopic data) to optimize PPV, and **use each NIT per manufacturer specifications** — e.g. **not in patients with [[ascites]] or with pacemakers** — to minimize discordant results and adverse events; observe probe selection (M vs XL) and quality measures. VCTE false positives rise with operator inexperience, high BMI, non-fasting state, and markedly elevated ALT.
 
-## Baveno VII cACLD criteria (LSM by transient elastography)
+## Baveno cACLD criteria (LSM by VCTE)
 
-Baveno VII builds a parallel, portal-hypertension-oriented ladder on the same LSM measurement [[baveno-vii-2022-portal-hypertension]]:
+Baveno builds a parallel, portal-hypertension-oriented ladder on the same LSM measurement. **[[baveno-viii-2026-portal-hypertension|Baveno VIII (2026)]] supersedes [[baveno-vii-2022-portal-hypertension|Baveno VII]]; the differences are named inline.**
 
-- **<10 kPa** rules out cACLD (absent other clinical/imaging signs); ≤1% 3-year decompensation/liver-death risk (B.1/A.1)
-- **10–15 kPa** suggestive of cACLD; **>15 kPa** highly suggestive (B.1)
-- **7–10 kPa with ongoing liver injury** → monitor case-by-case for progression (C.2)
-- **Rule of 5 (10-15-20-25 kPa)** denotes progressively higher relative risk of decompensation and liver-related death, **independent of aetiology** (B.1)
-- **Repeat LSM every 12 months** in cACLD (B.2)
-- **Confirm a positive TE:** an index LSM ≥10 kPa should be repeated **fasting**, or corroborated with a serum marker — **FIB-4 ≥2.67, ELF ≥9.8, FibroTest ≥0.58** (alcohol/viral) or **≥0.48** (NAFLD) (B.2)
-- **Clinically significant *decrease*:** ≥20% drop with LSM <20 kPa, or any drop to <10 kPa (C.2)
-- **Spleen stiffness (SSM) by TE** in viral cACLD: <21 kPa rules out and >50 kPa rules in CSPH (B.2); ≤40 kPa identifies low probability of high-risk [[variceal-upper-gi-bleeding|varices]] in NSBB-ineligible patients (C.2)
+- **<10 kPa** rules out cACLD (absent other clinical/imaging signs); ≤1% 3-year decompensation/liver-death risk (1.3, 1.5). **New in VIII:** LSM <10 kPa **with** clinical/imaging signs of portal hypertension points to **vascular liver disease** ([[porto-sinusoidal-vascular-disorder|PSVD/NCPF]]) rather than excluding disease (1.6)
+- **10–15 kPa** suggestive of cACLD; **>15 kPa** highly suggestive (1.3)
+- **7–10 kPa with ongoing liver injury** → monitor case-by-case for progression (Baveno VII 2.10)
+- **Rule of 5 (10-15-20-25 kPa)** denotes progressively higher relative risk of decompensation and liver-related death, **independent of aetiology** (1.8)
+- **Repeat NITs for CSPH every 12 months** in cACLD (1.9 — strengthened from Baveno VII's "LSM *could be* repeated"); **the most recent value guides decisions** (1.10, new)
+- **Confirm a positive VCTE:** **LSM is always performed fasting** (1.4 — Baveno VII required fasting only on the repeat), and an index LSM ≥10 kPa should be **repeated**, or complemented by **another validated NIT of advanced fibrosis**. ⚠ **Baveno VIII names no serum cut-offs.** The specific ones — **FIB-4 ≥2.67, ELF ≥9.8, FibroTest ≥0.58** (alcohol/viral) or **≥0.48** (NAFLD) — are **Baveno VII 2.11's**, retained here as such
+- **Terminology:** Baveno VIII prefers **"cACLD" over "compensated cirrhosis"** when the diagnosis is established by NITs (1.2)
+- **Diagnosing CSPH non-invasively (1.15–1.16, revised):** **rule out** with **LSM ≤15 kPa + platelets ≥150 ×10⁹/L** (NPV >90%, now LoE 1/strong). **Rule in** with *any one* of: **ANTICIPATE/ANTICIPATE-NASH ≥75%**; **NICER ≥75%**; **LSM ≥25 kPa** (virus/alcohol, or non-obese MASLD); **SSM at 100 Hz >55 kPa**. Full table on [[portal-hypertension]]
+- **How much change is meaningful (Panel 2, all new):** a **confirmed ≥30% relative change in LSM** in alcohol- or MASLD-related cACLD; **≥20% relative change by MRE**; **0.5-unit absolute change in ELF**; pSWE/2D-SWE changes probably comparable but **not yet recommendable** as monitoring tools. Baveno VIII 2.8 states the framing directly: **calibrate NITs and their longitudinal changes to the risk of liver-related events, not to fibrosis stage.** Detail on [[liver-stiffness-measurement]]
 
-*Note the divergence from the AASLD VCTE cut-offs above (rule-out <8, rule-in ≥12, cirrhosis ≥20 kPa): Baveno VII's ladder targets **CSPH and decompensation risk**, not histologic fibrosis stage, so the numbers are not interchangeable.*
+> ⚠ **Superseded Baveno VII numbers — do not mix them with the above.** (1) **SSM <21 kPa / >50 kPa** in viral cACLD (2.21) is replaced by the >55 kPa rule-in at 100 Hz and the **<40 kPa** endoscopy-sparing threshold. (2) The **ANTICIPATE ≥60% risk bands** (LSM 20–25 + platelets <150; LSM 15–20 + platelets <110) are replaced by a single **≥75% probability** threshold. (3) The "clinically significant decrease" of **≥20% with LSM <20 kPa, or any drop to <10 kPa** (2.13) is not restated; the ≥30% relative-change rule is the current one.
+
+*Note the divergence from the AASLD VCTE cut-offs above (rule-out <8, rule-in ≥12, cirrhosis ≥20 kPa): the Baveno ladder targets **CSPH and decompensation risk**, not histologic fibrosis stage, so the numbers are not interchangeable.*
 
 ## Uses & cross-links
 
 - Fibrosis staging & at-risk MASH identification in [[nafld-masld]]; pharmacotherapy candidacy ([[semaglutide]], [[resmetirom]]) uses F2–F3 NIT windows.
-- Noninvasive CSPH staging in cirrhosis (LSM + platelets, "Rule of Five") — see [[portal-hypertension]]. NITs **do not apply** in [[porto-sinusoidal-vascular-disorder|PSVD]], where endoscopic variceal screening is mandatory.
+- Noninvasive CSPH staging in cirrhosis (LSM + platelets, "Rule of Five") — see [[portal-hypertension]]. **LSM-based** criteria **do not apply** in [[porto-sinusoidal-vascular-disorder|PSVD/NCPF]], but Baveno VIII 8.47 does allow endoscopy to be avoided there when **spleen stiffness is <40 kPa *and* bilirubin <1 mg/dL**.
 - Fibrosis staging also applies in [[primary-sclerosing-cholangitis]], [[primary-biliary-cholangitis]], and [[hereditary-hemochromatosis]].
 - **NITs suggesting F3 or F4 are themselves the trigger for complication surveillance** — enter [[hcc-surveillance|HCC surveillance]] and variceal screening per Baveno criteria, and follow with **serial LSM (VCTE or MRE)**, which correlates with CSPH and decompensation. [[aga-2023-nafld-noninvasive-biomarkers]]
 
@@ -99,5 +102,6 @@ Baveno VII builds a parallel, portal-hypertension-oriented ladder on the same LS
 3. [[aasld-2025-semaglutide-mash|Semaglutide Therapy for Metabolic Dysfunction–Associated Steatohepatitis: November 2025 Updates to AASLD Practice Guidance]]
 4. [[aasld-2024-nilda-imaging|AASLD Practice Guideline: Imaging-Based Noninvasive Liver Disease Assessment (Fibrosis & Steatosis) (2024)]]
 5. [[aasld-2024-nilda-portal-htn|AASLD Practice Guideline: Noninvasive Assessment of Portal Hypertension (2024)]]
-6. [[baveno-vii-2022-portal-hypertension|Baveno VII — Renewing Consensus in Portal Hypertension (J Hepatol 2022)]]
-7. [[aga-2023-nafld-noninvasive-biomarkers|AGA Clinical Practice Update on the Role of Noninvasive Biomarkers in the Evaluation and Management of Nonalcoholic Fatty Liver Disease: Expert Review (2023)]]
+6. [[baveno-viii-2026-portal-hypertension|Baveno VIII — Advancing Consensus in Portal Hypertension (J Hepatol 2026)]]
+7. [[baveno-vii-2022-portal-hypertension|Baveno VII — Renewing Consensus in Portal Hypertension (J Hepatol 2022)]]
+8. [[aga-2023-nafld-noninvasive-biomarkers|AGA Clinical Practice Update on the Role of Noninvasive Biomarkers in the Evaluation and Management of Nonalcoholic Fatty Liver Disease: Expert Review (2023)]]

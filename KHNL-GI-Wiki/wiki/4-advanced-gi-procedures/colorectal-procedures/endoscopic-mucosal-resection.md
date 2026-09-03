@@ -3,8 +3,8 @@ title: "Endoscopic Mucosal Resection (Colorectal)"
 category: advanced-procedure
 tags: [emr, endoscopic-resection, polypectomy, cold-snare, underwater-emr, hot-avulsion, lifting-agents, colorectal, post-emr-surveillance]
 created: 2026-08-11
-updated: 2026-09-01
-sources: [usmstf-2020-endoscopic-removal, asge-2020-endoscopic-removal, aga-2025-lifting-agents, usmstf-2020-followup-colonoscopy]
+updated: 2026-09-03
+sources: [usmstf-2020-endoscopic-removal, asge-2020-endoscopic-removal, aga-2025-lifting-agents, usmstf-2020-followup-colonoscopy, aga-2026-electrosurgery]
 ---
 
 # Endoscopic Mucosal Resection (Colorectal)
@@ -39,7 +39,7 @@ Snare resection over a submucosal cushion (or under water), the first-line techn
 
 - Normal saline: acceptable, dissipates quickly (see lifting-agent detail below)
 
-**Electrosurgery settings (ERBE):** Endocut Q 2/3 1 4 for inject-and-cut EMR
+**[[electrosurgery|Electrosurgery]] settings (ERBE):** Endocut Q 2/3 1 4 for inject-and-cut EMR. Cut- and coagulation-predominant currents are equivalent for serious adverse events, complete resection, and recurrence — see [[electrosurgery#Polypectomy]] for the settings table across manufacturers and the RCT data.
 
 ### Submucosal Lifting Agents
 
@@ -61,6 +61,7 @@ Graded recommendations ([[usmstf-2020-endoscopic-removal]]):
 | Statement | Strength / evidence |
 |---|---|
 | Ablate the EMR margin ([[argon-plasma-coagulation\|APC]] or snare-tip soft coagulation) **after complete visual resection** → reduces recurrence | **Strong; moderate** |
+| Ablation of the **normal-appearing** margin after piecemeal EMR cuts recurrence to **<5% at first follow-up**; STSC and APC equally effective in an RCT, but **STSC likely more cost-effective** ([[aga-2026-electrosurgery]]) | BPA (ungraded) |
 | Do **NOT** ablate visible residual tissue — it must be resected; ablating it increases recurrence | **Strong; moderate** |
 | Prophylactic clip closure of EMR defects **≥20 mm in the right colon** (reduces delayed perforation) | Weak; moderate |
 
@@ -75,6 +76,7 @@ Graded recommendations ([[usmstf-2020-endoscopic-removal]]):
 
 - Water immersion instead of submucosal injection; mucosa/submucosa involute, MP remains circular
 - Avoids injection step; useful for flat lesions, some right colon lesions
+- **Use saline, not water** — avoids water intoxication syndrome (dilutional hyponatremia) on prolonged or large resections. Immersion drops contact impedance and peak voltage, giving a **predominantly coagulation effect**, so **higher power settings are needed to cut** ([[aga-2026-electrosurgery]]; mechanism on [[electrosurgery]])
 - Delayed bleeding **2–5%** for colon lesions ≥10 mm; **1 case report** of perforation (proximal colon lesion removed in retroflexion) ([[asge-2020-endoscopic-removal]])
 - **Recurrence data:** Underwater EMR recurrence rates 7–15% for ≥20mm lesions (comparable to inject-and-cut EMR); insufficient data to prefer one over the other
 
@@ -91,10 +93,13 @@ Graded recommendations ([[usmstf-2020-endoscopic-removal]]):
 
 ## Hot Avulsion Technique
 
-- For small (<10mm) residual or recurrent tissue at EMR scars not amenable to snare resection
-- Technique: grasp with coagulation forceps, tent tissue, apply coagulation current while avulsing
+- For small (<10mm) residual or recurrent tissue at EMR scars not amenable to snare resection, and for focal areas that will not lift because of **fibrosis** (prior biopsy, incomplete resection, or tattoo) ([[aga-2026-electrosurgery]])
+- Technique: grasp with hot forceps, tent tissue away from the wall, avulse with **short bursts of current (tap the pedal)** — never prolonged continuous activation (deep injury → bleeding, post-coagulation syndrome, delayed perforation)
+- **Current: predominant *cutting* current** — e.g. **EndoCut I, effect 3, duration 1, interval 3 (ERBE)**. Fibrotic tissue conducts poorly and has high impedance, so grasp a **small surface area** to keep current density high ([[aga-2026-electrosurgery]])
+  - ⚠ Supersedes the older "apply coagulation current while avulsing" wording of [[usmstf-2020-endoscopic-removal]] / [[asge-2020-endoscopic-removal]] — same tier, newer publication date. See [[electrosurgery]].
 - Used at surveillance visits; can be combined with snare-tip soft coagulation of remaining margin
 - Also known as "avulsion with soft coagulation" or "hot avulsion"
+- Efficacy and safety **outside the colon are undetermined** ([[aga-2026-electrosurgery]])
 
 ---
 
@@ -111,7 +116,7 @@ Graded recommendations ([[usmstf-2020-endoscopic-removal]]):
 
 ## See Also
 
-[[polypectomy]], [[colonoscopy]], [[colonoscopy-surveillance]], [[colorectal-esd]], [[endoscopic-submucosal-dissection]], [[endoscopic-full-thickness-resection]], [[argon-plasma-coagulation]], [[colorectal-cancer]]
+[[polypectomy]], [[colonoscopy]], [[colonoscopy-surveillance]], [[colorectal-esd]], [[endoscopic-submucosal-dissection]], [[endoscopic-full-thickness-resection]], [[argon-plasma-coagulation]], [[electrosurgery]], [[colorectal-cancer]]
 
 ---
 
@@ -121,3 +126,4 @@ Graded recommendations ([[usmstf-2020-endoscopic-removal]]):
 2. [[asge-2020-endoscopic-removal|ASGE 2020: Endoscopic Removal of Colorectal Lesions]]
 3. [[aga-2025-lifting-agents|AGA Clinical Practice Update on Endoscopic Lifting Agents: Commentary]]
 4. [[usmstf-2020-followup-colonoscopy|USMSTF 2020: Recommendations for Follow-Up After Colonoscopy and Polypectomy]]
+5. [[aga-2026-electrosurgery|AGA Clinical Practice Update on the Use of Electrosurgery in Therapeutic Endoscopy: Expert Review (2026)]]

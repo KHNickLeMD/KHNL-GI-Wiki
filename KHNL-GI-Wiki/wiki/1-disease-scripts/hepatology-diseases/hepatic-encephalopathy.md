@@ -3,8 +3,8 @@ title: "Hepatic Encephalopathy"
 category: disease-script
 tags: [hepatic-encephalopathy, HE, cirrhosis, ammonia, lactulose, rifaximin, TIPS, portal-hypertension, ACLF, minimal-HE, covert-HE, overt-HE, portosystemic-shunting, brain-dysfunction, west-haven, bristol-stool-scale, sarcopenia]
 created: 2026-05-28
-updated: 2026-09-02
-sources: [aasld-easl-2014-hepatic-encephalopathy, acg-2026-hepatic-encephalopathy]
+updated: 2026-09-03
+sources: [acg-2026-hepatic-encephalopathy, baveno-viii-2026-portal-hypertension, aasld-easl-2014-hepatic-encephalopathy]
 ---
 
 Hepatic encephalopathy (HE) is **brain dysfunction caused by liver insufficiency and/or portosystemic shunting (PSS)**, manifesting as a spectrum of neurological/psychiatric abnormalities from subclinical alterations to coma. *HE is a continuum*, not a single entity [[aasld-easl-2014-hepatic-encephalopathy]]. HE can occur without [[cirrhosis]] when simple portosystemic shunting is present; ACG 2026 reframes it as a **gut–brain axis disorder** ([[disorders-of-gut-brain-interaction|DGBI]] framing) and de-emphasizes ammonia throughout [[acg-2026-hepatic-encephalopathy]].
@@ -219,7 +219,7 @@ All elements initiated simultaneously ([[aasld-easl-2014-hepatic-encephalopathy]
 | **High-volume PEG (e.g., 4 L)** | ACG 2026 Rec 8 (*conditional, low certainty*) — alternative to lactulose | RCT: faster HE resolution than standard lactulose; PO or NG. Favor when lactulose causes abdominal discomfort, gas distension, or ileus |
 | **Zinc** | ACG 2026 Rec 14 (*conditional, very low certainty*) — add for persistent symptoms despite lactulose + rifaximin **in those with low blood zinc** | Cofactor in the urea cycle; efficacy data conflicting but safe adjunct |
 | Oral BCAAs | 2014 Rec 21 (Grade I, B, 2) — alternative/additional for OHE not responding to conventional therapy | IV BCAAs have no effect on episodic bouts |
-| IV LOLA (L-ornithine L-aspartate) | 2014 Rec 22 (Grade I, B, 2) — alternative/additional for refractory OHE | Oral LOLA ineffective |
+| **LOLA (L-ornithine L-aspartate)** | 2014 Rec 22 (Grade I, B, 2) — IV, alternative/additional for refractory OHE. **[[baveno-viii-2026-portal-hypertension\|Baveno VIII]] 6.13 (new, LoE 3, weak): LOLA "can be considered" in recurrent/persistent HE** | Oral LOLA ineffective per the 2014 guideline. Baveno VIII does not specify route or dose — **decision gap**; dose from the primary trials, not from this page. Baveno VIII also counts LOLA alongside lactulose and rifaximin as an "HE medication" that must be **stopped** before a patient can be called [[cirrhosis\|recompensated]] (7.4b, 7.7) |
 | l-carnitine | ACG 2026 Key concept 7 — second-line for MHE/CHE | Consider when concomitant skeletal muscle cramps |
 | Neomycin | 2014 Rec 23 (Grade II-1, B, 2) | Long-term ototoxicity/nephrotoxicity |
 | Metronidazole | 2014 Rec 24 (Grade II-3, B, 2) — short-term only | Neurotoxicity/nephrotoxicity |
@@ -254,13 +254,18 @@ All elements initiated simultaneously ([[aasld-easl-2014-hepatic-encephalopathy]
 ### TIPS and Portosystemic Shunts
 
 - **Start rifaximin 14 days before elective TIPS and continue ≥6 months** in decompensated cirrhosis, with or without prior OHE, to reduce recurrent or de novo OHE (ACG 2026, **Rec 22, strong, moderate certainty**). ⚠ This **supersedes** [[aasld-easl-2014-hepatic-encephalopathy]] Rec 27 (Grade III, B, 1), which advised against routine post-TIPS prophylaxis
+  - **[[baveno-viii-2026-portal-hypertension|Baveno VIII]] 6.16 agrees and drops the prior-HE restriction:** rifaximin **should be considered for HE prophylaxis in *any* candidate for elective TIPS** (LoE 2, strong). [[baveno-vii-2022-portal-hypertension|Baveno VII]] 4.9 had limited it to patients **with previous overt HE**, so Baveno VIII moves into line with ACG 2026
+- **Assess prior overt HE and current HE medications before elective TIPS** (Baveno VIII 6.14) — but **a history of prior overt HE is *not* an absolute contraindication to elective TIPS**; individualise on the clinical context (6.15)
 - **Embolize extrahepatic collaterals at the time of TIPS** to reduce post-TIPS HE (ACG 2026, Rec 23, *conditional, low certainty*)
 - **Shunt embolization for refractory HE** on optimized medical therapy with adequate hepatic function and no contraindications (ACG 2026, Rec 16, *conditional, very low certainty*) — large spontaneous PSS embolization can clear HE rapidly, though variceal bleeding risk may emerge
   - **Who qualifies — the operative criteria:** refractory HE despite optimal medical therapy, **MELD usually <15**, and **shunts ≥8 mm in diameter** ([[acg-2026-hepatic-encephalopathy]]). One series: 59.4% remained HE-free after obliteration of accessible portosystemic shunts
+  - **Baveno VIII 6.12** independently recommends **embolisation of large portosystemic shunts** for **recurrent/persistent HE despite optimal pharmacological therapy**, alongside a [[liver-transplantation|liver transplant]] discussion, and **particularly when liver function is preserved** (LoE 3, strong) — the same "preserved liver function" gate that ACG expresses as MELD <15, though Baveno gives no number
 - **Post-TIPS HE:** occurs in **30%–40%** of patients after TIPS ([[acg-2026-hepatic-encephalopathy]]); median cumulative 1-year OHE incidence was reported as 10%–50% in [[aasld-easl-2014-hepatic-encephalopathy]], heavily dependent on patient-selection criteria
   - **Refractory post-TIPS HE in 3%–7%** — most cases occur when the **portal-systemic gradient falls by >60%** after TIPS
   - **Risk factors:** older age, worse liver function, hyponatremia, pre-TIPS SPSS, prior HE history, larger stent diameter, greater portal-pressure-gradient reduction, and sarcopenia
   - **Once post-TIPS HE occurs, treat as non-TIPS HE** (lactulose + rifaximin). If unsuccessful or refractory: reduce the TIPS diameter by **ballooning or placing a smaller TIPS within the TIPS**, then consider embolization; ultimately consider LT
+  - **Baveno VIII 6.17** orders the same escalation — after **removing precipitants** and failing standard medical treatment, consider **spontaneous shunt embolisation and/or reduction or occlusion of the TIPS**. **5.34** adds that **overt HE refractory to medical *and* interventional therapy after TIPS may be a reason to prioritise the patient for [[liver-transplantation|liver transplantation]]**
+  - **Prevention at the shunt itself:** in recurrent/refractory [[ascites]], Baveno VIII 6.5–6.6 recommends dilating the TIPS to the **smallest diameter that achieves an adequate response**, and dilating **stepwise** if ascites does not improve — explicitly to limit **overshunting (HE, cardiac failure)**. See [[tips]]
   - Lactulose/lactitol prophylaxis to prevent post-TIPS HE was **unsuccessful** vs placebo in smaller studies. The rifaximin pre-TIPS RCT behind Rec 22 significantly reduced post-TIPS HE vs placebo, but enrolled **mostly refractory-ascites patients with alcohol etiology** — note the population when generalizing
 - **Sarcopenia is neither an indication nor a contraindication to TIPS**, but is associated with more post-TIPS HE and mortality (Key concept 23)
 - SPSS occur in up to 60% of cirrhosis, mark clinically significant portal hypertension, and predict decompensation and recurrent HE ("flow steal" bypassing hepatic clearance of neurotoxins)
@@ -277,7 +282,9 @@ All elements initiated simultaneously ([[aasld-easl-2014-hepatic-encephalopathy]
 
 ### De-escalation of Secondary Prophylaxis
 
-- **HE therapy may be de-escalated and potentially discontinued stepwise in patients who clinically recompensate** (ACG 2026, Key concept 16). *Recompensation outside HE* = resolution of ascites off diuretics, no variceal bleeding for 12 months, plus improved albumin, INR, and total bilirubin. If asymptomatic on therapy, stop HE medications **sequentially** with close monitoring
+- **HE therapy may be de-escalated and potentially discontinued stepwise in patients who clinically recompensate** (ACG 2026, Key concept 16). If asymptomatic on therapy, stop HE medications **sequentially** with close monitoring
+  - ⚠ **The recompensation definition ACG cites has been revised.** ACG 2026 Key concept 16 describes recompensation as resolution of ascites off diuretics, **no variceal bleeding for 12 months**, plus improved albumin, INR and bilirubin — the [[baveno-vii-2022-portal-hypertension|Baveno VII]] wording. **[[baveno-viii-2026-portal-hypertension|Baveno VIII]] 7.4 shortens the sustained-resolution window to **>6 consecutive months** and replaces "improved liver function tests" with a number: **CTP A5/A6**. Full criteria on [[cirrhosis|cirrhosis → Recompensation]]
+  - **Baveno VIII 7.7 makes the direction of causation explicit:** absence of HE *while on* lactulose/rifaximin/LOLA is **not** evidence of recompensation — so **withdraw the HE medication** once aetiologic cure/control is achieved and synthetic function has reached CTP A laboratory criteria, and judge recompensation on what happens next. Being off the drug is a criterion, not a consequence
 - 2014 Rec 28 (Grade III, C, 2) similarly allowed discontinuation once precipitants are well controlled or liver function/nutrition significantly improves
 
 ### Follow-Up After Hospitalization for OHE
@@ -299,5 +306,6 @@ All elements initiated simultaneously ([[aasld-easl-2014-hepatic-encephalopathy]
 
 ## Sources
 
-1. [[aasld-easl-2014-hepatic-encephalopathy|AASLD/EASL 2014 Practice Guideline: Hepatic Encephalopathy in Chronic Liver Disease]]
-2. [[acg-2026-hepatic-encephalopathy|ACG Clinical Guideline: Hepatic Encephalopathy (2026)]]
+1. [[acg-2026-hepatic-encephalopathy|ACG Clinical Guideline: Hepatic Encephalopathy (2026)]]
+2. [[baveno-viii-2026-portal-hypertension|Baveno VIII — Advancing Consensus in Portal Hypertension (2026)]]
+3. [[aasld-easl-2014-hepatic-encephalopathy|AASLD/EASL 2014 Practice Guideline: Hepatic Encephalopathy in Chronic Liver Disease]]

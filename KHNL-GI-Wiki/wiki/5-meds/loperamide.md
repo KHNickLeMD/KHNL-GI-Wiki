@@ -3,8 +3,8 @@ title: "Loperamide"
 category: med
 tags: [loperamide, antimotility, antidiarrheal, opioid-agonist]
 created: 2026-07-07
-updated: 2026-09-01
-sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea, aga-2022-ibs-d, acg-2021-anorectal-disorders, aga-2026-cdiff-ibd]
+updated: 2026-09-03
+sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea, aga-2022-ibs-d, acg-2021-anorectal-disorders, aga-2026-cdiff-ibd, aga-2026-cdiff-adults]
 ---
 
 ## Class
@@ -31,6 +31,7 @@ Peripheral μ-opioid receptor agonist; antimotility agent. First-line antimotili
 | [[fecal-incontinence]] — **only when FI is accompanied by diarrhea** | Antidiarrheals recommended (loperamide, diphenoxylate-atropine, bile-salt binders, anticholinergics, clonidine) — the qualifier is the indication; FI without diarrhea is not this recommendation | Strong / Low (Rec 1) | [[acg-2021-anorectal-disorders]] |
 | [[irritable-bowel-syndrome\|IBS]]-D | Suggested for diarrhea control — improves abdominal pain and stool consistency, but **no benefit on global symptoms or urgency** | Conditional / **very low** | [[aga-2022-ibs-d]] (Rec 4) |
 | [[clostridioides-difficile\|C. difficile]] in [[inflammatory-bowel-disease\|IBD]] | May consider **only** when inflammation and infection are improving but diarrhea persists | Expert review | [[aga-2026-cdiff-ibd]] |
+| [[clostridioides-difficile\|C. difficile]], general adults | **Not suggested.** If used at all: only **after anti-CDI therapy has started**, and for the **shortest duration** needed for symptom control | Expert review (BPA 5) | [[aga-2026-cdiff-adults]] |
 
 ## Adverse Effects
 
@@ -41,6 +42,7 @@ Peripheral μ-opioid receptor agonist; antimotility agent. First-line antimotili
 
 - **Children <18 y with acute diarrhea — do NOT give** (Strong/Moderate, [[idsa-2017-infectious-diarrhea]]).
 - **Avoid at any age** in suspected or proven cases where **[[toxic-megacolon|toxic megacolon]] may result**, in **inflammatory diarrhea**, or **diarrhea with fever** (Strong/Low, [[idsa-2017-infectious-diarrhea]]).
+- **Antimotility agents are contraindicated in three named settings** ([[aga-2026-cdiff-adults]]): **untreated [[clostridioides-difficile|CDI]]**, **fulminant CDI**, and **severe colonic [[inflammatory-bowel-disease|IBD]]** — the concern is toxin retention and [[toxic-megacolon|toxic megacolon]]. The "untreated" qualifier is the operative one: once anti-CDI antibiotics are running, brief use is permissible though still not suggested.
 
 ## See Also
 
@@ -55,3 +57,4 @@ Peripheral μ-opioid receptor agonist; antimotility agent. First-line antimotili
 3. [[aga-2022-ibs-d|AGA Clinical Practice Guideline: Pharmacological Management of IBS-D (2022)]]
 4. [[acg-2021-anorectal-disorders|ACG 2021 Clinical Guidelines: Management of Benign Anorectal Disorders]]
 5. [[aga-2026-cdiff-ibd|AGA Clinical Practice Update on Management of Clostridioides difficile Infection in Inflammatory Bowel Disease: Expert Review]]
+6. [[aga-2026-cdiff-adults|AGA Clinical Practice Update on Management of Clostridioides difficile Infection in Adults: Expert Review (2026)]]

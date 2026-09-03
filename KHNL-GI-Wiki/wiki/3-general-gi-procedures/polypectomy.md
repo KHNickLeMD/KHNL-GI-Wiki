@@ -3,8 +3,8 @@ title: "Polypectomy (Colorectal)"
 category: general-procedure
 tags: [polypectomy, cold-snare, colonoscopy, colorectal, paris-classification, nice-classification, malignant-polyp, submucosal-invasion, haggitt, kikuchi, tumor-budding, lymphovascular-invasion]
 created: 2026-05-07
-updated: 2026-08-27
-sources: [usmstf-2020-endoscopic-removal, asge-2020-endoscopic-removal, usmstf-2020-malignant-colorectal-polyps, aga-2024-tailored-polypectomy, aga-2025-endoscopic-resection-crc]
+updated: 2026-09-03
+sources: [usmstf-2020-endoscopic-removal, asge-2020-endoscopic-removal, usmstf-2020-malignant-colorectal-polyps, aga-2024-tailored-polypectomy, aga-2025-endoscopic-resection-crc, aga-2026-electrosurgery]
 ---
 
 # Polypectomy (Colorectal)
@@ -169,7 +169,10 @@ Structured optical assessment (Paris/NICE/WASP/Kudo/JNET — see [[#Optical Diag
 
 - **Intermediate-size RCT data:** complete resection CSP 81.6% / c-EMR 94.1% / hot-EMR 95.5% (6–20 mm); immediate bleeding higher with cold, delayed bleeding higher with hot. SSLs ≥10 mm resect cold with practically no upper size limit (recurrence 0–10%, no perforations; c-EMR vs h-EMR eliminates the ~5% bleeding / ~3% deep-mural-injury of hot).
 - **Prophylactic clips (BPA 8):** do **not** routinely clip resection sites for polyps **<20 mm** — benefit is limited to **≥20 mm proximal-colon** lesions (individual-patient-data meta-analysis: 38% ↓ delayed bleeding, adjusted OR 0.62). Serrated polyps have low bleeding risk and don't need clipping. *(Consistent with the ≥20 mm / right-colon clipping guidance on [[endoscopic-mucosal-resection]].)*
-- **Electrosurgical generator (BPA 12):** know your suite's ESG settings for polypectomy and post-polypectomy thermal techniques.
+- **Electrosurgical generator (BPA 12):** know your suite's ESG settings for polypectomy and post-polypectomy thermal techniques. Settings by manufacturer, waveform physics, and safety are on **[[electrosurgery]]**.
+
+- **Which current, when a hot technique is chosen:** **either cut- or coagulation-predominant is acceptable** — no clear difference in serious adverse events, complete resection, or recurrence ([[aga-2026-electrosurgery]] BPA 5). For **large pedunculated** polyps a coagulation-predominant waveform may be preferable, to seal vessels across the thick stalk. *RCT numbers and the analog-generator caveat: [[electrosurgery#Polypectomy]].*
+- **Snare placement on a stalk: across the *mid-stalk*, not near the base** — too basal transmits excessive thermal injury to the colonic wall ([[aga-2026-electrosurgery]] BPA 6).
 
 ---
 
@@ -346,7 +349,7 @@ After endoscopic resection reveals a malignant polyp, histologic features determ
 
 ## See Also
 
-[[colonoscopy]], [[colonoscopy-surveillance]], [[endoscopic-mucosal-resection]], [[colorectal-esd]], [[endoscopic-full-thickness-resection]], [[colorectal-cancer]], [[colorectal-cancer-screening]], [[endoscopic-ultrasound]], [[lynch-syndrome]], [[inflammatory-bowel-disease]]
+[[colonoscopy]], [[colonoscopy-surveillance]], [[endoscopic-mucosal-resection]], [[colorectal-esd]], [[endoscopic-full-thickness-resection]], [[electrosurgery]], [[argon-plasma-coagulation]], [[colorectal-cancer]], [[colorectal-cancer-screening]], [[endoscopic-ultrasound]], [[lynch-syndrome]], [[inflammatory-bowel-disease]]
 
 ---
 
@@ -357,3 +360,4 @@ After endoscopic resection reveals a malignant polyp, histologic features determ
 3. [[usmstf-2020-malignant-colorectal-polyps|USMSTF 2020: Endoscopic Recognition and Management Strategies for Malignant Colorectal Polyps]]
 4. [[aga-2024-tailored-polypectomy|AGA Clinical Practice Update on Appropriate and Tailored Polypectomy: Expert Review (2024)]]
 5. [[aga-2025-endoscopic-resection-crc|AGA Clinical Practice Update on Endoscopic Resection for Early Colorectal Cancer: Commentary (2025)]]
+6. [[aga-2026-electrosurgery|AGA Clinical Practice Update on the Use of Electrosurgery in Therapeutic Endoscopy: Expert Review (2026)]]

@@ -4,7 +4,7 @@ category: advanced-procedure
 tags: [esd, endoscopic-resection, emr, early-gastric-cancer, early-esophageal-cancer, en-bloc, r0-resection]
 created: 2026-06-27
 updated: 2026-09-03
-sources: [asge-2023-esd]
+sources: [asge-2023-esd, aga-2026-electrosurgery]
 ---
 
 # Endoscopic Submucosal Dissection (Esophagogastric)
@@ -28,6 +28,7 @@ En-bloc endoscopic resection of early GI neoplasia using electrosurgical knives 
 - **En-bloc resection:** entire neoplastic/dysplastic/cancerous tissue removed in **1 piece** (vs piecemeal). EMR en-bloc is capped by maximum snare diameter → larger lesions need piecemeal EMR, which cannot reliably confirm R0.
 - **R0 resection:** resection margins microscopically disease-free.
 - **ESD principle:** electrosurgical-knife dissection removes lesions much larger than snares allow in one piece → critical for a low recurrence rate.
+- **Third-space energy delivery:** which current to use for dissection vs fibrosis, the 10 W knife-shaft technique for preemptive vessel sealing, when to switch to coagulation forceps, and underwater settings are on **[[electrosurgery#Third-Space Endoscopy (ESD, POEM)]]** ([[aga-2026-electrosurgery]] BPA 13).
 
 ## ESD vs EMR vs Surgery — Lesion-Based Selection
 
@@ -98,10 +99,11 @@ Meta-analysis (8 observational studies; 821 ESD vs 1306 EMR):
 
 ## See Also
 
-[[colorectal-esd]], [[endoscopic-mucosal-resection]], [[polypectomy]], [[endoscopic-eradication-therapy]], [[endoscopic-full-thickness-resection]], [[upper-endoscopy]], [[endoscopic-ultrasound]], [[barretts-esophagus]], [[gastric-adenocarcinoma]], [[gastric-intestinal-metaplasia]], [[esophageal-cancer]], [[esophageal-adenocarcinoma]], [[colorectal-cancer]], [[endoscopic-oncology]]
+[[colorectal-esd]], [[endoscopic-mucosal-resection]], [[polypectomy]], [[endoscopic-eradication-therapy]], [[endoscopic-full-thickness-resection]], [[upper-endoscopy]], [[endoscopic-ultrasound]], [[barretts-esophagus]], [[gastric-adenocarcinoma]], [[gastric-intestinal-metaplasia]], [[esophageal-cancer]], [[esophageal-adenocarcinoma]], [[colorectal-cancer]], [[endoscopic-oncology]], [[electrosurgery]]
 
 ---
 
 ## Sources
 
 1. [[asge-2023-esd|ASGE Guideline: ESD for Early Esophageal and Gastric Cancer (2023)]]
+2. [[aga-2026-electrosurgery|AGA Clinical Practice Update on the Use of Electrosurgery in Therapeutic Endoscopy: Expert Review (2026)]]

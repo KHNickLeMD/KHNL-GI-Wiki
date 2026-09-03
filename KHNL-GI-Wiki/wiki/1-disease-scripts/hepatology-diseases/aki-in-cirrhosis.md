@@ -3,8 +3,8 @@ title: "AKI in Cirrhosis (including HRS-AKI)"
 category: disease-script
 tags: [aki, cirrhosis, hrs, hepatorenal-syndrome, albumin, terlipressin, liver]
 created: 2026-05-15
-updated: 2026-09-02
-sources: [aga-2022-aki-cirrhosis, aga-2024-vasoactive-albumin-cirrhosis, aasld-2024-aclf]
+updated: 2026-09-03
+sources: [aga-2022-aki-cirrhosis, aga-2024-vasoactive-albumin-cirrhosis, aasld-2024-aclf, baveno-viii-2026-portal-hypertension]
 ---
 
 ## Contents
@@ -186,10 +186,11 @@ Vasopressin V1 receptor analog; reverses splanchnic vasodilatation.
 - **Bolus dosing:**
   - Start: **1 mg IV q4–6h** (total 4–6 mg/day)
   - Escalate to **2 mg IV q4–6h** (total 8–12 mg/day) if SCr has not decreased ≥25% from baseline by **day 3**
-- **Continuous infusion (alternative):**
-  - Start: **2 mg/day** IV continuous infusion
+- **Continuous infusion — [[baveno-viii-2026-portal-hypertension|Baveno VIII]] 6.19 makes this the *preferred* route:** *"Terlipressin should preferably be administered as continuous intravenous infusion (**starting dose 2–3 mg/24 hours**) to reduce the incidence of adverse events"* (LoE 2, strong, new)
+  - Start: **2–3 mg/24 h** IV continuous infusion (AGA 2024 gives the lower bound, 2 mg/day)
   - Titrate every 24–48 hours up to maximum **12 mg/day**
   - Lower total daily dose with similar efficacy; fewer ischemic side effects
+  - ⚠ **Route preference is the change.** [[aga-2022-aki-cirrhosis|AGA 2022]] BPA 7 and the FDA label both frame bolus dosing as standard with infusion as an alternative; Baveno VIII inverts that, on the adverse-event argument
 - **FDA-approved US schedule (CONFIRM):** 1 mg IV **q6h**, increased to **2 mg q6h on day 4** if response is insufficient (**<30%** decrease in creatinine); continue up to **14 days**; may stop **24 h after creatinine falls below 1.5 mg/dL** [[aga-2024-vasoactive-albumin-cirrhosis]]
 - **Start early — pretreatment creatinine drives failure.** Every 1 mg/dL fall in creatinine on treatment carries a **27% relative reduction in mortality**, so even small reductions are worth pursuing
 
@@ -238,6 +239,7 @@ Alpha-1 adrenergic agonist; requires ICU monitoring.
 - Goal: MAP increase ≥10 mmHg AND/OR urine output >50 mL/h for ≥4 hours
 - Efficacy comparable to terlipressin in non-ACLF settings (HRS reversal 39–70%)
 - ICU requirement adds to cost; small feasibility study supports use outside ICU but not yet standard
+- **[[baveno-viii-2026-portal-hypertension|Baveno VIII]] 6.20 states the trigger explicitly:** norepinephrine can be used as an alternative **if terlipressin is unavailable, contraindicated, or not tolerated** (LoE 1, strong, new). Note this is a *substitution* rule, not a first-line choice — for HRS-AKI generally, Baveno VIII 6.18 keeps **terlipressin plus [[albumin|albumin]]** as the therapy to consider (LoE 1, strong). Where the patient is in shock or has ACLF-3, [[aasld-2024-aclf]] GS 25–26 still make norepinephrine the preferred agent
 
 **Side effects:** ischemic complications (digital, splanchnic, cardiac), arrhythmias, respiratory side effects
 
@@ -298,3 +300,4 @@ Post-LT: patients can be listed for high-priority kidney transplantation alone i
 1. [[aga-2022-aki-cirrhosis|AGA 2022: Diagnosis and Management of AKI in Cirrhosis]]
 2. [[aga-2024-vasoactive-albumin-cirrhosis|AGA 2024 Clinical Practice Update on the Use of Vasoactive Drugs and Intravenous Albumin in Cirrhosis]]
 3. [[aasld-2024-aclf|AASLD 2024 Practice Guidance on Acute-on-Chronic Liver Failure]]
+4. [[baveno-viii-2026-portal-hypertension|Baveno VIII — Advancing Consensus in Portal Hypertension (2026)]]

@@ -3,8 +3,8 @@ title: "Proton Pump Inhibitors (PPIs)"
 category: med
 tags: [ppi, acid-suppression, gerd, erosive-esophagitis, peptic-ulcer-disease, h-pylori, eoe, omeprazole, esomeprazole]
 created: 2026-07-21
-updated: 2026-08-31
-sources: [acg-2021-gerd, acg-2024-hp-treatment, acg-2025-eoe, acg-2022-barretts]
+updated: 2026-09-03
+sources: [acg-2021-gerd, acg-2024-hp-treatment, acg-2025-eoe, acg-2022-barretts, aga-2026-cdiff-adults]
 ---
 
 Drug class that inhibits the gastric H⁺/K⁺-ATPase (proton pump); the mainstay medical acid-suppressant for [[gerd]], erosive esophagitis, [[peptic-ulcer-disease|peptic ulcer disease]], and [[helicobacter-pylori-infection|H. pylori]] eradication regimens. Contrast with [[potassium-competitive-acid-blockers|P-CABs]] (e.g. [[vonoprazan]]).
@@ -102,6 +102,8 @@ Standard-dose acid-suppression potency standardized to omeprazole = 1.00 ("omepr
 *As stated in [[acg-2021-gerd]] — associations largely from weak observational data.*
 - **Common ADRs** (clinical trials / FDA labels): headache, abdominal pain, nausea, vomiting, diarrhea, constipation, flatulence — infrequent, abate on stopping; can be preparation-specific → switching PPI is reasonable.
 - **Putative serious associations** (chronic use): intestinal infections, pneumonia, [[gastric-adenocarcinoma|stomach cancer]], osteoporosis-related fractures, chronic kidney disease, vitamin/mineral deficiencies, myocardial infarction, stroke, dementia, early death. High-quality studies found PPIs do **not** significantly increase risk of any of these **except intestinal infections**; a small increase in others cannot be fully excluded. Benefits generally far outweigh theoretical risks.
+- **[[clostridioides-difficile|C. difficile]] — the decision is binary, and dose reduction is not an option** ([[aga-2026-cdiff-adults]], BPA 13). During CDI treatment or recurrence prevention, **evaluate the indication**: if a legitimate one exists (ulcer prevention, severe GERD), **do not discontinue** — benefit outweighs the CDI risk. If none exists, discuss cessation. **No evidence supports reducing the dose.**
+  - Magnitude of risk: pooled observational recurrent CDI **24% in PPI users vs 18% in nonusers**; the largest RCT (>17,000 patients, 3 years) found no significant increase (**11 vs 4 cases; NNH 1800** with daily pantoprazole); recent meta-analyses found no significant difference vs placebo, H2RA, or [[potassium-competitive-acid-blockers|P-CAB]]. Proposed mechanism: enhanced spore survival in a less acidic stomach plus altered colonization resistance.
 - **No routine monitoring/supplementation** in patients without other risk factors: calcium/vitamin D/BMD; vitamin B12; serum creatinine.
 - **[[anticoagulation-gi-bleeding|Clopidogrel]]:** for LA grade C/D esophagitis or inadequately controlled GERD, benefits outweigh the proposed (highly questionable) cardiovascular risk.
 - **Renal insufficiency:** PPIs may be used with monitoring of renal function / nephrology input.
@@ -115,7 +117,7 @@ Standard-dose acid-suppression potency standardized to omeprazole = 1.00 ("omepr
 
 ## See Also
 
-[[potassium-competitive-acid-blockers]], [[vonoprazan]], [[gerd]], [[barretts-esophagus]], [[eosinophilic-esophagitis]], [[peptic-ulcer-disease]], [[upper-gi-bleeding]], [[helicobacter-pylori-infection]], [[bismuth-quadruple-therapy]], [[ambulatory-reflux-monitoring]], [[reflux-testing]], [[endoscopic-eradication-therapy]], [[esophageal-adenocarcinoma]], [[anticoagulation-gi-bleeding]]
+[[potassium-competitive-acid-blockers]], [[vonoprazan]], [[gerd]], [[barretts-esophagus]], [[eosinophilic-esophagitis]], [[peptic-ulcer-disease]], [[upper-gi-bleeding]], [[helicobacter-pylori-infection]], [[bismuth-quadruple-therapy]], [[ambulatory-reflux-monitoring]], [[reflux-testing]], [[endoscopic-eradication-therapy]], [[esophageal-adenocarcinoma]], [[anticoagulation-gi-bleeding]], [[clostridioides-difficile]]
 
 ---
 
@@ -125,3 +127,4 @@ Standard-dose acid-suppression potency standardized to omeprazole = 1.00 ("omepr
 2. [[acg-2024-hp-treatment|ACG Clinical Guideline: Treatment of Helicobacter pylori Infection (2024)]]
 3. [[acg-2025-eoe|ACG 2025: Diagnosis and Management of Eosinophilic Esophagitis]]
 4. [[acg-2022-barretts|ACG 2022: Diagnosis and Management of Barrett's Esophagus]]
+5. [[aga-2026-cdiff-adults|AGA Clinical Practice Update on Management of Clostridioides difficile Infection in Adults: Expert Review (2026)]]

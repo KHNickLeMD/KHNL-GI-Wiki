@@ -3,8 +3,8 @@ title: "Acute-on-Chronic Liver Failure (ACLF)"
 category: disease-script
 tags: [ACLF, acute-on-chronic-liver-failure, cirrhosis, organ-failure, ICU, NACSELD, EASL-CLIF, terlipressin, HRS, hepatic-encephalopathy, infection, nutrition, liver-transplantation, palliative-care]
 created: 2026-05-28
-updated: 2026-08-31
-sources: [aasld-2024-aclf]
+updated: 2026-09-03
+sources: [aasld-2024-aclf, baveno-viii-2026-portal-hypertension]
 ---
 
 ## Contents
@@ -56,6 +56,12 @@ ACLF is a syndrome in patients with chronic liver disease (CLD) characterized by
 **Pre-ACLF:** Subgroup of decompensated cirrhosis at higher risk of developing ACLF (higher CRP, WBC, MELD); characterized by progressive increase in severity scores. No individual biomarker predicts ACLF development.
 
 **Common precipitating events (~48% infection-related):** Bacterial infection ([[spontaneous-bacterial-peritonitis|SBP]], UTI, pneumonia, bacteremia), [[alcohol-associated-liver-disease|alcohol-associated hepatitis]], [[variceal-upper-gi-bleeding|GI bleeding]], procedural complications, drug/hepatotoxin exposure, viral hepatitis flares. Often precipitant is not identified.
+
+**[[baveno-viii-2026-portal-hypertension|Baveno VIII]] names the same precipitants from the [[portal-hypertension|portal-hypertension]] side, and adds surgery:**
+
+- **Superimposed acute liver injury** — alcohol-related hepatitis, acute HEV/HAV/HBV, HBV flares, **[[autoimmune-hepatitis|autoimmune hepatitis]]**, or **[[drug-induced-liver-injury|DILI]]** — can precipitate decompensation **and/or ACLF** in compensated cirrhosis/cACLD (3.7)
+- **Bacterial infections** do the same in compensated patients **with CSPH** (3.10); their prognostic impact **without** CSPH is unclear (3.11)
+- **Surgery, especially major surgery, can precipitate ACLF** in patients with CSPH, **with risk rising as portal hypertension becomes more severe** (3.13, new). **Pre-operative [[tips|TIPS]] may be considered before major surgery** to reduce that risk (3.20b)
 
 ### Severity Assessment
 
@@ -210,6 +216,12 @@ Infection is the most common precipitant of ACLF (~48%). Every hour delay in ant
 - When correction needed: 4-factor prothrombin complex concentrate or cryoprecipitate preferred over FFP
 - Therapeutic anticoagulation: similar nonportal hypertensive bleeding rates vs. general population; case-by-case for platelet <50 (GS 36)
 
+### ACLF and Pre-emptive TIPS
+
+> **ACLF does not disqualify a patient from pre-emptive [[tips|TIPS]] after [[variceal-upper-gi-bleeding|acute variceal bleeding]].** [[baveno-viii-2026-portal-hypertension|Baveno VIII]] 5.33 (LoE 3, strong): in patients who meet the pre-emptive TIPS criteria, **ACLF, overt [[hepatic-encephalopathy|HE]], hyperbilirubinaemia, MELD score, and severe [[alcohol-associated-liver-disease|alcohol-related hepatitis]] should not be considered absolute contraindications.** Baveno VIII adds MELD and severe alcohol-related hepatitis to the shorter Baveno VII list. The criteria themselves (Child-Pugh C 10–13; or Child-Pugh B >7 with active bleeding; or HVPG ≥20 mmHg) are on [[variceal-upper-gi-bleeding]].
+>
+> Baveno VIII 5.37 separately **withdraws the numeric salvage-TIPS futility rule** (previously Child-Pugh ≥14, or MELD >30 with lactate >12 mmol/L) — salvage TIPS is now discussed case-by-case regardless of age, Child-Pugh, and MELD. In a critically ill ACLF patient this removes the score-based exclusion, but not the clinical judgement; note also that MELD is **not** the right prognostic tool in critical illness (GS above — use NACSELD, CLIF-C, or AARC).
+
 ### Nutrition
 
 [[nutrition-in-liver-disease|Malnutrition]] and sarcopenia are extremely common in ACLF and independently predict mortality. **Protein restriction is NEVER indicated (GS 42).**
@@ -264,10 +276,11 @@ Palliative care is essential in ACLF management; frequently underutilized (GS 49
 
 ## See Also
 
-[[acute-liver-failure]], [[aki-in-cirrhosis]], [[spontaneous-bacterial-peritonitis]], [[portal-hypertension]], [[variceal-upper-gi-bleeding]], [[ascites]], [[hepatopulmonary-syndrome-portopulmonary-hypertension]], [[liver-transplantation]], [[hepatic-encephalopathy]], [[alcohol-associated-liver-disease]], [[portal-vein-thrombosis]], [[hepatocellular-carcinoma]], [[nutrition-in-liver-disease]], [[rifaximin]], [[proton-pump-inhibitors]], [[abnormal-liver-chemistries]], [[cirrhosis]], [[albumin]], [[cirrhosis-hemostasis]], [[tips]], [[somatostatin-analogs]]
+[[acute-liver-failure]], [[aki-in-cirrhosis]], [[spontaneous-bacterial-peritonitis]], [[portal-hypertension]], [[variceal-upper-gi-bleeding]], [[ascites]], [[hepatopulmonary-syndrome-portopulmonary-hypertension]], [[liver-transplantation]], [[hepatic-encephalopathy]], [[alcohol-associated-liver-disease]], [[portal-vein-thrombosis]], [[hepatocellular-carcinoma]], [[nutrition-in-liver-disease]], [[rifaximin]], [[proton-pump-inhibitors]], [[abnormal-liver-chemistries]], [[cirrhosis]], [[albumin]], [[cirrhosis-hemostasis]], [[tips]], [[somatostatin-analogs]], [[autoimmune-hepatitis]], [[drug-induced-liver-injury]]
 
 ---
 
 ## Sources
 
 1. [[aasld-2024-aclf|AASLD 2024 Practice Guidance on Acute-on-Chronic Liver Failure]]
+2. [[baveno-viii-2026-portal-hypertension|Baveno VIII — Advancing Consensus in Portal Hypertension (2026)]]

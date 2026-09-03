@@ -3,8 +3,8 @@ title: "NAFLD / MASLD (Metabolic Dysfunction-Associated Steatotic Liver Disease)
 category: disease-script
 tags: [nafld, masld, nash, mash, steatosis, metabolic-syndrome, fibrosis, fibroscan, hpb, liver, obesity, diabetes, semaglutide, resmetirom, glp-1, nit, essence-trial, liver-transplant, post-transplant, recurrence]
 created: 2026-05-19
-updated: 2026-09-02
-sources: [aasld-2023-nafld, aasld-2023-masld-nomenclature, aasld-2024-resmetirom, aasld-2024-nilda-blood, aasld-2025-semaglutide-mash, acg-2017-liver-chemistries, aasld-ast-2025-liver-transplant-graft-complications, aasld-ast-2025-liver-transplant-non-graft-complications, aga-2023-nafld-noninvasive-biomarkers]
+updated: 2026-09-03
+sources: [aasld-2023-nafld, aasld-2023-masld-nomenclature, aasld-2024-resmetirom, aasld-2024-nilda-blood, aasld-2025-semaglutide-mash, baveno-viii-2026-portal-hypertension, acg-2017-liver-chemistries, aasld-ast-2025-liver-transplant-graft-complications, aasld-ast-2025-liver-transplant-non-graft-complications, aga-2023-nafld-noninvasive-biomarkers]
 ---
 
 ## Contents
@@ -22,6 +22,7 @@ sources: [aasld-2023-nafld, aasld-2023-masld-nomenclature, aasld-2024-resmetirom
     - [[#Resmetirom (Rezdiffra) — FDA-Approved March 2024 for MASH F2–F3]]
     - [[#Other Pharmacotherapy (no FDA approval for MASH; AASLD guidance statements)]]
     - [[#Bariatric / Metabolic Surgery and Endoscopic Interventions]]
+    - [[#Pharmacotherapy in MASLD-related cirrhosis — Baveno VIII]]
     - [[#Liver Transplantation]]
   - [[#Cardiometabolic Risk Management in MASLD]]
   - [[#Post-Liver-Transplant MASLD Management]]
@@ -105,6 +106,20 @@ See [[noninvasive-liver-disease-assessment]] for the cross-disease NILDA framewo
 - **Confounders of platelet-based scores (FIB-4/APRI/NFS):** falsely *lowered* by splenectomy; falsely *raised* by non-portal-hypertensive thrombocytopenia and active inflammation (high AST/ALT); CKD lowers estimates; NFS distorted by albumin (malnutrition) and postprandial glucose. AASLD **suggests against** blood-based NILDA for serial tracking of fibrosis progression/regression. [[aasld-2024-nilda-blood]]
 
 > **The drug-candidacy NIT windows are a different set of numbers.** The narrower F2–F3 ranges that select patients for [[semaglutide]] and [[resmetirom]] — and the NIT signs of cirrhosis/[[portal-hypertension|portal hypertension]] that contraindicate both — are stated with the prescribing decision under [[#Pharmacotherapy]] below, not here. [[aasld-2025-semaglutide-mash]] [[aasld-2024-resmetirom]]
+
+**How much NIT change is meaningful in MASLD — [[baveno-viii-2026-portal-hypertension|Baveno VIII]] Panel 2, all new.** These are calibrated to the **risk of liver-related events**, which is what Baveno VIII says NITs should be calibrated to rather than fibrosis stage (2.8):
+
+| Test | Change | What it signals |
+|---|---|---|
+| **LSM by VCTE** | **Confirmed ≥30% relative change** | Clinically meaningful change in the risk of liver-related events, **particularly when it crosses the 15 kPa threshold** (2.9). In cACLD **without CSPH**, a ≥30% *reduction* may indicate **≥1 stage fibrosis regression** (2.6) |
+| **LSM + ELF together** | ≥30% relative LSM reduction **plus ≥0.5-unit absolute ELF reduction** | Assesses ≥1 stage regression better than LSM alone (2.7) |
+| **MRE** | **≥20% relative change** | Clinically meaningful risk change (2.11) |
+| **ELF** | **0.5-unit absolute change** | Clinically meaningful risk change (2.12) |
+| **pSWE / 2D-SWE** | Probably comparable to VCTE | **Evidence insufficient to recommend them as monitoring tools** (2.10) |
+
+- **The lever: ≥10% weight reduction is associated with a ≥30% relative LSM reduction** in MASLD-related cACLD (2.13) — which ties the weight-loss ladder above to a measurable NIT endpoint.
+- **[[hepatic-venous-pressure-gradient|HVPG]] underestimates the true portal pressure gradient in MASLD-related cACLD** (2.5). An HVPG ≥10 mmHg still marks a significantly increased decompensation risk, but the risk below 10 mmHg is **lower, not absent** — so a sub-threshold gradient in a MASLD patient does not exclude portal hypertension.
+- ⚠ These thresholds are **not** the [[semaglutide]] treatment-response criteria (VCTE ≥30%, MRE ≥20%, MRI-PDFF ≥30%, ALT ≥17 U/L or ≥20%, ELF ≥0.5) under [[#Pharmacotherapy]], even where the numbers coincide. Baveno VIII's are prognostic; AASLD's decide whether to continue a drug.
 
 **Non-invasive steatosis assessment:** [[aasld-2023-nafld]]
 
@@ -241,6 +256,23 @@ Oral **thyroid hormone receptor-β (THR-β) agonist**; first FDA-approved pharma
 - **Decompensated cirrhosis = absolute contraindication**; compensated NASH cirrhosis only at high-volume centers / combined with LT.
 - Endoscopic sleeve gastroplasty / [[intragastric-balloon|intragastric balloon]] — emerging, less-invasive options.
 
+**[[baveno-viii-2026-portal-hypertension|Baveno VIII]] Panel 2 splits the decision by CSPH, not by cirrhosis** — the operative question becomes whether [[portal-hypertension|clinically significant portal hypertension]] is present, which is answerable non-invasively:
+
+| Stage | Baveno VIII position | Statement |
+|---|---|---|
+| **MASLD-related cACLD *without* CSPH** | Metabolic and bariatric surgery carries **only a modest increase in surgical-complication risk** and may improve liver histology and liver-related events. **MASLD-related cACLD may itself be treated as an obesity-associated morbidity that justifies surgery at a *lower* BMI threshold** | 2.14 |
+| **Features suggestive of CSPH** | **Surgical complications are increased.** Manage with a **multidisciplinary team at an expert centre** | 2.15 |
+| **Decompensated cirrhosis** | **Generally contraindicated**, except in highly specialised settings such as **in conjunction with [[liver-transplantation\|liver transplantation]]**; multidisciplinary team at an expert centre | 2.16 |
+
+- Concordant with the AASLD position above, but adds the lower-BMI-threshold argument for cACLD without CSPH, and replaces "compensated cirrhosis at high-volume centres" with a CSPH-based gate. **Assess CSPH before referring** — criteria on [[portal-hypertension]].
+
+#### Pharmacotherapy in MASLD-related cirrhosis — Baveno VIII
+
+> ⚠ **Do not extrapolate the F2–F3 trial data to a cirrhotic patient.** [[baveno-viii-2026-portal-hypertension|Baveno VIII]] 2.17 (LoE 2, strong): **there are currently no regulatory approved pharmacologic therapies for MASLD with established cirrhosis**, and **efficacy data from non-cirrhotic MASLD populations (moderate or advanced fibrosis) should not be extrapolated to established cirrhosis.** This is the same boundary the [[semaglutide]] and [[resmetirom]] candidacy tables draw with NIT cut-offs (VCTE >20 kPa, MRE >5.0 kPa, ELF >11.3, nodular contour, platelets <150,000/mm³) — Baveno VIII states it as a general rule.
+
+- **What to do instead (2.18):** optimise **lifestyle and metabolic comorbidities**, **prevent hepatic decompensation** (see [[portal-hypertension]]), and **refer for clinical trial participation**.
+- **[[glp-1-receptor-agonists|GLP-1-based therapies]] and SGLT2 inhibitors are safe in cACLD (2.19).** Both classes — including mono- and multi-receptor GLP-1 agonists — **can be safely used in patients with cACLD, absent contraindications, for their approved indications**: type 2 diabetes for both, and **obesity for the GLP-1–based therapies**. The distinction matters: this is a **safety** statement about treating the metabolic disease in a patient who happens to have cACLD, **not** an efficacy claim about treating the liver disease.
+
 #### Liver Transplantation
 
 - Indicated for decompensated MASH cirrhosis; recurrent and de novo MASLD in the allograft is common — see [[#Post-Liver-Transplant MASLD Management]] below.
@@ -309,7 +341,8 @@ Per [[aasld-ast-2025-liver-transplant-graft-complications]] (recurrent MASLD pos
 3. [[aasld-2024-resmetirom|Resmetirom Therapy for MASLD: October 2024 Updates to AASLD Practice Guidance]]
 4. [[aasld-2024-nilda-blood|AASLD 2024 Practice Guideline: Blood-Based Noninvasive Liver Disease Assessment (NILDA) of Hepatic Fibrosis and Steatosis]]
 5. [[aasld-2025-semaglutide-mash|Semaglutide Therapy for Metabolic Dysfunction–Associated Steatohepatitis: November 2025 Updates to AASLD Practice Guidance]]
-6. [[acg-2017-liver-chemistries|ACG 2017: Evaluation of Abnormal Liver Chemistries]]
-7. [[aasld-ast-2025-liver-transplant-graft-complications|AASLD/AST 2025: Practice Guideline on Adult Liver Transplantation — Diagnosis and Management of Graft-Related Complications]]
-8. [[aga-2023-nafld-noninvasive-biomarkers|AGA Clinical Practice Update on the Role of Noninvasive Biomarkers in the Evaluation and Management of Nonalcoholic Fatty Liver Disease: Expert Review (2023)]]
-9. [[aasld-ast-2025-liver-transplant-non-graft-complications|AASLD/AST Consensus Recommendations on Non-Graft Complications of Liver Transplantation (2025)]]
+6. [[baveno-viii-2026-portal-hypertension|Baveno VIII — Advancing Consensus in Portal Hypertension (2026)]]
+7. [[acg-2017-liver-chemistries|ACG 2017: Evaluation of Abnormal Liver Chemistries]]
+8. [[aasld-ast-2025-liver-transplant-graft-complications|AASLD/AST 2025: Practice Guideline on Adult Liver Transplantation — Diagnosis and Management of Graft-Related Complications]]
+9. [[aga-2023-nafld-noninvasive-biomarkers|AGA Clinical Practice Update on the Role of Noninvasive Biomarkers in the Evaluation and Management of Nonalcoholic Fatty Liver Disease: Expert Review (2023)]]
+10. [[aasld-ast-2025-liver-transplant-non-graft-complications|AASLD/AST Consensus Recommendations on Non-Graft Complications of Liver Transplantation (2025)]]

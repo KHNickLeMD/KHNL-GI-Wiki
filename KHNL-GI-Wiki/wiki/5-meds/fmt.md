@@ -3,8 +3,8 @@ title: "Fecal Microbiota Transplantation (Fecal Microbiota-Based Therapies)"
 category: med
 tags: [fmt, microbiome, cdiff, recurrent-cdi]
 created: 2026-07-26
-updated: 2026-08-30
-sources: [aga-2024-fmt]
+updated: 2026-09-03
+sources: [aga-2024-fmt, aga-2026-cdiff-adults]
 ---
 
 ## Overview
@@ -47,8 +47,10 @@ The stratum decides Rec 2, so the criteria are the decision. **Severely immunoco
 - Stop CDI antibiotics **1–3 days before conventional FMT** for washout: **1 day** if a bowel purge is given, **3 days** if not. Rapid recurrence within 1–2 days of stopping antibiotics is a risk when setting the window.
 - Screened donor stool required; **no specific delivery route is recommended** (insufficient evidence to favor one).
 - Consider after the **second recurrence (third episode)**, or earlier in selected patients at high risk of recurrent or morbid recurrence (recovered from severe/fulminant/treatment-refractory CDI, significant comorbidities).
+  - **[[aga-2026-cdiff-adults|AGA 2026]] names the high-risk criteria that license earlier use** (after an initial infection or first recurrence): **age >65 years**, **immunocompromised**, or **resident of a skilled nursing facility**. Per product labeling, both FDA-approved products are approved to prevent CDI **regardless of the number of recurrences**.
+  - [[aga-2026-cdiff-adults|AGA 2026]] gives the washout as **1–4 days** off antibacterial therapy before microbiota restoration, and specifies the bridge as suppressive oral vancomycin **at least 125 mg daily** until the therapy is approved and accessible.
 - Caution in patients needing frequent or long-term antibiotics — ongoing antibiotics may diminish efficacy.
-- Alternatives for patients who decline: vancomycin taper, tapered-pulsed fidaxomicin, or bezlotoxumab.
+- Alternatives for patients who decline: vancomycin taper or tapered-pulsed fidaxomicin. *(AGA 2024 also lists bezlotoxumab; [[aga-2026-cdiff-adults|AGA 2026]] reports it is **no longer commercially available**.)*
 
 *Severe/fulminant CDI not responding to antimicrobials:*
 - **Which patients qualify** — AGA defines severe CDI by a WBC and creatinine threshold and fulminant CDI as severe disease plus shock, ileus, or megacolon; the full criteria table (and how it changed between the 2010 and 2018 IDSA versions) lives on [[clostridioides-difficile]]. Read it before invoking Rec 3.
@@ -59,7 +61,10 @@ The stratum decides Rec 2, so the criteria are the decision. **Severely immunoco
 - **Stop other nonessential antibiotics** wherever possible (an ID-facing reason multidisciplinary care matters).
 - **Follow-up:** assess response by **stool output, WBC, and CRP**. Most patients need repeat FMT; anti-CDI antibiotics may need to be continued or resumed around dosing. Repeat-dosing interval and the pseudomembrane-driven sequential protocol are on [[clostridioides-difficile]].
 - **At discharge:** after colitis resolves, continue **suppressive vancomycin** and perform a **final fecal microbiota–based therapy as an outpatient** to prevent recurrence — that last dose may be given by colonoscopy, capsule, or enema.
-- **Not advised** with bowel perforation or obstruction, or in severe immunocompromise. Colectomy is the standing alternative for severe CDI refractory to antibiotics, or fulminant CDI.
+- **Not advised** with bowel perforation or obstruction (**or high-grade colonic stricture**, [[aga-2026-cdiff-adults]]), or in severe immunocompromise. Colectomy is the standing alternative for severe CDI refractory to antibiotics, or fulminant CDI.
+- **Dose count and donor source** ([[aga-2026-cdiff-adults]]): **multi-dose** FMT from **fresh directed donors or institutional stool banks**; most patients need **2–3 administrations** of liquid product via lower endoscopy to clear the acute infection. Oral vancomycin may be **held on the day of FMT** but is otherwise continued.
+- **Mortality benefit (the evidence behind Rec 3):** 5 observational studies, 647 patients with severe/fulminant CDI — conventional FMT vs standard of care, mortality **RR 0.37 (95% CI 0.23–0.59)**, **NNT 4** to prevent 1 death, with no difference in serious adverse events. [[aga-2026-cdiff-adults]]
+- **Regulatory:** the FDA prohibits stool-bank donor material outside an investigational new drug application; locally procured FMT falls under **FDA enforcement discretion** and requires an explicit risk–benefit discussion. [[aga-2026-cdiff-adults]]
 
 ### Dosing — what AGA 2024 does and does not specify
 
@@ -81,3 +86,4 @@ The stratum decides Rec 2, so the criteria are the decision. **Severely immunoco
 ## Sources
 
 1. [[aga-2024-fmt|AGA Clinical Practice Guideline: Fecal Microbiota-Based Therapies for Select GI Diseases (2024)]]
+2. [[aga-2026-cdiff-adults|AGA Clinical Practice Update on Management of Clostridioides difficile Infection in Adults: Expert Review (2026)]]

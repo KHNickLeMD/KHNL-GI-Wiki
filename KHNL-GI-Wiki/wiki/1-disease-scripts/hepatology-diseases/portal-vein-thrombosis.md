@@ -4,7 +4,7 @@ category: disease-script
 tags: [portal-vein-thrombosis, pvt, mvt, mesenteric-vein, anticoagulation, cirrhosis, thrombophilia, splenomegaly, mpn, liver-transplant]
 created: 2026-05-21
 updated: 2026-09-03
-sources: [acg-2020-hepatic-mesenteric-circulation, aasld-ast-2025-liver-transplant-candidate-evaluation, aasld-2021-vascular-pvt, aga-2025-pvt-cirrhosis, baveno-vii-2022-portal-hypertension]
+sources: [baveno-viii-2026-portal-hypertension, acg-2020-hepatic-mesenteric-circulation, aasld-ast-2025-liver-transplant-candidate-evaluation, aasld-2021-vascular-pvt, aga-2025-pvt-cirrhosis, baveno-vii-2022-portal-hypertension]
 ---
 
 ## Contents
@@ -20,6 +20,7 @@ sources: [acg-2020-hepatic-mesenteric-circulation, aasld-ast-2025-liver-transpla
   - [[#Cirrhotic PVT — Anticoagulation]]
   - [[#Hemostasis in Cirrhosis — Key Principles]]
   - [[#Surgical / Interventional Options]]
+  - [[#Paediatric PVT]]
 
 ---
 
@@ -54,17 +55,33 @@ Portal vein thrombosis (PVT) is the partial or complete occlusion of the portal 
 
 ### Classification / Typing
 
-**Standardised nomenclature (Baveno VII, Table 1)** — use these terms when documenting a PVT so course and treatment response can be compared over time (D.1, 8.31) [[baveno-vii-2022-portal-hypertension]]:
+**Standardised nomenclature — [[baveno-viii-2026-portal-hypertension|Baveno VIII]] / VALDIG criteria.** Use these terms when documenting a PVT so course and treatment response can be compared over time.
 
-| Axis | Term | Definition |
-|---|---|---|
-| Time course | **Recent** | Presumed present <6 months |
-| | **Chronic** | Present or persistent >6 months |
-| % occlusion of main PV | **Completely occlusive** | No persistent lumen |
-| | **Partially occlusive** | Clot obstructing >50% of original lumen |
-| | **Minimally occlusive** | Clot obstructing <50% of original lumen |
-| | **Cavernous transformation** | Gross porto-portal collaterals, original PV not seen |
-| Interval change | **Progressive / Stable / Regressive** | Thrombus larger or more occlusive / unchanged / smaller or less occlusive |
+**Time course and cavernoma (9.1):**
+
+| Term | Definition |
+|---|---|
+| **Recent PVT** | Thrombus formed **within the last 6 months** |
+| **Acute PVT** | **Symptomatic** recent PVT |
+| **Chronic PVT** | Persistent portal vein obstruction lasting **>6 months**, with or without cavernoma |
+| **Portal cavernoma** | **Multiple dilated peribiliary and/or gallbladder-wall veins (≥2 mm), *irrespective of the patency of the main portal vein***, developing after prior portal vein obstruction |
+
+- ⚠ **The cavernoma definition changed.** Baveno VII described a cavernoma as a network of porto-portal collaterals with the **original PV not seen**. Baveno VIII defines it by the **calibre and location of the collateral veins (≥2 mm, peribiliary/gallbladder wall)** and explicitly decouples it from main-PV patency — so a cavernoma may be reported alongside a patent main portal vein.
+- Baveno VIII also splits **recent** (a time definition) from **acute** (recent **and symptomatic**); Baveno VII used "recent" for both.
+
+**Degree of occlusion — VALDIG PVT criteria (9.3).** Measured as the **percentage of *remnant* portal lumen (RL)** relative to the vessel's largest diameter, on **portal-venous-phase CT or MRI**, in a plane **strictly perpendicular to the main portal vein**:
+
+| Term | Remnant lumen |
+|---|---|
+| **Minimal** | **RL ≥50%** |
+| **Partial** | **RL <50%** |
+| **Complete** | **RL = 0%** |
+
+> ⚠ **The measured quantity is inverted from Baveno VII.** VII's Table 1 graded the clot by **how much lumen it obstructed** — "minimally occlusive" = clot obstructing <50%, "partially occlusive" = clot obstructing >50%, "completely occlusive" = no persistent lumen. Baveno VIII grades by **how much lumen remains**. The strata map onto each other (VII "partially occlusive" = VIII "partial"; VII "minimally occlusive" = VIII "minimal"), but **a percentage quoted without saying which quantity it refers to is now ambiguous** — always write "remnant lumen" or "obstructed" explicitly. Baveno VIII also adds the **imaging phase and the perpendicular plane** as part of the definition; a measurement taken obliquely is not a VALDIG measurement.
+
+**Interval change** (Baveno VII, not revised): **Progressive / Stable / Regressive** — thrombus larger or more occlusive / unchanged / smaller or less occlusive.
+
+**Diagnostic sequence (9.2):** **Doppler ultrasound is first-line**, showing solid intraluminal material (PVT) and/or a network of porto-portal collaterals (cavernoma). **Multiphase CT should then be performed to confirm** the diagnosis, assess local factors, determine extent, evaluate other splanchnic veins, and identify complications and signs of portal hypertension. **Contrast-enhanced MRI is an alternative.**
 
 **Yerdel classification — the transplant-surgical grading behind "Yerdel grade IV" under [[#Surgical / Interventional Options]].** Anatomical + degree of occlusion; the four categories in ascending order, as listed by [[aasld-2021-vascular-pvt]] (Table 6):
 
@@ -125,7 +142,8 @@ Portal vein thrombosis (PVT) is the partial or complete occlusion of the portal 
 - CBC and peripheral smear (for underlying MPN/polycythemia)
 - Bone marrow biopsy if JAK2 negative but MPN suspected
 - **Baveno VII detail** (8.2–8.5) [[baveno-vii-2022-portal-hypertension]]: finding one risk factor does **not** stop the workup — combinations are common (A.1). If JAK2 V617F is negative, pursue somatic **calreticulin (CALR)** and **JAK2 exon 12** mutations and next-generation sequencing (A.1). In any adult with primary splanchnic vein thrombosis and **no MPN driver mutation**, discuss **bone marrow biopsy with haematology irrespective of blood counts** (B.2) — particularly when no major thrombosis risk factor is present. After abdominal surgery or pancreatitis, weigh bone-marrow/liver biopsy individually given low yield (C.2)
-- **If the liver is dysmorphic or liver tests persistently abnormal:** [[liver-biopsy|liver biopsy]] **and** [[hepatic-venous-pressure-gradient|HVPG]] to rule out cirrhosis or [[porto-sinusoidal-vascular-disorder|PSVD]] (B.1); [[liver-stiffness-measurement|LSM]] may help exclude cirrhosis but no cut-off can yet be proposed (C.2)
+- **If the liver is dysmorphic or liver tests persistently abnormal:** [[liver-biopsy|liver biopsy]] **and** [[hepatic-venous-pressure-gradient|HVPG]] to rule out cirrhosis or [[porto-sinusoidal-vascular-disorder|PSVD]] (Baveno VII 8.34); [[liver-stiffness-measurement|LSM]] may help exclude cirrhosis but no cut-off can yet be proposed
+- **[[baveno-viii-2026-portal-hypertension|Baveno VIII]] 9.4–9.5 restructures this:** investigate **cirrhosis/cACLD** with a comprehensive workup **including LSM**, reserving liver biopsy and HVPG for inconclusive cases or when **PSVD/NCPF is suspected**. The aetiological workup should classify each risk factor as **permanent or reversible**, and each permanent one as **major (thrombophilia, myeloproliferative neoplasm) or non-major** — because that classification, not the workup itself, determines long-term anticoagulation (see [[#Noncirrhotic Acute PVT/MVT — Anticoagulation]]). The full risk-factor list is in the source's Supplementary Table S4, **which is not in the ingested file**
 
 **Local/secondary causes:**
 
@@ -157,15 +175,44 @@ Portal vein thrombosis (PVT) is the partial or complete occlusion of the portal 
 - NSBBs (propranolol, carvedilol) are first-line for variceal bleeding prophylaxis in noncirrhotic PVT patients receiving anticoagulation (Strong, Low evidence)
 - Endoscopic ligation for acute variceal bleeding
 
-**Baveno VII specifics for recent (<6 mo) noncirrhotic PVT** [[baveno-vii-2022-portal-hypertension]]:
+**[[baveno-viii-2026-portal-hypertension|Baveno VIII]] — recent (<6 mo) noncirrhotic PVT**
 
-- Recent PVT **rarely resolves spontaneously** without cirrhosis → start **therapeutic-dose anticoagulation immediately at diagnosis** (B.1, 8.35)
-- Start **LMWH → switch to VKA** when possible (B.1); DOACs may be primary in selected cases **except "triple-positive" antiphospholipid syndrome** (C.2, 8.37). Avoid unfractionated heparin (HIT risk) except GFR <30 mL/min or pending invasive procedures (D.2, 8.36)
-- **≥6 months** in all (B.1, 8.38). Beyond 6 months: long-term AC **recommended** with a permanent prothrombotic state (B.1) and **should be considered even without one** (B.2, 8.39)
-- **Follow-up contrast-enhanced CT at 6 months** (C.1, 8.42); continue follow-up regardless of whether AC is stopped, given recurrence risk (C.1, 8.43)
-- If AC is stopped, **D-dimer <500 ng/mL at 1 month** post-discontinuation predicts low recurrence risk (C.2, 8.40)
-- No recanalisation but no complications → **no intervention beyond anticoagulation** is needed (B.2, 8.41)
-- **Intestinal infarction red flags** (C.2, 8.44) — persistent severe abdominal pain despite AC, bloody diarrhoea, lactic acidosis, bowel loop distention, or occlusion of second-order SMV radicles → multidisciplinary early image-guided intervention/thrombolysis/surgery at a referral centre
+*Start:*
+
+- Recent PVT **rarely resolves spontaneously**, and **recanalisation correlates with early initiation** → start **therapeutic-dose anticoagulation immediately at diagnosis** (9.6)
+- **LMWH first, then transition to an oral anticoagulant** (8.5). Avoid unfractionated heparin (HIT risk) except GFR <30 mL/min or a pending invasive procedure
+- **DOACs may now be the primary oral choice** (8.6) — unless there is **double/triple-positive antiphospholipid syndrome**, **pregnancy**, **severely impaired liver function (Child-Pugh C–equivalent)**, or **GFR <30 mL/min**. ⚠ **Changed from Baveno VII 8.37**, which said to switch to a **vitamin K antagonist** when possible and reserved DOACs for "selected cases"
+- **Do not wait for endoscopic variceal prophylaxis.** Anticoagulation "should be initiated without delay and should not be postponed pending endoscopic prophylaxis for variceal bleeding" (8.10). ⚠ **This reverses Baveno VII 8.47**, which sequenced bleeding prophylaxis first in patients with high-risk varices
+- **EVL is safe without stopping LMWH or VKA**; **data are lacking for DOACs** (8.11)
+
+*Duration — Baveno VIII rebuilds the whole framework around the risk factor (9.5, 9.8–9.10):*
+
+- **Aetiological workup classifies risk factors as permanent or reversible**, and permanent ones as **major (thrombophilia, myeloproliferative neoplasm) or non-major**, by recurrence risk (9.5)
+- **≥6 months in all** (9.6, 9.8) — **but stopping may be considered after complete recanalisation of the portal vein at 3 months**, provided a **reversible risk factor has completely resolved** and **no permanent risk factor** is present (9.8, new)
+- **Extension into SMV and/or splenic vein with no recanalisation at 6 months → continue full-dose anticoagulation for a further 6 months**; delayed recanalisation can still occur (9.9)
+
+**Long-term anticoagulation after the initial course (9.10):**
+
+```mermaid
+flowchart TD
+    A["Non-cirrhotic PVT<br/>initial course completed"] --> B{"Permanent risk factor?"}
+    B -->|"Major<br/>thrombophilia, MPN"| C["HIGH recurrence risk<br/>Long-term anticoagulation<br/>at THERAPEUTIC doses"]
+    B -->|"Present, not major"| D["INTERMEDIATE / undetermined risk<br/>Consider long-term DOAC<br/>at LOWER dose"]
+    B -->|"Absent"| E{"Reversible risk factor?"}
+    E -->|"No — unprovoked"| D
+    E -->|"Yes, and completely resolved"| F["LOW recurrence risk<br/>Consider stopping anticoagulation"]
+```
+
+> ⚠ **Two Baveno VII rules are gone.** (1) VII 8.39/8.45 recommended long-term AC for a permanent prothrombotic state and said it "should also be considered" without one — no dose distinction. Baveno VIII splits permanent risk factors into **major vs non-major** and prescribes **lower-dose DOAC** rather than full-dose for the non-major/unprovoked group. (2) VII 8.40's **D-dimer <500 ng/mL at 1 month after discontinuation** as a marker of low recurrence risk has been **dropped** and moved to the research agenda (RA9.4) — do not present it as current guidance.
+>
+> ⚠ **"Lower dose" is not quantified in the statement.** The only figure in the document is in the research agenda (RA9.3), which asks about DOACs "other than **rivaroxaban 15 mg/day**" — implying that is the studied lower dose, but Baveno VIII does not prescribe it. **Decision gap:** dose the lower-intensity DOAC from the primary trial literature, not from this page.
+
+*Surveillance and complications:*
+
+- **Recent extension into the SMV → assess for clinical and radiological signs of intestinal ischemia** (9.7)
+- **Bowel ischemia persisting or worsening after 24–48 h of anticoagulation** — judged by clinical reassessment, **lactate**, and repeat CT — in a patient not needing immediate surgical resection → **endovascular treatment at an experienced centre**, to prevent or reduce the need for bowel resection (9.14). Baveno VII 8.44's red-flag list (persistent severe abdominal pain despite AC, bloody diarrhoea, lactic acidosis, bowel-loop distention, occlusion of second-order SMV radicles) remains the trigger to look
+- **Follow-up contrast-enhanced CT at 6 months**, and continued follow-up regardless of whether AC is stopped, given recurrence risk (Baveno VII 8.42–8.43, not revised)
+- **Variceal screening (9.11):** **upper GI endoscopy at diagnosis**; if no high-risk varices, **repeat at 12 months and every 2 years thereafter**. **If SSM <40 kPa, endoscopy can be spared** — the risk of high-risk varices is low. *(New in VIII: Baveno VII 8.52 gave the same interval but no spleen-stiffness escape.)*
 
 **Septic pylephlebitis** (suppurative PVT from an intra-abdominal infection) [[aasld-2021-vascular-pvt]]: **prolonged antibiotics** adapted to the isolated organism or to anaerobic digestive flora is necessary; limited retrospective data show **concurrent anticoagulation** gives higher complete-resolution rates and fewer long-term portal-hypertensive complications.
 
@@ -178,14 +225,13 @@ Portal vein thrombosis (PVT) is the partial or complete occlusion of the portal 
 - No anticoagulation benefit for recanalization once cavernoma established
 - Portal biliopathy: may require [[ercp|ERCP]], biliary stenting, or hepaticojejunostomy for obstructive cholestasis
 
-**Baveno VII — past PVT / cavernoma without cirrhosis** [[baveno-vii-2022-portal-hypertension]]:
+**[[baveno-viii-2026-portal-hypertension|Baveno VIII]] — chronic PVT / cavernoma without cirrhosis**
 
-- Includes incomplete resolution of recent PVT at 6 months: long-term AC **recommended** with a permanent prothrombotic state (B.1), **considered** without one (B.2, 8.45); no data either way for childhood-onset cavernoma without thrombophilia (C.1, 8.46)
-- **Sequence matters:** in patients with high-risk varices not yet on AC, **start variceal bleeding prophylaxis first**, then anticoagulate (C.2, 8.47)
-- **Variceal screening if not recanalised:** EGD **within 6 months** of the acute episode; if no varices, repeat at **12 months and every 2 years** thereafter (B.1, 8.52)
-- Prophylaxis choice (beta-blocker vs endoscopic therapy) is unsettled — **apply cirrhosis guidelines** (C.2, 8.50); secondary prophylaxis = **NSBB + band ligation** (D.1, 8.54); acute PH bleeding managed as in cirrhosis (D.1, 8.53)
-- **Band ligation can be performed without withdrawing vitamin K antagonists** (C.2, 8.51)
-- **Meso-Rex bypass** should be considered in **all children** with complications of portal cavernoma, at experienced centres (B.1, 8.48); refractory complications in adults → expert-centre percutaneous recanalisation or other vascular intervention (C.1, 8.49)
+- **Long-term anticoagulation follows the same risk-factor stratification as recent PVT** (9.10) — see the flowchart above. This replaces the separate Baveno VII 8.45 rule for past PVT/cavernoma
+- **Portal vein flow restoration should be considered** in chronic PVT, with or without cavernoma, in patients with **recurrent complications of portal hypertension** or **symptomatic portal cavernoma cholangiopathy** (9.15). Techniques for chronic PVT are **angioplasty ± stenting and/or [[tips|TIPS]]** (thrombolysis and thrombectomy are for acute/recent PVT); feasibility depends on the age and extent of thrombosis and on local expertise (9.12). **TIPS is specifically included where intrahepatic resistance is increased** — [[porto-sinusoidal-vascular-disorder|PSVD/NCPF]], or PVT extending into the intrahepatic branches (9.13)
+- **Variceal screening and prophylaxis:** EGD at diagnosis, then 12 months and every 2 years if no high-risk varices; **SSM <40 kPa spares endoscopy** (9.11). Acute portal-hypertensive bleeding and secondary prophylaxis are handled **as in cirrhosis** (8.12); no evidence favours EVL over NSBB for primary prophylaxis in vascular liver disease, and evidence is insufficient to prefer carvedilol over other conventional NSBBs (8.8–8.9). TIPS for refractory or recurrent portal-hypertensive bleeding (8.13); **no data support pre-emptive TIPS in vascular liver disease** (8.14)
+- **Band ligation can be performed without withdrawing LMWH or vitamin K antagonists**; **data are lacking for DOACs** (8.11)
+- **Meso-Rex bypass** should be considered in children with complications of portal cavernoma — see [[#Paediatric PVT]]
 
 ### Cirrhotic PVT — Anticoagulation
 
@@ -221,14 +267,37 @@ Portal vein thrombosis (PVT) is the partial or complete occlusion of the portal 
 
 - DOACs offer convenience (no INR monitoring); apixaban has the most CTP-B data; rivaroxaban carries a small hepatotoxicity risk. Reversal: andexanet alfa / idarucizumab / 4-factor PCC.
 
-**Baveno VII cirrhotic-PVT points** (older than AGA 2025 — the stratification above governs; these add detail) [[baveno-vii-2022-portal-hypertension]]:
+**[[baveno-viii-2026-portal-hypertension|Baveno VIII]] cirrhotic-PVT statements** (newest tier-1 source; where it and AGA 2025 differ in emphasis, both are guideline-tier and Baveno VIII is newer):
 
-- **Screen for PVT in all potential liver transplant candidates, at the time of [[hcc-surveillance|HCC screening]]** (D.2, 9.3)
-- AC **recommended** for: recent (<6 mo) completely or **partially (>50%) occlusive** PV trunk thrombosis ± SMV extension; **symptomatic** PVT regardless of extension; or PVT in a **potential transplant candidate** regardless of degree/extension (C.2, 9.5)
-- AC **should be considered** for minimally occlusive (<50%) trunk thrombosis that **progresses at 1–3 months** or **compromises the SMV** (C.2, 9.7)
-- Duration: until recanalisation or **minimum 6 months**; continue after recanalisation in transplant candidates; consider continuing in everyone else, balancing recurrence prevention against bleeding (C.1, 9.8)
-- PVT with [[hepatocellular-carcinoma|HCC]] does **not** automatically mean malignant invasion — characterise with CT and/or MRI and/or contrast-enhanced ultrasound (D.2, 9.4)
-- **TIPS is recommended** when the PV trunk fails to recanalise on AC, especially in transplant-listed patients (C.2, 9.10)
+*Screening and characterisation*
+
+- **Screen for PVT simultaneously with radiological [[hcc-surveillance|HCC surveillance]]** (9.16) — Baveno VII 9.3 restricted this to potential transplant candidates; VIII applies it to patients with cirrhosis generally
+- PVT with [[hepatocellular-carcinoma|HCC]] is **not proof of vascular invasion** — contrast-enhanced imaging is required, using **standardised criteria (A-VENA, [[li-rads|LI-RADS]])** (9.17). VII said only to characterise with CT/MRI/CEUS; VIII names the criteria sets
+
+*Who to anticoagulate*
+
+- **Any PVT in a potential liver transplant candidate → anticoagulate** (9.18). The goal is to prevent re-thrombosis or progression so a **porto-portal anastomosis** remains feasible and post-transplant morbidity/mortality falls
+- **Consider anticoagulation for** (9.19): (i) **recent partial (<50% remnant lumen) or complete thrombosis of the main portal vein**; (ii) **symptomatic PVT, independently of extension**; (iii) **non-tumoral PVT with HCC, especially where locoregional therapy is indicated** — limb (iii) is new in VIII
+  - ⚠ Read limb (i) against the **VALDIG remnant-lumen** convention under [[#Classification / Typing]], not against Baveno VII's "obstructing >50%" wording. They describe the same patients, from opposite ends of the vessel
+- Baveno VII 9.7's separate rule for minimally occlusive trunk thrombosis that **progresses at 1–3 months** or **compromises the SMV** is not restated; VIII covers progression through the surveillance rule below
+
+*Duration and surveillance*
+
+- **Transplant candidates: continue anticoagulation until surgery.** Everyone else: **at least 6 months**, and **consider long-term use regardless of recanalisation** (9.20)
+- **If anticoagulation is stopped → imaging at 1 month, then every 3 months** to detect recurrence or progression (9.21, new)
+- **If never anticoagulated → repeat imaging within 6 weeks of diagnosis** to check for progression; if stable, **imaging every 3 months**, particularly in transplant-listed patients; **progression during follow-up is itself an indication to anticoagulate** (9.22, new)
+
+*Agent choice and bleeding risk*
+
+- **LMWH, VKA and DOACs are all accepted** for cirrhosis with PVT; individualise on the expected benefit–risk balance and **reassess it routinely** (9.23). Higher-bleeding-risk features named: **age, frailty, GFR <30 mL/min, decompensated liver disease, platelets <50 ×10⁹/L**
+- **DOACs are safe in Child-Pugh A and may carry a lower bleeding risk than VKA**; use with caution in Child-Pugh B; **not recommended in Child-Pugh C outside research protocols** (9.24). The comparative-safety claim over VKA is new in VIII
+- **No recommendation can be made on which DOAC** (9.25)
+
+*Interventional*
+
+- **TIPS for main portal vein thrombosis not improving on anticoagulation**, when there are (i) complications of portal hypertension, or (ii) transplant candidacy where the aim is a physiological anastomosis (9.26)
+- **TIPS may be first-line** in main portal vein thrombosis with complications of portal hypertension **and a contraindication to anticoagulation** (9.27, new)
+- **Routine anticoagulation after TIPS is NOT recommended** in cirrhosis with PVT (9.28, new — LoE 2, strong)
 
 **PVR-TIPS** (portal vein revascularization with TIPS) for cirrhotic PVT (Conditional; BPA 11) [[aga-2025-pvt-cirrhosis]]:
 
@@ -252,19 +321,41 @@ Cirrhosis represents [[cirrhosis-hemostasis|rebalanced hemostasis]], not auto-an
   - **Yerdel grade IV PVT** (complete splanchnic vein thrombosis) **without sufficient collateral veins** (left gastric vein, pericholedochal collaterals) is a **relative contraindication to isolated LT** ([[aasld-ast-2025-liver-transplant-candidate-evaluation]], Rec 47, Weak, Level 2) — grade definitions under [[#Classification / Typing]]
   - Experienced centers may achieve revascularization using interventional radiology techniques; evaluate case-by-case
   - Multivisceral transplantation may be an alternative for Grade IV PVT at specialized centers (Table 6, [[aasld-ast-2025-liver-transplant-candidate-evaluation]])
+- **Acute variceal bleeding with cirrhosis + PVT** follows the usual [[variceal-upper-gi-bleeding|AVB]] pathway; in selected patients **TIPS ± portal vein recanalisation** may be considered when other portal-hypertension factors are present (ascites, documented PVT progression) or the patient is a transplant candidate ([[baveno-viii-2026-portal-hypertension]] 5.45)
+
+### Paediatric PVT
+
+*New in [[baveno-viii-2026-portal-hypertension|Baveno VIII]] (Panel 9, statements 9.29–9.39) — the first Baveno paediatric statements. **Extrahepatic portal vein obstruction is one of the two leading causes of portal hypertension in children**, alongside advanced chronic liver disease from biliary atresia (1.24).*
+
+**Chronic PVT in children (9.29–9.30):** defined as **complete obstruction to normal portal venous flow to the liver**; may be **congenital or acquired**; typically diagnosed on imaging. Work-up includes standard evaluation for underlying chronic liver disease, **thrombophilia investigation**, and liver biopsy where intrinsic liver disease must be excluded.
+
+**Surgery is first-line prophylaxis, not drugs (9.31–9.35):**
+
+| Setting | Preferred approach |
+|---|---|
+| **Preprimary (no varices yet) and primary prophylaxis**, with features of portal hypertension | **Meso-Rex bypass** — established criteria must be met to reach a >90% success rate, including **patency of the intrahepatic portal venous system** and surgical expertise (9.31) |
+| **Secondary prophylaxis** of variceal haemorrhage | **Meso-Rex bypass preferred.** If not feasible: portal vein recanalisation, endoscopic treatment ± NSBB, or **distal splenorenal shunt** (9.34) |
+| **Recurrent variceal haemorrhage** | **Distal splenorenal shunt** — provided there is **no [[hepatopulmonary-syndrome-portopulmonary-hypertension\|hepatopulmonary syndrome or portopulmonary hypertension]] and no [[hepatic-encephalopathy\|HE]]** (9.35) |
+| **Life-threatening, otherwise untreatable** portal hypertensive complications | [[liver-transplantation\|Liver transplantation]] (9.37) |
+
+- The role of **pharmacologic, endoscopic, and interventional-radiologic primary prophylaxis is not well established** in children (9.32), and management may need individualising where access to medical care is limited (9.33)
+- **Annual surveillance** for children with portal hypertension and/or portosystemic shunts — spontaneous or created — **especially for portopulmonary hypertension** (9.36)
+- **Neonatal recent PVT** (e.g. after umbilical catheterisation): **spontaneous resolution can occur**, so the role of anticoagulation is uncertain — **monitor for clot extension**, and consider anticoagulation for an extensive thrombus (9.38)
+- **Do not extrapolate the adult cirrhotic-PVT recommendations to children** — PVT with cirrhosis is uncommon in children and the supporting evidence is insufficient (9.39)
 
 ---
 
 ## See Also
 
-[[budd-chiari-syndrome]], [[porto-sinusoidal-vascular-disorder]], [[colon-ischemia]], [[spontaneous-bacterial-peritonitis]], [[aki-in-cirrhosis]], [[hepatocellular-carcinoma]], [[cirrhosis-hemostasis]], [[portal-hypertension]], [[variceal-upper-gi-bleeding]], [[acute-mesenteric-ischemia]], [[cholangiocarcinoma]], [[pancreatic-cancer]], [[inflammatory-bowel-disease]], [[acute-pancreatitis]], [[diverticulitis]], [[acute-cholecystitis]], [[upper-endoscopy]], [[liver-transplantation]], [[ercp]], [[cirrhosis]], [[ascites]], [[tips]], [[liver-biopsy]], [[hepatic-venous-pressure-gradient]], [[liver-stiffness-measurement]], [[hcc-surveillance]]
+[[budd-chiari-syndrome]], [[porto-sinusoidal-vascular-disorder]], [[colon-ischemia]], [[spontaneous-bacterial-peritonitis]], [[aki-in-cirrhosis]], [[hepatocellular-carcinoma]], [[cirrhosis-hemostasis]], [[portal-hypertension]], [[variceal-upper-gi-bleeding]], [[acute-mesenteric-ischemia]], [[cholangiocarcinoma]], [[pancreatic-cancer]], [[inflammatory-bowel-disease]], [[acute-pancreatitis]], [[diverticulitis]], [[acute-cholecystitis]], [[upper-endoscopy]], [[liver-transplantation]], [[ercp]], [[cirrhosis]], [[ascites]], [[tips]], [[liver-biopsy]], [[hepatic-venous-pressure-gradient]], [[liver-stiffness-measurement]], [[hcc-surveillance]], [[li-rads]], [[hepatic-encephalopathy]], [[hepatopulmonary-syndrome-portopulmonary-hypertension]], [[anticoagulation-gi-bleeding]]
 
 ---
 
 ## Sources
 
-1. [[acg-2020-hepatic-mesenteric-circulation|ACG Clinical Guideline: Disorders of the Hepatic and Mesenteric Circulation]]
-2. [[aga-2025-pvt-cirrhosis|AGA Clinical Practice Update on Management of Portal Vein Thrombosis in Patients With Cirrhosis: Expert Review]]
-3. [[aasld-ast-2025-liver-transplant-candidate-evaluation|AASLD AST 2025: Practice Guideline on Adult Liver Transplantation — Candidate Evaluation]]
-4. [[aasld-2021-vascular-pvt|AASLD Practice Guidance: Vascular Liver Disorders, Portal Vein Thrombosis, and Procedural Bleeding in Cirrhosis (2021)]]
-5. [[baveno-vii-2022-portal-hypertension|Baveno VII — Renewing Consensus in Portal Hypertension (2022)]]
+1. [[baveno-viii-2026-portal-hypertension|Baveno VIII — Advancing Consensus in Portal Hypertension (2026)]]
+2. [[acg-2020-hepatic-mesenteric-circulation|ACG Clinical Guideline: Disorders of the Hepatic and Mesenteric Circulation]]
+3. [[aga-2025-pvt-cirrhosis|AGA Clinical Practice Update on Management of Portal Vein Thrombosis in Patients With Cirrhosis: Expert Review]]
+4. [[aasld-ast-2025-liver-transplant-candidate-evaluation|AASLD AST 2025: Practice Guideline on Adult Liver Transplantation — Candidate Evaluation]]
+5. [[aasld-2021-vascular-pvt|AASLD Practice Guidance: Vascular Liver Disorders, Portal Vein Thrombosis, and Procedural Bleeding in Cirrhosis (2021)]]
+6. [[baveno-vii-2022-portal-hypertension|Baveno VII — Renewing Consensus in Portal Hypertension (2022)]]
