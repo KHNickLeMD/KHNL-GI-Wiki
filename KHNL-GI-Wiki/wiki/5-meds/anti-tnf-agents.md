@@ -79,7 +79,7 @@ Monoclonal TNF-α antagonists — **infliximab, adalimumab, certolizumab pegol, 
 
 From [[aga-2021-ici-colitis-hepatitis]] (Best Practice Advice 6; expert review — **no formal evidence grading**, and management rests largely on retrospective series and expert opinion):
 
-- **Infliximab 5 mg/kg IV at weeks 0, 2, 6** — the IBD-derived schedule, for glucocorticoid-refractory [[immune-checkpoint-inhibitor-colitis|ICI colitis]]. Vedolizumab 300 mg IV on the same 0/2/6 schedule is the alternative; **no data distinguish them**, so the choice turns on malignancy type, infection risk, comorbidities, expected treatment duration, and other irAEs.
+- **Infliximab 5 mg/kg IV at weeks 0, 2, 6** — the IBD-derived schedule, for glucocorticoid-refractory [[immune-checkpoint-inhibitor-colitis|ICI colitis]]. [[vedolizumab|Vedolizumab]] 300 mg IV on the same 0/2/6 schedule is the alternative; **no data distinguish them**, so the choice turns on malignancy type, infection risk, comorbidities, expected treatment duration, and other irAEs.
 - **Trigger to escalate from glucocorticoids:** no response within **72 hours**, or no complete response within **1 week**, or recurrence during the steroid taper or after completing the course. About **one-third** of patients respond inadequately to first-line glucocorticoids.
 - **Response is typically <1 week** — a key contrast with IBD.
 - **Non-response to the first biologic → switch class** (infliximab ↔ vedolizumab). **Do not wait for a standard washout**; treat within a few weeks of the last infusion once non-response is evident.

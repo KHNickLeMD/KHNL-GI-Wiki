@@ -101,7 +101,7 @@ Starting age varies by condition (per-condition table with relative risks on [[p
 *Workup: see [[jaundice]].*
 
 - Other solid pancreatic masses: [[gastroenteropancreatic-neuroendocrine-tumors|neuroendocrine tumor]], metastasis, lymphoma, solid pseudopapillary neoplasm.
-- Mass-forming or autoimmune (IgG4-related) [[chronic-pancreatitis|chronic pancreatitis]] — a correct pathologic diagnosis of lymphoma or autoimmune pancreatitis mimicking PDAC may preclude surgery.
+- Mass-forming or autoimmune (IgG4-related) [[chronic-pancreatitis|chronic pancreatitis]] — a correct pathologic diagnosis of lymphoma or [[autoimmune-pancreatitis|autoimmune pancreatitis]] mimicking PDAC may preclude surgery.
 - Cystic neoplasms with a solid component — see [[pancreatic-cysts|pancreatic cysts]] (IPMN, mucinous cystic neoplasm).
 - [[cholangiocarcinoma|Distal cholangiocarcinoma]] and ampullary carcinoma (overlapping obstructive presentation).
 

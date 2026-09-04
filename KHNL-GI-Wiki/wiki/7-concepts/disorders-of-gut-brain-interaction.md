@@ -36,7 +36,7 @@ sources: [rome-v-2026-dgbi]
 | Altered gut microbiota | Dysbiosis, reduced microbial diversity |
 | Altered CNS processing | Impaired descending pain modulation |
 
-The term DGBI replaced "functional gastrointestinal disorder" (FGID) when Rome IV introduced it in 2016. With **Rome V (2026)**, "functional GI disorder" is formally retired and should no longer be used. The word "functional" is also removed from individual diagnoses where possible (e.g., "functional constipation" → "chronic constipation").
+The term DGBI replaced "functional gastrointestinal disorder" (FGID) when Rome IV introduced it in 2016. With **Rome V (2026)**, "functional GI disorder" is formally retired and should no longer be used. The word "functional" is also removed from individual diagnoses where possible (e.g., "functional constipation" → "[[chronic-constipation|chronic constipation]]").
 
 **Source:** [[rome-v-2026-dgbi]]
 

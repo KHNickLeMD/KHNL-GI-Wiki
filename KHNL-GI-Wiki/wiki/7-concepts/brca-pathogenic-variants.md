@@ -3,11 +3,21 @@ title: "BRCA1 / BRCA2 Pathogenic Variants"
 category: concept
 tags: [genetics, brca, hereditary-cancer, pancreatic-cancer]
 created: 2026-06-04
-updated: 2026-08-26
+updated: 2026-09-04
 sources: [asge-2022-pancreatic-cancer-screening, acg-2015-hereditary-gi-cancer]
 ---
 
-BRCA1 and BRCA2 are tumor-suppressor genes critical to homologous-recombination DNA repair; germline pathogenic variants confer hereditary breast/ovarian cancer risk and increased risk of [[pancreatic-cancer|pancreatic ductal adenocarcinoma]]. In GI, the decision they drive is whether to enter [[pancreatic-cancer-screening|pancreatic surveillance]] — and, per [[asge-2022-pancreatic-cancer-screening|ASGE 2022]], **family history is no longer required**.
+BRCA1 and BRCA2 are tumor-suppressor genes critical to homologous-recombination DNA repair. Germline pathogenic variants define **hereditary breast–ovarian cancer syndrome** — which [[acg-2015-hereditary-gi-cancer|ACG 2015]] (Table 12) also lists among the syndromes conferring [[pancreatic-cancer|pancreatic ductal adenocarcinoma]] risk (**BRCA1 ~2-fold, BRCA2 3- to 9-fold** by registry data). In GI, the decision they drive is whether to enter [[pancreatic-cancer-screening|pancreatic surveillance]] — and, per [[asge-2022-pancreatic-cancer-screening|ASGE 2022]], **family history is no longer required**.
+
+⚠ **Scope:** the ingested corpus covers only the **pancreatic** arm. Breast/ovarian (and any other non-GI) surveillance for BRCA carriers is not addressed by any ingested source — do not infer it from this page.
+
+## Contents
+- [[#Magnitude of Pancreatic Cancer Risk]]
+- [[#Surveillance Decision]]
+- [[#⚠ Contradiction — Family History Requirement]]
+- [[#Other Points]]
+- [[#See Also]]
+- [[#Sources]]
 
 ## Magnitude of Pancreatic Cancer Risk
 
@@ -26,16 +36,21 @@ BRCA1 and BRCA2 are tumor-suppressor genes critical to homologous-recombination 
 
 ## Surveillance Decision
 
+Every parameter needed to start a carrier on surveillance ([[asge-2022-pancreatic-cancer-screening|ASGE 2022]]):
+
 | | ASGE 2022 |
 |---|---|
 | **Rec 3a — BRCA2** | Screen vs no screening (**conditional, very low quality**) |
 | **Rec 3b — BRCA1** | Screen vs no screening (**conditional, very low quality**) |
 | **Family history required?** | **No** — for either gene |
-| **Start age (Rec 5)** | **50**, or **10 years earlier than the youngest relative with pancreatic cancer** (both genes) |
-| **Modality/interval** | See [[pancreatic-cancer-screening]] — [[endoscopic-ultrasound\|EUS]] and/or [[mri-mrcp\|MRI/MRCP]] |
+| **Start age (Rec 6a/6b)** | **Age 50**, *or* **10 years earlier than the youngest relative with pancreatic cancer** — whichever comes first (both genes) |
+| **Interval (Rec 4)** | **Annual** (conditional, very low quality) — models show localized → advanced progression can occur within 1 year |
+| **Modality (Rec 2)** | **[[endoscopic-ultrasound\|EUS]]**, **[[mri-mrcp\|MRI/MRCP]]**, *or* EUS **alternating** with MRI — by patient preference and local expertise. Choosing between them, and the lesion-based ladder that shortens the annual interval, are on [[pancreatic-cancer-screening]] |
+
+*Rec 5 is the general statement that start age varies by genetic condition; Rec 6 lists the ages themselves.*
 
 - Yield of screening in BRCA1/2 (8 studies, n=375, not reported separately by gene): **8.6%** (95% CI 4.5%–16.0%) for high-risk lesions. No BRCA1/2-specific harms data.
-- Screening may **not** be warranted in patients who place a high value on avoiding harms from medical interventions.
+- **BRCA1 — "initiate screening with caution."** Because the BRCA1 lifetime risk does not reach the 5% threshold, ASGE directs that carriers be made aware of their risk and of the potential harms of screening before enrolling. Screening may **not** be warranted in patients who place a high value on avoiding harms from medical interventions.
 
 ## ⚠ Contradiction — Family History Requirement
 
@@ -46,7 +61,7 @@ BRCA1 and BRCA2 are tumor-suppressor genes critical to homologous-recombination 
 
 ASGE's rationale for dropping the requirement: family-history data in the risk studies were limited and mixed; several studies found **no association** between family history and pancreatic cancer risk in BRCA1/2; and in 71 BRCA-associated pancreatic cancers, a first- or second-degree family history was present in only **33%** — so **~2 in 3 cancers would have been missed** by a family-history-gated strategy. Family history records are also incomplete, inaccurate, or uninformative in small families.
 
-Both guidelines agree on **start age 50 or 10 y before the youngest affected relative** (ACG 2015 Rec 23 sets the same, with [[peutz-jeghers-syndrome|PJS]] starting at 35).
+The family-history gate is the **only** point of disagreement. Both guidelines set the same **start age (50, or 10 y before the youngest affected relative)**, the same **annual** interval, and the same modality pair (**[[endoscopic-ultrasound|EUS]] or [[mri-mrcp|MRI]]**) — ACG 2015 Rec 23 states "EUS or MRI of the pancreas annually starting at age 50 years, or 10 years younger than the earliest age of PC in the family," with [[peutz-jeghers-syndrome|PJS]] starting at 35.
 
 ## Other Points
 

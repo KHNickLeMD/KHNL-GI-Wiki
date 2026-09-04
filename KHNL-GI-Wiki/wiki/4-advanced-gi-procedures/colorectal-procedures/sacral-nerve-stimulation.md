@@ -51,7 +51,7 @@ ACG gives **no single validated score or cutoff**; severity is gauged clinically
 
 The efficacy figures below come from the pivotal North American multicenter study (2002–2008, **n = 133**), which enrolled patients with **>2 incontinent episodes per week for >6 months**, or for **>12 months after childbirth**, who had failed or were not candidates for conservative therapy. It **excluded** ([[acg-2021-anorectal-disorders]]):
 
-- Chronic diarrhea
+- [[chronic-diarrhea|Chronic diarrhea]]
 - **Large sphincter defects**
 - Chronic [[inflammatory-bowel-disease|inflammatory bowel disease]]
 - Visible sequelae of pelvic radiation

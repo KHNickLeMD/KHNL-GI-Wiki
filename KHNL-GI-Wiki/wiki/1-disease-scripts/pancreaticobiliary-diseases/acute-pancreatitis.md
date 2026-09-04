@@ -130,7 +130,7 @@ sources: [acg-2024-acute-pancreatitis, asge-2016-pancreatic-fluid-collections, a
 | BUN | **>20 or rising** = severity risk factor; primary resuscitation target |
 | Calcium | Hypercalcemia etiology (with PTH) |
 | CRP | **≥150 mg/dL** reported as predictive of moderately severe/severe disease |
-| IgG4 | If autoimmune pancreatitis suspected |
+| IgG4 | If [[autoimmune-pancreatitis\|autoimmune pancreatitis]] suspected |
 
 ### Imaging
 

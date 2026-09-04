@@ -49,7 +49,7 @@ sources: [aga-2025-endoscopic-enteral-access, asge-2025-gastrostomy-tubes]
 | Altered intestinal anatomy | [[bariatric-surgery\|Bariatric]] or foregut surgery with impaired intake |
 | Psychiatric | Anorexia nervosa |
 | Increased metabolic requirements | Critical illness, cancer, burn/trauma, cystic fibrosis / chronic lung disease, [[inflammatory-bowel-disease\|IBD]], [[nutrition-in-liver-disease\|liver disease]], pancreatitis, renal disease |
-| Increased intestinal losses | Short bowel syndrome |
+| Increased intestinal losses | [[short-bowel-syndrome\|Short bowel syndrome]] |
 
 **Severe dementia — special caution:**
 - Enteral feeding NOT associated with improved survival, reduced infection risk, or improved functional status.

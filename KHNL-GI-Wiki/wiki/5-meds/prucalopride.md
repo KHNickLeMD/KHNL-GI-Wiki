@@ -26,7 +26,7 @@ Highly selective 5-HT4 receptor agonist; prokinetic.
   - **Severe renal impairment (creatinine clearance <30 mL/min): 1 mg daily.**
   - **No age-based dose reduction** — efficacy in persons **≥65 y** is comparable to the overall study population.
   - **Duration:** trials ran **4–24 weeks**; the drug label sets no limit. Can replace or be added to OTC agents.
-- Approved for chronic constipation, **not** [[irritable-bowel-syndrome|IBS-C]].
+- Approved for [[chronic-constipation|chronic constipation]], **not** [[irritable-bowel-syndrome|IBS-C]].
 - **Refractory constipation:** prucalopride is one of the FDA-approved agents to be trialled — alone *and* in combination — before off-label agents or surgery ([[aga-2026-refractory-constipation]] BPA 7). Prucalopride and [[linaclotide]] are the two agents shown **effective in chronic constipation unresponsive to OTC laxatives**, though AGA cautions those trials **lacked rigorous evaluation of prior OTC therapy or colonic transit**; combination therapy across mechanisms is common when monotherapy fails but the data are **anecdotal**.
 - No CV signal in large studies (unlike older 5-HT4 agonists [[tegaserod]]/cisapride) — cardiovascular adverse events were not more common than placebo; prucalopride is a **selective 5-HT4 agonist with no appreciable cardiac adverse effects**, unlike cisapride and perhaps tegaserod ([[aga-2025-gastroparesis]]).
 

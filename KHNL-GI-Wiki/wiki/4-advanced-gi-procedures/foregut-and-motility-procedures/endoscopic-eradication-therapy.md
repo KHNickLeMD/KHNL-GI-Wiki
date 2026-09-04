@@ -36,7 +36,7 @@ Per [[asge-2018-barretts-eet|ASGE 2018]] (GRADE) and concordant with [[aga-2024-
 
 **Dysplasia must be confirmed by ≥1 expert GI pathologist or panel** before EET (ASGE 2018 Rec 1, conditional). Expert review changes the diagnosis in ~55% of cases (mostly downgrading).
 
-**Factors favoring esophagectomy instead of EET:** submucosal invasion (T1b sm2-3, >500 µm), lymphovascular invasion, poor differentiation, or a patient unable to undergo endoscopic follow-up (LN-metastasis risk rises to ≥20%).
+**Factors favoring esophagectomy instead of EET:** submucosal invasion (T1b sm2-3, **>500 µm** — the µm/sm depth thresholds are [[acg-2022-barretts|ACG 2022]], not ASGE 2018, which gives only "T1b sm2-3"), lymphovascular invasion, poor differentiation, or a patient unable to undergo endoscopic follow-up (LN-metastasis risk rises to ≥20%). **Any one** of these is sufficient — adverse histology overrides depth.
 
 ---
 

@@ -89,7 +89,7 @@ Comprehensive update of the ACG Crohn's disease guideline. Major additions vs pr
 | Infliximab SC | (after IV induction response) | 120 mg q2wk (240 mg if needed) |
 | Adalimumab | 160 mg → 80 mg → 40 mg q2wk | 40 mg q2wk or weekly |
 | Certolizumab | 400 mg wk 0, 2, 4 | 400 mg q4wk |
-| Vedolizumab IV | 300 mg wk 0, 2, 6 | 300 mg q8wk |
+| Vedolizumab IV | 300 mg wk 0, 2 ⚠ | 300 mg q8wk |
 | Vedolizumab SC | (after IV induction) | 108 mg q2wk |
 | Ustekinumab | ~6 mg/kg IV (wt-based) | 90 mg SQ q8wk or q12wk |
 | Risankizumab | 600 mg IV wk 0, 4, 8 | 360 mg SQ q8wk |
@@ -97,6 +97,8 @@ Comprehensive update of the ACG Crohn's disease guideline. Major additions vs pr
 | Guselkumab IV→SC | 200 mg IV wk 0, 4, 8 | 100 mg SQ q8wk |
 | Guselkumab SC→SC | 400 mg SQ q4wk × induction | 100–200 mg SQ q4–8wk |
 | Upadacitinib | 45 mg PO daily × 12 wk | 15–30 mg PO daily (30 mg preferred) |
+
+> ⚠ **Vedolizumab IV induction — corrected 2026-09-04 (source-fidelity fix).** This row previously read *"300 mg wk 0, 2, 6."* **That schedule is not in this guideline.** The ACG 2025 CD text describes vedolizumab induction only as **300 mg at week 0 and week 2**, with response assessed thereafter (GEMINI 2); Rec 16 likewise says "2 intravenous induction doses." The "0, 2, 6" pattern belongs to the **infliximab** row above it and appears to have been carried across. No ingested source states a week-6 vedolizumab induction dose for IBD — the only 0/2/6 vedolizumab schedule in the corpus is in [[aga-2021-ici-colitis-hepatitis]], for **ICI colitis**, not IBD. Do not restore the week-6 dose without a source that prints it. See [[vedolizumab]].
 
 ### Key Evidence Points
 

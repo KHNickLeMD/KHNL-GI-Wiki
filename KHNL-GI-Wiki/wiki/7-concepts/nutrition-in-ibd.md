@@ -70,7 +70,7 @@ Framework for diet and nutritional therapy across the [[inflammatory-bowel-disea
 
 ## Parenteral Nutrition & Short Bowel Syndrome
 - **EN preferred over PN** whenever the gut is usable (maintains integrity, feeds microbiota, fewer infections).
-- **PN indications:** intestinal failure; high-output GI fistula; prolonged ileus; short bowel syndrome; severe malnutrition when oral/EN fails or enteral access not feasible/contraindicated; intra-abdominal abscess/phlegmon needing preoperative bowel rest.
+- **PN indications:** intestinal failure; high-output GI fistula; prolonged ileus; [[short-bowel-syndrome|short bowel syndrome]]; severe malnutrition when oral/EN fails or enteral access not feasible/contraindicated; intra-abdominal abscess/phlegmon needing preoperative bowel rest.
 - **PN thresholds:** high-output fistula **>500 mL/24 h**; [[ostomy-management|high ostomy output]] **>2000 mL/24 h**; inability to maintain **>60%** of energy/protein goals orally/EN for **7–10 d**; NPO **≥7 d** before surgery.
 - **Short bowel syndrome (SBS):** intestinal adaptation over **1–2 yr**; ~**50% of adults, 73% of children** wean off PN. Transition long-term PN → customized hydration (IV electrolytes and/or oral rehydration solutions) + oral intake; "dry meals" (separate liquids from solids). **[[glp-2-agonists|GLP-2 agonists]]** (eg, teduglutide) enhance villous adaptation and facilitate PN weaning. Long-term PN risks: central line–associated bloodstream infection, thrombosis, PN-associated liver disease.
 

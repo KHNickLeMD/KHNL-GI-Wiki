@@ -224,7 +224,7 @@ Idiopathic chronic inflammatory disorder of the large intestine. Continuous muco
 |---|---|---|---|
 | Infliximab + thiopurine | [[anti-tnf-agents\|Anti-TNF]] | Strong/High (combo Strong/Moderate) | Preferred anti-TNF (KC 45); combination-therapy data in UC exist **only** for infliximab + thiopurines (KC 27) |
 | Upadacitinib 45 mg/day ×8 wk | JAK-1 inhibitor | Strong/High | Maintenance 15 or 30 mg/day — **30 mg preferred in prior anti-TNF exposure**. US label restricts to prior anti-TNF failure/intolerance |
-| Vedolizumab IV | Anti-integrin | Strong/Moderate | Recommended **over adalimumab** for induction *and* maintenance (Strong/Moderate; VARSITY); gut-selective |
+| [[vedolizumab\|Vedolizumab]] IV | Anti-integrin | Strong/Moderate | Recommended **over adalimumab** for induction *and* maintenance (Strong/Moderate; VARSITY); gut-selective |
 | Ozanimod / etrasimod | S1P modulator | Strong/Moderate | Oral; **baseline ECG** before initiation |
 | Guselkumab | Anti-IL-23 (p19) | Strong/Moderate | |
 | Mirikizumab | Anti-IL-23 (p19) | Strong/Moderate | |

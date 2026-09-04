@@ -175,7 +175,7 @@ CTCAE grade criteria (ALT / bilirubin cutoffs) and the grade-directed hold/stero
 |-------|---------|---------|-------|
 | Azathioprine/6-MP | Cholestatic or hepatocellular; hepatoportal sclerosis | Moderate to long | Monitor CBC + LFTs regularly in [[inflammatory-bowel-disease\|IBD]] patients |
 | Methotrexate | Insidious hepatic steatosis + fibrosis | Long | See monitoring thresholds below |
-| Anti-TNF agents (infliximab, adalimumab) | Hepatocellular; autoimmune hepatitis-like | Moderate to long | Rare; may need to discontinue biologic |
+| [[anti-tnf-agents\|Anti-TNF agents]] (infliximab, adalimumab) | Hepatocellular; autoimmune hepatitis-like | Moderate to long | Rare; may need to discontinue biologic |
 | Amoxicillin-clavulanate | Cholestatic; can be hepatocellular | Short to moderate | Most common antibiotic DILI; onset may occur after drug cessation |
 | Isoniazid | Hepatocellular; acute hepatitis-like | Moderate to long | Age-related risk; monitor LFTs; avoid in CLD |
 | [[proton-pump-inhibitors\|Proton pump inhibitors]] | Hepatocellular; very rare | Short | Worth considering in unexplained hepatitis |

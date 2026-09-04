@@ -6,6 +6,70 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-09-04] lint | Vedolizumab's induction schedule was fabricated on two ACG source pages; orphaned AGA 2020 pancreas-screening CPU integrated; SBS + AIP ingested
+
+**The finding that mattered — an invented dose, propagated.**
+
+- `wiki/sources/acg-2025-uc.md` and `wiki/sources/acg-2025-crohns.md` both listed **"Vedolizumab IV — 300 mg wk 0, 2, 6"** in their Drug Dosing Summary tables, and `crohns-disease.md` had inherited it.
+- **No ingested source states a week-6 vedolizumab induction dose for IBD.** Verified directly against both raw PDFs: ACG 2025 UC gives *"300 mg at weeks 0 and 2"* with responders randomised at week 6 (GEMINI 1, VISIBLE); ACG 2025 CD gives *"300 mg at week 0 and week 2"* and Rec 16 says *"2 intravenous induction doses."* `grep "300 mg"` returns no 0/2/6 in either file.
+- The "0, 2, 6" pattern is the **infliximab** row directly above it in both tables — it was carried across. The only 0/2/6 vedolizumab schedule anywhere in the corpus is in [[aga-2021-ici-colitis-hepatitis]], for **ICI colitis**, not IBD.
+- Corrected in all three places with an explicit do-not-restore note. This is the failure mode the source-fidelity rule exists to catch: a plausible number, adjacent to a real one, never in the source.
+
+**Second finding — a tier-1 source ingested yesterday had landed on no entity page.**
+
+- [[aga-2020-pancreas-cancer-screening]] (ingested 2026-09-03) was a whole-wiki orphan. Integrated into [[pancreatic-cancer-screening]]: the lesion-based interval ladder (12 mo / 6–12 / 3–6 / 3 mo, BPA 9), the new-onset-diabetes trigger, the stop rule (BPA 12 — the only one in the corpus), the screening target (BPA 8), and the registry/Center-of-Excellence requirements.
+- **Two contradictions with the newer [[asge-2022-pancreatic-cancer-screening|ASGE 2022]] surfaced but not followed** (per source priority — newer wins within tier 1): AGA requires MRI **and** EUS *in combination*; AGA requires ≥1 affected first-degree relative for BRCA1/2, PALB2 and ATM. Both stated on the page because readers carry the old rules.
+- That page had also carried a stale gap note saying this CPU "would be needed" for an operative threshold. It is now ingested and **explicitly scopes itself out** of managing abnormal findings, so the gap stands with only Goggins 2020 (CAPS) named.
+- This is the **third consecutive pass** to find an orphaned tier-1 source (cf. 2026-08-29 ×2). Worth treating as a standing check, not an incident.
+
+**Sources ingested (2, the per-pass cap — both from the top of the queue):**
+
+- [[aga-2022-short-bowel-syndrome]] — AGA 2022 CPU, 12 Best Practice Advice, captured in full → new page [[short-bowel-syndrome]].
+- [[aga-2019-autoimmune-pancreatitis]] — → new page [[autoimmune-pancreatitis]]. **Confirmed on reading that it is *not* a CPU**: an AGA "Here and Now" expert column with zero numbered BPAs and no GRADE ratings. Recorded as such, and **no Anki cards written** — it does not meet the tier-1 guideline/CPU/consensus test.
+
+**Coverage gap filled (1):**
+
+- [[vedolizumab]] — queue item #2. Built on **[[acg-2025-uc]], not `acg-2019-uc`** as the queue specified; the 2025 UC guideline supersedes it. Queue items 3–7 named the 2019 guideline too and were corrected.
+
+**Decision gaps closed:**
+
+- [[esophageal-adenocarcinoma]] — T-stage definitions (what the pathologist must see for Tis/T1a/T1b sm1/sm2–3, with the 500 µm boundary) and the endoscopic-vs-surgical resection criteria: the sm1 exception needs **all four** low-risk features, and adverse histology overrides depth.
+- [[brca-pathogenic-variants]] — surveillance interval (annual) and modality, which the page had deferred entirely; plus ASGE's "initiate with caution" directive for BRCA1.
+- [[brush-cytology]] — how to act on the result (a positive is acted on; a negative excludes nothing and converts the stricture to indeterminate) and when brushing is the wrong test.
+
+**Source-fidelity defects corrected (beyond vedolizumab):**
+
+- [[esophageal-adenocarcinoma]] + [[barretts-esophagus]] — the "changes management in ~30%" figure was attributed to [[asge-2018-barretts-eet]], which in fact states that outcome "was not consistently reported across published studies." It is **[[acg-2022-barretts]]** (30–40%). Re-attributed on both pages.
+- [[esophageal-adenocarcinoma]] + [[endoscopic-eradication-therapy]] — the 500 µm / sm1–sm3 depth thresholds were attributed to ASGE 2018, which gives only "T1b sm2-3." Re-attributed to ACG 2022.
+- [[brca-pathogenic-variants]] — start ages were labelled ASGE 2022 "Rec 5"; they are Rec 6(a)/6(b).
+
+**Decision gaps left open (flagged, not filled — no ingested source supports them):**
+
+- [[autoimmune-pancreatitis]] — **the entire steroid regimen.** The article carries its treatment algorithm in Figure 1, a raster image with no text layer; no milligram and no interval appears anywhere in the prose. Missing: agent, induction dose/duration, taper, reassessment interval, immunomodulator and rituximab regimens, maintenance duration. Needs figure capture or **Okazaki 2017, *Pancreatology* 17:1–6**. The ICDC's component criteria are likewise named but not printed — needs **Shimosegawa 2011, *Pancreas* 40:352–358**.
+- [[short-bowel-syndrome]] — teduglutide dose (source gives route only), PN kcal/protein targets, malabsorption test thresholds. Table 1's microgram units are rendered "mg" by the PDF text layer for four entries; transcribed as extracted with a visible verify-before-dosing caveat rather than substituted from outside knowledge.
+- [[vedolizumab]] — infusion reaction rates, TB/HBV pre-screening, immunogenicity, escalated dosing: none stated for this agent in any ingested source (the anti-TNF data do not transfer).
+- [[brush-cytology]] — no numeric specificity/PPV exists in either ingested source.
+- [[brca-pathogenic-variants]] — non-GI (breast/ovarian) surveillance is not in the corpus; NCCN Genetic/Familial High-Risk Assessment is absent from `raw/GI Guidelines/NCCN/`.
+
+**Hygiene fixes:**
+
+- **24 stale index source counts** corrected (all undercounts).
+- **23 inline links** added across the wiki, converting first plain-text mentions to `[[slug|Alias]]`; the two new disease pages went from orphan to 5 inbound links each.
+- Index updated: 3 new page entries, 2 new source entries, queue items struck through, footer counts corrected (267 sources / 141 disease scripts / 32 meds).
+- Verified clean: **0 broken links, 0 orphan pages, 0 unescaped alias pipes in tables, 0 OS artifacts, 0 frontmatter/date anomalies** across 545 pages.
+
+**Ingest-detection correction (recorded in `index.md`):**
+
+- `raw/`'s content subfolders are **git-ignored** (only `raw/assets/` is tracked), so newly synced files **never appear in `git status`**, and the rsync rewrites mtimes so `find -newermt` is useless. Detect arrivals by matching raw basenames against `wiki/sources/` titles.
+- A stricter match puts the backlog at **≈77 uningested guideline files**, not the ~50 previously recorded. Two high-value non-AGA targets surfaced that the queue table omitted: **ASGE 2025 GERD** (newest tier-1 guideline on a core topic) and **AFS 2024 GE-valve assessment**. ASGE 2025 GERD placed at the head of the queue.
+
+**Remaining for user triage:**
+
+- **83 pages over 4 KB carry no `## Contents` ToC.** Left alone — the right-rail outline is auto-built from headings, so this is a consistency question, not a rendering break. Say the word and it's a mechanical pass.
+- Gated lecture/chalk-talk corpus: **34 transcripts**, untouched and never auto-ingested. Name the ones you want and they go in.
+
+---
+
 ## [2026-09-04] lint | The index was declaring the ingest queue empty while ~50 tier-1 AGA CPUs sat uningested; 2 ingested; ICI-hepatitis grade-4 gap closed
 
 **The finding that mattered — `index.md` was wrong about the state of `raw/`.**

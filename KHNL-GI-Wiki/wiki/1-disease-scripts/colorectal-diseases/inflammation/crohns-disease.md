@@ -236,7 +236,7 @@ No single pathognomonic test. Diagnosis = integration of:
 - **Route matters for methotrexate:** oral bioavailability is variable at higher doses, especially with malabsorption → **parenteral preferred**. [[aga-2025-crohns-pharm|AGA 2025]] suggests **SC/IM methotrexate monotherapy** over no treatment *(Conditional/Moderate)* but **against oral methotrexate monotherapy** *(Conditional/Very low)*; give **daily folic acid** with it.
 - Monitor CBC and LFTs routinely on [[thiopurines]] and methotrexate.
 - **TPMT testing required before AZA/6-MP** (Strong)
-- Combo AZA + anti-TNF: more effective than monotherapy; but risk of hepatosplenic T-cell lymphoma (rare, young males). AGA 2021 *suggests* combination infliximab or adalimumab + thiopurine over anti-TNF monotherapy in biologic- and immunomodulator-naïve patients (Conditional); makes no recommendation on combining vedolizumab/ustekinumab with an immunomodulator (knowledge gap), nor on withdrawing the immunomodulator vs the biologic once quiescent on combination therapy
+- Combo AZA + anti-TNF: more effective than monotherapy; but risk of hepatosplenic T-cell lymphoma (rare, young males). AGA 2021 *suggests* combination infliximab or adalimumab + thiopurine over anti-TNF monotherapy in biologic- and immunomodulator-naïve patients (Conditional); makes no recommendation on combining [[vedolizumab]]/ustekinumab with an immunomodulator (knowledge gap), nor on withdrawing the immunomodulator vs the biologic once quiescent on combination therapy
 - MTX preferred when AZA/6-MP toxicity is a concern; as an **adjunct to reduce anti-TNF immunogenicity** a reduced dose is used — methotrexate **12.5–15 mg PO once weekly** (or a thiopurine at reduced dose)
 
 ---
@@ -286,7 +286,7 @@ No single pathognomonic test. Diagnosis = integration of:
 ### Anti-Integrin: Vedolizumab (Strong Recommendation)
 
 - **Mechanism:** α4β7 blockade → gut-selective; no PML risk (unlike natalizumab)
-- **Induction:** 300 mg IV wk 0, 2, 6 → **Maintenance:** 300 mg IV q8wk OR 108 mg SQ q2wk
+- **Induction:** 300 mg IV at **wk 0 and wk 2** ([[acg-2025-crohns|ACG 2025]] Rec 16 — "2 intravenous induction doses"; GEMINI 2) → **Maintenance:** 300 mg IV q8wk OR 108 mg SQ q2wk. ⚠ Corrected 2026-09-04: this line previously read "wk 0, 2, 6" — **no ingested source states a week-6 vedolizumab induction dose for IBD** (that pattern is infliximab's). See [[vedolizumab]].
 - Slower onset in CD (vs anti-TNF); anti-TNF–naive respond faster
 - Monotherapy preferred (no benefit from adding immunomodulators — UNIFI/VARSITY extrapolation)
 - Favorable safety profile: no increased infection, no PML

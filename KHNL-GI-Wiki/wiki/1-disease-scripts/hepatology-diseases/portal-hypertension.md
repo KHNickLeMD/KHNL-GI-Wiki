@@ -355,7 +355,7 @@ Indicated for: CTP class B score >7 with active bleeding at endoscopy, OR CTP cl
 - PHG >mild: presumed CSPH; consider prophylactic NSBB (GS 48)
 - Acute PHG bleeding: vasoactive therapy × 2–5 days (GS 49)
 - **Baveno VIII 5.44 orders the options explicitly:** management of PHG focuses **primarily on reducing portal pressure with NSBB**; for severe or refractory PHG bleeding, **[[tips|TIPS]] is the most effective rescue therapy**. Because endoscopic therapies do not lower portal pressure, they **provide limited benefit and are reserved for focal bleeding lesions or salvage** — a demotion from Baveno VII 7.14, which said endoscopic therapy (APC, hemospray) "may be used"
-- **GAVE with serial transfusion requirement → EVL is recommended over argon plasma coagulation** (Baveno VIII 5.43, LoE 1, strong): higher eradication rates, fewer treatment sessions, and reductions in recurrent bleeding, hospitalisations and transfusion requirement. Baveno VII 6.25 had listed APC, RFA and band ligation as interchangeable options
+- **GAVE with serial transfusion requirement → EVL is recommended over [[argon-plasma-coagulation|argon plasma coagulation]]** (Baveno VIII 5.43, LoE 1, strong): higher eradication rates, fewer treatment sessions, and reductions in recurrent bleeding, hospitalisations and transfusion requirement. Baveno VII 6.25 had listed APC, RFA and band ligation as interchangeable options
 - **PHG must be distinguished from GAVE** — the treatments differ (Baveno VI/VII, retained in the Baveno VIII still-valid box)
 
 ### Special Situations

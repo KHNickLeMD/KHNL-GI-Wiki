@@ -35,7 +35,7 @@ Heritable connective tissue disorder; most common EDS subtype (80–90% of all E
 | # | Criterion | Operative detail |
 |---|---|---|
 | 1 | Generalized joint hypermobility | **Beighton score** at or above the age-adjusted cutoff — see [[#Beighton Score]] |
-| 2 | **≥2 of 3** feature groups | (a) other connective-tissue manifestations — soft/velvety skin, striae, or pelvic organ or rectal prolapse in children, men, or nulliparous women; (b) positive family history; (c) musculoskeletal complications — joint instability or widespread pain |
+| 2 | **≥2 of 3** feature groups | (a) other connective-tissue manifestations — soft/velvety skin, striae, or pelvic organ or [[rectal-prolapse\|rectal prolapse]] in children, men, or nulliparous women; (b) positive family history; (c) musculoskeletal complications — joint instability or widespread pain |
 | 3 | **Absence** of unusual skin fragility | Skin fragility prompts exclusion of other EDS forms, other heritable/acquired connective tissue disorders, and other joint disorders involving hypotonia and/or connective tissue laxity |
 
 - **HSD** = joint hypermobility + pain that does **not** satisfy the full hEDS criteria.

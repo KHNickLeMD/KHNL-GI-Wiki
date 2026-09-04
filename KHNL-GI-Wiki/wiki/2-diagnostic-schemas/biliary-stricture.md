@@ -76,7 +76,7 @@ The two principal management goals are: **(1) diagnosis** — confirm or exclude
 ### Benign — Fibroinflammatory
 
 - [[chronic-pancreatitis]]-related (most common benign extrahepatic stricture in Western countries)
-- IgG4-mediated cholangitis or autoimmune pancreatitis (IgG4-related disease)
+- IgG4-mediated cholangitis or [[autoimmune-pancreatitis|autoimmune pancreatitis]] (IgG4-related disease)
 - [[primary-sclerosing-cholangitis|Primary sclerosing cholangitis]] (see separate ACG PSC guideline — not covered here)
 - Sarcoidosis
 - Recurrent pyogenic cholangitis

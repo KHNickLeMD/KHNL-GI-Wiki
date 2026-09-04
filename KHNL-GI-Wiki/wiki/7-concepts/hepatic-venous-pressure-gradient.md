@@ -80,7 +80,7 @@ Baveno VII methodology statements ([[baveno-vii-2022-portal-hypertension]], 1.1�
 Baveno VIII moves routine CSPH diagnosis to non-invasive tests, but the catheter still decides in three places:
 
 1. **Confirming CSPH resolution before stopping an NSBB in a recompensated patient** — **HVPG <10 mmHg measured off carvedilol/cNSBB** (7.16). Non-invasive alternatives exist (LSM <10 kPa; or LSM <15 + SSM <25 kPa) but carry weaker grades (7.19).
-2. **Investigating an inconclusive cirrhosis/cACLD workup, or suspected [[porto-sinusoidal-vascular-disorder|PSVD/NCPF]], in a patient with non-cirrhotic [[portal-vein-thrombosis|PVT]]** — liver biopsy **and** HVPG (9.4).
+2. **Investigating an inconclusive cirrhosis/cACLD workup, or suspected [[porto-sinusoidal-vascular-disorder|PSVD/NCPF]], in a patient with non-cirrhotic [[portal-vein-thrombosis|PVT]]** — [[liver-biopsy|liver biopsy]] **and** HVPG (9.4).
 3. **Clinical trials** — HVPG measurements should be encouraged in trials of novel therapies, though they are not essential where portal-hypertension endpoints are well defined (Baveno V/VI, retained).
 
 ## Limitations — when HVPG misleads

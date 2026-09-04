@@ -43,7 +43,7 @@ sources: [aga-2023-ostomies]
 - **Most important treatment: hydration to prevent renal failure.** Repletion volumes are large → typically **IV**, requiring hospital admission or long-term IV access for home health care.
 - Persistent early HOO → consider **early stoma reversal**, but reversal **before 6 weeks** from index surgery carries increased complication risk.
 
-**Chronic (late) HOO** — more likely with jejunostomy, short bowel (**<200 cm small intestine remaining**), or failed post-surgical adaptation. Ileal adaptation begins over days–weeks (mucosal changes altering electrolyte transport, absorptive capacity, motility). Etiologies: infection, structural (stomal stricture/dysfunction, obstruction, ileus, enteric fistula), recurrent [[crohns-disease|Crohn's disease]], and common adult diarrhea causes ([[microscopic-colitis|microscopic colitis]], [[bile-acid-diarrhea|bile acid diarrhea]]). *Parenteral-nutrition thresholds for high ostomy output (>2000 mL/24 h) live on [[nutrition-in-ibd]] — note that figure is a PN trigger, not the >1.5 L/d HOO definition above.*
+**Chronic (late) HOO** — more likely with jejunostomy, [[short-bowel-syndrome|short bowel]] (**<200 cm small intestine remaining**), or failed post-surgical adaptation. Ileal adaptation begins over days–weeks (mucosal changes altering electrolyte transport, absorptive capacity, motility). Etiologies: infection, structural (stomal stricture/dysfunction, obstruction, ileus, enteric fistula), recurrent [[crohns-disease|Crohn's disease]], and common adult diarrhea causes ([[microscopic-colitis|microscopic colitis]], [[bile-acid-diarrhea|bile acid diarrhea]]). *Parenteral-nutrition thresholds for high ostomy output (>2000 mL/24 h) live on [[nutrition-in-ibd]] — note that figure is a PN trigger, not the >1.5 L/d HOO definition above.*
 
 **Treatment ladder (Table 1):**
 
@@ -95,7 +95,7 @@ sources: [aga-2023-ostomies]
 - WOC (wound ostomy continence) marking assesses the abdomen in multiple positions for a site within the rectus, away from scars, skin folds, bony prominences, and the umbilicus.
 - WOC consultation manages expectations (output, appliances, regular mucus passage from the native rectum); community-based and online ostomy support groups exist.
 
-⚠ **Gaps (not in source):** Nutrition guidance is not addressed as a discrete topic. Medication absorption after ostomy creation (altered oral drug absorption with ileostomy/short bowel) is not covered. Typical daily ileostomy output volumes are not quantified beyond the >1.5 L/d HOO threshold.
+⚠ **Gaps (not in source):** Nutrition guidance is not addressed as a discrete topic. Medication absorption after ostomy creation (altered oral drug absorption with ileostomy/short bowel) is not covered *(partly addressed by [[aga-2022-short-bowel-syndrome]] BPA 7 — see [[short-bowel-syndrome]])*. Typical daily ileostomy output volumes are not quantified beyond the >1.5 L/d HOO threshold.
 
 ## See Also
 

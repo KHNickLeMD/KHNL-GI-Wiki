@@ -42,7 +42,7 @@ Bacterial infection of an obstructed biliary tree. Two decisions drive the whole
 | Domain | What it covers |
 |---|---|
 | **A — Systemic inflammation** | fever / systemic inflammatory response |
-| **B — Cholestasis** | jaundice, abnormal liver chemistries |
+| **B — Cholestasis** | jaundice, [[abnormal-liver-chemistries\|abnormal liver chemistries]] |
 | **C — Imaging** | biliary dilatation, or evidence of the etiology (stricture, stone, stent) |
 
 - **Suspected diagnosis** = **one** item from **A** *plus* **one** from **either B or C**.

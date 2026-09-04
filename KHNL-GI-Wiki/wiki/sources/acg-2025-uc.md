@@ -140,7 +140,7 @@ Comprehensive update of ACG UC guideline. Major additions vs 2019: S1P modulator
 | Infliximab IV | 5 mg/kg wk 0, 2, 6 + thiopurine | 5 mg/kg q8wk |
 | Adalimumab | 160/80/40 mg | 40 mg q2wk |
 | Golimumab | 200/100 mg | 100 mg q4wk |
-| Vedolizumab IV | 300 mg wk 0, 2, 6 | 300 mg q8wk |
+| Vedolizumab IV | 300 mg wk 0, 2 ⚠ | 300 mg q8wk |
 | Vedolizumab SC | (after IV induction) | 108 mg q2wk |
 | Ustekinumab | ~6 mg/kg IV | 90 mg SQ q8wk or q12wk |
 | Ozanimod | 0.23 mg → 0.92 mg daily PO | 0.92 mg/day |
@@ -150,6 +150,8 @@ Comprehensive update of ACG UC guideline. Major additions vs 2019: S1P modulator
 | Risankizumab | 1200 mg IV q4wk × 3 | 180 mg SQ q8wk |
 | Tofacitinib | 10 mg bid × 8–16wk | 5 mg bid (10 mg bid in severe) |
 | Upadacitinib | 45 mg PO daily × 8wk | 15–30 mg PO daily |
+
+> ⚠ **Vedolizumab IV induction — corrected 2026-09-04 (source-fidelity fix).** This row previously read *"300 mg wk 0, 2, 6."* **That schedule is not in this guideline.** The ACG 2025 UC text describes vedolizumab induction only as **300 mg at weeks 0 and 2**, with responders randomised at week 6 to maintenance (GEMINI 1, VISIBLE). The "0, 2, 6" pattern belongs to the **infliximab** row above it and appears to have been carried across. No ingested source states a week-6 vedolizumab induction dose for IBD — the only 0/2/6 vedolizumab schedule in the corpus is in [[aga-2021-ici-colitis-hepatitis]], for **ICI colitis**, not IBD. Do not restore the week-6 dose without a source that prints it. See [[vedolizumab]].
 
 ### ASUC Management Summary
 

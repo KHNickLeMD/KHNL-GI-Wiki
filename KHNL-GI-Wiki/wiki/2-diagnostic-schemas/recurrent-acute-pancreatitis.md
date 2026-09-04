@@ -21,7 +21,7 @@ sources: [aga-2022-recurrent-pancreatitis-endoscopy]
 - **Occult ampullary or pancreatobiliary malignancy** — up to **5%** after a single unexplained AP, up to **12%** with RAP
 - [[hereditary-pancreatitis|Genetic / hereditary pancreatitis]]
 - Metabolic: hypertriglyceridemia, hypercalcemia
-- Medications, autoimmune pancreatitis
+- Medications, [[autoimmune-pancreatitis|autoimmune pancreatitis]]
 - Evolving [[chronic-pancreatitis|chronic pancreatitis]]
 
 ## Diagnostic Algorithm

@@ -7,7 +7,7 @@ updated: 2026-09-01
 sources: [aga-2024-diet-nutrition-ibd, aga-2023-ostomies, aga-2025-endoscopic-enteral-access]
 ---
 
-Glucagon-like peptide-2 (GLP-2) agonists are **intestinotrophic** peptides used to enhance **intestinal adaptation** and facilitate weaning from long-term **[[nutrition-in-hospitalized-patients|parenteral nutrition (PN)]]** in **short bowel syndrome (SBS) / intestinal failure**, including [[inflammatory-bowel-disease|IBD]]-associated (typically post-resection [[crohns-disease|Crohn's]]) intestinal failure. Distinct from **[[glp-1-receptor-agonists|GLP-1 agonists]]** (e.g. [[semaglutide]]), which are used for weight/glycemic management — GLP-2 is trophic to the gut, not an incretin weight-loss agent.
+Glucagon-like peptide-2 (GLP-2) agonists are **intestinotrophic** peptides used to enhance **intestinal adaptation** and facilitate weaning from long-term **[[nutrition-in-hospitalized-patients|parenteral nutrition (PN)]]** in **[[short-bowel-syndrome|short bowel syndrome]] (SBS) / intestinal failure**, including [[inflammatory-bowel-disease|IBD]]-associated (typically post-resection [[crohns-disease|Crohn's]]) intestinal failure. Distinct from **[[glp-1-receptor-agonists|GLP-1 agonists]]** (e.g. [[semaglutide]]), which are used for weight/glycemic management — GLP-2 is trophic to the gut, not an incretin weight-loss agent.
 
 ## Contents
 - [[#Mechanism]]

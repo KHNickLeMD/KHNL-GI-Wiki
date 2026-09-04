@@ -356,7 +356,7 @@ Esophagectomy has been the default for any submucosal (T1b) invasion because of 
 **Step 1 — Endoscopic Resection (ER) of any visible lesion:**
 
 - Always precedes ablation; serves both diagnostic and therapeutic purposes. ASGE 2018 (Rec 4, **strong**): resect ALL visible lesions (nodularity, ulceration, plaque, depression, discoloration), no matter how subtle.
-- ER upstages or downstages histology in 30–40% of cases (ASGE 2018: change in 39%, mostly upstaging); changes management in ~30%
+- ER upstages or downstages histology in **39%** of cases (95% CI 34–45), mostly upstaging ([[asge-2018-barretts-eet|ASGE 2018]]). It **changes management in 30–40%** — that figure is [[acg-2022-barretts|ACG 2022]]; ASGE 2018 explicitly states the management-change outcome "was not consistently reported across published studies." *(Attribution corrected 2026-09-04.)*
 - **Multiband EMR** (preferred in most cases) or cap-assisted EMR — equivalent efficacy and safety
 - **[[endoscopic-submucosal-dissection|ESD]]** for larger lesions (unsuitable for en bloc EMR), post-ablation scarring, or suspected submucosal invasion. [[aga-2024-barretts-eet|AGA 2024]] (Rec 5, conditional): **the vast majority of neoplastic lesions are managed with EMR**; choose ESD specifically for large bulky lesions, lesions highly suspicious of ≥T1b invasion (**depressed, Paris 0-IIc, or 0-IIa+c**), or previously failed EMR
 - ASGE 2018 (Rec 6, **strong against**): do NOT routinely perform complete EMR of the entire BE segment (cEMR) — far more strictures (OR 4.73), bleeding (OR 6.88), and perforation (OR 7.00) than focal EMR + RFA, with equivalent eradication.

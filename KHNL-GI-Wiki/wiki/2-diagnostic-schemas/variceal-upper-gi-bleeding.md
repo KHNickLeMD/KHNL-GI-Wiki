@@ -123,7 +123,7 @@ Bleeding from **GOV2 or IGV1 is a high-risk event** requiring **rapid, structure
 
 ## Portal Hypertensive Gastropathy and GAVE
 
-- **PHG (Baveno VIII 5.44):** management focuses **primarily on reducing portal pressure with NSBB**. For severe or refractory PHG bleeding, **TIPS is the most effective rescue therapy**. Because endoscopic therapies do not lower portal pressure, **they provide limited benefit and are reserved for focal bleeding lesions or salvage**. ⚠ Baveno VII 7.14 had said endoscopic therapy (argon plasma coagulation, hemospray) "may be used"
+- **PHG (Baveno VIII 5.44):** management focuses **primarily on reducing portal pressure with NSBB**. For severe or refractory PHG bleeding, **TIPS is the most effective rescue therapy**. Because endoscopic therapies do not lower portal pressure, **they provide limited benefit and are reserved for focal bleeding lesions or salvage**. ⚠ Baveno VII 7.14 had said endoscopic therapy ([[argon-plasma-coagulation|argon plasma coagulation]], hemospray) "may be used"
 - **GAVE (Baveno VIII 5.43):** in patients **requiring serial transfusion**, **EVL is recommended over argon plasma coagulation** (LoE 1, strong) — higher eradication rates, fewer treatment sessions, and reductions in recurrent bleeding, hospitalisation and transfusion requirement. ⚠ Baveno VII 6.25 listed APC, RFA and band ligation as interchangeable options for PHG/GAVE
 - **PHG must be distinguished from GAVE** — the treatments differ (Baveno VI/VII, retained as still valid in Baveno VIII)
 

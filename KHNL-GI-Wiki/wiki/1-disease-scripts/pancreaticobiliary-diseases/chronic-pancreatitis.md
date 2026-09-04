@@ -142,7 +142,7 @@ Key categories:
 
 - [[acute-pancreatitis]] — acute flares; RAP is precursor in 30% (overall ~60% of CP evolves from AP/RAP)
 - **[[pancreatic-cancer|Pancreatic adenocarcinoma]]** — new stricture/mass; consider in any new-onset CP, especially older, new diabetes + weight loss
-- **Autoimmune pancreatitis (AIP)** — type 1 (IgG4-related; sausage pancreas, IgG4↑, steroid-responsive) vs. type 2 (IBD-associated, granulocytic epithelial lesions, younger)
+- **[[autoimmune-pancreatitis|Autoimmune pancreatitis]] (AIP)** — type 1 (IgG4-related; sausage pancreas, IgG4↑, steroid-responsive) vs. type 2 (IBD-associated, granulocytic epithelial lesions, younger)
 - [[biliary-stricture]] — CP = most common benign cause of extrahepatic [[biliary-stricture|biliary stricture]]
 - **[[pancreas-divisum|Pancreas divisum]] / ampullary stenosis** — consider in idiopathic CP
 - **IPMN / [[pancreatic-cysts|pancreatic cysts]]** — duct dilation can mimic CP

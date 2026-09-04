@@ -62,7 +62,7 @@ The most useful framework is to classify by **stool character** into watery, inf
 - **[[celiac-disease]]** — small-bowel villous atrophy; screen with anti-tTG IgA
 - **[[exocrine-pancreatic-insufficiency|Exocrine pancreatic insufficiency]]** — [[chronic-pancreatitis]], [[pancreatic-cancer|pancreatic cancer]]; low fecal elastase
 - **[[small-intestinal-bacterial-overgrowth|SIBO]]**, Whipple's disease, tropical sprue
-- Short bowel syndrome, [[acute-mesenteric-ischemia|mesenteric ischemia]], bile acid deficiency (cholestasis)
+- [[short-bowel-syndrome|Short bowel syndrome]], [[acute-mesenteric-ischemia|mesenteric ischemia]], bile acid deficiency (cholestasis)
 
 ---
 

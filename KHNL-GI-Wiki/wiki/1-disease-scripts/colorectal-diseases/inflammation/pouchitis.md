@@ -109,7 +109,7 @@ Pragmatic, treatment-anchored definitions (AGA 2024, Table 5):
 - **Advanced immunosuppressive therapy** (biologic/small molecule) is the alternative — preferred when antibiotic-intolerant or concerned about long-term antibiotics; therapies used **before colectomy** may be reconsidered.
 
 **Chronic antibiotic-refractory pouchitis → advanced therapy (± corticosteroids).**
-- **Advanced immunosuppressive therapies** suggested — **vedolizumab has the strongest evidence** (only RCT).
+- **Advanced immunosuppressive therapies** suggested — **[[vedolizumab]] has the strongest evidence** (only RCT).
   - **EARNEST RCT (vedolizumab):** mPDAI remission at week 14 in **18/51 (vedolizumab) vs 5/51 (placebo)**; patients also received concomitant ciprofloxacin 500 mg BID through week 4. *(low certainty)*
   - Observational pooled response rates by class — **no significant difference between advanced therapies (P = .24)**, and the small-cohort estimates have uninformative confidence intervals, so do not read the point estimates as a ranking:
 
