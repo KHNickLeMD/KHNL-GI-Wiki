@@ -3,7 +3,7 @@ title: "Pouchitis"
 category: disease-script
 tags: [pouchitis, ipaa, j-pouch, ulcerative-colitis, ibd, cuffitis, crohns-like-disease-of-the-pouch, antibiotics, probiotics, biologics]
 created: 2026-06-04
-updated: 2026-09-03
+updated: 2026-09-04
 sources: [aga-2024-pouchitis, aga-2020-probiotics, asge-2015-ibd, aga-2024-fmt, aga-2026-cdiff-ibd, aga-2026-therapeutic-endoscopy-ibd]
 ---
 
@@ -76,7 +76,7 @@ Pragmatic, treatment-anchored definitions (AGA 2024, Table 5):
 - Targeted workup when refractory: stool studies (incl. *C. difficile*), CMV on biopsy, cross-sectional/contrast imaging or EUA for suspected stricture/fistula.
 - ***C. difficile* in the pouch is not a rarity — test for it.** [[aga-2026-cdiff-ibd|AGA 2026]] advises actively considering and treating CDI in any patient with an **ileo-anal pouch or [[ostomy-management|end ileostomy]]** whose diarrhea/pouch output worsens; CDI has been detected in **10%–18%** of IPAA patients. Use a **multistep toxin-based assay** (NAAT alone over-diagnoses colonization), prefer **fidaxomicin**, and **retest if diarrhea recurs** after successful treatment. Full pathway: [[clostridioides-difficile]].
 - **Endoscopic + histologic assessment of the pouch and afferent limb is recommended in symptomatic patients** ([[asge-2015-ibd]]).
-- **Pouch neoplasia surveillance** (beyond AGA 2024 scope; [[asge-2015-ibd]]): highest-risk patients — **prior colorectal dysplasia or cancer** — considered for **annual pouchoscopy** with biopsies taken **proximally (within the pouch) and distally (anal transition zone)**. [[primary-sclerosing-cholangitis|PSC]], refractory pouchitis, and type C (atrophic, severely inflamed) pouch mucosa may also warrant surveillance.
+- **Pouch neoplasia surveillance** (beyond AGA 2024 scope; [[asge-2015-ibd]]): highest-risk patients — **prior colorectal dysplasia or [[colorectal-cancer|cancer]]** — considered for **annual pouchoscopy** with biopsies taken **proximally (within the pouch) and distally (anal transition zone)**. [[primary-sclerosing-cholangitis|PSC]], refractory pouchitis, and type C (atrophic, severely inflamed) pouch mucosa may also warrant surveillance.
 
 ---
 
@@ -120,7 +120,7 @@ Pragmatic, treatment-anchored definitions (AGA 2024, Table 5):
 | Ustekinumab | 2 cohorts, n = 31 | 72% (**4–99**) |
 | Tofacitinib | 2 cohorts, n = 13 | 31% (**2–92**) |
 
-  - Class includes: TNF antagonists (infliximab, adalimumab, golimumab, certolizumab pegol), vedolizumab, ustekinumab, risankizumab, ozanimod, tofacitinib, upadacitinib. **Vedolizumab is the only agent with regulatory approval for this indication (EMA).**
+  - Class includes: [[anti-tnf-agents|TNF antagonists]] (infliximab, adalimumab, golimumab, certolizumab pegol), vedolizumab, ustekinumab, risankizumab, ozanimod, tofacitinib, upadacitinib. **Vedolizumab is the only agent with regulatory approval for this indication (EMA).**
   - Therapies used before colectomy may be reconsidered; a subset keeps deriving partial benefit from continued antibiotics alongside advanced therapy.
 - **Corticosteroids** also an option — oral **budesonide** or **beclomethasone**, pooled response ~**77%** (95% CI 58–88; 2 case series, n=30).
   - **Controlled ileal-release budesonide is the preferred formulation.**

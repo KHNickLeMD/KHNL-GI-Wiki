@@ -3,7 +3,7 @@ title: "Postinfectious Irritable Bowel Syndrome (PI-IBS)"
 category: disease-script
 tags: [ibs, postinfectious-ibs, travelers-diarrhea, gastroenteritis, functional-gi, rome-iv, giardia, campylobacter]
 created: 2026-05-19
-updated: 2026-08-31
+updated: 2026-09-04
 sources: [acg-2016-acute-diarrhea, acg-2020-ibs, rome-v-2026-dgbi]
 ---
 
@@ -38,7 +38,7 @@ Postinfectious [[irritable-bowel-syndrome|IBS]] (PI-IBS) is a chronic functional
 *Workup: see [[chronic-diarrhea]].*
 
 - [[irritable-bowel-syndrome|IBS]] without an infectious trigger — same criteria, no antecedent gastroenteritis.
-- Persistent infection — e.g. [[giardiasis]], [[cryptosporidiosis]], [[entamoeba-histolytica-infection|amebiasis]]; PI-IBS is by definition *not* agent persistence, so an unresolved pathogen must be excluded. Parasitic infections in particular range from asymptomatic to chronic bloating, diarrhea, and abdominal pain — **clinically similar to IBS**. [[acg-2020-ibs]]
+- Persistent infection — e.g. [[giardiasis]], [[cryptosporidiosis]], [[entamoeba-histolytica-infection|amebiasis]]; PI-IBS is by definition *not* agent persistence, so an unresolved pathogen must be excluded. Parasitic infections in particular range from asymptomatic to chronic [[abdominal-bloating-and-distention|bloating]], diarrhea, and abdominal pain — **clinically similar to IBS**. [[acg-2020-ibs]]
 - [[celiac-disease|Celiac disease]], [[microscopic-colitis|microscopic colitis]], [[small-intestinal-bacterial-overgrowth|SIBO]], [[bile-acid-diarrhea|bile acid diarrhea]] — organic mimics of postinfectious bowel symptoms.
 - [[inflammatory-bowel-disease|IBD]] presenting after an enteric infection.
 
@@ -57,7 +57,7 @@ Postinfectious [[irritable-bowel-syndrome|IBS]] (PI-IBS) is a chronic functional
 
 ## See Also
 
-[[irritable-bowel-syndrome]], [[acute-diarrhea]], [[chronic-diarrhea]], [[disorders-of-gut-brain-interaction]], [[giardiasis]], [[campylobacter-infection]], [[salmonella-infection]], [[cryptosporidiosis]], [[small-intestinal-bacterial-overgrowth]], [[bile-acid-diarrhea]]
+[[irritable-bowel-syndrome]], [[acute-diarrhea]], [[chronic-diarrhea]], [[disorders-of-gut-brain-interaction]], [[abdominal-bloating-and-distention]], [[giardiasis]], [[campylobacter-infection]], [[salmonella-infection]], [[cryptosporidiosis]], [[entamoeba-histolytica-infection]], [[celiac-disease]], [[microscopic-colitis]], [[small-intestinal-bacterial-overgrowth]], [[bile-acid-diarrhea]], [[inflammatory-bowel-disease]]
 
 ---
 

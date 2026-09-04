@@ -3,7 +3,7 @@ title: "Crohn's Disease"
 category: disease-script
 tags: [crohns, ibd, biologics, ileitis, colitis, perianal-fistula, stricture, fistula, anti-tnf]
 created: 2026-05-07
-updated: 2026-09-03
+updated: 2026-09-04
 sources: [acg-2025-crohns, aga-2025-crohns-pharm, aga-2021-crohns-pharm, aga-2023-biomarkers-cd, acg-2018-crohns, asge-2015-scenic-ibd-dysplasia, asge-2015-ibd, aga-2026-inpatient-ibd, aga-2026-therapeutic-endoscopy-ibd, aga-2024-intestinal-ultrasound, aga-2024-diet-nutrition-ibd, aga-2024-ibd-malignancy, aga-2024-pregnancy-gi-liver]
 ---
 
@@ -266,6 +266,8 @@ No single pathognomonic test. Diagnosis = integration of:
 ---
 
 ### Anti-TNF Agents (Strong Recommendation)
+
+*Drug-class parameters — immunogenicity, therapeutic drug monitoring, pre-treatment TB/HBV screening, biosimilars: see [[anti-tnf-agents]].*
 
 | Drug | Induction | Maintenance |
 |---|---|---|

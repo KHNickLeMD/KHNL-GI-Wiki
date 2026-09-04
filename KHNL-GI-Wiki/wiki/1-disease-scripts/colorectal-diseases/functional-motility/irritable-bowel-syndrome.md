@@ -3,7 +3,7 @@ title: "Irritable Bowel Syndrome"
 category: disease-script
 tags: [ibs, dgbi, functional, colorectal, motility, rome-iv, rome-v, fodmap, rifaximin, linaclotide, plecanatide, tca]
 created: 2026-05-16
-updated: 2026-08-31
+updated: 2026-09-04
 sources: [acg-2020-ibs, rome-v-2026-dgbi, acg-2020-sibo, aga-2022-ibs-c, aga-2022-ibs-d]
 ---
 
@@ -149,7 +149,7 @@ Subtypes by Bristol Stool Form Scale **on days with abnormal stools** (assess of
 | Bile-acid sequestrants | — | Against (global symptoms) (Conditional/VLow) | not addressed |
 
 - **Alosetron** carries a REMS because of [[colon-ischemia|ischemic colitis]]; reserve for women with severe IBS-D failing standard therapy.
-- **Eluxadoline is contraindicated in patients without a gallbladder** *and* **in those who drink >3 alcoholic beverages/day** — both, because of pancreatitis risk ([[aga-2022-ibs-d]]).
+- **Eluxadoline is contraindicated in patients without a gallbladder** *and* **in those who drink >3 alcoholic beverages/day** — both, because of [[acute-pancreatitis|pancreatitis]] risk ([[aga-2022-ibs-d]]).
 
 ### Stepwise Approach
 
@@ -161,7 +161,7 @@ Subtypes by Bristol Stool Form Scale **on days with abnormal stools** (assess of
 6. Refractory: re-examine diagnosis; ARM+BET; specialty referral; consider neuromodulators
 
 ## See Also
-[[disorders-of-gut-brain-interaction]], [[abdominal-bloating-and-distention]], [[postinfectious-ibs]], [[chronic-idiopathic-constipation]], [[defecation-disorders]], [[small-intestinal-bacterial-overgrowth]], [[intestinal-methanogen-overgrowth]], [[microscopic-colitis]], [[bile-acid-diarrhea]], [[celiac-disease]], [[alpha-gal-syndrome]], [[rifaximin]], [[linaclotide]], [[plecanatide]], [[lubiprostone]], [[tenapanor]], [[alosetron]], [[eluxadoline]], [[tegaserod]], [[loperamide]], [[anorectal-manometry]], [[fmt]]
+[[disorders-of-gut-brain-interaction]], [[abdominal-bloating-and-distention]], [[postinfectious-ibs]], [[chronic-idiopathic-constipation]], [[defecation-disorders]], [[small-intestinal-bacterial-overgrowth]], [[intestinal-methanogen-overgrowth]], [[microscopic-colitis]], [[bile-acid-diarrhea]], [[celiac-disease]], [[alpha-gal-syndrome]], [[rifaximin]], [[linaclotide]], [[plecanatide]], [[lubiprostone]], [[tenapanor]], [[alosetron]], [[eluxadoline]], [[tegaserod]], [[loperamide]], [[probiotics]], [[anorectal-manometry]], [[colonoscopy]], [[fmt]], [[acute-pancreatitis]], [[colon-ischemia]]
 
 ---
 

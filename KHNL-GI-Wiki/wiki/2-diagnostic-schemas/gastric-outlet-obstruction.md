@@ -3,7 +3,7 @@ title: "Gastric Outlet Obstruction"
 category: diagnostic-schema
 tags: [gastric-outlet-obstruction, goo, gooss, enteral-stent, gastrojejunostomy, eus-ge, lams, palliation, peptic-ulcer-disease, pancreatic-cancer]
 created: 2026-09-02
-updated: 2026-09-03
+updated: 2026-09-04
 sources: [jeurnink-2010-sustent-goo, kastelijn-2023-enduro-protocol, asge-2010-pud, aga-2025-endoscopic-enteral-access]
 ---
 
@@ -13,12 +13,12 @@ sources: [jeurnink-2010-sustent-goo, kastelijn-2023-enduro-protocol, asge-2010-p
 - [[#Differential Diagnosis]]
 - [[#Diagnostic Algorithm]]
 - [[#Key Tests]]
+- [[#Red Flags / Alarm Features]]
 - [[#Treatment Selection]]
   - [[#Benign GOO]]
   - [[#Malignant GOO — the prognosis threshold]]
   - [[#Procedural specifications]]
   - [[#After the procedure]]
-- [[#Red Flags / Alarm Features]]
 - [[#See Also]]
 - [[#Sources]]
 
@@ -108,6 +108,18 @@ flowchart TD
 
 ---
 
+## Red Flags / Alarm Features
+
+- **GOOSS 0 (no oral intake at all)** — dehydration and malnutrition develop quickly; this is not a watch-and-wait situation.
+- **Vomiting more than twice in 24 h**, or still GOOSS 0–1 **five days after** a bypass or stent — trigger for endoscopic jejunal feeding access.
+- **Endoscopically benign-looking gastric lesion** — appearance does not exclude malignancy; biopsy is mandatory.
+- **New [[jaundice]] or [[acute-cholangitis|cholangitis]] after duodenal stenting** — the stent may have crossed the ampulla and blocked ERCP access; anticipate percutaneous drainage.
+- **Suspicion of a second, more distal obstruction** (small-bowel dilation, ileus) — a proximal bypass will not work.
+- **WHO performance status 4** — outside the evidence base for either palliative procedure.
+- **Suspected perforation after balloon dilation or EUS-GE** — pyloric dilation carries a meaningful perforation rate ([[peptic-ulcer-disease]]); LAMS misdeployment causes jejunal perforation and peritonitis.
+
+---
+
 ## Treatment Selection
 
 ### Benign GOO
@@ -166,18 +178,6 @@ flowchart TD
 - **Recurrent obstructive symptoms → upper endoscopy.** (*Persistent* = within 4 weeks of treatment; *recurrent* = more than 4 weeks after — [[jeurnink-2010-sustent-goo]].)
 - **Stop pre-existing tube feeding** after the procedure to give oral intake a fair trial; restart only if the patient demonstrably cannot maintain adequate intake.
 - **Feeding route:** GOO is a stated indication for **small-bowel rather than gastric** enteral access ([[aga-2025-endoscopic-enteral-access]]) — see [[enteral-access]]. Small-bowel feeds need reduced and cycled rates to prevent dumping.
-
----
-
-## Red Flags / Alarm Features
-
-- **GOOSS 0 (no oral intake at all)** — dehydration and malnutrition develop quickly; this is not a watch-and-wait situation.
-- **Vomiting more than twice in 24 h**, or still GOOSS 0–1 **five days after** a bypass or stent — trigger for endoscopic jejunal feeding access.
-- **Endoscopically benign-looking gastric lesion** — appearance does not exclude malignancy; biopsy is mandatory.
-- **New [[jaundice]] or [[acute-cholangitis|cholangitis]] after duodenal stenting** — the stent may have crossed the ampulla and blocked ERCP access; anticipate percutaneous drainage.
-- **Suspicion of a second, more distal obstruction** (small-bowel dilation, ileus) — a proximal bypass will not work.
-- **WHO performance status 4** — outside the evidence base for either palliative procedure.
-- **Suspected perforation after balloon dilation or EUS-GE** — pyloric dilation carries a meaningful perforation rate ([[peptic-ulcer-disease]]); LAMS misdeployment causes jejunal perforation and peritonitis.
 
 ---
 

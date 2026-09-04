@@ -3,7 +3,7 @@ title: "Hepatocellular Carcinoma"
 category: disease-script
 tags: [hcc, hepatocellular, liver, cancer, hpb, surveillance, cirrhosis, hbv, adjuvant, immunotherapy, liver-transplant, milan-criteria, afp, downstaging, mtor-inhibitor, sirolimus, everolimus, bclc, sorafenib, lenvatinib, atezolizumab, bevacizumab, tace, tare, ablation, resection, li-rads, locoregional]
 created: 2026-05-16
-updated: 2026-09-02
+updated: 2026-09-04
 sources: [aasld-2023-hcc, aasld-2025-hcc-critical-update, aasld-ast-2025-liver-transplant-candidate-evaluation, aasld-ast-2025-liver-transplant-graft-complications, aga-2022-hcc-systemic, nccn-2026-hcc, aga-2026-hcc-surveillance, aasld-idsa-2025-chb-treatment]
 ---
 
@@ -58,7 +58,7 @@ HCC is the most common primary liver cancer (75–86% of all primary liver cance
 ![[hcc-2023-bclc-algorithm-14.png|700x445]]
 *Figure 9 — Updated Barcelona Clinic Liver Cancer (BCLC) Staging System 2022: tumor characterization, treatment allocation, and expected survival by stage. ([[aasld-2023-hcc]])*
 
-**Barcelona Clinic Liver Cancer (BCLC) 2022 Staging System** is the AASLD-recommended staging system; incorporates tumor burden, liver function (MELD, Child-Pugh, ALBI — CTP class cutoffs, the MELD-Na formula, and ALBI grade thresholds live on [[cirrhosis]]), performance status (ECOG PS), and biomarkers including AFP. [[aasld-2023-hcc]]
+**Barcelona Clinic Liver Cancer (BCLC) 2022 Staging System** is the AASLD-recommended staging system; incorporates tumor burden, liver function (MELD, Child-Pugh, ALBI — CTP class cutoffs, the MELD 3.0 formula, the MELD-variant comparison, and ALBI grade thresholds live on [[cirrhosis]]), performance status (ECOG PS), and biomarkers including AFP. [[aasld-2023-hcc]]
 
 | Stage | Prognosis Basis | Tumor Characterization | 1st Treatment Option | Expected Survival |
 |---|---|---|---|---|
@@ -445,18 +445,7 @@ Key evidence:
 
 **HCC surveillance post-LT:** contrast-enhanced abdominal CT or MRI **plus chest CT** every 6–12 months (cross-sectional imaging over ultrasound — lung ~40% and liver ~33% are the two commonest recurrence sites); AFP as adjunct; risk of recurrence persists especially beyond Milan criteria. See [[liver-transplantation]] for IS trough targets. See [[post-transplant-lymphoproliferative-disorder]] for NHL risk with intensified IS.
 
-**RETREAT score (Risk Estimation of Tumor Recurrence After Transplant)** — stratifies 5-year post-LT recurrence risk ([[aasld-2023-hcc]]):
-
-| Component (all measured at/after LT) |
-|---|
-| AFP at time of LT |
-| Microvascular invasion on explant |
-| Sum of largest viable tumor diameter **and** number of viable tumors on explant |
-
-- **RETREAT 0** — no viable tumor on explant, no microvascular invasion, AFP <20 ng/mL → **<3%** 5-year recurrence
-- **RETREAT ≥5** — highest-risk group → **75%** 5-year recurrence
-- *Gap: [[aasld-2023-hcc]] gives the components and the extreme bands but not the per-component point values or the intermediate bands (1–4) — the original RETREAT derivation paper (Mehta et al.) is not ingested.*
-- Other post-LT recurrence scores named by AASLD but not detailed there: post-MORAL score, UCLA prognostic nomogram (tumor differentiation, vascular invasion, tumor number/size).
+**RETREAT score** — components, the RETREAT 0 and ≥5 recurrence bands, and the missing-point-values gap are stated once under [[#Liver Transplantation for HCC]]; not restated here.
 
 ---
 

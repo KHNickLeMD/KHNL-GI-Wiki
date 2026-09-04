@@ -3,7 +3,7 @@ title: "LI-RADS"
 category: concept
 tags: [li-rads, hcc, liver, imaging, mri, ct, ceus, surveillance, cirrhosis, hpb]
 created: 2026-06-01
-updated: 2026-08-25
+updated: 2026-09-04
 sources: [aasld-2023-hcc, acg-2024-focal-liver-lesions, nccn-2026-hcc]
 ---
 
@@ -126,11 +126,11 @@ Read down the two APHE columns, across to the observation size, then down to the
 - **LR-M ≠ benign** — it means "malignant but not HCC-specific," and it mandates biopsy.
 - **Dysplastic nodules** typically land at LR-3/LR-4 — the indeterminate zone is where most diagnostic error lives.
 - [[hepatic-hemangioma|Hemangioma]], [[focal-nodular-hyperplasia|FNH]], [[hepatocellular-adenoma|hepatocellular adenoma]], and metastases are characterized **outside** LI-RADS.
-- **AFP does not categorize an observation** — >40% of HCC have a normal AFP, and AFP rises in intrahepatic [[cholangiocarcinoma|CCA]], gastric cancer, and germ cell tumors. Non-characteristic imaging → biopsy, **independent of AFP** ([[aasld-2023-hcc]]).
+- **AFP does not categorize an observation** — >40% of HCC have a normal AFP, and AFP rises in intrahepatic [[cholangiocarcinoma|CCA]], [[gastric-adenocarcinoma|gastric cancer]], and germ cell tumors. Non-characteristic imaging → biopsy, **independent of AFP** ([[aasld-2023-hcc]]).
 
 ## See Also
 
-[[hepatocellular-carcinoma]], [[hcc-surveillance]], [[focal-liver-lesions]], [[liver-biopsy]], [[portal-hypertension]], [[chronic-hepatitis-b]], [[cholangiocarcinoma]], [[hepatic-hemangioma]], [[focal-nodular-hyperplasia]], [[hepatocellular-adenoma]], [[liver-transplantation]]
+[[hepatocellular-carcinoma]], [[hcc-surveillance]], [[focal-liver-lesions]], [[liver-biopsy]], [[cirrhosis]], [[portal-hypertension]], [[chronic-hepatitis-b]], [[cholangiocarcinoma]], [[hepatic-hemangioma]], [[focal-nodular-hyperplasia]], [[hepatocellular-adenoma]], [[liver-transplantation]], [[mri-mrcp]]
 
 ---
 

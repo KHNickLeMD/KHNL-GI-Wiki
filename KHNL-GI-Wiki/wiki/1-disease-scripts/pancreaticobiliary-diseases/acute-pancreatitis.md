@@ -3,7 +3,7 @@ title: "Acute Pancreatitis"
 category: disease-script
 tags: [pancreatitis, acute-pancreatitis, hpb, gallstone-pancreatitis, necrotizing-pancreatitis, ercp, bisap, fluid-resuscitation, nutrition]
 created: 2026-05-07
-updated: 2026-08-31
+updated: 2026-09-04
 sources: [acg-2024-acute-pancreatitis, asge-2016-pancreatic-fluid-collections, asge-2015-benign-pancreatic-disease, demadaria-2022-waterfall, aga-2024-pregnancy-gi-liver, aga-2022-recurrent-pancreatitis-endoscopy, asge-2023-post-ercp-pancreatitis, aga-2020-cpu-pancreatic-necrosis]
 ---
 
@@ -56,7 +56,7 @@ sources: [acg-2024-acute-pancreatitis, asge-2016-pancreatic-fluid-collections, a
 | **Gallstones (40%–70%)** | Prior biliary symptoms | RUQ ultrasound in **all** patients with AP; **repeat US 1 week later if the initial study is inconclusive** (accuracy is higher on the repeat) — ACG 2024 Rec 1 (conditional, very low) |
 | **Alcohol (25%–35%)** | Do not attribute unless **>5 years** of moderate/heavy use; "heavy" generally **>50 g/day** (likely higher). Clinically evident AP in only **up to 5%** of heavy drinkers | History |
 | **Hypertriglyceridemia** | In the absence of gallstones and significant alcohol history, obtain a fasting TG — considered causal preferably if **>1,000 mg/dL** (Key concept 2) | Fasting lipid panel |
-| **Medications** | Azathioprine, DDI, valproate, furosemide, etc. | Medication review |
+| **Medications** | [[thiopurines\|Azathioprine]], DDI, valproate, furosemide, etc. | Medication review |
 | **Post-[[ercp\|ERCP]]** | Develops within hours of procedure | Clinical context |
 | **Hypercalcemia** | Hyperparathyroidism | Serum calcium, PTH |
 | **[[hereditary-pancreatitis\|Genetic]]** | Young, recurrent, family history | PRSS1, SPINK1, CFTR mutation panel |
@@ -323,7 +323,7 @@ sources: [acg-2024-acute-pancreatitis, asge-2016-pancreatic-fluid-collections, a
 
 ## See Also
 
-[[alcohol-associated-liver-disease]], [[chronic-pancreatitis]], [[recurrent-acute-pancreatitis]], [[pancreas-divisum]], [[hereditary-pancreatitis]], [[pancreatic-cysts]], [[disconnected-pancreatic-duct-syndrome]], [[exocrine-pancreatic-insufficiency]], [[ercp]], [[endoscopic-ultrasound]], [[mri-mrcp]], [[peptic-ulcer-disease]], [[acute-mesenteric-ischemia]], [[choledocholithiasis]], [[acute-cholecystitis]], [[acute-cholangitis]], [[sphincter-of-oddi-dysfunction]], [[ampullary-adenoma]], [[nutrition-in-hospitalized-patients]], [[enteral-access]], [[portal-hypertension]], [[liver-disease-in-pregnancy]]
+[[alcohol-associated-liver-disease]], [[chronic-pancreatitis]], [[recurrent-acute-pancreatitis]], [[pancreas-divisum]], [[hereditary-pancreatitis]], [[pancreatic-cysts]], [[disconnected-pancreatic-duct-syndrome]], [[exocrine-pancreatic-insufficiency]], [[ercp]], [[endoscopic-ultrasound]], [[mri-mrcp]], [[peptic-ulcer-disease]], [[acute-mesenteric-ischemia]], [[choledocholithiasis]], [[acute-cholecystitis]], [[acute-cholangitis]], [[sphincter-of-oddi-dysfunction]], [[ampullary-adenoma]], [[nutrition-in-hospitalized-patients]], [[enteral-access]], [[portal-hypertension]], [[thiopurines]], [[obesity]], [[liver-disease-in-pregnancy]]
 
 ---
 

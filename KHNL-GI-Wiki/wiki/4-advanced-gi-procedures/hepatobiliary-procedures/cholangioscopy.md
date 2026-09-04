@@ -3,8 +3,8 @@ title: "Cholangioscopy"
 category: advanced-procedure
 tags: [cholangioscopy, ercp, biliary-stricture, cholangiocarcinoma, hepatobiliary]
 created: 2026-06-04
-updated: 2026-09-03
-sources: [asge-2023-indeterminate-biliary-strictures, acg-2023-biliary-strictures, asge-2015-ercp-benign-biliary]
+updated: 2026-09-04
+sources: [asge-2023-indeterminate-biliary-strictures, acg-2023-biliary-strictures, asge-2015-ercp-benign-biliary, asge-2019-choledocholithiasis]
 ---
 
 **Cholangioscopy** is direct endoscopic visualization of the biliary (or pancreatic) ductal lumen, most commonly performed as single-operator peroral cholangioscopy through the working channel of a duodenoscope during [[ercp|ERCP]]. It permits targeted, image-directed mini-forceps biopsy of biliary lesions, visual characterization of strictures, and intraductal lithotripsy of stones that resist conventional extraction.
@@ -80,3 +80,4 @@ The single figure that belongs to *this* procedure: **cholangioscopy-directed bi
 1. [[asge-2023-indeterminate-biliary-strictures|ASGE Guideline on the Role of Endoscopy in the Diagnosis of Malignancy in Biliary Strictures of Undetermined Etiology (2023)]]
 2. [[acg-2023-biliary-strictures|ACG 2023: Diagnosis and Management of Biliary Strictures]]
 3. [[asge-2015-ercp-benign-biliary|ASGE Guideline: The Role of ERCP in Benign Diseases of the Biliary Tract (2015)]]
+4. [[asge-2019-choledocholithiasis|ASGE Guideline: Endoscopic Management of Choledocholithiasis (2019)]]

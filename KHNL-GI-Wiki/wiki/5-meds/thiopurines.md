@@ -3,11 +3,11 @@ title: "Thiopurines (Azathioprine, 6-Mercaptopurine)"
 category: med
 tags: [thiopurines, azathioprine, mercaptopurine, immunomodulator, ibd, crohns, ulcerative-colitis, tpmt, nudt15, pharmacogenomics]
 created: 2026-09-02
-updated: 2026-09-02
+updated: 2026-09-04
 sources: [acg-2025-crohns, acg-2025-uc, aga-2024-ibd-malignancy, acg-2025-ibd-preventive-care]
 ---
 
-Purine-antimetabolite **immunomodulators** used in [[inflammatory-bowel-disease|IBD]]: **azathioprine (AZA)** and **6-mercaptopurine (6-MP)**. Two roles only — **maintenance** of corticosteroid-induced remission, and **combination therapy with infliximab** to suppress immunogenicity. Never induction.
+Purine-antimetabolite **immunomodulators** used in [[inflammatory-bowel-disease|IBD]]: **azathioprine (AZA)** and **6-mercaptopurine (6-MP)**. Two roles only — **maintenance** of corticosteroid-induced remission, and **combination therapy with [[anti-tnf-agents|infliximab]]** to suppress immunogenicity. Never induction.
 
 ## Contents
 - [[#Positioning — what thiopurines are and are not for]]

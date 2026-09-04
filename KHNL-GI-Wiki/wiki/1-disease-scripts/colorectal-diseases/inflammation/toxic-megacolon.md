@@ -3,7 +3,7 @@ title: "Toxic Megacolon"
 category: disease-script
 tags: [toxic-megacolon, colitis, cdiff, ibd, ulcerative-colitis, asuc, surgical-emergency]
 created: 2026-07-26
-updated: 2026-09-03
+updated: 2026-09-04
 sources: [acg-2025-uc, acg-2021-cdiff]
 ---
 
@@ -80,7 +80,7 @@ Underlying etiologies of toxic megacolon named in ingested sources:
 - **Plain abdominal radiograph** — first-line for dilation: transverse colon >5.5 cm, thickened wall, loss of haustration, mucosal islands, ≥3 dilated gas-filled small-bowel loops.
 - **Cross-sectional CT** — restrict to suspected extraluminal complication or perforation, and newly diagnosed patients where CD vs UC is unclear; low threshold in fulminant CDI to rule out megacolon/perforation.
 - **Endoscopy** — **flexible sigmoidoscopy within 72 h (preferably 24 h)** of admission, minimal insufflation by an experienced operator, to grade inflammation and biopsy for CMV. **Avoid full [[colonoscopy]]** in severe inflammation — associated with higher rates of colonic dilation and perforation.
-- **Labs:** CBC (WBC ≥15,000 = severe CDI; anemia Hgb <10.5), serum creatinine (>1.5 = severe CDI), **albumin** (hypoalbuminemia predicts steroid failure; <2.5 g/dL → intensify infliximab), CRP and ESR.
+- **Labs:** CBC (WBC ≥15,000 = severe CDI; anemia Hgb <10.5), serum creatinine (>1.5 = severe CDI), **albumin** (hypoalbuminemia predicts steroid failure; <2.5 g/dL → intensify [[anti-tnf-agents|infliximab]]), CRP and ESR.
 - **C. difficile testing** in all ASUC — two-step algorithm (NAAT/GDH → toxin EIA); UC + CDI carries 4-fold higher mortality and higher colectomy rates.
 
 ## Therapeutics
@@ -93,7 +93,7 @@ Underlying etiologies of toxic megacolon named in ingested sources:
 
 **ASUC substrate:**
 - **IV corticosteroids:** methylprednisolone 60 mg/day **OR** hydrocortisone 100 mg TID–QID.
-- **Day-3 assessment:** if inadequate response, **rescue with infliximab or cyclosporine**. Choice by provider experience, prior immunomodulator/anti-TNF failure, and albumin; if albumin <2.5 g/dL, consider infliximab **dose intensification (10 mg/kg)**. Insufficient data to use tofacitinib/upadacitinib after IVCS or infliximab failure in ASUC.
+- **Day-3 assessment:** if inadequate response, **rescue with infliximab or [[calcineurin-inhibitors|cyclosporine]]**. Choice by provider experience, prior immunomodulator/anti-TNF failure, and albumin; if albumin <2.5 g/dL, consider infliximab **dose intensification (10 mg/kg)**. Insufficient data to use tofacitinib/upadacitinib after IVCS or infliximab failure in ASUC.
 - Treat **CMV colitis** if identified in refractory disease — ganciclovir **IV then oral, 14-day course** (response ~**70%**); **valganciclovir** may be appropriate in selected patients. Do **not** withhold colitis therapy while treating CMV, and **do not defer colectomy** to complete the antiviral course in nonresponders.
 
 **Fulminant CDI substrate:**

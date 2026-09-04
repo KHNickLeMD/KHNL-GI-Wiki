@@ -3,7 +3,7 @@ title: "Biofeedback Therapy"
 category: advanced-procedure
 tags: [biofeedback, pelvic-floor, dyssynergic-defecation, defecation-disorders, fecal-incontinence, levator-ani, constipation, anorectal]
 created: 2026-06-01
-updated: 2026-09-03
+updated: 2026-09-04
 sources: [acg-2021-anorectal-disorders, aga-2026-refractory-constipation]
 ---
 
@@ -90,7 +90,7 @@ See [[chronic-idiopathic-constipation]] for the full refractory pathway.
 
 ## See Also
 
-[[defecation-disorders]], [[anorectal-manometry]], [[fecal-incontinence]], [[proctalgia-syndromes]], [[chronic-idiopathic-constipation]], [[sacral-nerve-stimulation]], [[irritable-bowel-syndrome]], [[rectal-prolapse]], [[hemorrhoids]], [[anal-fissure]]
+[[defecation-disorders]], [[anorectal-manometry]], [[fecal-incontinence]], [[proctalgia-syndromes]], [[chronic-constipation]], [[chronic-idiopathic-constipation]], [[sacral-nerve-stimulation]], [[irritable-bowel-syndrome]], [[rectal-prolapse]], [[hemorrhoids]], [[anal-fissure]]
 
 ---
 

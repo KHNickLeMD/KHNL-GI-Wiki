@@ -3,7 +3,7 @@ title: "Preprocedure Laboratory Testing Before Endoscopy"
 category: concept
 tags: [preprocedure, laboratory-testing, coagulation, pregnancy-testing, sedation, periendoscopic]
 created: 2026-07-01
-updated: 2026-08-25
+updated: 2026-09-04
 sources: [asge-2014-lab-testing-endoscopy]
 ---
 
@@ -50,7 +50,7 @@ GRADE evidence quality: ⊕⊕⊕⊕ high · ⊕⊕⊕⊖ moderate · ⊕⊕⊖�
 | PT / INR / PTT | Active bleeding; known or clinically suspected bleeding disorder; anticoagulant use; **prolonged antibiotics** (clotting-factor deficiency); prolonged biliary obstruction; history of abnormal bleeding; malnutrition; other acquired coagulopathy |
 | Platelet count | Only if thrombocytopenia is suspected on history/exam — excessive bleeding or easy bruisability, myeloproliferative disorder, platelet-lowering medications |
 | Bleeding time / platelet-function assays | **Never routinely** — bleeding time does not predict hemorrhage; newer platelet-function tests are unvalidated for periprocedural bleeding risk, including in renal failure and on aspirin/antiplatelets |
-| Hemoglobin / hematocrit | Preexisting anemia; ongoing bleeding or bleeding risk factors; high risk of significant procedural blood loss; **advanced liver disease**; hematologic disorder — when the procedure carries high bleeding risk |
+| Hemoglobin / hematocrit | Preexisting anemia; ongoing bleeding or bleeding risk factors; high risk of significant procedural blood loss; **[[cirrhosis\|advanced liver disease]]**; hematologic disorder — when the procedure carries high bleeding risk |
 | Blood type & screen | Transfusion considered likely (active bleeding or anemia) — *recommend*. Consider in any patient scoped for evaluation/management of **acute GI bleeding** ([[upper-gi-bleeding]], [[acute-lower-gi-bleeding]]) |
 | Chemistry panel | Significant endocrine, renal, or hepatic dysfunction **before** giving medications that may further impair function; blood glucose in **insulin-requiring diabetes** |
 | Pregnancy test | Childbearing-age patients before endoscopy/fluoroscopy with an uncertain or suggestive pregnancy history — *unless* prior total hysterectomy, bilateral tubal ligation, or **amenorrhea ≥1 y** (menopause). **Lower the threshold when fluoroscopy is planned** (e.g. [[ercp]]) |
@@ -85,7 +85,7 @@ Prevalence of abnormal results vs. how often care actually changes:
 
 ## See Also
 
-[[endoscopy-sedation]], [[anticoagulation-gi-bleeding]], [[cirrhosis-hemostasis]], [[antibiotic-prophylaxis-endoscopy]], [[upper-endoscopy]], [[colonoscopy]], [[ercp]], [[upper-gi-bleeding]], [[acute-lower-gi-bleeding]]
+[[endoscopy-sedation]], [[anticoagulation-gi-bleeding]], [[cirrhosis-hemostasis]], [[cirrhosis]], [[antibiotic-prophylaxis-endoscopy]], [[upper-endoscopy]], [[colonoscopy]], [[ercp]], [[upper-gi-bleeding]], [[acute-lower-gi-bleeding]]
 
 ---
 

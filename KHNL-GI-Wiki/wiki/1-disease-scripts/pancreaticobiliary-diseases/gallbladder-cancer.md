@@ -3,7 +3,7 @@ title: "Gallbladder Cancer"
 category: disease-script
 tags: [gallbladder-cancer, biliary-tract-cancer, hpb, cholecystectomy, incidental-gallbladder-cancer, gallbladder-polyp, adenocarcinoma, nccn, oncology]
 created: 2026-06-18
-updated: 2026-08-30
+updated: 2026-09-04
 sources: [nccn-2026-biliary-tract-cancers, asge-2013-biliary-neoplasia]
 ---
 
@@ -83,7 +83,7 @@ Histologic grade G1 (well) / G2 (moderately) / G3 (poorly differentiated).
 
 - **Transabdominal US (TUS)** — first imaging test. Findings favoring adenocarcinoma over benign gallbladder disease: solitary or displaced gallstone, GB-replacing or invasive mass, discontinuity of the mucosal echo, mural thickening or calcification, a mass/polyp ≥10 mm, a fixed mass, loss of the GB–liver interface, porcelain GB, or direct liver invasion ([[asge-2013-biliary-neoplasia]]).
 - **CT** — typically an infiltrating or polypoid mass, or GB wall thickening. T-staging accuracy 71%–86%; **poor** for nodal involvement.
-- **MRI** — sensitivity 56%–92% for nodal invasion, 67%–100% for local involvement.
+- **[[mri-mrcp|MRI]]** — sensitivity 56%–92% for nodal invasion, 67%–100% for local involvement.
 - **[[endoscopic-ultrasound|EUS]]** — close visualization of the wall layers; EUS-FNA of the GB wall reported sensitivity 80%, specificity 100%. Ability to predict nodal status is not well studied.
 - **Staging laparoscopy** — considered before definitive resection; yield is higher in locally advanced than early-stage tumors (25.2% vs 10.7%, P = .02).
 - **Comprehensive molecular biomarker testing** for unresectable/metastatic disease considered for systemic therapy (see Therapeutics).
@@ -143,11 +143,11 @@ The trigger is **T stage plus margin and cystic duct node status**:
 - **First line (preferred, category 1):** cisplatin/gemcitabine **+ durvalumab**, or cisplatin/gemcitabine **+ pembrolizumab**. **If cisplatin-ineligible, carboplatin may be substituted.**
 - Other recommended first line: cisplatin/gemcitabine alone (category 1), albumin-bound paclitaxel/gemcitabine, capecitabine/gemcitabine, capecitabine/oxaliplatin, FOLFOX, gemcitabine/oxaliplatin, or single-agent capecitabine, fluorouracil/leucovorin, or gemcitabine.
 - **Subsequent line:** FOLFOX (preferred), FOLFIRI, or biomarker-matched targeted therapy.
-- **Molecular profiling** (ideally RNA-based to detect fusions) interrogates HER2 (ERBB2), BRAF V600E, NTRK and RET fusions, KRAS G12C, and tumor-agnostic MSI-H/dMMR and TMB-H. For dMMR/MSI-H tumors or a family history suggestive of BRCA1/2 pathogenic variants, consider germline testing and/or genetic counseling. FGFR2 fusions and IDH1 mutations are characteristic of intrahepatic CCA rather than gallbladder cancer.
+- **Molecular profiling** (ideally RNA-based to detect fusions) interrogates HER2 (ERBB2), BRAF V600E, NTRK and RET fusions, KRAS G12C, and tumor-agnostic MSI-H/dMMR and TMB-H. For dMMR/MSI-H tumors or a family history suggestive of [[brca-pathogenic-variants|BRCA1/2 pathogenic variants]], consider germline testing and/or genetic counseling. FGFR2 fusions and IDH1 mutations are characteristic of intrahepatic CCA rather than gallbladder cancer.
 
 ## See Also
 
-[[cholangiocarcinoma]], [[biliary-stricture]], [[acute-cholecystitis]], [[primary-sclerosing-cholangitis]], [[hepatocellular-carcinoma]], [[liver-transplantation]], [[endoscopic-ultrasound]], [[jaundice]]
+[[cholangiocarcinoma]], [[biliary-stricture]], [[acute-cholecystitis]], [[primary-sclerosing-cholangitis]], [[hepatocellular-carcinoma]], [[liver-transplantation]], [[endoscopic-ultrasound]], [[mri-mrcp]], [[brca-pathogenic-variants]], [[jaundice]]
 
 ---
 

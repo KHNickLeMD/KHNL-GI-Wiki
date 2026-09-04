@@ -3,7 +3,7 @@ title: "Budd-Chiari Syndrome"
 category: disease-script
 tags: [budd-chiari, hepatic-vein, thrombosis, portal-hypertension, liver-failure, mpn, jak2, anticoagulation, tips]
 created: 2026-05-21
-updated: 2026-09-03
+updated: 2026-09-04
 sources: [baveno-viii-2026-portal-hypertension, acg-2020-hepatic-mesenteric-circulation, baveno-vii-2022-portal-hypertension, aasld-2021-vascular-pvt]
 ---
 
@@ -52,7 +52,7 @@ Prevalences below are the HVT/BCS column of [[aasld-2021-vascular-pvt]] **Table 
 | Protein C deficiency / protein S deficiency / antithrombin deficiency | **5% / 4% / 1%** | Plasma levels are non-specific in liver dysfunction — see workup caveats under [[#Diagnostics]] |
 | Factor V Leiden | **8% population prevalence in Europeans** (not a BCS-specific rate) | Over-represented in Western patients; molecular diagnosis |
 | Factor II (prothrombin) G20210A | **3% population prevalence in Europeans** (not a BCS-specific rate) | Role uncertain in BCS |
-| Tumor invasion (IVC) | — | [[hepatocellular-carcinoma\|HCC]], renal cell carcinoma, adrenal carcinoma → **secondary** BCS by the Baveno VII definition above |
+| Tumor invasion (IVC) | — | [[hepatocellular-carcinoma\|HCC]], renal cell carcinoma, adrenal carcinoma → **secondary** BCS by the Baveno VIII definition above (endoluminal neoplastic obstruction is the limb VIII added) |
 | Membranous obstruction / segmental stenosis of IVC | — | ~10% of Western cases but **>80% in China**; in Chinese isolated-IVC and combined types prothrombotic disorders are uncommon and cases are linked to low socioeconomic status and abdominal infection |
 
 > Because two or more risk factors are so common, **investigation for secondary prothrombotic factors is required even when one conspicuous thrombophilia has already been found** (ACG KC 16); hematology consultation is recommended (ACG KC 19).

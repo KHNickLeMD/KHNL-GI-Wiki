@@ -3,7 +3,7 @@ title: "Colonic Volvulus"
 category: disease-script
 tags: [colonic-volvulus, sigmoid-volvulus, cecal-volvulus, large-bowel-obstruction, detorsion, colonoscopy]
 created: 2026-06-22
-updated: 2026-09-03
+updated: 2026-09-04
 sources: [asge-2020-acpo-volvulus]
 ---
 
@@ -25,7 +25,7 @@ Mechanical **twisting (torsion) of a redundant colon segment along its mesenteri
 ## Assessment
 
 ### Establishing the Diagnosis
-- Presenting symptoms: nausea, vomiting, abdominal pain, distention, obstipation
+- Presenting symptoms: nausea, vomiting, abdominal pain, [[abdominal-bloating-and-distention|distention]], obstipation
 - Risk factors: long redundant colon with narrow mesenteric attachment, [[chronic-idiopathic-constipation|chronic constipation]], colonic dysmotility, prior abdominal surgery
 
 ### Severity Assessment
@@ -70,7 +70,7 @@ Mechanical **twisting (torsion) of a redundant colon segment along its mesenteri
 - **Immediate surgical referral** for three triggers: **peritonitis**, **perforation**, or **recurrent or unsuccessful nonoperative decompression**
 
 ## See Also
-[[acute-colonic-pseudo-obstruction]], [[colonoscopy]], [[chronic-idiopathic-constipation]], [[nausea-and-vomiting]]
+[[acute-colonic-pseudo-obstruction]], [[colonoscopy]], [[chronic-idiopathic-constipation]], [[nausea-and-vomiting]], [[abdominal-bloating-and-distention]], [[colorectal-cancer]]
 
 ---
 

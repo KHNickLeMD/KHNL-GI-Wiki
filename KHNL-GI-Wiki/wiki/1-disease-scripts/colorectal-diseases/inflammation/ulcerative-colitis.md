@@ -3,7 +3,7 @@ title: "Ulcerative Colitis"
 category: disease-script
 tags: [uc, ulcerative-colitis, ibd, 5-asa, biologics, anti-tnf, vedolizumab, asuc, pancolitis, proctitis]
 created: 2026-05-07
-updated: 2026-09-03
+updated: 2026-09-04
 sources: [acg-2025-uc, aga-2024-uc-pharm, aga-2024-pouchitis, aga-2023-biomarkers-uc, acg-2019-uc, asge-2015-scenic-ibd-dysplasia, asge-2015-ibd, aga-2026-inpatient-ibd, aga-2026-therapeutic-endoscopy-ibd, aga-2026-cdiff-ibd, aga-2024-intestinal-ultrasound, aga-2024-diet-nutrition-ibd, aga-2024-ibd-malignancy, aga-2024-pregnancy-gi-liver, aga-2024-fmt]
 ---
 
@@ -222,7 +222,7 @@ Idiopathic chronic inflammatory disorder of the large intestine. Continuous muco
 
 | Therapy | Class | ACG 2025 strength/quality | Notes |
 |---|---|---|---|
-| Infliximab + thiopurine | Anti-TNF | Strong/High (combo Strong/Moderate) | Preferred anti-TNF (KC 45); combination-therapy data in UC exist **only** for infliximab + thiopurines (KC 27) |
+| Infliximab + thiopurine | [[anti-tnf-agents\|Anti-TNF]] | Strong/High (combo Strong/Moderate) | Preferred anti-TNF (KC 45); combination-therapy data in UC exist **only** for infliximab + thiopurines (KC 27) |
 | Upadacitinib 45 mg/day ×8 wk | JAK-1 inhibitor | Strong/High | Maintenance 15 or 30 mg/day — **30 mg preferred in prior anti-TNF exposure**. US label restricts to prior anti-TNF failure/intolerance |
 | Vedolizumab IV | Anti-integrin | Strong/Moderate | Recommended **over adalimumab** for induction *and* maintenance (Strong/Moderate; VARSITY); gut-selective |
 | Ozanimod / etrasimod | S1P modulator | Strong/Moderate | Oral; **baseline ECG** before initiation |

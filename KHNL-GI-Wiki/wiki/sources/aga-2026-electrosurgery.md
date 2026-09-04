@@ -138,5 +138,3 @@ Table 2 footnote (verbatim): *"ESU settings will vary depending on the device be
 - **Implantable cardiac device management has no GI societal consensus**; the CPU's advice derives from the HRS/ASA perioperative consensus statement, not a GI document.
 - **Open questions the CPU names:** optimal ESU settings for underwater/immersion techniques are unstudied ("studies are needed"); optimal settings and their safety across diverse endoscopic procedures are "currently underway"; hot forceps avulsion outside the colon is undetermined; margin thermal ablation outside the colorectum is not well established.
 - **Figure gap (this ingest):** Figure 1 (duty cycle / crest factor / voltage across the cut–coagulation waveform continuum) and Figure 2 (endoscopy room layout and ESU best safety practices) are raster images with **no extractable text**, and PyMuPDF is not installed in this environment, so neither could be cropped and embedded. Both should be captured on a later pass with figure tooling available.
-</content>
-</invoke>

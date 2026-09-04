@@ -3,7 +3,7 @@ title: "Sclerosing Mesenteritis"
 category: disease-script
 tags: [sclerosing-mesenteritis, mesenteric-panniculitis, misty-mesentery, igg4, tamoxifen, corticosteroids, colchicine, azathioprine]
 created: 2026-06-27
-updated: 2026-08-30
+updated: 2026-09-04
 sources: [aga-2025-sclerosing-mesenteritis]
 ---
 
@@ -120,7 +120,7 @@ Treatment is aimed at **symptom relief** — there is limited evidence that trea
 | **Prednisone** monotherapy | **30–40 mg/day**; in the large retrospective series typically started at **40 mg/day for 3–4 months, then tapered 5 mg/week** | May improve short-term symptoms; **long-term use not advised** (side effects). Benefit typically lost after discontinuation |
 | **Tamoxifen** (most commonly used) | **10 mg twice daily**, alone or with prednisone 30–40 mg/day; with combination therapy taper prednisone after **3 months** and continue tamoxifen for maintenance (duration undetermined). In responders with mild side effects, **10 mg daily** may maintain response | Chosen for antifibrotic activity against TGF-β; actual mechanism unknown. **Side effects:** antiestrogenic (hot flashes, sweating, vaginal bleeding), alopecia, fatigue, thrombosis, thrombocytopenia, elevated liver enzymes. **Contraindicated** with history of venous thrombosis, pulmonary embolism, or significant cerebrovascular/cardiovascular/peripheral vascular disease; **active tobacco use is a relative contraindication** |
 | **Colchicine** + prednisone | **0.6 mg twice daily** with **prednisone 40 mg/day**, tapering prednisone after 3 months | ~**50%** response in a small series. GI side effects may limit use; **contraindicated in renal insufficiency** |
-| **Azathioprine** | **2–2.5 mg/kg/day** (IBD-style dosing) in normal TPMT metabolizers | Slow onset — co-administer prednisone early |
+| **[[thiopurines\|Azathioprine]]** | **2–2.5 mg/kg/day** ([[inflammatory-bowel-disease\|IBD]]-style dosing) in normal TPMT metabolizers | Slow onset — co-administer prednisone early |
 | Rituximab, thalidomide, cyclophosphamide, methotrexate, infliximab, ustekinumab | — | Limited data; significant toxicity potential; **reserved as second line for severe, refractory disease** |
 
 - **Response:** maximal response to prednisone and tamoxifen occurs at **4–6 months**, with **50%–60% of patients responding**.
@@ -157,7 +157,7 @@ flowchart TD
 
 ## See Also
 
-[[acute-mesenteric-ischemia]], [[ascites]], [[gastrointestinal-stromal-tumor]], [[gastroenteropancreatic-neuroendocrine-tumors]], [[familial-adenomatous-polyposis]], [[irritable-bowel-syndrome]], [[chronic-constipation]], [[chronic-diarrhea]], [[gerd]], [[nausea-and-vomiting]], [[abdominal-bloating-and-distention]], [[obesity]], [[cirrhosis]]
+[[acute-mesenteric-ischemia]], [[ascites]], [[gastrointestinal-stromal-tumor]], [[gastroenteropancreatic-neuroendocrine-tumors]], [[familial-adenomatous-polyposis]], [[irritable-bowel-syndrome]], [[chronic-constipation]], [[chronic-diarrhea]], [[gerd]], [[nausea-and-vomiting]], [[abdominal-bloating-and-distention]], [[inflammatory-bowel-disease]], [[thiopurines]], [[obesity]], [[cirrhosis]]
 
 ---
 

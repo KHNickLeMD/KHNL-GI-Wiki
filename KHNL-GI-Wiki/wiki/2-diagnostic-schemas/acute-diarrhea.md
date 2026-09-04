@@ -3,8 +3,8 @@ title: "Acute Diarrhea"
 category: diagnostic-schema
 tags: [diarrhea, infectious-diarrhea, travelers-diarrhea, gastroenteritis, acute, dysentery, loperamide, antibiotic, prevention]
 created: 2026-05-19
-updated: 2026-09-03
-sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea, aga-2020-probiotics]
+updated: 2026-09-04
+sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea, aga-2020-probiotics, acg-2021-cdiff]
 ---
 
 ## Contents
@@ -21,6 +21,7 @@ sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea, aga-2020-probi
 - [[#Key Tests]]
   - [[#When to Test (ACG 2016 Indications)]]
   - [[#Diagnostic Methods]]
+- [[#Red Flags / Alarm Features]]
 - [[#Therapeutics]]
   - [[#Oral Rehydration]]
   - [[#Antimotility Agents]]
@@ -32,7 +33,6 @@ sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea, aga-2020-probi
   - [[#Supportive & Ancillary Care (IDSA 2017)]]
   - [[#Prevention — Counseling & Hygiene (ACG 2016)]]
   - [[#Vaccines & Public Health (IDSA 2017)]]
-- [[#Red Flags / Alarm Features]]
 - [[#Postinfectious Complications]]
 - [[#See Also]]
 - [[#Sources]]
@@ -223,6 +223,23 @@ Suspect in a febrile traveler (diarrhea often absent) from an endemic area, or w
 
 ---
 
+## Red Flags / Alarm Features
+
+The following features should prompt microbiologic assessment, consideration of empiric antibiotics, and/or urgent evaluation:
+
+- **Grossly bloody stools (dysentery)** — evaluate for invasive bacterial pathogen; rule out STEC before antibiotics
+- **Fever ≥101°F** — suggests bacterial or invasive etiology
+- **Severe dehydration** — total disability, orthostatic hypotension, inability to maintain oral fluids
+- **Duration ≥72 h without improvement** — consider microbiologic assessment
+- **Persistent symptoms 14–30 days** — full stool workup; consider colonoscopy if negative
+- **Immunocompromised host** (HIV, transplant, immunosuppressive therapy) — lower threshold for workup and treatment; [[cryptosporidiosis]] and [[entamoeba-histolytica-infection]] are particular concerns. In AIDS with persistent diarrhea, broaden testing to *Cyclospora*, *Cystoisospora*, microsporidia, *Mycobacterium avium* complex, and cytomegalovirus ([[idsa-2017-infectious-diarrhea]], Rec 12) — see [[hiv-aids-related-diarrhea]]
+- **Elderly patients** — higher risk of dehydration and complications; balanced ORS preferred
+- **High-risk occupations** (food handler, healthcare worker, daycare) — microbiologic assessment and public health reporting required
+- **Outbreak setting** — requires culture-based assessment for public health subtyping (Recommendation 1, Strong/Low)
+- **Suspected STEC** (bloody diarrhea, outbreak setting, hamburger exposure, hemolytic uremic syndrome signs: thrombocytopenia, microangiopathic hemolytic anemia, renal failure) — **NO antibiotics** for O157 or Shiga toxin 2 producers (HUS risk), arrange culture with Shiga toxin testing (sorbitol-MacConkey/chromogenic agar for O157), nephrology consultation. Per [[idsa-2017-infectious-diarrhea|IDSA 2017]] (Rec 23), frequently monitor hemoglobin, platelets, electrolytes, BUN/creatinine, and examine a peripheral smear for schistocytes to catch early HUS, which precedes overt renal injury.
+
+---
+
 ## Therapeutics
 
 ### Oral Rehydration
@@ -333,23 +350,6 @@ Adult empiric agent = a fluoroquinolone (eg, ciprofloxacin) **or** azithromycin 
 
 ---
 
-## Red Flags / Alarm Features
-
-The following features should prompt microbiologic assessment, consideration of empiric antibiotics, and/or urgent evaluation:
-
-- **Grossly bloody stools (dysentery)** — evaluate for invasive bacterial pathogen; rule out STEC before antibiotics
-- **Fever ≥101°F** — suggests bacterial or invasive etiology
-- **Severe dehydration** — total disability, orthostatic hypotension, inability to maintain oral fluids
-- **Duration ≥72 h without improvement** — consider microbiologic assessment
-- **Persistent symptoms 14–30 days** — full stool workup; consider colonoscopy if negative
-- **Immunocompromised host** (HIV, transplant, immunosuppressive therapy) — lower threshold for workup and treatment; [[cryptosporidiosis]] and [[entamoeba-histolytica-infection]] are particular concerns. In AIDS with persistent diarrhea, broaden testing to *Cyclospora*, *Cystoisospora*, microsporidia, *Mycobacterium avium* complex, and cytomegalovirus ([[idsa-2017-infectious-diarrhea]], Rec 12) — see [[hiv-aids-related-diarrhea]]
-- **Elderly patients** — higher risk of dehydration and complications; balanced ORS preferred
-- **High-risk occupations** (food handler, healthcare worker, daycare) — microbiologic assessment and public health reporting required
-- **Outbreak setting** — requires culture-based assessment for public health subtyping (Recommendation 1, Strong/Low)
-- **Suspected STEC** (bloody diarrhea, outbreak setting, hamburger exposure, hemolytic uremic syndrome signs: thrombocytopenia, microangiopathic hemolytic anemia, renal failure) — **NO antibiotics** for O157 or Shiga toxin 2 producers (HUS risk), arrange culture with Shiga toxin testing (sorbitol-MacConkey/chromogenic agar for O157), nephrology consultation. Per [[idsa-2017-infectious-diarrhea|IDSA 2017]] (Rec 23), frequently monitor hemoglobin, platelets, electrolytes, BUN/creatinine, and examine a peripheral smear for schistocytes to catch early HUS, which precedes overt renal injury.
-
----
-
 ## Postinfectious Complications
 
 - **[[postinfectious-ibs]]:** Recognized sequela of acute infectious gastroenteritis / TD. Up to 10–15% of patients with bacterial TD develop chronic IBS-like symptoms. Diagnosed by Rome IV/V criteria; no specific biomarker. See [[irritable-bowel-syndrome]] and [[disorders-of-gut-brain-interaction]]. [[acg-2016-acute-diarrhea]]
@@ -371,3 +371,4 @@ The following features should prompt microbiologic assessment, consideration of 
 1. [[acg-2016-acute-diarrhea|ACG 2016: Diagnosis, Treatment, and Prevention of Acute Diarrheal Infections in Adults]]
 2. [[idsa-2017-infectious-diarrhea|IDSA 2017 Clinical Practice Guidelines for the Diagnosis and Management of Infectious Diarrhea]]
 3. [[aga-2020-probiotics|AGA Clinical Practice Guidelines on the Role of Probiotics in the Management of Gastrointestinal Disorders]]
+4. [[acg-2021-cdiff|ACG 2021: Prevention, Diagnosis, and Treatment of Clostridioides difficile Infections]]

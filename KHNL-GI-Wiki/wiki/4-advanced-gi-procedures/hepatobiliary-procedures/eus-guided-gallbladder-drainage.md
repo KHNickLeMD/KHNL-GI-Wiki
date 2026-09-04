@@ -3,8 +3,8 @@ title: "EUS-Guided Gallbladder Drainage (EUS-GBD)"
 category: advanced-procedure
 tags: [eus-gbd, lams, acute-cholecystitis, gallbladder-drainage, cholecystoscopy, percutaneous-cholecystostomy, transpapillary-drainage, therapeutic-eus]
 created: 2026-07-23
-updated: 2026-08-30
-sources: [aga-2023-eus-gallbladder-drainage, asge-2024-therapeutic-eus-biliary, acg-2025-eus-quality]
+updated: 2026-09-04
+sources: [aga-2023-eus-gallbladder-drainage, asge-2024-therapeutic-eus-biliary, acg-2025-eus-quality, tg18-2018-cholangitis-flowchart]
 ---
 
 # EUS-Guided Gallbladder Drainage (EUS-GBD)
@@ -119,3 +119,4 @@ From [[acg-2025-eus-quality|ACG/ASGE 2025 EUS quality indicators]]:
 1. [[aga-2023-eus-gallbladder-drainage|AGA 2023 Clinical Practice Update on Role of EUS-Guided Gallbladder Drainage in Acute Cholecystitis]]
 2. [[asge-2024-therapeutic-eus-biliary|ASGE Guideline: Role of Therapeutic EUS in Biliary Tract Disorders (2024)]]
 3. [[acg-2025-eus-quality|ACG/ASGE 2025: Quality Indicators for EUS]]
+4. [[tg18-2018-cholangitis-flowchart|Tokyo Guidelines 2018: Initial Management of Acute Biliary Infection and Flowchart for Acute Cholangitis]]

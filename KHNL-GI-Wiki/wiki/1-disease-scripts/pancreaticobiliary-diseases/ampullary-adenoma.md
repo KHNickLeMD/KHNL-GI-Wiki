@@ -3,7 +3,7 @@ title: "Ampullary & Duodenal Adenoma"
 category: disease-script
 tags: [ampullary-adenoma, duodenal-adenoma, papilla-of-vater, endoscopic-papillectomy, fap, ercp, eus, post-ercp-pancreatitis, surveillance]
 created: 2026-06-27
-updated: 2026-08-26
+updated: 2026-09-04
 sources: [asge-2015-ampullary-duodenal-adenomas, aga-2025-nonampullary-duodenal]
 ---
 
@@ -70,7 +70,7 @@ Adenomas of the **major duodenal papilla (ampullary adenomas)** and of the **non
 | Side-viewing duodenoscopy | Visualize/biopsy papilla | Standard forward-view EGD ([[upper-endoscopy]]) may miss adenomatous change |
 | Forceps biopsy | Confirm adenoma, exclude cancer | Diagnostic (adenoma+carcinoma) rate 45–80%; false-negative for carcinoma 16–60%; ≥6 specimens or sample ≤10 d post-sphincterotomy |
 | [[endoscopic-ultrasound]] (EUS) / intraductal US | Large lesions or features concerning for malignancy | Superior to CT/MRI/transabdominal US for **T staging**; assesses intraductal extension and depth beyond muscularis propria. IDUS may visualize tumor better but can overstage |
-| MRI | Nodal (N) staging | Superior to EUS for nodal staging |
+| [[mri-mrcp\|MRI]] | Nodal (N) staging | Superior to EUS for nodal staging |
 | CT / PET | Detect distant metastases | May detect small mets missed by EUS/IDUS |
 | [[ercp]] (biliary + pancreatic duct) | At time of papillectomy | Assess ductal extension; ductography important if EUS not done |
 
@@ -89,7 +89,7 @@ Endoscopic resection has lower adverse-event rates (~14%) than local surgical ex
 
 - **Terminology:** endoscopic removal of the papilla = **papillectomy** (true "ampullectomy" is a surgical term requiring ductal reimplantation).
 - **Resection technique:**
-  - **En bloc** snare + electrocautery preferred when the lesion can be fully ensnared — shorter time, complete pathology, less residual fibrosis. (No PD stent before en bloc resection, as the snare would transect it.)
+  - **En bloc** snare + [[electrosurgery|electrocautery]] preferred when the lesion can be fully ensnared — shorter time, complete pathology, less residual fibrosis. (No PD stent before en bloc resection, as the snare would transect it.)
   - **Piecemeal** resection for lesions >2 cm or residual tissue after en bloc attempt.
   - No proven superiority of snare type, current (cut vs blended), or snare orientation; larger-channel therapeutic duodenoscope eases instrument passage.
   - Retrieve specimens immediately (avoid migration/fragmentation); glucagon may reduce peristalsis; **CO₂ insufflation** advantageous if perforation.
@@ -125,7 +125,7 @@ Endoscopic resection has lower adverse-event rates (~14%) than local surgical ex
 
 ## See Also
 
-[[nonampullary-duodenal-adenoma]], [[familial-adenomatous-polyposis]], [[peutz-jeghers-syndrome]], [[ercp]], [[endoscopic-ultrasound]], [[upper-endoscopy]], [[polypectomy]], [[endoscopic-mucosal-resection]], [[endoscopic-submucosal-dissection]], [[argon-plasma-coagulation]], [[colonoscopy]], [[subepithelial-lesion]], [[brush-cytology]], [[acute-pancreatitis]], [[pancreas-divisum]], [[gastroenteropancreatic-neuroendocrine-tumors]], [[proton-pump-inhibitors]]
+[[nonampullary-duodenal-adenoma]], [[familial-adenomatous-polyposis]], [[peutz-jeghers-syndrome]], [[ercp]], [[endoscopic-ultrasound]], [[upper-endoscopy]], [[polypectomy]], [[endoscopic-mucosal-resection]], [[endoscopic-submucosal-dissection]], [[electrosurgery]], [[argon-plasma-coagulation]], [[colonoscopy]], [[subepithelial-lesion]], [[brush-cytology]], [[mri-mrcp]], [[acute-pancreatitis]], [[pancreas-divisum]], [[gastroenteropancreatic-neuroendocrine-tumors]], [[proton-pump-inhibitors]]
 
 ---
 

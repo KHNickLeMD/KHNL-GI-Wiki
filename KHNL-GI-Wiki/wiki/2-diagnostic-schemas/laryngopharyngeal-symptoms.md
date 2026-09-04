@@ -3,7 +3,7 @@ title: "Laryngopharyngeal Symptoms (LPS) and Laryngopharyngeal Reflux Disease (L
 category: diagnostic-schema
 tags: [lpr, lprd, laryngopharyngeal-reflux, gerd, extraesophageal-reflux, cough, dysphonia, throat-clearing, ph-impedance, foregut]
 created: 2026-05-15
-updated: 2026-09-02
+updated: 2026-09-04
 sources: [san-diego-2025-lprd, aga-2023-extraesophageal-gerd]
 ---
 
@@ -19,7 +19,7 @@ sources: [san-diego-2025-lprd, aga-2023-extraesophageal-gerd]
 
 - Cough (89%), regurgitation (89%), throat pain/sore throat (89%), throat clearing (86%), excess throat phlegm (82%), hoarseness/voice change (80%)
 - Globus: approaches but did not meet threshold; warrants evaluation and is often a negative predictor of reflux physiology
-- NOT recognized as LPS: tongue burning, nasal burning, post-nasal drip, halitosis, belching, [[dysphagia]]
+- NOT recognized as LPS: tongue burning, nasal burning, post-nasal drip, halitosis, [[abdominal-bloating-and-distention|belching]], [[dysphagia]]
 
 ---
 
@@ -170,7 +170,7 @@ LPS can be caused by multiple mechanisms — reflux is one of several:
 
 ## See Also
 
-[[gerd]], [[extraesophageal-reflux]], [[barretts-esophagus]], [[hiatal-hernia]], [[ambulatory-reflux-monitoring]], [[reflux-testing]], [[upper-endoscopy]], [[antireflux-surgery]], [[proton-pump-inhibitors]], [[potassium-competitive-acid-blockers]], [[dysphagia]], [[disorders-of-gut-brain-interaction]]
+[[gerd]], [[extraesophageal-reflux]], [[barretts-esophagus]], [[hiatal-hernia]], [[ambulatory-reflux-monitoring]], [[reflux-testing]], [[upper-endoscopy]], [[antireflux-surgery]], [[proton-pump-inhibitors]], [[potassium-competitive-acid-blockers]], [[dysphagia]], [[abdominal-bloating-and-distention]], [[disorders-of-gut-brain-interaction]]
 
 ---
 

@@ -3,7 +3,7 @@ title: "Familial Atypical Multiple Mole Melanoma (FAMMM) Syndrome"
 category: disease-script
 tags: [genetics, hereditary-cancer, melanoma, pancreatic-cancer, cdkn2a]
 created: 2026-06-04
-updated: 2026-09-03
+updated: 2026-09-04
 sources: [asge-2022-pancreatic-cancer-screening, acg-2015-hereditary-gi-cancer]
 ---
 
@@ -64,7 +64,7 @@ sources: [asge-2022-pancreatic-cancer-screening, acg-2015-hereditary-gi-cancer]
   - EUS is also preferred when it can be combined with screening [[upper-endoscopy|upper endoscopy]] or [[colonoscopy]], or when MRI is contraindicated (claustrophobia, contrast allergy, implanted metal, renal failure).
 - ACG 2015 surveillance for hereditary pancreatic cancer generally: **EUS and/or [[mri-mrcp|MRI]] of the pancreas, annually**, at experienced centers, ideally under research conditions *(Rec 22–23; conditional / very low)* [[acg-2015-hereditary-gi-cancer]]
 - MRI technique when used for screening: **with and without IV contrast, minimum 1.5-T magnet** (3-T may add detection of small lesions) [[asge-2022-pancreatic-cancer-screening]]
-- Cystic pancreatic lesions found on surveillance require specialist evaluation.
+- [[pancreatic-cysts|Cystic pancreatic lesions]] found on surveillance require specialist evaluation.
 
 ## Therapeutics
 
@@ -76,7 +76,7 @@ sources: [asge-2022-pancreatic-cancer-screening, acg-2015-hereditary-gi-cancer]
 
 ## See Also
 
-[[pancreatic-cancer]], [[pancreatic-cancer-screening]], [[familial-pancreatic-cancer]], [[brca-pathogenic-variants]], [[peutz-jeghers-syndrome]], [[hereditary-pancreatitis]], [[lynch-syndrome]], [[familial-adenomatous-polyposis]], [[endoscopic-ultrasound]], [[mri-mrcp]], [[upper-endoscopy]], [[colonoscopy]]
+[[pancreatic-cancer]], [[pancreatic-cancer-screening]], [[pancreatic-cysts]], [[familial-pancreatic-cancer]], [[brca-pathogenic-variants]], [[peutz-jeghers-syndrome]], [[hereditary-pancreatitis]], [[lynch-syndrome]], [[familial-adenomatous-polyposis]], [[endoscopic-ultrasound]], [[mri-mrcp]], [[upper-endoscopy]], [[colonoscopy]]
 
 ---
 

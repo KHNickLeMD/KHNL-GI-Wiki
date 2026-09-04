@@ -3,7 +3,7 @@ title: "Nausea and Vomiting"
 category: diagnostic-schema
 tags: [nausea, vomiting, gastroparesis, cyclic-vomiting, cannabinoid-hyperemesis, motility, foregut]
 created: 2026-06-04
-updated: 2026-09-02
+updated: 2026-09-04
 sources: [acg-2022-gastroparesis, aga-2024-cvs, aga-2024-chs, asge-2020-acpo-volvulus]
 ---
 
@@ -37,7 +37,7 @@ Duration frames the differential: **acute** (<1 week — usually infection, drug
 
 - **Pregnancy** (always test in reproductive-age women) — [[nausea-and-vomiting-of-pregnancy|nausea/vomiting of pregnancy & hyperemesis gravidarum]]; see [[liver-disease-in-pregnancy]] for the hepatic overlap
 - DKA, uremia, hypercalcemia, adrenal insufficiency, thyroid disease
-- **Drugs/toxins** — opioids, chemotherapy, digoxin, antibiotics, NSAIDs, dopamine agonists, GLP-1 agonists; alcohol
+- **Drugs/toxins** — opioids, chemotherapy, digoxin, antibiotics, NSAIDs, dopamine agonists, [[glp-1-receptor-agonists|GLP-1 agonists]]; alcohol
 - Postoperative nausea/vomiting
 
 ### Functional and Episodic Syndromes

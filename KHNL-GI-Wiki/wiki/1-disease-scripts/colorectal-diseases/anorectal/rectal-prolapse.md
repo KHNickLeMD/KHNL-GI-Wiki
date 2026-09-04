@@ -3,7 +3,7 @@ title: "Rectal Prolapse"
 category: disease-script
 tags: [rectal-prolapse, anorectal, pelvic-floor, rectopexy, solitary-rectal-ulcer-syndrome, defecography]
 created: 2026-06-01
-updated: 2026-08-30
+updated: 2026-09-04
 sources: [acg-2021-anorectal-disorders, aga-2026-hemorrhoids, aga-2026-refractory-constipation, asge-2014-constipation, rome-v-2026-dgbi]
 ---
 
@@ -23,7 +23,7 @@ sources: [acg-2021-anorectal-disorders, aga-2026-hemorrhoids, aga-2026-refractor
 ## Assessment
 
 - **Rectal prolapse = intussusception of the rectal wall through the anal canal**, from loss of normal rectal attachments. [[aga-2026-hemorrhoids]]
-- It is a **structural** disorder, not a disorder of gut–brain interaction — [[rome-v-2026-dgbi|Rome V]] removed the "functional defecation disorders" category in part *because* that label swept in structural abnormalities such as rectal prolapse and perineal descent. [[rome-v-2026-dgbi]]
+- It is a **structural** disorder, not a [[disorders-of-gut-brain-interaction|disorder of gut–brain interaction]] — [[rome-v-2026-dgbi|Rome V]] removed the "functional defecation disorders" category in part *because* that label swept in structural abnormalities such as rectal prolapse and perineal descent. [[rome-v-2026-dgbi]]
 - **Pathogenesis is straining over time:** chronic excessive straining weakens the pelvic floor, producing excessive perineal descent, rectal intussusception, solitary rectal ulcer syndrome, and pudendal neuropathy. [[acg-2021-anorectal-disorders]]
 
 ### Establishing the Diagnosis

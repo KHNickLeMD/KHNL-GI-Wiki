@@ -6,6 +6,77 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-09-04] lint | The index was declaring the ingest queue empty while ~50 tier-1 AGA CPUs sat uningested; 2 ingested; ICI-hepatitis grade-4 gap closed
+
+**The finding that mattered — `index.md` was wrong about the state of `raw/`.**
+
+- *Coverage Gaps → Blocked on ingest* read **"empty — every remaining uningested file in `raw/` is a gated lecture/chalk talk."** That was **false**. An inbox sync has delivered a large batch of **tier-1 AGA Clinical Practice Updates** (mostly 2016–2023) into `raw/GI Guidelines/AGA/`.
+- `raw/` now holds **430** non-asset files against **265** source pages. Roughly **50 AGA CPUs are uningested** — all tier-1, all ahead of the gated lecture corpus in ingestion priority. The index was telling every future pass there was nothing left to ingest but lectures.
+- Replaced the false line with the **full uningested queue as a table**, each row naming the wiki topic it unblocks.
+- Detection note: the previous pass's raw-vs-sources diff missed this because raw PDFs are gitignored and the rsync touches mtimes, so neither `git status` nor `find -newermt` reveals new arrivals. A **token-overlap match of raw filenames against source-page titles** is what surfaced it; recommend that as the standing check.
+
+**Three entries were misfiled in *Needs a source*** — all three had support sitting in the repo:
+
+- **Autoimmune pancreatitis** and **short bowel syndrome / intestinal failure** — the PDFs are in `raw/GI Guidelines/AGA/`. Moved to *Blocked on ingest*.
+- **STEC/HUS** — [[idsa-2017-infectious-diarrhea]] (Recs 6/8/21/23/26/35/60) and [[acg-2016-acute-diarrhea]] already support it, including the do-not-give-antibiotics rule. Promoted to *Fillable now* (#31).
+
+**Sources created (2 — the per-pass ingest cap):**
+
+- [[aga-2021-ici-colitis-hepatitis]] — Dougan, Wang, Rubio-Tapia, Lim. *Gastroenterology* 2021;160:1384–1393. All **15** Best Practice Advice statements verbatim (ungraded by design); CTCAE v5 GI grading, MD Anderson and Mayo endoscopic scores, and the grade-directed hepatitis table recreated as native Markdown.
+- [[aga-2022-ppi-deprescribing]] — Targownik, Fisher, Saini. *Gastroenterology* 2022;162:1334–1342. All **10** BPA verbatim; Table 1 (indications × long-term/acute) and Table 2 (six societies' gastroprotection populations) recreated in full.
+
+**Pages created (2):**
+
+- [[immune-checkpoint-inhibitor-colitis]] (`1-disease-scripts/colorectal-diseases/inflammation/`) — the wiki had an ICI *hepatitis* page but none for ICI colitis, the far more common toxicity. Full ADDT: CTCAE grading, the endoscopy-before-steroids rule, stool-marker triage, both endoscopic severity tools, the glucocorticoid → biologic ladder with escalation triggers, budesonide's two opposite answers, retreatment risk, and the IBD population data.
+- [[anti-tnf-agents]] (`5-meds/`) — coverage-gap queue #1, cleared.
+
+**Pages updated (3, by me centrally):**
+
+- [[immune-checkpoint-inhibitor-hepatitis]] — **four flagged decision gaps closed.** The page previously warned that a patient with ALT >20× ULN "falls outside every row" because [[aasld-2022-dili]] writes a bounded 5–20× range under a label reading "grade 3 **or higher**" and never defines grade 4. BPA 13 supplies it verbatim (AST/ALT >20× ULN, bilirubin >10× ULN, or hepatic decompensation). Also closed: the **steroid non-response interval** (3–5 days), the **taper duration** (4–6 weeks), a **role for [[tacrolimus]]**, and the **agent behind "IV steroids"** — the page had explicitly refused to assume methylprednisolone from memory; BPA 12/13 name it. Added incidence (<5% mono vs ~25% ipi+nivo), BPA 10 monitoring, the full alternative-etiology workup, the ALP/bilirubin → biliary-imaging rule, biopsy timing, and histology. *Still open: no dose for MMF/azathioprine/tacrolimus.*
+- [[proton-pump-inhibitors]] — new de-prescribing framework: the indications grid, the UGIB high-risk criteria that forbid stopping, BID→daily step-down, rebound acid hypersecretion with its mechanism and 2-month red flag, taper-vs-abrupt, and BPA 10.
+- [[aga-2026-electrosurgery]] — stripped leaked `</content>`/`</invoke>` tool-call artifacts from the file tail (the recurring corruption class; see entries at lines 612, 645, 857, 1138).
+
+**Contradictions surfaced:**
+
+- **Rebound acid hypersecretion — resolved for the newer source.** [[acg-2021-gerd]] says "strong evidence for increased symptoms after abrupt withdrawal is lacking"; [[aga-2022-ppi-deprescribing]] treats RAHS as real and warrant of an explicit patient warning, citing a double-blinded RCT. Same tier, 2022 > 2021 → wiki asserts AGA; ACG wording recorded inline.
+- **Infliximab points opposite ways in the two organs** — first-choice rescue in ICI colitis, but *cautioned* in ICI hepatitis (idiosyncratic liver toxicity, no demonstrated benefit). In a patient with both, the source defers to case-by-case. Stated on both pages.
+- **CTCAE grade is not prognostic in ICI colitis** — the CPU is explicit that colonic ulceration predicts need for second-line therapy and CTCAE grading does not, even though oncology-side algorithms are built on CTCAE grade.
+- **[[aga-2022-ppi-deprescribing]] contradicts itself on the UGIB age cutoff** — synthesized criteria say **>60 years**, its own Table 2 (ACG 2009) says **>65**. Both recorded; neither reconciled by the source.
+- **Grade-3 steroid dose differs between sources** — [[aasld-2022-dili]] 1–1.5 mg/kg/d vs [[aga-2021-ici-colitis-hepatitis]] 1–2 mg/kg. AASLD is newer and governs; the AGA figure is named beside it.
+- **BPA 10 vs the PAAE literature** — concordant with [[aga-2026-cdiff-adults]] (continue if indicated, never dose-reduce), so no conflict; noted explicitly so the *C. difficile* risk data on the PPI page isn't misread as a reason to stop.
+
+**Method:** six parallel batch agents (foregut / colorectal / hepatology / pancreaticobiliary+other / schemas+procedures / meds+concepts) over all 271 non-source pages; shared files (`index.md`, `log.md`, cross-batch pages) written centrally afterward.
+
+**Batch fixes (26 pages edited across the six batches):**
+
+- **Schemas:** `## Red Flags / Alarm Features` was out of canonical order on 4 diagnostic schemas ([[acute-diarrhea]], [[gastric-outlet-obstruction]], [[small-bowel-bleeding]], [[biliary-stricture]]) — moved after `## Key Tests`, ToCs reordered. `upper-gi-bleeding` ToC was missing 4 anchors.
+- **Frontmatter/`## Sources` desync — 9 pages** cited a source slug in the body that was absent from `sources:` and `## Sources`: [[ascites]], [[tips]], [[upper-gi-bleeding]], [[acute-diarrhea]], [[cholangioscopy]], [[eus-guided-gallbladder-drainage]], [[spontaneous-bacterial-peritonitis]], [[autoimmune-hepatitis]], [[primary-biliary-cholangitis]].
+- **Two stale internal Baveno cross-references** — [[budd-chiari-syndrome]] and [[portal-vein-thrombosis]] pointed at "the Baveno VII definition above" when the section above is now Baveno VIII. On BCS this mattered: endoluminal neoplastic obstruction is precisely the limb VIII added.
+- **Dedup** — the RETREAT score block was printed **twice verbatim** on [[hepatocellular-carcinoma]]; second copy replaced with a pointer. [[hepatocellular-carcinoma]] also mis-labelled the [[cirrhosis]] formula as MELD-Na when that page explicitly flags it as MELD 3.0.
+- ~20 inline `[[slug|alias]]` links added across foregut, colorectal, pancreaticobiliary, meds and concepts batches; several See Also lines completed where a page was body-linked but missing from See Also.
+- Whole-wiki link scan: **0 broken wiki-links, 0 broken image embeds, 0 unescaped alias pipes in tables, 0 literal `\n` in Mermaid** after fixes.
+
+**Left for user triage (not fixed — these need a decision or a raw-PDF check, not a link edit):**
+
+- **[[colorectal-polyposis]] and [[serrated-polyposis-syndrome]] give different SPS criteria.** The schema page prints WHO 2010/ACG 2015 and asserts "no ingested source carries the revision" — but the disease page carries newer [[usmstf-2020-followup-colonoscopy]] thresholds. One of the two is wrong.
+- **[[crohns-disease]] says NBI should *not* be used for IBD dysplasia surveillance (ACG 2018); [[ulcerative-colitis]] accepts it (ACG 2019).** The CD claim rests on the superseded `acg-2018-crohns` while [[acg-2025-crohns]] is ingested — likely stale.
+- **[[ulcerative-colitis]] reproduces Truelove & Witts with the fever and heart-rate cutoffs dropped** ("fever, tachycardia, anemia"). Exactly the dropped-qualifier failure the Content Guide names; fixable from raw [[acg-2025-uc]].
+- **[[interventional-eus-vascular]] contradicts itself** on the Wang 2026 Delphi consensus size — "43-statement" (line 33) vs "53 statements" (line 109). Needs a raw-PDF check.
+- **[[helicobacter-pylori-infection]]** states in its own gap box that the ACG 2017 PDF is **not in `raw/`**, yet `acg-2017-hp-guidelines` remains in its frontmatter and backs an inline claim. Restore the raw file or rest that claim on [[acg-2024-hp-treatment]].
+- **[[clostridioides-difficile]]** — "post-infection IBS ~25%" is uncited and absent from both relevant source pages.
+- **[[cowden-syndrome]]** prints CRC risk three ways (9–16%, 9–18%, 9.0%) — likely a transcription slip.
+- **[[chronic-idiopathic-constipation]]** vs [[irritable-bowel-syndrome]] on plecanatide 6 mg ("never approved" is in neither source page); vs [[defecation-disorders]] on whether the balloon expulsion test uses a Foley; and a stale "withdrawn in US" parenthetical on tegaserod.
+- **[[nonampullary-duodenal-adenoma]]** flags Spigelman-interval differences from [[familial-adenomatous-polyposis]] (stage IV **6–12 mo vs 3–6 mo**) but FAP carries no reciprocal flag.
+- **[[alcohol-associated-liver-disease]]** prints MELD "severe ≥21" in one table and "MELD >20" as its operative rule 20 lines earlier.
+- **[[microscopic-colitis]] has an empty Therapeutics section** and lacks its defining histologic thresholds — needs a dedicated microscopic-colitis guideline (not in `raw/`).
+- **The Sydney biopsy protocol is written out in full on four gastric pages** — one home + links would satisfy one-home-per-fact.
+
+**Tooling gaps (unchanged):** PyMuPDF is still absent, so no figure crops. This blocks, among others, the **LA grade A–D** and **Hill I–IV** criteria — which gate ≥6 recommendations across [[gerd]], [[upper-endoscopy]] and [[antireflux-surgery]] — even though both are printed as figures in already-ingested sources. Also blocks OLGA/OLGIM staging grids, EREFS per-feature points, Forrest endoscopic images, and Figures 1–4 of the ICI CPU (two of which are exactly the "diagnosis made by looking" images the Style Guide requires). **`pdftotext` silently drops `≥`, `≤` and `×`** from these PDFs; thresholds in both ingests were reconstructed from internal consistency and the reconstruction is documented on each source page.
+
+**Structural note:** `wiki/6-anatomy/` is defined in the CLAUDE.md schema but **does not exist on disk** and never has — the index's "0 anatomy" count is accurate but the folder is absent, not empty.
+
+---
+
 ## [2026-09-03] ingest | Baveno VIII (2026) — Advancing Consensus in Portal Hypertension
 
 **Source created:**

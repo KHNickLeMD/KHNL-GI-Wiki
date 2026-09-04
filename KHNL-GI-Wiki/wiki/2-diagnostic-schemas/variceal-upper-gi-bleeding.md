@@ -3,7 +3,7 @@ title: "Variceal Upper GI Bleeding"
 category: diagnostic-schema
 tags: [cirrhosis, portal-hypertension, variceal-bleeding, upper-gi-bleeding, hemostasis, antibiotic-prophylaxis, TIPS, EVL, carvedilol, NSBB, gastric-varices, preemptive-TIPS]
 created: 2026-05-15
-updated: 2026-09-03
+updated: 2026-09-04
 sources: [baveno-viii-2026-portal-hypertension, albhaisi-2025-prophylactic-antibiotics-cirrhosis, aasld-2023-portal-hypertension, baveno-vii-2022-portal-hypertension, aga-2024-vasoactive-albumin-cirrhosis, aasld-2024-tips]
 ---
 
@@ -67,7 +67,7 @@ In a cirrhotic patient with UGIB, consider:
    - **Esophageal varices and GOV1 → EVL** (band ligation; GS 31, Baveno VIII 5.29); preferred over sclerotherapy
    - **Gastric/fundal varices (GOV2/IGV1)** → do NOT band; see [[#Cardiofundal Varices (GOV2/IGV1) — the Bimodal Pathway]]
    - **Not first-line for AVB:** haemoclips, over-the-scope clips, **topical haemostatic agents/powders**, and fibrin (Baveno VIII 5.28)
-   - Obtain **contrast-enhanced cross-sectional imaging (CT or MRI) in every AVB** — to exclude portal/splanchnic vein thrombosis and HCC and to map portosystemic collaterals (Baveno VIII 5.30); AASLD GS 44 requires it specifically for gastric/ectopic bleeds
+   - Obtain **contrast-enhanced cross-sectional imaging (CT or MRI) in every AVB** — to exclude portal/splanchnic vein thrombosis and [[hepatocellular-carcinoma|HCC]] and to map portosystemic collaterals (Baveno VIII 5.30); AASLD GS 44 requires it specifically for gastric/ectopic bleeds
    - **Uncontrolled bleeding** → bridge to TIPS. **Baveno VIII 5.35 now prefers a dedicated covered self-expanding metal stent (cSEMS) *over* balloon tamponade** — Baveno VII 6.29 called them equally efficacious with SEMS the safer option; VIII states a preference
 
 6. **Preemptive TIPS** (GS 32) — within **72 hours, ideally within 24 hours** of index EGD:

@@ -3,7 +3,7 @@ title: "Calcineurin Inhibitors"
 category: med
 tags: [calcineurin-inhibitor, tacrolimus, cyclosporine, immunosuppression, transplant, liver-transplant, nephrotoxicity, basiliximab, induction, cnm-minimization]
 created: 2026-05-19
-updated: 2026-09-02
+updated: 2026-09-04
 sources: [aasld-2012-liver-transplant-long-term, aasld-ast-2025-liver-transplant-graft-complications, acg-2025-uc]
 ---
 
@@ -39,7 +39,7 @@ Not calcineurin inhibitors, but the agents CNI-minimization converts to ([[aasld
 
 ## Cyclosporine in Acute Severe Ulcerative Colitis
 
-The other GI use of a CNI, and the reason the [[ulcerative-colitis|UC]] page links here. That page owns the **ASUC pathway** (when to escalate, infliximab-vs-cyclosporine choice, bridging, colectomy); this page owns the **drug parameters** ([[acg-2025-uc]]):
+The other GI use of a CNI, and the reason the [[ulcerative-colitis|UC]] page links here. That page owns the **ASUC pathway** (when to escalate, [[anti-tnf-agents|infliximab]]-vs-cyclosporine choice, bridging, colectomy); this page owns the **drug parameters** ([[acg-2025-uc]]):
 
 | Parameter | Value |
 |---|---|

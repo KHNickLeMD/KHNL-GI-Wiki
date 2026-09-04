@@ -3,7 +3,7 @@ title: "Electrosurgery in Therapeutic Endoscopy"
 category: concept
 tags: [electrosurgery, electrocautery, esu, current-density, monopolar, bipolar, soft-coagulation, endocut, dispersive-pad, third-space-endoscopy]
 created: 2026-09-03
-updated: 2026-09-03
+updated: 2026-09-04
 sources: [aga-2026-electrosurgery]
 ---
 
@@ -288,4 +288,3 @@ Applies to [[endoscopic-submucosal-dissection|ESD]], [[colorectal-esd|colorectal
 ## Sources
 
 1. [[aga-2026-electrosurgery|AGA Clinical Practice Update on the Use of Electrosurgery in Therapeutic Endoscopy: Expert Review (2026)]]
-</content>

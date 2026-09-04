@@ -3,8 +3,8 @@ title: "Upper GI Bleeding"
 category: diagnostic-schema
 tags: [ugib, peptic-ulcer, gi-bleeding, endoscopy, forrest, glasgow-blatchford, melena]
 created: 2026-05-15
-updated: 2026-09-03
-sources: [acg-2021-ugib, acg-2023-lgib, acg-2024-hp-treatment, acg-2025-egd-quality, aga-2024-upper-endoscopy-quality]
+updated: 2026-09-04
+sources: [acg-2021-ugib, acg-2023-lgib, acg-2024-hp-treatment, acg-2025-egd-quality, aga-2024-upper-endoscopy-quality, tg18-2018-cholangitis-flowchart]
 ---
 
 ## Contents
@@ -24,12 +24,16 @@ sources: [acg-2021-ugib, acg-2023-lgib, acg-2024-hp-treatment, acg-2025-egd-qual
   - [[#Step 7: Post-Endoscopic Management (Ulcer Bleeding)]]
   - [[#Step 8: Recurrent Bleeding]]
 - [[#Key Tests]]
+  - [[#Endoscopy]]
   - [[#Glasgow-Blatchford Score]]
   - [[#Rockall Score]]
   - [[#AIMS65 Score]]
   - [[#Machine-Learning Risk Models]]
   - [[#CT Angiography]]
+  - [[#Ulcer Stigmata at Endoscopy]]
 - [[#Red Flags / Alarm Features]]
+- [[#See Also]]
+- [[#Sources]]
 
 ---
 
@@ -346,3 +350,4 @@ If UGIB is clinically suspected in a patient presenting with apparent LGIB, perf
 3. [[acg-2024-hp-treatment|ACG Clinical Guideline: Treatment of Helicobacter pylori Infection (2024)]]
 4. [[acg-2025-egd-quality|ACG/ASGE 2025: Quality Indicators for Upper GI Endoscopy (EGD)]]
 5. [[aga-2024-upper-endoscopy-quality|AGA 2024: Quality Indicators for Upper GI Endoscopy]]
+6. [[tg18-2018-cholangitis-flowchart|Tokyo Guidelines 2018: Initial Management of Acute Biliary Infection and Flowchart for Acute Cholangitis]]

@@ -3,7 +3,7 @@ title: "Sedation and Anesthesia in GI Endoscopy"
 category: concept
 tags: [sedation, anesthesia, propofol, moderate-sedation, deep-sedation, capnography, asa-class, npo, reversal-agents, endoscopy, glp-1]
 created: 2026-06-27
-updated: 2026-08-25
+updated: 2026-09-04
 sources: [asge-2018-sedation, aga-2024-glp1-endoscopy]
 ---
 
@@ -102,7 +102,7 @@ Airway management may also be difficult with:
 - Standard regimen: **benzodiazepine (anxiolysis/amnesia) + opioid (analgesia)** — safe and effective for EGD/colonoscopy in patients without sedation-risk factors.
 - Benzodiazepines: midazolam (favored — fast onset, short duration, less thrombophlebitis, amnestic) or diazepam (comparable efficacy).
 - Opioids: fentanyl (faster onset/clearance, less nausea) or meperidine.
-- Adjuncts in select cases (they deepen sedation and may prolong recovery): **diphenhydramine** (improves sedation and decreases pain at [[colonoscopy|colonoscopy]] with an opioid + benzodiazepine), **promethazine**, **droperidol** (efficacy shown in therapeutic endoscopy and difficult-to-sedate patients).
+- Adjuncts in select cases (they deepen sedation and may prolong recovery): **diphenhydramine** (improves sedation and decreases pain at colonoscopy with an opioid + benzodiazepine), **promethazine**, **droperidol** (efficacy shown in therapeutic endoscopy and difficult-to-sedate patients).
 - **Droperidol — the QT numbers that decide use:**
   - FDA **black-box warning**: use only when first-line agents have not given adequate sedation.
   - **Contraindicated** with prolonged QTc — **>440 ms in men, >450 ms in women**.
@@ -139,7 +139,7 @@ Airway management may also be difficult with:
 
 ## Who Needs an Anesthesia Provider
 Consider anesthesia-provider–administered sedation for:
-- Prolonged or therapeutic procedures needing deep sedation (eg, [[ercp]] — prone position alters cardiopulmonary physiology and limits airway access; [[endoscopic-ultrasound|EUS]]-guided FNA and overtube-assisted enteroscopy have improved outcomes)
+- Prolonged or therapeutic procedures needing deep sedation (eg, [[ercp]] — prone position alters cardiopulmonary physiology and limits airway access; [[endoscopic-ultrasound|EUS]]-guided FNA and [[device-assisted-enteroscopy|overtube-assisted enteroscopy]] have improved outcomes)
 - Anticipated intolerance to standard sedatives
 - Severe comorbidity (**ASA IV or V**) — extremes of age; severe pulmonary, cardiac, renal, or hepatic disease; pregnancy; drug or alcohol abuse; uncooperative patient
 - Increased airway-obstruction risk from an anatomic variant, difficult positive-pressure ventilation, or anatomy predicting difficult intubation
@@ -168,7 +168,7 @@ GRADE evidence quality: ⊕⊕⊕⊕ high · ⊕⊕⊕⊖ moderate · ⊕⊕⊖�
 | 8 | **Suggest** propofol-based sedation (endoscopist-directed or anesthesia-provider administered) when it is expected to improve safety, comfort, procedural efficiency, and/or successful completion | ⊕⊕⊖⊖ |
 
 ## See Also
-[[upper-endoscopy]], [[colonoscopy]], [[ercp]], [[endoscopic-ultrasound]], [[antibiotic-prophylaxis-endoscopy]], [[preprocedure-testing]], [[endoscopy-ergonomics]]
+[[upper-endoscopy]], [[colonoscopy]], [[ercp]], [[endoscopic-ultrasound]], [[device-assisted-enteroscopy]], [[antibiotic-prophylaxis-endoscopy]], [[preprocedure-testing]], [[endoscopy-ergonomics]], [[glp-1-receptor-agonists]], [[semaglutide]]
 
 ---
 

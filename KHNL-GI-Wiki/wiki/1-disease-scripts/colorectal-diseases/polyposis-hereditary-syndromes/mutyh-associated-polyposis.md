@@ -3,7 +3,7 @@ title: "MUTYH-Associated Polyposis"
 category: disease-script
 tags: [map, mutyh, polyposis, hereditary-crc, colorectal-cancer, recessive-polyposis, afap]
 created: 2026-05-19
-updated: 2026-09-03
+updated: 2026-09-04
 sources: [acg-2015-hereditary-gi-cancer, asge-2020-fap]
 ---
 
@@ -33,7 +33,7 @@ sources: [acg-2015-hereditary-gi-cancer, asge-2020-fap]
 
 - [[colorectal-cancer|CRC]] present at MAP diagnosis in **~60%** of cases
 - **Cumulative CRC risk: 19% by age 50, 43% by age 60**; average age of onset **48 years**
-- Extracolonic: **17%** of a 276-patient cohort had extracolonic lesions; estimated **38% lifetime risk of extracolonic malignancy** (~2× general population). **Duodenal cancer lifetime risk ~4%** (similar to FAP/AFAP). Gastric lesions in up to 11%, but no established increase in gastric cancer risk
+- Extracolonic: **17%** of a 276-patient cohort had extracolonic lesions; estimated **38% lifetime risk of extracolonic malignancy** (~2× general population). **Duodenal cancer lifetime risk ~4%** (similar to FAP/AFAP). Gastric lesions in up to 11%, but no established increase in [[gastric-adenocarcinoma|gastric cancer]] risk
 - 5-year survival after CRC in MAP **78% vs. 63%** in matched general-population CRC controls (HR 0.48; survival advantage persisted after adjustment)
 
 ---
@@ -80,7 +80,7 @@ Surveillance mirrors AFAP (start age / interval):
 
 ## See Also
 
-[[colorectal-polyposis]], [[familial-adenomatous-polyposis]], [[lynch-syndrome]], [[serrated-polyposis-syndrome]], [[hereditary-mixed-polyposis-syndrome]], [[colorectal-cancer]], [[colorectal-cancer-screening]], [[colonoscopy]], [[upper-endoscopy]], [[nonampullary-duodenal-adenoma]], [[polypectomy]], [[ostomy-management]]
+[[colorectal-polyposis]], [[familial-adenomatous-polyposis]], [[lynch-syndrome]], [[serrated-polyposis-syndrome]], [[hereditary-mixed-polyposis-syndrome]], [[colorectal-cancer]], [[colorectal-cancer-screening]], [[gastric-adenocarcinoma]], [[colonoscopy]], [[upper-endoscopy]], [[nonampullary-duodenal-adenoma]], [[polypectomy]], [[ostomy-management]]
 
 ---
 

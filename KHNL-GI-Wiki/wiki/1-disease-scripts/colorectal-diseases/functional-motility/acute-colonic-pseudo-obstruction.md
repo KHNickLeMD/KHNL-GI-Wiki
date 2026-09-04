@@ -3,7 +3,7 @@ title: "Acute Colonic Pseudo-Obstruction (Ogilvie's Syndrome)"
 category: disease-script
 tags: [acpo, ogilvie, colonic-dysmotility, large-bowel-obstruction, neostigmine, colonoscopy]
 created: 2026-06-22
-updated: 2026-09-03
+updated: 2026-09-04
 sources: [asge-2020-acpo-volvulus]
 ---
 
@@ -24,7 +24,7 @@ Massive **colonic dilatation without mechanical obstruction**, from altered auto
 ## Assessment
 
 ### Establishing the Diagnosis
-- Clinical picture: abdominal distention, pain, nausea/vomiting, obstipation in a hospitalized/postsurgical or acutely ill patient
+- Clinical picture: [[abdominal-bloating-and-distention|abdominal distention]], pain, nausea/vomiting, obstipation in a hospitalized/postsurgical or acutely ill patient
 - **Mechanical obstruction must be excluded** before the diagnosis is made
 - Risk factors: recent surgery (especially orthopedic/cardiac), trauma, infection, electrolyte derangement, opioids/anticholinergics, neurologic disease
 - Incidence ~100 per 100,000 hospitalized patients
@@ -84,7 +84,7 @@ flowchart TD
 **Surgery** — for peritonitis, ischemia, perforation, clinical deterioration, or **cecal diameter >12 cm**. Options: surgically placed cecostomy, percutaneous cecostomy, or subtotal colectomy; surgical mortality up to ~44% with ischemic/perforated bowel, so nonoperative management is preferred where feasible.
 
 ## See Also
-[[colonic-volvulus]], [[colonoscopy]], [[chronic-idiopathic-constipation]], [[nausea-and-vomiting]], [[clostridioides-difficile]], [[colon-ischemia]], [[toxic-megacolon]], [[peptic-ulcer-disease]]
+[[colonic-volvulus]], [[colonoscopy]], [[chronic-idiopathic-constipation]], [[nausea-and-vomiting]], [[abdominal-bloating-and-distention]], [[clostridioides-difficile]], [[colon-ischemia]], [[toxic-megacolon]], [[peptic-ulcer-disease]]
 
 ---
 

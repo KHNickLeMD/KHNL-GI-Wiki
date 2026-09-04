@@ -3,7 +3,7 @@ title: "Exocrine Pancreatic Insufficiency (EPI)"
 category: disease-script
 tags: [exocrine-pancreatic-insufficiency, epi, pert, fecal-elastase, malabsorption, steatorrhea, pancreas, hpb]
 created: 2026-07-18
-updated: 2026-09-01
+updated: 2026-09-04
 sources: [aga-2023-epi]
 ---
 
@@ -117,7 +117,7 @@ Conditions that mimic EPI or blunt the response to enzyme therapy (consider when
 
 ## See Also
 
-[[chronic-pancreatitis]], [[pancreatic-cancer]], [[hereditary-pancreatitis]], [[celiac-disease]], [[small-intestinal-bacterial-overgrowth]], [[chronic-diarrhea]], [[bile-acid-diarrhea]], [[gastroenteropancreatic-neuroendocrine-tumors]]
+[[chronic-pancreatitis]], [[acute-pancreatitis]], [[recurrent-acute-pancreatitis]], [[pancreatic-cancer]], [[pancreatic-cysts]], [[hereditary-pancreatitis]], [[celiac-disease]], [[crohns-disease]], [[peptic-ulcer-disease]], [[small-intestinal-bacterial-overgrowth]], [[chronic-diarrhea]], [[bile-acid-diarrhea]], [[giardiasis]], [[gastroenteropancreatic-neuroendocrine-tumors]], [[proton-pump-inhibitors]]
 
 ---
 

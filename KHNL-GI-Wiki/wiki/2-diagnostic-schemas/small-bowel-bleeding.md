@@ -3,7 +3,7 @@ title: "Small Bowel Bleeding"
 category: diagnostic-schema
 tags: [small-bowel, gi-bleeding, obscure-gi-bleeding, mid-gi-bleeding, capsule-endoscopy, deep-enteroscopy, angioectasia, vce, dbe, iron-deficiency-anemia]
 created: 2026-05-19
-updated: 2026-09-01
+updated: 2026-09-04
 sources: [acg-2015-small-bowel-bleeding, aga-2020-ida, asge-2017-small-bowel-bleeding]
 ---
 
@@ -30,12 +30,12 @@ sources: [acg-2015-small-bowel-bleeding, aga-2020-ida, asge-2017-small-bowel-ble
   - [[#Conventional Angiography]]
   - [[#Meckel's Scan (⁹⁹ᵐTc-pertechnetate)]]
   - [[#Intraoperative Enteroscopy (IOE)]]
+- [[#Red Flags / Alarm Features]]
 - [[#Treatment]]
   - [[#Endoscopic Therapy]]
   - [[#Conservative Management (No Bleeding Source Found on Workup)]]
   - [[#Medical Therapy for Refractory/Recurrent Bleeding]]
   - [[#Surgical Therapy]]
-- [[#Red Flags / Alarm Features]]
 - [[#See Also]]
 - [[#Sources]]
 
@@ -234,6 +234,20 @@ This guideline replaces the older term **"obscure GI bleeding (OGIB)"** with ana
 
 ---
 
+## Red Flags / Alarm Features
+
+- **Hemodynamic instability** (hypotension, tachycardia) → emergent angiography, not VCE.
+- **Hemoglobin drop ≥4 g/dl** → consider repeat VCE even after prior negative study.
+- **Age <40 with SBB** → higher index of suspicion for Crohn's disease, Meckel's diverticulum, polyposis syndromes.
+- **Skin findings** → [[hereditary-hemorrhagic-telangiectasia|hereditary hemorrhagic telangiectasia]] (Osler-Weber-Rendu), blue rubber bleb nevus, Peutz-Jeghers pigmentation (see [[peutz-jeghers-syndrome]]), Ehlers-Danlos.
+- **Aortic stenosis or LVAD** → acquired von Willebrand deficiency + angioectasia ([[heydes-syndrome|Heyde's syndrome]]); aortic valve replacement may resolve bleeding.
+- **Prior abdominal surgery or known Crohn's** → risk of capsule retention; perform patency capsule or CTE before VCE.
+- **Mass lesion on VCE or CTE** → high suspicion for neoplasm; total deep enteroscopy required; see [[subepithelial-lesion]].
+- **Capsule showing active bleeding or large vascular lesion** → urgent deep enteroscopy for therapy.
+- **Negative VCE + high clinical suspicion** → pursue CTE and/or deep enteroscopy despite negative capsule (false-negative rate up to 19% for neoplasms).
+
+---
+
 ## Treatment
 
 ### Endoscopic Therapy
@@ -265,20 +279,6 @@ If bleeding persists or recurs and lesion cannot be localized: *(Strong/Moderate
 - IOE available intraoperatively to localize and treat. *(Conditional/Low)*
 - Angiographic catheter can be left in place at laparotomy; methylene blue injection via catheter marks the relevant SB segment.
 - **[[heydes-syndrome]]:** Aortic valve replacement is indicated for ongoing bleeding from aortic stenosis-associated angioectasia. *(Conditional/Moderate)*
-
----
-
-## Red Flags / Alarm Features
-
-- **Hemodynamic instability** (hypotension, tachycardia) → emergent angiography, not VCE.
-- **Hemoglobin drop ≥4 g/dl** → consider repeat VCE even after prior negative study.
-- **Age <40 with SBB** → higher index of suspicion for Crohn's disease, Meckel's diverticulum, polyposis syndromes.
-- **Skin findings** → [[hereditary-hemorrhagic-telangiectasia|hereditary hemorrhagic telangiectasia]] (Osler-Weber-Rendu), blue rubber bleb nevus, Peutz-Jeghers pigmentation (see [[peutz-jeghers-syndrome]]), Ehlers-Danlos.
-- **Aortic stenosis or LVAD** → acquired von Willebrand deficiency + angioectasia ([[heydes-syndrome|Heyde's syndrome]]); aortic valve replacement may resolve bleeding.
-- **Prior abdominal surgery or known Crohn's** → risk of capsule retention; perform patency capsule or CTE before VCE.
-- **Mass lesion on VCE or CTE** → high suspicion for neoplasm; total deep enteroscopy required; see [[subepithelial-lesion]].
-- **Capsule showing active bleeding or large vascular lesion** → urgent deep enteroscopy for therapy.
-- **Negative VCE + high clinical suspicion** → pursue CTE and/or deep enteroscopy despite negative capsule (false-negative rate up to 19% for neoplasms).
 
 ---
 

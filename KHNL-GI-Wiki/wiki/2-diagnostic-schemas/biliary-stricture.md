@@ -3,7 +3,7 @@ title: "Biliary Stricture"
 category: diagnostic-schema
 tags: [biliary-stricture, ercp, eus, cholangioscopy, obstructive-jaundice, cholangiocarcinoma, hepatobiliary]
 created: 2026-05-15
-updated: 2026-09-01
+updated: 2026-09-04
 sources: [acg-2023-biliary-strictures, asge-2023-indeterminate-biliary-strictures, asge-2023-post-transplant-biliary-strictures]
 ---
 
@@ -20,12 +20,12 @@ sources: [acg-2023-biliary-strictures, asge-2023-indeterminate-biliary-stricture
   - [[#Step 2: Cross-Sectional Imaging (CT / MRCP)]]
   - [[#Step 3: Tissue Diagnosis — Approach by Location]]
 - [[#Key Tests]]
+- [[#Red Flags / Alarm Features]]
 - [[#Drainage Approach]]
   - [[#Extrahepatic Stricture]]
   - [[#Perihilar Stricture]]
   - [[#Post–Liver Transplant Biliary Stricture]]
   - [[#Failed ERCP]]
-- [[#Red Flags / Alarm Features]]
 - [[#See Also]]
 - [[#Sources]]
 
@@ -172,6 +172,22 @@ If a diagnosis remains elusive after index ERCP:
 
 ---
 
+## Red Flags / Alarm Features
+
+The following features increase pre-test probability of malignancy and should prompt expedited evaluation:
+
+- **Painless progressive jaundice** in the absence of an obvious benign explanation
+- **Weight loss, anorexia, or malaise** accompanying obstructive jaundice
+- **New-onset biliary stricture in an older adult** without prior biliary surgery or established benign etiology
+- **Radiographic mass** associated with the stricture
+- **Rapidly progressive stricture** on serial imaging
+- **Elevated CA 19-9** (note: non-specific, but very high levels increase malignancy suspicion)
+- **Bismuth IV perihilar stricture** without an obvious benign cause
+- **No improvement** in cholestasis or symptoms despite apparent adequate drainage (may suggest malignant infiltration)
+- **Brush cytology or FISH positive** — treat as malignant until proven otherwise
+
+---
+
 ## Drainage Approach
 
 ### Extrahepatic Stricture
@@ -284,22 +300,6 @@ Biliary strictures are a common adverse outcome after [[liver-transplantation|li
 - EUS-guided biliary drainage (choledochoduodenostomy, hepaticogastrostomy, or rendezvous) preferred over PTBD (Conditional, Very Low evidence) — equivalent efficacy, fewer adverse events and reinterventions
 - Requires substantial endoscopist experience — adverse events including fatalities reported, particularly earlier in the learning curve
 - Repeat ERCP on a subsequent day (same or different provider) is successful in the large majority of cases and is a reasonable first alternative in non-urgent settings
-
----
-
-## Red Flags / Alarm Features
-
-The following features increase pre-test probability of malignancy and should prompt expedited evaluation:
-
-- **Painless progressive jaundice** in the absence of an obvious benign explanation
-- **Weight loss, anorexia, or malaise** accompanying obstructive jaundice
-- **New-onset biliary stricture in an older adult** without prior biliary surgery or established benign etiology
-- **Radiographic mass** associated with the stricture
-- **Rapidly progressive stricture** on serial imaging
-- **Elevated CA 19-9** (note: non-specific, but very high levels increase malignancy suspicion)
-- **Bismuth IV perihilar stricture** without an obvious benign cause
-- **No improvement** in cholestasis or symptoms despite apparent adequate drainage (may suggest malignant infiltration)
-- **Brush cytology or FISH positive** — treat as malignant until proven otherwise
 
 ---
 

@@ -3,7 +3,7 @@ title: "Portal Vein Thrombosis and Mesenteric Vein Thrombosis"
 category: disease-script
 tags: [portal-vein-thrombosis, pvt, mvt, mesenteric-vein, anticoagulation, cirrhosis, thrombophilia, splenomegaly, mpn, liver-transplant]
 created: 2026-05-21
-updated: 2026-09-03
+updated: 2026-09-04
 sources: [baveno-viii-2026-portal-hypertension, acg-2020-hepatic-mesenteric-circulation, aasld-ast-2025-liver-transplant-candidate-evaluation, aasld-2021-vascular-pvt, aga-2025-pvt-cirrhosis, baveno-vii-2022-portal-hypertension]
 ---
 
@@ -242,7 +242,7 @@ flowchart TD
 - Partial/segmental PVT in cirrhosis without mesenteric extension: clinical judgment; risk/benefit discussion
 - Chronic PVT in cirrhosis: anticoagulate only for thrombophilia, progression, or bowel ischemia (Conditional, Very Low evidence)
 
-**AGA 2025 chronicity/occlusion stratification** (newest guideline-tier source; Best Practice Advice, unrated) [[aga-2025-pvt-cirrhosis]]. "Recent" = **<6 months**; "chronic" = **>6 months** (PVTs not recanalized by 6 months are unlikely to recanalize with AC) — concordant with the Baveno VII standardized nomenclature under [[#Classification / Typing]] above:
+**AGA 2025 chronicity/occlusion stratification** (newest guideline-tier source; Best Practice Advice, unrated) [[aga-2025-pvt-cirrhosis]]. "Recent" = **<6 months**; "chronic" = **>6 months** (PVTs not recanalized by 6 months are unlikely to recanalize with AC) — concordant with the Baveno VIII / VALDIG standardised nomenclature under [[#Classification / Typing]] above:
 
 | Scenario | Action |
 |---|---|
