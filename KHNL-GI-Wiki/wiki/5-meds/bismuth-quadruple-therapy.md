@@ -3,17 +3,17 @@ title: "Bismuth Quadruple Therapy (BQT)"
 category: med
 tags: [h-pylori, eradication, bismuth, tetracycline, metronidazole, ppi, pylera]
 created: 2026-05-07
-updated: 2026-08-28
+updated: 2026-09-05
 sources: [acg-2024-hp-treatment, acg-2017-hp-guidelines]
 ---
 
 ## Components ("Optimized" BQT — ACG 2024)
 
-Four drugs × 14 days. **Optimized** BQT = appropriately dosed PPI + bismuth + nitroimidazole (total **1,500–2,000 mg/day** in divided doses) + tetracycline (**not** doxycycline — substituting doxycycline lowers efficacy). [[acg-2024-hp-treatment]]
+Four drugs × 14 days. **Optimized** BQT = appropriately dosed [[proton-pump-inhibitors|PPI]] + bismuth + nitroimidazole (total **1,500–2,000 mg/day** in divided doses) + tetracycline (**not** doxycycline — substituting doxycycline lowers efficacy). [[acg-2024-hp-treatment]]
 
 | Drug | Dose | Frequency |
 |---|---|---|
-| [[proton-pump-inhibitors\|PPI]] (standard dose) | Standard dose, 30–60 min before a meal | Twice daily (b.i.d.) |
+| PPI (standard dose) | Standard dose, 30–60 min before a meal | Twice daily (b.i.d.) |
 | Bismuth — subcitrate **120–300 mg**, or subsalicylate **300 mg** | as listed | Four times daily (q.i.d.) |
 | Tetracycline | **500 mg** | Four times daily (q.i.d.) |
 | Metronidazole (nitroimidazole; tinidazole an alternative) | **500 mg** (target 1,500–2,000 mg/day) | Three or four times daily (t.i.d.–q.i.d.) |
@@ -74,7 +74,7 @@ Four drugs × 14 days. **Optimized** BQT = appropriately dosed PPI + bismuth + n
 
 - **Minor adverse events are common but rarely stop treatment.** In a Taiwanese RCT of treatment-naive patients, **>50% reported ≥1 adverse effect** — **dark stool, fatigue, nausea, diarrhea, and dizziness each in >15%** — yet only **~5% discontinued**. European data show similarly low discontinuation. [[acg-2024-hp-treatment]]
 - **Counsel before prescribing.** ACG explicitly advises educating patients on *why* eradication matters and on the most frequent adverse effects, because **adherence is the lever** on this 4-drug, high-pill-burden regimen.
-- Named **disadvantages of BQT** vs [[proton-pump-inhibitors|PPI]]–clarithromycin triple therapy: large pill burden, relatively high frequency of minor (particularly GI) adverse events, difficulty obtaining tetracycline and its cost, and tetracycline's relative contraindications.
+- Named **disadvantages of BQT** vs PPI–clarithromycin triple therapy: large pill burden, relatively high frequency of minor (particularly GI) adverse events, difficulty obtaining tetracycline and its cost, and tetracycline's relative contraindications.
 
 ---
 

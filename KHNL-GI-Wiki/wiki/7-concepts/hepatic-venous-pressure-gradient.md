@@ -19,6 +19,8 @@ The reference (gold-standard) method for measuring **sinusoidal portal pressure*
 - [[#Prognostic thresholds]]
 - [[#Where HVPG is still the answer]]
 - [[#Limitations — when HVPG misleads]]
+- [[#See Also]]
+- [[#Sources]]
 
 ## Definition
 
@@ -50,7 +52,7 @@ Baveno VII methodology statements ([[baveno-vii-2022-portal-hypertension]], 1.1�
 | **≥20** | Measured **at the time of acute hemorrhage** → predicts treatment failure in acute variceal bleeding; a criterion for **pre-emptive [[tips\|TIPS]]**. ⚠ **[[baveno-viii-2026-portal-hypertension\|Baveno VIII]] 5.31 changed this from Baveno VII's ">20 mmHg" to "≥20 mmHg"** — the boundary value itself now qualifies |
 | **<10, measured off carvedilol/cNSBB** | **Confirms resolution of CSPH in a recompensated patient** — the trigger to stop the beta-blocker (Baveno VIII 7.16, new). The "off the drug" qualifier is the decision; a gradient measured on an NSBB does not answer the question |
 
-*Full noninvasive CSPH staging (LSM "rule of 5", spleen stiffness), and management by stratum, live on [[portal-hypertension]].*
+*Full noninvasive CSPH staging ([[liver-stiffness-measurement|LSM]] "rule of 5", spleen stiffness), and management by stratum, live on [[portal-hypertension]].*
 
 > ⚠ **Gap — the "HVPG ≥12 = variceal bleeding threshold" row was removed (2026-09-02 lint).** Neither ingested source states it. Full-text search of [[baveno-vii-2022-portal-hypertension|Baveno VII]], [[aasld-2023-portal-hypertension|AASLD 2023]] and [[wang-2026-eus-ppg-delphi-consensus|the EUS-PPG consensus]] finds **12 mmHg only as the post-TIPS portal pressure gradient target** (Baveno 1.23; AASLD: NSBB not required after TIPS if the gradient is under 12 mm Hg) — captured under [[#HVPG response to therapy]], not as a bleeding-risk cutoff. **Do not refill from memory.** Restoring it requires ingesting the primary hemodynamic literature (Groszmann/Garcia-Tsao portal-pressure threshold studies).
 

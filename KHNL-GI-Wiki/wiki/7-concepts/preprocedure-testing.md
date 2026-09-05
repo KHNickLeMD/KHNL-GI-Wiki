@@ -3,7 +3,7 @@ title: "Preprocedure Laboratory Testing Before Endoscopy"
 category: concept
 tags: [preprocedure, laboratory-testing, coagulation, pregnancy-testing, sedation, periendoscopic]
 created: 2026-07-01
-updated: 2026-09-04
+updated: 2026-09-05
 sources: [asge-2014-lab-testing-endoscopy]
 ---
 
@@ -14,6 +14,8 @@ sources: [asge-2014-lab-testing-endoscopy]
 - [[#Test-by-Test Guidance]]
   - [[#Coagulation Testing]]
   - [[#Why Routine Panels Fail]]
+- [[#See Also]]
+- [[#Sources]]
 
 ## Overview
 

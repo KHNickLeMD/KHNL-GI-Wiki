@@ -3,7 +3,7 @@ title: "Reflux Testing"
 category: concept
 tags: [gerd, reflux, ph-monitoring, impedance, manometry, endoscopy, diagnostics]
 created: 2026-05-15
-updated: 2026-09-03
+updated: 2026-09-05
 sources: [acg-2021-gerd, asge-2024-gerd, acg-2020-esophageal-physiologic-testing]
 ---
 
@@ -26,6 +26,8 @@ sources: [acg-2021-gerd, asge-2024-gerd, acg-2020-esophageal-physiologic-testing
 - [[#Rumination and Supragastric Belching]]
 - [[#CYP2C19 Genotyping]]
 - [[#Diagnostic Algorithm]]
+- [[#See Also]]
+- [[#Sources]]
 
 ---
 

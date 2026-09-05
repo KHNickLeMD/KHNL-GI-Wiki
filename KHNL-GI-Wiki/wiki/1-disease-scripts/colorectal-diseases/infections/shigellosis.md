@@ -3,7 +3,7 @@ title: "Shigellosis"
 category: disease-script
 tags: [shigella, bacterial-gastroenteritis, dysentery, diarrhea, travelers-diarrhea, azithromycin]
 created: 2026-05-19
-updated: 2026-08-28
+updated: 2026-09-05
 sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
 ---
 
@@ -53,6 +53,8 @@ sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
 | **First choice** | **Azithromycin** | **1,000 mg PO single dose** OR **500 mg PO once daily × 3 days** (ACG Table 4 regimens — see [[acute-diarrhea]]); use the **3-day** course, which is the recommended duration for fever or dysentery [[acg-2016-acute-diarrhea]] |
 | First choice (alt) | Ciprofloxacin or ceftriaxone | IDSA Table 6 first-choice alternatives [[idsa-2017-infectious-diarrhea]] |
 | Alternative | TMP-SMX or ampicillin | **Only if susceptible** [[idsa-2017-infectious-diarrhea]] |
+
+> **Dose gap — flagged, not filled.** Only azithromycin and the fluoroquinolones are dosed in the corpus ([[acg-2016-acute-diarrhea]] Table 4 traveler's-diarrhea regimens). [[idsa-2017-infectious-diarrhea]] Table 6 names **ceftriaxone, TMP-SMX, and ampicillin with no dose column**, so no dose, route, or duration is asserted for those three here. An IDSA/CDC enteric-pathogen treatment table would be needed to close this.
 
 - **Duration — the decision rule** [[acg-2016-acute-diarrhea]]:
   - For most antibiotics, **single-dose or up to 3 days** is usually sufficient to resolve symptoms.

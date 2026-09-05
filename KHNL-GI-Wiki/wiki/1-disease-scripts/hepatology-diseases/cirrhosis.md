@@ -23,6 +23,8 @@ sources: [aasld-2023-portal-hypertension, aasld-2024-nilda-blood, aasld-2024-nil
   - [[#Perioperative Risk]]
   - [[#Palliative Care]]
   - [[#Liver Transplantation]]
+- [[#See Also]]
+- [[#Sources]]
 
 ---
 

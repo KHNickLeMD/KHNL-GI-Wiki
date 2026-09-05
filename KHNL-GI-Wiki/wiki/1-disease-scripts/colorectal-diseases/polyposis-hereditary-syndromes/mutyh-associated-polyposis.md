@@ -3,7 +3,7 @@ title: "MUTYH-Associated Polyposis"
 category: disease-script
 tags: [map, mutyh, polyposis, hereditary-crc, colorectal-cancer, recessive-polyposis, afap]
 created: 2026-05-19
-updated: 2026-09-04
+updated: 2026-09-05
 sources: [acg-2015-hereditary-gi-cancer, asge-2020-fap]
 ---
 
@@ -74,7 +74,7 @@ Surveillance mirrors AFAP (start age / interval):
 
 - **Colectomy + IRA** when polyps become endoscopically uncontrollable; **restorative proctocolectomy + IPAA** if the rectum is substantially involved. IRA may be the better option for MAP patients with relative rectal sparing.
 - **Postsurgical surveillance** *(Strong, low)*: yearly endoscopy of the rectum or ileal pouch; examine an [[ostomy-management|ileostomy]] every 2 years.
-- **Duodenal disease is staged and managed by Spigelman stage** — the staging table and its surveillance intervals live on [[familial-adenomatous-polyposis]]; MAP follows the same intervals.
+- **[[nonampullary-duodenal-adenoma|Duodenal]] disease is staged and managed by Spigelman stage** — the staging table and its surveillance intervals live on [[familial-adenomatous-polyposis]]; MAP follows the same intervals.
 
 ---
 

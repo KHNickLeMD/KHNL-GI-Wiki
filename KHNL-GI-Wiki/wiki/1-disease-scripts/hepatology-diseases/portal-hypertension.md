@@ -9,6 +9,25 @@ sources: [baveno-viii-2026-portal-hypertension, aasld-2023-portal-hypertension, 
 
 > **[[baveno-viii-2026-portal-hypertension|Baveno VIII (2026)]] supersedes [[baveno-vii-2022-portal-hypertension|Baveno VII (2022)]].** Where the two differ, this page states the Baveno VIII position and names what changed. The full old-value → new-value table lives on the source page under *What changed from Baveno VII*.
 
+## Contents
+- [[#Assessment]]
+  - [[#Establishing the Diagnosis]]
+  - [[#Severity Assessment]]
+  - [[#Classification / Typing]]
+- [[#Differential Diagnosis]]
+- [[#Diagnostics]]
+- [[#Therapeutics]]
+  - [[#Prevention of Decompensation (Compensated Cirrhosis With CSPH)]]
+  - [[#Primary Prophylaxis for Variceal Hemorrhage]]
+  - [[#Acute Variceal Hemorrhage (AVH) — Initial Management]]
+  - [[#Secondary Prophylaxis]]
+  - [[#Prevention of Further Decompensation (Ascites, Post-Bleed)]]
+  - [[#Gastric and Ectopic Varices]]
+  - [[#Portal Hypertensive Gastropathy (PHG) and GAVE]]
+  - [[#Special Situations]]
+- [[#See Also]]
+- [[#Sources]]
+
 ## Assessment
 
 ### Establishing the Diagnosis

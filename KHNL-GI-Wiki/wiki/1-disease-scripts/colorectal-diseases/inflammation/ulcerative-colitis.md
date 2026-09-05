@@ -3,7 +3,7 @@ title: "Ulcerative Colitis"
 category: disease-script
 tags: [uc, ulcerative-colitis, ibd, 5-asa, biologics, anti-tnf, vedolizumab, asuc, pancolitis, proctitis]
 created: 2026-05-07
-updated: 2026-09-04
+updated: 2026-09-05
 sources: [acg-2025-uc, aga-2024-uc-pharm, aga-2024-pouchitis, aga-2023-biomarkers-uc, acg-2019-uc, asge-2015-scenic-ibd-dysplasia, asge-2015-ibd, aga-2026-inpatient-ibd, aga-2026-therapeutic-endoscopy-ibd, aga-2026-cdiff-ibd, aga-2024-intestinal-ultrasound, aga-2024-diet-nutrition-ibd, aga-2024-ibd-malignancy, aga-2024-pregnancy-gi-liver, aga-2024-fmt]
 ---
 
@@ -102,6 +102,19 @@ Idiopathic chronic inflammatory disorder of the large intestine. Continuous muco
 - **Modified Mayo score** drops the subjective physician's global assessment — now the standard clinical-trial endpoint. Trial **clinical remission** = MES 0–1 + stool-frequency subscore ≤1 + no rectal bleeding.
 - Of the many clinical indices, **partial Mayo and SCCAI** showed the best validity and responsiveness; all correlate broadly with endoscopic activity.
 
+**Simple Clinical Colitis Activity Index (SCCAI)** — the other best-performing index, and the only one that scores **urgency, nocturnal stools, and extraintestinal manifestations**, which the Truelove-Witts classification omits. Purely clinical (no endoscopy). [[acg-2025-uc]]
+
+| Symptom | Response → points |
+|---|---|
+| **Bowel frequency (day)** | 1–3 → **0** · 4–6 → **1** · 7–9 → **2** · >9 → **3** |
+| **Bowel frequency (night)** | 0 → **0** · 1–3 → **1** · 4–6 → **2** |
+| **Urgency of defecation** | None → **0** · Hurry → **1** · Immediately → **2** · Incontinence → **3** |
+| **Blood in stool** | None → **0** · Trace → **1** · Occasionally frank → **2** · Usually frank → **3** |
+| **General well-being** | Very well → **0** · Slightly below par → **1** · Poor → **2** · Very poor → **3** · Terrible → **4** |
+| **Extracolonic features** | **1 point per manifestation** |
+
+> **Threshold gap:** [[acg-2025-uc]] reproduces the SCCAI components but attaches **no remission or severity cut-off** to it — the guideline states cut-offs for defining clinical or endoscopic remission "have not been studied prospectively and are thus not amenable to the GRADE process." Do not supply a cut-point from memory; the Walmsley 1998 derivation paper is not ingested.
+
 **Endoscopic scoring:**
 
 - **[[ibd-endoscopic-scoring|Mayo Endoscopic Score (MES)]]:** 0 (normal/inactive) to 3 (severe: spontaneous bleeding, ulcerations)
@@ -136,7 +149,7 @@ Idiopathic chronic inflammatory disorder of the large intestine. Continuous muco
 | [[microscopic-colitis\|Microscopic colitis]] | Watery nonbloody diarrhea; normal endoscopy; biopsy required |
 | [[radiation-proctopathy\|Radiation proctitis]] | History of pelvic radiation |
 | Diversion colitis | Post-[[ostomy-management\|ostomy]] segment; mucous discharge |
-| Medication-induced colitis | NSAID, mycophenolate, checkpoint inhibitor (immune checkpoint colitis) |
+| Medication-induced colitis | NSAID, mycophenolate, checkpoint inhibitor ([[immune-checkpoint-inhibitor-colitis\|immune checkpoint colitis]]) |
 
 ---
 
@@ -436,7 +449,7 @@ Idiopathic chronic inflammatory disorder of the large intestine. Continuous muco
 
 ## See Also
 
-[[crohns-disease]], [[inflammatory-bowel-disease]], [[uc-vs-crohns-comparison]], [[ibd-preventive-care]], [[ibd-endoscopic-scoring]], [[intestinal-ultrasound]], [[clostridioides-difficile]], [[primary-sclerosing-cholangitis]], [[colorectal-cancer]], [[colonoscopy]], [[colon-ischemia]], [[microscopic-colitis]], [[radiation-proctopathy]], [[pouchitis]], [[chronic-diarrhea]], [[nutrition-in-ibd]], [[ibd-in-malignancy]], [[liver-disease-in-pregnancy]], [[nausea-and-vomiting-of-pregnancy]], [[ostomy-management]], [[calcineurin-inhibitors]], [[endoscopic-mucosal-resection]], [[colorectal-esd]], [[endoscopic-full-thickness-resection]], [[toxic-megacolon]], [[polypectomy]], [[ibd-pain-management]]
+[[crohns-disease]], [[inflammatory-bowel-disease]], [[uc-vs-crohns-comparison]], [[ibd-preventive-care]], [[ibd-endoscopic-scoring]], [[intestinal-ultrasound]], [[clostridioides-difficile]], [[primary-sclerosing-cholangitis]], [[colorectal-cancer]], [[colonoscopy]], [[colon-ischemia]], [[microscopic-colitis]], [[radiation-proctopathy]], [[immune-checkpoint-inhibitor-colitis]], [[pouchitis]], [[chronic-diarrhea]], [[nutrition-in-ibd]], [[ibd-in-malignancy]], [[liver-disease-in-pregnancy]], [[nausea-and-vomiting-of-pregnancy]], [[ostomy-management]], [[calcineurin-inhibitors]], [[endoscopic-mucosal-resection]], [[colorectal-esd]], [[endoscopic-full-thickness-resection]], [[toxic-megacolon]], [[polypectomy]], [[ibd-pain-management]]
 
 ---
 

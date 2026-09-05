@@ -3,7 +3,7 @@ title: "Crohn's Disease"
 category: disease-script
 tags: [crohns, ibd, biologics, ileitis, colitis, perianal-fistula, stricture, fistula, anti-tnf]
 created: 2026-05-07
-updated: 2026-09-04
+updated: 2026-09-05
 sources: [acg-2025-crohns, aga-2025-crohns-pharm, aga-2021-crohns-pharm, aga-2023-biomarkers-cd, acg-2018-crohns, asge-2015-scenic-ibd-dysplasia, asge-2015-ibd, aga-2026-inpatient-ibd, aga-2026-therapeutic-endoscopy-ibd, aga-2024-intestinal-ultrasound, aga-2024-diet-nutrition-ibd, aga-2024-ibd-malignancy, aga-2024-pregnancy-gi-liver]
 ---
 
@@ -206,7 +206,7 @@ No single pathognomonic test. Diagnosis = integration of:
 ---
 
 ### Dietary & Nutritional Therapy
-*Full framework (diet by clinical state, EEN/CDED protocols, PN/SBS, malnutrition, micronutrients): [[nutrition-in-ibd]].* [[aga-2024-diet-nutrition-ibd]]
+*Full framework (diet by clinical state, EEN/CDED protocols, PN/[[short-bowel-syndrome|SBS]], malnutrition, micronutrients): [[nutrition-in-ibd]].* [[aga-2024-diet-nutrition-ibd]]
 
 - **[[nutrition-in-ibd#EEN|Exclusive enteral nutrition (EEN)]]** — induces clinical remission + endoscopic response (stronger evidence in children; remission 60–80%, ≈ corticosteroids); **first-line steroid-sparing** in pediatric CD; steroid-sparing **bridge** in adults (limited by adherence). Typically 6–8 wk of polymeric liquid formula only.
 - **[[nutrition-in-ibd#CDED (Partial Enteral Nutrition)|Crohn's disease exclusion diet (CDED)]]** — partial enteral nutrition; effective induction in **mild–moderate CD of short duration**; better tolerated than EEN in children; may salvage biologic loss-of-response.
@@ -461,7 +461,7 @@ No single pathognomonic test. Diagnosis = integration of:
 
 ## See Also
 
-[[ulcerative-colitis]], [[inflammatory-bowel-disease]], [[uc-vs-crohns-comparison]], [[ibd-preventive-care]], [[ibd-endoscopic-scoring]], [[ibd-pain-management]], [[intestinal-ultrasound]], [[clostridioides-difficile]], [[celiac-disease]], [[colorectal-cancer]], [[primary-sclerosing-cholangitis]], [[capsule-endoscopy]], [[colonoscopy]], [[chronic-diarrhea]], [[nutrition-in-ibd]], [[ibd-in-malignancy]], [[toxic-megacolon]], [[pouchitis]], [[liver-disease-in-pregnancy]], [[nausea-and-vomiting-of-pregnancy]], [[ostomy-management]], [[disorders-of-gut-brain-interaction]]
+[[ulcerative-colitis]], [[inflammatory-bowel-disease]], [[uc-vs-crohns-comparison]], [[ibd-preventive-care]], [[ibd-endoscopic-scoring]], [[ibd-pain-management]], [[intestinal-ultrasound]], [[clostridioides-difficile]], [[celiac-disease]], [[colorectal-cancer]], [[primary-sclerosing-cholangitis]], [[capsule-endoscopy]], [[colonoscopy]], [[chronic-diarrhea]], [[nutrition-in-ibd]], [[short-bowel-syndrome]], [[ibd-in-malignancy]], [[toxic-megacolon]], [[pouchitis]], [[liver-disease-in-pregnancy]], [[nausea-and-vomiting-of-pregnancy]], [[ostomy-management]], [[disorders-of-gut-brain-interaction]]
 
 ---
 

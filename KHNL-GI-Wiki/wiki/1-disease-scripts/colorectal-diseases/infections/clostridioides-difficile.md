@@ -3,8 +3,26 @@ title: "Clostridioides difficile Infection"
 category: disease-script
 tags: [cdiff, clostridioides-difficile, colitis, vancomycin, fidaxomicin, fmt, colorectal]
 created: 2026-05-15
-updated: 2026-09-03
+updated: 2026-09-05
 sources: [acg-2021-cdiff, aga-2024-fmt, aga-2026-cdiff-adults, aga-2026-cdiff-ibd, feuerstadt-2022-ser109-cdiff]
+---
+
+## Contents
+- [[#Assessment]]
+  - [[#Establishing the Diagnosis]]
+  - [[#Severity Assessment]]
+  - [[#Classification / Typing]]
+- [[#Differential Diagnosis]]
+- [[#Diagnostics]]
+- [[#Therapeutics]]
+  - [[#Overall Pathway]]
+  - [[#Choosing Initial Therapy (nonfulminant)]]
+  - [[#Severe Initial CDI]]
+  - [[#Fulminant CDI]]
+  - [[#Recurrent CDI]]
+  - [[#Prevention]]
+  - [[#Special Populations]]
+
 ---
 
 ## Assessment

@@ -3,11 +3,9 @@ title: "Nausea and Vomiting of Pregnancy (& Hyperemesis Gravidarum)"
 category: disease-script
 tags: [pregnancy, nausea, vomiting, nvp, hyperemesis-gravidarum, puqe, doxylamine, pyridoxine, ondansetron, antiemetics]
 created: 2026-07-26
-updated: 2026-09-02
+updated: 2026-09-05
 sources: [aga-2024-pregnancy-gi-liver]
 ---
-
-# Nausea and Vomiting of Pregnancy (& Hyperemesis Gravidarum)
 
 ## Contents
 - [[#Assessment]]

@@ -49,7 +49,9 @@ Drug **class** of gastric acid suppressants that block the H⁺/K⁺-ATPase **co
 | Milder erosive esophagitis (**[[reflux-testing\|Los Angeles (LA) grade]] A/B**) | Generally **not first-line**; use if documented reflux fails twice-daily PPIs | 5 |
 | Severe erosive esophagitis (**LA grade C/D**) | **May use** for healing + maintenance; benefit over standard-dose PPI may not justify routine first-line use given cost | 6 |
 
-- Severe-EE data: vonoprazan 20 mg vs lansoprazole 30 mg — healing 92% vs 72% at 8 wk; maintenance 75–77% vs 62% ([[aga-2024-pcab]]).
+- Severe-EE data — the single US/Europe trial (Laine 2023), **and the two phases used different doses** ([[aga-2024-pcab]] Table 2):
+  - **Healing, 8 wk:** vonoprazan **20 mg** daily vs lansoprazole **30 mg** daily → LA C/D healing **92% vs 72%** (overall EE 93% vs 85%).
+  - **Maintenance of healing, 24 wk:** vonoprazan **10–20 mg** daily vs lansoprazole **15 mg** daily → LA C/D **75–77% vs 62%** (overall 79–81% vs 72%).
 
 ### Helicobacter pylori
 

@@ -3,11 +3,9 @@ title: "Cyclic Vomiting Syndrome (CVS)"
 category: disease-script
 tags: [cyclic-vomiting-syndrome, cvs, dgbi, vomiting, migraine, foregut, motility]
 created: 2026-07-18
-updated: 2026-09-02
+updated: 2026-09-05
 sources: [aga-2024-cvs, aga-2024-chs, rome-v-2026-dgbi]
 ---
-
-# Cyclic Vomiting Syndrome (CVS)
 
 Chronic [[disorders-of-gut-brain-interaction|disorder of gut–brain interaction (DGBI)]] of **stereotyped, recurrent discrete episodes of intense vomiting/retching separated by symptom-free intervals**; strong migraine association. Common (~2% US prevalence, more common in women) but markedly **under-diagnosed and under-treated** — most patients endure years of diagnostic delay and futile testing; half visit the ED ≥1×/yr and 1 in 3 become disabled ([[aga-2024-cvs]]). [[cannabinoid-hyperemesis-syndrome|Cannabinoid hyperemesis syndrome]] is a proposed subtype.
 

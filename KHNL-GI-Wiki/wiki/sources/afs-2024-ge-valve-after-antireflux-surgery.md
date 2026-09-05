@@ -99,7 +99,7 @@ Net effect: reduce the occurrence of reflux **and** restrict the diameter of EGJ
 - [[antireflux-surgery]] — supplies the **post-operative endoscopic assessment** the page lacked entirely: the four-attribute nomenclature, the per-procedure groove-depth table, and the "can you see through the wrap" failure sign for Nissen.
 - [[reflux-testing]] — extends the endoscopic GEJ-assessment section beyond the native valve; also supplies the **insufflation and retroflexed-pull technique** that prevents under-grading, which applies to native-valve assessment too.
 - [[gerd]] — the workup of recurrent GERD after anti-reflux surgery.
-- [[transoral-incisionless-fundoplication]] *(queued, not yet created)* and [[magnetic-sphincter-augmentation]] — procedure-specific expected appearance.
+- [[antireflux-surgery|TIF]] and [[antireflux-surgery|magnetic sphincter augmentation (MSA/LINX)]] — procedure-specific expected appearance. Both currently live on [[antireflux-surgery]], which is their single home in the wiki; do not create separate pages without moving that content rather than copying it.
 - [[hiatal-hernia]] — the "hiatal aperture should no longer be visible in retroflexion" criterion.
 
 ## Contradictions / Open Questions

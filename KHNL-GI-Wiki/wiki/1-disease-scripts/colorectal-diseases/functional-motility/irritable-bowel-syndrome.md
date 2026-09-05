@@ -3,9 +3,24 @@ title: "Irritable Bowel Syndrome"
 category: disease-script
 tags: [ibs, dgbi, functional, colorectal, motility, rome-iv, rome-v, fodmap, rifaximin, linaclotide, plecanatide, tca]
 created: 2026-05-16
-updated: 2026-09-04
+updated: 2026-09-05
 sources: [acg-2020-ibs, rome-v-2026-dgbi, acg-2020-sibo, aga-2022-ibs-c, aga-2022-ibs-d]
 ---
+
+## Contents
+- [[#Assessment]]
+  - [[#Establishing the Diagnosis]]
+  - [[#Severity Assessment]]
+  - [[#Classification / Typing]]
+- [[#Differential Diagnosis]]
+- [[#Diagnostics]]
+- [[#Therapeutics]]
+  - [[#Cross-subtype (any IBS)]]
+  - [[#IBS-C]]
+  - [[#IBS-D]]
+  - [[#Stepwise Approach]]
+- [[#See Also]]
+- [[#Sources]]
 
 ## Assessment
 
@@ -62,6 +77,8 @@ Subtypes by Bristol Stool Form Scale **on days with abnormal stools** (assess of
 | IBS-U | neither >25% nor matches above | |
 
 >50% of patients change predominant subtype over 1 year — re-classify periodically.
+
+> **Decision gap (corpus-blocked):** subtyping runs entirely on the Bristol Stool Form Scale, but **no ingested source prints the 7 Bristol types** — the corpus uses the scale without defining it. The gap and what would close it are documented on [[chronic-constipation]]; do not reconstruct the types from memory.
 
 ---
 
@@ -129,13 +146,14 @@ Subtypes by Bristol Stool Form Scale **on days with abnormal stools** (assess of
 | Agent | Dose | ACG 2020 | AGA 2022 ([[aga-2022-ibs-c]]) |
 |---|---|---|---|
 | **[[linaclotide\|Linaclotide]]** (GC-C agonist) | 290 µg daily | Strong/High | **Strong**/High |
-| **[[plecanatide]]** (GC-C agonist) | 3 or 6 mg daily | Strong/High | Conditional/Moderate |
+| **[[plecanatide]]** (GC-C agonist) | **3 mg daily** — the only approved dose | Strong/High (worded "3 or 6 mg") | Conditional/Moderate |
 | **[[lubiprostone\|Lubiprostone]]** (Cl⁻ channel activator) | 8 µg BID | Strong/Moderate | Conditional/Moderate |
 | **[[tenapanor\|Tenapanor]]** (NHE3 inhibitor) | **50 mg BID** | not addressed | Conditional/Moderate |
 | **[[tegaserod\|Tegaserod]]** (5-HT4 agonist) | 6 mg BID | Strong (Conditional)/Low | Conditional/Moderate |
 | PEG laxatives | — | Against (global symptoms; helps stool form only) | Suggests using (Conditional/Low) |
 
 - **Tegaserod eligibility (both guidelines):** women **<65** without a history of cardiovascular ischemic events (MI, stroke, TIA, angina) — ACG adds ≤1 CV risk factor and failure of secretagogues.
+- **Plecanatide dose — 3 mg, not 6.** [[acg-2020-ibs|ACG 2020]] states the recommendation as "plecanatide **3 or 6 mg**" (the two doses trialled); the newer [[aga-2022-ibs-c|AGA 2022]] records that **only 3 mg once daily is FDA-approved, for IBS-C *and* CIC** — there is no separate higher IBS-C dose. Newer guideline governs; details on [[plecanatide]].
 
 ### IBS-D
 
@@ -160,8 +178,10 @@ Subtypes by Bristol Stool Form Scale **on days with abnormal stools** (assess of
 5. Gut-directed psychotherapy (CBT/hypnotherapy) — particularly when stress modulates symptoms
 6. Refractory: re-examine diagnosis; ARM+BET; specialty referral; consider neuromodulators
 
+---
+
 ## See Also
-[[disorders-of-gut-brain-interaction]], [[abdominal-bloating-and-distention]], [[postinfectious-ibs]], [[chronic-idiopathic-constipation]], [[defecation-disorders]], [[small-intestinal-bacterial-overgrowth]], [[intestinal-methanogen-overgrowth]], [[microscopic-colitis]], [[bile-acid-diarrhea]], [[celiac-disease]], [[alpha-gal-syndrome]], [[rifaximin]], [[linaclotide]], [[plecanatide]], [[lubiprostone]], [[tenapanor]], [[alosetron]], [[eluxadoline]], [[tegaserod]], [[loperamide]], [[probiotics]], [[anorectal-manometry]], [[colonoscopy]], [[fmt]], [[acute-pancreatitis]], [[colon-ischemia]]
+[[disorders-of-gut-brain-interaction]], [[chronic-constipation]], [[abdominal-bloating-and-distention]], [[postinfectious-ibs]], [[chronic-idiopathic-constipation]], [[defecation-disorders]], [[small-intestinal-bacterial-overgrowth]], [[intestinal-methanogen-overgrowth]], [[microscopic-colitis]], [[bile-acid-diarrhea]], [[celiac-disease]], [[alpha-gal-syndrome]], [[rifaximin]], [[linaclotide]], [[plecanatide]], [[lubiprostone]], [[tenapanor]], [[alosetron]], [[eluxadoline]], [[tegaserod]], [[loperamide]], [[probiotics]], [[anorectal-manometry]], [[colonoscopy]], [[fmt]], [[acute-pancreatitis]], [[colon-ischemia]]
 
 ---
 

@@ -3,7 +3,7 @@ title: "Familial Atypical Multiple Mole Melanoma (FAMMM) Syndrome"
 category: disease-script
 tags: [genetics, hereditary-cancer, melanoma, pancreatic-cancer, cdkn2a]
 created: 2026-06-04
-updated: 2026-09-04
+updated: 2026-09-05
 sources: [asge-2022-pancreatic-cancer-screening, acg-2015-hereditary-gi-cancer]
 ---
 
@@ -48,6 +48,8 @@ sources: [asge-2022-pancreatic-cancer-screening, acg-2015-hereditary-gi-cancer]
 
 - RR ≥10 places FAMMM in the **very-high-risk** tier, which is why screening starts **2 standard deviations** below the mean age of pancreatic cancer diagnosis (vs 1 SD for lower-risk conditions). [[asge-2022-pancreatic-cancer-screening]]
 
+---
+
 ## Differential Diagnosis
 
 *Workup: see [[pancreatic-cancer-screening]].*
@@ -56,6 +58,8 @@ sources: [asge-2022-pancreatic-cancer-screening, acg-2015-hereditary-gi-cancer]
 - **[[familial-pancreatic-cancer|Familial pancreatic cancer (FPC)]]** — ≥2 first-degree relatives with pancreatic cancer **without** an association with a known hereditary cancer syndrome. [[asge-2022-pancreatic-cancer-screening]]
 - **[[brca-pathogenic-variants|BRCA1/2]] and PALB2/ATM carriers** — lower RR; different age-to-start.
 - **[[hereditary-pancreatitis]]** — recurrent pancreatitis phenotype; highest single-syndrome RR.
+
+---
 
 ## Diagnostics
 
@@ -66,6 +70,8 @@ sources: [asge-2022-pancreatic-cancer-screening, acg-2015-hereditary-gi-cancer]
 - MRI technique when used for screening: **with and without IV contrast, minimum 1.5-T magnet** (3-T may add detection of small lesions) [[asge-2022-pancreatic-cancer-screening]]
 - [[pancreatic-cysts|Cystic pancreatic lesions]] found on surveillance require specialist evaluation.
 
+---
+
 ## Therapeutics
 
 - Management is **surveillance**, not treatment of the syndrome itself — see [[pancreatic-cancer-screening]] for the full program.
@@ -73,6 +79,8 @@ sources: [asge-2022-pancreatic-cancer-screening, acg-2015-hereditary-gi-cancer]
 - **Interval: annual** *(ASGE 2022 Rec 4; conditional, very low)* — the same annual cadence ACG 2015 Rec 23 gives [[asge-2022-pancreatic-cancer-screening]]
   - Contrast: the generic hereditary-pancreatic-cancer start age is 50 (or 10 y before earliest family cancer); Peutz-Jeghers starts at 35. [[acg-2015-hereditary-gi-cancer]]
 - Detected lesions are managed as [[pancreatic-cancer|pancreatic cancer]] per that page.
+
+---
 
 ## See Also
 

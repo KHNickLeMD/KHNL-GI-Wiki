@@ -15,6 +15,8 @@ Mechanisms of iron handling and the laboratory thresholds used to detect overloa
 - [[#Primary Iron Overload (Inherited)]]
 - [[#Secondary Iron Overload]]
 - [[#Relevant Lab Tests]]
+- [[#See Also]]
+- [[#Sources]]
 
 ## Iron Absorption Physiology
 

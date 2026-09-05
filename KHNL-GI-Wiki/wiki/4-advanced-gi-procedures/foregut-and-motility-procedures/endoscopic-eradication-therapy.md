@@ -3,7 +3,7 @@ title: "Endoscopic Eradication Therapy (EET)"
 category: advanced-procedure
 tags: [barretts-esophagus, eet, rfa, emr, esd, cryotherapy, dysplasia, esophageal-adenocarcinoma, foregut]
 created: 2026-06-04
-updated: 2026-08-31
+updated: 2026-09-05
 sources: [asge-2018-barretts-eet, aga-2024-barretts-eet, acg-2022-barretts, asge-2019-barretts-screening-surveillance, aga-2025-barretts-surveillance]
 ---
 
@@ -58,6 +58,7 @@ After EMR of all visible lesions, **ablate the remaining flat Barrett's segment*
 
 - **[[radiofrequency-ablation|Radiofrequency ablation (RFA)]]** — preferred primary ablative modality (widest RCT/safety evidence).
 - **Cryotherapy** (spray liquid nitrogen or cryoballoon) — acceptable alternative, especially for RFA-refractory cases; no RCT vs RFA.
+- **Hybrid [[argon-plasma-coagulation|APC]]** — one of several ablation options, but **RFA carries the highest-quality and most extensive RCT evidence** ([[aga-2024-barretts-eet]]); [[asge-2018-barretts-eet|ASGE 2018]] notes APC is **not** the current standard even though PDT/APC were the modalities in the trial underpinning the "ablate the residual segment" recommendation. Settings, technique, and adverse events on [[argon-plasma-coagulation]].
 
 ---
 
@@ -105,7 +106,7 @@ High-volume centers with access to expert GI pathology, advanced imaging, EMR/ES
 
 ## See Also
 
-[[barretts-esophagus]], [[radiofrequency-ablation]], [[endoscopic-mucosal-resection]], [[endoscopic-submucosal-dissection]], [[polypectomy]], [[endoscopic-ultrasound]], [[esophageal-adenocarcinoma]], [[esophageal-cancer]], [[gerd]], [[upper-endoscopy]], [[endoscopic-oncology]]
+[[barretts-esophagus]], [[radiofrequency-ablation]], [[argon-plasma-coagulation]], [[endoscopic-mucosal-resection]], [[endoscopic-submucosal-dissection]], [[polypectomy]], [[endoscopic-ultrasound]], [[esophageal-adenocarcinoma]], [[esophageal-cancer]], [[gerd]], [[upper-endoscopy]], [[endoscopic-oncology]]
 
 ---
 

@@ -3,11 +3,9 @@ title: "Cannabinoid Hyperemesis Syndrome (CHS)"
 category: disease-script
 tags: [cannabinoid-hyperemesis-syndrome, chs, cyclic-vomiting-syndrome, cannabis, dgbi, capsaicin, amitriptyline, foregut]
 created: 2026-07-18
-updated: 2026-09-02
+updated: 2026-09-05
 sources: [aga-2024-chs, aga-2024-cvs, rome-v-2026-dgbi]
 ---
-
-# Cannabinoid Hyperemesis Syndrome (CHS)
 
 Chronic [[disorders-of-gut-brain-interaction|disorder of gut–brain interaction]] of cyclic vomiting, nausea, and abdominal pain arising from chronic (years), heavy (daily/near-daily) cannabis use; predominantly male. Rising and underrecognized ([[aga-2024-chs]]). Included in the Rome classification of DGBI since Rome IV (2016).
 

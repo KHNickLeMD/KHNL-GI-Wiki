@@ -3,7 +3,7 @@ title: "GLP-2 Agonists (Teduglutide)"
 category: med
 tags: [glp-2, teduglutide, short-bowel-syndrome, intestinal-failure, parenteral-nutrition, high-ostomy-output]
 created: 2026-07-22
-updated: 2026-09-01
+updated: 2026-09-05
 sources: [aga-2024-diet-nutrition-ibd, aga-2023-ostomies, aga-2025-endoscopic-enteral-access]
 ---
 
@@ -34,7 +34,8 @@ Glucagon-like peptide-2 (GLP-2) agonists are **intestinotrophic** peptides used 
 - **Gap — not in ingested sources.** The ingested AGA clinical practice updates reference GLP-2 agonists only for their *role* in SBS/HOO management; they give **no dosing, monitoring, or adverse-effect detail**. A dedicated SBS / intestinal-failure guideline or the teduglutide (STEPS) trial is needed to add agent-level dosing and safety. Do not fill from memory.
 
 ## See Also
-[[nutrition-in-ibd]], [[nutrition-in-hospitalized-patients]], [[crohns-disease]], [[inflammatory-bowel-disease]], [[ostomy-management]], [[semaglutide]], [[enteral-access]]
+
+[[short-bowel-syndrome]], [[glp-1-receptor-agonists]], [[nutrition-in-ibd]], [[nutrition-in-hospitalized-patients]], [[crohns-disease]], [[inflammatory-bowel-disease]], [[ostomy-management]], [[semaglutide]], [[enteral-access]]
 
 ---
 

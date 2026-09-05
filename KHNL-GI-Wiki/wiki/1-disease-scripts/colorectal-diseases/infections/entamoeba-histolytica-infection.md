@@ -3,7 +3,7 @@ title: "Entamoeba histolytica Infection (Amebiasis)"
 category: disease-script
 tags: [entamoeba, amebiasis, amebic-dysentery, parasitic-diarrhea, liver-abscess, travelers-diarrhea, metronidazole]
 created: 2026-05-19
-updated: 2026-08-28
+updated: 2026-09-05
 sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
 ---
 
@@ -47,7 +47,7 @@ sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
 | Multiplex GI PCR panel | Includes *E. histolytica*; culture-independent methods recommended at least as an adjunct to traditional testing *(strong, low)* [[acg-2016-acute-diarrhea]] (Rec 3) |
 | Ova & parasite microscopy | **Cannot** speciate *E. histolytica* vs *E. dispar* — insufficient alone [[acg-2016-acute-diarrhea]] |
 | Serology | Not recommended to establish the etiology of infectious diarrhea *(strong, low)* [[idsa-2017-infectious-diarrhea]] (Rec 21) |
-| Endoscopy / proctoscopy | Consider in persistent unexplained diarrhea with AIDS, acute diarrhea with colitis/proctitis, or persistent diarrhea with anal intercourse *(strong, low)* [[idsa-2017-infectious-diarrhea]] (Rec 24) |
+| [[colonoscopy\|Endoscopy]] / proctoscopy | Consider in persistent unexplained diarrhea with AIDS, acute diarrhea with colitis/proctitis, or persistent diarrhea with anal intercourse *(strong, low)* [[idsa-2017-infectious-diarrhea]] (Rec 24) |
 
 ---
 
@@ -66,7 +66,7 @@ sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
 
 ## See Also
 
-[[acute-diarrhea]], [[fever-returning-traveler]], [[hiv-aids-related-diarrhea]], [[giardiasis]], [[cryptosporidiosis]], [[shigellosis]], [[campylobacter-infection]], [[salmonella-infection]], [[enterotoxigenic-e-coli]], [[clostridioides-difficile]], [[inflammatory-bowel-disease]], [[ulcerative-colitis]], [[loperamide]]
+[[acute-diarrhea]], [[fever-returning-traveler]], [[hiv-aids-related-diarrhea]], [[giardiasis]], [[cryptosporidiosis]], [[shigellosis]], [[campylobacter-infection]], [[salmonella-infection]], [[enterotoxigenic-e-coli]], [[clostridioides-difficile]], [[inflammatory-bowel-disease]], [[ulcerative-colitis]], [[colonoscopy]], [[loperamide]]
 
 ---
 

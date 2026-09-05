@@ -3,11 +3,21 @@ title: "Postinfectious Irritable Bowel Syndrome (PI-IBS)"
 category: disease-script
 tags: [ibs, postinfectious-ibs, travelers-diarrhea, gastroenteritis, functional-gi, rome-iv, giardia, campylobacter]
 created: 2026-05-19
-updated: 2026-09-04
+updated: 2026-09-05
 sources: [acg-2016-acute-diarrhea, acg-2020-ibs, rome-v-2026-dgbi]
 ---
 
 Postinfectious [[irritable-bowel-syndrome|IBS]] (PI-IBS) is a chronic functional sequela of [[acute-diarrhea|acute infectious gastroenteritis]], including traveler's diarrhea (TD). It is a paradigm shift in IBS pathogenesis — an **external event (enteric infection) produces prolonged and permanent changes in GI function that are *not* directly mediated by persistence of the infectious agent.** [[acg-2016-acute-diarrhea]]
+
+## Contents
+- [[#Assessment]]
+  - [[#Establishing the Diagnosis]]
+  - [[#Severity Assessment]]
+- [[#Differential Diagnosis]]
+- [[#Diagnostics]]
+- [[#Therapeutics]]
+- [[#See Also]]
+- [[#Sources]]
 
 ## Assessment
 

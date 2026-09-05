@@ -3,9 +3,20 @@ title: "Proctalgia Syndromes"
 category: disease-script
 tags: [proctalgia, levator-ani, chronic-proctalgia, proctalgia-fugax, anorectal, pelvic-floor, colorectal]
 created: 2026-05-16
-updated: 2026-09-03
+updated: 2026-09-05
 sources: [acg-2021-anorectal-disorders, rome-v-2026-dgbi]
 ---
+
+## Contents
+- [[#Assessment]]
+  - [[#Establishing the Diagnosis]]
+- [[#Differential Diagnosis]]
+- [[#Diagnostics]]
+- [[#Therapeutics]]
+  - [[#Levator Ani Syndrome]]
+  - [[#Proctalgia Fugax]]
+- [[#See Also]]
+- [[#Sources]]
 
 ## Assessment
 

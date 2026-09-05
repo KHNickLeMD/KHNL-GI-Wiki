@@ -21,6 +21,8 @@ Liver biopsy is the procedural acquisition of hepatic tissue for histological as
 - [[#Complications]]
 - [[#Sample Adequacy]]
 - [[#Noninvasive Alternatives]]
+- [[#See Also]]
+- [[#Sources]]
 
 ## Indications
 Liver biopsy should be considered when the diagnosis is in question and knowledge of a specific diagnosis is likely to alter management (Rec 1, Class I/B), and as a prognostic adjunct when fibrosis stage may guide treatment (Rec 2, Class I/B). Common indications (AASLD Tables 3-4):

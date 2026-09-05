@@ -3,7 +3,7 @@ title: "Peutz-Jeghers Syndrome"
 category: disease-script
 tags: [peutz-jeghers, pjs, stk11, lkb1, hamartoma, hereditary-crc, pancreatic-cancer, small-bowel, intussusception, genetic-testing]
 created: 2026-05-19
-updated: 2026-09-03
+updated: 2026-09-05
 sources: [acg-2015-hereditary-gi-cancer, aga-2022-hamartomatous-polyposis]
 ---
 
@@ -173,7 +173,7 @@ Overall risk of developing any cancer by age: 1% (age 20), 3% (age 30), 19% (age
 
 - **Colectomy + IRA** (or occasionally proctocolectomy + IPAA) is indicated for:
   - Cancer, high-grade dysplasia, or polyposis not manageable endoscopically
-- Partial or complete gastrectomy may be needed for massive gastric polyposis or [[gastric-adenocarcinoma|gastric cancer]]
+- Partial or complete gastrectomy may be needed for massive [[gastric-polyps|gastric polyposis]] or [[gastric-adenocarcinoma|gastric cancer]]
 - Goal of surgery is polyp control; avoid total gastrectomy if possible
 
 ### Chemoprevention
@@ -185,7 +185,7 @@ Overall risk of developing any cancer by age: 1% (age 20), 3% (age 30), 19% (age
 
 ## See Also
 
-[[colorectal-polyposis]], [[familial-adenomatous-polyposis]], [[lynch-syndrome]], [[juvenile-polyposis-syndrome]], [[cowden-syndrome]], [[hereditary-mixed-polyposis-syndrome]], [[brca-pathogenic-variants]], [[colorectal-cancer]], [[colonoscopy]], [[upper-endoscopy]], [[capsule-endoscopy]], [[endoscopic-ultrasound]], [[pancreatic-cancer]], [[pancreatic-cancer-screening]], [[gastric-adenocarcinoma]], [[device-assisted-enteroscopy]], [[polypectomy]], [[mri-mrcp]], [[fammm-syndrome]]
+[[colorectal-polyposis]], [[familial-adenomatous-polyposis]], [[lynch-syndrome]], [[juvenile-polyposis-syndrome]], [[cowden-syndrome]], [[hereditary-mixed-polyposis-syndrome]], [[brca-pathogenic-variants]], [[colorectal-cancer]], [[colonoscopy]], [[upper-endoscopy]], [[capsule-endoscopy]], [[endoscopic-ultrasound]], [[pancreatic-cancer]], [[pancreatic-cancer-screening]], [[gastric-adenocarcinoma]], [[gastric-polyps]], [[device-assisted-enteroscopy]], [[polypectomy]], [[mri-mrcp]], [[fammm-syndrome]]
 
 ---
 

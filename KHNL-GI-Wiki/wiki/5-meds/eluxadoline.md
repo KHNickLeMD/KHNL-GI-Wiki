@@ -3,7 +3,7 @@ title: "Eluxadoline"
 category: med
 tags: [ibs, ibs-d, mu-opioid-agonist, delta-opioid-antagonist, viberzi]
 created: 2026-07-26
-updated: 2026-09-02
+updated: 2026-09-05
 sources: [aga-2022-ibs-d, acg-2020-ibs]
 ---
 
@@ -29,7 +29,7 @@ Two phase 3 RCTs (100 mg BID, ~808 vs 809 placebo; 26-week data): [[aga-2022-ibs
 - Also superior for stool consistency (RR 0.84), 50% urgency-free days (RR 0.84), abdominal pain (RR 0.92), and clinically meaningful IBS-QOL improvement.
 
 ## Adverse Effects / Monitoring
-- Most common: **constipation (~8%)**, nausea (~7%), abdominal pain (~7%); constipation tends to occur in the first 3 months. [[acg-2020-ibs]]
+- Most common: **constipation (~8%)**, nausea (**7.7%** per [[acg-2020-ibs]]; ~7% per [[aga-2022-ibs-d]]), abdominal pain (~7%, [[aga-2022-ibs-d]]); constipation tends to occur in the first 3 months.
 - Discontinuation due to AEs ~**8% (eluxadoline) vs 4% (placebo)**; NNH 25 (75 mg) / 23 (100 mg).
 - **Pancreatitis / SOS** are the signal safety events (see contraindications); lipase normalizes within days of stopping. Counsel patients to report severe abdominal pain.
 

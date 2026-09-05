@@ -85,7 +85,8 @@ Framework for diet and nutritional therapy across the [[inflammatory-bowel-disea
 
 ## Micronutrient Monitoring
 - **Vitamin D and [[iron-deficiency-anemia|iron]]** — monitor all patients (bone-densitometry indications for the vitamin-D/steroid-exposed IBD patient are on [[ibd-preventive-care]]). Iron: CBC + ferritin + transferrin saturation + CRP; q6–12 mo in remission/mild, **q3 mo** if active. IV iron faster/better tolerated than oral; oral reasonable in mild/inactive disease.
-- **Vitamin B12** — monitor with extensive ileal disease or prior ileal surgery (resection >30 cm or ileoanal pouch); replete **1000 µg IM/SC q1–4 wk for life**.
+- **Vitamin B12** — monitor with extensive ileal disease or prior ileal surgery (resection >30 cm or ileoanal pouch); replete **1000 µg IM/SC q1–4 wk for life** (IM = faster uptake; SC = more comfortable and self-administrable; both preferred over sublingual for long-term repletion).
+  - *Unit note: [[aga-2024-diet-nutrition-ibd|AGA 2024]] prints this as "1000 mg of vitamin B12" — a typo in the source. Cyanocobalamin injections are dosed in **µg**; the value 1000 and the interval are unchanged.*
 - Also consider zinc, copper, folate (esp. on methotrexate/sulfasalazine), fat-soluble vitamins; many are acute-phase reactants — recheck in quiescent disease.
 
 ## See Also

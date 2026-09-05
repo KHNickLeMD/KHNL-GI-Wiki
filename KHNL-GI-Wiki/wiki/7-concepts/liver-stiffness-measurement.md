@@ -54,7 +54,7 @@ The full **"rule of 5"** algorithm, the three Baveno VIII CSPH rule-in criteria,
 - The Baveno VII definition of a clinically significant *decrease* — **≥20% drop with LSM <20 kPa, or any drop to <10 kPa** (2.13) — is not restated in Baveno VIII; treat the ≥30% relative-change rule as the current one.
 - **False elevation** with: recent food intake, active hepatitis / ALT >3× ULN, cholestasis/biliary obstruction, hepatic congestion, [[obesity]] (unreliable — use XL probe), and infiltrative disease. Cut-offs are less reliable in [[nafld-masld|MASLD]] and [[primary-sclerosing-cholangitis|PSC]] with dominant strictures.
 - **LSM-based criteria cannot be applied in [[porto-sinusoidal-vascular-disorder|PSVD/NCPF]]** ([[baveno-viii-2026-portal-hypertension]] 8.48) — but **spleen** stiffness can: SSM <40 kPa with bilirubin <1 mg/dL spares endoscopy there (8.47).
-- **Paediatrics:** LSM is a valuable complementary tool for identifying children at risk of portal hypertension and monitoring progression, but **management cannot rely on LSM and/or SSM alone** — the paediatric varices cut-offs are not yet validated (1.25–1.26).
+- **Paediatrics:** LSM is a valuable complementary tool for identifying children at risk of portal hypertension and monitoring progression, but **management cannot rely on LSM and/or SSM alone** — the paediatric [[variceal-upper-gi-bleeding|varices]] cut-offs are not yet validated (1.25–1.26).
 
 ---
 

@@ -3,7 +3,7 @@ title: "Artificial Intelligence in Endoscopy"
 category: concept
 tags: [artificial-intelligence, cade, cadx, colonoscopy, adenoma-detection, optical-diagnosis, resect-and-discard, quality]
 created: 2026-07-30
-updated: 2026-08-28
+updated: 2026-09-05
 sources: [aga-2023-ai-colon-polyp, aga-2025-cade-colonoscopy]
 ---
 
@@ -23,6 +23,8 @@ Framework for AI computer-vision tools in GI endoscopy, focused on [[colonoscopy
 - [[#Computer-Aided Quality Assessment]]
 - [[#Attitudes and Adoption Barriers]]
 - [[#Knowledge Gaps]]
+- [[#See Also]]
+- [[#Sources]]
 
 ## Three Classes of AI Tools
 - **CADe (detection):** flags potential polyps in real time alongside the endoscopist.

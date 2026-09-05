@@ -7,6 +7,20 @@ updated: 2026-09-05
 sources: [acg-2015-small-bowel-bleeding]
 ---
 
+## Contents
+- [[#Assessment]]
+  - [[#Establishing the Diagnosis]]
+  - [[#Severity Assessment]]
+- [[#Differential Diagnosis]]
+- [[#Diagnostics]]
+- [[#Therapeutics]]
+  - [[#Whom to treat — the threshold decision]]
+  - [[#Endoscopic therapy]]
+  - [[#Medical therapy]]
+  - [[#Surgery]]
+- [[#See Also]]
+- [[#Sources]]
+
 ## Assessment
 
 ### Establishing the Diagnosis

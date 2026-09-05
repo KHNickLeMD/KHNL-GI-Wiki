@@ -3,7 +3,7 @@ title: "Direct-Acting Antivirals (DAAs)"
 category: med
 tags: [HCV, hepatitis-c, direct-acting-antivirals, DAA, sofosbuvir, velpatasvir, glecaprevir, pibrentasvir, ledipasvir, NS5A, NS5B, NS3-4A, pangenotypic]
 created: 2026-05-28
-updated: 2026-09-01
+updated: 2026-09-05
 sources: [aasld-idsa-2023-hcv, aga-2025-hbv-reactivation]
 ---
 
@@ -57,9 +57,9 @@ DAA-treated HCV is one of the exposures the AGA 2025 HBVr guideline scores expli
 
 ## Key DDIs
 
-- **Cyclosporine** significantly increases the AUC of elbasvir/grazoprevir and of SOF/VEL/VOX — **do not coadminister**
+- **[[calcineurin-inhibitors|Cyclosporine]]** significantly increases the AUC of elbasvir/grazoprevir and of SOF/VEL/VOX — **do not coadminister**
 - **G/P + cyclosporine >100 mg/day** — not recommended
-- [[calcineurin-inhibitors|Calcineurin inhibitor]] interactions are common post–[[liver-transplantation|liver transplant]]; also monitor **INR on warfarin** (subtherapeutic anticoagulation) and **glucose on diabetes medication** (hypoglycemia) during therapy
+- Calcineurin inhibitor interactions are common post–[[liver-transplantation|liver transplant]]; also monitor **INR on warfarin** (subtherapeutic anticoagulation) and **glucose on diabetes medication** (hypoglycemia) during therapy
 
 ## See Also
 

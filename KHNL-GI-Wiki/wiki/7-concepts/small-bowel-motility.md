@@ -3,7 +3,7 @@ title: "Small Bowel Motility"
 category: concept
 tags: [small-bowel, motility, mmc, migrating-motor-complex, sibo, dysmotility]
 created: 2026-05-19
-updated: 2026-08-26
+updated: 2026-09-05
 sources: [acg-2020-sibo]
 ---
 
@@ -37,7 +37,7 @@ Small bowel motility is one of several mechanisms that keep the small intestine 
 ## Anatomic / Stasis Risk Factors (non-motility)
 
 - **Colectomy**, partial or complete, **especially with loss of the ileocecal valve** → retrograde colonization of the small bowel
-- Small bowel **diverticulosis**, **fistula**, post–**Roux-en-Y**, **ileocolonic anastomosis**, post-radiation **stricture/adhesion** — all show higher SIBO prevalence
+- Small bowel **diverticulosis**, **fistula**, post–**[[bariatric-surgery|Roux-en-Y]]**, **ileocolonic anastomosis**, post-radiation **stricture/adhesion** — all show higher SIBO prevalence
 - **Advanced age** and **female sex** are associated with higher SIBO likelihood
 - ⚠ **Strictures causing partial/fixed obstruction** are an obvious theoretical cause of stasis, but ACG 2020 states there are **no solid peer-reviewed publications validating** them as a SIBO risk factor.
 

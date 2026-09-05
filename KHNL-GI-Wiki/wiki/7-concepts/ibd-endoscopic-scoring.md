@@ -150,12 +150,12 @@ Standardized endoscopic scoring indices for [[ulcerative-colitis]] (MES, UCEIS) 
 - **PICaSSO** (Paddington International Virtual Chromoendoscopy Score): scores **mucosal changes** (elongated crypts, scars, micro-erosions, ulcers) and **vascular changes** (sparse vessels, vessel dilation, crowding, bleeding); **range 0–15**, **endoscopic remission ≤3**. Strong correlation with 5 histological scores; PICaSSO remission **not inferior** to combined endoscopy + histology for predicting clinical outcomes.
 - **Endocytoscopy and probe-based [[confocal-laser-endomicroscopy]]:** ultra-structural characterization predicting outcomes, but interpretation is subjective and needs high expertise/specialized equipment (referral centers only).
 - **[[artificial-intelligence-endoscopy|Artificial intelligence]]:** used to grade UC activity/extent; reduces practice variability and improves endoscopy quality — more studies needed.
-- **Transmural healing** endpoints explored via [[intestinal-ultrasound]] and MRI (MaRIA score).
+- **Transmural healing** endpoints explored via [[intestinal-ultrasound]] and [[mri-mrcp|MRI]] (MaRIA score).
 - ⚠ **Pouch endoscopic indices are not covered** by this Update — see [[aga-2024-pouchitis]] / [[pouchitis]] for pouch-specific scoring.
 
 ## See Also
 
-[[inflammatory-bowel-disease]], [[ulcerative-colitis]], [[crohns-disease]], [[colonoscopy]], [[intestinal-ultrasound]], [[confocal-laser-endomicroscopy]], [[pouchitis]]
+[[inflammatory-bowel-disease]], [[ulcerative-colitis]], [[crohns-disease]], [[colonoscopy]], [[intestinal-ultrasound]], [[confocal-laser-endomicroscopy]], [[artificial-intelligence-endoscopy]], [[mri-mrcp]], [[pouchitis]]
 
 ---
 

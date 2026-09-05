@@ -3,7 +3,7 @@ title: "Antibiotic Prophylaxis for GI Endoscopy"
 category: concept
 tags: [antibiotic-prophylaxis, infective-endocarditis, ercp, peg, eus-fna, cirrhosis, gi-bleeding, bacteremia, endoscopy]
 created: 2026-06-27
-updated: 2026-09-03
+updated: 2026-09-05
 sources: [asge-2015-antibiotic-prophylaxis, colan-hernandez-2020-eus-fna-panc-cyst-antibiotics]
 ---
 
@@ -18,6 +18,8 @@ Framework for when periprocedural antibiotics are — and are not — indicated 
 - [[#When Prophylaxis Is NOT Indicated]]
 - [[#Immunocompromise and Neutropenia]]
 - [[#Quick Reference Table]]
+- [[#See Also]]
+- [[#Sources]]
 
 ## Key Principle — Not for IE
 - **Do not give antibiotic prophylaxis solely to prevent infective endocarditis (IE)** for any GI endoscopic procedure, regardless of cardiac lesion (aligns with AHA). *(Rec 1, 444B)*

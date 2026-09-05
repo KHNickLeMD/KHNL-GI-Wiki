@@ -3,8 +3,8 @@ title: "Test-and-Treat Strategy (H. pylori)"
 category: concept
 tags: [h-pylori, dyspepsia, test-and-treat, non-invasive-testing, urea-breath-test]
 created: 2026-05-07
-updated: 2026-08-30
-sources: [acg-2017-hp-guidelines, acg-cag-2017-dyspepsia]
+updated: 2026-09-05
+sources: [acg-2017-hp-guidelines, acg-cag-2017-dyspepsia, acg-2024-hp-treatment]
 ---
 
 ## Definition
@@ -57,12 +57,14 @@ Both preferred over serology ([[acg-2017-hp-guidelines]], Strong / Moderate):
 1. **Urea breath test (UBT)** — sensitivity 88–95%, specificity 95–100%
 2. **Stool antigen test (SAT)** — sensitivity ~94%, specificity ~97%
 
-**Avoid serology** — cannot distinguish active from past infection; low specificity, and it is **never** appropriate for post-treatment testing.
+> ⚠ **These operating characteristics are not currently traceable to an ingested source.** The ACG 2017 H. pylori PDF is **not in `raw/`**, and [[acg-2024-hp-treatment|ACG 2024]] explicitly "elected not to review standard testing modalities (e.g., fecal antigen testing, breath testing, and serology)" — so it supplies no sens/spec figures either (same caveat carried on [[acg-2017-hp-guidelines]]). Retained pending re-ingestion of the ACG 2017 guideline; **do not restate them from memory elsewhere.**
 
-**Pre-test requirements:**
+**Avoid serology** — cannot distinguish active from past infection; low specificity, and it is **never** appropriate for post-treatment testing (antibody levels stay detectable for months to years after successful eradication).
 
-- Hold [[proton-pump-inhibitors|PPI]] ≥2 weeks before testing. Whether the same applies to [[potassium-competitive-acid-blockers|P-CABs]] has **not been adequately studied** — do not assume it.
-- Hold antibiotics (and bismuth) ≥4 weeks before testing
+**Pre-test requirements** ([[acg-2024-hp-treatment|ACG 2024]]):
+
+- Hold [[proton-pump-inhibitors|PPI]] ≥2 weeks before testing. Whether the same applies to [[potassium-competitive-acid-blockers|P-CABs]] has **not been adequately studied** — do not assume it. Standard-dose **H2RAs and antacids do not affect** test accuracy.
+- Hold **bismuth and antibiotics ≥4 weeks** before a test of cure
 
 ---
 
@@ -83,3 +85,4 @@ Both preferred over serology ([[acg-2017-hp-guidelines]], Strong / Moderate):
 
 1. [[acg-2017-hp-guidelines|ACG Clinical Guideline: Treatment of Helicobacter pylori Infection (2017)]]
 2. [[acg-cag-2017-dyspepsia|ACG/CAG 2017: Management of Dyspepsia]]
+3. [[acg-2024-hp-treatment|ACG Clinical Guideline: Treatment of Helicobacter pylori Infection (2024)]]

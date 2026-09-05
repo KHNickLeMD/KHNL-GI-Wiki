@@ -3,7 +3,7 @@ title: "Intestinal Ultrasound (IUS)"
 category: concept
 tags: [intestinal-ultrasound, ibd, crohns, ulcerative-colitis, monitoring, treat-to-target, imaging]
 created: 2026-07-19
-updated: 2026-09-01
+updated: 2026-09-05
 sources: [aga-2024-intestinal-ultrasound]
 ---
 
@@ -15,6 +15,8 @@ sources: [aga-2024-intestinal-ultrasound]
 - [[#Treat-to-Target Thresholds]]
 - [[#Special Populations]]
 - [[#Limitations]]
+- [[#See Also]]
+- [[#Sources]]
 
 ---
 

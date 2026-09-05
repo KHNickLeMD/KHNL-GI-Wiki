@@ -63,6 +63,13 @@ Monoclonal TNF-α antagonists — **infliximab, adalimumab, certolizumab pegol, 
 
 *CD dosing from [[acg-2025-crohns]]; UC dosing from [[acg-2025-uc]].*
 
+> **Sourcing caveats in the table above (2026-09-05 dose audit).** Three cells are **not traceable to an ingested source** and are carried forward pending one — do not treat them as guideline-stated:
+> - **Certolizumab pegol induction (400 mg at weeks 0, 2, 4)** — neither [[acg-2025-crohns]] nor [[aga-2021-crohns-pharm]] states an induction schedule for certolizumab; both discuss the agent only qualitatively. FDA labeling or the PRECiSE trial reports would be needed.
+> - **Golimumab maintenance interval (q4wk)** — [[acg-2025-uc]] sources the **100 mg** dose (PURSUIT week-54 data) but never states the every-4-week interval; [[acg-2019-uc]] gives no doses and [[aga-2024-uc-pharm]]'s "200 mg q4w" belongs to guselkumab, not golimumab.
+> - **Adalimumab induction in CD** — the 160 → 80 loading is sourced from the **UC** guideline (ULTRA-2) only; [[acg-2025-crohns]] gives no adalimumab induction regimen. The maintenance figures (40 mg q2wk or weekly) *are* from the CD guideline.
+>
+> Everything else in the table was verified verbatim against the cited guideline, including the infliximab IV/SC rows and the [[vedolizumab|vedolizumab]] 300 mg 0/2/6 schedule below.
+
 **Dose optimization is an explicit option, not a last resort:** biologic therapy (anti-TNF, anti-IL-12/23, anti-integrin) **dose optimization may be considered** for inadequate or loss of response to that agent's induction and maintenance ([[acg-2025-crohns]] Key Concept 46).
 
 **Switching IV → SC infliximab (REMSWITCH observational data, [[acg-2025-crohns]]).** Patients in steroid-free remission on stable IV dosing who transitioned to SC infliximab 120 mg q2wk relapsed at rates that tracked their prior IV intensity by weeks 16–24:
@@ -177,7 +184,7 @@ The **ASUC pathway** (when to escalate, infliximab-vs-cyclosporine choice, bridg
 |---|---|---|
 | IV infliximab + [[thiopurines\|thiopurine]] vs either alone, agent-naïve CD | **Recommend combination** | Strong, moderate ([[acg-2025-crohns]] Rec 13) — SONIC |
 | Infliximab + thiopurine vs infliximab monotherapy, biologic- and immunomodulator-naïve CD | **Suggest combination** for induction and maintenance (induction RR 0.77, 0.64–0.92; maintenance RR 0.74, 0.60–0.90) | Conditional, moderate ([[aga-2021-crohns-pharm]] Rec 5A) |
-| Adalimumab + thiopurine vs adalimumab monotherapy, naïve CD | **Suggest combination** (DIAMOND: higher endoscopic remission at wk 26, 84.2% vs 63.8%, *P* = .02; **no clinical remission difference**) | Conditional, **very low** ([[aga-2021-crohns-pharm]] Rec 5B) |
+| Adalimumab + thiopurine vs adalimumab monotherapy, naïve CD | **Suggest combination** (DIAMOND: higher endoscopic remission at wk 26, 48/57 [**84.2%**] vs 37/58 [**63.2%** as printed in the source; 37/58 computes to 63.8%], *P* = .02; **no clinical remission difference**) | Conditional, **very low** ([[aga-2021-crohns-pharm]] Rec 5B) |
 | Infliximab + thiopurine when infliximab used for **UC** induction | **Recommend combination** | Strong; moderate for azathioprine ([[acg-2025-uc]] Rec 33) |
 | Withdrawing the immunomodulator (or the biologic) from stable combination therapy | **No recommendation — knowledge gap.** No significant difference in relapse over 12–24 months (RR 1.02, 0.71–1.46) | ([[aga-2021-crohns-pharm]] Rec 6) |
 | Combining vedolizumab or ustekinumab with an immunomodulator | **No recommendation — knowledge gap** | ([[aga-2021-crohns-pharm]] Rec 5C) |

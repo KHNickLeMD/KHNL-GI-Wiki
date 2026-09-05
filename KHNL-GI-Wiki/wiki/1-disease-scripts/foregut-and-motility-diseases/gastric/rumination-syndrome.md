@@ -3,11 +3,9 @@ title: "Rumination Syndrome"
 category: disease-script
 tags: [rumination-syndrome, regurgitation, dgbi, gastroduodenal, high-resolution-manometry, impedance, postprandial, foregut]
 created: 2026-06-08
-updated: 2026-09-02
+updated: 2026-09-05
 sources: [rome-v-2026-dgbi, acg-2020-esophageal-physiologic-testing]
 ---
-
-# Rumination Syndrome
 
 ## Contents
 - [[#Assessment]]

@@ -3,7 +3,7 @@ title: "Nutrition Therapy in the Hospitalized Patient"
 category: concept
 tags: [nutrition, enteral-nutrition, parenteral-nutrition, malnutrition, icu, critical-care, hospitalized-patient]
 created: 2026-05-21
-updated: 2026-08-30
+updated: 2026-09-05
 sources: [acg-2016-nutrition-hospitalized, asge-2025-gastrostomy-tubes, asge-2011-enteral-feeding]
 ---
 
@@ -19,6 +19,8 @@ sources: [acg-2016-nutrition-hospitalized, asge-2025-gastrostomy-tubes, asge-201
 - [[#Formula Selection]]
 - [[#Nutrition in Specific Situations]]
 - [[#End-of-Life Nutrition]]
+- [[#See Also]]
+- [[#Sources]]
 
 ## Overview
 
@@ -68,7 +70,7 @@ Nutrition support in the hospitalized patient encompasses the assessment of nutr
 
 - **Indirect calorimetry** is the gold standard (measures VO₂ and VCO₂ to calculate resting energy expenditure)
 - When unavailable: use weight-based equations (25–30 kcal/kg/day for most; adjust for [[obesity]] and critical illness phase)
-- **Protein**: 1.2–2.0 g/kg/day for most critically ill; up to 2.5 g/kg IBW/day in burns/trauma/open abdomen
+- **Protein** (as ACG 2016 states it): **1.2–1.5 g/kg/day** was historically thought sufficient; recent studies suggest the amount needed to *optimize* therapy is higher, **1.5–2.0 g/kg/day**. Needs "may be even higher" in **trauma or large wounds** — ⚠ no number is given for that group. (The **2.0–2.5 g/kg ideal body weight/day** figure belongs to the obese BMI >30 hypocaloric regimen below, **not** to burns/trauma — a prior version of this page misattributed it.)
 
 ---
 
@@ -123,20 +125,22 @@ Two rules that change the nutrition plan: **PEG is preferred over interventional
 
 **Timing:**
 
-- High-risk or malnourished patients: start EN within 24–48h of admission (Conditional, Low evidence)
-- Start at low rate (10–20 mL/h) and advance to goal over 48–72h
+- High-risk or malnourished patients: start EN within 24–48h of admission (Rec 15, Conditional, Low evidence)
+- When tolerated, advance to goal within **48–72 h** (Rec 16a); with reduced tolerance, advance with caution to goal by **5–7 days** (Rec 16b)
+- ⚠ A starting rate of "10–20 mL/h" is **not stated in [[acg-2016-nutrition-hospitalized]]** — the only starting rate the guideline prints is the ARDS trophic arm below.
 
 **Permissive underfeeding (acceptable in):**
 
-- Early ARDS (first week): trophic EN (≤500 kcal/day or ~10–20 mL/h) shown equivalent to full feeding early on (Strong, Moderate evidence)
-- Obese patients (BMI >30): 60–70% of caloric target to limit metabolic complications (Conditional, Very Low)
+- **ARDS / acute lung injury** (Rec 17, Strong, High evidence): in the EDEN trial, **trophic feeding at 20 mL/h (25% of requirements) for the first 6 days**, then advanced to goal, gave outcomes equivalent to full feeds (80% of caloric requirements) from admission. Trophic feeding may **not** be appropriate at extremes of age, BMI, or disease severity.
+- **Obese, BMI >30** (Rec 17, Conditional, Very Low): high-protein hypocaloric regimen — **2.0–2.5 g protein/kg ideal body weight/day** plus **60–65%** of estimated or measured energy expenditure for total caloric delivery. Maintains lean body mass while depleting fat mass.
 
 **Feeding tolerance monitoring:**
 
 - Daily physical exam preferred over GRV monitoring (Conditional, Very Low evidence)
 - Routine GRV monitoring NOT recommended; high GRV alone should not trigger EN cessation [[acg-2016-nutrition-hospitalized]]
 - Signs of intolerance: abdominal distension, discomfort, significant emesis
-- Prokinetics (metoclopramide 10 mg IV q6h or erythromycin 250 mg IV q6h): initiate for confirmed gastric intolerance
+- **Prokinetic agent** for the patient at high aspiration risk (Rec 23b(i), Conditional, Low) — alongside diverting the feeding level lower in the GI tract (Strong, Moderate–High) and switching to continuous infusion (Conditional, Very Low)
+  - ⚠ **Unverified dosing.** A prior version of this page printed "metoclopramide 10 mg IV q6h or erythromycin 250 mg IV q6h." **Neither agent nor either dose appears in [[acg-2016-nutrition-hospitalized]]**, which says only "use a prokinetic agent." Retained here as a flag, not as guidance — an ingested source giving prokinetic dosing would be needed to state it.
 
 **Feeding protocols:** Nurse-driven titration algorithms should be implemented to optimize EN delivery rates (Strong, Moderate–High evidence).
 
@@ -155,7 +159,8 @@ Two rules that change the nutrition plan: **PEG is preferred over interventional
 - Should NOT be added to EN until EN is providing <60% of caloric goals for ≥7–10 days (Strong, Moderate evidence)
 - Prevents overfeeding in early critical illness
 - Supplement PN after 7–10 days if EN consistently insufficient
-- **Obese patients (BMI >30) on PN: hypocaloric PN ≤20 kcal/kg/day** in the first week (Conditional, Very Low) — the PN counterpart of the 60–70% enteral target above [[acg-2016-nutrition-hospitalized]]
+- **Hypocaloric PN over the first week** of nutrition therapy is an accepted form of permissive underfeeding (Rec 17, Conditional, Low): target **80% of goal calories** with full protein delivery at **1.5–2.0 g/kg/day**. In a meta-analysis of 5 RCTs (trauma, pancreatitis, major abdominal surgery) hypocaloric PN reduced infection and length of stay vs PN at goal (**20 vs 25 kcal/kg/day**). After the first week, increase PN to **100%** of energy and protein goals. [[acg-2016-nutrition-hospitalized]]
+- **Stop PN** once EN provides **>60%** of energy and protein goals (Rec 34b, Conditional, Very Low)
 
 ---
 

@@ -294,45 +294,113 @@ Note: Persistent intraepithelial lymphocytosis (Marsh I) may persist in 56% of t
 
 ### Nonresponsive CD (NRCD) Workup
 
-Define: persistent symptoms/signs/labs after 6–12 months of GFD. Systematic stepwise evaluation:
+Define: persistent symptoms/signs/labs after 6–12 months of GFD. Systematic stepwise evaluation ([[aga-2022-refractory-celiac|AGA 2022]], BPA 1–3):
 
-1. **Confirm diagnosis** — review original serology and biopsy; consider HLA testing if not done
-2. **Assess GFD adherence** — expert dietitian interview (most common cause = inadvertent gluten exposure); check serology
+1. **Confirm the original diagnosis was real** — review prior serology, endoscopy, and histology. A frequent misstep is labelling consistent pathology as CD and starting a GFD **without celiac serology**; non-celiac villous atrophy will not respond to diet. If prior workup was equivocal/discrepant → [[#HLA Typing (HLA-DQ2 / DQ8)|HLA-DQ2/DQ8]].
+2. **Exclude ongoing gluten ingestion** — the single largest cause, accounting for **40–50%** of nonresponsive CD.
+   - Expert **dietitian review is essential** to find inadvertent sources
+   - Serology — but **negative serology does not exclude** intermittent or low-level ingestion, and antibody levels are often normal in RCD
+   - **Gluten immunodominant peptides in stool or urine** — commercially available; not validated or widely available in Europe
 3. **Rule out alternative/coexisting conditions:**
-   - Lactose intolerance, fructose intolerance, FODMAP sensitivity
-   - [[exocrine-pancreatic-insufficiency|Exocrine pancreatic insufficiency]]
-   - SIBO
-   - Microscopic colitis
+   - Lactose intolerance, fructose intolerance, FODMAP sensitivity (breath testing) — the **low-FODMAP diet is not indicated in all** nonresponsive CD
+   - [[exocrine-pancreatic-insufficiency|Exocrine pancreatic insufficiency]] — common here; treat with **gluten-free** pancreatic enzyme supplements
+   - [[small-intestinal-bacterial-overgrowth|SIBO]] (breath testing)
+   - [[microscopic-colitis|Microscopic colitis]] and [[inflammatory-bowel-disease|IBD]] — **colonoscopy is indicated** for persistent or recurrent diarrhoea, as both are more common in CD and occur even with healed small-bowel mucosa
    - Functional GI disorder ([[disorders-of-gut-brain-interaction]])
-4. **Repeat EGD with biopsy** if the above is unrevealing (to assess mucosal healing and rule out RCD)
+4. **Repeat EGD with duodenal biopsies** — to identify persistent villous atrophy. Persistent atrophy is **necessary but not sufficient** for RCD; it may equally reflect gluten ingestion or slowly responsive CD. Minimal/no histologic change → look elsewhere for the cause.
+
+**If villous atrophy persists or the CD diagnosis was never confirmed, work through the other causes of villous atrophy** ([[aga-2022-refractory-celiac|AGA 2022]], BPA 2):
+
+| Cause | Distinguishing features |
+|---|---|
+| **Medication-induced** | **Olmesartan enteropathy** — can be severe, **responds rapidly to drug cessation**. Other ARBs reported. Mycophenolate, methotrexate, azathioprine |
+| **Common variable immunodeficiency** | Similar symptoms and pathology |
+| **Autoimmune enteropathy** | Sprue-like biopsy + other autoimmune disease + anti-enterocyte and/or anti-goblet cell antibodies; absence of Paneth or goblet cells, increased crypt apoptotic bodies. **May coexist with CD** |
+| **Tropical sprue** | Requires travel/residence in the tropics; folate and/or B12 deficiency characteristic; **partial, patchy** villous atrophy with **less** intraepithelial lymphocytosis; responds rapidly to folic acid + tetracycline |
+| **"Unclassified sprue" / idiopathic villous atrophy** | Sprue-like histology with no other aetiology found |
+| **On pathologist re-review** | EATL, low-grade CD4+ lymphoma, tuberculosis, *Mycobacterium avium* complex, giardiasis, Whipple's disease. Exclude **HIV enteropathy** |
 
 ### Refractory CD (RCD)
 
-**Definition:** Villous atrophy + malabsorption despite strict GFD >12 months, with no other cause (including overt lymphoma ruled out)
+**Definition** ([[aga-2022-refractory-celiac|AGA 2022]]): persistent symptoms of **malabsorption** *and* **villous atrophy** despite **≥12 months** of strict adherence to a gluten-free diet. Occurs in ~1% of CD patients (likely an overestimate — data come from referral centres).
 
-**Workup:**
+- Symptoms raising suspicion: diarrhoea, weight loss, anaemia, malabsorption with persistent nutritional deficiencies
+- Complications may present as GI bleeding, fever, night sweats, bowel obstruction
+- ⚠ **Elevated celiac antibodies do not establish RCD** — they indicate ongoing gluten ingestion
 
-- Repeat EGD with biopsies
-- Immunohistochemistry (CD3, CD8) + flow cytometry or T-cell receptor PCR for clonality
-  - RCD Type 1: polyclonal → better prognosis
-  - RCD Type 2: clonal (CD3+/CD8−) → precursor to EATL → poor prognosis
+**Biopsy protocol when RCD is suspected** (BPA 4): if suspicion is strong — weight loss, anaemia, GI bleeding, or persistent nutritional deficiencies — take **up to 6 additional distal duodenal biopsies** beyond the routine set, of which **2–3 must go into normal saline or RPMI medium** for flow cytometry (it requires **fresh, unfixed** tissue). IHC and TCR-rearrangement PCR work on formalin-fixed or fresh tissue. Biopsy any abnormal mucosa on target.
 
-**Treatment — RCD Type 1:**
+#### RCD1 vs RCD2 — the IEL immunophenotype
 
-- Strict elemental diet (eliminate nearly all processed foods)
-- Open-capsule budesonide
-- Prednisone
-- Immunomodulators ([[thiopurines|azathioprine, 6-MP]])
-- Mesalamine, biologics
-- (No placebo-controlled trial data for any agent)
+Subtyping is by intraepithelial lymphocyte (IEL) phenotype, **not** by symptoms. Requires an expert hematopathologist to interpret.
 
-**Treatment — RCD Type 2:**
+| | **RCD1** | **RCD2** |
+|---|---|---|
+| IEL population | Normal, **polyclonal** | Aberrant, **clonal** |
+| Proportion of total IELs | — | **≥20% of total IELs** |
+| Surface CD3 (sCD3) | **+** | **–** |
+| Cytoplasmic CD3 (cytCD3) | + | + |
+| CD8 | **+** | **–** (unusually may be +) |
+| CD7 | — | **+** |
+| sCD4 | — | – |
+| CD103 | — | + |
+| Surface TCR (sTCR) | **+** | **–** |
+| TCR β/γ rearrangement | Polyclonal | Clonal/monoclonal *supports* RCD2 |
+| Prognosis | Better | Low-grade intraepithelial malignancy; risk of **ulcerative jejunoileitis** and **EATL** |
 
-- Open-capsule budesonide
-- Cladribine
-- Autologous stem-cell transplantation
-- Parenteral nutritional support (often required)
-- Monitor closely for EATL development
+⚠ **TCR rearrangement alone cannot diagnose RCD2.** Clones occur in newly diagnosed CD, CD on a GFD, and RCD1, and prominent clonal peaks can persist without progression. Conversely **RCD2 can occur without clonal rearrangement** — absence does not exclude it. Interpret alongside immunophenotype, histology, and clinical findings. IHC cannot distinguish sCD3 from cytCD3 — **flow cytometry is required** for that.
+
+#### Staging imaging (BPA 5)
+
+- **RCD2 at diagnosis** → **capsule endoscopy *and* CT or MR enterography**, to exclude EATL and ulcerative jejunoileitis
+- **RCD1** → lymphoma risk is *extremely low*; image **only if not doing well** on therapy
+- Capsule endoscopy also quantifies extent/severity of villous atrophy — **greater in RCD2 than RCD1**
+- CT/MR enterography may show bowel wall thickening, mesenteric adenopathy, small bowel masses, ulcerative jejunoileitis
+- **Repeat imaging** in RCD2 patients who are clinically worsening (rising lymphoma risk)
+- Strictures, inflammation, erosions, ulcers, or mass lesions → **small bowel enteroscopy** for tissue diagnosis
+
+#### Nutritional assessment (BPA 6–7)
+
+Assess malnutrition by nonvolitional weight loss, low BMI, loss of muscle mass/strength, ascites/oedema, physical signs of micronutrient deficiency. Test objectively:
+
+- **Always:** vitamins **A, D, E**, **prothrombin time** (for vitamin K), **folate, B12, iron, copper, zinc**
+- **Consider** — particularly with chronic or severe diarrhoea: **thiamine, magnesium, selenium, vitamin B6**
+- **Albumin is an independent predictor of mortality** → monitor routinely
+- Escalation: dietitian-guided optimisation + oral supplements → enteral support → **parenteral nutrition for severe malabsorptive malnutrition**
+
+#### Treatment
+
+**First-line for both RCD1 and RCD2 is corticosteroids** (BPA 8) — open-capsule budesonide preferred, prednisone if unavailable. **80–90% of RCD patients respond** to one of these, with higher response in RCD1. IV methylprednisolone is an alternative for severe disease, followed by oral prednisone or open-capsule budesonide.
+
+| Therapy | Dose | Response | Notes |
+|---|---|---|---|
+| **Open-capsule budesonide** | **3 mg TID** | 92% clinical, 89% histologic | First-line, both subtypes |
+| **Prednisone** | **40–60 mg daily**, slow taper over several months | 90% clinical (RCD1); 77% (RCD2) | If budesonide unavailable |
+| Small-intestinal-release [[mesalamine]] | **2–4 g/d** | 75% alone; 33% complete response combined with budesonide | — |
+| [[thiopurines\|Azathioprine]] | **2–2.5 mg/kg/d** | 71% clinical | Immunosuppressant of choice for long-term **RCD1**; villous atrophy reported |
+| [[thiopurines\|Mercaptopurine]] | **1 mg/kg/d** | — | Risk of accelerated lymphoma — **caution in RCD2** |
+| Tioguanine | **0.3 mg/kg/d** | 83% clinical, 78% histologic | **Not available in the US** |
+| Elemental diet | — | 67% clinical, 89% histologic | — |
+| **Cladribine** | **0.1 mg/kg/day IV for 5 days**; 1–3 courses every 6 mo | 35% clinical / 59% histologic; 81% / 47% in a second series | **RCD2 only** |
+| [[infliximab]] | **5 mg/kg IV** | Case report only | **RCD2 only** |
+| Autologous stem cell transplant | — | 85% clinical response; **66% 4-year survival** | **RCD2 only**; role not defined |
+| Anti-IL-15 mAb (AMG 714) | 8 mg/kg IV day 0, day 7, then q2wk through wk 10 | Symptoms improved but **failed** its primary endpoint (no reduction in aberrant IELs) | **RCD2 only** |
+
+**Open-capsule budesonide — how it is given:** the **first capsule is opened into applesauce, the second opened and swallowed with water, and the third swallowed intact.**
+
+- **Second-line:** optimal choice unknown. Adding a thiopurine to steroids appears effective **in RCD1**. ⚠ **Immunosuppressants are not advised in RCD2** — concern for accelerated lymphoma development (data scarce, not definitive).
+- **Cladribine in RCD2 — read the harms:** in 17 patients, 58% histologic improvement and 35% decrease in aberrant IELs, but **41% were diagnosed with EATL and died**. A later series of 32 patients: **5-year survival 63% among responders, EATL risk 16%**.
+- **Surgery is rarely needed** — reserved for acute abdomen from perforation, or RCD2 with localised ulcerative jejunitis causing obstruction or recurrent GI bleeding.
+
+⚠ **Decision gap — steroid dose and taper for RCD are not rigorously established.** [[aga-2022-refractory-celiac|AGA 2022]] states outright that "initial doses and taper recommendations for steroids have not been examined rigorously"; the doses above come from the cited case series in its Table 1, not trial data. **No taper schedule exists anywhere in the corpus** — do not supply one from memory. Whether steroids reduce lymphoma risk in RCD2 likewise **remains uncertain**, and there are **no FDA-approved therapies** for RCD.
+
+#### Follow-up (BPA 9–10)
+
+- **Multidisciplinary — gastroenterologist *and* dietitian.** Follow-up schedule is expert opinion only.
+- **Visits every 3 months until disease is well controlled, then every 6 months.**
+- Clinical and laboratory parameters each visit, with aggressive correction of nutritional deficiencies.
+- Dietitian follow-up covers malnutrition management, adherence, and reinforcement of the strict GFD.
+- **No response to steroids → refer** to a centre with expertise, or for clinical-trial enrolment.
 
 ### Complications
 

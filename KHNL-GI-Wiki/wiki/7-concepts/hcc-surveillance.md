@@ -3,7 +3,7 @@ title: "HCC Surveillance"
 category: concept
 tags: [hcc, hepatocellular-carcinoma, surveillance, cirrhosis, hepatitis-b, biomarker, afp, galad]
 created: 2026-06-01
-updated: 2026-08-30
+updated: 2026-09-05
 sources: [aga-2026-hcc-surveillance, aasld-2023-hcc, aasld-idsa-2025-chb-treatment]
 ---
 
@@ -20,6 +20,8 @@ Framework for hepatocellular carcinoma surveillance — who, how, how often, and
 - [[#Emerging Biomarkers]]
 - [[#Risk-Stratification Scores]]
 - [[#Prevention (Upstream of Surveillance)]]
+- [[#See Also]]
+- [[#Sources]]
 
 ## Who to Survey
 

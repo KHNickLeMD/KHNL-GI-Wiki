@@ -3,7 +3,7 @@ title: "Loperamide"
 category: med
 tags: [loperamide, antimotility, antidiarrheal, opioid-agonist]
 created: 2026-07-07
-updated: 2026-09-03
+updated: 2026-09-05
 sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea, aga-2022-ibs-d, acg-2021-anorectal-disorders, aga-2026-cdiff-ibd, aga-2026-cdiff-adults]
 ---
 
@@ -15,8 +15,8 @@ Peripheral μ-opioid receptor agonist; antimotility agent. First-line antimotili
 
 - **Standard:** 4 mg first dose, then **2 mg after each loose stool** ([[acg-2016-acute-diarrhea]]).
 - **Ceiling depends on context — do not drop the qualifier:**
-  - **Self-treatment (alone):** not to exceed **8 mg/day**; not used for **>48 h** in self-treatment.
-  - **Combined with antibiotics for traveler's diarrhea:** not to exceed **16 mg per 24 h**.
+  - **Loperamide alone (ACG's general adult recommendation):** not to exceed **8 mg/day**, and **not given for more than 48 h** ([[acg-2016-acute-diarrhea]]).
+  - **Combined with antibiotics for traveler's diarrhea:** not to exceed **16 mg per 24 h** (ACG Table 4 footnote).
 - **Mild watery diarrhea:** hydration only; may use loperamide 4 mg initially to control stooling.
 - **Moderate-to-severe watery, non-travel-associated, no/low-grade fever (≤100°F):** consider ≤48 h of loperamide.
 

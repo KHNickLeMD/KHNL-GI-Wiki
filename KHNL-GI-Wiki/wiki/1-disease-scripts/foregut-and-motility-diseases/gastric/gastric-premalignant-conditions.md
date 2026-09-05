@@ -3,11 +3,9 @@ title: "Gastric Premalignant Conditions"
 category: disease-script
 tags: [gpmc, gim, atrophic-gastritis, dysplasia, gastric-cancer, correa-cascade, h-pylori, esd, surveillance, autoimmune-gastritis]
 created: 2026-05-07
-updated: 2026-09-03
+updated: 2026-09-05
 sources: [acg-2025-gastric-premalignant, aga-2026-gastric-polyps]
 ---
-
-# Gastric Premalignant Conditions
 
 Histopathologic stages along the Correa cascade that precede [[gastric-adenocarcinoma|gastric adenocarcinoma]]: [[atrophic-gastritis|atrophic gastritis (AG)]] → [[gastric-intestinal-metaplasia|gastric intestinal metaplasia (GIM)]] → dysplasia (LGD/HGD). [[helicobacter-pylori-infection|H. pylori]] is the dominant risk factor — **attributable risk 75%–89% for *noncardia* gastric adenocarcinoma** (the qualifier matters; the figure is not for cardia GC). US 5-year GC survival is **36%**, because only ~15% are diagnosed at the curable early stage; resection of early GC is typically curative (**>95% 5-year overall survival**).
 

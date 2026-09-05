@@ -3,7 +3,7 @@ title: "Salmonella Infection (Non-typhoidal)"
 category: disease-script
 tags: [salmonella, bacterial-gastroenteritis, diarrhea, foodborne, travelers-diarrhea, bacteremia]
 created: 2026-05-19
-updated: 2026-08-28
+updated: 2026-09-05
 sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
 ---
 
@@ -72,10 +72,10 @@ Non-typhoidal *Salmonella* species are a major cause of foodborne diarrheal illn
 
 *Agent selection from [[idsa-2017-infectious-diarrhea]] Table 6; check current US susceptibility patterns (NARMS) when choosing.*
 
-> **Dose / duration gap — flagged, not filled.** Neither ingested source gives a **dose, route, or duration** for any of these agents in salmonellosis: [[idsa-2017-infectious-diarrhea]] Table 6 lists first-choice and alternative agents with **no dose column**, and [[acg-2016-acute-diarrhea]] Table 4 doses only the traveler's-diarrhea regimens (azithromycin, fluoroquinolones, [[rifaximin\|rifaximin]]) — not ceftriaxone, TMP-SMX, or amoxicillin, and not the longer courses used for invasive disease or enteric fever. The familiar "7–10 days, 14 days if immunocompromised or bacteremic" is **not in the corpus** and is deliberately not asserted. An IDSA/CDC enteric-fever or NTS treatment table would be needed to close this.
+> **Dose / duration gap — flagged, not filled.** Neither ingested source gives a **dose, route, or duration** for any of these agents in salmonellosis: [[idsa-2017-infectious-diarrhea]] Table 6 lists first-choice and alternative agents with **no dose column**, and [[acg-2016-acute-diarrhea]] Table 4 doses only the traveler's-diarrhea regimens (azithromycin, fluoroquinolones, rifaximin) — not ceftriaxone, TMP-SMX, or amoxicillin, and not the longer courses used for invasive disease or enteric fever. The familiar "7–10 days, 14 days if immunocompromised or bacteremic" is **not in the corpus** and is deliberately not asserted. An IDSA/CDC enteric-fever or NTS treatment table would be needed to close this.
 
-- **[[rifaximin\|Rifaximin]]: do NOT use** — non-absorbable; ineffective for this invasive pathogen. [[acg-2016-acute-diarrhea]]
-- **[[loperamide\|Antimotility agents]]:** avoid at any age with fever or inflammatory diarrhea, and in children <18 years. [[idsa-2017-infectious-diarrhea]] (Rec 47)
+- **[[rifaximin|Rifaximin]]: do NOT use** — non-absorbable; ineffective for this invasive pathogen. [[acg-2016-acute-diarrhea]]
+- **[[loperamide|Antimotility agents]]:** avoid at any age with fever or inflammatory diarrhea, and in children <18 years. [[idsa-2017-infectious-diarrhea]] (Rec 47)
 
 ### Asymptomatic carriage
 

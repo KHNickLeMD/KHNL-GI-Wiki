@@ -3,7 +3,7 @@ title: "Argon Plasma Coagulation (APC)"
 category: general-procedure
 tags: [argon-plasma-coagulation, apc, endoscopic-hemostasis, thermal-therapy, ablation, gave, angioectasia, radiation-proctopathy]
 created: 2026-07-24
-updated: 2026-09-03
+updated: 2026-09-05
 sources: [asge-2019-radiation-proctopathy, asge-2010-anorectal-disorders, asge-2014-lgib, acg-2023-lgib, acg-2021-ugib, acg-2015-small-bowel-bleeding, asge-2017-small-bowel-bleeding, aga-2024-ida-management, baveno-vii-2022-portal-hypertension, usmstf-2020-endoscopic-removal, asge-2020-endoscopic-removal, asge-2015-ampullary-duodenal-adenomas, asge-2018-barretts-eet, aga-2024-barretts-eet, asge-2016-antithrombotic, aga-2026-electrosurgery]
 ---
 
@@ -53,7 +53,7 @@ Non-contact thermal ablation: monopolar current delivered to tissue through a je
 | Post-[[endoscopic-mucosal-resection\|EMR]] margin, **no** visible residual adenoma | Suggest adjuvant thermal ablation of the post-EMR margin; **insufficient evidence to pick APC vs snare-tip soft coagulation** ([[usmstf-2020-endoscopic-removal]], [[asge-2020-endoscopic-removal]]) | Conditional, moderate |
 | Endoscopically **visible residual** polyp tissue | **Recommend against** ablative techniques (APC, snare-tip soft coagulation) — associated with increased recurrence ([[usmstf-2020-endoscopic-removal]], [[asge-2020-endoscopic-removal]]) | Strong, moderate |
 | [[ampullary-adenoma\|Ampullary]] and [[nonampullary-duodenal-adenoma\|duodenal adenomas]] | Not primary therapy; ablative therapies (APC, laser, PDT, mono-/bipolar electrocoagulation) used to destroy **residual or recurrent superficial adenomatous tissue** left after snare resection — APC the most frequently used ([[asge-2015-ampullary-duodenal-adenomas]]) | — |
-| [[barretts-esophagus\|Barrett's esophagus]] after EMR of visible lesions | Ablation of the remaining Barrett's segment is suggested over no ablation, but the supporting trial used PDT/APC and the guideline explicitly notes **APC is not the current standard** ([[asge-2018-barretts-eet]]); hybrid-APC is one of several ablation options, while **RFA has the highest-quality and most extensive RCT evidence** ([[aga-2024-barretts-eet]]) | Conditional, low |
+| [[barretts-esophagus\|Barrett's esophagus]] after EMR of visible lesions | [[endoscopic-eradication-therapy\|Ablation]] of the remaining Barrett's segment is suggested over no ablation, but the supporting trial used PDT/APC and the guideline explicitly notes **APC is not the current standard** ([[asge-2018-barretts-eet]]); hybrid-APC is one of several ablation options, while **RFA has the highest-quality and most extensive RCT evidence** ([[aga-2024-barretts-eet]]) | Conditional, low |
 
 **Decision line for colorectal resection:** APC is for the *margin of a defect with nothing visible left*, never for tissue you can still see — the same guideline both recommends against it (visible residual tissue, strong) and suggests it (clean margin, conditional).
 
@@ -129,7 +129,7 @@ Unresolved: no ingested source reports a trial of APC vs sham or of treating onl
 
 ## See Also
 
-[[radiation-proctopathy]], [[angioectasia]], [[acute-lower-gi-bleeding]], [[upper-gi-bleeding]], [[small-bowel-bleeding]], [[peptic-ulcer-disease]], [[iron-deficiency-anemia]], [[ampullary-adenoma]], [[nonampullary-duodenal-adenoma]], [[barretts-esophagus]], [[endoscopic-mucosal-resection]], [[polypectomy]], [[radiofrequency-ablation]], [[device-assisted-enteroscopy]], [[capsule-endoscopy]], [[endoscopic-ultrasound]], [[colonoscopy]], [[portal-hypertension]], [[tips]], [[anticoagulation-gi-bleeding]], [[electrosurgery]]
+[[radiation-proctopathy]], [[angioectasia]], [[acute-lower-gi-bleeding]], [[upper-gi-bleeding]], [[small-bowel-bleeding]], [[peptic-ulcer-disease]], [[iron-deficiency-anemia]], [[ampullary-adenoma]], [[nonampullary-duodenal-adenoma]], [[barretts-esophagus]], [[endoscopic-eradication-therapy]], [[endoscopic-mucosal-resection]], [[polypectomy]], [[radiofrequency-ablation]], [[device-assisted-enteroscopy]], [[capsule-endoscopy]], [[endoscopic-ultrasound]], [[colonoscopy]], [[portal-hypertension]], [[tips]], [[anticoagulation-gi-bleeding]], [[electrosurgery]]
 
 ---
 

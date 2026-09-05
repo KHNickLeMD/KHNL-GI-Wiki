@@ -32,7 +32,7 @@ Bicyclic fatty acid derived from prostaglandin E1; activates **type 2 chloride c
 |---|---|---|
 | **CIC**, 24 µg BID | 3 RCTs, 4 wk ([[aga-acg-2023-constipation]]) | **SBMs/week** MD **+1.98** (95% CI 1.17–2.79); **responder** RR **1.67** (1.36–2.06) = **226 more per 1,000** (122–358) |
 | **CIC** — secondary | same | Stool form (0–4 scale) MD **1.09 better** (0.16–2.03); global relief (0–4 scale) MD **0.75 higher** (0.42–1.08); **CSBMs/week not reported** |
-| **IBS-C**, 8 µg BID | 2 identically designed phase III RCTs, n=**1,171**, Rome II, 12 wk ([[acg-2020-ibs]]) | Responder **17.9% vs 10.1%** placebo (P=0.0001) |
+| **IBS-C**, 8 µg BID | 2 identically designed phase III RCTs, n=**1,171**, Rome II, 12 wk ([[acg-2020-ibs]]; [[aga-2022-ibs-c]] describes the same two trials as n=**1,154**) | Responder **17.9% vs 10.1%** placebo (P=0.0001) |
 | **IBS-C** — pooled | meta-analysis ([[acg-2020-ibs]]) | RR of symptom **persistence 0.91** (0.87–0.95); **NNT 12.5** |
 
 - **Delayed onset in IBS-C:** separation from placebo **did not reach significance until month 2**, then was maintained through month 3; response was maintained or increased over a **36-week open-label extension**.

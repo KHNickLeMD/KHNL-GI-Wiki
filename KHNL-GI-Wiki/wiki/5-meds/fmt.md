@@ -3,7 +3,7 @@ title: "Fecal Microbiota Transplantation (Fecal Microbiota-Based Therapies)"
 category: med
 tags: [fmt, microbiome, cdiff, recurrent-cdi]
 created: 2026-07-26
-updated: 2026-09-03
+updated: 2026-09-05
 sources: [aga-2024-fmt, aga-2026-cdiff-adults]
 ---
 
@@ -53,7 +53,7 @@ The stratum decides Rec 2, so the criteria are the decision. **Severely immunoco
 - Alternatives for patients who decline: vancomycin taper or tapered-pulsed fidaxomicin. *(AGA 2024 also lists bezlotoxumab; [[aga-2026-cdiff-adults|AGA 2026]] reports it is **no longer commercially available**.)*
 
 *Severe/fulminant CDI not responding to antimicrobials:*
-- **Which patients qualify** — AGA defines severe CDI by a WBC and creatinine threshold and fulminant CDI as severe disease plus shock, ileus, or megacolon; the full criteria table (and how it changed between the 2010 and 2018 IDSA versions) lives on [[clostridioides-difficile]]. Read it before invoking Rec 3.
+- **Which patients qualify** — AGA defines severe CDI by a WBC and creatinine threshold and fulminant CDI as severe disease plus shock, ileus, or [[toxic-megacolon|megacolon]]; the full criteria table (and how it changed between the 2010 and 2018 IDSA versions) lives on [[clostridioides-difficile]]. Read it before invoking Rec 3.
 - Consider generally **within 2–5 days** of initiating CDI treatment; multidisciplinary care (critical care, surgery, GI, ID).
 - **First dose via colonoscopy or flexible sigmoidoscopy** — confirms the diagnosis and lets you grade severity. Insufficient evidence for enema or capsule here, and **no evidence** for the FDA-approved products in this setting.
 - **Nasoenteric tube is discouraged** — increased risk of fecal aspiration.
@@ -79,7 +79,7 @@ The stratum decides Rec 2, so the criteria are the decision. **Severely immunoco
 
 ## See Also
 
-[[clostridioides-difficile]], [[probiotics]], [[inflammatory-bowel-disease]], [[ulcerative-colitis]], [[crohns-disease]], [[pouchitis]], [[irritable-bowel-syndrome]]
+[[clostridioides-difficile]], [[probiotics]], [[inflammatory-bowel-disease]], [[ulcerative-colitis]], [[crohns-disease]], [[pouchitis]], [[irritable-bowel-syndrome]], [[colonoscopy]], [[toxic-megacolon]]
 
 ---
 

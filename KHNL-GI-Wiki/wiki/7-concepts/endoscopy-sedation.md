@@ -3,7 +3,7 @@ title: "Sedation and Anesthesia in GI Endoscopy"
 category: concept
 tags: [sedation, anesthesia, propofol, moderate-sedation, deep-sedation, capnography, asa-class, npo, reversal-agents, endoscopy, glp-1]
 created: 2026-06-27
-updated: 2026-09-04
+updated: 2026-09-05
 sources: [asge-2018-sedation, aga-2024-glp1-endoscopy]
 ---
 
@@ -24,6 +24,8 @@ Framework for procedural sedation across the full continuum used in GI endoscopy
 - [[#Who Needs an Anesthesia Provider]]
 - [[#Unsedated Endoscopy]]
 - [[#Graded Recommendations (ASGE 2018)]]
+- [[#See Also]]
+- [[#Sources]]
 
 ## Sedation Continuum
 Sedation is a drug-induced depression of consciousness on a continuum; patients can drift deeper than intended, so providers must be able to **rescue** from a deeper level than targeted.

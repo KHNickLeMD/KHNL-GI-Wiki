@@ -3,7 +3,7 @@ title: "Colonic Diverticulitis"
 category: disease-script
 tags: [diverticulitis, diverticular-disease, colorectal, antibiotics, hinchey, scad, sudd]
 created: 2026-07-23
-updated: 2026-09-04
+updated: 2026-09-05
 sources: [acg-2026-diverticulitis]
 ---
 
@@ -74,7 +74,7 @@ Inflammation in and around a colonic diverticulum. Lifetime risk ~3% (men) / 5% 
 *Workup: see [[acute-lower-gi-bleeding]] for diverticular bleeding (a distinct entity — painless hematochezia, not covered here).*
 
 - **[[colorectal-cancer]]** — can be misdiagnosed as diverticulitis; the reason post-recovery colonoscopy matters (see Therapeutics). Cancers cluster in the same colonic region as the presumed diverticulitis.
-- [[ulcerative-colitis]] / [[crohns-disease]] — especially when [[segmental-colitis-associated-with-diverticulosis|SCAD]] histology mimics IBD.
+- Ulcerative colitis / Crohn's disease — especially when SCAD histology mimics IBD (both linked above).
 - [[colon-ischemia]], infectious colitis, appendicitis, gynecologic causes (left-sided), [[irritable-bowel-syndrome]].
 - Chronic post-diverticulitis symptoms may reflect a [[disorders-of-gut-brain-interaction|disorder of gut-brain interaction]] rather than active disease — **more than one-third of patients report persistent abdominal pain or altered bowel habits 1–2 years after an episode.** Do not assume recurrent disease without imaging.
 

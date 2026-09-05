@@ -77,8 +77,8 @@ Standard-dose acid-suppression potency standardized to omeprazole = 1.00 ("omepr
 - Twice-daily (maximal) acid suppression used periprocedurally before [[endoscopic-eradication-therapy|endoscopic resection/ablation]].
 
 ### Eosinophilic Esophagitis
-- Initial treatment of [[eosinophilic-esophagitis|EoE]] with **"high-dose" PPI = double the approved reflux dose** (e.g. omeprazole/esomeprazole **20–40 mg twice daily**), once-daily or divided before meals ([[acg-2025-eoe]]).
-- Pooled response ~**60% clinical / ~50% histologic** (<15 eos/hpf). Twice-daily numerically > once-daily (55.9% vs 49.7%, NS); in one cohort histologic remission 53–54% with 20–40 mg **BID** vs 10–12% once daily (P<0.0001).
+- Initial treatment of [[eosinophilic-esophagitis|EoE]] in adults with **"high-dose" PPI = double the approved reflux dose per day** — the guideline's own example is **omeprazole 20 mg twice daily *or* 40 mg daily, or other PPI equivalent** (i.e. **40 mg/day total**). Once-daily or divided before meals; ACG notes dosing-efficacy data are variable, so divided dosing may be chosen for adherence ([[acg-2025-eoe]]).
+- Pooled response ~**60% clinical (60.8%) / ~50% histologic (50.5%)** (<15 eos/hpf). Twice-daily numerically > once-daily (55.9% vs 49.7%, NS); in a 305-patient retrospective cohort histologic remission was **53–54% with omeprazole 20–40 mg BID vs 10–12% with 20–40 mg once daily** (P<0.0001) — note those cohort doses run **above** the guideline's stated 40 mg/day example.
 - Step-down possible in responders (some relapse on reduction, regain remission on re-escalation).
 
 ### H. pylori Eradication

@@ -3,7 +3,7 @@ title: "Gastroenteropancreatic Neuroendocrine Tumors (GEP-NETs)"
 category: disease-script
 tags: [neuroendocrine-tumor, net, gep-net, pannet, carcinoid, gastrinoma, insulinoma, glucagonoma, vipoma, zollinger-ellison, men1, prrt]
 created: 2026-06-18
-updated: 2026-09-03
+updated: 2026-09-05
 sources: [nccn-2026-net]
 ---
 
@@ -135,7 +135,7 @@ By presentation:
 | **Rectal** | **<1 cm incidental** → complete endoscopic resection with negative margins may suffice. **≤2 cm or T1 (minimally invasive)** → endoscopic or transanal excision. For **1–2 cm**, consider exam under anesthesia and/or EUS *before* the procedure — go to radical resection if muscularis propria invasion or node-positive | **>2 cm, node-positive, or T2–T4** → low anterior resection (rarely APR); neoadjuvant/definitive chemoRT in selected cases | If margins indeterminate + **G1** → endoscopy at **6–12 mo** for residual disease; residual or **G2** → follow the all-other-rectal-tumors pathway. **1–2 cm:** imaging at 6 and 12 mo, then as indicated |
 | **Appendiceal** | **≤2 cm** → simple appendectomy is sufficient for most (metastases uncommon) | **>2 cm**, or *any* size with incomplete resection or positive nodes/margins → stage with multiphasic CT/MRI ± SSTR imaging, then **right hemicolectomy**. For **1–2 cm with poor prognostic features** (lymphovascular or mesoappendiceal invasion, atypical histology) some NCCN institutions also do right hemicolectomy | **<1 cm:** none. **1–2 cm:** optional multiphasic imaging q2–5 y by clinicopathologic features. **>2 cm:** multiphasic CT/MRI at 12 wk–12 mo post-resection, then q12–24 mo for **10 years** |
 | **Pancreatic (PanNET), nonfunctioning** | — | Enucleation or formal pancreatectomy | **G1 PanNET <2 cm can be safely observed — that is the recommended course**; **G2** PanNETs of the same size should be considered for **surgery**. Grade, not size alone, is the decision |
-| **Duodenal, non-ampullary** | **≤1 cm, G1/G2, LVI-negative** → consider endoscopic resection. Technique by size: **<0.5 cm** → polypectomy or [[endoscopic-mucosal-resection\|EMR]]; **0.5–1 cm** → EMR, [[endoscopic-submucosal-dissection\|ESD]], or [[endoscopic-full-thickness-resection\|eFTR]] pending local expertise | **>1 cm, G3, LVI-positive, or NEC** → multidisciplinary discussion including surgical evaluation. **R1** resection → surgical evaluation if repeat endoscopic resection is not an option | **R0:** surveillance not well established — consider **annual endoscopy for 5 years** |
+| **Duodenal, non-ampullary** | **≤1 cm, G1/G2, LVI-negative** → consider endoscopic resection. Technique by size: **<0.5 cm** → [[polypectomy\|polypectomy]] or [[endoscopic-mucosal-resection\|EMR]]; **0.5–1 cm** → EMR, [[endoscopic-submucosal-dissection\|ESD]], or [[endoscopic-full-thickness-resection\|eFTR]] pending local expertise | **>1 cm, G3, LVI-positive, or NEC** → multidisciplinary discussion including surgical evaluation. **R1** resection → surgical evaluation if repeat endoscopic resection is not an option | **R0:** surveillance not well established — consider **annual endoscopy for 5 years** |
 | **Duodenal, periampullary** | Not a straight-to-endoscopy lesion — **multidisciplinary discussion including surgical evaluation** | Per that discussion | — |
 
 - **When to get EUS first in a duodenal NET** ([[nccn-2026-net]]) — EUS to determine depth of invasion for **any** dNET with: periampullary involvement, **size >1 cm**, extension beyond the submucosa on initial sampling or EUS, functional dNET, ulceration, **Grade 3**, or **positive LVI** on initial sampling. Any one of these is enough.
@@ -179,7 +179,7 @@ flowchart TD
 
 ## See Also
 
-[[atrophic-gastritis]], [[gastric-premalignant-conditions]], [[peptic-ulcer-disease]], [[pancreatic-cancer]], [[pancreatic-cysts]], [[colorectal-cancer]], [[gastrointestinal-stromal-tumor]], [[subepithelial-lesion]], [[somatostatin-analogs]], [[proton-pump-inhibitors]], [[endoscopic-ultrasound]], [[upper-endoscopy]], [[colonoscopy]], [[endoscopic-mucosal-resection]], [[endoscopic-submucosal-dissection]], [[endoscopic-full-thickness-resection]]
+[[atrophic-gastritis]], [[gastric-premalignant-conditions]], [[peptic-ulcer-disease]], [[pancreatic-cancer]], [[pancreatic-cysts]], [[colorectal-cancer]], [[gastrointestinal-stromal-tumor]], [[subepithelial-lesion]], [[somatostatin-analogs]], [[proton-pump-inhibitors]], [[endoscopic-ultrasound]], [[upper-endoscopy]], [[colonoscopy]], [[endoscopic-mucosal-resection]], [[endoscopic-submucosal-dissection]], [[endoscopic-full-thickness-resection]], [[polypectomy]]
 
 ---
 

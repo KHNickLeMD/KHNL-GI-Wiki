@@ -1,7 +1,7 @@
 ---
 title: "Calcineurin Inhibitors"
 category: med
-tags: [calcineurin-inhibitor, tacrolimus, cyclosporine, immunosuppression, transplant, liver-transplant, nephrotoxicity, basiliximab, induction, cnm-minimization]
+tags: [calcineurin-inhibitor, tacrolimus, cyclosporine, immunosuppression, transplant, liver-transplant, nephrotoxicity, basiliximab, induction, cni-minimization]
 created: 2026-05-19
 updated: 2026-09-05
 sources: [aasld-2012-liver-transplant-long-term, aasld-ast-2025-liver-transplant-graft-complications, acg-2025-uc]
@@ -45,7 +45,7 @@ The other GI use of a CNI, and the reason the [[ulcerative-colitis|UC]] page lin
 |---|---|
 | Indication | Medical **rescue** in ASUC **failing to respond adequately to IV corticosteroids by day 3** — infliximab **or** cyclosporine (Rec 51, **Strong**) |
 | Target dose | **2 mg/kg** — preferred over 4 mg/kg: comparable clinical response and colectomy rates with **fewer adverse events** |
-| Route / duration | **CySIF regimen: 2 mg/kg IV for 1 week, then oral cyclosporine**; responders started azathioprine from day 7 |
+| Route / duration | **CySIF regimen: 2 mg/kg for 1 week, then oral cyclosporine**; responders started azathioprine from day 7. (ACG prints only "2 mg/kg for 1 week, followed by oral cyclosporine" — the initial **IV** route is implied by "followed by oral", not stated) |
 | Drug level | **200–400** for efficacy (the source states the range without units) |
 | When *not* to use | Restricted to IVCS failure, **except** where corticosteroids are contraindicated or not tolerated — efficacy is similar to IVCS, not superior |
 | Maintenance after CSA-induced remission | **[[thiopurines]]** (Rec 53, Conditional) or [[vedolizumab]] (Rec 54, Conditional) |
@@ -67,7 +67,7 @@ Not a guideline recommendation — [[acg-2025-uc]] reviews the evidence without 
 
 Per [[aasld-ast-2025-liver-transplant-graft-complications]]:
 
-**Basiliximab (IL-2 receptor antagonist)**: 20 mg IV at POD 0 and POD 4; used to delay CNI start in recipients with renal dysfunction; associated with improved GFR (by 3.8 mL/min/1.73 m²) and 12% reduction in BPAR vs. no induction at 6 months (Rec 25, Weak, Level 2). Also reduces de novo DM and HTN with delayed TAC start (LDLT study: DM 10.6% → 4.7%, HTN 12.7% → 7.1%).
+**Basiliximab (IL-2 receptor antagonist)**: 20 mg IV at POD 0 and POD 4; used to delay CNI start in recipients with renal dysfunction (Rec 25, Weak, Level 2). The supporting registry analysis is for **IL-2 receptor antagonists as a class** (not basiliximab specifically): improved GFR by **3.8 mL/min/1.73 m² at 6 months** after LT in patients not on dialysis, and a **12% reduction in BPAR over the first year** (adjusted OR 0.88, 95% CI 0.81–0.96) — note the two endpoints are measured over **different windows**. Also reduces de novo DM and HTN with delayed TAC start (LDLT study: DM 10.6% → 4.7%, HTN 12.7% → 7.1%).
 
 **Anti-thymocyte globulin (ATG)**: Should NOT be used as induction — associated with higher mortality and graft failure risk vs. corticosteroids (Rec 26, Strong, Level 2). Alemtuzumab also associated with higher infection and malignancy risk.
 
@@ -79,7 +79,7 @@ When CKD develops or is threatened:
 
 1. **Dose reduction**: Lower TAC or CSA to minimum effective dose
 2. **Add antimetabolite (MMF)**: Allows further CNI dose reduction without increasing rejection (Rec 30)
-3. **Convert to or add mTOR inhibitor** (everolimus or sirolimus): Best implemented at ~3 months post-LT; EVL has strongest evidence for GFR improvement — meta-analysis of 4 studies (n=893) showed +7.4 mL/min/1.73 m² GFR with EVL; benefit greatest when introduced within 4 weeks post-LT (Rec 33, Strong, Level 2)
+3. **Convert to or add mTOR inhibitor** (everolimus or sirolimus): Best implemented at ~3 months post-LT; EVL has strongest evidence for GFR improvement — meta-analysis of 4 studies (n=893) showed GFR improvement of **7.4 mL/min (95% CI 2.75–17.8)** with EVL (the source states plain mL/min here, **not** body-surface-normalized); benefit greatest when introduced within 4 weeks post-LT (Rec 33, Strong, Level 2)
 4. **ACE-I or ARB**: For proteinuric CKD alongside CNI minimization
 5. **Kidney transplantation**: Optimal therapy for ESRD post-LT (45–60% reduction in long-term mortality vs. dialysis)
 
@@ -117,7 +117,7 @@ Both TAC and CSA are CYP3A4/P-gp substrates. Key interactions:
 
 **Decrease CNI levels** (CYP3A inducers): antimycobacterial agents — **rifamycins (rifampin > rifabutin) markedly decrease levels; CNI dose must be raised 2- to 5-fold when rifampin is started** — anticonvulsants, and St. John's wort.
 
-**CSA-specific**: [[direct-acting-antivirals|direct antiviral]] interactions (sofosbuvir, glecaprevir, voxilaprevir).
+**CSA-specific**: direct antiviral interactions (sofosbuvir, glecaprevir, voxilaprevir).
 
 *Sources for this section: [[aasld-ast-2025-liver-transplant-graft-complications]] Table 4 and [[aasld-2012-liver-transplant-long-term]] Table 4 / Recs 62-2, 65–67.*
 

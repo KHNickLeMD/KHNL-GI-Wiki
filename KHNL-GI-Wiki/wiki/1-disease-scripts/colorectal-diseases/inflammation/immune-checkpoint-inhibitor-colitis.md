@@ -3,7 +3,7 @@ title: "Immune Checkpoint Inhibitor Colitis (ICI Enterocolitis)"
 category: disease-script
 tags: [ici, immunotherapy, irae, colitis, enterocolitis, checkpoint-inhibitor, oncology, infliximab, vedolizumab, budesonide]
 created: 2026-09-04
-updated: 2026-09-04
+updated: 2026-09-05
 sources: [aga-2021-ici-colitis-hepatitis]
 ---
 
@@ -22,6 +22,8 @@ Colitis, with or without accompanying enteritis, is the **single most common GI 
 - [[#Differential Diagnosis]]
 - [[#Diagnostics]]
 - [[#Therapeutics]]
+- [[#See Also]]
+- [[#Sources]]
 
 ---
 
@@ -35,7 +37,7 @@ Colitis, with or without accompanying enteritis, is the **single most common GI 
 
 - Mild: more frequent loose stools, ± upper GI symptoms (nausea, vomiting, decreased appetite, reflux).
 - More severe: cramping, urgency, watery diarrhea; **bloody diarrhea can occur**; fevers are less typical.
-- **Tempo is the hallmark** — symptoms escalate over a period of **days**, generally after a recent ICI infusion, particularly when **ipilimumab** (anti–CTLA-4) is part of the regimen. This is more reminiscent of a colonic infection than of [[ulcerative-colitis|IBD]], and is the reason for expedited testing and treatment (**BPA 5**).
+- **Tempo is the hallmark** — symptoms escalate over a period of **days**, generally after a recent ICI infusion, particularly when **ipilimumab** (anti–CTLA-4) is part of the regimen. This is more reminiscent of a colonic infection than of [[inflammatory-bowel-disease|IBD]], and is the reason for expedited testing and treatment (**BPA 5**).
 
 **When to test rather than treat empirically.** Mild diarrhea on ICIs is common and usually managed empirically. Pursue diagnostic testing for any patient with new-onset diarrhea on ICI that is significant enough to interfere with activities of daily living, **or** that is accompanied by abdominal pain, incontinence, bleeding, fever, nausea, vomiting, or inability to take adequate nutrition.
 
@@ -88,9 +90,9 @@ Colitis, with or without accompanying enteritis, is the **single most common GI 
 - **Infection** — [[clostridioides-difficile|*C. difficile*]] and bacterial enteric pathogens; <5% of diarrhea on ICIs but must be excluded in all before immunosuppression
 - **No mucosal inflammation at all** — **20%–30%** of patients with suspected ICI enterocolitis have none (possibly fewer among ipilimumab-treated)
 - Immune-mediated **[[exocrine-pancreatic-insufficiency|pancreatic insufficiency]]** — uncommon but important; suspect with steatorrhea or non-response
-- New-onset **[[celiac-disease]]** — rare but reported as an ICI complication
+- New-onset **[[celiac-disease|celiac disease]]** — rare but reported as an ICI complication
 - Thyroid dysfunction
-- **[[ulcerative-colitis]]** / **[[crohns-disease]]** — both the endoscopic patterns are named after them, and pre-existing IBD changes the risk calculus (see Therapeutics)
+- **[[ulcerative-colitis|Ulcerative colitis]]** / **[[crohns-disease|Crohn's disease]]** — both the endoscopic patterns are named after them, and pre-existing IBD changes the risk calculus (see Therapeutics)
 - **[[colon-ischemia|Ischemic colitis]]** — indistinguishable from ICI enterocolitis on CT
 
 ---
@@ -99,14 +101,14 @@ Colitis, with or without accompanying enteritis, is the **single most common GI 
 
 **Stool studies (first)**
 
-- **[[clostridioides-difficile|*C. difficile*]] testing and stool cultures in all patients.** Stool pathogen panels are a reasonable alternative to cultures where available.
+- ***C. difficile* testing and stool cultures in all patients.** Stool pathogen panels are a reasonable alternative to cultures where available.
 - **Ova and parasite testing** — decide based on patient risk factors and local prevalence, not routinely.
 - **Stool inflammatory markers — lactoferrin and calprotectin (BPA 2).** The triage step: test early in CTCAE **grade ≥2** colitis/diarrhea (>4 bowel movements daily above baseline) and in selected patients with less-severe diarrhea, to stratify who needs endoscopy. **Stool lactoferrin sensitivity up to 90%** for histologic inflammation (retrospective data).
 - **Fecal elastase** ± spot or qualitative fecal fat — in non-responders or those presenting with steatorrhea.
 
 **Blood tests are rarely informative.** WBC, CRP, and ESR may be elevated, but specificity is low given concurrent extraintestinal irAEs and ongoing antitumor responses.
 
-- **Tissue transglutaminase IgA + total IgA** — reasonable to consider in any patient on ICI with new diarrhea, given the high sensitivity and specificity for [[celiac-disease]].
+- **Tissue transglutaminase IgA + total IgA** — reasonable to consider in any patient on ICI with new diarrhea, given the high sensitivity and specificity for celiac disease.
 - **Before biologic immunosuppression:** test **hepatitis B** ([[chronic-hepatitis-b|HBsAg, anti-HBs, anti-HBc]]) and **latent tuberculosis** if not sent before ICI initiation; HIV and HCV testing also suggested.
 
 **Endoscopy (BPA 3)** — confirm diagnosis and severity **before** starting high-dose systemic glucocorticoids.
@@ -114,7 +116,7 @@ Colitis, with or without accompanying enteritis, is the **single most common GI 
 - Early endoscopy correlates with improved outcomes in retrospective analyses, though the importance of a tissue diagnosis has not been rigorously evaluated.
 - **Flexible sigmoidoscopy is often adequate** — approximately **95%** of patients have inflammation in the **left colon** on biopsy, with the majority visible macroscopically. **Pancolitis is the most common pattern.**
 - **[[upper-endoscopy|EGD]] is reasonable after a negative flexible sigmoidoscopy** — and **may be higher yield than proceeding to a full [[colonoscopy]]**.
-- Endoscopy with biopsies is currently the **only** way to diagnose ICI-related [[microscopic-colitis]].
+- Endoscopy with biopsies is currently the **only** way to diagnose ICI-related microscopic colitis.
 - The optimal choice of endoscopic examination for obtaining diagnostic biopsies and grading severity **has not been established**.
 
 **Cross-sectional imaging (BPA 4)** — limited role.
@@ -150,9 +152,9 @@ Both are effective; **no data distinguish them**, so the choice rests on other r
 | Agent | Dose | Schedule |
 |---|---|---|
 | **Infliximab** ([[anti-tnf-agents\|anti-TNF]]) | 5 mg/kg IV | Weeks 0, 2, 6 |
-| **Vedolizumab** | 300 mg IV | Weeks 0, 2, 6 |
+| **[[vedolizumab\|Vedolizumab]]** | 300 mg IV | Weeks 0, 2, 6 |
 
-- **Response is typically rapid — generally <1 week.** This is an important contrast with [[ulcerative-colitis|IBD]].
+- **Response is typically rapid — generally <1 week.** This is an important contrast with IBD.
 - Many patients require the full loading dose; maintenance may still be needed in certain cases.
 
 **Choosing between them** — decide on underlying malignancy, comorbidities, infection risk, expected treatment duration, and other concurrent irAEs:
@@ -173,7 +175,7 @@ Both are effective; **no data distinguish them**, so the choice rests on other r
 ### Budesonide (BPA 7) — the two opposite answers
 
 - **As prophylaxis: ineffective.** A randomized controlled trial of colonically formulated budesonide to prevent ipilimumab enterocolitis showed **no therapeutic benefit**.
-- **For ICI-associated [[microscopic-colitis]]: effective.** Patients were highly responsive to colonic budesonide, and **many were able to continue their ICI** with budesonide as concurrent treatment.
+- **For ICI-associated microscopic colitis: effective.** Patients were highly responsive to colonic budesonide, and **many were able to continue their ICI** with budesonide as concurrent treatment.
 
 ### Retreatment with immunotherapy (BPA 8)
 
@@ -185,7 +187,7 @@ Both are effective; **no data distinguish them**, so the choice rests on other r
 
 ### Patients with pre-existing IBD (BPA 9)
 
-From a >100-patient multicenter retrospective analysis (evenly split [[ulcerative-colitis|UC]]/[[crohns-disease|Crohn's]], nearly all quiescent disease, 50% on no IBD-directed therapy, mostly PD-1/PD-L1):
+From a >100-patient multicenter retrospective analysis (evenly split UC/Crohn's, nearly all quiescent disease, 50% on no IBD-directed therapy, mostly PD-1/PD-L1):
 
 | Outcome | IBD cohort | Multicenter control cohort |
 |---|---|---|
@@ -202,7 +204,7 @@ From a >100-patient multicenter retrospective analysis (evenly split [[ulcerativ
 
 ## See Also
 
-[[immune-checkpoint-inhibitor-hepatitis]], [[microscopic-colitis]], [[ulcerative-colitis]], [[crohns-disease]], [[acute-diarrhea]], [[chronic-diarrhea]], [[clostridioides-difficile]], [[celiac-disease]], [[colon-ischemia]], [[anti-tnf-agents]], [[fmt]], [[colonoscopy]], [[upper-endoscopy]], [[chronic-hepatitis-b]], [[ibd-in-malignancy]], [[exocrine-pancreatic-insufficiency]]
+[[immune-checkpoint-inhibitor-hepatitis]], [[microscopic-colitis]], [[ulcerative-colitis]], [[crohns-disease]], [[inflammatory-bowel-disease]], [[acute-diarrhea]], [[chronic-diarrhea]], [[clostridioides-difficile]], [[celiac-disease]], [[colon-ischemia]], [[anti-tnf-agents]], [[vedolizumab]], [[fmt]], [[colonoscopy]], [[upper-endoscopy]], [[chronic-hepatitis-b]], [[ibd-in-malignancy]], [[exocrine-pancreatic-insufficiency]]
 
 ---
 

@@ -3,7 +3,7 @@ title: "LI-RADS"
 category: concept
 tags: [li-rads, hcc, liver, imaging, mri, ct, ceus, surveillance, cirrhosis, hpb]
 created: 2026-06-01
-updated: 2026-09-04
+updated: 2026-09-05
 sources: [aasld-2023-hcc, acg-2024-focal-liver-lesions, nccn-2026-hcc]
 ---
 
@@ -19,6 +19,8 @@ sources: [aasld-2023-hcc, acg-2024-focal-liver-lesions, nccn-2026-hcc]
 - [[#Categories and Management]]
 - [[#Imaging Modality]]
 - [[#Pitfalls]]
+- [[#See Also]]
+- [[#Sources]]
 
 ---
 

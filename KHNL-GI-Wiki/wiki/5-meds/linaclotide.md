@@ -22,7 +22,7 @@ Guanylate cyclase-C (GC-C) agonist; intestinal secretagogue — ↑cyclic GMP �
 - The **290 µg** dose is the IBS-C approval; CIC and IBS-C overlap and are often indistinguishable in practice. CIC trials studied 145 µg and 290 µg daily; 72 µg has been studied less.
 - **Administration:** take **without food, ≥30 minutes before the first meal of the day**.
 - **Duration:** trials ran **12 weeks**; the drug label sets no limit. Can be used as a replacement for, or an adjunct to, OTC agents.
-- Useful when bloating, abdominal discomfort, and pain coexist — linaclotide improves these abdominal symptoms in IBS-C trials.
+- Useful when [[abdominal-bloating-and-distention|bloating]], abdominal discomfort, and pain coexist — linaclotide improves these abdominal symptoms in IBS-C trials.
 
 ### Refractory Constipation
 
@@ -48,7 +48,7 @@ Guanylate cyclase-C (GC-C) agonist; intestinal secretagogue — ↑cyclic GMP �
 
 ## See Also
 
-[[chronic-idiopathic-constipation]], [[irritable-bowel-syndrome]], [[plecanatide]], [[lubiprostone]], [[tenapanor]], [[prucalopride]], [[tegaserod]], [[chronic-constipation]], [[disorders-of-gut-brain-interaction]]
+[[chronic-idiopathic-constipation]], [[irritable-bowel-syndrome]], [[plecanatide]], [[lubiprostone]], [[tenapanor]], [[prucalopride]], [[tegaserod]], [[chronic-constipation]], [[abdominal-bloating-and-distention]], [[disorders-of-gut-brain-interaction]]
 
 ---
 
