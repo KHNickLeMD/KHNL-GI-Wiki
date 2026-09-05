@@ -3,7 +3,7 @@ title: "Hepatocellular Carcinoma"
 category: disease-script
 tags: [hcc, hepatocellular, liver, cancer, hpb, surveillance, cirrhosis, hbv, adjuvant, immunotherapy, liver-transplant, milan-criteria, afp, downstaging, mtor-inhibitor, sirolimus, everolimus, bclc, sorafenib, lenvatinib, atezolizumab, bevacizumab, tace, tare, ablation, resection, li-rads, locoregional]
 created: 2026-05-16
-updated: 2026-09-04
+updated: 2026-09-05
 sources: [aasld-2023-hcc, aasld-2025-hcc-critical-update, aasld-ast-2025-liver-transplant-candidate-evaluation, aasld-ast-2025-liver-transplant-graft-complications, aga-2022-hcc-systemic, nccn-2026-hcc, aga-2026-hcc-surveillance, aasld-idsa-2025-chb-treatment]
 ---
 
@@ -37,7 +37,7 @@ sources: [aasld-2023-hcc, aasld-2025-hcc-critical-update, aasld-ast-2025-liver-t
 
 ### Establishing the Diagnosis
 
-HCC is the most common primary liver cancer (75–86% of all primary liver cancers); 6th most common cancer worldwide; 3rd leading cause of cancer-related death. Arises predominantly in the setting of [[cirrhosis|cirrhosis]] (~80% of HCC) or chronic HBV infection. Annual HCC incidence in Child-Pugh A–B cirrhosis: ~2% per year. [[aasld-2023-hcc]]
+HCC is the most common primary liver cancer (75–86% of all primary liver cancers); 6th most common cancer worldwide; 3rd leading cause of cancer-related death. Arises predominantly in the setting of [[cirrhosis]] (~80% of HCC) or chronic HBV infection. Annual HCC incidence in Child-Pugh A–B cirrhosis: ~2% per year. [[aasld-2023-hcc]]
 
 **Risk factors:** [[chronic-hepatitis-b|HBV]] (especially without vaccination/antiviral treatment), [[hepatitis-c|HCV]] (even post-SVR with cirrhosis), [[alcohol-associated-liver-disease|alcohol-associated cirrhosis]] (5-fold increased risk), [[nafld-masld|NAFLD/NASH]] (fastest growing cause of HCC in LT candidates), tobacco, [[obesity]]/metabolic syndrome, aflatoxin B1 (with HBV). Racial and ethnic disparities exist with disproportionate burden in American Indian, Hispanic, and Black individuals.
 
@@ -47,7 +47,7 @@ HCC is the most common primary liver cancer (75–86% of all primary liver cance
 
 ### HCC Surveillance
 
-**Survey with ultrasound + AFP every 6 months** (GS 10, Level 2, Strong): [[cirrhosis|Child-Pugh A–B cirrhosis]] of any etiology, Child-Pugh C **only if a [[liver-transplantation|transplant]] candidate**, and defined non-cirrhotic [[chronic-hepatitis-b|chronic HBV]] subsets (age/country-of-origin thresholds, family history, PAGE-B ≥10, HDV or HIV co-infection, higher-risk persons after HBsAg loss). **Do not** survey non-cirrhotic [[nafld-masld|MASLD]] or [[hepatitis-c|HCV]] stage-3 fibrosis, Child-Pugh C non-transplant candidates, or patients with life expectancy <1–2 years. [[aasld-2023-hcc]], [[aasld-idsa-2025-chb-treatment]]
+**Survey with ultrasound + AFP every 6 months** (GS 10, Level 2, Strong): [[cirrhosis|Child-Pugh A–B cirrhosis]] of any etiology, Child-Pugh C **only if a [[liver-transplantation|transplant]] candidate**, and defined non-cirrhotic [[chronic-hepatitis-b|chronic HBV]] subsets (age/country-of-origin thresholds, family history, PAGE-B ≥10, [[hepatitis-d|HDV]] or HIV co-infection, higher-risk persons after HBsAg loss). **Do not** survey non-cirrhotic [[nafld-masld|MASLD]] or [[hepatitis-c|HCV]] stage-3 fibrosis, Child-Pugh C non-transplant candidates, or patients with life expectancy <1–2 years. [[aasld-2023-hcc]], [[aasld-idsa-2025-chb-treatment]]
 
 → **Full indication table with every criterion, incidence threshold, and qualifier (endemic-country definition, co-infection rules, test performance, modality caveats, the case-by-case advanced-fibrosis exception, and the benefit/harm data) lives on [[hcc-surveillance]]** — that is the single home for it; it is not repeated here.
 
@@ -77,6 +77,8 @@ HCC is the most common primary liver cancer (75–86% of all primary liver cance
 - Enroll in clinical trials at any line
 
 *Note: Adjuvant/neoadjuvant systemic therapy after resection or ablation is NOT recommended — see Therapeutics below.*
+
+*Gaps in this section: stage allocation turns on **ECOG performance status** (PS 0 vs 1–2 vs 3–4) and response assessment on **mRECIST / RECIST 1.1**, but no ingested source prints the ECOG grade definitions or the mRECIST response categories. The Oken 1982 ECOG paper and the mRECIST/RECIST criteria papers are not ingested — do not reconstruct either from memory.*
 
 ---
 
@@ -124,6 +126,8 @@ HCC is the most common primary liver cancer (75–86% of all primary liver cance
 4. **Lesion ≥1 cm on US** → Diagnostic contrast-enhanced multiphasic MRI or CT
 5. **AFP ≥20 ng/mL (even without lesion on US)** → Diagnostic contrast-enhanced multiphasic MRI or CT
 6. **Rising AFP on 2 consecutive tests or doubling** → Diagnostic multiphasic MRI or CT
+
+- *Gap: the whole recall pathway turns on the **US (LI-RADS) visualization score A/B/C**, but no ingested source prints the criteria that assign a study to A, B, or C — the ACR LI-RADS US algorithm document is not ingested. Take the score from the radiology report; do not assign it from this page. ([[hcc-surveillance]] and [[li-rads]] carry the same gap.)*
 
 If no lesion found but AFP significantly elevated without explanation: alternative CT/MRI modality ± chest/pelvic CT. If still negative, consider PET CT. *(Figure 5 footnote 4 — no clear threshold is established for "significantly elevated"; **AFP ≥200 ng/mL or ≥400 ng/mL** may be considered significant depending on clinical context.)*
 
@@ -181,7 +185,7 @@ flowchart TD
 
 **Extended resection indications (beyond BCLC 0/A):**
 
-- Data support surgical resection in select multinodular HCC beyond Milan at high-volume centers (meta-analysis of 18 studies: HR 0.56, 95% CI 0.35–0.90 vs. TACE in BCLC B)
+- Data support surgical resection in select multinodular HCC beyond [[#Liver Transplantation for HCC|Milan criteria]] at high-volume centers (meta-analysis of 18 studies: HR 0.56, 95% CI 0.35–0.90 vs. TACE in BCLC B)
 - Multifocal HCC and resection with PVTT: controversial; supported by Asian data for selected patients (Vp1/Vp2 segmental thrombus); perform only at high-volume centers with MDT discussion
 
 **Minimally invasive surgery (GS 30, Level 3, Weak):** Laparoscopic/robotic hepatectomy may enhance recovery in selected patients; permits surgery in patients with mild portal hypertension for minor liver resection; major hepatectomy via MIS only at high-volume, experienced centers.

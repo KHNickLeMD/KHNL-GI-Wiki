@@ -3,7 +3,7 @@ title: "Hepatic Cysts"
 category: disease-script
 tags: [hepatic-cysts, liver, hpb, focal-liver-lesion, simple-cyst, complex-cyst, polycystic-liver, pcld, adpkd, mcn-l, hydatid, echinococcus, choledochal-cyst, caroli]
 created: 2026-05-07
-updated: 2026-09-02
+updated: 2026-09-05
 sources: [acg-2024-focal-liver-lesions]
 ---
 
@@ -98,7 +98,7 @@ No score. Three questions drive every decision ([[acg-2024-focal-liver-lesions]]
 ### Tumor Markers and Aspiration — Both Unhelpful
 
 - **Serum CA 19-9 is elevated in up to 50%** of patients with simple cysts and in ~50% of PCLD without malignancy; **cyst fluid can contain CA 19-9 without malignancy** — it does **not** distinguish simple from malignant cysts ([[acg-2024-focal-liver-lesions]])
-- **Fluid aspiration or biopsy of a suspected MCN-L is NOT recommended** to separate benign from malignant — **low sensitivity** (KC 45)
+- **Fluid aspiration or [[liver-biopsy|biopsy]] of a suspected MCN-L is NOT recommended** to separate benign from malignant — **low sensitivity** (KC 45)
 - Cyst aspiration alone is useful to confirm a cyst is the source of symptoms, but is **not definitive treatment** (high recurrence)
 
 ---
@@ -243,7 +243,7 @@ No score. Three questions drive every decision ([[acg-2024-focal-liver-lesions]]
 
 ## See Also
 
-[[focal-liver-lesions]], [[hepatocellular-adenoma]], [[focal-nodular-hyperplasia]], [[hepatic-hemangioma]], [[hepatocellular-carcinoma]], [[cholangiocarcinoma]], [[gallbladder-cancer]], [[li-rads]], [[cirrhosis]], [[portal-hypertension]], [[liver-transplantation]], [[somatostatin-analogs]], [[mri-mrcp]], [[ercp]], [[nutrition-in-liver-disease]], [[entamoeba-histolytica-infection]], [[jaundice]], [[ascites]], [[acute-cholangitis]], [[endoscopic-ultrasound]]
+[[focal-liver-lesions]], [[hepatocellular-adenoma]], [[focal-nodular-hyperplasia]], [[hepatic-hemangioma]], [[hepatocellular-carcinoma]], [[cholangiocarcinoma]], [[gallbladder-cancer]], [[li-rads]], [[cirrhosis]], [[portal-hypertension]], [[liver-transplantation]], [[somatostatin-analogs]], [[mri-mrcp]], [[ercp]], [[liver-biopsy]], [[nutrition-in-liver-disease]], [[entamoeba-histolytica-infection]], [[jaundice]], [[ascites]], [[acute-cholangitis]], [[endoscopic-ultrasound]]
 
 ---
 

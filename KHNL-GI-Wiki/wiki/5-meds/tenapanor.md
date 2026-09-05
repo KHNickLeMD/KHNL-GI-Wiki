@@ -3,7 +3,7 @@ title: "Tenapanor"
 category: med
 tags: [tenapanor, nhe3-inhibitor, secretagogue, ibs-c, constipation]
 created: 2026-08-14
-updated: 2026-09-03
+updated: 2026-09-05
 sources: [aga-2022-ibs-c, aga-acg-2023-constipation, aga-2026-refractory-constipation]
 ---
 
@@ -60,9 +60,11 @@ Three placebo-controlled RCTs (1 phase 2b, 2 phase 3 — T3MPO-1 n = 307 vs 299 
 - **Last-line, off-label** in refractory constipation — same tier as off-label pyridostigmine and the (non-US) IBAT inhibitor elobixibat ([[aga-2026-refractory-constipation]]). See [[chronic-idiopathic-constipation]] for the full escalation ladder.
 - No head-to-head trials against the GC-C agonists.
 
+---
+
 ## See Also
 
-[[irritable-bowel-syndrome]], [[linaclotide]], [[plecanatide]], [[lubiprostone]], [[tegaserod]], [[prucalopride]], [[chronic-idiopathic-constipation]], [[disorders-of-gut-brain-interaction]]
+[[irritable-bowel-syndrome]], [[linaclotide]], [[plecanatide]], [[lubiprostone]], [[tegaserod]], [[prucalopride]], [[chronic-idiopathic-constipation]], [[chronic-constipation]], [[disorders-of-gut-brain-interaction]]
 
 ---
 
@@ -70,4 +72,4 @@ Three placebo-controlled RCTs (1 phase 2b, 2 phase 3 — T3MPO-1 n = 307 vs 299 
 
 1. [[aga-2022-ibs-c|AGA Clinical Practice Guideline: Pharmacological Management of IBS-C (2022)]]
 2. [[aga-acg-2023-constipation|AGA-ACG 2023 Pharmacologic Management of Chronic Idiopathic Constipation]]
-3. [[aga-2026-refractory-constipation|AGA Clinical Practice Update on Evaluation and Management of Refractory Constipation: Expert Review (2026)]]
+3. [[aga-2026-refractory-constipation|AGA Clinical Practice Update on Evaluation and Management of Refractory Constipation: Expert Review]]

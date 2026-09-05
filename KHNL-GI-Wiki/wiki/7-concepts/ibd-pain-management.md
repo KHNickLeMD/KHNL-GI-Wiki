@@ -3,7 +3,7 @@ title: "Pain Management in IBD"
 category: concept
 tags: [ibd, crohns, ulcerative-colitis, pain, chronic-pain, neuromodulators, opioids, narcotic-bowel-syndrome, brain-gut-behavior-therapy]
 created: 2026-07-23
-updated: 2026-08-28
+updated: 2026-09-05
 sources: [aga-2024-ibd-pain]
 ---
 
@@ -22,6 +22,8 @@ sources: [aga-2024-ibd-pain]
   - [[#Opioids and Cannabis]]
 - [[#Non-pharmacologic Management]]
 - [[#Referral and Team Structure]]
+- [[#See Also]]
+- [[#Sources]]
 
 ## Overview
 
@@ -165,13 +167,13 @@ These originate in dedicated brain networks, influence descending brainstem pain
 - First contact for new-onset abdominal pain: primary care or gastroenterologist.
 - **Once organic causes (e.g. flare) ruled out → gastroenterologist should consider multidisciplinary, whole-person care early.**
 - Initial comprehensive assessment includes a **psychologist experienced in chronic visceral pain**; nonpsychologists yield to mental-health professionals on modality choice.
-- Significant psychiatric comorbidity → psychologist or psychiatrist involvement.
+- Significant psychiatric comorbidity → psychologist or psychiatrist involvement. Baseline + annual depression/anxiety screening for every IBD patient is on [[ibd-preventive-care]].
 - **Uptake of nonpharmacologic therapy rises considerably when the IBD provider makes the referral** — schedule a follow-up visit after any outside referral to check on it.
 - **Rome Foundation Psychogastroenterology Group** named as a route to brain–gut-trained psychologists.
 
 ## See Also
 
-[[inflammatory-bowel-disease]], [[crohns-disease]], [[ulcerative-colitis]], [[disorders-of-gut-brain-interaction]], [[irritable-bowel-syndrome]]
+[[inflammatory-bowel-disease]], [[crohns-disease]], [[ulcerative-colitis]], [[disorders-of-gut-brain-interaction]], [[irritable-bowel-syndrome]], [[ibd-preventive-care]], [[nutrition-in-ibd]]
 
 ---
 

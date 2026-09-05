@@ -3,11 +3,29 @@ title: "IBD Preventive Care"
 category: concept
 tags: [ibd, crohns-disease, ulcerative-colitis, preventive-care, vaccinations, cancer-screening, osteoporosis, depression, anxiety, immune-modifying-therapy]
 created: 2026-05-15
-updated: 2026-09-04
+updated: 2026-09-05
 sources: [acg-2025-ibd-preventive-care, acg-2017-ibd-preventive-care, aga-2025-noncolorectal-cancer-ibd]
 ---
 
 Patients with [[inflammatory-bowel-disease|IBD]] ([[crohns-disease]] and [[ulcerative-colitis]]) require proactive health maintenance beyond GI disease management. More than 70% of IBD patients will at some time be on immune-modifying therapy, significantly elevating the risk of vaccine-preventable infections, certain malignancies, and osteoporosis. Gastroenterologists should not assume primary care manages these issues — verification, documentation, and administration at GI visits is expected.
+
+## Contents
+- [[#Vaccination Principles]]
+  - [[#Vaccine Checklist by Agent/Age]]
+  - [[#Hepatitis B Seroprotection Algorithm (AGA 2025)]]
+  - [[#Pneumococcal Sequencing (AGA 2025)]]
+  - [[#Vaccine Timing Note (AGA 2025)]]
+- [[#Cancer Screening]]
+  - [[#Cervical Cancer]]
+  - [[#Melanoma]]
+  - [[#Non-Melanoma Skin Cancer (NMSC)]]
+  - [[#Anal Cancer]]
+  - [[#Colorectal Dysplasia]]
+- [[#Osteoporosis Screening]]
+- [[#Mental Health Screening]]
+- [[#Smoking]]
+- [[#See Also]]
+- [[#Sources]]
 
 ---
 
@@ -17,7 +35,7 @@ Patients with [[inflammatory-bowel-disease|IBD]] ([[crohns-disease]] and [[ulcer
 
 **Timing:** Administer all due vaccines before starting immune-modifying therapy when possible; do not delay necessary IBD therapy for vaccination. For patients already on therapy, vaccines should not wait — administer at earliest opportunity regardless of cycle timing.
 
-**Immune response:** [[anti-tnf-agents|Anti-TNF therapy]] (especially in combination with [[thiopurines]] or methotrexate) blunts vaccine immunogenicity. Non-TNF biologics (vedolizumab, ustekinumab) appear to have less impact. Newer agents (IL-23 inhibitors, JAK inhibitors, S1P modulators) — data limited in IBD.
+**Immune response:** [[anti-tnf-agents|Anti-TNF therapy]] (especially in combination with [[thiopurines]] or methotrexate) blunts vaccine immunogenicity. Non-TNF biologics ([[vedolizumab]], ustekinumab) appear to have less impact. Newer agents (IL-23 inhibitors, JAK inhibitors, S1P modulators) — data limited in IBD.
 
 ### Vaccine Checklist by Agent/Age
 
@@ -78,9 +96,9 @@ Patients with [[inflammatory-bowel-disease|IBD]] ([[crohns-disease]] and [[ulcer
 
 ### Anal Cancer
 
-*AGA 2025 net-new (BPA 4).*
+*AGA 2025 net-new (BPA 4). Risk-group eligibility, start ages, and the cytology/hrHPV → high-resolution anoscopy pathway for the general high-risk population live on [[anal-cancer-screening]] — not duplicated here.*
 
-- At **every colonoscopy**, perform a thorough perianal and anal examination.
+- At **every [[colonoscopy]]**, perform a thorough perianal and anal examination.
 - Special attention to the anal canal in: perianal [[crohns-disease|Crohn's disease]], anal stricture, HPV, HIV, and anoreceptive intercourse.
 - Mostly squamous cell carcinoma. Incidence: 10.2/100,000 person-years in [[ulcerative-colitis|UC]], 7.7 in [[crohns-disease|CD]]; **19.6/100,000 in anal/perianal Crohn's**.
 - Other risk factors: smoking, persistent HPV, HIV, MSM, women with HPV-associated genital cancers, solid organ recipients.
@@ -88,7 +106,7 @@ Patients with [[inflammatory-bowel-disease|IBD]] ([[crohns-disease]] and [[ulcer
 
 ### Colorectal Dysplasia
 
-- Not addressed in this preventive care guideline; see [[colonoscopy]] for IBD dysplasia [[colonoscopy-surveillance|surveillance intervals]]
+- Not addressed in these preventive-care guidelines. Who and when to survey for [[colorectal-cancer|colitis-associated CRC]] lives on [[ulcerative-colitis]] and [[crohns-disease]]; chromoendoscopy/SCENIC technique on [[colonoscopy]]. ⚠ No ingested source states a numeric repeat interval for IBD dysplasia surveillance — flagged on those pages, not filled. The average-risk grid on [[colonoscopy-surveillance]] explicitly excludes IBD.
 
 ---
 
@@ -125,7 +143,7 @@ Conventional DEXA risk factors apply: age, female sex, low BMI, smoking, family 
 
 - CBT: variable benefit; digital/face-to-face formats available
 - Acceptance and commitment therapy: emerging evidence
-- SNRIs: effective for both depressive and somatic GI symptoms in meta-analysis
+- SNRIs: effective for both depressive and somatic GI symptoms in meta-analysis (neuromodulator class/dosing table on [[ibd-pain-management]])
 - Achieving IBD remission itself improves psychiatric scores
 
 ---
@@ -137,7 +155,7 @@ Conventional DEXA risk factors apply: age, female sex, low BMI, smoking, family 
 
 ## See Also
 
-[[inflammatory-bowel-disease]], [[crohns-disease]], [[ulcerative-colitis]], [[thiopurines]], [[ibd-in-malignancy]], [[ibd-endoscopic-scoring]], [[ibd-pain-management]], [[nutrition-in-ibd]], [[pouchitis]], [[colonoscopy]], [[chronic-hepatitis-b]], [[rotavirus]], [[colorectal-cancer]], [[colonoscopy-surveillance]]
+[[inflammatory-bowel-disease]], [[crohns-disease]], [[ulcerative-colitis]], [[thiopurines]], [[anti-tnf-agents]], [[vedolizumab]], [[ibd-in-malignancy]], [[ibd-endoscopic-scoring]], [[ibd-pain-management]], [[nutrition-in-ibd]], [[anal-cancer-screening]], [[pouchitis]], [[colonoscopy]], [[chronic-hepatitis-b]], [[rotavirus]], [[colorectal-cancer]], [[colonoscopy-surveillance]], [[primary-sclerosing-cholangitis]]
 
 ---
 

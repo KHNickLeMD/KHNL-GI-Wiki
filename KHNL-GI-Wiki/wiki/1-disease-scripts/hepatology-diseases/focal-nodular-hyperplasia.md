@@ -3,11 +3,24 @@ title: "Focal Nodular Hyperplasia"
 category: disease-script
 tags: [fnh, liver, hpb, focal-liver-lesion, benign-liver, gadoxetate, mri]
 created: 2026-05-07
-updated: 2026-08-30
+updated: 2026-09-05
 sources: [acg-2024-focal-liver-lesions]
 ---
 
 # Focal Nodular Hyperplasia
+
+---
+
+## Contents
+- [[#Assessment]]
+  - [[#Establishing the Diagnosis]]
+  - [[#Severity Assessment]]
+- [[#Differential Diagnosis]]
+- [[#Diagnostics]]
+  - [[#Imaging]]
+- [[#Therapeutics]]
+  - [[#Once Definitively Characterized as FNH]]
+  - [[#If Imaging is Indeterminate (Cannot Definitively Distinguish FNH from HCA)]]
 
 ---
 
@@ -28,7 +41,7 @@ sources: [acg-2024-focal-liver-lesions]
 
 - Local reaction to a vascular abnormality — usually an **aberrant dystrophic artery or vascular injury** → disturbed local blood flow
 - Hyperperfusion → oxidative stress from hypoxia → hepatic stellate cell response → hyperplastic microenvironment
-- Same mechanism underlies FNH-like lesions (e.g. nodular regenerative hyperplasia) in abnormal hepatic vascular flow, such as cardiac [[cirrhosis|cirrhosis]]
+- Same mechanism underlies FNH-like lesions (e.g. nodular regenerative hyperplasia) in abnormal hepatic vascular flow, such as cardiac [[cirrhosis]]
 
 **Presentation:**
 
@@ -59,7 +72,7 @@ Key concern is distinguishing FNH from [[hepatocellular-adenoma|HCA]] (very diff
 
 ### Imaging
 
-**MRI with hepatobiliary contrast agent (e.g. gadoxetic acid) — preferred modality** (Rec 9, Conditional / Low) [[acg-2024-focal-liver-lesions]]:
+**[[mri-mrcp|MRI]] with hepatobiliary contrast agent (e.g. gadoxetic acid) — preferred modality** (Rec 9, Conditional / Low) [[acg-2024-focal-liver-lesions]]:
 
 - Correctly classifies FNH vs [[hepatocellular-adenoma|HCA]] with accuracy **>90%**; **specificity ~100%** for FNH
 - Lesion: well-circumscribed, **homogeneously arterial hyperenhancing**, becoming **isoenhancing** on portal venous and delayed phases
@@ -109,7 +122,7 @@ Key concern is distinguishing FNH from [[hepatocellular-adenoma|HCA]] (very diff
 
 ## See Also
 
-[[focal-liver-lesions]], [[hepatocellular-adenoma]], [[hepatic-hemangioma]], [[hepatocellular-carcinoma]], [[hepatic-cysts]], [[li-rads]], [[liver-biopsy]], [[cirrhosis]]
+[[focal-liver-lesions]], [[hepatocellular-adenoma]], [[hepatic-hemangioma]], [[hepatocellular-carcinoma]], [[hepatic-cysts]], [[li-rads]], [[mri-mrcp]], [[liver-biopsy]], [[cirrhosis]]
 
 ---
 

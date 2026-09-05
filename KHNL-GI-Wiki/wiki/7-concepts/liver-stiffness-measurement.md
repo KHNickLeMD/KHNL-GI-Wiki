@@ -3,11 +3,11 @@ title: "Liver Stiffness Measurement (Elastography)"
 category: concept
 tags: [liver-stiffness, elastography, transient-elastography, vcte, fibroscan, spleen-stiffness, cACLD, CSPH, noninvasive, portal-hypertension, fibrosis]
 created: 2026-08-01
-updated: 2026-09-03
+updated: 2026-09-05
 sources: [baveno-viii-2026-portal-hypertension, baveno-vii-2022-portal-hypertension, aasld-2024-nilda-portal-htn, aasld-2023-portal-hypertension]
 ---
 
-Liver stiffness measurement (LSM) is a non-invasive estimate of hepatic fibrosis and portal pressure using elastography — a core [[noninvasive-liver-disease-assessment|NILDA]] tool. It is the point-of-care backbone of the [[portal-hypertension|cACLD/CSPH]] framework, letting clinicians stage [[cirrhosis|compensated advanced chronic liver disease]] and stratify decompensation risk **without biopsy or [[hepatic-venous-pressure-gradient|HVPG]]**.
+Liver stiffness measurement (LSM) is a non-invasive estimate of hepatic fibrosis and portal pressure using elastography — a core [[noninvasive-liver-disease-assessment|NILDA]] tool. It is the point-of-care backbone of the [[portal-hypertension|cACLD/CSPH]] framework, letting clinicians stage [[cirrhosis|compensated advanced chronic liver disease]] and stratify decompensation risk **without [[liver-biopsy|biopsy]] or [[hepatic-venous-pressure-gradient|HVPG]]**.
 
 ## Modalities
 
@@ -52,7 +52,7 @@ The full **"rule of 5"** algorithm, the three Baveno VIII CSPH rule-in criteria,
 
 - **What produces a ≥30% LSM reduction:** **≥10% weight reduction** in MASLD-related cACLD (2.13). In MASLD-related cACLD **without CSPH**, a confirmed ≥30% relative LSM reduction may indicate **≥1 stage fibrosis regression** (2.6) — and combining it with a **≥0.5-unit absolute ELF reduction** assesses that better than LSM alone (2.7).
 - The Baveno VII definition of a clinically significant *decrease* — **≥20% drop with LSM <20 kPa, or any drop to <10 kPa** (2.13) — is not restated in Baveno VIII; treat the ≥30% relative-change rule as the current one.
-- **False elevation** with: recent food intake, active hepatitis / ALT >3× ULN, cholestasis/biliary obstruction, hepatic congestion, [[obesity]] (unreliable — use XL probe), and infiltrative disease. Cut-offs are less reliable in [[nafld-masld|MASLD]] and PSC with dominant strictures.
+- **False elevation** with: recent food intake, active hepatitis / ALT >3× ULN, cholestasis/biliary obstruction, hepatic congestion, [[obesity]] (unreliable — use XL probe), and infiltrative disease. Cut-offs are less reliable in [[nafld-masld|MASLD]] and [[primary-sclerosing-cholangitis|PSC]] with dominant strictures.
 - **LSM-based criteria cannot be applied in [[porto-sinusoidal-vascular-disorder|PSVD/NCPF]]** ([[baveno-viii-2026-portal-hypertension]] 8.48) — but **spleen** stiffness can: SSM <40 kPa with bilirubin <1 mg/dL spares endoscopy there (8.47).
 - **Paediatrics:** LSM is a valuable complementary tool for identifying children at risk of portal hypertension and monitoring progression, but **management cannot rely on LSM and/or SSM alone** — the paediatric varices cut-offs are not yet validated (1.25–1.26).
 
@@ -60,7 +60,7 @@ The full **"rule of 5"** algorithm, the three Baveno VIII CSPH rule-in criteria,
 
 ## See Also
 
-[[portal-hypertension]], [[hepatic-venous-pressure-gradient]], [[cirrhosis]], [[porto-sinusoidal-vascular-disorder]], [[nafld-masld]], [[liver-biopsy]], [[noninvasive-liver-disease-assessment]], [[variceal-upper-gi-bleeding]], [[alcohol-associated-liver-disease]], [[obesity]]
+[[portal-hypertension]], [[hepatic-venous-pressure-gradient]], [[cirrhosis]], [[porto-sinusoidal-vascular-disorder]], [[nafld-masld]], [[liver-biopsy]], [[noninvasive-liver-disease-assessment]], [[variceal-upper-gi-bleeding]], [[alcohol-associated-liver-disease]], [[primary-sclerosing-cholangitis]], [[obesity]]
 
 ---
 

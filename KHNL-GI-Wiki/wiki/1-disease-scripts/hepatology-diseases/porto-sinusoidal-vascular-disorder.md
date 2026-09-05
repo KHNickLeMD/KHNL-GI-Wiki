@@ -3,7 +3,7 @@ title: "Porto-Sinusoidal Vascular Disorder (PSVD) / Non-Cirrhotic Portal Fibrosi
 category: disease-script
 tags: [psvd, ncpf, non-cirrhotic-portal-hypertension, idiopathic-portal-hypertension, nodular-regenerative-hyperplasia, obliterative-portal-venopathy, portal-hypertension, liver-biopsy, spleen-stiffness, varices]
 created: 2026-08-01
-updated: 2026-09-03
+updated: 2026-09-05
 sources: [baveno-viii-2026-portal-hypertension, baveno-vii-2022-portal-hypertension]
 ---
 
@@ -18,6 +18,7 @@ sources: [baveno-viii-2026-portal-hypertension, baveno-vii-2022-portal-hypertens
 - [[#Diagnostics]]
   - [[#Diagnostic scoring system]]
   - [[#Adjunct workup]]
+  - [[#Gaps]]
 - [[#Therapeutics]]
 
 ---
@@ -102,6 +103,11 @@ PSVD/NCPF is defined **histologically + clinically**, not by a stage. Baveno VII
 - **Contrast-enhanced cross-sectional imaging at diagnosis** (8.49) — evaluate the anatomy and patency of the portal venous system, spontaneous portosystemic collaterals, **hepatic veno-venous communications**, and nodules. (Baveno VII 9.25 named CT specifically; VIII broadens to contrast-enhanced cross-sectional imaging and adds veno-venous communications and nodules to what is being looked for.)
 - **HVPG** is typically <10 mmHg and **underestimates** the true portal pressure because of the pre-sinusoidal component. Where a pre-sinusoidal cause is suspected, [[interventional-eus-vascular|EUS-guided portosystemic pressure gradient]] measures portal pressure directly rather than through the wedged proxy.
 
+### Gaps
+
+- **The lower band of the diagnostic score has no recoverable label.** Figure 4's total-score axis prints tick marks at 0–1, 2, 3–4 and 5+, but only ≥5 ("definite") and 3–4 ("possible") carry legible text in the extracted PDF; what a score of ≤2 is called could not be recovered. PyMuPDF was unavailable at ingest, so the figure could not be captured as an image.
+- **The exclusion criteria are in Supplementary Table S2**, and the associated-conditions list in Supplementary Table S3, neither of which is in the ingested file. The **EASL Clinical Practice Guidelines on Vascular Liver Diseases**, cited by statement 8.3 for the full aetiological workup, is **not ingested**.
+
 ---
 
 ## Therapeutics
@@ -136,11 +142,6 @@ PSVD/NCPF is defined **histologically + clinically**, not by a stage. Baveno VII
 **General vascular-liver-disease care (8.1–8.2):** manage in close collaboration with a **centre experienced in vascular liver disease**, particularly when endovascular treatment is contemplated; encourage **vaccination (including viral hepatitis and SARS-CoV-2)**, physical activity, a healthy diet, and alcohol abstinence; and systematically assess psychological and social needs, which are commonly overlooked.
 
 **Pregnancy and contraception (8.15–8.20)** apply to PSVD/NCPF as to all vascular liver disease — non-oestrogen contraception, replacement of oral anticoagulants with therapeutic-dose LMWH once pregnancy is detected, **variceal screening in the second trimester** unless screened within the preceding year, **propranolol** for prophylaxis, and vaginal delivery preferred over caesarean provided **platelets >20 G/L**. Details on [[liver-disease-in-pregnancy]].
-
-### Gaps
-
-- **The lower band of the diagnostic score has no recoverable label.** Figure 4's total-score axis prints tick marks at 0–1, 2, 3–4 and 5+, but only ≥5 ("definite") and 3–4 ("possible") carry legible text in the extracted PDF; what a score of ≤2 is called could not be recovered. PyMuPDF was unavailable at ingest, so the figure could not be captured as an image.
-- **The exclusion criteria are in Supplementary Table S2**, and the associated-conditions list in Supplementary Table S3, neither of which is in the ingested file. The **EASL Clinical Practice Guidelines on Vascular Liver Diseases**, cited by statement 8.3 for the full aetiological workup, is **not ingested**.
 
 ---
 

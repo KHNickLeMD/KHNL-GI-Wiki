@@ -3,7 +3,7 @@ title: "Acute-on-Chronic Liver Failure (ACLF)"
 category: disease-script
 tags: [ACLF, acute-on-chronic-liver-failure, cirrhosis, organ-failure, ICU, NACSELD, EASL-CLIF, terlipressin, HRS, hepatic-encephalopathy, infection, nutrition, liver-transplantation, palliative-care]
 created: 2026-05-28
-updated: 2026-09-03
+updated: 2026-09-05
 sources: [aasld-2024-aclf, baveno-viii-2026-portal-hypertension]
 ---
 
@@ -21,6 +21,7 @@ sources: [aasld-2024-aclf, baveno-viii-2026-portal-hypertension]
   - [[#Kidney Failure (HRS-AKI)]]
   - [[#Infection Management]]
   - [[#Coagulopathy]]
+  - [[#ACLF and Pre-emptive TIPS]]
   - [[#Nutrition]]
   - [[#Liver Transplantation in ACLF]]
   - [[#Palliative Care]]
@@ -229,15 +230,17 @@ Infection is the most common precipitant of ACLF (~48%). Every hour delay in ant
 | Parameter | Recommendation |
 |---|---|
 | Early nutrition support team involvement | GS 37 — early involvement in all ACLF hospitalizations |
-| Nutrition risk assessment | NUTRIC score at ICU admission (GS 38) |
+| Nutrition risk assessment | **NUTRIC score** at ICU admission (GS 38) — six-factor point table and its high/low bands on [[nutrition-in-hospitalized-patients\|NUTRIC scoring]] |
 | Energy requirements | Indirect calorimetry preferred; predictive equations if unavailable (GS 39) |
 | Weight for calculations | **Ideal body weight** (not actual) for predictive equations in cirrhosis (GS 40) |
 | Initial caloric goal | 12–25 kcal/kg IBW; evolve to higher targets as clinical course improves (GS 41) |
 | Protein goal | **1.2–2.0 g/kg IBW/day** (GS 42) |
-| Route | **Enteral nutrition preferred** over PN; start as soon as resuscitation complete and off high-dose vasopressors (GS 43) |
+| Route | **[[enteral-access\|Enteral nutrition]] preferred** over PN; start as soon as resuscitation complete and off high-dose vasopressors (GS 43) |
 | Hold EN when | Vasopressor support >0.15 mcg/kg/min norepinephrine (GS 44) |
 | Refeeding syndrome monitoring | K, Mg, PO₄ + ECG monitoring after EN initiation (GS 45) |
 | Glucose target | **140–180 mg/dL** (7.8–10 mmol/L); avoid tight glycemic control (hypoglycemia risk) (GS 46) |
+
+> ⚠ **Scoring NUTRIC needs two scores this wiki does not carry.** [[aasld-2024-aclf]] names NUTRIC without printing it; the point table linked above is complete, but two of its six factors are **APACHE II** and **baseline SOFA**, and neither instrument is in an ingested source. Compute those from the published instruments — **not from memory.** The cirrhosis-specific tools that *are* fully quantified here (Liver Frailty Index, CT skeletal muscle index, KPS) are on [[nutrition-in-liver-disease]], but AASLD does not substitute them for NUTRIC in the ICU.
 
 ### Liver Transplantation in ACLF
 
@@ -256,7 +259,7 @@ Infection is the most common precipitant of ACLF (~48%). Every hour delay in ant
 
 - Ventilator support (strongest predictor of suboptimal post-LT outcome)
 - Lactate >9 mmol/L or CLIF-C ACLF >70
-- Severe frailty (CFS ≥7) + concurrent dialysis or advanced age
+- Severe frailty (**Clinical Frailty Scale ≥7**) + concurrent dialysis or advanced age — ⚠ [[aasld-2024-aclf]] applies the CFS cut-off without printing the scale's levels; grade it with the published CFS instrument, not from memory
 - FiO₂ ratio <150 mm Hg (severe ARDS equivalent)
 - Active uncontrolled sepsis; fungal infections
 - ACLF progression ≥4 organ failures
@@ -276,7 +279,7 @@ Palliative care is essential in ACLF management; frequently underutilized (GS 49
 
 ## See Also
 
-[[acute-liver-failure]], [[aki-in-cirrhosis]], [[spontaneous-bacterial-peritonitis]], [[portal-hypertension]], [[variceal-upper-gi-bleeding]], [[ascites]], [[hepatopulmonary-syndrome-portopulmonary-hypertension]], [[liver-transplantation]], [[hepatic-encephalopathy]], [[alcohol-associated-liver-disease]], [[portal-vein-thrombosis]], [[hepatocellular-carcinoma]], [[nutrition-in-liver-disease]], [[rifaximin]], [[proton-pump-inhibitors]], [[abnormal-liver-chemistries]], [[cirrhosis]], [[albumin]], [[cirrhosis-hemostasis]], [[tips]], [[somatostatin-analogs]], [[autoimmune-hepatitis]], [[drug-induced-liver-injury]]
+[[acute-liver-failure]], [[aki-in-cirrhosis]], [[spontaneous-bacterial-peritonitis]], [[portal-hypertension]], [[variceal-upper-gi-bleeding]], [[ascites]], [[hepatopulmonary-syndrome-portopulmonary-hypertension]], [[liver-transplantation]], [[hepatic-encephalopathy]], [[alcohol-associated-liver-disease]], [[portal-vein-thrombosis]], [[hepatocellular-carcinoma]], [[nutrition-in-liver-disease]], [[rifaximin]], [[proton-pump-inhibitors]], [[abnormal-liver-chemistries]], [[cirrhosis]], [[albumin]], [[cirrhosis-hemostasis]], [[tips]], [[somatostatin-analogs]], [[autoimmune-hepatitis]], [[drug-induced-liver-injury]], [[enteral-access]]
 
 ---
 

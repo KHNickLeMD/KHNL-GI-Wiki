@@ -3,7 +3,7 @@ title: "Plecanatide"
 category: med
 tags: [plecanatide, gc-c-agonist, secretagogue, ibs-c, cic, constipation]
 created: 2026-05-19
-updated: 2026-09-03
+updated: 2026-09-05
 sources: [acg-2020-ibs, aga-acg-2023-constipation, aga-2022-ibs-c, aga-2026-refractory-constipation]
 ---
 
@@ -15,6 +15,8 @@ sources: [acg-2020-ibs, aga-acg-2023-constipation, aga-2022-ibs-c, aga-2026-refr
 - [[#Adverse Effects]]
 - [[#Contraindications]]
 - [[#Place in Therapy]]
+- [[#See Also]]
+- [[#Sources]]
 
 ## Class
 
@@ -79,9 +81,11 @@ Phase 3 entry ([[aga-2022-ibs-c]]) — the population the conditional recommenda
 - **CIC:** strong recommendation, alongside [[linaclotide]] and [[prucalopride]]; [[lubiprostone]] is only conditional ([[aga-acg-2023-constipation]]).
 - **IBS-C:** one of the **conditional** options with [[tenapanor]], [[lubiprostone]] and [[tegaserod]]; [[linaclotide]] is the only **strongly** recommended IBS-C agent in [[aga-2022-ibs-c]].
 
+---
+
 ## See Also
 
-[[chronic-idiopathic-constipation]], [[irritable-bowel-syndrome]], [[linaclotide]], [[lubiprostone]], [[tenapanor]], [[prucalopride]], [[disorders-of-gut-brain-interaction]]
+[[chronic-idiopathic-constipation]], [[irritable-bowel-syndrome]], [[linaclotide]], [[lubiprostone]], [[tenapanor]], [[prucalopride]], [[tegaserod]], [[chronic-constipation]], [[disorders-of-gut-brain-interaction]]
 
 ---
 
@@ -89,5 +93,5 @@ Phase 3 entry ([[aga-2022-ibs-c]]) — the population the conditional recommenda
 
 1. [[acg-2020-ibs|ACG 2020 Clinical Guideline: Management of Irritable Bowel Syndrome]]
 2. [[aga-acg-2023-constipation|AGA-ACG 2023 Pharmacologic Management of Chronic Idiopathic Constipation]]
-3. [[aga-2022-ibs-c|AGA 2022 Clinical Practice Guideline: Pharmacological Management of Irritable Bowel Syndrome With Constipation]]
+3. [[aga-2022-ibs-c|AGA Clinical Practice Guideline: Pharmacological Management of IBS-C (2022)]]
 4. [[aga-2026-refractory-constipation|AGA Clinical Practice Update on Evaluation and Management of Refractory Constipation: Expert Review]]

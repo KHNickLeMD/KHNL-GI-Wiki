@@ -3,7 +3,7 @@ title: "Upper GI Bleeding"
 category: diagnostic-schema
 tags: [ugib, peptic-ulcer, gi-bleeding, endoscopy, forrest, glasgow-blatchford, melena]
 created: 2026-05-15
-updated: 2026-09-04
+updated: 2026-09-05
 sources: [acg-2021-ugib, acg-2023-lgib, acg-2024-hp-treatment, acg-2025-egd-quality, aga-2024-upper-endoscopy-quality, tg18-2018-cholangitis-flowchart]
 ---
 
@@ -32,6 +32,11 @@ sources: [acg-2021-ugib, acg-2023-lgib, acg-2024-hp-treatment, acg-2025-egd-qual
   - [[#CT Angiography]]
   - [[#Ulcer Stigmata at Endoscopy]]
 - [[#Red Flags / Alarm Features]]
+  - [[#Hemodynamic Instability (Requires Urgent Resuscitation Before Endoscopy)]]
+  - [[#High-Risk Clinical Features (GBS ≥12)]]
+  - [[#Endoscopic High-Risk Stigmata (Requiring Therapy)]]
+  - [[#Rebleeding Warning Signs]]
+  - [[#Alarm Features for Alternative Diagnoses]]
 - [[#See Also]]
 - [[#Sources]]
 
@@ -202,7 +207,7 @@ If UGIB is clinically suspected in a patient presenting with apparent LGIB, perf
 
 **Strongly recommended (Strong recommendation, moderate-quality evidence):**
 
-- Bipolar electrocoagulation (15 W, 8–10 second applications, 3.2-mm probe with firm pressure)
+- [[electrosurgery|Bipolar electrocoagulation]] (15 W, 8–10 second applications, 3.2-mm probe with firm pressure)
 - Heater probe (30 J applications, 3.2-mm probe with firm pressure)
 - Absolute ethanol injection (0.1–0.2 mL aliquots, maximum 1–2 mL total)
 - Epinephrine injection: **NEVER as monotherapy** — must be combined with a second hemostatic modality
@@ -236,7 +241,7 @@ If UGIB is clinically suspected in a patient presenting with apparent LGIB, perf
 
 **H. pylori testing and treatment:**
 
-- **Not addressed by [[acg-2021-ugib|ACG 2021]]** — the UGIB guideline neither tests nor treats *H. pylori* anywhere in its recommendations. The obligation comes from the eradication guideline instead: **active or prior peptic ulcer disease is a test-and-treat indication** ([[acg-2024-hp-treatment]], Table 4), and persistent untreated infection leaves the patient at risk of the sequelae of infection including peptic ulcer. So test every patient with [[peptic-ulcer-disease|peptic ulcer]] bleeding for [[helicobacter-pylori-infection]] and treat if positive
+- **Not addressed by [[acg-2021-ugib|ACG 2021]]** — the UGIB guideline neither tests nor treats *H. pylori* anywhere in its recommendations. The obligation comes from the eradication guideline instead: **active or prior peptic ulcer disease is a [[test-and-treat|test-and-treat]] indication** ([[acg-2024-hp-treatment]], Table 4), and persistent untreated infection leaves the patient at risk of the sequelae of infection including peptic ulcer. So test every patient with [[peptic-ulcer-disease|peptic ulcer]] bleeding for [[helicobacter-pylori-infection]] and treat if positive
   - Treatment is offered on a **positive non-serological test** (active infection), absent contraindications ([[acg-2024-hp-treatment]]). Regimens, resistance-driven choice, and test-of-cure live on [[helicobacter-pylori-infection]]
 
 ### Step 8: Recurrent Bleeding
@@ -339,7 +344,7 @@ If UGIB is clinically suspected in a patient presenting with apparent LGIB, perf
 
 ## See Also
 
-[[variceal-upper-gi-bleeding]], [[acute-lower-gi-bleeding]], [[small-bowel-bleeding]], [[peptic-ulcer-disease]], [[helicobacter-pylori-infection]], [[upper-endoscopy]], [[colonoscopy]], [[portal-hypertension]], [[cirrhosis]], [[anticoagulation-gi-bleeding]], [[angioectasia]], [[gastric-adenocarcinoma]], [[esophageal-cancer]], [[argon-plasma-coagulation]], [[proton-pump-inhibitors]], [[iron-deficiency-anemia]], [[dysphagia]], [[jaundice]], [[ascites]], [[gerd]]
+[[variceal-upper-gi-bleeding]], [[acute-lower-gi-bleeding]], [[small-bowel-bleeding]], [[peptic-ulcer-disease]], [[helicobacter-pylori-infection]], [[upper-endoscopy]], [[colonoscopy]], [[portal-hypertension]], [[cirrhosis]], [[anticoagulation-gi-bleeding]], [[angioectasia]], [[gastric-adenocarcinoma]], [[esophageal-cancer]], [[argon-plasma-coagulation]], [[electrosurgery]], [[proton-pump-inhibitors]], [[test-and-treat]], [[iron-deficiency-anemia]], [[dysphagia]], [[jaundice]], [[ascites]], [[gerd]]
 
 ---
 

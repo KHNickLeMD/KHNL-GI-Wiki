@@ -3,7 +3,7 @@ title: "Small Bowel Bleeding"
 category: diagnostic-schema
 tags: [small-bowel, gi-bleeding, obscure-gi-bleeding, mid-gi-bleeding, capsule-endoscopy, deep-enteroscopy, angioectasia, vce, dbe, iron-deficiency-anemia]
 created: 2026-05-19
-updated: 2026-09-04
+updated: 2026-09-05
 sources: [acg-2015-small-bowel-bleeding, aga-2020-ida, asge-2017-small-bowel-bleeding]
 ---
 
@@ -120,7 +120,7 @@ This guideline replaces the older term **"obscure GI bleeding (OGIB)"** with ana
 
 - Proceed to **[[capsule-endoscopy]] (VCE)** as first-line test. *(Strong/Moderate)*
 - VCE should be performed **within 48–72 h** of overt SBB for highest diagnostic yield.
-- If VCE positive → proceed to push or deep enteroscopy for therapy ± surgery ± IOE.
+- If VCE positive → proceed to push or [[device-assisted-enteroscopy|deep enteroscopy]] for therapy ± surgery ± IOE.
 - If VCE negative → assess whether further evaluation is warranted.
   - If yes: consider repeat endoscopy/VCE/Meckel's scan/surgery ± IOE.
   - If no: observation + iron supplements.

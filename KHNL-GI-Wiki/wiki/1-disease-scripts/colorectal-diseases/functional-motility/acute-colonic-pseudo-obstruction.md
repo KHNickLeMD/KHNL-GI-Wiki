@@ -3,7 +3,7 @@ title: "Acute Colonic Pseudo-Obstruction (Ogilvie's Syndrome)"
 category: disease-script
 tags: [acpo, ogilvie, colonic-dysmotility, large-bowel-obstruction, neostigmine, colonoscopy]
 created: 2026-06-22
-updated: 2026-09-04
+updated: 2026-09-05
 sources: [asge-2020-acpo-volvulus]
 ---
 
@@ -74,7 +74,8 @@ flowchart TD
 - Refractory to bolus → **subcutaneous** neostigmine, or **continuous IV infusion 0.4 mg/h** (5 mg in 50 mL 0.9% saline; 0.4–0.8 mg/h over 24 h in the original critical-illness protocol). Initial clinical response similar to bolus (62.2% vs 81.6%, NS), but **time to response is longer with infusion** (510 vs 165 min); infusion gave greater 24-h bowel-diameter reduction and possibly fewer side effects
 - **Absolute contraindications:** mechanical bowel/urinary obstruction, known hypersensitivity
 - **Relative contraindications:** bradycardia, asthma, renal insufficiency, [[peptic-ulcer-disease|peptic ulcer disease]], recent MI, acidosis
-- **Daily PEG via NG tube** reduces recurrence
+
+**Recurrence prophylaxis:** **daily PEG via NG tube** reduces recurrence ([[asge-2020-acpo-volvulus|ASGE 2020]]) — not specific to any one treatment arm.
 
 **Endoscopic decompression** ([[colonoscopy]] with decompression-tube placement) — alternative when neostigmine is unsuitable or fails:
 - Initial + sustained decompression achieved in up to ~95%; ~2% perforation risk, ~1% mortality

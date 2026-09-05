@@ -3,7 +3,7 @@ title: "Autoimmune Hepatitis"
 category: disease-script
 tags: [aih, autoimmune, hepatitis, liver, hpb, igg, immunosuppression, pregnancy, azathioprine, budesonide, mycophenolate-mofetil, mmf, tacrolimus, overlap-syndrome, pbc, psc, cirrhosis, liver-transplant]
 created: 2026-05-16
-updated: 2026-09-04
+updated: 2026-09-05
 sources: [acg-2017-liver-chemistries, acg-2016-liver-disease-pregnancy, aasld-2020-autoimmune-hepatitis, aasld-2018-pbc]
 ---
 
@@ -90,13 +90,13 @@ Both definitions additionally require **no previously recognized liver disease**
 
 *Workup: see [[abnormal-liver-chemistries]].*
 
-- [[drug-induced-liver-injury]] — DILI/DIAIH can mimic AIH; drug-induced AIH (DIAIH) may require immunosuppression and drug withdrawal to distinguish; key DIAIH agents: nitrofurantoin, minocycline, infliximab, adalimumab, alpha-methyldopa, halothane, dihydralazine
+- [[drug-induced-liver-injury]] — DILI/DIAIH can mimic AIH; drug-induced AIH (DIAIH) may require immunosuppression and drug withdrawal to distinguish; key DIAIH agents: nitrofurantoin, minocycline, [[anti-tnf-agents|infliximab, adalimumab]], alpha-methyldopa, halothane, dihydralazine
 - [[alcohol-associated-liver-disease]] — AST:ALT ratio ≥2:1; GGT elevated; history of significant alcohol use
 - [[wilson-disease]] — young patient (<40 years); Kayser-Fleischer rings; low ceruloplasmin; elevated 24h urine copper; may cause acute hepatitis mimicking AIH
 - Viral hepatitis ([[chronic-hepatitis-b|HBV]], [[hepatitis-c|HCV]], HEV) — serology; HEV can mimic acute AIH in endemic regions; HCV may induce low-titer ANA/SMA
 - [[primary-biliary-cholangitis]] (PBC) — AMA positive (≥1:40); cholestatic pattern (ALP/GGT dominant); can coexist as overlap syndrome
 - [[primary-sclerosing-cholangitis]] — [[mri-mrcp|MRCP]]/[[ercp|ERCP]] with biliary stricturing; cholangiographic findings diagnostic
-- Celiac-related hepatitis — TTG-IgA; modest transaminase elevation; resolves with gluten-free diet
+- [[celiac-disease|Celiac]]-related hepatitis — TTG-IgA; modest transaminase elevation; resolves with gluten-free diet
 - [[hereditary-hemochromatosis]] — elevated ferritin; transferrin saturation; HFE mutation
 
 ---
@@ -123,7 +123,7 @@ Both definitions additionally require **no previously recognized liver disease**
 - **HBsAg and anti-HBc total** — prophylactic antiviral (entecavir or tenofovir) required if HBsAg positive before initiating immunosuppression
 - **DEXA scan** — baseline; repeat q2–3 years on glucocorticoids; [[aasld-2020-autoimmune-hepatitis]]
 - **Vaccinations** (HAV, HBV, influenza, pneumococcal, Tdap, COVID-19) — before immunosuppression initiation
-- Extrahepatic autoimmune disease screening: thyroid disease, RA, [[inflammatory-bowel-disease|IBD]], Sjogren's, ANCA-vasculitis, [[celiac-disease|celiac disease]]
+- Extrahepatic autoimmune disease screening: thyroid disease, RA, [[inflammatory-bowel-disease|IBD]], Sjogren's, ANCA-vasculitis, celiac disease
 
 ### Imaging
 
@@ -144,7 +144,7 @@ Both definitions additionally require **no previously recognized liver disease**
 
 ### First-Line Treatment
 
-**Prednisone/prednisolone + azathioprine (AZA):** Standard first-line regimen for adults and children with AIH. [[aasld-2020-autoimmune-hepatitis]]
+**Prednisone/prednisolone + [[thiopurines|azathioprine]] (AZA):** Standard first-line regimen for adults and children with AIH. [[aasld-2020-autoimmune-hepatitis]]
 
 **Induction dose depends on whether AZA is co-administered — the two prednisone doses are different:**
 
@@ -301,7 +301,7 @@ See [[liver-transplantation]] for broader post-LT context.
 
 ## See Also
 
-[[abnormal-liver-chemistries]], [[jaundice]], [[drug-induced-liver-injury]], [[primary-biliary-cholangitis]], [[primary-sclerosing-cholangitis]], [[wilson-disease]], [[hereditary-hemochromatosis]], [[acute-liver-failure]], [[liver-disease-in-pregnancy]], [[liver-transplantation]], [[alcohol-associated-liver-disease]], [[hcc-surveillance]], [[tacrolimus]], [[portal-hypertension]], [[portal-vein-thrombosis]], [[hepatic-encephalopathy]], [[cirrhosis]], [[liver-biopsy]], [[liver-stiffness-measurement]], [[mri-mrcp]], [[ercp]], [[celiac-disease]], [[inflammatory-bowel-disease]], [[cholangiocarcinoma]], [[hepatitis-c]], [[nafld-masld]], [[calcineurin-inhibitors]]
+[[abnormal-liver-chemistries]], [[jaundice]], [[drug-induced-liver-injury]], [[primary-biliary-cholangitis]], [[primary-sclerosing-cholangitis]], [[wilson-disease]], [[hereditary-hemochromatosis]], [[acute-liver-failure]], [[liver-disease-in-pregnancy]], [[liver-transplantation]], [[alcohol-associated-liver-disease]], [[hcc-surveillance]], [[tacrolimus]], [[portal-hypertension]], [[portal-vein-thrombosis]], [[hepatic-encephalopathy]], [[cirrhosis]], [[liver-biopsy]], [[liver-stiffness-measurement]], [[mri-mrcp]], [[ercp]], [[celiac-disease]], [[inflammatory-bowel-disease]], [[cholangiocarcinoma]], [[hepatitis-c]], [[nafld-masld]], [[calcineurin-inhibitors]], [[thiopurines]], [[anti-tnf-agents]]
 
 ---
 

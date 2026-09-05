@@ -3,17 +3,30 @@ title: "Liver Biopsy"
 category: concept
 tags: [liver-biopsy, hepatology, fibrosis-staging, percutaneous, transjugular, eus-guided, coagulation, complications, specimen-adequacy]
 created: 2026-06-04
-updated: 2026-08-30
+updated: 2026-09-05
 sources: [aasld-2009-liver-biopsy, aga-2021-cirrhosis-coagulation, acg-2025-eus-quality, aga-2023-nafld-noninvasive-biomarkers]
 ---
 
 Liver biopsy is the procedural acquisition of hepatic tissue for histological assessment. Per the AASLD 2009 position paper ([[aasld-2009-liver-biopsy]]), it serves three major roles: **diagnosis**, **prognosis (disease staging, chiefly fibrosis)**, and **guiding therapeutic management**. Although it remains a reference standard, noninvasive tools — serum panels and [[liver-stiffness-measurement|elastography]] ([[noninvasive-liver-disease-assessment|NILDA]]) — increasingly replace it for fibrosis staging, and biopsy is now reserved largely for diagnostic uncertainty or when histology will change management.
 
+## Contents
+- [[#Indications]]
+- [[#Approaches]]
+  - [[#Percutaneous]]
+  - [[#Transvenous (Transjugular / Transfemoral)]]
+  - [[#Surgical / Laparoscopic]]
+  - [[#EUS-Guided]]
+- [[#Pre-Procedure Coagulation Assessment]]
+- [[#Medication Management]]
+- [[#Complications]]
+- [[#Sample Adequacy]]
+- [[#Noninvasive Alternatives]]
+
 ## Indications
 Liver biopsy should be considered when the diagnosis is in question and knowledge of a specific diagnosis is likely to alter management (Rec 1, Class I/B), and as a prognostic adjunct when fibrosis stage may guide treatment (Rec 2, Class I/B). Common indications (AASLD Tables 3-4):
 - **Abnormal liver tests of unclear etiology** after thorough history, exam, serologic and imaging workup.
-- **Multiple/coexisting parenchymal diseases** (e.g. steatosis plus [[hepatitis-c|HCV]] or hemochromatosis; overlap syndromes).
-- **Disease-specific roles** — diagnosis, staging, prognosis, or management for [[autoimmune-hepatitis]] (diagnosis, staging, and pre-immunosuppression decisions; portal plasma cell score may predict relapse), [[nafld-masld|NAFLD/MASLD]] (distinguishes steatohepatitis from simple steatosis, stages fibrosis), [[primary-biliary-cholangitis|PBC]] (AMA-negative or suspected overlap; advanced fibrosis predicts poorer UDCA response), [[primary-sclerosing-cholangitis|PSC]] (small-duct disease or overlap), [[wilson-disease|Wilson disease]] (quantitative hepatic copper), [[hereditary-hemochromatosis|hemochromatosis]] (iron quantification, fibrosis staging), and [[drug-induced-liver-injury|DILI]].
+- **Multiple/coexisting parenchymal diseases** (e.g. steatosis plus [[hepatitis-c|HCV]] or [[hereditary-hemochromatosis|hemochromatosis]]; overlap syndromes).
+- **Disease-specific roles** — diagnosis, staging, prognosis, or management for [[autoimmune-hepatitis]] (diagnosis, staging, and pre-immunosuppression decisions; portal plasma cell score may predict relapse), [[nafld-masld|NAFLD/MASLD]] (distinguishes steatohepatitis from simple steatosis, stages fibrosis), [[primary-biliary-cholangitis|PBC]] (AMA-negative or suspected overlap; advanced fibrosis predicts poorer UDCA response), [[primary-sclerosing-cholangitis|PSC]] (small-duct disease or overlap), [[wilson-disease|Wilson disease]] (quantitative hepatic copper), hemochromatosis ([[iron-overload-and-iron-metabolism|iron quantification]], fibrosis staging), and [[drug-induced-liver-injury|DILI]].
 - **Focal/mass lesions** — image-guided biopsy when imaging is indeterminate; core (not aspirate) preferred when neoplasia is suspected. Concerns include sampling error and small tumor-track seeding risk (~0.13%) in [[hepatocellular-carcinoma|HCC]] and [[cholangiocarcinoma]].
 - **[[acute-liver-failure|Acute liver failure]]**, post–[[liver-transplantation|liver transplant]] allograft dysfunction, and evaluation of cryptogenic [[cirrhosis]].
 
@@ -86,7 +99,7 @@ Serum fibrosis panels and elastography (transient/MR) increasingly assess fibros
 - NIT results **conflict** with other clinical, laboratory, or radiologic findings
 - An **alternative etiology** of liver disease is suspected
 
-Sequential rule-out (**FIB-4 <1.3 + VCTE <8.0 kPa**) and rule-in (**FIB-4 ≥3.48 + VCTE ≥20 kPa**) cut the proportion needing biopsy from **33% → 19%**.
+*How much the paired NIT strategy spares — the sequential rule-out/rule-in combinations and the resulting drop in biopsies — is on [[noninvasive-liver-disease-assessment]] → Combining NITs.*
 
 ## See Also
 

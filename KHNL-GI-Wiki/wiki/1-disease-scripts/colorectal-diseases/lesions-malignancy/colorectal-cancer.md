@@ -3,8 +3,8 @@ title: "Colorectal Cancer"
 category: disease-script
 tags: [crc, colorectal-cancer, adenocarcinoma, oncology, screening, surveillance, post-resection, metachronous, rectal-cancer]
 created: 2026-05-19
-updated: 2026-09-03
-sources: [acg-2015-hereditary-gi-cancer, usmstf-2015-crc-surveillance, usmstf-2016-fit-screening, acg-2021-crc-screening, nccn-2026-colon-cancer, asge-2013-crc-staging-management, aga-2025-endoscopic-resection-crc, kanaka-2022-colonic-stent-bts-right-sided]
+updated: 2026-09-05
+sources: [acg-2015-hereditary-gi-cancer, usmstf-2014-lynch-syndrome, usmstf-2015-crc-surveillance, usmstf-2016-fit-screening, acg-2021-crc-screening, nccn-2026-colon-cancer, asge-2013-crc-staging-management, aga-2025-endoscopic-resection-crc, kanaka-2022-colonic-stent-bts-right-sided]
 ---
 
 *Screening is covered in [[colorectal-cancer-screening]] and in detail below (FIT). Hereditary syndromes: [[lynch-syndrome]], [[familial-adenomatous-polyposis]], [[mutyh-associated-polyposis]], [[peutz-jeghers-syndrome]], [[juvenile-polyposis-syndrome]], [[cowden-syndrome]], [[serrated-polyposis-syndrome]]. Polyp management: [[polypectomy]] and [[colonoscopy]].*
@@ -230,7 +230,7 @@ flowchart TD
 
 ### Universal Lynch Syndrome Testing
 
-- Per USMSTF 2014 and confirmed in this guideline: all CRCs should be studied for evidence of [[lynch-syndrome]] (MMR/MSI tumor testing)
+- Per [[usmstf-2014-lynch-syndrome|USMSTF 2014]] and confirmed in this guideline: all CRCs should be studied for evidence of [[lynch-syndrome]] (MMR/MSI tumor testing)
 - Patients with known or suspected [[lynch-syndrome|Lynch syndrome]] must follow Lynch-specific surveillance intervals, not those below
 
 ### Step 1 — Perioperative Clearing Colonoscopy
@@ -242,7 +242,7 @@ flowchart TD
 - Goals: (1) detect synchronous cancers (prevalence 0.7–7%); (2) detect and completely resect precancerous polyps
 - For obstructive CRC precluding complete colonoscopy: use **CT colonography (CTC)** as the best alternative; double-contrast barium enema is acceptable if CTC unavailable (*Strong recommendation, moderate-quality evidence*)
   - However, choose colonoscopy (not CTC) for the first **postoperative** examination in cases where CTC was used perioperatively — CTC misses flat, diminutive, and serrated lesions that may be clinically significant in CRC patients
-- **[[serrated-polyposis-syndrome|Serrated polyposis syndrome]] (SPS):** Actively consider this diagnosis when multiple and/or large serrated lesions are found — [[serrated-polyposis-syndrome]] requires more frequent colonoscopy intervals
+- **[[serrated-polyposis-syndrome|Serrated polyposis syndrome]] (SPS):** Actively consider this diagnosis when multiple and/or large serrated lesions are found — SPS requires more frequent colonoscopy intervals
 
 ### Step 2 — First Postoperative Surveillance Colonoscopy
 
@@ -433,3 +433,4 @@ The ACG 2021 and USMSTF 2021 guidelines do not supersede the FIT-specific operat
 6. [[asge-2013-crc-staging-management|ASGE 2013: Role of Endoscopy in the Staging and Management of Colorectal Cancer]]
 7. [[aga-2025-endoscopic-resection-crc|AGA Clinical Practice Update on Endoscopic Resection for Early Colorectal Cancer: Commentary (2025)]]
 8. [[kanaka-2022-colonic-stent-bts-right-sided|Colonic stent as a bridge to surgery versus emergency resection for right-sided malignant large bowel obstruction: a meta-analysis]]
+9. [[usmstf-2014-lynch-syndrome|USMSTF 2014: Genetic Evaluation and Management of Lynch Syndrome — A Consensus Statement]]

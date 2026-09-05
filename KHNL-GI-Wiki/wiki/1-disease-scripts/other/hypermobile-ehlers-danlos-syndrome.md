@@ -3,7 +3,7 @@ title: "Hypermobile Ehlers-Danlos Syndrome (GI Manifestations)"
 category: disease-script
 tags: [hypermobile-ehlers-danlos, heds, hsd, dgbi, pots, mcas, dysautonomia, motility, gastroparesis, pelvic-floor, celiac-disease]
 created: 2026-06-27
-updated: 2026-09-02
+updated: 2026-09-05
 sources: [aga-2025-heds-gi]
 ---
 
@@ -89,7 +89,7 @@ Nine points; **test both sides** for A–D (1 point per side), spine scores 1. [
 
 - **GI clues:** nausea, vomiting, heartburn, [[dysphagia]], abdominal pain, atypical chest pain, bowel dysfunction — heavily overlapping DGBI. Systemic clues: fatigue, tinnitus, conjunctivitis, headache/migraine, brain fog, palpitations, flushing, pruritus, urticaria, myalgias, lymphadenopathy.
 
-**Association data (observational, limited):** among 139 MCAS patients with refractory GI symptoms — 23.7% EDS, 25.2% POTS, 15.1% both; 37.5% of hEDS/HSD patients report a POTS diagnosis; >60% of hEDS/HSD patients have ≥1 GI symptom (those with POTS more often had fibromyalgia, IBS, GERD, or dysmotility). In most of these studies hEDS/HSD was **not** diagnosed by the 2017 criteria and POTS/MCAS were not categorically established.
+**Association data (observational, limited):** among 139 MCAS patients with refractory GI symptoms — 23.7% EDS, 25.2% POTS, 15.1% both; 37.5% of hEDS/HSD patients report a POTS diagnosis; >60% of hEDS/HSD patients have ≥1 GI symptom (those with POTS more often had fibromyalgia, IBS, [[gerd|GERD]], or dysmotility). In most of these studies hEDS/HSD was **not** diagnosed by the 2017 criteria and POTS/MCAS were not categorically established.
 
 **BPA 1–2:** mechanistic links (collagen/extracellular-matrix laxity, mast-cell–mediated visceral sensitization, autonomic dysfunction, autoimmunity) are theoretical and evolving. **Target POTS/MCAS testing to the clinical presentation — universal testing of all hEDS/HSD patients is not supported.**
 
@@ -158,7 +158,7 @@ Nine points; **test both sides** for A–D (1 point per side), spine scores 1. [
 
 ## See Also
 
-[[disorders-of-gut-brain-interaction]], [[gastroparesis]], [[irritable-bowel-syndrome]], [[celiac-disease]], [[anorectal-manometry]], [[defecation-disorders]], [[dysphagia]], [[dyspepsia]], [[nausea-and-vomiting]], [[abdominal-bloating-and-distention]], [[chronic-idiopathic-constipation]], [[proton-pump-inhibitors]], [[lubiprostone]], [[linaclotide]], [[plecanatide]], [[tenapanor]], [[prucalopride]], [[alosetron]], [[eluxadoline]], [[loperamide]], [[rifaximin]], [[probiotics]]
+[[disorders-of-gut-brain-interaction]], [[gastroparesis]], [[irritable-bowel-syndrome]], [[celiac-disease]], [[gerd]], [[rectal-prolapse]], [[anorectal-manometry]], [[defecation-disorders]], [[dysphagia]], [[dyspepsia]], [[nausea-and-vomiting]], [[abdominal-bloating-and-distention]], [[chronic-idiopathic-constipation]], [[proton-pump-inhibitors]], [[lubiprostone]], [[linaclotide]], [[plecanatide]], [[tenapanor]], [[prucalopride]], [[alosetron]], [[eluxadoline]], [[loperamide]], [[rifaximin]], [[probiotics]]
 
 ---
 

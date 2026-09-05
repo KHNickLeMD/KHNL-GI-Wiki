@@ -9,6 +9,25 @@ sources: [acg-2025-liver-nutrition, aasld-2021-malnutrition-cirrhosis]
 
 Malnutrition (most commonly sarcopenia) is a common complication of liver disease, severity-dependent, and independently associated with higher mortality, waitlist mortality, post-transplant mortality, length of stay, and infections. Malnutrition is underrecognized because weight loss is masked by fluid retention ([[ascites]], edema), and [[obesity]] does not exclude sarcopenic obesity.
 
+## Contents
+- [[#Assessment]]
+  - [[#Who to Assess]]
+  - [[#Screening for Malnutrition Risk]]
+  - [[#Diagnostic Methods]]
+  - [[#Definitions]]
+  - [[#Severity Assessment — Validated Cut-Points]]
+- [[#Differential Diagnosis]]
+- [[#Diagnostics]]
+  - [[#Labs]]
+  - [[#Imaging]]
+- [[#Therapeutics]]
+  - [[#Energy and Protein Targets]]
+  - [[#Core Nutritional Principles (Stable Outpatient Cirrhosis)]]
+  - [[#Nutritional Supplementation]]
+  - [[#Disease-Specific Nutritional Recommendations]]
+  - [[#Micronutrient Supplementation]]
+  - [[#Monitoring]]
+
 ---
 
 ## Assessment

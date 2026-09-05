@@ -3,9 +3,24 @@ title: "Hemorrhoids"
 category: disease-script
 tags: [hemorrhoids, anorectal, rectal-bleeding, rubber-band-ligation, hemorrhoidectomy, colorectal]
 created: 2026-05-16
-updated: 2026-09-03
+updated: 2026-09-05
 sources: [acg-2021-anorectal-disorders, asge-2010-anorectal-disorders, aga-2026-hemorrhoids]
 ---
+
+## Contents
+- [[#Assessment]]
+  - [[#Establishing the Diagnosis]]
+  - [[#Severity Assessment / Classification]]
+- [[#Differential Diagnosis]]
+- [[#Diagnostics]]
+- [[#Therapeutics]]
+  - [[#Conservative (All Grades — First Line)]]
+  - [[#Office-Based Procedures (Grades 1–3, Medical Therapy Failures)]]
+  - [[#Thrombosed External Hemorrhoids]]
+  - [[#Surgery (Grade 3–4, Office Procedure Failures)]]
+  - [[#Special Populations (AGA 2026)]]
+- [[#See Also]]
+- [[#Sources]]
 
 ## Assessment
 
@@ -72,10 +87,10 @@ The diagnosis of symptomatic internal hemorrhoids requires exclusion of other so
 
 ### Conservative (All Grades — First Line)
 
-**Strong/Moderate recommendation (ACG 2021):**
+**ACG 2021 Rec 1 (Strong recommendation / moderate quality):** dietary modification with adequate fluid and fiber intake **plus counseling to minimize straining at defecation** is first-line therapy for symptomatic hemorrhoids. *(Evidence is moderate; the recommendation is strong because it corrects the presumed pathogenesis at minimal risk compared with office procedures.)* [[acg-2021-anorectal-disorders]]
 
 - Dietary modification: adequate fiber (20–30 g/day), increase fluid intake (6–8 glasses/day)
-- Stool softeners: PEG 3350 or docusate if [[chronic-idiopathic-constipation|constipation]] contributing
+- Stool softeners: **PEG 3350 or docusate** — ACG's trigger is **inability to increase dietary fiber**, not [[chronic-idiopathic-constipation|constipation]] per se
 - Sitz baths: symptomatic relief
 - Avoid prolonged sitting on toilet; avoid straining
 - Discourage use of cell phone on toilet

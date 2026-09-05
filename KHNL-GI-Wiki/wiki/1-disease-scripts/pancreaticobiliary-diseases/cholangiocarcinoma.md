@@ -3,7 +3,7 @@ title: "Cholangiocarcinoma"
 category: disease-script
 tags: [cholangiocarcinoma, biliary-stricture, hepatobiliary, ercp, eus, cholangioscopy, liver-transplantation]
 created: 2026-06-01
-updated: 2026-08-30
+updated: 2026-09-05
 sources: [nccn-2026-biliary-tract-cancers, asge-2023-indeterminate-biliary-strictures, asge-2021-malignant-hilar-obstruction]
 ---
 
@@ -35,7 +35,7 @@ Cholangiocarcinoma (CCA) is an adenocarcinoma arising from the biliary epitheliu
 ### Establishing the Diagnosis
 
 - Most often presents as a **biliary stricture of undetermined etiology**; risk of malignancy in a stricture without an obvious mass on cross-sectional imaging is **~55%**.
-- Benign mimics look similar radiographically ([[primary-sclerosing-cholangitis|PSC]], IgG4-related cholangitis, fibrotic strictures, [[chronic-pancreatitis|chronic pancreatitis]]) → **tissue acquisition is required**.
+- Benign mimics look similar radiographically ([[primary-sclerosing-cholangitis|PSC]], [[autoimmune-pancreatitis|IgG4-related cholangitis]], fibrotic strictures, [[chronic-pancreatitis|chronic pancreatitis]]) → **tissue acquisition is required**.
 - Early-stage CCA may show only mild [[abnormal-liver-chemistries|liver-test changes]], **particularly alkaline phosphatase**.
 - Endoscopic sampling is preferred over percutaneous (external drain, needle-track seeding) or surgical approaches.
 - **Review all cross-sectional imaging at a multidisciplinary tumor board**, with early surgical consultation — *before* biliary drainage in a [[jaundice|jaundiced]] patient — to assess resectability ([[nccn-2026-biliary-tract-cancers]]).
@@ -223,7 +223,7 @@ Drainage decisions (SEMS vs plastic stents, sectorial perihilar drainage, endobi
 
 ## See Also
 
-[[biliary-stricture]], [[primary-sclerosing-cholangitis]], [[gallbladder-cancer]], [[pancreatic-cancer]], [[hepatocellular-carcinoma]], [[ercp]], [[endoscopic-ultrasound]], [[cholangioscopy]], [[brush-cytology]], [[fish]], [[confocal-laser-endomicroscopy]], [[chronic-pancreatitis]], [[liver-transplantation]], [[cirrhosis]], [[mri-mrcp]], [[li-rads]], [[radiofrequency-ablation]], [[jaundice]], [[abnormal-liver-chemistries]], [[ampullary-adenoma]]
+[[biliary-stricture]], [[primary-sclerosing-cholangitis]], [[gallbladder-cancer]], [[pancreatic-cancer]], [[hepatocellular-carcinoma]], [[ercp]], [[endoscopic-ultrasound]], [[cholangioscopy]], [[brush-cytology]], [[fish]], [[confocal-laser-endomicroscopy]], [[chronic-pancreatitis]], [[liver-transplantation]], [[cirrhosis]], [[mri-mrcp]], [[li-rads]], [[radiofrequency-ablation]], [[jaundice]], [[abnormal-liver-chemistries]], [[ampullary-adenoma]], [[autoimmune-pancreatitis]]
 
 ---
 

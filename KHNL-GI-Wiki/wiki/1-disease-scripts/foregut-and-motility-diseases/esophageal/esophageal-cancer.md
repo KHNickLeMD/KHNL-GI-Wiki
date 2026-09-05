@@ -3,9 +3,21 @@ title: "Esophageal Cancer"
 category: disease-script
 tags: [esophagus, malignancy, adenocarcinoma, squamous-cell-carcinoma, egj, dysphagia, her2, pd-l1, msi-h, flot, chemoradiation, esophagectomy, endoscopic-resection, nccn, oncology]
 created: 2026-06-04
-updated: 2026-09-02
+updated: 2026-09-05
 sources: [nccn-2026-esophageal-egj-cancer, asge-2023-esd]
 ---
+
+## Contents
+- [[#Assessment]]
+  - [[#Establishing the Diagnosis]]
+  - [[#Severity Assessment (AJCC 8th ed. TNM staging)]]
+  - [[#Classification / Typing]]
+- [[#Differential Diagnosis]]
+- [[#Diagnostics]]
+- [[#Therapeutics]]
+  - [[#NCCN Treatment Algorithm]]
+- [[#See Also]]
+- [[#Sources]]
 
 ## Assessment
 

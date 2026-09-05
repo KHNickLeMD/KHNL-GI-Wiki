@@ -3,7 +3,7 @@ title: "Thiopurines (Azathioprine, 6-Mercaptopurine)"
 category: med
 tags: [thiopurines, azathioprine, mercaptopurine, immunomodulator, ibd, crohns, ulcerative-colitis, tpmt, nudt15, pharmacogenomics]
 created: 2026-09-02
-updated: 2026-09-04
+updated: 2026-09-05
 sources: [acg-2025-crohns, acg-2025-uc, aga-2024-ibd-malignancy, acg-2025-ibd-preventive-care]
 ---
 
@@ -14,6 +14,8 @@ Purine-antimetabolite **immunomodulators** used in [[inflammatory-bowel-disease|
 - [[#Dosing]]
 - [[#Before starting — pharmacogenomic testing]]
 - [[#Adverse Effects and Monitoring]]
+- [[#See Also]]
+- [[#Sources]]
 
 ---
 
@@ -27,7 +29,7 @@ Purine-antimetabolite **immunomodulators** used in [[inflammatory-bowel-disease|
 | Induction, moderately-severely active [[ulcerative-colitis\|UC]] | **Against** thiopurine (or methotrexate) **monotherapy** | Strong, low ([[acg-2025-uc]] Rec 23) |
 | Maintenance in CD after corticosteroid induction | **Suggest** AZA / 6-MP | Conditional, low ([[acg-2025-crohns]] Rec 9) |
 | Maintenance in UC after corticosteroid induction, vs no treatment or steroids | **Suggest** thiopurines | Conditional, low ([[acg-2025-uc]] Rec 36) |
-| Maintenance after cyclosporine rescue in acute severe UC | **Suggest** thiopurines | Conditional ([[acg-2025-uc]] Rec 53) |
+| Maintenance after [[calcineurin-inhibitors\|cyclosporine]] rescue in acute severe UC | **Suggest** thiopurines | Conditional ([[acg-2025-uc]] Rec 53) |
 | Combination with **IV infliximab** in agent-naive CD, vs either alone | **Recommend** combination | Strong, moderate ([[acg-2025-crohns]] Rec 13) |
 | Combination with infliximab when infliximab is used for **UC induction** | **Recommend** combination therapy with a thiopurine | Strong; moderate quality **for azathioprine** ([[acg-2025-uc]] Rec 33) |
 

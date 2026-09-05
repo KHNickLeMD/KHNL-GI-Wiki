@@ -3,11 +3,11 @@ title: "IBD in Patients With Malignancy"
 category: concept
 tags: [ibd, crohns, ulcerative-colitis, malignancy, cancer, thiopurines, biologics, lymphoma, immunosuppression]
 created: 2026-07-26
-updated: 2026-09-02
+updated: 2026-09-05
 sources: [aga-2024-ibd-malignancy]
 ---
 
-Framework for two linked decisions: **(1)** how much cancer risk [[inflammatory-bowel-disease|IBD]] inflammation and IBD drugs confer, and **(2)** what to do with IBD medications when a patient develops an active cancer or has a prior-cancer history. Per the AGA 2024 CPU, the drugs of concern are **[[thiopurines]]** and **anti-TNF**; newer classes lack a demonstrated malignancy signal. Age-appropriate cancer screening applies to all IBD patients as in the general population — see [[ibd-preventive-care]] for the vaccination and screening schedule.
+Framework for two linked decisions: **(1)** how much cancer risk [[inflammatory-bowel-disease|IBD]] inflammation and IBD drugs confer, and **(2)** what to do with IBD medications when a patient develops an active cancer or has a prior-cancer history. Per the AGA 2024 CPU, the drugs of concern are **[[thiopurines]]** and **[[anti-tnf-agents|anti-TNF]]**; newer classes lack a demonstrated malignancy signal. Age-appropriate cancer screening applies to all IBD patients as in the general population — see [[ibd-preventive-care]] for the vaccination and screening schedule.
 
 ## Contents
 - [[#Cancer Risk From IBD Inflammation]]
@@ -15,6 +15,8 @@ Framework for two linked decisions: **(1)** how much cancer risk [[inflammatory-
 - [[#Managing IBD Drugs When a Cancer Develops]]
 - [[#IBD Therapy in Patients With Prior Cancer]]
 - [[#Impact of Cancer Treatment on IBD]]
+- [[#See Also]]
+- [[#Sources]]
 
 ## Cancer Risk From IBD Inflammation
 
@@ -24,13 +26,13 @@ Framework for two linked decisions: **(1)** how much cancer risk [[inflammatory-
 |---|---|---|
 | **[[colorectal-cancer\|CRC]]** (colitis-associated) | ~1% / 2% / 5% at 10 / 20 / >20 yr from dx (declining vs older 15%/30 yr) | Duration, colonic extent, family hx CRC, concomitant [[primary-sclerosing-cholangitis\|PSC]] (>3× dysplasia/CRC) |
 | Small-bowel adenocarcinoma ([[crohns-disease\|Crohn's]]) | aHR 15.8; absolute low (2.4/10,000 PY CD; 4.6 ileal) | Tobacco, male, childhood-onset, penetrating/stricturing, prior SB resection |
-| Small-bowel neuroendocrine tumor | aHR 5.5 | Small-bowel Crohn's inflammation |
+| Small-bowel [[gastroenteropancreatic-neuroendocrine-tumors\|neuroendocrine tumor]] | aHR 5.5 | Small-bowel Crohn's inflammation |
 | Intestinal lymphoma | 2–3× (1–4/10,000 PY CD) | B-cell NHL, often EBV-associated, male |
-| Anal SCC (Crohn's) | 2.6 vs 0.8/10,000 PY (with vs without anal/perianal lesions) | HPV, long-standing perianal fistulizing disease |
+| Anal SCC (Crohn's) — screening framework on [[anal-cancer-screening]] | 2.6 vs 0.8/10,000 PY (with vs without anal/perianal lesions) | HPV, long-standing perianal fistulizing disease |
 | [[cholangiocarcinoma]] | 4× (7.6 vs 1.9/100,000 PY) | Driven by [[primary-sclerosing-cholangitis\|PSC]] (>150×; 5–10% lifetime) |
 | NMSC / heme / lung (extraintestinal) | CD IRR 2.22 / 2.40 / 1.53 | See drug contributions below |
 
-- Emphasize **mucosal healing** and **dysplasia surveillance** — intervals and chromoendoscopy technique on [[colonoscopy-surveillance]]; endoscopic activity indices on [[ibd-endoscopic-scoring]]. (>1/3 of UC-CRC colectomies have synchronous CRC/dysplasia elsewhere — field cancerization.)
+- Emphasize **mucosal healing** and **dysplasia surveillance** — who/when on [[ulcerative-colitis]] and [[crohns-disease]] (⚠ no ingested source gives a numeric IBD repeat interval), chromoendoscopy technique on [[colonoscopy]]; endoscopic activity indices on [[ibd-endoscopic-scoring]]. The average-risk post-polypectomy grid on [[colonoscopy-surveillance]] explicitly does **not** apply to IBD. (>1/3 of UC-CRC colectomies have synchronous CRC/dysplasia elsewhere — field cancerization.)
 
 ## Cancer Risk From IBD Therapies
 
@@ -40,7 +42,7 @@ Framework for two linked decisions: **(1)** how much cancer risk [[inflammatory-
 | **Anti-TNF** | **Melanoma** — conflicting (one ~2×, others null); **lymphoma** mostly not ↑ with monotherapy but consistently ↑ **combined with thiopurine** (young EBV-unexposed → hepatosplenic T-cell lymphoma) |
 | Methotrexate | Limited data; possible small NMSC ↑ |
 | **JAK inhibitors** | No IBD malignancy signal demonstrated; RA data (ORAL Surveillance, age >50) show ↑ any malignancy vs anti-TNF (NMSC, lung, lymphoma) — extrapolation uncertain |
-| Vedolizumab, ustekinumab, risankizumab, mirikizumab, ozanimod, etrasimod | No increased malignancy risk shown (long-term data lacking) |
+| [[vedolizumab\|Vedolizumab]], ustekinumab, risankizumab, mirikizumab, ozanimod, etrasimod | No increased malignancy risk shown (long-term data lacking) |
 
 ## Managing IBD Drugs When a Cancer Develops
 
@@ -70,12 +72,12 @@ Framework for two linked decisions: **(1)** how much cancer risk [[inflammatory-
 
 - **Cytotoxic chemotherapy:** tends to induce/maintain IBD remission (durable at 5 yr).
 - **Hormonal deprivation therapy** (breast/prostate): associated with IBD flare (HR 2.00 alone; 1.86 with chemo) → follow closely.
-- **[[immune-checkpoint-inhibitor-hepatitis\|Immune checkpoint inhibitors]] (ICIs):** RR diarrhea 1.64, colitis 10.35; in known IBD → relapse ~40% (≥1/3 need biologics); **CTLA-4 > PD-1/PD-L1**. ICI colitis Rx = steroids, biologics if steroid-refractory.
+- **Immune checkpoint inhibitors (ICIs):** RR diarrhea 1.64, [[immune-checkpoint-inhibitor-colitis|colitis]] 10.35; in known IBD → relapse ~40% (≥1/3 need biologics); **CTLA-4 > PD-1/PD-L1**. ICI colitis Rx = steroids, biologics if steroid-refractory; [[immune-checkpoint-inhibitor-hepatitis|ICI hepatitis]] is managed separately.
 - For active cancer needing IBD control during oncologic treatment: most biologics are warranted with close oncologist–gastroenterologist collaboration.
 
 ## See Also
 
-[[inflammatory-bowel-disease]], [[crohns-disease]], [[ulcerative-colitis]], [[colorectal-cancer]], [[primary-sclerosing-cholangitis]], [[cholangiocarcinoma]], [[immune-checkpoint-inhibitor-hepatitis]], [[thiopurines]], [[ibd-preventive-care]], [[colonoscopy-surveillance]], [[ibd-endoscopic-scoring]], [[post-transplant-lymphoproliferative-disorder]]
+[[inflammatory-bowel-disease]], [[crohns-disease]], [[ulcerative-colitis]], [[colorectal-cancer]], [[primary-sclerosing-cholangitis]], [[cholangiocarcinoma]], [[immune-checkpoint-inhibitor-colitis]], [[immune-checkpoint-inhibitor-hepatitis]], [[thiopurines]], [[anti-tnf-agents]], [[vedolizumab]], [[ibd-preventive-care]], [[anal-cancer-screening]], [[colonoscopy]], [[colonoscopy-surveillance]], [[ibd-endoscopic-scoring]], [[gastroenteropancreatic-neuroendocrine-tumors]], [[post-transplant-lymphoproliferative-disorder]]
 
 ---
 

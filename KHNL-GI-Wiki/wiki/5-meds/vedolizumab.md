@@ -3,7 +3,7 @@ title: "Vedolizumab"
 category: med
 tags: [vedolizumab, anti-integrin, alpha4beta7, biologic, ibd, crohns, ulcerative-colitis, pouchitis, immune-checkpoint-inhibitor, gut-selective]
 created: 2026-09-04
-updated: 2026-09-04
+updated: 2026-09-05
 sources: [acg-2025-uc, acg-2025-crohns, acg-2019-uc, acg-2018-crohns, aga-2024-uc-pharm, aga-2025-crohns-pharm, aga-2021-crohns-pharm, aga-2024-pouchitis, aga-2021-ici-colitis-hepatitis, aga-2024-ibd-malignancy, acg-2025-ibd-preventive-care, aga-2024-pregnancy-gi-liver]
 ---
 
@@ -116,7 +116,7 @@ A **gut-selective anti-integrin** monoclonal antibody for [[inflammatory-bowel-d
 - **Not an induction rescue agent.** ACG 2025 is explicit: there are **no data** on adalimumab, golimumab, or vedolizumab as induction rescue therapy in ASUC, and **their use cannot currently be recommended in this setting**. Rescue by day 3 of failing IV corticosteroids is infliximab or cyclosporine ([[acg-2025-uc]]).
 - **Its ASUC role is downstream** — bridging from a [[calcineurin-inhibitors|calcineurin inhibitor]] to maintenance (Rec 54, Conditional/Very low). Supporting cohorts:
   - Cyclosporine or [[tacrolimus]] induction → vedolizumab bridge/maintenance: colectomy **33% at 1 y, 45% at 2 y**, no serious adverse events.
-  - **GETAID** multicenter cohort, 39 patients (36 anti-TNF-experienced): **28% colectomy at 12 months**; 3 developed mild transient renal failure, 1 developed *Campylobacter jejuni* colitis on vedolizumab + tacrolimus.
+  - **GETAID** multicenter cohort, 39 patients (36 anti-TNF-experienced): **28% colectomy at 12 months**; 3 developed mild transient renal failure, 1 developed [[campylobacter-infection|*Campylobacter jejuni*]] colitis on vedolizumab + tacrolimus.
   - Single-center prospective study (n = 17; 15 responded to cyclosporine and received vedolizumab): **18% colectomy at 52 weeks**, no serious adverse events.
 - The competing option after cyclosporine-induced remission is a [[thiopurines|thiopurine]] (Rec 53, Conditional/**Low**) — a **higher** evidence grade than the vedolizumab option.
 

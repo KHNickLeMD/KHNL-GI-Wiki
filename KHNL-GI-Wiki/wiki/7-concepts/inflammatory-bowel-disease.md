@@ -3,7 +3,7 @@ title: "Inflammatory Bowel Disease (IBD) — Overview"
 category: concept
 tags: [ibd, crohns, ulcerative-colitis, biologic, immunotherapy]
 created: 2026-05-16
-updated: 2026-09-02
+updated: 2026-09-05
 sources: [aga-2026-inpatient-ibd]
 ---
 
@@ -22,8 +22,10 @@ Inflammatory bowel disease (IBD) comprises two major chronic immune-mediated dis
 | Disease-specific diagnosis and therapy | [[crohns-disease]], [[ulcerative-colitis]] |
 | UC vs CD distinguishing features | [[uc-vs-crohns-comparison]] |
 | Endoscopic activity scoring (MES, UCEIS, SES-CD, Rutgeerts) | [[ibd-endoscopic-scoring]] |
-| Vaccination, cancer screening, bone/mental health | [[ibd-preventive-care]] |
-| Cancer screening in IBD with a prior/active malignancy | [[ibd-in-malignancy]] |
+| Vaccination, cancer screening, bone/mental health in the cancer-free patient | [[ibd-preventive-care]] |
+| Cancer risk from inflammation/drugs; what to do with IBD drugs once a cancer develops or with a prior cancer | [[ibd-in-malignancy]] |
+| Anal cancer screening (general high-risk framework) | [[anal-cancer-screening]] |
+| Colitis-associated CRC dysplasia surveillance | [[ulcerative-colitis]], [[crohns-disease]] (technique on [[colonoscopy]]) |
 | Diet and nutritional therapy | [[nutrition-in-ibd]] |
 | Pain management | [[ibd-pain-management]] |
 | Transmural monitoring | [[intestinal-ultrasound]] |
@@ -43,7 +45,7 @@ Inflammatory bowel disease (IBD) comprises two major chronic immune-mediated dis
 
 ## See Also
 
-[[crohns-disease]], [[ulcerative-colitis]], [[thiopurines]], [[ibd-preventive-care]], [[ibd-endoscopic-scoring]], [[ibd-pain-management]], [[ibd-in-malignancy]], [[nutrition-in-ibd]], [[intestinal-ultrasound]], [[clostridioides-difficile]], [[disorders-of-gut-brain-interaction]], [[drug-induced-liver-injury]], [[nutrition-in-hospitalized-patients]], [[colorectal-cancer]], [[pouchitis]], [[uc-vs-crohns-comparison]], [[probiotics]], [[anticoagulation-gi-bleeding]]
+[[crohns-disease]], [[ulcerative-colitis]], [[thiopurines]], [[ibd-preventive-care]], [[ibd-endoscopic-scoring]], [[ibd-pain-management]], [[ibd-in-malignancy]], [[nutrition-in-ibd]], [[intestinal-ultrasound]], [[clostridioides-difficile]], [[disorders-of-gut-brain-interaction]], [[drug-induced-liver-injury]], [[nutrition-in-hospitalized-patients]], [[colorectal-cancer]], [[pouchitis]], [[uc-vs-crohns-comparison]], [[probiotics]], [[anticoagulation-gi-bleeding]], [[anal-cancer-screening]], [[colonoscopy]]
 
 ---
 

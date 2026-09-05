@@ -3,7 +3,7 @@ title: "Spontaneous Bacterial Peritonitis"
 category: disease-script
 tags: [sbp, ascites, cirrhosis, peritonitis, cefotaxime, albumin]
 created: 2026-05-15
-updated: 2026-09-04
+updated: 2026-09-05
 sources: [aasld-2021-ascites-sbp-hrs, aga-2024-vasoactive-albumin-cirrhosis, baveno-viii-2026-portal-hypertension, baveno-vii-2022-portal-hypertension, aasld-2023-portal-hypertension]
 ---
 
@@ -82,7 +82,7 @@ Infections in cirrhosis increase 10% mortality for every hour's delay in antibio
 | Spontaneous bacterial empyema (SBE) | Pleural fluid PMN ≥250 in patient with hepatic hydrothorax |
 | Spontaneous bacteremia | Positive blood cultures without elevated ascitic PMN |
 | Visceral perforation / surgical peritonitis | Clinical signs of peritonism; imaging; multimicrobial ascitic culture |
-| Pancreatitis-related ascites | Elevated ascitic amylase |
+| [[acute-pancreatitis\|Pancreatitis]]-related ascites | Elevated ascitic amylase |
 | Tuberculous peritonitis | SAAG **<1.1 g/dL**; lymphocytic predominance; AFB culture/ADA |
 
 ---
@@ -213,7 +213,7 @@ Patients with prior SBP have ~68% 1-year recurrence rate without [[antibiotic-pr
 
 ## See Also
 
-[[ascites]], [[aki-in-cirrhosis]], [[hepatic-encephalopathy]], [[jaundice]], [[alcohol-associated-liver-disease]], [[chronic-hepatitis-b]], [[portal-hypertension]], [[variceal-upper-gi-bleeding]], [[acute-on-chronic-liver-failure]], [[liver-transplantation]], [[rifaximin]], [[antibiotic-prophylaxis-cirrhosis]], [[cirrhosis]], [[albumin]]
+[[ascites]], [[aki-in-cirrhosis]], [[hepatic-encephalopathy]], [[jaundice]], [[alcohol-associated-liver-disease]], [[chronic-hepatitis-b]], [[portal-hypertension]], [[variceal-upper-gi-bleeding]], [[acute-on-chronic-liver-failure]], [[liver-transplantation]], [[rifaximin]], [[antibiotic-prophylaxis-cirrhosis]], [[cirrhosis]], [[albumin]], [[acute-pancreatitis]]
 
 ---
 

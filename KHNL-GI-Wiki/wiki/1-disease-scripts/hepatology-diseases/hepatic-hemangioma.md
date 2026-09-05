@@ -3,7 +3,7 @@ title: "Hepatic Hemangioma"
 category: disease-script
 tags: [hemangioma, liver, hpb, focal-liver-lesion, benign-liver, mri, cavernous-hemangioma, kasabach-merritt, sclerosed-hemangioma]
 created: 2026-05-07
-updated: 2026-08-30
+updated: 2026-09-05
 sources: [acg-2024-focal-liver-lesions]
 ---
 
@@ -18,7 +18,15 @@ sources: [acg-2024-focal-liver-lesions]
   - [[#Classification / Typing]]
 - [[#Differential Diagnosis]]
 - [[#Diagnostics]]
+  - [[#When Ultrasound Alone Is Enough]]
+  - [[#Modality Performance]]
+  - [[#MRI / CT Hallmarks]]
+  - [[#Biopsy]]
 - [[#Therapeutics]]
+  - [[#Follow-Up — Almost Never]]
+  - [[#When to Treat (KC 29)]]
+  - [[#How to Treat]]
+  - [[#Hormones and Contraception]]
 
 ---
 
@@ -85,13 +93,15 @@ No grading system — hemangioma is uniformly benign. Three variables actually d
 | Lesion **>2 cm**, atypical/nondiagnostic US, or any risk factor ([[chronic-hepatitis-b\|hepatitis B]], [[cirrhosis\|cirrhosis]], known malignancy) | **Multiphasic contrast-enhanced imaging** — CEUS, CT, or MRI (KC 24b) |
 | Suspected hemangioma **cannot be confirmed** on cross-sectional imaging | **Monitor and review at a multidisciplinary tumor board** (KC 25) |
 
-### Modality Performance ([[acg-2024-focal-liver-lesions]])
+### Modality Performance
 
 | Modality | Sensitivity | Specificity |
 |---|---|---|
-| **MRI** (best) | 92%–100% | 85.7%–99.4% |
+| **[[mri-mrcp\|MRI]]** (best) | 92%–100% | 85.7%–99.4% |
 | **CT** | 98.3% | **55.0%** |
 | **CEUS** | accuracy 97.3% (other series: accuracy 92.7%; diagnostic rate 90.2%) | — |
+
+*Diagnostic performance for hepatic hemangioma. ([[acg-2024-focal-liver-lesions]])*
 
 ### MRI / CT Hallmarks
 
@@ -142,7 +152,7 @@ The clearest indications for treatment are **complications of the lesion**, all 
 
 ## See Also
 
-[[focal-liver-lesions]], [[focal-nodular-hyperplasia]], [[hepatocellular-adenoma]], [[hepatic-cysts]], [[hepatocellular-carcinoma]], [[hcc-surveillance]], [[cholangiocarcinoma]], [[li-rads]], [[liver-biopsy]], [[radiofrequency-ablation]], [[liver-transplantation]], [[cirrhosis]], [[chronic-hepatitis-b]]
+[[focal-liver-lesions]], [[focal-nodular-hyperplasia]], [[hepatocellular-adenoma]], [[hepatic-cysts]], [[hepatocellular-carcinoma]], [[hcc-surveillance]], [[cholangiocarcinoma]], [[li-rads]], [[mri-mrcp]], [[liver-biopsy]], [[radiofrequency-ablation]], [[liver-transplantation]], [[cirrhosis]], [[chronic-hepatitis-b]]
 
 ---
 

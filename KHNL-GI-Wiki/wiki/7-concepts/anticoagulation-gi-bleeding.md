@@ -3,7 +3,7 @@ title: "Anticoagulation Management in GI Bleeding and Periendoscopic Period"
 category: concept
 tags: [anticoagulation, antiplatelets, gi-bleeding, periendoscopic, doac, warfarin, bridging]
 created: 2026-05-15
-updated: 2026-09-03
+updated: 2026-09-05
 sources: [acg-cag-2022-anticoag-gi-bleeding, asge-2016-antithrombotic]
 ---
 
@@ -22,6 +22,7 @@ sources: [acg-cag-2022-anticoag-gi-bleeding, asge-2016-antithrombotic]
   - [[#DOAC Periendoscopic Management]]
   - [[#Antiplatelet Periendoscopic Management]]
   - [[#Drug-Specific Hold Intervals and Reversal (ASGE Reference Table)]]
+  - [[#DOAC Hold Intervals by Creatinine Clearance (ASGE Tables 6–9)]]
 - [[#Clinical Pearls and Decision Framework]]
 - [[#See Also]]
 - [[#Sources]]
@@ -41,7 +42,7 @@ The 2022 ACG/CAG guideline provides the primary evidence-based framework for bot
 
 ## Acute GI Bleeding Management
 
-Acute GI bleeding is defined as overt bleeding (melena, hematochezia, hematemesis) requiring hospitalization or observation. Life-threatening hemorrhage includes hypovolemic shock, hemoglobin drop >5 g/dL, transfusion requirement ≥5 units pRBC, or death.
+Acute GI bleeding is defined as overt bleeding ([[upper-gi-bleeding|melena, hematemesis]], [[acute-lower-gi-bleeding|hematochezia]]) requiring hospitalization or observation. Life-threatening hemorrhage includes hypovolemic shock, hemoglobin drop >5 g/dL, transfusion requirement ≥5 units pRBC, or death.
 
 ### VKA Reversal (Warfarin)
 
@@ -76,7 +77,7 @@ Acute GI bleeding is defined as overt bleeding (melena, hematochezia, hematemesi
 **Rivaroxaban/apixaban — andexanet alfa (Andexxa):**
 
 - Guideline suggests **against** routine andexanet alfa (conditional, very low certainty)
-- Andexanet alfa is a recombinant factor Xa decoy protein; reduces anti-Xa activity by ~92% within 2–5 minutes
+- Andexanet alfa is a modified recombinant human factor Xa decoy protein that binds and sequesters apixaban and rivaroxaban; elimination half-life **5 h**. In trials it decreased **apixaban activity by 94%** and **rivaroxaban activity by 92%**, and restored thrombin generation in **100%** of patients within **2–5 minutes**
 - Single uncontrolled cohort (62 GI bleed patients in efficacy group): 85% excellent/good hemostasis at 12 hours; 30-day thrombotic event rate 9.7%, mortality 13.9% in the full cohort
 - Cost: ~$49,500 (high-dose); selective use reasonable in life-threatening bleed within 24 hours of last dose
 - Not studied for edoxaban in GI bleeding context
@@ -258,8 +259,8 @@ Quick-reference duration-of-action, elective hold, and reversal by agent (ASGE 2
 
 | Agent (class) | Duration of action | Elective (pre-procedure) | Urgent reversal |
 |---|---|---|---|
-| Aspirin (APA) | 7-10 d | Continue (usually) | Hold; can give platelets |
-| NSAIDs | Varies | — | Hold |
+| Aspirin (APA) | 7-10 d | NA in Table 2 — ASGE Rec: low-dose ASA may be **continued** periendoscopically | Hold; can give platelets |
+| NSAIDs | Varies | NA in Table 2 — may be **continued** with ASA | Hold |
 | Dipyridamole | 2-3 d | Hold | Hold |
 | Cilostazol | 2 d | Hold | Hold |
 | Clopidogrel/prasugrel (thienopyridine) | 5-7 d | Hold ≥5-7 d before high-risk | Hold |
@@ -271,10 +272,38 @@ Quick-reference duration-of-action, elective hold, and reversal by agent (ASGE 2
 | UFH | IV 2-6 h; SQ 12-24 h | Hold | Protamine (partial) |
 | LMWH (enoxaparin/dalteparin) | 24 h | Hold | Protamine ± rVIIa |
 | Fondaparinux | 36-48 h | Hold | Protamine, consider rVIIa |
-| Factor Xa inhibitors (rivaroxaban/apixaban/edoxaban) | Renal-dependent | Hold 1-2 d | Charcoal if <2-3 h; PCC (nonactivated/activated); andexanet (selective) |
-| Dabigatran (direct thrombin) | Renal-dependent | Hold 1-2 d | Charcoal if <2-3 h; PCC; HD; idarucizumab (selective) |
+| Factor Xa inhibitors (rivaroxaban/apixaban/edoxaban) | Renal-dependent (ASGE Tables 7–9) | Hold — interval by CrCl, see below | Charcoal if <2-3 h; PCC (nonactivated/activated); andexanet (selective)* |
+| Dabigatran (direct thrombin) | Renal-dependent (ASGE Table 6) | Hold — interval by CrCl, see below | Charcoal if <2-3 h; PCC; HD; idarucizumab (selective)* |
 
 *Reference: ASGE 2016 ([[asge-2016-antithrombotic]]). PEG placement on ASA or clopidogrel monotherapy is low bleeding risk (not on DAPT); EUS-FNA of solid masses on ASA/NSAIDs is low risk.*
+\* Andexanet and idarucizumab are not in ASGE 2016 Table 2 (both post-date or post-approve it); "selective" reflects the ACG/CAG 2022 stance above, not an ASGE recommendation.
+
+### DOAC Hold Intervals by Creatinine Clearance (ASGE Tables 6–9)
+
+The "1–2 days" in the ACG/CAG framework above is the typical case; **ASGE 2016 sets the actual pre-procedure interval by creatinine clearance**, which is the number needed to schedule the hold in renal impairment ([[asge-2016-antithrombotic]]). General rule: stop a factor Xa inhibitor for **at least 2 half-lives** before a high-bleeding-risk procedure.
+
+**Dabigatran** (Table 6 — ~80% renal excretion, so the interval is dictated by CrCl):
+
+| CrCl (mL/min) | Half-life, h (range) | Moderate procedural bleeding risk (2–3 half-lives) | High procedural bleeding risk (4–5 half-lives) |
+|---|---|---|---|
+| >80 | 13 (11–22) | 1–1.5 d | 2–3 d |
+| 50–80 | 15 (12–34) | 1–2 d | 2–3 d |
+| 30–49 | 18 (13–23) | 1.5–2 d | 3–4 d |
+| ≤29 | 27 (22–35) | 2–3 d | 4–6 d |
+
+**Factor Xa inhibitors** — days of discontinuation before a **high-risk** endoscopic procedure (Tables 7–9; note the CrCl bands are **not** the same across drugs):
+
+| CrCl (mL/min) | Apixaban (Table 7) | Rivaroxaban (Table 8) |
+|---|---|---|
+| >90 | 1 or 2 d (band is CrCl >60) | 1 d |
+| 60–90 | 1 or 2 d (band is CrCl >60) | 2 d |
+| 30–59 | 3 d | 3 d |
+| 15–29 | 4 d | 4 d |
+
+- **Edoxaban** (Table 9): **at least 24 h** at every band — CrCl >60 (t½ 8.6 h), 30–60 (t½ 9.4 h), and 15–30 (t½ 16.9 h). **No data for CrCl <15.**
+- **Time to onset on resumption** — dabigatran 1.25–3 h, apixaban 1–3 h, rivaroxaban 2–4 h, edoxaban 1–2 h. DOACs are therapeutic again within hours of the first resumed dose, which is why resumption timing (not bridging) is the lever.
+- **Fondaparinux:** minimum recommended discontinuation before a high-risk procedure is **36 hours**.
+- **LMWH (therapeutic dose):** last dose **24 h before** the procedure, given at **50% of the total daily dose**.
 
 ---
 

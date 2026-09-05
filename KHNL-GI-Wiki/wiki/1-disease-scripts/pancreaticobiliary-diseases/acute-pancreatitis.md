@@ -3,7 +3,7 @@ title: "Acute Pancreatitis"
 category: disease-script
 tags: [pancreatitis, acute-pancreatitis, hpb, gallstone-pancreatitis, necrotizing-pancreatitis, ercp, bisap, fluid-resuscitation, nutrition]
 created: 2026-05-07
-updated: 2026-09-04
+updated: 2026-09-05
 sources: [acg-2024-acute-pancreatitis, asge-2016-pancreatic-fluid-collections, asge-2015-benign-pancreatic-disease, demadaria-2022-waterfall, aga-2024-pregnancy-gi-liver, aga-2022-recurrent-pancreatitis-endoscopy, asge-2023-post-ercp-pancreatitis, aga-2020-cpu-pancreatic-necrosis]
 ---
 
@@ -60,7 +60,7 @@ sources: [acg-2024-acute-pancreatitis, asge-2016-pancreatic-fluid-collections, a
 | **Post-[[ercp\|ERCP]]** | Develops within hours of procedure | Clinical context |
 | **Hypercalcemia** | Hyperparathyroidism | Serum calcium, PTH |
 | **[[hereditary-pancreatitis\|Genetic]]** | Young, recurrent, family history | PRSS1, SPINK1, CFTR mutation panel |
-| **Autoimmune (AIP type 1)** | IgG4-RD features; older male; bile duct involvement | IgG4 level; MRI pancreas |
+| **[[autoimmune-pancreatitis\|Autoimmune (AIP type 1)]]** | IgG4-RD features; older male; bile duct involvement | IgG4 level; MRI pancreas |
 | **Idiopathic (IAP)** | No etiology after initial labs (incl. lipid and calcium) and imaging (transabdominal US, MRCP). **Age >40 with no etiology → consider a pancreatic tumor** (Key concept 3) | Refer for **repeat outpatient US + TG level** (the inpatient workup often misses gallstones/high TG). Then [[endoscopic-ultrasound\|EUS]] and/or [[mri-mrcp\|MRCP]] (ACG 2024 Rec 2, conditional/very low). **Routine ERCP should NOT be performed** — it raises PEP risk |
 
 **Recurrence:** a recurrent attack of AP occurs in **~20%–29%** of patients after an initial attack, even when an etiology has been established; more common in men, smokers, and alcohol-related disease.
@@ -130,7 +130,7 @@ sources: [acg-2024-acute-pancreatitis, asge-2016-pancreatic-fluid-collections, a
 | BUN | **>20 or rising** = severity risk factor; primary resuscitation target |
 | Calcium | Hypercalcemia etiology (with PTH) |
 | CRP | **≥150 mg/dL** reported as predictive of moderately severe/severe disease |
-| IgG4 | If [[autoimmune-pancreatitis\|autoimmune pancreatitis]] suspected |
+| IgG4 | If autoimmune pancreatitis suspected |
 
 ### Imaging
 
@@ -236,7 +236,7 @@ sources: [acg-2024-acute-pancreatitis, asge-2016-pancreatic-fluid-collections, a
 
 | Scenario | ACG 2024 position | Label |
 |---|---|---|
-| **AP complicated by cholangitis** | **Early ERCP within the first 24 hours** decreases morbidity and mortality | Key concept 13 (ungraded) |
+| **AP complicated by [[acute-cholangitis\|cholangitis]]** | **Early ERCP within the first 24 hours** decreases morbidity and mortality | Key concept 13 (ungraded) |
 | **Acute biliary pancreatitis *without* cholangitis** | *"We suggest **medical therapy over early (within the first 72 hr) ERCP**"* — i.e. **do not** rush to ERCP | **Rec 5 — conditional, low quality** |
 | **No cholangitis and/or jaundice, CBD stone suspected** | Screen with **[[mri-mrcp\|MRCP]] or [[endoscopic-ultrasound\|EUS]] before ERCP**; **diagnostic ERCP should be avoided** | Key concept 14 (ungraded) |
 

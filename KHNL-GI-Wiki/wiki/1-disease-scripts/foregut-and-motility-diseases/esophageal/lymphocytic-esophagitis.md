@@ -3,11 +3,21 @@ title: "Lymphocytic Esophagitis"
 category: disease-script
 tags: [esophagus, lymphocytic-esophagitis, dysphagia, esophageal-rings, histology]
 created: 2026-07-28
-updated: 2026-08-27
+updated: 2026-09-05
 sources: [aga-2024-esophageal-immunity-infection]
 ---
 
 Histologically defined esophageal disorder characterized by a **dense peripapillary lymphocytic infiltrate with peripapillary spongiosis, without significant eosinophilic or neutrophilic infiltrate**. Its status as a distinct clinical entity is uncertain — lymphocytic recruitment may be a nonspecific response to esophageal injury.
+
+## Contents
+- [[#Assessment]]
+  - [[#Establishing the Diagnosis]]
+  - [[#Severity Assessment]]
+- [[#Differential Diagnosis]]
+- [[#Diagnostics]]
+- [[#Therapeutics]]
+- [[#See Also]]
+- [[#Sources]]
 
 ## Assessment
 

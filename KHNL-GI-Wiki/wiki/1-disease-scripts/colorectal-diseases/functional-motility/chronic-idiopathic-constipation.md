@@ -3,8 +3,29 @@ title: "Chronic Idiopathic Constipation"
 category: disease-script
 tags: [constipation, cic, laxatives, secretagogues, peg, linaclotide, colorectal, functional]
 created: 2026-05-16
-updated: 2026-09-03
+updated: 2026-09-05
 sources: [aga-acg-2023-constipation, acg-2021-anorectal-disorders, asge-2014-constipation, aga-2026-refractory-constipation, rome-v-2026-dgbi]
+---
+
+## Contents
+- [[#Assessment]]
+  - [[#Establishing the Diagnosis]]
+  - [[#Severity Assessment]]
+  - [[#Classification / Typing]]
+- [[#Differential Diagnosis]]
+- [[#Diagnostics]]
+  - [[#Initial Workup]]
+  - [[#Anorectal Physiology Testing (if outlet dysfunction suspected)]]
+  - [[#Role of Endoscopy (ASGE 2014)]]
+- [[#Therapeutics]]
+  - [[#Step 1: Lifestyle and Behavioral Measures]]
+  - [[#Step 2: OTC Pharmacotherapy (AGA-ACG 2023)]]
+  - [[#Step 3: Prescription Agents (when OTC fails)]]
+  - [[#Defecation Disorder: Biofeedback]]
+  - [[#Refractory Constipation (AGA 2026)]]
+- [[#See Also]]
+- [[#Sources]]
+
 ---
 
 ## Assessment

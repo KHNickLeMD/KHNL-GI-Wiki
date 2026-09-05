@@ -3,7 +3,7 @@ title: "Acute Cholecystitis"
 category: disease-script
 tags: [acute-cholecystitis, gallbladder, cholecystectomy, eus-gbd, percutaneous-cholecystostomy, transpapillary-drainage, lams, high-surgical-risk]
 created: 2026-07-23
-updated: 2026-09-02
+updated: 2026-09-05
 sources: [aga-2023-eus-gallbladder-drainage, asge-2024-therapeutic-eus-biliary, aga-2024-pregnancy-gi-liver, tg18-2018-cholangitis-flowchart]
 ---
 
@@ -31,9 +31,9 @@ sources: [aga-2023-eus-gallbladder-drainage, asge-2024-therapeutic-eus-biliary, 
 
 ### Establishing the Diagnosis
 
-- **Suspect on any ONE of:** fever, chills, abdominal pain, [[jaundice|jaundice]], nausea, vomiting, disturbance of consciousness — the same trigger set as [[acute-cholangitis|acute cholangitis]]; one symptom is enough to start the workup. ([[tg18-2018-cholangitis-flowchart]])
+- **Suspect on any ONE of:** fever, chills, abdominal pain, [[jaundice]], nausea, vomiting, disturbance of consciousness — the same trigger set as [[acute-cholangitis|acute cholangitis]]; one symptom is enough to start the workup. ([[tg18-2018-cholangitis-flowchart]])
 - **Take vital signs first** (BP, HR, respiratory rate, temperature, urine volume, SpO₂, consciousness) to decide whether the situation is urgent. **If urgent, start treatment immediately — do not wait for the definitive diagnosis.**
-- **Murphy's sign — the exam finding specific to acute cholecystitis, and TG18 says it must always be confirmed:** compression of the right upper quadrant makes the patient catch their breath from pain on deep inspiration. (Its absence points instead toward cholangitis or [[choledocholithiasis|choledocholithiasis]].)
+- **Murphy's sign — the exam finding specific to acute cholecystitis, and TG18 says it must always be confirmed:** compression of the right upper quadrant makes the patient catch their breath from pain on deep inspiration. (Its absence points instead toward cholangitis or [[choledocholithiasis]].)
 - **Blood tests** are drawn for diagnosis *and* grading: WBC, platelets, CRP, albumin; ALP, GGT, AST, ALT, bilirubin; BUN, creatinine, PT/PT-INR; blood gas; **blood culture preferably if high fever is present**.
 - Common condition in the US; imaging (ultrasound/CT) identifies cholecystitis and screens for **gallbladder perforation** — a key branch point in the drainage algorithm below. ([[aga-2023-eus-gallbladder-drainage]])
 

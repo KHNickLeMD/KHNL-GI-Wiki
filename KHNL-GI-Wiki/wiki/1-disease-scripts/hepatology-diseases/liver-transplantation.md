@@ -75,7 +75,7 @@ Liver transplantation (LT) is a lifesaving procedure for selected patients with 
 
 **Chronic liver disease — indications for referral** (Recs 1–2, [[aasld-ast-2025-liver-transplant-candidate-evaluation]]):
 
-- Any **decompensating event**: [[ascites]] (with or without [[spontaneous-bacterial-peritonitis|SBP]]), [[hepatic-encephalopathy|hepatic encephalopathy]], [[variceal-upper-gi-bleeding|variceal hemorrhage]], [[hepatopulmonary-syndrome-portopulmonary-hypertension|hepatopulmonary syndrome/portopulmonary hypertension]], HCC (Strong, Level 4)
+- Any **decompensating event**: [[ascites]] (with or without [[spontaneous-bacterial-peritonitis|SBP]]), [[hepatic-encephalopathy|hepatic encephalopathy]], [[variceal-upper-gi-bleeding|variceal hemorrhage]], [[hepatopulmonary-syndrome-portopulmonary-hypertension|hepatopulmonary syndrome/portopulmonary hypertension]], [[hepatocellular-carcinoma|HCC]] (Strong, Level 4)
 - **No decompensating event — the MELD threshold for referral is explicitly *unclear*** (Rec 1, Strong, Level 4). Two different numbers appear in the guideline and they answer different questions; do not merge them:
   - **MELD 3.0 ≥12** — the *survival-benefit* signal: waitlist data suggest LT survival benefit may be achieved at MELD ≥12 (Rec 1; Figure 1 labels the referral trigger "MELD 3.0 greater than or equal to 12"). LDLT survival benefit has been reported as low as **MELD 11**.
   - **MELD 15** — what the working group actually endorses: "the majority of the working group believes that a MELD score (in its most recent iteration) of **15** still appears to be a reasonable threshold **in the absence of portal hypertensive complications**." The ≥12 studies were designed to compare waitlist vs post-LT survival, **not to establish referral timing**.
@@ -92,7 +92,7 @@ Liver transplantation (LT) is a lifesaving procedure for selected patients with 
 - Unresectable perihilar CCA <3 cm radial diameter: eligible with neoadjuvant protocol + preoperative staging (Strong, Level 3)
 - Mixed HCC-CCA or intrahepatic CCA <3 cm without extrahepatic disease: may be considered (Weak, Level 4)
 
-**Equity note:** Patients with ALD, African American race, and lower socioeconomic status are under-referred. Transplant centers have an obligation to facilitate referral whenever possible.
+**Equity note:** Patients with [[alcohol-associated-liver-disease|ALD]], African American race, and lower socioeconomic status are under-referred. Transplant centers have an obligation to facilitate referral whenever possible.
 
 ---
 
@@ -177,7 +177,7 @@ Performed by a credentialed evaluator. Key requirements:
 - High MELD (>40) or ACLF — assess trajectory and futility risk (Strong, Level 3)
 - Physical frailty — not a sole contraindication; use standardized metric (Strong, Level 2)
 - Mental health disorders — treat and reassess (Strong, Level 3)
-- Yerdel grade IV PVT — **relative** contraindication to isolated LT (Weak, Level 2); revascularization may be feasible. See [[portal-vein-thrombosis]].
+- **Yerdel grade IV PVT** (complete splanchnic vein thrombosis) **without sufficient collateral veins** (left gastric vein, pericholedochal collaterals) — **relative** contraindication to isolated LT (Rec 47, Weak, Level 2); with adequate collaterals or feasible revascularization, LT may proceed. Grade definitions live on [[portal-vein-thrombosis]].
 - BMI >40 or <18.5 — screen for treatable factors; not sole exclusion (Strong, Level 3)
 - POPH: mPAP 45 mmHg + PVR >3 WU on optimized treatment = contraindication (Rec 24, Strong, Level 1) — see [[#Pulmonary Evaluation]] for the MELD-exception thresholds
 
@@ -308,7 +308,7 @@ The post-transplant recipient requires lifelong structured monitoring for allogr
 
 ### ERCP and Percutaneous Biliary Access
 
-- ERCP: first-line therapy (not diagnosis) for anastomotic biliary strictures with duct-to-duct anastomosis; can be pursued without preceding MRCP when clinical suspicion high or intervention needed ([[aasld-ast-2025-liver-transplant-graft-complications]], Rec 16, Weak, Level 5)
+- [[ercp|ERCP]]: first-line therapy (not diagnosis) for anastomotic biliary strictures with duct-to-duct anastomosis; can be pursued without preceding MRCP when clinical suspicion high or intervention needed ([[aasld-ast-2025-liver-transplant-graft-complications]], Rec 16, Weak, Level 5)
 - Percutaneous transhepatic biliary drain (PTBD): reserved for failed endoscopic management (Rec 19); first-line for Roux-en-Y anatomy depending on center expertise (Rec 20)
 
 ### Liver Biopsy
@@ -316,8 +316,9 @@ The post-transplant recipient requires lifelong structured monitoring for allogr
 - **Indicated** when liver test abnormalities remain unexplained after non-invasive workup
 - **Protocol liver biopsy is NOT recommended** in the routine management of stable adult LT recipients ([[aasld-ast-2025-liver-transplant-graft-complications]], Rec 34, Strong, Level 4) — supersedes older practice of protocol biopsies at 1 and 5 years
 - Use before minimization of immunosuppression is appropriate (Rec 34)
-- **Banff criteria**: standard for grading rejection (Rejection Activity Index: portal inflammation, bile duct damage, venous endotheliitis); Banff 2022 criteria incorporate AMR features
-- **Fibrosis staging**: critical for recurrent disease assessment (Ishak or METAVIR)
+- **Banff criteria**: standard for grading rejection (Rejection Activity Index = sum of three components — portal inflammation, bile duct damage, venous endotheliitis); Banff 2022 criteria incorporate AMR features
+  - *Gap: no ingested source prints the **0–3 point scale for each RAI component** or the RAI band cut-offs, yet the treatment split below turns on **RAI <4** ([[#Graft Rejection Management]]). A Banff Working Group consensus paper would be needed — read the RAI off the pathology report; do not score from this page. [[antibody-mediated-rejection-liver-transplant]] carries the same gap for AMR grading.*
+- **Fibrosis staging**: critical for recurrent disease assessment (Ishak or METAVIR). *Gap: neither staging system's stage definitions are in an ingested source.*
 
 ### Transient Elastography
 
@@ -326,7 +327,8 @@ The post-transplant recipient requires lifelong structured monitoring for allogr
 
 ### HCC Surveillance Post-Transplant
 
-- Recipients transplanted for [[hepatocellular-carcinoma]] (HCC): continue cross-sectional surveillance every **6–12 months** ([[aasld-2012-liver-transplant-long-term]] Rec. 42), with **AFP as an adjunct marker** (Rec. 43) — risk of recurrence persists, especially beyond Milan criteria. *The current modality (contrast-enhanced abdominal CT or MRI **plus chest CT**, cross-sectional over ultrasound) and the recurrence-site rationale live on [[hepatocellular-carcinoma]] — do not read this bullet as the full protocol.*
+- Recipients transplanted for [[hepatocellular-carcinoma]] (HCC): continue cross-sectional surveillance — risk of recurrence persists, especially beyond Milan criteria. *The current modality (contrast-enhanced abdominal CT or MRI **plus chest CT**, cross-sectional over ultrasound), interval, and the recurrence-site rationale live on [[hepatocellular-carcinoma]] — do not read this bullet as the full protocol.*
+- ⚠ **What the 2012 guideline actually says** ([[aasld-2012-liver-transplant-long-term]]): **Rec 43** covers only **de novo HCC in a re-cirrhotic allograft** — imaging every **6–12 months**. Surveillance after LT performed *for* HCC is **not formally established** there; the stated "reasonable plan" is abdominal **+ chest CT every 6 months for 3 years**, with **serial AFP as an adjunct only if AFP was elevated before transplant/ablation**. Biopsy any suspicious lesion when the diagnosis is in doubt; [[radiofrequency-ablation|RFA]] is the preferred treatment for a small solitary recurrence.
 - mTOR inhibitor-based IS may reduce HCC recurrence (see Therapeutics)
 
 ---
@@ -461,7 +463,7 @@ Biliary complications are addressed both by AASLD-AST 2025 and by the dedicated 
 
 **T-Cell–Mediated Rejection (TCMR)** (Recs 37–39):
 
-- **Mild TCMR** (early or late, rejection activity index <4): augment existing IS; change cyclosporine to tacrolimus if applicable (Rec 37, Strong, Level 3)
+- **Mild TCMR** (early or late, Banff **rejection activity index <4** — component point values are not in any ingested source, see [[#Liver Biopsy]]): augment existing IS; change cyclosporine to tacrolimus if applicable (Rec 37, Strong, Level 3)
 - **Moderate/severe TCMR**: high-dose IV corticosteroids (methylprednisolone 500–1000 mg IV daily × 1–3 days) + augment existing IS (change CSA to TAC if applicable; add antimetabolite or mTOR inhibitor) (Rec 38, Strong, Level 3); 60–90% of acute TCMR respond to pulse steroids; prophylactic anti-infective therapy concurrent with high-dose corticosteroids
 - Steroid taper post-pulse: prednisone 40–80 mg daily, decreasing by 10–20 mg decrements until tapered off (center-variable)
 - **Refractory TCMR**: second course of corticosteroids or lymphocyte-depleting therapy (Rec 39, Strong, Level 4)
@@ -515,27 +517,26 @@ Metabolic syndrome, CKD, bone disease, infection prophylaxis, vaccination, de no
 - Consider **HBIG withdrawal** in selected patients once low-risk; NA continues indefinitely regardless. (Reported HBIG durations range 6 months to several years.)
 - **HBV + [[hepatitis-d|HDV]] co-infection is the exception:** HBIG **must** be given in addition to first-line NA in *all* such recipients (Rec 60, Strong, Level 4)
 - **HBsAg-negative recipient of an HBsAg-negative, anti-HBc-positive graft** (transmission risk up to 75%; highest when recipient is both HBsAb- and HBcAb-negative): **indefinite** prophylaxis with **entecavir, tenofovir disoproxil, or tenofovir alafenamide**, started immediately post-LT. **HBIG is not required in this setting** (Rec 57, Strong, Level 3). De novo HBV infection → lifelong first-line NA.
-- **Monitoring** ([[aasld-2012-liver-transplant-long-term]], Rec. 63): HBV DNA annually; anti-HBs every 3–6 months. Ensure HBV vaccination pre-LT in D−/R− recipients (Rec. 64).
+- **Monitoring** ([[aasld-2012-liver-transplant-long-term]]): HBV DNA annually; anti-HBs every 3–6 months. Ensure HBV vaccination pre-LT in D−/R− recipients. (The 2012 numbered HBV recommendations are **Recs 74–77** — HBIG + NA combination prevents recurrence in ≥90%; HBIG may be dropped in low-risk recipients and replaced by antiviral monotherapy; lifelong antivirals for recurrent HBV; re-LT appropriate when preventive/treatment strategies exist. The 2025 Recs 57–60 above supersede them.)
 
-**[[hepatitis-c|Hepatitis C]] (HCV) recurrence** (Rec. 65–68):
+**[[hepatitis-c|Hepatitis C]] (HCV) recurrence** ([[aasld-2012-liver-transplant-long-term]], Recs 78–82):
 > **Note**: These recommendations reflect the 2012 pre-DAA era and are now largely superseded. HCV recurrence post-LT is now treated with direct-acting antiviral (DAA) regimens (NS5A/NS5B/NS3 inhibitors) achieving >95% SVR. The recommendations below are preserved for historical context.
 
 - Universal recurrence within weeks; accelerated fibrosis vs. non-transplant population
 - Pre-LT: SVR before transplant is the best approach (prevent recurrence entirely)
-- Post-LT HCV RNA monitoring: 1, 3, 6, 12 months, then annually (Rec. 65)
-- Liver biopsy at 1 year to stage fibrosis (Rec. 66)
-- **2012-era treatment**: pegylated interferon + ribavirin; SVR ~30%; poorly tolerated post-LT
+- Post-LT HCV RNA monitoring: 1, 3, 6, 12 months, then annually
+- Liver biopsy to monitor severity/progression and distinguish recurrent HCV from other causes of enzyme elevation (Rec 78)
+- **2012-era treatment** (Rec 81): antiviral therapy for **grade ≥3 necroinflammation and/or stage ≥2 fibrosis (of 4), or cholestatic hepatitis** — pegylated interferon + ribavirin; SVR ~30%; poorly tolerated post-LT. Prophylactic antiviral therapy has no role (Rec 79). Re-transplantation for recurrent HCV is considered selectively (Rec 82)
 - Fibrosing cholestatic hepatitis C (FCH): aggressive course; early treatment indicated
 - Prioritize modern DAA therapy (outside scope of this 2012 guideline)
 
-**[[primary-biliary-cholangitis|Primary Biliary Cholangitis (PBC)]] recurrence** ([[primary-biliary-cholangitis]], Rec. 69–72):
+**[[primary-biliary-cholangitis|Primary Biliary Cholangitis (PBC)]] recurrence** ([[aasld-2012-liver-transplant-long-term]], Recs 83–84):
 
 - Recurrence in 15–20% at 10 years; generally indolent; graft loss rare
 - Diagnosis: elevated Alk Phos + AMA positivity + biopsy (granulomatous cholangitis, florid duct lesions)
-- Risk factors for recurrence: male donor, use of tacrolimus vs. cyclosporine (controversial), HLA mismatch
-- **Ursodeoxycholic acid (UDCA)**: recommended for recurrent PBC (Rec. 70); dosing 13–15 mg/kg/day; evidence of biochemical benefit
-- Monitor annually: liver chemistries, AMA titer (Rec. 71)
-- Liver biopsy if alkaline phosphatase rises significantly (Rec. 72)
+- Risk factors for recurrence: male donor, use of [[tacrolimus]] vs. cyclosporine (controversial), HLA mismatch
+- **Routine monitoring for associated autoimmune disease (e.g. thyroid) and bone density** (Rec 83). Monitor liver chemistries and AMA titer annually; liver biopsy if alkaline phosphatase rises significantly
+- **Ursodeoxycholic acid (UDCA)** — may be considered for **histologically proven** recurrence at **10–15 mg/kg/day**; improves liver tests but **no documented graft-survival benefit**. **No prophylactic UDCA** when allograft histology is normal (Rec 84)
 
 **[[primary-sclerosing-cholangitis|Primary Sclerosing Cholangitis]] (PSC) recurrence** ([[primary-sclerosing-cholangitis]], Rec. 73–76):
 

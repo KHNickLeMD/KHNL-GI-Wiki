@@ -3,8 +3,8 @@ title: "Primary Biliary Cholangitis (PBC)"
 category: disease-script
 tags: [pbc, primary-biliary-cholangitis, cholestatic, ama, alkaline-phosphatase, ursodiol, udca, oca, obeticholic-acid, fibrates, pruritus, overlap, hpb, liver, autoimmune, pregnancy, cirrhosis]
 created: 2026-05-19
-updated: 2026-09-04
-sources: [aasld-2018-pbc, aasld-2021-pbc, acg-2017-liver-chemistries, acg-2016-liver-disease-pregnancy, aasld-2020-autoimmune-hepatitis]
+updated: 2026-09-05
+sources: [aasld-2018-pbc, aasld-2021-pbc, acg-2017-liver-chemistries, acg-2016-liver-disease-pregnancy, aasld-2020-autoimmune-hepatitis, baveno-viii-2026-portal-hypertension]
 ---
 
 ## Assessment
@@ -75,7 +75,7 @@ Up to 40% of patients will have an inadequate response by one of these criteria 
 - [[primary-sclerosing-cholangitis]] — cholangiographic findings ([[mri-mrcp|MRCP]]); [[inflammatory-bowel-disease|IBD]] association; male predominance; AMA-negative; IgG4 testing to exclude IgG4-SC
 - [[autoimmune-hepatitis]] — overlap syndrome (PBC-AIH overlap) possible; ANA/SMA elevated; IgG elevated; liver biopsy showing interface hepatitis
 - [[drug-induced-liver-injury]] — medication/HDS history; RUCAM causality; cholestatic R-ratio
-- Secondary biliary cirrhosis — extrinsic biliary obstruction; imaging (MRCP/CT) distinguishes
+- Secondary biliary cirrhosis — extrinsic [[biliary-stricture|biliary obstruction]]; imaging (MRCP/CT) distinguishes
 - Sarcoidosis — granulomatous hepatitis; systemic findings; ACE level; AMA-negative
 - IgG4-related cholangiopathy — IgG4 level elevated; may mimic PSC or PBC
 - [[nafld-masld|Nonalcoholic/metabolic fatty liver]] — steatohepatitis can cause cholestatic pattern; may coexist with PBC and cause suboptimal UDCA response
@@ -161,7 +161,7 @@ Fibrates (bezafibrate, fenofibrate) are PPAR agonists approved as lipid-lowering
 
 ### Other Drugs Tested — Not Recommended
 
-Chlorambucil, penicillamine, cyclosporine, corticosteroids, azathioprine (except in AIH overlap), mycophenolate mofetil, thalidomide, methotrexate, malotilate, colchicine — none effective as monotherapy or additive to UDCA. Budesonide may be helpful but is controversial. Newer agents in development: selective PPAR-delta agonist seladelpar, other FXR agonists.
+Chlorambucil, penicillamine, [[calcineurin-inhibitors|cyclosporine]], corticosteroids, [[thiopurines|azathioprine]] (except in AIH overlap), mycophenolate mofetil, thalidomide, methotrexate, malotilate, colchicine — none effective as monotherapy or additive to UDCA. Budesonide may be helpful but is controversial. Newer agents in development: selective PPAR-delta agonist seladelpar, other FXR agonists.
 
 ---
 
@@ -198,7 +198,7 @@ UDCA and OCA do not improve fatigue or pruritus. These symptoms require separate
 
 #### Sicca Syndrome (Sjögren's Overlap)
 
-Sjögren's syndrome coexists significantly more often in PBC. Also: calcinosis, Raynaud, esophageal dysfunction, sclerodactyly, telangiectasias (CREST), scleroderma.
+Sjögren's syndrome coexists significantly more often in PBC. Also: calcinosis, Raynaud, [[esophageal-dysfunction-systemic-disease|esophageal dysfunction]], sclerodactyly, telangiectasias (CREST), scleroderma.
 
 **Dry eyes (keratoconjunctivitis sicca):**
 
@@ -251,6 +251,7 @@ Patients with fibrotic PBC have significantly greater risk of osteopenia/osteopo
 Portal hypertension may develop as a result of biliary cirrhosis or, in the **precirrhotic stage**, in association with [[porto-sinusoidal-vascular-disorder|**nodular regenerative hyperplasia** (NRH)]] — a PBC-specific phenomenon. NRH can cause portal hypertension without significant fibrosis; 6% of non-cirrhotic PBC patients have varices.
 
 - **[[variceal-upper-gi-bleeding|Variceal]] screening:** [[upper-endoscopy|Endoscopic]] screening at time of suspected cirrhosis diagnosis (Guidance Statement 15). Also consider if platelet count **<200,000/mm³** or [[liver-stiffness-measurement|transient elastography]] **≥17 kPa** — note this platelet trigger is *higher* (more inclusive) than the <140,000/mm³ suspected-cirrhosis threshold used for HCC surveillance.
+  - ⚠ **These PBC-specific triggers are [[aasld-2018-pbc]]'s.** The *generic* cACLD rule has since moved on: [[baveno-viii-2026-portal-hypertension|Baveno VIII (2026)]] restricts screening EGD to patients **ineligible for NSBB**, and spares it entirely on LSM/platelet/SSM criteria — thresholds and the follow-up interval live on [[portal-hypertension]]. No ingested source reconciles the two for PBC; the AASLD PBC numbers above are retained because they are the only PBC-specific ones, but check the Baveno rule before ordering.
 - **Variceal management:** Follows standard AASLD portal hypertension guidance (NSBB or endoscopic variceal ligation for primary prophylaxis) — see [[portal-hypertension]]
 - **Variceal bleeding in precirrhotic PBC:** Particularly challenging because [[tips|TIPS]] is undesirable when synthetic function is preserved. Distal splenorenal shunts rarely used but have not been associated with accelerated liver failure in PBC.
 
@@ -352,7 +353,7 @@ Risk of developing PBC is increased among first-degree relatives, especially fem
 
 ## See Also
 
-[[primary-sclerosing-cholangitis]], [[autoimmune-hepatitis]], [[drug-induced-liver-injury]], [[abnormal-liver-chemistries]], [[jaundice]], [[portal-hypertension]], [[hepatocellular-carcinoma]], [[hcc-surveillance]], [[liver-transplantation]], [[liver-disease-in-pregnancy]], [[tacrolimus]], [[cholangiocarcinoma]], [[nafld-masld]], [[mri-mrcp]], [[noninvasive-liver-disease-assessment]], [[liver-biopsy]], [[upper-endoscopy]], [[ascites]], [[obesity]], [[variceal-upper-gi-bleeding]], [[intrahepatic-cholestasis-of-pregnancy]], [[liver-stiffness-measurement]], [[porto-sinusoidal-vascular-disorder]], [[cirrhosis]]
+[[primary-sclerosing-cholangitis]], [[autoimmune-hepatitis]], [[drug-induced-liver-injury]], [[abnormal-liver-chemistries]], [[jaundice]], [[portal-hypertension]], [[hepatocellular-carcinoma]], [[hcc-surveillance]], [[liver-transplantation]], [[liver-disease-in-pregnancy]], [[tacrolimus]], [[cholangiocarcinoma]], [[nafld-masld]], [[mri-mrcp]], [[noninvasive-liver-disease-assessment]], [[liver-biopsy]], [[upper-endoscopy]], [[ascites]], [[obesity]], [[variceal-upper-gi-bleeding]], [[intrahepatic-cholestasis-of-pregnancy]], [[liver-stiffness-measurement]], [[porto-sinusoidal-vascular-disorder]], [[cirrhosis]], [[biliary-stricture]], [[calcineurin-inhibitors]], [[thiopurines]], [[esophageal-dysfunction-systemic-disease]]
 
 ---
 
@@ -363,3 +364,4 @@ Risk of developing PBC is increased among first-degree relatives, especially fem
 3. [[acg-2017-liver-chemistries|ACG 2017: Evaluation of Abnormal Liver Chemistries]]
 4. [[acg-2016-liver-disease-pregnancy|ACG Clinical Guideline: Liver Disease and Pregnancy (2016)]]
 5. [[aasld-2020-autoimmune-hepatitis|AASLD Practice Guidance on Autoimmune Hepatitis (2020)]]
+6. [[baveno-viii-2026-portal-hypertension|Baveno VIII — Advancing Consensus in Portal Hypertension (2026)]]

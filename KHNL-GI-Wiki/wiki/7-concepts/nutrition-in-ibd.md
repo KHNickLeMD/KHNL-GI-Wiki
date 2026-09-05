@@ -3,7 +3,7 @@ title: "Diet and Nutritional Therapy in IBD"
 category: concept
 tags: [ibd, crohns, ulcerative-colitis, diet, nutrition, enteral-nutrition, parenteral-nutrition, cded, een, malnutrition, mediterranean-diet, short-bowel-syndrome]
 created: 2026-07-22
-updated: 2026-08-31
+updated: 2026-09-05
 sources: [aga-2024-diet-nutrition-ibd]
 ---
 
@@ -20,6 +20,8 @@ Framework for diet and nutritional therapy across the [[inflammatory-bowel-disea
 - [[#Parenteral Nutrition & Short Bowel Syndrome]]
 - [[#Malnutrition Screening]]
 - [[#Micronutrient Monitoring]]
+- [[#See Also]]
+- [[#Sources]]
 
 ## Diet by Clinical State
 
@@ -77,18 +79,18 @@ Framework for diet and nutritional therapy across the [[inflammatory-bowel-disea
 ## Malnutrition Screening
 - **Screen all IBD patients** (at diagnosis and routinely): unintended weight loss, edema/fluid retention, fat and muscle mass loss → RD evaluation if positive.
 - **Serum proteins ([[albumin]]) no longer used** to diagnose malnutrition — nonspecific, inflammation-sensitive. (Hypoalbuminemia still flags surgical-complication and anti-TNF non-response risk.)
-- **Diagnosis:** ≥2 of — clinically significant weight loss, reduced energy intake, loss of lean mass, loss of subcutaneous fat, fluid accumulation, diminished grip strength. Also **GLIM** and **ESPEN** (BMI <18.5) criteria; validated **abridged PG-SGA** IBD tool.
+- **Diagnosis:** ≥2 of — clinically significant weight loss, reduced energy intake, loss of lean mass, loss of subcutaneous fat, fluid accumulation, diminished grip strength. Also **GLIM** and **ESPEN** (BMI <18.5 kg/m²) criteria; validated **abridged PG-SGA** IBD tool. Generic inpatient screening tools (NRS-2002, MUST) and their cutoffs live on [[nutrition-in-hospitalized-patients]].
 - Malnutrition ~5.57× more likely in IBD inpatients vs non-IBD; 16% outpatient prevalence (>½ CD). Associated with more ED visits, hospitalizations, nonelective surgery, higher mortality, poorer therapy response.
 - **RD co-management** for complicated IBD (malnutrition, SBS, enterocutaneous fistula, complex nutrition therapy, CDED); access to an RD for all newly diagnosed patients.
 
 ## Micronutrient Monitoring
-- **Vitamin D and [[iron-deficiency-anemia|iron]]** — monitor all patients. Iron: CBC + ferritin + transferrin saturation + CRP; q6–12 mo in remission/mild, **q3 mo** if active. IV iron faster/better tolerated than oral; oral reasonable in mild/inactive disease.
+- **Vitamin D and [[iron-deficiency-anemia|iron]]** — monitor all patients (bone-densitometry indications for the vitamin-D/steroid-exposed IBD patient are on [[ibd-preventive-care]]). Iron: CBC + ferritin + transferrin saturation + CRP; q6–12 mo in remission/mild, **q3 mo** if active. IV iron faster/better tolerated than oral; oral reasonable in mild/inactive disease.
 - **Vitamin B12** — monitor with extensive ileal disease or prior ileal surgery (resection >30 cm or ileoanal pouch); replete **1000 µg IM/SC q1–4 wk for life**.
 - Also consider zinc, copper, folate (esp. on methotrexate/sulfasalazine), fat-soluble vitamins; many are acute-phase reactants — recheck in quiescent disease.
 
 ## See Also
 
-[[crohns-disease]], [[ulcerative-colitis]], [[inflammatory-bowel-disease]], [[nutrition-in-hospitalized-patients]], [[enteral-access]], [[obesity]], [[glp-2-agonists]], [[pouchitis]], [[celiac-disease]], [[irritable-bowel-syndrome]], [[iron-deficiency-anemia]], [[ostomy-management]]
+[[crohns-disease]], [[ulcerative-colitis]], [[inflammatory-bowel-disease]], [[nutrition-in-hospitalized-patients]], [[enteral-access]], [[obesity]], [[glp-2-agonists]], [[pouchitis]], [[celiac-disease]], [[irritable-bowel-syndrome]], [[iron-deficiency-anemia]], [[ostomy-management]], [[ibd-preventive-care]], [[short-bowel-syndrome]]
 
 ---
 

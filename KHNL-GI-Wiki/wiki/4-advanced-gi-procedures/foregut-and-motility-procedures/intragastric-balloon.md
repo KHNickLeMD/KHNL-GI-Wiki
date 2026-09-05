@@ -3,7 +3,7 @@ title: "Intragastric Balloon (IGB)"
 category: advanced-procedure
 tags: [obesity, intragastric-balloon, endoscopic-bariatric-therapy, weight-management, bariatric]
 created: 2026-06-04
-updated: 2026-09-01
+updated: 2026-09-05
 sources: [aga-2021-intragastric-balloons, aga-2022-obesity-pharm]
 ---
 
@@ -58,19 +58,19 @@ A meta-analysis of 22 RCTs found **fluid-filled IGBs achieve ~3% more weight los
 
 ## Adverse Events
 
-- Serious AE **5.6% (IGB) vs 1.1% (SOC)** (RR 3.07; 95% CI 1.16–8.11): perforation 0.3%, esophageal mucosal injury 0.8%, gastric ulcer/bleeding 0.76%, gastric outlet/bowel obstruction 0.12%. No deaths in 7 pooled RCTs.
+- Serious AE **5.6% (IGB) vs 1.1% (SOC)** (RR 3.07; 95% CI 1.16–8.11): perforation 0.3%, esophageal mucosal injury 0.8%, gastric ulcer/bleeding 0.76%, [[gastric-outlet-obstruction|gastric outlet]]/bowel obstruction 0.12%. No deaths in 7 pooled RCTs.
 - Post-marketing surveillance: rare **hyperinflation, [[acute-pancreatitis|acute pancreatitis]], and death**.
 - **Early removal in 9.4%**, most often for device/symptomatic intolerance (fullness, epigastric pain, [[gerd|reflux]], [[nausea-and-vomiting|nausea, emesis]]).
 
 ## After Removal
 
-AGA suggests subsequent weight-loss/maintenance interventions — **dietary intervention, pharmacotherapy, repeat (sequential) IGB, or [[bariatric-surgery]]** — chosen by shared decision-making (Rec 7, conditional, low certainty). Sequential IGB gives greater BMI reduction (MD 5.49 kg/m²) but more complications; post-IGB pharmacotherapy (e.g. liraglutide 3 mg, sibutramine) maintained or added to weight loss; IGB can also serve as a bridge before [[bariatric-surgery|bariatric surgery]].
+AGA suggests subsequent weight-loss/maintenance interventions — **dietary intervention, pharmacotherapy, repeat (sequential) IGB, or [[bariatric-surgery]]** — chosen by shared decision-making (Rec 7, conditional, low certainty). Sequential IGB gives greater BMI reduction (MD 5.49 kg/m²) but more complications; post-IGB pharmacotherapy (e.g. [[glp-1-receptor-agonists|liraglutide 3 mg]], sibutramine) maintained or added to weight loss; IGB can also serve as a bridge before [[bariatric-surgery|bariatric surgery]].
 
 ---
 
 ## See Also
 
-[[obesity]], [[semaglutide]], [[proton-pump-inhibitors]], [[bariatric-surgery]], [[upper-gi-bleeding]], [[acute-pancreatitis]], [[clostridioides-difficile]], [[upper-endoscopy]], [[gerd]], [[nausea-and-vomiting]]
+[[obesity]], [[semaglutide]], [[proton-pump-inhibitors]], [[bariatric-surgery]], [[upper-gi-bleeding]], [[acute-pancreatitis]], [[clostridioides-difficile]], [[upper-endoscopy]], [[gerd]], [[nausea-and-vomiting]], [[glp-1-receptor-agonists]], [[gastric-outlet-obstruction]]
 
 ---
 

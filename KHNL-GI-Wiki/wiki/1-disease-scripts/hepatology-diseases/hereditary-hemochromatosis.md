@@ -3,8 +3,37 @@ title: "Hereditary Hemochromatosis"
 category: disease-script
 tags: [hemochromatosis, iron-overload, hfe, c282y, phlebotomy, liver, hpb, genetics, ferritin, transferrin-saturation, cirrhosis, hcc, arthropathy, cardiomyopathy, endocrine]
 created: 2026-05-19
-updated: 2026-08-31
+updated: 2026-09-05
 sources: [acg-2019-hereditary-hemochromatosis, acg-2017-liver-chemistries, aasld-2011-hemochromatosis]
+---
+
+# Hereditary Hemochromatosis
+
+---
+
+## Contents
+- [[#Assessment]]
+  - [[#Establishing the Diagnosis]]
+  - [[#Severity Assessment]]
+  - [[#Classification / Typing]]
+- [[#Differential Diagnosis]]
+- [[#Diagnostics]]
+  - [[#Initial Iron Studies (Step 1)]]
+  - [[#HFE Genotyping (Step 2)]]
+  - [[#Liver Biopsy]]
+  - [[#Magnetic Resonance Imaging (MRI)]]
+  - [[#HCC Surveillance]]
+- [[#Therapeutics]]
+  - [[#When to Initiate Treatment]]
+  - [[#Phlebotomy (First-Line)]]
+  - [[#Iron Chelation]]
+  - [[#Erythrocytapheresis]]
+  - [[#Proton Pump Inhibitors]]
+  - [[#Treatment of Secondary Iron Overload]]
+  - [[#Liver Transplantation]]
+  - [[#Monitoring]]
+  - [[#Prognosis]]
+
 ---
 
 ## Assessment
@@ -63,7 +92,7 @@ sources: [acg-2019-hereditary-hemochromatosis, acg-2017-liver-chemistries, aasld
 **Markers of advanced disease requiring [[liver-biopsy|liver biopsy]]** ([[acg-2019-hereditary-hemochromatosis]]; no GRADE rating — evidence narrative, not a numbered recommendation):
 
 - SF **>1,000 ng/mL** in a C282Y homozygote → liver biopsy for fibrosis staging
-- SF **<1,000 ng/mL** in a C282Y homozygote → biopsy **not** indicated **unless a concurrent risk factor for cirrhosis is present**; absent such risk factors, <2% have advanced fibrosis or cirrhosis. (Biopsy may still be considered if exam, labs, or imaging show clinical features of advanced fibrosis.)
+- SF **<1,000 ng/mL** in a C282Y homozygote → biopsy **not** indicated **unless a concurrent risk factor for [[cirrhosis]] is present**; absent such risk factors, <2% have advanced fibrosis or cirrhosis. (Biopsy may still be considered if exam, labs, or imaging show clinical features of advanced fibrosis.)
 - **Combination rule for cirrhosis:** SF >1,000 ng/mL **plus** elevated aminotransferases **plus** low platelet count predicts cirrhosis in **>80%** of C282Y homozygotes — any one alone does not
 
 **Histologic criteria for type 1 HH** (Perls' Prussian blue + H&E + Masson's trichrome):
@@ -278,7 +307,7 @@ sources: [acg-2019-hereditary-hemochromatosis, acg-2017-liver-chemistries, aasld
 
 ## See Also
 
-[[abnormal-liver-chemistries]], [[alcohol-associated-liver-disease]], [[nafld-masld]], [[autoimmune-hepatitis]], [[drug-induced-liver-injury]], [[hepatocellular-carcinoma]], [[hcc-surveillance]], [[acute-liver-failure]], [[hepatitis-c]], [[chronic-hepatitis-b]], [[iron-overload-and-iron-metabolism]], [[liver-transplantation]], [[liver-biopsy]], [[liver-stiffness-measurement]], [[cirrhosis]], [[direct-acting-antivirals]], [[proton-pump-inhibitors]]
+[[abnormal-liver-chemistries]], [[alcohol-associated-liver-disease]], [[nafld-masld]], [[autoimmune-hepatitis]], [[drug-induced-liver-injury]], [[hepatocellular-carcinoma]], [[hcc-surveillance]], [[acute-liver-failure]], [[hepatitis-c]], [[chronic-hepatitis-b]], [[iron-overload-and-iron-metabolism]], [[liver-transplantation]], [[liver-biopsy]], [[liver-stiffness-measurement]], [[noninvasive-liver-disease-assessment]], [[cirrhosis]], [[direct-acting-antivirals]], [[proton-pump-inhibitors]]
 
 ---
 

@@ -3,7 +3,7 @@ title: "Liver Disease in Pregnancy"
 category: diagnostic-schema
 tags: [pregnancy, liver-disease, ihcp, intrahepatic-cholestasis, aflp, acute-fatty-liver, hellp, hyperemesis-gravidarum, preeclampsia, eclampsia, hepatitis-b, hepatitis-c, hpb, liver]
 created: 2026-05-19
-updated: 2026-09-03
+updated: 2026-09-05
 sources: [aga-2024-pregnancy-gi-liver, acg-2016-liver-disease-pregnancy, aasld-2021-reproductive-liver]
 ---
 
@@ -14,6 +14,8 @@ sources: [aga-2024-pregnancy-gi-liver, acg-2016-liver-disease-pregnancy, aasld-2
   - [[#Pregnancy-Specific Liver Diseases (by trimester)]]
   - [[#Coincident Liver Diseases]]
 - [[#Diagnostic Algorithm]]
+- [[#Key Tests]]
+- [[#Red Flags / Alarm Features]]
 - [[#Pregnancy-Specific Liver Diseases — Detail]]
   - [[#Hyperemesis Gravidarum (HG)]]
   - [[#Intrahepatic Cholestasis of Pregnancy (IHCP)]]
@@ -32,8 +34,6 @@ sources: [aga-2024-pregnancy-gi-liver, acg-2016-liver-disease-pregnancy, aasld-2
   - [[#Wilson's Disease (WD)]]
   - [[#Cirrhosis and Portal Hypertension]]
   - [[#Post-Liver Transplantation]]
-- [[#Key Tests]]
-- [[#Red Flags / Alarm Features]]
 - [[#See Also]]
 - [[#Sources]]
 
@@ -116,6 +116,35 @@ Any abnormality in AST/ALT or bilirubin requires evaluation. ALP elevation alone
 - **MRI without gadolinium**: second/third trimester (Rec 3); avoid gadolinium (crosses placenta → amniotic fluid accumulation)
 - **CT**: judiciously, minimized radiation protocols 2–5 rads (Rec 4); fetal risk of anomalies not increased at <5 rad
 - **[[liver-biopsy|Liver biopsy]]**: rarely needed; percutaneous approach is safe; transjugular alternative with limited radiation exposure (0.05–0.1 rad)
+
+---
+
+## Key Tests
+
+| Indication | Preferred Test |
+|------------|---------------|
+| Initial evaluation, biliary disease | Abdominal ultrasound |
+| Suspected IHCP | Serum bile acids; ALT; bilirubin |
+| Suspected AFLP | Swansea Criteria workup (see [[#Acute Fatty Liver of Pregnancy (AFLP)]]); glucose; ammonia; coagulation studies; liver ultrasound |
+| Suspected HELLP | CBC with differential, LDH, peripheral smear, LFTs |
+| Suspected HSV hepatitis | HSV PCR (blood); empiric acyclovir without waiting |
+| HBV perinatal risk | HBsAg status, HBeAg, HBV DNA quantification |
+| HCV screening | Anti-HCV antibody (in women with risk factors) |
+| Acute hepatitis in pregnancy | HAV-IgM, HBsAg/HBcAb-IgM, HCV Ab, HEV-IgM, HSV PCR |
+| Liver biopsy | Percutaneous (safe); transjugular alternative; rarely needed in pregnancy |
+
+---
+
+## Red Flags / Alarm Features
+
+- **Hypoglycemia + encephalopathy + coagulopathy in third trimester** → AFLP until proven otherwise → immediate delivery
+- **Hemolytic anemia + thrombocytopenia + elevated LFTs** → HELLP; delivery after 34 weeks
+- **New hypertension + proteinuria + liver involvement** → severe preeclampsia; deliver after 36 weeks
+- **Fever + anicteric hepatitis with normal or absent mucocutaneous lesions** → suspect HSV hepatitis → empiric acyclovir immediately
+- **Pruritus (especially palms/soles) + elevated bile acids ≥40 µmol/l** → high-risk IHCP → deliver by bile-acid-stratified timing; **the delivery-timing table lives in [[#Intrahepatic Cholestasis of Pregnancy (IHCP)]]** below, including the overlap caveat — not repeated here
+- **HBV DNA >200,000 IU/ml in third trimester** → antiviral prophylaxis needed despite HBIG/vaccine plan
+- **Epigastric/RUQ pain + elevated transaminases** in preeclamptic patient → suspect subcapsular hematoma or hepatic rupture → CT/MRI urgently
+- **Cirrhosis + pregnancy** → multidisciplinary management mandatory; screen for varices in second trimester
 
 ---
 
@@ -337,7 +366,7 @@ See also: [[hepatitis-c-in-pregnancy]]
 See also: [[autoimmune-hepatitis]]
 
 - AIH associated with increased risk of fetal prematurity and loss; worse outcomes with inadequate disease control
-- **Maintain corticosteroids and/or AZA during pregnancy** (Rec 31 — strong, very low evidence)
+- **Maintain corticosteroids and/or [[thiopurines|AZA]] during pregnancy** (Rec 31 — strong, very low evidence)
 - AZA: pregnancy category D; however, [[inflammatory-bowel-disease|IBD]] safety data (>3,000 pregnancies) show no increase in congenital abnormalities
 - Intrapartum flare risk >20%; postpartum flare risk 30–50%
 - AIH may initially present during pregnancy; differential includes preeclampsia and AFLP
@@ -388,38 +417,9 @@ See also: [[wilson-disease]]
 
 ---
 
-## Key Tests
-
-| Indication | Preferred Test |
-|------------|---------------|
-| Initial evaluation, biliary disease | Abdominal ultrasound |
-| Suspected IHCP | Serum bile acids; ALT; bilirubin |
-| Suspected AFLP | Swansea Criteria workup (see above); glucose; ammonia; coagulation studies; liver ultrasound |
-| Suspected HELLP | CBC with differential, LDH, peripheral smear, LFTs |
-| Suspected HSV hepatitis | HSV PCR (blood); empiric acyclovir without waiting |
-| HBV perinatal risk | HBsAg status, HBeAg, HBV DNA quantification |
-| HCV screening | Anti-HCV antibody (in women with risk factors) |
-| Acute hepatitis in pregnancy | HAV-IgM, HBsAg/HBcAb-IgM, HCV Ab, HEV-IgM, HSV PCR |
-| Liver biopsy | Percutaneous (safe); transjugular alternative; rarely needed in pregnancy |
-
----
-
-## Red Flags / Alarm Features
-
-- **Hypoglycemia + encephalopathy + coagulopathy in third trimester** → AFLP until proven otherwise → immediate delivery
-- **Hemolytic anemia + thrombocytopenia + elevated LFTs** → HELLP; delivery after 34 weeks
-- **New hypertension + proteinuria + liver involvement** → severe preeclampsia; deliver after 36 weeks
-- **Fever + anicteric hepatitis with normal or absent mucocutaneous lesions** → suspect HSV hepatitis → empiric acyclovir immediately
-- **Pruritus (especially palms/soles) + elevated bile acids ≥40 µmol/l** → high-risk IHCP → deliver by bile-acid-stratified timing; **the table is above** ([[#Pregnancy-Specific Liver Diseases — Detail]]), including the overlap caveat — not repeated here
-- **HBV DNA >200,000 IU/ml in third trimester** → antiviral prophylaxis needed despite HBIG/vaccine plan
-- **Epigastric/RUQ pain + elevated transaminases** in preeclamptic patient → suspect subcapsular hematoma or hepatic rupture → CT/MRI urgently
-- **Cirrhosis + pregnancy** → multidisciplinary management mandatory; screen for varices in second trimester
-
----
-
 ## See Also
 
-[[intrahepatic-cholestasis-of-pregnancy]], [[acute-fatty-liver-of-pregnancy]], [[nausea-and-vomiting-of-pregnancy]], [[abnormal-liver-chemistries]], [[acute-cholangitis]], [[acute-liver-failure]], [[chronic-hepatitis-b]], [[hepatitis-c-in-pregnancy]], [[autoimmune-hepatitis]], [[primary-biliary-cholangitis]], [[wilson-disease]], [[drug-induced-liver-injury]], [[nafld-masld]], [[portal-hypertension]], [[variceal-upper-gi-bleeding]], [[liver-transplantation]], [[ercp]], [[choledocholithiasis]], [[acute-cholecystitis]], [[hepatocellular-adenoma]], [[hepatic-hemangioma]], [[focal-nodular-hyperplasia]], [[hepatic-encephalopathy]], [[acute-pancreatitis]], [[somatostatin-analogs]], [[inflammatory-bowel-disease]]
+[[intrahepatic-cholestasis-of-pregnancy]], [[acute-fatty-liver-of-pregnancy]], [[nausea-and-vomiting-of-pregnancy]], [[abnormal-liver-chemistries]], [[acute-cholangitis]], [[acute-liver-failure]], [[chronic-hepatitis-b]], [[hepatitis-c-in-pregnancy]], [[autoimmune-hepatitis]], [[primary-biliary-cholangitis]], [[wilson-disease]], [[drug-induced-liver-injury]], [[nafld-masld]], [[portal-hypertension]], [[variceal-upper-gi-bleeding]], [[liver-transplantation]], [[ercp]], [[choledocholithiasis]], [[acute-cholecystitis]], [[hepatocellular-adenoma]], [[hepatic-hemangioma]], [[focal-nodular-hyperplasia]], [[hepatic-encephalopathy]], [[acute-pancreatitis]], [[somatostatin-analogs]], [[thiopurines]], [[inflammatory-bowel-disease]]
 
 ---
 

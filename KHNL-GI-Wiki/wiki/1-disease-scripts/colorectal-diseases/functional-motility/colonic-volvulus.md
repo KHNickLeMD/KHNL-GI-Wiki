@@ -3,7 +3,7 @@ title: "Colonic Volvulus"
 category: disease-script
 tags: [colonic-volvulus, sigmoid-volvulus, cecal-volvulus, large-bowel-obstruction, detorsion, colonoscopy]
 created: 2026-06-22
-updated: 2026-09-04
+updated: 2026-09-05
 sources: [asge-2020-acpo-volvulus]
 ---
 
@@ -35,6 +35,8 @@ Mechanical **twisting (torsion) of a redundant colon segment along its mesenteri
 - **Signs of peritonitis**
 - **Perforation**
 - **Recurrent, or unsuccessful, nonoperative decompression**
+
+**What follows from that split:**
 
 - **Uncomplicated sigmoid volvulus** = none of the three above. "In the absence of these aforementioned adverse events," flexible sigmoidoscopic detorsion ± decompression tube is **first-line** *(ASGE Rec 1)*.
 - **Cecal volvulus does not enter this pathway** — surgery is recommended as the **initial** treatment modality with **avoidance of endoscopic intervention**, given the high risk of perforation *(ASGE Rec 3)*.

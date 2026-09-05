@@ -3,13 +3,13 @@ title: "Hepatic Venous Pressure Gradient (HVPG)"
 category: concept
 tags: [hvpg, portal-hypertension, cirrhosis, CSPH, wedged-hepatic-vein-pressure, variceal-bleeding, hemodynamics, endo-hepatology]
 created: 2026-08-05
-updated: 2026-09-03
+updated: 2026-09-05
 sources: [baveno-viii-2026-portal-hypertension, baveno-vii-2022-portal-hypertension, aasld-2023-portal-hypertension, wang-2026-eus-ppg-delphi-consensus]
 ---
 
 The reference (gold-standard) method for measuring **sinusoidal portal pressure** and diagnosing/staging [[portal-hypertension|portal hypertension]] in cirrhosis. Obtained transjugularly (or transfemorally) at experienced centers.
 
-> **Its role has narrowed.** [[baveno-viii-2026-portal-hypertension|Baveno VIII (2026)]] did not revise the HVPG statements, reprinting them in a summary box of still-valid recommendations — but with an explicit caveat: they "**should be interpreted in the context of current Baveno VIII recommendations which favor non-invasive tests over routine HVPG measurements in daily clinical practice**." Statement 1.11 holds that validated NITs are **sufficiently accurate to exclude or identify CSPH and are similarly predictive of hepatic decompensation**, and 1.18 describes a paradigm moving from estimating CSPH probability toward **directly predicting decompensation**. HVPG remains the reference standard and the arbiter in specific decisions — see [[#Where HVPG is still the answer]].
+> **Its role has narrowed.** [[baveno-viii-2026-portal-hypertension|Baveno VIII (2026)]] did not revise the HVPG statements, reprinting them in a summary box of still-valid recommendations — but with an explicit caveat: they "**should be interpreted in the context of current Baveno VIII recommendations which favor [[noninvasive-liver-disease-assessment|non-invasive tests]] over routine HVPG measurements in daily clinical practice**." Statement 1.11 holds that validated NITs are **sufficiently accurate to exclude or identify CSPH and are similarly predictive of hepatic decompensation**, and 1.18 describes a paradigm moving from estimating CSPH probability toward **directly predicting decompensation**. HVPG remains the reference standard and the arbiter in specific decisions — see [[#Where HVPG is still the answer]].
 
 ## Contents
 - [[#Definition]]
@@ -73,7 +73,7 @@ Baveno VII methodology statements ([[baveno-vii-2022-portal-hypertension]], 1.1�
 
 - HVPG holds prognostic weight independent of [[cirrhosis|Child-Pugh/MELD]]; test–retest reliability is excellent but lower in decompensated patients and higher in alcohol-related disease (Baveno VII 1.17).
 - The numeric prognostic bands themselves (≥10 / ≥16 / >20) are in the ladder above — not repeated here.
-- **CSPH does not require a catheter to diagnose:** clinical decompensation, gastroesophageal varices on endoscopy, or portosystemic collaterals / hepatofugal flow on imaging are each *sufficient* to diagnose CSPH ([[aasld-2023-portal-hypertension]], guidance statement 6) — HVPG is confirmatory, not obligatory.
+- **CSPH does not require a catheter to diagnose:** clinical decompensation, [[variceal-upper-gi-bleeding|gastroesophageal varices]] on endoscopy, or portosystemic collaterals / hepatofugal flow on imaging are each *sufficient* to diagnose CSPH ([[aasld-2023-portal-hypertension]], guidance statement 6) — HVPG is confirmatory, not obligatory.
 
 ## Where HVPG is still the answer
 

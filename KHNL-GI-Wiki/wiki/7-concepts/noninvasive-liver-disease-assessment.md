@@ -3,7 +3,7 @@ title: "Noninvasive Liver Disease Assessment (NILDA)"
 category: concept
 tags: [nilda, fibrosis, steatosis, fib-4, elf, vcte, swe, mre, mri-pdff, apri, noninvasive, biomarkers, hpb, liver]
 created: 2026-05-31
-updated: 2026-09-03
+updated: 2026-09-05
 sources: [aasld-2024-nilda-blood, baveno-viii-2026-portal-hypertension, baveno-vii-2022-portal-hypertension, aasld-2023-nafld, aasld-2025-semaglutide-mash, aasld-2024-nilda-imaging, aasld-2024-nilda-portal-htn, aga-2023-nafld-noninvasive-biomarkers]
 ---
 
@@ -52,13 +52,9 @@ Cutoffs that **rule in** AF against liver histology, with AUROC — imaging elas
 - Applying the pair rather than a single test cut the need for [[liver-biopsy|liver biopsy]] from **33% → 19%** (IPD meta-analysis, 37 studies, n=5735, 30% AF prevalence).
 - For **at-risk MASH** specifically, **MEFIB** (MRE + FIB-4) outperformed **FAST** (FibroScan-AST): AUROC **0.901 vs 0.733**; PPV 95.3% vs 83.5%, NPV 90.1% vs 71.8% (all P ≤ .001). [[aga-2023-nafld-noninvasive-biomarkers]]
 
-## When NITs are not enough — biopsy triggers
+## When NITs are not enough
 
-Reserve [[liver-biopsy|liver biopsy]] for: [[aga-2023-nafld-noninvasive-biomarkers]]
-
-- NIT results that are **indeterminate or discordant** with each other
-- NIT results that **conflict** with other clinical, laboratory, or radiologic findings
-- **Alternative etiologies** of liver disease suspected
+*The three triggers that send a patient to biopsy despite NITs — indeterminate/discordant NITs, conflict with other findings, suspected alternative etiology — are stated in full on [[liver-biopsy]] → Noninvasive Alternatives (one home).*
 
 **Interpret NITs in clinical context** (exam, biochemical, radiographic, endoscopic data) to optimize PPV, and **use each NIT per manufacturer specifications** — e.g. **not in patients with [[ascites]] or with pacemakers** — to minimize discordant results and adverse events; observe probe selection (M vs XL) and quality measures. VCTE false positives rise with operator inexperience, high BMI, non-fasting state, and markedly elevated ALT.
 
@@ -71,7 +67,7 @@ Baveno builds a parallel, portal-hypertension-oriented ladder on the same LSM me
 - **7–10 kPa with ongoing liver injury** → monitor case-by-case for progression (Baveno VII 2.10)
 - **Rule of 5 (10-15-20-25 kPa)** denotes progressively higher relative risk of decompensation and liver-related death, **independent of aetiology** (1.8)
 - **Repeat NITs for CSPH every 12 months** in cACLD (1.9 — strengthened from Baveno VII's "LSM *could be* repeated"); **the most recent value guides decisions** (1.10, new)
-- **Confirm a positive VCTE:** **LSM is always performed fasting** (1.4 — Baveno VII required fasting only on the repeat), and an index LSM ≥10 kPa should be **repeated**, or complemented by **another validated NIT of advanced fibrosis**. ⚠ **Baveno VIII names no serum cut-offs.** The specific ones — **FIB-4 ≥2.67, ELF ≥9.8, FibroTest ≥0.58** (alcohol/viral) or **≥0.48** (NAFLD) — are **Baveno VII 2.11's**, retained here as such
+- **Confirm a positive VCTE:** **LSM is always performed fasting** (1.4 — Baveno VII required fasting only on the repeat), and an index LSM ≥10 kPa should be **repeated**, or complemented by **another validated NIT of advanced fibrosis**. ⚠ **Baveno VIII names no serum cut-offs.** The specific ones — **FIB-4 ≥2.67, ELF ≥9.8, FibroTest ≥0.58** ([[alcohol-associated-liver-disease|alcohol]]/viral) or **≥0.48** (NAFLD) — are **Baveno VII 2.11's**, retained here as such
 - **Terminology:** Baveno VIII prefers **"cACLD" over "compensated cirrhosis"** when the diagnosis is established by NITs (1.2)
 - **Diagnosing CSPH non-invasively (1.15–1.16, revised):** **rule out** with **LSM ≤15 kPa + platelets ≥150 ×10⁹/L** (NPV >90%, now LoE 1/strong). **Rule in** with *any one* of: **ANTICIPATE/ANTICIPATE-NASH ≥75%**; **NICER ≥75%**; **LSM ≥25 kPa** (virus/alcohol, or non-obese MASLD); **SSM at 100 Hz >55 kPa**. Full table on [[portal-hypertension]]
 - **How much change is meaningful (Panel 2, all new):** a **confirmed ≥30% relative change in LSM** in alcohol- or MASLD-related cACLD; **≥20% relative change by MRE**; **0.5-unit absolute change in ELF**; pSWE/2D-SWE changes probably comparable but **not yet recommendable** as monitoring tools. Baveno VIII 2.8 states the framing directly: **calibrate NITs and their longitudinal changes to the risk of liver-related events, not to fibrosis stage.** Detail on [[liver-stiffness-measurement]]
@@ -91,7 +87,7 @@ Baveno builds a parallel, portal-hypertension-oriented ladder on the same LSM me
 
 ## See Also
 
-[[nafld-masld]], [[semaglutide]], [[portal-hypertension]], [[cirrhosis]], [[porto-sinusoidal-vascular-disorder]], [[primary-sclerosing-cholangitis]], [[primary-biliary-cholangitis]], [[hereditary-hemochromatosis]], [[liver-biopsy]], [[liver-stiffness-measurement]], [[resmetirom]], [[hcc-surveillance]], [[variceal-upper-gi-bleeding]], [[hepatic-venous-pressure-gradient]], [[ascites]]
+[[nafld-masld]], [[semaglutide]], [[portal-hypertension]], [[cirrhosis]], [[porto-sinusoidal-vascular-disorder]], [[primary-sclerosing-cholangitis]], [[primary-biliary-cholangitis]], [[hereditary-hemochromatosis]], [[alcohol-associated-liver-disease]], [[liver-biopsy]], [[liver-stiffness-measurement]], [[resmetirom]], [[hcc-surveillance]], [[variceal-upper-gi-bleeding]], [[hepatic-venous-pressure-gradient]], [[ascites]]
 
 ---
 

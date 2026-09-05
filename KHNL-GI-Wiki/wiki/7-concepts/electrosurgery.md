@@ -3,11 +3,9 @@ title: "Electrosurgery in Therapeutic Endoscopy"
 category: concept
 tags: [electrosurgery, electrocautery, esu, current-density, monopolar, bipolar, soft-coagulation, endocut, dispersive-pad, third-space-endoscopy]
 created: 2026-09-03
-updated: 2026-09-04
+updated: 2026-09-05
 sources: [aga-2026-electrosurgery]
 ---
-
-# Electrosurgery in Therapeutic Endoscopy
 
 Conversion of high-frequency alternating current from an **electrosurgical unit (ESU)** into thermal energy at target tissue. The single home for electrosurgical principles, settings, and safety across the wiki — [[polypectomy]], [[endoscopic-mucosal-resection|EMR]], [[endoscopic-submucosal-dissection|ESD]], [[ercp|sphincterotomy]], and [[argon-plasma-coagulation|APC]] link here rather than restating the physics. Per [[aga-2026-electrosurgery]] (13 Best Practice Advice statements; **no formal evidence grades** — the authors did not perform systematic reviews).
 
@@ -224,7 +222,7 @@ flowchart TD
 
 - **Ablate only the normal-appearing mucosal margin.** Any **visible residual neoplasia must be resected** — additional cold snaring or another adjunct technique — never ablated.
 - Snare-tip soft coagulation penetrates deeply; apply with caution to avoid thermal injury to the **muscularis propria** (see next section).
-- Role **outside the colorectum is not well established**, though preliminary duodenal data suggest it is safe and reduces recurrence.
+- Role **outside the colorectum is not well established**, though preliminary [[nonampullary-duodenal-adenoma|duodenal]] data suggest it is safe and reduces recurrence.
 
 ### Soft Coagulation — Hemostasis and Deep Injury
 
@@ -281,7 +279,7 @@ Applies to [[endoscopic-submucosal-dissection|ESD]], [[colorectal-esd|colorectal
 
 ## See Also
 
-[[polypectomy]], [[endoscopic-mucosal-resection]], [[colorectal-esd]], [[endoscopic-submucosal-dissection]], [[endoscopic-full-thickness-resection]], [[argon-plasma-coagulation]], [[ercp]], [[poem]], [[g-poem]], [[colonoscopy]], [[upper-endoscopy]], [[upper-gi-bleeding]]
+[[polypectomy]], [[endoscopic-mucosal-resection]], [[colorectal-esd]], [[endoscopic-submucosal-dissection]], [[endoscopic-full-thickness-resection]], [[argon-plasma-coagulation]], [[ercp]], [[poem]], [[g-poem]], [[colonoscopy]], [[upper-endoscopy]], [[upper-gi-bleeding]], [[nonampullary-duodenal-adenoma]]
 
 ---
 

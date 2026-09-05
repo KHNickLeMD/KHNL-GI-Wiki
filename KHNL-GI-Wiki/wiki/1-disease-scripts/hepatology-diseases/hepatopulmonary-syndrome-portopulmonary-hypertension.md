@@ -3,8 +3,8 @@ title: "Hepatopulmonary Syndrome and Portopulmonary Hypertension"
 category: disease-script
 tags: [hepatopulmonary-syndrome, hps, portopulmonary-hypertension, poph, liver-transplant, portal-hypertension, pulmonary, cirrhosis]
 created: 2026-05-25
-updated: 2026-08-30
-sources: [aasld-ast-2025-liver-transplant-candidate-evaluation]
+updated: 2026-09-05
+sources: [aasld-ast-2025-liver-transplant-candidate-evaluation, baveno-viii-2026-portal-hypertension, aasld-2024-aclf]
 ---
 
 Two pulmonary **vascular** complications of liver disease and [[portal-hypertension|portal hypertension]] — unique to liver disease, relatively common, and both may resolve after [[liver-transplantation|liver transplant (LT)]]. Both are decisive for LT candidacy: HPS earns exception points and is cured by LT, whereas uncontrolled POPH is a contraindication to it.
@@ -69,6 +69,8 @@ Pulmonary disease in the LT candidate falls into three groups; HPS/POPH are grou
 - The guideline authors could **not reach consensus** on routine bubble echo for every candidate — hence "when available and when HPS is suspected."
 - Pulse oximetry alone is insensitive for HPS; pair it with ABG.
 
+**Surveillance outside the transplant evaluation** ([[baveno-viii-2026-portal-hypertension|Baveno VIII]] 9.36, LoE 4, strong, new): in patients with portal hypertension and/or **portosystemic shunts — spontaneous *or* interventional (e.g. [[tips|TIPS]])** — **annual surveillance is warranted** for shunt-related complications, **especially the occurrence of POPH**. The statement sits in the paediatric chronic-[[portal-vein-thrombosis|PVT]] panel; Baveno VIII gives no surveillance modality or threshold with it.
+
 ## Therapeutics
 
 **HPS**
@@ -94,14 +96,22 @@ Pulmonary disease in the LT candidate falls into three groups; HPS/POPH are grou
 
 > ⚠ **Gap — POPH drug therapy not sourced.** [[aasld-ast-2025-liver-transplant-candidate-evaluation]] refers only to "multiple new targeted medications" and never names the PAH drug classes or agents. A previously listed set of classes (endothelin receptor antagonists, PDE-5 inhibitors, prostacyclin analogues) was **not supported by any ingested source and has been removed**. A PAH/ILTS guideline would be needed.
 
+**Where HPS/POPH changes a decision *other than* LT candidacy**
+
+- **Blocks a surgical shunt.** **Distal splenorenal shunting** for recurrent [[variceal-upper-gi-bleeding|variceal haemorrhage]] in children with chronic PVT should be considered **only in the absence of HPS, POPH and/or [[hepatic-encephalopathy|HE]]** ([[baveno-viii-2026-portal-hypertension|Baveno VIII]] 9.35, LoE 3, strong). Sequence and alternatives: [[portal-vein-thrombosis|PVT → Paediatric PVT]]
+- **Is itself an LT indication in non-cirrhotic portal hypertension.** In [[porto-sinusoidal-vascular-disorder|PSVD/NCPF]], LT should be considered for **hepatopulmonary syndrome** alongside severe/refractory portal-hypertension complications, [[hepatocellular-carcinoma|HCC]], or advanced liver dysfunction — discussed at centres with vascular-liver-disease expertise (Baveno VIII 8.53, LoE 4, strong)
+- **Must be worked up in the decompensating patient.** In cirrhosis with **respiratory failure**, investigate and treat the coexisting cirrhosis-related pulmonary comorbidities — hepatic hydrothorax, ascites, and HPS; where the compromise is from hydrothorax or tense ascites, therapeutic thoracentesis/paracentesis is recommended ([[aasld-2024-aclf]] Rec 18)
+
 ---
 
 ## See Also
 
-[[cirrhosis]], [[portal-hypertension]], [[liver-transplantation]], [[portal-vein-thrombosis]], [[budd-chiari-syndrome]], [[acute-liver-failure]], [[acute-on-chronic-liver-failure]], [[hereditary-hemorrhagic-telangiectasia]], [[ascites]]
+[[cirrhosis]], [[portal-hypertension]], [[liver-transplantation]], [[portal-vein-thrombosis]], [[budd-chiari-syndrome]], [[porto-sinusoidal-vascular-disorder]], [[acute-liver-failure]], [[acute-on-chronic-liver-failure]], [[hereditary-hemorrhagic-telangiectasia]], [[ascites]], [[variceal-upper-gi-bleeding]], [[hepatic-encephalopathy]], [[hepatocellular-carcinoma]], [[tips]]
 
 ---
 
 ## Sources
 
 1. [[aasld-ast-2025-liver-transplant-candidate-evaluation|AASLD AST 2025: Practice Guideline on Adult Liver Transplantation — Candidate Evaluation]]
+2. [[baveno-viii-2026-portal-hypertension|Baveno VIII — Advancing Consensus in Portal Hypertension (2026)]]
+3. [[aasld-2024-aclf|AASLD 2024 Practice Guidance on Acute-on-Chronic Liver Failure]]

@@ -3,9 +3,22 @@ title: "Anal Fissure"
 category: disease-script
 tags: [anal-fissure, anorectal, lis, sphincterotomy, botulinum, colorectal]
 created: 2026-05-16
-updated: 2026-09-02
+updated: 2026-09-05
 sources: [acg-2021-anorectal-disorders, asge-2010-anorectal-disorders, aga-2026-hemorrhoids]
 ---
+
+## Contents
+- [[#Assessment]]
+  - [[#Establishing the Diagnosis]]
+  - [[#Severity Assessment]]
+- [[#Differential Diagnosis]]
+- [[#Diagnostics]]
+- [[#Therapeutics]]
+  - [[#Acute Fissure]]
+  - [[#Chronic Fissure — Medical Management (First Line)]]
+  - [[#Chronic Fissure — Surgical (Medical Therapy Failures)]]
+- [[#See Also]]
+- [[#Sources]]
 
 ## Assessment
 
@@ -57,7 +70,7 @@ sources: [acg-2021-anorectal-disorders, asge-2010-anorectal-disorders, aga-2026-
 - **Bleeding occurs**
 - To **rule out associated [[inflammatory-bowel-disease|IBD]]**
 - The patient is **due for a screening [[colorectal-cancer-screening|colonoscopy]]**
-- **Timing:** temporarily **deferring [[colonoscopy|colonoscopy]] until after initial treatment of the fissure** avoids the discomfort of bowel preparation and scoping an acutely painful anal canal. [[asge-2010-anorectal-disorders]]
+- **Timing:** temporarily **deferring [[colonoscopy]] until after initial treatment of the fissure** avoids the discomfort of bowel preparation and scoping an acutely painful anal canal. [[asge-2010-anorectal-disorders]]
 - **Assessing sphincter tone before surgery:** ACG 2021 states the determination of whether anal pressures are high "is **usually made by digital examination only**" — the guideline does **not** position [[anorectal-manometry|anorectal manometry]] as a routine fissure test. This matters because low/normal pressure changes the operation (see Therapeutics).
 
 > **Sourcing gap:** no ingested source describes examination under anesthesia, a biopsy rule for the non-healing fissure, or an age threshold for first-presentation colonoscopy in fissure. Prior versions of this page asserted all three; they have been removed as unsourced. A colorectal-surgery guideline (e.g. ASCRS) would be needed to restore them.
@@ -69,7 +82,7 @@ sources: [acg-2021-anorectal-disorders, asge-2010-anorectal-disorders, aga-2026-
 ### Acute Fissure
 
 - **Almost half of all patients with an acute fissure heal on first-step conservative therapy** — **sitz baths + a fiber supplement such as psyllium**, with or without **topical anesthetics or anti-inflammatory ointments**. Pain and bleeding relief is achieved with virtually no side effects. [[acg-2021-anorectal-disorders]]
-- **If constipation is present:** stool softeners, fiber, fluids, and lubricants (mineral oil, flaxseed oil). [[asge-2010-anorectal-disorders]]
+- **If [[chronic-constipation|constipation]] is present:** stool softeners, fiber, fluids, and lubricants (mineral oil, flaxseed oil). [[asge-2010-anorectal-disorders]]
 
 > **Dose gap:** no ingested source gives a sitz-bath frequency, a psyllium dose, or a named topical anesthetic agent/strength. Previously stated regimens ("3–4×/day", "lidocaine 5% ointment", "goal Bristol 3–4") were unsourced and have been removed.
 
@@ -122,7 +135,7 @@ sources: [acg-2021-anorectal-disorders, asge-2010-anorectal-disorders, aga-2026-
 
 ## See Also
 
-[[hemorrhoids]], [[crohns-disease]], [[anorectal-manometry]], [[defecation-disorders]], [[proctalgia-syndromes]], [[fecal-incontinence]], [[rectal-prolapse]], [[colonoscopy]], [[colorectal-cancer-screening]], [[inflammatory-bowel-disease]], [[acute-lower-gi-bleeding]]
+[[hemorrhoids]], [[crohns-disease]], [[anorectal-manometry]], [[defecation-disorders]], [[proctalgia-syndromes]], [[fecal-incontinence]], [[rectal-prolapse]], [[colonoscopy]], [[colorectal-cancer-screening]], [[inflammatory-bowel-disease]], [[acute-lower-gi-bleeding]], [[chronic-constipation]]
 
 ---
 

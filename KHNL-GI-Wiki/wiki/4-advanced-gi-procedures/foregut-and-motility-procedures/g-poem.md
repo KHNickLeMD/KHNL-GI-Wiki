@@ -3,7 +3,7 @@ title: "G-POEM (Gastric Peroral Endoscopic Myotomy)"
 category: advanced-procedure
 tags: [gastroparesis, poem, g-poem, pyloromyotomy, third-space-endoscopy, gcsi, gastric-emptying, pyloric-therapy]
 created: 2026-07-23
-updated: 2026-08-31
+updated: 2026-09-05
 sources: [aga-2025-gastroparesis, aga-2023-gpoem-gastroparesis]
 ---
 
@@ -46,7 +46,7 @@ Related AGA 2025 procedural positions: **gastric electrical stimulation** — su
 
 **Additional selection detail from [[aga-2023-gpoem-gastroparesis]]** — applies once a patient is a candidate under AGA 2025 above:
 
-1. [[upper-endoscopy|EGD]] confirming **no mechanical gastric-outlet obstruction**.
+1. [[upper-endoscopy|EGD]] confirming **no mechanical [[gastric-outlet-obstruction|gastric-outlet obstruction]]**.
 2. **Solid-phase gastric emptying scan (GES)** confirming delay — preferably **retention >20% at 4 hours** (independent predictor of clinical success). Normal 4-hour retention is **<10%** (scintigraphy, low-fat 2% chicken-egg-white meal).
 3. **Moderate-to-severe symptoms** (often **GCSI total >2**), preferably **nausea/vomiting-dominant**.
 
@@ -84,7 +84,7 @@ Related AGA 2025 procedural positions: **gastric electrical stimulation** — su
 
 - **Operator:** interventional endoscopists with expertise/training in **third-space endoscopy**. ESD experience not mandatory but shortens the learning curve; combined E-POEM + ESD expertise is immensely beneficial.
 - **Prep:** liquid diet ≥24 h; [[antibiotic-prophylaxis-endoscopy|periprocedural antibiotics]] active against enteric pathogens; general anesthesia, **supine preferred** (easier detection of capnoperitoneum; tension pneumoperitoneum → percutaneous needle decompression).
-- **Equipment:** HD gastroscope with waterjet + clear distal cap; **low-flow CO₂ insufflation required — room air completely avoided**; impedance-modulating electrosurgical generator.
+- **Equipment:** HD gastroscope with waterjet + clear distal cap; **low-flow CO₂ insufflation required — room air completely avoided**; impedance-modulating [[electrosurgery|electrosurgical generator]].
 
 **Steps:**
 
@@ -150,7 +150,7 @@ Related AGA 2025 procedural positions: **gastric electrical stimulation** — su
 
 ## See Also
 
-[[gastroparesis]], [[poem]], [[endoscopic-submucosal-dissection]], [[flip-panometry]], [[upper-endoscopy]], [[antireflux-surgery]], [[antibiotic-prophylaxis-endoscopy]], [[anticoagulation-gi-bleeding]], [[proton-pump-inhibitors]], [[glp-1-receptor-agonists]]
+[[gastroparesis]], [[poem]], [[endoscopic-submucosal-dissection]], [[flip-panometry]], [[upper-endoscopy]], [[antireflux-surgery]], [[antibiotic-prophylaxis-endoscopy]], [[anticoagulation-gi-bleeding]], [[proton-pump-inhibitors]], [[glp-1-receptor-agonists]], [[gastric-outlet-obstruction]], [[electrosurgery]]
 
 ---
 

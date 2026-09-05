@@ -3,7 +3,7 @@ title: "Hemostasis in Cirrhosis"
 category: concept
 tags: [cirrhosis, coagulopathy, hemostasis, inr, platelets, ffp, teg, rotem, pvt, anticoagulation]
 created: 2026-05-21
-updated: 2026-08-31
+updated: 2026-09-05
 sources: [acg-2020-hepatic-mesenteric-circulation, aga-2021-cirrhosis-coagulation]
 ---
 
@@ -50,6 +50,8 @@ Scope — the guideline's "common gastrointestinal procedures" are exactly six: 
 - Procedures were split **low- vs high-bleeding-risk at a 1.5% threshold** (literature review + expert interpretation).
 - **TPO-RA harm:** ~**1% thrombotic-event risk at 30 days** for avatrombopag and lusutrombopag — the reason the recommendation runs against routine use.
 - **VTE prophylaxis:** VTE incidence in cirrhosis is typically **0.5–1.9%**; use standard risk-assessment models (**Padua Prediction Score**, **IMPROVE**) and weigh VTE against bleeding risk.
+
+> ⚠ **Decision gap — three named scores, no criteria.** [[aga-2021-cirrhosis-coagulation]] names **Padua**, **IMPROVE**, and **CHA₂DS₂-VASc** but prints none of their components or point values, and states no numeric CHA₂DS₂-VASc cut-point in its recommendation text, so recommendations 3 and 6 cannot be applied from this page alone. Closing it requires ingesting the derivation papers (Barbar 2010 Padua; Decousus 2011 IMPROVE; Lip 2010 CHA₂DS₂-VASc) — **do not reconstruct the scores from memory.**
 
 **Antifibrinolytics** — do not use prophylactically (Conditional, very low) [[acg-2020-hepatic-mesenteric-circulation]]; reserve for confirmed hyperfibrinolysis (seen in ACLF and the liver-transplant anhepatic phase).
 

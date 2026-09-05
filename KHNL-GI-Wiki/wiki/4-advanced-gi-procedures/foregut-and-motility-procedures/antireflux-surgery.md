@@ -3,7 +3,7 @@ title: "Antireflux Surgery"
 category: advanced-procedure
 tags: [gerd, antireflux-surgery, fundoplication, nissen, msa, linx, tif, ctif, stretta, foregut, hiatal-hernia]
 created: 2026-06-01
-updated: 2026-09-02
+updated: 2026-09-05
 sources: [sages-2021-gerd-surgery, acg-2021-gerd, asge-2024-gerd, padova-2025-hrm-antireflux, afs-2023-transoral-incisionless-fundoplication]
 ---
 
@@ -61,8 +61,8 @@ Conditions of specific or relative contraindication to TIF with the EsophyX devi
 | Category | Contraindication |
 |---|---|
 | **Anatomic — hiatus** | [[hiatal-hernia\|Hiatal hernia]] >2 cm; paraesophageal hernia |
-| **Anatomic — esophagus** | Diverticula; stenosis; strictures; obstruction; varices; any anatomy that will not permit device insertion |
-| **Mucosal** | Severe esophagitis (**LA grade C and D**); esophageal infection or fungal disease |
+| **Anatomic — esophagus** | Diverticula; stenosis; strictures; obstruction; [[variceal-upper-gi-bleeding\|varices]]; any anatomy that will not permit device insertion |
+| **Mucosal** | Severe esophagitis (**LA grade C and D**); [[infectious-esophagitis\|esophageal infection or fungal disease]] |
 | **Positioning / access** | Limited neck mobility; osteophytes of the spine |
 | **Other** | Bleeding disorders; **BMI ≥35** |
 
@@ -214,7 +214,7 @@ Retching and vomiting can **disrupt the hiatus and the new valve** — hence the
 
 ## See Also
 
-[[gerd]], [[hiatal-hernia]], [[hrm-antireflux-surgery]], [[high-resolution-manometry]], [[reflux-testing]], [[flip-panometry]], [[chicago-classification-v4]], [[achalasia]], [[barretts-esophagus]], [[upper-endoscopy]], [[dysphagia]], [[gastroparesis]], [[hypercontractile-esophagus]], [[distal-esophageal-spasm]], [[ineffective-esophageal-motility]], [[ambulatory-reflux-monitoring]], [[bariatric-surgery]], [[antibiotic-prophylaxis-endoscopy]], [[esophagogastric-junction-outflow-obstruction]]
+[[gerd]], [[hiatal-hernia]], [[hrm-antireflux-surgery]], [[high-resolution-manometry]], [[reflux-testing]], [[flip-panometry]], [[chicago-classification-v4]], [[achalasia]], [[barretts-esophagus]], [[upper-endoscopy]], [[dysphagia]], [[gastroparesis]], [[hypercontractile-esophagus]], [[distal-esophageal-spasm]], [[ineffective-esophageal-motility]], [[ambulatory-reflux-monitoring]], [[bariatric-surgery]], [[antibiotic-prophylaxis-endoscopy]], [[esophagogastric-junction-outflow-obstruction]], [[infectious-esophagitis]], [[variceal-upper-gi-bleeding]]
 
 ---
 

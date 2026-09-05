@@ -3,7 +3,7 @@ title: "Subepithelial Lesion (SEL)"
 category: diagnostic-schema
 tags: [subepithelial-lesion, gist, leiomyoma, carcinoid, net, lipoma, eus, endoscopy]
 created: 2026-05-15
-updated: 2026-08-30
+updated: 2026-09-05
 sources: [acg-2023-subepithelial-lesions, asge-2017-subepithelial-lesions]
 ---
 
@@ -24,6 +24,18 @@ sources: [acg-2023-subepithelial-lesions, asge-2017-subepithelial-lesions]
   - [[#Indications for Prompt Resection]]
   - [[#EUS Features Associated with Malignancy (especially GIST)]]
 - [[#Management Summary by Entity]]
+  - [[#GIST]]
+  - [[#Esophageal / GEJ MP-Layer SEL (GIST or Leiomyoma)]]
+  - [[#Gastric Neuroendocrine Tumors (gNET)]]
+  - [[#Rectal NETs]]
+  - [[#Duodenal NETs]]
+  - [[#Jejunal / Ileal NETs]]
+  - [[#Granular Cell Tumor]]
+  - [[#Duplication Cyst]]
+  - [[#Lipoma]]
+  - [[#Endoscopic Resection / Ligation Techniques (MP-layer and small SEL)]]
+- [[#See Also]]
+- [[#Sources]]
 
 ---
 

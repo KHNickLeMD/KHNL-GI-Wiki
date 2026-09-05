@@ -3,7 +3,7 @@ title: "Calcineurin Inhibitors"
 category: med
 tags: [calcineurin-inhibitor, tacrolimus, cyclosporine, immunosuppression, transplant, liver-transplant, nephrotoxicity, basiliximab, induction, cnm-minimization]
 created: 2026-05-19
-updated: 2026-09-04
+updated: 2026-09-05
 sources: [aasld-2012-liver-transplant-long-term, aasld-ast-2025-liver-transplant-graft-complications, acg-2025-uc]
 ---
 
@@ -45,13 +45,23 @@ The other GI use of a CNI, and the reason the [[ulcerative-colitis|UC]] page lin
 |---|---|
 | Indication | Medical **rescue** in ASUC **failing to respond adequately to IV corticosteroids by day 3** — infliximab **or** cyclosporine (Rec 51, **Strong**) |
 | Target dose | **2 mg/kg** — preferred over 4 mg/kg: comparable clinical response and colectomy rates with **fewer adverse events** |
+| Route / duration | **CySIF regimen: 2 mg/kg IV for 1 week, then oral cyclosporine**; responders started azathioprine from day 7 |
 | Drug level | **200–400** for efficacy (the source states the range without units) |
 | When *not* to use | Restricted to IVCS failure, **except** where corticosteroids are contraindicated or not tolerated — efficacy is similar to IVCS, not superior |
-| Maintenance after CSA-induced remission | **[[thiopurines]]** (Rec 53, Conditional) or vedolizumab (Rec 54, Conditional) |
+| Maintenance after CSA-induced remission | **[[thiopurines]]** (Rec 53, Conditional) or [[vedolizumab]] (Rec 54, Conditional) |
 | Surgical safety | Cyclosporine (like infliximab) does **not** increase postoperative complications of colectomy — **do not defer surgery** on account of exposure (Key Concept 55) |
 
 - Landmark RCT: in severely active UC not responding to 7 days of IVCS, **9 of 11** cyclosporine (4 mg/kg) patients responded at a mean of 7 days vs **0** on placebo — but on long-term follow-up **up to 80% eventually require colectomy**.
 - **Thiopurine-naive patients started on thiopurine maintenance after cyclosporine have a lower colectomy risk** than those never started on, or previously failing, a thiopurine — which is why prior thiopurine exposure feeds the rescue-agent choice.
+
+### Tacrolimus in Steroid-Refractory UC
+
+Not a guideline recommendation — [[acg-2025-uc]] reviews the evidence without issuing a recommendation for it, so cyclosporine remains the named rescue CNI (Rec 51):
+
+- Double-blind placebo-controlled trial, **62 patients**: week-2 clinical response **50% vs 13%** placebo (*P* = 0.003); mucosal healing **44% vs 13%**; **side effects few**.
+- **Target serum trough 10–15 ng/mL** — note this is *higher* than the post-transplant targets on [[tacrolimus]].
+- Efficacy appears **similar in children**.
+- **Limited long-term outcome and colectomy-rate data** — the reason it is not recommended.
 
 ## Induction — Delaying CNI Start
 
@@ -115,9 +125,11 @@ Both TAC and CSA are CYP3A4/P-gp substrates. Key interactions:
 
 Complete IS withdrawal ([[operational-tolerance|operational tolerance]]) is not routinely recommended ([[aasld-ast-2025-liver-transplant-graft-complications]], Rec 36, Strong, Level 4). See that page for full discussion.
 
+---
+
 ## See Also
 
-[[tacrolimus]], [[liver-transplantation]], [[operational-tolerance]], [[direct-acting-antivirals]], [[antibody-mediated-rejection-liver-transplant]], [[post-transplant-lymphoproliferative-disorder]], [[ulcerative-colitis]], [[thiopurines]]
+[[tacrolimus]], [[liver-transplantation]], [[operational-tolerance]], [[direct-acting-antivirals]], [[antibody-mediated-rejection-liver-transplant]], [[post-transplant-lymphoproliferative-disorder]], [[ulcerative-colitis]], [[thiopurines]], [[vedolizumab]], [[anti-tnf-agents]], [[toxic-megacolon]]
 
 ---
 

@@ -3,7 +3,7 @@ title: "Drug-Induced Liver Injury (Idiosyncratic)"
 category: disease-script
 tags: [dili, drug-induced-liver-injury, hepatotoxicity, hds, ici, immune-checkpoint, hpb, liver]
 created: 2026-05-16
-updated: 2026-09-03
+updated: 2026-09-05
 sources: [acg-2021-dili, acg-2017-liver-chemistries, aasld-2022-dili]
 ---
 
@@ -173,7 +173,7 @@ CTCAE grade criteria (ALT / bilirubin cutoffs) and the grade-directed hold/stero
 
 | Agent | Pattern | Latency | Notes |
 |-------|---------|---------|-------|
-| Azathioprine/6-MP | Cholestatic or hepatocellular; hepatoportal sclerosis | Moderate to long | Monitor CBC + LFTs regularly in [[inflammatory-bowel-disease\|IBD]] patients |
+| [[thiopurines\|Azathioprine/6-MP]] | Cholestatic or hepatocellular; hepatoportal sclerosis | Moderate to long | Monitor CBC + LFTs regularly in [[inflammatory-bowel-disease\|IBD]] patients |
 | Methotrexate | Insidious hepatic steatosis + fibrosis | Long | See monitoring thresholds below |
 | [[anti-tnf-agents\|Anti-TNF agents]] (infliximab, adalimumab) | Hepatocellular; autoimmune hepatitis-like | Moderate to long | Rare; may need to discontinue biologic |
 | Amoxicillin-clavulanate | Cholestatic; can be hepatocellular | Short to moderate | Most common antibiotic DILI; onset may occur after drug cessation |
@@ -200,7 +200,7 @@ CTCAE grade criteria (ALT / bilirubin cutoffs) and the grade-directed hold/stero
 
 ## See Also
 
-[[abnormal-liver-chemistries]], [[acute-liver-failure]], [[autoimmune-hepatitis]], [[inflammatory-bowel-disease]], [[nafld-masld]], [[primary-biliary-cholangitis]], [[primary-sclerosing-cholangitis]], [[wilson-disease]], [[budd-chiari-syndrome]], [[immune-checkpoint-inhibitor-hepatitis]], [[chronic-hepatitis-b]], [[hepatitis-c]], [[liver-biopsy]], [[liver-stiffness-measurement]], [[jaundice]], [[liver-transplantation]], [[ercp]], [[cirrhosis]], [[obesity]]
+[[abnormal-liver-chemistries]], [[acute-liver-failure]], [[autoimmune-hepatitis]], [[inflammatory-bowel-disease]], [[nafld-masld]], [[primary-biliary-cholangitis]], [[primary-sclerosing-cholangitis]], [[wilson-disease]], [[budd-chiari-syndrome]], [[immune-checkpoint-inhibitor-hepatitis]], [[chronic-hepatitis-b]], [[hepatitis-c]], [[liver-biopsy]], [[liver-stiffness-measurement]], [[jaundice]], [[liver-transplantation]], [[ercp]], [[cirrhosis]], [[obesity]], [[thiopurines]], [[anti-tnf-agents]], [[proton-pump-inhibitors]]
 
 ---
 

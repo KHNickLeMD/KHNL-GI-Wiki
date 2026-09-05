@@ -3,7 +3,7 @@ title: "Potassium-Competitive Acid Blockers (P-CABs)"
 category: med
 tags: [pcab, vonoprazan, tegoprazan, acid-suppression, ppi, gerd, h-pylori, peptic-ulcer-disease]
 created: 2026-07-21
-updated: 2026-08-31
+updated: 2026-09-05
 sources: [aga-2024-pcab, acg-2024-hp-treatment]
 ---
 
@@ -74,7 +74,7 @@ Drug **class** of gastric acid suppressants that block the H⁺/K⁺-ATPase **co
 
 - **Cost:** US P-CAB markedly more expensive than standard- or double-dose PPIs; often requires prior authorization.
 - **Safety:** long-term data less robust than PPIs; theoretical prolonged-acid-suppression concerns (hypomagnesemia, [[clostridioides-difficile|C. diff]], enteric infections) not yet well-characterized for the class.
-- **Before [[test-and-treat|H. pylori]] urea breath / fecal antigen testing:** PPIs must be stopped **2 weeks** in advance; ACG states the same will *probably* apply to P-CABs but that **this has not been adequately studied** — do not assert it as established ([[acg-2024-hp-treatment]]).
+- **Before [[test-and-treat|H. pylori urea breath / fecal antigen testing]]:** PPIs must be stopped **2 weeks** in advance; ACG states the same will *probably* apply to P-CABs but that **this has not been adequately studied** — do not assert it as established ([[acg-2024-hp-treatment]]).
 
 ---
 

@@ -3,7 +3,7 @@ title: "Iron Overload and Iron Metabolism"
 category: concept
 tags: [iron, hepcidin, ferroportin, transferrin, ferritin, transferrin-saturation, iron-overload, hemochromatosis]
 created: 2026-05-19
-updated: 2026-08-31
+updated: 2026-09-05
 sources: [acg-2019-hereditary-hemochromatosis]
 ---
 
@@ -49,15 +49,17 @@ Mechanisms of iron handling and the laboratory thresholds used to detect overloa
 | Test | How it is derived | Threshold and what it means |
 |---|---|---|
 | **Transferrin saturation (TS)** | serum iron ÷ TIBC × 100 | **Preferred initial screening test; fasting not required.** **>45%** identifies **97.9%–100%** of C282Y homozygotes — but a small proportion of [[hereditary-hemochromatosis\|HH]] patients (younger, earlier-stage) have TS **<45%**, and iron overload can exist with an **elevated SF and a normal TS**, particularly in non–HFE iron overload |
-| **Serum ferritin (SF)** | intracellular iron-storage protein | **Normal = <200 ng/mL in premenopausal women, <300 ng/mL in men and postmenopausal women.** A normal SF **plus** TS <45% has a **97% negative predictive value** for excluding iron overload. Excellent predictor of advanced fibrosis but **lacks specificity as a screening test** — hyperferritinemia also occurs in [[alcohol-associated-liver-disease\|alcoholic liver disease]], HCV, [[nafld-masld\|NAFLD]], and neoplastic disease |
-| **SF >1,000 ng/mL** | — | In C282Y homozygotes, SF **>1,000 ng/mL** *with* elevated aminotransferases *and* low platelet count predicts [[cirrhosis\|cirrhosis]] in **>80%** — all three together |
+| **Serum ferritin (SF)** | intracellular iron-storage protein | **Normal = <200 ng/mL in premenopausal women, <300 ng/mL in men and postmenopausal women.** A normal SF **plus** TS <45% has a **97% negative predictive value** for excluding iron overload. Excellent predictor of advanced fibrosis but **lacks specificity as a screening test** — hyperferritinemia also occurs in [[alcohol-associated-liver-disease\|alcoholic liver disease]], [[hepatitis-c\|HCV]], [[nafld-masld\|NAFLD]], and neoplastic disease |
+| **SF >1,000 ng/mL** | — | In C282Y homozygotes, SF **>1,000 ng/mL** *with* elevated aminotransferases *and* a low platelet count predicts [[cirrhosis\|cirrhosis]] in **>80%** — all three together. The [[liver-biopsy\|biopsy]] decision that hangs off this threshold lives on [[hereditary-hemochromatosis]] |
 | **UIBC** | inverse of TS; one-step automated test | **<26 µmol/L** → sensitivity 90%, specificity 90% for C282Y homozygosity; comparable to TS as an alternative screening test |
 | **Hepatic iron concentration (HIC)** | direct measurement on [[liver-biopsy\|liver biopsy]], µmol/g dry weight | **>71 µmol/g** distinguishes homozygous HH from heterozygotes/secondary overload |
 | **Hepatic iron index (HII)** | HIC ÷ age in years | **≥1.9** distinguishes homozygotes from heterozygotes and secondary overload |
 
+> ⚠ **Decision gap — "low platelet count" has no number.** [[acg-2019-hereditary-hemochromatosis]] prints the SF >1,000 ng/mL + elevated aminotransferase + low platelet count triad without defining either the aminotransferase or the platelet cut-off, so the triad cannot be applied quantitatively. Closing it requires the primary study the guideline cites (its reference 112); **do not supply a threshold from memory.** The **SF 1,000 ng/mL** line is the one that is fully specified.
+
 ## See Also
 
-[[hereditary-hemochromatosis]], [[iron-deficiency-anemia]], [[nafld-masld]], [[alcohol-associated-liver-disease]], [[drug-induced-liver-injury]], [[liver-biopsy]], [[hemin]]
+[[hereditary-hemochromatosis]], [[iron-deficiency-anemia]], [[nafld-masld]], [[alcohol-associated-liver-disease]], [[hepatitis-c]], [[cirrhosis]], [[drug-induced-liver-injury]], [[liver-biopsy]], [[hemin]]
 
 ---
 

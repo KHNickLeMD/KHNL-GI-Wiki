@@ -3,7 +3,7 @@ title: "High-Risk Pancreatic Cancer Surveillance"
 category: concept
 tags: [pancreatic-cancer, screening, surveillance, genetics, brca, eus, mri]
 created: 2026-06-04
-updated: 2026-09-04
+updated: 2026-09-05
 sources: [asge-2022-pancreatic-cancer-screening, acg-2015-hereditary-gi-cancer, aga-2020-pancreas-cancer-screening]
 ---
 
@@ -21,6 +21,8 @@ Screening asymptomatic individuals with genetic susceptibility to [[pancreatic-c
 - [[#What an Abnormal Finding Triggers]]
 - [[#Yield and Harms]]
 - [[#Open Questions]]
+- [[#See Also]]
+- [[#Sources]]
 
 ## Who to Screen
 

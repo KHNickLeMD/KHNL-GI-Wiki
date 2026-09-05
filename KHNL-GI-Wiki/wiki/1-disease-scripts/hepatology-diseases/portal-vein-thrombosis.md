@@ -3,7 +3,7 @@ title: "Portal Vein Thrombosis and Mesenteric Vein Thrombosis"
 category: disease-script
 tags: [portal-vein-thrombosis, pvt, mvt, mesenteric-vein, anticoagulation, cirrhosis, thrombophilia, splenomegaly, mpn, liver-transplant]
 created: 2026-05-21
-updated: 2026-09-04
+updated: 2026-09-05
 sources: [baveno-viii-2026-portal-hypertension, acg-2020-hepatic-mesenteric-circulation, aasld-ast-2025-liver-transplant-candidate-evaluation, aasld-2021-vascular-pvt, aga-2025-pvt-cirrhosis, baveno-vii-2022-portal-hypertension]
 ---
 
@@ -265,7 +265,7 @@ flowchart TD
 | Rivaroxaban | ✔ | **Not advised** | **Not advised** |
 | Dabigatran / Edoxaban | ✔ | Caution / not advised | **Not advised** |
 
-- DOACs offer convenience (no INR monitoring); apixaban has the most CTP-B data; rivaroxaban carries a small hepatotoxicity risk. Reversal: andexanet alfa / idarucizumab / 4-factor PCC.
+- DOACs offer convenience (no INR monitoring); apixaban has the most CTP-B data; rivaroxaban carries a small hepatotoxicity risk. [[anticoagulation-gi-bleeding|Reversal]]: andexanet alfa / idarucizumab / 4-factor PCC.
 
 **[[baveno-viii-2026-portal-hypertension|Baveno VIII]] cirrhotic-PVT statements** (newest tier-1 source; where it and AGA 2025 differ in emphasis, both are guideline-tier and Baveno VIII is newer):
 

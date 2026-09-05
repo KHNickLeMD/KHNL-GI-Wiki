@@ -3,7 +3,7 @@ title: "Lubiprostone"
 category: med
 tags: [lubiprostone, chloride-channel-activator, secretagogue, ibs-c, cic, constipation]
 created: 2026-06-01
-updated: 2026-09-03
+updated: 2026-09-05
 sources: [acg-2020-ibs, aga-2022-ibs-c, aga-acg-2023-constipation]
 ---
 
@@ -68,9 +68,11 @@ Bicyclic fatty acid derived from prostaglandin E1; activates **type 2 chloride c
 
   AGA judged the significant global and pain benefits to **fall below its threshold for a clinically meaningful difference**, noted the failure on adequate SBM response, and observed that **CSBM was never measured** in these trials — so no CSBM effect can be claimed. No new lubiprostone RCTs had appeared since the 2014 technical review.
 
+---
+
 ## See Also
 
-[[chronic-idiopathic-constipation]], [[irritable-bowel-syndrome]], [[linaclotide]], [[plecanatide]], [[tenapanor]], [[prucalopride]], [[disorders-of-gut-brain-interaction]]
+[[chronic-idiopathic-constipation]], [[irritable-bowel-syndrome]], [[linaclotide]], [[plecanatide]], [[tenapanor]], [[prucalopride]], [[tegaserod]], [[chronic-constipation]], [[disorders-of-gut-brain-interaction]]
 
 ---
 

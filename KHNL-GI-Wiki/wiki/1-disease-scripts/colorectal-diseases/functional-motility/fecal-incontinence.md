@@ -3,8 +3,25 @@ title: "Fecal Incontinence"
 category: disease-script
 tags: [fecal-incontinence, anorectal, biofeedback, sacral-nerve-stimulation, pelvic-floor, colorectal]
 created: 2026-05-16
-updated: 2026-09-03
+updated: 2026-09-05
 sources: [acg-2021-anorectal-disorders, asge-2010-anorectal-disorders, rome-v-2026-dgbi]
+---
+
+## Contents
+- [[#Assessment]]
+  - [[#Establishing the Diagnosis]]
+  - [[#Severity Assessment]]
+- [[#Differential Diagnosis]]
+- [[#Diagnostics]]
+  - [[#Initial Assessment (All Patients)]]
+  - [[#Anorectal Physiology (for patients not responding to conservative measures)]]
+- [[#Therapeutics]]
+  - [[#Step 1: Conservative Management]]
+  - [[#Step 2: Biofeedback (Pelvic Floor Rehabilitation)]]
+  - [[#Step 3: Advanced Interventions]]
+- [[#See Also]]
+- [[#Sources]]
+
 ---
 
 ## Assessment

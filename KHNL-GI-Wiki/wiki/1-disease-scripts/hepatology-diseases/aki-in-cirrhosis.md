@@ -3,7 +3,7 @@ title: "AKI in Cirrhosis (including HRS-AKI)"
 category: disease-script
 tags: [aki, cirrhosis, hrs, hepatorenal-syndrome, albumin, terlipressin, liver]
 created: 2026-05-15
-updated: 2026-09-03
+updated: 2026-09-05
 sources: [aga-2022-aki-cirrhosis, aga-2024-vasoactive-albumin-cirrhosis, aasld-2024-aclf, baveno-viii-2026-portal-hypertension]
 ---
 
@@ -30,7 +30,7 @@ AKI is diagnosed when **any one** of the following is met:
 
 **Baseline SCr:** use the most recent value within the prior 3 months when no value is available within the prior 7 days.
 
-**Caveat in [[cirrhosis|cirrhosis]]:** SCr systematically underestimates the degree of GFR reduction due to reduced muscle mass, impaired hepatic creatine synthesis, female sex, and hyperbilirubinemia (interferes with colorimetric assay). A "normal" SCr in cirrhosis may mask significant renal impairment.
+**Caveat in [[cirrhosis]]:** SCr systematically underestimates the degree of GFR reduction due to reduced muscle mass, impaired hepatic creatine synthesis, female sex, and hyperbilirubinemia (interferes with colorimetric assay). A "normal" SCr in cirrhosis may mask significant renal impairment.
 
 **Epidemiology:** AKI occurs in ~47% of hospitalized patients with cirrhosis complications and ~30% of outpatients with cirrhosis. It carries a 7-fold increase in morbidity and mortality.
 
@@ -201,7 +201,7 @@ Vasopressin V1 receptor analog; reverses splanchnic vasodilatation.
 - **FDA label:** SCr ≥5 mg/dL; O2 saturation <90%
 - **Ongoing coronary, peripheral, or mesenteric ischemia** — contraindicated (AGA 2024 CPU, BPA 12)
 - **[[acute-on-chronic-liver-failure|ACLF-3]] (EASL-CLIF; ≥3 organ failures) — CONTRAINDICATED**, not merely a caution. [[aasld-2024-aclf]] GS 25 restricts terlipressin to Stage 2+ HRS-AKI **without ACLF-3**, on the CONFIRM-trial respiratory-failure signal; **norepinephrine is preferred in shock**. ⚠ This supersedes the softer "use with caution" framing carried by the older CPU — the newer guideline governs. Grade definitions on [[acute-on-chronic-liver-failure]].
-- **Benefit may not outweigh risk** when SCr >5 mg/dL, or in patients listed for transplant with **MELD ≥35** (low response rates)
+- **Benefit may not outweigh risk** when SCr >5 mg/dL, or in patients listed for transplant with **MELD ≥35** (low response rates). ⚠ The source does not say **which** MELD variant; the variants differ by several points around exactly this kind of cutoff — the formulas and the variant-selection table are on [[cirrhosis|cirrhosis → Severity Assessment]]
 
 **Response predictors (favorable):** bilirubin <10 mg/dL, SCr <5 mg/dL, lower ACLF grade, sustained MAP increase ≥5–10 mmHg with therapy, presence of systemic inflammatory response (SIRS/sepsis/alcohol-associated hepatitis)
 

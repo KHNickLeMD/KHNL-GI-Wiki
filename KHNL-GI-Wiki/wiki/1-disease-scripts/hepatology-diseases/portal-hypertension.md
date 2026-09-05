@@ -3,7 +3,7 @@ title: "Portal Hypertension"
 category: disease-script
 tags: [portal-hypertension, cirrhosis, CSPH, HVPG, cACLD, varices, NSBB, carvedilol, TIPS, liver-stiffness, decompensation, variceal-bleeding, ascites]
 created: 2026-05-28
-updated: 2026-09-03
+updated: 2026-09-05
 sources: [baveno-viii-2026-portal-hypertension, aasld-2023-portal-hypertension, baveno-vii-2022-portal-hypertension, acg-2025-perioperative-cirrhosis, aasld-2024-tips, aasld-2022-palliative-cirrhosis, wang-2026-eus-ppg-delphi-consensus]
 ---
 
@@ -224,7 +224,7 @@ flowchart TD
 - With ascites, Baveno VII gives explicit thresholds: dose-reduce or stop for **persistent SBP <90 mmHg or MAP <65 mmHg, and/or HRS-AKI**; **re-initiate/re-titrate once BP recovers or HRS-AKI resolves**; if permanently intolerant → EVL (B.1, 7.7) [[baveno-vii-2022-portal-hypertension]]
 - Baveno VII adds that HVPG measurement is not needed to decide: treat when clinically indicated, independent of the ability to measure HVPG (B.2, 5.16)
 
-**Stopping an NSBB after the aetiology is cured/suppressed** (SVR in HCV, HBV suppression, sustained alcohol abstinence) [[baveno-vii-2022-portal-hypertension]]:
+**Stopping an NSBB after the aetiology is cured/suppressed** (SVR in [[hepatitis-c|HCV]], [[chronic-hepatitis-b|HBV]] suppression, sustained alcohol abstinence) [[baveno-vii-2022-portal-hypertension]]:
 
 - On NSBB with **no evident CSPH (LSM <25 kPa)** post-cure → repeat endoscopy, preferably after 1–2 years; **if no varices, NSBB can be discontinued** (C.2, 3.9)
 - HCV cACLD with SVR, no co-factors, and consistent improvement to **LSM <12 kPa + platelets >150×10⁹/L** → discharge from portal-hypertension surveillance (LSM and endoscopy) entirely; **continue [[hcc-surveillance|HCC surveillance]]** (B.1, 3.7)
@@ -239,7 +239,7 @@ flowchart TD
 - **Confirm non-invasively** (7.19): **LSM <10 kPa** rules CSPH out; **LSM <15 kPa plus SSM <25 kPa** rules it out; **LSM >25 kPa** rules it in
 - Full recompensation criteria: [[cirrhosis|cirrhosis → Recompensation]]
 
-**Treating underlying liver disease:** Antiviral therapy ([[direct-acting-antivirals|HCV DAAs]], [[chronic-hepatitis-b|HBV]] NAs), alcohol cessation, immunosuppression ([[autoimmune-hepatitis|AIH]]) → can reduce HVPG and reverse cirrhosis in long-term follow-up (GS 10). Lifestyle modification (weight, alcohol, diet) is concurrent priority.
+**Treating underlying liver disease:** Antiviral therapy ([[direct-acting-antivirals|HCV DAAs]], HBV NAs), alcohol cessation, immunosuppression ([[autoimmune-hepatitis|AIH]]) → can reduce HVPG and reverse cirrhosis in long-term follow-up (GS 10). Lifestyle modification (weight, alcohol, diet) is concurrent priority.
 
 **Statins and anticoagulation — Baveno VIII walks the claim back.**
 
@@ -355,7 +355,7 @@ Indicated for: CTP class B score >7 with active bleeding at endoscopy, OR CTP cl
 - PHG >mild: presumed CSPH; consider prophylactic NSBB (GS 48)
 - Acute PHG bleeding: vasoactive therapy × 2–5 days (GS 49)
 - **Baveno VIII 5.44 orders the options explicitly:** management of PHG focuses **primarily on reducing portal pressure with NSBB**; for severe or refractory PHG bleeding, **[[tips|TIPS]] is the most effective rescue therapy**. Because endoscopic therapies do not lower portal pressure, they **provide limited benefit and are reserved for focal bleeding lesions or salvage** — a demotion from Baveno VII 7.14, which said endoscopic therapy (APC, hemospray) "may be used"
-- **GAVE with serial transfusion requirement → EVL is recommended over [[argon-plasma-coagulation|argon plasma coagulation]]** (Baveno VIII 5.43, LoE 1, strong): higher eradication rates, fewer treatment sessions, and reductions in recurrent bleeding, hospitalisations and transfusion requirement. Baveno VII 6.25 had listed APC, RFA and band ligation as interchangeable options
+- **GAVE with serial transfusion requirement → EVL is recommended over [[argon-plasma-coagulation|argon plasma coagulation]]** (Baveno VIII 5.43, LoE 1, strong): higher eradication rates, fewer treatment sessions, and reductions in recurrent bleeding, hospitalisations and transfusion requirement. Baveno VII 6.25 had listed APC, [[radiofrequency-ablation|RFA]] and band ligation as interchangeable options
 - **PHG must be distinguished from GAVE** — the treatments differ (Baveno VI/VII, retained in the Baveno VIII still-valid box)
 
 ### Special Situations
@@ -389,7 +389,7 @@ Indicated for: CTP class B score >7 with active bleeding at endoscopy, OR CTP cl
 
 ## See Also
 
-[[cirrhosis]], [[variceal-upper-gi-bleeding]], [[ascites]], [[spontaneous-bacterial-peritonitis]], [[aki-in-cirrhosis]], [[hepatic-encephalopathy]], [[hepatocellular-carcinoma]], [[portal-vein-thrombosis]], [[budd-chiari-syndrome]], [[porto-sinusoidal-vascular-disorder]], [[noninvasive-liver-disease-assessment]], [[liver-stiffness-measurement]], [[hcc-surveillance]], [[liver-transplantation]], [[liver-disease-in-pregnancy]], [[hepatopulmonary-syndrome-portopulmonary-hypertension]], [[primary-sclerosing-cholangitis]], [[primary-biliary-cholangitis]], [[nafld-masld]], [[upper-endoscopy]], [[acute-on-chronic-liver-failure]], [[hepatic-venous-pressure-gradient]], [[interventional-eus-vascular]], [[abnormal-liver-chemistries]], [[liver-biopsy]], [[antibiotic-prophylaxis-cirrhosis]], [[proton-pump-inhibitors]], [[somatostatin-analogs]], [[enteral-access]], [[tips]], [[rifaximin]], [[alcohol-associated-liver-disease]], [[nutrition-in-liver-disease]], [[obesity]], [[endoscopic-ultrasound]]
+[[cirrhosis]], [[variceal-upper-gi-bleeding]], [[ascites]], [[spontaneous-bacterial-peritonitis]], [[aki-in-cirrhosis]], [[hepatic-encephalopathy]], [[hepatocellular-carcinoma]], [[portal-vein-thrombosis]], [[budd-chiari-syndrome]], [[porto-sinusoidal-vascular-disorder]], [[noninvasive-liver-disease-assessment]], [[liver-stiffness-measurement]], [[hcc-surveillance]], [[liver-transplantation]], [[liver-disease-in-pregnancy]], [[hepatopulmonary-syndrome-portopulmonary-hypertension]], [[primary-sclerosing-cholangitis]], [[primary-biliary-cholangitis]], [[nafld-masld]], [[upper-endoscopy]], [[acute-on-chronic-liver-failure]], [[hepatic-venous-pressure-gradient]], [[interventional-eus-vascular]], [[abnormal-liver-chemistries]], [[liver-biopsy]], [[antibiotic-prophylaxis-cirrhosis]], [[proton-pump-inhibitors]], [[somatostatin-analogs]], [[enteral-access]], [[tips]], [[rifaximin]], [[alcohol-associated-liver-disease]], [[nutrition-in-liver-disease]], [[obesity]], [[endoscopic-ultrasound]], [[hepatitis-c]], [[chronic-hepatitis-b]], [[direct-acting-antivirals]], [[autoimmune-hepatitis]], [[argon-plasma-coagulation]], [[radiofrequency-ablation]]
 
 ---
 

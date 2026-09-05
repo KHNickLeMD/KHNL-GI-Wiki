@@ -3,8 +3,25 @@ title: "Defecation Disorders (Dyssynergic Defecation)"
 category: disease-script
 tags: [defecation-disorder, dyssynergia, outlet-obstruction, biofeedback, anorectal-manometry, colorectal, pelvic-floor]
 created: 2026-05-16
-updated: 2026-09-03
+updated: 2026-09-05
 sources: [acg-2021-anorectal-disorders, aga-acg-2023-constipation, rome-v-2026-dgbi]
+---
+
+## Contents
+- [[#Assessment]]
+  - [[#Establishing the Diagnosis]]
+  - [[#Severity Assessment]]
+- [[#Differential Diagnosis]]
+- [[#Diagnostics]]
+  - [[#Diagnostic Algorithm]]
+  - [[#Required Tests for Diagnosis]]
+- [[#Therapeutics]]
+  - [[#Step 1: Conservative Measures (Before Biofeedback)]]
+  - [[#Step 2: Anorectal Biofeedback — Cornerstone of Treatment]]
+  - [[#Step 3: Surgery (After Biofeedback Failure with Structural Abnormality)]]
+- [[#See Also]]
+- [[#Sources]]
+
 ---
 
 ## Assessment
@@ -149,8 +166,17 @@ Severity based on symptom burden, laxative dependence, impact on QoL (PAC-QoL, P
 | Structural Issue | Procedure | Outcomes |
 |----------------|-----------|---------|
 | Full-thickness rectal prolapse | Laparoscopic rectopexy (posterior or ventral mesh preferred); Altemeier procedure for elderly/frail | 73–91% "some benefit" for rectopexy; 5–15% mesh erosion; 2–7% anatomic recurrence |
-| **Rectocele — read the indication in order** [[acg-2021-anorectal-disorders]]: (1) **bothersome gynecological symptoms** (perineal bulging, protrusion through the vaginal introitus) is the primary indication for surgery; (2) **without** those symptoms, defecatory dysfunction + coexistent rectocele is managed **conservatively first, including [[biofeedback-therapy\|biofeedback]]**; (3) only on failure do the two suggested selection features apply — **significant size (e.g. >5 cm)** on clinical assessment/imaging **and** **trapping or non-emptying on dynamic assessment** (defecography). *Caveat printed in the guideline: others hold that **size alone is not a criterion** for surgery.* Rectoceles are commonly found in **asymptomatic** women and usually need no surgery | Reinforcement of the rectovaginal wall — **vaginal or transanal**; the vaginal approach appears more favorable for pelvic-organ-prolapse syndromes. Avoid vaginal mesh (FDA withdrawn) | 30–50% improvement in constipation; 67–78% satisfactory outcomes; **7–17% occasional serious complications** |
+| Symptomatic rectocele (selection criteria below) | Reinforcement of the rectovaginal wall — **vaginal or transanal**; the vaginal approach appears more favorable for pelvic-organ-prolapse syndromes. Avoid vaginal mesh (FDA withdrawn) | 30–50% improvement in constipation; 67–78% satisfactory outcomes; **7–17% occasional serious complications** |
 | No structural abnormality + dyssynergia fails biofeedback | Botulinum toxin A into puborectalis: limited evidence, not recommended long-term; STARR (stapled transanal rectal resection): NOT recommended (complications, no US adoption) | — |
+
+**Rectocele — read the indication in order** [[acg-2021-anorectal-disorders]]:
+
+1. **Bothersome gynecological symptoms** (perineal bulging, protrusion through the vaginal introitus) — the primary indication for surgery.
+2. **Without** those symptoms, defecatory dysfunction + coexistent rectocele is managed **conservatively first, including biofeedback**.
+3. Only on failure do the two suggested selection features apply — **significant size (e.g. >5 cm)** on clinical assessment/imaging **and** **trapping or non-emptying on dynamic assessment** (defecography).
+
+- *Caveat printed in the guideline: others hold that **size alone is not a criterion** for surgery.*
+- Rectoceles are commonly found in **asymptomatic** women and usually need no surgery.
 
 **[[sacral-nerve-stimulation|Sacral nerve stimulation]] (SNS) for constipation:** NOT effective (Strong/Low from RCT data) — do not use for DD or slow-transit constipation.
 

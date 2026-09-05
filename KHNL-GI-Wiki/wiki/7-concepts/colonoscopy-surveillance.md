@@ -3,7 +3,7 @@ title: "Colonoscopy Surveillance Intervals"
 category: concept
 tags: [colonoscopy, surveillance, adenoma, serrated-polyp, crc-screening, polypectomy]
 created: 2026-06-01
-updated: 2026-08-28
+updated: 2026-09-05
 sources: [usmstf-2020-followup-colonoscopy]
 ---
 
@@ -20,16 +20,16 @@ sources: [usmstf-2020-followup-colonoscopy]
 
 ## Overview
 
-Post-[[colonoscopy]] surveillance intervals after [[polypectomy]] are set by the number, size, and histology of polyps found, per USMSTF 2020 ([[usmstf-2020-followup-colonoscopy]]). Key 2020 change from 2012: 1-2 small tubular adenomas extended to **7-10 years**. In a cohort of 1,251,318 average-risk adults, a normal screening colonoscopy carried a **46% relative reduction in incident [[colorectal-cancer|CRC]]** (HR 0.54; 95% CI 0.31–0.94) and an **88% relative reduction in fatal CRC** (HR 0.12; 95% CI 0.02–0.82) through the 10-year follow-up window; reduced risk persisted to 12 years.
+Post-[[colonoscopy]] surveillance intervals after [[polypectomy]] are set by the number, size, and histology of polyps found, per USMSTF 2020 ([[usmstf-2020-followup-colonoscopy]]). Key 2020 change from 2012: 1-2 small tubular adenomas extended to **7-10 years**. In a cohort of 1,251,318 average-risk adults, a normal screening colonoscopy carried a **46% relative reduction in incident [[colorectal-cancer|CRC]]** (HR 0.54; 95% CI 0.31–0.94) and an **88% relative reduction in fatal CRC** (HR 0.12; 95% CI 0.02–0.82) through the 10-year follow-up window; reduced risk persisted to 12 years. For the screening decision that precedes the first polypectomy (start/stop ages, modality choice, family-history stratification), see [[colorectal-cancer-screening]].
 
 ## Who These Intervals Do NOT Apply To
 
 The tables below are for **average-risk** adults only — defined as absence of all of the following. In these groups, favor the shortest interval indicated by either the underlying condition or the polyp findings:
 
 - Hereditary CRC syndrome (e.g. [[lynch-syndrome]], [[familial-adenomatous-polyposis|FAP]]) or any hereditary cancer syndrome
-- [[inflammatory-bowel-disease|Inflammatory bowel disease]]
+- [[inflammatory-bowel-disease|Inflammatory bowel disease]] — IBD dysplasia surveillance is a separate strategy (who/when on [[ulcerative-colitis]] and [[crohns-disease]]; chromoendoscopy technique on [[colonoscopy]]). ⚠ No ingested source states a numeric IBD repeat interval.
 - [[serrated-polyposis-syndrome|Serrated polyposis syndrome]]
-- Malignant polyp
+- [[polypectomy|Malignant polyp]]
 - Personal history of CRC
 - Family history of CRC
 
@@ -131,7 +131,7 @@ Note the asymmetry that carries the decision: an advanced baseline **never** ret
 
 ## See Also
 
-[[colonoscopy]], [[colorectal-cancer]], [[colorectal-cancer-screening]], [[polypectomy]], [[endoscopic-mucosal-resection]], [[gastric-polyps]], [[serrated-polyposis-syndrome]], [[lynch-syndrome]], [[familial-adenomatous-polyposis]]
+[[colonoscopy]], [[colorectal-cancer]], [[colorectal-cancer-screening]], [[polypectomy]], [[endoscopic-mucosal-resection]], [[gastric-polyps]], [[serrated-polyposis-syndrome]], [[lynch-syndrome]], [[familial-adenomatous-polyposis]], [[inflammatory-bowel-disease]], [[ulcerative-colitis]], [[crohns-disease]]
 
 ---
 

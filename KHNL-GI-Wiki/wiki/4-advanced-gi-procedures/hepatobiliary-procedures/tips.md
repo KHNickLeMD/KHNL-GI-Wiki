@@ -3,7 +3,7 @@ title: "TIPS (Transjugular Intrahepatic Portosystemic Shunt)"
 category: advanced-procedure
 tags: [tips, portal-hypertension, variceal-bleeding, refractory-ascites, hepatic-encephalopathy, pspg, ptfe-stent, rto, brto, interventional-radiology]
 created: 2026-07-16
-updated: 2026-09-04
+updated: 2026-09-05
 sources: [aasld-2024-tips, baveno-viii-2026-portal-hypertension, aasld-2021-ascites-sbp-hrs, aga-2025-ascites-cirrhosis, aasld-2021-vascular-pvt, wang-2026-eus-ppg-delphi-consensus, baveno-vii-2022-portal-hypertension]
 ---
 
@@ -76,9 +76,9 @@ sources: [aasld-2024-tips, baveno-viii-2026-portal-hypertension, aasld-2021-asci
 - **Refractory hepatic hydrothorax** despite standard medical treatment → consider TIPS (6.7)
 - **Older adults (≥70 years)** may be considered on a case-by-case basis, weighing benefit against risk (6.8) — a narrower age framing than the ">75 excluded from RCTs" note under [[#Contraindications]]
 - **Assess renal function systematically and stage CKD by eGFR** before TIPS for recurrent/refractory ascites, for risk stratification (6.9)
-- **Not a TIPS candidate → long-term albumin may be considered** to improve ascites control and reduce ascites-related complications (6.10); **contraindication or inadequate response to TIPS, and not an LT candidate → home-based drainage devices** (tunnelled peritoneal catheter or low-flow ascites pump) as an alternative to repeated large-volume paracentesis (6.11). See [[ascites]]
+- **Not a TIPS candidate → long-term [[albumin|albumin]] may be considered** to improve ascites control and reduce ascites-related complications (6.10); **contraindication or inadequate response to TIPS, and not an LT candidate → home-based drainage devices** (tunnelled peritoneal catheter or low-flow ascites pump) as an alternative to repeated large-volume paracentesis (6.11). See [[ascites]]
 - **[[hepatocellular-carcinoma|HCC]] is not an absolute contraindication** to TIPS for recurrent/refractory ascites or hepatic hydrothorax **unless the tumour lies along the TIPS trajectory**; better decompensation control may in fact open access to effective oncological treatment (4.15)
-- **Sarcopenia and frailty alone should neither indicate nor contraindicate TIPS** — weigh them alongside the rest of the pre-TIPS work-up (4.19)
+- **[[nutrition-in-liver-disease|Sarcopenia]] and frailty alone should neither indicate nor contraindicate TIPS** — weigh them alongside the rest of the pre-TIPS work-up (4.19)
 
 ### Vascular
 
@@ -264,7 +264,7 @@ Priority research areas named by [[aasld-2024-tips]]: optimal intraprocedural PS
 
 ## See Also
 
-[[portal-hypertension]], [[variceal-upper-gi-bleeding]], [[ascites]], [[hepatic-encephalopathy]], [[cirrhosis]], [[portal-vein-thrombosis]], [[budd-chiari-syndrome]], [[porto-sinusoidal-vascular-disorder]], [[rifaximin]], [[liver-transplantation]], [[upper-endoscopy]], [[endoscopic-ultrasound]], [[acute-on-chronic-liver-failure]], [[acute-liver-failure]], [[aki-in-cirrhosis]], [[cirrhosis-hemostasis]], [[hepatopulmonary-syndrome-portopulmonary-hypertension]], [[hepatic-cysts]], [[nafld-masld]], [[hepatic-venous-pressure-gradient]], [[interventional-eus-vascular]], [[alcohol-associated-liver-disease]], [[chronic-hepatitis-b]], [[endoscopy-sedation]], [[hepatocellular-carcinoma]], [[albumin]]
+[[portal-hypertension]], [[variceal-upper-gi-bleeding]], [[ascites]], [[hepatic-encephalopathy]], [[cirrhosis]], [[portal-vein-thrombosis]], [[budd-chiari-syndrome]], [[porto-sinusoidal-vascular-disorder]], [[rifaximin]], [[liver-transplantation]], [[upper-endoscopy]], [[endoscopic-ultrasound]], [[acute-on-chronic-liver-failure]], [[acute-liver-failure]], [[aki-in-cirrhosis]], [[cirrhosis-hemostasis]], [[hepatopulmonary-syndrome-portopulmonary-hypertension]], [[hepatic-cysts]], [[nafld-masld]], [[hepatic-venous-pressure-gradient]], [[interventional-eus-vascular]], [[alcohol-associated-liver-disease]], [[chronic-hepatitis-b]], [[endoscopy-sedation]], [[hepatocellular-carcinoma]], [[albumin]], [[nutrition-in-liver-disease]]
 
 ---
 

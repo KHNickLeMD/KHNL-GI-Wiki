@@ -3,7 +3,7 @@ title: "Proton Pump Inhibitors (PPIs)"
 category: med
 tags: [ppi, acid-suppression, gerd, erosive-esophagitis, peptic-ulcer-disease, h-pylori, eoe, omeprazole, esomeprazole]
 created: 2026-07-21
-updated: 2026-09-04
+updated: 2026-09-05
 sources: [acg-2021-gerd, acg-2024-hp-treatment, acg-2025-eoe, acg-2022-barretts, aga-2026-cdiff-adults, aga-2022-ppi-deprescribing]
 ---
 
@@ -112,7 +112,7 @@ Standard-dose acid-suppression potency standardized to omeprazole = 1.00 ("omepr
 
 | | **Definitely indicated** | **Conditionally indicated** | **NOT indicated** |
 |---|---|---|---|
-| **Long-term (>8 wk)** | [[barretts-esophagus\|Barrett's esophagus]]; clinically significant (LA grade **C/D**) erosive esophagitis; peptic strictures from [[gerd\|GERD]]; Zollinger-Ellison syndrome; [[eosinophilic-esophagitis\|EoE]]; gastroprotection in ASA/NSAID users **at high risk for GI bleeding**; prevention of progression of idiopathic pulmonary fibrosis | PPI-responsive endoscopy-negative reflux disease, with recurrence on cessation; PPI-responsive functional dyspepsia, with recurrence on cessation; PPI-responsive upper-airway symptoms ascribed to [[laryngopharyngeal-symptoms\|LPR]], with recurrence on cessation; refractory steatorrhea in [[exocrine-pancreatic-insufficiency\|chronic pancreatic insufficiency]] on enzyme replacement; secondary prevention of gastric/duodenal peptic ulcers **with no concomitant antiplatelet drug** | Nonerosive reflux symptoms with **no sustained response** to high-dose PPI; functional dyspepsia with no sustained response; steroid therapy **in the absence of** ASA/NSAID; prevention of recurrent upper GI bleeding from causes **other than** [[peptic-ulcer-disease\|PUD]] (incl. gastric/duodenal erosions) or erosive esophagitis |
+| **Long-term (>8 wk)** | [[barretts-esophagus\|Barrett's esophagus]]; clinically significant (LA grade **C/D**) erosive esophagitis; peptic strictures from [[gerd\|GERD]]; [[gastroenteropancreatic-neuroendocrine-tumors\|Zollinger-Ellison syndrome]]; [[eosinophilic-esophagitis\|EoE]]; gastroprotection in ASA/NSAID users **at high risk for GI bleeding**; prevention of progression of idiopathic pulmonary fibrosis | PPI-responsive endoscopy-negative reflux disease, with recurrence on cessation; PPI-responsive functional dyspepsia, with recurrence on cessation; PPI-responsive upper-airway symptoms ascribed to [[laryngopharyngeal-symptoms\|LPR]], with recurrence on cessation; refractory steatorrhea in [[exocrine-pancreatic-insufficiency\|chronic pancreatic insufficiency]] on enzyme replacement; secondary prevention of gastric/duodenal peptic ulcers **with no concomitant antiplatelet drug** | Nonerosive reflux symptoms with **no sustained response** to high-dose PPI; functional dyspepsia with no sustained response; steroid therapy **in the absence of** ASA/NSAID; prevention of recurrent upper GI bleeding from causes **other than** [[peptic-ulcer-disease\|PUD]] (incl. gastric/duodenal erosions) or erosive esophagitis |
 | **Acute (≤8 wk)** | [[helicobacter-pylori-infection\|*H. pylori*]] eradication; stress ulcer prophylaxis for **ICU patients with risk factors**; uninvestigated GERD/dyspepsia; treatment of NSAID-related gastric and duodenal peptic ulcers | Initial or on-demand treatment of endoscopy-negative reflux disease; initial treatment of functional dyspepsia; uninvestigated [[dyspepsia]]; ulcer prevention after sclerotherapy or band ligation of [[variceal-upper-gi-bleeding\|esophageal varices]]; prevention of rebleeding from Mallory-Weiss tears | **Empiric** treatment of laryngopharyngeal symptomatology; acute undifferentiated abdominal pain; acute [[nausea-and-vomiting\|nausea and vomiting]] not believed related to GERD/esophagitis; **any isolated lower GI symptomatology** |
 
 ### Do not de-prescribe these patients (BPA 4, 5, 7)
@@ -198,9 +198,11 @@ Warn every patient stopping long-term PPI that they may develop **transient uppe
 - Can be taken **fed or fasted**, unlike PPIs which require premeal dosing.
 - Superior to PPIs for acid suppression in H. pylori eradication; vonoprazan FDA-approved (2022) in dual and triple regimens.
 
+---
+
 ## See Also
 
-[[potassium-competitive-acid-blockers]], [[vonoprazan]], [[gerd]], [[barretts-esophagus]], [[eosinophilic-esophagitis]], [[peptic-ulcer-disease]], [[upper-gi-bleeding]], [[helicobacter-pylori-infection]], [[bismuth-quadruple-therapy]], [[ambulatory-reflux-monitoring]], [[reflux-testing]], [[endoscopic-eradication-therapy]], [[esophageal-adenocarcinoma]], [[anticoagulation-gi-bleeding]], [[clostridioides-difficile]]
+[[potassium-competitive-acid-blockers]], [[vonoprazan]], [[gerd]], [[barretts-esophagus]], [[eosinophilic-esophagitis]], [[peptic-ulcer-disease]], [[upper-gi-bleeding]], [[helicobacter-pylori-infection]], [[bismuth-quadruple-therapy]], [[ambulatory-reflux-monitoring]], [[reflux-testing]], [[endoscopic-eradication-therapy]], [[esophageal-adenocarcinoma]], [[anticoagulation-gi-bleeding]], [[clostridioides-difficile]], [[dyspepsia]], [[laryngopharyngeal-symptoms]], [[gastroenteropancreatic-neuroendocrine-tumors]]
 
 ---
 

@@ -3,8 +3,8 @@ title: "Alcohol-Associated Liver Disease"
 category: disease-script
 tags: [ald, alcoholic-hepatitis, cirrhosis, liver, hpb, aud, corticosteroids, liver-transplant, lille-score, meld, mdf, nac, pentoxifylline, transplant-candidate-evaluation, post-transplant, recurrence, naltrexone, acamprosate, baclofen, peth, stopah]
 created: 2026-05-07
-updated: 2026-09-03
-sources: [acg-2024-ald, acg-2017-liver-chemistries, aasld-ast-2025-liver-transplant-candidate-evaluation, aasld-ast-2025-liver-transplant-graft-complications, aasld-2020-ald, acg-2019-hereditary-hemochromatosis, lee-2018-accelerate-ah]
+updated: 2026-09-05
+sources: [acg-2024-ald, acg-2017-liver-chemistries, aasld-ast-2025-liver-transplant-candidate-evaluation, aasld-ast-2025-liver-transplant-graft-complications, aasld-2020-ald, acg-2019-hereditary-hemochromatosis, lee-2018-accelerate-ah, hendershot-2025-semaglutide-aud]
 ---
 
 # Alcohol-Associated Liver Disease
@@ -321,6 +321,7 @@ All ALD patients should receive AUD treatment [[acg-2024-ald]], [[aasld-2020-ald
 - Naltrexone (both short- and long-acting) may be used in **early ALD and compensated cirrhosis**, but must be **avoided in decompensated cirrhosis or liver failure**, and used cautiously in kidney disease. **No data** on acamprosate or naltrexone duration, or on their use in AH
 - **Alcohol withdrawal syndrome:** assess and manage per the **CIWA-Ar** protocol; differentiate from [[hepatic-encephalopathy|hepatic encephalopathy]] — the two can coexist (Key concept 12). For **severe** AWS, benzodiazepines are the treatment of choice but require **cautious use and careful monitoring** given their potential to precipitate or worsen HE (Rec 13, *strong / moderate*)
 
+- ⚠ **Investigational, not guideline-endorsed — [[semaglutide]] for AUD.** A phase-2 double-blind RCT (n=48 non–treatment-seeking adults with AUD, 9 weeks, 0.25→1.0 mg/week) found reduced laboratory alcohol self-administration, **fewer drinks per drinking day** (β −0.41; P=.04) and **lower weekly craving** (β −0.39; P=.01), with no change in drinking days. **Off-label and not practice-changing** — small, short, non–treatment-seeking sample; none of the ingested guidelines lists a [[glp-1-receptor-agonists|GLP-1 RA]] among AUD pharmacotherapy, so it does **not** enter the tables above. [[hendershot-2025-semaglutide-aud]]
 - Behavioral therapy: essential component; motivational interviewing (MI) has evidence for changing alcohol behavior; AA/mutual aid societies
 - Integrated AUD treatment alongside medical providers in the liver clinic (not just referral outside) improves abstinence rates
 - Brief intervention: effective in early ALD and hospital-based settings
@@ -417,8 +418,9 @@ Per [[aasld-ast-2025-liver-transplant-graft-complications]] (recommendations for
 
 **Pharmacotherapy for AUD post-LT:**
 
-- Naltrexone (NAL): opioid antagonist; reduces craving and alcohol consumption; use with caution if hepatic impairment (LFTs must be monitored)
-- Acamprosate (NAC): GABA modulator; reduces alcohol cravings; renal dosing; no hepatotoxicity risk
+- Naltrexone: opioid antagonist; reduces craving and alcohol consumption; use with caution if hepatic impairment (LFTs must be monitored)
+- Acamprosate: reduces alcohol cravings; renal dosing; no hepatotoxicity risk
+  - ⚠ *The two ingested sources describe acamprosate's mechanism differently — [[aasld-2020-ald]] calls it an **NMDA antagonist** (table above), [[aasld-ast-2025-liver-transplant-graft-complications]] a **GABA modulator**. Neither reconciles the other; the clinical use is unaffected. (Both sources' original "(NAC)" abbreviation for acamprosate is dropped here — on this page NAC is N-acetylcysteine.)*
 - Disulfiram: generally avoided post-LT due to hepatotoxicity risk and compliance issues
 - Pharmacotherapy should be combined with behavioral therapy
 
@@ -431,7 +433,7 @@ Per [[aasld-ast-2025-liver-transplant-graft-complications]] (recommendations for
 
 ## See Also
 
-[[abnormal-liver-chemistries]], [[liver-transplantation]], [[aki-in-cirrhosis]], [[acute-pancreatitis]], [[nafld-masld]], [[hereditary-hemochromatosis]], [[portal-hypertension]], [[acute-on-chronic-liver-failure]], [[hepatic-encephalopathy]], [[hepatocellular-carcinoma]], [[autoimmune-hepatitis]], [[wilson-disease]], [[drug-induced-liver-injury]], [[variceal-upper-gi-bleeding]], [[spontaneous-bacterial-peritonitis]], [[ascites]], [[portal-vein-thrombosis]], [[hepatitis-c]], [[chronic-hepatitis-b]], [[liver-biopsy]], [[mri-mrcp]], [[upper-gi-bleeding]], [[rifaximin]], [[hcc-surveillance]], [[nutrition-in-liver-disease]], [[antibiotic-prophylaxis-cirrhosis]], [[enteral-access]]
+[[abnormal-liver-chemistries]], [[liver-transplantation]], [[aki-in-cirrhosis]], [[acute-pancreatitis]], [[nafld-masld]], [[hereditary-hemochromatosis]], [[portal-hypertension]], [[acute-on-chronic-liver-failure]], [[hepatic-encephalopathy]], [[hepatocellular-carcinoma]], [[autoimmune-hepatitis]], [[wilson-disease]], [[drug-induced-liver-injury]], [[variceal-upper-gi-bleeding]], [[spontaneous-bacterial-peritonitis]], [[ascites]], [[portal-vein-thrombosis]], [[hepatitis-c]], [[chronic-hepatitis-b]], [[liver-biopsy]], [[mri-mrcp]], [[upper-gi-bleeding]], [[rifaximin]], [[hcc-surveillance]], [[nutrition-in-liver-disease]], [[antibiotic-prophylaxis-cirrhosis]], [[enteral-access]], [[semaglutide]], [[glp-1-receptor-agonists]], [[albumin]], [[somatostatin-analogs]], [[liver-stiffness-measurement]], [[cirrhosis]]
 
 ---
 
@@ -444,3 +446,4 @@ Per [[aasld-ast-2025-liver-transplant-graft-complications]] (recommendations for
 5. [[aasld-2020-ald|AASLD 2019/2020 Practice Guidance: Diagnosis and Treatment of Alcohol-Associated Liver Diseases]]
 6. [[acg-2019-hereditary-hemochromatosis|ACG 2019: Hereditary Hemochromatosis]]
 7. [[lee-2018-accelerate-ah|Outcomes of Early Liver Transplantation for Patients With Severe Alcoholic Hepatitis (ACCELERATE-AH)]]
+8. [[hendershot-2025-semaglutide-aud|Once-Weekly Semaglutide in Adults With Alcohol Use Disorder: A Randomized Clinical Trial]]

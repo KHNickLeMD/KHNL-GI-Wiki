@@ -3,7 +3,7 @@ title: "Tacrolimus"
 category: med
 tags: [tacrolimus, fk506, calcineurin-inhibitor, immunosuppression, transplant, liver-transplant, nephrotoxicity, diabetes, extended-release]
 created: 2026-05-19
-updated: 2026-08-27
+updated: 2026-09-05
 sources: [aasld-2012-liver-transplant-long-term, aasld-ast-2025-liver-transplant-graft-complications]
 ---
 
@@ -22,6 +22,8 @@ Per [[aasld-ast-2025-liver-transplant-graft-complications]] (Table 4):
 | Month 12 onward | Adjusted to trough | 4 ng/mL |
 
 *Dosing and target trough levels vary at the discretion of the transplant professional.*
+
+**These targets are transplant-specific.** Tacrolimus has also been studied in steroid-refractory [[ulcerative-colitis]], where the target trough is **higher (10–15 ng/mL)** and it is not a guideline-recommended rescue agent — that evidence lives on [[calcineurin-inhibitors]].
 
 **Extended-release (once-daily) formulation**: Should be used similarly to twice-daily immediate-release formulations — equally effective for preventing rejection and maintaining allograft survival ([[aasld-ast-2025-liver-transplant-graft-complications]], Rec 31, Strong, Level 3). ELTR registry (n=13,088): better graft survival when converted to or started de novo on extended-release TAC.
 
@@ -78,9 +80,11 @@ Intervals below are [[aasld-2012-liver-transplant-long-term]] (Recs 27–28, Tab
   - Outcomes: higher incidence of **prematurity (29%–50%)** and **low birth weight (17%–57%)**.
 - **TAC → cyclosporine conversion** for **poor glycemic control**: consideration can be given to converting *from tacrolimus to cyclosporine* (Rec 34), since TAC is the more diabetogenic CNI. Poor control also prompts steroid discontinuation. *(Note the direction — the conversion runs TAC → CSA, not the reverse.)*
 
+---
+
 ## See Also
 
-[[calcineurin-inhibitors]], [[liver-transplantation]], [[hepatocellular-carcinoma]], [[operational-tolerance]], [[antibody-mediated-rejection-liver-transplant]]
+[[calcineurin-inhibitors]], [[liver-transplantation]], [[hepatocellular-carcinoma]], [[operational-tolerance]], [[antibody-mediated-rejection-liver-transplant]], [[ulcerative-colitis]], [[drug-induced-liver-injury]]
 
 ---
 

@@ -3,7 +3,7 @@ title: "Endoscopic Oncology"
 category: concept
 tags: [endoscopic-oncology, advanced-endoscopy, gi-cancers, esd, eus, staging]
 created: 2026-05-15
-updated: 2026-09-03
+updated: 2026-09-05
 sources: [chang-2024-endoscopic-oncologist, asge-2023-esd, acg-2025-eus-quality]
 ---
 
@@ -15,12 +15,12 @@ Endoscopic oncology is an emerging subspecialty within gastroenterology focused 
 
 Endoscopic oncologists perform procedures across the GI tract with oncologic intent:
 
-- **Staging**: EUS-guided fine-needle aspiration/biopsy ([[endoscopic-ultrasound]]) for locoregional staging of [[esophageal-cancer|esophageal]], [[gastric-adenocarcinoma|gastric]], [[pancreatic-cancer|pancreatic]], and [[colorectal-cancer|rectal cancers]]; EUS-guided celiac plexus neurolysis for pain palliation
+- **Staging**: [[endoscopic-ultrasound|EUS]]-guided fine-needle aspiration/biopsy for locoregional staging of [[esophageal-cancer|esophageal]], [[gastric-adenocarcinoma|gastric]], [[pancreatic-cancer|pancreatic]], and [[colorectal-cancer|rectal cancers]]; EUS-guided celiac plexus neurolysis for pain palliation
 - **Curative resection of superficial neoplasia**: [[endoscopic-submucosal-dissection|Endoscopic submucosal dissection (ESD)]] and endoscopic mucosal resection ([[endoscopic-mucosal-resection|EMR]]) for T1a/T1b lesions in the esophagus, stomach, duodenum, and colon
 - **Biliary and pancreatic interventions**: [[ercp|ERCP]]-based stenting, [[cholangioscopy]] with biopsy, EUS-guided biliary drainage for malignant obstruction
 - **Luminal palliation**: Self-expanding metal stents for malignant esophageal, [[gastric-outlet-obstruction|gastric outlet]], and colonic obstruction; [[enteral-access|enteral access]] for nutritional support
   - **Distinguish palliation from bridge to surgery.** Colonic SEMS in *resectable* obstruction is a bridge to elective resection, a different decision with its own outcome data — that lives on [[colorectal-cancer]]. The gastric-outlet palliation-vs-surgery rule lives on [[gastric-outlet-obstruction]].
-- **Ablation**: [[radiofrequency-ablation|Radiofrequency ablation (RFA)]] for [[barretts-esophagus|Barrett's esophagus]] and early esophageal neoplasia; photodynamic therapy (historical)
+- **Ablation**: [[radiofrequency-ablation|Radiofrequency ablation (RFA)]] for [[barretts-esophagus|Barrett's esophagus]] and early esophageal neoplasia — the ablation-plus-resection pathway lives on [[endoscopic-eradication-therapy]]; photodynamic therapy (historical)
 
 ## Relationship to Other Subspecialties
 

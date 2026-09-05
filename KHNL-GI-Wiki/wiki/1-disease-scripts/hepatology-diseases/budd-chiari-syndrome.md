@@ -3,7 +3,7 @@ title: "Budd-Chiari Syndrome"
 category: disease-script
 tags: [budd-chiari, hepatic-vein, thrombosis, portal-hypertension, liver-failure, mpn, jak2, anticoagulation, tips]
 created: 2026-05-21
-updated: 2026-09-04
+updated: 2026-09-05
 sources: [baveno-viii-2026-portal-hypertension, acg-2020-hepatic-mesenteric-circulation, baveno-vii-2022-portal-hypertension, aasld-2021-vascular-pvt]
 ---
 
@@ -22,7 +22,7 @@ Budd-Chiari syndrome (BCS) is defined by obstruction of hepatic venous outflow, 
 - **Chronic BCS**: [[cirrhosis|cirrhosis]], established [[portal-hypertension|portal hypertension]], relatively compensated; caudate lobe hypertrophy (drains directly into IVC) is characteristic
 - **~15%–20% are asymptomatic** and diagnosed incidentally — usually partial thrombosis with decompressive collaterals, atrophy of the affected segments and hypertrophy of the well-drained ones ([[aasld-2021-vascular-pvt]]; ACG gives ~20%)
 
-**Frequency of findings at diagnosis** [[aasld-2021-vascular-pvt]]: ascites **83%**, hepatomegaly **67%**, abdominal pain **61%**; oesophageal varices detected in **>50%**. Typical labs: bilirubin and aminotransferase elevation, prolonged PT in severe cases; **ascitic fluid protein is characteristically high**. IVC obstruction (thrombus or compression by a hypertrophied caudate lobe) adds abdominal wall varices, lower-limb edema, or ulcers.
+**Frequency of findings at diagnosis** [[aasld-2021-vascular-pvt]]: ascites **83%**, hepatomegaly **67%**, abdominal pain **61%**; [[variceal-upper-gi-bleeding|oesophageal varices]] detected in **>50%**. Typical labs: bilirubin and aminotransferase elevation, prolonged PT in severe cases; **ascitic fluid protein is characteristically high**. IVC obstruction (thrombus or compression by a hypertrophied caudate lobe) adds abdominal wall varices, lower-limb edema, or ulcers.
 
 **Primary vs secondary ([[baveno-viii-2026-portal-hypertension|Baveno VIII]] 8.21–8.23):** BCS is any obstruction of the hepatic venous outflow tract from the small hepatic veins to the IVC–right atrial junction — and **BCS is the preferred designation for *any* hepatic venous outflow tract obstruction** (8.22; Baveno VII 8.7 said "any *primary*" HVOTO). It is **secondary** when the mechanism is **extrinsic compression *or endoluminal neoplastic/parasitic obstruction***, and **primary** otherwise (8.23). ⚠ **Baveno VIII adds the endoluminal limb** — VII 8.8 named only extrinsic compression by a benign or malignant tumour, which left endoluminal tumour thrombus and parasitic obstruction unclassified.
 
@@ -86,7 +86,7 @@ Key predictors of poor outcome: [[hepatic-encephalopathy|hepatic encephalopathy]
 - **Sinusoidal obstruction syndrome (SOS/VOD)** — occurs after hematopoietic SCT or exposure to pyrrolizidine alkaloids; histologically identical to BCS but no hepatic vein thrombosis on imaging; caudate preserved
 - **Right heart failure / constrictive pericarditis** — elevated JVP, prominent v-waves, hepatojugular reflux; IVC and hepatic vein not occluded; doppler shows pulsatile hepatic venous flow
 - **[[portal-vein-thrombosis]]** — obstruction at portal level, not hepatic outflow; caudate not spared; hepatomegaly less prominent initially
-- **[[acute-liver-failure|Acute liver failure]] from other causes** — viral hepatitis, drugs, AFLP; hepatic veins patent on Doppler
+- **[[acute-liver-failure|Acute liver failure]] from other causes** — viral hepatitis, [[drug-induced-liver-injury|drugs]], [[acute-fatty-liver-of-pregnancy|AFLP]]; hepatic veins patent on Doppler
 
 ---
 
@@ -189,7 +189,7 @@ flowchart TD
 
 ## See Also
 
-[[portal-vein-thrombosis]], [[porto-sinusoidal-vascular-disorder]], [[hepatocellular-carcinoma]], [[acute-liver-failure]], [[liver-transplantation]], [[cirrhosis-hemostasis]], [[portal-hypertension]], [[tips]], [[hepatic-encephalopathy]], [[ascites]], [[jaundice]], [[hcc-surveillance]], [[liver-biopsy]], [[mri-mrcp]], [[focal-liver-lesions]], [[li-rads]], [[cirrhosis]], [[variceal-upper-gi-bleeding]], [[liver-disease-in-pregnancy]]
+[[portal-vein-thrombosis]], [[porto-sinusoidal-vascular-disorder]], [[hepatocellular-carcinoma]], [[hepatocellular-adenoma]], [[acute-liver-failure]], [[drug-induced-liver-injury]], [[acute-fatty-liver-of-pregnancy]], [[liver-transplantation]], [[cirrhosis-hemostasis]], [[portal-hypertension]], [[tips]], [[hepatic-encephalopathy]], [[ascites]], [[jaundice]], [[hcc-surveillance]], [[liver-biopsy]], [[mri-mrcp]], [[focal-liver-lesions]], [[li-rads]], [[cirrhosis]], [[variceal-upper-gi-bleeding]], [[liver-disease-in-pregnancy]], [[celiac-disease]]
 
 ---
 

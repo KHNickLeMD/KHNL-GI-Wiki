@@ -3,7 +3,7 @@ title: "Angioectasia (Angiodysplasia)"
 category: disease-script
 tags: [angioectasia, angiodysplasia, small-bowel, gi-bleeding, vascular-lesion, heydes-syndrome, lvad]
 created: 2026-05-19
-updated: 2026-09-03
+updated: 2026-09-05
 sources: [acg-2015-small-bowel-bleeding]
 ---
 
@@ -63,7 +63,7 @@ sources: [acg-2015-small-bowel-bleeding]
 |---|---|---|
 | Source found on [[capsule-endoscopy\|VCE]] and/or [[device-assisted-enteroscopy\|deep enteroscopy]] **with significant ongoing anemia or active bleeding** | Endoscopic therapy | Strong, low |
 | **No source found** after appropriate small-bowel investigation | Conservative: oral or IV iron per severity/persistence of the [[iron-deficiency-anemia\|iron-deficiency anemia]]. **A small vascular lesion found on capsule endoscopy does not always need treatment.** | Strong, very low |
-| Bleeding **persists with worsening anemia** | Repeat upper + lower endoscopy, VCE, deep enteroscopy, CT or MR enterography as appropriate | Strong, low |
+| Bleeding **persists with worsening anemia** | Repeat [[upper-endoscopy\|upper]] + [[colonoscopy\|lower]] endoscopy, VCE, deep enteroscopy, CT or MR enterography as appropriate | Strong, low |
 | Bleeding **persists/recurs, or lesion cannot be localized** | Consider medical therapy — iron, somatostatin analogs, or antiangiogenic therapy | Strong, **moderate** |
 | Any small-bowel hemorrhage | **Discontinue [[anticoagulation-gi-bleeding\|anticoagulation and/or antiplatelet therapy]] if possible** | Conditional, very low |
 | [[heydes-syndrome\|Heyde's syndrome]] (aortic stenosis + angioectasia) with **ongoing bleeding** | **Aortic valve replacement** | Conditional, moderate |

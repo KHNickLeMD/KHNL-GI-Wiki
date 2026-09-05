@@ -3,7 +3,7 @@ title: "Hepatic Encephalopathy"
 category: disease-script
 tags: [hepatic-encephalopathy, HE, cirrhosis, ammonia, lactulose, rifaximin, TIPS, portal-hypertension, ACLF, minimal-HE, covert-HE, overt-HE, portosystemic-shunting, brain-dysfunction, west-haven, bristol-stool-scale, sarcopenia]
 created: 2026-05-28
-updated: 2026-09-03
+updated: 2026-09-05
 sources: [acg-2026-hepatic-encephalopathy, baveno-viii-2026-portal-hypertension, aasld-easl-2014-hepatic-encephalopathy]
 ---
 
@@ -283,7 +283,7 @@ All elements initiated simultaneously ([[aasld-easl-2014-hepatic-encephalopathy]
 ### De-escalation of Secondary Prophylaxis
 
 - **HE therapy may be de-escalated and potentially discontinued stepwise in patients who clinically recompensate** (ACG 2026, Key concept 16). If asymptomatic on therapy, stop HE medications **sequentially** with close monitoring
-  - ⚠ **The recompensation definition ACG cites has been revised.** ACG 2026 Key concept 16 describes recompensation as resolution of ascites off diuretics, **no variceal bleeding for 12 months**, plus improved albumin, INR and bilirubin — the [[baveno-vii-2022-portal-hypertension|Baveno VII]] wording. **[[baveno-viii-2026-portal-hypertension|Baveno VIII]] 7.4 shortens the sustained-resolution window to **>6 consecutive months** and replaces "improved liver function tests" with a number: **CTP A5/A6**. Full criteria on [[cirrhosis|cirrhosis → Recompensation]]
+  - ⚠ **The recompensation definition ACG cites has been revised.** ACG 2026 Key concept 16 describes recompensation as resolution of ascites off diuretics, **no variceal bleeding for 12 months**, plus improved albumin, INR and bilirubin — the [[baveno-vii-2022-portal-hypertension|Baveno VII]] wording. [[baveno-viii-2026-portal-hypertension|Baveno VIII]] 7.4 shortens the sustained-resolution window to **>6 consecutive months** and replaces "improved liver function tests" with a number: **CTP A5/A6**. Full criteria — and the CTP point table itself — on [[cirrhosis|cirrhosis → Recompensation]]
   - **Baveno VIII 7.7 makes the direction of causation explicit:** absence of HE *while on* lactulose/rifaximin/LOLA is **not** evidence of recompensation — so **withdraw the HE medication** once aetiologic cure/control is achieved and synthetic function has reached CTP A laboratory criteria, and judge recompensation on what happens next. Being off the drug is a criterion, not a consequence
 - 2014 Rec 28 (Grade III, C, 2) similarly allowed discontinuation once precipitants are well controlled or liver function/nutrition significantly improves
 

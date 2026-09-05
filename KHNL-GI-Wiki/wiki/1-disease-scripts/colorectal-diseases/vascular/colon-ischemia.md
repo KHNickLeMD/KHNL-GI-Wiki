@@ -3,7 +3,7 @@ title: "Colon Ischemia"
 category: disease-script
 tags: [colon-ischemia, ischemic-colitis, mesenteric-ischemia, hematochezia, colonoscopy, surgery, vascular]
 created: 2026-05-21
-updated: 2026-08-28
+updated: 2026-09-05
 sources: [acg-2015-colon-ischemia]
 ---
 
@@ -198,7 +198,7 @@ Review and stop implicated drugs, and address precipitants (hypovolemia, hypoten
 | **Diuretics** | **OR 1.6** (1.2–2.1) |
 | **Female hormones** | **OR 1.88** (1.30–2.73). **Oral contraceptives OR 1.05** (1.00–1.10) in one study, risk **unaffected** in two others; **estrogen replacement risk unaffected** — do not overstate these |
 | **Illicit drugs** | Cocaine used by **20%** of CI patients at 2 inner-city hospitals (37% right-sided, **26% mortality**); amphetamines case reports |
-| **Immunomodulators** | Anti-TNF-α, interferon-α/β — FDA AERS case clusters |
+| **Immunomodulators** | [[anti-tnf-agents\|Anti-TNF-α]], interferon-α/β — FDA AERS case clusters |
 | Chemotherapy (taxanes, vinca alkaloids), decongestants (pseudoephedrine, phenylephrine), ergot alkaloids, appetite suppressants, laxatives | Case reports / weak or null case–control signal |
 
 - [[irritable-bowel-syndrome|IBS]] entered the risk-factor conversation because **[[alosetron]]** (for diarrhea-predominant IBS) was withdrawn from the US market after reports of CI among users in the first months after launch

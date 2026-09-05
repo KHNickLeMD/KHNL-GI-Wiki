@@ -3,14 +3,19 @@ title: "MRI / MRCP (Magnetic Resonance Cholangiopancreatography)"
 category: concept
 tags: [imaging, mri, mrcp, pancreas, biliary, hpb]
 created: 2026-06-04
-updated: 2026-08-29
+updated: 2026-09-05
 sources: [asge-2022-pancreatic-cancer-screening, aasld-2022-psc, asge-2023-post-transplant-biliary-strictures, aasld-ast-2025-liver-transplant-graft-complications, asge-2019-choledocholithiasis, acg-2018-pancreatic-cysts, acg-2024-acute-pancreatitis]
 ---
 
 Noninvasive cross-sectional imaging of the pancreaticobiliary system.
 
 - **MRCP** — heavily T2-weighted sequences image the pancreatic and bile ducts **without contrast or instrumentation**.
-- **Contrast-enhanced MRI** — characterizes solid and cystic pancreatic lesions and parenchymal liver disease.
+- **Contrast-enhanced MRI** — characterizes solid and cystic pancreatic lesions and parenchymal liver disease. For a liver observation in a patient at risk for HCC the report is categorized by [[li-rads|LI-RADS]]; outside that at-risk population it is worked up as a [[focal-liver-lesions|focal liver lesion]].
+
+## Contents
+- [[#Technique standards]]
+- [[#Limitations — when MRCP is the wrong test]]
+- [[#Where MRCP carries the decision]]
 
 ## Technique standards
 
@@ -44,7 +49,7 @@ Each row's criteria, thresholds, and intervals live on the linked page — not d
 
 ## See Also
 
-[[pancreatic-cancer-screening]], [[endoscopic-ultrasound]], [[ercp]], [[pancreatic-cancer]], [[pancreatic-cysts]], [[cholangiocarcinoma]], [[chronic-pancreatitis]], [[biliary-stricture]], [[choledocholithiasis]], [[primary-sclerosing-cholangitis]], [[liver-transplantation]], [[peutz-jeghers-syndrome]], [[li-rads]]
+[[pancreatic-cancer-screening]], [[endoscopic-ultrasound]], [[ercp]], [[pancreatic-cancer]], [[pancreatic-cysts]], [[cholangiocarcinoma]], [[chronic-pancreatitis]], [[recurrent-acute-pancreatitis]], [[biliary-stricture]], [[choledocholithiasis]], [[acute-cholangitis]], [[primary-sclerosing-cholangitis]], [[liver-transplantation]], [[peutz-jeghers-syndrome]], [[li-rads]], [[focal-liver-lesions]], [[jaundice]], [[abnormal-liver-chemistries]]
 
 ---
 

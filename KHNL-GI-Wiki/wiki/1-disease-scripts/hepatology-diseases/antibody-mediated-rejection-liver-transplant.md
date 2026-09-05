@@ -3,11 +3,11 @@ title: "Antibody-Mediated Rejection — Liver Transplant"
 category: disease-script
 tags: [antibody-mediated-rejection, amr, liver-transplant, rejection, dsa, c4d, immunosuppression]
 created: 2026-05-25
-updated: 2026-08-30
+updated: 2026-09-05
 sources: [aasld-ast-2025-liver-transplant-graft-complications]
 ---
 
-Rejection of a liver allograft mediated by **donor-specific antibodies (DSA)** against HLA (or non-HLA) antigens on graft endothelium. The liver is relatively resistant to antibody-mediated injury — its regenerative capacity, large sinusoidal network, secreted soluble class I HLA that binds DSA, and variable class II microvascular expression all blunt the attack — so **acute AMR is rare in ABO-compatible recipients** and is seen mainly in ABO-incompatible grafts and highly sensitized recipients.
+Rejection of a [[liver-transplantation|liver allograft]] mediated by **donor-specific antibodies (DSA)** against HLA (or non-HLA) antigens on graft endothelium. The liver is relatively resistant to antibody-mediated injury — its regenerative capacity, large sinusoidal network, secreted soluble class I HLA that binds DSA, and variable class II microvascular expression all blunt the attack — so **acute AMR is rare in ABO-compatible recipients** and is seen mainly in ABO-incompatible grafts and highly sensitized recipients.
 
 ## Contents
 - [[#Assessment]]
@@ -30,7 +30,7 @@ Rejection of a liver allograft mediated by **donor-specific antibodies (DSA)** a
 
 - **DSA titre — what counts as "elevated":** preformed DSA of potential clinical significance was **tentatively defined as MFI ≥5,000** at the 2015 Banff Conference. ⚠ The positivity cutoff **varies by laboratory** and the optimal range is undetermined — the reason Rec 55 declines routine pre-transplant DSA testing (see [[#Diagnostics]]). Interpret an MFI only against the reporting lab's own threshold.
 - **Acute AMR** — graded clinically by depth of unexplained graft dysfunction, thrombocytopenia, and hypocomplementemia; the guideline provides no numeric scale.
-- **Chronic AMR** — occurs in **<10%** of [[liver-transplantation|liver transplant]] recipients; most episodes are **mixed chronic AMR + TCMR**, which is why the features are hard to characterize. Endpoint is graft fibrosis and graft loss.
+- **Chronic AMR** — occurs in **<10%** of liver transplant recipients; most episodes are **mixed chronic AMR + TCMR**, which is why the features are hard to characterize. Endpoint is graft fibrosis and graft loss.
 - *Gap: no Banff AMR grading (h-score, C4d 0–3, Rejection Activity Index) is in any ingested source — a Banff Working Group consensus paper would be needed. [[liver-transplantation]] carries the same gap for the TCMR Rejection Activity Index.*
 
 ### Classification / Typing
@@ -54,7 +54,7 @@ Histologic signature features ([[aasld-ast-2025-liver-transplant-graft-complicat
 - **T-cell–mediated rejection (TCMR)**, early and late — the main alternative; late TCMR shows fewer blastic lymphocytes, more interface/perivenular necroinflammation, less venous endotheliitis.
 - **Plasma cell-rich rejection (PCR)** — >30% plasma cells in portal/perivenular infiltrates, prevalent central perivenulitis, higher incidence of portal microvascular C4d deposition. Whether PCR is a presentation of AMR or a separate entity is unresolved; in one series DSA was positive in 6/19 and C4d in 9/10, so **evaluate for DSA and C4d whenever PCR is diagnosed** to detect a coexistent AMR component.
 - **Chronic ductopenic rejection** — bile duct atrophy/pyknosis in the majority of ducts, foam-cell obliterative arteriopathy or duct loss in >50% of portal tracts, perivenular fibrosis.
-- **Recurrent disease**, biliary and vascular complications (e.g. hepatic artery thrombosis) — must be excluded, particularly for chronic AMR.
+- **Recurrent disease**, [[biliary-stricture|biliary]] and vascular complications (e.g. hepatic artery thrombosis) — must be excluded, particularly for chronic AMR.
 
 ## Diagnostics
 

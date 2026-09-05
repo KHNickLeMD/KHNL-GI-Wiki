@@ -3,7 +3,7 @@ title: "IBD Endoscopic Scoring Indices"
 category: concept
 tags: [ibd, crohns, ulcerative-colitis, endoscopy, scoring, mayo-endoscopic-score, uceis, ses-cd, cdeis, rutgeerts-score]
 created: 2026-07-23
-updated: 2026-08-26
+updated: 2026-09-05
 sources: [aga-2024-ibd-endoscopic-scoring]
 ---
 
@@ -28,7 +28,8 @@ Standardized endoscopic scoring indices for [[ulcerative-colitis]] (MES, UCEIS) 
 - **Clinical–endoscopic dissociation:** as many as **one-half of patients in clinical remission still have endoscopic evidence of active disease** (in SONIC, only half of those in clinical remission had endoscopic healing) — so patients are under- or over-treated when endoscopy is skipped.
 - **STRIDE-II (IOIBD) treat-to-target sequence:** clinical response/remission → biomarker normalization → endoscopic healing. Reducing inflammation matters most **early**, before irreversible injury.
 - **Histologic healing is not yet a recommended endpoint** requiring medical-therapy adjustment.
-- **Uptake problem:** MES and SES-CD are used by [[inflammatory-bowel-disease|IBD]] specialists but **not universally by general gastroenterologists**; interobserver agreement for MES ranges from high to only fair/moderate, and CDEIS agreement for superficial vs deep ulceration is only fair. Dedicated training programs can raise less-experienced endoscopists to expert central-reader level.
+- **Uptake problem:** MES and SES-CD are used by [[inflammatory-bowel-disease|IBD]] specialists but **not universally by general gastroenterologists** — a problem when grading severity at presentation, judging response to therapy, or transferring care. Interobserver agreement for MES ranges from high to only fair/moderate, and CDEIS agreement for superficial vs deep ulceration is only fair. Dedicated training programs can raise less-experienced endoscopists to expert central-reader level, and endoscopy report writers (e.g. Provation) have the scoring systems built in.
+- **Trial central reading:** readers train via a CRO module, then blindly and independently score videos from the onsite endoscopist; **discordance between onsite endoscopist and central reader triggers a second central reader to adjudicate**. Improves accuracy, adds cost.
 
 | Disease | Index | Range | Validation |
 |---|---|---|---|
@@ -51,9 +52,8 @@ Standardized endoscopic scoring indices for [[ulcerative-colitis]] (MES, UCEIS) 
 | **2** | Moderate | Marked erythema, absent vascular pattern, moderate friability, erosions |
 | **3** | Severe | Spontaneous bleeding, ulcerations |
 
-- **Endoscopic improvement** = **MES 0/1** (commonly reported UC trial outcome).
-- **Endoscopic remission (STRIDE-II)** = **MES 0**.
-- **ACT-1/ACT-2 (infliximab):** mucosal healing by **MES 0 or 1 at week 8** was associated with a significantly lower colectomy rate beyond 54 weeks.
+- **ACT-1/ACT-2 ([[anti-tnf-agents|infliximab]]):** mucosal healing by **MES 0 or 1 at week 8** was associated with a significantly lower colectomy rate beyond 54 weeks.
+- Trial cutoffs (improvement, response, remission) are consolidated in [[#Response and Remission Cutoffs]].
 
 ## UCEIS
 
@@ -68,8 +68,7 @@ Standardized endoscopic scoring indices for [[ulcerative-colitis]] (MES, UCEIS) 
 
 - **Simplified (8-point) point ranges:** erosions/ulcers (0–2), vascular pattern (0–2), bleeding (1–4).
 - **Original (11-point) point ranges:** erosions/ulcers (1–4), vascular pattern (1–3), bleeding (1–4).
-- **Endoscopic remission (STRIDE-II)** = **UCEIS 1**.
-- ⚠ **Severity bands undefined:** the source states the specific UCEIS cutoffs corresponding to remission vs mild, moderate, and severe disease **have yet to be defined**. It also does not supply or corroborate any UCEIS ≥7 poor-prognosis threshold.
+- ⚠ **Severity bands undefined:** the source states the specific UCEIS cutoffs corresponding to remission vs mild, moderate, and severe disease **have yet to be defined**. It also does not supply or corroborate any UCEIS ≥7 poor-prognosis threshold (asserted on [[ulcerative-colitis]] from [[acg-2025-uc]]).
 - ⚠ UCEIS was **developed on flexible sigmoidoscopy**; the influence of [[colonoscopy]] on the score is undetermined, and its advantage over MES "has not been confirmed."
 
 ## CDEIS
@@ -110,6 +109,7 @@ Standardized endoscopic scoring indices for [[ulcerative-colitis]] (MES, UCEIS) 
 
 - Modified Multiplier of the SES-CD — assigns **higher weight to certain features and locations** shown to be less likely to heal after 1 year of biologic therapy; established numerical cutoffs prognostic for 1-year endoscopic and clinical remission.
 - Narula et al: significantly more disease progression with **SES-CD ≥4** than <4; **MM-SES-CD <22.5** was the best threshold for predicting disease progression.
+- ⚠ **Decision gap — the multipliers and severity bands are not in this source.** The Update names the tool and the <22.5 progression threshold but gives **no** per-feature/per-location weights, no total range, and no severity-band cutoffs, so MM-SES-CD cannot be calculated or interpreted from this page. Closing it requires ingesting the MM-SES-CD derivation paper (Narula et al, *J Crohns Colitis* 2022;16:1011–1019) — **do not supply the weights from memory.**
 
 ## Modified Rutgeerts Score
 
@@ -127,7 +127,8 @@ Standardized endoscopic scoring indices for [[ulcerative-colitis]] (MES, UCEIS) 
 | Diffuse aphthous ileitis with diffusely inflamed mucosa | **i3** |
 | Diffuse inflammation with large ulcers, nodules, and/or narrowing in the neoterminal ileum | **i4** |
 
-- **Prognosis:** score **i1 or less** = endoscopic remission → lower recurrence risk (**8.6% clinical recurrence at 8 years** after ileocecal resection). **100% of i4 patients** had symptomatic recurrence **by 4 years**.
+- **What the score is for:** it **risk-stratifies patients before initiating medical therapy** — postoperative endoscopy lets therapy be tailored to disease behavior, and **selective immunosuppression adjusted for early recurrence on colonoscopy achieves disease control in most patients**.
+- **Prognosis by band:** score **i1 or less** = endoscopic remission → lower recurrence risk (**8.6% clinical recurrence at 8 years** after ileocecal resection). **100% of i4 patients** had symptomatic recurrence **by 4 years**.
 - ⚠ **Anastomosis-technique dependent:** designed for **end-to-end anastomosis** 30 years ago; ulcers in the blind limb of a **side-to-side** anastomosis may be **ischemic** rather than active CD and may not require treatment. A novel adapted score adds anatomic locations (neoterminal ileum, ileal inlet, ileal body — inlet at higher recurrence risk from fecal-stream stasis/bacterial overgrowth) but **awaits prospective validation**.
 
 ## Response and Remission Cutoffs
@@ -145,6 +146,7 @@ Standardized endoscopic scoring indices for [[ulcerative-colitis]] (MES, UCEIS) 
 
 ## Emerging Indices
 
+- **Virtual chromoendoscopy (VCE) platforms** named by the Update: **NBI** (Olympus), **optical enhancement iSCAN-OE** (Pentax), **FICE / LASEREO** with linked-color imaging and blue-laser imaging (Fujinon).
 - **PICaSSO** (Paddington International Virtual Chromoendoscopy Score): scores **mucosal changes** (elongated crypts, scars, micro-erosions, ulcers) and **vascular changes** (sparse vessels, vessel dilation, crowding, bleeding); **range 0–15**, **endoscopic remission ≤3**. Strong correlation with 5 histological scores; PICaSSO remission **not inferior** to combined endoscopy + histology for predicting clinical outcomes.
 - **Endocytoscopy and probe-based [[confocal-laser-endomicroscopy]]:** ultra-structural characterization predicting outcomes, but interpretation is subjective and needs high expertise/specialized equipment (referral centers only).
 - **[[artificial-intelligence-endoscopy|Artificial intelligence]]:** used to grade UC activity/extent; reduces practice variability and improves endoscopy quality — more studies needed.

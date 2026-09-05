@@ -3,7 +3,7 @@ title: "Colorectal Cancer Screening"
 category: concept
 tags: [crc, colorectal-cancer, screening, colonoscopy, fit, colonoscopy-quality, adenoma, colorectal]
 created: 2026-05-16
-updated: 2026-09-02
+updated: 2026-09-05
 sources: [acg-2021-crc-screening, usmstf-2021-crc-screening-age, aga-2023-crc-screening-risk-stratification, aga-2025-crc-blood-tests]
 ---
 
@@ -113,7 +113,7 @@ What [[acg-2021-crc-screening]] itself recommends (the fuller metric set lives o
 | Rec 13 | **Measure** your individual CIR, ADR, and withdrawal time | Strong / Moderate for ADR; Low for WT and CIR |
 | Rec 14 | ADR **below the recommended minimum threshold (<25%)** → undertake remedial training | Conditional / Very low |
 | Rec 15 | Spend **≥6 minutes** inspecting mucosa during withdrawal | Strong / Low |
-| Rec 16 | Achieve **CIR ≥95% in screening subjects** | Strong / Low |
+| Rec 16 | Achieve **CIR ≥90% overall and ≥95% in screening subjects** | Strong / Low |
 
 - **ADR thresholds — which number applies where** (the three co-exist; Rec 14's `<25%` is the *overall* floor, not a different rule):
 
@@ -138,7 +138,8 @@ What [[acg-2021-crc-screening]] itself recommends (the fuller metric set lives o
 | **1 FDR with CRC or advanced polyp at <60, OR ≥2 FDRs at any age** | Colonoscopy at **age 40 or 10 y before the youngest affected relative, whichever is earlier**; interval colonoscopy **every 5 years** ([[acg-2021-crc-screening]] Rec 9) | Conditional / Very low |
 | **1 FDR with CRC or advanced polyp at ≥60** | Begin at **age 40 or 10 y before the youngest affected relative**, then **resume average-risk screening** ([[acg-2021-crc-screening]] Rec 11) | Conditional / Very low |
 | **Higher familial burden** (more relatives and/or younger age at diagnosis) | Consider **genetic evaluation** ([[acg-2021-crc-screening]] Rec 10) | Conditional / Very low |
-| **Hereditary syndromes (Lynch, FAP, etc.)** | Separate surveillance protocols — see [[lynch-syndrome]], [[familial-adenomatous-polyposis]] | — |
+| **Hereditary syndromes (Lynch, FAP, etc.)** | Separate surveillance protocols — see [[lynch-syndrome]], [[familial-adenomatous-polyposis]], [[serrated-polyposis-syndrome]] | — |
+| **[[inflammatory-bowel-disease\|IBD]]** | Excluded from average-risk screening and from the post-polypectomy grid — dysplasia surveillance strategy on [[ulcerative-colitis]] / [[crohns-disease]] | — |
 
 **[[aga-2023-crc-screening-risk-stratification|AGA 2023 CPU]] simplifies initiation and broadens who counts as increased risk** (Best Practice Advice, unrated — no systematic review was performed):
 
@@ -182,7 +183,7 @@ Low-dose aspirin for CRC chemoprevention in adults aged **50–69** with:
 
 ## See Also
 
-[[colonoscopy]], [[colorectal-cancer]], [[lynch-syndrome]], [[polypectomy]], [[colonoscopy-surveillance]], [[familial-adenomatous-polyposis]], [[capsule-endoscopy]], [[serrated-polyposis-syndrome]], [[artificial-intelligence-endoscopy]]
+[[colonoscopy]], [[colorectal-cancer]], [[lynch-syndrome]], [[polypectomy]], [[colonoscopy-surveillance]], [[familial-adenomatous-polyposis]], [[capsule-endoscopy]], [[serrated-polyposis-syndrome]], [[artificial-intelligence-endoscopy]], [[inflammatory-bowel-disease]], [[ulcerative-colitis]], [[crohns-disease]]
 
 ---
 

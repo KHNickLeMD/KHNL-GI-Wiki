@@ -3,7 +3,7 @@ title: "Hereditary Pancreatitis"
 category: disease-script
 tags: [pancreas, genetics, pancreatitis, prss1, spink1, cftr, ctrc, hereditary-cancer, pancreatic-cancer, tigar-o]
 created: 2026-06-04
-updated: 2026-08-28
+updated: 2026-09-05
 sources: [asge-2022-pancreatic-cancer-screening, acg-2020-chronic-pancreatitis, acg-2015-hereditary-gi-cancer, acg-2024-acute-pancreatitis]
 ---
 
@@ -57,7 +57,7 @@ Pathogenic genes implicated in hereditary/genetic pancreatitis ([[acg-2020-chron
 
 - [[chronic-pancreatitis|Chronic pancreatitis]] of other TIGAR-O etiology — toxic-metabolic (alcohol, smoking, hypercalcemia, hypertriglyceridemia), autoimmune (AIP type 1/2), obstructive ([[pancreas-divisum|pancreas divisum]], ampullary stenosis).
 - **Idiopathic early-onset CP (<35 yr)** — the principal alternative in a young patient; distinguished only by genetic testing.
-- [[acute-pancreatitis|Recurrent acute pancreatitis]] from biliary, post-[[ercp|ERCP]], or traumatic causes.
+- Recurrent acute pancreatitis from biliary, post-[[ercp|ERCP]], or traumatic causes.
 - [[pancreatic-cancer|Pancreatic adenocarcinoma]] — must be considered with any new stricture/mass, new diabetes, or weight loss.
 - [[pancreatic-cysts|IPMN]] — ductal dilation can mimic CP.
 

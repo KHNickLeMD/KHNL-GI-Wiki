@@ -3,8 +3,8 @@ title: "Hepatitis C"
 category: disease-script
 tags: [hepatitis-c, HCV, direct-acting-antivirals, DAA, cirrhosis, HCC, SVR, glecaprevir, pibrentasvir, sofosbuvir, velpatasvir, fibrosis, liver, antiviral, screening]
 created: 2026-05-28
-updated: 2026-09-02
-sources: [aasld-idsa-2023-hcv, aasld-idsa-2011-hcv-genotype1]
+updated: 2026-09-05
+sources: [aasld-idsa-2023-hcv, aasld-idsa-2011-hcv-genotype1, aga-2025-hbv-reactivation]
 ---
 
 ## Assessment
@@ -93,7 +93,7 @@ Universal HCV treatment recommended for all persons with acute or chronic HCV in
 |---|---|---|
 | **Glecaprevir/pibrentasvir (G/P)** (300/120 mg with food) | 8 weeks | Preferred pangenotypic; compensated cirrhosis: 8 wk (EXPEDITION-8, SVR12 98%); genotypes 1–6 |
 | **Sofosbuvir/velpatasvir (SOF/VEL)** (400/100 mg daily) | 12 weeks | Pangenotypic; GT3 + comp cirrhosis: consider NS5A Y93H RAS testing; if present, add wt-based RBV or switch regimen |
-| Ledipasvir/sofosbuvir (LDV/SOF) | 12 wk (GT 1, 4, 5, 6); 8 wk (GT1 without cirrhosis, non-HIV, RNA <6M IU/mL) | Genotype-specific; not for GT6e if subtype known |
+| Ledipasvir/sofosbuvir (LDV/SOF) | 12 wk (GT 1, 4, 5, 6); 8 wk (GT1 without cirrhosis, non-HIV, HCV RNA <6,000,000 IU/mL) | Genotype-specific; not for GT6e if subtype known |
 
 **Minimal monitoring (simplified algorithm):** No pretreatment genotyping; no scheduled on-treatment labs; remote contact at week 4 (adherence) and week 22 (SVR assessment at week 24).
 
@@ -121,7 +121,7 @@ Before initiating:
 - Perform medication reconciliation (drug-drug interaction check)
 - Check quantitative HCV RNA
 - Obtain HIV antibody test
-- Check HBsAg (HBV reactivation risk); if HBsAg+: initiate prophylactic NA therapy
+- Check HBsAg (HBV reactivation risk); if HBsAg+: initiate prophylactic NA therapy — DAA therapy in an HBsAg-positive person is a **high (>10%)** HBVr risk exposure, so prophylaxis rather than monitoring; risk tiers, agent choice, and duration live on [[chronic-hepatitis-b|chronic hepatitis B → HBV Reactivation on Immunosuppression]] ([[aga-2025-hbv-reactivation]])
 - Obtain serum pregnancy test; counsel about pregnancy risks
 - Educate about DAA administration and adherence
 
@@ -199,3 +199,4 @@ For recurrent HCV post liver or kidney transplantation:
 
 1. [[aasld-idsa-2023-hcv|AASLD-IDSA 2023 Hepatitis C Guidance Update]]
 2. [[aasld-idsa-2011-hcv-genotype1|AASLD 2011: Treatment of Genotype 1 Chronic HCV (historical — boceprevir/telaprevir era)]]
+3. [[aga-2025-hbv-reactivation|AGA Clinical Practice Guideline: Prevention and Treatment of HBV Reactivation (2025)]]

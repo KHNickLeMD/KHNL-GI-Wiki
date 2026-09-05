@@ -3,11 +3,28 @@ title: "Hepatocellular Adenoma"
 category: disease-script
 tags: [hca, liver, hpb, focal-liver-lesion, benign-liver-tumor, ocp, hcc-risk, resection]
 created: 2026-05-07
-updated: 2026-08-30
+updated: 2026-09-05
 sources: [acg-2024-focal-liver-lesions]
 ---
 
 # Hepatocellular Adenoma
+
+---
+
+## Contents
+- [[#Assessment]]
+  - [[#Establishing the Diagnosis]]
+  - [[#Severity Assessment]]
+- [[#Differential Diagnosis]]
+- [[#Diagnostics]]
+  - [[#Imaging]]
+- [[#Therapeutics]]
+  - [[#1. Initial Management]]
+  - [[#2. Size- and Sex-Based Pathway (the operative thresholds)]]
+  - [[#3. Surveillance (Women with HCA <5 cm)]]
+  - [[#4. Hemorrhage Management]]
+  - [[#5. Post-Treatment Surveillance]]
+  - [[#6. Pregnancy]]
 
 ---
 
@@ -75,7 +92,7 @@ Risk values below are the ACG **Table 4** "Complications" row (hemorrhage / mali
 
 ### Imaging
 
-**MRI with hepatobiliary contrast agent (gadoxetate disodium) — preferred** [[acg-2024-focal-liver-lesions]]:
+**[[mri-mrcp|MRI]] with hepatobiliary contrast agent (gadoxetate disodium) — preferred** [[acg-2024-focal-liver-lesions]]:
 
 - Hepatobiliary phase: HCA shows **absence of gadoxetate uptake** (iso- or hypointense) — distinguishes from FNH (which takes up gadoxetate)
 - HNF1α-inactivated HCA: T1 hyperintense (fat); signal dropout on in/out-of-phase images
@@ -128,7 +145,7 @@ Risk values below are the ACG **Table 4** "Complications" row (hemorrhage / mali
 | **Man, HCA of any size** | **Surgical resection regardless of size** — commonly beta-catenin mutated, higher malignant-transformation risk | KC 12, KC 14 |
 | **Beta-catenin activated subtype** | **Resect regardless of size** | KC 11 |
 | **Any size, imaging features concerning for malignant transformation** | Treat **as [[hepatocellular-carcinoma\|HCC]]** — surgical resection, locoregional therapy, and/or [[liver-transplantation\|liver transplantation]] | KC 16 |
-| **Requires treatment but cannot undergo resection** | **Embolization or ablation** as alternative (Conditional / Low) | Rec 7 |
+| **Requires treatment but cannot undergo resection** | **Embolization or [[radiofrequency-ablation\|ablation]]** as alternative (Conditional / Low) | Rec 7 |
 
 **Hepatic adenomatosis** = variant with **≥10 hepatic adenomas**; more commonly associated with background steatosis ([[nafld-masld|MASLD]]) or glycogen storage disease (KC 17).
 
@@ -176,7 +193,7 @@ Risk values below are the ACG **Table 4** "Complications" row (hemorrhage / mali
 
 ## See Also
 
-[[focal-liver-lesions]], [[focal-nodular-hyperplasia]], [[hepatic-hemangioma]], [[hepatocellular-carcinoma]], [[hepatic-cysts]], [[li-rads]], [[liver-biopsy]], [[liver-transplantation]], [[nafld-masld]], [[obesity]], [[cirrhosis]]
+[[focal-liver-lesions]], [[focal-nodular-hyperplasia]], [[hepatic-hemangioma]], [[hepatocellular-carcinoma]], [[hepatic-cysts]], [[li-rads]], [[mri-mrcp]], [[liver-biopsy]], [[radiofrequency-ablation]], [[liver-transplantation]], [[nafld-masld]], [[obesity]], [[cirrhosis]]
 
 ---
 

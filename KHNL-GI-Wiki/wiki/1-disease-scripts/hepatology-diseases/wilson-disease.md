@@ -3,8 +3,31 @@ title: "Wilson's Disease"
 category: disease-script
 tags: [wilson-disease, copper, atp7b, hepatic, neuropsychiatric, kayser-fleischer, ceruloplasmin, hpb, liver, genetic, pregnancy, chelation, D-penicillamine, trientine, zinc, Leipzig-score, NWI]
 created: 2026-05-19
-updated: 2026-08-30
+updated: 2026-09-05
 sources: [acg-2017-liver-chemistries, acg-2016-liver-disease-pregnancy, aasld-2022-wilson-disease]
+---
+
+# Wilson's Disease
+
+---
+
+## Contents
+- [[#Assessment]]
+  - [[#Establishing the Diagnosis]]
+  - [[#Severity Assessment]]
+- [[#Differential Diagnosis]]
+- [[#Diagnostics]]
+- [[#Therapeutics]]
+  - [[#General Principles]]
+  - [[#Initial Treatment (GS 16–17)]]
+  - [[#Maintenance Therapy (GS 18)]]
+  - [[#Treatment Monitoring Targets (Table 10, GS 21–24)]]
+  - [[#Special Clinical Situations]]
+  - [[#Nutrition (GS 19–20)]]
+  - [[#Neurological Adjuncts (GS 36–37)]]
+  - [[#Psychiatric Management (GS 38)]]
+  - [[#Wilson's Disease in Pregnancy (GS 33–35)]]
+
 ---
 
 ## Assessment

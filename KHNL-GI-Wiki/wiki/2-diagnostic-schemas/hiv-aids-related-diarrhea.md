@@ -3,7 +3,7 @@ title: "HIV/AIDS-Related Diarrhea"
 category: diagnostic-schema
 tags: [hiv, aids, diarrhea, opportunistic-infections, cd4, immunocompromised]
 created: 2026-06-08
-updated: 2026-09-03
+updated: 2026-09-05
 sources: [acg-2016-acute-diarrhea, asge-2010-diarrhea, idsa-2017-infectious-diarrhea]
 ---
 
@@ -89,7 +89,7 @@ Diarrhea in the HIV/AIDS host, where the differential widens with falling CD4 co
 | Agent, when empiric therapy is given (adults) | **Fluoroquinolone (e.g. ciprofloxacin) or azithromycin**, by local susceptibility and travel history (Rec 31, strong/moderate) |
 | Organism identified | Modify or discontinue the antimicrobial (Rec 38, strong/high) |
 
-- **[[loperamide]]** is endorsed only for **immunocompetent** adults with acute watery diarrhea (Rec 47, weak/moderate), and must be avoided at any age with **fever, inflammatory diarrhea, or [[toxic-megacolon|toxic-megacolon]] risk** (strong/low). **[[probiotics]]** are likewise offered only to **immunocompetent** adults and children (Rec 49, weak/moderate).
+- **[[loperamide]]** is endorsed only for **immunocompetent** adults with acute watery diarrhea (Rec 47, weak/moderate), and must be avoided at any age with **fever, inflammatory diarrhea, or [[toxic-megacolon|toxic megacolon]] risk** (strong/low). **[[probiotics]]** are likewise offered only to **immunocompetent** adults and children (Rec 49, weak/moderate).
 - Symptoms ≥14 days without an identified source → also consider **noninfectious** causes ([[inflammatory-bowel-disease|IBD]], [[irritable-bowel-syndrome|IBS]], lactose intolerance; Rec 27–28).
 
 ## See Also

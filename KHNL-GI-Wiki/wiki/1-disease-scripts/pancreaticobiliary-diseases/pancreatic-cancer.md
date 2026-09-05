@@ -3,7 +3,7 @@ title: "Pancreatic Ductal Adenocarcinoma (Pancreatic Cancer)"
 category: disease-script
 tags: [pancreatic-cancer, pdac, oncology, screening, genetics, brca, eus, hpb]
 created: 2026-06-04
-updated: 2026-09-03
+updated: 2026-09-05
 sources: [jeurnink-2010-sustent-goo, kastelijn-2023-enduro-protocol, asge-2022-pancreatic-cancer-screening, asge-2024-solid-pancreatic-masses, asge-2016-solid-pancreatic-neoplasia, acg-2018-pancreatic-cysts, acg-2015-hereditary-gi-cancer]
 ---
 
@@ -173,7 +173,7 @@ flowchart TD
 | Surgical resection planned **within 3 mo** | Plastic |
 
 - Technique: consider biliary sphincterotomy before stent insertion in a native papilla; use a **10-mm** fully or partially covered SEMS; select the **shortest stent length that bridges the stricture by 10 mm and still ends 2 cm below the hepatic hilum**; with the gallbladder in situ, terminate the proximal end **below the cystic duct take-off**.
-- **Avoid preoperative ERCP** for resectable PDAC with obstructive jaundice in the absence of cholangitis unless operative resection will be substantially delayed — preoperative biliary drainage increases perioperative complications ([[asge-2016-solid-pancreatic-neoplasia]]).
+- **Avoid preoperative ERCP** for resectable PDAC with obstructive jaundice in the absence of [[acute-cholangitis|cholangitis]] unless operative resection will be substantially delayed — preoperative biliary drainage increases perioperative complications ([[asge-2016-solid-pancreatic-neoplasia]]).
 
 **Gastroduodenal obstruction.** Roughly **15–20% of patients with pancreatic adenocarcinoma develop [[gastric-outlet-obstruction|gastric outlet obstruction]]** ([[kastelijn-2023-enduro-protocol]]) — it was the underlying malignancy in 28 of 39 patients in the SUSTENT trial. The choice of palliation is **keyed to expected survival**, because the options fail in opposite directions:
 
@@ -196,7 +196,7 @@ Weigh before enrolling a high-risk individual: across screened cohorts, low-yiel
 
 ## See Also
 
-[[pancreatic-cancer-screening]], [[endoscopic-ultrasound]], [[ercp]], [[mri-mrcp]], [[jaundice]], [[biliary-stricture]], [[pancreatic-cysts]], [[chronic-pancreatitis]], [[exocrine-pancreatic-insufficiency]], [[cholangiocarcinoma]], [[gastroenteropancreatic-neuroendocrine-tumors]], [[brca-pathogenic-variants]], [[familial-pancreatic-cancer]], [[fammm-syndrome]], [[peutz-jeghers-syndrome]], [[lynch-syndrome]], [[hereditary-pancreatitis]], [[obesity]], [[gastric-outlet-obstruction]]
+[[pancreatic-cancer-screening]], [[endoscopic-ultrasound]], [[ercp]], [[mri-mrcp]], [[jaundice]], [[biliary-stricture]], [[pancreatic-cysts]], [[chronic-pancreatitis]], [[exocrine-pancreatic-insufficiency]], [[cholangiocarcinoma]], [[gastroenteropancreatic-neuroendocrine-tumors]], [[brca-pathogenic-variants]], [[familial-pancreatic-cancer]], [[fammm-syndrome]], [[peutz-jeghers-syndrome]], [[lynch-syndrome]], [[hereditary-pancreatitis]], [[obesity]], [[gastric-outlet-obstruction]], [[acute-cholangitis]]
 
 ---
 
@@ -207,3 +207,5 @@ Weigh before enrolling a high-risk individual: across screened cohorts, low-yiel
 3. [[asge-2016-solid-pancreatic-neoplasia|ASGE Guideline: The Role of Endoscopy in the Diagnosis and the Management of Solid Pancreatic Neoplasia (2016)]]
 4. [[acg-2018-pancreatic-cysts|ACG 2018: Diagnosis and Management of Pancreatic Cysts]]
 5. [[acg-2015-hereditary-gi-cancer|ACG 2015: Genetic Testing and Management of Hereditary Gastrointestinal Cancer Syndromes]]
+6. [[jeurnink-2010-sustent-goo|Surgical gastrojejunostomy or endoscopic stent placement for the palliation of malignant gastric outlet obstruction (SUSTENT study): a multicenter randomized trial]]
+7. [[kastelijn-2023-enduro-protocol|Endoscopic ultrasonography-guided gastroenterostomy versus surgical gastrojejunostomy for palliation of malignant gastric outlet obstruction (ENDURO): study protocol for a randomized controlled trial]]

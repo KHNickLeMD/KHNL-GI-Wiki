@@ -3,7 +3,7 @@ title: "Hereditary Hemorrhagic Telangiectasia (HHT)"
 category: disease-script
 tags: [hht, osler-weber-rendu, telangiectasia, avm, hepatic-vascular-malformation, lvm, bevacizumab, gi-bleeding, smad4]
 created: 2026-05-21
-updated: 2026-08-30
+updated: 2026-09-05
 sources: [acg-2020-hepatic-mesenteric-circulation, acg-2015-hereditary-gi-cancer, aga-2022-hamartomatous-polyposis, acg-2015-small-bowel-bleeding]
 ---
 
@@ -32,6 +32,7 @@ HHT (Osler-Weber-Rendu disease) — autosomal dominant disorder of widespread cu
 | **HHT-1** | ***ENG*** (endoglin) | — |
 | **HHT-2** | ***ACVRL1*** (*ALK-1*) | The subtype in which **symptomatic liver involvement is more common** |
 | **JP-HHT** | ***SMAD4*** | Combined HHT + [[juvenile-polyposis-syndrome\|juvenile polyposis]] |
+
 - **Liver vascular malformations (LVMs)** on imaging in **55%** of patients with definite HHT (3 large cohorts). Symptomatic liver involvement is more common in **HHT-2** (see genotype table above)
 
 **Three shunt types** (dual hepatic blood supply), each with a different clinical presentation:

@@ -3,7 +3,7 @@ title: "BRCA1 / BRCA2 Pathogenic Variants"
 category: concept
 tags: [genetics, brca, hereditary-cancer, pancreatic-cancer]
 created: 2026-06-04
-updated: 2026-09-04
+updated: 2026-09-05
 sources: [asge-2022-pancreatic-cancer-screening, acg-2015-hereditary-gi-cancer]
 ---
 
@@ -61,7 +61,7 @@ Every parameter needed to start a carrier on surveillance ([[asge-2022-pancreati
 
 ASGE's rationale for dropping the requirement: family-history data in the risk studies were limited and mixed; several studies found **no association** between family history and pancreatic cancer risk in BRCA1/2; and in 71 BRCA-associated pancreatic cancers, a first- or second-degree family history was present in only **33%** — so **~2 in 3 cancers would have been missed** by a family-history-gated strategy. Family history records are also incomplete, inaccurate, or uninformative in small families.
 
-The family-history gate is the **only** point of disagreement. Both guidelines set the same **start age (50, or 10 y before the youngest affected relative)**, the same **annual** interval, and the same modality pair (**[[endoscopic-ultrasound|EUS]] or [[mri-mrcp|MRI]]**) — ACG 2015 Rec 23 states "EUS or MRI of the pancreas annually starting at age 50 years, or 10 years younger than the earliest age of PC in the family," with [[peutz-jeghers-syndrome|PJS]] starting at 35.
+The family-history gate is the **only** point of disagreement. Both guidelines set the same **start age (50, or 10 y before the youngest affected relative)**, the same **annual** interval, and the same modality pair (**EUS or MRI**) — ACG 2015 Rec 23 states "EUS or MRI of the pancreas annually starting at age 50 years, or 10 years younger than the earliest age of PC in the family," with [[peutz-jeghers-syndrome|PJS]] starting at 35.
 
 ## Other Points
 

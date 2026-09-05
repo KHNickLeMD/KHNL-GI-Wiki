@@ -53,7 +53,7 @@ By trained operators, IUS is comparable to **MRE and CTE** ([[mri-mrcp|MRE]]) fo
 - Response identifiable within **3 months** of biologic initiation.
 - Higher baseline BWT → 42% less likely to reach transmural healing at 1 year.
 - **Sonographic response** = **≥25% BWT reduction**; **transmural healing** = normalization of all IUS parameters (ustekinumab RCT: 46.3% and 24.1% at wk 48). No sonographic response at wk 4 → poor wk-48 endoscopic response (NPV 73%).
-- ≥18% BWT reduction at 4–8 wk post-anti-TNF → 10× likelier wk-12–32 endoscopic response.
+- ≥18% BWT reduction at 4–8 wk post–[[anti-tnf-agents|anti-TNF]] → 10× likelier wk-12–32 endoscopic response.
 - **Postoperative recurrence:** neo-TI/adjacent colon **BWT ≥3 mm + FC ≥50 µg/g** → PPV 74%, NPV 71%.
 
 **Ulcerative colitis** ([[ulcerative-colitis]]):

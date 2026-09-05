@@ -3,7 +3,7 @@ title: "Interventional EUS for Vascular Investigation and Therapy"
 category: advanced-procedure
 tags: [eus, gastric-varices, coil-embolization, cyanoacrylate, eus-ppg, portal-pressure-gradient, portal-vein-sampling, pseudoaneurysm, splenic-artery-embolization, rectal-varices, portal-hypertension]
 created: 2026-07-23
-updated: 2026-09-03
+updated: 2026-09-05
 sources: [aga-2023-interventional-eus-vascular, wang-2026-eus-ppg-delphi-consensus]
 ---
 
@@ -30,7 +30,7 @@ sources: [aga-2023-interventional-eus-vascular, wang-2026-eus-ppg-delphi-consens
 | Intervention | Status | Evidence base |
 |---|---|---|
 | Gastric variceal coil ± glue | Clinically available; **strongest case for adoption at centers of expertise** | 3 retrospective series, 2 small RCTs, meta-analyses |
-| EUS-PPG | Clinically available (FDA-approved device); **43-statement international Delphi consensus now published** | Largest multicenter series **n=385** (zero bleeding events, no platelet/INR exclusion); aggregate AEs **<1%** ([[wang-2026-eus-ppg-delphi-consensus]]) |
+| EUS-PPG | Clinically available (FDA-approved device); **53-statement international Delphi consensus now published** | Largest multicenter series **n=385** (zero bleeding events, no platelet/INR exclusion); aggregate AEs **<1%** ([[wang-2026-eus-ppg-delphi-consensus]]) |
 | Ectopic/rectal varices | Emerging | Case reports + 1 small series |
 | Splenic artery embolization | Emerging | 5-patient series |
 | Arterial bleeding / pseudoaneurysms | Emerging (salvage) | 6- and 8-patient series |

@@ -3,7 +3,7 @@ title: "NAFLD / MASLD (Metabolic Dysfunction-Associated Steatotic Liver Disease)
 category: disease-script
 tags: [nafld, masld, nash, mash, steatosis, metabolic-syndrome, fibrosis, fibroscan, hpb, liver, obesity, diabetes, semaglutide, resmetirom, glp-1, nit, essence-trial, liver-transplant, post-transplant, recurrence]
 created: 2026-05-19
-updated: 2026-09-03
+updated: 2026-09-05
 sources: [aasld-2023-nafld, aasld-2023-masld-nomenclature, aasld-2024-resmetirom, aasld-2024-nilda-blood, aasld-2025-semaglutide-mash, baveno-viii-2026-portal-hypertension, acg-2017-liver-chemistries, aasld-ast-2025-liver-transplant-graft-complications, aasld-ast-2025-liver-transplant-non-graft-complications, aga-2023-nafld-noninvasive-biomarkers]
 ---
 
@@ -26,6 +26,8 @@ sources: [aasld-2023-nafld, aasld-2023-masld-nomenclature, aasld-2024-resmetirom
     - [[#Liver Transplantation]]
   - [[#Cardiometabolic Risk Management in MASLD]]
   - [[#Post-Liver-Transplant MASLD Management]]
+- [[#See Also]]
+- [[#Sources]]
 
 ---
 
@@ -241,7 +243,9 @@ Oral **thyroid hormone receptor-β (THR-β) agonist**; first FDA-approved pharma
 
 **Combination with semaglutide/GLP-1 RA:** not formally studied (MAESTRO-NASH excluded recent GLP-1 RA/TZD/vitamin E initiators); relative efficacy not established — individualize. [[aasld-2025-semaglutide-mash]] [[aasld-2024-resmetirom]]
 
-#### Other Pharmacotherapy (no FDA approval for MASH; AASLD guidance statements) [[aasld-2023-nafld]]
+#### Other Pharmacotherapy (no FDA approval for MASH; AASLD guidance statements)
+
+*All guidance statements below from [[aasld-2023-nafld]].*
 
 - **Semaglutide (GS 24):** can be considered for its approved T2DM/obesity indications in patients with NASH (CV benefit + improves NASH); now FDA-approved for MASH F2–F3 (Aug 2025) — see [[semaglutide]].
 - **Pioglitazone 30–45 mg (GS 25):** improves NASH ± fibrosis; consider in NASH with T2DM (AEs: weight gain, heart failure, bone loss).
@@ -250,7 +254,9 @@ Oral **thyroid hormone receptor-β (THR-β) agonist**; first FDA-approved pharma
 - **Do NOT use** metformin, UDCA, DPP-4 inhibitors, statins (for NASH per se), or silymarin to treat NASH — no meaningful histologic benefit (GS 28).
 - No established pharmacotherapy for simple steatosis (MASL).
 
-#### Bariatric / Metabolic Surgery and Endoscopic Interventions [[aasld-2023-nafld]]
+#### Bariatric / Metabolic Surgery and Endoscopic Interventions
+
+*AASLD positions below from [[aasld-2023-nafld]].*
 
 - [[bariatric-surgery|Bariatric surgery]] (RYGB, sleeve gastrectomy) resolves NASH without worsening fibrosis in ~80% at 1 y (sustained at 5 y); reduces CV/malignancy mortality — consider for eligible non-cirrhotic patients (GS 22).
 - **Decompensated cirrhosis = absolute contraindication**; compensated NASH cirrhosis only at high-volume centers / combined with LT.

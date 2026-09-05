@@ -3,7 +3,7 @@ title: "FLIP Panometry"
 category: advanced-procedure
 tags: [FLIP, panometry, esophageal-motility, EGJ, functional-lumen-imaging, achalasia, EGJOO, foregut]
 created: 2026-05-15
-updated: 2026-09-03
+updated: 2026-09-05
 sources: [dallas-2025-flip-panometry, aga-2025-flip-esophageal]
 ---
 
@@ -180,7 +180,7 @@ The AGA algorithm branches on whether the **endoscopy** is suggestive of achalas
 
 | Points | **C**ontents | **A**natomy | **R**esistance (to scope passage across EGJ) | **S**tasis |
 |---|---|---|---|---|
-| **0** | none | non-dilated lumen | no resistance | no stasis changes or Candida esophagitis |
+| **0** | none | non-dilated lumen | no resistance | no stasis changes or [[infectious-esophagitis\|Candida esophagitis]] |
 | **1** | liquid content | dilated lumen | mild resistance | chronic mucosal stasis changes **or** Candida esophagitis |
 | **2** | solid content | severely dilated lumen | severe resistance | — |
 
@@ -271,7 +271,7 @@ Where the numbers actually change management ([[aga-2025-flip-esophageal]]):
 
 ## See Also
 
-[[achalasia]], [[high-resolution-manometry]], [[chicago-classification-v4]], [[ineffective-esophageal-motility]], [[esophagogastric-junction-outflow-obstruction]], [[distal-esophageal-spasm]], [[hypercontractile-esophagus]], [[hrm-antireflux-surgery]], [[antireflux-surgery]], [[poem]], [[heller-myotomy]], [[pneumatic-dilation]], [[gerd]], [[reflux-testing]], [[eosinophilic-esophagitis]], [[dysphagia]], [[upper-endoscopy]], [[endoscopic-ultrasound]], [[bariatric-surgery]], [[hiatal-hernia]], [[endoscopy-sedation]], [[disorders-of-gut-brain-interaction]]
+[[achalasia]], [[high-resolution-manometry]], [[chicago-classification-v4]], [[ineffective-esophageal-motility]], [[esophagogastric-junction-outflow-obstruction]], [[distal-esophageal-spasm]], [[hypercontractile-esophagus]], [[hrm-antireflux-surgery]], [[antireflux-surgery]], [[poem]], [[heller-myotomy]], [[pneumatic-dilation]], [[gerd]], [[reflux-testing]], [[eosinophilic-esophagitis]], [[dysphagia]], [[upper-endoscopy]], [[endoscopic-ultrasound]], [[bariatric-surgery]], [[hiatal-hernia]], [[endoscopy-sedation]], [[disorders-of-gut-brain-interaction]], [[infectious-esophagitis]]
 
 ---
 

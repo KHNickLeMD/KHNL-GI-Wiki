@@ -3,7 +3,7 @@ title: "Pneumatic Dilation"
 category: advanced-procedure
 tags: [achalasia, pneumatic-dilation, rigiflex, esophageal-motility, les, perforation, foregut]
 created: 2026-08-30
-updated: 2026-09-03
+updated: 2026-09-05
 sources: [acg-2020-achalasia, asge-2020-achalasia, sages-2024-poem]
 ---
 
@@ -39,7 +39,7 @@ Where PD sits among the three definitive achalasia therapies — and how it comp
 ## Technique
 
 - **Dilator:** non-radiopaque **graded-size polyethylene balloon (Rigiflex)**. Three sizes: **3.0, 3.5, 4.0 cm**.
-- **Sedation:** always performed under sedation, **with or without fluoroscopy**.
+- **[[endoscopy-sedation|Sedation]]:** always performed under sedation, **with or without fluoroscopy**.
 - **Positioning — the step that determines effectiveness:** accurate placement of the balloon **across the LES**, confirmed either fluoroscopically or endoscopically by seating the balloon's **two rings at the esophagogastric junction**.
 - **Inflation:** pressure sufficient to **obliterate the fluoroscopic waist** (or reach maximum balloon dilation endoscopically) — usually **10–15 psi of air, held 15–60 seconds**.
 - ⚠ **No standardized protocol exists.** ACG 2020 states there is substantial practice variability in predilation setup, the dilation protocol itself, and postdilation recovery.
@@ -106,7 +106,7 @@ Cumulative good-to-excellent symptom relief, average follow-up **1.6 years** (ra
 
 ## See Also
 
-[[achalasia]], [[chicago-classification-v4]], [[poem]], [[heller-myotomy]], [[high-resolution-manometry]], [[flip-panometry]], [[dysphagia]], [[upper-endoscopy]], [[gerd]], [[proton-pump-inhibitors]], [[antireflux-surgery]], [[esophagogastric-junction-outflow-obstruction]]
+[[achalasia]], [[chicago-classification-v4]], [[poem]], [[heller-myotomy]], [[high-resolution-manometry]], [[flip-panometry]], [[dysphagia]], [[upper-endoscopy]], [[gerd]], [[proton-pump-inhibitors]], [[antireflux-surgery]], [[esophagogastric-junction-outflow-obstruction]], [[endoscopy-sedation]]
 
 ---
 

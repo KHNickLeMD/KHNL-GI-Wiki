@@ -3,7 +3,7 @@ title: "Anti-TNF Agents (TNF-α Antagonists)"
 category: med
 tags: [anti-tnf, infliximab, adalimumab, certolizumab-pegol, golimumab, biologic, ibd, crohns, ulcerative-colitis, immunogenicity, therapeutic-drug-monitoring, biosimilar, immune-checkpoint-inhibitor]
 created: 2026-09-04
-updated: 2026-09-04
+updated: 2026-09-05
 sources: [acg-2025-crohns, acg-2025-uc, acg-2019-uc, aga-2021-crohns-pharm, aga-2024-uc-pharm, aga-2021-ici-colitis-hepatitis]
 ---
 
@@ -29,6 +29,8 @@ Monoclonal TNF-α antagonists — **infliximab, adalimumab, certolizumab pegol, 
 - [[#Safety, Cautions, and Contraindications]]
 - [[#Biosimilars]]
 - [[#Gaps]]
+- [[#See Also]]
+- [[#Sources]]
 
 ---
 
@@ -123,7 +125,7 @@ From [[aga-2021-ici-colitis-hepatitis]] (Best Practice Advice 6; expert review �
 | Postoperative risk profile | Management |
 |---|---|
 | **Low risk** — nonsmoker **and** no penetrating disease **and** never had a prior surgical resection | Reasonable to give **no treatment** after surgery, with [[colonoscopy]] at **6 months** to assess for recurrence |
-| Nonsmoker **with penetrating disease**, no prior resection, no prior medication | **Thiopurines ± metronidazole**, then colonoscopy at **6 months**; if endoscopic recurrence at **Rutgeerts score i2b or higher** → **add anti-TNF** |
+| Nonsmoker **with penetrating disease**, no prior resection, no prior medication | **Thiopurines ± metronidazole**, then colonoscopy at **6 months**; if endoscopic recurrence at **[[ibd-endoscopic-scoring\|Rutgeerts score]] i2b or higher** → **add anti-TNF** |
 | **Prior resection within a 10-year period** | **Postoperative anti-TNF therapy** |
 
 - Postoperative endoscopic assessment at **6–12 months** is suggested over no monitoring (Conditional — Rec 30). Risk factors for postoperative recurrence: **smoking, >1 resection, penetrating phenotype, short disease duration** ([[acg-2025-crohns]]).

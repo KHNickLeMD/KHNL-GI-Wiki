@@ -3,9 +3,23 @@ title: "Hereditary Diffuse Gastric Cancer"
 category: disease-script
 tags: [hdgc, cdh1, e-cadherin, diffuse-gastric-cancer, signet-ring-cell, lobular-breast-cancer, hereditary-cancer, prophylactic-gastrectomy, genetic-testing]
 created: 2026-05-19
-updated: 2026-08-28
-sources: [acg-2015-hereditary-gi-cancer]
+updated: 2026-09-05
+sources: [acg-2015-hereditary-gi-cancer, nccn-2026-gastric-cancer, aga-2025-gastric-cancer-screening]
 ---
+
+## Contents
+- [[#Assessment]]
+  - [[#Establishing the Diagnosis]]
+  - [[#Severity Assessment]]
+- [[#Differential Diagnosis]]
+- [[#Diagnostics]]
+  - [[#Genetic Testing]]
+  - [[#Endoscopic Surveillance]]
+- [[#Therapeutics]]
+  - [[#Prophylactic Gastrectomy]]
+  - [[#Surveillance for Those Declining Gastrectomy]]
+- [[#See Also]]
+- [[#Sources]]
 
 ## Assessment
 
@@ -93,7 +107,9 @@ Key data:
 
 **Specimen handling**: identify **both the esophageal and duodenal mucosa at the ends of the surgical specimen** — gastric cancer after prophylactic gastrectomy has been reported [[acg-2015-hereditary-gi-cancer]].
 
-> **Corpus gap — extent of resection.** [[acg-2015-hereditary-gi-cancer]] recommends "prophylactic gastrectomy after age 20 years" but **does not state total vs partial gastrectomy**, reconstruction, or perioperative management, and no other ingested source covers it. Not asserted here from general knowledge; an IGCLC/NCCN HDGC-specific source would be needed.
+> **Corpus gap — extent of resection.** [[acg-2015-hereditary-gi-cancer]] recommends "prophylactic gastrectomy after age 20 years" but **does not state total vs partial gastrectomy**, reconstruction, or perioperative management, and no other ingested source covers it. Not asserted here from general knowledge.
+>
+> **The source that would close it is named by an ingested guideline.** [[nccn-2026-gastric-cancer|NCCN 2026 Gastric Cancer]] does **not** carry HDGC management itself — it explicitly defers to the separate **NCCN Guidelines for Genetic/Familial High-Risk Assessment: Colorectal, Endometrial, and Gastric**, which is where NCCN puts *Testing Criteria for Hereditary Diffuse Gastric Cancer*, *CDH1 Gastric Cancer Risks*, and *Management of Gastric Cancer Risk in CDH1 Pathogenic Variant Carriers*. Ingesting that document (or an IGCLC HDGC consensus) is what would close this gap. Note also that [[aga-2025-gastric-cancer-screening|AGA 2025 gastric cancer screening]] puts HDGC **out of scope**, so it cannot close it.
 
 **Post-gastrectomy**:
 
@@ -116,3 +132,5 @@ Key data:
 ## Sources
 
 1. [[acg-2015-hereditary-gi-cancer|ACG 2015: Genetic Testing and Management of Hereditary Gastrointestinal Cancer Syndromes]]
+2. [[nccn-2026-gastric-cancer|NCCN Clinical Practice Guidelines in Oncology: Gastric Cancer (Version 3.2026)]]
+3. [[aga-2025-gastric-cancer-screening|AGA 2025 Clinical Practice Update: Screening and Surveillance in Individuals at Increased Risk for Gastric Cancer in the United States]]

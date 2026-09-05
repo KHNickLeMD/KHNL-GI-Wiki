@@ -3,7 +3,7 @@ title: "Eosinophilic Esophagitis"
 category: disease-script
 tags: [eoe, esophageal, dysphagia, food-impaction, eosinophil, atopic, biologic, dupilumab]
 created: 2026-05-07
-updated: 2026-08-31
+updated: 2026-09-05
 sources: [acg-2025-eoe, aga-2020-eoe, acg-2013-eoe, aga-2024-esophageal-immunity-infection, asge-2011-foreign-body-ingestion]
 ---
 
@@ -236,7 +236,7 @@ Severity is assessed across three domains — **symptoms, endoscopic activity (E
 - Omalizumab (anti-IgE): no efficacy; EoE is not IgE-mediated
 - Montelukast: not effective in RCT
 - Cromolyn: no benefit in RCT
-- Infliximab/vedolizumab: case reports only
+- [[anti-tnf-agents|Infliximab]]/[[vedolizumab]]: case reports only
 
 ### Adjunct: Esophageal Dilation
 

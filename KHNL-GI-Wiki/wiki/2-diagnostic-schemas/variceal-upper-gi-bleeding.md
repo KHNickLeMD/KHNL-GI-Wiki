@@ -3,7 +3,7 @@ title: "Variceal Upper GI Bleeding"
 category: diagnostic-schema
 tags: [cirrhosis, portal-hypertension, variceal-bleeding, upper-gi-bleeding, hemostasis, antibiotic-prophylaxis, TIPS, EVL, carvedilol, NSBB, gastric-varices, preemptive-TIPS]
 created: 2026-05-15
-updated: 2026-09-04
+updated: 2026-09-05
 sources: [baveno-viii-2026-portal-hypertension, albhaisi-2025-prophylactic-antibiotics-cirrhosis, aasld-2023-portal-hypertension, baveno-vii-2022-portal-hypertension, aga-2024-vasoactive-albumin-cirrhosis, aasld-2024-tips]
 ---
 
@@ -107,6 +107,28 @@ In a cirrhotic patient with UGIB, consider:
 - **HCC alone may not preclude treatment** — decide within a multidisciplinary framework, accounting for futility criteria that relate to **both liver function and tumour prognosis** (5.46)
 - **Cirrhosis + [[portal-vein-thrombosis|PVT]]:** manage AVB as in patients without PVT; in selected patients **TIPS ± portal vein recanalisation** when other portal-hypertension factors are present (ascites, documented PVT progression) or the patient is a transplant candidate (5.45)
 
+## Key Tests
+
+| Test | Purpose |
+|------|---------|
+| CBC, BMP, LFTs, coagulation (PT/INR) | Severity, coagulopathy |
+| Blood cultures × 2 | Bacteremia (obtain before antibiotics) |
+| Urinalysis | Rule out UTI as precipitant |
+| MELD, Child-Pugh score | Prognosis, TIPS candidacy |
+| Abdominal ultrasound with Doppler | Portal vein patency, splenomegaly, [[ascites]] |
+| EGD (within 12 hours) | Diagnosis + treatment |
+| HVPG (if available) | **≥20 mmHg** = high-risk; a pre-emptive TIPS criterion |
+| Contrast-enhanced CT or MRI | **Every** AVB — exclude portal/splanchnic vein thrombosis and HCC, map portosystemic collaterals |
+
+## Red Flags / Alarm Features
+
+- Hemodynamic instability not responding to resuscitation → emergent endoscopy/TIPS consultation
+- Active spurting at endoscopy with failed EVL → surgical/IR consult for rescue TIPS or shunt
+- CTP class C (score 10–13), or CTP class B >7 with active bleeding at endoscopy, or **HVPG ≥20 mmHg** → preemptive TIPS within 72 hours (ideally <24 h); **within 2 weeks (CTP C 10–13) or 1 week (CTP B >7 + active bleeding) if the window was missed**. **MELD is not an indication** — AASLD notes only that retrospective series show high mortality despite intervention at **MELD >19**, where early TIPS still beats standard therapy and transplant candidacy should be assessed promptly
+- Fundal/cardiofundal gastric varices (GOV2, IGV1) → do not band; require glue or BRTO/TIPS
+- [[hepatic-encephalopathy|Encephalopathy]] → cautious [[endoscopy-sedation|sedation for endoscopy]]; lactulose/[[rifaximin]]; avoid over-transfusion
+- Rebleed within 5 days → high mortality; escalate to TIPS
+
 ## Cardiofundal Varices (GOV2/IGV1) — the Bimodal Pathway
 
 **Baveno VIII 5.38–5.41 restructures gastric variceal bleeding.** The **Sarin classification** (GOV1/2, IGV1/2) is formally recommended to harmonise reporting, stratify bleeding risk, and inform therapy (5.38) — type definitions live on [[portal-hypertension|portal hypertension → Gastric and Ectopic Varices]].
@@ -145,28 +167,6 @@ Standard practice recommends prophylactic antibiotics to prevent bacterial infec
 **Current recommendation**: The 5–7 day duration recommendation is not supported by high-quality evidence. An individualized approach is reasonable — consider patient-specific factors (liver disease severity, local resistance patterns). Shorter durations (2–3 days) may be acceptable in lower-risk patients if prophylaxis is used.
 
 **[[baveno-viii-2026-portal-hypertension|Baveno VIII]] 5.10 now says this in a guideline.** Antibiotics remain **recommended at presentation** (LoE 1, strong), but **duration and need could be individualized based on infection risk and cirrhosis severity, "as Child-Pugh A patients may only require a shorter course or no therapy"** (LoE 2, weak). Baveno VII 6.8 had said only that prospective studies were still needed before antibiotics could be avoided in Child-Pugh A. An RCT of preventive antibiotics vs none in Child-Pugh A remains a research-agenda item (RA5.2) — so **do not omit prophylaxis outside a Child-Pugh A patient**, and document the reasoning when you do.
-
-## Key Tests
-
-| Test | Purpose |
-|------|---------|
-| CBC, BMP, LFTs, coagulation (PT/INR) | Severity, coagulopathy |
-| Blood cultures × 2 | Bacteremia (obtain before antibiotics) |
-| Urinalysis | Rule out UTI as precipitant |
-| MELD, Child-Pugh score | Prognosis, TIPS candidacy |
-| Abdominal ultrasound with Doppler | Portal vein patency, splenomegaly, [[ascites]] |
-| EGD (within 12 hours) | Diagnosis + treatment |
-| HVPG (if available) | **≥20 mmHg** = high-risk; a pre-emptive TIPS criterion |
-| Contrast-enhanced CT or MRI | **Every** AVB — exclude portal/splanchnic vein thrombosis and HCC, map portosystemic collaterals |
-
-## Red Flags / Alarm Features
-
-- Hemodynamic instability not responding to resuscitation → emergent endoscopy/TIPS consultation
-- Active spurting at endoscopy with failed EVL → surgical/IR consult for rescue TIPS or shunt
-- CTP class C (score 10–13), or CTP class B >7 with active bleeding at endoscopy, or **HVPG ≥20 mmHg** → preemptive TIPS within 72 hours (ideally <24 h); **within 2 weeks (CTP C 10–13) or 1 week (CTP B >7 + active bleeding) if the window was missed**. **MELD is not an indication** — AASLD notes only that retrospective series show high mortality despite intervention at **MELD >19**, where early TIPS still beats standard therapy and transplant candidacy should be assessed promptly
-- Fundal/cardiofundal gastric varices (GOV2, IGV1) → do not band; require glue or BRTO/TIPS
-- [[hepatic-encephalopathy|Encephalopathy]] → cautious [[endoscopy-sedation|sedation for endoscopy]]; lactulose/[[rifaximin]]; avoid over-transfusion
-- Rebleed within 5 days → high mortality; escalate to TIPS
 
 ---
 

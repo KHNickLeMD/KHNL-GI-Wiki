@@ -3,7 +3,7 @@ title: "Disconnected Pancreatic Duct (DPD) and DPD Syndrome"
 category: disease-script
 tags: [pancreas, disconnected-pancreatic-duct, dpds, necrotizing-pancreatitis, acute-pancreatitis, walled-off-necrosis, lams, double-pigtail-stent, ercp, eus, mrcp]
 created: 2026-08-28
-updated: 2026-08-28
+updated: 2026-09-05
 sources: [uspg-2025-disconnected-pancreatic-duct, aga-2020-cpu-pancreatic-necrosis, asge-2016-pancreatic-fluid-collections]
 ---
 
@@ -161,7 +161,7 @@ flowchart TD
 
 ### Drainage Route
 
-- **Endoscopic transmural drainage is superior to transpapillary drainage** (systematic reviews): success **>90%** transmural vs **~55%** transpapillary. ⚠ Caveat stated by the source: these studies mix pseudocysts and necrosis and use differing DPD definitions.
+- **Endoscopic transmural drainage is superior to transpapillary drainage** (systematic reviews): success **>90%** transmural vs **~55%** transpapillary. ⚠ Caveat stated by the source: these studies mix [[pancreatic-cysts|pseudocysts]] and necrosis and use differing DPD definitions.
 - Full pancreatic-fluid-collection drainage technique, stent choice (LAMS vs plastic), and direct endoscopic necrosectomy live on [[acute-pancreatitis]] — not repeated here.
 - Long-term indwelling transmural stents may reduce recurrence after main-duct disruption in the body/tail ([[asge-2016-pancreatic-fluid-collections]]).
 

@@ -3,7 +3,7 @@ title: "Chronic Hepatitis B"
 category: disease-script
 tags: [hepatitis-b, HBV, antiviral, nucleoside-analogues, HCC-surveillance, immune-tolerant, indeterminate, functional-cure, pregnancy, co-infection, hbv-reactivation, antiviral-prophylaxis]
 created: 2026-05-15
-updated: 2026-08-31
+updated: 2026-09-05
 sources: [aasld-idsa-2025-chb-treatment, acg-2016-liver-disease-pregnancy, aga-2025-hbv-reactivation, aga-2024-pregnancy-gi-liver]
 ---
 
@@ -142,7 +142,7 @@ Rationale: HBsAg loss only ~11% at 2 years off therapy; ALT flares 27%; re-treat
 
 For patients strongly desiring to stop (ALL criteria must be met):
 
-- No history of cirrhosis/advanced fibrosis, hepatic decompensation (variceal bleed, [[ascites]], [[hepatic-encephalopathy|HE]], [[aki-in-cirrhosis|hepatorenal syndrome]]), HCC, or extrahepatic HBV complications
+- No history of cirrhosis/advanced fibrosis, hepatic decompensation ([[variceal-upper-gi-bleeding|variceal bleed]], [[ascites]], [[hepatic-encephalopathy|HE]], [[aki-in-cirrhosis|hepatorenal syndrome]]), HCC, or extrahepatic HBV complications
 - HBV DNA undetectable ≥2 years (applies whether HBeAg+ or HBeAg− at treatment start)
 - If HBeAg+ at treatment start → HBeAg seroconversion + anti-HBe positive ≥1 year
 - qHBsAg <100 IU/mL
@@ -197,7 +197,7 @@ Switch options: ETV → TDF or TAF; TDF → TAF or ETV; TAF → ETV.
 | Exposure (example agents) | HBsAg-positive | HBsAg-negative / anti-HBc–positive |
 |---|---|---|
 | Anthracyclines (doxorubicin, epirubicin) | High | Moderate |
-| Anti-TNF (infliximab, adalimumab) | High | Low |
+| [[anti-tnf-agents\|Anti-TNF]] (infliximab, adalimumab) | High | Low |
 | Anti–IL-6 (tocilizumab) | High | Moderate |
 | Anti–T-cell (abatacept) | Moderate | Moderate |
 | **B-cell–depleting (rituximab, ofatumumab)** | **High** | **High** |
@@ -208,7 +208,7 @@ Switch options: ETV → TDF or TAF; TDF → TAF or ETV; TAF → ETV.
 | JAK inhibitors (tofacitinib, baricitinib) | High | Moderate |
 | TACE (for HCC) | High | Moderate |
 | TKIs (imatinib, sunitinib) | High | Moderate |
-| Methotrexate, 6-mercaptopurine, azathioprine | Low | Low |
+| Methotrexate, [[thiopurines\|6-mercaptopurine, azathioprine]] | Low | Low |
 | Corticosteroid **≥4 wk**, moderate (10–20 mg prednisone-equiv) or high (>20 mg) dose | High | Moderate |
 | Corticosteroid **≥4 wk**, low dose (<10 mg) | Moderate | Low |
 | Corticosteroid **<1 wk**, any dose | Low | Low |
@@ -265,7 +265,7 @@ Goal: HBV DNA <lower limit of quantification. HBV not transmitted by casual cont
 
 ## See Also
 
-[[hepatitis-d]], [[hepatitis-c]], [[hepatocellular-carcinoma]], [[hcc-surveillance]], [[portal-hypertension]], [[acute-on-chronic-liver-failure]], [[liver-transplantation]], [[aki-in-cirrhosis]], [[liver-disease-in-pregnancy]], [[abnormal-liver-chemistries]], [[noninvasive-liver-disease-assessment]], [[autoimmune-hepatitis]], [[drug-induced-liver-injury]], [[alcohol-associated-liver-disease]], [[nafld-masld]], [[wilson-disease]], [[direct-acting-antivirals]], [[liver-biopsy]], [[cirrhosis]], [[liver-stiffness-measurement]]
+[[hepatitis-d]], [[hepatitis-c]], [[hepatocellular-carcinoma]], [[hcc-surveillance]], [[portal-hypertension]], [[acute-on-chronic-liver-failure]], [[liver-transplantation]], [[aki-in-cirrhosis]], [[liver-disease-in-pregnancy]], [[abnormal-liver-chemistries]], [[noninvasive-liver-disease-assessment]], [[autoimmune-hepatitis]], [[drug-induced-liver-injury]], [[alcohol-associated-liver-disease]], [[nafld-masld]], [[wilson-disease]], [[direct-acting-antivirals]], [[liver-biopsy]], [[cirrhosis]], [[liver-stiffness-measurement]], [[variceal-upper-gi-bleeding]], [[anti-tnf-agents]], [[thiopurines]]
 
 ---
 

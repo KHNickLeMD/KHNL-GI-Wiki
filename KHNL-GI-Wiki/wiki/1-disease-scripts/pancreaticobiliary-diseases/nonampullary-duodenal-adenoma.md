@@ -3,8 +3,8 @@ title: "Nonampullary Duodenal Adenoma"
 category: disease-script
 tags: [duodenal-adenoma, nonampullary-adenoma, endoscopic-mucosal-resection, cold-snare, familial-adenomatous-polyposis, spiegelman, surveillance, gi-bleeding, perforation]
 created: 2026-07-21
-updated: 2026-09-03
-sources: [aga-2025-nonampullary-duodenal, asge-2015-ampullary-duodenal-adenomas]
+updated: 2026-09-05
+sources: [aga-2025-nonampullary-duodenal, asge-2015-ampullary-duodenal-adenomas, acg-2015-hereditary-gi-cancer]
 ---
 
 # Nonampullary Duodenal Adenoma
@@ -142,3 +142,4 @@ Describe every duodenal polyp by **(BPA 3):**
 
 1. [[aga-2025-nonampullary-duodenal|AGA 2025 Clinical Practice Update on Nonampullary Duodenal Lesions]]
 2. [[asge-2015-ampullary-duodenal-adenomas|ASGE 2015: The Role of Endoscopy in Ampullary and Duodenal Adenomas]]
+3. [[acg-2015-hereditary-gi-cancer|ACG 2015: Genetic Testing and Management of Hereditary Gastrointestinal Cancer Syndromes]]
