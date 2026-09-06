@@ -3,7 +3,7 @@ title: "Clostridioides difficile Infection"
 category: disease-script
 tags: [cdiff, clostridioides-difficile, colitis, vancomycin, fidaxomicin, fmt, colorectal]
 created: 2026-05-15
-updated: 2026-09-05
+updated: 2026-09-06
 sources: [acg-2021-cdiff, aga-2024-fmt, aga-2026-cdiff-adults, aga-2026-cdiff-ibd, feuerstadt-2022-ser109-cdiff]
 ---
 
@@ -64,8 +64,8 @@ sources: [acg-2021-cdiff, aga-2024-fmt, aga-2026-cdiff-adults, aga-2026-cdiff-ib
 
 | Severity | Criteria |
 |---|---|
-| **Non-severe** | WBC <15,000 cells/mm³ AND creatinine below the severe threshold |
-| **Severe** | WBC >15,000 cells/mm³ **OR** creatinine **>1.5 mg/dL** *(IDSA 2018 absolute cutoff)* **or >1.5 × premorbid baseline** *(ratio — accepted by [[aga-2026-cdiff-adults\|AGA 2026]])* |
+| **Non-severe** | **Neither** severe criterion — WBC <15,000 cells/mm³ **AND** creatinine ≤1.5 mg/dL (or ≤1.5 × premorbid baseline) [[acg-2021-cdiff]] |
+| **Severe** | WBC **≥15,000 cells/mm³** *([[acg-2021-cdiff\|ACG 2021]], carrying IDSA 2018; [[aga-2026-cdiff-adults\|AGA 2026]] words it as **>15,000 cells/µL** — same volume unit, so only an exact count of 15,000 differs)* **OR** creatinine **>1.5 mg/dL** *(IDSA 2018 absolute cutoff)* **or >1.5 × premorbid baseline** *(ratio — accepted by [[aga-2026-cdiff-adults\|AGA 2026]])* |
 | **Fulminant** | Severe CDI criteria PLUS: hypotension/shock OR ileus OR megacolon |
 
 > **Which creatinine rule — both are current.** The **2010** IDSA rule used the **ratio** (≥1.5× above baseline). The **2018** update replaced it with the **absolute >1.5 mg/dL** because a baseline is often unavailable at diagnosis, while acknowledging the absolute cutoff is **not helpful in underlying renal disease** ([[acg-2021-cdiff]]). The newer [[aga-2026-cdiff-adults|AGA 2026 CPU]] states the criterion as **>1.5 × baseline** and accepts **either** form. Practical reading: use the ratio when a premorbid creatinine exists (especially in CKD), the absolute cutoff when it does not.

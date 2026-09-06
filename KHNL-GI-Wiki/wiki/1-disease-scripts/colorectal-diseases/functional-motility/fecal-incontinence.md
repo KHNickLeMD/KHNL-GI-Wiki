@@ -3,7 +3,7 @@ title: "Fecal Incontinence"
 category: disease-script
 tags: [fecal-incontinence, anorectal, biofeedback, sacral-nerve-stimulation, pelvic-floor, colorectal]
 created: 2026-05-16
-updated: 2026-09-05
+updated: 2026-09-06
 sources: [acg-2021-anorectal-disorders, asge-2010-anorectal-disorders, rome-v-2026-dgbi]
 ---
 
@@ -62,7 +62,7 @@ Severity is graded from **symptom burden** (type, frequency, and amount of leaka
 
 ## Differential Diagnosis
 
-*No diagnostic schema for anorectal symptoms exists yet in the wiki; the stepwise evaluation is under [[#Diagnostics]] below.*
+*Workup of the bowel-habit driver — overflow FI from impaction, and the constipation-associated FI treated with fiber: see [[chronic-constipation]]. No anorectal-symptom schema exists yet in the wiki, so the FI-specific stepwise evaluation is under [[#Diagnostics]] below.*
 
 | Cause | Key Features |
 |-------|-------------|
@@ -84,7 +84,7 @@ Severity is graded from **symptom burden** (type, frequency, and amount of leaka
 - **Bristol Stool Form Scale + bowel diary** — characterize stool consistency and frequency; soft/liquid stools worsen FI
 - **Digital rectal examination (DRE):** assess resting and squeeze tone, palpate for masses, check for fecal impaction, assess pelvic floor motion during simulated defecation
 - **Laboratory:** CBC, thyroid function if diarrhea-prominent or systemic features
-- **Structural endoscopic evaluation:** all FI patients should undergo flexible sigmoidoscopy or [[colonoscopy]] as indicated by age, family history, and prior endoscopic evaluation — to exclude mucosal disease (IBD, neoplasia, radiation proctopathy). *(ASGE 2010)* [[asge-2010-anorectal-disorders]]
+- **Structural endoscopic evaluation:** all FI patients should undergo flexible sigmoidoscopy or [[colonoscopy]] as indicated by age, family history, and prior endoscopic evaluation — to exclude mucosal disease (IBD, [[colorectal-cancer|neoplasia]], radiation proctopathy). *(ASGE 2010)* [[asge-2010-anorectal-disorders]]
 
 ### Anorectal Physiology (for patients not responding to conservative measures)
 
@@ -172,7 +172,7 @@ Severity is graded from **symptom burden** (type, frequency, and amount of leaka
 ---
 
 ## See Also
-[[defecation-disorders]], [[proctalgia-syndromes]], [[chronic-idiopathic-constipation]], [[chronic-diarrhea]], [[hemorrhoids]], [[anal-fissure]], [[rectal-prolapse]], [[radiation-proctopathy]], [[sacral-nerve-stimulation]], [[biofeedback-therapy]], [[anorectal-manometry]], [[loperamide]], [[bile-acid-diarrhea]], [[ostomy-management]], [[inflammatory-bowel-disease]], [[enterotoxigenic-e-coli]]
+[[defecation-disorders]], [[proctalgia-syndromes]], [[chronic-constipation]], [[chronic-idiopathic-constipation]], [[chronic-diarrhea]], [[hemorrhoids]], [[anal-fissure]], [[rectal-prolapse]], [[radiation-proctopathy]], [[colorectal-cancer]], [[sacral-nerve-stimulation]], [[biofeedback-therapy]], [[anorectal-manometry]], [[loperamide]], [[bile-acid-diarrhea]], [[ostomy-management]], [[inflammatory-bowel-disease]], [[enterotoxigenic-e-coli]]
 
 ---
 

@@ -3,7 +3,7 @@ title: "Hereditary Hemochromatosis"
 category: disease-script
 tags: [hemochromatosis, iron-overload, hfe, c282y, phlebotomy, liver, hpb, genetics, ferritin, transferrin-saturation, cirrhosis, hcc, arthropathy, cardiomyopathy, endocrine]
 created: 2026-05-19
-updated: 2026-09-05
+updated: 2026-09-06
 sources: [acg-2019-hereditary-hemochromatosis, acg-2017-liver-chemistries, aasld-2011-hemochromatosis]
 ---
 
@@ -101,6 +101,8 @@ sources: [acg-2019-hereditary-hemochromatosis, acg-2017-liver-chemistries, aasld
 2. Hepatic iron concentration (HIC) >71 µmol/g dry weight
 3. Hepatic iron index (HII = HIC ÷ patient age in years) >1.9 (the guideline uses ≥1.9 when contrasting homozygotes with compound heterozygotes/secondary overload)
 
+**What "grade 4" means** — [[acg-2019-hereditary-hemochromatosis]] states criterion 1 without defining the scale; [[aasld-2011-hemochromatosis]] supplies it. The **Batts–Ludwig** system grades stainable hepatic iron **1 → 4** by the proportion and zonal distribution of iron-staining hepatocytes, from **zone 1 (periportal) only**, extending to include **zones 2 and 3 (pericentral)**; **grade 4 = panlobular iron deposition**. (A separate semiquantitative "histological hepatic iron index" scores granule size/density in hepatocytes, sinusoidal lining cells, and portal cells — validated but **research-only**, not in clinical use.)
+
 **Fibrosis staging note**: SF level is a better surrogate for fibrosis than HIC for long-term risk. [[liver-stiffness-measurement|Transient elastography]] has not been validated in HH (does not correlate with SF).
 
 ### Classification / Typing
@@ -184,6 +186,8 @@ sources: [acg-2019-hereditary-hemochromatosis, acg-2017-liver-chemistries, aasld
 **Key stains**: H&E (hepatocyte architecture), Masson's trichrome (fibrosis staging), Perls' Prussian blue (iron distribution)
 
 **HII**: HIC (µmol/g dry weight) ÷ patient age; ≥1.9 distinguishes HFE homozygotes from compound heterozygotes and secondary iron overload
+
+- ⚠ **A normal HII does not exclude HH.** [[aasld-2011-hemochromatosis]] notes that since genetic testing became available, phenotypic expression of C282Y homozygosity has been shown to occur at **much lower HIC and much lower HII**, so HII is "no longer routinely used." [[acg-2019-hereditary-hemochromatosis]] (newer, and what this page asserts) still lists HII >1.9 as a diagnostic histologic feature — use it to *support* a diagnosis, not to rule one out
 
 ### Magnetic Resonance Imaging (MRI)
 

@@ -230,6 +230,7 @@ updated: 2026-09-04
 - [[upper-endoscopy]] — EGD quality standards: UGIB timing, BE surveillance, GPMC biopsy, celiac biopsy, peptic ulcer hemostasis (4 sources)
 - [[argon-plasma-coagulation]] — APC: non-contact thermal hemostasis/ablation via ionized argon; GAVE, angioectasias, radiation proctopathy, GI bleeding; power-vs-argon-flow physics, 0.8–1.0 L/min, explosion mechanism and oral-prep rule (16 sources)
 - [[enteral-access]] — Choosing and managing enteral tubes: gastric vs small-bowel, nasoenteric vs PEG/PEGJ/DPEJ route selection, periprocedural antibiotics/antithrombotics, technique, and complications (2 sources)
+- [[endoscopic-hemostasis]] — The hemostatic devices themselves (site-specific algorithms stay on the bleeding pages): epinephrine 1:10,000 as temporizing-only, ethanol volume cap, heater probe 25–30 J ×4–5 (total 100–150 J), bipolar 15–20 W, ≥8 s forceful contact; monopolar hemostatic forceps soft coag 80 W effect 4 applied **closed** (98% vs 80% initial hemostasis vs clips) and its failure modes; OTSC for recurrent bleeding (**no head-to-head data between any two devices**); TC-325 rescue-only because **the powder is gone in <24 h**, with the full dry-catheter technique; Doppler probe after hemostasis; bleeding caused by EMR/ESD/sphincterotomy and the prophylactic PD-stent threshold; the failed-hemostasis checklist and TAE-vs-surgery (4 sources)
 
 ---
 
@@ -543,6 +544,8 @@ updated: 2026-09-04
 - [[aga-2021-crohns-pharm]] — AGA 2021: Medical Management of Moderate-Severe Luminal and Perianal Fistulizing Crohn's — Feuerstein et al. Gastroenterology 2021;160:2496–2508 — 11 recommendation groups; foundational, largely superseded for drug positioning by 2025 (no IL-23 p19 / JAK inhibitors)
 - [[aga-2021-intragastric-balloons]] — AGA 2021: Intragastric Balloons for Obesity — Muniraj et al. Gastroenterology 2021;160:1799–1808 — 7 GRADE recommendations (2 strong: concomitant lifestyle, PPI prophylaxis); IGB + lifestyle > lifestyle alone (BMI 30–40); serious AE 5.6% vs 1.1%; post-removal options
 - [[aga-2021-cirrhosis-coagulation]] — AGA 2021: Coagulation Disorders in Cirrhosis — rebalanced hemostasis; against routine FFP/platelet/vitamin K correction by INR/platelet count; periprocedural and VTE prophylaxis guidance
+- [[aga-2020-nvugib-endoscopic-therapies]] — AGA 2020 CPU (Expert Review): Endoscopic Therapies for Non-Variceal Upper GI Bleeding — Mullady, Wang, Waschke. Gastroenterology 2020;159:1120–1128 — 10 ungraded BPA; **Table 1 supplies the Rockall components and the full AIMS-65 score with its mortality bands** (both previously absent from the corpus); emergent/urgent/elective 12 h / 24 h / >24 h tiers; device settings for heater probe, bipolar, MHF soft coag and TC-325; OTSC and hemostatic-powder niches; TAE-vs-surgery and the no-prophylactic-TAE rule. ⚠ Its 9 g/dL CVD transfusion target is **superseded by [[acg-2021-ugib]]**
+- [[aga-2021-crc-chemoprevention]] — AGA 2021 CPU (Expert Review): Chemoprevention for Colorectal Neoplasia — Liang, Shaukat, Crockett. Clin Gastroenterol Hepatol 2021;19:1327–1336 — 9 BPA, **only 4 positive**; "should"/"may" *is* the grading; aspirin's benefit needs **10–19 years' latency**, hence the BPA 1 conjunction (age <70 + life expectancy ≥10 y + 10-y CVD risk ≥10% + not high bleeding risk); bleeding risk **not** reduced at ≤100 mg; explicit do-not-use for non-aspirin NSAIDs, calcium, vitamin D, folic acid and statins — with **harm signals**: calcium→SSL RR 2.66, calcium+vit D→SSL RR 3.82, folic acid→advanced/multiple adenomas. **Excludes hereditary syndromes and IBD**
 - [[aga-2020-gastric-intestinal-metaplasia]] — AGA 2020: Management of Gastric Intestinal Metaplasia — Gupta, Li, El Serag et al. Gastroenterology 2020;158:693–702
 - [[aga-2020-eoe]] — AGA/JTF 2020: Management of Eosinophilic Esophagitis — PPIs, topical steroids, dietary elimination, dilation; conditional GRADE recommendations
 - [[aga-2020-ida]] — AGA 2020: Gastrointestinal Evaluation of Iron-Deficiency Anemia — bidirectional endoscopy, celiac testing, non-invasive H. pylori, capsule for ongoing IDA
@@ -715,45 +718,84 @@ Topics with no page yet. The lint cron creates **1–2 per pass** from the top o
 
 ### Blocked on ingest, not on a source (the PDF is in `raw/`, just not ingested yet)
 
-> ⚠ **Corrected 2026-09-04.** This list previously read *"empty — every remaining uningested file in `raw/` is a gated lecture/chalk talk."* **That was false.** An inbox sync delivered a large batch of **tier-1 AGA Clinical Practice Updates** (mostly 2016–2023 vintage) into `raw/GI Guidelines/AGA/`. `raw/` holds **430** non-asset files against **267** source pages. These are tier-1 and must be worked through *before* any gated lecture. The per-pass cap is 2 files.
+> ✅ **BACKLOG RE-AUDITED FILE-BY-FILE 2026-09-06 — the real number is 51, not ≈77.** Every one of the 370 raw non-lecture, non-asset files was checked against `wiki/sources/` titles *and* citation lines, with `pdftotext` page 1 used to resolve every ambiguous filename. **Trust this count; the two earlier estimates ("~50", then "≈77") were both produced by token matching and were both wrong in both directions.**
 >
-> **Backlog measured 2026-09-04 (second pass).** A stricter basename-vs-source-title match over `raw/GI Guidelines/` (356 files) puts the uningested count at **≈77 guideline files**, of which the large majority are AGA CPUs — the earlier "~50" was an undercount, and it also missed non-AGA items. Two additional high-value non-AGA targets surfaced and are **not** in the table below: **`ASGE/ASGE 2025 Diagnosis and Management of GERD.pdf`** (newest tier-1 guideline on a core wiki topic — would supersede parts of [[gerd]]) and **`AFS/AFS 2024 Endoscopic Assessment of the GE Valve After Anti-Reflux Surgery.pdf`**. Put ASGE 2025 GERD at the head of the queue.
+> **The genuinely uningested set is 51 files, and it is almost entirely one thing: the AGA CPU back-catalogue.**
+> - **50 files in `raw/GI Guidelines/AGA/`** — the 2016–2023 Clinical Practice Updates. There is **no `aga-2016-*`, `aga-2017-*` or `aga-2018-*` slug anywhere in `wiki/sources/`**, and the only `aga-2019-*` is `aga-2019-autoimmune-pancreatitis`. That whole vintage is missing.
+> - **1 file in `raw/GI Guidelines/Other/`** — `IANS 2024 Anal Cancer Screening Consensus.pdf`, which **cannot be ingested**: it is a 6 KB saved HTML page, not a PDF (see *Needs a source*).
+> - **Every other society folder is 100% ingested** — AASLD (35), ACG (61), AFS (2), APA (1), ASGE (50), EASL (2), NCCN (7), SAGES (3), USPG (1), `GI RCTs/` (10), `GI Other Studies/` (4).
 >
-> **How to detect new arrivals — do not use `git status`.** `raw/`'s content subfolders are git-ignored (only `raw/assets/` is tracked), so newly synced PDFs never appear as untracked files, and the rsync rewrites mtimes so `find -newermt` is useless too. Match raw basenames against `wiki/sources/` titles instead.
+> ⚠ **Two "high-value uningested targets" recorded here on 2026-09-04 were false alarms — both are already ingested. Do not re-flag them.**
+> - `ASGE/ASGE 2025 Diagnosis and Management of GERD.pdf` **is** [[asge-2024-gerd]] — same document (Desai et al., *VideoGIE* 2025;10:81–137, doi 10.1016/j.vgie.2024.10.001). The slug's year predates the final citation; the page says so in its own frontmatter.
+> - `AFS/AFS 2024 Endoscopic Assessment of the GE Valve After Anti-Reflux Surgery.pdf` **is** [[afs-2024-ge-valve-after-antireflux-surgery]].
+>
+> **Standing false-alarm list — filenames that look uningested but are not.** ~33 lowercase shorthand files in `raw/GI Guidelines/AGA/` (`gpoem.pdf`, `ida.pdf`, `NIT in MASDL.pdf`, `crc screening.pdf`, `tailed polypectomy.pdf` [sic], `extraesoph gerd.pdf`, `portal vein thrombosis.pdf`, `quality egd.pdf`, `bloating.pdf`, `ostomies.pdf`, …) are duplicates of properly-named CPUs already ingested — **but check the year, because three of them are a *different, newer* document than the long-named file they resemble**: `ida.pdf` is the **2024** CPU (`aga-2024-ida-management`), not the 2020 guideline; `extraesoph gerd.pdf` is the **2023** CPU (`aga-2023-extraesophageal-gerd`), not the 2018 one (which *is* still uningested, #10 below). Also already covered: the four `AGA … (MSTF)` files → `usmstf-*` slugs; `ACG 2018 Management of Irritable Bowel Syndrome.pdf` (**misnamed** — it is Lacy 2021, = [[acg-2020-ibs]]); `ASGE 2025 Bowel Preparation Quality.pdf` → [[usmstf-2025-bowel-prep]]; `RCTs/Rosenbluth Urgent versus early ERCP….pdf` → [[jagtap-2026-urgent-vs-early-ercp-cholangitis]]; `RCTs/Prosty 2025 Prophylactic Antibiotics UGIB Cirrhosis.pdf` → [[albhaisi-2025-prophylactic-antibiotics-cirrhosis]] (slug uses a different author than first-author Prosty).
+>
+> **How to detect new arrivals — do not use `git status`.** `raw/`'s content subfolders are git-ignored (only `raw/assets/` is tracked), so newly synced PDFs never appear as untracked files, and the rsync rewrites mtimes so `find -newermt` is useless too. Match raw basenames against `wiki/sources/` titles **and then verify each hit by opening page 1** — basename matching alone produced both of the wrong counts above.
+>
+> **Wiki-side duplicate source pages found in the same audit (fix when convenient, not a blocker):** [[acg-2025-bowel-prep]] and [[usmstf-2025-bowel-prep]] carry the **identical DOI** `10.14309/ajg.0000000000003287`; [[asge-2020-endoscopic-removal]] and [[usmstf-2020-endoscopic-removal]] are the same USMSTF document co-published in *GIE* 2020;91:486 and *AJG* 2020;115:435.
 
-**Uningested tier-1 AGA CPUs — the current ingest queue** (each also unblocks the wiki topic named):
+**THE INGEST QUEUE — 48 uningested AGA CPUs, verified 2026-09-06.** All live in `raw/GI Guidelines/AGA/`. Work them in order; the per-pass cap is 2 files. *(The old version of this table listed `AGA 2021 CPU Refractory Helicobacter pylori.pdf`, `AGA 2022 CPU Refractory Celiac Disease.pdf` and `AGA 2021 CPU Colorectal Dysplasia Surveillance in IBD.pdf` as uningested — **all three are ingested** as [[aga-2021-refractory-h-pylori]], the refractory-celiac page, and [[aga-2021-ibd-colorectal-dysplasia]]. Removed.)*
 
-| Raw file (`raw/GI Guidelines/AGA/`) | Unblocks |
-|---|---|
-| ~~`AGA 2022 CPU Short Bowel Syndrome.pdf`~~ | ✅ **ingested 2026-09-04** → [[aga-2022-short-bowel-syndrome]], [[short-bowel-syndrome]] |
-| ~~`AGA 2019 Management of Autoimmune Pancreatitis.pdf`~~ | ✅ **ingested 2026-09-04** → [[aga-2019-autoimmune-pancreatitis]], [[autoimmune-pancreatitis]]. Confirmed on reading: a "Here and Now" expert column, **not** a CPU — no numbered BPAs, no GRADE. Its Figure 1 carries the whole treatment algorithm and is an unextractable raster image, so **no steroid dose/taper/interval reached the page** |
-| `AGA 2021 CPU Refractory Helicobacter pylori.pdf` | salvage regimens on [[helicobacter-pylori-infection]] |
-| `AGA 2022 CPU Refractory Celiac Disease.pdf` | refractory celiac on [[celiac-disease]] |
-| `AGA 2021 CPU Malignant Alimentary Tract Obstruction.pdf` | enteral/colonic stenting; pairs with [[jeurnink-2010-sustent-goo]], [[kastelijn-2023-enduro-protocol]] |
-| `AGA 2021 CPU Colorectal Dysplasia Surveillance in IBD.pdf` | IBD dysplasia surveillance intervals ([[ulcerative-colitis]], [[crohns-disease]]) |
-| `AGA 2020 CPU Endoscopic Therapies for NVUGIB.pdf` | [[upper-gi-bleeding]] endoscopic hemostasis |
-| `AGA 2021 CPU Bleeding Gastric Varices.pdf` | [[variceal-upper-gi-bleeding]] |
-| `AGA 2021 CPU Chemoprevention for Colorectal Neoplasia.pdf` | [[colorectal-cancer-screening]] |
-| `AGA 2020 CPU Young Adult-Onset CRC.pdf` | early-onset CRC |
-| `AGA 2021 CPU Endoscopic Management of GI Perforations.pdf` | perforation management |
-| `AGA 2021 CPU Medically Refractory Gastroparesis.pdf` | [[gastroparesis]] |
-| `AGA 2021 CPU IBD in Elderly.pdf`, `AGA 2018 CPU Functional GI Symptoms in IBD.pdf`, `AGA 2018 CPU Switching Between Biologics & Biosimilars in IBD.pdf`, `AGA 2020 CPU IBD During COVID-19.pdf` | IBD special populations |
-| `AGA 2017 CPU Severe Acute Alcoholic Hepatitis.pdf`, `AGA 2020 CPU Bariatric Surgery in Cirrhosis.pdf`, `AGA 2021 CPU Lifestyle Modification in NAFLD.pdf`, `AGA 2022 CPU NAFLD in Lean Individuals.pdf`, `AGA 2019 CPU Oral DAAs and HCC.pdf`, `AGA 2017 CPU Care After SVR in HCV.pdf`, `AGA 2020 CPU HCC Screening in NAFLD.pdf`, `AGA 2019 CPU Hepatobiliary Cancer Surveillance in PSC.pdf` | hepatology |
-| `AGA 2016 CPU Low-Grade Dysplasia in Barrett's.pdf`, `AGA 2018 CPU New Screening Techniques in Barrett's.pdf`, `AGA 2022 CPU New Technology for Barrett's Screening & Surveillance.pdf`, `AGA 2020 CPU Endoscopic Treatment of Barrett's Dysplasia-Early Cancer.pdf`, `AGA 2020 CPU Post-Endoscopy Esophageal Adenocarcinoma.pdf` | [[barretts-esophagus]] |
-| `AGA 2020 CPU Functional Heartburn.pdf`, `AGA 2022 CPU Personalized Approach to GERD.pdf`, `AGA 2018 CPU Extraesophageal Symptoms Attributed to GERD.pdf` (superseded by [[aga-2023-extraesophageal-gerd]]) | [[gerd]] |
-| `AGA 2017 CPU Surgical & Device-Aided Therapy for Fecal Incontinence.pdf` | [[fecal-incontinence]], [[sacral-nerve-stimulation]] |
-| `AGA 2019 CPU Celiac Serology and Histology Monitoring.pdf`, `AGA 2021 CPU Seronegative Enteropathies.pdf` | [[celiac-disease]] |
-| `AGA 2018 CPU ESD in the United States.pdf`, `AGA 2019 CPU ESD in T1b Esophageal Cancer.pdf`, `AGA 2021 CPU Post-ESD Surveillance for Early GI Neoplasia.pdf` | [[endoscopic-submucosal-dissection]] |
-| `AGA 2022 CPU Noninvasive CRC Screening Options.pdf`, `AGA 2021 CPU Quality of Screening and Surveillance Colonoscopy.pdf`, `AGA 2020 CPU BRCA1-2 CRC and Pancreatic Screening.pdf` | CRC screening / colonoscopy quality |
-| `AGA 2017 CPU Endoscopic Bariatric Therapies.pdf`, `AGA 2021 CPU Early Complications After Bariatric Surgery.pdf` | [[bariatric-surgery]] |
-| `AGA 2017 CPU Opioids in Gastroenterology.pdf`, `AGA 2018 CPU Psychogastroenterology.pdf`, `AGA 2021 CPU Chronic GI Pain in Disorders of Gut-Brain Interaction.pdf` | [[disorders-of-gut-brain-interaction]] |
-| `AGA 2016 CPU Infection via ERCP Endoscopes.pdf`, `AGA 2017 CPU 2016 MSTF Endoscope Reprocessing Commentary.pdf`, `AGA 2023 CPU Telemedicine in Gastroenterology.pdf` | practice/infrastructure |
+| # | Raw file (`AGA 2016–2023 CPU …`) | Unblocks |
+|---|---|---|
+| — | ~~`AGA 2020 CPU Endoscopic Therapies for NVUGIB.pdf`~~ | ✅ **ingested 2026-09-06** → [[aga-2020-nvugib-endoscopic-therapies]], [[endoscopic-hemostasis]]; closed the Rockall + AIMS-65 gaps on [[upper-gi-bleeding]] |
+| — | ~~`AGA 2021 CPU Chemoprevention for Colorectal Neoplasia.pdf`~~ | ✅ **ingested 2026-09-06** → [[aga-2021-crc-chemoprevention]] |
+| 1 | `2021 Bleeding Gastric Varices` | [[variceal-upper-gi-bleeding]] — gastric varices are thin on the page today |
+| 2 | `2021 Endoscopic Management of GI Perforations` | perforation/closure devices; pairs with new [[endoscopic-hemostasis]] |
+| 3 | `2021 Malignant Alimentary Tract Obstruction` | enteral/colonic stenting; unblocks *Fillable now* #19; pairs with [[jeurnink-2010-sustent-goo]], [[kastelijn-2023-enduro-protocol]] |
+| 4 | `2020 Young Adult-Onset CRC` | early-onset CRC — no page exists |
+| 5 | `2020 SIBO` | [[small-intestinal-bacterial-overgrowth]] — only [[acg-2020-sibo]] backs it today |
+| 6 | `2021 Medically Refractory Gastroparesis` | [[gastroparesis]] — distinct from the 2025 guideline and from [[aga-2023-gpoem-gastroparesis]] |
+| 7 | `2022 Personalized Approach to GERD` | [[gerd]] phenotyping |
+| 8 | `2020 Functional Heartburn` | [[gerd]] / functional heartburn + reflux hypersensitivity |
+| 9 | `2022 Role of Diet in IBS` | [[irritable-bowel-syndrome]] — low-FODMAP; **was missing from the old table** |
+| 10 | `2018 Extraesophageal Symptoms Attributed to GERD` | [[extraesophageal-reflux]] — ⚠ a **different, older** document than [[aga-2023-extraesophageal-gerd]]; ingest to record what changed |
+| 11 | `2019 Celiac Serology and Histology Monitoring` | [[celiac-disease]] follow-up intervals |
+| 12 | `2021 Seronegative Enteropathies` | seronegative villous atrophy DDx |
+| 13 | `2017 Severe Acute Alcoholic Hepatitis` | unblocks *Fillable now* #21; pairs with [[lee-2018-accelerate-ah]] |
+| 14 | `2019 Hepatobiliary Cancer Surveillance in PSC` | CCA surveillance in [[primary-sclerosing-cholangitis]] |
+| 15 | `2020 HCC Screening in NAFLD` | [[masld]] → HCC surveillance; distinct from [[aga-2026-hcc-surveillance]] |
+| 16 | `2021 Lifestyle Modification in NAFLD` | [[masld]] |
+| 17 | `2022 NAFLD in Lean Individuals` | lean MASLD |
+| 18 | `2019 Oral DAAs and HCC` | [[direct-acting-antivirals]] / HCC-risk controversy |
+| 19 | `2017 Care After SVR in HCV` | post-SVR follow-up — nothing covers this ([[aasld-idsa-2023-hcv]] is treatment) |
+| 20 | `2018 Surgical Risk & Perioperative Management in Cirrhosis` | ⚠ **was missing from the old table**; distinct from [[acg-2025-perioperative-cirrhosis]] |
+| 21 | `2020 Palliative Care in Cirrhosis` | ⚠ **was missing**; AGA counterpart to [[aasld-2022-palliative-cirrhosis]] |
+| 22 | `2020 Bariatric Surgery in Cirrhosis` | [[bariatric-surgery]] in [[cirrhosis]] |
+| 23 | `2016 Low-Grade Dysplasia in Barrett's` | [[barretts-esophagus]] LGD |
+| 24 | `2020 Endoscopic Treatment of Barrett's Dysplasia-Early Cancer` | [[endoscopic-eradication-therapy]] |
+| 25 | `2020 Post-Endoscopy Esophageal Adenocarcinoma` | PEEC / missed-EAC quality metric |
+| 26 | `2018 New Screening Techniques in Barrett's` | non-endoscopic BE screening |
+| 27 | `2022 New Technology for Barrett's Screening & Surveillance` | capsule sponge / WATS-3D |
+| 28 | `2018 ESD in the United States` | [[endoscopic-submucosal-dissection]] |
+| 29 | `2019 ESD in T1b Esophageal Cancer` | [[esophageal-adenocarcinoma]] T1b |
+| 30 | `2021 Post-ESD Surveillance for Early GI Neoplasia` | post-ESD surveillance |
+| 31 | `2022 Subepithelial Lesions in Routine Endoscopy` | [[subepithelial-lesion]] — ⚠ **confirmed NOT covered** by [[asge-2017-subepithelial-lesions]] or [[aga-2024-full-thickness-resection]] |
+| 32 | `2021 Quality of Screening and Surveillance Colonoscopy` | unblocks *Fillable now* #29 (colonoscopy quality indicators) |
+| 33 | `2022 Noninvasive CRC Screening Options` | [[colorectal-cancer-screening]]; distinct from [[aga-2025-crc-blood-tests]] |
+| 34 | `2020 BRCA1-2 CRC and Pancreatic Screening` | [[brca-pathogenic-variants]] — ⚠ **not** the same as [[aga-2020-pancreas-cancer-screening]] |
+| 35 | `2021 IBD in Elderly` | IBD special populations |
+| 36 | `2018 Functional GI Symptoms in IBD` | IBD–IBS overlap |
+| 37 | `2018 Switching Between Biologics & Biosimilars in IBD` | biosimilar switching |
+| 38 | `2020 IBD During COVID-19` | historical; low value |
+| 39 | `2021 Chronic GI Pain in Disorders of Gut-Brain Interaction` | [[disorders-of-gut-brain-interaction]] |
+| 40 | `2018 Psychogastroenterology` | brain–gut behavioral therapy |
+| 41 | `2017 Opioids in Gastroenterology` | narcotic bowel / opioid-induced GI dysfunction |
+| 42 | `2017 Surgical & Device-Aided Therapy for Fecal Incontinence` | [[fecal-incontinence]], [[sacral-nerve-stimulation]] |
+| 43 | `2021 Colonic Diverticulitis` | [[diverticulitis]] — distinct from [[acg-2026-diverticulitis]] |
+| 44 | `2017 Endoscopic Bariatric Therapies` | [[bariatric-surgery]]; complements [[aga-2021-intragastric-balloons]] |
+| 45 | `2021 Early Complications After Bariatric Surgery` | post-bariatric leaks/strictures |
+| 46 | `2016 Infection via ERCP Endoscopes` | duodenoscope-transmitted infection |
+| 47 | `2017 2016 MSTF Endoscope Reprocessing Commentary` | endoscope reprocessing |
+| 48 | `2023 Telemedicine in Gastroenterology` | practice/infrastructure — lowest clinical value |
 
 **Raw-folder hygiene noted (do not modify `raw/` — it is immutable):**
-- `AGA 2021 CPU ICI Colitis and Hepatitis.pdf` and `AGA 2021 CPU Immune Checkpoint Inhibitor Colitis and Hepatitis.pdf` are **byte-identical duplicates** (2,420,918 bytes each). Ingested once.
-- `AGA 2026 CPU Hemorrhoids (duplicate).pdf` is self-labelled a duplicate.
-- `raw/GI Guidelines/Other/` holds **8 documents twice** under two naming conventions (Chicago Classification v4.0, Lyon Consensus 2024, Dallas Consensus 2025, Padova Consensus 2025, San Diego Consensus 2025, Rome V 2026, Tokyo Guidelines 2018, EUS-PPG Delphi consensus). All already ingested once.
-- Several lowercase shorthand filenames in `raw/GI Guidelines/AGA/` (`ida.pdf`, `gpoem.pdf`, `tailed polypectomy.pdf`, `crc screening.pdf`, `extraesoph gerd.pdf`, `NIT in MASDL.pdf`, …) duplicate properly-named CPUs that are already ingested.
+- `raw/GI Guidelines/AGA/` is **~40% redundant**: 33 lowercase shorthand copies + `AGA 2026 CPU Hemorrhoids (duplicate).pdf` + the ICI/Immune-Checkpoint pair (byte-identical, 2,420,918 bytes each) + 4 MSTF files duplicating `usmstf-*` — **~39 redundant of 175**.
+- `raw/GI Guidelines/Other/` holds **8 documents twice** under two naming conventions — `YYYY Name` vs `Name YYYY` (Chicago Classification v4.0, Lyon Consensus 2024, Dallas Consensus 2025, Padova Consensus 2025, San Diego Consensus 2025, Rome V 2026, Tokyo Guidelines 2018, EUS-PPG Delphi consensus). All ingested once. Singletons: ASCCP 2024, IANS 2024, IDSA 2017.
+- `raw/GI RCTs/`: `Rosenbluth Urgent versus early ERCP….pdf` and `Urgent versus early ERCP….pdf` are the **same** Jagtap 2026 *Gut* RCT — 10 files, 9 distinct studies.
+- **Misnamed:** `ACG/ACG 2018 Management of Irritable Bowel Syndrome.pdf` is actually Lacy BE et al., *Am J Gastroenterol* 2021;116:17–44. There is no 2018 ACG IBS monograph in `raw/`.
+- The two `Aloysius 2026 DDW` `.png` files in `raw/GI Other Studies/` are the abstract and baseline table of one study, both covered by [[aloysius-2026-ercp-timing-septic-shock-cholangitis]].
 
 ### Needs a source (do not write from general knowledge)
 - **IANS 2024 anal cancer screening consensus** (Stier et al., *Int J Cancer* 2024;154:1694-1702, doi:10.1002/ijc.34850) — ⚠ `raw/GI Guidelines/Other/IANS 2024 Anal Cancer Screening Consensus.pdf` is **not a PDF**: it is a saved Cloudflare bot-challenge page from Wiley (6 KB of HTML, zero clinical content). The download failed upstream and needs re-fetching. [[anal-cancer-screening]] currently carries the IANS criteria **second-hand through [[asccp-2024-anal-cancer-screening]]**; the primary would add the full recommendation set, HRA practice standards, and management after a biopsy-proven anal HSIL.

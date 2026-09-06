@@ -3,7 +3,7 @@ title: "Calcineurin Inhibitors"
 category: med
 tags: [calcineurin-inhibitor, tacrolimus, cyclosporine, immunosuppression, transplant, liver-transplant, nephrotoxicity, basiliximab, induction, cni-minimization]
 created: 2026-05-19
-updated: 2026-09-05
+updated: 2026-09-06
 sources: [aasld-2012-liver-transplant-long-term, aasld-ast-2025-liver-transplant-graft-complications, acg-2025-uc]
 ---
 
@@ -26,16 +26,20 @@ Calcineurin inhibitors (CNIs) — primarily [[tacrolimus]] (TAC) and cyclosporin
 - Trough targets: **250–300 ng/mL for the first 3 months; 100–250 ng/mL from month 3 onward**
 - [[direct-acting-antivirals|Direct antiviral]] interactions: sofosbuvir, glecaprevir, voxilaprevir (increased CSA levels)
 
-### mTOR Inhibitors (used to reduce or replace the CNI)
+### Non-CNI Agents Used to Reduce or Replace the CNI
 
-Not calcineurin inhibitors, but the agents CNI-minimization converts to ([[aasld-ast-2025-liver-transplant-graft-complications]], Table 4):
+Not calcineurin inhibitors, but the agents CNI-minimization converts to or adds ([[aasld-ast-2025-liver-transplant-graft-complications]], Table 4). *Dosing and target troughs "vary at the discretion of the transplant professional" (table footnote).*
 
-| Agent | Dose | Target trough |
-|---|---|---|
-| Everolimus | 1 mg PO twice daily **after month 1** | 3–8 ng/mL |
-| Sirolimus (off-label in LT) | 2 mg PO daily **after month 1** | 4–10 ng/mL |
+| Class | Agent | Dose | Target trough |
+|---|---|---|---|
+| mTOR inhibitor | Everolimus | **1 mg PO twice daily, after month 1** | **3–8 ng/mL** |
+| mTOR inhibitor | Sirolimus (off-label in LT) | **2 mg PO daily, after month 1** | **4–10 ng/mL** |
+| Antimetabolite | Mycophenolate mofetil / mycophenolic acid (off-label) | **MMF 1,000–3,000 mg PO** / **MPA 360–720 mg PO**, in divided doses **twice daily** | Not monitored |
+| Antimetabolite | [[thiopurines\|Azathioprine]] | **3–5 mg/kg/day PO once daily** | Not monitored |
 
-- Class adverse effects: GI intolerance, leukopenia, hyperlipidemia, proteinuria, peripheral edema, impaired wound healing, aphthous stomatitis, interstitial pneumonitis, and hepatic artery thrombosis (sirolimus) — hence the ≥1-month post-LT start.
+- **mTOR class adverse effects:** GI intolerance, leukopenia, hyperlipidemia, proteinuria, peripheral edema, impaired wound healing, aphthous stomatitis, interstitial pneumonitis, and hepatic artery thrombosis (sirolimus) — hence the ≥1-month post-LT start.
+- **Antimetabolite adverse effects:** cytopenias, GI, infections, and malignancy (azathioprine adds hepatic and hypersensitivity reactions; mycophenolate is **teratogenic**).
+- **Antimetabolite interactions:** [[proton-pump-inhibitors|PPIs]] and antacids *decrease* mycophenolate systemic exposure (as do calcium-free phosphate binders and drugs interfering with enterohepatic recirculation); aminosalicylates raise azathioprine levels, and azathioprine may inhibit the anticoagulant effect of warfarin.
 
 ## Cyclosporine in Acute Severe Ulcerative Colitis
 
@@ -78,7 +82,7 @@ Per [[aasld-ast-2025-liver-transplant-graft-complications]]:
 When CKD develops or is threatened:
 
 1. **Dose reduction**: Lower TAC or CSA to minimum effective dose
-2. **Add antimetabolite (MMF)**: Allows further CNI dose reduction without increasing rejection (Rec 30)
+2. **Add antimetabolite (MMF)**: Allows further CNI dose reduction without increasing rejection (Rec 30) — doses in [[#Non-CNI Agents Used to Reduce or Replace the CNI|the table above]]
 3. **Convert to or add mTOR inhibitor** (everolimus or sirolimus): Best implemented at ~3 months post-LT; EVL has strongest evidence for GFR improvement — meta-analysis of 4 studies (n=893) showed GFR improvement of **7.4 mL/min (95% CI 2.75–17.8)** with EVL (the source states plain mL/min here, **not** body-surface-normalized); benefit greatest when introduced within 4 weeks post-LT (Rec 33, Strong, Level 2)
 4. **ACE-I or ARB**: For proteinuric CKD alongside CNI minimization
 5. **Kidney transplantation**: Optimal therapy for ESRD post-LT (45–60% reduction in long-term mortality vs. dialysis)

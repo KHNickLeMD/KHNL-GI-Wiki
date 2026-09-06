@@ -3,7 +3,7 @@ title: "Cowden Syndrome (PTEN Hamartoma Tumor Syndrome)"
 category: disease-script
 tags: [cowden, pten, phts, hamartoma, hereditary-cancer, breast-cancer, thyroid-cancer, endometrial-cancer, colorectal-cancer, genetic-testing]
 created: 2026-05-19
-updated: 2026-09-02
+updated: 2026-09-06
 sources: [acg-2015-hereditary-gi-cancer, aga-2022-hamartomatous-polyposis]
 ---
 
@@ -26,7 +26,9 @@ sources: [acg-2015-hereditary-gi-cancer, aga-2022-hamartomatous-polyposis]
 
 Cowden syndrome (CS), also called PTEN hamartoma tumor syndrome (PHTS), is caused by germline pathogenic variants in the **PTEN** tumor suppressor gene. The spectrum includes Cowden syndrome, Bannayan-Riley-Ruvalcaba syndrome (BRRS), Proteus syndrome, and Lhermitte-Duclos disease [[acg-2015-hereditary-gi-cancer]].
 
-**GI trigger for genetic evaluation** *(Strong, low)* [[aga-2022-hamartomatous-polyposis|USMSTF 2022]]: **multiple gastrointestinal hamartomas or ganglioneuromas** — refer for evaluation for Cowden's syndrome and related conditions. The **genetic** diagnosis of PHTS requires a germline pathogenic PTEN variant; the full clinical criteria for CS are maintained by NCCN.
+**GI trigger for genetic evaluation** *(Strong, low)* [[aga-2022-hamartomatous-polyposis|USMSTF 2022]]: **multiple gastrointestinal hamartomas or ganglioneuromas** — refer for evaluation for Cowden's syndrome and related conditions. The **genetic** diagnosis of PHTS requires a germline pathogenic **PTEN** variant.
+
+> **Decision gap — the clinical *diagnostic* criteria for CS are not in the ingested corpus.** What follows is ACG 2015's list of indications for **PTEN testing**, which is a referral threshold, not a diagnosis. The operational diagnostic criteria (the weighted major/minor scoring used to call CS in a *PTEN*-negative patient) are maintained by **NCCN**, and neither [[acg-2015-hereditary-gi-cancer|ACG 2015]] nor [[aga-2022-hamartomatous-polyposis|USMSTF 2022]] reproduces them — the NCCN guideline would have to be ingested. Do not infer them.
 
 **Indications for PTEN genetic evaluation** (Table 11) [[acg-2015-hereditary-gi-cancer]]:
 
@@ -142,7 +144,7 @@ Cowden syndrome (CS), also called PTEN hamartoma tumor syndrome (PHTS), is cause
 
 ## See Also
 
-[[colorectal-polyposis]], [[juvenile-polyposis-syndrome]], [[peutz-jeghers-syndrome]], [[familial-adenomatous-polyposis]], [[hereditary-mixed-polyposis-syndrome]], [[lynch-syndrome]], [[colorectal-cancer]], [[colonoscopy]], [[upper-endoscopy]], [[polypectomy]]
+[[colorectal-polyposis]], [[juvenile-polyposis-syndrome]], [[peutz-jeghers-syndrome]], [[familial-adenomatous-polyposis]], [[hereditary-mixed-polyposis-syndrome]], [[lynch-syndrome]], [[colorectal-cancer]], [[colonoscopy]], [[upper-endoscopy]], [[polypectomy]], [[esophageal-cancer]]
 
 ---
 

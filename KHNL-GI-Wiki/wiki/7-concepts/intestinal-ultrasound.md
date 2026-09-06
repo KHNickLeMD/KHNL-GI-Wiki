@@ -3,7 +3,7 @@ title: "Intestinal Ultrasound (IUS)"
 category: concept
 tags: [intestinal-ultrasound, ibd, crohns, ulcerative-colitis, monitoring, treat-to-target, imaging]
 created: 2026-07-19
-updated: 2026-09-05
+updated: 2026-09-06
 sources: [aga-2024-intestinal-ultrasound]
 ---
 
@@ -39,7 +39,7 @@ sources: [aga-2024-intestinal-ultrasound]
 
 ## IUS vs Other Modalities
 
-By trained operators, IUS is comparable to **MRE and CTE** ([[mri-mrcp|MRE]]) for ileal CD activity and for detecting complications (fistula, stricture, abscess), with practical advantages: no contrast/radiation, real-time, in-clinic. Interobserver reliability moderate–excellent (higher than serial MRE in one substudy: 82% vs 69% agreement). Ileocolonoscopy/[[capsule-endoscopy|VCE]] directly visualize mucosa (needed for biopsy, dilation, dysplasia surveillance) but are costlier and require [[endoscopy-sedation|sedation]].
+By trained operators, IUS is comparable to **MR enterography (MRE) and CT enterography (CTE)** for ileal CD activity and for detecting complications (fistula, stricture, abscess), with practical advantages: no contrast/radiation, real-time, in-clinic. Interobserver reliability moderate–excellent (higher than serial MRE in one substudy: 82% vs 69% agreement). Ileocolonoscopy/[[capsule-endoscopy|VCE]] directly visualize mucosa (needed for biopsy, dilation, dysplasia surveillance) but are costlier and require [[endoscopy-sedation|sedation]].
 
 | Modality | Prep | Radiation/contrast | Key limitation |
 |---|---|---|---|
@@ -80,7 +80,7 @@ By trained operators, IUS is comparable to **MRE and CTE** ([[mri-mrcp|MRE]]) fo
 
 ## See Also
 
-[[inflammatory-bowel-disease]], [[crohns-disease]], [[ulcerative-colitis]], [[ibd-preventive-care]], [[mri-mrcp]], [[colonoscopy]], [[capsule-endoscopy]], [[endoscopy-sedation]], [[ibd-endoscopic-scoring]], [[obesity]]
+[[inflammatory-bowel-disease]], [[crohns-disease]], [[ulcerative-colitis]], [[ibd-preventive-care]], [[colonoscopy]], [[capsule-endoscopy]], [[endoscopy-sedation]], [[ibd-endoscopic-scoring]], [[obesity]]
 
 ---
 

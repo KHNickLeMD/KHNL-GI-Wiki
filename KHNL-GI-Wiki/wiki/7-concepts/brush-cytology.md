@@ -3,7 +3,7 @@ title: "Brush Cytology"
 category: concept
 tags: [brush-cytology, ercp, biliary-stricture, cholangiocarcinoma, tissue-acquisition]
 created: 2026-06-04
-updated: 2026-09-04
+updated: 2026-09-06
 sources: [asge-2023-indeterminate-biliary-strictures, acg-2023-biliary-strictures]
 ---
 
@@ -50,7 +50,7 @@ Per [[asge-2023-indeterminate-biliary-strictures]]:
 
 | Evidence | Sensitivity for malignancy |
 |---|---|
-| 2013 meta-analysis, 1,556 patients (33% pancreatic cancer, 36% [[cholangiocarcinoma\|CCA]]) | **41.6%** composite |
+| 2013 meta-analysis, 1,556 patients (33% [[pancreatic-cancer\|pancreatic cancer]], 36% [[cholangiocarcinoma\|CCA]]) | **41.6%** composite |
 | Subsequent series | clustering **50%–60%** |
 | Outliers | as low as **6%**; up to ~**75%** in one series using **ROSE** of the brush specimen |
 | 2015 meta-analysis, 9 studies / 730 indeterminate strictures | brushings **45%**, forceps biopsies **48%**, **both together 59%** |
@@ -74,7 +74,7 @@ Because sensitivity is ~0.40, neither guideline accepts brushing as a stand-alon
 
 ## See Also
 
-[[ercp]], [[cholangioscopy]], [[endoscopic-ultrasound]], [[biliary-stricture]], [[cholangiocarcinoma]], [[fish]], [[confocal-laser-endomicroscopy]], [[primary-sclerosing-cholangitis]]
+[[ercp]], [[cholangioscopy]], [[endoscopic-ultrasound]], [[biliary-stricture]], [[cholangiocarcinoma]], [[pancreatic-cancer]], [[fish]], [[confocal-laser-endomicroscopy]], [[primary-sclerosing-cholangitis]]
 
 ---
 

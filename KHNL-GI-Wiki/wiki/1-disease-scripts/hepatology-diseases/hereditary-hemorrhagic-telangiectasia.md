@@ -3,7 +3,7 @@ title: "Hereditary Hemorrhagic Telangiectasia (HHT)"
 category: disease-script
 tags: [hht, osler-weber-rendu, telangiectasia, avm, hepatic-vascular-malformation, lvm, bevacizumab, gi-bleeding, smad4]
 created: 2026-05-21
-updated: 2026-09-05
+updated: 2026-09-06
 sources: [acg-2020-hepatic-mesenteric-circulation, acg-2015-hereditary-gi-cancer, aga-2022-hamartomatous-polyposis, acg-2015-small-bowel-bleeding]
 ---
 
@@ -13,6 +13,8 @@ sources: [acg-2020-hepatic-mesenteric-circulation, acg-2015-hereditary-gi-cancer
   - [[#Severity Assessment]]
 - [[#Differential Diagnosis]]
 - [[#Diagnostics]]
+  - [[#Liver Vascular Malformations]]
+  - [[#Extrahepatic AVM Screening (SMAD4 Carriers)]]
 - [[#Therapeutics]]
   - [[#Standard Therapy — by Presentation]]
   - [[#Targeted Therapy — Escalation Ladder]]
@@ -51,7 +53,7 @@ Other presentations: **biliary ischemia** (secondary sclerosing cholangitis, bil
 
 Routes into the diagnosis that *are* sourced here:
 
-- **Via *SMAD4* genetics** — a *SMAD4* mutation carries [[juvenile-polyposis-syndrome|JPS]]–HHT overlap. Every *SMAD4* carrier must be screened for HHT, **including a cardiovascular exam** ([[acg-2015-hereditary-gi-cancer]]). JPS is caused by *SMAD4* or *BMPR1A* mutations (~60% of clinically defined JPS); evaluate for both ([[aga-2022-hamartomatous-polyposis]])
+- **Via *SMAD4* genetics** — a *SMAD4* mutation carries [[juvenile-polyposis-syndrome|JPS]]–HHT overlap. Every *SMAD4* carrier must be screened for HHT, **including a cardiovascular exam** ([[acg-2015-hereditary-gi-cancer]]) — the test-by-test protocol is under [[#Extrahepatic AVM Screening (SMAD4 Carriers)]]. JPS is caused by *SMAD4* or *BMPR1A* mutations (~60% of clinically defined JPS); evaluate for both ([[aga-2022-hamartomatous-polyposis]])
 - **Via clinical signs of LVM** — audible **bruit** and/or palpable **thrill** over the liver, and/or abnormal liver tests (typically ↑**alkaline phosphatase**, occasionally ↑bilirubin and/or aminotransferases). These findings are what convert a "don't screen" patient into a "do image" patient (see [[#Diagnostics]])
 
 ### Severity Assessment
@@ -73,6 +75,8 @@ Routes into the diagnosis that *are* sourced here:
 
 ## Diagnostics
 
+### Liver Vascular Malformations
+
 | Setting | Recommendation | Strength | Evidence |
 |---|---|---|---|
 | **Asymptomatic HHT** | **Do NOT** routinely screen for LVMs — no evidence that diagnosing an asymptomatic patient benefits outcome or prevents death | Strong | Low |
@@ -88,6 +92,20 @@ Routes into the diagnosis that *are* sourced here:
 - **CTA or MRA** are the most-used methods, with no difference in diagnostic accuracy
 - Shunt type is determinable in **>2/3** of LVM patients by early/differential enhancement of hepatic veins (arteriovenous) or portal veins (arterioportal) across imaging phases. Arterioportal shunting is more frequent in patients presenting with PH, but CT findings do not correlate with clinical presentation; **porto-venous shunts are difficult to diagnose** noninvasively
 - Liver biopsy is additionally hazardous (bleeding risk from widespread LVMs) and unhelpful — histology can produce a false diagnosis of cirrhosis
+
+### Extrahepatic AVM Screening (SMAD4 Carriers)
+
+The liver rules above are **not** the whole surveillance program. [[aga-2022-hamartomatous-polyposis]] (weak recommendation, low quality of evidence): patients with a ***SMAD4*** pathogenic variant should be **clinically evaluated for HHT at the time of [[juvenile-polyposis-syndrome|JPS]] diagnosis**, including screening for and appropriate management of **cerebral and pulmonary AVMs**. The screening schedule it reproduces (HHT Foundation International):
+
+| Target | Test | Timing |
+|---|---|---|
+| **Cerebral AVM** | **Brain MRI with and without contrast** | At **birth or at the time of diagnosis**; children with possible or confirmed HHT get **≥1 follow-up MRI at puberty** — brain AVM development correlates with times of growth |
+| **Pulmonary AVM** | **Pulse oximetry**, with consideration of transthoracic contrast echocardiogram | At diagnosis, then **every 3–5 years** |
+| **Pulmonary AVM** | **Transthoracic contrast echocardiogram** | At diagnosis; **within the 5 years preceding a planned pregnancy**; **after pregnancy**; otherwise **every 5–10 years** |
+| **Anemia** (telangiectasia bleeding) | **Hemoglobin or hematocrit** | **Annually in adulthood, in all patients older than 35 years** |
+
+- Consider referral to an **HHT Center of Excellence** for this evaluation ([[aga-2022-hamartomatous-polyposis]])
+- Anemia is not incidental here — it **precipitates and worsens** the hepatic presentations (see [[#GI Bleeding in HHT]])
 
 ## Therapeutics
 

@@ -3,8 +3,8 @@ title: "Primary Sclerosing Cholangitis"
 category: disease-script
 tags: [psc, cholestasis, biliary, ibd, cholangiocarcinoma, liver-transplant, dominant-stricture, igg4, udca, mrcp, fish, liver-stiffness]
 created: 2026-05-19
-updated: 2026-09-03
-sources: [acg-2015-psc, acg-2017-liver-chemistries, aasld-2022-psc]
+updated: 2026-09-06
+sources: [acg-2015-psc, acg-2017-liver-chemistries, aasld-2022-psc, baveno-viii-2026-portal-hypertension]
 ---
 
 ## Assessment
@@ -79,7 +79,7 @@ PSC is a chronic, cholestatic liver disease likely of autoimmune origin characte
 
 *Workup: see [[biliary-stricture]].*
 
-- **Secondary sclerosing cholangitis** — must be systematically excluded before PSC is diagnosed (Table 2, [[aasld-2022-psc]]) — HIV-related, recurrent pyogenic cholangitis, ischemic (critically ill patients/[[hereditary-hemorrhagic-telangiectasia|HHT]]/intra-arterial chemotherapy/hepatic artery thrombosis), parasitic, eosinophilic, IgG4-associated, post-surgical, cystic fibrosis, portal hypertensive biliopathy
+- **Secondary sclerosing cholangitis** — must be systematically excluded before PSC is diagnosed (Table 2, [[aasld-2022-psc]]) — HIV-related, recurrent pyogenic cholangitis, ischemic (critically ill patients/[[hereditary-hemorrhagic-telangiectasia|HHT]]/intra-arterial chemotherapy/hepatic artery thrombosis), parasitic, eosinophilic, IgG4-associated, post-surgical, cystic fibrosis, [[portal-vein-thrombosis|portal hypertensive biliopathy]]
 - **[[cholangiocarcinoma]]** — must be considered in any PSC patient with new dominant/relevant stricture; 160–400× higher risk than general population
 - **IgG4-sclerosing cholangitis** — steroid-responsive; exclude with serum IgG4 (measure in all PSC patients)
 - **[[primary-biliary-cholangitis|Primary biliary cholangitis]]** (PBC) — AMA+, female predominance, intrahepatic small-duct; test AMA to exclude
@@ -137,14 +137,15 @@ PSC is a chronic, cholestatic liver disease likely of autoimmune origin characte
 
 **Overlap syndromes:**
 
-- PSC-AIH overlap → treat per AASLD AIH guidelines (prednisone + AZA or budesonide + AZA) (GS 14)
+- PSC-AIH overlap → treat per AASLD AIH guidelines (prednisone + [[thiopurines|azathioprine]] or budesonide + azathioprine) (GS 14)
 - IgG4-SC → corticosteroids (steroid-responsive; unlike classical PSC)
 
 **[[portal-hypertension|Portal hypertension]]/cirrhosis management:**
 
 - Same approach as other chronic liver diseases with the exceptions below
-- Baveno-VI criteria for varix screening: LS ≤20 kPa AND platelets >150,000/mm³ → may avoid [[upper-endoscopy|EGD]] (0% false-negative for varices needing treatment; 30% of EGDs could be avoided) (GS 17)
-- Non-cirrhotic portal hypertension and infected transjugular intrahepatic portosystemic shunt ([[tips|TIPS]]) may rarely occur in PSC with chronically infected bile ducts
+- **Varix-screening thresholds live in [[#Diagnostics]]** (Baveno-VI criteria, GS 17) — 0% false-negative for varices needing treatment; ~30% of [[upper-endoscopy|EGDs]] avoided
+  - ⚠ **The *generic* cACLD screening rule has since moved on.** [[baveno-viii-2026-portal-hypertension|Baveno VIII (2026)]] frames screening around NSBB eligibility — **no screening EGD if the patient is on an NSBB**, and for the NSBB-ineligible an exemption at **LSM <20 kPa *and* platelets ≥150 ×10⁹/L, *or* SSM <40 kPa** — with a **2-year (aetiology active) / 3-year (aetiology removed)** repeat interval. Full thresholds on [[portal-hypertension]]. No ingested source reconciles the two for PSC, and the Rule-of-Five LSM cut-offs are flagged there as **less reliable in PSC with dominant strictures**; the PSC-specific AASLD numbers above are retained for that reason, but check the Baveno rule before ordering
+- [[porto-sinusoidal-vascular-disorder|Non-cirrhotic portal hypertension]] and infected transjugular intrahepatic portosystemic shunt ([[tips|TIPS]]) may rarely occur in PSC with chronically infected bile ducts
 
 **Vaccination and lifestyle:**
 
@@ -259,7 +260,7 @@ Serial polysomy in dominant/relevant stricture + serial polysomy = probable CCA.
 
 - Patient/graft survival comparable to other liver diseases; 5-year OS ~80–85%
 - Substantial improvement in quality of life after LT; fatigue persists in a significant proportion of female patients
-- Post-LT: active IBD management (CRC risk remains elevated, may be further increased by immunosuppression); anti-TNF and anti-integrins appear safe in PSC after LT
+- Post-LT: active IBD management (CRC risk remains elevated, may be further increased by immunosuppression); [[anti-tnf-agents|anti-TNF]] and anti-integrin agents appear safe in PSC after LT
 
 **Biliary reconstruction:**
 
@@ -318,7 +319,7 @@ Histological and cholangiographic assessment required to distinguish rPSC from a
 
 ## See Also
 
-[[abnormal-liver-chemistries]], [[primary-biliary-cholangitis]], [[autoimmune-hepatitis]], [[biliary-stricture]], [[cholangiocarcinoma]], [[ulcerative-colitis]], [[crohns-disease]], [[inflammatory-bowel-disease]], [[ercp]], [[liver-transplantation]], [[colonoscopy]], [[colorectal-cancer]], [[portal-hypertension]], [[hcc-surveillance]], [[liver-stiffness-measurement]], [[liver-biopsy]], [[mri-mrcp]], [[brush-cytology]], [[fish]], [[gallbladder-cancer]], [[variceal-upper-gi-bleeding]], [[upper-endoscopy]], [[tips]], [[cirrhosis]], [[acute-cholangitis]], [[acute-pancreatitis]]
+[[abnormal-liver-chemistries]], [[primary-biliary-cholangitis]], [[autoimmune-hepatitis]], [[biliary-stricture]], [[cholangiocarcinoma]], [[ulcerative-colitis]], [[crohns-disease]], [[inflammatory-bowel-disease]], [[ercp]], [[liver-transplantation]], [[colonoscopy]], [[colorectal-cancer]], [[portal-hypertension]], [[hcc-surveillance]], [[liver-stiffness-measurement]], [[liver-biopsy]], [[mri-mrcp]], [[brush-cytology]], [[fish]], [[gallbladder-cancer]], [[variceal-upper-gi-bleeding]], [[upper-endoscopy]], [[tips]], [[cirrhosis]], [[acute-cholangitis]], [[acute-pancreatitis]], [[porto-sinusoidal-vascular-disorder]], [[portal-vein-thrombosis]], [[thiopurines]], [[anti-tnf-agents]]
 
 ---
 
@@ -327,3 +328,4 @@ Histological and cholangiographic assessment required to distinguish rPSC from a
 1. [[acg-2015-psc|ACG 2015 Clinical Guideline: Primary Sclerosing Cholangitis]]
 2. [[acg-2017-liver-chemistries|ACG 2017: Evaluation of Abnormal Liver Chemistries]]
 3. [[aasld-2022-psc|AASLD 2022 Practice Guidance on Primary Sclerosing Cholangitis and Cholangiocarcinoma]]
+4. [[baveno-viii-2026-portal-hypertension|Baveno VIII — Advancing Consensus in Portal Hypertension (2026)]]

@@ -3,7 +3,7 @@ title: "Tacrolimus"
 category: med
 tags: [tacrolimus, fk506, calcineurin-inhibitor, immunosuppression, transplant, liver-transplant, nephrotoxicity, diabetes, extended-release]
 created: 2026-05-19
-updated: 2026-09-05
+updated: 2026-09-06
 sources: [aasld-2012-liver-transplant-long-term, aasld-ast-2025-liver-transplant-graft-complications]
 ---
 
@@ -75,7 +75,7 @@ Intervals below are [[aasld-2012-liver-transplant-long-term]] (Recs 27–28, Tab
 ## Special Populations
 
 - **Pregnancy** ([[aasld-2012-liver-transplant-long-term]]):
-  - **TAC monotherapy is the ideal regimen**, maintained at **therapeutic levels throughout** pregnancy; cyclosporine, azathioprine, and prednisone may also be used if necessary (Rec 48, grade 1 level B).
+  - **TAC monotherapy is the ideal regimen**, maintained at **therapeutic levels throughout** pregnancy; cyclosporine, [[thiopurines|azathioprine]], and prednisone may also be used if necessary (Rec 48, grade 1 level B).
   - **Monitoring schedule (Rec 49, grade 1 level B):** allograft function and CNI levels **every 4 weeks until 32 weeks → every 2 weeks → weekly until delivery.**
   - Outcomes: higher incidence of **prematurity (29%–50%)** and **low birth weight (17%–57%)**.
 - **TAC → cyclosporine conversion** for **poor glycemic control**: consideration can be given to converting *from tacrolimus to cyclosporine* (Rec 34), since TAC is the more diabetogenic CNI. Poor control also prompts steroid discontinuation. *(Note the direction — the conversion runs TAC → CSA, not the reverse.)*
@@ -84,7 +84,7 @@ Intervals below are [[aasld-2012-liver-transplant-long-term]] (Recs 27–28, Tab
 
 ## See Also
 
-[[calcineurin-inhibitors]], [[liver-transplantation]], [[hepatocellular-carcinoma]], [[operational-tolerance]], [[antibody-mediated-rejection-liver-transplant]], [[ulcerative-colitis]], [[drug-induced-liver-injury]]
+[[calcineurin-inhibitors]], [[liver-transplantation]], [[hepatocellular-carcinoma]], [[operational-tolerance]], [[antibody-mediated-rejection-liver-transplant]], [[ulcerative-colitis]], [[drug-induced-liver-injury]], [[thiopurines]]
 
 ---
 

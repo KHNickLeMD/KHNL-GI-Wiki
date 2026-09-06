@@ -3,7 +3,7 @@ title: "Hepatitis C"
 category: disease-script
 tags: [hepatitis-c, HCV, direct-acting-antivirals, DAA, cirrhosis, HCC, SVR, glecaprevir, pibrentasvir, sofosbuvir, velpatasvir, fibrosis, liver, antiviral, screening]
 created: 2026-05-28
-updated: 2026-09-05
+updated: 2026-09-06
 sources: [aasld-idsa-2023-hcv, aasld-idsa-2011-hcv-genotype1, aga-2025-hbv-reactivation]
 ---
 
@@ -191,7 +191,7 @@ For recurrent HCV post liver or kidney transplantation:
 
 ## See Also
 
-[[chronic-hepatitis-b]], [[direct-acting-antivirals]], [[portal-hypertension]], [[hepatocellular-carcinoma]], [[hcc-surveillance]], [[liver-transplantation]], [[liver-disease-in-pregnancy]], [[hepatitis-c-in-pregnancy]], [[aki-in-cirrhosis]], [[hepatic-encephalopathy]], [[variceal-upper-gi-bleeding]], [[abnormal-liver-chemistries]], [[noninvasive-liver-disease-assessment]], [[autoimmune-hepatitis]], [[alcohol-associated-liver-disease]], [[nafld-masld]], [[drug-induced-liver-injury]], [[cirrhosis]], [[liver-biopsy]], [[liver-stiffness-measurement]], [[obesity]], [[calcineurin-inhibitors]]
+[[chronic-hepatitis-b]], [[direct-acting-antivirals]], [[portal-hypertension]], [[hepatocellular-carcinoma]], [[hcc-surveillance]], [[liver-transplantation]], [[liver-disease-in-pregnancy]], [[hepatitis-c-in-pregnancy]], [[aki-in-cirrhosis]], [[hepatic-encephalopathy]], [[ascites]], [[variceal-upper-gi-bleeding]], [[abnormal-liver-chemistries]], [[noninvasive-liver-disease-assessment]], [[autoimmune-hepatitis]], [[alcohol-associated-liver-disease]], [[nafld-masld]], [[drug-induced-liver-injury]], [[cirrhosis]], [[liver-biopsy]], [[liver-stiffness-measurement]], [[obesity]], [[calcineurin-inhibitors]]
 
 ---
 

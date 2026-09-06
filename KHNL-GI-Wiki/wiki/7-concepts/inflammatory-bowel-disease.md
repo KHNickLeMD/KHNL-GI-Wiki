@@ -3,7 +3,7 @@ title: "Inflammatory Bowel Disease (IBD) — Overview"
 category: concept
 tags: [ibd, crohns, ulcerative-colitis, biologic, immunotherapy]
 created: 2026-05-16
-updated: 2026-09-05
+updated: 2026-09-06
 sources: [aga-2026-inpatient-ibd]
 ---
 
@@ -25,7 +25,7 @@ Inflammatory bowel disease (IBD) comprises two major chronic immune-mediated dis
 | Vaccination, cancer screening, bone/mental health in the cancer-free patient | [[ibd-preventive-care]] |
 | Cancer risk from inflammation/drugs; what to do with IBD drugs once a cancer develops or with a prior cancer | [[ibd-in-malignancy]] |
 | Anal cancer screening (general high-risk framework) | [[anal-cancer-screening]] |
-| Colitis-associated CRC dysplasia surveillance | [[ulcerative-colitis]], [[crohns-disease]] (technique on [[colonoscopy]]) |
+| Colitis-associated [[colorectal-cancer\|CRC]] dysplasia surveillance | [[ulcerative-colitis]], [[crohns-disease]] (technique on [[colonoscopy]]) |
 | Diet and nutritional therapy | [[nutrition-in-ibd]] |
 | Pain management | [[ibd-pain-management]] |
 | Transmural monitoring | [[intestinal-ultrasound]] |
@@ -38,14 +38,14 @@ Inflammatory bowel disease (IBD) comprises two major chronic immune-mediated dis
 *Cross-cutting framework from [[aga-2026-inpatient-ibd|AGA 2026 CPU on Inpatient Management of IBD]]. Disease-specific pathways: [[ulcerative-colitis]] (Acute Severe UC) and [[crohns-disease]] (Fulminant/Hospitalized CD).*
 
 - **When to admit:** severe disease refractory to outpatient therapy, high suspicion for an IBD-related complication (intestinal obstruction, intra-abdominal abscess), or significant nutritional risk/failure to thrive. Increasingly patients are admitted for **failing outpatient therapy** rather than fulminant presentation.
-- **Initial workup:** IBD-tailored history/exam; CBC (anemia), CRP and/or fecal calprotectin; assess disease activity with **biomarkers + endoscopy when indicated**; evaluate for IBD-related complications and **concomitant infections** ([[clostridioides-difficile|C. difficile]], CMV). Preparatory labs for anticipated drugs: fasting lipid panel before cyclosporine/JAK inhibitor; latent TB (TST or IGRA — IGRA preferred if BCG-vaccinated) and [[chronic-hepatitis-b|HBV]] testing; [[nutrition-in-hospitalized-patients|malnutrition screen]] (e.g., MUST).
+- **Initial workup:** IBD-tailored history/exam; CBC (anemia), CRP and/or fecal calprotectin; assess disease activity with **biomarkers + endoscopy when indicated**; evaluate for IBD-related complications and **concomitant infections** ([[clostridioides-difficile|C. difficile]], CMV). Preparatory labs for anticipated drugs: fasting lipid panel before [[calcineurin-inhibitors|cyclosporine]]/JAK inhibitor; latent TB (TST or IGRA — IGRA preferred if BCG-vaccinated) and [[chronic-hepatitis-b|HBV]] testing; [[nutrition-in-hospitalized-patients|malnutrition screen]] (e.g., MUST).
 - **Supportive care:** IV hydration/electrolytes, treat anemia, pain control; avoid NSAIDs.
 - **VTE prophylaxis:** all hospitalized IBD patients should receive **prophylactic [[anticoagulation-gi-bleeding|anticoagulation]]** (open question: benefit of continuing at discharge).
 - **Discharge:** appropriate after resolution/stabilization of the acute indication — does **not** require CRP or imaging normalization; establish a clear outpatient transition plan (named responsible clinician, patient education) to reduce readmission.
 
 ## See Also
 
-[[crohns-disease]], [[ulcerative-colitis]], [[thiopurines]], [[ibd-preventive-care]], [[ibd-endoscopic-scoring]], [[ibd-pain-management]], [[ibd-in-malignancy]], [[nutrition-in-ibd]], [[intestinal-ultrasound]], [[clostridioides-difficile]], [[disorders-of-gut-brain-interaction]], [[drug-induced-liver-injury]], [[nutrition-in-hospitalized-patients]], [[colorectal-cancer]], [[pouchitis]], [[uc-vs-crohns-comparison]], [[probiotics]], [[anticoagulation-gi-bleeding]], [[anal-cancer-screening]], [[colonoscopy]]
+[[crohns-disease]], [[ulcerative-colitis]], [[thiopurines]], [[ibd-preventive-care]], [[ibd-endoscopic-scoring]], [[ibd-pain-management]], [[ibd-in-malignancy]], [[nutrition-in-ibd]], [[intestinal-ultrasound]], [[clostridioides-difficile]], [[disorders-of-gut-brain-interaction]], [[drug-induced-liver-injury]], [[nutrition-in-hospitalized-patients]], [[colorectal-cancer]], [[pouchitis]], [[uc-vs-crohns-comparison]], [[probiotics]], [[anticoagulation-gi-bleeding]], [[anal-cancer-screening]], [[colonoscopy]], [[calcineurin-inhibitors]]
 
 ---
 

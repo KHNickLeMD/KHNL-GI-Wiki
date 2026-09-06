@@ -3,7 +3,7 @@ title: "Hepatopulmonary Syndrome and Portopulmonary Hypertension"
 category: disease-script
 tags: [hepatopulmonary-syndrome, hps, portopulmonary-hypertension, poph, liver-transplant, portal-hypertension, pulmonary, cirrhosis]
 created: 2026-05-25
-updated: 2026-09-05
+updated: 2026-09-06
 sources: [aasld-ast-2025-liver-transplant-candidate-evaluation, baveno-viii-2026-portal-hypertension, aasld-2024-aclf]
 ---
 
@@ -16,6 +16,8 @@ Two pulmonary **vascular** complications of liver disease and [[portal-hypertens
 - [[#Differential Diagnosis]]
 - [[#Diagnostics]]
 - [[#Therapeutics]]
+- [[#See Also]]
+- [[#Sources]]
 
 ## Assessment
 

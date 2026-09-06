@@ -3,8 +3,8 @@ title: "Nausea and Vomiting"
 category: diagnostic-schema
 tags: [nausea, vomiting, gastroparesis, cyclic-vomiting, cannabinoid-hyperemesis, motility, foregut]
 created: 2026-06-04
-updated: 2026-09-04
-sources: [acg-2022-gastroparesis, aga-2024-cvs, aga-2024-chs, asge-2020-acpo-volvulus]
+updated: 2026-09-06
+sources: [acg-2022-gastroparesis, aga-2024-cvs, aga-2024-chs, asge-2020-acpo-volvulus, rome-v-2026-dgbi]
 ---
 
 ## Definition / Scope
@@ -42,9 +42,11 @@ Duration frames the differential: **acute** (<1 week — usually infection, drug
 
 ### Functional and Episodic Syndromes
 
-- **[[cyclic-vomiting-syndrome|Cyclic vomiting syndrome (CVS)]]** — stereotyped, recurrent discrete episodes of intense vomiting with symptom-free intervals; Rome IV [[disorders-of-gut-brain-interaction|DGBI]]; migraine association
-- **[[cannabinoid-hyperemesis-syndrome|Cannabinoid hyperemesis syndrome (CHS)]]** — chronic cannabis use, cyclic vomiting relieved by hot showers/baths; resolves with cessation
-- **Chronic nausea vomiting syndrome** and **functional vomiting** — Rome IV functional disorders, diagnosed after exclusion
+Rome V groups these as **B2 — nausea and vomiting disorders**, a gastroduodenal [[disorders-of-gut-brain-interaction|DGBI]] category with three members [[rome-v-2026-dgbi]]:
+
+- **B2a — chronic nausea vomiting syndrome (CNVS)** — chronic nausea and/or vomiting without a structural cause; diagnosed after exclusion
+- **B2b — [[cyclic-vomiting-syndrome|cyclic vomiting syndrome (CVS)]]** — stereotyped, recurrent discrete episodes of intense vomiting with symptom-free intervals; migraine association
+- **B2c — [[cannabinoid-hyperemesis-syndrome|cannabinoid hyperemesis syndrome (CHS)]]** — chronic cannabis use, cyclic vomiting relieved by hot showers/baths; resolves with cessation
 
 ---
 
@@ -104,7 +106,7 @@ flowchart TD
 
 ## See Also
 
-[[gastroparesis]], [[cyclic-vomiting-syndrome]], [[cannabinoid-hyperemesis-syndrome]], [[nausea-and-vomiting-of-pregnancy]], [[dyspepsia]], [[gerd]], [[peptic-ulcer-disease]], [[gastric-adenocarcinoma]], [[achalasia]], [[rumination-syndrome]], [[acute-pancreatitis]], [[choledocholithiasis]], [[acute-cholecystitis]], [[upper-endoscopy]], [[upper-gi-bleeding]], [[acute-diarrhea]], [[norovirus]], [[liver-disease-in-pregnancy]], [[disorders-of-gut-brain-interaction]], [[small-bowel-motility]], [[acute-colonic-pseudo-obstruction]], [[colonic-volvulus]], [[gastric-outlet-obstruction]]
+[[gastroparesis]], [[cyclic-vomiting-syndrome]], [[cannabinoid-hyperemesis-syndrome]], [[nausea-and-vomiting-of-pregnancy]], [[dyspepsia]], [[gerd]], [[peptic-ulcer-disease]], [[gastric-adenocarcinoma]], [[achalasia]], [[rumination-syndrome]], [[acute-pancreatitis]], [[choledocholithiasis]], [[acute-cholecystitis]], [[upper-endoscopy]], [[upper-gi-bleeding]], [[acute-diarrhea]], [[norovirus]], [[liver-disease-in-pregnancy]], [[disorders-of-gut-brain-interaction]], [[small-bowel-motility]], [[acute-colonic-pseudo-obstruction]], [[colonic-volvulus]], [[gastric-outlet-obstruction]], [[dysphagia]], [[crohns-disease]], [[glp-1-receptor-agonists]]
 
 ---
 
@@ -114,3 +116,4 @@ flowchart TD
 2. [[aga-2024-cvs|AGA Clinical Practice Update on Diagnosis and Management of Cyclic Vomiting Syndrome (2024)]]
 3. [[aga-2024-chs|AGA Clinical Practice Update on Diagnosis and Management of Cannabinoid Hyperemesis Syndrome: Commentary]]
 4. [[asge-2020-acpo-volvulus|ASGE Guideline on the Role of Endoscopy in the Management of Acute Colonic Pseudo-Obstruction and Colonic Volvulus (2020)]]
+5. [[rome-v-2026-dgbi|Disorders of Gut–Brain Interaction and the Rome V Process]]

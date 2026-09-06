@@ -3,7 +3,7 @@ title: "Familial Adenomatous Polyposis"
 category: disease-script
 tags: [fap, apc, afap, map, mutyh, hereditary-crc, polyposis, duodenal-adenoma, desmoid, spigelman, genetic-testing, colorectal-cancer]
 created: 2026-05-19
-updated: 2026-09-03
+updated: 2026-09-06
 sources: [acg-2015-hereditary-gi-cancer, asge-2020-fap]
 ---
 
@@ -193,6 +193,7 @@ Familial adenomatous polyposis (FAP) and its related syndromes — attenuated FA
 - Set the **upper-GI surveillance interval by the most severely affected organ** (stomach or duodenum)
 - Surveillance EGD should include **random + targeted biopsy sampling** to assess dysplasia and assign an accurate duodenal Spigelman stage; a **baseline Spigelman score of 7** is associated with later development of duodenal HGD
 - **Endoscopically resect gastric and duodenal polyps >1 cm** (dysplasia risk) and **resect all antral polyps** (predilection for gastric adenomas there)
+- **The goal is targeted, not complete, clearance** — it is **not possible to remove all duodenal adenomas**, so resect the **high-risk lesions: villous histology, dysplasia, or >1 cm**
 - **Examine the ampulla/periampullary region carefully with a duodenoscope or cap-assisted gastroscope**; biopsy the ampulla **only if there is an identifiable mucosal abnormality**, taking care to avoid the pancreatic orifice (pancreatitis risk)
 - Routine **chromoendoscopy is not recommended** during duodenal surveillance; routine **[[device-assisted-enteroscopy|deep enteroscopy]] is not recommended** for small-bowel surveillance
 

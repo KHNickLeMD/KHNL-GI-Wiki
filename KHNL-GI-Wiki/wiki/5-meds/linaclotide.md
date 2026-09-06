@@ -3,7 +3,7 @@ title: "Linaclotide"
 category: med
 tags: [linaclotide, gc-c-agonist, secretagogue, ibs-c, cic, constipation]
 created: 2026-05-19
-updated: 2026-09-05
+updated: 2026-09-06
 sources: [acg-2020-ibs, aga-acg-2023-constipation, aga-2022-ibs-c, aga-2026-refractory-constipation]
 ---
 
@@ -26,7 +26,7 @@ Guanylate cyclase-C (GC-C) agonist; intestinal secretagogue — ↑cyclic GMP �
 
 ### Refractory Constipation
 
-- **Linaclotide and [[prucalopride]] are the two agents with demonstrated efficacy in chronic constipation unresponsive to OTC laxatives** — [[plecanatide]] has shown efficacy only in *"severe"* constipation ([[aga-2026-refractory-constipation]]).
+- **Linaclotide and [[prucalopride]] are the two agents with demonstrated efficacy in [[chronic-constipation|chronic constipation]] unresponsive to OTC laxatives** — [[plecanatide]] has shown efficacy only in *"severe"* constipation ([[aga-2026-refractory-constipation]]).
 - Caveat the source raises about all three: these trials **lacked rigorous evaluation of prior OTC therapy or colonic transit**.
 - **BPA 7** — patients with refractory constipation should trial **all** standard OTC and FDA-approved constipation therapies, **as standalone therapy or in combination**, where accessible; off-label agents (BPA 8) come only after that. Full escalation ladder on [[chronic-idiopathic-constipation]].
 

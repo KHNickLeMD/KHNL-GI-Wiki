@@ -3,8 +3,8 @@ title: "Argon Plasma Coagulation (APC)"
 category: general-procedure
 tags: [argon-plasma-coagulation, apc, endoscopic-hemostasis, thermal-therapy, ablation, gave, angioectasia, radiation-proctopathy]
 created: 2026-07-24
-updated: 2026-09-05
-sources: [asge-2019-radiation-proctopathy, asge-2010-anorectal-disorders, asge-2014-lgib, acg-2023-lgib, acg-2021-ugib, acg-2015-small-bowel-bleeding, asge-2017-small-bowel-bleeding, aga-2024-ida-management, baveno-vii-2022-portal-hypertension, usmstf-2020-endoscopic-removal, asge-2020-endoscopic-removal, asge-2015-ampullary-duodenal-adenomas, asge-2018-barretts-eet, aga-2024-barretts-eet, asge-2016-antithrombotic, aga-2026-electrosurgery]
+updated: 2026-09-06
+sources: [asge-2019-radiation-proctopathy, asge-2010-anorectal-disorders, asge-2014-lgib, acg-2023-lgib, acg-2021-ugib, acg-2015-small-bowel-bleeding, asge-2017-small-bowel-bleeding, aga-2024-ida-management, baveno-viii-2026-portal-hypertension, baveno-vii-2022-portal-hypertension, usmstf-2020-endoscopic-removal, asge-2020-endoscopic-removal, asge-2015-ampullary-duodenal-adenomas, asge-2018-barretts-eet, aga-2024-barretts-eet, asge-2016-antithrombotic, aga-2026-electrosurgery]
 ---
 
 # Argon Plasma Coagulation (APC)
@@ -15,7 +15,7 @@ Non-contact thermal ablation: monopolar current delivered to tissue through a je
 
 - **Power** sets the current conducted into tissue — **higher power and longer duration → deeper ablation**.
 - **Flow rate** sets the *volume* of plasma available to carry that current. It must be high enough to reach the target, but ⚠ **too high a flow disperses the current → low current density at the target**. **0.8–1.0 L/min is typically sufficient for most clinical settings.**
-- General electrosurgical principles (current density, waveforms, dispersive pad, cardiac devices) are on **[[electrosurgery]]**.
+- General electrosurgical principles (current density, waveforms, dispersive pad, cardiac devices) are on **[[electrosurgery]]**; the other hemostatic modalities APC is weighed against — injection, contact thermal, clips, band ligation, TC-325 — are on **[[endoscopic-hemostasis]]**.
 
 ## Contents
 - [[#Why APC]]
@@ -47,8 +47,8 @@ Non-contact thermal ablation: monopolar current delivered to tissue through a je
 | Colonic [[angioectasia\|angioectasias]] ([[acute-lower-gi-bleeding\|LGIB]]) | Endoscopic treatment with APC recommended as the **preferred management** ([[asge-2014-lgib]]); "effective initial treatment modality" ([[acg-2023-lgib]]) | Recommendation, high quality (ASGE 2014) |
 | Small-bowel angioectasias | APC primarily used as the **treatment of choice since 2001**, delivered via [[device-assisted-enteroscopy\|deep enteroscopy]] ([[acg-2015-small-bowel-bleeding]]); small-bowel angioectasias may be treated with ablative thermal therapy such as APC or with clips ([[aga-2024-ida-management]], BPA 14) | — |
 | Lesions within reach of a standard scope in [[small-bowel-bleeding\|small-bowel bleeding]] | APC listed among appropriate therapies (with electrocautery, injection, clips/bands, or combination) ([[asge-2017-small-bowel-bleeding]]) | — |
-| Gastric antral vascular ectasia (GAVE) with [[iron-deficiency-anemia\|IDA]] and inadequate response to iron | Consider endoscopic band ligation **or** thermal methods such as APC ([[aga-2024-ida-management]], BPA 12); APC/RFA/band ligation may be used ([[baveno-vii-2022-portal-hypertension]] 6.25) | Best-practice advice / C.2 |
-| [[portal-hypertension\|Portal hypertensive]] gastropathy (PHG) bleeding | APC (or RFA or band ligation) may be used for local treatment of PHG bleeding ([[baveno-vii-2022-portal-hypertension]] 6.25); APC or hemospray may be used for **recurrent** PHG bleeding (7.14) — NSBBs remain first-line for prevention (7.13), [[tips\|TIPS]] for transfusion-dependent PHG (7.15) | C.2 / D.1 |
+| Gastric antral vascular ectasia (GAVE) **requiring serial transfusion** | ⚠ **APC is now second choice.** [[baveno-viii-2026-portal-hypertension]] 5.43 **recommends EVL over argon plasma coagulation** — higher eradication rates, fewer sessions, less recurrent bleeding/hospitalisation/transfusion. (Superseded: [[baveno-vii-2022-portal-hypertension]] 6.25 listed APC/RFA/band ligation as interchangeable.) For GAVE with [[iron-deficiency-anemia\|IDA]] and inadequate response to iron, [[aga-2024-ida-management]] BPA 12 still offers band ligation **or** thermal methods such as APC | LoE 1, strong (Baveno VIII) |
+| [[portal-hypertension\|Portal hypertensive]] gastropathy (PHG) bleeding | ⚠ **Downgraded.** [[baveno-viii-2026-portal-hypertension]] 5.44: management focuses **primarily on reducing portal pressure with NSBB**; **[[tips\|TIPS]] is the most effective rescue therapy** for severe/refractory PHG bleeding; because endoscopic therapies do not lower portal pressure they **provide limited benefit and are reserved for focal bleeding lesions or salvage**. (Superseded: [[baveno-vii-2022-portal-hypertension]] 6.25/7.14 said APC or hemospray "may be used".) | LoE 4, strong (Baveno VIII) |
 | Bleeding peptic ulcer ([[peptic-ulcer-disease\|PUD]], [[upper-gi-bleeding\|UGIB]]) | **Suggest** APC (with clips or soft monopolar electrocoagulation) — second tier behind bipolar electrocoagulation, heater probe, or absolute ethanol injection, which are *recommended* ([[acg-2021-ugib]], rec 9). **Which ulcers:** endoscopic therapy is for **active spurting/oozing bleeding or a nonbleeding visible vessel** (Strong, moderate); **adherent clot — no recommendation** (conflicting RCTs; irrigation + high-dose [[proton-pump-inhibitors\|PPI]] may suffice); **clean base — no endoscopic therapy**. Forrest classes are on the UGIB page linked at left | Conditional, very-low to low |
 | Post-[[endoscopic-mucosal-resection\|EMR]] margin, **no** visible residual adenoma | Suggest adjuvant thermal ablation of the post-EMR margin; **insufficient evidence to pick APC vs snare-tip soft coagulation** ([[usmstf-2020-endoscopic-removal]], [[asge-2020-endoscopic-removal]]) | Conditional, moderate |
 | Endoscopically **visible residual** polyp tissue | **Recommend against** ablative techniques (APC, snare-tip soft coagulation) — associated with increased recurrence ([[usmstf-2020-endoscopic-removal]], [[asge-2020-endoscopic-removal]]) | Strong, moderate |
@@ -124,12 +124,13 @@ Unresolved: no ingested source reports a trial of APC vs sham or of treating onl
 - **Radiation proctopathy — APC's status changed.** [[asge-2010-anorectal-disorders]] suggested **APC as first-line**; the newer [[asge-2019-radiation-proctopathy]] found **insufficient evidence to prefer any modality** among APC, bipolar, heater probe, and RFA. The 2019 position is what this page asserts. The 2010 document also cited older settings (25–60 W, 0.5–2.5 L/min, 1–3 sessions, bleeding reduced in 80–90%).
 - **Colon settings drifted downward.** [[asge-2014-lgib]] cited 30–45 W with 1 L/min for the right colon; [[acg-2023-lgib]] states 20–40 W with 0.8–1.0 L/min is typically used in the colon. Follow the newer figures, and check the generator's built-in site-specific presets.
 - **Barrett's:** APC was the ablative modality in the trials underpinning the "ablate the residual segment" recommendation, but both [[asge-2018-barretts-eet]] and [[aga-2024-barretts-eet]] state RFA is the current standard.
+- **GAVE and PHG — APC lost ground at Baveno VIII (2026).** [[baveno-vii-2022-portal-hypertension]] treated APC, RFA, and band ligation as interchangeable for both. [[baveno-viii-2026-portal-hypertension]] separates them and demotes APC in each: **GAVE requiring serial transfusion → EVL recommended *over* APC** (5.43, LoE 1/strong); **PHG → NSBB first and TIPS as the rescue**, with endoscopic therapy of limited benefit because it does not lower portal pressure, reserved for focal lesions or salvage (5.44). Same tier, newer publication date — Baveno VIII is what this page asserts. Full AVB context on [[variceal-upper-gi-bleeding]].
 
 ---
 
 ## See Also
 
-[[radiation-proctopathy]], [[angioectasia]], [[acute-lower-gi-bleeding]], [[upper-gi-bleeding]], [[small-bowel-bleeding]], [[peptic-ulcer-disease]], [[iron-deficiency-anemia]], [[ampullary-adenoma]], [[nonampullary-duodenal-adenoma]], [[barretts-esophagus]], [[endoscopic-eradication-therapy]], [[endoscopic-mucosal-resection]], [[polypectomy]], [[radiofrequency-ablation]], [[device-assisted-enteroscopy]], [[capsule-endoscopy]], [[endoscopic-ultrasound]], [[colonoscopy]], [[portal-hypertension]], [[tips]], [[anticoagulation-gi-bleeding]], [[electrosurgery]]
+[[radiation-proctopathy]], [[angioectasia]], [[acute-lower-gi-bleeding]], [[upper-gi-bleeding]], [[variceal-upper-gi-bleeding]], [[small-bowel-bleeding]], [[peptic-ulcer-disease]], [[iron-deficiency-anemia]], [[ampullary-adenoma]], [[nonampullary-duodenal-adenoma]], [[barretts-esophagus]], [[endoscopic-eradication-therapy]], [[endoscopic-mucosal-resection]], [[polypectomy]], [[radiofrequency-ablation]], [[device-assisted-enteroscopy]], [[capsule-endoscopy]], [[endoscopic-ultrasound]], [[colonoscopy]], [[portal-hypertension]], [[tips]], [[anticoagulation-gi-bleeding]], [[electrosurgery]], [[endoscopic-hemostasis]]
 
 ---
 
@@ -143,11 +144,12 @@ Unresolved: no ingested source reports a trial of APC vs sham or of treating onl
 6. [[acg-2015-small-bowel-bleeding|ACG 2015: Diagnosis and Management of Small Bowel Bleeding]]
 7. [[asge-2017-small-bowel-bleeding|ASGE 2017: Role of Endoscopy in Suspected Small-Bowel Bleeding]]
 8. [[aga-2024-ida-management|AGA Clinical Practice Update on Management of Iron Deficiency Anemia: Expert Review]]
-9. [[baveno-vii-2022-portal-hypertension|Baveno VII — Renewing Consensus in Portal Hypertension (2022)]]
-10. [[usmstf-2020-endoscopic-removal|USMSTF 2020: Endoscopic Removal of Colorectal Lesions]]
-11. [[asge-2020-endoscopic-removal|ASGE 2020: Endoscopic Removal of Colorectal Lesions]]
-12. [[asge-2015-ampullary-duodenal-adenomas|ASGE 2015: The Role of Endoscopy in Ampullary and Duodenal Adenomas]]
-13. [[asge-2018-barretts-eet|ASGE Guideline: Endoscopic Eradication Therapy for Patients with Barrett's Esophagus-Associated Dysplasia and Intramucosal Cancer (2018)]]
-14. [[aga-2024-barretts-eet|AGA Clinical Practice Guideline: Endoscopic Eradication Therapy of Barrett's Esophagus and Related Neoplasia (2024)]]
-15. [[asge-2016-antithrombotic|ASGE 2016: The Management of Antithrombotic Agents for Patients Undergoing GI Endoscopy]]
-16. [[aga-2026-electrosurgery|AGA Clinical Practice Update on the Use of Electrosurgery in Therapeutic Endoscopy: Expert Review (2026)]]
+9. [[baveno-viii-2026-portal-hypertension|Baveno VIII — Advancing Consensus in Portal Hypertension (2026)]]
+10. [[baveno-vii-2022-portal-hypertension|Baveno VII — Renewing Consensus in Portal Hypertension (2022)]]
+11. [[usmstf-2020-endoscopic-removal|USMSTF 2020: Endoscopic Removal of Colorectal Lesions]]
+12. [[asge-2020-endoscopic-removal|ASGE 2020: Endoscopic Removal of Colorectal Lesions]]
+13. [[asge-2015-ampullary-duodenal-adenomas|ASGE 2015: The Role of Endoscopy in Ampullary and Duodenal Adenomas]]
+14. [[asge-2018-barretts-eet|ASGE Guideline: Endoscopic Eradication Therapy for Patients with Barrett's Esophagus-Associated Dysplasia and Intramucosal Cancer (2018)]]
+15. [[aga-2024-barretts-eet|AGA Clinical Practice Guideline: Endoscopic Eradication Therapy of Barrett's Esophagus and Related Neoplasia (2024)]]
+16. [[asge-2016-antithrombotic|ASGE 2016: The Management of Antithrombotic Agents for Patients Undergoing GI Endoscopy]]
+17. [[aga-2026-electrosurgery|AGA Clinical Practice Update on the Use of Electrosurgery in Therapeutic Endoscopy: Expert Review (2026)]]

@@ -3,8 +3,8 @@ title: "Anorectal Manometry (ARM)"
 category: advanced-procedure
 tags: [arm, anorectal-manometry, defecation, biofeedback, dyssynergia, fecal-incontinence, balloon-expulsion-test]
 created: 2026-05-19
-updated: 2026-09-03
-sources: [acg-2021-anorectal-disorders, acg-2020-ibs, asge-2014-constipation, aga-2026-refractory-constipation]
+updated: 2026-09-06
+sources: [acg-2021-anorectal-disorders, acg-2020-ibs, asge-2014-constipation, aga-2026-refractory-constipation, rome-v-2026-dgbi]
 ---
 
 ## Contents
@@ -25,7 +25,8 @@ sources: [acg-2021-anorectal-disorders, acg-2020-ibs, asge-2014-constipation, ag
 
 - Measures **rectal sensation** and **anorectal pressures** at rest, during anal/pelvic-floor contraction (squeeze), during evacuation, and on cough or Valsalva. ([[acg-2021-anorectal-disorders]])
 - ARM **plus** a [[#Balloon Expulsion Test (BET)|balloon expulsion test]] is the standard functional workup for [[defecation-disorders|defecation disorders (DD)]] — ACG key concept: *"ARM and balloon expulsion are required to diagnose DD."*
-- **No single test is a gold standard.** ARM, BET, and MR defecography are concordant at levels of agreement **>70%**, but individual patients may disagree across tests. Rome IV requires **≥2 abnormal tests** to confirm DD.
+- **No single test is a gold standard.** ARM, BET, and MR defecography are concordant at levels of agreement **>70%**, but individual patients may disagree across tests.
+- **How many abnormal tests it takes has changed — and the two live rules disagree.** Rome IV required **≥2 abnormal tests**; **[[rome-v-2026-dgbi|Rome V]] (2026) requires only 1 of 3** — balloon expulsion, manometry, **or** imaging — and has **dropped anal EMG** as a criterion. [[acg-2021-anorectal-disorders|ACG 2021]] still requires **ARM *and* BET** (key concept above). Same tier; Rome V is the newer publication, so the looser 1-of-3 bar is what the wiki asserts, while ACG's both-tests rule remains the stricter operating standard in an ACG-following lab. Version table: [[defecation-disorders]].
 - Sequencing, the DD diagnostic algorithm, and defecography indications live on [[defecation-disorders]]; incontinence workup on [[fecal-incontinence]]. Do not read this page as the algorithm — it covers the test itself.
 - **Digital rectal examination should be performed before referral for ARM.** ([[acg-2021-anorectal-disorders]])
 
@@ -95,6 +96,7 @@ sources: [acg-2021-anorectal-disorders, acg-2020-ibs, asge-2014-constipation, ag
 
 - Average anal EMG activity recorded from electrodes on an acrylic anal plug or taped to perianal skin.
 - **≥20% reduction in anal EMG activity during evacuation is considered normal** (data limited); **<20% reduction correlates with dyssynergic defecation** as identified by manometry and abnormal BET.
+- ⚠ **EMG is an adjunct only, not a diagnostic criterion** — Rome V removed it from the dyssynergic-defecation criteria (see [[#Overview]]).
 
 ## Parameters That Matter, by Indication
 
@@ -125,3 +127,4 @@ sources: [acg-2021-anorectal-disorders, acg-2020-ibs, asge-2014-constipation, ag
 2. [[acg-2020-ibs|ACG 2020 Clinical Guideline: Management of Irritable Bowel Syndrome]]
 3. [[asge-2014-constipation|ASGE 2014: The Role of Endoscopy in the Management of Constipation]]
 4. [[aga-2026-refractory-constipation|AGA Clinical Practice Update on Evaluation and Management of Refractory Constipation: Expert Review]]
+5. [[rome-v-2026-dgbi|Disorders of Gut–Brain Interaction and the Rome V Process]]

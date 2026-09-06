@@ -3,7 +3,7 @@ title: "Acute Lower Gastrointestinal Bleeding (LGIB)"
 category: diagnostic-schema
 tags: [lower-gi-bleeding, lgib, hematochezia, diverticular, colonoscopy, hemorrhage, cta, risk-stratification]
 created: 2026-05-15
-updated: 2026-09-01
+updated: 2026-09-06
 sources: [acg-2023-lgib, asge-2014-lgib, acg-2021-ugib]
 ---
 
@@ -377,7 +377,7 @@ Scores supplement but do not replace clinical judgment. Low-risk patients (Oakla
 
 ## See Also
 
-[[upper-gi-bleeding]], [[variceal-upper-gi-bleeding]], [[small-bowel-bleeding]], [[colonoscopy]], [[upper-endoscopy]], [[colon-ischemia]], [[angioectasia]], [[hemorrhoids]], [[heydes-syndrome]], [[colorectal-cancer]], [[inflammatory-bowel-disease]], [[crohns-disease]], [[ulcerative-colitis]], [[clostridioides-difficile]], [[radiation-proctopathy]], [[anal-fissure]], [[peptic-ulcer-disease]], [[polypectomy]], [[argon-plasma-coagulation]], [[anticoagulation-gi-bleeding]], [[iron-deficiency-anemia]], [[portal-hypertension]], [[cirrhosis]]
+[[upper-gi-bleeding]], [[variceal-upper-gi-bleeding]], [[small-bowel-bleeding]], [[colonoscopy]], [[upper-endoscopy]], [[colon-ischemia]], [[angioectasia]], [[hemorrhoids]], [[heydes-syndrome]], [[colorectal-cancer]], [[inflammatory-bowel-disease]], [[crohns-disease]], [[ulcerative-colitis]], [[clostridioides-difficile]], [[radiation-proctopathy]], [[anal-fissure]], [[peptic-ulcer-disease]], [[polypectomy]], [[argon-plasma-coagulation]], [[endoscopic-hemostasis]], [[anticoagulation-gi-bleeding]], [[iron-deficiency-anemia]], [[portal-hypertension]], [[cirrhosis]]
 
 ---
 

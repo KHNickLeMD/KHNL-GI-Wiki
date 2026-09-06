@@ -3,7 +3,7 @@ title: "Mesenteric Artery Aneurysm"
 category: disease-script
 tags: [mesenteric-artery-aneurysm, splanchnic-aneurysm, pseudoaneurysm, sma, vascular-lesion, rupture]
 created: 2026-06-01
-updated: 2026-09-03
+updated: 2026-09-06
 sources: [acg-2020-hepatic-mesenteric-circulation]
 ---
 
@@ -38,7 +38,7 @@ sources: [acg-2020-hepatic-mesenteric-circulation]
 
 ## Differential Diagnosis
 
-*No dedicated diagnostic schema covers the incidental splanchnic vascular lesion; workup is imaging-led (CTA) as above.*
+*Workup when the aneurysm declares itself as GI bleeding rather than as an incidental finding: see [[upper-gi-bleeding]] or [[acute-lower-gi-bleeding]] — the guideline says only "GI bleeding" and does not specify the tract. No dedicated diagnostic schema covers the incidental splanchnic vascular lesion; that workup is imaging-led (CTA) as above.*
 
 - Mesenteric vein thrombosis (MVT) and [[portal-vein-thrombosis|portal vein thrombosis]] — the other mesenteric vascular disorders covered by the same guideline; venous rather than arterial. [[acg-2020-hepatic-mesenteric-circulation]]
 - [[acute-mesenteric-ischemia|Acute mesenteric ischemia]] — overlapping presentation when an aneurysm thromboses or ruptures.
@@ -67,7 +67,7 @@ sources: [acg-2020-hepatic-mesenteric-circulation]
 
 ## See Also
 
-[[acute-mesenteric-ischemia]], [[portal-vein-thrombosis]], [[budd-chiari-syndrome]], [[hereditary-hemorrhagic-telangiectasia]], [[colon-ischemia]], [[cirrhosis-hemostasis]], [[acute-pancreatitis]], [[liver-transplantation]]
+[[acute-mesenteric-ischemia]], [[portal-vein-thrombosis]], [[budd-chiari-syndrome]], [[hereditary-hemorrhagic-telangiectasia]], [[colon-ischemia]], [[cirrhosis-hemostasis]], [[acute-pancreatitis]], [[liver-transplantation]], [[upper-gi-bleeding]], [[acute-lower-gi-bleeding]]
 
 ---
 

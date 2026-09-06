@@ -3,7 +3,7 @@ title: "Meckel's Diverticulum"
 category: disease-script
 tags: [meckels-diverticulum, small-bowel, gi-bleeding, ectopic-gastric-mucosa, pediatric]
 created: 2026-05-19
-updated: 2026-08-27
+updated: 2026-09-06
 sources: [acg-2015-small-bowel-bleeding, asge-2017-small-bowel-bleeding]
 ---
 
@@ -40,7 +40,7 @@ Other small-bowel bleeding sources to consider — with an age skew toward the y
 - [[peptic-ulcer-disease|NSAID ulcers]]
 - [[angioectasia|Angioectasias]] / vascular lesions (Dieulafoy's lesion, [[hereditary-hemorrhagic-telangiectasia|Osler–Weber–Rendu]])
 - Small-bowel neoplasms ([[gastrointestinal-stromal-tumor|GIST]], lymphoma, [[gastroenteropancreatic-neuroendocrine-tumors|carcinoid]], adenocarcinoma, polypoid lesions)
-- Polyposis syndromes, radiation enteropathy, small-bowel varices, aortoenteric fistula
+- [[colorectal-polyposis|Polyposis syndromes]], radiation enteropathy, small-bowel varices, aortoenteric fistula
 
 ## Diagnostics
 

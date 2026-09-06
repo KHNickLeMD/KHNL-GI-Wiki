@@ -3,7 +3,7 @@ title: "HRM Before and After Antireflux Surgery (Padova Classification)"
 category: concept
 tags: [HRM, antireflux-surgery, fundoplication, GERD, esophageal-manometry, EGJ, Padova-classification, PFOO, pseudoachalasia]
 created: 2026-05-15
-updated: 2026-08-31
+updated: 2026-09-06
 sources: [padova-2025-hrm-antireflux]
 ---
 
@@ -19,7 +19,9 @@ The **Padova Consensus (2025)** — a 3-year, 29-expert international process us
 
 ### Why HRM Is Mandatory Before ARS
 
-- ~3% of patients presenting with [[gerd|GERD]]-like symptoms referred for ARS have **[[achalasia|achalasia spectrum disorders]]** — missed on clinical grounds alone
+- **HRM is essential to exclude motor disorders not amenable to ARS** (median score 9, **89% agreement**).
+- In a series of **>1000 patients** having HRM before ARS, **3%** had EGJ obstruction suspicious for **[[achalasia|achalasia-spectrum disorders]]**, where standard ARS would have significantly worsened esophageal transit — missed on clinical grounds alone.
+- Conversely, in a series of **524 achalasia patients, 29% had been referred for ARS** because of incomplete response to [[gerd|GERD]] management.
 - Wrapping over an achalastic esophagus creates pseudoachalasia and severe [[dysphagia]]
 - HRM identifies contraindications, relative contraindications, and conditions requiring pre-ARS treatment
 
@@ -59,8 +61,9 @@ A **successful fundoplication** on HRM shows:
 **Post-ARS IRP norms differ from surgery-naive patients:**
 
 - Nissen fundoplication → higher EGJ pressures + higher IRP + higher contractility vs. partial wrap
-- Post-ARS IRP **<15 mmHg** (Medtronic catheter) = upper limit of normal post-ARS
-- Values above Chicago Classification 4.0 threshold (15 mmHg) may be normal after Nissen; interpret in post-ARS context
+- **There is no established post-ARS upper limit of normal for IRP.** The consensus states verbatim: the "normal" post-surgical IRP "is expected to be greater than in surgery-naive patients so **any value < 15 mm Hg using Medtronic systems is consistent with normal though even a higher value may be within normal limits**." So **<15 mmHg (Medtronic) rules IRP normal; ≥15 mmHg does not rule it abnormal** — do not read 15 as a post-ARS cut-off.
+- Padova explicitly notes **minimal data** on expected "normal" IRP in wholly asymptomatic postfundoplication patients, with variance expected by **wrap type** and **manometry system**.
+- ⚠ **Do not use IRP alone.** "Reliance on IRP alone may be insufficient to assess for outflow obstructive physiology" — the diagnostic unit is high IBP **+** high IRP (see [[#PFOO — Post-Fundoplication Outflow Obstruction]]).
 
 ### PFOO — Post-Fundoplication Outflow Obstruction
 
@@ -71,6 +74,12 @@ Defined by the **simultaneous** presence of:
 
 Neither finding alone is sufficient for PFOO. PFOO indicates obstruction at the level of the wrap and encompasses tight, twisted, or stenotic configurations.
 
+- Median score **8**, **93% agreement**.
+- A **very prominent single HPZ with impaired or failed deglutitive relaxation** indicates a twisted or too-tight fundoplication (median score 8, **86% agreement**).
+- In the Padova algorithm, PFOO is reached by **either** a hypertensive neo-LES **or** a normotensive neo-LES with elevated median IRP; **intrabolus pressurization increases confidence** in the diagnosis.
+
+> **Gap — no numeric IBP threshold.** [[padova-2025-hrm-antireflux]] never states what pressure counts as "elevated" intrabolus pressure post-ARS, and gives no post-ARS basal-pressure cut-offs for "hypotensive" / "normotensive" / "hypertensive" neo-LES. The surgery-naive supine IBP threshold on [[chicago-classification-v4]] (**20 mmHg**, Medtronic) is not validated after fundoplication — do not carry it over. Would need a post-ARS normative-values study.
+
 ---
 
 ## The Padova Classification
@@ -79,7 +88,7 @@ A two-step algorithm for post-ARS HRM interpretation:
 
 ### Step 1: Anatomy — Is there neo-LES/CD Separation >1 cm?
 
-Assess whether the HPZ is in the expected infradiaphragmatic position relative to the crural diaphragm:
+Assess whether the HPZ is in the expected infradiaphragmatic position relative to the crural diaphragm. *(The consensus statement writes the criterion as **≥1 cm**; the discussion writes **>1 cm** — reproduced as published.)*
 
 | Finding | Diagnosis |
 |---|---|
@@ -150,8 +159,8 @@ flowchart TD
 ## Key Clinical Principles
 
 1. **No single manometric finding alone mandates reoperation** — integrate HRM, symptoms, endoscopy, and functional imaging (FLIP, TBE)
-2. **Pre-ARS HRM is mandatory** — 3% achalasia incidence in GERD referrals is clinically unacceptable to miss
-3. **Post-ARS IRP threshold is higher** — <15 mmHg (Medtronic) is post-ARS normal, not the surgery-naive threshold
+2. **Pre-ARS HRM is mandatory** — 3% achalasia-spectrum rate in ARS referrals is clinically unacceptable to miss
+3. **There is no post-ARS IRP cut-off** — <15 mmHg (Medtronic) confirms normal, but a higher value may still be normal after a wrap; never call PFOO on IRP alone
 4. **PFOO = IBP + IRP together** — elevated IRP alone after Nissen is expected; the combination with elevated IBP defines obstruction
 5. **Absent peristalsis post-ARS requires pre-op comparison** — same finding means completely different things depending on pre-operative motor status
 

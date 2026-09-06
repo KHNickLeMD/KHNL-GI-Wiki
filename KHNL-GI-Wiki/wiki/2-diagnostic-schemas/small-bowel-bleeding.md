@@ -3,7 +3,7 @@ title: "Small Bowel Bleeding"
 category: diagnostic-schema
 tags: [small-bowel, gi-bleeding, obscure-gi-bleeding, mid-gi-bleeding, capsule-endoscopy, deep-enteroscopy, angioectasia, vce, dbe, iron-deficiency-anemia]
 created: 2026-05-19
-updated: 2026-09-05
+updated: 2026-09-06
 sources: [acg-2015-small-bowel-bleeding, aga-2020-ida, asge-2017-small-bowel-bleeding]
 ---
 
@@ -284,7 +284,7 @@ If bleeding persists or recurs and lesion cannot be localized: *(Strong/Moderate
 
 ## See Also
 
-[[upper-gi-bleeding]], [[acute-lower-gi-bleeding]], [[crohns-disease]], [[inflammatory-bowel-disease]], [[angioectasia]], [[meckels-diverticulum]], [[familial-adenomatous-polyposis]], [[peutz-jeghers-syndrome]], [[heydes-syndrome]], [[hereditary-hemorrhagic-telangiectasia]], [[subepithelial-lesion]], [[celiac-disease]], [[capsule-endoscopy]], [[device-assisted-enteroscopy]], [[upper-endoscopy]], [[colonoscopy]], [[peptic-ulcer-disease]], [[gastrointestinal-stromal-tumor]], [[gastroenteropancreatic-neuroendocrine-tumors]], [[argon-plasma-coagulation]], [[somatostatin-analogs]], [[anticoagulation-gi-bleeding]], [[iron-deficiency-anemia]]
+[[upper-gi-bleeding]], [[acute-lower-gi-bleeding]], [[crohns-disease]], [[inflammatory-bowel-disease]], [[angioectasia]], [[meckels-diverticulum]], [[familial-adenomatous-polyposis]], [[peutz-jeghers-syndrome]], [[heydes-syndrome]], [[hereditary-hemorrhagic-telangiectasia]], [[subepithelial-lesion]], [[celiac-disease]], [[capsule-endoscopy]], [[device-assisted-enteroscopy]], [[upper-endoscopy]], [[colonoscopy]], [[peptic-ulcer-disease]], [[gastrointestinal-stromal-tumor]], [[gastroenteropancreatic-neuroendocrine-tumors]], [[argon-plasma-coagulation]], [[endoscopic-hemostasis]], [[somatostatin-analogs]], [[anticoagulation-gi-bleeding]], [[iron-deficiency-anemia]]
 
 ---
 

@@ -3,7 +3,7 @@ title: "Autoimmune Hepatitis"
 category: disease-script
 tags: [aih, autoimmune, hepatitis, liver, hpb, igg, immunosuppression, pregnancy, azathioprine, budesonide, mycophenolate-mofetil, mmf, tacrolimus, overlap-syndrome, pbc, psc, cirrhosis, liver-transplant]
 created: 2026-05-16
-updated: 2026-09-05
+updated: 2026-09-06
 sources: [acg-2017-liver-chemistries, acg-2016-liver-disease-pregnancy, aasld-2020-autoimmune-hepatitis, aasld-2018-pbc]
 ---
 
@@ -120,7 +120,7 @@ Both definitions additionally require **no previously recognized liver disease**
 ### Pretreatment Evaluation
 
 - **TPMT genotype or phenotype** — screen before AZA initiation; poor metabolizers at risk for severe myelosuppression [[aasld-2020-autoimmune-hepatitis]]
-- **HBsAg and anti-HBc total** — prophylactic antiviral (entecavir or tenofovir) required if HBsAg positive before initiating immunosuppression
+- **HBsAg and anti-HBc total** — prophylactic antiviral (entecavir or tenofovir) required if HBsAg positive before initiating immunosuppression; the reactivation risk tiers, agent choice, and prophylaxis duration are on [[chronic-hepatitis-b|chronic hepatitis B → HBV Reactivation on Immunosuppression]]
 - **DEXA scan** — baseline; repeat q2–3 years on glucocorticoids; [[aasld-2020-autoimmune-hepatitis]]
 - **Vaccinations** (HAV, HBV, influenza, pneumococcal, Tdap, COVID-19) — before immunosuppression initiation
 - Extrahepatic autoimmune disease screening: thyroid disease, RA, [[inflammatory-bowel-disease|IBD]], Sjogren's, ANCA-vasculitis, celiac disease
@@ -301,7 +301,7 @@ See [[liver-transplantation]] for broader post-LT context.
 
 ## See Also
 
-[[abnormal-liver-chemistries]], [[jaundice]], [[drug-induced-liver-injury]], [[primary-biliary-cholangitis]], [[primary-sclerosing-cholangitis]], [[wilson-disease]], [[hereditary-hemochromatosis]], [[acute-liver-failure]], [[liver-disease-in-pregnancy]], [[liver-transplantation]], [[alcohol-associated-liver-disease]], [[hcc-surveillance]], [[tacrolimus]], [[portal-hypertension]], [[portal-vein-thrombosis]], [[hepatic-encephalopathy]], [[cirrhosis]], [[liver-biopsy]], [[liver-stiffness-measurement]], [[mri-mrcp]], [[ercp]], [[celiac-disease]], [[inflammatory-bowel-disease]], [[cholangiocarcinoma]], [[hepatitis-c]], [[nafld-masld]], [[calcineurin-inhibitors]], [[thiopurines]], [[anti-tnf-agents]]
+[[abnormal-liver-chemistries]], [[jaundice]], [[drug-induced-liver-injury]], [[primary-biliary-cholangitis]], [[primary-sclerosing-cholangitis]], [[wilson-disease]], [[hereditary-hemochromatosis]], [[acute-liver-failure]], [[liver-disease-in-pregnancy]], [[acute-fatty-liver-of-pregnancy]], [[liver-transplantation]], [[alcohol-associated-liver-disease]], [[hcc-surveillance]], [[tacrolimus]], [[portal-hypertension]], [[portal-vein-thrombosis]], [[hepatic-encephalopathy]], [[cirrhosis]], [[liver-biopsy]], [[liver-stiffness-measurement]], [[mri-mrcp]], [[ercp]], [[celiac-disease]], [[inflammatory-bowel-disease]], [[ulcerative-colitis]], [[cholangiocarcinoma]], [[hepatitis-c]], [[chronic-hepatitis-b]], [[nafld-masld]], [[calcineurin-inhibitors]], [[thiopurines]], [[anti-tnf-agents]]
 
 ---
 

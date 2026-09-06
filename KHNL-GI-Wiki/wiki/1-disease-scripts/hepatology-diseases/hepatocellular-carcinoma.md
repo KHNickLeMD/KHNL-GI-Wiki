@@ -187,6 +187,8 @@ flowchart TD
 
 - Data support surgical resection in select multinodular HCC beyond [[#Liver Transplantation for HCC|Milan criteria]] at high-volume centers (meta-analysis of 18 studies: HR 0.56, 95% CI 0.35–0.90 vs. TACE in BCLC B)
 - Multifocal HCC and resection with PVTT: controversial; supported by Asian data for selected patients (Vp1/Vp2 segmental thrombus); perform only at high-volume centers with MDT discussion
+  - **Vp nomenclature (extent of portal vein tumor thrombus)** — the resection/TACE/TARE decisions above and below all turn on it. [[aasld-2023-hcc]] labels **Vp1 = subsegmental** and **Vp2 = segmental** portal branch involvement (where meaningful long-term survival after resection has been reported), and **Vp4 = main portal vein** — the "large-vessel / main PVTT" that makes both TACE and TARE unsuitable
+  - *Gap: [[aasld-2023-hcc]] never defines **Vp3**, and the original Liver Cancer Study Group of Japan classification is not ingested — take the Vp level from the radiology/MDT report; do not reconstruct the full scale from memory.*
 
 **Minimally invasive surgery (GS 30, Level 3, Weak):** Laparoscopic/robotic hepatectomy may enhance recovery in selected patients; permits surgery in patients with mild portal hypertension for minor liver resection; major hepatectomy via MIS only at high-volume, experienced centers.
 

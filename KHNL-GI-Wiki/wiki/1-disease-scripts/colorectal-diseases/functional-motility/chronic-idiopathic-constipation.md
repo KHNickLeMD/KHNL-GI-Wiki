@@ -3,7 +3,7 @@ title: "Chronic Idiopathic Constipation"
 category: disease-script
 tags: [constipation, cic, laxatives, secretagogues, peg, linaclotide, colorectal, functional]
 created: 2026-05-16
-updated: 2026-09-05
+updated: 2026-09-06
 sources: [aga-acg-2023-constipation, acg-2021-anorectal-disorders, asge-2014-constipation, aga-2026-refractory-constipation, rome-v-2026-dgbi]
 ---
 
@@ -115,7 +115,7 @@ Assess impact on quality of life with the **PAC-QOL** (Patient Assessment of Con
 ### Anorectal Physiology Testing (if outlet dysfunction suspected)
 
 - **[[anorectal-manometry|Anorectal manometry (ARM)]]:** measures resting tone, squeeze, push effort, rectoanal inhibitory reflex
-- **Balloon expulsion test (BET):** expulsion of 50 mL balloon within 1 minute (seated); abnormal >1 min; >2 min with Foley catheter = abnormal
+- **Balloon expulsion test (BET):** expulsion of a 50 mL **commercial** balloon within 1 minute (seated); abnormal >1 min. **The cutoff is balloon-specific, and ACG discourages Foley balloons** — 50 mL exceeds the manufacturer's 30 mL limit and, even at the looser 2-minute Foley cutoff, 25% of healthy people are misclassified as abnormal. Mechanics on the ARM page. [[acg-2021-anorectal-disorders]]
 - **Defecography (barium or MRI):** for structural abnormalities (rectocele, prolapse) if ARM + BET discordant or biofeedback fails
 - **Colonic transit study** (radiopaque markers or wireless motility capsule): only if anorectal physiology is normal and patient not responding to biofeedback; distinguishes slow-transit from outlet dysfunction
 

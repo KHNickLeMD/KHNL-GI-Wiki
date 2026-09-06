@@ -3,7 +3,7 @@ title: "Prucalopride"
 category: med
 tags: [prucalopride, 5-ht4-agonist, prokinetic, cic, constipation]
 created: 2026-05-19
-updated: 2026-09-03
+updated: 2026-09-06
 sources: [aga-acg-2023-constipation, aga-2025-gastroparesis, aga-2026-refractory-constipation]
 ---
 
@@ -15,6 +15,8 @@ sources: [aga-acg-2023-constipation, aga-2025-gastroparesis, aga-2026-refractory
 - [[#Contraindications]]
 - [[#Adverse Effects]]
 - [[#Place in Therapy]]
+- [[#See Also]]
+- [[#Sources]]
 
 ## Class
 

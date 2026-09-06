@@ -3,7 +3,7 @@ title: "Operational Tolerance (Transplant)"
 category: concept
 tags: [operational-tolerance, immunosuppression, liver-transplant, is-withdrawal, tolerance]
 created: 2026-05-19
-updated: 2026-09-05
+updated: 2026-09-06
 sources: [aasld-2012-liver-transplant-long-term, aasld-ast-2025-liver-transplant-graft-complications]
 ---
 
@@ -11,7 +11,7 @@ sources: [aasld-2012-liver-transplant-long-term, aasld-ast-2025-liver-transplant
 
 Survival and functioning of the transplanted allograft **in the absence of immunosuppression**, usually **for more than a year** — arising either spontaneously (non-adherence, or on medical advice because of a serious malignancy or infection) or through a deliberate withdrawal protocol ([[aasld-ast-2025-liver-transplant-graft-complications]]). The liver is more immune-tolerant than other solid organ allografts because it clears blood-borne pathogens and processes gut-derived food-borne antigens, so the chance of operational tolerance is higher after [[liver-transplantation|LT]] than after other solid organ transplants.
 
-> **Do not confuse with CNI withdrawal.** Reducing or withdrawing **[[calcineurin-inhibitors|CNI]]-based** immunosuppression is a *different, routine* maneuver — a renal-sparing switch (typically to sirolimus/everolimus ± mycophenolate, or steroids + mycophenolate/azathioprine) and a **Grade 1, Level A** response to CKD in LT recipients ([[aasld-2012-liver-transplant-long-term]], Rec 29). Renal function is more likely to be preserved if CNI withdrawal is started while **eGFR is 40–50 mL/min/1.73 m²**. Operational tolerance means **all** immunosuppression stopped, and is not routinely recommended.
+> **Do not confuse with CNI withdrawal.** Reducing or withdrawing **[[calcineurin-inhibitors|CNI]]-based** immunosuppression is a *different, routine* maneuver — a renal-sparing switch (typically to sirolimus/everolimus ± mycophenolate, or steroids + mycophenolate/[[thiopurines|azathioprine]]) and a **Grade 1, Level A** response to CKD in LT recipients ([[aasld-2012-liver-transplant-long-term]], Rec 29). Renal function is more likely to be preserved if CNI withdrawal is started while **eGFR is 40–50 mL/min/1.73 m²**. Operational tolerance means **all** immunosuppression stopped, and is not routinely recommended.
 
 ## Prevalence and Predictors
 
@@ -53,7 +53,7 @@ Per [[aasld-2012-liver-transplant-long-term]] (Rec 9, **Grade 2, Level C**): *"A
 
 ## See Also
 
-[[liver-transplantation]], [[calcineurin-inhibitors]], [[tacrolimus]], [[antibody-mediated-rejection-liver-transplant]], [[liver-biopsy]], [[autoimmune-hepatitis]], [[primary-biliary-cholangitis]], [[primary-sclerosing-cholangitis]], [[liver-stiffness-measurement]]
+[[liver-transplantation]], [[calcineurin-inhibitors]], [[tacrolimus]], [[antibody-mediated-rejection-liver-transplant]], [[liver-biopsy]], [[autoimmune-hepatitis]], [[primary-biliary-cholangitis]], [[primary-sclerosing-cholangitis]], [[liver-stiffness-measurement]], [[thiopurines]]
 
 ---
 

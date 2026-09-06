@@ -3,7 +3,7 @@ title: "Variceal Upper GI Bleeding"
 category: diagnostic-schema
 tags: [cirrhosis, portal-hypertension, variceal-bleeding, upper-gi-bleeding, hemostasis, antibiotic-prophylaxis, TIPS, EVL, carvedilol, NSBB, gastric-varices, preemptive-TIPS]
 created: 2026-05-15
-updated: 2026-09-05
+updated: 2026-09-06
 sources: [baveno-viii-2026-portal-hypertension, albhaisi-2025-prophylactic-antibiotics-cirrhosis, aasld-2023-portal-hypertension, baveno-vii-2022-portal-hypertension, aga-2024-vasoactive-albumin-cirrhosis, aasld-2024-tips]
 ---
 
@@ -172,7 +172,7 @@ Standard practice recommends prophylactic antibiotics to prevent bacterial infec
 
 ## See Also
 
-[[portal-hypertension]], [[cirrhosis]], [[porto-sinusoidal-vascular-disorder]], [[tips]], [[upper-gi-bleeding]], [[acute-lower-gi-bleeding]], [[ascites]], [[spontaneous-bacterial-peritonitis]], [[hepatic-encephalopathy]], [[peptic-ulcer-disease]], [[helicobacter-pylori-infection]], [[liver-transplantation]], [[antibiotic-prophylaxis-cirrhosis]], [[somatostatin-analogs]], [[nutrition-in-liver-disease]], [[cirrhosis-hemostasis]], [[rifaximin]], [[upper-endoscopy]], [[hepatic-venous-pressure-gradient]], [[acute-on-chronic-liver-failure]], [[portal-vein-thrombosis]], [[endoscopy-sedation]], [[anticoagulation-gi-bleeding]], [[endoscopic-ultrasound]], [[hepatocellular-carcinoma]], [[proton-pump-inhibitors]]
+[[portal-hypertension]], [[cirrhosis]], [[porto-sinusoidal-vascular-disorder]], [[tips]], [[upper-gi-bleeding]], [[acute-lower-gi-bleeding]], [[ascites]], [[spontaneous-bacterial-peritonitis]], [[hepatic-encephalopathy]], [[peptic-ulcer-disease]], [[helicobacter-pylori-infection]], [[liver-transplantation]], [[antibiotic-prophylaxis-cirrhosis]], [[somatostatin-analogs]], [[nutrition-in-liver-disease]], [[cirrhosis-hemostasis]], [[rifaximin]], [[upper-endoscopy]], [[hepatic-venous-pressure-gradient]], [[acute-on-chronic-liver-failure]], [[portal-vein-thrombosis]], [[endoscopy-sedation]], [[anticoagulation-gi-bleeding]], [[endoscopic-ultrasound]], [[hepatocellular-carcinoma]], [[proton-pump-inhibitors]], [[endoscopic-hemostasis]], [[argon-plasma-coagulation]]
 
 ---
 

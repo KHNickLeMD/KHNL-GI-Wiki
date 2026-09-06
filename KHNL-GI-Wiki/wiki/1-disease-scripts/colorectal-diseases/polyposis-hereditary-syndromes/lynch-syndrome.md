@@ -3,8 +3,8 @@ title: "Lynch Syndrome"
 category: disease-script
 tags: [lynch, hnpcc, mmr, msi, hereditary-crc, endometrial-cancer, oncology, genetic-testing, colorectal-cancer]
 created: 2026-05-19
-updated: 2026-09-04
-sources: [acg-2015-hereditary-gi-cancer, usmstf-2014-lynch-syndrome, usmstf-2017-bmmrd]
+updated: 2026-09-06
+sources: [acg-2015-hereditary-gi-cancer, usmstf-2014-lynch-syndrome, usmstf-2017-bmmrd, asge-2022-pancreatic-cancer-screening, nccn-2026-colon-cancer]
 ---
 
 ## Contents
@@ -213,6 +213,7 @@ LS is classified by the causative gene. Share of LS families and the identifying
 - **9- to 11-fold** relative risk vs general population (ACG 2015 Table 12). Two cohorts: SIR **10.7** (95% CI 2.7–47.7) with a **10-year cumulative risk 0.95%**; and an **8.6-fold** increase (95% CI 4.7–15.7) with **cumulative risk 3.7% by age 70**. A third cohort using dedicated histologic review found **no** excess risk
 - Because LS carries a *lower* relative risk than [[peutz-jeghers-syndrome|PJS]]/[[fammm-syndrome|FAMMM]]/[[hereditary-pancreatitis|hereditary pancreatitis]], **surveillance is limited to carriers with a first- or second-degree relative affected by pancreatic cancer** *(Conditional; very low)* — and should be done at experienced centres, ideally under research conditions
 - When performed: **[[endoscopic-ultrasound|EUS]] and/or MRI annually, starting age 50** — or **10 years younger than the earliest pancreatic cancer in the family** *(ACG 2015 Rec 23)*. See [[pancreatic-cancer-screening]]
+- **The newer [[asge-2022-pancreatic-cancer-screening|ASGE 2022]] guideline confirms both the restriction and the age** — its start-age statement is written for "**Lynch syndrome *with* a first- or second-degree relative with pancreatic cancer**," at **age 50 or 10 years earlier than the youngest relative with pancreatic cancer** *(Rec 6h)*, screened **annually** *(Rec 4; conditional, very low)*. LS is also one of the settings in which **EUS may be preferred** as the screening modality, because it can be combined with the screening EGD/colonoscopy the patient is already due *(Rec 2)*
 - [[usmstf-2014-lynch-syndrome]] states routine pancreatic screening is **not** recommended (benefit unestablished at this magnitude of risk); ACG 2015 is the newer source and its conditional criteria govern this page
 
 **CNS / sebaceous neoplasms**:
@@ -241,6 +242,8 @@ LS is classified by the causative gene. Share of LS families and the identifying
 
 - **Pembrolizumab** (anti-PD-1) is FDA-approved for advanced MSI-H/dMMR tumors regardless of tissue of origin — directly relevant to LS-associated cancers
 - Lynch syndrome tumors are MSI-H/dMMR by definition → high tumor mutational burden → favorable immunotherapy response
+- **[[nccn-2026-colon-cancer|NCCN 2026]] for MSI-H/dMMR metastatic colon cancer: pembrolizumab first-line, or nivolumab ± ipilimumab.** The same guideline is why every colon cancer gets MMR/MSI tested — the one test serves both LS screening and immunotherapy selection
+- **Adjuvant caveat:** **MSI-H stage II tumors generally do not benefit from single-agent fluoropyrimidine adjuvant therapy** [[nccn-2026-colon-cancer]] — the MMR result changes adjuvant treatment, not just the genetic referral. Full oncologic staging and systemic-therapy framework lives on the colorectal cancer page
 
 ### Genetic Counseling
 
@@ -262,3 +265,5 @@ LS is classified by the causative gene. Share of LS families and the identifying
 1. [[acg-2015-hereditary-gi-cancer|ACG 2015: Genetic Testing and Management of Hereditary Gastrointestinal Cancer Syndromes]]
 2. [[usmstf-2014-lynch-syndrome|Genetic Evaluation and Management of Lynch Syndrome: A Practice Guideline from the American College of Gastroenterology]]
 3. [[usmstf-2017-bmmrd|USMSTF 2017: Recommendations on Surveillance and Management of Biallelic Mismatch Repair Deficiency (BMMRD) Syndrome]]
+4. [[asge-2022-pancreatic-cancer-screening|ASGE Guideline on Screening for Pancreatic Cancer in Individuals with Genetic Susceptibility: Summary and Recommendations (2022)]]
+5. [[nccn-2026-colon-cancer|NCCN Clinical Practice Guidelines in Oncology: Colon Cancer (Version 2.2026)]]

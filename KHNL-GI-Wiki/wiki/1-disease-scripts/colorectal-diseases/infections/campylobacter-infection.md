@@ -3,7 +3,7 @@ title: "Campylobacter Infection"
 category: disease-script
 tags: [campylobacter, bacterial-gastroenteritis, diarrhea, travelers-diarrhea, dysentery, fluoroquinolone-resistance, guillain-barre]
 created: 2026-05-19
-updated: 2026-08-28
+updated: 2026-09-06
 sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
 ---
 
@@ -30,7 +30,9 @@ sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
 
 - Other inflammatory bacterial enteritides — [[salmonella-infection]], [[shigellosis]], *Yersinia enterocolitica*
 - **Shiga toxin–producing *E. coli* (STEC/EHEC)** — bloody diarrhea ± HUS; **do NOT give antimicrobials** for STEC O157, any Shiga-toxin-2 producer, or when the toxin genotype is unknown *(strong, moderate)*. [[idsa-2017-infectious-diarrhea]] (Rec 35). Not the same organism as [[enterotoxigenic-e-coli|ETEC]] (watery, noninvasive).
+- Amebic dysentery — [[entamoeba-histolytica-infection|*Entamoeba histolytica*]]; species-level EIA/PCR required, since microscopy cannot separate it from non-pathogenic *E. dispar*. [[acg-2016-acute-diarrhea]]
 - [[clostridioides-difficile|*C. difficile*]] colitis
+- Viral gastroenteritis — [[norovirus]], [[rotavirus]], adenovirus; watery and non-bloody, and the reason antibiotics are discouraged for community-acquired diarrhea *(strong, very low)*. [[acg-2016-acute-diarrhea]] (Rec 10)
 - [[inflammatory-bowel-disease|Inflammatory bowel disease]] flare
 
 ---
@@ -86,7 +88,7 @@ Unlike [[salmonella-infection|nontyphoidal *Salmonella*]], there is **no evidenc
 
 ## See Also
 
-[[acute-diarrhea]], [[fever-returning-traveler]], [[salmonella-infection]], [[shigellosis]], [[enterotoxigenic-e-coli]], [[clostridioides-difficile]], [[inflammatory-bowel-disease]], [[rifaximin]], [[loperamide]], [[postinfectious-ibs]]
+[[acute-diarrhea]], [[fever-returning-traveler]], [[salmonella-infection]], [[shigellosis]], [[enterotoxigenic-e-coli]], [[entamoeba-histolytica-infection]], [[clostridioides-difficile]], [[norovirus]], [[rotavirus]], [[inflammatory-bowel-disease]], [[rifaximin]], [[loperamide]], [[postinfectious-ibs]]
 
 ---
 

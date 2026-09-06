@@ -3,7 +3,7 @@ title: "Anal Fissure"
 category: disease-script
 tags: [anal-fissure, anorectal, lis, sphincterotomy, botulinum, colorectal]
 created: 2026-05-16
-updated: 2026-09-05
+updated: 2026-09-06
 sources: [acg-2021-anorectal-disorders, asge-2010-anorectal-disorders, aga-2026-hemorrhoids]
 ---
 
@@ -31,7 +31,7 @@ sources: [acg-2021-anorectal-disorders, asge-2010-anorectal-disorders, aga-2026-
 
 **Examination technique** [[asge-2010-anorectal-disorders]]: best visualized with the patient in the **lateral knee-to-chest position, distracting the buttocks**. Anoscopy is often too painful acutely; defer if needed.
 
-**Location:** almost **90% posterior midline**; can also occur in the **anterior midline (19%)**. **Lateral or multiple fissures → suspect a secondary cause** — Crohn's disease, tuberculosis, syphilis, HIV/AIDS, dermatologic conditions (e.g. psoriasis), or anal carcinoma.
+**Location:** almost **90% posterior midline**; can also occur in the **anterior midline (19%)**. **Lateral or multiple fissures → suspect a secondary cause** — Crohn's disease, tuberculosis, syphilis, HIV/AIDS, dermatologic conditions (e.g. psoriasis), or [[anal-cancer-screening|anal carcinoma]].
 
 > **Fidelity note (fixed 2026-09-02):** the previously stated "~10% anterior, more common in women" was unsourced — ACG 2021 gives no anterior percentage and no sex association; the **19%** figure comes from [[asge-2010-anorectal-disorders]].
 
@@ -135,7 +135,7 @@ sources: [acg-2021-anorectal-disorders, asge-2010-anorectal-disorders, aga-2026-
 
 ## See Also
 
-[[hemorrhoids]], [[crohns-disease]], [[anorectal-manometry]], [[defecation-disorders]], [[proctalgia-syndromes]], [[fecal-incontinence]], [[rectal-prolapse]], [[colonoscopy]], [[colorectal-cancer-screening]], [[inflammatory-bowel-disease]], [[acute-lower-gi-bleeding]], [[chronic-constipation]]
+[[hemorrhoids]], [[crohns-disease]], [[anorectal-manometry]], [[defecation-disorders]], [[proctalgia-syndromes]], [[fecal-incontinence]], [[rectal-prolapse]], [[colonoscopy]], [[colorectal-cancer-screening]], [[anal-cancer-screening]], [[inflammatory-bowel-disease]], [[acute-lower-gi-bleeding]], [[chronic-constipation]]
 
 ---
 

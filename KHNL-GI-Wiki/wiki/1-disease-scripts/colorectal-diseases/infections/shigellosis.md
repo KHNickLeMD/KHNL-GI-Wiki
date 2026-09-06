@@ -3,7 +3,7 @@ title: "Shigellosis"
 category: disease-script
 tags: [shigella, bacterial-gastroenteritis, dysentery, diarrhea, travelers-diarrhea, azithromycin]
 created: 2026-05-19
-updated: 2026-09-05
+updated: 2026-09-06
 sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
 ---
 
@@ -62,7 +62,9 @@ sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
   - ***S. dysenteriae* is the named exception: 5 days of therapy appears superior to single-dose or 3-day therapy.**
   - If a single dose has not resolved symptoms by **24 h**, complete a 3-day course.
 - **Fluoroquinolones:** historically used; increasing resistance → azithromycin preferred. **Do not prescribe a fluoroquinolone if the ciprofloxacin MIC is ≥0.12 µg/mL — even when the laboratory reports the isolate as susceptible.** [[idsa-2017-infectious-diarrhea]] (Table 6)
-- **Empiric therapy is a named exception to the "no empiric antibiotics" rule:** an ill, febrile, immunocompetent patient with presumptive bacillary dysentery may be treated empirically while awaiting results (a fluoroquinolone or azithromycin per local susceptibility/travel). [[idsa-2017-infectious-diarrhea]]
+- **Empiric therapy is a named exception to the "no empiric antibiotics" rule — and the criteria are a conjunction, not a menu.** Empiric therapy for bloody diarrhea is **not** recommended in immunocompetent children and adults *(strong, low)* **except** for an **ill immunocompetent person with *all* of: documented fever, abdominal pain, bloody diarrhea, and bacillary dysentery presumptively due to *Shigella*** *(weak, low)*. (The other two carve-outs are infants **<3 months** with suspected bacterial etiology, and recent international travel with temperature **≥38.5 °C** and/or signs of sepsis — see [[fever-returning-traveler]].) [[idsa-2017-infectious-diarrhea]] (Rec 30)
+  - **Agent when treating empirically in adults:** a fluoroquinolone (e.g. ciprofloxacin) **or** azithromycin, chosen by local susceptibility patterns and travel history *(strong, moderate)*; in children, a third-generation cephalosporin for infants <3 months or neurologic involvement, otherwise azithromycin *(strong, moderate)*. [[idsa-2017-infectious-diarrhea]] (Rec 31)
+  - **Stop or narrow** once a clinically plausible organism is identified *(strong, high)*. [[idsa-2017-infectious-diarrhea]] (Rec 38)
 - **[[rifaximin|Rifaximin]]: do NOT use** — invasive pathogen; non-absorbable rifaximin is ineffective.
 - **[[loperamide|Loperamide]]:** use with caution in proven shigellosis (antimotility agents may theoretically worsen inflammatory colitis; rare in antibiotic-treated patients).
 - **Infection control:** very low inoculum → meticulous hand hygiene; exclude symptomatic food handlers / childcare workers.
@@ -75,7 +77,7 @@ sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
 
 ## See Also
 
-[[acute-diarrhea]], [[salmonella-infection]], [[campylobacter-infection]], [[enterotoxigenic-e-coli]], [[clostridioides-difficile]], [[norovirus]], [[postinfectious-ibs]], [[rifaximin]], [[loperamide]], [[inflammatory-bowel-disease]]
+[[acute-diarrhea]], [[salmonella-infection]], [[campylobacter-infection]], [[enterotoxigenic-e-coli]], [[entamoeba-histolytica-infection]], [[clostridioides-difficile]], [[norovirus]], [[postinfectious-ibs]], [[fever-returning-traveler]], [[rifaximin]], [[loperamide]], [[inflammatory-bowel-disease]]
 
 ---
 

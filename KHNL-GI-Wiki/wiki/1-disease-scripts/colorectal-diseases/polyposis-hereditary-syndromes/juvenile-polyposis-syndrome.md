@@ -3,7 +3,7 @@ title: "Juvenile Polyposis Syndrome"
 category: disease-script
 tags: [juvenile-polyposis, jps, smad4, bmpr1a, hamartoma, hereditary-crc, hht, upper-gi-cancer, genetic-testing]
 created: 2026-05-19
-updated: 2026-09-03
+updated: 2026-09-06
 sources: [acg-2015-hereditary-gi-cancer, aga-2022-hamartomatous-polyposis]
 ---
 
@@ -146,7 +146,7 @@ Juvenile polyposis syndrome (JPS) is an autosomal-dominant hamartomatous polypos
 
 ## See Also
 
-[[colorectal-polyposis]], [[peutz-jeghers-syndrome]], [[familial-adenomatous-polyposis]], [[cowden-syndrome]], [[lynch-syndrome]], [[serrated-polyposis-syndrome]], [[mutyh-associated-polyposis]], [[hereditary-mixed-polyposis-syndrome]], [[colorectal-cancer]], [[colonoscopy]], [[upper-endoscopy]], [[capsule-endoscopy]], [[gastric-adenocarcinoma]], [[gastric-polyps]], [[hereditary-hemorrhagic-telangiectasia]], [[angioectasia]], [[device-assisted-enteroscopy]], [[polypectomy]], [[iron-deficiency-anemia]]
+[[colorectal-polyposis]], [[peutz-jeghers-syndrome]], [[familial-adenomatous-polyposis]], [[cowden-syndrome]], [[lynch-syndrome]], [[serrated-polyposis-syndrome]], [[mutyh-associated-polyposis]], [[hereditary-mixed-polyposis-syndrome]], [[colorectal-cancer]], [[colonoscopy]], [[upper-endoscopy]], [[capsule-endoscopy]], [[gastric-adenocarcinoma]], [[gastric-polyps]], [[hereditary-hemorrhagic-telangiectasia]], [[angioectasia]], [[gastric-outlet-obstruction]], [[device-assisted-enteroscopy]], [[polypectomy]], [[iron-deficiency-anemia]]
 
 ---
 

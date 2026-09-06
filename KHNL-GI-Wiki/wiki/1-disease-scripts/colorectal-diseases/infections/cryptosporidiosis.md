@@ -21,6 +21,7 @@ sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea, acg-2020-ibs]
 
 - **Immunocompetent** — self-limited, ~1–2 weeks.
 - **Immunocompromised** (esp. low CD4) — severe, [[chronic-diarrhea|chronic]], high-volume, potentially biliary (AIDS cholangiopathy); severity tracks the degree of immunosuppression.
+  > *CD4 threshold gap — flagged, not filled.* No ingested source gives a CD4 cutoff that defines severe/chronic cryptosporidiosis; the CD4-stratified opportunistic-infection differential is corpus-blocked (see the note on [[hiv-aids-related-diarrhea]]). The only CD4 number in the corpus is the **<100 cells/mm³** biopsy-yield threshold on that page, which is about endoscopic yield, not cryptosporidiosis severity. A primary HIV opportunistic-infection guideline (CDC/NIH/IDSA OI) would be needed.
 
 ---
 

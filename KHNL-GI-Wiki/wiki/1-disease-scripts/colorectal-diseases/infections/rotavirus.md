@@ -3,7 +3,7 @@ title: "Rotavirus Gastroenteritis"
 category: disease-script
 tags: [rotavirus, viral-gastroenteritis, diarrhea, infectious-diarrhea, vaccine]
 created: 2026-05-19
-updated: 2026-09-03
+updated: 2026-09-06
 sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
 ---
 
@@ -98,7 +98,8 @@ Exposure/host features that raise the pretest probability of rotavirus. [[idsa-2
 - **Ancillary agents only after the patient is adequately hydrated** — never a substitute for fluid and electrolyte therapy *(weak, low)*. [[idsa-2017-infectious-diarrhea]] (Rec 46)
 - [[loperamide]] — **do not give to anyone <18 years** with acute diarrhea *(strong, moderate)*; **may** be given to immunocompetent **adults** with acute watery diarrhea *(weak, moderate)*; avoid at any age with fever/inflammatory diarrhea or where [[toxic-megacolon]] may result *(strong, low)*. [[idsa-2017-infectious-diarrhea]] (Rec 47)
 - **Children:** ondansetron may be given to facilitate ORS tolerance in children **>4 years** and adolescents with vomiting *(weak, moderate)* (Rec 48); oral **zinc** shortens diarrhea in children **6 months–5 years** who live where zinc deficiency is prevalent or who show signs of malnutrition *(strong, moderate)* (Rec 50). [[idsa-2017-infectious-diarrhea]]
-- [[probiotics]] — not recommended for acute diarrhea in adults, except post-antibiotic-associated illness *(strong, moderate)*. [[acg-2016-acute-diarrhea]] (Rec 6)
+- [[probiotics]] — **may** be offered to immunocompetent adults and children with infectious diarrhea to modestly reduce symptom severity and duration *(weak, moderate)*. [[idsa-2017-infectious-diarrhea]] (Rec 49)
+  > **Contradiction (surfaced).** The older same-tier [[acg-2016-acute-diarrhea|ACG 2016]] (Rec 6, *strong/moderate*) recommends **against** probiotics for acute diarrhea in adults **except** post-antibiotic-associated illness, and against them for TD prophylaxis (Rec 17). The newer [[idsa-2017-infectious-diarrhea|IDSA 2017]] position above is what this page asserts (newer within the same tier).
 
 ### Prevention
 

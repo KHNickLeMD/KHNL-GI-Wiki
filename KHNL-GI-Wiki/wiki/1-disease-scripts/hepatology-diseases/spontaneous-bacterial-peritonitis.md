@@ -3,8 +3,8 @@ title: "Spontaneous Bacterial Peritonitis"
 category: disease-script
 tags: [sbp, ascites, cirrhosis, peritonitis, cefotaxime, albumin]
 created: 2026-05-15
-updated: 2026-09-05
-sources: [aasld-2021-ascites-sbp-hrs, aga-2024-vasoactive-albumin-cirrhosis, baveno-viii-2026-portal-hypertension, baveno-vii-2022-portal-hypertension, aasld-2023-portal-hypertension]
+updated: 2026-09-06
+sources: [aasld-2021-ascites-sbp-hrs, aga-2025-ascites-cirrhosis, aga-2024-vasoactive-albumin-cirrhosis, baveno-viii-2026-portal-hypertension, baveno-vii-2022-portal-hypertension, aasld-2023-portal-hypertension]
 ---
 
 # Spontaneous Bacterial Peritonitis (SBP)
@@ -52,9 +52,11 @@ This threshold is chosen for maximal sensitivity to avoid undertreating SBP, as 
 
 **When to perform diagnostic paracentesis:**
 
-- All cirrhotic patients emergently admitted to hospital — regardless of whether infection symptoms are present
+- All cirrhotic patients emergently admitted to hospital — regardless of whether infection symptoms are present ([[aasld-2021-ascites-sbp-hrs]])
+- **New-onset ascites, or admission for symptoms related to ascites or encephalopathy → paracentesis as soon as possible** ([[aga-2025-ascites-cirrhosis]] BPA 2) — the newest guideline-tier trigger; narrower than, and contained within, the AASLD "all emergent admissions" rule above, so following AASLD satisfies both
 - Any cirrhotic patient with ascites developing fever, abdominal pain, [[hepatic-encephalopathy|encephalopathy]], AKI, or [[jaundice]]
 - Any cirrhotic patient with ascites and AKI (to rule out SBP as precipitant)
+- Any cirrhosis patient being worked up for **hyponatremia** — the infectious workup explicitly includes diagnostic paracentesis ([[aga-2025-ascites-cirrhosis]] BPA 8)
 - If diagnostic paracentesis is negative but bacterial infection still suspected and pleural effusion is present, perform diagnostic thoracentesis
 
 ### Severity Assessment
@@ -94,6 +96,7 @@ Infections in cirrhosis increase 10% mortality for every hour's delay in antibio
 - PMN count (cell count with differential)
 - Total protein
 - [[albumin|Albumin]] (for SAAG with simultaneous serum albumin)
+- **Gram stain** — named alongside SAAG, cell count and culture as the standard panel on every diagnostic tap ([[aga-2025-ascites-cirrhosis]] BPA 2)
 - Culture: bedside inoculation, ≥10 mL into aerobic AND anaerobic blood culture bottles, before first dose of antibiotics
 
 **Blood:**
@@ -220,7 +223,8 @@ Patients with prior SBP have ~68% 1-year recurrence rate without [[antibiotic-pr
 ## Sources
 
 1. [[aasld-2021-ascites-sbp-hrs|AASLD 2021: Diagnosis, Evaluation, and Management of Ascites, SBP, and HRS in Cirrhosis]]
-2. [[aga-2024-vasoactive-albumin-cirrhosis|AGA 2024 Clinical Practice Update on the Use of Vasoactive Drugs and Intravenous Albumin in Cirrhosis]]
-3. [[baveno-viii-2026-portal-hypertension|Baveno VIII — Advancing Consensus in Portal Hypertension (2026)]]
-4. [[baveno-vii-2022-portal-hypertension|Baveno VII — Renewing Consensus in Portal Hypertension (2022)]]
-5. [[aasld-2023-portal-hypertension|AASLD 2023 Practice Guidance on Portal Hypertension and Varices in Cirrhosis]]
+2. [[aga-2025-ascites-cirrhosis|AGA Clinical Practice Update on the Management of Ascites, Volume Overload, and Hyponatremia in Cirrhosis: Expert Review (2025)]]
+3. [[aga-2024-vasoactive-albumin-cirrhosis|AGA 2024 Clinical Practice Update on the Use of Vasoactive Drugs and Intravenous Albumin in Cirrhosis]]
+4. [[baveno-viii-2026-portal-hypertension|Baveno VIII — Advancing Consensus in Portal Hypertension (2026)]]
+5. [[baveno-vii-2022-portal-hypertension|Baveno VII — Renewing Consensus in Portal Hypertension (2022)]]
+6. [[aasld-2023-portal-hypertension|AASLD 2023 Practice Guidance on Portal Hypertension and Varices in Cirrhosis]]

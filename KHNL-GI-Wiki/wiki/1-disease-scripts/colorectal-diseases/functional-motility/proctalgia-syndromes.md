@@ -3,7 +3,7 @@ title: "Proctalgia Syndromes"
 category: disease-script
 tags: [proctalgia, levator-ani, chronic-proctalgia, proctalgia-fugax, anorectal, pelvic-floor, colorectal]
 created: 2026-05-16
-updated: 2026-09-05
+updated: 2026-09-06
 sources: [acg-2021-anorectal-disorders, rome-v-2026-dgbi]
 ---
 
@@ -42,7 +42,7 @@ sources: [acg-2021-anorectal-disorders, rome-v-2026-dgbi]
 
 ## Differential Diagnosis
 
-*No diagnostic schema for anorectal pain exists yet in the wiki; the workup is history + DRE, with the escalation steps under [[#Diagnostics]] below.*
+*Workup of the pelvic-floor limb — the ARM/BET evaluation that decides biofeedback eligibility in levator ani syndrome — is on [[defecation-disorders]]. No diagnostic schema for anorectal pain itself exists yet in the wiki; that workup is history + DRE, with the escalation steps under [[#Diagnostics]] below.*
 
 | Condition | Key Features |
 |-----------|-------------|
@@ -76,7 +76,7 @@ Note: concurrent anal fissures, prolapsed [[hemorrhoids]], or other anorectal pa
 
 - Cornerstone of treatment; single best-studied RCT showed biofeedback superior to electrogalvanic stimulation (EGS) and conservative management in levator syndrome with levator tenderness and abnormal ARM
 - No independent replication in 10 years; guideline maintains Strong recommendation given absence of effective alternatives and no significant risks
-- 4–6 sessions; same protocol as for [[defecation-disorders]]
+- 4–6 sessions; same protocol as for dyssynergic defecation (linked at the top of the differential)
 
 **Electrogalvanic stimulation (EGS) — Conditional/Very Low:**
 

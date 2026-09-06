@@ -3,7 +3,7 @@ title: "Norovirus Gastroenteritis"
 category: disease-script
 tags: [norovirus, viral-gastroenteritis, diarrhea, infectious-diarrhea, outbreak]
 created: 2026-05-19
-updated: 2026-08-31
+updated: 2026-09-06
 sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea]
 ---
 
@@ -13,8 +13,7 @@ Most common cause of epidemic gastroenteritis in the US. Very low infectious ino
 
 ### Establishing the Diagnosis
 
-- Abrupt onset of **[[nausea-and-vomiting|vomiting]]** (often prominent) + watery, **non-bloody** diarrhea, cramps, low-grade fever; self-limited over **24–72 h**.
-- Syndrome pattern: vomiting + non-bloody diarrhea lasting **2–3 days or less**; low-grade fever present during the **first 24 h in ~40%** of infections. [[idsa-2017-infectious-diarrhea]]
+- Abrupt onset of **[[nausea-and-vomiting|vomiting]]** (often prominent) + watery, **non-bloody** diarrhea and cramps, lasting **2–3 days or less** (24–72 h) and self-limited; low-grade fever is present during the **first 24 h in ~40%** of infections. [[idsa-2017-infectious-diarrhea]]
 - Usually a **clinical/epidemiologic diagnosis** in an outbreak; confirm with **multiplex GI PCR** when etiology is needed. Fresh stool is the preferred specimen for viral agents. [[idsa-2017-infectious-diarrhea]]
 
 **Exposure clues that raise suspicion** [[idsa-2017-infectious-diarrhea]]
@@ -56,7 +55,7 @@ Most common cause of epidemic gastroenteritis in the US. Very low infectious ino
 
 ## Therapeutics
 
-- **Supportive only** — oral rehydration / ORS; IV fluids if unable to maintain intake.
+- **Supportive only** — rehydration route follows the **dehydration grade**: reduced-osmolarity ORS for mild–moderate, nasogastric ORS if moderate dehydration with intolerance of oral intake, isotonic IV crystalloid (lactated Ringer's, normal saline) for severe dehydration, shock, altered mental status, or ORS failure *(Recs 39–43; the rest of the supportive-care algorithm lives on [[acute-diarrhea]])*. [[idsa-2017-infectious-diarrhea]]
 - **No antibiotics** — community-acquired diarrhea is predominantly viral and is not shortened by antibiotics (Rec 10). [[acg-2016-acute-diarrhea]]
 - **[[rifaximin|Rifaximin]]: no role** — viral pathogen.
 - **Antimotility ([[loperamide]]):** may be given to immunocompetent adults with watery diarrhea; **not** in children <18 y and avoid with fever/inflammatory features. [[idsa-2017-infectious-diarrhea]]

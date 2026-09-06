@@ -3,7 +3,7 @@ title: "Hepatic Encephalopathy"
 category: disease-script
 tags: [hepatic-encephalopathy, HE, cirrhosis, ammonia, lactulose, rifaximin, TIPS, portal-hypertension, ACLF, minimal-HE, covert-HE, overt-HE, portosystemic-shunting, brain-dysfunction, west-haven, bristol-stool-scale, sarcopenia]
 created: 2026-05-28
-updated: 2026-09-05
+updated: 2026-09-06
 sources: [acg-2026-hepatic-encephalopathy, baveno-viii-2026-portal-hypertension, aasld-easl-2014-hepatic-encephalopathy]
 ---
 
@@ -32,6 +32,8 @@ Hepatic encephalopathy (HE) is **brain dysfunction caused by liver insufficiency
   - [[#Liver Transplantation]]
   - [[#De-escalation of Secondary Prophylaxis]]
   - [[#Follow-Up After Hospitalization for OHE]]
+- [[#See Also]]
+- [[#Sources]]
 
 ---
 

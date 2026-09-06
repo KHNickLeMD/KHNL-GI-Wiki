@@ -3,7 +3,7 @@ title: "Upper GI Bleeding"
 category: diagnostic-schema
 tags: [ugib, peptic-ulcer, gi-bleeding, endoscopy, forrest, glasgow-blatchford, melena]
 created: 2026-05-15
-updated: 2026-09-05
+updated: 2026-09-06
 sources: [acg-2021-ugib, acg-2023-lgib, acg-2024-hp-treatment, acg-2025-egd-quality, aga-2024-upper-endoscopy-quality, tg18-2018-cholangitis-flowchart]
 ---
 
@@ -205,6 +205,8 @@ If UGIB is clinically suspected in a patient presenting with apparent LGIB, perf
 ![[ugib-2021-endoscopic-therapy-algorithm-14.png|700x221]]
 *Figure 3 — Endoscopic and medical therapy for ulcer bleeding based on endoscopic features (Forrest classification). ([[acg-2021-ugib]])*
 
+*This section is the **ulcer-specific choice** of modality. Device mechanism, full settings, technique, and failure modes for every hemostatic tool live on [[endoscopic-hemostasis]].*
+
 **Strongly recommended (Strong recommendation, moderate-quality evidence):**
 
 - [[electrosurgery|Bipolar electrocoagulation]] (15 W, 8–10 second applications, 3.2-mm probe with firm pressure)
@@ -276,11 +278,35 @@ If UGIB is clinically suspected in a patient presenting with apparent LGIB, perf
 ### Rockall Score
 
 - **Not endorsed or defined by [[acg-2021-ugib|ACG 2021]].** It appears exactly once in that guideline, as the **enrollment criterion (Rockall ≥6)** of the single RCT supporting extended twice-daily PPI (Statement 14) — so "high risk" for the day-4–14 PPI decision operationally means *met that trial's entry criterion*.
-- **Decision gap — flagged, not filled:** the Rockall component variables and point values are **not in any ingested source**; the primary Rockall paper is not in `raw/`. Do not infer them. *(Same corpus block as GAHS/ABIC and CTSI. **Corrected 2026-08-31:** Tokyo TG18 was previously listed here as corpus-blocked — it is **not**. The 2018 Tokyo Guidelines are ingested ([[tg18-2018-cholangitis-flowchart]]) and the Grade I/II/III criteria are on [[acute-cholangitis]]. **Corrected 2026-09-03:** LA grade was also listed here — it is a **figure-capture** block, not a corpus block; the criteria are printed as figures in [[acg-2025-egd-quality]] and [[aga-2024-upper-endoscopy-quality]]. See [[upper-endoscopy]].)*
+- **Components and available point values** ([[aga-2020-nvugib-endoscopic-therapies]], Table 1):
+
+| Component | Points available |
+|---|---|
+| Age | 0, 1, 2 |
+| Signs of hemodynamic shock | 0, 1, 2 |
+| Major comorbidities | 0, 2, 3 |
+| Endoscopic diagnosis | 0, 2 |
+| Stigmata of recent hemorrhage and/or presence of blood on endoscopy | 0, 2 |
+
+- **Requires endoscopic evaluation to determine the full score** — it is *not* a pre-endoscopic triage tool, unlike GBS and AIMS65. Predicts risk of additional bleeding and death in hospitalized patients.
+- ⚠ **Partial decision gap — still not computable.** The corpus now gives the component list and the point values *available* per component, but **not the cutpoints that assign a given age, blood pressure or comorbidity to a specific point value**. A full Rockall score therefore still cannot be calculated from ingested sources; the primary Rockall paper is not in `raw/`. **Do not infer the cutpoints.** *(Remaining corpus blocks: GAHS/ABIC, CTSI, Curaçao. **Corrected 2026-08-31:** Tokyo TG18 is **not** corpus-blocked — it is ingested ([[tg18-2018-cholangitis-flowchart]]) with the Grade I/II/III criteria on [[acute-cholangitis]]. **Corrected 2026-09-03:** LA grade is a **figure-capture** block, not a corpus block — the criteria are printed as figures in [[acg-2025-egd-quality]] and [[aga-2024-upper-endoscopy-quality]]. See [[upper-endoscopy]].)*
 
 ### AIMS65 Score
 
-- **Not mentioned anywhere in [[acg-2021-ugib|ACG 2021]]** — no components, no threshold, no endorsement. Flagged as a corpus gap; would need the primary AIMS65 derivation paper ingested. (It is referenced comparatively in [[acg-2023-lgib|ACG 2023 LGIB]], where the ABC score is reported as superior to AIMS65 and GBS.)
+- **Not mentioned anywhere in [[acg-2021-ugib|ACG 2021]]** — no components, no threshold, no endorsement there. (It is referenced comparatively in [[acg-2023-lgib|ACG 2023 LGIB]], where the ABC score is reported as superior to AIMS65 and GBS.)
+- ✅ **Gap closed 2026-09-06** — components, thresholds and mortality bands are printed in [[aga-2020-nvugib-endoscopic-therapies]], Table 1. **All five components score 0 or 1, so the score runs 0–5 and is fully computable.**
+
+| Letter | Component | Threshold | Points |
+|---|---|---|---|
+| **A** | Albumin | **<3 mg/dL** | 0, 1 |
+| **I** | INR | **>1.5** | 0, 1 |
+| **M** | Altered mental status | present | 0, 1 |
+| **S** | Systolic BP | **<100 mm Hg** | 0, 1 |
+| **65** | Age | **>65 years** | 0, 1 |
+
+- **Inpatient mortality by score:** 0 → **0.3%**, 1 → **3.2%**, 2 → **5.3%**, 3 → **10.3%**, 4 → **16.5%**, 5 → **24.5%**.
+- **Can be calculated pre-endoscopy** and is easy to calculate, but is **less sensitive than Glasgow-Blatchford and Rockall** ([[aga-2020-nvugib-endoscopic-therapies]]).
+- ⚠ **Applies to all three scores** — Table 1 footnote, verbatim: *"These risk assessment scores cannot precisely identify individual high-risk patients who will die from gastrointestinal bleeding if they do not receive an intervention, but may have a clinical role in identifying patients who are at very low risk for mortality and may be amenable to outpatient medical care/endoscopy."*
 
 ### Machine-Learning Risk Models
 
@@ -344,7 +370,7 @@ If UGIB is clinically suspected in a patient presenting with apparent LGIB, perf
 
 ## See Also
 
-[[variceal-upper-gi-bleeding]], [[acute-lower-gi-bleeding]], [[small-bowel-bleeding]], [[peptic-ulcer-disease]], [[helicobacter-pylori-infection]], [[upper-endoscopy]], [[colonoscopy]], [[portal-hypertension]], [[cirrhosis]], [[anticoagulation-gi-bleeding]], [[angioectasia]], [[gastric-adenocarcinoma]], [[esophageal-cancer]], [[argon-plasma-coagulation]], [[electrosurgery]], [[proton-pump-inhibitors]], [[test-and-treat]], [[iron-deficiency-anemia]], [[dysphagia]], [[jaundice]], [[ascites]], [[gerd]]
+[[variceal-upper-gi-bleeding]], [[acute-lower-gi-bleeding]], [[small-bowel-bleeding]], [[peptic-ulcer-disease]], [[helicobacter-pylori-infection]], [[endoscopic-hemostasis]], [[upper-endoscopy]], [[colonoscopy]], [[portal-hypertension]], [[cirrhosis]], [[anticoagulation-gi-bleeding]], [[angioectasia]], [[gastric-adenocarcinoma]], [[esophageal-cancer]], [[argon-plasma-coagulation]], [[electrosurgery]], [[proton-pump-inhibitors]], [[test-and-treat]], [[iron-deficiency-anemia]], [[dysphagia]], [[jaundice]], [[ascites]], [[gerd]]
 
 ---
 
