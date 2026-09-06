@@ -42,7 +42,7 @@ This page is the **single home for the hemostatic devices themselves** — mecha
 | Timing of endoscopy, transfusion thresholds, pre-endoscopic PPI and prokinetics | [[upper-gi-bleeding]] |
 | Which modality for diverticular hemorrhage, angioectasia, or postpolypectomy bleeding | [[acute-lower-gi-bleeding]] |
 | Variceal band ligation, glue injection, and the portal-hypertensive algorithm | [[variceal-upper-gi-bleeding]] |
-| APC in radiation proctopathy, GAVE, and non-bleeding indications | [[argon-plasma-coagulation]] |
+| APC in [[radiation-proctopathy\|radiation proctopathy]], GAVE, and non-bleeding indications | [[argon-plasma-coagulation]] |
 | Electrosurgical current modes and generator principles | [[electrosurgery]] |
 
 ⚠ **Scope limit — no dedicated hemostasis guideline exists in the corpus.** Everything below is assembled from bleeding-management guidelines and one device-focused clinical practice update. Where a parameter is absent it is flagged rather than supplied.
@@ -53,11 +53,11 @@ This page is the **single home for the hemostatic devices themselves** — mecha
 
 | Modality | Class | Primary role | Key limitation |
 |---|---|---|---|
-| Dilute [[epinephrine]] injection | Injection | Temporizing, improves visualization | **Never as monotherapy** — high rebleeding risk |
+| Dilute epinephrine injection | Injection | Temporizing, improves visualization | **Never as monotherapy** — high rebleeding risk |
 | Absolute ethanol injection | Injection | Definitive injection option (ACG **strong**) | Volume must be capped (tissue necrosis) |
 | Heater probe | Contact thermal | Definitive; ACG **strong** | Fixed-duration energy; consecutive thermal therapy raises perforation risk |
 | Bipolar / multipolar probe | Contact thermal | Definitive; ACG **strong** | As above |
-| Monopolar hemostatic forceps (MHF) | Contact thermal | Difficult locations, rigid fibrotic base, ESD/EMR bleeding | Dissipated by a large overlying clot; costly |
+| Monopolar hemostatic forceps (MHF) | Contact thermal | Difficult locations, rigid fibrotic base, [[endoscopic-submucosal-dissection\|ESD]]/[[endoscopic-mucosal-resection\|EMR]] bleeding | Dissipated by a large overlying clot; costly |
 | [[argon-plasma-coagulation\|APC]] | Noncontact thermal | Flat vascular lesions, diffuse oozing | Superficial; ACG **conditional** for ulcers |
 | Through-the-scope clips | Mechanical | Definitive; first-line for postpolypectomy bleeding | Hard to place on fibrotic bases and awkward angles |
 | Over-the-scope clips (OTSC) | Mechanical | Recurrent bleeding; large fibrotic ulcer with big visible vessel | Requires scope withdrawal to load; no comparative data between devices |
@@ -212,7 +212,7 @@ Full page: [[argon-plasma-coagulation]]. Hemostasis-relevant settings only:
 
 ## Bleeding Caused by Endoscopy Itself
 
-**BPA 8** — endoscopists performing higher-risk interventions must be able to treat the bleeding they cause. Higher-risk procedures: **[[polypectomy|EMR]], [[endoscopic-submucosal-dissection|ESD]], and endoscopic sphincterotomy** ([[ercp]]). Bleeding may be **immediate/intraprocedural** or **delayed/postprocedural**.
+**BPA 8** — endoscopists performing higher-risk interventions must be able to treat the bleeding they cause. Higher-risk procedures: **[[polypectomy]], [[endoscopic-mucosal-resection|EMR]], [[endoscopic-submucosal-dissection|ESD]], and endoscopic sphincterotomy** ([[ercp]]). Bleeding may be **immediate/intraprocedural** or **delayed/postprocedural**.
 
 **During EMR or ESD:**
 
@@ -241,7 +241,7 @@ Full page: [[argon-plasma-coagulation]]. Hemostasis-relevant settings only:
 - **Switch modality** where possible: after initial thermal therapy, use additional thermal *or* mechanical therapy with a clip. Consecutive thermal contact therapy increases perforation risk. **TC-325 should also be considered as rescue.**
 - **Consider OTSC** for recurrent bleeding after initial hemostasis.
 - Seek a **second opinion or a more experienced endoscopist** in difficult situations.
-- **Second-look endoscopy should not be performed routinely**, but has a role where rebleeding risk is high despite apparent initial success, or where the index procedure did not adequately control bleeding.
+- **Second-look endoscopy should not be performed routinely**, but has a role where rebleeding risk is high despite apparent initial success, or where the index procedure did not adequately control bleeding. *(What makes rebleeding risk "high" is the ulcer stigma — the Forrest classes and their class-specific rebleeding rates are on [[upper-gi-bleeding]].)*
 
 **Why the first attempt was suboptimal — the checklist to run before repeating:** ulcer size, location, or fibrosis; **epinephrine-injection monotherapy**; **single use of hemostatic powder for a high-risk lesion**; inadequate coagulation; insufficient tissue grasped by a hemostatic clip ([[aga-2020-nvugib-endoscopic-therapies]]).
 
@@ -265,7 +265,7 @@ Full page: [[argon-plasma-coagulation]]. Hemostasis-relevant settings only:
 
 ## See Also
 
-[[upper-gi-bleeding]], [[acute-lower-gi-bleeding]], [[variceal-upper-gi-bleeding]], [[small-bowel-bleeding]], [[peptic-ulcer-disease]], [[upper-endoscopy]], [[colonoscopy]], [[polypectomy]], [[endoscopic-submucosal-dissection]], [[ercp]], [[argon-plasma-coagulation]], [[electrosurgery]], [[proton-pump-inhibitors]], [[anticoagulation-gi-bleeding]], [[angioectasia]]
+[[upper-gi-bleeding]], [[acute-lower-gi-bleeding]], [[variceal-upper-gi-bleeding]], [[small-bowel-bleeding]], [[peptic-ulcer-disease]], [[upper-endoscopy]], [[colonoscopy]], [[polypectomy]], [[endoscopic-mucosal-resection]], [[endoscopic-submucosal-dissection]], [[ercp]], [[argon-plasma-coagulation]], [[electrosurgery]], [[proton-pump-inhibitors]], [[anticoagulation-gi-bleeding]], [[angioectasia]], [[radiation-proctopathy]]
 
 ---
 

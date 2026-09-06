@@ -3,7 +3,7 @@ title: "Interventional EUS for Vascular Investigation and Therapy"
 category: advanced-procedure
 tags: [eus, gastric-varices, coil-embolization, cyanoacrylate, eus-ppg, portal-pressure-gradient, portal-vein-sampling, pseudoaneurysm, splenic-artery-embolization, rectal-varices, portal-hypertension]
 created: 2026-07-23
-updated: 2026-09-05
+updated: 2026-09-06
 sources: [aga-2023-interventional-eus-vascular, wang-2026-eus-ppg-delphi-consensus]
 ---
 
@@ -85,7 +85,7 @@ sources: [aga-2023-interventional-eus-vascular, wang-2026-eus-ppg-delphi-consens
 
 ([[aga-2023-interventional-eus-vascular]])
 
-1. Patient **supine**, preferably under **general anesthesia** to minimize movement.
+1. Patient **supine**, preferably under **[[endoscopy-sedation|general anesthesia]]** to minimize movement.
 2. **One dose of [[antibiotic-prophylaxis-endoscopy|prophylactic antibiotics]]** (e.g., ciprofloxacin or cefazolin).
 3. **Level the compact manometer at the midaxillary line / level of the right heart** and keep it there for the entire procedure.
 4. Linear echoendoscope: identify hepatic veins anatomically, confirm by Doppler; target the **middle or left hepatic vein with a 25-gauge needle via a transgastric approach**.
@@ -165,7 +165,7 @@ International expert modified-Delphi consensus (53 statements) on how to perform
 
 ## See Also
 
-[[endoscopic-ultrasound]], [[variceal-upper-gi-bleeding]], [[portal-hypertension]], [[hepatic-venous-pressure-gradient]], [[tips]], [[cirrhosis]], [[liver-biopsy]], [[portal-vein-thrombosis]], [[eus-guided-gallbladder-drainage]], [[ascites]], [[cirrhosis-hemostasis]], [[noninvasive-liver-disease-assessment]], [[antibiotic-prophylaxis-endoscopy]]
+[[endoscopic-ultrasound]], [[variceal-upper-gi-bleeding]], [[portal-hypertension]], [[hepatic-venous-pressure-gradient]], [[tips]], [[cirrhosis]], [[liver-biopsy]], [[portal-vein-thrombosis]], [[eus-guided-gallbladder-drainage]], [[ascites]], [[cirrhosis-hemostasis]], [[noninvasive-liver-disease-assessment]], [[antibiotic-prophylaxis-endoscopy]], [[endoscopy-sedation]]
 
 ---
 

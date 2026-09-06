@@ -3,7 +3,7 @@ title: "Liver Transplantation — Post-Transplant Management"
 category: disease-script
 tags: [liver-transplant, liver-transplantation, immunosuppression, tacrolimus, calcineurin-inhibitor, ckd, metabolic-syndrome, rejection, tcmr, pcr, amr, biliary-stricture, vascular-complications, machine-perfusion, dcd, ldlt, ead, hbv, hcv, pbc, psc, autoimmune-hepatitis, hcc, masld, ald, de-novo-malignancy, post-transplant, bone-health, vaccination, cmv, cancer-surveillance, glp-1, bariatric-surgery, aasld]
 created: 2026-05-19
-updated: 2026-09-03
+updated: 2026-09-06
 sources: [aasld-2012-liver-transplant-long-term, aasld-ast-2025-liver-transplant-graft-complications, aasld-ast-2025-liver-transplant-candidate-evaluation, aasld-ast-2025-liver-transplant-non-graft-complications, asge-2023-post-transplant-biliary-strictures]
 ---
 
@@ -229,7 +229,7 @@ The post-transplant recipient requires lifelong structured monitoring for allogr
   - **Everolimus**: 3–8 ng/mL (after month 1)
   - **Sirolimus** (off-label): 4–10 ng/mL (after month 1)
   - **Mycophenolate mofetil**: 1000–3000 mg PO/360–720 mg PO in divided doses, administered twice daily; no standard trough
-  - **Azathioprine**: 3–5 mg/kg/day PO daily; no trough monitored routinely
+  - **[[thiopurines|Azathioprine]]**: 3–5 mg/kg/day PO daily; no trough monitored routinely
 
 **Abnormal liver tests post-transplant** — see differential below. Evaluation framework:
 
@@ -538,39 +538,42 @@ Metabolic syndrome, CKD, bone disease, infection prophylaxis, vaccination, de no
 - **Routine monitoring for associated autoimmune disease (e.g. thyroid) and bone density** (Rec 83). Monitor liver chemistries and AMA titer annually; liver biopsy if alkaline phosphatase rises significantly
 - **Ursodeoxycholic acid (UDCA)** — may be considered for **histologically proven** recurrence at **10–15 mg/kg/day**; improves liver tests but **no documented graft-survival benefit**. **No prophylactic UDCA** when allograft histology is normal (Rec 84)
 
-**[[primary-sclerosing-cholangitis|Primary Sclerosing Cholangitis]] (PSC) recurrence** ([[primary-sclerosing-cholangitis]], Rec. 73–76):
+**[[primary-sclerosing-cholangitis|Primary Sclerosing Cholangitis]] (PSC) recurrence** ([[aasld-2012-liver-transplant-long-term]]):
 
 - Recurrence in 10–25% at 5–10 years (diagnosis requires exclusion of ischemic cholangiopathy, anastomotic strictures)
 - Diagnosis: MRCP/cholangiogram showing non-anastomotic intra- and extrahepatic biliary strictures + biopsy
 - Risk factors: IBD activity post-LT, intact colon
-- UDCA: not proven effective for recurrent PSC; not routinely recommended (Rec. 73)
-- Endoscopic management of dominant strictures: dilation ± stenting (Rec. 74)
-- [[inflammatory-bowel-disease|IBD]] management should continue post-LT (Rec. 75–76); colonoscopic surveillance interval for PSC ± IBD recipients is in [[#Oncologic Surveillance]]
+- UDCA: not proven effective for recurrent PSC; not routinely recommended
+- Endoscopic management of dominant strictures: dilation ± stenting
+- [[inflammatory-bowel-disease|IBD]] management should continue post-LT; colonoscopic surveillance interval for PSC ± IBD recipients is in [[#Oncologic Surveillance]]
 - Re-transplantation: required in 5–10% with recurrent PSC causing graft failure
+- ⚠ *[[aasld-2012-liver-transplant-long-term]] carries only **one numbered PSC recommendation — Rec 85**: patients grafted for PSC in the presence of chronic ulcerative colitis should have **annual colonoscopy with mucosal biopsy** (grade 2, level B). The remaining bullets above are narrative content from that guideline, not numbered recommendations; earlier rec numbers on this block (73–76) were incorrect and have been removed (2026-09-06).*
 
-**Autoimmune Hepatitis (AIH) recurrence** ([[autoimmune-hepatitis]], Rec. 77–80):
+**[[autoimmune-hepatitis|Autoimmune Hepatitis]] (AIH) recurrence** ([[aasld-2012-liver-transplant-long-term]], Rec 86):
 
 - Recurrence in 10–40% depending on criteria; may occur years after transplant
 - Risk factors: abrupt steroid withdrawal, inadequate IS
 - Diagnosis: elevation in transaminases + hypergammaglobulinemia + autoantibodies (ANA, ASMA) + biopsy (interface hepatitis, rosette formation, plasma cell infiltration)
 - **De novo AIH**: AIH arising in recipients without prior AIH diagnosis; same criteria; treat as AIH
-- Management: restore/increase corticosteroid dosing; add azathioprine (Rec. 77–78)
-- Maintain corticosteroids long-term in AIH recipients; avoid early steroid withdrawal (Rec. 79–80)
+- Management: restore/increase corticosteroid dosing; add azathioprine
+- **Rec 86 (grade 2, level B):** no evidence supports a particular immunosuppressive regimen after LT for AIH, but it is **prudent to maintain long-term, low-dose corticosteroids** in addition to routine IS, with attention to bone health — avoid early steroid withdrawal
 
-**[[alcohol-associated-liver-disease|Alcohol-Associated Liver Disease]] (ALD) post-LT** ([[alcohol-associated-liver-disease]], Rec. 81–84):
+**[[alcohol-associated-liver-disease|Alcohol-Associated Liver Disease]] (ALD) post-LT** ([[aasld-2012-liver-transplant-long-term]], Recs 87–90):
 
 - Alcohol recurrence: ~15–20% return to any drinking; 10–15% harmful use; ~5–10% to heavy drinking
 - Alcohol recurrence associated with graft damage, non-adherence, and reduced survival
 - Pre-LT: fixed abstinence interval should NOT be a listing exclusion criterion per 2025 guidance ([[aasld-ast-2025-liver-transplant-candidate-evaluation]], Rec 38); psychosocial evaluation required; addiction treatment goals should be established early
-- Post-LT monitoring: routine alcohol use disorder screening with validated tool (AUDIT-C); random urine/blood alcohol levels in high-risk patients (Rec. 81)
-- Alcoholism treatment referral: addiction medicine consultation + structured addiction treatment (Rec. 82–83)
-- Tobacco is strongly associated with cardiovascular mortality and oropharyngeal/lung cancer (Rec. 84); cessation counselling recommendation is in [[#Oncologic Surveillance]]
+- **Rec 87 (grade 1, level B):** all patients with a prior diagnosis of ALD should be **encouraged to remain abstinent**. Post-LT monitoring: routine alcohol use disorder screening with a validated tool (AUDIT-C); random urine/blood alcohol levels in high-risk patients
+- **Rec 88 (grade 1, level C):** patients should be **encouraged to enter therapy or counseling if they relapse** into alcohol use — addiction medicine consultation + structured addiction treatment
+- **Recs 89–90:** ALD recipients who use tobacco should be encouraged to undertake **smoking cessation** (grade 1, level B), with careful attention to the risk of **cardiovascular disease and new-onset aerodigestive-tract cancers**, especially in cigarette smokers (grade 1, level A); the cessation-counselling recommendation is in [[#Oncologic Surveillance]]
 - *Post-LT alcohol avoidance applies to every recipient regardless of LT indication — see [[#Wellness, Nutrition, and Health Behaviors]]*
 
-**[[nafld-masld|MASLD/MASH]] recurrence** (Rec. 85–88):
+**[[nafld-masld|MASLD/MASH]] recurrence** ([[aasld-2012-liver-transplant-long-term]], Recs 91–92):
 
 - Metabolic risk factors (DM, obesity, dyslipidemia, HTN) accumulate post-LT → recurrent or de novo MASLD/MASH
 - Incidence of de novo MASLD post-LT: 30–40% in some series
+- **Rec 91 (grade 1, level B):** confirming recurrent or de novo MASLD, recognising fibrosis, and excluding alternate causes of elevated liver chemistries **requires [[liver-biopsy|liver biopsy]]**
+- **Rec 92 (grade 1, level C):** beyond avoiding excessive weight gain and controlling hypertension and diabetes, **no specific prevention or treatment recommendation can be made** for post-LT MASLD/MASH
 - Recurrent MASLD may progress to [[cirrhosis|cirrhosis]] of the allograft
 - Graft-side management is IS minimization (steroids drive metabolic syndrome); the cardiometabolic treatment targets, drug choices, and lifestyle prescription are in [[#Metabolic Syndrome and Cardiometabolic Management]]
 
@@ -848,7 +851,7 @@ The strategy is **time-dependent**; there is no high-quality evidence for any re
 
 ## See Also
 
-[[abnormal-liver-chemistries]], [[acute-liver-failure]], [[acute-on-chronic-liver-failure]], [[alcohol-associated-liver-disease]], [[portal-vein-thrombosis]], [[portal-hypertension]], [[chronic-hepatitis-b]], [[hepatitis-c]], [[hepatitis-d]], [[direct-acting-antivirals]], [[aki-in-cirrhosis]], [[hepatocellular-carcinoma]], [[hcc-surveillance]], [[nafld-masld]], [[primary-sclerosing-cholangitis]], [[primary-biliary-cholangitis]], [[autoimmune-hepatitis]], [[acute-hepatic-porphyria]], [[cholangiocarcinoma]], [[biliary-stricture]], [[ercp]], [[mri-mrcp]], [[liver-biopsy]], [[tacrolimus]], [[calcineurin-inhibitors]], [[post-transplant-lymphoproliferative-disorder]], [[operational-tolerance]], [[antibody-mediated-rejection-liver-transplant]], [[semaglutide]], [[bariatric-surgery]], [[obesity]], [[nutrition-in-liver-disease]], [[colorectal-cancer]], [[colorectal-cancer-screening]], [[colonoscopy]], [[antibiotic-prophylaxis-endoscopy]], [[inflammatory-bowel-disease]], [[gastroenteropancreatic-neuroendocrine-tumors]], [[hepatopulmonary-syndrome-portopulmonary-hypertension]], [[hepatic-encephalopathy]], [[ascites]], [[spontaneous-bacterial-peritonitis]], [[variceal-upper-gi-bleeding]], [[cirrhosis]], [[liver-stiffness-measurement]], [[tips]], [[rotavirus]], [[colonoscopy-surveillance]]
+[[abnormal-liver-chemistries]], [[acute-liver-failure]], [[acute-on-chronic-liver-failure]], [[alcohol-associated-liver-disease]], [[portal-vein-thrombosis]], [[portal-hypertension]], [[chronic-hepatitis-b]], [[hepatitis-c]], [[hepatitis-d]], [[direct-acting-antivirals]], [[aki-in-cirrhosis]], [[hepatocellular-carcinoma]], [[hcc-surveillance]], [[nafld-masld]], [[primary-sclerosing-cholangitis]], [[primary-biliary-cholangitis]], [[autoimmune-hepatitis]], [[acute-hepatic-porphyria]], [[cholangiocarcinoma]], [[biliary-stricture]], [[ercp]], [[mri-mrcp]], [[liver-biopsy]], [[tacrolimus]], [[calcineurin-inhibitors]], [[post-transplant-lymphoproliferative-disorder]], [[operational-tolerance]], [[antibody-mediated-rejection-liver-transplant]], [[semaglutide]], [[bariatric-surgery]], [[obesity]], [[nutrition-in-liver-disease]], [[colorectal-cancer]], [[colorectal-cancer-screening]], [[colonoscopy]], [[antibiotic-prophylaxis-endoscopy]], [[inflammatory-bowel-disease]], [[gastroenteropancreatic-neuroendocrine-tumors]], [[hepatopulmonary-syndrome-portopulmonary-hypertension]], [[hepatic-encephalopathy]], [[ascites]], [[spontaneous-bacterial-peritonitis]], [[variceal-upper-gi-bleeding]], [[cirrhosis]], [[liver-stiffness-measurement]], [[tips]], [[rotavirus]], [[colonoscopy-surveillance]], [[thiopurines]]
 
 ---
 

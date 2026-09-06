@@ -3,7 +3,7 @@ title: "Somatostatin Analogs"
 category: med
 tags: [somatostatin-analog, octreotide, lanreotide, net, carcinoid, variceal-bleeding, angioectasia]
 created: 2026-06-18
-updated: 2026-09-02
+updated: 2026-09-06
 sources: [nccn-2026-net, aasld-2023-portal-hypertension, acg-2015-small-bowel-bleeding, aga-2024-vasoactive-albumin-cirrhosis]
 ---
 
@@ -39,7 +39,7 @@ sources: [nccn-2026-net, aasld-2023-portal-hypertension, acg-2015-small-bowel-bl
 *Doses from [[aasld-2023-portal-hypertension]] Table 5 and [[aga-2024-vasoactive-albumin-cirrhosis]] Table 1.*
 
 **How long to continue** ([[aga-2024-vasoactive-albumin-cirrhosis]] BPA 2):
-- After initial endoscopic hemostasis, **continue 2–5 days** to prevent early rebleeding.
+- After initial [[endoscopic-hemostasis|endoscopic hemostasis]], **continue 2–5 days** to prevent early rebleeding.
 - **Stop the drug if endoscopy shows a non-variceal upper GI source** — vasoactive drugs are not expected to work in e.g. [[peptic-ulcer-disease|peptic ulcer bleeding]].
 - Shortening to **2 days is reasonable only** in selected patients with **[[cirrhosis|Child-Pugh A or B cirrhosis]]** (CTP point table on that page) and **no active bleeding seen at endoscopy**. Data are insufficient for a firm optimal-duration recommendation.
 
@@ -91,7 +91,7 @@ Additional effects tied to long-term SSA use in NETs:
 - **Hypoglycemia** in insulinoma (see above).
 
 ## See Also
-[[gastroenteropancreatic-neuroendocrine-tumors]], [[portal-hypertension]], [[cirrhosis]], [[variceal-upper-gi-bleeding]], [[peptic-ulcer-disease]], [[small-bowel-bleeding]], [[angioectasia]], [[upper-endoscopy]], [[exocrine-pancreatic-insufficiency]], [[bile-acid-diarrhea]], [[albumin]]
+[[gastroenteropancreatic-neuroendocrine-tumors]], [[portal-hypertension]], [[cirrhosis]], [[variceal-upper-gi-bleeding]], [[peptic-ulcer-disease]], [[small-bowel-bleeding]], [[angioectasia]], [[upper-endoscopy]], [[exocrine-pancreatic-insufficiency]], [[bile-acid-diarrhea]], [[albumin]], [[endoscopic-hemostasis]]
 
 ---
 

@@ -3,7 +3,7 @@ title: "Enteral Access"
 category: general-procedure
 tags: [enteral-nutrition, peg, peg-j, nutrition, nasoenteric, dpej, buried-bumper]
 created: 2026-07-23
-updated: 2026-09-03
+updated: 2026-09-06
 sources: [aga-2025-endoscopic-enteral-access, asge-2025-gastrostomy-tubes]
 ---
 
@@ -48,7 +48,7 @@ sources: [aga-2025-endoscopic-enteral-access, asge-2025-gastrostomy-tubes]
 | Upper GI obstruction / motility disorder | Head & neck cancer; head/maxillofacial/mandibular/dental/neck trauma; radiation stomatitis; [[esophageal-cancer\|esophageal cancer]]; esophageal stricture; esophageal dysmotility; chronic intestinal pseudo-obstruction; [[gastroparesis]]; superior mesenteric artery syndrome |
 | Altered intestinal anatomy | [[bariatric-surgery\|Bariatric]] or foregut surgery with impaired intake |
 | Psychiatric | Anorexia nervosa |
-| Increased metabolic requirements | Critical illness, cancer, burn/trauma, cystic fibrosis / chronic lung disease, [[inflammatory-bowel-disease\|IBD]], [[nutrition-in-liver-disease\|liver disease]], pancreatitis, renal disease |
+| Increased metabolic requirements | Critical illness, cancer, burn/trauma, cystic fibrosis / chronic lung disease, [[inflammatory-bowel-disease\|IBD]], [[nutrition-in-liver-disease\|liver disease]], [[acute-pancreatitis\|pancreatitis]], renal disease |
 | Increased intestinal losses | [[short-bowel-syndrome\|Short bowel syndrome]] |
 
 **Severe dementia — special caution:**
@@ -195,7 +195,7 @@ sources: [aga-2025-endoscopic-enteral-access, asge-2025-gastrostomy-tubes]
 
 ## See Also
 
-[[upper-endoscopy]], [[gastroparesis]], [[ascites]], [[cirrhosis]], [[esophageal-cancer]], [[obesity]], [[bariatric-surgery]], [[peptic-ulcer-disease]], [[inflammatory-bowel-disease]], [[variceal-upper-gi-bleeding]], [[nutrition-in-hospitalized-patients]], [[nutrition-in-liver-disease]], [[ostomy-management]], [[antibiotic-prophylaxis-endoscopy]], [[anticoagulation-gi-bleeding]], [[gastric-outlet-obstruction]]
+[[upper-endoscopy]], [[gastroparesis]], [[ascites]], [[cirrhosis]], [[esophageal-cancer]], [[obesity]], [[bariatric-surgery]], [[peptic-ulcer-disease]], [[inflammatory-bowel-disease]], [[variceal-upper-gi-bleeding]], [[nutrition-in-hospitalized-patients]], [[nutrition-in-liver-disease]], [[ostomy-management]], [[antibiotic-prophylaxis-endoscopy]], [[anticoagulation-gi-bleeding]], [[gastric-outlet-obstruction]], [[acute-pancreatitis]], [[endoscopy-sedation]]
 
 ---
 

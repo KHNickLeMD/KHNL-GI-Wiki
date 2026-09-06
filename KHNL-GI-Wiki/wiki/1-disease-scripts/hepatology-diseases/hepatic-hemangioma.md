@@ -3,7 +3,7 @@ title: "Hepatic Hemangioma"
 category: disease-script
 tags: [hemangioma, liver, hpb, focal-liver-lesion, benign-liver, mri, cavernous-hemangioma, kasabach-merritt, sclerosed-hemangioma]
 created: 2026-05-07
-updated: 2026-09-05
+updated: 2026-09-06
 sources: [acg-2024-focal-liver-lesions]
 ---
 
@@ -27,6 +27,8 @@ sources: [acg-2024-focal-liver-lesions]
   - [[#When to Treat (KC 29)]]
   - [[#How to Treat]]
   - [[#Hormones and Contraception]]
+- [[#See Also]]
+- [[#Sources]]
 
 ---
 

@@ -3,7 +3,7 @@ title: "Acute Colonic Pseudo-Obstruction (Ogilvie's Syndrome)"
 category: disease-script
 tags: [acpo, ogilvie, colonic-dysmotility, large-bowel-obstruction, neostigmine, colonoscopy]
 created: 2026-06-22
-updated: 2026-09-05
+updated: 2026-09-06
 sources: [asge-2020-acpo-volvulus]
 ---
 
@@ -85,7 +85,7 @@ flowchart TD
 **Surgery** — for peritonitis, ischemia, perforation, clinical deterioration, or **cecal diameter >12 cm**. Options: surgically placed cecostomy, percutaneous cecostomy, or subtotal colectomy; surgical mortality up to ~44% with ischemic/perforated bowel, so nonoperative management is preferred where feasible.
 
 ## See Also
-[[colonic-volvulus]], [[colonoscopy]], [[chronic-idiopathic-constipation]], [[nausea-and-vomiting]], [[abdominal-bloating-and-distention]], [[clostridioides-difficile]], [[colon-ischemia]], [[toxic-megacolon]], [[peptic-ulcer-disease]]
+[[colonic-volvulus]], [[colonoscopy]], [[chronic-idiopathic-constipation]], [[nausea-and-vomiting]], [[abdominal-bloating-and-distention]], [[clostridioides-difficile]], [[colon-ischemia]], [[toxic-megacolon]], [[ulcerative-colitis]], [[colorectal-cancer]], [[peptic-ulcer-disease]]
 
 ---
 

@@ -3,7 +3,7 @@ title: "Hepatic Cysts"
 category: disease-script
 tags: [hepatic-cysts, liver, hpb, focal-liver-lesion, simple-cyst, complex-cyst, polycystic-liver, pcld, adpkd, mcn-l, hydatid, echinococcus, choledochal-cyst, caroli]
 created: 2026-05-07
-updated: 2026-09-05
+updated: 2026-09-06
 sources: [acg-2024-focal-liver-lesions]
 ---
 
@@ -25,6 +25,8 @@ sources: [acg-2024-focal-liver-lesions]
   - [[#Choledochal Cysts]]
   - [[#Hydatid / Echinococcal Cysts]]
   - [[#Biliary Hamartomas, Peribiliary Cysts, and IPNB]]
+- [[#See Also]]
+- [[#Sources]]
 
 ---
 

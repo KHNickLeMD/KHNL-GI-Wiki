@@ -3,11 +3,11 @@ title: "Colorectal Cancer"
 category: disease-script
 tags: [crc, colorectal-cancer, adenocarcinoma, oncology, screening, surveillance, post-resection, metachronous, rectal-cancer]
 created: 2026-05-19
-updated: 2026-09-05
+updated: 2026-09-06
 sources: [acg-2015-hereditary-gi-cancer, usmstf-2014-lynch-syndrome, usmstf-2015-crc-surveillance, usmstf-2016-fit-screening, acg-2021-crc-screening, nccn-2026-colon-cancer, asge-2013-crc-staging-management, aga-2025-endoscopic-resection-crc, kanaka-2022-colonic-stent-bts-right-sided]
 ---
 
-*Screening is covered in [[colorectal-cancer-screening]] and in detail below (FIT). Hereditary syndromes: [[lynch-syndrome]], [[familial-adenomatous-polyposis]], [[mutyh-associated-polyposis]], [[peutz-jeghers-syndrome]], [[juvenile-polyposis-syndrome]], [[cowden-syndrome]], [[serrated-polyposis-syndrome]]. Polyp management: [[polypectomy]] and [[colonoscopy]].*
+*Screening is covered in [[colorectal-cancer-screening]] and in detail below (FIT). Hereditary syndromes (workup: [[colorectal-polyposis]]): [[lynch-syndrome]], [[familial-adenomatous-polyposis]], [[mutyh-associated-polyposis]], [[peutz-jeghers-syndrome]], [[juvenile-polyposis-syndrome]], [[cowden-syndrome]], [[serrated-polyposis-syndrome]]. Polyp management: [[polypectomy]] and [[colonoscopy]].*
 
 ## Contents
 - [[#Assessment]]
@@ -290,7 +290,7 @@ Lifelong q5y until benefit < risk
 
 1. Surgery **without** total mesorectal excision (TME)
 2. Transanal local excision (transanal excision or transanal endoscopic microsurgery / TEM)
-3. Endoscopic submucosal dissection (ESD) for rectal cancer
+3. [[endoscopic-submucosal-dissection|Endoscopic submucosal dissection (ESD)]] for rectal cancer
 4. Locally advanced rectal cancer that did **not** receive neoadjuvant chemoradiation + TME
 
 **For high-risk rectal patients:** Local surveillance with **flexible sigmoidoscopy or EUS every 3–6 months for the first 2–3 years after surgery**, in addition to the standard colonoscopic surveillance schedule above.
@@ -417,9 +417,11 @@ The ACG 2021 and USMSTF 2021 guidelines do not supersede the FIT-specific operat
 - **Modality ranking:** 2021 guidelines position colonoscopy and FIT as co-equal preferred options; 2016 document predates this framing but is consistent with it
 - **FIT performance data, cut-off recommendations, programmatic quality targets:** 2016 document remains the primary source — no conflicting 2021 data on these specific points
 
+---
+
 ## See Also
 
-[[colorectal-cancer-screening]], [[colonoscopy]], [[polypectomy]], [[lynch-syndrome]], [[familial-adenomatous-polyposis]], [[serrated-polyposis-syndrome]], [[endoscopic-ultrasound]], [[colonoscopy-surveillance]], [[inflammatory-bowel-disease]], [[ulcerative-colitis]], [[ibd-in-malignancy]], [[gastroenteropancreatic-neuroendocrine-tumors]], [[colorectal-esd]], [[capsule-endoscopy]], [[endoscopic-mucosal-resection]], [[endoscopic-full-thickness-resection]], [[acute-lower-gi-bleeding]], [[endoscopic-oncology]], [[gastric-outlet-obstruction]], [[ostomy-management]]
+[[colorectal-cancer-screening]], [[colorectal-polyposis]], [[colonoscopy]], [[polypectomy]], [[lynch-syndrome]], [[familial-adenomatous-polyposis]], [[mutyh-associated-polyposis]], [[serrated-polyposis-syndrome]], [[endoscopic-ultrasound]], [[colonoscopy-surveillance]], [[inflammatory-bowel-disease]], [[ulcerative-colitis]], [[ibd-in-malignancy]], [[gastroenteropancreatic-neuroendocrine-tumors]], [[colorectal-esd]], [[endoscopic-submucosal-dissection]], [[capsule-endoscopy]], [[endoscopic-mucosal-resection]], [[endoscopic-full-thickness-resection]], [[acute-lower-gi-bleeding]], [[endoscopic-oncology]], [[gastric-outlet-obstruction]], [[ostomy-management]]
 
 ---
 
@@ -433,4 +435,4 @@ The ACG 2021 and USMSTF 2021 guidelines do not supersede the FIT-specific operat
 6. [[asge-2013-crc-staging-management|ASGE 2013: Role of Endoscopy in the Staging and Management of Colorectal Cancer]]
 7. [[aga-2025-endoscopic-resection-crc|AGA Clinical Practice Update on Endoscopic Resection for Early Colorectal Cancer: Commentary (2025)]]
 8. [[kanaka-2022-colonic-stent-bts-right-sided|Colonic stent as a bridge to surgery versus emergency resection for right-sided malignant large bowel obstruction: a meta-analysis]]
-9. [[usmstf-2014-lynch-syndrome|USMSTF 2014: Genetic Evaluation and Management of Lynch Syndrome — A Consensus Statement]]
+9. [[usmstf-2014-lynch-syndrome|Genetic Evaluation and Management of Lynch Syndrome: A Practice Guideline from the American College of Gastroenterology]]

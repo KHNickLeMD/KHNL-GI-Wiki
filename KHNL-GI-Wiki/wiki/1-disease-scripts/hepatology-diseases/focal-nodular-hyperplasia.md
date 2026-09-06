@@ -3,7 +3,7 @@ title: "Focal Nodular Hyperplasia"
 category: disease-script
 tags: [fnh, liver, hpb, focal-liver-lesion, benign-liver, gadoxetate, mri]
 created: 2026-05-07
-updated: 2026-09-05
+updated: 2026-09-06
 sources: [acg-2024-focal-liver-lesions]
 ---
 
@@ -21,6 +21,8 @@ sources: [acg-2024-focal-liver-lesions]
 - [[#Therapeutics]]
   - [[#Once Definitively Characterized as FNH]]
   - [[#If Imaging is Indeterminate (Cannot Definitively Distinguish FNH from HCA)]]
+- [[#See Also]]
+- [[#Sources]]
 
 ---
 

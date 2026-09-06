@@ -3,7 +3,7 @@ title: "Choledocholithiasis"
 category: disease-script
 tags: [biliary, gallstones, common-bile-duct, jaundice, cholangitis, ercp, eus, mrcp, gallstone-pancreatitis]
 created: 2026-06-04
-updated: 2026-09-01
+updated: 2026-09-06
 sources: [asge-2019-choledocholithiasis, aga-2024-pregnancy-gi-liver, asge-2021-cholangitis, jagtap-2026-urgent-vs-early-ercp-cholangitis, aloysius-2026-ercp-timing-septic-shock-cholangitis]
 ---
 
@@ -55,7 +55,7 @@ sources: [asge-2019-choledocholithiasis, aga-2024-pregnancy-gi-liver, asge-2021-
 - [[biliary-stricture|Biliary stricture]] (benign or malignant) — malignant-obstruction differential.
 - Mirizzi syndrome (extrinsic CBD compression by an impacted cystic-duct stone).
 - [[pancreatic-cancer|Pancreatic head]] / periampullary tumor.
-- [[primary-sclerosing-cholangitis|Primary sclerosing cholangitis]], IgG4 cholangiopathy.
+- [[primary-sclerosing-cholangitis|Primary sclerosing cholangitis]], [[autoimmune-pancreatitis|IgG4 cholangiopathy]].
 
 ## Diagnostics
 
@@ -91,9 +91,11 @@ sources: [asge-2019-choledocholithiasis, aga-2024-pregnancy-gi-liver, asge-2021-
 - **[[ercp|ERCP]] is an urgent indication** in pregnancy for choledocholithiasis, cholangitis, and some gallstone pancreatitis — ideally in the **2nd trimester**, with fetal-radiation minimization (see [[ercp]]). ([[aga-2024-pregnancy-gi-liver]] BPA 8)
 - Full pregnancy context: [[liver-disease-in-pregnancy]].
 
+---
+
 ## See Also
 
-[[acute-cholangitis]], [[jaundice]], [[abnormal-liver-chemistries]], [[ercp]], [[endoscopic-ultrasound]], [[mri-mrcp]], [[cholangioscopy]], [[acute-pancreatitis]], [[acute-cholecystitis]], [[biliary-stricture]], [[pancreatic-cancer]], [[primary-sclerosing-cholangitis]], [[liver-disease-in-pregnancy]]
+[[acute-cholangitis]], [[jaundice]], [[autoimmune-pancreatitis]], [[abnormal-liver-chemistries]], [[ercp]], [[endoscopic-ultrasound]], [[mri-mrcp]], [[cholangioscopy]], [[acute-pancreatitis]], [[acute-cholecystitis]], [[biliary-stricture]], [[pancreatic-cancer]], [[primary-sclerosing-cholangitis]], [[liver-disease-in-pregnancy]]
 
 ---
 

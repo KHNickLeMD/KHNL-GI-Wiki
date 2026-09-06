@@ -124,7 +124,7 @@ Assess impact on quality of life with the **PAC-QOL** (Patient Assessment of Con
 [[asge-2014-constipation]] — endoscopy is **not** part of the initial workup of chronic constipation absent alarm features or organic-disease suspicion. Yield of colonoscopy for isolated constipation is **low** (comparable to average-risk screening); meta-analysis shows no increased CRC risk.
 
 - **Scope when:** alarm features (above), before surgery for constipation, or age-appropriate [[colorectal-cancer-screening|CRC screening]] not yet done. Flexible sigmoidoscopy may suffice in younger patients to exclude distal disease; suspected Hirschsprung needs [[anorectal-manometry|ARM]] + deep biopsy.
-- **Incidental findings:** solitary rectal ulcer syndrome (suggests [[rectal-prolapse]]), [[anal-fissure]], melanosis coli (chronic laxative use).
+- **Incidental findings:** [[rectal-prolapse#Solitary Rectal Ulcer Syndrome|solitary rectal ulcer syndrome]] (suggests [[rectal-prolapse]]), [[anal-fissure]], melanosis coli (chronic laxative use).
 - **Therapeutic role:** dilation of benign colonic strictures (IBD, surgical, [[colon-ischemia|ischemic]]); percutaneous endoscopic cecostomy/colostomy for refractory neurogenic bowel. **No role in stool disimpaction.**
 - Chronic constipation is an independent risk factor for inadequate bowel prep → use a more aggressive cleansing regimen.
 

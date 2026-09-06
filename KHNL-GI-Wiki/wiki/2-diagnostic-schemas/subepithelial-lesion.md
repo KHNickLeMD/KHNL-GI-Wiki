@@ -3,7 +3,7 @@ title: "Subepithelial Lesion (SEL)"
 category: diagnostic-schema
 tags: [subepithelial-lesion, gist, leiomyoma, carcinoid, net, lipoma, eus, endoscopy]
 created: 2026-05-15
-updated: 2026-09-05
+updated: 2026-09-06
 sources: [acg-2023-subepithelial-lesions, asge-2017-subepithelial-lesions]
 ---
 
@@ -224,22 +224,12 @@ Presence of ≥2 of: irregular border, echogenic foci, cystic spaces → maligna
 | Any size | Nongastric (esophageal, small bowel, colorectal) | Resect |
 | Large (especially >5 cm) | Any | Consider neoadjuvant imatinib after tissue confirmation before surgical resection |
 
-**Malignant potential by size × mitotic rate (ASGE 2017 — metastasis/tumor-related mortality):**
+**Malignant potential by size × mitotic rate × site — one home: [[gastrointestinal-stromal-tumor]].** That page carries the current NCCN version of the AFIP/Miettinen table with its CAP risk strata, and records where the older [[asge-2017-subepithelial-lesions|ASGE 2017]] bands differ. Not reproduced here — the stratum drives adjuvant TKI therapy, which is a disease-script decision.
 
-| Size | Mitotic rate | Gastric GIST | Small-intestine GIST |
-|---|---|---|---|
-| ≤2 cm | ≤5/50 HPF | 0% | 0% |
-| ≤2 cm | >5/50 HPF | <4% | *(no row in ASGE table)* |
-| >2–5 cm | ≤5/50 HPF | <4% ᵃ | 2% |
-| >2–5 cm | >5/50 HPF | 16% | 73% |
-| >5–10 cm | ≤5/50 HPF | <4% ᵃ | 25% |
-| >5–10 cm | >5/50 HPF | 55% | 85% |
-| >10 cm | ≤5/50 HPF | 12% | *(no row in ASGE table)* |
-| >10 cm | >5/50 HPF | 86% | 50–90% |
+What the SEL workup needs from it:
 
-ᵃ ASGE Table 3 does **not** split the low-mitotic gastric bands: it prints a single **">2 cm ≤10 cm, ≤5 mitoses/50 HPF → <4%"** row, so a low-mitotic gastric GIST carries the same <4% figure anywhere between 2 and 10 cm. The 12% figure belongs to **>10 cm** with a low mitotic rate — do not apply it to 5–10 cm lesions.
-
-Small-intestine GISTs are **more aggressive** (40–50% malignant vs 20–25% gastric); non-gastric/non-small-bowel GISTs treated like small-intestine lesions. EUS-FNA cannot assess mitotic rate — final risk is from surgical pathology.
+- **Site changes the stratum at identical size and mitotic rate.** Small-intestine GISTs are **more aggressive — 40–50% malignant vs 20–25% gastric**; non-gastric/non-small-bowel GISTs are treated like small-intestine lesions ([[asge-2017-subepithelial-lesions]]). This is why *all* nongastric GISTs are resected regardless of size (table above).
+- **EUS-FNA cannot assess mitotic rate** — final risk is set by surgical pathology.
 
 ### Esophageal / GEJ MP-Layer SEL (GIST or Leiomyoma)
 

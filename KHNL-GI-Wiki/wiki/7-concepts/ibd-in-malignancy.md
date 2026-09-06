@@ -3,7 +3,7 @@ title: "IBD in Patients With Malignancy"
 category: concept
 tags: [ibd, crohns, ulcerative-colitis, malignancy, cancer, thiopurines, biologics, lymphoma, immunosuppression]
 created: 2026-07-26
-updated: 2026-09-05
+updated: 2026-09-06
 sources: [aga-2024-ibd-malignancy]
 ---
 
@@ -42,7 +42,7 @@ Framework for two linked decisions: **(1)** how much cancer risk [[inflammatory-
 | **Anti-TNF** | **Melanoma** — conflicting (one ~2×, others null); **lymphoma** mostly not ↑ with monotherapy but consistently ↑ **combined with thiopurine** (young EBV-unexposed → hepatosplenic T-cell lymphoma) |
 | Methotrexate | Limited data; possible small NMSC ↑ |
 | **JAK inhibitors** | No IBD malignancy signal demonstrated; RA data (ORAL Surveillance, age >50) show ↑ any malignancy vs anti-TNF (NMSC, lung, lymphoma) — extrapolation uncertain |
-| [[vedolizumab\|Vedolizumab]], ustekinumab, risankizumab, mirikizumab, ozanimod, etrasimod | No increased malignancy risk shown (long-term data lacking) |
+| [[vedolizumab\|Vedolizumab]], [[il-23-and-il-12-23-inhibitors\|ustekinumab, risankizumab, mirikizumab]], ozanimod, etrasimod | No increased malignancy risk shown (long-term data lacking) |
 
 ## Managing IBD Drugs When a Cancer Develops
 
@@ -77,7 +77,7 @@ Framework for two linked decisions: **(1)** how much cancer risk [[inflammatory-
 
 ## See Also
 
-[[inflammatory-bowel-disease]], [[crohns-disease]], [[ulcerative-colitis]], [[colorectal-cancer]], [[primary-sclerosing-cholangitis]], [[cholangiocarcinoma]], [[immune-checkpoint-inhibitor-colitis]], [[immune-checkpoint-inhibitor-hepatitis]], [[thiopurines]], [[anti-tnf-agents]], [[vedolizumab]], [[ibd-preventive-care]], [[anal-cancer-screening]], [[colonoscopy]], [[colonoscopy-surveillance]], [[ibd-endoscopic-scoring]], [[gastroenteropancreatic-neuroendocrine-tumors]], [[post-transplant-lymphoproliferative-disorder]]
+[[inflammatory-bowel-disease]], [[crohns-disease]], [[ulcerative-colitis]], [[colorectal-cancer]], [[primary-sclerosing-cholangitis]], [[cholangiocarcinoma]], [[immune-checkpoint-inhibitor-colitis]], [[immune-checkpoint-inhibitor-hepatitis]], [[thiopurines]], [[anti-tnf-agents]], [[vedolizumab]], [[ibd-preventive-care]], [[anal-cancer-screening]], [[colonoscopy]], [[colonoscopy-surveillance]], [[ibd-endoscopic-scoring]], [[gastroenteropancreatic-neuroendocrine-tumors]], [[post-transplant-lymphoproliferative-disorder]], [[il-23-and-il-12-23-inhibitors]]
 
 ---
 

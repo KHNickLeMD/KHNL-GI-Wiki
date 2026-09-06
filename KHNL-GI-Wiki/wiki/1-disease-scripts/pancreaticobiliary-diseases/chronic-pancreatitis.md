@@ -3,7 +3,7 @@ title: "Chronic Pancreatitis"
 category: disease-script
 tags: [pancreatitis, chronic, pancreas, hpb, exocrine-insufficiency, pain]
 created: 2026-05-16
-updated: 2026-09-02
+updated: 2026-09-06
 sources: [acg-2020-chronic-pancreatitis, acg-2020-sibo, asge-2024-chronic-pancreatitis-endoscopy, apa-2014-chronic-pancreatitis, aga-2022-recurrent-pancreatitis-endoscopy]
 ---
 
@@ -62,7 +62,7 @@ Genetic testing recommended if etiology unclear (especially <35 yr) [[acg-2020-c
 
 - **A:** Clinical (pancreatitis pain, maldigestion, weight loss, glucose intolerance) + TIGAR-O risk factors + imaging/serum (CT, [[endoscopic-ultrasound|EUS]]±FNA, amylase/lipase, TG, IgG4, glucose, fat-soluble vitamins, tumor markers)
 - **B:** Family history, early onset, CF organ involvement, syndromic features → genetic testing, sweat chloride, sMRCP, exocrine function testing
-- **C:** IBD/IgG4 disease, response to therapy (analgesics, PERT, steroid trial for AIP type 2) → histology
+- **C:** [[inflammatory-bowel-disease|IBD]]/IgG4 disease, response to therapy (analgesics, PERT, steroid trial for AIP type 2) → histology
 
 **Imaging modality test characteristics** — systematic review/meta-analysis of 43 studies, 3,460 patients with suspected CP ([[acg-2020-chronic-pancreatitis]]). **The sensitivities did not differ significantly from one another**, so modality choice is driven by specificity, invasiveness, and availability rather than by pick-up rate.
 
@@ -331,7 +331,7 @@ Indicated when etiology unclear, family history, early onset, or pediatric/young
 - If inadequate, add acid suppression ([[proton-pump-inhibitors|PPI]]/H2RA) to protect non-enteric-coated formulations
 - Periodic monitoring of weight, fat-soluble vitamins, bone density (Key Concept 10)
 - Small frequent meals without fat restriction
-- **SIBO co-occurrence:** Pancreatic insufficiency is a recognized risk factor for [[small-intestinal-bacterial-overgrowth]] (altered bile acid composition + reduced digestive enzyme activity). Consider SIBO evaluation in CP patients with persistent diarrhea/bloating despite adequate PERT. ([[acg-2020-sibo]])
+- **SIBO co-occurrence:** Pancreatic insufficiency is a recognized risk factor for [[small-intestinal-bacterial-overgrowth]] (altered bile acid composition + reduced digestive enzyme activity). Consider SIBO evaluation in CP patients with persistent diarrhea/[[abdominal-bloating-and-distention|bloating]] despite adequate PERT. ([[acg-2020-sibo]])
 
 ### Endocrine dysfunction (type 3c DM)
 
@@ -354,9 +354,11 @@ Indicated when etiology unclear, family history, early onset, or pediatric/young
 
 - Not specifically addressed in guideline; manage individually
 
+---
+
 ## See Also
 
-[[acute-pancreatitis]], [[recurrent-acute-pancreatitis]], [[pancreas-divisum]], [[pancreatic-cancer]], [[pancreatic-cysts]], [[hereditary-pancreatitis]], [[exocrine-pancreatic-insufficiency]], [[biliary-stricture]], [[acute-cholecystitis]], [[endoscopic-ultrasound]], [[ercp]], [[mri-mrcp]], [[pancreatic-cancer-screening]], [[small-intestinal-bacterial-overgrowth]], [[proton-pump-inhibitors]], [[cirrhosis]]
+[[acute-pancreatitis]], [[autoimmune-pancreatitis]], [[inflammatory-bowel-disease]], [[recurrent-acute-pancreatitis]], [[pancreas-divisum]], [[pancreatic-cancer]], [[pancreatic-cysts]], [[hereditary-pancreatitis]], [[exocrine-pancreatic-insufficiency]], [[biliary-stricture]], [[acute-cholecystitis]], [[endoscopic-ultrasound]], [[ercp]], [[mri-mrcp]], [[pancreatic-cancer-screening]], [[small-intestinal-bacterial-overgrowth]], [[abdominal-bloating-and-distention]], [[proton-pump-inhibitors]], [[cirrhosis]]
 
 ---
 

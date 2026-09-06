@@ -3,7 +3,7 @@ title: "Bariatric Surgery"
 category: advanced-procedure
 tags: [obesity, bariatric, weight-management, sleeve-gastrectomy, gastric-bypass, masld, gerd, iron-deficiency-anemia]
 created: 2026-06-04
-updated: 2026-08-31
+updated: 2026-09-06
 sources: [aga-2021-intragastric-balloons, aasld-2023-nafld, asge-2024-gerd, acg-2021-gerd, aga-2024-ida-management, aga-2022-obesity-pharm]
 ---
 
@@ -24,7 +24,7 @@ This page covers the **GI/endoscopic consequences** of these operations, which i
 
 ## Role Among Weight-Loss Options
 
-- Definitive option for eligible patients; sits alongside dietary intervention, pharmacotherapy (e.g. [[semaglutide]]), and endoscopic bariatric therapy — see [[obesity]] for the full menu.
+- Definitive option for eligible patients; sits alongside dietary intervention, pharmacotherapy ([[glp-1-receptor-agonists|GLP-1 receptor agonists]] such as [[semaglutide]]), and endoscopic bariatric therapy — see [[obesity]] for the full menu.
 - **Sequencing with [[intragastric-balloon|intragastric balloons (IGB)]]** ([[aga-2021-intragastric-balloons]], Rec 7, *conditional, low certainty*): after IGB removal, subsequent weight-loss or maintenance interventions may include dietary interventions, pharmacotherapy, repeat IGB, **or bariatric surgery** — chosen by shared decision-making based on patient context and comorbidities. Bariatric surgery after IGB, and IGB as a bridge before surgery, are each supported by limited data.
 
 ---
@@ -80,7 +80,7 @@ Per [[aga-2024-ida-management|AGA 2024]] (Best Practice Advice 7, *unrated*):
 
 ## See Also
 
-[[obesity]], [[intragastric-balloon]], [[semaglutide]], [[nafld-masld]], [[cirrhosis]], [[gerd]], [[barretts-esophagus]], [[antireflux-surgery]], [[upper-endoscopy]], [[iron-deficiency-anemia]], [[liver-transplantation]]
+[[obesity]], [[intragastric-balloon]], [[semaglutide]], [[glp-1-receptor-agonists]], [[nafld-masld]], [[cirrhosis]], [[gerd]], [[barretts-esophagus]], [[antireflux-surgery]], [[upper-endoscopy]], [[iron-deficiency-anemia]], [[liver-transplantation]]
 
 ---
 

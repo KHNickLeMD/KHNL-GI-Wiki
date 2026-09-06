@@ -71,7 +71,7 @@ PSC is a chronic, cholestatic liver disease likely of autoimmune origin characte
 | **Small-duct PSC** (~5%) | Normal MRCP; biopsy-proven PSC histology; associated with IBD | Better — lower [[hepatocellular-carcinoma\|HCC]] risk, longer LT-free survival; 23% progress to large-duct disease over 5–14 years; monitor MRI/MRCP every 3–5 years ([[aasld-2022-psc]] GS 7) |
 | **PSC-AIH overlap** | Concurrent PSC cholangiographic + AIH biochemical/histological features; 35% of children, 5% of adults | Managed with AIH immunosuppression per AASLD AIH guidelines (GS 14) |
 | **IgG4-sclerosing cholangitis** | IgG4-positive plasma cells in tissue + elevated serum IgG4 + pancreatic involvement | Distinct entity; steroid-responsive; exclude in all PSC patients (GS 4) |
-| **Secondary sclerosing cholangitis** | Identifiable biliary etiology (Table 2: infectious, ischemic, malignant, autoimmune, anatomic, drug-induced including ICI) | Depends on etiology |
+| **Secondary sclerosing cholangitis** | Identifiable biliary etiology (Table 2: infectious, ischemic, malignant, autoimmune, anatomic, drug-induced including [[immune-checkpoint-inhibitor-hepatitis\|immune checkpoint inhibitors]]) | Depends on etiology |
 
 ---
 
@@ -319,7 +319,7 @@ Histological and cholangiographic assessment required to distinguish rPSC from a
 
 ## See Also
 
-[[abnormal-liver-chemistries]], [[primary-biliary-cholangitis]], [[autoimmune-hepatitis]], [[biliary-stricture]], [[cholangiocarcinoma]], [[ulcerative-colitis]], [[crohns-disease]], [[inflammatory-bowel-disease]], [[ercp]], [[liver-transplantation]], [[colonoscopy]], [[colorectal-cancer]], [[portal-hypertension]], [[hcc-surveillance]], [[liver-stiffness-measurement]], [[liver-biopsy]], [[mri-mrcp]], [[brush-cytology]], [[fish]], [[gallbladder-cancer]], [[variceal-upper-gi-bleeding]], [[upper-endoscopy]], [[tips]], [[cirrhosis]], [[acute-cholangitis]], [[acute-pancreatitis]], [[porto-sinusoidal-vascular-disorder]], [[portal-vein-thrombosis]], [[thiopurines]], [[anti-tnf-agents]]
+[[abnormal-liver-chemistries]], [[primary-biliary-cholangitis]], [[autoimmune-hepatitis]], [[biliary-stricture]], [[cholangiocarcinoma]], [[ulcerative-colitis]], [[crohns-disease]], [[inflammatory-bowel-disease]], [[ercp]], [[liver-transplantation]], [[colonoscopy]], [[colorectal-cancer]], [[portal-hypertension]], [[hcc-surveillance]], [[liver-stiffness-measurement]], [[liver-biopsy]], [[mri-mrcp]], [[brush-cytology]], [[fish]], [[gallbladder-cancer]], [[variceal-upper-gi-bleeding]], [[upper-endoscopy]], [[tips]], [[cirrhosis]], [[acute-cholangitis]], [[acute-pancreatitis]], [[porto-sinusoidal-vascular-disorder]], [[portal-vein-thrombosis]], [[thiopurines]], [[anti-tnf-agents]], [[immune-checkpoint-inhibitor-hepatitis]], [[hereditary-hemorrhagic-telangiectasia]], [[choledocholithiasis]], [[endoscopic-ultrasound]], [[antibiotic-prophylaxis-endoscopy]], [[tacrolimus]], [[jaundice]], [[hepatocellular-carcinoma]], [[ascites]], [[hepatic-encephalopathy]]
 
 ---
 

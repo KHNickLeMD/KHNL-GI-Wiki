@@ -3,8 +3,8 @@ title: "Celiac Disease"
 category: disease-script
 tags: [celiac-disease, gluten, malabsorption, small-bowel, ttg, marsh, foregut]
 created: 2026-05-15
-updated: 2026-09-02
-sources: [acg-2022-celiac]
+updated: 2026-09-06
+sources: [acg-2022-celiac, aga-2022-refractory-celiac]
 ---
 
 A permanent immune-mediated enteropathy triggered by gluten (proteins in wheat, barley, and rye) in genetically susceptible individuals (HLA-DQ2/DQ8). Affects ~1% of the US population. Characterized by small bowel villous injury, crypt hyperplasia, and intraepithelial lymphocytosis, with a wide spectrum of GI and extra-intestinal manifestations.
@@ -305,7 +305,7 @@ Define: persistent symptoms/signs/labs after 6–12 months of GFD. Systematic st
    - Lactose intolerance, fructose intolerance, FODMAP sensitivity (breath testing) — the **low-FODMAP diet is not indicated in all** nonresponsive CD
    - [[exocrine-pancreatic-insufficiency|Exocrine pancreatic insufficiency]] — common here; treat with **gluten-free** pancreatic enzyme supplements
    - [[small-intestinal-bacterial-overgrowth|SIBO]] (breath testing)
-   - [[microscopic-colitis|Microscopic colitis]] and [[inflammatory-bowel-disease|IBD]] — **colonoscopy is indicated** for persistent or recurrent diarrhoea, as both are more common in CD and occur even with healed small-bowel mucosa
+   - [[microscopic-colitis|Microscopic colitis]] and [[inflammatory-bowel-disease|IBD]] — **[[colonoscopy]] is indicated** for persistent or recurrent diarrhoea, as both are more common in CD and occur even with healed small-bowel mucosa
    - Functional GI disorder ([[disorders-of-gut-brain-interaction]])
 4. **Repeat EGD with duodenal biopsies** — to identify persistent villous atrophy. Persistent atrophy is **necessary but not sufficient** for RCD; it may equally reflect gluten ingestion or slowly responsive CD. Minimal/no histologic change → look elsewhere for the cause.
 
@@ -318,7 +318,7 @@ Define: persistent symptoms/signs/labs after 6–12 months of GFD. Systematic st
 | **Autoimmune enteropathy** | Sprue-like biopsy + other autoimmune disease + anti-enterocyte and/or anti-goblet cell antibodies; absence of Paneth or goblet cells, increased crypt apoptotic bodies. **May coexist with CD** |
 | **Tropical sprue** | Requires travel/residence in the tropics; folate and/or B12 deficiency characteristic; **partial, patchy** villous atrophy with **less** intraepithelial lymphocytosis; responds rapidly to folic acid + tetracycline |
 | **"Unclassified sprue" / idiopathic villous atrophy** | Sprue-like histology with no other aetiology found |
-| **On pathologist re-review** | EATL, low-grade CD4+ lymphoma, tuberculosis, *Mycobacterium avium* complex, giardiasis, Whipple's disease. Exclude **HIV enteropathy** |
+| **On pathologist re-review** | EATL, low-grade CD4+ lymphoma, tuberculosis, *Mycobacterium avium* complex, [[giardiasis]], Whipple's disease. Exclude **HIV enteropathy** |
 
 ### Refractory CD (RCD)
 
@@ -352,12 +352,12 @@ Subtyping is by intraepithelial lymphocyte (IEL) phenotype, **not** by symptoms.
 
 #### Staging imaging (BPA 5)
 
-- **RCD2 at diagnosis** → **capsule endoscopy *and* CT or MR enterography**, to exclude EATL and ulcerative jejunoileitis
+- **RCD2 at diagnosis** → **[[capsule-endoscopy|capsule endoscopy]] *and* CT or MR enterography**, to exclude EATL and ulcerative jejunoileitis
 - **RCD1** → lymphoma risk is *extremely low*; image **only if not doing well** on therapy
 - Capsule endoscopy also quantifies extent/severity of villous atrophy — **greater in RCD2 than RCD1**
 - CT/MR enterography may show bowel wall thickening, mesenteric adenopathy, small bowel masses, ulcerative jejunoileitis
 - **Repeat imaging** in RCD2 patients who are clinically worsening (rising lymphoma risk)
-- Strictures, inflammation, erosions, ulcers, or mass lesions → **small bowel enteroscopy** for tissue diagnosis
+- Strictures, inflammation, erosions, ulcers, or mass lesions → **[[device-assisted-enteroscopy|small bowel enteroscopy]]** for tissue diagnosis
 
 #### Nutritional assessment (BPA 6–7)
 
@@ -376,13 +376,13 @@ Assess malnutrition by nonvolitional weight loss, low BMI, loss of muscle mass/s
 |---|---|---|---|
 | **Open-capsule budesonide** | **3 mg TID** | 92% clinical, 89% histologic | First-line, both subtypes |
 | **Prednisone** | **40–60 mg daily**, slow taper over several months | 90% clinical (RCD1); 77% (RCD2) | If budesonide unavailable |
-| Small-intestinal-release [[mesalamine]] | **2–4 g/d** | 75% alone; 33% complete response combined with budesonide | — |
+| Small-intestinal-release mesalamine | **2–4 g/d** | 75% alone; 33% complete response combined with budesonide | — |
 | [[thiopurines\|Azathioprine]] | **2–2.5 mg/kg/d** | 71% clinical | Immunosuppressant of choice for long-term **RCD1**; villous atrophy reported |
 | [[thiopurines\|Mercaptopurine]] | **1 mg/kg/d** | — | Risk of accelerated lymphoma — **caution in RCD2** |
 | Tioguanine | **0.3 mg/kg/d** | 83% clinical, 78% histologic | **Not available in the US** |
 | Elemental diet | — | 67% clinical, 89% histologic | — |
 | **Cladribine** | **0.1 mg/kg/day IV for 5 days**; 1–3 courses every 6 mo | 35% clinical / 59% histologic; 81% / 47% in a second series | **RCD2 only** |
-| [[infliximab]] | **5 mg/kg IV** | Case report only | **RCD2 only** |
+| [[anti-tnf-agents\|Infliximab]] | **5 mg/kg IV** | Case report only | **RCD2 only** |
 | Autologous stem cell transplant | — | 85% clinical response; **66% 4-year survival** | **RCD2 only**; role not defined |
 | Anti-IL-15 mAb (AMG 714) | 8 mg/kg IV day 0, day 7, then q2wk through wk 10 | Symptoms improved but **failed** its primary endpoint (no reduction in aberrant IELs) | **RCD2 only** |
 
@@ -418,10 +418,11 @@ Assess malnutrition by nonvolitional weight loss, low BMI, loss of muscle mass/s
 
 ## See Also
 
-[[chronic-diarrhea]], [[irritable-bowel-syndrome]], [[small-intestinal-bacterial-overgrowth]], [[crohns-disease]], [[microscopic-colitis]], [[exocrine-pancreatic-insufficiency]], [[disorders-of-gut-brain-interaction]], [[dyspepsia]], [[atrophic-gastritis]], [[helicobacter-pylori-infection]], [[iron-deficiency-anemia]], [[probiotics]], [[upper-endoscopy]]
+[[chronic-diarrhea]], [[irritable-bowel-syndrome]], [[small-intestinal-bacterial-overgrowth]], [[crohns-disease]], [[microscopic-colitis]], [[exocrine-pancreatic-insufficiency]], [[disorders-of-gut-brain-interaction]], [[dyspepsia]], [[atrophic-gastritis]], [[helicobacter-pylori-infection]], [[iron-deficiency-anemia]], [[probiotics]], [[upper-endoscopy]], [[colonoscopy]], [[capsule-endoscopy]], [[device-assisted-enteroscopy]], [[giardiasis]], [[thiopurines]], [[anti-tnf-agents]], [[inflammatory-bowel-disease]]
 
 ---
 
 ## Sources
 
 1. [[acg-2022-celiac|ACG 2022: Diagnosis and Management of Celiac Disease]]
+2. [[aga-2022-refractory-celiac|AGA Clinical Practice Update on Management of Refractory Celiac Disease: Expert Review]]

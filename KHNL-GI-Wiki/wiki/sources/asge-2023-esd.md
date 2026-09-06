@@ -3,7 +3,7 @@ title: "ASGE Guideline: ESD for Early Esophageal and Gastric Cancer (2023)"
 category: source
 tags: [esd, emr, esophageal-cancer, gastric-adenocarcinoma, endoscopic-resection, guideline, asge]
 created: 2026-06-04
-updated: 2026-08-14
+updated: 2026-09-06
 sources: []
 ---
 
@@ -28,10 +28,25 @@ This guideline positions **endoscopic submucosal dissection (ESD)** versus EMR f
 
 ## Key Recommendations (conditional)
 
-- **ESCC:** **ESD over EMR** for early, well-differentiated, nonulcerated cancer **>15 mm**; for ≤15 mm lesions, **either ESD or EMR**; **against surgery** when endoscopic resection is feasible.
-- **EAC:** **ESD over EMR** for early-stage lesions (especially larger/nodular); smaller flat lesions may use either.
-- **GAC:** **ESD over EMR** for early, well-differentiated lesions; for similar lesions **<20 mm**, either ESD or EMR; **against surgery** when curative endoscopic resection is achievable.
-- Lesions exceeding size/depth criteria → **surgical evaluation** over endoscopic approaches.
+**Every recommendation below is Conditional / low quality of evidence.** The size cutoff is the decision — reproduced verbatim from Table 2.
+
+| Cancer | Patient population | Recommendation |
+|---|---|---|
+| **ESCC** | Esophageal squamous dysplasia or early-stage ESCC — well differentiated, nonulcerated, without submucosal invasion, **measuring over 15 mm** | **We suggest ESD over EMR** |
+| **ESCC** | Same lesion, **measuring ≤15 mm** | **We do not make a recommendation** for or against either ESD or EMR |
+| **ESCC** | Esophageal squamous dysplasia or early, well-differentiated, nonulcerated ESCC without submucosal invasion | **We suggest against surgery** |
+| **EAC** | Early-stage EAC (**T1**) **or Barrett's nodular dysplasia** — well differentiated, nonulcerated, **measuring over 20 mm** | **We suggest ESD over EMR** |
+| **EAC** | Same lesion, **measuring ≤20 mm** | **We do not make a recommendation** for or against either ESD or EMR |
+| **GAC** | Well- or moderately differentiated early-stage GAC — nonulcerated, intestinal type, **measuring under 20 mm** | **We do not make a recommendation** for or against either ESD or EMR |
+| **GAC** | Same lesion, **measuring 20–30 mm** | **We suggest ESD over EMR** |
+| **GAC** | Well- or moderately differentiated early-stage GAC, intestinal type, **measuring under 30 mm** | **We suggest against surgery** |
+| **GAC** | **Poorly differentiated** early-stage GAC (**any size**) | **We suggest surgical evaluation** over endoscopic approaches |
+
+> ⚠ **Corrected 2026-09-06 (source-fidelity fix).** This section previously flattened the table into four bullets that **dropped the EAC >20 mm / ≤20 mm threshold entirely** ("ESD over EMR for early-stage lesions (especially larger/nodular); smaller flat lesions may use either"), dropped the **GAC 20–30 mm** band in which ESD *is* preferred, and mislabelled the GAC <20 mm and ESCC ≤15 mm rows as "either ESD or EMR" when the guideline explicitly **makes no recommendation** there. Verified against Table 2 of the raw PDF. The EAC threshold is the one that matters clinically — it is what divides ASGE 2023 from [[aga-2024-barretts-eet]], which selects by morphology and prior failure rather than by size (see [[barretts-esophagus]]).
+>
+> **Abstract vs Table 2 wording differ within the source itself.** The abstract says that for ESCC "similar lesions ≤15 mm, the ASGE suggests **either ESD or EMR**," while Table 2 says the ASGE "**does not make a recommendation** for or against either." Both are reproduced here; the table is the formal recommendation set.
+
+**Also in the source:** absolute and expanded ESD criteria for gastric lesions (Table 1) — mucosal adenocarcinoma / high-grade dysplasia, intestinal type G1–G2 any size without ulceration, submucosally invasive intestinal type G1–G2, intestinal type G1–G2 ≤3 cm with ulceration, and diffuse type G3–G4 ≤2 cm without ulceration. Clinical care algorithms are Figures 1–3 (ESCC, EAC, GAC).
 
 ---
 

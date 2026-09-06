@@ -3,7 +3,7 @@ title: "Upper Endoscopy (EGD)"
 category: general-procedure
 tags: [egd, upper-endoscopy, esophagogastroduodenoscopy, ugib, barrett-esophagus, peptic-ulcer, gpmc, celiac, quality-indicators]
 created: 2026-05-07
-updated: 2026-09-03
+updated: 2026-09-06
 sources: [acg-2025-egd-quality, aga-2024-upper-endoscopy-quality, aga-2024-glp1-endoscopy, asge-2011-foreign-body-ingestion]
 ---
 
@@ -59,7 +59,7 @@ Supplementary best practice guidance from AGA 2024 Clinical Practice Update. [[a
 
 **Therapeutic:**
 
-- Hemostasis (UGIB)
+- [[endoscopic-hemostasis|Hemostasis]] (UGIB)
 - Dilation (strictures)
 - [[endoscopic-mucosal-resection|EMR]]/[[endoscopic-submucosal-dissection|ESD]] for dysplasia (EoE, BE, early GC)
 - [[ingested-foreign-body|Foreign body retrieval and food bolus impaction]] — flexible endoscopy is first-line (0 perforations in 76 cases vs 2/63, 3.2%, with rigid esophagoscopy); esophageal objects and food impactions removed within 24 h ([[asge-2011-foreign-body-ingestion]])
@@ -73,7 +73,7 @@ Supplementary best practice guidance from AGA 2024 Clinical Practice Update. [[a
 
 - **EGD within 24 hours** for admitted/observed overt UGIB (QI 2; target: >80%)
 - **Optimal window:** 6–24 hours — mortality benefit vs both urgent (<6 h) and delayed (24–48 h) EGD in a territory-wide cohort of 6,474 UGIB patients; urgent <6 h gave no difference in 30-day mortality or further bleeding in the RCT of high-risk patients (GBS ≥12)
-- In **ASA III–IV** ulcer bleeding, both **very early (<12 h) and very late (>36 h)** EGD carried increased mortality (nationwide retrospective cohort)
+- In **ASA III–IV** ulcer bleeding, both **very early (<12 h) and very late (>36 h)** EGD carried increased mortality (nationwide retrospective cohort). *(ASA physical-status class definitions are on [[endoscopy-sedation]].)*
 - Excludes low-risk UGIB (Glasgow-Blatchford score ≤1 — can be discharged from ED without EGD); see [[upper-gi-bleeding]]
 
 ---
@@ -261,7 +261,7 @@ More rigorous documentation is recommended for Barrett's esophagus, gastric inte
 
 ## See Also
 
-[[gastric-premalignant-conditions]], [[gastric-cancer-screening]], [[gastric-adenocarcinoma]], [[gastric-intestinal-metaplasia]], [[gastric-polyps]], [[eosinophilic-esophagitis]], [[helicobacter-pylori-infection]], [[peptic-ulcer-disease]], [[barretts-esophagus]], [[endoscopic-eradication-therapy]], [[endoscopic-mucosal-resection]], [[polypectomy]], [[colonoscopy]], [[celiac-disease]], [[upper-gi-bleeding]], [[gerd]], [[dysphagia]], [[dyspepsia]], [[nausea-and-vomiting]], [[proton-pump-inhibitors]], [[potassium-competitive-acid-blockers]], [[endoscopy-sedation]], [[antibiotic-prophylaxis-endoscopy]], [[artificial-intelligence-endoscopy]], [[reflux-testing]], [[ingested-foreign-body]]
+[[gastric-premalignant-conditions]], [[gastric-cancer-screening]], [[gastric-adenocarcinoma]], [[gastric-intestinal-metaplasia]], [[gastric-polyps]], [[eosinophilic-esophagitis]], [[helicobacter-pylori-infection]], [[peptic-ulcer-disease]], [[barretts-esophagus]], [[endoscopic-eradication-therapy]], [[endoscopic-mucosal-resection]], [[polypectomy]], [[colonoscopy]], [[celiac-disease]], [[upper-gi-bleeding]], [[endoscopic-hemostasis]], [[gerd]], [[dysphagia]], [[dyspepsia]], [[nausea-and-vomiting]], [[proton-pump-inhibitors]], [[potassium-competitive-acid-blockers]], [[endoscopy-sedation]], [[antibiotic-prophylaxis-endoscopy]], [[artificial-intelligence-endoscopy]], [[reflux-testing]], [[ingested-foreign-body]]
 
 ---
 

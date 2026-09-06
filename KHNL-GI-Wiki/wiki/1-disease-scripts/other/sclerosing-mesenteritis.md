@@ -3,7 +3,7 @@ title: "Sclerosing Mesenteritis"
 category: disease-script
 tags: [sclerosing-mesenteritis, mesenteric-panniculitis, misty-mesentery, igg4, tamoxifen, corticosteroids, colchicine, azathioprine]
 created: 2026-06-27
-updated: 2026-09-04
+updated: 2026-09-06
 sources: [aga-2025-sclerosing-mesenteritis]
 ---
 
@@ -40,7 +40,7 @@ Idiopathic disorder of the bowel mesentery characterized by **inflammation, fat 
 
 - **≥3 of 5 → suggestive of SM.** No single sign is diagnostic.
 - **A hazy mesentery *without* nodes, halo sign, or pseudocapsule is NOT diagnostic** and, absent other symptoms, typically needs **no follow-up**.
-- **Alarm features that change the plan:** fever, night sweats, unintentional weight loss. In their absence, with characteristic imaging, malignancy risk is very low and biopsy can be omitted. **Calcifications and retraction of surrounding bowel** mark more severe disease and possible malignancy → usually warrants biopsy unless IgG4-related disease is established.
+- **Alarm features that change the plan:** fever, night sweats, unintentional weight loss. In their absence, with characteristic imaging, malignancy risk is very low and biopsy can be omitted. **Calcifications and retraction of surrounding bowel** mark more severe disease and possible malignancy → usually warrants biopsy unless [[autoimmune-pancreatitis|IgG4-related disease]] is established.
 - **Fever should prompt evaluation for infection** before it is attributed to SM.
 
 **Symptoms** — up to **60%** of patients with SM findings on CT are asymptomatic (likely an underestimate, since asymptomatic people are not all imaged). Among the symptomatic:
@@ -121,7 +121,7 @@ Treatment is aimed at **symptom relief** — there is limited evidence that trea
 | **Tamoxifen** (most commonly used) | **10 mg twice daily**, alone or with prednisone 30–40 mg/day; with combination therapy taper prednisone after **3 months** and continue tamoxifen for maintenance (duration undetermined). In responders with mild side effects, **10 mg daily** may maintain response | Chosen for antifibrotic activity against TGF-β; actual mechanism unknown. **Side effects:** antiestrogenic (hot flashes, sweating, vaginal bleeding), alopecia, fatigue, thrombosis, thrombocytopenia, elevated liver enzymes. **Contraindicated** with history of venous thrombosis, pulmonary embolism, or significant cerebrovascular/cardiovascular/peripheral vascular disease; **active tobacco use is a relative contraindication** |
 | **Colchicine** + prednisone | **0.6 mg twice daily** with **prednisone 40 mg/day**, tapering prednisone after 3 months | ~**50%** response in a small series. GI side effects may limit use; **contraindicated in renal insufficiency** |
 | **[[thiopurines\|Azathioprine]]** | **2–2.5 mg/kg/day** ([[inflammatory-bowel-disease\|IBD]]-style dosing) in normal TPMT metabolizers | Slow onset — co-administer prednisone early |
-| Rituximab, thalidomide, cyclophosphamide, methotrexate, infliximab, ustekinumab | — | Limited data; significant toxicity potential; **reserved as second line for severe, refractory disease** |
+| Rituximab, thalidomide, cyclophosphamide, methotrexate, infliximab, [[il-23-and-il-12-23-inhibitors\|ustekinumab]] | — | Limited data; significant toxicity potential; **reserved as second line for severe, refractory disease** |
 
 - **Response:** maximal response to prednisone and tamoxifen occurs at **4–6 months**, with **50%–60% of patients responding**.
 
@@ -157,7 +157,7 @@ flowchart TD
 
 ## See Also
 
-[[acute-mesenteric-ischemia]], [[ascites]], [[gastrointestinal-stromal-tumor]], [[gastroenteropancreatic-neuroendocrine-tumors]], [[familial-adenomatous-polyposis]], [[irritable-bowel-syndrome]], [[chronic-constipation]], [[chronic-diarrhea]], [[gerd]], [[nausea-and-vomiting]], [[abdominal-bloating-and-distention]], [[inflammatory-bowel-disease]], [[thiopurines]], [[obesity]], [[cirrhosis]]
+[[acute-mesenteric-ischemia]], [[ascites]], [[gastrointestinal-stromal-tumor]], [[gastroenteropancreatic-neuroendocrine-tumors]], [[familial-adenomatous-polyposis]], [[irritable-bowel-syndrome]], [[chronic-constipation]], [[chronic-diarrhea]], [[gerd]], [[nausea-and-vomiting]], [[abdominal-bloating-and-distention]], [[inflammatory-bowel-disease]], [[thiopurines]], [[obesity]], [[cirrhosis]], [[autoimmune-pancreatitis]], [[il-23-and-il-12-23-inhibitors]]
 
 ---
 

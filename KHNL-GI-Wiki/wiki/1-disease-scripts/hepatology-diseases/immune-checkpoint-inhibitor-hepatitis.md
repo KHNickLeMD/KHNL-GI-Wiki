@@ -3,11 +3,21 @@ title: "Immune Checkpoint Inhibitor Hepatitis (ICI Hepatotoxicity)"
 category: disease-script
 tags: [ici, immunotherapy, hepatitis, dili, liver, hpb, checkpoint-inhibitor]
 created: 2026-05-16
-updated: 2026-09-04
+updated: 2026-09-06
 sources: [acg-2021-dili, aasld-2022-dili, aga-2021-ici-colitis-hepatitis]
 ---
 
 A subtype of [[drug-induced-liver-injury]] (DILI) with distinct features. Anticancer therapeutics — **particularly immune checkpoint inhibitors** — are among the leading DILI drug classes. [[acg-2021-dili]]
+
+## Contents
+- [[#Assessment]]
+  - [[#Establishing the Diagnosis]]
+  - [[#Severity Assessment]]
+- [[#Differential Diagnosis]]
+- [[#Diagnostics]]
+- [[#Therapeutics]]
+- [[#See Also]]
+- [[#Sources]]
 
 ## Assessment
 
@@ -45,7 +55,7 @@ ICI hepatotoxicity is an **immune-related adverse event (irAE)** of PD-1/PD-L1 i
 | **1** | 1–3× ULN | 1–1.5× ULN |
 | **2** | >3–5× ULN | >1.5–3× ULN |
 | **3** | >5–20× ULN | >3–10× ULN |
-| **4** | >20× ULN | >10× ULN, **or hepatic decompensation** (ascites, encephalopathy) |
+| **4** | >20× ULN | >10× ULN, **or hepatic decompensation** ([[ascites]], [[hepatic-encephalopathy\|encephalopathy]]) |
 
 > ✅ **Gap closed (2026-09-04).** This table previously stopped at "grade 3 **or higher**" and warned that a patient with ALT >20× ULN fell outside every row, because [[aasld-2022-dili]] writes a bounded 5–20× range under an open-ended label and never defines grade 4. [[aga-2021-ici-colitis-hepatitis]] **BPA 13** supplies the missing boundary verbatim: *"grade 4 hepatitis (AST/ALT >20× ULN or total bilirubin >10× ULN or hepatic decompensation, such as ascites or encephalopathy)."* Grade 5 (death) is still not defined in any ingested source.
 >
@@ -119,7 +129,7 @@ ICI hepatotoxicity is an **immune-related adverse event (irAE)** of PD-1/PD-L1 i
 
 ## See Also
 
-[[immune-checkpoint-inhibitor-colitis]], [[drug-induced-liver-injury]], [[autoimmune-hepatitis]], [[abnormal-liver-chemistries]], [[jaundice]], [[hepatocellular-carcinoma]], [[biliary-stricture]], [[tacrolimus]], [[liver-biopsy]], [[liver-transplantation]], [[acute-liver-failure]], [[ibd-in-malignancy]], [[chronic-hepatitis-b]], [[hepatitis-c]], [[endoscopic-ultrasound]], [[ercp]], [[mri-mrcp]]
+[[immune-checkpoint-inhibitor-colitis]], [[drug-induced-liver-injury]], [[autoimmune-hepatitis]], [[abnormal-liver-chemistries]], [[jaundice]], [[hepatocellular-carcinoma]], [[biliary-stricture]], [[tacrolimus]], [[liver-biopsy]], [[liver-transplantation]], [[acute-liver-failure]], [[ibd-in-malignancy]], [[chronic-hepatitis-b]], [[hepatitis-c]], [[endoscopic-ultrasound]], [[ercp]], [[mri-mrcp]], [[ascites]], [[hepatic-encephalopathy]], [[primary-sclerosing-cholangitis]], [[cirrhosis]]
 
 ---
 

@@ -3,8 +3,8 @@ title: "Postinfectious Irritable Bowel Syndrome (PI-IBS)"
 category: disease-script
 tags: [ibs, postinfectious-ibs, travelers-diarrhea, gastroenteritis, functional-gi, rome-iv, giardia, campylobacter]
 created: 2026-05-19
-updated: 2026-09-05
-sources: [acg-2016-acute-diarrhea, acg-2020-ibs, rome-v-2026-dgbi]
+updated: 2026-09-06
+sources: [acg-2016-acute-diarrhea, acg-2020-ibs, rome-v-2026-dgbi, idsa-2017-infectious-diarrhea]
 ---
 
 Postinfectious [[irritable-bowel-syndrome|IBS]] (PI-IBS) is a chronic functional sequela of [[acute-diarrhea|acute infectious gastroenteritis]], including traveler's diarrhea (TD). It is a paradigm shift in IBS pathogenesis — an **external event (enteric infection) produces prolonged and permanent changes in GI function that are *not* directly mediated by persistence of the infectious agent.** [[acg-2016-acute-diarrhea]]
@@ -40,6 +40,7 @@ Postinfectious [[irritable-bowel-syndrome|IBS]] (PI-IBS) is a chronic functional
 | IBS after a **bacterial** infection | **13.8%** |
 
 - **Triggering pathogens** — bacterial (*[[campylobacter-infection|Campylobacter jejuni]]* and *[[salmonella-infection|Salmonella]]*), viral (Norwalk), and parasitic (*[[cryptosporidiosis|Cryptosporidium]]* spp. or *[[giardiasis|Giardia]]* [*G. duodenalis* / *G. lamblia*]). [[acg-2020-ibs]] Pathogen-specific risk figures for *Giardia* are on [[giardiasis]].
+- ***[[shigellosis|Shigella]]* is a further recognized trigger** — IDSA lists post-infectious IBS among the sequelae of *Shigella* infection, alongside reactive arthritis, erythema nodosum, and intestinal perforation. [[idsa-2017-infectious-diarrhea]] (Table 5). It is **not** among the pathogens named by [[acg-2020-ibs]] above.
 - **Host risk factors** — female sex, **antibiotic exposure**, and a history of **anxiety or depression**. [[acg-2020-ibs]]
 - **Acute-illness severity** also raises risk, and PI-IBS is more common after bacterial infection — the guideline's rationale for treating TD aggressively. [[acg-2016-acute-diarrhea]]
 
@@ -67,7 +68,7 @@ Postinfectious [[irritable-bowel-syndrome|IBS]] (PI-IBS) is a chronic functional
 
 ## See Also
 
-[[irritable-bowel-syndrome]], [[acute-diarrhea]], [[chronic-diarrhea]], [[disorders-of-gut-brain-interaction]], [[abdominal-bloating-and-distention]], [[giardiasis]], [[campylobacter-infection]], [[salmonella-infection]], [[cryptosporidiosis]], [[entamoeba-histolytica-infection]], [[celiac-disease]], [[microscopic-colitis]], [[small-intestinal-bacterial-overgrowth]], [[bile-acid-diarrhea]], [[inflammatory-bowel-disease]]
+[[irritable-bowel-syndrome]], [[acute-diarrhea]], [[chronic-diarrhea]], [[disorders-of-gut-brain-interaction]], [[abdominal-bloating-and-distention]], [[giardiasis]], [[campylobacter-infection]], [[salmonella-infection]], [[cryptosporidiosis]], [[entamoeba-histolytica-infection]], [[celiac-disease]], [[microscopic-colitis]], [[small-intestinal-bacterial-overgrowth]], [[bile-acid-diarrhea]], [[inflammatory-bowel-disease]], [[shigellosis]]
 
 ---
 
@@ -76,3 +77,4 @@ Postinfectious [[irritable-bowel-syndrome|IBS]] (PI-IBS) is a chronic functional
 1. [[acg-2016-acute-diarrhea|ACG 2016: Diagnosis, Treatment, and Prevention of Acute Diarrheal Infections in Adults]]
 2. [[acg-2020-ibs|ACG 2020 Clinical Guideline: Management of Irritable Bowel Syndrome]]
 3. [[rome-v-2026-dgbi|Disorders of Gut–Brain Interaction and the Rome V Process]]
+4. [[idsa-2017-infectious-diarrhea|IDSA 2017 Clinical Practice Guidelines for the Diagnosis and Management of Infectious Diarrhea]]

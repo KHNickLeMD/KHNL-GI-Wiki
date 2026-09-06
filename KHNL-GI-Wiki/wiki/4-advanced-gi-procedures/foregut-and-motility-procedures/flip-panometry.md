@@ -3,17 +3,9 @@ title: "FLIP Panometry"
 category: advanced-procedure
 tags: [FLIP, panometry, esophageal-motility, EGJ, functional-lumen-imaging, achalasia, EGJOO, foregut]
 created: 2026-05-15
-updated: 2026-09-05
+updated: 2026-09-06
 sources: [dallas-2025-flip-panometry, aga-2025-flip-esophageal]
 ---
-
-## Overview
-
-**FLIP (Functional Lumen Imaging Probe) Panometry** is an endoscopic technique that simultaneously measures EGJ opening geometry and the esophageal body contractile response during controlled bag distension. Unlike [[high-resolution-manometry]], FLIP can be performed at the time of sedated endoscopy, providing an integrated motor assessment without a separate procedure.
-
-FLIP panometry generates a 2-axis motility profile — EGJ opening versus contractile response — that maps to the FLIP Panometry Motility Classification v2.0 matrix ([[dallas-2025-flip-panometry]]).
-
-**Scope limit (Dallas):** the classification is intended for patients **without previous foregut surgery and without mechanical obstruction or abnormal anatomy** (strictures, paraesophageal hernia) — these produce *secondary* motility abnormalities. In post-surgical or obstructed anatomy, findings must be read against that specific anatomy (see [[#FLIP After Foregut Intervention]]).
 
 ## Contents
 - [[#Overview]]
@@ -35,6 +27,14 @@ FLIP panometry generates a 2-axis motility profile — EGJ opening versus contra
 - [[#Sources]]
 
 ---
+
+## Overview
+
+**FLIP (Functional Lumen Imaging Probe) Panometry** is an endoscopic technique that simultaneously measures EGJ opening geometry and the esophageal body contractile response during controlled bag distension. Unlike [[high-resolution-manometry]], FLIP can be performed at the time of sedated endoscopy, providing an integrated motor assessment without a separate procedure.
+
+FLIP panometry generates a 2-axis motility profile — EGJ opening versus contractile response — that maps to the FLIP Panometry Motility Classification v2.0 matrix ([[dallas-2025-flip-panometry]]).
+
+**Scope limit (Dallas):** the classification is intended for patients **without previous foregut surgery and without mechanical obstruction or abnormal anatomy** (strictures, paraesophageal hernia) — these produce *secondary* motility abnormalities. In post-surgical or obstructed anatomy, findings must be read against that specific anatomy (see [[#FLIP After Foregut Intervention]]).
 
 ## Standard Protocol
 

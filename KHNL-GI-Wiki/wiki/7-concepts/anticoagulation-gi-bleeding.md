@@ -3,7 +3,7 @@ title: "Anticoagulation Management in GI Bleeding and Periendoscopic Period"
 category: concept
 tags: [anticoagulation, antiplatelets, gi-bleeding, periendoscopic, doac, warfarin, bridging]
 created: 2026-05-15
-updated: 2026-09-05
+updated: 2026-09-06
 sources: [acg-cag-2022-anticoag-gi-bleeding, asge-2016-antithrombotic]
 ---
 
@@ -58,7 +58,7 @@ Acute GI bleeding is defined as overt bleeding ([[upper-gi-bleeding|melena, hema
 - When reversal is chosen: guideline **prefers 4F-PCC over FFP** (conditional, very low certainty) — PCC achieves more rapid and reliable INR correction (RR for rapid INR correction vs FFP: 6.99, 95% CI 3.61–13.53)
 - 4F-PCC and 3-factor PCC are treated as equivalent for VKA reversal
 - PCC use can be considered in: life-threatening bleed, supratherapeutic INR substantially above range, or when massive transfusion is undesirable
-- PCC is **not necessary for most warfarin-related GI bleeds**; endoscopic hemostasis is usually sufficient
+- PCC is **not necessary for most warfarin-related GI bleeds**; [[endoscopic-hemostasis|endoscopic hemostasis]] is usually sufficient
 
 **Vitamin K:**
 
@@ -331,7 +331,7 @@ The "1–2 days" in the ACG/CAG framework above is the typical case; **ASGE 2016
 
 ## See Also
 
-[[variceal-upper-gi-bleeding]], [[acute-lower-gi-bleeding]], [[colonoscopy]], [[upper-endoscopy]], [[polypectomy]], [[endoscopic-ultrasound]], [[upper-gi-bleeding]], [[cirrhosis-hemostasis]], [[preprocedure-testing]], [[ercp]], [[endoscopic-mucosal-resection]], [[endoscopic-submucosal-dissection]], [[poem]], [[radiofrequency-ablation]], [[capsule-endoscopy]], [[argon-plasma-coagulation]], [[enteral-access]]
+[[variceal-upper-gi-bleeding]], [[acute-lower-gi-bleeding]], [[colonoscopy]], [[upper-endoscopy]], [[polypectomy]], [[endoscopic-ultrasound]], [[upper-gi-bleeding]], [[cirrhosis-hemostasis]], [[preprocedure-testing]], [[ercp]], [[endoscopic-mucosal-resection]], [[endoscopic-submucosal-dissection]], [[poem]], [[radiofrequency-ablation]], [[capsule-endoscopy]], [[argon-plasma-coagulation]], [[enteral-access]], [[endoscopic-hemostasis]]
 
 ---
 

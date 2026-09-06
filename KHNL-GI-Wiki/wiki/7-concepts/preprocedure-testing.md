@@ -3,7 +3,7 @@ title: "Preprocedure Laboratory Testing Before Endoscopy"
 category: concept
 tags: [preprocedure, laboratory-testing, coagulation, pregnancy-testing, sedation, periendoscopic]
 created: 2026-07-01
-updated: 2026-09-05
+updated: 2026-09-06
 sources: [asge-2014-lab-testing-endoscopy]
 ---
 
@@ -39,7 +39,7 @@ GRADE evidence quality: ⊕⊕⊕⊕ high · ⊕⊕⊕⊖ moderate · ⊕⊕⊖�
 | 1 | **Recommend** pursuing preprocedure testing selectively, based on history, exam, and patient + procedural risk factors | ⊕⊕⊕⊕ |
 | 2 | **Recommend against** routine coagulation studies, chest radiography, ECG, blood typing/screening, hemoglobin/hematocrit, urinalysis, and chemistry testing in healthy patients | ⊕⊕⊕⊕ |
 | 3 | **Suggest** pregnancy testing before endoscopy/fluoroscopy in childbearing-age patients with an uncertain or suggestive pregnancy history | ⊕⊕⊖⊖ |
-| 4 | **Suggest** coagulation studies in active bleeding, known/suspected bleeding disorder, medication risk, prolonged biliary obstruction, history of abnormal bleeding, malnutrition, or acquired coagulopathy | ⊕⊕⊖⊖ |
+| 4 | **Suggest** coagulation studies in active bleeding, known/suspected bleeding disorder, medication risk, prolonged biliary obstruction, history of abnormal bleeding, [[nutrition-in-hospitalized-patients\|malnutrition]], or acquired coagulopathy | ⊕⊕⊖⊖ |
 | 5 | **Suggest** chest radiograph for new respiratory symptoms or decompensated cardiac failure | ⊕⊕⊖⊖ |
 | 6 | **Recommend** blood typing and screening when transfusion is considered likely (active bleeding or anemia) | ⊕⊕⊕⊕ |
 | 7 | **Suggest** hemoglobin/hematocrit with preexisting anemia, ongoing bleeding, or high risk of significant procedural blood loss | ⊕⊕⊕⊖ |
@@ -87,7 +87,7 @@ Prevalence of abnormal results vs. how often care actually changes:
 
 ## See Also
 
-[[endoscopy-sedation]], [[anticoagulation-gi-bleeding]], [[cirrhosis-hemostasis]], [[cirrhosis]], [[antibiotic-prophylaxis-endoscopy]], [[upper-endoscopy]], [[colonoscopy]], [[ercp]], [[upper-gi-bleeding]], [[acute-lower-gi-bleeding]]
+[[endoscopy-sedation]], [[anticoagulation-gi-bleeding]], [[cirrhosis-hemostasis]], [[cirrhosis]], [[antibiotic-prophylaxis-endoscopy]], [[upper-endoscopy]], [[colonoscopy]], [[ercp]], [[upper-gi-bleeding]], [[acute-lower-gi-bleeding]], [[nutrition-in-hospitalized-patients]]
 
 ---
 

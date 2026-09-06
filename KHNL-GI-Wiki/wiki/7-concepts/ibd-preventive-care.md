@@ -3,7 +3,7 @@ title: "IBD Preventive Care"
 category: concept
 tags: [ibd, crohns-disease, ulcerative-colitis, preventive-care, vaccinations, cancer-screening, osteoporosis, depression, anxiety, immune-modifying-therapy]
 created: 2026-05-15
-updated: 2026-09-05
+updated: 2026-09-06
 sources: [acg-2025-ibd-preventive-care, acg-2017-ibd-preventive-care, aga-2025-noncolorectal-cancer-ibd]
 ---
 
@@ -35,7 +35,7 @@ Patients with [[inflammatory-bowel-disease|IBD]] ([[crohns-disease]] and [[ulcer
 
 **Timing:** Administer all due vaccines before starting immune-modifying therapy when possible; do not delay necessary IBD therapy for vaccination. For patients already on therapy, vaccines should not wait — administer at earliest opportunity regardless of cycle timing.
 
-**Immune response:** [[anti-tnf-agents|Anti-TNF therapy]] (especially in combination with [[thiopurines]] or methotrexate) blunts vaccine immunogenicity. Non-TNF biologics ([[vedolizumab]], ustekinumab) appear to have less impact. Newer agents (IL-23 inhibitors, JAK inhibitors, S1P modulators) — data limited in IBD.
+**Immune response:** [[anti-tnf-agents|Anti-TNF therapy]] (especially in combination with [[thiopurines]] or methotrexate) blunts vaccine immunogenicity. Non-TNF biologics ([[vedolizumab]], [[il-23-and-il-12-23-inhibitors|ustekinumab]]) appear to have less impact. Newer agents (IL-23 inhibitors, JAK inhibitors, S1P modulators) — data limited in IBD.
 
 ### Vaccine Checklist by Agent/Age
 
@@ -117,7 +117,7 @@ Patients with IBD and conventional BMD risk factors → DEXA scan at time of IBD
 **Key risk factors in IBD:**
 
 - Corticosteroid use: 30–50% fracture risk with long-term use; doses ≥7.5 mg/day prednisone → 5-fold higher spine/hip fracture risk; even 2.5 mg/day increases spinal fracture risk; risk resolves 3–6 months after stopping
-- IBD-associated malnutrition, vitamin D deficiency, low weight
+- IBD-associated [[nutrition-in-ibd|malnutrition]], vitamin D deficiency, low weight
 - Overall IBD fracture risk: RR 1.38 (vertebral RR 2.26)
 
 Conventional DEXA risk factors apply: age, female sex, low BMI, smoking, family history of hip fracture, alcohol use, prior fracture.
@@ -155,7 +155,7 @@ Conventional DEXA risk factors apply: age, female sex, low BMI, smoking, family 
 
 ## See Also
 
-[[inflammatory-bowel-disease]], [[crohns-disease]], [[ulcerative-colitis]], [[thiopurines]], [[anti-tnf-agents]], [[vedolizumab]], [[ibd-in-malignancy]], [[ibd-endoscopic-scoring]], [[ibd-pain-management]], [[nutrition-in-ibd]], [[anal-cancer-screening]], [[pouchitis]], [[colonoscopy]], [[chronic-hepatitis-b]], [[rotavirus]], [[colorectal-cancer]], [[colonoscopy-surveillance]], [[primary-sclerosing-cholangitis]]
+[[inflammatory-bowel-disease]], [[crohns-disease]], [[ulcerative-colitis]], [[thiopurines]], [[anti-tnf-agents]], [[vedolizumab]], [[ibd-in-malignancy]], [[ibd-endoscopic-scoring]], [[ibd-pain-management]], [[nutrition-in-ibd]], [[anal-cancer-screening]], [[pouchitis]], [[colonoscopy]], [[chronic-hepatitis-b]], [[rotavirus]], [[colorectal-cancer]], [[colonoscopy-surveillance]], [[primary-sclerosing-cholangitis]], [[il-23-and-il-12-23-inhibitors]]
 
 ---
 

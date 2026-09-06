@@ -3,7 +3,7 @@ title: "Bile Acid Diarrhea"
 category: disease-script
 tags: [small-bowel, chronic-diarrhea, bile-acid-malabsorption, secretory-diarrhea, ibs-d, sehcat, bile-acid-sequestrant]
 created: 2026-06-04
-updated: 2026-08-28
+updated: 2026-09-06
 sources: [acg-2020-ibs, acg-2021-anorectal-disorders, aga-2023-epi, aga-2023-ostomies]
 ---
 
@@ -30,7 +30,7 @@ sources: [acg-2020-ibs, acg-2021-anorectal-disorders, aga-2023-epi, aga-2023-ost
 - **Diagnosis is often made by treatment, not by testing:** ACG states testing for BAM in the United States "remains limited and incompletely validated," no study has compared testing against empiric therapy, and an **empiric bile acid sequestrant trial is a reasonable course of action if BAM is suspected** (see [[#Therapeutics]]). [[acg-2020-ibs]]
 - **Settings that should raise the question:** post-ileal-resection, post-cholecystectomy, and idiopathic (see [[#Classification / Typing]]); also consider it in an ostomate with **chronic (late) high ostomy output**, where bile acid diarrhea is one of the listed etiologies alongside infection, stomal stricture/obstruction/fistula, recurrent [[crohns-disease|Crohn's disease]], and [[microscopic-colitis|microscopic colitis]]. [[aga-2023-ostomies]]
   - **High ostomy output (HOO) is defined by volume, not just symptoms:** ostomy output **greater than fluid intake — typically >1.5 L/d** — resulting in dehydration. [[aga-2023-ostomies]]
-  - **Early vs chronic HOO is a 3-week rule:** *early* = HOO within **3 weeks** of stoma formation (evaluate for infection, ileus, medication effects). *Chronic/late* = **persistent HOO >3 weeks after surgery, or new-onset HOO occurring >3 weeks after ostomy creation** — this is the group in which bile acid diarrhea is on the differential. More likely with a jejunostomy, with **short bowel (<200 cm of small intestine remaining)**, or when the small bowel fails to adapt. [[aga-2023-ostomies]]
+  - **Early vs chronic HOO is a 3-week rule:** *early* = HOO within **3 weeks** of stoma formation (evaluate for infection, ileus, medication effects). *Chronic/late* = **persistent HOO >3 weeks after surgery, or new-onset HOO occurring >3 weeks after ostomy creation** — this is the group in which bile acid diarrhea is on the differential. More likely with a jejunostomy, with **[[short-bowel-syndrome|short bowel]] (<200 cm of small intestine remaining)**, or when the small bowel fails to adapt. [[aga-2023-ostomies]]
 
 ### Severity Assessment
 
@@ -90,7 +90,7 @@ All rows from [[acg-2020-ibs]].
 
 ## See Also
 
-[[chronic-diarrhea]], [[irritable-bowel-syndrome]], [[microscopic-colitis]], [[exocrine-pancreatic-insufficiency]], [[small-intestinal-bacterial-overgrowth]], [[celiac-disease]], [[chronic-pancreatitis]], [[crohns-disease]], [[fecal-incontinence]], [[ostomy-management]]
+[[chronic-diarrhea]], [[irritable-bowel-syndrome]], [[microscopic-colitis]], [[exocrine-pancreatic-insufficiency]], [[small-intestinal-bacterial-overgrowth]], [[celiac-disease]], [[chronic-pancreatitis]], [[crohns-disease]], [[fecal-incontinence]], [[ostomy-management]], [[short-bowel-syndrome]]
 
 ---
 

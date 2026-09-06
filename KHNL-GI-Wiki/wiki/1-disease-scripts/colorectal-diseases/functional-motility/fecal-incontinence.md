@@ -172,7 +172,7 @@ Severity is graded from **symptom burden** (type, frequency, and amount of leaka
 ---
 
 ## See Also
-[[defecation-disorders]], [[proctalgia-syndromes]], [[chronic-constipation]], [[chronic-idiopathic-constipation]], [[chronic-diarrhea]], [[hemorrhoids]], [[anal-fissure]], [[rectal-prolapse]], [[radiation-proctopathy]], [[colorectal-cancer]], [[sacral-nerve-stimulation]], [[biofeedback-therapy]], [[anorectal-manometry]], [[loperamide]], [[bile-acid-diarrhea]], [[ostomy-management]], [[inflammatory-bowel-disease]], [[enterotoxigenic-e-coli]]
+[[defecation-disorders]], [[proctalgia-syndromes]], [[chronic-constipation]], [[chronic-idiopathic-constipation]], [[chronic-diarrhea]], [[hemorrhoids]], [[anal-fissure]], [[rectal-prolapse]], [[radiation-proctopathy]], [[colorectal-cancer]], [[sacral-nerve-stimulation]], [[biofeedback-therapy]], [[anorectal-manometry]], [[loperamide]], [[bile-acid-diarrhea]], [[ostomy-management]], [[inflammatory-bowel-disease]], [[crohns-disease]], [[ulcerative-colitis]], [[enterotoxigenic-e-coli]]
 
 ---
 

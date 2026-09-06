@@ -3,7 +3,7 @@ title: "Colonic Volvulus"
 category: disease-script
 tags: [colonic-volvulus, sigmoid-volvulus, cecal-volvulus, large-bowel-obstruction, detorsion, colonoscopy]
 created: 2026-06-22
-updated: 2026-09-05
+updated: 2026-09-06
 sources: [asge-2020-acpo-volvulus]
 ---
 
@@ -72,7 +72,7 @@ Mechanical **twisting (torsion) of a redundant colon segment along its mesenteri
 - **Immediate surgical referral** for three triggers: **peritonitis**, **perforation**, or **recurrent or unsuccessful nonoperative decompression**
 
 ## See Also
-[[acute-colonic-pseudo-obstruction]], [[colonoscopy]], [[chronic-idiopathic-constipation]], [[nausea-and-vomiting]], [[abdominal-bloating-and-distention]], [[colorectal-cancer]]
+[[acute-colonic-pseudo-obstruction]], [[colonoscopy]], [[chronic-idiopathic-constipation]], [[nausea-and-vomiting]], [[abdominal-bloating-and-distention]], [[colorectal-cancer]], [[colon-ischemia]]
 
 ---
 

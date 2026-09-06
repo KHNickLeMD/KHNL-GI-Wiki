@@ -3,7 +3,7 @@ title: "Immune Checkpoint Inhibitor Colitis (ICI Enterocolitis)"
 category: disease-script
 tags: [ici, immunotherapy, irae, colitis, enterocolitis, checkpoint-inhibitor, oncology, infliximab, vedolizumab, budesonide]
 created: 2026-09-04
-updated: 2026-09-05
+updated: 2026-09-06
 sources: [aga-2021-ici-colitis-hepatitis]
 ---
 
@@ -49,7 +49,7 @@ Colitis, with or without accompanying enteritis, is the **single most common GI 
 
 | Variable | Grade 1 | Grade 2 | Grade 3 | Grade 4 | Grade 5 |
 |---|---|---|---|---|---|
-| **Diarrhea** | Increase of <4 stools/d over baseline; mild increase in ostomy output | Increase of 4–6 stools/d over baseline; moderate increase in ostomy output; limiting instrumental ADL | Increase of ≥7 stools/d over baseline; hospitalization indicated; severe increase in ostomy output; limiting self-care ADL | Life-threatening consequences; urgent intervention indicated | Death |
+| **Diarrhea** | Increase of <4 stools/d over baseline; mild increase in [[ostomy-management\|ostomy]] output | Increase of 4–6 stools/d over baseline; moderate increase in ostomy output; limiting instrumental ADL | Increase of ≥7 stools/d over baseline; hospitalization indicated; severe increase in ostomy output; limiting self-care ADL | Life-threatening consequences; urgent intervention indicated | Death |
 | **Enterocolitis** | Asymptomatic; clinical or diagnostic observations only; intervention not indicated | Abdominal pain; mucus or blood in stool | Severe or persistent abdominal pain; fever; ileus; peritoneal signs | Life-threatening consequences; urgent intervention indicated | Death |
 
 *ADL, activities of daily living. CTCAE v5 (NCI 2017), as reproduced in [[aga-2021-ici-colitis-hepatitis]].*
@@ -187,6 +187,8 @@ Both are effective; **no data distinguish them**, so the choice rests on other r
 
 ### Patients with pre-existing IBD (BPA 9)
 
+*Managing the IBD drugs themselves once a malignancy is present: see [[ibd-in-malignancy]].*
+
 From a >100-patient multicenter retrospective analysis (evenly split UC/Crohn's, nearly all quiescent disease, 50% on no IBD-directed therapy, mostly PD-1/PD-L1):
 
 | Outcome | IBD cohort | Multicenter control cohort |
@@ -204,7 +206,7 @@ From a >100-patient multicenter retrospective analysis (evenly split UC/Crohn's,
 
 ## See Also
 
-[[immune-checkpoint-inhibitor-hepatitis]], [[microscopic-colitis]], [[ulcerative-colitis]], [[crohns-disease]], [[inflammatory-bowel-disease]], [[acute-diarrhea]], [[chronic-diarrhea]], [[clostridioides-difficile]], [[celiac-disease]], [[colon-ischemia]], [[anti-tnf-agents]], [[vedolizumab]], [[fmt]], [[colonoscopy]], [[upper-endoscopy]], [[chronic-hepatitis-b]], [[ibd-in-malignancy]], [[exocrine-pancreatic-insufficiency]]
+[[immune-checkpoint-inhibitor-hepatitis]], [[microscopic-colitis]], [[ulcerative-colitis]], [[crohns-disease]], [[inflammatory-bowel-disease]], [[acute-diarrhea]], [[chronic-diarrhea]], [[clostridioides-difficile]], [[celiac-disease]], [[colon-ischemia]], [[anti-tnf-agents]], [[vedolizumab]], [[fmt]], [[colonoscopy]], [[upper-endoscopy]], [[chronic-hepatitis-b]], [[ibd-in-malignancy]], [[exocrine-pancreatic-insufficiency]], [[ostomy-management]]
 
 ---
 

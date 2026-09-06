@@ -3,7 +3,7 @@ title: "Chronic Constipation"
 category: diagnostic-schema
 tags: [constipation, colorectal, functional, dgbi, anorectal-manometry, colonic-transit, defecation-disorder]
 created: 2026-08-27
-updated: 2026-09-01
+updated: 2026-09-06
 sources: [aga-2026-refractory-constipation, aga-acg-2023-constipation, acg-2021-anorectal-disorders, asge-2014-constipation, rome-v-2026-dgbi, acg-2021-crc-screening]
 ---
 
@@ -74,7 +74,7 @@ Most patients hold misconceptions about normal bowel habit, so the normal range 
 | [[defecation-disorders\|Defecatory disorder]] | Outlet symptoms; abnormal ARM/BET/imaging |
 | [[colorectal-cancer\|Colorectal cancer]] / benign colonic stricture | Alarm features (below); [[colonoscopy]] indicated |
 | [[colon-ischemia\|Ischaemic]], post-surgical, or [[inflammatory-bowel-disease\|IBD]]-related stricture | Endoscopically dilatable; identified at colonoscopy [[asge-2014-constipation]] |
-| [[rectal-prolapse\|Rectal prolapse]] / solitary rectal ulcer syndrome | Solitary rectal ulcer at endoscopy suggests underlying prolapse [[asge-2014-constipation]] |
+| [[rectal-prolapse\|Rectal prolapse]] / [[rectal-prolapse#Solitary Rectal Ulcer Syndrome\|solitary rectal ulcer syndrome]] | Solitary rectal ulcer at endoscopy suggests underlying prolapse [[asge-2014-constipation]] |
 | Hirschsprung disease | Suspected cases need [[anorectal-manometry\|ARM]] **plus deep biopsy**, not colonoscopy alone [[asge-2014-constipation]] |
 | Neurogenic bowel dysfunction | Known neurologic disease; transanal irrigation is a recognised adjunct [[aga-2026-refractory-constipation]] |
 

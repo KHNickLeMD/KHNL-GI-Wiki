@@ -3,8 +3,8 @@ title: "Distal Esophageal Spasm"
 category: disease-script
 tags: [des, spasm, esophageal, motility, dysphagia, chest-pain, chicago-classification]
 created: 2026-05-16
-updated: 2026-09-05
-sources: [chicago-v4-2021-esophageal-dysmotility, aga-2025-flip-esophageal, acg-2020-achalasia, aga-2024-poem-advances]
+updated: 2026-09-06
+sources: [chicago-v4-2021-esophageal-dysmotility, aga-2025-flip-esophageal, acg-2020-achalasia, aga-2024-poem-advances, padova-2025-hrm-antireflux]
 ---
 
 *Classified under [[chicago-classification-v4|Chicago Classification v4.0]]. Related: [[hypercontractile-esophagus]], [[ineffective-esophageal-motility]].*
@@ -65,6 +65,7 @@ Distal esophageal spasm (DES) is defined by **Chicago Classification v4.0** crit
 ## Therapeutics
 
 - Treat co-existent [[gerd|GERD]] first — acid exposure can trigger spasm
+- **Before [[antireflux-surgery|antireflux surgery]] (ARS) — the obstructive-symptom split is the decision** ([[padova-2025-hrm-antireflux|Padova consensus]]): DES **with** obstructive symptoms → caution, consider non-surgical options first (**95% consensus**); DES **without** obstructive symptoms **plus objective GERD** → may proceed to ARS (**81% consensus**). Full pre- and post-ARS manometric framework on [[hrm-antireflux-surgery]]
 - [[poem|POEM]] is an option for refractory dysphagia-predominant spastic disorders; the ACG achalasia guideline frames POEM as favored for spastic (Type III) disease due to longer myotomy reach ([[acg-2020-achalasia]])
 - **AGA 2024 CPU caveat:** for **nonachalasia** spastic disorders, evidence for POEM is limited — reserve for **case-by-case** use after less invasive options (medical therapy, botulinum toxin, endoscopic dilation) are exhausted, with symptoms correlated to manometry ([[aga-2024-poem-advances|AGA 2024]] BPA 3)
 
@@ -74,7 +75,7 @@ Distal esophageal spasm (DES) is defined by **Chicago Classification v4.0** crit
 
 ## See Also
 
-[[chicago-classification-v4]], [[high-resolution-manometry]], [[hypercontractile-esophagus]], [[ineffective-esophageal-motility]], [[esophagogastric-junction-outflow-obstruction]], [[achalasia]], [[gerd]], [[flip-panometry]], [[poem]], [[dysphagia]]
+[[chicago-classification-v4]], [[high-resolution-manometry]], [[hypercontractile-esophagus]], [[ineffective-esophageal-motility]], [[esophagogastric-junction-outflow-obstruction]], [[achalasia]], [[gerd]], [[flip-panometry]], [[poem]], [[dysphagia]], [[antireflux-surgery]], [[hrm-antireflux-surgery]]
 
 ---
 
@@ -84,3 +85,4 @@ Distal esophageal spasm (DES) is defined by **Chicago Classification v4.0** crit
 2. [[aga-2025-flip-esophageal|AGA Clinical Practice Update on Incorporating Functional Lumen Imaging Probe Into Esophageal Clinical Practice: Expert Review]]
 3. [[acg-2020-achalasia|ACG 2020: Diagnosis and Management of Achalasia]]
 4. [[aga-2024-poem-advances|AGA Clinical Practice Update on Advances in Per-Oral Endoscopic Myotomy (POEM) and Remaining Questions—What We Have Learned in the Past Decade: Expert Review (2024)]]
+5. [[padova-2025-hrm-antireflux|Padova Consensus: High-Resolution Manometry Before and After Antireflux Surgery]]

@@ -3,7 +3,7 @@ title: "Drug-Induced Liver Injury (Idiosyncratic)"
 category: disease-script
 tags: [dili, drug-induced-liver-injury, hepatotoxicity, hds, ici, immune-checkpoint, hpb, liver]
 created: 2026-05-16
-updated: 2026-09-05
+updated: 2026-09-06
 sources: [acg-2021-dili, acg-2017-liver-chemistries, aasld-2022-dili]
 ---
 
@@ -67,7 +67,7 @@ Corollary: if drug-induced hepatocellular injury causes [[jaundice]], **~1 in 10
 | Condition | Key Distinguishing Features |
 |-----------|---------------------------|
 | Acute hepatitis A | Travel, shellfish exposure; anti-HAV IgM positive |
-| Acute hepatitis B | Anti-HBc IgM, HBsAg positive; risk factors (sexual, IV drug use, healthcare) |
+| Acute [[chronic-hepatitis-b\|hepatitis B]] | Anti-HBc IgM, HBsAg positive; risk factors (sexual, IV drug use, healthcare) |
 | Acute [[hepatitis-c\|hepatitis C]] | Anti-HCV may be negative initially; **HCV RNA required** — negative antibody does not rule out acute HCV |
 | Acute hepatitis E | Recent travel to endemic area; anti-HEV IgM; HEV RNA; underdiagnosed in US (3% suspected DILI tested positive in DILIN) |
 | [[autoimmune-hepatitis\|Autoimmune hepatitis]] | ANA/ASMA positive (but note: 30% of adults have low-titer autoantibodies; >1:80 more significant); IgG elevated; [[liver-biopsy\|liver biopsy]] shows interface hepatitis; biopsy critical if immunosuppression planned |

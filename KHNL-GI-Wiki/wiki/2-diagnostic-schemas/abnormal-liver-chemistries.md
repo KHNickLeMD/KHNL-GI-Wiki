@@ -3,7 +3,7 @@ title: "Abnormal Liver Chemistries"
 category: diagnostic-schema
 tags: [liver-chemistries, liver-tests, alt, ast, alkaline-phosphatase, bilirubin, hepatocellular, cholestatic, r-value, hpb, liver, workup]
 created: 2026-05-19
-updated: 2026-09-01
+updated: 2026-09-06
 sources: [acg-2017-liver-chemistries, acg-2016-liver-disease-pregnancy]
 ---
 
@@ -261,7 +261,7 @@ Use the R-ratio and AST:ALT ratio to classify injury pattern → guides the diff
 
 - **Abdominal ultrasound** — first-line for all patterns; hepatomegaly, steatosis, biliary dilatation, portal hypertension, vascular patency
 - **Doppler ultrasound** — [[budd-chiari-syndrome|Budd-Chiari syndrome]], hepatic vein/[[portal-vein-thrombosis|portal vein thrombosis]]
-- **MRI/MRCP** — preferred for biliary anatomy; [[cholangioscopy]] for sclerosing cholangitis evaluation when ERCP not needed for therapy
+- **MRI/MRCP** — preferred for biliary anatomy, and **MRCP is the preferred test for diagnosing [[primary-sclerosing-cholangitis|sclerosing cholangitis]]** when ERCP is not needed for therapy [[acg-2017-liver-chemistries]]
 - **CT abdomen** — infiltrative disease, malignancy, abscess
 - **[[liver-stiffness-measurement|FibroScan]] (vibration-controlled transient elastography)** — [[noninvasive-liver-disease-assessment|non-invasive fibrosis assessment]] in NAFLD/MASLD; FDA-approved; controlled attenuation parameter (CAP) for steatosis quantification
 
@@ -297,7 +297,7 @@ Biopsy is appropriate when (Strong recommendation, very low evidence) [[acg-2017
 
 ## See Also
 
-[[drug-induced-liver-injury]], [[alcohol-associated-liver-disease]], [[autoimmune-hepatitis]], [[primary-sclerosing-cholangitis]], [[primary-biliary-cholangitis]], [[wilson-disease]], [[hereditary-hemochromatosis]], [[nafld-masld]], [[acute-liver-failure]], [[chronic-hepatitis-b]], [[hepatitis-c]], [[celiac-disease]], [[budd-chiari-syndrome]], [[liver-disease-in-pregnancy]], [[noninvasive-liver-disease-assessment]], [[liver-stiffness-measurement]], [[iron-overload-and-iron-metabolism]], [[jaundice]], [[liver-biopsy]], [[mri-mrcp]], [[ercp]], [[cholangioscopy]], [[cirrhosis]], [[portal-hypertension]], [[portal-vein-thrombosis]], [[hepatic-encephalopathy]], [[hepatocellular-carcinoma]], [[liver-transplantation]], [[choledocholithiasis]], [[biliary-stricture]], [[ascites]], [[variceal-upper-gi-bleeding]], [[nutrition-in-hospitalized-patients]]
+[[drug-induced-liver-injury]], [[alcohol-associated-liver-disease]], [[autoimmune-hepatitis]], [[primary-sclerosing-cholangitis]], [[primary-biliary-cholangitis]], [[wilson-disease]], [[hereditary-hemochromatosis]], [[nafld-masld]], [[acute-liver-failure]], [[chronic-hepatitis-b]], [[hepatitis-c]], [[celiac-disease]], [[budd-chiari-syndrome]], [[liver-disease-in-pregnancy]], [[noninvasive-liver-disease-assessment]], [[liver-stiffness-measurement]], [[iron-overload-and-iron-metabolism]], [[jaundice]], [[liver-biopsy]], [[mri-mrcp]], [[ercp]], [[cirrhosis]], [[portal-hypertension]], [[portal-vein-thrombosis]], [[hepatic-encephalopathy]], [[hepatocellular-carcinoma]], [[liver-transplantation]], [[choledocholithiasis]], [[biliary-stricture]], [[ascites]], [[variceal-upper-gi-bleeding]], [[nutrition-in-hospitalized-patients]]
 
 ---
 

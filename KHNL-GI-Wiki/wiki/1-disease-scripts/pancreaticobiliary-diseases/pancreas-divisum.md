@@ -3,7 +3,7 @@ title: "Pancreas Divisum"
 category: disease-script
 tags: [pancreas-divisum, congenital-anomaly, recurrent-acute-pancreatitis, minor-papilla, ercp, hpb]
 created: 2026-07-29
-updated: 2026-08-27
+updated: 2026-09-06
 sources: [aga-2022-recurrent-pancreatitis-endoscopy]
 ---
 
@@ -27,7 +27,7 @@ sources: [aga-2022-recurrent-pancreatitis-endoscopy]
 - **Most common congenital pancreatic anomaly** — ~6–10% of individuals [[aga-2022-recurrent-pancreatitis-endoscopy]].
 - **Large majority are asymptomatic** — clinical significance in pancreatic disease is controversial. PD by itself is not clearly a cause of pancreatitis; proposed to act with genetic mutations and via impaired dorsal outflow.
 - **Proposed mechanism of disease:** a subset have impaired drainage of secretions through the dorsal-dominant system → increased intraductal pressure → may precipitate [[recurrent-acute-pancreatitis|recurrent acute pancreatitis (RAP)]].
-- Dx by cross-sectional/ductal imaging: **[[mri-mrcp|MRI/MRCP]]** (± secretin) or [[ercp|ERCP]] demonstrating separate dorsal-dominant drainage through the minor papilla. On EUS evaluation of unexplained AP, MRCP better identifies ductal anatomic variants than EUS.
+- Dx by cross-sectional/ductal imaging: **[[mri-mrcp|MRI/MRCP]]** (± secretin) or [[ercp|ERCP]] demonstrating separate dorsal-dominant drainage through the minor papilla. On [[endoscopic-ultrasound|EUS]] evaluation of unexplained [[acute-pancreatitis|AP]], MRCP better identifies ductal anatomic variants than EUS.
 
 ### Classification / Typing
 
@@ -49,7 +49,7 @@ sources: [aga-2022-recurrent-pancreatitis-endoscopy]
 ## Diagnostics
 
 - **MRI/MRCP (± secretin):** preferred noninvasive test to demonstrate the anatomy and dorsal-dominant drainage; secretin-enhanced MRCP improves yield but limited by availability/logistics.
-- **[[endoscopic-ultrasound|EUS]]:** part of unexplained AP/RAP workup; more sensitive than MRI for occult biliary stones but MRCP is superior for delineating ductal variants like PD.
+- **EUS:** part of unexplained AP/RAP workup; more sensitive than MRI for occult biliary stones but MRCP is superior for delineating ductal variants like PD.
 - ERCP is **diagnostic-therapeutic** (minor papilla cannulation) but is not a first-line diagnostic test given procedural risk.
 
 ## Therapeutics
@@ -61,11 +61,13 @@ sources: [aga-2022-recurrent-pancreatitis-endoscopy]
 - **No role for ERCP for abdominal pain alone** in PD (BPA 2).
 - **Evidence:** uncontrolled retrospective series suggest endotherapy reduces/eliminates RAP in ~60–80%; only RCT (n=19) showed minor papilla stenting reduced future AP (10% vs 67%, P<.05), but stenting alone does not durably reshape the dorsal system. Ongoing sham-controlled RCT of minor papilla sphincterotomy is underway.
 - **Adverse events (must weigh before proceeding):**
-  - Post-ERCP [[acute-pancreatitis|pancreatitis]] **10–15%**
+  - Post-ERCP pancreatitis **10–15%**
   - Post-papillotomy (minor papilla) **stenosis up to 19% (1 in 5)** — may cause RAP frequency *higher* than baseline
   - Prolonged stent therapy adds risks: frequent exchanges, migration/occlusion, stent-induced ductal injury
 
 > **Best Practice Advice 2 (AGA 2022):** The role of ERCP for reducing the frequency of AP episodes in patients with PD is controversial, but minor papilla endotherapy may be considered, particularly for those with objective signs of outflow obstruction, such as a dilated dorsal pancreatic duct and/or santorinicele. There is no role for ERCP to treat pain alone in patients with PD.
+
+---
 
 ## See Also
 

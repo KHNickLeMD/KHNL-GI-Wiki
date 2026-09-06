@@ -3,7 +3,7 @@ title: "Rectal Prolapse"
 category: disease-script
 tags: [rectal-prolapse, anorectal, pelvic-floor, rectopexy, solitary-rectal-ulcer-syndrome, defecography]
 created: 2026-06-01
-updated: 2026-09-04
+updated: 2026-09-06
 sources: [acg-2021-anorectal-disorders, aga-2026-hemorrhoids, aga-2026-refractory-constipation, asge-2014-constipation, rome-v-2026-dgbi]
 ---
 
@@ -102,7 +102,7 @@ Added caution — worse outcomes reported in: psychiatric disorders; chronic pai
 
 ## See Also
 
-[[chronic-constipation]], [[defecation-disorders]], [[biofeedback-therapy]], [[anorectal-manometry]], [[chronic-idiopathic-constipation]], [[fecal-incontinence]], [[hemorrhoids]], [[proctalgia-syndromes]], [[colonoscopy]], [[irritable-bowel-syndrome]]
+[[chronic-constipation]], [[defecation-disorders]], [[biofeedback-therapy]], [[anorectal-manometry]], [[chronic-idiopathic-constipation]], [[fecal-incontinence]], [[hemorrhoids]], [[proctalgia-syndromes]], [[colonoscopy]], [[irritable-bowel-syndrome]], [[disorders-of-gut-brain-interaction]], [[obesity]]
 
 ---
 

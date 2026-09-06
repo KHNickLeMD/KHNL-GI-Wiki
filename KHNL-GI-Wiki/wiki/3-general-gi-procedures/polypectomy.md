@@ -3,7 +3,7 @@ title: "Polypectomy (Colorectal)"
 category: general-procedure
 tags: [polypectomy, cold-snare, colonoscopy, colorectal, paris-classification, nice-classification, malignant-polyp, submucosal-invasion, haggitt, kikuchi, tumor-budding, lymphovascular-invasion]
 created: 2026-05-07
-updated: 2026-09-03
+updated: 2026-09-06
 sources: [usmstf-2020-endoscopic-removal, asge-2020-endoscopic-removal, usmstf-2020-malignant-colorectal-polyps, aga-2024-tailored-polypectomy, aga-2025-endoscopic-resection-crc, aga-2026-electrosurgery]
 ---
 
@@ -142,7 +142,7 @@ Single home for LST submucosal-invasion risk — the two USMSTF 2020 documents d
 - Hot snare: preferred for head ≥10mm
 - **Prophylactic mechanical ligation** (detachable loop or clips) for:
   - Head ≥20mm OR stalk ≥5mm
-  - Reduces immediate and delayed post-polypectomy bleeding
+  - Reduces immediate and delayed [[endoscopic-hemostasis|post-polypectomy bleeding]]
 - Retrieve large specimens en bloc (don't divide head for retrieval)
 
 ### Difficult Locations
@@ -349,7 +349,7 @@ After endoscopic resection reveals a malignant polyp, histologic features determ
 
 ## See Also
 
-[[colonoscopy]], [[colonoscopy-surveillance]], [[endoscopic-mucosal-resection]], [[colorectal-esd]], [[endoscopic-full-thickness-resection]], [[electrosurgery]], [[argon-plasma-coagulation]], [[colorectal-cancer]], [[colorectal-cancer-screening]], [[endoscopic-ultrasound]], [[lynch-syndrome]], [[inflammatory-bowel-disease]]
+[[colonoscopy]], [[colonoscopy-surveillance]], [[endoscopic-mucosal-resection]], [[colorectal-esd]], [[endoscopic-full-thickness-resection]], [[electrosurgery]], [[argon-plasma-coagulation]], [[endoscopic-hemostasis]], [[colorectal-cancer]], [[colorectal-cancer-screening]], [[endoscopic-ultrasound]], [[lynch-syndrome]], [[inflammatory-bowel-disease]]
 
 ---
 

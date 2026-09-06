@@ -3,7 +3,7 @@ title: "Vedolizumab"
 category: med
 tags: [vedolizumab, anti-integrin, alpha4beta7, biologic, ibd, crohns, ulcerative-colitis, pouchitis, immune-checkpoint-inhibitor, gut-selective]
 created: 2026-09-04
-updated: 2026-09-05
+updated: 2026-09-06
 sources: [acg-2025-uc, acg-2025-crohns, acg-2019-uc, acg-2018-crohns, aga-2024-uc-pharm, aga-2025-crohns-pharm, aga-2021-crohns-pharm, aga-2024-pouchitis, aga-2021-ici-colitis-hepatitis, aga-2024-ibd-malignancy, acg-2025-ibd-preventive-care, aga-2024-pregnancy-gi-liver]
 ---
 
@@ -150,7 +150,7 @@ A **gut-selective anti-integrin** monoclonal antibody for [[inflammatory-bowel-d
 ### Perianal Fistulizing CD
 
 - **ENTERPRISE** — small phase 4 trial, **32 patients** with moderate-severe CD and ≥1 actively draining fistula: **>64% achieved fistula closure** and **46% had reduction in fistula drainage by week 30** ([[acg-2025-crohns]]).
-- Evidence base is thin relative to anti-TNF: ACG grades vedolizumab **Conditional / Very low** (Rec 27) against infliximab's **Strong / Moderate** (Rec 24). AGA likewise suggests adalimumab, ustekinumab, or vedolizumab over no treatment at **Conditional / low certainty**, reserving Strong/moderate for infliximab ([[aga-2021-crohns-pharm]] Recs 10A–10B); in the AGA network meta-analysis vedolizumab's fistula-closure RR was **0.81 (0.63–1.04)** — not statistically significant.
+- Evidence base is thin relative to anti-TNF: ACG grades vedolizumab **Conditional / Very low** (Rec 27) against infliximab's **Strong / Moderate** (Rec 24). AGA likewise suggests adalimumab, [[il-23-and-il-12-23-inhibitors|ustekinumab]], or vedolizumab over no treatment at **Conditional / low certainty**, reserving Strong/moderate for infliximab ([[aga-2021-crohns-pharm]] Recs 10A–10B); in the AGA network meta-analysis vedolizumab's fistula-closure RR was **0.81 (0.63–1.04)** — not statistically significant.
 - With **mucosal involvement**, seton placement is preferred over fistulotomy, with concomitant initiation of an advanced therapy — vedolizumab, anti-ILs, anti-TNF-α, or JAK inhibitors — **with the best evidence supporting infliximab** ([[acg-2025-crohns]]).
 
 ### Postoperative Prophylaxis
@@ -243,7 +243,7 @@ Both AGA living guidelines rank advanced therapies by efficacy and advise choosi
 
 ## See Also
 
-[[ulcerative-colitis]], [[crohns-disease]], [[inflammatory-bowel-disease]], [[anti-tnf-agents]], [[thiopurines]], [[calcineurin-inhibitors]], [[tacrolimus]], [[pouchitis]], [[immune-checkpoint-inhibitor-colitis]], [[ibd-in-malignancy]], [[ibd-preventive-care]], [[uc-vs-crohns-comparison]], [[toxic-megacolon]], [[ibd-endoscopic-scoring]]
+[[ulcerative-colitis]], [[crohns-disease]], [[inflammatory-bowel-disease]], [[anti-tnf-agents]], [[thiopurines]], [[calcineurin-inhibitors]], [[tacrolimus]], [[pouchitis]], [[immune-checkpoint-inhibitor-colitis]], [[ibd-in-malignancy]], [[ibd-preventive-care]], [[uc-vs-crohns-comparison]], [[toxic-megacolon]], [[ibd-endoscopic-scoring]], [[il-23-and-il-12-23-inhibitors]]
 
 ---
 

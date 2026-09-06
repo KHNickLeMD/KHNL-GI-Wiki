@@ -3,7 +3,7 @@ title: "Acute Pancreatitis"
 category: disease-script
 tags: [pancreatitis, acute-pancreatitis, hpb, gallstone-pancreatitis, necrotizing-pancreatitis, ercp, bisap, fluid-resuscitation, nutrition]
 created: 2026-05-07
-updated: 2026-09-05
+updated: 2026-09-06
 sources: [acg-2024-acute-pancreatitis, asge-2016-pancreatic-fluid-collections, asge-2015-benign-pancreatic-disease, demadaria-2022-waterfall, aga-2024-pregnancy-gi-liver, aga-2022-recurrent-pancreatitis-endoscopy, asge-2023-post-ercp-pancreatitis, aga-2020-cpu-pancreatic-necrosis]
 ---
 
@@ -238,7 +238,7 @@ sources: [acg-2024-acute-pancreatitis, asge-2016-pancreatic-fluid-collections, a
 |---|---|---|
 | **AP complicated by [[acute-cholangitis\|cholangitis]]** | **Early ERCP within the first 24 hours** decreases morbidity and mortality | Key concept 13 (ungraded) |
 | **Acute biliary pancreatitis *without* cholangitis** | *"We suggest **medical therapy over early (within the first 72 hr) ERCP**"* — i.e. **do not** rush to ERCP | **Rec 5 — conditional, low quality** |
-| **No cholangitis and/or jaundice, CBD stone suspected** | Screen with **[[mri-mrcp\|MRCP]] or [[endoscopic-ultrasound\|EUS]] before ERCP**; **diagnostic ERCP should be avoided** | Key concept 14 (ungraded) |
+| **No cholangitis and/or [[jaundice\|jaundice]], CBD stone suspected** | Screen with **[[mri-mrcp\|MRCP]] or [[endoscopic-ultrasound\|EUS]] before ERCP**; **diagnostic ERCP should be avoided** | Key concept 14 (ungraded) |
 
 - **The threshold that triggers urgent ERCP absent cholangitis.** In predicted-severe gallstone AP (APACHE >8, Imrie >3, or CRP >150 mg/dL), early (<24 h) ERCP did **not** reduce complications or mortality, though it reduced readmission for recurrent AP/cholangitis. ACG 2024's conclusion: **urgent ERCP is indicated only for cholangitis, or for progressive cholestasis defined by a *rising* bilirubin >3–5 mg/dL in the setting of severe or moderately severe AP.** A single elevated bilirubin that is falling is not the trigger — the trajectory is.
 - Risk of post-ERCP pancreatitis is **higher in the patient with a normal-caliber CBD and normal bilirubin (OR 3.4)** than in the jaundiced patient with a dilated CBD (OR 0.2) — which is exactly why MRCP/EUS is used first in that group.
@@ -323,7 +323,7 @@ sources: [acg-2024-acute-pancreatitis, asge-2016-pancreatic-fluid-collections, a
 
 ## See Also
 
-[[alcohol-associated-liver-disease]], [[chronic-pancreatitis]], [[recurrent-acute-pancreatitis]], [[pancreas-divisum]], [[hereditary-pancreatitis]], [[pancreatic-cysts]], [[disconnected-pancreatic-duct-syndrome]], [[exocrine-pancreatic-insufficiency]], [[ercp]], [[endoscopic-ultrasound]], [[mri-mrcp]], [[peptic-ulcer-disease]], [[acute-mesenteric-ischemia]], [[choledocholithiasis]], [[acute-cholecystitis]], [[acute-cholangitis]], [[sphincter-of-oddi-dysfunction]], [[ampullary-adenoma]], [[nutrition-in-hospitalized-patients]], [[enteral-access]], [[portal-hypertension]], [[thiopurines]], [[obesity]], [[liver-disease-in-pregnancy]]
+[[alcohol-associated-liver-disease]], [[chronic-pancreatitis]], [[recurrent-acute-pancreatitis]], [[pancreas-divisum]], [[hereditary-pancreatitis]], [[pancreatic-cysts]], [[disconnected-pancreatic-duct-syndrome]], [[exocrine-pancreatic-insufficiency]], [[ercp]], [[endoscopic-ultrasound]], [[mri-mrcp]], [[peptic-ulcer-disease]], [[acute-mesenteric-ischemia]], [[choledocholithiasis]], [[acute-cholecystitis]], [[acute-cholangitis]], [[sphincter-of-oddi-dysfunction]], [[ampullary-adenoma]], [[nutrition-in-hospitalized-patients]], [[enteral-access]], [[portal-hypertension]], [[thiopurines]], [[obesity]], [[liver-disease-in-pregnancy]], [[jaundice]]
 
 ---
 

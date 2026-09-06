@@ -3,7 +3,7 @@ title: "Anal Cancer Screening"
 category: concept
 tags: [anal-cancer, anal-hsil, hpv, screening, hra, dare, anoscopy, hiv, anorectal]
 created: 2026-09-03
-updated: 2026-09-05
+updated: 2026-09-06
 sources: [asccp-2024-anal-cancer-screening]
 ---
 
@@ -55,7 +55,7 @@ Incidence **<10 per 100,000 p-y**. IANS calls for **shared decision-making, not 
 - Cervical or vaginal HSIL
 - Perianal warts
 - **Persistent cervical HPV 16**
-- Other immunosuppression — named examples: rheumatoid arthritis, lupus, **[[crohns-disease|Crohn's disease]]**, **[[ulcerative-colitis|ulcerative colitis]]** — IBD-specific perianal/anal examination guidance lives on [[ibd-preventive-care]]
+- Other immunosuppression — named examples: rheumatoid arthritis, lupus, **[[crohns-disease|Crohn's disease]]**, **[[ulcerative-colitis|ulcerative colitis]]** — [[inflammatory-bowel-disease|IBD]]-specific perianal/anal examination guidance lives on [[ibd-preventive-care]]
 
 ## Screening Tests
 

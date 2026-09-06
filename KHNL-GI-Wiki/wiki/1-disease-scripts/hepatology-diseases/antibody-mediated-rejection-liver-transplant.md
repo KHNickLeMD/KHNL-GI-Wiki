@@ -3,7 +3,7 @@ title: "Antibody-Mediated Rejection — Liver Transplant"
 category: disease-script
 tags: [antibody-mediated-rejection, amr, liver-transplant, rejection, dsa, c4d, immunosuppression]
 created: 2026-05-25
-updated: 2026-09-05
+updated: 2026-09-06
 sources: [aasld-ast-2025-liver-transplant-graft-complications]
 ---
 
@@ -17,6 +17,8 @@ Rejection of a [[liver-transplantation|liver allograft]] mediated by **donor-spe
 - [[#Differential Diagnosis]]
 - [[#Diagnostics]]
 - [[#Therapeutics]]
+- [[#See Also]]
+- [[#Sources]]
 
 ## Assessment
 

@@ -3,13 +3,13 @@ title: "Endoscopic Full-Thickness Resection (EFTR)"
 category: advanced-procedure
 tags: [eftr, subepithelial-lesion, resection, ster, ftrd, gist, neuroendocrine-tumor]
 created: 2026-07-23
-updated: 2026-09-03
+updated: 2026-09-06
 sources: [aga-2024-full-thickness-resection, asge-2017-subepithelial-lesions]
 ---
 
 # Endoscopic Full-Thickness Resection (EFTR)
 
-Resection of a [[subepithelial-lesion|subepithelial lesion]] through the full wall thickness — the endoscopic alternative to surgery when [[endoscopic-mucosal-resection|EMR]] or [[endoscopic-submucosal-dissection|ESD]] cannot excise the lesion completely. Colorectal eFTR for *mucosal* lesions (non-lifting adenomas, early T1 CRC) is covered on [[colorectal-esd]].
+Resection of a [[subepithelial-lesion|subepithelial lesion]] through the full wall thickness — the endoscopic alternative to surgery when [[endoscopic-mucosal-resection|EMR]] or [[endoscopic-submucosal-dissection|ESD]] cannot excise the lesion completely. Colorectal eFTR for *mucosal* lesions (non-lifting adenomas, early T1 [[colorectal-cancer|CRC]]) is covered on [[colorectal-esd]].
 
 ## Contents
 - [[#Overview]]

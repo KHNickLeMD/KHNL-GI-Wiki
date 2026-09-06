@@ -3,7 +3,7 @@ title: "Proton Pump Inhibitors (PPIs)"
 category: med
 tags: [ppi, acid-suppression, gerd, erosive-esophagitis, peptic-ulcer-disease, h-pylori, eoe, omeprazole, esomeprazole]
 created: 2026-07-21
-updated: 2026-09-05
+updated: 2026-09-06
 sources: [acg-2021-gerd, acg-2024-hp-treatment, acg-2025-eoe, acg-2022-barretts, aga-2026-cdiff-adults, aga-2022-ppi-deprescribing]
 ---
 
@@ -90,7 +90,7 @@ Standard-dose acid-suppression potency standardized to omeprazole = 1.00 ("omepr
 ### Peptic Ulcer Disease / Ulcer Bleeding
 *One home per fact — the acid-suppression regimens for this indication live on their entity pages; this section is a pointer, not a copy.*
 - **Ulcer healing and NSAID/aspirin co-prescription:** see [[peptic-ulcer-disease]].
-- **Bleeding ulcer** — high-dose PPI after endoscopic hemostasis (what "high dose" means, continuous vs intermittent regimens, and the twice-daily step-down to 2 weeks after the index endoscopy): see [[peptic-ulcer-disease]]. Pre-endoscopic PPI and the day-4–14 "high-risk" definition: see [[upper-gi-bleeding]].
+- **Bleeding ulcer** — high-dose PPI after [[endoscopic-hemostasis|endoscopic hemostasis]] (what "high dose" means, continuous vs intermittent regimens, and the twice-daily step-down to 2 weeks after the index endoscopy): see [[peptic-ulcer-disease]]. Pre-endoscopic PPI and the day-4–14 "high-risk" definition: see [[upper-gi-bleeding]].
 - P-CAB positioning in PUD (generally not first-line): [[potassium-competitive-acid-blockers]].
 
 ## On-Demand, Step-Down & Deprescribing
@@ -202,7 +202,7 @@ Warn every patient stopping long-term PPI that they may develop **transient uppe
 
 ## See Also
 
-[[potassium-competitive-acid-blockers]], [[vonoprazan]], [[gerd]], [[barretts-esophagus]], [[eosinophilic-esophagitis]], [[peptic-ulcer-disease]], [[upper-gi-bleeding]], [[helicobacter-pylori-infection]], [[bismuth-quadruple-therapy]], [[ambulatory-reflux-monitoring]], [[reflux-testing]], [[endoscopic-eradication-therapy]], [[esophageal-adenocarcinoma]], [[anticoagulation-gi-bleeding]], [[clostridioides-difficile]], [[dyspepsia]], [[laryngopharyngeal-symptoms]], [[gastroenteropancreatic-neuroendocrine-tumors]]
+[[potassium-competitive-acid-blockers]], [[vonoprazan]], [[gerd]], [[barretts-esophagus]], [[eosinophilic-esophagitis]], [[peptic-ulcer-disease]], [[upper-gi-bleeding]], [[helicobacter-pylori-infection]], [[bismuth-quadruple-therapy]], [[ambulatory-reflux-monitoring]], [[reflux-testing]], [[endoscopic-eradication-therapy]], [[esophageal-adenocarcinoma]], [[anticoagulation-gi-bleeding]], [[clostridioides-difficile]], [[dyspepsia]], [[laryngopharyngeal-symptoms]], [[gastroenteropancreatic-neuroendocrine-tumors]], [[endoscopic-hemostasis]]
 
 ---
 

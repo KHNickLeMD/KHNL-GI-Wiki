@@ -3,7 +3,7 @@ title: "Defecation Disorders (Dyssynergic Defecation)"
 category: disease-script
 tags: [defecation-disorder, dyssynergia, outlet-obstruction, biofeedback, anorectal-manometry, colorectal, pelvic-floor]
 created: 2026-05-16
-updated: 2026-09-05
+updated: 2026-09-06
 sources: [acg-2021-anorectal-disorders, aga-acg-2023-constipation, rome-v-2026-dgbi]
 ---
 
@@ -119,7 +119,7 @@ Severity based on symptom burden, laxative dependence, impact on QoL (PAC-QoL, P
 
 - Indicated when: ARM + BET discordant, biofeedback fails, structural abnormality suspected (rectocele, prolapse, enterocele), or [[rectal-prolapse|rectal prolapse]] not seen on physical exam
 - MRI defecography: no radiation; superior for pelvic organ prolapse and levator assessment; more expensive, less available
-- Barium defecography: detects internal intussusception, solitary rectal ulcer, rectocele, anorectal angle
+- Barium defecography: detects internal intussusception, [[rectal-prolapse#Solitary Rectal Ulcer Syndrome|solitary rectal ulcer]], rectocele, anorectal angle
 
 **Colon transit study:**
 

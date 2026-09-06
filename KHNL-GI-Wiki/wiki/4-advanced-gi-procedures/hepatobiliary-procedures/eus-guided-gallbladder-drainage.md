@@ -3,7 +3,7 @@ title: "EUS-Guided Gallbladder Drainage (EUS-GBD)"
 category: advanced-procedure
 tags: [eus-gbd, lams, acute-cholecystitis, gallbladder-drainage, cholecystoscopy, percutaneous-cholecystostomy, transpapillary-drainage, therapeutic-eus]
 created: 2026-07-23
-updated: 2026-09-04
+updated: 2026-09-06
 sources: [aga-2023-eus-gallbladder-drainage, asge-2024-therapeutic-eus-biliary, acg-2025-eus-quality, tg18-2018-cholangitis-flowchart]
 ---
 
@@ -32,7 +32,7 @@ Transmural gallbladder decompression: a stent (now standardly a **lumen-apposing
 
 ## Patient Selection
 
-- Requirements: high surgical risk, **no evidence of free gallbladder perforation**, able to tolerate anesthesia and a therapeutic endoscopic procedure. ([[aga-2023-eus-gallbladder-drainage]])
+- Requirements: high surgical risk, **no evidence of free gallbladder perforation**, able to tolerate [[endoscopy-sedation|anesthesia]] and a therapeutic endoscopic procedure. ([[aga-2023-eus-gallbladder-drainage]])
 - **What counts as "high surgical risk"?** The AGA CPU defines it only qualitatively — **"significant medical comorbidities that would make laparoscopic cholecystectomy excessively risky"**; patients "may be deemed inoperable because of comorbidities." Method selection then turns on **comorbidities, gallbladder position, cystic duct characteristics, an in-dwelling metal biliary stent, presence of ascites, future surgical candidacy, and local endoscopic/radiographic/surgical expertise**.
   - ⚠ **Decision gap — no numeric risk threshold in the corpus.** Neither [[aga-2023-eus-gallbladder-drainage]] nor [[asge-2024-therapeutic-eus-biliary]] gives an ASA class, Charlson score, or other cutoff; ASGE 2024 says only "not surgical candidates at the time of intervention." The AGA CPU defers severity assessment and drainage strategy to two **Tokyo Guidelines companion papers that are not ingested** — Mori 2018 (*TG18: management strategies for gallbladder drainage in acute cholecystitis*, its ref 1) and Hirota 2007 (*Diagnostic criteria and severity assessment of acute cholecystitis: Tokyo Guidelines*, its ref 19). The TG18 paper that **is** in the corpus, [[tg18-2018-cholangitis-flowchart]], grades **cholangitis only** and cites the cholecystitis tables out to those companions — so do not carry the cholangitis grades across and do not reconstruct the cholecystitis grades from memory. Ingesting Mori 2018 / Yokoe 2018 would close this gap and the parallel one on [[acute-cholecystitis]].
 - **Prefer ET-GBD first** when the patient: already needs ERCP for another reason ([[choledocholithiasis]], suspected [[acute-cholangitis|cholangitis]]); is a **potential future cholecystectomy candidate** (ET-GBD preserves normal anatomy for surgery); has **coagulopathy**, **large-volume [[ascites]]**, or comorbidities that would preclude optimal percutaneous drain placement *or* EUS-GBD; or needs drainage only as a **temporizing measure**.
@@ -110,7 +110,7 @@ From [[acg-2025-eus-quality|ACG/ASGE 2025 EUS quality indicators]]:
 
 ## See Also
 
-[[acute-cholecystitis]], [[acute-cholangitis]], [[endoscopic-ultrasound]], [[ercp]], [[choledocholithiasis]], [[gallbladder-cancer]], [[biliary-stricture]], [[ascites]], [[interventional-eus-vascular]]
+[[acute-cholecystitis]], [[acute-cholangitis]], [[endoscopic-ultrasound]], [[ercp]], [[choledocholithiasis]], [[gallbladder-cancer]], [[biliary-stricture]], [[ascites]], [[interventional-eus-vascular]], [[endoscopy-sedation]]
 
 ---
 

@@ -3,7 +3,7 @@ title: "Acute Cholecystitis"
 category: disease-script
 tags: [acute-cholecystitis, gallbladder, cholecystectomy, eus-gbd, percutaneous-cholecystostomy, transpapillary-drainage, lams, high-surgical-risk]
 created: 2026-07-23
-updated: 2026-09-05
+updated: 2026-09-06
 sources: [aga-2023-eus-gallbladder-drainage, asge-2024-therapeutic-eus-biliary, aga-2024-pregnancy-gi-liver, tg18-2018-cholangitis-flowchart]
 ---
 
@@ -93,7 +93,7 @@ Three routes ([[aga-2023-eus-gallbladder-drainage]]):
 | | Percutaneous (PT-GBD) | Transpapillary (ET-GBD) | EUS-guided ([[eus-guided-gallbladder-drainage\|EUS-GBD]]) |
 |---|---|---|---|
 | **How** | US/CT-guided percutaneous drain into gallbladder | [[ercp\|ERCP]]: cystic duct cannulation + transpapillary plastic stent | Lumen-apposing metal stent (LAMS) from duodenum/stomach into gallbladder |
-| **Best for** | Perforation suspected; can't tolerate sedation; conventional default | Needs ERCP anyway (choledocholithiasis, cholangitis); future surgical candidate; large-volume [[ascites]]; coagulopathy | In-dwelling uncovered metal biliary stent or tumor occluding cystic duct; large stone burden (cholecystoscopy); poor candidate for repeat interventions |
+| **Best for** | Perforation suspected; can't tolerate [[endoscopy-sedation\|sedation]]; conventional default | Needs ERCP anyway (choledocholithiasis, cholangitis); future surgical candidate; large-volume [[ascites]]; coagulopathy | In-dwelling uncovered metal biliary stent or tumor occluding cystic duct; large stone burden (cholecystoscopy); poor candidate for repeat interventions |
 | **Advantages** | Widely available | Safer with ascites; treats CBD stones/cholangitis same session; preserves anatomy | Least likely to need reintervention; lowest recurrent cholecystitis |
 | **Disadvantages** | 50%–75% morbidity; drain exchanges/reinterventions; recurrent cholecystitis up to 15.4%; dyscosmesis | Lower technical (84% vs 98%) and lowest clinical success (91% vs 97% vs EUS-GBD); pancreatitis risk; stent exchanges | Fistula closure needed if later cholecystectomy; food occlusion; **contraindicated in gallbladder perforation** |
 
@@ -140,7 +140,7 @@ Three routes ([[aga-2023-eus-gallbladder-drainage]]):
 
 ## See Also
 
-[[eus-guided-gallbladder-drainage]], [[endoscopic-ultrasound]], [[ercp]], [[acute-cholangitis]], [[choledocholithiasis]], [[gallbladder-cancer]], [[biliary-stricture]], [[jaundice]], [[ascites]], [[acute-pancreatitis]], [[liver-disease-in-pregnancy]], [[liver-transplantation]], [[gastric-outlet-obstruction]]
+[[eus-guided-gallbladder-drainage]], [[endoscopic-ultrasound]], [[ercp]], [[acute-cholangitis]], [[choledocholithiasis]], [[gallbladder-cancer]], [[biliary-stricture]], [[jaundice]], [[ascites]], [[acute-pancreatitis]], [[liver-disease-in-pregnancy]], [[liver-transplantation]], [[gastric-outlet-obstruction]], [[endoscopy-sedation]]
 
 ---
 

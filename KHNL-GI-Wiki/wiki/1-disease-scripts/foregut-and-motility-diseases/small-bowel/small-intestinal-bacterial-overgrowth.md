@@ -3,7 +3,7 @@ title: "Small Intestinal Bacterial Overgrowth (SIBO)"
 category: disease-script
 tags: [sibo, imo, small-bowel, breath-testing, rifaximin, ibs, motility, microbiome, malabsorption]
 created: 2026-05-19
-updated: 2026-09-03
+updated: 2026-09-06
 sources: [acg-2020-sibo]
 ---
 
@@ -152,7 +152,7 @@ Symptoms of SIBO are non-specific. The differential includes:
 ### Small Bowel Aspirate and Culture (Historical Gold Standard)
 
 - **Diagnostic threshold:** **≥10³ CFU/mL** in duodenal/jejunal aspirate (ACG 2020 Key Concept 6). This **replaced the historical ≥10⁵ CFU/mL** cutoff — a threshold whose version matters, because ≥10⁵ is almost exclusively seen in post-gastrectomy/blind-loop anatomy and would miss most SIBO. Normal small bowel is <10³ CFU/mL.
-- Invasive, expensive, requires endoscopy and aseptic technique; impractical in routine care
+- Invasive, expensive, requires [[upper-endoscopy|endoscopy]] and aseptic technique; impractical in routine care
 - Results reported as precise colony counts (CFU/mL), not just positive/negative
 - Diagnostic agreement between culture and breath testing ~65% — single method may not be definitive
 - Specimen handling: promptly transfer to microbiology laboratory; process for aerobic and anaerobic culture; communicate with lab to report colony counts not just positivity
@@ -251,7 +251,7 @@ Before initiating antibiotic therapy: make an objective effort to diagnose SIBO 
 
 ## See Also
 
-[[chronic-diarrhea]], [[irritable-bowel-syndrome]], [[celiac-disease]], [[chronic-pancreatitis]], [[exocrine-pancreatic-insufficiency]], [[microscopic-colitis]], [[crohns-disease]], [[gastroparesis]], [[disorders-of-gut-brain-interaction]], [[intestinal-methanogen-overgrowth]], [[abdominal-bloating-and-distention]], [[acute-colonic-pseudo-obstruction]], [[rifaximin]], [[probiotics]], [[fmt]], [[proton-pump-inhibitors]], [[iron-deficiency-anemia]], [[small-bowel-motility]]
+[[chronic-diarrhea]], [[irritable-bowel-syndrome]], [[celiac-disease]], [[chronic-pancreatitis]], [[exocrine-pancreatic-insufficiency]], [[microscopic-colitis]], [[crohns-disease]], [[gastroparesis]], [[disorders-of-gut-brain-interaction]], [[intestinal-methanogen-overgrowth]], [[abdominal-bloating-and-distention]], [[acute-colonic-pseudo-obstruction]], [[rifaximin]], [[probiotics]], [[fmt]], [[proton-pump-inhibitors]], [[iron-deficiency-anemia]], [[small-bowel-motility]], [[upper-endoscopy]], [[clostridioides-difficile]], [[inflammatory-bowel-disease]], [[short-bowel-syndrome]]
 
 ---
 

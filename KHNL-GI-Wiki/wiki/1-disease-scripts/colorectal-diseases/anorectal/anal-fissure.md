@@ -58,7 +58,7 @@ sources: [acg-2021-anorectal-disorders, asge-2010-anorectal-disorders, aga-2026-
 | Crohn's perianal disease | Multiple/atypical fissures; skin tags; fistulas |
 | Anal carcinoma | Persistent non-healing fissure-like lesion |
 | Sexually transmitted infections (syphilis, HIV/AIDS), tuberculosis | Lateral fissures |
-| [[rectal-prolapse\|Solitary rectal ulcer syndrome]] | Rectal location; association with straining/prolapse |
+| [[rectal-prolapse#Solitary Rectal Ulcer Syndrome\|Solitary rectal ulcer syndrome]] | Rectal location; association with straining/prolapse |
 
 ---
 

@@ -3,7 +3,7 @@ title: "Colonoscopy"
 category: general-procedure
 tags: [colonoscopy, crc-screening, polypectomy, surveillance, adenoma, serrated-polyp, colorectal, bowel-prep, split-dose, post-resection, crc-surveillance, metachronous]
 created: 2026-05-07
-updated: 2026-09-03
+updated: 2026-09-06
 sources: [usmstf-2020-followup-colonoscopy, usmstf-2021-crc-screening-age, usmstf-2020-endoscopic-removal, usmstf-2025-bowel-prep, acg-2025-bowel-prep, acg-2014-bowel-cleansing, asge-2015-bowel-preparation, usmstf-2015-crc-surveillance, aga-2025-cade-colonoscopy, aga-2023-ai-colon-polyp, asge-2015-scenic-ibd-dysplasia, aga-2024-glp1-endoscopy, aga-2026-therapeutic-endoscopy-ibd]
 ---
 
@@ -88,7 +88,7 @@ See [[artificial-intelligence-endoscopy]] for the full framework.
 - FIT–fecal DNA (Cologuard) q3y
 - CT colonography q5y
 - Flexible sigmoidoscopy q5–10y
-- **Capsule colonoscopy q5y** (weak recommendation, low-quality evidence)
+- **[[capsule-endoscopy|Capsule colonoscopy]] q5y** (weak recommendation, low-quality evidence)
 
 ---
 
@@ -123,7 +123,7 @@ For detailed technique, see [[polypectomy]].
 ## Complications
 
 - **Perforation:** **0.08% (95% CI 0.06–0.1)** from polypectomy overall — rare but the most serious complication; **1.5% (95% CI 1.2–1.7)** for endoscopic resection of **≥20 mm** lesions (meta-analysis, 50 studies, 6779 lesions). Right colon highest risk with EMR/[[colorectal-esd|ESD]]. [[usmstf-2020-endoscopic-removal]]
-- **Post-polypectomy bleeding:** pooled **9.8 per 1000 colonoscopies (95% CI 7.7–12.1)**; immediate or delayed (up to 30d); risk higher with large lesions, right colon, [[anticoagulation-gi-bleeding|antithrombotics]]. **Benchmark: post-polypectomy bleeding rate should be ≤1 per 100 colonoscopies** (ASGE/ACG Task Force on Quality in Endoscopy, as cited by [[usmstf-2020-endoscopic-removal]]).
+- **Post-polypectomy bleeding:** pooled **9.8 per 1000 colonoscopies (95% CI 7.7–12.1)**; immediate or delayed (up to 30d); risk higher with large lesions, right colon, [[anticoagulation-gi-bleeding|antithrombotics]]. **Benchmark: post-polypectomy bleeding rate should be ≤1 per 100 colonoscopies** (ASGE/ACG Task Force on Quality in Endoscopy, as cited by [[usmstf-2020-endoscopic-removal]]). Device selection for treating it is on [[endoscopic-hemostasis]].
 - **Coagulation syndrome (post-polypectomy syndrome):** fever, localized pain without free air — manage conservatively
 - **Inadequate prep:** document; consider same-day or next-day repeat if unable to visualize >5mm polyps
 
@@ -252,7 +252,7 @@ High-risk = any of: surgery without TME; transanal local excision (TAE or TEM); 
 
 ## See Also
 
-[[colorectal-cancer]], [[colorectal-cancer-screening]], [[colonoscopy-surveillance]], [[polypectomy]], [[endoscopic-mucosal-resection]], [[colorectal-esd]], [[lynch-syndrome]], [[familial-adenomatous-polyposis]], [[serrated-polyposis-syndrome]], [[inflammatory-bowel-disease]], [[ulcerative-colitis]], [[crohns-disease]], [[artificial-intelligence-endoscopy]], [[endoscopy-sedation]], [[endoscopic-ultrasound]], [[anticoagulation-gi-bleeding]], [[iron-deficiency-anemia]]
+[[colorectal-cancer]], [[colorectal-cancer-screening]], [[colonoscopy-surveillance]], [[polypectomy]], [[endoscopic-mucosal-resection]], [[colorectal-esd]], [[lynch-syndrome]], [[familial-adenomatous-polyposis]], [[serrated-polyposis-syndrome]], [[inflammatory-bowel-disease]], [[ulcerative-colitis]], [[crohns-disease]], [[artificial-intelligence-endoscopy]], [[endoscopy-sedation]], [[endoscopic-ultrasound]], [[anticoagulation-gi-bleeding]], [[endoscopic-hemostasis]], [[capsule-endoscopy]], [[iron-deficiency-anemia]]
 
 ---
 

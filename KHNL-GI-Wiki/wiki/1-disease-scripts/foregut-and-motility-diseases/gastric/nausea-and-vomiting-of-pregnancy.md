@@ -3,7 +3,7 @@ title: "Nausea and Vomiting of Pregnancy (& Hyperemesis Gravidarum)"
 category: disease-script
 tags: [pregnancy, nausea, vomiting, nvp, hyperemesis-gravidarum, puqe, doxylamine, pyridoxine, ondansetron, antiemetics]
 created: 2026-07-26
-updated: 2026-09-05
+updated: 2026-09-06
 sources: [aga-2024-pregnancy-gi-liver]
 ---
 
@@ -27,7 +27,7 @@ Nausea and vomiting of pregnancy (NVP) is common ([[gerd|heartburn]]/nausea/vomi
 
 - Clinical diagnosis: nausea ± vomiting in early pregnancy without an alternative cause.
 - **Hyperemesis gravidarum (HG)** = intractable NVP with **dehydration, >5% prepregnancy weight loss, and electrolyte imbalances**; affects 0.3%–2%; usually starts before week 22. Resolves in >50% by week 16 and 80% by week 20; persists throughout pregnancy in ~10%. ([[aga-2024-pregnancy-gi-liver]])
-- HG is accompanied by **elevated liver enzymes in 40%–50%** — expected, not itself a reason to look elsewhere, but the pregnancy-specific liver diseases still have to be excluded (see [[liver-disease-in-pregnancy]]).
+- HG is accompanied by **[[abnormal-liver-chemistries|elevated liver enzymes]] in 40%–50%** — expected, not itself a reason to look elsewhere, but the pregnancy-specific liver diseases still have to be excluded (see [[liver-disease-in-pregnancy]]).
 
 ### Severity Assessment
 
@@ -89,7 +89,7 @@ Goals: prevent dehydration, correct electrolytes, support maternal (and fetal) n
 
 ## See Also
 
-[[nausea-and-vomiting]], [[liver-disease-in-pregnancy]], [[intrahepatic-cholestasis-of-pregnancy]], [[acute-fatty-liver-of-pregnancy]], [[gastroparesis]], [[cyclic-vomiting-syndrome]], [[cannabinoid-hyperemesis-syndrome]], [[gerd]], [[proton-pump-inhibitors]], [[nutrition-in-hospitalized-patients]]
+[[nausea-and-vomiting]], [[liver-disease-in-pregnancy]], [[intrahepatic-cholestasis-of-pregnancy]], [[acute-fatty-liver-of-pregnancy]], [[abnormal-liver-chemistries]], [[gastroparesis]], [[cyclic-vomiting-syndrome]], [[cannabinoid-hyperemesis-syndrome]], [[gerd]], [[proton-pump-inhibitors]], [[nutrition-in-hospitalized-patients]]
 
 ---
 

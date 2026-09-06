@@ -3,7 +3,7 @@ title: "Wilson's Disease"
 category: disease-script
 tags: [wilson-disease, copper, atp7b, hepatic, neuropsychiatric, kayser-fleischer, ceruloplasmin, hpb, liver, genetic, pregnancy, chelation, D-penicillamine, trientine, zinc, Leipzig-score, NWI]
 created: 2026-05-19
-updated: 2026-09-05
+updated: 2026-09-06
 sources: [acg-2017-liver-chemistries, acg-2016-liver-disease-pregnancy, aasld-2022-wilson-disease]
 ---
 
@@ -43,7 +43,7 @@ Wilson disease (WD; hepatolenticular degeneration) is an autosomal recessive dis
 | **Hepatic** | Asymptomatic transaminase elevation, fatty liver, chronic hepatitis, AIH-like pattern, [[cirrhosis\|cirrhosis]] (compensated or decompensated), ALF |
 | **Neurological** | Dysarthria (most common, 46–97%), gait abnormality/ataxia (28–75%), dystonia (38–69%), parkinsonism (12–58%), postural tremor (55%), [[dysphagia]], chorea (6–30%), seizures (6–28%) |
 | **Psychiatric** | Depression (MDD most common), bipolar disorder/spectrum, psychosis, personality/behavioral changes, cognitive dysfunction |
-| **Other** | Kayser-Fleischer rings, sunflower cataracts; renal (Fanconi syndrome, nephrolithiasis); skeletal (osteoporosis); cardiomyopathy, dysrhythmias; hypoparathyroidism; infertility/miscarriages; pancreatitis |
+| **Other** | Kayser-Fleischer rings, sunflower cataracts; renal (Fanconi syndrome, nephrolithiasis); skeletal (osteoporosis); cardiomyopathy, dysrhythmias; hypoparathyroidism; infertility/miscarriages; [[acute-pancreatitis\|pancreatitis]] |
 
 **Key clinical clues to suspect WD:**
 
@@ -287,7 +287,7 @@ Effective copper removal often improves neurological symptoms but adjunctive the
 
 ## See Also
 
-[[autoimmune-hepatitis]], [[drug-induced-liver-injury]], [[nafld-masld]], [[acute-liver-failure]], [[hereditary-hemochromatosis]], [[primary-biliary-cholangitis]], [[primary-sclerosing-cholangitis]], [[hepatocellular-carcinoma]], [[hcc-surveillance]], [[liver-transplantation]], [[liver-disease-in-pregnancy]], [[abnormal-liver-chemistries]], [[cholangiocarcinoma]], [[cirrhosis]], [[liver-biopsy]], [[mri-mrcp]], [[hepatic-encephalopathy]], [[portal-hypertension]], [[dysphagia]]
+[[autoimmune-hepatitis]], [[drug-induced-liver-injury]], [[nafld-masld]], [[acute-liver-failure]], [[hereditary-hemochromatosis]], [[primary-biliary-cholangitis]], [[primary-sclerosing-cholangitis]], [[hepatocellular-carcinoma]], [[hcc-surveillance]], [[liver-transplantation]], [[liver-disease-in-pregnancy]], [[abnormal-liver-chemistries]], [[cholangiocarcinoma]], [[cirrhosis]], [[liver-biopsy]], [[mri-mrcp]], [[hepatic-encephalopathy]], [[portal-hypertension]], [[dysphagia]], [[acute-pancreatitis]]
 
 ---
 

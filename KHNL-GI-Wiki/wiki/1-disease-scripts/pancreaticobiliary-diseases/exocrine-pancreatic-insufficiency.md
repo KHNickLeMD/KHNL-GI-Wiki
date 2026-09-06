@@ -3,7 +3,7 @@ title: "Exocrine Pancreatic Insufficiency (EPI)"
 category: disease-script
 tags: [exocrine-pancreatic-insufficiency, epi, pert, fecal-elastase, malabsorption, steatorrhea, pancreas, hpb]
 created: 2026-07-18
-updated: 2026-09-04
+updated: 2026-09-06
 sources: [aga-2023-epi]
 ---
 
@@ -30,7 +30,7 @@ Failure of the pancreas to deliver a threshold level of digestive enzymes to the
 
 - **Suspect (high-risk conditions, BPA 1):** [[chronic-pancreatitis]], relapsing [[acute-pancreatitis]], [[pancreatic-cancer|pancreatic ductal adenocarcinoma]], cystic fibrosis, previous pancreatic surgery.
 - **Consider (moderate-risk conditions, BPA 2):** duodenal diseases — [[celiac-disease|celiac]] and [[crohns-disease|Crohn's disease]]; previous intestinal surgery; longstanding diabetes mellitus; hypersecretory states (e.g., [[peptic-ulcer-disease|Zollinger–Ellison syndrome]]).
-- **Clinical features (BPA 3):** steatorrhea ± diarrhea, weight loss, bloating, excessive flatulence, fat-soluble vitamin (A, D, E, K) deficiencies, protein-calorie malnutrition. In [[chronic-pancreatitis|CP]], symptoms build gradually and may be mild until late stage.
+- **Clinical features (BPA 3):** steatorrhea ± diarrhea, weight loss, [[abdominal-bloating-and-distention|bloating]], excessive flatulence, fat-soluble vitamin (A, D, E, K) deficiencies, protein-calorie malnutrition. In [[chronic-pancreatitis|CP]], symptoms build gradually and may be mild until late stage.
 
 **Pre-test probability — how likely is EPI in each high-risk condition** (this is what decides whether a normal FE-1 is believable):
 
@@ -94,7 +94,7 @@ Conditions that mimic EPI or blunt the response to enzyme therapy (consider when
 |------|------|--------------------|
 | **Fecal elastase-1 (FE-1)** | **Initial test of choice** | Must be on a **semi-solid or solid** stool. **<100 µg/g = good evidence of EPI**; **100–200 µg/g = indeterminate**. Valid **while on PERT** (no cross-reaction with porcine enzymes). False-positive with watery/diarrheal stool (dilution). |
 | Fecal fat (quantitative) | Rarely needed | Must be on a high-fat diet; impractical for routine use. |
-| Cross-sectional imaging (CT/MRI/EUS) | **Cannot diagnose EPI** | Used to diagnose underlying benign/malignant pancreatic disease. |
+| Cross-sectional imaging (CT/[[mri-mrcp\|MRI]]/[[endoscopic-ultrasound\|EUS]]) | **Cannot diagnose EPI** | Used to diagnose underlying benign/malignant pancreatic disease. |
 | Direct pancreatic function tests | Confirmatory (specialized) | Most accurate but invasive; mainly for early-stage CP. Not widely available in the US. |
 | Breath tests | Promising | Not widely available in the US. |
 | Fat-soluble vitamins (A, D, E, K), INR | Nutritional assessment | Establish deficiency and baseline. |
@@ -115,9 +115,11 @@ Conditions that mimic EPI or blunt the response to enzyme therapy (consider when
 - **Nutritional surveillance:** baseline BMI, quality-of-life measure, fat-soluble vitamin levels; **baseline DXA scan, repeat every 1–2 years** (osteoporosis/fracture risk).
 - Untreated EPI → fat malabsorption, malnutrition, sarcopenia, osteoporosis/fracture, reduced quality of life, higher surgical complication and mortality rates.
 
+---
+
 ## See Also
 
-[[chronic-pancreatitis]], [[acute-pancreatitis]], [[recurrent-acute-pancreatitis]], [[pancreatic-cancer]], [[pancreatic-cysts]], [[hereditary-pancreatitis]], [[celiac-disease]], [[crohns-disease]], [[peptic-ulcer-disease]], [[small-intestinal-bacterial-overgrowth]], [[chronic-diarrhea]], [[bile-acid-diarrhea]], [[giardiasis]], [[gastroenteropancreatic-neuroendocrine-tumors]], [[proton-pump-inhibitors]]
+[[chronic-pancreatitis]], [[acute-pancreatitis]], [[endoscopic-ultrasound]], [[mri-mrcp]], [[recurrent-acute-pancreatitis]], [[pancreatic-cancer]], [[pancreatic-cysts]], [[hereditary-pancreatitis]], [[celiac-disease]], [[crohns-disease]], [[peptic-ulcer-disease]], [[small-intestinal-bacterial-overgrowth]], [[chronic-diarrhea]], [[abdominal-bloating-and-distention]], [[bile-acid-diarrhea]], [[giardiasis]], [[gastroenteropancreatic-neuroendocrine-tumors]], [[proton-pump-inhibitors]]
 
 ---
 

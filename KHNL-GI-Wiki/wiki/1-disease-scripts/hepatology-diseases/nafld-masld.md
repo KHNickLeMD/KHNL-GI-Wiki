@@ -3,7 +3,7 @@ title: "NAFLD / MASLD (Metabolic Dysfunction-Associated Steatotic Liver Disease)
 category: disease-script
 tags: [nafld, masld, nash, mash, steatosis, metabolic-syndrome, fibrosis, fibroscan, hpb, liver, obesity, diabetes, semaglutide, resmetirom, glp-1, nit, essence-trial, liver-transplant, post-transplant, recurrence]
 created: 2026-05-19
-updated: 2026-09-05
+updated: 2026-09-06
 sources: [aasld-2023-nafld, aasld-2023-masld-nomenclature, aasld-2024-resmetirom, aasld-2024-nilda-blood, aasld-2025-semaglutide-mash, baveno-viii-2026-portal-hypertension, acg-2017-liver-chemistries, aasld-ast-2025-liver-transplant-graft-complications, aasld-ast-2025-liver-transplant-non-graft-complications, aga-2023-nafld-noninvasive-biomarkers]
 ---
 
@@ -336,7 +336,7 @@ Per [[aasld-ast-2025-liver-transplant-graft-complications]] (recurrent MASLD pos
 
 ## See Also
 
-[[alcohol-associated-liver-disease]], [[hepatocellular-carcinoma]], [[liver-transplantation]], [[semaglutide]], [[glp-1-receptor-agonists]], [[resmetirom]], [[portal-hypertension]], [[acute-on-chronic-liver-failure]], [[noninvasive-liver-disease-assessment]], [[liver-stiffness-measurement]], [[liver-biopsy]], [[cirrhosis]], [[obesity]], [[bariatric-surgery]], [[intragastric-balloon]], [[calcineurin-inhibitors]], [[primary-biliary-cholangitis]], [[drug-induced-liver-injury]], [[hereditary-hemochromatosis]], [[wilson-disease]], [[autoimmune-hepatitis]], [[celiac-disease]], [[hepatitis-c]], [[abnormal-liver-chemistries]]
+[[alcohol-associated-liver-disease]], [[hepatocellular-carcinoma]], [[liver-transplantation]], [[semaglutide]], [[glp-1-receptor-agonists]], [[resmetirom]], [[portal-hypertension]], [[acute-on-chronic-liver-failure]], [[noninvasive-liver-disease-assessment]], [[liver-stiffness-measurement]], [[liver-biopsy]], [[cirrhosis]], [[obesity]], [[bariatric-surgery]], [[intragastric-balloon]], [[calcineurin-inhibitors]], [[primary-biliary-cholangitis]], [[drug-induced-liver-injury]], [[hereditary-hemochromatosis]], [[wilson-disease]], [[autoimmune-hepatitis]], [[celiac-disease]], [[hepatitis-c]], [[abnormal-liver-chemistries]], [[hepatic-venous-pressure-gradient]], [[acute-cholecystitis]], [[hcc-surveillance]]
 
 ---
 

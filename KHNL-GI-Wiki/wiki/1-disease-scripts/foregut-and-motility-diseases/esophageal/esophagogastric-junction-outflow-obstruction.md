@@ -3,8 +3,8 @@ title: "Esophagogastric Junction Outflow Obstruction (EGJOO)"
 category: disease-script
 tags: [egjoo, esophageal-motility, dysphagia, hrm, chicago-classification, foregut]
 created: 2026-07-29
-updated: 2026-09-01
-sources: [aga-2024-poem-advances, chicago-v4-2021-esophageal-dysmotility]
+updated: 2026-09-06
+sources: [aga-2024-poem-advances, chicago-v4-2021-esophageal-dysmotility, padova-2025-hrm-antireflux]
 ---
 A **manometric finding, not a diagnosis** — impaired EGJ relaxation with preserved (or only partially disordered) peristalsis, distinguishing it from [[achalasia]]. In isolation it should **not** justify any permanent intervention; it has many mimics and requires correlation with symptoms and confirmatory testing.
 
@@ -74,10 +74,11 @@ EGJOO is associated with a multitude of alternative causes that must be excluded
 - **First, exhaust less invasive options** — many cases are self-limited, artifactual, or explained by a mimic.
 - **Medical therapy, botulinum toxin injection, endoscopic dilation** — try before any myotomy.
 - **[[poem|POEM]]:** evidence limited; consider **only case-by-case in very selected patients** after less invasive approaches are exhausted and symptomatic obstruction is confirmed. Long-term success for POEM in EGJOO ~**80–85%** (lower than for classic [[achalasia]] subtypes); studies limited by disease rarity ([[aga-2024-poem-advances|AGA 2024]] BPA 3).
+- **An EGJOO found before [[antireflux-surgery|antireflux surgery]] must be addressed first** — e.g. [[pneumatic-dilation|pneumatic dilation]] or POEM evaluation — rather than wrapping over it (**86% consensus**, [[padova-2025-hrm-antireflux|Padova consensus]]); the full pre-ARS motor-disorder framework is on [[hrm-antireflux-surgery]].
 
 ## See Also
 
-[[achalasia]], [[dysphagia]], [[high-resolution-manometry]], [[chicago-classification-v4]], [[flip-panometry]], [[poem]], [[distal-esophageal-spasm]], [[hypercontractile-esophagus]], [[gerd]], [[upper-endoscopy]], [[subepithelial-lesion]], [[obesity]], [[ambulatory-reflux-monitoring]], [[ineffective-esophageal-motility]], [[hiatal-hernia]]
+[[achalasia]], [[dysphagia]], [[high-resolution-manometry]], [[chicago-classification-v4]], [[flip-panometry]], [[poem]], [[distal-esophageal-spasm]], [[hypercontractile-esophagus]], [[gerd]], [[upper-endoscopy]], [[subepithelial-lesion]], [[obesity]], [[ambulatory-reflux-monitoring]], [[ineffective-esophageal-motility]], [[hiatal-hernia]], [[antireflux-surgery]], [[hrm-antireflux-surgery]], [[pneumatic-dilation]]
 
 ---
 
@@ -85,3 +86,4 @@ EGJOO is associated with a multitude of alternative causes that must be excluded
 
 1. [[aga-2024-poem-advances|AGA Clinical Practice Update on Advances in Per-Oral Endoscopic Myotomy (POEM) and Remaining Questions—What We Have Learned in the Past Decade: Expert Review (2024)]]
 2. [[chicago-v4-2021-esophageal-dysmotility|Chicago Classification v4.0: Esophageal Motility Disorders]]
+3. [[padova-2025-hrm-antireflux|Padova Consensus: High-Resolution Manometry Before and After Antireflux Surgery]]

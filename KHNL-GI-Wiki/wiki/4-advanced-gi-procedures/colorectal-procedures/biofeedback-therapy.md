@@ -3,8 +3,8 @@ title: "Biofeedback Therapy"
 category: advanced-procedure
 tags: [biofeedback, pelvic-floor, dyssynergic-defecation, defecation-disorders, fecal-incontinence, levator-ani, constipation, anorectal]
 created: 2026-06-01
-updated: 2026-09-04
-sources: [acg-2021-anorectal-disorders, aga-2026-refractory-constipation]
+updated: 2026-09-06
+sources: [acg-2021-anorectal-disorders, aga-2026-refractory-constipation, rome-v-2026-dgbi]
 ---
 
 *Instrument-based pelvic floor retraining — the cornerstone of [[defecation-disorders|dyssynergic defecation]] management and a Strong-recommendation therapy for [[fecal-incontinence|fecal incontinence]] and levator ani syndrome. Delivered as a course of supervised sessions, not a single procedure.*
@@ -56,6 +56,7 @@ Suggested treatment protocol for anorectal biofeedback — ACG 2021 Table 3 ([[a
 ## Patient Selection
 
 - Requires objective anorectal physiology testing first: **ARM + balloon expulsion test (BET)** are required to diagnose a defecation disorder and to identify biofeedback candidates in levator ani syndrome ([[acg-2021-anorectal-disorders]]).
+  - ⚠ **How many abnormal tests it takes is version-dependent.** ACG 2021's both-tests rule above is the stricter standard; **[[rome-v-2026-dgbi|Rome V]] (2026) requires only 1 of 3** (balloon expulsion, manometry, **or** imaging) and has dropped anal EMG. Rome V is the newer publication, so the 1-of-3 bar is what the wiki asserts. Version table: [[defecation-disorders]]; test detail: [[anorectal-manometry]].
 - **What "abnormal ARM" means in levator syndrome** — the single trial behind the Strong recommendation selected patients by **failure to evacuate a 50 mL water-filled balloon** *plus* **manometric inability to relax the pelvic floor during simulated defecation**, in the setting of levator tenderness. Exclude overlapping pelvic conditions (chronic prostatitis in men, chronic pelvic pain syndrome in women) before a conservative trial.
 - Digital rectal examination is recommended in all patients with suspected defecation disorder — **75% sensitivity, 87% specificity** for dyssynergia. It also identifies structural abnormalities ([[anal-fissure|anal fissures]], [[hemorrhoids]], fecal impaction, descending perineum syndrome, anorectal cancer) and grades sphincter function.
 - **Symptoms that suggest a defecation disorder:** excessive straining, sense of anorectal blockage, manual maneuvers to facilitate evacuation, sense of incomplete evacuation.
@@ -98,3 +99,4 @@ See [[chronic-idiopathic-constipation]] for the full refractory pathway.
 
 1. [[acg-2021-anorectal-disorders|ACG 2021 Clinical Guidelines: Management of Benign Anorectal Disorders]]
 2. [[aga-2026-refractory-constipation|AGA Clinical Practice Update on Evaluation and Management of Refractory Constipation: Expert Review]]
+3. [[rome-v-2026-dgbi|Disorders of Gut–Brain Interaction and the Rome V Process]]

@@ -3,7 +3,7 @@ title: "Anti-TNF Agents (TNF-α Antagonists)"
 category: med
 tags: [anti-tnf, infliximab, adalimumab, certolizumab-pegol, golimumab, biologic, ibd, crohns, ulcerative-colitis, immunogenicity, therapeutic-drug-monitoring, biosimilar, immune-checkpoint-inhibitor]
 created: 2026-09-04
-updated: 2026-09-05
+updated: 2026-09-06
 sources: [acg-2025-crohns, acg-2025-uc, acg-2019-uc, aga-2021-crohns-pharm, aga-2024-uc-pharm, aga-2021-ici-colitis-hepatitis]
 ---
 
@@ -103,7 +103,7 @@ From [[aga-2021-ici-colitis-hepatitis]] (Best Practice Advice 6; expert review �
 |---|---|---|
 | Induction **and** maintenance, moderate–severe CD | **Recommend** anti-TNF — IV infliximab, SC adalimumab, SC certolizumab pegol | Strong, moderate ([[acg-2025-crohns]] Rec 12); Strong, moderate ([[aga-2021-crohns-pharm]] Rec 1A — certolizumab evidence was only **low** certainty) |
 | Maintenance after response to IV infliximab induction | **Recommend** SC infliximab as an option | Strong, moderate ([[acg-2025-crohns]] Rec 14) |
-| Biologic-**naïve**, induction | **Recommend** infliximab, adalimumab, or ustekinumab **over certolizumab pegol**; suggest vedolizumab over certolizumab pegol | Strong, moderate / Conditional, low ([[aga-2021-crohns-pharm]] Rec 2A) |
+| Biologic-**naïve**, induction | **Recommend** infliximab, adalimumab, or [[il-23-and-il-12-23-inhibitors\|ustekinumab]] **over certolizumab pegol**; suggest vedolizumab over certolizumab pegol | Strong, moderate / Conditional, low ([[aga-2021-crohns-pharm]] Rec 2A) |
 | Biologic monotherapy vs [[thiopurines\|thiopurine]] monotherapy, induction | **Recommend** biologic monotherapy | Strong, moderate ([[aga-2021-crohns-pharm]] Rec 4) |
 | Newly diagnosed active CD | **Top-down** infliximab + immunomodulator should be considered **standard of care** — PROFILE: **79% vs 15%** steroid-free and surgery-free remission at 1 year vs accelerated step-up; biomarkers did not show clinical utility | [[acg-2025-crohns]]. [[aga-2021-crohns-pharm]] Rec 7 makes the same anti–step-up point (Conditional, low) |
 | Anti-TNF **primary** nonresponse (never responded) | **Recommend** ustekinumab; **suggest** vedolizumab | Strong, moderate / Conditional, low ([[aga-2021-crohns-pharm]] Rec 2B) |
@@ -314,7 +314,7 @@ If not already done before checkpoint-inhibitor therapy: test **hepatitis B (HBs
 
 ## See Also
 
-[[crohns-disease]], [[ulcerative-colitis]], [[inflammatory-bowel-disease]], [[thiopurines]], [[calcineurin-inhibitors]], [[ibd-in-malignancy]], [[ibd-preventive-care]], [[immune-checkpoint-inhibitor-colitis]], [[immune-checkpoint-inhibitor-hepatitis]], [[toxic-megacolon]], [[pouchitis]], [[chronic-hepatitis-b]], [[uc-vs-crohns-comparison]], [[ibd-endoscopic-scoring]]
+[[crohns-disease]], [[ulcerative-colitis]], [[inflammatory-bowel-disease]], [[thiopurines]], [[calcineurin-inhibitors]], [[ibd-in-malignancy]], [[ibd-preventive-care]], [[immune-checkpoint-inhibitor-colitis]], [[immune-checkpoint-inhibitor-hepatitis]], [[toxic-megacolon]], [[pouchitis]], [[chronic-hepatitis-b]], [[uc-vs-crohns-comparison]], [[ibd-endoscopic-scoring]], [[il-23-and-il-12-23-inhibitors]]
 
 ---
 

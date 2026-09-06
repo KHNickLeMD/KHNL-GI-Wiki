@@ -160,9 +160,9 @@ Corticosteroids — **open-capsule budesonide** preferentially — are first-lin
 ## Relevance to Wiki
 
 - **[[celiac-disease]]** — supplies the entire nonresponsive/refractory limb: the RCD definition and 12-month threshold, the nonresponsive DDx, the RCD1-vs-RCD2 immunophenotype table, the biopsy protocol for flow cytometry, imaging rules, nutritional panel, and the therapy ladder with doses.
-- **[[small-bowel-bacterial-overgrowth]] / [[microscopic-colitis]] / [[irritable-bowel-syndrome]] / [[exocrine-pancreatic-insufficiency]]** — named as the systematic exclusions in nonresponsive celiac (BPA 3).
-- **[[capsule-endoscopy]]**, **[[ct-enterography]]** / **[[mri-mrcp|MR enterography]]** — the RCD2 staging imaging pair.
-- **[[budesonide]] / corticosteroid pages** — the open-capsule budesonide regimen and its administration detail.
+- **[[small-intestinal-bacterial-overgrowth|SIBO]] / [[microscopic-colitis]] / [[irritable-bowel-syndrome]] / [[exocrine-pancreatic-insufficiency]]** — named as the systematic exclusions in nonresponsive celiac (BPA 3).
+- **[[capsule-endoscopy]]**, CT enterography / **[[mri-mrcp|MR enterography]]** — the RCD2 staging imaging pair.
+- **Budesonide / corticosteroid pages** — the open-capsule budesonide regimen and its administration detail.
 - Establishes **EATL** and **ulcerative jejunoileitis** as the complications that drive the whole RCD2 workup.
 
 ## Contradictions / Open Questions
@@ -178,7 +178,7 @@ Corticosteroids — **open-capsule budesonide** preferentially — are first-lin
 
 ## See Also
 
-[[celiac-disease]], [[small-intestinal-bacterial-overgrowth]], [[microscopic-colitis]], [[irritable-bowel-syndrome]], [[capsule-endoscopy]], [[malabsorption]]
+[[celiac-disease]], [[small-intestinal-bacterial-overgrowth]], [[microscopic-colitis]], [[irritable-bowel-syndrome]], [[capsule-endoscopy]]
 
 ---
 

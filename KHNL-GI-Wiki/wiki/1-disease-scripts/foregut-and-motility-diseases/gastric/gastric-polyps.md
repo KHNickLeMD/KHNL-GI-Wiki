@@ -3,8 +3,8 @@ title: "Gastric Polyps"
 category: disease-script
 tags: [gastric-polyps, fundic-gland-polyp, hyperplastic-polyp, gastric-adenoma, g-net, gim, atrophic-gastritis, helicobacter-pylori, endoscopy, surveillance]
 created: 2026-06-27
-updated: 2026-08-30
-sources: [aga-2026-gastric-polyps, asge-2015-gastric-premalignant]
+updated: 2026-09-06
+sources: [aga-2026-gastric-polyps, asge-2015-gastric-premalignant, acg-2024-hp-treatment]
 ---
 
 Raised **epithelial lesions of the gastric mucosa** arising from mucosal hyperplasia, adenoma, fundic gland proliferation, or enterochromaffin-like (ECL) cell proliferation. Core principle: evaluate **both the polyp and the surrounding/background mucosa**, since field changes ([[helicobacter-pylori-infection|H. pylori]] gastritis, [[atrophic-gastritis|autoimmune/atrophic gastritis]], [[gastric-intestinal-metaplasia|GIM]]) drive malignant risk and surveillance.
@@ -31,7 +31,7 @@ Raised **epithelial lesions of the gastric mucosa** arising from mucosal hyperpl
 - **Resect at index endoscopy.** All newly detected **solitary** polyps should be resected at the index exam — diagnostic *and* therapeutic in one step (rather than biopsy-then-return).
 - **Histology is the diagnosis** — polyps are biopsied or resected for definitive histopathology; endoscopic appearance alone cannot distinguish dysplastic/early cancerous polyps.
 - **Systematic mucosal sampling** at the index exam whenever a solitary polyp or a suspected non-FGP is seen: **updated Sydney System** or **MAPS II** protocol. Sydney zones — antrum lesser (A1) and greater (A2) curves, incisura (A3), body lesser (B1) and greater (B2) curves; biopsies may be directed by appearance within each zone; **≥2 jars** (antrum, body) plus a **separate jar for any targeted lesion**. The topographic pattern of inflammation/atrophy/GIM distinguishes H. pylori-related from autoimmune gastritis.
-- **H. pylori status** in every case: biopsy-based when sampling is available; otherwise **serology, urea breath test, or stool antigen** ([[test-and-treat|test and treat]]). ⚠ The serology option is narrow and conflicts with the H. pylori guideline: [[helicobacter-pylori-infection|ACG 2024]] recommends **against serology in low-prevalence populations** absent a high pre-test probability, and treats only a **non-serological** positive as an indication to treat. AGA 2026 is the newer source and permits serology **only when biopsy sampling is unavailable** — so prefer UBT or stool antigen whenever either is obtainable.
+- **H. pylori status** in every case: biopsy-based when sampling is available; otherwise **serology, urea breath test, or stool antigen** ([[test-and-treat|test and treat]]). ⚠ The serology option is narrow and conflicts with the H. pylori guideline: [[acg-2024-hp-treatment|ACG 2024]] recommends **against serology in low-prevalence populations** absent a high pre-test probability, and treats only a **non-serological** positive as an indication to treat. AGA 2026 is the newer source and permits serology **only when biopsy sampling is unavailable** — so prefer UBT or stool antigen whenever either is obtainable.
 - **Labs are of limited value:** gastrin adds nothing diagnostically in most polyp patients; pepsinogen I:II ratio is unavailable in most US labs; **no noninvasive biomarker** screens or monitors gastric polyps/dysplasia or separates low- from high-risk patients. Serum gastrin + parietal cell antibodies belong to the autoimmune-gastritis workup (existing autoimmune disease, unexplained [[iron-deficiency-anemia|iron-deficiency anemia]], pernicious anemia, family history).
 - **Miss rate matters:** neoplastic lesions missed at [[upper-endoscopy|upper endoscopy]] and diagnosed as cancer within 3 years — **4.7%–11.3%**; subtle mucosal lesions surrounding GIM predict interval early cancer.
 
@@ -66,6 +66,8 @@ Different polyp types **coexist** in 2%–3% of patients (FGP is the most common
 **Epidemiology:** US prevalence ~**6.35%** of patients biopsied at endoscopy (77% FGP, 17% GHP, 0.69% GA, 0.1% inflammatory fibroid) and **7.72% FGP / 1.79% GHP / 0.09% GA / 0.06% type-1 G-NET** in a later series; 70%–94% of Western gastric polyps are FGPs or GHPs. Subtypes have shifted toward **sporadic FGPs** as H. pylori prevalence falls and PPI use rises (Beijing 2004→2013: GHP 65%→15%, FGP 19%→77%). GA/GHP/G-NET prevalence rises with age; **FGP prevalence falls after age 60**. FGP risk is **inversely** associated with gastric atrophy, H. pylori, and GIM, and positively with [[gerd|GERD]] and PPI use.
 
 ## Differential Diagnosis
+
+*Workup: see [[dyspepsia]].*
 
 *Workup of a gastric bump that arises **beneath** the mucosa (normal overlying mucosa, no epithelial polyp) belongs to [[subepithelial-lesion]]; this page covers raised **epithelial/mucosal** polyps.*
 
@@ -163,7 +165,7 @@ Keyed to **polyp histology + size + dysplasia + background mucosa**. If multiple
 
 ## See Also
 
-[[gastric-intestinal-metaplasia]], [[atrophic-gastritis]], [[gastric-premalignant-conditions]], [[gastric-adenocarcinoma]], [[gastric-cancer-screening]], [[helicobacter-pylori-infection]], [[familial-adenomatous-polyposis]], [[upper-endoscopy]], [[polypectomy]], [[endoscopic-mucosal-resection]], [[endoscopic-submucosal-dissection]], [[gastroenteropancreatic-neuroendocrine-tumors]], [[subepithelial-lesion]], [[test-and-treat]], [[proton-pump-inhibitors]], [[potassium-competitive-acid-blockers]]
+[[gastric-intestinal-metaplasia]], [[atrophic-gastritis]], [[gastric-premalignant-conditions]], [[gastric-adenocarcinoma]], [[gastric-cancer-screening]], [[helicobacter-pylori-infection]], [[familial-adenomatous-polyposis]], [[dyspepsia]], [[upper-endoscopy]], [[polypectomy]], [[endoscopic-mucosal-resection]], [[endoscopic-submucosal-dissection]], [[gastroenteropancreatic-neuroendocrine-tumors]], [[subepithelial-lesion]], [[test-and-treat]], [[proton-pump-inhibitors]], [[potassium-competitive-acid-blockers]]
 
 ---
 
@@ -171,3 +173,4 @@ Keyed to **polyp histology + size + dysplasia + background mucosa**. If multiple
 
 1. [[aga-2026-gastric-polyps|AGA Clinical Practice Update on Management of Gastric Polyps: Expert Review]]
 2. [[asge-2015-gastric-premalignant|ASGE Guideline: The Role of Endoscopy in the Management of Premalignant and Malignant Conditions of the Stomach (2015)]]
+3. [[acg-2024-hp-treatment|ACG Clinical Guideline: Treatment of Helicobacter pylori Infection (2024)]]

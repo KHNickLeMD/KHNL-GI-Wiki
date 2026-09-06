@@ -3,7 +3,7 @@ title: "Endoscopic Submucosal Dissection (Colorectal)"
 category: advanced-procedure
 tags: [esd, hybrid-esd, endoscopic-resection, en-bloc, colorectal, t1-crc, malignant-polyp, submucosal-invasion, eftr]
 created: 2026-08-11
-updated: 2026-09-03
+updated: 2026-09-06
 sources: [usmstf-2020-endoscopic-removal, aga-2025-endoscopic-resection-crc]
 ---
 
@@ -53,7 +53,7 @@ Most colorectal neoplasms are benign and resectable by piecemeal [[endoscopic-mu
 
 ## Early (T1) CRC — Endoscopic Resection (AGA 2025 CPU)
 
-*Source: [[aga-2025-endoscopic-resection-crc]]. T1 CRC = invasion through muscularis mucosae into submucosa, without muscularis propria invasion ("malignant polyp" — recognition and histologic criteria are on [[polypectomy]]). Without SMI the word "cancer" should be avoided (no LNM risk for intramucosal/in-situ adenocarcinoma).*
+*Source: [[aga-2025-endoscopic-resection-crc]]. T1 [[colorectal-cancer|CRC]] = invasion through muscularis mucosae into submucosa, without muscularis propria invasion ("malignant polyp" — recognition and histologic criteria are on [[polypectomy]]). Without SMI the word "cancer" should be avoided (no LNM risk for intramucosal/in-situ adenocarcinoma).*
 
 ### En-Bloc Imperative and Modality Choice
 

@@ -3,7 +3,7 @@ title: "Pouchitis"
 category: disease-script
 tags: [pouchitis, ipaa, j-pouch, ulcerative-colitis, ibd, cuffitis, crohns-like-disease-of-the-pouch, antibiotics, probiotics, biologics]
 created: 2026-06-04
-updated: 2026-09-04
+updated: 2026-09-06
 sources: [aga-2024-pouchitis, aga-2020-probiotics, asge-2015-ibd, aga-2024-fmt, aga-2026-cdiff-ibd, aga-2026-therapeutic-endoscopy-ibd]
 ---
 
@@ -87,9 +87,9 @@ Pragmatic, treatment-anchored definitions (AGA 2024, Table 5):
 - **[[fmt|Fecal microbiota transplantation]] is *not* a pouchitis therapy** — [[aga-2024-fmt|AGA 2024]] suggests **against conventional FMT for pouchitis except within a clinical trial** *(Rec 6, conditional / very low)*. This is separate from treating recurrent or fulminant *[[clostridioides-difficile|C. difficile]]* infection **in** a pouch patient, where fecal microbiota–based therapy is still indicated under that guideline's Recs 1–3.
 
 ### Prevention
-- **Primary prevention — probiotics:** *No recommendation* (knowledge gap).
+- **Primary prevention — [[probiotics|probiotics]]:** *No recommendation* (knowledge gap).
 - **Primary prevention — antibiotics:** *Suggested against* (very low certainty).
-- **Secondary prevention (after antibiotic-responsive recurrence) — [[probiotics]]:** *Suggested.* The **De Simone (8-strain) formulation** is the one used in the prevention trials ([[aga-2020-probiotics]]) — 3 RCTs, meta-analysed: **87% lower risk of relapse over 12 months** (6/45 on probiotic vs 36/41 on control). Do not substitute an arbitrary probiotic.
+- **Secondary prevention (after antibiotic-responsive recurrence) — probiotics:** *Suggested.* The **De Simone (8-strain) formulation** is the one used in the prevention trials ([[aga-2020-probiotics]]) — 3 RCTs, meta-analysed: **87% lower risk of relapse over 12 months** (6/45 on probiotic vs 36/41 on control). Do not substitute an arbitrary probiotic.
 
 ### Treatment by Subtype
 
@@ -120,7 +120,7 @@ Pragmatic, treatment-anchored definitions (AGA 2024, Table 5):
 | Ustekinumab | 2 cohorts, n = 31 | 72% (**4–99**) |
 | Tofacitinib | 2 cohorts, n = 13 | 31% (**2–92**) |
 
-  - Class includes: [[anti-tnf-agents|TNF antagonists]] (infliximab, adalimumab, golimumab, certolizumab pegol), vedolizumab, ustekinumab, risankizumab, ozanimod, tofacitinib, upadacitinib. **Vedolizumab is the only agent with regulatory approval for this indication (EMA).**
+  - Class includes: [[anti-tnf-agents|TNF antagonists]] (infliximab, adalimumab, golimumab, certolizumab pegol), vedolizumab, [[il-23-and-il-12-23-inhibitors|ustekinumab, risankizumab]], ozanimod, tofacitinib, upadacitinib. **Vedolizumab is the only agent with regulatory approval for this indication (EMA).**
   - Therapies used before colectomy may be reconsidered; a subset keeps deriving partial benefit from continued antibiotics alongside advanced therapy.
 - **Corticosteroids** also an option — oral **budesonide** or **beclomethasone**, pooled response ~**77%** (95% CI 58–88; 2 case series, n=30).
   - **Controlled ileal-release budesonide is the preferred formulation.**
@@ -167,7 +167,7 @@ All 13 AGA 2024 statements (9 actionable conditional recommendations + 4 "no rec
 
 ## See Also
 
-[[ulcerative-colitis]], [[crohns-disease]], [[inflammatory-bowel-disease]], [[probiotics]], [[fmt]], [[colonoscopy]], [[primary-sclerosing-cholangitis]], [[clostridioides-difficile]], [[rifaximin]], [[chronic-diarrhea]], [[ibd-endoscopic-scoring]], [[disorders-of-gut-brain-interaction]], [[ostomy-management]], [[fecal-incontinence]]
+[[ulcerative-colitis]], [[crohns-disease]], [[inflammatory-bowel-disease]], [[probiotics]], [[fmt]], [[colonoscopy]], [[primary-sclerosing-cholangitis]], [[clostridioides-difficile]], [[rifaximin]], [[chronic-diarrhea]], [[ibd-endoscopic-scoring]], [[disorders-of-gut-brain-interaction]], [[ostomy-management]], [[fecal-incontinence]], [[il-23-and-il-12-23-inhibitors]]
 
 ---
 

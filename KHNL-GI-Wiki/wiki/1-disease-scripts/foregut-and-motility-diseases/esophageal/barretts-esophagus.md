@@ -3,8 +3,8 @@ title: "Barrett's Esophagus"
 category: disease-script
 tags: [barretts-esophagus, esophageal, dysplasia, eet, rfa, surveillance, foregut]
 created: 2026-05-15
-updated: 2026-09-03
-sources: [acg-2022-barretts, aga-2025-barretts-surveillance, aga-2024-barretts-eet, asge-2018-barretts-eet, asge-2019-barretts-screening-surveillance]
+updated: 2026-09-06
+sources: [acg-2022-barretts, aga-2025-barretts-surveillance, aga-2024-barretts-eet, asge-2018-barretts-eet, asge-2019-barretts-screening-surveillance, asge-2023-esd]
 ---
 
 Barrett's esophagus (BE) is a metaplastic condition in which the normal squamous epithelium of the distal esophagus is replaced by specialized columnar epithelium containing intestinal-type goblet cells (intestinal metaplasia, IM). It is the only known precursor to [[esophageal-adenocarcinoma|esophageal adenocarcinoma]] (EAC), a cancer with rapidly increasing incidence over the past four decades. BE arises in the setting of chronic [[gerd|gastroesophageal reflux disease]]; 5–12% of patients with chronic GERD symptoms harbor BE.
@@ -359,6 +359,7 @@ Esophagectomy has been the default for any submucosal (T1b) invasion because of 
 - ER upstages or downstages histology in **39%** of cases (95% CI 34–45), mostly upstaging ([[asge-2018-barretts-eet|ASGE 2018]]). It **changes management in 30–40%** — that figure is [[acg-2022-barretts|ACG 2022]]; ASGE 2018 explicitly states the management-change outcome "was not consistently reported across published studies." *(Attribution corrected 2026-09-04.)*
 - **Multiband EMR** (preferred in most cases) or cap-assisted EMR — equivalent efficacy and safety
 - **[[endoscopic-submucosal-dissection|ESD]]** for larger lesions (unsuitable for en bloc EMR), post-ablation scarring, or suspected submucosal invasion. [[aga-2024-barretts-eet|AGA 2024]] (Rec 5, conditional): **the vast majority of neoplastic lesions are managed with EMR**; choose ESD specifically for large bulky lesions, lesions highly suspicious of ≥T1b invasion (**depressed, Paris 0-IIc, or 0-IIa+c**), or previously failed EMR
+  - *Guidelines diverge on how to make this call.* [[asge-2023-esd|ASGE 2023]] sets an explicit **size** threshold for early EAC (T1) or nodular Barrett's dysplasia that is well-differentiated and nonulcerated — **ESD over EMR at >20 mm**, either technique at ≤20 mm (conditional, low quality); AGA 2024 uses **morphology and prior failure** instead of a size cutoff. The full size table is on [[esophageal-cancer]]. AGA 2024 is the newer guideline, but both are conditional/low-certainty — a large *flat, nondepressed* lesion is where they part company.
 - ASGE 2018 (Rec 6, **strong against**): do NOT routinely perform complete EMR of the entire BE segment (cEMR) — far more strictures (OR 4.73), bleeding (OR 6.88), and perforation (OR 7.00) than focal EMR + RFA, with equivalent eradication.
 
 **Step 2 — Ablation of residual BE segment:**
@@ -431,3 +432,4 @@ CEIM defined as: 1–2 surveillance endoscopies with no visible BE and no IM on 
 3. [[aga-2024-barretts-eet|AGA Clinical Practice Guideline: Endoscopic Eradication Therapy of Barrett's Esophagus and Related Neoplasia (2024)]]
 4. [[asge-2018-barretts-eet|ASGE Guideline: Endoscopic Eradication Therapy for Patients with Barrett's Esophagus-Associated Dysplasia and Intramucosal Cancer (2018)]]
 5. [[asge-2019-barretts-screening-surveillance|ASGE Guideline on Screening and Surveillance of Barrett's Esophagus (2019)]]
+6. [[asge-2023-esd|ASGE Guideline: ESD for Early Esophageal and Gastric Cancer (2023)]]

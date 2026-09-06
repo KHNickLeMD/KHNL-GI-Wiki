@@ -3,7 +3,7 @@ title: "Peptic Ulcer Disease"
 category: disease-script
 tags: [pud, peptic-ulcer, h-pylori, nsaid, upper-gi-bleeding, gastric-ulcer, duodenal-ulcer]
 created: 2026-05-19
-updated: 2026-09-02
+updated: 2026-09-06
 sources: [acg-2021-ugib, asge-2010-pud, aga-2024-pcab, acg-2024-hp-treatment]
 ---
 
@@ -30,7 +30,7 @@ sources: [acg-2021-ugib, asge-2010-pud, aga-2024-pcab, acg-2024-hp-treatment]
 
 ### Severity Assessment
 
-- Bleeding ulcers are stratified endoscopically by their **bleeding stigmata** (active spurting, active oozing, nonbleeding visible vessel, adherent clot, flat spot, clean base), which drives the decision to apply endoscopic hemostasis — see [[upper-gi-bleeding]] for the stigma-by-stigma therapy recommendations and the ACG-sourced further-bleeding data
+- Bleeding ulcers are stratified endoscopically by their **bleeding stigmata** (active spurting, active oozing, nonbleeding visible vessel, adherent clot, flat spot, clean base), which drives the decision to apply [[endoscopic-hemostasis|endoscopic hemostasis]] — see [[upper-gi-bleeding]] for the stigma-by-stigma therapy recommendations and the ACG-sourced further-bleeding data
   - ⚠ **Decision gap — flagged, not filled.** The **Forrest classification** labels (Ia/Ib/IIa/IIb/IIc/III) are the familiar shorthand for those same stigmata, but [[acg-2021-ugib|ACG 2021]] does **not** use or define Forrest and prints **no** class-specific rebleeding percentages; the Forrest 1974 primary paper is not in `raw/`. Do not infer the class criteria or rebleed rates
 
 ## Differential Diagnosis
@@ -65,7 +65,7 @@ sources: [acg-2021-ugib, asge-2010-pud, aga-2024-pcab, acg-2024-hp-treatment]
 
 ## See Also
 
-[[helicobacter-pylori-infection]], [[upper-gi-bleeding]], [[gastric-adenocarcinoma]], [[gastric-malt-lymphoma]], [[atrophic-gastritis]], [[dyspepsia]], [[gastroparesis]], [[gastric-outlet-obstruction]], [[proton-pump-inhibitors]], [[vonoprazan]], [[potassium-competitive-acid-blockers]], [[bismuth-quadruple-therapy]], [[upper-endoscopy]]
+[[helicobacter-pylori-infection]], [[upper-gi-bleeding]], [[endoscopic-hemostasis]], [[gastric-adenocarcinoma]], [[gastric-malt-lymphoma]], [[atrophic-gastritis]], [[dyspepsia]], [[gastroparesis]], [[gastric-outlet-obstruction]], [[proton-pump-inhibitors]], [[vonoprazan]], [[potassium-competitive-acid-blockers]], [[bismuth-quadruple-therapy]], [[upper-endoscopy]]
 
 ---
 

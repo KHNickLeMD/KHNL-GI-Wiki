@@ -6,6 +6,67 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-09-06] lint | Four-batch parallel sweep — ASGE 2023's EAC ESD size threshold had been deleted from its source page; 2 AGA CPUs ingested; IL-23 class page created
+
+**The finding that mattered — a size threshold lost in summarization.**
+
+- [[asge-2023-esd]]'s *Key Recommendations* had flattened Table 2 into four bullets. The EAC row lost its threshold entirely — it read *"ESD over EMR for early-stage lesions (especially larger/nodular); smaller flat lesions may use either,"* with **no mention of the >20 mm cutoff that is the decision**. The GAC **20–30 mm** band (where ESD *is* preferred) was gone, and two rows where the guideline explicitly says *"we do not make a recommendation"* had been rewritten as *"either ESD or EMR"* — a recommendation the ASGE declined to make.
+- Verified against Table 2 of the raw PDF and rebuilt as a 9-row table with an inline correction notice. The source is itself internally inconsistent: its **abstract** says "either ESD or EMR" for ESCC ≤15 mm while **Table 2** says no recommendation. Both recorded, table flagged as the formal set.
+- This is the threshold that separates ASGE 2023 from [[aga-2024-barretts-eet]] (which selects by morphology and prior failure, not size) — the divergence is now surfaced on [[barretts-esophagus]] too.
+
+**Sources ingested (2 — the per-pass cap; queue items #1 and #2):**
+
+- [[aga-2021-bleeding-gastric-varices]] — all **12 BPA verbatim**. Location-based classification (cardiofundal / lesser curve / distal) proposed over Sarin, plus size and high-risk stigmata; Saad-Caldwell vascular classification. Pathway is hemostasis → **portal-venous-phase CT/MR** → multidisciplinary decision. **Cardiofundal → cyanoacrylate is the only definitive endoscopic therapy** (butyl over octyl, no lipiodol, embolization 0.7%); **lesser curve → band ligation is often definitive**. **GRS present → BRTO**; **coronary-vein inflow or comorbid pHTN → TIPS, always with embolization**. Full Table 2 initial-management algorithm. **No primary prophylaxis** (BPA 1).
+- [[aga-2021-gi-perforations-endoscopic-management]] — all **16 BPA verbatim**. Closure device chosen by **defect size**, organ by organ, captured as a size × organ table; the two absolute surgical indications (unstable, or delayed with peritoneal signs); ERCP **type 1 vs type 2** perforations with sphincterotomy-technique prevention rules; ESD/EMR/POEM/colonoscopy perforation rates and risk factors.
+
+**Pages created (1 — coverage-gap queue item #3):**
+
+- [[il-23-and-il-12-23-inhibitors]] — ustekinumab (anti-p40) vs risankizumab / mirikizumab / guselkumab (anti-p19). **Dosing differs by indication, not just by drug** (risankizumab 1200 mg IV in UC vs 600 mg IV in CD; mirikizumab IV in UC, SC in CD; guselkumab has two separate CD regimens) — recorded as the predictable substitution error. The one evidence-based intra-class split is **risankizumab over ustekinumab after anti-TNF exposure in CD** (SEQUENCE). Surfaced that AGA 2024 tiers mirikizumab below ustekinumab in UC while ACG 2025 grades them equally.
+
+**Source-fidelity corrections beyond the ASGE one:**
+
+- [[liver-transplantation]] — four *Recurrent Disease Management* blocks (PSC, AIH, ALD, MASLD) cited **entity pages instead of the source** and carried **wrong recommendation numbers** that collided with the correctly-cited HBV/HCV/PBC blocks on the same page. Re-cited to [[aasld-2012-liver-transplant-long-term]] with the actual numbers (Rec 85; 86; 87–90; 91–92).
+- [[abnormal-liver-chemistries]] — over-linking had produced a factual error: "MRCP preferred for PSC diagnosis" had become "cholangioscopy for sclerosing cholangitis evaluation." Restored.
+- [[gastric-polyps]] — `[[helicobacter-pylori-infection|ACG 2024]]` pointed at the disease page while the alias named the guideline; retargeted to [[acg-2024-hp-treatment]], which was also missing from the source list despite its claim being asserted in the body.
+- [[colorectal-cancer]] — `## Sources` #9 cited [[usmstf-2014-lynch-syndrome]] under a title it does not have; corrected.
+- [[subepithelial-lesion]] — reproduced the ASGE 2017 GIST size × mitotic-rate table that [[gastrointestinal-stromal-tumor]] already carries in its **newer NCCN 2026 form** and records as superseded; replaced with a pointer (one home per fact).
+- [[biofeedback-therapy]] — asserted ACG 2021's "ARM *and* BET required" with no Rome V caveat, contradicting [[anorectal-manometry]] and [[defecation-disorders]], which both assert Rome V's 1-of-3 rule. Version caveat added.
+- [[distal-esophageal-spasm]], [[esophagogastric-junction-outflow-obstruction]] — the pre-antireflux-surgery decision from [[padova-2025-hrm-antireflux]] was on sibling pages but missing here.
+- Cited-but-undeclared sources added to frontmatter and `## Sources`: [[upper-gi-bleeding]] (cites [[aga-2020-nvugib-endoscopic-therapies]] 5×, including the whole AIMS65 table), [[celiac-disease]] ([[aga-2022-refractory-celiac]] backs its entire NRCD/RCD half), [[hepatic-encephalopathy]] ([[baveno-vii-2022-portal-hypertension]]).
+
+**Hygiene fixes:**
+
+- **11 broken wiki links** repaired or de-linked (`masld`→`nafld-masld`; `polypectomy-emr`→`polypectomy` / `endoscopic-mucosal-resection`; `epinephrine`, `chromoendoscopy`, `mesalamine`, `budesonide`, `ct-enterography`, `malabsorption`, `small-bowel-bacterial-overgrowth`, `ileal-pouch-anal-anastomosis`, `jak-inhibitors`).
+- **24 stale index source counts** reconciled against page frontmatter.
+- 2 unescaped alias pipes escaped in `index.md`; 1 redundant alias (`[[ascites|ascites]]`) simplified.
+- Index footer counts corrected (**275 sources**, 6 general procedures, 33 meds), and the ingest-backlog line rewritten — it still claimed **≈77** uningested files against a re-audited **46**.
+- **Solitary rectal ulcer syndrome** — five references across the wiki aliased to `[[rectal-prolapse]]` as a whole. The corpus supports only what already lives in that page's SRUS section, so a separate page would duplicate it; all five now anchor to `[[rectal-prolapse#Solitary Rectal Ulcer Syndrome]]`. Removed from *Needs a source* with the reasoning recorded.
+
+**Connectivity:**
+
+- [[il-23-and-il-12-23-inhibitors]] was created mid-pass and was orphaned except from the index; now linked from 10 pages that named its agents in plain text — [[ulcerative-colitis]], [[crohns-disease]], [[pouchitis]], [[chronic-hepatitis-b]], [[sclerosing-mesenteritis]], [[vedolizumab]], [[anti-tnf-agents]], [[ibd-preventive-care]], [[ibd-in-malignancy]], [[intestinal-ultrasound]].
+- [[endoscopic-hemostasis]] (created 2026-09-06) had the same problem — four procedure pages predating it discussed the bleeding it treats without linking it; [[upper-endoscopy]], [[colonoscopy]], [[polypectomy]] and [[ercp]] now link it inline and in See Also.
+- [[postinfectious-ibs]] gained *Shigella* as a trigger, cited to [[idsa-2017-infectious-diarrhea]] Table 5 — kept **separate** from the ACG-sourced pathogen bullet, which does not name it.
+- ~60 further inline first-mention links added across the four batches.
+
+**Method:** four parallel batch subagents (foregut + hepatology / colorectal + pancreaticobiliary + other / schemas + procedures / meds + concepts), which themselves fanned out to sub-workers. Shared files (`index.md`, `log.md`, `overview.md`) and every cross-batch entity edit were serialized centrally.
+
+**Verified clean wiki-wide after the pass:** 555 pages, **0 orphans**, **0 broken links**, 0 dangling frontmatter source slugs, 0 frontmatter defects, 0 stubs, 0 unescaped alias pipes, 0 legacy See-Also headings, 0 `.DS_Store`. 140/141 disease scripts carry the italic DDx schema pointer; the exception, [[post-transplant-lymphoproliferative-disorder]], documents why it has none.
+
+**For user triage — cross-page contradictions found but NOT adjudicated.** Each needs a raw-PDF read that did not fit this pass's budget:
+
+- **VCE false-negative rate — same citation, two answers.** [[capsule-endoscopy]] says **10–36%**; [[device-assisted-enteroscopy]] says **11%** (19% for neoplasms). Both cite [[acg-2015-small-bowel-bleeding]].
+- **Post-POEM abnormal acid exposure.** [[heller-myotomy]] says **~39%** (ACG 2020); [[poem]] says **41–56%** (AGA 2024, newer). Unreconciled.
+- **POEM after failed Heller.** [[heller-myotomy]] and [[pneumatic-dilation]] say **94%–95.7%** (case series); [[poem]] says **62% vs 27%** (RCT). Different designs, unstated on either page.
+- **eFTR size ceiling.** [[colorectal-esd]] says **<30 mm** (USMSTF 2020) while its own text elsewhere says ≤20 mm; [[endoscopic-full-thickness-resection]] says **<15 mm SEL / ≤20 mm mucosal** (AGA 2024, newer).
+- **APC probe distance.** [[argon-plasma-coagulation]] — the declared settings home — says **1–3 mm**; [[endoscopic-hemostasis]] says **2–10 mm** for ulcers. The APC page's settings-by-site table also has no ulcer row despite [[acg-2021-ugib]] being one of its sources.
+- **[[aga-2022-hamartomatous-polyposis]] does not satisfy the guideline recommendation-capture rule** — a ~50-line summary, while [[peutz-jeghers-syndrome]], [[juvenile-polyposis-syndrome]] and [[cowden-syndrome]] carry detail that clearly came from the raw PDF, including an NCCN 2020 comparison column with no traceable provenance. Worth a re-ingest.
+- **[[inflammatory-bowel-disease]] sits in `7-concepts/`** as a navigational hub, but its *Inpatient Management* section carries real clinical content from [[aga-2026-inpatient-ibd]]. Either move that section into the two disease scripts or ratify the page as a deliberate cross-cutting framework. Not moved — needs Nick's call.
+
+**Remaining ingest backlog:** **46** AGA Clinical Practice Updates, all in `raw/GI Guidelines/AGA/`, enumerated in `index.md` → *Coverage Gaps* → *Blocked on ingest*. Every other society folder is fully ingested. The **34 gated lecture/chalk-talk transcripts** were not touched and never will be on a scheduled pass — Nick names which to ingest.
+
+---
+
 ## [2026-09-04] lint | Vedolizumab's induction schedule was fabricated on two ACG source pages; orphaned AGA 2020 pancreas-screening CPU integrated; SBS + AIP ingested
 
 **The finding that mattered — an invented dose, propagated.**

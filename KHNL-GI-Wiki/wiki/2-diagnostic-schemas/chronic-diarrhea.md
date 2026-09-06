@@ -3,13 +3,19 @@ title: "Chronic Diarrhea"
 category: diagnostic-schema
 tags: [diarrhea, chronic, malabsorption, secretory, osmotic, inflammatory, steatorrhea, ibs]
 created: 2026-06-04
-updated: 2026-09-03
+updated: 2026-09-06
 sources: [asge-2010-diarrhea, acg-2016-acute-diarrhea]
 ---
 
 ## Definition / Scope
 
-Chronic diarrhea is decreased stool consistency (loose or watery) lasting **> 4 weeks**. This duration threshold distinguishes it from [[acute-diarrhea]] (<14 days) and persistent diarrhea (14–30 days) — *⚠ note the two ingested guidelines don't quite align: [[asge-2010-diarrhea|ASGE 2010]] sets chronic at **>4 weeks (28 days)** while [[acg-2016-acute-diarrhea|ACG 2016]] sets it at **>30 days**, leaving days 28–30 claimed by both labels. The distinction is not clinically actionable — either way the workup below applies — but don't read the boundary as precise.* — and shifts the differential away from infection toward non-infectious causes. Diarrhea is defined by **stool consistency** (Bristol 6–7), not frequency alone; it must be distinguished from **pseudodiarrhea** (frequent small volumes with urgency, as in proctitis or [[irritable-bowel-syndrome|IBS]]) and **[[fecal-incontinence|fecal incontinence]]**.
+- **Definition:** decreased stool consistency (loose or watery) lasting **>4 weeks**. Defined by **stool consistency** (Bristol 6–7), not frequency alone.
+- **Why the duration matters:** it separates chronic diarrhea from [[acute-diarrhea]] (<14 days) and persistent diarrhea (14–30 days), and shifts the differential away from infection toward non-infectious causes.
+- **Must be distinguished from:**
+  - **Pseudodiarrhea** — frequent small volumes with urgency, as in proctitis or [[irritable-bowel-syndrome|IBS]]
+  - **[[fecal-incontinence|Fecal incontinence]]**
+
+> ⚠ **The two ingested guidelines do not quite align on the boundary.** [[asge-2010-diarrhea|ASGE 2010]] sets chronic at **>4 weeks (28 days)**; [[acg-2016-acute-diarrhea|ACG 2016]] sets it at **>30 days** — leaving days 28–30 claimed by both labels. The distinction is not clinically actionable (either way the workup below applies), but do not read the boundary as precise.
 
 The most useful framework is to classify by **stool character** into watery, inflammatory, and fatty, which maps onto the underlying mechanism and the workup.
 

@@ -54,7 +54,7 @@ By trained operators, IUS is comparable to **MR enterography (MRE) and CT entero
 **Crohn's disease** ([[crohns-disease]]):
 - Response identifiable within **3 months** of biologic initiation.
 - Higher baseline BWT → 42% less likely to reach transmural healing at 1 year.
-- **Sonographic response** = **≥25% BWT reduction**; **transmural healing** = normalization of all IUS parameters (ustekinumab RCT: 46.3% and 24.1% at wk 48). No sonographic response at wk 4 → poor wk-48 endoscopic response (NPV 73%).
+- **Sonographic response** = **≥25% BWT reduction**; **transmural healing** = normalization of all IUS parameters ([[il-23-and-il-12-23-inhibitors|ustekinumab]] RCT: 46.3% and 24.1% at wk 48). No sonographic response at wk 4 → poor wk-48 endoscopic response (NPV 73%).
 - ≥18% BWT reduction at 4–8 wk post–[[anti-tnf-agents|anti-TNF]] → 10× likelier wk-12–32 endoscopic response.
 - **Postoperative recurrence:** neo-TI/adjacent colon **BWT ≥3 mm + FC ≥50 µg/g** → PPV 74%, NPV 71%.
 
@@ -80,7 +80,7 @@ By trained operators, IUS is comparable to **MR enterography (MRE) and CT entero
 
 ## See Also
 
-[[inflammatory-bowel-disease]], [[crohns-disease]], [[ulcerative-colitis]], [[ibd-preventive-care]], [[colonoscopy]], [[capsule-endoscopy]], [[endoscopy-sedation]], [[ibd-endoscopic-scoring]], [[obesity]]
+[[inflammatory-bowel-disease]], [[crohns-disease]], [[ulcerative-colitis]], [[ibd-preventive-care]], [[colonoscopy]], [[capsule-endoscopy]], [[endoscopy-sedation]], [[ibd-endoscopic-scoring]], [[obesity]], [[il-23-and-il-12-23-inhibitors]]
 
 ---
 

@@ -3,7 +3,7 @@ title: "Recurrent Acute Pancreatitis"
 category: diagnostic-schema
 tags: [recurrent-acute-pancreatitis, idiopathic-pancreatitis, eus, mrcp, ercp, pancreas-divisum]
 created: 2026-07-29
-updated: 2026-08-30
+updated: 2026-09-06
 sources: [aga-2022-recurrent-pancreatitis-endoscopy]
 ---
 
@@ -15,7 +15,7 @@ sources: [aga-2022-recurrent-pancreatitis-endoscopy]
 
 ## Differential Diagnosis
 
-- **Occult biliary lithiasis / microlithiasis** — most common etiology uncovered at EUS
+- **[[choledocholithiasis|Occult biliary lithiasis / microlithiasis]]** — most common etiology uncovered at EUS
 - [[pancreas-divisum|Pancreas divisum]] and anomalous pancreaticobiliary union
 - [[sphincter-of-oddi-dysfunction|Pancreaticobiliary sphincter dysfunction / stenosis]]
 - **Occult ampullary or pancreatobiliary malignancy** — up to **5%** after a single unexplained AP, up to **12%** with RAP

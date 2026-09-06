@@ -3,7 +3,7 @@ title: "Ingested Foreign Body and Food Bolus Impaction"
 category: diagnostic-schema
 tags: [foreign-body, food-impaction, esophagus, button-battery, magnets, sharp-pointed-object, body-packing, coins, endoscopy]
 created: 2026-08-28
-updated: 2026-09-03
+updated: 2026-09-06
 sources: [asge-2011-foreign-body-ingestion]
 ---
 
@@ -179,7 +179,7 @@ flowchart TD
 - **Flexible endoscopy is first-line.** Retrospective comparison: **0 perforations in 76** flexible cases vs **2 of 63 (3.2%, P < .002)** with rigid esophagoscopy.
 - **Rigid esophagoscopy** retains a role for proximal objects impacted at the upper esophageal sphincter / hypopharynx — it protects the airway without an overtube.
 - Standard or therapeutic endoscopes preferred; small-caliber transnasal removal has been reported.
-- **Retrieval devices:** rat-tooth and alligator forceps, polypectomy snares, polyp graspers, Dormia baskets, retrieval nets, magnetic probes, friction-fit adaptors, banding caps. **Practice grasping a duplicate object before the procedure** to pick the device and the grasp.
+- **Retrieval devices:** rat-tooth and alligator forceps, [[polypectomy]] snares, polyp graspers, Dormia baskets, retrieval nets, magnetic probes, friction-fit adaptors, banding caps. **Practice grasping a duplicate object before the procedure** to pick the device and the grasp.
   - Smooth, round objects → **retrieval net or basket**; the net was superior in a prospective in vivo study.
   - Disk battery in the esophagus → stone retrieval basket or retrieval net; alternatively a **through-the-scope balloon** passed distal to the battery, inflated, and withdrawn — balloon, battery, and endoscope come out as a unit. **An overtube or endotracheal tube is essential for airway protection** during this maneuver.
   - Long object → grasp with snare or basket, draw into the **>45 cm overtube**, and withdraw object + overtube + endoscope **in one motion** so the grasp is not lost inside the overtube.
@@ -248,7 +248,7 @@ flowchart TD
 
 ## See Also
 
-[[eosinophilic-esophagitis]], [[dysphagia]], [[upper-endoscopy]], [[endoscopy-sedation]], [[device-assisted-enteroscopy]], [[capsule-endoscopy]]
+[[eosinophilic-esophagitis]], [[dysphagia]], [[upper-endoscopy]], [[endoscopy-sedation]], [[device-assisted-enteroscopy]], [[capsule-endoscopy]], [[polypectomy]]
 
 ---
 

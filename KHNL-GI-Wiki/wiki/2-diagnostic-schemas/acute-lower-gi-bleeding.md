@@ -97,7 +97,7 @@ If [[upper-gi-bleeding|UGIB]] is clinically suspected, perform **urgent [[upper-
 - Rectal / stercoral ulcers
 - Dieulafoy lesion (aberrant submucosal vessel — minute mucosal defect, large bleed)
 - Colorectal varices ([[portal-hypertension|portal hypertension]]; see [[variceal-upper-gi-bleeding]] for contrast)
-- Solitary rectal ulcer syndrome
+- [[rectal-prolapse#Solitary Rectal Ulcer Syndrome|Solitary rectal ulcer syndrome]]
 - Endometriosis (cyclical rectal bleeding)
 - Anastomotic ulcers (post-surgical)
 

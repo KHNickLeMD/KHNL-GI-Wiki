@@ -3,7 +3,7 @@ title: "Ulcerative Colitis"
 category: disease-script
 tags: [uc, ulcerative-colitis, ibd, 5-asa, biologics, anti-tnf, vedolizumab, asuc, pancolitis, proctitis]
 created: 2026-05-07
-updated: 2026-09-05
+updated: 2026-09-06
 sources: [acg-2025-uc, aga-2024-uc-pharm, aga-2024-pouchitis, aga-2023-biomarkers-uc, acg-2019-uc, asge-2015-scenic-ibd-dysplasia, asge-2015-ibd, aga-2026-inpatient-ibd, aga-2026-therapeutic-endoscopy-ibd, aga-2026-cdiff-ibd, aga-2024-intestinal-ultrasound, aga-2024-diet-nutrition-ibd, aga-2024-ibd-malignancy, aga-2024-pregnancy-gi-liver, aga-2024-fmt]
 ---
 
@@ -269,7 +269,7 @@ Idiopathic chronic inflammatory disorder of the large intestine. Continuous muco
 
 | Prior advanced therapy | Higher efficacy | Intermediate efficacy | Lower efficacy (avoid) |
 |---|---|---|---|
-| **Naïve** | Infliximab · vedolizumab · ozanimod · etrasimod · upadacitinib* · risankizumab · guselkumab | Golimumab · ustekinumab · tofacitinib* · filgotinib* · mirikizumab | Adalimumab |
+| **Naïve** | Infliximab · vedolizumab · ozanimod · etrasimod · upadacitinib* · [[il-23-and-il-12-23-inhibitors\|risankizumab]] · guselkumab | Golimumab · ustekinumab · tofacitinib* · filgotinib* · mirikizumab | Adalimumab |
 | **≥1 prior advanced therapy (esp. anti-TNF)** | Tofacitinib* · upadacitinib* · ustekinumab | Filgotinib* · mirikizumab · risankizumab · guselkumab | Adalimumab · vedolizumab · ozanimod · etrasimod |
 
 \* JAK inhibitors: the US FDA label restricts use to patients with **prior failure or intolerance to a TNF antagonist**, so despite the "higher efficacy" ranking they are not first-line in the naïve patient. EMA advises caution as a first-line agent if **age ≥65, current/former long-term smoker, prior cardiovascular disease, or prior cancer**.
@@ -369,7 +369,7 @@ Idiopathic chronic inflammatory disorder of the large intestine. Continuous muco
 - **[[nutrition-in-ibd#Background / Maintenance Diet|Mediterranean diet]]** advised for overall health; **low red/processed meat may reduce UC flares** (no diet consistently lowers adult flare rate).
 - Enteral nutrition role in active UC is **limited** (safe, may improve prealbumin in severe flares); EEN/CDED are **CD** therapies, not established for UC.
 - Short-term reduced-fiber/low-FODMAP for symptomatic flares; reintroduce fiber in remission.
-- **Screen all patients for malnutrition** (serum albumin no longer diagnostic); monitor **vitamin D and iron**.
+- **Screen all patients for malnutrition** (serum albumin no longer diagnostic); monitor **vitamin D and [[iron-deficiency-anemia|iron]]**.
 
 ---
 
@@ -449,7 +449,7 @@ Idiopathic chronic inflammatory disorder of the large intestine. Continuous muco
 
 ## See Also
 
-[[crohns-disease]], [[inflammatory-bowel-disease]], [[uc-vs-crohns-comparison]], [[ibd-preventive-care]], [[ibd-endoscopic-scoring]], [[intestinal-ultrasound]], [[clostridioides-difficile]], [[primary-sclerosing-cholangitis]], [[colorectal-cancer]], [[colonoscopy]], [[colon-ischemia]], [[microscopic-colitis]], [[radiation-proctopathy]], [[immune-checkpoint-inhibitor-colitis]], [[pouchitis]], [[chronic-diarrhea]], [[nutrition-in-ibd]], [[ibd-in-malignancy]], [[liver-disease-in-pregnancy]], [[nausea-and-vomiting-of-pregnancy]], [[ostomy-management]], [[calcineurin-inhibitors]], [[endoscopic-mucosal-resection]], [[colorectal-esd]], [[endoscopic-full-thickness-resection]], [[toxic-megacolon]], [[polypectomy]], [[ibd-pain-management]]
+[[crohns-disease]], [[inflammatory-bowel-disease]], [[uc-vs-crohns-comparison]], [[ibd-preventive-care]], [[ibd-endoscopic-scoring]], [[intestinal-ultrasound]], [[clostridioides-difficile]], [[primary-sclerosing-cholangitis]], [[colorectal-cancer]], [[colonoscopy]], [[colon-ischemia]], [[microscopic-colitis]], [[radiation-proctopathy]], [[immune-checkpoint-inhibitor-colitis]], [[pouchitis]], [[chronic-diarrhea]], [[nutrition-in-ibd]], [[ibd-in-malignancy]], [[liver-disease-in-pregnancy]], [[nausea-and-vomiting-of-pregnancy]], [[ostomy-management]], [[calcineurin-inhibitors]], [[endoscopic-mucosal-resection]], [[colorectal-esd]], [[endoscopic-full-thickness-resection]], [[toxic-megacolon]], [[polypectomy]], [[ibd-pain-management]], [[iron-deficiency-anemia]], [[il-23-and-il-12-23-inhibitors]]
 
 ---
 

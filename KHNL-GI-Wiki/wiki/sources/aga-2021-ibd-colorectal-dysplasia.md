@@ -85,7 +85,7 @@ Surveillance intervals move from a fixed number to a **1–5 year risk-stratifie
 - **Stigmata that argue against endoscopic resection:** mucosal depression, irregular surface architecture, radiating folds, or **failure to lift symmetrically with submucosal saline injection**.
 - Resection is supported **especially for lesions <2 cm**, irrespective of morphology. For **large (>2 cm) and/or complex** lesions, long-term outcome data are lacking, but endoscopic resection is still reasonable depending on lesion characteristics, local expertise, and current/past disease activity.
 - **Biopsies of the flat mucosa surrounding a resected lesion are not needed** unless resection completeness is in doubt — they rarely show residual dysplasia.
-- **Technique:** standard polypectomy for simpler lesions; [[polypectomy-emr|EMR]] or [[endoscopic-submucosal-dissection|ESD]] for large, highly irregular lesions.
+- **Technique:** standard polypectomy for simpler lesions; [[endoscopic-mucosal-resection|EMR]] or [[endoscopic-submucosal-dissection|ESD]] for large, highly irregular lesions.
 - ⚠ **Explicitly avoid:** excessive or deep biopsies, attempts to raise a lesion without resecting it, and unsuccessful resection attempts by less experienced endoscopists — all cause submucosal scarring that makes later endoscopic resection harder.
 - **India ink tattoo placed at least 3 cm distal to the lesion** (for larger/complex lesions), plus good photodocumentation.
 - If resectability is in question → refer to a specialized endoscopist or IBD center.
@@ -155,16 +155,16 @@ in the **absence of other inherent CRC risk factors**.
 ### Chemoprevention (BPA 14)
 
 - **Optimal disease control with medical therapy is imperative** to minimizing lifetime CRC risk — CRC risk in IBD is primarily driven by inflammation, so **the focus of chemoprevention is control of inflammation**.
-- **There is uncertainty regarding the independent chemopreventive benefit of [[mesalamine]] therapy** — meta-analyses of population-based studies have yielded conflicting results.
+- **There is uncertainty regarding the independent chemopreventive benefit of mesalamine therapy** — meta-analyses of population-based studies have yielded conflicting results.
 
 ## Relevance to Wiki
 
 - **[[ulcerative-colitis]] / [[crohns-disease]]** — supplies the dysplasia surveillance limb: when to start (8–10 y; immediately with PSC), the 1–5 y risk-stratified interval table, and the small-bowel-Crohn's carve-out to average-risk screening.
 - **[[colonoscopy-surveillance]] / [[colorectal-cancer-screening]]** — the IBD-specific intervals, distinct from the polyp-based post-polypectomy intervals.
 - **[[ibd-in-malignancy]]** — dysplasia detection and the colectomy triggers.
-- **[[colonoscopy]] / [[chromoendoscopy]]** — dye concentrations, the DCE-vs-VCE equivalence on HD scopes, and the nontargeted biopsy protocol (4 biopsies every 10 cm).
-- **[[polypectomy-emr]] / [[endoscopic-submucosal-dissection]]** — resection technique selection and the non-lifting sign as a contraindication.
-- **[[pouchitis]] / [[ileal-pouch-anal-anastomosis]]** — pouch surveillance intervals and the 4.4×/15.0× risk multipliers.
+- **[[colonoscopy]]** (chromoendoscopy) — dye concentrations, the DCE-vs-VCE equivalence on HD scopes, and the nontargeted biopsy protocol (4 biopsies every 10 cm).
+- **[[polypectomy|polypectomy / EMR]] / [[endoscopic-submucosal-dissection]]** — resection technique selection and the non-lifting sign as a contraindication.
+- **[[pouchitis]]** (ileal pouch-anal anastomosis) — pouch surveillance intervals and the 4.4×/15.0× risk multipliers.
 - **[[primary-sclerosing-cholangitis]]** — the "screen immediately at PSC diagnosis" rule.
 - Retires **DALM / ALM / "flat dysplasia"** as wiki vocabulary.
 
@@ -182,7 +182,7 @@ in the **absence of other inherent CRC risk factors**.
 
 ## See Also
 
-[[ulcerative-colitis]], [[crohns-disease]], [[colonoscopy-surveillance]], [[colorectal-cancer]], [[primary-sclerosing-cholangitis]], [[polypectomy-emr]], [[colonoscopy]]
+[[ulcerative-colitis]], [[crohns-disease]], [[colonoscopy-surveillance]], [[colorectal-cancer]], [[primary-sclerosing-cholangitis]], [[polypectomy]], [[colonoscopy]]
 
 ---
 

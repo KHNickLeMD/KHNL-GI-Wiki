@@ -31,7 +31,7 @@ Enterotoxigenic *E. coli* (ETEC) is the most common cause of traveler's diarrhea
 
 - Other traveler's-diarrhea pathogens — [[campylobacter-infection]], [[salmonella-infection]], [[shigellosis]]
 - **Shiga toxin–producing / enterohemorrhagic *E. coli* (STEC/EHEC)** — bloody diarrhea + hemolytic uremic syndrome (HUS); a **different pathotype from ETEC** and the reason to identify which *E. coli* you have. **Do NOT give antimicrobials** for STEC O157 or any STEC producing Shiga toxin 2 — *or when the toxin genotype is unknown* *(strong, moderate)*; for non–toxin-2 STEC the evidence is insufficient either way *(strong, low)*. [[idsa-2017-infectious-diarrhea]] (Rec 35). Antibacterials appear to **increase HUS risk** in Shiga-toxin disease, and [[acg-2016-acute-diarrhea]] directs pathogen-targeted therapy in febrile, prolonged diarrhea **"for all but STEC infection."**
-- Viral gastroenteritis — norovirus, [[rotavirus]], adenovirus; watery and non-bloody, and the reason antibiotics are discouraged for community-acquired (non-travel) diarrhea *(strong, very low)*. [[acg-2016-acute-diarrhea]] (Rec 10)
+- Viral gastroenteritis — [[norovirus]], [[rotavirus]], adenovirus; watery and non-bloody, and the reason antibiotics are discouraged for community-acquired (non-travel) diarrhea *(strong, very low)*. [[acg-2016-acute-diarrhea]] (Rec 10)
 - Noninfectious causes of watery diarrhea
 
 ---
@@ -39,7 +39,7 @@ Enterotoxigenic *E. coli* (ETEC) is the most common cause of traveler's diarrhea
 ## Diagnostics
 
 - Clinical diagnosis in the TD setting; multiplex GI PCR can identify diarrheagenic *E. coli* if testing pursued.
-- **High inoculum requirement** — this is why hand hygiene helps less against ETEC than against the low-inoculum pathogens *[[shigellosis|Shigella]]* and [[norovirus]]. [[acg-2016-acute-diarrhea]]
+- **High inoculum requirement** — this is why hand hygiene helps less against ETEC than against the low-inoculum pathogens *[[shigellosis|Shigella]]* and norovirus. [[acg-2016-acute-diarrhea]]
 
 ---
 

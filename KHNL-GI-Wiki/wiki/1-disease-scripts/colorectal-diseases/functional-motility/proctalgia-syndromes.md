@@ -46,13 +46,13 @@ sources: [acg-2021-anorectal-disorders, rome-v-2026-dgbi]
 
 | Condition | Key Features |
 |-----------|-------------|
-| [[rectal-prolapse\|Solitary rectal ulcer syndrome]] | Endoscopic ulceration; straining history |
+| [[rectal-prolapse#Solitary Rectal Ulcer Syndrome\|Solitary rectal ulcer syndrome]] | Endoscopic ulceration; straining history |
 | Coccydynia | Tailbone pain; tenderness over coccyx |
 | Chronic pelvic pain | Women; gynecological source; pelvic examination |
 | Prostatitis (men) | Perineal/prostatic tenderness; urinary symptoms |
 | Pudendal neuralgia | Burning quality; sitting-provoked; Tinel's sign at Alcock's canal |
 | Levator spasm (secondary to [[anal-fissure\|anal fissure]], [[hemorrhoids]]) | Structural cause present; treat underlying condition |
-| Crohn's perianal disease | Fistulas, skin tags, atypical fissures; [[crohns-disease]] |
+| [[crohns-disease\|Crohn's]] perianal disease | Fistulas, skin tags, atypical fissures |
 | Endometriosis | Women; cyclical pain; pelvic MRI |
 
 Note: concurrent anal fissures, prolapsed [[hemorrhoids]], or other anorectal pathology do NOT invalidate the diagnosis of chronic proctalgia or PF — manage concurrently.

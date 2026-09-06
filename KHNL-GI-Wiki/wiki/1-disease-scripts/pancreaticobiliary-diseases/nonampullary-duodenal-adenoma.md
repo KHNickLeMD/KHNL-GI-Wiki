@@ -3,7 +3,7 @@ title: "Nonampullary Duodenal Adenoma"
 category: disease-script
 tags: [duodenal-adenoma, nonampullary-adenoma, endoscopic-mucosal-resection, cold-snare, familial-adenomatous-polyposis, spiegelman, surveillance, gi-bleeding, perforation]
 created: 2026-07-21
-updated: 2026-09-05
+updated: 2026-09-06
 sources: [aga-2025-nonampullary-duodenal, asge-2015-ampullary-duodenal-adenomas, acg-2015-hereditary-gi-cancer]
 ---
 
@@ -99,7 +99,7 @@ Describe every duodenal polyp by **(BPA 3):**
 
 ### Complications & Periprocedural Care
 
-- **Postprocedural bleeding (BPA 10):** duodenal resection has **higher bleeding risk than elsewhere in the GI tract**, usually in the **first 48 h**, risk **proportional to lesion size** — 25% for lesions ≥30 mm; **>25% for lesions >3 cm**, may be life-threatening with hemodynamic compromise. After resuscitation, endoscopic hemostasis is generally effective.
+- **Postprocedural bleeding (BPA 10):** duodenal resection has **higher bleeding risk than elsewhere in the GI tract**, usually in the **first 48 h**, risk **proportional to lesion size** — 25% for lesions ≥30 mm; **>25% for lesions >3 cm**, may be life-threatening with hemodynamic compromise. After resuscitation, [[endoscopic-hemostasis|endoscopic hemostasis]] is generally effective.
 - **Perforation (BPA 11):** critically **evaluate the postpolypectomy/EMR defect** — unrecognized/untreated perforation may be life-threatening and often **mandates surgery**.
 - **High-risk patients** (multiple comorbidities, anticoagulation, bulky lesions ≥30 mm, significant intraprocedural bleeding, possible/closed perforation): **admit for observation** given the 25% bleeding risk. CS resection nearly eliminates bleeding risk but **bulky DAs are unsuitable for CS**.
 - **Post-procedure orders:** clear-liquid diet overnight, advance as tolerated over 6–8 weeks; **twice-daily [[proton-pump-inhibitors|PPI]] × 6–8 weeks**; individualize resumption of [[anticoagulation-gi-bleeding|anticoagulation/antiplatelet therapy]] — **hold ≥48 h after resection** if acceptable, with a risk–benefit discussion. Insufficient data to support prophylactic hemostatic spray/topical agents.
@@ -134,7 +134,7 @@ Describe every duodenal polyp by **(BPA 3):**
 
 ## See Also
 
-[[ampullary-adenoma]], [[familial-adenomatous-polyposis]], [[mutyh-associated-polyposis]], [[peutz-jeghers-syndrome]], [[cowden-syndrome]], [[juvenile-polyposis-syndrome]], [[polypectomy]], [[endoscopic-mucosal-resection]], [[endoscopic-submucosal-dissection]], [[colonoscopy]], [[upper-endoscopy]], [[capsule-endoscopy]], [[device-assisted-enteroscopy]], [[subepithelial-lesion]], [[gastroenteropancreatic-neuroendocrine-tumors]], [[gastrointestinal-stromal-tumor]], [[iron-deficiency-anemia]], [[proton-pump-inhibitors]], [[anticoagulation-gi-bleeding]]
+[[ampullary-adenoma]], [[familial-adenomatous-polyposis]], [[mutyh-associated-polyposis]], [[peutz-jeghers-syndrome]], [[cowden-syndrome]], [[juvenile-polyposis-syndrome]], [[polypectomy]], [[endoscopic-mucosal-resection]], [[endoscopic-submucosal-dissection]], [[colonoscopy]], [[upper-endoscopy]], [[capsule-endoscopy]], [[device-assisted-enteroscopy]], [[subepithelial-lesion]], [[gastroenteropancreatic-neuroendocrine-tumors]], [[gastrointestinal-stromal-tumor]], [[iron-deficiency-anemia]], [[proton-pump-inhibitors]], [[anticoagulation-gi-bleeding]], [[endoscopic-hemostasis]]
 
 ---
 

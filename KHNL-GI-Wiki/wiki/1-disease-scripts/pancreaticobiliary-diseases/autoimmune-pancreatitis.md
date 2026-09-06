@@ -3,7 +3,7 @@ title: "Autoimmune Pancreatitis (AIP / IDCP)"
 category: disease-script
 tags: [autoimmune-pancreatitis, aip, idcp, igg4, igg4-related-disease, pancreas, obstructive-jaundice, corticosteroids, rituximab, icdc, pancreatic-cancer]
 created: 2026-09-04
-updated: 2026-09-04
+updated: 2026-09-06
 sources: [aga-2019-autoimmune-pancreatitis]
 ---
 
@@ -205,7 +205,7 @@ Management of both AIP and IDCP is **primarily medical**, with **close follow-up
 ### Biliary Drainage and Surgery
 
 - **[[ercp|ERCP]] and biliary stenting are *rarely* indicated in the setting of obstructive jaundice.** This is the counterintuitive call and the reason the diagnosis is worth making.
-  - The case *for* stenting, which the source acknowledges: it **reduces the risk of cholangitis** and **facilitates [[brush-cytology|cytologic brushings]]** to distinguish benign from malignant strictures.
+  - The case *for* stenting, which the source acknowledges: it **reduces the risk of [[acute-cholangitis|cholangitis]]** and **facilitates [[brush-cytology|cytologic brushings]]** to distinguish benign from malignant strictures.
   - **The ICDC recommendation nonetheless: treat mild jaundice with no signs of infection with steroid therapy alone.**
   - **The decision hinges on two qualifiers — *mild* jaundice and *no signs of infection*.** ⚠ The ingested source does **not** define "mild" (no bilirubin threshold) and does not state what to do for non-mild jaundice; that boundary is a gap.
 - **Surgical interventions are indicated in the setting of suspected malignancy.**
@@ -231,9 +231,11 @@ Management of both AIP and IDCP is **primarily medical**, with **close follow-up
 - ⚠ Note the asymmetry that makes IgE and OOI worth checking: **serum IgG4 is useless for predicting relapse**, so the relapse-risk decision rests on the pre-treatment IgE and the OOI phenotype, not on the marker that made the diagnosis.
 - ⚠ The doses, agents (beyond the class names), and durations for maintenance, immunomodulator, and rituximab therapy are in the uncaptured Figure 1 — see [[#Corticosteroids]].
 
+---
+
 ## See Also
 
-[[pancreatic-cancer]], [[chronic-pancreatitis]], [[acute-pancreatitis]], [[recurrent-acute-pancreatitis]], [[jaundice]], [[biliary-stricture]], [[exocrine-pancreatic-insufficiency]], [[endoscopic-ultrasound]], [[ercp]], [[mri-mrcp]], [[brush-cytology]], [[ulcerative-colitis]], [[inflammatory-bowel-disease]], [[primary-sclerosing-cholangitis]], [[cholangiocarcinoma]]
+[[pancreatic-cancer]], [[chronic-pancreatitis]], [[acute-pancreatitis]], [[recurrent-acute-pancreatitis]], [[jaundice]], [[biliary-stricture]], [[exocrine-pancreatic-insufficiency]], [[endoscopic-ultrasound]], [[ercp]], [[mri-mrcp]], [[brush-cytology]], [[ulcerative-colitis]], [[inflammatory-bowel-disease]], [[primary-sclerosing-cholangitis]], [[cholangiocarcinoma]], [[acute-cholangitis]]
 
 ---
 

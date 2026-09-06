@@ -3,7 +3,7 @@ title: "Gallbladder Cancer"
 category: disease-script
 tags: [gallbladder-cancer, biliary-tract-cancer, hpb, cholecystectomy, incidental-gallbladder-cancer, gallbladder-polyp, adenocarcinoma, nccn, oncology]
 created: 2026-06-18
-updated: 2026-09-04
+updated: 2026-09-06
 sources: [nccn-2026-biliary-tract-cancers, asge-2013-biliary-neoplasia]
 ---
 
@@ -30,7 +30,7 @@ Most common biliary tract malignancy; typically adenocarcinoma of the gallbladde
 ### Establishing the Diagnosis
 
 - **Incidental** — adenocarcinoma on histopathology of a cholecystectomy specimen. The gallbladder is already out; the decision is whether to **re-resect** (see Therapeutics).
-- **Non-incidental** — gallbladder mass, wall thickening, or polyp on imaging, often with jaundice or advanced disease.
+- **Non-incidental** — gallbladder mass, wall thickening, or polyp on imaging, often with [[jaundice]] or advanced disease.
 - Imaging: multiphasic abdomen/pelvis CT **or** MRI with IV contrast, plus chest CT ± contrast, to define local extent, nodal status, and metastases ([[nccn-2026-biliary-tract-cancers]]).
 - Biopsy **not necessary in most cases** when disease is clearly resectable; diagnostic laparoscopy is recommended before definitive resection. When tissue is needed for nonoperative management, **core biopsy is preferred over FNA** (more material for molecular profiling).
 - CA 19-9 and CEA: baseline assessment only — **not diagnostic** (elevated in other cancers and in jaundice from any cause).

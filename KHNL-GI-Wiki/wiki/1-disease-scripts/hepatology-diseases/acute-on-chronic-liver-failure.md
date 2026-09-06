@@ -3,7 +3,7 @@ title: "Acute-on-Chronic Liver Failure (ACLF)"
 category: disease-script
 tags: [ACLF, acute-on-chronic-liver-failure, cirrhosis, organ-failure, ICU, NACSELD, EASL-CLIF, terlipressin, HRS, hepatic-encephalopathy, infection, nutrition, liver-transplantation, palliative-care]
 created: 2026-05-28
-updated: 2026-09-05
+updated: 2026-09-06
 sources: [aasld-2024-aclf, baveno-viii-2026-portal-hypertension]
 ---
 
@@ -25,6 +25,8 @@ sources: [aasld-2024-aclf, baveno-viii-2026-portal-hypertension]
   - [[#Nutrition]]
   - [[#Liver Transplantation in ACLF]]
   - [[#Palliative Care]]
+- [[#See Also]]
+- [[#Sources]]
 
 ---
 
