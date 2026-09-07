@@ -3,7 +3,7 @@ title: "Colonoscopy"
 category: general-procedure
 tags: [colonoscopy, crc-screening, polypectomy, surveillance, adenoma, serrated-polyp, colorectal, bowel-prep, split-dose, post-resection, crc-surveillance, metachronous]
 created: 2026-05-07
-updated: 2026-09-06
+updated: 2026-09-07
 sources: [usmstf-2020-followup-colonoscopy, usmstf-2021-crc-screening-age, usmstf-2020-endoscopic-removal, usmstf-2025-bowel-prep, acg-2025-bowel-prep, acg-2014-bowel-cleansing, asge-2015-bowel-preparation, usmstf-2015-crc-surveillance, aga-2025-cade-colonoscopy, aga-2023-ai-colon-polyp, asge-2015-scenic-ibd-dysplasia, aga-2024-glp1-endoscopy, aga-2026-therapeutic-endoscopy-ibd]
 ---
 
@@ -192,7 +192,11 @@ Grade prep **after** all washing/suctioning is complete ([[asge-2015-bowel-prepa
 | **Ottawa Bowel Preparation Scale** | Each of 3 segments (right, transverse/descending, sigmoid/rectum) 0–4, **plus** whole-colon fluid score (0 small, 1 moderate, 2 large) | **0** (excellent) – **14** (very poor) | Per segment: 0 excellent (mucosal detail clearly visible); 1 good (minimal turbid fluid); 2 fair (must suction to view); 3 poor (must wash and suction); 4 inadequate (solid stool not cleared) |
 | **Aronchick Scale** | Whole colon (segments not evaluated) | **1**–**5** | 1 excellent (>95% mucosa seen); 2 good (clear liquid over ≤25% mucosa, >90% seen); 3 fair (semisolid stool not suctionable, >90% seen); 4 poor (semisolid stool not suctionable, <90% seen); 5 inadequate (repeat prep needed) |
 
-- **Adequacy cutoff (the actionable rule, [[acg-2025-bowel-prep]]):** a **BBPS segment score of 2 or 3 in *all* segments = adequate**. Consider a **total BBPS <6 caused by any segment scoring <2 to be inadequate, requiring repeat colonoscopy as soon as feasible within 12 months.**
+- **Adequacy cutoff (the actionable rule, [[acg-2025-bowel-prep]]):** a **BBPS segment score of 2 or 3 in *all* segments = adequate** (validated against the ability to detect adenomas **>5 mm**). Consider a **total BBPS <6 caused by any segment scoring <2 to be inadequate, requiring repeat colonoscopy as soon as feasible within 12 months.**
+- **Adequacy is indication-specific, and must be worded that way** ([[acg-2025-bowel-prep]]):
+  - Score **all segments** on a screening/surveillance exam. For a small region of mucosa that cannot be cleared, the endoscopist may exercise judgment based on the **overall likelihood of missing a clinically meaningful lesion**.
+  - On a **non-screening/surveillance** colonoscopy the prep may be **adequate for that indication** (e.g. [[chronic-diarrhea|diarrhea]], hematochezia) while still **inadequate for screening/surveillance** — the report must state the distinction so the right interval is assigned.
+  - The word **"fair" is not an adequacy statement** — whenever it is used it must be accompanied by an explicit statement of whether standard screening/surveillance intervals can be assigned.
 - **BBPS** is validated and reliable; **Aronchick** is a global rating best suited to *comparing preparations* (quality on initial inspection); **Ottawa** was validated against Aronchick ([[asge-2015-bowel-preparation]])
 - USMSTF definition of an **adequate examination**: one allowing confidence that lesions other than small (≤5 mm) polyps were generally not obscured by residual colonic contents ([[asge-2015-bowel-preparation]])
 

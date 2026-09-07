@@ -298,11 +298,13 @@ If UGIB is clinically suspected in a patient presenting with apparent LGIB, perf
 
 | Letter | Component | Threshold | Points |
 |---|---|---|---|
-| **A** | Albumin | **<3 mg/dL** | 0, 1 |
+| **A** | Albumin | **<3 mg/dL** ᵇ | 0, 1 |
 | **I** | INR | **>1.5** | 0, 1 |
 | **M** | Altered mental status | present | 0, 1 |
 | **S** | Systolic BP | **<100 mm Hg** | 0, 1 |
 | **65** | Age | **>65 years** | 0, 1 |
+
+ᵇ ⚠ **Unit reproduced verbatim, and it is internally inconsistent.** [[aga-2020-nvugib-endoscopic-therapies]] Table 1 prints *"Albumin (<3 mg/dL)"* exactly as shown (verified by extraction). Serum albumin is reported in **g/dL**, so a <3 mg/dL cutoff is not a value any lab returns — this is a unit error in the published table, not in the transcription. **Do not apply the threshold literally, and do not silently rewrite it**: the AIMS65 derivation paper is not in `raw/`, so the corpus cannot confirm the intended unit. Ingesting Saltzman et al. 2011 would close it.
 
 - **Inpatient mortality by score:** 0 → **0.3%**, 1 → **3.2%**, 2 → **5.3%**, 3 → **10.3%**, 4 → **16.5%**, 5 → **24.5%**.
 - **Can be calculated pre-endoscopy** and is easy to calculate, but is **less sensitive than Glasgow-Blatchford and Rockall** ([[aga-2020-nvugib-endoscopic-therapies]]).

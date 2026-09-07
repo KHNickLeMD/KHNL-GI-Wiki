@@ -9,7 +9,7 @@ sources: [usmstf-2020-endoscopic-removal, asge-2020-endoscopic-removal, aga-2025
 
 # Endoscopic Mucosal Resection (Colorectal)
 
-Snare resection over a submucosal cushion (or under water), the first-line technique over surgery for non-pedunculated colorectal lesions ≥20mm and the preferred technique for flat and serrated lesions 10–19mm. Lesion assessment and technique selection are on [[polypectomy]]; lesions needing en-bloc removal beyond snare diameter go to [[colorectal-esd|ESD]].
+Snare resection over a submucosal cushion (or under water), the first-line technique over surgery for non-pedunculated colorectal lesions ≥20mm and the preferred technique for non-polypoid (Paris 0-IIa/0-IIb/0-IIc), serrated, and **LST** lesions 10–19 mm (*Weak; low-quality* — cold or hot snare ± submucosal injection is also acceptable in this size band, [[usmstf-2020-endoscopic-removal]] Rec 10). Lesion assessment and technique selection are on [[polypectomy]]; lesions needing en-bloc removal beyond snare diameter go to [[colorectal-esd|ESD]].
 
 ## Contents
 - [[#Inject-and-Cut (Standard)]]

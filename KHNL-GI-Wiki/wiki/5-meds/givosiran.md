@@ -3,7 +3,7 @@ title: "Givosiran"
 category: med
 tags: [porphyria, acute-hepatic-porphyria, sirna, alas1]
 created: 2026-07-20
-updated: 2026-08-31
+updated: 2026-09-07
 sources: [aga-2023-acute-hepatic-porphyria]
 ---
 
@@ -29,6 +29,8 @@ sources: [aga-2023-acute-hepatic-porphyria]
 - **Liver:** ALT elevation **>3× ULN** reported during the **first 3–6 months** of treatment.
 
 ## Monitoring
+
+All monitoring below is [[aga-2023-acute-hepatic-porphyria]] (Table 2 and its footnote b).
 
 **Panel (add to routine AHP monitoring):** comprehensive metabolic panel (liver enzymes, BUN/creatinine, eGFR), plasma homocysteine, amylase/lipase, urinalysis, urine protein-to-creatinine ratio, B12/folate.
 

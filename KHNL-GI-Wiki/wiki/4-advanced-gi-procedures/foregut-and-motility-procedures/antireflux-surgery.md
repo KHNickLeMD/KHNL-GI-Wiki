@@ -3,7 +3,7 @@ title: "Antireflux Surgery"
 category: advanced-procedure
 tags: [gerd, antireflux-surgery, fundoplication, nissen, msa, linx, tif, ctif, stretta, foregut, hiatal-hernia]
 created: 2026-06-01
-updated: 2026-09-05
+updated: 2026-09-07
 sources: [sages-2021-gerd-surgery, acg-2021-gerd, asge-2024-gerd, padova-2025-hrm-antireflux, afs-2023-transoral-incisionless-fundoplication]
 ---
 
@@ -33,9 +33,11 @@ Surgery is **not** for undifferentiated heartburn — GERD must be objectively c
 
 | Indication | Recommendation | Strength / Evidence |
 |---|---|---|
-| LA grade C/D erosive esophagitis, large hiatal hernia, or troublesome regurgitation | **Antireflux surgery** | Strong / Moderate ([[acg-2021-gerd]]) |
+| LA grade C/D erosive esophagitis, large hiatal hernia ᵃ, or troublesome regurgitation | **Antireflux surgery** | Strong / Moderate ([[acg-2021-gerd]]) |
 | Regurgitation-predominant GERD, as alternative to fundoplication | **MSA (LINX)** | Strong / Moderate ([[acg-2021-gerd]]) |
 | Confirmed chronic or refractory GERD in adults | Fundoplication suggested **over** continued long-term medical management | Conditional / Very Low ([[sages-2021-gerd-surgery]]) |
+
+ᵃ ⚠ **"Large" is not quantified by [[acg-2021-gerd]]** — it states the indication without a size. Do **not** silently import the **>2 cm** boundary from the procedure-choice table below: that number is [[asge-2024-gerd]]'s threshold for routing **TIF vs cTIF/surgery**, a different decision. Treat the ACG indication as qualitative unless a source that quantifies it is ingested.
 
 - **MSA caveat:** concern for dysphagia when placed in patients with [[ineffective-esophageal-motility|dysmotility]] ([[acg-2021-gerd]]) — one reason preoperative [[high-resolution-manometry|HRM]] is mandatory.
 
@@ -48,7 +50,7 @@ The hiatal hernia size + Hill grade pair is the operative decision point ([[asge
 | **≤2 cm** | **I or II** | TIF 2.0 (Conditional / Low) — or Stretta if TIF and surgical fundoplication are unavailable/infeasible (Best Practice Advice only) |
 | **>2 cm** | **III or IV** | cTIF after multidisciplinary review (Conditional / Very Low), or surgical fundoplication |
 
-- ⚠ **Decision gap — the Hill grade in this table cannot be assigned from the wiki.** [[asge-2024-gerd]] drives the TIF-vs-cTIF choice off Hill grade but cites Hill & Kozarek 1996 rather than printing grades I–IV, and **no ingested source defines them**. [[reflux-testing]] is the single home for the Hill-grade entry and carries the standing corpus-block note. Apply the **hernia-size limb**, which *is* sourced (measured two ways, below); do not supply the Hill criteria from memory. **The same block applies to every LA-grade threshold on this page** (indications, mucosal contraindications, when pH testing may be skipped) — grades A–D are used but never defined in the corpus; needs Lundell 1999.
+- ⚠ **Decision gap — the Hill grade in this table cannot be assigned from the wiki.** [[asge-2024-gerd]] drives the TIF-vs-cTIF choice off Hill grade but cites Hill & Kozarek 1996 rather than printing grades I–IV, and **no ingested source defines them**. [[reflux-testing]] is the single home for the Hill-grade entry and carries the standing corpus-block note. Apply the **hernia-size limb**, which *is* sourced (measured two ways, below); do not supply the Hill criteria from memory. **The LA-grade thresholds on this page are a different, weaker block (corrected 2026-09-07)** — indications, mucosal contraindications, and when pH testing may be skipped all turn on grades A–D, and those criteria **are** in an ingested source ([[acg-2025-egd-quality|ACG/ASGE 2025]] **Figure 2, "Los Angeles classification scheme for erosive esophagitis"**; [[aga-2024-upper-endoscopy-quality|AGA 2024]] Figure 2), just as raster figures no capture tool can currently extract. Close that one by capturing the figure onto [[reflux-testing]], not by ingesting Lundell 1999.
 - TIF 2.0 candidates must also meet **≥1** of: chronic GERD ≥6 months, long-term [[proton-pump-inhibitors|PPI]] use ≥6 months, refractory GERD, regurgitation-predominant GERD, or patient preference to avoid long-term PPI ([[asge-2024-gerd]]).
 - **Measure the hernia in two dimensions** — axial length **and** greatest transverse diameter of the diaphragmatic hiatus; either one >2 cm pushes to cTIF/LARS ([[afs-2023-transoral-incisionless-fundoplication]]).
 - **Sizing caution:** hernia size at laparoscopic repair is **often larger than it appeared endoscopically** — apply extra caution even when it measures <2 cm on [[upper-endoscopy|EGD]] ([[afs-2023-transoral-incisionless-fundoplication]]).

@@ -3,7 +3,7 @@ title: "Hepatocellular Adenoma"
 category: disease-script
 tags: [hca, liver, hpb, focal-liver-lesion, benign-liver-tumor, ocp, hcc-risk, resection]
 created: 2026-05-07
-updated: 2026-09-05
+updated: 2026-09-07
 sources: [acg-2024-focal-liver-lesions]
 ---
 
@@ -25,6 +25,8 @@ sources: [acg-2024-focal-liver-lesions]
   - [[#4. Hemorrhage Management]]
   - [[#5. Post-Treatment Surveillance]]
   - [[#6. Pregnancy]]
+- [[#See Also]]
+- [[#Sources]]
 
 ---
 

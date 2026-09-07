@@ -351,7 +351,7 @@ See also: [[hepatitis-c-in-pregnancy]]
 - Minimize invasive procedures (amniocentesis, invasive fetal monitoring) in infected mothers (Rec 27)
 - Elective C-section does not reduce HCV vertical transmission (Rec 28)
 
-**Screening:** Screen women with risk factors for HCV with anti-HCV antibody (Rec 26); universal screening not recommended (note: this is 2016 guidance; more recent guidelines and CDC recommend universal screening in pregnancy)
+**Screening:** Screen women with risk factors for HCV with anti-HCV antibody (Rec 26); universal screening not recommended. ⚠ **This is 2016 guidance and is likely superseded** — no post-2016 pregnancy HCV-screening source is ingested, so the wiki cannot state what the current position is. *(A previous parenthetical asserting that "more recent guidelines and CDC recommend universal screening in pregnancy" was removed 2026-09-07: it was unsourced outside information with no citation and no backing document in `raw/`.)* Ingest a current AASLD/IDSA HCV guidance or an ACOG/CDC screening document to close this.
 
 **Treatment:** No HCV therapy during pregnancy (Rec 30 — strong, very low evidence); interferon and ribavirin strictly contraindicated; no safety data for [[direct-acting-antivirals|DAAs]] during pregnancy
 

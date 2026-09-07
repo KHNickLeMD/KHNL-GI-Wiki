@@ -3,7 +3,7 @@ title: "Loperamide"
 category: med
 tags: [loperamide, antimotility, antidiarrheal, opioid-agonist]
 created: 2026-07-07
-updated: 2026-09-05
+updated: 2026-09-07
 sources: [acg-2016-acute-diarrhea, idsa-2017-infectious-diarrhea, aga-2022-ibs-d, acg-2021-anorectal-disorders, aga-2026-cdiff-ibd, aga-2026-cdiff-adults]
 ---
 
@@ -28,7 +28,7 @@ Peripheral μ-opioid receptor agonist; antimotility agent. First-line antimotili
 |---|---|---|---|
 | Traveler's diarrhea, **adjunct to antibiotics** | Administer — decreases duration, increases cure rate | Strong / Moderate | [[acg-2016-acute-diarrhea]] (Rec 8) |
 | Acute watery diarrhea, immunocompetent **adults** | May be given | Weak / Moderate | [[idsa-2017-infectious-diarrhea]] (Rec 47) |
-| [[fecal-incontinence]] — **only when FI is accompanied by diarrhea** | Antidiarrheals recommended (loperamide, diphenoxylate-atropine, bile-salt binders, anticholinergics, clonidine) — the qualifier is the indication; FI without diarrhea is not this recommendation | Strong / Low (Rec 1) | [[acg-2021-anorectal-disorders]] |
+| [[fecal-incontinence]] — **only when FI is accompanied by diarrhea** (⚠ **off-label**: loperamide is approved for diarrhea, not for FI; ACG recommends the class for the diarrhea component) | Antidiarrheals recommended (loperamide, diphenoxylate-atropine, bile-salt binders, anticholinergics, clonidine) — the qualifier is the indication; FI without diarrhea is not this recommendation | Strong / Low (Rec 1) | [[acg-2021-anorectal-disorders]] |
 | [[irritable-bowel-syndrome\|IBS]]-D | Suggested for diarrhea control — improves abdominal pain and stool consistency, but **no benefit on global symptoms or urgency** | Conditional / **very low** | [[aga-2022-ibs-d]] (Rec 4) |
 | [[clostridioides-difficile\|C. difficile]] in [[inflammatory-bowel-disease\|IBD]] | May consider **only** when inflammation and infection are improving but diarrhea persists | Expert review | [[aga-2026-cdiff-ibd]] |
 | [[clostridioides-difficile\|C. difficile]], general adults | **Not suggested.** If used at all: only **after anti-CDI therapy has started**, and for the **shortest duration** needed for symptom control | Expert review (BPA 5) | [[aga-2026-cdiff-adults]] |

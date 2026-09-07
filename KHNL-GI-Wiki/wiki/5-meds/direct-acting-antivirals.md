@@ -3,7 +3,7 @@ title: "Direct-Acting Antivirals (DAAs)"
 category: med
 tags: [HCV, hepatitis-c, direct-acting-antivirals, DAA, sofosbuvir, velpatasvir, glecaprevir, pibrentasvir, ledipasvir, NS5A, NS5B, NS3-4A, pangenotypic]
 created: 2026-05-28
-updated: 2026-09-05
+updated: 2026-09-07
 sources: [aasld-idsa-2023-hcv, aga-2025-hbv-reactivation]
 ---
 
@@ -21,10 +21,14 @@ Direct-acting antivirals (DAAs) are small-molecule antiviral agents targeting sp
 
 ## Pangenotypic Agents (First-Line)
 
+Doses and the food requirement below are [[aasld-idsa-2023-hcv]] (simplified-treatment section).
+
 | Agent (brand) | Targets | Genotypes | Administration |
 |---|---|---|---|
-| **Glecaprevir/pibrentasvir** (G/P; Mavyret) | NS3/4A + NS5A | 1–6 | 300/120 mg once daily — **must be taken with food** |
-| **Sofosbuvir/velpatasvir** (SOF/VEL; Epclusa) | NS5B + NS5A | 1–6 | 400/100 mg once daily |
+| **Glecaprevir/pibrentasvir** (G/P; Mavyret) | NS3/4A + NS5A | 1–6 | 300/120 mg — **must be taken with food**; 8-week course in the simplified algorithm |
+| **Sofosbuvir/velpatasvir** (SOF/VEL; Epclusa) | NS5B + NS5A | 1–6 | 400/100 mg; 12-week course in the simplified algorithm |
+
+*The guidance prints the tablet strengths and the food requirement but **not** an explicit dosing frequency; both are single-tablet fixed-dose combinations. Do not add "once daily" to this table without a source that prints it.*
 
 Genotype-specific options (ledipasvir/sofosbuvir, elbasvir/grazoprevir), treatment durations, and all salvage/retreatment regimens: see [[hepatitis-c]].
 
@@ -56,6 +60,8 @@ DAA-treated HCV is one of the exposures the AGA 2025 HBVr guideline scores expli
 *Note on sourcing: [[aasld-idsa-2023-hcv]] excludes HBsAg-positive patients from the simplified treatment algorithm citing reactivation risk, but contains no prophylaxis recommendation — the stratified guidance above comes from [[aga-2025-hbv-reactivation]].*
 
 ## Key DDIs
+
+All from [[aasld-idsa-2023-hcv]]:
 
 - **[[calcineurin-inhibitors|Cyclosporine]]** significantly increases the AUC of elbasvir/grazoprevir and of SOF/VEL/VOX — **do not coadminister**
 - **G/P + cyclosporine >100 mg/day** — not recommended

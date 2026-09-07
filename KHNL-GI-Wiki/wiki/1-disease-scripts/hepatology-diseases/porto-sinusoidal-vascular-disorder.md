@@ -3,7 +3,7 @@ title: "Porto-Sinusoidal Vascular Disorder (PSVD) / Non-Cirrhotic Portal Fibrosi
 category: disease-script
 tags: [psvd, ncpf, non-cirrhotic-portal-hypertension, idiopathic-portal-hypertension, nodular-regenerative-hyperplasia, obliterative-portal-venopathy, portal-hypertension, liver-biopsy, spleen-stiffness, varices]
 created: 2026-08-01
-updated: 2026-09-05
+updated: 2026-09-07
 sources: [baveno-viii-2026-portal-hypertension, baveno-vii-2022-portal-hypertension]
 ---
 
@@ -20,6 +20,8 @@ sources: [baveno-viii-2026-portal-hypertension, baveno-vii-2022-portal-hypertens
   - [[#Adjunct workup]]
   - [[#Gaps]]
 - [[#Therapeutics]]
+- [[#See Also]]
+- [[#Sources]]
 
 ---
 

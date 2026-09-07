@@ -3,7 +3,7 @@ title: "Extraesophageal Reflux (EER)"
 category: diagnostic-schema
 tags: [gerd, extraesophageal-reflux, eer, lpr, chronic-cough, asthma, laryngitis, dental-erosions, ppi, reflux-testing, foregut]
 created: 2026-07-23
-updated: 2026-09-03
+updated: 2026-09-07
 sources: [aga-2023-extraesophageal-gerd, acg-2021-gerd]
 ---
 
@@ -48,7 +48,7 @@ Conditions commonly attributed to EER, each with a large non-reflux differential
 
 | Test | Role in EER |
 |---|---|
-| Upper endoscopy (EGD) | Erosive esophagitis (LA grade — ⚠ **criteria corpus-blocked**, see below), [[barretts-esophagus\|Barrett's]], [[hiatal-hernia\|hiatal hernia]]; a conclusive GERD sign supports (not proves) reflux causation |
+| Upper endoscopy (EGD) | Erosive esophagitis (LA grade — ⚠ **criteria not yet transcribed**, see below), [[barretts-esophagus\|Barrett's]], [[hiatal-hernia\|hiatal hernia]]; a conclusive GERD sign supports (not proves) reflux causation |
 | Ambulatory reflux monitoring (pH or pH-impedance), **off** PPI | Establish/exclude pathologic reflux when GERD unproven; AET thresholds per [[ambulatory-reflux-monitoring\|Lyon 2.0]] (>6% proven, <4% excludes) |
 | pH-impedance **on** PPI | Established GERD with persistent symptoms — quantify ongoing acid/non-acid reflux (BPA 8) |
 | Laryngoscopy (via ENT) | Mandatory to exclude non-reflux laryngeal pathology in laryngeal EER — see [[laryngopharyngeal-symptoms]] |
@@ -57,7 +57,7 @@ Conditions commonly attributed to EER, each with a large non-reflux differential
 
 **Threshold gap — proximal reflux.** pH-impedance can count proximal reflux episodes, but there is **no well-established threshold** defining clinically relevant "pathologic" proximal reflux, so proximal event counts cannot be used as a diagnostic cutoff (AGA 2023).
 
-> ⚠ **Decision gap — LA grade is corpus-blocked.** The EGD row above (and the "conclusive GERD evidence" logic behind it) turns on the **Los Angeles grade A–D mucosal-break criteria**, which **no ingested source defines** — the corpus uses the grades without printing them. The grade therefore cannot be assigned from this wiki; [[reflux-testing]] is the single home for the LA-grade entry and carries the standing block note (needs Lundell 1999). Do not supply the criteria from memory.
+> ⚠ **Decision gap — LA grade. This is a *figure-capture* block, not a corpus block (corrected 2026-09-07).** The EGD row above (and the "conclusive GERD evidence" logic behind it) turns on the **Los Angeles grade A–D mucosal-break criteria**. The GERD-side sources do use the grades without printing them, but the criteria **are in an ingested source**: [[acg-2025-egd-quality|ACG/ASGE 2025]] prints them as **Figure 2, "Los Angeles classification scheme for erosive esophagitis"**, and [[aga-2024-upper-endoscopy-quality|AGA 2024]] prints them inside its **Figure 2**. Both are raster figures, so `pdftotext` cannot recover the mucosal-break text and no figure-capture tool is available in this environment. **Close it by capturing the figure onto [[reflux-testing]]** (the single home for the LA-grade entry) — not by transcribing from memory, and not by ingesting Lundell 1999. Same correction on [[upper-endoscopy]].
 
 ## Red Flags / Alarm Features
 

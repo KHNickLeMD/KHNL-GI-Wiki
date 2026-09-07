@@ -3,8 +3,8 @@ title: "Albumin (IV)"
 category: med
 tags: [albumin, cirrhosis, ascites, sbp, hrs]
 created: 2026-07-23
-updated: 2026-09-05
-sources: [aga-2024-vasoactive-albumin-cirrhosis]
+updated: 2026-09-07
+sources: [aga-2024-vasoactive-albumin-cirrhosis, aasld-2021-ascites-sbp-hrs]
 ---
 
 ## Overview
@@ -20,7 +20,7 @@ sources: [aga-2024-vasoactive-albumin-cirrhosis]
 |---|---|---|
 | **Large-volume (>5 L) paracentesis** | Give IV albumin (BPA 4) | **6–8 g per L of ascites removed** (expert opinion, per society guidelines); **lower doses (4 g/L) may be sufficient** |
 | **LVP in [[acute-on-chronic-liver-failure\|ACLF]]** | Give albumin during paracentesis | **6–8 g/L regardless of the volume removed** |
-| **SBP** | Albumin *may be considered* (BPA 5) | **1.5 g/kg body weight on day 1 + 1 g/kg on day 3** (empirical, per society guidelines). Highest-benefit subgroup (RCT subgroup analysis): bilirubin >4 mg/dL **and** AKI at baseline (creatinine >1.0 mg/dL **and** BUN >30 mg/dL) — all three together. Society guidelines themselves phrase the target more loosely, as **AKI and/or [[jaundice]]** |
+| **SBP** | Albumin *may be considered* (BPA 5) | **1.5 g/kg body weight on day 1 + 1 g/kg on day 3** (empirical, per society guidelines). Highest-benefit subgroup (RCT subgroup analysis): bilirubin **>4 mg/dL** **and** AKI at baseline (creatinine >1.0 mg/dL **and** BUN >30 mg/dL) — all three together. ⚠ [[aasld-2021-ascites-sbp-hrs\|AASLD 2021]] sets the same bilirubin marker at **>5 mg/dL**. Society guidelines themselves phrase the target more loosely, as **AKI and/or [[jaundice]]** |
 | **AKI in cirrhosis + ascites (hospitalized)** | Albumin is the **volume expander of choice** (BPA 8) | **1 g/kg body weight daily × 2 consecutive days, capped at 100 g/day** — a volume-expansion trial in patients with evidence of intravascular volume depletion. Lack of response to this challenge is itself a diagnostic criterion for HRS-AKI (full algorithm: [[aki-in-cirrhosis]]) |
 | **HRS-AKI** | Concurrent albumin *can be considered*, accounting for volume status; terlipressin is the vasoactive drug of choice (BPA 10) | Regimen as above; titrate to volume status — a fixed dose in any AKI patient may be **insufficient or cause volume overload/pulmonary edema**, and the best method to assess volume is unknown |
 | **Uncomplicated ascites** (hospitalized or not) | **Do NOT use** albumin (BPA 6) | — |
@@ -41,6 +41,7 @@ sources: [aga-2024-vasoactive-albumin-cirrhosis]
 - AKI is the strongest predictor of death in SBP.
 - RCT (n=105): antibiotics **+ albumin** → AKI **10% vs 33%**, death **10% vs 29%**.
 - Subgroup at highest risk of AKI and most likely to benefit: **bilirubin >4 mg/dL *and* baseline AKI** (creatinine >1.0 mg/dL **and** BUN >30 mg/dL) — the criteria are conjunctive in the trial's subgroup analysis, though society guidelines restate the target as **AKI and/or jaundice**.
+  - ⚠ **Guidelines disagree on the bilirubin cut-off.** This page asserts **>4 mg/dL** per [[aga-2024-vasoactive-albumin-cirrhosis|AGA 2024]] (the newer source, and this page's only source). [[aasld-2021-ascites-sbp-hrs|AASLD 2021]] sets the same marker at **>5 mg/dL** — the figure recorded on [[spontaneous-bacterial-peritonitis]]. Either threshold identifies a patient who should get albumin; the discrepancy matters only for bilirubin between 4 and 5 mg/dL, where AGA would treat and AASLD would not.
 - **Lower doses may also work:** in a small RCT giving only **10 g/day on days 1–3**, patients still had lower renal dysfunction (**7% vs 20%**) and in-hospital mortality (**27% vs 40%**) than controls — consistent with another small trial. 4 of the 5 RCTs in the recent meta-analysis used the standard empirical 1.5 g/kg + 1 g/kg regimen.
 - Albumin beat hydroxyethyl starch for systemic hemodynamics in a 20-patient RCT.
 

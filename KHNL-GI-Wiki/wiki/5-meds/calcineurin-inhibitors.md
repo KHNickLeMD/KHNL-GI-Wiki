@@ -3,9 +3,26 @@ title: "Calcineurin Inhibitors"
 category: med
 tags: [calcineurin-inhibitor, tacrolimus, cyclosporine, immunosuppression, transplant, liver-transplant, nephrotoxicity, basiliximab, induction, cni-minimization]
 created: 2026-05-19
-updated: 2026-09-06
+updated: 2026-09-07
 sources: [aasld-2012-liver-transplant-long-term, aasld-ast-2025-liver-transplant-graft-complications, acg-2025-uc]
 ---
+
+## Contents
+- [[#Overview]]
+- [[#Agents]]
+  - [[#Tacrolimus (FK506)]]
+  - [[#Cyclosporine (CSA)]]
+  - [[#Non-CNI Agents Used to Reduce or Replace the CNI]]
+- [[#Cyclosporine in Acute Severe Ulcerative Colitis]]
+  - [[#Tacrolimus in Steroid-Refractory UC]]
+- [[#Induction — Delaying CNI Start]]
+- [[#CNI Minimization Strategies]]
+- [[#Steroid Minimization vs. CNI Minimization]]
+- [[#Side Effects — Which CNI Owns Which]]
+- [[#Drug Interactions]]
+- [[#Complete IS Withdrawal]]
+- [[#See Also]]
+- [[#Sources]]
 
 ## Overview
 

@@ -3,11 +3,21 @@ title: "Hepatitis C in Pregnancy"
 category: disease-script
 tags: [hepatitis-c, hcv, pregnancy, vertical-transmission, perinatal, hpb, liver]
 created: 2026-05-19
-updated: 2026-08-31
+updated: 2026-09-07
 sources: [aasld-idsa-2023-hcv, acg-2016-liver-disease-pregnancy, aasld-2021-reproductive-liver, aga-2024-pregnancy-gi-liver]
 ---
 
 *Pregnancy-specific management of [[hepatitis-c|HCV]]. General pregnancy liver context: [[liver-disease-in-pregnancy]].*
+
+## Contents
+- [[#Assessment]]
+  - [[#Establishing the Diagnosis]]
+  - [[#Severity Assessment]]
+- [[#Differential Diagnosis]]
+- [[#Diagnostics]]
+- [[#Therapeutics]]
+- [[#See Also]]
+- [[#Sources]]
 
 ## Assessment
 
@@ -17,7 +27,9 @@ sources: [aasld-idsa-2023-hcv, acg-2016-liver-disease-pregnancy, aasld-2021-repr
   - *Change from prior guidance:* the 2016 ACG guideline recommended **risk-based** screening only (Rec 26 — strong, low) and explicitly did not endorse universal screening ([[acg-2016-liver-disease-pregnancy]]); the newer 2023 AASLD-IDSA guidance and USPSTF/CDC now recommend **universal** screening in every pregnancy — the current standard.
 - HCV RNA quantification confirms active infection and gives baseline viral load; genotype for postpartum treatment planning.
 
-### Key Clinical Facts
+### Severity Assessment
+
+*What drives management here is **vertical-transmission risk and disease activity**, stratified below. Maternal fibrosis staging uses the general cutoffs on [[hepatitis-c]].*
 
 - **Vertical (mother-to-child) transmission: 3–10%** at birth; higher with **HIV co-infection** and with **high maternal HCV RNA** ([[acg-2016-liver-disease-pregnancy]]).
 - No perinatal intervention has been shown to reliably reduce HCV vertical transmission.

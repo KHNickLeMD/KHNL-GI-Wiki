@@ -3,8 +3,21 @@ title: "Dyspepsia"
 category: diagnostic-schema
 tags: [dyspepsia, functional, stomach, foregut, dgbi, test-and-treat]
 created: 2026-05-16
-updated: 2026-08-30
+updated: 2026-09-07
 sources: [acg-cag-2017-dyspepsia, rome-v-2026-dgbi, acg-2022-gastroparesis]
+---
+
+## Contents
+- [[#Definition / Scope]]
+- [[#Differential Diagnosis]]
+- [[#Diagnostic Algorithm]]
+  - [[#Functional Dyspepsia (post-EGD with no structural lesion)]]
+- [[#Key Tests]]
+- [[#Red Flags / Alarm Features]]
+- [[#PPI Safety Considerations]]
+- [[#See Also]]
+- [[#Sources]]
+
 ---
 
 ## Definition / Scope

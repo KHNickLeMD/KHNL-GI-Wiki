@@ -3,7 +3,7 @@ title: "Laryngopharyngeal Symptoms (LPS) and Laryngopharyngeal Reflux Disease (L
 category: diagnostic-schema
 tags: [lpr, lprd, laryngopharyngeal-reflux, gerd, extraesophageal-reflux, cough, dysphonia, throat-clearing, ph-impedance, foregut]
 created: 2026-05-15
-updated: 2026-09-04
+updated: 2026-09-07
 sources: [san-diego-2025-lprd, aga-2023-extraesophageal-gerd]
 ---
 
@@ -88,7 +88,7 @@ LPS can be caused by multiple mechanisms — reflux is one of several:
 **Upper GI endoscopy (EGD):**
 
 - Conclusive [[gerd|GERD]] evidence: LA grade B, C, D esophagitis or biopsy-proven [[barretts-esophagus|Barrett's esophagus]]
-  - **LA grade criteria are corpus-blocked** — no ingested source defines grades A–D; see [[reflux-testing]], which is the single home for the LA-grade entry and its gap flag. Do not infer the criteria.
+  - ⚠ **LA grade criteria — a *figure-capture* block, not a corpus block (corrected 2026-09-07).** The GERD-side sources use grades A–D without printing them, but the criteria **are in an ingested source**: [[acg-2025-egd-quality|ACG/ASGE 2025]] **Figure 2, "Los Angeles classification scheme for erosive esophagitis"**, and [[aga-2024-upper-endoscopy-quality|AGA 2024]] Figure 2. Both are raster figures no figure-capture tool can currently extract here. Close it by capturing the figure onto [[reflux-testing]] (single home for the LA-grade entry) — do not infer the criteria, and do not ingest Lundell 1999 to fix it. Same correction on [[upper-endoscopy]].
 - Adjunctive evidence: [[hiatal-hernia|hiatal hernia]], disrupted EGJ
 - Up to 47% of LPS patients have erosive findings and/or hiatal hernia on EGD
 - Transnasal esophagoscopy (TNE): acceptable alternative if performed by a provider with specialized esophageal-endoscopy training
@@ -123,7 +123,7 @@ LPS can be caused by multiple mechanisms — reflux is one of several:
 | Test | Purpose |
 |---|---|
 | Laryngoscopy ± videostroboscopy | Rule out non-reflux laryngeal pathology; mandatory first step |
-| EGD (off acid suppression if possible) | Diagnose GERD evidence (LA B–D, [[barretts-esophagus\|Barrett's]], hiatal hernia). ⚠ LA grade criteria are **corpus-blocked** — flag and gap tracked on [[reflux-testing]] |
+| EGD (off acid suppression if possible) | Diagnose GERD evidence (LA B–D, [[barretts-esophagus\|Barrett's]], hiatal hernia). ⚠ LA grade criteria are a **figure-capture block** — flag and gap tracked on [[reflux-testing]] |
 | Ambulatory reflux monitoring (96h wireless pH *or* 24h pH-impedance/HEMII-pH) | Reference standard for LPRD — the two modalities are complementary, not interchangeable; see the modality table in Step 3 for how to choose |
 | LCAT questionnaire | Identify laryngeal hypervigilance/anxiety for behavioral therapy referral |
 | RSI / RSS | Track symptom severity over time (NOT for diagnosis). The historic **RSI ≥13** cutoff does not distinguish increased proximal/pharyngeal reflux or symptom correlation on HEMII-pH; RSS is more specific but still not diagnostic of LPRD |

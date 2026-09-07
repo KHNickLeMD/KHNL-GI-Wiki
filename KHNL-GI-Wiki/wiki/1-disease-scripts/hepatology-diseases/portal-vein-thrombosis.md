@@ -3,7 +3,7 @@ title: "Portal Vein Thrombosis and Mesenteric Vein Thrombosis"
 category: disease-script
 tags: [portal-vein-thrombosis, pvt, mvt, mesenteric-vein, anticoagulation, cirrhosis, thrombophilia, splenomegaly, mpn, liver-transplant]
 created: 2026-05-21
-updated: 2026-09-05
+updated: 2026-09-07
 sources: [baveno-viii-2026-portal-hypertension, acg-2020-hepatic-mesenteric-circulation, aasld-ast-2025-liver-transplant-candidate-evaluation, aasld-2021-vascular-pvt, aga-2025-pvt-cirrhosis, baveno-vii-2022-portal-hypertension]
 ---
 
@@ -21,6 +21,8 @@ sources: [baveno-viii-2026-portal-hypertension, acg-2020-hepatic-mesenteric-circ
   - [[#Hemostasis in Cirrhosis — Key Principles]]
   - [[#Surgical / Interventional Options]]
   - [[#Paediatric PVT]]
+- [[#See Also]]
+- [[#Sources]]
 
 ---
 

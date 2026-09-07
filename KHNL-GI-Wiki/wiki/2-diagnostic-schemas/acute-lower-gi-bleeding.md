@@ -345,7 +345,7 @@ Scores supplement but do not replace clinical judgment. Low-risk patients (Oakla
 
 ### Clinical Predictors of High-Risk Hospital Course
 
-- Oakland score >8 (requires hospitalization and inpatient workup)
+- Oakland score >8 — i.e. **not** in the low-risk band, so early discharge is not supported. ⚠ Read this as the *absence* of the discharge criterion, **not** as a mandate to admit: [[acg-2023-lgib|ACG 2023]] makes no admission recommendation off the Oakland score, and neither Oakland nor the Strate score is proven as an ED disposition strategy (see [[#Step 2: Risk Stratification]])
 - Age >70 years
 - Male sex
 - Prior LGIB admission

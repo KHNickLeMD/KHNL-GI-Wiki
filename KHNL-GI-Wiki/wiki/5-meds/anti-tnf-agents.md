@@ -3,7 +3,7 @@ title: "Anti-TNF Agents (TNF-α Antagonists)"
 category: med
 tags: [anti-tnf, infliximab, adalimumab, certolizumab-pegol, golimumab, biologic, ibd, crohns, ulcerative-colitis, immunogenicity, therapeutic-drug-monitoring, biosimilar, immune-checkpoint-inhibitor]
 created: 2026-09-04
-updated: 2026-09-06
+updated: 2026-09-07
 sources: [acg-2025-crohns, acg-2025-uc, acg-2019-uc, aga-2021-crohns-pharm, aga-2024-uc-pharm, aga-2021-ici-colitis-hepatitis]
 ---
 
@@ -88,6 +88,7 @@ Monoclonal TNF-α antagonists — **infliximab, adalimumab, certolizumab pegol, 
 
 From [[aga-2021-ici-colitis-hepatitis]] (Best Practice Advice 6; expert review — **no formal evidence grading**, and management rests largely on retrospective series and expert opinion):
 
+- ⚠ **Off-label.** Neither agent is approved for ICI colitis; both regimens below are **imported from IBD**, and [[aga-2021-ici-colitis-hepatitis]] offers no ICI-colitis-specific dose-finding data.
 - **Infliximab 5 mg/kg IV at weeks 0, 2, 6** — the IBD-derived schedule, for glucocorticoid-refractory [[immune-checkpoint-inhibitor-colitis|ICI colitis]]. [[vedolizumab|Vedolizumab]] 300 mg IV on the same 0/2/6 schedule is the alternative; **no data distinguish them**, so the choice turns on malignancy type, infection risk, comorbidities, expected treatment duration, and other irAEs.
 - **Trigger to escalate from glucocorticoids:** no response within **72 hours**, or no complete response within **1 week**, or recurrence during the steroid taper or after completing the course. About **one-third** of patients respond inadequately to first-line glucocorticoids.
 - **Response is typically <1 week** — a key contrast with IBD.
@@ -165,7 +166,7 @@ The **ASUC pathway** (when to escalate, infliximab-vs-cyclosporine choice, bridg
 
 | Parameter | Detail |
 |---|---|
-| Indication | Rescue in ASUC **failing to respond adequately to IV corticosteroids by day 3** — infliximab **or** cyclosporine (Rec 51, Strong/moderate) |
+| Indication | Rescue in ASUC **failing to respond adequately to IV corticosteroids by day 3** — infliximab **or** [[calcineurin-inhibitors\|cyclosporine]] (Rec 51, Strong/moderate) |
 | Standard rescue dose | Infliximab **5 mg/kg** at weeks 0, 2, 6 (CySIF regimen) |
 | **Dose intensification** | Open-label RCT (138 patients) of intensified **10 mg/kg** vs standard **5 mg/kg** first dose showed **no difference** in day-7/14 clinical response, clinical remission, or colectomy at month 3 — **except** in patients with **serum albumin <2.5 g/dL**, where 10 mg/kg gave a higher day-7 clinical response. **Reserve intensified dosing for ASUC with low serum albumin**, with careful ongoing monitoring |
 | Accelerated induction | Retrospective study (50 patients) of 3 induction doses within a median 24 days: lower colectomy rate (**7% vs 40%**) than standard dosing, but **3-month colectomy rates were similar** — short-term benefit may not translate to long-term outcome |
@@ -189,7 +190,7 @@ The **ASUC pathway** (when to escalate, infliximab-vs-cyclosporine choice, bridg
 | Withdrawing the immunomodulator (or the biologic) from stable combination therapy | **No recommendation — knowledge gap.** No significant difference in relapse over 12–24 months (RR 1.02, 0.71–1.46) | ([[aga-2021-crohns-pharm]] Rec 6) |
 | Combining vedolizumab or ustekinumab with an immunomodulator | **No recommendation — knowledge gap** | ([[aga-2021-crohns-pharm]] Rec 5C) |
 
-- **Adjunctive (immunogenicity-suppressing) dosing** differs from disease-controlling dosing: 6-mercaptopurine or azathioprine typically at **reduced doses**, and **methotrexate 12.5–15 mg orally once weekly** ([[acg-2025-crohns]]). Full thiopurine dosing, pharmacogenomic testing, and monitoring live on [[thiopurines]].
+- **Adjunctive (immunogenicity-suppressing) dosing** differs from disease-controlling dosing: 6-mercaptopurine or azathioprine typically at **reduced doses**, and **methotrexate 12.5–15 mg orally once weekly** ([[acg-2025-crohns]]) — ⚠ **off-label**: this is immunogenicity suppression, not an approved disease-controlling indication, and the dose is below the disease-controlling range. Full thiopurine dosing, pharmacogenomic testing, and monitoring live on [[thiopurines]].
 - **Risk factors for low drug levels and loss of response:** active smoking, increased BMI, and anti-TNF monotherapy — all associated with lower drug levels at week 14 ([[acg-2025-crohns]]).
 - **Earlier initiation of combination therapy** may be protective against immunogenicity, allowing greater treatment persistence — so combination may be preferred in **higher-risk CD without risk factors precluding its use** ([[acg-2025-crohns]]).
 - **When combination is judged higher-risk** (see [[#Safety, Cautions, and Contraindications]]): **optimized infliximab monotherapy with targeted therapeutic drug monitoring** is the alternative, avoiding long-term thiopurine toxicity ([[acg-2025-crohns]]).
@@ -229,7 +230,7 @@ See [[chronic-hepatitis-b]] for the underlying disease.
 
 ### Before a biologic in ICI colitis
 
-If not already done before checkpoint-inhibitor therapy: test **hepatitis B (HBsAg, anti-HBs, anti-HBc)** and **latent tuberculosis**; **HIV and HCV** testing are also suggested ([[aga-2021-ici-colitis-hepatitis]]).
+If not already done before checkpoint-inhibitor therapy: test **hepatitis B (HBsAg, anti-HBs, anti-HBc)** and **latent tuberculosis**; **HIV and [[hepatitis-c|HCV]]** testing are also suggested ([[aga-2021-ici-colitis-hepatitis]]).
 
 ---
 

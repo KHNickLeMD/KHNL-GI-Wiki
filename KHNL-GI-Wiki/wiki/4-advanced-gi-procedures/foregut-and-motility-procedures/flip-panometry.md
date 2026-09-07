@@ -3,7 +3,7 @@ title: "FLIP Panometry"
 category: advanced-procedure
 tags: [FLIP, panometry, esophageal-motility, EGJ, functional-lumen-imaging, achalasia, EGJOO, foregut]
 created: 2026-05-15
-updated: 2026-09-06
+updated: 2026-09-07
 sources: [dallas-2025-flip-panometry, aga-2025-flip-esophageal]
 ---
 
@@ -206,7 +206,7 @@ Practical use of FLIP, keyed to the Best Practice Advice numbers ([[aga-2025-fli
 
 **First — high-quality EGD (BPA 1, 3).** Withholding [[proton-pump-inhibitors|PPIs]] 2–4 weeks raises the yield for erosive reflux change and EoE. If it shows **mechanical obstruction, LA grade B–D erosive esophagitis (BPA 8), stricture, EoE, or hiatus hernia >3 cm** → treat accordingly and FLIP may be cancelled (consider FLIP in EoE, BPA 7).
 
-- ⚠ **Decision gap — corpus-blocked:** the **Los Angeles grade A–D mucosal-break criteria** that gate this branch are not defined in any ingested source; the LA grade's home page ([[reflux-testing]]) carries the standing note. Needs Lundell 1999 — do not supply from memory.
+- ⚠ **Decision gap — LA grade is a *figure-capture* block, not a corpus block (corrected 2026-09-07):** the **Los Angeles grade A–D mucosal-break criteria** that gate this branch **are** in an ingested source — [[acg-2025-egd-quality|ACG/ASGE 2025]] **Figure 2, "Los Angeles classification scheme for erosive esophagitis"** (and [[aga-2024-upper-endoscopy-quality|AGA 2024]] Figure 2) — but both are raster figures no capture tool can currently extract here. Close it by capturing the figure onto [[reflux-testing]] (the LA grade's home page); do not supply from memory and do not ingest Lundell 1999 for it.
 
 Then read FLIP against the endoscopy:
 

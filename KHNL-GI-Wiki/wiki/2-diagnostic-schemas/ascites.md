@@ -215,7 +215,7 @@ SAAG = serum albumin − ascitic fluid albumin (simultaneous samples)
   - After 5 L: ~40 g albumin
   - After 8 L: ~64 g albumin
 - Limit to <8 L per session if possible (risk of PPCD increases above 8 L)
-- Strongly consider albumin even for smaller volumes if hemodynamic instability (SBP <90), hyponatremia (Na <130), or AKI present
+- Strongly consider albumin even for smaller volumes if hemodynamic instability (**systolic BP <90 mm Hg** — note "SBP" elsewhere on this page means *spontaneous bacterial peritonitis*), **hyponatremia (Na <130 mEq/L)**, or [[aki-in-cirrhosis|AKI]] present
 - Coagulopathy and thrombocytopenia are NOT contraindications; blood product transfusion not recommended pre-procedure
 - After LVP, start/resume sodium restriction and diuretics
 

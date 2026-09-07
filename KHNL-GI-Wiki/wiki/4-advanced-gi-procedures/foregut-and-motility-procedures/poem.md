@@ -3,7 +3,7 @@ title: "POEM (Peroral Endoscopic Myotomy)"
 category: advanced-procedure
 tags: [poem, achalasia, myotomy, motility, esophageal, foregut, gerd, egjoo]
 created: 2026-05-16
-updated: 2026-09-06
+updated: 2026-09-07
 sources: [aga-2024-poem-advances, sages-2024-poem, sages-2021-poem, acg-2020-achalasia]
 ---
 # POEM (Peroral Endoscopic Myotomy)
@@ -72,7 +72,7 @@ Endoscopic myotomy of the lower esophageal sphincter (LES) and distal esophageal
 - **Objective [[reflux-testing|reflux testing]] generally 6–12 months post-POEM:**
   - **Off-PPI** pH monitoring if presence of [[gerd|GERD]] is in question.
   - **On-PPI** testing if GERD already established or esophagitis **LA grade B or higher** — assesses adequacy of acid suppression.
-  - ⚠ **Decision gap — corpus-blocked:** the **Los Angeles grade A–D mucosal-break criteria** that this rule turns on are not defined in any ingested source — the LA grade's home page ([[reflux-testing]]) carries the standing corpus-block note; needs Lundell 1999. Do not supply from memory.
+  - ⚠ **Decision gap — LA grade is a *figure-capture* block, not a corpus block (corrected 2026-09-07):** the **Los Angeles grade A–D mucosal-break criteria** that this rule turns on **are** in an ingested source — [[acg-2025-egd-quality|ACG/ASGE 2025]] **Figure 2, "Los Angeles classification scheme for erosive esophagitis"** (and [[aga-2024-upper-endoscopy-quality|AGA 2024]] Figure 2) — but both are raster figures no capture tool can currently extract here. Close it by capturing the figure onto [[reflux-testing]] (the LA grade's home page); do not supply from memory and do not ingest Lundell 1999 for it.
 - Reflux symptoms after POEM may **not** be acid-related (food stasis, acid fermentation, visceral hypersensitivity) — objective testing discriminates.
 - **Management ladder:** confirm PPI adherence (take 30–60 min before meals) → diet/lifestyle + alginates for mild/breakthrough → [[potassium-competitive-acid-blockers|potassium-competitive acid blocker]] (e.g., [[vonoprazan]]) a possible future preferred option for difficult erosive esophagitis → **[[antireflux-surgery|antireflux procedure]]** (endoscopic or surgical fundoplication) in a small subset after confirming GERD, excluding other etiologies, and failing optimization.
 - Reflux esophagitis and abnormal acid exposure **decrease over time** (ongoing LES healing/remodeling) → favor a stepwise approach.

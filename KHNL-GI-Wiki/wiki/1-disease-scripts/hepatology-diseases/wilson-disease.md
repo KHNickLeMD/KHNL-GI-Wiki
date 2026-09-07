@@ -3,7 +3,7 @@ title: "Wilson's Disease"
 category: disease-script
 tags: [wilson-disease, copper, atp7b, hepatic, neuropsychiatric, kayser-fleischer, ceruloplasmin, hpb, liver, genetic, pregnancy, chelation, D-penicillamine, trientine, zinc, Leipzig-score, NWI]
 created: 2026-05-19
-updated: 2026-09-06
+updated: 2026-09-07
 sources: [acg-2017-liver-chemistries, acg-2016-liver-disease-pregnancy, aasld-2022-wilson-disease]
 ---
 
@@ -27,6 +27,8 @@ sources: [acg-2017-liver-chemistries, acg-2016-liver-disease-pregnancy, aasld-20
   - [[#Neurological Adjuncts (GS 36–37)]]
   - [[#Psychiatric Management (GS 38)]]
   - [[#Wilson's Disease in Pregnancy (GS 33–35)]]
+- [[#See Also]]
+- [[#Sources]]
 
 ---
 

@@ -23,7 +23,7 @@ Per [[asge-2023-indeterminate-biliary-strictures]], the ASGE suggests cholangios
 
 - Adding cholangioscopy to ERCP raises sensitivity for malignancy to ~0.72 vs ~0.61 without it; incremental yield ~27% (observational) to ~41% (single RCT).
 - Better suited to **nondistal/hilar** strictures; suboptimal for very distal CBD strictures (scope instability, difficulty passing mini-forceps).
-- Adds ~14 min to ERCP and higher cost, but cost-effective in modeling (ICER below the $50,000 threshold).
+- Adds ~14 min to ERCP and higher cost, but cost-effective in modeling (base-case ICER **$39,277.25 per QALY**, below the $50,000/QALY willingness-to-pay threshold).
 - Ensure adequate proximal segment drainage afterward — instilled water/saline risks introducing infection into an undrained tree.
 
 ### Visual characterization

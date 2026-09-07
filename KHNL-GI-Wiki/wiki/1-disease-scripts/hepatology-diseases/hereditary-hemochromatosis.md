@@ -3,7 +3,7 @@ title: "Hereditary Hemochromatosis"
 category: disease-script
 tags: [hemochromatosis, iron-overload, hfe, c282y, phlebotomy, liver, hpb, genetics, ferritin, transferrin-saturation, cirrhosis, hcc, arthropathy, cardiomyopathy, endocrine]
 created: 2026-05-19
-updated: 2026-09-06
+updated: 2026-09-07
 sources: [acg-2019-hereditary-hemochromatosis, acg-2017-liver-chemistries, aasld-2011-hemochromatosis]
 ---
 
@@ -33,6 +33,8 @@ sources: [acg-2019-hereditary-hemochromatosis, acg-2017-liver-chemistries, aasld
   - [[#Liver Transplantation]]
   - [[#Monitoring]]
   - [[#Prognosis]]
+- [[#See Also]]
+- [[#Sources]]
 
 ---
 

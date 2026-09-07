@@ -3,7 +3,7 @@ title: "Spontaneous Bacterial Peritonitis"
 category: disease-script
 tags: [sbp, ascites, cirrhosis, peritonitis, cefotaxime, albumin]
 created: 2026-05-15
-updated: 2026-09-06
+updated: 2026-09-07
 sources: [aasld-2021-ascites-sbp-hrs, aga-2025-ascites-cirrhosis, aga-2024-vasoactive-albumin-cirrhosis, baveno-viii-2026-portal-hypertension, baveno-vii-2022-portal-hypertension, aasld-2023-portal-hypertension]
 ---
 
@@ -21,6 +21,8 @@ SBP is an infection of [[ascites|ascitic fluid]] in the absence of an obvious in
 - [[#Diagnostics]]
 - [[#Therapeutics]]
   - [[#Prophylaxis]]
+- [[#See Also]]
+- [[#Sources]]
 
 ---
 

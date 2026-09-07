@@ -3,7 +3,7 @@ title: "Hepatitis D (Delta)"
 category: disease-script
 tags: [hepatitis-delta, hdv, hepatitis-b, cirrhosis, bulevirtide, peg-interferon, hcc, viral-hepatitis]
 created: 2026-06-27
-updated: 2026-09-06
+updated: 2026-09-07
 sources: [aga-2025-hepatitis-delta]
 ---
 
@@ -31,6 +31,8 @@ US Veterans Affairs cohort (adjusted HRs): HCC 3.61 (2.35–5.54), hepatic decom
 - [[#Therapeutics]]
   - [[#Current (US-available)]]
   - [[#Emerging / investigational]]
+- [[#See Also]]
+- [[#Sources]]
 
 ---
 

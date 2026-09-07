@@ -3,7 +3,7 @@ title: "IL-23 and IL-12/23 Inhibitors"
 category: med
 tags: [ustekinumab, risankizumab, mirikizumab, guselkumab, il-23, il-12-23, biologic, ibd, crohns, ulcerative-colitis, interleukin-inhibitor]
 created: 2026-09-06
-updated: 2026-09-06
+updated: 2026-09-07
 sources: [acg-2025-uc, acg-2025-crohns, aga-2024-uc-pharm, aga-2025-crohns-pharm, aga-2024-ibd-malignancy, acg-2025-ibd-preventive-care]
 ---
 
@@ -70,6 +70,8 @@ Monoclonal antibodies against the **interleukin-23 pathway**, used as advanced t
 ---
 
 ## Indications at a Glance
+
+*Every row below is gated on **moderate-to-severe** disease activity. That definition is not restated here — the disease-activity criteria and scoring instruments live on [[ulcerative-colitis]] and [[crohns-disease]] (endoscopic indices: [[ibd-endoscopic-scoring]]). Check the patient meets them before applying a row.*
 
 | Setting | Agent(s) | Recommendation | Strength / Evidence | Source |
 |---|---|---|---|---|

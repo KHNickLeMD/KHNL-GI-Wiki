@@ -3,7 +3,7 @@ title: "Hepatocellular Carcinoma"
 category: disease-script
 tags: [hcc, hepatocellular, liver, cancer, hpb, surveillance, cirrhosis, hbv, adjuvant, immunotherapy, liver-transplant, milan-criteria, afp, downstaging, mtor-inhibitor, sirolimus, everolimus, bclc, sorafenib, lenvatinib, atezolizumab, bevacizumab, tace, tare, ablation, resection, li-rads, locoregional]
 created: 2026-05-16
-updated: 2026-09-05
+updated: 2026-09-07
 sources: [aasld-2023-hcc, aasld-2025-hcc-critical-update, aasld-ast-2025-liver-transplant-candidate-evaluation, aasld-ast-2025-liver-transplant-graft-complications, aga-2022-hcc-systemic, nccn-2026-hcc, aga-2026-hcc-surveillance, aasld-idsa-2025-chb-treatment]
 ---
 
@@ -30,6 +30,8 @@ sources: [aasld-2023-hcc, aasld-2025-hcc-critical-update, aasld-ast-2025-liver-t
   - [[#Management of Recurrence After Resection or Local Ablation]]
   - [[#Post-Transplant Immunosuppression for HCC Recipients]]
   - [[#Advance Care Planning]]
+- [[#See Also]]
+- [[#Sources]]
 
 ---
 
