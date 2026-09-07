@@ -10,6 +10,7 @@ sources: [acg-2021-crc-screening, usmstf-2021-crc-screening-age, aga-2023-crc-sc
 ## Contents
 - [[#Overview]]
 - [[#Screening Age Recommendations (ACG 2021)]]
+- [[#Symptomatic Adults Under 50 — a Diagnostic, Not a Screening, Question]]
 - [[#Screening Modalities]]
   - [[#Preferred Modalities]]
   - [[#Acceptable Alternative Modalities (conditional)]]
@@ -42,6 +43,24 @@ sources: [acg-2021-crc-screening, usmstf-2021-crc-screening-age, aga-2023-crc-sc
 | Ages ≥86 | Not recommended (competing causes of mortality) | *USPSTF position as reported by [[acg-2021-crc-screening]]* |
 
 The age-45 start was first advanced by the **American Cancer Society (2018)** as a **qualified** recommendation; ACG likewise makes it conditional given very-low-quality direct evidence in this group. [[usmstf-2021-crc-screening-age|USMSTF 2021]] independently recommends **offering** screening at 45–49 (weak recommendation, low-quality evidence) and **not screening** beyond age 85 (strong).
+
+**Why the direct evidence is very low quality — the modelling behind 45** ([[aga-2020-young-adult-onset-crc]], reporting on ACS and USPSTF):
+
+- Unlike the recommendations for people **50 years of age** and over, which rest on **randomized controlled trials and prospective cohort studies**, the ACS age-45 start rests on **MISCAN-Colon** (Microsimulation Screening Analysis-Colon) **modelling**, which identified an acceptable risk–benefit of screening for potential life-years gained.
+- The **USPSTF decision *not* to lower the age to 45** was based on a benefit being found in **2 of 3 models (SimCRC and CRC-SPIN) but not the third (MISCAN)** — which had been tested and originally applied to **CRC incidence from 1975 to 1979**, predating both CRC screening and the rise in early-onset CRC.
+- Arguments raised **against** lowering the age: diverting resources from **medically underserved** people; excessive financial health care costs; inhibiting proper randomized testing of the recommendation itself; and — the one that survives the move to 45 — that *"the basic biology of young adult–onset CRC may differ and thus not be amenable to the current screening modalities."*
+- **International comparison:** of the only 3 countries with *declining* young adult–onset CRC incidence, 2 endorse starting average-risk screening in the fourth decade — **44 years of age in Italy**, **40 years of age in Austria**.
+
+---
+
+## Symptomatic Adults Under 50 — a Diagnostic, Not a Screening, Question
+
+**The screening start age does not govern the symptomatic patient**, and conflating the two is what produces the average **6-month diagnostic delay** in [[early-onset-colorectal-cancer|early-onset CRC]].
+
+- **[[aga-2020-young-adult-onset-crc]] BPA 1:** diagnostic evaluation of the colon and rectum is encouraged for **all patients, irrespective of age**, presenting with symptoms that may be consistent with CRC — rectal bleeding, weight loss, change in bowel habit, abdominal pain, [[iron-deficiency-anemia|iron deficiency anemia]] (*"including but not limited to"*).
+- *"The signs and symptoms that prompt health care providers to consider a diagnostic colon exam for a person over 50 should prompt a diagnostic [[colonoscopy|colonoscopy]] exam for the person <50 years of age."*
+- **70% of sporadic early-onset CRC patients have no family history**, so they never qualify for high-risk screening and present symptomatically — the symptom rule, not the screening age, is what reaches them.
+- Presentation-stage and germline-yield figures, and the full early-onset workup, are on [[early-onset-colorectal-cancer]].
 
 ---
 

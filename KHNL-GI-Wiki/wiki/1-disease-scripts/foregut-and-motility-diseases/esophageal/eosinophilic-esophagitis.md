@@ -131,11 +131,14 @@ Severity is assessed across three domains — **symptoms, endoscopic activity (E
 
 ### Diagnostic Workup Sequence
 
-1. [[upper-endoscopy|Upper endoscopy]] + biopsies (≥2 levels, ≥6 total)
-2. PPI trial × 8–12 weeks → repeat endoscopy
-   - If remission on PPI → diagnose EoE (PPI-responsive subset)
-   - If persistent eosinophilia → diagnose EoE; proceed to treatment
-3. Exclude other causes (see DDx above) before finalizing diagnosis
+> **Scope off treatment.** [[acg-2025-eoe|ACG 2025]] advises endoscopy on **no treatment — no dietary restriction and no PPI** — when EoE is suspected, to maximize diagnostic sensitivity. Diet, PPI, and even *intranasal or inhaled* steroids taken for rhinitis/sinusitis/asthma can partially or completely treat EoE and produce a falsely negative exam.
+
+> **A PPI trial is no longer part of the diagnosis — this changed between guideline versions.** [[acg-2013-eoe|ACG 2013]] required failure of a PPI trial and treated *PPI-responsive esophageal eosinophilia* (PPI-REE) as a separate entity. ACG 2025 **eliminates the PPI trial from the diagnostic algorithm** and positions PPI as a **treatment** for EoE; PPI-REE is a subset of EoE, not a separate diagnosis.
+
+1. [[upper-endoscopy|Upper endoscopy]] off treatment + biopsies — **≥6 total from ≥2 levels** (proximal/mid and distal), targeting endoscopic findings where possible (Rec 3, low quality / **strong**)
+2. **Quantify** the peak eosinophil count at every endoscopy (Rec 4, low / **strong**); **≥15 eos/hpf in ≥1 hpf** satisfies criterion 2 (Rec 1, low / **strong**)
+3. Evaluate for non-EoE disorders that cause or contribute to esophageal eosinophilia (see DDx above) before finalizing the diagnosis
+4. Choose a first-line therapy — PPI, topical steroid, or diet, all of equal standing (see Therapeutics)
 
 ### Tests NOT Recommended
 

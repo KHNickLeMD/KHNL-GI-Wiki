@@ -41,7 +41,7 @@ sources: [aga-2024-vasoactive-albumin-cirrhosis, aasld-2021-ascites-sbp-hrs]
 - AKI is the strongest predictor of death in SBP.
 - RCT (n=105): antibiotics **+ albumin** → AKI **10% vs 33%**, death **10% vs 29%**.
 - Subgroup at highest risk of AKI and most likely to benefit: **bilirubin >4 mg/dL *and* baseline AKI** (creatinine >1.0 mg/dL **and** BUN >30 mg/dL) — the criteria are conjunctive in the trial's subgroup analysis, though society guidelines restate the target as **AKI and/or jaundice**.
-  - ⚠ **Guidelines disagree on the bilirubin cut-off.** This page asserts **>4 mg/dL** per [[aga-2024-vasoactive-albumin-cirrhosis|AGA 2024]] (the newer source, and this page's only source). [[aasld-2021-ascites-sbp-hrs|AASLD 2021]] sets the same marker at **>5 mg/dL** — the figure recorded on [[spontaneous-bacterial-peritonitis]]. Either threshold identifies a patient who should get albumin; the discrepancy matters only for bilirubin between 4 and 5 mg/dL, where AGA would treat and AASLD would not.
+  - ⚠ **Guidelines disagree on the bilirubin cut-off.** This page asserts **>4 mg/dL** per [[aga-2024-vasoactive-albumin-cirrhosis|AGA 2024]] (the newer of this page's two sources). [[aasld-2021-ascites-sbp-hrs|AASLD 2021]] sets the same marker at **>5 mg/dL** — the figure recorded on [[spontaneous-bacterial-peritonitis]]. Either threshold identifies a patient who should get albumin; the discrepancy matters only for bilirubin between 4 and 5 mg/dL, where AGA would treat and AASLD would not.
 - **Lower doses may also work:** in a small RCT giving only **10 g/day on days 1–3**, patients still had lower renal dysfunction (**7% vs 20%**) and in-hospital mortality (**27% vs 40%**) than controls — consistent with another small trial. 4 of the 5 RCTs in the recent meta-analysis used the standard empirical 1.5 g/kg + 1 g/kg regimen.
 - Albumin beat hydroxyethyl starch for systemic hemodynamics in a 20-patient RCT.
 
@@ -66,3 +66,4 @@ sources: [aga-2024-vasoactive-albumin-cirrhosis, aasld-2021-ascites-sbp-hrs]
 ## Sources
 
 1. [[aga-2024-vasoactive-albumin-cirrhosis|AGA 2024 Clinical Practice Update on the Use of Vasoactive Drugs and Intravenous Albumin in Cirrhosis]]
+2. [[aasld-2021-ascites-sbp-hrs|AASLD 2021: Diagnosis, Evaluation, and Management of Ascites, SBP, and HRS in Cirrhosis]]

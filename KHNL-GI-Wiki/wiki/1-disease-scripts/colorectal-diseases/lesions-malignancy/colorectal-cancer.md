@@ -3,11 +3,11 @@ title: "Colorectal Cancer"
 category: disease-script
 tags: [crc, colorectal-cancer, adenocarcinoma, oncology, screening, surveillance, post-resection, metachronous, rectal-cancer]
 created: 2026-05-19
-updated: 2026-09-06
-sources: [acg-2015-hereditary-gi-cancer, usmstf-2014-lynch-syndrome, usmstf-2015-crc-surveillance, usmstf-2016-fit-screening, acg-2021-crc-screening, nccn-2026-colon-cancer, asge-2013-crc-staging-management, aga-2025-endoscopic-resection-crc, kanaka-2022-colonic-stent-bts-right-sided]
+updated: 2026-09-07
+sources: [acg-2015-hereditary-gi-cancer, usmstf-2014-lynch-syndrome, usmstf-2015-crc-surveillance, usmstf-2016-fit-screening, acg-2021-crc-screening, nccn-2026-colon-cancer, asge-2013-crc-staging-management, aga-2025-endoscopic-resection-crc, kanaka-2022-colonic-stent-bts-right-sided, aga-2020-young-adult-onset-crc]
 ---
 
-*Screening is covered in [[colorectal-cancer-screening]] and in detail below (FIT). Hereditary syndromes (workup: [[colorectal-polyposis]]): [[lynch-syndrome]], [[familial-adenomatous-polyposis]], [[mutyh-associated-polyposis]], [[peutz-jeghers-syndrome]], [[juvenile-polyposis-syndrome]], [[cowden-syndrome]], [[serrated-polyposis-syndrome]]. Polyp management: [[polypectomy]] and [[colonoscopy]].*
+*Screening is covered in [[colorectal-cancer-screening]] and in detail below (FIT). **CRC diagnosed at 18 – <50 years of age** has its own presentation, germline yield, fertility and surveillance considerations — see [[early-onset-colorectal-cancer]]. Hereditary syndromes (workup: [[colorectal-polyposis]]): [[lynch-syndrome]], [[familial-adenomatous-polyposis]], [[mutyh-associated-polyposis]], [[peutz-jeghers-syndrome]], [[juvenile-polyposis-syndrome]], [[cowden-syndrome]], [[serrated-polyposis-syndrome]]. Polyp management: [[polypectomy]] and [[colonoscopy]].*
 
 ## Contents
 - [[#Assessment]]
@@ -50,6 +50,7 @@ sources: [acg-2015-hereditary-gi-cancer, usmstf-2014-lynch-syndrome, usmstf-2015
 - [[colonoscopy|Colonoscopy]] with biopsy is the diagnostic standard
 - CT C/A/P + CEA for staging
 - MRI pelvis + [[endoscopic-ultrasound|EUS]] for rectal cancer local staging
+- **Age is not a reason to defer the diagnostic exam.** Diagnostic evaluation of the colon and rectum is encouraged for **all patients, irrespective of age**, presenting with symptoms that may be consistent with CRC — rectal bleeding, weight loss, change in bowel habit, abdominal pain, [[iron-deficiency-anemia|iron deficiency anemia]] ([[aga-2020-young-adult-onset-crc]] BPA 1). This is a **diagnostic** rule and is independent of the average-risk **screening** start age; the delay it exists to prevent averages **6 months** in patients under 50 ([[early-onset-colorectal-cancer]])
 
 ### Severity Assessment / Staging
 
@@ -231,6 +232,9 @@ flowchart TD
 ### Universal Lynch Syndrome Testing
 
 - Per [[usmstf-2014-lynch-syndrome|USMSTF 2014]] and confirmed in this guideline: all CRCs should be studied for evidence of [[lynch-syndrome]] (MMR/MSI tumor testing)
+- **Scope and rationale ([[aga-2020-young-adult-onset-crc]]).** Tumor testing for **MSI**, or **IHC for MLH1, MSH2, MSH6 and PMS2**, should be performed on **all CRC regardless of age of onset** — not only as a screen for [[lynch-syndrome|Lynch syndrome]], but because the result is:
+  - **Prognostic** among early stages (**stage I and II**) — and it is why adjuvant chemotherapy is **recommended against in MSI stage II CRC**
+  - **Predictive** of response to **immunotherapy in stage IV** disease
 - Patients with known or suspected [[lynch-syndrome|Lynch syndrome]] must follow Lynch-specific surveillance intervals, not those below
 
 ### Step 1 — Perioperative Clearing Colonoscopy
@@ -421,7 +425,7 @@ The ACG 2021 and USMSTF 2021 guidelines do not supersede the FIT-specific operat
 
 ## See Also
 
-[[colorectal-cancer-screening]], [[colorectal-polyposis]], [[colonoscopy]], [[polypectomy]], [[lynch-syndrome]], [[familial-adenomatous-polyposis]], [[mutyh-associated-polyposis]], [[serrated-polyposis-syndrome]], [[endoscopic-ultrasound]], [[colonoscopy-surveillance]], [[inflammatory-bowel-disease]], [[ulcerative-colitis]], [[ibd-in-malignancy]], [[gastroenteropancreatic-neuroendocrine-tumors]], [[colorectal-esd]], [[endoscopic-submucosal-dissection]], [[capsule-endoscopy]], [[endoscopic-mucosal-resection]], [[endoscopic-full-thickness-resection]], [[acute-lower-gi-bleeding]], [[endoscopic-oncology]], [[gastric-outlet-obstruction]], [[ostomy-management]]
+[[colorectal-cancer-screening]], [[early-onset-colorectal-cancer]], [[colorectal-polyposis]], [[colonoscopy]], [[polypectomy]], [[lynch-syndrome]], [[familial-adenomatous-polyposis]], [[mutyh-associated-polyposis]], [[serrated-polyposis-syndrome]], [[endoscopic-ultrasound]], [[colonoscopy-surveillance]], [[inflammatory-bowel-disease]], [[ulcerative-colitis]], [[ibd-in-malignancy]], [[gastroenteropancreatic-neuroendocrine-tumors]], [[colorectal-esd]], [[endoscopic-submucosal-dissection]], [[capsule-endoscopy]], [[endoscopic-mucosal-resection]], [[endoscopic-full-thickness-resection]], [[acute-lower-gi-bleeding]], [[endoscopic-oncology]], [[gastric-outlet-obstruction]], [[ostomy-management]]
 
 ---
 
@@ -436,3 +440,4 @@ The ACG 2021 and USMSTF 2021 guidelines do not supersede the FIT-specific operat
 7. [[aga-2025-endoscopic-resection-crc|AGA Clinical Practice Update on Endoscopic Resection for Early Colorectal Cancer: Commentary (2025)]]
 8. [[kanaka-2022-colonic-stent-bts-right-sided|Colonic stent as a bridge to surgery versus emergency resection for right-sided malignant large bowel obstruction: a meta-analysis]]
 9. [[usmstf-2014-lynch-syndrome|Genetic Evaluation and Management of Lynch Syndrome: A Practice Guideline from the American College of Gastroenterology]]
+10. [[aga-2020-young-adult-onset-crc|AGA 2020 Clinical Practice Update: Young Adult–Onset Colorectal Cancer Diagnosis and Management]]
