@@ -198,7 +198,7 @@ No single pathognomonic test. Diagnosis = integration of:
 
 | Treatment | Use | Notes |
 |---|---|---|
-| Budesonide CIR 9mg/day | Induction only (mild-moderate ileocecal) | NOT for maintenance; not for colonic disease; ~10–20% bioavailability |
+| [[corticosteroids-ibd\|Budesonide CIR]] 9mg/day | Induction only (mild-moderate ileocecal) | NOT for maintenance; not for colonic disease; ~10–20% bioavailability |
 | [[mesalamine-5-asa\|Mesalamine]] | NOT RECOMMENDED | No efficacy in CD (multiple RCTs) |
 | Sulfasalazine | Only mild colonic CD (weak) | Modestly effective for symptoms; no mucosal healing |
 | Dietary therapy | Low-risk, mild CD | [[nutrition-in-ibd#CDED (Partial Enteral Nutrition)\|CD exclusion diet]], [[nutrition-in-ibd#Background / Maintenance Diet\|Mediterranean diet]]; not durable; monitor closely |
@@ -216,6 +216,8 @@ No single pathognomonic test. Diagnosis = integration of:
 ---
 
 ### Moderate-Severe CD: Corticosteroids (Bridge Only)
+
+*Class page — formulations, tapers, steroid-dependence/refractoriness, adverse effects: [[corticosteroids-ibd]].*
 
 - Prednisone 40–60mg/day PO; taper 5mg/wk (total ≤3 months)
 - IV methylprednisolone 40–60mg/day for hospitalized patients

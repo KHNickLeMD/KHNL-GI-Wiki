@@ -246,7 +246,7 @@ Idiopathic chronic inflammatory disorder of the large intestine. Continuous muco
 | Adalimumab | Anti-TNF | Strong/Moderate | Lower efficacy than vedolizumab (VARSITY) |
 | Golimumab | Anti-TNF | Strong/Moderate | SQ only |
 | Tofacitinib 10 mg BID | JAK (pan) | Strong/Moderate | US label restricts to **after anti-TNF failure**; caution with CV/VTE risk factors (ORAL Surveillance) |
-| Budesonide MMX 9 mg/day | Topical steroid | Strong/Moderate | **Moderately** active only — in severely active disease use systemic steroids |
+| [[corticosteroids-ibd\|Budesonide MMX]] 9 mg/day | Topical steroid | Strong/Moderate | **Moderately** active only — in severely active disease use systemic steroids |
 | Oral prednisone | Systemic steroid | Strong/Low | Bridge only; may be **omitted entirely** when another effective induction strategy is planned (KC 25d) |
 
 **Against for induction:**
