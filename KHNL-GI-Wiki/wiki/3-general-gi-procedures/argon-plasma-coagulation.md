@@ -3,7 +3,7 @@ title: "Argon Plasma Coagulation (APC)"
 category: general-procedure
 tags: [argon-plasma-coagulation, apc, endoscopic-hemostasis, thermal-therapy, ablation, gave, angioectasia, radiation-proctopathy]
 created: 2026-07-24
-updated: 2026-09-06
+updated: 2026-09-08
 sources: [asge-2019-radiation-proctopathy, asge-2010-anorectal-disorders, asge-2014-lgib, acg-2023-lgib, acg-2021-ugib, acg-2015-small-bowel-bleeding, asge-2017-small-bowel-bleeding, aga-2024-ida-management, baveno-viii-2026-portal-hypertension, baveno-vii-2022-portal-hypertension, usmstf-2020-endoscopic-removal, asge-2020-endoscopic-removal, asge-2015-ampullary-duodenal-adenomas, asge-2018-barretts-eet, aga-2024-barretts-eet, asge-2016-antithrombotic, aga-2026-electrosurgery]
 ---
 
@@ -65,18 +65,22 @@ Non-contact thermal ablation: monopolar current delivered to tissue through a je
 
 ### Settings by Site
 
-| Site / indication | Power | Argon flow | Source |
-|---|---|---|---|
-| Rectum — chronic radiation proctopathy | 25–80 W (median 50 W) | 0.6–2.5 L/min (median 1.5 L/min) | [[asge-2019-radiation-proctopathy]] |
-| Colon — angioectasias | 20–40 W typically | 0.8–1.0 L/min typically | [[acg-2023-lgib]] |
-| Right colon (thin-walled) — older figures | 30–45 W | 1 L/min | [[asge-2014-lgib]] |
-| Ampulla / duodenum — residual adenoma | 50–60 W | not stated | [[asge-2015-ampullary-duodenal-adenomas]] |
+| Site / indication | Power | Argon flow | Probe–mucosa distance | Source |
+|---|---|---|---|---|
+| Rectum — chronic radiation proctopathy | 25–80 W (median 50 W) | 0.6–2.5 L/min (median 1.5 L/min) | not stated | [[asge-2019-radiation-proctopathy]] |
+| Colon — angioectasias | 20–40 W typically | 0.8–1.0 L/min typically | not stated | [[acg-2023-lgib]] |
+| Right colon (thin-walled) — older figures | 30–45 W | 1 L/min | **1–3 mm**, 1–2 s pulses | [[asge-2014-lgib]] |
+| **Duodenal and gastric ulcer bleeding** | **40–70 W** | **1–2 L/min** | **2–10 mm** | [[acg-2021-ugib]] |
+| Ampulla / duodenum — residual adenoma | 50–60 W | not stated | not stated | [[asge-2015-ampullary-duodenal-adenomas]] |
 
+- **Ulcer row, verbatim:** *"APC in supporting RCTs was performed using gas flow settings of 1–2 L/min and power settings of 40–70 W for duodenal and gastric ulcers with distance between probe and mucosa of 2–10 mm. Frequent suction to remove smoke and reduce distension is recommended"* ([[acg-2021-ugib]]). Note what this is: a **description of the settings the RCTs behind the conditional recommendation used**, not a graded recommendation about settings.
+- ⚠ **Probe distance differs by site — 1–3 mm vs 2–10 mm, and both are correct.** [[asge-2014-lgib|ASGE 2014]] gives **1–3 mm** for colonic angioectasias, where the target is a thin superficial vessel in the **thin-walled right colon** and power is deliberately kept low; [[acg-2021-ugib|ACG 2021]] reports **2–10 mm** as what the ulcer-bleeding RCTs used at **40–70 W** in the thicker-walled stomach and duodenum. Higher power plus a thicker wall tolerates — and needs — a longer arc. **Read the distance together with the power and the site; never carry one site's figure to another.**
 - Flow rate did **not** change proctopathy outcomes: clinical success 87% at 1 L/min vs 86% at >1 L/min ([[asge-2019-radiation-proctopathy]]).
 
 ### Technique Points
 
-- **Short non-contact applications of 1–2 seconds** to the target tissue ([[asge-2019-radiation-proctopathy]]); probe held **1–3 mm** from the mucosal surface, fired in 1- to 2-second pulses ([[asge-2014-lgib]]).
+- **Short non-contact applications of 1–2 seconds** to the target tissue ([[asge-2019-radiation-proctopathy]]). **Probe distance is site-specific** — 1–3 mm for colonic angioectasias, 2–10 mm in the ulcer-bleeding trials; see the [[#Settings by Site]] table rather than carrying a single number.
+- **Suction frequently to clear smoke and reduce distension** during ulcer-bleeding APC ([[acg-2021-ugib]]).
 - **Target individual vessels — do not "paint."** Painting produces large confluent ulcers ([[asge-2019-radiation-proctopathy]]).
 - **Sessions:** proctopathy — mean/median 1–3.7 sessions to control bleeding; interval 2–8 weeks, most studies **3–4 weeks** to let injured mucosa heal ([[asge-2019-radiation-proctopathy]]).
 - **Adequate bowel preparation is required** before APC in the colon/rectum ([[asge-2019-radiation-proctopathy]]).

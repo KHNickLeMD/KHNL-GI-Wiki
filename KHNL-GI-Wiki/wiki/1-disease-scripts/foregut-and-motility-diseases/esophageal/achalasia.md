@@ -3,7 +3,7 @@ title: "Achalasia"
 category: disease-script
 tags: [achalasia, esophageal-motility, dysphagia, hrm, poem, heller-myotomy, pneumatic-dilation, foregut]
 created: 2026-05-15
-updated: 2026-09-03
+updated: 2026-09-08
 sources: [acg-2020-achalasia, asge-2020-achalasia, sages-2021-poem, sages-2024-poem, aga-2024-poem-advances, aga-2024-esophageal-immunity-infection, chicago-v4-2021-esophageal-dysmotility]
 ---
 
@@ -161,7 +161,7 @@ flowchart TD
     F -->|"Type III"| J["POEM preferred<br/>93% vs 71% LHM<br/>(tailored long myotomy)"]
     H & I & J --> K["Post-therapy TBE ± endoscopy<br/>Eckardt Score"]
     K --> L{"Recurrent<br/>symptoms?"}
-    L -->|PD/LHM failed| M["POEM → 94% success<br/>or PD post-POEM"]
+    L -->|PD/LHM failed| M["POEM (62% vs PD 27% in the<br/>only RCT after failed LHM)<br/>or PD post-POEM"]
     L -->|All failed + megaesophagus| N["Esophagectomy<br/>high-volume center only"]
     style J fill:#2d5a8a,color:#fff
     style E fill:#6b4a2a,color:#fff
@@ -211,7 +211,7 @@ flowchart TD
 - Myotomy length tailored to spastic segment (especially Type III) — key advantage over LHM
 - Success: >90% in prospective cohorts; 92% at 2 years in the Ponds RCT; equivalent to LHM (83% vs 82%)
 - **Type III: 93% success vs 71% for LHM** (Conditional; Low evidence)
-- **Higher GERD incidence:** 39% abnormal pH monitoring vs 17% for LHM; 29% erosive esophagitis. AGA 2024 CPU: abnormal acid exposure **41–56%**, esophagitis **41–65%**; **~¼ asymptomatic** → symptoms alone insufficient
+- **Higher GERD incidence.** [[acg-2020-achalasia|ACG 2020]], paired 2018 meta-analysis (1,542 POEM vs 2,581 LHM-with-fundoplication): abnormal acid exposure on pH monitoring **39.0% (95% CI 24.5–55.8%) POEM vs 16.8% (10.2–26.4%) LHM**; esophagitis **29.4% (18.5–43.3%) vs 7.6% (4.1–13.7%)**. The newer [[aga-2024-poem-advances|AGA 2024]] CPU raises the POEM figures to **abnormal acid exposure 41–56%, esophagitis 41–65%**, with **~¼ asymptomatic** → symptoms alone insufficient. **Newer tier-1 wins for the POEM rate (41–56%); keep ACG's 39.0% only when quoting it against its own 16.8% comparator** — the two must come from the same analysis. Full adjudication on [[heller-myotomy#Contradictions]].
 - Empiric acid suppression in immediate post-POEM period, continue **≥3–6 months**; [[ambulatory-reflux-monitoring|objective reflux testing]] **6–12 months** post-POEM (off-PPI if GERD in question; on-PPI if GERD established or esophagitis [[reflux-testing|LA grade]] ≥B)
 - Screen post-POEM patients for erosive esophagitis and [[barretts-esophagus|Barrett's esophagus]]
 - Advise patients lifelong PPI may be needed
@@ -256,7 +256,7 @@ flowchart TD
 
 **Failed LHM or POEM → PD:** Safe and effective (89% success post-LHM, comparable post-POEM). (Strong; Moderate evidence)
 
-**Failed PD or LHM → POEM:** Safe option; 94% clinical success post-LHM at 12 months. (Strong; Low evidence) AGA 2024 CPU: POEM may be superior to PD after failed initial POEM/LHM — RCT after failed LHM showed **POEM 62% vs PD 27%** success, no difference in esophagitis/reflux/adverse events.
+**Failed PD or LHM → POEM:** ACG's graded statement covers **safety** only (*Strong; Low*); its 94% (51-patient prospective registry) and 95.7% (46-patient case series) are **uncontrolled single-arm** rates. The **only randomized comparison** — reported by the newer [[aga-2024-poem-advances|AGA 2024]] CPU — is **POEM 62% vs PD 27%** after failed LHM, with no difference in esophagitis, reflux symptoms, PPI use, or serious adverse events. **Counsel from the RCT figure**; see [[poem#Management After Failed Myotomy]].
 
 **Failed PD + POEM → LHM:** Consider if incomplete myotomy and favorable anatomy (before esophagectomy). (Strong; Very low evidence)
 

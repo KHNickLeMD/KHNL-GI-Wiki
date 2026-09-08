@@ -3,8 +3,8 @@ title: "Pneumatic Dilation"
 category: advanced-procedure
 tags: [achalasia, pneumatic-dilation, rigiflex, esophageal-motility, les, perforation, foregut]
 created: 2026-08-30
-updated: 2026-09-05
-sources: [acg-2020-achalasia, asge-2020-achalasia, sages-2024-poem]
+updated: 2026-09-08
+sources: [acg-2020-achalasia, asge-2020-achalasia, sages-2024-poem, aga-2024-poem-advances]
 ---
 
 Pneumatic dilation (PD) is the forceful, balloon-mediated disruption of the **muscularis propria** of the lower esophageal sphincter (LES) — the only dilation that works in [[achalasia|achalasia]]. **Standard (through-the-scope / bougie) dilators are not effective**, because they do not disrupt the muscularis propria ([[acg-2020-achalasia]]).
@@ -97,9 +97,12 @@ Cumulative good-to-excellent symptom relief, average follow-up **1.6 years** (ra
 
 ## Retreatment and Salvage
 
-- **PD after failed [[heller-myotomy|LHM]]: 89% success; safe** ([[acg-2020-achalasia]], Strong/Moderate).
-- **[[poem|POEM]] after failed PD or LHM: 94%–95.7% success** (Strong/Low).
-- PD can also be used after failed POEM.
+*Every number here comes from a different study design — quote the design with the number.*
+
+- **PD after failed [[heller-myotomy|LHM]]: 89% success** — **systematic review**, 87 post-LHM patients, mean **2.5** dilations (range 1–3) at mean 26-month intervals; complications extremely low. The graded statement is *"PD is an appropriate and safe treatment option for patients with achalasia post-initial surgical myotomy or POEM in need of retreatment"* (*Strong; Moderate*, [[acg-2020-achalasia]]).
+- **[[poem|POEM]] after failed PD or LHM: 94%–95.7%** — **uncontrolled single-arm** figures (a 51-patient prospective multicentre registry and a 46-patient case series; both Eckardt ≤3). ACG's graded statement covers **safety only**: *"POEM is a safe option in patients with achalasia who have previously undergone PD or LHM"* (*Strong; Low*).
+- ⚠ **PD vs POEM head to head, after failed LHM: PD 27% vs POEM 62%** — the **only RCT** in this setting, reported by the newer [[aga-2024-poem-advances|AGA 2024]] CPU (BPA 12); no difference in esophagitis, reflux symptoms, PPI use, or serious adverse events. **This is the number to counsel from when choosing between PD and POEM for a failed myotomy** — the 89% and 94–95.7% above are single-arm rates from different cohorts and cannot be compared with each other. Decision remains shared, weighing post-procedural reflux, need for repeat intervention, local expertise, and preference.
+- PD can also be used after failed POEM — retrospective observational data only; ACG expects it to remain effective by analogy to the post-LHM experience.
 - Prior **botulinum toxin** injection does not significantly affect subsequent myotomy performance or outcomes.
 
 ---
@@ -115,3 +118,4 @@ Cumulative good-to-excellent symptom relief, average follow-up **1.6 years** (ra
 1. [[acg-2020-achalasia|ACG 2020: Diagnosis and Management of Achalasia]]
 2. [[asge-2020-achalasia|ASGE Guideline: Management of Achalasia (2020)]]
 3. [[sages-2024-poem|SAGES Guideline Update: Peroral Endoscopic Myotomy (POEM) for Achalasia (2024)]]
+4. [[aga-2024-poem-advances|AGA Clinical Practice Update on Advances in Per-Oral Endoscopic Myotomy (POEM) and Remaining Questions—What We Have Learned in the Past Decade: Expert Review]]

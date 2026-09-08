@@ -3,7 +3,7 @@ title: "Immune Checkpoint Inhibitor Colitis (ICI Enterocolitis)"
 category: disease-script
 tags: [ici, immunotherapy, irae, colitis, enterocolitis, checkpoint-inhibitor, oncology, infliximab, vedolizumab, budesonide]
 created: 2026-09-04
-updated: 2026-09-06
+updated: 2026-09-08
 sources: [aga-2021-ici-colitis-hepatitis]
 ---
 
@@ -170,7 +170,7 @@ Both are effective; **no data distinguish them**, so the choice rests on other r
 **Failing both biologics** — not well established. Reported/considered options:
 
 - **FMT** — reported in 2 such patients ([[fmt]])
-- **Ustekinumab** (p40 inhibitor), **tofacitinib** (JAK inhibitor), **abatacept** (CTLA-4-Ig) — may be considered in life-threatening cases, but each carries substantial risk of interfering with antitumor responses based on its mechanism
+- **Ustekinumab** (p40 inhibitor), **[[jak-inhibitors|tofacitinib]]** (JAK inhibitor), **abatacept** (CTLA-4-Ig) — may be considered in life-threatening cases, but each carries substantial risk of interfering with antitumor responses based on its mechanism
 
 ### Budesonide (BPA 7) — the two opposite answers
 
@@ -206,7 +206,7 @@ From a >100-patient multicenter retrospective analysis (evenly split UC/Crohn's,
 
 ## See Also
 
-[[immune-checkpoint-inhibitor-hepatitis]], [[microscopic-colitis]], [[ulcerative-colitis]], [[crohns-disease]], [[inflammatory-bowel-disease]], [[acute-diarrhea]], [[chronic-diarrhea]], [[clostridioides-difficile]], [[celiac-disease]], [[colon-ischemia]], [[anti-tnf-agents]], [[vedolizumab]], [[fmt]], [[colonoscopy]], [[upper-endoscopy]], [[chronic-hepatitis-b]], [[ibd-in-malignancy]], [[exocrine-pancreatic-insufficiency]], [[ostomy-management]]
+[[immune-checkpoint-inhibitor-hepatitis]], [[microscopic-colitis]], [[ulcerative-colitis]], [[crohns-disease]], [[inflammatory-bowel-disease]], [[acute-diarrhea]], [[chronic-diarrhea]], [[clostridioides-difficile]], [[celiac-disease]], [[colon-ischemia]], [[anti-tnf-agents]], [[vedolizumab]], [[fmt]], [[colonoscopy]], [[upper-endoscopy]], [[chronic-hepatitis-b]], [[ibd-in-malignancy]], [[exocrine-pancreatic-insufficiency]], [[ostomy-management]], [[jak-inhibitors]]
 
 ---
 

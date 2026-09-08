@@ -3,7 +3,7 @@ title: "USMSTF 2020: Endoscopic Removal of Colorectal Lesions"
 category: source
 tags: [colonoscopy, polypectomy, emr, esd, colorectal, crc-prevention, advanced-polypectomy]
 created: 2026-05-07
-updated: 2026-05-28
+updated: 2026-09-08
 sources: []
 ---
 
@@ -26,11 +26,11 @@ Comprehensive consensus on optimal techniques for endoscopic removal of colorect
 
 - Document: location, size (mm), Paris classification for all lesions ≥10mm
 - Photo document all ≥10mm lesions before removal; suggest photo of post-resection defect
-- Paris 0-IIc (depressed): 27–36% risk of submucosal invasion (SMI); >40% for small depressed lesions
-- LST-NG-PD: highest SMI risk among LSTs (31.6%)
-- NICE type 3 or Kudo Vn = deep (>1000μm) SMI → cold biopsy + tattoo + surgical referral
-- Non-lifting sign = SMI or submucosal fibrosis (prior cautery, colitis)
-- Proficiency in NBI/electronic chromoendoscopy for optical diagnosis recommended
+- Paris 0-IIc (depressed): uncommon (1%–6% of non-polypoid lesions) but highest SMI risk — **27%–35.9%** overall vs **0.7%–2.4%** for flat (0-IIa); **>40%** of small (6–10 mm) 0-IIc lesions contain submucosal invasive cancer; virtually all >20 mm 0-IIc lesions have SMI
+- LST-G-H lowest SMI risk (**0.5%**, 95% CI 0.1%–1.0%); **LST-NG-PD highest (31.6%**, 95% CI 19.8%–43.4%)
+- NICE type 3 or Kudo Vn = deep (>1000 μm) SMI → cold biopsy + tattoo + surgical referral *(narrative body text — ungraded)*
+- Non-lifting sign = SMI or submucosal fibrosis (prior cautery, colitis) *(narrative body text — ungraded)*
+- Proficiency in image-enhanced endoscopy for optical diagnosis — *Conditional, moderate-quality*; proficiency in recognizing deep SMI — *Strong, moderate-quality*
 
 ### Resection by Lesion Type
 
@@ -79,41 +79,16 @@ Comprehensive consensus on optimal techniques for endoscopic removal of colorect
 
 ## Recommendations
 
-| Recommendation | Strength | Evidence Quality |
-|---|---|---|
-| **Lesion Assessment** | | |
-| Document location, size (mm), and Paris classification for all colorectal lesions >=10 mm | Strong | High |
-| Photo-document all colorectal lesions >=10 mm before removal; suggest photo of post-resection defect | Strong | Moderate |
-| NICE type 3 or Kudo type V (VN/VI) = deep submucosal invasion: cold biopsy + tattoo + surgical referral for non-pedunculated lesions; polypectomy for pedunculated lesions | Strong | Moderate |
-| Develop proficiency in NBI or electronic chromoendoscopy for optical diagnosis | Weak | Low |
-| Consider non-lifting sign as marker of submucosal invasion or submucosal fibrosis | Weak | Moderate |
-| **Resection by Lesion Size and Type** | | |
-| Use cold snare polypectomy as preferred method for diminutive colorectal polyps (<=5 mm) | Strong | High |
-| Do not use cold forceps polypectomy for polyps >2 mm | Strong | Moderate |
-| Do not use hot biopsy forceps for any colorectal polypectomy | Strong | Moderate |
-| Use cold snare polypectomy for small (6-9 mm) colorectal polyps | Strong | Moderate |
-| For non-pedunculated 10-19 mm: cold or hot snare +/- injection acceptable; prefer EMR for non-polypoid/serrated/LST lesions | Weak | Low |
-| For non-pedunculated lesions >=20 mm: use EMR by experienced endoscopist before surgical referral | Strong | Moderate |
-| For pedunculated polyps with head >=10 mm: use hot snare resection | Strong | Moderate |
-| Use prophylactic ligation before hot snare resection of pedunculated polyps with head >=20 mm or stalk >=5 mm | Weak | Moderate |
-| **EMR Technique** | | |
-| Use viscous submucosal injectant for inject-and-cut EMR of lesions >=20 mm | Strong | Moderate |
-| Add indigo carmine or methylene blue to injectant for visualization | Weak | Low |
-| Do not use tattoo as submucosal injectant | Strong | High |
-| Use adjuvant thermal ablation of EMR margins after complete visual resection | Strong | Moderate |
-| Do not ablate visible residual tissue; residual tissue must be resected | Strong | Moderate |
-| Use prophylactic clip closure of EMR defects >=20 mm in the right colon | Weak | Moderate |
-| **ESD and Advanced Resection** | | |
-| Colorectal ESD for selected indications: lesions >=20 mm with suspected superficial SMI, submucosal fibrosis, local recurrent early carcinoma, colitis-associated dysplasia | Weak | Low |
-| **Marking and Tattoo** | | |
-| Use sterile carbon particle suspension for marking lesions needing future localization | Strong | High |
-| Place tattoo 3-5 cm distal to lesion; do not inject at or near the lesion | Strong | Moderate |
-| **Post-EMR Surveillance** | | |
-| Surveillance [[colonoscopy]] after piecemeal EMR >=20 mm: 6 months, then 1 year, then 3 years | Strong | Moderate |
-| At surveillance: use enhanced imaging (chromoendoscopy or NBI) + targeted biopsies at scar site | Strong | Moderate |
-| **Quality** | | |
-| Use endoscopy as first-line treatment for all benign colorectal lesions before surgical referral | Strong | High |
-| Refer to advanced polypectomy endoscopist (not surgery) when local removal not feasible | Strong | Moderate |
+⚠ **Source-fidelity correction (2026-09-08).** This page previously carried a 26-row grade table. An audit against both raw printings (*Gastroenterology* 2020;158:1095 and *GIE* 2020;91:486) found **17 of its 26 rows misstated the strength or evidence quality**, and **4 attached a GRADE rating to text the document never graded at all** (the NICE 3 / Kudo Vn management algorithm, the non-lifting sign, the colorectal ESD indications, and "endoscopy is first-line for benign lesions" — all four are narrative body text or an ungraded section preamble).
+
+The table has been removed rather than re-typed here, because duplicating it invited the two pages to drift apart — which is exactly what happened: this page still asserted a fabricated *"Weak; low-quality"* grade for colorectal ESD after that same fabrication had already been corrected on [[asge-2020-endoscopic-removal]].
+
+**The document's 43 graded statements now live in one place, verbatim, with their true GRADE ratings: [[asge-2020-endoscopic-removal]] → *Statements of Best Practice (Table 1)*.** Its ungraded narrative content is filed there under *Narrative Content (Not Graded)*.
+
+Two facts to carry when citing this document anywhere:
+
+- **It has no numbered recommendations.** Guidance is 43 unnumbered bullets under 6 named "Statements". Any "Rec N" citation to this source is a wiki-side invention.
+- **Strength is "Strong" or "Conditional"**, never "weak"; quality is very low / low / moderate / high. Per the document's Table 3, *"recommend"* = strong and *"suggest"* = conditional.
 
 ## Relevance to Wiki
 
@@ -124,9 +99,10 @@ Comprehensive consensus on optimal techniques for endoscopic removal of colorect
 
 - Optimal role of underwater EMR vs inject-and-cut not yet established
 - Cold snare EMR (without electrocautery) for large lesions: promising but long-term data lacking
-- ESD indications remain limited in colorectum; evidence still evolving
-- Antithrombotic management for ≥20mm EMR: individualized, no strong data
+- ESD indications remain limited in colorectum; evidence still evolving — and are **narrative text, not a graded recommendation**
+- Antithrombotic management for ≥20mm EMR: explicitly individualized (*Conditional, low-quality*), no strong data
+- Two internal inconsistencies in the published document (cold snare polypectomy graded *high* in Table 1 but *moderate* in the body; one bullet worded "we suggest" yet labelled Strong) are documented on [[asge-2020-endoscopic-removal]]
 
 ## See Also
 
-[[polypectomy]], [[endoscopic-mucosal-resection]], [[colorectal-esd]], [[colonoscopy]]
+[[asge-2020-endoscopic-removal]], [[polypectomy]], [[endoscopic-mucosal-resection]], [[colorectal-esd]], [[colonoscopy]]

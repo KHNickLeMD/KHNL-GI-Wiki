@@ -3,8 +3,8 @@ title: "Gastroparesis"
 category: disease-script
 tags: [gastroparesis, gastric-motility, prokinetics, g-poem, gastric-emptying, foregut]
 created: 2026-05-15
-updated: 2026-09-03
-sources: [acg-2022-gastroparesis, aga-2025-gastroparesis, surjanhata-2025-constipation-gastroparesis]
+updated: 2026-09-08
+sources: [acg-2022-gastroparesis, aga-2025-gastroparesis, aga-2021-medically-refractory-gastroparesis, surjanhata-2025-constipation-gastroparesis]
 ---
 
 ## Contents
@@ -29,6 +29,7 @@ sources: [acg-2022-gastroparesis, aga-2025-gastroparesis, surjanhata-2025-consti
   - [[#3. Nutritional Support]]
   - [[#4. Prokinetic Agents]]
   - [[#5. Antiemetics]]
+  - [[#5b. Abdominal Pain — Neuromodulators, and the Opioid Prohibition]]
   - [[#6. Agents NOT Recommended]]
   - [[#7. Pyloric Therapies]]
   - [[#8. Gastric Electrical Stimulation (GES)]]
@@ -57,6 +58,17 @@ sources: [acg-2022-gastroparesis, aga-2025-gastroparesis, surjanhata-2025-consti
 - Opioids, cannabinoids, and many medications (cardiovascular agents, acid suppressants) retard GE and must be excluded as causes
 - Opioids worsen GP and should NOT be used to treat pain in GP — tramadol (retards orocecal transit) and tapentadol (retards GE) included; opioid use is associated with worse outcomes
 - Retained gastric food on upper endoscopy has a PPV of only 55% for delayed GE overall (32% without risk factors, 79% in type 1 DM) — not diagnostic alone
+
+**Physical examination — four findings that name a mimic** ([[aga-2021-medically-refractory-gastroparesis|AGA 2022 refractory CPU]] BPA 1). Examine before escalating; each points somewhere other than gastroparesis:
+
+| Finding | Suggests |
+|---|---|
+| **Succussion splash** | Delayed emptying **or** [[gastric-outlet-obstruction\|gastric outlet obstruction]] |
+| **Bruit over the right upper quadrant** | **Celiac artery compression syndrome** — evaluate initially with **mesenteric duplex** |
+| **Digital ulcers and telangiectasia** | **Scleroderma** |
+| **Ascites, a mass, or enlarged lymph nodes** | **Underlying malignancy** |
+
+**Baseline labs when not recently done** (same source): complete blood count, liver chemistries, basic metabolic profile. **Correct electrolyte derangements** — common with persistent vomiting. **TSH** if hypothyroidism is a concern. ⚠ **Hyperkalemia + metabolic acidosis may indicate adrenal insufficiency** → screen with a **fasting cortisol**.
 
 ### Severity Assessment (GCSI, symptom domains)
 
@@ -94,6 +106,19 @@ sources: [acg-2022-gastroparesis, aga-2025-gastroparesis, surjanhata-2025-consti
 - Degree of GE delay does not reliably correlate with symptom severity (symptom-physiology dissociation is common)
 - Among diabetics, the strongest association with delayed GE is early satiety/fullness, not nausea/vomiting
 - Severity is inversely correlated with quality of life; GP carries significant healthcare burden (hospitalizations, economic impact, increased morbidity/mortality)
+
+**Severity by 4-hour scintigraphic retention** — the only numeric banding in the corpus, and the one BPA 8 conditions on ([[aga-2021-medically-refractory-gastroparesis|AGA 2022 refractory CPU]] BPA 3):
+
+| Severity | Gastric retention at 4 hours on scintigraphy |
+|---|---|
+| **Mild** | **10%–15%** |
+| **Moderate** | **15%–35%** |
+| **Severe** | **>35%** |
+
+- **Classify on symptoms *and* the properly performed emptying study** — BPA 3 requires both, not the scan alone.
+- ⚠ **Attributed to "some investigators" and explicitly "not validated in large, prospective studies."** Use it to communicate degree of delay, not as a hard eligibility gate on its own.
+- ⚠ **The bands overlap at 15% as printed in the source**, which does not state which side 15% falls on. Not resolved here — the source does not say.
+- This is a **different axis** from the ~20%-retention candidacy threshold [[aga-2025-gastroparesis|AGA 2025]] uses for [[g-poem|G-POEM]] selection (see *Pyloric Therapies*); the two are not interchangeable.
 
 **Nutritional staging:**
 
@@ -245,6 +270,19 @@ Recommendations 9–12 all condition on *refractory* disease. AGA 2025 defines i
 
 Before labelling a patient refractory: re-confirm the accuracy of the diagnosis, evaluate for coexisting conditions driving the predominant symptom, assess nutritional status, and manage multidisciplinarily (PCP, gastroenterologist, dietitian; endocrinologist in diabetes; interventional endoscopist and foregut surgeon in select cases) [[aga-2025-gastroparesis]].
 
+> ⚠ **Two tier-1 AGA definitions exist and they do not match. AGA 2025 governs the gate; the 2022 CPU supplies the trial durations AGA 2025 omits.**
+
+| | [[aga-2025-gastroparesis\|AGA 2025]] (governs) | [[aga-2021-medically-refractory-gastroparesis\|AGA 2022 refractory CPU]] |
+|---|---|---|
+| **Symptoms** | Cardinal symptoms **predominant** | **Persistent** symptoms; nausea/vomiting generally predominate, but *"all symptoms should be considered"* |
+| **Objective test** | Delayed emptying, no alternative explanation | Objectively confirmed emptying delay |
+| **What must have failed** | **≥2 medical treatments, including a prokinetic *and* an antiemetic** | **Dietary adjustment *and* metoclopramide** as first-line agent |
+| **How long each trial must run** | *not specified* | **Small-particle, reduced-fat diet ≥4 weeks**; **metoclopramide ≥10 mg TID before meals + at bedtime for ≥4 weeks** |
+| **Exclusion** | *not specified in the definition* | Symptoms must **not be medication induced** (e.g. opioids, [[glp-1-receptor-agonists\|GLP-1 agonists]]) |
+
+- **Use in practice:** apply AGA 2025's ≥2-treatment gate, but hold each first-line trial to the **4-week** minimum the CPU specifies — otherwise "failed metoclopramide" can mean a few days. The CPU concedes the 4 weeks is *"based on limited data and no agreed upon standards"* and that RCT evidence for longer interventions is not available.
+- **The exclusion is the one most often missed:** a patient on opioids or a GLP-1 agonist is **not** refractory until the drug is addressed.
+
 ### 1. Dietary Modification (First-Line)
 
 - **Small particle, low-fat diet** (GRADE Conditional, Low evidence):
@@ -334,6 +372,48 @@ Before labelling a patient refractory: re-confirm the accuracy of the diagnosis,
 - **Tradipitant (NK1 antagonist) 85 mg bid:** significant reduction in nausea score vs. placebo at 4 weeks (Carlin 2021); promising but not yet FDA-approved for GP
 - **Cannabis/marijuana:** patient-reported as effective; evidence insufficient for guideline recommendation; note that cannabinoids directly retard GE
 
+**Dosing — antiemetic options for refractory symptoms** ([[aga-2021-medically-refractory-gastroparesis|AGA 2022 refractory CPU]] Table 1). ⚠ **Metoclopramide is the only FDA-approved drug for gastroparesis; every agent below is off-label.**
+
+| Agent | Dose |
+|---|---|
+| Ondansetron | 4–8 mg bid or tid |
+| Granisetron | 1 mg bid |
+| Granisetron patch | 34.3 mg patch weekly (delivers 3.1 mg/24 h) |
+| Prochlorperazine | 5–10 mg qid |
+| Chlorpromazine | 10–25 mg tid or qid |
+| Meclizine | 12.5–25 mg tid |
+| Scopolamine | 1.5 mg patch every 3 days |
+| Dimenhydrinate | 25–50 mg tid |
+| Diphenhydramine | 12.5–25 mg tid |
+| Trimethobenzamide | 300 mg tid |
+| Aprepitant | 80 mg/day ⚠ |
+| Ginger | 1 g bid |
+
+- ⚠ **Aprepitant dose conflicts inside the source itself** — Table 1 gives 80 mg/day; the body text describes the RCT dose as 125 mg/day.
+- **5-HT3 agents have similar efficacy — choose on price, availability, and route** (ondansetron parenteral/enteral; granisetron liquid, tablet, patch). Transdermal granisetron **cut symptom scores by 50%** in refractory gastroparesis symptoms.
+- **NK-1 antagonists improve nausea whether or not emptying is delayed** — a reminder that response does not confirm the diagnosis. Up to **one-third** of patients with troublesome nausea may benefit, *"provided costs are affordable."*
+- **Phenothiazines have never been studied in gastroparesis** or compared prospectively with other antiemetics. **Scopolamine** is used off-label *"despite lack of supporting clinical studies."* **Ginger** has not been prospectively evaluated in refractory disease.
+- **Levosulpiride** improved both symptoms and gastric emptying in a controlled trial of 40 diabetic patients.
+
+### 5b. Abdominal Pain — Neuromodulators, and the Opioid Prohibition
+
+**BPA 6: consider neuromodulators for gastroparesis-associated abdominal pain, but do not use opioids** ([[aga-2021-medically-refractory-gastroparesis|AGA 2022 refractory CPU]]). **Noradrenaline reuptake inhibition — supplied by TCAs and SNRIs — is considered the main mechanism for controlling visceral pain.**
+
+| Agent | Dose | Evidence as stated |
+|---|---|---|
+| Amitriptyline | 25–100 mg/day | Tertiary amine. Improved FD **without slowing gastric emptying**; more effective than escitalopram, especially with epigastric pain and **normal** emptying |
+| Imipramine | 25–100 mg/day | Tertiary amine |
+| Desipramine | 25–75 mg/day | Secondary amine — fewer side effects than tertiary amines |
+| Nortriptyline | 25–100 mg/day | ⚠ **Negative RCT** (see below) |
+| Duloxetine (SNRI) | 60–120 mg/day | Improved diabetic polyneuropathic pain vs placebo over 12 weeks; **nausea or constipation can develop or worsen** |
+| Gabapentin | >1200 mg/day divided | Second-tier evidence in neuropathic pain; ⚠ industry selective outcome reporting has questioned it |
+| Pregabalin | 100–300 mg/day divided | 7 RCTs / 1510 patients with neuropathic pain; side effects: dizziness, somnolence, weight gain, peripheral edema |
+| Mirtazapine | 7.5–30 mg/day | Improved refractory nausea/vomiting (cohort of 30); improved **early satiation** in FD |
+
+- ⚠ **The only neuromodulator RCT in gastroparesis was negative.** The **NORIG** trial of nortriptyline (titrated to 75 mg) found **no difference from placebo** on a strict primary outcome of 50% reduction in 2 consecutive GCSI assessments. Table 1's own footnote adds that nortriptyline *"was not found to be effective in idiopathic gastroparesis,"* untested prospectively in diabetic disease. The CPU's argument for **tertiary** amines instead is **extrapolated from FD**, not from gastroparesis data — treat as low-quality evidence. This is consistent with AGA 2025's *against nortriptyline as first-line*.
+- **SSRIs will not treat the pain** — they do not block norepinephrine reuptake; they treat coexisting anxiety and depression only.
+- ⚠ **Opioids — do not use for chronic visceral pain in gastroparesis.** They **further delay gastric emptying**, **increase the risk of narcotic bowel syndrome**, and create **addiction, tolerance and overdose** potential. Opioid use also **contraindicates GES** and degrades the emptying study itself (perform it **off opioids**).
+
 ### 6. Agents NOT Recommended
 
 | Agent | Recommendation | Strength | Source | Rationale / who may still reasonably use it |
@@ -367,6 +447,12 @@ Before labelling a patient refractory: re-confirm the accuracy of the diagnosis,
 - **vs. Laparoscopic pyloroplasty:** comparable clinical success (G-POEM 75.8% vs. LP 77.3%); G-POEM has fewer complications, shorter hospital stay, less blood loss
 - **Adverse events:** pooled rate 6.8%–12%; most common = capnoperitoneum (usually managed conservatively); rare mucosotomy, delayed bleeding, ulcer, pyloric stenosis
 - **Predictor of failure:** high preoperative gastric retention at 4 hours; EndoFLIP-assessed reduced DI may predict success
+- **Where it may be done, and by whom** ([[aga-2021-medically-refractory-gastroparesis|AGA 2022 refractory CPU]] BPA 8): **select** refractory patients with **severe delay in gastric emptying**, at a **center of excellence / tertiary care center**, using a **team approach of motility specialists *and* advanced endoscopists** with extensive experience in refractory gastroparesis. *"G-POEM should not be considered first-line therapy."* The setting requirement is as much a part of BPA 8 as the patient criteria.
+- ⚠ **Dumping syndrome** is a theoretical hazard of G-POEM, with a deleterious effect on food tolerance and quality of life.
+
+#### Transpyloric Stent Placement
+
+- ⚠ **Investigational — not a treatment option outside study.** *"Transpyloric stent placement should be considered investigational in refractory gastroparesis for the lack of data from prospective, sham-controlled trials and concerns over stent migration, despite limited case reports describing symptom improvement"* ([[aga-2021-medically-refractory-gastroparesis|AGA 2022 refractory CPU]]).
 
 #### Surgical Pyloromyotomy / Laparoscopic Pyloroplasty (LP)
 
@@ -389,6 +475,21 @@ Before labelling a patient refractory: re-confirm the accuracy of the diagnosis,
 - **Total symptom score:** SRMA of 5 randomized trials — TSS did NOT differ on vs. off; improvement seen in open-label data only (potential placebo effect)
 - **Open-label data:** reduced hospitalizations, reduced enteral/parenteral nutrition dependence, improved QOL and weight at 1 and 3 years; HbA1c improved in diabetics at 3 years (9.5% → 7.9%)
 - **Predictors of response:** diabetic etiology responds better than idiopathic; worse vomiting at baseline predicts better response
+
+**If GES is being considered, these are the selection criteria — all four must hold** ([[aga-2021-medically-refractory-gastroparesis|AGA 2022 refractory CPU]] BPA 7):
+
+| # | Condition |
+|---|---|
+| 1 | **Refractory/intractable nausea and vomiting** |
+| 2 | **Failed standard therapy** |
+| 3 | **Not on opioids** — opioid use is a **contraindication** |
+| 4 | **Abdominal pain is not the predominant symptom** — *"persistent abdominal pain is not an indication for GES"* |
+
+> ⚠ **Guideline disagreement.** The 2022 CPU says clinicians **can consider** GES; [[aga-2025-gastroparesis|AGA 2025]] suggests **against routine** use (Conditional, Very low). **AGA 2025 governs** — GES is not a default next step. The CPU's contribution is retained as the *selection filter* to apply once a select patient is being evaluated.
+
+- **Mechanism is unknown and GES does not accelerate gastric emptying** — proposed effects via the gastric pacemaker, interstitial cells of Cajal, sensory afferents, other myoneural pathways, or peptide release. High frequency (**12 cycles per minute**), low energy stimuli; FDA approved 2000.
+- **Symptom duration matters:** refractory symptoms of **shorter duration are more likely to respond** than prolonged intractable symptoms. Diabetic-vs-idiopathic response *"remains controversial"* in this source (ACG 2022 data above favour diabetic).
+- **Temporary electrical stimulation may predict response and should be offered if available.**
 
 ### 9. Immunotherapy (Investigational)
 
@@ -423,4 +524,5 @@ Before labelling a patient refractory: re-confirm the accuracy of the diagnosis,
 
 1. [[acg-2022-gastroparesis|ACG 2022: Gastroparesis]]
 2. [[aga-2025-gastroparesis|AGA Clinical Practice Guideline: Management of Gastroparesis (2025)]]
-3. [[surjanhata-2025-constipation-gastroparesis|Impact of Constipation Therapies on Severity of Gastroparesis and Constipation Symptoms in Relation to Gastric and Colonic Transit]]
+3. [[aga-2021-medically-refractory-gastroparesis|AGA Clinical Practice Update on Management of Medically Refractory Gastroparesis: Expert Review]]
+4. [[surjanhata-2025-constipation-gastroparesis|Impact of Constipation Therapies on Severity of Gastroparesis and Constipation Symptoms in Relation to Gastric and Colonic Transit]]

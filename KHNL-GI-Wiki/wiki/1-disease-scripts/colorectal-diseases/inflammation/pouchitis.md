@@ -3,8 +3,8 @@ title: "Pouchitis"
 category: disease-script
 tags: [pouchitis, ipaa, j-pouch, ulcerative-colitis, ibd, cuffitis, crohns-like-disease-of-the-pouch, antibiotics, probiotics, biologics]
 created: 2026-06-04
-updated: 2026-09-06
-sources: [aga-2024-pouchitis, aga-2020-probiotics, asge-2015-ibd, aga-2024-fmt, aga-2026-cdiff-ibd, aga-2026-therapeutic-endoscopy-ibd]
+updated: 2026-09-08
+sources: [aga-2024-pouchitis, aga-2020-probiotics, asge-2015-ibd, aga-2024-fmt, aga-2026-cdiff-ibd, aga-2026-therapeutic-endoscopy-ibd, aga-2021-ibd-colorectal-dysplasia]
 ---
 
 Pouchitis is non-specific inflammation of the ileal pouch reservoir — the most common complication after restorative proctocolectomy with **ileal pouch–anal anastomosis (IPAA, "J-pouch")** for [[ulcerative-colitis|ulcerative colitis]]. The [[aga-2024-pouchitis|AGA 2024 guideline]] frames management by clinical pattern (intermittent → chronic antibiotic-dependent → chronic antibiotic-refractory) plus two related inflammatory pouch disorders: Crohn's-like disease of the pouch and cuffitis. [[aga-2024-pouchitis]]
@@ -77,6 +77,8 @@ Pragmatic, treatment-anchored definitions (AGA 2024, Table 5):
 - ***C. difficile* in the pouch is not a rarity — test for it.** [[aga-2026-cdiff-ibd|AGA 2026]] advises actively considering and treating CDI in any patient with an **ileo-anal pouch or [[ostomy-management|end ileostomy]]** whose diarrhea/pouch output worsens; CDI has been detected in **10%–18%** of IPAA patients. Use a **multistep toxin-based assay** (NAAT alone over-diagnoses colonization), prefer **fidaxomicin**, and **retest if diarrhea recurs** after successful treatment. Full pathway: [[clostridioides-difficile]].
 - **Endoscopic + histologic assessment of the pouch and afferent limb is recommended in symptomatic patients** ([[asge-2015-ibd]]).
 - **Pouch neoplasia surveillance** (beyond AGA 2024 scope; [[asge-2015-ibd]]): highest-risk patients — **prior colorectal dysplasia or [[colorectal-cancer|cancer]]** — considered for **annual pouchoscopy** with biopsies taken **proximally (within the pouch) and distally (anal transition zone)**. [[primary-sclerosing-cholangitis|PSC]], refractory pouchitis, and type C (atrophic, severely inflamed) pouch mucosa may also warrant surveillance.
+  - **[[aga-2021-ibd-colorectal-dysplasia|AGA 2021]] states the same rule with its risk numbers:** survey **at least annually** in those at high risk — **prior colorectal cancer or dysplasia, or PSC** — and also in those with **persistent moderate-to-severe pouchitis and/or pre-pouch ileitis** (to assess treatment response). **Individualize the interval in lower-risk patients.** Meta-analysis: prior colorectal **dysplasia → 4.4×** and prior **CRC → 15.0×** increased risk of pouch cancer. ⚠ **Without risk factors the cumulative incidence of pouch and cuff cancer is 3.4% at 25 years — lower than lifetime CRC risk in the general population**; ASGE, BSG and ECCO recommend annual surveillance only for the high-risk groups and persistent pouchitis / type C mucosa, and **BSG suggests every 5 years for those without risk factors**.
+  - Broader IBD dysplasia surveillance intervals and technique: [[ulcerative-colitis]] and [[colonoscopy]].
 
 ---
 
@@ -118,14 +120,14 @@ Pragmatic, treatment-anchored definitions (AGA 2024, Table 5):
 | TNF-α antagonists | 14 cohorts, n = 245 | **54% (42–66)** |
 | Vedolizumab | 9 cohorts, n = 194 | **52% (39–65)** |
 | Ustekinumab | 2 cohorts, n = 31 | 72% (**4–99**) |
-| Tofacitinib | 2 cohorts, n = 13 | 31% (**2–92**) |
+| [[jak-inhibitors\|Tofacitinib]] | 2 cohorts, n = 13 | 31% (**2–92**) |
 
   - Class includes: [[anti-tnf-agents|TNF antagonists]] (infliximab, adalimumab, golimumab, certolizumab pegol), vedolizumab, [[il-23-and-il-12-23-inhibitors|ustekinumab, risankizumab]], ozanimod, tofacitinib, upadacitinib. **Vedolizumab is the only agent with regulatory approval for this indication (EMA).**
   - Therapies used before colectomy may be reconsidered; a subset keeps deriving partial benefit from continued antibiotics alongside advanced therapy.
 - **Corticosteroids** also an option — oral **budesonide** or **beclomethasone**, pooled response ~**77%** (95% CI 58–88; 2 case series, n=30).
   - **Controlled ileal-release budesonide is the preferred formulation.**
   - Use for a **short duration (<8–12 weeks)**, with a steroid-sparing agent planned for anything longer.
-- **Mesalamine:** *no recommendation* (knowledge gap).
+- **[[mesalamine-5-asa|Mesalamine]]:** *no recommendation* (knowledge gap).
 
 **Crohn's-like disease of the pouch → corticosteroids + advanced immunosuppressive therapy.**
 - Both suggested; mirrors [[crohns-disease|luminal Crohn's]] management. Manage strictures/fistulas structurally as needed.
@@ -167,7 +169,7 @@ All 13 AGA 2024 statements (9 actionable conditional recommendations + 4 "no rec
 
 ## See Also
 
-[[ulcerative-colitis]], [[crohns-disease]], [[inflammatory-bowel-disease]], [[probiotics]], [[fmt]], [[colonoscopy]], [[primary-sclerosing-cholangitis]], [[clostridioides-difficile]], [[rifaximin]], [[chronic-diarrhea]], [[ibd-endoscopic-scoring]], [[disorders-of-gut-brain-interaction]], [[ostomy-management]], [[fecal-incontinence]], [[il-23-and-il-12-23-inhibitors]]
+[[ulcerative-colitis]], [[crohns-disease]], [[inflammatory-bowel-disease]], [[probiotics]], [[fmt]], [[colonoscopy]], [[primary-sclerosing-cholangitis]], [[clostridioides-difficile]], [[rifaximin]], [[chronic-diarrhea]], [[ibd-endoscopic-scoring]], [[disorders-of-gut-brain-interaction]], [[ostomy-management]], [[fecal-incontinence]], [[il-23-and-il-12-23-inhibitors]], [[jak-inhibitors]], [[mesalamine-5-asa]]
 
 ---
 
@@ -179,3 +181,4 @@ All 13 AGA 2024 statements (9 actionable conditional recommendations + 4 "no rec
 4. [[aga-2024-fmt|AGA Clinical Practice Guideline: Fecal Microbiota-Based Therapies for Select GI Diseases (2024)]]
 5. [[aga-2026-cdiff-ibd|AGA Clinical Practice Update on Management of Clostridioides difficile Infection in Inflammatory Bowel Disease: Expert Review (2026)]]
 6. [[aga-2026-therapeutic-endoscopy-ibd|AGA Clinical Practice Update on the Role of Therapeutic Endoscopy in Inflammatory Bowel Disease: Commentary (2026)]]
+7. [[aga-2021-ibd-colorectal-dysplasia|AGA Clinical Practice Update on Endoscopic Surveillance and Management of Colorectal Dysplasia in Inflammatory Bowel Diseases: Expert Review (2021)]]

@@ -376,7 +376,7 @@ Assess malnutrition by nonvolitional weight loss, low BMI, loss of muscle mass/s
 |---|---|---|---|
 | **Open-capsule budesonide** | **3 mg TID** | 92% clinical, 89% histologic | First-line, both subtypes |
 | **Prednisone** | **40–60 mg daily**, slow taper over several months | 90% clinical (RCD1); 77% (RCD2) | If budesonide unavailable |
-| Small-intestinal-release mesalamine | **2–4 g/d** | 75% alone; 33% complete response combined with budesonide | — |
+| Small-intestinal-release [[mesalamine-5-asa\|mesalamine]] | **2–4 g/d** | 75% alone; 33% complete response combined with budesonide | — |
 | [[thiopurines\|Azathioprine]] | **2–2.5 mg/kg/d** | 71% clinical | Immunosuppressant of choice for long-term **RCD1**; villous atrophy reported |
 | [[thiopurines\|Mercaptopurine]] | **1 mg/kg/d** | — | Risk of accelerated lymphoma — **caution in RCD2** |
 | Tioguanine | **0.3 mg/kg/d** | 83% clinical, 78% histologic | **Not available in the US** |
@@ -418,7 +418,7 @@ Assess malnutrition by nonvolitional weight loss, low BMI, loss of muscle mass/s
 
 ## See Also
 
-[[chronic-diarrhea]], [[irritable-bowel-syndrome]], [[small-intestinal-bacterial-overgrowth]], [[crohns-disease]], [[microscopic-colitis]], [[exocrine-pancreatic-insufficiency]], [[disorders-of-gut-brain-interaction]], [[dyspepsia]], [[atrophic-gastritis]], [[helicobacter-pylori-infection]], [[iron-deficiency-anemia]], [[probiotics]], [[upper-endoscopy]], [[colonoscopy]], [[capsule-endoscopy]], [[device-assisted-enteroscopy]], [[giardiasis]], [[thiopurines]], [[anti-tnf-agents]], [[inflammatory-bowel-disease]]
+[[chronic-diarrhea]], [[irritable-bowel-syndrome]], [[small-intestinal-bacterial-overgrowth]], [[crohns-disease]], [[microscopic-colitis]], [[exocrine-pancreatic-insufficiency]], [[disorders-of-gut-brain-interaction]], [[dyspepsia]], [[atrophic-gastritis]], [[helicobacter-pylori-infection]], [[iron-deficiency-anemia]], [[probiotics]], [[upper-endoscopy]], [[colonoscopy]], [[capsule-endoscopy]], [[device-assisted-enteroscopy]], [[giardiasis]], [[thiopurines]], [[anti-tnf-agents]], [[inflammatory-bowel-disease]], [[mesalamine-5-asa]]
 
 ---
 

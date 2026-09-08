@@ -6,6 +6,86 @@ Parse last 5 entries: `grep "^## \[" wiki/log.md | tail -5`
 
 ---
 
+## [2026-09-08] lint | Seven-batch sweep — a source page had invented 36 numbered recommendations for a guideline that has none, and 23 of its 34 GRADE ratings contradicted the document
+
+**The finding that mattered — a whole grading scheme that was never in the source.**
+
+- [[asge-2020-endoscopic-removal]] presented the USMSTF/ASGE 2020 colorectal-lesion document as **36 numbered "Recommendation N" entries with GRADE ratings**. The document has **no numbered recommendations at all** — 43 unnumbered bullets under 6 named Statements (Table 1). The numbering was an editorial convention invented by whoever wrote the page, and readers had no way to tell.
+- Audited all 34 against both raw printings (*Gastroenterology* 158:1095 and *GIE* 91:486, compared bullet-by-bullet, identical). **23 carried a strength or quality rating that contradicts the document. Only 10 of 34 were correct.**
+- **5 attached a GRADE to text the document never graded** — NICE 3/Kudo Vn management, the non-lifting sign, underwater EMR, cold snare EMR, and "endoscopy is first-line" are all narrative body text. Seven including [[colorectal-esd]]'s eFTR "Rec 26 (Weak; low-quality)" and the parallel ESD "Rec 25", both caught earlier in the same pass.
+- The source's vocabulary is **Strong / Conditional — it never uses "Weak"**, which the page used throughout. Two entries had correct grades but inverted or over-generalized scope (cold forceps; hot biopsy forceps stated for "any polyp" where the source scopes it to ≤9 mm). **13 genuine graded statements were missing entirely.**
+- Blast radius: [[usmstf-2020-endoscopic-removal]] — the duplicate page for the same document — had **17 of 26 grade rows wrong, 4 fabricated**, and had already drifted out of sync; its table is now a pointer to the single home. [[endoscopic-mucosal-resection]] had inherited **5 wrong grades and an invented "Rec 10" citation**. [[argon-plasma-coagulation]], [[colonoscopy]] and [[endoscopic-full-thickness-resection]] audited clean.
+- Two genuine internal inconsistencies in the published document are flagged, not resolved: cold snare polypectomy is graded *high-quality* in Table 1 and *moderate-quality* in body §2a; Statement 6.2 is worded "We suggest…" but labelled Strong.
+
+**Six tier-1 sources were cited by no entity page at all — and all six were missing content, not merely missing citations.**
+
+An inbound-link scan found [[aga-2021-bleeding-gastric-varices]], [[aga-2021-gi-perforations-endoscopic-management]], [[aga-2021-crc-chemoprevention]], [[aga-2021-refractory-h-pylori]], [[aga-2021-ibd-colorectal-dysplasia]] and [[afs-2024-ge-valve-after-antireflux-surgery]] referenced **only from `index.md` and `log.md`**. Opening the candidate entity pages showed the clinical content itself absent in every case.
+
+- **[[aga-2021-ibd-colorectal-dysplasia]] closed a decision gap the wiki had wrongly declared corpus-blocked.** [[ulcerative-colitis]] read *"No numeric repeat interval is available from an ingested source… A dedicated source would be needed for the familiar 1–3 y banding — flagged, not filled."* **The source was already ingested and carries the full table.** The same false flag sat on [[colonoscopy-surveillance]] and [[ibd-in-malignancy]]. All three replaced with the 1–5 y risk-stratified intervals, the seven stratifiers, post-resection intervals, and the nontargeted-biopsy protocol.
+- **New page [[endoscopic-management-of-perforation]]** — grepping the three endoscopy pages for perforation/OTSC/TTSC/Stapfer had returned three lines total; [[ercp]]'s entire coverage was `- **Perforation** (rare; retroperitoneal or duodenal)`. Now the single home for the size×organ closure-device table, the two absolute surgical indications, and duodenal type 1 vs type 2.
+- [[helicobacter-pylori-infection]] gained the refractory definition and causes-of-failure framework; [[antireflux-surgery]] the post-surgical GE-valve assessment; [[colorectal-cancer-screening]] the full chemoprevention framework with its harm signals; [[portal-hypertension]], [[variceal-upper-gi-bleeding]] and [[tips]] the gastric-varices content the newer documents don't carry.
+
+**Sources ingested (2 — the per-pass cap):**
+
+- [[aga-2020-sibo]] — 9 ungraded BPA verbatim, Tables 1–3 native. **AGA issues no breath-test cutoff at all**, calling the test "never fully validated compared with culture" and the 2-peak criterion unvalidated — the refusal is itself the finding and ACG's numbers were not borrowed into AGA's voice. **12 contradictions with [[acg-2020-sibo]]**, three of which change practice: cardinal symptom (*"contrary to common belief, diarrhea and not bloating has the strongest association"*), post-treatment retesting (AGA: unnecessary if symptoms respond; ACG endorses it), and the dose of **all four** antibiotics — rifaximin differs ~40% (AGA 800–1200 mg/d divided vs ACG 550 mg TID). Closed the SIBO course-duration gap (7–10 d) that [[rifaximin]] had explicitly flagged as unsourced.
+- [[aga-2021-medically-refractory-gastroparesis]] — 8 BPA verbatim, Table 1 native with both footnotes. ⚠ **Cite the year as 2022** (*Clin Gastroenterol Hepatol* 2022;20:491–500); the slug keeps the raw filename's 2021. Supplies the only trial-duration requirement in the corpus (failed diet *and* metoclopramide, **≥4 weeks each**), which AGA 2025's refractory definition lacks.
+
+**Re-ingest for recommendation capture:**
+
+- [[aga-2022-hamartomatous-polyposis]] rebuilt 54 → 318 lines. ⚠ **It is not an AGA CPU and contains no Best Practice Advice** — it is a USMSTF consensus statement with **14 GRADE-rated Question/Recommendation pairs**, all now verbatim. The source numbers none of them; labels R1–R14 are wiki-assigned and flagged as such. **The "NCCN 2020" surveillance column was real but mis-framed** — it is a comparison column inside USMSTF's own Table 4, not a citation to NCCN, which this wiki has never ingested; all 7 PHTS values verified exactly. Now footnoted as second-hand. [[peutz-jeghers-syndrome]]'s chemoprevention was corrected: everolimus was described as "under clinical investigation" where the guideline says the **trial was stopped for poor accrual with 2 patients and no efficacy signal**.
+
+**Stalest-page validation (the 3 oldest, all `updated: 2026-05-28`):**
+
+- [[acg-2015-small-bowel-bleeding]] — PPV/NPV (94–97%/83–100%) had been **relabelled sensitivity/specificity**; "pooled yield 40%" had become "pooled sensitivity"; a "20–50%" rebleeding rate appears nowhere in the document (actual: 34%, 45%, 46%). A duplicate summary table had merged two recommendations under a third's grade and added "thalidomide" to a statement naming no drug — deleted.
+- [[acg-2018-pancreatic-cysts]] — **Table 3's comparators had been silently normalized**: printed `>3 cm` and `>3 mm/year`, rendered as `≥`. A fabricated EUS "sens 86–96% / spec 30–99%" replaced the source's "accurate 65–96%"; a separate GNAS row had been invented by splitting a combined KRAS/GNAS statistic; "n=2,622" was fabricated from "over 2,500".
+- [[aasld-2021-pbc]] — both revised statements verbatim-correct; added the "advanced cirrhosis" criteria table, which is the operative decision, with its **"current *or prior*"** qualifier made explicit.
+
+**Contradictions adjudicated (all four carried over unresolved from 2026-09-06):**
+
+- **VCE false-negative rate — neither page was wrong.** ACG 2015 prints **10–36%** (p.1271) and **11% / up to 19% for neoplasms** (p.1273) in different sections from different reference sets and never reconciles them. [[capsule-endoscopy]] now carries all three labelled by section; [[device-assisted-enteroscopy]] keeps the action-linked pair.
+- **Post-POEM acid exposure** — AGA 2024's 41–56% wins as newer tier-1; ACG's 39.0% retained only paired with its own 16.8% LHM comparator. [[heller-myotomy]] had pitted 39% against an **8–9% GERD-frequency figure from a different dataset** — not the same measure.
+- **POEM after failed Heller** — 94%/95.7% are uncontrolled single-arm; 62% vs 27% is the only RCT. The `(Strong/Low)` tag had been attached to the efficacy numbers, but ACG grades only **safety**.
+- **eFTR size ceiling** — not rivals; splits by lesion type (mucosal <30 mm outer / ≤20 mm working, T1 CRC <2 cm, SEL <15 mm).
+- **APC probe distance** — 1–3 mm is ASGE 2014 for colonic angioectasias, 2–10 mm is ACG 2021 for ulcers. Missing ulcer row added to the settings table; [[endoscopic-hemostasis]] now points there instead of duplicating.
+
+**Coverage gap filled (1):** [[mesalamine-5-asa]] (queue #5). UC dosing selected by extent, induction ≠ maintenance, the oral+rectal combination is left-sided only, and the **Apriso trap** (approved for maintenance at 1.5 g/d but not for induction). Crohn's: **recommended against, Strong/Moderate**. Two version deltas that change practice — the UC oral maintenance floor dropped from ≥2 g/d (2019) to **≥1.5 g/d** (2025), and ACG 2025 **withdrew** 2018's postoperative-CD mesalamine option.
+
+**Hygiene:**
+
+- **28 stale index source counts** reconciled against page frontmatter; footer totals corrected (**279 sources, 564 pages**) and the ingest backlog updated 46 → **43**.
+- `## See Also` added to [[aga-2021-bleeding-gastric-varices]] and [[aga-2021-gi-perforations-endoscopic-management]], which lacked the standardized bottom section.
+- Verified clean wiki-wide after the pass: **0 broken links** in content pages, **0 orphans**, 0 unescaped alias pipes, 0 stubs, 0 dangling frontmatter source slugs, 0 legacy See-Also headings, 0 `.DS_Store`.
+
+**Tooling correction — more dangerous than what was recorded.** On ACG/LWW PDFs `pdftotext` does not merely drop `≥ ≤ ×`; it **substitutes plausible characters** (`,`→`<`, `.`→`>`, `#`→`≤`, `$`→`≥`, `5`→`=`, `~`→`w`). A corrupted string still reads as a valid number, which is how a printed `>3 cm` became `≥3 cm` on a live threshold. PyMuPDF is absent and `pip install`, `pdftohtml`, `pdftoppm`, `pdfimages` and `mutool` are permission-blocked. **The working path is reading the `.pdf` with the Read tool, which renders pages as images.** Verification is therefore possible; cropping to `raw/assets/` remains blocked.
+
+**For user triage:**
+
+- **Anki cards are drafted but unwritten** — 16 for [[small-intestinal-bacterial-overgrowth]], 10 for [[gastroparesis]], all tier-1 sourced and verified against their pages. The Write tool has no permission for `/cards`; both agents stopped rather than route around it. The SIBO cards also need a tag decision — no card file existed to inherit from, and the only candidate is `GI::Organs::SmallBowel`, invented 2026-09-04 and still unsigned-off.
+- **Five med pages are fully cardable and blocked on one missing tag branch** — [[anti-tnf-agents]], [[vedolizumab]], [[il-23-and-il-12-23-inhibitors]], [[jak-inhibitors]], [[mesalamine-5-asa]]. Nick's tag tree has no meds branch.
+- **No ingested source carries a graded recommendation against hot biopsy forceps above 9 mm.** If the wiki asserts that broader stance anywhere else, it is currently unsourced — [[aga-2024-tailored-polypectomy]] was checked and says nothing about them.
+- Figure capture still outstanding: ACG 2018 pancreatic-cyst **Figure 2**, the young-adult-CRC **Figure 1**, and the gastroparesis CPU **Figure 2** are all algorithm figures reconstructed as tables, not captured as images.
+- [[inflammatory-bowel-disease]] still sits in `7-concepts/` while carrying real clinical content — unchanged from 2026-09-06, still needs Nick's call.
+
+---
+
+## [2026-09-07] lint | BACKFILLED 2026-09-08 — two unattended cron passes ran and wrote no log entry at all; 3 substantial pages were left invisible to the index
+
+**Why this entry is dated 2026-09-07 but written on 2026-09-08.** The 06:00 and 18:00 Pacific lint crons both ran on 2026-09-07 (commits `3e381d5` 01:10 UTC, `aad1e38` 13:10 UTC, 46 files, +1,279 lines). Neither appended anything to this log, and `index.md` was only partially updated. The work itself was sound — it was the *record* that failed. Reconstructed from the two commits on the 2026-09-08 pass. **This is the second consecutive instance of the cron ingesting a tier-1 source and not recording it** (cf. the AGA 2021 malignant-obstruction note already in `index.md`); treat cron-pass provenance as a standing check.
+
+**What the 2026-09-07 crons actually did:**
+
+- **2 sources ingested (the per-pass cap):** [[aga-2020-young-adult-onset-crc]] (180 lines — AGA 2020 CPU, Boardman/Vilar/You/Samadder, *Clin Gastroenterol Hepatol* 2020;18:2415–2424; young adult–onset CRC defined verbatim as *"CRC diagnosed in individuals 18 - <50 years of age"*, no evidence grading applied to its BPAs) and [[aga-2021-malignant-alimentary-tract-obstruction]] (139 lines, 14 ungraded BPA across esophagus / gastric outlet / colon).
+- **3 pages created:** [[colonic-stenting]] (129 lines), [[early-onset-colorectal-cancer]] (297 lines), [[jak-inhibitors]] (333 lines — tofacitinib, upadacitinib, filgotinib, 7 sources).
+- **~35 pages given a `## Contents` table of contents**, continuing the ToC rollout (dysphagia, dyspepsia, calcineurin-inhibitors, direct-acting-antivirals, colonoscopy, ercp, tips, poem, and others).
+
+**What the crons failed to record — fixed on the 2026-09-08 pass:**
+
+- **Three pages had zero index entries.** [[early-onset-colorectal-cancer]], [[jak-inhibitors]] and [[aga-2020-young-adult-onset-crc]] were the *only* three pages in the entire 560-page wiki absent from `index.md`. A whole-wiki scan confirmed nothing else was missing.
+- **[[jak-inhibitors]] was a whole-wiki orphan** — 333 lines of drug-class content with **0 inbound links** from anywhere.
+- **The ingest queue was never updated.** Table row #4 (`2020 Young Adult-Onset CRC`) still read as uningested, and *Fillable now* item #4 (`5-meds/jak-inhibitors`) was still listed as an unfilled gap — so the next pass was set up to redo both. It did: two subagents on the 2026-09-08 pass began re-ingesting and re-creating work that already existed and had to be redirected mid-flight.
+
+---
+
 ## [2026-09-06] lint | Four-batch parallel sweep — ASGE 2023's EAC ESD size threshold had been deleted from its source page; 2 AGA CPUs ingested; IL-23 class page created
 
 **The finding that mattered — a size threshold lost in summarization.**

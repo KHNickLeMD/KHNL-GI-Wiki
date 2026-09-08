@@ -3,8 +3,8 @@ title: "Portal Hypertension"
 category: disease-script
 tags: [portal-hypertension, cirrhosis, CSPH, HVPG, cACLD, varices, NSBB, carvedilol, TIPS, liver-stiffness, decompensation, variceal-bleeding, ascites]
 created: 2026-05-28
-updated: 2026-09-05
-sources: [baveno-viii-2026-portal-hypertension, aasld-2023-portal-hypertension, baveno-vii-2022-portal-hypertension, acg-2025-perioperative-cirrhosis, aasld-2024-tips, aasld-2022-palliative-cirrhosis, wang-2026-eus-ppg-delphi-consensus]
+updated: 2026-09-08
+sources: [baveno-viii-2026-portal-hypertension, aasld-2023-portal-hypertension, baveno-vii-2022-portal-hypertension, acg-2025-perioperative-cirrhosis, aasld-2024-tips, aasld-2022-palliative-cirrhosis, wang-2026-eus-ppg-delphi-consensus, aga-2021-bleeding-gastric-varices]
 ---
 
 > **[[baveno-viii-2026-portal-hypertension|Baveno VIII (2026)]] supersedes [[baveno-vii-2022-portal-hypertension|Baveno VII (2022)]].** Where the two differ, this page states the Baveno VIII position and names what changed. The full old-value → new-value table lives on the source page under *What changed from Baveno VII*.
@@ -360,13 +360,21 @@ Indicated for: CTP class B score >7 with active bleeding at endoscopy, OR CTP cl
 | **IGV1** | **Isolated** gastric varix in the **fundus** | **Cardiofundal** — higher treatment failure, rebleeding, mortality |
 | **IGV2** | Isolated gastric varix in **other areas** of the stomach (or ectopic) | — |
 
+**Why GV are managed differently from EV, and what else to record** [[aga-2021-bleeding-gastric-varices]]:
+
+- **Epidemiology:** GV are present in only **17%–25%** of patients with portal hypertension (vs up to **85%** for esophageal varices) and bleed less often — **but more severely**, with greater transfusion requirement and higher mortality. Incidence of hemorrhage **16%–45% at 3 years**. **Bleeding and mortality rates are similar in noncirrhotic and cirrhotic portal hypertension.**
+- **The reason the pathway differs:** EV have consistent anatomy, so band ligation or [[tips|TIPS]] works universally. **GV drain through variable shunts and may bleed at lower portal pressures** — up to **85% of cardiofundal GV** are associated with a left-sided spontaneous **gastrorenal shunt (GRS)** draining into the left renal vein, which is what makes transvenous obliteration possible and raises the HE/ischemia risk of a TIPS.
+- **AGA proposes a simplified location-based scheme** mapped onto Sarin — **cardiofundal** (GOV2, IGV1), **lesser curve** (GOV1), and **distal** GV (explicitly excluded from that review: rare, poor data, complex multidisciplinary management). ⚠ **Both nomenclatures belong on the page** — Baveno VIII 5.38 recommends Sarin, most gastroenterologists use it, and the outcome literature is not stratified by GV type at all.
+- **Add to the description of any gastric varix:** an estimate of **variceal size** and **high-risk stigmata — discolored marks and platelet plugs** — by analogy to the NIEC criteria for esophageal varices. Sarin identified cardiofundal GV as higher bleeding risk; other groups identified GV size, red mark, or discoloration.
+- ⚠ **The evidence base for gastric varices is uniformly weak** — no definitive natural-history studies, no prospective trials; case series, restricted cohorts and a few small RCTs, all with significant selection bias. Every AGA statement is ungraded expert Best Practice Advice.
+
 - All gastric/ectopic varices indicate CSPH; evaluate for [[portal-vein-thrombosis]] (GS 40). **Baveno VIII 3.21a:** patients with gastric varices **have** CSPH and benefit from NSBBs, **particularly carvedilol**, for decompensation prevention
 - **Primary prophylaxis — NSBB first, but Baveno VIII now allows local therapy when NSBB is off the table.** For **high-risk GOV2 or IGV1 (cardiofundal)** varices with an NSBB contraindication or intolerance, **endoscopic injection therapy** (LoE 2, strong), **EUS-guided therapy** (LoE 4, weak), or **transvenous obliteration** (LoE 3, weak) **can be considered in centres with expertise** (3.21b)
   - ⚠ **This changes Baveno VII 5.22**, which stated there was "no indication at present" for BRTO/BATO or TIPS in primary prophylaxis of gastric variceal bleeding in compensated patients. Concordant now with [[aasld-2023-portal-hypertension]] GS 41 (ECI for high-risk cardiofundal varices in NSBB-ineligible patients)
   - **Adding local therapy *on top of* an NSBB is not supported** — limited evidence for endoscopic injection (LoE 3), EUS-guided therapy (LoE 5) or transvenous obliteration (LoE 5) in addition to NSBB to prevent first bleeding or improve survival (3.21c). AASLD GS 42 (no TIPS or BRTO for fundal varices that have not bled) is not contradicted for the TIPS limb
 - **Acute bleeding:** same initial management as esophageal AVH (vasoactive, antibiotics, restrictive transfusion, EGD within 12h) (GS 43); contrast CT to define vascular anatomy (GS 44). Baveno VIII 5.39–5.41 structures GOV2/IGV1 bleeding as a **bimodal** problem — an acute haemostasis phase and a definitive phase, run in parallel or with the shortest possible interval. Details on [[variceal-upper-gi-bleeding]]
 - First-line hemostasis options for GOV2/IGV1: **ECI, TIPS, or retrograde transvenous obliteration** (BRTO/PARTO/CARTO); BRTO preferred when TIPS contraindicated (GS 45). **Baveno VIII 5.40 adds EUS-guided coil + cyanoacrylate as the preferred acute option where available**, and 5.41 makes **TIPS ± variceal embolisation, as soon as possible, the preferred *definitive* treatment**
-- Post-ECI: add NSBBs; repeat ECI every 2–4 weeks until obliteration; long-term surveillance (GS 46)
+- Post-ECI: add NSBBs; repeat ECI every 2–4 weeks until obliteration; long-term surveillance (GS 46). *Full post-treatment follow-up schedules — after cyanoacrylate, after TIPS, and after BRTO — are on [[variceal-upper-gi-bleeding]].*
 - Isolated splenic vein thrombosis causing GV → splenectomy, splenic vein stenting, or splenic artery embolization (GS 47)
 
 ### Portal Hypertensive Gastropathy (PHG) and GAVE
@@ -421,3 +429,4 @@ Indicated for: CTP class B score >7 with active bleeding at endoscopy, OR CTP cl
 5. [[aasld-2024-tips|AASLD Practice Guidance: TIPS, Variceal Embolization, and Retrograde Transvenous Obliteration (2024)]]
 6. [[aasld-2022-palliative-cirrhosis|AASLD Practice Guidance: Palliative Care and Symptom-Based Management for Decompensated Cirrhosis (2022)]]
 7. [[wang-2026-eus-ppg-delphi-consensus|International Expert Delphi Consensus on EUS-guided Portosystemic Pressure Gradient: Best Practices and Future Directions (2026)]]
+8. [[aga-2021-bleeding-gastric-varices|AGA Clinical Practice Update on Management of Bleeding Gastric Varices: Expert Review (2021)]]

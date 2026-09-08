@@ -3,7 +3,7 @@ title: "Polypectomy (Colorectal)"
 category: general-procedure
 tags: [polypectomy, cold-snare, colonoscopy, colorectal, paris-classification, nice-classification, malignant-polyp, submucosal-invasion, haggitt, kikuchi, tumor-budding, lymphovascular-invasion]
 created: 2026-05-07
-updated: 2026-09-06
+updated: 2026-09-08
 sources: [usmstf-2020-endoscopic-removal, asge-2020-endoscopic-removal, usmstf-2020-malignant-colorectal-polyps, aga-2024-tailored-polypectomy, aga-2025-endoscopic-resection-crc, aga-2026-electrosurgery]
 ---
 
@@ -109,9 +109,9 @@ Single home for LST submucosal-invasion risk — the two USMSTF 2020 documents d
 
 ### ≤5mm (Diminutive)
 
-- **Cold snare polypectomy (CSP):** standard of care for diminutive (≤5 mm) and small (6–9 mm) lesions (Strong; high-quality)
+- **Cold snare polypectomy (CSP):** standard of care for diminutive (≤5 mm) and small (6–9 mm) lesions (Strong; **high**-quality per Table 1 of [[usmstf-2020-endoscopic-removal]], **moderate**-quality where the same sentence appears in that document's body text — an unresolved internal discrepancy, verified in both printings)
 - **Cold forceps: NOT recommended for diminutive (≤5 mm) lesions** — 9–61% incomplete resection (Strong; moderate-quality)
-- Hot biopsy forceps: NOT recommended for any colorectal polypectomy (incomplete resection, poor specimens, complications) (Strong; moderate-quality)
+- Hot biopsy forceps: NOT recommended for polypectomy of diminutive (≤5 mm) and small (6–9 mm) lesions — incomplete resection, inadequate histopathologic specimens, complications (Strong; moderate-quality). *⚠ The graded statement is scoped to diminutive and small lesions (≤9 mm) — no ingested source states a graded recommendation against hot biopsy forceps at larger sizes.*
 - **Cold-forceps exception — the size cutoff differs between guidelines:**
   - **≤2 mm**, only when CSP is technically difficult and single-bite resection is anticipated, using jumbo/large-capacity forceps ([[usmstf-2020-endoscopic-removal]], [[asge-2020-endoscopic-removal]])
   - **1–3 mm** when CSP is technically difficult ([[aga-2024-tailored-polypectomy]] BPA 2 — newer; see the tailored-technique table below). Newer tier-1 source, so 1–3 mm is what this page follows.

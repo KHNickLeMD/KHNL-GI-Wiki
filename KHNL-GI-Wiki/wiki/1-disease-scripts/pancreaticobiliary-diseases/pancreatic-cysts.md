@@ -3,7 +3,7 @@ title: "Pancreatic Cysts"
 category: disease-script
 tags: [pancreatic-cysts, ipmn, mcn, serous-cystadenoma, pseudocyst, spn, pancreas, eus-fna, mrcp, surveillance, pancreatic-cancer]
 created: 2026-05-19
-updated: 2026-09-04
+updated: 2026-09-08
 sources: [acg-2018-pancreatic-cysts, colan-hernandez-2020-eus-fna-panc-cyst-antibiotics, asge-2015-antibiotic-prophylaxis]
 ---
 
@@ -95,7 +95,7 @@ Pancreatic cysts are a heterogeneous group of lesions, most detected incidentall
 
 - 75% women; 6th decade
 - Classic imaging: microcystic/honeycomb appearance with central stellate scar (present in <30%)
-- Risk of serous cystadenocarcinoma: extremely low at 0.1% (multinational study n=2,622)
+- Risk of serous cystadenocarcinoma: extremely low at 0.1% (multicenter study of over 2,500 SCAs)
 - Aspirate: low CEA, low amylase/lipase
 - Asymptomatic with classic imaging → no further evaluation, no surveillance (Conditional/Low)
 - Macrocystic SCAs may mimic IPMN or MCN → EUS-FNA to confirm

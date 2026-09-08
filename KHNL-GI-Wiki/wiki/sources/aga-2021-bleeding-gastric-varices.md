@@ -144,3 +144,9 @@ Notably, the update **rejects primary prophylaxis**: endoscopic classification s
 - **EUS-guided coil/glue** is explicitly *not yet* recommended for routine use here (2021). Check against [[aga-2023-interventional-eus-vascular]], which is newer and may have moved.
 - **Evidence quality is uniformly low.** Every statement is Best Practice Advice from expert opinion; there is no GRADE rating anywhere in the document, and the authors state that strong evidence-based recommendations are not currently possible.
 - Not captured: **Supplementary Figure 1** (ECI procedural detail) is online-only and absent from the ingested PDF, so the update's step-by-step injection technique is not on the wiki.
+
+---
+
+## See Also
+
+[[variceal-upper-gi-bleeding]], [[portal-hypertension]], [[tips]], [[cirrhosis]], [[endoscopic-hemostasis]], [[upper-gi-bleeding]], [[hepatic-encephalopathy]], [[endoscopic-ultrasound]]

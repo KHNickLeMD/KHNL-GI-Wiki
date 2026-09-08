@@ -3,7 +3,7 @@ title: "IL-23 and IL-12/23 Inhibitors"
 category: med
 tags: [ustekinumab, risankizumab, mirikizumab, guselkumab, il-23, il-12-23, biologic, ibd, crohns, ulcerative-colitis, interleukin-inhibitor]
 created: 2026-09-06
-updated: 2026-09-07
+updated: 2026-09-08
 sources: [acg-2025-uc, acg-2025-crohns, aga-2024-uc-pharm, aga-2025-crohns-pharm, aga-2024-ibd-malignancy, acg-2025-ibd-preventive-care]
 ---
 
@@ -94,7 +94,7 @@ Monoclonal antibodies against the **interleukin-23 pathway**, used as advanced t
 - **All four agents are recommended for both induction and maintenance at Strong / Moderate** — the class's UC evidence is uniform across generations ([[acg-2025-uc]] Recs 25, 26, 39, 40).
 - **No intra-class preference in UC.** ACG's key positioning point is that the IL-23 inhibitors — guselkumab, mirikizumab, risankizumab — are "**recommended equally**." Nothing in the UC guideline separates them, and there is no head-to-head UC trial cited.
 - **IL-23 inhibitors are a preferred strategy when infection risk dominates.** ACG 2025 UC **Key Concept 46** states that patients with moderate-severe UC at **higher risk for infectious complications** may benefit from [[vedolizumab]] **or an anti–IL-23 strategy** over more systemically immunosuppressive options.
-- **Neither generation requires prior anti-TNF failure** in UC — unlike upadacitinib in CD, where the FDA mandates it. The ACG UC recommendations carry no prior-exposure precondition.
+- **Neither generation requires prior anti-TNF failure** in UC — unlike [[jak-inhibitors|upadacitinib]] in CD, where the FDA mandates it. The ACG UC recommendations carry no prior-exposure precondition.
 - **IL-23 inhibitors were new to the 2025 update.** ACG 2019 UC contained none of them; guselkumab, mirikizumab, and risankizumab all entered with the 2025 guideline ([[acg-2025-uc]]).
 - **Ustekinumab biosimilars exist and switching is acceptable** — ACG groups ustekinumab with infliximab and adalimumab in stating that biosimilars are equivalent ([[acg-2025-uc]]).
 
@@ -155,7 +155,7 @@ Both AGA living guidelines rank advanced therapies by efficacy and advise choosi
 | **Combining with a small molecule** | **No data** on combining a biologic with a small molecule | [[aga-2024-ibd-malignancy]] |
 | **Vaccine response** | Immunogenicity is blunted by anti-TNF (especially with thiopurines/methotrexate), **less so by non-TNF biologics including ustekinumab**, and **not definitively established for the newer IL-23 inhibitors**. Vaccinate regardless of timing within the treatment cycle | [[acg-2025-ibd-preventive-care]] |
 | **Vaccine data gap** | **No data** on whether guselkumab, mirikizumab, or risankizumab affect vaccine response in IBD | [[acg-2025-ibd-preventive-care]] |
-| **JAK-style boxed warning** | Does **not** apply — the MACE/malignancy signal driving the JAK boxed warning comes from ORAL Surveillance and is specific to JAK inhibitors (tofacitinib, upadacitinib), which have no wiki page yet | [[acg-2025-uc]], [[acg-2025-crohns]] |
+| **JAK-style boxed warning** | Does **not** apply — the MACE/malignancy signal driving the JAK boxed warning comes from ORAL Surveillance and is specific to JAK inhibitors (tofacitinib, upadacitinib) — see [[jak-inhibitors]] | [[acg-2025-uc]], [[acg-2025-crohns]] |
 
 *See [[ibd-preventive-care]] for the full IBD vaccination and cancer-screening schedule, and [[ibd-in-malignancy]] for drug-by-drug management once a malignancy develops.*
 
@@ -183,7 +183,7 @@ Both AGA living guidelines rank advanced therapies by efficacy and advise choosi
 
 ## See Also
 
-[[ulcerative-colitis]], [[crohns-disease]], [[inflammatory-bowel-disease]], [[anti-tnf-agents]], [[vedolizumab]], [[thiopurines]], [[ibd-preventive-care]], [[ibd-in-malignancy]], [[uc-vs-crohns-comparison]], [[ibd-endoscopic-scoring]]
+[[ulcerative-colitis]], [[crohns-disease]], [[inflammatory-bowel-disease]], [[anti-tnf-agents]], [[vedolizumab]], [[thiopurines]], [[ibd-preventive-care]], [[ibd-in-malignancy]], [[uc-vs-crohns-comparison]], [[ibd-endoscopic-scoring]], [[jak-inhibitors]]
 
 ---
 

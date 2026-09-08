@@ -3,8 +3,8 @@ title: "Upper Endoscopy (EGD)"
 category: general-procedure
 tags: [egd, upper-endoscopy, esophagogastroduodenoscopy, ugib, barrett-esophagus, peptic-ulcer, gpmc, celiac, quality-indicators]
 created: 2026-05-07
-updated: 2026-09-06
-sources: [acg-2025-egd-quality, aga-2024-upper-endoscopy-quality, aga-2024-glp1-endoscopy, asge-2011-foreign-body-ingestion]
+updated: 2026-09-08
+sources: [acg-2025-egd-quality, aga-2024-upper-endoscopy-quality, aga-2024-glp1-endoscopy, asge-2011-foreign-body-ingestion, aga-2021-gi-perforations-endoscopic-management]
 ---
 
 # Upper Endoscopy (EGD)
@@ -36,6 +36,7 @@ Supplementary best practice guidance from AGA 2024 Clinical Practice Update. [[a
     - [[#Celiac Disease (Suspected or Established)]]
     - [[#Iron-Deficiency Anemia — AGA Position]]
   - [[#Postprocedure Documentation (BPA 8 and 9)]]
+- [[#Perforation]]
 - [[#See Also]]
 - [[#Sources]]
 
@@ -259,9 +260,22 @@ More rigorous documentation is recommended for Barrett's esophagus, gastric inte
 
 ---
 
+## Perforation
+
+*Full closure algorithm and the device-by-defect-size table live on [[endoscopic-management-of-perforation]] — only the EGD-specific points sit here.* [[aga-2021-gi-perforations-endoscopic-management]]
+
+- **Two absolute surgical indications, no endoscopic attempt:** the **hemodynamically unstable** patient, and a **delayed perforation with peritoneal signs or frank peritonitis**. Otherwise, **urgent surgical consultation should be highly considered in every perforation — even a technically successful closure**.
+- **Size rule for the upper tract:** esophagus and stomach → **TTSC or OTSC for <2 cm**, **endoscopic suturing (or TTSC + endoloop, stomach) for >2 cm**; a **fully covered SEMS is reserved for when primary closure is not possible**. TTSC is optimal **<1 cm** gastric; OTSC preferable **1–3 cm**.
+- **At the moment it happens:** alert the team, confirm **CO₂ at low flow**, **suction the field and reposition the patient so the defect is non-dependent** while minimizing insufflation (compartment-syndrome risk), and give **IV antibiotics covering Gram-negative and anaerobic organisms**.
+- **Aftercare for all upper GI perforations:** admit for observation, IV fluids, NPO, broad-spectrum antibiotics, NG tube (with exceptions), surgical consultation — and **consider a water-soluble upper GI series to confirm no continuing leak before starting clear liquids**.
+- **Technique:** start clip placement **at the end of the defect distal to the scope**, to preserve the view of the rest; **apply suction before each clip**. **An OTSC gets one attempt** — mounting it widens the scope tip to **16.5–21 mm**, so introduce gently through the hypopharynx (especially after head-and-neck surgery or cervical radiation).
+- **[[ingested-foreign-body|Foreign body removal]] and any dilation are named high-perforation-risk procedures** and should be consented as such; [[eosinophilic-esophagitis]] perforation risk is driven by **prior food impaction (OR 14.9)** and **focal stricture (OR 4.6)**.
+
+---
+
 ## See Also
 
-[[gastric-premalignant-conditions]], [[gastric-cancer-screening]], [[gastric-adenocarcinoma]], [[gastric-intestinal-metaplasia]], [[gastric-polyps]], [[eosinophilic-esophagitis]], [[helicobacter-pylori-infection]], [[peptic-ulcer-disease]], [[barretts-esophagus]], [[endoscopic-eradication-therapy]], [[endoscopic-mucosal-resection]], [[polypectomy]], [[colonoscopy]], [[celiac-disease]], [[upper-gi-bleeding]], [[endoscopic-hemostasis]], [[gerd]], [[dysphagia]], [[dyspepsia]], [[nausea-and-vomiting]], [[proton-pump-inhibitors]], [[potassium-competitive-acid-blockers]], [[endoscopy-sedation]], [[antibiotic-prophylaxis-endoscopy]], [[artificial-intelligence-endoscopy]], [[reflux-testing]], [[ingested-foreign-body]]
+[[gastric-premalignant-conditions]], [[gastric-cancer-screening]], [[gastric-adenocarcinoma]], [[gastric-intestinal-metaplasia]], [[gastric-polyps]], [[eosinophilic-esophagitis]], [[helicobacter-pylori-infection]], [[peptic-ulcer-disease]], [[barretts-esophagus]], [[endoscopic-eradication-therapy]], [[endoscopic-mucosal-resection]], [[polypectomy]], [[colonoscopy]], [[celiac-disease]], [[upper-gi-bleeding]], [[endoscopic-hemostasis]], [[gerd]], [[dysphagia]], [[dyspepsia]], [[nausea-and-vomiting]], [[proton-pump-inhibitors]], [[potassium-competitive-acid-blockers]], [[endoscopy-sedation]], [[antibiotic-prophylaxis-endoscopy]], [[artificial-intelligence-endoscopy]], [[reflux-testing]], [[ingested-foreign-body]], [[endoscopic-management-of-perforation]]
 
 ---
 
@@ -271,3 +285,4 @@ More rigorous documentation is recommended for Barrett's esophagus, gastric inte
 2. [[aga-2024-upper-endoscopy-quality|AGA 2024: Quality Indicators for Upper GI Endoscopy]]
 3. [[aga-2024-glp1-endoscopy|AGA Rapid Clinical Practice Update on the Management of Patients Taking GLP-1 Receptor Agonists Prior to Endoscopy: Communication (2024)]]
 4. [[asge-2011-foreign-body-ingestion|ASGE Guideline: Management of Ingested Foreign Bodies and Food Impactions (2011)]]
+5. [[aga-2021-gi-perforations-endoscopic-management|AGA Clinical Practice Update on Endoscopic Management of Perforations in Gastrointestinal Tract: Expert Review (2021)]]

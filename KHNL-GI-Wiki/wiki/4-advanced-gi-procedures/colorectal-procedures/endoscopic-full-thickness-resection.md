@@ -3,8 +3,8 @@ title: "Endoscopic Full-Thickness Resection (EFTR)"
 category: advanced-procedure
 tags: [eftr, subepithelial-lesion, resection, ster, ftrd, gist, neuroendocrine-tumor]
 created: 2026-07-23
-updated: 2026-09-06
-sources: [aga-2024-full-thickness-resection, asge-2017-subepithelial-lesions]
+updated: 2026-09-08
+sources: [aga-2024-full-thickness-resection, asge-2017-subepithelial-lesions, usmstf-2020-endoscopic-removal]
 ---
 
 # Endoscopic Full-Thickness Resection (EFTR)
@@ -61,9 +61,11 @@ Resection of a [[subepithelial-lesion|subepithelial lesion]] through the full wa
 |---|---|
 | **Exposed EFTR/ESD** | Any size; any wall layer |
 | **STER / POET** | **≤3 cm** (Table 1); SELs **>3–4 cm** often require conversion to exposed EFTR; one study proposed **≤30 mm** in the axis perpendicular to cranio-caudal length on cross-sectional imaging |
-| **FTRD** | **<15 mm** SELs; **≥15 mm** SELs → higher risk of incomplete resection; effective/safe for **neuroendocrine tumors <10 mm**; mucosal lesions generally ≤20 mm |
+| **FTRD** | **<15 mm** SELs (Table 1: *"limited to small lesions (<15 mm in size)"*); **≥15 mm** SELs → higher risk of incomplete resection; effective/safe for **neuroendocrine tumors <10 mm**; **mucosal** lesions generally **≤20 mm** |
 
 - ⚠ STER size ceiling varies across sources; this CPU uses ≤3 cm.
+- **The SEL ceiling is tighter than the mucosal one, and that is the source's own point** — [[aga-2024-full-thickness-resection|AGA 2024]]: *"although the FTRD is generally accepted for mucosal lesions ≤20 mm, studies have found that resection of SELs ≥15 mm in size may be associated with a higher risk of incomplete resection."* A bulky SEL slips out from under the overlying mucosa as it is drawn into the cap, so the same device tolerates less size here than for a flat mucosal lesion.
+- **Cross-check with the colorectal mucosal numbers** ([[colorectal-esd#Endoscopic Full-Thickness Resection (eFTR)]]): [[usmstf-2020-endoscopic-removal|USMSTF 2020]] gives **<30 mm** as the outer bound of what may be attempted for a colorectal *mucosal* lesion, with R0 falling to 58.1% above 20 mm — so **≤20 mm is the working ceiling for mucosal lesions and <15 mm for SELs**. Not a contradiction: different lesion type, and "may be attempted" vs "resects completely".
 
 ## Preoperative Setup
 
@@ -156,3 +158,4 @@ Resection of a [[subepithelial-lesion|subepithelial lesion]] through the full wa
 
 1. [[aga-2024-full-thickness-resection|AGA 2024 Clinical Practice Update on Endoscopic Full-Thickness Resection for the Management of Gastrointestinal Subepithelial Lesions]]
 2. [[asge-2017-subepithelial-lesions|ASGE 2017: The Role of Endoscopy in Subepithelial Lesions of the GI Tract]]
+3. [[usmstf-2020-endoscopic-removal|USMSTF 2020: Endoscopic Removal of Colorectal Lesions]]

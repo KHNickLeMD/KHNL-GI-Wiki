@@ -3,7 +3,7 @@ title: "Intestinal Ultrasound (IUS)"
 category: concept
 tags: [intestinal-ultrasound, ibd, crohns, ulcerative-colitis, monitoring, treat-to-target, imaging]
 created: 2026-07-19
-updated: 2026-09-06
+updated: 2026-09-08
 sources: [aga-2024-intestinal-ultrasound]
 ---
 
@@ -35,7 +35,7 @@ sources: [aga-2024-intestinal-ultrasound]
 - **Bowel wall hyperemia** — color Doppler signal.
 - **More severe disease** — inflammatory mesenteric fat, loss of bowel wall stratification, surrounding lymphadenopathy.
 
-> **Decision gap — no general "abnormal BWT" cutoff in the ingested corpus.** [[aga-2024-intestinal-ultrasound]] names BWT as the primary activity measure but states an absolute millimetre threshold only in two specific contexts (postoperative CD recurrence and UC on tofacitinib, both below); it gives **no cross-cutting normal/abnormal BWT value**, and it notes that although several IUS scoring indices exist, **none is regularly used in clinical practice**. An IUS scoring-index source (e.g. IBUS-SAS / Limberg score) would be needed before this page can state one — do not fill it from memory.
+> **Decision gap — no general "abnormal BWT" cutoff in the ingested corpus.** [[aga-2024-intestinal-ultrasound]] names BWT as the primary activity measure but states an absolute millimetre threshold only in two specific contexts (postoperative CD recurrence and UC on [[jak-inhibitors|tofacitinib]], both below); it gives **no cross-cutting normal/abnormal BWT value**, and it notes that although several IUS scoring indices exist, **none is regularly used in clinical practice**. An IUS scoring-index source (e.g. IBUS-SAS / Limberg score) would be needed before this page can state one — do not fill it from memory.
 
 ## IUS vs Other Modalities
 
@@ -80,7 +80,7 @@ By trained operators, IUS is comparable to **MR enterography (MRE) and CT entero
 
 ## See Also
 
-[[inflammatory-bowel-disease]], [[crohns-disease]], [[ulcerative-colitis]], [[ibd-preventive-care]], [[colonoscopy]], [[capsule-endoscopy]], [[endoscopy-sedation]], [[ibd-endoscopic-scoring]], [[obesity]], [[il-23-and-il-12-23-inhibitors]]
+[[inflammatory-bowel-disease]], [[crohns-disease]], [[ulcerative-colitis]], [[ibd-preventive-care]], [[colonoscopy]], [[capsule-endoscopy]], [[endoscopy-sedation]], [[ibd-endoscopic-scoring]], [[obesity]], [[il-23-and-il-12-23-inhibitors]], [[jak-inhibitors]]
 
 ---
 

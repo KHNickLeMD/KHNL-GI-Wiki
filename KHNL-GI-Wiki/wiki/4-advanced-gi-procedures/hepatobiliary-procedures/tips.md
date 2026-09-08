@@ -3,8 +3,8 @@ title: "TIPS (Transjugular Intrahepatic Portosystemic Shunt)"
 category: advanced-procedure
 tags: [tips, portal-hypertension, variceal-bleeding, refractory-ascites, hepatic-encephalopathy, pspg, ptfe-stent, rto, brto, interventional-radiology]
 created: 2026-07-16
-updated: 2026-09-05
-sources: [aasld-2024-tips, baveno-viii-2026-portal-hypertension, aasld-2021-ascites-sbp-hrs, aga-2025-ascites-cirrhosis, aasld-2021-vascular-pvt, wang-2026-eus-ppg-delphi-consensus, baveno-vii-2022-portal-hypertension]
+updated: 2026-09-08
+sources: [aasld-2024-tips, baveno-viii-2026-portal-hypertension, aasld-2021-ascites-sbp-hrs, aga-2025-ascites-cirrhosis, aasld-2021-vascular-pvt, wang-2026-eus-ppg-delphi-consensus, baveno-vii-2022-portal-hypertension, aga-2021-bleeding-gastric-varices]
 ---
 
 *Percutaneously created portosystemic shunt for complications of [[portal-hypertension|portal hypertension]] — [[variceal-upper-gi-bleeding|variceal hemorrhage]], refractory [[ascites|ascites]], and hepatic hydrothorax. Placed by interventional radiology, not endoscopically; included here because selection, timing, and post-procedure management are hepatology/GI decisions. Evidence below is AASLD **Practice Guidance** — consensus guidance statements from an expert panel, **not GRADE-rated recommendations** ([[aasld-2024-tips]]).*
@@ -194,7 +194,15 @@ Retrograde (RTO) and anterograde (ATO) transvenous obliteration act **directly o
 - GRS feeding gastric varices are often **larger in diameter than the TIPS**, so flow can persist through varices despite a low post-TIPS gradient → adjunctive obliteration of residual gastric varices matters
 - **Ectopic varices:** TIPS is first-line for most, but decompression by TIPS alone is often insufficient (the ectopic vessel–systemic gradient may be below the post-TIPS PSPG) → routinely combine with ATO/RTO. Manage via multidisciplinary team
 - Traditional **BRTO** requires balloon inflation up to **36 h** with ICU monitoring (balloon rupture risk); **CARTO/PARTO** avoid sclerosants and complete in one session — comparable in duration to TIPS, preferable in uncontrolled bleeding
-- **Post-obliteration:** CT abdomen or [[endoscopic-ultrasound|EUS]] within 72 h to confirm complete obliteration (partial obliteration can cause massive bleeding — the decompressing shunt is closed while varices persist); follow-up endoscopy at 1–2 months for new/progressive esophageal varices
+- **Post-obliteration:** CT abdomen or [[endoscopic-ultrasound|EUS]] within 72 h to confirm complete obliteration (partial obliteration can cause massive bleeding — the decompressing shunt is closed while varices persist); follow-up endoscopy at 1–2 months for new/progressive esophageal varices. *Post-treatment surveillance schedules for the gastric varix itself are on [[variceal-upper-gi-bleeding]].*
+
+**Comparative performance in cardiofundal gastric varices** [[aga-2021-bleeding-gastric-varices]] *(ungraded expert Best Practice Advice; where it meets [[aasld-2024-tips]] or Baveno VIII, the newer document governs)*:
+
+- **Anatomy is why RTO is on the table at all:** up to **85% of cardiofundal GV** are associated with a left-sided spontaneous portosystemic shunt — a **gastrorenal shunt** draining into the left renal vein.
+- **TIPS is less efficacious in GV than in EV.** Cardiofundal GV bleed at lower portal pressures, and **up to 50% may rebleed even after TIPS** — which is why TIPS for cardiofundal GV should be **combined with direct embolization or endovascular sclerosis**. TIPS risks (hepatic encephalopathy, hepatic ischemia) **may be greater when a GRS is present**, which is common precisely in cardiofundal GV. Against cyanoacrylate injection, TIPS gives similar initial hemostasis and slightly better long-term rebleeding, at **added cost and more complications (encephalopathy)**. **Favor TIPS for lesser-curve GV refractory to band ligation, or recurrent bleeding** — analogous to EV management.
+- **BRTO efficacy:** cessation of active bleeding in **>90%**; intention-to-treat GV rebleed rate consistently **<5%–7% at 1 year**. **No adequately sized RCTs.** Meta-analysis of TIPS vs BRTO for cardiofundal GV: **no difference in initial hemostasis or procedure-related complications, but BRTO had less rebleeding and less encephalopathy.**
+- **Hepatic encephalopathy *improves* after BRTO** — incidence **0%–5% at 1 year**; **type B (portosystemic-shunt-related) HE is itself an indication for BRTO**. Liver synthetic function may improve from increased portal inflow, though no outcome benefit has been demonstrated.
+- **Accelerated variants (CARTO, PARTO)** replace the balloon with permanent hardware — physiologically plausible but **not supported by the same volume of data** as conventional BRTO. ⚠ [[aasld-2024-tips]] GS 12 (newer) states they have **lower complication profiles** and may be preferred at experienced institutions — that is the wiki's position.
 
 ## Guidance Statements (AASLD 2024)
 
@@ -277,4 +285,5 @@ Priority research areas named by [[aasld-2024-tips]]: optimal intraprocedural PS
 5. [[aasld-2021-vascular-pvt|AASLD Practice Guidance: Vascular Liver Disorders, Portal Vein Thrombosis, and Procedural Bleeding in Cirrhosis (2021)]]
 6. [[wang-2026-eus-ppg-delphi-consensus|International Expert Delphi Consensus on Endoscopic Ultrasound-guided Portosystemic Pressure Gradient: Best Practices and Future Directions]]
 7. [[baveno-vii-2022-portal-hypertension|Baveno VII — Renewing Consensus in Portal Hypertension (2022)]]
+8. [[aga-2021-bleeding-gastric-varices|AGA Clinical Practice Update on Management of Bleeding Gastric Varices: Expert Review (2021)]]
 

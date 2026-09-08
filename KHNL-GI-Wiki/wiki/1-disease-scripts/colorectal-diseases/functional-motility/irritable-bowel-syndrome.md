@@ -3,8 +3,8 @@ title: "Irritable Bowel Syndrome"
 category: disease-script
 tags: [ibs, dgbi, functional, colorectal, motility, rome-iv, rome-v, fodmap, rifaximin, linaclotide, plecanatide, tca]
 created: 2026-05-16
-updated: 2026-09-06
-sources: [acg-2020-ibs, rome-v-2026-dgbi, acg-2020-sibo, aga-2022-ibs-c, aga-2022-ibs-d]
+updated: 2026-09-08
+sources: [acg-2020-ibs, rome-v-2026-dgbi, acg-2020-sibo, aga-2022-ibs-c, aga-2022-ibs-d, aga-2020-sibo]
 ---
 
 ## Contents
@@ -114,7 +114,8 @@ Subtypes by Bristol Stool Form Scale **on days with abnormal stools** (assess of
 
 - [[anorectal-manometry]] + BET ± defecography in IBS-C/M with pelvic floor signs or refractory constipation
 - Bile acid diarrhea testing (SeHCAT — limited US availability; serum C4 or fecal bile acids)
-- Breath testing (lactose, fructose, [[small-intestinal-bacterial-overgrowth|SIBO]]) — ACG 2020 SIBO guideline suggests glucose or lactulose H₂ breath test in IBS patients (Conditional/Very Low); up to 78% of IBS subjects may have SIBO by meta-analysis; [[rifaximin]] IBS-D efficacy may be partly mediated by SIBO/microbiome dysbiosis
+- Breath testing (lactose, fructose, [[small-intestinal-bacterial-overgrowth|SIBO]]) — [[acg-2020-sibo]] suggests glucose or lactulose H₂ breath test in IBS patients (Conditional/Very Low); up to 78% of IBS subjects may have SIBO by breath testing. **[[aga-2020-sibo]] declines to recommend testing in IBS at all** and keeps the association open (**BPA 6**: "Controversy remains concerning the role of SIBO in the pathogenesis of common functional symptoms, such as those regarded as components of IBS"). Its numbers: SIBO **OR 4.9** on breath testing vs matched controls; **up to 33.5% positive by culture vs 8.2%** of controls; and **lactulose breath testing yields more positives than glucose or culture**, which explains much of the prevalence spread. Predictive symptoms in IBS are **diarrhea or "gas," not bloating**; CH₄-positive tests track with **IBS-C** ([[intestinal-methanogen-overgrowth]]).
+- [[rifaximin]] IBS-D efficacy may be partly mediated by SIBO/microbiome dysbiosis — a baseline **positive lactulose breath test predicted 59.7% improvement vs 29.8%** with a negative test ([[aga-2020-sibo]]). But **BPA 8** holds the conclusion open: "the role of SIBO or its eradication in the genesis of this response warrants further confirmation in randomized controlled trials," and breath testing was done in only a small subset of trial subjects.
 
 **Alarm features warranting workup**: hematochezia/melena, unintentional weight loss, onset >50, family history of [[inflammatory-bowel-disease|IBD]]/[[colorectal-cancer|CRC]]/celiac, nocturnal symptoms, anemia.
 
@@ -192,3 +193,4 @@ Subtypes by Bristol Stool Form Scale **on days with abnormal stools** (assess of
 3. [[acg-2020-sibo|ACG 2020: Small Intestinal Bacterial Overgrowth]]
 4. [[aga-2022-ibs-c|AGA Clinical Practice Guideline: Pharmacological Management of IBS-C (2022)]]
 5. [[aga-2022-ibs-d|AGA Clinical Practice Guideline: Pharmacological Management of IBS-D (2022)]]
+6. [[aga-2020-sibo|AGA 2020 Clinical Practice Update: Small Intestinal Bacterial Overgrowth (Expert Review)]]

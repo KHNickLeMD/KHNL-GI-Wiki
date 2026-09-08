@@ -3,8 +3,8 @@ title: "Ulcerative Colitis"
 category: disease-script
 tags: [uc, ulcerative-colitis, ibd, 5-asa, biologics, anti-tnf, vedolizumab, asuc, pancolitis, proctitis]
 created: 2026-05-07
-updated: 2026-09-06
-sources: [acg-2025-uc, aga-2024-uc-pharm, aga-2024-pouchitis, aga-2023-biomarkers-uc, acg-2019-uc, asge-2015-scenic-ibd-dysplasia, asge-2015-ibd, aga-2026-inpatient-ibd, aga-2026-therapeutic-endoscopy-ibd, aga-2026-cdiff-ibd, aga-2024-intestinal-ultrasound, aga-2024-diet-nutrition-ibd, aga-2024-ibd-malignancy, aga-2024-pregnancy-gi-liver, aga-2024-fmt]
+updated: 2026-09-08
+sources: [acg-2025-uc, aga-2024-uc-pharm, aga-2024-pouchitis, aga-2023-biomarkers-uc, acg-2019-uc, asge-2015-scenic-ibd-dysplasia, asge-2015-ibd, aga-2026-inpatient-ibd, aga-2026-therapeutic-endoscopy-ibd, aga-2026-cdiff-ibd, aga-2024-intestinal-ultrasound, aga-2024-diet-nutrition-ibd, aga-2024-ibd-malignancy, aga-2024-pregnancy-gi-liver, aga-2024-fmt, aga-2021-ibd-colorectal-dysplasia]
 ---
 
 Idiopathic chronic inflammatory disorder of the large intestine. Continuous mucosal inflammation starting in rectum and extending proximally. Relapsing-remitting course; goal of therapy is sustained steroid-free endoscopic remission.
@@ -172,7 +172,7 @@ Idiopathic chronic inflammatory disorder of the large intestine. Continuous muco
 
 - TB (IGRA preferred if BCG-vaccinated)
 - [[chronic-hepatitis-b|HBV]] (HBsAg, anti-HBc, anti-HBs); vaccinate if seronegative; antiviral prophylaxis if HBsAg+
-- [[ibd-preventive-care|Update all vaccines]] before immunosuppression; live vaccines contraindicated after. Influenza, pneumococcal and **herpes zoster** vaccination — the last **particularly before an S1P modulator or JAK inhibitor**
+- [[ibd-preventive-care|Update all vaccines]] before immunosuppression; live vaccines contraindicated after. Influenza, pneumococcal and **herpes zoster** vaccination — the last **particularly before an S1P modulator or [[jak-inhibitors|JAK inhibitor]]**
 - **S1P modulators (ozanimod, etrasimod):** **baseline ECG** before initiation (bradycardia/AV block)
 - TPMT before a [[thiopurines|thiopurine]]
 - Assess comorbidity, frailty, functional status, concomitant meds, and **thromboembolic/cardiovascular risk** before choosing an advanced therapy; monitor CBC, chemistries and transaminases on treatment per label
@@ -195,7 +195,7 @@ Idiopathic chronic inflammatory disorder of the large intestine. Continuous muco
 
 **Proctitis (E1):**
 
-1. **Rectal mesalamine 1 g/day suppository** — first-line induction (Strong)
+1. **Rectal [[mesalamine-5-asa|mesalamine]] 1 g/day suppository** — first-line induction (Strong)
 2. Rectal corticosteroid suppository/foam — if 5-ASA fails (Conditional)
 3. [[tacrolimus|Tacrolimus]] suppository or beclomethasone suppository — if 5-ASA fails (Conditional)
 
@@ -399,7 +399,31 @@ Idiopathic chronic inflammatory disorder of the large intestine. Continuous muco
 - **Start after 8 years of disease.** (The familiar "8–10 years" is *previous* guidance; ACG moved to 8 y because CRC is occurring earlier in some patients and the older models did not adjust for degree of inflammation.)
 - **PSC is the exception: begin at the time of the UC diagnosis and repeat annually** — the CRC risk is high enough, and PSC-associated UC tends to be less symptomatic (so present longer than recognized) with more proximal histologic activity.
 - **Intervals are risk-adjusted, not fixed** — shorter with more risk factors, longer when histologic inflammation is under excellent control. Risk factors: disease duration, extent, PSC, family history, and **active inflammation**. Control of mucosal inflammation may itself lower dysplasia risk (KC 14).
-  - ⚠ **No numeric repeat interval is available from an ingested source.** ACG 2019 states outright that *"the timing of the first screening examination and subsequent surveillance intervals have not been prospectively determined,"* and [[asge-2015-scenic-ibd-dysplasia|SCENIC]] deliberately left intervals to other guidelines. The only firm number is the **annual** exam in PSC. A dedicated source would be needed for the familiar 1–3 y banding — flagged, not filled.
+- **Take staging biopsies from multiple colonic segments at that first exam** — histologic activity and extent are what set the subsequent interval. When biopsying an inflamed segment, target the most severely affected area, specifically **the edges of ulcers** if present. [[aga-2021-ibd-colorectal-dysplasia]]
+  - ⚠ *ACG 2019 states that "the timing of the first screening examination and subsequent surveillance intervals have not been prospectively determined," and [[asge-2015-scenic-ibd-dysplasia|SCENIC]] deliberately left intervals to other guidelines. [[aga-2021-ibd-colorectal-dysplasia|AGA 2021]] supplies the numbers below — ungraded Best Practice Advice, not GRADE.* AGA 2021 gives the **start** as 8–10 y after diagnosis; ACG 2019's **8 y** sits inside that band and is what this page applies.
+
+**Surveillance intervals after a negative screening colonoscopy — 1 to 5 years** [[aga-2021-ibd-colorectal-dysplasia]]:
+
+| Situation | Interval |
+|---|---|
+| Most patients **in remission**, no additional high-risk factors | **2 or 3 years** |
+| **Additional high-risk factors present** | **1 year** |
+| **Lowest-risk** patients (defined below) | up to **5 years** |
+| Uncertainty about disease control or dysplasia risk; the **first-ever** surveillance exam, or the first after many years | err sooner — **2–3 years** |
+| **[[crohns-disease\|Crohn's disease]] isolated to the small bowel** | **Average-risk CRC screening**, not IBD surveillance — no excess CRC risk vs the non-IBD population |
+
+**Stratify on:** current *and prior* burden of colonic inflammation (endoscopic **and** histologic extent **and** severity); colitis duration; family history of CRC; [[primary-sclerosing-cholangitis|PSC]]; history of colorectal dysplasia; frequency and quality of prior surveillance exams; and factors that obscure subtle dysplasia — **moderate-to-severe post-inflammatory polyposis, extensive mucosal scarring**.
+
+**"Lowest risk" is a conjunction:** historically well-controlled disease between consecutive colonoscopies, **with either** (a) **short-segment colonic disease** — e.g. isolated proctitis in UC, or **less than one-third of the colon** in Crohn's — **or** (b) repeated examinations without dysplasia **and** with mucosal healing; **and** in the **absence of other inherent CRC risk factors**.
+
+**After endoscopic resection of a visible dysplastic lesion:**
+
+| Lesion risk | Next exam |
+|---|---|
+| **Highest-risk lesions** | **3–6 months** |
+| **Lowest-risk** — simple sub-centimeter sessile or pedunculated low-grade adenomas | **no more than 24 months** |
+
+*Context: intervals have traditionally run **1–3 y among US societies** and **1–5 y among European societies**; the 5-year option for the lowest-risk patient is longer than traditional US practice.*
 
 **Surveillance technique:**
 - High-definition colonoscopy preferred over standard-definition.
@@ -407,6 +431,9 @@ Idiopathic chronic inflammatory disorder of the large intestine. Continuous muco
 - **High-definition scope → white-light with NBI *or* dye-spray chromoendoscopy** *(Conditional / low, ACG 2019 rec 49)*. ⚠ **Guidelines differ:** the older [[asge-2015-scenic-ibd-dysplasia|SCENIC 2015]] consensus held that **NBI is not a substitute** for white-light or chromoendoscopy; the newer ACG 2019 accepts NBI with HD scopes. The page follows ACG 2019 (newer, same tier).
 - Terminology ([[asge-2015-scenic-ibd-dysplasia|SCENIC]]): **visible** (polypoid/nonpolypoid, per modified Paris) vs **invisible** dysplasia; the terms DALM / adenoma-like are abandoned. Report **size, shape, site, surface pattern, and activity of the surrounding mucosa** using the modified Paris classification — the surrounding-mucosa description is what makes resection planning possible. Dysplasia found on **nontargeted/random** biopsies is by definition **invisible**. [[aga-2026-therapeutic-endoscopy-ibd]]
 - **Random biopsies are still advised in high-risk patients** — [[primary-sclerosing-cholangitis|PSC]], prior dysplasia, or active inflammation — on top of targeted sampling. [[aga-2026-therapeutic-endoscopy-ibd]]
+- **The nontargeted-biopsy protocol, and when it is required** [[aga-2021-ibd-colorectal-dysplasia]]: **required** when white-light endoscopy is used **without** dye-spray or virtual chromoendoscopy. **Protocol = ~4 adequately spaced biopsies every 10 cm** from flat colorectal mucosa in previously colitic segments, **plus additional biopsies** from areas of prior dysplasia or poor mucosal visibility. **Not routinely required** if DCE or VCE is performed on an **HD** scope — but **still consider it with a history of dysplasia or PSC**. Pooled estimates: **1%–1.5%** of patients surveilled with HD-WLE would have dysplasia missed if nontargeted biopsies were dropped, and recent large series report **up to 20%** of dysplastic lesions found by nontargeted biopsies alone.
+- **Biopsy anything inexplicably different from surrounding mucosa** — mass-like or poorly delineated abnormalities, and any unexplained change in **mucosal color, vascularity, nodularity, elevation, or ulceration**. [[aga-2021-ibd-colorectal-dysplasia]]
+- ⚠ **Do not damage a lesion you are not resecting.** Avoid excessive or deep biopsies, attempts to raise a lesion without resecting it, and unsuccessful resection attempts by less experienced endoscopists — all cause **submucosal scarring** that makes later endoscopic resection harder. Place an **India ink tattoo at least 3 cm distal** to a larger/complex lesion, photodocument, and refer if resectability is in question. [[aga-2021-ibd-colorectal-dysplasia]]
 - **Management:** completely resected endoscopically-resectable visible dysplasia (polypoid or nonpolypoid) → continued surveillance, **not** colectomy; **invisible** dysplasia (GI-pathologist–confirmed) → refer to an IBD-surveillance/chromoendoscopy expert.
 
 **Colitis-associated neoplasia (CAN) — resect endoscopically or send to surgery? The criteria** *(the decision inputs behind "endoscopically resectable")* [[aga-2026-therapeutic-endoscopy-ibd]]:
@@ -422,6 +449,23 @@ Idiopathic chronic inflammatory disorder of the large intestine. Continuous muco
 - **Outcomes** (meta-analysis, >600 lesions, mean 23 mm, EMR or ESD): complete resection **97.9%**, local recurrence **4.9%**, metachronous lesions **7.4%** — which is why surveillance continues after a successful resection.
 - Routine biopsies of mucosa *surrounding* a resected dysplastic lesion are **not** required (low yield) unless resection completeness is in question.
 - **Chromoendoscopy evidence has moved:** network meta-analysis found dye-based chromoendoscopy detects **1.42×** (95% CI 1.02–1.98) more dysplastic lesions than HD white-light; but the **HELIOS RCT (n=563)** showed **HD white-light with segmental re-inspection is noninferior** to HD dye-chromoendoscopy for CAN detection, with a shorter withdrawal time. DCE also fails with inadequate prep or active inflammation. [[aga-2026-therapeutic-endoscopy-ibd]]
+
+**Invisible dysplasia — the unmasking step comes before colectomy** [[aga-2021-ibd-colorectal-dysplasia]]:
+
+1. Invisible dysplasia of **any grade** (indefinite, definite low-grade, or high-grade) from nontargeted biopsies must be **confirmed by a second expert pathologist**.
+2. Then repeat colonoscopy with **HD dye-spray chromoendoscopy** by an experienced endoscopist under optimized viewing conditions, to **unmask the lesion for targeted resection**. If no lesion is seen → **extensive nontargeted biopsies in the area of prior dysplasia**.
+   - If there was **active inflammation** at the original exam (reactive atypia is misread as dysplasia), **control the inflammation first**. If viewing conditions were suboptimal, repeat the DCE after optimizing them.
+3. **Colectomy is prompted by** — **unresectable visible dysplasia**, **or invisible *multifocal* dysplasia**, **or invisible *high-grade* dysplasia** on histology. If the lesion proves visible and resectable, or the histologic dysplasia is **not confirmed** on a high-quality DCE exam → **continued endoscopic surveillance at frequent intervals**. Modern risk of future CRC after **unifocal low-grade dysplasia is considerably lower than in older reports**.
+
+**Pseudopolyps and post-inflammatory polyps** [[aga-2021-ibd-colorectal-dysplasia]]:
+
+- **Targeted biopsies of representative or concerning pseudopolyps** are appropriate; **removal and sampling of *all* lesions is neither required nor practical.**
+- **Post-inflammatory polyps are not precancerous** → removal not required. Inspect the flat mucosa *between* them, ± nontargeted biopsies, to find flat or subtle lesions.
+- **Do not use dye-spray chromoendoscopy** to look for flat or subtle lesions within a field of pseudopolyps.
+- Definitions: **acute pseudopolyps** = normal mucosa within areas of ulceration giving the impression of a polyp; **chronic post-inflammatory polyps** = finger-like or sessile projections of submucosa with surface architecture similar to the surrounding mucosa on all sides.
+- **Surgery is a last resort** for CRC risk in severe pseudopolyposis — rarely performed, occasionally appropriate.
+
+**Chemoprevention in IBD is inflammation control** — optimal disease control with medical therapy is imperative to minimizing lifetime CRC risk, because IBD CRC risk is primarily inflammation-driven. ⚠ **The independent chemopreventive benefit of [[mesalamine-5-asa|mesalamine]] is uncertain** — meta-analyses of population-based studies conflict. [[aga-2021-ibd-colorectal-dysplasia]] *(The average-risk agent-by-agent framework on [[colorectal-cancer-screening]] explicitly **excludes** IBD and does not apply here.)*
 
 ---
 
@@ -449,7 +493,7 @@ Idiopathic chronic inflammatory disorder of the large intestine. Continuous muco
 
 ## See Also
 
-[[crohns-disease]], [[inflammatory-bowel-disease]], [[uc-vs-crohns-comparison]], [[ibd-preventive-care]], [[ibd-endoscopic-scoring]], [[intestinal-ultrasound]], [[clostridioides-difficile]], [[primary-sclerosing-cholangitis]], [[colorectal-cancer]], [[colonoscopy]], [[colon-ischemia]], [[microscopic-colitis]], [[radiation-proctopathy]], [[immune-checkpoint-inhibitor-colitis]], [[pouchitis]], [[chronic-diarrhea]], [[nutrition-in-ibd]], [[ibd-in-malignancy]], [[liver-disease-in-pregnancy]], [[nausea-and-vomiting-of-pregnancy]], [[ostomy-management]], [[calcineurin-inhibitors]], [[endoscopic-mucosal-resection]], [[colorectal-esd]], [[endoscopic-full-thickness-resection]], [[toxic-megacolon]], [[polypectomy]], [[ibd-pain-management]], [[iron-deficiency-anemia]], [[il-23-and-il-12-23-inhibitors]]
+[[crohns-disease]], [[inflammatory-bowel-disease]], [[uc-vs-crohns-comparison]], [[ibd-preventive-care]], [[ibd-endoscopic-scoring]], [[intestinal-ultrasound]], [[clostridioides-difficile]], [[primary-sclerosing-cholangitis]], [[colorectal-cancer]], [[colonoscopy]], [[colon-ischemia]], [[microscopic-colitis]], [[radiation-proctopathy]], [[immune-checkpoint-inhibitor-colitis]], [[pouchitis]], [[chronic-diarrhea]], [[nutrition-in-ibd]], [[ibd-in-malignancy]], [[liver-disease-in-pregnancy]], [[nausea-and-vomiting-of-pregnancy]], [[ostomy-management]], [[calcineurin-inhibitors]], [[endoscopic-mucosal-resection]], [[colorectal-esd]], [[endoscopic-full-thickness-resection]], [[toxic-megacolon]], [[polypectomy]], [[ibd-pain-management]], [[iron-deficiency-anemia]], [[il-23-and-il-12-23-inhibitors]], [[jak-inhibitors]], [[mesalamine-5-asa]]
 
 ---
 
@@ -470,3 +514,4 @@ Idiopathic chronic inflammatory disorder of the large intestine. Continuous muco
 13. [[aga-2024-ibd-malignancy|AGA Clinical Practice Update on Management of IBD in Patients With Malignancy: Commentary (2024)]]
 14. [[aga-2024-pregnancy-gi-liver|AGA Clinical Practice Update on Pregnancy-Related Gastrointestinal and Liver Disease: Expert Review (2024)]]
 15. [[aga-2024-fmt|AGA Clinical Practice Guideline: Fecal Microbiota-Based Therapies for Select GI Diseases (2024)]]
+16. [[aga-2021-ibd-colorectal-dysplasia|AGA Clinical Practice Update on Endoscopic Surveillance and Management of Colorectal Dysplasia in Inflammatory Bowel Diseases: Expert Review (2021)]]

@@ -3,8 +3,8 @@ title: "Endoscopic Submucosal Dissection (Colorectal)"
 category: advanced-procedure
 tags: [esd, hybrid-esd, endoscopic-resection, en-bloc, colorectal, t1-crc, malignant-polyp, submucosal-invasion, eftr]
 created: 2026-08-11
-updated: 2026-09-07
-sources: [usmstf-2020-endoscopic-removal, aga-2025-endoscopic-resection-crc, asge-2020-endoscopic-removal]
+updated: 2026-09-08
+sources: [usmstf-2020-endoscopic-removal, aga-2025-endoscopic-resection-crc, asge-2020-endoscopic-removal, aga-2024-full-thickness-resection]
 ---
 
 # Endoscopic Submucosal Dissection (Colorectal)
@@ -25,7 +25,7 @@ sources: [usmstf-2020-endoscopic-removal, aga-2025-endoscopic-resection-crc, asg
 
 ## Colorectal ESD Indications (limited)
 
-*Source: [[usmstf-2020-endoscopic-removal]].*
+*Source: [[usmstf-2020-endoscopic-removal]] — **narrative body text; the document attaches no GRADE rating to its ESD indications** (same status as the eFTR note below). Do not cite these as graded recommendations.*
 
 Most colorectal neoplasms are benign and resectable by piecemeal [[endoscopic-mucosal-resection|EMR]] with minimal recurrence risk, so the indication set is narrow. The gate is a **lesion ≥20 mm that is destined for endoscopic (not surgical) resection and in which en-bloc inject-and-cut EMR would be difficult** — within that gate:
 
@@ -43,12 +43,23 @@ Most colorectal neoplasms are benign and resectable by piecemeal [[endoscopic-mu
 
 ## Endoscopic Full-Thickness Resection (eFTR)
 
-- eFTR **is an option** for lesions **<30 mm**, especially **non-lifting** lesions or those **involving a diverticulum**, using the full-thickness resection device (FTRD/OTSC system) — *Weak; low-quality evidence* ([[asge-2020-endoscopic-removal]] Rec 26). Read this as an option, not an indication.
-  - ⚠ **Three different eFTR size gates sit across the wiki and are not reconciled by any ingested source:** **<30 mm** here (ASGE 2020 Rec 26), **<2 cm** for select T1 CRC below, and **generally ≤20 mm** for mucosal lesions on [[endoscopic-full-thickness-resection]]. They come from different documents answering different questions (option-to-attempt vs T1-cancer selection vs mucosal-lesion practice); the R0 data below is what actually drives case selection. Do not collapse them into one number.
-- Uses the full-thickness resection device (OTSC clip system with integrated snare); removes all layers of the colon wall → allows complete histologic assessment
-- **R0 resection is size-dependent — this is the selection rule.** In a prospective multicenter study of 181 patients (9 German centers), R0 (margins of the resected specimen free of neoplasia) fell to **58.1% for lesions >20 mm vs 81.2% for lesions ≤20 mm** (P = .0038). Effectiveness was best for difficult-to-resect lesions (non-lifting, challenging locations) **≤20 mm**. ([[asge-2020-endoscopic-removal]])
-- Likely mechanism of the size effect: difficulty judging whether the lesion margin is fully contained in the cap once the lesion is drawn in
-- Device mechanics, adverse-event rates, and use for subepithelial lesions — see [[endoscopic-full-thickness-resection]]
+- Uses the full-thickness resection device (FTRD — OTSC clip system with integrated snare); removes all layers of the colon wall → allows complete histologic assessment. **Cap outer diameter 21 mm**, which is what limits how much tissue can be drawn in and imposes the size ceilings below ([[usmstf-2020-endoscopic-removal]], [[asge-2020-endoscopic-removal]]).
+- Suggested indications, verbatim: *"Suggested indications for endoscopic full-thickness resection include lesions **<30 mm**, particularly **non-lifting** or those **involving diverticulum**."* Read this as an option, not an indication.
+  - ⚠ **Source-fidelity correction (2026-09-08):** this sentence is **narrative text** in USMSTF 2020, not a graded recommendation. The document contains **no numbered recommendation about eFTR and no GRADE rating for it** — the previously cited *"Rec 26, Weak; low-quality evidence"* did not exist in either the AJG or the GIE version of the document and has been removed here and on [[asge-2020-endoscopic-removal]].
+
+**Size ceiling — one lesion type at a time.** The three numbers in circulation are not rivals; they answer different questions:
+
+| Lesion type | Ceiling | Source |
+|---|---|---|
+| Colorectal **mucosal** lesion — outer bound of what may be attempted | **<30 mm** | [[usmstf-2020-endoscopic-removal\|USMSTF 2020]] (narrative) |
+| Colorectal **mucosal** lesion — where it actually works (R0 ≥80%) | **≤20 mm** | USMSTF 2020 subgroup data (below); [[aga-2024-full-thickness-resection\|AGA 2024]]: *"the FTRD is generally accepted for mucosal lesions ≤20 mm"* |
+| **T1 CRC** with suspected deep SMI | **<2 cm** | [[aga-2025-endoscopic-resection-crc\|AGA 2025]] ([[#En-Bloc Imperative and Modality Choice]]) |
+| **[[subepithelial-lesion\|Subepithelial]]** lesion (not mucosal) | **<15 mm**; **≥15 mm** → higher incomplete-resection risk | AGA 2024 Table 1 — see [[endoscopic-full-thickness-resection]] |
+
+- **Working rule: ≤20 mm for a mucosal colorectal lesion.** USMSTF's own <30 mm bound and the newer AGA 2024 statement converge on ≤20 mm as the practical ceiling; 20–30 mm is attemptable but R0 falls below 60%.
+- **R0 resection is size-dependent — this is the selection rule.** In a prospective multicenter study of 181 patients (9 German centers), R0 (margins of the resected specimen free of neoplasia) fell to **58.1% for lesions >20 mm vs 81.2% for lesions ≤20 mm** (P = .0038). Effectiveness was best for difficult-to-resect lesions (non-lifting, challenging locations) **≤20 mm** ([[usmstf-2020-endoscopic-removal]], [[asge-2020-endoscopic-removal]]).
+- Likely mechanism of the size effect: difficulty judging whether the lesion margin is fully contained in the cap once the lesion is drawn in.
+- Device mechanics, adverse-event rates, and use for subepithelial lesions — see [[endoscopic-full-thickness-resection]].
 
 ---
 
@@ -60,7 +71,7 @@ Most colorectal neoplasms are benign and resectable by piecemeal [[endoscopic-mu
 
 - Suspected T1 CRC should ideally be removed **en bloc** (USMSTF/ESGE/JGES). Piecemeal resection impairs histologic assessment and is itself an **independent risk factor for luminal recurrence**; NCCN states piecemeal-removed T1 inevitably requires adjuvant surgery.
 - **ESD is often preferred** for suspected superficially invasive T1 CRC — higher en-bloc rate than EMR irrespective of size. Limited by complexity, learning curve, and inability to confidently resect deep SMI; may not be widely available in the community.
-- **[[endoscopic-full-thickness-resection|eFTR]]** is a reasonable alternative for select T1 CRC **<2 cm** where deep SMI is suspected.
+- **[[endoscopic-full-thickness-resection|eFTR]]** *"may be a reasonable safe and effective alternative, particularly for select T1 CRCs **<2 cm** in size in which deep SMI is suspected."* Consistent with the ≤20 mm mucosal working ceiling in [[#Endoscopic Full-Thickness Resection (eFTR)]].
 - Where optical diagnosis is unclear or CRC is highly suspected, refer to a high-volume center with resection and pathology expertise. Real-world optical-diagnosis sensitivity for T1 CRC is often only 40%–50%.
 
 ### Unified Curative-Resection Criteria (USMSTF / ESGE / JGES) — ALL five required
@@ -94,7 +105,7 @@ Most colorectal neoplasms are benign and resectable by piecemeal [[endoscopic-mu
 
 ## See Also
 
-[[endoscopic-submucosal-dissection]], [[endoscopic-mucosal-resection]], [[polypectomy]], [[endoscopic-full-thickness-resection]], [[colonoscopy]], [[colonoscopy-surveillance]], [[colorectal-cancer]], [[inflammatory-bowel-disease]], [[endoscopic-oncology]]
+[[endoscopic-submucosal-dissection]], [[endoscopic-mucosal-resection]], [[polypectomy]], [[endoscopic-full-thickness-resection]], [[subepithelial-lesion]], [[colonoscopy]], [[colonoscopy-surveillance]], [[colorectal-cancer]], [[inflammatory-bowel-disease]], [[endoscopic-oncology]], [[electrosurgery]]
 
 ---
 
@@ -103,3 +114,4 @@ Most colorectal neoplasms are benign and resectable by piecemeal [[endoscopic-mu
 1. [[usmstf-2020-endoscopic-removal|USMSTF 2020: Endoscopic Removal of Colorectal Lesions]]
 2. [[aga-2025-endoscopic-resection-crc|AGA Clinical Practice Update on Endoscopic Resection for Early Colorectal Cancer: Commentary (2025)]]
 3. [[asge-2020-endoscopic-removal|ASGE 2020: Endoscopic Removal of Colorectal Lesions]]
+4. [[aga-2024-full-thickness-resection|AGA 2024 Clinical Practice Update on Endoscopic Full-Thickness Resection for the Management of Gastrointestinal Subepithelial Lesions]]

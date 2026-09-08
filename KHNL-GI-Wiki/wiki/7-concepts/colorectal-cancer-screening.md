@@ -3,8 +3,8 @@ title: "Colorectal Cancer Screening"
 category: concept
 tags: [crc, colorectal-cancer, screening, colonoscopy, fit, colonoscopy-quality, adenoma, colorectal]
 created: 2026-05-16
-updated: 2026-09-05
-sources: [acg-2021-crc-screening, usmstf-2021-crc-screening-age, aga-2023-crc-screening-risk-stratification, aga-2025-crc-blood-tests]
+updated: 2026-09-08
+sources: [acg-2021-crc-screening, usmstf-2021-crc-screening-age, aga-2023-crc-screening-risk-stratification, aga-2025-crc-blood-tests, aga-2021-crc-chemoprevention]
 ---
 
 ## Contents
@@ -21,7 +21,10 @@ sources: [acg-2021-crc-screening, usmstf-2021-crc-screening-age, aga-2023-crc-sc
   - [[#Positioning and Caveats]]
 - [[#Colonoscopy Quality Indicators]]
 - [[#Family History Risk Stratification]]
-- [[#Aspirin Chemoprevention (ACG 2021)]]
+- [[#Chemoprevention of Colorectal Neoplasia]]
+  - [[#Aspirin — use it, in a narrowly defined group]]
+  - [[#The five "should not use" agents]]
+  - [[#Metformin — "may consider," and only in type 2 diabetes]]
 - [[#Key Divergences Between Major Guidelines]]
 - [[#See Also]]
 - [[#Sources]]
@@ -169,19 +172,51 @@ What [[acg-2021-crc-screening]] itself recommends (the fuller metric set lives o
 
 ---
 
-## Aspirin Chemoprevention (ACG 2021)
+## Chemoprevention of Colorectal Neoplasia
 
-Low-dose aspirin for CRC chemoprevention in adults aged **50–69** with:
+⚠ **Scope.** [[aga-2021-crc-chemoprevention|AGA 2021]] **excludes dietary factors and high-risk individuals with hereditary syndromes or [[inflammatory-bowel-disease|IBD]]** — it says nothing about [[lynch-syndrome]], [[familial-adenomatous-polyposis|FAP]], or IBD. Do not extend it to them. (Aspirin in Lynch syndrome / CAPP2 is **not** in this source.) IBD chemoprevention = control of inflammation; see [[ulcerative-colitis]].
 
-- ≥10% 10-year cardiovascular disease risk
-- Not at elevated bleeding risk
-- Willing to take for ≥10 years
+⚠ **Read AGA's modal verbs as its grading.** The CPU performed no systematic review and no GRADE rating; the authors state that **"should" = more robust evidence, "may" = less robust.** There is no other strength rating in that document.
 
-**Strength:** Conditional / Low (Rec 17)
+### Aspirin — use it, in a narrowly defined group
 
-**Important caveat:** Aspirin does **NOT** substitute for CRC screening — Strong / Low (Rec 18).
+**[[acg-2021-crc-screening|ACG 2021]] Rec 17 (Conditional / Low):** low-dose aspirin in adults aged **50–69** with **≥10% 10-year cardiovascular disease risk**, **not at elevated bleeding risk**, and **willing to take it for ≥10 years**. Aspirin does **NOT** substitute for CRC screening — Strong / Low (Rec 18).
+
+**[[aga-2021-crc-chemoprevention|AGA 2021]] BPA 1 ("should")** states the same gate as a **conjunction — all three must hold**:
+
+| # | Criterion | Why it is there |
+|---|---|---|
+| 1 | **Age <70 y AND life expectancy ≥10 y** | Benefit **does not appear until 10–19 years** after initiation; GI bleeding risk is **greater above age 70**. **ASPREE** (n = 19,114, 96% aged ≥70) found *higher* CRC mortality with aspirin (**HR 1.77; 1.02–3.06**) at median 4.7 y, without any increase in incidence |
+| 2 | **10-year CVD risk ≥10%** | Benefit "has only been consistently demonstrated in adults younger than 70 years who are at risk of cardiovascular disease"; consistent with USPSTF. Use the **ACC ASCVD Risk Estimator** |
+| 3 | **Not at high risk for bleeding** | Aspirin at **any** dose: major GI bleeding **OR 1.59 (1.32–1.91)**; intracranial bleeding **OR 1.34 (1.07–1.70)** |
+
+- ⚠ **Dropping the dose does not rescue the bleeding risk** — *"the risk did not change substantially when aspirin dose was 100 mg daily or less."* ASCEND (n = 15,480): **100 mg daily raised any major bleeding, RR 1.29 (1.09–1.52)** over 7 years. Quantifies the penalty carried on [[peptic-ulcer-disease]] and [[upper-gi-bleeding]].
+- **The latency is the decision.** CRC incidence: **no difference at 0–12 y** (RR 0.99; 0.85–1.15, n = 69,535) but a **40% reduction at 10–19 y** (RR 0.60; 0.47–0.76, n = 47,464). CRC mortality: **33% lower 20-year cumulative mortality** (RR 0.67; 0.52–0.86) — protection present **only at 10–20 y** (HR 0.51; 0.35–0.74), **not before** (HR 0.79; 0.49–1.26). A patient who will not live through the latency window gets the bleeding risk without the benefit.
+- **BPA 2 ("should consider"):** in individuals **with a history of CRC**, consider aspirin to prevent recurrent colorectal neoplasia — see [[colorectal-cancer]].
+- ⚠ **No chemopreventive dose is stated.** BPA 1 says "low-dose" without a milligram figure; the incidence effect "does not seem to differ by dose"; adenoma recurrence fell at **81–160 mg/d** but **not at ≥300 mg/d**; the post-CRC trial used **325 mg**. **Do not supply a dose.**
+- ⚠ **Where ACG and AGA differ:** ACG bounds the eligible group at ages **50–69**; AGA sets only an **upper** bound (<70) paired with a **≥10-year life-expectancy** requirement. Both are 2021 tier-1 and agree on the CVD-risk and bleeding criteria; the practical difference is the lower age limit.
+
+### The five "should not use" agents
+
+| Agent | AGA 2021 BPA | Why |
+|---|---|---|
+| **Non-aspirin NSAIDs** | **BPA 3 — should not** use in average-risk individuals | Efficacy is real (meta-analysis of 23 observational studies, n = 1,286,773: **26% lower CRC risk**, OR 0.74; celecoxib/rofecoxib trials: **34%–45% lower adenoma recurrence**), but **two COX-2-inhibitor adenoma trials were terminated early for increased cardiovascular events**, and nonselective NSAID GI toxicity is dose-dependent. Protection is also **lost on stopping**, with a possible rebound increase |
+| **Calcium** | **BPA 6 — should not** (alone or with vitamin D) | ⚠ **Harm signal, not just absent benefit:** calcium was associated with an increased **delayed** risk of [[serrated-polyposis-syndrome\|sessile serrated lesions]], **RR 2.66 (1.44–4.89)** |
+| **Vitamin D** | **BPA 6 — should not** | **Women's Health Initiative** (>36,000 postmenopausal women, **1000 mg elemental calcium + 400 IU cholecalciferol**, mean 7 y): **no effect on CRC incidence** (HR 1.08; 0.86–1.34). ⚠ The **calcium + vitamin D combination** was associated with **increased SSL risk 6–10 years after starting, RR 3.82 (1.26–11.57)** |
+| **Folic acid** | **BPA 7 — should not** | Trial harm against observational benefit: a US trial (n = 1021) found **no** reduction in adenoma recurrence (RR 1.04) and **increased advanced and multiple adenomas**, **increased non-colorectal cancers (particularly prostate)**, and on long-term follow-up **a possible excess of right-sided serrated lesions** |
+| **Statins** | **BPA 8 — should not** in average-risk individuals; **BPA 9 — should not** to reduce mortality after CRC | Observational data are mixed and inconsistent in both directions. The recommendation against is about **lack of demonstrated benefit for this indication**, not toxicity |
+
+⚠ **The recurring pattern is observational benefit vs randomized harm** — calcium, vitamin D and folic acid all look protective in cohort data and fail or harm in trials. The CPU resolves this in favor of the trials; any citation of the observational figures must carry the trial result alongside.
+
+### Metformin — "may consider," and only in type 2 diabetes
+
+- **BPA 4:** in individuals with **type 2 diabetes**, **may consider** metformin to prevent colorectal neoplasia — meta-analysis of 14 observational studies (n = 459,607): **27% lower CRC incidence** (OR 0.73; 0.62–0.86); 5 observational studies (n = 19,730): **20% lower adenoma risk** (OR 0.80; 0.71–0.90).
+- **BPA 5:** in individuals with **CRC and type 2 diabetes**, **may consider** metformin to reduce mortality — 17 observational studies (n = 269,417): cancer-specific survival **HR 0.75 (0.59–0.94)**, overall survival **HR 0.69 (0.61–0.77)**. ⚠ The CPU itself cautions these are *"susceptible to confounding by diabetes severity and time-related biases."*
+- The only randomized signal in **nondiabetic** patients is small: 2016 Japanese RCT (n = 151, prior adenoma/polyp), **metformin 250 mg vs placebo × 1 year → 40% lower adenoma recurrence** (RR 0.60; 0.39–0.92); **11% mild adverse events, none serious.** Hence "may," and hence the restriction to patients who already have an independent indication.
 
 > **Open question, not an ingested-guideline claim.** The USPSTF's 2022 statement against aspirin for primary CVD prevention in most adults ≥60 postdates [[acg-2021-crc-screening]] and would cut against the ≥10%-10-y-CVD-risk premise of Rec 17. That USPSTF statement is **not in `raw/`**; it is flagged here (and on the source page) as an open question, not asserted as guidance.
+
+> **Also time-limited:** the Australian **D-Health Trial** (>21,000 randomized to 5 years of cholecalciferol) was pending at AGA 2021 publication ("not expected until at least 2025") and would bear on BPA 6.
 
 ---
 
@@ -202,7 +237,7 @@ Low-dose aspirin for CRC chemoprevention in adults aged **50–69** with:
 
 ## See Also
 
-[[colonoscopy]], [[colorectal-cancer]], [[lynch-syndrome]], [[polypectomy]], [[colonoscopy-surveillance]], [[familial-adenomatous-polyposis]], [[capsule-endoscopy]], [[serrated-polyposis-syndrome]], [[artificial-intelligence-endoscopy]], [[inflammatory-bowel-disease]], [[ulcerative-colitis]], [[crohns-disease]]
+[[colonoscopy]], [[colorectal-cancer]], [[lynch-syndrome]], [[polypectomy]], [[colonoscopy-surveillance]], [[familial-adenomatous-polyposis]], [[capsule-endoscopy]], [[serrated-polyposis-syndrome]], [[artificial-intelligence-endoscopy]], [[inflammatory-bowel-disease]], [[ulcerative-colitis]], [[crohns-disease]], [[peptic-ulcer-disease]], [[upper-gi-bleeding]]
 
 ---
 
@@ -212,3 +247,4 @@ Low-dose aspirin for CRC chemoprevention in adults aged **50–69** with:
 2. [[usmstf-2021-crc-screening-age|USMSTF 2021: Updates on Age to Start and Stop CRC Screening]]
 3. [[aga-2023-crc-screening-risk-stratification|AGA Clinical Practice Update on Risk Stratification for Colorectal Cancer Screening and Post-Polypectomy Surveillance: Expert Review (2023)]]
 4. [[aga-2025-crc-blood-tests|AGA Clinical Practice Update on Current Role of Blood Tests for Colorectal Cancer Screening: Commentary (2025)]]
+5. [[aga-2021-crc-chemoprevention|AGA Clinical Practice Update on Chemoprevention for Colorectal Neoplasia: Expert Review (2021)]]

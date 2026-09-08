@@ -3,8 +3,8 @@ title: "Crohn's Disease"
 category: disease-script
 tags: [crohns, ibd, biologics, ileitis, colitis, perianal-fistula, stricture, fistula, anti-tnf]
 created: 2026-05-07
-updated: 2026-09-06
-sources: [acg-2025-crohns, aga-2025-crohns-pharm, aga-2021-crohns-pharm, aga-2023-biomarkers-cd, acg-2018-crohns, asge-2015-scenic-ibd-dysplasia, asge-2015-ibd, aga-2026-inpatient-ibd, aga-2026-therapeutic-endoscopy-ibd, aga-2024-intestinal-ultrasound, aga-2024-diet-nutrition-ibd, aga-2024-ibd-malignancy, aga-2024-pregnancy-gi-liver]
+updated: 2026-09-08
+sources: [acg-2025-crohns, aga-2025-crohns-pharm, aga-2021-crohns-pharm, aga-2023-biomarkers-cd, acg-2018-crohns, asge-2015-scenic-ibd-dysplasia, asge-2015-ibd, aga-2026-inpatient-ibd, aga-2026-therapeutic-endoscopy-ibd, aga-2024-intestinal-ultrasound, aga-2024-diet-nutrition-ibd, aga-2024-ibd-malignancy, aga-2024-pregnancy-gi-liver, aga-2021-ibd-colorectal-dysplasia]
 ---
 
 Idiopathic, transmural, granulomatous inflammatory disorder of the GI tract. Can involve any segment mouth-to-anus; discontinuous, skip lesions. Chronic progressive course with risk of stricture, fistula, abscess, and surgery.
@@ -199,7 +199,7 @@ No single pathognomonic test. Diagnosis = integration of:
 | Treatment | Use | Notes |
 |---|---|---|
 | Budesonide CIR 9mg/day | Induction only (mild-moderate ileocecal) | NOT for maintenance; not for colonic disease; ~10–20% bioavailability |
-| Mesalamine | NOT RECOMMENDED | No efficacy in CD (multiple RCTs) |
+| [[mesalamine-5-asa\|Mesalamine]] | NOT RECOMMENDED | No efficacy in CD (multiple RCTs) |
 | Sulfasalazine | Only mild colonic CD (weak) | Modestly effective for symptoms; no mucosal healing |
 | Dietary therapy | Low-risk, mild CD | [[nutrition-in-ibd#CDED (Partial Enteral Nutrition)\|CD exclusion diet]], [[nutrition-in-ibd#Background / Maintenance Diet\|Mediterranean diet]]; not durable; monitor closely |
 
@@ -247,7 +247,7 @@ No single pathognomonic test. Diagnosis = integration of:
 
 | Prior advanced therapy | Higher efficacy | Intermediate efficacy | Lower efficacy (avoid) |
 |---|---|---|---|
-| **Naïve** | Infliximab · adalimumab · vedolizumab · ustekinumab · risankizumab · mirikizumab · guselkumab | — | Certolizumab pegol · **upadacitinib** |
+| **Naïve** | Infliximab · adalimumab · vedolizumab · ustekinumab · risankizumab · mirikizumab · guselkumab | — | Certolizumab pegol · **[[jak-inhibitors\|upadacitinib]]** |
 | **≥1 prior advanced therapy (esp. anti-TNF)** | Adalimumab · risankizumab · guselkumab · **upadacitinib** | Ustekinumab · mirikizumab | **Vedolizumab** · certolizumab pegol |
 
 - ⚠ **The tiers invert for two drugs.** **Upadacitinib** is *lower* efficacy in the naïve patient but *higher* after anti-TNF exposure (and the FDA label requires prior anti-TNF exposure anyway). **Vedolizumab** is the reverse — *higher* efficacy naïve, *lower* after anti-TNF failure. Prior exposure, not the drug alone, sets the ranking.
@@ -424,7 +424,7 @@ No single pathognomonic test. Diagnosis = integration of:
 | Clinical response | 2–4 weeks post-induction | Symptom improvement |
 | Objective response | 12–16 weeks | CRP, FC, endoscopy, imaging |
 | TDM (anti-TNF) | At loss of response | Trough levels + antidrug antibodies |
-| [[colorectal-cancer\|CRC]] surveillance | From **8 y** of disease (extent criteria under Special Considerations); **[[primary-sclerosing-cholangitis\|PSC]] → from diagnosis** | Same strategy as [[ulcerative-colitis\|UC]] — dysplasia progression rates are equivalent in UC and CD. HD + dye-spray chromoendoscopy preferred; **NBI should *not* be used** in CD surveillance ([[acg-2018-crohns]] rec 4). ⚠ **No repeat interval is stated in any ingested source** — [[asge-2015-scenic-ibd-dysplasia\|SCENIC]] explicitly did not address intervals; flagged, not filled |
+| [[colorectal-cancer\|CRC]] surveillance | From **8 y** of disease (extent criteria under Special Considerations); **[[primary-sclerosing-cholangitis\|PSC]] → from diagnosis**. Then **every 1–5 y, risk-stratified** — the interval table and its risk factors live on [[ulcerative-colitis\|UC → CRC surveillance]] ([[aga-2021-ibd-colorectal-dysplasia]]). ⚠ **Crohn's isolated to the small bowel carries no excess CRC risk vs the non-IBD population → average-risk CRC screening applies, not IBD surveillance.** For the "lowest risk / up to 5 y" band, short-segment colonic disease in CD means **less than one-third of the colon** | Same strategy as [[ulcerative-colitis\|UC]] — dysplasia progression rates are equivalent in UC and CD. HD + dye-spray chromoendoscopy preferred; **NBI should *not* be used** in CD surveillance ([[acg-2018-crohns]] rec 4). ⚠ **Guidelines differ on virtual chromoendoscopy:** [[aga-2021-ibd-colorectal-dysplasia\|AGA 2021]] (newer, same tier) puts **VCE on equal footing with dye-spray on an HD scope** — meta-analysis of 11 RCTs, similar per-patient dysplasia detection with **shorter withdrawal times** — against ACG 2018's position here. Both are recorded; ACG 2018's CD-specific "not NBI" is the narrower claim |
 | Postoperative scope | 6–12 months | Rutgeerts score |
 
 **Symptoms do not correlate with mucosal inflammation** — always confirm with objective assessment (endoscopy, CRP, FC) before treatment decisions.
@@ -461,7 +461,7 @@ No single pathognomonic test. Diagnosis = integration of:
 
 ## See Also
 
-[[ulcerative-colitis]], [[inflammatory-bowel-disease]], [[uc-vs-crohns-comparison]], [[ibd-preventive-care]], [[ibd-endoscopic-scoring]], [[ibd-pain-management]], [[intestinal-ultrasound]], [[clostridioides-difficile]], [[celiac-disease]], [[colorectal-cancer]], [[primary-sclerosing-cholangitis]], [[capsule-endoscopy]], [[colonoscopy]], [[chronic-diarrhea]], [[nutrition-in-ibd]], [[short-bowel-syndrome]], [[ibd-in-malignancy]], [[toxic-megacolon]], [[pouchitis]], [[liver-disease-in-pregnancy]], [[nausea-and-vomiting-of-pregnancy]], [[ostomy-management]], [[disorders-of-gut-brain-interaction]], [[iron-deficiency-anemia]], [[anti-tnf-agents]], [[vedolizumab]], [[thiopurines]], [[il-23-and-il-12-23-inhibitors]]
+[[ulcerative-colitis]], [[inflammatory-bowel-disease]], [[uc-vs-crohns-comparison]], [[ibd-preventive-care]], [[ibd-endoscopic-scoring]], [[ibd-pain-management]], [[intestinal-ultrasound]], [[clostridioides-difficile]], [[celiac-disease]], [[colorectal-cancer]], [[primary-sclerosing-cholangitis]], [[capsule-endoscopy]], [[colonoscopy]], [[chronic-diarrhea]], [[nutrition-in-ibd]], [[short-bowel-syndrome]], [[ibd-in-malignancy]], [[toxic-megacolon]], [[pouchitis]], [[liver-disease-in-pregnancy]], [[nausea-and-vomiting-of-pregnancy]], [[ostomy-management]], [[disorders-of-gut-brain-interaction]], [[iron-deficiency-anemia]], [[anti-tnf-agents]], [[vedolizumab]], [[thiopurines]], [[il-23-and-il-12-23-inhibitors]], [[jak-inhibitors]], [[mesalamine-5-asa]]
 
 ---
 
@@ -480,3 +480,4 @@ No single pathognomonic test. Diagnosis = integration of:
 11. [[aga-2024-diet-nutrition-ibd|AGA Clinical Practice Update on Diet and Nutritional Therapies in Patients With IBD: Expert Review (2024)]]
 12. [[aga-2024-ibd-malignancy|AGA Clinical Practice Update on Management of IBD in Patients With Malignancy: Commentary (2024)]]
 13. [[aga-2024-pregnancy-gi-liver|AGA Clinical Practice Update on Pregnancy-Related Gastrointestinal and Liver Disease: Expert Review (2024)]]
+14. [[aga-2021-ibd-colorectal-dysplasia|AGA Clinical Practice Update on Endoscopic Surveillance and Management of Colorectal Dysplasia in Inflammatory Bowel Diseases: Expert Review (2021)]]

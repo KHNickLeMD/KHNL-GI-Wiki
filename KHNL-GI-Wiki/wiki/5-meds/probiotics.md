@@ -3,7 +3,7 @@ title: "Probiotics"
 category: med
 tags: [probiotics, microbiome, dysbiosis, cdiff, ibd, pouchitis, ibs, nec, infectious-diarrhea]
 created: 2026-06-04
-updated: 2026-09-03
+updated: 2026-09-08
 sources: [aga-2020-probiotics, acg-2020-sibo, aga-2026-cdiff-adults, aga-2026-cdiff-ibd, acg-2021-cdiff]
 ---
 
@@ -28,7 +28,7 @@ The AGA 2020 guideline ([[aga-2020-probiotics]]) used GRADE to grade probiotic u
 The AGA recommends probiotic use **only in the context of a clinical trial** (no recommendation, knowledge gap) for:
 - **Treatment of [[clostridioides-difficile|*C difficile*]] infection** (distinct from prevention above)
 - **[[crohns-disease|Crohn's disease]]** (induction and maintenance)
-- **[[ulcerative-colitis|Ulcerative colitis]]** (induction and maintenance) — *E coli* Nissle 1917 was roughly equivalent to mesalamine for maintenance but pooled data did not show benefit
+- **[[ulcerative-colitis|Ulcerative colitis]]** (induction and maintenance) — *E coli* Nissle 1917 was roughly equivalent to [[mesalamine-5-asa|mesalamine]] for maintenance but pooled data did not show benefit
 - **[[irritable-bowel-syndrome|Irritable bowel syndrome]]** — 76 RCTs of 44 strains, mostly single-study data, very low certainty, publication-bias concern
 
 ## C difficile — Not Advised (2026 reversal)
@@ -68,7 +68,7 @@ Not covered by the AGA guideline; per [[acg-2020-sibo]]:
 
 ## See Also
 
-[[clostridioides-difficile]], [[crohns-disease]], [[ulcerative-colitis]], [[irritable-bowel-syndrome]], [[pouchitis]], [[acute-diarrhea]], [[inflammatory-bowel-disease]], [[small-intestinal-bacterial-overgrowth]], [[fmt]], [[abdominal-bloating-and-distention]]
+[[clostridioides-difficile]], [[crohns-disease]], [[ulcerative-colitis]], [[irritable-bowel-syndrome]], [[pouchitis]], [[acute-diarrhea]], [[inflammatory-bowel-disease]], [[small-intestinal-bacterial-overgrowth]], [[fmt]], [[abdominal-bloating-and-distention]], [[mesalamine-5-asa]]
 
 ---
 

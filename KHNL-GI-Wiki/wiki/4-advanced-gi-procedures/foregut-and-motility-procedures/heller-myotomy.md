@@ -3,7 +3,7 @@ title: "Laparoscopic Heller Myotomy (LHM)"
 category: advanced-procedure
 tags: [heller-myotomy, lhm, achalasia, myotomy, fundoplication, motility, foregut]
 created: 2026-06-10
-updated: 2026-09-03
+updated: 2026-09-08
 sources: [sages-2024-poem, sages-2021-poem, acg-2020-achalasia, asge-2020-achalasia, aga-2024-poem-advances]
 ---
 
@@ -87,13 +87,15 @@ Rates depend entirely on **how GERD is defined** — symptoms, endoscopy, or pH 
 | GERD on **endoscopy** | **11.5%** (95% CI 9–15%) |
 | GERD on **pH monitoring** | **11.1%** (95% CI 10–13%) |
 
-- [[acg-2020-achalasia|ACG 2020]] reports **8–9%** abnormal acid exposure post-LHM-with-fundoplication, and **16.8%** distal esophageal acid exposure in the POEM-vs-LHM meta-analysis — see [[#Contradictions]].
+- [[acg-2020-achalasia|ACG 2020]] adds two figures, **each with its own definition** — do not quote either bare:
+  - **GERD (definition not specified in the source) after myotomy *with* fundoplication: 8% (laparotomy) / 9% (laparoscopy)** — the same series as the fundoplication table above, i.e. the *with-wrap* arm.
+  - **Abnormal distal esophageal acid exposure on pH monitoring: 16.8% (95% CI 10.2–26.4%)** after laparoscopic myotomy with fundoplication — pooled from a 2018 meta-analysis of 2,581 LHM-with-fundoplication patients, and **this is the figure paired with the 39.0% post-POEM rate** in the same analysis. See [[#Contradictions]].
 - Counselling and post-procedure management options (objective acid-exposure testing, long-term acid suppression, surveillance endoscopy) are the same menu ASGE attaches to POEM (*Suggest*, [[asge-2020-achalasia]]); see [[reflux-testing]] and [[gerd]].
 
 ## Selection vs POEM and Pneumatic Dilation
 
 - **Either myotomy approach acceptable; selection individualized** ([[sages-2024-poem]], conditional; foundational GRADE statements in [[sages-2021-poem]] — *conditional* for subtypes I/II, *conditional favoring POEM* for subtype III). POEM favored for **type III / spastic disorders** given a longer myotomy.
-- **Reflux is the principal trade-off:** abnormal pH monitoring ~39% post-POEM vs 8–9% post-LHM-with-fundoplication ([[acg-2020-achalasia]]). LHM's built-in antireflux component distinguishes the two.
+- **Reflux is the principal trade-off.** The only **like-for-like** comparison is the 2018 meta-analysis ACG cites (1,542 POEM vs 2,581 LHM-with-fundoplication): **abnormal acid exposure on pH monitoring 39.0% (95% CI 24.5–55.8%) after POEM vs 16.8% (95% CI 10.2–26.4%) after LHM with fundoplication**; esophagitis **29.4% (18.5–43.3%) vs 7.6% (4.1–13.7%)** ([[acg-2020-achalasia]]). LHM's built-in antireflux component distinguishes the two. ⚠ The newer [[aga-2024-poem-advances|AGA 2024]] CPU puts post-POEM abnormal acid exposure higher, at **41–56%** — that is the figure [[poem]] asserts; **do not pair it with the 8–9% GERD number above**, which comes from a different dataset and a different (unspecified) GERD definition.
 - **LHM vs PD — the advantage is early, not durable** (Cheng meta-analysis, 5 RCTs / 498 patients, [[asge-2020-achalasia]]):
 
 | Timepoint | Clinical success, LHM vs PD |
@@ -119,7 +121,11 @@ Rates depend entirely on **how GERD is defined** — symptoms, endoscopy, or pH 
 - **Failure rate after LHM or POEM: 5–30% over 1–3 years**, higher beyond 10 years ([[acg-2020-achalasia]]).
 - **Mechanisms:** incomplete myotomy, scarring, anatomic distortion; with LHM specifically, a **tight wrap or wrap herniation**.
 - **PD after failed LHM** — *"We recommend that PD is an appropriate and safe treatment option for patients with achalasia postinitial surgical myotomy or POEM in need of retreatment"* (ACG Rec 18, *Strong/Moderate*). Systematic review, 87 post-LHM patients: **89% success**, mean **2.5 dilations** (range 1–3) at a mean 26-month interval; complications extremely low. PD spares a second invasive procedure and can address incomplete myotomy, scarring, **and** a tight fundoplication.
-- **POEM after failed PD/LHM:** 94–95.7% success (*Strong/Low*). But prior LHM **lowers** POEM's yield — clinical response **81% with prior LHM vs 94% without** (P=0.01), with no difference in adverse events or reflux. Salvage POEM after LHM: 95.7% at median 28 months in one series.
+- **POEM after failed PD/LHM — state the design with the number.** ACG's graded statement covers **safety only**: *"We suggest that POEM is a safe option in patients with achalasia who have previously undergone PD or LHM"* (*Strong; Low*). The efficacy figures behind it are **uncontrolled, single-arm**:
+  - 13-centre **prospective registry**, 51 patients with prior LHM (mean LHM→POEM interval 9.5 y): **94%** clinical success (Eckardt ≤3) at 12 months, mean ES change 6.25; 7 adverse events (2 mediastinitis managed conservatively, 6 periprocedural mucosal defects closed endoscopically).
+  - 2018 single-centre **case series**, 46 patients with prior LHM: **95.7%** (Eckardt ≤3 and no further treatment) at median 28 months.
+  - **Retrospective cohort**, 90 prior-LHM vs 90 LHM-naïve (median follow-up 8.5 mo): prior LHM **lowers** POEM's yield — clinical response **81% vs 94%** (P=0.01), with no difference in adverse events or symptomatic reflux/esophagitis.
+- ⚠ **The randomized number is much lower, and it is the one that supports a choice.** The newer [[aga-2024-poem-advances|AGA 2024]] CPU (BPA 12) reports the **only RCT** in this setting — **POEM vs [[pneumatic-dilation|PD]] after failed LHM, success 62% vs 27%**, with no difference in esophagitis, reflux symptoms, PPI use, or serious adverse events. Same tier, newer publication date, and a randomized comparator rather than a single arm → **this page follows AGA 2024 for the comparative claim** (POEM > PD after failed myotomy) and reads the 94–95.7% series as uncontrolled context, not as a rival estimate of the same quantity. Detail on [[poem]].
 - ASGE (*Suggest*): after a failed initial myotomy, use **PD or redo myotomy by either technique** ([[asge-2020-achalasia]]).
 - **LHM before esophagectomy** — *"We recommend that Heller myotomy be considered before esophagectomy in patients who have failed PD and POEM if the anatomy is conducive and there is evidence of incomplete myotomy"* (ACG Rec 19; based only on small case series in heterogeneous populations).
   - **End-stage achalasia criteria** (what puts esophagectomy on the table): barium esophagram showing **severe dilatation, width >6 cm**, plus complicated anatomic distortion (**"sink-trap"** esophagus), with severe symptoms and life-threatening complications (aspiration, malnutrition).
@@ -128,8 +134,10 @@ Rates depend entirely on **how GERD is defined** — symptoms, endoscopy, or pH 
 
 ## Contradictions
 
-- **Post-LHM GERD rate.** [[acg-2020-achalasia|ACG 2020]] states 8–9% abnormal acid exposure after LHM with fundoplication (and 16.8% in its POEM-vs-LHM meta-analysis); [[asge-2020-achalasia|ASGE 2020]] reports 17.5% symptomatic / 11.1% pH-defined GERD. Both are tier-1 and same-year; the discrepancy is a **definition** problem (symptoms vs endoscopy vs pH) rather than a factual conflict — read the rate together with its definition.
-- **Post-POEM vs post-LHM GERD.** ACG 2020 and [[aga-2024-poem-advances|AGA 2024]] find GERD substantially higher after POEM (OR 9.31 erosive esophagitis; 39% vs 8–9% abnormal pH); the Awaiz meta-analysis cited by [[asge-2020-achalasia|ASGE 2020]] found **no significant difference** (OR 1.27). The page follows ACG/AGA — the newer AGA 2024 CPU and the larger meta-analysis both support the higher post-POEM reflux burden.
+- **Post-LHM GERD rate.** [[acg-2020-achalasia|ACG 2020]] states **8–9% GERD** (definition unspecified) after LHM with fundoplication and **16.8% abnormal acid exposure on pH monitoring** in its POEM-vs-LHM meta-analysis; [[asge-2020-achalasia|ASGE 2020]] reports 17.5% symptomatic / 11.1% pH-defined GERD. Both are tier-1 and same-year; the discrepancy is a **definition** problem (symptoms vs endoscopy vs pH) rather than a factual conflict — read the rate together with its definition.
+- **Post-POEM vs post-LHM GERD.** ACG 2020 and [[aga-2024-poem-advances|AGA 2024]] find GERD substantially higher after POEM (OR 9.31 erosive esophagitis; **39.0% vs 16.8%** abnormal pH in the paired 2018 meta-analysis); the Awaiz meta-analysis cited by [[asge-2020-achalasia|ASGE 2020]] found **no significant difference** (OR 1.27). The page follows ACG/AGA — the newer AGA 2024 CPU and the larger meta-analysis both support the higher post-POEM reflux burden.
+- **Post-POEM abnormal acid exposure — 39.0% vs 41–56%** (adjudicated 2026-09-08). [[acg-2020-achalasia|ACG 2020]] gives a single pooled estimate, **39.0% (95% CI 24.5–55.8%)**, from one 2018 meta-analysis; [[aga-2024-poem-advances|AGA 2024]] gives a **range across studies, 41%–56%**. Same measure (pH-metry, post-POEM) — so this is a real numeric disagreement, but ACG's CI contains the whole AGA range. Both tier-1; **AGA 2024 is newer, so [[poem]] asserts 41–56%**, while this page keeps ACG's 39.0% wherever the *paired* 16.8% post-LHM comparator is being used, because the two must come from the same analysis to be comparable.
+- **POEM after failed LHM — 94–95.7% vs 62%** (adjudicated 2026-09-08). Not a contradiction: uncontrolled single-arm series (ACG 2020) vs the single RCT's randomized arm against PD (AGA 2024). Both are reported above with their design and comparator; the comparative claim follows the newer AGA 2024 RCT.
 
 ---
 

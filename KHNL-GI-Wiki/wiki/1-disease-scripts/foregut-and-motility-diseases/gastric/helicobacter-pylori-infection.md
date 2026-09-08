@@ -3,8 +3,8 @@ title: "Helicobacter pylori Infection"
 category: disease-script
 tags: [h-pylori, peptic-ulcer, gastric-cancer, malt-lymphoma, eradication, dyspepsia, gastric, foregut]
 created: 2026-05-07
-updated: 2026-09-03
-sources: [acg-2017-hp-guidelines, acg-2024-hp-treatment, aga-2024-pcab]
+updated: 2026-09-08
+sources: [acg-2017-hp-guidelines, acg-2024-hp-treatment, aga-2024-pcab, aga-2021-refractory-h-pylori]
 ---
 
 ## Contents
@@ -20,6 +20,7 @@ sources: [acg-2017-hp-guidelines, acg-2024-hp-treatment, aga-2024-pcab]
   - [[#Invasive Tests (Endoscopy-Based)]]
 - [[#Therapeutics]]
   - [[#First-Line Eradication Regimens]]
+  - [[#Refractory Infection — Definition and Causes of Failure]]
   - [[#Salvage Therapy (After First-Line Failure)]]
   - [[#Post-Treatment Confirmation]]
   - [[#Monitoring / Follow-Up]]
@@ -187,6 +188,62 @@ Endoscopic sampling is what enables **antibiotic susceptibility testing**, which
 - Phenotypic (culture-based) and molecular methods (PCR, next-generation sequencing) are both becoming increasingly available in the US. Molecular testing detects CLR resistance (23S rRNA mutations) and LVX resistance (gyrA mutations); culture is technically demanding and requires endoscopic biopsy.
 - In treatment-experienced patients with **confirmed clarithromycin-sensitive** persistent infection, PPI- or PCAB-clarithromycin triple therapy is suggested (Key Concept 5).
 
+### Refractory Infection — Definition and Causes of Failure
+
+*Regimen selection after failure is governed by [[acg-2024-hp-treatment|ACG 2024]] (newer, same tier) — see [[#Salvage Therapy (After First-Line Failure)]]. This section carries what ACG 2024 does not: the operative definition, the causes-of-failure workup, and acid-suppression pharmacology, from [[aga-2021-refractory-h-pylori|AGA 2021]] (all statements are ungraded Best Practice Advice — the CPU declined to rate them).*
+
+**Definition — all four elements are operative** [[aga-2021-refractory-h-pylori]]:
+
+- **Persistently positive non-serologic test** (breath, stool, or gastroscopy-based)
+- **at least 4 weeks** after
+- **one or more *completed* courses** of a current guideline-recommended **first-line** therapy, and
+- **off any medication that could impair test sensitivity** (e.g. [[proton-pump-inhibitors|PPIs]])
+
+⚠ **Refractory ≠ recurrent.** *Recurrent* infection = a non-serologic test that was **initially negative** after eradication and **subsequently positive**. Recurrence may reflect **ongoing intrafamilial exposure** — the action is to **test household members and treat those who test positive**, not to escalate the regimen.
+
+**Before choosing another regimen, work the three causes of failure** (BPA 1 — resistance is the usual cause, but not the only one):
+
+| Cause | What to do | Detail |
+|---|---|---|
+| **Prior antibiotic exposure** (BPA 2) | Take a **full antibiotic history** — for any indication, not just *H. pylori* | **Any prior macrolide → avoid clarithromycin; any prior fluoroquinolone → avoid levofloxacin** (high likelihood of resistance). Resistance to **amoxicillin, tetracycline, and rifabutin is rare** → these can be reused. Selecting therapy by prior exposure is **not inferior** to selecting by in-vitro susceptibility, and avoids the logistics of testing — yet only **38%** of US providers ask |
+| **Nonadherence** (BPA 3) | Explore and address barriers **before** prescribing: explain the rationale, dosing instructions, expected adverse events, and the need to complete the full course | Regimen complexity, pill burden, physical intolerance, poor communication. ⚠ **The adherence threshold that suffices is unknown** for refractory infection; the **>60%–>90%** figures come from *primary* infection and "might plausibly be higher" here — do not quote them as a refractory target |
+| **Inadequate acid suppression** (BPA 7) | Use **high-dose and more potent PPIs, PPIs not metabolized by CYP2C19, or a [[potassium-competitive-acid-blockers\|PCAB]]** | Mechanism below |
+
+**Why acid suppression is a *cause*, not an adjunct** [[aga-2021-refractory-h-pylori]]:
+
+- *H. pylori* is **most susceptible to antibiotics at intragastric pH 6–8** — the range in which it replicates.
+- Antibiotic half-life is pH-dependent:
+
+| Intragastric pH | Amoxicillin half-life | Clarithromycin half-life |
+|---|---|---|
+| **pH <2** | ~15.2 ± 0.3 h | ~1.0 ± 0.04 h |
+| **pH >7** | **>68 h** | **>68 h** |
+
+- Consequence: **without sustained acid suppression the organism persists despite exposure to antibiotics it is susceptible to in vitro.**
+- **CYP2C19 rapid/ultrarapid metabolizer phenotypes → higher eradication failure** with PPIs heavily metabolized by CYP2C19 (**omeprazole, lansoprazole**). *IL-1B* and *MDR1* polymorphisms are also implicated.
+
+**Resistance — the clinical cost of each drug, if resistant** (fold-higher likelihood of treatment failure when that drug is in the regimen):
+
+| Antibiotic | Fold-higher failure |
+|---|---|
+| Levofloxacin | **8.2×** (95% CI 3.8–17.6) |
+| Clarithromycin | **7.0×** (95% CI 5.2–9.3) |
+| Nitroimidazole (metronidazole) | **2.5×** (95% CI 1.8–3.5) — relatively less clinical impact |
+
+- **Secondary (post-treatment) resistance rates** are far higher than primary: clarithromycin **15%–67%**, levofloxacin **19%–30%**, metronidazole **30%–65%**; amoxicillin and tetracycline stay **<5%**, rifabutin low.
+- **Metronidazole resistance is the exception that can be overridden by dose.** Adequate dosing — **1.5–2 g daily in divided doses with concomitant bismuth** — may improve eradication **irrespective of observed in-vitro metronidazole resistance** (BPA 5). Nitroimidazole resistance has no single point mutation suitable for molecular profiling and phenotypic testing is poorly standardized, which is why the in-vitro result predicts outcome poorly.
+- **Immigrants from endemic countries may carry the resistance pattern of their country of origin**, not the host country — infection is usually acquired in childhood.
+
+**Other refractory-specific advice** [[aga-2021-refractory-h-pylori]]:
+
+- **Penicillin allergy: delabel it** (BPA 6). Absent a history of **anaphylaxis**, consider **penicillin allergy testing** to delist the allergy and re-enable amoxicillin. When used, dose amoxicillin **≥2 g/day divided t.i.d. or q.i.d.** — to avoid low trough levels.
+- **Longer beats shorter** (BPA 8): **14 days over 7 days**, whenever appropriate.
+- **After 2 failed therapies with confirmed adherence, consider susceptibility testing** (BPA 10). ⚠ **Threshold differs from [[acg-2024-hp-treatment|ACG 2024]]** Key Concept 6, which triggers testing whenever the choice of therapy remains unclear — which may be sooner or later than two failures. **ACG 2024 governs** (newer); the AGA threshold is recorded as the alternative framing.
+- **Shared decision making about *whether to keep trying*** (BPA 9): weigh the benefit of eradication against repeated antibiotic and high-dose acid-suppression exposure, **particularly in the elderly and other vulnerable populations**.
+- **After a failed bismuth quadruple first-line** (BPA 4): shared decision making between (a) **levofloxacin- or rifabutin-based triple with high-dose dual PPI + amoxicillin**, and (b) an **alternative bismuth-containing quadruple** regimen.
+- **Adjunctive [[probiotics]] are experimental** for refractory infection — unproven benefit (BPA 12). Concordant with ACG 2024's "insufficient evidence."
+- Compile **local eradication-rate data** by regimen with patient demographics and prior antibiotic exposure, and make it publicly available to guide local regimen choice (BPA 11) — US resistance surveillance registries do not exist.
+
 ### Salvage Therapy (After First-Line Failure)
 
 ![[hpylori-2024-salvage-regimens-15.png|700x402]]
@@ -247,3 +304,4 @@ Endoscopic sampling is what enables **antibiotic susceptibility testing**, which
 1. [[acg-2017-hp-guidelines|ACG Clinical Guideline: Treatment of Helicobacter pylori Infection (2017)]]
 2. [[acg-2024-hp-treatment|ACG Clinical Guideline: Treatment of Helicobacter pylori Infection (2024)]]
 3. [[aga-2024-pcab|AGA Clinical Practice Update on Integrating Potassium-Competitive Acid Blockers Into Clinical Practice (2024)]]
+4. [[aga-2021-refractory-h-pylori|AGA Clinical Practice Update on the Management of Refractory Helicobacter pylori Infection: Expert Review (2021)]]

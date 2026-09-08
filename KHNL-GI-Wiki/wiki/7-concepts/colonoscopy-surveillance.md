@@ -3,8 +3,8 @@ title: "Colonoscopy Surveillance Intervals"
 category: concept
 tags: [colonoscopy, surveillance, adenoma, serrated-polyp, crc-screening, polypectomy]
 created: 2026-06-01
-updated: 2026-09-05
-sources: [usmstf-2020-followup-colonoscopy]
+updated: 2026-09-08
+sources: [usmstf-2020-followup-colonoscopy, aga-2021-ibd-colorectal-dysplasia]
 ---
 
 ## Contents
@@ -27,7 +27,7 @@ Post-[[colonoscopy]] surveillance intervals after [[polypectomy]] are set by the
 The tables below are for **average-risk** adults only — defined as absence of all of the following. In these groups, favor the shortest interval indicated by either the underlying condition or the polyp findings:
 
 - Hereditary CRC syndrome (e.g. [[lynch-syndrome]], [[familial-adenomatous-polyposis|FAP]]) or any hereditary cancer syndrome
-- [[inflammatory-bowel-disease|Inflammatory bowel disease]] — IBD dysplasia surveillance is a separate strategy (who/when on [[ulcerative-colitis]] and [[crohns-disease]]; chromoendoscopy technique on [[colonoscopy]]). ⚠ No ingested source states a numeric IBD repeat interval.
+- [[inflammatory-bowel-disease|Inflammatory bowel disease]] — IBD dysplasia surveillance is a separate strategy (who/when and the **1–5 y risk-stratified interval table** on [[ulcerative-colitis]] and [[crohns-disease]]; chromoendoscopy technique on [[colonoscopy]]). Post-polypectomy intervals in this page's grid do **not** apply. Note the carve-out: **Crohn's isolated to the small bowel gets average-risk CRC screening**, not IBD surveillance ([[aga-2021-ibd-colorectal-dysplasia]]).
 - [[serrated-polyposis-syndrome|Serrated polyposis syndrome]]
 - [[polypectomy|Malignant polyp]]
 - Personal history of CRC
@@ -138,3 +138,4 @@ Note the asymmetry that carries the decision: an advanced baseline **never** ret
 ## Sources
 
 1. [[usmstf-2020-followup-colonoscopy|USMSTF 2020: Recommendations for Follow-Up After Colonoscopy and Polypectomy]]
+2. [[aga-2021-ibd-colorectal-dysplasia|AGA Clinical Practice Update on Endoscopic Surveillance and Management of Colorectal Dysplasia in Inflammatory Bowel Diseases: Expert Review (2021)]]

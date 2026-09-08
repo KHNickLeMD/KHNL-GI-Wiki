@@ -3,8 +3,8 @@ title: "Colorectal Cancer"
 category: disease-script
 tags: [crc, colorectal-cancer, adenocarcinoma, oncology, screening, surveillance, post-resection, metachronous, rectal-cancer]
 created: 2026-05-19
-updated: 2026-09-07
-sources: [acg-2015-hereditary-gi-cancer, usmstf-2014-lynch-syndrome, usmstf-2015-crc-surveillance, usmstf-2016-fit-screening, acg-2021-crc-screening, nccn-2026-colon-cancer, asge-2013-crc-staging-management, aga-2025-endoscopic-resection-crc, kanaka-2022-colonic-stent-bts-right-sided, aga-2020-young-adult-onset-crc]
+updated: 2026-09-08
+sources: [acg-2015-hereditary-gi-cancer, usmstf-2014-lynch-syndrome, usmstf-2015-crc-surveillance, usmstf-2016-fit-screening, acg-2021-crc-screening, nccn-2026-colon-cancer, asge-2013-crc-staging-management, aga-2025-endoscopic-resection-crc, kanaka-2022-colonic-stent-bts-right-sided, aga-2020-young-adult-onset-crc, aga-2021-crc-chemoprevention]
 ---
 
 *Screening is covered in [[colorectal-cancer-screening]] and in detail below (FIT). **CRC diagnosed at 18 – <50 years of age** has its own presentation, germline yield, fertility and surveillance considerations — see [[early-onset-colorectal-cancer]]. Hereditary syndromes (workup: [[colorectal-polyposis]]): [[lynch-syndrome]], [[familial-adenomatous-polyposis]], [[mutyh-associated-polyposis]], [[peutz-jeghers-syndrome]], [[juvenile-polyposis-syndrome]], [[cowden-syndrome]], [[serrated-polyposis-syndrome]]. Polyp management: [[polypectomy]] and [[colonoscopy]].*
@@ -19,6 +19,7 @@ sources: [acg-2015-hereditary-gi-cancer, usmstf-2014-lynch-syndrome, usmstf-2015
   - [[#Oncologic Management (NCCN 2026)]]
   - [[#Endoscopic Staging & Management (ASGE 2013)]]
   - [[#Malignant Large Bowel Obstruction — Bridge to Surgery vs Emergency Resection]]
+  - [[#Chemoprevention After CRC]]
 - [[#Post-Resection Surveillance]]
   - [[#Epidemiology of Post-Resection Risk]]
   - [[#Universal Lynch Syndrome Testing]]
@@ -211,6 +212,17 @@ flowchart TD
 - **Three qualifiers travel with every number above.** (1) **Severe complications did not differ** — the benefit sits in overall/milder morbidity. (2) Evidence is **very low to low GRADE, no RCTs**; the authors' dominant concern is selection toward "easy-to-stent cases." (3) **"Right-sided" was defined inconsistently** — 5 of 7 studies included the *entire transverse colon*.
 - **Baseline risk that motivates the question:** emergency right hemicolectomy 30-day mortality **6.0% vs 0.7% elective**; previously reported ER outcomes for right-sided obstruction, mortality 8.8–14.5% and morbidity 32–54.3%.
 - ⚠ **Corpus gap — the left-sided half of this topic is not covered.** The ESGE 2020 SEMS guideline (van Hooft, *Endoscopy* 2020;52:389–407) is **not ingested**; its left-sided BTS recommendation is known here only secondhand through the above meta-analysis's introduction and is **not** asserted as a guideline claim.
+
+### Chemoprevention After CRC
+
+*[[aga-2021-crc-chemoprevention|AGA 2021]] — ungraded Best Practice Advice; **"should" = more robust evidence, "may" = less robust**, the authors' own convention. Excludes hereditary syndromes and [[inflammatory-bowel-disease|IBD]]. The average-risk chemoprevention framework lives on [[colorectal-cancer-screening]] and is not repeated here.*
+
+| Agent | Advice | Evidence |
+|---|---|---|
+| **Aspirin** | **BPA 2 — should consider** aspirin to prevent recurrent colorectal neoplasia in individuals with a history of CRC | US trial (n = 517), **325 mg daily → adenoma recurrence RR 0.65 (0.46–0.91)** at 1 y, **no difference in advanced adenomas**. Japanese trial (n = 311, 25% with CRC), **100 mg daily × 2 y → OR 0.60 (0.36–0.98)**. **Survival after CRC diagnosis:** meta-analysis found **no** CRC-specific survival benefit (HR 0.77; 0.52–1.14) but **improved overall survival** (HR 0.84; 0.75–0.94) — ⚠ benefit *"appeared restricted to individuals with **PIK3CA-mutant and COX-2 expressing** tumors."* ⚠ **No chemopreventive dose is stated by the CPU** — do not supply one |
+| **Metformin** | **BPA 5 — may consider** metformin to reduce mortality in individuals with **CRC and type 2 diabetes** | Meta-analysis of 17 observational studies (n = 269,417): cancer-specific survival **HR 0.75 (0.59–0.94)**, overall survival **HR 0.69 (0.61–0.77)**. ⚠ The CPU cautions these are *"susceptible to confounding by diabetes severity and time-related biases"* — hence "may," and only in patients who already have diabetes |
+| **Statins** | **BPA 9 — should not** use statins to reduce mortality in individuals with a history of CRC | Mortality data after CRC are inconclusive and observational studies suffer selection bias; in a large SEER-Medicare case-control study, statins started **within 6 months of diagnosis** were **not** associated with reduced 3-year CRC-related or all-cause mortality |
+| **Non-aspirin NSAIDs** | Not recommended (BPA 3 covers average risk) | **VICTOR** (rofecoxib in stage II/III CRC, n = 2434): no effect on CRC-specific mortality (HR 0.98), overall survival (HR 0.97), or recurrence (HR 0.89); terminated early on the worldwide rofecoxib withdrawal |
 
 ---
 
@@ -441,3 +453,4 @@ The ACG 2021 and USMSTF 2021 guidelines do not supersede the FIT-specific operat
 8. [[kanaka-2022-colonic-stent-bts-right-sided|Colonic stent as a bridge to surgery versus emergency resection for right-sided malignant large bowel obstruction: a meta-analysis]]
 9. [[usmstf-2014-lynch-syndrome|Genetic Evaluation and Management of Lynch Syndrome: A Practice Guideline from the American College of Gastroenterology]]
 10. [[aga-2020-young-adult-onset-crc|AGA 2020 Clinical Practice Update: Young Adult–Onset Colorectal Cancer Diagnosis and Management]]
+11. [[aga-2021-crc-chemoprevention|AGA Clinical Practice Update on Chemoprevention for Colorectal Neoplasia: Expert Review (2021)]]

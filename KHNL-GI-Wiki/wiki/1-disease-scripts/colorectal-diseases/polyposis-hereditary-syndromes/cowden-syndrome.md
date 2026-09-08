@@ -3,7 +3,7 @@ title: "Cowden Syndrome (PTEN Hamartoma Tumor Syndrome)"
 category: disease-script
 tags: [cowden, pten, phts, hamartoma, hereditary-cancer, breast-cancer, thyroid-cancer, endometrial-cancer, colorectal-cancer, genetic-testing]
 created: 2026-05-19
-updated: 2026-09-06
+updated: 2026-09-08
 sources: [acg-2015-hereditary-gi-cancer, aga-2022-hamartomatous-polyposis]
 ---
 
@@ -26,9 +26,12 @@ sources: [acg-2015-hereditary-gi-cancer, aga-2022-hamartomatous-polyposis]
 
 Cowden syndrome (CS), also called PTEN hamartoma tumor syndrome (PHTS), is caused by germline pathogenic variants in the **PTEN** tumor suppressor gene. The spectrum includes Cowden syndrome, Bannayan-Riley-Ruvalcaba syndrome (BRRS), Proteus syndrome, and Lhermitte-Duclos disease [[acg-2015-hereditary-gi-cancer]].
 
-**GI trigger for genetic evaluation** *(Strong, low)* [[aga-2022-hamartomatous-polyposis|USMSTF 2022]]: **multiple gastrointestinal hamartomas or ganglioneuromas** — refer for evaluation for Cowden's syndrome and related conditions. The **genetic** diagnosis of PHTS requires a germline pathogenic **PTEN** variant.
+**GI trigger for genetic evaluation** *(Strong, low — [[aga-2022-hamartomatous-polyposis|USMSTF 2022]] R12)*: **multiple gastrointestinal hamartomas or ganglioneuromas** — refer for evaluation for Cowden's syndrome and related conditions. The **genetic** diagnosis of PHTS requires a germline pathogenic **PTEN** variant.
 
-> **Decision gap — the clinical *diagnostic* criteria for CS are not in the ingested corpus.** What follows is ACG 2015's list of indications for **PTEN testing**, which is a referral threshold, not a diagnosis. The operational diagnostic criteria (the weighted major/minor scoring used to call CS in a *PTEN*-negative patient) are maintained by **NCCN**, and neither [[acg-2015-hereditary-gi-cancer|ACG 2015]] nor [[aga-2022-hamartomatous-polyposis|USMSTF 2022]] reproduces them — the NCCN guideline would have to be ingested. Do not infer them.
+- Broader referral trigger for *any* hamartomatous polyposis syndrome *(R1; Strong, low)*: **≥2 lifetime hamartomatous polyps**, a family history of hamartomatous polyps, or a hamartomatous-syndrome–associated cancer in a **first- or second-degree relative**; test with a **multigene panel**
+- **Organs to survey** *(R13; Strong, low)*: breast, thyroid, kidney, uterus, colon, and skin — via a **multidisciplinary** approach
+
+> **Decision gap — the clinical *diagnostic* criteria for CS are not in the ingested corpus.** What follows is ACG 2015's list of indications for **PTEN testing**, which is a referral threshold, not a diagnosis. The operational diagnostic criteria (the weighted major/minor scoring used to call CS in a *PTEN*-negative patient) are maintained by **NCCN**: [[aga-2022-hamartomatous-polyposis|USMSTF 2022]] states only that they are "complex, and can be found at the National Comprehensive Cancer Network website," and [[acg-2015-hereditary-gi-cancer|ACG 2015]] does not reproduce them either. **No NCCN hereditary-syndrome guideline is ingested** — `raw/GI Guidelines/NCCN/` holds only the 2026 organ-cancer guidelines — so the criteria cannot be sourced from this corpus. Do not infer them.
 
 **Indications for PTEN genetic evaluation** (Table 11) [[acg-2015-hereditary-gi-cancer]]:
 
@@ -96,24 +99,33 @@ Cowden syndrome (CS), also called PTEN hamartoma tumor syndrome (PHTS), is cause
 
 **Assessment at the time of CS/PHTS diagnosis** should include a complete clinical examination (**especially dermatologic and neurologic**) plus **mammography + breast MRI, thyroid ultrasound, transvaginal ultrasound, [[upper-endoscopy|upper GI endoscopy]], [[colonoscopy]], and renal ultrasound** [[aga-2022-hamartomatous-polyposis]].
 
-**[[colonoscopy|Colonoscopy]] — begin at age 35, repeat at intervals no greater than 5 years, depending on polyp burden** *(Weak, low)* — [[aga-2022-hamartomatous-polyposis|USMSTF/AGA 2022]]:
+**[[colonoscopy|Colonoscopy]] — begin at age 35, repeat at intervals no greater than 5 years, depending on polyp burden** *(Weak, low — [[aga-2022-hamartomatous-polyposis|USMSTF 2022]] R14)*:
 
-- **Start earlier if symptomatic**, or **if a close relative had colon cancer before age 40** → start **10 years before the earliest known colon cancer in the family**
+- **Early-start trigger — the guideline states it two ways, and they are not identical:**
+  - **R14 (the graded statement):** begin at 35 **"or 10 years younger than age of any relative with colorectal cancer"** — no age gate on the relative
+  - **The narrative text:** begin at 35 unless symptomatic, **or if a close relative has had colon cancer *before age 40*,** then start 10 years before the earliest known family colon cancer
+  - Practical read: any affected relative pulls the start age earlier under R14; the narrative restricts that to relatives affected before 40. Use the earlier of the two.
+- **Start earlier if symptomatic**
 - Shorten the interval inside 5 years if the patient is symptomatic or polyps are found
+- Table 1's closing note applies generally: where **very-early-onset cancers** occur in the family, start surveillance **10 years earlier than the youngest cancer diagnosis** in that family
 
-> **Contradiction (surfaced, not silently resolved):** [[acg-2015-hereditary-gi-cancer|ACG 2015]] advised colonoscopy **from age 15, every 2 years** (conditional, low). The newer [[aga-2022-hamartomatous-polyposis|USMSTF 2022]] guideline sets **age 35, interval ≤5 years**, explicitly citing "recent evidence suggesting later onset of significant colon cancer risk." Per source priority (same tier → newer publication wins), the page follows 2022. Note this is a *later* start with a *longer* maximum interval — the older ACG schedule is the more intensive of the two.
+> **Contradiction (surfaced, not silently resolved):** [[acg-2015-hereditary-gi-cancer|ACG 2015]] advised colonoscopy **from age 15, every 2 years** (conditional, low). The newer [[aga-2022-hamartomatous-polyposis|USMSTF 2022]] guideline sets **age 35, interval ≤5 years** *(R14)*, and names the disagreement itself — "This recommendation differs from a recent American College of Gastroenterology Guideline, which recommends initiating colonoscopy at age 15 years. Recent evidence suggesting later onset of significant colon cancer risk informed our recommendations." Per source priority (same tier → newer publication wins), the page follows 2022. Note this is a *later* start with a *longer* maximum interval — the older ACG schedule is the more intensive of the two.
 
 **Surveillance schedule — where the guidelines diverge** (ages in years):
 
-| Examination | [[acg-2015-hereditary-gi-cancer\|ACG 2015]] | NCCN 2020 | [[aga-2022-hamartomatous-polyposis\|USMSTF 2022]] — asserted here |
+| Examination | [[acg-2015-hereditary-gi-cancer\|ACG 2015]] | NCCN 2020 † | [[aga-2022-hamartomatous-polyposis\|USMSTF 2022]] — asserted here |
 |---|---|---|---|
-| [[colonoscopy\|Colonoscopy]] | **15**, q2 y | **35**, q5 y | **35**, q≤5 y *(low)* |
+| [[colonoscopy\|Colonoscopy]] | **15**, q2 y | **35**, q5 y | **35**, q≤5 y — *graded (R14; weak, low)* |
 | [[upper-endoscopy\|Upper endoscopy]] | **15**, q2–3 y | — | — (no separate recommendation) |
-| Thyroid exam + ultrasound | **Adolescence**, annual | **7**, annual | **Annual from the time of PHTS diagnosis, including in childhood** |
-| Breast MRI and/or mammogram | **30–35**, annual | **30–35**, annual | **30–35** (or 5–10 y before earliest family breast cancer), annual — preceded by **clinical breast exam q6–12 mo from 25** |
-| Endometrial sampling | **30–35**, annual | q1–2 y | From **30–35**: symptom education (abnormal/postmenopausal bleeding) + **endometrial biopsy q1–2 y may be considered** |
-| Urinalysis / renal imaging | Urinalysis with cytology ± renal US, **18**, annual | **40**, q1–2 y | **Renal US and/or MRI: annual from 40 if family history of renal cancer, otherwise every 2 years** |
-| Skin examination | ~**18**, annual | **At diagnosis**, annual | **Annual clinical skin examination from age 18** |
+| Thyroid exam + ultrasound | **Adolescence**, annual | **7**, annual | **Annual from the time of PHTS diagnosis, including in childhood** ‡ |
+| Breast MRI and/or mammogram | **30–35**, annual | **30–35**, annual | **30–35** (or 5–10 y before earliest family breast cancer), annual — preceded by **clinical breast exam q6–12 mo from 25** ‡ |
+| Endometrial sampling | **30–35**, annual | (no start age given), q1–2 y | From **30–35**: symptom education (abnormal/postmenopausal bleeding) + **endometrial biopsy q1–2 y may be considered** ‡ |
+| Urinalysis / renal imaging | Urinalysis with cytology ± renal US, **18**, annual | **40**, q1–2 y | **Renal US and/or MRI: annual from 40 if family history of renal cancer, otherwise every 2 years** ‡ |
+| Skin examination | ~**18**, annual | **At diagnosis**, annual | **Annual clinical skin examination from age 18** ‡ |
+
+**† Where the NCCN 2020 column comes from.** These are **not** citations to an NCCN guideline — no NCCN hereditary-syndrome guideline is ingested. Every value is transcribed from **Table 4 of [[aga-2022-hamartomatous-polyposis|USMSTF 2022]]**, which prints ACG 2015, NCCN 2020, and ESPGHAN 2019 as comparison columns beside its own. Read them as *"USMSTF reports that NCCN 2020 advises…"* — the primary NCCN document has not been read, so its qualifiers and footnotes are unknown to this wiki. (ESPGHAN 2019 gives no PHTS values at all.)
+
+**‡ Not graded recommendations.** Only the colonoscopy row is one of the guideline's 14 GRADE-rated statements. USMSTF explicitly "reserved our management recommendations to" GI and GI-malignancy questions and **defers to other expert groups for the other cancers**; the extraintestinal rows above are the statement's **narrative report** of those groups' schedules, and the USMSTF column of its own Table 4 is blank for all of them.
 
 - **Upper GI**: only [[acg-2015-hereditary-gi-cancer|ACG 2015]] sets an interval — from age 15, every 2–3 years, repeating sooner if duodenal polyposis is present. USMSTF 2022 recommends upper endoscopy **at diagnosis** but gives no surveillance interval
 - Breast: refer to a breast cancer specialist; involve a **breast surgeon** in any prophylactic-mastectomy discussion. Risk-reducing **mastectomy and hysterectomy** should be discussed case by case (no data on risk-reduction surgery in CS)

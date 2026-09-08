@@ -3,7 +3,7 @@ title: "Chronic Hepatitis B"
 category: disease-script
 tags: [hepatitis-b, HBV, antiviral, nucleoside-analogues, HCC-surveillance, immune-tolerant, indeterminate, functional-cure, pregnancy, co-infection, hbv-reactivation, antiviral-prophylaxis]
 created: 2026-05-15
-updated: 2026-09-06
+updated: 2026-09-08
 sources: [aasld-idsa-2025-chb-treatment, acg-2016-liver-disease-pregnancy, aga-2025-hbv-reactivation, aga-2024-pregnancy-gi-liver]
 ---
 
@@ -205,7 +205,7 @@ Switch options: ETV → TDF or TAF; TDF → TAF or ETV; TAF → ETV.
 | Cytokine/integrin inhibitors ([[il-23-and-il-12-23-inhibitors\|ustekinumab]], secukinumab) | High | Moderate |
 | HCV co-infection undergoing [[direct-acting-antivirals\|DAA]] therapy | High | Low |
 | Immune checkpoint inhibitors (nivolumab, pembrolizumab, ipilimumab) | Moderate | Low |
-| JAK inhibitors (tofacitinib, baricitinib) | High | Moderate |
+| [[jak-inhibitors\|JAK inhibitors]] (tofacitinib, baricitinib) | High | Moderate |
 | TACE (for HCC) | High | Moderate |
 | TKIs (imatinib, sunitinib) | High | Moderate |
 | Methotrexate, [[thiopurines\|6-mercaptopurine, azathioprine]] | Low | Low |
@@ -265,7 +265,7 @@ Goal: HBV DNA <lower limit of quantification. HBV not transmitted by casual cont
 
 ## See Also
 
-[[hepatitis-d]], [[hepatitis-c]], [[hepatocellular-carcinoma]], [[hcc-surveillance]], [[portal-hypertension]], [[acute-on-chronic-liver-failure]], [[liver-transplantation]], [[aki-in-cirrhosis]], [[liver-disease-in-pregnancy]], [[abnormal-liver-chemistries]], [[noninvasive-liver-disease-assessment]], [[autoimmune-hepatitis]], [[drug-induced-liver-injury]], [[alcohol-associated-liver-disease]], [[nafld-masld]], [[wilson-disease]], [[direct-acting-antivirals]], [[liver-biopsy]], [[cirrhosis]], [[liver-stiffness-measurement]], [[variceal-upper-gi-bleeding]], [[anti-tnf-agents]], [[thiopurines]], [[il-23-and-il-12-23-inhibitors]]
+[[hepatitis-d]], [[hepatitis-c]], [[hepatocellular-carcinoma]], [[hcc-surveillance]], [[portal-hypertension]], [[acute-on-chronic-liver-failure]], [[liver-transplantation]], [[aki-in-cirrhosis]], [[liver-disease-in-pregnancy]], [[abnormal-liver-chemistries]], [[noninvasive-liver-disease-assessment]], [[autoimmune-hepatitis]], [[drug-induced-liver-injury]], [[alcohol-associated-liver-disease]], [[nafld-masld]], [[wilson-disease]], [[direct-acting-antivirals]], [[liver-biopsy]], [[cirrhosis]], [[liver-stiffness-measurement]], [[variceal-upper-gi-bleeding]], [[anti-tnf-agents]], [[thiopurines]], [[il-23-and-il-12-23-inhibitors]], [[jak-inhibitors]]
 
 ---
 

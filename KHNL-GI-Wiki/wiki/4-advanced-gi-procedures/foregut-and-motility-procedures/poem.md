@@ -3,7 +3,7 @@ title: "POEM (Peroral Endoscopic Myotomy)"
 category: advanced-procedure
 tags: [poem, achalasia, myotomy, motility, esophageal, foregut, gerd, egjoo]
 created: 2026-05-16
-updated: 2026-09-07
+updated: 2026-09-08
 sources: [aga-2024-poem-advances, sages-2024-poem, sages-2021-poem, acg-2020-achalasia]
 ---
 # POEM (Peroral Endoscopic Myotomy)
@@ -68,7 +68,8 @@ Endoscopic myotomy of the lower esophageal sphincter (LES) and distal esophageal
 
 *GERD is the main concern after any LES-disrupting myotomy — common, and often asymptomatic.*
 
-- Abnormal acid exposure **41–56%**; esophagitis **41–65%** after POEM; **~one-quarter asymptomatic** → symptoms alone insufficient (AGA 2024 BPA 10).
+- Abnormal acid exposure **41–56%**; esophagitis **41–65%** after POEM; **~one-quarter asymptomatic** → symptoms alone insufficient (AGA 2024 BPA 10 — *"The rate of abnormal acid exposure and esophagitis after POEM ranges between 41%–56% and 41%–65%, respectively"*).
+  - ⚠ **Contradiction — same measure, lower older estimate.** [[acg-2020-achalasia|ACG 2020]] cites a 2018 systematic review/meta-analysis (1,542 POEM vs 2,581 [[heller-myotomy|LHM]]-with-fundoplication patients) pooling **abnormal acid exposure at pH monitoring at 39.0% (95% CI 24.5–55.8%)** after POEM, and esophagitis at **29.4% (95% CI 18.5–43.3%)**. Both are tier-1; **AGA 2024 is newer, so this page asserts 41–56% / 41–65%** — and ACG's confidence intervals overlap the AGA ranges, so the two are compatible rather than truly conflicting. The paired post-LHM comparators from that same meta-analysis are on [[heller-myotomy]].
 - **Objective [[reflux-testing|reflux testing]] generally 6–12 months post-POEM:**
   - **Off-PPI** pH monitoring if presence of [[gerd|GERD]] is in question.
   - **On-PPI** testing if GERD already established or esophagitis **LA grade B or higher** — assesses adequacy of acid suppression.
@@ -95,7 +96,8 @@ Endoscopic myotomy of the lower esophageal sphincter (LES) and distal esophageal
 
 - ~**10–15%** of achalasia patients have persistent/recurrent symptoms (AGA 2024 BPA 12).
 - Re-evaluate comprehensively: repeat [[upper-endoscopy|EGD]], [[high-resolution-manometry|HRM]], and timed barium esophagram (use TBE as first-line for recurrent symptoms).
-- **POEM may be superior to pneumatic dilation for failed initial POEM or LHM** — one RCT after failed LHM: **POEM 62% vs PD 27%** success; no difference in esophagitis, reflux symptoms, PPI use, or serious adverse events. Individualize by etiology of failure, local expertise, patient characteristics, and preferences.
+- **POEM may be superior to pneumatic dilation for failed initial POEM or LHM** (AGA 2024 BPA 12) — **the only randomized comparison**: 1 RCT of **POEM vs [[pneumatic-dilation|PD]] after failed LHM**, success **62% vs 27%**; no difference in esophagitis, reflux symptoms, PPI use, or serious adverse events. Individualize by etiology of failure, local expertise, patient characteristics, and preferences.
+- ⚠ **Read that against the uncontrolled series, which are not the same statistic.** [[acg-2020-achalasia|ACG 2020]] reports **single-arm** salvage-POEM success (no comparator): a 13-centre prospective registry of **51** post-LHM patients — **94%** clinical success (Eckardt ≤3) at 12 months; a 2018 single-centre series of **46** post-LHM patients — **95.7%** (Eckardt ≤3 and no further treatment) at median 28 months. **The RCT's 62% is the number that supports a choice between POEM and PD; the 90s are what a case series reports when everyone gets POEM.** ACG's own graded statement is about **safety**, not efficacy: *"We suggest that POEM is a safe option in patients with achalasia who have previously undergone PD or LHM"* (*Strong; Low*).
 
 ## Outcomes
 
@@ -106,7 +108,7 @@ Endoscopic myotomy of the lower esophageal sphincter (LES) and distal esophageal
 | Achalasia type II | ~90% symptom improvement at 2 years |
 | Achalasia type III | ~93% (vs ~71% [[heller-myotomy\|LHM]]) |
 | [[esophagogastric-junction-outflow-obstruction\|EGJOO]] | ~80–85% long-term |
-| POEM after failed LHM (vs PD) | 62% vs 27% |
+| POEM after failed LHM | **62% vs PD 27%** — RCT, randomized comparator ([[aga-2024-poem-advances\|AGA 2024]]); **94%–95.7%** in uncontrolled single-arm series ([[acg-2020-achalasia\|ACG 2020]]) |
 
 *G-POEM (pyloromyotomy for gastroparesis) outcomes live on [[g-poem]] — the dedicated AGA 2023 CPU reports durable clinical success ~50–60%, and explicitly flags the older short-term pooled figures (71–82%) as overestimates.*
 

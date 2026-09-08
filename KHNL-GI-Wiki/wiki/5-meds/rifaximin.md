@@ -3,19 +3,27 @@ title: "Rifaximin"
 category: med
 tags: [rifaximin, antibiotic, sibo, ibs, hepatic-encephalopathy, nonabsorbable, gut-selective]
 created: 2026-05-19
-updated: 2026-09-03
-sources: [acg-2020-sibo, acg-2020-ibs, aga-2022-ibs-d, acg-2026-hepatic-encephalopathy, baveno-vii-2022-portal-hypertension, aasld-easl-2014-hepatic-encephalopathy]
+updated: 2026-09-08
+sources: [acg-2020-sibo, acg-2020-ibs, aga-2022-ibs-d, acg-2026-hepatic-encephalopathy, baveno-vii-2022-portal-hypertension, aasld-easl-2014-hepatic-encephalopathy, aga-2020-sibo]
 ---
 
 A gut-selective, non-absorbable oral antibiotic (rifamycin derivative). Minimal systemic absorption; acts locally in the GI tract. FDA-approved for [[acute-diarrhea|traveler's diarrhea]], [[irritable-bowel-syndrome|IBS-D]], and [[hepatic-encephalopathy|hepatic encephalopathy]]. Used extensively for [[small-intestinal-bacterial-overgrowth]] (SIBO).
 
 **Mechanism:** Inhibits bacterial RNA polymerase (beta-subunit). Broad-spectrum antibacterial with activity against aerobic and anaerobic Gram-positive and Gram-negative bacteria. Gut-selective due to minimal systemic bioavailability.
 
-**Dosing in SIBO** ([[acg-2020-sibo]] Table 5):
+**Dosing in SIBO — the two tier-1 sources give different doses.** [[aga-2020-sibo]] is the later 2020 publication, so its regimen is what the wiki asserts; the ACG dose is stated alongside because it is the one most US prescriptions are written for.
 
-- **550 mg t.i.d.** — the ACG-listed dose; efficacy 61%–78%
-- **Duration: not specified by ACG.** In the pooled trials the dose ranged **600–1,600 mg/day** and duration **5–28 days** — a 14-day course is common practice but is *not* an ACG recommendation and is not stated in any ingested source.
+| | [[aga-2020-sibo\|AGA 2020 CPU]] (Table 2) | [[acg-2020-sibo\|ACG 2020]] (Table 5) |
+|---|---|---|
+| Dose | **800–1200 mg daily in divided doses** | 550 mg t.i.d. (= **1,650 mg/day**) |
+| Duration | **7–10 days** (general antibiotic advice, all agents) | Not specified |
+| Efficacy quoted | ~**70%** eradication (meta-analysis) | **61%–78%** |
+
+- **Duration, now sourced.** [[aga-2020-sibo]]: "a single **7- to 10-day course** improves symptoms for up to several months in **46%–90%** of patients with SIBO and renders breath tests negative in **20%–75%**." This supersedes the previous note that no ingested source stated a duration. A 14-day course remains common practice but is not stated by either society for SIBO.
+- Trial dosing behind the AGA range: **800 mg/day × 4 weeks** to **1200 mg/day × 7 days** ([[aga-2020-sibo]]); ACG's pooled trials ranged **600–1,600 mg/day** for **5–28 days**.
 - Meta-analysis (32 trials + 1 randomized crossover, n=1,331): overall ITT success **70.8%** (CI 61.4–78.2), adverse reactions **4.6%**. Only 1 of the trials was placebo-controlled.
+- **Coverage:** SIBO is **not an FDA-recognized indication** for rifaximin in the US and "might not be covered by the patient's insurance carrier" ([[aga-2020-sibo]]) — off-label use.
+- **Recurrence after one course is up to 44% at 9 months**, more likely with **older age, prior appendectomy, or chronic [[proton-pump-inhibitors|PPI]] use**. For recurrent symptoms, [[aga-2020-sibo]] describes **monthly pulses (first 5–10 days of each month) or continuous therapy with rotating regimens** to limit resistance — expert opinion, no trial support.
 
 **Dosing for IMO ([[intestinal-methanogen-overgrowth]]):**
 
@@ -72,3 +80,4 @@ A gut-selective, non-absorbable oral antibiotic (rifamycin derivative). Minimal 
 4. [[acg-2026-hepatic-encephalopathy|ACG Clinical Guideline: Hepatic Encephalopathy (2026)]]
 5. [[aasld-easl-2014-hepatic-encephalopathy|AASLD/EASL 2014 Practice Guideline: Hepatic Encephalopathy in Chronic Liver Disease]]
 6. [[baveno-vii-2022-portal-hypertension|Baveno VII — Renewing Consensus in Portal Hypertension (J Hepatol 2022)]]
+7. [[aga-2020-sibo|AGA 2020 Clinical Practice Update: Small Intestinal Bacterial Overgrowth (Expert Review)]]

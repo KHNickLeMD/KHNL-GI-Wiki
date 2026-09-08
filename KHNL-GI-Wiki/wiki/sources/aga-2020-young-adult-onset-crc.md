@@ -3,7 +3,7 @@ title: "AGA 2020 Clinical Practice Update: Young Adult–Onset Colorectal Cancer
 category: source
 tags: [colorectal-cancer, young-onset-crc, early-onset-crc, lynch-syndrome, fap, germline-testing, fertility-preservation, msi, mmr, aga]
 created: 2026-09-07
-updated: 2026-09-07
+updated: 2026-09-08
 sources: []
 ---
 
@@ -53,6 +53,12 @@ The treatment section is largely a set of things *not* to do. There are **no con
 > **BEST PRACTICE ADVICE 5:** Clinicians should consider utilizing germline and somatic genetic testing results to inform chemotherapeutic strategies.
 
 > **BEST PRACTICE ADVICE 6:** Clinicians should offer hereditary CRC syndrome specific screening for CRC and extra-colonic cancers only to young adult–onset CRC patients who have a genetically or clinically diagnosed hereditary CRC syndrome. For patients with sporadic young adult–onset CRC, extra-colonic screening and CRC surveillance intervals are the same as for patients with older adult–onset CRC.
+
+### Figure 1 — management algorithm, NOT captured (open gap)
+
+The CPU carries one decision figure — **Figure 1, *"Management of young adult–onset colorectal cancer patients"*** (page 2419). It is a raster image with **no extractable text layer**, and the figure-capture tooling required by the Style Guide is unavailable in this environment: **PyMuPDF is not installed and `pdftoppm` / `pdftohtml` are permission-blocked**, so the figure could not be rendered or cropped to `raw/assets/`.
+
+⚠ **Consequence:** the management pathway on [[early-onset-colorectal-cancer]] is **reconstructed from the text of BPA 1–6**, not from Figure 1. Any branch, ordering or threshold that appears only inside the figure is therefore **missing from the wiki**. This is the one substantive fidelity gap in this ingest — re-run the figure capture once PyMuPDF or page rendering is permitted, and reconcile the Mermaid pathway against it.
 
 ### Epidemiology — the numbers that justify BPA 1
 
@@ -133,7 +139,9 @@ The treatment section is largely a set of things *not* to do. There are **no con
 | **[[serrated-polyposis-syndrome\|Serrated polyposis]] — unknown** | — | Colorectal **16–42** | Colonoscopy q**1–3 y** | Consider **colectomy** for CRC or when polyp burden too great for endoscopic control |
 | **PTEN hamartoma tumor syndrome — *PTEN*** | AD | Colorectal 16–20; breast **30–50 (female)**; thyroid 5–10; endometrial 5–20; lung 12; renal 2–8 | Colonoscopy q1–3 y; age **18 y**: annual breast self-exam; age **25 y**: clinical exam q6 mo; age **30 y**: annual mammogram + breast MRI; age 18 y: baseline then annual (thyroid); annual endometrial biopsy (premenopausal) / ultrasound (postmenopausal); annual urinalysis; annual urine cytology + renal ultrasound if family history of renal cancer | Consider **bilateral mastectomy**; **total thyroidectomy** for benign lesions and cancer; consider **prophylactic hysterectomy** once childbearing complete |
 
-ᵃ ⚠ **Two Table 1 cells could not be read reliably from this PDF's text layer and are flagged rather than guessed:** the *MSH6* **stomach** risk prints as a bare `3` in a position where a `≤`-type qualifier is dropped by text extraction, and (ᵇ) the Peutz–Jeghers **colonoscopy interval** extracts as `every 2–_ y` with the second digit lost. Verify both against the published Table 1 before acting on them. Every other value above extracted cleanly.
+ᵃ ⚠ **Two Table 1 cells could not be read reliably from this PDF's text layer and are flagged rather than guessed:** the *MSH6* **stomach** risk prints as a bare `3` where the surrounding cells all carry a qualifier or range, and (ᵇ) the Peutz–Jeghers **colonoscopy interval** extracts as `every 2–_ y` with the character after the en-dash lost. Verify both against the published Table 1 before acting on them. Every other value above extracted cleanly.
+
+**The glyph-drop is confirmed, not assumed** (checked 2026-09-08): `pdftotext` returns **zero** `≥`/`≤` characters across the whole article, while `<` survives everywhere (`<50`, `<30`, `<1`, `<100 polyps`) — including in the *MSH6* row's own next line (`Urinary Tract <1`). Meanwhile the body text yields bare ages in positions that grammatically require an operator (`"most likely to be present in CRC patients 30 years of age"`, `"CRC patients 40 years of age are more likely to have subtypes CMS1"`). So this PDF **does** contain `≥`/`≤` glyphs that extraction silently deletes. **No second extractor was available to recover them** — PyMuPDF is not installed, and `pdftoppm`/`pdftohtml`/`pip install` are permission-blocked. The flagged cells stay flagged.
 
 ### Treatment (BPA 5) — mostly what *not* to escalate
 

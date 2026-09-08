@@ -3,8 +3,8 @@ title: "Chronic Diarrhea"
 category: diagnostic-schema
 tags: [diarrhea, chronic, malabsorption, secretory, osmotic, inflammatory, steatorrhea, ibs]
 created: 2026-06-04
-updated: 2026-09-06
-sources: [asge-2010-diarrhea, acg-2016-acute-diarrhea]
+updated: 2026-09-08
+sources: [asge-2010-diarrhea, acg-2016-acute-diarrhea, aga-2020-sibo]
 ---
 
 ## Definition / Scope
@@ -45,7 +45,7 @@ The most useful framework is to classify by **stool character** into watery, inf
 - **[[postinfectious-ibs|Post-infectious IBS]]** — new-onset IBS-D following an episode of infectious gastroenteritis
 - Endocrine — hyperthyroidism, **[[gastroenteropancreatic-neuroendocrine-tumors|carcinoid syndrome]]**, VIPoma, gastrinoma ([[peptic-ulcer-disease|Zollinger-Ellison]]), Addison's disease, medullary thyroid carcinoma
 - Drugs/toxins — chronic laxative use, metformin, colchicine, SSRIs, alcohol, PPIs
-- **[[small-intestinal-bacterial-overgrowth|SIBO]]** — bloating, malabsorption; post-surgical/dysmotility risk factors
+- **[[small-intestinal-bacterial-overgrowth|SIBO]]** — post-surgical/dysmotility risk factors. **Diarrhea, not bloating, is the symptom most strongly associated with SIBO** ([[aga-2020-sibo]]), so chronic diarrhea is a stronger indication to look for it than bloating is. Aspirate-proven risk factors: **older age, steatorrhea, narcotic use**; associated disorders: [[inflammatory-bowel-disease|IBD]], [[chronic-pancreatitis]], jejunal diverticulosis. **In the very elderly, SIBO is an important cause of otherwise unexplained diarrhea and weight loss.**
 - Surgical/anatomic — post-cholecystectomy, ileal resection, short bowel
 
 ### Watery — Osmotic
@@ -110,7 +110,8 @@ flowchart TD
 - **Bile acid testing** — SeHCAT retention, serum C4 or FGF19; or empiric sequestrant trial ([[bile-acid-diarrhea]]).
 - **Endocrine panel** — TSH; chromogranin A, gastrin, VIP, calcitonin, urinary 5-HIAA when a neuroendocrine secretory cause is suspected.
 - **[[colonoscopy]] with random biopsies** — IBD and **[[microscopic-colitis]]** (biopsy mandatory even if mucosa appears normal).
-- **SIBO breath testing** ([[small-intestinal-bacterial-overgrowth]]) and small-bowel imaging (CTE/MRE) in malabsorptive/post-surgical patients.
+- **SIBO breath testing** ([[small-intestinal-bacterial-overgrowth]]) and small-bowel imaging (CTE/MRE) in malabsorptive/post-surgical patients. Interpret cautiously: [[aga-2020-sibo]] gives **no positivity threshold**, notes "wide discrepancies in thresholds," and reports that **lactulose yields more positives than glucose or culture**. Aspirate culture threshold is **>10³ CFU/mL coliforms on fresh aspirate** — the old **≥10⁵** figure came from patients with altered intestinal anatomy, not from normals (who "rarely exceed 10² CFU/mL").
+- **Fecal calprotectin does not detect SIBO** — [[aga-2020-sibo]] **BPA 3**: insufficient evidence to use inflammatory markers for that purpose. It remains valid for separating inflammatory from functional causes above.
 
 ### Role of Endoscopy (ASGE 2010)
 
@@ -150,3 +151,4 @@ Prompt structural evaluation (colonoscopy ± cross-sectional imaging) and lower 
 
 1. [[asge-2010-diarrhea|ASGE Guideline: The Role of Endoscopy in the Management of Patients With Diarrhea (2010)]]
 2. [[acg-2016-acute-diarrhea|ACG 2016: Diagnosis, Treatment, and Prevention of Acute Diarrheal Infections in Adults]]
+3. [[aga-2020-sibo|AGA 2020 Clinical Practice Update: Small Intestinal Bacterial Overgrowth (Expert Review)]]

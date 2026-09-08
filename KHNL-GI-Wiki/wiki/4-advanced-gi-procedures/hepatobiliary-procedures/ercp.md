@@ -3,8 +3,8 @@ title: "ERCP (Endoscopic Retrograde Cholangiopancreatography)"
 category: advanced-procedure
 tags: [ercp, biliary, pancreatic, hepatobiliary, sphincterotomy, stent, stone-extraction]
 created: 2026-05-16
-updated: 2026-09-06
-sources: [asge-2024-therapeutic-eus-biliary, asge-2024-chronic-pancreatitis-endoscopy, asge-2023-post-ercp-pancreatitis, asge-2021-cholangitis, asge-2019-choledocholithiasis, asge-2023-post-transplant-biliary-strictures, asge-2015-ercp-benign-biliary, aga-2024-pregnancy-gi-liver, aga-2022-recurrent-pancreatitis-endoscopy, jagtap-2026-urgent-vs-early-ercp-cholangitis, aloysius-2026-ercp-timing-septic-shock-cholangitis, aga-2026-electrosurgery]
+updated: 2026-09-08
+sources: [asge-2024-therapeutic-eus-biliary, asge-2024-chronic-pancreatitis-endoscopy, asge-2023-post-ercp-pancreatitis, asge-2021-cholangitis, asge-2019-choledocholithiasis, asge-2023-post-transplant-biliary-strictures, asge-2015-ercp-benign-biliary, aga-2024-pregnancy-gi-liver, aga-2022-recurrent-pancreatitis-endoscopy, jagtap-2026-urgent-vs-early-ercp-cholangitis, aloysius-2026-ercp-timing-septic-shock-cholangitis, aga-2026-electrosurgery, aga-2021-gi-perforations-endoscopic-management]
 ---
 
 *Referenced in [[acute-pancreatitis]] (indications/timing) and [[biliary-stricture]] (tissue sampling, drainage). See [[endoscopic-ultrasound]] for combined EUS+ERCP approach. Now almost exclusively therapeutic — successful cholangiography with relief of obstruction is achievable in >90% of patients [[asge-2015-ercp-benign-biliary]].*
@@ -91,7 +91,13 @@ sources: [asge-2024-therapeutic-eus-biliary, asge-2024-chronic-pancreatitis-endo
 - ⚠ **Whether NSAID + PD stent beats NSAID alone is unresolved** — comparative trials to date are **underpowered**; a large multicenter RCT is ongoing.
 - **Cholangitis** (post-procedure biliary infection)
 - **Bleeding** (post-sphincterotomy) — biliary **sphincterotomy** is a strong independent driver (OR ~9–10). Risk is amplified by draining an **incompletely resuscitated cholangitis patient <24 h** (oedematous/hyperaemic papilla, sepsis coagulopathy): urgent (<24 h) ERCP independently predicted post-ERCP haemorrhage (10.5% vs 3.3% for 24–48 h) [[jagtap-2026-urgent-vs-early-ercp-cholangitis]]. Withhold sphincterotomy in patients on [[anticoagulation-gi-bleeding|antiplatelets/anticoagulants]]. Treating it — stent tamponade, clip/thermal hazards through a duodenoscope, and the prophylactic PD-stent rule — is on [[endoscopic-hemostasis]].
-- **Perforation** (rare; retroperitoneal or duodenal)
+- **Perforation** — overall risk **<1%**, but **mortality 7.8%–9.9%**. Mechanisms: duodenoscope trauma, sphincterotomy, intraductal guidewire manipulation. **Risk factors:** older age, longer procedure duration, sphincter of Oddi dysfunction, **non-dilated bile duct**, sphincterotomy/precut sphincterotomy, access papillotomy, and **surgically altered anatomy** (e.g. Billroth II). [[aga-2021-gi-perforations-endoscopic-management]]
+  - **Type 1 — lateral duodenal wall tear** from the shaft or tip of the duodenoscope (scope advancement against the wall or a periampullary diverticulum; forceful retraction during difficult stone extraction). Presents as **sudden bleeding, lumen deflation, and difficulty maintaining insufflation**. Often **>3 cm → urgent surgical consultation** while endoscopic feasibility is assessed; **usually requires surgery**. Defects **<13 mm** close with clips in **88%–100%**, and **>90%** of successful endoscopic closures recover without surgery.
+  - **Type 2 — periampullary (retroperitoneal)**, from **overextension of the sphincterotomy beyond the intraduodenal portion of the ampulla**. ⚠ **Subtle and easily missed** — assess the **fluoroscopic gas pattern under the liver or around the right kidney**, and **get a CT** if concerned. Close with **TTSCs** and/or a **fully covered SEMS into the bile duct across the ampulla**.
+    - **Prevention at the sphincterotome:** minimize the length of cutting wire in contact with the ampulla; make **stepwise incisions**; direct the cut with the **right hand on the scope shaft creating counter-clockwise torque** rather than lifting the elevator or bowing the sphincterotome; **terminate just before the flat transverse duodenal mucosa cephalad of the papillary mound**; use generators with controlled pulsed-blended current to avoid "zipper cuts."
+    - ⚠ **Asymptomatic retroperitoneal air after ERCP may need no intervention** — **14% (7/50)** of post-ERCP patients had CT retroperitoneal air with uneventful recovery. But type 2 perforations can still cause retroperitoneal abscess, peritonitis, and death. Patients **declare within 24–48 h**; if improving, get a water-soluble upper GI series or CT with oral contrast at **2–4 days** before clear liquids. **Recognition delayed >6 h is associated with longer stay, higher mortality, and more complicated surgery.**
+  - **In surgically altered anatomy, start with a forward-viewing upper endoscope** to identify and mark the entrance of the pancreatobiliary limb before advancing the side-viewing duodenoscope.
+  - *Generic closure algorithm, device-by-size table, and the two absolute surgical indications: [[endoscopic-management-of-perforation]].*
 - **Cholecystitis** (cystic duct occlusion by stent)
 
 ---
@@ -133,7 +139,7 @@ Benchmarks stated in the ingested sources ([[asge-2015-ercp-benign-biliary]]):
 
 ## See Also
 
-[[acute-pancreatitis]], [[recurrent-acute-pancreatitis]], [[pancreas-divisum]], [[biliary-stricture]], [[choledocholithiasis]], [[acute-cholangitis]], [[endoscopic-ultrasound]], [[cholangioscopy]], [[chronic-pancreatitis]], [[cholangiocarcinoma]], [[primary-sclerosing-cholangitis]], [[sphincter-of-oddi-dysfunction]], [[liver-transplantation]], [[brush-cytology]], [[liver-disease-in-pregnancy]], [[mri-mrcp]], [[acute-cholecystitis]], [[anticoagulation-gi-bleeding]], [[antibiotic-prophylaxis-endoscopy]], [[device-assisted-enteroscopy]], [[electrosurgery]], [[endoscopic-hemostasis]], [[bariatric-surgery]], [[ampullary-adenoma]], [[fish]]
+[[acute-pancreatitis]], [[recurrent-acute-pancreatitis]], [[pancreas-divisum]], [[biliary-stricture]], [[choledocholithiasis]], [[acute-cholangitis]], [[endoscopic-ultrasound]], [[cholangioscopy]], [[chronic-pancreatitis]], [[cholangiocarcinoma]], [[primary-sclerosing-cholangitis]], [[sphincter-of-oddi-dysfunction]], [[liver-transplantation]], [[brush-cytology]], [[liver-disease-in-pregnancy]], [[mri-mrcp]], [[acute-cholecystitis]], [[anticoagulation-gi-bleeding]], [[antibiotic-prophylaxis-endoscopy]], [[device-assisted-enteroscopy]], [[electrosurgery]], [[endoscopic-hemostasis]], [[bariatric-surgery]], [[ampullary-adenoma]], [[fish]], [[endoscopic-management-of-perforation]]
 
 ---
 
@@ -151,3 +157,4 @@ Benchmarks stated in the ingested sources ([[asge-2015-ercp-benign-biliary]]):
 10. [[jagtap-2026-urgent-vs-early-ercp-cholangitis|Urgent versus Early ERCP in Mild-to-Moderate Acute Cholangitis: A Randomised Controlled Trial (Jagtap 2026)]]
 11. [[aloysius-2026-ercp-timing-septic-shock-cholangitis|Vasopressor-Indexed Timing of ERCP and Survival in Septic Shock from Tokyo Grade III Cholangitis (Aloysius 2026, DDW abstract)]]
 12. [[aga-2026-electrosurgery|AGA Clinical Practice Update on the Use of Electrosurgery in Therapeutic Endoscopy: Expert Review (2026)]]
+13. [[aga-2021-gi-perforations-endoscopic-management|AGA Clinical Practice Update on Endoscopic Management of Perforations in Gastrointestinal Tract: Expert Review (2021)]]

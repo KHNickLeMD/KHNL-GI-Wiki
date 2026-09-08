@@ -3,7 +3,7 @@ title: "Segmental Colitis Associated with Diverticulosis (SCAD)"
 category: disease-script
 tags: [scad, diverticular-disease, colitis, colorectal]
 created: 2026-07-23
-updated: 2026-09-01
+updated: 2026-09-08
 sources: [acg-2026-diverticulitis]
 ---
 
@@ -44,13 +44,13 @@ Chronic inflammatory condition affecting colonic segments that bear diverticula,
 ## Therapeutics
 
 - The ingested source ([[acg-2026-diverticulitis]]) defines SCAD but does not give a graded treatment algorithm.
-- ⚠ **Decision gap:** management (e.g. 5-ASA, steroids, observation) and prognosis are not covered by the ingested source. Flag for a dedicated SCAD reference before expanding.
+- ⚠ **Decision gap:** management (e.g. [[mesalamine-5-asa|5-ASA]], steroids, observation) and prognosis are not covered by the ingested source. Flag for a dedicated SCAD reference before expanding.
 
 ---
 
 ## See Also
 
-[[diverticulitis]], [[ulcerative-colitis]], [[crohns-disease]], [[inflammatory-bowel-disease]], [[colonoscopy]], [[disorders-of-gut-brain-interaction]], [[chronic-diarrhea]]
+[[diverticulitis]], [[ulcerative-colitis]], [[crohns-disease]], [[inflammatory-bowel-disease]], [[colonoscopy]], [[disorders-of-gut-brain-interaction]], [[chronic-diarrhea]], [[mesalamine-5-asa]]
 
 ---
 

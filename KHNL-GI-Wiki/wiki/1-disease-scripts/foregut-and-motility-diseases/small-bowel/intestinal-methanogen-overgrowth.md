@@ -3,8 +3,8 @@ title: "Intestinal Methanogen Overgrowth (IMO)"
 category: disease-script
 tags: [imo, sibo, methane, breath-testing, constipation, methanobrevibacter-smithii, archaea]
 created: 2026-05-19
-updated: 2026-08-28
-sources: [acg-2020-sibo]
+updated: 2026-09-08
+sources: [acg-2020-sibo, aga-2020-sibo]
 ---
 
 Excess methane-producing organisms in the intestinal tract, distinguished from classical hydrogen-predominant [[small-intestinal-bacterial-overgrowth|SIBO]]. "IMO" is the term proposed by [[acg-2020-sibo]] because the responsible organisms are **archaea, not bacteria** — the "B" in SIBO is technically incorrect, and methane may arise **throughout** the intestinal tract rather than only the small bowel.
@@ -63,7 +63,8 @@ Two studies of antibiotic therapy, both defining positivity as methane **≥3 pp
 
 - Separate placebo-controlled trial of 84 [[irritable-bowel-syndrome|IBS]] patients with IMO: neomycin 500 mg b.i.d. × 10 days reduced methane below 3 ppm in **20%** vs **1%** with placebo.
 - **Caveat on the thresholds:** both neomycin studies used **≥3 ppm** for positivity, *not* the **≥10 ppm** now recommended and used for diagnosis above — efficacy figures are therefore not directly transferable to patients diagnosed by the current cutoff.
-- The IMO [[rifaximin]] dose (**400 mg t.i.d.**) differs from the SIBO dose (550 mg t.i.d.) — see [[small-intestinal-bacterial-overgrowth]]. This page is the wiki's home for the IMO regimens; the SIBO page links here.
+- The IMO [[rifaximin]] dose (**400 mg t.i.d.**) differs from the SIBO dose — see [[small-intestinal-bacterial-overgrowth]]. This page is the wiki's home for the IMO regimens; the SIBO page links here.
+- **How strong is the combination evidence?** [[aga-2020-sibo]] corroborates the direction but grades it lower: "**One uncontrolled trial** suggested that the combination of neomycin and rifaximin might be effective." It gives no doses and makes no IMO recommendation — so the doses above remain [[acg-2020-sibo]]'s, resting on a retrospective chart review.
 - Rationale for treating at all: **targeting methanogens may reduce methane production and improve constipation** (Key Concept 10).
 
 **Monitoring after treatment:** repeat breath testing may correlate with symptom improvement, and **normalization of CH₄ confirms response** (Key Concept 15). ACG's *proposed IMO trial* framework (Table 6) makes the standard explicit — and it is a useful bar in clinic:
@@ -85,3 +86,4 @@ Note the **combination rule** — gas normalization alone is not response; the b
 ## Sources
 
 1. [[acg-2020-sibo|ACG 2020: Small Intestinal Bacterial Overgrowth]]
+2. [[aga-2020-sibo|AGA 2020 Clinical Practice Update: Small Intestinal Bacterial Overgrowth (Expert Review)]]

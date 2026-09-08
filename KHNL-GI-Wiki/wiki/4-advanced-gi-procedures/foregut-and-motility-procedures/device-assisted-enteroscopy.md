@@ -3,7 +3,7 @@ title: "Device-Assisted Enteroscopy (Deep Enteroscopy)"
 category: advanced-procedure
 tags: [deep-enteroscopy, dbe, sbe, spiral-enteroscopy, balloon-enteroscopy, small-bowel, gi-bleeding, device-assisted-enteroscopy]
 created: 2026-05-19
-updated: 2026-09-03
+updated: 2026-09-08
 sources: [acg-2015-small-bowel-bleeding, asge-2017-small-bowel-bleeding, asge-2015-deep-enteroscopy, asge-2020-fap]
 ---
 
@@ -22,7 +22,7 @@ sources: [acg-2015-small-bowel-bleeding, asge-2017-small-bowel-bleeding, asge-20
 
 Device-assisted enteroscopy (DAE), also called deep enteroscopy, encompasses three platform types for deep intubation and therapeutics in the small bowel:
 
-**Double-balloon enteroscopy (DBE):** Introduced 2001 (Yamamoto). Insertion depth: see [[#Route Selection]] (reference points are the ligament of Treitz and the ileocecal valve, not the pylorus). Diagnostic yield 60–80% for suspected SBB; therapeutic success 40–73%. Complication rate: 0.8% diagnostic, up to 4% with therapeutics; [[acute-pancreatitis|pancreatitis]] most common (~0.3%). Total-enteroscopy rate: see [[#Route Selection]].
+**Double-balloon enteroscopy (DBE):** Introduced 2001 (Yamamoto). Insertion depth and its landmarks: see [[#Route Selection]]. Diagnostic yield 60–80% for suspected SBB; therapeutic success 40–73%. Complication rate: 0.8% diagnostic, up to 4% with therapeutics; [[acute-pancreatitis|pancreatitis]] most common (~0.3%). Total-enteroscopy rate: see [[#Route Selection]].
 
 **Single-balloon enteroscopy (SBE):** Introduced ~2003. Similar dimensions to DBE; silicone balloon on overtube only (no distal balloon). Diagnostic yield 33–74%. Prospective RCT showed DBE had significantly higher total enteroscopy rate than SBE.
 
@@ -49,11 +49,14 @@ The scope reaches only part of the small bowel from either end, so the route is 
 
 | Route | Reach (DBE) | Use for |
 |---|---|---|
-| **Antegrade (oral)** | **240–360 cm past the ligament of Treitz** (registry mean ~256 cm) | Lesions suspected to lie within the **proximal 75%** of the small bowel — deeper intubation and higher success rate make this the **preferred** route |
-| **Retrograde (rectal)** | **102–140 cm past the ileocecal valve** | **More distal** lesions |
+| **Antegrade (oral)** | **240–360 cm past the ligament of Treitz** (registry mean ~256 cm) ([[asge-2015-deep-enteroscopy]]) | Lesions suspected to lie within the **proximal 75%** of the small bowel — deeper intubation and higher success rate make this the **preferred** route |
+| **Retrograde (rectal)** | **102–140 cm past the ileocecal valve** ([[asge-2015-deep-enteroscopy]]) | **More distal** lesions |
+
+⚠ **Landmark discrepancy between the two guidelines — the qualifier decides the number.** [[asge-2015-deep-enteroscopy|ASGE 2015]] gives the antegrade range as 240–360 cm **past the ligament of Treitz**; [[acg-2015-small-bowel-bleeding|ACG 2015]] gives the identical 240–360 cm range but **distal to the pylorus**. The two landmarks are not interchangeable. The table follows ASGE 2015 (ligament of Treitz) — the document whose primary subject is deep enteroscopy, and which states the depth twice (range and registry mean) with the same landmark. Both agree on 102–140 cm proximal to the ileocecal valve for the retrograde route. For comparison, ACG 2015 puts push enteroscopy at 90–150 cm and ileoscopy at 50–80 cm.
 
 - Assignment is based on **capsule transit times** on the preceding VCE ([[acg-2015-small-bowel-bleeding]]).
-- ⚠ **VCE-guided route selection is not universally applicable** — VCE has a **false-negative rate of 11%** for all small-bowel findings and **up to 19% for neoplasms**. ([[acg-2015-small-bowel-bleeding]])
+- ⚠ **VCE-guided route selection is not universally applicable** — *"VCE has a false-negative rate of **11%** for all SB findings, and more importantly, **up to 19% for neoplasms**."* Hence: with a negative VCE but high clinical suspicion of a small-bowel lesion, **pursue DBE anyway**, including consideration of total enteroscopy. ([[acg-2015-small-bowel-bleeding]])
+  - The same guideline separately quotes a **10–36% false-negative rate** for VCE in its limitations section — a different reference set, not a different statistic. Both figures and the resolution are set out on [[capsule-endoscopy]]; neither should be quoted alone.
 - **Total enteroscopy** = intubation of the entire small bowel by one or both routes; DBE total-enteroscopy rate **0%–86%** across series (highest in Asian populations), with a **pooled rate of 44%** by combined antegrade+retrograde or antegrade-only approach (systematic review, 66 articles / 12,823 DBE procedures; overall diagnostic yield 68.1%, vascular lesions the most common finding at 66%). Indicated for multiple lesions, a negative initial DBE, or high suspicion after a nondiagnostic VCE. ([[asge-2015-deep-enteroscopy]])
 
 ## Indications

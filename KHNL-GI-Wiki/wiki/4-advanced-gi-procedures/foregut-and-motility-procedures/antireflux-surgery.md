@@ -3,8 +3,8 @@ title: "Antireflux Surgery"
 category: advanced-procedure
 tags: [gerd, antireflux-surgery, fundoplication, nissen, msa, linx, tif, ctif, stretta, foregut, hiatal-hernia]
 created: 2026-06-01
-updated: 2026-09-07
-sources: [sages-2021-gerd-surgery, acg-2021-gerd, asge-2024-gerd, padova-2025-hrm-antireflux, afs-2023-transoral-incisionless-fundoplication]
+updated: 2026-09-08
+sources: [sages-2021-gerd-surgery, acg-2021-gerd, asge-2024-gerd, padova-2025-hrm-antireflux, afs-2023-transoral-incisionless-fundoplication, afs-2024-ge-valve-after-antireflux-surgery]
 ---
 
 *Surgical and endoscopic mechanical therapy for [[gerd|GERD]] — fundoplication, magnetic sphincter augmentation (MSA), and incisionless endoscopic alternatives (TIF/cTIF). Selection turns on **objective GERD confirmation**, **hiatal hernia size**, and **[[reflux-testing|Hill grade]]**; technique choice is largely values-based.*
@@ -22,6 +22,7 @@ sources: [sages-2021-gerd-surgery, acg-2021-gerd, asge-2024-gerd, padova-2025-hr
   - [[#Post-TIF Care]]
 - [[#Outcomes and Adverse Effects]]
 - [[#Postoperative Evaluation]]
+  - [[#Endoscopic Assessment of the Post-Surgical GE Valve]]
 - [[#See Also]]
 - [[#Sources]]
 
@@ -212,6 +213,47 @@ Retching and vomiting can **disrupt the hiatus and the new valve** — hence the
 - **Post-ARS IRP norms differ** — standard [[chicago-classification-v4|Chicago Classification]] thresholds do not apply after a wrap.
 - **No single manometric finding alone mandates reoperation** (96% consensus).
 
+### Endoscopic Assessment of the Post-Surgical GE Valve
+
+*[[afs-2024-ge-valve-after-antireflux-surgery|AFS 2024]] — the nomenclature for describing the valve **after** it has been surgically reconstructed. The Hill and AFS grades describe the **native, unoperated** valve; this schema is what makes one post-operative endoscopy comparable to the next in a patient with recurrent GERD or new late dysphagia. Consensus white paper, **no evidence grading** and **no validation data** — it establishes vocabulary, not accuracy.*
+
+**Four attributes, all assessed in retroflexion after adequate gastric insufflation:**
+
+| # | Attribute | How it is graded / measured |
+|---|---|---|
+| 1 | **Depth of the anterior and posterior grooves** | **shallow / moderate / deep** — the discriminating feature between operations (table below) |
+| 2 | **Apposition of the valve collar to the endoscope** | Gauged **relative to the endoscope diameter**, along the **whole length** of the valve. The tightest point may be at the lip **or anywhere along the collar** — **it is the narrowest part that matters functionally**, and it may be proximal. **Record any resistance to passage of the scope** |
+| 3 | **Length of the valve** | **Apex of the angle of His → diaphragm.** (Intragastric fundoplication length = **lip to base** of the valve endoscopically) |
+| 4 | **Position of the SCJ relative to the lip of the valve** | Reflects whether **intra-abdominal esophageal length** was restored. Read from retroflexion (SCJ vs valve lip from below) or antegrade (vs the caudal end of the esophagus/wrap) |
+
+Plus, after **any** procedure that included hiatal hernia repair: **the hiatal aperture should no longer be visible in the retroflexed view** (see [[hiatal-hernia]]).
+
+⚠ **The radial reference point changes after surgery.** Endoscopic radial nomenclature is **anterior = 12 o'clock, posterior = 6 o'clock, greater curve = 3 o'clock, lesser curve = 9 o'clock**. The apex of the **angle of His sits at ~3–4 o'clock**, and every fundoplication begins there. The Collaborative adopted **the apex of the angle of His — not anatomic anterior/posterior — as the endoscopic point of reference**, which is why an operation called "posterior" laparoscopically does not map onto "posterior" endoscopically.
+
+**Technique — this is what prevents under-grading:**
+
+- **Insufflate ~30–45 seconds**, or until the **fundic rugal folds flatten**. Adequate insufflation is the key to visualising the EGJ.
+- **Rotate in the retroflexed position**, and **gently pull up the tip of the retroflexed scope along the depths of the grooves** to induce potential axial hiatal herniation — this gives the most accurate read of the hiatal opening and extent of herniation.
+- **Without these maneuvers the valve is routinely under-graded**, which is a major source of interobserver variability.
+- Position toward the greater curvature with **~2 cm of endoscope visible**; image the whole valve, or take **separate anterior and posterior groove images**.
+
+**Expected appearance by operation** — anterior (Dor/Watson) and posterior (Toupet) wraps give **mirror-image groove patterns**, the single most useful discriminator at endoscopy:
+
+| Procedure | Wrap geometry | Anterior groove | Posterior groove | Endoscopic notes |
+|---|---|---|---|---|
+| **Nissen** (360°) | Circumferential; sutured ~10 o'clock with 3 sutures; **2 cm** long | **Deep** | **Deep** | Snug anteriorly and posteriorly. **You should not be able to see through the fundoplication into the esophagus — that is an overly loose valve** (a gap at the lip alone is acceptable). The lesser-curve portion is not visible endoscopically |
+| **Toupet** (posterior partial) | **270°** posterior, secured at **10 and 2 o'clock** | **Shallow** | **Deep** | "Partial" because the esophagus is exposed between 10 and 2 o'clock |
+| **Dor** (anterior partial) | Anterior plication to ~**9–10 o'clock**; ~**120°–180°** | **Deep** | **Shallow** | No posterior component → **lip may be loose around the scope posteriorly**, with visible esophageal mucosa where there is no wrap |
+| **Watson** (anterior partial) | Anterior plication to ~**7 o'clock**; ~**230°** | **Deep** | **Shallow** | As for Dor |
+| **MSA / LINX** | **No fundoplication is created** — device around the distal esophagus after crural repair | **Shallow** | **Shallow** | Resembles the **native flap valve**; implant hard to see, may look like a **"bulked-up" lip**. **Assess as in the non-operated patient** — revert to the AFS hiatus grade and denote **FV+ / FV−** |
+| **cTIF** | Started at the angle of His (3–4 o'clock); Esophyx rotated ~**135° posteriorly and 135° anteriorly**; ~**270°**, **omega-shaped** immediately post-op | **Moderate to deep** | **Deep** | Lip closely approximates the scope shaft (**partly edema**). **Fasteners** visible, and transmural fasteners also visible antegrade along the **distal 2–3 cm** of esophageal mucosa |
+
+- **Successful anti-reflux surgery is by definition equivalent to an AFS hiatus grade 1** — no hiatal hernia, snug fit to the scope, native SCJ at the lip of the valve. **If no surgically constructed valve is found, the assessment reverts to the AFS hiatus grade.** ⚠ **The AFS hiatus grade criteria I–IV are not defined by this paper** — it cites a separate AFS white paper that is **not ingested**; the Hill/AFS grade block on [[reflux-testing]] therefore stands. Do not infer the grades from the sample notation.
+- **The dilated distal esophagus is the classic misread.** As the distal esophagus dilates it takes on gastric characteristics — apparent **rugal folds and glandular mucosa** ("cardiac mucosa": glandular tissue **without intestinal metaplasia or parietal cells** — the paper calls this "a very controversial topic"). The **SCJ then appears proximally in the distal tubular esophagus, mimicking a distally placed fundoplication**, so a correctly placed wrap can be called malpositioned. **Remedy: document the anatomy intraoperatively, after esophageal dissection and before creating the wrap**, when the end of the esophageal tube can be compared directly with the SCJ.
+- **Routinely perform intraoperative endoscopy to record the baseline post-operative valve appearance** as the comparator for future exams.
+- The three things the endoscopist is checking were achieved: **(1)** restoration of intra-abdominal esophageal length by hernia reduction and repair, **(2)** reapproximation of the crural diaphragm, **(3)** modification of gastroesophageal anatomy to restore valve function — **except in MSA**, where that function is left to the implant.
+- ⚠ **Scope limits:** descriptions are of the **classic, typical *immediate* post-operative** appearance and may change with time; **Hill and Collis lengthening procedures were not examined**; groove depth is a three-level subjective scale with **no stated anchors and no interobserver data**.
+
 ---
 
 ## See Also
@@ -227,3 +269,4 @@ Retching and vomiting can **disrupt the hiatus and the new valve** — hence the
 3. [[asge-2024-gerd|ASGE 2024: Diagnosis and Management of GERD]]
 4. [[padova-2025-hrm-antireflux|Padova Consensus: High-Resolution Manometry Before and After Antireflux Surgery]]
 5. [[afs-2023-transoral-incisionless-fundoplication|American Foregut Society White Paper on Transoral Incisionless Fundoplication (2023)]]
+6. [[afs-2024-ge-valve-after-antireflux-surgery|American Foregut Society White Paper on the Endoscopic Assessment of the Gastroesophageal Valve After Anti-Reflux Surgery (2024)]]

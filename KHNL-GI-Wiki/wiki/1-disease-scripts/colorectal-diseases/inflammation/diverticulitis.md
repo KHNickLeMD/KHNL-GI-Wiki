@@ -3,7 +3,7 @@ title: "Colonic Diverticulitis"
 category: disease-script
 tags: [diverticulitis, diverticular-disease, colorectal, antibiotics, hinchey, scad, sudd]
 created: 2026-07-23
-updated: 2026-09-05
+updated: 2026-09-08
 sources: [acg-2026-diverticulitis]
 ---
 
@@ -134,7 +134,7 @@ Recurrence is common and rises with each episode (10-yr risk: ≥22% after 1st, 
 
 ### What does NOT work (recommend against, for recurrence prevention)
 
-- **Mesalamine** — *strong, moderate certainty* against (ACP 2022 meta-analysis, 6 RCTs n=1,898: OR 1.15, no benefit; more AE discontinuation OR 1.59).
+- **[[mesalamine-5-asa|Mesalamine]]** — *strong, moderate certainty* against (ACP 2022 meta-analysis, 6 RCTs n=1,898: OR 1.15, no benefit; more AE discontinuation OR 1.59).
 - **[[rifaximin|Rifaximin]]** — *conditional* against (only a small, open-label, early-stopped signal).
 - **[[probiotics|Probiotics]]** — *conditional* against (RCT showed no benefit; cost/burden).
 
@@ -142,7 +142,7 @@ Recurrence is common and rises with each episode (10-yr risk: ≥22% after 1st, 
 
 ## See Also
 
-[[colorectal-cancer]], [[colorectal-cancer-screening]], [[colonoscopy]], [[colonoscopy-surveillance]], [[acute-lower-gi-bleeding]], [[ulcerative-colitis]], [[crohns-disease]], [[segmental-colitis-associated-with-diverticulosis]], [[disorders-of-gut-brain-interaction]], [[rifaximin]], [[probiotics]], [[iron-deficiency-anemia]], [[abdominal-bloating-and-distention]], [[clostridioides-difficile]], [[obesity]]
+[[colorectal-cancer]], [[colorectal-cancer-screening]], [[colonoscopy]], [[colonoscopy-surveillance]], [[acute-lower-gi-bleeding]], [[ulcerative-colitis]], [[crohns-disease]], [[segmental-colitis-associated-with-diverticulosis]], [[disorders-of-gut-brain-interaction]], [[rifaximin]], [[probiotics]], [[iron-deficiency-anemia]], [[abdominal-bloating-and-distention]], [[clostridioides-difficile]], [[obesity]], [[mesalamine-5-asa]]
 
 ---
 

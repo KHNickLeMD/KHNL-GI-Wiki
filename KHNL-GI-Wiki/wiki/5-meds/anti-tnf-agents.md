@@ -3,7 +3,7 @@ title: "Anti-TNF Agents (TNF-α Antagonists)"
 category: med
 tags: [anti-tnf, infliximab, adalimumab, certolizumab-pegol, golimumab, biologic, ibd, crohns, ulcerative-colitis, immunogenicity, therapeutic-drug-monitoring, biosimilar, immune-checkpoint-inhibitor]
 created: 2026-09-04
-updated: 2026-09-07
+updated: 2026-09-08
 sources: [acg-2025-crohns, acg-2025-uc, acg-2019-uc, aga-2021-crohns-pharm, aga-2024-uc-pharm, aga-2021-ici-colitis-hepatitis]
 ---
 
@@ -109,7 +109,7 @@ From [[aga-2021-ici-colitis-hepatitis]] (Best Practice Advice 6; expert review �
 | Newly diagnosed active CD | **Top-down** infliximab + immunomodulator should be considered **standard of care** — PROFILE: **79% vs 15%** steroid-free and surgery-free remission at 1 year vs accelerated step-up; biomarkers did not show clinical utility | [[acg-2025-crohns]]. [[aga-2021-crohns-pharm]] Rec 7 makes the same anti–step-up point (Conditional, low) |
 | Anti-TNF **primary** nonresponse (never responded) | **Recommend** ustekinumab; **suggest** vedolizumab | Strong, moderate / Conditional, low ([[aga-2021-crohns-pharm]] Rec 2B) |
 | **Secondary** nonresponse after prior response to infliximab | **Recommend** adalimumab or ustekinumab; **suggest** vedolizumab. *If adalimumab was first-line, indirect evidence supports infliximab as second-line* | Strong, moderate / Conditional, low ([[aga-2021-crohns-pharm]] Rec 2C) |
-| Anti-TNF–**experienced** | **Recommend** risankizumab over ustekinumab (Conditional, low — [[acg-2025-crohns]] Rec 19); **recommend** upadacitinib for induction + maintenance in patients with prior anti-TNF exposure (Strong, moderate — Rec 23) | — |
+| Anti-TNF–**experienced** | **Recommend** risankizumab over ustekinumab (Conditional, low — [[acg-2025-crohns]] Rec 19); **recommend** [[jak-inhibitors\|upadacitinib]] for induction + maintenance in patients with prior anti-TNF exposure (Strong, moderate — Rec 23) | — |
 | Hospitalized **severe to fulminant** CD | Anti-TNF agents are effective; **infliximab may be administered in the inpatient setting** | Key Concept 48 ([[acg-2025-crohns]]) |
 
 **Maintenance efficacy data** ([[acg-2025-crohns]]): in a meta-analysis of 5 trials (1,390 patients), RR of relapse at weeks 26–56 on anti-TNF vs placebo was **0.71 (95% CI 0.65–0.76)**; **NNT = 4 (95% CI 3–5)** to prevent one relapse. Cochrane pooled analysis: infliximab 5 or 10 mg/kg q8wk superior to placebo at week 54; certolizumab 400 mg q4wk superior at week 26; adalimumab 40 mg q2wk or weekly superior at week 54.
@@ -149,7 +149,7 @@ From [[aga-2021-ici-colitis-hepatitis]] (Best Practice Advice 6; expert review �
 | When infliximab is used for induction | **Recommend combination therapy with a thiopurine** | Strong; moderate quality **for azathioprine** ([[acg-2025-uc]] Rec 33) |
 | Maintenance after anti-TNF induction | **Recommend continuing** adalimumab, golimumab, or infliximab (**IV or SC** dosing) | Strong, moderate ([[acg-2025-uc]] Rec 42) |
 | Adalimumab vs vedolizumab | **Recommend vedolizumab over adalimumab** for induction **and** maintenance (VARSITY) | Strong, moderate ([[acg-2025-uc]] Rec 45) |
-| Concomitant 5-ASA, induction | **Suggest against** added 5-ASA for clinical efficacy when an advanced therapy is used after 5-ASA failure | Conditional, very low ([[acg-2025-uc]] Rec 32) |
+| Concomitant [[mesalamine-5-asa\|5-ASA]], induction | **Suggest against** added 5-ASA for clinical efficacy when an advanced therapy is used after 5-ASA failure | Conditional, very low ([[acg-2025-uc]] Rec 32) |
 | Concomitant 5-ASA, maintenance | **Suggest against** concomitant 5-ASA for maintenance efficacy on anti-TNF | Conditional, low ([[acg-2025-uc]] Rec 34) |
 | Losing response | **Measure serum drug levels + antidrug antibodies** (if insufficient drug present) to determine the reason | Conditional, very low ([[acg-2025-uc]] Rec 44) |
 | **After** TNF-antagonist failure | Prefer a **higher-efficacy** agent (tofacitinib, upadacitinib, ustekinumab) **or an intermediate-efficacy** agent | [[aga-2024-uc-pharm]] Rec 4 |
@@ -315,7 +315,7 @@ If not already done before checkpoint-inhibitor therapy: test **hepatitis B (HBs
 
 ## See Also
 
-[[crohns-disease]], [[ulcerative-colitis]], [[inflammatory-bowel-disease]], [[thiopurines]], [[calcineurin-inhibitors]], [[ibd-in-malignancy]], [[ibd-preventive-care]], [[immune-checkpoint-inhibitor-colitis]], [[immune-checkpoint-inhibitor-hepatitis]], [[toxic-megacolon]], [[pouchitis]], [[chronic-hepatitis-b]], [[uc-vs-crohns-comparison]], [[ibd-endoscopic-scoring]], [[il-23-and-il-12-23-inhibitors]]
+[[crohns-disease]], [[ulcerative-colitis]], [[inflammatory-bowel-disease]], [[thiopurines]], [[calcineurin-inhibitors]], [[ibd-in-malignancy]], [[ibd-preventive-care]], [[immune-checkpoint-inhibitor-colitis]], [[immune-checkpoint-inhibitor-hepatitis]], [[toxic-megacolon]], [[pouchitis]], [[chronic-hepatitis-b]], [[uc-vs-crohns-comparison]], [[ibd-endoscopic-scoring]], [[il-23-and-il-12-23-inhibitors]], [[jak-inhibitors]], [[mesalamine-5-asa]]
 
 ---
 

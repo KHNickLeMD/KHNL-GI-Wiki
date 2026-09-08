@@ -3,14 +3,15 @@ title: "Colonoscopy"
 category: general-procedure
 tags: [colonoscopy, crc-screening, polypectomy, surveillance, adenoma, serrated-polyp, colorectal, bowel-prep, split-dose, post-resection, crc-surveillance, metachronous]
 created: 2026-05-07
-updated: 2026-09-07
-sources: [usmstf-2020-followup-colonoscopy, usmstf-2021-crc-screening-age, usmstf-2020-endoscopic-removal, usmstf-2025-bowel-prep, acg-2025-bowel-prep, acg-2014-bowel-cleansing, asge-2015-bowel-preparation, usmstf-2015-crc-surveillance, aga-2025-cade-colonoscopy, aga-2023-ai-colon-polyp, asge-2015-scenic-ibd-dysplasia, aga-2024-glp1-endoscopy, aga-2026-therapeutic-endoscopy-ibd]
+updated: 2026-09-08
+sources: [usmstf-2020-followup-colonoscopy, usmstf-2021-crc-screening-age, usmstf-2020-endoscopic-removal, usmstf-2025-bowel-prep, acg-2025-bowel-prep, acg-2014-bowel-cleansing, asge-2015-bowel-preparation, usmstf-2015-crc-surveillance, aga-2025-cade-colonoscopy, aga-2023-ai-colon-polyp, asge-2015-scenic-ibd-dysplasia, aga-2024-glp1-endoscopy, aga-2026-therapeutic-endoscopy-ibd, aga-2021-ibd-colorectal-dysplasia, aga-2021-gi-perforations-endoscopic-management]
 ---
 
 # Colonoscopy
 
 ## Contents
 - [[#Indications]]
+  - [[#Chromoendoscopy Technique for IBD Surveillance]]
 - [[#Quality Metrics]]
   - [[#Artificial Intelligence (CADe / CADx)]]
 - [[#CRC Screening — When to Start and Stop]]
@@ -38,8 +39,30 @@ sources: [usmstf-2020-followup-colonoscopy, usmstf-2021-crc-screening-age, usmst
 - Positive non-colonoscopy screening test (FIT, Cologuard, FOBT, flexible sig)
 - Surveillance after prior polypectomy or [[colorectal-cancer|CRC]] resection
 - Workup of symptoms (rectal bleeding, [[iron-deficiency-anemia|IDA]], change in bowel habits, weight loss)
-- [[inflammatory-bowel-disease|IBD]] surveillance — perform with high-definition + dye-spray chromoendoscopy per [[asge-2015-scenic-ibd-dysplasia|SCENIC]]; describe lesions as visible (polypoid/nonpolypoid) vs invisible dysplasia
+- [[inflammatory-bowel-disease|IBD]] surveillance — perform with high-definition + dye-spray chromoendoscopy per [[asge-2015-scenic-ibd-dysplasia|SCENIC]]; describe lesions as visible (polypoid/nonpolypoid) vs invisible dysplasia. *Who to survey and how often: [[ulcerative-colitis]] / [[crohns-disease]]. Technique below.*
 - **Therapeutic endoscopy in IBD** — endoscopic balloon dilation of symptomatic benign strictures, fistula endotherapy, and resection of visible dysplasia. Selection criteria, target balloon diameter, and periprocedural drug holds live on [[crohns-disease#Endoscopic Stricture Dilation|crohns-disease]]. [[aga-2026-therapeutic-endoscopy-ibd]]
+
+### Chromoendoscopy Technique for IBD Surveillance
+
+*[[aga-2021-ibd-colorectal-dysplasia|AGA 2021]] — ungraded Best Practice Advice.*
+
+**Dye-spray chromoendoscopy (DCE) — the concentrations:**
+
+| Purpose | Indigo carmine (contrast) | Methylene blue (absorptive) |
+|---|---|---|
+| **Panmucosal** application on withdrawal | **0.03%–0.1%** | **0.04%–0.1%** |
+| **More concentrated**, to define a suspicious lesion's border and topography | **0.13%** | **0.2%** |
+
+- Apply **liberally over the entire colonic mucosal surface during withdrawal**, via spray catheter or waterjet.
+- **Yield:** ~**2×** the dysplasia yield of standard-definition WLE; **1.6×** that of HD-WLE (meta-analysis of 4 RCTs). Consider DCE in **all** patients with colonic IBD under surveillance, **particularly** with a standard-definition scope or a history of dysplasia.
+- ⚠ **No study has evaluated DCE's impact on long-term CRC risk or CRC-related death.**
+
+**Virtual chromoendoscopy (VCE)** — NBI (Olympus), i-scan (Pentax), Fuji intelligent color enhancement:
+
+- **A suitable alternative to DCE when using an HD endoscope.** Meta-analysis of **11 RCTs**: VCE performed **similarly** to DCE and HD-WLE for per-patient dysplasia detection, with **shorter withdrawal times**. Network meta-analyses find **no single technique statistically superior**, though with a trend favoring DCE.
+- ⚠ **Societies still disagree**, and the CPU does not pick a winner: **ASGE** endorses **nontargeted biopsies** as the alternative to DCE when DCE expertise is unavailable or the mucosa is poorly visualized (significant inflammation, pseudopolyposis, poor prep); **ACG and ESGE** endorse **VCE** as the alternative to DCE.
+- **When nontargeted biopsies are still required, and the ~4-biopsies-every-10-cm protocol:** see [[ulcerative-colitis]].
+- **Do not use DCE to hunt for flat lesions within a field of pseudopolyps.**
 
 ---
 
@@ -123,6 +146,9 @@ For detailed technique, see [[polypectomy]].
 ## Complications
 
 - **Perforation:** **0.08% (95% CI 0.06–0.1)** from polypectomy overall — rare but the most serious complication; **1.5% (95% CI 1.2–1.7)** for endoscopic resection of **≥20 mm** lesions (meta-analysis, 50 studies, 6779 lesions). Right colon highest risk with EMR/[[colorectal-esd|ESD]]. [[usmstf-2020-endoscopic-removal]]
+  - **Where it happens:** in *diagnostic* colonoscopy the dominant site is the **sigmoid — 63.8% of 744 colon perforations** — from **direct trauma on forceful scope advancement**; cecum 10%, transverse 9%, rectum 7%. [[aga-2021-gi-perforations-endoscopic-management]]
+  - **Closure at the time of the exam:** a recognized tear in a **stable** patient with a **clean** site → attempt closure. **TTSC or OTSC** if the prep is good and the patient stable — ⚠ but **the cecum and right colon are limited to TTSC**, because a tortuous or unclean colon may make it impossible to reach the defect with an OTSC or a suturing device. **Full closure algorithm, device-by-size table, and the two absolute surgical indications: [[endoscopic-management-of-perforation]].**
+  - **Five-step EMR technique to avoid it:** viscous submucosal injectate (not saline); consider partially reopening and closing the snare before resection to let the muscularis propria drop back; **inspect the resection base for the target sign**; close muscularis propria injury early; consider [[endoscopic-full-thickness-resection|full-thickness resection]] when the polyp will not lift. [[aga-2021-gi-perforations-endoscopic-management]]
 - **Post-polypectomy bleeding:** pooled **9.8 per 1000 colonoscopies (95% CI 7.7–12.1)**; immediate or delayed (up to 30d); risk higher with large lesions, right colon, [[anticoagulation-gi-bleeding|antithrombotics]]. **Benchmark: post-polypectomy bleeding rate should be ≤1 per 100 colonoscopies** (ASGE/ACG Task Force on Quality in Endoscopy, as cited by [[usmstf-2020-endoscopic-removal]]). Device selection for treating it is on [[endoscopic-hemostasis]].
 - **Coagulation syndrome (post-polypectomy syndrome):** fever, localized pain without free air — manage conservatively
 - **Inadequate prep:** document; consider same-day or next-day repeat if unable to visualize >5mm polyps
@@ -256,7 +282,7 @@ High-risk = any of: surgery without TME; transanal local excision (TAE or TEM); 
 
 ## See Also
 
-[[colorectal-cancer]], [[colorectal-cancer-screening]], [[colonoscopy-surveillance]], [[polypectomy]], [[endoscopic-mucosal-resection]], [[colorectal-esd]], [[lynch-syndrome]], [[familial-adenomatous-polyposis]], [[serrated-polyposis-syndrome]], [[inflammatory-bowel-disease]], [[ulcerative-colitis]], [[crohns-disease]], [[artificial-intelligence-endoscopy]], [[endoscopy-sedation]], [[endoscopic-ultrasound]], [[anticoagulation-gi-bleeding]], [[endoscopic-hemostasis]], [[capsule-endoscopy]], [[iron-deficiency-anemia]]
+[[colorectal-cancer]], [[colorectal-cancer-screening]], [[colonoscopy-surveillance]], [[polypectomy]], [[endoscopic-mucosal-resection]], [[colorectal-esd]], [[lynch-syndrome]], [[familial-adenomatous-polyposis]], [[serrated-polyposis-syndrome]], [[inflammatory-bowel-disease]], [[ulcerative-colitis]], [[crohns-disease]], [[artificial-intelligence-endoscopy]], [[endoscopy-sedation]], [[endoscopic-ultrasound]], [[anticoagulation-gi-bleeding]], [[endoscopic-hemostasis]], [[capsule-endoscopy]], [[iron-deficiency-anemia]], [[endoscopic-management-of-perforation]], [[endoscopic-full-thickness-resection]]
 
 ---
 
@@ -275,3 +301,5 @@ High-risk = any of: surgery without TME; transanal local excision (TAE or TEM); 
 11. [[asge-2015-scenic-ibd-dysplasia|SCENIC International Consensus Statement on Surveillance and Management of Dysplasia in Inflammatory Bowel Disease (2015)]]
 12. [[aga-2024-glp1-endoscopy|AGA Rapid Clinical Practice Update on the Management of Patients Taking GLP-1 Receptor Agonists Prior to Endoscopy: Communication (2024)]]
 13. [[aga-2026-therapeutic-endoscopy-ibd|AGA Clinical Practice Update on the Role of Therapeutic Endoscopy in Inflammatory Bowel Disease: Commentary]]
+14. [[aga-2021-ibd-colorectal-dysplasia|AGA Clinical Practice Update on Endoscopic Surveillance and Management of Colorectal Dysplasia in Inflammatory Bowel Diseases: Expert Review (2021)]]
+15. [[aga-2021-gi-perforations-endoscopic-management|AGA Clinical Practice Update on Endoscopic Management of Perforations in Gastrointestinal Tract: Expert Review (2021)]]

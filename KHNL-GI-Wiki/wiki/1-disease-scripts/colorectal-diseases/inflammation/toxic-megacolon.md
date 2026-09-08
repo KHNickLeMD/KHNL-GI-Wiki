@@ -3,7 +3,7 @@ title: "Toxic Megacolon"
 category: disease-script
 tags: [toxic-megacolon, colitis, cdiff, ibd, ulcerative-colitis, asuc, surgical-emergency]
 created: 2026-07-26
-updated: 2026-09-04
+updated: 2026-09-08
 sources: [acg-2025-uc, acg-2021-cdiff]
 ---
 
@@ -93,7 +93,7 @@ Underlying etiologies of toxic megacolon named in ingested sources:
 
 **ASUC substrate:**
 - **IV corticosteroids:** methylprednisolone 60 mg/day **OR** hydrocortisone 100 mg TID–QID.
-- **Day-3 assessment:** if inadequate response, **rescue with infliximab or [[calcineurin-inhibitors|cyclosporine]]**. Choice by provider experience, prior immunomodulator/anti-TNF failure, and albumin; if albumin <2.5 g/dL, consider infliximab **dose intensification (10 mg/kg)**. Insufficient data to use tofacitinib/upadacitinib after IVCS or infliximab failure in ASUC.
+- **Day-3 assessment:** if inadequate response, **rescue with infliximab or [[calcineurin-inhibitors|cyclosporine]]**. Choice by provider experience, prior immunomodulator/anti-TNF failure, and albumin; if albumin <2.5 g/dL, consider infliximab **dose intensification (10 mg/kg)**. Insufficient data to use [[jak-inhibitors|tofacitinib/upadacitinib]] after IVCS or infliximab failure in ASUC.
 - Treat **CMV colitis** if identified in refractory disease — ganciclovir **IV then oral, 14-day course** (response ~**70%**); **valganciclovir** may be appropriate in selected patients. Do **not** withhold colitis therapy while treating CMV, and **do not defer colectomy** to complete the antiviral course in nonresponders.
 
 **Fulminant CDI substrate:**
@@ -132,7 +132,7 @@ flowchart TD
 
 ## See Also
 
-[[ulcerative-colitis]], [[crohns-disease]], [[clostridioides-difficile]], [[colon-ischemia]], [[inflammatory-bowel-disease]], [[colonoscopy]], [[diverticulitis]], [[ibd-endoscopic-scoring]], [[ostomy-management]], [[fmt]], [[loperamide]], [[acute-diarrhea]], [[nutrition-in-ibd]], [[ibd-pain-management]]
+[[ulcerative-colitis]], [[crohns-disease]], [[clostridioides-difficile]], [[colon-ischemia]], [[inflammatory-bowel-disease]], [[colonoscopy]], [[diverticulitis]], [[ibd-endoscopic-scoring]], [[ostomy-management]], [[fmt]], [[loperamide]], [[acute-diarrhea]], [[nutrition-in-ibd]], [[ibd-pain-management]], [[jak-inhibitors]]
 
 ---
 

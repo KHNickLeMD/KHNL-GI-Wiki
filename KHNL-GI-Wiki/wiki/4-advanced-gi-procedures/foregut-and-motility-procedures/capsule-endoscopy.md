@@ -3,7 +3,7 @@ title: "Capsule Endoscopy (Video Capsule Endoscopy)"
 category: advanced-procedure
 tags: [capsule-endoscopy, vce, small-bowel, gi-bleeding, crohns-disease, iron-deficiency-anemia, patency-capsule]
 created: 2026-05-19
-updated: 2026-09-03
+updated: 2026-09-08
 sources: [acg-2015-small-bowel-bleeding, asge-2017-small-bowel-bleeding, acg-2025-crohns, aga-2022-hamartomatous-polyposis, asge-2020-fap]
 ---
 
@@ -64,13 +64,22 @@ sources: [acg-2015-small-bowel-bleeding, asge-2017-small-bowel-bleeding, acg-202
 | **Positive predictive value** | **94–97%** | [[acg-2015-small-bowel-bleeding]] |
 | **Negative predictive value** | **83–100%** | [[acg-2015-small-bowel-bleeding]] |
 | Negative predictive value, [[crohns-disease\|Crohn's disease]] | **96%** | [[acg-2025-crohns]] |
-| False-negative rate | **10–36%** | [[acg-2015-small-bowel-bleeding]] |
+| False-negative rate, **general** | **10–36%** | [[acg-2015-small-bowel-bleeding]] (limitations of VCE) |
+| False-negative rate, **all small-bowel findings** | **11%** | [[acg-2015-small-bowel-bleeding]] (VCE-guided DAE) |
+| False-negative rate, **neoplasms** | **up to 19%** | [[acg-2015-small-bowel-bleeding]] (VCE-guided DAE) |
 | Incidental findings in healthy volunteers (lack of specificity) | **14%** | [[acg-2015-small-bowel-bleeding]] |
 | Findings leading to endoscopic/surgical intervention or change in medical management | **37–87%** | [[acg-2015-small-bowel-bleeding]], [[asge-2017-small-bowel-bleeding]] |
 | Remain transfusion-free without rebleed after VCE-directed intervention | **50–66%** | [[acg-2015-small-bowel-bleeding]] |
 | Rebleeding after a **negative** capsule study | **6–27%** (ACG 2015) — but **6–11%** per ASGE 2017 | ⚠ see below |
 
 ⚠ **Contradiction:** ACG 2015 gives a rebleeding rate of **6–27%** after negative VCE; the newer [[asge-2017-small-bowel-bleeding|ASGE 2017]] guideline states repeat bleeding rates are "generally low (**6%–11%**)." Both are tier-1; the newer ASGE figure takes precedence, but the wider ACG range reflects a different study set.
+
+⚠ **Two false-negative rates, both from ACG 2015 — resolved 2026-09-08.** The guideline prints both and never reconciles them; they are independent estimates from different reference sets, not one statistic mis-transcribed.
+
+- *Limitations of VCE section:* "a lack of specificity with 14% incidental findings in healthy volunteers and a **10–36% false-negative rate**."
+- *VCE-guided DAE section:* "VCE has a **false-negative rate of 11% for all SB findings**, and more importantly, **up to 19% for neoplasms**."
+
+The 11% / 19% pair is the one the guideline attaches to an action: *"in patients with a negative VCE, in whom there is a high clinical suspicion for an SB lesion, [[device-assisted-enteroscopy|DBE]] should still be pursued, including consideration for total enteroscopy."* **Neither figure should be quoted alone as "the" false-negative rate of VCE.**
 
 ## What Raises the Yield
 

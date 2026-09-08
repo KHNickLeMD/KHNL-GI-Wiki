@@ -3,7 +3,7 @@ title: "Early-Onset (Young Adult–Onset) Colorectal Cancer"
 category: disease-script
 tags: [crc, colorectal-cancer, early-onset-crc, young-onset-crc, germline-testing, lynch-syndrome, msi, mmr, fertility-preservation, survivorship]
 created: 2026-09-07
-updated: 2026-09-07
+updated: 2026-09-08
 sources: [aga-2020-young-adult-onset-crc]
 ---
 
@@ -165,7 +165,9 @@ flowchart TD
     I -->|No — sporadic| L["Standard oncologic surgery;<br/>extracolonic screening and CRC<br/>surveillance intervals SAME as<br/>older adult-onset CRC (BPA 6)"]
 ```
 
-*Pathway assembled from Best Practice Advice 1–6 of [[aga-2020-young-adult-onset-crc]]. The CPU's own Figure 1 ("Management of young adult–onset colorectal cancer patients") is an image with no extractable text and has **not** been captured — see the gap note on the source page.*
+*Pathway assembled from the text of Best Practice Advice 1–6 of [[aga-2020-young-adult-onset-crc]].*
+
+> ⚠ **Figure gap — this pathway is a reconstruction, not the source's own figure.** The CPU's **Figure 1, "Management of young adult–onset colorectal cancer patients"** (p. 2419), is a raster image with no extractable text, and figure-capture tooling is unavailable here (PyMuPDF not installed; `pdftoppm`/`pdftohtml` permission-blocked). Any branch or ordering that exists **only** inside Figure 1 is therefore missing from this page. Reconcile once capture is possible — see the gap note on [[aga-2020-young-adult-onset-crc|the source page]].
 
 ### Surgical Management
 
@@ -272,7 +274,7 @@ flowchart TD
 
 ## Text-Extraction Caveats
 
-Three comparison operators in the source PDF are **dropped by text extraction** and are marked ⚠ above rather than guessed. PyMuPDF is not installed in this environment and `pdftohtml` is permission-blocked, so no second extractor was available to confirm them. Verify against the published article before relying on the exact operator:
+Three comparison operators in the source PDF are **dropped by text extraction** and are marked ⚠ above rather than guessed. Verify against the published article before relying on the exact operator:
 
 | Location on this page | Extracted as | Almost certainly |
 |---|---|---|
@@ -280,7 +282,9 @@ Three comparison operators in the source PDF are **dropped by text extraction** 
 | CMS1/CMS2 subtype association, age qualifier | `CRC patients 40 years of age` | `≤40 years of age` |
 | Comparator incidence denominator | `40 per 100,000 for people 50 years of age` | `≥50 years of age` |
 
-The signet-ring proportion also extracts garbled (`at least 3–%13%`) and is rendered here as **3%–13%**.
+**Why the "almost certainly" column is evidence-based rather than a guess** (re-checked 2026-09-08): `pdftotext` returns **zero** `≥`/`≤` characters across the entire article, while `<` survives everywhere it appears (`<50`, `<30`, `<1%`, `<100 polyps`) — often in the *same sentence* as a dropped operator. Since the affected phrases are grammatically incomplete without an operator (*"most likely to be present in CRC patients __ 30 years of age"*), the deleted glyph must be one extraction cannot render, i.e. `≤`/`≥`. **No second extractor was available to recover the exact character** — PyMuPDF is not installed and `pdftoppm` / `pdftohtml` / `pip install` are permission-blocked in this environment.
+
+The signet-ring proportion also extracts garbled (`at least 3–%13%`) and is rendered here as **3%–13%**. Two cells of the source's Table 1 are unreadable for the same reason and are flagged on [[aga-2020-young-adult-onset-crc|the source page]].
 
 The **definition itself extracts cleanly** and is not in doubt: *"CRC diagnosed in individuals 18 - <50 years of age."*
 

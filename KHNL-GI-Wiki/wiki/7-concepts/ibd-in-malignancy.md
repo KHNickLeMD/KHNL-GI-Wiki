@@ -3,8 +3,8 @@ title: "IBD in Patients With Malignancy"
 category: concept
 tags: [ibd, crohns, ulcerative-colitis, malignancy, cancer, thiopurines, biologics, lymphoma, immunosuppression]
 created: 2026-07-26
-updated: 2026-09-06
-sources: [aga-2024-ibd-malignancy]
+updated: 2026-09-08
+sources: [aga-2024-ibd-malignancy, aga-2021-ibd-colorectal-dysplasia]
 ---
 
 Framework for two linked decisions: **(1)** how much cancer risk [[inflammatory-bowel-disease|IBD]] inflammation and IBD drugs confer, and **(2)** what to do with IBD medications when a patient develops an active cancer or has a prior-cancer history. Per the AGA 2024 CPU, the drugs of concern are **[[thiopurines]]** and **[[anti-tnf-agents|anti-TNF]]**; newer classes lack a demonstrated malignancy signal. Age-appropriate cancer screening applies to all IBD patients as in the general population — see [[ibd-preventive-care]] for the vaccination and screening schedule.
@@ -32,7 +32,7 @@ Framework for two linked decisions: **(1)** how much cancer risk [[inflammatory-
 | [[cholangiocarcinoma]] | 4× (7.6 vs 1.9/100,000 PY) | Driven by [[primary-sclerosing-cholangitis\|PSC]] (>150×; 5–10% lifetime) |
 | NMSC / heme / lung (extraintestinal) | CD IRR 2.22 / 2.40 / 1.53 | See drug contributions below |
 
-- Emphasize **mucosal healing** and **dysplasia surveillance** — who/when on [[ulcerative-colitis]] and [[crohns-disease]] (⚠ no ingested source gives a numeric IBD repeat interval), chromoendoscopy technique on [[colonoscopy]]; endoscopic activity indices on [[ibd-endoscopic-scoring]]. The average-risk post-polypectomy grid on [[colonoscopy-surveillance]] explicitly does **not** apply to IBD. (>1/3 of UC-CRC colectomies have synchronous CRC/dysplasia elsewhere — field cancerization.)
+- Emphasize **mucosal healing** and **dysplasia surveillance** — who/when and the **1–5 y risk-stratified interval table** on [[ulcerative-colitis]] and [[crohns-disease]] ([[aga-2021-ibd-colorectal-dysplasia]]), chromoendoscopy technique on [[colonoscopy]]; endoscopic activity indices on [[ibd-endoscopic-scoring]]. The average-risk post-polypectomy grid on [[colonoscopy-surveillance]] explicitly does **not** apply to IBD. (>1/3 of UC-CRC colectomies have synchronous CRC/dysplasia elsewhere — field cancerization.)
 
 ## Cancer Risk From IBD Therapies
 
@@ -41,7 +41,7 @@ Framework for two linked decisions: **(1)** how much cancer risk [[inflammatory-
 | **Thiopurines** | ~2× **NMSC** (persists after stopping → annual derm exam); non-intestinal **lymphoma** SIR 2.8–9.2 (highest absolute risk age >50; highest relative risk age <30); **hepatosplenic T-cell lymphoma** (young males, esp. + anti-TNF, often fatal); possible AML/MDS; **urinary-tract** cancer 2.8× (males); **cervical** high-grade dysplasia/cancer 1.3× (cumulative immunomodulator exposure) |
 | **Anti-TNF** | **Melanoma** — conflicting (one ~2×, others null); **lymphoma** mostly not ↑ with monotherapy but consistently ↑ **combined with thiopurine** (young EBV-unexposed → hepatosplenic T-cell lymphoma) |
 | Methotrexate | Limited data; possible small NMSC ↑ |
-| **JAK inhibitors** | No IBD malignancy signal demonstrated; RA data (ORAL Surveillance, age >50) show ↑ any malignancy vs anti-TNF (NMSC, lung, lymphoma) — extrapolation uncertain |
+| **[[jak-inhibitors\|JAK inhibitors]]** | No IBD malignancy signal demonstrated; RA data (ORAL Surveillance, age >50) show ↑ any malignancy vs anti-TNF (NMSC, lung, lymphoma) — extrapolation uncertain |
 | [[vedolizumab\|Vedolizumab]], [[il-23-and-il-12-23-inhibitors\|ustekinumab, risankizumab, mirikizumab]], ozanimod, etrasimod | No increased malignancy risk shown (long-term data lacking) |
 
 ## Managing IBD Drugs When a Cancer Develops
@@ -77,10 +77,11 @@ Framework for two linked decisions: **(1)** how much cancer risk [[inflammatory-
 
 ## See Also
 
-[[inflammatory-bowel-disease]], [[crohns-disease]], [[ulcerative-colitis]], [[colorectal-cancer]], [[primary-sclerosing-cholangitis]], [[cholangiocarcinoma]], [[immune-checkpoint-inhibitor-colitis]], [[immune-checkpoint-inhibitor-hepatitis]], [[thiopurines]], [[anti-tnf-agents]], [[vedolizumab]], [[ibd-preventive-care]], [[anal-cancer-screening]], [[colonoscopy]], [[colonoscopy-surveillance]], [[ibd-endoscopic-scoring]], [[gastroenteropancreatic-neuroendocrine-tumors]], [[post-transplant-lymphoproliferative-disorder]], [[il-23-and-il-12-23-inhibitors]]
+[[inflammatory-bowel-disease]], [[crohns-disease]], [[ulcerative-colitis]], [[colorectal-cancer]], [[primary-sclerosing-cholangitis]], [[cholangiocarcinoma]], [[immune-checkpoint-inhibitor-colitis]], [[immune-checkpoint-inhibitor-hepatitis]], [[thiopurines]], [[anti-tnf-agents]], [[vedolizumab]], [[ibd-preventive-care]], [[anal-cancer-screening]], [[colonoscopy]], [[colonoscopy-surveillance]], [[ibd-endoscopic-scoring]], [[gastroenteropancreatic-neuroendocrine-tumors]], [[post-transplant-lymphoproliferative-disorder]], [[il-23-and-il-12-23-inhibitors]], [[jak-inhibitors]]
 
 ---
 
 ## Sources
 
 1. [[aga-2024-ibd-malignancy|AGA 2024 Clinical Practice Update: Management of IBD in Patients With Malignancy (Commentary)]]
+2. [[aga-2021-ibd-colorectal-dysplasia|AGA Clinical Practice Update on Endoscopic Surveillance and Management of Colorectal Dysplasia in Inflammatory Bowel Diseases: Expert Review (2021)]]

@@ -160,3 +160,9 @@ The update also names the procedures that carry increased perforation risk (BPA 
 - **Device availability is US-specific and dated (2021):** "covered duodenal stents are not available in the United States at this time." Flag as time-limited if it reaches a page.
 - **POEM orientation.** This update prefers **posterior** POEM on mucosal-injury grounds. Check against [[aga-2024-poem-advances]] and the achalasia guidelines before the wiki asserts a preferred orientation — the newer document wins under the source-priority rule.
 - Not captured: **Supplementary Table 1** is online-only and absent from the ingested PDF.
+
+---
+
+## See Also
+
+[[endoscopic-management-of-perforation]], [[upper-endoscopy]], [[colonoscopy]], [[ercp]], [[endoscopic-submucosal-dissection]], [[endoscopic-mucosal-resection]], [[poem]], [[colonic-stenting]]

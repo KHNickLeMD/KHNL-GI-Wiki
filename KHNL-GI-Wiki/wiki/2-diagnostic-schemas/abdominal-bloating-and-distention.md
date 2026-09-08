@@ -3,8 +3,8 @@ title: "Abdominal Bloating, Distention, and Belching"
 category: diagnostic-schema
 tags: [bloating, distention, belching, aerophagia, dgbi, functional-gi, sibo, fodmap]
 created: 2026-07-19
-updated: 2026-08-30
-sources: [aga-2023-bloating, rome-v-2026-dgbi]
+updated: 2026-09-08
+sources: [aga-2023-bloating, rome-v-2026-dgbi, aga-2020-sibo, acg-2020-sibo]
 ---
 
 ## Contents
@@ -45,7 +45,7 @@ Three prevalent, often-overlapping symptoms; when frequent/severe enough to impa
 - **Overlapping DGBIs** — [[irritable-bowel-syndrome|IBS]] (esp. IBS-C), [[chronic-idiopathic-constipation|functional constipation]], functional dyspepsia ([[dyspepsia]]), [[gastroparesis]].
 - **Food intolerance / malabsorption** — carbohydrate enzyme deficiency (lactase, sucrase), artificial sweeteners/sugar alcohols, fructans. In the largest DGBI cohort, **fructose intolerance was the most common (60%)**, above **lactose intolerance (51%)**, with similar prevalence across DGBI types except IBS-C.
 - **[[celiac-disease]]** and nonceliac gluten sensitivity.
-- **[[small-intestinal-bacterial-overgrowth|SIBO]]** / **[[intestinal-methanogen-overgrowth]]** (methane, *M. smithii*, esp. IBS-C).
+- **[[small-intestinal-bacterial-overgrowth|SIBO]]** / **[[intestinal-methanogen-overgrowth]]** (methane, *M. smithii*, esp. IBS-C). **Bloating is a poor pointer to SIBO** — [[aga-2020-sibo]]: "Contrary to common belief, **diarrhea and not bloating** has the strongest association with SIBO," and in IBS "diarrhea or 'gas,' but not bloating, seem to be the most predictive symptoms." ([[acg-2020-sibo]] still lists bloating as SIBO's most common symptom; the AGA CPU is the later 2020 publication.) Pursue SIBO in a bloating workup on the basis of **risk factors and accompanying diarrhea**, not the bloating itself.
 - **Pelvic floor / defecatory dysfunction** — dyssynergic defecation with retained stool ([[defecation-disorders]]).
 - **Abdominophrenic dyssynergia (APD)** — paradoxical diaphragm descent + anterior abdominal wall relaxation producing visible distention.
 - **Structural / alarm** — [[ascites]], intra-abdominal mass, bowel obstruction/ileus/[[acute-colonic-pseudo-obstruction|pseudo-obstruction]], ovarian cancer (bloating a presenting symptom, esp. women ≥50), [[chronic-pancreatitis]] (bloating despite enzyme replacement).
@@ -66,7 +66,7 @@ Three prevalent, often-overlapping symptoms; when frequent/severe enough to impa
   - Suspected carbohydrate intolerance → **2-week dietary restriction** (simplest/cheapest; symptom resolution = positive) → breath testing if refractory.
   - Bloating + IBS-D features → **celiac serology** (tTG-IgA + total IgA); if positive → small-bowel biopsy.
   - Constipation/difficult evacuation → **anorectal physiology testing + balloon expulsion** to rule out pelvic floor disorder (BPA 8); abdominal x-ray may show stool burden.
-  - Suspected SIBO only with **clear risk factors/severe symptoms** → glucose/lactulose breath test or small-bowel aspirate (reference standard); **not routine** (cutoffs non-standardized).
+  - Suspected SIBO only with **clear risk factors/severe symptoms** → glucose/lactulose breath test or small-bowel aspirate (reference standard); **not routine** (cutoffs non-standardized — [[aga-2020-sibo]] confirms there are "wide discrepancies in thresholds for defining a positive breath test result" and issues no cutoff of its own). Note **lactulose over-calls** relative to glucose or culture, so a lactulose-positive result in a bloating-only patient is weak evidence.
   - Nausea/vomiting present → consider gastric emptying study (not routine for bloating alone, BPA 7); see [[nausea-and-vomiting]].
   - Refractory upper-GI symptoms + weight loss / suspected neuromyopathy → [[small-bowel-motility|antroduodenal manometry]], wireless motility capsule, whole-gut scintigraphy, radiopaque markers (tertiary referral).
 
@@ -122,3 +122,5 @@ Order labs/imaging/endoscopy (BPA 6) when present:
 
 1. [[aga-2023-bloating|AGA Clinical Practice Update on Evaluation and Management of Belching, Abdominal Bloating, and Distention: Expert Review]]
 2. [[rome-v-2026-dgbi|Disorders of Gut–Brain Interaction and the Rome V Process]]
+3. [[aga-2020-sibo|AGA 2020 Clinical Practice Update: Small Intestinal Bacterial Overgrowth (Expert Review)]]
+4. [[acg-2020-sibo|ACG 2020: Small Intestinal Bacterial Overgrowth]]

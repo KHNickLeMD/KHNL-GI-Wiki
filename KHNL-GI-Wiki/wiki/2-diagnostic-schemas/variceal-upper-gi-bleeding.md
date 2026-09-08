@@ -3,8 +3,8 @@ title: "Variceal Upper GI Bleeding"
 category: diagnostic-schema
 tags: [cirrhosis, portal-hypertension, variceal-bleeding, upper-gi-bleeding, hemostasis, antibiotic-prophylaxis, TIPS, EVL, carvedilol, NSBB, gastric-varices, preemptive-TIPS]
 created: 2026-05-15
-updated: 2026-09-06
-sources: [baveno-viii-2026-portal-hypertension, albhaisi-2025-prophylactic-antibiotics-cirrhosis, aasld-2023-portal-hypertension, baveno-vii-2022-portal-hypertension, aga-2024-vasoactive-albumin-cirrhosis, aasld-2024-tips]
+updated: 2026-09-08
+sources: [baveno-viii-2026-portal-hypertension, albhaisi-2025-prophylactic-antibiotics-cirrhosis, aasld-2023-portal-hypertension, baveno-vii-2022-portal-hypertension, aga-2024-vasoactive-albumin-cirrhosis, aasld-2024-tips, aga-2021-bleeding-gastric-varices]
 ---
 
 > **[[baveno-viii-2026-portal-hypertension|Baveno VIII (2026)]] supersedes [[baveno-vii-2022-portal-hypertension|Baveno VII]].** Where they differ this page states the VIII position and names what changed. Notable for this page: the pre-emptive TIPS band, a **24-hour** vasoactive option, individualized antibiotic duration, the removal of the numeric salvage-TIPS futility rule, EUS-guided coil + glue for cardiofundal varices, and EVL over APC for GAVE.
@@ -141,6 +141,35 @@ Bleeding from **GOV2 or IGV1 is a high-risk event** requiring **rapid, structure
 | **Definitive** | Durable bleeding control and prevention of further decompensation | **[[tips\|TIPS]] ± variceal embolisation, performed as soon as possible — the preferred option** (5.41). If TIPS is contraindicated: **transvenous obliteration**, endoscopic therapies (including [[endoscopic-ultrasound\|EUS]]-guided), or surgical methods, chosen by expertise, anatomy and bleeding site after multidisciplinary discussion |
 
 - **Ectopic varices:** either endovascular (TIPS or transvenous obliteration) or endoscopic treatment (5.42)
+
+**Temporizing vs definitive at the index endoscopy** ([[aga-2021-bleeding-gastric-varices|AGA 2021]] — ungraded Best Practice Advice; **outranked by Baveno VIII above wherever they speak to the same question**, but it is the only ingested source for the items below):
+
+- **Give a promotility agent and use a therapeutic endoscope or advanced suctioning device** — intragastric blood frequently obscures the cardia and fundus. **Classify the esophageal varices as well as the gastric ones** at the index exam: the definitive GV therapies differ in their effect on subsequent EV bleeding risk.
+- **Band ligation** achieves initial hemostasis in **45%–93%** but is inferior to cyanoacrylate for long-term control of cardiofundal GV → a reasonable **temporizing** measure that must be followed by definitive therapy. For **lesser-curve GV it is often the best definitive therapy**, given their similarity to EV.
+- **Gastric compression balloons** (Sengstaken-Blakemore, Linton-Nachlas) are highly effective temporizing for cardiofundal and lesser-curve GV — ⚠ **inflate only the gastric balloon**, and proceed to definitive therapy as fast as possible; prolonged balloon tension precipitates mucosal breakdown. *(Baveno VIII 5.35 prefers a dedicated covered SEMS over balloon tamponade as the bridge to TIPS — see step 5.)*
+- **Alcohol-based sclerotherapy (e.g. ethanolamine) is not recommended unless there is no other option** — marginal initial hemostasis, high early rebleeding, deep ulceration.
+- **Cyanoacrylate injection is *not* recommended as a temporizing measure** absent other options: logistics limit its use at the index diagnostic exam, and undefined vascular anatomy (thrombosis, shunting) may affect the result.
+- **Procoagulants (activated factor VII) are not recommended** — thrombotic risk, no efficacy data in GV bleeding.
+
+**Cyanoacrylate injection — how it is done** [[aga-2021-bleeding-gastric-varices]]:
+
+- **Prefer the fastest-polymerizing formulation** to avoid embolization: **4-carbon (butyl) preparations polymerize much faster than 8-carbon (octyl)** and have more supporting data.
+- ⚠ **Do not add plant-based oils (lipiodol)** — radiographic confirmation of success is unnecessary and the additive may **increase distal embolization risk**.
+- **Complications:** glue embolization (pulmonary embolus, stroke) **0.7%** in the largest series, clinically significant events very rare; needle impaction into the varix (case reports); exacerbation of bleeding (rare if glue is injected immediately after needle insertion); portal/splenic vein thrombosis (extremely rare); infection (mainly in actively bleeding patients, who receive antibiotic prophylaxis anyway).
+- **No cyanoacrylate formulation is FDA-approved** as a long-term implant into vascularized human tissue.
+- Perform **only** by endoscopists with specific training, with interventional radiology available for complications.
+
+**Follow-up after definitive therapy — the schedules** [[aga-2021-bleeding-gastric-varices]]:
+
+| After | Do this |
+|---|---|
+| **Cyanoacrylate injection** | Repeat endoscopy **every 2–4 weeks**, re-injecting as needed, **until obliteration is complete**. **Palpate a previously treated cardiofundal varix** with a blunt-tipped instrument or Doppler probe — areas that **dimple or invert merit repeat injection**. Lesser-curve GV: repeat band ligation as for EV eradication. Once eradicated: reassess **within 3–6 months, then yearly** |
+| **[[tips\|TIPS]]** | **Endoscopy at 1 month** to confirm GV resolution — without direct obliteration, continued flow through cardiofundal GV is likely. Shrinking GV may need nothing further; **stable or enlarging cardiofundal GV merit subsequent BRTO** (favored — after TIPS, cyanoacrylate carries increased risk of glue embolization and portal vein thrombosis) **or direct embolization through the patent TIPS**. Persistent lesser-curve GV → repeat band ligation to eradication |
+| **BRTO / transvenous obliteration** | **[[endoscopic-ultrasound\|EUS]] within 48 h** to confirm obliteration, assess EV exacerbation, and set a new baseline — **if residual vascular flow is detected, inject cyanoacrylate**. Unobliterated minimal areas usually thrombose spontaneously within **1–2 months**. Clinic visit + labs + **contrast-enhanced CT/MR at 4–6 weeks**, then **3 and 6 months**, and as clinically indicated. ⚠ **Esophageal varices are exacerbated after BRTO — up to 30%–35% progress in size** and are the commonest source of post-BRTO bleeding: **repeat upper endoscopy within 2 weeks if high-risk EV were present at BRTO, within 4–6 weeks if low-risk**, and treat per standard guidelines |
+| **Any — de novo or recurrent GV on long-term (>12 mo) follow-up** | Repeat cross-sectional imaging and return to multidisciplinary discussion |
+
+- ⚠ *Baveno VIII / [[aasld-2024-tips]] give a **72-hour** CT-or-EUS confirmation and a **1–2 month** follow-up endoscopy after RTO (see [[tips]]); the AGA CPU's 48-hour EUS and 2-/4–6-week EV-risk-stratified endoscopy are the older and more granular version. The newer documents govern the confirmation timing.*
+- **Endovascular therapy is only for proven GV bleeding** — electively after, or emergently during, the first sentinel bleed. **No form of primary prophylaxis for GV was supported** at the time of this CPU, and **endoscopic classification systems must not be used to guide primary prophylaxis** (BPA 1). ⚠ **Superseded:** Baveno VIII 3.21b now permits local therapy for high-risk GOV2/IGV1 when NSBB is contraindicated — see [[portal-hypertension]].
 - ⚠ **What changed:** [[aasld-2023-portal-hypertension]] GS 45 and [[aasld-2024-tips]] GS 26 list cyanoacrylate injection, TIPS, and RTO as three co-equal first-line options. Baveno VIII separates the question into *acute haemostasis* (endoscopic or EUS-guided, with **EUS-guided coil + glue preferred where available**) and *definitive therapy* (**TIPS ± embolisation preferred**), rather than treating them as alternatives to choose between once.
 
 ## Portal Hypertensive Gastropathy and GAVE
@@ -184,3 +213,4 @@ Standard practice recommends prophylactic antibiotics to prevent bacterial infec
 4. [[baveno-vii-2022-portal-hypertension|Baveno VII — Renewing Consensus in Portal Hypertension (2022)]]
 5. [[aga-2024-vasoactive-albumin-cirrhosis|AGA Clinical Practice Update on the Use of Vasoactive Drugs and Intravenous Albumin in Cirrhosis: Expert Review (2024)]]
 6. [[aasld-2024-tips|AASLD Practice Guidance: TIPS, Variceal Embolization, and Retrograde Transvenous Obliteration (2024)]]
+7. [[aga-2021-bleeding-gastric-varices|AGA Clinical Practice Update on Management of Bleeding Gastric Varices: Expert Review (2021)]]

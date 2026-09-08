@@ -3,7 +3,7 @@ title: "Calcineurin Inhibitors"
 category: med
 tags: [calcineurin-inhibitor, tacrolimus, cyclosporine, immunosuppression, transplant, liver-transplant, nephrotoxicity, basiliximab, induction, cni-minimization]
 created: 2026-05-19
-updated: 2026-09-07
+updated: 2026-09-08
 sources: [aasld-2012-liver-transplant-long-term, aasld-ast-2025-liver-transplant-graft-complications, acg-2025-uc]
 ---
 
@@ -56,7 +56,7 @@ Not calcineurin inhibitors, but the agents CNI-minimization converts to or adds 
 
 - **mTOR class adverse effects:** GI intolerance, leukopenia, hyperlipidemia, proteinuria, peripheral edema, impaired wound healing, aphthous stomatitis, interstitial pneumonitis, and hepatic artery thrombosis (sirolimus) — hence the ≥1-month post-LT start.
 - **Antimetabolite adverse effects:** cytopenias, GI, infections, and malignancy (azathioprine adds hepatic and hypersensitivity reactions; mycophenolate is **teratogenic**).
-- **Antimetabolite interactions:** [[proton-pump-inhibitors|PPIs]] and antacids *decrease* mycophenolate systemic exposure (as do calcium-free phosphate binders and drugs interfering with enterohepatic recirculation); aminosalicylates raise azathioprine levels, and azathioprine may inhibit the anticoagulant effect of warfarin.
+- **Antimetabolite interactions:** [[proton-pump-inhibitors|PPIs]] and antacids *decrease* mycophenolate systemic exposure (as do calcium-free phosphate binders and drugs interfering with enterohepatic recirculation); [[mesalamine-5-asa|aminosalicylates]] raise azathioprine levels, and azathioprine may inhibit the anticoagulant effect of warfarin.
 
 ## Cyclosporine in Acute Severe Ulcerative Colitis
 
@@ -150,7 +150,7 @@ Complete IS withdrawal ([[operational-tolerance|operational tolerance]]) is not 
 
 ## See Also
 
-[[tacrolimus]], [[liver-transplantation]], [[operational-tolerance]], [[direct-acting-antivirals]], [[antibody-mediated-rejection-liver-transplant]], [[post-transplant-lymphoproliferative-disorder]], [[ulcerative-colitis]], [[thiopurines]], [[vedolizumab]], [[anti-tnf-agents]], [[toxic-megacolon]]
+[[tacrolimus]], [[liver-transplantation]], [[operational-tolerance]], [[direct-acting-antivirals]], [[antibody-mediated-rejection-liver-transplant]], [[post-transplant-lymphoproliferative-disorder]], [[ulcerative-colitis]], [[thiopurines]], [[vedolizumab]], [[anti-tnf-agents]], [[toxic-megacolon]], [[mesalamine-5-asa]]
 
 ---
 

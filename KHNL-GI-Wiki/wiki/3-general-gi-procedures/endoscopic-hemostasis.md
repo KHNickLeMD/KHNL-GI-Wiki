@@ -3,7 +3,7 @@ title: "Endoscopic Hemostasis"
 category: general-procedure
 tags: [hemostasis, gi-bleeding, ugib, lgib, clips, thermal, hemostatic-powder, over-the-scope-clip, hemostatic-forceps, band-ligation, endoscopy]
 created: 2026-09-06
-updated: 2026-09-06
+updated: 2026-09-08
 sources: [aga-2020-nvugib-endoscopic-therapies, acg-2021-ugib, acg-2023-lgib, acg-2025-egd-quality]
 ---
 
@@ -132,12 +132,9 @@ This page is the **single home for the hemostatic devices themselves** — mecha
 
 ## Noncontact Thermal — Argon Plasma Coagulation
 
-Full page: [[argon-plasma-coagulation]]. Hemostasis-relevant settings only:
-
-| Setting | Context | Source |
-|---|---|---|
-| **1–2 L/min gas flow, 40–70 W, probe 2–10 mm from mucosa** | Ulcer bleeding — **conditional recommendation** | [[acg-2021-ugib]] |
-| **0.8–1.0 L/min, 20–40 W** | Colonic angioectasias — **first-line**; consider submucosal injection before APC for large right-colon lesions | [[acg-2023-lgib]] |
+- **Ulcer bleeding:** APC is a **conditional** recommendation ([[acg-2021-ugib]]) — second tier behind bipolar electrocoagulation, heater probe, or absolute ethanol injection.
+- **Colonic [[angioectasia|angioectasias]]:** APC is **first-line**; consider submucosal injection before APC for large right-colon lesions ([[acg-2023-lgib]]).
+- ⚠ **Settings — power, argon flow, and probe-to-mucosa distance all differ by site**, and the 1–3 mm figure quoted for colonic angioectasias is not the 2–10 mm used in the ulcer trials. **Full settings-by-site table lives on [[argon-plasma-coagulation#Settings by Site]]** — read it there rather than from a single remembered number.
 
 ---
 

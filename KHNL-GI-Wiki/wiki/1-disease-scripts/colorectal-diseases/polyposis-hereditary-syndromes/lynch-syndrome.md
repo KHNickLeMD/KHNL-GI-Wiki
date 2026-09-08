@@ -3,8 +3,8 @@ title: "Lynch Syndrome"
 category: disease-script
 tags: [lynch, hnpcc, mmr, msi, hereditary-crc, endometrial-cancer, oncology, genetic-testing, colorectal-cancer]
 created: 2026-05-19
-updated: 2026-09-06
-sources: [acg-2015-hereditary-gi-cancer, usmstf-2014-lynch-syndrome, usmstf-2017-bmmrd, asge-2022-pancreatic-cancer-screening, nccn-2026-colon-cancer]
+updated: 2026-09-08
+sources: [acg-2015-hereditary-gi-cancer, usmstf-2014-lynch-syndrome, usmstf-2017-bmmrd, asge-2022-pancreatic-cancer-screening, nccn-2026-colon-cancer, aga-2020-young-adult-onset-crc]
 ---
 
 ## Contents
@@ -130,6 +130,7 @@ LS is classified by the causative gene. Share of LS families and the identifying
 - Multi-gene panel testing now widely available; may be preferred when differential is broad
 - If index case tumor unavailable: germline testing of unaffected at-risk individual when PREMM score ≥5%
 - Negative germline result does not definitively exclude LS if phenotype is compelling
+- **CRC diagnosed under 50 — test regardless of family history.** In [[early-onset-colorectal-cancer|young adult–onset CRC]] (18 – <50 y), germline testing is advised **whether or not there is a family history**, by targeted genes on phenotype *or* by multiplex panel; LS is the **most common** hereditary cause found ([[aga-2020-young-adult-onset-crc]] BPA 2). Two timing/yield points that change management live on that page: the result is needed **pre-operatively** because it determines which operation is offered (BPA 4), and **70%** of sporadic young-onset CRC patients have **no** family history — so a negative family history is not a reason to defer testing
 
 ### Relevant Risk Prediction Tools
 
@@ -256,7 +257,7 @@ LS is classified by the causative gene. Share of LS families and the identifying
 
 ## See Also
 
-[[colorectal-polyposis]], [[bmmrd-syndrome]], [[familial-adenomatous-polyposis]], [[mutyh-associated-polyposis]], [[colorectal-cancer]], [[colorectal-cancer-screening]], [[colonoscopy]], [[upper-endoscopy]], [[peutz-jeghers-syndrome]], [[serrated-polyposis-syndrome]], [[gastric-adenocarcinoma]], [[pancreatic-cancer]], [[pancreatic-cancer-screening]], [[endoscopic-ultrasound]], [[helicobacter-pylori-infection]], [[fammm-syndrome]], [[hereditary-pancreatitis]], [[obesity]]
+[[colorectal-polyposis]], [[bmmrd-syndrome]], [[familial-adenomatous-polyposis]], [[mutyh-associated-polyposis]], [[colorectal-cancer]], [[early-onset-colorectal-cancer]], [[colorectal-cancer-screening]], [[colonoscopy]], [[upper-endoscopy]], [[peutz-jeghers-syndrome]], [[serrated-polyposis-syndrome]], [[gastric-adenocarcinoma]], [[pancreatic-cancer]], [[pancreatic-cancer-screening]], [[endoscopic-ultrasound]], [[helicobacter-pylori-infection]], [[fammm-syndrome]], [[hereditary-pancreatitis]], [[obesity]]
 
 ---
 
